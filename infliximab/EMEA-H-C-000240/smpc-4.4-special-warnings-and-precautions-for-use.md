@@ -46,7 +46,7 @@ If active tuberculosis is diagnosed, Remicade therapy must not be initiated (see
 If inactive (‘latent’) tuberculosis is diagnosed, prophylactic anti-tuberculosis therapy must be started before the initiation of Remicade, and in accordance with local recommendations.
 In this situation, the benefit/ risk balance of Remicade therapy should be very carefully considered.
 
-Patients with fistulising Crohn’s disease with acute suppurative fistulas should not initiate Remicade therapy until a source for possible infection, specifically abscess, has been excluded (see section 4.3).
+Patients with fistulising Crohn’s disease with acute suppurative fistulas must not initiate Remicade therapy until a source for possible infection, specifically abscess, has been excluded (see section 4.3).
 
 All patients should be informed to seek medical advice if signs/symptoms suggestive of tuberculosis (e.g. persistent cough, wasting/weight loss, low-grade fever) appear during or after Remicade treatment.
 
@@ -63,7 +63,6 @@ It is recommended that live vaccines not be given concurrently.
 Autoimmune processes
 The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Remicade and is positive for antibodies against double-stranded DNA, further treatment with Remicade must not be given (see section 4.8: “Anti-nuclear antibodies (ANA)/Double-stranded DNA (dsDNA) antibodies”).
-
 Neurological events
 Infliximab and other agents that inhibit TNFα have been associated in rare cases with optic neuritis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disorders, including multiple sclerosis.
 In patients with pre-existing or recent onset of central nervous system demyelinating disorders, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
@@ -86,7 +85,7 @@ Studies have not been performed in patients with liver or renal disease (see sec
 There are insufficient preclinical data to draw conclusions on the effects of infliximab on fertility and general reproductive function (see section 5.3).
 
 There is limited safety experience of surgical procedures in Remicade treated patients.
-The long half life of Remicade should be taken into consideration if a surgical procedure is planned.
+The long half-life of infliximab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Remicade should be closely monitored for infections, and appropriate actions should be taken.
 
 There is limited safety experience of Remicade treatment in patients who have undergone arthroplasty.

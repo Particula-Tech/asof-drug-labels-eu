@@ -43,10 +43,9 @@ If a patient does not respond by 6 weeks (i.e. after 2 doses), no additional tre
 Readministration for Crohn’s disease and rheumatoid arthritis
 If the signs and symptoms of disease recur, Remicade can be readministered within 16 weeks following the last infusion.
 Readministration of Remicade with a drug free interval of 2 to 4 years following a previous infusion has been associated with a delayed hypersensitivity reaction in a significant number of patients with Crohn’s disease (see section 4.4, and section 4.8: “Delayed hypersensitivity”).
-After a drug free interval of >16 weeks to 2 years, the risk of delayed hypersensitivity following readministration is not known.
+After a drug free interval of > 16 weeks to 2 years, the risk of delayed hypersensitivity following readministration is not known.
 Therefore, readministration after a drug free interval of more than 16 weeks can not be recommended.
 This applies to both Crohn’s disease patients and rheumatoid arthritis patients.
-
 Readministration for ankylosing spondylitis
 The safety and efficacy of readministration, other than every 6 to 8 weeks, has not been established.
 

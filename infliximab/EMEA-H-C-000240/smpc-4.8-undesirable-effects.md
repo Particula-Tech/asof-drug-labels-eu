@@ -1,95 +1,96 @@
 # 4.8 Undesirable effects
 
-In clinical studies with infliximab, adverse drug reactions (ADRs) were observed in 61% of infliximab-treated patients and 39% of placebo-treated patients.
-ADRs are listed in Table 1 by system organ class and frequency (common > 1/100, < 1/10; uncommon > 1/1000, < 1/100; rare>1/10,000, <1/1,000).
-Frequency is based on the excess incidence of the ADR compared with placebo in pooled data from clinical studies involving 227 patients receiving placebo and 1442 patients receiving infliximab (primarily rheumatoid arthritis and Crohn’s disease patients).
+In clinical studies with infliximab, adverse drug reactions (ADRs) were observed in approximately 60% of infliximab-treated patients and 40% of placebo-treated patients.
+The adverse reactions listed in Table 1 are based on experience from clinical trials.
+Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (> 1/100, < 1/10); uncommon (> 1/1000, < 1/100); rare (>1/10,000, <1/1,000).
 Infusion-related reactions were the most common ADRs reported.
 Infusion-related reactions (dyspnoea, urticaria and headache) were the most common cause for discontinuation.
 
 Table 1
 Undesirable Effects in Clinical Studies
 
-Resistance mechanism
-Common: Viral infection (e.g. influenza, herpes infections), fever Uncommon: Abscess, cellulitis, moniliasis, sepsis, impaired healing, bacterial infection, tuberculosis, fungal infection
-Rare: Granulomatous lesion
-Immune
-Common: Serum sickness-like reactions
-Uncommon: Autoantibodies, lupus-like syndrome, complement factor abnormality
-Blood
+Infections and infestations
+Common: Viral infection (e.g. influenza, herpes infections)
+Uncommon: Abscess, cellulitis, moniliasis, sepsis, bacterial infection, tuberculosis, fungal infection, hordeolum
+Blood and lymphatic disorders
 Uncommon: Anaemia, leukopenia, lymphadenopathy, lymphocytosis, lymphopenia, neutropenia, thrombocytopenia
-Psychiatric
+Immune system disorders
+Common: Serum sickness-like reactions
+Uncommon: Lupus-like syndrome, respiratory tract allergic reactions, anaphylactic reactions
+Psychiatric disorders
 Uncommon: Depression, confusion, agitation, amnesia, apathy, nervousness, somnolence, insomnia
-Central and peripheral nervous system
+Nervous system disorders
 Common: Headache, vertigo/dizziness
 Uncommon: Exacerbation of demyelinating disease suggestive of multiple sclerosis
 Rare: Meningitis
-Vision and hearing
-Uncommon: Conjunctivitis, endophthalmitis, keratoconjunctivitis Cardiovascular
+Eye disorders
+Uncommon: Conjunctivitis, endophthalmitis, keratoconjunctivitis, periorbital oedema
+Cardiac disorders
+Uncommon: Syncope, bradycardia, palpitation, cyanosis, arrythmia, worsening heart failure
+Rare: Tachycardia
+Vascular disorders
 Common: Flushing
-Uncommon: Ecchymosis/haematoma, hypertension, hypotension, syncope, petechia, thrombophleblitis, bradycardia, palpitation, vasospasm, cyanosis, peripheral ischaemia, arrythmia, worsening heart failure Rare: Circulatory failure, tachycardia
-Respiratory system
+Uncommon: Ecchymosis/haematoma, hot flushes, hypertension, hypotension, petechia, thrombophleblitis, vasospasm, peripheral ischaemia Rare: Circulatory failure
+Respiratory, thoracic and mediastinal disorders
 Common: Upper respiratory tract infection, lower respiratory tract infection (e.g. bronchitis, pneumonia), dyspnoea, sinusitis
-Uncommon: Epistaxis, bronchospasm, pleurisy, respiratory tract allergic reaction, pulmonary oedema
+Uncommon: Epistaxis, bronchospasm, pleurisy, pulmonary oedema
 Rare: Pleural effusion
-Gastro-intestinal system
+Gastro-intestinal disorders
 Common: Nausea, diarrhoea, abdominal pain, dyspepsia
-Uncommon: Constipation, gastroesophageal reflux, cheilitis, diverticulitis Rare: Intestinal perforation, intestinal stenosis, gastrointestinal hemorrhage
-Liver and biliary system
-Common: Elevated hepatic transaminases
+Uncommon: Constipation, gastroesophageal reflux, cheilitis, diverticulitis Rare: Intestinal perforation, intestinal stenosis, gastrointestinal haemorrhage
+Hepatobiliary disorders
 Uncommon: Abnormal hepatic function, cholecystitis
 Rare: Hepatitis
-Skin and appendages
-Common: Rash, pruritus, urticaria, increased sweating, dry skin Uncommon: Fungal dermatitis/ onychomycosis, eczema/seborrhoea, hordeolum, bullous eruption, furunculosis, periorbital oedema, hyperkeratosis, rosacea, verruca, abnormal skin pigmentation/colouration, alopoecia
-Musculo-skeletal system
+Skin and subcutaneous tissue disorders
+Common: Rash, pruritus, urticaria, increased sweating, dry skin Uncommon: Fungal dermatitis/onychomycosis, eczema/seborrhoea, bullous eruption, furunculosis, hyperkeratosis, rosacea, verruca, abnormal skin pigmentation/ colouration, alopoecia
+Musculoskeletal and connective tissue disorders
 Uncommon: Myalgia, arthralgia, back pain
-Urinary system
+Renal and urinary disorders
 Uncommon: Urinary tract infection, pyelonephritis
-Reproductive
+Reproductive system and breast disorders
 Uncommon: Vaginitis
-Body as a whole-general
-Common: Fatigue, chest pain, infusion-related reactions
-Uncommon: Oedema, hot flushes, pain, chills/rigors, anaphylactic reactions Administration/application site
-Uncommon: Injection site reactions
+General disorders and administration site conditions
+Common: Fatigue, chest pain, infusion-related reactions, fever Uncommon: Injections site reactions, oedema, pain, chills/rigors, impaired healing
+Rare: Granulomatous lesion
+Investigations
+Common: Elevated hepatic transaminases
+Uncommon: Autoantibodies, complement factor abnormality
 
 Table 2
 Undesirable effects in Post-marketing reports
-(common > 1/100, < 1/10; uncommon > 1/1000, < 1/100; rare > 1/10,000, < 1/1000;
+(common > 1/10 0, < 1/10; uncommon > 1/1000, < 1/100; rare > 1/10,000, < 1/1000;
 very rare < 1/10,000, including isolated reports).
 
-Neurological events
-Rare: Demyelinating disorders (such as multiple sclerosis and optic neuritis), Guillain-Barré syndrome, neuropathies, numbness, tingling, seizure
-Very Rare: Transverse myelitis
-Blood
-Rare: Pancytopenia
-Very Rare: Haemolytic anaemia, idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, agranulocytosis
-Liver and biliary system
-Rare: Hepatitis
-Very rare: Hepatocellular damage
-Body as a whole-general
-Common: Infusion-related reactions
-Uncommon: Anaphylactic reactions
-Rare: Anaphylactic shock
-Resistance mechanism
+Infections and infestations
 Rare: Opportunistic infections (such as tuberculosis, atypical mycobacteria, pneumocystosis, histoplasmosis, coccidioidomycosis, cryptococcosis, aspergillosis, listeriosis and candidiasis)
 Very Rare: Salmonellosis
-Respiratory
-Rare: Interstitial pneumonitis/fibrosis
-Immune
-Rare: Serum sickness, vasculitis
-Cardiac
+Blood and lymphatic system disorders
+Rare: Pancytopenia
+Very Rare: Haemolytic anaemia, idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, agranulocytosis Immune system disorders
+Uncommon: Anaphylactic reactions
+Rare: Anaphylactic shock, serum sickness, vasculitis
+Nervous system disorders
+Rare: Demyelinating disorders (such as multiple sclerosis and optic neuritis), Guillain-Barré syndrome, neuropathies, numbness, tingling, seizure
+Very Rare: Transverse myelitis
+Cardiac disorders
 Very rare: Pericardial effusion
-Skin and appendages
-Rare: Vasculitis (primarily cutaneous)
-Gastro-intestinal system
+Respiratory, thoracic and mediastinal disorders
+Rare: Interstitial pneumonitis/fibrosis
+Gastrointestinal disorders
 Rare: Pancreatitis
+Hepatobiliary disorders
+Rare: Hepatitis
+Very rare: Hepatocellular damage
+Skin and subcutaneous tissue disorders
+Rare: Vasculitis (primarily cutaneous)
+General disorders and administration site conditions
+Common: Infusion-related reactions
 
-Infusion-related reactions: An infusion-related reaction was defined in clinical trials as any adverse event occurring during an infusion or within 1 to 2 hours after an infusion.
-In clinical studies, 20% of infliximab-treated patients compared with 9% of placebo-treated patients experienced an infusion-related effect.
-Among all Remicade infusions, approximately 3% of infliximab infusions were accompanied by non-specific symptoms such as fever or chills, <1% were accompanied by pruritus or urticaria, 1% were accompanied by cardiopulmonary reactions (primarily chest pain, hypotension, hypertension or dyspnoea), and 0.1% were accompanied by combined symptoms of pruritus/urticaria and cardiopulmonary reactions.
-Discontinuation of treatment occurred in 2% of patients, and all patients recovered with or without medical therapy.
+Infusion-related reactions: An infusion-related reaction was defined in clinical studies as any adverse event occurring during an infusion or within 1 to 2 hours after an infusion.
+In clinical studies, approximately 20% of infliximab-treated patients compared with approximately 10% of placebo-treated patients experienced an infusion-related effect.
+Approximately 3% of patients discontinued treatment due to infusions reactions and all patients recovered with or without medical therapy
 
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with Remicade administration.
-
 Delayed hypersensitivity: In a clinical study of 41 patients retreated with infliximab following a 2 to 4 year period without infliximab treatment, 10 patients experienced undesirable effects manifesting 3 to 12 days following infusion.
 In 6 of these patients the effects were considered serious.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash.
@@ -99,7 +100,7 @@ In ongoing studies and post-marketing reports, these events have been rare and h
 
 In a 1-year trial with repeated infusions in patients with Crohn's disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
 
-Immunogenicity: Patients who became positive for antibodies to infliximab were more likely (approximately 2-3 fold) to have an infusion reaction than those who were negative.
+Immunogenicity: Patients who developed antibodies to infliximab were more likely (approximately 2-3 fold) to develop infusion-related reactions.
 Use of concomitant immunosuppressant agents appeared to reduce the frequency of infusion-related reactions.
 In clinical studies using single and multiple infliximab doses ranging from 1 to 20 mg/kg, antibodies to infliximab were detected in 140 of 980 (14%) patients with any immunosuppressant therapy, and in 92 of 383 (24%) patients without immunosuppressant therapy.
 In rheumatoid arthritis patients who received the recommended repeated treatment dose regimens with methotrexate, 6 of 77 (8%) patients developed antibodies to infliximab.
@@ -107,7 +108,6 @@ Of Crohn's disease patients who received maintenance treatment, approximately 6-
 The antibody incidence was 2-3 fold higher for patients treated episodically.
 Due to methodological limitations, a negative assay did not exclude the presence of antibodies to infliximab.
 Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy (see section 4.4: "Infusion reactions and hypersensitivity").
-
 Infections: In clinical studies 35% of infliximab-treated patients were treated for infections compared with 22% of placebo-treated patients.
 Serious infections, such as pneumonia, were reported in 5% of both infliximab-treated patients and placebo-treated patients (see section 4.4).
 
@@ -124,10 +124,11 @@ It is not known if exposure to infliximab can increase the incidence of these di
 The long-term immunosuppressive effects of concomitant use of methotrexate and infliximab are unknown.
 
 Heart failure: In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
-In this trial 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
+In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction
+≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
 At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
 
-Antinuclear antibodies (ANA)/Anti-double-stranded DNA (dsDNA) antibodies: Approximately 52% of 1261 infliximab-treated patients in clinical trials who were ANA negative at baseline developed a positive ANA during the trial compared with approximately 19% of 129 placebo-treated patients.
-In clinical studies, anti-dsDNA antibodies were newly detected in 261 (17%) of 1507 infliximab-treated patients compared with 0% of 162 placebo-treated patients.
-At the last evaluation, 150 of these 261 infliximab-treated patients (57%) remained anti-dsDNA positive.
-Reports of lupus and lupus-like syndromes, remain uncommon.
+Antinuclear antibodies (ANA)/Anti-double-stranded DNA (dsDNA) antibodies: Approximately half of infliximab-treated patients in clinical studies who were ANA negative at baseline developed a positive ANA during the study compared with approximately one-fifth of placebo-treated patients.
+Anti-dsDNA antibodies were newly detected in approximately 17% of infliximab-treated patients compared with 0% of placebo-treated patients.
+At the last evaluation, 57% of infliximab-treated patients remained anti-dsDNA positive.
+Reports of lupus and lupus-like syndromes, however, remain uncommon.

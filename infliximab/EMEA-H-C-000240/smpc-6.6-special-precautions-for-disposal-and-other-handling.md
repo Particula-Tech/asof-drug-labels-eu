@@ -20,8 +20,8 @@ The solution may develop a few fine translucent particles, as infliximab is a pr
 Do not use if opaque particles, discolouration, or other foreign particles are present.
 
 3.
-Dilute the total volume of the reconstituted Remicade solution dose to 250 ml with sodium chloride solution for infusion 9 mg/ml (0,9%).
-This can be accomplished by withdrawing a volume of the sodium chloride solution for infusion 9 mg/ml (0,9%) from the 250-ml glass bottle or infusion bag equal to the volume of reconstituted Remicade.
+Dilute the total volume of the reconstituted Remicade solution dose to 250 ml with sodium chloride 9 mg/ml (0.9%) solution for infusion.
+This can be accomplished by withdrawing a volume of the sodium chloride 9 mg/ml (0.9%) solution for infusion from the 250-ml glass bottle or infusion bag equal to the volume of reconstituted Remicade.
 Slowly add the total volume of reconstituted Remicade solution to the 250-ml infusion bottle or bag.
 Gently mix.
 
@@ -39,6 +39,5 @@ Do not infuse Remicade concomitantly in the same intravenous line with other age
 6.
 Visually inspect parenteral medicinal products for particulate matter or discolouration prior to administration.
 Do not use if visibly opaque particles, discolouration or foreign particulates are observed.
-
 7.
 Discard any unused portion of the solution.
