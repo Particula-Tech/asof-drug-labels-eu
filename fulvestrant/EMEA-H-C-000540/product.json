@@ -1,0 +1,16 @@
+{
+  "active_substance": "fulvestrant",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000540",
+  "eu_number": "EU/1/03/269",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2004-03-09",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/faslodex",
+  "molecule": "fulvestrant",
+  "molecule_name": "FULVESTRANT",
+  "name": "Faslodex",
+  "register_name": "Faslodex",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h269.htm"
+}
