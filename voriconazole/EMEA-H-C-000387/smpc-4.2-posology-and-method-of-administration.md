@@ -63,32 +63,3 @@ If a child is able to swallow tablets, the dose should be administered to the ne
 The pharmacokinetics and tolerability of higher doses have not been characterised in paediatric populations.
 
 Adolescents (12 to 16 years of age): should be dosed as adults.
-
-[VFEND 200 mg film-coated tablets]
-
-(all sentences already above)
-
-[VFEND 200mg powder for solution for infusion]
-
-VFEND requires reconstitution and dilution (see section 6.6) prior to administration as an intravenous infusion.
-Not for bolus injection.
-
-It is recommended that VFEND is administered at a maximum rate of 3 mg/kg per hour over 1 to 2 hours.
-
-If patients are unable to tolerate treatment at 4 mg/kg twice daily, reduce the intravenous dose to 3 mg/kg twice daily.
-
-Rifabutin or phenytoin may be coadministered with voriconazole if the maintenance dose of voriconazole is increased to 5 mg/kg intravenously twice daily, see sections 4.4 and 4.5.
-
-The duration of treatment with the intravenous formulation should be no longer than 6 months (see section 5.3).
-
-In patients with moderate to severe renal dysfunction (creatinine clearance < 50 ml/min), accumulation of the intravenous vehicle, SBECD, occurs.
-Oral voriconazole should be administered to these patients, unless an assessment of the risk benefit to the patient justifies the use of intravenous voriconazole.
-Serum creatinine levels should be closely monitored in these patients and, if increases occur, consideration should be given to changing to oral voriconazole therapy.
-
-A 4 hour haemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment.
-
-The intravenous vehicle, SBECD, is haemodialysed with a clearance of 55 ml/min.
-
-Patients with severe hepatic impairment must be carefully monitored for drug toxicity (see also section 4.8).
-
-If a child is able to swallow tablets, the dose should be administered to the nearest mg/kg dose possible using whole 50 mg tablets.

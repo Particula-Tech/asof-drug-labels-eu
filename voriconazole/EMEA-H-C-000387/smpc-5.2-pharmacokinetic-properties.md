@@ -20,6 +20,7 @@ Distribution
 The volume of distribution at steady state for voriconazole is estimated to be 4.6 l/kg, suggesting extensive distribution into tissues.
 Plasma protein binding is estimated to be 58 %.
 Cerebrospinal fluid samples from eight patients in a compassionate programme showed detectable voriconazole concentrations in all patients.
+
 Metabolism
 In vitro studies showed that voriconazole is metabolised by the hepatic cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
 
@@ -43,7 +44,6 @@ The majority (> 94 %) of the total radioactivity is excreted in the first 96 hou
 
 The terminal half-life of voriconazole depends on dose and is approximately 6 hours at 200 mg (orally).
 Because of non-linear pharmacokinetics, the terminal half-life is not useful in the prediction of the accumulation or elimination of voriconazole.
-
 Pharmacokinetic-Pharmacodynamic relationships
 In 10 therapeutic studies, the median for the average and maximum plasma concentrations in individual subjects across the studies was 2425 ng/ml (inter-quartile range 1193 to 4380 ng/ml) and 3742 ng/ml (inter-quartile range 2027 to 6302 ng/ml), respectively.
 A positive association between mean, maximum or minimum plasma voriconazole concentration and efficacy in therapeutic studies was not found.
@@ -59,6 +59,7 @@ In the same study, no significant differences in Cmax and AUC� were observed b
 In the clinical programme, no dosage adjustment was made on the basis of gender.
 The safety profile and plasma concentrations observed in male and female patients were similar.
 Therefore, no dosage adjustment based on gender is necessary.
+
 Elderly
 In an oral multiple dose study Cmax and AUC� in healthy elderly males (� 65 years) were 61 % and 86 % higher, respectively, than in healthy young males (18-45 years).
 No significant differences in Cmax and AUC� were observed between healthy elderly females (� 65 years) and healthy young females (18- 45 years).
@@ -78,17 +79,3 @@ Protein binding of voriconazole was not affected by impaired hepatic function.
 
 In an oral multiple dose study, AUC� was similar in subjects with moderate hepatic cirrhosis (Child-Pugh B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
 No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh C). See dosing and monitoring recommendations under sections 4.2 and 4.4.
-
-[VFEND 200 mg film-coated tablets]
-
-(all sentences already above)
-
-[VFEND 200mg powder for solution for infusion]
-
-Paediatrics
-A population pharmacokinetic analysis was conducted on data from 35 immunocompromised subjects aged 2 to < 12 years old who were included in the intravenous single or multiple dose pharmacokinetic studies.
-Twenty four of these subjects received multiple doses of voriconazole.
-Average steady state plasma concentrations in children receiving a maintenance dose of 4 mg/kg every 12 hours were similar to those in adults receiving 3 mg/kg every 12hours, with medians of 1186 ng /ml in children and 1155 ng /ml in adults.
-Therefore a maintenance dose of 4 mg/kg every 12 hours is recommended for children aged between 2 to <12 years of age.
-
-In patients with moderate to severe renal dysfunction (serum creatinine levels >2.5 mg /dl), accumulation of the intravenous vehicle, SBECD, occurs.

@@ -10,6 +10,7 @@ Liver dysfunction has usually been reversible on discontinuation of therapy (see
 Monitoring of hepatic function: Patients at the beginning of therapy with voriconazole and patients who develop abnormal liver function tests during VFEND therapy must be routinely monitored for the development of more severe hepatic injury.
 Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
 Discontinuation of VFEND should be considered if clinical signs and symptoms are consistent with liver disease development.
+
 Renal adverse events: Acute renal failure has been observed in severely ill patients undergoing treatment with VFEND.
 Patients being treated with voriconazole are likely to be treated concomitantly with nephrotoxic medications and have concurrent conditions that may result in decreased renal function (see section 4.8).
 
@@ -30,12 +31,3 @@ Rifabutin (CYP450 inducer): Careful monitoring of full blood counts and adverse 
 Concomitant use of voriconazole and rifabutin should be avoided unless the benefit outweighs the risk (see section 4.5).
 
 VFEND tablets contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.
-
-[VFEND 200 mg film-coated tablets]
-
-(all sentences already above)
-
-[VFEND 200mg powder for solution for infusion]
-
-Infusion-related reactions: Infusion-related reactions, predominantly flushing and nausea, have been observed during administration of the intravenous formulation of voriconazole.
-Depending on the severity of symptoms, consideration should be given to stopping treatment (see section 4.8).
