@@ -1,0 +1,16 @@
+{
+  "active_substance": "ertapenem sodium",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000389",
+  "eu_number": "EU/1/02/216",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2002-04-18",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/invanz",
+  "molecule": "ertapenem",
+  "molecule_name": "ERTAPENEM",
+  "name": "Invanz",
+  "register_name": "Invanz",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h216.htm"
+}
