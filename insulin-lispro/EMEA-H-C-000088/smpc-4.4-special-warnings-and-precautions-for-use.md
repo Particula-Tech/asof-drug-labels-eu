@@ -25,23 +25,3 @@ A consequence of the pharmacodynamics of rapid acting insulin analogues is that 
 
 Humalog should only be used in children in preference to soluble insulin when a fast action of insulin might be beneficial.
 For example, in the timing of the injections in relation to meals.
-
-[Humalog 100 U/ml, solution for injection in vial]
-
-(all sentences already above)
-
-[Humalog 100 U/ml, solution for injection in cartridge]
-
-If the 40 U/ml vial is the product normally prescribed, do not take insulin from a 100 U/ml cartridge using a 40 U/ml syringe.
-
-[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
-
-(all sentences already above)
-
-[Humalog - HumaJect 100 U/ml, solution for injection]
-
-(all sentences already above)
-
-[Humalog-Pen 100 U/ml, solution for injection]
-
-(all sentences already above)

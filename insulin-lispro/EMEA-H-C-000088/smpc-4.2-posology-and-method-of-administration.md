@@ -21,29 +21,3 @@ The faster onset of action compared to soluble human insulin is maintained regar
 As with all insulin preparations, the duration of action of Humalog is dependent on dose, site of injection, blood supply, temperature, and physical activity.
 
 Humalog can be used in conjunction with a longer acting human insulin or oral sulphonylurea agents, on the advice of a physician.
-
-[Humalog 100 U/ml, solution for injection in vial]
-
-(all sentences already above)
-
-[Humalog 100 U/ml, solution for injection in cartridge]
-
-(all sentences already above)
-
-[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
-
-The faster onset of action compared to soluble human insulin is maintained regardless of injection site As with all insulin preparations, the duration of action of Humalog is dependent on dose, site of injection, blood supply, temperature, and physical activity.
-
-[Humalog - HumaJect 100 U/ml, solution for injection]
-
-When administered subcutaneously care should be taken when injecting Humalog- HumaJect to ensure that a blood vessel has not been entered.
-
-Humalog-HumaJect takes effect rapidly and has a shorter duration of activity (2 to 5 hours) given subcutaneously as compared with regular insulin.
-The faster onset of action compared to soluble human insulin is maintained regardless of injection site As with all insulin preparations, the duration of action of Humalog-HumaJect is dependent on dose, site of injection, blood supply, temperature, and physical activity.
-
-[Humalog-Pen 100 U/ml, solution for injection]
-
-When administered subcutaneously care should be taken when injecting Humalog-Pen to ensure that a blood vessel has not been entered.
-
-Humalog-Pen takes effect rapidly and has a shorter duration of activity (2 to 5 hours) given subcutaneously as compared with regular insulin.
-As with all insulin preparations, the duration of action of Humalog-Pen is dependent on dose, site of injection, blood supply, temperature, and physical activity.

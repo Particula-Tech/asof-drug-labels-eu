@@ -6,24 +6,3 @@ When considering the clinical relevance of these kinetics, it is more appropriat
 Insulin lispro maintains more rapid absorption when compared to soluble human insulin in patients with renal impairment.
 In patients with type 2 diabetes over a wide range of renal function the pharmacokinetic differences between insulin lispro and soluble human insulin were generally maintained and shown to be independent of renal function.
 Insulin lispro maintains more rapid absorption and elimination when compared to soluble human insulin in patients with hepatic impairment.
-
-[Humalog 100 U/ml, solution for injection in vial]
-
-When considering the clinical relevance of these kinetics, it is more appropriate to examine the glucose utilisation curves
-(as discussed in 5.1).
-
-[Humalog 100 U/ml, solution for injection in cartridge]
-
-(all sentences already above)
-
-[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
-
-(all sentences already above)
-
-[Humalog - HumaJect 100 U/ml, solution for injection]
-
-(all sentences already above)
-
-[Humalog-Pen 100 U/ml, solution for injection]
-
-(all sentences already above)
