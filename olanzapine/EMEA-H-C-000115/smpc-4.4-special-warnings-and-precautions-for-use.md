@@ -14,6 +14,18 @@ The use of olanzapine in the treatment of dopamine agonist associated psychosis 
 In clinical trials, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo (see also 4.8 Undesirable effects), and olanzapine was not more effective than placebo in the treatment of psychotic symptoms.
 In these trials, patients were initially required to be stable on the lowest effective dose of anti-Parkinsonian medications (dopamine agonist) and to remain on the same anti-Parkinsonian medications and dosages throughout the study.
 Olanzapine was started at 2.5 mg/day and titrated to a maximum of 15 mg/day based on investigator judgement.
+Olanzapine is not approved for the treatment of dementia-related psychosis and/or behavioural disturbances and is not recommended for use in this particular group of patients because of an increase in mortality and the risk of cerebrovascular accident.
+In placebo-controlled clinical trials (6-12 weeks duration) of elderly patients (mean age 78 years) with dementia-related psychosis and/or disturbed behaviours, there was a 2-fold increase in the incidence of death in olanzapine-treated patients compared to patients treated with placebo (3.5% vs. 1.5% , respectively).
+The higher incidence of death was not associated with olanzapine dose (mean daily dose 4.4 mg) or duration of treatment.
+Risk factors that may predispose this patient population to increased mortality include age >65 years, dysphagia, sedation, malnutrition and dehydration, pulmonary conditions (e.g., pneumonia, with or without aspiration), or concomitant use of benzodiazepines.
+However, the incidence of death was higher in olanzapine-treated than in placebo-treated patients independent of these risk factors.
+
+In the same clinical trials, cerebrovascular adverse events (CVAE e.g., stroke, transient ischemic attack), including fatalities, were reported.
+There was a 3-fold increase in CVAE in patients treated with olanzapine compared to patients treated with placebo (1.3% vs. 0.4%, respectively).
+All olanzapine- and placebo-treated patients who experienced a cerebrovascular event had pre-existing risk factors.
+Age >75 years and vascular/mixed type dementia were identified as risk factors for CVAE in association with olanzapine treatment.
+The efficacy of olanzapine was not established in these trials.
+
 During antipsychotic treatment, improvement in the patient's clinical condition may take several days to some weeks.
 Patients should be closely monitored during this period.
 
@@ -39,7 +51,6 @@ If a patient develops signs and symptoms indicative of NMS, or presents with une
 Olanzapine should be used cautiously in patients who have a history of seizures or are subject to factors which may lower the seizure threshold.
 Seizures have been reported to occur rarely in patients when treated with olanzapine.
 In most of these cases, a history of seizures or risk factors for seizures were reported.
-
 Tardive Dyskinesia: In comparator studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.
 However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or discontinuation should be considered.
 These symptoms can temporally deteriorate or even arise after discontinuation of treatment.
@@ -99,6 +110,7 @@ As with other antipsychotic medicines, caution should be exercised in patients w
 Tardive Dyskinesia: In comparator oral studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.
 
 As it exhibits in vitro dopamine antagonism, olanzapine may antagonise the effects of direct and indirect dopamine agonists.
+
 Postural hypotension was infrequently observed in the elderly in oral olanzapine clinical trials.
 
 In clinical trials with Zyprexa Powder for Solution for Injection, olanzapine was not associated with a persistent increase in absolute QT or in QTc intervals.

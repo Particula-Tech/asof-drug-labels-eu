@@ -1,7 +1,6 @@
 # 6.4 Special precautions for storage
 
 Store in the original package.
-Keep the bottle tightly closed.
 
 [ZYPREXA 5 mg coated tablets.]
 

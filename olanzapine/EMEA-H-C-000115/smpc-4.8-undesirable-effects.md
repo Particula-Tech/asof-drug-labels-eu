@@ -1,14 +1,17 @@
 # 4.8 Undesirable effects
 
-The only very common (>10%) undesirable effects associated with the use of olanzapine in clinical trials were somnolence and weight gain.
-Abnormal gait has been observed very commonly in clinical trial patients with Alzheimer’s disease.
+Very common (>10%) undesirable effects associated with the use of olanzapine in clinical trials were somnolence and weight gain.
+
+In clinical trials in elderly patients with dementia, olanzapine treatment was associated with a higher incidence of death and cebrebrovascular adverse events compared to placebo (see also section 4.4).
+Very common (>10%) undesirable effects associated with the use of olanzapine in this patient group were abnormal gait and falls.Pneumonia and urinary incontinence were observed commonly (1-10%).
+
 In clinical trials in patients with drug-induced (dopamine agonist) psychosis associated with Parkinson’s disease, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo.
 
 In one clinical trial in patients with bipolar mania, valproate combination therapy with olanzapine resulted in an incidence of neutropenia of 4.1%; a potential contributing factor could be high plasma valproate levels.
 Olanzapine administered with lithium or valproate resulted in increased levels (>10%) of tremor, dry mouth, increased appetite, and weight gain.
 Speech disorder was also reported commonly (1% to 10%).
 During treatment with olanzapine in combination with lithium or divalproex, an increase of >7% from baseline body weight occurred in 17.4% of patients during acute treatment (up to 6 weeks).
-Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of �7% from baseline body weight in 39.9% of patients.
+Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥7% from baseline body weight in 39.9% of patients.
 
 The following table of undesirable effects is based on adverse event reporting and laboratory investigations from clinical trials.
 
@@ -21,8 +24,6 @@ Elevated glucose levels (see note 1 below).
 Elevated triglyceride levels.
 Nervous system disorders
 Very common (>10%): Somnolence.
-Abnormal gait has been observed in clinical trial patients with Alzheimer’s disease.
-Worsening of Parkinsonian symptomatology and hallucinations were reported more frequently in patients with Parkinson’s disease.
 Common (1-10%): Dizziness, akathisia, parkinsonism, dyskinesia.
 (See also note 2 below).
 Cardiac disorders
@@ -42,8 +43,8 @@ Very common (>10%): Elevated plasma prolactin levels, but associated clinical ma
 In most patients, levels returned to normal ranges without cessation of treatment.
 Uncommon (0.1-1%): High creatine phosphokinase.
 
-1In clinical trials with olanzapine in over 5000 patients with baseline non-fasting glucose levels � 7.8 mmol/l, the incidence of non-fasting plasma glucose levels � 11 mmol/l (suggestive of diabetes) was 1.0%, compared to 0.9% with placebo.
-The incidence of non-fasting plasma glucose levels � 8.9 mmol/l but < 11 mmol/l (suggestive of hyperglycaemia) was 2.0%, compared to 1.6% with placebo.
+1In clinical trials with olanzapine in over 5000 patients with baseline non-fasting glucose levels ≤ 7.8 mmol/l, the incidence of non-fasting plasma glucose levels ≥ 11 mmol/l (suggestive of diabetes) was 1.0%, compared to 0.9% with placebo.
+The incidence of non-fasting plasma glucose levels ≥ 8.9 mmol/l but < 11 mmol/l (suggestive of hyperglycaemia) was 2.0%, compared to 1.6% with placebo.
 Hyperglycaemia is also reported as a Very Rare (<0.01%) spontaneous event.
 
 2In clinical trials, the incidence of parkinsonism and dystonia in olanzapine-treated patients was numerically higher, but not statistically significantly different from placebo.

@@ -15,7 +15,7 @@ Gradual tapering of the dose should be considered when discontinuing olanzapine.
 
 Children and adolescents: Olanzapine has not been studied in subjects under 18 years of age.
 
-Elderly patients: A lower starting dose (5 mg/day) is not routinely indicated but should be considered for those 65 and over when clinical factors warrant.
+Elderly patients: A lower starting dose (5 mg/day) is not routinely indicated but should be considered for those 65 and over when clinical factors warrant (see also section 4.4).
 
 Patients with renal and/or hepatic impairment: A lower starting dose (5 mg) should be considered for such patients.
 In cases of moderate hepatic insufficiency (cirrhosis, Child-Pugh Class A or B), the starting dose should be 5 mg and only increased with caution.
@@ -72,7 +72,7 @@ Not more than 3 injections should be given in any 24 hour period.
 
 Gender: The dose and dose range need not be routinely altered for female patients relative to male patients.
 
-Smokers: The dose and dose range need not be routinely altered for non-smokers relative to smokers .
+Smokers: The dose and dose range need not be routinely altered for non-smokers relative to smokers.
 
 When more than one factor is present which might result in slower metabolism (female gender, geriatric age, non-smoking status), consideration should be given to decreasing the dose.
 Additional injections, when indicated, should be conservative in such patients.

@@ -50,6 +50,7 @@ Do not administer intravenously or subcutaneously.
 
 5.
 Discard the syringe and any unused solution in accordance with appropriate clinical procedures.
+
 6.
 Use the solution immediately within 1 hour of reconstitution.
 Do not store above 25º C. Do not freeze.
@@ -62,6 +63,7 @@ Reconstitute ZYPREXA only with the solvent provided in the pack using standard a
 No other solvents should be used for reconstitution.
 
 The syringe includes an integral needle safety guard that is activated after administration of ZYPREXA.
+
 Do not slide the guard during reconstitution and administration, as this will prematurely engage the guard.
 This is irreversible and prevents the use of the syringe and needle.
 

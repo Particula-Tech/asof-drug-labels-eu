@@ -6,7 +6,7 @@ Olanzapine is effective in maintaining the clinical improvement during continuat
 
 Olanzapine is indicated for the treatment of moderate to severe manic episode.
 
-In patients whose manic episode has responded to olanzapine treatment, olanzapine is indicated for the prevention of recurrence in patients with bipolar disorder.
+In patients whose manic episode has responded to olanzapine treatment, olanzapine is indicated for the prevention of recurrence in patients with bipolar disorder (see section 5.1).
 
 4.1.2 Further information on clinical trials
 
@@ -22,7 +22,7 @@ In a multinational, double-blind, comparative study of schizophrenia, schizoaffe
 
 [ZYPREXA 10 mg coated tablets.]
 
-In patients whose manic episode has responded to olanzapine treatment, olanzapine is indicated for the prevention of recurrence in patients with bipolar disorder (see section 5.1).
+(all sentences already above)
 
 [ZYPREXA 15 mg coated tablets.]
 

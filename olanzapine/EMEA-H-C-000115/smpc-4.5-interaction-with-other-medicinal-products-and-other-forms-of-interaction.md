@@ -24,7 +24,6 @@ Olanzapine does not inhibit the main CYP450 isoenzymes in vitro (e.g. 1A2, 2D6, 
 Thus no particular interaction is expected as verified through in vivo studies where no inhibition of metabolism of the following active substances was found: tricyclic antidepressant (representing mostly CYP2D6 pathway), warfarin (CYP2C9), theophylline (CYP1A2) or diazepam (CYP3A4 and 2C19).
 
 Olanzapine showed no interaction when co-administered with lithium or biperiden.
-
 Therapeutic monitoring of valproate plasma levels did not indicate that valproate dosage adjustment is required after the introduction of concomitant olanzapine.
 
 [ZYPREXA 5 mg coated tablets.]

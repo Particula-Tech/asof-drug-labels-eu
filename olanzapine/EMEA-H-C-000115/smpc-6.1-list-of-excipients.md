@@ -35,16 +35,16 @@ Colour mixture pink (titanium dioxide E171, macrogol, lactose monohydrate, hypro
 
 [ZYPREXA 10 mg powder for solution for injection.]
 
-� Lactose monohydrate
-� Tartaric acid, E334
-� Hydrochloric acid.
-This may have been added to adjust pH.
-� Sodium hydroxide.
+- Tartaric acid, E334
+- Hydrochloric acid.
+  This may have been added to adjust pH.
+- Sodium hydroxide.
 
 [ZYPREXA 10 mg powder and solvent for solution for injection.]
 
 Powder for solution for injection:
 
 Solvent :
-� Sodium chloride
-� Water for injections
+
+- Sodium chloride
+- Water for injections
