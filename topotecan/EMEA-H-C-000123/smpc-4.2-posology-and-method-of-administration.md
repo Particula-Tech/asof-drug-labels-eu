@@ -20,6 +20,8 @@ If neutropenia is not adequately managed with G-CSF administration, doses should
 
 Doses should be similarly reduced if the platelet count falls below 25 x 109/l.
 In clinical trials, topotecan was discontinued if the dose had been reduced to 1.0 mg/m2 and a further dose reduction was required to manage adverse effects.
+
+4
 Dosage in Renally Impaired Patients
 Insufficient data are available to make a recommendation for patients with a creatinine clearance <20 ml/min.
 Limited data indicate that the dose should be reduced in patients with moderate renal impairment.
