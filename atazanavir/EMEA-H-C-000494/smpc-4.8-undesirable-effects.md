@@ -82,8 +82,7 @@ disorders: uncommon: gynecomastia
 
 General disorders and administration site conditions: common: asthenia, fatigue;
 uncommon: chest pain, fever, malaise
-
-In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see 4.4).
+In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
 
 Laboratory abnormalities
 The most frequently reported laboratory abnormality in patients receiving regimens containing REYATAZ and one or more NRTIs was elevated total bilirubin (84% Grade 1, 2, 3, or 4).

@@ -33,9 +33,9 @@ Protease inhibitors
 
 Indinavir: indinavir is also associated with indirect (unconjugated) hyperbilirubinemia due to inhibition of UGT.
 Co-administration of REYATAZ and indinavir is not recommended (see 4.4).
-
 Ritonavir: based on data in healthy volunteers, the addition of ritonavir 100 mg to atazanavir 300 mg has been shown to significantly increase the pharmacokinetic parameters of atazanavir (approximately, 2 fold increase of AUC and 7 fold increase of Cmin in comparison to atazanavir 400 mg without ritonavir).
 In patients, the limited pharmacokinetic data currently available suggest that the impact of ritonavir might be less noticeable on the Cmin (approximately, 3 fold increase).
+
 The co-administration of REYATAZ with ritonavir and other protease inhibitors has not been studied, but would be expected to increase exposure to other protease inhibitors.
 Therefore, such co-administration is not recommended.
 
@@ -64,7 +64,7 @@ Concomitant use of simvastatin or lovastatin is not recommended due to an increa
 The risk of myopathy including rhabdomyolysis may also be increased when protease inhibitors, including REYATAZ with ritonavir, are used in combination with atorvastatin, which is also metabolised by CYP3A4.
 Caution should be exercised.
 
-H2-Receptor antagonists and proton pump inhibitors: the effects of H2-receptor antagonists, proton pump inhibitors, or other gastric acid suppressors on REYATAZ have not been studied; however, reduced plasma concentrations of atazanavir may result due to increased gastric pH if these medicinal products are administered with REYATAZ with ritonavir.
+H2-Receptor antagonists: the effects of H2-receptor antagonists on REYATAZ have not been studied; however, reduced plasma concentrations of atazanavir may result due to increased gastric pH if these medicinal products are administered with REYATAZ with ritonavir.
 Caution should be exercised.
 
 Immunosuppressants (cyclosporin, tacrolimus, sirolimus): concentrations of cyclosporin, tacrolimus, or sirolimus may be increased when co-administered with REYATAZ with ritonavir.
@@ -80,6 +80,12 @@ In contrast, ritonavir may decrease ethinyl estradiol concentrations.
 The effects of co-administration of oral contraceptives and REYATAZ with ritonavir have not been studied.
 The concomitant use of REYATAZ and oral contraceptives should be avoided (see 4.4).
 Alternate reliable methods of contraception should be considered.
+
+Proton pump inhibitors: Co-administration of omeprazole (40 mg once daily) with REYATAZ and ritonavir (300/100 mg once daily) resulted in a substantial reduction in atazanavir exposure (approximately 75% decrease in AUC, Cmax, and Cmin).
+Increasing the dose of REYATAZ/ritonavir to 400/100 mg did not compensate for the impact of omeprazole on atazanavir exposure.
+Thus, REYATAZ/ritonavir should not be co-administered with omeprazole.
+Although not studied, other daily doses of omeprazole may produce similar results and, therefore, co-administration of any dose of omeprazole is not recommended.
+In the absence of specific data, the recommendation against co-administration with REYATAZ should be extended to other proton pump inhibitors (see 4.3).
 
 Rifabutin: simultaneous administration of 400 mg of atazanavir and 150 mg of rifabutin once daily for 14 days resulted in no clinically important change in the Cmax or AUC for atazanavir.
 No dose adjustment is needed for REYATAZ.

@@ -26,6 +26,7 @@ In some patients additional factor VIII was given.
 In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.
 A causal relationship has been suggested, although the mechanism of action has not been elucidated.
 Haemophiliac patients should therefore be made aware of the possibility of increased bleeding.
+
 Fat redistribution and metabolic disorders
 Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
 The long-term consequences of these events are currently unknown.
@@ -65,7 +66,6 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 Interactions with other medicinal products
 Co-administration of REYATAZ with simvastatin or lovastatin is not recommended (see 4.5).
-
 Atazanavir is metabolised principally by CYP3A4.
 Co-administration of REYATAZ with ritonavir and medicinal products that induce CYP3A4 is not recommended (see 4.3 and 4.5).
 

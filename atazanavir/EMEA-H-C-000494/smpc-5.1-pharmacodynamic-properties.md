@@ -45,6 +45,7 @@ The proportions of patients with HIV RNA
 The proportions of patients with HIV RNA < 50 copies/ml in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 36% and 42%, respectively.
 By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA < 400 copies/ml (< 50 copies/ml) in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 55% (40%) and 56% (46%), respectively.
 The mean increases from baseline in CD4 cell count were 110 cells/mm3 and 121 cells/mm3 in the REYATAZ + ritonavir and lopinavir + ritonavir arms, respectively.
+
 Two types of analyses were performed based on baseline genotypic mutations.
 The first consisted in assessing the HIV RNA change from baseline in the subgroup of patients with < or ≥ of 4 of the following set of mutations: 10, 20, 24, 32, 33, 36, 46, 48, 50, 54, 63, 71, 73, 82, 84 and 90.
 The second consisted in assessing the HIV RNA change from baseline in the subgroup of patients with < or ≥ of 4 of the following more specific set of mutations: 10, 46, 54, 82, 84, 90.
