@@ -43,3 +43,15 @@ As with other antipsychotics, it is recommended that blood pressure is measured 
 In clinical trials, olanzapine was not associated with a persistent increase in absolute QT intervals.
 Only 8 of 1,685 subjects had increased QTc interval on multiple occasions.
 However, as with other antipsychotics, caution should be exercised when olanzapine is prescribed with drugs known to increase QTc interval, especially in the elderly.
+
+[ZYPREXA 5 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 7.5 mg coated tablets.]
+
+In cases where hepatitis has been diagnosed, olanzapine treatment, should be discontinued.
+
+[ZYPREXA 10 mg coated tablets.]
+
+(all sentences already above)

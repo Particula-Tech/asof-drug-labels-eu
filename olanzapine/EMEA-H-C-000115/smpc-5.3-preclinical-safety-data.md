@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 Acute (Single-dose) toxicity
+
 Signs of oral toxicity in rodents were characteristic of potent neuroleptic compounds: hypoactivity, coma, tremors, clonic convulsions, salivation, and depressed weight gain.
 The median lethal doses were approximately 210 (mice) and 175 (rats) mg/kg.
 Dogs tolerated single oral doses up to 100 mg/kg without mortality.

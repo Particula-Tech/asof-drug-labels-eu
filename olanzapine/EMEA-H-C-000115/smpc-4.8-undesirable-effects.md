@@ -8,6 +8,7 @@ Weight gain was related to a lower pretreatment body mass index (BMI) and initia
 Abnormal gait has been observed in clinical trials in patients with Alzheimer’s disease.
 
 Common (1-10%):
+
 Common undesirable effects associated with the use of olanzapine in clinical trials included dizziness, increased appetite, oedema, orthostatic hypotension, and mild, transient anticholinergic effects including constipation and dry mouth.
 
 Transient, asymptomatic elevations of hepatic transaminases, ALT, AST have been seen, especially in early treatment (see Section 4.4).
@@ -21,7 +22,6 @@ Hyperglycaemia or exacerbation of pre-existing diabetes occasionally associated 
 Uncommon (0.1-1%):
 
 Photosensitivity reaction and bradycardia with or without hypotension or syncope have been reported uncommonly.
-
 Rare (<0.1%):
 
 Rash, hepatitis and priapism have been reported rarely.

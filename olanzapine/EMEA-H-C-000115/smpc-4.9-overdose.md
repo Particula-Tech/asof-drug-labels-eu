@@ -3,6 +3,7 @@
 Signs and Symptoms
 
 Very common symptoms in overdose (>10% incidence) include tachycardia, agitation/ aggressiveness, dysarthria, various extrapyramidal symptoms, and reduced level of consciousness ranging from sedation to coma.
+
 Other medically significant sequelae of overdose include delirium, convulsion, coma, possible neuroleptic malignant syndrome, respiratory depression, aspiration, hypertension or hypotension, cardiac arrhythmias (< 2% of overdose cases) and cardiopulmonary arrest.
 Fatal outcomes have been reported for acute overdoses as low as 450mg but survival has also been reported following acute overdose of 1,500mg.
 
