@@ -1,6 +1,7 @@
 # 4.9 Overdose
 
 Hypoglycaemia may develop over sequential stages:
+
 � Mild hypoglycaemic episodes can be treated by oral administration of glucose or sugary products.
 It is therefore recommended that the diabetic patient constantly carries some sugar lumps or a source of sugar e.g. a few biscuits.
 

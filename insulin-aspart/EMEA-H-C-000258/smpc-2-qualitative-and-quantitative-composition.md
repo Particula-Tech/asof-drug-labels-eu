@@ -1,6 +1,6 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Insulin aspart� ...........................................
+Insulin aspart� .........................................
 100 U/ml
 
 � produced by recombinant DNA technology in Saccharomyces cerevisiae.
