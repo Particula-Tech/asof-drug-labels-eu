@@ -49,16 +49,4 @@ Common: rash
 
 - Blood and lymphatic system disorders
 
-Post-marketing experience: leukopenia, neutropenia, pancytopenia, thrombocytopenia
-
-[Keppra 500 mg film-coated tablets.]
-
-(all sentences already above)
-
-[Keppra 750 mg film-coated tablets.]
-
-E 110 coloring agent may cause allergic reactions.
-
-[Keppra 1000 mg film-coated tablets.]
-
-(all sentences already above)
+Post-marketing experience: leukopenia, neutropenia, pancytopenia, thrombocytopenia.

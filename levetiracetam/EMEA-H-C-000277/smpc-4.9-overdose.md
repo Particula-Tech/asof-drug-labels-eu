@@ -1,11 +1,9 @@
 # 4.9 Overdose
 
 Symptoms
-
 Somnolence, agitation and aggression were observed with Keppra overdoses.
 
 Management of overdose
-
 After an acute overdose, the stomach may be emptied by gastric lavage or by induction of emesis.
 There is no specific antidote for levetiracetam.
 Treatment of an overdose will be symptomatic and may include haemodialysis.

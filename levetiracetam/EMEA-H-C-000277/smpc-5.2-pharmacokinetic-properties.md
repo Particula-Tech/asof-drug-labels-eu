@@ -23,6 +23,7 @@ Distribution
 No tissue distribution data are available in humans.
 Neither levetiracetam nor its primary metabolite are significantly bound to plasma proteins (� 10 %).
 The volume of distribution of levetiracetam is approximately 0.5 to 0.7 l/kg, a value close to the total body water volume.
+
 Biotransformation
 
 Levetiracetam is not extensively metabolised in humans.
@@ -57,10 +58,11 @@ Elderly
 
 In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
 This is related to the decrease in renal function in this population (see section 4.2 “Posology”).
+
 Children (6 to 12 years)
 
 Following single dose administration (20 mg/kg) to epileptic children, the half-life of levetiracetam was 6.0 hours.
-The apparent body clearance was approximately 30 % higher than in epileptic adults.
+The apparent body weight adjusted clearance was approximately 30 % higher than in epileptic adults.
 
 Renal impairment
 
