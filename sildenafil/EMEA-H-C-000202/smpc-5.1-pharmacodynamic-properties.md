@@ -8,6 +8,7 @@ In the natural setting, i.e. with sexual stimulation, it restores impaired erect
 
 The physiological mechanism responsible for erection of the penis involves the release of nitric oxide (NO) in the corpus cavernosum during sexual stimulation.
 Nitric oxide then activates the enzyme guanylate cyclase, which results in increased levels of cyclic guanosine monophosphate (cGMP), producing smooth muscle relaxation in the corpus cavernosum and allowing inflow of blood.
+
 Sildenafil is a potent and selective inhibitor of cGMP specific phosphodiesterase type 5 (PDE5) in the corpus cavernosum, where PDE5 is responsible for degradation of cGMP.
 Sildenafil has a peripheral site of action on erections.
 Sildenafil has no direct relaxant effect on isolated human corpus cavernosum but potently enhances the relaxant effect of NO on this tissue.
@@ -21,7 +22,7 @@ At maximum recommended doses, there is an 80-fold selectivity over PDE1, and ove
 In particular, sildenafil has greater than 4,000-fold selectivity for PDE5 over PDE3, the cAMP-specific phosphodiesterase isoform involved in the control of cardiac contractility.
 
 Two clinical studies were specifically designed to assess the time window after dosing during which sildenafil could produce an erection in response to sexual stimulation.
-In a penile plesthysmography (RigiScan) study of fasted patients, the median time to onset for those who obtained erections of 60% rigidity (sufficient for sexual intercourse) was 25 minutes (range 12-37 minutes) on sildenafil.
+In a penile plethysmography (RigiScan) study of fasted patients, the median time to onset for those who obtained erections of 60% rigidity (sufficient for sexual intercourse) was 25 minutes (range 12-37 minutes) on sildenafil.
 In a separate RigiScan study, sildenafil was still able to produce an erection in response to sexual stimulation 4-5 hours post-dose.
 
 Sildenafil causes mild and transient decreases in blood pressure which, in the majority of cases, do not translate into clinical effects.

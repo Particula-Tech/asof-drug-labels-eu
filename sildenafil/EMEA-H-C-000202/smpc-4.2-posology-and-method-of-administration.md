@@ -26,11 +26,3 @@ VIAGRA is not indicated for individuals below 18 years of age.
 
 Use in patients using other medicines:
 With the exception of ritonavir for which co-administration with sildenafil is not advised (see section 4.4) a starting dose of 25 mg should be considered in patients receiving concomitant treatment with CYP3A4 inhibitors (see section 4.5).
-
-[VIAGRA 50 mg film-coated tablets]
-
-(all sentences already above)
-
-[VIAGRA 100 mg film-coated tablets]
-
-Dosage adjustment are not required in elderly patients.

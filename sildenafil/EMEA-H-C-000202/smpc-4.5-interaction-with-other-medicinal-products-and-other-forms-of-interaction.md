@@ -26,7 +26,6 @@ In normal healthy male volunteers, there was no evidence of an effect of azithro
 Cimetidine (800 mg), a cytochrome P450 inhibitor and non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when co-administered with sildenafil (50 mg) to healthy volunteers.
 
 Grapefruit juice is a weak inhibitor of CYP3A4 gut wall metabolism and may give rise to modest increases in plasma levels of sildenafil.
-
 Single doses of antacid (magnesium hydroxide/aluminium hydroxide) did not affect the bioavailability of sildenafil.
 
 Although specific interaction studies were not conducted for all medicinal products, population pharmacokinetic analysis showed no effect of concomitant medication on sildenafil pharmacokinetics when grouped as CYP2C9 inhibitors (such as tolbutamide, warfarin, phenytoin), CYP2D6 inhibitors (such as selective serotonin reuptake inhibitors, tricyclic antidepressants), thiazide and related diuretics, loop and potassium sparing diuretics, angiotensin converting enzyme inhibitors, calcium channel blockers, beta-adrenoreceptor antagonists or inducers of CYP450 metabolism (such as rifampicin, barbiturates).
@@ -54,6 +53,7 @@ Pooling of the following classes of antihypertensive medication: diuretics, beta
 In a specific interaction study, where sildenafil (100 mg) was co-administered with amlodipine in hypertensive patients, there was an additional reduction on supine systolic blood pressure of 8 mmHg.
 The corresponding additional reduction in supine diastolic blood pressure was 7 mmHg.
 These additional blood pressure reductions were of a similar magnitude to those seen when sildenafil was administered alone to healthy volunteers (see section 5.1).
+
 Simultaneous administration of sildenafil to patients with alpha-blocker therapy may lead to symptomatic hypotension in some patients, in particular with higher dosages of sildenafil (>25 mg).
 This is most likely to occur within 4 hours post sildenafil dosing (for precautions see section 4.4).
 

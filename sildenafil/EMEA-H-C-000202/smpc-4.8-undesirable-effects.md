@@ -17,7 +17,7 @@ Very Rare: < 1/10,000
 | Nervous system disorders Very common | Headache | 10.8 | 2.8 |
 | Common | Dizziness | 2.9 | 1.0 |
 | Eye disorders Common | Altered vision (increased perception of light, blurred vision) | 2.5 | 0.4 |
-| Uncommon | Chromatopsia (mild and transient, predominantly colour tinge to vision) | 1.1 | 0.03 |
+| Common | Chromatopsia (mild and transient, predominantly colour tinge to vision) | 1.1 | 0.03 |
 | Cardiac disorders Common | Palpitation | 1.0 | 0.2 |
 | Vascular disorders Very common | Flushing | 10.9 | 1.4 |
 | Respiratory, thoracic and mediastinal disorders Common | Nasal congestion | 2.1 | 0.3 |
@@ -35,21 +35,3 @@ In postmarketing surveillance the following adverse events have been uncommonly 
 | Gastrointestinal disorders | vomiting |
 | Skin and subcutaneous tissue disorders | skin rash |
 | Reproductive system and breast disorders | prolonged erection, priapism |
-
-[VIAGRA 50 mg film-coated tablets]
-
-| Table 1 |  |  |  |
-| --- | --- | --- | --- |
-| MedDRA System Organ Class | Adverse Reaction | Sildenafil (%) N=3350 | Placebo (%) N=2995 |
-| Nervous system disorders Very common | Headache | 10.8 | 2.8 |
-| Common | Dizziness | 2.9 | 1.0 |
-| Eye disorders Common | Altered vision (increased perception of light, blurred vision) | 2.5 | 0.4 |
-| Common | Chromatopsia (mild and transient, predominantly colour tinge to vision) | 1.1 | 0.03 |
-| Cardiac disorders Common | Palpitation | 1.0 | 0.2 |
-| Vascular disorders Very common | Flushing | 10.9 | 1.4 |
-| Respiratory, thoracic and mediastinal disorders Common | Nasal congestion | 2.1 | 0.3 |
-| Gastrointestinal disorders Common | Dyspepsia | 3.0 | 0.4 |
-
-[VIAGRA 100 mg film-coated tablets]
-
-(all sentences already above)
