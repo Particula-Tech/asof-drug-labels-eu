@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: acetylcholinesterase inhibitor; ATC-code: N06D A03
+
 Rivastigmine is an acetylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones.
 Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits associated with Alzheimer’s disease.
 
@@ -9,9 +10,10 @@ In man, an oral 3 mg dose decreases acetylcholinesterase activity in CSF by appr
 Activity of the enzyme returns to baseline levels about 9 hours after the maximum inhibitory effect has been achieved.
 In patients with Alzheimer’s disease, inhibition of acetylcholinesterase in CSF by rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested.
 
+1.1.1.
 Clinical studies
 
-The efficacy of Rivastigmine has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
+The efficacy of rivastigmine has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
 These include the ADAS-Cog (a performance based measure of cognition), the CIBIC-Plus (a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the PDS (a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities relating to finances, etc.).
 
 The results for clinically relevant responders pooled from two flexible dose studies out of the three pivotal 26-week multicentre studies in patients with mild-to-moderately severe Alzheimer’s Dementia, are provided in Table 1 below.
@@ -21,7 +23,6 @@ In addition, a post-hoc definition of response is provided in the same table.
 The secondary definition of response required a 4-point or greater improvement on the ADAS-Cog, no worsening on the CIBIC-Plus, and no worsening on the PDS.
 The mean actual daily dose for responders in the 6-12 mg group, corresponding to this definition, was 9.3 mg.
 It is important to note that the scales used in this indication vary and direct comparisons of results for different therapeutic agents are not valid.
-
 Table 1
 
 |  | Patients with Clinically Significant Response (%) |  |  |  |
@@ -37,7 +38,7 @@ Table 1
 
 [EXELON 3 mg hard capsules]
 
-(all sentences already above)
+1.1.2.
 
 [EXELON 4.5 mg hard capsules]
 
@@ -45,7 +46,7 @@ Table 1
 
 [EXELON 6 mg hard capsules]
 
-(all sentences already above)
+1.1.3.
 
 [EXELON 2 mg/ml Oral Solution]
 

@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-3 years
+4 years
 
 [EXELON 3 mg hard capsules]
 
@@ -16,4 +16,4 @@
 
 [EXELON 2 mg/ml Oral Solution]
 
-2 years
+3 years
