@@ -1,0 +1,16 @@
+{
+  "active_substance": "rituximab",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000165",
+  "eu_number": "EU/1/98/067",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "1998-06-02",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/mabthera",
+  "molecule": "rituximab",
+  "molecule_name": "RITUXIMAB",
+  "name": "MabThera",
+  "register_name": "Mabthera",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h067.htm"
+}
