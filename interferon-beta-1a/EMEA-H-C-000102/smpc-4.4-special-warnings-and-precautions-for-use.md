@@ -3,17 +3,22 @@
 Patients should be informed of the most common adverse events associated with interferon beta administration, including symptoms of the flu-like syndrome (see 4.8 Undesirable effects).
 These symptoms tend to be most prominent at the initiation of therapy and decrease in frequency and severity with continued treatment.
 
-AVONEX should be used with caution in patients with depression.
-Depression and suicidal ideation are known to occur in association with interferon use and to occur at an increased frequency in the MS population.
-Patients treated with AVONEX should be advised to immediately report any symptom of depression and/or suicidal ideation to their prescribing physician.
+AVONEX, as other interferons, should be used with caution in patients with depression or other mood disorders, conditions that are common with multiple sclerosis.
+Depression has been reported in association with AVONEX use and it may occur at any time during treatment.
+Patients treated with AVONEX should be advised to immediately report any symptoms of depression and/or suicidal ideation to their prescribing physician.
 Patients exhibiting depression should be monitored closely during therapy with AVONEX and treated appropriately.
-Cessation of therapy with AVONEX should be considered.
+Cessation of therapy should be considered.
 
 Caution should be exercised when administering AVONEX to patients with pre-existing seizure disorder.
 For patients without a pre-existing seizure disorder who develop seizures during therapy with AVONEX, an etiologic basis should be established and appropriate anti-convulsant therapy instituted prior to resuming AVONEX treatment.
 
 Caution should be used and close monitoring considered when administering AVONEX to patients with severe renal and hepatic failure and to patients with severe myelosuppression.
 
+Hepatic injury including elevated serum hepatic enzyme levels, hepatitis, autoimmune hepatitis and hepatic failure has been reported with Interferon beta in post-marketing.
+In some patients a recurrence of elevated serum levels of hepatic enzymes has occurred upon AVONEX rechallenge.
+In some cases, these events have occurred in the presence of other drugs that have been associated with hepatic injury.
+The potential of additive effects from multiple drugs or other hepatotoxic agents (e.g., alcohol) has not been determined.
+Patients should be monitored for signs of hepatic injury and caution exercised when interferons are used concomitantly with other drugs associated with hepatic injury.
 Patients with cardiac disease, such as angina, congestive heart failure or arrhythmia, should be closely monitored for worsening of their clinical condition during treatment with AVONEX.
 Symptoms of the flu-like syndrome associated with AVONEX therapy may prove stressful to patients with underlying cardiac conditions.
 
@@ -22,6 +27,7 @@ Patients should be advised about the abortifacient potential of interferon beta 
 Laboratory abnormalities are associated with the use of interferons.
 Therefore, in addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, complete and differential white blood cell counts, platelet counts, and blood chemistry, including liver function tests, are recommended during AVONEX therapy.
 Patients with myelosuppression may require more intensive monitoring of complete blood cell counts, with differential and platelet counts.
+
 Patients may develop antibodies to AVONEX.
 The antibodies of some of those patients reduce the activity of interferon beta-1a in vitro (neutralising antibodies).
 Neutralising antibodies are associated with a reduction in the in vivo biological effects of AVONEX and may potentially be associated with a reduction of clinical efficacy.
@@ -37,6 +43,9 @@ The use of various assays to detect serum antibodies to interferons limits the a
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
 Patients should be advised about the abortifacient potential of interferon beta (see 4.6 Pregnancy and lactation and 5.3 Preclinical safety data).
+
 Therefore, in addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, complete and differential white blood cell counts, platelet counts, and blood chemistries, including liver function tests, are recommended during AVONEX therapy.
 
 Recent clinical studies with patients treated up to 3 years with AVONEX suggest that approximately 5% to 8% develop neutralising antibodies.
+
+The tip-cap of the pre-filled syringe contains dry natural rubber, which may cause allergic reactions.

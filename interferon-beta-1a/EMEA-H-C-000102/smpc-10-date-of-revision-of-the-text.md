@@ -1,7 +1,7 @@
 # 10. DATE OF REVISION OF THE TEXT
 
 AVONEX 30µg (Interferon beta-1a)
-BIO-SET presentation
+BIO-SET Presentation
 
 [AVONEX 30 µg powder and solvent for solution for injection (SmPC 2)]
 
