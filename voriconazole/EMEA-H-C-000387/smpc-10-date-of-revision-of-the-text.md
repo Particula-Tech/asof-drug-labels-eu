@@ -1,1 +1,3 @@
 # 10. DATE OF REVISION OF THE TEXT
+
+** July 2003

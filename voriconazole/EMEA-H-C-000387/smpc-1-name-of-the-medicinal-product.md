@@ -5,3 +5,7 @@ VFEND 50 mg film-coated tablets
 [VFEND 200 mg film-coated tablets]
 
 VFEND 200 mg film-coated tablets
+
+[VFEND 200mg powder for solution for infusion]
+
+VFEND 200mg powder for solution for infusion

@@ -9,7 +9,6 @@ Greater than proportional increase in exposure is observed with increasing dose.
 It is estimated that, on average, increasing the oral dose from 200 mg twice daily to 300 mg twice daily leads to a 2.5-fold increase in exposure (AUC�).
 When the recommended intravenous or oral loading dose regimens are administered, plasma concentrations close to steady state are achieved within the first 24 hours of dosing.
 Without the loading dose, accumulation occurs during twice daily multiple dosing with steady-state plasma voriconazole concentrations being achieved by day 6 in the majority of subjects.
-
 Absorption
 Voriconazole is rapidly and almost completely absorbed following oral administration, with maximum plasma concentrations (Cmax) achieved 1-2 hours after dosing.
 The absolute bioavailability of voriconazole after oral administration is estimated to be 96 %.
@@ -44,6 +43,7 @@ The majority (> 94 %) of the total radioactivity is excreted in the first 96 hou
 
 The terminal half-life of voriconazole depends on dose and is approximately 6 hours at 200 mg (orally).
 Because of non-linear pharmacokinetics, the terminal half-life is not useful in the prediction of the accumulation or elimination of voriconazole.
+
 Pharmacokinetic-Pharmacodynamic relationships
 In 10 therapeutic studies, the median for the average and maximum plasma concentrations in individual subjects across the studies was 2425 ng/ml (inter-quartile range 1193 to 4380 ng/ml) and 3742 ng/ml (inter-quartile range 2027 to 6302 ng/ml), respectively.
 A positive association between mean, maximum or minimum plasma voriconazole concentration and efficacy in therapeutic studies was not found.
@@ -51,7 +51,6 @@ A positive association between mean, maximum or minimum plasma voriconazole conc
 Pharmacokinetic-Pharmacodynamic analyses of clinical trial data identified positive associations between plasma voriconazole concentrations and both liver function test abnormalities and visual disturbances.
 
 Pharmacokinetics in special patient groups
-
 Gender
 In an oral multiple dose study, Cmax and AUC� for healthy young females were 83 % and 113 % higher, respectively, than in healthy young males (18-45 years).
 In the same study, no significant differences in Cmax and AUC� were observed between healthy elderly males and healthy elderly females (� 65 years).
@@ -79,3 +78,17 @@ Protein binding of voriconazole was not affected by impaired hepatic function.
 
 In an oral multiple dose study, AUC� was similar in subjects with moderate hepatic cirrhosis (Child-Pugh B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
 No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh C). See dosing and monitoring recommendations under sections 4.2 and 4.4.
+
+[VFEND 200 mg film-coated tablets]
+
+(all sentences already above)
+
+[VFEND 200mg powder for solution for infusion]
+
+Paediatrics
+A population pharmacokinetic analysis was conducted on data from 35 immunocompromised subjects aged 2 to < 12 years old who were included in the intravenous single or multiple dose pharmacokinetic studies.
+Twenty four of these subjects received multiple doses of voriconazole.
+Average steady state plasma concentrations in children receiving a maintenance dose of 4 mg/kg every 12 hours were similar to those in adults receiving 3 mg/kg every 12hours, with medians of 1186 ng /ml in children and 1155 ng /ml in adults.
+Therefore a maintenance dose of 4 mg/kg every 12 hours is recommended for children aged between 2 to <12 years of age.
+
+In patients with moderate to severe renal dysfunction (serum creatinine levels >2.5 mg /dl), accumulation of the intravenous vehicle, SBECD, occurs.
