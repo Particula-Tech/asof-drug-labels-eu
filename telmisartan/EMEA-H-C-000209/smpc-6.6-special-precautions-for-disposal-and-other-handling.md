@@ -1,3 +1,3 @@
 # 6.6 Instructions for use and handling
 
-No special requirements.
+No special requirements

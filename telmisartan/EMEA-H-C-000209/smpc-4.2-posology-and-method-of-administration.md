@@ -14,5 +14,5 @@ Hepatic impairment: in patients with mild to moderate hepatic impairment the pos
 Elderly
 No dosing adjustment is necessary.
 
-Children
-Safety and efficacy of Micardis have not been established in children and in subjects up to 18 years.
+Children and adolescents
+Safety and efficacy of Micardis have not been established in children and adolescents up to 18 years.

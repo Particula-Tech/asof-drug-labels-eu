@@ -1,6 +1,6 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-07 September 1999
+7 September 1999
 
 [Micardis 40 mg tablets]
 

@@ -1,9 +1,15 @@
 # 4.4 Special warnings and special precautions for use
 
+Hepatic impairment:
+Micardis should not be given to patients with cholestasis, biliary obstructive disorders or severe hepatic insufficiency (see 4.3 Contraindications) since telmisartan is mostly eliminated with the bile.
+These patients can be expected to have reduced hepatic clearance for telmisartan.
+Micardis should be used only with caution in patients with mild to moderate hepatic impairment.
+
 Renovascular hypertension:
 There is an increased risk of severe hypotension and renal insufficiency when patients with bilateral renal artery stenosis or stenosis of the artery to a single functioning kidney are treated with medicinal products that affect the renin-angiotensin-aldosterone system.
 
 Renal impairment and kidney transplant:
+Micardis should not be used in patients with severe renal impairment (creatinine clearance < 30 ml/min) (see 4.3 Contraindications).
 When Micardis is used in patients with impaired renal function, a periodic monitoring of potassium and creatinine serum levels is recommended.
 There is no experience regarding the administration of Micardis in patients with a recent kidney transplant.
 
@@ -22,22 +28,11 @@ Therefore, the use of telmisartan is not recommended.
 Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy:
 As with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
 
-Hyperkalaemia:
-During treatment with other medicinal products that affect the renin-angiotensin-aldosterone system hyperkalaemia may occur, especially in the presence of renal impairment and/or heart failure.
-While this is not documented with telmisartan, adequate monitoring of serum potassium in patients at risk is recommended.
+Electrolyte imbalance: Hyperkalaemia:
+During treatment with other medicinal products that affect the renin-angiotensin-aldosterone system hyperkalaemia may occur, especially in the presence of renal impairment and/or heart failure and diabetes mellitus.
+Adequate monitoring of serum potassium in patients at risk is recommended.
 
-Based on experience with the use of other medicinal products that affect the renin-angiotensin system, concomitant use with potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium or other medicinal products that may increase the potassium level (heparin, etc.) may lead to an increase in serum potassium and should therefore be co-administered cautiously with Micardis.
-
-Hepatic impairment:
-Telmisartan is mostly eliminated in the bile.
-Patients with biliary obstructive disorders or severe hepatic insufficiency can be expected to have reduced clearance.
-Therefore, telmisartan should not be given to these patients (see 4.3 Contra-indications).
-Telmisartan should be used only with caution in patients with mild to moderate hepatic impairment.
-
-Active gastric or duodenal ulcer or gastrointestinal pathologies:
-Gastrointestinal adverse events apparently occurred more frequently than with placebo.
-Gastrointestinal bleedings have been reported rarely in clinical trials and this has occurred mainly in patients with baseline gastrointestinal disease.
-Therefore caution should be exercised when administering telmisartan to this group of patients.
+Based on experience with the use of other medicinal products that affect the renin-angiotensin system, concomitant use with potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium or other medicinal products that may increase the potassium level (heparin, etc.) may lead to an increase in serum potassium and should therefore be co-administered cautiously with Micardis (see section 4.5 Interaction with other medicinal products and other forms of interaction).
 
 Sorbitol:
 A recommended daily dose of Micardis 20 mg tablets contains 84.5 mg sorbitol.
@@ -52,5 +47,7 @@ As with any antihypertensive agent, excessive reduction of blood pressure in pat
 A recommended daily dose of Micardis 40 mg tablets contains 169 mg sorbitol.
 
 [Micardis 80 mg tablets]
+
+Micardis should not be used in patients with severe renal impairment (creatinine clearance < 30 ml/min) (see 4.3 Contraindications).When Micardis is used in patients with impaired renal function, a periodic monitoring of potassium and creatinine serum levels is recommended.
 
 A recommended daily dose of Micardis 80 mg tablets contains 338 mg sorbitol.
