@@ -1,6 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
-The pharmacokinetic profile of AVONEX (Interferon beta-1a) has been investigated indirectly with an assay that measures interferon antiviral activity.
+The pharmacokinetic profile of AVONEX has been investigated indirectly with an assay that measures interferon antiviral activity.
 This assay is limited in that it is sensitive for interferon but lacks specificity for interferon beta.
 Alternative assay techniques are not sufficiently sensitive.
 

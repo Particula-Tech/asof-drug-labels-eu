@@ -1,3 +1,7 @@
 # 6.1 List of excipients
 
-Human Serum Albumin, di- and monobasic Sodium Phosphate, Sodium Chloride.
+Sodium acetate,
+Acetic acid, Glacial,
+Arginine Hydrochloride,
+Polysorbate 20,
+Water for injections
