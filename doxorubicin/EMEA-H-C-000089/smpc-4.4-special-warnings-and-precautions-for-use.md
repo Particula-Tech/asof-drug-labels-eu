@@ -12,7 +12,7 @@ If this change occurs, the most definitive test for anthracycline myocardial inj
 More specific methods for the evaluation and monitoring of cardiac functions as compared to ECG are a measurement of left ventricular ejection fraction by echocardiography or preferably by Multiple Gated Arteriography (MUGA).
 These methods should be applied routinely before the initiation of Caelyx therapy and should be repeated periodically during treatment.
 The evaluation of left ventricular function is considered to be mandatory before each additional administration of Caelyx which exceeds a cumulative dose of 450 mg/m2.
-Whenever cardiomyopathy is suspected, i.e., the left ventricular ejection fraction has decreased relatively as compared to pre-treatment values and/or (at the same time) left ventricular ejection are lower than a prognostically relevant value (e.g. < 45%), endomyocardial biopsies should be performed and the benefit of continued therapy must be carefully evaluated against the risk of producing irreversible cardiac damage.
+Whenever cardiomyopathy is suspected, i.e., the left ventricular ejection fraction has decreased relatively as compared to pretreatment values and/or (at the same time) left ventricular ejection are lower than a prognostically relevant value (e.g. < 45%), endomyocardial biopsies should be performed and the benefit of continued therapy must be carefully evaluated against the risk of producing irreversible cardiac damage.
 
 Congestive heart failure due to cardiomyopathy may occur suddenly, without prior ECG changes and may also be encountered several weeks after discontinuation of therapy.
 
@@ -32,13 +32,17 @@ Many AIDS-KS patients treated with Caelyx have baseline myelosuppression due to 
 In this population, myelosuppression appears to be the dose-limiting adverse event (see 4.8 Undesirable effects).
 Because of the potential for bone marrow suppression, periodic blood counts should be performed frequently during the course of Caelyx therapy, and at a minimum, prior to each dose of Caelyx.
 
-Persistent severe myelosuppression may result in superinfection or haemorrhage
+Persistent severe myelosuppression may result in superinfection or haemorrhage.
+
+In controlled clinical trials against a bleomycin/vincristine regimen, opportunistic infections were apparently more frequent during treatment with Caelyx.
+Patients and doctors should be aware of this higher incidence and taken action as appropriate.
 
 Infusion-associated reactions
 
 See Undesirable effects.
 
 Special precautions
+
 Diabetic patients
 
 It should be noted that each vial of Caelyx contains sucrose and is administered in 5% Glucose Intravenous Infusion.

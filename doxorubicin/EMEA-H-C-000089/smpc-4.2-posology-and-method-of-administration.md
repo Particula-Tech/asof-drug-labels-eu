@@ -15,6 +15,7 @@ It is recommended that the Caelyx infusion line be connected through the side po
 Caelyx must not be given by the intramuscular or subcutaneous route.
 
 Patients with impaired hepatic function
+
 In a small number of patients with impaired hepatic function (bilirubin values up to 4 mg/dl) administered 20 mg/m2 of Caelyx, there appeared to be no change in the clearance and terminal half-life of Caelyx.
 However, until further experience is gained, the Caelyx dosage should be reduced in patients with impaired hepatic function, based on experience with conventional doxorubicin HCl.
 Prior to Caelyx administration, hepatic function should be evaluated using conventional clinical laboratory tests such as ALT/AST, alkaline phosphatase, and bilirubin.

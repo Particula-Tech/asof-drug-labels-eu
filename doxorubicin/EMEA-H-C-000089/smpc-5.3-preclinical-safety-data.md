@@ -8,16 +8,12 @@ Cardiotoxicity
 Studies in rabbits have shown that the cardiotoxicity of Caelyx is reduced compared with conventional doxorubicin HCl preparations.
 
 Dermal toxicity
-
 In studies performed after the repeated administration of Caelyx to rats and dogs, serious dermal inflammations and ulcer formations were observed at clinically relevant dosages.
 In the study in dogs, the occurrence and severity of these lesions was reduced by lowering the dose or prolonging the intervals between doses.
 Similar dermal lesions, which are described as palmar-plantar erythrodysesthesia were also observed in patients after long-term intravenous infusion (see section 4.8 Undesirable effects)
-
 Anaphylactoid Response
 
-During repeat dose toxicology studies in dogs, an acute response characterised by hypotension, pale
-
-mucous membranes, salivation, emesis and periods of hyperactivity followed by hypoactivity and lethargy was observed following administration of pegylated liposomes (placebo).
+During repeat dose toxicology studies in dogs, an acute response characterised by hypotension, pale mucous membranes, salivation, emesis and periods of hyperactivity followed by hypoactivity and lethargy was observed following administration of pegylated liposomes (placebo).
 A similar, but less severe response was also noted in dogs treated with Caelyx and doxorubicin.
 
 The hypotensive response was reduced in magnitude by pretreatment with antihistamines.
@@ -33,5 +29,6 @@ Although no studies have been conducted with Caelyx, doxorubicin HCl, the pharma
 Pegylated placebo liposomes are neither mutagenic or genotoxic.
 
 Reproductive Toxicity
+
 Caelyx resulted in mild to moderate ovarian and testicular atrophy in mice after a single dose of 36 mg/kg.
 Decreased testicular weights and hypospermia were present in rats after repeat doses ≥ 0.25 mg/kg/day and diffuse degeneration of the semniferous tubules and a marked decrease in spermatogenesis were observed in dogs after repeat doses of 1 mg/kg/day (See Section 4.6 Use during pregnancy and lactation).

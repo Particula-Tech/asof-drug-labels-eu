@@ -7,7 +7,6 @@ This allows the Caelyx liposomes to circulate for prolonged periods in the blood
 Pegylated liposomes are small enough (average diameter of approximately 100 nm) to pass intact (extravasate) through defective blood vessels supplying tumours.
 Evidence of penetration of pegylated liposomes from blood vessels and their entry and accumulation in tumours has been seen in mice with C-26 colon carcinoma tumours and in transgenic mice with KS-like lesions.
 The pegylated liposomes also have a low permeability lipid matrix and internal aqueous buffer system that combine to keep doxorubicin HCl encapsulated during liposome residence time in circulation.
-
 The plasma pharmacokinetics of Caelyx were evaluated in 23 patients with Kaposi's sarcoma who received single doses of 20 mg/m2 administered by a 30-minute infusion.
 The pharmacokinetic parameters of Caelyx (primarily representing liposome-encapsulated doxorubicin HCl and low levels of unencapsulated doxorubicin HCl) observed after the 20 mg/m2 doses are presented in the following table.
 
