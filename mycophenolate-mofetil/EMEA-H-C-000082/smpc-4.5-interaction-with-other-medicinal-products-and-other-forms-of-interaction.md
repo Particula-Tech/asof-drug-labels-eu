@@ -41,8 +41,6 @@ The antibody response to other vaccines may be diminished (see also section 4.4 
 cholestyramine: following single dose, oral administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4g TID of cholestyramine for 4 days, there was a 40% reduction in the AUC of MPA.
 (see section 4.4 Special warnings and special precautions for use, and section 5.2 Pharmacokinetic properties).
 
-cyclosporin A: cyclosporin A pharmacokinetics were unaffected by mycophenolate mofetil. ganciclovir: based on the results of a single dose administration study of recommended doses of oral mycophenolate and IV ganciclovir and the known effects of renal impairment on the pharmacokinetics of CellCept (see section 4.2 Posology and method of administration) and ganciclovir, it is anticipated that co-administration of these agents (which compete for mechanisms of renal tubular secretion) will result in increases in MPAG and ganciclovir concentration.
-
 In another study in renal transplant patients, it was shown that the tacrolimus concentration did not appear to be altered by CellCept.
 
 [CellCept 1 g/5 ml powder for oral suspension.]

@@ -7,11 +7,11 @@ Food had no effect on the extent of absorption (MPA AUC) of mycophenolate mofeti
 However, MPA Cmax was decreased by 40% in the presence of food.
 Mycophenolate mofetil is not measurable systemically in plasma following oral administration.
 MPA at clinically relevant concentrations, is 97% bound to plasma albumin.
-
 As a result of enterohepatic recirculation, secondary increases in plasma MPA concentration are usually observed at approximately 6 – 12 hours post-dose.
 A reduction in the AUC of MPA of approximately 40% is associated with the co-administration of cholestyramine (4 g TID), indicating that there is a significant amount of enterohepatic recirculation.
 
 MPA is metabolised principally by glucuronyl transferase to form the phenolic glucuronide of MPA (MPAG), which is not pharmacologically active.
+
 A negligible amount of drug is excreted as MPA (< 1% of dose) in the urine.
 Orally administered radiolabelled mycophenolate mofetil results in complete recovery of the administered dose; with 93% of the administered dose recovered in the urine and 6% recovered in the faeces.
 Most (about 87%) of the administered dose is excreted in the urine as MPAG.
@@ -30,7 +30,6 @@ In patients with delayed renal graft function post-transplant, mean MPA AUC(0–
 Mean plasma MPAG AUC(0-12h) was 2 – 3-fold higher than in post-transplant patients without delayed graft function.
 There may be a transient increase in the free fraction and concentration of plasma MPA in patients with delayed renal graft function.
 Dose adjustment of CellCept does not appear to be necessary.
-
 In volunteers with alcoholic cirrhosis, hepatic MPA glucuronidation processes were relatively unaffected by hepatic parenchymal disease.
 Effects of hepatic disease on this process probably depend on the particular disease.
 However, hepatic disease with predominantly biliary damage, such as primary biliary cirrhosis, may show a different effect.
@@ -60,14 +59,10 @@ No data are available for hepatic transplant patients with severe chronic renal 
 
 In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate < 25ml•min-¹•1.73m-²) were 28 – 75% higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
 
-Mean plasma MPAG AUC (0–12h) was 2 – 3-fold higher than in post-transplant patients without delayed graft function.
-
 The pharmacokinetics of oral contraceptives were unaffected by coadministration of CellCept (see also section 4.5 Interaction with other medicinal products and other forms of interaction).A study of the coadministration of CellCept (1 g bid) and combined oral contraceptives containing ethinylestradiol (0.02 mg to 0.04 mg) and levonorgestrel (0.05 mg to 0.15 mg), desogestrel (0.15 mg) or gestodene (0.05 mg to 0.10 mg) conducted in 18 non-transplant women (not taking other immunosupressants) over 3 consecutive menstrual cycles showed no clinically relevant influence of CellCept on the ovulation suppressing action of the oral contraceptives.
 
 [CellCept 500 mg tablets]
 
 A negligible amount of drug is excreted as MPA (< 1 % of dose) in the urine.
-
-In patients with delayed renal graft function post-transplant, mean MPA AUC (0–12h) was comparable to that seen in post-transplant patients without delayed graft function.
 
 The pharmacokinetics of oral contraceptives were unaffected by coadministration of CellCept (see also section 4.5 Interaction with other medicinal products and other forms of interaction).A study of the coadministration of CellCept (1 g bid) and combined oral contraceptives containing ethinylestradiol (0.02 mg to 0.04 mg) and levonorgestrel (0.05 mg to 0.15 mg), desogestrel (0.15 mg) or gestodene (0.05 mg to 0.10 mg) conducted in 18 non-transplant women over 3 consecutive menstrual cycles showed no clinically relevant influence of CellCept on the ovulation suppressing action of the oral contraceptives.

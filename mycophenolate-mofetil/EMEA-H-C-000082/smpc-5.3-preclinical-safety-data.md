@@ -28,6 +28,7 @@ The systemic exposure at this dose represents 2 – 3 times the clinical exposur
 The systemic exposure at this dose was approximately 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day.
 
 In teratology studies in rats and rabbits, foetal resorptions and malformations occurred in rats at
+
 6 mg•kg-¹•day-¹ (including anophthalmia, agnathia, and hydrocephaly) and in rabbits at 90 mg•kg-¹•day-¹ (including cardiovascular and renal anomalies, such as ectopia cordis and ectopic kidneys, and diaphragmatic and umbilical hernia), in the absence of maternal toxicity.
 The systemic exposure at these levels are approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day.
 
