@@ -2,6 +2,6 @@
 
 Do not store above 30°C
 
-[Epivir 10mg/ml oral solution]
+[Epivir 10 mg/ml oral solution]
 
 Do not store above 25°C.
