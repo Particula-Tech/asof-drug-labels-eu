@@ -20,8 +20,13 @@ It is recommended that sirolimus whole blood trough levels be closely monitored 
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression (see Undesirable Effects, section 4.8).
 Oversuppression of the immune system can also increase susceptibility to infection including opportunistic infections, fatal infections, and sepsis.
 
+The safety and efficacy of Rapamune as immunosuppressive therapy have not been established in liver or lung transplant patients, and therefore, such use is not recommended.
+
 In two clinical studies in de novo liver transplant patients the use of sirolimus plus cyclosporine or tacrolimus was associated with an increase in hepatic artery thrombosis, mostly leading to graft loss or death.
-The safety and efficacy of Rapamune as immunosuppressive therapy have not been established in liver transplant patients, and therefore, such use is not recommended.
+
+Cases of bronchial anastomotic dehiscence, most fatal, have been reported in de novo lung transplant patients when sirolimus has been used as part of an immunosuppressive regimen.
+
+Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, have been associated with the administration of sirolimus (see Section 4.8).
 
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
@@ -34,6 +39,7 @@ The use of Rapamune in renal transplant patients was associated with increased s
 Patients administered Rapamune, should be monitored for hyperlipidemia using laboratory tests and if hyperlipidemia is detected, subsequent interventions such as diet, exercise, and lipid-lowering agents should be initiated.
 The risk/benefit should be considered in patients with established hyperlipidemia before initiating an immunosuppressive regimen including Rapamune.
 Similarly the risk/benefit of continued Rapamune therapy should be re-evaluated in patients with severe refractory hyperlipidemia.
+
 In clinical trials, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates was well tolerated.
 During Rapamune therapy, patients administered an HMG-CoA reductase inhibitor and/or fibrate, should be monitored for the possible development of rhabdomyolysis and other adverse effects as described in the respective Summary of Product Characteristics of these agents.
 
