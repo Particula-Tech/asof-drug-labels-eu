@@ -6,7 +6,7 @@ Concomitant food intake does not significantly influence the bioavailability of 
 Plasma protein binding is approximately 90%, with negligible binding to cellular blood components.
 The volume of distribution is 53-93 litres.
 
-Following oral or intravenous administration of 14 C irbesartan, 80-85% of the circulating plasma radioactivity is attributable to unchanged irbesartan.
+Following oral or intravenous administration of 14C irbesartan, 80-85% of the circulating plasma radioactivity is attributable to unchanged irbesartan.
 Irbesartan is metabolised by the liver via glucuronide conjugation and oxidation.
 The major circulating metabolite is irbesartan glucuronide (approximately 6%).
 In vitro studies indicate that irbesartan is primarily oxidised by the cytochrome P450 enzyme CYP2C9; isoenzyme CYP3A4 has negligible effect.
@@ -26,11 +26,12 @@ However the terminal half-life was not significantly altered.
 No dosage adjustment is necessary in elderly patients.
 
 Irbesartan and its metabolites are eliminated by both biliary and renal pathways.
-After either oral or IV administration of 14 C irbesartan, about 20% of the radioactivity is recovered in the urine, and the remainder in the faeces.
+After either oral or IV administration of 14C irbesartan, about 20% of the radioactivity is recovered in the urine, and the remainder in the faeces.
 Less than 2% of the dose is excreted in the urine as unchanged irbesartan.
 
 Renal impairment: in patients with renal impairment or those undergoing haemodialysis, the pharmacokinetic parameters of irbesartan are not significantly altered.
 Irbesartan is not removed by haemodialysis.
 
 Hepatic impairment: in patients with mild to moderate cirrhosis, the pharmacokinetic parameters of irbesartan are not significantly altered.
+
 Studies have not been performed in patients with severe hepatic impairment.

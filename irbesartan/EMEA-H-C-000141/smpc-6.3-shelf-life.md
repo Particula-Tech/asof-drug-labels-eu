@@ -1,3 +1,3 @@
 # 6.3 Shelf-life
 
-24 months
+24 months.

@@ -1,5 +1,5 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 SANOFI PHARMA BRISTOL-MYERS SQUIBB SNC
-32-34 rue Marbeuf - 75008 Paris
-France
+174 avenue de France
+F-75013 Paris - France
