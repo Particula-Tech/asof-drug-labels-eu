@@ -6,6 +6,5 @@ In a developmental toxicity study conducted in mice using an analogous antibody 
 
 Administration of infliximab is not recommended during pregnancy.
 Women of childbearing potential must use adequate contraception to prevent pregnancy and continue its use for at least 6 months after the last Remicade treatment.
-
 It is not known whether infliximab is excreted in human milk or absorbed systemically after ingestion.
 Because human immunoglobulins are excreted in milk, women must not breast feed for at least 6 months after Remicade treatment.

@@ -12,6 +12,7 @@ Antibodies against infliximab may develop and may cause serious allergic reactio
 Patients who discontinue immunosuppressants prior to or during Remicade treatment are at greater risk of developing these antibodies (see section 4.8: “Immunogenicity”).
 These antibodies can not always be detected in serum samples.
 If serious reactions occur, symptomatic treatment must be given and further Remicade infusions must not be administered.
+
 A delayed hypersensitivity reaction has been observed in a significant number of patients with
 Crohn’s disease (25%) who were retreated with infliximab following a 2 to 4 year period without infliximab treatment.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash within 12 days following retreatment.
@@ -43,7 +44,7 @@ If active tuberculosis is diagnosed, Remicade therapy must not be initiated (see
 If inactive (‘latent’) tuberculosis is diagnosed, prophylactic anti-tuberculosis therapy must be started before the initiation of Remicade, and in accordance with local recommendations.
 In this situation, the benefit/ risk balance of Remicade therapy should be very carefully considered.
 
-All patients should be informed to seek medical advice if signs / symptoms suggestive of tuberculosis (e.g. persistent cough, wasting / weight loss, low-grade fever)appear during or after Remicade treatment.
+All patients should be informed to seek medical advice if signs / symptoms suggestive of tuberculosis (e.g. persistent cough, wasting / weight loss, low-grade fever) appear during or after Remicade treatment.
 
 Autoimmune processes
 The relative deficiency of TNF� caused by anti-TNF therapy may result in the initiation of an autoimmune process.

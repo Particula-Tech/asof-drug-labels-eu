@@ -28,7 +28,6 @@ Approximately 50% of patients were in functional Class III.
 Patients received placebo, 3 mg/kg or 10 mg/kg infliximab at weeks 0, 2 and 6, and then every 4 or 8 weeks thereafter.
 All patients were on stable methotrexate doses (median 15 mg/wk) for 6 months prior to enrolment and were to remain on stable doses throughout the study.
 Concurrent use of stable doses of oral corticosteroids (� 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted, and folate supplementation was given.
-
 The primary endpoints were the reduction of signs and symptoms as assessed by the American College of Rheumatology criteria , the prevention of structural joint damage, and the improvement in physical function.
 A reduction in signs and symptoms was defined to be at least a 20% improvement (ACR20) in both tender and swollen joint counts, and in 3 of the following 5 criteria: evaluator’s global assessment, patient’s global assessment, functional/disability measure, visual analogue pain scale and erythrocyte sedimentation rate or C-reactive protein.
 Structural joint damage (erosions and joint space narrowing) in both hands and feet was measured by the change from baseline in the total van der Heijde-modified Sharp score (0-440).
@@ -84,7 +83,8 @@ The primary endpoint was the proportion of patients who experienced a clinical r
 Patients who responded at week 4 were followed to week 12.
 Secondary endpoints included the proportion of patients in clinical remission at week 4 (CDAI < 150) and clinical response over time.
 
-At week 4, following a single dose of study medication, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (17%) of the placebo-treated patients (p < 0.001).
+At week 4, following a single dose of study medication, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (17%) of the placebo-treated patients
+(p < 0.001).
 Also at week 4, 13/27 (48%) of infliximab-treated patients achieved a clinical remission (CDAI < 150) vs. 1/25 (4%) of placebo-treated patients.
 A response was observed within 2 weeks, with a maximum response at 4 weeks.
 At the last observation at 12 weeks, 13/27 (48%) of infliximab-treated patients were still responding.

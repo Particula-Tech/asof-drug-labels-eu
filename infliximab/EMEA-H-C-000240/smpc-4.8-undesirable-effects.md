@@ -69,14 +69,14 @@ Signs and symptoms included myalgia and/or arthralgia with fever and/or rash.
 Some patients also experienced pruritus, facial, hand or lip oedema, dysphagia, urticaria, sore throat and/or headache.
 No similar set of delayed adverse events has been observed in any other clinical study involving a total of 771 patients receiving 4797 infusions with intervals predominantly of 14 weeks or less, but ranging from 1 to 55 weeks.
 In ongoing studies and post-marketing reports, these events have been rare and have occurred at intervals of less than 1 year.
+
 Immunogenicity: Patients who developed antibodies to infliximab were more likely to develop infusion-related reactions.
 In clinical studies using single and multiple infliximab doses ranging from 1 to 20 mg/kg, antibodies to infliximab were detected in 47 of 199 (24%) patients with any immunosuppressant therapy, and in 33 of 90 (37%) patients without immunosuppressant therapy.
 In rheumatoid arthritis patients who received the recommended repeated treatment dose regimens with methotrexate, 6 of 77 (8%) patients developed antibodies to infliximab.
 Due to methodological shortcomings, a negative assay did not exclude the presence of antibodies to infliximab.
 Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy.
 
-Infections:
-In clinical studies 32% of infliximab-treated patients experienced infections compared with 22% of placebo-treated patients.
+Infections: In clinical studies 32% of infliximab-treated patients experienced infections compared with 22% of placebo-treated patients.
 Serious infections, such as pneumonia, were reported in 5% of both infliximab-treated patients and placebo-treated patients (see section 4.4).
 In postmarketing spontaneous reporting, infections are the most common serious adverse event .
 Some of the cases have resulted in fatal outcome.
@@ -90,10 +90,9 @@ During this period, it is estimated that approximately 200,000 patients have bee
 It is unknown if exposure to infliximab can increase the incidence of these disorders.
 The long-term immunosuppressive effects of concomitant use of methotrexate and infliximab are unknown.
 
-Heart failure
-In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
+Heart failure: In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
 In this trial 150 patients with NYHA Class III-IV CHF(left ventricular ejection fraction </=35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
-At 38 weeks, 8 of 101 patients treated with Remicade (2 at 5 mg/kg and 6 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
+At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
 
 Antinuclear antibodies (ANA)/Double-stranded DNA (dsDNA) antibodies: In clinical studies infliximab-treated patients positive for ANA increased from 43% pre-treatment to 57% at the last evaluation.
 Anti-dsDNA antibodies developed in approximately 17% of patients treated with infliximab.

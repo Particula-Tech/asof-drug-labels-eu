@@ -17,6 +17,7 @@ Remicade must be given concomitantly with methotrexate.
 
 Severe, active Crohn’s disease
 5 mg/kg given as an intravenous infusion over a 2-hour period.
+
 Fistulising Crohn’s disease
 An initial 5 mg/kg infusion given over a 2-hour period is to be followed with additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion.
 
