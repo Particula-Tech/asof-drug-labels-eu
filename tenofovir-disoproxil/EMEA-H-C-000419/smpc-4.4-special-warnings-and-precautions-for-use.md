@@ -88,8 +88,12 @@ Immune Reactivation Syndrome: In HIV infected patients with severe immune defici
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-Co-administration of tenofovir disoproxil fumarate and didanosine resulted in increased systemic exposure to didanosine.
-Patients receiving tenofovir disoproxil fumarate and didanosine should be carefully monitored for didanosine-related adverse events including but not limited to pancreatitis and peripheral neuropathy (see 4.5).
+Co-administration of tenofovir disoproxil fumarate and didanosine results in a 40-60% increase in systemic exposure to didanosine that may increase the risk for didanosine-related adverse events (see 4.5).
+Rare cases of pancreatitis and lactic acidosis, sometimes fatal, have been reported.
+
+A reduced didanosine dose (250 mg) has been tested to avoid over-exposure to didanosine in case of co-administration with tenofovir disoproxil fumarate, but this has been associated with reports of high rate of virological failure and of emergence of resistance at early stage within several tested combinations.
+Co-administration of tenofovir disoproxil fumarate and didanosine is therefore not recommended, especially in patients with high viral load and low CD4 cell count.
+If this combination is judged strictly necessary, patients should be carefully monitored for efficacy and didanosine related adverse events.
 
 Triple nucleoside therapy: There have been reports of a high rate of virological failure and of emergence of resistance at early stage when tenofovir disoproxil fumarate was combined with lamivudine and abacavir as well as with lamivudine and didanosine as a once daily regimen.
 

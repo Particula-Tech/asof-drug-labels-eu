@@ -12,22 +12,26 @@ Metabolism and nutrition disorders:
 Very common: hypophosphataemia
 Rare: lactic acidosis
 
-Respiratory, thoracic and mediastinal disorders:
-Very rare: dyspnoea
-
 Nervous system disorders:
 Very common: dizziness
+Respiratory, thoracic and mediastinal disorders:
+Very rare: dyspnoea
 
 Gastrointestinal disorders:
 Very common: diarrhoea, nausea, vomiting
 Common: flatulence
 Rare: pancreatitis
 
+Hepatobiliary disorders:
+Rare: increased transaminases
+Very rare: hepatitis
+
 Skin and subcutaneous tissue disorders:
 Rare: rash
 
 Renal and urinary disorders:
 Rare: renal failure, acute renal failure, proximal tubulopathy (including Fanconi syndrome), increased creatinine
+Very rare: acute tubular necrosis
 
 General disorders and administration site conditions:
 Very rare: asthenia

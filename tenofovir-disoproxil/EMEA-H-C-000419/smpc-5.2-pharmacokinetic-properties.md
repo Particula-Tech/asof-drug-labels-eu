@@ -36,7 +36,6 @@ The pharmacokinetics of tenofovir were independent of tenofovir disoproxil fumar
 
 Age and gender
 Limited data on the pharmacokinetics of tenofovir in women indicate no major gender effect.
-
 Pharmacokinetic studies have not been performed in children and adolescents (under 18) or in the elderly (over 65).
 
 Pharmacokinetics have not been specifically studied in different ethnic groups.
