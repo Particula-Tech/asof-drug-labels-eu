@@ -24,11 +24,9 @@ If a patient develops signs and symptoms indicative of NMS, or presents with une
 Olanzapine should be used cautiously in patients who have a history of seizures or are subject to factors which may lower the seizure threshold.
 Seizures have been reported to occur rarely in patients when treated with olanzapine.
 In most of these cases, a history of seizures or risk factors for seizures were reported..
-
 Tardive Dyskinesia: In comparator studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.
 However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or drug discontinuation should be considered.
 These symptoms can temporally deteriorate or even arise after discontinuation of treatment.
-
 Given the primary CNS effects of olanzapine, caution should be used when it is taken in combination with other centrally acting drugs and alcohol.
 As it exhibits in vitro dopamine antagonism, olanzapine may antagonize the effects of direct and indirect dopamine agonists.
 
@@ -36,7 +34,7 @@ Postural hypotension was infrequently observed in the elderly in olanzapine clin
 As with other antipsychotics, it is recommended that blood pressure is measured periodically in patients over 65 years.
 
 In clinical trials, olanzapine was not associated with a persistent increase in absolute QT intervals.
-Only 8 of 1685 subjects had increased QTc interval on multiple occasions.
+Only 8 of 1,685 subjects had increased QTc interval on multiple occasions.
 However, as with other antipsychotics, caution should be exercised when olanzapine is prescribed with drugs known to increase QTc interval, especially in the elderly.
 
 Hyperglycaemia or exacerbation of pre-existing diabetes has been reported in very rare cases during ZYPREXA treatment.

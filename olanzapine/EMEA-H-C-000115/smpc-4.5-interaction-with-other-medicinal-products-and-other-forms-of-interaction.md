@@ -1,4 +1,4 @@
-# 4.5 Interaction with other medicaments and other forms of interaction
+# 4.5 Interaction with other medicinal products and other forms of interaction
 
 Potential for Other Drugs to Affect Olanzapine: Single-doses of antacid (Aluminium, magnesium) or cimetidine did not affect the oral bioavailability of olanzapine.
 However, the concomitant administration of activated charcoal reduced the oral bioavailability of olanzapine by 50 to 60 %.
@@ -6,8 +6,12 @@ Fluoxetine (60 mg single dose or 60 mg daily for 8 days) causes a mean 16 % incr
 The magnitude of the impact of this factor is small in comparison to the overall variability between individuals and therefore dose modification is not routinely recommended.
 The metabolism of olanzapine may be induced by concomitant smoking (the clearance of olanzapine is 33 % lower and the terminal elimination half-life is 21 % longer in non-smokers compared to smokers) or carbamazepine therapy (clearance is increased 44 % and the terminal elimination half-life is reduced by 20 % when administered with carbamazapine).
 Smoking and carbamazepine therapy induce P450-1A2 activity.
-The pharmacokinetics of theophylline, which is metabolized by P450-1A2, is not altered by olanzapine.
-The effect of potent inhibitors of P450-1A2 activity on olanzapine pharmacokinetics has not been studied.
+
+Fluvoxamine, a P450-1A2 inhibitor, has been shown to significantly inhibit the metabolism of olanzapine.
+The mean increase in olanzapine Cmax following fluvoxamine was 54% in female nonsmokers and 77% in male smokers.
+The mean increase in olanzapine AUC was 52% and 108%, respectively.
+A lower starting dose of olanzapine should be considered in patients who are using fluvoxamine or any other P450-1A2 inhibitors, such as ciprofloxacin or ketoconazole.
+A decrease in the dose of olanzapine should be considered if treatment with an inhibitor of P450-1A2 is initiated.
 
 Potential for olanzapine to Affect Other Drugs: In clinical trials with single doses of olanzapine, no inhibition of the metabolism of imipramine/desipramine (P450-2D6 or P450-3A/1A2), warfarin (P450-2C9), theophylline (P450-1A2), or diazepam (P450-3A4 and P450-2C19) was evident.
 Olanzapine showed no interaction when co-administered with lithium or biperiden.

@@ -5,6 +5,8 @@ Frequent (>10%):
 The only frequent undesirable effects associated with the use of olanzapine in clinical trials were somnolence and weight gain.
 Weight gain was related to a lower pretreatment body mass index (BMI) and initial starting dose of 15 mg or greater.
 
+Abnormal gait has been observed in clinical trials in patients with Alzheimer’s disease.
+
 Occasional (1-10%):
 
 Occasional undesirable effects associated with the use of olanzapine in clinical trials included dizziness, increased appetite, peripheral oedema, orthostatic hypotension, and mild, transient anticholinergic effects including constipation and dry mouth.
@@ -18,12 +20,12 @@ Rare (<1%):
 
 Photosensitivity reaction and rash were reported rarely.
 Rare reports of hepatitis and priapism have been received.
+Bradycardia with or without hypotension or syncope has been reported.
 
 Hyperglycaemia or exacerbation of pre-existing diabetes has been reported in very rare cases (see also Section 4.4, Special warnings and special precautions for use).
 
 Seizures have been reported to occur rarely in patients treated with olanzapine.
 In most of these cases, a history of seizures or risk factors for seizures were reported.
-
 Other Findings:
 
 Plasma prolactin levels were sometimes elevated, but associated clinical manifestations (e.g., gynecomastia, galactorrhea, and breast enlargement) were rare.
