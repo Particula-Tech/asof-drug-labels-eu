@@ -1,7 +1,6 @@
 # 4.8 Undesirable effects
 
 The only very common (>10%) undesirable effects associated with the use of olanzapine in clinical trials were somnolence and weight gain.
-Weight gain was related to a lower pretreatment body mass index (BMI) and initial starting dose of 15 mg or greater.
 Abnormal gait has been observed very commonly in clinical trial patients with Alzheimer’s disease.
 In clinical trials in patients with drug-induced (dopamine agonist) psychosis associated with Parkinson’s disease, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo.
 
@@ -9,6 +8,7 @@ In one clinical trial in patients with bipolar mania, valproate combination ther
 Olanzapine administered with lithium or valproate resulted in increased levels (>10%) of tremor, dry mouth, increased appetite, and weight gain.
 Speech disorder was also reported commonly (1% to 10%).
 During treatment with olanzapine in combination with lithium or divalproex, an increase of >7% from baseline body weight occurred in 17.4% of patients during acute treatment (up to 6 weeks).
+Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of �7% from baseline body weight in 39.9% of patients.
 
 The following table of undesirable effects is based on adverse event reporting and laboratory investigations from clinical trials.
 
@@ -23,7 +23,7 @@ Nervous system disorders
 Very common (>10%): Somnolence.
 Abnormal gait has been observed in clinical trial patients with Alzheimer’s disease.
 Worsening of Parkinsonian symptomatology and hallucinations were reported more frequently in patients with Parkinson’s disease.
-Common (1-10%): Dizziness, akathisia.
+Common (1-10%): Dizziness, akathisia, parkinsonism, dyskinesia.
 (See also note 2 below).
 Cardiac disorders
 Uncommon (0.1-1%): Bradycardia with or without hypotension or syncope.
@@ -32,7 +32,7 @@ Common (1-10%): Orthostatic hypotension.
 Gastrointestinal disorders
 Common (1-10%): Mild, transient anticholinergic effects including constipation and dry mouth.
 Hepato-biliary disorders
-Common (1-10%): Transient, asymptomatic elevations of hepatic transaminases (ALT, AST), especially in early treatment (see also Section 4.4, Special warnings and special precautions for use).
+Common (1-10%): Transient, asymptomatic elevations of hepatic transaminases (ALT, AST), especially in early treatment (see also section 4.4).
 Skin and subcutaneous tissue disorders
 Uncommon (0.1-1%): Photosensitivity reaction.
 General disorders and administration site conditions
@@ -41,11 +41,12 @@ Investigations
 Very common (>10%): Elevated plasma prolactin levels, but associated clinical manifestations (e.g., gynaecomastia, galactorrhoea, and breast enlargement) were rare.
 In most patients, levels returned to normal ranges without cessation of treatment.
 Uncommon (0.1-1%): High creatine phosphokinase.
+
 1In clinical trials with olanzapine in over 5000 patients with baseline non-fasting glucose levels � 7.8 mmol/l, the incidence of non-fasting plasma glucose levels � 11 mmol/l (suggestive of diabetes) was 1.0%, compared to 0.9% with placebo.
 The incidence of non-fasting plasma glucose levels � 8.9 mmol/l but < 11 mmol/l (suggestive of hyperglycaemia) was 2.0%, compared to 1.6% with placebo.
 Hyperglycaemia is also reported as a Very Rare (<0.01%) spontaneous event.
 
-2In clinical trials, the incidence of parkinsonism and dystonia in olanzapine-treated patients was not significantly different from placebo.
+2In clinical trials, the incidence of parkinsonism and dystonia in olanzapine-treated patients was numerically higher, but not statistically significantly different from placebo.
 Olanzapine-treated patients had a lower incidence of parkinsonism, akathisia and dystonia compared with titrated doses of haloperidol.
 In the absence of detailed information on the pre-existing history of individual acute and tardive extrapyramidal movement disorders, it can not be concluded at present that olanzapine produces less tardive dyskinesia and/or other tardive extrapyramidal syndromes.
 
@@ -58,13 +59,13 @@ Neutropenia.
 Immune System Disorders
 Very rare (<0.01%): Allergic reaction (e.g. anaphylactoid reaction, angioedema, pruritis or urticaria.)
 Metabolism and nutrition disorders
-Very rare (<0.01%): Hyperglycaemia or exacerbation of pre-existing diabetes occasionally associated with ketoacidosis or coma has been spontaneously reported very rarely, including some fatal cases (see also Note 1 above and Section 4.4, Special warnings and special precautions for use).
+Very rare (<0.01%): Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been spontaneously reported very rarely, including some fatal cases (see also Note 1 above and section 4.4).
 Hypertriglyceridaemia.
 Nervous system disorders
 Rare (0.01-0.1%): Seizures have been reported to occur rarely in patients treated with olanzapine.
 In most of these cases, a history of seizures or risk factors for seizures were reported.
 Very rare (<0.01%): Cases reported as Neuroleptic Malignant Syndrome (NMS) have been received in association with olanzapine.
-(See also Section 4.4, Special warnings and special precautions for use).
+(See also section 4.4).
 Parkinsonism, dystonia and tardive dyskinesia have been reported very rarely with olanzapine.
 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely when olanzapine is stopped abruptly.
 Gastrointestinal disorders

@@ -2,7 +2,7 @@
 
 Pharmaco-therapeutic group: antipsychotic, ATC code N05A H03.
 
-Olanzapine is an antipsychotic agent that demonstrates a broad pharmacologic profile across a number of receptor systems.
+Olanzapine is an antipsychotic, antimanic and mood stabilising agent that demonstrates a broad pharmacologic profile across a number of receptor systems.
 
 In preclinical studies, olanzapine exhibited a range of receptor affinities (Ki; < 100 nM) for serotonin 5 HT2A/2C, 5 HT3, 5 HT6; dopamine D1, D2, D3, D4, D5; cholinergic muscarinic receptors m1-m5; �1 adrenergic; and histamine H1 receptors.
 Animal behavioral studies with olanzapine indicated 5HT, dopamine, and cholinergic antagonism, consistent with the receptor-binding profile.
@@ -17,8 +17,14 @@ In two of two placebo and two of three comparator controlled trials with over 2,
 
 In patients with a manic or mixed episode of bipolar disorder, olanzapine demonstrated superior efficacy to placebo and valproate semisodium (divalproex) in reduction of manic symptoms over 3 weeks.
 Olanzapine also demonstrated comparable efficacy results to haloperidol in terms of the proportion of patients in symptomatic remission from mania and depression at 6 and 12 weeks.
-There are no data from long term studies to demonstrate olanzapine’s effectiveness in preventing subsequent manic or depressive episodes.
 In a co-therapy study of patients treated with lithium or valproate for a minimum of 2 weeks, the addition of olanzapine 10 mg (co-therapy with lithium or valproate) resulted in a greater reduction in symptoms of mania than lithium or valproate monotherapy after 6 weeks.
+
+In a 12-month recurrence prevention study in manic episode patients who achieved remission on olanzapine and were then randomised to olanzapine or placebo, olanzapine demonstrated statistically significant superiority over placebo on the primary endpoint of bipolar recurrence.
+Olanzapine also showed a statistically significant advantage over placebo in terms of preventing either recurrence into mania or recurrence into depression.
+
+In a second 12-month recurrence prevention study in manic episode patients who achieved remission with a combination of olanzapine and lithium and were then randomised to olanzapine or lithium alone, olanzapine was statistically non-inferior to lithium on the primary endpoint of bipolar recurrence (olanzapine 30.0%, lithium 38.3%; p = 0.055).
+
+In an 18-month co-therapy study in manic or mixed episode patients stabilised with olanzapine plus a mood stabiliser (lithium or valproate), long-term olanzapine co-therapy with lithium or valproate was not statistically significantly superior to lithium or valproate alone in delaying bipolar recurrence, defined according to syndromic (diagnostic) criteria.
 
 [ZYPREXA 5 mg coated tablets.]
 
@@ -47,6 +53,7 @@ Animal behavioural studies with olanzapine indicated 5HT, dopamine, and choliner
 Olanzapine demonstrated a greater in-vitro affinity for serotonin 5-HT2 than dopamine D2 receptors and greater 5-HT2 than D2 activity in vivo, models.
 
 In a single oral dose (10 mg) Positron Emission tomography (PET) study in healthy volunteers, olanzapine produced a higher 5-HT2A than dopamine D2 receptor occupancy.
+
 In two of two placebo and two of three comparator controlled trials with oral olanzapine in over 2,900 schizophrenic patients presenting with both positive and negative symptoms, olanzapine was associated with statistically significantly greater improvements in negative as well as positive symptoms.
 
 In patients with manic or mixed episode of bipolar disorder, oral olanzapine demonstrated superior efficacy to placebo and valproate semisodium (divalproex) in reduction of manic symptoms over 3 weeks.

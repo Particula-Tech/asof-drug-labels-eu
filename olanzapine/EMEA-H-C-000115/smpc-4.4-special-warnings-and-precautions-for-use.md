@@ -1,8 +1,8 @@
 # 4.4 Special warnings and special precautions for use
 
-Hyperglycaemia or exacerbation of pre-existing diabetes occasionally associated with ketoacidosis or coma has been reported very rarely, including some fatal cases.
+Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been reported very rarely, including some fatal cases.
 In some cases, a prior increase in body weight has been reported which may be a predisposing factor.
-Appropriate clinical monitoring is advisable in diabetic patients and in patients with risk factors for the development of diabetes mellitus.
+Appropriate clinical monitoring is advisable particularly in diabetic patients and in patients with risk factors for the development of diabetes mellitus.
 
 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely (<0.01%) when olanzapine is stopped abruptly.
 Gradual dose reduction should be considered when discontinuing olanzapine.
@@ -14,7 +14,6 @@ The use of olanzapine in the treatment of dopamine agonist associated psychosis 
 In clinical trials, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo (see also 4.8 Undesirable effects), and olanzapine was not more effective than placebo in the treatment of psychotic symptoms.
 In these trials, patients were initially required to be stable on the lowest effective dose of anti-Parkinsonian medications (dopamine agonist) and to remain on the same anti-Parkinsonian medications and dosages throughout the study.
 Olanzapine was started at 2.5 mg/day and titrated to a maximum of 15 mg/day based on investigator judgement.
-
 During antipsychotic treatment, improvement in the patient's clinical condition may take several days to some weeks.
 Patients should be closely monitored during this period.
 
@@ -26,10 +25,10 @@ In the event of elevated ALT and/or AST during treatment, follow-up should be or
 In cases where hepatitis has been diagnosed, olanzapine treatment should be discontinued.
 
 As with other neuroleptic medicines, caution should be exercised in patients with low leukocyte and/or neutrophil counts for any reason, in patients receiving medicines known to cause neutropenia, in patients with a history of drug-induced bone marrow depression/toxicity, in patients with bone marrow depression caused by concomitant illness, radiation therapy or chemotherapy and in patients with hypereosinophilic conditions or with myeloproliferative disease.
-Neutropenia has been reported commonly when olanzapine and valproate are used concomitantly (see Section 4.8).
+Neutropenia has been reported commonly when olanzapine and valproate are used concomitantly (see section 4.8).
 
-There are limited data on co-medication with lithium and valproate (see Section 5.1).
-There are no clinical data available on olanzapine and carbamazepine co-therapy, however a pharmacokinetic study has been conducted (see Section 4.5).
+There are limited data on co-medication with lithium and valproate (see section 5.1).
+There are no clinical data available on olanzapine and carbamazepine co-therapy, however a pharmacokinetic study has been conducted (see section 4.5).
 
 Neuroleptic Malignant Syndrome (NMS): NMS is a potentially life-threatening condition associated with antipsychotic medication.
 Rare cases reported as NMS have also been received in association with olanzapine.
@@ -81,15 +80,15 @@ The efficacy of IM olanzapine has not been established in patients with agitatio
 
 IM olanzapine should not be administered to patients with unstable medical conditions, such as acute myocardial infarction, unstable angina pectoris, severe hypotension and/or bradycardia, sick sinus syndrome, or following heart surgery.
 If the patient’s medical history with regard to these unstable medical conditions cannot be determined, the risks and benefits of IM olanzapine should be considered in relation to other alternative treatments.
-The safety and efficacy of IM olanzapine has not been evaluated in patients with alcohol or drug intoxication (see also Section 4.5 Interaction with other medicinal products and other forms of interaction).
+The safety and efficacy of IM olanzapine has not been evaluated in patients with alcohol or drug intoxication (see also section 4.5 Interaction with other medicinal products and other forms of interaction).
 
 Patients receiving intramuscular olanzapine should be closely observed for hypotension including postural hypotension, bradyarrhythmia and/or hypoventilation, particularly for the first 2 to 4 hours following injection.
 Blood pressure, pulse, respiratory rate and level of consciousness should be recorded if clinically indicated and remedial treatment provided if required.
 Patients should remain recumbent if dizzy or drowsy after injection until examination indicates that they are not experiencing hypotension including postural hypotension, bradyarrhythmia and/or hypoventilation.
-Special caution is necessary in patients who receive treatment with other medicinal products having haemodynamic properties similar to those of intramuscular olanzapine (see also Section 4.5.
+Special caution is necessary in patients who receive treatment with other medicinal products having haemodynamic properties similar to those of intramuscular olanzapine (see also section 4.5.
 Interaction with other medicinal products and other forms of interaction).
 
-Simultaneous injection of intramuscular olanzapine and parenteral benzodiazepine has not been studied and is therefore not recommended (see also Section 4.5 Interaction with other medicinal products and other forms of interaction).
+Simultaneous injection of intramuscular olanzapine and parenteral benzodiazepine has not been studied and is therefore not recommended (see also section 4.5 Interaction with other medicinal products and other forms of interaction).
 If the patient is considered to need parenteral benzodiazepine treatment, this should not be given until at least one hour after IM olanzapine administration.
 If the patient has received parenteral benzodiazepine, IM olanzapine administration should only be considered after careful evaluation of clinical status and the patient should be closely monitored for excessive sedation and cardiorespiratory depression.
 

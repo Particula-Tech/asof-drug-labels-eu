@@ -19,7 +19,6 @@ However, olanzapine (5-20 mg) demonstrated a comparable safety profile in female
 
 In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy subjects, there was no significant difference in mean elimination half-life (37.7 versus 32.4 hr) or clearance (21.2 versus 25.0 l/hr).
 A mass balance study showed that approximately 57 % of radiolabelled olanzapine appeared in urine, principally as metabolites.
-
 In smoking subjects with mild hepatic dysfunction, mean elimination half-life (39.3 hr) was prolonged and clearance (18.0 l/hr) was reduced analogous to non-smoking healthy subjects (48.8 hr and 14.1 l/hr, respectively).
 
 In non-smoking versus smoking subjects (males and females) the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
@@ -28,6 +27,7 @@ The plasma clearance of olanzapine is lower in elderly versus young subjects, in
 However, the magnitude of the impact of age, gender, or smoking on olanzapine clearance and half-life is small in comparison to the overall variability between individuals.
 
 In a study of Caucasians, Japanese, and Chinese subjects, there were no differences in the pharmacokinetic parameters among the three populations.
+
 The plasma protein binding of olanzapine was about 93 % over the concentration range of about 7 to about 1000 ng/ml.
 Olanzapine is bound predominantly to albumin and �1-acid-glycoprotein.
 
@@ -58,6 +58,7 @@ The Cmax occurs earlier after intramuscular compared to oral use (15 to 45 minut
 As with oral use, Cmax and area under the curve after intramuscular use are directly proportional to the dose administered.
 For the same dose of olanzapine administered intramuscularly and orally, the associated area under the curve, half-life, clearance and volume of distribution are similar.
 The metabolic profiles following intramuscular and oral use are similar.
+
 In non-smoking versus smoking subjects (males and females) administered olanzapine intramuscularly the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
 
 Additional pharmacokinetic data following administration of oral olanzapine are described below.
@@ -70,7 +71,6 @@ In 44 patients with schizophrenia > 65 years of age, dosing from 5 to 20 mg/day 
 In female versus male subjects administered oral olanzapine the mean elimination half life was somewhat prolonged (36.7 versus 32.3 hrs) and the clearance was reduced (18.9 versus 27.3 l/hr).
 
 In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy subjects administered oral olanzapine, there was no significant difference in mean elimination half-life (37.7 versus 32.4 hr) or clearance (21.2 versus 25.0 l/hr).
-
 In smoking subjects with mild hepatic dysfunction administered olanzapine orally, mean elimination half-life (39.3 hr) was prolonged and clearance (18.0 l/hr) was reduced analogous to non-smoking healthy subjects (48.8 hr and 14.1 l/hr, respectively).
 
 [ZYPREXA 10 mg powder and solvent for solution for injection.]

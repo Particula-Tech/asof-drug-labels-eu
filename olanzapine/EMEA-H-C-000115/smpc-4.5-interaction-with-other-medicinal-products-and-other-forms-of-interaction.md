@@ -6,7 +6,7 @@ Potential interactions affecting olanzapine: Since olanzapine is metabolised by 
 
 Induction of CYP1A2: The metabolism of olanzapine may be induced by smoking and carbamazepine, which may lead to reduced olanzapine concentrations.
 Only slight to moderate increase in olanzapine clearance has been observed.
-The clinical consequences are likely to be limited, but clinical monitoring is recommended and an increase of olanzapine dose may be considered if necessary (See section 4.2, Posology and method of administration).
+The clinical consequences are likely to be limited, but clinical monitoring is recommended and an increase of olanzapine dose may be considered if necessary (See section 4.2).
 
 Inhibition of CYP1A2: Fluvoxamine, a specific CYP1A2 inhibitor, has been shown to significantly inhibit the metabolism of olanzapine.
 The mean increase in olanzapine Cmax following fluvoxamine was 54 % in female nonsmokers and 77 % male smokers.
@@ -49,13 +49,13 @@ Therapeutic monitoring of valproate plasma levels did not indicate that valproat
 
 [ZYPREXA 10 mg powder for solution for injection.]
 
-IM olanzapine has not been studied in patients with alcohol or drug intoxication (see also Section 4.4 Special warnings and special precautions for use).
+IM olanzapine has not been studied in patients with alcohol or drug intoxication (see also section 4.4 Special warnings and special precautions for use).
 
-Caution should be exercised in patients who receive medicinal products that can induce hypotension, bradycardia, respiratory or central nervous system depression (see also Section 4.4 Special warnings and special precautions for use).
+Caution should be exercised in patients who receive medicinal products that can induce hypotension, bradycardia, respiratory or central nervous system depression (see also section 4.4 Special warnings and special precautions for use).
 
 Potential for Interaction, Following Intramuscular Injection: In a single dose intramuscular study of olanzapine 5 mg, administered 1 hour before lorazepam 2 mg (metabolised by glucuronidation), the pharmacokinetics of both medicines were unchanged.
 However, the combination added to the somnolence observed with either medicines alone.
-Concomitant injection of olanzapine and parenteral benzodiazepine has not been studied and is therefore not recommended (see Section 4.4 Special warnings and special precautions for use).
+Concomitant injection of olanzapine and parenteral benzodiazepine has not been studied and is therefore not recommended (see section 4.4 Special warnings and special precautions for use).
 
 [ZYPREXA 10 mg powder and solvent for solution for injection.]
 

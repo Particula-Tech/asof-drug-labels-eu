@@ -28,7 +28,7 @@ Each coated tablet contains 20 mg olanzapine.
 Each vial contains 10 mg olanzapine.
 It provides a solution containing 5 mg/ml olanzapine when reconstituted as recommended.
 
-For excipients, see Section 6.1
+For excipients, see section 6.1
 
 [ZYPREXA 10 mg powder and solvent for solution for injection.]
 
