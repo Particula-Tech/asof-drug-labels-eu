@@ -30,7 +30,6 @@ In adults treated with abacavir in combination with lamivudine and zidovudine th
 One randomised, double blind, placebo controlled clinical study in adults has compared the combination of abacavir, lamivudine and zidovudine to the combination of indinavir, lamivudine and zidovudine.
 Due to the high proportion of premature discontinuation (42% of patients discontinued randomised treatment by week 48), no definitive conclusion can be drawn regarding the equivalence between the treatment regimens at week 48.
 Although a similar antiviral effect was observed between the abacavir and indinavir containing regimens in terms of proportion of patients with undetectable viral load (≤400 copies/ml; intention to treat analysis (ITT), 47% versus 49%; as treated analysis (AT), 86% versus 94% for abacavir and indinavir combinations respectively), results favoured the indinavir combination, particularly in the subset of patients with high viral load (>100,000 copies/ml at baseline; ITT, 46% versus 55%; AT, 84% versus 93% for abacavir and indinavir respectively).
-
 In a multicentre, double-blind, controlled study (CNA30024), 654 HIV-infected, antiretroviral therapy-naïve patients were randomised to receive either abacavir 300 mg twice daily or zidovudine 300 mg twice daily, both in combination with lamivudine 150 mg twice daily and efavirenz 600 mg once daily.
 The duration of double-blind treatment was at least 48 weeks.
 In the intent-to-treat (ITT) population, 70% of patients in the abacavir group, compared to 69% of patients in the zidovudine group, achieved a virologic response of plasma HIV-1 RNA ≤50 copies/ml by Week 48 (point estimate for treatment difference: 0.8, 95% CI -6.3, 7.9).
@@ -76,11 +75,8 @@ In study ESS30008, 260 patients with virologic suppression on a first line thera
 Preliminary data at 24 weeks indicate that the FDC group was associated with a similar virologic outcome (non-inferior) compared to the abacavir plus lamivudine group, based on proportions of subjects with HIV-1 RNA < 50 copies/ml (91% and 86% respectively, 95% CI -11.1, 1.9).
 
 Additional information:
+
 The safety and efficacy of Ziagen in a number of different multidrug combination regimens is still not completely assessed (particularly in combination with NNRTIs).
 
 Abacavir penetrates the cerebrospinal fluid (CSF) (see section 5.2), and has been shown to reduce HIV-1 RNA levels in the CSF.
 However, no effects on neuropsychological performance were seen when it was administered to patients with AIDS dementia complex.
-
-[Ziagen 20 mg/ml oral solution]
-
-Pharmacotherapeutic group: nucleoside reverse transcriptase inhibitors, ATC Code: J05A F06 Abacavir is a NRTI.

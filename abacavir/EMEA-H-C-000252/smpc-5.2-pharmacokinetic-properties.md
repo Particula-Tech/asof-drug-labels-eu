@@ -23,7 +23,6 @@ This indicates a low likelihood for interactions with other medicinal products t
 Metabolism: abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound.
 The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5’-carboxylic acid and 5’- glucuronide which account for about 66% of the administered dose.
 The metabolites are excreted in the urine.
-
 Elimination: the mean half-life of abacavir is about 1.5 hours.
 Following multiple oral doses of abacavir 300 mg twice a day there is no significant accumulation of abacavir.
 Elimination of abacavir is via hepatic metabolism with subsequent excretion of metabolites primarily in the urine.

@@ -59,7 +59,6 @@ Moreover, on very rare occasions hypersensitivity reactions have been reported i
 In both cases, if a decision is made to restart Ziagen this must be done in a setting where medical assistance is readily available.
 
 Each patient must be warned about this hypersensitivity reaction to abacavir.
-
 For many of the other adverse events reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV infection or as a result of the disease process.
 
 Many of those listed below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) in patients with abacavir hypersensitivity.
@@ -93,6 +92,8 @@ Cases of lactic acidosis, sometimes fatal, usually associated with severe hepato
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
+
+In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART) an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
 
 Laboratory abnormalities
 In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.

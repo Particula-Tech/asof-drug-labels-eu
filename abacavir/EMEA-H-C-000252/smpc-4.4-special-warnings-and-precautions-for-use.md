@@ -119,6 +119,11 @@ For patients with severe hepatic impairment, Ziagen is contraindicated (see sect
 
 Renal disease: Ziagen should not be administered to patients with end-stage renal disease (see section 5.2).
 
+Immune Reactivation Syndrome: In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
+Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
+Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
+Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
+
 Opportunistic infections: patients receiving Ziagen or any other antiretroviral therapy may still develop opportunistic infections and other complications of HIV infection.
 Therefore patients should remain under close clinical observation by physicians experienced in the treatment of these associated HIV diseases.
 
