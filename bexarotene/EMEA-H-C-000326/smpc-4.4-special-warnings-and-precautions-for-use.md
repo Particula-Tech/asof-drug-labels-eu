@@ -19,6 +19,7 @@ Liver Function Test (LFT) abnormalities: LFT elevations associated with the use 
 Based on data from ongoing clinical trials, elevation of LFTs resolved within one month in 80% of patients following a decrease in dose or discontinuation of therapy.
 Baseline LFTs should be obtained, and LFTs should be carefully monitored weekly during the first month and then monthly thereafter.
 Consideration should be given to a suspension or discontinuation of bexarotene if test results reach greater than three times the upper limit of normal values for SGOT/AST, SGPT/ALT, or bilirubin.
+
 Thyroid function test alterations: changes in thyroid function tests have been observed in patients receiving bexarotene, most often noted as a reversible reduction in thyroid hormone (total thyroxine [total T4]) and thyroid-stimulating hormone (TSH) levels.
 Baseline thyroid function tests should be obtained and then monitored at least monthly during treatment and as indicated by the emergence of symptoms consistent with hypothyroidism.
 Patients with symptomatic hypothyroidism on bexarotene therapy have been treated with thyroid hormone supplements with resolution of symptoms.
@@ -36,7 +37,7 @@ Given the high prevalence and natural rate of cataract formation in the older pa
 However, an adverse effect of long-term bexarotene treatment on lens opacity formation in humans has not been excluded.
 Any patient treated with bexarotene who experiences visual difficulties should have an appropriate ophthalmologic examination.
 
-Vitamin A supplementation: because of the relationship of bexarotene to vitamin A, patients should be advised to limit vitamin A supplements to �15,000 IU/day to avoid potential additive toxic effects.
+Vitamin A supplementation: because of the relationship of bexarotene to vitamin A, patients should be advised to limit vitamin A supplements to ≤15,000 IU/day to avoid potential additive toxic effects.
 
 Patients with diabetes mellitus: caution should be exercised when administering bexarotene in patients using insulin, agents enhancing insulin secretion (e.g. sulfonylureas), or insulin-sensitisers (e.g. thiazolidinediones).
 Based on the known mechanism of action, bexarotene may potentially enhance the action of these agents, resulting in hypoglycaemia.

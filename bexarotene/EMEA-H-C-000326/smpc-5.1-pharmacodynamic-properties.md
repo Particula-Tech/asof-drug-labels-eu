@@ -2,7 +2,7 @@
 
 Pharmacotherapeutic Group: other antineoplastic agents ATC code: L01XX25
 
-Bexarotene is a synthetic compound that exerts its biological action through selective binding and activation of the three RXRs: �, �, and �.
+Bexarotene is a synthetic compound that exerts its biological action through selective binding and activation of the three RXRs: α, β, and γ.
 Once activated, these receptors function as transcription factors that regulate processes such as cellular differentiation and proliferation, apoptosis, and insulin sensitisation.
 The ability of the RXRs to form heterodimers with various receptor partners that are important in cellular function and in physiology indicates that the biological activities of bexarotene are more diverse than those of compounds that activate the RARs.
 In vitro, bexarotene inhibits the growth of tumour cell lines of haematopoietic and squamous cell origin.
