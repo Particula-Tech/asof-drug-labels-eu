@@ -1,4 +1,4 @@
-# 5.2 Pharmacokinetic Properties
+# 5.2 Pharmacokinetic properties
 
 Following intravenous administration of topotecan at doses of 0.5 to 1.5 mg/m2 as a 30 minute infusion daily for five days, topotecan demonstrated a high plasma clearance of 62 l/h (SD 22), corresponding to approximately 2/3 of liver blood flow.
 Topotecan also had a high volume of distribution, about 132 L, (SD 57) and a relatively short half-life of 2-3 hours.

@@ -1,4 +1,4 @@
-# 4.4 Special Warnings and Special Precautions for Use
+# 4.4 Special warnings and special precautions for use
 
 Haematological toxicity is dose-related and full blood count including platelets should be monitored regularly.
 As expected, patients with poor performance status have a lower response rate and an increased incidence of complications such as fever and infection.

@@ -1,4 +1,4 @@
-# 5.1 Pharmacodynamic Properties
+# 5.1 Pharmacodynamic properties
 
 Pharmaco-therapeutic group: Antineoplastic and immunomodulating agent: ATC-code: L01X X17.
 The anti-tumour activity of topotecan involves the inhibition of topoisomerase-I, an enzyme intimately involved in DNA replication as it relieves the torsional strain introduced ahead of the moving replication fork.

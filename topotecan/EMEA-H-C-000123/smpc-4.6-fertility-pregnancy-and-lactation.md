@@ -1,4 +1,4 @@
-# 4.6 Use during Pregnancy and Lactation
+# 4.6 Pregnancy and lactation
 
 Pregnancy
 Topotecan is contraindicated during pregnancy.
