@@ -16,7 +16,7 @@ Providing patients do not experience intolerable side-effects, the dosage should
 
 If a further dose increase is necessary the daily dose should be increased by 0.54 mg base (0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
 
-However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/ day (see section 4.8 Undesirable effects).
+However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/ day (see section 4.8).
 
 Maintenance treatment:
 The individual dose should be in the range of 0.264 mg of base (0.375 mg of salt) to a maximum of 3.3 mg of base (4.5 mg of salt) per day.
@@ -29,7 +29,7 @@ It is recommended that the dosage of levodopa is reduced during both the dose es
 Treatment discontinuation:
 Abrupt discontinuation of dopaminergic therapy can lead to the development of a neuroleptic malignant syndrome.
 Therefore, pramipexole should be tapered off at a rate of 0.54 mg of base (0.75 mg of salt) per day until the daily dose has been reduced to 0.54 mg of base (0.75 mg of salt).
-Thereafter the dose should be reduced by 0.264 mg of base (0.375 mg of salt) per day (see section 4.4 Special warnings and special precautions for use).
+Thereafter the dose should be reduced by 0.264 mg of base (0.375 mg of salt) per day (see section 4.4).
 
 Dosing in patients with renal impairment:
 The elimination of pramipexole is dependent on renal function.
@@ -50,12 +50,9 @@ However, the potential influence of hepatic insufficiency on SIFROL pharmacokine
 
 [SIFROL 0.18 mg tablets]
 
-If a further dose increase is necessary the daily dose should be increased by 0.54 mg base
-(0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
+However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/ day (see section 4.8 ).
 
 Abrupt discontinuation of dopaminergic therapy can lead to the development of aneuroleptic malignant syndrome.
-Therefore, pramipexole should be tapered off at a rate of 0.54 mg of base
-(0.75 mg of salt) per day until the daily dose has been reduced to 0.54 mg of base (0.75 mg of salt).
 
 [SIFROL 0.35 mg tablets]
 

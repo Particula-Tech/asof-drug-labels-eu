@@ -11,7 +11,7 @@ Sudden onset of sleep during daily activities, in some cases without awareness o
 Patients must be informed of this and advised to exercise caution while driving or operating machines during treatment with SIFROL.
 Patients who have experienced somnolence and/or an episode of sudden sleep onset must refrain from driving or operating machines.
 Furthermore a reduction of dosage or termination of therapy may be considered.
-Because of possible additive effects, caution should be advised when patients are taking other sedating medication or alcohol in combination with pramipexole (see section 4.7 Effects on ability to drive and use machines and section 4.8 Undesirable effects).
+Because of possible additive effects, caution should be advised when patients are taking other sedating medication or alcohol in combination with pramipexole (see section 4.7 and section 4.8 ).
 
 Patients with psychotic disorders should only be treated with dopamine agonists if the potential benefits outweigh the risks.
 
@@ -22,4 +22,4 @@ Ophthalmologic monitoring is recommended at regular intervals or if vision abnor
 In case of severe cardiovascular disease, care should be taken.
 It is recommended to monitor blood pressure, especially at the beginning of treatment, due to the general risk of postural hypotension associated with dopaminergic therapy.
 
-Symptoms suggestive of neuroleptic malignant syndrome have been reported with abrupt withdrawal of dopaminergic therapy (See section 4.2 Posology and method of administration: Treatment discontinuation)
+Symptoms suggestive of neuroleptic malignant syndrome have been reported with abrupt withdrawal of dopaminergic therapy (See section 4.2)

@@ -2,7 +2,7 @@
 
 Based on the analysis of pooled placebo-controlled trials, comprising a total of 1351 patients on SIFROL and 1131 patients on placebo, adverse experiences were frequently reported for both groups.
 88 % of patients on SIFROL and 83.6% of patients on placebo reported at least one adverse event.
-The incidence of somnolence is increased at doses higher than 1.5 mg/day (see section 4.2 Posology and method of administration).
+The incidence of somnolence is increased at doses higher than 1.5 mg/day (see section 4.2).
 More frequent adverse reactions in combination with levodopa were dyskinesias.
 Constipation, nausea and dyskinesia tended to disappear with continued therapy.
 Hypotension may occur at the beginning of treatment, especially if SIFROL is titrated too fast.
@@ -16,4 +16,6 @@ General disorders: Common (1% -10%): Oedema peripheral
 
 SIFROL is associated with somnolence and has been associated uncommonly with excessive daytime somnolence and sudden sleep onset episodes.
 
-See also 4.4, Special warnings and precautions for use.
+SIFROL may be associated with libido disorders (increase or decrease).
+
+See also 4.4.
