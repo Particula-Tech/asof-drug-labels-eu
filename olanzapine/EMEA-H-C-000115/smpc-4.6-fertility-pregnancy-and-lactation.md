@@ -8,30 +8,6 @@ Spontaneous reports have been very rarely received on tremor, hypertonia, lethar
 
 Lactation: Olanzapine was excreted in milk of treated rats during lactation.
 It is not known if olanzapine is excreted in human milk.
-Patients should be advised not to breast feed an infant if they are taking olanzapine.
-
-[ZYPREXA 5 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 7.5 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 15 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 20 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg powder for solution for injection.]
-
 Patients should be advised not to breast-feed an infant if they are taking olanzapine.
 
 [ZYPREXA 10 mg powder and solvent for solution for injection.]
