@@ -14,7 +14,7 @@ In healthy elderly (65 and over) versus non-elderly subjects, the mean eliminati
 The pharmacokinetic variability observed in the elderly is within the range for the non-elderly.
 In 44 patients with schizophrenia > 65 years of age, dosing from 5 to 20 mg/day was not associated with any distinguishing profile of adverse events.
 
-In female versus male subjects the mean elimination half life was somewhat prolonged (36.7 versus 32.3 hr) and the clearance was reduced (18.9 versus 27.3 l/hr).
+In female versus male subjects the mean elimination half life was somewhat prolonged (36.7 versus 32.3 hrs) and the clearance was reduced (18.9 versus 27.3 l/hr).
 However, olanzapine (5-20 mg) demonstrated a comparable safety profile in female (n=467) as in male patients (n=869).
 
 In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy subjects, there was no significant difference in mean elimination half-life (37.7 versus 32.4 hr) or drug clearance (21.2 versus 25.0 l/hr).
@@ -23,22 +23,11 @@ A mass balance study showed that approximately 57 % of radiolabeled olanzapine a
 In smoking subjects with mild hepatic dysfunction, mean elimination half-life (39.3 hr) was prolonged and clearance (18.0 l/hr) was reduced analogous to non-smoking healthy subjects (48.8 hr and 14.1 l/hr, respectively).
 
 In non-smoking versus smoking subjects (males and females) the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
+
 The plasma clearance of olanzapine is lower in elderly versus young subjects, in females versus males, and in non-smokers versus smokers.
 However, the magnitude of the impact of age, gender, or smoking on olanzapine clearance and half-life is small in comparison to the overall variability between individuals.
 
 In a study of Caucasians, Japanese, and Chinese subjects, there were no differences in the pharmacokinetic parameters among the three populations.
 
-The plasma protein binding of olanzapine was about 93 % over the concentration range of about 7 to about 1000 ng/ml.
+The plasma protein binding of olanzapine was about 93 % over the concentration range of about 7 to about 1,000 ng/ml.
 Olanzapine is bound predominantly to albumin and α1-acid-glycoprotein.
-
-[ZYPREXA 5 mg coated tablets.]
-
-In female versus male subjects the mean elimination half life was somewhat prolonged (36.7 versus 32.3 hrs) and the clearance was reduced (18.9 versus 27.3 l/hr).
-
-[ZYPREXA 7.5 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg coated tablets.]
-
-(all sentences already above)

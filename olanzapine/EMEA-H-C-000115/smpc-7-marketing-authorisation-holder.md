@@ -1,3 +1,8 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Eli Lilly Nederland BV, Krijtwal 17 - 23, 3432 ZT, Nieuwegein, The Netherlands.
+
+[ZYPREXA 20 mg coated tablets.]
+
+8.
+NUMBERS IN THE COMMUNIY REGISTER OF MEDICINAL PRODUCTS

@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 Acute (Single-dose) toxicity
-
 Signs of oral toxicity in rodents were characteristic of potent neuroleptic compounds: hypoactivity, coma, tremors, clonic convulsions, salivation, and depressed weight gain.
 The median lethal doses were approximately 210 (mice) and 175 (rats) mg/kg.
 Dogs tolerated single oral doses up to 100 mg/kg without mortality.
@@ -25,7 +24,6 @@ Olanzapine had no teratogenic effects.
 Sedation affected mating performance of male rats.
 Estrous cycles were affected at doses of 1.1 mg/kg (3 times the maximum human dose) and reproduction parameters were influenced in rats given 3 mg/kg (9 times the maximum human dose).
 In the offspring of rats given olanzapine, delays in fetal development and transient decreases in offspring activity levels were seen.
-
 Mutagenicity
 
 Olanzapine was not mutagenic or clastogenic in a full range of standard tests, which included bacterial mutation tests and in vitro and in vivo mammalian tests.

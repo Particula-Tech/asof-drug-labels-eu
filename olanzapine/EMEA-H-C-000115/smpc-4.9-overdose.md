@@ -1,22 +1,19 @@
 # 4.9 Overdose
 
-Experience with olanzapine in overdosage is limited.
-In clinical trials, accidental or intentional acute overdosage of olanzapine was identified in 67 patients.
-In the patient taking the largest identified amount, 300 mg, the only symptoms reported were drowsiness and slurred speech.
-In the limited number of patients who were evaluated in hospitals, including the patient taking 300 mg, there were no observations indicating an adverse change in laboratory analytes or ECGs.
-Vital signs were usually within normal limits following overdoses.
+Signs and Symptoms
 
-Based on animal data, the predicted symptoms would reflect an exaggeration of the drug’s known pharmacological actions.
-Symptoms may include somnolence, mydriasis, blurred vision, respiratory depression, hypotension and possible extrapyramidal disturbances.
+Very common symptoms in overdose (>10% incidence) include tachycardia, agitation/ aggressiveness, dysarthria, various extrapyramidal symptoms, and reduced level of consciousness ranging from sedation to coma.
+Other medically significant sequelae of overdose include delirium, convulsion, coma, possible neuroleptic malignant syndrome, respiratory depression, aspiration, hypertension or hypotension, cardiac arrhythmias (< 2% of overdose cases) and cardiopulmonary arrest.
+Fatal outcomes have been reported for acute overdoses as low as 450mg but survival has also been reported following acute overdose of 1,500mg.
 
-There is no specific antidote to olanzapine; therefore, appropriate supportive measures should be initiated.
-The possibility of multiple drug involvement should be considered.
+Management of Overdose
 
-In case of acute overdosage, establish and maintain an airway and ensure adequate oxygenation and ventilation.
-The use of activated charcoal for overdose should be considered because the concomitant administration of activated charcoal was shown to reduce the oral bioavailability of olanzapine by 50 to 60 %.
-Gastric lavage (after intubation, if patient is unconscious) may also be considered.
-Olanzapine is not substantially removed by haemodialysis.
+There is no specific antidote for olanzapine.
+Induction of emesis is not recommended.
+Standard procedures for management of overdose may be indicated (i.e. gastric lavage, administration of activated charcoal).
+The concomitant administration of activated charcoal was shown to reduce the oral bioavailability of olanzapine by 50 to 60%.
 
-Hypotension and circulatory collapse should be treated with appropriate measures such as intravenous fluids and/or sympathomimetic agents such as norepinephrine (do not use epinephrine, dopamine, or other sympathomimetic agents with beta-agonist activity since beta stimulation may worsen hypotension in the setting of alpha blockade induced by olanzapine).
-Cardiovascular monitoring should be considered to detect possible arrhythmias.
+Symptomatic treatment and monitoring of vital organ function should be instituted according to clinical presentation, including treatment of hypotension and circulatory collapse and support of respiratory function.
+Do not use epinephrine, dopamine, or other sympathomimetic agents with beta-agonist activity since beta stimulation may worsen hypotension.
+Cardiovascular monitoring is necessary to detect possible arrhythmias.
 Close medical supervision and monitoring should continue until the patient recovers.
