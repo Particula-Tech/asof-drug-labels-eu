@@ -1,12 +1,8 @@
 # 6.6 Instructions for use and handling
 
-Inspect the vial before use.
+Inspect the cartridge before use.
 It must only be used if the solution is clear, colourless, with no solid particles visible, and if it is of water-like consistency.
 Since Lantus is a solution, it does not require resuspension before use.
-
-[Lantus 100 IU/ml solution for injection in a cartridge.]
-
-Inspect the cartridge before use.
 
 Before insertion into the pen, the cartridge must be stored at room temperature for 1 to 2 hours.
 Air bubbles must be removed from the cartridge before injection (see instructions for using pen).
@@ -40,6 +36,7 @@ Schematic diagram of the pen
 Preparation of the pen
 
 (a) Before using your pen for the first time, remove the pen cap (H).
+
 (b) Take a new needle.
 Use needles designed for the OptiSet or those needles for which the needle manufacturer has demonstrated that they can be used with the OptiSet pre-filled pen.
 Use needles designed for the OptiSet or universal needles.
@@ -54,7 +51,6 @@ Imprecise affixing (e.g. at a slant) may lead to breakage of the needle or leaka
 Function test prior to first injection
 
 (a) Check to ensure that the dose arrow (C) is pointing to the number 8 (Figure 2).
-
 Figure 2
 
 (b) Pull out button (A) as far as it will go, remove the inner and outer needle caps (K+L) and hold the pen with the needle pointing upwards.
@@ -76,10 +72,10 @@ If your pen has not been used for several days, you should also check that it is
 (The dosage selector (B) may be turned in either direction.)
 Now pull button (A) out as far as it will go.
 Remove the inner and outer needle caps (K+L) (Figure 3a).
+
 Figure 3a
 
 (b) Hold the pen with the needle pointing upwards and tap the insulin reservoir (D) gently with the finger so that any air bubbles rise up towards the needle (Figure 3b).
-
 Figure 3b/c
 
 (c) Press button (A) fully home.
@@ -94,10 +90,10 @@ Setting and injecting the first insulin dose
 
 (a) Set the required dose by turning the dosage selector (B) in either direction until the dose arrow (C) is pointing to the dose you require (Figure 4a).
 (The dosage selector lets you set the dose in steps of 2 units.)
+
 Figure 4a
 
 (b) Once you have set your dose, load it by pulling button (A) out as far as it will go (Figure 4b).
-
 Figure 4b
 
 The button allows you to check the dose: When the button is pulled out, the last thick bar visible indicates the dose that has been loaded (the example in Figure 4b shows the button pulled out and a loaded dose of 12 IU insulin).
@@ -118,11 +114,12 @@ This will prevent contamination as well as leakage, re-entry of air and potentia
 Replace the inner needle cap (K) onto the needle (J) to avoid injuries.
 Unscrew the needle by turning the needle hub (that part of the needle not protected by the cap) counterclockwise (Figure 5).
 Dispose of the used needle safely.
+
 Figure 5
 
 (b) Now replace the pen cap (H) on the pen.
-Subsequent injections
 
+Subsequent injections
 (a) Affix a new needle for each injection.
 
 (b) If the same dose is required every time, then the dose arrow can be left pointing at the same position on the dosage selector (B).

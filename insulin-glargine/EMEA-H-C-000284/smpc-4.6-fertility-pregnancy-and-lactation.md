@@ -11,10 +11,6 @@ Careful monitoring of glucose control is essential.
 
 Lactating women may require adjustments in insulin dose and diet.
 
-[Lantus 100 IU/ml solution for injection in a cartridge.]
-
-(all sentences already above)
-
 [Lantus 100 IU/ml OptiSet solution for injection]
 
 For insulin glargin no clinical data on exposed pregnancies are available.
