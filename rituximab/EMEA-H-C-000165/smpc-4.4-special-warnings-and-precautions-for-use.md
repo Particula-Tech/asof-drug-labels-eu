@@ -5,14 +5,14 @@ These patients should be very closely monitored throughout the first infusion.
 Consideration should be given to the use of a reduced infusion rate for the first infusion in these patients.
 
 Severe cytokine release syndrome is characterised by severe dyspnea, often accompanied by bronchospasm and hypoxia, in addition to fever, chills, rigors, urticaria, and angioedema.
-This syndrome may be associated with some features of tumour lysis syndrome such as hyperuricemia, hyperkalemia, hypocalcemia, acute renal failure, elevated LDH and may be associated with acute respiratory failure and death.
+This syndrome may be associated with some features of tumour lysis syndrome such as hyperuricaemia, hyperkalaemia, hypocalcaemia, acute renal failure, elevated LDH and may be associated with acute respiratory failure and death.
 The acute respiratory failure may be accompanied by events such as pulmonary interstitial infiltration or oedema, visible on a chest x-ray.
 The syndrome frequently manifests itself within one or two hours of initiating the first infusion.
 Patients with a history of pulmonary insufficiency or those with pulmonary tumour infiltration may be at greater risk of poor outcome and should be treated with increased caution.
-Patients who develop severe cytokine release syndrome should have their infusion interrupted immediately (see Section 4.2) and should receive aggressive symptomatic treatment.
+Patients who develop severe cytokine release syndrome should have their infusion interrupted immediately (see section 4.2) and should receive aggressive symptomatic treatment.
 Since initial improvement of clinical symptoms may be followed by deterioration, these patients should be closely monitored until tumour lysis syndrome and pulmonary infiltration have been resolved or ruled out.
 Further treatment of patients after complete resolution of signs and symptoms has rarely resulted in repeated severe cytokine release syndrome.
-Infusion related adverse reactions including cytokine release syndrome (see Section 4.8) accompanied by hypotension and bronchospasm have been observed in 10% of patients treated with MabThera.
+Infusion related adverse reactions including cytokine release syndrome (see section 4.8) accompanied by hypotension and bronchospasm have been observed in 10 % of patients treated with MabThera.
 These symptoms are usually reversible with interruption of MabThera infusion and administration of a pain-reliever, an antihistaminic, and, occasionally, oxygen, IV saline or bronchodilators, and corticosteroids if required.
 Please see cytokine release syndrome above for severe reactions.
 
@@ -31,12 +31,11 @@ Although MabThera is not myelosuppressive in monotherapy, caution should be exer
 MabThera has been used in 21 patients who underwent autologous bone transplantation and other risk groups with a presumable reduced bone marrow function without inducing myelotoxicity.
 
 Consideration should be given to the need for regular full blood counts, including platelet counts, during monotherapy with MabThera.
-When MabThera is given in combination with CHOP chemotherapy, regular full blood counts should be performed according to usual medical practice.
+When MabThera is given in combination with CHOP or CVP chemotherapy, regular full blood counts should be performed according to usual medical practice.
 
 Do not administer the prepared infusion solutions as an IV push or bolus.
 
 Paediatric Use
-
 The safety and efficacy of MabThera in children have not been established.
 
 [MabThera 500 mg]

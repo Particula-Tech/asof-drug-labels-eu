@@ -21,6 +21,8 @@ The infusion rate may be increased upon improvement of symptoms.
 Follicular non-Hodgkin's lymphoma
 The recommended dosage of MabThera used as a single agent for adult patients is 375 mg/m2 body surface, administered as an IV infusion once weekly for four weeks.
 
+The recommended dosage of MabThera in combination with CVP chemotherapy is 375 mg/m2 body surface area for 8 cycles (21 days/cycle), administered on day 1 of each chemotherapy cycle after IV administration of the corticosteroid component of CVP.
+
 Retreatment following relapse in non-Hodgkin’s lymphoma: Patients who have responded to MabThera initially have been treated again with MabThera at a dose of 375 mg/m2 body surface area, administered as an IV infusion once weekly for four weeks (see section 5.1).
 
 Diffuse large B cell non-Hodgkin's lymphoma
@@ -34,8 +36,4 @@ Subsequent infusions: Subsequent doses of MabThera can be infused at an initial 
 
 Dosage adjustments during treatment
 No dose reductions of MabThera are recommended.
-When MabThera is given in combination with CHOP chemotherapy, standard dose reductions for the chemotherapeutic medicinal products should be applied.
-
-[MabThera 500 mg]
-
-Retreatment following relapse in non-Hodgkin’s lymphoma: Patients who have responded to MabThera initially have been treated again with MabThera at a dose od 375 mg/m2 body surface area, administered as an IV infusion once weekly for four weeks (see section 5.1).
+When MabThera is given in combination with CHOP or CVP chemotherapy, standard dose reductions for the chemotherapeutic medicinal products should be applied.
