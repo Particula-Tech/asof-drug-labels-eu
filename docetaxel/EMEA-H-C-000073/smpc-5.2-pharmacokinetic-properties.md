@@ -19,7 +19,7 @@ In a small number of patients (n=23) with clinical chemistry data suggestive of 
 Docetaxel clearance was not modified in patients with mild to moderate fluid retention and there are no data available in patients with severe fluid retention.
 
 When used in combination, docetaxel does not influence the clearance of doxorubicin and the plasma levels of doxorubicinol (a doxorubicin metabolite).
-However, based on literature data and results of a specific pharmacokinetic interaction study, the influence of doxorubicin on the pharmacokinetic profile of docetaxel remains unclear.
+The pharmacokinetics of docetaxel, doxorubicin and cyclophosphamide were not influenced by their coadministration.
 
 Phase I study evaluating the effect of capecitabine on the pharmacokinetics of docetaxel and vice versa showed no effect by capecitabine on the pharmacokinetics of docetaxel (Cmax and AUC) and no effect by docetaxel on the pharmacokinetics of a relevant capecitabine metabolite 5’-DFUR.
 

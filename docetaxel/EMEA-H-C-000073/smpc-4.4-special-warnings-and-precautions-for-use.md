@@ -13,6 +13,7 @@ Patients should be retreated with docetaxel when neutrophils recover to a level 
 In the case of severe neutropenia (<500 cells/mm3 for seven days or more) during a course of docetaxel therapy, a reduction in dose for subsequent courses of therapy or the use of appropriate symptomatic measures are recommended (see section 4.2).
 
 Hypersensitivity reactions
+
 Patients should be observed closely for hypersensitivity reactions especially during the first and second infusions.
 Hypersensitivity reactions may occur within a few minutes following the initiation of the infusion of docetaxel, thus facilities for the treatment of hypotension and bronchospasm should be available.
 If hypersensitivity reactions occur, minor symptoms such as flushing or localised cutaneous reactions do not require interruption of therapy.
@@ -43,9 +44,32 @@ Nervous system
 
 The development of severe peripheral neurotoxicity requires a reduction of dose (see section 4.2).
 
+Cardiac toxicity
+
+Heart failure has been observed in patients receiving TAXOTERE in combination with trastuzumab, particularly following anthracycline (doxorubicin or epirubicin)-containing chemotherapy.
+This may be moderate to severe and has been associated with death (see section 4.8).
+
+When patients are candidates for treatment with TAXOTERE in combination with trastuzumab, they should undergo baseline cardiac assessment.
+Cardiac function should be further monitored during treatment (e.g. every three months) to help identify patients who may develop cardiac dysfunction.
+For more details see Summary of Product Characteristics of trastuzumab.
+
 Others
 
 Contraceptive measures must be taken during and for at least three months after cessation of therapy.
+
+Additional cautions for use in adjuvant treatment of breast cancer
+Complicated neutropenia
+For patients who experience complicated neutropenia (prolonged neutropenia, febrile neutropenia or infection), G-CSF and dose reduction should be considered (see section 4.2).
+Gastrointestinal reactions
+Symptoms such as early abdominal pain and tenderness, fever, diarrhea, with or without neutropenia, may be early manifestations of serious gastrointestinal toxicity and should be evaluated and treated promptly.
+Congestive heart failure
+Patients should be monitored for symptoms of congestive heart failure during therapy and during the follow up period.
+Leukemia
+In women receiving TAXOTERE, doxorubicin and cyclophosphamide (TAC), the risk of acute myeloid leukemia is comparable to the risk observed for other anthracycline/cyclophosphamide containing regimens.
+Patients with 4+ nodes
+The benefit/risk ratio for TAC in patients with 4+ nodes was not defined fully at the interim analysis (see section 5.1).
+Elderly
+There are no data available in patients>70 years of age on TAXOTERE use in combination with doxorubicin and cyclophosphamide.
 
 Of the 333 patients treated with TAXOTERE every three weeks in a prostate cancer study, 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
 In patients treated with TAXOTERE every three weeks, the incidence of related nail changes occurred at a rate ≥ 10% higher in patients who were 65 years of age or greater compared to younger patients.

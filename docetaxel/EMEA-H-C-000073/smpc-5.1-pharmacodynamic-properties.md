@@ -6,7 +6,6 @@ Preclinical data
 
 Docetaxel is an antineoplastic agent which acts by promoting the assembly of tubulin into stable microtubules and inhibits their disassembly which leads to a marked decrease of free tubulin.
 The binding of docetaxel to microtubules does not alter the number of protofilaments.
-
 Docetaxel has been shown in vitro to disrupt the microtubular network in cells which is essential for vital mitotic and interphase cellular functions.
 
 Docetaxel was found to be cytotoxic in vitro against various murine and human tumour cell lines and against freshly excised human tumour cells in clonogenic assays.
@@ -17,6 +16,33 @@ In vivo, docetaxel is schedule independent and has a broad spectrum of experimen
 Clinical data
 
 Breast cancer
+
+TAXOTERE in combination with doxorubicin and cyclophosphamide: adjuvant therapy
+
+Data from a multicenter open label randomized trial support the use of TAXOTERE for the adjuvant treatment of patients with operable node-positive breast cancer and KPS ≥ 80%, between 18 and 70 years of age.
+After stratification according to the number of positive lymph nodes (1-3, 4+), 1491 patients were randomized to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (FAC arm).
+Both regimens were administered once every 3 weeks for 6 cycles.
+TAXOTERE was administered as a 1-hour infusion, all other drugs were given as IV bolus on day one.
+G-CSF was administered as secondary prophylaxis to patients who experienced complicated neutropenia (febrile neutropenia, prolonged neutropenia, or infection).
+Patients on the TAC arm received antibiotic prophylaxis with ciprofloxacin 500 mg orally b.i.d. for 10 days starting on day 5 of each cycle, or equivalent.
+In both arms, after the last cycle of chemotherapy, patients with positive estrogen and/or progesterone receptors received tamoxifen 20 mg daily for up to 5 years.
+Adjuvant radiation therapy was prescribed according to guidelines in place at participating institutions and was given to 69% of patients who received TAC and 72% of patients who received FAC.
+An interim analysis was performed with a median follow up of 55 months.
+Significantly longer disease-free survival for the TAC arm compared to the FAC arm was demonstrated.
+Incidence of relapses at 5 years was reduced in patients receiving TAC compared to those who received FAC (25% versus 32%, respectively) i.e. an absolute risk reduction by 7% (p=0.001).
+Overall survival at 5 years was also significantly increased with TAC compared to FAC (87% versus 81%, respectively) i.e. an absolute reduction of the risk of death by 6% (p=0.008).
+TAC-treated patient subsets according to prospectively defined major prognostic factors were analyzed:
+
+|  |  | Disease Free Survival |  |  | Overall Survival |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Patient subset | Number of patients | Hazard ratio* | 95% CI | P= | Hazard ratio* | 95% CI | P= |
+| No of positive nodes Overall 1-3 4+ | 745 467 278 | 0.72 0.61 0.83 | 0.59-0.88 0.46-0.82 0.63-1.08 | 0.001 0.0009 0.17 | 0.70 0.45 0.94 | 0.53-0.91 0.29-0.70 0.66-1.33 | 0.008 0.0002 0.72 |
+
+*a hazard ratio of less than 1 indicates that TAC is associated with a longer disease-free survival and overall survival compared to FAC
+
+The beneficial effect of TAC was not proven in patients with 4 and more positive nodes (37% of the population) at the interim analysis stage.
+The effect appears to be less pronounced than in patients with 1-3 positive nodes.
+The benefit/risk ratio was not defined fully in patients with 4 and more positive nodes at this analysis stage.
 
 TAXOTERE as single agent
 
@@ -51,6 +77,27 @@ On the other hand, AC arm showed a higher incidence of severe anemia (15.8% vers
 Toxic deaths occurred in 1 patient in the AT arm (congestive heart failure) and in 4 patients in the AC arm (1 due to septic shock and 3 due to congestive heart failure).
 In both arms, quality of life measured by the EORTC questionnaire was comparable and stable during treatment and follow-up.
 
+TAXOTERE in combination with trastuzumab
+
+TAXOTERE in combination with trastuzumab was studied for the treatment of patients with metastatic breast cancer whose tumors overexpress HER2, and who previously had not received chemotherapy for metastatic disease.
+One hundred eighty six patients were randomized to receive TAXOTERE (100 mg/m2) with or without trastuzumab; 60% of patients received prior anthracycline-based adjuvant chemotherapy.
+TAXOTERE plus trastuzumab was efficacious in patients whether or not they had received prior adjuvant anthracyclines.
+The main test method used to determine HER2 positivity in this pivotal trial was immunohistochemistry (IHC).
+A minority of patients were tested using fluorescence in-situ hybridization (FISH).
+In this trial, 87% of patients had disease that was IHC 3+, and 95% of patients entered had disease that was IHC 3+ and/or FISH positive.
+Efficacy results are summarized in the following table:
+
+| Parameter | TAXOTERE plus trastuzumab1 n=92 | TAXOTERE1 n=94 |
+| --- | --- | --- |
+| Response rate (95% CI) | 61% (50-71) | 34% (25-45) |
+| Median Duration of response (months) (95% CI) | 11.4 (9.2-15.0) | 5.1 (4.4-6.2) |
+| Median TTP (months) (95% CI) | 10.6 (7.6-12.9) | 5.7 (5.0-6.5) |
+| Median Survival (months) (95% CI) | 30.52 (26.8-ne) | 22.12 (17.6-28.9) |
+
+TTP=time to progression; “ne” indicates that it could not be estimated or it was not yet reached.
+1Full analysis set (intent-to-treat)
+2 Estimated median survival
+
 TAXOTERE in combination with capecitabine
 
 Data from one multicenter, randomised, controlled phase III clinical trial support the use of docetaxel in combination with capecitabine for treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy, including an anthracycline.
@@ -77,7 +124,7 @@ In a Phase III trial, 1218 patients with unresectable stage IIIB or IV NSCLC, wi
 
 Survival data, median time to progression and response rates for two arms of the study are illustrated in the following table:
 
-|  | TCis n=408 | VCis n=404 | Statistical Analysis |
+|  | TCis n=408 | VCis N=404 | Statistical Analysis |
 | --- | --- | --- | --- |
 | Overall Survival (Primary end-point): Median Survival (months) 1-year Survival (%) 2-year Survival (%) | 11.3 46 21 | 10.1 41 14 | Hazard Ratio: 1.122 [97.2% CI: 0.937; 1.342]* Treatment difference: 5.4% [95% CI: -1.1; 12.0] Treatment difference: 6.2% [95% CI: 0.2; 12.3] |
 | Median Time to Progression (weeks): | 22.0 | 23.0 | Hazard Ratio: 1.032 [95% CI: 0.876; 1.216] |
@@ -115,9 +162,7 @@ Efficacy endpoints for the TAXOTERE arms versus the control arm are summarized i
 *Threshold for statistical significance=0.0175
 **PSA: Prostate-Specific Antigen
 
-Given the fact that TAXOTERE every week presented a slightly better safety profile than
-TAXOTERE every 3 weeks, it is possible that certain patients may benefit from TAXOTERE every
-week.
+Given the fact that TAXOTERE every week presented a slightly better safety profile than TAXOTERE every 3 weeks, it is possible that certain patients may benefit from TAXOTERE every week.
 
 No statistical differences were observed between treatment groups for Global Quality of Life.
 
