@@ -14,7 +14,6 @@ Distribution: Following intravenous administration, the apparent volume of distr
 
 Studies in HIV infected patients have shown good penetration of abacavir into the cerebrospinal fluid (CSF), with a CSF to plasma AUC ratio of between 30 to 44%.
 The observed values of the peak concentrations are 9 fold greater than the IC50 of abacavir of 0.08 µg/ml or 0.26µM when abacavir is given at 600 mg twice daily.
-
 Plasma protein binding studies in vitro indicate that abacavir binds only low to moderately (~49%) to human plasma proteins at therapeutic concentrations.
 This indicates a low likelihood for interactions with other medicinal products through plasma protein binding displacement.
 

@@ -4,7 +4,7 @@ Based on the results of in vitro experiments and the known major metabolic pathw
 P450 does not play a major role in the metabolism of abacavir, and abacavir does not inhibit metabolism mediated by CYP 3A4.
 Abacavir has also been shown in vitro not to inhibit CYP 3A4, CYP2C9 or CYP2D6 enzymes at clinically relevant concentrations.
 Induction of hepatic metabolism has not been observed in clinical studies.
-Therefore, there is little potential for interactions with antiretroviral protease inhibitors and other medicinal products metabolised by major P450 enzymes.
+Therefore, there is little potential for interactions with antiretroviral PIs and other medicinal products metabolised by major P450 enzymes.
 Clinical studies have shown that there are no clinically significant interactions between abacavir, zidovudine, and lamivudine.
 
 Potent enzymatic inducers such as rifampicin, phenobarbital and phenytoin may via their action on UDP-glucuronyltransferases slightly decrease the plasma concentrations of abacavir.

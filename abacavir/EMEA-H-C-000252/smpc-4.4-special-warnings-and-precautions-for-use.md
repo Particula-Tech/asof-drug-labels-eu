@@ -28,7 +28,7 @@ Restarting abacavir following a hypersensitivity reaction results in a prompt re
 This recurrence is usually more severe than on initial presentation, and may include life-threatening hypotension and death.
 To avoid a delay in diagnosis and minimise the risk of a life-threatening hypersensitivity reaction, Ziagen must be permanently discontinued if hypersensitivity cannot be ruled out, even when other diagnoses are possible (respiratory diseases, flu-like illness, gastroenteritis or reactions to other medications).
 
-Special care is needed for those patients simultaneously starting treatment with Ziagen and other medicinal products known to induce skin toxicity (such as nonnucleoside reverse transcriptase inhibitors).
+Special care is needed for those patients simultaneously starting treatment with Ziagen and other medicinal products known to induce skin toxicity (such as non-nucleoside reverse transcriptase inhibitors - NNRTIs).
 This is because it is currently difficult to differentiate between rashes induced by these products and abacavir related hypersensitivity reactions.
 
 � Management after an interruption of Ziagen therapy
@@ -75,6 +75,15 @@ Patients co-infected with hepatitis C and treated with alpha interferon and riba
 
 Patients at increased risk should be followed closely.
 
+Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
+The long-term consequences of these events are currently unknown.
+Knowledge about the mechanism is incomplete.
+A connection between visceral lipomatosis and protease inhibitors (PIs) and lipoatrophy and nucleoside reverse transcriptase inhibitors (NRTIs) has been hypothesised.
+A higher risk of lipodystrophy has been associated with individual factors such as older age, and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
+Clinical examination should include evaluation for physical signs of fat redistribution.
+Consideration should be given to the measurement of fasting serum lipids and blood glucose.
+Lipid disorders should be managed as clinically appropriate (see section 4.8 Undesirable effects).
+
 Pancreatitis has been reported, but a causal relationship to Ziagen treatment is uncertain.
 
 In patients with high viral load (>100,000 copies/ml) the choice of a triple combination with abacavir, lamivudine and zidovudine needs special consideration (see 5.1 Pharmacodynamic properties).
@@ -97,8 +106,6 @@ Patients should be advised that current antiretroviral therapy, including Ziagen
 Appropriate precautions should continue to be taken.
 
 [Ziagen 20 mg/ml oral solution]
-
-Special care is needed for those patients simultaneously starting treatment with Ziagen and other medicinal products known to induce skin toxicity (such as non nucleoside reverse transcriptase inhibitors).
 
 Moreover,on very rare occasions hypersensitivity reactions have been reported in patients who have re-started therapy, and who had no preceding symptoms of a hypersensitivity reaction.
 
