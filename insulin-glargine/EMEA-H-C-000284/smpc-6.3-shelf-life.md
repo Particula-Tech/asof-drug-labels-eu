@@ -1,4 +1,5 @@
-# 6.3 Shelf life
+# 6.3 Shelf-life
 
 2 years.
-Shelf life for pens in use: 4 weeks.
+Shelf-life after first opening of the vial: 4 weeks.
+It is recommended that the date of first withdrawal from the vial be noted on the label.

@@ -1,5 +1,5 @@
 # 3. PHARMACEUTICAL FORM
 
-Solution for injection in a pre-filled disposable pen.
+Solution for injection.
 
 Lantus is a clear colourless solution.

@@ -3,7 +3,7 @@
 Lantus is not the insulin of choice for the treatment of diabetic ketoacidosis.
 Instead, regular insulin administered intravenously is recommended in such cases.
 
-Due to limited experience the efficacy and safety of Lantus could not be assessed in children, in patients with impaired liver function or in patients with moderate/severe renal impairment (see 4.2).
+Due to limited experience the efficacy and safety of Lantus could not be assessed in children, in patients with impaired liver function or in patients with moderate/severe renal impairment (see section 4.2).
 
 In patients with renal impairment, insulin requirements may be diminished due to reduced insulin metabolism.
 In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
