@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antiviral for systemic use, ATC code: J05A
+
 Mechanism of action: Tenofovir disoproxil fumarate is the fumarate salt of the prodrug tenofovir disoproxil.
 Tenofovir disoproxil is absorbed and converted to the active substance tenofovir, which is a nucleoside monophosphate (nucleotide) analogue.
 Tenofovir is then converted to the active metabolite, tenofovir diphosphate, by constitutively expressed cellular enzymes through two phosphorylation reactions in both resting and activated T cells.
@@ -56,4 +57,4 @@ The clinical significance of the development of this mutation is unknown.
 A statistically significant difference in favour of tenofovir disoproxil 245 mg (as fumarate) was seen in the time-weighted average change from baseline at week 24 (DAVG24) for CD4 count (+13 cells/mm3 for tenofovir disoproxil 245 mg (as fumarate) versus -11 cells/mm3 for placebo, p-value = 0.0008).
 At week 24, 45% of tenofovir disoproxil fumarate treated patients had an undetectable viral load
 (< 400 log10 copies/ml) versus 13% in the placebo-treated patients (p-value < 0.0001).
-Since entry criteria for this study required a screening viral load of ≤ 10,000 copies/ml, the benefit of tenofovir disoproxil fumarate in patients with > 10,000 copies/ml is currently unknown.
+Since entry criteria for this study required a screening viral load of � 10,000 copies/ml, the benefit of tenofovir disoproxil fumarate in patients with > 10,000 copies/ml is currently unknown.

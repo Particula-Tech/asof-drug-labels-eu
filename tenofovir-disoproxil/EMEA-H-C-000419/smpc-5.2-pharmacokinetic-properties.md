@@ -1,15 +1,15 @@
 # 5.2 Pharmacokinetic properties
 
 Tenofovir disoproxil fumarate is a water soluble ester prodrug which is rapidly converted in vivo to tenofovir and formaldehyde.
-
 Tenofovir is converted intracellularly to tenofovir monophosphate and to the active component, tenofovir diphosphate.
 
 Absorption
 Following oral administration of tenofovir disoproxil fumarate to HIV infected patients, tenofovir disoproxil fumarate is rapidly absorbed and converted to tenofovir.
 Maximum tenofovir concentrations are observed in serum within one hour of dosing in the fasted state and within two hours when taken with food.
 The oral bioavailability of tenofovir from tenofovir disoproxil fumarate in fasted patients was approximately 25%.
-Administration of tenofovir disoproxil fumarate with food enhanced the oral bioavailability, with an increase in tenofovir AUC by approximately 40% and Cmax by approximately 14%.
+Administration of tenofovir disoproxil fumarate with a high fat meal enhanced the oral bioavailability, with an increase in tenofovir AUC by approximately 40% and Cmax by approximately 14%.
 Following the first dose of tenofovir disoproxil fumarate in fed patients, the median Cmax in serum ranged from 213 to 375 ng/ml.
+However, administration of tenofovir disoproxil fumarate with a light meal did not have a significant effect on the pharmacokinetics of tenofovir.
 
 Distribution
 Following intravenous administration the steady-state volume of distribution of tenofovir was estimated to be approximately 800 ml/kg.
@@ -38,6 +38,5 @@ Limited data on the pharmacokinetics of tenofovir in women indicate no major gen
 Pharmacokinetic studies have not been performed in children and adolescents (under 18) or in the elderly (over 65).
 
 Pharmacokinetics have not been specifically studied in different ethnic groups.
-
 Intracellular pharmacokinetics
 In non-proliferating human peripheral blood mononuclear cells (PBMCs) the half-life of tenofovir diphosphate was found to be approximately 50 hours, whereas the half-life in phytohaemagglutinin-stimulated PBMCs was found to be approximately 10 hours.

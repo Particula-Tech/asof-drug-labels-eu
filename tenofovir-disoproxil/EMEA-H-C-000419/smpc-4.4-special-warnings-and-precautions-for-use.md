@@ -36,8 +36,8 @@ The preclinical and clinical data suggest that the risk of occurrence of lactic 
 However, caution should be exercised when administering regimens containing nucleoside analogues and tenofovir disoproxil fumarate.
 These patients should be followed closely.
 
-Co-administration of tenofovir disoproxil fumarate and the buffered tablet formulation of didanosine resulted in increased systemic exposure to didanosine.
-As a result of this increased exposure, patients receiving tenofovir disoproxil fumarate and didanosine concomitantly should be carefully monitored for didanosine-related adverse events e.g. pancreatitis (see 4.5).
+Co-administration of tenofovir disoproxil fumarate and didanosine resulted in increased systemic exposure to didanosine.
+Patients receiving tenofovir disoproxil fumarate and didanosine should be carefully monitored for didanosine-related adverse events including but not limited to pancreatitis and peripheral neuropathy (see 4.5).
 
 Patients must be advised that antiretroviral therapies, including tenofovir disoproxil fumarate, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions must continue to be used.
