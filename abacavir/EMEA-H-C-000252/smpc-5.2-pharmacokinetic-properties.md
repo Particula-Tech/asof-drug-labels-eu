@@ -19,7 +19,7 @@ Plasma protein binding studies in vitro indicate that abacavir binds only low to
 This indicates a low likelihood for interactions with other medicinal products through plasma protein binding displacement.
 
 Metabolism: Abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound.
-The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5’- carboxylic acid and 5’-glucuronide which account for about 66% of the dose excreted in the urine.
+The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5’-carboxylic acid and 5’-glucuronide which account for about 66% of the dose excreted in the urine.
 
 Elimination: The mean half-life of abacavir is about 1.5 hours.
 Following multiple oral doses of abacavir 300 mg twice a day there is no significant accumulation of abacavir.

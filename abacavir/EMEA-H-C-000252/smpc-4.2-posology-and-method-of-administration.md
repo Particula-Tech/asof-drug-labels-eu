@@ -20,7 +20,6 @@ A pharmacokinetic study has been performed in patients with mild hepatic impairm
 However, a definitive recommendation on dose reduction is not possible due to substantial variability of abacavir exposure (AUC) in this patient population (see 5.2 Pharmacokinetic properties).
 The clinical safety data available with abacavir in hepatically impaired patients are very limited.
 Due to the potential increases in exposure in some patients, close monitoring is required.
-
 No data are available in patients with moderate or severe hepatic impairment.
 Plasma concentrations of abacavir are expected to substantially increase in these patients.
 Therefore, the use of abacavir in patients with moderate hepatic impairment is not recommended unless judged necessary and requires close monitoring of these patients.

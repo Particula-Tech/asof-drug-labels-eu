@@ -11,25 +11,24 @@ The signs and symptoms of this hypersensitivity reaction are listed below.
 These have been identified either from clinical studies or post marketing surveillance.
 Those reported in at least 10% of patients with a hypersensitivity reaction are in bold text.
 
-Skin:- Rash (usually maculopapular or urticarial)
-Gastrointestinal tract:- Nausea, vomiting, diarrhoea, abdominal pain, mouth
+Skin Rash (usually maculopapular or urticarial)
+Gastrointestinal tract Nausea, vomiting, diarrhoea, abdominal pain, mouth ulceration
+Respiratory tract Dyspnoea, cough, sore throat, adult respiratory distress
 
-ulceration
+syndrome, respiratory failure
 
-Respiratory tract:- Dyspnoea, cough, sore throat
-Miscellaneous:- Fever, lethargy, malaise, oedema, lymphadenopathy,
+Miscellaneous Fever, lethargy, malaise, oedema, lymphadenopathy,
 
 hypotension, conjunctivitis, anaphylaxis
 
-Neurological/Psychiatry:- Headache, paraesthesia
-
-Haematological:- Lymphopenia
-Liver/pancreas:- Elevated liver function tests, hepatitis, hepatic failure
-uloskeletal:- Myalgia, rarely myolysis, arthralgia, elevated creatine
+Neurological/Psychiatry Headache, paraesthesia
+Haematological Lymphopenia
+Liver/pancreas Elevated liver function tests, hepatitis, hepatic failure
+Musculoskeletal Myalgia, rarely myolysis, arthralgia, elevated creatine
 
 phosphokinase
 
-Urology:- Elevated creatinine, renal failure
+Urology: Elevated creatinine, renal failure
 
 Rash (81% vs 67% respectively) and gastrointestinal manifestations (70% vs 54% respectively) were more frequently reported in children compared to adults.
 
@@ -57,30 +56,47 @@ In both cases, if a decision is made to restart Ziagen this must be done in a se
 
 Each patient must be warned about this hypersensitivity reaction to abacavir.
 
-For many of the other adverse events reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV disease or as a result of the disease process.
+For many of the other adverse events reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV infection or as a result of the disease process.
 
-The following adverse reactions may be related to Ziagen.
-The majority of these have not been treatment limiting.
-Care however must be taken to eliminate the possibility of a hypersensitivity reaction if any of these symptoms occur.
+Many of those listed below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) or very rarely (erythema multiforme, Stevens Johnson syndrome and toxic epidermal necrolysis) in patients with abacavir hypersensitivity.
+Therefore, patients with any of these symptoms should be carefully evaluated for the presence of this hypersensitivity reaction.
+If Ziagen has been discontinued in patients due to experiencing any one of these symptoms and a decision is made to restart Ziagen, this must be done in a setting where medical assistance is readily available (see Section 4.4.- Management after an interruption of Ziagen therapy).
 
-Common (greater than 1/100)
+Many of the adverse reactions have not been treatment limiting.
+The following convention has been used for their classification:- very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100), rare (>1/10,000, <1/1,000) very rare (<1/10,000).
 
-Gastrointestinal: nausea, vomiting, diarrhoea
+Metabolism and nutrition disorders
+Common: anorexia
 
-Other: headache, fever, lethargy, fatigue, anorexia
+Nervous system disorders
+Common: headache
 
-Rare (less than 1/1000)
+Gastrointestinal disorders
+Common: nausea, vomiting, diarrhoea
+Rare: pancreatitis has been reported, but a causal relationship to Ziagen treatment is uncertain.
 
-Pancreatitis has been reported, but a causal relationship to Ziagen treatment is uncertain.
+Skin and subcutaneous tissue disorders
+Common: rash (without systemic symptoms)
+Very rare: erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis
+
+General disorders and administration site disorders
+Common: fever, lethargy, fatigue
 
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see section 4.4 Special warnings and special precautions for use).
-Laboratory abnormalities - In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.
+
+Laboratory abnormalities – In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.
 
 [Ziagen 20 mg/ml oral solution]
 
-Gastrointestinal tract:- Nausea, vomiting, diarrhoea, abdominal pain, mouth ulceration
+Respiratory tract Dyspnoea, cough, sore throat, adult respiratory distress syndrome,
 
-Musculoskeletal:- Myalgia, rarely myolysis, arthralgia, elevated creatine
+respiratory failure
+
+Miscellaneous Fever, lethargy, malaise, oedema, lymphadenopathy, hypotension,
+
+conjunctivitis, anaphylaxis
+
+Musculoskeletal Myalgia, rarely myolysis, arthralgia, elevated creatine phosphokinase
 
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues.
 (see section 4.4 Special warnings and special precautions for use).
