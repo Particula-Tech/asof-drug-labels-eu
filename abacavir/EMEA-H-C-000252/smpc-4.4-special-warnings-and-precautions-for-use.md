@@ -19,22 +19,22 @@ These symptoms usually resolve upon discontinuation of Ziagen.
 
 Hypersensitivity reaction symptoms usually appear within the first six weeks of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 Patients should be monitored closely, especially during the first two months of treatment with Ziagen, with consultation every two weeks.
+
 Patients who are diagnosed with a hypersensitivity reaction whilst on therapy MUST discontinue Ziagen immediately.
 
-Ziagen, or any other abacavir containing medicinal product, MUST NEVER be restarted in patients who have stopped therapy due to a hypersensitivity reaction.
+Ziagen, or any other abacavir containing medicinal product (i.e. Trizivir), MUST NEVER be restarted in patients who have stopped therapy due to a hypersensitivity reaction.
 Restarting abacavir following a hypersensitivity reaction results in a prompt return of symptoms within hours.
 This recurrence is usually more severe than on initial presentation, and may include life-threatening hypotension and death.
 
-To avoid a delay in diagnosis and minimise the risk of a life-threatening hypersensitivity reaction, Ziagen must be discontinued if hypersensitivity cannot be ruled out, even when other diagnoses are possible (respiratory diseases, flu-like illness, gastroenteritis or reactions to other medications).
+To avoid a delay in diagnosis and minimise the risk of a life-threatening hypersensitivity reaction, Ziagen must be permanently discontinued if hypersensitivity cannot be ruled out, even when other diagnoses are possible (respiratory diseases, flu-like illness, gastroenteritis or reactions to other medications).
 
-Special care is needed for those patients simultaneously starting treatment with Ziagen and other medicinal products known to induce skin toxicity (such as non nucleoside reverse transcriptase inhibitors).
-This is because it could be difficult to differentiate between rashes induced by these products and abacavir related hypersensitivity reactions.
+Special care is needed for those patients simultaneously starting treatment with Ziagen and other medicinal products known to induce skin toxicity (such as nonnucleoside reverse transcriptase inhibitors).
+This is because it is currently difficult to differentiate between rashes induced by these products and abacavir related hypersensitivity reactions.
 
 - Management after an interruption of Ziagen therapy
 
-If therapy with Ziagen has been discontinued for any reason and restarting therapy is under consideration, the reason for discontinuation must be established to assess whether the patient had any symptoms of a hypersensitivity reaction prior to stopping.
-
-If reintroduction is judged necessary in cases where a hypersensitivity reaction cannot be excluded even when other diagnoses are possible (respiratory diseases, flu-like illness, gastroenteritis, or reactions to other medications), it must be done in a hospital setting.
+If therapy with Ziagen has been discontinued for any reason and restarting therapy is under consideration, the reason for discontinuation must be established to assess whether the patient had any symptoms of a hypersensitivity reaction.
+If a hypersensitivity reaction cannot be ruled out, Ziagen or any other medicinal product containing abacavir (i.e. Trizivir) must not be restarted.
 
 Hypersensitivity reactions with rapid onset, including life-threatening reactions have occurred after re-starting Ziagen in patients who had only one of the key symptoms of hypersensitivity (skin rash, fever, gastrointestinal, respiratory or constitutional symptoms such as lethargy and malaise) prior to stopping Ziagen.
 The most common isolated symptom of a hypersensitivity reaction was a skin rash.
@@ -45,10 +45,15 @@ In both cases, if a decision is made to re-start Ziagen this must be done in a s
 
 Prescribers must ensure that patients are fully informed regarding the following information on the hypersensitivity reaction:
 
-- Patients must be made aware of the possibility of a hypersensitivity reaction to abacavir that may result in a life threatening reaction or death.
-- Patients developing signs or symptoms possibly linked with a hypersensitivity
+- Patients must be made aware of the possibility of a hypersensitivity reaction to
 
-reaction MUST CONTACT their doctor IMMEDIATELY.
+abacavir that
+
+may result in a life threatening reaction or death.
+
+- Patients developing signs or symptoms possibly linked with a hypersensitivity reaction MUST CONTACT their doctor IMMEDIATELY.
+
+- Patients who are hypersensitive to abacavir should be reminded that they must never take Ziagen or any other abacavir containing medicinal product (i.e. Trizivir) again.
 
 - In order to avoid restarting Ziagen, patients who have experienced a hypersensitivity reaction should be asked to return the remaining Ziagen tablets or oral solution to the pharmacy.
 
@@ -61,23 +66,42 @@ They should be reminded of the importance of removing the Alert Card included in
 
 Occurrences of lactic acidosis (in the absence of hypoxaemia), sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis have been reported with the use of nucleoside analogues.
 Treatment with nucleoside analogues should be discontinued in the setting of rapidly elevating aminotransferase levels, progressive hepatomegaly or metabolic/lactic acidosis of unknown aetiology.
-Benign digestive symptoms, such as nausea, vomiting and abdominal pain, might be indicative of lactic acidosis development.
+Benign digestive symptoms, such as nausea, vomiting and abdominal pain, respiratory symptoms or neurological symptoms might be indicative of lactic acidosis development.
+Severe cases, sometimes with fatal outcome, were associated with pancreatitis, liver failure/hepatic steatosis, renal failure and higher levels of serum lactate.
+
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease.
 These patients should be followed closely.
+Lactic acidosis generally occurred after a few months of treatment.
 
 Pancreatitis has been reported, but a causal relationship to Ziagen treatment is uncertain.
 
-In patients with high viral load (>100,000 copies/ml) the choice of a triple combination therapy with abacavir, lamivudine and zidovudine needs special consideration (see 5.1 Pharmacodynamic properties).
+In patients with high viral load (>100,000 copies/ml) the choice of a triple combination with abacavir, lamivudine and zidovudine needs special consideration (see 5.1 Pharmacodynamic properties).
 
-Insufficient data are available to recommend the use of Ziagen in children.
-In this population, hypersensitivity reactions are particularly difficult to identify.
-
-Data to support the use of Ziagen in patients with moderate hepatic impairment are not currently available, therefore, administration of Ziagen should be avoided in these patients.
+A pharmacokinetic study has been performed in patients with mild hepatic impairment.
+However, a definitive recommendation on dose reduction is not possible due to substantial variability of drug exposure in this patient population (see 5.2 Pharmacokinetic properties).
+The clinical safety data available with abacavir in hepatically impaired patients is very limited.
+Due to the potential increases in exposure (AUC) in some patients, close monitoring is required.
+No data are available in patients with moderate or severe hepatic impairment.
+Plasma concentrations of abacavir are expected to substantially increase in these patients.
+Therefore, the use of abacavir in patients with moderate hepatic impairment is not recommended unless judged necessary and requires close monitoring of these patients.
+For patients with severe hepatic impairment, Ziagen is contraindicated (see 4.3 Contraindications).
 
 Ziagen should not be administered to patients with end-stage renal disease (see 5.2 Pharmacokinetic properties).
 
 Patients receiving Ziagen or any other antiretroviral therapy may still develop opportunistic infections and other complications of HIV infection.
 Therefore patients should remain under close clinical observation by physicians experienced in the treatment of these associated HIV diseases.
-
 Patients should be advised that current antiretroviral therapy, including Ziagen, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be taken.
+
+[Ziagen 20 mg/ml oral solution]
+
+Special care is needed for those patients simultaneously starting treatment with Ziagen and other medicinal products known to induce skin toxicity (such as non nucleoside reverse transcriptase inhibitors).
+
+Moreover,on very rare occasions hypersensitivity reactions have been reported in patients who have re-started therapy, and who had no preceding symptoms of a hypersensitivity reaction.
+
+- Patients must be made aware of the possibility of a hypersensitivity reaction to abacavir that may result in a life threatening reaction or death.
+
+Ziagen oral solution contains 340 mg/ml of sorbitol.
+When taken according to the dosage recommendations each 15 ml dose contains approximately 5 g of sorbitol.
+This product is unsuitable for patients with hereditary fructose intolerance.
+Sorbitol can cause stomach upset and diarrhoea.

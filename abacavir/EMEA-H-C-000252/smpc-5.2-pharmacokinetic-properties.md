@@ -19,7 +19,7 @@ Plasma protein binding studies in vitro indicate that abacavir binds only low to
 This indicates a low likelihood for interactions with other medicinal products through plasma protein binding displacement.
 
 Metabolism: Abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound.
-The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5’-carboxylic acid and 5’-glucuronide which account for about 66% of the dose excreted in the urine.
+The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5’- carboxylic acid and 5’-glucuronide which account for about 66% of the dose excreted in the urine.
 
 Elimination: The mean half-life of abacavir is about 1.5 hours.
 Following multiple oral doses of abacavir 300 mg twice a day there is no significant accumulation of abacavir.
@@ -29,9 +29,9 @@ The metabolites and unchanged abacavir account for about 83% of the administered
 Special populations:
 
 Hepatically impaired: Abacavir is metabolised primarily by the liver.
-Analysis of safety data support the use of abacavir 300 mg twice a day in patients with mild impairment.
-Data to support dosing recommendations in patients with moderate hepatic impairment are not currently available, therefore administration of Ziagen should be avoided in these patients.
-Ziagen is contraindicated in patients with severe hepatic impairment.
+The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5-6) receiving a single 600 mg dose.
+The results showed that there was a mean increase of 1.89 fold [1.32; 2.70] in the abacavir AUC, and 1.58 [1.22; 2.04] fold in the elimination half-life.
+No recommendation on dosage reduction is possible in patients with mild hepatic impairment due to the substantial variability of abacavir exposure.
 
 Renally impaired: Abacavir is primarily metabolised by the liver with approximately 2% of abacavir excreted unchanged in the urine.
 The pharmacokinetics of abacavir in patients with end-stage renal disease is similar to patients with normal renal function.
@@ -40,7 +40,10 @@ Based on limited experience Ziagen should be avoided in patients with end-stage 
 
 Children: According to clinical trials performed in children abacavir is rapidly and well absorbed from an oral solution administered to children.
 The overall pharmacokinetic parameters in children are comparable to adults, with greater variability in plasma concentrations.
-The dose used in children from three months to 12 years in clinical trials was 8 mg/kg twice daily.
-Insufficient safety data are available to recommend the use of abacavir in children.
+The recommended dose for children from three months to 12 years is 8 mg/kg twice daily.
+This will provide slightly higher mean plasma concentrations in children, ensuring that the majority will achieve therapeutic concentrations equivalent to 300 mg twice daily in adults.
+
+There are insufficient safety data to recommend the use of Ziagen in infants less than three months old.
+The limited data available indicate that a dose of 2 mg/kg in neonates less than 30 days old provides similar or greater AUCs, compared to the 8 mg/kg dose administered to older children.
 
 Elderly: The pharmacokinetics of abacavir have not been studied in patients over 65 years of age.

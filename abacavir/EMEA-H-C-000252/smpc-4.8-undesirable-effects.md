@@ -8,24 +8,30 @@ This reaction is characterised by the appearance of symptoms indicating multi-or
 Almost all patients developing hypersensitivity reactions will have fever and/or rash (usually maculopapular or urticarial) as part of the syndrome, however reactions have occurred without rash or fever.
 
 The signs and symptoms of this hypersensitivity reaction are listed below.
+These have been identified either from clinical studies or post marketing surveillance.
 Those reported in at least 10% of patients with a hypersensitivity reaction are in bold text.
 
 Skin:- Rash (usually maculopapular or urticarial)
+Gastrointestinal tract:- Nausea, vomiting, diarrhoea, abdominal pain, mouth
 
-Gastrointestinal tract:- Nausea, vomiting, diarrhoea, abdominal pain, mouth ulceration
+ulceration
 
 Respiratory tract:- Dyspnoea, cough, sore throat
+Miscellaneous:- Fever, lethargy, malaise, oedema, lymphadenopathy,
 
-Miscellaneous:- Fever, lethargy, malaise, oedema, lymphadenopathy, hypotension, conjunctivitis, anaphylaxis
+hypotension, conjunctivitis, anaphylaxis
 
 Neurological/Psychiatry:- Headache, paraesthesia
 
 Haematological:- Lymphopenia
-Liver/pancreas:- Elevated liver function tests
+Liver/pancreas:- Elevated liver function tests, hepatitis, hepatic failure
+uloskeletal:- Myalgia, rarely myolysis, arthralgia, elevated creatine
 
-Musculoskeletal:- Myalgia, rarely myolysis, arthralgia, elevated creatine phosphokinase
+phosphokinase
 
 Urology:- Elevated creatinine, renal failure
+
+Rash (81% vs 67% respectively) and gastrointestinal manifestations (70% vs 54% respectively) were more frequently reported in children compared to adults.
 
 Some patients with hypersensitivity reactions were initially thought to have gastroenteritis, respiratory disease (pneumonia, bronchitis, pharyngitis) or a flu-like illness.
 This delay in diagnosis of hypersensitivity has resulted in Ziagen being continued or re-introduced, leading to more severe hypersensitivity reactions or death.
@@ -40,9 +46,9 @@ Consequently, patients should be advised of the importance of taking Ziagen regu
 
 Restarting Ziagen following a hypersensitivity reaction results in a prompt return of symptoms within hours.
 This recurrence of the hypersensitivity reaction was usually more severe than on initial presentation, and may include life-threatening hypotension and death.
+Patients who develop this hypersensitivity reaction must discontinue Ziagen and must never be rechallenged with Ziagen, or any other medicinal product containing abacavir (i.e. Trizivir).
 
-To avoid a delay in diagnosis and minimise the risk of a life-threatening hypersensitivity reaction, Ziagen must be discontinued if hypersensitivity cannot be ruled out, even when other diagnoses are possible (respiratory diseases, flu-like illness, gastroenteritis or reactions to other medications).
-If reintroduction is judged necessary it must be done in a hospital setting,
+To avoid a delay in diagnosis and minimise the risk of a life-threatening hypersensitivity reaction, Ziagen must be permanently discontinued if hypersensitivity cannot be ruled out, even when other diagnoses are possible (respiratory diseases, flu-like illness, gastroenteritis or reactions to other medications).
 
 Hypersensitivity reactions with rapid onset, including life-threatening reactions have occurred after re-starting Ziagen in patients who had only one of the key symptoms of hypersensitivity (skin rash, fever, gastrointestinal, respiratory or constitutional symptoms such as lethargy and malaise) prior to stopping Ziagen.
 The most common isolated symptom of a hypersensitivity reaction was a skin rash.
@@ -57,11 +63,24 @@ The following adverse reactions may be related to Ziagen.
 The majority of these have not been treatment limiting.
 Care however must be taken to eliminate the possibility of a hypersensitivity reaction if any of these symptoms occur.
 
+Common (greater than 1/100)
+
 Gastrointestinal: nausea, vomiting, diarrhoea
+
 Other: headache, fever, lethargy, fatigue, anorexia
+
+Rare (less than 1/1000)
 
 Pancreatitis has been reported, but a causal relationship to Ziagen treatment is uncertain.
 
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see section 4.4 Special warnings and special precautions for use).
+Laboratory abnormalities - In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.
 
-In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.
+[Ziagen 20 mg/ml oral solution]
+
+Gastrointestinal tract:- Nausea, vomiting, diarrhoea, abdominal pain, mouth ulceration
+
+Musculoskeletal:- Myalgia, rarely myolysis, arthralgia, elevated creatine
+
+Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues.
+(see section 4.4 Special warnings and special precautions for use).

@@ -1,6 +1,7 @@
 # 4.6 Pregnancy and lactation
 
-Pregnancy: Ziagen is not recommended for use in pregnant women.The safe use of abacavir in human pregnancy has not been established.
+Pregnancy: Ziagen is not recommended for use in pregnant women.
+The safe use of abacavir in human pregnancy has not been established.
 Placental transfer of abacavir and/or its related metabolites has been shown to occur in animals.
 Toxicity to the developing embryo and foetus occurred in rats, but not in rabbits (see 5.3 Preclinical safety data).
 The teratogenic potential of abacavir could not be established from studies in animals.
