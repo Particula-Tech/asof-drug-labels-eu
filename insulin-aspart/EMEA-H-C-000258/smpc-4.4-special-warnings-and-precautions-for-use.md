@@ -16,3 +16,15 @@ Patients taking NovoRapid may require an increased number of daily injections or
 If an adjustment is needed, it may occur with the first dose or during the first several weeks or months.
 Omission of a meal or unplanned, strenuous physical exercise may lead to hypoglycaemia.
 NovoRapid contains metacresol, which in rare cases may cause allergic reactions.
+
+[NovoRapid NovoLet 100 U/ml, solution for injection in pre-filled pen.]
+
+NovoRapid contains metacresol, which in rare cases may cause allergie reactions
+
+[NovoRapid FlexPen 100 U/ml, solution for injection in pre-filled pen.]
+
+(all sentences already above)
+
+[NovoRapid InnoLet 100 U/ml, solution for injection in pre-filled pen.]
+
+(all sentences already above)

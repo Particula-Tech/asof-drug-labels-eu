@@ -5,14 +5,14 @@ There is limited post-marketing experience on NovoRapid.
 
 The most frequently seen undesirable effect in insulin-treated patients is change in blood glucose levels.
 From clinical investigations it is known that major hypoglycaemia, defined as need for assistance in treatment, is very common (>1/10) in well-controlled patients.
-Based on post-marketing experience adverse events including hypoglycaemia are rare (>1/10000, < 1/1000) during use of Novo Nordisk human insulin products.
+Based on post-marketing experience adverse events including hypoglycaemia are rare (>1/10000, <1/1000) during use of Novo Nordisk human insulin products.
 
 Metabolism and nutrition disorders;
 
 Rare (>1/10000,
 <1/1000)
 
-Change in blood Hypoglycaemia:
+Change in blood H ypoglycaemia:
 glucose: Symptoms of hypoglycaemia usually occur suddenly. They may
 Hypoglycaemia/ include cold sweats, cool pale skin, fatigue, nervousness or tremor,
 hyperglycaemia anxiousness, unusual tiredness or weakness, confusion, difficulty in
@@ -25,6 +25,7 @@ Usually the first symptoms of hyperglycaemia set in gradually, over a period of 
 They include thirst, increased frequency of urination, nausea, vomiting, drowsiness, flushed dry skin, dry mouth, loss of appetite as well as acetone odour of breath.
 In type 1 diabetes, untreated hyperglycaemic events eventually lead to diabetic ketoacidosis, which is potentially lethal.
 For precautions see section 4.4.
+
 Very rare (<1/10000)
 
 Oedema Oedema may occur upon initiation of insulin therapy. These symptoms
@@ -42,11 +43,8 @@ These symptoms are usually of transitory nature.
 Skin and subcutaneous tissue disorders
 
 Very rare (<1/10000)
-
-Local Local hypersensitivity reactions (redness, swelling and itching at the
-hypersensitivity injection site) may occur during treatment with insulin. These reactions
-
-are usually transitory and normally they disappear during continued treatment.
+Local hypersensitivity Local hypersensitivity reactions (redness, swelling and itching at the injection site) may occur during treatment with insulin.
+These reactions are usually transitory and normally they disappear during continued treatment.
 
 Very rare (<1/10000)
 
@@ -63,3 +61,15 @@ hypersensitivity skin rash, itching, sweating, gastrointestinal upset, angioneur
 
 oedema, difficulties in breathing, palpitation and reduction in blood pressure.
 Generalised hypersensitivity reactions are potentially life threatening.
+
+[NovoRapid NovoLet 100 U/ml, solution for injection in pre-filled pen.]
+
+Change in blood Hypoglycaemia:
+
+[NovoRapid FlexPen 100 U/ml, solution for injection in pre-filled pen.]
+
+(all sentences already above)
+
+[NovoRapid InnoLet 100 U/ml, solution for injection in pre-filled pen.]
+
+(all sentences already above)
