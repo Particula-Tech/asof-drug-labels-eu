@@ -83,8 +83,9 @@ No adverse events previously unreported in shorter duration and/or previous stud
 [Protopic 0.1% ointment]
 
 Topical corticosteroid Tacrolimus 0.1%
+regimen§ (N=487)
 
-|  | regimen§ (N=485) | (N=487) |
+|  | (N=485) |  |
 | --- | --- | --- |
 | Response rate of ≥ 60% improvement in mEASI (Primary Endpoint)§§ | 50.8% | 71.6% |
 | Improvement ≥ 90% in Physician’s Global Evaluation | 28.5% | 47.7% |
