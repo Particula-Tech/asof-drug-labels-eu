@@ -7,7 +7,7 @@ The incidence of adverse events was not related to dose (in the recommended dose
 Clinical adverse events, regardless of whether attributed to therapy, occurring in 1% or more of hypertensive patients with Aprovel in placebo-controlled trials are presented in the following table: % of Patients
 
 Adverse Event Irbesartan Monotherapy Placebo
-n=1965 n=641
+n= 1965 n= 641
 respiratory infection a 18.4 18.6
 headache 12.3 16.7 *
 musculoskeletal pain b 7.3 8.4

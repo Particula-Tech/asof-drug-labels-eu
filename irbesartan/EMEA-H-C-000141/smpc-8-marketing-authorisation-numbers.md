@@ -1,11 +1,3 @@
 # 8. MARKETING AUTHORISATION NUMBERS
 
-EU/1/97/046/001-003
-
-[Aprovel 150 mg tablets.]
-
-EU/1/97/046/004-006
-
-[Aprovel 300 mg tablets.]
-
-EU/1/97/046/007-009
+EU/1/97/046/XXX
