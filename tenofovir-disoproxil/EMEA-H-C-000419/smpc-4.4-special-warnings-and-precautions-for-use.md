@@ -84,9 +84,14 @@ Whether the neurological disorders are transient or permanent is currently unkno
 Any child exposed in utero to nucleoside and nucleotide analogues, even HIV negative children, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in case of relevant signs or symptoms.
 These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
+Immune Reactivation Syndrome: In HIV infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
+Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
+Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
+Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 Co-administration of tenofovir disoproxil fumarate and didanosine resulted in increased systemic exposure to didanosine.
 Patients receiving tenofovir disoproxil fumarate and didanosine should be carefully monitored for didanosine-related adverse events including but not limited to pancreatitis and peripheral neuropathy (see 4.5).
 
 Triple nucleoside therapy: There have been reports of a high rate of virological failure and of emergence of resistance at early stage when tenofovir disoproxil fumarate was combined with lamivudine and abacavir as well as with lamivudine and didanosine as a once daily regimen.
+
 Patients must be advised that antiretroviral therapies, including tenofovir disoproxil fumarate, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions must continue to be used.

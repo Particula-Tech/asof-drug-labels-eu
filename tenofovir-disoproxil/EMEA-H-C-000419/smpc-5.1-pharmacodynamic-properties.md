@@ -47,6 +47,7 @@ The virological response was substantially decreased in patients with viral stra
 A statistically significant difference in favour of tenofovir disoproxil 245 mg (as fumarate) was seen in the time-weighted average change from baseline at week 24 (DAVG24) for CD4 count (+13 cells/mm3 for tenofovir disoproxil 245 mg (as fumarate) versus -11 cells/mm3 for placebo, p-value = 0.0008).
 The antiviral response to tenofovir disoproxil fumarate was durable through 48 weeks (DAVG48 was -0.57 log10 copies/ml, proportion of patients with HIV-1 RNA below 400 or 50 copies/ml was 41% and 18% respectively).
 Eight (2%) tenofovir disoproxil 245 mg (as fumarate) treated patients developed the K65R mutation within the first 48 weeks.
+
 The 144-week, double-blind, active controlled phase of study GS-99-903 evaluated the efficacy and safety of tenofovir disoproxil 245 mg (as fumarate) versus stavudine when used in combination with lamivudine and efavirenz in HIV-1 infected patients naïve to antiretroviral therapy.
 The mean baseline CD4 cell count was 279 cells/mm3, the mean baseline plasma HIV-1 RNA was 4.91 log10 copies/ml, 19% of patients had symptomatic HIV-1 infection and 18% had AIDS.
 Patients were stratified by baseline HIV-1 RNA and CD4 count.

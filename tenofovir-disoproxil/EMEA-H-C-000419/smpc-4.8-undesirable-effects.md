@@ -40,3 +40,5 @@ Combination antiretroviral therapy has been associated with redistribution of bo
 
 In a 144-week controlled clinical study in antiretroviral-naïve patients that compared tenofovir disoproxil fumarate with stavudine in combination with lamivudine and efavirenz, patients who received tenofovir disoproxil had a significantly lower incidence of lipodystrophy compared with patients who received stavudine.
 The tenofovir disoproxil fumarate arm also had significantly smaller mean increases in fasting triglycerides and total cholesterol than the comparator arm.
+
+In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
