@@ -16,7 +16,8 @@ However, folinic acid has an effect on the pharmacodynamics of Xeloda: the maxim
 
 Sorivudine and analogues: a clinically significant drug-drug interaction between sorivudine and 5-FU, resulting from the inhibition of dihydropyrimidine dehydrogenase by sorivudine, has been described.
 This interaction, which leads to increased fluoropyrimidine toxicity, is potentially fatal.
-Therefore, Xeloda must not be administered with sorivudine or its chemically related analogues, such as brivudine (see sec. 4.3).
+Therefore, Xeloda must not be administered with sorivudine or its chemically related analogues, such as brivudine (see section 4.3).
+
 Antacid: the effect of an aluminum hydroxide and magnesium hydroxide-containing antacid on the pharmacokinetics of capecitabine was investigated.
 There was a small increase in plasma concentrations of capecitabine and one metabolite (5’-DFCR); there was no effect on the 3 major metabolites (5’-DFUR, 5-FU and FBAL).
 
@@ -27,6 +28,8 @@ Interaction with cytochrome P-450: For potential interactions with isozymes 1A2,
 
 Interferon alpha: the MTD of Xeloda was 2000 mg/m2 per day when combined with interferon alpha-2a (3 MIU/m2 per day) compared to 3000 mg/m2 per day when Xeloda was used alone.
 
+Radiotherapy: the MTD of Xeloda alone using the intermittent regimen is 3000 mg/m2 per day, whereas, when combined with radiotherapy for rectal cancer, the MTD of Xeloda is 2000 mg/m2 per day using either a continuous schedule or given daily Monday through Friday during a 6-week course of radiotherapy.
+
 Food Interaction: In all clinical trials, patients were instructed to administer Xeloda within 30 minutes after a meal.
 Since current safety and efficacy data are based upon administration with food, it is recommended that Xeloda be administered with food.
-Administration with food decreases the rate of capecitabine absorption (see sec. 5.2).
+Administration with food decreases the rate of capecitabine absorption (see section 5.2).

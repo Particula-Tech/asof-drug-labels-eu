@@ -27,13 +27,14 @@ According to immunohistochemical studies, thymidine phosphorylase appears to be 
 Dihydropyrimidinase cleaves the pyrimidine ring to yield 5-fluoro-ureidopropionic acid (FUPA).
 Finally, β-ureido-propionase cleaves FUPA to α-fluoro-β-alanine (FBAL) which is cleared in the urine.
 Dihydropyrimidine dehydrogenase (DPD) activity is the rate limiting step.
-Deficiency of DPD may lead to increased toxicity of capacitabine (see sec. 4.3 and 4.4).
+Deficiency of DPD may lead to increased toxicity of capecitabine (see section 4.3 and 4.4).
 
 Elimination: the elimination half-life (t1/2 in hours) of capecitabine, 5'-DFCR, 5'-DFUR, 5-FU and FBAL were 0.85, 1.11, 0.66, 0.76 and 3.23 respectively.
 Capecitabine and its metabolites are predominantly excreted in urine; 95.5% of administered capecitabine dose is recovered in urine.
 Faecal excretion is minimal (2.6%).
 The major metabolite excreted in urine is FBAL, which represents 57% of the administered dose.
 About 3% of the administered dose is excreted in urine as unchanged drug.
+
 Combination therapy: Phase I studies evaluating the effect of Xeloda on the pharmacokinetics of either docetaxel or paclitaxel and vice versa showed no effect by Xeloda on the pharmacokinetics of docetaxel or paclitaxel (Cmax and AUC) and no effect by docetaxel or paclitaxel on the pharmacokinetics of 5’-DFUR.
 
 Pharmacokinetics in special populations: A population pharmacokinetic analysis was carried out after Xeloda treatment of 505 patients with colorectal cancer dosed at 1250 mg/m2 twice daily.
