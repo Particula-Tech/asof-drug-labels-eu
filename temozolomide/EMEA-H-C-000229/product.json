@@ -1,0 +1,16 @@
+{
+  "active_substance": "temozolomide",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000229",
+  "eu_number": "EU/1/98/096",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "1999-01-26",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/temodal",
+  "molecule": "temozolomide",
+  "molecule_name": "TEMOZOLOMIDE",
+  "name": "Temodal",
+  "register_name": "Temodal",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h096.htm"
+}
