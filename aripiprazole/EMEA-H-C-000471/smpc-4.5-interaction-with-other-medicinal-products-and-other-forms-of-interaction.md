@@ -16,6 +16,7 @@ In a clinical study in healthy subjects, a potent inhibitor of CYP2D6 (quinidine
 The AUC and Cmax of dehydro-aripiprazole, the active metabolite, decreased by 32% and 47%.
 ABILIFY dose should be reduced to approximately one-half of its prescribed dose when concomitant administration of ABILIFY with quinidine occurs.
 Other potent inhibitors of CYP2D6, such as fluoxetine and paroxetine, may be expected to have similar effects and similar dose reductions should therefore be applied.
+
 In a clinical study in healthy subjects, a potent inhibitor of CYP3A4 (ketoconazole) increased aripiprazole AUC and Cmax by 63% and 37%, respectively.
 The AUC and Cmax of dehydro-aripiprazole increased by 77% and 43%, respectively.
 In CYP2D6 poor metabolisers, concomitant use of potent inhibitors of CYP3A4 may result in higher plasma concentrations of aripiprazole compared to that in CYP2D6 extensive metabolizers.

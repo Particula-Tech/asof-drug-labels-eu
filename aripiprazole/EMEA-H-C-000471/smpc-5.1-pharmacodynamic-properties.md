@@ -1,13 +1,12 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: antipsychotics, ATC code; N05 AX12
-
-It has been proposed that aripiprazole’s efficacy in schizophrenia is mediated through a combination of partial agonism at dopamine D2 and serotonin 5HT1a receptors and antagonism of serotonin 5HT2 receptors.
+It has been proposed that aripiprazole’s efficacy in schizophrenia is mediated through a combination of partial agonism at dopamine D2 and serotonin 5HT1a receptors and antagonism of serotonin 5HT2a receptors.
 Aripiprazole exhibited antagonist properties in animal models of dopaminergic hyperactivity and agonist properties in animal models of dopaminergic hypoactivity.
-Aripiprazole exhibited high binding affinity in vitro for dopamine D2 and D3, serotonin 5HT1a and 5HT2a receptors and moderate affinity for dopamine D4, serotonin 5HT2c and 5HT7, alpha1 adrenergic and H1 histamine receptors.
+Aripiprazole exhibited high binding affinity in vitro for dopamine D2 and D3, serotonin 5HT1a and 5HT2a receptors and moderate affinity for dopamine D4, serotonin 5HT2c and 5HT7, alpha-1 adrenergic and histamine H1 receptors.
 Aripiprazole also exhibited moderate binding affinity for the serotonin reuptake site and no appreciable affinity for muscarinic receptors.
 Interaction with receptors other than dopamine and serotonin subtypes may explain some of the other clinical effects of aripiprazole.
-Aripiprazole doses ranging from 0.5 to 30 mg administered once a day to healthy subjects for 2 weeks produced a dose-dependent reduction in the binding of 11C-raclopride, a specific D2 receptor ligand, to the caudate and putamen detected by positron emission tomography.
+Aripiprazole doses ranging from 0.5 to 30 mg administered once a day to healthy subjects for 2 weeks produced a dose-dependent reduction in the binding of 11C-raclopride, a D2/D3 receptor ligand, to the caudate and putamen detected by positron emission tomography.
 
 Further information on clinical trials:
 Schizophrenia: in three short-term (4 to 6 week) placebo-controlled trials involving

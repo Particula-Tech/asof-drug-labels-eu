@@ -1,3 +1,1 @@
 # 10. DATE OF REVISION OF THE TEXT
-
-{month year}

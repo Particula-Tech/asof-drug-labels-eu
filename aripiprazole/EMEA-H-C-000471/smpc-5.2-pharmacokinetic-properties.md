@@ -15,7 +15,6 @@ Aripiprazole is extensively metabolised by the liver primarily by three biotrans
 Based on in vitro studies, CYP3A4 and CYP2D6 enzymes are responsible for dehydrogenation and hydroxylation of aripiprazole, and N-dealkylation is catalysed by CYP3A4.
 Aripiprazole is the predominant medicinal product moiety in systemic circulation.
 At steady state, dehydro-aripiprazole, the active metabolite, represents about 40% of aripiprazole AUC in plasma.
-
 Elimination:
 The mean elimination half-lives for aripiprazole are approximately 75 hours in extensive metabolisers of CYP2D6 and approximately 146 hours in poor metabolisers of CYP2D6.
 

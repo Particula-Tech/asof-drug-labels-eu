@@ -18,7 +18,7 @@ However, the maximum daily dose of 30 mg should be used with caution in patients
 Patients with renal impairment: no dosage adjustment is required in patients with renal impairment.
 
 Elderly: the effectiveness of ABILIFY in the treatment of schizophrenia in patients 65 years of age or older has not been established.
-Owing to the greater sensitivity of this population, a lower starting dose should be considered when clinical factors warrant.
+Owing to the greater sensitivity of this population, a lower starting dose should be considered when clinical factors warrant (see section 4.4).
 
 Gender: no dosage adjustment is required for female patients as compared to male patients
 (see section 5.2).

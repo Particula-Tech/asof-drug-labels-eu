@@ -15,3 +15,14 @@ If a patient develops signs and symptoms indicative of NMS, or presents with une
 
 Seizure: in premarketing studies, uncommon cases of seizure were reported during treatment with aripiprazole.
 Therefore, aripiprazole should be used with caution in patients who have a history of seizure disorder or have conditions associated with seizures.
+
+Cerebrovascular Adverse Events, including stroke, in elderly patients with dementia-related psychosis: in three placebo-controlled trials of aripiprazole in elderly patients with psychosis associated with Alzheimer's disease, cerebrovascular adverse events (e.g. stroke, transient ischemic attack), including fatalities, were reported in patients (mean age: 84 years; range: 78-88 years).
+Overall, 1.3% of aripiprazole-treated patients reported cerebrovascular adverse events compared with 0.6% of placebo-treated patients in these trials.
+This difference was not statistically significant.
+However, in one of these trials, a fixed-dose trial, there was a significant dose response relationship for cerebrovascular adverse events in patients treated with aripiprazole.
+ABILIFY is not approved for the treatment of dementia-related psychosis.
+
+Hyperglycaemia and Diabetes Mellitus: hyperglycaemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotic agents.
+In clinical trials with aripiprazole, there were no significant differences in the incidence rates of hyperglycaemia-related adverse events (including diabetes) or in abnormal glycaemia laboratory values compared to placebo.
+Precise risk estimates for hyperglycaemia-related adverse events in patients treated with ABILIFY and with other atypical antipsychotic agents are not available to allow direct comparisons.
+Patients treated with any antipsychotic agents, including ABILIFY, should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control.
