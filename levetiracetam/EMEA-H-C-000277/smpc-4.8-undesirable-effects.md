@@ -5,7 +5,8 @@ The most commonly reported undesirable effects were somnolence, asthenia and diz
 In the pooled safety analysis, there was no clear dose-response relationship but incidence and severity of the central nervous system related undesirable effects decreased over time.
 
 Undesirable effects reported in clinical studies or from post-marketing experience are listed in the following table per System Organ Class and per frequency.
-For clinical trials, the frequency is defined as follows: very common: > 10 %; common: > 1 - 10 %; uncommon: > 0.1 % - 1 %; rare: 0.01 % - 0.1 %; very rare: < 0.01 %, including isolated reports.
+For clinical trials, the frequency is defined as follows: very common: > 10 %; common: > 1 - 10 %; uncommon: > 0.1 % - 1 %; rare: 0.01 % -
+0.1 %; very rare: < 0.01 %, including isolated reports.
 Data from post-marketing experience are insufficient to support an estimate of their incidence in the population to be treated.
 
 - General disorders and administration site conditions
@@ -49,3 +50,19 @@ Common: rash
 - Blood and lymphatic system disorders
 
 Post-marketing experience: leukopenia, neutropenia, pancytopenia, thrombocytopenia
+
+[Keppra 500 mg film-coated tablets.]
+
+(all sentences already above)
+
+[Keppra 750 mg film-coated tablets.]
+
+E 110 coloring agent may cause allergic reactions.
+
+[Keppra 1000 mg film-coated tablets.]
+
+(all sentences already above)
+
+[Keppra 100 mg/ml oral solution.]
+
+(all sentences already above)

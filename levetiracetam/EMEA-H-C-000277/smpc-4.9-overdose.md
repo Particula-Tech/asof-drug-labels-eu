@@ -2,7 +2,7 @@
 
 Symptoms
 
-Somnolence, agitation and aggression were observed with Keppra overdoses.
+Somnolence, agitation, aggression, depressed level of consciousness, respiratory depression and coma were observed with Keppra overdoses.
 
 Management of overdose
 
