@@ -18,3 +18,22 @@ Desloratadine does not inhibit CYP3A4 in vivo, and in vitro studies have shown t
 
 In a single dose trial using a 7.5 mg dose of desloratadine, there was no effect of food (high-fat, high caloric breakfast) on the disposition of desloratadine.
 In another study, grapefruit juice had no effect on the disposition of desloratadine.
+
+[Azomyr 0.5 mg/ml syrup]
+
+Desloratadine plasma concentrations can be detected within 30 minutes of desloratadine administration in adults and adolescents.
+
+There is no evidence of clinically relevant drug accumulation following once daily adult and adolescent dosing of desloratadine (5 mg to 20 mg) for 14 days.
+
+In a single dose, crossover study of desloratadine, the tablet and the syrup formulations were found to be bioequivalent.
+
+In separate single dose studies, at the recommended doses, paediatric patients had comparable AUC and Cmax values of desloratadine to those in adults who received a 5 mg dose of desloratadine syrup.
+
+Studies conducted show that desloratadine does not inhibit CYP3A4 and desloratadine is not a substrate or an inhibitor of P-glycoprotein.
+
+[Azomyr 5 mg oral lyophilisate]
+
+In single-dose crossover studies of Azomyr oral lyophilisate with Azomyr tablets, the formulations were bioequivalent.
+
+The presence of food has no relevant influence on AUC and Cmax of Azomyr oral lyophilisate while the presence of food prolongs Tmax for desloratadine from 2.5 to 4 hours and Tmax for 3-OH-desloratadine from 4 to 6 hours.
+In a separate study, grapefruit juice had no effect on the disposition of desloratadine.

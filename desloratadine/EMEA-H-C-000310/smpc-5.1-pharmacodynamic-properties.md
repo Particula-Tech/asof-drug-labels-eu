@@ -33,3 +33,40 @@ Treatment with Azomyr also significantly reduced interference with sleep and day
 
 Azomyr was effective in alleviating the burden of seasonal allergic rhinitis (SAR) as shown by the total score of the rhino-conjunctivitis quality of life questionnaire.
 The greatest amelioration was seen in the domains of practical problems and daily activities limited by symptoms.
+
+[Azomyr 0.5 mg/ml syrup]
+
+Efficacy of Azomyr syrup has not been investigated in separate paediatric trials.
+Safety of Azomyr syrup was demonstrated in two paediatric trials.
+Children ages 2-11 years with a documented history of SAR or CIU received a daily dose of 1.25 mg (2 through 5 years of age) or 2.5 mg
+(6 through 11 years of age).
+Treatment was well tolerated as documented by clinical laboratory tests, vital signs, and ECG interval data, including QTc.
+When given at the recommended doses, the pharmacokinetic activity of desloratadine (see 5.2) was comparable in the paediatric and adult populations.
+Thus, since the course of SAR/CIU and the profile of desloratadine are similar in adults and paediatric patients, desloratadine efficacy data in adults can be extrapolated to the paediatric population.
+
+In a multiple dose clinical trial, in adults and adolescents, in which up to 20 mg of desloratadine was administered daily for 14 days, no statistically or clinically relevant cardiovascular effect was observed.
+In a clinical pharmacology trial, in adults and adolescents, in which desloratadine was administered to adults at a dose of 45 mg daily (nine times the clinical dose) for ten days, no prolongation of QTc interval was seen.
+
+At the recommended dose of 5 mg daily for adults and adolescents, there was no excess incidence of somnolence as compared to placebo.
+Azomyr tablets given at a single daily dose of 7.5 mg to adults and adolescents did not affect psychomotor performance in clinical trials.
+
+In clinical pharmacology trials in adults, co-administration with alcohol did not increase the alcohol-induced impairment in performance or increase in sleepiness.
+
+In adult and adolescent patients with seasonal allergic rhinitis, Azomyr tablets were effective in relieving symptoms such as sneezing, nasal discharge and itching, as well as ocular itching, tearing and redness, and itching of palate.
+
+Azomyr tablets were effective in alleviating the burden of seasonal allergic rhinitis as shown by the total score of the rhino-conjunctivitis quality of life questionnaire.
+
+[Azomyr 5 mg oral lyophilisate]
+
+In two single-dose trials, Azomyr oral lyophilisate was well tolerated as documented by clinical laboratory findings, physical examinations, vital signs, and ECG interval data.
+At the recommended dose, Azomyr oral lyophilisate was found to be bioequivalent to the conventional tablet formulation of desloratadine.
+Therefore, the efficacy of Azomyr oral lyophilisate is expected to be the same as with the Azomyr tablet formulation.
+
+No clinically relevant changes in desloratadine plasma concentrations were observed in multiple-dose, ketoconazole and erythromycin interaction trials.
+
+Azomyr tablets given at a single daily dose of 7.5 mg did not affect psychomotor performance in clinical trials.
+
+In patients with SAR, Azomyr tablets were effective in relieving symptoms such as sneezing, nasal discharge and itching, as well as ocular itching, tearing and redness, and itching of palate.
+Azomyr tablets effectively controlled symptoms for 24 hours.
+
+Azomyr was effective in alleviating the burden of SAR as shown by the total score of the rhino-conjunctivitis quality of life questionnaire.
