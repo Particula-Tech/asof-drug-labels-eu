@@ -11,8 +11,7 @@ Water for injections
 
 [NovoRapid Penfill 100 U/ml, solution for injection in cartridge.]
 
-ZincchlorideDisodium phosphate dihydrate
-Hydrochloric acidand/or Sodium hydroxide (for pH adjustment)
+(all sentences already above)
 
 [NovoRapid NovoLet 100 U/ml, solution for injection in pre-filled pen.]
 

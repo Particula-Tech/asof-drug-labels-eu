@@ -4,7 +4,7 @@
 
 [NovoRapid Penfill 100 U/ml, solution for injection in cartridge.]
 
-(all sentences already above)
+7 September, 1999
 
 [NovoRapid NovoLet 100 U/ml, solution for injection in pre-filled pen.]
 
@@ -17,4 +17,4 @@
 
 [NovoRapid InnoLet 100 U/ml, solution for injection in pre-filled pen.]
 
-(all sentences already above)
+4 June, 2003
