@@ -65,7 +65,10 @@ Patients with type 1 diabetes must continue to consume at least a small amount o
 
 [Insuman Rapid 100 IU/ml OptiSet solution for injection]
 
-(all sentences already above)
+Handling of the pen
+
+Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully.
+OptiSet has to be used as recommended in these Instructions for Use (see 6.6).
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 

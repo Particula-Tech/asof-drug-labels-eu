@@ -84,7 +84,7 @@ For further details on handling, see section 6.6.
 
 Insuman Rapid OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 
-For handling of the pen, see section 6.6.
+Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully (see6.6.)
 
 Insuman Rapid OptiSet must not be mixed with any other insulin or with insulin analogues.
 
@@ -113,6 +113,8 @@ Insuman Basal in cartridges has been developed for use in the OptiPen series.
 [Insuman Basal 100 IU/ml OptiSet suspension for injection]
 
 Insuman Basal OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
+
+Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully (see6.6)
 
 Insuman Basal OptiSet must not be mixed with any other insulin or with insulin analogues.
 
@@ -169,6 +171,8 @@ Insuman Comb 25 in cartridges has been developed for use in the OptiPen series.
 [Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
 
 Insuman Comb 25 OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
+
+Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully (see 6.6.)
 
 Insuman Comb 25 OptiSet must not be mixed with any other insulin or with insulin analogues.
 
