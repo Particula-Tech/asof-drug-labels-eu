@@ -20,6 +20,7 @@ Systemic exposure to atazanavir at doses that resulted in maternal toxicity was 
 
 Atazanavir was negative in an Ames reverse-mutation assay but did induce chromosomal aberrations in vitro in both the absence and presence of metabolic activation.
 In in vivo studies in rats, atazanavir did not induce micronuclei in bone marrow, DNA damage in duodenum (comet assay), or unscheduled DNA repair in liver at plasma and tissue concentrations exceeding those that were clastogenic in vitro.
+
 In long-term carcinogenicity studies of atazanavir in mice and rats, an increased incidence of benign hepatic adenomas was seen in female mice only.
 The increased incidence of benign hepatic adenomas in female mice was likely secondary to cytotoxic liver changes manifested by single-cell necrosis and is considered to have no relevance for humans at intended therapeutic exposures.
 There were no tumorigenic findings in male mice or in rats.

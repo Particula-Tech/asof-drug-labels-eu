@@ -2,6 +2,7 @@
 
 When REYATAZ and ritonavir are co-administered, the metabolic drug interaction profile for ritonavir may predominate because ritonavir is a more potent CYP3A4 inhibitor than atazanavir.
 The Summary of Product Characteristics for ritonavir must be consulted before initiation of therapy with REYATAZ and ritonavir.
+
 Atazanavir is metabolised in the liver through CYP3A4.
 It inhibits CYP3A4.
 Therefore, REYATAZ with ritonavir is contraindicated with medicinal products that are substrates of CYP3A4 and have a narrow therapeutic index: astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil and ergot alkaloids, particularly ergotamine and dihydroergotamine (see 4.3).
@@ -35,9 +36,9 @@ Co-administration of REYATAZ and indinavir is not recommended (see 4.4).
 
 Ritonavir: based on data in healthy volunteers, the addition of ritonavir 100 mg to atazanavir 300 mg has been shown to significantly increase the pharmacokinetic parameters of atazanavir (approximately, 2 fold increase of AUC and 7 fold increase of Cmin in comparison to atazanavir 400 mg without ritonavir).
 In patients, the limited pharmacokinetic data currently available suggest that the impact of ritonavir might be less noticeable on the Cmin (approximately, 3 fold increase).
-
 The co-administration of REYATAZ with ritonavir and other protease inhibitors has not been studied, but would be expected to increase exposure to other protease inhibitors.
 Therefore, such co-administration is not recommended.
+
 Other medicinal products
 
 Antacids and medicinal products containing buffers: reduced plasma concentrations of atazanavir may be the consequence of increased gastric pH if antacids, including buffered medicinal products, are administered with REYATAZ with ritonavir.
@@ -79,6 +80,7 @@ In contrast, ritonavir may decrease ethinyl estradiol concentrations.
 The effects of co-administration of oral contraceptives and REYATAZ with ritonavir have not been studied.
 The concomitant use of REYATAZ and oral contraceptives should be avoided (see 4.4).
 Alternate reliable methods of contraception should be considered.
+
 Rifabutin: simultaneous administration of 400 mg of atazanavir and 150 mg of rifabutin once daily for 14 days resulted in no clinically important change in the Cmax or AUC for atazanavir.
 No dose adjustment is needed for REYATAZ.
 The rifabutin Cmax for the 150-mg dose was 1.5 fold higher and the AUC was 2.3 fold higher than historical data for a standard 300-mg dose.

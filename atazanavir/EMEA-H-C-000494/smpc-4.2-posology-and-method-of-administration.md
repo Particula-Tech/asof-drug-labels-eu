@@ -18,8 +18,7 @@ REYATAZ should not be used in patients with moderate to severe hepatic insuffici
 REYATAZ with ritonavir has not been studied in patients with hepatic insufficiency.
 Method of administration: for oral administration.
 The capsules should be swallowed whole.
-REYATAZ oral powder is available for patients who are unable to swallow capsules.
-(See Summary of Product Characteristics for REYATAZ oral powder).
+REYATAZ oral powder is available for patients who are unable to swallow capsules (see Summary of Product Characteristics for REYATAZ oral powder).
 
 [REYATAZ 150 mg hard capsules]
 

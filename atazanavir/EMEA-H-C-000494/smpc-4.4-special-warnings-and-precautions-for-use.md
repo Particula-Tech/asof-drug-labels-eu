@@ -54,6 +54,12 @@ Dose reduction of atazanavir is not recommended because it may result in a loss 
 Indinavir is also associated with indirect (unconjugated) hyperbilirubinemia due to inhibition of UGT.
 Combinations of REYATAZ and indinavir have not been studied and co-administration of these medicinal products is not recommended (see 4.5).
 
+Immune reactivation syndrome
+In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
+Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
+Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis carinii pneumonia.
+Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
+
 Lactose
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
