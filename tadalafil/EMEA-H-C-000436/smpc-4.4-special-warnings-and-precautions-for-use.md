@@ -12,11 +12,9 @@ However, it is not possible to definitively determine whether these events are r
 
 There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
 
-Priapism was not reported in clinical trials with CIALIS.
-However, priapism has been reported with another PDE5 inhibitor.
 Patients who experience erections lasting 4 hours or more should be instructed to seek immediate medical assistance.
 If priapism is not treated immediately, penile tissue damage and permanent loss of potency may result.
-CIALIS should be used with caution in patients who have conditions that might predispose them to priapism (such as sickle cell anaemia, multiple myeloma, or leukaemia), or in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or Peyronie’s disease).
+Agents for the treatment of erectile dysfunction, including CIALIS, should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or Peyronie's disease), or in patients who have conditions which may predispose them to priapism (such as sickle cell anaemia, multiple myeloma or leukaemia).
 
 The evaluation of erectile dysfunction should include a determination of potential underlying causes and the identification of appropriate treatment following an appropriate medical assessment.
 It is not known if CIALIS is effective in patients with spinal cord injuries and patients who have undergone pelvic surgery or radical non-nerve-sparing prostatectomy.

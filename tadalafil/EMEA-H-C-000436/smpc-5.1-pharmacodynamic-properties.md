@@ -6,7 +6,6 @@ Tadalafil is a selective, reversible inhibitor of cyclic guanosine monophosphate
 When sexual stimulation causes the local release of nitric oxide, inhibition of PDE5 by tadalafil produces increased levels of cGMP in the corpus cavernosum.
 This results in smooth muscle relaxation and inflow of blood into the penile tissues, thereby producing an erection.
 Tadalafil has no effect in the absence of sexual stimulation.
-
 Studies in vitro have shown that tadalafil is a selective inhibitor of PDE5.
 PDE5 is an enzyme found in corpus cavernosum smooth muscle, vascular and visceral smooth muscle, skeletal muscle, platelets, kidney, lung, and cerebellum.
 The effect of tadalafil is more potent on PDE5 than on other phosphodiesterases.

@@ -21,3 +21,5 @@ Swelling of eyelids, sensations described as eye pain and conjunctival hyperaemi
 The adverse events reported with tadalafil were transient, and generally mild or moderate.
 
 Adverse event data are limited in patients over 75 years of age.
+
+In postmarketing surveillance prolonged erection and priapism have been reported very rarely.
