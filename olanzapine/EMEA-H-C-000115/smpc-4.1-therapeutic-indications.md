@@ -21,7 +21,7 @@ In a multinational, double-blind, comparative study of schizophrenia, schizoaffe
 
 [ZYPREXA 10 mg coated tablets.]
 
-Olanzapine is indicated for the treatment moderate to severe manic episode.
+(all sentences already above)
 
 [ZYPREXA 15 mg coated tablets.]
 
@@ -30,3 +30,13 @@ Olanzapine is indicated for the treatment moderate to severe manic episode.
 [ZYPREXA 20 mg coated tablets.]
 
 (all sentences already above)
+
+[ZYPREXA 10 mg powder for solution for injection.]
+
+ZYPREXA Powder for Solution for Injection is indicated for the rapid control of agitation and disturbed behaviours in patients with schizophrenia, when oral therapy is not appropriate.
+Treatment with ZYPREXA Powder for Solution for Injection should be discontinued and the use of oral olanzapine should be initiated as soon as clinically appropriate.
+
+[ZYPREXA 10 mg powder and solvent for solution for injection.]
+
+ZYPREXA Powder and Solvent for Solution for Injection is indicated for the rapid control of agitation and disturbed behaviours in patients with schizophrenia, when oral therapy is not appropriate.
+Treatment with ZYPREXA Powder and Solvent for Solution for Injection should be discontinued and the use of oral olanzapine should be initiated as soon as clinically appropriate.

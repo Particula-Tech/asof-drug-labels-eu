@@ -1,6 +1,6 @@
 # 6.3 Shelf-life
 
-Two years.
+2 years.
 
 [ZYPREXA 5 mg coated tablets.]
 
@@ -21,3 +21,12 @@ Two years.
 [ZYPREXA 20 mg coated tablets.]
 
 (all sentences already above)
+
+[ZYPREXA 10 mg powder for solution for injection.]
+
+Vial: 2 years.
+Solution (after reconstitution): 1 hour.
+
+[ZYPREXA 10 mg powder and solvent for solution for injection.]
+
+Vial and prefilled syringe with needle: 2 years.

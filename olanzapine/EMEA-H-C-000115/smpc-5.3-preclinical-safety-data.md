@@ -1,9 +1,9 @@
 # 5.3 Preclinical safety data
 
-Acute (Single-dose) toxicity
+Acute (single-dose) toxicity
 
 Signs of oral toxicity in rodents were characteristic of potent neuroleptic compounds: hypoactivity, coma, tremors, clonic convulsions, salivation, and depressed weight gain.
-The median lethal doses were approximately 210 (mice) and 175 (rats) mg/kg.
+The median lethal doses were approximately 210 mg/kg (mice) and 175 mg/kg (rats).
 Dogs tolerated single oral doses up to 100 mg/kg without mortality.
 Clinical signs included sedation, ataxia, tremors, increased heart rate, labored respiration, miosis, and anorexia.
 In monkeys, single oral doses up to 100 mg/kg resulted in prostration and, at higher doses, semi-consciousness.
@@ -33,3 +33,42 @@ Olanzapine was not mutagenic or clastogenic in a full range of standard tests, w
 Carcinogenicity
 
 Based on the results of studies in mice and rats, it was concluded that olanzapine is not carcinogenic.
+
+[ZYPREXA 5 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 7.5 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 10 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 15 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 20 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 10 mg powder for solution for injection.]
+
+Signs of oral toxicity in rodents were characteristic of potent antipsychotic compounds: hypoactivity, coma, tremors, clonic convulsions, salivation, and depressed weight gain.
+Clinical signs included sedation, ataxia, tremors, increased heart rate, laboured respiration, miosis, and anorexia.
+
+Reversible neutropenia, thrombocytopenia, or anaemia developed in a few dogs treated with 8 or 10 mg/kg/day (total olanzapine exposure [AUC] is 12- to 15-fold greater than that of a man given a 12-mg dose).
+In cytopenic dogs, there were no undesirable effects on progenitor and proliferating cells in the bone marrow.
+
+Oestrous cycles were affected at doses of 1.1 mg/kg (3 times the maximum human dose) and reproduction parameters were influenced in rats given 3 mg/kg (9 times the maximum human dose).
+In the offspring of rats given olanzapine, delays in foetal development and transient decreases in offspring activity levels were seen.
+
+Olanzapine was not mutagenic or clastogenic in a full range of standard tests, which included bacterial mutation tests and in vitro and oral in vivo mammalian tests.
+
+Based on the results of oral studies in mice and rats, it was concluded that olanzapine is not carcinogenic.
+
+[ZYPREXA 10 mg powder and solvent for solution for injection.]
+
+(all sentences already above)
