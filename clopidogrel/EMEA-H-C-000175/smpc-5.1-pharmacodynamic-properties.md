@@ -8,7 +8,6 @@ Biotransformation of clopidogrel is necessary to produce inhibition of platelet 
 Clopidogrel also inhibits platelet aggregation induced by other agonists by blocking the amplification of platelet activation by released ADP.
 Clopidogrel acts by irreversibly modifying the platelet ADP receptor.
 Consequently, platelets exposed to clopidogrel are affected for the remainder of their lifespan and recovery of normal platelet function occurs at a rate consistent with platelet turnover.
-
 Repeated doses of 75 mg per day produced substantial inhibition of ADP-induced platelet aggregation from the first day; this increased progressively and reached steady state between Day 3 and Day 7.
 At steady state, the average inhibition level observed with a dose of 75 mg per day was between 40% and 60%.
 Platelet aggregation and bleeding time gradually returned to baseline values, generally within 5 days after treatment was discontinued.
@@ -45,6 +44,7 @@ The use of clopidogrel in CURE was associated with a decrease in the need of thr
 The number of patients experiencing the co-primary endpoint (CV death, MI, stroke or refractory ischaemia) was 1035 (16.5%) in the clopidogrel-treated group and 1187 (18.8%) in the placebo-treated group, a 14% relative risk reduction (95% CI of 6%-21%, p=0.0005) for the clopidogrel-treated group.
 This benefit was mostly driven by the statistically significant reduction in the incidence of MI [287 (4.6%) in the clopidogrel treated group and 363 (5.8%) in the placebo treated group].
 There was no observed effect on the rate of rehospitalization for unstable angina.
+
 The results obtained in populations with different characteristics (e.g. unstable angina or non-Q-wave MI, low to high risk levels, diabetes, need for revascularisation, age, gender, etc.) were consistent with the results of the primary analysis.
 The benefits observed with clopidogrel were independent of other acute and long-term cardiovascular therapies (such as heparin/LMWH, GPIIb/IIIa antagonists, lipid lowering drugs, beta blockers, and ACE-inhibitors).
 The efficacy of clopidogrel was observed independently of the dose of ASA (75-325 mg once daily).

@@ -12,7 +12,7 @@ Patients should be told that it may take longer than usual to stop bleeding when
 Patients should inform physicians and dentists that they are taking clopidogrel before any surgery is scheduled and before any new drug is taken.
 
 Thrombotic Thrombocytopenic Purpura (TTP) has been reported very rarely following the use of clopidogrel, sometimes after a short exposure.
-It is characterised by thrombocytopenia and microangiopathic hemolytic anemia associated with either neurological findings, renal dysfunction or fever.
+It is characterised by thrombocytopenia and microangiopathic haemolytic anaemia associated with either neurological findings, renal dysfunction or fever.
 TTP is a condition requiring prompt treatment including plasmapheresis.
 
 In view of the lack of data, in patients with acute myocardial infarction with ST-segment elevation, clopidogrel therapy should not be initiated within the first few days following myocardial infarction.

@@ -24,7 +24,6 @@ The elimination half-life of the main circulating metabolite was 8 hours after s
 After repeated doses of 75 mg clopidogrel per day, plasma levels of the main circulating metabolite were lower in subjects with severe renal disease (creatinine clearance from 5 to 15 ml/min) compared to subjects with moderate renal disease (creatinine clearance from 30 to 60 ml/min) and to levels observed in other studies with healthy subjects.
 Although inhibition of ADP-induced platelet aggregation was lower (25%) than that observed in healthy subjects, the prolongation of bleeding was similar to that seen in healthy subjects receiving 75 mg of clopidogrel per day.
 In addition, clinical tolerance was good in all patients.
-
 The pharmacokinetics and pharmacodynamics of clopidogrel were assessed in a single and multiple dose study in both healthy subjects and those with cirrhosis (Child-Pugh class A or B). Daily dosing for 10 days with clopidogrel 75 mg/day was safe and well tolerated.
 Clopidogrel Cmax for both single dose and steady state for cirrhotics was many fold higher than in normal subjects.
 However, plasma levels of the main circulating metabolite together with the effect of clopidogrel on ADP-induced platelet aggregation and bleeding time were comparable between these groups.

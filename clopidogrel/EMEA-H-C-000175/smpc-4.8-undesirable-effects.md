@@ -24,17 +24,17 @@ In CURE, the administration of clopidogrel+ASA as compared to placebo+ASA was no
 The incidence of intracranial bleeding was 0.1% in both groups.
 
 The major bleeding event rate for clopidogrel+ASA was dose-dependent on ASA (<100mg: 2.6%; 100-200mg: 3.5%; >200mg: 4.9%) as was the major bleeding event rate for placebo+ASA (<100mg: 2.0%; 100-200mg: 2.3%; >200mg: 4.0%).
-
 The risk of bleeding (life-threatening, major, minor, other) decreased during the course of the trial: 0-1 months [clopidogrel: 599/6259 (9.6%); placebo: 413/6303 (6.6%)], 1-3 months [clopidogrel: 276/6123 (4.5%); placebo: 144/6168 (2.3%)], 3-6 months [clopidogrel: 228/6037 (3.8%); placebo: 99/6048 (1.6%)], 6-9 months [clopidogrel: 162/5005 (3.2%); placebo: 74/4972 (1.5%)], 9-12 months [clopidogrel: 73/3841 (1.9%); placebo: 40/3844 (1.0%)].
 
 There was no excess in major bleeds within 7 days after coronary bypass graft surgery in patients who stopped therapy more than five days prior to surgery (4.4% clopidogrel+ASA vs. 5.3% placebo+ASA).
 In patients who remained on therapy within five days of bypass graft surgery, the event rate was 9.6% for clopidogrel+ASA, and 6.3% for placebo+ASA.
+
 Haematological:
-In CAPRIE, severe neutropaenia (<0.45 x 109/l) was observed in 4 patients (0.04%) that received clopidogrel and 2 patients (0.02%) that received ASA.
+In CAPRIE, severe neutropenia (<0.45 x 109/l) was observed in 4 patients (0.04%) that received clopidogrel and 2 patients (0.02%) that received ASA.
 Two of the 9599 patients who received clopidogrel and none of the 9586 patients who received ASA had neutrophil counts of zero.
 One case of aplastic anaemia occurred on clopidogrel treatment.
 
-The incidence of severe thrombocytopaenia (<80 x 109/l) was 0.2% on clopidogrel and 0.1% on ASA.
+The incidence of severe thrombocytopenia (<80 x 109/l) was 0.2% on clopidogrel and 0.1% on ASA.
 
 In CURE, the numbers of patients with thrombocytopenia (19 clopidogrel+ASA vs. 24 placebo+ASA) or neutropenia (3 vs. 3) were similar in both groups.
 
@@ -44,8 +44,8 @@ CAPRIE CURE
 
 Clopidogrel ASA Clopidogrel + Placebo +
 
-(N=9599) (N=9586) ASA ASA
-(N=6259) (N=6303)
+(N=9599) (N=9586 ASA ASA
+) (N=6259) (N=6303)
 
 Central and peripheral nervous system disorders
 
@@ -54,9 +54,9 @@ Any events (e.g. headache, dizziness, vertigo, 22.3* 23.8 7.8 7.8
 paraesthesia)
 Gastrointestinal disorders(a)
 
-Any events (e.g. abdominal pain, dyspepsia, diarrhoea, 27.1* 29.8 11.7 12.5
+Any events (e.g. abdominal pain, dyspepsia, 27.1* 29.8 11.7 12.5
 
-nausea)
+diarrhoea, nausea)
 
 - Resulting in early permanent discontinuation 3.2 4.0 0.9 0.8
 - Clinically severe 3.0 3.6 0.8 0.9
