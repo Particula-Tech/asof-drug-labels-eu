@@ -5,14 +5,14 @@ Remicade is for intravenous use in adults and has not been studied in children (
 Remicade treatment is to be administered under the supervision of specialised physicians experienced in the diagnosis and treatment of rheumatoid arthritis or inflammatory bowel diseases.
 
 All patients administered Remicade are to be observed for at least 1-2 hours post infusion for side effects.
-Emergency equipment must be available.
+Emergency equipment, such as adrenaline, antihistamines, corticosteroids and an artificial airway must be available (see section 4.4: “Special warnings and special precautions for use”).
 
 Rheumatoid arthritis
 3 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 3 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 Remicade must be given concomitantly with methotrexate.
+
 Severe, active Crohn’s disease
 5 mg/kg given as an intravenous infusion over a 2-hour period.
-
 Fistulising Crohn’s disease
 An initial 5 mg/kg infusion given over a 2-hour period is to be followed with additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion.
 
