@@ -19,14 +19,18 @@ If an adjustment is needed, it may occur with the first dose or during the first
 
 Omission of a meal or unplanned, strenuous physical exercise may lead to hypoglycaemia.
 
-[NovoRapid Penfill 100 U/ml, solution for injection, in cartridges.]
+[NovoRapid Penfill 100 U/ml, solution for injection in cartridges.]
 
 NovoRapid Penfill should be administered in immediate relation to a meal.
 
 Patients taking NovoRapid Penfill may require an increased number of daily injections or a change in dosage from that used with their usual insulins.
 
-[NovoRapid NovoLet 100 U/ml, solution for injection, pre-filled syringe.]
+[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe.]
 
 NovoRapid NovoLet should be administered in immediate relation to a meal.
 
 Patients taking NovoRapid NovoLet may require an increased number of daily injections or a change in dosage from that used with their usual insulins.
+
+[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe. (SmPC 4)]
+
+(all sentences already above)

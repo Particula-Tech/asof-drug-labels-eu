@@ -1,7 +1,8 @@
 # 4.2 Posology and method of administration
 
 NovoRapid has a faster onset and a shorter duration of action than soluble human insulin.
-Due to the faster onset of action, NovoRapid should generally be given immediately before a meal.
+Due to the faster onset of action, NovoRapid should generally be given immediately before the meal.
+When necessary NovoRapid can be given soon after the meal.
 
 Dosage of NovoRapid is individual and determined on the basis of the physician’s advice in accordance with the needs of the patient.
 It should normally be used in combination with intermediate-acting or long-acting insulin given at least once a day.
@@ -11,6 +12,7 @@ In a meal-related treatment 50–70% of this requirement may be provided by Novo
 
 Adjustment of dosage may also be necessary if patients undertake increased physical activity or change their usual diet.
 Exercise taken immediately after a meal may increase the risk of hypoglycaemia.
+
 In patients with diabetes mellitus, optimised metabolic control effectively delays the onset and slows the progression of diabetic late complications.
 Optimised metabolic control, including glucose monitoring, is therefore recommended.
 
@@ -27,10 +29,11 @@ Renal or hepatic impairment may reduce the patient's insulin requirements.
 
 No studies have been performed in children under the age of 6 years.
 
-[NovoRapid Penfill 100 U/ml, solution for injection, in cartridges.]
+[NovoRapid Penfill 100 U/ml, solution for injection in cartridges.]
 
 NovoRapid Penfill has a faster onset and a shorter duration of action than soluble human insulin.
-Due to the faster onset of action, NovoRapid Penfill should generally be given immediately before a meal.
+Due to the faster onset of action, NovoRapid Penfill should generally be given immediately before the meal.
+When necessary NovoRapid Penfill can be given soon after a meal.
 
 Dosage of NovoRapid Penfill is individual and determined on the basis of the physician’s advice in accordance with the needs of the patient.
 
@@ -39,9 +42,11 @@ In a meal-related treatment 50–70% of this requirement may be provided by Novo
 NovoRapid Penfill is administered subcutaneously in the abdominal wall, the thigh, the deltoid region or the gluteal region.
 As with all insulins the duration of action will vary according to the dose, injection site, blood flow, temperature and level of physical activity.
 
-[NovoRapid NovoLet 100 U/ml, solution for injection, pre-filled syringe.]
+[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe.]
 
 NovoRapid NovoLet has a faster onset and a shorter duration of action than soluble human insulin.
+Due to the faster onset of action, NovoRapid NovoLet should generally be given immediately before the meal.
+When necessary NovoRapid NovoLet can be given soon after the meal.
 
 Dosage of NovoRapid NovoLet is individual and determined on the basis of the physician’s advice in accordance with the needs of the patient.
 
@@ -49,3 +54,7 @@ In a meal-related treatment 50–70% of this requirement may be provided by Novo
 
 NovoRapid NovoLet is administered subcutaneously in the abdominal wall, the thigh, the deltoid region or the gluteal region.
 As with all insulins the duration of action will vary according to the dose, injection site, blood flow, temperature and the level of physical activity.
+
+[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe. (SmPC 4)]
+
+(all sentences already above)

@@ -11,7 +11,7 @@ There are no restrictions on treatment with NovoRapid during lactation.
 Insulin treatment of the nursing mother presents no risk to the baby.
 However, the NovoRapid dosage may need to be adjusted.
 
-[NovoRapid Penfill 100 U/ml, solution for injection, in cartridges.]
+[NovoRapid Penfill 100 U/ml, solution for injection in cartridges.]
 
 There is limited clinical experience with NovoRapid Penfill in pregnancy.
 
@@ -20,7 +20,7 @@ Animal reproduction studies have not revealed any differences between NovoRapid 
 There are no restrictions on treatment with NovoRapid Penfill during lactation.
 However, the NovoRapid Penfill dosage may need to be adjusted.
 
-[NovoRapid NovoLet 100 U/ml, solution for injection, pre-filled syringe.]
+[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe.]
 
 There is limited clinical experience with NovoRapid NovoLet in pregnancy.
 
@@ -28,3 +28,7 @@ Animal reproduction studies have not revealed any differences between NovoRapid 
 
 There are no restrictions on treatment with NovoRapid NovoLet during lactation.
 However, the NovoRapid NovoLet dosage may need to be adjusted.
+
+[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe. (SmPC 4)]
+
+(all sentences already above)

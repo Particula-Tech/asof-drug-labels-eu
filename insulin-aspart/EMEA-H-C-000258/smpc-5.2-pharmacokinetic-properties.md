@@ -3,6 +3,7 @@
 In NovoRapid substitution of amino acid proline with aspartic acid at position B28 reduces the tendency to form hexamers as observed with soluble human insulin.
 
 NovoRapid is therefore more rapidly absorbed from the subcutaneous layer compared to soluble human insulin.
+
 The time to maximum concentration is, on average, half of that for soluble human insulin.
 A mean maximum plasma concentration of 492±256 pmol/l was reached 40 (interquartile range: 30–40) minutes after a subcutaneous dose of 0.15 U/kg bodyweight in Type 1 diabetic patients.
 The insulin concentrations returned to baseline about 4 to 6 hours after dose.
@@ -16,7 +17,7 @@ The pharmacokinetic and pharmacodynamic properties of NovoRapid were investigate
 Insulin aspart was rapidly absorbed in both age groups, with similar tmax as in adults.
 However, Cmax differed between the age groups, stressing the importance of the individual titration of NovoRapid.
 
-[NovoRapid Penfill 100 U/ml, solution for injection, in cartridges.]
+[NovoRapid Penfill 100 U/ml, solution for injection in cartridges.]
 
 In NovoRapid Penfill substitution of amino acid proline with aspartic acid at position B28 reduces the tendency to form hexamers as observed with soluble human insulin.
 NovoRapid Penfill is therefore more rapidly absorbed from the subcutaneous layer compared to soluble human insulin.
@@ -26,7 +27,7 @@ The intra-individual variability in time to maximum concentration is significant
 The pharmacokinetic and pharmacodynamic properties of NovoRapid Penfill were investigated in children (6–12 years) and adolescents (13–17 years) with Type 1 diabetes.
 However, Cmax differed between the age groups, stressing the importance of the individual titration of NovoRapid Penfill.
 
-[NovoRapid NovoLet 100 U/ml, solution for injection, pre-filled syringe.]
+[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe.]
 
 In NovoRapid NovoLet substitution of amino acid proline with aspartic acid at position B28 reduces the tendency to form hexamers as observed with soluble human insulin.
 NovoRapid NovoLet is therefore more rapidly absorbed from the subcutaneous layer compared to soluble human insulin.
@@ -35,3 +36,7 @@ The intra-individual variability in time to maximum concentration is significant
 
 The pharmacokinetic and pharmacodynamic properties of NovoRapid NovoLet were investigated in children (6–12 years) and adolescents (13–17 years) with Type 1 diabetes.
 However, Cmax differed between the age groups, stressing the importance of the individual titration of NovoRapid NovoLet.
+
+[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe. (SmPC 4)]
+
+(all sentences already above)

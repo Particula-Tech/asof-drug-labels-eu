@@ -12,10 +12,14 @@ Beta-blocking agents may mask the symptoms of hypoglycaemia.
 
 Alcohol may intensify and prolong the hypoglycaemic effect of insulin.
 
-[NovoRapid Penfill 100 U/ml, solution for injection, in cartridges.]
+[NovoRapid Penfill 100 U/ml, solution for injection in cartridges.]
 
 (all sentences already above)
 
-[NovoRapid NovoLet 100 U/ml, solution for injection, pre-filled syringe.]
+[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe.]
 
 The following substances may increase the patient's insulin requirements: Oral contraceptives, thiazides, glucocorticoids, thyroid hormones, sympathomimetics and danazol.
+
+[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe. (SmPC 4)]
+
+(all sentences already above)
