@@ -7,14 +7,12 @@ Symptoms of the flu syndrome tend to be most prominent at the initiation of ther
 Other less common adverse events include: diarrhoea, anorexia, vomiting, arthralgia, insomnia, dizziness, anxiety, rash, injection site reaction, vasodilation, and palpitations.
 
 Hypersensitivity reactions may occur and appropriate treatment should be initiated.
+Seizures and arrhythmia can rarely occur during treatment with AVONEX (Interferon beta-1a, see
+4.4 Special warnings and special precautions for use).
 
-Seizures and arrhythmia can rarely occur during treatment with AVONEX (Interferon beta-1a, see 4.4
-Special warnings and precautions).
-
-Depression and suicide have been reported, therefore AVONEX should be used with caution in patient with depression (see 4.4 Special warnings and precautions).
+Depression and suicide have been reported, therefore AVONEX should be used with caution in patient with depression (see 4.4 Special warnings and special precautions for use).
 
 Although not usually requiring treatment, certain laboratory abnormalities may occur during treatment with AVONEX.
 Decreases in circulating lymphocytes, white blood cell count, platelet count, neutrophils and hematocrit may occur.
-
 With interferons in general, transient increases in creatinine, potassium, urea nitrogen, alanine transaminase and aspartate transaminase may occur.
 Transient moderate increases in urinary calcium may also occur.
