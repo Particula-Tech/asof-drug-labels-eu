@@ -1,12 +1,7 @@
 # 6.1 List of excipients
 
-Sodium citrate
-Citric acid monohydrate
-Methyl parahydroxybenzoate (E218)
-Propyl parahydroxybenzoate (E216)
-Ammonium glycyrrhizinate
-Glycerol (E422)
-Maltitol (E965)
-Acesulfame potassium (E950)
-Grape flavour
-Purified water
+Core:
+maize starch, povidone K30, talc, colloidal anhydrous silica, magnesium stearate
+
+Film-coating Opadry O5-F-32897:
+hypromellose, macrogol 4000, titanium dioxide (E 171), yellow iron oxide (E 172)

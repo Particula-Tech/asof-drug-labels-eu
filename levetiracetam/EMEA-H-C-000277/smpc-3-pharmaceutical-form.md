@@ -1,4 +1,4 @@
 # 3. PHARMACEUTICAL FORM
 
-Oral solution.
-Clear liquid.
+Film-coated tablet.
+Yellow, oblong and debossed with the code “ucb 500” on one side.

@@ -1,3 +1,4 @@
 # 6.5 Nature and contents of container
 
-300 ml amber glass bottle (type III) with a white child resistant closure (polypropylene) in a cardboard box also containing a graduated oral syringe (polyethylene, polystyrene) and a patient information leaflet.
+Keppra 500 mg film-coated tablets are packaged in aluminium/PVC blisters placed into cardboard boxes containing 10, 20, 30, 50, 60, 100, 120 and 200 film-coated tablets.
+Not all pack sizes may be marketed.

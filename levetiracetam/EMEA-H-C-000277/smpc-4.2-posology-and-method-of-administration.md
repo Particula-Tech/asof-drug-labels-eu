@@ -1,7 +1,6 @@
 # 4.2 Posology and method of administration
 
-The oral solution should be diluted in a glass of water and may be taken with or without food.
-A graduated oral syringe and instructions for use in the package leaflet are provided with Keppra.
+The film-coated tablets must be taken orally, swallowed with a sufficient quantity of liquid and may be taken with or without food.
 The daily dose is administered in two equally divided doses.
 
 Adults and adolescents older than 16 years
@@ -11,7 +10,7 @@ This dose can be started on the first day of treatment.
 Depending upon the clinical response and tolerance, the daily dose can be increased up to 1,500 mg twice daily.
 Dose changes can be made in 500 mg twice daily increments or decrements every two to four weeks.
 
-Elderly (65 years and older)
+Elderly (from 65 years old)
 
 Adjustment of the dose is recommended in elderly patients with compromised renal function (see “Patients with renal impairment” below).
 
@@ -31,8 +30,9 @@ CLcr = ----------------------------------------- (x 0.85 for women)
 
 Dosing adjustment for patients with impaired renal function
 
-Group Creatinine clearance Dosage and frequency
+Group Creatinine Dosage and frequency
 
+clearance
 (ml/min)
 
 Normal > 80 500 to 1,500 mg twice daily

@@ -35,7 +35,6 @@ The metabolite ucb L057 is pharmacologically inactive.
 Two minor metabolites were also identified.
 One was obtained by hydroxylation of the pyrrolidone ring (1.6 % of the dose) and the other one by opening of the pyrrolidone ring (0.9 % of the dose).
 Other unidentified components accounted only for 0.6 % of the dose.
-
 No enantiomeric interconversion was evidenced in vivo for either levetiracetam nor its primary metabolite.
 
 In vitro, levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C8/9/10, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1*6, UGT1*1 and UGT �pl6.2�) and epoxide hydroxylase activities.
@@ -62,7 +61,7 @@ This is related to the decrease in renal function in this population (see sectio
 Children (6 to 12 years)
 
 Following single dose administration (20 mg/kg) to epileptic children, the half-life of levetiracetam was 6.0 hours.
-The apparent body weight adjusted clearance was approximately 30 % higher than in epileptic adults.
+The apparent body clearance was approximately 30 % higher than in epileptic adults.
 
 Renal impairment
 
