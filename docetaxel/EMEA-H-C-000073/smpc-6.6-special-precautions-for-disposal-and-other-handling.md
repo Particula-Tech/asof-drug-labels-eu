@@ -1,6 +1,7 @@
 # 6.6 Instructions for use and handling, and disposal
 
 Recommendations for the safe handling
+
 TAXOTERE is an antineoplastic agent and, as with other potentially toxic compounds, caution should be exercised when handling it and preparing TAXOTERE solutions.
 The use of gloves is recommended.
 
@@ -22,12 +23,15 @@ Remove the syringe and needle and shake the mixture manually for 15 seconds.
 Allow the premix vial to stand for 5 minutes at room temperature and then check that the solution is homogenous and clear.
 (Foaming is normal even after 5 minutes due to the presence of polysorbate 80 in the formulation).
 
-The premix solution contains 10 mg/ml docetaxel and should be used immediately to prepare the infusion solution.
+The premix solution contains 10 mg/ml docetaxel and should be used immediately after preparation.
+However the chemical and physical stability of the premix solution has been demonstrated for 8 hours when stored either between 2 and 8°C or at room temperature.
 
 b) Preparation of the infusion solution
 
 More than one premix vial may be necessary to obtain the required dose for the patient.
-Based on the required dose for the patient expressed in mg, aseptically withdraw the corresponding premix volume containing 10 mg/ml docetaxel from the appropriate number of premix vials using graduated syringes fitted with a needle.
+Based on the required dose for the patient expressed in mg, aseptically withdraw the corresponding premix volume containing 10 mg/ml docetaxel from the appropriate
+
+XV number of premix vials using graduated syringes fitted with a needle.
 For example, a dose of 140 mg docetaxel would require 14 ml docetaxel premix solution.
 
 Inject the required premix volume into a 250 ml infusion bag or bottle containing either 5% glucose solution or 0.9% sodium chloride solution.
@@ -39,6 +43,7 @@ Mix the infusion bag or bottle manually using a rocking motion.
 The TAXOTERE infusion solution should be used within 4 hours and should be aseptically administered as a 1-hour infusion under room temperature and normal lighting conditions.
 
 As with all parenteral products, TAXOTERE premix solution and infusion solution should be visually inspected prior to use, solutions containing a precipitate should be discarded.
+
 Disposal
 
 All materials that have been utilised for dilution and administration should be disposed of according to standard procedures.
@@ -48,3 +53,7 @@ All materials that have been utilised for dilution and administration should be 
 Use a syringe fitted with a needle, aseptically withdraw the entire contents of the solvent for TAXOTERE vial.
 
 Allow the premix vial to stand for 5 minutes at room temperature and then check that the solution is homogenous and clear (foaming is normal even after 5 minutes due to the presence of polysorbate 80 in the formulation).
+
+XXIX number of premix vials using graduated syringes fitted with a needle.
+
+XXX

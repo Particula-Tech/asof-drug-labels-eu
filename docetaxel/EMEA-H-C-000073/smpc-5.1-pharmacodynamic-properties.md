@@ -12,7 +12,9 @@ Docetaxel has been shown in vitro to disrupt the microtubular network in cells w
 Docetaxel was found to be cytotoxic in vitro against various murine and human tumour cell lines and against freshly excised human tumour cells in clonogenic assays.
 Docetaxel achieves high intracellular concentrations with a long cell residence time.
 In addition, docetaxel was found to be active on some but not all cell lines overexpressing the p-glycoprotein which is encoded by the multidrug resistance gene.
-In vivo, docetaxel is schedule independent and has a broad spectrum of experimental antitumour activity against advanced murine and human grafted tumours.
+In vivo, docetaxel
+
+XI is schedule independent and has a broad spectrum of experimental antitumour activity against advanced murine and human grafted tumours.
 
 Clinical data
 
@@ -28,6 +30,7 @@ The median duration of response was 27 weeks in the anthracycline resistant pati
 The median survival time was 11 months in the anthracycline-resistant patients.
 
 There was a high response rate in patients with visceral metastases, 53.1% in the 49 anthracycline resistant patients.
+
 In anthracycline resistant patients, a significant response rate of 40% was seen in patients with liver metastases and a 63.2% response rate was observed in patients with soft tissue disease.
 
 Two randomised phase III comparative studies, involving a total of 326 alkylating or 392 anthracycline failure metastatic breast cancer patients, have been performed with docetaxel at the recommended dose and regimen of 100 mg/m² every 3 weeks.
@@ -40,3 +43,11 @@ In anthracycline-failure patients, docetaxel was compared to the combination of 
 Docetaxel increased response rate (33% vs. 12%, p<0.0001), prolonged time to progression (19 weeks vs. 11 weeks, p=0.0004) and prolonged overall survival (11 months vs. 9 months, p=0.01).
 
 During these phase III studies, the safety profile of docetaxel was consistent with the safety profile observed in phase II studies (see “Undesirable effects” section).
+
+XII
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+In vivo, docetaxel is schedule independent and has a broad spectrum of experimental antitumour activity against advanced murine and human grafted tumours.
+
+XXV

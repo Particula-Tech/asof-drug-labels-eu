@@ -17,3 +17,7 @@ Pharmacokinetic parameters estimated by the model were very close to those estim
 The pharmacokinetics of docetaxel were not altered by the age or sex of the patient.
 In a small number of patients (n=23) with clinical chemistry data suggestive of mild to moderate liver function impairment (ALT, AST ≥1.5 times the ULN associated with alkaline phosphatase ≥2.5 times the ULN), total clearance was lowered by 27% on average (see “Posology and method of administration” section).
 Docetaxel clearance was not modified in patients with mild to moderate fluid retention and there are no data available in patients with severe fluid retention.
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+The late phase is due, in part, to a relatively slow efflux of docetaxel from the peripheral XXVI compartment.

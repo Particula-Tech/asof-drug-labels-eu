@@ -8,7 +8,7 @@ Haematology
 The most frequent adverse reaction to docetaxel (in patients who did not receive G-CSF) was neutropenia which was reversible and not cumulative.
 The median day to nadir was 7 days and the median duration of severe neutropenia (<500 cells/mm3) was 7 days.
 Severe neutropenia occurred in 56.4% of cycles (76.4% of the patients) and lasted for more than 7 days in 3.5% of evaluable cycles.
-
+VI
 Fever was associated with neutropenia (<500 cells/mm3) in 11.8% of the patients (3% of the cycles) and the incidence of severe infections associated with neutrophil counts <500 cells/mm3 was 4.6% of the patients (1.2% of the cycles).
 Infectious episodes occurred in 20% of the patients (6% of the cycles) and were severe (including sepsis and pneumonia) in 5.7% of the patients (1.4% of the cycles) and were fatal in 1.7% of the patients.
 
@@ -18,11 +18,14 @@ Bleeding episodes were reported in 2.4% of the patients and were rarely associat
 Anaemia (<11g/dl) was observed in 90.4% of the patients and was severe (<8 g/dl) in 8.9% of the cases.
 
 Hypersensitivity reactions
+
 Hypersensitivity reactions have occurred in 25.9% of the patients (9.4% of the cycles) generally within a few minutes following the start of the infusion of docetaxel and were usually mild to moderate.
 The most frequently reported symptoms were flushing, rash with or without pruritus, chest tightness, back pain, dyspnoea and drug fever or chills.
 
 Severe reactions characterised by hypotension and/or bronchospasm or generalized rash/erythema were observed in 5.3% of patients.
 They resolved after discontinuing the infusion and appropriate therapy.
+
+VII
 Cutaneous
 
 Reversible cutaneous reactions have been observed in 56.6% of the patients and were generally considered as mild to moderate.
@@ -64,12 +67,15 @@ Abdominal pain 7.3 1
 
 Anorexia was reported in 16.8% of the patients and was infrequently severe.
 Constipation was reported in 9.3% (0.2% severe) of the patients.
-
+VIII
 Stomatitis and esophagitis were reported in 41.8% (5.3% severe) and 1% (0.4% severe) of the patients, respectively.
 Taste perversion has been reported in 10.1% of the patients (0.07% severe).
 
 Gastrointestinal bleeding has been seen in 1.4% of the patients (0.3% severe).
+
 Rare occurences of dehydration as a consequence of gastrointestinal events, gastrointestinal perforation and neutropenic enterocolitis have been reported.
+
+IX
 Neurologic
 
 Mild to moderate neuro-sensory signs characterised by paresthesia, dysesthesia or pain including burning were reported in 45.9% of patients.
@@ -100,6 +106,7 @@ Increases in serum levels of AST, ALT, bilirubin and alkaline phosphatase greate
 
 Others
 
+X
 Alopecia was observed in a total of 79% of patients but was considered severe in about 67% of the patients.
 Alopecia was reversible in 13% of the patients for whom data are available; the median recovery time was 22 weeks following the initial hair loss.
 Asthenia was observed in 62.6% of patients and was severe in 11.2% of the patients.
@@ -110,3 +117,15 @@ Acute respiratory distress syndrome and interstitial pneumonia have rarely been 
 Generalised or localised pain has been observed in 16.5% of the patients and was severe in 0.8% of patients.
 Chest pain was seen in 4.5% of patients (0.4% severe) without any cardiac or respiratory involvement.
 Radiation recall phenomena have rarely been reported.
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+XXI
+
+The peripheral oedema usually starts at the lower extremities and may become generalised XXII with a weight gain of 3 kg or more.
+
+XXIII
+
+Dyspnea was reported in 16.1% (2.7% severe) of the patients and was frequently associated with acute hypersensitivity reactions, respiratory infections, and cancerous lung
+
+XXIV involvement.
