@@ -1,0 +1,16 @@
+{
+  "active_substance": "sevelamer",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000254",
+  "eu_number": "EU/1/99/123",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2000-01-28",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/renagel",
+  "molecule": "sevelamer",
+  "molecule_name": "SEVELAMER",
+  "name": "Renagel",
+  "register_name": "Renagel",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h123.htm"
+}
