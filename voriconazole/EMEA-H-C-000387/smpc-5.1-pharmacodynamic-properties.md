@@ -2,6 +2,7 @@
 
 Pharmacotherapeutic group: ATC code: J02A C03
 Antimycotics for Systemic Use – Triazole derivatives
+
 Mechanism of action
 
 In vitro, voriconazole displays broad-spectrum antifungal activity with antifungal potency against Candida species (including fluconazole resistant C. krusei and resistant strains of C. glabrata and
@@ -16,8 +17,7 @@ This is typical of azole antimycotics.
 
 Microbiology
 
-Clinical efficacy (with partial or complete response, see below under Clinical Experience) has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans, Candida spp., including C. albicans and limited numbers of C. dubliniensis, C. glabrata,
-C. inconspicua, C. krusei, C. parapsilosis, C. tropicalis and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans and Fusarium spp.
+Clinical efficacy (with partial or complete response, see below under Clinical Experience) has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans, Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis and limited numbers of C. dubliniensis, C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans and Fusarium spp.
 
 Other treated fungal infections (with often partial or complete response) included isolated cases of
 Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and
@@ -32,6 +32,7 @@ Therapy may be instituted before the results of the cultures and other laborator
 Clinical isolates with decreased susceptibility to voriconazole have been identified.
 However, elevated minimum inhibitory concentrations did not always correlate with clinical failure and clinical success has been observed in patients infected with organisms resistant to other azoles.
 Correlation of in vitro activity with clinical outcome is difficult owing to the complexity of the patients studied in clinical trials; breakpoints for voriconazole remain to be established.
+
 Clinical Experience
 
 Successful outcome in this section is defined as complete or partial response.
@@ -45,6 +46,28 @@ The 84-day survival rate for voriconazole was statistically significantly higher
 This study confirmed findings from an earlier, prospectively designed study where there was a positive outcome in subjects with risk factors for a poor prognosis, including graft versus host disease, and, in particular, cerebral infections (normally associated with almost 100 % mortality).
 
 The studies included cerebral, sinus, pulmonary and disseminated aspergillosis in patients with bone marrow and solid organ transplants, haematological malignancies, cancer and AIDS.
+
+Candidaemia in non-neutropenic patients.
+
+The efficacy of voriconazole compared to the regimen of amphotericin B followed by fluconazole in the primary treatment of candidaemia was demonstrated in an open, comparative study.
+Three hundred and seventy non-neutropenic patients (above 12 years of age) with documented candidaemia were included in the study, of whom 248 were treated with voriconazole.
+Nine subjects in the voriconazole group and five in the amphotericin B followed by fluconazole group also had mycologically proven infection in deep tissue.
+Patients with renal failure were excluded from this study.
+The median treatment duration was 15 days in both treatment arms.
+In the primary analysis, successful response as assessed by a Data Review Committee (DRC) blinded to study medication was defined as resolution/improvement in all clinical signs and symptoms of infection with eradication of Candida from blood and infected deep tissue sites at 12 weeks after the end of therapy (EOT).
+Patients who did not have an assessment 12 weeks after EOT were counted as failures.
+In this analysis a successful response was seen in 41% of patients in both treatment arms.
+In a secondary analysis, which utilised DRC assessments at the latest evaluable time point (EOT, or 2, 6, or 12 weeks after EOT) voriconazole and the regimen of amphotericin B followed by fluconazole had successful response rates of 65% and 71%, respectively.
+The Investigator’s assessment of successful outcome at each of these time points is shown in the following table.
+
+| Timepoint | Voriconazole (N=248) | Amphotericin B → fluconazole (N=122) |
+| --- | --- | --- |
+| EOT | 178 (72%) | 88 (72%) |
+| 2 weeks after EOT | 125 (50%) | 62 (51%) |
+| 6 weeks after EOT | 104 (42%) | 55 (45%) |
+| 12 weeks after EOT | 104 (42%) | 51 (42%) |
+
+There are no data in children below the age of 12 years for this indication.
 
 Serious refractory Candida infections
 The study comprised 55 patients with serious refractory systemic Candida infections (including candidaemia, disseminated and other invasive candidiasis) where prior antifungal treatment, particularly with fluconazole, had been ineffective.
@@ -70,11 +93,11 @@ In clinical trials, 561 patients received voriconazole therapy for greater than 
 Experience in paediatric patients
 Sixty one paediatric patients aged 9 months up to 15 years who had definite or probable invasive fungal infections, were treated with voriconazole.
 This population included 34 patients 2 to < 12 years old and 20 patients 12-15 years of age.
+
 The majority (57/61) had failed previous antifungal therapies.
 Therapeutic studies included 5 patients aged 12-15 years, the remaining patients received voriconazole in the compassionate use programmes.
 Underlying diseases in these patients included haematological malignancies and aplastic anaemia (27 patients) and chronic granulomatous disease (14 patients).
 The most commonly treated fungal infection was aspergillosis (43/61; 70 %).
-
 Clinical Studies Examining QT Interval
 A placebo-controlled, randomized, single-dose, crossover study to evaluate the effect on the QT interval of healthy volunteers was conducted with three oral doses of voriconazole and ketoconazole.
 The placebo-adjusted mean maximum increases in QTc from baseline after 800, 1200 and 1600 mg of voriconazole were 5.1, 4.8, and 8.2 msec, respectively and 7.0 msec for ketoconazole 800 mg.
@@ -87,6 +110,8 @@ Succesful outcome in this section is defined as complete or partial response.
 
 [VFEND 200mg powder for solution for infusion]
 
+Clinical efficacy (with partial or complete response, see below under Clinical Experience) has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans, Candida spp., including C. albicans , C. glabrata, C. krusei, C. parapsilosis and C. tropicalis and limited numbers of C. dubliniensis,C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans and Fusarium spp.
+
 Other treated fungal infections (with often partial or complete response, see below under Clinical Experience) included isolated cases of Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and Trichosporon spp. including T. beigelii infections.
 
 Scedosporium spp. : Successful response to voriconazole therapy was seen in 16 (6 complete, 10 partial responses) of 28 patients with S. apiospermum and in 2 (both partial response) of 7 patients with S. prolificans infection.
@@ -95,6 +120,9 @@ Scedosporium spp. : Successful response to voriconazole therapy was seen in 16 (
 
 Pharmacotherapeutic group: Antimycotics for Systemic Use – Triazole derivatives
 ATC code: J02A C03
+
+Clinical efficacy (with partial or complete response, see below under Clinical Experience) has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans, Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis and limited numbers of C. dubliniensis,
+C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans and Fusarium spp.
 
 In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2µg/ml.
 

@@ -32,9 +32,9 @@ For example, 15-20 % of Asian populations may be expected to be poor metaboliser
 For Caucasians and Blacks the prevalence of poor metabolisers is 3-5 %.
 Studies conducted in Caucasian and Japanese healthy subjects have shown that poor metabolisers have, on average, 4-fold higher voriconazole exposure (AUCτ) than their homozygous extensive metaboliser counterparts.
 Subjects who are heterozygous extensive metabolisers have on average 2-fold higher voriconazole exposure than their homozygous extensive metaboliser counterparts.
+
 The major metabolite of voriconazole is the N-oxide, which accounts for 72 % of the circulating radiolabelled metabolites in plasma.
 This metabolite has minimal antifungal activity and does not contribute to the overall efficacy of voriconazole
-
 Excretion
 Voriconazole is eliminated via hepatic metabolism with less than 2 % of the dose excreted unchanged in the urine.
 
@@ -72,6 +72,7 @@ Renal impairment
 In an oral single dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance < 20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.
 The plasma protein binding of voriconazole was similar in subjects with different degrees of renal impairment.
 See dosing and monitoring recommendations under sections 4.2 and 4.4.
+
 Hepatic impairment
 After an oral single dose (200 mg), AUC was 233% higher in subjects with mild to moderate hepatic cirrhosis (Child-Pugh A and B) compared with subjects with normal hepatic function.
 Protein binding of voriconazole was not affected by impaired hepatic function.

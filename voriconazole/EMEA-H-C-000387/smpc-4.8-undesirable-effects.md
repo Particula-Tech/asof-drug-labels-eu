@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-The safety profile of voriconazole is based on an integrated safety database of more than 2000 subjects (1493 patients in therapeutic trials).
+The safety profile of voriconazole is based on an integrated safety database of more than 2000 subjects (1655 patients in therapeutic trials).
 This represents a heterogeneous population, containing patients with haematological malignancy, HIV infected patients with oesophageal candidiasis and refractory fungal infections, non-neutropenic patients with candidaemia or aspergillosis and healthy volunteers.
 Five hundred and sixty one patients had a duration of voriconazole therapy of greater than 12 weeks, with 136 patients receiving voriconazole for over 6 months.
 
@@ -19,8 +19,8 @@ Undesirable effects reported in subjects receiving voriconazole
 | Uncommon | Allergic reaction, anaphylactoid reaction, angioedema, peritonitis |
 | Cardiovascular |  |
 | Common | Hypotension, thrombophlebitis, phlebitis |
-| Uncommon | Atrial arrhythmia, bradycardia, syncope, tachycardia, ventricular arrhythmia, ventricular fibrillation |
-| Rare | Supraventricular tachycardia, AV complete block, bundle branch block, nodal arrhythmia, ventricular tachycardia, torsade de pointes, QT interval prolongation |
+| Uncommon | Atrial arrhythmia, bradycardia, syncope, tachycardia, ventricular arrhythmia, ventricular fibrillation, supraventricular tachycardia, QT interval prolongation |
+| Rare | AV complete block, bundle branch block, nodal arrhythmia, ventricular tachycardia, torsade de pointes |
 | Digestive |  |
 | Very common | Nausea, vomiting, diarrhoea |
 | Common | Elevated liver function tests (includingASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), jaundice, cheilitis, cholestatic jaundice, gastroenteritis |
@@ -44,7 +44,7 @@ Undesirable effects reported in subjects receiving voriconazole
 | Nervous |  |
 | Common | Dizziness, hallucinations, confusion, depression, anxiety, tremor, agitation, paraesthesia |
 | Uncommon | Ataxia, brain oedema, diplopia, hypoaesthesia, nystagmus, vertigo |
-| Rare | Guillain-Barre syndrome, oculogyric crisis, hypertonia, Extrapyramidal syndrome |
+| Rare | Guillain-Barre syndrome, oculogyric crisis, hypertonia, Extrapyramidal syndrome, insomnia, encephalopathy, somnolence during infusion |
 | Respiratory |  |
 | Common | Respiratory distress syndrome, lung oedema, sinusitis |
 | Skin and appendages |  |
@@ -55,7 +55,7 @@ Undesirable effects reported in subjects receiving voriconazole
 | Special senses |  |
 | Very Common | Visual disturbances (including altered/enhanced visual perception, decrease in ERG amplitude,blurred vision, colour vision change, photophobia) |
 | Uncommon | Blepharitis, optic neuritis, papilloedema, scleritis, altered taste perception |
-| Rare | Retinal haemorrhage, corneal opacity, optic atrophy |
+| Rare | Retinal haemorrhage, corneal opacity, optic atrophy, hypoacusis, tinnitus |
 | Urogenital |  |
 | Common | Acute kidney failure, haematuria |
 | Uncommon | Nephritis |
@@ -86,7 +86,6 @@ Liver Function Tests
 The overall incidence of clinically significant transaminase abnormalities in the voriconazole clinical programme was 13.4% (200/1493) of subjects treated with voriconazole.
 Liver function test abnormalities may be associated with higher plasma concentrations and/or doses.
 The majority of abnormal liver function tests either resolved during treatment without dose adjustment or following dose adjustment, including discontinuation of therapy.
-
 Voriconazole has been infrequently associated with cases of serious hepatic toxicity in patients with other serious underlying conditions.
 This includes cases of jaundice, and rare cases of hepatitis and hepatic failure leading to death (see section 4.4).
 
@@ -107,7 +106,7 @@ This includes cases of jaundice, and rare cases of hepatitis and hepatic failure
 | Nervous |  |
 | Common | Dizziness, hallucinations, confusion, depression, anxiety, tremor, agitation, paraesthesia |
 | Uncommon | Ataxia, brain oedema, diplopia, hypoaesthesia, nystagmus, vertigo |
-| Rare | Guillain-Barre syndrome, oculogyric crisis, hypertonia, Extrapyramidal syndrome |
+| Rare | Guillain-Barre syndrome, oculogyric crisis, hypertonia, Extrapyramidal syndrome, insomnia, encephalopathy, somnolence during infusion |
 | Respiratory |  |
 | Common | Respiratory distress syndrome, lung oedema, sinusitis |
 | Skin and appendages |  |
@@ -118,7 +117,7 @@ This includes cases of jaundice, and rare cases of hepatitis and hepatic failure
 | Special senses |  |
 | Very Common | Visual disturbances (including altered/enhanced visual perception, decrease in ERG amplitude, blurred vision, colour vision change, photophobia) |
 | Uncommon | Blepharitis, optic neuritis, papilloedema, scleritis, altered taste perception |
-| Rare | Retinal haemorrhage, corneal opacity, optic atrophy |
+| Rare | Retinal haemorrhage, corneal opacity, optic atrophy, hypoacusis, tinnitus |
 | Urogenital |  |
 | Common | Acute kidney failure, haematuria |
 | Uncommon | Nephritis |
@@ -136,8 +135,8 @@ In the table below, since the majority of the studies were of an open nature, al
 | Uncommon | Allergic reaction, anaphylactoid reaction, angioedema, peritonitis |
 | Cardiovascular |  |
 | Common | Hypotension, thrombophlebitis, phlebitis |
-| Uncommon | Atrial arrhythmia, bradycardia, syncope, tachycardia, ventricular arrhythmia, ventricular fibrillation |
-| Rare | Supraventricular tachycardia, AV complete block, bundle branch block, nodal arrhytmia, ventricular tachycardia, torsade de pointes, QT interval prolongation |
+| Uncommon | Atrial arrhythmia, bradycardia, syncope, tachycardia, ventricular arrhythmia, ventricular fibrillation, supraventricular tachycardia, QT interval prolongation |
+| Rare | AV complete block, bundle branch block, nodal arrhytmia, ventricular tachycardia, torsade de pointes |
 | Digestive |  |
 | Very common | Nausea, vomiting, diarrhoea |
 | Common | Elevated liver function tests (including ASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), jaundice, cheilitis, cholestatic jaundice, gastroenteritis |
@@ -163,8 +162,8 @@ The severity of the adverse reactions was generally mild to moderate.
 | Uncommon | Allergic reaction, anaphylactoid reaction, angioedema, peritonitis |
 | Cardiovascular |  |
 | Common | Hypotension, thrombophlebitis, phlebitis |
-| Uncommon | Atrial arrhythmia, bradycardia, syncope, tachycardia, ventricular arrhythmia, ventricular fibrillation |
-| Rare | Supraventricular tachycardia, AV complete block, bundle branch block, nodal arrhythmia, ventricular tachycardia, torsade de pointes, QT interval prolongation |
+| Uncommon | Atrial arrhythmia, bradycardia, syncope, tachycardia, ventricular arrhythmia, ventricular fibrillation, supraventricular tachycardia, QT interval prolongation |
+| Rare | AV complete block, bundle branch block, nodal arrhythmia, ventricular tachycardia, torsade de pointes |
 | Digestive |  |
 | Very common | Nausea, vomiting, diarrhoea |
 | Common | Elevated liver function tests (includingASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), jaundice, cheilitis, cholestatic jaundice, gastroenteritis |
@@ -180,7 +179,8 @@ The severity of the adverse reactions was generally mild to moderate.
 | Very common | Peripheral oedema |
 | Common | Hypokalaemia, creatinine increased, hypoglycaemia |
 | Uncommon | BUN increased, albuminuria, hypercholesterolaemia |
-| Rare | Hyperthyroidism, hypothyroidism |
+
+Rare Hyperthyroidism, hypothyroidism
 
 | Musculoskeletal |  |
 | --- | --- |
@@ -188,7 +188,7 @@ The severity of the adverse reactions was generally mild to moderate.
 | Nervous |  |
 | Common | Dizziness, hallucinations, confusion, depression, anxiety, tremor, agitation, paraesthesia |
 | Uncommon | Ataxia, brain oedema, diplopia, hypoaesthesia, nystagmus, vertigo |
-| Rare | Guillain-Barre syndrome, oculogyric crisis, hypertonia, Extrapyramidal syndrome |
+| Rare | Guillain-Barre syndrome, oculogyric crisis, hypertonia, Extrapyramidal syndrome, insomnia, encephalopathy, somnolence during infusion |
 | Respiratory |  |
 | Common | Respiratory distress syndrome, lung oedema, sinusitis |
 | Skin and appendages |  |
@@ -199,7 +199,7 @@ The severity of the adverse reactions was generally mild to moderate.
 | Special senses |  |
 | Very Common | Visual disturbances (including altered/enhanced visual perception, decrease in ERG amplitude, blurred vision, colour vision change, photophobia) |
 | Uncommon | Blepharitis, optic neuritis, papilloedema, scleritis, altered taste perception |
-| Rare | Retinal haemorrhage, corneal opacity, optic atrophy |
+| Rare | Retinal haemorrhage, corneal opacity, optic atrophy, hypoacusis, tinnitus |
 | Urogenital |  |
 | Common | Acute kidney failure, haematuria |
 | Uncommon | Nephritis |

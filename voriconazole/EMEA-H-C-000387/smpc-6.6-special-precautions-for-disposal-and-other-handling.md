@@ -72,6 +72,7 @@ Press bottle adaptor into the neck of the bottle.
 Replace the cap.
 6.
 Write the date of expiration of the constituted suspension on the bottle label (the shelf-life of the constituted suspension is 14 days).
+
 Instructions for use:
 
 Shake the closed bottle of constituted suspension for approximately 10 seconds before each use.
