@@ -9,4 +9,4 @@ Insulin requirements usually fall during the first trimester and increase during
 Patients with diabetes should be advised to inform their doctor if they are pregnant or are contemplating pregnancy.
 Careful monitoring of glucose control, as well as general health, is essential in pregnant patients with diabetes.
 
-Patients with diabetes who are lactating may require adjustments in insulin dose, diet or both.
+Patients with diabetes who are lactating may require adjustments in insulin dose, diet, or both.
