@@ -1,25 +1,14 @@
 # 3. PHARMACEUTICAL FORM
 
-Coated Tablets for Oral Administration
+Powder for Solution for Injection.
+Yellow lyophilised powder in a clear glass vial.
 
-ZYPREXA 2.5 mg Tablets are white, coated tablets imprinted with “LILLY” and a numeric identicode “4112”.
+[ZYPREXA 10 mg Powder and Solvent for Solution for Injection.]
 
-[ZYPREXA 5 mg coated tablets.]
+Powder and solvent for solution for injection.
 
-ZYPREXA 5 mg Tablets are white, coated tablets imprinted with “LILLY” and a numeric identicode “4115”.
+Powder and solvent for injection comprises the following:
 
-[ZYPREXA 7.5 mg coated tablets.]
-
-ZYPREXA 7.5 mg Tablets are white, coated tablets imprinted with “LILLY” and a numeric identicode “4116”.
-
-[ZYPREXA 10 mg coated tablets.]
-
-ZYPREXA 10 mg Tablets are white, coated tablets imprinted with “LILLY” and a numeric identicode “4117”.
-
-[ZYPREXA 15 mg coated tablets.]
-
-ZYPREXA 15 mg tablets are elliptical blue coated tablets debossed with “LILLY” and a numeric identicode “4415”.
-
-[ZYPREXA 20 mg coated tablets.]
-
-ZYPREXA 20 mg tablets are pink elliptical coated tablets debossed with “LILLY” and a numeric identicode, “4420”.
+Sodium Chloride 3.3 mg/ml Solution for Parenteral Use
+Prefilled glass syringe and 22 gauge needle, containing 1 ml clear solution.
+The syringe includes an integral needle safety guard.
