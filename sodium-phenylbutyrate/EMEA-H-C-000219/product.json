@@ -1,0 +1,16 @@
+{
+  "active_substance": "sodium phenylbutyrate",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000219",
+  "eu_number": "EU/1/99/120",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "1999-12-07",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ammonaps",
+  "molecule": "sodium-phenylbutyrate",
+  "molecule_name": "SODIUM PHENYLBUTYRATE",
+  "name": "Ammonaps",
+  "register_name": "Ammonaps",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h120.htm"
+}
