@@ -10,22 +10,6 @@ Humalog 100 U/ml, solution for injection in vial
 
 Humalog 100 U/ml, solution for injection in cartridge
 
-[Humalog Mix25 100 U/ml suspension for injection in vial]
+[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
 
-Humalog Mix25 100 U/ml suspension for injection in vial
-
-[Humalog Mix25 100 U/ml suspension for injection in cartridge]
-
-Humalog Mix25 100 U/ml suspension for injection in cartridge
-
-[Humalog Mix50 100 U/ml suspension for injection in cartridge]
-
-Humalog Mix50 100 U/ml suspension for injection in cartridge
-
-[Humalog NPL 100 U/ml suspension for injection in vial]
-
-Humalog NPL 100 U/ml suspension for injection in vial
-
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
-
-Humalog NPL 100 U/ml suspension for injection in cartridge
+(all sentences already above)

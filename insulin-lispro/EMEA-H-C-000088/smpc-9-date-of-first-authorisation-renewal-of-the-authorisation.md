@@ -10,22 +10,6 @@
 
 (all sentences already above)
 
-[Humalog Mix25 100 U/ml suspension for injection in vial]
+[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
 
-19 November 1998
-
-[Humalog Mix25 100 U/ml suspension for injection in cartridge]
-
-(all sentences already above)
-
-[Humalog Mix50 100 U/ml suspension for injection in cartridge]
-
-(all sentences already above)
-
-[Humalog NPL 100 U/ml suspension for injection in vial]
-
-(all sentences already above)
-
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
-
-(all sentences already above)
+26th March 1997

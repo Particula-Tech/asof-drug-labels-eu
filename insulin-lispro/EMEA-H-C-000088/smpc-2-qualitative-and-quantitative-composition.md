@@ -19,22 +19,6 @@ The concentration of insulin lispro is 3.5 mg per ml for the 100 U/ml product.
 
 (all sentences already above)
 
-[Humalog Mix25 100 U/ml suspension for injection in vial]
-
-(all sentences already above)
-
-[Humalog Mix25 100 U/ml suspension for injection in cartridge]
-
-(all sentences already above)
-
-[Humalog Mix50 100 U/ml suspension for injection in cartridge]
-
-(all sentences already above)
-
-[Humalog NPL 100 U/ml suspension for injection in vial]
-
-(all sentences already above)
-
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
 
 (all sentences already above)

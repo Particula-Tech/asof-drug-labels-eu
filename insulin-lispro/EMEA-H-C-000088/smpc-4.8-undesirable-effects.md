@@ -20,22 +20,6 @@ Lipodystrophy may occur at the injection site.
 
 It may cause rash a over the whole body, shortness of breath, wheezing, reduction in blood pressure, fast pulse, or sweating.
 
-[Humalog Mix25 100 U/ml suspension for injection in vial]
-
-(all sentences already above)
-
-[Humalog Mix25 100 U/ml suspension for injection in cartridge]
-
-It may cause rash over the whole body, shortness of breath, wheezing, reduction in blood pressure, fast pulse, or sweating.
-
-[Humalog Mix50 100 U/ml suspension for injection in cartridge]
-
-(all sentences already above)
-
-[Humalog NPL 100 U/ml suspension for injection in vial]
-
-(all sentences already above)
-
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
 
 (all sentences already above)
