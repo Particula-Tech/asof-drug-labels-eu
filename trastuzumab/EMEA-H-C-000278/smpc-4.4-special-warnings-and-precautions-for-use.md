@@ -1,17 +1,17 @@
 # 4.4 Special warnings and special precautions for use
 
-HER2 overexpression testing must be performed in a specialised laboratory which can ensure adequate validation of the testing procedures (see 5.1).
+HER2 testing must be performed in a specialised laboratory which can ensure adequate validation of the testing procedures (see 5.1).
 
 The use of Herceptin is associated with cardiotoxicity.
 All candidates for treatment should undergo careful cardiac monitoring (see “cardiotoxicity”section below).The risk of cardiotoxicity is greatest when Herceptin is used in combination with anthracyclines.
 Therefore Herceptin and anthracyclines should not be used currently in combination except in a well-controlled clinical trial setting with cardiac monitoring.
 Patients who have previously received anthracyclines are also at risk of cardiotoxicity with Herceptin treatment, although the risk is lower than with concurrent use of Herceptin and anthracyclines.
 
-Because the half-life of Herceptin is approximately 28.5 days (95 % confidence interval,
-25.5 – 32.8 days), Herceptin may persist in the circulation for up to 24 weeks after stopping Herceptin treatment.
+Because the half-life of Herceptin is approximately 28.5 days (95 % confidence interval, 25.5 – 32.8 days), Herceptin may persist in the circulation for up to 24 weeks after stopping Herceptin treatment.
 Patients who receive anthracyclines after stopping Herceptin may possibly be at increased risk of cardiotoxicity.
 If possible, physicians should avoid anthracycline-based therapy for up to 24 weeks after stopping Herceptin.
-If anthracyclines are used, the patient’s cardiac function should be monitored carefully ( see “cardiotoxicity” section below).Serious adverse reactions including infusion reactions, hypersensitivity, allergic-like reactions and pulmonary events have been observed in patients receiving Herceptin therapy.
+If anthracyclines are used, the patient’s cardiac function should be monitored carefully ( see “cardiotoxicity” section below).
+Serious adverse reactions including infusion reactions, hypersensitivity, allergic-like reactions and pulmonary events have been observed in patients receiving Herceptin therapy.
 Patients who are experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of a fatal infusion reaction.
 These severe reactions were usually associated with the first infusion of Herceptin and generally occurred during or immediately following the infusion.
 For some patients, symptoms progressively worsened and led to further pulmonary complications.
@@ -28,8 +28,7 @@ The majority of patients experienced resolution of symptoms and subsequently rec
 Serious reactions have been treated successfully with supportive therapy such as oxygen, beta-agonists, and corticosteroids.
 In rare cases, these reactions are associated with a clinical course culminating in a fatal outcome.
 Patients who are experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of a fatal infusion reaction.
-Therefore, these patients should not be treated with
-Herceptin (see 4.3).
+Therefore, these patients should not be treated with Herceptin (see 4.3).
 
 Pulmonary events
 Severe pulmonary events have been reported rarely with the use of Herceptin in the post-marketing setting (see 4.8).
@@ -38,6 +37,7 @@ In addition, rare cases of pulmonary infiltrates, acute respiratory distress syn
 These events may occur as part of an infusion-related reaction or with a delayed onset..
 Patients who are experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of pulmonary events.
 Therefore, these patients should not be treated with Herceptin (see 4.3).
+
 Cardiotoxicity
 Heart failure (New York Heart Association [NYHA] class II-IV) has been observed in patients receiving Herceptin therapy alone or in combination with paclitaxel or docetaxel, partcularly following anthracycline (doxorubicin or epirubicin)–containing chemotherapy.
 This may be moderate to severe and has been associated with death (see 4.8).

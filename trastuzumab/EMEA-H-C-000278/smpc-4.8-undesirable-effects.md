@@ -4,7 +4,6 @@ The adverse event data reflect the clinical trial and post marketing experience 
 
 Patients received Herceptin as monotherapy or in combination with paclitaxel in the two pivotal clinical trials.
 The most common adverse reactions are infusion-related symptoms, such as fever and chills, usually following the first infusion of Herceptin.
-
 Adverse reactions attributed to Herceptin in ≥ 10 % of patients in the two pivotal clinical trials were the following:
 
 Body as a Whole: abdominal pain, asthenia, chest pain, chills, fever, headache, pain
@@ -44,13 +43,15 @@ Skin and pruritus, sweating, nail disorder, dry skin, alopecia, acne, maculopapu
 
 appendages:
 Special senses: taste perversion
+
 In a further randomised clinical trial (M77001), patients with metastatic breast cancer received docetaxel, with or without Herceptin.
 The following table displays adverse events which were reported in ≥ 10% of patients, by study treatment:
 
 | Body System | Adverse Event | Herceptin plus docetaxel N = 92 (%) | docetaxel N = 94 (%) |
 | --- | --- | --- | --- |
 | General disorders and administration site conditions | asthenia oedema peripheral fatigue mucosal inflammation pyrexia pain lethargy chest pain influenza like illness rigors | 45 40 24 23 29 12 7 11 12 11 | 41 35 21 22 15 9 11 5 2 1 |
-| Skin and subcutaneous tissue disorders | alopecia nail disorder rash erythema | 67 17 24 23 | 54 21 12 11 |
+| Skin and subcutaneous | alopecia | 67 | 54 |
+| tissue disorders | nail disorder rash erythema | 17 24 23 | 21 12 11 |
 | Gastrointestinal disorders | nausea diarrhoea vomiting constipation stomatitis abdominal pain dyspepsia | 43 43 29 27 20 12 14 | 41 36 22 23 14 12 5 |
 | Nervous system disorders | paraesthesia headache dysgeusia hypoaesthesia | 32 21 14 11 | 21 18 12 5 |
 | Blood and lymphatic system disorders | febrile neutropenia1 / neutropenic sepsis | 23 | 17 |
@@ -93,6 +94,7 @@ insufficiency, dyspnoea, hypoxia, larynx oedema, acute respiratory distress, acu
 Skin and rash, dermatitis, urticaria
 
 appendages:
+
 Special Senses: papilloedema, abnormal lacrimation, retinal haemorrhage, deafness
 
 Infusion-Related Symptoms
@@ -141,6 +143,7 @@ There was an increase in WHO Grade 3 or 4 haematological toxicity in patients tr
 Haematological toxicity was also increased in patients receiving Herceptin and docetaxel, compared with docetaxel alone (32% grade 3/4 neutropenia versus 22%, using NCI-CTC criteria).
 Note that this is likely to be an underestimate since docetaxel alone at a dose of 100mg/m2 is known to result in neutropenia in 97% of patients, 76% grade 4, based on nadir blood counts.
 The incidence of febrile neutropenia/neutropenic sepsis was also increased in patients treated with Herceptin plus docetaxel (23% versus 17% for patients treated with docetaxel alone).
+
 Hepatic and renal toxicity
 WHO Grade 3 or 4 hepatic toxicity was observed in 12 % of patients following administration of Herceptin as single agent.
 This toxicity was associated with progression of disease in the liver in 60 % of these patients.
@@ -150,6 +153,5 @@ No WHO Grade 3 or 4 renal toxicity was observed in patients treated with Hercept
 Diarrhoea
 Of patients treated with Herceptin as a single agent, 27 % experienced diarrhoea.
 An increase in the incidence of diarrhoea, primarily mild to moderate in severity, has also been observed in patients receiving Herceptin in combination with paclitaxel or docetaxel compared with patients receiving paclitaxel or docetaxel alone.
-
 Infection
 An increased incidence of infections, primarily mild upper respiratory infections of minor clinical significance or catheter infections, has been observed primarily in patients treated with Herceptin plus paclitaxel or docetaxel compared with patients receiving paclitaxel or docetaxel alone.

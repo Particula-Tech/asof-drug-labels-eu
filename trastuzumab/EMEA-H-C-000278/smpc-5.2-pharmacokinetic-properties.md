@@ -24,7 +24,6 @@ In all clinical studies, volume of distribution approximated serum volume, 2.95 
 
 Circulating Shed Antigen
 Detectable concentrations of the circulating extracellular domain of the HER2 receptor (shed antigen) are found in the serum of some patients with HER2 overexpressing breast cancers.
-Determination of shed antigen in baseline serum samples revealed that 64 % (286/447) of patients had detectable shed antigen, which ranged as high as 1880 ng/ml (median =
-11 ng/ml).
+Determination of shed antigen in baseline serum samples revealed that 64 % (286/447) of patients had detectable shed antigen, which ranged as high as 1880 ng/ml (median = 11 ng/ml).
 Patients with higher baseline shed antigen levels were more likely to have lower serum trough concentrations of trastuzumab.
 However, with weekly dosing, most patients with elevated shed antigen levels achieved target serum concentrations of trastuzumab by week 6 and no significant relationship has been observed between baseline shed antigen and clinical response.
