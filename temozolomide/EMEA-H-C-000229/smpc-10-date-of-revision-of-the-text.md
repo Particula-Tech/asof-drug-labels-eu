@@ -19,7 +19,8 @@ Read all of this leaflet carefully before you start taking this medicine.
   You may need to read it again.
 - If you have further questions, please ask your doctor or your pharmacist.
 - This medicine has been prescribed for you personally and you should not pass it on to others.
-  It may harm them, even if their symptoms are the same as yours.
+
+It may harm them, even if their symptoms are the same as yours.
 
 In this leaflet:
 1.
@@ -41,7 +42,7 @@ Temodal 5 mg hard capsules temozolomide
 - The other ingredients of the capsule are anhydrous lactose, colloidal anhydrous silica, sodium starch glycolate, tartaric acid, stearic acid.
   Capsule shells contain gelatine, titanium dioxide, sodium lauryl sulphate and are imprinted with pharmaceutical ink: green imprint contains pharmaceutical grade shellac, propylene glycol, ammonium hydroxide, titanium dioxide (E 171), yellow iron oxide (E 172) and indigotin (E 132).
 
-Marketing Authorization Holder: SP Europe, Rue de Stalle 73, B-1180 Bruxelles, Belgium
+Marketing Authorisation Holder: SP Europe, Rue de Stalle 73, B-1180 Bruxelles, Belgium
 
 Manufacturer: SP Labo N.V., Industriepark 30, B-2220 Heist-op-den-Berg, Belgium
 
@@ -111,6 +112,7 @@ Before each new treatment cycle, your blood will be tested to determine if the T
 If you take more Temodal than you should:
 Take Temodal only as it is prescribed for you.
 If you accidentally take more Temodal capsules than you were told to, contact your doctor or pharmacist.
+
 If you forget to take Temodal:
 Take the missed dose as soon as possible during the same day.
 If a full day has gone by, check with your doctor.
@@ -134,7 +136,7 @@ If you notice any side effects not mentioned in this leaflet, please inform your
 
 Keep out of the reach and sight of children.
 
-Do not store above 30 �C
+Do not store above 30 �C.
 
 Do not use after the expiry date stated on the label and carton.
 
@@ -144,7 +146,7 @@ For any information about this medicinal product, please contact the local repre
 
 België/Belgique/Belgien Luxembourg/Luxemburg
 Rue de Stalle/Stallestraat 73 Rue de Stalle 73
-B-1180 Bruxelles/Brussel/Brüssel B-1180 Bruxelles
+B-1180 Bruxelles/Brussel/Brüssel B-1180 Bruxelles/Brüssel
 Tél/Tel: + 32-(0)2 370 92 11 Belgique/Belgien
 
 Tél: + 32-(0)2 370 92 11
@@ -158,20 +160,17 @@ Thomas-Dehler-Straße 27 Badener Strasse 23
 D-81737 München A-2514 Traiskirchen
 Tel: + 49-(0)89 627 31-0 Tel: + 43-(0)2252 502-0
 Ελλάδα Portugal
-Αγίου ∆ηµητρίου 63 Casal do Colaride
-GR-174 55 Άλιµος Agualva
-Τηλ: + 30-10 98 97 300 P-2735 Cacém
-
-Tel: + 351-21 433 93 00
-
+Αγίου ∆ηµητρίου 63 Rua Agualva dos Açores 16
+GR-174 55 Άλιµος P-2735-557 Agualva-Cacém
+Τηλ: + 30 2(10) 98 97 300 Tel: + 351-21 433 93 00
 España Suomi/Finland
 Km. 36, Ctra. Nacional I PL 3/PB 3
 E-28750 San Agustín de Guadalix - Madrid FIN-02201 Espoo/Esbo
-Tel: + 34-91 848 85 00 Puh/Tlf: + 358-(0)9 613 55 51
+Tel: + 34-91 848 85 00 Puh/Tel: + 358-(0)9 2535 53 00
 France Sverige
 92 rue Baudin Box 27190
 F-92300 Levallois-Perret S-10252 Stockholm
-Tél: + 33-(0)1 41 06 35 00 Tlf: + 46-(0)8 522 21 500
+Tél: + 33-(0)1 41 06 35 00 Tel: + 46-(0)8 522 21 500
 Ireland United Kingdom
 Shire Park Shire Park
 Welwyn Garden City Welwyn Garden City
@@ -208,3 +207,5 @@ Temodal 250 mg hard capsules temozolomide
   Capsule shells contain gelatine, titanium dioxide, sodium lauryl sulphate and are imprinted with pharmaceutical ink: black imprint contains pharmaceutical grade shellac, propylene glycol, ammonium hydroxide, potassium hydroxide and black iron oxide (E 172).
 
 Temodal 250 mg capsules for oral use are dispensed in amber glass bottles containing 5 or 20 capsules.
+
+Τηλ: + 30 210 98 97 300 Tel: + 351-21 433 93 00

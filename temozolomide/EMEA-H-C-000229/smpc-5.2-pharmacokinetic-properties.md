@@ -13,5 +13,4 @@ Following oral administration, approximately 5 % to 10 % of the dose is recovere
 
 Analysis of population-based pharmacokinetics of temozolomide revealed that plasma temozolomide clearance was independent of age, renal function or tobacco use.
 In a separate pharmacokinetic study, plasma pharmacokinetic profiles in patients with mild to moderate hepatic dysfunction were similar to those observed in patients with normal hepatic function.
-
 Paediatric patients had a higher AUC than adult patients; however, the maximum tolerated dose (MTD) was 1,000 mg/m2 per cycle both in children and in adults.
