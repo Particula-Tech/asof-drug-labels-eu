@@ -17,6 +17,7 @@ No dose adjustments are needed in patients experiencing delayed graft function p
 (See 5.2 Pharmacokinetics).
 
 Use in severe hepatic impairment: No dose adjustments are needed for patients with severe hepatic parenchymal disease.
+
 Other Considerations for Use:
 If neutropenia develops (absolute neutrophil count <1.3 x 103/µL), physicians should perform appropriate diagnostic tests, manage the patients appropriately, and consider interrupting dosing with CellCept.
 
@@ -24,9 +25,10 @@ Food has no effect on MPA (mycophenolic acid) AUC (area under the curve), but ha
 It is recommended that CellCept be administered on an empty stomach.
 
 No dosage reduction or interruption is required in the event of a transplant rejection episode.
-
 Treatment should be initiated by appropriately qualified specialists in renal transplantation and continued treatment should remain under the guidance of similarly qualified specialists.
 
-[CellCept® 500 mg, tablet mycophenolate mofetil]
+[CellCept 500 mg, tablet mycophenolate mofetil]
+
+Other Considerations for Use: If neutropenia develops (absolute neutrophil count <1.3 x 103/µL), physicians should perform appropriate diagnostic tests, manage the patients appropriately, and consider interrupting dosing with CellCept.
 
 Food has no effect on mycophenolic acid (MPA) area under the curve (AUC), but has been shown to decrease Cmax by 40%.

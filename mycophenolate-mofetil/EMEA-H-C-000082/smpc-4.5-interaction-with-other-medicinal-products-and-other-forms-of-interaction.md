@@ -1,4 +1,4 @@
-# 4.5 Interaction with Other Medicaments and Other Forms of Interaction
+# 4.5 Interaction with other medicinal products and other forms of interaction
 
 acyclovir: Higher MPAG and acyclovir plasma concentrations were observed when mycophenolate mofetil was administered with acyclovir in comparison to the administration of each drug alone.
 Because MPAG plasma concentrations are increased in the presence of renal impairment, as are acyclovir concentrations, the potential exists for the two drugs to compete for tubular secretion and thus further increases in concentrations of both drugs may occur.
@@ -13,6 +13,7 @@ ganciclovir: No pharmacokinetic interaction was observed between mycophenolate m
 
 oral contraceptives: No pharmacokinetic interaction was observed between mycophenolate mofetil and 1mg norethisterone/35 µg ethinyloestradiol.
 This single dose study demonstrates the lack of a gross pharmacokinetic interaction, but cannot exclude the possibility of changes in the pharmacokinetics of the oral contraceptive under long term dosing conditions with CellCept which might adversely affect the efficacy of the oral contraceptive.
+
 trimethoprim/sulphamethoxazole: No effect on the bioavailability of MPA was observed.
 
 other interactions: Co-administration of probenecid with mycophenolate mofetil in monkeys raises plasma AUC of MPAG by 3-fold.

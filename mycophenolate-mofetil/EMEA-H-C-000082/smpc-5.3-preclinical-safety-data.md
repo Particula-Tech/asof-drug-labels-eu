@@ -12,10 +12,14 @@ No effects on fertility or reproductive parameters were evident in the dams or i
 In teratology studies in rats and rabbits, fetal resorptions and malformations occurred in rats at 6mg/kg/day (including anophthalmia, agnathia, and hydrocephaly) and in rabbits at 90mg/kg/day (including cardiovascular and renal anomalies, such as ectopia cordis and ectopic kidneys, and diaphragmatic and umbilical hernia), in the absence of maternal toxicity.
 The systemic exposure at these levels are approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2g per day
 
-Refer to section 4.6, Pregnancy and Lactation.
+Refer to section 4.6, Use during pregnancy and lactation.
 
 The haematopoietic and lymphoid systems were the primary organs affected in toxicology studies conducted with mycophenolate mofetil in the rat, mouse, dog and monkey.
 These effects occurred at systemic exposure levels that are equivalent to or less than the clinical exposure at the recommended dose of 2g per day.
 Gastrointestinal effects were observed in the dog at systemic exposure levels equivalent to or less than the clinical exposure at the recommended dose.
 Gastrointestinal and renal effects consistent with dehydration were also observed in the monkey at the highest dose (systemic exposure levels equivalent to or greater than clinical exposure).
 The nonclinical toxicity profile of mycophenolate mofetil appears to be consistent with adverse events observed in human clinical trials which now provide safety data of more relevance to the patient population (see 4.8 Undesirable Effects).
+
+[CellCept 500 mg, tablet mycophenolate mofetil]
+
+Refer to section 4.6, Pregnancy and Lactation.
