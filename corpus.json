@@ -1,0 +1,9 @@
+{
+  "corpus": "eu",
+  "layout": "<inn>/<EMEA-H-C-nnnnnn>/product.json and smpc-<section>-<slug>.md; one commit per Commission decision whose English Annex I was converted, dated at the decision date; the Effective-Date trailer is authoritative",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "sources": [
+    "European Commission, Union Register of medicinal products (ec.europa.eu/health/documents/community-register)",
+    "European Medicines Agency (www.ema.europa.eu)"
+  ]
+}

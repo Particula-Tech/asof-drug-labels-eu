@@ -1,0 +1,7 @@
+# 6.3 Shelf-Life
+
+CellCept capsules have a shelf-life of two years when stored in opaque polyvinyl chloride blister packs at temperatures not exceeding 30°C.
+
+[CellCept® 500 mg, tablet mycophenolate mofetil]
+
+CellCept tablets have a shelf-life of two years when stored in opaque polyvinyl chloride blister packs at temperatures not exceeding 30°C.
