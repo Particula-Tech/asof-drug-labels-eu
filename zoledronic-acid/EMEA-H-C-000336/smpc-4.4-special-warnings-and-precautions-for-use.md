@@ -20,7 +20,7 @@ As with other bisphosphonates renal monitoring is recommended, for instance, mea
 In all patients with bone metastases the dose should be withheld if renal function has deteriorated.
 In the clinical studies, Zometa treatment was resumed only when the creatinine level returned to within 10 % of the baseline value.
 
-In view of the potential impact of bisphosphonates, including Zometa, on renal function, the lack of clinical safety data in patients with severe renal impairment at baseline (serum creatinine ≥ 400 µmol/l or ≥ 4.5 mg/dl) and only limited pharmacokinetic data in patients with severe renal impairment at baseline (creatinine clearance < 30 ml/min), the use of Zometa is not recommended in this patient population.
+In view of the potential impact of bisphosphonates, including Zometa, on renal function, the lack of clinical safety data in patients with severe renal impairment (in clinical trials defined as serum creatinine ≥ 400 µmol/l or ≥ 4.5 mg/dl for patients with TIH and ≥ 265 µmol/l or ≥ 3.0 mg/dl for patients with cancer and bone metastases, respectively) at baseline and only limited pharmacokinetic data in patients with severe renal impairment at baseline (creatinine clearance < 30 ml/min), the use of Zometa is not recommended in patients with severe renal impairment.
 
 As only limited clinical data are available in patients with severe hepatic insufficiency, no specific recommendations can be given for this patient population.
 

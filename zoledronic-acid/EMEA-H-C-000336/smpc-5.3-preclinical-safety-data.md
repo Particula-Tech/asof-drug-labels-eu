@@ -13,7 +13,7 @@ The safety margins relative to renal effects were narrow in the long-term repeat
 Longer-term repeat administration at doses bracketing the highest intended human therapeutic dose of zoledronic acid produced toxicological effects in other organs, including the gastrointestinal tract, liver, spleen and lungs, and at intravenous injection sites.
 
 Reproduction toxicity
-Zoledronic acid was teratogenic in the rat at subcutaneous doses ≥ 0.2 mg/kg.
+Zoledronic acid was teratogenic in the rat at subcutaneous doses � 0.2 mg/kg.
 Although no teratogenicity or foetotoxicity was observed in the rabbit, maternal toxicity was found.
 
 Mutagenicity and carcinogenic potential
