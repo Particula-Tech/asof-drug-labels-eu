@@ -1,0 +1,16 @@
+{
+  "active_substance": "oxybutynin",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000532",
+  "eu_number": "EU/1/03/270",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2004-06-15",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kentera",
+  "molecule": "oxybutynin",
+  "molecule_name": "OXYBUTYNIN",
+  "name": "Kentera (previously Oxybutynin Nicobrand)",
+  "register_name": "Kentera",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h270.htm"
+}
