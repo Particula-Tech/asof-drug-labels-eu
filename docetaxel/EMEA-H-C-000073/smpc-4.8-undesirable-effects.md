@@ -55,10 +55,9 @@ Skin and subcutaneous tissue disorders
 Reversible cutaneous reactions have been observed and were generally considered as mild to moderate.
 Reactions were characterised by a rash including localised eruptions mainly on the feet and hands, but also on the arms, face or thorax, and frequently associated with pruritus.
 Eruptions generally occurred within one week after the docetaxel infusion.
-Less frequently, severe symptoms such as eruptions followed by desquamation which rarely lead to interruption or discontinuation of docetaxel treatment were reported (see sections «Posology and method of administration» and
-«Special warnings and special precautions for use»).
+Less frequently, severe symptoms such as eruptions followed by desquamation which rarely lead to interruption or discontinuation of docetaxel treatment were reported (see sections «Posology and method of administration» and «Special warnings and special precautions for use»).
 Severe nail disorders are characterised by hypo-or hyperpigmentation and sometimes pain and onycholysis.
-Very rare cases of bullous eruption such as erythema multiform or Stevens-Johnson syndrome have been reported with docetaxel and other concomitant factors may have contributed to the development of these effects.
+Very rare cases of bullous eruption such as erythema multiforme or Stevens-Johnson syndrome have been reported with docetaxel and other concomitant factors may have contributed to the development of these effects.
 
 TAXOTERE 100mg/m² single agent:
 Very common: Alopecia (79%); Cutaneous reactions (56.6%; G3/4: 5.9%); Nail changes (27.9%; severe 2.6%).
@@ -241,7 +240,7 @@ TAXOTERE 75mg/m² in combination with capecitabine:
 Very common: Sore throat (11%; G3/4: 2%)
 Common: Dyspnea (7%; G3/4: 1%); Cough (6%; G3/4: <1%); Epistaxis (5%; G3/4: <1%)
 
-Acute respiratory distress syndrome and interstitial pneumonia have rarely been reported.
+Acute respiratory distress syndrome, interstitial pneumonia and pulmonary fibrosis have rarely been reported.
 
 General disorders and administration site conditions
 
@@ -267,3 +266,8 @@ Very common: Asthenia (23%; G3/4: 3%); Pyrexia (21%; G3/4: 1%); Fatigue (21%; G3
 Common: Pain in limb (9%; G3/4: <1%); Lethargy (6%); Pain (6%); Oral candidiasis (6%; G3/4: < 1%).
 
 Radiation recall phenomena have rarely been reported.
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+Less frequently, severe symptoms such as eruptions followed by desquamation which rarely lead to interruption or discontinuation of docetaxel treatment were reported (see sections «Posology and method of administration» and
+«Special warnings and special precautions for use»).

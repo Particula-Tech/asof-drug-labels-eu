@@ -24,7 +24,7 @@ If the patient continues to experience these reactions at 60 mg/m², the treatme
 For patients who are dosed initially at docetaxel 75 mg/m2 in combination with cisplatin and whose nadir of platelet count during the previous course of therapy is <25000 cells/mm3, or in patients who experience febrile neutropenia, or in patients with serious non-hematologic toxicities, the docetaxel dosage in subsequent cycles should be reduced to 65 mg/m2.
 For cisplatin dosage adjustments, see manufacturer’s summary of product characteristics.
 
-Alternatively, prophylactic G-CSF may be used in patients who experienced febrile neutropenia or severe infection during last cycle to be able to maintain dose intensity as clinically indicated.
+Alternatively, prophylactic G-CSF may be used in patients who experienced febrile neutropenia or severe infection during the last cycle to be able to maintain dose intensity as clinically indicated.
 
 In combination with capecitabine:
 � For capecitabine dose modifications, see capecitabine summary of product characteristics.

@@ -1,6 +1,6 @@
 # 6.6 Instructions for use and handling, and disposal
 
-Recommendations for the safe handling
+Recommendations for safe handling
 
 TAXOTERE is an antineoplastic agent and, as with other potentially toxic compounds, caution should be exercised when handling it and preparing TAXOTERE solutions.
 The use of gloves is recommended.
@@ -20,7 +20,6 @@ Inject the entire contents of the syringe into the corresponding TAXOTERE vial.
 
 Remove the syringe and needle and mix manually by repeated inversions for at least 45 seconds.
 Do not shake.
-
 Allow the premix vial to stand for 5 minutes at room temperature and then check that the solution is homogenous and clear (foaming is normal even after 5 minutes due to the presence of polysorbate 80 in the formulation).
 
 The premix solution contains 10 mg/ml docetaxel and should be used immediately after preparation.

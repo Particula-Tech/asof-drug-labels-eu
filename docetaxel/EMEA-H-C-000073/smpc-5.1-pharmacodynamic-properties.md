@@ -36,6 +36,7 @@ TAXOTERE in combination with doxorubicin
 
 One large randomized phase III study, involving 429 previously untreated patients with metastatic disease, has been performed with doxorubicin (50 mg/m²) in combination with docetaxel (75 mg/m²) (AT arm) versus doxorubicin (60 mg/m²) in combination with cyclophosphamide (600 mg/m²) (AC arm).
 Both regimens were administered on day 1 every 3 weeks.
+
 � Time to progression (TTP) was significantly longer in the AT arm versus AC arm, p=0.0138.
 The median TTP was 37.3 weeks (95%CI :33.4 - 42.1) in AT arm and 31.9 weeks (95%CI : 27.4 - 36.0) in AC arm.
 � Overall response rate (ORR) was significantly higher in the AT arm versus AC arm, p=0.009.
@@ -65,7 +66,6 @@ In a phase III study, in previously treated patients, time to progression (12.3 
 The 1-year survival rate was also significantly longer in docetaxel (40%) versus BSC (16%).
 There was less use of morphinic analgesic (p<0.01), non-morphinic analgesics (p<0.01), other disease-related medications (p=0.06) and radiotherapy (p<0.01) in patients treated with docetaxel at 75 mg/m² compared to those with BSC.
 The overall response rate was 6.8% in the evaluable patients, and the median duration of response was 26.1 weeks.
-
 Taxotere in combination with platinum agents in chemotherapy-naïve patients
 
 In a Phase III trial, 1218 patients with unresectable stage IIIB or IV NSCLC, with KPS of 70% or greater, and who did not receive previous chemotherapy for this condition, were randomised to either Taxotere (T) 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin (Cis) 75 mg/ m2 over 30-60 minutes every 3 weeks, Taxotere 75 mg/ m2 as a 1 hour infusion in combination with carboplatin (AUC 6 mg/ml�min) over 30-60 minutes every 3 weeks, or vinorelbine (V) 25 mg/ m2 administered over 6-10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/ m2 administered on day 1 of cycles repeated every 4 weeks.

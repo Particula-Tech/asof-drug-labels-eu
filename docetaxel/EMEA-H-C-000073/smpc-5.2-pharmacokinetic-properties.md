@@ -11,7 +11,6 @@ Docetaxel is more than 95% bound to plasma proteins.
 A study of 14C-docetaxel has been conducted in three cancer patients.
 Docetaxel was eliminated in both the urine and faeces following cytochrome P450-mediated oxidative metabolism of the tert-butyl ester group, within seven days, the urinary and faecal excretion accounted for about 6% and 75% of the administered radioactivity, respectively.
 About 80% of the radioactivity recovered in faeces is excreted during the first 48 hours as one major inactive metabolite and 3 minor inactive metabolites and very low amounts of unchanged drug.
-
 A population pharmacokinetic analysis has been performed with docetaxel in 577 patients.
 Pharmacokinetic parameters estimated by the model were very close to those estimated from Phase I studies.
 The pharmacokinetics of docetaxel were not altered by the age or sex of the patient.
@@ -20,6 +19,7 @@ Docetaxel clearance was not modified in patients with mild to moderate fluid ret
 
 When used in combination, docetaxel does not influence the clearance of doxorubicin and the plasma levels of doxorubicinol (a doxorubicin metabolite).
 On the other hand, the clearance of docetaxel was increased while the efficacy is maintained.
+
 Phase I study evaluating the effect of capecitabine on the pharmacokinetics of docetaxel and vice versa showed no effect by capecitabine on the pharmacokinetics of docetaxel (Cmax and AUC) and no effect by docetaxel on the pharmacokinetics of a relevant capecitabine metabolite 5’-DFUR.
 
 Clearance of docetaxel in combination therapy with cisplatin was similar to that observed following monotherapy.
