@@ -1,7 +1,6 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each Temodal capsule contains 5 mg temozolomide.
-
 For excipients, see 6.1.
 
 [Temodal 20 mg hard capsules.]

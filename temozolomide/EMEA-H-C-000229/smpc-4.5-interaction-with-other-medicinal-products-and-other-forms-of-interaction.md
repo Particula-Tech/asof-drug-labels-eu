@@ -2,7 +2,7 @@
 
 Administration of Temodal with ranitidine did not result in alterations in the extent of absorption of temozolomide.
 
-Administration of Temodal with food resulted in a 33 % decrease in Cmax and a 9 % decrease in AUC.
+Administration of Temodal with food resulted in a 33% decrease in Cmax and a 9% decrease in AUC.
 As it cannot be excluded that the change in Cmax is clinically significant, Temodal should be administered without food.
 
 Based on an analysis of population pharmacokinetics observed in Phase II trials, co-administration of dexamethasone, prochlorperazine, phenytoin, carbamazepine, ondansetron, H2 receptor antagonists, or phenobarbital did not alter the clearance of temozolomide.
