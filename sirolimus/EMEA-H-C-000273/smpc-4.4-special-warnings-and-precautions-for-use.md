@@ -14,8 +14,7 @@ The use of live vaccines should be avoided during treatment with Rapamune.
 The pharmacokinetics of Rapamune have not been studied in patients with severe hepatic impairment.
 It is recommended that sirolimus whole blood trough levels be closely monitored in hepatically impaired patients.
 
-Co-administration of Rapamune with strong inducers (e.g. rifampin, rifabutin) or inhibitors (e.g. ketoconazole) of CYP3A4 is not recommended unless the benefit outweighs the risk due to the potential interaction.
-It is recommended that sirolimus whole blood trough levels be closely monitored whenever inducers or inhibitors of CYP3A4 are concurrently administered and after their discontinuation (see section 4.5).
+Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (Section 4.5).
 
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression (see Undesirable Effects, section 4.8).
 Oversuppression of the immune system can also increase susceptibility to infection including opportunistic infections, fatal infections, and sepsis.

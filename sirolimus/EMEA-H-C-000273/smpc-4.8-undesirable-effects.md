@@ -13,10 +13,10 @@ Additionally, two open-label studies enrolled 771 patients who initially receive
 These patients were randomised to continue cyclosporine therapy or to have cyclosporine withdrawn after 2-3 months post-transplant.
 Adverse reactions are listed according to the following categories:
 
-Very common: �10 %
+Very common: ≥10 %
 Common: 1% and <10%
-Uncommon: �0.1% and <1%
-Rare: �0.01% and <0.1%
+Uncommon: ≥0.1% and <1%
+Rare: ≥0.01% and <0.1%
 
 Body as a whole:
 
@@ -119,9 +119,5 @@ The risk may increase as the trough Sirolimus level increases.
 Rare reports of fatal hepatic necrosis have been reported with elevated trough Sirolimus levels.
 
 [Rapamune 2 mg coated tablets]
-
-Common: Leucopenia; thrombotic thrombocytopenic purpura/haemolytic
-
-uremia syndrome
 
 Common: Liver function tests abnormal; increased SGOT increasedSGPT

@@ -29,7 +29,7 @@ Sirolimus pharmacokinetics have not been evaluated in patients with severe hepat
 
 Therapeutic drug monitoring: Most patients who received 2 mg of Rapamune 4 hours after cyclosporine had whole blood trough concentrations of sirolimus within the 4 to 12 ng/ml target range.
 Optimal therapy requires therapeutic drug concentration monitoring in all patients.
-Whole blood sirolimus levels should be closely monitored in the following populations: (1) in patients with hepatic impairment; (2) when strong inducers (e.g. rifampin, rifabutin) or inhibitors (e.g. ketaconazole) of CYP3A4 are concurrently administered and after their discontinuation (see section 4.5); and/or (3) if cyclosporine dosing is markedly reduced or discontinued, as these populations are most likely to have special dosing requirements.
+Whole blood sirolimus levels should be closely monitored in the following populations: (1) in patients with hepatic impairment; (2) when inducers or inhibitors of CYP3A4 are concurrently administered and after their discontinuation (see section 4.5); and/or (3) if cyclosporine dosing is markedly reduced or discontinued, as these populations are most likely to have special dosing requirements.
 
 To minimise variability, Rapamune should be taken at the same time in relation to cyclosporine, 4 hours after the cyclosporin dose, and consistently either with or without food (see Pharmacokinetic properties, section 5.2).
 Optimally, adjustments in Rapamune dosage should be based on more than a single trough level obtained >5 days after a previous dosing change.
