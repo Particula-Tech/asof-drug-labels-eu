@@ -17,7 +17,7 @@ It is advisable to monitor renal function in patients with renal function impair
 A pharmacokinetic study demonstrated that ritonavir extensively inhibits the metabolism of saquinavir resulting in greatly increased saquinavir plasma concentrations (see section 4.5 Interaction with other medicinal products and other forms of interaction).
 Doses greater than 400 mg twice daily of either medicine were associated with an increased incidence of adverse events.
 
-Norvir oral solution contains alcohol (43 % v/v), therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.
+Norvir oral solution contains alcohol (43% v/v), therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.
 
 There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in haemophiliac patients type A and B treated with protease inhibitors.
 In some patients additional factor VIII was given.
@@ -31,14 +31,14 @@ New onset diabetes mellitus, hyperglycaemia or exacerbation of existing diabetes
 In some of these the hyperglycaemia was severe and in some cases also associated with ketoacidosis.
 Many patients had confounding medical conditions, some of which required therapy with agents that have been associated with the development of diabetes mellitus or hyperglycaemia.
 
-Combination antiretroviral therapy, including regimens containing a protease inhibitor, is associated with redistribution of body fat in some patients.
-Protease inhibitors are also associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance and hyperglycaemia.
+Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients.
+The long-term consequences of these events are currently unknown.
+Knowledge about the mechanism is incomplete.
+A connection between visceral lipomatosis and PIs and lipoatrophy and nucleoside reverse transcriptase inhibitors (NRTIs) has been hypothesised.
+A higher risk of lipodystrophy has been associated with individual factors such as older age, and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
 Clinical examination should include evaluation for physical signs of fat redistribution.
-Consideration should be given to measurement of blood glucose.
-Lipid testing should be performed prior to initiating ritonavir therapy and at periodic intervals during therapy.
-Lipid disorders should be managed as clinically appropriate.
-The mechanisms of these events and long term consequences, such as an increased risk of cardiovascular disease, are currently unknown.
-
+Consideration should be given to measurement of fasting serum lipids and blood glucose.
+Lipid disorders should be managed as clinically appropriate (see section 4.8 Undesirable effects).
 Particular caution should be used when prescribing sildenafil in patients receiving ritonavir.
 Co-administration of ritonavir with sildenafil is expected to substantially increase sildenafil concentrations (11-fold increase in AUC) and may result in sildenafil-associated adverse events, including hypotension, syncope, visual changes and prolonged erection (see also section 4.5 Interactions with other medicinal products).
 
@@ -48,4 +48,6 @@ If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fl
 
 [Norvir 100 mg soft capsules]
 
-Norvir soft capsules contain alcohol (12 % w/w), therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.
+Norvir soft capsules contain alcohol (12% w/w), therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.
+
+A connection between visceral lipomatosis and PIs and lipoatrophy and reverse transcriptase inhibitors (NRTIs) has been hypothesised.

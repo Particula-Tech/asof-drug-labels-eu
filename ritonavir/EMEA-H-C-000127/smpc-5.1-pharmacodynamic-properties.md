@@ -7,7 +7,7 @@ Inhibition of HIV protease renders the enzyme incapable of processing the gag-po
 Ritonavir has selective affinity for the HIV protease and has little inhibitory activity against human aspartyl proteases.
 
 In vitro data indicates that ritonavir is active against all strains of HIV tested in a variety of transformed and primary human cell lines.
-The concentration of ritonavir that inhibits 50 % and 90 % of viral replication in vitro is approximately 0.02 µM and 0.11 µM, respectively.
+The concentration of ritonavir that inhibits 50% and 90% of viral replication in vitro is approximately 0.02 µM and 0.11 µM, respectively.
 Similar potencies were found with both AZT-sensitive and AZT-resistant strains of HIV.
 Studies which measured direct cell toxicity of ritonavir on several cell lines showed no direct toxicity at concentrations up to 25 µM, with a resulting in vitro therapeutic index of at least 1000.
 
@@ -21,6 +21,7 @@ Some patients receiving ritonavir monotherapy developed HIV strains with decreas
 Serial genotypic and phenotypic analysis indicated that susceptibility to ritonavir declined in an ordered and stepwise fashion.
 Initial mutations occurred at position 82 from wildtype valine to usually alanine or phenylalanine (V82A/F).
 Viral strains isolated in vivo without a change at codon 82 did not have decreased susceptibility to ritonavir.
+
 Cross-resistance to other antiretrovirals
 
 Serial HIV isolates obtained from six patients during ritonavir therapy showed a decrease in ritonavir susceptibility in vitro but did not demonstrate a concordant decrease in susceptibility to saquinavir in vitro when compared to matched baseline isolates.

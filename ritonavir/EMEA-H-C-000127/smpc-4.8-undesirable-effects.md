@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-In clinical studies (Phase II/III), the following adverse events with possible, probable or unknown relationship to ritonavir have been reported in ≥2 % of 1033 patients:
+In clinical studies (Phase II/III), the following adverse events with possible, probable or unknown relationship to ritonavir have been reported in ≥ 2% of 1033 patients:
 
 Classification of expected frequencies:
 
@@ -38,8 +38,9 @@ Syncope, orthostatic hypotension and renal insufficiency have also been reported
 
 Hepatic transaminase elevations exceeding five times the upper limit or normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
 
-Combination antiretroviral therapy, including regimens containing a protease inhibitor, is associated with redistribution of body fat in some patients, including loss of peripheral subcutaneous fat, increased intra-abdominal fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
-Protease inhibitors are also associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance and hyperglycaemia.
+Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
+
+Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4 Special warnings and special precautions for use).
 
 Hyperglycaemia has been reported in individuals with and without a known history of diabetes.
 Cause and effect relationship has not been established.
@@ -54,7 +55,6 @@ Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdomi
 Patients who exhibit these signs or symptoms should be evaluated and Norvir therapy should be discontinued if a diagnosis of pancreatitis is made.
 
 Clinical chemistry:
-
 High gamma-glutamyl transpeptidase (GGT) , high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); high aspartate transaminase (SGOT), high amylase, high uric acid, low potassium and decrease of free and total thyroxin (T4) values were commonly reported.
 Uncommon events were high glucose, low total calcium, high magnesium, high total bilirubin, high alkaline phosphatase.
 

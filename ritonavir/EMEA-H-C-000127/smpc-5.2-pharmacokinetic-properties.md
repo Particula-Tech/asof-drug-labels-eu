@@ -17,7 +17,7 @@ No clinically significant differences in AUC or Cmax were noted between males an
 Ritonavir pharmacokinetic parameters were not statistically significantly associated with body weight or lean body mass.
 
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20 - 40 l after a single 600 mg dose.
-The protein binding of ritonavir in human plasma was noted to be approximately 98 - 99 %.
+The protein binding of ritonavir in human plasma was noted to be approximately 98 - 99%.
 Ritonavir binds to both human alpha 1-acid glycoprotein (AAG) and human serum albumin (HSA) with comparable affinities.
 Plasma protein binding is constant over the concentration range of 0.1 – 100 �g /ml.
 
@@ -29,14 +29,14 @@ Ritonavir was noted to be extensively metabolised by the hepatic cytochrome P450
 Animal studies as well as in vitro experiments with human hepatic microsomes indicated that ritonavir primarily underwent oxidative metabolism.
 Four ritonavir metabolites have been identified in man.
 The isopropylthiazole oxidation metabolite (M-2) is the major metabolite and has antiviral activity similar to that of parent drug.
-However, the AUC of the M-2 metabolite was approximately 3 % of the AUC of parent drug.
+However, the AUC of the M-2 metabolite was approximately 3% of the AUC of parent drug.
 
-Human studies with radiolabelled ritonavir demonstrated that the elimination of ritonavir was primarily via the hepatobiliary system; approximately 86 % of radiolabel was recovered from stool, part of which is expected to be unabsorbed ritonavir.
+Human studies with radiolabelled ritonavir demonstrated that the elimination of ritonavir was primarily via the hepatobiliary system; approximately 86% of radiolabel was recovered from stool, part of which is expected to be unabsorbed ritonavir.
 In these studies renal elimination was not found to be a major route of elimination of ritonavir.
 This was consistent with the observations in animal studies.
 
-Steady-state pharmacokinetics were evaluated in HIV infected children above 2 years of age receiving doses ranging from 250 mg/m2 twice daily to 400 mg/m2 twice daily.
-Ritonavir concentrations obtained after 350 to 400 mg/m2 twice daily in paediatric patients were comparable to those obtained in adults receiving 600 mg (approximately 330 mg/m2) twice daily.
+Steady-state pharmacokinetics were evaluated in HIV infected children above 2 years of age receiving doses ranging from 250 mg/m² twice daily to 400 mg/m² twice daily.
+Ritonavir concentrations obtained after 350 to 400 mg/m² twice daily in paediatric patients were comparable to those obtained in adults receiving 600 mg (approximately 330 mg/m²) twice daily.
 
 [Norvir 100 mg soft capsules]
 

@@ -1,4 +1,4 @@
-# 6.6 Instructions for use and handling
+# 6.6 Instructions for use and handling <and disposal>
 
 The dosage cup or oral syringe should be cleaned immediately with hot water and dish soap after use.
 When cleaned immediately, drug residue is removed.
