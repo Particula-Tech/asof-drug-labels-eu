@@ -23,4 +23,5 @@ The pen containing a cartridge must not be stored in the refrigerator.
 
 Ensure that the pen is not directly touching the freezer compartment or freezer packs.
 
+Before first use, the pen must be stored at room temperature for 1 to 2 hours.
 Pens in use must not be stored in the refrigerator.

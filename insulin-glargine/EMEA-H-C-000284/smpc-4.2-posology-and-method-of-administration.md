@@ -56,3 +56,5 @@ Due to limited experience the efficacy and safety of Lantus could not be assesse
 [Lantus 100 IU/ml OptiSet solution for injection]
 
 Lantus OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
+
+Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully (see6.6)
