@@ -8,8 +8,9 @@ Absorption
 Following oral administration of tenofovir disoproxil fumarate to HIV infected patients, tenofovir disoproxil fumarate is rapidly absorbed and converted to tenofovir.
 Maximum tenofovir concentrations are observed in serum within one hour of dosing in the fasted state and within two hours when taken with food.
 The oral bioavailability of tenofovir from tenofovir disoproxil fumarate in fasted patients was approximately 25%.
-Administration of tenofovir disoproxil fumarate with food enhanced the oral bioavailability, with an increase in tenofovir AUC by approximately 40% and Cmax by approximately 14%.
+Administration of tenofovir disoproxil fumarate with a high fat meal enhanced the oral bioavailability, with an increase in tenofovir AUC by approximately 40% and Cmax by approximately 14%.
 Following the first dose of tenofovir disoproxil fumarate in fed patients, the median Cmax in serum ranged from 213 to 375 ng/ml.
+However, administration of tenofovir disoproxil fumarate with a light meal did not have a significant effect on the pharmacokinetics of tenofovir.
 
 Distribution
 Following intravenous administration the steady-state volume of distribution of tenofovir was estimated to be approximately 800 ml/kg.
@@ -19,7 +20,7 @@ In vitro protein binding of tenofovir to plasma or serum protein was less than 0
 Biotransformation
 In vitro studies have determined that neither tenofovir disoproxil fumarate nor tenofovir are substrates for the CYP450 enzymes.
 Moreover, at concentrations substantially higher (approximately 300-fold) than those observed in vivo, tenofovir did not inhibit in vitro drug metabolism mediated by any of the major human CYP450 isoforms involved in drug biotransformation (CYP3A4, CYP2D6, CYP2C9, CYP2E1, or CYP1A1/2).
-Tenofovir disoproxil fumarate at a concentration of 100 µmol had no effect on any of the CYP450 isoforms, except CYP1A1/2, where a small (6%) but statistically significant reduction in metabolism of CYP1A1/2 substrate was observed.
+Tenofovir disoproxil fumarate at a concentration of 100 µmol/l had no effect on any of the CYP450 isoforms, except CYP1A1/2, where a small (6%) but statistically significant reduction in metabolism of CYP1A1/2 substrate was observed.
 Based on these data, it is unlikely that clinically significant interactions involving tenofovir disoproxil fumarate and medicinal products metabolised by CYP450 would occur.
 
 Elimination
@@ -38,6 +39,20 @@ Limited data on the pharmacokinetics of tenofovir in women indicate no major gen
 Pharmacokinetic studies have not been performed in children and adolescents (under 18) or in the elderly (over 65).
 
 Pharmacokinetics have not been specifically studied in different ethnic groups.
+
+Renal impairment
+Pharmacokinetic parameters of tenofovir were determined following administration of a single dose of tenofovir disoproxil 245 mg to 40 non-HIV infected patients with varying degrees of renal impairment defined according to baseline creatinine clearance (CrCl) (normal renal function when CrCl
+> 80 ml/min; mild with CrCl = 50-79 ml/min; moderate with CrCl = 30-49 ml/min and severe with CrCl = 10-29 ml/min).
+Compared with patients with normal renal function, the mean tenofovir exposure ± standard deviation increased from 2,185±257 ng.h/ml in subjects with CrCl > 80 ml/min to respectively 3,064 ± 927 ng.h/ml, 6,009 ± 2,505 ng.h/ml and 15,985 ± 7,223 ng.h/ml in patients with mild, moderate and severe renal impairment.
+The dosing recommendations in patients with renal impairment, with increased dosing interval, are expected to result in higher peak plasma concentrations and lower Cmin levels in patients with renal impairment compared with patients with normal renal function.
+The clinical implications of this are unknown.
+
+In patients with end-stage renal disease (ESRD) (CrCl < 10 ml/min) requiring haemodialysis, between dialysis tenofovir concentrations substantially increased over 48 hours achieving a mean Cmax of 1,032 ng/ml and a mean AUC0-48h of 42,857 ng.h/ml.
+
+It is recommended that the dosing interval for tenofovir disoproxil 245 mg (as fumarate) is modified in patients with creatinine clearance < 50 ml/min or in patients who already have ESRD and require dialysis (see 4.2).
+
+The pharmacokinetics of tenofovir in non-haemodialysis patients with creatinine clearance
+< 10 ml/min and in patients with ESRD managed by peritoneal or other forms of dialysis have not been studied.
 
 Intracellular pharmacokinetics
 In non-proliferating human peripheral blood mononuclear cells (PBMCs) the half-life of tenofovir diphosphate was found to be approximately 50 hours, whereas the half-life in phytohaemagglutinin-stimulated PBMCs was found to be approximately 10 hours.

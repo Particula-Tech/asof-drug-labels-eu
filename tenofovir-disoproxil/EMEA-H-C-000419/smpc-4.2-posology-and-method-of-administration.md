@@ -9,5 +9,20 @@ Viread must not be administered to children or adolescents until further data be
 
 Elderly: No data are available on which to make a dose recommendation for patients over the age of 65 years (see 4.4).
 
-Renal insufficiency: No data are available on which to make a dose recommendation for patients with renal insufficiency (see 4.4).
+Renal insufficiency: Tenofovir is eliminated by renal excretion and the exposure to tenofovir increases in patients with renal dysfunction (see 5.2).
+Dosing interval adjustment is required in all patients with creatinine clearance < 50 ml/min, as detailed below.
+The proposed dose interval modifications are based on limited data and may not be optimal.
+The safety and efficacy of these dosing interval adjustment guidelines have not been clinically evaluated.
+Therefore, clinical response to treatment and renal function should be closely monitored in these patients (see 4.4).
+
+|  | Creatinine Clearance (ml/min)* |  | Haemodialysis Patients |
+| --- | --- | --- | --- |
+|  | 30-49 | 10-29 |  |
+| Recommended 245 mg Dosing Interval | Every 48 hours | Every 72 to 96 hours | Every 7 days following completion of a haemodialysis session** |
+
+* Calculated using ideal (lean) body weight
+**Generally, once weekly dosing assuming three haemodialysis sessions per week of approximately 4 hours duration or each 12 hours of haemodialysis.
+
+No dosing recommendations could be drawn for non-haemodialysis patients with creatinine clearance < 10 ml/min.
+
 Hepatic impairment: No data are available on which to make a dose recommendation for patients with hepatic impairment (see 4.4).

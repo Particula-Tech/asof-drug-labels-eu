@@ -6,7 +6,6 @@ Pregelatinised starch (gluten free)
 Croscarmellose sodium
 Lactose monohydrate
 Magnesium stearate
-
 Coating:
 Lactose monohydrate
 Hypromellose
