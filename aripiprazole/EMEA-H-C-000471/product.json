@@ -1,0 +1,16 @@
+{
+  "active_substance": "aripiprazole",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000471",
+  "eu_number": "EU/1/04/276",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2004-06-04",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abilify",
+  "molecule": "aripiprazole",
+  "molecule_name": "ARIPIPRAZOLE",
+  "name": "Abilify",
+  "register_name": "Abilify",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h276.htm"
+}
