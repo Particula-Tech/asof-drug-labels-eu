@@ -29,11 +29,6 @@ In heavily NRTI pretreated patients the efficacy of abacavir is very low.
 The degree of benefit as part of a new combination regimen will depend on the nature and duration of prior therapy which may have selected for HIV-1 variants with cross-resistance to abacavir.
 
 The safety and efficacy of Ziagen in a number of different multidrug combination regimens is still not completely assessed (particularly in combination with non-nucleoside reverse transcriptase inhibitors).
+
 Abacavir penetrates the cerebrospinal fluid (CSF) (see 5.2 Pharmacokinetic properties), and has been shown to reduce HIV-1 RNA levels in the CSF.
 However, no effects on neuropsychological performance were seen when it was administered to patients with AIDS dementia complex.
-
-[Ziagen 20 mg/ml oral solution]
-
-Pharmacotherapeutic group nucleoside reverse transcriptase inhibitors, ATC Code: J05A F06
-
-Viral resistance to abacavir develops relatively slowly in vitro and in vivo, requiring multiple mutations to reach an eight-fold increase in IC50 over wild-type virus, which may be a clinically relevant level.

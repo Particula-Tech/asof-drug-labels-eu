@@ -9,7 +9,6 @@ In pre-clinical toxicology studies, abacavir treatment was shown to increase liv
 The clinical relevance of this is unknown.
 There is no evidence from clinical studies that abacavir is hepatotoxic.
 Additionally, autoinduction of abacavir metabolism or induction of the metabolism of other medicinal products hepatically metabolised has not been observed in man.
-
 In reproductive toxicity studies, embryo and foetal toxicity have been observed in rats but not in rabbits.
 These findings included decreased foetal body weight, foetal oedema, and an increase in skeletal variations/malformations, early intra-uterine deaths and still births.
 No conclusion can be drawn with regard to the teratogenic potential of abacavir because of this embryo-foetal toxicity.

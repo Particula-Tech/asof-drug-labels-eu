@@ -65,8 +65,3 @@ Pancreatitis has been reported, but a causal relationship to Ziagen treatment is
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see section 4.4 Special warnings and special precautions for use).
 
 In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.
-
-[Ziagen 20 mg/ml oral solution]
-
-Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues.
-(see section 4.4 Special warnings and special precautions for use).

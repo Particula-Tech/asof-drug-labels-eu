@@ -19,8 +19,8 @@ These symptoms usually resolve upon discontinuation of Ziagen.
 
 Hypersensitivity reaction symptoms usually appear within the first six weeks of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 Patients should be monitored closely, especially during the first two months of treatment with Ziagen, with consultation every two weeks.
-
 Patients who are diagnosed with a hypersensitivity reaction whilst on therapy MUST discontinue Ziagen immediately.
+
 Ziagen, or any other abacavir containing medicinal product, MUST NEVER be restarted in patients who have stopped therapy due to a hypersensitivity reaction.
 Restarting abacavir following a hypersensitivity reaction results in a prompt return of symptoms within hours.
 This recurrence is usually more severe than on initial presentation, and may include life-threatening hypotension and death.
@@ -46,12 +46,12 @@ In both cases, if a decision is made to re-start Ziagen this must be done in a s
 Prescribers must ensure that patients are fully informed regarding the following information on the hypersensitivity reaction:
 
 - Patients must be made aware of the possibility of a hypersensitivity reaction to abacavir that may result in a life threatening reaction or death.
-
 - Patients developing signs or symptoms possibly linked with a hypersensitivity
 
 reaction MUST CONTACT their doctor IMMEDIATELY.
 
 - In order to avoid restarting Ziagen, patients who have experienced a hypersensitivity reaction should be asked to return the remaining Ziagen tablets or oral solution to the pharmacy.
+
 - Patients who have stopped Ziagen for any reason, and particularly due to possible adverse reactions or illness, must be advised to contact their doctor before restarting.
 
 - Patients should be advised of the importance of taking Ziagen regularly.
@@ -81,10 +81,3 @@ Therefore patients should remain under close clinical observation by physicians 
 
 Patients should be advised that current antiretroviral therapy, including Ziagen, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be taken.
-
-[Ziagen 20 mg/ml oral solution]
-
-Ziagen oral solution contains 340 mg/ml of sorbitol.
-When taken according to the dosage recommendations each 15 ml dose contains approximately 5 g of sorbitol.
-This product is unsuitable for patients with hereditary fructose intolerance.
-Sorbitol can cause stomach upset and diarrhoea.
