@@ -49,7 +49,7 @@ Common: rash
 
 - Blood and lymphatic system disorders
 
-Post-marketing experience: neutropenia, pancytopenia, thrombocytopenia
+Post-marketing experience: leukopenia, neutropenia, pancytopenia, thrombocytopenia
 
 [Keppra 500 mg film-coated tablets.]
 

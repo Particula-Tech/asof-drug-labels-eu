@@ -37,7 +37,7 @@ Other unidentified components accounted only for 0.6 % of the dose.
 
 No enantiomeric interconversion was evidenced in vivo for either levetiracetam nor its primary metabolite.
 
-In vitro, levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C8/9/10, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1*6, UGT*1 and UGT �pI6.2�) and epoxide hydroxylase activities.
+In vitro, levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C8/9/10, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1*6, UGT1*1 and UGT �pl6.2�) and epoxide hydroxylase activities.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 In human hepatocytes in culture, levetiracetam did not cause enzyme induction.
 Therefore, the interaction of Keppra with other substances, or vice versa, is unlikely.
@@ -57,6 +57,7 @@ Elderly
 
 In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
 This is related to the decrease in renal function in this population (see section 4.2 “Posology”).
+
 Children (6 to 12 years)
 
 Following single dose administration (20 mg/kg) to epileptic children, the half-life of levetiracetam was 6.0 hours.
@@ -66,7 +67,6 @@ Renal impairment
 
 The apparent body clearance of both levetiracetam and of its primary metabolite is correlated to the creatinine clearance.
 It is therefore recommended to adjust the maintenance daily dose of Keppra, based on creatinine clearance in patients with moderate and severe renal impairment (see section 4.2 “Posology”).
-
 In anuric end-stage renal disease subjects the half-life was approximately 25 and 3.1 hours during interdialytic and intradialytic periods, respectively.
 The fractional removal of levetiracetam was 51 % during a typical 4-hour dialysis session.
 
