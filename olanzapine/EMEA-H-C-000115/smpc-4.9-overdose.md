@@ -11,8 +11,9 @@ Symptoms may include somnolence, mydriasis, blurred vision, respiratory depressi
 
 There is no specific antidote to olanzapine; therefore, appropriate supportive measures should be initiated.
 The possibility of multiple drug involvement should be considered.
+
 In case of acute overdosage, establish and maintain an airway and ensure adequate oxygenation and ventilation.
-The use of activated charcoal for overdose should be considered because the concomitant administration of activated charcoal was shown to reduce the oral bioavailability of olanzapine by 50 to 60%.
+The use of activated charcoal for overdose should be considered because the concomitant administration of activated charcoal was shown to reduce the oral bioavailability of olanzapine by 50 to 60 %.
 Gastric lavage (after intubation, if patient is unconscious) may also be considered.
 Olanzapine is not substantially removed by haemodialysis.
 

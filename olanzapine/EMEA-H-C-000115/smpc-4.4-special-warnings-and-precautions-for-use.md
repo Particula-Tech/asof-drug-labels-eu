@@ -3,6 +3,9 @@
 Concomitant illnesses: While olanzapine demonstrated anticholinergic activity in vitro, experience during the clinical trials revealed a low incidence of related events.
 However, as clinical experience with olanzapine in patients with concomitant illness is limited, caution is advised when prescribing for patients with prostatic hypertrophy, or paralytic ileus and related conditions.
 
+During antipsychotic treatment, improvement in the patient's clinical condition may take several days to some weeks.
+Patients should be closely monitored during this period.
+
 Lactose: Olanzapine tablets contain lactose.
 
 Transient, asymptomatic elevations of hepatic transaminases, ALT, AST have been seen occasionally, especially in early treatment.
@@ -18,8 +21,9 @@ Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental
 Additional signs may include elevated creatinine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
 If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotic drugs, including olanzapine must be discontinued.
 
-Olanzapine should be used cautiously in patients who have a history of seizures or have conditions associated with seizures.
-
+Olanzapine should be used cautiously in patients who have a history of seizures or are subject to factors which may lower the seizure threshold.
+Seizures have been reported to occur rarely in patients when treated with olanzapine.
+In most of these cases, a history of seizures or risk factors for seizures were reported..
 Tardive Dyskinesia: In comparator studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.
 However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or drug discontinuation should be considered.
 These symptoms can temporally deteriorate or even arise after discontinuation of treatment.
@@ -32,3 +36,7 @@ As with other antipsychotics, it is recommended that blood pressure is measured 
 In clinical trials, olanzapine was not associated with a persistent increase in absolute QT intervals.
 Only 8 of 1685 subjects had increased QTc interval on multiple occasions.
 However, as with other antipsychotics, caution should be exercised when olanzapine is prescribed with drugs known to increase QTc interval, especially in the elderly.
+
+Hyperglycaemia or exacerbation of pre-existing diabetes has been reported in very rare cases during ZYPREXA treatment.
+In some cases, a prior increase in body weight has been reported which may be a predisposing factor.
+Appropriate clinical monitoring is advisable in diabetic patients and in patients with risk factors for the development of diabetes mellitus.

@@ -9,6 +9,7 @@ Clinical signs included sedation, ataxia, tremors, increased heart rate, labored
 In monkeys, single oral doses up to 100 mg/kg resulted in prostration and, at higher doses, semi-consciousness.
 
 Repeated-dose toxicity
+
 In studies up to 3 months duration in mice and up to 1 year in rats and dogs, the predominant effects were CNS depression, anticholinergic effects, and peripheral haematological disorders.
 Tolerance developed to the CNS depression.
 Growth parameters were decreased at high doses.
