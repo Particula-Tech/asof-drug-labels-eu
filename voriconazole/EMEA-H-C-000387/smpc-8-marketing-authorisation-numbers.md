@@ -12,4 +12,4 @@ EU/1/02/212/025
 
 [VFEND 40mg/ml powder for oral suspension.]
 
-EU/I/02/212/026
+EU/1/02/212/026

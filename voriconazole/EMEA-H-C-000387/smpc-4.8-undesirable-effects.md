@@ -28,8 +28,6 @@ Undesirable effects reported in subjects receiving voriconazole
 | Endocrine |  |
 | Uncommon | Adrenal cortex insufficiency |
 
-Undesirable effects reported in subjects receiving voriconazole (Continued)
-
 | Haemic and lymphatic |  |
 | --- | --- |
 | Common | Thrombocytopenia, anaemia (including macrocytic, microcytic, normocytic, megaloblastic, aplastic), leukopenia, pancytopenia, purpura |
@@ -54,7 +52,7 @@ Undesirable effects reported in subjects receiving voriconazole (Continued)
 | Uncommon | Fixed drug eruption, eczema, psoriasis, Stevens-Johnson syndrome, urticaria |
 | Rare | Discoid lupus erythematosis, erythema multiforme, toxic epidermal necrolysis |
 | Special senses |  |
-| Very Common | Visual disturbances (including altered/enhanced visual perception, decrease in ERG amplitude,blurred vision, colour vision change, photophobia) |
+| Very Common | Visual disturbances (including altered/enhanced visual perception, blurred vision, colour vision change, photophobia) |
 | Uncommon | Blepharitis, optic neuritis, papilloedema, scleritis, altered taste perception |
 | Rare | Retinal haemorrhage, corneal opacity, optic atrophy |
 | Urogenital |  |
@@ -64,8 +62,8 @@ Undesirable effects reported in subjects receiving voriconazole (Continued)
 
 Visual disturbances
 Voriconazole treatment-related visual disturbances were very common.
-In clinical trials, short-term as well as long-term treatment, approximately 30 % of subjects experienced altered/enhanced visual perception, blurred vision, colour vision change or photophobia.
-The visual disturbances are transient and fully reversible, with the majority spontaneously resolving within 60 minutes and no clinically significant long-term visual effects were observed.
+In clinical trials, approximately 30 % of subjects experienced altered/enhanced visual perception, blurred vision, colour vision change or photophobia.
+The visual disturbances are transient and fully reversible, with the majority spontaneously resolving within 60 minutes.
 There is evidence of attenuation with repeated doses of voriconazole.
 The visual disturbance is generally mild, rarely results in discontinuation and has not been associated with long-term sequelae.
 Visual disturbances may be associated with higher plasma concentrations and/or doses.
@@ -93,39 +91,7 @@ This includes cases of jaundice, and rare cases of hepatitis and hepatic failure
 
 [VFEND 200 mg film-coated tablets]
 
-| Haemic and lymphatic |  |
-| --- | --- |
-| Common | Thrombocytopenia, anaemia (including macrocytic, microcytic, normocytic, megaloblastic, aplastic), leukopenia, pancytopenia, purpura |
-| Uncommon | Lymphadenopathy, agranulocytosis, eosinophilia, disseminated intravascular coagulation, marrow depression |
-| Rare | Lymphangitis |
-| Metabolic and nutritional |  |
-| Very common | Peripheral oedema |
-| Common | Hypokalaemia, creatinine increased, hypoglycaemia |
-| Uncommon | BUN increased, albuminuria, hypercholesterolaemia |
-| Rare | Hyperthyroidism, hypothyroidism |
-| Musculoskeletal |  |
-| Uncommon | Arthritis |
-| Nervous |  |
-| Common | Dizziness, hallucinations, confusion, depression, anxiety, tremor, agitation, paraesthesia |
-| Uncommon | Ataxia, brain oedema, diplopia, hypoaesthesia, nystagmus, vertigo |
-| Rare | Guillain-Barre syndrome, oculogyric crisis, hypertonia, Extrapyramidal syndrome |
-| Respiratory |  |
-| Common | Respiratory distress syndrome, lung oedema, sinusitis |
-| Skin and appendages |  |
-| Very common | Rash |
-| Common | Pruritus, maculopapular rash, photosensitivity skin reaction, alopecia, exfoliative dermatitis |
-| Uncommon | Fixed drug eruption, eczema, psoriasis, Stevens-Johnson syndrome, urticaria |
-| Rare | Discoid lupus erythematosis, erythema multiforme, toxic epidermal necrolysis |
-| Special senses |  |
-| Very Common | Visual disturbances (including altered/enhanced visual perception, decrease in ERG amplitude, blurred vision, colour vision change, photophobia) |
-| Uncommon | Blepharitis, optic neuritis, papilloedema, scleritis, altered taste perception |
-| Rare | Retinal haemorrhage, corneal opacity, optic atrophy |
-| Urogenital |  |
-| Common | Acute kidney failure, haematuria |
-| Uncommon | Nephritis |
-| Rare | Kidney tubular necrosis |
-
-The visual disturbances are transient and fully reversible, with the majority spontaneously resolving within 60 minutes and no clinically significant long –term effects were observed.
+(all sentences already above)
 
 [VFEND 200mg powder for solution for infusion]
 
@@ -200,7 +166,7 @@ The severity of the adverse reactions was generally mild to moderate.
 | Uncommon | Fixed drug eruption, eczema, psoriasis, Stevens-Johnson syndrome, urticaria |
 | Rare | Discoid lupus erythematosis, erythema multiforme, toxic epidermal necrolysis |
 | Special senses |  |
-| Very Common | Visual disturbances (including altered/enhanced visual perception, decrease in ERG amplitude, blurred vision, colour vision change, photophobia) |
+| Very Common | Visual disturbances (including altered/enhanced visual perception, blurred vision, colour vision change, photophobia) |
 | Uncommon | Blepharitis, optic neuritis, papilloedema, scleritis, altered taste perception |
 | Rare | Retinal haemorrhage, corneal opacity, optic atrophy |
 | Urogenital |  |
@@ -209,7 +175,4 @@ The severity of the adverse reactions was generally mild to moderate.
 | Rare | Kidney tubular necrosis |
 
 Altered taste perception
-
 In the combined data from three bioequivalence studies using the powder for oral suspension formulation, treatment related taste perversion was recorded in 12 (14%) of subjects.
-
-In clinical trials, short-term as well as long-term, approximately 30 % of subjects experienced altered/enhanced visual perception, blurred vision, colour vision change or photophobia.

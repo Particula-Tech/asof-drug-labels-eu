@@ -14,6 +14,11 @@ Inhibitors or inducers of these isoenzymes may increase or decrease voriconazole
 Rifampicin (CYP450 inducer): Rifampicin (600 mg once daily) decreased the Cmax (maximum plasma concentration) and AUCτ (area under the plasma concentration time curve within a dose interval) of voriconazole by 93 % and 96 %, respectively.
 Coadministration of voriconazole and rifampicin is contraindicated (see section 4.3).
 
+Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate): Ritonavir (400mg twice daily) decreased the steady state Cmax and AUCτ of oral voriconazole by an average of 66% and 82%, respectively, in healthy subjects with the exception of one subject in whom a 2.5 fold increases in AUCτ was observed.
+No extrapolation can be made for ritonavir doses lower than 400mg.
+Repeat oral administration of voriconazole did not have a significant effect on steady state Cmax and AUCτ of ritonavir following repeat dose administration in healthy subjects.
+Coadministration of voriconazole and ritonavir (400mg and above twice daily) is contraindicated (see section 4.3).
+
 Carbamazepine and phenobarbital (potent CYP450 inducers): Although not studied, carbamazepine or phenobarbital are likely to significantly decrease plasma voriconazole concentrations.
 Coadministration of voriconazole with carbamazepine and phenobarbital is contraindicated (see section 4.3).
 
@@ -30,6 +35,7 @@ Voriconazole inhibits the activity of cytochrome P450 isoenzymes, CYP2C19, CYP2C
 Therefore there is potential for voriconazole to increase the plasma levels of substances metabolised by these CYP450 isoenzymes.
 
 Terfenadine, astemizole, cisapride, pimozide and quinidine (CYP3A4 substrates): Although not studied, coadministration of voriconazole with terfenadine, astemizole, cisapride, pimozide, or quinidine is contraindicated, since increased plasma concentrations of these medicinal products can lead to QTc prolongation and rare occurrences of torsades de pointes (see section 4.3).
+
 Sirolimus (CYP3A4 substrate): Voriconazole increased sirolimus (2 mg single dose) Cmax and AUCτ by 556 % and 1014 %, respectively.
 Coadministration of voriconazole and sirolimus is contraindicated (see section 4.3).
 
@@ -68,8 +74,8 @@ Vinca Alkaloids (CYP3A4 substrates): Although not studied, voriconazole may incr
 
 Prednisolone (CYP3A4 substrate): Voriconazole increased Cmax and AUCτ of prednisolone (60 mg single dose) by 11 % and 34 %, respectively.
 No dosage adjustment is recommended.
-
 Digoxin (P-glycoprotein mediated transport): Voriconazole had no significant effect on Cmax and AUCτ of digoxin (0.25 mg once daily).
+
 Mycophenolic acid (UDP-glucuronyl transferase substrate): Voriconazole had no effect on the Cmax and AUCt of mycophenolic acid (1 g single dose).
 
 Two-way interactions

@@ -2,7 +2,6 @@
 
 Pharmacotherapeutic group: ATC code: J02A C03
 Antimycotics for Systemic Use – Triazole derivatives
-
 Mechanism of action
 
 In vitro, voriconazole displays broad-spectrum antifungal activity with antifungal potency against Candida species (including fluconazole resistant C. krusei and resistant strains of C. glabrata and
@@ -35,6 +34,7 @@ However, elevated minimum inhibitory concentrations did not always correlate wit
 Correlation of in vitro activity with clinical outcome is difficult owing to the complexity of the patients studied in clinical trials; breakpoints for voriconazole remain to be established.
 
 Clinical Experience
+
 Successful outcome in this section is defined as complete or partial response.
 
 Aspergillus infections – efficacy in aspergillosis patients with poor prognosis
