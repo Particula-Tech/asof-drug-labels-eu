@@ -25,6 +25,7 @@ Norvir INCREASES the AUCs (area under the curve) of the following medicines when
 Clarithromycin: because of the large therapeutic window for clarithromycin, no dosage reduction should be necessary in patients with normal renal function.
 For patients with renal impairment the following dosage adjustment should be considered: for creatinine clearance (CLCR) of 30 to 60 ml/min the clarithromycin dose should be reduced by 50 %, for CLCR < 30 ml/min the clarithromycin dose should be reduced by 75 %.
 Doses of clarithromycin > 1g/day should not be co-administered with Norvir.
+
 Desipramine: dosage reduction of desipramine should be considered in patients taking the combination.
 
 Rifabutin and its active metabolite 25-O-desacetyl rifabutin: concomitant use with ritonavir has resulted in a multifold increase in the AUC of rifabutin and its active metabolite 25-O-desacetyl rifabutin with clinical consequences.
@@ -62,6 +63,7 @@ On the basis of these data, concomitant use of sildenafil with ritonavir is not 
 Ketoconazole: concomitant administration of ritonavir and ketoconazole resulted in markedly elevated ketoconazole plasma levels: mean AUC0-24 increased 3.4 fold and Cmax increased 1.6 fold.
 The mean half-life of ketoconazole increased from 2.7 to 13.2 h. Because of the large increases in the two agents, doses of ketoconazole 200 mg/day or greater should not be used concomitantly with ritonavir without assessing the risk and benefits.
 This interaction can have serious gastrointestinal and hepatic consequences.
+
 Alprazolam: after 10 days of ritonavir given at doses titrated up to 500 mg twice daily, the AUC of alprazolam was not significantly affected during co-administration.
 In a published study, administration of short-term ritonavir (200 mg twice daily for 2 days) resulted in a 2.5 fold increase in the AUC of alprazolam.
 Alprazolam can be co-administered during chronic therapy with ritonavir (>10 days).
@@ -69,7 +71,6 @@ Caution is warranted regarding alprazolam co-administration during the first sev
 
 Triazolam: in a published study, co-administration of short-term ritonavir and triazolam resulted in a very large (>20 fold) increase in the AUC of triazolam.
 These data support that triazolam and ritonavir should not be co-administered (see section 4.3 Contraindications).
-
 Zolpidem: in a published study, co-administration of short-term ritonavir and zolpidem resulted in a small (<30 %) increase in the AUC of zolpidem.
 These data support that zolpidem and ritonavir may be co-administered with careful monitoring for excessive sedative effects.
 
@@ -100,6 +101,7 @@ Dose alteration of sulfamethoxazole/trimethoprim during concomitant Norvir thera
 
 Methadone: concomitant administration of ritonavir and methadone resulted in a reduction of the mean methadone AUC by 36 %.
 An increased methadone dose may be necessary when concomitantly administered with ritonavir, depending on the patient’s response.
+
 Meperidine: co-administration of multiple-dose ritonavir with single dose oral meperidine resulted in a 62 % decrease in meperidine AUC and a 47 % increase in normeperidine AUC.
 Dosage increase and long term use of meperidine and ritonavir are not recommended due to the increased concentrations of the metabolite, normeperidine, which has both analgesic and CNS stimulant activity (eg, seizures).
 

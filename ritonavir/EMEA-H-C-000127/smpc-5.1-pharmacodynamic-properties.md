@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmaco-therapeutic group: antiviral for systemic use, ATC code: J05A E03
+Pharmacotherapeutic group: antiviral for systemic use, ATC code: J05A E03
 
 Ritonavir is an orally active peptidomimetic inhibitor of the HIV-1 and HIV-2 aspartyl proteases.
 Inhibition of HIV protease renders the enzyme incapable of processing the gag-pol polyprotein precursor which leads to the production of HIV particles with immature morphology that are unable to initiate new rounds of infection.
@@ -36,7 +36,7 @@ The following studies are the most important.
 
 Adult Use
 A controlled study with ritonavir as add-on therapy in HIV-1 infected patients extensively pre-treated with nucleoside analogues and baseline CD4 cell counts ≤ 100 cells/μl showed a reduction in mortality and AIDS defining events.
-The mean average change from baseline over 16 weeks for HIV RNA levels was -0.79 log10 (maximum mean decrease: 1.29 log10) in the ritonavir group versus-0.01 log10 in the control group.
+The mean average change from baseline over 16 weeks for HIV RNA levels was -0.79 log10 (maximum mean decrease: 1.29 log10) in the ritonavir group versus -0.01 log10 in the control group.
 The most frequently used nucleosides in this study were zidovudine, stavudine, didanosine and zalcitabine.
 
 In a study recruiting less advanced HIV-1 infected patients (CD4 200-500 cells/μl) without previous antiretroviral therapy, ritonavir in combination with zidovudine or alone reduced viral load in plasma and increased CD4 count.
@@ -50,9 +50,4 @@ In an open label trial in 32 antiretroviral naive HIV-1 infected patients the co
 Paediatric Use
 In an open label trial in HIV infected, clinically stable children there was a significant difference
 (p = 0.03) in the detectable RNA levels in favour of a triple regimen (ritonavir, zidovudine and lamivudine) following 48 weeks treatment.
-
 Studies investigating optimal combinations and the long term efficacy and safety of ritonavir are ongoing.
-
-[Norvir 100 mg soft capsules]
-
-Pharmacotherapeutic group: antiviral for systemic use, ATC code: J05A E03
