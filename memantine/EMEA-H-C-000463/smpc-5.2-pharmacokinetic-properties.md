@@ -16,10 +16,10 @@ None of these metabolites exhibit NMDA-antagonistic activity.
 No cytochrome P 450 catalysed metabolism has been detected in vitro.
 
 In a study using orally administered 14C-memantine, a mean of 84% of the dose was recovered within 20 days, more than 99% being excreted renally.
-
 Elimination: Memantine is eliminated in a monoexponential manner with a terminal t½ of 60 to 100 hours.
 In volunteers with normal kidney function, total clearance (Cltot) amounts to
 170 ml/min/1.73 m² and part of total renal clearance is achieved by tubular secretion.
+
 Renal handling also involves tubular reabsorption, probably mediated by cation transport proteins.
 The renal elimination rate of memantine under alkaline urine conditions may be reduced by a factor of 7 to 9 (see section 4.4).
 Alkalisation of urine may result from drastic changes in diet, e.g. from a carnivore to a vegetarian diet, or from the massive ingestion of alkalising gastric buffers.

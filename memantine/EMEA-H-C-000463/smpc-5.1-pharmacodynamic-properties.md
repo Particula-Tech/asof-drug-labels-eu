@@ -15,5 +15,5 @@ Primary outcome parameters included assessment of the global domain (using the C
 Cognition was assessed as a secondary endpoint with the Severe Impairment Battery (SIB).
 The results in these domains favoured memantine over placebo (Observed Cases Analysis for CIBIC-Plus: p=0.025; ADCS-ADLsev: p=0.003; SIB: p=0.002).
 
-After 6 months, the rate of individual responders (response prospectively defined as stabilisation or improvement in two independent domains) was 29% for the memantine group versus 10% for placebo (p=0.004).
+After 6 months, the rate of individual responders (response prospectively defined as stabilisation or improvement in two independent domains) was 29% for the memantine group versus 10% for placebo (p=0.0004).
 With a triple criterion (response defined as stabilisation or improvement in all three domains: cognition, functional and global domain), there were 11% responders for memantine versus 6% for placebo (p=0.17).
