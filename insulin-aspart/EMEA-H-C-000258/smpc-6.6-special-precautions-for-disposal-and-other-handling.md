@@ -1,6 +1,25 @@
 # 6.6 Instructions for use and handling
 
-For use by one person only.
+NovoRapid vials are for use with insulin syringes with the corresponding unit scale.
+Do not use NovoRapid in insulin pumps.
+
+[NovoRapid Penfill 100 U/ml, solution for injection in cartridge.]
+
+NovoRapid Penfill is for use by one person only.
 The container must not be refilled.
+
+NovoRapid Penfill cartridges are designed to be used with the Novo Nordisk insulin delivery system and NovoFine needles.
+
+[NovoRapid NovoLet 100 U/ml, solution for injection in prefilled syringe.]
+
+For use by one person only.
+
+NovoFine needles are designed to be used with NovoLet.
+
+[NovoRapid NovoLet 100 U/ml, solution for injection in prefilled syringe. (SmPC 4)]
+
+(all sentences already above)
+
+[NovoRapid FlexPen 100 U/ml, solution for injection in prefilled pen.]
 
 NovoFine S needles are designed to be used with NovoRapid FlexPen.
