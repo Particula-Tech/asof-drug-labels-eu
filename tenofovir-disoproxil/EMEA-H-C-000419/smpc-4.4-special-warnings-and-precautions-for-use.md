@@ -10,13 +10,12 @@ The safety and efficacy of Viread in patients with renal impairment have not bee
 
 Renal impairment, which may include hypophosphataemia, has been reported with the use of tenofovir disoproxil fumarate (see 4.8).
 
-Monitoring of renal function (creatinine clearance and serum phosphate) is recommended before taking tenofovir disoproxil fumarate and every four weeks during therapy.
+Monitoring of renal function (creatinine clearance and serum phosphate) is recommended before taking tenofovir disoproxil fumarate, every four weeks during the first year, and then every three months.
 In patients at risk for, or with a history of, renal dysfunction, and patients with renal insufficiency, consideration should be given to more frequent monitoring of renal function.
 
-If serum phosphate is < 1.5 mg/dl (0.48 mmol/l) or creatinine clearance is decreased to < 50 ml/min, renal function should be re-evaluated within one week.
-Consideration should be given to interrupting treatment with tenofovir disoproxil fumarate in patients with creatinine clearance decreased to
-< 50 ml/min or decreases in serum phosphate to < 1.0 mg/dl (0.32 mmol/l).
-
+If serum phosphate is < 1.5 mg/dl (0.48 mmol/l) or creatinine clearance is decreased to < 50 ml/min, renal function should be re-evaluated within one week and the dose interval of Viread adjusted (see 4.2).
+Consideration should also be given to interrupting treatment with tenofovir disoproxil fumarate in patients with creatinine clearance decreased to < 50 ml/min or decreases in serum phosphate to
+< 1.0 mg/dl (0.32 mmol/l).
 Tenofovir disoproxil fumarate has not been evaluated in patients receiving nephrotoxic medicinal products (e.g. aminoglycosides, amphotericin B, foscarnet, ganciclovir, pentamidine, vancomycin, cidofovir or interleukin-2).
 Use of tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic medicinal product.
 If concomitant use of tenofovir disoproxil fumarate and nephrotoxic agents is unavoidable, renal function should be monitored weekly.
@@ -28,8 +27,10 @@ In healthy volunteers, a single dose of adefovir dipivoxil given with tenofovir 
 However, the clinical safety including potential renal effects of the co-administration of adefovir dipivoxil and tenofovir disproxil fumarate is unknown.
 Unless clearly necessary, concomitant use of these medicinal products is not recommended, but if such use is unavoidable, renal function should be monitored weekly (see 4.5).
 
-Bone toxicity, including a reduction in bone mineral density was seen in patients after 48 weeks of treatment with tenofovir disoproxil fumarate (see 5.3).
-The effects of long term administration on bone metabolism and their clinical relevance are currently not known.
+In a 144-week controlled clinical study that compared tenofovir disoproxil fumarate with stavudine in combination with lamivudine and efavirenz in antiretroviral-naïve patients, small decreases in bone mineral density of the hip and spine were observed in both treatment groups.
+Decreases in bone mineral density of spine and changes in bone biomarkers from baseline were significantly greater in the tenofovir disoproxil fumarate treatment group at 144 weeks.
+Decreases in bone mineral density of hip were significantly greater in this group until 96 weeks.
+However, there was no increased risk of fractures or evidence for clinically relevant bone abnormalities over 144 weeks.
 If bone abnormalities are suspected then appropriate consultation should be obtained.
 
 Tenofovir disoproxil fumarate should be avoided in antiretroviral experienced patients with strains harbouring the K65R mutation (see 5.1).
@@ -70,8 +71,12 @@ Clinical examination should include evaluation for physical signs of fat redistr
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate (see 4.8).
 
+Tenofovir is structurally related to nucleoside analogues hence the risk of lipodystrophy cannot be excluded.
+However, 144-week clinical data from antiretroviral-naïve patients indicate that the risk of lipodystrophy was lower with tenofovir disoproxil fumarate than with stavudine when administered with lamivudine and efavirenz.
+
 Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
-There have been reports of mitochondrial dysfunction in HIV negative infants exposed in utero and/or postnatally to nucleoside analogues.
+There have been reports of mitochondrial dysfunction in
+HIV negative infants exposed in utero and/or postnatally to nucleoside analogues.
 The main adverse events reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlactataemia, hyperlipasaemia).
 These events are often transitory.
 Some late-onset neurological disorders have been reported (hypertonia, convulsion, abnormal behaviour).
@@ -83,6 +88,5 @@ Co-administration of tenofovir disoproxil fumarate and didanosine resulted in in
 Patients receiving tenofovir disoproxil fumarate and didanosine should be carefully monitored for didanosine-related adverse events including but not limited to pancreatitis and peripheral neuropathy (see 4.5).
 
 Triple nucleoside therapy: There have been reports of a high rate of virological failure and of emergence of resistance at early stage when tenofovir disoproxil fumarate was combined with lamivudine and abacavir as well as with lamivudine and didanosine as a once daily regimen.
-
 Patients must be advised that antiretroviral therapies, including tenofovir disoproxil fumarate, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions must continue to be used.

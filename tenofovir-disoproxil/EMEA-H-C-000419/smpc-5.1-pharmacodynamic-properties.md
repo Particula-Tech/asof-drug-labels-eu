@@ -7,7 +7,8 @@ Tenofovir disoproxil is absorbed and converted to the active substance tenofovir
 Tenofovir is then converted to the active metabolite, tenofovir diphosphate, by constitutively expressed cellular enzymes through two phosphorylation reactions in both resting and activated T cells.
 Tenofovir diphosphate has an intracellular half-life of 10 hours in activated and 50 hours in resting peripheral blood mononuclear cells (PBMCs).
 Tenofovir diphosphate inhibits viral polymerases by direct binding competition with the natural deoxyribonucleotide substrate and, after incorporation into DNA, by DNA chain termination.
-Tenofovir diphosphate is a weak inhibitor of cellular polymerases α, β, and γ, with kinetic inhibition constants (Ki) that are > 200-fold higher against human DNA polymerase α (5.2 µmol/l) and > 3,000-fold higher against human DNA polymerase β and γ (81.7 and 59.5 µmol/l, respectively) than its Ki against HIV-1 reverse transcriptase (0.02 µmol/l).
+Tenofovir diphosphate is a weak inhibitor of cellular polymerases α, β, and γ, with kinetic inhibition constants (Ki) that are > 200-fold higher against human DNA polymerase α
+(5.2 µmol/l) and > 3,000-fold higher against human DNA polymerase β and γ (81.7 and 59.5 µmol/l, respectively) than its Ki against HIV-1 reverse transcriptase (0.02 µmol/l).
 At concentrations of up to 300 µmol/l, tenofovir has also shown no effect on the synthesis of mitochondrial DNA or the production of lactic acid in in vitro assays.
 
 Pharmacodynamic effects: Tenofovir has in vitro antiviral activity against retroviruses and hepadnaviruses.
@@ -46,18 +47,20 @@ The virological response was substantially decreased in patients with viral stra
 A statistically significant difference in favour of tenofovir disoproxil 245 mg (as fumarate) was seen in the time-weighted average change from baseline at week 24 (DAVG24) for CD4 count (+13 cells/mm3 for tenofovir disoproxil 245 mg (as fumarate) versus -11 cells/mm3 for placebo, p-value = 0.0008).
 The antiviral response to tenofovir disoproxil fumarate was durable through 48 weeks (DAVG48 was -0.57 log10 copies/ml, proportion of patients with HIV-1 RNA below 400 or 50 copies/ml was 41% and 18% respectively).
 Eight (2%) tenofovir disoproxil 245 mg (as fumarate) treated patients developed the K65R mutation within the first 48 weeks.
-
-Study GS-99-903 is an ongoing 144-week, double-blind, active controlled study evaluating the efficacy and safety of tenofovir disoproxil 245 mg (as fumarate) versus stavudine when used in combination with lamivudine and efavirenz in HIV -1 infected patients naïve to antiretroviral therapy.
+The 144-week, double-blind, active controlled phase of study GS-99-903 evaluated the efficacy and safety of tenofovir disoproxil 245 mg (as fumarate) versus stavudine when used in combination with lamivudine and efavirenz in HIV-1 infected patients naïve to antiretroviral therapy.
 The mean baseline CD4 cell count was 279 cells/mm3, the mean baseline plasma HIV-1 RNA was 4.91 log10 copies/ml, 19% of patients had symptomatic HIV-1 infection and 18% had AIDS.
 Patients were stratified by baseline HIV-1 RNA and CD4 count.
-Forty-three percent of patients had baseline viral loads
-> 100,000 copies/ml and 39% had CD4 cell counts < 200 cells/ml.
+Forty-three percent of patients had baseline viral loads > 100,000 copies/ml and 39% had CD4 cell counts < 200 cells/ml.
 
-By intent to treat analysis, the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml after 48 weeks treatment was 80% and 76% respectively in the tenofovir disoproxil 245 mg (as fumarate) arm, compared to 84% and 80 % in the stavudine arm.
-The average change from baseline for HIV-1 RNA and CD4 count after 48 weeks of treatment was similar in both treatment groups (-3.09 and -3.09 log10 copies/ml; +169 and 167 cells/mm3 in the tenofovir disoproxil 245 mg (as fumarate) and stavudine groups, respectively).
+By intent to treat analysis (Missing data and switch in antiretroviral therapy (ART) considered as failure), the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml at 48 weeks of treatment was 80% and 76% respectively in the tenofovir disoproxil 245 mg (as fumarate) arm, compared to 84% and 80 % in the stavudine arm.
+At 144 weeks, the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml was 71% and 68% respectively in the tenofovir disoproxil 245 mg (as fumarate) arm, compared to 64% and 63% in the stavudine arm.
+
+The average change from baseline for HIV-1 RNA and CD4 count at 48 weeks of treatment was similar in both treatment groups (-3.09 and -3.09 log10 copies/ml; +169 and 167 cells/mm3 in the tenofovir disoproxil 245 mg (as fumarate) and stavudine groups, respectively).
+At 144 weeks of treatment, the average change from baseline remained similar in both treatment groups (-3.07 and -3.03 log10 copies/ml; +263 and +283 cells/mm3 in the tenofovir disoproxil 245 mg (as fumarate) and stavudine groups, respectively).
 A consistent response to treatment with tenofovir disoproxil 245 mg (as fumarate) was seen regardless of baseline HIV-1 RNA and CD4 count.
 
-The K65R mutation occurred in a slightly higher percentage of patients in the tenofovir disoproxil fumarate group than the active control group (2.3% versus 0.7%).
+The K65R mutation occurred in a slightly higher percentage of patients in the tenofovir disoproxil fumarate group than the active control group (2.7% versus 0.7%).
 Efavirenz or lamivudine resistance either preceded or was coincident with the development of K65R in all cases.
-Among the patients who failed with K65R in the tenofovir disoproxil fumarate group, 5/7 patients subsequently gained full virological control (< 50 copies/ml) upon switching to new regimens that included a protease inhibitor in combination with nucleoside reverse transcriptase inhibitors.
+Eight patients had HIV that expressed K65R in the tenofovir disoproxil 245 mg (as fumarate) arm, 7 of these occurred during the first 48 weeks of treatment and the last one at week 96.
+No further K65R development was observed up to week 144.
 From both the genotypic and phenotypic analyses there was no evidence for other pathways of resistance to tenofovir.
