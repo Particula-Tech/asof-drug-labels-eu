@@ -1,8 +1,21 @@
 # 4.4 Special warnings and special precautions for use
 
-There are no data on the pharmacokinetics and safety of ritonavir in patients with significant hepatic or renal dysfunction.
-Ritonavir is principally metabolised and eliminated by the liver.
-Therefore, caution should be exercised when administering this medicine to patients with impaired hepatic function (see section 4.3 Contraindications).
+Patients with pre-existing conditions:
+Renal disease:There are no data on the pharmacokinetics and safety of ritonavir in patients with significant renal dysfunction.
+
+Liver disease: the safety and efficacy of Norvir has not been established in patients with significant underlying liver disorders.
+Norvir is contraindicated in patients with severe hepatic impairment (see section 4.3 ).
+Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse events.
+In case of concomitant antiviral therapy for hepatitis B or C, please refer to the relevant product information for these medicinal products.
+
+Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
+If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
+
+Haemophilia: there have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in haemophiliac patients type A and B treated with protease inhibitors.
+In some patients additional factor VIII was given.
+In more than a half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.
+A causal relationship has been evoked, although the mechanism of action has not been elucidated.
+Haemophiliac patients should therefore be made aware of the possibility of increased bleeding.
 
 The safety and efficacy of ritonavir in children below the age of 2 years have not been established.
 
@@ -19,18 +32,9 @@ Doses greater than 400 mg twice daily of either medicine were associated with an
 
 Norvir oral solution contains alcohol (43% v/v), therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.
 
-There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in haemophiliac patients type A and B treated with protease inhibitors.
-In some patients additional factor VIII was given.
-In more than a half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.
-A causal relationship has been evoked, although the mechanism of action has not been elucidated.
-Haemophiliac patients should therefore be made aware of the possibility of increased bleeding.
-
-There may be an increased risk for transaminase elevations in patients with underlying hepatitis B or C, therefore, caution should be exercised when administering ritonavir alone or in combination with other antiretrovirals to patients with pre-existing liver disease, liver enzyme abnormalities, or hepatitis.
-
 New onset diabetes mellitus, hyperglycaemia or exacerbation of existing diabetes mellitus has been reported in patients receiving protease inhibitors.
 In some of these the hyperglycaemia was severe and in some cases also associated with ketoacidosis.
 Many patients had confounding medical conditions, some of which required therapy with agents that have been associated with the development of diabetes mellitus or hyperglycaemia.
-
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients.
 The long-term consequences of these events are currently unknown.
 Knowledge about the mechanism is incomplete.
@@ -47,6 +51,10 @@ Caution must also be exercised and reduced doses should be considered if Norvir 
 If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fluvastatin is recommended (see section 4.5 Interaction with other medicinal products and other forms of interaction).
 
 [Norvir 100 mg soft capsules]
+
+Renal disease: there are no data on the pharmacokinetics and safety of ritonavir in patients with significant renal dysfunction.
+
+Norvir is contraindicated in patients with severe hepatic impairment (see section 4.3).
 
 Norvir soft capsules contain alcohol (12% w/w), therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.
 

@@ -36,15 +36,17 @@ Paediatric Dosage Guidelines
 | 1.50 | 4.7 ml (375 mg) | 5.6 ml (450 mg) | 6.6 ml (525 mg) |
 
 * Body surface area can be calculated with the following equation
-BSA (m²) = �(Height (cm) X Weight (kg) / 3600)
+BSA (m²) = √(Height (cm) X Weight (kg) / 3600)
 
 Doses for intermediate body surface areas not included in the above table can be calculated using the following equations:
 To calculate the volume to be administered (in ml) the body surface area should be multiplied by a factor of: 3.1 for a dose of 250 mg/m²; 3.8 for one of 300 mg/m²; and by 4.4 for 350 mg/m².
 
-Renal and hepatic impairment: currently, there are no data specific to these patient populations and therefore specific dosage recommendations cannot be made.
-Ritonavir is principally metabolised and eliminated by the liver.
-Norvir should not be given to patients with severe hepatic insufficiency (see section 4.3 Contraindications).
+Renal impairment: currently, there are no data specific to this patient population and therefore specific dosage recommendations cannot be made.
 Because ritonavir is highly protein bound it is unlikely that it will be significantly removed by haemodialysis or peritoneal dialysis.
+
+Hepatic impairment: ritonavir is principally metabolised and eliminated by the liver.
+Pharmacokinetic data indicate that no dose adjustment seems necessary in patients with mild to moderate hepatic impairment (see section 5.2).
+Norvir should not be given to patients with severe hepatic impairment (see section 4.3).
 
 Ritonavir should be administered by physicians who are experienced in the treatment of HIV infection.
 

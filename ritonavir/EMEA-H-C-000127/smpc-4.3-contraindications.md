@@ -1,7 +1,7 @@
 # 4.3 Contraindications
 
 Patients with known hypersensitivity to ritonavir or any of its excipients.
-Patients with severe hepatic insufficiency.
+Patients with severe hepatic impairment.
 
 In vitro and in vivo studies have demonstrated that ritonavir is a potent inhibitor of CYP3A- and CYP2D6- mediated biotransformations.
 Based primarily on literature review, ritonavir is expected to produce large increases in the plasma concentrations of the following medicines: amiodarone, astemizole, bepridil, bupropion, cisapride, clozapine, dihydroergotamine, encainide, ergotamine, flecainide, meperidine, pimozide, piroxicam, propafenone, propoxyphene, quinidine, and terfenadine.

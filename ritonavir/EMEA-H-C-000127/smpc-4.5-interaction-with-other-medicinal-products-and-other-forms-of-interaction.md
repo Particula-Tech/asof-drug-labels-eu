@@ -20,12 +20,12 @@ The inducing effect may persist for at least 2 weeks after cessation of treatmen
 
 There are no pharmacokinetic data available on the concomitant use of morphine with ritonavir.
 On the basis of the metabolism of morphine (glucuronidation) lower levels of morphine may be expected.
-
 Norvir INCREASES the AUCs (area under the curve) of the following medicines when administered concomitantly:
 
 Clarithromycin: because of the large therapeutic window for clarithromycin, no dosage reduction should be necessary in patients with normal renal function.
 For patients with renal impairment the following dosage adjustment should be considered: for creatinine clearance (CLCR) of 30 to 60 ml/min the clarithromycin dose should be reduced by 50%, for CLCR < 30 ml/min the clarithromycin dose should be reduced by 75%.
 Doses of clarithromycin > 1 g/day should not be co-administered with Norvir.
+
 Desipramine: dosage reduction of desipramine should be considered in patients taking the combination.
 
 Rifabutin and its active metabolite 25-O-desacetyl rifabutin: concomitant use with ritonavir has resulted in a multifold increase in the AUC of rifabutin and its active metabolite 25-O-desacetyl rifabutin with clinical consequences.
@@ -56,7 +56,6 @@ Patients using this dose regimen have experienced a higher frequency of adverse 
 
 Nevirapine: co-administration of ritonavir at therapeutic dose levels does not lead to clinically relevant changes in ritonavir or nevirapine plasma levels.
 For further information physicians should refer to the Nevirapine Summary of Product Characteristics.
-
 Sildenafil: co-administration of sildenafil 100 mg single dose with ritonavir 500 mg twice daily at steady state resulted in a 300% (4-fold) increase in sildenafil cmax and a 1000% (11-fold) increase in sildenafil plasma AUC.
 At 24 hours after sildenafil dosing, plasma sildenafil concentrations were approximately 200 ng/ml, compared to 5 ng/ml when sildenafil was administered alone.
 Sildenafil had no effect on the pharmacokinetics of ritonavir.
@@ -102,6 +101,7 @@ Theophylline: an increased dosage of theophylline may be required, as concomitan
 
 Fixed combination of sulfamethoxazole/trimethoprim: the concomitant administration of Norvir and sulfamethoxazole/trimethoprim resulted in a 20% reduction of the sulfamethoxazole AUC and a 20% increase of the trimethoprim AUC.
 Dose alteration of sulfamethoxazole/trimethoprim during concomitant Norvir therapy should not be necessary.
+
 Methadone: concomitant administration of ritonavir and methadone resulted in a reduction of the mean methadone AUC by 36%.
 An increased methadone dose may be necessary when concomitantly administered with ritonavir, depending on the patient’s response.
 

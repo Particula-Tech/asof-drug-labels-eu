@@ -7,10 +7,13 @@ Classification of expected frequencies:
 Very common (> 1/10)
 
 Common (> 1/100, < 1/10)
+
 Uncommon (> 1/1,000, < 1/100)
+
 Rare (> 1/10,000, < 1/1,000)
 
 Nausea, diarrhoea, vomiting, asthenia, taste perversion, circumoral and peripheral paraesthesia were very common and are felt to be clearly related to ritonavir.
+
 Nervous system disorders: Dizziness, paraesthesia, hyperaesthesia, somnolence, insomnia and anxiety were commonly reported.
 
 Cardiovascular disorders: Vasodilation was commonly reported.
@@ -44,7 +47,6 @@ Combination antiretroviral therapy has been associated with metabolic abnormalit
 
 Hyperglycaemia has been reported in individuals with and without a known history of diabetes.
 Cause and effect relationship has not been established.
-
 Hypertriglyceridaemia, hypercholesterolaemia and hyperuricaemia were clearly related to ritonavir therapy.
 
 Pancreatitis has been observed in patients receiving Norvir therapy, including those who developed hypertriglyceridemia.
@@ -55,6 +57,7 @@ Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdomi
 Patients who exhibit these signs or symptoms should be evaluated and Norvir therapy should be discontinued if a diagnosis of pancreatitis is made.
 
 Clinical chemistry:
+
 High gamma-glutamyl transpeptidase (GGT) , high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); high aspartate transaminase (SGOT), high amylase, high uric acid, low potassium and decrease of free and total thyroxin (T4) values were commonly reported.
 Uncommon events were high glucose, low total calcium, high magnesium, high total bilirubin, high alkaline phosphatase.
 
