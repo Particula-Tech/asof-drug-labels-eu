@@ -13,6 +13,7 @@ One randomised, open-label study enrolling 477 patients compared the tablet (238
 Additionally, two open-label studies enrolled 771 patients who initially received Rapamune (246 patients received oral solution and 525 received tablets) and cyclosporine.
 These patients were randomised to continue cyclosporine therapy or to have cyclosporine withdrawn after 2-3 months post-transplant.
 Overall, the safety profile of Rapamune tablets did not differ from that of the oral solution formulation in clinical trials.
+
 Adverse reactions are listed according to the following categories:
 
 Very common: �10 %
@@ -22,9 +23,9 @@ Uncommon: �0.1% and <1%
 Body as a whole:
 
 Very common: Lymphocele, peripheral oedema
-Common: Abnormal healing; oedema; fungal, viral, and bacterial infections
+Common: Abnormal healing; oedema; fever; fungal, viral, and bacterial
 
-(such as Mycobacterial infections, Epstein-Barr virus, CMV, and Herpes zoster); Herpes simplex; sepsis
+infections (such as Mycobacterial infections, Epstein-Barr virus, CMV, and Herpes zoster); Herpes simplex; sepsis
 
 Cardiac disorders:
 
@@ -79,5 +80,8 @@ Immunosuppression increases the susceptibility to the development of lymphoma an
 Cases of interstitial lung disease (including pneumonitis and infrequently bronchiolitis obliterans organising pneumonia (BOOP) and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
 In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
 The risk may be increased as the trough sirolimus level increases.
+
 Hepatotoxicity has been reported, the risk may increase as the trough sirolimus level increases.
 Rare reports of fatal hepatic necrosis have been reported with elevated trough sirolimus levels.
+
+Abnormal healing following transplant surgery has been reported, including fascial dehiscence and anastomotic disruption (e.g. wound, vascular, airway, ureteral, biliary).

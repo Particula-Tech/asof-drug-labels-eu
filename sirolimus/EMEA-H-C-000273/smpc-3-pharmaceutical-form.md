@@ -2,4 +2,4 @@
 
 Coated tablet.
 
-White, triangular-shaped coated tablet marked “RAPAMUNE 1 mg” on one side.
+Yellow to beige, triangular-shaped coated tablet marked “RAPAMUNE 2 mg” on one side.

@@ -3,10 +3,10 @@
 Treatment should be initiated by and remain under the guidance of an appropriately qualified specialist in transplantation.
 
 Adults
-Initial Therapy (2 to 3 months posttransplantation): The usual dosage regimen for Rapamune is a 6 mg oral loading dose, administered as soon as possible after transplantation, followed by 2 mg once daily.
+Initial Therapy (2 to 3 months post-transplantation): The usual dosage regimen for Rapamune is a 6 mg oral loading dose, administered as soon as possible after transplantation, followed by 2 mg once daily.
 The Rapamune dose should then be individualised, to obtain whole blood trough levels of 4 to 12 ng/ml (chromatographic assay; see Therapeutic drug monitoring).
 Rapamune therapy should be optimised with a tapering regimen of steroids and cyclosporine microemulsion.
-Suggested cyclosporine trough concentration ranges for the first 2-3 months after transplantation are 150 - 400 ng/ml (monoclonal assay or equivalent technique).
+Suggested cyclosporine trough concentration ranges for the first 2-3 months after transplantation are 150 – 400 ng/ml (monoclonal assay or equivalent technique).
 
 Maintenance Therapy: Cyclosporine should be progressively discontinued over 4 to 8 weeks and the Rapamune dose should be adjusted to obtain whole blood trough levels of 12 to 20 ng/ml (chromatographic assay; see Therapeutic drug monitoring).
 Rapamune should be given with corticosteroids.

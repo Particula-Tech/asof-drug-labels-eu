@@ -9,6 +9,7 @@ The systemic availability of sirolimus in combination with simultaneously admini
 Upon repeated administration, the average blood concentration of sirolimus is increased approximately 3-fold.
 The terminal half-life in stable renal transplant patients after multiple oral doses was 62 � 16 h. The effective half-life, however, is shorter and mean steady-state concentrations were achieved after 5 to 7 days.
 The blood to plasma ratio (B/P) of 36 indicates that sirolimus is extensively partitioned into formed blood elements.
+
 Sirolimus is a substrate for both cytochrome P450 IIIA4 (CYP3A4) and P-glycoprotein.
 Sirolimus is extensively metabolised by O-demethylation and/or hydroxylation.
 Seven major metabolites, including hydroxyl, demethyl, and hydroxydemethyl, are identifiable in whole blood.
@@ -37,11 +38,13 @@ To minimise variability, Rapamune tablets should be taken consistently with or w
 Grapefruit juice affects CYP3A4-mediated metabolism and must, therefore, be avoided.
 
 Sirolimus concentrations, following the administration of Rapamune tablets (5 mg) to healthy subjects as single doses are dose proportional between 5 and 40 mg.
-Initial Therapy (2 to 3 months posttransplant): In most patients receiving Rapamune tablets with a loading dose of 6 mg followed by an initial maintenance dose of 2 mg, whole blood sirolimus trough concentrations rapidly achieved steady-state concentrations within the recommended target range (4 to 12 ng/mL, chromatographic assay).
-Sirolimus pharmacokinetic parameters following daily doses of 2 mg Rapamune tablets administered in combination with cyclosporine microemulsion (4 hours prior to Rapamune tablets) and corticosteroids in 13 renal transplant patients, based on data collected at months 1 and 3 after transplantation, were: Cmin,ss, 7.39 � 2.18 ng/mL; Cmax,ss, 15.0 � 4.9 ng/ml; tmax,ss, 3.46 � 2.40 h; AUC�,ss, 230 � 67 ng�h/ml; CL/F/WT, 139 � 63 ml/h/kg (parameters calculated from LC-MS/MS assay results).
+
+Initial Therapy (2 to 3 months post-transplant): In most patients receiving Rapamune tablets with a loading dose of 6 mg followed by an initial maintenance dose of 2 mg, whole blood sirolimus trough concentrations rapidly achieved steady-state concentrations within the recommended target range (4 to 12 ng/Ml, chromatographic assay).
+Sirolimus pharmacokinetic parameters following daily doses of 2 mg Rapamune tablets administered in combination with cyclosporine microemulsion (4 hours prior to Rapamune tablets) and corticosteroids in ¹ renal transplant patients, based on data collected at months 1 and 3 after transplantation, were: Cmin,ss, 7.39 � 2.18 nG/mL; Cmax,ss, 15.0 � 4.9 ng/ml; tmax,ss, 3.46 � 2.40 h; AUC�,ss, 230 � 67 ng�h/ml; CL/F/WT, 139 � 63 ml/h/kg (parameters calculated from LC-MS/MS assay results).
 The corresponding results for the oral solution in the same clinical trial were Cmin,ss 5.40 � 2.50 ng/ml, Cmax,ss 14.4 � 5.3 ng/ml, tmax,ss 2.12 � 0.84 h, AUC�,ss 194 � 78 ng�h/ml, CL/F/W 173 � 50 ml/h/kg.
 Whole blood trough sirolimus concentrations, as measured by LC/MS/MS, were significantly correlated (r2 = 0.85) with AUC�,ss.
-Based on monitoring in all patients during the period of concomitant therapy with cyclosporine, mean (10th, 90th percentiles) troughs (by immunoassay) and daily doses were 10.8 � 3.8 ng/mL (6.3 to 15.8 ng/mL) and 2.1 � 0.70 mg (1.5 to 2.7 mg), respectively.
 
-Maintenance Therapy: From month 3 to month 12, following discontinuation of cyclosporine, mean (10th, 90th percentiles) troughs (by immunoassay) and daily doses were 23.3 � 5.1 ng/mL (16.9 to 29.6 ng/mL) and 8.2 � 4.2 mg (3.6 to 13.6 mg), respectively.
+Based on monitoring in all patients during the period of concomitant therapy with cyclosporine, mean (10th, 90th percentiles) troughs (by immunoassay) and daily doses were 10.8 � 3.8 nG/mL (6.3 to 15.8 nG/mL) and 2.1 � 0.70 mg (1.5 to 2.7 mg), respectively.
+
+Maintenance Therapy: From month 3 to month 12, following discontinuation of cyclosporine, mean (10th, 90th percentiles) troughs (by immunoassay) and daily doses were 23.3 � 5.1 nG/mL (16.9 to 29.6 nG/mL) and 8.2 � 4.2 mg (3.6 to 13.6 mg), respectively.
 Therefore, the sirolimus dose was approximately 4-fold higher to account for both the absence of the pharmacokinetic interaction with cyclosporine (2-fold increase) and the augmented immunosuppressive requirement in the absence of cyclosporine (2-fold increase).
