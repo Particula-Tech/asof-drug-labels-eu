@@ -8,16 +8,3 @@ Eur.), magnesium stearate (Ph.
 Eur.), methylhydroxypropylcellulose (Ph.
 Eur.), microcrystalline cellulose (Ph.
 Eur.).
-
-[ZYPREXA (SmPC 2)]
-
-(all sentences already above)
-
-[ZYPREXA (SmPC 3)]
-
-(all sentences already above)
-
-[ZYPREXA (SmPC 4)]
-
-Eur.), edible blue ink (contains indigo carmine colour E132), hydroxypropyl cellulose
-(Ph.

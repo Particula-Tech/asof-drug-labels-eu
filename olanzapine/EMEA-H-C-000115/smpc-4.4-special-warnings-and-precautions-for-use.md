@@ -12,13 +12,14 @@ In the event of elevated ALT and/or AST during treatment, follow-up should be or
 As with other neuroleptic drugs, caution should be exercised in patients with low leukocyte and/or neutrophil counts for any reason, in patients with a history of drug-induced bone marrow depression/toxicity, in patients with bone marrow depression caused by concomitant illness, radiation therapy or chemotherapy and in patients with hypereosinophilic conditions or with myeloproliferative disease.
 Thirty two patients with clozapine-related neutropenia or agranulocytosis histories received olanzapine without decreases in baseline neutrophil counts.
 
-Neuroleptic Malignant Syndrome (NMS): In clinical trials there were no reported cases of NMS in patients receiving olanzapine.
-NMS, a potentially fatal symptom complex, has been reported in association with other antipsychotic drugs.
+Neuroleptic Malignant Syndrome (NMS): NMS is a potentially life-threatening condition associated with antipsychotic medication.
+Rare cases reported as NMS have also been received in association with olanzapine.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
 Additional signs may include elevated creatinine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
-In such an event, or with unexplained high fever without additional clinical manifestations of NMS, all antipsychotic drugs, including olanzapine must be discontinued.
+If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotic drugs, including olanzapine must be discontinued.
 
 Olanzapine should be used cautiously in patients who have a history of seizures or have conditions associated with seizures.
+
 Tardive Dyskinesia: In comparator studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.
 However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or drug discontinuation should be considered.
 These symptoms can temporally deteriorate or even arise after discontinuation of treatment.
@@ -32,21 +33,3 @@ As with other antipsychotics, it is recommended that blood pressure is measured 
 In clinical trials, olanzapine was not associated with a persistent increase in absolute QT intervals.
 Only 8 of 1685 subjects had increased QTc interval on multiple occasions.
 However, as with other antipsychotics, caution should be exercised when olanzapine is prescribed with drugs known to increase QTc interval, especially in the elderly.
-
-[ZYPREXA (SmPC 2)]
-
-However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive
-
-dyskinesia appear in a patient on olanzapine, a dose reduction or drug discontinuation should be considered.
-
-[ZYPREXA (SmPC 3)]
-
-However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or drug
-
-discontinuation should be considered.
-
-[ZYPREXA (SmPC 4)]
-
-However the risk of tardive dyskinesia increases
-
-with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or drug discontinuation should be considered.

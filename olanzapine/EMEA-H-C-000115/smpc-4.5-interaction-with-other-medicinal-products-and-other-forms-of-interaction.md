@@ -7,7 +7,7 @@ Smoking and carbamazepine therapy induce P450-1A2 activity.
 The pharmacokinetics of theophylline, which is metabolized by P450-1A2, is not altered by olanzapine.
 The effect of potent inhibitors of P450-1A2 activity on olanzapine pharmacokinetics has not been studied.
 
-Potential for olanzapine to Affect Other Drugs: In clinical trials with single doses of olanzapine, no inhibition of the metabolism of imipramine/desipramine (P450-2D6 or P450-3A1A2), warfarin (P450-2C9), theophylline (P450-1A2), or diazepam (P450-3A4 and P450-2C19) was evident.
+Potential for olanzapine to Affect Other Drugs: In clinical trials with single doses of olanzapine, no inhibition of the metabolism of imipramine/desipramine (P450-2D6 or P450-3A/1A2), warfarin (P450-2C9), theophylline (P450-1A2), or diazepam (P450-3A4 and P450-2C19) was evident.
 Olanzapine showed no interaction when co-administered with lithium or biperiden.
 The in vitro ability of olanzapine to inhibit metabolism by five principle cytochromes has been examined.
 These studies found inhibitory constants for 3A4 (491 µM), 2C9 (751 µM), 1A2 (36 µM), 2C19 (920 µM), 2D6 (89 µM), that compared to olanzapine plasma concentrations of approximately 0.2 µM, would mean maximum inhibition of these P450 systems by olanzapine would be less than 0.7%.

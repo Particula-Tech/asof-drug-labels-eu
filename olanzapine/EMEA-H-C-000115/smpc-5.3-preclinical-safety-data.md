@@ -20,6 +20,7 @@ Reversible neutropenia, thrombocytopenia, or anemia developed in a few dogs trea
 In cytopenic dogs, there were no adverse effects on progenitor and proliferating cells in the bone marrow.
 
 Reproductive toxicity
+
 Olanzapine had no teratogenic effects.
 Sedation affected mating performance of male rats.
 Estrous cycles were affected at doses of 1.1 mg/kg (3 times the maximum human dose) and reproduction parameters were influenced in rats given 3 mg/kg (9 times the maximum human dose).

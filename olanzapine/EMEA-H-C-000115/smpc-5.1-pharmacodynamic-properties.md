@@ -4,7 +4,7 @@ Pharmaco-therapeutic group: Olanzapine is an antipsychotic, ATC code N05A H03 (D
 
 Olanzapine is an antipsychotic agent that demonstrates a broad pharmacologic profile across a number of receptor systems.
 
-In preclinical studies, olanzapine exhibited a range of receptor affinities (Ki; <100 nmol) for serotonin 5 HT2A/2C, 5 HT3, 5 HT6; dopamine D1, D2, D3, D4, D5; cholinergic muscarinic receptors m1-m5; α1 adrenergic; and histamine H1 receptors.
+In preclinical studies, olanzapine exhibited a range of receptor affinities (Ki; <100 nM) for serotonin 5 HT2A/2C, 5 HT3, 5 HT6; dopamine D1, D2, D3, D4, D5; cholinergic muscarinic receptors m1-m5; α1 adrenergic; and histamine H1 receptors.
 Animal behavioral studies with olanzapine indicated 5HT, dopamine, and cholinergic antagonism, consistent with the receptor-binding profile.
 Olanzapine demonstrated a greater in-vitro affinity for serotonin 5HT2 than dopamine D2 receptors and greater 5 HT2 than D2 activity in vivo, models.
 Electrophysiological studies demonstrated that olanzapine selectively reduced the firing of mesolimbic (A10) dopaminergic neurons, while having little effect on the striatal (A9) pathways involved in motor function.

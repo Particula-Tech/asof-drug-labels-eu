@@ -15,21 +15,7 @@ The possibility of multiple drug involvement should be considered.
 In case of acute overdosage, establish and maintain an airway and ensure adequate oxygenation and ventilation.
 The use of activated charcoal for overdose should be considered because the concomitant administration of activated charcoal was shown to reduce the oral bioavailability of olanzapine by 50 to 60%.
 Gastric lavage (after intubation, if patient is unconscious) may also be considered.
-
+Olanzapine is not substantially removed by haemodialysis.
 Hypotension and circulatory collapse should be treated with appropriate measures such as intravenous fluids and/or sympathomimetic agents such as norepinephrine (do not use epinephrine, dopamine, or other sympathomimetic agents with beta-agonist activity since beta stimulation may worsen hypotension in the setting of alpha blockade induced by olanzapine).
 Cardiovascular monitoring should be considered to detect possible arrhythmias.
 Close medical supervision and monitoring should continue until the patient recovers.
-
-[ZYPREXA (SmPC 2)]
-
-(all sentences already above)
-
-[ZYPREXA (SmPC 3)]
-
-The use of activated charcoal for
-
-overdose should be considered because the concomitant administration of activated charcoal was shown to reduce the oral bioavailability of olanzapine by 50 to 60%.
-
-[ZYPREXA (SmPC 4)]
-
-(all sentences already above)
