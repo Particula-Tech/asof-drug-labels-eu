@@ -5,7 +5,6 @@ Hypoglycaemia
 Hypoglycaemia, in general the most frequent undesirable effect of insulin therapy, may occur if the insulin dose is too high in relation to the insulin requirement.
 Severe hypoglycaemic attacks, especially if recurrent, may lead to neurological damage.
 Prolonged or severe hypoglycaemic episodes may be life-threatening.
-
 In many patients, the signs and symptoms of neuroglycopenia are preceded by signs of adrenergic counter-regulation.
 Generally, the greater and more rapid the decline in blood glucose, the more marked is the phenomenon of counter-regulation and its symptoms.
 

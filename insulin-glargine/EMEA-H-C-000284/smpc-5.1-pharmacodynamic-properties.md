@@ -21,6 +21,7 @@ As with all insulins, the time course of action of insulin glargine may be affec
 In euglycaemic clamp studies in healthy subjects or in patients with type 1 diabetes, the onset of action of subcutaneous insulin glargine was slower than with human NPH insulin, its effect profile was smooth and peakless, and the duration of its effect was prolonged.
 
 The following graph shows the results from a study in patients:
+
 Activity Profile in Patients with Type 1 Diabetes
 
 6
@@ -54,6 +55,10 @@ In a clinical study, symptoms of hypoglycaemia or counter-regulatory hormone res
 Figure 1.
 
 *determined as amount of glucose infused to maintain constant plasma glucose levels (hourly mean values)
+
+[Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]
+
+(all sentences already above)
 
 [Lantus 100 IU/ml OptiSet solution for injection]
 

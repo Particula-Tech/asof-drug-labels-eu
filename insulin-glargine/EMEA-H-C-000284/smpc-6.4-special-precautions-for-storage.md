@@ -11,8 +11,13 @@ Once in use, do not store above 25°C and keep in the outer carton.
 
 Store at 2oC - 8oC (in a refrigerator).
 
+In use conditions:
 Once in use, do not store above 25oC.
 The pen containing a cartridge must not be stored in the refrigerator.
+
+[Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]
+
+(all sentences already above)
 
 [Lantus 100 IU/ml OptiSet solution for injection]
 

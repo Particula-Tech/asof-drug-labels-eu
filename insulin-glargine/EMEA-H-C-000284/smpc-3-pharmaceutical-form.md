@@ -8,6 +8,10 @@ Lantus is a clear colourless solution.
 
 (all sentences already above)
 
+[Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]
+
+Solution for injection in a cartridge for OptiClik.
+
 [Lantus 100 IU/ml OptiSet solution for injection]
 
 Solution for injection in a pre-filled disposable pen.

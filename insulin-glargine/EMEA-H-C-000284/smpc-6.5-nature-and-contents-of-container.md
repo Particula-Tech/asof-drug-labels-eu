@@ -15,6 +15,11 @@ Each cartridge contains 3 ml solution (300 IU insulin glargine).
 Packs of 1, 3, 4, 5, 6, 8, 9 and 10 cartridges are available.
 Not all pack sizes may be marketed.
 
+[Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]
+
+The glass cartridge is irreversibly integrated in a transparent container and assembled to a plastic mechanism with a threaded rod at one extremity, and a removable coloured overseal at the other extremity.
+Packs of 1, 3, 4, 5, 6, 8, 9 and 10 cartridges for OptiClik are available.
+
 [Lantus 100 IU/ml OptiSet solution for injection]
 
 The cartridges are sealed in a disposable pen injector.

@@ -9,10 +9,10 @@ Due to limited experience the efficacy and safety of Lantus could not be assesse
 
 In patients with renal impairment, insulin requirements may be diminished due to reduced insulin metabolism.
 In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
+
 In patients with severe hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
 
 In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic episodes, the patient's adherence to the prescribed treatment regimen, injection sites and proper injection technique and all other relevant factors must be reviewed before dose adjustment is considered.
-
 Hypoglycaemia
 
 The time of occurrence of hypoglycaemia depends on the action profile of the insulins used and may, therefore, change when the treatment regimen is changed.
@@ -67,6 +67,10 @@ Due to limited experience the efficacy and safety of Lantus could not be assesse
 - certain uncompensated endocrine disorders, (e.g. in hypothyroidism and in anterior pituitary or
 
 adrenocortical insufficiency),
+
+[Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]
+
+(all sentences already above)
 
 [Lantus 100 IU/ml OptiSet solution for injection]
 

@@ -6,6 +6,10 @@
 
 (all sentences already above)
 
+[Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]
+
+(all sentences already above)
+
 [Lantus 100 IU/ml OptiSet solution for injection]
 
 06.02.2001

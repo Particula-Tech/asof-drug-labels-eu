@@ -11,6 +11,10 @@ For excipients, see section 6.1.
 
 Each cartridge contains 3 ml, equivalent to 300 IU.
 
+[Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]
+
+(all sentences already above)
+
 [Lantus 100 IU/ml OptiSet solution for injection]
 
 Each pen contains 3 ml, equivalent to 300 IU.

@@ -8,6 +8,10 @@ EU/1/00/134/012
 EU/1/00/134/005-007
 EU/1/00/134/013-017
 
+[Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]
+
+(all sentences already above)
+
 [Lantus 100 IU/ml OptiSet solution for injection]
 
 EU/1/00/134/008-011
