@@ -1,0 +1,48 @@
+# 4.4 Special warnings and special precautions for use
+
+In accordance with current clinical practice, discontinuation of Zonegran in patients with epilepsy must be accomplished by gradual dose reduction, to reduce the possibility of seizures on withdrawal.
+There are insufficient data for the withdrawal of concomitant antiepileptic medications once seizure control with Zonegran has been achieved in the add-on situation, in order to reach monotherapy with Zonegran.
+Therefore withdrawal of concomitant anti-epileptic agents must be undertaken with caution.
+
+Zonegran is a benzisoxazole derivative, which contains a sulphonamide group.
+Serious immune based adverse reactions that have been associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances including aplastic anaemia.
+
+Serious rashes have occurred in association with Zonegran therapy, including isolated cases of Stevens-Johnson syndrome.
+
+Consideration must be given to discontinuing Zonegran in patients who develop an otherwise unexplained rash.
+All patients who develop a rash while taking Zonegran must be closely supervised, with additional levels of caution applied to those patients receiving concomitant antiepileptic agents that may independently induce skin rashes.
+
+Isolated cases of agranulocytosis, thrombocytopenia, leukopenia, aplastic anaemia, pancytopenia and leucocytosis have been reported.
+There is inadequate information to assess the relationship, if any, between dose and duration of treatment and these events.
+
+Kidney stones have occurred in patients treated with Zonegran.
+Zonegran should be used with caution in patients who have risk factors for nephrolithiasis, including prior stone formation, a family history of nephrolithiasis and hypercalcuria.
+Such patients may be at increased risk for renal stone formation and associated signs and symptoms such as renal colic, renal pain or flank pain.
+In addition, patients taking other medications associated with nephrolithiasis may be at increased risk.
+Increasing fluid intake and urine output may help reduce the risk of stone formation, particularly in those with predisposing risk factors.
+
+Zonegran should be used with caution in patients being treated concomitantly with carbonic anhydrase inhibitors such as topiramate, as there are insufficient data to rule out a pharmacodynamic interaction (see Section 4.5).
+
+Cases of decreased sweating and elevated body temperature have been reported mainly in paediatric patients.
+Heat stroke requiring hospital treatment was diagnosed in some cases.
+Most reports occurred during periods of warm weather.
+Patients or their carers must be warned to take care to maintain hydration and avoid exposure to excessive temperatures.
+Caution should be used when Zonegran is prescribed with other medicinal products that predispose patients to heat related disorders; these include carbonic anhydrase inhibitors and medicinal products with anticholinergic activity.
+
+In patients taking Zonegran who develop the clinical signs and symptoms of pancreatitis, it is recommended that pancreatic lipase and amylase levels are monitored.
+If pancreatitis is evident, in the absence of another obvious cause, it is recommended that discontinuation of Zonegran be considered and appropriate treatment initiated.
+
+In patients taking Zonegran, in whom severe muscle pain and/or weakness develop either in the presence or absence of a fever, it is recommended that markers of muscle damage be assessed, including serum creatine phosphokinase and aldolase levels.
+If elevated, in the absence of another obvious cause such as trauma or grand mal seizures, it is recommended that Zonegran discontinuation be considered and appropriate treatment initiated.
+
+Women of child-bearing potential must use adequate contraception during treatment with Zonegran and for one month after discontinuation (see section 4.6).
+Physicians treating patients with Zonegran should try to ensure that appropriate contraception is used, and should use clinical judgement when assessing whether OCs, or the doses of the OC components, are adequate based on the individual patient’s clinical situation.
+
+Zonegran 100 mg hard capsules contain a yellow colour called sunset yellow FCF (E110), which may cause allergic reactions.
+
+There is limited data from clinical studies in patients with a body weight of less than 40 kg.
+Therefore these patients should be treated with caution.
+
+Zonegran may cause weight loss.
+A dietary supplement or increased food intake may be considered if the patient is losing weight or is underweight whilst on this medication.
+If substantial undesirable weight loss occurs, discontinuation of Zonegran should be considered.
