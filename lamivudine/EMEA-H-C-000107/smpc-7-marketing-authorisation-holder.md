@@ -4,4 +4,4 @@ Glaxo Group Ltd
 Greenford Road
 Greenford
 Middlesex UB6 0NN
-UK
+United Kingdom

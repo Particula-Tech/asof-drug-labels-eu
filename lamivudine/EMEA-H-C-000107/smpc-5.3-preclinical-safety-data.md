@@ -8,4 +8,4 @@ Lamivudine was not mutagenic in bacterial tests but, like many nucleoside analog
 Lamivudine was not genotoxic in vivo at doses that gave plasma concentrations around 40-50 times higher than the anticipated clinical plasma levels.
 As the in vitro mutagenic activity of lamivudine could not be confirmed in in vivo tests, it is concluded that lamivudine should not represent a genotoxic hazard to patients undergoing treatment.
 
-In long-term oral carcinogenicity studies in rats and mice, lamivudine did not show any carcinogenic potential relevant for humans.
+The results of long-term carcinogenicity studies in rats and mice, lamivudine did not show any carcinogenic potential relevant for humans.
