@@ -5,7 +5,7 @@ Pharmacotherapeutic group: nucleoside analogue, ATC Code: J05A F05.
 Lamivudine is a nucleoside analogue which has activity against human immunodeficiency virus (HIV) and hepatitis B virus (HBV).
 It is metabolised intracellularly to the active moiety, lamivudine 5’- triphosphate.
 Its main mode of action is as a chain terminator of viral reverse transcription.
-The triphosphate has selective inhibitory activity against HIV-1 and HIV-2 replication in vitro; it is also active against zidovudine-resistant clinical isolates of HIV.
+The triphosphate has selective inhibitory activity against HIV-1 and HIV-2 replication in vitro, it is also active against zidovudine-resistant clinical isolates of HIV.
 Lamivudine in combination with zidovudine exhibits synergistic anti-HIV activity against clinical isolates in cell culture.
 
 HIV-1 resistance to lamivudine involves the development of a M184V amino acid change close to the active site of the viral reverse transcriptase (RT).
@@ -30,16 +30,18 @@ Clinical end-point data indicate that lamivudine in combination with zidovudine,
 Evidence from clinical studies shows that lamivudine plus zidovudine delays the emergence of zidovudine resistant isolates in individuals with no prior antiretroviral therapy.
 
 Lamivudine has been widely used as a component of antiretroviral combination therapy with other antiretroviral agents of the same class (NRTIs) or different classes (Pis, non-nucleoside reverse transcriptase inhibitors).
-
 Multiple drug antiretroviral therapy containing lamivudine has been shown to be effective in antiretrovirally-naïve patients as well as in patients presenting with viruses containing the M184V mutations.
 
 The relationship between in vitro susceptibility of HIV to lamivudine and clinical response to lamivudine-containing therapy remains under investigation.
 
 Lamivudine at a dose of 100 mg once daily has also been shown to be effective for the treatment of adult patients with chronic HBV infection (for details of clinical studies, see the prescribing information for Zeffix).
 However, for the treatment of HIV infection only a 300 mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
+
 Lamivudine has not been specifically investigated in HIV patients co-infected with HBV.
 
 [Epivir 10 mg/ml oral solution]
+
+The triphosphate has selective inhibitory activity against HIV-1 and HIV-2 replication in vitro; it is also active against zidovudine-resistant clinical isolates of HIV.
 
 However, for the treatment of HIV infection, only a 300 mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
 

@@ -2,9 +2,11 @@
 
 Absorption: Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85 %.
 Following oral administration, the mean time (tmax) to maximal serum concentrations (Cmax) is about an hour.
-At therapeutic dose levels i.e. 4 mg/kg/day (as two 12-hourly doses), Cmax is approximately 1.5-1.9 µg/ml.
+Based on data derived from a study in healthy volunteers, at a therapeutic dose of 150mg twice daily, mean (CV) steady-state Cmax and Cmin of lamivudine in plasma are 1.2 µg/ml (24%) and 0.09 µg/ml (27%), respectively.
+The mean (CV) AUC over a dosing interval of 12 hours is 4.7 h.µg/ml (18%).
+At a therapeutic dose of 300mg once daily, the mean (CV) steady-state Cmax, Cmin and 24h AUC are 2.0 µg/ml (26%), 0.04 µg/ml (34%) and 8.9 h.µg/ml (21%), respectively.
 
-The 150 mg tablet is bioequivalent and dose proportional to the 300 mg tablet with respect to AUC�, Cmax, and tmax.
+The 150 mg tablet is bioequivalent and dose proportional to the 300 mg tablet with respect to AUC∞, Cmax, and tmax.
 
 Co-administration of lamivudine with food results in a delay of tmax and a lower C max (decreased by 47 %).
 However, the extent (based on the AUC) of lamivudine absorbed is not influenced.
@@ -24,24 +26,20 @@ The true extent of penetration or relationship with any clinical efficacy is unk
 
 Metabolism: The active moiety, intracellular lamivudine triphosphate, has a prolonged terminal half-life in the cell (16 to 19 hours) compared to the plasma lamivudine half-life (5 to 7 hours).
 In 60 healthy adult volunteers, Epivir 300 mg once daily has been demonstrated to be pharmacokinetically equivalent at steady-state to Epivir 150 mg twice daily with respect to intracellular triphosphate AUC24 and Cmax.
-
-Lamivudine is predominately cleared unchanged by renal excretion .
+Lamivudine is predominately cleared unchanged by renal excretion.
 The likelihood of metabolic interactions of lamivudine with other medicinal products is low due to the small extent of hepatic metabolism (5-10 %) and low plasma protein binding.
 
 Elimination: Studies in patients with renal impairment show lamivudine elimination is affected by renal dysfunction.
-A recommended dosage regimen for patients with creatinine clearance below 50 ml/min is shown in the dosage section (see 4.2.
-Posology and method of administration).
+A recommended dosage regimen for patients with creatinine clearance below 50 ml/min is shown in the dosage section (see section 4.2).
 
 An interaction with trimethoprim, a constituent of co-trimoxazole, causes a 40 % increase in lamivudine exposure at therapeutic doses.
-This does not require dose adjustment unless the patient also has renal impairment (see 4.5.
-Interaction with other medicinal products and other forms of interaction, and dosage adjustments in renal impairment in 4.2.
-Posology and method of administration).
+This does not require dose adjustment unless the patient also has renal impairment (see sections 4.5 and 4.2).
 Administration of co-trimoxazole with lamivudine in patients with renal impairment should be carefully assessed.
 
 Pharmacokinetics in children: In general, lamivudine pharmacokinetics in paediatric patients is similar to adults.
 However, absolute bioavailability (approximately 55-65 %) was reduced in paediatric patients below 12 years of age.
 In addition, systemic clearance values were greater in younger paediatric patients and decreased with age, approaching adult values around 12 years of age.
-Due to these differences, the recommended dose for children from three months to 12 years is 8 mg/kg/day, which will achieve similar adult and paediatric exposure (average AUC approximately 5000 ng.h/ml).
+Due to these differences, the recommended dose for children from three months to 12 years is 8 mg/kg/day, which will achieve similar adult and paediatric exposure (average AUC approximately 5,000 ng.h/ml).
 
 There are limited pharmacokinetic data for patients less than three months of age.
 In neonates one week of age, lamivudine oral clearance was reduced when compared to paediatric patients and is likely to be due to immature renal function and variable absorption.
@@ -52,12 +50,8 @@ Pharmacokinetics in pregnancy: Following oral administration, lamivudine pharmac
 
 [Epivir 10 mg/ml oral solution]
 
-Limited data shows lamivudine penetrates the central nervous system and reaches the cerebro-spinal fluid (CSF).
-
-A recommended dosage regimen for patients with creatinine clearance below 50 ml/min is shown in the dosage section (4.2.
-
 In addition, systemic clearance values were greater in younger paediatric patients and decreased with age approaching adult values around 12 years of age.
 
 [Epivir 300 mg film-coated tablets]
 
-(all sentences already above)
+Based on data drived from a study in healthy volunteers, at a therapeutic dose of 150mg twice daily, mean (CV) steady-state Cmax and Cmin of lamivudine in plasma are 1.2 µg/ml (24%) and 0.09 µg/ml (27%), respectively.

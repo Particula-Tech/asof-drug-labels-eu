@@ -2,19 +2,19 @@
 
 Epivir is not recommended for use as monotherapy.
 
-In patients with moderate to severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (See dosage in renal impairment, in 4.2.
-Posology and method of administration).
+In patients with moderate to severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (See section 4.2).
 
 Once daily dosing (300 mg once a day): a clinical study has demonstrated the non inferiority between Epivir once a day and Epivir twice a day containing regimens.
 These, results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
 Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
 
-Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual conduct or blood contamination.
+Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be taken.
 
 Pancreatitis: Cases of pancreatitis have occurred rarely.
 However it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease.
 Treatment with Epivir should be stopped immediately if clinical signs, symptoms or laboratory abnormalities suggestive of pancreatitis occur.
+
 Lactic acidosis: lactic acidosis, usually associated with hepatomegaly and hepatic steatosis, has been reported with the use of nucleoside analogues.
 Early symptoms (symptomatic hyperlactatemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
 
@@ -36,22 +36,29 @@ A connection between visceral lipomatosis and protease inhibitors (Pis) and lipo
 A higher risk of lipodystrophy has been associated with individual factors such as older age, and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
 Clinical examination should include evaluation for physical signs of fat redistribution.
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
-Lipid disorders should be managed as clinically appropriate (see section 4.8 Undesirable effects).
+Lipid disorders should be managed as clinically appropriate (see section 4.8).
 
-Patients co-infected with Hepatitis B virus: Clinical trial and marketed use of lamivudine, have shown that some patients with chronic hepatitis B virus (HBV) disease may experience clinical or laboratory evidence of recurrent hepatitis upon discontinuation of lamivudine, which may have more severe consequences in patients with decompensated liver disease.
-If Epivir is discontinued in patients co-infected with Hepatitis B virus, periodic monitoring of both liver function tests and markers of HBV replication should be considered.
+Liver disease: If lamivudine is being used concomitantly for the treatment of HIV and HBV, additional information relating to the use of lamivudine in the treatment of hepatitis B infection is available in the Zeffix SPC.
+
+Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk of severe and potentially fatal hepatic adverse events.
+In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant product information for these medicinal products.
+
+If Epivir is discontinued in patients co-infected with hepatitis B virus, periodic monitoring of liver function tests and markers of HBV replication is recommended, as withdrawal of lamivudine may result in an acute exacerbation of hepatitis (see Zeffix SPC).
+
+Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.
+If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
 [Epivir 10 mg/ml oral solution]
 
-In patients with moderate –to- severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (See dosage in renal impairment, in 4.2.
+In patients with moderate –to- severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (See section 4.2).
 
 Diabetic patients should be advised that each dose (150 mg = 15 ml) contains 3 g of sucrose.
 
 These results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
 
-Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
-
 A connection between visceral lipomatosis and protease inhibitors (Pis) and lipoatrophy and nucleoside analogue reverse transcriptase inhibitors (NRTIs) has been hypothesised.
+
+Liver disease:If lamivudine is being used concomitantly for the treatment of HIV and HBV, additional information relating to the use of lamivudine in the treatment of hepatitis B infection is available in the Zeffix SPC.
 
 [Epivir 300 mg film-coated tablets]
 
