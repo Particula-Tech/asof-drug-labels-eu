@@ -9,6 +9,7 @@ The most common undesirable effect reported with deferiprone was reddish/brown u
 Other common effects include: nausea, vomiting, abdominal pain and increased appetite.
 These effects are more frequent at the beginning of therapy with deferiprone and in most patients are resolved within a few weeks without the discontinuation of treatment.
 In some patients it may be beneficial to reduce the dose of deferiprone and then scale it back up to the total 75 mg/kg/day.
+Episodes of diarrhoea, mostly mild and transient, have been reported in patients treated with deferiprone.
 
 Arthropathies have also been reported in patients treated with deferiprone.
 These events ranged from mild pain in one or more joints to severe arthritis.
@@ -34,4 +35,5 @@ Arthralgia 5.1 9.4
 Increased ALT 3.7 6.8
 Neutropenia 3.5 6.5
 Increased Appetite 2.9 5.4
+Diarrhoea 1.4 2.0
 Agranulocytosis 0.6 1.2
