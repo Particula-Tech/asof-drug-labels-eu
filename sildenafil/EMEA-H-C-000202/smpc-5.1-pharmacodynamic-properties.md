@@ -1,7 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs used in erectile dysfunction.
-ATC Code: G04B E03
+ATC Code: G04B E03.
 
 Sildenafil is an oral therapy for erectile dysfunction.
 In the natural setting, i.e. with sexual stimulation, it restores impaired erectile function by increasing blood flow to the penis.
@@ -18,19 +18,19 @@ Therefore sexual stimulation is required in order for sildenafil to produce its 
 Studies in vitro have shown that sildenafil is selective for PDE5, involved in the erection process.
 Its effect is more potent on PDE5 than on other known phosphodiesterases.
 There is a 10-fold selectivity over PDE6 which is involved in the phototransduction pathway in the retina.
-At maximum recommended doses, there is a 80-fold selectivity over PDE1, and over 700-fold over PDE2, 3, 4, 7, 8, 9, 10 and 11.
+At maximum recommended doses, there is an 80-fold selectivity over PDE1, and over 700-fold over PDE2, 3, 4, 7, 8, 9, 10 and 11.
 In particular, sildenafil has greater than 4,000-fold selectivity for PDE5 over PDE3, the cAMP-specific phosphodiesterase isoform involved in the control of cardiac contractility.
 
 Two clinical studies were specifically designed to assess the time window after dosing during which sildenafil could produce an erection in response to sexual stimulation.
-In a penile plesthysmography (RigiScan) study of fasted patients, the median time to onset for those who obtained erections of 60 % rigidity (sufficient for sexual intercourse) was 25 minutes (range 12-37 minutes) on sildenafil.
+In a penile plesthysmography (RigiScan) study of fasted patients, the median time to onset for those who obtained erections of 60% rigidity (sufficient for sexual intercourse) was 25 minutes (range 12-37 minutes) on sildenafil.
 In a separate RigiScan study, sildenafil was still able to produce an erection in response to sexual stimulation 4-5 hours post-dose.
+
 Sildenafil causes mild and transient decreases in blood pressure which, in the majority of cases, do not translate into clinical effects.
 The mean maximum decreases in supine systolic blood pressure following 100 mg oral dosing of sildenafil was 8.4 mmHg.
 The corresponding change in supine diastolic blood pressure was 5.5 mmHg.
 These decreases in blood pressure are consistent with the vasodilatory effects of sildenafil, probably due to increased cGMP levels in vascular smooth muscle.
 Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on ECG.
-
-In a study of the hemodynamic effects of a single oral 100mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (>70% stenosis of at least one coronary artery), the mean resting systolic and diastolic blood pressures decreased by 7% and 6% respectively compared to baseline.
+In a study of the hemodynamic effects of a single oral 100mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (> 70% stenosis of at least one coronary artery), the mean resting systolic and diastolic blood pressures decreased by 7% and 6% respectively compared to baseline.
 Mean pulmonary systolic blood pressure decreased by 9%.
 Sildenafil showed no effect on cardiac output, and did not impair blood flow through the stenosed coronary arteries.
 
@@ -46,10 +46,18 @@ There was no effect on sperm motility or morphology after single 100 mg oral dos
 Further information on clinical trials
 
 In clinical trials sildenafil was administered to more than 3000 patients aged 19-87.
-The following patient groups were represented: elderly (21 %), patients with hypertension (24 %), diabetes mellitus (16 %), ischaemic heart disease and other cardiovascular diseases (14 %), hyperlipidaemia (14 %), spinal cord injury (6 %), depression (5 %), transurethral resection of the prostate (5 %), radical prostatectomy (4 %).
-The following groups were not well represented or excluded from clinical trials: patients with pelvic surgery, patients post-radiotherapy, patients with severe renal or hepatic impairment and patients with certain cardiovascular conditions (see Section 4.3 Contra-indications).
+The following patient groups were represented: elderly (21%), patients with hypertension (24%), diabetes mellitus (16 %), ischaemic heart disease and other cardiovascular diseases (14%), hyperlipidaemia (14%), spinal cord injury (6%), depression (5%), transurethral resection of the prostate (5%), radical prostatectomy (4%).
+The following groups were not well represented or excluded from clinical trials: patients with pelvic surgery, patients post-radiotherapy, patients with severe renal or hepatic impairment and patients with certain cardiovascular conditions (see Section 4.3 Contraindications).
 
-In fixed dose studies, the proportions of patients reporting that treatment improved their erections were 62 % (25 mg), 74 % (50 mg) and 82 % (100 mg) compared to 25 % on placebo.
+In fixed dose studies, the proportions of patients reporting that treatment improved their erections were 62% (25 mg), 74% (50 mg) and 82% (100 mg) compared to 25% on placebo.
 In controlled clinical trials, the discontinuation rate due to sildenafil was low and similar to placebo.
-Across all trials, the proportion of patients reporting improvement on sildenafil were as follows: psychogenic erectile dysfunction (84 %), mixed erectile dysfunction (77 %), organic erectile dysfunction (68 %), elderly (67 %), diabetes mellitus (59 %), ischaemic heart disease (69 %), hypertension (68 %), TURP (61 %), radical prostatectomy (43 %), spinal cord injury (83 %), depression (75 %).
-The safety and efficacy of sildenafil was maintained in long term studies.
+Across all trials, the proportion of patients reporting improvement on sildenafil were as follows: psychogenic erectile dysfunction (84%), mixed erectile dysfunction (77%), organic erectile dysfunction (68%), elderly (67%), diabetes mellitus (59%), ischaemic heart disease (69%), hypertension (68%), TURP (61%), radical prostatectomy (43%), spinal cord injury (83%), depression (75%).
+The safety and efficacy of sildenafil was maintained in long-term studies.
+
+[VIAGRA 50 mg film-coated tablets]
+
+The following patient groups were represented: elderly (21%), patients with hypertension (24%), diabetes mellitus (16%), ischaemic heart disease and other cardiovascular diseases (14%), hyperlipidaemia (14%), spinal cord injury (6%), depression (5%), transurethral resection of the prostate (5%), radical prostatectomy (4%).
+
+[VIAGRA 100 mg film-coated tablets]
+
+(all sentences already above)
