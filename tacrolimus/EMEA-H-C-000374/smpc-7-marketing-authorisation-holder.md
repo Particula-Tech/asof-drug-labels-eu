@@ -1,7 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Fujisawa GmbH
-Levelingstr.
-12
+Neumarkter Str.
+61
 D-81673 München
 Germany
