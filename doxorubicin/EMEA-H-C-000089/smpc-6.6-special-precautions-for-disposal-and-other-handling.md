@@ -1,7 +1,6 @@
 # 6.6 Instructions for use and handling, and disposal
 
 Do not use material that shows evidence of precipitation or any other particulate matter.
-
 Caution must be exercised in handling Caelyx solution.
 The use of gloves is required.
 If Caelyx comes into contact with skin or mucosa, wash immediately and thoroughly with soap and water.
@@ -10,8 +9,7 @@ Caelyx must be handled and disposed of in a manner consistent with that of other
 Determine the dose of Caelyx to be administered (based upon the recommended dose and the patient’s body surface area).
 Take the appropriate volume of Caelyx up into a sterile syringe.
 Aseptic technique must be strictly observed since no preservative or bacteriostatic agent is present in Caelyx.
-The appropriate dose of Caelyx must be diluted in 5 %
-(50 mg/ml) glucose solution for infusion prior to administration.
+The appropriate dose of Caelyx must be diluted in 5 % (50 mg/ml) glucose solution for infusion prior to administration.
 For doses < 90 mg, dilute Caelyx in 250 ml, and for doses ≥ 90 mg, dilute Caelyx in 500 ml.
 This can be infused over 60 minutes as detailed in 4.2.
 

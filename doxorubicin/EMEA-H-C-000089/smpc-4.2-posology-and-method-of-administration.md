@@ -6,12 +6,12 @@ Caelyx exhibits unique pharmacokinetic properties and must not be used interchan
 
 Ovarian cancer :
 Caelyx is administered intravenously at a dose of 50 mg/m2 once every 4 weeks for as long as the disease does not progress and the patient continues to tolerate treatment.
+
 For doses < 90 mg: dilute Caelyx in 250 ml 5 % (50 mg/ml) glucose solution for infusion.
 For doses ≥ 90 mg: dilute Caelyx in 500 ml 5 % (50 mg/ml) glucose solution for infusion.
 
 To minimize the risk of infusion reactions, the initial dose is administered at a rate no greater than 1 mg/minute.
 If no infusion reaction is observed, subsequent Caelyx infusions may be administered over a 60 minute period.
-
 AIDS-related KS:
 Caelyx is administered intravenously at 20 mg/m2 every two-to-three weeks.
 Avoid intervals shorter than 10 days as medicinal product accumulation and increased toxicity cannot be ruled out.
@@ -21,7 +21,7 @@ Continue treatment as needed to maintain a therapeutic response.
 The dose of Caelyx is diluted in 250 ml 5 % (50 mg/ml) glucose solution for infusion and administered by intravenous infusion over 30 minutes.
 
 For all patients:
-If the patient experiences early symptoms or signs of infusion reaction (see 4.8), immediately discontinue the infusion, give appropriate premedications (antihistamine and/or short acting corticosteroid) and restart at a slower rate.
+If the patient experiences early symptoms or signs of infusion reaction (see 4.4 and 4.8), immediately discontinue the infusion, give appropriate premedications (antihistamine and/or short acting corticosteroid) and restart at a slower rate.
 
 Do not administer Caelyx as a bolus injection or undiluted solution.
 It is recommended that the Caelyx infusion line be connected through the side port of an intravenous infusion of 5 % (50 mg/ml) glucose to achieve further dilution and minimise the risk of thrombosis and extravasation.
@@ -37,25 +37,23 @@ The tables for PPE and stomatitis provide the schedule followed for dose modific
 
 The table for haematologic toxicity provides the schedule followed for dose modification in clinical trials in the treatment of patients with ovarian cancer only.
 Dose modification in patients with AIDS-KS is addressed in 4.8.
-GUIDELINES FOR CAELYX DOSE MODIFICATION
+Guidelines For Caelyx Dose Modification
 
 PALMAR – PLANTAR ERYTHRODYSESTHESIA
 Week After Prior Caelyx Dose
-Toxicity Grade Week 4 Week 5 Week 6
-After Prior Caelyx
-Dose
+Toxicity Grade After Week 4 Week 5 Week 6
+Prior Caelyx Dose
 1
 Redose unless Redose unless Decrease dose by
 (mild erythema, patient has patient has 25 %; return to
 swelling, or experienced a experienced a 4 week interval
-desquamation not previous Grade previous Grade
-interfering with 3 or 4 skin 3 or 4 skin
-daily activities) toxicity, in which toxicity, in which
-case wait an case wait an
+desquamation not previous Grade 3 or previous Grade 3 or
+interfering with daily 4 skin toxicity, in 4 skin toxicity, in
+activities) which case wait an which case wait an
 additional week additional week
 2
-Wait an Wait an Decrease dose by
-(erythema, additional week additional week 25 %; return to
+Wait an additional Wait an additional Decrease dose by
+(erythema, week week 25 %; return to
 desquamation, or 4 week interval
 swelling interfering
 with, but not
@@ -65,18 +63,16 @@ small blisters or
 ulcerations less than
 2 cm in diameter)
 3
-Wait an Wait an Withdraw patient
-(blistering, additional week additional week
-ulceration, or
-swelling interfering
+Wait an additional Wait an additional Withdraw patient
+(blistering, ulceration, week week
+or swelling interfering
 with walking or
 normal daily
-activities; cannot
-wear regular
-clothing)
+activities; cannot wear
+regular clothing)
 4
-Wait an Wait an Withdraw patient
-(diffuse or local additional week additional week
+Wait an additional Wait an additional Withdraw patient
+(diffuse or local week week
 process causing
 infectious
 complications, or a
@@ -89,26 +85,26 @@ Toxicity Grade 4 5 6
 Redose unless Redose unless Decrease dose by
 (painless ulcers, patient has patient has 25 %; return to
 erythema, or mild experienced a experienced a 4 week interval or
-soreness) previous Grade previous Grade withdraw patient
-3 or 4 stomatitis in 3 or 4 stomatitis in per physician’s
-which case wait an which case wait an assessment
+soreness) previous Grade 3 or previous Grade 3 or withdraw patient per
+4 stomatitis in which 4 stomatitis in which physician’s
+case wait an case wait an assessment
 additional week additional week
 2
-Wait an Wait an Decrease dose by
-(painful erythema, additional week additional week 25 %; return to
-oedema, or ulcers, 4 week interval or
-but can eat) withdraw patient
-per physician’s
+Wait an additional Wait an additional Decrease dose by
+(painful erythema, week week 25 %; return to
+oedema, or ulcers, but 4 week interval or
+can eat) withdraw patient per
+physician’s
 assessment
 3
-Wait an Wait an Withdraw patient
-(painful erythema, additional week additional week
-edema, or ulcers,
-but cannot eat)
+Wait an additional Wait an additional Withdraw patient
+(painful erythema, week week
+edema, or ulcers, but
+cannot eat)
 4
-Wait an Wait an Withdraw patient
-(requires parenteral additional week additional week
-or enteral support)
+Wait an additional Wait an additional Withdraw patient
+(requires parenteral or week week
+enteral support)
 
 | HAEMATOLOGICAL TOXICITY – MANAGEMENT OF PATIENTS WITH OVARIAN CANCER |  |  |  |
 | --- | --- | --- | --- |
@@ -132,4 +128,6 @@ No pharmacokinetic data are available in patients with creatinine clearance of l
 AIDS-KS patients with splenectomy: As there is no experience with Caelyx in patients who have had splenectomy, treatment with Caelyx is not recommended.
 
 Paediatric patients: Safety and effectiveness in patients less than 18 years of age have not been established.
-Elderly patients: Population based analysis demonstrates that age across the range tested (21 – 75 years) does not significantly alter the pharmacokinetics of Caelyx.
+
+Elderly patients: Population based analysis demonstrates that age across the range tested
+(21 – 75 years) does not significantly alter the pharmacokinetics of Caelyx.

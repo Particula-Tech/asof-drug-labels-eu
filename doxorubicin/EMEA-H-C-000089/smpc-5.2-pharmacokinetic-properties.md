@@ -9,17 +9,16 @@ Evidence of penetration of pegylated liposomes from blood vessels and their entr
 The pegylated liposomes also have a low permeability lipid matrix and internal aqueous buffer system that combine to keep doxorubicin hydrochloride encapsulated during liposome residence time in circulation.
 
 The plasma pharmacokinetics of Caelyx in humans differ significantly from those reported in the literature for standard doxorubicin hydrochloride preparations.
-At lower doses
-(10 mg/m2 – 20 mg/m2) Caelyx displayed linear pharmacokinetics.
+At lower doses (10 mg/m2 – 20 mg/m2) Caelyx displayed linear pharmacokinetics.
 Over the dose range of 10 mg/m2 – 60 mg/m2 Caelyx displayed non-linear pharmacokinetics.
 Standard doxorubicin hydrochloride displays extensive tissue distribution (volume of distribution: 700 to 1,100 l/m2) and a rapid elimination clearance (24 to 73 l/h/m2).
 In contrast, the pharmacokinetic profile of Caelyx indicates that Caelyx is confined mostly to the vascular fluid volume and that the clearance of doxorubicin from the blood is dependent upon the liposomal carrier.
 Doxorubicin becomes available after the liposomes are extravasated and enter the tissue compartment.
+
 At equivalent doses, the plasma concentration and AUC values of Caelyx which represent mostly pegylated liposomal doxorubicin hydrochloride (containing 90 % to 95 % of the measured doxorubicin) are significantly higher than those achieved with standard doxorubicin hydrochloride preparations.
 
 Caelyx should not be used interchangeably with other formulations of doxorubicin hydrochloride.
-
-POPULATION PHARMACOKINETICS
+Population pharmacokinetics
 The pharmacokinetics of Caelyx was evaluated in 120 patients from 10 different clinical trials using the population pharmacokinetic approach.
 The pharmacokinetics of Caelyx over the dose range of 10 mg/m2 to 60 mg/m2 was best described by a two compartment non-linear model with zero order input and Michaelis-Menten elimination.
 The mean intrinsic clearance of Caelyx was 0.030 l/h/m2 (range 0.008 to 0.152 l/h/m2) and the mean central volume of distribution was 1.93 l/m2 (range 0.96 – 3.85 l/m2) approximating the plasma volume.
@@ -30,7 +29,7 @@ The pharmacokinetics of Caelyx determined in 11 patients with ovarian carcinoma 
 The mean intrinsic clearance was 0.021 l/h/m2 (range 0.009 – 0.041 l/h/m2), the mean central volume of distribution was 1.95 l/m2 (range 1.67 – 2.40 l/m2).
 The mean apparent half-life was 75.0 hours (range 36.1 – 125 hours).
 
-AIDS-KS PATIENTS
+AIDS-KS patients
 The plasma pharmacokinetics of Caelyx were evaluated in 23 patients with KS who received single doses of 20 mg/m2 administered by a 30-minute infusion.
 The pharmacokinetic parameters of Caelyx (primarily representing pegylated liposomal doxorubicin hydrochloride and low levels of unencapsulated doxorubicin hydrochloride) observed after the 20 mg/m2 doses are presented in the following table.
 
