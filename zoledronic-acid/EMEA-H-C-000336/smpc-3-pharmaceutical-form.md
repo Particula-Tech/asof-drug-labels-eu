@@ -1,3 +1,3 @@
 # 3. PHARMACEUTICAL FORM
 
-Powder and solvent for solution for infusion
+Concentrate for solution for infusion

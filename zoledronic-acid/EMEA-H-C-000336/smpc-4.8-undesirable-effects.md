@@ -20,7 +20,7 @@ As with other bisphosphonates, cases of conjunctivitis in approximately 1 % have
 
 There have been some reports of impaired renal function (1.2 %), although the aetiology appears to be multifactorial in many cases.
 
-Based on pooled analysis of placebo controlled studies, severe anaemia (Hb < 8.0 g/dl) was reported in 4.3 % of patients receiving Zometa 4 mg versus 3.2 % on placebo.
+Based on pooled analysis of placebo-controlled studies, severe anaemia (Hb < 8.0 g/dl) was reported in 4.3 % of patients receiving Zometa 4 mg versus 3.2 % on placebo.
 
 In the TIH setting the frequency of adverse drug reactions with the 8 mg retreatment dose is similar to the 4 mg chronic administration, with the exception of renal function impairment (3.1 %) and hypocalcaemia (6 %) being slightly higher, which could be explained by other confounding factors that are frequent in this severely ill patient population.
 
@@ -28,8 +28,7 @@ The following adverse drug reactions, listed in Table 1, have been accumulated f
 
 Table 1
 
-Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (�1/10), common (�1/100, <1/10), uncommon (�1/1,000, <1/100), rare (�1/10,000, <1/1,000), very rare (<1/10,000), including isolated reports.
-
+Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥1/10), common (≥1/100, <1/10), uncommon (≥1/1,000, <1/100), rare (≥1/10,000, <1/1,000), very rare (<1/10,000), including isolated reports.
 Blood and lymphatic system disorders
 
 Common: Anaemia

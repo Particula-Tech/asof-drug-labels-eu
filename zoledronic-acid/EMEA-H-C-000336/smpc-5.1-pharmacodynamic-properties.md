@@ -25,7 +25,6 @@ Furthermore, Zometa reduced the number of SREs and extended the median time to a
 When both groups are combined, 38 % of the Zometa patients experienced at least one SRE (+TIH) during the total duration of the study vs 47 % in the placebo group, p = 0.039.
 The treatment effect in NSCLC patients appeared to be smaller than in patients with other solid tumours.
 A tabular overview of efficacy results is provided in Table 3.
-
 Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -70,7 +69,6 @@ Table 4: Efficacy results (breast cancer and multiple myeloma patients)
 
 * Includes vertebral and non-vertebral fractures
 ** NR = Not Reached
-
 Clinical trial results in the treatment of TIH
 
 Clinical studies in tumour-induced hypercalcaemia (TIH) demonstrated that the effect of zoledronic acid is characterised by decreases in serum calcium and urinary calcium excretion.
@@ -90,7 +88,7 @@ Table 5: Proportion of complete responders by day in the combined TIH studies
 | *p-values compared to pamidronate. |  |  |  |
 
 Median time to normocalcaemia was 4 days.
-Median time to relapse (re-increase of albumin-corrected serum calcium � 2.9 mmol/l) was 30 to 40 days for patients treated with Zometa versus 17 days for those treated with pamidronate 90 mg (p-values: 0.001 for 4 mg and 0.007 for 8 mg).
+Median time to relapse (re-increase of albumin-corrected serum calcium ≥ 2.9 mmol/l) was 30 to 40 days for patients treated with Zometa versus 17 days for those treated with pamidronate 90 mg (p-values: 0.001 for 4 mg and 0.007 for 8 mg).
 There were no statistically significant differences between the two Zometa doses.
 
 In clinical trials 69 patients who relapsed or were refractory to initial treatment (Zometa 4 mg, 8 mg or pamidronate 90 mg) were retreated with Zometa 8 mg.

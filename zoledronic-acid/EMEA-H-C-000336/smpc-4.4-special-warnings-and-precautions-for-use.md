@@ -1,6 +1,6 @@
 # 4.4 Special warnings and special precautions for use
 
-Patients must be assessed prior to administration of Zometa to assure that they are adequately hydrated.
+Patients must be assessed prior to administration of Zometa to ensure that they are adequately hydrated.
 
 Standard hypercalcaemia-related metabolic parameters, such as serum levels of calcium, phosphate and magnesium, should be carefully monitored after initiating Zometa therapy.
 Untreated hypercalcaemia patients generally have some degree of renal function impairment, therefore careful renal function monitoring should be considered.
@@ -15,6 +15,7 @@ As with other bisphosphonates, Zometa has been associated with reports of renal 
 Factors that may increase the potential for deterioration in renal function include dehydration and pre-existing renal impairment.
 While the risk is reduced with a dose of Zometa 4 mg administered over 15 minutes, deterioration in renal function may still occur.
 Increases in serum creatinine also occur in some patients with chronic administration of Zometa at recommended doses for prevention of skeletal related events, although less frequently.
+
 As with other bisphosphonates renal monitoring is recommended, for instance, measurement of serum creatinine prior to each dose of Zometa.
 In all patients with bone metastases the dose should be withheld if renal function has deteriorated.
 In the clinical studies, Zometa treatment was resumed only when the creatinine level returned to within 10 % of the baseline value.
