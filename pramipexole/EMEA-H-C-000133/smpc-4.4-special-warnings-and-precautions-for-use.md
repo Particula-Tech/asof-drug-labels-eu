@@ -6,8 +6,6 @@ Patients should be informed that (mostly visual) hallucinations can occur.
 Dyskinesias can occur during the initial titration of SIFROL.
 The incidence of initial dyskinesias may be higher in women.
 If they occur, the dose of levodopa should be decreased.
-
-V
 Sudden onset of sleep during daily activities has been reported in rare cases.
 This can be life threatening to the patient or others depending on the circumstances.
 These episodes have been reported in some cases without awareness of warning signs.

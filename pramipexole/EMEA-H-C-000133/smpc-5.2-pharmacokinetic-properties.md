@@ -13,3 +13,16 @@ Renal excretion of unchanged pramipexole is the major route of elimination.
 Approximately 90% of 14C-labelled dose is excreted through the kidneys while less than 2% is found in the faeces.
 The total clearance of pramipexole is approximately 500 ml/min and the renal clearance is approximately 400 ml/min.
 The elimination half-life (t½) varies from 8 hours in the young to 12 hours in the elderly.
+
+[SIFROL 0.18 mg tablet]
+
+In humans, the protein binding of pramipexole is very low (< 20%) and the volume of distribution is large (400l).
+High brain tissue concentrations were observed in the rat (approx. 8-fold compared to plasma).
+
+[SIFROL 0.7 mg tablet]
+
+(all sentences already above)
+
+[SIFROL 1.1 mg tablet]
+
+(all sentences already above)

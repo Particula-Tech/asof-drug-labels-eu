@@ -7,19 +7,16 @@ Initial treatment:
 Dosages should be increased gradually from a starting-dose of 0.264 mg of base (0.375 mg of salt) per day and then increased every 5 - 7 days.
 Providing patients do not experience intolerable side-effects, the dosage should be titrated to achieve a maximal therapeutic effect.
 
-Ascending – Dose Schedule of SIFROL
-
-III
-
-| Week | Dosage (mg of base) | Total Daily Dose (mg of base) | Dosage (mg of salt) | Total Daily Dose (mg of salt) |
+| Ascending – Dose Schedule of SIFROL |  |  |  |  |
 | --- | --- | --- | --- | --- |
+| Week | Dosage (mg of base) | Total Daily Dose (mg of base) | Dosage (mg of salt) | Total Daily Dose (mg of salt) |
 | 1 | 3 x 0.088 | 0.264 | 3 x 0.125 | 0.375 |
 | 2 | 3 x 0.18 | 0.54 | 3 x 0.25 | 0.75 |
-| 3 | 3 x 0.35 | 1.05 | 3 x 0.5 | 1.50 |
+| 3 | 3 x 0.36 | 1.08 | 3 x 0.5 | 1.50 |
 
 If a further dose increase is necessary the daily dose should be increased by 0.54 mg base (0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
 
-However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/ day (salt) (see section 4.8 Undesirable effects).
+However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/day (salt) (see section 4.8 Undesirable Effects).
 
 Maintenance treatment:
 The individual dose should be in the range of 0.264 mg of base (0.375 mg of salt) to a maximum of 3.3 mg of base (4.5 mg of salt) per day.
@@ -47,4 +44,15 @@ The daily dose can be administered in two divided doses if creatinine clearance 
 Dosing in patients with hepatic impairment
 Dose adjustment in patients with hepatic failure is probably not necessary, as approx. 90% of absorbed drug is excreted through the kidneys.
 However, the potential influence of hepatic insufficiency on SIFROL pharmacokinetics has not been investigated.
-IV
+
+[SIFROL 0.18 mg tablet]
+
+However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/day (see section 4.8 Undesirable Effects).
+
+[SIFROL 0.7 mg tablet]
+
+(all sentences already above)
+
+[SIFROL 1.1 mg tablet]
+
+(all sentences already above)

@@ -8,7 +8,6 @@ The potential effects of pramipexole on reproductive function have been investig
 Pramipexole was not teratogenic in rats and rabbits but was embryotoxic in the rat at maternally toxic doses.
 Due to the selection of animal species and the limited parameters investigated, the adverse effects of pramipexole on pregnancy and male fertility have not been fully elucidated.
 
-IX
 Pramipexole was not genotoxic.
 In a carcinogenicity study, male rats developed Leydig cell hyperplasia and adenomas, explained by the prolactin-inhibiting effect of pramipexole.
 This finding is not clinically relevant to man.
