@@ -12,10 +12,11 @@ Providing patients do not experience intolerable side-effects, the dosage should
 | Week | Dosage (mg of base) | Total Daily Dose (mg of base) | Dosage (mg of salt) | Total Daily Dose (mg of salt) |
 | 1 | 3 x 0.088 | 0.264 | 3 x 0.125 | 0.375 |
 | 2 | 3 x 0.18 | 0.54 | 3 x 0.25 | 0.75 |
-| 3 | 3 x 0.36 | 1.08 | 3 x 0.5 | 1.50 |
+| 3 | 3 x 0.35 | 1.05 | 3 x 0.5 | 1.50 |
 
 If a further dose increase is necessary the daily dose should be increased by 0.54 mg base (0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
-However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/day (salt) (see section 4.8 Undesirable Effects).
+
+However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/ day (salt) (see section 4.8 Undesirable effects).
 
 Maintenance treatment:
 The individual dose should be in the range of 0.264 mg of base (0.375 mg of salt) to a maximum of 3.3 mg of base (4.5 mg of salt) per day.
@@ -24,6 +25,11 @@ Further dose adjustments should be done based on the clinical response and toler
 In clinical trials approximately 5% of patients were treated at doses below 1.1 mg (1.5 mg of salt).
 Doses higher than 1.1 mg (1.5 mg of salt) per day can be useful in patients where a reduction of the levodopa therapy is intended.
 It is recommended that the dosage of levodopa is reduced during both the dose escalation and the maintenance treatment with SIFROL, dependent on reactions in individual patients.
+
+Treatment discontinuation
+Abrupt discontinuation of dopaminergic therapy can lead to the development of a neuroleptic malignant syndrome.
+Therefore pramipexole should be tapered off at a rate of 0.54 mg of base (0.75 mg of salt) per day until the daily dose has been reduced to 0.54 mg of base (0.75 mg of salt).
+Thereafter the dose should be reduced by 0.264 mg of base (0.375 mg of salt) per day (see section 4.4 Special warnings and special precautions for use).
 
 For potential pharmacokinetic interaction with levodopa, which may be different in men and women, see 4.5.
 
@@ -43,26 +49,3 @@ The daily dose can be administered in two divided doses if creatinine clearance 
 Dosing in patients with hepatic impairment
 Dose adjustment in patients with hepatic failure is probably not necessary, as approx. 90% of absorbed drug is excreted through the kidneys.
 However, the potential influence of hepatic insufficiency on SIFROL pharmacokinetics has not been investigated.
-
-[SIFROL 0.18 mg tablet]
-
-However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/day (see section 4.8 Undesirable Effects).
-
-[SIFROL 0.35 mg tablet]
-
-| Ascending – Dose Schedule of SIFROL |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Week | Dosage (mg of base) | Total Daily Dose (mg of base) | Dosage (mg of salt) | Total Daily Dose (mg of salt) |
-| 1 | 3 x 0.088 | 0.264 | 3 x 0.125 | 0.375 |
-| 2 | 3 x 0.18 | 0.54 | 3 x 0.25 | 0.75 |
-| 3 | 3 x 0.35 | 1.05 | 3 x 0.5 | 1.50 |
-
-However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/ day (salt) (see section 4.8 Undesirable effects).
-
-[SIFROL 0.7 mg tablet]
-
-(all sentences already above)
-
-[SIFROL 1.1 mg tablet]
-
-(all sentences already above)

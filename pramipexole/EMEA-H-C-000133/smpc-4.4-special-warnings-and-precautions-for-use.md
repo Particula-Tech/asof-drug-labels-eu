@@ -6,6 +6,7 @@ Patients should be informed that (mostly visual) hallucinations can occur.
 Dyskinesias can occur during the initial titration of SIFROL.
 The incidence of initial dyskinesias may be higher in women.
 If they occur, the dose of levodopa should be decreased.
+
 Sudden onset of sleep during daily activities has been reported in rare cases.
 This can be life threatening to the patient or others depending on the circumstances.
 These episodes have been reported in some cases without awareness of warning signs.
@@ -19,3 +20,5 @@ Ophthalmologic monitoring is recommended at regular intervals or if vision abnor
 
 In case of severe cardiovascular disease, care should be taken.
 It is recommended to monitor blood pressure, especially at the beginning of treatment, due to the general risk of postural hypotension associated with dopaminergic therapy.
+
+Symptoms suggestive of neuroleptic malignant syndrome have been reported with abrupt withdrawal of dopaminergic therapy (see section 4.2 Posology and method of administration: Treatment discontinuation).
