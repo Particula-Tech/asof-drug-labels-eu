@@ -19,7 +19,6 @@ Zidovudine and stavudine maintain their antiretroviral activities against lamivu
 Abacavir maintains its antiretroviral activities against lamivudine-resistant HIV-1 harbouring only the M184V mutation.
 The M184V RT mutant shows a <4-fold decrease in susceptibility to didanosine and zalcitabine; the clinical significance of these findings is unknown.
 In vitro susceptibility testing has not been standardised and results may vary according to methodological factors.
-
 Lamivudine demonstrates low cytotoxicity to peripheral blood lymphocytes, to established lymphocyte and monocyte-macrophage cell lines, and to a variety of bone marrow progenitor cells in vitro.
 
 Clinical experience:
@@ -31,7 +30,7 @@ Evidence from clinical studies shows that lamivudine plus zidovudine delays the 
 
 Lamivudine has been widely used as a component of antiretroviral combination therapy with other antiretroviral agents of the same class (nucleoside reverse transcriptase inhibitors) or different classes (protease inhibitors, non-nucleoside reverse transcriptase inhibitors).
 
-Multiple drug antiretroviral therapy containing lamivudine has been shown to be effective in antiretrovirally-naïve patients as well as in patients presenting with viruses containing the M184V mutations.
+Multiple drug antiretroviral therapy containing lamivudine has been shown to be effective in antiretrovirally-naive patients as well as in patients presenting with viruses containing the M184V mutations.
 
 The relationship between in vitro susceptibility of HIV to lamivudine and clinical response to lamivudine-containing therapy remains under investigation.
 
@@ -39,11 +38,3 @@ Lamivudine at a dose of 100mg once daily has also been shown to be effective for
 However, for the treatment of HIV infection only a 300mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
 
 Lamivudine has not been specifically investigated in HIV patients co-infected with HBV.
-
-[Epivir 10 mg/ml oral solution]
-
-However, for the treatment of HIV infection, only a 300mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
-
-[Epivir 300 mg film-coated tablets]
-
-(all sentences already above)
