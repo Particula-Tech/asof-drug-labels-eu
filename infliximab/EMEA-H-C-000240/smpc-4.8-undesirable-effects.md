@@ -55,6 +55,7 @@ Rare: Granulomatous lesion
 Investigations
 Common: Elevated hepatic transaminases
 Uncommon: Autoantibodies, complement factor abnormality
+
 Table 2
 Undesirable effects in Post-marketing reports
 (common > 1/100, < 1/10; uncommon > 1/1000, < 1/100; rare > 1/10,000, < 1/1000;
@@ -118,12 +119,11 @@ Some of the cases have resulted in a fatal outcome.
 Nearly 50% of reported deaths have been associated with infection.
 Cases of tuberculosis, sometimes fatal, including miliary tuberculosis and tuberculosis with extrapulmonary location have been reported (see section 4.4).
 
-Malignancies and lymphoproliferative disorders: In clinical studies with infliximab and during long-term follow-up of three years, representing 2914 patient years, six cases of lymphomas and 18 other malignancies were detected as compared with four malignancies in placebo-treated patients observed during 389 patient years.
-These observed rates and incidences were similar to those expected for the populations studied.
-From August 1998 to August2002, 483 cases of suspected malignancies have been reported, 107 in Crohn’s disease patients, 300 in rheumatoid arthritis patients and 76 in patients with other diseases.
-During this period, it is estimated that approximately 340,000 patients have been exposed to infliximab.
-It is not known if exposure to infliximab can increase the incidence of these disorders.
-The long-term immunosuppressive effects of concomitant use of methotrexate and infliximab are unknown.
+Malignancies and lymphoproliferative disorders: In clinical studies with infliximab and during long-term follow-up of 4 years, representing 8800 patient years, 8 cases of lymphomas and 43 other malignancies were detected as compared with 9 malignancies and 0 lymphoma in placebo-treated patients observed during 1274 patient years.
+The overall rate of malignancies in these patients was similar to that expected for an age-, gender- and race-matched general population.
+From August 1998 to August 2004, 1367 cases of suspected malignancies have been reported from post-marketing, clinical trials and registries (229 in Crohn’s disease patients, 942 in rheumatoid arthritis patients and 196 in patients with other or unknown indications).
+Among those there were 242 lymphoma cases.
+During this period, the estimated exposure is 1,350,000 patient years (see section 4.4: Special Warnings and Special Precautions for Use - "Malignancies").
 
 Heart failure: In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
 In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction
@@ -132,6 +132,7 @@ At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 m
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking Remicade.
 There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
 Some of these patients have been under 50 years of age.
+
 Antinuclear antibodies (ANA)/Anti-double-stranded DNA (dsDNA) antibodies: Approximately half of infliximab-treated patients in clinical studies who were ANA negative at baseline developed a positive ANA during the study compared with approximately one-fifth of placebo-treated patients.
 Anti-dsDNA antibodies were newly detected in approximately 17% of infliximab-treated patients compared with 0% of placebo-treated patients.
 At the last evaluation, 57% of infliximab-treated patients remained anti-dsDNA positive.

@@ -67,8 +67,13 @@ Infliximab and other agents that inhibit TNFα have been associated in rare case
 In patients with pre-existing or recent onset of central nervous system demyelinating disorders, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
 
 Malignancies and lymphoproliferative disorders
-It is unknown if exposure to infliximab can increase the risk of developing these disorders
-(see section 4.8).
+In the controlled portions of clinical trials of TNF-blocking agents, more cases of lymphoma have been observed among patients receiving a TNF blocker compared with control patients.
+However, the occurrence was rare, and the follow up period of placebo patients was shorter than for patients receiving TNF-blocking therapy.
+Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with longstanding, highly active, inflammatory disease, which complicates the risk estimation.
+With the current knowledge, a possible risk for the development of lymphomas or other malignancies in patients treated with a TNF-blocking agent cannot be excluded.
+
+No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving Remicade.
+Thus additional caution should be exercised in considering Remicade treatment of these patients (see section 4.8).
 
 Heart failure
 Remicade should be used with caution in patients with mild heart failure (NYHA class I/II).
