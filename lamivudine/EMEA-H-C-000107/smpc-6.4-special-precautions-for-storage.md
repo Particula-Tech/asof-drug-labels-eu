@@ -4,4 +4,4 @@ Store between 2 and 30°C.
 
 [EPIVIR (SmPC 2)]
 
-Store between 2 and 25°C.
+Store below 25° C.

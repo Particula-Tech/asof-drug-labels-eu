@@ -12,9 +12,17 @@ The nucleoside analogues (e.g. didanosine and zalcitabine) like zidovudine, are 
 Administration of prophylactic doses of co-trimoxazole results in a 40% increase in lamivudine exposure, because of the trimethoprim component; the sulphamethoxazole component did not interact.
 However, unless the patient has renal impairment, no dosage adjustment of lamivudine is necessary (see section 4.2 Posology and method of administration).
 When concomitant administration is warranted, patients should be monitored clinically.
+
 Co-administration of EPIVIR with high doses of co-trimoxazole for the treatment of Pneumocystis carinii pneumonia (PCP) and toxoplasmosis should be avoided.
 Lamivudine has no effect on the pharmacokinetics of co-trimoxazole.
 
 Lamivudine metabolism does not involve CYP3A, making interactions with drugs metabolised by this system (e.g. protease inhibitors) unlikely.
 
 Co-administration of EPIVIR with intravenous ganciclovir or foscarnet is not recommended until further information is available.
+
+[EPIVIR (SmPC 2)]
+
+Zidovudine has no effect on the pharmacokinetics of lamivudine (See 5.2 Pharmacokinetic properties).
+
+However, unless the patient has renal impairment, no dosage adjustment of lamivudine is necessary (see section 4.2.
+Posology and method of administration).
