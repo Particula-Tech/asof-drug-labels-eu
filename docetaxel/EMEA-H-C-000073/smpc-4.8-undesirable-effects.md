@@ -136,6 +136,7 @@ Cardiovascular
 In patients treated at 100 mg/m² as single agent, hypertension was observed in 2.4% of the patients.
 Venous thromboembolic events have rarely been reported.
 Rare cases of myocardial infarction have been reported.
+
 Hepatic
 
 |  | % patients |  |  |
@@ -173,7 +174,3 @@ Acute respiratory distress syndrome and interstitial pneumonia have rarely been 
 Radiation recall phenomena have rarely been reported.
 
 Cases of lacrimation with or without conjunctivitis, as cases of lacrimal duct obstruction resulting in excessive tearing have been rarely reported.
-
-[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
-
-Events such as peripheral oedema and less frequently pleural effusion, pericardial effusion, ascites and weight gain have been reported The peripheral oedema usually starts at the lower extremities and may become generalised with a weight gain of 3 kg or more.
