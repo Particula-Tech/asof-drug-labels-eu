@@ -50,10 +50,10 @@ Patients with fistulising Crohn’s disease with acute suppurative fistulas must
 All patients should be informed to seek medical advice if signs/symptoms suggestive of tuberculosis (e.g. persistent cough, wasting/weight loss, low-grade fever) appear during or after Remicade treatment.
 
 Concurrent administration of TNF-alpha inhibitor and anakinra
-Concurrent administration of etanercept (another agent that inhibits TNFα) and anakinra
-(a recombinant, non-glycosylated form of the human interleukin-1 receptor antagonist) has been associated with an increased risk of serious infections, an increased risk of neutropenia and no additional benefit compared to these medicinal products alone.
-The safety and efficacy of anakinra used in combination with infliximab has not been established.
-Therefore, combination of infliximab and anakinra is not recommended.
+Serious infections were seen in clinical studies with concurrent use of anakinra and another TNFα-blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
+Because of the nature of the adverse events seen with combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNFα-blocking agents.
+Therefore, the combination of Remicade and anakinra is not recommended.
+
 Vaccinations
 No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
 It is recommended that live vaccines not be given concurrently.

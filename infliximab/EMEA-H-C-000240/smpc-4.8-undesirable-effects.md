@@ -2,8 +2,7 @@
 
 In clinical studies with infliximab, adverse drug reactions (ADRs) were observed in approximately 60% of infliximab-treated patients and 40% of placebo-treated patients.
 The adverse reactions listed in Table 1 are based on experience from clinical trials.
-Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (> 1/100,
-< 1/10); uncommon (> 1/1000, < 1/100); rare (>1/10,000, <1/1,000).
+Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (> 1/100, < 1/10); uncommon (> 1/1000, < 1/100); rare (>1/10,000, <1/1,000).
 Infusion-related reactions were the most common ADRs reported.
 Infusion-related reactions (dyspnoea, urticaria and headache) were the most common cause for discontinuation.
 
@@ -73,6 +72,7 @@ Nervous system disorders
 Rare: Demyelinating disorders (such as multiple sclerosis and optic neuritis), Guillain-Barré syndrome, neuropathies, numbness, tingling, seizure
 Very Rare: Transverse myelitis
 Cardiac disorders
+Rare: Worsening heart failure, new onset heart failure
 Very rare: Pericardial effusion
 Respiratory, thoracic and mediastinal disorders
 Rare: Interstitial pneumonitis/fibrosis
@@ -126,9 +126,12 @@ It is not known if exposure to infliximab can increase the incidence of these di
 The long-term immunosuppressive effects of concomitant use of methotrexate and infliximab are unknown.
 
 Heart failure: In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
-In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
+In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction
+≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
 At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
-
+There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking Remicade.
+There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
+Some of these patients have been under 50 years of age.
 Antinuclear antibodies (ANA)/Anti-double-stranded DNA (dsDNA) antibodies: Approximately half of infliximab-treated patients in clinical studies who were ANA negative at baseline developed a positive ANA during the study compared with approximately one-fifth of placebo-treated patients.
 Anti-dsDNA antibodies were newly detected in approximately 17% of infliximab-treated patients compared with 0% of placebo-treated patients.
 At the last evaluation, 57% of infliximab-treated patients remained anti-dsDNA positive.

@@ -18,10 +18,10 @@ Total peripheral white blood cell counts were minimally affected in infliximab-t
 Peripheral blood mononuclear cells (PBMC) from infliximab-treated patients showed undiminished proliferative responsiveness to stimuli compared with untreated patients, and no substantial changes in cytokine production by stimulated PBMC were observed following treatment with infliximab.
 Analysis of lamina propria mononuclear cells obtained by biopsy of the intestinal mucosa showed that infliximab treatment caused a reduction in the number of cells capable of expressing TNFα and interferonγ.
 Additional histological studies provided evidence that treatment with infliximab reduces the infiltration of inflammatory cells into affected areas of the intestine and the presence of inflammation markers at these sites.
-
 Clinical Efficacy
 
 Rheumatoid arthritis
+
 The efficacy of infliximab was assessed in two multicentre, randomised, double-blind, pivotal trials: ATTRACT and ASPIRE.
 In both studies concurrent use of stable doses of folic acid, oral corticosteroids (≤ 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted.
 
@@ -74,6 +74,7 @@ a: control = All patients had active RA despite treatment with stable methotrexa
 Concurrent use of stable doses of oral corticosteroids (≤ 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted, and folate supplementation was given.
 b: all infliximab doses given in combination with methotrexate and folate with some on corticosteroids and/or non-steroidal anti-inflammatory drugs c: p < 0.001, for each infliximab treatment group vs. control d: greater values indicate more joint damage.
 e: HAQ = Health Assessment Questionnaire; greater values indicate less disability.
+
 The ASPIRE trial evaluated responses at 54 weeks in 1004 methotrexate naive patients with early (≤3 years disease duration, median 0.6 years) active rheumatoid arthritis (median swollen and tender joint count of 19 and 31, respectively).
 All patients received methotrexate (optimised to 20 mg/wk by week 8) and either placebo, 3 mg/kg or 6 mg/kg infliximab at weeks 0, 2, and 6 and every 8 weeks thereafter.
 Results from week 54 are shown in Table 4.
@@ -106,10 +107,12 @@ Concurrent use of stable doses of conventional therapies was permitted, and 92% 
 The primary endpoint was the proportion of patients who experienced a clinical response, defined as a decrease in CDAI by ≥ 70 points from baseline at the 4-week evaluation and without an increase in Crohn’s disease medications or surgery for Crohn’s disease.
 Patients who responded at week 4 were followed to week 12.
 Secondary endpoints included the proportion of patients in clinical remission at week 4 (CDAI < 150) and clinical response over time.
-At week 4, following a single dose of study medication, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (16%) of the placebo-treated patients (p < 0.001).
+At week 4, following a single dose of study medication, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (16%) of the placebo-treated patients
+(p < 0.001).
 Also at week 4, 13/27 (48%) of infliximab-treated patients achieved a clinical remission (CDAI < 150) vs. 1/25 (4%) of placebo-treated patients.
 A response was observed within 2 weeks, with a maximum response at 4 weeks.
 At the last observation at 12 weeks, 13/27 (48%) of infliximab-treated patients were still responding.
+
 Maintenance treatment in severe active Crohn’s disease
 The efficacy of repeated infusions with infliximab was studied in a 1-year clinical study.
 A total of 573 patients with active Crohn’s disease (CDAI ≥ 220 ≤ 400) received a single infusion of 5 mg/kg at week 0.
@@ -158,6 +161,7 @@ Physical function and quality of life (SF36) were improved similarly.
 In the trial, efficacy was not shown in HLA-B27 negative patients (n=7).
 
 Psoriatic Arthritis
+
 Efficacy and safety were studied in a double-blind, placebo-controlled, multicenter study evaluating infliximab in 104 patients with active polyarticular psoriatic arthritis.
 In total 74 subjects were on at least one concomitant DMARD, and among those 58 patients were treated with methotrexate.
 During the 16-week double-blind phase, patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6, and 14 (52 patients in each group).
