@@ -1,10 +1,11 @@
 # 4.4 Special warnings and special precautions for use
 
 Patients with pre-existing conditions:
-Renal disease:There are no data on the pharmacokinetics and safety of ritonavir in patients with significant renal dysfunction.
+
+Renal disease: there are no data on the pharmacokinetics and safety of ritonavir in patients with significant renal dysfunction.
 
 Liver disease: the safety and efficacy of Norvir has not been established in patients with significant underlying liver disorders.
-Norvir is contraindicated in patients with severe hepatic impairment (see section 4.3 ).
+Norvir is contraindicated in patients with severe hepatic impairment (see section 4.3).
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse events.
 In case of concomitant antiviral therapy for hepatitis B or C, please refer to the relevant product information for these medicinal products.
 
@@ -29,12 +30,12 @@ It is advisable to monitor renal function in patients with renal function impair
 
 A pharmacokinetic study demonstrated that ritonavir extensively inhibits the metabolism of saquinavir resulting in greatly increased saquinavir plasma concentrations (see section 4.5 Interaction with other medicinal products and other forms of interaction).
 Doses greater than 400 mg twice daily of either medicine were associated with an increased incidence of adverse events.
-
 Norvir oral solution contains alcohol (43% v/v), therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.
 
 New onset diabetes mellitus, hyperglycaemia or exacerbation of existing diabetes mellitus has been reported in patients receiving protease inhibitors.
 In some of these the hyperglycaemia was severe and in some cases also associated with ketoacidosis.
 Many patients had confounding medical conditions, some of which required therapy with agents that have been associated with the development of diabetes mellitus or hyperglycaemia.
+
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients.
 The long-term consequences of these events are currently unknown.
 Knowledge about the mechanism is incomplete.
@@ -51,10 +52,6 @@ Caution must also be exercised and reduced doses should be considered if Norvir 
 If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fluvastatin is recommended (see section 4.5 Interaction with other medicinal products and other forms of interaction).
 
 [Norvir 100 mg soft capsules]
-
-Renal disease: there are no data on the pharmacokinetics and safety of ritonavir in patients with significant renal dysfunction.
-
-Norvir is contraindicated in patients with severe hepatic impairment (see section 4.3).
 
 Norvir soft capsules contain alcohol (12% w/w), therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.
 

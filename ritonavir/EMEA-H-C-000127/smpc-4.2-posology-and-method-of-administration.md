@@ -15,8 +15,11 @@ There is extensive cross-resistance in this class of agents.
 The combination of two PIs with the least overlapping patterns of resistance should be considered.
 The use of ritonavir in such regimens should be guided by these factors.
 
-For the use of ritonavir with saquinavir a cautious titration of the dose has been used by initiating ritonavir dosing at 300 mg twice daily.
+Ritonavir as a pharmacokinetic enhancer for other PIs: In clinical practice ritonavir is frequently used as a pharmacokinetic enhancer (at low doses of 100 – 200 mg once or twice daily) to boost the plasma concentrations of other PIs in HIV-infected adult patients.
+For further specific information, refer to the Summary of Product Characteristics of the concerned PIs.
+See also section 4.5.
 
+For the use of ritonavir with saquinavir a cautious titration of the dose has been used by initiating ritonavir dosing at 300 mg twice daily.
 For the use of ritonavir with indinavir a cautious titration of the dose has been used by initiating ritonavir dosing at 200 mg twice daily increasing by 100 mg twice daily reaching 400 mg twice daily within 2 weeks.
 
 Paediatric use (2 years of age and above): the recommended dosage of Norvir solution in children is 350 mg/m² by mouth twice daily and should not exceed 600 mg twice daily.

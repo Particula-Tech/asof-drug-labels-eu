@@ -28,14 +28,14 @@ Myositis was reported rarely.
 Rarely, rhabdomyolysis has been reported with protease inhibitors, particularly in combination with nucleoside analogues.
 
 Skin and subcutaneous tissue disorders: Rash, pruritus and sweating were commonly reported.
+
 Allergic reactions including urticaria, mild skin eruptions, bronchospasm, and angioedema have been reported.
 Rare cases of anaphylaxis and Stevens-Johnson syndrome have been reported
 
 Other disorders: Very common events reported were headache.
 Fever, pain and weight loss were commonly reported.
 
-There have been spontaneous reports of seizure.
-
+There have been spontaneous reports of thrombocytopenia, seizure and menorrhagia.
 Dehydration usually associated with gastrointestinal symptoms, and sometimes resulting in hypotension, syncope, or renal insufficiency has been reported.
 Syncope, orthostatic hypotension and renal insufficiency have also been reported without known dehydration.
 
@@ -47,6 +47,7 @@ Combination antiretroviral therapy has been associated with metabolic abnormalit
 
 Hyperglycaemia has been reported in individuals with and without a known history of diabetes.
 Cause and effect relationship has not been established.
+
 Hypertriglyceridaemia, hypercholesterolaemia and hyperuricaemia were clearly related to ritonavir therapy.
 
 Pancreatitis has been observed in patients receiving Norvir therapy, including those who developed hypertriglyceridemia.
@@ -58,12 +59,12 @@ Patients who exhibit these signs or symptoms should be evaluated and Norvir ther
 
 Clinical chemistry:
 
-High gamma-glutamyl transpeptidase (GGT) , high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); high aspartate transaminase (SGOT), high amylase, high uric acid, low potassium and decrease of free and total thyroxin (T4) values were commonly reported.
+High gamma-glutamyl transpeptidase (GGT), high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); high aspartate transaminase (SGOT), high amylase, high uric acid, low potassium and decrease of free and total thyroxin (T4) values were commonly reported.
 Uncommon events were high glucose, low total calcium, high magnesium, high total bilirubin, high alkaline phosphatase.
 
 Haematology:
 
-Low white blood cell (WBC) , low haemoglobin, low neutrophils and high eosinophils were commonly reported.
+Low white blood cell (WBC), low haemoglobin, low neutrophils and high eosinophils were commonly reported.
 Uncommon events were high WBC, high neutrophils and high prothrombin time.
 
 [Norvir 100 mg soft capsules]
@@ -71,3 +72,5 @@ Uncommon events were high WBC, high neutrophils and high prothrombin time.
 Dyspepsia, anorexia, local throat irritation flatulence, dry mouth, eructation and mouth ulcer were commonly reported.
 
 High gamma-glutamyl transpeptidase (GGT) , high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); high aspartate transaminase (SGOT), high amylase, high uric acid low potassium and decrease of free and total thyroxin (T4) values were commonly reported.
+
+Low white blood cell (WBC) , low haemoglobin, low neutrophils and high eosinophils were commonly reported.
