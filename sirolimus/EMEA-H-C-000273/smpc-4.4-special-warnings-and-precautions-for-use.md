@@ -38,7 +38,6 @@ The use of Rapamune in renal transplant patients was associated with increased s
 Patients administered Rapamune, should be monitored for hyperlipidemia using laboratory tests and if hyperlipidemia is detected, subsequent interventions such as diet, exercise, and lipid-lowering agents should be initiated.
 The risk/benefit should be considered in patients with established hyperlipidemia before initiating an immunosuppressive regimen including Rapamune.
 Similarly the risk/benefit of continued Rapamune therapy should be re-evaluated in patients with severe refractory hyperlipidemia.
-
 In clinical trials, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates was well tolerated.
 During Rapamune therapy, patients administered an HMG-CoA reductase inhibitor and/or fibrate, should be monitored for the possible development of rhabdomyolysis and other adverse effects as described in the respective Summary of Product Characteristics of these agents.
 
@@ -49,3 +48,24 @@ Caution should be exercised when co-administering other agents that are known to
 Patients treated with cyclosporine and Rapamune beyond 3 months had higher serum creatinine levels and lower calculated glomerular filtration rates compared to patients treated with cyclosporine and placebo or azathioprine controls.
 Patients who were successfully withdrawn from cyclosporine had lower serum creatinine levels and higher calculated glomerular filtration rates compared to patients remaining on cyclosporine.
 Until further clinical data are available, the continued co-administration of cyclosporine and Rapamune as maintenance therapy cannot be recommended
+
+[Rapamune 1 mg/1 ml oral solution.]
+
+(all sentences already above)
+
+[Rapamune 2 mg/2 ml oral solution]
+
+(all sentences already above)
+
+[Rapamune 5 mg/5 ml oral solution]
+
+(all sentences already above)
+
+[Rapamune 1 mg coated tablets]
+
+Sirolimus tablets contain sucrose and lactose.
+In those patients with a history of sucrase insufficiency, isomaltase insufficiency, fructose intolerance, glucose malabsorption, galactose malabsorption, galactose intolerance (e.g., galactosemia), or Lapp lactase deficiency, a careful risk/benefit assessment should be performed prior to prescribing sirolimus tablets.
+
+[Rapamune 2 mg coated tablets]
+
+(all sentences already above)

@@ -49,7 +49,6 @@ purpura/haemolytic uremia syndrome
 Uncommon: Lymphoma / post transplant lymphoproliferative disorder,
 
 pancytopenia
-
 Immune system disorders:
 
 Rare: Hypersensitivity reactions, including anaphylactic/anaphylactoid
@@ -93,6 +92,9 @@ Hepatotoxicity has been reported, the risk may increase as the trough Sirolimus 
 There have been rare reports of fatal hepatic necrosis with elevated trough Sirolimus levels.
 
 Abnormal healing following transplant surgery has been reported, including fascial dehiscence and anastomotic disruption (e.g. wound, vascular, airway, ureteral, biliary).
+
+In an ongoing study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/mL) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 mL/min.
+There was a higher rate of serious adverse events including pneumonia, acute rejection, graft loss and death in this sirolimus treatment arm (n=60, median time post-transplant 36 months).
 
 [Rapamune 1 mg/1 ml oral solution.]
 

@@ -16,6 +16,7 @@ Sirolimus is extensively metabolised by O-demethylation and/or hydroxylation.
 Seven major metabolites, including hydroxyl, demethyl, and hydroxydemethyl, are identifiable in whole blood.
 Sirolimus is the major component in human whole blood and contributes to greater than 90% of the immunosuppressive activity.
 After a single dose of [14C] sirolimus in healthy volunteers, the majority (91.1%) of radioactivity was recovered from the faeces, and only a minor amount (2.2%) was excreted in urine.
+
 Clinical studies of Rapamune did not include a sufficient number of patients >65 years of age to determine whether they will respond differently than younger patients.
 Sirolimus trough concentration data in 35 renal transplant patients >65 years of age were similar to those in the adult population (n=822) from 18 to 65 years of age.
 
@@ -74,6 +75,7 @@ Initial Therapy (2 to 3 months post-transplant): In most patients receiving Rapa
 Sirolimus pharmacokinetic parameters following daily doses of 2 mg Rapamune tablets administered in combination with cyclosporine microemulsion (4 hours prior to Rapamune tablets) and corticosteroids in 13 renal transplant patients, based on data collected at months 1 and 3 after transplantation, were: Cmin,ss, 7.39 ± 2.18 ng/mL; Cmax,ss, 15.0 ± 4.9 ng/ml; tmax,ss, 3.46 ± 2.40 h; AUCτ,ss, 230 ± 67 ng•h/ml; CL/F/WT, 139 ± 63 ml/h/kg (parameters calculated from LC-MS/MS assay results).
 The corresponding results for the oral solution in the same clinical trial were Cmin,ss 5.40 ± 2.50 ng/ml, Cmax,ss 14.4 ± 5.3 ng/ml, tmax,ss 2.12 ± 0.84 h, AUCτ,ss 194 ± 78 ng•h/ml, CL/F/W 173 ± 50 ml/h/kg.
 Whole blood trough sirolimus concentrations, as measured by LC/MS/MS, were significantly correlated (r2 = 0.85) with AUCτ,ss.
+
 Based on monitoring in all patients during the period of concomitant therapy with cyclosporine, mean (10th, 90th percentiles) troughs (by immunoassay) and daily doses were 10.8 ± 3.8 ng/mL (6.3 to 15.8 ng/mL) and 2.1 ± 0.70 mg (1.5 to 2.7 mg), respectively.
 
 Maintenance Therapy: From month 3 to month 12, following discontinuation of cyclosporine, mean (10th, 90th percentiles) troughs (by immunoassay) and daily doses were 23.3 ± 5.1 ng/mL (16.9 to 29.6 ng/mL) and 8.2 ± 4.2 mg (3.6 to 13.6 mg), respectively.

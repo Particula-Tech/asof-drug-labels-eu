@@ -10,7 +10,8 @@ Co-administration of sirolimus with strong inhibitors of CYP3A4 or inducers of C
 Cyclosporine (CYP3A4 substrate): The rate and extent of sirolimus absorption was significantly increased by CsA.
 Sirolimus administered concomitantly (5 mg), and at 2h (5 mg) and 4h (10 mg) after CsA (300 mg) resulted in increased sirolimus AUC by approximately 183%, 141% and 80% respectively.
 The effect of CsA was also reflected by increases in sirolimus Cmax and tmax.
-When given 2 hours before CsA administration, sirolimus Cmax and AUC were not affected.Single-dose sirolimus did not affect the pharmacokinetics of cyclosporine (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart.
+When given 2 hours before CsA administration, sirolimus Cmax and AUC were not affected.
+Single-dose sirolimus did not affect the pharmacokinetics of cyclosporine (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart.
 It is recommended that Rapamune be administered 4 hours after cyclosporine (microemulsion).
 
 Rifampicin (CYP3A4 inducer): Administration of multiple doses of rifampicin decreased sirolimus whole blood concentrations following a single 10 mg dose of Rapamune oral solution.
@@ -22,7 +23,6 @@ Co-administration of sirolimus and ketoconazole is not recommended (Section 4.4)
 
 Voriconazole (CYP3A4 inhibitor): Co-administration of sirolimus (2 mg single dose) with multiple-dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 100 mg every 12 hours for 8 days) in healthy subjects has been reported to increase sirolimus Cmax and AUC by an average of 7-fold and 11-fold respectively.
 Co-administration of sirolimus and voriconazole is not recommended (Section 4.4).
-
 Diltiazem (CYP3A4 inhibitor): The simultaneous oral administration of 10 mg of Rapamune oral solution and 120 mg of diltiazem significantly affected the bioavailability of sirolimus.
 Sirolimus Cmax, tmax, and AUC were increased 1.4-fold, 1.3-fold, and 1.6-fold, respectively.
 Sirolimus did not affect the pharmacokinetics of either diltiazem or its metabolites desacetyldiltiazem and desmethyldiltiazem.
@@ -61,7 +61,7 @@ No clinically significant pharmacokinetic interaction was observed between sirol
 
 [Rapamune 2 mg/2 ml oral solution]
 
-(all sentences already above)
+Moderate and weak inhibitorsof CYP3A4 may decrease the metabolism of sirolimus and increase sirolimus blood levels (e.g. calcium channel blockers: nicardipine; antifungal agents: clotrimazole, fluconazole; antibiotics: troleandomycin; other substances: bromocriptine, cimetidine, danazol, protease inhibitors).
 
 [Rapamune 5 mg/5 ml oral solution]
 
@@ -71,6 +71,8 @@ No clinically significant pharmacokinetic interaction was observed between sirol
 
 Sirolimus is extensively metabolized by the CYP3A4 isozyme in the intestinal wall and liver.
 
+Single-dose sirolimusdid not affect the pharmacokinetics of cyclosporine (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart.
+
 Ketoconazole (CYP3A4 inhibitor): Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure from Rapamune oral solution as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.3-fold, 1.4-fold, and 10.9-fold, respectively.
 
 Oral contraceptives: No clinically significant pharmacokinetic interaction was observed between Rapamune oral solution and 0.3 mg norgestrel/ 0.03 mg ethinyl estradiol.
@@ -79,6 +81,4 @@ Inducers of CYP3A4 may increase the metabolism of sirolimus and decrease sirolim
 
 [Rapamune 2 mg coated tablets]
 
-Cyclosporine (CYP3A4 substrate): The rate and extent of sirolimus was significantly increased by CsA.
-Sirolimus administered concomitantly (5 mg), and at 2h (5 mg) and 4h (10 mg) after CsA
-(300 mg) resulted in increased sirolimus AUC by approximately 183%, 141% and 80% respectively.
+(all sentences already above)
