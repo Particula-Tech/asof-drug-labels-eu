@@ -2,12 +2,12 @@
 
 Interaction with other medicinal products:
 
-Coumarin anticoagulants: altered coagulation parameters and/or bleeding have been reported in patients taking Xeloda concomitantly with coumarin-derivative anticoagulants such as warfarin and phenprocoumon.
-The mechanism of interaction with coumarin-derivative anticoagulants is unclear.
+Coumarin-derivative anticoagulants: altered coagulation parameters and/or bleeding have been reported in patients taking Xeloda concomitantly with coumarin-derivative anticoagulants such as warfarin and phenprocoumon.
 These events occurred within several days and up to several months after initiating Xeloda therapy and, in a few cases, within one month after stopping Xeloda.
-Patients taking coumarin-derivative anticoagulants concomitantly with Xeloda should be monitored regularly for alterations in their coagulation parameters (PT or INR).
-
-Phenytoin: increased phenytoin plasma concentrations have been reported during concomitant use of Xeloda with phenytoin.
+In a clinical pharmacokinetic interaction study, after a single 20 mg dose of warfarin, Xeloda treatment increased the AUC of S-warfarin by 57% with a 91% increase in INR value.
+Since metabolism of R-warfarin was not affected, these results indicate that capecitabine down-regulates isozyme 2C9, but has no effect on isozymes 1A2 and 3A4.
+Patients taking coumarin-derivative anticoagulants concomitantly with Xeloda should be monitored regularly for alterations in their coagulation parameters (PT or INR) and the anti-coagulant dose adjusted accordingly.
+Phenytoin: increased phenytoin plasma concentrations resulting in symptoms of phenytoin intoxication in single cases have been reported during concomitant use of Xeloda with phenytoin.
 Patients taking phenytoin concomitantly with Xeloda should be regularly monitored for increased phenytoin plasma concentrations.
 
 Folinic acid: a combination study with Xeloda and folinic acid indicated that folinic acid has no major effect on the pharmacokinetics of Xeloda and its metabolites.
@@ -23,7 +23,7 @@ There was a small increase in plasma concentrations of capecitabine and one meta
 Allopurinol: interactions with allopurinol have been observed for 5-FU; with possible decreased efficacy of 5-FU.
 Concomitant use of allopurinol with Xeloda should be avoided.
 
-Interaction with cytochrome P-450: during in vitro evaluations, at a concentration of 100 µmol/l, capecitabine and its metabolites had no significant effect on the activity of human hepatic microsomal P-450 isozymes 1A2, 2A6, 2C9, 2C19, 2E1, 2D6 and 3A4.
+Interaction with cytochrome P-450: For potential interactions with isozymes 1A2, 2C9 and 3A4, see interactions with coumarin-derivative anticoagulation.
 
 Interferon alpha: the MTD of Xeloda was 2000 mg/m2 per day when combined with interferon alpha-2a (3 MIU/m2 per day) compared to 3000 mg/m2 per day when Xeloda was used alone.
 

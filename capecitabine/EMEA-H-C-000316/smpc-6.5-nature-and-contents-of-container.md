@@ -1,9 +1,9 @@
-# 6.5 Nature and content of container
+# 6.5 Nature and contents of container
 
 Nature: PVC/PE/PVDC blisters
 
 Content: 60 film-coated tablets (6 blisters of 10 tablets)
 
-[Xeloda 500 mg film-coated tablets]
+[Xeloda®500 mg film-coated tablets]
 
 Content: 120 film-coated tablets (12 blisters of 10 tablets)

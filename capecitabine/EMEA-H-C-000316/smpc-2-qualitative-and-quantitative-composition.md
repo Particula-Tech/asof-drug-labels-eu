@@ -4,6 +4,6 @@
 
 For excipients, see 6.1.
 
-[Xeloda 500 mg film-coated tablets]
+[Xeloda®500 mg film-coated tablets]
 
 500 mg capecitabine
