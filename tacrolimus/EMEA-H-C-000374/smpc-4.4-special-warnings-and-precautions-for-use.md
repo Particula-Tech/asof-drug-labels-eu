@@ -1,0 +1,36 @@
+# 4.4 Special warnings and special precautions for use
+
+The effect of treatment with Protopic ointment on the developing immune system of children, especially the young, has not yet been established and this should be taken into account when prescribing to this age group (see 4.1).
+
+The use of Protopic ointment has not been evaluated in children below the age of 2 years.
+
+Exposure of the skin to sunlight should be minimised and the use of ultraviolet (UV) light from a solarium, therapy with UVB or UVA in combination with psoralens (PUVA) should be avoided during use of Protopic ointment (see 5.3).
+Physicians should advise patients on appropriate sun protection methods, such as minimisation of the time in the sun, use of a sunscreen product and covering of the skin with appropriate clothing.
+
+Emollients should not be applied to the same area within 2 hours of applying Protopic ointment.
+Concomitant use of other topical preparations has not been assessed.
+There is no experience with concomitant use of systemic steroids or immunosuppressive agents.
+
+Protopic ointment has not been evaluated for its efficacy and safety in the treatment of clinically infected atopic dermatitis.
+Before commencing treatment with Protopic ointment, clinical infections at treatment sites should be cleared.
+Patients with atopic dermatitis are predisposed to superficial skin infections.
+Treatment with Protopic may be associated with an increased risk of herpes simplex virus infection (including herpes, cold sores and eczema herpeticum [Kaposi’s varicelliform eruption]).
+In the presence of these infections, the balance of risks and benefits associated with Protopic use should be evaluated.
+Beyond 2 years of treatment, the potential for local immunosuppression (possibly resulting in infections or cutaneous malignancies) is unknown.
+
+Lymphadenopathy was uncommonly (0.8%) reported in clinical trials.
+The majority of these cases related to infections (skin, respiratory tract, tooth) and resolved with appropriate antibiotic therapy.
+Transplant patients receiving immunosuppressive regimens (e.g. systemic tacrolimus) are at increased risk for developing lymphoma; therefore patients who receive Protopic and who develop lymphadenopathy should be monitored to ensure that the lymphadenopathy resolves.
+In case of persistent lymphadenopathy, the aetiology of the lymphadenopathy should be investigated.
+In the absence of a clear aetiology for the lymphadenopathy or in the presence of acute infectious mononucleosis, discontinuation of Protopic should be considered.
+
+Care should be taken to avoid contact with eyes and mucous membranes.
+If accidentally applied to these areas, the ointment should be thoroughly wiped off and/or rinsed off with water.
+The use of Protopic ointment under occlusion has not been studied in patients.
+Occlusive dressings are not recommended.
+As with any topical medicinal product, patients should wash their hands after application if the hands are not intended for treatment.
+
+Tacrolimus is extensively metabolised in the liver and although blood concentrations are low following topical therapy, the ointment should be used with caution in patients with hepatic failure (see 5.2).
+
+The use of Protopic ointment in patients with genetic epidermal barrier defects such as Netherton’s syndrome is not recommended due to the potential for permanently increased systemic absorption of tacrolimus.
+The safety of Protopic ointment has not been established in patients with generalised erythroderma.

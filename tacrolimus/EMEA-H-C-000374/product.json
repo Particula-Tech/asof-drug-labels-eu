@@ -1,0 +1,16 @@
+{
+  "active_substance": "tacrolimus",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000374",
+  "eu_number": "EU/1/02/201",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2002-02-27",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/protopic",
+  "molecule": "tacrolimus",
+  "molecule_name": "TACROLIMUS",
+  "name": "Protopic",
+  "register_name": "Protopic",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h201.htm"
+}
