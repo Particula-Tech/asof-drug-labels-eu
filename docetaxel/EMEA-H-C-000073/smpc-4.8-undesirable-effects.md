@@ -38,14 +38,14 @@ Fluid retention
 
 Fluid retention has been reported in 64.1% (6.5% severe) of patients receiving the recommended premedication compared with 81.6% (22.4% severe) in patients without premedication.
 Events such as peripheral oedema and less frequently pleural effusion, pericardial effusion, ascites, lacrymation with or without conjuctivitis and weight gain have been reported.
-The peripheral oedema usually starts at the lower extremities and may become generalised with a weight gain of 3 kgs or more.
+Dehydration and pulmonary oedema have rarely been reported.
+The peripheral oedema usually starts at the lower extremities and may become generalised with a weight gain of 3 kg or more.
 Fluid retention is cumulative in incidence and severity.
 The onset of moderate and severe retention is delayed (median cumulative dose: 818.9 mg/m2) in patients with premedication compared with patients without premedication (median cumulative dose: 489.7 mg/m2); however, it has been reported in some patients during the early courses of therapy.
 The median cumulative dose to treatment discontinuation was more than 1000 mg/m2 in patients receiving the recommended premedication.
 The median time to fluid retention reversibility was 16.4 weeks (range 0 to 42 weeks) in patients receiving the recommended premedication.
 
 Fluid retention has not been accompanied by acute episodes of oliguria or hypotension.
-Dehydration has been reported rarely in association with fluid retention.
 
 Gastrointestinal
 
@@ -58,13 +58,15 @@ Taste perversion has been reported in 10.1% of the patients (0.07% severe).
 
 Gastrointestinal bleeding has been seen in 1.4% of the patients (0.3% severe).
 
-Rare occurences of gastrointestinal perforation and neutropenic enterocolitis have been reported.
+Rare occurences of dehydration as a consequence of gastrointestinal events, gastrointestinal perforation and neutropenic enterocolitis have been reported.
 
 Neurologic
 
-Mild to moderate neuro-sensory signs characterised by paresthesia, dysesthesia or pain including burning were reported in 45.9% of patients and were considered severe in 4.1% of the cases.
+Mild to moderate neuro-sensory signs characterised by paresthesia, dysesthesia or pain including burning were reported in 45.9% of patients.
 
-Neuro-motor events mainly characterised by weakness were reported in 13.8% of patients and were severe in 4% of the patients.
+Neuro-motor events mainly characterised by weakness were reported in 13.8% of patients.
+
+The development of severe peripheral neurotoxicity has been observed in 4% of patients and requires a reduction of dose (see sections “Posology and method of administration” and “Special warnings and special precautions for use”)
 
 The events were spontaneously reversible within 3 months in 35.3% of patients with neurotoxicity for whom data is available.
 
@@ -74,15 +76,15 @@ Hypotension occurred in 3.8% of the patients and required therapy in 0.7% of the
 Dysrhythmia occurred in 4.1% of the patients and was severe in 0.7% of the patients.
 Other meaningful cardiovascular events included hypertension (2.4%) or heart failure (0.46%); the relationship of these findings to the administration of docetaxel has not been clearly defined.
 
-Venous thromboembolic events have been rarely reported.
+Venous thromboembolic events have rarely been reported.
 
 Rare cases of myocardial infarction have been reported.
 
 Infusion site reactions
 
 Infusion site reactions were generally mild and occurred in 5.6% of the patients, and consisted of hyperpigmentation, inflammation, redness or dryness of the skin, phlebitis or extravasation and swelling of the vein.
-
 Hepatic
+
 Increases in serum levels of AST, ALT, bilirubin and alkaline phosphatase greater than 2.5 times the ULN were observed in less than 5% of the patients.
 
 Others
@@ -92,6 +94,8 @@ Alopecia was reversible in 13% of the patients for whom data is available; the m
 Asthenia was observed in 62.6% of patients and was severe in 11.2% of the patients.
 Arthralgias and myalgias were observed in 8.6% and 20% of the patients, respectively and were generally considered mild to moderate.
 Dyspnea was reported in 16.1% (2.7% severe) of the patients and was frequently associated with acute hypersensitivity reactions, respiratory infections, and cancerous lung involvement.
+Acute respiratory distress syndrome and interstitial pneumonia have rarely been reported.
 
-Generalized or localized pain has been observed in 16.5% of the patients and was severe in 0.8% of patients.
+Generalised or localised pain has been observed in 16.5% of the patients and was severe in 0.8% of patients.
 Chest pain was seen in 4.5% of patients (0.4% severe) without any cardiac or respiratory involvement.
+Radiation recall phenomena have rarely been reported.

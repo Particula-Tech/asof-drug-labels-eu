@@ -13,6 +13,7 @@ Docetaxel was found to be cytotoxic in vitro against various murine and human tu
 Docetaxel achieves high intracellular concentrations with a long cell residence time.
 In addition, docetaxel was found to be active on some but not all cell lines overexpressing the p-glycoprotein which is encoded by the multidrug resistance gene.
 In vivo, docetaxel is schedule independent and has a broad spectrum of experimental antitumour activity against advanced murine and human grafted tumours.
+
 5.1.2 Clinical data
 
 Breast cancer
