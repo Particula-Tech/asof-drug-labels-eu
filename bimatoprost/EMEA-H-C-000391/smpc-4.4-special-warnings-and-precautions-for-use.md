@@ -3,6 +3,7 @@
 Before treatment is initiated, patients should be informed of the possibility of eyelash growth, darkening of the eyelid skin and increased iris pigmentation since these have been observed during treatment with Lumigan.
 Some of these changes may be permanent, and may lead to differences in appearance between the eyes when only one eye is treated.
 The change in iris pigmentation occurs slowly and may not be noticeable for several months.
+At 12 months, the incidence was 1.5% and did not increase following 3 years treatment.
 Lumigan contains the preservative benzalkonium chloride, which may be absorbed by soft contact lenses.
 Contact lenses should be removed prior to instillation and may be reinserted 15 minutes following administration.
 
