@@ -3,7 +3,8 @@
 There are no data on the pharmacokinetics and safety of ritonavir in patients with significant hepatic or renal dysfunction.
 Ritonavir is principally metabolised and eliminated by the liver.
 Therefore, caution should be exercised when administering this medicine to patients with impaired hepatic function (see section 4.3 Contraindications).
-The safety and efficacy of ritonavir in children below the age of 2 have not been established.
+
+The safety and efficacy of ritonavir in children below the age of 2 years have not been established.
 
 Human pharmacokinetic data for combination of ritonavir with antiretroviral medicinal products other than zidovudine and didanosine (ddI) are not yet available.
 Although the clinical use of combinations with zalcitabine (ddC) and stavudine (d4T) in a relatively limited number of patients did not seem to be associated with unfavourable effects, the use of combinations of ritonavir with other nucleoside analogues should be guided by cautious therapeutic and safety monitoring.
@@ -16,7 +17,7 @@ It is advisable to monitor renal function in patients with renal function impair
 A pharmacokinetic study demonstrated that ritonavir extensively inhibits the metabolism of saquinavir resulting in greatly increased saquinavir plasma concentrations (see section 4.5 Interaction with other medicinal products and other forms of interaction).
 Doses greater than 400 mg twice daily of either medicine were associated with an increased incidence of adverse events.
 
-Norvir soft capsules contain 12 % ethanol, therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.
+Norvir oral solution contains alcohol (43 % v/v), therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.
 
 There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in haemophiliac patients type A and B treated with protease inhibitors.
 In some patients additional factor VIII was given.
@@ -42,5 +43,9 @@ Particular caution should be used when prescribing sildenafil in patients receiv
 Co-administration of ritonavir with sildenafil is expected to substantially increase sildenafil concentrations (11-fold increase in AUC) and may result in sildenafil-associated adverse events, including hypotension, syncope, visual changes and prolonged erection (see also section 4.5 Interactions with other medicinal products).
 
 The HMG-CoA reductase inhibitors simvastatin and lovastatin are highly dependent on CYP3A for metabolism, thus concomitant use of Norvir with simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
-Caution must also be exercised and reduced doses should be considered if Norvir is used concurrently with atorvastatin or cerivastatin, which are metabolised to a lesser extent by CYP3A.
+Caution must also be exercised and reduced doses should be considered if Norvir is used concurrently with atorvastatin, which is metabolised to a lesser extent by CYP3A.
 If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fluvastatin is recommended (see section 4.5 Interaction with other medicinal products and other forms of interaction).
+
+[Norvir 100 mg soft capsules]
+
+Norvir soft capsules contain alcohol (12 % w/w), therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.

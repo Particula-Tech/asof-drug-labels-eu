@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antiviral for systemic use, ATC code: J05A E03
+Pharmaco-therapeutic group: antiviral for systemic use, ATC code: J05A E03
 
 Ritonavir is an orally active peptidomimetic inhibitor of the HIV-1 and HIV-2 aspartyl proteases.
 Inhibition of HIV protease renders the enzyme incapable of processing the gag-pol polyprotein precursor which leads to the production of HIV particles with immature morphology that are unable to initiate new rounds of infection.
@@ -21,7 +21,6 @@ Some patients receiving ritonavir monotherapy developed HIV strains with decreas
 Serial genotypic and phenotypic analysis indicated that susceptibility to ritonavir declined in an ordered and stepwise fashion.
 Initial mutations occurred at position 82 from wildtype valine to usually alanine or phenylalanine (V82A/F).
 Viral strains isolated in vivo without a change at codon 82 did not have decreased susceptibility to ritonavir.
-
 Cross-resistance to other antiretrovirals
 
 Serial HIV isolates obtained from six patients during ritonavir therapy showed a decrease in ritonavir susceptibility in vitro but did not demonstrate a concordant decrease in susceptibility to saquinavir in vitro when compared to matched baseline isolates.
@@ -35,11 +34,11 @@ The effects of ritonavir (alone or combined with other antiretroviral agents) on
 The following studies are the most important.
 
 Adult Use
-A controlled study with ritonavir as add-on therapy in HIV-1 infected patients extensively pre-treated with nucleoside analogues and baseline CD4 cell counts ≤ 100 cells/μl showed a reduction in mortality and AIDS defining events.
-The mean average change from baseline over 16 weeks for HIV RNA levels was -0.79 log10 (maximum mean decrease: 1.29 log10) in the ritonavir group versus -0.01 log10 in the control group.
+A controlled study with ritonavir as add-on therapy in HIV-1 infected patients extensively pre-treated with nucleoside analogues and baseline CD4 cell counts � 100 cells/�l showed a reduction in mortality and AIDS defining events.
+The mean average change from baseline over 16 weeks for HIV RNA levels was -0.79 log10 (maximum mean decrease: 1.29 log10) in the ritonavir group versus-0.01 log10 in the control group.
 The most frequently used nucleosides in this study were zidovudine, stavudine, didanosine and zalcitabine.
 
-In a study recruiting less advanced HIV-1 infected patients (CD4 200-500 cells/μl) without previous antiretroviral therapy, ritonavir in combination with zidovudine or alone reduced viral load in plasma and increased CD4 count.
+In a study recruiting less advanced HIV-1 infected patients (CD4 200-500 cells/�l) without previous antiretroviral therapy, ritonavir in combination with zidovudine or alone reduced viral load in plasma and increased CD4 count.
 The effects of ritonavir monotherapy seemed unexpectedly to be at least as large as the combination therapy, a finding which has not been explained adequately.
 The mean average change from baseline over 48 weeks for HIV RNA levels was -0.88 log10 in the ritonavir group versus -0.66 log10 in the ritonavir + zidovudine group versus -0.42 log10 in the zidovudine group.
 
@@ -50,4 +49,9 @@ In an open label trial in 32 antiretroviral naive HIV-1 infected patients the co
 Paediatric Use
 In an open label trial in HIV infected, clinically stable children there was a significant difference
 (p = 0.03) in the detectable RNA levels in favour of a triple regimen (ritonavir, zidovudine and lamivudine) following 48 weeks treatment.
+
 Studies investigating optimal combinations and the long term efficacy and safety of ritonavir are ongoing.
+
+[Norvir 100 mg soft capsules]
+
+Pharmacotherapeutic group: antiviral for systemic use, ATC code: J05A E03

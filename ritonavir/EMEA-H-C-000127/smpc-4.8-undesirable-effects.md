@@ -7,13 +7,10 @@ Classification of expected frequencies:
 Very common (> 1/10)
 
 Common (> 1/100, < 1/10)
-
 Uncommon (> 1/1,000, < 1/100)
-
 Rare (> 1/10,000, < 1/1,000)
 
 Nausea, diarrhoea, vomiting, asthenia, taste perversion, circumoral and peripheral paraesthesia were very common and are felt to be clearly related to ritonavir.
-
 Nervous system disorders: Dizziness, paraesthesia, hyperaesthesia, somnolence, insomnia and anxiety were commonly reported.
 
 Cardiovascular disorders: Vasodilation was commonly reported.
@@ -21,15 +18,16 @@ Cardiovascular disorders: Vasodilation was commonly reported.
 Respiratory system disorders: Pharyngitis and cough increased were commonly reported.
 
 Gastrointestinal disorders: Very common events reported were abdominal pain.
-Dyspepsia, anorexia, local throat irritation flatulence, dry mouth, eructation and mouth ulcer were commonly reported.
+Dyspepsia, anorexia, local throat irritation, flatulence, dry mouth, eructation and mouth ulcer were commonly reported.
+
 Musculoskeletal system disorders: Increased CPK and myalgia were commonly reported.
 Myositis was reported rarely.
 Rarely, rhabdomyolysis has been reported with protease inhibitors, particularly in combination with nucleoside analogues.
 
 Skin and subcutaneous tissue disorders: Rash, pruritus and sweating were commonly reported.
-
 Allergic reactions including urticaria, mild skin eruptions, bronchospasm, and angioedema have been reported.
 Rare cases of anaphylaxis and Stevens-Johnson syndrome have been reported
+
 Other disorders: Very common events reported were headache.
 Fever, pain and weight loss were commonly reported.
 
@@ -57,10 +55,16 @@ Patients who exhibit these signs or symptoms should be evaluated and Norvir ther
 
 Clinical chemistry:
 
-High gamma-glutamyl transpeptidase (GGT) , high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); high aspartate transaminase (SGOT), high amylase, high uric acid low potassium and decrease of free and total thyroxin (T4) values were commonly reported.
+High gamma-glutamyl transpeptidase (GGT) , high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); high aspartate transaminase (SGOT), high amylase, high uric acid, low potassium and decrease of free and total thyroxin (T4) values were commonly reported.
 Uncommon events were high glucose, low total calcium, high magnesium, high total bilirubin, high alkaline phosphatase.
 
 Haematology:
 
 Low white blood cell (WBC) , low haemoglobin, low neutrophils and high eosinophils were commonly reported.
 Uncommon events were high WBC, high neutrophils and high prothrombin time.
+
+[Norvir 100 mg soft capsules]
+
+Dyspepsia, anorexia, local throat irritation flatulence, dry mouth, eructation and mouth ulcer were commonly reported.
+
+High gamma-glutamyl transpeptidase (GGT) , high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); high aspartate transaminase (SGOT), high amylase, high uric acid low potassium and decrease of free and total thyroxin (T4) values were commonly reported.

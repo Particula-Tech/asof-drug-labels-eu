@@ -1,3 +1,7 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
+EU/1/96/016/001
+
+[Norvir 100 mg soft capsules]
+
 EU/1/96/016/003

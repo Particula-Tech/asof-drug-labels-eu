@@ -48,6 +48,9 @@ Concurrent ritonavir 400 mg twice daily significantly increases the concentratio
 In a study in 10 patients nelfinavir 750 mg and ritonavir 400 mg twice daily yielded slightly higher nelfinavir AUC (160 %), Cmax (121 %) and Ctrough (123 %) than historical data for nelfinavir 750 mg three times daily monotherapy.
 The AUC of M8 was increased by 347 %.
 
+Amprenavir: concentrations of amprenavir are increased when co-administered with ritonavir due to inhibition of the metabolism of amprenavir mediated by Cytochrome P450 isoenzymes.
+Booster doses of ritonavir given together with amprenavir result in clinically significant increases in amprenavir AUC and C(min) with variable effects on maximum concentration.
+
 Efavirenz: in healthy volunteers receiving 500 mg ritonavir twice daily with efavirenz 600 mg once daily, the steady state AUC of efavirenz was increased by 21 %.
 An associated increase in the AUC of ritonavir of 17 % was observed.
 Patients using this dose regimen have experienced a higher frequency of adverse events (eg, dizziness, nausea, paraesthesia) and laboratory abnormalities (elevated liver enzymes).
@@ -59,7 +62,6 @@ Sildenafil: co-administration of sildenafil 100 mg single dose with ritonavir 50
 At 24 hours after sildenafil dosing, plasma sildenafil concentrations were approximately 200 ng/ml, compared to 5 ng/ml when sildenafil was administered alone.
 Sildenafil had no effect on the pharmacokinetics of ritonavir.
 On the basis of these data, concomitant use of sildenafil with ritonavir is not recommended and in no case should sildenafil doses exceed 25 mg within 48 hours (see also section 4.4 Special warnings and special precautions for use).
-
 Ketoconazole: concomitant administration of ritonavir and ketoconazole resulted in markedly elevated ketoconazole plasma levels: mean AUC0-24 increased 3.4 fold and Cmax increased 1.6 fold.
 The mean half-life of ketoconazole increased from 2.7 to 13.2 h. Because of the large increases in the two agents, doses of ketoconazole 200 mg/day or greater should not be used concomitantly with ritonavir without assessing the risk and benefits.
 This interaction can have serious gastrointestinal and hepatic consequences.
@@ -71,6 +73,7 @@ Caution is warranted regarding alprazolam co-administration during the first sev
 
 Triazolam: in a published study, co-administration of short-term ritonavir and triazolam resulted in a very large (>20 fold) increase in the AUC of triazolam.
 These data support that triazolam and ritonavir should not be co-administered (see section 4.3 Contraindications).
+
 Zolpidem: in a published study, co-administration of short-term ritonavir and zolpidem resulted in a small (<30 %) increase in the AUC of zolpidem.
 These data support that zolpidem and ritonavir may be co-administered with careful monitoring for excessive sedative effects.
 
@@ -78,8 +81,8 @@ Fusidic acid: co-administration of ritonavir with fusidic acid is expected to si
 
 HMG-CoA reductase inhibitors: HMG-CoA reductase inhibitors which are highly dependent on CYP3A metabolism, such as lovastatin and simvastatin, are expected to have markedly increased plasma concentrations when co-administered with Norvir.
 Since increased concentrations of HMG-CoA reductase inhibitors may cause myopathy, including rhabdomyolysis, the combination of these medicinal products with Norvir is not recommended.
-Atorvastatin and cerivastatin are less dependent on CYP3A for metabolism.
-When used with Norvir, the lowest possible doses of atorvastatin and cerivastatin should be administered.
+Atorvastatin is less dependent on CYP3A for metabolism.
+When used with Norvir, the lowest possible doses of atorvastatin should be administered.
 The metabolism of pravastatin and fluvastatin is not dependent on CYP3A, and interactions are not expected with Norvir.
 If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fluvastatin is recommended.
 
@@ -109,3 +112,7 @@ Because ritonavir is highly protein bound, the possibility of increased therapeu
 
 Cardiac and neurologic events have been reported when ritonavir has been co-administered with disopyramide, mexiletine, nefazadone, or fluoxetine.
 The possibility of drug interaction cannot be excluded.
+
+[Norvir 100 mg soft capsules]
+
+Amprenavir: concentrations of amprenavir, are increased when co-administered with ritonavir due to inhibition of the metabolism of amprenavir mediated by Cytochrome P450 isoenzymes.
