@@ -6,9 +6,7 @@ At very high doses (≥ 500 mg/kg/day) degenerative changes in the kidney (such 
 Furthermore, irbesartan induced hyperplasia/hypertrophy of the juxtaglomerular cells (in rats at ≥ 90 mg/kg/day, in macaques at ≥ 10 mg/kg/day).
 All of these changes were considered to be caused by the pharmacological action of irbesartan.
 For therapeutic doses of irbesartan in humans, the hyperplasia/ hypertrophy of the renal juxtaglomerular cells does not appear to have any relevance.
-
 There was no evidence of mutagenicity, clastogenicity or carcinogenicity.
-
 Animal studies with irbesartan showed transient toxic effects (increased renal pelvic cavitation, hydroureter or subcutaneous oedema) in rat foetuses, which were resolved after birth.
 In rabbits, abortion or early resorption were noted at doses causing significant maternal toxicity, including mortality.
 No teratogenic effects were observed in the rat or rabbit.
