@@ -4,7 +4,7 @@ Pharmacotherapeutic Group: other antiglaucoma preparations.
 
 ATC code: S01E E04
 
-Travoprost, a prostaglandin F2� analogue, is a full agonist which is highly selective and has a high affinity for the prostaglandin FP receptor, and reduces the intraocular pressure by increasing the outflow of aqueous humour.
+Travoprost, a prostaglandin F2α analogue, is a full agonist which is highly selective and has a high affinity for the prostaglandin FP receptor, and reduces the intraocular pressure by increasing the outflow of aqueous humour.
 Reduction of the intraocular pressure in man starts about 2 hours after administration and maximum effect is reached after 12 hours.
 Pressure reduction is maintained for at least 24 hours.
 

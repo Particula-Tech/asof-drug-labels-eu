@@ -7,7 +7,7 @@ The discontinuation rate due to ocular hyperaemia was 2.1%.
 In phase III clinical studies ranging from 6 to 12 months in duration, hyperaemia decreased over time.
 
 The following undesirable effects assessed as definitely, probably or possibly related to treatment were reported during clinical trials and post-marketing experience with TRAVATAN.
-Their incidence listed below is defined using the following convention: very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100) and rare (>1/10,000, <1/1000).Adverse reactions from post-marketing experience are identified with an asterisk.
+Their incidence listed below is defined using the following convention: very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100) and rare (>1/10,000, <1/1,000).Adverse reactions from post-marketing experience are identified with an asterisk.
 
 Ocular effects
 Very common: ocular hyperaemia, eyelash changes, including increased length, thickness, pigmentation and/or number of lashes.
@@ -21,9 +21,9 @@ Rare: Macular oedema*(see also section 4.4), abnormal hair growth on eyelids*.
 Systemic effects
 Body as a whole:
 Common: headache.
-
 Cardiovascular:
 Uncommon: hypotension and bradycardia.
+
 Respiratory:
 Rare: asthma*, exacerbation of asthma*
 
