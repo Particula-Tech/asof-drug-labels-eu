@@ -2,7 +2,7 @@
 
 There are no adequate data from the use of Rapamune in pregnant women.
 Studies in animals have shown reproductive toxicity (see 5.3).
-The potential risk for humans is unknown.
+The potential risk for humans in unknown.
 Rapamune should not be used during pregnancy unless clearly necessary.
 Effective contraception must be used during Rapamune therapy and for 12 weeks after Rapamune has been stopped.
 
