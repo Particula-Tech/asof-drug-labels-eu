@@ -14,7 +14,6 @@ Very common: hypophosphataemia
 
 Nervous system disorders:
 Very common: dizziness
-
 Gastrointestinal disorders:
 Very common: diarrhoea, nausea, vomiting
 Common: flatulence

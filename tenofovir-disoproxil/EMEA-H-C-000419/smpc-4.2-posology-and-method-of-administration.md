@@ -27,4 +27,4 @@ Therefore, clinical response to treatment and renal function should be closely m
 
 No dosing recommendations could be drawn for non-haemodialysis patients with creatinine clearance < 10 ml/min.
 
-Hepatic impairment: No data are available on which to make a dose recommendation for patients with hepatic impairment (see 4.4).
+Hepatic impairment: No dose adjustment is required in patients with hepatic impairment (see 4.4 and 5.2).

@@ -35,22 +35,30 @@ Tenofovir disoproxil fumarate should be avoided in antiretroviral experienced pa
 Tenofovir disoproxil fumarate has not been studied in patients over the age of 65.
 Elderly patients are more likely to have decreased renal function, therefore caution should be exercised when treating elderly patients with tenofovir disoproxil fumarate.
 
-Tenofovir disoproxil fumarate has not been evaluated in patients with hepatic impairment.
-Tenofovir and tenofovir disoproxil fumarate are not metabolised by liver enzymes, so the impact of liver impairment should be limited.
+Liver disease: Tenofovir and tenofovir disoproxil fumarate are not metabolised by liver enzymes.
+A pharmacokinetic study has been performed in non-HIV infected patients with various degrees of hepatic impairment.
+No significant pharmacokinetic alteration has been observed in these patients (see 5.2).
 
-Lactic acidosis:Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues.
+The safety and efficacy data of tenofovir disoproxil fumarate are limited in patients with significant underlying liver disorders.
+Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse events.
+In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant product information for these medicinal products.
+
+Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
+If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
+
+Lactic acidosis: Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues.
 The preclinical and clinical data suggest that the risk of occurrence of lactic acidosis, a class effect of nucleoside analogues, is low for tenofovir disoproxil fumarate.
 However, as tenofovir is structurally related to nucleoside analogues, this risk cannot be excluded.
 Early symptoms (symptomatic hyperlactatemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
 Lactic acidosis has a high mortality and may be associated with pancreatitis, liver failure or renal failure.
 Lactic acidosis generally occurred after a few or several months of treatment.
-
 Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactatemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
 
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
 Patients co-infected with hepatitis C and treated with alpha interferon and ribavirin may constitute a special risk.
 
 Patients at increased risk should be followed closely.
+
 Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
 The long-term consequences of these events are currently unknown.
 Knowledge about the mechanism is incomplete.
