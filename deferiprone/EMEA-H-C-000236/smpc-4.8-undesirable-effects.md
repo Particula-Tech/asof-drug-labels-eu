@@ -17,8 +17,7 @@ Most patients recover despite continuing therapy.
 Increased ALT values have been reported in patients taking deferiprone.
 In the majority of these patients this increase was asymptomatic and transient, and their ALT values returned to baseline without discontinuation or decreasing the dose of deferiprone (see also section 4.4.
 Special warnings and special precautions for use).
-
-Some patients experienced progression of fibrosis associated with an increase in iron overload or hepatitis C
+Some patients experienced progression of fibrosis associated with an increase in iron overload or hepatitis C.
 
 Low plasma zinc levels have been associated with deferiprone, in a minority of patients.
 The levels normalised with oral zinc supplementation.

@@ -34,7 +34,8 @@ However, in view of the genotoxicity results in preclinical testing, a carcinoge
 
 Serum ferritin concentrations/ plasma Zn2+
 It is recommended that serum ferritin concentrations be monitored monthly or at least every two months to assess the long-term effectiveness of the chelation regimen in controlling the body iron load.
-Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 μg/l.
+Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 �g/l.
+
 A monitoring of plasma Zn2+, as well as supplementation in case of a deficiency is recommended.
 
 Additional data to be made available in the future
@@ -62,6 +63,5 @@ If there is a persistent increase in serum ALT, interruption of deferiprone ther
 
 Cardiac function
 There are not sufficient data available on the effect of deferiprone on cardiac function.
-
 Discoloration of urine
 Patients should be informed that their urine may show a reddish/brown discoloration due to the excretion of the iron-deferiprone complex.
