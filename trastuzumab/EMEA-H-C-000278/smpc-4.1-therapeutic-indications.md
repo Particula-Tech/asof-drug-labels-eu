@@ -8,4 +8,6 @@ Hormone receptor positive patients must also have failed hormonal therapy, unles
 
 b) in combination with paclitaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease and for whom an anthracycline is not suitable.
 
-Herceptin should only be used in patients whose tumours have HER2 overexpression at a 3+ level as determined by immunohistochemistry (see 4.4 Special warnings and special precautions for use and 5.1 Pharmacodynamic properties).
+c) in combination with docetaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease.
+
+Herceptin should only be used in patients whose tumours have HER2 overexpression at a 3+ level as determined by immunohistochemistry (see 4.4 and 5.1).
