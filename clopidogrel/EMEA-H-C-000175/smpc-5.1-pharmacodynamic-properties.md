@@ -24,6 +24,6 @@ Analysis of total mortality as a secondary endpoint did not show any significant
 
 In a subgroup analysis by qualifying condition (myocardial infarction, ischaemic stroke, and PAD) the benefit appeared to be strongest (achieving statistical significance at p = 0.003) in patients enrolled due to PAD (especially those who also had a history of myocardial infarction) (RRR = 23.7% ; CI: 8.9 to 36.2) and weaker (not significantly different from ASA) in stroke patients (RRR = 7.3% ; CI: -5.7 to 18.7).
 In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was numerically inferior, but not statistically different from ASA (RRR = -4.0% ; CI: - 22.5 to 11.7).
-In addition, a subgroup analysis by age suggested that the benefit of clopidogrel in patients over 75 years was less than that observed in patients ≤75 years.
+In addition, a subgroup analysis by age suggested that the benefit of clopidogrel in patients over 75 years was less than that observed in patients ≤75 years
 
 Since the CAPRIE trial was not powered to evaluate efficacy of individual subgroups, it is not clear whether the differences in relative risk reduction across qualifying conditions are real, or a result of chance.

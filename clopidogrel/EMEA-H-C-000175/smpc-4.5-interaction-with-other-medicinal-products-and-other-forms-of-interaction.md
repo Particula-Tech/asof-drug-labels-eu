@@ -4,12 +4,13 @@ Warfarin: see 4.4 Special warnings and special precautions for use.
 
 Acetylsalicylic acid (ASA): ASA did not modify the clopidogrel-mediated inhibition of ADP-induced platelet aggregation, but clopidogrel potentiated the effect of ASA on collagen-induced platelet aggregation.
 However, concomitant administration of 500 mg of ASA twice a day for one day did not significantly increase the prolongation of bleeding time induced by clopidogrel intake.
-The safety of the chronic concomitant administration of ASA and clopidogrel has not been established (see 4.4 Special warnings and special precautions for use).
+A pharmacodynamic interaction between clopidogrel and acetylsalicylic acid is possible, leading to increased risk of bleeding.
+Therefore, concomitant use should be undertaken with caution (see 4.4 Special warnings and special precautions for use).
 
 Heparin: in a clinical study conducted in healthy subjects, clopidogrel did not necessitate modification of the heparin dose or alter the effect of heparin on coagulation.
 Co-administration of heparin had no effect on the inhibition of platelet aggregation induced by clopidogrel.
-However, the safety of this combination has not been established and concomitant use should be undertaken with caution (see 4.4 Special warnings and special precautions for use).
-
+A pharmacodynamic interaction between clopidogrel and heparin is possible, leading to increased risk of bleeding.
+Therefore, concomitant use should be undertaken with caution (see 4.4 Special warnings and special precautions for use).
 Thrombolytics: the safety of the concomitant administration of clopidogrel, rt-PA and heparin was assessed in patients with recent myocardial infarction.
 The incidence of clinically significant bleeding was similar to that observed when rt-PA and heparin are co-administered with ASA.
 The safety of the concomitant administration of clopidogrel with other thrombolytic agents has not been established and should be undertaken with caution (see 4.4 Special warnings and special precautions for use).

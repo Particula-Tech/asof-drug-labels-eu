@@ -1,3 +1,3 @@
 # 6.3 Shelf-life
 
-Two years
+2 years
