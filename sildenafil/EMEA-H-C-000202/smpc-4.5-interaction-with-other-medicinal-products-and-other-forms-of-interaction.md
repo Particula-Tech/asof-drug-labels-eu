@@ -36,11 +36,11 @@ Effects of sildenafil on other medicinal products
 In vitro studies:
 Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 > 150 microM).
 Given sildenafil peak plasma concentrations of approximately 1 microM after recommended doses, it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes.
-
 There are no data on the interaction of sildenafil and non-specific phosphodiesterase inhibitors such as theophylline or dipyridamole.
 
 In vivo studies:
 No significant interactions were shown when sildenafil (50 mg) was coadministered with tolbutamide (250 mg) or warfarin (40 mg), both of which are metabolised by CYP2C9.
+
 Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid (150 mg).
 
 Sildenafil (50 mg) did not potentiate the hypotensive effects of alcohol in healthy volunteers with mean maximum blood alcohol levels of 80 mg/dl.
@@ -53,11 +53,3 @@ These additional blood pressure reductions were of a similar magnitude to those 
 Sildenafil (100 mg) did not affect the steady state pharmacokinetics of the HIV protease inhibitors, saquinavir and ritonavir, both of which are CYP3A4 substrates.
 
 Consistent with its known effects on the nitric oxide/cGMP pathway (see Section 5.1 Pharmacodynamic properties), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its coadministration with nitric oxide donors or nitrates in any form is therefore contra-indicated (see Section 4.3 Contra-indications).
-
-[VIAGRA 50 mg film-coated tablets]
-
-Coadministration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1200 mg tid) with sildenafil (100 mg single dose) resulted in a 140 % increase in sildenafil Cmax and a 210 % increase in sildenafil AUC.
-
-[VIAGRA 100 mg film-coated tablets]
-
-(all sentences already above)

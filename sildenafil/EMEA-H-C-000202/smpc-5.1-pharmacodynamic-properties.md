@@ -5,7 +5,6 @@ ATC Code: G04B E03
 
 Sildenafil is an oral therapy for erectile dysfunction.
 In the natural setting, i.e. with sexual stimulation, it restores impaired erectile function by increasing blood flow to the penis.
-
 The physiological mechanism responsible for erection of the penis involves the release of nitric oxide (NO) in the corpus cavernosum during sexual stimulation.
 Nitric oxide then activates the enzyme guanylate cyclase, which results in increased levels of cyclic guanosine monophosphate (cGMP), producing smooth muscle relaxation in the corpus cavernosum and allowing inflow of blood.
 
