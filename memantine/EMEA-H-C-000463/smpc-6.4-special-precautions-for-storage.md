@@ -1,3 +1,3 @@
 # 6.4 Special precautions for storage
 
-No special precautions for storage.
+Do not store above 30ºC.
