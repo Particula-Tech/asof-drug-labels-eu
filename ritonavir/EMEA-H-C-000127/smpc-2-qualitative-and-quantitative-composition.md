@@ -2,7 +2,7 @@
 
 Norvir oral solution contains 80 mg of ritonavir per ml.
 
-For excipients, see section 6.1 List of excipients
+For excipients, see 6.1
 
 [Norvir 100 mg soft capsules]
 

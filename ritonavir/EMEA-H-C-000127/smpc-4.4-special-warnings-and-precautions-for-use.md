@@ -38,8 +38,13 @@ Consideration should be given to measurement of blood glucose.
 Lipid testing should be performed prior to initiating ritonavir therapy and at periodic intervals during therapy.
 Lipid disorders should be managed as clinically appropriate.
 The mechanisms of these events and long term consequences, such as an increased risk of cardiovascular disease, are currently unknown.
+
 Particular caution should be used when prescribing sildenafil in patients receiving ritonavir.
 Co-administration of ritonavir with sildenafil is expected to substantially increase sildenafil concentrations (11-fold increase in AUC) and may result in sildenafil-associated adverse events, including hypotension, syncope, visual changes and prolonged erection (see also section 4.5 Interactions with other medicinal products).
+
+The HMG-CoA reductase inhibitors simvastatin and lovastatin are highly dependent on CYP3A for metabolism, thus concomitant use of Norvir with simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
+Caution must also be exercised and reduced doses should be considered if Norvir is used concurrently with atorvastatin or cerivastatin, which are metabolised to a lesser extent by CYP3A.
+If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fluvastatin is recommended (see section 4.5 Interaction with other medicinal products and other forms of interaction).
 
 [Norvir 100 mg soft capsules]
 

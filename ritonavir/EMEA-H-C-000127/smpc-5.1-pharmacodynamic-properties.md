@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmaco-therapeutic group: antiviral for systemic use, ATC code: JO5A EO3
+Pharmaco-therapeutic group: antiviral for systemic use, ATC code: J05A E03
 
 Ritonavir is an orally active peptidomimetic inhibitor of the HIV-1 and HIV-2 aspartyl proteases.
 Inhibition of HIV protease renders the enzyme incapable of processing the gag-pol polyprotein precursor which leads to the production of HIV particles with immature morphology that are unable to initiate new rounds of infection.
@@ -21,6 +21,7 @@ Some patients receiving ritonavir monotherapy developed HIV strains with decreas
 Serial genotypic and phenotypic analysis indicated that susceptibility to ritonavir declined in an ordered and stepwise fashion.
 Initial mutations occurred at position 82 from wildtype valine to usually alanine or phenylalanine (V82A/F).
 Viral strains isolated in vivo without a change at codon 82 did not have decreased susceptibility to ritonavir.
+
 Cross-resistance to other antiretrovirals
 
 Serial HIV isolates obtained from six patients during ritonavir therapy showed a decrease in ritonavir susceptibility in vitro but did not demonstrate a concordant decrease in susceptibility to saquinavir in vitro when compared to matched baseline isolates.
@@ -54,4 +55,4 @@ Studies investigating optimal combinations and the long term efficacy and safety
 
 [Norvir 100 mg soft capsules]
 
-Pharmacotherapeutic group: antiviral for systemic use, ATC code: JO5A EO3
+Pharmacotherapeutic group: antiviral for systemic use, ATC code: J05A E03

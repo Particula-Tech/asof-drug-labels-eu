@@ -36,7 +36,7 @@ Paediatric Dosage Guidelines
 | 1.50 | 4.7 ml (375 mg) | 5.6 ml (450 mg) | 6.6 ml (525 mg) |
 
 * Body surface area can be calculated with the following equation
-BSA (m2) = √(Height (cm) X Weight (kg) / 3600)
+BSA (m2) = �(Height (cm) X Weight (kg) / 3600)
 
 Doses for intermediate body surface areas not included in the above table can be calculated using the following equations:
 To calculate the volume to be administered (in ml) the body surface area should be multiplied by a factor of: 3.1 for a dose of 250 mg/m2; 3.8 for one of 300 mg/m2; and by 4.4 for 350 mg/m2.
@@ -57,7 +57,7 @@ Single Protease Inhibitor (PI) containing combination regimen for adults: Treatm
 (1 capsule) twice daily increments up to 600 mg twice daily over a period of no longer than 14 days.
 
 Paediatric use (2 years and above): the recommended dosage of Norvir in children is 350 mg/m2 by mouth twice daily and should not exceed 600 mg twice daily.
-Norvir should be started at 250 mg/m2 and increased at 2 to 3 day intervals by 50 mg/m2 twice daily (please refer to the Norvir 80 mg/ml oral solution Summary of Product Characteristics)
+Norvir should be started at 250 mg/m2 and increased at 2 to 3 day intervals by 50 mg/m2 twice daily (please refer to the Norvir 80 mg/ml oral solution Summary of Product Characteristics )
 
 For older children it may be feasible to substitute soft capsules for the maintenance dose of the oral solution.
 

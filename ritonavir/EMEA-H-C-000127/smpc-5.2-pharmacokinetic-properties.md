@@ -12,7 +12,6 @@ The time to maximum concentration (Tmax) remained constant at approximately 4 ho
 
 The pharmacokinetics of ritonavir are dose-dependent: more than proportional increases in the AUC and Cmax were reported with increasing dose.
 Ingestion with food results in higher ritonavir exposure than ingestion in the fasted state.
-
 No clinically significant differences in AUC or Cmax were noted between males and females.
 Ritonavir pharmacokinetic parameters were not statistically significantly associated with body weight or lean body mass.
 

@@ -4,4 +4,4 @@
 
 [Norvir 100 mg soft capsules]
 
-1 year
+2 years
