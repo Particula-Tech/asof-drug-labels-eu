@@ -7,7 +7,6 @@ Pramipexole shows linear kinetics and a small inter-patient variation of plasma 
 In humans, the protein binding of pramipexole is very low (< 20%) and the volume of distribution is large (400 l). High brain tissue concentrations were observed in the rat (approx. 8-fold compared to plasma).
 
 Pramipexole is metabolised in man only to a small extent.
-
 Renal excretion of unchanged pramipexole is the major route of elimination.
 Approximately 90% of 14C-labelled dose is excreted through the kidneys while less than 2% is found in the faeces.
 The total clearance of pramipexole is approximately 500 ml/min and the renal clearance is approximately 400 ml/min.

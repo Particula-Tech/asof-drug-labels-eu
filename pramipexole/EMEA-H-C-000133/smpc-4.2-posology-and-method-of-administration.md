@@ -1,7 +1,7 @@
 # 4.2 Posology and method of administration
 
 The tablets should be taken orally, swallowed with water, and can be taken either with or without food.
-The daily dosage is administered in equally divided doses 3 x per day.
+The daily dosage is administered in equally divided doses 3 times a day.
 
 Initial treatment:
 Dosages should be increased gradually from a starting-dose of 0.264 mg of base (0.375 mg of salt) per day and then increased every 5 - 7 days.
@@ -14,8 +14,7 @@ Providing patients do not experience intolerable side-effects, the dosage should
 | 2 | 3 x 0.18 | 0.54 | 3 x 0.25 | 0.75 |
 | 3 | 3 x 0.35 | 1.05 | 3 x 0.5 | 1.50 |
 
-If a further dose increase is necessary the daily dose should be increased by 0.54 mg base
-(0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
+If a further dose increase is necessary the daily dose should be increased by 0.54 mg base (0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
 
 However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/ day (see section 4.8 Undesirable effects).
 
@@ -25,7 +24,7 @@ During dose escalation in three pivotal studies, efficacy was observed starting 
 Further dose adjustments should be done based on the clinical response and tolerability.
 In clinical trials approximately 5% of patients were treated at doses below 1.1 mg (1.5 mg of salt).
 In advanced Parkinson’s disease, doses higher than 1.1 mg (1.5 mg of salt) per day can be useful in patients where a reduction of the levodopa therapy is intended.
-It is recommended that the dosage of levodopa is reduced during both the dose escalation and the maintenance treatment with SIFROL, dependent on reactions in individual patients.
+It is recommended that the dosage of levodopa is reduced during both the dose escalation and the maintenance treatment with SIFROL, depending on reactions in individual patients.
 
 Treatment discontinuation:
 Abrupt discontinuation of dopaminergic therapy can lead to the development of a neuroleptic malignant syndrome.
@@ -49,19 +48,23 @@ Dosing in patients with hepatic impairment
 Dose adjustment in patients with hepatic failure is probably not necessary, as approx. 90% of absorbed drug is excreted through the kidneys.
 However, the potential influence of hepatic insufficiency on SIFROL pharmacokinetics has not been investigated.
 
-[SIFROL 0.18 mg tablet]
+[SIFROL 0.18 mg tablets]
+
+If a further dose increase is necessary the daily dose should be increased by 0.54 mg base
+(0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
 
 Abrupt discontinuation of dopaminergic therapy can lead to the development of aneuroleptic malignant syndrome.
-
-[SIFROL 0.35 mg tablet]
-
 Therefore, pramipexole should be tapered off at a rate of 0.54 mg of base
 (0.75 mg of salt) per day until the daily dose has been reduced to 0.54 mg of base (0.75 mg of salt).
 
-[SIFROL 0.7 mg tablet]
+[SIFROL 0.35 mg tablets]
 
-If a further dose increase is necessary the daily dose should be increased by 0.54 mg base (0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
+(all sentences already above)
 
-[SIFROL 1.1 mg tablet]
+[SIFROL 0.7 mg tablets]
+
+(all sentences already above)
+
+[SIFROL 1.1 mg tablets]
 
 (all sentences already above)

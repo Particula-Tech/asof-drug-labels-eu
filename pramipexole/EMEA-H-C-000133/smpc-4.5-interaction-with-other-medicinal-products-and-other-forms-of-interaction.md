@@ -6,7 +6,7 @@ As anticholinergics are mainly eliminated by biotransformation, the potential fo
 There is no pharmacokinetic interaction with selegiline and levodopa.
 
 Cimetidine reduced the renal clearance of pramipexole by approximately 34%, presumably by inhibition of the cationic secretory transport system of the renal tubules.
-Therefore, medications that are inhibitors of this active renal elimination pathway or are eliminated by this pathway, such as Cimetidine and Amantadine, may interact with pramipexole resulting in reduced clearance of either or both drugs.
+Therefore, medications that are inhibitors of this active renal elimination pathway or are eliminated by this pathway, such as cimetidine and amantadine, may interact with pramipexole resulting in reduced clearance of either or both drugs.
 Reduction of the pramipexole dose should be considered when these drugs are administered concomitantly with SIFROL.
 
 When SIFROL is given in combination with levodopa, it is recommended that the dosage of levodopa is reduced and the dosage of other anti-parkinsonian medication is kept constant while increasing the dose of SIFROL.

@@ -2,7 +2,4 @@
 
 Hallucinations or somnolence can occur.
 
-Rare cases of sudden onset of sleep have also been reported (see section 4.4 Special Warnings and Precautions for Use and section 4.8 Undesirable effects).
-These episodes can be life threatening depending on the circumstances and have been reported in some cases without awareness of warning signs.
-Patients being treated with pramipexole must be informed not to drive or engage in other activities where impaired alertness could put themselves or others at risk of serious injury or death (e.g. operating machines).
-(see section 4.5 Interaction with other medicinal products and other forms of interaction).
+Patients being treated with SIFROL and presenting with somnolence and/or sudden sleep episodes must be informed to refrain from driving or engaging in activities where impaired alertness may put themselves or others at risk of serious injury or death (e.g. operating machines) until such recurrent episodes and somnolence have resolved (see also Sections 4.4 Special warnings and special precautions for use).
