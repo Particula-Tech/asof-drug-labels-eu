@@ -1,13 +1,13 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic Group: Cytokines, ATC code L03 AA.
+
 Interferons are a family of naturally occurring proteins that are produced by eukaryotic cells in response to viral infection and other biological inducers.
 Interferons are cytokines that mediate antiviral, antiproliferative, and immunomodulatory activities.
 Three major forms of interferons have been distinguished: alpha, beta, and gamma.
 Interferons alpha and beta are classified as Type I interferons, and interferon gamma is a Type II interferon.
 These interferons have overlapping but clearly distinguishable biological activities.
 They can also differ with respect to their cellular sites of synthesis.
-
 Interferon beta is produced by various cell types including fibroblasts and macrophages.
 Natural interferon beta and AVONEX (Interferon beta-1a) are glycosylated and have a single N-linked complex carbohydrate moiety.
 Glycosylation of other proteins is known to affect their stability, activity, biodistribution, and half-life in blood.
@@ -26,4 +26,4 @@ One hundred fifty AVONEX-treated patients completed 1 year on study and 85 compl
 In the study, the cumulative percentage of patients who developed disability progression (by Kaplan-Meier life table analysis) by the end of 2 years was 35% for placebo-treated patients and 22% for AVONEX-treated patients.
 Disability progression was measured as an increase in the Expanded Disability Status Scale (EDSS) of 1.0 point, sustained for at least 6 months.
 It was also shown that there was a one-third reduction in annual relapse rate.
-This latter clinical effects was observed after more than one year of treatment.
+This latter clinical effect was observed after more than one year of treatment.

@@ -1,8 +1,6 @@
 # 4.4 Special warnings and special precautions for use
 
-There is limited long-term safety experience with AVONEX (Interferon beta-1a).
-To date, a limited number of patients have been followed for up to 2 years.
-
+There is limited long-term safety experience with AVONEX (Interferon beta-1a) beyond 2 years
 Patients should be informed of the most common adverse events associated with interferon beta administration, including symptoms of the flu-like syndrome (see 4.8 Undesirable effects).
 These symptoms tend to be most prominent at the initiation of therapy and decrease in frequency and severity with continued treatment.
 
@@ -17,8 +15,9 @@ For patients without a pre-existing seizure disorder who develop seizures during
 
 Caution should be used and close monitoring considered when administering AVONEX to patients with severe renal and hepatic failure and to patients with severe myelosuppression.
 
-Patients with cardiac disease, such as angina, congestive heart failure or arrhythmia, should be closely monitored for worsening of their clinical condition during initiation of therapy with AVONEX.
-Symptoms of the flu-like syndrome associated with AVONEX therapy may prove stressful to patients with cardiac conditions.
+Patients with cardiac disease, such as angina, congestive heart failure or arrhythmia, should be closely monitored for worsening of their clinical condition during treatment with AVONEX.
+Symptoms of the flu-like syndrome associated with AVONEX therapy may prove stressful to patients with underlying cardiac conditions.
+
 Patients should be advised about the abortifacient potential of interferon beta (see 4.6 Use during pregnancy and lactation and 5.3 Preclinical safety data).
 
 Laboratory abnormalities are associated with the use of interferons.

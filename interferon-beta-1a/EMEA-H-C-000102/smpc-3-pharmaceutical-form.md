@@ -17,9 +17,9 @@ NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER AND OF THE MANUFACTURING 
 
 Marketing Authorisation Holder: Manufacturing Authorisation Holder:
 
-BIOGEN FRANCE S.A. SOLVAY-DUPHAR B.V.
-55, Avenue des Champs Pierreux Veerweg 12
-92012 Nanterre - France 8121 AA Olst - The Netherlands
+BIOGEN FRANCE S.A. BIOGEN B.V.
+55, Avenue des Champs Pierreux World Trade Center - Strawinskylaan 757
+92012 Nanterre - France 1077XX Amsterdam - The Netherlands
 
 6.
 THERAPEUTIC INDICATION
@@ -73,7 +73,6 @@ INSTRUCTIONS FOR PROPER USE
 Take your medicine as your doctor has advised.
 The usual dose of AVONEX is 30 μg (6 million IU) (1 ml of reconstituted solution in the vial) injected once a week.
 The product should be administered, if possible, at the same time on the same day each week.
-
 -Method and route of administration:
 
 AVONEX is to be injected into the muscle.
@@ -136,6 +135,7 @@ Push the plunger carefully to remove the air without expelling more than a small
 Replace needle cover and set aside while the injection site is prepared.
 
 Injection
+
 The injection site should be chosen and cleansed with a new alcohol swab before injecting.
 Remove the plastic needle cover and insert the needle through the skin into the muscle.
 Inject slowly and remove the syringe.
@@ -163,23 +163,16 @@ To help these symptoms, your doctor may advise you to take an antipyretic analge
 Always consult your doctor before taking anything with AVONEX.
 If he or she recommends an antipyretic analgesic, follow the advice carefully: do not take more antipyretic analgesic than the recommended dose.
 
-Other less common side effects include:
+It is important to continue, and not alter, your medication unless your doctor advises you otherwise.
 
-- Palpitations • Redness or pain at the injection site
-- Back pain • Loss of appetite
-- Flushing • Joint pain
-
-- Nausea, vomiting • Difficulty sleeping
-
-- Diarrhoea • Nervousness
-- Hair loss • Rash
-
-- Irregularities and/or changes in menstrual flow
-- Fainting
+Other less common side effects include palpitations, redness or pain at the injection site, , loss of appetite, flushing, joint pain, nausea, vomiting, difficulty sleeping, diarrhoea, nervousness, hair loss, rash including itching and wheals, irregularities and/or changes in menstrual flow, fainting, hepatitis, numbness or tingling, shortness of breath, chest pain, rapid heart beat, and muscle and joint pain.
 
 There is a possibility that you may experience transient muscle weakness and/or spasticity which occur rarely in the early stages of your therapy.
 In some cases these symptoms are associated with flu-like symptoms.
 A fainting episode may occur after Avonex injection; it is normally a single episode that usually appears at the beginning of the treatment and does not recur with subsequent injections.
+
+The administration of interferons has been associated with certain autoimmune disorders, nervous system related side effects and heart disorders.
+Rare cases of heart failure, arthritis, thyroid disorders (hypo- and hyperthyroidism), confusion, emotional instability and disordered thought processes have been reported with AVONEX.
 
 Tell your doctor, pharmacist or nurse immediately if you experience any of the above effects or notice anything else unusual while you are receiving treatment with AVONEX.
 
@@ -230,7 +223,7 @@ Denmark Phone 46 – (0) 8 553 260 00
 Phone: 45 – (43) 66 64 62
 
 Deutschland and Österreich Suomi/Finland
-Biogen GmbH Suomen Astra Oy
+Biogen GmbH Astra Finland Oy
 Carl-Zeiss-Ring 6 Et. Salmitie
 85737 Ismaning Masala, 02430
 Deutschland Suomi
@@ -238,29 +231,23 @@ Phone: 49 - (0) 89 99 617/0 Phone: 358 – (0) 9 61 36 51
 España United Kingdom and Ireland
 Biogen S.A. Biogen Limited
 Ctra. Nacional I, Km. 36 Ocean House, The Ring
-
 28750 San Augustín de Guadalix - Bracknell, Berkshire RG12 1AX
-
 Madrid - United Kingdom
 España Phone: 44 – (0) 1 344 867 033
 
-Teléfono 34 - (9) 1 841 82 50
+Teléfono (34) (9) 1 848 85 00
 
-France
-Biogen France S.A.
-"Le Capitole"
-55 avenue des Champs Pierreux
-92012 Nanterre Cedex - France
-Phone: 33 – (0) 1 41 37 76 40
+France Portugal
+Biogen France S.A. Apartado 28
+"Le Capitole" Casal Colaride, Agualva
+55 avenue des Champs Pierreux 2736 Cacém Codex
+92012 Nanterre Cedex - France Portugal
+Phone: 33 – (0) 1 41 37 76 40 Telefone: 351-(0) 1 431 25 31
 
 Ελλάδα
-Genesis Pharma A.E.
-45, Βορειοu Ηπεροu
-Μαροuuοσι
-Αθηνα
-Τηλ: 30 – (0) 1 61 43 246
-Portugal
-Apartado 28
-Casal Colaride, Agualva
-2736 Cacém Codex
-Telefone: 351-(0) 1 431 25 31
+Genesis Pharma SA
+Φιλελλήνων 24
+152 32 Χαλανδρι
+Αθήνα
+Τηλ.
+30 – (0) 1 68 56 860
