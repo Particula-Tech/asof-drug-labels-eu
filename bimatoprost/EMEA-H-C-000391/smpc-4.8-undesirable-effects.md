@@ -2,7 +2,7 @@
 
 In clinical studies, over 1800 patients have been treated with Lumigan.
 On combining the data from phase III monotherapy and adjunctive Lumigan usage, the most frequently reported treatment-related adverse events were: growth of eyelashes in up to 45%, conjunctival hyperaemia (mostly trace to mild) in up to 44%, and ocular pruritus in up to 14% of patients.
-Less than 9 % of patients discontinued due to any adverse event.
+Less than 9% of patients discontinued due to any adverse event.
 
 The following undesirable effects definitely, probably or possibly related to treatment were reported during clinical trials with Lumigan.
 Most were ocular, mild to moderate, and none was serious:
