@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Selective immunosuppressive agents, ATC code: L04AA12.
+Pharmacotherapeutic group: Selective immunosuppressive agents, ATC code: L04A A12.
 
 Pharmacodynamic properties: Infliximab is a chimeric human-murine monoclonal antibody that binds with high affinity to both soluble and transmembrane forms of TNF� but not to lymphotoxin � (TNFß).
 Infliximab inhibits the functional activity of TNF� in a wide variety of in vitro bioassays.
@@ -28,7 +28,8 @@ Approximately 50% of patients were in functional Class III.
 Patients received placebo, 3 mg/kg or 10 mg/kg infliximab at weeks 0, 2 and 6, and then every 4 or 8 weeks thereafter.
 All patients were on stable methotrexate doses (median 15 mg/wk) for 6 months prior to enrolment and were to remain on stable doses throughout the study.
 Concurrent use of stable doses of oral corticosteroids (� 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted, and folate supplementation was given.
-The primary endpoints were the reduction of signs and symptoms as assessed by the American College of Rheumatology criteria , the prevention of structural joint damage, and the improvement in physical function.
+
+The primary endpoints were the reduction of signs and symptoms as assessed by the American College of Rheumatology criteria, the prevention of structural joint damage, and the improvement in physical function.
 A reduction in signs and symptoms was defined to be at least a 20% improvement (ACR20) in both tender and swollen joint counts, and in 3 of the following 5 criteria: evaluator’s global assessment, patient’s global assessment, functional/disability measure, visual analogue pain scale and erythrocyte sedimentation rate or C-reactive protein.
 Structural joint damage (erosions and joint space narrowing) in both hands and feet was measured by the change from baseline in the total van der Heijde-modified Sharp score (0-440).
 The Health Assessment Questionnaire (HAQ; scale 0-3) was used to measure patients’ average change from baseline scores over time, in physical function.
@@ -42,12 +43,13 @@ A reduction in the rate of the progression of structural joint damage (erosions 
 
 The effects observed at 54 weeks were maintained through 102 weeks.
 Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group can not be defined.
+
 Table 3
 Effects on ACR20, Structural Joint Damage and Physical Function at week 54 infliximabb
 3 mg/kg 3 mg/kg 10 mg/kg 10 mg/kg All Controla q 8 wks q 4 wks q 8 wks q 4 wks infliximabb
 
 Patients with ACR20 response/ 15/88 36/86 41/86 51/87 48/81 176/340
-patients evaluated (%)c (17%) (42%) (48%) (59%) (59%) (52%)
+Patients evaluated (%)c (17%) (42%) (48%) (59%) (59%) (52%)
 
 Total scored (van der Heijde-modified
 Sharp score)
@@ -75,7 +77,7 @@ e: HAQ = Health Assessment Questionnaire; greater values indicate less disabilit
 
 Crohn’s disease
 
-The safety and efficacy of infliximab were assessed in 108 patients with moderate to severe, active Crohn’s disease (Crohn’s Disease Activity Index (CDAI) � 220 � 400) in a randomised, double-blinded, placebo-controlled, dose-response study.
+The safety and efficacy of a single dose treatment with infliximab were assessed in 108 patients with active Crohn’s disease (Crohn’s Disease Activity Index (CDAI) � 220 � 400) in a randomised, double-blinded, placebo-controlled, dose-response study.
 Of these 108 patients, 27 were treated with the recommended dosage of infliximab 5 mg/kg.
 All patients had experienced an inadequate response to prior conventional therapies.
 Concurrent use of stable doses of conventional therapies was permitted, and 92% of patients continued to receive these medications.
@@ -89,6 +91,17 @@ Also at week 4, 13/27 (48%) of infliximab-treated patients achieved a clinical r
 A response was observed within 2 weeks, with a maximum response at 4 weeks.
 At the last observation at 12 weeks, 13/27 (48%) of infliximab-treated patients were still responding.
 
+The safety and efficacy of repeated infusions with infliximab was studied in a 1-year trial.
+A total of 573 patients with active Crohn’s disease (CDAI � 220 � 400) received a single infusion of 5 mg/kg at week 0.
+Sixty-eight of these patients (12%) belonged to the population defined in the indication (see section 4.1).
+Three hundred and thirty-five patients (58%) responding to the 5 mg/kg infusion at week 2 were randomised to one of three treatment groups; a placebo maintenance group, 5 mg/kg maintenance group and 10 mg/kg maintenance group, receiving repeated infusions at week 2, 6 and every eight weeks.
+
+At week 30, a significantly greater proportion of patients in the combined infliximab maintenance treatment group (42%) achieved clinical remission, compared with patients in the placebo maintenance group (21%).
+Median time to loss of response was 46 weeks in the combined infliximab maintenance treatment group vs. 19 weeks in the placebo maintenance group (p<0.001).
+Similar results were obtained in the subgroup analyses of the population defined in the indication (see section 4.1).
+
+Improvements in quality of life measures were seen for both the IBDQ and SF-36 scores in the infliximab maintenance groups compared with the placebo maintenance group at week 30 (p<0.001).
+
 The safety and efficacy were also assessed in a randomised, double-blinded, placebo-controlled study in 94 patients with fistulising Crohn’s disease who had fistulae that were of at least 3 months’ duration.
 Thirty-one of these patients were treated with infliximab 5 mg/kg.
 Approximately 93% of the patients had previously received antibiotic or immunosuppressive therapy.
@@ -96,9 +109,19 @@ Approximately 93% of the patients had previously received antibiotic or immunosu
 Concurrent use of stable doses of conventional therapies was permitted, and 83% of patients continued to receive at least one of these medications.
 Patients received three doses of either placebo or infliximab at weeks 0, 2 and 6.
 Patients were followed up to 26 weeks.
-The primary endpoint was the proportion of patients who experienced a clinical response, defined as � 50% reduction from baseline in the number of fistulae draining upon gentle compression on at least two consecutive visits (4 weeks apart), without an increase in medication for Crohn’s disease or surgery for Crohn’s disease.
+The primary endpoint was the proportion of patients who experienced a clinical response, defined as � 50% reduction from baseline in the number of fistulae draining upon gentle compression on at least two consecutive visits (4 weeks apart), without an increase in medication or surgery for Crohn’s disease.
 
 Sixty-eight percent (21/31) of infliximab-treated patients receiving a 5 mg/kg dose regimen achieved a clinical response vs. 26% (8/31) placebo-treated patients (p = 0.002).
 The median time to onset of response in the infliximab-treated group was 2 weeks.
 The median duration of response was 12 weeks.
 Additionally, closure of all fistulae was achieved in 55% of infliximab-treated patients compared with 13% of placebo-treated patients (p = 0.001).
+
+Ankylosing spondylitis
+Efficacy and safety were studied in a double-blind, placebo-controlled investigator initiated, multicenter study evaluating infliximab in 70 patients with active ankylosing spondylitis (disease activity [Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) score > 4] and pain [NRS score >4]).
+During the 3 month double-blind phase, patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6 (35 patients in each group).
+Starting at week 12, placebo patients were switched to infliximab and all patients subsequently received 5 mg/kg infliximab every 6 weeks up to week 54.
+
+Treatment with infliximab resulted in improvement in signs and symptoms, as assessed by the BASDAI, with 57% of infliximab treated patients achieving at least 50% reduction from baseline in BASDAI score (mean baseline score was 6.5 in the infliximab group and 6.3 in the placebo group), compared with 9% of placebo patients (p<0.01).
+Improvement was observed at week 2 and was maintained through week 54.
+Physical function and quality of life (SF36) were improved similarly.
+In the trial, efficacy was not shown in HLA-B27 negative patients (n=7).

@@ -6,7 +6,7 @@ Each Remicade vial contains 100 mg infliximab.
 Calculate the total volume of reconstituted Remicade solution required.
 
 2.
-Reconstitute each Remicade vial with 10 ml of water for injections, using a syringe equipped with a 21-gauge (0.8 mm) or smaller needle.
+Under aseptic conditions, reconstitute each Remicade vial with 10 ml of water for injections, using a syringe equipped with a 21-gauge (0.8 mm) or smaller needle.
 Remove flip-top from the vial and wipe the top with a 70% alcohol swab.
 Insert the syringe needle into the vial through the centre of the rubber stopper and direct the stream of water for injections to the glass wall of the vial.
 Do not use the vial if the vacuum is not present.
@@ -18,10 +18,9 @@ Allow the reconstituted solution to stand for 5 minutes.
 Check that the solution is colourless to light yellow and opalescent.
 The solution may develop a few fine translucent particles, as infliximab is a protein.
 Do not use if opaque particles, discoloration, or other foreign particles are present.
-
 3.
-Dilute the total volume of the reconstituted Remicade solution dose to 250 ml with 0.9% w/v sodium chloride solution for infusion.
-This can be accomplished by withdrawing a volume of the 0.9% w/v sodium chloride solution from the 250-ml glass bottle or infusion bag equal to the volume of reconstituted Remicade.
+Dilute the total volume of the reconstituted Remicade solution dose to 250 ml with sodium chloride solution for infusion 9 mg/ml (0,9%).
+This can be accomplished by withdrawing a volume of the sodium chloride solution for infusion 9 mg/ml (0,9%) from the 250-ml glass bottle or infusion bag equal to the volume of reconstituted Remicade.
 Slowly add the total volume of reconstituted Remicade solution to the 250-ml infusion bottle or bag.
 Gently mix.
 

@@ -2,7 +2,7 @@
 
 Single intravenous infusions of 1, 3, 5, 10 or 20 mg/kg of infliximab yielded dose proportional increases in the maximum serum concentration (Cmax) and area under the concentration-time curve (AUC).
 The volume of distribution at steady state (median Vd of 3.0 to 4.1 litres) was not dependent on the administered dose and indicated that infliximab is predominantly distributed within the vascular compartment.
-No time-dependency of the pharmacokinetics was observed.
+No time-dependency of the Pharmacokinetics was observed.
 The elimination pathways for infliximab have not been characterised.
 Unchanged infliximab was not detected in urine.
 No major age- or weight-related differences in clearance or volume of distribution were observed in rheumatoid arthritis patients.

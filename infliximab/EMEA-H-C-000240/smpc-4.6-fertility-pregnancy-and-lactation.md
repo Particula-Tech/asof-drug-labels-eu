@@ -1,6 +1,6 @@
 # 4.6 Pregnancy and lactation
 
-For infliximab, there is no experience in pregnant women.
+For infliximab, no clinical data on exposed pregnancies are available.
 Due to its inhibition of TNF�, infliximab administered during pregnancy could affect normal immune responses in the newborn.
 In a developmental toxicity study conducted in mice using an analogous antibody that selectively inhibits the functional activity of mouse TNF�, there was no indication of maternal toxicity, embryotoxicity or teratogenicity (see section 5.3).
 
