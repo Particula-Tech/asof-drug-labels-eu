@@ -20,7 +20,9 @@ Coadministration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, a
 210 % increase in sildenafil AUC.
 Sildenafil had no affect on saquinavir pharmacokinetics (see section 4.2 Posology and Method of Administration).
 Stronger CYP3A4 inhibitors such as ketoconazole and itraconazole would be expected to have greater effects.
+
 When a single 100 mg dose of sildenafil was administered with erythromycin, a specific CYP3A4 inhibitor, at steady state (500 mg b.i.d. for 5 days), there was a 182 % increase in sildenafil systemic exposure (AUC).
+In normal healthy male volunteers, there was no evidence of an effect of azithromycin (500 mg daily for 3 days) on the AUC, Cmax, tmax, elimination rate constant, or subsequent half-life of sildenafil or its principal circulating metabolite.
 Cimetidine (800 mg), a cytochrome P450 inhibitor and non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when coadministered with sildenafil (50 mg) to healthy volunteers.
 
 Grapefruit juice being a weak inhibitor of CYP3A4 gut wall metabolism may give rise to modest increases in plasma levels of sildenafil.
@@ -39,7 +41,6 @@ There are no data on the interaction of sildenafil and non-specific phosphodiest
 
 In vivo studies:
 No significant interactions were shown when sildenafil (50 mg) was coadministered with tolbutamide (250 mg) or warfarin (40 mg), both of which are metabolised by CYP2C9.
-
 Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid (150 mg).
 
 Sildenafil (50 mg) did not potentiate the hypotensive effects of alcohol in healthy volunteers with mean maximum blood alcohol levels of 80 mg/dl.
@@ -52,3 +53,11 @@ These additional blood pressure reductions were of a similar magnitude to those 
 Sildenafil (100 mg) did not affect the steady state pharmacokinetics of the HIV protease inhibitors, saquinavir and ritonavir, both of which are CYP3A4 substrates.
 
 Consistent with its known effects on the nitric oxide/cGMP pathway (see Section 5.1 Pharmacodynamic properties), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its coadministration with nitric oxide donors or nitrates in any form is therefore contra-indicated (see Section 4.3 Contra-indications).
+
+[VIAGRA 50 mg film-coated tablets]
+
+Coadministration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1200 mg tid) with sildenafil (100 mg single dose) resulted in a 140 % increase in sildenafil Cmax and a 210 % increase in sildenafil AUC.
+
+[VIAGRA 100 mg film-coated tablets]
+
+(all sentences already above)

@@ -1,7 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs used in erectile dysfunction.
-ATC Code: G04B E (proposed)
+ATC Code: G04B E03
 
 Sildenafil is an oral therapy for erectile dysfunction.
 In the natural setting, i.e. with sexual stimulation, it restores impaired erectile function by increasing blood flow to the penis.
@@ -32,7 +32,6 @@ Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no c
 Mild and transient differences in colour discrimination (blue/green) were detected in some subjects using the Farnsworth-Munsell 100 hue test at 1 hour following a 100 mg dose, with no effects evident after 2 hours post-dose.
 The postulated mechanism for this change in colour discrimination is related to inhibition of PDE6, which is involved in the phototransduction cascade of the retina.
 Sildenafil has no effect on visual acuity or contrast sensitivity.
-
 There was no effect on sperm motility or morphology after single 100 mg oral doses of sildenafil in healthy volunteers.
 
 Further information on clinical trials

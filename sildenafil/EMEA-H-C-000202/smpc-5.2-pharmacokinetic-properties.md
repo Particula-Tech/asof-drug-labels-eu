@@ -11,7 +11,7 @@ When sildenafil is taken with food, the rate of absorption is reduced with a mea
 
 Distribution
 
-The mean steady state volume of distribution (Vss) for sildenafil is 105 l, indicating distribution into the tissues.
+The mean steady state volume of distribution (Vd) for sildenafil is 105 l, indicating distribution into the tissues.
 Sildenafil and its major circulating N-desmethyl metabolite are both approximately 96 % bound to plasma proteins.
 Protein binding is independent of total drug concentrations.
 
