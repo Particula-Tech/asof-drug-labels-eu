@@ -10,7 +10,6 @@ Patients receiving Epivir or any other antiretroviral therapy may continue to de
 
 Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be taken.
-
 Pancreatitis: Cases of pancreatitis have occurred rarely.
 However it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease.
 Treatment with Epivir should be stopped immediately if clinical signs, symptoms or laboratory abnormalities suggestive of pancreatitis occur.
@@ -29,10 +28,19 @@ Patients co-infected with hepatitis C and treated with alpha interferon and riba
 
 Patients at increased risk should be followed closely .
 
+Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
+There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues.
+The main adverse events reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlactatemia, hyperlipasemia).
+These events are often transitory.
+Some late-onset neurological disorders have been reported (hypertonia, convulsion, abnormal behaviour).
+Whether the neurological disorders are transient or permanent is currently unknown.
+Any child exposed in utero to nucleoside and nucleotide analogues, even HIV-negative children, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in case of relevant signs or symptoms.
+These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
+
 Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
 The long-term consequences of these events are currently unknown.
 Knowledge about the mechanism is incomplete.
-A connection between visceral lipomatosis and protease inhibitors (Pis) and lipoatrophy and nucleoside reverse transcriptase inhibitors (NRTIs) has been hypothesised.
+A connection between visceral lipomatosis and protease inhibitors (PIs) and lipoatrophy and nucleoside reverse transcriptase inhibitors (NRTIs) has been hypothesised.
 A higher risk of lipodystrophy has been associated with individual factors such as older age, and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
 Clinical examination should include evaluation for physical signs of fat redistribution.
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
@@ -42,7 +50,6 @@ Liver disease: If lamivudine is being used concomitantly for the treatment of HI
 
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk of severe and potentially fatal hepatic adverse events.
 In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant product information for these medicinal products.
-
 If Epivir is discontinued in patients co-infected with hepatitis B virus, periodic monitoring of liver function tests and markers of HBV replication is recommended, as withdrawal of lamivudine may result in an acute exacerbation of hepatitis (see Zeffix SPC).
 
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.
@@ -56,7 +63,7 @@ Diabetic patients should be advised that each dose (150 mg = 15 ml) contains 3 g
 
 These results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
 
-A connection between visceral lipomatosis and protease inhibitors (Pis) and lipoatrophy and nucleoside analogue reverse transcriptase inhibitors (NRTIs) has been hypothesised.
+A connection between visceral lipomatosis and protease inhibitors (PIs) and lipoatrophy and nucleoside analogue reverse transcriptase inhibitors (NRTIs) has been hypothesised.
 
 Liver disease:If lamivudine is being used concomitantly for the treatment of HIV and HBV, additional information relating to the use of lamivudine in the treatment of hepatitis B infection is available in the Zeffix SPC.
 

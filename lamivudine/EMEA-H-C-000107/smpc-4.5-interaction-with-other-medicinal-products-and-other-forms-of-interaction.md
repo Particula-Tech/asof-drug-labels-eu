@@ -15,7 +15,7 @@ Lamivudine has no effect on the pharmacokinetics of trimethoprim or sulfamethoxa
 When concomitant administration is warranted, patients should be monitored clinically.
 Co-administration of lamivudine with high doses of co-trimoxazole for the treatment of Pneumocystis carinii pneumonia (PCP) and toxoplasmosis should be avoided.
 
-Lamivudine metabolism does not involve CYP3A, making interactions with medicinal products metabolised by this system (e.g. Pis) unlikely.
+Lamivudine metabolism does not involve CYP3A, making interactions with medicinal products metabolised by this system (e.g. PIs) unlikely.
 
 Co-administration of lamivudine with intravenous ganciclovir or foscarnet is not recommended until further information is available.
 

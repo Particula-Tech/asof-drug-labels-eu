@@ -24,7 +24,6 @@ Cases of pancreatitis have been reported.
 
 Hepatobiliary disorders
 Uncommon: Transient rises in liver enzymes (AST, ALT).
-
 Rare: Hepatitis
 
 Skin and subcutaneous tissue disorders
@@ -35,12 +34,11 @@ Common: Arthralgia, muscle disorders
 Rare: Rhabdomyolysis
 
 General disorders and administration site conditions
-Common : Fatigue, malaise, fever.
+Common: Fatigue, malaise, fever.
 
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see section 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
-
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 [Epivir 10 mg/ml oral solution]

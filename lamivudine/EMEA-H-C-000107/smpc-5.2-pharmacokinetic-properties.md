@@ -3,8 +3,8 @@
 Absorption: Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85 %.
 Following oral administration, the mean time (tmax) to maximal serum concentrations (Cmax) is about an hour.
 Based on data derived from a study in healthy volunteers, at a therapeutic dose of 150mg twice daily, mean (CV) steady-state Cmax and Cmin of lamivudine in plasma are 1.2 µg/ml (24%) and 0.09 µg/ml (27%), respectively.
-The mean (CV) AUC over a dosing interval of 12 hours is 4.7 h.µg/ml (18%).
-At a therapeutic dose of 300mg once daily, the mean (CV) steady-state Cmax, Cmin and 24h AUC are 2.0 µg/ml (26%), 0.04 µg/ml (34%) and 8.9 h.µg/ml (21%), respectively.
+The mean (CV) AUC over a dosing interval of 12 hours is 4.7 µg.h/ml (18%).
+At a therapeutic dose of 300mg once daily, the mean (CV) steady-state Cmax, Cmin and 24h AUC are 2.0 µg/ml (26%), 0.04 µg/ml (34%) and 8.9 µg.h/ml (21%), respectively.
 
 The 150 mg tablet is bioequivalent and dose proportional to the 300 mg tablet with respect to AUC∞, Cmax, and tmax.
 
@@ -16,7 +16,8 @@ This is not considered to be of significance to patient safety and therefore no 
 
 Distribution: From intravenous studies, the mean volume of distribution is 1.3 l/kg.
 The observed half-life of elimination is 5 to 7 hours.
-The mean systemic clearance of lamivudine is approximately 0.32 l/h/kg, with predominantly renal clearance (> 70 %) via the organic cationic transport system.
+The mean systemic clearance of lamivudine is approximately
+0.32 l/h/kg, with predominantly renal clearance (> 70 %) via the organic cationic transport system.
 
 Lamivudine exhibits linear pharmacokinetics over the therapeutic dose range and displays limited binding to the major plasma protein albumin (< 16 % - 36 % to serum albumin in in vitro studies).
 

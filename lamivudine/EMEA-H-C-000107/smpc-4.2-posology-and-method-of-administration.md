@@ -20,7 +20,7 @@ Epivir is also available as an oral solution.
 
 Epivir may be administered with or without food.
 
-Renal impairment:- Lamivudine concentrations are increased in patients with moderate – severe renal impairment due to decreased clearance.
+Renal impairment:- Lamivudine concentrations are increased in patients with moderate - severe renal impairment due to decreased clearance.
 The dose should therefore be adjusted, using oral solution presentation of Epivir for patients whose creatinine clearance falls below 30 ml/min (see tables).
 Dosing Recommendations – Adults and adolescents over 12 years:
 
@@ -51,7 +51,8 @@ Based on these data, no dose adjustment is necessary in patients with moderate o
 This may be administered as either 150 mg (15 ml) twice daily or 300 mg (30 ml) once daily (see section 4.4).
 
 Patients changing to the once daily regimen should take 150 mg (15 ml) twice a day and switch to 300 mg (30 ml) once a day the following morning.
-Where an evening once daily regimen is preferred, 150 mg (15 ml) of Epivir should be taken on the first morning only, followed by 300 mg (30 ml) in the evening.
+Where an evening once daily regimen is preferred, 150 mg
+(15 ml) of Epivir should be taken on the first morning only, followed by 300 mg (30 ml) in the evening.
 When changing back to a twice daily regimen, patients should complete the days treatment and start 150 mg (15 ml) twice a day the following morning.
 
 Less than three months of age the limited data available are insufficient to propose specific dosage recommendations (see section 5.2)
@@ -70,4 +71,4 @@ The dose should therefore be adjusted (see tables).
 
 [Epivir 300 mg film-coated tablets]
 
-Renal impairment- Lamivudine concentrations are increased in patients with moderate – severe renal impairment due to decreased clearance.
+Renal impairment- Lamivudine concentrations are increased in patients with moderate - severe renal impairment due to decreased clearance.

@@ -6,4 +6,4 @@ No fatalities occurred, and the patients recovered.
 No specific signs or symptoms have been identified following such overdose.
 
 If overdosage occurs the patient should be monitored, and standard supportive treatment applied as required.
-Since lamivudine is �ialyzable, continuous haemodialysis could be used in the treatment of overdosage, although this has not been studied.
+Since lamivudine is dialysable, continuous haemodialysis could be used in the treatment of overdosage, although this has not been studied.
