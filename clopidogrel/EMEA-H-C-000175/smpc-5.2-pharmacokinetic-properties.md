@@ -12,6 +12,7 @@ The active metabolite, a thiol derivative, is formed by oxidation of clopidogrel
 The oxidative step is regulated primarily by Cytochrome P450 isoenzymes 2B6 and 3A4 and to a lesser extent by 1A1, 1A2 and 2C19.
 The active thiol metabolite, which has been isolated in vitro, binds rapidly and irreversibly to platelet receptors, thus inhibiting platelet aggregation.
 This metabolite has not been detected in plasma.
+
 The kinetics of the main circulating metabolite were linear (plasma concentrations increased in proportion to dose) in the dose range of 50 to 150 mg of clopidogrel.
 
 Clopidogrel and the main circulating metabolite bind reversibly in vitro to human plasma proteins (98% and 94% respectively).

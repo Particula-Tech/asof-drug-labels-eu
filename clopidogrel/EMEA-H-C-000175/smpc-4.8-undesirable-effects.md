@@ -10,11 +10,12 @@ The incidence of severe cases was 1.4% for clopidogrel and 1.6% for ASA.
 In patients that received clopidogrel, gastrointestinal bleeding occurred at a rate of 2.0%, and required hospitalisation in 0.7%.
 In patients that received ASA, the corresponding rates were 2.7% and 1.1%, respectively.
 The incidence of other bleeding was higher in patients that received clopidogrel compared to ASA (7.3% vs. 6.5%).
-However, the incidence of severe events was similar in both treatment groups (0.6% vs. 0.4%).
+However, the incidence of severe events was similar in both treatment groups
+(0.6% vs. 0.4%).
 The most frequently reported events in both treatment groups were : purpura/bruising/haematoma, and epistaxis.
 Other less frequently reported events were haematoma, haematuria, and eye bleeding (mainly conjunctival).
 
-The incidence of intracranial bleeding was 0.4% in patients that received clopidogrel and 0.5% for patients that received ASA.
+The incidence of intracranial bleeding was 0.4% in patients that received clopidogrel and 0.5% for patients that received ASA .
 
 Haematological: severe neutropaenia (<0.45 x 109/l) was observed in 4 patients (0.04%) that received clopidogrel and 2 patients (0.02%) that received ASA.
 Two of the 9599 patients who received clopidogrel and none of the 9586 patients who received ASA had neutrophil counts of zero.
@@ -48,13 +49,11 @@ Most of the cases were reported during the first month.
 Bleeding : some cases were reported with fatal outcome (especially intracranial, gastrointestinal and retroperitoneal haemorrhage); serious cases of skin bleeding (purpura), musculo-skeletal bleeding (haemarthrosis, haematoma), eye bleeding (conjunctival, ocular, retinal), epistaxis, respiratory tract bleeding (haemoptysis, pulmonary haemorrhage), haematuria and haemorrhage of operative wound have been reported; cases of serious haemorrhage have been reported in patients taking clopidogrel concomitantly with acetylsalicylic acid or clopidogrel with acetylsalicylic acid and heparin (see section 4.4 Special warnings and special precautions for use).
 
 Haematological: very rare cases of Thrombotic Thrombocytopenic Purpura (TTP) (1/200,000 exposed patients) have been reported (see 4.4 Special warnings and special precautions for use).
-Also very rare cases of severe thrombocytopenia (platelet count ≤30 x 109/l), agranulocytosis, anaemia and aplastic anaemia/pancytopenia have been reported.
+Also very rare cases of severe thrombocytopenia (platelet count �30 x 109/l), agranulocytosis, anaemia and aplastic anaemia/pancytopenia have been reported.
 
 Urinary system disorders: very rare cases of renal disorders and abnormal creatinine levels have been reported.
 
-Hepatic and biliary disorders: very rare cases of abnormal liver function test and hepatitis have been observed.
-
-Allergic disorders: hypersensitivity reactions have been reported: these mainly include skin reactions (macular or erythematous rash, urticaria, bullous eruption, erythema multiforme...) and/or pruritus.
+Allergic disorders: hypersensitivity reactions have been reported: these mainly include skin reactions (macular or erythematous rash, urticaria, bullous eruption, erythema multiform...) and/or pruritus.
 Very rare cases of bronchospasm, angioedema, anaphylactoid reactions, fever, arthralgia and arthritis have been observed.
 
-Others: Very rare cases of taste disorders, confusion and hallucinations have been observed.
+Others: Very rare cases of taste disorders and confusion have been observed.

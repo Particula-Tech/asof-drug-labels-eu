@@ -9,7 +9,6 @@ ADP-induced platelet aggregation, but clopidogrel potentiated the effect of ASA 
 However, concomitant administration of 500 mg of ASA twice a day for one day did not significantly increase the prolongation of bleeding time induced by clopidogrel intake.
 A pharmacodynamic interaction between clopidogrel and acetylsalicylic acid is possible, leading to increased risk of bleeding.
 Therefore, concomitant use should be undertaken with caution (see 4.4 Special warnings and special precautions for use).
-
 Heparin: in a clinical study conducted in healthy subjects, clopidogrel did not necessitate modification of the heparin dose or alter the effect of heparin on coagulation.
 Co-administration of heparin had no effect on the inhibition of platelet aggregation induced by clopidogrel.
 A pharmacodynamic interaction between clopidogrel and heparin is possible, leading to increased risk of bleeding.
