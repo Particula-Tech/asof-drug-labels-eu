@@ -8,7 +8,8 @@ Patients should be observed closely especially during the first and second infus
 A premedication consisting of an oral corticosteroid, such as dexamethasone 16 mg per day (e.g. 8 mg BID) for 3 days starting 1 day prior to docetaxel administration, unless contraindicated, can reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions.
 
 Dosage adjustments during treatment:
-Docetaxel should be administered when the neutrophil count is ≥ 1,500 cells/mm3.
+
+Docetaxel should be administered when the neutrophil count is ≥1,500 cells/mm3.
 Patients who experienced either febrile neutropenia, neutrophil <500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or severe peripheral neuropathy during docetaxel therapy should have the dosage of docetaxel reduced from 100 mg/m2 to 75 mg/m2.
 If the patient continues to experience these reactions at 75 mg/m2, the dosage should either be decreased from 75 mg/m2 to 55 mg/m2 or the treatment should be discontinued.
 Special populations:

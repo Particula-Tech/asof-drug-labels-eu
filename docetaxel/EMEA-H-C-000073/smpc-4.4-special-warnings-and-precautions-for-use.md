@@ -7,13 +7,13 @@ Severe hypersensitivity reactions characterised by hypotension or bronchospasm o
 Haematology
 
 Neutropenia is the most frequent adverse reaction of docetaxel.
-Neutrophil nadirs occurred at a median of 8 days but this interval may be shorter in heavily pretreated patients.
+Neutrophil nadirs occurred at a median of 7 days but this interval may be shorter in heavily pretreated patients.
 Frequent monitoring of complete blood counts should be conducted on all patients receiving docetaxel.
 Patients should be retreated with docetaxel when neutrophils recover to a level ≥1,500 cells/mm3 (See “Posology and method of administration” section).
 
 In the case of severe neutropenia (<500 cells/mm3 for seven days or more) during a course of docetaxel therapy, a reduction in dose for subsequent courses of therapy or the use of appropriate symptomatic measures are recommended.
-Hypersensitivity Reactions
 
+Hypersensitivity Reactions
 Patients should be observed closely for hypersensitivity reactions especially during the first and second infusions.
 Hypersensitivity reactions may occur within a few minutes following the initiation of the infusion of docetaxel, thus facilities for the treatment of hypotension and bronchospasm should be available.
 If hypersensitivity reactions occur, minor symptoms such as flushing or localised cutaneous reactions do not require interruption of therapy.

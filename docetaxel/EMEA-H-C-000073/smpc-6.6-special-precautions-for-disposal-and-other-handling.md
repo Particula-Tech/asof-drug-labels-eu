@@ -4,9 +4,9 @@ Recommendations for the safe handling
 
 TAXOTERE is an antineoplastic agent and, as with other potentially toxic compounds, caution should be exercised when handling it and preparing TAXOTERE solutions.
 The use of gloves is recommended.
+
 If TAXOTERE concentrate, premix solution or infusion solution should come into contact with skin, wash immediately and thoroughly with soap and water.
 If TAXOTERE concentrate, premix solution or infusion solution should come into contact with mucous membranes, wash immediately and thoroughly with water.
-
 Preparation for the intravenous administration
 
 a) Preparation of the TAXOTERE premix solution (10 mg docetaxel/ml)
@@ -45,6 +45,8 @@ Disposal
 All materials that have been utilised for dilution and administration should be disposed of according to standard procedures.
 
 [TAXOTERE (docetaxel) 80 mg]
+
+Preparation for the intravenous administration a) Preparation of the TAXOTERE premix solution (10 mg docetaxel/ml)
 
 Use a syringe fitted with a needle, aseptically withdraw the entire contents of the solvent for TAXOTERE vial.
 

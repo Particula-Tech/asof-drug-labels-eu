@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmaco-therapeutic group: Antineoplastic agents, ATC Code: L01CD 02
+
 5.1.1 Preclinical data
 
 Docetaxel is an antineoplastic agent which acts by promoting the assembly of tubulin into stable microtubules and inhibits their disassembly which leads to a marked decrease of free tubulin.
@@ -12,7 +13,6 @@ Docetaxel was found to be cytotoxic in vitro against various murine and human tu
 Docetaxel achieves high intracellular concentrations with a long cell residence time.
 In addition, docetaxel was found to be active on some but not all cell lines overexpressing the p-glycoprotein which is encoded by the multidrug resistance gene.
 In vivo, docetaxel is schedule independent and has a broad spectrum of experimental antitumour activity against advanced murine and human grafted tumours.
-
 5.1.2 Clinical data
 
 Breast cancer
@@ -30,4 +30,13 @@ There was a high response rate in patients with visceral metastases, 53.1% in th
 
 In anthracycline resistant patients, a significant response rate of 40% was seen in patients with liver metastases and a 63.2% response rate was observed in patients with soft tissue disease.
 
-However, due to lack of data from comparative randomised clinical trials, the exact benefit/risk ratio has not yet been established.
+Two randomised phase III comparative studies, involving a total of 326 alkylating or 392 anthracycline failure metastatic breast cancer patients, have been performed with docetaxel at the recommended dose and regimen of 100 mg/m² every 3 weeks.
+
+In alkylating failure patients, docetaxel was compared to doxorubicin (75 mg/m² every 3 weeks).
+Without affecting overall survival time (docetaxel 15 months vs. doxorubicin 14 months, p=0.38) or time to progression (docetaxel 27 weeks vs. doxorubicin 23 weeks, p=0.54), docetaxel increased response rate (52% vs. 37%, p=0.01) and shortened time to response (12 weeks vs. 23 weeks, p=0.007).
+Three docetaxel patients (2%) discontinued the treatment due to fluid retention, whereas 15 doxorubicin patients (9%) discontinued due to cardiac toxicity (three cases of fatal congestive heart failure).
+
+In anthracycline failure patients, docetaxel was compared to the combination of Mitomycin C and Vinblastine (12 mg/m² every 6 weeks and 6 mg/m² every 3 weeks).
+Docetaxel increased response rate (33% vs. 12%, p<0.0001), prolonged time to progression (19 weeks vs. 11 weeks, p=0.0004) and prolonged overall survival (11 months vs. 9 months, p=0.01).
+
+During these phase III studies, the safety profile of docetaxel was consistent with the safety profile observed in phase II studies (see “Undesirable effects” section).

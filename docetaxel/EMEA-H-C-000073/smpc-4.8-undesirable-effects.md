@@ -67,6 +67,7 @@ Mild to moderate neuro-sensory signs characterised by paresthesia, dysesthesia o
 Neuro-motor events mainly characterised by weakness were reported in 13.8% of patients and were severe in 4% of the patients.
 
 The events were spontaneously reversible within 3 months in 35.3% of patients with neurotoxicity for whom data is available.
+
 Cardiovascular
 
 Hypotension occurred in 3.8% of the patients and required therapy in 0.7% of the patients.
@@ -82,7 +83,6 @@ Infusion site reactions
 Infusion site reactions were generally mild and occurred in 5.6% of the patients, and consisted of hyperpigmentation, inflammation, redness or dryness of the skin, phlebitis or extravasation and swelling of the vein.
 
 Hepatic
-
 Increases in serum levels of AST, ALT, bilirubin and alkaline phosphatase greater than 2.5 times the ULN were observed in less than 5% of the patients.
 
 Others
