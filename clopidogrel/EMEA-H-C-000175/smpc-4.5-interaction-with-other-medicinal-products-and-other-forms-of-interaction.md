@@ -2,6 +2,8 @@
 
 Warfarin: see 4.4 Special warnings and special precautions for use.
 
+Glycoprotein IIb/IIIa inhibitors: see 4.4 Special warnings and special precautions for use.
+
 Acetylsalicylic acid (ASA): ASA did not modify the clopidogrel-mediated inhibition of ADP-induced platelet aggregation, but clopidogrel potentiated the effect of ASA on collagen-induced platelet aggregation.
 However, concomitant administration of 500 mg of ASA twice a day for one day did not significantly increase the prolongation of bleeding time induced by clopidogrel intake.
 A pharmacodynamic interaction between clopidogrel and acetylsalicylic acid is possible, leading to increased risk of bleeding.
@@ -11,9 +13,11 @@ Heparin: in a clinical study conducted in healthy subjects, clopidogrel did not 
 Co-administration of heparin had no effect on the inhibition of platelet aggregation induced by clopidogrel.
 A pharmacodynamic interaction between clopidogrel and heparin is possible, leading to increased risk of bleeding.
 Therefore, concomitant use should be undertaken with caution (see 4.4 Special warnings and special precautions for use).
+
 Thrombolytics: the safety of the concomitant administration of clopidogrel, rt-PA and heparin was assessed in patients with recent myocardial infarction.
 The incidence of clinically significant bleeding was similar to that observed when rt-PA and heparin are co-administered with ASA.
 The safety of the concomitant administration of clopidogrel with other thrombolytic agents has not been established and should be undertaken with caution (see 4.4 Special warnings and special precautions for use).
+
 Non-Steroidal Anti-Inflammatory Drugs (NSAIDs): in a clinical study conducted in healthy volunteers, the concomitant administration of clopidogrel and naproxen increased occult gastrointestinal blood loss.
 However, due to the lack of interaction studies with other NSAIDs it is presently unclear whether there is an increased risk of gastrointestinal bleeding with all NSAIDs.
 Consequently, NSAIDs and clopidogrel should be co-administered with caution (see 4.4 Special warnings and special precautions for use).

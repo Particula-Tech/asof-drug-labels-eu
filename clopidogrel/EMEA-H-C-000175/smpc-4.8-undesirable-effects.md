@@ -4,7 +4,6 @@ Clopidogrel has been evaluated for safety in more than 11,300 patients, includin
 Clopidogrel 75 mg/day was well tolerated compared to ASA 325 mg/day in a large controlled clinical trial (CAPRIE).
 The overall tolerability of clopidogrel in this study was similar to ASA, regardless of age, gender and race.
 The clinically relevant adverse effects observed in CAPRIE are discussed below.
-
 Haemorrhagic disorders: in patients treated with either clopidogrel or ASA, the overall incidence of any bleeding was 9.3%.
 The incidence of severe cases was 1.4% for clopidogrel and 1.6% for ASA.
 In patients that received clopidogrel, gastrointestinal bleeding occurred at a rate of 2.0%, and required hospitalisation in 0.7%.
@@ -17,13 +16,11 @@ Other less frequently reported events were haematoma, haematuria, and eye bleedi
 
 The incidence of intracranial bleeding was 0.4% in patients that received clopidogrel and 0.5% for patients that received ASA .
 
-As a part of post-marketing experience, some cases were reported with fatal outcome (especially intracranial, gastrointestinal and retroperitoneal haemorrhage) ; also cases of serious haemorrhage have been reported in patients taking clopidogrel concomitantly with acetylsalicylic acid, or clopidogrel with acetylsalicylic acid and heparin (see Sections 4.4 and 4.5)
-
 Haematological: severe neutropaenia (<0.45 x 109/l) was observed in 4 patients (0.04%) that received clopidogrel and 2 patients (0.02%) that received ASA.
 Two of the 9599 patients who received clopidogrel and none of the 9586 patients who received ASA had neutrophil counts of zero.
 One case of aplastic anaemia occurred on clopidogrel treatment.
 
-The incidence of severe thrombocytopaenia (<80 x 109/l) was 0.2% on clopidogrel and 0.1% on ASA ; very rare cases of platelet count ≤30 x 109/l have been reported.
+The incidence of severe thrombocytopaenia (<80 x 109/l) was 0.2% on clopidogrel and 0.1% on ASA.
 
 Gastrointestinal: the overall, incidence of gastrointestinal events (e.g. abdominal pain, dyspepsia, gastritis and constipation) was significantly lower in patients treated with clopidogrel compared to ASA (27.1% vs. 29.8% ).
 In addition, the number of events resulting in early permanent discontinuation was lower in the clopidogrel group compared to ASA (3.2% vs. 4.0%).
@@ -45,7 +42,18 @@ Central and peripheral nervous system disorders : the overall incidence of centr
 
 Hepatic and biliary disorders : the overall incidence of hepatic and biliary disorders was similar in patients treated with clopidogrel compared to ASA (3.5% vs. 3.4%).
 
-Post-marketing experience : The post-marketing experience confirms the safety profile defined during the clinical development ; hypersensitivity reactions have been reported : these mainly include skin reactions (maculopapular or erythematous rash, urticaria....) and/or pruritus.
-Very rare cases of bronchospasm, angioedema or anaphylactoid reactions, fever, arthralgia and arthritis have been reported.
+Post-marketing experience : the following events have been reported spontaneously from worldwide postmarketing experience.
+Bleeding is the most commonly reported post-marketing experience.
+Most of the cases were reported during the first month.
 
-As part of the marketing experience, very rare cases of Thrombotic Thrombocytopenic Purpura (TTP) (1/200,000 exposed patients) and agranulocytosis have been reported.
+Bleeding : some cases were reported with fatal outcome (especially intracranial, gastrointestinal and retroperitoneal haemorrhage); serious cases of skin bleeding (purpura), musculo-skeletal bleeding (haemarthrosis, haematoma), eye bleeding (conjunctival, ocular, retinal), epistaxis, respiratory tract bleeding (haemoptysis, pulmonary haemorrhage), haematuria and haemorrhage of operative wound have been reported; cases of serious haemorrhage have been reported in patients taking clopidogrel concomitantly with acetylsalicylic acid or clopidogrel with acetylsalicylic acid and heparin (see section 4.4 Special warnings and special precautions for use).
+
+Haematological: very rare cases of Thrombotic Thrombocytopenic Purpura (TTP) (1/200,000 exposed patients) have been reported (see 4.4 Special warnings and special precautions for use).
+Also very rare cases of severe thrombocytopenia (platelet count ≤30 x 109/l), agranulocytosis, anaemia and aplastic anaemia/pancytopenia have been reported.
+
+Urinary system disorders: very rare cases of renal disorders and abnormal creatinine levels have been reported.
+
+Allergic disorders: hypersensitivity reactions have been reported: these mainly include skin reactions (macular or erythematous rash, urticaria, bullous eruption, erythema multiform...) and/or pruritus.
+Very rare cases of bronchospasm, angioedema, anaphylactoid reactions, fever, arthralgia and arthritis have been observed.
+
+Others: Very rare cases of taste disorders and confusion have been observed.

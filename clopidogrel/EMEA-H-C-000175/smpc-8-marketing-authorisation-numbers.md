@@ -1,4 +1,4 @@
-# 8. NUMBER IN THE COMMUNITY REGISTER OF MEDICINAL PRODUCTS
+# 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/98/070/001a - Cartons of 28 tablets in PVC/PVDC blisters
 EU/1/98/070/001b - Cartons of 28 tablets in all aluminium blisters
