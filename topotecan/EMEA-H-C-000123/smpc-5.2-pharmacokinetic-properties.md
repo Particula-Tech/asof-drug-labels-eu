@@ -7,7 +7,6 @@ Area under the curve increased approximately in proportion to the increase in do
 The binding of topotecan to plasma proteins was low (35 %) and distribution between blood cells and plasma was fairly homogeneous.
 
 In a population study, a number of factors including age, weight and ascites had no significant effect on clearance of total topotecan (active and inactive form).
-
 The elimination of topotecan has only been partly investigated in man.
 A major route of clearance of topotecan was by hydrolysis of the lactone ring to form the ring-opened hydroxy acid.
 In vitro data using human liver microsomes indicate the formulation of small amounts of N-demethylated topotecan.

@@ -1,7 +1,7 @@
 # 4.4 Special warnings and special precautions for use
 
-Haematological toxicity is dose-related and full blood count including platelets should be monitored regularly
-.
+Haematological toxicity is dose-related and full blood count including platelets should be monitored regularly.
+
 As expected, patients with poor performance status have a lower response rate and an increased incidence of complications such as fever and infection.
 
 There is no experience of the use of topotecan in patients with severely impaired renal function (creatinine clearance < 20 ml/min) or severely impaired hepatic function (serum bilirubin ≥ 10 mg/dl) due to cirrhosis.
