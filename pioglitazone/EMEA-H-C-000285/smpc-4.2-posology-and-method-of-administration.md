@@ -13,8 +13,8 @@ In combination with metformin, the current metformin dose can be continued upon 
 
 In combination with sulphonylurea, the current sulphonylurea dose can be continued upon initiation of pioglitazone therapy.
 If patients report hypoglycaemia, the dose of sulphonylurea should be decreased.
-Elderly:
 
+Elderly:
 No dosage adjustment is necessary for elderly patients (see section 5.2).
 
 Patients with renal impairment:
