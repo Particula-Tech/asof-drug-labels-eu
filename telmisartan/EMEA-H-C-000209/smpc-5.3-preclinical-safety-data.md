@@ -8,5 +8,4 @@ In both species, increased plasma renin activity and hypertrophy/hyperplasia of 
 These changes, also a class effect of angiotensin converting enzyme inhibitors and other angiotensin II antagonists, do not appear to have clinical significance.
 
 Animal studies indicated some hazardous potential of telmisartan to the postnatal development of the offspring: lower body weight, delayed eye opening, higher mortality.
-
 There was no evidence of mutagenicity and relevant clastogenic activity in in vitro studies and no evidence of carcinogenicity in rats and mice.

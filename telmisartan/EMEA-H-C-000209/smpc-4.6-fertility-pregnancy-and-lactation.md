@@ -1,4 +1,4 @@
-# 4.6 Use during pregnancy and lactation
+# 4.6 Pregnancy and lactation
 
 Use in pregnancy (See 4.3 Contra-indications)
 Telmisartan is contraindicated during pregnancy.
