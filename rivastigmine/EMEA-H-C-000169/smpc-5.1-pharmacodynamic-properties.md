@@ -4,11 +4,12 @@ Pharmacotherapeutic group: anticholinesterases; ATC-code: N06D A03
 
 Rivastigmine is an acetyl- and butyrylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones.
 Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits associated with Alzheimer’s disease.
+
 Rivastigmine interacts with its target enzymes by forming a covalently bound complex that temporarily inactivates the enzymes.
 In healthy young men, an oral 3 mg dose decreases acetylcholinesterase (AChE) activity in CSF by approximately 40% within the first 1.5 hours after administration.
 Activity of the enzyme returns to baseline levels about 9 hours after the maximum inhibitory effect has been achieved.
-In patients with Alzheimer’s disease (AD), inhibition of acetylcholinesterase (AChE) in CSF by rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested.
-Inhibition of butyrylcholinesterase activity in CSF of 14 AD patients treated by rivastigmine was similar to that of AChE.
+In patients with Alzheimer’s disease, inhibition of AChE in CSF by rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested.
+Inhibition of butyrylcholinesterase activity in CSF of 14 Alzheimer patients treated by rivastigmine was similar to that of AChE.
 
 Clinical studies
 
@@ -32,13 +33,28 @@ Table 2
 | ADAS-Cog: improvement of at least 4 points | 21*** | 12 | 25*** | 12 |
 | CIBIC-Plus: improvement | 29*** | 18 | 32*** | 19 |
 | PDS: improvement of at least 10% | 26*** | 17 | 30*** | 18 |
-| At least 4 points improvement on ADAS-Cog with no worsening on CIBIC-Plus and PDS | 10* | 6 | 12** | 6 |
+| At least 4 points | 10* | 6 | 12** | 6 |
+
+improvement on ADAS-
+Cog with no worsening on
+CIBIC-Plus and PDS
 
 * p<0.05, **p<0.01, ***p<0.001
 
 [EXELON 3 mg hard capsules]
 
-(all sentences already above)
+|  | Patients with Clinically Significant Response (%) |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Intent to Treat |  | Last Observation Carried Forward |  |
+| Response Measure | Rivastigmine 6-12 mg N=473 | Placebo N=472 | Rivastigmine 6-12 mg N=379 | Placebo N=444 |
+| ADAS-Cog: improvement of at least 4 points | 21*** | 12 | 25*** | 12 |
+| CIBIC-Plus: improvement | 29*** | 18 | 32*** | 19 |
+| PDS: improvement of at least 10% | 26*** | 17 | 30*** | 18 |
+| At least 4 points improvement | 10* | 6 | 12** | 6 |
+
+on ADAS-Cog with no
+worsening on CIBIC-Plus and
+PDS
 
 [EXELON 4.5 mg hard capsules]
 

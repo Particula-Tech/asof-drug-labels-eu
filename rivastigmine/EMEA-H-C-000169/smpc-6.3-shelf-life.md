@@ -17,3 +17,5 @@
 [EXELON 2 mg/ml Oral Solution]
 
 3 years
+
+EXELON Oral Solution should be used within 1 month of opening the bottle.

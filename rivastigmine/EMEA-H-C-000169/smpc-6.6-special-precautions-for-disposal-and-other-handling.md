@@ -1,6 +1,6 @@
 # 6.6 Instructions for use and handling
 
-Not applicable
+No special requirements.
 
 [EXELON 3 mg hard capsules]
 

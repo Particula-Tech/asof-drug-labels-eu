@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 The most commonly reported adverse drug reactions are gastrointestinal, including nausea (38 %) and vomiting (23 %), especially during titration.
-Female patients in clinical studies were found to be more susceptible to gastrointestinal adverse drug reactions and weight loss.
+Female patients in clinical studies were found to be more susceptible than male patients to gastrointestinal adverse drug reactions and weight loss.
 
 The following adverse drug reactions, listed below in Table 1, have been accumulated both from clinical studies with Exelon and since the introduction of Exelon into the market.
 
@@ -10,11 +10,12 @@ Table 1*
 | Infections and infestation Very rare | Urinary infection |
 | --- | --- |
 | Psychiatric disorders Common Common Uncommon Uncommon Very rare | Agitation Confusion Insomnia Depression Hallucinations |
-| Nervous system disorders Very common Common Common Common Uncommon Rare | Dizziness Headache Somnolence Tremor Syncope Seizures |
-| Cardiac disorders Very rare Rare | Cardiac arrhythmia (e.g. bradycardia, atrio-ventricular block, atrial fibrillation and tachycardia) Angina pectoris |
+| Nervous system disorders Very common Common Common Common Uncommon | Dizziness Headache Somnolence Tremor Syncope |
+| Rare Very rare | Seizures Extrapyramidal symptoms (including worsening of Parkinson’s disease) |
+| Cardiac disorders Rare Very rare | Angina pectoris Cardiac arrhythmia (e.g. bradycardia, atrio-ventricular block, atrial fibrillation and tachycardia) |
 | Vascular disorders Very rare | Hypertension |
-| Gastrointestinal disorders Very common | Nausea |
-| Very common Very common Very common Common Rare Very rare Very rare | Vomiting Diarrhea Loss of appetite Abdominal pain and dyspepsia Gastric and duodenal ulcers Gastrointestinal hemorrhage Pancreatitis |
+| Gastrointestinal disorders Very common Very common Very common Very common Common Rare Very rare Very rare | Nausea Vomiting Diarrhoea Loss of appetite Abdominal pain and dyspepsia Gastric and duodenal ulcers Gastrointestinal haemorrhage Pancreatitis |
+| Hepato-biliary disorders Very rare | Elevated liver function tests |
 | Skin and subcutaneous disorders Common Rare | Sweating increased Rashes |
 | General disorders Common Common Uncommon | Fatigue and asthenia Malaise Accidental fall |
 | Investigations Common | Weight loss |
@@ -23,20 +24,22 @@ Table 1*
 
 [EXELON 3 mg hard capsules]
 
-| Infections and infestation Very rare | Urinary infection |
-| --- | --- |
-| Psychiatric disorders Common Common Uncommon Uncommon Very rare | Agitation Confusion Insomnia Depression Hallucinations |
-| Nervous system disorders Very common Common Common Common Uncommon Rare | Dizziness Headache Somnolence Tremor Syncope Seizures |
-| Cardiac disorders Very rare Rare | Cardiac arrhythmia (e.g. bradycardia, atrio-ventricular block, atrial fibrillation and tachycardia) Angina pectoris |
-| Vascular disorders Very rare | Hypertension |
-| Gastrointestinal disorders Very common Very common Very common Very common Common Rare Very rare Very rare | Nausea Vomiting Diarrhea Loss of appetite Abdominal pain and dyspepsia Gastric and duodenal ulcers Gastrointestinal hemorrhage Pancreatitis |
-| Skin and subcutaneous disorders Common Rare | Sweating increased Rashes |
-| General disorders Common Common Uncommon | Fatigue and asthenia Malaise Accidental fall |
-| Investigations Common | Weight loss |
+(all sentences already above)
 
 [EXELON 4.5 mg hard capsules]
 
-(all sentences already above)
+| Infections and infestation Very rare | Urinary infection |
+| --- | --- |
+| Psychiatric disorders Common Common Uncommon Uncommon Very rare | Agitation Confusion Insomnia Depression Hallucinations |
+| Nervous system disorders Very common Common Common Common Uncommon | Dizziness Headache Somnolence Tremor Syncope |
+| Rare Very rare | Seizures Extrapyramidal symptoms (including worsening in patients with Parkinson’s disease) |
+| Cardiac disorders Rare Very rare | Angina pectoris Cardiac arrhythmia (e.g. bradycardia, atrio-ventricular block, atrial fibrillation and tachycardia) |
+| Vascular disorders Very rare | Hypertension |
+| Gastrointestinal disorders Very common Very common Very common Very common Common Rare Very rare Very rare | Nausea Vomiting Diarrhoea Loss of appetite Abdominal pain and dyspepsia Gastric and duodenal ulcers Gastrointestinal haemorrhage Pancreatitis |
+| Hepato-biliary disorders Very rare | Elevated liver function tests |
+| Skin and subcutaneous disorders Common Rare | Sweating increased Rashes |
+| General disorders Common Common Uncommon | Fatigue and asthenia Malaise Accidental fall |
+| Investigations Common | Weight loss |
 
 [EXELON 6 mg hard capsules]
 
@@ -44,4 +47,15 @@ Table 1*
 
 [EXELON 2 mg/ml Oral Solution]
 
-(all sentences already above)
+| Infections and infestation Very rare | Urinary infection |
+| --- | --- |
+| Psychiatric disorders Common Common Uncommon Uncommon Very rare | Agitation Confusion Insomnia Depression Hallucinations |
+| Nervous system disorders Very common Common Common Common | Dizziness Headache Somnolence Tremor |
+| Uncommon Rare Very rare | Syncope Seizures Extrapyramidal symptoms (including worsening in patients with Parkinson’s disease) |
+| Cardiac disorders Rare Very rare | Angina pectoris Cardiac arrhythmia (e.g. bradycardia, atrio-ventricular block, atrial fibrillation and tachycardia) |
+| Vascular disorders Very rare | Hypertension |
+| Gastrointestinal disorders Very common Very common Very common Very common Common Rare Very rare Very rare | Nausea Vomiting Diarrhoea Loss of appetite Abdominal pain and dyspepsia Gastric and duodenal ulcers Gastrointestinal haemorrhage Pancreatitis |
+| Hepato-biliary disorders Very rare | Elevated liver function tests |
+| Skin and subcutaneous disorders Common Rare | Sweating increased Rashes |
+| General disorders Common Common Uncommon | Fatigue and asthenia Malaise Accidental fall |
+| Investigations Common | Weight loss |

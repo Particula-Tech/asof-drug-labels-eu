@@ -21,7 +21,7 @@ There is no accumulation of rivastigmine or the decarbamylated metabolite in pat
 
 Elderly subjects: While bioavailability of rivastigmine is greater in elderly than in young healthy volunteers, studies in Alzheimer patients aged between 50 and 92 years showed no change in bioavailability with age.
 
-Subjects with hepatic impairment: The Cmax of rivastigmine was approximately 60% higher and the AUC of rivastigmine was more than twice as high in subjects with mild to moderate hepatic impairment compared to healthy subjects.
+Subjects with hepatic impairment: The Cmax of rivastigmine was approximately 60% higher and the AUC of rivastigmine was more than twice as high in subjects with mild to moderate hepatic impairment than in healthy subjects.
 
 Subjects with renal impairment: Cmax and AUC of rivastigmine were more than twice as high in subjects with moderate renal impairment compared with healthy subjects; however there were no changes in Cmax and AUC of rivastigmine in subjects with severe renal impairment.
 

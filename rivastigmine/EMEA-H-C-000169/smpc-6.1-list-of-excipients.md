@@ -2,7 +2,7 @@
 
 Gelatin
 Magnesium stearate
-Methylhydroxypropylcellulose
+Hypromellose
 Microcrystalline cellulose
 Silica, colloidal anhydrous
 Yellow iron oxide (E172)
