@@ -4,7 +4,8 @@ Undesirable effects in patients receiving Aprovel are generally mild and transie
 In placebo-controlled trials in patients with hypertension, the overall incidence of adverse events did not differ between the irbesartan and the placebo groups.
 Discontinuation due to any clinical or laboratory adverse event was less frequent for irbesartan-treated patients than for placebo-treated patients.
 The incidence of adverse events was not related to dose (in the recommended dose range), gender, age, race, or duration of treatment.
-Clinical adverse events, regardless of whether attributed to therapy, occurring in 1% or more of hypertensive patients with Aprovel in placebo-controlled trials are presented in the following table: % of Patients
+Clinical adverse events, regardless of whether attributed to therapy, occurring in 1% or more of hypertensive patients with Aprovel in placebo-controlled trials are presented in the following table:
+% of Patients
 
 Adverse Event Irbesartan Monotherapy Placebo
 n= 1965 n= 641
