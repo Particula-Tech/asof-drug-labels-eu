@@ -1,4 +1,28 @@
-# 6.6 Instructions for use, handling and disposal
+# 6.6 Instructions for use and handling
+
+No special requirements.
+
+[ZYPREXA 5 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 7.5 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 10 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 15 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 20 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 10 mg Powder for Solution for Injection.]
 
 Reconstitute ZYPREXA only with Water for Injections using standard aseptic techniques for reconstitution of parenteral products.
 No other solutions should be used for reconsititution.
@@ -42,6 +66,7 @@ The syringe includes an integral needle safety guard that is activated after adm
 
 Do not slide the guard during reconstitution and administration, as this will prematurely engage the guard.
 This is irreversible and prevents the use of the syringe and needle.
+
 Inject the entire contents of the prefilled syringe into the vial of ZYPREXA.
 
 The vial contains 11.0 mg olanzapine as a solution of 10 mg/ml (1 mg olanzapine is retained in the vial and syringe, thus allowing delivery of 10 mg olanzapine).
