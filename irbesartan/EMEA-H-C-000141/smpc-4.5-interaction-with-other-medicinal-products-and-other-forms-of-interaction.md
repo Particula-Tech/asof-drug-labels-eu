@@ -1,13 +1,18 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Diuretics and other antihypertensive agents: other antihypertensive agents may increase the hypotensive effects of irbesartan; however Aprovel has been safely administered with other antihypertensive agents, such as beta-blockers, long-acting calcium channel blockers, and thiazide diuretics.
-Prior treatment with high dose diuretics may result in volume depletion and a risk of hypotension when initiating therapy with Aprovel (see 4.4 Special warnings and special precautions for use).
-Potassium supplements and potassium-sparing diuretics: based on experience with the use of other drugs that affect the renin-angiotensin system, concomitant use of potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium or other drugs that may increase serum potassium levels (e.g. heparin) may lead to increases in serum potassium and is, therefore, not recommended (see 4.4 Special warnings and special precautions for use).
+Prior treatment with high dose diuretics may result in volume depletion and a risk of hypotension when initiating therapy with Aprovel (see 4.4).
+
+Potassium supplements and potassium-sparing diuretics: based on experience with the use of other drugs that affect the renin-angiotensin system, concomitant use of potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium or other drugs that may increase serum potassium levels (e.g. heparin) may lead to increases in serum potassium and is, therefore, not recommended (see 4.4).
+
 Lithium: reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors.
 Similar effects have been very rarely reported with irbesartan.
-Therefore, this combination is not recommended (see 4.4 Special warnings and special precautions for use).
+Therefore, this combination is not recommended
+(see 4.4).
 If the combination proves necessary, careful monitoring of serum lithium levels is recommended.
+
 Non-steroidal anti-inflammatory drugs: as with other antihypertensive agents, the antihypertensive effect of irbesartan may be attenuated by non-steroidal anti-inflammatory drugs.
+
 Additional information on drug interactions: the pharmacokinetics of digoxin were not altered by coadministration of a 150 mg dose of irbesartan in healthy male volunteers.
 The pharmacokinetics of irbesartan are not affected by co-administration of hydrochlorothiazide.
 Irbesartan is mainly metabolised by CYP2C9 and to a lesser extent by glucuronidation.
