@@ -14,4 +14,4 @@ Due to the potential for extreme sedation and respiratory depression from these 
 Concomitant use of ritonavir and rifabutin is contraindicated because of clinical consequences such as uveitis resulting from a multifold increase of rifabutin serum concentrations.
 
 Herbal preparations containing St John’s wort (Hypericum perforatum) must not be used while taking ritonavir due to the risk of decreased plasma concentrations and reduced clinical effects of ritonavir.
-(See 4.5 Interaction with other medicinal products and other forms of interaction).
+(See section 4.5).

@@ -31,11 +31,11 @@ Skin and subcutaneous tissue disorders: Rash, pruritus and sweating were commonl
 
 Allergic reactions including urticaria, mild skin eruptions, bronchospasm, and angioedema have been reported.
 Rare cases of anaphylaxis and Stevens-Johnson syndrome have been reported
-
 Other disorders: Very common events reported were headache.
 Fever, pain and weight loss were commonly reported.
 
 There have been spontaneous reports of thrombocytopenia, seizure and menorrhagia.
+
 Dehydration usually associated with gastrointestinal symptoms, and sometimes resulting in hypotension, syncope, or renal insufficiency has been reported.
 Syncope, orthostatic hypotension and renal insufficiency have also been reported without known dehydration.
 
@@ -43,7 +43,7 @@ Hepatic transaminase elevations exceeding five times the upper limit or normal, 
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
 
-Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4 Special warnings and special precautions for use).
+Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 Hyperglycaemia has been reported in individuals with and without a known history of diabetes.
 Cause and effect relationship has not been established.

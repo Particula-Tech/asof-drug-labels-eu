@@ -18,7 +18,6 @@ No clinically significant differences in AUC or Cmax were noted between males an
 Ritonavir pharmacokinetic parameters were not statistically significantly associated with body weight or lean body mass.
 
 Patients with impaired liver function: after multiple dosing of ritonavir to healthy volunteers (500 mg twice daily) and subjects with mild to moderate hepatic impairment (400 mg twice daily) exposure to ritonavir after dose normalisation was not significantly different between the two groups.
-
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20 - 40 l after a single 600 mg dose.
 The protein binding of ritonavir in human plasma was noted to be approximately 98 - 99%.
 Ritonavir binds to both human alpha 1-acid glycoprotein (AAG) and human serum albumin (HSA) with comparable affinities.

@@ -28,10 +28,10 @@ The relatively high frequency of diarrhoea during treatment with ritonavir may c
 Serious persistent vomiting and/or diarrhoea associated with ritonavir use might also compromise renal function.
 It is advisable to monitor renal function in patients with renal function impairment.
 
-A pharmacokinetic study demonstrated that ritonavir extensively inhibits the metabolism of saquinavir resulting in greatly increased saquinavir plasma concentrations (see section 4.5 Interaction with other medicinal products and other forms of interaction).
+A pharmacokinetic study demonstrated that ritonavir extensively inhibits the metabolism of saquinavir resulting in greatly increased saquinavir plasma concentrations (see section 4.5 ).
 Doses greater than 400 mg twice daily of either medicine were associated with an increased incidence of adverse events.
-Norvir oral solution contains alcohol (43% v/v), therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.
 
+Norvir oral solution contains alcohol (43% v/v), therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.
 New onset diabetes mellitus, hyperglycaemia or exacerbation of existing diabetes mellitus has been reported in patients receiving protease inhibitors.
 In some of these the hyperglycaemia was severe and in some cases also associated with ketoacidosis.
 Many patients had confounding medical conditions, some of which required therapy with agents that have been associated with the development of diabetes mellitus or hyperglycaemia.
@@ -43,13 +43,14 @@ A connection between visceral lipomatosis and PIs and lipoatrophy and nucleoside
 A higher risk of lipodystrophy has been associated with individual factors such as older age, and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
 Clinical examination should include evaluation for physical signs of fat redistribution.
 Consideration should be given to measurement of fasting serum lipids and blood glucose.
-Lipid disorders should be managed as clinically appropriate (see section 4.8 Undesirable effects).
+Lipid disorders should be managed as clinically appropriate (see section 4.8).
+
 Particular caution should be used when prescribing sildenafil in patients receiving ritonavir.
-Co-administration of ritonavir with sildenafil is expected to substantially increase sildenafil concentrations (11-fold increase in AUC) and may result in sildenafil-associated adverse events, including hypotension, syncope, visual changes and prolonged erection (see also section 4.5 Interactions with other medicinal products).
+Co-administration of ritonavir with sildenafil is expected to substantially increase sildenafil concentrations (11-fold increase in AUC) and may result in sildenafil-associated adverse events, including hypotension, syncope, visual changes and prolonged erection (see also section 4.5).
 
 The HMG-CoA reductase inhibitors simvastatin and lovastatin are highly dependent on CYP3A for metabolism, thus concomitant use of Norvir with simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
 Caution must also be exercised and reduced doses should be considered if Norvir is used concurrently with atorvastatin, which is metabolised to a lesser extent by CYP3A.
-If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fluvastatin is recommended (see section 4.5 Interaction with other medicinal products and other forms of interaction).
+If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fluvastatin is recommended (see section 4.5).
 
 [Norvir 100 mg soft capsules]
 
