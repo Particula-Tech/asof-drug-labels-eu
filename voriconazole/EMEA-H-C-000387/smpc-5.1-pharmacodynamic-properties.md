@@ -1,7 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antimycotics for Systemic Use – Triazole derivatives
-ATC code: J02A C03
+Pharmacotherapeutic group: ATC code: J02A C03
+Antimycotics for Systemic Use – Triazole derivatives
 
 Mechanism of action
 
@@ -14,6 +14,7 @@ In animal studies there is a correlation between minimum inhibitory concentratio
 By contrast, in clinical studies, there appears to be no correlation between minimum inhibitory concentration values and clinical outcome.
 Furthermore, there does not appear to be a correlation between plasma levels and clinical outcome.
 This is typical of azole antimycotics.
+
 Microbiology
 
 Clinical efficacy (with partial or complete response, see below under Clinical Experience) has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans, Candida spp., including C. albicans and limited numbers of C. dubliniensis, C. glabrata,
@@ -22,7 +23,7 @@ C. inconspicua, C. krusei, C. parapsilosis, C. tropicalis and C. guilliermondii,
 Other treated fungal infections (with often partial or complete response) included isolated cases of
 Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and
 Trichosporon spp. including T. beigelii infections.
-In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2µg/ml.
+In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2 µg/ml.
 
 In vitro activity against the following pathogens has been shown, but the clinical significance is unknown: Curvularia spp. and Sporothrix spp.
 
@@ -34,7 +35,6 @@ However, elevated minimum inhibitory concentrations did not always correlate wit
 Correlation of in vitro activity with clinical outcome is difficult owing to the complexity of the patients studied in clinical trials; breakpoints for voriconazole remain to be established.
 
 Clinical Experience
-
 Successful outcome in this section is defined as complete or partial response.
 
 Aspergillus infections – efficacy in aspergillosis patients with poor prognosis
@@ -46,6 +46,7 @@ The 84-day survival rate for voriconazole was statistically significantly higher
 This study confirmed findings from an earlier, prospectively designed study where there was a positive outcome in subjects with risk factors for a poor prognosis, including graft versus host disease, and, in particular, cerebral infections (normally associated with almost 100 % mortality).
 
 The studies included cerebral, sinus, pulmonary and disseminated aspergillosis in patients with bone marrow and solid organ transplants, haematological malignancies, cancer and AIDS.
+
 Serious refractory Candida infections
 The study comprised 55 patients with serious refractory systemic Candida infections (including candidaemia, disseminated and other invasive candidiasis) where prior antifungal treatment, particularly with fluconazole, had been ineffective.
 Successful response was seen in 24 patients (15 complete, 9 partial responses).
@@ -68,7 +69,7 @@ Duration of treatment
 In clinical trials, 561 patients received voriconazole therapy for greater than 12 weeks, with 136 patients receiving voriconazole for over 6 months.
 
 Experience in paediatric patients
-Sixty-one paediatric patients aged 9 months up to 15 years who had definite or probable invasive fungal infections, were treated with voriconazole.
+Sixty one paediatric patients aged 9 months up to 15 years who had definite or probable invasive fungal infections, were treated with voriconazole.
 This population included 34 patients 2 to < 12 years old and 20 patients 12-15 years of age.
 
 The majority (57/61) had failed previous antifungal therapies.
@@ -77,8 +78,30 @@ Underlying diseases in these patients included haematological malignancies and a
 The most commonly treated fungal infection was aspergillosis (43/61; 70 %).
 
 Clinical Studies Examining QT Interval
-
 A placebo-controlled, randomized, single-dose, crossover study to evaluate the effect on the QT interval of healthy volunteers was conducted with three oral doses of voriconazole and ketoconazole.
+The placebo-adjusted mean maximum increases in QTc from baseline after 800, 1200 and 1600 mg of voriconazole were 5.1, 4.8, and 8.2 msec, respectively and 7.0 msec for ketoconazole 800 mg.
+No subject in any group had an increase in QTc of ≥60 msec from baseline.
+No subject experienced an interval exceeding the potentially clinically relevant threshold of 500 msec.
+
+[VFEND 200 mg film-coated tablets]
+
+Succesful outcome in this section is defined as complete or partial response.
+
+[VFEND 200mg powder for solution for infusion]
+
+Other treated fungal infections (with often partial or complete response, see below under Clinical Experience) included isolated cases of Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and Trichosporon spp. including T. beigelii infections.
+
+Scedosporium spp. : Successful response to voriconazole therapy was seen in 16 (6 complete, 10 partial responses) of 28 patients with S. apiospermum and in 2 (both partial response) of 7 patients with S. prolificans infection.
+
+[VFEND 40mg/ml powder for oral suspension.]
+
+Pharmacotherapeutic group: Antimycotics for Systemic Use – Triazole derivatives
+ATC code: J02A C03
+
+In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2µg/ml.
+
+Sixty-one paediatric patients aged 9 months up to 15 years who had definite or probable invasive fungal infections, were treated with voriconazole.
+
 The placebo-adjusted mean maximum increases in QTc from baseline after 800, 1200 and 1600mg of voriconazole were 5.1, 4.8, and 8.2msec, respectively and 7.0msec for ketoconazole 800mg.
 No subject in any group had an increase in QTc of ≥60msec from baseline.
 No subject experienced an interval exceeding the potentially clinically relevant threshold of 500msec.
