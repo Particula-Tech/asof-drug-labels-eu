@@ -12,6 +12,5 @@ Following topical ocular administration of TRAVATAN to healthy volunteers, low s
 Peak active free acid plasma concentrations of 25 pg/ml or less were observed between 10 and 30 minutes post-dose.
 Thereafter, plasma levels declined rapidly to below the 10 pg/ml assay quantitation limit before 1 hour post-administration.
 Due to the low plasma concentrations and rapid elimination following topical dosing, the elimination half-life of active free acid in man could not be determined.
-
 TRAVATAN has been studied in patients with mild to severe hepatic impairment and in patients with mild to severe renal impairment (creatinine clearance as low as 14 ml/min).
 No dosage adjustment is necessary in these patients.
