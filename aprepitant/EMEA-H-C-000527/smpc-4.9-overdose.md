@@ -1,0 +1,10 @@
+# 4.9 Overdose
+
+No specific information is available on the treatment of overdosage with EMEND.
+
+Drowsiness and headache were reported in one patient who ingested 1,440 mg of aprepitant.
+
+In the event of overdose, EMEND should be discontinued and general supportive treatment and monitoring should be provided.
+Because of the antiemetic activity of aprepitant, drug-induced emesis may not be effective.
+
+Aprepitant cannot be removed by haemodialysis.
