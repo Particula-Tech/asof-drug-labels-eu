@@ -6,22 +6,25 @@ Symptoms of the flu syndrome tend to be most prominent at the initiation of ther
 
 Other less common events include:
 Body as a whole : anorexia, hypersensitivity reactions.
+Severe allergic reactions can occur rarely.
 A syncope episode may occur after AVONEX injection; it is normally a single episode that usually appears at the beginning of the treatment and does not recur with subsequent injections.
-Skin and appendages : alopecia, injection site reaction, pruritus, rash, urticaria
-Digestive system: diarrhoea, hepatitis, liver function test abnormalities, vomiting Cardiovascular system: chest pain, palpitations, tachycardia, vasodilation.
-Arrhythmia can rarely occur during treatment (see 4.4 Special warnings and special precautions for use).
-Reproductive system: metrorrhagia and/or menorrhagia
+Skin and appendages : alopecia, injection site reaction, pruritus, rash, urticaria.
+Digestive system: diarrhoea, hepatitis, liver function test abnormalities, vomiting.
+Cardiovascular system: chest pain, palpitations, tachycardia, vasodilation.
+Arrhythmia, cardiomyopathy and congestive heart failure can rarely occur during treatment with interferons (see 4.4 Special warnings and special precautions for use).
+Haematologic system: Rare cases of thrombocytopenia requiring treatment have been reported.
+Reproductive system: metrorrhagia and/or menorrhagia.
 Nervous system: anxiety, dizziness, insomnia, paresthesia.
-Seizures can rarely occur; depression and suicide have been reported (see 4.4 Special warnings and special precautions for use)
+Seizures can rarely occur; depression and suicide have been reported (see 4.4 Special warnings and special precautions for use).
 Musculo-skeletal system: arthralgia, pain.
 Transient episodes of hypertonia and/or severe muscular weakness that prevent voluntary movements may occur early in the course of therapy.
 These episodes are of limited duration, temporally related to the injections and may recur after subsequent injections.
-In some cases these symptoms are associated with flu-like symptoms
-Respiratory system: Dyspnoea
+In some cases these symptoms are associated with flu-like symptoms.
+Respiratory system: Dyspnoea.
 
-The administration of interferons has been associated with autoimmune disorders, central nervous system disorders and cardiac toxicity.
-Rare cases of congestive heart failure, arthritis, and hypo- and hyperthyroidism, confusion, emotional lability and psychosis have been reported with AVONEX.
+The administration of interferons has been associated with autoimmune disorders and central nervous system disorders.
+Rare cases of arthritis, hypo- and hyperthyroidism, confusion, emotional lability and psychosis have been reported with AVONEX.
 
-Although not usually requiring treatment, certain laboratory abnormalities may occur during treatment with AVONEX.
+Although not usually requiring treatment, certain laboratory abnormalities may occur during treatment with interferons.
 Decreases in circulating lymphocytes, white blood cell count, platelet count, neutrophils and hematocrit may occur.
-With interferons in general, transient increases in creatinine, potassium, urea nitrogen, and urinary calcium may occur.
+Transient increases in creatinine, potassium, urea nitrogen, and urinary calcium may also occur.

@@ -1,4 +1,4 @@
-# 4.6 Use during pregnancy and lactation
+# 4.6 Pregnancy and lactation
 
 Because of the potential hazards to the foetus, AVONEX (Interferon beta-1a) is contraindicated in pregnancy.
 There are no studies of Interferon beta-1a in pregnant women.

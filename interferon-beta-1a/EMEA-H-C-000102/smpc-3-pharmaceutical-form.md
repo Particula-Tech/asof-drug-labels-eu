@@ -1,6 +1,6 @@
 # 3. PHARMACEUTICAL FORM
 
-AVONEX (Interferon beta-1a) is a powder and solvent for solution for injection .
+AVONEX (Interferon beta-1a) is a powder and solvent for solution for injection.
 
 [AVONEX 30 μg (6 million IU) powder and solvent for solution for injection (SmPC 2)]
 
@@ -73,6 +73,7 @@ INSTRUCTIONS FOR PROPER USE
 Take your medicine as your doctor has advised.
 The usual dose of AVONEX is 30 μg (6 million IU) (1 ml of reconstituted solution in the vial) injected once a week.
 The product should be administered, if possible, at the same time on the same day each week.
+
 -Method and route of administration:
 
 AVONEX is to be injected into the muscle.
@@ -165,19 +166,22 @@ If he or she recommends an antipyretic analgesic, follow the advice carefully: d
 
 It is important to continue, and not alter, your medication unless your doctor advises you otherwise.
 
-Other less common side effects include palpitations, redness or pain at the injection site, , loss of appetite, flushing, joint pain, nausea, vomiting, difficulty sleeping, diarrhoea, nervousness, hair loss, rash including itching and wheals, irregularities and/or changes in menstrual flow, fainting, hepatitis, numbness or tingling, shortness of breath, chest pain, rapid heart beat, and muscle and joint pain.
+Other less common side effects include palpitations, redness or pain at the injection site, loss of appetite, flushing, joint pain, nausea, vomiting, difficulty sleeping, diarrhoea, nervousness, hair loss, rash including itching and wheals, irregularities and/or changes in menstrual flow, fainting, hepatitis, numbness or tingling, shortness of breath, chest pain, rapid heart beat, and muscle and joint pain.
+
+Serious allergic reactions are rare.
+If a severe reaction occurs, consult your doctor immediately.
 
 There is a possibility that you may experience transient muscle weakness and/or spasticity which occur rarely in the early stages of your therapy.
 In some cases these symptoms are associated with flu-like symptoms.
 A fainting episode may occur after Avonex injection; it is normally a single episode that usually appears at the beginning of the treatment and does not recur with subsequent injections.
 
-The administration of interferons has been associated with certain autoimmune disorders, nervous system related side effects and heart disorders.
-Rare cases of heart failure, arthritis, thyroid disorders (hypo- and hyperthyroidism), confusion, emotional instability and disordered thought processes have been reported with AVONEX.
+The administration of interferons has been associated with certain autoimmune disorders, nervous system related side effects, heart disorders, decrease in blood platelets and changes of laboratory test results.
+Rare cases of heart failure cardiomyopathy (disease of the heart muscle), arthritis, thyroid disorders (hypo- and hyperthyroidism), confusion, emotional instability and disordered thought processes have been reported with AVONEX.
 
 Tell your doctor, pharmacist or nurse immediately if you experience any of the above effects or notice anything else unusual while you are receiving treatment with AVONEX.
-
 10.
 THE EXPIRY DATE IS INDICATED ON THE LABEL
+
 The shelf-life of AVONEX (Interferon beta-1a) is 24 months.
 You should not use the product after the expiry date on the label.
 The first two numbers indicate the month after which the product can no longer be used, and the last two numbers indicate the year of expiry.
@@ -207,47 +211,43 @@ Belgique/België/Belgien, Italia
 Luxembourg/Luxemburg, and Nederland Dompé Biotech S.p.A.
 
 Biogen B.V. Via Santa Lucia, 4
-World Trade Centre 20122 Milano
-Stawinskylaan 757 Italia
-1077 XX Amsterdam Phone: 39 – (0) 2 58 30 16 71
+World Trade Center 20122 Milano
+Strawinskylaan 757 Italia
+1077 XX Amsterdam Phone: 39 - 02 583 834 10
 
 Nederland
 Phone: 31 – (0) 20 575 9150
 
-Danmark Sverige
-Astra Danmark A/S Astra Läkemedel AB
-Roskildevej 22 S-151 85 Södertälje
-2620 Albertslund Sweden
-Denmark Phone 46 – (0) 8 553 260 00
+Danmark United Kingdom and Ireland
+Sverige Biogen Ltd
+Suomi/Finland 5d Roxborough Way
+Biogen Denmark A/S Foundation Park
+Lyngbyvej 28 Maidenhead
+2100 København Ø Berkshire SL6 2UD
+Denmark United Kingdom
+Phone: 45 - 39 27 07 99 Phone: 44 - (0) 1 628 50 1000
+Deutschland and Österreich Portugal
+Biogen GmbH Apartado 28
+Carl-Zeiss-Ring 6 Casal Colaride
+85737 Ismaning Agualva
+Deutschland 2736 Cacém Codex
+Phone: 49 - (0) 89 99 6170 Portugal
 
-Phone: 45 – (43) 66 64 62
+Telefone: 351-(0) 1 431 2531
 
-Deutschland and Österreich Suomi/Finland
-Biogen GmbH Astra Finland Oy
-Carl-Zeiss-Ring 6 Et. Salmitie
-85737 Ismaning Masala, 02430
-Deutschland Suomi
-Phone: 49 - (0) 89 99 617/0 Phone: 358 – (0) 9 61 36 51
-España United Kingdom and Ireland
-Biogen S.A. Biogen Limited
-Ctra. Nacional I, Km. 36 Ocean House, The Ring
-28750 San Augustín de Guadalix - Bracknell, Berkshire RG12 1AX
-Madrid - United Kingdom
-España Phone: 44 – (0) 1 344 867 033
+España Ελλάδα
+Ctra. Nacional I, Km. 36 Genesis Pharma SA
+28750 San Augustin de Guadalix Φιλελλήνων 24
+Madrid 152 32 Χαλανδρι
+España Αθήνα
+Teléfono: 34 - (91) 848 8500 Ελλάδα
 
-Teléfono (34) (9) 1 848 85 00
-
-France Portugal
-Biogen France S.A. Apartado 28
-"Le Capitole" Casal Colaride, Agualva
-55 avenue des Champs Pierreux 2736 Cacém Codex
-92012 Nanterre Cedex - France Portugal
-Phone: 33 – (0) 1 41 37 76 40 Telefone: 351-(0) 1 431 25 31
-
-Ελλάδα
-Genesis Pharma SA
-Φιλελλήνων 24
-152 32 Χαλανδρι
-Αθήνα
 Τηλ.
 30 – (0) 1 68 56 860
+
+France
+Biogen France S.A.
+"Le Capitole"
+55 avenue des Champs Pierreux
+92012 Nanterre Cedex
+Phone: 33 – (0) 1 41 37 95 95
