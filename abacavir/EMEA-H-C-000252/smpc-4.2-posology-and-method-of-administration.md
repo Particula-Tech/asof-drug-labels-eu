@@ -20,6 +20,7 @@ No dose recommendation can be made in patients with mild hepatic impairment.
 No data are available in patients with moderate hepatic impairment, therefore the use of abacavir is not recommended unless judged necessary.
 In patients with mild and moderate hepatic impairment close monitoring is required, and if feasible, monitoring of abacavir plasma levels is recommended (see section 5.2).
 Abacavir is contraindicated in patients with severe hepatic impairment (see section 4.3 and 4.4).
+
 Elderly: No pharmacokinetic data is currently available in patients over 65 years of age.
 
 [Ziagen 20 mg/ml oral solution]

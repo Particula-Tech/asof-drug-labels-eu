@@ -64,16 +64,25 @@ They should be reminded of the importance of removing the Alert Card included in
 
 Lactic acidosis: lactic acidosis, usually associated with hepatomegaly and hepatic steatosis, has been reported with the use of nucleoside analogues.
 Early symptoms (symptomatic hyperlactatemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
+
 Lactic acidosis has a high mortality and may be associated with pancreatitis, liver failure, or renal failure.
 
 Lactic acidosis generally occurred after a few or several months of treatment.
-
 Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactatemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
 
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
 Patients co-infected with hepatitis C and treated with alpha interferon and ribavirin may constitute a special risk.
 
 Patients at increased risk should be followed closely.
+
+Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
+There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues.
+The main adverse events reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlactatemia, hyperlipasemia).
+These events are often transitory.
+Some late-onset neurological disorders have been reported (hypertonia, convulsion, abnormal behaviour).
+Whether the neurological disorders are transient or permanent is currently unknown.
+Any child exposed in utero to nucleoside and nucleotide analogues, even HIV-negative children, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in case of relevant signs or symptoms.
+These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
 Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
 The long-term consequences of these events are currently unknown.
@@ -106,6 +115,7 @@ Therefore, the use of abacavir in patients with moderate hepatic impairment is n
 For patients with severe hepatic impairment, Ziagen is contraindicated (see section 4.3).
 
 Ziagen should not be administered to patients with end-stage renal disease (see section 5.2).
+
 Patients receiving Ziagen or any other antiretroviral therapy may still develop opportunistic infections and other complications of HIV infection.
 Therefore patients should remain under close clinical observation by physicians experienced in the treatment of these associated HIV diseases.
 
@@ -115,9 +125,6 @@ Appropriate precautions should continue to be taken.
 [Ziagen 20 mg/ml oral solution]
 
 Moreover,on very rare occasions hypersensitivity reactions have been reported in patients who have restarted therapy, and who had no preceding symptoms of a hypersensitivity reaction.
-
-- Patients developing signs or symptoms possibly linked with a hypersensitivity reaction MUST
-CONTACT their doctor IMMEDIATELY.
 
 Ziagen oral solution contains 340 mg/ml of sorbitol.
 When taken according to the dosage recommendations each 15 ml dose contains approximately 5 g of sorbitol.

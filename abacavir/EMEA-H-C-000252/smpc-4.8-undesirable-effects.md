@@ -11,9 +11,7 @@ The signs and symptoms of this hypersensitivity reaction are listed below.
 These have been identified either from clinical studies or post marketing surveillance.
 Those reported in at least 10% of patients with a hypersensitivity reaction are in bold text.
 
-Rash (usually maculopapular or urticarial)
-Skin
-
+Skin Rash (usually maculopapular or urticarial)
 Gastrointestinal tract Nausea, vomiting, diarrhoea, abdominal pain, mouth ulceration
 Respiratory tract Dyspnoea, cough, sore throat, adult respiratory distress
 
@@ -41,7 +39,6 @@ Therefore, the diagnosis of hypersensitivity reaction should be carefully consid
 
 Symptoms usually appeared within the first six weeks (median time to onset 11 days) of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 Close medical supervision is necessary during the first two months, with consultations every two weeks.
-
 Risk factors that may predict the occurrence or severity of hypersensitivity to abacavir have not been identified.
 However, it is likely that intermittent therapy may increase the risk of developing sensitisation and therefore occurrence of clinically significant hypersensitivity reactions.
 Consequently, patients should be advised of the importance of taking Ziagen regularly.
@@ -84,7 +81,7 @@ Skin and subcutaneous tissue disorders
 Common: rash (without systemic symptoms)
 Very rare: erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis
 
-General disorders and administration site disorders
+General disorders and administration site conditions
 Common: fever, lethargy, fatigue.
 
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see section 4.4).

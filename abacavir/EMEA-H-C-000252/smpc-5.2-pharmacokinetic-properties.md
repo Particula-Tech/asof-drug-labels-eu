@@ -9,9 +9,9 @@ At therapeutic dosages (300 mg twice daily) in patients, the mean (CV) steady st
 The mean (CV) AUC over a dosing interval of 12 hours is 6 µg.h/ml.
 (29 %).
 The Cmax value for the oral solution is slightly higher than the tablet.
+
 Food delayed absorption and decreased Cmax but did not affect overall plasma concentrations (AUC).
 Therefore Ziagen can be taken with or without food.
-
 Distribution: Following intravenous administration, the apparent volume of distribution was about 0.8 l/kg, indicating that abacavir penetrates freely into body tissues.
 
 Studies in HIV infected patients have shown good penetration of abacavir into the cerebrospinal fluid (CSF), with a CSF to plasma AUC ratio of between 30 to 44%.
