@@ -7,3 +7,5 @@ The following undesirable effects were reported in 1-10% of patients: flatulence
 All these effects are commonly seen in patients with End Stage Renal Failure (ESRF) and are not necessarily attributable to Renagel.
 
 In a two-week double blind placebo controlled trial in 24 healthy volunteers and in a two week double blind placebo controlled trial involving 36 end stage renal failure patients no statistical difference was detected in the incidence of adverse events between the Renagel and placebo group.
+
+Post-marketing experience: In very rare cases, intestinal obstruction and ileus/subileus have been observed in patients during treatment with Renagel.

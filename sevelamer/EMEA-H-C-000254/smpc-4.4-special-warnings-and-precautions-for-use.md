@@ -7,6 +7,10 @@ Renagel should only be used in these patients following careful assessment of be
 
 Efficacy and safety of Renagel has not been studied in patients with active inflammatory bowel disease, gastrointestinal motility disorders, abnormal or irregular bowel motion and patients with a history of major gastrointestinal surgery.
 Consequently, caution should be exercised when Renagel is used in patients with these disorders.
+In very rare cases, intestinal obstruction and ileus/subileus have been observed in patients during treatment with Renagel.
+Constipation may be a preceding symptom.
+Patients who are constipated should be monitored carefully while being treated with Renagel.
+Renagel treatment should be re-evaluated in patients who develop severe constipation.
 
 Renagel alone is not indicated for the control of hyperparathyroidism.
 In patients with secondary hyperparathyroidism Renagel should be used within the context of a multiple therapeutic approach, which could include calcium supplements, 1,25 - dihydroxy Vitamin D3 or one of its analogues to lower the intact parathyroid hormone (iPTH) levels.
