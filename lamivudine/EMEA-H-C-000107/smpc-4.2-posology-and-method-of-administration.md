@@ -39,19 +39,3 @@ Dosing Recommendations – Children from 3 months to 12 years:
 
 Hepatic Impairment: Data obtained in patients with moderate to severe hepatic impairment shows that lamivudine pharmacokinetics are not significantly affected by hepatic dysfunction.
 Based on these data, no dose adjustment is necessary in patients with moderate or severe hepatic impairment unless accompanied by renal impairment.
-
-[Epivir 10 mg/ml oral solution]
-
-Adults and adolescents over 12 years of age: the recommended dose of Epivir is 150 mg (15 ml) twice daily.
-
-Epivir is also available as a tablet formulation.
-
-The dose should therefore be adjusted (see tables).
-
-| Creatinine clearance (ml/min) | First Dose | Maintenance Dose |
-| --- | --- | --- |
-| ≥50 | 150 mg (15 ml) | 150 mg (15 ml) Twice daily |
-| 30 to<50 | 150 mg (15 ml) | 150 mg (15 ml) Once daily |
-| 15 to <30 | 150 mg (15 ml) | 100 mg (10 ml) Once daily |
-| 5 to <15 | 150 mg (15 ml) | 50 mg (5 ml) Once daily |
-| <5 | 50 mg (5 ml) | 25 mg (2.5 ml) Once daily |

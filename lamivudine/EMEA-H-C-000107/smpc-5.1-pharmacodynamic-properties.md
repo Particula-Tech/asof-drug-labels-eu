@@ -21,7 +21,3 @@ Furthermore, in vivo, there is evidence showing that lamivudine plus zidovudine 
 
 In vitro, lamivudine demonstrates low cytotoxicity to peripheral blood lymphocytes, to established lymphocyte and monocyte-macrophage cell lines and to a variety of bone marrow progenitor cells in vitro.
 Lamivudine therefore has, in vitro, a high therapeutic index.
-
-[Epivir 10 mg/ml oral solution]
-
-Furthermore, in vivo, there is evidence showing that lamivudine plus zidovudine delays the emergence of zidovudine-resistant isolates in individuals with no prior antiretroviral therapy.
