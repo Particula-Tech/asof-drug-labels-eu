@@ -1,74 +1,106 @@
 # 4.8 Undesirable effects
 
-Adverse reactions to Zometa are similar to those reported for other bisphosphonates and can be expected to occur in approximately 21 % of patients for 4 mg, 24 % for 8 mg and 17 % for pamidronate 90 mg.
-Intravenous administration has been most commonly associated with a rise in body temperature in approximately 11 % of patients.
-A flu-like syndrome consisting of fever (7 % for 4 mg and 10 % for 8 mg) and bone pain (1 % for 4 mg and 1 % for 8 mg) has also been reported.
-Occasionally cases of arthralgia, fatigue, confusion, thirst, pancytopenia and bradycardia have been reported (1.2 % for 4 mg only).
+Frequencies of adverse reactions for Zometa 4 mg are mainly based on data collection from chronic treatment.
+Adverse reactions to Zometa are similar to those reported for other bisphosphonates and can be expected to occur in approximately one third of patients.
+Intravenous administration has been most commonly associated with a flu-like syndrome in about 9 % of patients, including bone pain (9.1 %), fever (7.2 %), fatigue (4.1 %) and rigors (2.8 %).
+Occasionally cases of arthralgia and myalgia in approximately 3 % have been reported.
 No information is available on the reversibility of these adverse effects.
 
-Frequently, the reduction in renal calcium excretion is accompanied by a fall in serum phosphate levels (3.5 % of patients) not requiring treatment.
-The serum calcium may fall to asymptomatic hypocalcaemic levels (6 % of patients).
+Frequently, the reduction in renal calcium excretion is accompanied by a fall in serum phosphate levels (in approximately 20 % of patients), which is asymptomatic not requiring treatment.
+The serum calcium may fall to asymptomatic hypocalcaemic levels in approximately 3 % of patients.
 
-Gastrointestinal reactions, such as nausea (1 % for 4 mg and 3 % for 8 mg) and vomiting (1 % for 4 mg and 1 % for 8 mg) have been reported following intravenous infusion of Zometa.
-Local reactions at the infusion site such as redness or swelling were also observed (0 % for 4 mg and 1 % for 8 mg).
-Some cases of rash (0 % for 4 mg and 1 % for 8 mg), pruritus (1 % for 4 mg and 1 % for 8 mg) and chest pain (1 % for 4 mg and 1 % for 8 mg) have been observed.
+Gastrointestinal reactions, such as nausea (5.8 %) and vomiting (2.6 %) have been reported following intravenous infusion of Zometa.
+Occasionally local reactions at the infusion site such as redness or swelling and/or pain were also observed in less than 1 % of the patients.
 
-As with other bisphosphonates, cases of conjunctivitis (0 % for 4 mg and 1 % for 8 mg) and hypomagnesaemia (1 % for 4 mg and 0 % for 8 mg) have been reported.
+Anorexia was reported in 1.5 % of patients treated with Zometa 4 mg.
 
-There have been some reports of impaired renal function (2.3 % for 4 mg and 3.1% for 8 mg); however, other risk factors in this severely ill patient population may have contributed as well.
+Few cases of rash or pruritus have been observed (below 1 %).
 
-The following adverse drug reactions, listed in Table 1, have been accumulated from clinical studies in TIH with zoledronic acid:
+As with other bisphosphonates, cases of conjunctivitis in approximately 1 % have been reported.
+
+There have been some reports of impaired renal function (1.2 %), although the aetiology appears to be multifactorial in many cases.
+
+Based on pooled analysis of placebo controlled studies, severe anaemia (Hb < 8.0 g/dl) was reported in 4.3 % of patients receiving Zometa 4 mg versus 3.2 % on placebo.
+
+In the TIH setting the frequency of adverse drug reactions with the 8 mg retreatment dose is similar to the 4 mg chronic administration, with the exception of renal function impairment (3.1 %) and hypocalcaemia (6 %) being slightly higher, which could be explained by other confounding factors that are frequent in this severely ill patient population.
+
+The following adverse drug reactions, listed in Table 1, have been accumulated from clinical studies following predominantly chronic treatment with zoledronic acid:
 
 Table 1
 
-Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100), rare (>1/10,000, <1/1,000), very rare (<1/10,000), including isolated reports.
+Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (�1/10), common (�1/100, <1/10), uncommon (�1/1,000, <1/100), rare (�1/10,000, <1/1,000), very rare (<1/10,000), including isolated reports.
 
 Blood and lymphatic system disorders
 
-Common: Pancytopenia
-Uncommon: Thrombocytopenia
+Common: Anaemia
+Uncommon: Thrombocytopenia, leukopenia
+Rare: Pancytopenia
 
 Nervous system disorders
 
-Common: Confusion
-Uncommon: Headache
+Common: Headache
+Uncommon: Dizziness, paraesthesia, taste disturbance,
+
+hypoaesthesia, hyperaesthesia, tremor
+Psychiatric disorders
+
+Uncommon: Anxiety, sleep disturbance
+Rare: Confusion
 
 Eye disorders
 
-Uncommon: Conjunctivitis
+Common: Conjunctivitis
+Uncommon Blurred vision
 
 Gastrointestinal disorders
 
-Common: Nausea
-Uncommon: Vomiting
+Common: Nausea, vomiting, anorexia
+Uncommon: Diarrhoea, constipation, abdominal pain,
+
+dyspepsia, stomatitis, dry mouth
+Respiratory, thoracic and mediastinal disorders
+
+Uncommon: Dyspnoea, cough
 
 Skin and subcutaneous tissue disorders
 
-Uncommon: Pruritus, erythematous rash
+Uncommon: Pruritus, rash (including erythematous and
 
+macular rash), increased sweating
 Musculoskeletal, connective tissue and bone disorders
 
-Common: Fatigue, arthralgia
-Uncommon: Skeletal pain,
+Common: Bone pain, myalgia, arthralgia
+Uncommon: Muscle cramps
 
 Cardiovascular disorders
 
-Common: Bradycardia
+Rare: Bradycardia
 
 Renal and urinary disorders
 
-Common: Creatinine level elevations
-Very rare: Acute renal failure
+Common: Renal impairment
+Uncommon: Acute renal failure, haematuria, proteinuria
+
+Immune system disorders
+
+Uncommon: Hypersensitivity reaction
+Rare: Angioneurotic oedema
 
 General disorders and administration site conditions
 
-Very common: Fever
-Common: Taste perversion, thirst
-Uncommon: Chest pain
+Common: Fever, flu-like syndrome (including fatigue,
 
+rigors, malaise and flushing)
+
+Uncommon: Asthenia, peripheral oedema, injection site
+
+reactions (including pain, irritation, swelling, induration), chest pain, weight increase
 Laboratory abnormalities
 
-Common: Hypocalcaemia, hypophosphataemia,
+Very common: Hypophosphataemia
+Common: Blood creatinine and blood urea increased,
 
-Hypomagnesaemia
-Uncommon:
+hypocalcaemia
+
+Uncommon: Hypomagnesaemia
+Rare: Hyperkalaemia, hypokalaemia, hypernatraemia
