@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: acetylcholinesterase inhibitor; ATC-code: N07AA
+Pharmacotherapeutic group: acetylcholinesterase inhibitor; ATC-code: N06D A03
 
 Rivastigmine is an acetylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones.
 Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits associated with Alzheimer’s disease.
@@ -24,13 +24,40 @@ It is important to note that the scales used in this indication vary and direct 
 
 Table 1
 
-|  | Patients with Clinically Significant Response (%) |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Intent to Treat |  | Last Observation Carried Forward |  |
+Patients with Clinically Significant Response (%)
+Intent to Treat Last Observation Carried
+Forward
+
 | Response Measure | Rivastigmine 6-12 mg N=473 | Placebo N=472 | Rivastigmine 6-12 mg N=379 | Placebo N=444 |
+| --- | --- | --- | --- | --- |
 | ADAS-Cog: improvement of at least 4 points | 21*** | 12 | 25*** | 12 |
 | CIBIC-Plus: improvement | 29*** | 18 | 32*** | 19 |
 | PDS: improvement of at least 10% | 26*** | 17 | 30*** | 18 |
 | At least 4 points improvement on ADAS-Cog with no worsening on CIBIC-Plus and PDS | 10* | 6 | 12** | 6 |
 
 * p<0.05, **p<0.01, ***p<0.001
+
+[EXELON 3 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 4.5 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 6 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 2 mg/ml Oral Solution]
+
+The efficacy of Exelon has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
+
+|  | Patients with Clinically Significant Response (%) |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Intent to Treat |  | Last Observation Carried Forward |  |
+| Response Measure | Rivastigmine 6–12 mg N=473 | Placebo N=472 | Rivastigmine 6–12 mg N=379 | Placebo N=444 |
+| ADAS-Cog: improvement of at least 4 points | 21*** | 12 | 25*** | 12 |
+| CIBIC-Plus: improvement | 29*** | 18 | 32*** | 19 |
+| PDS: improvement of at least 10% | 26*** | 17 | 30*** | 18 |
+| At least 4 points improvement on ADAS-Cog with no worsening on CIBIC-Plus and PDS | 10* | 6 | 12** | 6 |
