@@ -3,6 +3,7 @@
 The preclinical safety profile of imatinib was assessed in rats, dogs, monkeys and rabbits.
 
 Multiple dose toxicity studies revealed mild to moderate haematological changes in rats, dogs and monkeys, accompanied by bone marrow changes in rats and dogs.
+
 The liver was a target organ in rats and dogs.
 Mild to moderate increases in transaminases and slight decreases in cholesterol, triglycerides, total protein and albumin levels were observed in both species.
 No histopathological changes were seen in rat liver.
@@ -10,7 +11,7 @@ Severe liver toxicity was observed in dogs treated for 2 weeks, with elevated li
 
 Renal toxicity was observed in monkeys treated for 2 weeks, with focal mineralization and dilation of the renal tubules and tubular nephrosis.
 Increased BUN and creatinine were observed in several of these animals.
-In rats, hyperplasia of the transitional epithelium in the renal papilla and in the urinary bladder was observed at doses ≥ 6 mg/kg in the 13-week study, without changes in serum or urinary parameters.
+In rats, hyperplasia of the transitional epithelium in the renal papilla and in the urinary bladder was observed at doses � 6 mg/kg in the 13-week study, without changes in serum or urinary parameters.
 An increased rate of opportunistic infections was observed with chronic imatinib treatment.
 
 In a 39-week monkey study, no NOAEL has been established at the lowest dose of 15 mg/kg, approximately one-third the maximum human dose of 800 mg based on body surface.

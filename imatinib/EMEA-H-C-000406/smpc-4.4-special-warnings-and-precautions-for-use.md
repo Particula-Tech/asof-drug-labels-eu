@@ -9,13 +9,20 @@ Glivec should be taken with food and a large glass of water to minimise the risk
 
 Metabolism of Glivec is mainly hepatic, and only 13% of excretion is through the kidneys.
 There are currently no clinical trials with Glivec in patients with impaired liver or renal function.
-Glivec should not be used in patients with severe hepatic impairment unless clearly necessary.
+Glivec should only be used in patients with severe hepatic impairment after a detailed benefit/risk assessment.
 In these cases, peripheral blood counts and liver enzymes should be carefully monitored (see sections 4.2 and 4.8).
+It should be noted that GIST patients may have hepatic metastases which could lead to hepatic impairment.
 
 Occurrences of severe fluid retention (pleural effusion, oedema, pulmonary oedema, ascites) have been reported in approximately 1 to 2% of patients taking Glivec.
 Therefore, it is highly recommended that patients be weighed regularly.
 An unexpected rapid weight gain should be carefully investigated and if necessary appropriate supportive care and therapeutic measures should be undertaken.
 In clinical trials, there was an increased incidence of these events in elderly patients and those with a prior history of cardiac disease.
+Therefore, caution should be exercised in patients with cardiac dysfunction.
+
+In the GIST clinical trial, both gastrointestinal and intra-tumoural haemorrhages were reported (see section 4.8).
+Based on the available data, no predisposing factors (e.g. tumour size, tumour location, coagulation disorders) have been identified that place patients with GIST at a higher risk of either type of haemorrhage.
+Since increased vascularity and propensity for bleeding is a part of the nature and clinical course of GIST, standard practices and procedures for the monitoring and management of haemorrhage in all patients should be applied.
+
 Laboratory tests
 Complete blood counts must be performed regularly during therapy with Glivec.
 Treatment of CML patients with Glivec has been associated with neutropenia or thrombocytopenia.
