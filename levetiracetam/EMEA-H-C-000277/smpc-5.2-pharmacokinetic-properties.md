@@ -57,7 +57,6 @@ Elderly
 
 In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
 This is related to the decrease in renal function in this population (see section 4.2 “Posology”).
-
 Children (6 to 12 years)
 
 Following single dose administration (20 mg/kg) to epileptic children, the half-life of levetiracetam was 6.0 hours.
@@ -67,6 +66,7 @@ Renal impairment
 
 The apparent body clearance of both levetiracetam and of its primary metabolite is correlated to the creatinine clearance.
 It is therefore recommended to adjust the maintenance daily dose of Keppra, based on creatinine clearance in patients with moderate and severe renal impairment (see section 4.2 “Posology”).
+
 In anuric end-stage renal disease subjects the half-life was approximately 25 and 3.1 hours during interdialytic and intradialytic periods, respectively.
 The fractional removal of levetiracetam was 51 % during a typical 4-hour dialysis session.
 
