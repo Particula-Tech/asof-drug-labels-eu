@@ -13,7 +13,6 @@ In a multiple dose clinical trial, in which up to 20 mg of desloratadine was adm
 In a clinical pharmacology trial, in which desloratadine was administered at a dose of 45 mg daily (nine times the clinical dose) for ten days, no prolongation of QTc interval was seen.
 
 No clinically relevant changes in desloratadine plasma concentrations were observed in multiple-dose ketoconazole and erythromycin interaction trials.
-
 Desloratadine does not readily penetrate the central nervous system.
 At the recommended dose of 5 mg daily, there was no excess incidence of somnolence as compared to placebo.
 Azomyr given at a single daily dose of 7.5 mg did not affect psychomotor performance in clinical trials.
@@ -60,6 +59,7 @@ Azomyr tablets were effective in alleviating the burden of seasonal allergic rhi
 [Azomyr 5 mg oral lyophilisate]
 
 In two single-dose trials, Azomyr oral lyophilisate was well tolerated as documented by clinical laboratory findings, physical examinations, vital signs, and ECG interval data.
+
 At the recommended dose, Azomyr oral lyophilisate was found to be bioequivalent to the conventional tablet formulation of desloratadine.
 Therefore, the efficacy of Azomyr oral lyophilisate is expected to be the same as with the Azomyr tablet formulation.
 
