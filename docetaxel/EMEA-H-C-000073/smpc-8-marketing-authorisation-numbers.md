@@ -2,6 +2,6 @@
 
 EU/1/95/002/001
 
-[TAXOTERE (docetaxel) 80 mg]
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
 
 EU/1/95/002/002

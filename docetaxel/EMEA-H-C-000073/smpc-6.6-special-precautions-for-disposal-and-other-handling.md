@@ -1,7 +1,6 @@
-# 6.6 Instructions for use and handling, and disposal (if appropriate)
+# 6.6 Instructions for use and handling, and disposal
 
 Recommendations for the safe handling
-
 TAXOTERE is an antineoplastic agent and, as with other potentially toxic compounds, caution should be exercised when handling it and preparing TAXOTERE solutions.
 The use of gloves is recommended.
 
@@ -37,15 +36,14 @@ If a dose greater than 200 mg of docetaxel is required, use a larger volume of t
 
 Mix the infusion bag or bottle manually using a rocking motion.
 
-The TAXOTERE infusion solution should be aseptically administered intravenously within the 4 hours including a 1 hour infusion under room temperature and normal lighting conditions.
+The TAXOTERE infusion solution should be used within 4 hours and should be aseptically administered as a 1-hour infusion under room temperature and normal lighting conditions.
 
 As with all parenteral products, TAXOTERE premix solution and infusion solution should be visually inspected prior to use, solutions containing a precipitate should be discarded.
-
 Disposal
 
 All materials that have been utilised for dilution and administration should be disposed of according to standard procedures.
 
-[TAXOTERE (docetaxel) 80 mg]
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
 
 Use a syringe fitted with a needle, aseptically withdraw the entire contents of the solvent for TAXOTERE vial.
 

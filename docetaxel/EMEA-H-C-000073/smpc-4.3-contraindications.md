@@ -1,6 +1,6 @@
-# 4.3 Contra-indications
+# 4.3 Contraindications
 
-Docetaxel is contraindicated in patients who have a history of severe hypersensitivity reactions to the drug or polysorbate 80.
+Hypersensitivity reactions to the active substance or to any of the excipients.
 
 Docetaxel should not be used in patients with baseline neutrophil count of <1,500 cells/mm3.
 

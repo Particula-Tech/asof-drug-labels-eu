@@ -9,23 +9,23 @@ Haematology
 Neutropenia is the most frequent adverse reaction of docetaxel.
 Neutrophil nadirs occurred at a median of 7 days but this interval may be shorter in heavily pretreated patients.
 Frequent monitoring of complete blood counts should be conducted on all patients receiving docetaxel.
-Patients should be retreated with docetaxel when neutrophils recover to a level ≥1,500 cells/mm3 (See “Posology and method of administration” section).
+Patients should be retreated with docetaxel when neutrophils recover to a level
+≥1,500 cells/mm3 (See “Posology and method of administration” section).
 
 In the case of severe neutropenia (<500 cells/mm3 for seven days or more) during a course of docetaxel therapy, a reduction in dose for subsequent courses of therapy or the use of appropriate symptomatic measures are recommended.
 
-Hypersensitivity Reactions
+Hypersensitivity reactions
+
 Patients should be observed closely for hypersensitivity reactions especially during the first and second infusions.
 Hypersensitivity reactions may occur within a few minutes following the initiation of the infusion of docetaxel, thus facilities for the treatment of hypotension and bronchospasm should be available.
 If hypersensitivity reactions occur, minor symptoms such as flushing or localised cutaneous reactions do not require interruption of therapy.
 However, severe reactions, such as severe hypotension, bronchospasm or generalised rash/erythema require immediate discontinuation of docetaxel and appropriate therapy.
 Patients who have developed severe hypersensitivity reactions should not be rechallenged with docetaxel.
-
 Cutaneous reactions
 
 Localised skin erythema of the extremities (palms of the hands and soles of the feet) with oedema followed by desquamation has been observed.
 Severe symptoms such as eruptions followed by desquamation which lead to interruption or discontinuation of docetaxel treatment were reported in 5.9% of the patients (see “Posology and method of administration” section).
-Bullous epidermolysis has not been observed.
-
+Localised bullous eruptions have rarely been reported.
 Fluid retention
 
 A premedication consisting of an oral corticosteroid, such as dexamethasone 16 mg per day (e.g. 8 mg BID) for 3 days starting 1 day prior to docetaxel administration, unless contraindicated, can reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions (see “Posology and method of administration” section).

@@ -1,8 +1,9 @@
 # 6.3 Shelf-life
 
-Vials of TAXOTERE concentrate and solvent for solution for infusion should be stored between +2°C and +25°C and protected from bright light.
-The shelf-life under these conditions is 15 months for TAXOTERE 20 mg.
+TAXOTERE vials: 15 months
+Premix solution: the premix solution should be used immediately to prepare the infusion solution.
+Infusion solution: the infusion solution should be used within 4 hours at room temperature.
 
-[TAXOTERE (docetaxel) 80 mg]
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
 
-The shelf-life under these conditions is 18 months for TAXOTERE 80 mg.
+TAXOTERE vials: 18 months

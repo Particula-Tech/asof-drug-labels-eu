@@ -1,7 +1,7 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
-TAXOTERE (docetaxel) 20 mg
+TAXOTERE 20 mg concentrate and solvent for solution for infusion
 
-[TAXOTERE (docetaxel) 80 mg]
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
 
-TAXOTERE (docetaxel) 80 mg
+TAXOTERE 80 mg concentrate and solvent for solution for infusion
