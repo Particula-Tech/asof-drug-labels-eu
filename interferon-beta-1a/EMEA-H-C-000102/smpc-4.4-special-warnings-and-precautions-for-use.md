@@ -1,6 +1,6 @@
 # 4.4 Special warnings and special precautions for use
 
-There is limited long-term safety experience with AVONEX (Interferon beta-1a) beyond 2 years Patients should be informed of the most common adverse events associated with interferon beta administration, including symptoms of the flu-like syndrome (see 4.8 Undesirable effects).
+Patients should be informed of the most common adverse events associated with interferon beta administration, including symptoms of the flu-like syndrome (see 4.8 Undesirable effects).
 These symptoms tend to be most prominent at the initiation of therapy and decrease in frequency and severity with continued treatment.
 
 AVONEX should be used with caution in patients with depression.
@@ -22,6 +22,7 @@ Patients should be advised about the abortifacient potential of interferon beta 
 Laboratory abnormalities are associated with the use of interferons.
 Therefore, in addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, complete and differential white blood cell counts, platelet counts, and blood chemistries, including liver function tests, are recommended during AVONEX therapy.
 Patients with myelosuppression may require more intensive monitoring of complete blood cell counts, with differential and platelet counts.
+
 Patients may develop antibodies to AVONEX.
 The antibodies of some of those patients reduce the activity of interferon beta-1a in vitro (neutralising antibodies).
 Neutralising antibodies are associated with a reduction in the in vivo biological effects of AVONEX and may potentially be associated with a reduction of clinical efficacy.

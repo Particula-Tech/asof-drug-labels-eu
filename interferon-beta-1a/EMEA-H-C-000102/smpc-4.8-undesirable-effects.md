@@ -3,6 +3,7 @@
 The highest incidence of adverse events associated with the interferon therapy are related to flu syndrome.
 The most commonly reported symptoms of the flu syndrome are muscle ache, fever, chills, asthenia, headache, and nausea.
 Symptoms of the flu syndrome tend to be most prominent at the initiation of therapy and decrease in frequency with continued treatment.
+
 Other less common events include:
 Body as a whole : anorexia, hypersensitivity reactions.
 Weight loss and severe allergic reactions can occur rarely.
