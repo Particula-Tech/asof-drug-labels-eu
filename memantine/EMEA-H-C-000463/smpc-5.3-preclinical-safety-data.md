@@ -5,7 +5,7 @@ Ataxia and other preclinical signs have preceded the vacuolisation and necrosis.
 As the effects have neither been observed in long term studies in rodents nor in non-rodents, the clinical relevance of these findings is unknown.
 
 Ocular changes were inconsistently observed in repeat dose toxicity studies in rodents and dogs, but not in monkeys.
-Specific ophtalmoscopic examinations in clinical studies with memantine did not disclose any ocular changes.
+Specific ophthalmoscopic examinations in clinical studies with memantine did not disclose any ocular changes.
 
 Phospholipidosis in pulmonary macrophages due to accumulation of memantine in lysosomes was observed in rodents.
 This effect is known from other drugs with cationic amphiphilic properties.

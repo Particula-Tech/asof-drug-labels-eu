@@ -9,6 +9,6 @@ Concomitant administration of memantine with the antispasmodic agents, dantrolen
 Both compounds are chemically related NMDA-antagonists.
 The same may be true for ketamine and dextromethorphan (see also section 4.4).
 There is one published case report on a possible risk also for the combination of memantine and phenytoin. � Other drugs such as cimetidine, ranitidine, procainamide, quinidine, quinine and nicotine that use the same renal cationic transport system as amantadine may also possibly interact with memantine leading to a potential risk of increased plasma levels.
-� There may be a possibility of reduced excretion of hydrochlorothiazide (HCT) when memantine is co-administered with HCT or any combination with HCT.
+� There may be a possibility of reduced serum level of hydrochlorothiazide (HCT) when memantine is co-administered with HCT or any combination with HCT.
 
 Memantine did not inhibit CYP 1A2, 2A6, 2C9, 2D6, 2E1, 3A, flavin containing monoxygenase, epoxide hydrolase and sulphation in vitro.
