@@ -6,3 +6,6 @@ The active ingredient of Caelyx is doxorubicin hydrochloride, a cytotoxic anthra
 The exact mechanism of the antitumour activity of doxorubicin is not known.
 It is generally believed that inhibition of DNA, RNA and protein synthesis is responsible for the majority of the cytotoxic effects.
 This is probably the result of intercalation of the anthracycline between adjacent base pairs of the DNA double helix thus preventing their unwinding for replication.
+
+A phase III comparative study of Caelyx versus topotecan in patients with epithelial ovarian cancer following failure of first-line, platinum based chemotherapy was completed in 474 patients.
+The results of the study for evaluable patients demonstrate non-inferiority of Caelyx with topotecan, however, this is less convincing in platinum refractory patients.
