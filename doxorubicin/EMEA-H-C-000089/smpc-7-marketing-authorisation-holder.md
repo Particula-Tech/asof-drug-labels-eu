@@ -1,8 +1,5 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-SEQUUS Pharmaceuticals, Incorporated
-10 Barley Mow Passage
-London W4 4PH
-England
-
-- 11 -
+SP Europe,
+Rue de Stalle, 73
+1180 Brussels, Belgium

@@ -1,3 +1,3 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
-Caelyx®
+Caelyx

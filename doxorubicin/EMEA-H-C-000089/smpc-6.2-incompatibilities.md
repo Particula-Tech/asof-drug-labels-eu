@@ -1,3 +1,3 @@
 # 6.2 Incompatibilities
 
-DO NOT MIX WITH OTHER DRUGS.
+Do not mix with other drugs.
