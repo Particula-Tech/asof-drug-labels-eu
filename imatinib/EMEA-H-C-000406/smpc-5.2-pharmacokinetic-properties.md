@@ -51,6 +51,10 @@ This change is not thought to be clinically significant.
 The effect of bodyweight on the clearance of imatinib is such that for a patient weighing 50 kg the mean clearance is expected to be 8.5 l/h, while for a patient weighing 100 kg the clearance will rise to 11.8 l/h.
 These changes are not considered sufficient to warrant dose adjustment based on kg bodyweight.
 There is no effect of gender on the kinetics of imatinib.
+Pharmacokinetcs in children
+As in adult patients, imatinib was rapidly absorbed after oral administration in paediatric patients in a phase I study.
+Dosing in children at 260 and 340 mg/m2 achieved the same exposure, respectively, as doses of 400 mg and 600 mg in adult patients.
+The comparison of AUC(0-24) on day 8 and day 1 at the 340 mg/m2 dose level revealed a 1.7-fold drug accumulation after repeated once-daily dosing.
 
 Organ function impairment
 Imatinib and its metabolites are not excreted via the kidney to a significant extent.
