@@ -5,13 +5,13 @@ Epivir is not recommended for use as monotherapy.
 In patients with moderate to severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (See dosage in renal impairment, in 4.2.
 Posology and method of administration).
 
-Once daily dosing (300mg once a day): a clinical study has demonstrated the non inferiority between Epivir once a day and Epivir twice a day containing regimens.
+Once daily dosing (300 mg once a day): a clinical study has demonstrated the non inferiority between Epivir once a day and Epivir twice a day containing regimens.
 These, results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
-
 Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
 
 Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual conduct or blood contamination.
 Appropriate precautions should continue to be taken.
+
 Pancreatitis: Cases of pancreatitis have occurred rarely.
 However it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease.
 Treatment with Epivir should be stopped immediately if clinical signs, symptoms or laboratory abnormalities suggestive of pancreatitis occur.
@@ -29,6 +29,15 @@ Patients co-infected with hepatitis C and treated with alpha interferon and riba
 
 Patients at increased risk should be followed closely .
 
+Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
+The long-term consequences of these events are currently unknown.
+Knowledge about the mechanism is incomplete.
+A connection between visceral lipomatosis and protease inhibitors (Pis) and lipoatrophy and nucleoside reverse transcriptase inhibitors (NRTIs) has been hypothesised.
+A higher risk of lipodystrophy has been associated with individual factors such as older age, and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
+Clinical examination should include evaluation for physical signs of fat redistribution.
+Consideration should be given to the measurement of fasting serum lipids and blood glucose.
+Lipid disorders should be managed as clinically appropriate (see section 4.8 Undesirable effects).
+
 Patients co-infected with Hepatitis B virus: Clinical trial and marketed use of lamivudine, have shown that some patients with chronic hepatitis B virus (HBV) disease may experience clinical or laboratory evidence of recurrent hepatitis upon discontinuation of lamivudine, which may have more severe consequences in patients with decompensated liver disease.
 If Epivir is discontinued in patients co-infected with Hepatitis B virus, periodic monitoring of both liver function tests and markers of HBV replication should be considered.
 
@@ -38,10 +47,11 @@ In patients with moderate –to- severe renal impairment, the terminal plasma ha
 
 Diabetic patients should be advised that each dose (150 mg = 15 ml) contains 3 g of sucrose.
 
-Once daily dosing (300 mg once a day): a clinical study has demonstrated the non inferiority between Epivir once a day and Epivir twice a day containing regimens.
 These results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
 
 Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
+
+A connection between visceral lipomatosis and protease inhibitors (Pis) and lipoatrophy and nucleoside analogue reverse transcriptase inhibitors (NRTIs) has been hypothesised.
 
 [Epivir 300 mg film-coated tablets]
 

@@ -1,13 +1,19 @@
 # 6.1 List of excipients
 
 Tablet Core:
-Microcrystalline cellulose, Sodium starch glycollate (gluten free), Magnesium stearate
+Microcrystalline cellulose (E460),
+Sodium starch glycollate
+Magnesium stearate
+
 Tablet film-coat:
-Hypromellose, Titanium Dioxide, Macrogol, Polysorbate 80
+Hypromellose (E464)
+Titanium dioxide (E171),
+Macrogol,
+Polysorbate 80
 
 [Epivir 10 mg/ml oral solution]
 
-Sucrose 20%(3 g/15 ml)
+Sucrose 20 %(3 g/15 ml)
 Methyl parahydroxybenzoate
 Propyl parahydroxybenzoate
 Citric acid Anhydrous
@@ -19,4 +25,5 @@ Purified water
 
 [Epivir 300 mg film-coated tablets]
 
-Hypromellose, Titanium Dioxide, Black iron oxide (E172), Macrogol, Polysorbate 80
+Black iron oxide (E172),
+Macrogol, Polysorbate 80
