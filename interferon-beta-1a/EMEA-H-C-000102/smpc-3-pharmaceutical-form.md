@@ -1,6 +1,6 @@
 # 3. PHARMACEUTICAL FORM
 
-AVONEX (Interferon beta-1a) is a powder and solvent for solution for injection after reconstitution.
+AVONEX (Interferon beta-1a) is a powder and solvent for solution for injection .
 
 [AVONEX 30 μg (6 million IU) powder and solvent for solution for injection (SmPC 2)]
 
@@ -27,7 +27,6 @@ THERAPEUTIC INDICATION
 The medication should only be used under the strict supervision of a physician.
 AVONEX (Interferon beta-1a) is used to treat relapsing multiple sclerosis (MS).
 It has been shown to be useful in slowing the progression of the disease and reducing the number of flares.
-
 7.
 INFORMATION NECESSARY BEFORE TAKING THE MEDICINAL PRODUCT
 
@@ -70,6 +69,7 @@ Keep out of reach of children.
 INSTRUCTIONS FOR PROPER USE
 
 -Posology:
+
 Take your medicine as your doctor has advised.
 The usual dose of AVONEX is 30 μg (6 million IU) (1 ml of reconstituted solution in the vial) injected once a week.
 The product should be administered, if possible, at the same time on the same day each week.
@@ -136,7 +136,6 @@ Push the plunger carefully to remove the air without expelling more than a small
 Replace needle cover and set aside while the injection site is prepared.
 
 Injection
-
 The injection site should be chosen and cleansed with a new alcohol swab before injecting.
 Remove the plastic needle cover and insert the needle through the skin into the muscle.
 Inject slowly and remove the syringe.
@@ -146,6 +145,7 @@ Disposing of the rubbish properly
 
 Put the needles, syringes, and vials into a sharps container.
 Waste paper and used swabs can be put in an ordinary rubbish bin.
+
 -Action to be taken in case of overdose:
 
 Because of the route of administration and the presentation, an overdose is unlikely to occur.
@@ -172,14 +172,19 @@ Other less common side effects include:
 - Nausea, vomiting • Difficulty sleeping
 
 - Diarrhoea • Nervousness
+- Hair loss • Rash
 
-- Rash
+- Irregularities and/or changes in menstrual flow
+- Fainting
+
+There is a possibility that you may experience transient muscle weakness and/or spasticity which occur rarely in the early stages of your therapy.
+In some cases these symptoms are associated with flu-like symptoms.
+A fainting episode may occur after Avonex injection; it is normally a single episode that usually appears at the beginning of the treatment and does not recur with subsequent injections.
 
 Tell your doctor, pharmacist or nurse immediately if you experience any of the above effects or notice anything else unusual while you are receiving treatment with AVONEX.
 
 10.
 THE EXPIRY DATE IS INDICATED ON THE LABEL
-
 The shelf-life of AVONEX (Interferon beta-1a) is 24 months.
 You should not use the product after the expiry date on the label.
 The first two numbers indicate the month after which the product can no longer be used, and the last two numbers indicate the year of expiry.
@@ -189,9 +194,9 @@ The first two numbers indicate the month after which the product can no longer b
 Keep AVONEX unopened at temperatures of 25°C or less.
 Do not store in the freezer compartment.
 AVONEX should not be frozen or exposed to high temperature.
+
 The reconstituted solution (once in the syringe) can be stored at 2-8°C for up to 6 hours, prior to injection.
 The reconstituted solution should not be frozen or exposed to high temperature.
-
 DO NOT USE AVONEX (Interferon beta-1a):
 
 - If the vial seal is broken.

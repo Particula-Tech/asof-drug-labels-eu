@@ -13,7 +13,7 @@ Patients exhibiting depression should be monitored closely during therapy with A
 Cessation of therapy with AVONEX should be considered.
 
 Caution should be exercised when administering AVONEX to patients with pre-existing seizure disorder.
-For patients without a pre-existing seizure disorder who develop seizures during therapy with AVONEX, an aetiologic basis should be established and appropriate anti-convulsant therapy instituted prior to resuming AVONEX treatment.
+For patients without a pre-existing seizure disorder who develop seizures during therapy with AVONEX, an etiologic basis should be established and appropriate anti-convulsant therapy instituted prior to resuming AVONEX treatment.
 
 Caution should be used and close monitoring considered when administering AVONEX to patients with severe renal and hepatic failure and to patients with severe myelosuppression.
 
@@ -27,8 +27,8 @@ Patients with myelosuppression may require more intensive monitoring of complete
 
 Patients may develop antibodies to AVONEX.
 The antibodies of some of those patients reduce the activity of interferon beta-1a in vitro (neutralising antibodies).
-Neutralising antibodies are associated with a reduction in the in vivo biologic effects of AVONEX and may potentially be associated with a reduction of clinical efficacy.
+Neutralising antibodies are associated with a reduction in the in vivo biological effects of AVONEX and may potentially be associated with a reduction of clinical efficacy.
 It is estimated that the plateau for the incidence of neutralising antibody formation is reached after 12 months of treatment.
-Data from patients treated up to two years with AVONEX suggests that approximately 8% develop neutralising antibodies antibodies.
+Data from patients treated up to two years with AVONEX suggests that approximately 8% develop neutralising antibodies.
 
 The use of various assays to detect serum antibodies to interferons limits the ability to compare antigenicity among different products.
