@@ -1,4 +1,4 @@
-# 6.3 Shelflife
+# 6.3 Shelf life
 
 2 years.
 28 days after first use of the vial..

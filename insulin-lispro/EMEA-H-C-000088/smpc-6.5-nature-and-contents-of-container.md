@@ -31,6 +31,7 @@ Dimethicone or silicone emulsion may have been used to treat the vial stoppers.
 
 The suspension is contained in Type I flint glass cartridges, sealed with butyl or halobutyl disc seals and plunger heads and secured with aluminium seals.
 Dimethicone or silicone emulsion may have been used to treat the cartridge plunger, and/or the glass cartridge.
+
 5 x 3 ml Humalog Mix25 cartridges for a 3 ml pen.
 
 [Humalog Mix50 100 U/ml suspension for injection in cartridge]

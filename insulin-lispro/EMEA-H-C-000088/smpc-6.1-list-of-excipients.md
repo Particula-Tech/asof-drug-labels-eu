@@ -8,8 +8,7 @@ These are included as;
 
 [Humalog 100 U/ml, solution for injection in vial]
 
-7H2O (d) zinc oxide
-(e) water for injection (f) hydrochloric acid and (g) sodium hydroxide.
+(all sentences already above)
 
 [Humalog 100 U/ml, solution for injection in cartridge]
 
@@ -29,11 +28,12 @@ Protamine sulphate [0.28 mg/ml], m-Cresol distilled [1.76 mg/ml], phenol [0.80 m
 
 [Humalog Mix50 100 U/ml suspension for injection in cartridge]
 
-Protamine sulphate [0.19 mg/ml], m-Cresol distilled [2.20 mg/ml], phenol [1.00 mg/ml], glycerol, dibasic sodium phosphate.7H2O, zinc oxide, water for injections, hydrochloric acid and sodium hydroxide.
+Protamine sulphate [0.19 mg/ml], m-Cresol distilled [2.20 mg/ml], phenol [1.00 mg/ml], glycerol, dibasic sodium phosphate.
+7H2O, zinc oxide, water for injections, hydrochloric acid and sodium hydroxide.
 
 [Humalog NPL 100 U/ml suspension for injection in vial]
 
-Protamine sulphate [0.38 mg/ml], m-Cresol distilled [1.76 mg/ml], phenol [0.80 mg/ml], glycerol, dibasic sodium phosphate.7H2O, zinc oxide, water for injections, hydrochloric acid and sodium hydroxide.
+Protamine sulphate [0.38 mg/ml], m-Cresol distilled [1.76 mg/ml], phenol [0.80 mg/ml], glycerol, dibasic sodium phosphate.
 
 [Humalog NPL 100 U/ml suspension for injection in cartridge]
 
@@ -45,7 +45,7 @@ Protamine sulphate [0.38 mg/ml], m-Cresol distilled [1.76 mg/ml], phenol [0.80 m
 
 [Humalog Mix25 100 U/ml HumaJect suspension for injection]
 
-(all sentences already above)
+Protamine sulphate [0.28 mg/ml], m-Cresol distilled [1.76 mg/ml], phenol [0.80 mg/ml], glycerol, dibasic sodium phosphate.
 
 [Humalog Mix50 100 U/ml HumaJect, suspension for injection]
 
@@ -69,4 +69,4 @@ Protamine sulphate [0.38 mg/ml], m-Cresol distilled [1.76 mg/ml], phenol [0.80 m
 
 [Humalog NPL 100 U/ml Pen, suspension for injection]
 
-Protamine sulphate [0.38 mg/ml], m-Cresol distilled [1.76 mg/ml], phenol [0.80 mg/ml], glycerol, dibasic sodium phosphate.7H2O (f) zinc oxide, water for injections, hydrochloric acid and sodium hydroxide.
+7H2O (f) zinc oxide, water for injections, hydrochloric acid and sodium hydroxide.

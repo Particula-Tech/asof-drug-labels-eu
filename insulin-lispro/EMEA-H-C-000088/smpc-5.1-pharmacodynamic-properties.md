@@ -23,8 +23,8 @@ Activity
 0 1 2 3 4 5 6
 
 Time (Hours)
-
 The above representation reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins on glucose metabolism over time.
+
 Clinical trials have been performed in children (61 patients aged 2 to 11) and children and adolescents (481 patients aged 9 to 19 years), comparing insulin lispro to human soluble insulin.
 The pharmacodynamic profile of insulin lispro in children is similar to that seen in adults.
 
@@ -36,6 +36,7 @@ Glucodynamic differences between insulin lispro and soluble human insulin as mea
 
 [Humalog 100 U/ml, solution for injection in vial]
 
+Pharmacotherapeutic group: fast acting human insulin analogue.
 ATC code: A10A B04
 
 [Humalog 100 U/ml, solution for injection in cartridge]
@@ -96,11 +97,11 @@ Insulin lispro
 
 [Humalog Mix25 100 U/ml HumaJect suspension for injection]
 
-Hypoglycaemic NPL
+(all sentences already above)
 
 [Humalog Mix50 100 U/ml HumaJect, suspension for injection]
 
-(all sentences already above)
+Hypoglycaemic NPL
 
 [Humalog NPL 100 U/ml HumaJect suspension for injection]
 
