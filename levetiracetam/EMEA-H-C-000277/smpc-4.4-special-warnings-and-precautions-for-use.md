@@ -1,7 +1,8 @@
 # 4.4 Special warnings and special precautions for use
 
 In accordance with current clinical practice, if Keppra has to be discontinued it is recommended to withdraw it gradually (e.g. 500 mg twice daily decrements every two to four weeks).
-There are insufficient data for the withdrawal of concomitant antiepileptic medicinal products, once seizure control with levetiracetam in the add-on situation has been reached, in order to reach monotherapy on levetiracetam.
+
+In a study reflecting clinical practice, the concomitant antiepileptic medication could be withdrawn in a limited number of patients who responded to levetiracetam adjunctive therapy (36 patients out of 69).
 
 An increase in seizure frequency of more than 25 % has been reported in 14 % and 26 % of the levetiracetam and placebo treated patients, respectively.
 

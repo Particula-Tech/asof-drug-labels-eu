@@ -35,13 +35,13 @@ The metabolite ucb L057 is pharmacologically inactive.
 Two minor metabolites were also identified.
 One was obtained by hydroxylation of the pyrrolidone ring (1.6 % of the dose) and the other one by opening of the pyrrolidone ring (0.9 % of the dose).
 Other unidentified components accounted only for 0.6 % of the dose.
+
 No enantiomeric interconversion was evidenced in vivo for either levetiracetam nor its primary metabolite.
 
 In vitro, levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C8/9/10, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1*6, UGT1*1 and UGT [pl6.2]) and epoxide hydroxylase activities.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 In human hepatocytes in culture, levetiracetam did not cause enzyme induction.
 Therefore, the interaction of Keppra with other substances, or vice versa, is unlikely.
-
 Elimination
 
 The plasma half-life in adults was 7±1 hours and did not vary either with dose, route of administration or repeated administration.
