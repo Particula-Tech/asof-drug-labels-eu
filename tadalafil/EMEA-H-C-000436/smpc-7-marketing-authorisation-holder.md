@@ -1,4 +1,4 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Lilly ICOS Limited, 25 New Street Square, London, EC4A 3LN.
+Lilly ICOS Limited, St Bride’s House, 10 Salisbury Square, London, EC4Y 8EH.
 United Kingdom.

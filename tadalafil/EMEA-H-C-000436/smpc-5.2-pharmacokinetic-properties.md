@@ -17,6 +17,7 @@ Tadalafil is predominantly metabolised by the cytochrome P450 (CYP) 3A4 isoform.
 The major circulating metabolite is the methylcatechol glucuronide.
 This metabolite is at least 13,000-fold less potent than tadalafil for PDE5.
 Consequently, it is not expected to be clinically active at observed metabolite concentrations.
+
 Elimination
 The mean oral clearance for tadalafil is 2.5 l/h and the mean half-life is 17.5 hours in healthy subjects.
 Tadalafil is excreted predominantly as inactive metabolites, mainly in the faeces (approximately 61 % of the dose) and to a lesser extent in the urine (approximately 36 % of the dose).
@@ -38,7 +39,6 @@ Renal insufficiency
 In clinical pharmacology studies using single-dose tadalafil (5-20 mg), tadalafil exposure (AUC) approximately doubled in subjects with mild (creatinine clearance 51 to 80 ml/min) or moderate (creatinine clearance 31 to 50 ml/min) renal impairment and in subjects with end-stage renal disease on dialysis.
 In haemodialysis patients, Cmax was 41% higher than that observed in healthy subjects.
 Haemodialysis contributes negligibly to tadalafil elimination.
-
 Hepatic insufficiency
 Tadalafil exposure (AUC) in subjects with mild and moderate hepatic impairment (Child-Pugh Class A and B) is comparable to exposure in healthy subjects when a dose of 10 mg is administered.
 There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.

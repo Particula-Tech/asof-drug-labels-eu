@@ -5,15 +5,14 @@ A medical history and physical examination should be undertaken to diagnose erec
 Prior to initiating any treatment for erectile dysfunction, physicians should consider the cardiovascular status of their patients, since there is a degree of cardiac risk associated with sexual activity.
 Tadalafil has vasodilator properties, resulting in mild and transient decreases in blood pressure (see section 5.1 Pharmacodynamic properties) and as such potentiate the hypotensive effect of nitrates (see section 4.3 Contraindications).
 
-Serious cardiovascular events, including myocardial infarction, unstable angina pectoris, ventricular arrhythmia, strokes, and transient ischemic attacks occurred during clinical studies of CIALIS.
-In addition hypertension and hypotension (including postural hypotension) were also seen infrequently in clinical trials.
-Most of the patients in whom these events have been observed had pre-existing cardiovascular risk factors.
-However, it is not possible to definitively determine whether these events are related directly to these risk factors.
+Serious cardiovascular events, including myocardial infarction, sudden cardiac death, unstable angina pectoris, ventricular arrhythmia, stroke, transient ischemic attacks, chest pain, palpitations and tachycardia, have been reported either post marketing and/or in clinical trials.
+Most of the patients in whom these events have been reported had pre-existing cardiovascular risk factors.
+However, it is not possible to definitively determine whether these events are related directly to these risk factors, to CIALIS, to sexual activity, or to a combination of these or other factors.
 
 There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
-
 Patients who experience erections lasting 4 hours or more should be instructed to seek immediate medical assistance.
 If priapism is not treated immediately, penile tissue damage and permanent loss of potency may result.
+
 Agents for the treatment of erectile dysfunction, including CIALIS, should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or Peyronie's disease), or in patients who have conditions which may predispose them to priapism (such as sickle cell anaemia, multiple myeloma or leukaemia).
 
 The evaluation of erectile dysfunction should include a determination of potential underlying causes and the identification of appropriate treatment following an appropriate medical assessment.

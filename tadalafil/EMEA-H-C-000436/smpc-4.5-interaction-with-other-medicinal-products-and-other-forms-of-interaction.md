@@ -12,7 +12,6 @@ Ketoconazole (400 mg daily) increased tadalafil (20-mg) exposure (AUC) 4-fold an
 Ritonavir, a protease inhibitor (200 mg dose given twice daily), which is an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil (20-mg) exposure (AUC) 2-fold with no change in Cmax.
 Although specific interactions have not been studied, other protease inhibitors, such as saquinavir, and other CYP3A4 inhibitors, such as erythromycin, clarithromycin, itraconazole and grapefruit juice should be co-administered with caution as they would be expected to increase plasma concentrations of tadalafil.
 Consequently the incidence of the undesirable effects listed in section 4.8 might be increased.
-
 The role of transporters (for example p-glycoprotein) in the disposition of tadalafil is not known.
 There is thus the potential of drug interactions mediated by inhibition of transporters.
 
