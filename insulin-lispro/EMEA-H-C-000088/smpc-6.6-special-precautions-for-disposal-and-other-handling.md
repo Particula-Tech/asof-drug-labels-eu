@@ -19,11 +19,11 @@ If using a new vial, flip off the plastic protective cap, but do not remove the 
 3.
 If the therapeutic regimen requires the injection of basal insulin and Humalog at the same time, the two can be mixed in the syringe.
 If mixing insulins, refer to the instructions for mixing that follow in Section (ii).
+
 4.
 Draw air into the syringe equal to the prescribed Humalog dose.
 Wipe the top of the vial with an alcohol swab.
 Put the needle through the rubber top of the Humalog vial and inject the air into the vial.
-
 5.
 Turn the vial and syringe upside down.
 Hold the vial and syringe firmly in one hand.
@@ -93,10 +93,10 @@ Dispose of the syringe and needle safely.
 
 6.
 Use of the injection sites should be rotated so that the same is not used more than approximately once a month.
+
 c) Mixing insulins
 
 Do not mix insulins in vials with insulins in cartridges.
-
 d) Use of Humalog in an insulin infusion pump:
 
 Minimed and Disetronic insulin infusion pumps may be used to infuse insulin lispro.
@@ -116,3 +116,130 @@ Intravenous injection of insulin lispro should be carried out following normal c
 Frequent monitoring of the blood glucose levels is required.
 Infusion systems at concentrations from 0.1U/ml to 1.0U/ml insulin lispro in 0.9% sodium chloride or 5% dextrose are stable at room temperature for 48 hours.
 It is recommended that the system is primed before starting the infusion to the patient.
+
+[Humalog 100 U/ml, solution for injection in cartridge]
+
+Humalog cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
+
+The following is a general description.
+The manufacturer’s instructions with each individual pen must be followed for loading the cartridge, attaching the needle and administering the insulin injection.
+
+Remove outer needle cap.
+
+Insert the needle as instructed.
+
+Press the knob.
+
+Using the outer needle cap, unscrew the needle and dispose of it safely.
+
+9.
+Use of injection sites should be rotated so that the same site is not used more than approximately once a month.
+
+Do not mix insulin in vials with insulin in cartridges
+
+[Humalog 100 U/ml, solution for injection in cartridge (SmPC 3)]
+
+(all sentences already above)
+
+[Humalog Mix25 100 U/ml suspension for injection in cartridge]
+
+Humalog Mix25 cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
+
+Cartridges containing Humalog Mix25 should be rotated in the palms of the hands ten times and inverted 180° ten times immediately before use to resuspend the insulin until it appears uniformly cloudy or milky.
+If not, repeat the above procedure until contents are mixed.
+Cartridges contain a small glass bead to assist mixing.
+Do not shake vigorously as this may cause frothing which may interfere with the correct measurement of the dose.
+
+The cartridges should be examined frequently and should not be used if clumps of material are present or if solid white particles stick to the bottom or wall of the cartridge, giving a frosted appearance.
+
+Humalog Mix25 cartridges are not designed to allow any other insulin to be mixed in the cartridge.
+Cartridges are not designed to be refilled.
+
+[Humalog Mix50 100 U/ml suspension for injection in cartridge]
+
+Humalog Mix50 cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
+
+Cartridges containing Humalog Mix50 should be rotated in the palms of the hands ten times and inverted 180° ten times immediately before use to resuspend the insulin until it appears uniformly cloudy or milky.
+
+Humalog Mix50 cartridges are not designed to allow any other insulin to be mixed in the cartridge .
+
+[Humalog-Pen 100 U/ml, solution for injection]
+
+Inspect the Humalog-Pen solution.
+
+Do not use Humalog-Pen if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
+Put on the needle.
+
+Wipe the rubber seal with alcohol.
+Remove the paper tab from the capped needle.
+Screw the capped needle clockwise onto the pen until it is tight.
+Hold the pen with needle pointing up and remove the outer needle cap and inner needle cover.
+
+Priming the Pen (check Insulin Flow).
+
+(a) The arrow should be visible in the dose window.
+If the arrow is not present, turn the dose knob clockwise until the arrow appears and notch is felt or visually aligned.
+
+(b) Pull dose knob out (in direction of the arrow) until a “0” appears in the dose window.
+A dose cannot be dialled until the dose knob is pulled out.
+
+(c) Turn dose knob clockwise until a “2” appears in the dose window.
+
+(d) Hold the pen with needle pointing up and tap the clear cartridge holder gently with your finger so any air bubbles collect near the top.
+Depress the injection button fully until you feel or hear a click.
+You should see a drop of insulin at the tip of the needle.
+If insulin does not appear, repeat the procedure until insulin appears.
+
+(e) Always prime the pen (check the insulin flow) before each injection.
+Failure to prime the pen may result in an inaccurate dose.
+
+Setting the Dose.
+
+(a) Turn the dose knob clockwise until the arrow appears in the dose window and a notch is felt or visually aligned.
+
+(b) Pull the dose knob out (in the direction of the arrow) until a “0” appears in the dose window.
+
+(c) Turn the dose knob clockwise until the dose appears in the dose window.
+If too high a dose is dialled, turn the dose knob backward (anti-clockwise) until the correct dose appears in the window.
+A dose greater than the number of units remaining in the cartridge cannot be dialed.
+
+(b) Injecting a dose
+
+Press the injection button down with the thumb (until you hear or feel a click); wait 5 seconds.
+
+Immediately after an injection, use the outer needle cap to unscrew the needle.
+Remove the needle from the pen.
+This will ensure sterility, and prevent leakage, reentry of air, and potential needle clogs.
+Do not reuse the needle.
+Dispose of the needle in a responsible manner.
+Needles and pens must not be shared.
+
+The prefilled pen can be used until it is empty.
+Please properly discard or recycle.
+
+Replace the cap on the pen.
+
+10.
+
+11.
+The injection button should be fully depressed before using the pen again.
+
+(c) Mixing insulins
+
+[Humalog Mix25 100 U/ml Pen, suspension for injection]
+
+Inspect the Humalog Mix25 100 U/ml Pen.
+
+The Pen should be rotated in the palms of the hands ten times and inverted 180° ten times immediately before use to resuspend the insulin until it appears uniformly cloudy or milky.
+
+Priming Pen (check insulin flow).
+
+A dose greater than the number of units remaining in the cartridge cannot be dialled.
+
+This will ensure sterility, and prevent leakage, re-entry of air, and potential needle clogs.
+
+The pre-filled pen can be used until it is empty.
+
+[Humalog Mix50 100 U/ml Pen, suspension for injection]
+
+Inspect the Humalog Mix50 Pen.

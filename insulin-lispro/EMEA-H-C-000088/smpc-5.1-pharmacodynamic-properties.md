@@ -44,3 +44,57 @@ The glucodynamic response to insulin lispro is not affected by renal or hepatic 
 Glucodynamic differences between insulin lispro and soluble human insulin as measured during a glucose clamp procedure were maintained over a wide range of renal function.
 
 Insulin lispro has been shown to be equipotent to human insulin on a molar basis but its effect is more rapid and of a shorter duration.
+
+[Humalog 100 U/ml, solution for injection in cartridge]
+
+0 1 2 3 4 5 6
+
+[Humalog 100 U/ml, solution for injection in cartridge (SmPC 3)]
+
+Pharmacotherapeutic group :fast acting human insulin analogue.
+
+[Humalog Mix25 100 U/ml suspension for injection in cartridge]
+
+Pharmaco-therapeutic group: ATC Code: A10A D04.
+Humalog Mix25 is a premixed suspension consisting of insulin lispro (fast acting human insulin analogue) and insulin lispro protamine suspension (intermediate acting human insulin analogue).
+
+The rapid onset and early peak of activity of insulin lispro is observed following the subcutaneous administration of Humalog Mix25.
+NPL has an activity profile that is very similar to that of a basal insulin (NPH) over a period of approximately 15 hours.
+
+Clinical trials in patients with Type 1 and Type 2 diabetes have demonstrated reduced postprandial hyperglycaemia with Humalog Mix25 compared to human insulin mixture 30/70.
+In one clinical study there was a small (0.38 mmol/l) increase in blood glucose levels at night (3a.m.).
+
+In the figure below the pharmacodynamics of Humalog Mix25 and NPL are illustrated.
+
+Hypoglycaemic activity
+
+Humalog Mix25
+NPL
+0 4 8 12 16 20 24
+
+Time, hours
+
+[Humalog Mix50 100 U/ml suspension for injection in cartridge]
+
+Humalog Mix50 is a premixed suspension consisting of insulin lispro (fast acting human insulin analogue) and insulin lispro protamine suspension (intermediate acting human insulin analogue).
+
+The rapid onset and early peak of activity of insulin lispro is observed following the subcutaneous administration of Humalog Mix50.
+In the figure below the pharmacodynamics of Humalog Mix50 and NPL are illustrated.
+
+Humalog Mix50
+
+[Humalog-Pen 100 U/ml, solution for injection]
+
+Pharmacotherapeutic group : fast acting human insulin analogue, ATC code: A10A B04
+
+Insulin lispro
+Hypoglycemic
+
+[Humalog Mix25 100 U/ml Pen, suspension for injection]
+
+Pharmaco-therapeutic group:
+ATC Code: A10A D04.
+
+[Humalog Mix50 100 U/ml Pen, suspension for injection]
+
+(all sentences already above)

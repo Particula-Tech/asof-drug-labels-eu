@@ -14,3 +14,31 @@ However, glucose solution must be given intravenously if glucagon is not availab
 The patient should be given a meal as soon as consciousness is recovered.
 
 Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+
+[Humalog 100 U/ml, solution for injection in cartridge]
+
+(all sentences already above)
+
+[Humalog 100 U/ml, solution for injection in cartridge (SmPC 3)]
+
+(all sentences already above)
+
+[Humalog Mix25 100 U/ml suspension for injection in cartridge]
+
+(all sentences already above)
+
+[Humalog Mix50 100 U/ml suspension for injection in cartridge]
+
+(all sentences already above)
+
+[Humalog-Pen 100 U/ml, solution for injection]
+
+(all sentences already above)
+
+[Humalog Mix25 100 U/ml Pen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog Mix50 100 U/ml Pen, suspension for injection]
+
+Hypoglycaemia may occur as a result of an excess of insulin acitivity relative to food intake and energy expenditure.
