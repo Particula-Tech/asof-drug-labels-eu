@@ -12,3 +12,5 @@ Docetaxel did not influence the binding of digitoxin.
 
 In the doxorubicin/docetaxel combination, the clearance of docetaxel was increased (see
 « Pharmacokinetic properties »).
+Limited data from a single uncontrolled study were suggestive of an interaction between docetaxel and carboplatin.
+When combined to docetaxel, the clearance of carboplatin was about 50% higher than values previously reported for carboplatin monotherapy.

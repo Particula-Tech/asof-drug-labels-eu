@@ -21,7 +21,7 @@ Inject the entire contents of the syringe into the corresponding TAXOTERE vial.
 Remove the syringe and needle and mix manually by repeated inversions for at least 45 seconds.
 Do not shake.
 
-A llow the premix vial to stand for 5 minutes at room temperature and then check that the solution is homogenous and clear (foaming is normal even after 5 minutes due to the presence of polysorbate 80 in the formulation).
+Allow the premix vial to stand for 5 minutes at room temperature and then check that the solution is homogenous and clear (foaming is normal even after 5 minutes due to the presence of polysorbate 80 in the formulation).
 
 The premix solution contains 10 mg/ml docetaxel and should be used immediately after preparation.
 However the chemical and physical stability of the premix solution has been demonstrated for 8 hours when stored either between 2°C and 8°C or at room temperature.
@@ -37,6 +37,7 @@ Inject the required premix volume into a 250 ml infusion bag or bottle containin
 If a dose greater than 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/ml docetaxel is not exceeded.
 
 M ix the infusion bag or bottle manually using a rocking motion.
+
 The TAXOTERE infusion solution should be used within 4 hours and should be aseptically administered as a 1-hour infusion under room temperature and normal lighting conditions.
 
 As with all parenteral products, TAXOTERE premix solution and infusion solution should be visually inspected prior to use, solutions containing a precipitate should be discarded.
@@ -46,7 +47,5 @@ Disposal
 All materials that have been utilised for dilution and administration should be disposed of according to standard procedures.
 
 [TAXOTERE 80 mg concentrate and solvent for solution for infusion]
-
-Allow the premix vial to stand for 5 minutes at room temperature and then check that the solution is homogenous and clear (foaming is normal even after 5 minutes due to the presence of polysorbate 80 in the formulation).
 
 Mix the infusion bag or bottle manually using a rocking motion.

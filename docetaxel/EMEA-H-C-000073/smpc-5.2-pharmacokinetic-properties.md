@@ -1,4 +1,4 @@
-# 5.2 Pharmacokinetic properties
+# 5.2 Pharmacokinetic Properties
 
 The pharmacokinetics of docetaxel have been evaluated in cancer patients after administration of 20-115 mg/m2 in Phase I studies.
 The kinetic profile of docetaxel is dose independent and consistent with a three-compartment pharmacokinetic model with half lives for the �, � and � phases of 4 min, 36 min and 11.1 h, respectively.
@@ -20,3 +20,7 @@ Docetaxel clearance was not modified in patients with mild to moderate fluid ret
 
 When used in combination, docetaxel does not influence the clearance of doxorubicin and the plasma levels of doxorubicinol (a doxorubicin metabolite).
 On the other hand, the clearance of docetaxel was increased while the efficacy is maintained.
+Phase I study evaluating the effect of capecitabine on the pharmacokinetics of docetaxel and vice versa showed no effect by capecitabine on the pharmacokinetics of docetaxel (Cmax and AUC) and no effect by docetaxel on the pharmacokinetics of a relevant capecitabine metabolite 5’-DFUR.
+
+Clearance of docetaxel in combination therapy with cisplatin was similar to that observed following monotherapy.
+The pharmacokinetic profile of cisplatin administered shortly after TAXOTERE infusion is similar to that observed with cisplatin alone

@@ -12,6 +12,7 @@ Patients should be retreated with docetaxel when neutrophils recover to a level 
 In the case of severe neutropenia (<500 cells/mm3 for seven days or more) during a course of docetaxel therapy, a reduction in dose for subsequent courses of therapy or the use of appropriate symptomatic measures are recommended (see «Posology and method of administration» section).
 
 Hypersensitivity reactions
+
 Patients should be observed closely for hypersensitivity reactions especially during the first and second infusions.
 Hypersensitivity reactions may occur within a few minutes following the initiation of the infusion of docetaxel, thus facilities for the treatment of hypotension and bronchospasm should be available.
 If hypersensitivity reactions occur, minor symptoms such as flushing or localised cutaneous reactions do not require interruption of therapy.
@@ -22,7 +23,6 @@ Cutaneous reactions
 
 Localised skin erythema of the extremities (palms of the hands and soles of the feet) with oedema followed by desquamation has been observed.
 Severe symptoms such as eruptions followed by desquamation which lead to interruption or discontinuation of docetaxel treatment were reported (see «Posology and method of administration» section).
-
 Fluid retention
 
 Patients with severe fluid retention such as pleural effusion, pericardial effusion and ascites should be monitored closely.
@@ -41,8 +41,3 @@ The development of severe peripheral neurotoxicity requires a reduction of dose 
 Others
 
 Contraceptive measures must be taken during and for at least three months after cessation of therapy.
-
-[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
-
-Severe symptoms such as eruptions followed by desquamation which lead to interruption or discontinuation of docetaxel treatment were reported
-(see «Posology and method of administration» section).
