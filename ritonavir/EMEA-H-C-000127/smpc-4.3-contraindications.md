@@ -2,10 +2,10 @@
 
 Patients with known hypersensitivity to ritonavir or any of its excipients.
 Patients with severe hepatic insufficiency.
-
 In vitro and in vivo studies have demonstrated that ritonavir is a potent inhibitor of CYP3A- and CYP2D6- mediated biotransformations.
-Based primarily on literature review, ritonavir is expected to produce large increases in the plasma concentrations of the following drugs: amiodarone, astemizole, bepridil, bupropion, cisapride, clozapine, encainide, flecainide, meperidine, pimozide, piroxicam, propafenone, propoxyphene, quinidine, and terfenadine.
+Based primarily on literature review, ritonavir is expected to produce large increases in the plasma concentrations of the following drugs: amiodarone, astemizole, bepridil, bupropion, cisapride, clozapine, dihydroergotamine, encainide, ERGOTAMINE, flecainide, meperidine, pimozide, piroxicam, propafenone, propoxyphene, quinidine, and terfenadine.
 These agents have recognized risks of arrhythmias, hematologic abnormalities, seizures, or other potentially serious adverse effects.
+Additionally, severe ergotism, characterised by peripheral vasospasm and ischaemia of the extremities, has been associated with co-administration of ritonavir and ergotamine or dihydroergotamine.
 These drugs should not be co-administered with ritonavir.
 Ritonavir in addition is likely to produce large increases in these highly metabolized sedatives and hypnotics: alprazolam, clorazepate, diazepam, estazolam, flurazepam, midazolam, triazolam and zolpidem.
 Due to the potential for extreme sedation and respiratory depression from these agents, they should not be co-administered with ritonavir.

@@ -2,6 +2,7 @@
 
 Human experience of acute overdose with ritonavir is limited.
 One patient in clinical trials took ritonavir 1500 mg/day for two days and reported paresthesia which resolved after the dose was decreased.
+A case of renal failure with eosinophilia has been reported.
 
 The signs of toxicity observed in animals (mice and rats) included decreased activity, ataxia, dyspnea and tremors.
 
