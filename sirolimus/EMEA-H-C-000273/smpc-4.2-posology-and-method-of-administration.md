@@ -6,7 +6,7 @@ Adults
 Initial Therapy (2 to 3 months post-transplantation): The usual dosage regimen for Rapamune is a 6 mg oral loading dose, administered as soon as possible after transplantation, followed by 2 mg once daily.
 The Rapamune dose should then be individualised, to obtain whole blood trough levels of 4 to 12 ng/ml (chromatographic assay; see Therapeutic drug monitoring).
 Rapamune therapy should be optimised with a tapering regimen of steroids and cyclosporine microemulsion.
-Suggested cyclosporine trough concentration ranges for the first 2-3 months after transplantation are 150-400 ng/ml (monoclonal assay or equivalent technique).
+Suggested cyclosporine trough concentration ranges for the first 2-3 months after transplantation are 150 - 400 ng/ml (monoclonal assay or equivalent technique).
 
 Maintenance Therapy: Cyclosporine should be progressively discontinued over 4 to 8 weeks and the Rapamune dose should be adjusted to obtain whole blood trough levels of 12 to 20 ng/ml (chromatographic assay; see Therapeutic drug monitoring).
 Rapamune should be given with corticosteroids.
@@ -18,8 +18,9 @@ Currently, the efficacy and safety data are too limited to allow specific recomm
 Use in children and adolescents: There is insufficient experience to recommend the use of sirolimus in children and adolescents.
 Limited pharmacokinetic information is available in children (see Pharmacokinetic Properties, section 5.2).
 
-Elderly patients (> 65 years): Clinical studies of Rapamune did not include a sufficient number of patients >65 years of age to determine whether they will respond differently than younger patients.
-Sirolimus trough concentration data in 35 renal transplant patients >65 years of age were similar to those in the adult population (n=822) from 18 to 65 years of age.
+Elderly patients (> 65 years): Clinical studies with Rapamune oral solution did not include a sufficient number of patients > 65 years of age to determine whether they will respond differently than younger patients.
+Sirolimus trough concentration data in 35 renal transplant patients > 65 years of age were similar to those in the adult population (n = 822) from 18 to 65 years of age.
+Rapamune tablets administered to 12 renal transplant patients > 65 years of age also gave similar results to adult patients (n = 167) 18 to 65 years of age.
 
 Patients with renal impairment: No dosage adjustment is required (see Pharmacokinetic properties, section 5.2).
 
@@ -31,8 +32,9 @@ Therapeutic drug monitoring: Most patients who received 2 mg of Rapamune 4 hours
 Optimal therapy requires therapeutic drug concentration monitoring in all patients.
 Whole blood sirolimus levels should be closely monitored in the following populations: (1) in patients with hepatic impairment; (2) when strong inducers (e.g. rifampin, rifabutin) or inhibitors (e.g. ketaconazole) of CYP3A4 are concurrently administered and after their discontinuation (see section 4.5); and/or (3) if cyclosporine dosing is markedly reduced or discontinued, as these populations are most likely to have special dosing requirements.
 
-To minimise variability, Rapamune should be taken at the same time in relation to cyclosporine, 4 hours after the cyclosporin dose, and consistently either with or without food (see Pharmacokinetic properties, section 5.2).
-Optimally, adjustments in Rapamune dosage should be based on more than a single trough level obtained >5 days after a previous dosing change.
+To minimise variability, Rapamune should be taken at the same time in relation to cyclosporine, 4 hours after the cyclosporine dose, and consistently either with or without food (see Pharmacokinetic properties, section 5.2).
+Optimally, adjustments in Rapamune dosage should be based on more than a single trough level obtained > 5 days after a previous dosing change.
+Patients can be switched from the solution to the tablet formulation on a mg per mg basis; however, it is recommended that a trough concentration be taken 1 or 2 weeks after switching formulations to confirm that the trough concentration is within the recommended target range.
 
 Following the discontinuation of cyclosporine therapy, a target trough range of 12 to 20 ng/ml (chromatographic assay) is recommended.
 Cyclosporine inhibits the metabolism of sirolimus, and consequently, sirolimus levels will decrease when cyclosporine is discontinued unless the sirolimus dose is increased.
@@ -48,27 +50,3 @@ Therapeutic drug monitoring should not be the sole basis for adjusting sirolimus
 Careful attention should be made to clinical signs/symptoms, tissue biopsies, and laboratory parameters.
 
 Other considerations for use: Cyclosporine (microemulsion) and other medicinal or non-medicinal products may interact with sirolimus (see section 4.5).
-
-[Rapamune 1 mg/1 ml oral solution.]
-
-(all sentences already above)
-
-[Rapamune 2 mg/2 ml oral solution]
-
-(all sentences already above)
-
-[Rapamune 5 mg/5 ml oral solution]
-
-(all sentences already above)
-
-[Rapamune 1 mg coated tablets]
-
-Elderly patients (> 65 years): Clinical studies with Rapamune oral solution did not include a sufficient number of patients > 65 years of age to determine whether they will respond differently than younger patients.
-Sirolimus trough concentration data in 35 renal transplant patients > 65 years of age were similar to those in the adult population (n = 822) from 18 to 65 years of age.
-Rapamune tablets administered to 12 renal transplant patients > 65 years of age also gave similar results to adult patients (n = 167) 18 to 65 years of age.
-
-To minimize variability, Rapamune should be taken at the same time in relation to cyclosporine, 4 hours after the cyclosporine dose, and consistently either with or without food (see Pharmacokinetic properties, section 5.2).
-Optimally, adjustments in Rapamune dosage should be based on more than a single trough level obtained > 5 days after a previous dosing change.
-Patients can be switched from the solution to the tablet formulation on a mg per mg basis; however, it is recommended that a trough concentration be taken 1 or 2 weeks after switching formulations to confirm that the trough concentration is within the recommended target range.
-
-Adjustments to the targeted range should be made according to the assay utilized to determine sirolimus trough concentrations.
