@@ -5,8 +5,8 @@ These occurred at doses representing at least 25 times the exposure seen in huma
 No effect on hepatic metabolising enzymes were observed in humans receiving clopidogrel at the therapeutic dose.
 
 At very high doses, a poor gastric tolerability (gastritis, gastric erosions and/or vomiting) of clopidogrel was also reported in rat and baboon.
-There was no evidence of carcinogenic effect when clopidogrel was administered for 78 weeks to mice and 104 weeks to rats when given at doses up to 77 mg/kg per day (representing at least 25 times the exposure seen in humans receiving the clinical dose of 75 mg/day).
 
+There was no evidence of carcinogenic effect when clopidogrel was administered for 78 weeks to mice and 104 weeks to rats when given at doses up to 77 mg/kg per day (representing at least 25 times the exposure seen in humans receiving the clinical dose of 75 mg/day).
 Clopidogrel has been tested in a range of in vitro and in vivo genotoxicity studies, and showed no genotoxic activity.
 
 Clopidogrel was found to have no effect on the fertility of male and female rats and was not teratogenic in either rats or rabbits.
