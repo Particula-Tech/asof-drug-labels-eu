@@ -11,7 +11,3 @@ Glivec is also indicated for the treatment of adult patients with Kit (CD 117) p
 In adult patients, the effectiveness of Glivec is based on overall haematological and cytogenetic response rates and progression-free survival in CML and objective response rates in GIST.
 The experience with Glivec in children with CML is very limited (see section 5.1).
 There are no controlled trials demonstrating a clinical benefit or increased survival for either of the two diseases.
-
-[GLIVEC 100 mg capsules, hard]
-
-The effect of Glivec on the outcome of bone marrrow transplantation has not been determined.

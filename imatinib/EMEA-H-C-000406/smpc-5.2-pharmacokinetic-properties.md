@@ -5,8 +5,8 @@ The pharmacokinetics of Glivec have been evaluated over a dosage range of 25 to 
 Plasma pharmacokinetic profiles were analysed on day 1 and on either day 7 or day 28, by which time plasma concentrations had reached steady state.
 
 Absorption
-Mean absolute bioavailability for the capsule formulation is 98%.
-There was high between-patient variability in plasma imatinib AUC levels after an oral dose.
+Mean absolute bioavailability for imatinib is 98%.
+There was high between- patient variability in plasma imatinib AUC levels after an oral dose.
 When given with a high-fat meal, the rate of absorption of imatinib was minimally reduced (11% decrease in Cmax and prolongation of tmax by 1.5 h), with a small reduction in AUC (7.4%) compared to fasting conditions.
 The effect of prior gastrointestinal surgery on drug absorption has not been investigated.
 
@@ -16,16 +16,15 @@ At clinically relevant concentrations of imatinib, binding to plasma proteins wa
 Metabolism
 The main circulating metabolite in humans is the N-demethylated piperazine derivative, which shows similar in vitro potency to the parent.
 The plasma AUC for this metabolite was found to be only 16% of the AUC for imatinib.
-
 Imatinib and the N-demethyl metabolite together accounted for about 65% of the circulating radioactivity (AUC(0-48h)).
 The remaining circulating radioactivity consisted of a number of minor metabolites.
 
-The in vitro results showed that CYP3A4 was the major human P450 enzyme catalyszing the biotransformation of imatinib.
+The in vitro results showed that CYP3A4 was the major human P450 enzyme catalysing the biotransformation of imatinib.
 Of a panel of potential comedications (acetaminophen, aciclovir, allopurinol, amphotericin, cytarabine, erythromycin, fluconazole, hydroxyurea, norfloxacin, penicillin V) only erythromycin (IC50 50 µM) and fluconazole (IC50 118 µM) showed inhibition of imatinib metabolism which could have clinical relevance.
 
 Imatinib was shown in vitro to be a competitive inhibitor of marker substrates for CYP2C9, CYP2D6 and CYP3A4/5.
-Ki values in human liver microsomes were 27, 7.5 and 7.9 �mol/l, respectively.
-Maximal plasma concentrations of imatinib in patients are 2 - 4 �mol/l, consequently an inhibition of CYP2D6 and/or CYP3A4/5-mediated metabolism of co-administered drugs is possible.
+Ki values in human liver microsomes were 27, 7.5 and 7.9 µmol/l, respectively.
+Maximal plasma concentrations of imatinib in patients are 2 - 4 µmol/l, consequently an inhibition of CYP2D6 and/or CYP3A4/5-mediated metabolism of co-administered drugs is possible.
 Imatinib did not interfere with the biotransformation of 5-fluorouracil, but it inhibited paclitaxel metabolism as a result of competitive inhibition of CYP2C8 (Ki = 34.7 µM).
 This Ki value is far higher than the expected plasma levels of imatinib in patients, consequently no interaction is expected upon co-administration of either 5-fluorouracil or paclitaxel and imatinib.
 
@@ -61,8 +60,4 @@ Organ function impairment
 Imatinib and its metabolites are not excreted via the kidney to a significant extent.
 Exposure to imatinib may be expected to increase if liver function is impaired.
 Glivec should be used with caution in patients with hepatic impairment.
-(See sections 4.2 Posology and method of administration, and 4.4, Precautions)
-
-[GLIVEC 100 mg capsules, hard]
-
-The in vitro results showed that CYP3A4 was the major human P450 enzyme catalyzsing the biotransformation of imatinib.
+(See sections 4.2and 4.4)

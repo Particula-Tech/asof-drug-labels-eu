@@ -5,12 +5,3 @@ Wimblehurst Road
 Horsham
 West Sussex, RH12 5AB
 UNITED KINGDOM
-
-8.
-MARKETING AUTHORISATION NUMBER(S)
-
-EU/1/01/198/001
-
-[GLIVEC 100 mg capsules, hard]
-
-EU/1/01/198/002-006

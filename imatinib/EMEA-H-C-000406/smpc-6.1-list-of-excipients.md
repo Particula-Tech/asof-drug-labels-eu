@@ -1,20 +1,12 @@
 # 6.1 List of excipients
 
-Capsule content: Cellulose microcrystalline
-
+Tablet core:
+Cellulose microcrystalline
 Crospovidone
+Hypromellose
 Magnesium stearate
-Silica colloidal, anhydrous
+Silica, colloidal anhydrous
 
-Capsule shell: Gelatin
-Iron oxide, yellow (E172)
-Titanium dioxide (E171)
-
-Printing ink: Iron oxide, red (E172)
-
-Shellac
-Soya lecithin
-
-[GLIVEC 100 mg capsules, hard]
-
+Tablet coat:
 Iron oxide, red (E172)
+Iron oxide, yellow (E172)

@@ -1,10 +1,12 @@
 # 6.5 Nature and contents of container
 
-PVC/aluminium blisters
+PVC/alu blisters
 
-Packs containing 30 capsules.
+Packs containing 20 or 60 film-coated tablets
+Not all pack-sizes may be marketed
 
-[GLIVEC 100 mg capsules, hard]
+[Glivec 400 mg film-coated tablets]
 
-Packs containing 24, 48, 96, 120 and 180 capsules.
-Not all pack sizes may be marketed.
+PVDC/alu blisters
+
+Packs containing 10 or 30 film-coated tablets
