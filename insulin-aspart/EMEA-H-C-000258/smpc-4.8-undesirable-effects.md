@@ -7,7 +7,6 @@ Severe hypoglycaemia may lead to unconsciousness and/or convulsions and may resu
 
 Oedema and refraction anomalies may occur upon institution of insulin therapy.
 These symptoms are usually of transitory nature.
-
 Local hypersensitivity reactions (redness, swelling and itching at the injection site) may occur during treatment with insulin.
 These reactions are usually transitory and normally disappear during continued treatment.
 

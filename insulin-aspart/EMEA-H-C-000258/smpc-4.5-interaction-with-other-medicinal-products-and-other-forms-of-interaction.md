@@ -9,20 +9,5 @@ The following substances may increase the patient's insulin requirements:
 Oral contraceptives, thiazides, glucocorticoids, thyroid hormones, sympathomimetics and danazol.
 
 Beta-blocking agents may mask the symptoms of hypoglycaemia.
+
 Alcohol may intensify and prolong the hypoglycaemic effect of insulin.
-
-[NovoRapid Penfill 100 U/ml, solution for injection in cartridge.]
-
-(all sentences already above)
-
-[NovoRapid NovoLet 100 U/ml, solution for injection in prefilled syringe.]
-
-The following substances may increase the patient's insulin requirements: Oral contraceptives, thiazides, glucocorticoids, thyroid hormones, sympathomimetics and danazol.
-
-[NovoRapid NovoLet 100 U/ml, solution for injection in prefilled syringe. (SmPC 4)]
-
-(all sentences already above)
-
-[NovoRapid FlexPen 100 U/ml, solution for injection in prefilled pen.]
-
-A number of medicinal products are known to interact with the glucose metabolism.
