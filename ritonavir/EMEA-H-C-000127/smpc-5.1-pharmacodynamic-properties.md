@@ -6,6 +6,7 @@ ATC code: JO5A EO3
 Ritonavir is an orally active peptidomimetic inhibitor of the HIV-1 and HIV-2 aspartyl proteases.
 Inhibition of HIV protease renders the enzyme incapable of processing the gag-pol polyprotein precursor which leads to the production of HIV particles with immature morphology that are unable to initiate new rounds of infection.
 Ritonavir has selective affinity for the HIV protease and has little inhibitory activity against human aspartyl proteases.
+
 In vitro data indicates that ritonavir is active against all strains of HIV tested in a variety of transformed and primary human cell lines.
 The concentration of drug that inhibits 50% and 90% of viral replication in vitro is approximately 0.02 µM and 0.11µM, respectively.
 Similar potencies were found with both AZT-sensitive and AZT-resistant strains of HIV.
@@ -35,15 +36,23 @@ The effects of ritonavir (alone or combined with other antiretroviral agents) on
 The following studies are the most important.
 
 A controlled study with ritonavir as add-on therapy in HIV-1 infected patients extensively pre-treated with nucleoside analogues and baseline CD4 cell counts ≤ 100 cells/µl showed a reduction in mortality and AIDS defining events.
-The mean average change from baseline over 16 weeks for HIV RNA levels was -0.79 log10 (maximum mean decrease:1.29 log10) in the ritonavir group vs -0.01 log10 in the control group.
+The mean average change from baseline over 16 weeks for HIV RNA levels was -0.79 log10 (maximum mean decrease:1.29 log10 ) in the ritonavir group vs -0.01 log10 in the control group.
 The most frequently used nucleosides in this study were zidovudine, stavudine, didanosine and zalcitabine.
 
 In a study recruiting less advanced HIV-1 infected patients (CD4 200-500 cells/µl) without previous antiretroviral therapy, ritonavir in combination with zidovudine or alone reduced viral load in plasma and increased CD4 count.
 The effects of ritonavir monotherapy seemed unexpectedly to be at least as large as the combination therapy, a finding which has not been explained adequately.
-The mean average change from baseline over 16 weeks for HIV RNA levels was -1.03 log10 in the ritonavir group vs -0.80 log10 in the ritonavir + zidovudine group vs -0.42 log10 in the zidovudine group.
-Clinical endpoint results of this study are not yet available.
+The mean average change from baseline over 48 weeks for HIV RNA levels was -0.88 log10 in the ritonavir group vs -0.66 log10 in the ritonavir+ zidovudine group vs -0.42 log10 in the zidovudine group.
 
-The use of ritonavir monotherapy can not be recommended because of concern about the emergence of resistance.
+The continuation of ritonavir therapy should be evaluated by viral load because of the possibility of the emergence of resistance as described under section 4.1.
 
-In an open label trial in 32 antiretroviral naive HIV-1 infected patients the combination of ritonavir with zidovudine and zalcitabine decreased the viral load (mean decrease at week 20 of -1.76 log10).
+In an open label trial in 32 antiretroviral naive HIV-1 infected patients the combination of ritonavir with zidovudine and zalcitabine decreased the viral load (mean decrease at week 20 of -1.76 log10 ).
+
 Studies investigating optimal combinations and the long term efficacy and safety of ritonavir are ongoing.
+
+[Norvir capsule 100 mg]
+
+Pharmaco-therapeutic group:antiviral for systemic use.
+
+The continuation of ritonavir therapy should be evaluated by viral load because of the possibility of the emergence of resistance as described under section 4 .1.
+
+Studies investigating optimal combinations and long term efficacy and safety of ritonavir are ongoing.

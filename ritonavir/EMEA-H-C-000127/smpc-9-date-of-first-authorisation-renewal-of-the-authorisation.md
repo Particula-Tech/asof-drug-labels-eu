@@ -1,3 +1,1 @@
-# 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
-
-26.08.1996
+# 9. Date of first authorisation/renewal of authorisation

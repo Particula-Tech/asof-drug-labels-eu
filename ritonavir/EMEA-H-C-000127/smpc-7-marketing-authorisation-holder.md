@@ -1,4 +1,4 @@
-# 7. MARKETING AUTHORIZATION HOLDER
+# 7. Marketing authorization holder
 
 Abbott Laboratories Limited
 Queenborough
