@@ -1,0 +1,29 @@
+# 4.5 Interaction with other medicinal products and other forms of interaction
+
+Warfarin: see 4.4 Special warnings and special precautions for use.
+
+Acetylsalicylic acid (ASA): ASA did not modify the clopidogrel-mediated inhibition of ADP-induced platelet aggregation, but clopidogrel potentiated the effect of ASA on collagen-induced platelet aggregation.
+However, concomitant administration of 500 mg of ASA twice a day for one day did not significantly increase the prolongation of bleeding time induced by clopidogrel intake.
+The safety of the chronic concomitant administration of ASA and clopidogrel has not been established (see 4.4 Special warnings and special precautions for use).
+
+Heparin: in a clinical study conducted in healthy subjects, clopidogrel did not necessitate modification of the heparin dose or alter the effect of heparin on coagulation.
+Co-administration of heparin had no effect on the inhibition of platelet aggregation induced by clopidogrel.
+However, the safety of this combination has not been established and concomitant use should be undertaken with caution (see 4.4 Special warnings and special precautions for use).
+
+Thrombolytics: the safety of the concomitant administration of clopidogrel, rt-PA and heparin was assessed in patients with recent myocardial infarction.
+The incidence of clinically significant bleeding was similar to that observed when rt-PA and heparin are co-administered with ASA.
+The safety of the concomitant administration of clopidogrel with other thrombolytic agents has not been established and should be undertaken with caution (see 4.4 Special warnings and special precautions for use).
+Non-Steroidal Anti-Inflammatory Drugs (NSAIDs): in a clinical study conducted in healthy volunteers, the concomitant administration of clopidogrel and naproxen increased occult gastrointestinal blood loss.
+However, due to the lack of interaction studies with other NSAIDs it is presently unclear whether there is an increased risk of gastrointestinal bleeding with all NSAIDs.
+Consequently, NSAIDs and clopidogrel should be co-administered with caution (see 4.4 Special warnings and special precautions for use).
+
+Other concomitant therapy: a number of other clinical studies have been conducted with clopidogrel and other concomitant medications to investigate the potential for pharmacodynamic and pharmacokinetic interactions.
+No clinically significant pharmacodynamic interactions were observed when clopidogrel was co-administered with atenolol, nifedipine, or both atenolol and nifedipine.
+Furthermore, the pharmacodynamic activity of clopidogrel was not significantly influenced by the co-administration of phenobarbital, cimetidine, or oestrogen.
+
+The pharmacokinetics of digoxin or theophylline were not modified by the co-administration of clopidogrel.
+Antacids did not modify the extent of clopidogrel absorption.
+
+Data from studies with human liver microsomes indicated that the carboxylic acid metabolite of clopidogrel could inhibit the activity of Cytochrome P450 2C9.
+This could potentially lead to increased plasma levels of drugs such as phenytoin and tolbutamide and the NSAIDs which are metabolised by Cytochrome P450 2C9.
+Data from the CAPRIE study indicate that phenytoin and tolbutamide can be safely coadministered with clopidogrel.
