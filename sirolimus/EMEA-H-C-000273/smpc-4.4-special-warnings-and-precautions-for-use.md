@@ -1,10 +1,15 @@
 # 4.4 Special warnings and special precautions for use
 
 Rapamune is for oral administration only.
+
 Rapamune has been administered concurrently with the following agents in clinical studies: cyclosporine, azathioprine, mycophenolate mofetil, corticosteroids, and cytotoxic antibodies.
 Rapamune in combination with other immunosuppressive agents has not been extensively investigated.
 
 Rapamune has not been adequately studied in patients at high immunological risk.
+
+Immunosuppressants may affect response to vaccination.
+During treatment with immunosuppressants, including Rapamune, vaccination may be less effective.
+The use of live vaccines should be avoided during treatment with Rapamune.
 
 The pharmacokinetics of Rapamune have not been studied in patients with severe hepatic impairment.
 It is recommended that sirolimus whole blood trough levels be closely monitored in hepatically impaired patients.

@@ -1,3 +1,5 @@
 # 3. PHARMACEUTICAL FORM
 
-Oral solution.
+Coated tablet.
+
+White, triangular-shaped coated tablet marked “RAPAMUNE 1 mg” on one side.
