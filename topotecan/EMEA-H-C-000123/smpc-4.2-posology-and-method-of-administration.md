@@ -17,10 +17,11 @@ either be given a reduced dose i.e. 1.25 mg/m2/day (or subsequently down to 1.0 
 
 or be given G-CSF prophylactically in subsequent courses to maintain dose intensity, starting from day 6 of the course (the day after completion of topotecan administration).
 If neutropenia is not adequately managed with G-CSF administration, doses should be reduced.
-
 Doses should be similarly reduced if the platelet count falls below 25 x 109/l.
 In clinical trials, topotecan was discontinued if the dose had been reduced to 1.0 mg/m2 and a further dose reduction was required to manage adverse effects.
+
 Dosage in Renally Impaired Patients
-Insufficient data are available to make a recommendation for patients with a creatinine clearance < 20 ml/min.
+Insufficient data are available to make a recommendation for patients with a creatinine clearance
+< 20 ml/min.
 Limited data indicate that the dose should be reduced in patients with moderate renal impairment.
 The recommended dose in patients with creatinine clearance between 20 and 39 ml/min is 0.75 mg/m2/day.

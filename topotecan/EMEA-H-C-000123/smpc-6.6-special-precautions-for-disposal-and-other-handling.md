@@ -6,7 +6,15 @@ The normal procedures for proper handling and disposal of anticancer drugs shoul
 
 - Personnel should be trained to reconstitute the drug.
 - Pregnant staff should be excluded from working with this drug.
-- Personnel handling this drug during reconstitution should wear protective clothing including mask, goggles and gloves.
-- All items for administration or cleaning, including gloves, should be placed in a high risk, waste disposal bags for high temperature incineration.
-  Liquid waste may be flushed with large amounts of water.
-- Accidental contact with the skin or eyes should be treated immediately with copious amounts of water.
+- Personnel handling this drug during reconstitution should wear protective clothing including
+
+mask, goggles and gloves.
+
+- All items for administration or cleaning, including gloves, should be placed in a high risk,
+
+waste disposal bags for high temperature incineration.
+Liquid waste may be flushed with large amounts of water.
+
+- Accidental contact with the skin or eyes should be treated immediately with copious amounts
+
+of water.

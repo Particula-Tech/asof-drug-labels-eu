@@ -1,4 +1,3 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-SmithKline Beecham plc, Great West Road, Brentford, Middlesex, England.
-TW8 9BD.
+SmithKline Beecham plc, New Horizons Court, Brentford, Middlesex, TW8 9EP, UK.
