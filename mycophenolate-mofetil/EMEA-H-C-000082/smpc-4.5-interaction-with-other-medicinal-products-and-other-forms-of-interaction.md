@@ -38,3 +38,25 @@ Thus, other drugs known to undergo renal tubular secretion may compete with MPAG
 
 Live vaccines: live vaccines should not be given to patients with an impaired immune response.
 The antibody response to other vaccines may be diminished (see also section 4.4 Special warnings and special precautions for use).
+
+[CellCept 500 mg powder for concentrate for solution for infusion]
+
+Cholestyramine: following single dose, oral administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4g TID of cholestyramine for 4 days, there was a 40% reduction in the AUC of MPA.
+(see section 4.4 Special warnings and special precautions for use, and section 5.2 Pharmacokinetic properties).
+
+In another study in renal transplant patients, it was shown that the tacrolimus concentration did not appear to be altered by CellCept.
+
+[CellCept 1 g/5 ml powder for oral suspension]
+
+Cholestyramine: following single dose administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4 g TID of cholestyramine for 4 days, there was a 40% reduction in the AUC of MPA.
+
+No substantial alteration of MPA pharmcokinetics are anticipated and CellCept dose adjustment is not required.
+In patients with renal impairment in which CellCept and ganciclovir or its prodrugs, e.g. valganciclovir, are co-administered, the dose recommendations for ganciclovir should be observed and patients monitored carefully.
+
+Tacrolimus: in renal transplant patients: stable renal transplant patients receiving cyclosporin and CellCept (1 g BID) showed about a 30 % increase in MPA plasma AUC and about a 20% decrease in MPAG plasma AUC when cyclosporin was replaced with tacrolimus.
+
+The antibody response to other vaccines may be diminished (see also section 4.4 Special warnings and precautions for use).
+
+[CellCept 500 mg tablets]
+
+The antibody response to other vaccines may be diminished (see also 4.4 Special warnings and special precautions for use).

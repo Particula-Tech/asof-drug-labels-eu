@@ -16,13 +16,13 @@ MPA is metabolised principally by glucuronyl transferase to form the phenolic gl
 A negligible amount of drug is excreted as MPA (< 1% of dose) in the urine.
 Orally administered radiolabelled mycophenolate mofetil results in complete recovery of the administered dose; with 93% of the administered dose recovered in the urine and 6% recovered in the faeces.
 Most (about 87%) of the administered dose is excreted in the urine as MPAG.
-
 At clinically encountered concentrations, MPA and MPAG are not removed by haemodialysis.
 However, at high MPAG plasma concentrations (> 100µg/ml), small amounts of MPAG are removed.
+
 In the early post-transplant period (< 40 days post-transplant), renal, cardiac and hepatic transplant patients had mean MPA AUCs approximately 30% lower and Cmax approximately 40% lower compared to the late post-transplant period (3 – 6 months post-transplant).
 
 Renal impairment:
-In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate < 25ml�min-1�1.73 m-2),) were 28 – 75% higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
+In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate < 25ml•min-1•1.73 m-2) were 28 – 75% higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
 However, the mean single dose MPAG AUC was 3 – 6-fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG.
 Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied.
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
@@ -43,10 +43,34 @@ Pharmacokinetic parameters were evaluated in 49 paediatric renal transplant pati
 This dose achieved MPA AUC values similar to those seen in adult renal transplant patients receiving CellCept at a dose of 1 g bid in the early and late posttransplant period.
 MPA AUC values across age groups were similar in the early and late posttransplant period.
 
-Elderly patients (� 65 years):
+Elderly patients (≥ 65 years):
 Pharmacokinetic behaviour of CellCept in the elderly has not been formally evaluated.
 
 Oral contraceptives:
 The pharmacokinetics of oral contraceptives were unaffected by coadministration of CellCept (see also section 4.5 Interaction with other medicinal products and other forms of interaction).
 A study of the coadministration of CellCept (1 g bid) and combined oral contraceptives containing ethinylestradiol (0.02 mg to 0.04 mg) and levonorgestrel (0.05 mg to 0.15 mg), desogestrel (0.15 mg) or gestodene (0.05 mg to 0.10 mg) conducted in 18 non-transplant women (not taking other immunosupressants) over 3 consecutive menstrual cycles showed no clinically relevant influence of CellCept on the ovulation suppressing action of the oral contraceptives.
 Serum levels of LH, FSH and progesterone were not significantly affected.
+
+[CellCept 500 mg powder for concentrate for solution for infusion]
+
+Following intravenous administration, mycophenolate mofetil undergoes rapid and complete metabolism to the active metabolite, MPA.
+MPA at clinically relevant concentrations is 97% bound to plasma albumin.
+The parent drug mycophenolate mofetil can be measured systemically during intravenous infusion; however, after oral administration it is below the limit of quantitation
+(0.4 µg/ml).
+
+Orally administered radiolabelled mycophenolate mofetil results in complete recovery of the administered dose; with 93% of the administered dose recovered in the urine and 6% recovered in faeces.
+
+MPA AUC values obtained following administration of 1 g BID intravenous CellCept to renal transplant patients in the early posttransplant phase are comparable to those observed following 1 g BID oral CellCept.
+In hepatic transplant patients, administration of 1 g BID intravenous CellCept followed by 1.5 g BID oral CellCept resulted in MPA AUC values similar to those found in renal transplant patients administered 1 g CellCept BID.
+
+In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate< 25ml•min-1•1.73m-2) were 28 – 75% higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
+However, the mean single dose MPAG AUC was 3 – 6 fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG.
+No data are available for hepatic transplant patients with severe chronic renal impairment.
+
+[CellCept 1 g/5 ml powder for oral suspension]
+
+In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate < 25ml•min-1•1.73m-2) were 28 – 75% higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
+
+[CellCept 500 mg tablets]
+
+A negligible amount of drug is excreted as MPA (< 1 % of dose) in the urine.
