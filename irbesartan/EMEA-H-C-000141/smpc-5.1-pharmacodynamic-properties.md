@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmaco-therapeutic group: Angiotensin-II antagonists, ATC code C09C A.
-
 Irbesartan is a potent, orally active, selective angiotensin-II receptor (type AT1) antagonist.
 It is expected to block all actions of angiotensin-II mediated by the AT1 receptor, regardless of the source or route of synthesis of angiotensin-II.
 The selective antagonism of the angiotensin-II (AT1) receptors results in increases in plasma renin levels and angiotensin-II levels, and a decrease in plasma aldosterone concentration.
@@ -23,7 +22,8 @@ After withdrawal of therapy, blood pressure gradually returns toward baseline.
 Rebound hypertension has not been observed.
 
 The blood pressure lowering effects of irbesartan and thiazide-type diuretics are additive.
-In patients not adequately controlled by irbesartan alone, the addition of a low dose of hydrochlorothiazide (12.5 mg) to irbesartan once daily results in a further placebo-adjusted blood pressure reduction at trough of 7-10/3-6 mm Hg (systolic/diastolic).
+In patients not adequately controlled by irbesartan alone, the addition of a low dose of hydrochlorothiazide
+(12.5 mg) to irbesartan once daily results in a further placebo-adjusted blood pressure reduction at trough of 7-10/3-6 mm Hg (systolic/diastolic).
 
 The efficacy of Aprovel is not influenced by age or gender.
 As is the case with other drugs that affect the renin-angiotensin system, black hypertensive patients have notably less response to irbesartan monotherapy.

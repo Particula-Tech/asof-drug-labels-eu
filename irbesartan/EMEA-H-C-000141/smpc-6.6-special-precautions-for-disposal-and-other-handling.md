@@ -1,3 +1,3 @@
-# 6.6 Instructions for use, handling and disposal (if appropriate)
+# 6.6 Instructions for use and handling, and disposal
 
 None.

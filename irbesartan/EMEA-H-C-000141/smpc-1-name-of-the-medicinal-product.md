@@ -1,11 +1,11 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
-Aprovel 75 mg.
+Aprovel 75 mg tablets.
 
-[Aprovel 150 mg.]
+[Aprovel 150 mg tablets.]
 
-Aprovel 150 mg.
+Aprovel 150 mg tablets.
 
-[Aprovel 300 mg.]
+[Aprovel 300 mg tablets.]
 
-Aprovel 300 mg.
+Aprovel 300 mg tablets.

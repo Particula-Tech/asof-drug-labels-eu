@@ -2,10 +2,10 @@
 
 EU/1/97/046/001-003
 
-[Aprovel 150 mg.]
+[Aprovel 150 mg tablets.]
 
 EU/1/97/046/004-006
 
-[Aprovel 300 mg.]
+[Aprovel 300 mg tablets.]
 
 EU/1/97/046/007-009

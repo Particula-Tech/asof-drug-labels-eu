@@ -1,4 +1,4 @@
-# 4.6 Use during pregnancy and lactation
+# 4.6 Pregnancy and lactation
 
 Pregnancy: Aprovel is contraindicated during pregnancy.
 

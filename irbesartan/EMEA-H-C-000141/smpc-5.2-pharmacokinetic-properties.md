@@ -10,7 +10,6 @@ Following oral or intravenous administration of 14C irbesartan, 80-85% of the ci
 Irbesartan is metabolised by the liver via glucuronide conjugation and oxidation.
 The major circulating metabolite is irbesartan glucuronide (approximately 6%).
 In vitro studies indicate that irbesartan is primarily oxidised by the cytochrome P450 enzyme CYP2C9; isoenzyme CYP3A4 has negligible effect.
-
 Irbesartan exhibits linear and dose proportional pharmacokinetics over the dose range of 10 to 600 mg.
 A less than proportional increase in oral absorption at doses beyond 600 mg (twice the maximal recommended dose) was observed; the mechanism for this is unknown.
 Peak plasma concentrations are attained at 1.5-2 hours after oral administration.
@@ -33,5 +32,4 @@ Renal impairment: in patients with renal impairment or those undergoing haemodia
 Irbesartan is not removed by haemodialysis.
 
 Hepatic impairment: in patients with mild to moderate cirrhosis, the pharmacokinetic parameters of irbesartan are not significantly altered.
-
 Studies have not been performed in patients with severe hepatic impairment.

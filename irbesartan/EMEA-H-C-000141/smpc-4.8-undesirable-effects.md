@@ -6,7 +6,8 @@ In placebo-controlled trials in patients with hypertension, the overall incidenc
 Discontinuation due to any clinical or laboratory adverse event was less frequent for irbesartan-treated patients than for placebo-treated patients.
 The incidence of adverse events was not related to dose (in the recommended dose range), gender, age, race, or duration of treatment.
 
-Clinical adverse events, regardless of whether attributed to therapy, occurring in 1% or more of hypertensive patients with Aprovel in placebo-controlled trials are presented in the following table: % of Patients
+Clinical adverse events, regardless of whether attributed to therapy, occurring in 1% or more of hypertensive patients with Aprovel in placebo-controlled trials are presented in the following table:
+% of Patients
 
 Adverse Event Irbesartan Monotherapy Placebo
 n=1965 n=641
@@ -37,7 +38,7 @@ Headache occurred significantly more often in the placebo group.
 Musculoskeletal trauma of differing types and causes occurred with a significantly higher incidence in the irbesartan group; all reports of musculoskeletal trauma were considered unrelated to irbesartan by the investigators.
 Flushing occurred in 0.6% of irbesartan patients and in no placebo patients.
 The occurrence of flushing was not related to dose, was not accompanied by other clinical events, and the relationship with irbesartan therapy is unknown.
-In over 5500 subjects exposed to irbesartan in clinical trials, there has been no report of angioedema.
+As with other angiotensin-II receptor antagonists, rare cases of hypersensitivity reactions (urticaria, angioedema) have been reported since marketing of irbesartan.
 
 No clinically significant changes in laboratory test parameters occurred in controlled clinical trials.
 Although significant increases in plasma creatine kinase occurred more frequently in irbesartan-treated subjects (1.7% vs 0.7% in placebo-treated subjects), none of these increases were classified as serious, resulted in drug discontinuation, or were associated with identifiable clinical musculoskeletal events.
