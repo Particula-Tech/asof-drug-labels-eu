@@ -15,12 +15,13 @@ Use in elderly men
 Dosage adjustments are not required in elderly patients.
 
 Use in men with impaired renal function
-The recommended dose of CIALIS is 10 mg taken prior to anticipated sexual activity and without regard to food.
-There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with renal impairment.
-(See sections 4.4 Special warnings and precautions for use and 5.2 Pharmacokinetic properties).
+Dosage adjustments are not required in patients with mild to moderate renal impairment.
+For patients with severe renal impairment 10 mg is the maximum recommended dose.
+(See section 5.2 Pharmacokinetic properties).
 
 Use in men with impaired hepatic function
 The recommended dose of CIALIS is 10 mg taken prior to anticipated sexual activity and without regard to food.
+There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
 There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.
 (See sections 4.4 Special warnings and precautions for use and 5.2 Pharmacokinetic properties).
 Use in men with diabetes
