@@ -1,3 +1,4 @@
 # 6.1 List of excipients
 
-Norvir oral solution contains: ethanol, purified water, polyoxyl 35 castor oil, propylene glycol, anhydrous citric acid, saccharin sodium, peppermint oil, creamy caramel flavour, and dye E110.
+Norvir soft capsules contain: ethanol, butylated hydroxytoluene (E321), oleic acid and polyoxyl 35 castor oil.
+The capsule shell components are: gelatine, “sorbitol special” (i.e. sorbitol sorbitolanhydrides and mannitol), glycerine, titanium dioxide (white colour), medium chain triglycerides, lecithin and black ink containing: propylene glycol, black iron oxide, polyvinyl acetate phthalate, polyethylene glycol 400 and ammonium hydroxide.
