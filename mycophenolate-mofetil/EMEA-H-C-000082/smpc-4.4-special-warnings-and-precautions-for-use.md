@@ -10,7 +10,7 @@ Oversuppression of the immune system increases the susceptibility to infection i
 
 Patients receiving CellCept should be monitored for neutropenia, which may be related to CellCept itself, concomitant medications, viral infections, or some combination of these causes.
 Patients taking CellCept should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year.
-If neutropenia develops (absolute neutrophil count < 1.3 x 103/µl) it may be appropriate to interrupt or discontinue CellCept.
+If neutropenia develops (absolute neutrophil count < 1.3 x 10³/µl) it may be appropriate to interrupt or discontinue CellCept.
 
 Patients should be advised that during treatment with CellCept vaccinations may be less effective and the use of live attenuated vaccines should be avoided (see section 4.5 Interaction with other medicinal products and other forms of interaction).
 Influenza vaccination may be of value.

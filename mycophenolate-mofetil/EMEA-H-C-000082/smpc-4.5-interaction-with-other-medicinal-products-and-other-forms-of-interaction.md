@@ -13,12 +13,11 @@ drugs that interfere with enterohepatic circulation: caution should be used with
 
 cyclosporin A: cyclosporin A pharmacokinetics were unaffected by mycophenolate mofetil.
 
-ganciclovir: based on the results of a single dose administration study of recommended doses of oral mycophenolate and IV ganciclovir and the known effects of renal impairment on the pharmacokinetics of CellCept (see section 4.2 Posology and method of administration) and ganciclovir, it is anticipated that coadministration of these agents (which compete for mechanisms of renal tubular secretion) will result in increases in MPAG and ganciclovir concentration.
+ganciclovir: based on the results of a single dose administration study of recommended doses of oral mycophenolate and IV ganciclovir and the known effects of renal impairment on the pharmacokinetics of CellCept (see section 4.2 Posology and method of administration) and ganciclovir, it is anticipated that co-administration of these agents (which compete for mechanisms of renal tubular secretion) will result in increases in MPAG and ganciclovir concentration.
 No substantial alteration of MPA pharmacokinetics are anticipated and CellCept dose adjustment is not required.
-In patients with renal impairment in which CellCept and ganciclovir are coadministered the dose recommendations for ganciclovir should be observed and patients monitored carefully.
+In patients with renal impairment in which CellCept and ganciclovir are co-administered the dose recommendations for ganciclovir should be observed and patients monitored carefully.
 
-oral contraceptives: no pharmacokinetic interaction was observed between mycophenolate mofetil and 1 mg norethisterone/35 µg ethinyloestradiol.
-This single dose study demonstrates the lack of a gross pharmacokinetic interaction, but cannot exclude the possibility of changes in the pharmacokinetics of the oral contraceptive under long term dosing conditions with CellCept which might adversely affect the efficacy of the oral contraceptive.
+oral contraceptives: the pharmacokinetics and pharmacodynamics of oral contraceptives were unaffected by coadministration of CellCept (see also section 5.2 Pharmacokinetic properties).
 
 trimethoprim/sulphamethoxazole: no effect on the bioavailability of MPA was observed.
 
@@ -31,7 +30,7 @@ In another study in renal transplant patients it was shown that the tacrolimus c
 In hepatic transplant patients: very limited pharmacokinetic data on MPA AUC are available in hepatic transplant patients treated with CellCept in combination with tacrolimus.
 In a study designed to evaluate the effect of CellCept on the pharmacokinetics of tacrolimus in stable hepatic transplant patients, there was an increase of approximately 20% in tacrolimus AUC when multiple doses of CellCept (1.5 g BID) were administered to patients taking tacrolimus.
 
-other interactions: coadministration of probenecid with mycophenolate mofetil in monkeys raises plasma AUC of MPAG by 3-fold.
+other interactions: co-administration of probenecid with mycophenolate mofetil in monkeys raises plasma AUC of MPAG by 3-fold.
 Thus, other drugs known to undergo renal tubular secretion may compete with MPAG and thereby raise plasma concentrations of MPAG or the other drug undergoing tubular secretion.
 
 live vaccines: live vaccines should not be given to patients with an impaired immune response.
@@ -42,6 +41,8 @@ The antibody response to other vaccines may be diminished (see also section 4.4 
 cholestyramine: following single dose, oral administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4g TID of cholestyramine for 4 days, there was a 40% reduction in the AUC of MPA.
 (see section 4.4 Special warnings and special precautions for use, and section 5.2 Pharmacokinetic properties).
 
+cyclosporin A: cyclosporin A pharmacokinetics were unaffected by mycophenolate mofetil. ganciclovir: based on the results of a single dose administration study of recommended doses of oral mycophenolate and IV ganciclovir and the known effects of renal impairment on the pharmacokinetics of CellCept (see section 4.2 Posology and method of administration) and ganciclovir, it is anticipated that co-administration of these agents (which compete for mechanisms of renal tubular secretion) will result in increases in MPAG and ganciclovir concentration.
+
 In another study in renal transplant patients, it was shown that the tacrolimus concentration did not appear to be altered by CellCept.
 
 [CellCept 1 g/5 ml powder for oral suspension.]
@@ -49,9 +50,7 @@ In another study in renal transplant patients, it was shown that the tacrolimus 
 cholestyramine: following single dose administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4 g TID of cholestyramine for 4 days, there was a 40% reduction in the AUC of MPA.
 
 No substantial alteration of MPA pharmcokinetics are anticipated and CellCept dose adjustment is not required.
-In patients with renal impairment in which CellCept and ganciclovir are coadministered, the dose recommendations for ganciclovir should be observed and patients monitored carefully.
-
-This single dose study demonstrates the lack of a gross pharmacokinetic interaction, but cannot exclude the possibility of changes in the pharmacokinetics of the oral contraceptive under long term dosing conditions with CellCept, which might adversely affect the efficacy of the oral contraceptive.
+In patients with renal impairment in which CellCept and ganciclovir are co-administered, the dose recommendations for ganciclovir should be observed and patients monitored carefully.
 
 tacrolimus: in renal transplant patients: stable renal transplant patients receiving cyclosporin and CellCept (1 g BID) showed about a 30 % increase in MPA plasma AUC and about a 20% decrease in MPAG plasma AUC when cyclosporin was replaced with tacrolimus.
 

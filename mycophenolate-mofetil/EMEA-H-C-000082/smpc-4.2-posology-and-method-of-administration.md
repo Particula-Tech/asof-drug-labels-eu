@@ -16,7 +16,7 @@ Very limited pharmacokinetic data are available for paediatric renal transplant 
 No pharmacokinetic data are available for paediatric patients following cardiac or hepatic transplants.
 
 Use in elderly (≥ 65 years): the recommended dose of 1.0 g administered twice a day for renal transplant patients and 1.5 g twice a day for cardiac or hepatic transplant patients is appropriate for the elderly.
-Use in renal impairment: in renal transplant patients with severe chronic renal impairment (glomerular filtration rate < 25 ml•min-1•1.73 m-2), outside the immediate post-transplant period, doses greater than 1 g administered twice a day should be avoided.
+Use in renal impairment: in renal transplant patients with severe chronic renal impairment (glomerular filtration rate < 25 ml•min-¹•1.73 m-²), outside the immediate post-transplant period, doses greater than 1 g administered twice a day should be avoided.
 These patients should also be carefully observed.
 No dose adjustments are needed in patients experiencing delayed renal graft function post-operatively (see section 5.2 Pharmacokinetic properties).
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
@@ -44,7 +44,6 @@ Use in renal transplant: the recommended dose in renal transplant patients is 1.
 Use in hepatic transplant: the recommended dose of CellCept for infusion in hepatic transplant patients is 1.0 g administered twice daily (2 g daily dose).
 IV CellCept should continue for the first 4 days following hepatic transplant, with oral CellCept initiated as soon after this as it can be tolerated.
 The recommended dose of oral CellCept in hepatic transplant patients is 1.5 g administered twice daily (3 g daily dose).
-
 No pharmacokinetic data are available for paediatric patients following hepatic transplants.
 
 Use in elderly (≥ 65 years): the recommended dose of 1.0 g administered twice a day for renal or hepatic transplant patients is appropriate for the elderly.
@@ -64,4 +63,4 @@ If required, CellCept 1 g/5 ml powder for oral suspension can be administered vi
 
 [CellCept 500 mg tablets]
 
-(all sentences already above)
+Use in renal impairment: in renal transplant patients with severe chronic renal impairment (glomerular filtration rate < 25 ml•min-¹-•1.73 m-²), outside the immediate post-transplant period, doses greater than 1 g administered twice a day should be avoided.

@@ -19,9 +19,10 @@ The proportion of patients with CMV viraemia/syndrome was 13.5%.
 Elderly patients (≥ 65 years):
 Elderly patients (≥ 65 years) may generally be at increased risk of adverse drug reactions due to immunosuppression.
 Elderly patients receiving CellCept as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared to younger individuals.
-Other Adverse Drug Reactions:
-Adverse drug reactions, probably or possibly related to CellCept, reported in ≥ 10% and in 1 – < 10% of patients treated with CellCept in the controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients are listed in the following table.
 
+Other Adverse Drug Reactions:
+Adverse drug reactions, probably or possibly related to CellCept, reported in ≥ 10% and in 1
+– < 10% of patients treated with CellCept in the controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients are listed in the following table.
 Adverse Drug Reactions, Probably or Possibly Related to CellCept, Reported in Patients Treated with CellCept in Renal, Cardiac and Hepatic Clinical Trials when Used in Combination with Cyclosporin and Corticosteroids
 
 | Body System |  | Adverse drug reactions |
@@ -45,21 +46,22 @@ Adverse Drug Reactions, Probably or Possibly Related to CellCept, Reported in Pa
 | Skin and appendages | ≥ 10% | Herpes simplex, herpes zoster |
 |  | 1 - < 10% | Carcinoma, moniliasis, fungal dermatitis, acne, rash, alopecia, hypertrophy, benign neoplasia |
 | Nervous | ≥ 10% | - |
-|  | 1 - < 10% | Convulsion, depression, confusion, agitation, anxiety, hypertonia, dizziness, abnormal thinking, tremor, paresthesia, insomnia, somnolence |
+|  | 1 - < 10% | Convulsion, depression, confusion, agitation, anxiety, hypertonia, dizziness, abnormal thinking, tremor, paraesthesia, insomnia, somnolence |
 | Musculo-skeletal | ≥ 10% | - |
 |  | 1 - < 10% | Myasthenia, arthralgia |
 | Special senses | ≥ 10% | - |
 |  | 1 - < 10% | Dysgeusia |
 
 Note: 501 (2 g CellCept daily), 289 (3 g CellCept daily) and 277 (2 g IV / 3 g oral CellCept daily) patients were treated in Phase III studies for the prevention of rejection in renal, cardiac and hepatic transplantation, respectively.
-The following undesirable effects cover adverse drug reactions from post-marketing experience:
 
+The following undesirable effects cover adverse drug reactions from post-marketing experience:
 The types of adverse drug reactions reported during post-marketing with CellCept are similar to those seen in the controlled renal, cardiac and hepatic transplant studies.
 Additional adverse drug reactions reported during post-marketing are described below.
 
 Gastrointestinal: colitis (including CMV colitis), pancreatitis.
 
 Disorders related to immunosuppression: serious life-threatening infections including meningitis, infectious endocarditis, tuberculosis and atypical mycobacterial infection.
+Some cases of agranulocytosis have been reported.
 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
 
@@ -68,7 +70,6 @@ The adverse drug reaction profile associated with the administration of CellCept
 The following data refer to the safety experience of oral CellCept in renal transplant patients.
 Data in hepatic transplant patients are based on i.v. dosing of CellCept for up to 14 days followed by oral dosing.
 Adverse drug reactions, probably or possibly related to CellCept, reported in ≥10% and in 1 - < 10% of patients treated with CellCept in the controlled clinical trials of renal (2 g data) and hepatic transplant patients are listed in the following table.
-
 Adverse Drug Reactions, Probably or Possibly Related to CellCept, Reported in Patients Treated with CellCept in Renal and Hepatic Clinical Trials when Used in Combination with Cyclosporin and Corticosteroids
 
 | Body System |  | Adverse drug reaction |
@@ -84,15 +85,15 @@ Adverse Drug Reactions, Probably or Possibly Related to CellCept, Reported in Pa
 | Metabolic/ nutritional | ≥10% | - |
 |  | 1 - < 10% | Hyperkalaemia, acidosis, hypokalaemia, hypomagnesaemia, hypocalcaemia, hypercholesterolaemia, hyperlipaemia, increased alkaline phosphatase, hyperglycaemia, hypophosphataemia, increased lactate dehydrogenase |
 | Gastrointestin al | ≥10% | Moniliasis, vomiting, diarrhoea, nausea, abdominal pain |
-|  | 1 - < 10% | Gastrointestinal haemorrhage, peritonitis, gastric ulcer, duodenal ulcer, colitis, infection, ileus, gastritis, gastroenteritis, anorexia, oesophagitis, dyspepsia, constipation, flatulence stomatitis |
+|  | 1 - < 10% | Gastrointestinal haemorrhage, peritonitis, gastric ulcer, duodenal ulcer, colitis, infection, ileus, gastritis, gastroenteritis, anorexia, oesophagitis, dyspepsia, constipation, flatulence, stomatitis |
 | Hepatic | ≥ 10% | - |
 |  | 1 - < 10% | Hepatitis, elevation of enzymes |
 | Respiratory | ≥10% | - |
 |  | 1 - < 10% | Pneumonia, infection, moniliasis, dyspnoea, sinusitis, bronchitis, pharyngitis, pleural effusion, increased cough, rhinitis |
-| Skin and | ≥10% | Herpes simplex, herpes zoster |
-| appendages | 1 - < 10% | Carcinoma, fungal dermatitis, acne, rash, alopecia, benign neoplasia |
+| Skin and appendages | ≥10% | Herpes simplex, herpes zoster |
+|  | 1 - < 10% | Carcinoma, fungal dermatitis, acne, rash, alopecia, benign neoplasia |
 | Nervous | ≥10% | - |
-|  | 1 - < 10% | Convulsion, depression, hypertonia, abnormal thinking, tremor, paresthesia, insomnia, somnolence |
+|  | 1 - < 10% | Convulsion, depression, hypertonia, abnormal thinking, tremor, paraesthesia, insomnia, somnolence |
 | Musculo-skeletal | ≥10% | - |
 |  | 1 - < 10% | Arthralgia |
 
@@ -107,7 +108,7 @@ Disorders related to immunosuppression: serious life-threatening infections incl
 
 [CellCept 1 g/5 ml powder for oral suspension.]
 
-(all sentences already above)
+Adverse drug reactions, probably or possibly related to CellCept, reported in ≥ 10% and in 1 – < 10% of patients treated with CellCept in the controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients are listed in the following table
 
 [CellCept 500 mg tablets]
 

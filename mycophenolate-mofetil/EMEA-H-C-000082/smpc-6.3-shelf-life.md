@@ -5,7 +5,6 @@
 [CellCept 500 mg powder for concentrate for solution for infusion.]
 
 Powder for concentrate for solution for infusion: 3 years.
-
 Reconstituted solution and infusion solution: If the infusion solution is not prepared immediately prior to administration, the commencement of administration of the infusion solution should be within 3 hours from reconstitution and dilution of the drug product.
 
 [CellCept 1 g/5 ml powder for oral suspension.]

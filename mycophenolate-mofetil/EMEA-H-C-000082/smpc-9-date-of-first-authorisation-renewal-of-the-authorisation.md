@@ -1,6 +1,7 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 14 February 1996 (EU/1/96/005/001)
+
 13 May 1997 (EU/1/96/005/003)
 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
