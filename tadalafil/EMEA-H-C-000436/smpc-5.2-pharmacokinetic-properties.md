@@ -41,9 +41,15 @@ In another clinical pharmacology study in subjects with end-stage renal failure 
 There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with renal impairment.
 
 Hepatic insufficiency
-Tadalafil exposure (AUC) in subjects with mild and moderate hepatic impairment (Child-Pugh Class A and B) is comparable to exposure in healthy subjects when a dose of 10 mg is administered.
-There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.
+Tadalafil exposure (AUC) in subjects with mild and moderate hepatic impairment (Child-Pugh Class A and B) is comparable to exposure in healthy subjects when a dose of 10 mg is administered.There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.
 
 Patients with diabetes
 Tadalafil exposure (AUC) in patients with diabetes was approximately 19 % lower than the AUC value for healthy subjects.
 This difference in exposure does not warrant a dose adjustment.
+
+[CIALIS 20 mg film-coated tablets]
+
+In a clinical pharmacology study in subjects with mild (creatinine clearance 51 to 80 ml/min) or moderate (creatinine clearance 31 to 50 ml/min) renal impairment, tadalafil exposure (AUC) washigher than in healthy subjects after administration of a 10 mg dose.
+
+Tadalafil exposure (AUC) in subjects with mild and moderate hepatic impairment (Child-Pugh Class A and B) is comparable to exposure in healthy subjects when a dose of 10 mg is administered.
+There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.

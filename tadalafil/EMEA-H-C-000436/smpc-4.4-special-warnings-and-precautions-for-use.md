@@ -16,7 +16,6 @@ There is limited clinical data on the safety of CIALIS in the following groups; 
 - patients with severe hepatic insufficiency (Child-Pugh Class C)
 
 Tadalafil 10 mg has been the highest dose studied in patients with mild (creatinine clearance = 51 to 80 ml/min), and moderate (creatinine clearance = 31 to 50 ml/min) renal failure and in patients with end-stage renal failure undergoing haemodialysis.
-
 Priapism was not reported in clinical trials with CIALIS.
 However, priapism has been reported with another PDE5 inhibitor.
 Patients who experience erections lasting 4 hours or more should be instructed to seek immediate medical assistance.
@@ -28,6 +27,11 @@ The evaluation of erectile dysfunction should include a determination of potenti
 It is not known if CIALIS is effective in patients with spinal cord injuries and patients who have undergone pelvic surgery or radical non-nerve-sparing prostatectomy.
 
 CIALIS should not be administered to patients with hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption.
+
+In patients who are taking alpha(1) blockers, such as doxazosin, concomitant administration of CIALIS may lead to symptomatic hypotension in some patients (see Section 4.5 Interaction with other medicinal products and other forms of interaction).
+Therefore, the combination of tadalafil and alpha blockers is not recommended.
+
+Caution should be exercised when prescribing CIALIS to patients using potent CYP3A4 inhibitors (ritonavir, saquinavir, ketoconazole, itraconazole, and erythromycin) as increased tadalafil exposure (AUC) has been observed if the drugs are combined (see Section 4.5 Interaction with other medicinal products and other forms of interaction).
 
 The safety and efficacy of combinations of CIALIS and other treatments for erectile dysfunction have not been studied.
 Therefore, the use of such combinations is not recommended.

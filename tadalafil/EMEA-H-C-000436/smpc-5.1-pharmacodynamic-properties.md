@@ -23,9 +23,6 @@ Sexual Encounter Profile (SEP) diary data collected in clinical studies supports
 In these studies patients were free to choose the time interval between dose administration and the time of sexual attempts.
 
 CIALIS administered to healthy subjects produced no significant difference compared to placebo in supine systolic and diastolic blood pressure (mean maximal decrease of 1.6/0.8 mm Hg, respectively), in standing systolic and diastolic blood pressure (mean maximal decrease of 0.2/4.6 mm Hg, respectively), and no significant change in heart rate.
-When tadalafil and certain oral antihypertensive medications (including angiotensin II receptor blockers) were assessed in drug interaction studies, tadalafil did not result in clinically significant augmentation of the antihypertensive effects of those medications (see section 4.5 Interaction with other medicinal products and other forms of interaction).
-However, appropriate clinical advice should be given to patients regarding the possibility of a decrease in blood pressure when they are treated with antihypertensive medications.
-The administration of CIALIS to patients who are using any form of organic nitrate is contraindicated.
 
 In a study to assess the effects of tadalafil on vision, no impairment of colour discrimination (blue/green) was detected using the Farnsworth-Munsell 100-hue test.
 This finding is consistent with the low affinity of tadalafil for PDE6 compared to PDE5.

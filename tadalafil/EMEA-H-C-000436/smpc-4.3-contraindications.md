@@ -3,6 +3,7 @@
 In clinical studies, tadalafil was shown to augment the hypotensive effects of nitrates.
 This is thought to result from the combined effects of nitrates and tadalafil on the nitric oxide/cGMP pathway.
 Therefore, administration of CIALIS to patients who are using any form of organic nitrate is contraindicated.
+(See section 4.5 Interaction with other medicinal products and other forms of interaction).
 
 Agents for the treatment of erectile dysfunction, including CIALIS, should not be used in men with cardiac disease for whom sexual activity is inadvisable.
 Physicians should consider the potential cardiac risk of sexual activity in patients with pre-existing cardiovascular disease.
