@@ -7,7 +7,7 @@ Posology
 Adult patients
 A treatment cycle comprises 28 days.
 In patients previously untreated with chemotherapy, Temodal is administered orally at a dose of 200 mg/m2 once daily for the first 5 days followed by a 23 day treatment interruption (total of 28 days).
-In patients previously treated with chemotherapy, the initial dose is 150 mg/m2 once daily, to be increased in the second cycle to 200 mg/m2 daily, providing the absolute neutrophil count (ANC) is � 1.5 x 109/l and the thrombocyte count is � 100 x 109/l on Day 1 of the next cycle.
+In patients previously treated with chemotherapy, the initial dose is 150 mg/m2 once daily, to be increased in the second cycle to 200 mg/m2 daily, providing the absolute neutrophil count (ANC) is ≥ 1.5 x 109/l and the thrombocyte count is ≥ 100 x 109/l on Day 1 of the next cycle.
 
 Paediatric patients
 A treatment cycle comprises 28 days.

@@ -7,7 +7,8 @@ The cytotoxicity of MTIC is thought to be due primarily to alkylation at the O6 
 Cytotoxic lesions that develop subsequently are thought to involve aberrant repair of the methyl adduct.
 
 Glioblastoma multiforme
-Data on clinical efficacy in patients with glioblastoma multiforme (Karnofsky performance status [KPS] � 70), progressive or recurrent after surgery and radiotherapy, were based on two clinical trials.
+Data on clinical efficacy in patients with glioblastoma multiforme (Karnofsky performance status [KPS]
+≥ 70), progressive or recurrent after surgery and radiotherapy, were based on two clinical trials.
 One was a non-comparative trial in 138 patients (29 % received prior chemotherapy), and the other was a randomised reference controlled trial of temozolomide and procarbazine in a total of 225 patients (67 % received prior treatment with nitrosourea based chemotherapy.)
 In both trials, the primary endpoint was progression-free survival (PFS) defined by MRI scans or neurological worsening.
 In the non-comparative trial, the PFS at 6 months was 19 %, the median progression-free survival was 2.1 months, and the median overall survival 5.4 months.

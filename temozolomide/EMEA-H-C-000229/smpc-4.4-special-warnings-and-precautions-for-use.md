@@ -4,8 +4,11 @@ In patients with recurrent malignant glioma who are in a poor performance status
 
 Patients who have experienced severe (Grade 3 or 4) vomiting in previous treatment cycles may require anti-emetic therapy.
 
+This medicinal product contains lactose; thus, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
 Laboratory parameters
-Prior to dosing, the following laboratory parameters must be met: ANC � 1.5 x 109/l and platelet count � 100 x 109/l.
+Prior to dosing, the following laboratory parameters must be met: ANC ≥ 1.5 x 109/l and platelet count
+≥ 100 x 109/l.
 A complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until ANC is above 1.5 x 109/l and platelet count exceeds 100 x 109/l.
 If ANC falls to < 1.0 x 109/l or the platelet count is < 50 x 109/l during any cycle, the next cycle should be reduced one dose level.
 Dose levels include 100 mg/m2, 150 mg/m2, and 200 mg/m2.

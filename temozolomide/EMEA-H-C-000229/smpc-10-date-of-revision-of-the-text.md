@@ -46,7 +46,8 @@ Marketing Authorisation Holder: SP Europe, Rue de Stalle 73, B-1180 Bruxelles, B
 
 Manufacturer: SP Labo N.V., Industriepark 30, B-2220 Heist-op-den-Berg, Belgium
 
-Temodal 5 mg capsules for oral use are dispensed in amber glass bottles containing 5 or 20 capsules.
+Temodal 5 mg hard capsules are white, opaque and imprinted with a specific color imprinting ink that is unique for each strength.
+Temodal 5 mg hard capsules for oral use are dispensed in amber glass bottles containing 5 or 20 capsules.
 Not all pack sizes may be marketed.
 
 Temodal is an antitumour agent.
@@ -92,6 +93,7 @@ In this case, do not drive or operate any tools or machines.
 
 Important information about some of the ingredients of Temodal:
 Each capsule contains a small amount of lactose.
+Thus, if you have been told by your doctor that you have an intolerance to some sugars, contact your doctor before taking this medicinal product.
 
 Taking other medicines:
 Please inform your doctor or pharmacist if you are taking or have recently taken any other medicines, even those not prescribed.
@@ -105,13 +107,26 @@ Do not open or chew the capsules.
 Swallow the capsule(s) whole with a glass of water.
 
 A treatment cycle with Temodal comprises 28 days.
-You will take the capsules once daily for the first five days followed by a 23 day treatment interruption.
-You will then take this medicine again once daily for five days.
+You will take the capsules once daily for the first five days (“dosing days”) followed by 23 days without Temodal, adding up to the 28 day treatment cycle.
+After day 28, the next cycle will begin, in which you will again take this medicine once daily for five days followed by 23 days without Temodal.
 Before each new treatment cycle, your blood will be tested to determine if the Temodal dose needs to be adjusted.
+Each time you start a new treatment cycle, be sure you understand exactly how many capsules of each strength you need to take each day of dosing.
+
+Temodal comes in different strength capsules (shown on the outer label in mg).
+Each strength has a different colour band.
+Depending on the dose of Temodal that your doctor prescribes, you may have to take several capsules on each dosing day of the treatment cycle (Day 1 through Day 5, followed by 23 days with no capsules).
+
+- Be sure you understand exactly how many capsules you need to take of each strength.
+  Ask your doctor or pharmacist to write down the number of each strength (include colour) that you need to take each dosing day.
+- Be sure you know exactly which days are your dosing days.
+- Be sure you review the dose with your health care provider each time you start a new cycle.
+  Sometimes the dose or the mix of capsules you need to take will be different from the last cycle.
+- Once you take the medicine home, if you are confused or unsure about how to take your dose, call for re-instruction before beginning the treatment cycle.
+  Errors in how you take this medicine may have serious health consequences.
 
 If you take more Temodal than you should:
 Take Temodal only as it is prescribed for you.
-If you accidentally take more Temodal capsules than you were told to, contact your doctor or pharmacist.
+If you accidentally take more Temodal capsules than you were told to, contact your doctor or pharmacist immediately.
 
 If you forget to take Temodal:
 Take the missed dose as soon as possible during the same day.
@@ -127,7 +142,9 @@ This may cause you to have increased bruising or bleeding, anaemia, fever, and/o
 Your doctor will monitor your blood regularly for any changes, and will decide if any specific treatment is needed.
 In some cases, your Temodal dose will be reduced or discontinued.
 
-The following undesirable effects may occur and medical attention may be required: nausea (feeling sick), vomiting, tiredness, constipation, headache, loss of appetite or weight, diarrhoea, sleepiness, fever, rash, weakness, pain, dizziness, shortness of breath, upset stomach, hair loss, chills, itching, feeling unwell, change in taste, tingling sensation, and abnormal blood values.
+Very rarely, patients taking Temodal and medicines like it may have a small risk of other changes in blood cells, including leukaemia.
+
+The following undesirable effects may occur and medical attention may be required: nausea (feeling sick), vomiting, tiredness, constipation, headache, loss of appetite or weight, diarrhoea, sleepiness, fever, cough, rash, weakness, pain, dizziness, shortness of breath, upset stomach, hair loss, chills, itching, feeling unwell, change in taste, tingling sensation, and abnormal blood values.
 
 Very rare cases of rash with skin swelling, including on the palms of the hands and soles of the feet, have been observed.
 Tell your doctor if this occurs.
@@ -136,7 +153,7 @@ If you notice any side effects not mentioned in this leaflet, please inform your
 
 Keep out of the reach and sight of children.
 
-Do not store above 30 �C.
+Do not store above 30 °C.
 
 Do not use after the expiry date stated on the label and carton.
 
@@ -155,22 +172,29 @@ Danmark Nederland
 Hvedemarken 12 Maarssenbroeksedijk 4
 DK-3520 Farum NL-3542 DN Utrecht
 Tlf: + 45-44 39 50 00 Tel: + 31-(0)30 240 88 88
-Deutschland Österreich
-Thomas-Dehler-Straße 27 Badener Strasse 23
-D-81737 München A-2514 Traiskirchen
-Tel: + 49-(0)89 627 31-0 Tel: + 43-(0)2252 502-0
-Ελλάδα Portugal
-Αγίου ∆ηµητρίου 63 Rua Agualva dos Açores 16
-GR-174 55 Άλιµος P-2735-557 Agualva-Cacém
-Τηλ: + 30 2(10) 98 97 300 Tel: + 351-21 433 93 00
-España Suomi/Finland
-Km. 36, Ctra. Nacional I PL 3/PB 3
-E-28750 San Agustín de Guadalix - Madrid FIN-02201 Espoo/Esbo
-Tel: + 34-91 848 85 00 Puh/Tel: + 358-(0)9 2535 53 00
-France Sverige
-92 rue Baudin Box 27190
-F-92300 Levallois-Perret S-10252 Stockholm
-Tél: + 33-(0)1 41 06 35 00 Tel: + 46-(0)8 522 21 500
+Deutschland Norge
+Thomas-Dehler-Straße 27 Ankerveien 209
+D-81737 München N-1359 Eiksmarka
+Tel: + 49-(0)89 627 31-0 Tlf: + 47 67 16 64 50
+
+info@temodal.de
+
+Ελλάδα Österreich
+Αγίου ∆ηµητρίου 63 Badener Strasse 23
+GR-174 55 Άλιµος A-2514 Traiskirchen
+Τηλ: + 30-210 98 97 300 Tel: + 43-(0)2252 502-0
+España Portugal
+Km. 36, Ctra. Nacional I Rua Agualva dos Açores 16
+E-28750 San Agustín de Guadalix - Madrid P-2735-557 Agualva-Cacém
+Tel: + 34-91 848 85 00 Tel: + 351-21 433 93 00
+France Suomi/Finland
+92 rue Baudin PL 3/PB 3
+F-92300 Levallois-Perret FIN-02201 Espoo/Esbo
+Tél: + 33-(0)1 41 06 35 00 Puh/Tel: + 358-(0)9 2535 53 00
+Ísland Sverige
+Lynghálsi 13 Box 27190
+IS-110 Reykjavík S-10252 Stockholm
+Tel: + 354 540 80 00 Tel: + 46-(0)8 522 21 500
 Ireland United Kingdom
 Shire Park Shire Park
 Welwyn Garden City Welwyn Garden City
@@ -183,7 +207,7 @@ Italia
 Centro Direzionale Milano Due
 Palazzo Borromini
 I-20090 Segrate (Milano)
-Tel: + 39-02 21018.1
+Tel: + 39-02 21018.1 temodal.it@spcorp.com
 
 This leaflet was last approved on
 
@@ -192,20 +216,21 @@ Temodal 20 mg hard capsules temozolomide
 - The active substance is temozolomide 20 mg.
   Capsule shells contain gelatine, titanium dioxide, sodium lauryl sulphate and are imprinted with pharmaceutical ink: brown imprint contains pharmaceutical grade shellac, propylene glycol, ammonium hydroxide, potassium hydroxide, titanium dioxide (E 171), black iron oxide (E 172), yellow iron oxide (E 172), brown iron oxide (E 172) and red iron oxide (E 172).
 
-Temodal 20 mg capsules for oral use are dispensed in amber glass bottles containing 5 or 20 capsules.
+Temodal 20 mg hard capsules are white, opaque and imprinted with a specific color imprinting ink that is unique for each strength.
+Temodal 20 mg hard capsules for oral use are dispensed in amber glass bottles containing 5 or 20 capsules.
 
 Temodal 100 mg hard capsules temozolomide
 
 - The active substance is temozolomide 100 mg.
   Capsule shells contain gelatine, titanium dioxide, sodium lauryl sulphate and are imprinted with pharmaceutical ink: blue imprint contains pharmaceutical glaze (modified) in an ethanol/shellac mixture, propylene glycol, titanium dioxide (E 171), and indigotin (E 132).
 
-Temodal 100 mg capsules for oral use are dispensed in amber glass bottles containing 5 or 20 capsules.
+Temodal 100 mg hard capsules are white, opaque and imprinted with a specific color imprinting ink that is unique for each strength.
+Temodal 100 mg hard capsules for oral use are dispensed in amber glass bottles containing 5 or 20 capsules.
 
 Temodal 250 mg hard capsules temozolomide
 
 - The active substance is temozolomide 250 mg.
   Capsule shells contain gelatine, titanium dioxide, sodium lauryl sulphate and are imprinted with pharmaceutical ink: black imprint contains pharmaceutical grade shellac, propylene glycol, ammonium hydroxide, potassium hydroxide and black iron oxide (E 172).
 
-Temodal 250 mg capsules for oral use are dispensed in amber glass bottles containing 5 or 20 capsules.
-
-Τηλ: + 30 210 98 97 300 Tel: + 351-21 433 93 00
+Temodal 250 mg hard capsules are white, opaque and imprinted with a specific color imprinting ink that is unique for each strength.
+Temodal 250 mg hard capsules for oral use are dispensed in amber glass bottles containing 5 or 20 capsules.
