@@ -4,14 +4,14 @@ Clopidogrel has been evaluated for safety in more than 11,300 patients, includin
 Clopidogrel 75 mg/day was well tolerated compared to ASA 325 mg/day in a large controlled clinical trial (CAPRIE).
 The overall tolerability of clopidogrel in this study was similar to ASA, regardless of age, gender and race.
 The clinically relevant adverse effects observed in CAPRIE are discussed below.
+
 Haemorrhagic disorders: in patients treated with either clopidogrel or ASA, the overall incidence of any bleeding was 9.3%.
 The incidence of severe cases was 1.4% for clopidogrel and 1.6% for ASA.
 
 In patients that received clopidogrel, gastrointestinal bleeding occurred at a rate of 2.0%, and required hospitalisation in 0.7%.
 In patients that received ASA, the corresponding rates were 2.7% and 1.1%, respectively.
 The incidence of other bleeding was higher in patients that received clopidogrel compared to ASA (7.3% vs. 6.5%).
-However, the incidence of severe events was similar in both treatment groups
-(0.6% vs. 0.4%).
+However, the incidence of severe events was similar in both treatment groups (0.6% vs. 0.4%).
 The most frequently reported events in both treatment groups were: purpura/bruising/haematoma, and epistaxis.
 Other less frequently reported events were haematoma, haematuria, and eye bleeding (mainly conjunctival).
 

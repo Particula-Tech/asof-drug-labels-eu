@@ -3,6 +3,7 @@
 After repeated oral doses of 75 mg per day, clopidogrel is rapidly absorbed.
 However, plasma concentrations of the parent compound are very low and below the quantification limit (0.00025 mg/l) beyond 2 hours.
 Absorption is at least 50%, based on urinary excretion of clopidogrel metabolites.
+
 Clopidogrel is extensively metabolised by the liver and the main metabolite, which is inactive, is the carboxylic acid derivative which represents about 85% of the circulating compound in plasma.
 Peak plasma levels of this metabolite (approx. 3mg/l after repeated 75 mg oral doses) occurred approximately 1 hour after dosing.
 
