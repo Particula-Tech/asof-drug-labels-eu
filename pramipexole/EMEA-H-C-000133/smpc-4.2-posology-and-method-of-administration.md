@@ -14,7 +14,8 @@ Providing patients do not experience intolerable side-effects, the dosage should
 | 2 | 3 x 0.18 | 0.54 | 3 x 0.25 | 0.75 |
 | 3 | 3 x 0.35 | 1.05 | 3 x 0.5 | 1.50 |
 
-If a further dose increase is necessary the daily dose should be increased by 0.54 mg base (0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
+If a further dose increase is necessary the daily dose should be increased by 0.54 mg base
+(0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
 
 However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/ day (see section 4.8 Undesirable effects).
 
@@ -43,6 +44,7 @@ In patients with a creatinine clearance less than 20 ml/min, the daily dose of S
 
 If renal function declines during maintenance therapy, reduce SIFROL daily dose by the same percentage as the decline in creatinine clearance, i.e. if creatinine clearance declines by 30%, then reduce the SIFROL daily dose by 30%.
 The daily dose can be administered in two divided doses if creatinine clearance is between 20 and 50 ml/min, and as a single daily dose if creatinine clearance is less than 20 ml/min.
+
 Dosing in patients with hepatic impairment
 Dose adjustment in patients with hepatic failure is probably not necessary, as approx. 90% of absorbed drug is excreted through the kidneys.
 However, the potential influence of hepatic insufficiency on SIFROL pharmacokinetics has not been investigated.
@@ -53,14 +55,13 @@ Abrupt discontinuation of dopaminergic therapy can lead to the development of an
 
 [SIFROL 0.35 mg tablet]
 
-(all sentences already above)
-
-[SIFROL 0.7 mg tablet]
-
 Therefore, pramipexole should be tapered off at a rate of 0.54 mg of base
 (0.75 mg of salt) per day until the daily dose has been reduced to 0.54 mg of base (0.75 mg of salt).
 
+[SIFROL 0.7 mg tablet]
+
+If a further dose increase is necessary the daily dose should be increased by 0.54 mg base (0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
+
 [SIFROL 1.1 mg tablet]
 
-If a further dose increase is necessary the daily dose should be increased by 0.54 mg base
-(0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
+(all sentences already above)
