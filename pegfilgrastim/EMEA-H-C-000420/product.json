@@ -1,0 +1,16 @@
+{
+  "active_substance": "pegfilgrastim",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000420",
+  "eu_number": "EU/1/02/227",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2002-08-22",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/neulasta",
+  "molecule": "pegfilgrastim",
+  "molecule_name": "PEGFILGRASTIM",
+  "name": "Neulasta",
+  "register_name": "Neulasta",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h227.htm"
+}
