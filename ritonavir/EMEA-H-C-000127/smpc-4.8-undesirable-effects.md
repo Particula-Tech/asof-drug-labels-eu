@@ -12,8 +12,7 @@ Respiratory system: occasionally pharyngitis, cough increased.
 
 Cardiovascular: frequently vasodilation.
 
-Musculoskeletal system: increased CPK, myalgia, myositis, and rarely, rhabdomyolysis have been reported with protease inhibitors, particularly in combination with nucleoside analogues.
-
+Musculoskeletal System: increased CPK, myalgia, myositis, and rarely, rhabdomyolysis have been reported with protease inhibitors, particularly in combination with nucleoside analogues.
 Others: asthenia (22.3 %), headache (15.5 %); occasionally fever, pain, hyperlipaemia, myalgia, weight loss, decrease of free and total thyroxine (T4) values.
 
 Nausea, diarrhoea, vomiting, asthenia, taste perversion, circumoral and peripheral paraesthesia, and vasodilatation have been observed most frequently and are felt to be clearly related to ritonavir.
@@ -39,12 +38,12 @@ Patients with advanced HIV disease may be at risk of elevated triglycerides and 
 
 Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur.
 Patients who exhibit these signs or symptoms should be evaluated and Norvir therapy should be discontinued if a diagnosis of pancreatitis is made.
-
 Clinical chemistry:
 
 High gamma-glutamyl transpeptidase (GGT) (12 %); frequently high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); occasionally high aspartate transaminase (SGOT), high amylase, high uric acid, low potassium, high glucose, low total calcium, high magnesium, high total bilirubin, high alkaline phosphatase.
 
 Hypertriglyceridaemia, hypercholesterolaemia and hyperuricaemia were clearly related to ritonavir therapy.
+
 Haematology:
 
 Low white blood cell (WBC) (16 %); occasionally low haemoglobin, low neutrophils, high eosinophils, high WBC, high neutrophils, high prothrombin time.

@@ -15,7 +15,6 @@ Resistance
 
 Ritonavir-resistant isolates of HIV-1 have been selected in vitro.
 The resistant isolates showed reduced susceptibility to ritonavir and genotypic analysis showed that the resistance was attributable primarily to specific amino acid substitutions in the HIV-1 protease at codons 82 and 84.
-
 Susceptibility of clinical isolates to ritonavir was monitored in controlled clinical trials.
 Some patients receiving ritonavir monotherapy developed HIV strains with decreased susceptibility to ritonavir.
 Serial genotypic and phenotypic analysis indicated that susceptibility to ritonavir declined in an ordered and stepwise fashion.
@@ -41,14 +40,17 @@ The most frequently used nucleosides in this study were zidovudine, stavudine, d
 
 In a study recruiting less advanced HIV-1 infected patients (CD4 200-500 cells/μl) without previous antiretroviral therapy, ritonavir in combination with zidovudine or alone reduced viral load in plasma and increased CD4 count.
 The effects of ritonavir monotherapy seemed unexpectedly to be at least as large as the combination therapy, a finding which has not been explained adequately.
-The mean average change from baseline over 48 weeks for HIV RNA levels was -0.88 log10 in the ritonavir group versus -0.66 log10 in the ritonavir + zidovudine group versus -0.42 log10 in the zidovudine group.
+The mean average change from baseline over 48 weeks for HIV RNA levels was -0.88 log10 in the ritonavir group vs -0.66 log10 in the ritonavir + zidovudine group vs -0.42 log10 in the zidovudine group.
 
 The continuation of ritonavir therapy should be evaluated by viral load because of the possibility of the emergence of resistance as described under section 4.1.
 
 In an open label trial in 32 antiretroviral naive HIV-1 infected patients the combination of ritonavir with zidovudine and zalcitabine decreased the viral load (mean decrease at week 20 of -1.76 log10).
 
 Paediatric Use
-In an open label trial in HIV infected, clinically stable children there was a significant difference
-(p = 0.03) in the detectable RNA levels in favour of a triple regimen (ritonavir, zidovudine and lamivudine) following 48 weeks treatment.
+In an open label trial in HIV infected, clinically stable children there was a significant difference (p = 0.03) in the detectable RNA levels in favour of a triple regimen (ritonavir, zidovudine and lamivudine) following 48 weeks treatment.
 
 Studies investigating optimal combinations and the long term efficacy and safety of ritonavir are ongoing.
+
+[Norvir 100 mg soft capsules]
+
+Pharmacotherapeutic group: antiviral for systemic use, ATC code: JO5A EO3
