@@ -4,6 +4,7 @@ Preclinical studies conducted in rats, dogs and monkeys revealed target organ ef
 Bone toxicity was diagnosed as osteomalacia (monkeys) and reduced bone mineral density (rats and dogs).
 Findings in the rat and monkey studies indicated that there was a substance-related decrease in intestinal absorption of phosphate with potential secondary reduction in bone mineral density.
 However, no conclusion could be drawn on the mechanism(s) underlying these toxicities.
+
 Reproductive studies were conducted in rats and rabbits.
 There were no effects on mating or fertility parameters or on any pregnancy or foetal parameter.
 There were no gross foetal alterations of soft or skeletal tissues.

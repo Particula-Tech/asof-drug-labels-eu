@@ -23,7 +23,6 @@ In vitro studies have determined that neither tenofovir disoproxil fumarate nor 
 Moreover, at concentrations substantially higher (approximately 300-fold) than those observed in vivo, tenofovir did not inhibit in vitro drug metabolism mediated by any of the major human CYP450 isoforms involved in drug biotransformation (CYP3A4, CYP2D6, CYP2C9, CYP2E1, or CYP1A1/2).
 Tenofovir disoproxil fumarate at a concentration of 100 µmol/l had no effect on any of the CYP450 isoforms, except CYP1A1/2, where a small (6%) but statistically significant reduction in metabolism of CYP1A1/2 substrate was observed.
 Based on these data, it is unlikely that clinically significant interactions involving tenofovir disoproxil fumarate and medicinal products metabolised by CYP450 would occur.
-
 Elimination
 Tenofovir is primarily excreted by the kidney by both filtration and an active tubular transport system with approximately 70-80% of the dose excreted unchanged in urine following intravenous administration.
 Total clearance has been estimated to be approximately 230 ml/h/kg (approximately 300 ml/min).
@@ -36,6 +35,7 @@ The pharmacokinetics of tenofovir were independent of tenofovir disoproxil fumar
 
 Age and gender
 Limited data on the pharmacokinetics of tenofovir in women indicate no major gender effect.
+
 Pharmacokinetic studies have not been performed in children and adolescents (under 18) or in the elderly (over 65).
 
 Pharmacokinetics have not been specifically studied in different ethnic groups.

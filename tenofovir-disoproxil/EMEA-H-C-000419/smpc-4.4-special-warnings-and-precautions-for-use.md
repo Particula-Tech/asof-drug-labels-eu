@@ -16,14 +16,15 @@ In patients at risk for, or with a history of, renal dysfunction, and patients w
 If serum phosphate is < 1.5 mg/dl (0.48 mmol/l) or creatinine clearance is decreased to < 50 ml/min, renal function should be re-evaluated within one week.
 Consideration should be given to interrupting treatment with tenofovir disoproxil fumarate in patients with creatinine clearance decreased to
 < 50 ml/min or decreases in serum phosphate to < 1.0 mg/dl (0.32 mmol/l).
-
 Tenofovir disoproxil fumarate has not been evaluated in patients receiving nephrotoxic medicinal products (e.g. aminoglycosides, amphotericin B, foscarnet, ganciclovir, pentamidine, vancomycin, cidofovir or interleukin-2).
 Use of tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic medicinal product.
 If concomitant use of tenofovir disoproxil fumarate and nephrotoxic agents is unavoidable, renal function should be monitored weekly.
 
-Tenofovir disoproxil fumarate has not been evaluated in patients receiving medicinal products which are secreted by the same renal transporter, human organic anion transporter 1 (hOAT1) (e.g. cidofovir, a known nephrotoxic medicinal product).
-This renal transporter (hOAT1) may be responsible for tubular secretion and in part, renal elimination of tenofovir and cidofovir.
+Tenofovir disoproxil fumarate has not been clinically evaluated in patients receiving medicinal products which are secreted by the same renal transporter, human organic anion transporter 1 (hOAT1) (e.g. adefovir dipivoxil, cidofovir, a known nephrotoxic medicinal product).
+This renal transporter (hOAT1) may be responsible for tubular secretion and in part, renal elimination of tenofovir, adefovir and cidofovir.
 Consequently, the pharmacokinetics of these medicinal products might be modified if they are co-administered.
+In healthy volunteers, a single dose of adefovir dipivoxil given with tenofovir disoproxil fumarate did not result in a relevant drug-drug interaction with regard to pharmacokinetics.
+However, the clinical safety including potential renal effects of the co-administration of adefovir dipivoxil and tenofovir disproxil fumarate is unknown.
 Unless clearly necessary, concomitant use of these medicinal products is not recommended, but if such use is unavoidable, renal function should be monitored weekly (see 4.5).
 
 Bone toxicity, including a reduction in bone mineral density was seen in patients after 48 weeks of treatment with tenofovir disoproxil fumarate (see 5.3).
@@ -67,6 +68,16 @@ A higher risk of lipodystrophy has been associated with individual factors such 
 Clinical examination should include evaluation for physical signs of fat redistribution.
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate (see 4.8).
+
+Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
+There have been reports of mitochondrial dysfunction in
+HIV negative infants exposed in utero and/or postnatally to nucleoside analogues.
+The main adverse events reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlactataemia, hyperlipasaemia).
+These events are often transitory.
+Some late-onset neurological disorders have been reported (hypertonia, convulsion, abnormal behaviour).
+Whether the neurological disorders are transient or permanent is currently unknown.
+Any child exposed in utero to nucleoside and nucleotide analogues, even HIV negative children, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in case of relevant signs or symptoms.
+These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
 Co-administration of tenofovir disoproxil fumarate and didanosine resulted in increased systemic exposure to didanosine.
 Patients receiving tenofovir disoproxil fumarate and didanosine should be carefully monitored for didanosine-related adverse events including but not limited to pancreatitis and peripheral neuropathy (see 4.5).

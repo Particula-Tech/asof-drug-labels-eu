@@ -14,6 +14,7 @@ Very common: hypophosphataemia
 
 Nervous system disorders:
 Very common: dizziness
+
 Gastrointestinal disorders:
 Very common: diarrhoea, nausea, vomiting
 Common: flatulence
@@ -44,7 +45,6 @@ Renal failure, acute renal failure, proximal tubulopathy (including Fanconi synd
 
 General disorders and administration site conditions:
 Asthenia
-
 Investigations:
 Increased creatinine
 
