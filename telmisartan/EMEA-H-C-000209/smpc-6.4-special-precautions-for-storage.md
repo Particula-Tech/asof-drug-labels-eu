@@ -1,3 +1,3 @@
 # 6.4 Special precautions for storage
 
-Not applicable.
+Store in the original package.
