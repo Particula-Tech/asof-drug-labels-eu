@@ -1,3 +1,8 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/0/00/000/000
+EU/1/03/261/001
+EU/1/03/261/002
+
+[Emtriva 10 mg/ml oral solution]
+
+EU/1/03/261/003

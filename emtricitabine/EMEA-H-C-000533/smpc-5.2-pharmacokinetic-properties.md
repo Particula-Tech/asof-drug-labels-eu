@@ -11,7 +11,7 @@ The reason for this difference is unknown.
 Due to this difference in bioavailability, 240 mg emtricitabine administered as the oral solution should provide similar plasma levels to those observed after administration of one 200 mg emtricitabine hard capsule.
 Therefore, children who weigh at least 33 kg may take either one 200 mg hard capsule daily or the oral solution up to a maximum dose of 240 mg (24 ml), once daily.
 
-Administration of Emtriva 200 mg hard capsules with a high-fat meal did not affect systemic exposure (AUC0-•) of emtricitabine; therefore Emtriva 200 mg hard capsules may be administered with or without food.
+Administration of Emtriva 200 mg hard capsules with a high-fat meal did not affect systemic exposure (AUC0-∞) of emtricitabine; therefore Emtriva 200 mg hard capsules may be administered with or without food.
 The effect of food on the pharmacokinetics of emtricitabine following administration of Emtriva 10 mg/ml oral solution has not been studied.
 However, no effect on the pharmacokinetics of emtricitabine would be expected following administration of Emtriva 10 mg/ml oral solution with food.
 
@@ -45,7 +45,8 @@ The systemic emtricitabine exposure (mean ± standard deviation) increased from 
 In patients with ESRD on haemodialysis, approximately 30% of the emtricitabine dose was recovered in dialysate over a 3 hour dialysis period which had been started within 1.5 hours of emtricitabine dosing (blood flow rate of 400 ml/min and dialysate flow rate of approximately 600 ml/min).
 
 Hepatic insufficiency: The pharmacokinetics of emtricitabine have not been studied in non-HBV infected subjects with varying degrees of hepatic insufficiency.
-In general, emtricitabine pharmacokinetics in HBV infected subjects were similar to those in healthy subjects and in HIV infected subjects.
+In general, emtricitabine pharmacokinetics in HBV infected subjects were similar to those in healthy subjects and in
+HIV infected subjects.
 
 Age, gender and ethnicity: In general, the pharmacokinetics of emtricitabine in infants and children (aged 4 months up to 18 years) are similar to those seen in adults.
 
@@ -56,7 +57,3 @@ Pharmacokinetic data are not available in the elderly.
 
 Although the mean Cmax and Cmin were approximately 20% higher and mean AUC was 16% higher in females compared to males, this difference was not considered clinically significant.
 No clinically important pharmacokinetic difference due to race has been identified.
-
-[Emtriva 10 mg/ml oral solution]
-
-Administration of Emtriva 200 mg hard capsules with a high-fat meal did not affect systemic exposure (AUC0-∞) of emtricitabine; therefore Emtriva 200 mg hard capsules may be administered with or without food.

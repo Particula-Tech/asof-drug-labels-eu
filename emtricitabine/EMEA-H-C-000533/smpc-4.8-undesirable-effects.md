@@ -28,9 +28,9 @@ Common: elevated serum aspartate aminotransferase (AST) and/or elevated serum al
 
 Skin and subcutaneous tissue disorders:
 Common: rash, pruritus, maculopapular rash, urticaria, vesiculobullous rash, pustular rash, and allergic reaction, skin discolouration (hyper-pigmentation)
-
 Musculoskeletal, connective tissue and bone disorders:
 Very common: elevated creatine kinase
+
 General disorders and administration site conditions:
 Common: pain
 

@@ -13,7 +13,6 @@ There are no data on the safety and efficacy of emtricitabine in infants less th
 Emtriva is also available as a 10 mg/ml oral solution for use in infants older than 4 months of age, children and patients who are unable to swallow hard capsules and patients with renal insufficiency.
 Please refer to the Summary of Product Characteristics for Emtriva 10 mg/ml oral solution.
 Due to a difference in the bioavailability of emtricitabine between the hard capsule and oral solution presentations, 240 mg emtricitabine administered as the oral solution should provide similar plasma levels to those observed after administration of one 200 mg emtricitabine hard capsule (see 5.2).
-
 Elderly: There are no safety and efficacy data available in patients over the age of 65 years.
 However, no adjustment in the recommended daily dose for adults should be required unless there is evidence of renal insufficiency.
 
@@ -29,7 +28,7 @@ Please refer to the Summary of Product Characteristics for Emtriva 10 mg/ml oral
 
 |  | Creatinine Clearance (CLcr) (ml/min) |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | • 50 | 30-49 | 15-29 | < 15 (functionally anephric, requiring intermittent haemodialysis)* |
+|  | ≥ 50 | 30-49 | 15-29 | < 15 (functionally anephric, requiring intermittent haemodialysis)* |
 | Recommended dose interval for 200 mg hard capsules | One 200 mg hard capsule every 24 hours | One 200 mg hard capsule every 48 hours | One 200 mg hard capsule every 72 hours | One 200 mg hard capsule every 96 hours |
 
 * Assumes a 3h haemodialysis session three times a week commencing at least 12h after administration of the last dose of emtricitabine.
@@ -44,8 +43,7 @@ However, based on the minimal metabolism of emtricitabine and the renal route of
 [Emtriva 10 mg/ml oral solution]
 
 Emtriva 10 mg/ml oral solution may be taken with or without food.
-A measuring cup is provided
-(see 6.5).
+A measuring cup is provided (see 6.5).
 
 Adults: The recommended dose of Emtriva 10 mg/ml oral solution is 240 mg (24 ml) once daily.
 
@@ -55,8 +53,7 @@ Children who weigh at least 33 kg may either take one 200 mg hard capsule daily 
 
 Emtriva 200 mg hard capsules are available for adults, adolescents and children who weigh at least 33 kg and can swallow hard capsules.
 Please refer to the Summary of Product Characteristics for Emtriva 200 mg hard capsules.
-Due to a difference in the bioavailability of emtricitabine between the hard capsule and oral solution presentations, 240 mg emtricitabine administered as the oral solution
-(24 ml) should provide similar plasma levels to those observed after administration of one 200 mg emtricitabine hard capsule (see 5.2).
+Due to a difference in the bioavailability of emtricitabine between the hard capsule and oral solution presentations, 240 mg emtricitabine administered as the oral solution (24 ml) should provide similar plasma levels to those observed after administration of one 200 mg emtricitabine hard capsule (see 5.2).
 
 The table below provides daily doses of Emtriva 10 mg/ml oral solution according to the degree of renal insufficiency.
 The safety and efficacy of these doses have not been clinically evaluated.
