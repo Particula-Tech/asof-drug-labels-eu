@@ -1,13 +1,7 @@
 # 4.2 Posology and method of administration
 
-Administration: Treatment should be initiated and supervised by a physician experienced in the diagnosis and treatment of Alzheimer’s dementia.
-Diagnosis should be made according to current guidelines.
-Therapy with rivastigmine should only be started if a caregiver is available who will regularly monitor drug intake by the patient.
-
-Rivastigmine oral solution should be administered twice a day.
-The prescribed amount of solution should be withdrawn from the container using the oral dosing syringe supplied.
-Rivastigmine oral solution may be swallowed directly from the syringe.
-Rivastigmine oral solution and rivastigmine capsules may be interchanged at equal doses.
+Administration: Rivastigmine should be administered twice a day, with morning and evening meals.
+The capsules should be swallowed whole.
 
 Initial dose: 1.5 mg twice a day.
 
@@ -33,3 +27,26 @@ Due to increased exposure in renal and mild to moderate hepatic impairment, dosi
 
 Children:
 Rivastigmine is not recommended for use in children.
+
+[EXELON 3 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 4.5 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 6 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 2 mg/ml Oral Solution]
+
+Administration: Treatment should be initiated and supervised by a physician experienced in the diagnosis and treatment of Alzheimer’s dementia.
+Diagnosis should be made according to current guidelines.
+Therapy with rivastigmine should only be started if a caregiver is available who will regularly monitor drug intake by the patient.
+
+Rivastigmine oral solution should be administered twice a day, with morning and evening meals.
+The prescribed amount of solution should be withdrawn from the container using the oral dosing syringe supplied.
+Rivastigmine oral solution may be swallowed directly from the syringe.
+Rivastigmine oral solution and rivastigmine capsules may be interchanged at equal doses.

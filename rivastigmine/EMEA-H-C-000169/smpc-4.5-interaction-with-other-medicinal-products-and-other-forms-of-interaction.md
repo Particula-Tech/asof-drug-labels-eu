@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 As a cholinesterase inhibitor, rivastigmine may exaggerate the effects of succinylcholine-type muscle relaxants during anaesthesia.
+
 In view of its pharmacodynamic effects, rivastigmine should not be given concomitantly with other cholinomimetic drugs and might interfere with the activity of anticholinergic medications.
 
 No pharmacokinetic interaction was observed between rivastigmine and digoxin, warfarin, diazepam or fluoxetine in studies in healthy volunteers.

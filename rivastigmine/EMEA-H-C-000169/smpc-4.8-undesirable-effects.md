@@ -9,4 +9,6 @@ Other common side effects were: increased sweating, malaise, weight loss, and tr
 
 Rare cases of angina pectoris, gastric and duodenal ulcers, gastrointestinal haemorrhage, bradycardia, seizure, rashes and syncope were observed.
 
+Very rare cases of atrio-ventricular block have been reported.
+
 No notable abnormalities in laboratory values were observed.
