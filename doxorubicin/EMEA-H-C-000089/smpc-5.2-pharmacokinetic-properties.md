@@ -16,9 +16,9 @@ Pharmacokinetic Parameters in Caelyx-Treated Patients
 |  | Mean ± Standard Error |
 | --- | --- |
 | Parameter | 20 mg/m2 (n=23) |
-| Maximum Plasma Concentration* (µg/ml) Plasma Clearance (l/h/m2) Volume of Distribution (l/m2) AUC (µg/ml ⋅ h) λ1 half-life (hours) λ2 half-life (hours) | 8.34 ± 0.49 0.041 ± 0.004 2.72 ± 0.120 590 ± 58.7 5.2 ± 1.4 55.0 ± 4.8 |
-
-*Measured at the end of a 30-minute infusion
+| Maximum Plasma Concentration* (µg/ml) | 8.34 ± 0.49 |
+| Plasma Clearance (l/h/m2) Volume of Distribution (l/m2) AUC (µg/ml ⋅ h) λ1 half-life (hours) λ2 half-life (hours) | 0.041 ± 0.004 2.72 ± 0.120 590 ± 58.7 5.2 ± 1.4 55.0 ± 4.8 |
+| *Measured at the end of a 30-minute infusion |  |
 
 The plasma pharmacokinetics of Caelyx in humans differ significantly from those reported in the literature for standard doxorubicin hydrochloride preparations.
 Caelyx displayed linear pharmacokinetics.

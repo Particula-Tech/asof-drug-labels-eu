@@ -21,4 +21,5 @@ Mutagenicity and carcinogenicity: Although no studies have been conducted with C
 Pegylated placebo liposomes are neither mutagenic nor genotoxic.
 
 Reproductive toxicity: Caelyx resulted in mild to moderate ovarian and testicular atrophy in mice after a single dose of 36 mg/kg.
-Decreased testicular weights and hypospermia were present in rats after repeat doses ≥ 0.25 mg/kg/day and diffuse degeneration of the seminiferous tubules and a marked decrease in spermatogenesis were observed in dogs after repeat doses of 1 mg/kg/day (see 4.6 Pregnancy and lactation).
+Decreased testicular weights and hypospermia were present in rats after repeat doses ≥ 0.25 mg/kg/day and diffuse degeneration of the seminiferous tubules and a marked decrease in spermatogenesis were observed in dogs after repeat doses of 1 mg/kg/day
+(see 4.6 Pregnancy and lactation).

@@ -13,6 +13,7 @@ Administration: Caelyx, diluted in 250 ml 5 % (50 mg/ml) glucose solution for in
 Do not administer as a bolus injection or undiluted solution.
 It is recommended that the Caelyx infusion line be connected through the side port of an intravenous infusion of 5 % (50 mg/ml) glucose to achieve further dilution and minimise the risk of thrombosis and extravasation.
 Caelyx must not be given by the intramuscular or subcutaneous route.
+
 Patients with impaired hepatic function: In a small number of patients with impaired hepatic function (bilirubin values up to 4 mg/dl) administered 20 mg/m2 of Caelyx, there appeared to be no change in the clearance and terminal half-life of Caelyx.
 However, until further experience is gained, reduce the Caelyx dosage in patients with impaired hepatic function, based on experience with conventional doxorubicin hydrochloride.
 Prior to Caelyx administration, evaluate hepatic function using conventional clinical laboratory tests such as ALT/AST, alkaline phosphatase, and bilirubin.

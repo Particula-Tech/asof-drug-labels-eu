@@ -1,6 +1,7 @@
 # 6.6 Instructions for use, handling and disposal
 
 Do not use material that shows evidence of precipitation or any other particulate matter.
+
 Determine the dose of Caelyx to be administered (based upon the recommended dose and the patient’s surface area).
 Take the appropriate volume of Caelyx up into a sterile syringe.
 Aseptic technique must be strictly observed since no preservative or bacteriostatic agent is present in Caelyx.

@@ -35,13 +35,14 @@ In patients experiencing this event, it is generally seen after six or more week
 In most patients it clears in one or two weeks, with or without treatment with corticosteroids.
 It appears to be dose and schedule related and can be reduced by extending the dose interval 1-2 weeks or reducing the dose.
 However, this reaction can be severe and debilitating in some patients and may require discontinuation of treatment.
+
 An increased incidence of congestive heart failure is associated with standard doxorubicin therapy.
 Although, endomyocardial biopsies on nine of ten AIDS-KS patients receiving cumulative doses of Caelyx greater than 460 mg/m2 indicate no evidence of anthracycline-induced cardiomyopathy, until further clinical data are available, the risk of developing cardiomyopathy is assumed to be similar to that of standard doxorubicin.
 The recommended dose of Caelyx for AIDS-KS patients is 20 mg/m2 every two-to-three weeks.
 The cumulative dose at which cardiotoxicity would become a concern
 (> 400 mg/m2) would require more than 20 courses of Caelyx therapy over 40 to 60 weeks.
 
-Although no local necrosis following extravasation has been observed to date, Caelyx is considered to be an irritant.
+Although local necrosis following extravasation has been reported very rarely, Caelyx is considered to be an irritant.
 Animal studies indicate that administration of doxorubicin hydrochloride as a liposomal formulation reduces the potential for extravasation injury.
 If any signs or symptoms of extravasation occur (e.g., stinging, erythema) terminate the infusion immediately and restart in another vein.
 The application of ice over the site of extravasation for approximately 30 minutes may be helpful in alleviating the local reaction.

@@ -15,7 +15,6 @@ Congestive heart failure due to cardiomyopathy may occur suddenly, without prior
 
 The evaluation tests and methods mentioned above concerning the monitoring of cardiac performance during anthracycline therapy are to be employed in the following order: ECG monitoring, measurement of left ventricular ejection fraction, endomyocardial biopsy.
 If a test result indicates possible cardiac injury associated with Caelyx therapy, the benefit of continued therapy must be carefully weighed against the risk of myocardial injury.
-
 In patients with a history of cardiovascular disease, administer Caelyx only when the benefit outweighs the risk to the patient.
 
 Exercise caution in patients with impaired cardiac function who receive Caelyx.
