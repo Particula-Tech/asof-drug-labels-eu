@@ -39,7 +39,6 @@ Study IV primarily assessed safety in 636 patients with moderately to severely a
 Patients were permitted to be either disease-modifying, anti-rheumatic drug-naïve or to remain on their pre-existing rheumatologic therapy provided that therapy was stable for a minimum of 28 days.
 These therapies include methotrexate, leflunomide, hydroxychloroquine, sulfasalazine and/or gold salts.
 Patients were randomised to 40 mg of Humira or placebo every other week for 24 weeks.
-
 The primary end point in Studies I, II and III and the secondary endpoint in Study IV was the percent of patients who achieved an ACR 20 response at Week 24 or 26.
 Study III had additional primary endpoints at 52 weeks of retardation of disease progression (as detected by x-ray results) and changes in quality of life.
 
@@ -70,6 +69,7 @@ In Study IV, the ACR 20 response of patients treated with Humira plus standard o
 In all four studies, Humira-treated patients achieved statistically significant ACR 20 and 50 responses compared to placebo as early as one to two weeks after initiation of treatment.
 
 Radiographic Response
+
 In Study III, where Humira treated patients had a mean duration of rheumatoid arthritis of approximately 11 years, structural joint damage was assessed radiographically and expressed as change in modified total Sharp score and its components, the erosion score and joint space narrowing score.
 Humira/methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months.
 Data from the open-label extension phase indicate that the reduction in rate of progression of structural damage is maintained through 104 weeks.

@@ -8,7 +8,6 @@ Preclinical data on postnatal toxicity and fertility effects of adalimumab are n
 Due to its inhibition of TNFα, adalimumab administered during pregnancy could affect normal immune responses in the newborn.
 Administration of adalimumab is not recommended during pregnancy.
 Women of childbearing potential are strongly recommended to use adequate contraception to prevent pregnancy and continue its use for at least five months after the last Humira treatment.
-
 Use during lactation
 
 It is not known whether adalimumab is excreted in human milk or absorbed systemically after ingestion.

@@ -43,14 +43,22 @@ If an anaphylactic reaction or other serious allergic reaction occurs, administr
 Immunosuppression
 
 In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-and B cells and NK-cells, monocyte/macrophages, and neutrophils.
-It is not known whether exposure to adalimumab can increase the risk of developing malignancies and lymphoproliferative disorders.
+
+Malignancies and lymphoproliferative disorders
+
+In the controlled portions of clinical trials of TNF-antagonists, more cases of lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients.
+However, the occurrence was rare, and the follow up period of placebo patients was shorter than for patients receiving TNF-antagonist therapy.
+Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
+With the current knowledge, a possible risk for the development of lymphomas or other malignancies in patients treated with a TNF-antagonist cannot be excluded.
+
+No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving Humira.
+Thus additional caution should be exercised in considering Humira treatment of these patients (see 4.8).
 
 Vaccinations
 
 Sixty-one patients with rheumatoid arthritis were given pneumococcal vaccinations against a background of Humira and methotrexate therapy.
 Most patients receiving Humira were able to mount effective B-cell immune responses to pneumococcal polysaccharide vaccine.
 Since no data are available, concurrent administration of live vaccines and Humira is not recommended.
-
 Congestive heart failure
 
 In a clinical trial with another TNF antagonist worsening congestive heart failure and increased mortality due to congestive heart failure have been observed.

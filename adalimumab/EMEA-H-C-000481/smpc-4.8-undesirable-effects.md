@@ -20,7 +20,7 @@ Undesirable Effects in Clinical Studies
 | Haemic and Lymphatic system | Common | Decreased haemoglobin |
 |  | Uncommon | Granulocytopenia, coagulation time increased, antinuclear antibody present, leukopenia, lymphadenopathy, lymphocytosis, platelet count decreased, purpura |
 | Metabolic and Nutritional Disorders | Common | Hyperlipidaemia |
-|  | Uncommon | Hypercholesterolaemia, alkaline phosphatase increased, BUN increased, hyperuricaemia, peripheral oedema, weight gain, creatinine phosphokinase increased, healing abnormal, hypokalaemia, lactic dehydrogenase increased |
+|  | Uncommon | Hypercholesterolaemia, alkaline phosphatase increased, BUN increased, hyperuricaemia, peripheral oedema, weight gain, creatine phosphokinase increased, healing abnormal, hypokalaemia, lactic dehydrogenase increased |
 | Psychiatric Disorders | Uncommon | Depression, somnolence, insomnia, agitation |
 | Nervous System | Common | Headache, dizziness |
 |  | Uncommon | Paresthaesia, vertigo, hypeaesthesia, neuralgia, tremor |
@@ -42,7 +42,6 @@ Undesirable Effects in Clinical Studies
 | Hypersensitivity, general | Uncommon | Allergic reaction |
 
 * (not otherwise specified).
-
 Injection site reactions
 
 In placebo-controlled trials, 20% of patients treated with Humira developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 14% of patients receiving placebo.
@@ -55,10 +54,18 @@ The incidence of serious infections was 0.04 per patient year in Humira treated 
 The infections consisted primarily of upper respiratory tract infections, bronchitis and urinary tract infections.
 Most patients continued on Humira after the infection resolved.
 
-Malignancies
+Malignancies and lymphoproliferative disorders
 
-Twenty-four (24) non-melanoma skin cancers and 30 other malignancies of various types were observed in 2334 rheumatoid arthritis patients treated in clinical trials with Humira for up to 53 months.
-The observed rates and incidences were similar to those expected for the population studied.
+In the 4 pivotal trials, 21 malignancies were reported in 1380 Humira treated patients observed for 785 patient-years, and 2 malignancies were reported in 690 placebo treated patients observed for 362 patient-years.
+This included 2 lymphomas in the Humira treated patients and no lymphomas in the placebo treated patients.
+
+In controlled trials and in open label extension studies, a total of 80 malignancies were observed in 2468 rheumatoid arthritis patients treated in clinical trials for a mean of 24 months (4870 patient-years of therapy).
+This included 32 non-melanoma skin cancers.
+The expected rates of non-melanoma skin cancers cannot be reliably estimated.
+Forty-eight other malignancies were observed and overall rates and incidences of malignancies in these patients was similar to that expected for an age and gender matched population.
+Among these other malignancies, 10 lymphomas were observed.
+
+In post-marketing experience from January 2003 to June 2004, with an estimated exposure of 40100 patient-years, a total of 70 malignancies, including 13 lymphomas, have been reported, predominately in patients with rheumatoid arthritis (see 4.4).
 
 Autoantibodies
 
@@ -67,6 +74,7 @@ In the adequate and well-controlled trials, 12.6% of patients treated with Humir
 One patient out of 2334 treated with Humira developed clinical signs suggestive of new-onset lupus-like syndrome.
 The patient improved following discontinuation of therapy.
 No patients developed lupus nephritis or central nervous system symptoms.
+
 Additional Adverse Reactions from Postmarketing Surveillance or Phase IV Clinical Trials
 
 Anaphylaxis has been reported very rarely.
@@ -81,7 +89,7 @@ Adverse events at least possibly causally-related to adalimumab, both clinical a
 | Haemic and Lymphatic system | Common | Decreased haemoglobin |
 |  | Uncommon | Granulocytopenia, coagulation time increased, antinuclear antibody present, leukopenia, lymphadenopathy, lymphocytosis, platelet count decreased, purpura |
 | Metabolic and Nutritional Disorders | Common | Hyperlipidaemia |
-|  | Uncommon | Hypercholesterolaemia, alkaline phosphatase increased, BUN increased, hyperuricaemia, peripheral oedema, weight gain, creatinine phosphokinase increased, healing abnormal, hypokalaemia, lactic dehydrogenase increased |
+|  | Uncommon | Hypercholesterolaemia, alkaline phosphatase increased, BUN increased, hyperuricaemia, peripheral oedema, weight gain, creatine phosphokinase increased, healing abnormal, hypokalaemia, lactic dehydrogenase increased |
 | Psychiatric Disorders | Uncommon | Depression, somnolence, insomnia, agitation |
 | Nervous System | Common | Headache, dizziness |
 |  | Uncommon | Paresthaesia, vertigo, hypeaesthesia, neuralgia, tremor |
@@ -113,7 +121,7 @@ Clincial Trials
 | Haemic and Lymphatic system | Common | Decreased haemoglobin |
 |  | Uncommon | Granulocytopenia, coagulation time increased, antinuclear antibody present, leukopenia, lymphadenopathy, lymphocytosis, platelet count decreased, purpura |
 | Metabolic and Nutritional Disorders | Common | Hyperlipidaemia |
-|  | Uncommon | Hypercholesterolaemia, alkaline phosphatase increased, BUN increased, hyperuricaemia, peripheral oedema, weight gain, creatinine phosphokinase increased, healing abnormal, hypokalaemia, lactic dehydrogenase increased |
+|  | Uncommon | Hypercholesterolaemia, alkaline phosphatase increased, BUN increased, hyperuricaemia, peripheral oedema, weight gain, creatine phosphokinase increased, healing abnormal, hypokalaemia, lactic dehydrogenase increased |
 | Psychiatric Disorders | Uncommon | Depression, somnolence, insomnia, agitation |
 | Nervous System | Common | Headache, dizziness |
 |  | Uncommon | Paresthaesia, vertigo, hypeaesthesia, neuralgia, tremor |
