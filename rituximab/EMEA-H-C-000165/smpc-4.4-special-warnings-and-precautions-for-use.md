@@ -16,6 +16,7 @@ Further treatment of patients after complete resolution of signs and symptoms ha
 Infusion related adverse reactions including cytokine release syndrome (see Section 4.8) accompanied by hypotension and bronchospasm have been observed in 10% of patients treated with MABTHERA.
 These symptoms are usually reversible with interruption of MABTHERA infusion and administration of a pain-reliever, an antihistaminic, and, occasionally, oxygen, intravenous saline or bronchodilators, and corticosteroids if required.
 Please see cytokine release syndrome above for severe reactions.
+
 Anaphylactic and other hypersensitivity reactions have been reported following the intravenous administration of proteins to patients.
 In contrast to cytokine release syndrome, true hypersensitivity reactions typically occur within minutes after starting infusion.
 Medications for the treatment of hypersensitivity reactions, e.g., epinephrine, antihistamines and corticosteroids, should be available for immediate use in the event of an allergic reaction during administration of MABTHERA.
@@ -24,8 +25,8 @@ Reactions attributed to hypersensitivity have been reported less frequently than
 
 Since hypotension may occur during MABTHERA infusion, consideration should be given to withholding anti-hypertensive medications 12 hours prior to the MABTHERA infusion.
 
-Angina pectoris, or cardiac arrythmias have occured in patients treated with MABTHERA.
-Therefore patients with a history of cardiac disease should be monitored closely.
+Angina pectoris, or cardiac arrythmias, heart failure or myocardial infarction have occured in patients treated with MABTHERA.
+Therefore patients with a history of cardiac disease and/or cardiotoxic chemotherapy should be monitored closely.
 
 Although MABTHERA is not myelosuppressive, caution should be exercised when considering treatment of patients with neutrophils <1.5 x 109/l and/or platelet counts <75 x 109/l , as clinical experience in this population is limited.
 MABTHERA has been used in 21 patients who underwent autologous bone transplantation and other risk groups with a presumable reduced bone marrow function without inducing myelotoxicity.

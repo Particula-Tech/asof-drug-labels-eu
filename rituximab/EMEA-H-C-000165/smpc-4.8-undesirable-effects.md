@@ -17,6 +17,7 @@ Haematologic Adverse Reactions
 
 Haematologic abnormalities occur in a minority of patients and are usually mild and reversible.
 Severe thrombocytopenia and neutropenia occurred in 1.3% and 1.9% of patients respectively, and severe anaemia occurred in 1.0% of patients.
+Cases of pancytopenia have been reported rarely.
 A single occurrence of transient aplastic anaemia (pure red cell aplasia) and infrequent occurrences of hemolytic anaemia following MABTHERA treatment were reported.
 
 Other Adverse Reactions
@@ -24,10 +25,13 @@ Other Adverse Reactions
 Pulmonary adverse reaction, including severe bronchoconstriction and rarely fatalities from respiratory failure, have been reported with MABTHERA therapy.
 
 Anaphylaxis has been reported in patients treated with MABTHERA (see Section 4.4).
+
 Severe bullous skin reactions, including fatal cases of toxic epidermal necrolysis, have been reported rarely.
 
 Although MABTHERA induces B-cell depletion and can be associated with decreased serum immunoglobulins, the incidence of infection does not appear to be greater than expected in this patient population, and serious or opportunistic infections were considerably less than reported with conventional chemotherapy.
 During treatment and up to one year following therapy, approximately 17% and 16%, respectively, of patients developed infections which were usually common, non opportunistic and mild.
+
+Severe cardiac events, including heart failure and myocardial infarction have been observed, mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and are mostly associated with infusion-related reactions.
 
 Additional adverse events which occurred in ≥ 1% of patients observed in clinical trials are listed below.
 
@@ -39,8 +43,7 @@ Metabolic and Nutritional disorders⎯hyperglycemia, peripheral edema, LDH incre
 Musculo-Skeletal System⎯arthralgia, myalgia, pain, hypertonia;
 Nervous System⎯dizziness, anxiety, paresthesia, hypesthesia, agitation, insomnia, nervousness;
 Respiratory System⎯cough increase, sinusitis, bronchitis, respiratory disease;
-Skin and Appendages⎯night sweats, sweating, herpes simplex, herpes zoster;
-Special Senses⎯lacrimation disorder, conjunctivitis, taste perversion.
+Skin and Appendages⎯night sweats, sweating, herpes simplex, herpes zoster; Special Senses⎯lacrimation disorder, conjunctivitis, taste perversion.
 
 Additional severe adverse events occurring in < 1% of patients are listed below.
 

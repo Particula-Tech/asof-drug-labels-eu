@@ -13,6 +13,7 @@ The patient should then be evaluated for evidence of tumour lysis syndrome inclu
 The infusion should not be restarted until complete resolution of all symptoms, and normalisation of laboratory values and chest x-ray findings.
 At this time, the infusion can be initially resumed at not more than one-half the previous rate.
 If the same severe adverse reactions occur for a second time, the decision to stop the treatment should be seriously considered on a case by case basis.
+
 Mild or moderate infusion-related reactions (section 4.8) usually respond to a reduction in the rate of infusion.
 The infusion rate may be increased upon improvement of symptoms.
 
