@@ -8,6 +8,7 @@ The most common causes for discontinuation of treatment were dyspnoea and urtica
 
 Table 1
 Undesirable Effects in Clinical Trials
+
 Resistance mechanism disorders
 Common: Viral infection (e.g. influenza, herpes infections), fever Uncommon: Abscess, cellulitis, moniliasis, sepsis, impaired healing, bacterial infection
 Collagen disorders
@@ -54,7 +55,6 @@ Common: Oedema, hot flushes, infusion syndrome
 Uncommon:
 Administration/application site disorders
 Uncommon: Injection site reactions
-
 Infusion-related effects: In clinical trials 17% of infliximab-treated patients compared to 7% of placebo-treated patients experienced an infusion-related effect during infusion or within 2 hours post infusion.
 Approximately 4% of infusions were accompanied by non-specific symptoms such as fever or chills, 1% were accompanied by pruritus or urticaria, 1% were accompanied by cardiopulmonary reactions (primary chest pain, hypotension, hypertension or dyspnoea), and 0.1% were accompanied by combined symptoms of pruritus/urticaria and cardiopulmonary reactions.
 Twelve (0.4%) resulted in discontinuation of treatment and resolved with or without medical therapy.

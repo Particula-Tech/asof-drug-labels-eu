@@ -28,7 +28,6 @@ At week 4, following a single dose of study medication, 22/27 (81%) of inflixima
 Also at week 4, 13/27 (48%) of infliximab-treated patients achieved a clinical remission (CDAI < 150) vs. 1/25 (4%) of placebo-treated patients.
 A response was observed within 2 weeks, with a maximum response at 4 weeks.
 At the last observation at 12 weeks, 13/27 (48%) of infliximab-treated patients were still responding.
-
 The safety and efficacy were also assessed in a randomised, double-blinded, placebo-controlled study in 94 patients with fistulising Crohn’s disease who had fistulae that were of at least 3 months’ duration.
 Thirty-one of these patients were treated with infliximab 5 mg/kg.
 Approximately 93% of the patients had previously received antibiotic or immunosuppressive therapy.

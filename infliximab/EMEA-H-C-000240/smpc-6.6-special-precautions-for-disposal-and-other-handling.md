@@ -23,6 +23,7 @@ Do not use if opaque particles, discoloration, or other foreign particles are pr
 Dilute the total volume of the reconstituted Remicade solution dose to 250 ml with 0.9% w/v sodium chloride solution for infusion by withdrawing a volume of the 0.9% w/v sodium chloride solution equal to the volume of reconstituted Remicade from the 0.9% w/v sodium chloride solution for infusion 250-ml glass bottle or bag.
 Slowly add the total volume of reconstituted Remicade solution to the 250-ml infusion bottle or bag.
 Gently mix.
+
 4.
 Administer the infusion solution over a period of not less than 2 hours (at not more than 2 ml/min).
 Use an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 1.2 micrometer or less).

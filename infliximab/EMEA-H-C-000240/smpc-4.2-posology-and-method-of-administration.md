@@ -20,5 +20,4 @@ However, long-term efficacy of retreatment has not been established.
 Readministration of Remicade with a drug free interval of 2 to 4 years following a previous infusion has been associated with a delayed hypersensitivity reaction in a significant number of patients (see section 4.4, and section 4.8: “Delayed hypersensitivity”).
 After a drug free interval of 15 weeks to 2 years, the risk of delayed hypersensitivity following readministration is not known.
 Therefore, after a drug free interval of 15 weeks, readministration can not be recommended.
-
 For preparation and administration instructions, see section 6.6.
