@@ -14,7 +14,6 @@ The active thiol metabolite, which has been isolated in vitro, binds rapidly and
 This metabolite has not been detected in plasma.
 
 The kinetics of the main circulating metabolite were linear (plasma concentrations increased in proportion to dose) in the dose range of 50 to 150 mg of clopidogrel.
-
 Clopidogrel and the main circulating metabolite bind reversibly in vitro to human plasma proteins (98% and 94% respectively).
 The binding is non-saturable in vitro over a wide concentration range.
 

@@ -30,6 +30,7 @@ The risk of bleeding (life-threatening, major, minor, other) decreased during th
 
 There was no excess in major bleeds within 7 days after coronary bypass graft surgery in patients who stopped therapy more than five days prior to surgery (4.4% clopidogrel+ASA vs. 5.3% placebo+ASA).
 In patients who remained on therapy within five days of bypass graft surgery, the event rate was 9.6% for clopidogrel+ASA, and 6.3% for placebo+ASA.
+
 Haematological disorders:
 In CAPRIE, severe neutropenia (<0.45 x 109/l) was observed in 4 patients (0.04%) that received clopidogrel and 2 patients (0.02%) that received ASA.
 Two of the 9599 patients who received clopidogrel and none of the 9586 patients who received ASA had neutrophil counts of zero.
@@ -64,7 +65,6 @@ Post-marketing experience:
 Bleeding is the most common reaction reported in the post-marketing experience and was mostly reported during the first month of treatment.
 
 Bleeding: some cases were reported with fatal outcome (especially intracranial, gastrointestinal and retroperitoneal haemorrhage); serious cases of skin bleeding (purpura), musculo-skeletal bleeding (haemarthrosis, haematoma), eye bleeding (conjunctival, ocular, retinal), epistaxis, respiratory tract bleeding (haemoptysis, pulmonary haemorrhage), haematuria and haemorrhage of operative wound have been reported; cases of serious haemorrhage have been reported in patients taking clopidogrel concomitantly with acetylsalicylic acid or clopidogrel with acetylsalicylic acid and heparin (see section 4.4).
-
 In addition to clinical studies experience, the following adverse reactions have been spontaneously reported.
 Within each system organ class (MedDRA classification), they are ranked under heading of frequency.
 "Very rare" corresponds to <1/10,000.
@@ -75,7 +75,7 @@ Blood and lymphatic system disorders:
 
 Immune system disorders:
 
-- Very rare: Anaphylactoid reactions
+- Very rare: Anaphylactoid reactions, Serum Sickness
 
 Psychiatric disorders:
 
@@ -91,15 +91,15 @@ Vascular disorders:
 
 Respiratory, thoracic and mediastinal disorders:
 
-- Very rare: Bronchospasm
+- Very rare: Bronchospasm, Interstitial Pneumonitis
 
 Gastrointestinal disorders:
 
-- Very rare: Colitis (including ulcerative or lymphocytic colitis), Pancreatitis
+- Very rare: Colitis (including ulcerative or lymphocytic colitis), Pancreatitis, Stomatitis
 
 Hepato-biliary disorders
 
-- Very rare: Hepatitis
+- Very rare: Hepatitis, Acute liver failure
 
 Skin and subcutaneous tissue disorders:
 
@@ -111,7 +111,7 @@ Musculoskeletal, connective tissue and bone disorders:
 
 Renal and urinary disorders:
 
-- Very rare: Glomerulonephritis,
+- Very rare: Glomerulonephritis.
 
 General disorders and administration site conditions
 

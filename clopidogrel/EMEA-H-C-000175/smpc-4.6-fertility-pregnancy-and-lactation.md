@@ -8,4 +8,4 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 - Lactation
 
 Studies in rats have shown that clopidogrel and/or its metabolites are excreted in the milk.
-It is not known whether this medicinal product is excreted in human milk).
+It is not known whether this medicinal product is excreted in human milk.
