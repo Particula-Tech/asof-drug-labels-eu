@@ -2,17 +2,25 @@
 
 Recommended dosage:
 
-In patients treated for breast cancer, docetaxel is administered as a one-hour infusion every three weeks.
+For breast and non-small cell lung cancers, premedication consisting of an oral corticosteroid, such as dexamethasone 16 mg per day (e.g. 8 mg BID) for 3 days starting 1 day prior to docetaxel administration, unless contraindicated, can be used (see section 4.4).
+For prostate cancer, given the concurrent use of prednisone or prednisolone the recommended premedication regimen is oral dexamethasone 8 mg, 12 hours, 3 hours and 1 hour before the docetaxel infusion (see section 4.4).
+
+Docetaxel is administered as a one-hour infusion every three weeks.
+
+Breast cancer
 The recommended dosage of docetaxel is 100 mg/m2 in monotherapy.
 In first-line treatment, docetaxel 75 mg/m2 is given in combination therapy with doxorubicin (50 mg/m2).
 See section 6.6.
 In combination with capecitabine, the recommended dose of docetaxel is 75 mg/m2 every three weeks, combined with capecitabine at 1250 mg/m2 twice daily (within 30 minutes after a meal) for 2 weeks followed by 1- week rest period.
 For capecitabine dose calculation according to body surface area, see capecitabine summary of product characteristics.
-In patients treated for non-small cell lung cancer, docetaxel is administered as a one-hour infusion every three weeks.
-For chemotherapy naïve patients, the recommended dose regimen is docetaxel 75 mg/m2 immediately followed by cisplatin 75 mg/ m2 over 30-60 minutes.
+
+Non-small cell lung cancer
+In chemotherapy naïve patients treated for non-small cell lung cancer, the recommended dose regimen is docetaxel 75 mg/m2 immediately followed by cisplatin 75 mg/ m2 over 30-60 minutes.
 For treatment after failure of prior platinum-based chemotherapy, the recommended dosage is 75 mg/m² as a single agent.
 
-A premedication consisting of an oral corticosteroid, such as dexamethasone 16 mg per day (e.g. 8 mg BID) for 3 days starting 1 day prior to docetaxel administration, unless contraindicated, can be used (see section 4.4).
+Prostate cancer
+The recommended dose of docetaxel is 75 mg/m2.
+Prednisone or prednisolone 5 mg orally twice daily is administered continuously (see section 5.1).
 
 Dosage adjustments during treatment:
 
@@ -42,7 +50,3 @@ Children: The safety and effectiveness of docetaxel in children have not been es
 
 Elderly: Based on a population pharmacokinetic analysis, there are no special instructions for use in the elderly.
 In combination with capecitabine, for patients 60 years of age or more, a starting dose reduction of capecitabine to 75% is recommended (see capecitabine summary of product characteristics)”
-
-[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
-
-A premedication consisting of an oral corticosteroid, such as dexamethasone 16 mg per day (e.g. 8 mg BID) for 3 days starting 1 day prior to docetaxel administration, unless contraindicated, can be used (seesection 4.4).

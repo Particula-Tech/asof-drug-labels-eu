@@ -22,5 +22,9 @@ When used in combination, docetaxel does not influence the clearance of doxorubi
 However, based on literature data and results of a specific pharmacokinetic interaction study, the influence of doxorubicin on the pharmacokinetic profile of docetaxel remains unclear.
 
 Phase I study evaluating the effect of capecitabine on the pharmacokinetics of docetaxel and vice versa showed no effect by capecitabine on the pharmacokinetics of docetaxel (Cmax and AUC) and no effect by docetaxel on the pharmacokinetics of a relevant capecitabine metabolite 5’-DFUR.
+
 Clearance of docetaxel in combination therapy with cisplatin was similar to that observed following monotherapy.
 The pharmacokinetic profile of cisplatin administered shortly after TAXOTERE infusion is similar to that observed with cisplatin alone
+
+The effect of prednisone on the pharmacokinetics of docetaxel administered with standard dexamethasone premedication has been studied in 42 patients.
+No effect of prednisone on the pharmacokinetics of docetaxel was observed.

@@ -1,5 +1,7 @@
 # 4.1 Therapeutic indications
 
+Breast cancer
+
 TAXOTERE (docetaxel) in combination with doxorubicin is indicated for the treatment of patients with locally advanced or metastatic breast cancer who have not previously received cytotoxic therapy for this condition.
 
 TAXOTERE (docetaxel) monotherapy is indicated for the treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic therapy.
@@ -8,8 +10,14 @@ Previous chemotherapy should have included an anthracycline or an alkylating age
 TAXOTERE in combination with capecitabine is indicated for the treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy.
 Previous therapy should have included an anthracycline.
 
+Non-small cell lung cancer
+
 TAXOTERE (docetaxel) is indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of prior chemotherapy.
 
 TAXOTERE in combination with cisplatin is indicated for the treatment of patients with unresectable, locally advanced or metastatic non-small cell lung cancer, in patients who have not previously received chemotherapy for this condition.
+
+Prostate cancer
+
+TAXOTERE in combination with prednisone or prednisolone is indicated for the treatment of patients with hormone refractory metastatic prostate cancer.
 
 The use of docetaxel should be confined to units specialised in the administration of cytotoxic chemotherapy and it should only be administered under the supervision of a physician qualified in the use of anticancer chemotherapy.

@@ -1,10 +1,12 @@
 # 4.8 Undesirable effects
 
-The adverse reactions considered to be possibly or probably related to the administration of docetaxel have been obtained from patients treated by docetaxel as single agent or in combination.
-Among the patients who received docetaxel in monotherapy, 1312 patients received 100 mg/m² and 121 patients received 75 mg/m² of TAXOTERE.
-Among the patients who received docetaxel in combination with doxorubicin at 50 mg/m², 258 patients received 75 mg/m² of TAXOTERE.
-406 patients received 75 mg/m² of docetaxel in combination with cisplatin 75 mg/ m².
-For combination with capecitabine, the most frequent treatment-related undesirable effects ( ≥ 5%) reported in a phase III trial in breast cancer patients failing anthracycline treatment are presented (see capecitabine summary of product characteristics).
+The adverse reactions considered to be possibly or probably related to the administration of TAXOTERE have been obtained in:.
+
+- 1312 and 121 patients who received 100 mg/m² and 75 mg/m² of TAXOTEREas a single agent respectively
+- 258 patients who received TAXOTERE in combination with doxorubicin
+- 406 patients who received TAXOTERE in combination with cisplatin
+- 255 patients who received TAXOTERE in combination with capecitabine,
+  - 332 patients who received TAXOTERE in combination with prednisone or prednisolone (clinically important treatment related adverse events are presented).
 
 These reactions were described using the NCI Common Toxicity Criteria (grade 3 = G3; grade3-4 = G3/4; grade 4 = G4) and the COSTART terms.
 Frequencies are defined as: very common (> 1/10), common (> 1/100, < 1/10); uncommon (> 1/1,000, < 1/100); rare (> 1/10,000, < 1/1,000); very rare
@@ -13,7 +15,9 @@ Frequencies are defined as: very common (> 1/10), common (> 1/100, < 1/10); unco
 The most commonly reported adverse reaction was neutropenia, which was reversible and not cumulative (see sections 4.2 and 4.4).
 The median day to nadir was 7 days and the median duration of severe neutropenia (<500 cells/mm3) was 7 days.”
 
-Blood disorders
+For combination with capecitabine, the most frequent treatment-related undesirable effects ( ≥ 5%) reported in a phase III trial in breast cancer patients failing anthracycline treatment are presented (see capecitabine summary of product characteristics).
+
+Blood and the lymphatic system disorders
 
 Bone marrow suppression and other hematologic adverse reactions have been reported.
 
@@ -37,18 +41,24 @@ TAXOTERE 75mg/m² in combination with capecitabine:
 Very common: Neutropenia (G3/4: 63%), Anemia (G3/4: 10%).
 Common: Thrombocytopenia (G3/4: 3%).
 
-Hypersensitivity reactions
+TAXOTERE 75mg/m² in combination with prednisone or prednisolone:
+Very common: Neutropenia (40.9%, G3/4: 32%), Anemia (66.5%, G3/4: 4.9%), Infection (12.0%, G3/4: 3.3%).
+Common: Thrombocytopenia (3.4%, G3/4: 0.6%), Febrile neutropenia (2.7%), Epistaxis (3.0%, G3/4: 0%).
+
+Immune system disorders
+
 Hypersensitivity reactions have generally occurred within a few minutes following the start of the infusion of docetaxel and were usually mild to moderate.
 The most frequently reported symptoms were flushing, rash with or without pruritus, chest tightness, back pain, dyspnoea and drug fever or chills.
 Severe reactions, characterised by hypotension and/or bronchospasm or generalized rash/erythema, resolved after discontinuing the infusion and appropriate therapy (see section 4.4).
 
 TAXOTERE 100mg/m² single agent: very common (25.9%; G3/4: 5.3%)
-
 TAXOTERE 75mg/m² single agent: common (2.5%, no severe)
 
 TAXOTERE 75mg/m² in combination with doxorubicin: common (4.7%; G3/4: 1.2%)
 
 TAXOTERE 75mg/m² in combination with cisplatin: very common (10.6%; G3/4: 2.5%)
+
+TAXOTERE 75mg/m² in combination with prednisone or prednisolone: common (6.9%; G3/4: 0.6%)
 
 Skin and subcutaneous tissue disorders
 
@@ -77,11 +87,16 @@ TAXOTERE 75mg/m² in combination with capecitabine:
 Very common: Hand-foot Syndrome (63%; G3/4: 24%); Alopecia (41%; G3/4: 6%); Nail disorder (14%; G3/4: 2%).
 Common: Dermatitis (8%); Rash erythematous (8%; G3/4: <1%); Nail discoloration (6%); Onycholysis (5%; G3/4: 1%).
 
+TAXOTERE 75mg/m² in combination with prednisone or prednisolone:
+Very common: Alopecia (65.1%); Nail changes (28.3%; no severe);
+Common: Rash/Desquamation (3.3%; G3/4: 0.3%).
+
 Fluid retention
 
 Events such as peripheral oedema and less frequently pleural effusion, pericardial effusion, ascites and weight gain have been reported.
 The peripheral oedema usually starts at the lower extremities and may become generalised with a weight gain of 3 kg or more.
 Fluid retention is cumulative in incidence and severity (see section 4.4).
+
 TAXOTERE 100mg/m² single agent: very common (64.1%; severe 6.5%).
 The median cumulative dose to treatment discontinuation was more than 1,000 mg/m2 and the median time to fluid retention reversibility was 16.4 weeks (range 0 to 42 weeks).
 The onset of moderate and severe retention is delayed (median cumulative dose: 818.9 mg/m2) in patients with premedication compared with patients without premedication (median cumulative dose: 489.7 mg/m2); however, it has been reported in some patients during the early courses of therapy.
@@ -91,6 +106,8 @@ TAXOTERE 75mg/m² single agent: very common (24.8%; severe 0.8%)
 TAXOTERE 75mg/m² in combination with doxorubicin: very common (35.7%; severe 1.2%)
 
 TAXOTERE 75mg/m² in combination with cisplatin: very common (25.9%; severe 0.7%)
+
+TAXOTERE 75mg/m² in combination with prednisone or prednisolone: very common (24.4%; severe 0.6%)
 
 Fluid retention has not been accompanied by acute episodes of oliguria or hypotension.
 Dehydration and pulmonary oedema have rarely been reported
@@ -116,6 +133,9 @@ Common: Constipation (9.4%).
 TAXOTERE 75mg/m² in combination with capecitabine:
 Very common: Stomatitis (67%; G3/4: 18%); Diarrhea (64%; G3/4: 14%); Nausea (43%; G3/4: 6%); Vomiting (33%; G3/4: 4%); Taste disturbance (15%; G3/4: <1%); Constipation (14%; G3/4: 1%); Abdominal pain (14%; G3/4: 2%); Dyspepsia (12%).
 Common: Abdominal pain upper (9%); Dry mouth (5%).
+
+TAXOTERE 75mg/m² in combination with prednisone or prednisolone:
+Very common: Nausea (35.5%; G3/4: 2.4%); Diarrhoea (24.1%; G3/4: 1.2%); Stomatitis/Pharyngitis (17.8%; G3/4: 0.9%); Taste disturbance (17.5%; G3/4: 0%); Vomiting (13.3%; G3/4: 1.2%).
 
 Rare occurrences of dehydration as a consequence of gastrointestinal events, gastrointestinal perforation, ischemic colitis, colitis and neutropenic enterocolitis have been reported.
 Very rare cases of ileus and intestinal obstruction have been reported.
@@ -146,6 +166,10 @@ TAXOTERE 75mg/m² in combination with capecitabine:
 Very common: Paresthesia (11%; G3/4: <1%).
 Common: Dizziness (9%); Headache (7%; G3/4: <1%); Peripheral neuropathy (5%).
 
+TAXOTERE 75mg/m² in combination with prednisone or prednisolone:
+Very common: Neuropathy Sensory (27.4%; G3/4:1.2%),
+Common: Neuropathy Motor (3.9%; G3/4: 0%).
+
 Rare cases of convulsion or transient loss of consciousness have been observed with docetaxel administration.
 These reactions sometimes appear during the infusion of the drug.
 
@@ -169,10 +193,12 @@ Uncommon: Heart failure (0.5%)
 TAXOTERE 75mg/m² in combination with capecitabine:
 Very common: Lower limb oedema (14%; G3/4: 1%).
 
+TAXOTERE 75mg/m² in combination with prednisone or prednisolone:
+Common: Cardiac left ventricular function decrease (3.9%; G3/4: 0.3%).
+
 Venous thromboembolic events have rarely been reported.
 Rare cases of myocardial infarction have been reported.
-
-Hepatic disorders
+Hepato-biliary disorders
 
 TAXOTERE 100mg/m² single agent:
 Common: G3/4 bilirubin increase (<5%); G3/4 alkaline phosphatase increase (<4%); G3/4 AST increase (<3%); G3/4 ALT increase (<2%).
@@ -207,6 +233,9 @@ TAXOTERE 75mg/m² in combination with capecitabine:
 Very common: Anorexia (12%; G3/4: 1%); Appetite decreased (10%).
 Common: Dehydration (8%; G3/4: 2%); Weight decreased (6%).
 
+TAXOTERE 75mg/m² in combination with prednisone or prednisolone:
+Very common: Anorexia (12.7%, G3/4: 0.6%).
+
 Eye Disorders
 
 Very rare cases of transient visual disturbances (flashes, flashing lights, scotomata) typically occurring during drug infusion and in association with hypersensitivity reactions have been reported.
@@ -217,7 +246,10 @@ Cases of lacrimation with or without conjunctivitis, as cases of lacrimal duct o
 TAXOTERE 75mg/m² in combination with capecitabine:
 Very common: Lacrimation increased (12%)
 
-Musculoskeletal disorders
+TAXOTERE 75mg/m² in combination with prednisone or prednisolone:
+Common: Tearing (9.3%, G3/4: 0.6%)
+
+Musculoskeletal, connective tissue and bone disorders
 
 TAXOTERE 100mg/m² single agent:
 Very common: Myalgia (20%; severe 1.4%).
@@ -236,13 +268,20 @@ TAXOTERE 75mg/m² in combination with capecitabine:
 Very common: Myalgia (14%; G3/4: 2%); Arthralgia (11%; G3/4: 1%).
 Common: Back pain (7%; G3/4: 1%).
 
-Respiratory disorders
+TAXOTERE 75mg/m² in combination with prednisone or prednisolone:
+Common: Arthralgia (3.0%, G3/4: 0.3%), Myalgia (6.9%; G3/4: 0.3%).
+
+Respiratory, thoracic and mediastinal disorders
+
 TAXOTERE 100mg/m² single agent:
 Very common: Dyspnea (16.1%; severe 2.7%)
 
 TAXOTERE 75mg/m² in combination with capecitabine:
 Very common: Sore throat (11%; G3/4: 2%)
 Common: Dyspnea (7%; G3/4: 1%); Cough (6%; G3/4: <1%); Epistaxis (5%; G3/4: <1%)
+
+TAXOTERE 75mg/m² in combination with prednisone or prednisolone:
+Common: Dyspnea (4.5%; G3/4: 0.6%), Cough (1.2%; G3/4: 0%).
 
 Acute respiratory distress syndrome, interstitial pneumonia and pulmonary fibrosis have rarely been reported.
 
@@ -269,4 +308,11 @@ TAXOTERE 75mg/m² in combination with capecitabine:
 Very common: Asthenia (23%; G3/4: 3%); Pyrexia (21%; G3/4: 1%); Fatigue (21%; G3/4: 4%); Weakness (13%; G3/4: 1%).
 Common: Pain in limb (9%; G3/4: <1%); Lethargy (6%); Pain (6%); Oral candidiasis (6%; G3/4: < 1%).
 
+TAXOTERE 75mg/m² in combination with prednisone or prednisolone:
+Very common: Fatigue (42.8%; G3/4: 3.9%).
+
 Radiation recall phenomena have rarely been reported.
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+- 1312 and 121 patients who received 100 mg/m² and 75 mg/m² of TAXOTERE as a single agent respectively,.

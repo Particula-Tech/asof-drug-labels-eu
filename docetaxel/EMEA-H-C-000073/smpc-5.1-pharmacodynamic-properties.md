@@ -3,6 +3,7 @@
 Pharmaco-therapeutic group: Antineoplastic agents, ATC Code: L01CD 02
 
 Preclinical data
+
 Docetaxel is an antineoplastic agent which acts by promoting the assembly of tubulin into stable microtubules and inhibits their disassembly which leads to a marked decrease of free tubulin.
 The binding of docetaxel to microtubules does not alter the number of protofilaments.
 
@@ -19,8 +20,7 @@ Breast cancer
 
 TAXOTERE as single agent
 
-Two randomised phase III comparative studies, involving a total of 326 alkylating or
-392 anthracycline failure metastatic breast cancer patients, have been performed with docetaxel at the recommended dose and regimen of 100 mg/m² every 3 weeks.
+Two randomised phase III comparative studies, involving a total of 326 alkylating or 392 anthracycline failure metastatic breast cancer patients, have been performed with docetaxel at the recommended dose and regimen of 100 mg/m² every 3 weeks.
 
 In alkylating-failure patients, docetaxel was compared to doxorubicin (75 mg/m² every 3 weeks).
 Without affecting overall survival time (docetaxel 15 months vs. doxorubicin 14 months, p=0.38) or time to progression (docetaxel 27 weeks vs. doxorubicin 23 weeks, p=0.54), docetaxel increased response rate (52% vs. 37%, p=0.01) and shortened time to response (12 weeks vs. 23 weeks, p=0.007).
@@ -37,9 +37,14 @@ One large randomized phase III study, involving 429 previously untreated patient
 Both regimens were administered on day 1 every 3 weeks.
 
 - Time to progression (TTP) was significantly longer in the AT arm versus AC arm, p=0.0138.
-  The median TTP was 37.3 weeks (95%CI :33.4 - 42.1) in AT arm and 31.9 weeks (95%CI : 27.4 - 36.0) in AC arm.
+  The
+
+median TTP was 37.3 weeks (95%CI :33.4 - 42.1) in AT arm and 31.9 weeks (95%CI : 27.4 - 36.0) in AC arm.
+
 - Overall response rate (ORR) was significantly higher in the AT arm versus AC arm, p=0.009.
-  The ORR was 59.3% (95%CI : 52.8 - 65.9) in AT arm versus 46.5% (95%CI : 39.8 - 53.2) in AC arm.
+  The
+
+ORR was 59.3% (95%CI : 52.8 - 65.9) in AT arm versus 46.5% (95%CI : 39.8 - 53.2) in AC arm.
 
 In this trial, AT arm showed a higher incidence of severe neutropenia (90% versus 68.6%), febrile neutropenia (33.3% versus 10%), infection (8% versus 2.4%), diarrhea (7.5% versus 1.4%), asthenia (8.5% versus 2.4%), and pain (2.8% versus 0%) than AC arm.
 On the other hand, AC arm showed a higher incidence of severe anemia (15.8% versus 8.5%) than AT arm, and, in addition, a higher incidence of severe cardiac toxicity: congestive heart failure (3.8% versus 2.8%), absolute LVEF decrease ≥ 20% (13.1 % versus 6.1%), absolute LVEF decrease ≥ 30% (6.2% versus 1.1%).
@@ -72,13 +77,9 @@ In a Phase III trial, 1218 patients with unresectable stage IIIB or IV NSCLC, wi
 
 Survival data, median time to progression and response rates for two arms of the study are illustrated in the following table:
 
-TCis VCis Statistical Analysis
-n=408 n=404
-Overall Survival
-(Primary end-point):
-
-| Median Survival (months) 1-year Survival (%) 2-year Survival (%) | 11.3 46 21 | 10.1 41 14 | Hazard Ratio: 1.122 [97.2% CI: 0.937; 1.342]* Treatment difference: 5.4% [95% CI: -1.1; 12.0] Treatment difference: 6.2% [95% CI: 0.2; 12.3] |
+|  | TCis n=408 | VCis n=404 | Statistical Analysis |
 | --- | --- | --- | --- |
+| Overall Survival (Primary end-point): Median Survival (months) 1-year Survival (%) 2-year Survival (%) | 11.3 46 21 | 10.1 41 14 | Hazard Ratio: 1.122 [97.2% CI: 0.937; 1.342]* Treatment difference: 5.4% [95% CI: -1.1; 12.0] Treatment difference: 6.2% [95% CI: 0.2; 12.3] |
 | Median Time to Progression (weeks): | 22.0 | 23.0 | Hazard Ratio: 1.032 [95% CI: 0.876; 1.216] |
 | Overall Response Rate (%): | 31.6 | 24.5 | Treatment difference: 7.1% [95% CI: 0.7; 13.5] |
 
@@ -88,3 +89,39 @@ Secondary end-points included change of pain, global rating of quality of life b
 Results on these end-points were supportive of the primary end-points results.
 
 For Taxotere/Carboplatin combination, neither equivalent nor non-inferior efficacy could be proven compared to the reference treatment combination VCis.
+
+Prostate Cancer
+
+The safety and efficacy of TAXOTERE in combination with prednisone or prednisolone in patients with hormone refractory metastatic prostate cancer were evaluated in a randomized multicenter Phase III trial.
+A total of 1006 patients with KPS≥60 were randomized to the following treatment groups:
+
+- TAXOTERE 75 mg/m2 every 3 weeks for 10 cycles.
+- TAXOTERE 30 mg/m2 administered weekly for the first 5 weeks in a 6 week cycle for 5 cycles.
+- Mitoxantrone 12 mg/m2 every 3 weeks for 10 cycles.
+
+All 3 regimens were administered in combination with prednisone or prednisolone 5 mg twice daily, continuously.
+Patients who received docetaxel every three weeks demonstrated significantly longer overall survival compared to those treated with mitoxantrone.
+The increase in survival seen in the docetaxel weekly arm was not statistically significant compared to the mitoxantrone control arm.
+Efficacy endpoints for the TAXOTERE arms versus the control arm are summarized in the following table:
+
+| Endpoint | TAXOTERE every 3 weeks | TAXOTERE every week | Mitoxantrone every 3 weeks |
+| --- | --- | --- | --- |
+| Number of patients Median survival (months) 95% CI Hazard ratio 95% CI p-value†* | 335 18.9 (17.0-21.2) 0.761 (0.619-0.936) 0.0094 | 334 17.4 (15.7-19.0) 0.912 (0.747-1.113) 0.3624 | 337 16.5 (14.4-18.6) -- -- -- |
+| Number of patients PSA** response rate (%) 95% CI p-value* | 291 45.4 (39.5-51.3) 0.0005 | 282 47.9 (41.9-53.9) <0.0001 | 300 31.7 (26.4-37.3) -- |
+| Number of patients Pain response rate (%) 95% CI p-value* | 153 34.6 (27.1-42.7) 0.0107 | 154 31.2 (24.0-39.1) 0.0798 | 157 21.7 (15.5-28.9) -- |
+| Number of patients Tumor response rate (%) 95% CI p-value* | 141 12.1 (7.2-18.6) 0.1112 | 134 8.2 (4.2-14.2) 0.5853 | 137 6.6 (3.0-12.1) -- |
+
+†Stratified log rank test
+*Threshold for statistical significance=0.0175
+**PSA: Prostate-Specific Antigen
+
+Given the fact that TAXOTERE every week presented a slightly better safety profile than
+TAXOTERE every 3 weeks, it is possible that certain patients may benefit from TAXOTERE every
+week.
+
+No statistical differences were observed between treatment groups for Global Quality of Life.
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+  The median TTP was 37.3 weeks (95%CI :33.4 - 42.1) in AT arm and 31.9 weeks (95%CI : 27.4 - 36.0) in AC arm.
+  The ORR was 59.3% (95%CI : 52.8 - 65.9) in AT arm versus 46.5% (95%CI : 39.8 - 53.2) in AC arm.
