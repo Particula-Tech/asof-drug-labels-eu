@@ -21,11 +21,3 @@ ZYPREXA 15 mg coated tablets.
 [ZYPREXA 20 mg coated tablets.]
 
 ZYPREXA 20 mg coated tablets.
-
-[ZYPREXA 10 mg Powder for Solution for Injection.]
-
-ZYPREXA 10 mg Powder for Solution for Injection.
-
-[ZYPREXA 10 mg Powder and Solvent for Solution for Injection.]
-
-ZYPREXA 10 mg Powder and Solvent for Solution for Injection.

@@ -19,6 +19,9 @@ In cases where hepatitis has been diagnosed, olanzapine treatment should be disc
 
 As with other neuroleptic drugs, caution should be exercised in patients with low leukocyte and/or neutrophil counts for any reason, in patients with a history of drug-induced bone marrow depression/toxicity, in patients with bone marrow depression caused by concomitant illness, radiation therapy or chemotherapy and in patients with hypereosinophilic conditions or with myeloproliferative disease.
 Thirty two patients with clozapine-related neutropenia or agranulocytosis histories received olanzapine without decreases in baseline neutrophil counts.
+Neutropenia has been reported commonly when olanzapine and valproate are used concomitantly (see Section 4.8)
+There are limited data on co-medication with lithium and valproate (see Section 5.1).
+There are no clinical data available on olanzapine and carbamazepine co-therapy, however a pharmacokinetic study has been conducted (see Section 4.5).
 
 Neuroleptic Malignant Syndrome (NMS): NMS is a potentially life-threatening condition associated with antipsychotic medication.
 Rare cases reported as NMS have also been received in association with olanzapine.
@@ -61,43 +64,5 @@ In cases where hepatitis has been diagnosed, olanzapine treatment, should be dis
 (all sentences already above)
 
 [ZYPREXA 20 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg Powder for Solution for Injection.]
-
-The efficacy of IM olanzapine has not been established in patients with agitation and disturbed behaviours related to conditions other than schizophrenia.
-
-IM olanzapine should not be administered to patients with unstable medical conditions, such as acute myocardial infarction, unstable angina pectoris, severe hypotension and/or bradycardia, sick sinus syndrome, or following heart surgery.
-If the patient’s medical history with regard to these unstable medical conditions cannot be determined, the risks and benefits of IM olanzapine should be considered in relation to other alternative treatments.
-The safety and efficacy of IM olanzapine has not been evaluated in patients with alcohol or drug intoxication (see also Section 4.5 Interaction with other medicinal products and other forms of interaction).
-
-Patients receiving intramuscular olanzapine should be closely observed for hypotension including postural hypotension, bradyarrhythmia and/or hypoventilation, particularly for the first 2 to 4 hours following injection.
-Blood pressure, pulse, respiratory rate and level of consciousness should be recorded if clinically indicated and remedial treatment provided if required.
-Patients should remain recumbent if dizzy or drowsy after injection until examination indicates that they are not experiencing hypotension including postural hypotension, bradyarrhythmia and/or hypoventilation.
-Special caution is necessary in patients who receive treatment with other medicinal products having haemodynamic properties similar to those of intramuscular olanzapine (see also Section 4.5.
-Interaction with other medicinal products and other forms of interaction).
-
-Simultaneous injection of intramuscular olanzapine and parenteral benzodiazepine has not been studied and is therefore not recommended (see also Section 4.5 Interaction with other medicinal products and other forms of interaction).
-If the patient is considered to need parenteral benzodiazepine treatment, this should not be given until at least one hour after IM olanzapine administration.
-If the patient has received parenteral benzodiazepine, IM olanzapine administration should only be considered after careful evaluation of clinical status and the patient should be closely monitored for excessive sedation and cardiorespiratory depression.
-
-While olanzapine demonstrated anticholinergic activity in vitro, experience during oral clinical trials revealed a low incidence of related events.
-
-As with other antipsychotic drugs, caution should be exercised in patients with low leukocyte and/or neutrophil counts for any reason, in patients with a history of drug-induced bone marrow depression/toxicity, in patients with bone marrow depression caused by concomitant illness, radiation therapy or chemotherapy and in patients with hypereosinophilic conditions or with myeloproliferative disease.
-Thirty two patients with clozapine-related neutropenia or agranulocytosis histories received olanzapine, in initial oral clinical trials, without decreases in baseline neutrophil counts.
-
-Tardive Dyskinesia: In comparator oral studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.
-
-As it exhibits in vitro dopamine antagonism, olanzapine may antagonise the effects of direct and indirect dopamine agonists.
-
-Postural hypotension was infrequently observed in the elderly in oral olanzapine clinical trials.
-
-In clinical trials with Zyprexa Powder for Solution for Injection, olanzapine was not associated with a persistent increase in absolute QT or in QTc intervals.
-In clinical trials with oral administration, olanzapine was not associated with a persistent increase in absolute QT intervals.
-Only 8 of 1685 subjects had increased QTc interval on multiple occasions.
-However, as with other antipsychotics, caution should be exercised when olanzapine is prescribed with drugs known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesemia.
-
-[ZYPREXA 10 mg Powder and Solvent for Solution for Injection.]
 
 (all sentences already above)

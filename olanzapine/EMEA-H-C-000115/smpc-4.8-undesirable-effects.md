@@ -4,6 +4,10 @@ The only very common (>10%) undesirable effects associated with the use of olanz
 Weight gain was related to a lower pretreatment body mass index (BMI) and initial starting dose of 15 mg or greater.
 Abnormal gait has been observed very commonly in clinical trial patients with Alzheimer’s disease.
 
+In one clinical trial in patients with bipolar mania, valproate combination therapy with olanzapine resulted in an incidence of neutropenia of 4.1%; a potential contributing factor could be high plasma valproate levels.
+Olanzapine administered with lithium or valproate resulted in increased levels (>10%) of tremor, dry mouth, increased appetite, and weight gain.
+Speech disorder was also reported commonly (1% to 10%).
+During treatment with olanzapine in combination with lithium or divalproex, an increase of >7% from baseline body weight occurred in 17.4% of patients during acute treatment (up to 6 weeks).
 The following table of undesirable effects is based on adverse event reporting and laboratory investigations from clinical trials.
 
 Blood and lymphatic system disorders
@@ -12,12 +16,12 @@ Metabolism and nutrition disorders
 Very common (>10%): Weight gain
 Common (1-10%): Increased appetite.
 Elevated glucose levels (see note 1 below).
-Elevated triglyceride levels
+Elevated triglyceride levels.
 Nervous system disorders
 Very common (>10%): Somnolence.
 Abnormal gait has been observed in clinical trial patients with Alzheimer’s disease.
 Common (1-10%): Dizziness, akathisia.
-(See also note 3 below).
+(See also note 2 below).
 Cardiac disorders
 Uncommon (0.1-1%): Bradycardia with or without hypotension or syncope.
 Vascular Disorders
@@ -35,14 +39,13 @@ Very common (>10%): Elevated plasma prolactin levels, but associated clinical ma
 In most patients, levels returned to normal ranges without cessation of treatment.
 Uncommon (0.1-1%): High creatine phosphokinase.
 
-1In clinical trials with olanzapine in over 5000 patients with baseline non-fasting glucose levels ≤ 7.8 mmol/l, the incidence of non-fasting plasma glucose levels ≥ 11 mmol/l (suggestive of diabetes) was 1.0%, compared to 0.9% with placebo.
-The incidence of non-fasting plasma glucose levels ≥ 8.9 mmol/l but < 11 mmol/l (suggestive of hyperglycaemia) was 2.0%, compared to 1.6% with placebo.
+1In clinical trials with olanzapine in over 5000 patients with baseline non-fasting glucose levels � 7.8 mmol/l, the incidence of non-fasting plasma glucose levels � 11 mmol/l (suggestive of diabetes) was 1.0%, compared to 0.9% with placebo.
+The incidence of non-fasting plasma glucose levels � 8.9 mmol/l but < 11 mmol/l (suggestive of hyperglycaemia) was 2.0%, compared to 1.6% with placebo.
 Hyperglycaemia is also reported as a Very Rare (<0.01%) spontaneous event.
 
-2 In clinical trials, the incidence of parkinsonism and dystonia in olanzapine-treated patients was not significantly different from placebo.
+2In clinical trials, the incidence of parkinsonism and dystonia in olanzapine-treated patients was not significantly different from placebo.
 Olanzapine-treated patients had a lower incidence of parkinsonism, akathisia and dystonia compared with titrated doses of haloperidol.
 In the absence of detailed information on the pre-existing history of individual acute and tardive extrapyramidal movement disorders, it can not be concluded at present that olanzapine produces less tardive dyskinesia and/or other tardive extrapyramidal syndromes.
-
 The following table of undesirable effects is based on post-marketing spontaneous reports.
 
 Blood and lymphatic system disorders
@@ -64,47 +67,3 @@ Skin and subcutaneous tissue disorders
 Rare (0.01-0.1%): Rash.
 Reproductive system and breast disorders
 Very rare (<0.01%): Priapism.
-
-[ZYPREXA 5 mg coated tablets.]
-
-1In clinical trials with olanzapine in over 5000 patients with baseline non-fasting glucose levels
-≤ 7.8 mmol/l, the incidence of non-fasting plasma glucose levels ≥ 11 mmol/l (suggestive of diabetes) was 1.0%, compared to 0.9% with placebo.
-
-2In clinical trials, the incidence of parkinsonism and dystonia in olanzpine-treated patients was not significantly different from placebo.
-
-[ZYPREXA 7.5 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg coated tablets.]
-
-2In clinical trials, the incidence of parkinsonism and dystonia in olanzapine-treated patients was not significantly different from placebo.
-
-[ZYPREXA 15 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 20 mg coated tablets.]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg Powder for Solution for Injection.]
-
-The following table is based on the undesirable effects and laboratory investigations from clinical trials with Zyprexa Powder for Solution for Injection rather than oral olanzapine.
-
-Common (1-10%): Bradycardia with or without hypotension or syncope, tachycardia.
-Uncommon (0.1-1%): Sinus pause.
-Common (1-10%): Postural hypotension, hypotension.
-Respiratory disorders
-Uncommon (0.1-1%): Hypoventilation.
-Common (1-10%): Injection site discomfort.
-
-The undesirable effects listed below have been observed following administration of oral olanzapine, but may also occur following administration of Zyprexa Powder for Solution for Injection.
-
-The following table of undesirable effects is based on adverse event reporting and laboratory investigations from clinical trials with oral olanzapine.
-
-The following table of undesirable effects is based on post-marketing spontaneous reports with oral olanzapine.
-
-[ZYPREXA 10 mg Powder and Solvent for Solution for Injection.]
-
-2In clinical trials the incidence of parkinsonism and dystonia in olanzapine-treated patients was not significantly different from placebo.

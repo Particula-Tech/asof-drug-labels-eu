@@ -21,12 +21,3 @@ Two years.
 [ZYPREXA 20 mg coated tablets.]
 
 (all sentences already above)
-
-[ZYPREXA 10 mg Powder for Solution for Injection.]
-
-Vial: 2 years.
-Solution (following reconstitution of the vial): 1 hour.
-
-[ZYPREXA 10 mg Powder and Solvent for Solution for Injection.]
-
-Vial and prefilled syringe with needle: 2 years.

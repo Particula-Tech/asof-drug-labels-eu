@@ -21,11 +21,3 @@
 [ZYPREXA 20 mg coated tablets.]
 
 (all sentences already above)
-
-[ZYPREXA 10 mg Powder for Solution for Injection.]
-
-(all sentences already above)
-
-[ZYPREXA 10 mg Powder and Solvent for Solution for Injection.]
-
-(all sentences already above)
