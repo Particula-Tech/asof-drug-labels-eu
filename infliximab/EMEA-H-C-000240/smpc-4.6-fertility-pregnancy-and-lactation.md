@@ -1,8 +1,8 @@
 # 4.6 Pregnancy and lactation
 
 For infliximab, there is no experience in pregnant women.
-Due to its inhibition of TNFα, infliximab administered during pregnancy could affect normal immune responses in the newborn.
-In a developmental toxicity study conducted in mice using an analogous antibody that selectively inhibits the functional activity of mouse TNFα, there was no indication of maternal toxicity, embryotoxicity or teratogenicity (see section 5.3).
+Due to its inhibition of TNF�, infliximab administered during pregnancy could affect normal immune responses in the newborn.
+In a developmental toxicity study conducted in mice using an analogous antibody that selectively inhibits the functional activity of mouse TNF�, there was no indication of maternal toxicity, embryotoxicity or teratogenicity (see section 5.3).
 
 Administration of infliximab is not recommended during pregnancy.
 Women of childbearing potential must use adequate contraception to prevent pregnancy and continue its use for at least 6 months after the last Remicade treatment.

@@ -8,6 +8,5 @@ Efficacy and safety have been demonstrated only in combination with methotrexate
 
 Crohn’s disease
 Remicade is indicated for:
-
-- treatment of severe, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant;
-- treatment of fistulising Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with conventional treatment.
+� treatment of severe, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with a corticosteroid and an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
+� treatment of fistulising Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with conventional treatment (including antibiotics, drainage and immunosuppressive therapy)

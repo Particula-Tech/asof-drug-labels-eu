@@ -29,7 +29,7 @@ Gently mix.
 Administer the infusion solution over a period of not less than 2 hours (at not more than 2 ml/min).
 Use only an infusion set with an in-line, sterile, non-pyrogenic, low protein-binding filter (pore size 1.2 micrometer or less).
 Since no preservative is present, it is recommended that the administration of the solution for infusion is to be started as soon as possible and within 3 hours of reconstitution and dilution.
-When reconstitution and dilution are performed under aseptic conditions, Remicade infusion solution can be used within 24 hours if stored at 2°C to 8°C.
+When reconstitution and dilution are performed under aseptic conditions, Remicade infusion solution can be used within 24 hours if stored at 2�C to 8�C.
 Do not store any unused portion of the infusion solution for reuse.
 
 5.
