@@ -20,7 +20,7 @@ In particular, sildenafil has greater than 4,000-fold selectivity for PDE5 over 
 There is a 10-fold selectivity over PDE6 which is involved in the phototransduction pathway in the retina.
 
 Two clinical studies were specifically designed to assess the time window after dosing during which sildenafil could produce an erection in response to sexual stimulation.
-In a penile plesthysmography (RigiScan) study of fasted patients, the median time to onset for those who obtained erections of 60% rigidity (sufficient for sexual intercourse) was 25 minutes (range 12-37 minutes) on sildenafil.
+In a penile plesthysmography (RigiScan) study of fasted patients, the median time to onset for those who obtained erections of 60 % rigidity (sufficient for sexual intercourse) was 25 minutes (range 12-37 minutes) on sildenafil.
 In a separate RigiScan study, sildenafil was still able to produce an erection in response to sexual stimulation 4-5 hours post-dose.
 
 Sildenafil causes mild and transient decreases in blood pressure which, in the majority of cases, do not translate into clinical effects.
@@ -38,10 +38,10 @@ There was no effect on sperm motility or morphology after single 100 mg oral dos
 Further information on clinical trials
 
 In clinical trials sildenafil was administered to more than 3000 patients aged 19-87.
-The following patient groups were represented: elderly (21%), patients with hypertension (24%), diabetes mellitus (16%), ischaemic heart disease and other cardiovascular diseases (14%), hyperlipidaemia (14%), spinal cord injury (6%), depression (5%), transurethral resection of the prostate (5%), radical prostatectomy (4%).
+The following patient groups were represented: elderly (21 %), patients with hypertension (24 %), diabetes mellitus (16 %), ischaemic heart disease and other cardiovascular diseases (14 %), hyperlipidaemia (14 %), spinal cord injury (6 %), depression (5 %), transurethral resection of the prostate (5 %), radical prostatectomy (4 %).
 The following groups were not well represented or excluded from clinical trials: patients with pelvic surgery, patients post-radiotherapy, patients with severe renal or hepatic impairment and patients with certain cardiovascular conditions (see Section 4.3 Contra-indications).
 
-In fixed dose studies, the proportions of patients reporting that treatment improved their erections were 62% (25 mg), 74% (50 mg) and 82% (100 mg) compared to 25% on placebo.
+In fixed dose studies, the proportions of patients reporting that treatment improved their erections were 62 % (25 mg), 74 % (50 mg) and 82 % (100 mg) compared to 25 % on placebo.
 In controlled clinical trials, the discontinuation rate due to sildenafil was low and similar to placebo.
-Across all trials, the proportion of patients reporting improvement on sildenafil were as follows: psychogenic erectile dysfunction (84%), mixed erectile dysfunction (77%), organic erectile dysfunction (68%), elderly (67%), diabetes mellitus (59%), ischaemic heart disease (69%), hypertension (68%), TURP (61%), radical prostatectomy (43%), spinal cord injury (83%), depression (75%).
+Across all trials, the proportion of patients reporting improvement on sildenafil were as follows: psychogenic erectile dysfunction (84 %), mixed erectile dysfunction (77 %), organic erectile dysfunction (68 %), elderly (67 %), diabetes mellitus (59 %), ischaemic heart disease (69 %), hypertension (68 %), TURP (61 %), radical prostatectomy (43 %), spinal cord injury (83 %), depression (75 %).
 The safety and efficacy of sildenafil was maintained in long term studies.
