@@ -1,9 +1,10 @@
 # 4.1 Therapeutic indications
 
-Caelyx is indicated for the treatment of:
+Caelyx is indicated:
 
-- Advanced ovarian cancer in women who have failed a first-line platinum-based chemotherapy regimen.
-- AIDS-related Kaposi’s sarcoma (KS) in patients with low CD4 counts
+- As monotherapy for patients with metastatic breast cancer, where there is an increased cardiac risk.
+- For treatment of advanced ovarian cancer in women who have failed a first-line platinum-based chemotherapy regimen.
+- For treatment of AIDS-related Kaposi’s sarcoma (KS) in patients with low CD4 counts
 
 (< 200 CD4 lymphocytes/mm3) and extensive mucocutaneous or visceral disease.
 Caelyx may be used as first-line systemic chemotherapy, or as second line chemotherapy in AIDS-KS patients with disease that has progressed with, or in patients intolerant to, prior combination systemic chemotherapy comprising at least two of the following agents: a vinca alkaloid, bleomycin and standard doxorubicin (or other anthracycline).

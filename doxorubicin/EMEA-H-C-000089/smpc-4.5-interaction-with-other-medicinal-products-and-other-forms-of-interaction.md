@@ -3,6 +3,6 @@
 No formal drug interaction studies have been conducted with Caelyx, although phase II combination trials with conventional chemotherapy agents have been conducted in patients with gynaecological malignancies.
 Exercise caution in the concomitant use of medicinal products known to interact with standard doxorubicin hydrochloride.
 Caelyx, like other doxorubicin hydrochloride preparations, may potentiate the toxicity of other anti-cancer therapies.
-During clinical trials in patients with solid tumours (including ovarian cancer) who have received concomitant cyclophosphamide or taxanes, no new additive toxicities were noted.
+During clinical trials in patients with solid tumours (including breast and ovarian cancer) who have received concomitant cyclophosphamide or taxanes, no new additive toxicities were noted.
 In patients with AIDS, exacerbation of cyclophosphamide-induced haemorrhagic cystitis and enhancement of the hepatotoxicity of 6-mercaptopurine have been reported with standard doxorubicin hydrochloride.
 Caution must be exercised when giving any other cytotoxic agents, especially myelotoxic agents, at the same time.
