@@ -11,7 +11,6 @@ The oral bioavailability of tenofovir from tenofovir disoproxil fumarate in fast
 Administration of tenofovir disoproxil fumarate with a high fat meal enhanced the oral bioavailability, with an increase in tenofovir AUC by approximately 40% and Cmax by approximately 14%.
 Following the first dose of tenofovir disoproxil fumarate in fed patients, the median Cmax in serum ranged from 213 to 375 ng/ml.
 However, administration of tenofovir disoproxil fumarate with a light meal did not have a significant effect on the pharmacokinetics of tenofovir.
-
 Distribution
 Following intravenous administration the steady-state volume of distribution of tenofovir was estimated to be approximately 800 ml/kg.
 After oral administration of tenofovir disoproxil fumarate, tenofovir is distributed to most tissues with the highest concentrations occurring in the kidney, liver and the intestinal contents (preclinical studies).
@@ -48,7 +47,6 @@ The dosing recommendations in patients with renal impairment, with increased dos
 The clinical implications of this are unknown.
 
 In patients with end-stage renal disease (ESRD) (CrCl < 10 ml/min) requiring haemodialysis, between dialysis tenofovir concentrations substantially increased over 48 hours achieving a mean Cmax of 1,032 ng/ml and a mean AUC0-48h of 42,857 ng.h/ml.
-
 It is recommended that the dosing interval for tenofovir disoproxil 245 mg (as fumarate) is modified in patients with creatinine clearance < 50 ml/min or in patients who already have ESRD and require dialysis (see 4.2).
 
 The pharmacokinetics of tenofovir in non-haemodialysis patients with creatinine clearance

@@ -34,18 +34,17 @@ Tenofovir disoproxil fumarate should be avoided in antiretroviral experienced pa
 The clinical activity of tenofovir disoproxil fumarate has not been determined against hepatitis B virus (HBV) in humans.
 It is unknown whether treatment of patients co-infected with HIV-1 and HBV will result in the development of HBV resistance to tenofovir disoproxil fumarate or other medicinal products.
 
-Clinical efficacy: The effects of tenofovir disoproxil fumarate in treatment-experienced and treatment-naïve HIV-1 infected adults have been demonstrated in trials of 48 weeks duration.
+Clinical efficacy: The effects of tenofovir disoproxil fumarate in treatment-experienced and treatment-naïve HIV-1 infected adults have been demonstrated in trials of 48 weeks duration in treatment-experienced HIV-1 infected adults.
 
 In study GS-99-907, 550 treatment-experienced patients were treated with placebo or tenofovir disoproxil 245 mg (as fumarate) for 24 weeks.
 The mean baseline CD4 cell count was 427 cells/mm3, the mean baseline plasma HIV-1 RNA was 3.4 log10 copies/ml (78% of patients had a viral load of
 < 5,000 copies/ml) and the mean duration of prior HIV treatment was 5.4 years.
 Baseline genotypic analysis of HIV isolates from 253 patients revealed that 94% of patients had HIV-1 resistance mutations associated with nucleoside reverse transcriptase inhibitors, 58% had mutations associated with protease inhibitors and 48% had mutations associated with non-nucleoside reverse transcriptase inhibitors.
-
 At week 24 the time-weighted average change from baseline in log10 plasma HIV-1 RNA levels (DAVG24) was -0.03 log10 copies/ml and -0.61 log10 copies/ml for the placebo and tenofovir disoproxil 245 mg (as fumarate) recipients (p < 0.0001).
+Patients whose HIV expressed 3 or more thymidine-analogue associated mutations (TAMs) that included either the M41L or L210W reverse transcriptase mutation showed reduced susceptibility to tenofovir disoproxil 245 mg (as fumarate) therapy.
 The virological response was substantially decreased in patients with viral strains of > 10-fold zidovudine phenotypic resistance.
 A statistically significant difference in favour of tenofovir disoproxil 245 mg (as fumarate) was seen in the time-weighted average change from baseline at week 24 (DAVG24) for CD4 count (+13 cells/mm3 for tenofovir disoproxil 245 mg (as fumarate) versus -11 cells/mm3 for placebo, p-value = 0.0008).
-The antiviral response to tenofovir disoproxil fumarate was durable through 48 weeks (DAVG48 was
--0.57 log10 copies/ml, proportion of patients with HIV-1 RNA below 400 or 50 copies/ml was 41% and 18% respectively).
+The antiviral response to tenofovir disoproxil fumarate was durable through 48 weeks (DAVG48 was -0.57 log10 copies/ml, proportion of patients with HIV-1 RNA below 400 or 50 copies/ml was 41% and 18% respectively).
 Eight (2%) tenofovir disoproxil 245 mg (as fumarate) treated patients developed the K65R mutation within the first 48 weeks.
 
 Study GS-99-903 is an ongoing 144-week, double-blind, active controlled study evaluating the efficacy and safety of tenofovir disoproxil 245 mg (as fumarate) versus stavudine when used in combination with lamivudine and efavirenz in HIV -1 infected patients naïve to antiretroviral therapy.
@@ -59,5 +58,5 @@ A consistent response to treatment with tenofovir disoproxil 245 mg (as fumarate
 
 The K65R mutation occurred in a slightly higher percentage of patients in the tenofovir disoproxil fumarate group than the active control group (2.3% versus 0.7%).
 Efavirenz or lamivudine resistance either preceded or was coincident with the development of K65R in all cases.
-Among the patients who failed with K65R in the tenofovir disoproxil fumarate group, 5/7 patients subsequently gained full virological control (< 50 copies/ml) upon switching to new regimens that included a protease inhibitor in combination with nucleoside reverse transcriptase inhibitors (NRTIs).
+Among the patients who failed with K65R in the tenofovir disoproxil fumarate group, 5/7 patients subsequently gained full virological control (< 50 copies/ml) upon switching to new regimens that included a protease inhibitor in combination with nucleoside reverse transcriptase inhibitors.
 From both the genotypic and phenotypic analyses there was no evidence for other pathways of resistance to tenofovir.

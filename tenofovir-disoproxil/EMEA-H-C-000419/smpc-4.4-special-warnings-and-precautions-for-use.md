@@ -16,6 +16,7 @@ In patients at risk for, or with a history of, renal dysfunction, and patients w
 If serum phosphate is < 1.5 mg/dl (0.48 mmol/l) or creatinine clearance is decreased to < 50 ml/min, renal function should be re-evaluated within one week.
 Consideration should be given to interrupting treatment with tenofovir disoproxil fumarate in patients with creatinine clearance decreased to
 < 50 ml/min or decreases in serum phosphate to < 1.0 mg/dl (0.32 mmol/l).
+
 Tenofovir disoproxil fumarate has not been evaluated in patients receiving nephrotoxic medicinal products (e.g. aminoglycosides, amphotericin B, foscarnet, ganciclovir, pentamidine, vancomycin, cidofovir or interleukin-2).
 Use of tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic medicinal product.
 If concomitant use of tenofovir disoproxil fumarate and nephrotoxic agents is unavoidable, renal function should be monitored weekly.
@@ -29,7 +30,7 @@ Bone toxicity, including a reduction in bone mineral density was seen in patient
 The effects of long term administration on bone metabolism and their clinical relevance are currently not known.
 If bone abnormalities are suspected then appropriate consultation should be obtained.
 
-Tenofovir disoproxil fumarate should be avoided in antiretroviral experienced patients with strains habouring the K65R mutation (see 5.1).
+Tenofovir disoproxil fumarate should be avoided in antiretroviral experienced patients with strains harbouring the K65R mutation (see 5.1).
 
 Tenofovir disoproxil fumarate has not been studied in patients over the age of 65.
 Elderly patients are more likely to have decreased renal function, therefore caution should be exercised when treating elderly patients with tenofovir disoproxil fumarate.
@@ -37,9 +38,27 @@ Elderly patients are more likely to have decreased renal function, therefore cau
 Tenofovir disoproxil fumarate has not been evaluated in patients with hepatic impairment.
 Tenofovir and tenofovir disoproxil fumarate are not metabolised by liver enzymes, so the impact of liver impairment should be limited.
 
+Lactic acidosis:Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues.
 The preclinical and clinical data suggest that the risk of occurrence of lactic acidosis, a class effect of nucleoside analogues, is low for tenofovir disoproxil fumarate.
-However, caution should be exercised when administering regimens containing nucleoside analogues and tenofovir disoproxil fumarate.
-These patients should be followed closely.
+However, as tenofovir is structurally related to nucleoside analogues, this risk cannot be excluded.
+Early symptoms (symptomatic hyperlactatemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
+Lactic acidosis has a high mortality and may be associated with pancreatitis, liver failure or renal failure.
+Lactic acidosis generally occurred after a few or several months of treatment.
+
+Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactatemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
+
+Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
+Patients co-infected with hepatitis C and treated with alpha interferon and ribavirin may constitute a special risk.
+
+Patients at increased risk should be followed closely.
+Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
+The long-term consequences of these events are currently unknown.
+Knowledge about the mechanism is incomplete.
+A connection between visceral lipomatosis and protease inhibitors and lipoatrophy and nucleoside reverse transcriptase inhibitors has been hypothesised.
+A higher risk of lipodystrophy has been associated with individual factors such as older age, and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
+Clinical examination should include evaluation for physical signs of fat redistribution.
+Consideration should be given to the measurement of fasting serum lipids and blood glucose.
+Lipid disorders should be managed as clinically appropriate (see 4.8).
 
 Co-administration of tenofovir disoproxil fumarate and didanosine resulted in increased systemic exposure to didanosine.
 Patients receiving tenofovir disoproxil fumarate and didanosine should be carefully monitored for didanosine-related adverse events including but not limited to pancreatitis and peripheral neuropathy (see 4.5).

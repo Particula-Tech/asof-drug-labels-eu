@@ -2,11 +2,13 @@
 
 Experience from Pivotal Clinical Trials:
 Assessment of adverse reactions is based on experience in two studies in 653 treatment-experienced patients receiving treatment with tenofovir disoproxil fumarate (n = 443) or placebo (n = 210) in combination with other antiretroviral medicinal products for 24 weeks and also in a double-blind comparative controlled study in which 600 treatment-naïve patients received treatment with tenofovir disoproxil 245 mg (as fumarate) (n = 299) or stavudine (n = 301) in combination with lamivudine and efavirenz for 48 weeks.
+
 Approximately one third of patients can be expected to experience adverse reactions following treatment with tenofovir disoproxil fumarate in combination with other antiretroviral agents.
 These reactions are usually mild to moderate gastrointestinal events.
 
 The adverse reactions with suspected (at least possible) relationship to treatment are listed below by body system organ class and absolute frequency.
 Frequencies are defined as very common (> 1/10) or common (> 1/100, < 1/10).
+
 Gastrointestinal system:
 Very common: diarrhoea, nausea, vomiting
 Common: flatulence
@@ -43,3 +45,7 @@ Rash
 
 Urogenital system:
 Increased creatinine, renal insufficiency, renal failure, proximal tubulopathy (including Fanconi syndrome).
+
+Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia,hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see 4.4).
+
+Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
