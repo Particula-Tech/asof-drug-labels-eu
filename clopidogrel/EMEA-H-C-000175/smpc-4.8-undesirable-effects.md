@@ -11,17 +11,17 @@ The incidence of severe cases was 1.4% for clopidogrel and 1.6% for ASA.
 In patients that received clopidogrel, gastrointestinal bleeding occurred at a rate of 2.0%, and required hospitalisation in 0.7%.
 In patients that received ASA, the corresponding rates were 2.7% and 1.1%, respectively.
 The incidence of other bleeding was higher in patients that received clopidogrel compared to ASA (7.3% vs. 6.5%).
-However, the incidence of severe events was similar in both treatment groups (0.6% vs. 0.4%).
+However, the incidence of severe events was similar in both treatment groups
+(0.6% vs. 0.4%).
 The most frequently reported events in both treatment groups were: purpura/bruising/haematoma, and epistaxis.
 Other less frequently reported events were haematoma, haematuria, and eye bleeding (mainly conjunctival).
-
 The incidence of intracranial bleeding was 0.4% in patients that received clopidogrel and 0.5% for patients that received ASA .
 
 Haematological: severe neutropaenia (<0.45 x 109/l) was observed in 4 patients (0.04%) that received clopidogrel and 2 patients (0.02%) that received ASA.
 Two of the 9599 patients who received clopidogrel and none of the 9586 patients who received ASA had neutrophil counts of zero.
 One case of aplastic anaemia occurred on clopidogrel treatment.
 
-The incidence of severe thrombocytopaenia (<80 x 109/l) was 0.2% on clopidogrel and 0.1% on ASA.
+The incidence of severe thrombocytopaenia (<80 x 109/l) was 0.2% on clopidogrel and 0.1% on ASA ; very rare cases of platelet count ≤30 x 109/l have been reported.
 
 Gastrointestinal: the overall, incidence of gastrointestinal events (e.g. abdominal pain, dyspepsia, gastritis and constipation) was significantly lower in patients treated with clopidogrel compared to ASA (27.1% vs. 29.8% ).
 In addition, the number of events resulting in early permanent discontinuation was lower in the clopidogrel group compared to ASA (3.2% vs. 4.0%).
@@ -42,3 +42,6 @@ More patients reported pruritus in the clopidogrel group compared to ASA (3.3% v
 Central and peripheral nervous system disorders : the overall incidence of central and peripheral nervous system disorders (e.g. headache, dizziness, vertigo and paraesthesia) was significantly lower in patients taking clopidogrel compared to ASA (22.3% vs. 23.8%).
 
 Hepatic and biliary disorders : the overall incidence of hepatic and biliary disorders was similar in patients treated with clopidogrel compared to ASA (3.5% vs. 3.4%).
+
+The post-marketing experience confirms the safety profile defined during the clinical development ; hypesensitivity reactions have been reported : these mainly include skin reactions (maculopapular or erythematous rash, urticaria...) and/or pruritus.
+Very rare cases of bronchospasm, angioedema or anaphylactoid reactions have been observed.
