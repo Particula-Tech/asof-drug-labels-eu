@@ -1,7 +1,7 @@
 # 4.2 Posology and method of administration
 
 Adults
-The usually effective dose is 40 mg once daily.
+The recommended dose is 40 mg once daily.
 Some patients may already benefit at a daily dose of 20 mg.
 In cases where the target blood pressure is not achieved, telmisartan dose can be increased to a maximum of 80 mg once daily.
 Alternatively, telmisartan may be used in combination with thiazide-type diuretics such as hydrochlorothiazide which has been shown to have an additive blood pressure lowering effect with telmisartan.

@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Angiotensin II Antagonists, ATC Code: C09CA07.
+Pharmacotherapeutic Group: Angiotensin II Antagonists, ATC Code: C09CA07.
 
 Telmisartan is an orally effective and specific angiotensin II receptor (type AT1) antagonist.
 Telmisartan displaces angiotensin II with very high affinity from its binding site at the AT1 receptor subtype, which is responsible for the known actions of angiotensin II.
