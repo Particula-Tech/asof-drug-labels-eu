@@ -1,4 +1,4 @@
-# 4.6 Use during pregnancy and lactation
+# 4.6 Pregnancy and lactation
 
 VIAGRA is not indicated for use by women.
 

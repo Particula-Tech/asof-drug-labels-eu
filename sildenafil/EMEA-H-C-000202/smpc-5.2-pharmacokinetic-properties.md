@@ -14,7 +14,6 @@ Distribution
 The mean steady state volume of distribution (Vss) for sildenafil is 105 l, indicating distribution into the tissues.
 Sildenafil and its major circulating N-desmethyl metabolite are both approximately 96% bound to plasma proteins.
 Protein binding is independent of total drug concentrations.
-
 In healthy volunteers receiving sildenafil (100 mg single dose), less than 0.0002% (average 188 ng) of the administered dose was present in ejaculate 90 minutes after dosing.
 
 Metabolism
@@ -30,6 +29,7 @@ Elimination
 The total body clearance of sildenafil is 41 l/h with a resultant terminal phase half life of 3-5 h. After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the faeces (approximately 80% of administered oral dose) and to a lesser extent in the urine (approximately 13% of administered oral dose).
 
 Pharmacokinetics in special patient groups
+
 Elderly
 Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 90% higher plasma concentrations of sildenafil and the active N-desmethyl metabolite compared to those seen in healthy younger volunteers (18-45 years).
 Due to age-differences in plasma protein binding, the corresponding increase in free sildenafil plasma concentration was approximately 40%.

@@ -7,20 +7,21 @@ Sildenafil metabolism is principally mediated by the cytochrome P450 (CYP) isofo
 Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance.
 
 In vivo studies:
-
 Population pharmacokinetic analysis of clinical trial data indicated a reduction in sildenafil clearance when coadministered with CYP3A4 inhibitors (such as ketoconazole, erythromycin, cimetidine).
 Although no increased incidence of adverse events was observed in these patients, when sildenafil is administered concomitantly with CYP3A4 inhibitors, a starting dose of 25 mg should be considered.
 
-Co-administration of the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500mg bid) with sildenafil (100mg single dose) resulted in a 300% (4-fold) increase in sildenafil Cmax and a 1000% (11-fold) increase in sildenafil plasma AUC.
-At 24 hours, the plasma levels of sildenafil were still approximately 200ng/ml, compared to approximately 5ng/ml when sildenafil was dosed alone.
+Coadministration of the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg bid) with sildenafil (100 mg single dose) resulted in a 300% (4-fold) increase in sildenafil Cmax and a 1000% (11-fold) increase in sildenafil plasma AUC.
+At 24 hours, the plasma levels of sildenafil were still approximately 200 ng/ml, compared to approximately 5 ng/ml when sildenafil was dosed alone.
 This is consistent with ritonavir’s marked effects on a broad range of P450 substrates.
 Sildenafil had no effect on ritonavir pharmacokinetics.
 Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is not advised (see section 4.4 Special warnings and special precautions for use) and in any event the maximum dose of sildenafil should under no circumstances exceed 25 mg within 48 hours.
 
-Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1200mg tid) with sildenafil (100mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
-Sildenafil had no effect on saquinavir pharmacokinetics (see section 4.2 Posology and Method of Administration).
+Coadministration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1200 mg tid) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
+Sildenafil had no affect on saquinavir pharmacokinetics (see section 4.2 Posology and Method of Administration).
 Stronger CYP3A4 inhibitors such as ketoconazole and itraconazole would be expected to have greater effects.
-When a single 100 mg dose of sildenafil was administered with erythromycin, a specific CYP3A4 inhibitor, at steady state (500 mg b.i.d. for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).Cimetidine (800 mg), a cytochrome P450 inhibitor and non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when coadministered with sildenafil (50 mg) to healthy volunteers.
+
+When a single 100 mg dose of sildenafil was administered with erythromycin, a specific CYP3A4 inhibitor, at steady state (500 mg b.i.d. for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
+Cimetidine (800 mg), a cytochrome P450 inhibitor and non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when coadministered with sildenafil (50 mg) to healthy volunteers.
 
 Grapefruit juice being a weak inhibitor of CYP3A4 gut wall metabolism may give rise to modest increases in plasma levels of sildenafil.
 
@@ -38,7 +39,8 @@ There are no data on the interaction of sildenafil and non-specific phosphodiest
 In vivo studies:
 No significant interactions were shown when sildenafil (50 mg) was coadministered with tolbutamide (250 mg) or warfarin (40 mg), both of which are metabolised by CYP2C9.
 
-Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid (150 mg).
+Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid
+(150 mg).
 
 Sildenafil (50 mg) did not potentiate the hypotensive effects of alcohol in healthy volunteers with mean maximum blood alcohol levels of 80 mg/dl.
 
@@ -47,15 +49,6 @@ In a specific interaction study, where sildenafil (100 mg) was coadministered wi
 The corresponding additional reduction in supine diastolic blood pressure was 7 mmHg.
 These additional blood pressure reductions were of a similar magnitude to those seen when sildenafil was administered alone to healthy volunteers (see Section 5.1 Pharmacodynamic properties).
 
-Sildenafil (100mg) did not affect the steady state pharmacokinetics of the HIV protease inhibitors, saquinavir and ritonavir, both of which are CYP3A4 substrates.
+Sildenafil (100 mg) did not affect the steady state pharmacokinetics of the HIV protease inhibitors, saquinavir and ritonavir, both of which are CYP3A4 substrates.
 
 Consistent with its known effects on the nitric oxide/cGMP pathway (see Section 5.1 Pharmacodynamic properties), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its coadministration with nitric oxide donors or nitrates in any form is therefore contra-indicated (see Section 4.3 Contra-indications).
-
-[VIAGRA 50 mg film-coated tablets]
-
-When a single 100 mg dose of sildenafil was administered with erythromycin, a specific CYP3A4 inhibitor, at steady state (500 mg b.i.d. for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
-Cimetidine (800 mg), a cytochrome P450 inhibitor and non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when coadministered with sildenafil (50 mg) to healthy volunteers.
-
-[VIAGRA 100 mg film-coated tablets]
-
-Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is not advised(see section 4.4 Special warnings and special precautions for use) and in any event the maximum dose of sildenafil should under no circumstances exceed 25 mg within 48 hours.
