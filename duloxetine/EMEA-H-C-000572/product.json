@@ -1,0 +1,16 @@
+{
+  "active_substance": "duloxetine",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000572",
+  "eu_number": "EU/1/04/296",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2004-12-17",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cymbalta",
+  "molecule": "duloxetine",
+  "molecule_name": "DULOXETINE",
+  "name": "Cymbalta",
+  "register_name": "Cymbalta",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h296.htm"
+}
