@@ -2,21 +2,21 @@
 
 Pharmacotherapeutic group: Selective immunosuppressive agents, ATC code: L04A A12.
 
-Pharmacodynamic properties: Infliximab is a chimeric human-murine monoclonal antibody that binds with high affinity to both soluble and transmembrane forms of TNF� but not to lymphotoxin � (TNFß).
-Infliximab inhibits the functional activity of TNF� in a wide variety of in vitro bioassays.
-Infliximab prevented disease in transgenic mice that develop polyarthritis as a result of constitutive expression of human TNF� and when administered after disease onset, it allowed eroded joints to heal.
-In vivo, infliximab rapidly forms stable complexes with human TNF�, a process that parallels the loss of TNF� bioactivity.
+Pharmacodynamic properties: Infliximab is a chimeric human-murine monoclonal antibody that binds with high affinity to both soluble and transmembrane forms of TNFα but not to lymphotoxin α (TNFß).
+Infliximab inhibits the functional activity of TNFα in a wide variety of in vitro bioassays.
+Infliximab prevented disease in transgenic mice that develop polyarthritis as a result of constitutive expression of human TNFα and when administered after disease onset, it allowed eroded joints to heal.
+In vivo, infliximab rapidly forms stable complexes with human TNFα, a process that parallels the loss of TNFα bioactivity.
 
-Elevated concentrations of TNF� have been found in the joints of rheumatoid arthritis patients and correlate with elevated disease activity.
+Elevated concentrations of TNFα have been found in the joints of rheumatoid arthritis patients and correlate with elevated disease activity.
 In rheumatoid arthritis, treatment with infliximab reduced infiltration of inflammatory cells into inflamed areas of the joint as well as expression of molecules mediating cellular adhesion, chemoattraction and tissue degradation.
 After infliximab treatment, patients exhibited decreased levels of serum interleukin 6 (IL-6) and C-reactive protein (CRP) compared with baseline.
 Peripheral blood lymphocytes further showed no significant decrease in number or in proliferative responses to in vitro mitogenic stimulation when compared with untreated patients’ cells.
 
-Histological evaluation of colonic biopsies, obtained before and 4 weeks after administration of infliximab, revealed a substantial reduction in detectable TNF�.
+Histological evaluation of colonic biopsies, obtained before and 4 weeks after administration of infliximab, revealed a substantial reduction in detectable TNFα.
 Infliximab treatment of Crohn’s disease patients was also associated with a substantial reduction of the commonly elevated serum inflammatory marker, CRP.
 Total peripheral white blood cell counts were minimally affected in infliximab-treated patients, although changes in lymphocytes, monocytes and neutrophils reflected shifts towards normal ranges.
 Peripheral blood mononuclear cells (PBMC) from infliximab-treated patients showed undiminished proliferative responsiveness to stimuli compared with untreated patients, and no substantial changes in cytokine production by stimulated PBMC were observed following treatment with infliximab.
-Analysis of lamina propria mononuclear cells obtained by biopsy of the intestinal mucosa showed that infliximab treatment caused a reduction in the number of cells capable of expressing TNF� and interferon�.
+Analysis of lamina propria mononuclear cells obtained by biopsy of the intestinal mucosa showed that infliximab treatment caused a reduction in the number of cells capable of expressing TNFα and interferonγ.
 Additional histological studies provided evidence that treatment with infliximab reduces the infiltration of inflammatory cells into affected areas of the intestine and the presence of inflammation markers at these sites.
 
 Clinical Efficacy
@@ -27,7 +27,7 @@ The safety and efficacy of infliximab were assessed at 30, 54 and 102 weeks in a
 Approximately 50% of patients were in functional Class III.
 Patients received placebo, 3 mg/kg or 10 mg/kg infliximab at weeks 0, 2 and 6, and then every 4 or 8 weeks thereafter.
 All patients were on stable methotrexate doses (median 15 mg/wk) for 6 months prior to enrolment and were to remain on stable doses throughout the study.
-Concurrent use of stable doses of oral corticosteroids (� 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted, and folate supplementation was given.
+Concurrent use of stable doses of oral corticosteroids (≤ 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted, and folate supplementation was given.
 
 The primary endpoints were the reduction of signs and symptoms as assessed by the American College of Rheumatology criteria, the prevention of structural joint damage, and the improvement in physical function.
 A reduction in signs and symptoms was defined to be at least a 20% improvement (ACR20) in both tender and swollen joint counts, and in 3 of the following 5 criteria: evaluator’s global assessment, patient’s global assessment, functional/disability measure, visual analogue pain scale and erythrocyte sedimentation rate or C-reactive protein.
@@ -53,7 +53,7 @@ Patients evaluated (%)c (17%) (42%) (48%) (59%) (59%) (52%)
 
 Total scored (van der Heijde-modified
 Sharp score)
-Change from baseline (Mean � SDc ) 7.0 ± 10.3 1.3 ± 6.0 1.6 ± 8.5 0.2 ± 3.6 -0.7 ± 3.8 0.6 ± 5.9
+Change from baseline (Mean ± SDc ) 7.0 ± 10.3 1.3 ± 6.0 1.6 ± 8.5 0.2 ± 3.6 -0.7 ± 3.8 0.6 ± 5.9
 
 Medianc 4.0 0.5 0.1 0.5 -0.5 0.0
 (Interquartile range) (0.5,9.7) (-1.5,3.0) (-2.5,3.0) (-1.5,2.0) (-3.0,1.5) (-1.8,2.0)
@@ -68,21 +68,21 @@ HAQ change from baseline over timee
 
 (patients evaluated)
 
-Mean � SDc 0.2 ± 0.3 0.4 ± 0.3 0.5 ± 0.4 0.5 ± 0.5 0.4 ± 0.4 0.4 ± 0.4
+Mean ± SDc 0.2 ± 0.3 0.4 ± 0.3 0.5 ± 0.4 0.5 ± 0.5 0.4 ± 0.4 0.4 ± 0.4
 
 a: control = All patients had active RA despite treatment with stable methotrexate doses for 6 months prior to enrolment and were to remain on stable doses throughout the study.
-Concurrent use of stable doses of oral corticosteroids (� 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted, and folate supplementation was given.
+Concurrent use of stable doses of oral corticosteroids (≤ 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted, and folate supplementation was given.
 b: all infliximab doses given in combination with methotrexate and folate with some on corticosteroids and/or non-steroidal anti-inflammatory drugs c: p < 0.001, for each infliximab treatment group vs. control d: greater values indicate more joint damage.
 e: HAQ = Health Assessment Questionnaire; greater values indicate less disability.
 
 Crohn’s disease
 
-The safety and efficacy of a single dose treatment with infliximab were assessed in 108 patients with active Crohn’s disease (Crohn’s Disease Activity Index (CDAI) � 220 � 400) in a randomised, double-blinded, placebo-controlled, dose-response study.
+The safety and efficacy of a single dose treatment with infliximab were assessed in 108 patients with active Crohn’s disease (Crohn’s Disease Activity Index (CDAI) ≥ 220 ≤ 400) in a randomised, double-blinded, placebo-controlled, dose-response study.
 Of these 108 patients, 27 were treated with the recommended dosage of infliximab 5 mg/kg.
 All patients had experienced an inadequate response to prior conventional therapies.
 Concurrent use of stable doses of conventional therapies was permitted, and 92% of patients continued to receive these medications.
 
-The primary endpoint was the proportion of patients who experienced a clinical response, defined as a decrease in CDAI by � 70 points from baseline at the 4-week evaluation and without an increase in Crohn’s disease medications or surgery for Crohn’s disease.
+The primary endpoint was the proportion of patients who experienced a clinical response, defined as a decrease in CDAI by ≥ 70 points from baseline at the 4-week evaluation and without an increase in Crohn’s disease medications or surgery for Crohn’s disease.
 Patients who responded at week 4 were followed to week 12.
 Secondary endpoints included the proportion of patients in clinical remission at week 4 (CDAI < 150) and clinical response over time.
 
@@ -92,7 +92,7 @@ A response was observed within 2 weeks, with a maximum response at 4 weeks.
 At the last observation at 12 weeks, 13/27 (48%) of infliximab-treated patients were still responding.
 
 The safety and efficacy of repeated infusions with infliximab was studied in a 1-year trial.
-A total of 573 patients with active Crohn’s disease (CDAI � 220 � 400) received a single infusion of 5 mg/kg at week 0.
+A total of 573 patients with active Crohn’s disease (CDAI ≥ 220 ≤ 400) received a single infusion of 5 mg/kg at week 0.
 Sixty-eight of these patients (12%) belonged to the population defined in the indication (see section 4.1).
 Three hundred and thirty-five patients (58%) responding to the 5 mg/kg infusion at week 2 were randomised to one of three treatment groups; a placebo maintenance group, 5 mg/kg maintenance group and 10 mg/kg maintenance group, receiving repeated infusions at week 2, 6 and every eight weeks.
 
@@ -109,7 +109,7 @@ Approximately 93% of the patients had previously received antibiotic or immunosu
 Concurrent use of stable doses of conventional therapies was permitted, and 83% of patients continued to receive at least one of these medications.
 Patients received three doses of either placebo or infliximab at weeks 0, 2 and 6.
 Patients were followed up to 26 weeks.
-The primary endpoint was the proportion of patients who experienced a clinical response, defined as � 50% reduction from baseline in the number of fistulae draining upon gentle compression on at least two consecutive visits (4 weeks apart), without an increase in medication or surgery for Crohn’s disease.
+The primary endpoint was the proportion of patients who experienced a clinical response, defined as ≥ 50% reduction from baseline in the number of fistulae draining upon gentle compression on at least two consecutive visits (4 weeks apart), without an increase in medication or surgery for Crohn’s disease.
 
 Sixty-eight percent (21/31) of infliximab-treated patients receiving a 5 mg/kg dose regimen achieved a clinical response vs. 26% (8/31) placebo-treated patients (p = 0.002).
 The median time to onset of response in the infliximab-treated group was 2 weeks.

@@ -74,7 +74,10 @@ Rare: Opportunistic infections (such as tuberculosis, atypical mycobacteria, pne
 Very Rare: Salmonellosis
 Respiratory
 Rare: Interstitial pneumonitis/fibrosis
-
+Immune
+Rare: Serum sickness
+Cardiac
+Very rare: Pericardial effusion
 Infusion-related reactions: An infusion-related reaction was defined in clinical trials as any adverse event occurring during an infusion or within 1 to 2 hours after an infusion.
 In clinical studies, 20% of infliximab-treated patients compared with 9% of placebo-treated patients experienced an infusion-related effect.
 Among all Remicade infusions, approximately 3% of infliximab infusions were accompanied by non-specific symptoms such as fever or chills, <1% were accompanied by pruritus or urticaria, 1% were accompanied by cardiopulmonary reactions (primarily chest pain, hypotension, hypertension or dyspnoea), and 0.1% were accompanied by combined symptoms of pruritus/urticaria and cardiopulmonary reactions.

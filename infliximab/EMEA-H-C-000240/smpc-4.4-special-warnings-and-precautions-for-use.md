@@ -29,10 +29,10 @@ Patients must be monitored closely for infections including tuberculosis before,
 Because the elimination of infliximab may take up to six months, monitoring should be continued throughout this period.
 Further treatment with Remicade must not be given if a patient develops a serious infection or sepsis.
 
-Tumour necrosis factor alpha (TNF�) mediates inflammation and modulates cellular immune responses.
-Experimental data show that TNF� is essential for the clearing of intracellular infections.
+Tumour necrosis factor alpha (TNFα) mediates inflammation and modulates cellular immune responses.
+Experimental data show that TNFα is essential for the clearing of intracellular infections.
 Clinical experience shows that host defence against infection is compromised in some patients treated with infliximab.
-It should be noted that suppression of TNF� may also mask symptoms of infection such as fever.
+It should be noted that suppression of TNFα may also mask symptoms of infection such as fever.
 Opportunistic infections and other infections including sepsis have been reported in patients treated with infliximab; some of these infections have been fatal.
 
 Cases of active tuberculosis including miliary tuberculosis and tuberculosis with extrapulmonary location have been reported in patients treated with Remicade.
@@ -52,23 +52,22 @@ Patients with fistulising Crohn’s disease with acute suppurative fistulas shou
 All patients should be informed to seek medical advice if signs / symptoms suggestive of tuberculosis (e.g. persistent cough, wasting / weight loss, low-grade fever) appear during or after Remicade treatment.
 
 Concurrent administration of TNF-alpha inhibitor and anakinra
-Concurrent administration of etanercept (another agent that inhibits TNF�) and anakinra
+Concurrent administration of etanercept (another agent that inhibits TNFα) and anakinra
 (a recombinant, non-glycosylated form of the human interleukin-1 receptor antagonist) has been associated with an increased risk of serious infections, an increased risk of neutropenia and no additional benefit compared to these medicinal products alone.
 The safety and efficacy of anakinra used in combination with infliximab has not been established.
 Therefore, combination of infliximab and anakinra is not recommended.
 
 Autoimmune processes
-The relative deficiency of TNF� caused by anti-TNF therapy may result in the initiation of an autoimmune process.
+The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Remicade and is positive for antibodies against double-stranded DNA, further treatment with Remicade must not be given (see section 4.8: “Anti-nuclear antibodies (ANA)/Double-stranded DNA (dsDNA) antibodies”).
 
 Neurological events
-Infliximab and other agents that inhibit TNF� have been associated in rare cases with optic neuritis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disorders, including multiple sclerosis.
+Infliximab and other agents that inhibit TNFα have been associated in rare cases with optic neuritis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disorders, including multiple sclerosis.
 In patients with pre-existing or recent onset of central nervous system demyelinating disorders, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
 
 Malignancies and lymphoproliferative disorders
 It is unknown if exposure to infliximab can increase the risk of developing these disorders
 (see section 4.8).
-
 Heart failure
 Remicade should be used with caution in patients with mild heart failure (NYHA class I/II).
 Patients should be closely monitored and Remicade must not be continued in patients who develop new or worsening symptoms of heart failure (see sections 4.3 and 4.8).

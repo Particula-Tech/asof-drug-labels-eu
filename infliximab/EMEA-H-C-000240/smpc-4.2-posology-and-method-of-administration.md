@@ -14,13 +14,16 @@ Rheumatoid arthritis
 3 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 3 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 Remicade must be given concomitantly with methotrexate.
 
+Available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
+Continued therapy should be carefully reconsidered in a patient not responding within this time period.
+
 Severe, active Crohn’s disease
 5 mg/kg given as an intravenous infusion over a 2-hour period.
 Available data do not support further infliximab treatment, in patients not responding within 2 weeks to the initial infusion.
 In responding patients, the alternative strategies for continued treatment are:
 
-� Maintenance: Additional infusions of 5 mg/kg at 2 and 6 weeks after the initial dose, followed by infusions every 8 weeks or
-� Readministration: Infusion of 5 mg/kg if signs and symptoms of the disease recur (see ‘Readministration’ below and section 4.4).
+- Maintenance: Additional infusions of 5 mg/kg at 2 and 6 weeks after the initial dose, followed by infusions every 8 weeks or
+- Readministration: Infusion of 5 mg/kg if signs and symptoms of the disease recur (see ‘Readministration’ below and section 4.4).
 
 Fistulising, active Crohn’s disease
 An initial 5 mg/kg infusion given over a 2-hour period is to be followed with additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion.
@@ -28,8 +31,8 @@ If a patient does not respond after these 3 doses, no additional treatment with 
 
 In responding patients, the strategies for continued treatment are:
 
-� Additional infusions of 5 mg/kg every 8 weeks or
-� Readministration if signs and symptoms of the disease recur followed by infusions of 5 mg/kg every 8 weeks (see ‘Readministration’ below and section 4.4).
+- Additional infusions of 5 mg/kg every 8 weeks or
+- Readministration if signs and symptoms of the disease recur followed by infusions of 5 mg/kg every 8 weeks (see ‘Readministration’ below and section 4.4).
 
 In Crohn’s disease, experience with readministration if signs and symptoms of disease recur is limited and comparative data on the benefit / risk of the alternative strategies for continued treatment are lacking.
 
