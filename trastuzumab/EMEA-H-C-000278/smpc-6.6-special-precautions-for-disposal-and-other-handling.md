@@ -9,6 +9,7 @@ A volume overage of 4% ensures that the labelled dose of 150 mg can be withdrawn
 
 Herceptin should be carefully handled during reconstitution.
 Causing excessive foaming during reconstitution or shaking the reconstituted Herceptin may result in problems with the amount of Herceptin that can be withdrawn from the vial.
+
 Instructions for Reconstitution:
 1) Using a sterile syringe, slowly inject 7.2 ml of sterile water for injections in the vial containing the lyophilised Herceptin, directing the stream into the lyophilised cake.
 2) Swirl vial gently to aid reconstitution.
@@ -18,10 +19,10 @@ Slight foaming of the product upon reconstitution is not unusual.
 Allow the vial to stand undisturbed for approximately 5 minutes.
 The reconstituted Herceptin results in a colourless to pale yellow transparent solution and should be essentially free of visible particulates.
 
-Determine the volume of the solution required based on a loading dose of
-4 mg trastuzumab/kg body weight, or a subsequent weekly dose of 2 mg trastuzumab/kg body weight:
+Determine the volume of the solution required based on a loading dose of 4 mg trastuzumab/kg body weight, or a subsequent weekly dose of 2 mg trastuzumab/kg body weight:
 
-Volume (ml) = Body weight (kg) x dose (4 mg/kg for loading or 2 mg/kg for maintenance) 21 (mg/ml, concentration of reconstituted solution)
+Volume (ml) = Body weight (kg) x dose (4 mg/kg for loading or 2 mg/kg for maintenance)
+21 (mg/ml, concentration of reconstituted solution)
 
 The appropriate amount of solution should be withdrawn from the vial and added to an infusion bag containing 250 ml of 0.9% sodium chloride solution.
 Do not use with glucose-containing solutions (see 6.2 Incompatibilities).

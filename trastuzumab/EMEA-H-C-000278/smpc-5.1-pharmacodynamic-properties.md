@@ -3,10 +3,9 @@
 Pharmacotherapeutic group: Antineoplastic agents, ATC code: L01XC03
 
 Trastuzumab is a recombinant humanised IgG1 monoclonal antibody against the human epidermal growth factor receptor 2 (HER2).
-Overexpression of HER2 is observed in 20%– 30% of primary breast cancers.
+Overexpression of HER2 is observed in 20%–30% of primary breast cancers.
 Studies indicate that patients whose tumours overexpress HER2 have a shortened disease-free survival compared to patients whose tumours do not overexpress HER2.
 The extracellular domain of the receptor (ECD, p105) can be shed into the blood stream and measured in serum samples.
-
 Trastuzumab has been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumour cells that overexpress HER2.
 Additionally, trastuzumab is a potent mediator of antibody-dependent cell-mediated cytotoxicity (ADCC).
 In vitro, trastuzumab-mediated ADCC has been shown to be preferentially exerted on HER2 overexpressing cancer cells compared with cancer cells that do not overexpress HER2.
@@ -42,19 +41,20 @@ This investigative clinical trial assay performed in a central laboratory utilis
 Patients classified as staining 2+ or 3+ were included, while those staining 0 or 1+ were excluded.
 Greater than 70% of patients enrolled exhibited 3+ overexpression.
 The data suggest that beneficial effects were greater among those patients with higher levels of overexpression of HER2 (3+).
+
 The efficacy results from the monotherapy and combination therapy studies are summarised in the following table:
 
 Efficacy in HER2 overexpressing Patients (3+ by IHC): Median (95%CI)
 
-| Parameter | Combination Therapy |  | Monotherap y |
+| Parameter | Combination Therapy |  | Monotherapy |
 | --- | --- | --- | --- |
 |  | H+P N=68 | P N=77 | H N=172 |
 | Median duration of response (months) | 8.3 (7.3-8.8) | 4.6 (3.7-7.4) | 9.1 (5.6-10.3) |
 | Median TTP (months) | 7.1 (6.2-12.0) | 3.0 (2.0-4.4) | 3.2 (2.6-3.5) |
 | Median Survival (months) | 24.8 (18.6-33.7) | 17.9 (11.2-23.8) | 16.4 (12.3-ne) |
-| Response rate (%) | 49% (36 - 61) | 17% (9 - 27) | 18% (13 - 25) |
+| Response rate (%) | 49% (36 – 61) | 17% (9 – 27) | 18% (13 – 25) |
 
-TTP = time to progression; "ne" indicates that it could not be estimated or it was not yet reached.
+TTP = time to progression; “ne” indicates that it could not be estimated or it was not yet reached.
 
 Immunogenicity
 All except two patients in the two pivotal trials have been evaluated for antibody production.

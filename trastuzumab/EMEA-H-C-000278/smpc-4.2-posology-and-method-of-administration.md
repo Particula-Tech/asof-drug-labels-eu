@@ -4,6 +4,7 @@ HER2 testing is mandatory prior to initiation of Herceptin therapy (see 4.4 Spec
 Herceptin treatment should only be initiated by a physician experienced in the administration of cytotoxic chemotherapy (see 4.4 Special warnings and special precautions for use).
 
 The following loading and subsequent doses are recommended for monotherapy and in combination with paclitaxel.
+
 Loading dose
 The recommended initial loading dose of Herceptin is 4 mg/kg body weight.
 
@@ -37,6 +38,7 @@ Special patient populations
 Clinical data show that the disposition of Herceptin is not altered based on age or serum creatinine (see 5.2 Pharmacokinetic properties).
 In clinical trials, elderly patients did not receive reduced doses of Herceptin.
 Dedicated pharmacokinetic studies in the elderly and those with renal or hepatic impairment have not been carried out.
+However in a population pharmacokinetic analysis, age and renal impairment were not shown to affect trastuzumab disposition.
 
 Paediatric use
 The safety and efficacy of Herceptin in patients under the age of 18 years have not been established.
