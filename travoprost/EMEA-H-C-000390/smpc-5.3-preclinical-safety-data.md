@@ -21,11 +21,13 @@ In pregnant rat, systemic administration of travoprost at doses more than 200 ti
 Low levels of radioactivity were measured in amniotic fluid and foetal tissues of pregnant rats administered 3H-travoprost.
 Reproduction and development studies have demonstrated a potent effect on foetal loss with a high rate observed in rats and mice (180 pg/ml and 30 pg/ml plasma, respectively) at exposures 1.2 to 6 times the clinical exposure (up to 25 pg/ml).
 
-In ocular toxicity studies in monkeys, administration of travoprost at a dose of 0.45 microgram, twice a day, was shown to induce increased palpebral fissure.
+In ocular toxicity studies in monkeys, administration of travoprost at a dose of
+0.45 microgram, twice a day, was shown to induce increased palpebral fissure.
 
 Carcinogenicity
 Two year bioassays, in which rats and mice were dosed with travoprost by subcutaneous injection at doses up to 100 micrograms/kg/day (2,500 times the clinical dose), revealed no evidence of carcinogenic effect.
 Occasional significance of some statistical tumour analyses were observed, but were considered to be incidental, and not related to treatment with travoprost.
+
 Mutagenicity
 Travoprost was not mutagenic in bacteria, in one mouse lymphoma assay, in the mouse micronucleus tests nor in the rat chromosome aberration assay.
 In another mouse lymphoma assay, mutagenicity was equivocal in one of two replicates in the presence, but not in the absence, of activation enzymes.
