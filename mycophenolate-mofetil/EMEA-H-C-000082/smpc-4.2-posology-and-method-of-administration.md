@@ -44,6 +44,28 @@ Renal transplant rejection does not lead to changes in MPA pharmacokinetics; dos
 There is no basis for CellCept dose adjustment following cardiac transplant rejection.
 No pharmacokinetic data are available during hepatic transplant rejection.
 
+[CellCept 500 mg powder for concentrate for solution for infusion.]
+
+CAUTION: CELLCEPT I.V.
+SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
+
+CellCept 500 mg powder for concentrate for solution for infusion is an alternative dosage form to CellCept oral forms (capsules, tablets and powder for oral suspension) that may be administered for up to 14 days.
+The initial dose of CellCept 500 mg powder for concentrate for solution for infusion should be given within 24 hours following transplantation.
+
+Following reconstitution to a concentration of 6 mg/ml, CellCept 500 mg powder for concentrate for solution for infusion must be administered by slow intravenous infusion over a period of 2 hours by either a peripheral or a central vein (see section 6.6 Instructions for use and handling, and disposal).
+
+Use in renal transplant: the recommended dose in renal transplant patients is 1.0 g administered twice daily (2 g daily dose).
+
+Use in hepatic transplant: the recommended dose of CellCept for infusion in hepatic transplant patients is 1.0 g administered twice daily (2 g daily dose).
+IV CellCept should continue for the first 4 days following hepatic transplant, with oral CellCept initiated as soon after this as it can be tolerated.
+The recommended dose of oral CellCept in hepatic transplant patients is 1.5 g administered twice daily (3 g daily dose).
+Use in children: safety and efficacy of CellCept for infusion in paediatric patients have not been established.
+No pharmacokinetic data with CellCept for infusion are available for paediatric renal transplant patients.
+No pharmacokinetic data are available for paediatric patients following hepatic transplants.
+Use in elderly (≥ 65 years): the recommended dose of 1.0 g administered twice a day for renal or hepatic transplant patients is appropriate for the elderly.
+
+No data are available for hepatic transplant patients with severe chronic renal impairment.
+
 [CellCept 1 g/5 ml powder for oral suspension.]
 
 Adults: oral CellCept 1 g/5 ml powder for oral suspension should be initiated within 72 hours following transplantation.
