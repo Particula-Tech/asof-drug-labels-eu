@@ -48,10 +48,10 @@ Central and peripheral nervous system
 
 Common: dizziness
 Uncommon: headache, vertigo
-
 Vision disorders
 
 Uncommon: vision abnormal
+
 Gastrointestinal system
 
 Common: flatulence

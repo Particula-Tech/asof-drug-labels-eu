@@ -1,6 +1,5 @@
 # 4.2 Posology and method of administration
 
-Treatment should only be initiated by a physician experienced in the treatment of type 2 diabetes.
 Experience from clinical trials with pioglitazone is currently limited to 18 months.
 The long-term benefits of therapy with pioglitazone have not been demonstrated (see section 5.1).
 
