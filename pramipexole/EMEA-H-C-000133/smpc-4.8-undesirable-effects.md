@@ -18,4 +18,6 @@ SIFROL is associated with somnolence and has been associated uncommonly with exc
 
 SIFROL may be associated with libido disorders (increase or decrease).
 
+As described in literature for dopamine agonists used for treatment of Parkinson’s disease, patients treated with Sifrol, especially at high doses, have been reported as showing pathological gambling, generally reversible upon treatment discontinuation.
+
 See also 4.4.
