@@ -1,1 +1,3 @@
-# 8. Marketing authorisation number
+# 8. NUMBER(S) IN THE COMMUNITY REGISTER OF MEDICINAL PRODUCTS
+
+EU/1/96/016/001

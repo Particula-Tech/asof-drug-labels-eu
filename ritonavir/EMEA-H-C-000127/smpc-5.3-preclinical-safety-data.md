@@ -7,7 +7,9 @@ Ultrastructural evidence suggests that these retinal changes may be secondary to
 However, clinical trials revealed no evidence of drug-induced ocular changes in humans.
 All thyroid changes were reversible upon discontinuation of drug.
 Clinical investigation in humans has revealed no clinically significant alteration in thyroid function tests.
-Renal changes including tubular degeneration, chronic inflammation and proteinurea were noted in rats and are felt to be attributable to species-specific spontaneous disease.
+Renal changes including tubular degeneration, chronic inflammation and proteinurea were noted in rats and are felt to be attributable to
+
+X species-specific spontaneous disease.
 Furthermore, no clinically significant renal abnormalities were noted in clinical trials.
 
 Long-term carcinogenicity studies of ritonavir in animal systems have not been completed.
