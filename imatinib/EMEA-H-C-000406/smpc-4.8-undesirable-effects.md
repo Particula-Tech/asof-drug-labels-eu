@@ -1,22 +1,22 @@
 # 4.8 Undesirable effects
 
-Patients with advanced stages of CML or malignant GIST may have numerous confounding medical conditions that make causality of adverse events difficult to assess due to the variety of symptoms related to the underlying disease, its progression, and the co-administration of numerous medicinal products.
+Patients with advanced stages of CML or malignant GIST may have numerous confounding medical conditions that make causality of adverse events difficult to assess due to the variety of symptoms related to the underlying disease, its progression, and the co-administration of numerous medications.
 
-In clinical trials drug discontinuation for drug-related adverse reactions was observed in only 1% of patients in chronic phase, 2% of patients in accelerated phase and 5% of blast crisis patients.
-In GIST the study drug was discontinued for drug-related adverse reactions in 3% of patients.
+In clinical trials drug discontinuation for drug-related adverse events was observed in only 1% of patients in chronic phase, 2% of patients in accelerated phase and 5% of blast crisis patients.
+In GIST the study drug was discontinued for drug-related adverse events in 3% of patients.
 
 The adverse reactions were similar in CML and GIST patients, with two exceptions.
 There was more myelosuppression seen in CML patients than in GIST, which is probably due to the underlying disease.
 In the GIST clinical trial, 7 (5%) patients experienced CTC grade 3/4 GI bleeds (3 patients), intra-tumoural bleeds (3 patients) or both (1 patient).
 GI tumour sites may have been the source of the GI bleeds (see section 4.4).
 GI and tumoural bleeding may be serious and sometimes fatal.
-The most commonly reported (≥10%) drug-related adverse reactions in both settings were mild nausea, vomiting, diarrhoea, abdominal pain, fatigue, myalgia, muscle cramps and rash.
+The most commonly reported (≥ 10%) drug-related adverse events in both settings were mild nausea, vomiting, diarrhoea, abdominal pain, fatigue, myalgia, muscle cramps and rash.
 Superficial oedemas were a common finding in all studies and were described primarily as periorbital or lower limb oedemas.
 However, these oedemas were rarely severe and may be managed with diuretics, other supportive measures, or by reducing the dose of Glivec.
 
-Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and rapid weight gain with or without superficial oedema may be collectively described as “fluid retention”.
-These reactions can usually be managed by withholding Glivec temporarily and with diuretics and other appropriate supportive care measures.
-However, some of these reactions may be serious or life-threatening and several patients with blast crisis died with a complex clinical history of pleural effusion, congestive heart failure and renal failure.
+Miscellaneous adverse events such as pleural effusion, ascites, pulmonary oedema and rapid weight gain with or without superficial oedema may be collectively described as “fluid retention”.
+These events can usually be managed by withholding Glivec temporarily and/or with diuretics and/or other appropriate supportive care measures.
+However, a few of these events may be serious or life-threatening and several patients with blast crisis died with a complex clinical history of pleural effusion, congestive heart failure and renal failure.
 There were no special safety findings in paediatric clinical trials.
 
 Adverse reactions
@@ -29,7 +29,7 @@ Frequencies are defined as: very common (> 1/10), common (> 1/100, ≤ 1/10), un
 | Blood and lymphatic system disorders | Neutropenia, thrombocytopenia, anaemia | Febrile neutropenia | Pancytopenia, bone marrow depression |  |
 | Metabolism and nutrition disorders |  | Anorexia | Dehydration, hyperuricaemia, hypokalaemia, appetite increased, appetite decreased, gout, hypophosphataemia | Hyperkalaemia, hyponatraemia |
 | Psychiatric disorders |  |  | Depression, anxiety, libido decreased | Confusion |
-| Nervous system disorders | Headache | Dizziness, taste disturbance, paraesthesia, insomnia | Cerebral haemorrhage, syncope, peripheral neuropathy, hypoaesthesia, somnolence, migraine, memory impairment, | Cerebral oedema, increased intracranial pressure, convulsions |
+| Nervous system disorders | Headache | Dizziness, taste disturbance, paraesthesia, insomnia | Cerebral haemorrhage, syncope, peripheral neuropathy, hypoaesthesia, somnolence, migraine, memory impairment | Cerebral oedema, increased intracranial pressure, convulsions |
 | Eye disorders |  | Conjunctivitis, lacrimation increased, vision blurred | Eye irritation, conjunctival haemorrhage, dry eye, orbital oedema | Macular oedema, papilloedema, retinal haemorrhage, vitreous haemorrhage, glaucoma |
 | Ear and labyrinth disorders |  |  | Vertigo, tinnitus |  |
 | Cardiac disorders |  |  | Cardiac failure, pulmonary oedema, tachycardia | Pericardial effusion, pericarditis |
@@ -38,20 +38,11 @@ Frequencies are defined as: very common (> 1/10), common (> 1/100, ≤ 1/10), un
 | Gastrointestinal disorders | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain | Abdominal distension, flatulence, constipation, gastro-oesophageal reflux, mouth ulceration | Gastrointestinal haemorrhage, melaena, ascites, gastric ulcer, gastritis, eructation, dry mouth | Colitis, ileus, intestinal obstruction, pancreatitis |
 | Hepato-biliary disorders |  | Increased hepatic enzymes | Jaundice, hepatitis, hyperbilirubinaemia | Hepatic failure |
 | Skin and subcutaneous tissue disorders | Periorbital oedema, dermatitis/eczema/ rash | Face oedema, eyelid oedema, pruritus, erythema, dry skin, alopecia, night sweats | Petechiae, contusion, sweating increased, urticaria, onychoclasis, photosensitivity reaction, purpura, hypotrichosis, cheilitis, skin hyperpigmentation, skin hypopigmentation, psoriasis, exfoliative dermatitis and bullous eruptions | Angioedema, vesicular rash, Stevens-Johnson syndrome |
-| Musculoskeletal, connective tissue and bone disorders | Muscle spasm and cramps, musculoskeletal pain, including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness |  |
+| Musculoskeletal, connective tissue and bone disorders | Muscle spasm and cramps, musculoskeletal pain including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness |  |
 | Renal and urinary disorders |  |  | Renal failure, renal pain, urinary frequency increased, haematuria |  |
 | Reproductive system and breast disorders |  |  | Gynaecomastia, breast enlargement, scrotal oedema, menorrhagia, nipple pain, sexual dysfunction |  |
 | General disorders and administration site conditions | Fluid retention and oedema, fatigue | Pyrexia, weakness, rigors | Malaise, haemorrhage | Anasarca, tumour haemorrhage, tumour necrosis |
-| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood |  |
-
-creatinine increased,
-weight decreased,
-blood creatine
-phosphokinase
-increased, blood
-lactate
-dehydrogenase
-increased
+| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood creatinine increased, weight decreased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased |  |
 
 Laboratory test abnormalities
 Haematology
@@ -70,9 +61,11 @@ The decreases in white blood cell (WBC) and neutrophil counts occurred mainly du
 Biochemistry
 Severe elevation of transaminases or bilirubin was uncommon (< 4% of patients) and was usually managed with dose reduction or interruption (the median duration of these episodes was approximately one week).
 Treatment was discontinued permanently because of liver laboratory abnormalities in less than 0.5% of patients.
-There have been cases of cytolytic and cholestatic hepatitis and hepatic failure; in some of them outcome was fatal.
+There have been cases of cytolytic and cholestatic hepatitis and hepatic failure; in some of them outcome was fatal, including one patient on high dose paracetamol.
 
-[Glivec 400 mg film-coated tablets]
+[GLIVEC 100 mg capsules, hard]
+
+Frequencies are defined as: very common (> 1/10), common (> 1/100, ≤ 1/10), uncommon (> 1/1,000, ≤ 1/100), rare (< 1/1,000)
 
 |  | Very Common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
@@ -80,7 +73,7 @@ There have been cases of cytolytic and cholestatic hepatitis and hepatic failure
 | Blood and lymphatic system disorders | Neutropenia, thrombocytopenia, anaemia | Febrile neutropenia | Pancytopenia, bone marrow depression |  |
 | Metabolism and nutrition disorders |  | Anorexia | Dehydration, hyperuricaemia, hypokalaemia, appetite increased, appetite decreased, gout, hypophosphataemia | Hyperkalaemia, hyponatraemia |
 | Psychiatric disorders |  |  | Depression, anxiety, libido decreased | Confusion |
-| Nervous system disorders | Headache | Dizziness, taste disturbance, paraesthesia, insomnia | Cerebral haemorrhage, syncope, peripheral neuropathy, hypoaesthesia, somnolence, migraine, memory impairment, | Cerebral oedema, increased intracranial pressure, convulsions |
+| Nervous system disorders | Headache | Dizziness, taste disturbance, paraesthesia , insomnia | Cerebral haemorrhage, syncope, peripheral neuropathy, hypoaesthesia, somnolence, migraine, memory impairment | Cerebral oedema, increased intracranial pressure, convulsions |
 | Eye disorders |  | Conjunctivitis, lacrimation increased, vision blurred | Eye irritation, conjunctival haemorrhage, dry eye, orbital oedema | Macular oedema, papilloedema, retinal haemorrhage, vitreous haemorrhage, glaucoma |
 | Ear and labyrinth disorders |  |  | Vertigo, tinnitus |  |
 | Cardiac disorders |  |  | Cardiac failure, pulmonary oedema, tachycardia | Pericardial effusion, pericarditis |
@@ -93,4 +86,44 @@ There have been cases of cytolytic and cholestatic hepatitis and hepatic failure
 | Renal and urinary disorders |  |  | Renal failure, renal pain, urinary frequency increased, haematuria |  |
 | Reproductive system and breast disorders |  |  | Gynaecomastia, breast enlargement, scrotal oedema, menorrhagia, nipple pain, sexual dysfunction |  |
 | General disorders and administration site conditions | Fluid retention and oedema, fatigue | Pyrexia, weakness, rigors | Malaise, haemorrhage | Anasarca, tumour haemorrhage, tumour necrosis |
-| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood creatinine increased, weight decreased, blood creatine phosphokinase increased, blood |  |
+| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood creatinine increased, weight decreased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased |  |
+
+[Glivec 100 mg film-coated tablets]
+
+Patients with advanced stages of CML or malignant GIST may have numerous confounding medical conditions that make causality of adverse events difficult to assess due to the variety of symptoms related to the underlying disease, its progression, and the co-administration of numerous medicinal products.
+
+In clinical trials drug discontinuation for drug-related adverse reactions was observed in only 1% of patients in chronic phase, 2% of patients in accelerated phase and 5% of blast crisis patients.
+In GIST the study drug was discontinued for drug-related adverse reactions in 3% of patients.
+
+The most commonly reported (≥ 10%) drug-related adverse reactions in both settings were mild nausea, vomiting, diarrhoea, abdominal pain, fatigue, myalgia, muscle cramps and rash.
+
+Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and rapid weight gain with or without superficial oedema may be collectively described as “fluid retention”.
+These reactions can usually be managed by withholding Glivec temporarily and with diuretics and other appropriate supportive care measures.
+However, some of these reactions may be serious or life-threatening and several patients with blast crisis died with a complex clinical history of pleural effusion, congestive heart failure and renal failure.
+
+|  | Very Common | Common | Uncommon | Rare |
+| --- | --- | --- | --- | --- |
+| Infections and infestations |  |  | Sepsis, pneumonia, herpes simplex, herpes zoster, upper respiratory tract infection, gastroenteritis |  |
+| Blood and lymphatic system disorders | Neutropenia, thrombocytopenia, anaemia | Febrile neutropenia | Pancytopenia, bone marrow depression |  |
+| Metabolism and nutrition disorders |  | Anorexia | Dehydration, hyperuricaemia, hypokalaemia, appetite increased, appetite decreased, gout, hypophosphataemia | Hyperkalaemia, hyponatraemia |
+| Psychiatric disorders |  |  | Depression, anxiety, libido decreased | Confusion |
+| Nervous system disorders | Headache | Dizziness, taste disturbance, paraesthesia, insomnia | Cerebral haemorrhage, syncope, peripheral neuropathy, hypoaesthesia, somnolence, migraine, memory impairment | Cerebral oedema, increased intracranial pressure, convulsions |
+| Eye disorders |  | Conjunctivitis, lacrimation increased, vision blurred | Eye irritation, conjunctival haemorrhage, dry eye, orbital oedema | Macular oedema, papilloedema, retinal haemorrhage, vitreous haemorrhage, glaucoma |
+| Ear and labyrinth disorders |  |  | Vertigo, tinnitus |  |
+| Cardiac disorders |  |  | Cardiac failure, pulmonary oedema, tachycardia | Pericardial effusion, pericarditis |
+| Vascular disorders |  |  | Haematoma, hypertension, hypotension, flushing, peripheral coldness | Thrombosis, embolism |
+| Respiratory, thoracic and mediastinal disorders |  | Epistaxis, dyspnoea | Pleural effusion, cough, pharyngolaryngeal pain | Pulmonary fibrosis, interstitial pneumonitis |
+| Gastrointestinal disorders | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain | Abdominal distension, flatulence, constipation, gastro-oesophageal reflux, mouth ulceration | Gastrointestinal haemorrhage, melaena, ascites, gastric ulcer, gastritis, eructation, dry mouth | Colitis, ileus, intestinal obstruction, pancreatitis |
+| Hepato-biliary disorders |  | Increased hepatic enzymes | Jaundice, hepatitis, hyperbilirubinaemia | Hepatic failure |
+| Skin and subcutaneous tissue disorders | Periorbital oedema, dermatitis/eczema/ rash | Face oedema, eyelid oedema, pruritus, erythema, dry skin, alopecia, night sweats | Petechiae, contusion, sweating increased, urticaria, onychoclasis, photosensitivity reaction, purpura, hypotrichosis, cheilitis, skin hyperpigmentation, skin hypopigmentation, psoriasis, exfoliative dermatitis and bullous eruptions | Angioedema, vesicular rash, Stevens-Johnson syndrome |
+| Musculoskeletal, connective tissue and bone disorders | Muscle spasm and cramps, musculoskeletal pain, including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness |  |
+| Renal and urinary disorders |  |  | Renal failure, renal pain, urinary frequency increased, haematuria |  |
+| Reproductive system and breast disorders |  |  | Gynaecomastia, breast enlargement, scrotal oedema, menorrhagia, nipple pain, sexual dysfunction |  |
+| General disorders and administration site conditions | Fluid retention and oedema, fatigue | Pyrexia, weakness, rigors | Malaise, haemorrhage | Anasarca, tumour haemorrhage, tumour necrosis |
+| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood creatinine increased, weight decreased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased |  |
+
+There have been cases of cytolytic and cholestatic hepatitis and hepatic failure; in some of them outcome was fatal.
+
+[Glivec 400 mg film-coated tablets]
+
+The most commonly reported (≥10%) drug-related adverse reactions in both settings were mild nausea, vomiting, diarrhoea, abdominal pain, fatigue, myalgia, muscle cramps and rash.

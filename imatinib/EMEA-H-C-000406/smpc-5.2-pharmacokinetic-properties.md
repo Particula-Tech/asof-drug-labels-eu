@@ -5,8 +5,8 @@ The pharmacokinetics of Glivec have been evaluated over a dosage range of 25 to 
 Plasma pharmacokinetic profiles were analysed on day 1 and on either day 7 or day 28, by which time plasma concentrations had reached steady state.
 
 Absorption
-Mean absolute bioavailability for imatinib is 98%.
-There was high between- patient variability in plasma imatinib AUC levels after an oral dose.
+Mean absolute bioavailability for the capsule formulation is 98%.
+There was high between-patient variability in plasma imatinib AUC levels after an oral dose.
 When given with a high-fat meal, the rate of absorption of imatinib was minimally reduced (11% decrease in Cmax and prolongation of tmax by 1.5 h), with a small reduction in AUC (7.4%) compared to fasting conditions.
 The effect of prior gastrointestinal surgery on drug absorption has not been investigated.
 
@@ -16,6 +16,7 @@ At clinically relevant concentrations of imatinib, binding to plasma proteins wa
 Metabolism
 The main circulating metabolite in humans is the N-demethylated piperazine derivative, which shows similar in vitro potency to the parent.
 The plasma AUC for this metabolite was found to be only 16% of the AUC for imatinib.
+
 Imatinib and the N-demethyl metabolite together accounted for about 65% of the circulating radioactivity (AUC(0-48h)).
 The remaining circulating radioactivity consisted of a number of minor metabolites.
 
@@ -60,4 +61,18 @@ Organ function impairment
 Imatinib and its metabolites are not excreted via the kidney to a significant extent.
 Exposure to imatinib may be expected to increase if liver function is impaired.
 Glivec should be used with caution in patients with hepatic impairment.
+(See sections 4.2 and 4.4)
+
+[GLIVEC 100 mg capsules, hard]
+
+(all sentences already above)
+
+[Glivec 100 mg film-coated tablets]
+
+Mean absolute bioavailability for imatinib is 98%.
+
 (See sections 4.2and 4.4)
+
+[Glivec 400 mg film-coated tablets]
+
+(all sentences already above)

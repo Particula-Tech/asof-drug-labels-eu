@@ -1,9 +1,11 @@
 # 4.4 Special warnings and special precautions for use
 
-When Glivec is co-administered with other medicinal products, there is a potential for drug interactions (see section 4.5).
+When Glivec is co-administered with other medications, there is a potential for drug interactions (see section 4.5).
 
-Concomitant use of imatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
+Concomitant use of imatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
 Therefore, concomitant use of strong CYP3A4 inducers and imatinib should be avoided (see section 4.5).
+
+Glivec should be taken with food and a large glass of water to minimise the risk of gastrointestinal irritations.
 
 Metabolism of Glivec is mainly hepatic, and only 13% of excretion is through the kidneys.
 There are currently no clinical trials with Glivec in patients with impaired liver or renal function.
@@ -28,5 +30,19 @@ However, the occurrence of these cytopenias is likely to be related to the stage
 Treatment with Glivec may be interrupted or the dose may be reduced, as recommended in section 4.2.
 
 Liver function (transaminases, bilirubin, alkaline phosphatase) should be monitored regularly in patients receiving Glivec.
+
 Glivec and its metabolites are not excreted via the kidney to a significant extent (13%).
 Creatinine clearance is known to decrease with age, and age did not significantly affect Glivec kinetics.
+
+[GLIVEC 100 mg capsules, hard]
+
+In these cases, peripheral blood counts and liver enzymes should be carefully monitored.
+(see sections 4.2 and 4.8).
+
+[Glivec 100 mg film-coated tablets]
+
+When Glivec is co-administered with other medicinal products, there is a potential for drug interactions (see section 4.5).
+
+[Glivec 400 mg film-coated tablets]
+
+(all sentences already above)
