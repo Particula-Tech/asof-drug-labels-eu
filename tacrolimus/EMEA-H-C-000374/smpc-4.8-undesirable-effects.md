@@ -6,6 +6,7 @@ Erythema was a common skin irritation adverse reaction.
 Sensation of warmth, pain, paraesthesia and rash at the site of application were also commonly observed.
 Alcohol intolerance (facial flushing or skin irritation after consumption of an alcoholic beverage) was common.
 Patients may be at an increased risk of folliculitis, acne and herpes viral infections.
+
 Adverse reactions with suspected relationship to treatment are listed below by system organ class.
 Frequencies are defined as very common (> 1/10), common (> 1/100, < 1/10) and uncommon
 (> 1/1,000, < 1/100).
@@ -38,7 +39,3 @@ Metabolism and nutrition disorders
 Common: Alcohol intolerance (facial flushing or skin irritation after consumption of an
 
 alcoholic beverage)
-
-[Protopic 0.1% ointment]
-
-Common: Folliculitis, pruritus

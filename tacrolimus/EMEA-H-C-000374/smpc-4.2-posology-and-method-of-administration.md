@@ -17,10 +17,9 @@ Afterwards the frequency of application should be reduced to once a day until cl
 
 Use in adults (16 years of age and above)
 Protopic is available in two strengths, Protopic 0.03% and Protopic 0.1% ointment.
-Treatment should be started with Protopic 0.1% twice a day for up to three weeks.
-Afterwards the strength should be reduced to Protopic 0.03% twice a day.
-An attempt should be made to reduce the frequency of application if the clinical condition allows.
-Treatment should be continued until clearance of the lesion.
+Treatment should be started with Protopic 0.1% twice a day and treatment should be continued until clearance of the lesion.
+If symptoms recur, twice daily treatment with Protopic 0.1% should be restarted.
+An attempt should be made to reduce the frequency of application or to use the lower strength Protopic 0.03% ointment if the clinical condition allows.
 
 Use in elderly (65 years of age and above)
 Specific studies have not been conducted in elderly patients.

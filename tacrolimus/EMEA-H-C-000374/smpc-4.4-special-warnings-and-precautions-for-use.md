@@ -16,8 +16,7 @@ Before commencing treatment with Protopic ointment, clinical infections at treat
 Patients with atopic dermatitis are predisposed to superficial skin infections.
 Treatment with Protopic may be associated with an increased risk of herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes simplex [cold sores], Kaposi’s varicelliform eruption).
 In the presence of these infections, the balance of risks and benefits associated with Protopic use should be evaluated.
-
-Beyond 2 years of treatment, the potential for local immunosuppression (possibly resulting in infections or cutaneous malignancies) is unknown.
+Beyond 4 years of treatment, the potential for local immunosuppression (possibly resulting in infections or cutaneous malignancies) is unknown (see 5.1).
 
 Lymphadenopathy was uncommonly (0.8%) reported in clinical trials.
 The majority of these cases related to infections (skin, respiratory tract, tooth) and resolved with appropriate antibiotic therapy.
@@ -32,5 +31,6 @@ Occlusive dressings are not recommended.
 As with any topical medicinal product, patients should wash their hands after application if the hands are not intended for treatment.
 
 Tacrolimus is extensively metabolised in the liver and although blood concentrations are low following topical therapy, the ointment should be used with caution in patients with hepatic failure (see 5.2).
+
 The use of Protopic ointment in patients with genetic epidermal barrier defects such as Netherton’s syndrome is not recommended due to the potential for permanently increased systemic absorption of tacrolimus.
 The safety of Protopic ointment has not been established in patients with generalised erythroderma.
