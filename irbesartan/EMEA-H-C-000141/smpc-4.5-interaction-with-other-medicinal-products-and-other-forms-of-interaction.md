@@ -6,19 +6,17 @@ Prior treatment with high dose diuretics may result in volume depletion and a ri
 Potassium supplements and potassium-sparing diuretics: based on experience with the use of other drugs that affect the renin-angiotensin system, concomitant use of potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium or other drugs that may increase serum potassium levels (e.g. heparin) may lead to increases in serum potassium and is, therefore, not recommended (see 4.4).
 
 Lithium: reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors.
-Similar effects have been very rarely reported with irbesartan.
-Therefore, this combination is not recommended
-(see 4.4).
+Similar effects have been very rarely reported with irbesartan so far.
+Therefore, this combination is not recommended (see 4.4).
 If the combination proves necessary, careful monitoring of serum lithium levels is recommended.
 
-Non-steroidal anti-inflammatory drugs: as with other antihypertensive agents, the antihypertensive effect of irbesartan may be attenuated by non-steroidal anti-inflammatory drugs.
+Non-steroidal anti-inflammatory drugs: when angiotensin II antagonists are administered simultaneously with non-steroidal anti- inflammatory drugs (i.e. selective COX-2 inhibitors, acetylsalicylic acid (> 3 g/day) and non-selective NSAIDs), attenuation of the antihypertensive effect may occur.
+As with ACE inhibitors, concomitant use of angiotensin II antagonists and NSAIDs may lead to an increased risk of worsening of renal function, including possible acute renal failure, and an increase in serum potassium, especially in patients with poor pre-existing renal function.
+The combination should be administered with caution, especially in the elderly.
+Patients should be adequately hydrated and consideration should be given to monitoring renal function after initiation of concomitant therapy, and periodically thereafter.
 
-Additional information on drug interactions: the pharmacokinetics of digoxin were not altered by coadministration of a 150 mg dose of irbesartan in healthy male volunteers.
-The pharmacokinetics of irbesartan are not affected by co-administration of hydrochlorothiazide.
+Additional information on irbesartan interactions: in clinical studies, the pharmacokinetic of irbesartan is not affected by hydrochlorothiazide.
 Irbesartan is mainly metabolised by CYP2C9 and to a lesser extent by glucuronidation.
-Inhibition of the glucuronyl transferase pathway is unlikely to result in clinically significant interactions.
-In vitro interactions were observed between irbesartan and warfarin, tolbutamide (CYP2C9 substrates) and nifedipine (CYP2C9 inhibitor).
-However, no significant pharmacokinetic or pharmacodynamic interactions were observed when irbesartan was co-administered with warfarin in healthy male volunteers.
-The pharmacokinetics of irbesartan are not affected by co-administration of nifedipine.
-The effects of CYP2C9 inducers such as rifampicin on the pharmacokinetics of irbesartan were not evaluated.
-Based on in vitro data, no interaction would be expected to occur with drugs whose metabolism is dependent upon cytochrome P450 isoenzymes CYP1A1, CYP1A2, CYP2A6, CYP2B6, CYP2D6, CYP2E1 or CYP3A4.
+No significant pharmacokinetic or pharmacodynamic interactions were observed when irbesartan was coadministered with warfarin, a drug metabolised by CYP2C9.
+The effects of CYP2C9 inducers such as rifampicin on the pharmacokinetic of irbesartan have not been evaluated.
+The pharmacokinetic of digoxin was not altered by coadministration of irbesartan.

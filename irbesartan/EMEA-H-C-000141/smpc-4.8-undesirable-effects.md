@@ -39,13 +39,13 @@ Hypertension and type 2 diabetes with renal disease: in addition to the adverse 
 In diabetic hypertensive patients with chronic renal insufficiency and overt proteinuria, the following additional adverse reactions were reported in > 2% of patients and in excess of placebo:
 
 Nervous system disorders:
-Common: Orthostatic dizziness
+Common: orthostatic dizziness
 
 Vascular disorders:
-Common: Orthostatic hypotension
-
+Common: orthostatic hypotension
 Musculoskeletal, connective tissue and bone disorders:
-Common: Musculoskeletal pain
+Common: musculoskeletal pain
+
 Investigations:
 Hyperkalemia occurred more often in diabetic patients treated with irbesartan than with placebo.
 In diabetic hypertensive patients with microalbuminuria and normal renal function, hyperkalemia
@@ -80,4 +80,5 @@ Musculoskeletal, connective tissue and bone disorders:
 Very rare: myalgia, arthralgia
 
 Renal and urinary disorders:
-Very rare: impaired renal function including isolated cases of renal failure in patients at risk (see 4.4)
+Very rare: impaired renal function including isolated cases of renal failure in patients at risk
+(see 4.4)
