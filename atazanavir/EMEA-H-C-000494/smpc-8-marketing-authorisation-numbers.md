@@ -1,3 +1,15 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/0/00/000/000
+EU/1/03/267/001-002
+
+[REYATAZ 150 mg hard capsules]
+
+EU/1/03/267/003-004
+
+[REYATAZ 200 mg hard capsules]
+
+EU/1/03/267/005-006
+
+[REYATAZ 50 mg/1.5 g oral powder]
+
+EU/1/03/267/007

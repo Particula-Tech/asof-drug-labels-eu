@@ -12,4 +12,4 @@ Do not store above 25°C.
 
 [REYATAZ 50 mg/1.5 g oral powder]
 
-Keep container tightly closed.
+Keep the bottle tightly closed.
