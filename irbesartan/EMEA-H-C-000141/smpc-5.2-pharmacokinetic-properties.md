@@ -3,7 +3,7 @@
 After oral administration, irbesartan is well absorbed: studies of absolute bioavailability gave values of approximately 60-80%.
 Concomitant food intake does not significantly influence the bioavailability of irbesartan.
 
-Plasma protein binding is approximately 90%, with negligible binding to cellular blood components.
+Plasma protein binding is approximately 96%, with negligible binding to cellular blood components.
 The volume of distribution is 53-93 litres.
 
 Following oral or intravenous administration of 14C irbesartan, 80-85% of the circulating plasma radioactivity is attributable to unchanged irbesartan.
@@ -32,4 +32,5 @@ Renal impairment: in patients with renal impairment or those undergoing haemodia
 Irbesartan is not removed by haemodialysis.
 
 Hepatic impairment: in patients with mild to moderate cirrhosis, the pharmacokinetic parameters of irbesartan are not significantly altered.
+
 Studies have not been performed in patients with severe hepatic impairment.
