@@ -1,0 +1,16 @@
+{
+  "active_substance": "pioglitazone hydrochloride",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000285",
+  "eu_number": "EU/1/00/150",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2000-10-13",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/actos",
+  "molecule": "pioglitazone",
+  "molecule_name": "PIOGLITAZONE",
+  "name": "Actos",
+  "register_name": "Actos",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h150.htm"
+}
