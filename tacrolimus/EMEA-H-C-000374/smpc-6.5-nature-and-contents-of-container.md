@@ -2,4 +2,4 @@
 
 Laminate tube with an inner lining of low-density-polyethylene fitted with a white polypropylene screw cap.
 
-Package sizes: 30 g and 60 g
+Package sizes: 10 g, 30 g and 60 g. Not all pack sizes may be marketed.
