@@ -12,8 +12,8 @@ The effects on phosphate and calcium were proven to be maintained throughout a s
 
 Sevelamer has been shown to bind bile acids in vitro and in vivo in experimental animal models.
 Bile acid binding by ion exchange resins is a well-established method of lowering blood cholesterol.
-In clinical trials mean LDL cholesterol declined by 15-31%.
-This effect is observed after 2 weeks.
+In clinical trials mean total and LDL cholesterol declined by 15-31%.
+This effect is observed after 2 weeks is maintained with long-term treatment.
 Triglycerides, HDL cholesterol and albumin did not change.
 
 In the clinical studies in haemodialysis patients, sevelamer alone did not have a consistent and clinically significant effect on serum intact parathyroid hormone (iPTH).

@@ -1,7 +1,7 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each capsule contains 403 mg sevelamer.
-For excipients, see 6.1.
+For excipients, see section 6.1.
 
 [Renagel 400 mg film-coated tablets]
 
