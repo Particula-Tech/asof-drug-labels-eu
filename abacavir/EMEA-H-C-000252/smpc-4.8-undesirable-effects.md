@@ -2,7 +2,7 @@
 
 Hypersensitivity (see also section 4.4):
 
-In clinical studies, approximately 4% of subjects receiving abacavir developed a hypersensitivity reaction; some of these were life-threatening and resulted in fatal outcome despite taking precautions.
+In clinical studies, approximately 5% of subjects receiving abacavir developed a hypersensitivity reaction; some of these were life-threatening and resulted in fatal outcome despite taking precautions.
 This reaction is characterised by the appearance of symptoms indicating multi-organ/body-system involvement.
 
 Almost all patients developing hypersensitivity reactions will have fever and/or rash (usually maculopapular or urticarial) as part of the syndrome, however reactions have occurred without rash or fever.
@@ -32,13 +32,13 @@ phosphokinase
 Urology Elevated creatinine, renal failure
 
 Rash (81% vs 67% respectively) and gastrointestinal manifestations (70% vs 54% respectively) were more frequently reported in children compared to adults.
-
 Some patients with hypersensitivity reactions were initially thought to have gastroenteritis, respiratory disease (pneumonia, bronchitis, pharyngitis) or a flu-like illness.
 This delay in diagnosis of hypersensitivity has resulted in Ziagen being continued or re-introduced, leading to more severe hypersensitivity reactions or death.
 Therefore, the diagnosis of hypersensitivity reaction should be carefully considered for patients presenting with symptoms of these diseases.
 
 Symptoms usually appeared within the first six weeks (median time to onset 11 days) of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 Close medical supervision is necessary during the first two months, with consultations every two weeks.
+
 Risk factors that may predict the occurrence or severity of hypersensitivity to abacavir have not been identified.
 However, it is likely that intermittent therapy may increase the risk of developing sensitisation and therefore occurrence of clinically significant hypersensitivity reactions.
 Consequently, patients should be advised of the importance of taking Ziagen regularly.
@@ -66,7 +66,6 @@ In such cases medicinal products containing abacavir should be permanently disco
 
 Many of the adverse reactions have not been treatment limiting.
 The following convention has been used for their classification:- very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100), rare (>1/10,000, <1/1,000) very rare (<1/10,000).
-
 Metabolism and nutrition disorders
 Common: anorexia
 
@@ -75,7 +74,7 @@ Common: headache
 
 Gastrointestinal disorders
 Common: nausea, vomiting, diarrhoea
-Rare: pancreatitis has been reported, but a causal relationship to Ziagen treatment is uncertain.
+Rare: pancreatitis
 
 Skin and subcutaneous tissue disorders
 Common: rash (without systemic symptoms)

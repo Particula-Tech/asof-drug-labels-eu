@@ -1,13 +1,12 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group - nucleoside reverse transcriptase inhibitors, ATC Code: J05A F06
+Pharmacotherapeutic group: nucleoside reverse transcriptase inhibitors, ATC Code: J05A F06
 
 Abacavir is a NRTI.
 It is a selective antiviral agent against HIV-1 and HIV-2, including HIV-1 isolates with reduced susceptibility to zidovudine, lamivudine, zalcitabine, didanosine or nevirapine.
 In vitro studies have demonstrated that its mechanism of action in relation to HIV is inhibition of the HIV reverse transcriptase enzyme, an event which results in chain termination and interruption of the viral replication cycle.
 Abacavir shows synergy in vitro in combination with nevirapine and zidovudine.
 It has been shown to be additive in combination with didanosine, zalcitabine, lamivudine and stavudine.
-
 Abacavir-resistant isolates of HIV-1 have been selected in vitro and are associated with specific genotypic changes in the reverse transcriptase (RT) codon region (codons M184V, K65R, L74V and Y115F).
 Viral resistance to abacavir develops relatively slowly in vitro and in vivo, requiring multiple mutations to reach an eight fold increase in IC50 over wild-type virus, which may be a clinically relevant level.
 Isolates resistant to abacavir may also show reduced sensitivity to lamivudine, zalcitabine and/or didanosine, but remain sensitive to zidovudine and stavudine.
@@ -40,7 +39,6 @@ The degree of benefit as part of a new combination regimen will depend on the na
 - Additional information
 
 The safety and efficacy of Ziagen in a number of different multidrug combination regimens is still not completely assessed (particularly in combination with NNRTIs).
-
 Abacavir penetrates the cerebrospinal fluid (CSF) (see section 5.2), and has been shown to reduce HIV-1 RNA levels in the CSF.
 However, no effects on neuropsychological performance were seen when it was administered to patients with AIDS dementia complex.
 

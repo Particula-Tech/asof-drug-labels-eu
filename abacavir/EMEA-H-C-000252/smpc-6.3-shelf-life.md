@@ -6,4 +6,4 @@
 
 2 years
 
-Discard oral solution two months after first opening.
+After first opening the container: 2 months

@@ -10,4 +10,4 @@ Lactation: Abacavir and its metabolites are secreted into the milk of lactating 
 It is expected that these will also be secreted into human milk, although this has not been confirmed.
 There are no data available on the safety of abacavir when administered to babies less than three months old.
 It is therefore recommended that mothers do not breast-feed their babies while receiving treatment with abacavir.
-Additionally, it is recommended by health experts that where possible, HIV infected women do not breast-feed their infants in order to avoid transmission of HIV.
+Additionally, it is recommended that HIV infected women do not breast-feed their infants under any circumstances in order to avoid transmission of HIV.

@@ -12,6 +12,7 @@ The Cmax value for the oral solution is slightly higher than the tablet.
 
 Food delayed absorption and decreased Cmax but did not affect overall plasma concentrations (AUC).
 Therefore Ziagen can be taken with or without food.
+
 Distribution: Following intravenous administration, the apparent volume of distribution was about 0.8 l/kg, indicating that abacavir penetrates freely into body tissues.
 
 Studies in HIV infected patients have shown good penetration of abacavir into the cerebrospinal fluid (CSF), with a CSF to plasma AUC ratio of between 30 to 44%.
@@ -39,7 +40,6 @@ Renally impaired: Abacavir is primarily metabolised by the liver with approximat
 The pharmacokinetics of abacavir in patients with end-stage renal disease is similar to patients with normal renal function.
 Therefore no dosage reduction is required in patients with renal impairment.
 Based on limited experience Ziagen should be avoided in patients with end-stage renal disease.
-
 Children: According to clinical trials performed in children abacavir is rapidly and well absorbed from an oral solution administered to children.
 The overall pharmacokinetic parameters in children are comparable to adults, with greater variability in plasma concentrations.
 The recommended dose for children from three months to 12 years is 8 mg/kg twice daily.

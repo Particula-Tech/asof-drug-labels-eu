@@ -2,7 +2,7 @@
 
 Hypersensitivity Reaction (see also section 4.8):
 
-In clinical studies approximately 4% of subjects receiving abacavir develop a hypersensitivity reaction; some of these cases were life-threatening and resulted in a fatal outcome despite taking precautions.
+In clinical studies approximately 5% of subjects receiving abacavir develop a hypersensitivity reaction; some of these cases were life-threatening and resulted in a fatal outcome despite taking precautions.
 
 - Description
 
@@ -64,10 +64,10 @@ They should be reminded of the importance of removing the Alert Card included in
 
 Lactic acidosis: lactic acidosis, usually associated with hepatomegaly and hepatic steatosis, has been reported with the use of nucleoside analogues.
 Early symptoms (symptomatic hyperlactatemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
-
 Lactic acidosis has a high mortality and may be associated with pancreatitis, liver failure, or renal failure.
 
 Lactic acidosis generally occurred after a few or several months of treatment.
+
 Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactatemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
 
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
@@ -104,7 +104,6 @@ In case of concomitant antiviral therapy for hepatitis B or C, please refer also
 
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
-
 A pharmacokinetic study has been performed in patients with mild hepatic impairment.
 However, a definitive recommendation on dose reduction is not possible due to substantial variability of drug exposure in this patient population (see section 5.2).
 The clinical safety data available with abacavir in hepatically impaired patients is very limited.
@@ -126,7 +125,11 @@ Appropriate precautions should continue to be taken.
 
 Moreover,on very rare occasions hypersensitivity reactions have been reported in patients who have restarted therapy, and who had no preceding symptoms of a hypersensitivity reaction.
 
+- Patients developing signs or symptoms possibly linked with a hypersensitivity reaction MUST
+CONTACT their doctor IMMEDIATELY.
+
 Ziagen oral solution contains 340 mg/ml of sorbitol.
 When taken according to the dosage recommendations each 15 ml dose contains approximately 5 g of sorbitol.
-This product is unsuitable for patients with hereditary fructose intolerance.
-Sorbitol can cause stomach upset and diarrhoea.
+Patients with rare hereditary problems of fructose intolerance should not take this medicine.
+Sorbitol can have a mild laxative effect.
+The calorific value of sorbitol is 2.6 kcal/g.
