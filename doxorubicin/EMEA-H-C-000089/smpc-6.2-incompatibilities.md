@@ -1,3 +1,3 @@
 # 6.2 Incompatibilities
 
-Do not mix with other drugs.
+This medicinal product must not be mixed with other medicinal products except those mentioned in 6.6.

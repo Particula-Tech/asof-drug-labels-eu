@@ -1,3 +1,8 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each 10 ml vial of Caelyx contains doxorubicin hydrochloride, 2mg/ml, concentrate for infusion.
+Caelyx contains 2 mg/ml pegylated liposomal doxorubicin hydrochloride.
+
+Caelyx, a liposome formulation, is doxorubicin hydrochloride encapsulated in liposomes with surface-bound methoxypolyethylene glycol (MPEG).
+This process is known as pegylation and protects liposomes from detection by the mononuclear phagocyte system (MPS), which increases blood circulation time.
+
+For excipients, see 6.1.

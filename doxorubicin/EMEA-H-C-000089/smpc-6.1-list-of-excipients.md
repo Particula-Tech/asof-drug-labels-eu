@@ -1,14 +1,3 @@
 # 6.1 List of excipients
 
-The following excipients are contained in each vial of product:
-
-- α-2(2-[1,2-distearoyl-sn-glycero(3)phosphooxy]ethylcarbamoyl)-ω-methoxypoly
-- (oxyethylen)-40, sodium salt (MPEG-DSPE)
-- Fully Hydrogenated Soy Phosphatidylcholine (HSPC)
-- Cholesterol, NF
-- Ammonium Sulphate, ACS
-- Sucrose, Ph Eur
-- Histidine, Ph Eur
-- Water for Injections, Ph Eur
-- Hydrochloric Acid, Ph Eur
-- Sodium Hydroxide, Ph Eur
+α-2(2-[1,2-distearoyl-sn-glycero(3)phosphooxy]ethylcarbamoyl)-ω-methoxypoly(oxyethylen)-40, sodium salt (MPEG-DSPE), fully hydrogenated soy phosphatidylcholine (HSPC), cholesterol, ammonium sulphate, sucrose, histidine, water for injections, hydrochloric acid, sodium hydroxide.

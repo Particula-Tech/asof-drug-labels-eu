@@ -1,6 +1,7 @@
 # 4.3 Contra-indications
 
-Caelyx is contra-indicated in patients who have a history of hypersensitivity reactions to its components or to doxorubicin HCl.
-Caelyx should not be administered during pregnancy or while breast-feeding.
+- hypersensitivity to the active substance or to any of the excipients
+- pregnancy
+- breast-feeding.
 
-Caelyx should not be used to treat AIDS-KS that may be effectively treated with local therapy or systemic alfa-interferon.
+Caelyx must not be used to treat AIDS-KS that may be treated effectively with local therapy or systemic alfa-interferon.
