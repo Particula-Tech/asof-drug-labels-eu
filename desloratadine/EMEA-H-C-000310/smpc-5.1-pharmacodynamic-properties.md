@@ -13,16 +13,22 @@ In a multiple dose clinical trial, in which up to 20 mg of desloratadine was adm
 In a clinical pharmacology trial, in which desloratadine was administered at a dose of 45 mg daily (nine times the clinical dose) for ten days, no prolongation of QTc interval was seen.
 
 No clinically relevant changes in desloratadine plasma concentrations were observed in multiple-dose ketoconazole and erythromycin interaction trials.
+
 Desloratadine does not readily penetrate the central nervous system.
 At the recommended dose of 5 mg daily, there was no excess incidence of somnolence as compared to placebo.
 Azomyr given at a single daily dose of 7.5 mg did not affect psychomotor performance in clinical trials.
-
 In clinical pharmacology trials, co-administration with alcohol did not increase the alcohol-induced impairment in performance or increase in sleepiness.
 No significant differences were found in the psychomotor test results between desloratadine and placebo groups, whether administered alone or with alcohol.
 
-In patients with seasonal allergic rhinitis, Azomyr was effective in relieving symptoms such as sneezing, nasal discharge and itching, as well as ocular itching, tearing and redness, and itching of palate.
+In patients with SAR, Azomyr was effective in relieving symptoms such as sneezing, nasal discharge and itching, as well as ocular itching, tearing and redness, and itching of palate.
 Azomyr effectively controlled symptoms for 24 hours.
 Efficacy has not been clearly demonstrated in patients 12–17 years of age.
 
-Azomyr was effective in alleviating the burden of seasonal allergic rhinitis as shown by the total score of the rhino-conjunctivitis quality of life questionnaire.
+In two placebo-controlled six week trials in patients with CIU, Azomyr was effective in relieving pruritus and decreasing the size and number of hives by the end of the first dosing interval.
+In each trial, the effects were sustained over the 24 hour dosing interval.
+As with other antihistamine trials in CIU, the minority of patients who were identified as non-responsive to antihistamines was excluded.
+An improvement in pruritus of more than 50 % was observed in 55 % of patients treated with desloratadine compared with 19 % of patients treated with placebo.
+Treatment with Azomyr also significantly reduced interference with sleep and daytime function, as measured by a four-point scale used to assess these variables.
+
+Azomyr was effective in alleviating the burden of SAR as shown by the total score of the rhino-conjunctivitis quality of life questionnaire.
 The greatest amelioration was seen in the domains of practical problems and daily activities limited by symptoms.
