@@ -12,7 +12,7 @@ Metabolism and nutrition disorders;
 Rare (>1/10000,
 <1/1000)
 
-Change in blood H ypoglycaemia:
+Change in blood Hypoglycaemia:
 glucose: Symptoms of hypoglycaemia usually occur suddenly. They may
 Hypoglycaemia/ include cold sweats, cool pale skin, fatigue, nervousness or tremor,
 hyperglycaemia anxiousness, unusual tiredness or weakness, confusion, difficulty in
@@ -39,7 +39,6 @@ Very rare (<1/10000)
 Refraction Refraction anomalies may occur upon initiation of insulin therapy.
 
 These symptoms are usually of transitory nature.
-
 Skin and subcutaneous tissue disorders
 
 Very rare (<1/10000)
@@ -61,15 +60,3 @@ hypersensitivity skin rash, itching, sweating, gastrointestinal upset, angioneur
 
 oedema, difficulties in breathing, palpitation and reduction in blood pressure.
 Generalised hypersensitivity reactions are potentially life threatening.
-
-[NovoRapid NovoLet 100 U/ml, solution for injection in pre-filled pen.]
-
-Change in blood Hypoglycaemia:
-
-[NovoRapid FlexPen 100 U/ml, solution for injection in pre-filled pen.]
-
-(all sentences already above)
-
-[NovoRapid InnoLet 100 U/ml, solution for injection in pre-filled pen.]
-
-(all sentences already above)
