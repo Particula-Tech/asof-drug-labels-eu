@@ -1,0 +1,16 @@
+{
+  "active_substance": "bimatoprost",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000391",
+  "eu_number": "EU/1/02/205",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2002-03-08",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lumigan",
+  "molecule": "bimatoprost",
+  "molecule_name": "BIMATOPROST",
+  "name": "Lumigan",
+  "register_name": "Lumigan",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h205.htm"
+}
