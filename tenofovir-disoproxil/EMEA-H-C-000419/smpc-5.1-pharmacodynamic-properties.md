@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antiviral for systemic use, ATC code: J05A
-
 Mechanism of action: Tenofovir disoproxil fumarate is the fumarate salt of the prodrug tenofovir disoproxil.
 Tenofovir disoproxil is absorbed and converted to the active substance tenofovir, which is a nucleoside monophosphate (nucleotide) analogue.
 Tenofovir is then converted to the active metabolite, tenofovir diphosphate, by constitutively expressed cellular enzymes through two phosphorylation reactions in both resting and activated T cells.
