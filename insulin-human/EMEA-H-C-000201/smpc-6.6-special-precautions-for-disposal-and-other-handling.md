@@ -19,15 +19,22 @@ Insulins of different concentration (e.g. 100 IU per ml and 40 IU per ml) must n
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
-Before insertion into the pen, Insuman Rapid must be kept at room temperature for 1 to 2 hours.
+Insulin pen
+The cartridges are to be used in conjunction with an insulin pen such as OptiPen and other pens suitable for Insuman cartridges and as recommended in the information provided by the device manufacturer.
 
+The manufacturer’s instructions for using the pen must be followed carefully for loading the cartridge, attaching the needle, and administering the insulin injection.
+
+If the insulin pen is damaged or not working properly (due to mechanical defects) it has to be discarded, and a new insulin pen has to be used.
+
+If the pen malfunctions (see instructions for using the pen), the solution may be drawn from the cartridge into a syringe (suitable for an insulin with 100 IU/ml) and injected.
+
+Cartridges
+Before insertion into the pen, Insuman Rapid must be kept at room temperature for 1 to 2 hours.
+Inspect the cartridge before use.
 Air bubbles must be removed from the cartridge before injection (see instructions for using the pen).
-The instructions for using the pen must be followed carefully.
 Empty cartridges must not be refilled.
 
 Insuman Rapid cartridges are not designed to allow any other insulin to be mixed in the cartridge.
-
-If the pen malfunctions, the solution may be drawn from the cartridge into a syringe (suitable for an insulin with 100 IU/ml) and injected.
 
 [Insuman Rapid 100 IU/ml OptiSet solution for injection]
 
@@ -187,6 +194,8 @@ It is also necessary to change to a new vial if the insulin requirement changes 
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
+If the pen malfunctions (see instructions for using the pen), the suspension may be drawn from the cartridge into a syringe (suitable for an insulin with 100 IU/ml) and injected.
+
 Before insertion into the pen, Insuman Basal must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 This is best done by gently tilting the cartridge back and forth (at least ten times).
 Each cartridge contains three small metal balls to facilitate quick and thorough mixing of the contents.
@@ -200,8 +209,6 @@ In such cases, a new cartridge yielding a uniform suspension must be used.
 It is also necessary to change to a new cartridge if the insulin requirement changes substantially.
 
 Insuman Basal cartridges are not designed to allow any other insulin to be mixed in the cartridge.
-
-If the pen malfunctions, the suspension may be drawn from the cartridge into a syringe (suitable for an insulin with 100 IU/ml) and injected.
 
 [Insuman Basal 100 IU/ml OptiSet suspension for injection]
 
