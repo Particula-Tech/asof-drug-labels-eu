@@ -18,4 +18,5 @@ Remove the cap and push the bottle adapter into the neck of the bottle.
 5.
 Close the bottle tightly with the cap (on the top of the bottle adapter).
 This will make sure that the bottle adapter fits in the bottle in the right position.
+
 Tamiflu powder for suspension will appear as an opaque and white to light yellow suspension after reconstitution.

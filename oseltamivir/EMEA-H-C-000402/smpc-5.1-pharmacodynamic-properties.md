@@ -2,6 +2,7 @@
 
 Pharmacotherapeutic group: Antiviral
 ATC code: J05AH02
+
 Oseltamivir is a pro-drug of the active metabolite (oseltamivir carboxylate).
 The active metabolite is a selective inhibitor of influenza virus neuraminidase enzymes, which are glycoproteins found on the virion surface.
 Viral neuraminidase enzyme activity is essential for the release of recently formed virus particles from infected cells and the further spread of infectious virus in the body.
@@ -30,7 +31,7 @@ Of the elderly subjects, 64 % were influenza positive and of those with chronic 
 In all phase III treatment studies, patients were recruited only during the period in which influenza was circulating in the local community.
 
 Adults and adolescents aged 13 years and older:.
-Patients were eligible if they reported within 36 hours of onset of symptoms, had fever �37.8 �C, accompanied by at least one respiratory symptom (cough, nasal symptoms or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue or headache).
+Patients were eligible if they reported within 36 hours of onset of symptoms, had fever ≥37.8 °C, accompanied by at least one respiratory symptom (cough, nasal symptoms or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue or headache).
 In a pooled analysis of all influenza-positive adults and adolescents
 (N = 2413) enrolled into treatment studies oseltamivir75 mg twice daily for 5 days reduced the median duration of influenza illness by approximately one day from 5.2 days (95 % CI 4.9 – 5.5 days) in the placebo group to 4.2 days (95 % CI 4.0 – 4.4 days) (p ≤0.0001).
 
@@ -41,9 +42,10 @@ Treatment of influenza in high risk populations:
 The median duration of influenza illness in elderly subjects (≥ 65 years) and in subjects with chronic cardiac and/or respiratory disease receiving oseltamivir 75 mg twice daily for 5 days was not reduced significantly.
 The total duration of fever was reduced by one day in the groups treated with oseltamivir.
 In the influenza-positive elderly, oseltamivir significantly reduced the incidence of specified lower respiratory tract complications (mainly bronchitis) treated with antibiotics, from 19 % (52/268) in the placebo group to 12 % (29/250) in the oseltamivir treated population (p = 0.0156).
+
 In influenza-positive patients with chronic cardiac and/or respiratory disease the combined incidence of lower respiratory tract complications (mainly bronchitis) treated with antibiotics was 17% (22/133) in the placebo group and 14 % (16/118) in the oseltamivir treated population (p = 0.5976).
 
-Treatment of influenza in children: In a study of otherwise healthy children (65 % influenza-positive), aged 1 to 12 years (mean age 5.3 years), who had fever (�37.8° C) plus either cough or coryza, 67 % of influenza-positive patients were infected with influenza A and 33 % with influenza B. Oseltamivir treatment , started within 48 hours of onset of symptoms, significantly reduced the time to freedom from illness (defined as the simultaneous return to normal health and activity and alleviation of fever, cough and coryza,) by 1.5 days (95 % CI 0.6 - 2.2 days, p < 0.0001) compared to placebo.
+Treatment of influenza in children: In a study of otherwise healthy children (65 % influenza-positive), aged 1 to 12 years (mean age 5.3 years), who had fever (≥37.8° C) plus either cough or coryza, 67 % of influenza-positive patients were infected with influenza A and 33 % with influenza B. Oseltamivir treatment , started within 48 hours of onset of symptoms, significantly reduced the time to freedom from illness (defined as the simultaneous return to normal health and activity and alleviation of fever, cough and coryza,) by 1.5 days (95 % CI 0.6 - 2.2 days, p < 0.0001) compared to placebo.
 Oseltamivir reduced the incidence of acute otitis media from 26.5 % (53/200) in the placebo group to 16 % (29/183) in the oseltamivir treated children (p = 0.013).
 
 A second study was completed in 334 asthmatic children aged 6 to12 years old of which 53.6 % were influenza-positive.
@@ -54,7 +56,7 @@ Treatment of influenza B infection: Overall 15 % of the influenza-positive popul
 The median duration of illness in influenza B infected subjects did not differ significantly between the treatment groups in individual studies.
 Data from 504 influenza B infected subjects were pooled across all studies for analysis.
 Oseltamivir reduced the time to alleviation of all symptoms by 0.7 days (95 % CI 0.1 – 1.6 days;
-p = 0.022) and the duration of fever (�37.8° C), cough and coryza by one day (95 % CI 0.4 – 1.7 days; p <0.001)), compared to placebo.
+p = 0.022) and the duration of fever (≥37.8° C), cough and coryza by one day (95 % CI 0.4 – 1.7 days; p <0.001)), compared to placebo.
 
 Prevention of influenza
 The efficacy of oseltamivir in preventing naturally occurring influenza illness has been demonstrated in a post-exposure prophylaxis study in households and two seasonal prophylaxis studies.
@@ -71,7 +73,6 @@ The NNT in this study was 28 (95 % CI 24 – 50).
 
 A study in elderly residents of nursing homes, where 80 % of participants received vaccine in the season of the study, oseltamivir 75 mg once daily given for 6 weeks significantly reduced the incidence of clinical influenza illness from 12/272 (4.4 %) in the placebo group to 1/276 (0.4 %) in the oseltamivir group (92 % reduction, (95 % CI1.5 – 6.6) ; p = 0.0015The NNT in this study was 25
 (95 % CI 23 – 62).
-
 Specific studies have not been conducted to assess of the reduction in the risk of complications.
 
 [Tamiflu 12 mg/ml powder for oral suspension.]
@@ -83,17 +84,17 @@ Reduced sensitivity of viral neuraminidaseIn clinical studies in naturally acqui
 
 In the pooled treatment study population which included both influenza-positive and -negative subjects (ITT) primary efficacy was reduced proportional to the number of influenza negative individuals.
 
-Adults and adolescents aged 13 years and older: Patients were eligible if they reported within 36 hours of onset of symptoms, had fever �37.8�C, accompanied by at least one respiratory symptom (cough, nasal symptoms or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue or headache).
+Adults and adolescents aged 13 years and older: Patients were eligible if they reported within 36 hours of onset of symptoms, had fever ≥37.8°C, accompanied by at least one respiratory symptom (cough, nasal symptoms or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue or headache).
 (N = 2413) enrolled into treatment studies oseltamivir 75 mg twice daily for 5 days reduced the median duration of influenza illness by approximately one day from 5.2 days (95 % CI 4.9 – 5.5 days) in the placebo group to 4.2 days (95 % CI 4.0 – 4.4 days) (p ≤0.0001).
 
 The proportion of subjects who developed specified lower respiratory tract complications(mainly bronchitis) treated with antibiotics was reduced from 12.7 % (135/1063) in the placebo group to 8.6 % (116/1350) in the oseltamivir treated population (p = 0.0012).
 
 In influenza-positive patients with chronic cardiac and/or respiratory disease the combined incidence of lower respiratory tract complications (mainly bronchitis) treated with antibiotics was 17 % (22/133) in the placebo group and 14 % (16/118) in the oseltamivir treated population (p = 0.5976).
 
-Treatment of influenza in children: In a study of otherwise healthy children (65% influenza-positive), aged 1 to 12 years (mean age 5.3 years), who had fever (� 37.8°C) plus either cough or coryza, 67 % of influenza-positive patients were infected with influenza A and 33 % with influenza B. Oseltamivir treatment started within 48 hours of onset of symptoms, significantly reduced the duration of time to freedom from illness (defined as the simultaneous return to normal health and activity and alleviation of fever, cough and coryza) by 1.5 days (95 % CI 0.6 - 2.2 days, p < 0.0001) compared to placebo. oseltamivir reduced the incidence of acute otitis media from 26.5 % (53/200) in the placebo group to 16 % (29/183) in the oseltamivir treated children (p = 0.013).
+Treatment of influenza in children: In a study of otherwise healthy children (65% influenza-positive), aged 1 to 12 years (mean age 5.3 years), who had fever (≥ 37.8°C) plus either cough or coryza, 67 % of influenza-positive patients were infected with influenza A and 33 % with influenza B. Oseltamivir treatment started within 48 hours of onset of symptoms, significantly reduced the duration of time to freedom from illness (defined as the simultaneous return to normal health and activity and alleviation of fever, cough and coryza) by 1.5 days (95 % CI 0.6 - 2.2 days, p < 0.0001) compared to placebo. oseltamivir reduced the incidence of acute otitis media from 26.5 % (53/200) in the placebo group to 16 % (29/183) in the oseltamivir treated children (p = 0.013).
 
 Data from 504 influenza B infected subjects were pooled across all studies for analysis. oseltamivir reduced the time to alleviation of all symptoms by 0.7 days (95 % CI 0.1 – 1.6 days;
-p = 0.022) and the duration of fever (� 37.8° C), cough and coryza by one day (95 % CI 0.4 - 1.7 days; p < 0.001)), compared to placebo.
+p = 0.022) and the duration of fever (≥ 37.8° C), cough and coryza by one day (95 % CI 0.4 - 1.7 days; p < 0.001)), compared to placebo.
 
 Influenza was confirmed in 163 out of 377 index cases. oseltamivir significantly reduced the incidence of clinical influenza illness occurring in the contacts of confirmed influenza cases from 24/200 (12 %) in the placebo group to 2/205 (1 %) in the oseltamivir group (92 % reduction, (95% CI 6 – 16), p ≤0.0001).
 

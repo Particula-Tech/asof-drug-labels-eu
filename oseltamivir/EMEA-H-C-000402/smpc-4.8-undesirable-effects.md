@@ -49,7 +49,7 @@ Adverse Events occurring in greater than 1 % of children enrolled in Phase III s
 
 In general, the adverse event profile in the children with asthma was qualitatively similar to that of otherwise healthy children.
 
-Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: dermatitis, rash, eczema, urticaria, hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, as well as very rare reports of severe skin reactions, including Steven-Johnson Syndrome and erythema multiforme.
+Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: dermatitis, rash, eczema, urticaria, hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, as well as very rare reports of severe skin reactions, including Stevens-Johnson Syndrome and erythema multiforme.
 Additionally, there are very rare reports of hepatic function disorders, including hepatitis and elevated liver enzymes in patients with influenza-like illness.
 
 [Tamiflu 12 mg/ml powder for oral suspension.]
@@ -59,7 +59,8 @@ In prevention studies, where the dosage of oseltamivir was 75 mg once daily for 
 
 | System Organ Class | Adverse Event | Treatment |  | Prevention |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Placebo (N = 1050) | Oseltamivir 75 mg twice daily (N = 1057) | Placebo (N = 1434) | Oseltamivir 75 mg once daily (N = 1480) |
+|  |  | Placebo | Oseltamivir 75 mg twice | Placebo | Oseltamivir 75 mg once |
+|  |  | (N = 1050) | daily (N = 1057) | (N = 1434) | daily (N = 1480) |
 | Gastrointestinal Disorders | Vomiting 2 Nausea 1, 2 Diarrhoea Abdominal Pain | 3.0 % 5.7 % 8.0 % 2.0 % | 8.0 % 7.9 % 5.5 % 2.2 % | 1.0 % 3.9 % 2.6 % 1.6 % | 2.1 % 7.0 % 3.2 % 2.0 % |
 | Infections and Infestations | Bronchitis Bronchitis acute | 5.0 % 1.0 % | 3.7 % 1.0 % | 1.2 % - | 0.7 % - |
 | General Disorders | Dizziness Fatigue | 3.0 % 0.7 % | 1.9 % 0.8 % | 1.5 % 7.5 % | 1.6 % 7.9 % |
@@ -83,4 +84,4 @@ Adverse Events occurring in greater 1 % of children enrolled in Phase III studie
 | Disorders of the Blood and Lymphatic System | Lymphadenopathy | 1.5 % | 1.0 % |
 | Vision disorders | Conjunctivitis | 0.4 % | 1.0 % |
 
-Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: dermatitis, rash, eczema, urticaria, hypersensitivity reactions,including anaphylactic/anaphylactoid reactions, as well as very rare reports of severe skin reactions, including Steven-Johnson Syndrome and erythema multiforme.
+Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: dermatitis, rash, eczema, urticaria, hypersensitivity reactions,including anaphylactic/anaphylactoid reactions, as well as very rare reports of severe skin reactions, including Stevens-Johnson Syndrome and erythema multiforme.

@@ -31,8 +31,8 @@ Recommended doses are detailed in the table below.
 | Creatinine clearance | Recommended dose for treatment |
 | --- | --- |
 | >30 (ml/min) | 75 mg twice daily |
-| >10 to �30 (ml/min) | 75 mg once daily or 30 mg suspension twice daily |
-| �10 (ml/min) | Not recommended |
+| >10 to ≤30 (ml/min) | 75 mg once daily or 30 mg suspension twice daily |
+| ≤10 (ml/min) | Not recommended |
 | dialysis patients | Not recommended |
 
 Prevention of influenza: Dose adjustment is recommended for adults with severe renal impairment as detailed in the table below
@@ -40,8 +40,8 @@ Prevention of influenza: Dose adjustment is recommended for adults with severe r
 | Creatinine clearance | Recommended dose for prevention |
 | --- | --- |
 | >30 (ml/min) | 75 mg once daily |
-| >10 to �30 (ml/min) | 75 mg every second day or 30 mg suspension once daily |
-| �10 (ml/min) | Not recommended |
+| >10 to ≤30 (ml/min) | 75 mg every second day or 30 mg suspension once daily |
+| ≤10 (ml/min) | Not recommended |
 | dialysis patients | Not recommended |
 
 Elderly
@@ -70,13 +70,13 @@ Post exposure prevention in adults and adolescents 13 years or older the recomme
 | Creatinine clearance | Recommended dose for treatment |
 | --- | --- |
 | >30 (ml / min) | 75 mg twice daily |
-| >10 to � 30 (ml / min) | 75 mg once daily or 30 mg suspension twice daily |
-| �10 (ml / min) | Not recommended |
+| >10 to ≤ 30 (ml / min) | 75 mg once daily or 30 mg suspension twice daily |
+| ≤10 (ml / min) | Not recommended |
 | dialysis patients | Not recommended |
 
 | Creatinine clearance | Recommended dose for prevention |
 | --- | --- |
 | >30 (ml / min) | 75 mg once daily |
-| >10 to � 30 (ml / min) | 75 mg every second day or 30 mg suspension once daily |
-| �10 (ml / min) | Not recommended |
+| >10 to ≤ 30 (ml / min) | 75 mg every second day or 30 mg suspension once daily |
+| ≤10 (ml / min) | Not recommended |
 | dialysis patients | Not recommended |

@@ -18,4 +18,4 @@ Approximately 50 % of the animals treated with the unformulated active ingredien
 Reversible irritancy of rabbits' eyes was detected.
 In a two-week study in unweaned rats a single dose of 1000 mg/kg oseltamivir phosphate to 7-day old pups resulted in deaths associated with unusually high exposure to the pro-drug.
 However, at 2000 mg/kg in 14-day old unweaned pups, there were no deaths or other significant effects.
-No adverse effects occurred at 500 mg/kg/day administered from 7 to 21 days post partum.
+No adverse effects occurred at 500 mg/kg/day administered from 7 to 21 days post partum. .In a single-dose investigatory study of this observation in 7-, 14- and 24-day old rats, a dose of 1000 mg/kg resulted in brain exposure to the pro-drug that suggested, respectively, 1500-, 650-, and 2-fold the exposure found in the brain of adult (42-day old) rats.
