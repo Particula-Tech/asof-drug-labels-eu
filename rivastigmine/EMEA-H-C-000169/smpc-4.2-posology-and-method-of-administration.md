@@ -1,7 +1,13 @@
 # 4.2 Posology and method of administration
 
-Administration: Rivastigmine should be administered twice a day, with morning and evening meals.
-The capsules should be swallowed whole.
+Administration: Treatment should be initiated and supervised by a physician experienced in the diagnosis and treatment of Alzheimer’s dementia.
+Diagnosis should be made according to current guidelines.
+Therapy with rivastigmine should only be started if a caregiver is available who will regularly monitor drug intake by the patient.
+
+Rivastigmine oral solution should be administered twice a day.
+The prescribed amount of solution should be withdrawn from the container using the oral dosing syringe supplied.
+Rivastigmine oral solution may be swallowed directly from the syringe.
+Rivastigmine oral solution and rivastigmine capsules may be interchanged at equal doses.
 
 Initial dose: 1.5 mg twice a day.
 
@@ -24,5 +30,6 @@ Treatment effect has not been studied in placebo-controlled trials beyond 6 mont
 
 Renal and hepatic impairment:
 Due to increased exposure in renal and mild to moderate hepatic impairment, dosing recommendations to titrate according to individual tolerability should be closely followed.
+
 Children:
 Rivastigmine is not recommended for use in children.
