@@ -28,6 +28,7 @@ The N-desmethyl metabolite is further metabolised, with a terminal half life of 
 Elimination
 
 The total body clearance of sildenafil is 41 l/h with a resultant terminal phase half life of 3-5 h. After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the faeces (approximately 80 % of administered oral dose) and to a lesser extent in the urine (approximately 13 % of administered oral dose).
+
 Pharmacokinetics in special patient groups
 
 Elderly

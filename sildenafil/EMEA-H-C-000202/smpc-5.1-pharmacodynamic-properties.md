@@ -24,12 +24,17 @@ In particular, sildenafil has greater than 4,000-fold selectivity for PDE5 over 
 Two clinical studies were specifically designed to assess the time window after dosing during which sildenafil could produce an erection in response to sexual stimulation.
 In a penile plesthysmography (RigiScan) study of fasted patients, the median time to onset for those who obtained erections of 60 % rigidity (sufficient for sexual intercourse) was 25 minutes (range 12-37 minutes) on sildenafil.
 In a separate RigiScan study, sildenafil was still able to produce an erection in response to sexual stimulation 4-5 hours post-dose.
-
 Sildenafil causes mild and transient decreases in blood pressure which, in the majority of cases, do not translate into clinical effects.
 The mean maximum decreases in supine systolic blood pressure following 100 mg oral dosing of sildenafil was 8.4 mmHg.
 The corresponding change in supine diastolic blood pressure was 5.5 mmHg.
 These decreases in blood pressure are consistent with the vasodilatory effects of sildenafil, probably due to increased cGMP levels in vascular smooth muscle.
 Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on ECG.
+
+In a study of the hemodynamic effects of a single oral 100mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (>70% stenosis of at least one coronary artery), the mean resting systolic and diastolic blood pressures decreased by 7% and 6% respectively compared to baseline.
+Mean pulmonary systolic blood pressure decreased by 9%.
+Sildenafil showed no effect on cardiac output, and did not impair blood flow through the stenosed coronary arteries.
+
+No clinical relevant differences were demonstrated in time to limiting angina for sildenafil when compared with placebo in a double blind, placebo controlled exercise stress trial in 144 patients with erectile dysfunction and chronic stable angina, who were taking on a regular basis anti-anginal medications (except nitrates).
 
 Mild and transient differences in colour discrimination (blue/green) were detected in some subjects using the Farnsworth-Munsell 100 hue test at 1 hour following a 100 mg dose, with no effects evident after 2 hours post-dose.
 The postulated mechanism for this change in colour discrimination is related to inhibition of PDE6, which is involved in the phototransduction cascade of the retina.
@@ -39,6 +44,7 @@ In a small size placebo-controlled study of patients with documented early age-r
 There was no effect on sperm motility or morphology after single 100 mg oral doses of sildenafil in healthy volunteers.
 
 Further information on clinical trials
+
 In clinical trials sildenafil was administered to more than 3000 patients aged 19-87.
 The following patient groups were represented: elderly (21 %), patients with hypertension (24 %), diabetes mellitus (16 %), ischaemic heart disease and other cardiovascular diseases (14 %), hyperlipidaemia (14 %), spinal cord injury (6 %), depression (5 %), transurethral resection of the prostate (5 %), radical prostatectomy (4 %).
 The following groups were not well represented or excluded from clinical trials: patients with pelvic surgery, patients post-radiotherapy, patients with severe renal or hepatic impairment and patients with certain cardiovascular conditions (see Section 4.3 Contra-indications).

@@ -1,11 +1,3 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/98/077/001-004
-
-[VIAGRA 50 mg film-coated tablets]
-
-EU/1/98/077/005-008
-
-[VIAGRA 100 mg film-coated tablets]
-
-EU/1/98/077/009-012

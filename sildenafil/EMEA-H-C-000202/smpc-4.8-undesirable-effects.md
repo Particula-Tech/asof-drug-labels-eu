@@ -9,8 +9,8 @@ Special senses: Altered vision (1.9 %; mild and transient, predominantly colour 
 In fixed dose studies, dyspepsia (12 %), and altered vision (11 %) were more common at 100 mg than at lower doses.
 
 In addition, there were reports of muscle aches when sildenafil was administered more frequently than the recommended dosing regimen.
-
 Adverse reactions were mild to moderate in nature and the incidence and severity increased with dose.
+
 In postmarketing surveillance the following adverse events have been reported:
 
 Body as a whole: hypersensitivity reactions (including skin rashes)
