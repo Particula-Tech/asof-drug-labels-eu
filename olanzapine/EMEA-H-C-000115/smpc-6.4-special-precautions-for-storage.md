@@ -1,6 +1,6 @@
 # 6.4 Special precautions for storage
 
-Store in the original package.
+Store in the original package
 
 [ZYPREXA 5 mg coated tablets.]
 

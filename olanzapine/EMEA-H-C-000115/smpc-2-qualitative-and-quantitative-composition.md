@@ -1,7 +1,7 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each coated tablet contains 2.5 mg olanzapine.
-For excipients, see 6.1.
+For excipients, see section 6.1.
 
 [ZYPREXA 5 mg coated tablets.]
 
@@ -27,8 +27,6 @@ Each coated tablet contains 20 mg olanzapine.
 
 Each vial contains 10 mg olanzapine.
 It provides a solution containing 5 mg/ml olanzapine when reconstituted as recommended.
-
-For excipients, see section 6.1
 
 [ZYPREXA 10 mg powder and solvent for solution for injection.]
 

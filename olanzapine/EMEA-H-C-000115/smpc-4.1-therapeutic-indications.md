@@ -8,7 +8,7 @@ Olanzapine is indicated for the treatment of moderate to severe manic episode.
 
 In patients whose manic episode has responded to olanzapine treatment, olanzapine is indicated for the prevention of recurrence in patients with bipolar disorder (see section 5.1).
 
-4.1.2 Further information on clinical trials
+4.1.1 Further information on clinical trials
 
 In a multinational, double-blind, comparative study of schizophrenia, schizoaffective, and related disorders which included 1,481 patients with varying degrees of associated depressive symptoms (baseline mean of 16.6 on the Montgomery-Asberg Depression Rating Scale), a prospective secondary analysis of baseline to endpoint mood score change demonstrated a statistically significant improvement (p=0.001) favouring olanzapine (-6.0) versus haloperidol (-3.1).
 

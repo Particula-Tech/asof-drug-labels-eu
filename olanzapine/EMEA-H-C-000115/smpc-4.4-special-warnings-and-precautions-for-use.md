@@ -65,6 +65,10 @@ In clinical trials, olanzapine was not associated with a persistent increase in 
 Only 8 of 1,685 subjects had increased QTc interval on multiple occasions.
 However, as with other antipsychotics, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
 
+Temporal association of olanzapine treatment and venous thromboembolism has very rarely (<0.01%) been reported. .
+A causal relationship between the occurrence of venous thromboembolism and treatment with olanzapine has not been established.
+However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients, should be identified and preventive measures undertaken.
+
 [ZYPREXA 5 mg coated tablets.]
 
 (all sentences already above)
@@ -72,6 +76,8 @@ However, as with other antipsychotics, caution should be exercised when olanzapi
 [ZYPREXA 7.5 mg coated tablets.]
 
 In cases where hepatitis has been diagnosed, olanzapine treatment, should be discontinued.
+
+However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients should be identified and preventive measures undertaken.
 
 [ZYPREXA 10 mg coated tablets.]
 
