@@ -14,12 +14,11 @@ Regular monitoring of platelet count and haematocrit is recommended.
 
 Neulasta should not be used to increase the dose of cytotoxic chemotherapy beyond established dosage regimens.
 
-| Publications have reported that high leucocyte counts are disadvantageous prognostic factors in |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-| patients with sickle-cell anaemia. Therefore, physicians should exercise caution when administering |  |  |  |  |  |
-| Neulasta | in patients with sickle cell disease, should monitor appropriate clinical parameters and |  |  |  |  |
-| laboratory status and be attentive to the possible association of |  | Neulasta | with | splenic | enlargement and |
-| vaso-occlusive crisis. |  |  |  |  |  |
+Publications have reported that high leucocyte counts are disadvantageous prognostic factors in
+patients with sickle-cell anaemia. Therefore, physicians should exercise caution when administering
+Neulasta in patients with sickle cell disease, should monitor appropriate clinical parameters and
+laboratory status and be attentive to the possible association of Neulasta with splenic enlargement and
+vaso-occlusive crisis.
 
 White blood cell counts of 100 x 109/l or greater have been observed in less than 1% of patients receiving Neulasta.
 No adverse events directly attributable to this degree of leucocytosis have been reported.

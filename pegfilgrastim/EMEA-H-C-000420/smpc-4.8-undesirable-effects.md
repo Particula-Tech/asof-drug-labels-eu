@@ -5,6 +5,9 @@ In randomised clinical studies in patients with malignancy receiving Neulasta af
 The most frequently reported study-drug related undesirable effect was bone pain (26%).
 Bone pain was generally of mild-to-moderate severity, transient and could be controlled in most patients with standard analgesics.
 
+Allergic-type reactions, including anaphylaxis, skin rash, urticaria, angioedema, dyspnoea and hypotension, occurring on initial or subsequent treatment have been reported both with Neulasta and with the parent compound of Neulasta, filgrastim.
+In some cases, symptoms have recurred with rechallenge, suggesting a causal relationship.
+
 Reversible, mild to moderate elevations in uric acid, alkaline phosphatase and lactate dehydrogenase, with no associated clinical effects, occurred in 7%, 10% and 20% respectively of patients receiving Neulasta following cytotoxic chemotherapy.
 Nausea was observed in healthy volunteers (11%) and < 1% of patients receiving chemotherapy.
 
