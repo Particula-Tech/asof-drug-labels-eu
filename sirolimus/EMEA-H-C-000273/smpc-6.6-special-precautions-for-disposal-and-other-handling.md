@@ -25,3 +25,7 @@ No special requirements.
 [Rapamune 2 mg coated tablets]
 
 (all sentences already above)
+
+[Rapamune 5 mg coated tablets]
+
+(all sentences already above)

@@ -23,3 +23,9 @@ Each tablet contains 1 mg sirolimus.
 [Rapamune 2 mg coated tablets]
 
 Each tablet contains 2 mg sirolimus.
+
+[Rapamune 5 mg coated tablets]
+
+Each tablet contains 5 mg sirolimus.
+
+For excipients, see section 6.1.

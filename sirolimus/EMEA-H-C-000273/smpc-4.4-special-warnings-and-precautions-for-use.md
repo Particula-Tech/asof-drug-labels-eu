@@ -1,7 +1,6 @@
 # 4.4 Special warnings and special precautions for use
 
 Rapamune is for oral administration only.
-
 Rapamune has been administered concurrently with the following agents in clinical studies: cyclosporine, azathioprine, mycophenolate mofetil, corticosteroids, and cytotoxic antibodies.
 Rapamune in combination with other immunosuppressive agents has not been extensively investigated.
 
@@ -38,6 +37,7 @@ The use of Rapamune in renal transplant patients was associated with increased s
 Patients administered Rapamune, should be monitored for hyperlipidemia using laboratory tests and if hyperlipidemia is detected, subsequent interventions such as diet, exercise, and lipid-lowering agents should be initiated.
 The risk/benefit should be considered in patients with established hyperlipidemia before initiating an immunosuppressive regimen including Rapamune.
 Similarly the risk/benefit of continued Rapamune therapy should be re-evaluated in patients with severe refractory hyperlipidemia.
+
 In clinical trials, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates was well tolerated.
 During Rapamune therapy, patients administered an HMG-CoA reductase inhibitor and/or fibrate, should be monitored for the possible development of rhabdomyolysis and other adverse effects as described in the respective Summary of Product Characteristics of these agents.
 
@@ -69,3 +69,19 @@ In those patients with a history of sucrase insufficiency, isomaltase insufficie
 [Rapamune 2 mg coated tablets]
 
 (all sentences already above)
+
+[Rapamune 5 mg coated tablets]
+
+Concomitant use with other immunosuppressive agents
+Sirolimus has been administered concurrently with the following agents in clinical studies: cyclosporin, azathioprine, mycophenolate mofetil, corticosteroids and cytotoxic antibodies.
+Sirolimus in combination with other immunosuppressive agents has not been extensively investigated.
+
+Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression (see section 4.8).
+
+In two clinical studies in de novo liver transplant patients the use of sirolimus plus cyclosporin or tacrolimus was associated with an increase in hepatic artery thrombosis, mostly leading to graft loss or death.
+
+Renal function should be monitored during concomitant administration of Rapamune and cyclosporin.
+
+Patients treated with cyclosporin and Rapamune beyond 3 months had higher serum creatinine levels and lower calculated glomerular filtration rates compared to patients treated with cyclosporin and placebo or azathioprine controls.
+Patients who were successfully withdrawn from cyclosporin had lower serum creatinine levels and higher calculated glomerular filtration rates compared to patients remaining on cyclosporin.
+Until further clinical data are available, the continued co-administration of cyclosporin and Rapamune as maintenance therapy cannot be recommended

@@ -23,6 +23,7 @@ Co-administration of sirolimus and ketoconazole is not recommended (Section 4.4)
 
 Voriconazole (CYP3A4 inhibitor): Co-administration of sirolimus (2 mg single dose) with multiple-dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 100 mg every 12 hours for 8 days) in healthy subjects has been reported to increase sirolimus Cmax and AUC by an average of 7-fold and 11-fold respectively.
 Co-administration of sirolimus and voriconazole is not recommended (Section 4.4).
+
 Diltiazem (CYP3A4 inhibitor): The simultaneous oral administration of 10 mg of Rapamune oral solution and 120 mg of diltiazem significantly affected the bioavailability of sirolimus.
 Sirolimus Cmax, tmax, and AUC were increased 1.4-fold, 1.3-fold, and 1.6-fold, respectively.
 Sirolimus did not affect the pharmacokinetics of either diltiazem or its metabolites desacetyldiltiazem and desmethyldiltiazem.
@@ -82,3 +83,18 @@ Inducers of CYP3A4 may increase the metabolism of sirolimus and decrease sirolim
 [Rapamune 2 mg coated tablets]
 
 (all sentences already above)
+
+[Rapamune 5 mg coated tablets]
+
+Co-administration of sirolimus with strong inhibitors of CYP3A4 or inducers of CYP3A4 is not recommended (see section 4.4).
+
+Cyclosporin (CYP3A4 substrate): The rate and extent of sirolimus absorption was significantly increased by cyclosporin A (CsA).
+Single-dose sirolimus did not affect the pharmacokinetics of cyclosporin (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart.
+It is recommended that Rapamune be administered 4 hours after cyclosporin (microemulsion).
+
+Co-administration of sirolimus and rifampicin is not recommended (see section 4.4).
+Co-administration of sirolimus and ketoconazole is not recommended (see section 4.4).
+
+Co-administration of sirolimus and voriconazole is not recommended (see section 4.4).
+
+Although sirolimus inhibits human liver microsomal cytochrome P450 CYP2C9, CYP2C19, CYP2D6, and CYP3A4/5 in vitro, the active substance is not expected to inhibit the activity of these isozymes in vivo since the sirolimus concentrations necessary to produce inhibition are much higher than those observed in patients receiving therapeutic doses of Rapamune.

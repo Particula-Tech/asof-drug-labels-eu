@@ -27,3 +27,7 @@ Use sachet immediately after opening.
 [Rapamune 2 mg coated tablets]
 
 23 months.
+
+[Rapamune 5 mg coated tablets]
+
+2 years
