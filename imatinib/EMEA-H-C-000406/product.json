@@ -1,0 +1,16 @@
+{
+  "active_substance": "imatinib",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000406",
+  "eu_number": "EU/1/01/198",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2001-11-07",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/glivec",
+  "molecule": "imatinib",
+  "molecule_name": "IMATINIB",
+  "name": "Glivec",
+  "register_name": "Glivec",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h198.htm"
+}

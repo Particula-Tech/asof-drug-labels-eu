@@ -1,0 +1,33 @@
+# 4.4 Special warnings and special precautions for use
+
+When Glivec is co-administered with other medications, there is a potential for drug interactions (see section 4.5).
+
+One patient, who was taking paracetamol regularly for fever, died of acute liver failure.
+Although the aetiology is currently unknown, caution should be exercised when using paracetamol.
+
+Glivec should be taken with food and a large glass of water to minimise the risk of gastrointestinal irritations.
+
+Metabolism of Glivec is mainly hepatic, and only 13% of excretion is through the kidneys.
+There are currently no clinical trials with Glivec in patients with impaired liver or renal function.
+Glivec should not be used in patients with severe hepatic impairment unless clearly necessary.
+In these cases, peripheral blood counts and liver enzymes should be carefully monitored (see sections 4.2 and 4.8).
+
+Occurrences of severe fluid retention (pleural effusion, oedema, pulmonary oedema, ascites) have been reported in approximately 1 to 2% of patients taking Glivec.
+Therefore, it is highly recommended that patients be weighed regularly.
+An unexpected rapid weight gain should be carefully investigated and if necessary appropriate supportive care and therapeutic measures should be undertaken.
+In clinical trials, there was an increased incidence of these events in elderly patients and those with a prior history of cardiac disease.
+Laboratory tests
+Complete blood counts must be performed regularly during therapy with Glivec.
+Treatment of CML patients with Glivec has been associated with neutropenia or thrombocytopenia.
+However, the occurrence of these cytopenias is likely to be related to the stage of the disease being treated and they were more frequent in patients with accelerated phase CML or blast crisis as compared to patients with chronic phase CML.
+Treatment with Glivec may be interrupted or the dose may be reduced, as recommended in section 4.2 (Posology and method of administration).
+
+Liver function (transaminases, bilirubin, alkaline phosphatase) should be monitored regularly in patients receiving Glivec.
+
+Glivec and its metabolites are not excreted via the kidney to a significant extent (13%).
+Creatinine clearance is known to decrease with age, and age did not significantly affect Glivec kinetics.
+
+[GLIVEC 100 mg capsules, hard]
+
+In these cases, peripheral blood counts and liver enzymes should be carefully monitored.
+(see sections 4.2 and 4.8).
