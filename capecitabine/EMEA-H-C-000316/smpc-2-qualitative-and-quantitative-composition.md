@@ -2,7 +2,7 @@
 
 150 mg capecitabine
 
-For excipients, see 6.1.
+For excipients, see sec. 6.1.
 
 [Xeloda®500 mg film-coated tablets]
 

@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indications
 
-Xeloda is indicated for first line monotherapy of metastatic colorectal cancer (see Section 5.1 Pharmacodynamic properties).
+Xeloda is indicated for first line monotherapy of metastatic colorectal cancer (see sec. 5.1).
 
 Xeloda in combination with docetaxel is indicated for the treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy.
 Previous therapy should have included an anthracycline.

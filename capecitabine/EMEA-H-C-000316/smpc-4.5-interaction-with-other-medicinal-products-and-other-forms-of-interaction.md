@@ -7,6 +7,7 @@ These events occurred within several days and up to several months after initiat
 In a clinical pharmacokinetic interaction study, after a single 20 mg dose of warfarin, Xeloda treatment increased the AUC of S-warfarin by 57% with a 91% increase in INR value.
 Since metabolism of R-warfarin was not affected, these results indicate that capecitabine down-regulates isozyme 2C9, but has no effect on isozymes 1A2 and 3A4.
 Patients taking coumarin-derivative anticoagulants concomitantly with Xeloda should be monitored regularly for alterations in their coagulation parameters (PT or INR) and the anti-coagulant dose adjusted accordingly.
+
 Phenytoin: increased phenytoin plasma concentrations resulting in symptoms of phenytoin intoxication in single cases have been reported during concomitant use of Xeloda with phenytoin.
 Patients taking phenytoin concomitantly with Xeloda should be regularly monitored for increased phenytoin plasma concentrations.
 
@@ -15,8 +16,7 @@ However, folinic acid has an effect on the pharmacodynamics of Xeloda: the maxim
 
 Sorivudine and analogues: a clinically significant drug-drug interaction between sorivudine and 5-FU, resulting from the inhibition of dihydropyrimidine dehydrogenase by sorivudine, has been described.
 This interaction, which leads to increased fluoropyrimidine toxicity, is potentially fatal.
-Therefore, Xeloda must not be administered with sorivudine or its chemically related analogues, such as brivudine (see Section 4.3 Contraindications).
-
+Therefore, Xeloda must not be administered with sorivudine or its chemically related analogues, such as brivudine (see sec. 4.3).
 Antacid: the effect of an aluminum hydroxide and magnesium hydroxide-containing antacid on the pharmacokinetics of capecitabine was investigated.
 There was a small increase in plasma concentrations of capecitabine and one metabolite (5’-DFCR); there was no effect on the 3 major metabolites (5’-DFUR, 5-FU and FBAL).
 
@@ -29,4 +29,4 @@ Interferon alpha: the MTD of Xeloda was 2000 mg/m2 per day when combined with in
 
 Food Interaction: In all clinical trials, patients were instructed to administer Xeloda within 30 minutes after a meal.
 Since current safety and efficacy data are based upon administration with food, it is recommended that Xeloda be administered with food.
-Administration with food decreases the rate of capecitabine absorption (see section 5.2 Pharmacokinetic properties).
+Administration with food decreases the rate of capecitabine absorption (see sec. 5.2).

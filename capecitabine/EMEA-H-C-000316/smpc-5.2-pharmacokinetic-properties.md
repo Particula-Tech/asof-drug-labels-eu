@@ -9,7 +9,7 @@ Absorption: after oral administration, capecitabine is rapidly and extensively a
 Administration with food decreases the rate of capecitabine absorption, but only results in a minor effect on the AUC of 5'-DFUR, and on the AUC of the subsequent metabolite 5-FU.
 At the dose of 1250 mg/m2 on day 14 with administration after food intake, the peak plasma concentrations (Cmax in µg/ml) for capecitabine, 5'-DFCR, 5'-DFUR, 5-FU and FBAL were 4.67, 3.05, 12.1, 0.95 and 5.46 respectively.
 The time to peak plasma concentrations (Tmax in hours) were 1.50, 2.00, 2.00, 2.00 and 3.34.
-The AUC0-� values in �g�h/ml were 7.75, 7.24, 24.6, 2.03 and 36.3.
+The AUC0-∞ values in µg•h/ml were 7.75, 7.24, 24.6, 2.03 and 36.3.
 
 Protein binding: in vitro human plasma studies have determined that capecitabine, 5'-DFCR, 5'-DFUR and 5-FU are 54%, 10%, 62% and 10% protein bound, mainly to albumin.
 
@@ -23,15 +23,17 @@ The ratio of 5-FU concentration in tumour to plasma was 21.4 (ranged from 3.9 to
 Thymidine phosphorylase activity was measured and found to be 4 times greater in primary colorectal tumour than in adjacent normal tissue.
 According to immunohistochemical studies, thymidine phosphorylase appears to be in large part localised in tumour stromal cells.
 
-5-FU is further catabolised to the inactive metabolites dihydro-5-fluoruracil (FUH2), 5-fluoro-ureidopropionic acid (FUPA) and α-fluoro-β-alanine (FBAL) via dihydropyrimidine dehydrogenase (DPD), which is rate limiting.
-Deficiency of DPD may lead to increased toxicity of capacitabine (see 4.3 Contraindications and 4.4 Special warnings and precautions for use).
+5-FU is further catabolised by the enzyme dihydropyrimidine dehydrogenase (DPD) to the much less toxic dihydro-5-fluorouracil (FUH2).
+Dihydropyrimidinase cleaves the pyrimidine ring to yield 5-fluoro-ureidopropionic acid (FUPA).
+Finally, β-ureido-propionase cleaves FUPA to α-fluoro-β-alanine (FBAL) which is cleared in the urine.
+Dihydropyrimidine dehydrogenase (DPD) activity is the rate limiting step.
+Deficiency of DPD may lead to increased toxicity of capacitabine (see sec. 4.3 and 4.4).
 
 Elimination: the elimination half-life (t1/2 in hours) of capecitabine, 5'-DFCR, 5'-DFUR, 5-FU and FBAL were 0.85, 1.11, 0.66, 0.76 and 3.23 respectively.
 Capecitabine and its metabolites are predominantly excreted in urine; 95.5% of administered capecitabine dose is recovered in urine.
 Faecal excretion is minimal (2.6%).
 The major metabolite excreted in urine is FBAL, which represents 57% of the administered dose.
 About 3% of the administered dose is excreted in urine as unchanged drug.
-
 Combination therapy: Phase I studies evaluating the effect of Xeloda on the pharmacokinetics of either docetaxel or paclitaxel and vice versa showed no effect by Xeloda on the pharmacokinetics of docetaxel or paclitaxel (Cmax and AUC) and no effect by docetaxel or paclitaxel on the pharmacokinetics of 5’-DFUR.
 
 Pharmacokinetics in special populations: A population pharmacokinetic analysis was carried out after Xeloda treatment of 505 patients with colorectal cancer dosed at 1250 mg/m2 twice daily.
@@ -47,3 +49,8 @@ FBAL is a metabolite without antiproliferative activity.
 Elderly: Based on the population pharmacokinetic analysis, which included patients with a wide range of ages (27 to 86 years) and included 234 (46%) patients greater or equal to 65, age has no influence on the pharmacokinetics of 5'-DFUR and 5-FU.
 The AUC of FBAL increased with age (20% increase in age results in a 15% increase in the AUC of FBAL).
 This increase is likely due to a change in renal function.
+
+Ethnic factors: Following oral administration of 825 mg/m2 capecitabine twice daily for 14 days, Japanese patients (n=18) had about 36% lower Cmax and 24% lower AUC for capecitabine than Caucasian patients (n=22).
+Japanese patients had also about 25% lower Cmax and 34% lower AUC for FBAL than Caucasian patients.
+The clinical relevance of these differences is unknown.
+No significant differences occurred in the exposure to other metabolites (5'-DFCR, 5'-DFUR, and 5-FU).
