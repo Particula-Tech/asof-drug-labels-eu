@@ -6,9 +6,9 @@ Mechanism of action: Emtricitabine is a synthetic nucleoside analogue of cytosin
 
 Emtricitabine is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate, which competitively inhibits HIV-1 reverse transcriptase, resulting in DNA chain termination.
 Emtricitabine is a weak inhibitor of mammalian DNA polymerase α, β and ε and mitochondrial DNA polymerase γ.
-
 Emtricitabine did not exhibit cytotoxicity to peripheral blood mononuclear cells (PBMCs), established lymphocyte and monocyte-macrophage cell lines or bone marrow progenitor cells in vitro.
 There was no evidence of toxicity to mitochondria in vitro or in vivo.
+
 Antiviral activity in vitro: The 50% inhibitory concentration (IC50) value for emtricitabine against laboratory and clinical isolates of HIV-1 was in the range of 0.0013 to 0.5 µmol/l.
 In combination studies of emtricitabine with protease inhibitors, nucleoside, nucleotide and non-nucleoside analogue inhibitors of HIV reverse transcriptase, additive to synergistic effects were observed.
 Most of these combinations have not been studied in humans.

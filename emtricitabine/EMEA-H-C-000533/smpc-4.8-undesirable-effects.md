@@ -22,7 +22,6 @@ Common: dizziness, asthenia, insomnia, abnormal dreams
 Gastrointestinal disorders:
 Very common: diarrhoea, nausea
 Common: vomiting, dyspepsia, abdominal pain, elevated serum lipase, elevated amylase including elevated pancreatic amylase
-
 Hepato-biliary disorders:
 Common: elevated serum aspartate aminotransferase (AST) and/or elevated serum alanine aminotransferase (ALT), hyperbilirubinaemia
 
@@ -41,3 +40,5 @@ However, as would be expected in this patient population, elevations in AST and 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see 4.4).
+
+In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).

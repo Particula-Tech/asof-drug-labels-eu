@@ -4,4 +4,6 @@
 
 [Emtriva 10 mg/ml oral solution]
 
-After first opening: 28 days.
+3 years.
+
+After first opening: 45 days.

@@ -3,6 +3,7 @@
 Absorption: Emtricitabine is rapidly and extensively absorbed following oral administration with peak plasma concentrations occurring at 1 to 2 hours post-dose.
 In 20 HIV infected subjects receiving 200 mg emtricitabine daily as hard capsules, steady-state plasma emtricitabine peak concentrations (Cmax), trough concentrations (Cmin) and area under the plasma concentration time curve over a 24-hour dosing interval (AUC) were 1.8±0.7 µg/ml, 0.09±0.07 µg/ml and 10.0±3.1 µg·h/ml, respectively.
 Steady-state trough plasma concentrations reached levels approximately 4-fold above the in vitro IC90 values for anti-HIV activity.
+
 The absolute bioavailability of emtricitabine from Emtriva 200 mg hard capsules was estimated to be 93% and the absolute bioavailability from Emtriva 10 mg/ml oral solution was estimated to be 75%.
 
 In a pilot study in children and a definitive bioequivalence study in adults, the Emtriva 10 mg/ml oral solution was shown to have approximately 80% of the bioavailability of the Emtriva 200 mg hard capsules.
@@ -39,6 +40,7 @@ Intracellular triphosphate levels increased with dose, but reached a plateau at 
 Adults with renal insufficiency: Pharmacokinetic parameters were determined following administration of a single dose of 200 mg emtricitabine hard capsules to 30 non-HIV infected subjects with varying degrees of renal insufficiency.
 Subjects were grouped according to baseline creatinine clearance
 (> 80 ml/min as normal function; 50-80 ml/min as mild impairment; 30-49 ml/min as moderate impairment; < 30 ml/min as severe impairment; < 15 ml/min as functionally anephric requiring haemodialysis).
+
 The systemic emtricitabine exposure (mean ± standard deviation) increased from 11.8±2.9 µg·h/ml in subjects with normal renal function to 19.9±1.1, 25.0±5.7 and 34.0±2.1 µg·h/ml, in patients with mild, moderate and severe renal impairment, respectively.
 
 In patients with ESRD on haemodialysis, approximately 30% of the emtricitabine dose was recovered in dialysate over a 3 hour dialysis period which had been started within 1.5 hours of emtricitabine dosing (blood flow rate of 400 ml/min and dialysate flow rate of approximately 600 ml/min).

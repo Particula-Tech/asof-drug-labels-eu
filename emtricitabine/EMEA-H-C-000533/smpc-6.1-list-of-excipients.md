@@ -10,7 +10,6 @@ Capsule shell:
 Gelatin
 Indigotine (E132)
 Titanium dioxide (E171)
-
 Printing ink containing:
 Black iron oxide (E172)
 Shellac (E904)
