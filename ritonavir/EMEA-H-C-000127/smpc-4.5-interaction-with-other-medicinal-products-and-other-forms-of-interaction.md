@@ -39,8 +39,7 @@ In HIV-infected patients, Invirase and Fortovase in combination with ritonavir a
 For further information, physicians should refer to the Invirase and Fortovase Summary of Product Characteristics.
 
 Indinavir: ritonavir inhibits the CYP3A-mediated metabolism of indinavir.
-In healthy subjects,
-200 mg to 400 mg of ritonavir twice daily given with a single 400 mg to 600 mg indinavir dose increased the indinavir AUC by 185% to 475%, Cmax 21% to 110%, and C8h 11 to 33-fold, relative to 400 mg to 600 mg indinavir given alone.
+In healthy subjects, 200 mg to 400 mg of ritonavir twice daily given with a single 400 mg to 600 mg indinavir dose increased the indinavir AUC by 185% to 475%, Cmax 21% to 110%, and C8h 11 to 33-fold, relative to 400 mg to 600 mg indinavir given alone.
 Concomitant administration of 400 mg ritonavir and 400 mg indinavir twice daily with a meal yielded a similar indinavir AUC, a 4 fold increase in Cmin and a 50% to 60% decrease in Cmax as compared to those resulting from administration of indinavir 800 mg three times daily under fasting conditions.
 Co-administration of ritonavir with indinavir will result in increased indinavir serum concentrations.
 There are limited safety or efficacy data available on the use of this combination in patients.
@@ -83,7 +82,6 @@ In a published study, administration of short-term ritonavir (200 mg twice daily
 Alprazolam can be co-administered during chronic therapy with ritonavir
 (> 10 days).
 Caution is warranted regarding alprazolam co-administration during the first several days after initiating ritonavir therapy, before induction of alprazolam metabolism has occurred.
-
 Triazolam: in a published study, co-administration of short-term ritonavir and triazolam resulted in a very large (> 20 fold) increase in the AUC of triazolam.
 These data support that triazolam and ritonavir should not be co-administered (see section 4.3).
 
@@ -125,12 +123,18 @@ An increased methadone dose may be necessary when concomitantly administered wit
 Meperidine: co-administration of multiple-dose ritonavir with single dose oral meperidine resulted in a 62% decrease in meperidine AUC and a 47% increase in normeperidine AUC.
 Dosage increase and long term use of meperidine and ritonavir are not recommended due to the increased concentrations of the metabolite, normeperidine, which has both analgesic and CNS stimulant activity (eg, seizures).
 
+Fluticasone propionate: in a clinical study where ritonavir 100 mg capsules twice daily were co − administered with 50 µg intranasal fluticasone propionate (4 times daily) for seven days in healthy subjects, the fluticasone propionate plasma levels increased significantly, whereas the intrinsic cortisol levels decreased by approximately 86% (90% confidence interval 82 − 89%).
+Greater effects may be expected when fluticasone propionate is inhaled.
+Systemic corticosteroid effects including Cushing's syndrome and adrenal suppression have been reported when ritonavir has been co − administered with inhaled or intranasally administered fluticasone propionate; this could also occur with other corticosteroids eg budesonide.
+Consequently, concomitant administration of Norvir (including low dose of ritonavir) and inhaled or intranasally administered glucocorticoids is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects.
+A dose reduction of the glucocorticoid should be considered with close monitoring.
+Moreover, in case of withdrawal of glucocorticoids progressive dose reduction may have to be performed over a longer period.
+The effects of high fluticasone systemic exposure on ritonavir plasma levels is yet unknown (see section 4.4).
+
 Because ritonavir is highly protein bound, the possibility of increased therapeutic and toxic effects due to protein binding displacement of concomitant medications should be considered.
 
 Cardiac and neurologic events have been reported when ritonavir has been co-administered with disopyramide, mexiletine, nefazadone, or fluoxetine.
 The possibility of drug interaction cannot be excluded.
-
-Cushing’s syndrome and adrenal suppression have been reported when ritonavir, primarily at higher doses, has been co-administered with fluticasone propionate.
 
 [Norvir 100 mg soft capsules]
 

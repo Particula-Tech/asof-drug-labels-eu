@@ -31,6 +31,7 @@ Skin and subcutaneous tissue disorders: Rash, pruritus and sweating were commonl
 
 Allergic reactions including urticaria, mild skin eruptions, bronchospasm, and angioedema have been reported.
 Rare cases of anaphylaxis and Stevens-Johnson syndrome have been reported
+
 Other disorders: Very common events reported were headache.
 Fever, pain and weight loss were commonly reported.
 
@@ -45,11 +46,11 @@ Combination antiretroviral therapy has been associated with redistribution of bo
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
+In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
 Hyperglycaemia has been reported in individuals with and without a known history of diabetes.
 Cause and effect relationship has not been established.
 
 Hypertriglyceridaemia, hypercholesterolaemia and hyperuricaemia were clearly related to ritonavir therapy.
-
 Pancreatitis has been observed in patients receiving Norvir therapy, including those who developed hypertriglyceridemia.
 In some cases fatalities have been observed.
 Patients with advanced HIV disease may be at risk of elevated triglycerides and pancreatitis.

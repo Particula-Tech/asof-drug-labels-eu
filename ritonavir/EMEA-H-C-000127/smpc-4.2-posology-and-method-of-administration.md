@@ -20,8 +20,8 @@ For further specific information, refer to the Summary of Product Characteristic
 See also section 4.5.
 
 For the use of ritonavir with saquinavir a cautious titration of the dose has been used by initiating ritonavir dosing at 300 mg twice daily.
-For the use of ritonavir with indinavir a cautious titration of the dose has been used by initiating ritonavir dosing at 200 mg twice daily increasing by 100 mg twice daily reaching 400 mg twice daily within 2 weeks.
 
+For the use of ritonavir with indinavir a cautious titration of the dose has been used by initiating ritonavir dosing at 200 mg twice daily increasing by 100 mg twice daily reaching 400 mg twice daily within 2 weeks.
 Paediatric use (2 years of age and above): the recommended dosage of Norvir solution in children is 350 mg/m² by mouth twice daily and should not exceed 600 mg twice daily.
 Norvir should be started at 250 mg/m² and increased at 2 to 3 day intervals by 50 mg/m² twice daily.
 When possible, dose should be administered using a calibrated dosing syringe.
@@ -58,8 +58,7 @@ Ritonavir should be administered by physicians who are experienced in the treatm
 Adult use: Norvir soft capsules are administered orally and should preferably be ingested with food.
 The recommended dosage of Norvir soft capsules is 600 mg (6 capsules) twice daily by mouth.
 
-Single Protease Inhibitor (PI) containing combination regimen for adults: Treatment should be initiated at 300 mg (3 capsules) twice daily for a period of three days and increased by 100 mg
-(1 capsule) twice daily increments up to 600 mg twice daily over a period of no longer than 14 days.
+Single Protease Inhibitor (PI) containing combination regimen for adults: Treatment should be initiated at 300 mg (3 capsules) twice daily for a period of three days and increased by 100 mg (1 capsule) twice daily increments up to 600 mg twice daily over a period of no longer than 14 days.
 
 Paediatric use (2 years of age and above): the recommended dosage of Norvir in children is 350 mg/m² by mouth twice daily and should not exceed 600 mg twice daily.
 Norvir should be started at 250 mg/m² and increased at 2 to 3 day intervals by 50 mg/m² twice daily (please refer to the Norvir 80 mg/ml oral solution Summary of Product Characteristics )
