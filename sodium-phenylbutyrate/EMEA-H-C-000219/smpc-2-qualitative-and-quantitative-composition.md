@@ -2,7 +2,7 @@
 
 Each tablet contains 500 mg sodium phenylbutyrate.
 
-For excipients, see 6.1.
+For excipients, see section 6.1.
 
 [AMMONAPS 940 mg/g granules]
 

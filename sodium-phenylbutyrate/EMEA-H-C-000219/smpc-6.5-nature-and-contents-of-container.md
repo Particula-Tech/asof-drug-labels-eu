@@ -1,7 +1,9 @@
 # 6.5 Nature and contents of container
 
 HDPE bottles containing 250 or 500 tablets.
-The bottles are equipped with child resistant caps, with a desiccant unit in the bottle.
+The bottles are equipped with child resistant caps.
+
+Not all pack sizes may be marketed.
 
 [AMMONAPS 940 mg/g granules]
 

@@ -9,7 +9,7 @@ Frequency is defined as: very common i.e. >10%, common i.e. 1-10% and uncommon i
 | Blood and lymphatic system disorders | Common: Anaemia, leukopenia, leukocytosis, thrombocytopenia, thrombocythaemia Uncommon: Aplastic anaemia, ecchymosis |
 | --- | --- |
 | Metabolism and nutrition disorders | Common: Appetite decreased, metabolic acidosis, alkalosis |
-| Psychiatric disorders | Common: Depression |
+| Psychiatric disorders | Common: Depression, irritability |
 | Nervous system disorders | Common: Headache, syncope |
 | Cardiac disorders | Common: Oedema Uncommon: Arrhythmia |
 | Gastrointestinal disorders | Common: Dysgeusia, abdominal pain, vomiting, nausea, constipation Uncommon: Rectal haemorrhage, gastritis, peptic ulcer, pancreatitis |
