@@ -3,31 +3,47 @@
 The following adverse events have been reported during therapy for HIV disease with Epivir.
 With many it is unclear whether they are related to Epivir, other medications taken concurrently or are as a result of the underlying disease process.
 
-Gastrointestinal tract
-Common (greater than 1%): nausea, vomiting, abdominal pain or cramps, diarrhoea
+The adverse events considered at least possibly related to the treatment are listed below by body system, organ class and absolute frequency.
+Frequencies are defined as Very Common (greater than 10%), Common (1% - 10%), Uncommon (0.1-1%), Rare (0.01-0.1%) and Very rare (less than 0.01%)”
 
-Haematological
-Uncommon (0.1-1%): neutropenia and anaemia (both occasionally severe), thrombocytopenia
-Very rare( less than 0.01%): pure red cell aplasia
+Blood and lymphatic systems disorders
+Uncommon: Neutropenia and anaemia (both occasionally severe), thrombocytopenia
+Very rare : Pure red cell aplasia
 
-Liver/pancreas
-Uncommon (0.1-1%): rises in liver enzymes (AST, ALT)
-Rare (0.01-0.1%): hepatitis, rises in serum amylase, pancreatitis
+Nervous system disorders
+Common: Headache, insomnia.
+Very rare : Cases of peripheral neuropathy (or paraesthesiae) have been reported
 
-Musculoskeletal
-Common (greater than 1%): arthralgia, muscle disorders
-Rare (0.01-0.1%): rhabdomyolysis
+Respiratory, thoracic and mediastinal disorders
+Common: Cough, nasal symptoms
 
-Neurological
-Common (greater than 1%): headache,
-Very rare( less than 0.01%): peripheral neuropathy or paraesthesiae
+Gastrointestinal disorders
+Common : Nausea, vomiting, abdominal pain or cramps, diarrhoea
+Rare : Rises in serum amylase.
+Cases of pancreatitis have been reported.
+Hepatobiliary disorders
+Uncommon : Transient rises in liver enzymes (AST, ALT).
 
-Respiratory tract
-Common (greater than 1%): cough, nasal symptoms
+Rare : Hepatitis
 
-Skin
-Common (greater than 1%): rash, alopecia
+Skin and subcutaneous tissue disorders
+Common : Rash, alopecia
 
-Other
-Common (greater than 1%): fatigue, malaise, fever, insomnia
+Musculoskeletal and connective tissue disorders
+Common : Arthralgia, muscle disorders
+Rare : Rhabdomyolysis
+
+General disorders and administration site conditions
+Common : Fatigue, malaise, fever.
+
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see 4.4 Special warnings and special precautions for use).
+
+[Epivir 10 mg/ml oral solution]
+
+Common : Headache, insomnia
+
+[Epivir 300 mg film-coated tablets]
+
+Uncommon : Neutropenia and anaemia (both occasionally severe), thrombocytopenia
+
+Common : Cough, nasal symptoms

@@ -16,9 +16,9 @@ Posology and method of administration).
 Lamivudine has no effect on the pharmacokinetics of trimethoprim or sulphamethoxazole.
 When concomitant administration is warranted, patients should be monitored clinically.
 Co-administration of lamivudine with high doses of co-trimoxazole for the treatment of Pneumocystis carinii pneumonia (PCP) and toxoplasmosis should be avoided.
-
 Lamivudine metabolism does not involve CYP3A, making interactions with medicinal products metabolised by this system (e.g. protease inhibitors) unlikely.
 
 Co-administration of lamivudine with intravenous ganciclovir or foscarnet is not recommended until further information is available.
+
 Lamivudine may inhibit the intracellular phosphorylation of zalcitabine when the two medicinal products are used concurrently.
 Epivir is therefore not recommended to be used in combination with zalcitabine.
