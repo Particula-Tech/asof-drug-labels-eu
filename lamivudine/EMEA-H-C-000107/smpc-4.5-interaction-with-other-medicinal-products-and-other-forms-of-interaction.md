@@ -18,4 +18,9 @@ When concomitant administration is warranted, patients should be monitored clini
 Co-administration of Epivir with high doses of co-trimoxazole for the treatment of Pneumocystis carinii pneumonia (PCP) and toxoplasmosis should be avoided.
 
 Lamivudine metabolism does not involve CYP3A, making interactions with medicinal products metabolised by this system (e.g. protease inhibitors) unlikely.
+
 Co-administration of Epivir with intravenous ganciclovir or foscarnet is not recommended until further information is available.
+
+[Epivir 10 mg/ml oral solution]
+
+Pharmacokinetic properties).
