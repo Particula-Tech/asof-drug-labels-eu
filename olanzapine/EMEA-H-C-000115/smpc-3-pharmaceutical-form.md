@@ -15,3 +15,11 @@ ZYPREXA 7.5 mg Tablets are white, coated tablets imprinted with “LILLY” and 
 [ZYPREXA 10 mg coated tablets.]
 
 ZYPREXA 10 mg Tablets are white, coated tablets imprinted with “LILLY” and a numeric identicode “4117”.
+
+[ZYPREXA 15 mg coated tablets.]
+
+ZYPREXA 15 mg tablets are elliptical blue coated tablets debossed with “LILLY” and a numeric identicode “4415”.
+
+[ZYPREXA 20 mg coated tablets.]
+
+ZYPREXA 20 mg tablets are pink elliptical coated tablets debossed with “LILLY” and a numeric identicode, “4420”.

@@ -20,3 +20,7 @@ EU/1/96/022/007 - ZYPREXA - 10 mg - coated tablets - bottle with 100 tablets.
 EU/1/96/022/008 - ZYPREXA - 10 mg - coated tablets - 7 tablets in strips, per box.
 EU/1/96/022/009 - ZYPREXA - 10 mg - coated tablets - 28 tablets in strips, per box.
 EU/1/96/022/010 - ZYPREXA - 10 mg - coated tablets - 56 tablets in strips, per box.
+
+[ZYPREXA 15 mg coated tablets.]
+
+EU/1/96/022/012-015

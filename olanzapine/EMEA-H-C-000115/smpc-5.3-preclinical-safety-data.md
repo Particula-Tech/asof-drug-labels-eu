@@ -18,13 +18,13 @@ Reversible effects consistent with elevated prolactin in rats included decreased
 Haematologic toxicity: Effects on haematology parameters were found in each species, including dose-related reductions in circulating leukocytes in mice and non-specific reductions of circulating leukocytes in rats; however, no evidence of bone marrow cytotoxicity was found.
 Reversible neutropenia, thrombocytopenia, or anemia developed in a few dogs treated with 8 or 10 mg/kg/day (total olanzapine exposure [AUC] is 12- to 15-fold greater than that of a man given a 12-mg dose).
 In cytopenic dogs, there were no adverse effects on progenitor and proliferating cells in the bone marrow.
-
 Reproductive toxicity
 
 Olanzapine had no teratogenic effects.
 Sedation affected mating performance of male rats.
 Estrous cycles were affected at doses of 1.1 mg/kg (3 times the maximum human dose) and reproduction parameters were influenced in rats given 3 mg/kg (9 times the maximum human dose).
 In the offspring of rats given olanzapine, delays in fetal development and transient decreases in offspring activity levels were seen.
+
 Mutagenicity
 
 Olanzapine was not mutagenic or clastogenic in a full range of standard tests, which included bacterial mutation tests and in vitro and in vivo mammalian tests.

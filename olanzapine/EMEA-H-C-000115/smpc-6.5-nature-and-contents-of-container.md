@@ -1,5 +1,7 @@
 # 6.5 Nature and contents of container
 
+Not all packs may be marketed in every country.
+
 Blister Strips
 
 ZYPREXA 2.5 mg Tablets are available in cold-formed aluminium blister strips in cartons of 28 tablets per carton.
@@ -26,3 +28,15 @@ ZYPREXA 7.5 mg tablets are available in high density polyethylene bottles with p
 ZYPREXA 10 mg Tablets are available in cold-formed aluminium blister strips in cartons of 7, 28 or 56 tablets per carton.
 
 ZYPREXA 10 mg tablets are available in high density polyethylene bottles with polypropylene caps.
+
+[ZYPREXA 15 mg coated tablets.]
+
+ZYPREXA 15 mg tablets are available in cold-formed aluminium blister strips in cartons of 28 tablets per carton.
+
+ZYPREXA 15 mg tablets are available in high density polyethylene bottles with polypropylene caps.
+
+[ZYPREXA 20 mg coated tablets.]
+
+ZYPREXA 20 mg tablets are available in cold-formed aluminium blister strips in cartons of 28 tablets per carton.
+
+ZYPREXA 20 mg tablets are available in high density polyethylene bottles with polypropylene caps.

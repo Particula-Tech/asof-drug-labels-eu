@@ -13,3 +13,11 @@ ZYPREXA 7.5 mg coated tablets.
 [ZYPREXA 10 mg coated tablets.]
 
 ZYPREXA 10 mg coated tablets.
+
+[ZYPREXA 15 mg coated tablets.]
+
+ZYPREXA 15 mg coated tablets.
+
+[ZYPREXA 20 mg coated tablets.]
+
+ZYPREXA 20 mg coated tablets.

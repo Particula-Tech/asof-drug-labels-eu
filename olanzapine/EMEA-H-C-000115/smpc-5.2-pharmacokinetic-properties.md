@@ -13,9 +13,9 @@ After oral administration, the mean terminal elimination half-life of olanzapine
 In healthy elderly (65 and over) versus non-elderly subjects, the mean elimination half-life was prolonged (51.8 versus 33.8 hr) and the clearance was reduced (17.5 versus 18.2 l/hr).
 The pharmacokinetic variability observed in the elderly is within the range for the non-elderly.
 In 44 patients with schizophrenia > 65 years of age, dosing from 5 to 20 mg/day was not associated with any distinguishing profile of adverse events.
-
 In female versus male subjects the mean elimination half life was somewhat prolonged (36.7 versus 32.3 hr) and the clearance was reduced (18.9 versus 27.3 l/hr).
 However, olanzapine (5-20 mg) demonstrated a comparable safety profile in female (n=467) as in male patients (n=869).
+
 In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy subjects, there was no significant difference in mean elimination half-life (37.7 versus 32.4 hr) or drug clearance (21.2 versus 25.0 l/hr).
 A mass balance study showed that approximately 57 % of radiolabeled olanzapine appeared in urine, principally as metabolites.
 
@@ -40,5 +40,13 @@ In female versus male subjects the mean elimination half life was somewhat prolo
 (all sentences already above)
 
 [ZYPREXA 10 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 15 mg coated tablets.]
+
+The plasma protein binding of olanzapine was about 93 % over the concentration range of about 7 to about 1,000 ng/ml.
+
+[ZYPREXA 20 mg coated tablets.]
 
 (all sentences already above)

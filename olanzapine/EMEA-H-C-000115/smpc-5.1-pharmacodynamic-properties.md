@@ -26,3 +26,11 @@ Olanzapine demonstrated a greater in-vitro affinity for serotonin 5HT2 than dopa
 [ZYPREXA 10 mg coated tablets.]
 
 (all sentences already above)
+
+[ZYPREXA 15 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 20 mg coated tablets.]
+
+(all sentences already above)

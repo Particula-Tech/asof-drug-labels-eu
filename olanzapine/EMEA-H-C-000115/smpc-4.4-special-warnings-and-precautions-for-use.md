@@ -25,7 +25,6 @@ Rare cases reported as NMS have also been received in association with olanzapin
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
 Additional signs may include elevated creatinine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
 If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotic drugs, including olanzapine must be discontinued.
-
 Olanzapine should be used cautiously in patients who have a history of seizures or are subject to factors which may lower the seizure threshold.
 Seizures have been reported to occur rarely in patients when treated with olanzapine.
 In most of these cases, a history of seizures or risk factors for seizures were reported..
@@ -53,5 +52,13 @@ However, as with other antipsychotics, caution should be exercised when olanzapi
 In cases where hepatitis has been diagnosed, olanzapine treatment, should be discontinued.
 
 [ZYPREXA 10 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 15 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 20 mg coated tablets.]
 
 (all sentences already above)

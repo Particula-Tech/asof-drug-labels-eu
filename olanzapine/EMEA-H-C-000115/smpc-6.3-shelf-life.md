@@ -13,3 +13,11 @@ Two years when stored under appropriate conditions.
 [ZYPREXA 10 mg coated tablets.]
 
 (all sentences already above)
+
+[ZYPREXA 15 mg coated tablets.]
+
+3 years.
+
+[ZYPREXA 20 mg coated tablets.]
+
+(all sentences already above)
