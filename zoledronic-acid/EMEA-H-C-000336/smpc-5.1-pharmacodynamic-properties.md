@@ -30,11 +30,9 @@ Efficacy results are provided in Table 3.
 
 Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 
-Any SRE (+TIH) Fractures* Radiation therapy
-to bone
-
-|  | Zometa 4 mg | Placebo | Zometa 4 mg | Placebo | Zometa 4 mg | Placebo |
+|  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
 | --- | --- | --- | --- | --- | --- | --- |
+|  | Zometa 4 mg | Placebo | Zometa 4 mg | Placebo | Zometa 4 mg | Placebo |
 | N | 214 | 208 | 214 | 208 | 214 | 208 |
 | Proportion of patients with SREs (%) | 38 | 49 | 17 | 25 | 26 | 33 |
 | p-value | 0.028 |  | 0.052 |  | 0.119 |  |
@@ -62,7 +60,8 @@ Table 3: Efficacy results (solid tumours other than breast or prostate cancer)
 | Skeletal morbidity rate | 1.74 | 2.71 |  | 0.39 |  | 0.63 | 1.24 | 1.89 |
 | p-value | 0.012 |  |  | 0.066 |  |  | 0.099 |  |
 | Risk reduction of suffering from multiple events** (%) | 30.7 | - |  | NA |  | NA | NA | NA |
-| p-value | 0.003 |  |  | NA |  |  | NA |  |
+
+p-value 0.003 NA NA
 
 * Includes vertebral and non-vertebral fractures
 ** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
@@ -108,7 +107,8 @@ Table 5: Proportion of complete responders by day in the combined TIH studies
 | Zometa 4 mg (N=86) | 45.3% (p=0.104) | 82.6% (p=0.005)* | 88.4% (p=0.002)* |
 | Zometa 8 mg (N=90) | 55.6% (p=0.021)* | 83.3% (p=0.010)* | 86.7% (p=0.015)* |
 | Pamidronate 90 mg (N=99) | 33.3% | 63.6% | 69.7% |
-| *p-values compared to pamidronate. |  |  |  |
+
+*p-values compared to pamidronate.
 
 Median time to normocalcaemia was 4 days.
 Median time to relapse (re-increase of albumin-corrected serum calcium ≥ 2.9 mmol/l) was 30 to 40 days for patients treated with Zometa versus 17 days for those treated with pamidronate 90 mg (p-values: 0.001 for 4 mg and 0.007 for 8 mg).

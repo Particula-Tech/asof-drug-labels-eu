@@ -17,18 +17,16 @@ Anorexia was reported in 1.5 % of patients treated with Zometa 4 mg.
 Few cases of rash or pruritus have been observed (below 1 %).
 
 As with other bisphosphonates, cases of conjunctivitis in approximately 1 % have been reported.
-
 There have been some reports of impaired renal function (2.3 %), although the aetiology appears to be multifactorial in many cases.
 
 Based on pooled analysis of placebo controlled studies, severe anaemia (Hb < 8.0 g/dl) was reported in 5.2 % of patients receiving Zometa 4 mg versus 4.2 % on placebo.
-
-In the TIH setting the frequency of adverse drug reactions with the 8 mg retreatment dose is similar to the 4 mg chronic administration, with the exception of renal function impairment (3.1 %) and hypocalcaemia (6 %) being slightly higher, which could be explained by other confounding factors that are frequent in this severely ill patient population.
 
 The following adverse drug reactions, listed in Table 1, have been accumulated from clinical studies following predominantly chronic treatment with zoledronic acid:
 
 Table 1
 
 Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥1/10), common (≥1/100, <1/10), uncommon (≥1/1,000, <1/100), rare (≥1/10,000, <1/1,000), very rare (<1/10,000), including isolated reports.
+
 Blood and lymphatic system disorders
 
 Common: Anaemia
@@ -108,9 +106,11 @@ Uncommon: Hypomagnesaemia, hypokalaemia
 Rare: Hyperkalaemia, hypernatraemia
 
 Postmarketing: Rare cases of osteonecrosis (primarily of the jaws) have been reported in patients treated with bisphosphonates.
+Many had signs of local infection including osteomyelitis.
 The majority of the reports refer to cancer patients following tooth extractions or other dental surgeries.
 Osteonecrosis of the jaws has multiple well documented risk factors including a diagnosis of cancer, concomitant therapies (e.g. chemotherapy, radiotherapy, corticosteroids) and co-morbid conditions (e.g. anaemia, coagulopathies, infection, pre-existing oral disease).
-Although causality cannot be determined, it is prudent to avoid dental surgery as recovery may be prolonged (see section 4.4, “Special warnings and special precautions for use”).
+Although causality cannot be determined, it is prudent to avoid dental surgery as recovery may be prolonged (see section 4.4,
+“Special warnings and special precautions for use”).
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 
