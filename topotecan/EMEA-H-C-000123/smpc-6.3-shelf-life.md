@@ -1,7 +1,7 @@
 # 6.3 Shelf-life
 
 Vials
-Twenty-four months.
+3 years.
 
 Reconstituted and diluted solutions
 The product should be used immediately after reconstitution as it contains no antibacterial preservative.

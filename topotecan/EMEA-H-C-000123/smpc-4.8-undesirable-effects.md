@@ -5,9 +5,7 @@ In dose-finding studies, the dose-limiting toxicity was found to be haematologic
 Toxicity was predictable, and reversible.
 No evidence of cumulative toxicity was seen.
 Neutropenia: Severe, (neutrophil count <0.5 x 109/l) during course 1 was seen in 60% of the patients and with duration ≥ 7 days in 20% and overall in 79 % of patients (42 % of courses).
-In
-
-5 association with severe neutropenia, fever or infection occurred in 16% of patients during course 1 and overall in 21% of patients (7% of courses).
+In association with severe neutropenia, fever or infection occurred in 16% of patients during course 1 and overall in 21% of patients (7% of courses).
 Median time to onset of severe neutropenia was 9 days and the median duration was 7 days.
 Severe neutropenia lasted beyond 7 days in 13% of courses overall.
 Among all patients treated in clinical studies (including both those with severe neutropenia and those who did not develop severe neutropenia), 13% (5% of courses) developed fever and 27% (10% of courses) developed infection.
