@@ -6,16 +6,17 @@ The most frequently reported treatment-related undesirable effect was ocular hyp
 The discontinuation rate due to ocular hyperaemia was 2.1%.
 In phase III clinical studies ranging from 6 to 12 months in duration, hyperaemia decreased over time.
 
-The following undesirable effects assessed as definitely, probably or possibly related to treatment were reported during clinical trials with TRAVATAN.
-Their incidence was either very common (greater than 10.0%), common (1.0% to 10.0%; maximum observed actual incidence of 4.7%), or uncommon (0.2% to less than 1.0%).
-All other effects were single reports, of which none were serious and related.
+The following undesirable effects assessed as definitely, probably or possibly related to treatment were reported during clinical trials and post-marketing experience with TRAVATAN.
+Their incidence listed below is defined using the following convention: very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100) and rare (>1/10,000, <1/1000).Adverse reactions from post-marketing experience are identified with an asterisk.
 
 Ocular effects
-Very common: ocular hyperaemia.
+Very common: ocular hyperaemia, eyelash changes, including increased length, thickness, pigmentation and/or number of lashes.
+The mechanism of these changes and their long-term consequences are currently unknown.
 
-Common: ocular pruritus, ocular discomfort (transient burning or stinging upon instillation), ocular pain, dry eye, photophobia, foreign body sensation, flare, iris discolouration, cells, and keratitis..
+Common: ocular pruritus, ocular discomfort (transient burning or stinging upon instillation), ocular pain, dry eye, photophobia, foreign body sensation, flare, iris discolouration, cells, and keratitis.
 
-Uncommon: tearing, blurred vision, eyelash changes, conjunctivitis, ocular irritation, decreased visual acuity, iritis, lid oedema, sticky sensation, blepharitis, browache, conjunctival follicles, conjunctival papillae, lid margin crusting, ocular fatigue, and uveitis.
+Uncommon: tearing, blurred vision, conjunctivitis, ocular irritation, decreased visual acuity, iritis, lid oedema, sticky sensation, blepharitis, browache, conjunctival follicles, conjunctival papillae, lid margin crusting, ocular fatigue, and uveitis.
+Rare: Macular oedema*(see also section 4.4), abnormal hair growth on eyelids*.
 
 Systemic effects
 Body as a whole:
@@ -23,8 +24,8 @@ Common: headache.
 
 Cardiovascular:
 Uncommon: hypotension and bradycardia.
+Respiratory:
+Rare: asthma*, exacerbation of asthma*
+
 Skin and appendages:
 Uncommon: periorbital skin discolouration.
-
-As with other prostaglandin analogues (class effect), TRAVATAN may gradually change eyelashes in the treated eye(s); these changes were observed in about half of patients in clinical trials and include: increased length, thickness, pigmentation, and/or number of lashes.
-The mechanism of eyelash changes and their long term consequences are currently unknown.
