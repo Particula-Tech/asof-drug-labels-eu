@@ -98,14 +98,14 @@ Three hundred and thirty-five patients (58%) responding to the 5 mg/kg infusion 
 
 At week 30, a significantly greater proportion of patients in the combined infliximab maintenance treatment group (42%) achieved clinical remission, compared with patients in the placebo maintenance group (21%).
 Median time to loss of response was 46 weeks in the combined infliximab maintenance treatment group vs. 19 weeks in the placebo maintenance group (p<0.001).
-Similar results were obtained in the subgroup analyses of the population defined in the indication (see section 4.1).
+Similar results were obtained in the subgroup analyses of the population defined in the indication
+(see section 4.1).
 
 Improvements in quality of life measures were seen for both the IBDQ and SF-36 scores in the infliximab maintenance groups compared with the placebo maintenance group at week 30 (p<0.001).
 
 The safety and efficacy were also assessed in a randomised, double-blinded, placebo-controlled study in 94 patients with fistulising Crohn’s disease who had fistulae that were of at least 3 months’ duration.
 Thirty-one of these patients were treated with infliximab 5 mg/kg.
 Approximately 93% of the patients had previously received antibiotic or immunosuppressive therapy.
-
 Concurrent use of stable doses of conventional therapies was permitted, and 83% of patients continued to receive at least one of these medications.
 Patients received three doses of either placebo or infliximab at weeks 0, 2 and 6.
 Patients were followed up to 26 weeks.
