@@ -41,6 +41,8 @@ Combination antiretroviral therapy has been associated with redistribution of bo
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
+In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+
 [Epivir 10 mg/ml oral solution]
 
 Common:Cough, nasal symptoms

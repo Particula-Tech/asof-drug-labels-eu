@@ -2,15 +2,15 @@
 
 Epivir is not recommended for use as monotherapy.
 
-In patients with moderate to severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (See section 4.2).
+Renal impairment: In patients with moderate to severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (See section 4.2).
 
 Once daily dosing (300 mg once a day): a clinical study has demonstrated the non inferiority between Epivir once a day and Epivir twice a day containing regimens.
 These, results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
 
 Triple nucleoside therapy: There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when lamivudine was combined with tenofovir disoproxil fumarate and abacavir as well as with tenofovir disoproxil fumarate and didanosine as a once daily regimen.
 
-Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
-Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
+Opportunistic infections: Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
+Transmission of HIV: Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be taken.
 
 Pancreatitis: Cases of pancreatitis have occurred rarely.
@@ -29,9 +29,9 @@ Treatment with nucleoside analogues should be discontinued in the setting of sym
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
 Patients co-infected with hepatitis C and treated with alpha interferon and ribavirin may constitute a special risk.
 
-Patients at increased risk should be followed closely.
+Patients at increased risk should be followed closely .
 
-Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
+Mitochondrial dysfunction: Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
 There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues.
 The main adverse events reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlactatemia, hyperlipasemia).
 These events are often transitory.
@@ -40,7 +40,7 @@ Whether the neurological disorders are transient or permanent is currently unkno
 Any child exposed in utero to nucleoside and nucleotide analogues, even HIV-negative children, should have clinical and laboratory follow-up and should be fully investigated for possible mitochondrial dysfunction in case of relevant signs or symptoms.
 These findings do not affect current national recommendations to use antiretroviral therapy in pregnant women to prevent vertical transmission of HIV.
 
-Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
+Lipodystrophy: Combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy) in HIV patients.
 The long-term consequences of these events are currently unknown.
 Knowledge about the mechanism is incomplete.
 A connection between visceral lipomatosis and protease inhibitors (PIs) and lipoatrophy and nucleoside reverse transcriptase inhibitors (NRTIs) has been hypothesised.
@@ -48,6 +48,12 @@ A higher risk of lipodystrophy has been associated with individual factors such 
 Clinical examination should include evaluation for physical signs of fat redistribution.
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate (see section 4.8).
+
+Immune Reactivation Syndrome: In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
+Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
+Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
+Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
+
 Liver disease: If lamivudine is being used concomitantly for the treatment of HIV and HBV, additional information relating to the use of lamivudine in the treatment of hepatitis B infection is available in the Zeffix SPC.
 
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk of severe and potentially fatal hepatic adverse events.
@@ -60,9 +66,9 @@ If there is evidence of worsening liver disease in such patients, interruption o
 
 [Epivir 10 mg/ml oral solution]
 
-In patients with moderate –to- severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (See section 4.2).
-
 Diabetic patients should be advised that each dose (150 mg = 15 ml) contains 3 g of sucrose.
+
+Renal impairment: In patients with moderate –to- severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (See section 4.2).
 
 These results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
 

@@ -22,6 +22,7 @@ Epivir may be administered with or without food.
 
 Renal impairment:- Lamivudine concentrations are increased in patients with moderate - severe renal impairment due to decreased clearance.
 The dose should therefore be adjusted, using oral solution presentation of Epivir for patients whose creatinine clearance falls below 30 ml/min (see tables).
+
 Dosing Recommendations – Adults and adolescents over 12 years:
 
 | Creatinine Clearance (ml/min) | First Dose | Maintenance Dose |
