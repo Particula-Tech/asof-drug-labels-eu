@@ -2,8 +2,7 @@
 
 Oseltamivir is effective only against illness caused by influenza viruses.
 There is no evidence for efficacy of oseltamivir in any illness caused by agents other than influenza viruses.
-The safety and efficacy of oseltamivir treatment of children of less than one year of age have not been established.
-
+The safety and efficacy of oseltamivir treatment of children of less than one year of age have not been established (Please see also Section 5.3 Preclinical Safety Data).
 The safety and efficacy of oseltamivir for the prevention of influenza in children 12 years or younger have not been established.
 
 No information is available regarding the safety and efficacy of oseltamivir in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalisation.

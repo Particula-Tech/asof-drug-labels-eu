@@ -16,7 +16,8 @@ Most Frequent Adverse Events in Studies in Naturally Acquired Influenza
 
 | System Organ Class | Adverse Event | Treatment |  | Prevention |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Placebo (N=1050) | Oseltamivir 75 mg twice daily (N=1057) | Placebo (N=1434) | Oseltamivir 75 mg once daily (N=1480) |
+|  |  | Placebo | Oseltamivir 75 mg twice | Placebo | Oseltamivir 75 mg once |
+|  |  | (N=1050) | daily (N=1057) | (N=1434) | daily (N=1480) |
 | Gastrointestinal Disorders | Vomiting 2 Nausea 1, 2 Diarrhoea Abdominal Pain | 3.0 % 5.7 % 8.0 % 2.0 % | 8.0 % 7.9 % 5.5 % 2.2 % | 1.0 % 3.9 % 2.6 % 1.6 % | 2.1 % 7.0 % 3.2 % 2.0 % |
 | Infections and Infestations | Bronchitis Bronchitis acute | 5.0 % 1.0 % | 3.7 % 1.0 % | 1.2 % - | 0.7 % - |
 | General Disorders | Dizziness Fatigue | 3.0 % 0.7 % | 1.9 % 0.8 % | 1.5 % 7.5 % | 1.6 % 7.9 % |
@@ -39,7 +40,8 @@ Adverse Events occurring in greater than 1 % of children enrolled in Phase III s
 |  |  | Placebo (N = 517) | Oseltamivir 2 mg/kg (N = 515) |
 | Gastrointestinal Disorders | Vomiting Diarrhoea Abdominal pain Nausea | 9.3 % 10.6 % 3.9 % 4.3 % | 15.0 % 9.5 % 4.7 % 3.3 % |
 | Infections and Infestations | Otitis media Pneumonia Sinusitis Bronchitis | 11.2 % 3.3 % 2.5 % 2.1 % | 8.7 % 1.9 % 1.7 % 1.6 % |
-| Respiratory Disorders | Asthma (incl. aggravated) Epistaxis | 3.7 % 2.5 % | 3.5 % 3.1 % |
+| Respiratory Disorders | Asthma (incl. aggravated) | 3.7 % | 3.5 % |
+|  | Epistaxis | 2.5 % | 3.1 % |
 | Disorders of the Ear and Labyrinth | Ear disorder Tympanic membrane disorder | 1.2 % 1.2 % | 1.7 % 1.0 % |
 | Skin and Subcutaneous Disorders | Dermatitis | 1.9 % | 1.0 % |
 | Disorders of the Blood and Lymphatic System | Lymphadenopathy | 1.5 % | 1.0 % |
@@ -57,11 +59,13 @@ In prevention studies, where the dosage of oseltamivir was 75 mg once daily for 
 
 | System Organ Class | Adverse Event | Treatment |  | Prevention |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Placebo (N = 1050) | Oseltamivir 75 mg twice daily (N = 1057) | Placebo (N = 1434) | Oseltamivir 75 mg once daily (N = 1480) |
+|  |  | Placebo | Oseltamivir 75 mg twice | Placebo | Oseltamivir 75 mg once |
+|  |  | (N = 1050) | daily (N = 1057) | (N = 1434) | daily (N = 1480) |
 | Gastrointestinal Disorders | Vomiting 2 Nausea 1, 2 Diarrhoea Abdominal Pain | 3.0 % 5.7 % 8.0 % 2.0 % | 8.0 % 7.9 % 5.5 % 2.2 % | 1.0 % 3.9 % 2.6 % 1.6 % | 2.1 % 7.0 % 3.2 % 2.0 % |
 | Infections and Infestations | Bronchitis Bronchitis acute | 5.0 % 1.0 % | 3.7 % 1.0 % | 1.2 % - | 0.7 % - |
 | General Disorders | Dizziness Fatigue | 3.0 % 0.7 % | 1.9 % 0.8 % | 1.5 % 7.5 % | 1.6 % 7.9 % |
-| Neurological Disorders | Headache Insomnia | 1.5 % 1.0 % | 1.6 % 1.0 % | 17.5 % 1.0 % | 20.1 % 1.2 % |
+| Neurological Disorders | Headache | 1.5 % | 1.6 % | 17.5 % | 20.1 % |
+|  | Insomnia | 1.0 % | 1.0 % | 1.0 % | 1.2 % |
 
 Adverse events occurring in greater 1 % of children receiving oseltamivir are listed in the table below.
 
@@ -72,7 +76,8 @@ Adverse Events occurring in greater 1 % of children enrolled in Phase III studie
 |  |  | Placebo (N = 517) | Oseltamivir 2 mg/kg (N = 515) |
 | Gastrointestinal Disorders | Vomiting Diarrhoea Abdominal pain Nausea | 9.3 % 10.6 % 3.9 % 4.3 % | 15.0 % 9.5 % 4.7 % 3.3 % |
 | Infections and Infestations | Otitis media Pneumonia Sinusitis Bronchitis | 11.2 % 3.3 % 2.5 % 2.1 % | 8.7 % 1.9 % 1.7 % 1.6 % |
-| Respiratory Disorders | Asthma (incl. aggravated) Epistaxis | 3.7 % 2.5 % | 3.5 % 3.1 % |
+| Respiratory Disorders | Asthma (incl. aggravated) | 3.7 % | 3.5 % |
+|  | Epistaxis | 2.5 % | 3.1 % |
 | Disorders of the Ear and Labyrinth | Ear disorder Tympanic membrane disorder | 1.2 % 1.2 % | 1.7 % 1.0 % |
 |  |  | Placebo (N = 517) | Oseltamivir 2 mg/kg (N = 515) |
 | Skin and Subcutaneous Disorders | Dermatitis | 1.9 % | 1.0 % |

@@ -9,7 +9,7 @@ Treatment should be initiated as soon as possible within the first two days of o
 For adults and adolescents 13 years or older the recommended oral dose is 75 mg oseltamivir twice daily, for 5 days.
 For children one year or older, Tamiflu oral suspension is available.
 For children with body weight above 40 kg, capsules may be prescribed at the adult dosage of 75 mg twice daily for 5 days.
-The safety and efficacy of Tamiflu in children less than one year of age have not been established.
+The safety and efficacy of Tamiflu in children less than one year of age have not been established (Please see also Section 5.3 Preclinical Safety Data).
 
 Prevention of influenza
 
