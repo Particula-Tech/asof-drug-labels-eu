@@ -1,4 +1,4 @@
-# 4.5 Interactions with other medicinal products and other forms of interaction
+# 4.5 Interaction with other medicinal products and other forms of interaction
 
 No formal drug interaction studies have been conducted with AVONEX (Interferon beta-1a) in humans.
 

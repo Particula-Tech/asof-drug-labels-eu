@@ -1,5 +1,9 @@
 # 6.4 Special precautions for storage
 
-AVONEX (Interferon beta-1a) can be stored at temperatures up to 25°C.
+Do not store above 25 °C.
 
 DO NOT FREEZE lyophilised or reconstituted product
+
+[AVONEX 30 �g powder and solvent for solution for injection (SmPC 2)]
+
+Do not store above 25°C.

@@ -8,12 +8,12 @@ No other solvent should be used.
 The content of the syringe is injected into the vial of AVONEX using the green reconstitution needle.
 The contents in the vial are gently swirled until all materials are dissolved; DO NOT SHAKE.
 The reconstituted product is inspected and if it contains particulate matter or is other than colourless to slightly yellow in colour, the vial should be discarded.
-After reconstitution, 1 ml is drawn from the vial (guidance mark on the pre-filled syringe) for the administration of 30 μg AVONEX.
+After reconstitution, 1 ml is drawn from the vial (guidance mark on the pre-filled syringe) for the administration of 30 �g AVONEX.
 The needle for IM injection (blue) is provided.
 The formulation does not contain a preservative.
 Each vial of AVONEX contains a single dose only.
 The unused portion of any vial should be discarded.
 
-[AVONEX 30 μg (6 million IU) powder and solvent for solution for injection (SmPC 2)]
+[AVONEX 30 �g powder and solvent for solution for injection (SmPC 2)]
 
-The content of the syringe is injected into the vial of AVONEX by connecting the prefilled syringe to the BIO-SET device.
+The content of the syringe is injected into the vial of AVONEX by connecting the pre-filled syringe to the BIO-SET device.

@@ -1,4 +1,4 @@
 # 4.9 Overdose
 
-There are no reports of overdosage.
+No case of overdosage has been reported.
 However, in case of overdosage, patients should be hospitalised for observation and appropriate supportive treatment given.
