@@ -11,9 +11,7 @@ The reason for this difference is unknown.
 Due to this difference in bioavailability, 240 mg emtricitabine administered as the oral solution should provide similar plasma levels to those observed after administration of one 200 mg emtricitabine hard capsule.
 Therefore, children who weigh at least 33 kg may take either one 200 mg hard capsule daily or the oral solution up to a maximum dose of 240 mg (24 ml), once daily.
 
-Administration of Emtriva 200 mg hard capsules with a high-fat meal did not affect systemic exposure (AUC0-∞) of emtricitabine; therefore Emtriva 200 mg hard capsules may be administered with or without food.
-The effect of food on the pharmacokinetics of emtricitabine following administration of Emtriva 10 mg/ml oral solution has not been studied.
-However, no effect on the pharmacokinetics of emtricitabine would be expected following administration of Emtriva 10 mg/ml oral solution with food.
+Administration of Emtriva 200 mg hard capsules with a high-fat meal or administration of Emtriva 10 mg/ml oral solution with a low-fat or high-fat meal did not affect systemic exposure (AUC0-∞) of emtricitabine; therefore Emtriva 200 mg hard capsules and Emtriva 10 mg/ml oral solution may be administered with or without food.
 
 Distribution: In vitro binding of emtricitabine to human plasma proteins was < 4% and independent of concentration over the range of 0.02-200 µg/ml.
 The mean plasma to blood concentration ratio was approximately 1.0 and the mean semen to plasma concentration ratio was approximately 4.0.
