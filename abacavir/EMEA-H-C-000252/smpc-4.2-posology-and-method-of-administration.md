@@ -2,7 +2,7 @@
 
 Ziagen should be prescribed by physicians experienced in the management of HIV infection.
 
-The recommended dose of Ziagen in adults is 300 mg (one tablet) twice daily.
+The recommended dose of Ziagen in adults (18 years and over) is 300 mg (one tablet) twice daily.
 
 Ziagen can be taken with or without food.
 
@@ -20,6 +20,6 @@ Elderly: No pharmacokinetic data is currently available in patients over 65 year
 
 [Ziagen 20 mg/ml oral solution]
 
-The recommended dose of Ziagen in adults is 15 ml (300 mg) twice daily.
+The recommended dose of Ziagen in adults (18 years and over) is 15 ml (300 mg) twice daily.
 
 Ziagen is also available as a tablet formulation.

@@ -6,4 +6,4 @@ Coating: triacetin, methylhydroxypropylcellulose, titanium dioxide, polysorbate 
 
 [Ziagen 20 mg/ml oral solution]
 
-Sorbitol 70%, saccharin sodium, sodium citrate, citric acid anhydrous, methyl parahydroxybenzoate, propyl parahydroxybenzoate, propylene glycol, maltodextrin, lactic acid, glyceryl triacetate natural and artificial strawberry and banana flavours, purified water.
+Sorbitol 70%, saccharin sodium, sodium citrate, citric acid anhydrous, methyl parahydroxybenzoate, propyl parahydroxybenzoate, propylene glycol, maltodextrin, lactic acid, glyceryl triacetate, natural and artificial strawberry and banana flavours, purified water.

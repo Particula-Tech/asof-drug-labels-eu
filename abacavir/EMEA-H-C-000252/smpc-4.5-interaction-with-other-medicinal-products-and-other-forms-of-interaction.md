@@ -9,8 +9,14 @@ Clinical studies have shown that there are no clinically significant interaction
 
 Potent enzymatic inducers such as rifampicin, phenobarbital and phenytoin may via their action on UDP-glucuronyltransferases slightly decrease the plasma concentrations of abacavir.
 
-The metabolism of abacavir is altered by concomitant ethanol resulting in an increase in AUC of abacavir of about 41%.
+Ethanol: The metabolism of abacavir is altered by concomitant ethanol resulting in an increase in AUC of abacavir of about 41%.
 These findings are not considered clinically significant.
 Abacavir has no effect on the metabolism of ethanol.
-Retinoid compounds are eliminated via alcohol dehydrogenase.
+
+Methadone: In a pharmacokinetic study, coadministration of 600 mg abacavir twice daily with methadone showed a 35 % reduction in abacavir Cmax and a one hour delay in tmax , but the AUC was unchanged.
+The changes in abacavir pharmacokinetics are not considered clinically relevant.
+In this study abacavir increased the mean methadone systemic clearance by 22 %.
+This change is not considered clinically relevant for the majority of patients, however occasionally methadone re-titration may be required.
+
+Retinoids: Retinoid compounds are eliminated via alcohol dehydrogenase.
 Interaction with abacavir is possible but has not been studied.
