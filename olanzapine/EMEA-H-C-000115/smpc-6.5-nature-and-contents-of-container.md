@@ -1,6 +1,7 @@
 # 6.5 Nature and contents of container
 
 Blister Strips
+
 ZYPREXA 2.5 mg Tablets are available in cold-formed aluminium blister strips in cartons of 28 tablets per carton.
 
 Bottles

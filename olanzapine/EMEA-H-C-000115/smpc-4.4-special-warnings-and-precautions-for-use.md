@@ -18,7 +18,9 @@ Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental
 Additional signs may include elevated creatinine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
 If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotic drugs, including olanzapine must be discontinued.
 
-Olanzapine should be used cautiously in patients who have a history of seizures or have conditions associated with seizures.
+Olanzapine should be used cautiously in patients who have a history of seizures or are subject to factors which may lower the seizure threshold.
+Seizures have been reported to occur rarely in patients when treated with olanzapine.
+In most of these cases, a history of seizures or risk factors for seizures were reported..
 
 Tardive Dyskinesia: In comparator studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.
 However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or drug discontinuation should be considered.
