@@ -1,0 +1,16 @@
+{
+  "active_substance": "travoprost",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000390",
+  "eu_number": "EU/1/01/199",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2001-11-27",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/travatan",
+  "molecule": "travoprost",
+  "molecule_name": "TRAVOPROST",
+  "name": "Travatan",
+  "register_name": "Travatan",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h199.htm"
+}
