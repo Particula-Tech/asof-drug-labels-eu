@@ -10,7 +10,6 @@ Although the possible in vivo interaction of docetaxel with concomitantly admini
 In addition, dexamethasone did not affect protein binding of docetaxel.
 Docetaxel did not influence the binding of digitoxin.
 
-In the doxorubicin/docetaxel combination, the clearance of docetaxel was increased (see
-« Pharmacokinetic properties »).
+Based on literature data and results of a specific pharmacokinetic interaction study, the influence of doxorubicin on the pharmacokinetic profile of docetaxel remains unclear (see section 5.2).
 Limited data from a single uncontrolled study were suggestive of an interaction between docetaxel and carboplatin.
 When combined to docetaxel, the clearance of carboplatin was about 50% higher than values previously reported for carboplatin monotherapy.

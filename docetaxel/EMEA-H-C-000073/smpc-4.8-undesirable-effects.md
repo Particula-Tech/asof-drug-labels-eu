@@ -10,7 +10,7 @@ These reactions were described using the NCI Common Toxicity Criteria (grade 3 =
 Frequencies are defined as: very common (> 1/10), common (> 1/100, < 1/10); uncommon (> 1/1,000, < 1/100); rare (> 1/10,000, < 1/1,000); very rare
 (< 1/10,000).
 
-The most commonly reported adverse reaction was neutropenia, which was reversible and not cumulative (see sections «Posology and method of administration» and «Special warnings and special precautions for use»).
+The most commonly reported adverse reaction was neutropenia, which was reversible and not cumulative (see sections 4.2 and 4.4).
 The median day to nadir was 7 days and the median duration of severe neutropenia (<500 cells/mm3) was 7 days.”
 
 Blood disorders
@@ -28,6 +28,7 @@ Common: Febrile neutropenia (8.3%).
 
 TAXOTERE 75mg/m² in combination with doxorubicin:
 Very common: Neutropenia (99.2%; G4: 91.7%); Anemia (96.1%; G3/4: 9.4%); Infection (35.3%; G3/4: 7.8%); Febrile neutropenia (34.1%); Thrombocytopenia (28.1%; G4: 0.8%).
+
 TAXOTERE 75mg/m² in combination with cisplatin:
 Very common: Neutropenia (91.1%; G4: 51.5%); Anemia (88.6%; G3/4: 6.9%); Fever in absence of infection (17.2%; G3/4:1.2%); Thrombocytopenia (14.9%; G4: 0.5%); Infections (14.3%; G3/4: 5.7%).
 Common: Febrile neutropenia (4.9%).
@@ -37,10 +38,9 @@ Very common: Neutropenia (G3/4: 63%), Anemia (G3/4: 10%).
 Common: Thrombocytopenia (G3/4: 3%).
 
 Hypersensitivity reactions
-
 Hypersensitivity reactions have generally occurred within a few minutes following the start of the infusion of docetaxel and were usually mild to moderate.
 The most frequently reported symptoms were flushing, rash with or without pruritus, chest tightness, back pain, dyspnoea and drug fever or chills.
-Severe reactions, characterised by hypotension and/or bronchospasm or generalized rash/erythema, resolved after discontinuing the infusion and appropriate therapy (see «Special warnings and special precautions for use section»).
+Severe reactions, characterised by hypotension and/or bronchospasm or generalized rash/erythema, resolved after discontinuing the infusion and appropriate therapy (see section 4.4).
 
 TAXOTERE 100mg/m² single agent: very common (25.9%; G3/4: 5.3%)
 
@@ -55,9 +55,8 @@ Skin and subcutaneous tissue disorders
 Reversible cutaneous reactions have been observed and were generally considered as mild to moderate.
 Reactions were characterised by a rash including localised eruptions mainly on the feet and hands, but also on the arms, face or thorax, and frequently associated with pruritus.
 Eruptions generally occurred within one week after the docetaxel infusion.
-Less frequently, severe symptoms such as eruptions followed by desquamation which rarely lead to interruption or discontinuation of docetaxel treatment were reported (see sections «Posology and method of administration» and
-«Special warnings and special precautions for use»).
-Severe nail disorders are characterised by hypo-or hyperpigmentation and sometimes pain and onycholysis.
+Less frequently, severe symptoms such as eruptions followed by desquamation which rarely lead to interruption or discontinuation of docetaxel treatment were reported (see sections 4.2 and 4.4).
+Severe nail disorders are characterised by hypo- or hyperpigmentation and sometimes pain and onycholysis.
 Very rare cases of bullous eruption such as erythema multiforme or Stevens-Johnson syndrome have been reported with docetaxel and other concomitant factors may have contributed to the development of these effects.
 
 TAXOTERE 100mg/m² single agent:
@@ -82,8 +81,7 @@ Fluid retention
 
 Events such as peripheral oedema and less frequently pleural effusion, pericardial effusion, ascites and weight gain have been reported.
 The peripheral oedema usually starts at the lower extremities and may become generalised with a weight gain of 3 kg or more.
-Fluid retention is cumulative in incidence and severity (see «Special warnings and special precautions for use» section).
-
+Fluid retention is cumulative in incidence and severity (see section 4.4).
 TAXOTERE 100mg/m² single agent: very common (64.1%; severe 6.5%).
 The median cumulative dose to treatment discontinuation was more than 1,000 mg/m2 and the median time to fluid retention reversibility was 16.4 weeks (range 0 to 42 weeks).
 The onset of moderate and severe retention is delayed (median cumulative dose: 818.9 mg/m2) in patients with premedication compared with patients without premedication (median cumulative dose: 489.7 mg/m2); however, it has been reported in some patients during the early courses of therapy.
@@ -118,12 +116,13 @@ Common: Constipation (9.4%).
 TAXOTERE 75mg/m² in combination with capecitabine:
 Very common: Stomatitis (67%; G3/4: 18%); Diarrhea (64%; G3/4: 14%); Nausea (43%; G3/4: 6%); Vomiting (33%; G3/4: 4%); Taste disturbance (15%; G3/4: <1%); Constipation (14%; G3/4: 1%); Abdominal pain (14%; G3/4: 2%); Dyspepsia (12%).
 Common: Abdominal pain upper (9%); Dry mouth (5%).
+
 Rare occurrences of dehydration as a consequence of gastrointestinal events, gastrointestinal perforation, ischemic colitis, colitis and neutropenic enterocolitis have been reported.
 Very rare cases of ileus and intestinal obstruction have been reported.
 
 Nervous system disorders
 
-The development of severe peripheral neurotoxicity requires a reduction of dose (see sections «Posology and method of administration» and «Special warnings and special precautions for use»).
+The development of severe peripheral neurotoxicity requires a reduction of dose (see sections 4.2 and 4.4).
 Mild to moderate neuro-sensory signs are characterised by paresthesia, dysesthesia or pain including burning.
 Neuro-motor events are mainly characterised by weakness.
 
@@ -169,6 +168,7 @@ Uncommon: Heart failure (0.5%)
 
 TAXOTERE 75mg/m² in combination with capecitabine:
 Very common: Lower limb oedema (14%; G3/4: 1%).
+
 Venous thromboembolic events have rarely been reported.
 Rare cases of myocardial infarction have been reported.
 
@@ -222,6 +222,7 @@ Musculoskeletal disorders
 TAXOTERE 100mg/m² single agent:
 Very common: Myalgia (20%; severe 1.4%).
 Common: Arthralgia (8.6%).
+
 TAXOTERE 75mg/m² single agent:
 Common: Myalgia (5.8%).
 
@@ -236,7 +237,6 @@ Very common: Myalgia (14%; G3/4: 2%); Arthralgia (11%; G3/4: 1%).
 Common: Back pain (7%; G3/4: 1%).
 
 Respiratory disorders
-
 TAXOTERE 100mg/m² single agent:
 Very common: Dyspnea (16.1%; severe 2.7%)
 
