@@ -1,7 +1,7 @@
-# 8. NUMBER(S) IN THE COMMUNITY REGISTER OF MEDICINAL PRODUCTS
+# 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/96/015/001
 
-[Epivir 10 mg/ml oral solution]
+[Epivir 10mg/ml oral solution]
 
 EU/1/96/015/002

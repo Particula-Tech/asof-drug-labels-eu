@@ -2,7 +2,7 @@
 
 Absorption: Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85%.
 Following oral administration, the mean time (tmax) to maximal serum concentrations (Cmax) is about an hour.
-At therapeutic dose levels i.e. 4mg/kg/day (as two 12-hourly doses), Cmax is in the order of 1.5-1.9 µg/ml.
+At therapeutic dose levels i.e. 4mg/kg/day (as two 12-hourly doses), Cmax is in the order of 1.5-1.9µg/ml.
 
 Co-administration of lamivudine with food results in a delay of tmax and a lower C max (decreased by 47 %).
 However, the extent (based on the AUC) of lamivudine absorbed is not influenced.
@@ -11,11 +11,9 @@ Co-administration of zidovudine results in a 13% increase in zidovudine exposure
 This is not considered to be of significance to patient safety and therefore no dosage adjustments are necessary.
 Distribution: From intravenous studies, the mean volume of distribution is 1.3 l/kg.
 The observed half-life of elimination is 5 to 7 hours.
-The mean systemic clearance of lamivudine is approximately
-0.32 l/h/kg, with predominantly renal clearance (> 70%) via the organic cationic transport system.
+The mean systemic clearance of lamivudine is approximately 0.32 l/h/kg, with predominantly renal clearance (> 70%) via the organic cationic transport system.
 
 Lamivudine exhibits linear pharmacokinetics over the therapeutic dose range and displays limited binding to the major plasma protein albumin (< 16 % - 36 % to serum albumin in in vitro studies).
-
 Limited data show that lamivudine penetrates the central nervous system and reaches the cerebro-spinal fluid (CSF).
 The mean ratio CSF/serum lamivudine concentration 2-4 hours after oral administration was approximately 0.12.
 The true extent of penetration or relationship with any clinical efficacy is unknown.
@@ -40,19 +38,19 @@ Due to these differences, the recommended dose for children from three months to
 
 There are limited pharmacokinetic data for patients less than three months of age.
 In neonates one week of age, lamivudine oral clearance was reduced when compared to paediatric patients and is likely to be due to immature renal function and variable absorption.
-Therefore to achieve similar adult and paediatric exposure, the recommended dose for neonates is 4 mg/kg/day.
-Glomerular filtration estimates suggests that to achieve similar adult and paediatric exposure, the recommended dose for children aged six weeks and older could be 8mg/kg/day.
+Therefore to achieve similar adult and paediatric exposure, the recommended dose for neonates is 4mg/kg/day.
+Glomerular filtration estimates suggests that to achieve similar adult and paediaric exposure, the recommended dose for children aged six weeks and older could be 8mg/kg/day.
 
 Pharmacokinetics in pregnancy: Following oral administration, lamivudine pharmacokinetics in late-pregnancy were similar to non-pregnant adults.
 
-[Epivir 10 mg/ml oral solution]
+[Epivir 10mg/ml oral solution]
 
 Absorption: Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85 %.
 At therapeutic dose levels ie.
-4 mg/kg/day (as two 12-hourly doses), Cmax is in the order of 1.5-1.9 µg/ml.
+4 mg/kg/day (as two 12-hourly doses), Cmax is in the order of 1.5-1.9µg/ml.
 
 Distribution: From intravenous studies, the mean volume of distribution is 1.3l/kg.
-0.32l/h/kg, with predominantly renal clearance (> 70%) via the organic cationic transport system.
+The mean systemic clearance of lamivudine is approximately 0.32l/h/kg, with predominantly renal clearance (> 70%) via the organic cationic transport system.
 
 Limited data shows lamivudine penetrates the central nervous system and reaches the cerebro-spinal fluid (CSF).
 
@@ -60,6 +58,3 @@ A recommended dosage regimen for patients with creatinine clearance below 50 ml/
 
 Pharmacokinetics in children: In general, lamivudine pharmacokinetics in paediatric patients is similar to adults.
 In addition, systemic clearance values were greater in younger paediatric patients and decreased with age approaching adult values around 12 years of age.
-
-Therefore to achieve similar adult and paediatric exposure, the recommended dose for neonates is 4mg/kg/day.
-Glomerular filtration estimates suggests that to achieve similar adult and paediaric exposure, the recommended dose for children aged six weeks and older could be 8mg/kg/day.

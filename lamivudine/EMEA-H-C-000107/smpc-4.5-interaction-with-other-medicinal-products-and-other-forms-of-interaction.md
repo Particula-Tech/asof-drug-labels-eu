@@ -10,7 +10,7 @@ The possibility of interactions with other medicinal products administered concu
 Other medicinal products (e.g. ranitidine, cimetidine) are eliminated only in part by this mechanism and were shown not to interact with lamivudine.
 The nucleoside analogues (e.g. didanosine and zalcitabine) like zidovudine, are not eliminated by this mechanism and are unlikely to interact with lamivudine.
 
-Administration of trimethoprim/sulphamethoxazole 160 mg/800 mg results in a 40% increase in lamivudine exposure, because of the trimethoprim component; the sulphamethoxazole component did not interact.
+Administration of trimethoprim/sulphamethoxazole 160mg/800mg results in a 40% increase in lamivudine exposure, because of the trimethoprim component; the sulphamethoxazole component did not interact.
 However, unless the patient has renal impairment, no dosage adjustment of lamivudine is necessary (see section 4.2.
 Posology and method of administration).
 Lamivudine has no effect on the pharmacokinetics of trimethoprim or sulphamethoxazole.
@@ -18,9 +18,13 @@ When concomitant administration is warranted, patients should be monitored clini
 Co-administration of Epivir with high doses of co-trimoxazole for the treatment of Pneumocystis carinii pneumonia (PCP) and toxoplasmosis should be avoided.
 
 Lamivudine metabolism does not involve CYP3A, making interactions with medicinal products metabolised by this system (e.g. protease inhibitors) unlikely.
-
 Co-administration of Epivir with intravenous ganciclovir or foscarnet is not recommended until further information is available.
 
-[Epivir 10 mg/ml oral solution]
+Lamivudine may inhibit the intracellular phosphorylation of zalcitabine when the two medicinal products are used concurrently.
+Epivir is therefore not recommended to be used in combination with zalcitabine.
+
+[Epivir 10mg/ml oral solution]
 
 Pharmacokinetic properties).
+
+Administration of trimethoprim/sulphamethoxazole 160 mg/800 mg results in a 40% increase in lamivudine exposure, because of the trimethoprim component; the sulphamethoxazole component did not interact.

@@ -2,7 +2,7 @@
 
 3 years
 
-[Epivir 10 mg/ml oral solution]
+[Epivir 10mg/ml oral solution]
 
 2 years
 

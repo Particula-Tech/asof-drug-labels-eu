@@ -6,7 +6,7 @@ Tablet film-coat:
 Methylhydroxypropyl cellulose, Titanium Dioxide,
 Macrogol, Polysorbate 80, Purified water
 
-[Epivir 10 mg/ml oral solution]
+[Epivir 10mg/ml oral solution]
 
 Sucrose (20% w/v)
 Methyl parahydroxybenzoate
