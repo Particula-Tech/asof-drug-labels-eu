@@ -1,0 +1,16 @@
+{
+  "active_substance": "insulin lispro",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000088",
+  "eu_number": "EU/1/96/007",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "1996-04-30",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/humalog",
+  "molecule": "insulin-lispro",
+  "molecule_name": "INSULIN LISPRO",
+  "name": "Humalog",
+  "register_name": "Humalog",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h007.htm"
+}
