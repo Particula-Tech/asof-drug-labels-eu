@@ -1,9 +1,10 @@
 # 5.3 Preclinical safety data
 
 Single-cycle (5-day dosing, 23 days non-treatment), three- and six-cycle toxicity studies were conducted in rats and dogs.
-The primary targets of toxicity included the bone marrow, lymphoreticular system, testes, the gastrointestinal tract and, at higher doses, which were lethal to 60% to 100% of rats and dogs tested, degeneration of the retina occurred.
+The primary targets of toxicity included the bone marrow, lymphoreticular system, testes, the gastrointestinal tract and, at higher doses, which were lethal to 60 % to 100 % of rats and dogs tested, degeneration of the retina occurred.
 Most of the toxicity showed evidence of reversibility, except for adverse events on the male reproductive system and retinal degeneration.
 However, because the doses implicated in retinal degeneration were in the lethal dose range, and no comparable effect has been observed in clinical studies, this finding was not considered to have clinical relevance.
+
 Temozolomide is an embryotoxic, teratogenic and genotoxic alkylating agent.
 Temozolomide is more toxic to the rat and dog than to humans, and the clinical dose approximates the minimum lethal dose in rats and dogs.
 Dose-related reductions in leukocytes and platelets appear to be sensitive indicators of toxicity.
