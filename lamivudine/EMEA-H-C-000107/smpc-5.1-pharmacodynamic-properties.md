@@ -30,7 +30,7 @@ Evidence from clinical studies shows that lamivudine plus zidovudine delays the 
 
 Lamivudine has been widely used as a component of antiretroviral combination therapy with other antiretroviral agents of the same class (nucleoside reverse transcriptase inhibitors) or different classes (protease inhibitors, non-nucleoside reverse transcriptase inhibitors).
 
-Multiple drug antiretroviral therapy containing lamivudine has been shown to be effective in antiretrovirally-naive patients as well as in patients presenting with viruses containing the M184V mutations.
+Multiple drug antiretroviral therapy containing lamivudine has been shown to be effective in antiretrovirally-naïve patients as well as in patients presenting with viruses containing the M184V mutations.
 
 The relationship between in vitro susceptibility of HIV to lamivudine and clinical response to lamivudine-containing therapy remains under investigation.
 
@@ -38,3 +38,11 @@ Lamivudine at a dose of 100mg once daily has also been shown to be effective for
 However, for the treatment of HIV infection only a 300mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
 
 Lamivudine has not been specifically investigated in HIV patients co-infected with HBV.
+
+[Epivir 10 mg/ml oral solution]
+
+However, for the treatment of HIV infection, only a 300mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
+
+[Epivir 300 mg film-coated tablets]
+
+(all sentences already above)

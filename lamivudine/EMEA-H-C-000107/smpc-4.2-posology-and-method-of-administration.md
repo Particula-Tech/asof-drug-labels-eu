@@ -2,8 +2,8 @@
 
 The therapy should be initiated by a physician experienced in the management of HIV infection.
 
-Adults and adolescents over 12 years of age: the recommended dose of Epivir is 150 mg twice daily.
-Alternatively, Epivir may be administered once daily either as a 300 mg tablet or two 150 mg tablets (see 4.4 Special warnings and special precautions for use).
+Adults and adolescents over 12 years of age: the recommended dose of Epivir is 300 mg daily.
+This may be administered as either 150 mg twice daily or 300 mg once daily (see 4.4 Special warnings and special precautions for use).
 The 300 mg tablet is only suitable for the once a day regimen.
 
 Patients changing to the once daily regimen should take 150 mg twice a day and switch to 300 mg once a day the following morning.
@@ -20,7 +20,7 @@ Epivir is also available as an oral solution.
 
 Epivir may be administered with or without food.
 
-Renal impairment:- Lamivudine concentrations are increased in patients with moderate - severe renal impairment due to decreased clearance.
+Renal impairment:- Lamivudine concentrations are increased in patients with moderate – severe renal impairment due to decreased clearance.
 The dose should therefore be adjusted, using oral solution presentation of Epivir for patients whose creatinine clearance falls below 30 ml/min (see tables).
 
 Dosing Recommendations – Adults and adolescents over 12 years:
@@ -46,3 +46,27 @@ Dosing Recommendations – Children from 3 months to 12 years:
 
 Hepatic Impairment: Data obtained in patients with moderate to severe hepatic impairment shows that lamivudine pharmacokinetics are not significantly affected by hepatic dysfunction.
 Based on these data, no dose adjustment is necessary in patients with moderate or severe hepatic impairment unless accompanied by renal impairment.
+
+[Epivir 10 mg/ml oral solution]
+
+This may be administered as either 150 mg (15 ml) twice daily or 300 mg (30 ml) once daily (see 4.4 Special warnings and special precautions for use).
+
+Patients changing to the once daily regimen should take 150 mg (15 ml) twice a day and switch to 300 mg (30 ml) once a day the following morning.
+Where an evening once daily regimen is preferred, 150 mg (15 ml) of Epivir should be taken on the first morning only, followed by 300 mg (30 ml) in the evening.
+When changing back to a twice daily regimen, patients should complete the days treatment and start 150 mg (15 ml) twice a day the following morning.
+
+Epivir is also available as a tablet formulation.
+
+The dose should therefore be adjusted (see tables).
+
+| Creatinine clearance (ml/min) | First Dose | Maintenance Dose |
+| --- | --- | --- |
+| �50 | 150 mg (15 ml) | 150 mg (15 ml) Twice daily |
+| 30 to<50 | 150 mg (15 ml) | 150 mg (15 ml) Once daily |
+| 15 to <30 | 150 mg (15 ml) | 100 mg (10 ml) Once daily |
+| 5 to <15 | 150 mg (15 ml) | 50 mg (5 ml) Once daily |
+| <5 | 50 mg (5 ml) | 25 mg (2.5 ml) Once daily |
+
+[Epivir 300 mg film-coated tablets]
+
+(all sentences already above)

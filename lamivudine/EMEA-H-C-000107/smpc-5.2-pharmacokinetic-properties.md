@@ -17,7 +17,6 @@ The observed half-life of elimination is 5 to 7 hours.
 The mean systemic clearance of lamivudine is approximately 0.32 l/h/kg, with predominantly renal clearance (> 70%) via the organic cationic transport system.
 
 Lamivudine exhibits linear pharmacokinetics over the therapeutic dose range and displays limited binding to the major plasma protein albumin (< 16 % - 36 % to serum albumin in in vitro studies).
-
 Limited data show that lamivudine penetrates the central nervous system and reaches the cerebro-spinal fluid (CSF).
 The mean ratio CSF/serum lamivudine concentration 2-4 hours after oral administration was approximately 0.12.
 The true extent of penetration or relationship with any clinical efficacy is unknown.
@@ -49,3 +48,20 @@ Therefore to achieve similar adult and paediatric exposure, the recommended dose
 Glomerular filtration estimates suggests that to achieve similar adult and paediatric exposure, the recommended dose for children aged six weeks and older could be 8 mg/kg/day.
 
 Pharmacokinetics in pregnancy: Following oral administration, lamivudine pharmacokinetics in late-pregnancy were similar to non-pregnant women.
+
+[Epivir 10 mg/ml oral solution]
+
+Absorption: Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85 %.
+
+Distribution: From intravenous studies, the mean volume of distribution is 1.3l/kg.
+The mean systemic clearance of lamivudine is approximately 0.32l/h/kg, with predominantly renal clearance (> 70%) via the organic cationic transport system.
+
+Limited data shows lamivudine penetrates the central nervous system and reaches the cerebro-spinal fluid (CSF).
+
+A recommended dosage regimen for patients with creatinine clearance below 50 ml/min is shown in the dosage section (4.2.
+
+In addition, systemic clearance values were greater in younger paediatric patients and decreased with age approaching adult values around 12 years of age.
+
+[Epivir 300 mg film-coated tablets]
+
+Due to these differences, the recommended dose for children from three months to 12 years is 8 mg/kg/day, which will achieve similar adult and paediatric exposure (average AUC approximately 5000ng.h/ml).

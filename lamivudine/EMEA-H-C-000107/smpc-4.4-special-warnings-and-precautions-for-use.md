@@ -7,6 +7,7 @@ Posology and method of administration).
 
 Once daily dosing (300mg once a day): a clinical study has demonstrated the non inferiority between Epivir once a day and Epivir twice a day containing regimens.
 These, results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
+
 Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
 
 Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual conduct or blood contamination.
@@ -30,3 +31,18 @@ Patients at increased risk should be followed closely .
 
 Patients co-infected with Hepatitis B virus: Clinical trial and marketed use of lamivudine, have shown that some patients with chronic hepatitis B virus (HBV) disease may experience clinical or laboratory evidence of recurrent hepatitis upon discontinuation of lamivudine, which may have more severe consequences in patients with decompensated liver disease.
 If Epivir is discontinued in patients co-infected with Hepatitis B virus, periodic monitoring of both liver function tests and markers of HBV replication should be considered.
+
+[Epivir 10 mg/ml oral solution]
+
+In patients with moderate –to- severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (See dosage in renal impairment, in 4.2.
+
+Diabetic patients should be advised that each dose (150 mg = 15 ml) contains 3 g of sucrose.
+
+Once daily dosing (300 mg once a day): a clinical study has demonstrated the non inferiority between Epivir once a day and Epivir twice a day containing regimens.
+These results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
+
+Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
+
+[Epivir 300 mg film-coated tablets]
+
+(all sentences already above)
