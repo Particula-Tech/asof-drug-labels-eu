@@ -1,0 +1,16 @@
+{
+  "active_substance": "insulin aspart",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000258",
+  "eu_number": "EU/1/99/119",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "1999-09-07",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/novorapid",
+  "molecule": "insulin-aspart",
+  "molecule_name": "INSULIN ASPART",
+  "name": "NovoRapid",
+  "register_name": "NovoRapid",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h119.htm"
+}
