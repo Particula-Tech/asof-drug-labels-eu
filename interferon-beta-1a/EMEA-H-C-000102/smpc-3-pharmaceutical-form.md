@@ -1,8 +1,4 @@
-# 3. PHARMACEUTICAL FORM
-
-AVONEX (Interferon beta-1a) is a powder and solvent for solution for injection.
-
-[AVONEX 30 μg (6 million IU) powder and solvent for solution for injection (SmPC 2)]
+# 3. PHARMACEUTICAL FORM AND CONTENTS
 
 AVONEX is available as a pack of four individual doses.
 An individual dose consists of lyophilised powder for injection (vial), a prefilled syringe of solvent for reconstitution, and two needles (one green for reconstitution of the solution and one blue for intramuscular injection).
@@ -18,8 +14,9 @@ NAME AND ADDRESS OF THE MARKETING AUTHORISATION HOLDER AND OF THE MANUFACTURING 
 Marketing Authorisation Holder: Manufacturing Authorisation Holder:
 
 BIOGEN FRANCE S.A. BIOGEN B.V.
-55, Avenue des Champs Pierreux World Trade Center - Strawinskylaan 757
-92012 Nanterre - France 1077XX Amsterdam - The Netherlands
+55, Avenue des Champs Pierreux Robijnlaan 8
+
+92012 Nanterre - France 2132 WX Hoofddorp - The Netherlands
 
 6.
 THERAPEUTIC INDICATION
@@ -201,6 +198,8 @@ DO NOT USE AVONEX (Interferon beta-1a):
 
 11.
 DATE ON WHICH THE PACKAGE LEAFLET WAS LAST REVISED
+
+09.03.2000
 12.
 OTHER INFORMATION
 
@@ -211,12 +210,11 @@ Belgique/België/Belgien, Italia
 Luxembourg/Luxemburg, and Nederland Dompé Biotech S.p.A.
 
 Biogen B.V. Via Santa Lucia, 4
-World Trade Center 20122 Milano
-Strawinskylaan 757 Italia
-1077 XX Amsterdam Phone: 39 - 02 583 834 10
+Robijnlaan 8 20122 Milano
+2132 WX Hoofddorp Italia
+Nederland Phone: 39 - 02 583 834 10
 
-Nederland
-Phone: 31 – (0) 20 575 9150
+Phone: 31 (0) 23 566 8181
 
 Danmark United Kingdom and Ireland
 Sverige Biogen Ltd
@@ -224,7 +222,7 @@ Suomi/Finland 5d Roxborough Way
 Biogen Denmark A/S Foundation Park
 Lyngbyvej 28 Maidenhead
 2100 København Ø Berkshire SL6 2UD
-Denmark United Kingdom
+Danmark United Kingdom
 Phone: 45 - 39 27 07 99 Phone: 44 - (0) 1 628 50 1000
 Deutschland and Österreich Portugal
 Biogen GmbH Apartado 28
@@ -250,4 +248,5 @@ Biogen France S.A.
 "Le Capitole"
 55 avenue des Champs Pierreux
 92012 Nanterre Cedex
+France
 Phone: 33 – (0) 1 41 37 95 95

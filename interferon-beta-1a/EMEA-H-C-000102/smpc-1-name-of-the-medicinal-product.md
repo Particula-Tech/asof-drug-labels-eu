@@ -2,8 +2,6 @@
 
 AVONEX 30 μg (6 million IU) powder and solvent for solution for injection
 
-[AVONEX 30 μg (6 million IU) powder and solvent for solution for injection (SmPC 2)]
-
 2.
 ACTIVE SUBSTANCE AND EXCIPIENTS
 
