@@ -1,3 +1,17 @@
 # 6.4 Special precautions for storage
 
-Powder for oral suspension and constituted suspension: Store below 30oC.
+Do not store above 30°C
+
+[CellCept 500 mg tablets]
+
+CellCept tablets should be protected from light.
+
+[CellCept 500 mg powder for concentrate for solution for infusion]
+
+Powder for concentrate for solution for infusion: Do not store above 30°C.
+
+Reconstituted solution and infusion solution: Store at 15-30° C.
+
+[CellCept 1 g/5 ml powder for oral suspension]
+
+Powder for oral suspension and constituted suspension: Do not store above 30°C.
