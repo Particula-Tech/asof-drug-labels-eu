@@ -55,10 +55,13 @@ For intramuscular use.
 Do not administer intravenously or subcutaneously.
 Zyprexa Powder for Solution for Injection is intended for short term use only, for up to a maximum of three consecutive days.
 
+The maximum daily dose of olanzapine (including all formulations of olanzapine) is 20 mg.
+
 The recommended initial dose for olanzapine injection is 10 mg, administered as a single intramuscular injection.
-A lower dose (5 mg or 7.5 mg) may be given, on the basis of individual clinical status.
-A second injection, 5-10 mg, may be administered 2 hours after the first injection on the basis of individual clinical status.
-The maximum daily dose of olanzapine (including oral olanzapine) is 20 mg, with not more than 3 injections in any 24 hour period.
+A lower dose (5 mg or 7.5 mg) may be given, on the basis of individual clinical status, which should also include consideration of medications already administered either for maintenance or acute treatment (see section 4.4 Special Precautions and Warnings for use.).
+A second injection, 5-10 mg, may be administered 2 hours after the first injection on the basis of individual clinical status
+Not more than three injections should be given in any 24 hour period and the maximum daily dose of olanzapine of 20 mg (including all formulations) should not be exceeded.
+.
 ZYPREXA powder for solution for injection should be reconstituted in accordance with the recommendation in section 6.6, Instructions for use, handling and disposal.
 
 For further information on continued treatment with oral olanzapine (5 to 20 mg daily), see the Summary of Product Characteristics for ZYPREXA coated tablets or ZYPREXA VELOTAB orodispersible tablets.
@@ -68,7 +71,7 @@ It should not be used in this population until relevant clinical data are availa
 
 Elderly patients: The recommended starting dose in elderly patients (> 60 years) is 2.5 - 5 mg.
 Depending on the patient's clinical status (see section 4.4 Special warnings and special precautions for use), a second injection, 2.5 - 5 mg, may be administered 2 hours after the first injection.
-Not more than 3 injections should be given in any 24 hour period.
+Not more than 3 injections should be given in any 24 hour period and the maximum daily dose of 20 mg (including all formulations) of olanzapine should not be exceeded.
 
 Gender: The dose and dose range need not be routinely altered for female patients relative to male patients.
 
@@ -80,5 +83,11 @@ Additional injections, when indicated, should be conservative in such patients.
 [ZYPREXA 10 mg powder and solvent for solution for injection.]
 
 ZYPREXA Powder and Solvent for Solution for Injection is intended for short term use only, for up to a maximum of three consecutive days.
+
+A lower dose (5 mg or 7.5 mg) may be given, on the basis of individual clinical status which should include consideration of medications already administered either for maintenance or acute treatment ( see section 4.4 Special Precautions and Warnings for use).
+
+.ZYPREXA powder for solution for injection should be reconstituted in accordance with the recommendation in section 6.6, Instructions for use, handling and disposal.
+
+Not more than 3 injections should be given in any 24 hour period and the maximum daily dose of 20 mg of olanzapine (including all formulations) should not be exceeded.
 
 Gender patients: The dose and dose range need not be routinely altered for female patients relative to male patients.

@@ -14,6 +14,7 @@ In studies up to 3 months duration in mice and up to 1 year in rats and dogs, th
 Tolerance developed to the CNS depression.
 Growth parameters were decreased at high doses.
 Reversible effects consistent with elevated prolactin in rats included decreased weights of ovaries and uterus and morphologic changes in vaginal epithelium and in mammary gland.
+
 Haematologic toxicity: Effects on haematology parameters were found in each species, including dose-related reductions in circulating leukocytes in mice and non-specific reductions of circulating leukocytes in rats; however, no evidence of bone marrow cytotoxicity was found.
 Reversible neutropenia, thrombocytopenia, or anemia developed in a few dogs treated with 8 or 10 mg/kg/day (total olanzapine exposure [AUC] is 12- to 15-fold greater than that of a man given a 12-mg dose).
 In cytopenic dogs, there were no adverse effects on progenitor and proliferating cells in the bone marrow.

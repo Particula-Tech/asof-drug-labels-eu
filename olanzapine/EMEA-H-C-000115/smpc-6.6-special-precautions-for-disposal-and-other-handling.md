@@ -25,7 +25,7 @@ No special requirements.
 [ZYPREXA 10 mg powder for solution for injection.]
 
 Reconstitute ZYPREXA only with Water for Injections using standard aseptic techniques for reconstitution of parenteral products.
-No other solutions should be used for reconsititution.
+No other solutions should be used for reconsititution.(see section 6.2 Incompatibilities)
 
 1.
 Withdraw 2.1 ml of Water for Injection into a sterile syringe.
@@ -61,6 +61,7 @@ Parenteral medicines should be inspected visually for particulate matter prior t
 
 Reconstitute ZYPREXA only with the solvent provided in the pack using standard aseptic techniques for reconstitution of parenteral products.
 No other solvents should be used for reconstitution.
+(see section 6.2 Incompatibilities)
 
 The syringe includes an integral needle safety guard that is activated after administration of ZYPREXA.
 

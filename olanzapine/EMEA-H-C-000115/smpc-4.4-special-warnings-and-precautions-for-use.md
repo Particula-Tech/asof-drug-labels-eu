@@ -97,17 +97,21 @@ The efficacy of IM olanzapine has not been established in patients with agitatio
 
 IM olanzapine should not be administered to patients with unstable medical conditions, such as acute myocardial infarction, unstable angina pectoris, severe hypotension and/or bradycardia, sick sinus syndrome, or following heart surgery.
 If the patient’s medical history with regard to these unstable medical conditions cannot be determined, the risks and benefits of IM olanzapine should be considered in relation to other alternative treatments.
-The safety and efficacy of IM olanzapine has not been evaluated in patients with alcohol or drug intoxication (see also section 4.5 Interaction with other medicinal products and other forms of interaction).
 
-Patients receiving intramuscular olanzapine should be closely observed for hypotension including postural hypotension, bradyarrhythmia and/or hypoventilation, particularly for the first 2 to 4 hours following injection.
-Blood pressure, pulse, respiratory rate and level of consciousness should be recorded if clinically indicated and remedial treatment provided if required.
-Patients should remain recumbent if dizzy or drowsy after injection until examination indicates that they are not experiencing hypotension including postural hypotension, bradyarrhythmia and/or hypoventilation.
-Special caution is necessary in patients who receive treatment with other medicinal products having haemodynamic properties similar to those of intramuscular olanzapine (see also section 4.5.
-Interaction with other medicinal products and other forms of interaction).
-
-Simultaneous injection of intramuscular olanzapine and parenteral benzodiazepine has not been studied and is therefore not recommended (see also section 4.5 Interaction with other medicinal products and other forms of interaction).
+Simultaneous injection of intramuscular olanzapine and parenteral benzodiazepine is not recommended (see also section 4.5 Interaction with other medicinal products and other forms of interaction and section 6.2 Incompatibilities).
 If the patient is considered to need parenteral benzodiazepine treatment, this should not be given until at least one hour after IM olanzapine administration.
 If the patient has received parenteral benzodiazepine, IM olanzapine administration should only be considered after careful evaluation of clinical status and the patient should be closely monitored for excessive sedation and cardiorespiratory depression.
+
+It is extremely important that patients receiving intramuscular olanzapine should be closely observed for hypotension including postural hypotension, bradyarrhythmia and/or hypoventilation, particularly for the first 4 hours following injection and close observation should be continued after this period if clinically indicated.
+Blood pressure, pulse, respiratory rate and level of consciousness should be observed regularly and remedial treatment provided if required.
+Patients should remain recumbent if dizzy or drowsy after injection until examination indicates that they are not experiencing hypotension including postural hypotension, bradyarrhythmia and/or hypoventilation.
+
+Special caution is necessary in patients who have received treatment with other medicinal products having haemodynamic properties similar to those of intramuscular olanzapine including other antipsychotics (oral and/or intramuscular) and benzodiazepines.
+(see also section 4.5.
+Interaction with other medicinal products and other forms of interaction).
+Temporal association of treatment with IM olanzapine with hypotension, bradycardia, respiratory depression and death has been very rarely (<0.01%) reported particularly in patients who have received benzodiazepines and/or other antipsychotics.(see section 4.8 Undesirable effects)
+
+The safety and efficacy of IM olanzapine has not been evaluated in patients with alcohol or drug intoxication (either with prescribed or illicit drugs) (see also section 4.5 Interaction with other medicinal products and other forms of interaction).
 
 While olanzapine demonstrated anticholinergic activity in vitro, experience during oral clinical trials revealed a low incidence of related events.
 
@@ -125,4 +129,4 @@ Only 8 of 1685 subjects had increased QTc interval on multiple occasions.
 
 [ZYPREXA 10 mg powder and solvent for solution for injection.]
 
-(all sentences already above)
+Simultaneous injection of intramuscular olanzapine and parenteral benzodiazepine is not recommended (see also section 4.5 Interaction with other medicinal products and other forms of interaction and 6.2 Incompatibilities).

@@ -60,7 +60,7 @@ Immune System Disorders
 Very rare (<0.01%): Allergic reaction (e.g. anaphylactoid reaction, angioedema, pruritis or urticaria.)
 Metabolism and nutrition disorders
 Very rare (<0.01%): Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been spontaneously reported very rarely, including some fatal cases (see also Note 1 above and section 4.4).
-Hypertriglyceridaemia.
+Hypertriglyceridaemia, hypothermia.
 Nervous system disorders
 Rare (0.01-0.1%): Seizures have been reported to occur rarely in patients treated with olanzapine.
 In most of these cases, a history of seizures or risk factors for seizures were reported.
@@ -106,7 +106,12 @@ Very common (>10%) undesirable effects associated with the use of olanzapine in 
 
 [ZYPREXA 10 mg powder for solution for injection.]
 
+A common (1-10%) undesirable effect associated with the use of intramuscular olanzapine in clinical trials was somnolence.
+
+In post marketing reports, temporal association of treatment with IM olanzapine with cases of respiratory depression, hypotension or bradycardia and death have been very rarely reported, mostly in patients who concomitantly received benzodiazepines, and/or other antipsychotic drugs or who were treated in excess of olanzapine recommended daily doses (see section 4.4 Special precautions and warnings for use and section 4.5 Interaction with other medicinal products and other forms of interaction).
+
 The following table is based on the undesirable effects and laboratory investigations from clinical trials with Zyprexa Powder for Solution for Injection rather than oral olanzapine.
+
 Common (1-10%): Bradycardia with or without hypotension or syncope, tachycardia.
 Uncommon (0.1-1%): Sinus pause.
 Common (1-10%): Postural hypotension, hypotension.
@@ -115,6 +120,8 @@ Uncommon (0.1-1%): Hypoventilation.
 Common (1-10%): Injection site discomfort.
 
 The undesirable effects listed below have been observed following administration of oral olanzapine, but may also occur following administration of Zyprexa Powder for Solution for Injection.
+
+Very common (>10%) undesirable effects associated with the use of oral olanzapine in clinical trials were somnolence and weight gain.
 
 The following table of undesirable effects is based on adverse event reporting and laboratory investigations from clinical trials with oral olanzapine.
 

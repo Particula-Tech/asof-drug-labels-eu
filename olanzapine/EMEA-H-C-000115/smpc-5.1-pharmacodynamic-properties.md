@@ -51,6 +51,7 @@ Olanzapine demonstrated a greater in-vitro affinity for serotonin 5HT2 than dopa
 In preclinical studies, olanzapine exhibited a range of receptor affinities (Ki; < 100 nM) for serotonin 5-HT2A/2C, 5-HT3, 5-HT6; dopamine D1, D2, D3, D4, D5; cholinergic muscarinic receptors m1-m5; α-1 adrenergic; and histamine H1 receptors.
 Animal behavioural studies with olanzapine indicated 5HT, dopamine, and cholinergic antagonism, consistent with the receptor-binding profile.
 Olanzapine demonstrated a greater in-vitro affinity for serotonin 5-HT2 than dopamine D2 receptors and greater 5-HT2 than D2 activity in vivo, models.
+
 In a single oral dose (10 mg) Positron Emission tomography (PET) study in healthy volunteers, olanzapine produced a higher 5-HT2A than dopamine D2 receptor occupancy.
 
 In two of two placebo and two of three comparator controlled trials with oral olanzapine in over 2,900 schizophrenic patients presenting with both positive and negative symptoms, olanzapine was associated with statistically significantly greater improvements in negative as well as positive symptoms.
