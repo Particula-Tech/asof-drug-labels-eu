@@ -17,6 +17,7 @@ For patients with renal impairment the following dosage adjustment should be con
 Doses of clarithromycin > 1g/day should not be coadministered with Norvir.
 
 Desipramine: dosage reduction of desipramine should be considered in patients taking the combination.
+
 Rifabutin and its active metabolite 25-O-desacetyl rifabutin: concomitant use with ritonavir has resulted in a multifold increase in the AUC of rifabutin and its active metabolite 25-O-desacetyl rifabutin with clinical consequences.
 Therefore, the concomitant use of ritonavir and rifabutin is contraindicated.
 (see Section 4.3 Contra-indications).
@@ -35,7 +36,6 @@ Human pharmacokinetic data for combination with antiretroviral drugs other than 
 Ethinyl estradiol: because concomitant administration of ritonavir with a fixed combination oral contraceptive resulted in a reduction of the ethinyl estradiol mean AUC by 41%, increased doses of oral contraceptives containing ethinyl estradiol, or alternate methods of contraception should be considered.
 
 Theophylline: an increased dosage of theophylline may be required, as concomitant use with ritonavir caused an approx. 45 % decrease in the AUC of theophylline.
-
 Fixed combination of sulfamethoxazole/trimethoprim: the concomitant administration of Norvir and sulfamethoxazole/trimethoprim resulted in a 20 % reduction of the sulfamethoxazole AUC and a 20% increase of the trimethoprim AUC.
 Dose alteration of sulfamethoxazole/trimethoprim during concomitant Norvir therapy should not be necessary.
 

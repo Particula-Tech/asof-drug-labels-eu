@@ -38,23 +38,14 @@ The following studies are the most important.
 A controlled study with ritonavir as add-on therapy in HIV-1 infected patients extensively pre-treated with nucleoside analogues and baseline CD4 cell counts ≤ 100 cells/µl showed a reduction in mortality and AIDS defining events.
 The mean average change from baseline over 16 weeks for HIV RNA levels was -0.79 log10 (maximum mean decrease:1.29 log10) in the ritonavir group vs -0.01 log10 in the control group.
 The most frequently used nucleosides in this study were zidovudine, stavudine, didanosine and zalcitabine.
-
 In a study recruiting less advanced HIV-1 infected patients (CD4 200-500 cells/µl) without previous antiretroviral therapy, ritonavir in combination with zidovudine or alone reduced viral load in plasma and increased CD4 count.
 The effects of ritonavir monotherapy seemed unexpectedly to be at least as large as the combination therapy, a finding which has not been explained adequately.
-The mean average change from baseline over 16 weeks for HIV RNA levels was -1.03 log10 in the ritonavir group vs - 0.80 log10 in the ritonavir + zidovudine group vs -0.42 log10 in the zidovudine group.
+The mean average change from baseline over 16 weeks for HIV RNA levels was -1.03 log10 in the ritonavir group vs -0.80 log10 in the ritonavir + zidovudine group vs - 0.42 log10 in the zidovudine group.
 Clinical endpoint results of this study are not yet available.
 
 The use of ritonavir monotherapy can not be recommended because of concern about the emergence of resistance.
 
-In an open label trial in 32 antiretroviral naive HIV-1 infected patients the combination of ritonavir with zidovudine and zalcitabine decreased the viral load (mean decrease at week 20 of -1.76 log10).
-
-Studies investigating optimal combinations and the long term efficacy and safety of ritonavir are ongoing.
-
-[Norvir capsule 100 mg]
-
-The mean average change from baseline over 16 weeks for HIV RNA levels was -0.79 log10 (maximum mean decrease: 1.29 log10) in the ritonavir group vs -0.01 log10 in the control group.
-
 In an open label trial in 32 antiretroviral naive HIV-1 infected patients the combination of ritonavir with zidovudine and zalcitabine decreased the viral load (mean decrease at week 20 of
-- 1.76 log10 ).
+- 1.76 log10).
 
 Studies investigating optimal combinations and long term efficacy and safety of ritonavir are ongoing.

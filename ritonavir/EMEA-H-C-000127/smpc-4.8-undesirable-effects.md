@@ -11,7 +11,6 @@ Skin: Frequently rash; occasionally pruritus, sweating.
 Respiratory system: occasionally pharyngitis, cough increased.
 
 Cardiovascular: Frequently vasodilation.
-
 Others: Asthenia (22.3%), headache (15.5%); occasionally fever, pain, hyperlipemia, myalgia, weight loss, decrease of free and total thyroxine (T4) values.
 
 Nausea, diarrhea, vomiting, asthenia, taste perversion, circumoral and peripheral paresthesia, and vasodilatation have been observed most frequently and are felt to be clearly related to ritonavir.
@@ -25,7 +24,8 @@ Cause and effect relationship has not been established.
 
 Dehydration usually associated with gastrointestinal symptoms, and sometimes resulting in hypotension, syncope, or renal insufficiency has been reported.
 Syncope, orthostatic hypotension and renal insufficiency have also been reported without known dehydration.
-Hepatic transaminase elevations exceeding five times the upper limit or normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
+
+Hepatic transaminase elevations exceeding five times the upper limit of normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
 
 Clinical chemistry:
 
@@ -36,7 +36,3 @@ Hypertriglyceridemia, hypercholesterolemia and hyperuricemia were clearly relate
 Hematology:
 
 Low white blood cell (WBC) (16%); occasionally low hemoglobin, low neutrophils, high eosinophils, high WBC, high neutrophils, high prothrombin time.
-
-[Norvir capsule 100 mg]
-
-Hepatic transaminase elevations exceeding five times the upper limit of normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
