@@ -1,7 +1,5 @@
 # 6.4 Special precautions for storage
 
-Store at or below 30ºC.
+Powder for concentrate for solution for infusion: Store below 30° C.
 
-[CellCept 500 mg tablets]
-
-Store at or below 30º C. CellCept tablets should be protected from light.
+Reconstituted solution and infusion solution: Store at 15-30° C.
