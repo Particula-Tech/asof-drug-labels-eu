@@ -1,3 +1,3 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
-NutropinAq 5 mg/ml solution for injection
+NutropinAq 10 mg/2 ml solution for injection in a cartridge

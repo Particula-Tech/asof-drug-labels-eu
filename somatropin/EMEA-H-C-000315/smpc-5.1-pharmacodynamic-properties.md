@@ -6,7 +6,7 @@ ATC Code: H01 AC 01
 
 Somatropin stimulates growth rate and increases adult height in children who lack endogenous growth hormone.
 Treatment of growth hormone deficient adults with somatropin results in reduced fat mass, increased lean body mass and increased spine bone mineral density.
-Metabolic alterations in these patients include normalisation of IGF-I serum levels.
+Metabolic alterations in these patients include normalisation of IGF-1 serum levels.
 
 In vitro and in vivo preclinical and clinical tests have demonstrated that somatropin is therapeutically equivalent to human growth hormone of pituitary origin.
 
@@ -14,7 +14,7 @@ Actions that have been demonstrated for human growth hormone include:
 
 Tissue Growth
 1.
-Skeletal growth: growth hormone and its mediator IGF-I stimulate skeletal growth in growth hormone deficient children by an effect on the epiphyseal plates of long bones.
+Skeletal growth: growth hormone and its mediator IGF-1 stimulate skeletal growth in growth hormone deficient children by an effect on the epiphyseal plates of long bones.
 This results in a measurable increase in body length until these growth plates fuse at the end of puberty.
 2.
 Cell growth: Treatment with somatropin results in an increase in both the number and size of skeletal muscle cells.
@@ -34,9 +34,8 @@ Somatropin induces retention of sodium, potassium and phosphorus.
 Serum concentration of inorganic phosphorus are increased in patients with growth hormone deficiency after NutropinAq therapy due to metabolic activity associated with bone growth and increased tubular reabsorption in the kidney.
 Serum calcium is not significantly altered by somatropin.
 Adults with growth hormone deficiency show low bone mineral density and in the childhood-onset patient, NutropinAq has been shown to increase spine bone mineral density in a dose-dependent manner.
-
 Connective tissue metabolism
 Somatropin stimulates the synthesis of chondroitin sulphate and collagen as well as the urinary excretion of hydroxyproline.
 Body composition
-Adult growth hormone deficient patients treated with somatropin at a mean dosage of 0.014 mg/kg body weight daily demonstrate a decrease in fat mass and increase in lean body mass.
+Adult growth hormone deficient patients treated with somatropin at a mean dosage of 0.014 mg/kg bodyweight daily demonstrate a decrease in fat mass and increase in lean body mass.
 When these alterations are coupled with the increase in total body water and bone mass, the overall effect of somatropin therapy is to modify body composition, an effect that is maintained with continued treatment.

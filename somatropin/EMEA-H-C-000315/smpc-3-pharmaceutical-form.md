@@ -1,3 +1,3 @@
 # 3. PHARMACEUTICAL FORM
 
-Solution for injection.
+Solution for injection in a cartridge.
