@@ -21,7 +21,6 @@ The addition of the entire contents of the solvent vial to the contents of the T
 [TAXOTERE 80 mg concentrate and solvent for solution for infusion]
 
 Each blister carton of TAXOTERE 80 mg concentrate and solvent for solution for infusion contains: � one single-dose TAXOTERE vial and,
-
 TAXOTERE 80 mg concentrate for solution for infusion vial:
 
 The TAXOTERE 80 mg concentrate for solution for infusion vial is a 15 ml clear glass vial with a red flip-off cap.

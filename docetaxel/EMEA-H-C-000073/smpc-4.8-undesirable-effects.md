@@ -55,7 +55,8 @@ Skin and subcutaneous tissue disorders
 Reversible cutaneous reactions have been observed and were generally considered as mild to moderate.
 Reactions were characterised by a rash including localised eruptions mainly on the feet and hands, but also on the arms, face or thorax, and frequently associated with pruritus.
 Eruptions generally occurred within one week after the docetaxel infusion.
-Less frequently, severe symptoms such as eruptions followed by desquamation which rarely lead to interruption or discontinuation of docetaxel treatment were reported (see sections «Posology and method of administration» and «Special warnings and special precautions for use»).
+Less frequently, severe symptoms such as eruptions followed by desquamation which rarely lead to interruption or discontinuation of docetaxel treatment were reported (see sections «Posology and method of administration» and
+«Special warnings and special precautions for use»).
 Severe nail disorders are characterised by hypo-or hyperpigmentation and sometimes pain and onycholysis.
 Very rare cases of bullous eruption such as erythema multiforme or Stevens-Johnson syndrome have been reported with docetaxel and other concomitant factors may have contributed to the development of these effects.
 
@@ -208,6 +209,9 @@ Common: Dehydration (8%; G3/4: 2%); Weight decreased (6%).
 
 Eye Disorders
 
+Very rare cases of transient visual disturbances (flashes, flashing lights, scotomata) typically occurring during drug infusion and in association with hypersensitivity reactions have been reported.
+These were reversible upon discontinuation of the infusion.
+
 Cases of lacrimation with or without conjunctivitis, as cases of lacrimal duct obstruction resulting in excessive tearing have been rarely reported.
 
 TAXOTERE 75mg/m² in combination with capecitabine:
@@ -218,9 +222,9 @@ Musculoskeletal disorders
 TAXOTERE 100mg/m² single agent:
 Very common: Myalgia (20%; severe 1.4%).
 Common: Arthralgia (8.6%).
-
 TAXOTERE 75mg/m² single agent:
 Common: Myalgia (5.8%).
+
 TAXOTERE 75mg/m² in combination with doxurubicin:
 Common: Myalgia (8.5%).
 
@@ -266,8 +270,3 @@ Very common: Asthenia (23%; G3/4: 3%); Pyrexia (21%; G3/4: 1%); Fatigue (21%; G3
 Common: Pain in limb (9%; G3/4: <1%); Lethargy (6%); Pain (6%); Oral candidiasis (6%; G3/4: < 1%).
 
 Radiation recall phenomena have rarely been reported.
-
-[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
-
-Less frequently, severe symptoms such as eruptions followed by desquamation which rarely lead to interruption or discontinuation of docetaxel treatment were reported (see sections «Posology and method of administration» and
-«Special warnings and special precautions for use»).
