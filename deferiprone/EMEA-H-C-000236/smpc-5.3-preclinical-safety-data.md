@@ -1,15 +1,14 @@
 # 5.3 Preclinical safety data
 
-Non-clinical studies have been conducted in animal species including mice, rats, rabbits, dogs and monkeys.
+Preclinical studies have been conducted in animal species including mice, rats, rabbits, dogs and monkeys.
 
-The main toxicity observed was bone marrow depression and an associated drop in white blood cell counts.
-In non-iron loaded animals these effects appeared to be dose dependent and were observed at doses of 100 mg/kg/day and above.
-In these animals, there is an inverse correlation between toxicity and tissue iron load.
+The most common findings in non-iron-loaded animals at doses of 100 mg/kg/day and above were hematologic effects such as bone marrow hypocellularity, and decreased WBC, RBC and/or platelet counts in peripheral blood.
 
-Atrophy of the thymus and testis was reported at doses of 100 to 400 mg/kg in non-iron loaded animals.
-Hypertrophy of the adrenals was seen at doses of 150 mg/kg in non-iron loaded animals.
+Atrophy of the thymus, lymphoid tissues, and testis, and hypertrophy of the adrenals, were reported at doses of 100 mg/kg/day or greater in non-iron-loaded animals.
 
-Chronic carcinogenicity studies have not been undertaken with deferiprone.
-
+No carcinogenicity studies in animals have been conducted with deferiprone.
 The genotoxic potential of deferiprone was evaluated in a set of in vitro and in vivo tests.
-Deferiprone did not show direct mutagenic properties however, it did display clastogenic characteristics in non-iron loaded systems.
+Deferiprone did not show direct mutagenic properties; however, it did display clastogenic characteristics in in vitro assays and in vivo in animals.
+
+Deferiprone was teratogenic and embryotoxic in reproductive studies in non-iron-loaded rats and rabbits at doses at least as low as 25 mg/kg/day.
+No prenatal and postnatal reproductive studies have been conducted in animals.

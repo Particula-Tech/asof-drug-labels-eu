@@ -1,3 +1,3 @@
 # 4.1 Therapeutic indications
 
-Treatment of iron overload in patients with thalassemia major for whom deferoxamine therapy is contra-indicated or who present serious toxicity with deferoxamine therapy.
+Ferriprox is indicated for the treatment of iron overload in patients with thalassaemia major when deferoxamine therapy is contraindicated or inadequate.

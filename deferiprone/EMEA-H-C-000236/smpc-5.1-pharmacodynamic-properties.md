@@ -4,8 +4,8 @@ Pharmacotherapeutic group: Iron Chelator, ATC code: V03AC02
 
 The active substance is deferiprone (3-hydroxy-1,2-dimethylpyridin-4-one), a bidentate ligand which binds to iron in a 3:1 molar ratio.
 
-Clinical studies have demonstrated that deferiprone is effective in promoting iron excretion and can prevent the progression of iron accumulation as assessed by serum ferritin, in transfusion-dependent thalassemia patients.
-However, chelation therapy may not protect against iron-induced organ damage.
+Clinical studies have demonstrated that deferiprone is effective in promoting iron excretion and that a dose of 25 mg/kg three times per day can prevent the progression of iron accumulation as assessed by serum ferritin, in patients with transfusion-dependent thalassaemia.
+However, chelation therapy may not necessarily protect against iron-induced organ damage.
 
 Deferiprone has been investigated in 247 patients in two phase III trials and a compassionate use programme.
 Serum ferritin was chosen as the primary efficacy criterion in the studies.

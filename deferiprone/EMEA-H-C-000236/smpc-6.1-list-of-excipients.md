@@ -1,6 +1,6 @@
 # 6.1 List of excipients
 
-Core tablet
+Tablet core
 Microcrystalline cellulose
 Magnesium stearate
 Colloidal silicon dioxide
