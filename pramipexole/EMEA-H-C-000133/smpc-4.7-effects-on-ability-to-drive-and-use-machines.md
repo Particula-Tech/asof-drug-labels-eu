@@ -11,6 +11,10 @@ Patients being treated with pramipexole must be informed not to drive or engage 
 
 (all sentences already above)
 
+[SIFROL 0.35 mg tablet]
+
+(all sentences already above)
+
 [SIFROL 0.7 mg tablet]
 
 These episodes can be life threatening depending on the circumstances and have occurred in some cases without awareness of warning signs.

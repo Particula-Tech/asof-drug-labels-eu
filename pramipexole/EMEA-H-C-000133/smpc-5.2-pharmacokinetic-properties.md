@@ -19,6 +19,10 @@ The elimination half-life (t½) varies from 8 hours in the young to 12 hours in 
 In humans, the protein binding of pramipexole is very low (< 20%) and the volume of distribution is large (400l).
 High brain tissue concentrations were observed in the rat (approx. 8-fold compared to plasma).
 
+[SIFROL 0.35 mg tablet]
+
+(all sentences already above)
+
 [SIFROL 0.7 mg tablet]
 
 (all sentences already above)

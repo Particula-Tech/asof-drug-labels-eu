@@ -22,6 +22,10 @@ The incidence of somnolence is increased at doses higher than 1.5 mg/day (see se
 
 In most cases where information was available, there were no further episodes following reduction of dosage or termination of therapy ( see section 4.7 Effects on Ability to Drive or Operate Machines).
 
+[SIFROL 0.35 mg tablet]
+
+Some patients were taking other medication with potentially sedative properties.
+
 [SIFROL 0.7 mg tablet]
 
 (all sentences already above)

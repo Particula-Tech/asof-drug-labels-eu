@@ -6,6 +6,10 @@ SIFROL 0.088 mg tablet
 
 SIFROL 0.18 mg tablet
 
+[SIFROL 0.35 mg tablet]
+
+SIFROL 0.35 mg tablet
+
 [SIFROL 0.7 mg tablet]
 
 SIFROL 0.7 mg tablet
