@@ -1,0 +1,47 @@
+# 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Drugs used in erectile dysfunction (ATC Code G04B E).
+
+Tadalafil is a selective, reversible inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5).
+When sexual stimulation causes the local release of nitric oxide, inhibition of PDE5 by tadalafil produces increased levels of cGMP in the corpus cavernosum.
+This results in smooth muscle relaxation and inflow of blood into the penile tissues, thereby producing an erection.
+Tadalafil has no effect in the absence of sexual stimulation.
+
+Studies in vitro have shown that tadalafil is a selective inhibitor of PDE5.
+PDE5 is an enzyme found in corpus cavernosum smooth muscle, vascular and visceral smooth muscle, skeletal muscle, platelets, kidney, lung, and cerebellum.
+The effect of tadalafil is more potent on PDE5 than on other phosphodiesterases.
+Tadalafil is > 10,000-fold more potent for PDE5 than for PDE1, PDE2, and PDE4, enzymes which are found in the heart, brain, blood vessels, liver, and other organs.
+Tadalafil is > 10,000-fold more potent for PDE5 than for PDE3, an enzyme found in the heart and blood vessels.
+This selectivity for PDE5 over PDE3 is important because PDE3 is an enzyme involved in cardiac contractility.
+Additionally, tadalafil is approximately 700-fold more potent for PDE5 than for PDE6, an enzyme which is found in the retina and is responsible for phototransduction.
+Tadalafil is also
+> 10,000-fold more potent for PDE5 than for PDE7 through PDE10.
+
+Two clinical studies were conducted in 571 patients in an at-home setting to define the period of responsiveness to CIALIS.
+CIALIS demonstrated statistically significant improvement in erectile function and the ability to have successful sexual intercourse up to 24 hours following dosing, as well as patients’ ability to attain and maintain erections for successful intercourse compared to placebo as early as 16 minutes following dosing.
+Sexual Encounter Profile (SEP) diary data collected in clinical studies supports this period of responsiveness and a statistically significant greater proportion of successful intercourse attempts associated with tadalafil treatment compared to placebo treatment up to and through the 12- to 14-hour interval following administration.
+In these studies patients were free to choose the time interval between dose administration and the time of sexual attempts.
+
+CIALIS administered to healthy subjects produced no significant difference compared to placebo in supine systolic and diastolic blood pressure (mean maximal decrease of 1.6/0.8 mm Hg, respectively), in standing systolic and diastolic blood pressure (mean maximal decrease of 0.2/4.6 mm Hg, respectively), and no significant change in heart rate.
+When tadalafil and certain oral antihypertensive medications (including angiotensin II receptor blockers) were assessed in drug interaction studies, tadalafil did not result in clinically significant augmentation of the antihypertensive effects of those medications (see section 4.5 Interaction with other medicinal products and other forms of interaction).
+However, appropriate clinical advice should be given to patients regarding the possibility of a decrease in blood pressure when they are treated with antihypertensive medications.
+The administration of CIALIS to patients who are using any form of organic nitrate is contraindicated.
+
+In a study to assess the effects of tadalafil on vision, no impairment of colour discrimination (blue/green) was detected using the Farnsworth-Munsell 100-hue test.
+This finding is consistent with the low affinity of tadalafil for PDE6 compared to PDE5.
+Across all clinical studies, reports of changes in colour vision were rare (< 0.1 %).
+
+Two studies were conducted in men to assess the potential effect of CIALIS 10 mg and 20 mg administered daily for 6 months on spermatogenesis.
+The results of these studies demonstrate no difference from placebo with respect to the proportion of men showing a 50% or greater decrease in sperm concentration.
+In addition, in comparison with placebo, there were no adverse effects observed with respect to mean change in sperm count, sperm morphology, or sperm motility at either dose.
+However, in the study of 10 mg CIALIS taken daily for 6 months, results showed a decrease in mean sperm concentration relative to placebo.
+This effect was not seen in the study where the higher dose, 20 mg, CIALIS was taken daily for 6 months.
+In addition there was no effect on mean concentrations of testosterone, luteinizing hormone or follicle stimulating hormone with either 10 or 20 mg of CIALIS compared to placebo.
+The effects of longer term daily dosing have not been established.
+See also Sections 4.4 Special warnings and special precautions for use and 5.3 Preclinical safety data.
+
+Tadalafil at doses of 2 to 100 mg has been evaluated in 16 clinical studies involving 3250 patients, including patients with erectile dysfunction of various severities (mild, moderate, severe), etiologies, ages (range 21-86 years), and ethnicities.
+Most patients reported erectile dysfunction of at least 1 year in duration.
+In the primary efficacy studies of general populations, 81% of patients reported that CIALIS improved their erections as compared to 35% with placebo.
+Also, patients with erectile dysfunction in all severity categories reported improved erections whilst taking CIALIS (86%, 83%, and 72% for mild, moderate, and severe, respectively, as compared to 45%, 42%, and 19% with placebo).
+In the primary efficacy studies, 75% of intercourse attempts were successful in CIALIS treated patients as compared to 32% with placebo.
