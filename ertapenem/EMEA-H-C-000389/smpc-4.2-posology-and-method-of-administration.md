@@ -3,8 +3,7 @@
 The dose of INVANZ is 1 gram (g) given once a day by the intravenous route.
 
 Intravenous administration: INVANZ should be infused over a period of 30 minutes.
-
-The usual duration of therapy with INVANZ is 3 to 14 days but may vary depending on the type and severity of infection and causative pathogen(s).
+G11 he usual duration of therapy with INVANZ is 3 to 14 days but may vary depending on the type and severity of infection and causative pathogen(s).
 When clinically indicated, a switch to an appropriate oral antibacterial agent may be implemented if clinical improvement has been observed.
 
 Renal insufficiency:

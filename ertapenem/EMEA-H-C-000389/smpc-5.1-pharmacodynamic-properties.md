@@ -6,12 +6,16 @@ Mechanism of action
 Ertapenem inhibits bacterial cell wall synthesis following attachment to penicillin binding proteins (PBPs).
 In Escherichia coli, affinity is strongest to PBPs 2 and 3.
 
-Microbiological Susceptibility
-The general MIC susceptibility test breakpoints to separate susceptible (S) pathogens from resistant (R) pathogens are:
-S � 4 mg/l and R > 8 mg/l.
+Microbiological susceptibility
+The NCCLS MIC breakpoints are as follows:
+� Enterobacteriaceae and staphylococci : S =<2 mg/l and R =>8 mg/l
+� S. pneumoniae : S =<1 mg/l and R =>4 mg/l
+� Streptococcus species (beta-haemolytic only) : S =<1 mg/l
+� Haemophilus species : S =<0.5 mg/l
+� Anaerobes : S =<4 mg/l and R =>16 mg/l
+(NB : the breakpoint values for staphylococci and S. pneumoniae are applicable only to methicillin-susceptible staphylococci and penicillin-susceptible pneumococci, respectively)”
 
-The MIC susceptibility test breakpoint for streptococci, including S. pneumoniae, is:
-S � 2 mg/l.
+The prescribers are informed that local MIC breakpoints, if available, should be consulted.
 
 The prevalence of acquired resistance may vary geographically and with time for selected species and local information on resistance is desirable, particularly when treating severe infections.
 Localized clusters of infections due to carbapenem-resistant organisms have been reported in the European Union.

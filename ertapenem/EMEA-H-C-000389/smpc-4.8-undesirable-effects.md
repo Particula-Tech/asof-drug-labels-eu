@@ -21,33 +21,38 @@ Rare: Hypoglycaemia
 Nervous system disorders:
 
 Common: Headache
+
 Uncommon: Dizziness, somnolence, insomnia, confusion, seizure
+
 Rare: Agitation, anxiety, depression, tremor
 
 Cardiac and vascular disorders:
 
 Common: Phlebitis/thrombophlebitis
+
 Uncommon: Hypotension
+
 Rare: Arrhythmia, increased blood pressure, haemorrhage, tachycardia
 
 Respiratory, thoracic and mediastinal disorders:
-
 Uncommon: Dyspnoea, pharyngeal discomfort
+
 Rare: Nasal congestion, cough, epistaxis, pneumonia, rales/rhonchi, wheezing
 
 Gastrointestinal and hepato-biliary disorders:
 
 Common: Diarrhoea, nausea, vomiting
-Uncommon: Constipation, oral candidiasis, pseudomembranous enterocolitis, acid
 
-regurgitation, dry mouth, dyspepsia, anorexia
+Uncommon: Constipation, oral candidiasis, pseudomembranous enterocolitis, acid regurgitation, dry mouth, dyspepsia, anorexia
 
 Rare: Cholecystitis, dysphagia, faecal incontinence, jaundice, liver disorder
 
 Skin and subcutaneous tissue disorders:
 
 Common: Rash, pruritus
+
 Uncommon: Erythema
+
 Rare: Dermatitis, dermatomycosis, desquamation, postoperative wound infection
 
 Musculoskeletal, connective tissue and bone disorders:
@@ -59,16 +64,15 @@ Renal and urinary disorders:
 Rare: Urinary tract infection, renal insufficiency, acute renal insufficiency
 
 Reproductive system and breast disorders:
-
 Uncommon: Vaginitis
+
 Rare: Abortion, genital bleeding
 
 General disorders and administration site conditions:
 
 Common Infused vein complication
-Uncommon: Extravasation, abdominal pain, candidiasis, asthenia/fatigue, fungal
 
-infection, fever, oedema/swelling, chest pain, taste perversion
+Uncommon: Extravasation, abdominal pain, candidiasis, asthenia/fatigue, fungal infection, fever, oedema/swelling, chest pain, taste perversion
 
 Rare: Allergy, injection-site induration, malaise, pelvic peritonitis, scleral disorder,
 
@@ -103,13 +107,9 @@ Rare: Decrease in lymphocytes; increases in band neutrophils, lymphocytes,
 
 metamyelocytes, monocytes, myelocytes; atypical lymphocytes
 Urinalysis:
-
-Uncommon: Increases in urine bacteria, urine white blood cells, urine epithelial cells, and
-
-urine red blood cells; urine yeast present
+Uncommon: Increases in urine bacteria, urine white blood cells, urine epithelial cells, and urine red blood cells; urine yeast present
 
 Rare: Increase in urobilinogen
 
 Miscellaneous:
-
 Uncommon: Positive Clostridium difficile toxin
