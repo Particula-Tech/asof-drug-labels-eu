@@ -1,10 +1,10 @@
 # 3. PHARMACEUTICAL FORM
 
-Coated tablets
+Film-coated tablets
 
-The tablets are white film coated, diamond shaped tablets engraved with “GX CJ7” on one face.
+The film-coated tablets are white, diamond shaped and engraved with “GX CJ7” on one face.
 
-[Epivir (SmPC 2)]
+[Epivir 10 mg/ml oral solution]
 
 Oral solution
 

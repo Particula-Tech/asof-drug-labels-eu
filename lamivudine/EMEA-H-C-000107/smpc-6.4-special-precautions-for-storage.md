@@ -1,7 +1,7 @@
 # 6.4 Special precautions for storage
 
-Store between 2 and 30°C.
+Do not store above 30°C
 
-[Epivir (SmPC 2)]
+[Epivir 10 mg/ml oral solution]
 
-Store below 25°C.
+Do not store above 25°C.

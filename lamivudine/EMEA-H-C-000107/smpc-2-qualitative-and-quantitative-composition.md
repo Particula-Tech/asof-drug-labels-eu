@@ -1,7 +1,8 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Epivir contains 150 mg lamivudine.
+Each film-coated tablet contains 150 mg lamivudine.
+For excipients see section 6.1.
 
-[Epivir (SmPC 2)]
+[Epivir 10 mg/ml oral solution]
 
-Epivir contains 10 mg/ml lamivudine in a solution containing 20% (w/v) sucrose, and preservatives (methyl parahydroxybenzoate and propyl parahydroxybenzoate).
+Oral solution containing 10 mg/ml of lamivudine.

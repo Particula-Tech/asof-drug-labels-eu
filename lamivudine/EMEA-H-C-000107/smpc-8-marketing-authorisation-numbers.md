@@ -2,6 +2,6 @@
 
 EU/1/96/015/001
 
-[Epivir (SmPC 2)]
+[Epivir 10 mg/ml oral solution]
 
 EU/1/96/015/002
