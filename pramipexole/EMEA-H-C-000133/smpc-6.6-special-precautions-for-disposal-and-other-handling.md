@@ -1,3 +1,4 @@
-# 6.6 Instructions for use, handling and disposal
+# 6.6 Instructions for use and handling, and disposal
 
-None stated (cf. 6.4)
+(cf. 6.4)
+No special requirements

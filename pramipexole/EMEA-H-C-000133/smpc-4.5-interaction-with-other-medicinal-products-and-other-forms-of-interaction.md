@@ -12,3 +12,5 @@ Drugs included in this category are Cimetidine, Diltiazem, Quinidine, Quinine, R
 Amantadine is also eliminated by this renal pathway.
 Reduction of the pramipexole dose should be considered when these drugs are administered concomitantly with SIFROL.
 While increasing the dose of SIFROL it is recommended that the dosage of levodopa is reduced and the dosage of other anti-parkinsonian medication is kept constant.
+
+Because of possible additive effects, caution should be advised when patients are taking other sedating medication or alcohol in combination with pramipexole.

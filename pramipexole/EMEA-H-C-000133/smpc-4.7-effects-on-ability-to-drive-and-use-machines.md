@@ -1,4 +1,8 @@
 # 4.7 Effects on ability to drive and use machines
 
 Hallucinations or somnolence can occur.
-Patients should be advised that until they know how SIFROL will affect them, they should not drive or operate potentially dangerous machinery.
+
+Rare cases of sudden onset of sleep have also been reported (see section 4.4 Special Warnings and Precautions for Use and section 4.8 Undesirable effects).
+These episodes can be life threatening depending on the circumstances and have been reported in some cases without awareness of warning signs.
+Patients being treated with pramipexole must be informed not to drive or engage in other activities where impaired alertness could put themselves or others at risk of serious injury or death (e.g. operating machines).
+(see section 4.5 Interaction with other medicinal products and other forms of interaction).

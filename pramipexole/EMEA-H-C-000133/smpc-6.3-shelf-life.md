@@ -1,3 +1,3 @@
-# 6.3 Shelf-life
+# 6.3 Shelf life
 
-24 months (expiry date printed on package)
+2 years (expiry date printed on package)

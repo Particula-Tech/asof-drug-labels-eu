@@ -1,3 +1,3 @@
-# 4.3 Contra-indications
+# 4.3 Contraindications
 
-Hypersensitivity to pramipexole or any other component of the product.
+Hypersensitivity to pramipexole or to any of the excipients.
