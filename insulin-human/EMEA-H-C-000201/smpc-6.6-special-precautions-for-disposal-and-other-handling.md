@@ -154,10 +154,10 @@ This scale must not be used to set the insulin dose.
 If the black plunger (G) is at the 40 mark at the beginning of the coloured bar (F), then the insulin volume remaining is approx. 40 IU.
 The end of the coloured bar indicates that the pen still contains approx. 20 IU insulin.
 If the plunger has already advanced beyond the end of the coloured bar, then less than 20 IU remain in the pen (Figure 6a).
+
 Figure 6a
 
 Button (A) enables you to make a further check: it can only be pulled out as far as the stop indicating the amount of insulin remaining in the reservoir.
-
 Example:
 If you have set the dose arrow (C) to 20 IU and button (A) can only be pulled out to the stop for 12 IU, then only 12 IU insulin can be injected with this pen (Figure 6b).
 
@@ -286,12 +286,12 @@ Insuman Comb 50 OptiSet must not be used if this cannot be achieved, i.e. if the
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
 Insuman Infusat must only be used if the solution is clear, colourless, with no solid particles visible, and if it is of a water-like consistency.
+
 For use in an infusion pump, Insuman Infusat is filled into the sterile cartridge of the pump.
 The cartridge must only be used once.
 
 Before use, the filled cartridge must be kept at room temperature for 1 to 2 hours.
 Air bubbles must be removed before starting the infusion (see the operator’s manual for the pump).
-
 If the infusion pump malfunctions, the solution may be drawn from the cartridge into a syringe (suitable for an insulin with 100 IU/ml) and injected.
 
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]

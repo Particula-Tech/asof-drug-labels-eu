@@ -40,7 +40,9 @@ Dose adjustment may also be required, for example, if
 
 - the patient's weight changes,
 - the patient's life-style changes,
-- other circumstances arise that may promote an increased susceptibility to hypo- or hyperglycaemia (see section 4.4).
+- other circumstances arise that may promote an increased susceptibility to hypo- or
+
+hyperglycaemia (see section 4.4).
 
 Use in specific patient groups
 
@@ -66,6 +68,8 @@ Insuman Rapid may be mixed with all Aventis Pharma human insulins, but NOT with 
 Insuman Rapid must also NOT be mixed with insulins of animal origin or with insulin analogues.
 
 [Insuman Rapid 40 U/ml solution for injection in a vial]
+
+- other circumstances arise that may promote an increased susceptibility to hypo- or hyperglycaemia (see section 4.4).
 
 Insuman Rapid contains 40 IU of insulin per ml solution.
 Only syringes designed for this strength of insulin (40 IU per ml) are to be used.
@@ -145,10 +149,6 @@ Insuman Comb 15 OptiSet must not be mixed with any other insulin or with insulin
 Insuman Comb 25 is injected subcutaneously 30 to 45 minutes before a meal.
 
 Transfer to Insuman Comb 25
-
-- other circumstances arise that may promote an increased susceptibility to hypo- or
-
-hyperglycaemia (see section 4.4).
 
 Insuman Comb 25 contains 100 IU of insulin per ml suspension.
 

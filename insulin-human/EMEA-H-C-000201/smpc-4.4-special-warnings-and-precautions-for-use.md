@@ -24,6 +24,7 @@ These include patients:
 - in whom glycaemic control is markedly improved,
 - in whom hypoglycaemia develops gradually,
 - who are elderly,
+- after transfer from animal insulin to human insulin,
 - in whom an autonomic neuropathy is present,
 - with a long history of diabetes,
 - suffering from a psychiatric illness,
@@ -32,7 +33,6 @@ These include patients:
 Such situations may result in severe hypoglycaemia (and possibly loss of consciousness) prior to the patient's awareness of hypoglycaemia.
 
 If normal or decreased values for glycated haemoglobin are noted, the possibility of recurrent, unrecognised (especially nocturnal) episodes of hypoglycaemia must be considered.
-
 Adherence of the patient to the dosage and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
 Factors increasing the susceptibility to hypoglycaemia require particularly close monitoring and may necessitate dose adjustment.
 These include:

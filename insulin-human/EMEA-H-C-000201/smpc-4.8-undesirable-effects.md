@@ -35,5 +35,4 @@ Other reactions
 
 Insulin administration may cause insulin antibodies to form.
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
-
 Insulin may cause sodium retention and oedema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
