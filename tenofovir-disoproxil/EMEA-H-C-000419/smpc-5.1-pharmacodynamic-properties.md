@@ -40,6 +40,7 @@ In study GS-99-907, 550 treatment-experienced patients were treated with placebo
 The mean baseline CD4 cell count was 427 cells/mm3, the mean baseline plasma HIV-1 RNA was 3.4 log10 copies/ml (78% of patients had a viral load of
 < 5,000 copies/ml) and the mean duration of prior HIV treatment was 5.4 years.
 Baseline genotypic analysis of HIV isolates from 253 patients revealed that 94% of patients had HIV-1 resistance mutations associated with nucleoside reverse transcriptase inhibitors, 58% had mutations associated with protease inhibitors and 48% had mutations associated with non-nucleoside reverse transcriptase inhibitors.
+
 At week 24 the time-weighted average change from baseline in log10 plasma HIV-1 RNA levels (DAVG24) was -0.03 log10 copies/ml and -0.61 log10 copies/ml for the placebo and tenofovir disoproxil 245 mg (as fumarate) recipients (p < 0.0001).
 Patients whose HIV expressed 3 or more thymidine-analogue associated mutations (TAMs) that included either the M41L or L210W reverse transcriptase mutation showed reduced susceptibility to tenofovir disoproxil 245 mg (as fumarate) therapy.
 The virological response was substantially decreased in patients with viral strains of > 10-fold zidovudine phenotypic resistance.

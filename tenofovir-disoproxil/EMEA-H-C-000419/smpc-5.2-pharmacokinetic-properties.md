@@ -8,9 +8,9 @@ Absorption
 Following oral administration of tenofovir disoproxil fumarate to HIV infected patients, tenofovir disoproxil fumarate is rapidly absorbed and converted to tenofovir.
 Maximum tenofovir concentrations are observed in serum within one hour of dosing in the fasted state and within two hours when taken with food.
 The oral bioavailability of tenofovir from tenofovir disoproxil fumarate in fasted patients was approximately 25%.
-Administration of tenofovir disoproxil fumarate with a high fat meal enhanced the oral bioavailability, with an increase in tenofovir AUC by approximately 40% and Cmax by approximately 14%.
-Following the first dose of tenofovir disoproxil fumarate in fed patients, the median Cmax in serum ranged from 213 to 375 ng/ml.
-However, administration of tenofovir disoproxil fumarate with a light meal did not have a significant effect on the pharmacokinetics of tenofovir.
+Administration of tenofovir disoproxil fumarate with a light meal did not have a significant effect on the pharmacokinetics of tenofovir; however, a high fat meal enhanced the oral bioavailability, with an increase in tenofovir AUC by approximately 40% and Cmax by approximately 14%.
+Following the first dose of tenofovir disoproxil fumarate, the median Cmax in serum ranged from 213 to 375 ng/ml.
+
 Distribution
 Following intravenous administration the steady-state volume of distribution of tenofovir was estimated to be approximately 800 ml/kg.
 After oral administration of tenofovir disoproxil fumarate, tenofovir is distributed to most tissues with the highest concentrations occurring in the kidney, liver and the intestinal contents (preclinical studies).
