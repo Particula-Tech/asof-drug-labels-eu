@@ -8,7 +8,7 @@ Intensified monitoring of pregnant women with diabetes is recommended throughout
 Insulin requirements usually fall in the first trimester and increase subsequently during the second and third trimesters.
 
 There are no restrictions on treatment with NovoRapid during lactation.
-Insulin treatment of the nursing mother presents no risk to the baby.
+Insulin treatment of the nurs-ing mother presents no risk to the baby.
 However, the NovoRapid dosage may need to be adjusted.
 
 [NovoRapid Penfill 100 U/ml, solution for injection in cartridge.]

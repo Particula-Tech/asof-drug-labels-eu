@@ -37,7 +37,7 @@ The maximum effect is exerted between 1 and 3 hours after injection.
 The duration of action is 3 to 5 hours.
 
 Clinical trials in patients with Type 1 diabetes have demonstrated a lower postprandial blood glucose with NovoRapid compared to soluble human insulin (Fig.
-I). In two long-term open label trials in patients with Type 1 diabetes comprising 1070 and 884 patients, respectively, NovoRapid reduced glycosylated haemo-globin by 0.12 [95% C.I.
+I). In two long-term open label trials in patients with Type 1 diabetes comprising 1070 and 884 patients, respectively, NovoRapid reduced gly-cosylated haemoglobin by 0.12 [95% C.I.
 0.03; 0.22] percentage points and by 0.15 [95% C.I.
 0.05; 0.26] percentage points compared to human insulin; a difference of doubtful clinical significance.
 

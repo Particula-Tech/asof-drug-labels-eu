@@ -14,7 +14,7 @@ Cartons of 5 or 10 cartridges
 
 [NovoRapid NovoLet 100 U/ml, solution for injection in pre-filled pen.]
 
-A glass (Type 1) cartridge which contains a piston (bromobutyl rubber) and is closed with a disc (bromobutyl/polyisoprene rubber) containing 3 ml of solution in a multidose disposable pre-filled pen with a pen injec-tor (plastic).
+A glass (Type 1) cartridge which contains a piston (bromobutyl rubber) and is closed with a disc (bromobutyl/polyisoprene rubber) containing 3 ml of solution in a multidose disposable pre-filled pen with a pen injector (plastic).
 
 Cartons of 5 or 10 pre-filled pens.
 
