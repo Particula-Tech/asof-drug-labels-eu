@@ -2,8 +2,6 @@
 
 There is no clinical experience with pioglitazone in triple combination with other oral antidiabetics.
 
-Pioglitazone should not be used in monotherapy.
-
 Fluid retention and cardiac failure:
 
 Pioglitazone can cause fluid retention, which may exacerbate or precipitate heart failure.
@@ -16,7 +14,7 @@ Since NSAIDs and pioglitazone are associated with fluid retention, concomitant a
 
 Monitoring of liver function:
 
-There have been rare reports of hepatocellular dysfunction during post-marketing experience.
+There have been rare reports of hepatocellular dysfunction during post-marketing experience (see section 4.8).
 It is recommended, therefore, that patients treated with pioglitazone undergo periodic monitoring of liver enzymes.
 Liver enzymes should be checked prior to the initiation of therapy with pioglitazone in all patients.
 Therapy with pioglitazone should not be initiated in patients with increased baseline liver enzyme levels (ALT > 2.5 X upper limit of normal) or with any other evidence of liver disease.
@@ -33,10 +31,10 @@ In clinical trials with pioglitazone there was evidence of weight gain, therefor
 Part of the treatment of diabetes is dietary control.
 Patients should be advised to adhere strictly to a calorie-controlled diet.
 
-Anaemia:
+Haematology:
 
-There was a small reduction in haemoglobin and in haematocrit during therapy with pioglitazone, consistent with haemodilution.
-Anaemia was reported as an adverse event in less than 0.1 % of patients treated with pioglitazone or placebo in all clinical trials.
+There was a small reduction in mean haemoglobin (4 % relative reduction) and haematocrit (4.1 % relative reduction) during therapy with pioglitazone, consistent with haemodilution.
+Similar changes were seen in metformin (haemoglobin 3 - 4 % and haematocrit 3.6 – 4.1 % relative reductions) and to a lesser extent sulphonylurea (haemoglobin 1 – 2 % and haematocrit 1 – 3.2 % relative reductions) treated patients in comparative controlled trials with pioglitazone.
 
 Others:
 

@@ -1,6 +1,8 @@
 # 4.1 Therapeutic indications
 
-Pioglitazone is indicated only in oral combination treatment of type 2 diabetes mellitus in patients with insufficient glycaemic control despite maximal tolerated dose of oral monotherapy with either metformin or a sulphonylurea:
+Pioglitazone is indicated as oral monotherapy in type 2 diabetes mellitus patients, particularly overweight patients, inadequately controlled by diet and exercise for whom metformin is inappropriate because of contraindications or intolerance.
 
-- in combination with metformin only in obese patients.
-- in combination with a sulphonylurea only in patients who show intolerance to metformin or for whom metformin is contraindicated.
+Pioglitazone is also indicated for oral combination treatment in type 2 diabetes mellitus patients with insufficient glycaemic control despite maximal tolerated dose of oral monotherapy with either metformin or sulphonylurea:
+
+- in combination with metformin particularly in overweight patients
+- in combination with a sulphonylurea only in patients who show intolerance to metformin or for whom metformin is contraindicated

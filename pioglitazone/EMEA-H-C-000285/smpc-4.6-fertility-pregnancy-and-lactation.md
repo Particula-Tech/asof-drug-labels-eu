@@ -2,7 +2,7 @@
 
 Use in pregnancy:
 
-No clinical data on exposed pregnancies are available.
+There are no adequate human data to determine the safety of pioglitazone during pregnancy.
 Foetal growth restriction was apparent in animal studies with pioglitazone.
 This was attributable to the action of pioglitazone in diminishing the maternal hyperinsulinaemia and increased insulin resistance that occurs during pregnancy thereby reducing the availability of metabolic substrates for foetal growth.
 The relevance of such a mechanism in humans is unclear and pioglitazone should not be used in pregnancy.
