@@ -20,13 +20,13 @@ Uncommon: weight gain.
 
 Psychiatric disorders:
 Uncommon: disorientation, euphoria.
-
 Nervous system disorders:
 Common: headache
 Uncommon: dizziness, dream abnormality.
 
 Eye disorders:
 Uncommon: conjunctivitis.
+
 Ear and labyrinth disorders:
 Uncommon: tinnitus.
 

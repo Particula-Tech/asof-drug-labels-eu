@@ -35,6 +35,8 @@ Chemotherapeutic agents: In clinical studies, EMEND was administered with the fo
 The doses of these agents were not adjusted to account for potential medicinal product interactions.
 Caution is advised and additional monitoring may be appropriate in patients receiving such agents (see section 4.4).
 
+Docetaxel: In a clinical study, EMEND, when given as a regimen of 125 mg on Day 1 and 80 mg/day on days 2 and 3, did not influence the pharmacokinetics of docetaxel administered intravenously on day 1.
+
 Midazolam: The potential effects of increased plasma concentrations of midazolam or other benzodiazepines metabolised via CYP3A4 (alprazolam, triazolam) should be considered when coadministering these agents with EMEND.
 
 EMEND increased the AUC of midazolam, a sensitive CYP3A4 substrate, 2.3-fold on Day 1 and 3.3-fold on Day 5, when a single oral dose of midazolam 2 mg was coadministered on Days 1 and 5 of a regimen of EMEND 125 mg on Day 1 and 80 mg/day on Days 2 to 5.
@@ -63,4 +65,13 @@ Concomitant administration of EMEND with medicinal products that strongly induce
 Concomitant administration of EMEND with St. John’s wort is not recommended.
 
 Ketoconazole: When a single 125-mg dose of EMEND was administered on Day 5 of a 10-day regimen of 400 mg/day of ketoconazole, a strong CYP3A4 inhibitor, the AUC of aprepitant increased approximately 5-fold and the mean terminal half-life of aprepitant increased approximately 3-fold.
+
 Rifampicin: When a single 375-mg dose of EMEND was administered on Day 9 of a 14-day regimen of 600 mg/day of rifampicin, a strong CYP3A4 inducer, the AUC of aprepitant decreased 91 % and the mean terminal half-life decreased 68 %.
+
+[EMEND 125 mg hard capsules]
+
+Docetaxel: In a clinical study, EMEND, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 and 3, did not influence the pharmacokinetics of docetaxel administered ontravenously on Day 1.
+
+[EMEND 125 mg hard capsule]
+
+(all sentences already above)
