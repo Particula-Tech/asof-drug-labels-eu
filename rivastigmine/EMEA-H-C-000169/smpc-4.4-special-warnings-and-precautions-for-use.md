@@ -5,6 +5,10 @@ Treatment should always be started at a dose of 1.5 mg twice daily and titrated 
 If treatment is interrupted for more than several days, it should be re-initiated at 1.5 mg twice daily to reduce the possibility of adverse reactions (e.g. vomiting) (see 4.2.
 Posology and method of administration).
 
+Dose titration: Adverse effects (e.g. hypertension, hallucinations) have been observed shortly after dose increase.
+They may respond to a dose reduction.
+In other cases, Exelon has been discontinued (see 4.8 Undesirable effects).
+
 Gastrointestinal disorders such as nausea and vomiting may occur particularly when initiating treatment and/or increasing the dose.
 These adverse events occur more commonly in women.
 Patients with Alzheimer’s Disease lose weight.

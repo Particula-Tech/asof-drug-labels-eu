@@ -1,8 +1,7 @@
 # 4.9 Overdose
 
 Symptoms: Most cases of accidental overdosage have not been associated with any clinical signs or symptoms and almost all of the patients concerned continued rivastigmine treatment.
-Where symptoms have occurred, they have included nausea, vomiting and diarrhoea.
-In the majority of these events, no therapeutic intervention was required.
+Where symptoms have occurred, they have included nausea, vomiting and diarrhoea, hypertension or hallucinations.
 Due to the known vagotonic effect of cholinesterase inhibitors on heart rate, bradycardia and/or syncope may also occur.
 Ingestion of 46 mg occurred in one case; following conservative management the patient fully recovered within 24 hours.
 
