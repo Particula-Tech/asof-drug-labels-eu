@@ -6,7 +6,7 @@ Upon multiple dosing, ritonavir accumulation is slightly less than predicted fro
 Trough concentrations of ritonavir were observed to decrease over time, possibly due to enzyme induction, but appeared to stabilize by the end of 2 weeks.
 At steady state with a 600 mg bid dose, maximal concentration (Cmax) and trough concentration (Ctrough) values of 11.2 ± 3.6 and 3.7 ± 2.6 µg/ml (mean ± SD) were observed, respectively.
 The half life (t1/2) of ritonavir was approximately 3 to 5 hours.
-The steady-state apparent clearance in patients treated with 600 mg bid has averaged 8.8± 3.2 L/h.
+The steady-state apparent clearance in patients treated with 600 mg bid has averaged 8.8 ± 3.2 L/h.
 Renal clearance averaged less than 0.1 L/h and was relatively constant throughout the dosage range.
 The time to maximum concentration (Tmax) remained constant at approximately 4 hours with increasing dose.
 
@@ -17,7 +17,7 @@ No clinically significant differences in AUC or Cmax were noted between males an
 Ritonavir pharmacokinetic parameters were not statistically significantly associated with body weight or lean body mass.
 
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20-40 L after a single 600 mg dose.
-The protein binding of ritonavir in human plasma was noted to be approximately 98 - 99%.
+The protein binding of ritonavir in human plasma was noted to be approximately 98-99%.
 Ritonavir binds to both human alpha 1-acid glycoprotein (AAG) and human serum albumin (HSA) with comparable affinities.
 Plasma protein binding is constant over the concentration range of 0.1-100 mg /ml.
 

@@ -1,3 +1,3 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each Norvir capsule contains 100 mg ritonavir.
+Norvir oral solution contains 80mg of ritonavir per ml.

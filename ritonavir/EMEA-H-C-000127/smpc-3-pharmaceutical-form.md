@@ -1,3 +1,3 @@
 # 3. PHARMACEUTICAL FORM
 
-Capsules.
+Oral solution.

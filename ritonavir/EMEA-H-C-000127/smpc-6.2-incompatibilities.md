@@ -1,3 +1,3 @@
 # 6.2 Incompatibilities
 
-None known.
+Norvir should not be diluted with water.

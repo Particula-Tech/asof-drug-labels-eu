@@ -18,6 +18,8 @@ It is advisable to monitor renal function in patients with renal function impari
 A pharmacokinetic study demonstrated that ritonavir extensively inhibits the metabolism of saquinavir resulting in greatly increased saquinavir plasma concentrations (see section 4.5 interactions).
 Due to a lack of sufficient safety data, ritonavir should not be given concomitantly with saquinavir or other protease inhibitors.
 
+Norvir oral solution contains 43 % ethanol, therefore concomitant administration of Norvir with disulfiram or drugs with disulfiram-like reactions (e.g. metronidazole) should be avoided.
+
 There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in haemophiliac patients type A and B treated with protease inhibitors.
 In some patients additional factor VIII was given.
 In more than a half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.

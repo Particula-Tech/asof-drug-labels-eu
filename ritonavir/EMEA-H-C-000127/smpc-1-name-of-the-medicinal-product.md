@@ -1,3 +1,3 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
-Norvir capsule 100 mg
+Norvir oral solution 80 mg/ml
