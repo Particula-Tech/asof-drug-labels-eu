@@ -4,7 +4,8 @@ Warfarin: see 4.4 Special warnings and special precautions for use.
 
 Glycoprotein IIb/IIIa inhibitors: see 4.4 Special warnings and special precautions for use.
 
-Acetylsalicylic acid (ASA): ASA did not modify the clopidogrel-mediated inhibition of ADP-induced platelet aggregation, but clopidogrel potentiated the effect of ASA on collagen-induced platelet aggregation.
+Acetylsalicylic acid (ASA): ASA did not modify the clopidogrel-mediated inhibition of
+ADP-induced platelet aggregation, but clopidogrel potentiated the effect of ASA on collagen-induced platelet aggregation.
 However, concomitant administration of 500 mg of ASA twice a day for one day did not significantly increase the prolongation of bleeding time induced by clopidogrel intake.
 A pharmacodynamic interaction between clopidogrel and acetylsalicylic acid is possible, leading to increased risk of bleeding.
 Therefore, concomitant use should be undertaken with caution (see 4.4 Special warnings and special precautions for use).

@@ -1,6 +1,6 @@
 # 4.4 Special warnings and special precautions for use
 
-Due to the risk of bleeding and haematological disorders undesirable effects blood cell count determination should be promptly considered whenever such suspected clinical symptoms arise during the course of treatment (see 4.8 Undesirable effects).
+Due to the risk of bleeding and haematological undesirable effects blood cell count determination should be promptly considered whenever such suspected clinical symptoms arise during the course of treatment (see 4.8 Undesirable effects).
 Blood cell count determination should be performed during the first week of treatment in case of co-administration of clopidogrel with ASA, non-steroidal anti-inflammatory drugs, heparin, glycoprotein IIb/IIIa inhibitors or thrombolytics and in patients who may be at risk of bleeding from trauma, surgery or other pathological conditions.
 The concomitant administration of clopidogrel with warfarin is not recommended since it may increase the intensity of bleedings (see 4.5 Interaction with other medicinal products and other forms of interaction).
 

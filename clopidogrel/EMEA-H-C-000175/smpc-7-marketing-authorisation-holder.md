@@ -1,5 +1,4 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Bristol-Myers Squibb Pharma EEIG
-Swakeleys House, Milton Road
-Ickenham UB10 8PU, United Kingdom
+Bristol-Myers Squibb Pharma EEIG, 141-149 Staines Road
+Hounslow TW3 3JA – United Kingdom
