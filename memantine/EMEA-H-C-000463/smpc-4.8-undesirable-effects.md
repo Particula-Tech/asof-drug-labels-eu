@@ -21,3 +21,5 @@ The following table gives an overview of the most frequent (> 4% for memantine) 
 Common adverse reactions (1 - 10% and more frequent than with placebo) for memantine and placebo patients respectively were: hallucinations (2.0 vs. 0.7%), confusion (1.3 vs. 0.3%), dizziness (1.7 vs. 1.0%), headache (1.7 vs. 1.4%) and tiredness (1.0 vs. 0.3%).
 
 Uncommon adverse reactions (0.1 - 1% and more frequent than with placebo) were anxiety, hypertonia (increased muscle tone), vomiting, cystitis and increased libido.
+
+Based on spontaneous reports, seizures have been reported, mostly in patients with a history of convulsions.

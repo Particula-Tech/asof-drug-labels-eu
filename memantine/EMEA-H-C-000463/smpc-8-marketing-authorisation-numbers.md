@@ -1,8 +1,9 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
 EU/1/02/219/001-3
-EU/1/02/219/007-9
+EU/1/02/219/007-012
 
 [Ebixa 10 mg/g oral drops, solution.]
 
 EU/1/02/219/004-6
+EU/1/02/219/013

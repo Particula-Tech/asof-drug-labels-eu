@@ -2,7 +2,7 @@
 
 As no data are available for patients with severe renal impairment (creatinine clearance less than 9 ml/min/1.73 m²) therapy is not recommended (see section 4.2).
 
-Based on pharmacological considerations and single case reports, caution is recommended with patients suffering from epilepsy.
+Caution is recommended in patients with epilepsy, former history of convulsions or patients with predisposing factors for epilepsy.
 
 Concomitant use of N-methyl-D-aspartate(NMDA)-antagonists such as amantadine, ketamine or dextromethorphan should be avoided.
 These compounds act at the same receptor system as memantine, and therefore adverse drug reactions (mainly CNS-related) may be more frequent or more pronounced (see also section 4.5).
