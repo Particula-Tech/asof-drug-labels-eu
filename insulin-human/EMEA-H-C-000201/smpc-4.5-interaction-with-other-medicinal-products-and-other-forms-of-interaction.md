@@ -4,6 +4,7 @@ Concomitant administration of certain medicinal products may lead to an increase
 These medicinal products include:
 
 other oral antidiabetic medicinal products (in type II diabetics); ACE inhibitors; acetylsalicylic acid and other salicylates such as para-aminosalicylic acid (especially at higher doses; at toxic dose levels, however, it increases blood glucose); amphetamines; anabolic steroids and male sex hormones; cibenzoline; cyclophosphamide; disopyramide; fenfluramine; fibrates; fluoxetine; guanethidine; ifosfamide; MAO inhibitors; pentoxifylline; perhexiline; phenoxybenzamine; phentolamine; propoxyphene; somatostatin and somatostatin analogues; sulfonamide antibiotics; tetracyclines; tritoqualine; trofosfamide.
+
 Other medicinal products may reduce the blood glucose lowering effect and increase the tendency to hyperglycaemia.
 Adjustment of the insulin dose may also become necessary in such cases.
 These medicinal products include:

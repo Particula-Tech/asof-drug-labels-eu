@@ -1,7 +1,6 @@
 # 4.4 Special warnings and special precautions for use
 
 Special warnings
-
 Hyperglycaemia
 
 An increase in blood glucose levels, hyperglycaemia, ketoacidosis as well as hyperosmolar states may occur, for example, if
@@ -12,8 +11,6 @@ An increase in blood glucose levels, hyperglycaemia, ketoacidosis as well as hyp
 - insulin sensitivity is reduced due to emotional or physical stress resulting from e.g. trauma, surgery, febrile infections or other illnesses.
 - medicinal products with a hyperglycaemic effect are administered concurrently.
 
-Also pen malfunction may be a cause of insulin doses being too low and resulting hyperglycaemia.
-
 Signs and symptoms of a hyperglycaemic metabolic imbalance include thirst, polyuria, glycosuria, ketonuria, tiredness, dry skin, facial reddening, anorexia, hypotension and tachycardia.
 Particularly in case of symptoms such as vomiting, abdominal pain, rapid deep respiration, somnolence and coma, concomitant ketoacidosis must be considered.
 A severe deterioration in metabolic control may become life-threatening.
@@ -23,6 +20,7 @@ As soon as possible signs and symptoms of deterioration in metabolic control are
 
 Where blood glucose is controlled solely by continuous infusion of regular insulin, the possibility of an interruption of insulin administration with metabolic decompensation must always be considered in cases of a marked rise in blood glucose.
 Therefore, in such cases the insulin supply routes must be checked and the urine analysed as soon as possible for the presence of ketones.
+
 Hypoglycaemia
 
 Hypoglycaemia may occur if the insulin dose is too high in relation to the insulin requirement.
@@ -82,12 +80,10 @@ Such factors may require particularly close monitoring and may necessitate dose 
 
 Hypoglycaemia can generally be corrected by immediate carbohydrate intake.
 So that initial corrective action can be taken immediately, patients must carry a minimum of 20 grams of glucose with them at all times.
+
 Special precautions for use
-
-Patients must be taught how to draw up the correct insulin dose.
+Patients must be taught how to draw up the correct dose and to mix insulins (if necessary).
 They must also be instructed in appropriate hygiene and correct injection techniques, and be aware of the importance of rotating the injection sites.
-
-In addition, patients must be able to operate the pen properly and be aware of potential malfunctions and of what steps to take if these occur.
 
 Insulin treatment requires constant alertness to the possibility of hyper- and hypoglycaemia.
 Patients and their relatives must know what steps to take if hyperglycaemia or hypoglycaemia occurs or is suspected, and they must know when to inform a physician.
@@ -110,8 +106,8 @@ Diabetic retinopathy
 In patients with diabetic retinopathy it is recommended that an abrupt normalisation in metabolic control is avoided.
 Otherwise, the retinopathy may deteriorate temporarily.
 See also under 4.3.
-Intercurrent illnesses
 
+Intercurrent illnesses
 Intercurrent illness requires intensified metabolic monitoring.
 In many cases, urine tests for ketones are indicated, and often it is necessary to adjust the insulin dose.
 The insulin requirement is often increased.
@@ -127,3 +123,15 @@ Before travelling, all questions relating to diabetes therapy must be clarified,
 - supply of materials for metabolic monitoring and injection.
 - insulin dose during the journey, change to different time zones.
 - possibility of new health risks.
+
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge]
+
+Also pen malfunction may be a cause of insulin doses being too low and resulting hyperglycaemia.
+
+Patients must be taught how to draw up the correct insulin dose.
+
+In addition, patients must be able to operate the pen properly and be aware of potential malfunctions and of what steps to take if these occur.
+
+[Insuman Rapid 40 IU/ml solution for injection in a vial]
+
+(all sentences already above)

@@ -19,27 +19,3 @@ Lactation
 
 There are no restrictions on the use of Insuman Rapid in breast-feeding women.
 Lactating women may require adjustments in insulin dose and diet.
-
-[Insuman Basal 100 IU/ml OptiSet suspension for injection]
-
-There is no experience with the use of Insuman Basal in pregnant women.
-
-There are no restrictions on the use of Insuman Basal in breast-feeding women.
-
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
-
-There is no experience with the use of Insuman Comb 15 in pregnant women.
-
-There are no restrictions on the use of Insuman Comb 15 in breast-feeding women.
-
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
-
-There is no experience with the use of Insuman Comb 25 in pregnant women.
-
-There are no restrictions on the use of Insuman Comb 25 in breast-feeding women.
-
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
-
-There is no experience with the use of Insuman Comb 50 in pregnant women.
-
-There are no restrictions on the use of Insuman Comb 50 in breast-feeding women.
