@@ -7,9 +7,7 @@ The most commonly reported adverse reactions are headache and dyspepsia, see tab
 | System Organ Class | Adverse reaction | CIALIS 10-20 mg (%) N=724 | Placebo (%) N=379 |
 | Nervous System | Headache | 14.5 | 5.5 |
 | Gastrointestinal | Dyspepsia | 12.3 | 1.8 |
-
 | Table 2 Common adverse reactions (>1/100, <1/10) |  |  |  |
-| --- | --- | --- | --- |
 | System Organ Class | Adverse reaction | CIALIS 10-20 mg (%) N=724 | Placebo (%) N=379 |
 | Nervous System | Dizziness | 2.3 | 1.8 |
 | Vascular | Flushing | 4.1 | 1.6 |

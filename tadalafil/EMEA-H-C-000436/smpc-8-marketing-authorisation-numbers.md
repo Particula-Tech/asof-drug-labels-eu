@@ -4,4 +4,4 @@ EU/1/02/237/001
 
 [CIALIS 20 mg film-coated tablets]
 
-EU/1/02/237/002-004
+EU/1/02/237/002-005

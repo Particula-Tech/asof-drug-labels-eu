@@ -17,7 +17,6 @@ Tadalafil is predominantly metabolised by the cytochrome P450 (CYP) 3A4 isoform.
 The major circulating metabolite is the methylcatechol glucuronide.
 This metabolite is at least 13,000-fold less potent than tadalafil for PDE5.
 Consequently, it is not expected to be clinically active at observed metabolite concentrations.
-
 Elimination
 The mean oral clearance for tadalafil is 2.5 l/h and the mean half-life is 17.5 hours in healthy subjects.
 Tadalafil is excreted predominantly as inactive metabolites, mainly in the faeces (approximately 61 % of the dose) and to a lesser extent in the urine (approximately 36 % of the dose).
