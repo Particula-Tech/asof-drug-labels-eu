@@ -36,7 +36,7 @@ Given the high prevalence and natural rate of cataract formation in the older pa
 However, an adverse effect of long-term bexarotene treatment on lens opacity formation in humans has not been excluded.
 Any patient treated with bexarotene who experiences visual difficulties should have an appropriate ophthalmologic examination.
 
-Vitamin A supplementation: because of the relationship of bexarotene to vitamin A, patients should be advised to limit vitamin A supplements to ≤15,000 IU/day to avoid potential additive toxic effects.
+Vitamin A supplementation: because of the relationship of bexarotene to vitamin A, patients should be advised to limit vitamin A supplements to �15,000 IU/day to avoid potential additive toxic effects.
 
 Patients with diabetes mellitus: caution should be exercised when administering bexarotene in patients using insulin, agents enhancing insulin secretion (e.g. sulfonylureas), or insulin-sensitisers (e.g. thiazolidinediones).
 Based on the known mechanism of action, bexarotene may potentially enhance the action of these agents, resulting in hypoglycaemia.

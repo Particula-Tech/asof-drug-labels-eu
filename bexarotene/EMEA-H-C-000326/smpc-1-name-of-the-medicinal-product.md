@@ -1,3 +1,3 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
-Targretin 75 mg soft capsules
+Targretin 75 mg capsules, soft

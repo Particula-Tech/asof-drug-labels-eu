@@ -2,7 +2,7 @@
 
 Absorption/dose proportionality: pharmacokinetics were linear up to a dose of 650 mg/m2.
 Terminal elimination half-life values were generally between one and three hours.
-Following repeat once daily dose administration at dose levels ≥ 230 mg/m2, Cmax and AUC in some patients were less than respective single dose values.
+Following repeat once daily dose administration at dose levels � 230 mg/m2, Cmax and AUC in some patients were less than respective single dose values.
 No evidence of prolonged accumulation was observed.
 At the recommended initial daily-dose level (300 mg/m2), single-dose and repeated daily-dose bexarotene pharmacokinetic parameters were similar.
 
