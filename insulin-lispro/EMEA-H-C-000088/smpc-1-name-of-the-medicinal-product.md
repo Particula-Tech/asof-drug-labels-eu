@@ -1,15 +1,23 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
-Humalog vials (40 U/ml, solution for injection).
+Humalog Mix25 100 U/ml suspension for injection in vial
 
-[Humalog vials (100 U/ml, solution for injection)]
+[Humalog Mix25 100 U/ml suspension for injection in cartridge]
 
-Humalog vials (100 U/ml, solution for injection)
+Humalog Mix25 100 U/ml suspension for injection in cartridge
 
-[Humalog cartridge (100 U/ml, solution for injection)]
+[Humalog Mix50 100 U/ml suspension for injection in vial]
 
-Humalog cartridge (100 U/ml, solution for injection)
+Humalog Mix50 100 U/ml suspension for injection in vial
 
-[Humalog cartridge (100 U/ml, solution for injection) (SmPC 4)]
+[Humalog Mix50 100 U/ml suspension for injection in cartridge]
 
-(all sentences already above)
+Humalog Mix50 100 U/ml suspension for injection in cartridge
+
+[Humalog NPL 100 U/ml suspension for injection in vial]
+
+Humalog NPL 100 U/ml suspension for injection in vial
+
+[Humalog NPL 100 U/ml suspension for injection in cartridge]
+
+Humalog NPL 100 U/ml suspension for injection in cartridge

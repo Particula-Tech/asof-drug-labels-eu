@@ -1,18 +1,30 @@
 # 6.4 Special precautions for storage
 
-Humalog preparations should be stored in a refrigerator between 2° and 8°C.
-They should not be frozen or exposed to excessive heat or sunlight.
-If refrigeration is not possible, the vial being used can be kept at ambient temperature (below 30°C) for up to 28 days, and away from direct heat and light.
+Store at 2°C - 8°C.
+(In a refrigerator).
+Do not freeze.
+Do not expose to excessive heat or direct sunlight.
+Once in use vials may be used for up to 28 days.
+Do not use beyond this period.
+Vials in use should be stored below 30°C.
 
-[Humalog vials (100 U/ml, solution for injection)]
+[Humalog Mix25 100 U/ml suspension for injection in cartridge]
+
+Once in use cartridges may be used for up to 28 days.
+Following insertion in a pen, the cartridge and pen should be stored below 30°C and should not be refrigerated.
+
+[Humalog Mix50 100 U/ml suspension for injection in vial]
 
 (all sentences already above)
 
-[Humalog cartridge (100 U/ml, solution for injection)]
+[Humalog Mix50 100 U/ml suspension for injection in cartridge]
 
-If refrigeration is not possible, the cartridge can be kept at ambient temperature (below 30°C) for up to 28 days, and away from direct heat and light.
-Following insertion in a pen, the cartridge and pen should not be refrigerated.
+(all sentences already above)
 
-[Humalog cartridge (100 U/ml, solution for injection) (SmPC 4)]
+[Humalog NPL 100 U/ml suspension for injection in vial]
 
-If refrigeration is not possible, the cartridge can be kept at ambient temperature (below 30oC) for up to 28 days, and away from direct heat and light.
+(all sentences already above)
+
+[Humalog NPL 100 U/ml suspension for injection in cartridge]
+
+Once in use cartridges may be used for up to 21 days.

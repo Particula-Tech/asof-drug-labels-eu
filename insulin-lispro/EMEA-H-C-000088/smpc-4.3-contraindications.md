@@ -1,5 +1,4 @@
-# 4.3 Contra-Indications
+# 4.3 Contraindications
 
 Hypoglycaemia.
-
-Hypersensitivity to insulin lispro or one of the excipients.
+Hypersensitivity to insulin lispro or to any of the excipients.
