@@ -2,6 +2,6 @@
 
 EU/1/98/067/001
 
-[MABTHERA 500 mg]
+[MabThera 500 mg]
 
 EU/1/98/067/002

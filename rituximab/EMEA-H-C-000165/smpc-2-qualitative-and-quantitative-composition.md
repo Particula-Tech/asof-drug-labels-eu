@@ -7,6 +7,6 @@ The antibody is produced by mammalian (Chinese hamster ovary) cell suspension cu
 
 For excipients, see 6.1.
 
-[MABTHERA 500 mg]
+[MabThera 500 mg]
 
 1 single-use vial contains 500 mg of rituximab in 50 ml (10 mg/ml).
