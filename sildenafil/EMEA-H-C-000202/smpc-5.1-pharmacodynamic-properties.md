@@ -2,12 +2,12 @@
 
 Pharmacotherapeutic group: Drugs used in erectile dysfunction.
 ATC Code: G04B E03.
+
 Sildenafil is an oral therapy for erectile dysfunction.
 In the natural setting, i.e. with sexual stimulation, it restores impaired erectile function by increasing blood flow to the penis.
 
 The physiological mechanism responsible for erection of the penis involves the release of nitric oxide (NO) in the corpus cavernosum during sexual stimulation.
 Nitric oxide then activates the enzyme guanylate cyclase, which results in increased levels of cyclic guanosine monophosphate (cGMP), producing smooth muscle relaxation in the corpus cavernosum and allowing inflow of blood.
-
 Sildenafil is a potent and selective inhibitor of cGMP specific phosphodiesterase type 5 (PDE5) in the corpus cavernosum, where PDE5 is responsible for degradation of cGMP.
 Sildenafil has a peripheral site of action on erections.
 Sildenafil has no direct relaxant effect on isolated human corpus cavernosum but potently enhances the relaxant effect of NO on this tissue.
@@ -42,7 +42,6 @@ Sildenafil has no effect on visual acuity or contrast sensitivity.
 In a small size placebo-controlled study of patients with documented early age-related macular degeneration (n=9), sildenafil (single dose, 100 mg) demonstrated no significant changes in visual tests conducted (visual acuity, Amsler grid, colour discrimination simulated traffic light, Humphrey perimeter and photostress).
 
 There was no effect on sperm motility or morphology after single 100 mg oral doses of sildenafil in healthy volunteers.
-
 Further information on clinical trials
 In clinical trials sildenafil was administered to more than 3000 patients aged 19-87.
 The following patient groups were represented: elderly (21%), patients with hypertension (24%), diabetes mellitus (16%), ischaemic heart disease and other cardiovascular diseases (14%), hyperlipidaemia (14%), spinal cord injury (6%), depression (5%), transurethral resection of the prostate (5%), radical prostatectomy (4%).

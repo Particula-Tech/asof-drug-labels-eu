@@ -10,8 +10,7 @@ The maximum recommended dosing frequency is once per day.
 If VIAGRA is taken with food, the onset of activity may be delayed compared to the fasted state (see section 5.2).
 
 Use in the elderly:
-Since sildenafil clearance is reduced in elderly patients (see section 5.2), a first dose of 25 mg should be used.
-Based on efficacy and toleration, the dose may be increased to 50 mg and 100 mg.
+Dosage adjustments are not required in elderly patients.
 
 Use in patients with impaired renal function:
 The dosing recommendations described in ‘Use in adults’ apply to patients with mild to moderate renal impairment (creatinine clearance = 30 - 80 ml/min).
@@ -30,8 +29,8 @@ With the exception of ritonavir for which co-administration with sildenafil is n
 
 [VIAGRA 50 mg film-coated tablets]
 
-Since sildenafil clearance is reduced in elderly patients (see section 5.2 ), a first dose of 25 mg should be used.
+(all sentences already above)
 
 [VIAGRA 100 mg film-coated tablets]
 
-(all sentences already above)
+Dosage adjustment are not required in elderly patients.
