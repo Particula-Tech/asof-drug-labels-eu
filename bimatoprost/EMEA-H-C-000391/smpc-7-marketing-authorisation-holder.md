@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Allergan Pharmaceuticals (Ireland) Ltd
+Allergan Pharmaceuticals Ireland
 Castlebar Road
 Westport
 Co. Mayo
