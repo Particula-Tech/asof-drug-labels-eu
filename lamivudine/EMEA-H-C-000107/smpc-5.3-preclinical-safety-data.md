@@ -1,4 +1,4 @@
-# 5.3 PRECLINICAL SAFETY DATA
+# 5.3 Preclinical safety data
 
 Administration of lamivudine in animal toxicity studies at high doses was not associated with any major organ toxicity.
 At the highest dosage levels, minor effects on indicators of liver and kidney function were seen together with occasional reductions in liver weight.

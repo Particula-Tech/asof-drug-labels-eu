@@ -1,3 +1,3 @@
-# 6.2 INCOMPATIBILITIES
+# 6.2 Incompatibilities
 
 None reported
