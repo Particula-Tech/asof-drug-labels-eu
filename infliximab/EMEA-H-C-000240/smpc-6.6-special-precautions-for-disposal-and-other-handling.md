@@ -18,7 +18,6 @@ Allow the reconstituted solution to stand for 5 minutes.
 Check that the solution is colourless to light yellow and opalescent.
 The solution may develop a few fine translucent particles, as infliximab is a protein.
 Do not use if opaque particles, discoloration, or other foreign particles are present.
-
 3.
 Dilute the total volume of the reconstituted Remicade solution dose to 250 ml with sodium chloride solution for infusion 9 mg/ml (0,9%).
 This can be accomplished by withdrawing a volume of the sodium chloride solution for infusion 9 mg/ml (0,9%) from the 250-ml glass bottle or infusion bag equal to the volume of reconstituted Remicade.

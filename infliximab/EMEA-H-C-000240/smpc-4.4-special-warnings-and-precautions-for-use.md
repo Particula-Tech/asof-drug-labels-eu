@@ -41,9 +41,9 @@ It is recommended that the conduct of these tests should be recorded in the pati
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 
 If active tuberculosis is diagnosed, Remicade therapy must not be initiated (see section 4.3).
-
 If inactive (‘latent’) tuberculosis is diagnosed, prophylactic anti-tuberculosis therapy must be started before the initiation of Remicade, and in accordance with local recommendations.
 In this situation, the benefit/ risk balance of Remicade therapy should be very carefully considered.
+
 All patients should be informed to seek medical advice if signs / symptoms suggestive of tuberculosis (e.g. persistent cough, wasting / weight loss, low-grade fever) appear during or after Remicade treatment.
 
 Concurrent administration of TNF-alpha inhibitor and anakinra
