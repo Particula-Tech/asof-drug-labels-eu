@@ -16,7 +16,6 @@ The effect of concomitant immunomodulator therapy was more profound in episodica
 Patients who discontinue immunosuppressants prior to or during Remicade treatment are at greater risk of developing these antibodies.
 Antibodies to infliximab can not always be detected in serum samples.
 If serious reactions occur, symptomatic treatment must be given and further Remicade infusions must not be administered (see section 4.8: "Immunogenicity").
-
 A delayed hypersensitivity reaction has been observed in a significant number of patients with Crohn’s disease (25%) who were retreated with infliximab following a 2 to 4 year period without infliximab treatment.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash within 12 days following retreatment.
 Some patients also experienced pruritus, facial, hand or lip oedema, dysphagia, urticaria, sore throat and/or headache.
@@ -55,7 +54,6 @@ Concurrent administration of etanercept (another agent that inhibits TNFα) and 
 (a recombinant, non-glycosylated form of the human interleukin-1 receptor antagonist) has been associated with an increased risk of serious infections, an increased risk of neutropenia and no additional benefit compared to these medicinal products alone.
 The safety and efficacy of anakinra used in combination with infliximab has not been established.
 Therefore, combination of infliximab and anakinra is not recommended.
-
 Vaccinations
 No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
 It is recommended that live vaccines not be given concurrently.
@@ -63,6 +61,7 @@ It is recommended that live vaccines not be given concurrently.
 Autoimmune processes
 The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Remicade and is positive for antibodies against double-stranded DNA, further treatment with Remicade must not be given (see section 4.8: “Anti-nuclear antibodies (ANA)/Double-stranded DNA (dsDNA) antibodies”).
+
 Neurological events
 Infliximab and other agents that inhibit TNFα have been associated in rare cases with optic neuritis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disorders, including multiple sclerosis.
 In patients with pre-existing or recent onset of central nervous system demyelinating disorders, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.

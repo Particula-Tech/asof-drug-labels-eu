@@ -2,7 +2,8 @@
 
 In clinical studies with infliximab, adverse drug reactions (ADRs) were observed in approximately 60% of infliximab-treated patients and 40% of placebo-treated patients.
 The adverse reactions listed in Table 1 are based on experience from clinical trials.
-Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (> 1/100, < 1/10); uncommon (> 1/1000, < 1/100); rare (>1/10,000, <1/1,000).
+Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (> 1/100,
+< 1/10); uncommon (> 1/1000, < 1/100); rare (>1/10,000, <1/1,000).
 Infusion-related reactions were the most common ADRs reported.
 Infusion-related reactions (dyspnoea, urticaria and headache) were the most common cause for discontinuation.
 
@@ -35,7 +36,7 @@ Respiratory, thoracic and mediastinal disorders
 Common: Upper respiratory tract infection, lower respiratory tract infection (e.g. bronchitis, pneumonia), dyspnoea, sinusitis
 Uncommon: Epistaxis, bronchospasm, pleurisy, pulmonary oedema
 Rare: Pleural effusion
-Gastro-intestinal disorders
+Gastrointestinal disorders
 Common: Nausea, diarrhoea, abdominal pain, dyspepsia
 Uncommon: Constipation, gastroesophageal reflux, cheilitis, diverticulitis Rare: Intestinal perforation, intestinal stenosis, gastrointestinal haemorrhage
 Hepatobiliary disorders
@@ -55,10 +56,9 @@ Rare: Granulomatous lesion
 Investigations
 Common: Elevated hepatic transaminases
 Uncommon: Autoantibodies, complement factor abnormality
-
 Table 2
 Undesirable effects in Post-marketing reports
-(common > 1/10 0, < 1/10; uncommon > 1/1000, < 1/100; rare > 1/10,000, < 1/1000;
+(common > 1/100, < 1/10; uncommon > 1/1000, < 1/100; rare > 1/10,000, < 1/1000;
 very rare < 1/10,000, including isolated reports).
 
 Infections and infestations
@@ -91,6 +91,7 @@ In clinical studies, approximately 20% of infliximab-treated patients compared w
 Approximately 3% of patients discontinued treatment due to infusions reactions and all patients recovered with or without medical therapy
 
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with Remicade administration.
+
 Delayed hypersensitivity: In a clinical study of 41 patients retreated with infliximab following a 2 to 4 year period without infliximab treatment, 10 patients experienced undesirable effects manifesting 3 to 12 days following infusion.
 In 6 of these patients the effects were considered serious.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash.
@@ -108,6 +109,7 @@ Of Crohn's disease patients who received maintenance treatment, approximately 6-
 The antibody incidence was 2-3 fold higher for patients treated episodically.
 Due to methodological limitations, a negative assay did not exclude the presence of antibodies to infliximab.
 Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy (see section 4.4: "Infusion reactions and hypersensitivity").
+
 Infections: In clinical studies 35% of infliximab-treated patients were treated for infections compared with 22% of placebo-treated patients.
 Serious infections, such as pneumonia, were reported in 5% of both infliximab-treated patients and placebo-treated patients (see section 4.4).
 
@@ -124,8 +126,7 @@ It is not known if exposure to infliximab can increase the incidence of these di
 The long-term immunosuppressive effects of concomitant use of methotrexate and infliximab are unknown.
 
 Heart failure: In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
-In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction
-≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
+In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
 At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
 
 Antinuclear antibodies (ANA)/Anti-double-stranded DNA (dsDNA) antibodies: Approximately half of infliximab-treated patients in clinical studies who were ANA negative at baseline developed a positive ANA during the study compared with approximately one-fifth of placebo-treated patients.

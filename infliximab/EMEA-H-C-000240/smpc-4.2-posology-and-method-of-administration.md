@@ -39,6 +39,9 @@ In Crohn’s disease, experience with readministration if signs and symptoms of 
 Ankylosing spondylitis
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 6 to 8 weeks.
 If a patient does not respond by 6 weeks (i.e. after 2 doses), no additional treatment with infliximab should be given.
+Psoriatic arthritis
+5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
+Efficacy and safety have been demonstrated in combination with methotrexate.
 
 Readministration for Crohn’s disease and rheumatoid arthritis
 If the signs and symptoms of disease recur, Remicade can be readministered within 16 weeks following the last infusion.
@@ -46,7 +49,11 @@ Readministration of Remicade with a drug free interval of 2 to 4 years following
 After a drug free interval of > 16 weeks to 2 years, the risk of delayed hypersensitivity following readministration is not known.
 Therefore, readministration after a drug free interval of more than 16 weeks can not be recommended.
 This applies to both Crohn’s disease patients and rheumatoid arthritis patients.
+
 Readministration for ankylosing spondylitis
 The safety and efficacy of readministration, other than every 6 to 8 weeks, has not been established.
+
+Readministration for psoriatic arthritis
+The safety and efficacy of readministration, other than every 8 weeks, has not been established.
 
 For preparation and administration instructions, see section 6.6.

@@ -6,6 +6,7 @@ Pharmacodynamic properties: Infliximab is a chimeric human-murine monoclonal ant
 Infliximab inhibits the functional activity of TNFα in a wide variety of in vitro bioassays.
 Infliximab prevented disease in transgenic mice that develop polyarthritis as a result of constitutive expression of human TNFα and when administered after disease onset, it allowed eroded joints to heal.
 In vivo, infliximab rapidly forms stable complexes with human TNFα, a process that parallels the loss of TNFα bioactivity.
+
 Elevated concentrations of TNFα have been found in the joints of rheumatoid arthritis patients and correlate with elevated disease activity.
 In rheumatoid arthritis, treatment with infliximab reduced infiltration of inflammatory cells into inflamed areas of the joint as well as expression of molecules mediating cellular adhesion, chemoattraction and tissue degradation.
 After infliximab treatment, patients exhibited decreased levels of serum interleukin 6 (IL-6) and C-reactive protein (CRP) compared with baseline.
@@ -21,7 +22,6 @@ Additional histological studies provided evidence that treatment with infliximab
 Clinical Efficacy
 
 Rheumatoid arthritis
-
 The efficacy of infliximab was assessed in two multicentre, randomised, double-blind, pivotal trials: ATTRACT and ASPIRE.
 In both studies concurrent use of stable doses of folic acid, oral corticosteroids (≤ 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted.
 
@@ -40,6 +40,7 @@ Results from week 54 (ACR20, total van der Heijde-modified Sharp score and HAQ) 
 Higher degrees of clinical response (ACR50 and ACR70) were observed in all infliximab groups at 30 and 54 weeks compared with methotrexate alone.
 
 A reduction in the rate of the progression of structural joint damage (erosions and joint space narrowing) was observed in all infliximab groups at 54 weeks (Table 3).
+
 The effects observed at 54 weeks were maintained through 102 weeks.
 Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group can not be defined.
 
@@ -73,7 +74,6 @@ a: control = All patients had active RA despite treatment with stable methotrexa
 Concurrent use of stable doses of oral corticosteroids (≤ 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted, and folate supplementation was given.
 b: all infliximab doses given in combination with methotrexate and folate with some on corticosteroids and/or non-steroidal anti-inflammatory drugs c: p < 0.001, for each infliximab treatment group vs. control d: greater values indicate more joint damage.
 e: HAQ = Health Assessment Questionnaire; greater values indicate less disability.
-
 The ASPIRE trial evaluated responses at 54 weeks in 1004 methotrexate naive patients with early (≤3 years disease duration, median 0.6 years) active rheumatoid arthritis (median swollen and tender joint count of 19 and 31, respectively).
 All patients received methotrexate (optimised to 20 mg/wk by week 8) and either placebo, 3 mg/kg or 6 mg/kg infliximab at weeks 0, 2, and 6 and every 8 weeks thereafter.
 Results from week 54 are shown in Table 4.
@@ -85,24 +85,13 @@ Reduction in the rate of progression of structural damage was observed at weeks 
 
 Table 4
 Effects on ACRn, Structural Joint Damage and Physical Function at week 54, ASPIRE
-Infliximab + MTX
-Placebo + MTX 3 mg/kg 6 mg/kg Combined
 
-Subjects randomised 282 359 363 722
-
-Percentage ACR improvement
-
-Mean ± SDa 24.8 ± 59.7 37.3 ± 52.8 42.0 ± 47.3 39.6 ± 50.1
-
-Change from baseline in total van der
-Heijde modified Sharp scoreb
-
-Mean ± SDa 3.70 ± 9.61 0.42 ± 5.82 0.51 ± 5.55 0.46 ± 5.68
-Median 0.43 0.00 0.00 0.00
-
-Improvement from baseline in HAQ averaged over time from week 30 to week 54c
-
-Mean ± SDd 0.68 ± 0.63 0.80 ± 0.65 0.88 ± 0.65 0.84 ± 0.65
+|  | Infliximab + MTX Placebo + MTX 3 mg/kg 6 mg/kg | Combined |
+| --- | --- | --- |
+| Subjects randomised Percentage ACR improvement Mean ± SDa Change from baseline in total van der Heijde modified Sharp scoreb Mean ± SDa Median Improvement from baseline in HAQ averaged over time from week 30 to week 54c Mean ± SDd | 282 359 363 | 722 |
+|  | 24.8 ± 59.7 37.3 ± 52.8 42.0 ± 47.3 | 39.6 ± 50.1 |
+|  | 3.70 ± 9.61 0.42 ± 5.82 0.51 ± 5.55 0.43 0.00 0.00 | 0.46 ± 5.68 0.00 |
+|  | 0.68 ± 0.63 0.80 ± 0.65 0.88 ± 0.65 | 0.84 ± 0.65 |
 
 a: p < 0.001, for each infliximab treatment group vs. control b: greater values indicate more joint damage.
 c: HAQ = Health Assessment Questionnaire; greater values indicate less disability.
@@ -117,12 +106,10 @@ Concurrent use of stable doses of conventional therapies was permitted, and 92% 
 The primary endpoint was the proportion of patients who experienced a clinical response, defined as a decrease in CDAI by ≥ 70 points from baseline at the 4-week evaluation and without an increase in Crohn’s disease medications or surgery for Crohn’s disease.
 Patients who responded at week 4 were followed to week 12.
 Secondary endpoints included the proportion of patients in clinical remission at week 4 (CDAI < 150) and clinical response over time.
-At week 4, following a single dose of study medication, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (16%) of the placebo-treated patients
-(p < 0.001).
+At week 4, following a single dose of study medication, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (16%) of the placebo-treated patients (p < 0.001).
 Also at week 4, 13/27 (48%) of infliximab-treated patients achieved a clinical remission (CDAI < 150) vs. 1/25 (4%) of placebo-treated patients.
 A response was observed within 2 weeks, with a maximum response at 4 weeks.
 At the last observation at 12 weeks, 13/27 (48%) of infliximab-treated patients were still responding.
-
 Maintenance treatment in severe active Crohn’s disease
 The efficacy of repeated infusions with infliximab was studied in a 1-year clinical study.
 A total of 573 patients with active Crohn’s disease (CDAI ≥ 220 ≤ 400) received a single infusion of 5 mg/kg at week 0.
@@ -169,3 +156,14 @@ Treatment with infliximab resulted in improvement in signs and symptoms, as asse
 Improvement was observed at week 2 and was maintained through week 54.
 Physical function and quality of life (SF36) were improved similarly.
 In the trial, efficacy was not shown in HLA-B27 negative patients (n=7).
+
+Psoriatic Arthritis
+Efficacy and safety were studied in a double-blind, placebo-controlled, multicenter study evaluating infliximab in 104 patients with active polyarticular psoriatic arthritis.
+In total 74 subjects were on at least one concomitant DMARD, and among those 58 patients were treated with methotrexate.
+During the 16-week double-blind phase, patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6, and 14 (52 patients in each group).
+Starting at week 16, placebo patients were switched to infliximab and all patients subsequently received 5 mg/kg infliximab every 8 weeks up to week 46.
+
+Treatment with infliximab resulted in improvement in signs and symptoms, as assessed by the ACR criteria, with 65% of infliximab-treated patients achieving ACR 20 at week 16, compared with 10% of placebo-treated patients (p<0.01).
+Improvement (ACR 20 and 50) was observed as early as week 2 and was maintained through week 50 (ACR 20, 50, and 70).
+Decreases in parameters of peripheral activity characteristic of psoriatic arthritis (such as number of swollen joints, number of painful/tender joints, dactylitis and presence of enthesopathy) were seen in the infliximab-treated patients.
+Infliximab-treated patients also demonstrated improvement in physical function as assessed by HAQ (mean change from baseline to week 16 of 0.6 vs. 0 for placebo-treated patients).
