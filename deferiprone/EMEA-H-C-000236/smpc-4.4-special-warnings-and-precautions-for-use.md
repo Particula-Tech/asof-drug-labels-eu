@@ -14,6 +14,7 @@ It is recommended that such a management protocol be in place prior to initiatin
 
 Treatment with deferiprone should not be initiated if the patient is neutropenic.
 The risk of agranulocytosis and neutropenia is higher, if the baseline ANC count is less than 1.5x109/l.
+
 In the event of neutropenia:
 Instruct the patient to immediately discontinue deferiprone and all other medications with a potential to cause neutropenia.
 The patient should be advised to limit contact with other individuals in order to reduce the risk of infection.
@@ -28,7 +29,6 @@ Provide protective isolation and if clinically indicated, admit patient to the h
 Limited information is available regarding rechallenge.
 Therefore, in the event of neutropenia, rechallenge is not recommended.
 In the event of agranulocytosis, a rechallenge is contraindicated.
-
 Carcinogenicity/mutagenicity/effects on fertility
 In view of the genotoxicity results, a carcinogenic potential of deferiprone cannot be excluded (see section 5.3).
 No animal studies to evaluate the potential effects of deferiprone on fertility have been reported.
