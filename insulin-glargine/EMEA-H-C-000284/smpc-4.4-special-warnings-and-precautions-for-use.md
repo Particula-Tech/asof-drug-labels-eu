@@ -4,6 +4,7 @@ Lantus is not the insulin of choice for the treatment of diabetic ketoacidosis.
 Instead, regular insulin administered intravenously is recommended in such cases.
 
 Due to limited experience the efficacy and safety of Lantus could not be assessed in children, in patients with impaired liver function or in patients with moderate/severe renal impairment (see 4.2).
+
 In patients with renal impairment, insulin requirements may be diminished due to reduced insulin metabolism.
 In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
 
@@ -15,7 +16,6 @@ Hypoglycaemia
 
 The time of occurrence of hypoglycaemia depends on the action profile of the insulins used and may, therefore, change when the treatment regimen is changed.
 Due to more sustained basal insulin supply with Lantus, less nocturnal but more early morning hypoglycaemia can be expected.
-
 Particular caution should be exercised, and intensified blood glucose monitoring is advisable in patients in whom hypoglycaemic episodes might be of particular clinical relevance, such as in patients with significant stenoses of the coronary arteries or of the blood vessels supplying the brain (risk of cardiac or cerebral complications of hypoglycaemia) as well as in patients with proliferative retinopathy, particularly if not treated with photocoagulation (risk of transient amaurosis following hypoglycaemia).
 
 Patients should be aware of circumstances where warning symptoms of hypoglycaemia are diminished.
@@ -42,16 +42,12 @@ These include:
 - improved insulin sensitivity (by, e.g., removal of stress factors),
 - unaccustomed, increased or prolonged physical activity,
 - intercurrent illness (e.g. vomiting, diarrhoea),
-
 - inadequate food intake,
-
 - missed meals,
-
 - alcohol consumption,
-
 - certain uncompensated endocrine disorders, (e.g. in hypothyroidism and in anterior pituitary or adrenocortical insufficiency),
-
 - concomitant treatment with certain other medicinal products.
+
 Intercurrent illness
 
 Intercurrent illness requires intensified metabolic monitoring.

@@ -2,6 +2,7 @@
 
 Lantus is an insulin analogue.
 It has a prolonged duration of action and should be administered once daily in the evening.
+Lantus OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 
 The dosage of insulin glargine should be individually adjusted.
 In patients with type 2 diabetes mellitus, Lantus can also be given together with orally active antidiabetic medicinal products.
@@ -16,11 +17,10 @@ During the first weeks the reduction should, at least partially, be compensated 
 As with other insulin analogues, patients with high insulin doses because of antibodies to human insulin may experience an improved insulin response with Lantus.
 
 Close metabolic monitoring is recommended during the transition and in the initial weeks thereafter.
-
 With improved metabolic control and resulting increase in insulin sensitivity a further adjustment in dosage regimen may become necessary.
 Dose adjustment may also be required, for example, if the patient's weight or life-style changes or other circumstances arise that increase susceptibility to hypo-or hyperglycaemia (see section 4.4).
-1.
-ADMINISTRATION
+
+Administration
 
 Lantus is administered subcutaneously.
 
@@ -37,7 +37,3 @@ Mixing or diluting can change its time/action profile and mixing can cause preci
 For further details on handling, see section 6.6.
 
 Due to limited experience the efficacy and safety of Lantus could not be assessed in the following groups of patients: children, patients with impaired liver function or patients with moderate/severe renal impairment (see 4.4).
-
-[Lantus 100 IU/ml solution for injection in a cartridge.]
-
-1.1.1.1.

@@ -10,8 +10,8 @@ In many patients, the signs and symptoms of neuroglycopenia are preceded by sign
 Generally, the greater and more rapid the decline in blood glucose, the more marked is the phenomenon of counter-regulation and its symptoms.
 
 Eyes
-A marked change in glycaemic control may cause temporary visual impairment, due to temporary alteration in the turgidity and refractive index of the lens.
 
+A marked change in glycaemic control may cause temporary visual impairment, due to temporary alteration in the turgidity and refractive index of the lens.
 Long-term improved glycaemic control decreases the risk of progression of diabetic retinopathy.
 However, intensification of insulin therapy with abrupt improvement in glycaemic control may be associated with temporary worsening of diabetic retinopathy.
 In patients with proliferative retinopathy, particularly if not treated with photocoagulation, severe hypoglycaemic episodes may result in transient amaurosis.
@@ -36,4 +36,5 @@ Other reactions
 Insulin administration may cause insulin antibodies to form.
 In clinical studies, antibodies that cross-react with human insulin and insulin glargine were observed with the same frequency in both NPH and insulin glargine treatment groups.
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
+
 Rarely, insulin may cause sodium retention and oedema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
