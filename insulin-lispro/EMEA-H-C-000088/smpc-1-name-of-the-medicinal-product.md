@@ -1,8 +1,15 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
-Humalog cartridge (100 U/ml, 1.5 ml)
-Insulin lispro
+Humalog vials (40 U/ml, solution for injection).
 
-[Humalog cartridge (100 U/ml, 3.0 ml)]
+[Humalog vials (100 U/ml, solution for injection)]
 
-Humalog cartridge (100 U/ml, 3.0 ml)
+Humalog vials (100 U/ml, solution for injection)
+
+[Humalog cartridge (100 U/ml, solution for injection)]
+
+Humalog cartridge (100 U/ml, solution for injection)
+
+[Humalog cartridge (100 U/ml, solution for injection) (SmPC 4)]
+
+(all sentences already above)

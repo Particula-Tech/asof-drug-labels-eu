@@ -1,7 +1,15 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-30 April 1996
+30th April 1996
 
-[Humalog cartridge (100 U/ml, 3.0 ml)]
+[Humalog vials (100 U/ml, solution for injection)]
 
-26 March 1997
+(all sentences already above)
+
+[Humalog cartridge (100 U/ml, solution for injection)]
+
+(all sentences already above)
+
+[Humalog cartridge (100 U/ml, solution for injection) (SmPC 4)]
+
+26th March 1997

@@ -1,7 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmaco-therapeutic group : fast acting human insulin analogue.
-ATC Code A10AB04
+Pharmaco-Therapeutic group : fast acting human insulin analogue.
+ATC code: A10AB04
 
 The primary activity of insulin lispro is the regulation of glucose metabolism.
 
@@ -13,10 +13,9 @@ Insulin lispro takes effect rapidly and has a shorter duration of activity (2 to
 As with all insulin preparations, the time course of insulin lispro action may vary in different individuals or at different times in the same individual and is dependent on site of injection, blood supply, temperature and physical activity.
 The typical activity profile following subcutaneous injection is illustrated below.
 
-Insulin Lispro
-
+Insulin
+Lispro
 Humulin R
-
 Hypoglycaemic
 Activity
 
@@ -26,7 +25,14 @@ Time (Hours)
 
 The above representation reflects the relative amount of glucose over time required to maintain subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins on glucose metabolism over time.
 
-[Humalog cartridge (100 U/ml, 3.0 ml)]
+[Humalog vials (100 U/ml, solution for injection)]
 
-Pharmaco-therapeutic group :fast acting human insulin analogue.
-ATC code A10A B04
+ATC code: A10A B04
+
+[Humalog cartridge (100 U/ml, solution for injection)]
+
+(all sentences already above)
+
+[Humalog cartridge (100 U/ml, solution for injection) (SmPC 4)]
+
+Pharmaco-Therapeutic group :fast acting human insulin analogue.

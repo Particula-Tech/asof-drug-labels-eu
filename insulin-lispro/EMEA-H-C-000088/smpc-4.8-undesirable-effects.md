@@ -7,7 +7,19 @@ Local allergy in patients occasionally occurs as redness, swelling, and itching 
 This condition usually resolves in a few days to a few weeks.
 In some instances, this condition may be related to factors other than insulin, such as irritants in the skin cleansing agent or poor injection technique.
 Systemic allergy, less common but potentially more serious, is a generalized allergy to insulin.
-It may cause rash over the whole body, shortness of breath, wheezing, reduction in blood pressure, fast pulse, or sweating.
+It may cause a rash over the whole body, shortness of breath, wheezing, reduction in blood pressure, fast pulse, or sweating.
 Severe cases of generalized allergy may be life-threatening.
 
 Lipodystrophy may occur at the injection site.
+
+[Humalog vials (100 U/ml, solution for injection)]
+
+(all sentences already above)
+
+[Humalog cartridge (100 U/ml, solution for injection)]
+
+It may cause rash a over the whole body, shortness of breath, wheezing, reduction in blood pressure, fast pulse, or sweating.
+
+[Humalog cartridge (100 U/ml, solution for injection) (SmPC 4)]
+
+(all sentences already above)

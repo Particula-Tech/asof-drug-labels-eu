@@ -1,4 +1,4 @@
 # 6.3 Shelf-life
 
-Two years when stored under appropriate conditions.
-The in-use shelf-life is 28 days.
+Two years.
+28 days after first use of container.

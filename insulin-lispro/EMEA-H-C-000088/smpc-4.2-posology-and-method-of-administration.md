@@ -5,7 +5,7 @@ The dosage should be determined by the physician, according to the requirement o
 Humalog may be given shortly before meals.
 When necessary Humalog can be given soon after meals.
 Humalog can be given in conjunction with a longer acting human insulin.
-Humalog preparations should be given by subcutaneous injection but may, although not recommended, also be given by intramuscular injection.
+Humalog preparations should be given by subcutaneous injection or by continuous subcutaneous infusion pump (see section 6.6d) and may, although not recommended, also be given by intramuscular injection.
 
 Subcutaneous administration should be in the upper arms, thighs, buttocks, or abdomen.
 Use of injection sites should be rotated so that the same site is not used more than approximately once a month.
@@ -14,7 +14,7 @@ Care should be taken when injecting Humalog to ensure that a blood vessel has no
 After injection, the site of injection should not be massaged.
 
 Humalog takes effect rapidly and has a shorter duration of activity (2 to 5 hours) as compared with regular insulin.
-This rapid onset of activity allows Humalog to be given very close to mealtime.
+This rapid onset of activity allows a Humalog injection (or, in the case of administration by continuous infusion, a Humalog bolus) to be given very close to mealtime.
 The time course of action of any insulin may vary considerably in different individuals or at different times in the same individual.
 As with all insulin preparations, the duration of action of Humalog is dependent on dose, site of injection, blood supply, temperature, and physical activity.
 
