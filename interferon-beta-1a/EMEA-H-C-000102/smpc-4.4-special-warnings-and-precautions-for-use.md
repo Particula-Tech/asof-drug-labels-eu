@@ -17,15 +17,26 @@ Caution should be used and close monitoring considered when administering AVONEX
 Patients with cardiac disease, such as angina, congestive heart failure or arrhythmia, should be closely monitored for worsening of their clinical condition during treatment with AVONEX.
 Symptoms of the flu-like syndrome associated with AVONEX therapy may prove stressful to patients with underlying cardiac conditions.
 
-Patients should be advised about the abortifacient potential of interferon beta (see 4.6 Pregnancy and lactation and 5.3 Preclinical safety data).
+Patients should be advised about the abortifacient potential of interferon beta (see 4.6 Use during pregnancy and lactation and 5.3 Preclinical safety data).
 
 Laboratory abnormalities are associated with the use of interferons.
-Therefore, in addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, complete and differential white blood cell counts, platelet counts, and blood chemistries, including liver function tests, are recommended during AVONEX therapy.
+Therefore, in addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, complete and differential white blood cell counts, platelet counts, and blood chemistry, including liver function tests, are recommended during AVONEX therapy.
 Patients with myelosuppression may require more intensive monitoring of complete blood cell counts, with differential and platelet counts.
 Patients may develop antibodies to AVONEX.
 The antibodies of some of those patients reduce the activity of interferon beta-1a in vitro (neutralising antibodies).
 Neutralising antibodies are associated with a reduction in the in vivo biological effects of AVONEX and may potentially be associated with a reduction of clinical efficacy.
 It is estimated that the plateau for the incidence of neutralising antibody formation is reached after 12 months of treatment.
-Recent clinical studies with patients treated up to 3 years with AVONEX suggest that approximately5% to 8% develop neutralising antibodies.
+Data from patients treated up to two years with AVONEX suggests that approximately 8% develop neutralising antibodies.
 
 The use of various assays to detect serum antibodies to interferons limits the ability to compare antigenicity among different products.
+
+[AVONEX 30 µg powder and solvent for solution for injection (SmPC 2)]
+
+(all sentences already above)
+
+[AVONEX 30 micrograms/0.5 ml solution for injection.]
+
+Patients should be advised about the abortifacient potential of interferon beta (see 4.6 Pregnancy and lactation and 5.3 Preclinical safety data).
+Therefore, in addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, complete and differential white blood cell counts, platelet counts, and blood chemistries, including liver function tests, are recommended during AVONEX therapy.
+
+Recent clinical studies with patients treated up to 3 years with AVONEX suggest that approximately 5% to 8% develop neutralising antibodies.

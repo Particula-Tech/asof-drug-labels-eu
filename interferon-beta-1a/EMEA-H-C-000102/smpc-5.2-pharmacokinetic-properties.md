@@ -1,6 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
-The pharmacokinetic profile of AVONEX has been investigated indirectly with an assay that measures interferon antiviral activity.
+The pharmacokinetic profile of AVONEX (Interferon beta-1a) has been investigated indirectly with an assay that measures interferon antiviral activity.
 This assay is limited in that it is sensitive for interferon but lacks specificity for interferon beta.
 Alternative assay techniques are not sufficiently sensitive.
 
@@ -9,3 +9,11 @@ With appropriate adjustment for the rate of absorption from the injection site, 
 The calculated bioavailability is greater without such adjustments.
 Intramuscular bioavailability is three-fold higher than subcutaneous bioavailability.
 Subcutaneous administration cannot be substituted for IM administration.
+
+[AVONEX 30 µg powder and solvent for solution for injection (SmPC 2)]
+
+(all sentences already above)
+
+[AVONEX 30 micrograms/0.5 ml solution for injection.]
+
+The pharmacokinetic profile of AVONEX has been investigated indirectly with an assay that measures interferon antiviral activity.
