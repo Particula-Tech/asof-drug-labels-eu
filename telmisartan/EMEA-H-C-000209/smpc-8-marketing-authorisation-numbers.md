@@ -1,5 +1,12 @@
 # 8. NUMBERS IN THE COMMUNITY REGISTER OF MEDICINAL PRODUCTS
 
+EU/1/98/090/009 (14 tablets)
+EU/1/98/090/010 (28 tablets)
+EU/1/98/090/011 (56 tablets)
+EU/1/98/090/012 (98 tablets)
+
+[Micardis 40 mg tablets]
+
 EU/1/98/090/001 (14 tablets)
 EU/1/98/090/002 (28 tablets)
 EU/1/98/090/003 (56 tablets)

@@ -7,4 +7,13 @@ Compounds, which have been studied in pharmacokinetic trials include digoxin, wa
 For digoxin a 20 % increase in median plasma digoxin trough concentration has been observed (39 % in a single case), monitoring of plasma digoxin levels should be considered.
 
 Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors.
-While this is not documented with telmisartan, the possibility of such an effect cannot be excluded and careful monitoring of serum lithium levels is recommended during concomitant use.
+Very rare cases have also been reported with angiotensin II receptor antagonists.
+Therefore,serum lithium level monitoring is advisable during concomitant use.
+
+[Micardis 40 mg tablets]
+
+Therefore, serum lithium level monitoring is advisable during concomitant use.
+
+[Micardis 80 mg tablets]
+
+(all sentences already above)

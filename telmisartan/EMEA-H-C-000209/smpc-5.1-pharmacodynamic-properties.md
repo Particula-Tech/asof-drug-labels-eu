@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic Group: Angiotensin II Antagonists, ATC Code: C09CA07.
+Pharmacotherapeutic group: Angiotensin II Antagonists, ATC Code: C09CA07.
 
 Telmisartan is an orally effective and specific angiotensin II receptor (type AT1) antagonist.
 Telmisartan displaces angiotensin II with very high affinity from its binding site at the AT1 receptor subtype, which is responsible for the known actions of angiotensin II.
@@ -29,9 +29,7 @@ In this respect data concerning DBP are inconsistent.
 In patients with hypertension telmisartan reduces both systolic and diastolic blood pressure without affecting pulse rate.
 The contribution of the drug’s diuretic and natriuretic effect to its hypotensive activity has still to be defined.
 The antihypertensive efficacy of telmisartan is comparable to that of agents representative of other classes of antihypertensive drugs (demonstrated in clinical trials comparing telmisartan to amlodipine, atenolol, enalapril, hydrochlorothiazide, and lisinopril).
-
 Upon abrupt cessation of treatment with telmisartan, blood pressure gradually returns to pre-treatment values over a period of several days without evidence of rebound hypertension.
-
 The incidence of dry cough was significantly lower in patients treated with telmisartan than in those given angiotensin converting enzyme inhibitors in clinical trials directly comparing the two antihypertensive treatments.
 
 Beneficial effects of telmisartan on mortality and cardiovascular morbidity are currently unknown.

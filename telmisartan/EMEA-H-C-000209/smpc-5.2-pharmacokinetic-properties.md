@@ -20,6 +20,7 @@ The mean steady state apparent volume of distribution (Vdss) is approximately 50
 Metabolism:
 Telmisartan is metabolised by conjugation to the glucuronide.
 No pharmacological activity has been shown for the conjugate.
+
 Elimination:
 Telmisartan is characterised by biexponential decay pharmacokinetics with a terminal elimination half-life of >20 hours.
 The maximum plasma concentration (Cmax) and, to a smaller extent, area under the plasma concentration-time curve (AUC) increase disproportionately with dose.
