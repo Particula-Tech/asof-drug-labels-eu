@@ -37,7 +37,8 @@ Elderly patients:
 The pharmacokinetics of telmisartan do not differ in young and elderly patients.
 
 Patients with renal impairment:
-Lower plasma concentrations were observed in patients with renal insufficiency undergoing dialysis.
+In mild to moderate and severe renal impairment patients doubling of plasma concentrations was observed.
+However, lower plasma concentrations were observed in patients with renal insufficiency undergoing dialysis.
 Telmisartan is highly bound to plasma protein in renal-insufficient subjects and cannot be removed by dialysis.
 The elimination half-life is not changed in patients with renal impairment.
 

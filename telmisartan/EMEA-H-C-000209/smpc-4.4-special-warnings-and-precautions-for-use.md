@@ -9,7 +9,6 @@ Renovascular hypertension:
 There is an increased risk of severe hypotension and renal insufficiency when patients with bilateral renal artery stenosis or stenosis of the artery to a single functioning kidney are treated with medicinal products that affect the renin-angiotensin-aldosterone system.
 
 Renal impairment and kidney transplant:
-Micardis should not be used in patients with severe renal impairment (creatinine clearance < 30 ml/min) (see section 4.3).
 When Micardis is used in patients with impaired renal function, a periodic monitoring of potassium and creatinine serum levels is recommended.
 There is no experience regarding the administration of Micardis in patients with a recent kidney transplant.
 
@@ -47,7 +46,5 @@ As with any antihypertensive agent, excessive reduction of blood pressure in pat
 A recommended daily dose of Micardis 40 mg tablets contains 169 mg sorbitol.
 
 [Micardis 80 mg tablets]
-
-Micardis should not be used in patients with severe renal impairment (creatinine clearance < 30 ml/min) (see section 4.3).When Micardis is used in patients with impaired renal function, a periodic monitoring of potassium and creatinine serum levels is recommended.
 
 A recommended daily dose of Micardis 80 mg tablets contains 338 mg sorbitol.

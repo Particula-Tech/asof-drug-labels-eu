@@ -4,8 +4,8 @@
 28 tablets
 56 tablets
 98 tablets
-
 Not all pack sizes may be marketed
+
 Polyamide/aluminium/PVC blisters
 
 [Micardis 40 mg tablets]
