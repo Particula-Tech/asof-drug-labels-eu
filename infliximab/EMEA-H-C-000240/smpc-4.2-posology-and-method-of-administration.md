@@ -16,7 +16,7 @@ Severe, active Crohn’s disease
 Fistulising Crohn’s disease
 An initial 5 mg/kg infusion given over a 2-hour period is to be followed with additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion.
 
-Repeated administration for Crohn’s Disease and rheumatoid arthritis
+Repeated administration for Crohn’s disease and rheumatoid arthritis
 In rheumatoid arthritis, the safety and efficacy of repeated administration given every eight weeks have been established.
 In Crohn’s disease, long-term efficacy of repeated administration has not been established.
 

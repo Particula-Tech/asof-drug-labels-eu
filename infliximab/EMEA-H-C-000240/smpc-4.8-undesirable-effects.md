@@ -23,9 +23,9 @@ Uncommon: Conjunctivitis, endophthalmitis, keratoconjunctivitis Cardiovascular
 Common: Flushing
 Uncommon: Ecchymosis/haematoma, hypertension, hypotension, syncope, petechia, thrombophleblitis, bradycardia, palpitation, vasospasm, cyanosis, peripheral ischaemia, arrythmia
 Respiratory system
-Common: Upper respiratory tract infection, lower respiratory tract infection (e.g. bronchitis, pneumonia), dyspnoea Uncommon: Sinusitis, epistaxis, bronchospasm, pleurisy, respiratory tract allergic reaction, pulmonary oedema
-Gastro-intestinal system
-Common: Nausea, diarrhoea, abdominal pain, dyspepsia Uncommon: Constipation, gastroesophageal reflux, cheilitis, diverticulitis Liver and biliary system
+Common: Upper respiratory tract infection, lower respiratory tract infection (e.g. bronchitis, pneumonia), dyspnoea Uncommon: Sinusitis, epistaxis, bronchospasm, pleurisy, respiratory tract allergic reaction, pulmonary oedema Gastro-intestinal system
+Common: Nausea, diarrhoea, abdominal pain, dyspepsia Uncommon: Constipation, gastroesophageal reflux, cheilitis, diverticulitis
+Liver and biliary system
 Common: Abnormal hepatic function
 Uncommon: Cholecystitis
 Skin and appendages
@@ -38,11 +38,12 @@ Reproductive
 Uncommon: Vaginitis
 Body as a whole-general
 Common: Fatigue, chest pain
-Uncommon: Oedema, hot flushes, infusion syndrome, pain, chills/rigors Administration/application site
+Uncommon: Oedema, hot flushes, infusion syndrome, pain, chills/rigors
+Administration/application site
 Uncommon: Injection site reactions
 
 Infusion-related effects: In clinical studies, 19% of infliximab-treated patients compared with 8% of placebo-treated patients experienced an infusion-related effect during infusion or within 2 hours post infusion.
-Approximately 3% of infusions were accompanied by non-specific symptoms such as fever or chills, 0.7% were accompanied by pruritus or urticaria, 1% were accompanied by cardiopulmonary reactions (primary chest pain, hypotension, hypertension or dyspnoea), and 0.1% were accompanied by combined symptoms of pruritus/urticaria and cardiopulmonary reactions.
+Approximately 3% of infusions were accompanied by non-specific symptoms such as fever or chills, 0.7% were accompanied by pruritus or urticaria, 1% were accompanied by cardiopulmonary reactions (primarily chest pain, hypotension, hypertension or dyspnoea), and 0.1% were accompanied by combined symptoms of pruritus/urticaria and cardiopulmonary reactions.
 Discontinuation of treatment resulted in 1.9% of patients, and all patients recovered with or without medical therapy.
 Infusion-related effects in patients were more likely to occur during the first (8%) and less likely on subsequent infusions (second, 7%; third, 6%; and fourth, 4%; etc.).
 

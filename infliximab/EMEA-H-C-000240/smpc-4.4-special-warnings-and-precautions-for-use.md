@@ -24,7 +24,7 @@ If patients are retreated after a prolonged period, they must be closely monitor
 
 Tumour necrosis factor alpha (TNFα) mediates inflammation and modulates cellular immune responses.
 Therefore, the possibility exists that infliximab may affect normal immune responses and may predispose the patient to opportunistic infections by suppression of endogenous TNFα.
-Patients who have clinically manifest infections and/or abscesses must be treated for these conditions prior to treatment with Remicade.
+Patients who have clinically manifest infections and/or abscesses, or known latent tuberculosis infections must be treated for these conditions prior to treatment with Remicade.
 Suppression of TNFα may also mask symptoms of infection such as fever.
 Patients must be monitored closely for infections while on treatment with Remicade.
 If a patient requires surgery while on infliximab therapy, appropriate precautions must be taken as necessary.

@@ -1,10 +1,9 @@
 # 4.1 Therapeutic indications
 
-Rheumatoid arthritis
+Rheumatoid arthritis:
 Remicade is indicated for:
-
-- the reduction of signs and symptoms in patients with active disease when the response to disease-modifying drugs, including methotrexate, has been inadequate.
-
+the reduction of signs and symptoms as well as the improvement in physical function in patients with active disease when the response to disease-modifying drugs, including methotrexate, has been inadequate.
+In this patient population, a reduction in the rate of the progression of joint damage, as measured by x-ray, has been demonstrated (See section 5.1).
 Efficacy and safety have been demonstrated only in combination with methotrexate.
 
 Crohn’s disease

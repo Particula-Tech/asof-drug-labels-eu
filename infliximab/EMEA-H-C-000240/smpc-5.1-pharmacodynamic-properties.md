@@ -23,24 +23,54 @@ Clinical Efficacy
 
 Rheumatoid arthritis
 
-The safety and efficacy of infliximab were assessed at 30 and 54 weeks in a multicenter, randomised, double-blind, placebo-controlled study of 428 patients with active rheumatoid arthritis despite treatment with methotrexate (ATTRACT trial).
+The safety and efficacy of infliximab were assessed at 30, 54 and 102 weeks in a multicenter, randomised, double-blind, placebo-controlled study of 428 patients with active rheumatoid arthritis despite treatment with methotrexate (ATTRACT trial).
 Approximately 50% of patients were in functional Class III.
-All patients were on stable methotrexate doses (median 15 mg/wk) for 6 months prior to enrolment and throughout the study.
+Patients received placebo, 3 mg/kg or 10 mg/kg infliximab at weeks 0, 2 and 6, and then every 4 or 8 weeks thereafter.
+All patients were on stable methotrexate doses (median 15 mg/wk) for 6 months prior to enrolment and were to remain on stable doses throughout the study.
 Concurrent use of stable doses of oral corticosteroids (≤ 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted, and folate supplementation was given.
+The primary endpoints were the reduction of signs and symptoms as assessed by the American College of Rheumatology criteria , the prevention of structural joint damage, and the improvement in physical function.
+A reduction in signs and symptoms was defined to be at least a 20% improvement (ACR20) in both tender and swollen joint counts, and in 3 of the following 5 criteria: evaluator’s global assessment, patient’s global assessment, functional/disability measure, visual analogue pain scale and erythrocyte sedimentation rate or C-reactive protein.
+Structural joint damage (erosions and joint space narrowing) in both hands and feet was measured by the change from baseline in the total van der Heijde-modified Sharp score (0-440).
+The Health Assessment Questionnaire (HAQ; scale 0-3) was used to measure patients’ average change from baseline scores over time, in physical function.
 
-Of the 428 patients, 86 received 3 mg/kg and 87 received 10 mg/kg of infliximab by intravenous infusion at weeks 0, 2 and 6 followed by additional infusions every eight weeks thereafter.
-The primary endpoints were the reduction of signs and symptoms as assessed by the American College of Rheumatology criteria at 30 weeks and the prevention of structural damage at 54 weeks.
-A reduction in signs and symptoms was defined to be at least a 20% improvement (ACR 20) in both tender and swollen joint counts, and in 3 of the following 5 criteria: evaluator’s global assessment, patient’s global assessment, functional/disability measure, visual analogue pain scale and erythrocyte sedimentation rate or C-reactive protein.
+Results from week 54 (ACR20, HAQ and total van der Heijde-modified Sharp score) are shown in Table 2.
+At week 54, a higher percentage of patients in all infliximab treated groups had a significant reduction in signs and symptoms compared with methotrexate alone .
+This response was seen from 2 weeks, and was maintained through 102 weeks of treatment.
+Higher degrees of clinical response (ACR50 and ACR70) were observed in all infliximab groups at 30 and 54 weeks compared with methotrexate alone.
 
-At week 30, both the 3 and 10 mg/kg infliximab treatment groups had a higher percentage of patients who had a significant reduction in signs and symptoms (50% and 52%, p < 0.001 respectively) compared with methotrexate alone (20%).
-Improvement versus methotrexate alone was seen as early as 2 weeks (p < 0.001), and was maintained through 54 weeks of treatment.
-Higher degrees of clinical response (ACR 50 and ACR 70) were observed with infliximab versus methotrexate alone at both 30 and 54 weeks.
-A greater proportion of patients had higher degrees of clinical response with the 10 mg/kg dose.
-Improvement was observed in the number of swollen and tender joints, patient’s assessment of pain, patient’s and evaluator’s global assessment of disease, morning stiffness, fatigue and CRP for both the 3 and 10 mg/kg infliximab groups compared to baseline (p < 0.05).
+A reduction in the rate of the progression of structural joint damage (erosions and joint space narrowing) was observed in all infliximab groups at 54 weeks (Table 2).
 
-Greater improvement in physical function (HAQ) through week 54 also was observed in both infliximab treatment groups compared with methotrexate alone (p < 0.001).
+The effects observed at 54 weeks were maintained through 102 weeks.
+Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group can not be defined.
+Table 2
+Effects on ACR20, Structural Joint Damage and Physical Function at week 54 infliximabb
+3 mg/kg 3 mg/kg 10 mg/kg 10 mg/kg All Controla q 8 wks q 4 wks q 8 wks q 4 wks infliximabb Patients with ACR20
+15/88 36/86 41/86 51/87 48/81 176/340 response/ patients evaluated (%)c (17%) (42%) (48%) (59%) (59%) (52%)
 
-Efficacy and safety of repeated administration of infliximab given every eight weeks beyond 54 weeks have not been established.
+Total scored (van der
+Heijde-modified Sharp score)
+Change from baseline
+
+(Mean ± SDc ) 7.0 ± 10.3 1.3 ± 6.0 1.6 ± 8.5 0.2 ± 3.6 -0.7 ± 3.8 0.6 ± 5.9
+Medianc 4.0 0.5 0.1 0.5 -0.5 0.0
+
+(Interquartile range) (0.5,9.7) (-1.5,3.0) (-2.5,3.0) (-1.5,2.0) (-3.0,1.5) (-1.8,2.0) Patients with no
+13/64 34/71 35/71 37/77 44/66 150/285 deterioration/patients
+
+evaluated (%)c (20%) (48%) (49%) (48%) (67%) (53%)
+
+HAQ change from baseline
+
+over timee (patients 87 86 85 87 81 339
+
+evaluated)
+
+Mean ± SDc 0.2 ± 0.3 0.4 ± 0.3 0.5 ± 0.4 0.5 ± 0.5 0.4 ± 0.4 0.4 ± 0.4
+
+a: control = All patients had active RA despite treatment with stable methotrexate doses for 6 months prior to enrolment and were to remain on stable doses throughout the study.
+Concurrent use of stable doses of oral corticosteroids (≤ 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted, and folate supplementation was given.
+b: all infliximab doses given in combination with methotrexate and folate with some on corticosteroids and/or non-steroidal anti-inflammatory drugs c: p < 0.001, for each infliximab treatment group vs. control d: greater values indicate more joint damage.
+e: HAQ = Health Assessment Questionnaire; greater values indicate less disability.
 
 Crohn’s disease
 
@@ -52,7 +82,6 @@ Concurrent use of stable doses of conventional therapies was permitted, and 92% 
 The primary endpoint was the proportion of patients who experienced a clinical response, defined as a decrease in CDAI by ≥ 70 points from baseline at the 4-week evaluation and without an increase in Crohn’s disease medications or surgery for Crohn’s disease.
 Patients who responded at week 4 were followed to week 12.
 Secondary endpoints included the proportion of patients in clinical remission at week 4 (CDAI < 150) and clinical response over time.
-
 At week 4, following a single dose of study medication, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (17%) of the placebo-treated patients (p < 0.001).
 Also at week 4, 13/27 (48%) of infliximab-treated patients achieved a clinical remission (CDAI < 150) vs. 1/25 (4%) of placebo-treated patients.
 A response was observed within 2 weeks, with a maximum response at 4 weeks.
