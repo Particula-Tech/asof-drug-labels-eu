@@ -1,3 +1,3 @@
 # 6.3 Shelf-life
 
-Two years when stored under appropriate conditions.
+3 years when stored under appropriate conditions.

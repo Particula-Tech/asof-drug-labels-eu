@@ -7,8 +7,8 @@ The median lethal doses were approximately 210 (mice) and 175 (rats) mg/kg.
 Dogs tolerated single oral doses up to 100 mg/kg without mortality.
 Clinical signs included sedation, ataxia, tremors, increased heart rate, labored respiration, miosis, and anorexia.
 In monkeys, single oral doses up to 100 mg/kg resulted in prostration and, at higher doses, semi-consciousness.
-Repeated-dose toxicity
 
+Repeated-dose toxicity
 In studies up to 3 months duration in mice and up to 1 year in rats and dogs, the predominant effects were CNS depression, anticholinergic effects, and peripheral haematological disorders.
 Tolerance developed to the CNS depression.
 Growth parameters were decreased at high doses.

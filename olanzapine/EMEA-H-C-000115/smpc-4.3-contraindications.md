@@ -9,8 +9,4 @@ Olanzapine is contraindicated in patients with known risk for narrow-angle glauc
 
 [ZYPREXA (SmPC 3)]
 
-(all sentences already above)
-
-[ZYPREXA (SmPC 4)]
-
 Olanzapine is contraindicated in patients with known risk of narrow-angle glaucoma.

@@ -14,18 +14,14 @@ In the absence of detailed information on the pre-existing history of individual
 
 Rare (<1%):
 Photosensitivity reaction and rash were reported rarely.
-Rare reports of hepatitis have been received.
-
-Seizures have been reported to occur rarely in patients treated with olanzapine.
-In most of these cases, a history of seizures or risk factors for seizures were reported.
 
 Other Findings:
 Plasma prolactin levels were sometimes elevated, but associated clinical manifestations (e.g., gynecomastia, galactorrhea, and breast enlargement) were rare.
 In most patients, levels returned to normal ranges without cessation of treatment.
 
-Rare cases reported as Neuroleptic Malignant Syndrome (NMS) have been received in association with olanzapine.
+As with other antipsychotics, rare cases reported as Neuroleptic Malignant Syndrome (NMS) have been received in association with olanzapine.
 (See also Section 4.4, Special warnings and special precautions for use).
 
 High creatine phosphokinase levels have been observed in rare cases.
 
-Haematologic variations such as leukopenia and thrombocytopenia have been occasionally reported.
+As with other neuroleptic drugs, haematologic variations such as leukopenia and thrombocytopenia have been occasionally reported.
