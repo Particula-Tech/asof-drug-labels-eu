@@ -9,10 +9,10 @@ Emtricitabine is a weak inhibitor of mammalian DNA polymerase α, β and ε and 
 
 Emtricitabine did not exhibit cytotoxicity to peripheral blood mononuclear cells (PBMCs), established lymphocyte and monocyte-macrophage cell lines or bone marrow progenitor cells in vitro.
 There was no evidence of toxicity to mitochondria in vitro or in vivo.
-
 Antiviral activity in vitro: The 50% inhibitory concentration (IC50) value for emtricitabine against laboratory and clinical isolates of HIV-1 was in the range of 0.0013 to 0.5 µmol/l.
 In combination studies of emtricitabine with protease inhibitors, nucleoside, nucleotide and non-nucleoside analogue inhibitors of HIV reverse transcriptase, additive to synergistic effects were observed.
 Most of these combinations have not been studied in humans.
+
 When tested for activity against laboratory strains of HBV, the 50% inhibitory concentration (IC50) value for emtricitabine was in the range of 0.01 to 0.04 µmol/l.
 
 Resistance: HIV-1 resistance to emtricitabine develops as the result of changes at codon 184 causing the methionine to be changed to a valine (an isoleucine intermediate has also been observed) of the HIV reverse transcriptase.
