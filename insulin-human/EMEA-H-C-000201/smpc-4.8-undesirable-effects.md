@@ -2,37 +2,38 @@
 
 Hypoglycaemia
 
-Hypoglycaemia may develop if the insulin dose exceeds requirements.
-See also under 4.4.
+Hypoglycaemia, in general the most frequent undesirable effect of insulin therapy, may occur if the insulin dose is too high in relation to the insulin requirement.
+Severe hypoglycaemic attacks, especially if recurrent, may lead to neurological damage.
+Prolonged or severe hypoglycaemic episodes may be life-threatening.
 
-Visual impairment
+In many patients, the signs and symptoms of neuroglycopenia are preceded by signs of adrenergic counter-regulation.
+Generally, the greater and more rapid the decline in blood glucose, the more marked is the phenomenon of counter-regulation and its symptoms.
 
-A marked change in glycaemic control may cause temporary visual impairment, due to temporary alteration in the turgidity and hence the refractive index of the lens, this being dependent on blood glucose level.
-Abrupt normalisation of glycaemia may cause retinopathy to deteriorate temporarily.
-In patients with proliferative retinopathy, particularly if this has not been treated with laser, severe hypoglycaemic attacks may cause amaurosis.
+Eyes
 
-Lipohypertrophy, lipoatrophy
+A marked change in glycaemic control may cause temporary visual impairment, due to temporary alteration in the turgidity and refractive index of the lens.
 
-Lipohypertrophy may occur at the injection site due to the local lipogenic effect of insulin; lipoatrophy may occur as a result of chronic local inflammatory reactions.
-In both cases, the local absorption of insulin may be delayed.
-Continuous rotation of the injection site within a given area may help to reduce or prevent these reactions.
+Long-term improved glycaemic control decreases the risk of progression of diabetic retinopathy.
+However, intensification of insulin therapy with abrupt improvement in glycaemic control may be associated with temporary worsening of diabetic retinopathy.
+In patients with proliferative retinopathy, particularly if not treated with photocoagulation, severe hypoglycaemic episodes may result in transient amaurosis.
 
-Hypersensitivity reactions
+Lipodystrophy
 
-Non-specific mild and transient reddening may occur at the injection site.
-In rare cases, local immediate-type or delayed-type hypersensitivity reactions (e.g. Arthus reactions) may occur to insulin or any of the excipients.
-They may manifest themselves as local pruritus, wheals, reddening, induration, or unusual intense pain at the injection site, but also as cutaneous or subcutaneous nodules.
-Such hypersensitivity reactions may also spread to the area around the injection site.
+As with any insulin therapy, lipodystrophy may occur at the injection site and delay local insulin absorption.
+Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions.
 
-Generalised immediate-type hypersensitivity reactions to insulin or any of the excipients are very rare.
-They may be accompanied, for example, by generalised skin reactions, angioedema, bronchospasm, a fall in blood pressure, and shock, and may become life-threatening.
-If such reactions occur, a change in the insulin preparation or desensitisation is required (see also under 4.3).
+Injection site and allergic reactions
+
+In rare cases mild reactions at the injection site may occur.
+Such reactions include redness, pain, itching, hives, swelling, or inflammation.
+Most minor reactions to insulins at the injection site usually resolve in a few days to a few weeks.
+
+Immediate-type allergic reactions to insulin are very rare.
+Such reactions to insulin or the excipients may, for example, be associated with generalised skin reactions, angio-oedema, bronchospasm, hypotension and shock, and may be life-threatening.
 
 Other reactions
 
 Insulin administration may cause insulin antibodies to form.
-In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyperglycaemia or hypoglycaemia.
+In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
 
 Insulin may cause sodium retention and oedema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
-
-As a consequence of relatively marked acute lowering of blood glucose (e.g. in treatment of ketoacidosis or a hyperglycaemic-hyperosmolar condition) hypokalaemia (with e.g. cardiac complications) or cerebral oedema may develop.
