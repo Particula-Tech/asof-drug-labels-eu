@@ -1,8 +1,9 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antineoplastic Agents, ATC code: L01X C02
+
 Rituximab binds specifically to the transmembrane antigen, CD20, a non-glycosylated phosphoprotein, located on pre-B and mature B lymphocytes.
-The antigen is expressed on �95% of all B cell non-Hodgkin’s lymphomas (NHLs).
+The antigen is expressed on >95% of all B cell non-Hodgkin’s lymphomas (NHLs).
 
 CD20 is found on both normal and malignant B cells, but not on haematopoietic stem cells, pro-
 B cells, normal plasma cells or other normal tissue.
@@ -10,7 +11,7 @@ This antigen does not internalise upon antibody binding and is not shed from the
 CD20 does not circulate in the plasma as a free antigen and, thus, does not compete for antibody binding.
 
 The Fab domain of rituximab binds to the CD20 antigen on B lymphocytes and the Fc domain can recruit immune effector functions to mediate B cell lysis.
-Possible mechanisms of effector-mediated cell lysis include complement-dependent cytotoxicity (CDC) resulting from C1q binding, and antibody-dependent cellular cytotoxicity (ADCC) mediated by one or more of the Fc� receptors on the surface of granulocytes, macrophages and NK cells.
+Possible mechanisms of effector-mediated cell lysis include complement-dependent cytotoxicity (CDC) resulting from C1q binding, and antibody-dependent cellular cytotoxicity (ADCC) mediated by one or more of the Fcγ receptors on the surface of granulocytes, macrophages and NK cells.
 Rituximab binding to CD 20 antigen on B lymphocytes has also been demonstrated to induce cell death via apoptosis.
 
 Median peripheral B cell counts declined below normal following completion of the first dose, with recovery beginning after 6 months.
@@ -30,8 +31,7 @@ This finding was not supported by a stepwise logistic regression analysis in whi
 Initial treatment, weekly for 8 doses: In a multi-center, single-arm study, 37 patients with relapsed or chemoresistant, low grade or follicular B cell NHL received 375 mg/m2 of MabThera as IV infusion weekly for eight doses.
 The ORR was 57% (CI95% 41% – 73%; CR 14%, PR 43%) with a projected median TTP for responding patients of 19.4 months (range 5.3 to 38.9 months).
 
-Initial treatment, bulky disease, weekly for 4 doses: In pooled data from three studies, 39 patients with relapsed or chemoresistant, bulky disease (single lesion � 10 cm in diameter), low grade or follicular
-B cell NHL received 375 mg/m2 of MabThera as IV infusion weekly for four doses.
+Initial treatment, bulky disease, weekly for 4 doses: In pooled data from three studies, 39 patients with relapsed or chemoresistant, bulky disease (single lesion ≥ 10 cm in diameter), low grade or follicular B cell NHL received 375 mg/m2 of MabThera as IV infusion weekly for four doses.
 The ORR was 36% (CI95% 21% – 51%; CR 3%, PR 33%) with a median TTP for responding patients of 9.6 months (range 4.5 to 26.8 months).
 
 Re-treatment, weekly for 4 doses: In a multi-center, single-arm study, 58 patients with relapsed or chemoresistant low grade or follicular B cell NHL, who had achieved an objective clinical response to a prior course of MabThera, were re-treated with 375 mg/m2 of MabThera as IV infusion weekly for four doses.
@@ -42,17 +42,19 @@ This compares favourably with the TTP achieved after the prior course of MabTher
 
 Diffuse large B cell non-Hodgkin’s lymphoma: In a randomised, open-label trial, a total of 399 previously untreated elderly patients (age 60 to 80 years) with diffuse large B cell lymphoma received standard CHOP chemotherapy (cyclophosphamide 750 mg/m2, doxorubicin 50 mg/m2, vincristine 1.4 mg/m2 up to a maximum of 2 mg on day 1, and prednisone 40 mg/m2/day on days 1-5) every 3 weeks for eight cycles, or MabThera 375 mg/m2 plus CHOP (R-CHOP).
 MabThera was administered on the first day of the treatment cycle.
-In a planned interim analysis, a total of 328 patients (159 CHOP, 169 R-CHOP) were analyzed for efficacy.
-After a median follow up of approximately 12 months, R-CHOP led to a highly statistically significant increase in event-free survival compared with CHOP (p = 0.0002), where events were death, relapse or progression of lymphoma, or institution of a new anti-lymphoma treatment; R-CHOP treatment reduced the risk of an event by 48%.
-Lower rates of disease progression during treatment and of relapse after complete response accounted for this difference.
-Overall survival was statistically significantly prolonged in the R-CHOP group compared with CHOP (p = 0.0055), with a 49% reduction in the risk of death.
-R-CHOP treatment was also associated with a statistically significant benefit, compared with CHOP, for complete response rate at the end of treatment (71% vs. 59%; p = 0.0176), progression-free survival (p = 0.0001), and disease-free survival (p = 0.0048).
-The risk of disease progression was reduced by 54% and the risk of relapse after complete response by 50%.
-R-CHOP treatment benefited both low-risk and high-risk patients (age-adjusted International Prognostic Index score 0-1 and 2-3, respectively): the risk of an event was reduced by 69% in the low-risk group and 36% in the high-risk group.
 
-An updated efficacy analysis including the total study population of 399 patients (197 CHOP, 202 R-CHOP), with a median follow-up of 24 months, confirmed that R-CHOP significantly prolongs both event-free survival (p = 0.0001) and overall survival (p = 0.0072).
-R-CHOP treatment reduced the risk of an event by 42% and the risk of death by 37%.
-Kaplan Meier estimates of event-free survival at 24 months were 57.0% in the R-CHOP arm compared to 37.3% in the CHOP arm and of overall survival were 70.2% in the R-CHOP arm compared to 57.3% in the CHOP arm.
+The final efficacy analysis included all randomised patients (197 CHOP, 202 R-CHOP), and had a median follow-up duration of approximately 31 months.
+The two treatment groups were well balanced in baseline disease characteristics and disease status.
+The final analysis confirmed that R-CHOP treatment was associated with a clinically relevant and statistically significant improvement in the duration of event-free survival (the primary efficacy parameter; where events were death, relapse or progression of lymphoma, or institution of a new anti-lymphoma treatment) (p = 0.0001).
+Kaplan Meier estimates of the median duration of event-free survival were 35 months in the R-CHOP arm compared to 13 months in the CHOP arm, representing a risk reduction of 41%.
+At 24 months, estimates for overall survival were 68.2% in the R-CHOP arm compared to 57.4% in the CHOP arm.
+A subsequent analysis of the duration of overall survival, carried out with a median follow-up duration of 38 months, confirmed the benefit of R-CHOP over CHOP treatment (p=0.0094), representing a risk reduction of 33%.
+
+The analysis of all secondary parameters (response rates, progression-free survival, disease-free survival, duration of response) verified the treatment effect of R-CHOP compared to CHOP.
+The complete response rate after cycle 8 was 76.2% in the R-CHOP group and 62.4% in the CHOP group (p=0.0028).
+The risk of disease progression was reduced by 46% and the risk of relapse by 51%.
+In all patients subgroups (gender, age, age adjusted IPI, Ann Arbor stage, ECOG, Beta 2 Microglobulin, LDH, Albumin, B-symptoms, Bulky disease, extranodal sites, bone marrow involvement), the risk ratios for event-free survival and overall survival (R-CHOP compared with CHOP) were less than 0.83 and 0.95 respectively.
+R-CHOP was associated with improvements in outcome for both high- and low-risk patients according to age adjusted IPI.
 
 Clinical Laboratory Findings
 
@@ -63,4 +65,4 @@ Of 356 patients evaluated for HACA, 1.1% (4 patients) were positive.
 
 CD20 is found on both normal and malignant B cells, but not on haematopoietic stem cells, pro-B-cells, normal plasma cells or other normal tissue.
 
-Initial treatment, weekly for 4 doses: Inthe pivotal study, 166 patients with relapsed or chemoresistant low-grade or follicular B cell NHL received 375 mg/m2 of MabThera as an IV infusion once weekly for four weeks.
+The final efficacy analysis included all randomised patients (197 CHOP, 202 R-CHOP), and had a median follow-up duration of approximately 31 months The two treatment groups were well balanced in baseline disease characteristics and disease status.

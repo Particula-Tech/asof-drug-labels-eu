@@ -25,7 +25,7 @@ Retreatment following relapse in non-Hodgkin’s lymphoma: Patients who have res
 
 Diffuse large B cell non-Hodgkin's lymphoma
 MabThera should be used in combination with CHOP chemotherapy.
-The recommended dosage is 375 mg/m2 body surface area, administered on day 1 of each chemotherapy cycle after IV administration of the corticosteroid component of CHOP.
+The recommended dosage is 375 mg/m2 body surface area, administered on day 1 of each chemotherapy cycle for 8 cycles after IV administration of the corticosteroid component of CHOP.
 Safety and efficacy of MabThera have not been established in combination with other chemotherapies.
 
 First infusion: The recommended initial rate for infusion is 50 mg/hr; after the first 30 minutes, it can be escalated in 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
