@@ -1,0 +1,16 @@
+{
+  "active_substance": "bexarotene",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000326",
+  "eu_number": "EU/1/01/178",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2001-03-29",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/targretin",
+  "molecule": "bexarotene",
+  "molecule_name": "BEXAROTENE",
+  "name": "Targretin",
+  "register_name": "Targretin",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h178.htm"
+}
