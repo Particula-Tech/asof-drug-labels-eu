@@ -5,12 +5,12 @@ Instead, regular insulin administered intravenously is recommended in such cases
 
 Safety and efficacy of Lantus has been established in adolescents and children of 6 years and above.
 
-Due to limited experience the efficacy and safety of Lantus could not be assessed in children below 6 years of age, in patients with impaired liver function or in patients with moderate/severe renal impairment (see 4.2).
+Due to limited experience the efficacy and safety of Lantus could not be assessed in children below 6 years of age, in patients with impaired liver function or in patients with moderate/severe renal impairment (see section 4.2).
 
 In patients with renal impairment, insulin requirements may be diminished due to reduced insulin metabolism.
 In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
-
 In patients with severe hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
+
 In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic episodes, the patient's adherence to the prescribed treatment regimen, injection sites and proper injection technique and all other relevant factors must be reviewed before dose adjustment is considered.
 
 Hypoglycaemia
@@ -50,10 +50,7 @@ These include:
 - inadequate food intake,
 - missed meals,
 - alcohol consumption,
-- certain uncompensated endocrine disorders, (e.g. in hypothyroidism and in anterior pituitary or
-
-adrenocortical insufficiency),
-
+- certain uncompensated endocrine disorders, (e.g. in hypothyroidism and in anterior pituitary or adrenocortical insufficiency),
 - concomitant treatment with certain other medicinal products.
 
 Intercurrent illness
@@ -62,3 +59,15 @@ Intercurrent illness requires intensified metabolic monitoring.
 In many cases urine tests for ketones are indicated, and often it is necessary to adjust the insulin dose.
 The insulin requirement is often increased.
 Patients with type 1 diabetes must continue to consume at least a small amount of carbohydrates on a regular basis, even if they are able to eat only little or no food, or are vomiting etc. and they must never omit insulin entirely.
+
+[Lantus 100 IU/ml solution for injection in a cartridge.]
+
+Due to limited experience the efficacy and safety of Lantus could not be assessed in children below 6 years of age, in patients with impaired liver function or in patients with moderate/severe renal impairment (see 4.2).
+
+- certain uncompensated endocrine disorders, (e.g. in hypothyroidism and in anterior pituitary or
+
+adrenocortical insufficiency),
+
+[Lantus 100 IU/ml OptiSet solution for injection]
+
+(all sentences already above)

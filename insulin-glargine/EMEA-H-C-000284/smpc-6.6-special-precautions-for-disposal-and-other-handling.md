@@ -1,8 +1,12 @@
 # 6.6 Instructions for use and handling
 
-Inspect the cartridge before use.
+Inspect the vial before use.
 It must only be used if the solution is clear, colourless, with no solid particles visible, and if it is of water-like consistency.
 Since Lantus is a solution, it does not require resuspension before use.
+
+[Lantus 100 IU/ml solution for injection in a cartridge.]
+
+Inspect the cartridge before use.
 
 Before insertion into the pen, the cartridge must be stored at room temperature for 1 to 2 hours.
 Air bubbles must be removed from the cartridge before injection (see instructions for using pen).
@@ -22,7 +26,6 @@ To prevent the possible transmission of disease, each pen must be used by one pa
 
 The insulin pen must not be dropped or subjected to impact (otherwise, the insulin cartridge in the transparent insulin reservoir may break and the pen will not work).
 If this happens, a new pen must be used.
-
 A new needle must be affixed prior to each injection.
 The following needles may be used in conjunction with the OptiSet: Needles designed for the OptiSet or those for which the needle manufacturer has demonstrated suitability for use in OptiSet.
 The needle is removed after the injection and the pen is stored without the needle.
