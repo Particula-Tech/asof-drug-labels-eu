@@ -1,4 +1,4 @@
-# 4.6 Use during pregnancy and lactation
+# 4.6 Pregnancy and lactation
 
 No treatment-related malformations were observed with ritonavir in either rats or rabbits.
 Developmental toxicity observed in rats (embryolethality, decreased foetal body weight and ossification delays and visceral changes, including delayed testicular descent) occurred mainly at a maternally toxic dosage.

@@ -4,18 +4,17 @@ In clinical studies (Phase II/III), the following adverse events with possible, 
 
 Gastrointestinal: nausea (47.5%), diarrhoea (44.9%), vomiting (23.6%), abdominal pain (11.6%), taste perversion (11.4%); frequently dyspepsia, anorexia, local throat irritation; occasionally flatulence, dry mouth, eructation, mouth ulcer.
 
-Nervous system: circumoral paresthesia (26.6%), peripheral paresthesia (15.4%); frequently dizziness, paresthesia, hyperesthesia, somnolence; occasionally insomnia, anxiety.
+Nervous system: circumoral paraesthesia (26.6%), peripheral paraesthesia (15.4%); frequently dizziness, paraesthesia, hyperaesthesia, somnolence; occasionally insomnia, anxiety.
 
 Skin: frequently rash; occasionally pruritus, sweating.
 
-VI
 Respiratory system: occasionally pharyngitis, cough increased.
 
 Cardiovascular: frequently vasodilation.
 
-Others: asthenia (22.3%), headache (15.5%); occasionally fever, pain, hyperlipemia, myalgia, weight loss, decrease of free and total thyroxine (T4) values.
+Others: asthenia (22.3%), headache (15.5%); occasionally fever, pain, hyperlipaemia, myalgia, weight loss, decrease of free and total thyroxine (T4) values.
 
-Nausea, diarrhoea, vomiting, asthenia, taste perversion, circumoral and peripheral paresthesia, and vasodilatation have been observed most frequently and are felt to be clearly related to ritonavir.
+Nausea, diarrhoea, vomiting, asthenia, taste perversion, circumoral and peripheral paraesthesia, and vasodilatation have been observed most frequently and are felt to be clearly related to ritonavir.
 
 Allergic reactions including urticaria, mild skin eruptions, bronchospasm, and angioedema have been reported.
 Rare cases of anaphylaxis have been reported
@@ -29,11 +28,13 @@ Syncope, orthostatic hypotension and renal insufficiency have also been reported
 
 Hepatic transaminase elevations exceeding five times the upper limit or normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
 
+Combination antiretroviral therapy, including regimens containing a protease inhibitor, is associated with redistribution of body fat in some patients, including loss of peripheral subcutaneous fat, increased intra-abdominal fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
+Protease inhibitors are also associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance and hyperglycaemia.
+
 Clinical chemistry:
 
 High gamma-glutamyl transpeptidase (GGT) (12%); frequently high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); occasionally high aspartate transaminase (SGOT), high amylase, high uric acid, low potassium, high glucose, low total calcium, high magnesium, high total bilirubin, high alkaline phosphatase.
-
-Hypertriglyceridemia, hypercholesterolemia and hyperuricemia were clearly related to ritonavir therapy.
+Hypertriglyceridaemia, hypercholesterolaemia and hyperuricaemia were clearly related to ritonavir therapy.
 
 Haematology:
 

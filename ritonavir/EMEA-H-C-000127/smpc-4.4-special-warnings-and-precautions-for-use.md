@@ -4,8 +4,7 @@ There are no data on the pharmacokinetics and safety of ritonavir in patients wi
 Ritonavir is principally metabolised and eliminated by the liver.
 Therefore, caution should be exercised when administering this drug to patients with impaired hepatic function (see Section 4.3 Contra-indications).
 
-The safety and efficacy of ritonavir in children below the age of 12 have not been established.
-Therefore, ritonavir should be used in children below the age of 12 only when the potential benefits clearly outweigh the potential risks.
+The safety and efficacy of ritonavir in children below the age of 2 years have not been established.
 
 Human pharmacokinetic data for combination of Norvir with antiretroviral drugs other than zidovudine and didanosine (ddI) are not yet available.
 Although the clinical use of combinations with zalcitabine (ddC) and stavudine (d4T) in a relatively limited number of patients did not seem to be associated with unfavourable effects, the use of combinations of Norvir with other nucleoside analogues should be guided by cautious therapeutic and safety monitoring.
@@ -16,9 +15,7 @@ Serious persistent vomiting and/or diarrhoea associated with ritonavir use might
 It is advisable to monitor renal function in patients with renal function impairment.
 
 A pharmacokinetic study demonstrated that ritonavir extensively inhibits the metabolism of saquinavir resulting in greatly increased saquinavir plasma concentrations (see section 4.5 Interaction with other medicinal products and other forms of interaction).
-Doses
-
-III greater than 400 mg bid of either drug were associated with an increased incidence of adverse events.
+Doses greater than 400 mg bid of either drug were associated with an increased incidence of adverse events.
 
 Norvir oral solution contains 43 % ethanol, therefore concomitant administration of Norvir with disulfiram or drugs with disulfiram-like reactions (e.g. metronidazole) should be avoided.
 
@@ -33,3 +30,9 @@ There may be an increased risk for transaminase elevations in patients with unde
 New onset diabetes mellitus, hyperglycaemia or exacerbation of existing diabetes mellitus has been reported in patients receiving protease inhibitors.
 In some of these the hyperglycaemia was severe and in some cases also associated with ketoacidosis.
 Many patients had confounding medical conditions, some of which required therapy with agents that have been associated with the development of diabetes mellitus or hyperglycaemia.
+
+Combination antiretroviral therapy, including regimens containing a protease inhibitor, is associated with redistribution of body fat in some patients.
+Protease inhibitors are also associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance and hyperglycaemia.
+Clinical examination should include evaluation for physical signs of fat redistribution.
+Consideration should be given to measurement of serum lipids and blood glucose.
+The mechanisms of these events and long-term consequences, such as an increased risk of cardiovascular disease, are currently unknown.
