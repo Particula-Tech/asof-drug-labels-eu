@@ -1,4 +1,28 @@
-# 6.6 Instructions for use, handling and disposal
+# 6.6 Instructions for use and handling
+
+No special requirements.
+
+[ZYPREXA 5 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 7.5 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 10 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 15 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 20 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 10 mg powder for solution for injection.]
 
 Reconstitute ZYPREXA only with Water for Injections using standard aseptic techniques for reconstitution of parenteral products.
 No other solutions should be used for reconsititution.

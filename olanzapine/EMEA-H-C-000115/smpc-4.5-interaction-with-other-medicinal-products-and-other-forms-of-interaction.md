@@ -1,12 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-IM olanzapine has not been studied in patients with alcohol or drug intoxication (see also Section 4.4 Special warnings and special precautions for use).
-
-Caution should be exercised in patients who receive medicinal products that can induce hypotension, bradycardia, respiratory or central nervous system depression (see also Section 4.4 Special warnings and special precautions for use).
-
-Potential for Interaction, Following Intramuscular Injection: In a single dose intramuscular study of olanzapine 5 mg, administered 1 hour before lorazepam 2 mg (metabolised by glucuronidation), the pharmacokinetics of both medicines were unchanged.
-However, the combination added to the somnolence observed with either medicines alone.
-Concomitant injection of olanzapine and parenteral benzodiazepine has not been studied and is therefore not recommended (see Section 4.4 Special warnings and special precautions for use).
+Caution should be exercised in patients who receive medicinal products that can cause central nervous system depression.
 
 Potential interactions affecting olanzapine: Since olanzapine is metabolised by CYP1A2, substances that can specifically induce or inhibit this isoenzyme may affect the pharmacokinetics of olanzapine.
 
@@ -32,3 +26,37 @@ Thus no particular interaction is expected as verified through in vivo studies w
 Olanzapine showed no interaction when co-administered with lithium or biperiden.
 
 Therapeutic monitoring of valproate plasma levels did not indicate that valproate dosage adjustment is required after the introduction of concomitant olanzapine.
+
+[ZYPREXA 5 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 7.5 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 10 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 15 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 20 mg coated tablets.]
+
+(all sentences already above)
+
+[ZYPREXA 10 mg powder for solution for injection.]
+
+IM olanzapine has not been studied in patients with alcohol or drug intoxication (see also Section 4.4 Special warnings and special precautions for use).
+
+Caution should be exercised in patients who receive medicinal products that can induce hypotension, bradycardia, respiratory or central nervous system depression (see also Section 4.4 Special warnings and special precautions for use).
+
+Potential for Interaction, Following Intramuscular Injection: In a single dose intramuscular study of olanzapine 5 mg, administered 1 hour before lorazepam 2 mg (metabolised by glucuronidation), the pharmacokinetics of both medicines were unchanged.
+However, the combination added to the somnolence observed with either medicines alone.
+Concomitant injection of olanzapine and parenteral benzodiazepine has not been studied and is therefore not recommended (see Section 4.4 Special warnings and special precautions for use).
+
+[ZYPREXA 10 mg powder and solvent for solution for injection.]
+
+(all sentences already above)
