@@ -1,6 +1,7 @@
 # 6.4 Special precautions for storage
 
-Do not store above 30°C
+Do not store above 30°C.
+Store in the original package.
 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
 

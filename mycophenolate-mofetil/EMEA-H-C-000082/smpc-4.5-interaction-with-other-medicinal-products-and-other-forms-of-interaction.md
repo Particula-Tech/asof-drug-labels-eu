@@ -2,7 +2,7 @@
 
 Aciclovir: higher MPAG and aciclovir plasma concentrations were observed when mycophenolate mofetil was administered with aciclovir in comparison to the administration of each drug alone.
 The changes in MPAG pharmacokinetics (MPAG increased by 8%) were minimal and are not considered clinically significant.
-Because MPAG plasma concentrations are increased in the presence of renal impairment, as are aciclovir concentrations, the potential exists for the two drugs to compete for tubular secretion and further increases in concentrations of both drugs may occur.
+Because MPAG plasma concentrations are increased in the presence of renal impairment, as are aciclovir concentrations, the potential exists for mycophenolate mofetil and aciclovir, or its prodrugs, e.g. valaciclovir, to compete for tubular secretion and further increases in concentrations of both drugs may occur.
 
 Antacids with magnesium and aluminium hydroxides: absorption of mycophenolate mofetil was decreased when administered with antacids.
 
@@ -18,7 +18,7 @@ However, as efficacy studies were carried out using CellCept combined with cyclo
 
 Ganciclovir: based on the results of a single dose administration study of recommended doses of oral mycophenolate and IV ganciclovir and the known effects of renal impairment on the pharmacokinetics of CellCept (see section 4.2 Posology and method of administration) and ganciclovir, it is anticipated that co-administration of these agents (which compete for mechanisms of renal tubular secretion) will result in increases in MPAG and ganciclovir concentration.
 No substantial alteration of MPA pharmacokinetics are anticipated and CellCept dose adjustment is not required.
-In patients with renal impairment in which CellCept and ganciclovir are co-administered the dose recommendations for ganciclovir should be observed and patients monitored carefully.
+In patients with renal impairment in which CellCept and ganciclovir or its prodrugs, e.g. valganciclovir, are co-administered the dose recommendations for ganciclovir should be observed and patients monitored carefully.
 
 Oral contraceptives: the pharmacokinetics and pharmacodynamics of oral contraceptives were unaffected by coadministration of CellCept (see also section 5.2 Pharmacokinetic properties).
 
@@ -51,7 +51,7 @@ In another study in renal transplant patients, it was shown that the tacrolimus 
 Cholestyramine: following single dose administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4 g TID of cholestyramine for 4 days, there was a 40% reduction in the AUC of MPA.
 
 No substantial alteration of MPA pharmcokinetics are anticipated and CellCept dose adjustment is not required.
-In patients with renal impairment in which CellCept and ganciclovir are co-administered, the dose recommendations for ganciclovir should be observed and patients monitored carefully.
+In patients with renal impairment in which CellCept and ganciclovir or its prodrugs, e.g. valganciclovir, are co-administered, the dose recommendations for ganciclovir should be observed and patients monitored carefully.
 
 Tacrolimus: in renal transplant patients: stable renal transplant patients receiving cyclosporin and CellCept (1 g BID) showed about a 30 % increase in MPA plasma AUC and about a 20% decrease in MPAG plasma AUC when cyclosporin was replaced with tacrolimus.
 

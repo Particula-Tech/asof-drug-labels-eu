@@ -19,8 +19,8 @@ Most (about 87%) of the administered dose is excreted in the urine as MPAG.
 
 At clinically encountered concentrations, MPA and MPAG are not removed by haemodialysis.
 However, at high MPAG plasma concentrations (> 100µg/ml), small amounts of MPAG are removed.
-
 In the early post-transplant period (< 40 days post-transplant), renal, cardiac and hepatic transplant patients had mean MPA AUCs approximately 30% lower and Cmax approximately 40% lower compared to the late post-transplant period (3 – 6 months post-transplant).
+
 Renal impairment:
 In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate < 25ml�min-1�1.73 m-2),) were 28 – 75% higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
 However, the mean single dose MPAG AUC was 3 – 6-fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG.
@@ -62,6 +62,7 @@ Orally administered radiolabelled mycophenolate mofetil results in complete reco
 
 MPA AUC values obtained following administration of 1 g BID intravenous CellCept to renal transplant patients in the early posttransplant phase are comparable to those observed following 1 g BID oral CellCept.
 In hepatic transplant patients, administration of 1 g BID intravenous CellCept followed by 1.5 g BID oral CellCept resulted in MPA AUC values similar to those found in renal transplant patients administered 1 g CellCept BID.
+
 In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate< 25ml�min-1�1.73m-2) were 28 – 75% higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
 However, the mean single dose MPAG AUC was 3 – 6 fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG.
 No data are available for hepatic transplant patients with severe chronic renal impairment.

@@ -16,7 +16,8 @@ The most common opportunistic infections in patients receiving CellCept (2 g or 
 The proportion of patients with CMV viraemia/syndrome was 13.5%.
 
 Children and adolescents (aged 2 to 18 years):
-The type and frequency of adverse drug reactions in a clinical study, which recruited 92 paediatric patients aged 2 to 18 years who were given 600 mg/m2 mycophenolate mofetil orally twice daily, were generally similar to those observed in adult patients given 1 g CellCept twice daily with the exception that paediatric patients had a higher proportion of diarrhoea, sepsis, leucopenia and anaemia.
+The type and frequency of adverse drug reactions in a clinical study, which recruited 92 paediatric patients aged 2 to 18 years who were given 600 mg/m2 mycophenolate mofetil orally twice daily, were generally similar to those observed in adult patients given 1 g CellCept twice daily.
+However, the following treatment-related adverse events were more frequent in the paediatric population, particularly in children under 6 years of age, when compared to adults: diarrhoea, sepsis, leucopenia, anaemia and infection.
 
 Elderly patients (� 65 years):
 Elderly patients (� 65 years) may generally be at increased risk of adverse drug reactions due to immunosuppression.
@@ -60,7 +61,6 @@ The types of adverse drug reactions reported during post-marketing with CellCept
 Additional adverse drug reactions reported during post-marketing are described below.
 
 Gastrointestinal: colitis (including CMV colitis), pancreatitis, isolated cases of intestinal villous atrophy.
-
 Disorders related to immunosuppression: serious life-threatening infections including meningitis, infectious endocarditis, tuberculosis and atypical mycobacterial infection.
 Some cases of agranulocytosis have been reported.
 Neutropenia has been reported in some patients, therefore regular monitoring of patients taking CellCept is advised (see section 4.4 Special warnings and special precuations for use).
