@@ -12,9 +12,9 @@ Voriconazole should be administered with caution to patients with potentially pr
 - Existing symptomatic arrhythmias
 - Concomitant medication that is known to prolong QT interval
 
-Electrolyte disturbances such as hypokalaemia, hypomagnesaemia and hypocalcaemia should be monitored and corrected, if necessary, prior to initiation and during voriconazole therapy (see Section 4.2).
+Electrolyte disturbances such as hypokalaemia, hypomagnesaemia and hypocalcaemia should be monitored and corrected, if necessary, prior to initiation and during voriconazole therapy (see section 4.2).
 A study has been conducted in healthy volunteers which examined the effect on QT interval of single doses of voriconazole up to 4 times the usual daily dose.
-No subject experienced an interval exceeding the potentially clinically relevant threshold of 500 msec (see Section 5.1).
+No subject experienced an interval exceeding the potentially clinically relevant threshold of 500msec (see section 5.1).
 
 Hepatic toxicity: In clinical trials, there have been uncommon cases of serious hepatic reactions during treatment with VFEND (including clinical hepatitis, cholestasis and fulminant hepatic failure, including fatalities).
 Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly haematological malignancy).
@@ -40,23 +40,29 @@ Paediatric use: Safety and effectiveness in paediatric subjects below the age of
 
 Phenytoin (CYP2C9 substrate and potent CYP450 inducer): Careful monitoring of phenytoin levels is recommended when phenytoin is coadministered with voriconazole.
 Concomitant use of voriconazole and phenytoin should be avoided unless the benefit outweighs the risk (see section 4.5).
+
 Rifabutin (CYP450 inducer): Careful monitoring of full blood counts and adverse events to rifabutin (e.g. uveitis) is recommended when rifabutin is coadministered with voriconazole.
 Concomitant use of voriconazole and rifabutin should be avoided unless the benefit outweighs the risk (see section 4.5).
+Methadone (CYP3A4 substrate).
+Frequent monitoring for adverse events and toxicity related to methadone, including QTc prolongation, is recommended when coadministered with voriconazole since methadone levels increased following co-administration of voriconazole.
+Dose reduction of methadone may be needed (see section 4.5).
 
 VFEND tablets contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.
 
-[VFEND 200 mg film-coated tablets]
+[VFEND 200mg film-coated tablets]
 
-(all sentences already above)
+No subject experienced an interval exceeding the potentially clinically relevant threshold of 500 msec (see section 5.1).
 
 [VFEND 200mg powder for solution for infusion]
 
-.
+Cardiovascular: Some azoles, including voriconazole have been associated with QT interval prolongation.
+
+A study has been conducted in healthy volunteers which examined the effect on QT interval of single doses of voriconazole up to four times the usual daily dose.
 
 Infusion-related reactions: Infusion-related reactions, predominantly flushing and nausea, have been observed during administration of the intravenous formulation of voriconazole.
 Depending on the severity of symptoms, consideration should be given to stopping treatment (see section 4.8).
 
-[VFEND 40mg/ml powder for oral suspension.]
+[VFEND 40mg/ml powder for oral suspension]
 
 In addition VFEND has been associated with photosensitivity skin reaction especially during long-term therapy.
 

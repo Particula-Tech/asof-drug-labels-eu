@@ -9,7 +9,7 @@ In reproduction studies, voriconazole was shown to be teratogenic in rats and em
 In the pre and postnatal development study in rats at exposures lower than those obtained in humans with therapeutic doses, voriconazole prolonged the duration of gestation and labour and produced dystocia with consequent maternal mortality and reduced perinatal survival of pups.
 The effects on parturition are probably mediated by species-specific mechanisms, involving reduction of oestradiol levels, and are consistent with those observed with other azole antifungal agents.
 
-[VFEND 200 mg film-coated tablets]
+[VFEND 200mg film-coated tablets]
 
 (all sentences already above)
 
@@ -23,6 +23,6 @@ An impurity, present in SBECD, has been shown to be an alkylating mutagenic agen
 This impurity should be considered a substance with carcinogenic potential in humans.
 In the light of these data the duration of treatment of the intravenous formulation should be no longer than 6 months.
 
-[VFEND 40mg/ml powder for oral suspension.]
+[VFEND 40mg/ml powder for oral suspension]
 
 (all sentences already above)

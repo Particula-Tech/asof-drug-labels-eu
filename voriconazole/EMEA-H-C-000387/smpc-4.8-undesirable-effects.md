@@ -63,7 +63,7 @@ Undesirable effects reported in subjects receiving voriconazole
 
 Visual disturbances
 Voriconazole treatment-related visual disturbances were very common.
-In clinical trials, short-term as well as long-term treatment, approximately 30 % of subjects experienced altered/enhanced visual perception, blurred vision, colour vision change or photophobia.
+In clinical trials, short-term as well as long-term treatment, approximately 30% of subjects experienced altered/enhanced visual perception, blurred vision, colour vision change or photophobia.
 The visual disturbances are transient and fully reversible, with the majority spontaneously resolving within 60 minutes and no clinically significant long-term visual effects were observed.
 There is evidence of attenuation with repeated doses of voriconazole.
 The visual disturbance is generally mild, rarely results in discontinuation and has not been associated with long-term sequelae.
@@ -89,7 +89,7 @@ The majority of abnormal liver function tests either resolved during treatment w
 Voriconazole has been infrequently associated with cases of serious hepatic toxicity in patients with other serious underlying conditions.
 This includes cases of jaundice, and rare cases of hepatitis and hepatic failure leading to death (see section 4.4).
 
-[VFEND 200 mg film-coated tablets]
+[VFEND 200mg film-coated tablets]
 
 | Haemic and lymphatic |  |
 | --- | --- |
@@ -145,11 +145,13 @@ In the table below, since the majority of the studies were of an open nature, al
 | Endocrine |  |
 | Uncommon | Adrenal cortex insufficiency |
 
+If patients develop a rash they should be monitored closely and VFEND discontinued if lesions progress.Photosensitivity reactions have been reported, especially during long-term therapy (see also section 4.4).
+
 Infusion-Related Reactions
 During infusion of the intravenous formulation of voriconazole in healthy subjects, anaphylactoid-type reactions, including flushing, fever, sweating, tachycardia, chest tightness, dyspnoea, faintness, nausea, pruritus and rash have occurred.
 Symptoms appeared immediately upon initiating the infusion (see also section 4.4).
 
-[VFEND 40mg/ml powder for oral suspension.]
+[VFEND 40mg/ml powder for oral suspension]
 
 The most commonly reported adverse reactions were visual disturbances, fever, rash, vomiting, nausea, diarrhoea, headache, peripheral oedema and abdominal pain.
 The severity of the adverse reactions was generally mild to moderate.
@@ -179,8 +181,7 @@ The severity of the adverse reactions was generally mild to moderate.
 | Very common | Peripheral oedema |
 | Common | Hypokalaemia, creatinine increased, hypoglycaemia |
 | Uncommon | BUN increased, albuminuria, hypercholesterolaemia |
-
-Rare Hyperthyroidism, hypothyroidism
+| Rare | Hyperthyroidism, hypothyroidism |
 
 | Musculoskeletal |  |
 | --- | --- |
@@ -206,5 +207,4 @@ Rare Hyperthyroidism, hypothyroidism
 | Rare | Kidney tubular necrosis |
 
 Altered taste perception
-
 In the combined data from three bioequivalence studies using the powder for oral suspension formulation, treatment related taste perversion was recorded in 12 (14%) of subjects.

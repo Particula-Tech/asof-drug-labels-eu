@@ -2,7 +2,7 @@
 
 No special precautions for storage.
 
-[VFEND 200 mg film-coated tablets]
+[VFEND 200mg film-coated tablets]
 
 (all sentences already above)
 
@@ -10,7 +10,7 @@ No special precautions for storage.
 
 Reconstituted concentrate: Store at 2°C-8°C for up to 24 hours (in a refrigerator).
 
-[VFEND 40mg/ml powder for oral suspension.]
+[VFEND 40mg/ml powder for oral suspension]
 
 Powder for oral suspension: Store at 2°C - 8°C (in a refrigerator) before constitution.
 Constituted suspension: Do not store above 30°C, do not refrigerate or freeze.
