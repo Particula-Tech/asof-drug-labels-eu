@@ -45,7 +45,7 @@ When considering the clinical relevance of these kinetics, it is more appropriat
 
 (all sentences already above)
 
-[Humalog-Humaject 100 U/ml, solution for injection]
+[Humalog - HumaJect 100 U/ml, solution for injection]
 
 (all sentences already above)
 
@@ -61,7 +61,7 @@ When considering the clinical relevance of these kinetics, it is more appropriat
 
 (all sentences already above)
 
-[Humalog Pen 100 U/ml, solution for injection]
+[Humalog-Pen 100 U/ml, solution for injection]
 
 (all sentences already above)
 

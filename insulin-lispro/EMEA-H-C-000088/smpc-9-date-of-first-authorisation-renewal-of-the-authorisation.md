@@ -33,7 +33,7 @@
 
 [Humalog Mix50 100 U/ml suspension for injection in vial]
 
-5 December 2001
+(all sentences already above)
 
 [Humalog Mix50 100 U/ml suspension for injection in cartridge]
 
@@ -49,7 +49,7 @@
 
 (all sentences already above)
 
-[Humalog-Humaject 100 U/ml, solution for injection]
+[Humalog - HumaJect 100 U/ml, solution for injection]
 
 26th March 1997 / April 2001
 
@@ -65,7 +65,7 @@
 
 (all sentences already above)
 
-[Humalog Pen 100 U/ml, solution for injection]
+[Humalog-Pen 100 U/ml, solution for injection]
 
 16th June 1997 / April 2001 5 x 3 ml Pens
 

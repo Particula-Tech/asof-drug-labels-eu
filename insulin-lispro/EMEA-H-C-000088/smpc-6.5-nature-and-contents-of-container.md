@@ -1,7 +1,7 @@
 # 6.5 Nature and contents of container
 
-The solution is contained in type I flint glass vials, sealed with butyl or halobutyl stoppers and secured with aluminium seals.
-Dimeticone or silicone emulsion may be used to treat the vial stoppers.
+The solution is contained in Type I flint glass vials, sealed with butyl or halobutyl stoppers and secured with aluminium seals.
+Dimethicone or silicone emulsion may be used to treat the vial stoppers.
 
 1 x 10 ml Humalog vial.
 
@@ -14,8 +14,8 @@ Not all packs may be marketed in every country.
 
 [Humalog 100 U/ml, solution for injection in cartridge]
 
-The solution is contained in type I flint glass cartridges, sealed with butyl or halobutyl disc seals and plunger heads, and are secured with aluminium seals.
-Dimeticone or silicone emulsion may be used to treat the cartridge plungers, and/or the glass cartridges.
+The solution is contained in Type I flint glass cartridges, sealed with butyl or halobutyl disc seals and plunger heads, and are secured with aluminium seals.
+Dimethicone or silicone emulsion may be used to treat the cartridge plungers, and/or the glass cartridges.
 
 5 x 1.5 ml Humalog cartridges for a 1.5 ml pen.
 4 x (5 x 1.5 ml) Humalog cartridges for a 1.5 ml pen.
@@ -27,15 +27,15 @@ Dimeticone or silicone emulsion may be used to treat the cartridge plungers, and
 
 [Humalog Mix25 100 U/ml suspension for injection in vial]
 
-The suspension is contained in type I flint glass vials, sealed with butyl or halobutyl stoppers and secured with aluminium seals.
-Dimeticone or silicone emulsion may have been used to treat the vial stoppers.
+The suspension is contained in Type I flint glass vials, sealed with butyl or halobutyl stoppers and secured with aluminium seals.
+Dimethicone or silicone emulsion may have been used to treat the vial stoppers.
 
 1 x 10 ml Humalog Mix25 vial.
 
 [Humalog Mix25 100 U/ml suspension for injection in cartridge]
 
-The suspension is contained in type I flint glass cartridges, sealed with butyl or halobutyl disc seals and plunger heads and secured with aluminium seals.
-Dimeticone or silicone emulsion may have been used to treat the cartridge plunger, and/or the glass cartridge.
+The suspension is contained in Type I flint glass cartridges, sealed with butyl or halobutyl disc seals and plunger heads and secured with aluminium seals.
+Dimethicone or silicone emulsion may have been used to treat the cartridge plunger, and/or the glass cartridge.
 
 5 x 3 ml Humalog Mix25 cartridges for a 3 ml pen.
 2 x (5 x 3 ml) Humalog Mix25 cartridges for a 3 ml pen.
@@ -51,7 +51,7 @@ Dimeticone or silicone emulsion may have been used to treat the cartridge plunge
 
 [Humalog NPL 100 U/ml suspension for injection in vial]
 
-Dimeticone or silicone emulsion may have been used to treat the vial stopper.
+Dimethicone or silicone emulsion may have been used to treat the vial stopper.
 
 1 x 10 ml Humalog NPL vial.
 
@@ -59,17 +59,17 @@ Dimeticone or silicone emulsion may have been used to treat the vial stopper.
 
 5 x 3 ml Humalog NPL cartridges for a 3 ml pen.
 
-[Humalog-Humaject 100 U/ml, solution for injection]
+[Humalog - HumaJect 100 U/ml, solution for injection]
 
-The solution is contained in type I flint glass cartridges, sealed with butyl or halobutyl disc seals and plunger heads and are secured with aluminium seals.
+The solution is contained in Type I flint glass cartridges, sealed with butyl or halobutyl disc seals and plunger heads and are secured with aluminium seals.
 The 3 ml cartridges are sealed in a prefilled/disposable pen injector, the HumaJect pen.
 Needles are not supplied.
 
-5 X 3 ml Humalog-Humaject pens
+5 X 3 ml Humalog - HumaJect pens
 
 [Humalog Mix25 100 U/ml HumaJect suspension for injection]
 
-The suspension is contained in type I flint glass cartridges, with butyl or halobutyl disc seals and plunger heads and secured with aluminium seals.
+The suspension is contained in Type I flint glass cartridges, with butyl or halobutyl disc seals and plunger heads and secured with aluminium seals.
 The 3 ml cartridges are sealed in a pre-filled/disposable pen injector, called the HumaJect pen.
 Needles are not included.
 
@@ -77,7 +77,7 @@ Needles are not included.
 
 [Humalog Mix50 100 U/ml HumaJect, suspension for injection]
 
-The suspension is contained in type I flint glass cartridges, sealed with butyl or halobutyl disc seals and plunger heads and secured with aluminium seals Dimeticone or silicone emulsion may have been used to treat the cartridge plunger, and/or the glass cartridge.
+The suspension is contained in Type I flint glass cartridges, sealed with butyl or halobutyl disc seals and plunger heads and secured with aluminium seals Dimethicone or silicone emulsion may have been used to treat the cartridge plunger, and/or the glass cartridge.
 The 3 ml cartridges are sealed in a prefilled/disposable pen injector, called the HumaJect pen.
 
 5 x 3 ml Humalog Mix50 100 U/ml HumaJect pens.
@@ -86,9 +86,9 @@ The 3 ml cartridges are sealed in a prefilled/disposable pen injector, called th
 
 5 x 3 ml Humalog NPL 100 U/ml HumaJect pens.
 
-[Humalog Pen 100 U/ml, solution for injection]
+[Humalog-Pen 100 U/ml, solution for injection]
 
-Dimeticone or silicone emulsion may be used to treat the cartridge plunger, and/or the glass cartridge.
+Dimethicone or silicone emulsion may be used to treat the cartridge plunger, and/or the glass cartridge.
 The 3 ml cartridges are sealed in a disposable pen injector.
 
 5 x 3 ml Pens
@@ -96,7 +96,7 @@ The 3 ml cartridges are sealed in a disposable pen injector.
 
 [Humalog Mix25 100 U/ml Pen, suspension for injection]
 
-The suspension is contained in type I flint glass cartridges, sealed with halobutyl disc seals and plunger heads and secured with aluminium seals.
+The suspension is contained in Type I flint glass cartridges, sealed with halobutyl disc seals and plunger heads and secured with aluminium seals.
 The 3 ml cartridges are sealed in a disposable pen injector, called the “Pen”.
 
 5 x 3 ml Humalog Mix25 100 U/ml Pens.

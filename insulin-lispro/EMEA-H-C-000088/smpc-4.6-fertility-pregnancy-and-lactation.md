@@ -1,8 +1,6 @@
 # 4.6 Pregnancy and lactation
 
-Data on a limited number of exposed pregnancies do not indicate any adverse effect of insulin lispro on pregnancy or on the health of the foetus/newborn.
-To date, no relevant epidemiological studies are available.
-Insulin lispro did not induce fertility impairment, embryotoxicity or teratogenicity in animal studies.
+Data on a large number of exposed pregnancies do not indicate any adverse effect of insulin lispro on pregnancy or on the health of the foetus/newborn.
 
 It is essential to maintain good control of the insulin-treated (insulin-dependent or gestational diabetes) patient throughout pregnancy.
 Insulin requirements usually fall during the first trimester and increase during the second and third trimesters.
@@ -33,8 +31,6 @@ Patients with diabetes who are lactating may require adjustments in insulin dose
 
 [Humalog Mix50 100 U/ml suspension for injection in vial]
 
-Data on limited number of exposed pregnancies do not indicate any adverse effect of insulin lispro on pregnancy or on the health of the foetus/newborn.
-
 Patients with diabetes who are lactating may require adjustments in insulin dose, diet, or both.
 
 [Humalog Mix50 100 U/ml suspension for injection in cartridge]
@@ -49,7 +45,7 @@ Patients with diabetes who are lactating may require adjustments in insulin dose
 
 (all sentences already above)
 
-[Humalog-Humaject 100 U/ml, solution for injection]
+[Humalog - HumaJect 100 U/ml, solution for injection]
 
 (all sentences already above)
 
@@ -65,7 +61,7 @@ Patients with diabetes who are lactating may require adjustments in insulin dose
 
 (all sentences already above)
 
-[Humalog Pen 100 U/ml, solution for injection]
+[Humalog-Pen 100 U/ml, solution for injection]
 
 (all sentences already above)
 

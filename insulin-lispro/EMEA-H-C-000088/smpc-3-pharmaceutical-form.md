@@ -40,9 +40,9 @@ Humalog NPL is a white, sterile suspension.
 
 (all sentences already above)
 
-[Humalog-Humaject 100 U/ml, solution for injection]
+[Humalog - HumaJect 100 U/ml, solution for injection]
 
-Humalog-Humaject is a sterile, clear, colourless, aqueous solution.
+Humalog - HumaJect is a sterile, clear, colourless, aqueous solution.
 
 [Humalog Mix25 100 U/ml HumaJect suspension for injection]
 
@@ -56,9 +56,9 @@ Humalog-Humaject is a sterile, clear, colourless, aqueous solution.
 
 (all sentences already above)
 
-[Humalog Pen 100 U/ml, solution for injection]
+[Humalog-Pen 100 U/ml, solution for injection]
 
-Humalog Pen is a sterile, clear, colourless, aqueous solution.
+Humalog-Pen is a sterile, clear, colourless, aqueous solution.
 
 [Humalog Mix25 100 U/ml Pen, suspension for injection]
 

@@ -42,7 +42,7 @@ Store at 2°C - 8°C, (in a refrigerator).
 
 Once in use cartridges may be used for up to 21 days.
 
-[Humalog-Humaject 100 U/ml, solution for injection]
+[Humalog - HumaJect 100 U/ml, solution for injection]
 
 Once in use HumaJect pens may be used for up to 28 days.
 
@@ -58,7 +58,7 @@ Once in use HumaJect pens may be used for up to 28 days.
 
 Once in use HumaJect pens may be used for up to 21 days.
 
-[Humalog Pen 100 U/ml, solution for injection]
+[Humalog-Pen 100 U/ml, solution for injection]
 
 Once in use pens may be used for up to 28 days.
 

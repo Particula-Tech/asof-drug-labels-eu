@@ -44,7 +44,7 @@ EU/1/96/007/007
 
 EU/1/96/007/010
 
-[Humalog-Humaject 100 U/ml, solution for injection]
+[Humalog - HumaJect 100 U/ml, solution for injection]
 
 EU/1/96/007/011
 
@@ -60,7 +60,7 @@ EU/1/96/007/013
 
 EU/1/96/007/014
 
-[Humalog Pen 100 U/ml, solution for injection]
+[Humalog-Pen 100 U/ml, solution for injection]
 
 EU/1/96/007/015 5 x 3 ml Pens
 EU/1/96/007/026 2 x (5 x 3 ml) Pens
