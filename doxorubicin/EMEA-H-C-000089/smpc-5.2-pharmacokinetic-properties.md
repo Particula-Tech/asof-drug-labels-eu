@@ -7,7 +7,6 @@ This allows the Caelyx liposomes to circulate for prolonged periods in the blood
 Pegylated liposomes are small enough (average diameter of approximately 100 nm) to pass intact (extravasate) through defective blood vessels supplying tumours.
 Evidence of penetration of pegylated liposomes from blood vessels and their entry and accumulation in tumours has been seen in mice with C-26 colon carcinoma tumours and in transgenic mice with KS-like lesions.
 The pegylated liposomes also have a low permeability lipid matrix and internal aqueous buffer system that combine to keep doxorubicin hydrochloride encapsulated during liposome residence time in circulation.
-
 The plasma pharmacokinetics of Caelyx in humans differ significantly from those reported in the literature for standard doxorubicin hydrochloride preparations.
 At lower doses (10 mg/m2 – 20 mg/m2) Caelyx displayed linear pharmacokinetics.
 Over the dose range of 10 mg/m2 – 60 mg/m2 Caelyx displayed non-linear pharmacokinetics.
@@ -39,13 +38,12 @@ AIDS-KS patients
 The plasma pharmacokinetics of Caelyx were evaluated in 23 patients with KS who received single doses of 20 mg/m2 administered by a 30-minute infusion.
 The pharmacokinetic parameters of Caelyx (primarily representing pegylated liposomal doxorubicin hydrochloride and low levels of unencapsulated doxorubicin hydrochloride) observed after the 20 mg/m2 doses are presented in
 Table 5.
-
 Table 5.
 Pharmacokinetic Parameters in Caelyx-Treated AIDS-KS Patients
 
 | Mean + Standard Error |  |
 | --- | --- |
 | Parameter | 20 mg/m2 (n=23) |
-| Maximum Plasma Concentration* (µg/ml) Plasma Clearance (l/h/m2) Volume of Distribution (l/m2) AUC (µg/ml�h) �1 half-life (hours) �2 half-life (hours) | 8.34 � 0.49 0.041 � 0.004 2.72 � 0.120 590.00 � 58.7 5.2 � 1.4 55.0 � 4.8 |
+| Maximum Plasma Concentration* (µg/ml) Plasma Clearance (l/h/m2) Volume of Distribution (l/m2) AUC (µg/ml⋅h) λ1 half-life (hours) λ2 half-life (hours) | 8.34 ± 0.49 0.041 ± 0.004 2.72 ± 0.120 590.00 ± 58.7 5.2 ± 1.4 55.0 ± 4.8 |
 
 *Measured at the end of a 30-minute infusion

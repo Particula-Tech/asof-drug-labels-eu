@@ -8,7 +8,7 @@ Breast cancer/Ovarian cancer :
 Caelyx is administered intravenously at a dose of 50 mg/m2 once every 4 weeks for as long as the disease does not progress and the patient continues to tolerate treatment.
 
 For doses < 90 mg: dilute Caelyx in 250 ml 5 % (50 mg/ml) glucose solution for infusion.
-For doses � 90 mg: dilute Caelyx in 500 ml 5 % (50 mg/ml) glucose solution for infusion.
+For doses ≥ 90 mg: dilute Caelyx in 500 ml 5 % (50 mg/ml) glucose solution for infusion.
 To minimize the risk of infusion reactions, the initial dose is administered at a rate no greater than 1 mg/minute.
 If no infusion reaction is observed, subsequent Caelyx infusions may be administered over a 60 minute period.
 
@@ -26,13 +26,13 @@ Continue treatment as needed to maintain a therapeutic response.
 The dose of Caelyx is diluted in 250 ml 5 % (50 mg/ml) glucose solution for infusion and administered by intravenous infusion over 30 minutes.
 
 For all patients:
-If the patient experiences early symptoms or signs of infusion reaction (see 4.4 and 4.8), immediately discontinue the infusion, give appropriate premedications (antihistamine and/or short acting corticosteroid) and restart at a slower rate.
+If the patient experiences early symptoms or signs of infusion reaction (see sections 4.4 and 4.8), immediately discontinue the infusion, give appropriate premedications (antihistamine and/or short acting corticosteroid) and restart at a slower rate.
 
 Do not administer Caelyx as a bolus injection or undiluted solution.
 It is recommended that the Caelyx infusion line be connected through the side port of an intravenous infusion of 5 % (50 mg/ml) glucose to achieve further dilution and minimise the risk of thrombosis and extravasation.
 The infusion may be given through a peripheral vein.
 Do not use with in-line filters.
-Caelyx must not be given by the intramuscular or subcutaneous route (see 6.6).
+Caelyx must not be given by the intramuscular or subcutaneous route (see section 6.6).
 
 To manage adverse events such as palmar-plantar erythrodysesthesia (PPE), stomatitis or haematological toxicity, the dose may be reduced or delayed.
 Guidelines for Caelyx dose modification secondary to these adverse effects are provided in the tables below.
@@ -44,68 +44,73 @@ The table for haematological toxicity (Table 3) provides the schedule followed f
 Dose modification in patients with AIDS-KS is addressed in 4.8.
 Guidelines For Caelyx Dose Modification
 
-| Table 1. PALMAR – PLANTAR ERYTHRODYSESTHESIA |  |  |  |
-| --- | --- | --- | --- |
-|  | Week After Prior Caelyx Dose |  |  |
-| Toxicity Grade At Current Assessment | Week 4 | Week 5 | Week 6 |
-| Grade 1 | Redose unless patient has experienced a previous Grade 3 or 4 skin toxicity, in which case wait an additional week | Redose unless patient has experienced a previous Grade 3 or 4 skin toxicity, in which case wait an additional week | Decrease dose by 25 %; return to 4 week interval |
-| (mild erythema, |  |  |  |
-| swelling, or |  |  |  |
-| desquamation not |  |  |  |
-| interfering with daily |  |  |  |
-| activities) |  |  |  |
-| Grade 2 | Wait an additional week | Wait an additional week | Decrease dose by 25 %; return to 4 week interval |
-| (erythema, |  |  |  |
-| desquamation, or |  |  |  |
-| swelling interfering |  |  |  |
-| with, but not |  |  |  |
-| precluding normal |  |  |  |
-| physical activities; |  |  |  |
-| small blisters or |  |  |  |
-| ulcerations less than |  |  |  |
-| 2 cm in diameter) |  |  |  |
-| Grade 3 | Wait an additional week | Wait an additional week | Withdraw patient |
-| (blistering, ulceration, |  |  |  |
-| or swelling interfering |  |  |  |
-| with walking or |  |  |  |
-| normal daily |  |  |  |
-| activities; cannot wear |  |  |  |
-| regular clothing) |  |  |  |
-| Grade 4 | Wait an additional week | Wait an additional week | Withdraw patient |
-| (diffuse or local |  |  |  |
-| process causing |  |  |  |
-| infectious |  |  |  |
-| complications, or a |  |  |  |
-| bedridden state or |  |  |  |
-| hospitalization) |  |  |  |
-
-| Table 2. STOMATITIS |  |  |  |
-| --- | --- | --- | --- |
-|  | Week after Prior Caelyx Dose |  |  |
-| Toxicity Grade At Current Assessment | 4 | 5 | 6 |
-| Grade 1 | Redose unless patient has experienced a previous Grade 3 or 4 stomatitis in which case wait an additional week | Redose unless patient has experienced a previous Grade 3 or 4 stomatitis in which case wait an additional week | Decrease dose by 25 %; return to 4 week interval or withdraw patient per physician’s assessment |
-| (painless ulcers, |  |  |  |
-| erythema, or mild |  |  |  |
-| soreness) |  |  |  |
-| Grade 2 | Wait an additional week | Wait an additional week | Decrease dose by 25 %; return to 4 week interval or withdraw patient per physician’s assessment |
-| (painful erythema, |  |  |  |
-| oedema, or ulcers, but |  |  |  |
-| can eat) |  |  |  |
-| Grade 3 | Wait an additional week | Wait an additional week | Withdraw patient |
-| (painful erythema, |  |  |  |
-| edema, or ulcers, but |  |  |  |
-| cannot eat) |  |  |  |
-| Grade 4 | Wait an additional week | Wait an additional week | Withdraw patient |
-| (requires parenteral or |  |  |  |
-| enteral support) |  |  |  |
+Table 1. PALMAR – PLANTAR ERYTHRODYSESTHESIA
+Week After Prior Caelyx Dose
+Toxicity Grade At Week 4 Week 5 Week 6
+Current Assessment
+Grade 1 Redose unless Redose unless Decrease dose by
+(mild erythema, patient has patient has 25 %; return to
+swelling, or experienced a experienced a 4 week interval
+desquamation not previous Grade 3 or previous Grade 3 or
+interfering with daily 4 skin toxicity, in 4 skin toxicity, in
+activities) which case wait an which case wait an
+additional week additional week
+Grade 2 Wait an additional Wait an additional Decrease dose by
+(erythema, week week 25 %; return to
+desquamation, or 4 week interval
+swelling interfering
+with, but not
+precluding normal
+physical activities;
+small blisters or
+ulcerations less than
+2 cm in diameter)
+Grade 3 Wait an additional Wait an additional Withdraw patient
+(blistering, ulceration, week week
+or swelling interfering
+with walking or
+normal daily
+activities; cannot wear
+regular clothing)
+Grade 4 Wait an additional Wait an additional Withdraw patient
+(diffuse or local week week
+process causing
+infectious
+complications, or a
+bedridden state or
+hospitalization)
+Table 2. STOMATITIS
+Week after Prior Caelyx Dose
+Toxicity Grade At 4 5 6
+Current Assessment
+Grade 1 Redose unless Redose unless Decrease dose by
+(painless ulcers, patient has patient has 25 %; return to
+erythema, or mild experienced a experienced a 4 week interval or
+soreness) previous Grade 3 or previous Grade 3 or withdraw patient per
+4 stomatitis in which 4 stomatitis in which physician’s
+case wait an case wait an assessment
+additional week additional week
+Grade 2 Wait an additional Wait an additional Decrease dose by
+(painful erythema, week week 25 %; return to
+oedema, or ulcers, but 4 week interval or
+can eat) withdraw patient per
+physician’s
+assessment
+Grade 3 Wait an additional Wait an additional Withdraw patient
+(painful erythema, week week
+edema, or ulcers, but
+cannot eat)
+Grade 4 Wait an additional Wait an additional Withdraw patient
+(requires parenteral or week week
+enteral support)
 
 | Table 3. HAEMATOLOGICAL TOXICITY (ANC OR PLATELETS) – MANAGEMENT OF PATIENTS WITH BREAST OR OVARIAN CANCER |  |  |  |
 | --- | --- | --- | --- |
 | GRADE | ANC | PLATELETS | MODIFICATION |
 | Grade 1 | 1,500 – 1,900 | 75,000 – 150,000 | Resume treatment with no dose reduction. |
-| Grade 2 | 1,000 – < 1,500 | 50,000 – < 75,000 | Wait until ANC � 1,500 and platelets � 75,000; redose with no dose reduction. |
-| Grade 3 | 500 – < 1,000 | 25,000 – < 50,000 | Wait until ANC � 1,500 and platelets � 75,000; redose with no dose reduction. |
-| Grade 4 | < 500 | < 25,000 | Wait until ANC � 1,500 and platelets � 75,000; decrease dose by 25 % or continue full dose with growth factor support. |
+| Grade 2 | 1,000 – < 1,500 | 50,000 – < 75,000 | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; redose with no dose reduction. |
+| Grade 3 | 500 – < 1,000 | 25,000 – < 50,000 | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; redose with no dose reduction. |
+| Grade 4 | < 500 | < 25,000 | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; decrease dose by 25 % or continue full dose with growth factor support. |
 
 Patients with impaired hepatic function: Caelyx pharmacokinetics determined in a small number of patients with elevated total bilirubin levels do not differ from patients with normal total bilirubin; however, until further experience is gained, the Caelyx dosage in patients with impaired hepatic function should be reduced based on the experience from the breast and ovarian clinical trial programs as follows: at initiation of therapy, if the bilirubin is between 1.2 - 3.0 mg/dl, the first dose is reduced by 25 %.
 If the bilirubin is > 3.0 mg/dl, the first dose is reduced by 50 %.

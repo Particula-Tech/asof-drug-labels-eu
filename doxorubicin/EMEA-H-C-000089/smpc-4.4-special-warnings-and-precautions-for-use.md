@@ -24,14 +24,15 @@ Caution must be observed in patients who have received other anthracyclines.
 The total dose of doxorubicin hydrochloride must also take into account any previous (or concomitant) therapy with cardiotoxic compounds such as other anthracyclines/anthraquinones or e.g. 5-fluorouracil.
 Cardiac toxicity also may occur at cumulative anthracycline doses lower than 450 mg/m2 in patients with prior mediastinal irradiation or in those receiving concurrent cyclophosphamide therapy.
 
-The cardiac safety profile for the dosing schedule recommended for both breast and ovarian cancer (50 mg/m2) is similar to the 20 mg/m2 profile in patients with AIDS-KS (see 4.8).
+The cardiac safety profile for the dosing schedule recommended for both breast and ovarian cancer (50 mg/m2) is similar to the 20 mg/m2 profile in patients with AIDS-KS (see section 4.8).
 
 Myelosuppression: Many patients treated with Caelyx have baseline myelosuppression due to such factors as their pre-existing HIV disease or numerous concomitant or previous medications, or tumours involving bone marrow.
 In the pivotal trial in patients with ovarian cancer treated at a dose of 50 mg/m2, myelosuppression was generally mild to moderate, reversible, and was not associated with episodes of neutropaenic infection or sepsis.
 Moreover, in a controlled clinical trial of Caelyx vs. topotecan, the incidence of treatment related sepsis was substantially less in the Caelyx-treated ovarian cancer patients as compared to the topotecan treatment group.
 A similar low incidence of myelosuppression was seen in patients with metastatic breast cancer receiving Caelyx in a first-line clinical trial.
-In contrast to the experience in patients with breast cancer or ovarian cancer, myelosuppression appears to be the dose-limiting adverse event in patients with AIDS-KS (see 4.8).
+In contrast to the experience in patients with breast cancer or ovarian cancer, myelosuppression appears to be the dose-limiting adverse event in patients with AIDS-KS (see section 4.8).
 Because of the potential for bone marrow suppression, periodic blood counts must be performed frequently during the course of Caelyx therapy, and at a minimum, prior to each dose of Caelyx.
+
 Persistent severe myelosuppression, may result in superinfection or haemorrhage.
 
 In controlled clinical studies in patients with AIDS-KS against a bleomycin/vincristine regimen, opportunistic infections were apparently more frequent during treatment with Caelyx.
@@ -42,12 +43,12 @@ Therefore, any patient treated with doxorubicin should be kept under haematologi
 
 Given the difference in pharmacokinetic profiles and dosing schedules, Caelyx should not be used interchangeably with other formulations of doxorubicin hydrochloride.
 
-Infusion-associated reactions: Serious and sometimes life-threatening infusion reactions, which are characterised by allergic-like or anaphylactoid-like reactions, with symptoms including asthma, flushing, urticarial rash, chest pain, fever, hypertension, tachycardia, pruritus, sweating, shortness of breath, facial oedema, chills, back pain, tightness in the chest and throat and/or hypotension may occur within minutes of starting the infusion of Caelyx (see 4.8).
+Infusion-associated reactions: Serious and sometimes life-threatening infusion reactions, which are characterised by allergic-like or anaphylactoid-like reactions, with symptoms including asthma, flushing, urticarial rash, chest pain, fever, hypertension, tachycardia, pruritus, sweating, shortness of breath, facial oedema, chills, back pain, tightness in the chest and throat and/or hypotension may occur within minutes of starting the infusion of Caelyx.
+Very rarely, convulsions also have been observed in relation to infusion reactions (see section 4.8).
 Temporarily stopping the infusion usually resolves these symptoms without further therapy.
-However, medications to treat these symptoms (e.g., antihistamines, corticosteroids, and adrenaline), as well as emergency equipment should be available for immediate use.
+However, medications to treat these symptoms (e.g., antihistamines, corticosteroids, adrenaline, and anticonvulsants), as well as emergency equipment should be available for immediate use.
 In most patients treatment can be resumed after all symptoms have resolved, without recurrence.
 Infusion reactions rarely recur after the first treatment cycle.
-To minimise the risk of infusion reactions, the initial dose should be administered at a rate no greater than 1 mg/minute
-(see 4.2).
+To minimise the risk of infusion reactions, the initial dose should be administered at a rate no greater than 1 mg/minute (see section 4.2).
 
 Diabetic patients: Please note that each vial of Caelyx contains sucrose and the dose is administered in 5 % (50 mg/ml) glucose solution for infusion.
