@@ -47,10 +47,7 @@ Table 1: Summary of Disease Outcomes for VELCADE monotherapy in refractory and r
 | Overall Response Rate (CR+PR+MR) (95% CI) | 35% ( 28.0, 41.9) |
 | CR+PR Complete Remissiona CRIF-CRIF+ Partial Response Minimal Response Stable Disease | 27% 10% 4% 6% 18% 7% 24% |
 | Time to Event Analyses | n=202 |
-
-Median Duration of Response (CR or PR or MR) (days) (95% CI) 365 (173, NE)
-Median Time to Progression - All Patients (days) (95% CI) 210 (154, 281)
-Median Overall Survival - All Patients (days) (95% CI) 533 (419, NE)
+| Median Duration of Response (CR or PR or MR) (days) (95% CI) Median Time to Progression - All Patients (days) (95% CI) Median Overall Survival - All Patients (days) (95% CI) | 365 (173, NE) 210 (154, 281) 533 (419, NE) |
 
 a CRimmunofixation negative + CRimmunofixation positive
 Note: Responses subsequent to the use of dexamethasone are excluded.

@@ -1,8 +1,5 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Millennium Pharmaceuticals, Ltd.
-Building 3, Chiswick Park,
-566 Chiswick High Street,
-London,
-W4 5YA,
-United Kingdom.
+JANSSEN-CILAG INTERNATIONAL NV
+Turnhoutseweg, 30, B-2340 Beerse
+Belgium
