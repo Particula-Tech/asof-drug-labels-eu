@@ -3,7 +3,6 @@
 Absorption: Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85%.
 Following oral administration, the mean time (tmax) to maximal serum concentrations (Cmax) is about an hour.
 At therapeutic dose levels i.e. 4 mg/kg/day (as two 12-hourly doses), Cmax is approximately 1.5-1.9 µg/ml.
-
 The 150 mg tablet is bioequivalent and dose proportional to the 300 mg tablet with respect to AUC∞, Cmax, and tmax.
 
 Co-administration of lamivudine with food results in a delay of tmax and a lower C max (decreased by 47 %).
@@ -41,25 +40,11 @@ Administration of co-trimoxazole with lamivudine in patients with renal impairme
 Pharmacokinetics in children: In general, lamivudine pharmacokinetics in paediatric patients is similar to adults.
 However, absolute bioavailability (approximately 55-65 %) was reduced in paediatric patients below 12 years of age.
 In addition, systemic clearance values were greater in younger paediatric patients and decreased with age, approaching adult values around 12 years of age.
-Due to these differences, the recommended dose for children from three months to 12 years is 8 mg/kg/day, which will achieve similar adult and paediatric exposure (average AUC approximately 5000 ng.h/ml).
+Due to these differences, the recommended dose for children from three months to 12 years is 8 mg/kg/day, which will achieve similar adult and paediatric exposure (average AUC approximately 5000ng.h/ml).
+
 There are limited pharmacokinetic data for patients less than three months of age.
 In neonates one week of age, lamivudine oral clearance was reduced when compared to paediatric patients and is likely to be due to immature renal function and variable absorption.
 Therefore to achieve similar adult and paediatric exposure, the recommended dose for neonates is 4 mg/kg/day.
 Glomerular filtration estimates suggests that to achieve similar adult and paediatric exposure, the recommended dose for children aged six weeks and older could be 8 mg/kg/day.
 
 Pharmacokinetics in pregnancy: Following oral administration, lamivudine pharmacokinetics in late-pregnancy were similar to non-pregnant women.
-
-[Epivir 10 mg/ml oral solution]
-
-Absorption: Lamivudine is well absorbed from the gastrointestinal tract, and the bioavailability of oral lamivudine in adults is normally between 80 and 85 %.
-
-Distribution: From intravenous studies, the mean volume of distribution is 1.3l/kg.
-The mean systemic clearance of lamivudine is approximately 0.32l/h/kg, with predominantly renal clearance (> 70%) via the organic cationic transport system.
-
-Limited data shows lamivudine penetrates the central nervous system and reaches the cerebro-spinal fluid (CSF).
-
-Metabolism: Lamivudine is predominately cleared unchanged by renal excretion .
-
-A recommended dosage regimen for patients with creatinine clearance below 50 ml/min is shown in the dosage section (4.2.
-
-In addition, systemic clearance values were greater in younger paediatric patients and decreased with age approaching adult values around 12 years of age.

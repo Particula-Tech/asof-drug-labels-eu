@@ -24,10 +24,10 @@ Very rare( less than 0.01%): peripheral neuropathy or paraesthesiae
 
 Respiratory tract
 Common (greater than 1%): cough, nasal symptoms
+
 Skin
 Common (greater than 1%): rash, alopecia
 
 Other
 Common (greater than 1%): fatigue, malaise, fever, insomnia
-
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see 4.4 Special warnings and special precautions for use).
