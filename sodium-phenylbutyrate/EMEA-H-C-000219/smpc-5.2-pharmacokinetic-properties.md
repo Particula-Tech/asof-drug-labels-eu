@@ -2,6 +2,7 @@
 
 Phenylbutyrate is known to be oxidised to phenylacetate which is enzymatically conjugated with glutamine to form phenylacetylglutamine in the liver and kidney.
 Phenylacetate is also hydrolysed by esterases in liver and blood.
+
 Plasma and urine concentrations of phenylbutyrate and its metabolites have been obtained from fasting normal adults who received a single dose of 5 g of sodium phenylbutyrate and from patients with urea cycle disorders, haemoglobinopathies and cirrhosis receiving single and repeated oral doses up to 20 g/day (uncontrolled studies).
 The disposition of phenylbutyrate and its metabolites has also been studied in cancer patients following intravenous infusion of sodium phenylbutyrate (up to 2 g/m²) or phenylacetate.
 
@@ -9,6 +10,7 @@ Absorption
 AMMONAPS tablet is rapidly absorbed under fasting conditions: after a single dose of 5 g of sodium phenylbutyrate, measurable plasma levels of phenylbutyrate are detected 15 minutes after dosing; the mean time to peak concentration is 1.35 hour and the mean peak concentration is 218 µg/ml.
 The elimination half-life was estimated to be 0.8 hours.
 The effect of food on absorption is unknown.
+
 Distribution
 The volume of distribution of phenylbutyrate is 0.2 l/kg.
 

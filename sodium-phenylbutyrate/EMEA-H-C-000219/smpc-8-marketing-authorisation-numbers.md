@@ -1,1 +1,7 @@
 # 8. NUMBER(S) IN THE COMMUNITY REGISTER OF MEDICINAL PRODUCTS
+
+EU/1/99/120/001 (250 tablets) – EU/1/99/120/002 (500 tablets)
+
+[AMMONAPS 940 mg/g granules]
+
+EU/1/99/120/003 (266 g granules) – EU/1/99/120/004 (532 g granules)

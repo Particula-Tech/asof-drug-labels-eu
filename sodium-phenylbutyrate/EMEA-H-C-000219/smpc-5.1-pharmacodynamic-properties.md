@@ -3,7 +3,7 @@
 Pharmacotherapeutic group: alimentary tract and metabolism product, ATC code : A16A X03.
 
 Sodium phenylbutyrate is a pro-drug and is rapidly metabolised to phenylacetate.
-Phenylacetate is a metabolically active compound that conjugates with glutamine via acetylation to form phenylacetyl-glutamine which is then excreted by the kidneys.
+Phenylacetate is a metabolically active compound that conjugates with glutamine via acetylation to form phenylacetylglutamine which is then excreted by the kidneys.
 On a molar basis phenylacetylglutamine is comparable to urea (each containing 2 moles of nitrogen) and therefore provides an alternate vehicle for waste nitrogen excretion.
 Based on studies of phenylacetylglutamine excretion in patients with urea cycle disorders it is possible to estimate that, for each gram of sodium phenylbutyrate administered, between 0.12 and 0.15 g of phenylacetylglutamine nitrogen are produced.
 
