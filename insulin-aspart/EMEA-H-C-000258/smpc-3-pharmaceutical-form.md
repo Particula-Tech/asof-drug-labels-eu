@@ -2,4 +2,4 @@
 
 Solution for injection.
 
-Clear, colourless, aqueous, solution.
+Clear, colourless, aqueous, solution
