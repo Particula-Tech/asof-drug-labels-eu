@@ -4,7 +4,7 @@
 
 [Micardis 40 mg tablets]
 
-16th December, 1998
+16 December, 1998
 
 [Micardis 80 mg tablets]
 

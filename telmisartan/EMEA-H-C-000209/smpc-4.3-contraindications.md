@@ -1,4 +1,4 @@
-# 4.3 Contra-indications
+# 4.3 Contraindications
 
 - Hypersensitivity to the active substance or to any of the excipients
 - Second and third trimesters of pregnancy and lactation (see 4.6 Pregnancy and lactation)

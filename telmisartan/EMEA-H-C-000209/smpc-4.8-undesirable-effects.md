@@ -4,9 +4,9 @@ Undesirable effects have usually been mild and transient in nature and have only
 The incidence of undesirable effects was not dose related and showed no correlation with gender, age or race of the patients.
 
 The overall incidence of adverse events reported with telmisartan was usually comparable to placebo in placebo-controlled trials involving 1,041 patients treated with various doses of telmisartan (20-160 mg) for up to 12 weeks.
-Gastro-intestinal adverse events apparently occured more frequently than with placebo.
-
+Gastro-intestinal adverse events apparently occurred more frequently than with placebo.
 In the following table, adverse events are presented irrespective of their causal relationship.
+
 Adverse events with an incidence of 1 % or more in telmisartan-treated patients from placebo-controlled studies are shown in the following table:
 
 Telmisartan Placebo
@@ -37,6 +37,7 @@ In addition, the following adverse events occurred in more than 1 % of the 3,445
 Causal association of these events with telmisartan could not be established.
 
 As with other angiotensin II antagonists rare cases of angioedema, urticaria and other related events have been reported.
+
 Laboratory findings
 No significant differences in changes in laboratory test parameters were observed in clinical studies with telmisartan.
 

@@ -1,4 +1,4 @@
-# 5.2 Pharmacokinetic Properties
+# 5.2 Pharmacokinetic properties
 
 Absorption:
 Absorption of telmisartan is rapid although the amount absorbed varies.

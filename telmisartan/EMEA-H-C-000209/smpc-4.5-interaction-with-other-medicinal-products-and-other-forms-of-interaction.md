@@ -8,12 +8,12 @@ For digoxin a 20 % increase in median plasma digoxin trough concentration has be
 
 Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors.
 Very rare cases have also been reported with angiotensin II receptor antagonists.
-Therefore,serum lithium level monitoring is advisable during concomitant use.
+Therefore, serum lithium level monitoring is advisable during concomitant use.
 
 [Micardis 40 mg tablets]
 
-Therefore, serum lithium level monitoring is advisable during concomitant use.
+(all sentences already above)
 
 [Micardis 80 mg tablets]
 
-(all sentences already above)
+Therefore,serum lithium level monitoring is advisable during concomitant use.

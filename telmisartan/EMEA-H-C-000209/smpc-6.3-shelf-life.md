@@ -1,10 +1,10 @@
 # 6.3 Shelf life
 
-2 years.
+3 years
 
 [Micardis 40 mg tablets]
 
-3 years.
+4 years
 
 [Micardis 80 mg tablets]
 

@@ -24,7 +24,7 @@ As with other vasodilators, special caution is indicated in patients suffering f
 
 Hyperkalaemia:
 During treatment with other medicinal products that affect the renin-angiotensin-aldosterone system hyperkalaemia may occur, especially in the presence of renal impairment and/or heart failure.
-While this is not documented with telmisartan, adequate monitoring of serum potassium in patients at risk is recommended
+While this is not documented with telmisartan, adequate monitoring of serum potassium in patients at risk is recommended.
 
 Based on experience with the use of other medicinal products that affect the renin-angiotensin system, concomitant use with potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium or other medicinal products that may increase the potassium level (heparin, etc.) may lead to an increase in serum potassium and should therefore be co-administered cautiously with Micardis.
 
@@ -34,24 +34,22 @@ Patients with biliary obstructive disorders or severe hepatic insufficiency can 
 Therefore, telmisartan should not be given to these patients (see 4.3 Contra-indications).
 Telmisartan should be used only with caution in patients with mild to moderate hepatic impairment.
 
-Active gastric or duodenal ulcer or gastrointestinal pathologies :
+Active gastric or duodenal ulcer or gastrointestinal pathologies:
 Gastrointestinal adverse events apparently occurred more frequently than with placebo.
 Gastrointestinal bleedings have been reported rarely in clinical trials and this has occurred mainly in patients with baseline gastrointestinal disease.
 Therefore caution should be exercised when administering telmisartan to this group of patients.
-Sorbitol:
-A recommended daily dose of Micardis 20 mg tablets contains 84,5 mg sorbitol.
-Micardis is therefore unsuitable for patients with hereditary fructose intolerance.
 
+Sorbitol:
+A recommended daily dose of Micardis 20 mg tablets contains 84.5 mg sorbitol.
+Micardis is therefore unsuitable for patients with hereditary fructose intolerance.
 Other:
 As observed for angiotensin converting enzyme inhibitors, telmisartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population.
 
-As with any antihypertensive agent, excessive reduction blood pressure in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
+As with any antihypertensive agent, excessive reduction of blood pressure in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
 
 [Micardis 40 mg tablets]
 
 A recommended daily dose of Micardis 40 mg tablets contains 169 mg sorbitol.
-
-As with any antihypertensive agent, excessive reduction of blood pressure in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
 
 [Micardis 80 mg tablets]
 
