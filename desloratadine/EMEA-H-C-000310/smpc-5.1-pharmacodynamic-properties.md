@@ -17,6 +17,7 @@ No clinically relevant changes in desloratadine plasma concentrations were obser
 Desloratadine does not readily penetrate the central nervous system.
 At the recommended dose of 5 mg daily, there was no excess incidence of somnolence as compared to placebo.
 Azomyr given at a single daily dose of 7.5 mg did not affect psychomotor performance in clinical trials.
+In a single dose study performed in adults, desloratadine 5 mg did not affect standard measures of flight performance including exacerbation of subjective sleepiness or tasks related to flying.
 In clinical pharmacology trials, co-administration with alcohol did not increase the alcohol-induced impairment in performance or increase in sleepiness.
 No significant differences were found in the psychomotor test results between desloratadine and placebo groups, whether administered alone or with alcohol.
 
