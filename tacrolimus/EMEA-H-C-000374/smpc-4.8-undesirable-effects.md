@@ -16,9 +16,7 @@ Very common: Application site burning, application site pruritus
 
 Common: Application site warmth, application site erythema, application site pain,
 
-application site irritation, application site paraesthesia, application site rash
-
-Infections and infestations
+application site irritation, application site paraesthesia, application site rash Infections and infestations
 
 Common: Herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes
 
@@ -39,3 +37,9 @@ Metabolism and nutrition disorders
 Common: Alcohol intolerance (facial flushing or skin irritation after consumption of an
 
 alcoholic beverage)
+
+[Protopic 0.1% ointment]
+
+application site irritation, application site paraesthesia, application site rash
+
+Infections and infestations

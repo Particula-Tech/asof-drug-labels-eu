@@ -59,10 +59,11 @@ Table 3 Efficacy at week 3
 
 Hydrocortisone Tacrolimus 0.03% Tacrolimus 0.03%
 acetate 1% Once daily (N=207) Twice daily (N=210)
+Twice daily
+(N=207)
 
-|  | Twice daily (N=207) |  |  |
-| --- | --- | --- | --- |
 | Median mEASI Percentage Decrease (Primary Endpoint)§ | 47.2% | 70.0% | 78.7% |
+| --- | --- | --- | --- |
 | Improvement ≥ 90% in Physician’s Global Evaluation | 13.6% | 27.8% | 36.7% |
 
 § higher values = greater improvement
@@ -81,14 +82,6 @@ The three most common adverse events reported were flu-like symptoms (cold, comm
 No adverse events previously unreported in shorter duration and/or previous studies were observed in this long-term study.
 
 [Protopic 0.1% ointment]
-
-Topical corticosteroid Tacrolimus 0.1%
-regimen§ (N=487)
-
-|  | (N=485) |  |
-| --- | --- | --- |
-| Response rate of ≥ 60% improvement in mEASI (Primary Endpoint)§§ | 50.8% | 71.6% |
-| Improvement ≥ 90% in Physician’s Global Evaluation | 28.5% | 47.7% |
 
 The primary endpoint was the area-under-the-curve (AUC) of the mEASI as a percentage of baseline averaged over the treatment period.The results of this multicentre, double-blind randomised trial showed that tacrolimus ointment, 0.03% and 0.1%, is significantly more effective (p<0.001 for both) than 1% hydrocortisone acetate ointment (Table 2).
 

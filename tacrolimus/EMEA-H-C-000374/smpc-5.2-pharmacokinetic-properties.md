@@ -14,6 +14,8 @@ There was no evidence of systemic accumulation of tacrolimus in patients (adults
 
 Distribution
 As systemic exposure is low with tacrolimus ointment, the high binding of tacrolimus (> 98.8%) to plasma proteins is considered not to be clinically relevant.
+Following topical application of tacrolimus ointment, tacrolimus is selectively delivered to the skin with minimal diffusion into the systemic circulation.
+
 Metabolism
 Metabolism of tacrolimus by human skin was not detectable.
 Systemically available tacrolimus is extensively metabolised in the liver via CYP3A4.

@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Protopic should only be prescribed by dermatologists and physicians with extensive experience in the treatment of atopic dermatitis with immunomodulating therapy.
+Protopic should be prescribed by physicians with experience in the treatment of atopic dermatitis.
 
 Protopic ointment should be applied as a thin layer to affected areas of the skin.
 Protopic ointment may be used on any part of the body, including face, neck and flexure areas, except on mucous membranes.
@@ -24,4 +24,5 @@ An attempt should be made to reduce the frequency of application or to use the l
 Use in elderly (65 years of age and above)
 Specific studies have not been conducted in elderly patients.
 However, the clinical experience available in this patient population has not shown the necessity for any dosage adjustment.
+
 As clinical efficacy studies were performed with abrupt cessation of treatment, no information is available on whether tapering of the dosage would reduce recurrence rate.
