@@ -1,7 +1,6 @@
 # 4.8 Undesirable effects
 
 The following adverse reactions (with incidence>1%) were reported in patients treated with the recommended dosing regimen in clinical trials:
-
 Cardiovascular: Headache (12.8%), Flushing (10.4%), Dizziness (1.2%)
 Digestive: Dyspepsia (4.6%)
 Respiratory: Nasal congestion (1.1%)

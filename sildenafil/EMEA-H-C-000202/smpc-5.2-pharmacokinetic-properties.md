@@ -30,7 +30,6 @@ Elimination
 The total body clearance of sildenafil is 41 l/h with a resultant terminal phase half life of 3-5 h. After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the faeces (approximately 80% of administered oral dose) and to a lesser extent in the urine (approximately 13% of administered oral dose).
 
 Pharmacokinetics in special patient groups
-
 Elderly
 Healthy elderly volunteers (65 years or over) had a reduced clearance of sildenafil, resulting in approximately 90% higher plasma concentrations of sildenafil and the active N-desmethyl metabolite compared to those seen in healthy younger volunteers (18-45 years).
 Due to age-differences in plasma protein binding, the corresponding increase in free sildenafil plasma concentration was approximately 40%.
