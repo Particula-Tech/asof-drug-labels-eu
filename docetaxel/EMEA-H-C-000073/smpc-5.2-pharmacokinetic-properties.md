@@ -5,7 +5,7 @@ The kinetic profile of docetaxel is dose independent and consistent with a three
 The late phase is due, in part, to a relatively slow efflux of docetaxel from the peripheral compartment.
 Following the administration of a 100 mg/m2 dose given as a one-hour infusion a mean peak plasma level of 3.7 µg/ml was obtained with a corresponding AUC of 4.6 h.µg/ml.
 Mean values for total body clearance and steady-state volume of distribution were 21 l/h/m2 and 113 l, respectively.
-Interindividual variation in total body clearance was approximately 50%.
+Inter individual variation in total body clearance was approximately 50%.
 Docetaxel is more than 95% bound to plasma proteins.
 
 A study of 14C-docetaxel has been conducted in three cancer patients.
@@ -17,3 +17,6 @@ Pharmacokinetic parameters estimated by the model were very close to those estim
 The pharmacokinetics of docetaxel were not altered by the age or sex of the patient.
 In a small number of patients (n=23) with clinical chemistry data suggestive of mild to moderate liver function impairment (ALT, AST ≥1.5 times the ULN associated with alkaline phosphatase ≥2.5 times the ULN), total clearance was lowered by 27% on average (see «Posology and method of administration» section).
 Docetaxel clearance was not modified in patients with mild to moderate fluid retention and there are no data available in patients with severe fluid retention.
+
+When used in combination, docetaxel does not influence the clearance of doxorubicin and the plasma levels of doxorubicinol (a doxorubicin metabolite).
+On the other hand, the clearance of docetaxel was increased while the efficacy is maintained.

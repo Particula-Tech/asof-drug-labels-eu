@@ -1,5 +1,7 @@
 # 4.1 Therapeutic indications
 
+TAXOTERE (docetaxel) in combination with doxorubicin is indicated for the treatment of patients with locally advanced or metastatic breast cancer who have not previously received cytotoxic therapy for this condition.
+
 TAXOTERE (docetaxel) monotherapy is indicated for the treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic therapy.
 Previous chemotherapy should have included an anthracycline or an alkylating agent.
 

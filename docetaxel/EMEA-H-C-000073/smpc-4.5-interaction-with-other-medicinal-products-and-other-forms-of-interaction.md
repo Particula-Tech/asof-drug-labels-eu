@@ -9,3 +9,6 @@ Docetaxel is highly protein bound (>95%).
 Although the possible in vivo interaction of docetaxel with concomitantly administered medication has not been investigated formally, in vitro interactions with tightly protein-bound drugs such as erythromycin, diphenhydramine, propranolol, propafenone, phenytoin, salicylate, sulfamethoxazole and sodium valproate did not affect protein binding of docetaxel.
 In addition, dexamethasone did not affect protein binding of docetaxel.
 Docetaxel did not influence the binding of digitoxin.
+
+In the doxorubicin/docetaxel combination, the clearance of docetaxel was increased
+(see « Pharmacokinetic properties »).
