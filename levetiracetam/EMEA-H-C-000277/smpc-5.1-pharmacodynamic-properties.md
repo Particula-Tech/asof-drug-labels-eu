@@ -7,6 +7,7 @@ Mechanism of action
 
 The mechanism of action of levetiracetam is unknown but appears to be unrelated to the mechanisms of current drugs.
 In vitro and in vivo experiments suggest that levetiracetam does not alter basic cell characteristics and normal neurotransmission.
+
 Pharmacodynamic effects
 
 Levetiracetam induces seizure protection in a broad range of animal models of partial and primarily generalised seizures without having a pro-convulsant effect.

@@ -42,8 +42,8 @@ In vitro, levetiracetam and its primary metabolite have been shown not to inhibi
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 In human hepatocytes in culture, levetiracetam did not cause enzyme induction.
 Therefore, the interaction of Keppra with other substances, or vice versa, is unlikely.
-Elimination
 
+Elimination
 The plasma half-life in adults was 7±1 hours and did not vary either with dose, route of administration or repeated administration.
 The mean total body clearance was 0.96 ml/min/kg.
 
