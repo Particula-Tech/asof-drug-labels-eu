@@ -1,0 +1,16 @@
+{
+  "active_substance": "insulin glargine",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000284",
+  "eu_number": "EU/1/00/134",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2000-06-09",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lantus",
+  "molecule": "insulin-glargine",
+  "molecule_name": "INSULIN GLARGINE",
+  "name": "Lantus",
+  "register_name": "Lantus",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h134.htm"
+}
