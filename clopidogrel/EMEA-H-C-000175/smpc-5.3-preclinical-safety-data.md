@@ -2,7 +2,7 @@
 
 During preclinical studies in rat and baboon, the most frequently observed effects were liver changes.
 These occurred at doses representing at least 25 times the exposure seen in humans receiving the clinical dose of 75 mg/day and were a consequence of an effect on hepatic metabolising enzymes.
-No effect on hepatic metabolising enzymes were observed in humans receiving clopidogrel at the therapeutic dose.
+No effect on hepatic metabolising enzymes was observed in humans receiving clopidogrel at the therapeutic dose.
 
 At very high doses, a poor gastric tolerability (gastritis, gastric erosions and/or vomiting) of clopidogrel was also reported in rat and baboon.
 
