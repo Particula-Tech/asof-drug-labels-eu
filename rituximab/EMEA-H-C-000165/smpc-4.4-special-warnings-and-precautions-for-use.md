@@ -1,6 +1,6 @@
 # 4.4 Special warnings and special precautions for use
 
-Patients with a high number (>50,000 mm3) of circulating malignant cells or high tumour burden, who may be at higher risk of especially severe cytokine release syndrome, should only be treated with extreme caution and when other therapeutic alternatives have been exhausted.
+Patients with a high tumour burden or with a high number(≥ 25,000 /-mm3) ) of circulating malignant cells , who may be at higher risk of especially severe cytokine release syndrome, should only be treated with extreme caution and when other therapeutic alternatives have been exhausted.
 These patients should be very closely monitored throughout the first infusion.
 Consideration should be given to the use of a reduced infusion rate for the first infusion in these patients.
 
@@ -24,8 +24,7 @@ Clinical manifestations of anaphylaxis may appear similar to clinical manifestat
 Reactions attributed to hypersensitivity have been reported less frequently than those attributed to cytokine release.
 
 Since hypotension may occur during MABTHERA infusion, consideration should be given to withholding anti-hypertensive medications 12 hours prior to the MABTHERA infusion.
-
-Angina pectoris, or cardiac arrythmias, heart failure or myocardial infarction have occured in patients treated with MABTHERA.
+Angina pectoris, or cardiac arrhythmias, heart failure or myocardial infarction have occured in patients treated with MABTHERA.
 Therefore patients with a history of cardiac disease and/or cardiotoxic chemotherapy should be monitored closely.
 
 Although MABTHERA is not myelosuppressive, caution should be exercised when considering treatment of patients with neutrophils <1.5 x 109/l and/or platelet counts <75 x 109/l , as clinical experience in this population is limited.
@@ -38,3 +37,7 @@ Do not administer the prepared infusion solutions as an intravenous push or bolu
 Paediatric Use
 
 The safety and efficacy of MABTHERA in children have not been established.
+
+[MABTHERA 500 mg]
+
+Patients with a high tumour burden or with a high number(≥ 25,000 /-mm3) of circulating malignant cells , who may be at higher risk of especially severe cytokine release syndrome, should only be treated with extreme caution and when other therapeutic alternatives have been exhausted.

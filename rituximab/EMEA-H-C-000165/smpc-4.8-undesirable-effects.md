@@ -22,30 +22,36 @@ A single occurrence of transient aplastic anaemia (pure red cell aplasia) and in
 
 Other Adverse Reactions
 
-Pulmonary adverse reaction, including severe bronchoconstriction and rarely fatalities from respiratory failure, have been reported with MABTHERA therapy.
-
 Anaphylaxis has been reported in patients treated with MABTHERA (see Section 4.4).
-
-Severe bullous skin reactions, including fatal cases of toxic epidermal necrolysis, have been reported rarely.
 
 Although MABTHERA induces B-cell depletion and can be associated with decreased serum immunoglobulins, the incidence of infection does not appear to be greater than expected in this patient population, and serious or opportunistic infections were considerably less than reported with conventional chemotherapy.
 During treatment and up to one year following therapy, approximately 17% and 16%, respectively, of patients developed infections which were usually common, non opportunistic and mild.
 
-Severe cardiac events, including heart failure and myocardial infarction have been observed, mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and are mostly associated with infusion-related reactions.
-
 Additional adverse events which occurred in ≥ 1% of patients observed in clinical trials are listed below.
 
 Body as a Whole⎯asthenia, abdominal pain, back pain, chest pain, malaise, abdominal enlargement, pain at infusion site;
-Cardiovascular System⎯hypertension, bradycardia, tachycardia, arrythmia, postural hypotension;
-Digestive System⎯diarrhea, dyspepsia, anorexia;
+Cardiovascular System⎯hypertension, bradycardia, tachycardia, arrythmia, postural hypotension; Digestive System⎯diarrhea, dyspepsia, anorexia;
 Haemic and Lymphatic System⎯ lymphadenopathy;
 Metabolic and Nutritional disorders⎯hyperglycemia, peripheral edema, LDH increase, hypocalcemia;
 Musculo-Skeletal System⎯arthralgia, myalgia, pain, hypertonia;
-Nervous System⎯dizziness, anxiety, paresthesia, hypesthesia, agitation, insomnia, nervousness;
-Respiratory System⎯cough increase, sinusitis, bronchitis, respiratory disease;
-Skin and Appendages⎯night sweats, sweating, herpes simplex, herpes zoster; Special Senses⎯lacrimation disorder, conjunctivitis, taste perversion.
+Nervous System⎯dizziness, anxiety, paresthesia, hypesthesia, agitation, insomnia, nervousness; Respiratory System⎯cough increase, sinusitis, bronchitis, respiratory disease; bronchiolitis obliterans Skin and Appendages⎯night sweats, sweating, herpes simplex, herpes zoster;
+Special Senses⎯lacrimation disorder, conjunctivitis, taste perversion.
 
 Additional severe adverse events occurring in < 1% of patients are listed below.
-
 Haemic and Lymphatic System⎯coagulation disorder;
 Respiratory System--asthma, lung disorder.
+
+As part of the continuing post-marketing surveillance of MABTHERA safety, the following serious adverse reactions have been observed:
+
+Additional cases of severe infusion-related reactions have been reported during post-marketing use of MABTHERA.
+
+Cardiovascular System: Severe cardiac events, including heart failure and myocardial infarction have been observed, mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and are mostly associated with infusion-related reactions.
+
+Respiratory System: Pulmonary adverse reaction, including severe bronchoconstriction and rarely fatalities from respiratory failure, have been reported with MABTHERA therapy.
+
+Skin and Appendages: Severe bullous skin reactions, including fatal cases of toxic epidermal necrolysis, have been reported rarely.
+
+Nervous System: Cases of cranial neuropathy with or without peripheral neuropathy have been reported rarely.
+Signs and symptoms of cranial neuropathy, such as severe vision loss, hearing loss, loss of other senses and facial nerve palsy, occurred at variuos times up to several months after completion of MABTHERA therapy.
+
+Body as a whole: Serum-sickness-like reactions have been reported rarely.

@@ -16,7 +16,6 @@ If the same severe adverse reactions occur for a second time, the decision to st
 
 Mild or moderate infusion-related reactions (section 4.8) usually respond to a reduction in the rate of infusion.
 The infusion rate may be increased upon improvement of symptoms.
-
 First infusion: The prepared MABTHERA solution should be administered by intravenous infusion through a dedicated line.
 The recommended initial rate for infusion is 50 mg/hr; after the first 30 minutes, it can be escalated in 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
 
@@ -24,7 +23,3 @@ Subsequent infusions: Subsequent doses of MABTHERA can be infused at an initial 
 
 Retreatment following relapse: Patients who have responded to MABTHERA initially have been treated again with MABTHERA.
 Response rate seems to be comparable in these retreated patients.
-
-[MABTHERA 500 mg]
-
-If the same severe adverse reactions occur for a second time,the decision to stop the treatment should be seriously considered on a case by case basis.
