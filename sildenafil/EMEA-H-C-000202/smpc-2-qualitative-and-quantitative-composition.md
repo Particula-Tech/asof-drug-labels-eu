@@ -5,8 +5,8 @@ For excipients, see 6.1.
 
 [VIAGRA 50 mg film-coated tablets]
 
-Each tablet contains 50 mg of sildenafil as the citrate.
+Each tablet contains 50 mg of sildenafil, as the citrate.
 
 [VIAGRA 100 mg film-coated tablets]
 
-Each tablet contains 100 mg of sildenafil as the citrate.
+Each tablet contains 100 mg of sildenafil, as the citrate.

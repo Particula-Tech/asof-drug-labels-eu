@@ -1,11 +1,11 @@
 # 4.4 Special warnings and special precautions for use
 
 A medical history and physical examination should be undertaken to diagnose erectile dysfunction and determine potential underlying causes, before pharmacological treatment is considered.
+
 Prior to initiating any treatment for erectile dysfunction, physicians should consider the cardiovascular status of their patients, since there is a degree of cardiac risk associated with sexual activity.
 Sildenafil has vasodilator properties, resulting in mild and transient decreases in blood pressure (see Section 5.1 Pharmacodynamic properties).
 Prior to prescribing sildenafil, physicians should carefully consider whether their patients with certain underlying conditions could be adversely affected by such vasodilatory effects, especially in combination with sexual activity.
 Patients with increased susceptibility to vasodilators include those with left ventricular outflow obstruction (e.g., aortic stenosis, hypertrophic obstructive cardiomyopathy), or those with the rare syndrome of multiple system atrophy manifesting as severely impaired autonomic control of blood pressure.
-
 VIAGRA potentiates the hypotensive effect of nitrates (see Section 4.3 Contra-indications)
 
 Serious cardiovascular events, including myocardial infarction, angina pectoris intermediate syndrome, sudden cardiac death, ventricular arrhythmia, cerebrovascular haemorrhage, transient ischemic attack, hypertension and hypotension have been reported post-marketing in temporal association with the use of VIAGRA.

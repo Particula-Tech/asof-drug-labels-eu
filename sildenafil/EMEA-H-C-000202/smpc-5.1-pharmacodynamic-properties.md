@@ -5,6 +5,7 @@ ATC Code: G04B E03
 
 Sildenafil is an oral therapy for erectile dysfunction.
 In the natural setting, i.e. with sexual stimulation, it restores impaired erectile function by increasing blood flow to the penis.
+
 The physiological mechanism responsible for erection of the penis involves the release of nitric oxide (NO) in the corpus cavernosum during sexual stimulation.
 Nitric oxide then activates the enzyme guanylate cyclase, which results in increased levels of cyclic guanosine monophosphate (cGMP), producing smooth muscle relaxation in the corpus cavernosum and allowing inflow of blood.
 
@@ -14,9 +15,11 @@ Sildenafil has no direct relaxant effect on isolated human corpus cavernosum but
 When the NO/cGMP pathway is activated, as occurs with sexual stimulation, inhibition of PDE5 by sildenafil results in increased corpus cavernosum levels of cGMP.
 Therefore sexual stimulation is required in order for sildenafil to produce its intended beneficial pharmacological effects.
 
-Studies in vitro have shown that sildenafil has between 80 and 10,000-fold greater selectivity for PDE5 than for other phosphodiesterase isoforms (PDE’s 1,2,3 and 4).
-In particular, sildenafil has greater than 4,000-fold selectivity for PDE5 over PDE3, the cAMP-specific phosphodiesterase isoform involved in the control of cardiac contractility.
+Studies in vitro have shown that sildenafil is selective for PDE5, involved in the erection process.
+Its effect is more potent on PDE5 than on other known phosphodiesterases.
 There is a 10-fold selectivity over PDE6 which is involved in the phototransduction pathway in the retina.
+At maximum recommended doses, there is a 80-fold selectivity over PDE1, and over 700-fold over PDE2, 3, 4, 7, 8, 9, 10 and 11.
+In particular, sildenafil has greater than 4,000-fold selectivity for PDE5 over PDE3, the cAMP-specific phosphodiesterase isoform involved in the control of cardiac contractility.
 
 Two clinical studies were specifically designed to assess the time window after dosing during which sildenafil could produce an erection in response to sexual stimulation.
 In a penile plesthysmography (RigiScan) study of fasted patients, the median time to onset for those who obtained erections of 60 % rigidity (sufficient for sexual intercourse) was 25 minutes (range 12-37 minutes) on sildenafil.
@@ -31,6 +34,8 @@ Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no c
 Mild and transient differences in colour discrimination (blue/green) were detected in some subjects using the Farnsworth-Munsell 100 hue test at 1 hour following a 100 mg dose, with no effects evident after 2 hours post-dose.
 The postulated mechanism for this change in colour discrimination is related to inhibition of PDE6, which is involved in the phototransduction cascade of the retina.
 Sildenafil has no effect on visual acuity or contrast sensitivity.
+In a small size placebo-controlled study of patients with documented early age-related macular degeneration (n=9), sildenafil (single dose, 100mg) demonstrated no significant changes in visual tests conducted (visual acuity, Amsler grid, colour discrimination simulated traffic light, Humphrey perimeter and photostress).
+
 There was no effect on sperm motility or morphology after single 100 mg oral doses of sildenafil in healthy volunteers.
 
 Further information on clinical trials

@@ -12,9 +12,9 @@ When sildenafil is taken with food, the rate of absorption is reduced with a mea
 Distribution
 
 The mean steady state volume of distribution (Vd) for sildenafil is 105 l, indicating distribution into the tissues.
-Sildenafil and its major circulating N-desmethyl metabolite are both approximately 96 % bound to plasma proteins.
+After a single oral dose of 100 mg, the mean maximum total plasma concentration of sildenafil is approximately 440 ng/ml (CV 40%).
+Since sildenafil (and its major circulating N-desmethyl metabolite) is 96 % bound to plasma proteins, this results in the mean maximum free plasma concentration for sildenafil of 18 ng/ml (38 nM).
 Protein binding is independent of total drug concentrations.
-
 In healthy volunteers receiving sildenafil (100 mg single dose), less than 0.0002 % (average 188 ng) of the administered dose was present in ejaculate 90 minutes after dosing.
 
 Metabolism
