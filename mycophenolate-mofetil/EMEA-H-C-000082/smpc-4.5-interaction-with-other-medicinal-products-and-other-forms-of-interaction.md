@@ -9,7 +9,9 @@ cholestyramine: following single dose administration of 1.5 g of mycophenolate m
 
 cyclosporin A: cyclosporin A pharmacokinetics were unaffected by mycophenolate mofetil.
 
-ganciclovir: no pharmacokinetic interaction was observed between mycophenolate mofetil and intravenous ganciclovir.
+ganciclovir: Based on the results of a single dose administration study of recommended doses of oral mycophenolate and iv ganciclovir and the known effects of renal impairment on the pharmacokinetics of MMF (see Section 4.4 Special warnings and precaution for use) and ganciclovir, it is anticipated that coadministration of these agents (which compete for mechanisms of renal tubular secretion) will result in increases in MPAG and ganciclovir concentration.
+No substantial alteration of MPA pharmacokinetics are anticipated and MMF dose adjustment is not required.
+In patients with renal impairment in which MMF and ganciclovir are coadministered the dose recommendations for ganciclovir should be observed and patients monitored carefully.
 
 oral contraceptives: no pharmacokinetic interaction was observed between mycophenolate mofetil and 1mg norethisterone/35µg ethinyloestradiol.
 This single dose study demonstrates the lack of a gross pharmacokinetic interaction, but cannot exclude the possibility of changes in the pharmacokinetics of the oral contraceptive under long term dosing conditions with CellCept which might adversely affect the efficacy of the oral contraceptive.
@@ -18,5 +20,12 @@ trimethoprim/sulphamethoxazole: no effect on the bioavailability of MPA was obse
 
 other interactions: co-administration of probenecid with mycophenolate mofetil in monkeys raises plasma AUC of MPAG by 3-fold.
 Thus, other drugs known to undergo renal tubular secretion may compete with MPAG and thereby raise plasma concentrations of MPAG or the other drug undergoing tubular secretion.
-Single dose studies of CellCept with ganciclovir and trimethoprim/ sulphamethoxazole did not reveal a pharmacokinetic interaction between either of these agents and CellCept.
+Single dose studies of CellCept with trimethoprim/ sulphamethoxazole did not reveal a pharmacokinetic interaction between either of these agents and CellCept.
 All these types of compounds operate through inhibition of nucleoside synthesis and therefore one cannot exclude a clinical interaction between them.
+
+[CellCept 500 mg tablets]
+
+ganciclovir .
+Based on the results of a single dose administration study of recommended doses of oral mycophenolate and iv ganciclovir and the known effects of renal impairment on the pharmacokinetics of MMF (see Section 4.4 Special warnings and precaution for use) and ganciclovir, it is anticipated that coadministration of these agents (which compete for mechanisms of renal tubular secretion) will result in increases in MPAG and ganciclovir concentration.
+
+Single dose studies of CellCept with ganciclovir and trimethoprim/ sulphamethoxazole did not reveal a pharmacokinetic interaction between either of these agents and CellCept.

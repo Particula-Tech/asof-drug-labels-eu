@@ -9,9 +9,8 @@ In a female fertility and reproduction study conducted in rats, oral doses of 4.
 The systemic exposure at this dose was approximately 0.5 times the clinical exposure at the recommended clinical dose of 2 g per day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g per day for cardiac transplant patients.
 No effects on fertility or reproductive parameters were evident in the dams or in the subsequent generation.
 
-In teratology studies in rats and rabbits, foetal resorptions and malformations occurred in rats at
-6 mg/kg/day (including anophthalmia, agnathia, and hydrocephaly) and in rabbits at 90 mg/kg/day (including cardiovascular and renal anomalies, such as ectopia cordis and ectopic kidneys, and diaphragmatic and umbilical hernia), in the absence of maternal toxicity.
-The systemic exposure at these levels are approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g per day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g per day for cardiac transplant patients..
+In teratology studies in rats and rabbits, foetal resorptions and malformations occurred in rats at 6 mg/kg/day (including anophthalmia, agnathia, and hydrocephaly) and in rabbits at 90 mg/kg/day (including cardiovascular and renal anomalies, such as ectopia cordis and ectopic kidneys, and diaphragmatic and umbilical hernia), in the absence of maternal toxicity.
+The systemic exposure at these levels are approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g per day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g per day for cardiac transplant patients.
 
 Refer to section 4.6 Pregnancy and lactation.
 
@@ -24,3 +23,6 @@ The nonclinical toxicity profile of mycophenolate mofetil appears to be consiste
 [CellCept 500 mg tablets]
 
 The systemic exposure at this dose was approximately 0.5 times the clinical exposure at the recommended clinical dose of 2 g per day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g per day for cardiac transplant patients.No effects on fertility or reproductive parameters were evident in the dams or in the subsequent generation.
+
+In teratology studies in rats and rabbits, foetal resorptions and malformations occurred in rats at
+6 mg/kg/day (including anophthalmia, agnathia, and hydrocephaly) and in rabbits at 90 mg/kg/day (including cardiovascular and renal anomalies, such as ectopia cordis and ectopic kidneys, and diaphragmatic and umbilical hernia), in the absence of maternal toxicity.

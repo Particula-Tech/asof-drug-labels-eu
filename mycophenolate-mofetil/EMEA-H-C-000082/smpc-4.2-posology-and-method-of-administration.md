@@ -17,9 +17,10 @@ No data are available for paediatric cardiac transplant patients
 Use in elderly: the recommended dose of 1.0 g administered twice a day for renal transplant patients and 1.5 g twice a day for cardiac transplant patients is appropriate for elderly patients.
 This recommendation is based on limited numbers of elderly patients treated with CellCept in the pivotal renal (7% n=73) and cardiac (7% n=20) transplant trials.
 Patients in this age group may generally be at increased risk of adverse events compared to younger individuals; this is similarly true for patients receiving CellCept as part of a combination immunosuppressive regimen (see section 4.8 Undesirable effects).
+
 Use in renal impairment: in renal transplant patients with severe chronic renal impairment (glomerular filtration rate < 25 ml/min/1.73 m2), outside of the immediate post-transplant period, doses greater than 1 g administered twice a day should be avoided.
 These patients should also be carefully observed.
-No dose adjustments are needed in patients experiencing delayed renal graft function post-operatively (see section 5.2 Pharmacokinetic properties ).
+No dose adjustments are needed in patients experiencing delayed renal graft function post-operatively (see section 5.2 Pharmacokinetic propertie).
 
 No data are available for cardiac transplant patients with severe chronic renal impairment.
 
@@ -36,8 +37,5 @@ Renal transplant rejection does not lead to changes in MPA pharmacokinetics requ
 Similarly, there is no basis for adjustment of dose following cardiac transplant rejection.
 
 [CellCept 500 mg tablets]
-
-In renal transplant, patients receiving 2 g per day of CellCept had an overall better safety profile than patients receiving
-3 g per day.
 
 No dose adjustments are needed in patients experiencing delayed renal graft function post-operatively (see section 5.2 Pharmacokinetic properties).

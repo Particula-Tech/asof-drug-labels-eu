@@ -10,10 +10,10 @@ MPA is metabolised principally by glucuronyl transferase to form the phenolic gl
 
 As a result of enterohepatic recirculation, secondary increases in plasma MPA concentration are usually observed at approximately 6 - 12 hours post-dose.
 A reduction in the AUC of MPA of approximately 40% is associated with the co-administration of cholestyramine (4 g TID), indicating that there is a significant amount of enterohepatic recirculation.
-
 Negligible amount of drug is excreted as MPA (< 1% of dose) in the urine.
 Orally administered radiolabelled mycophenolate mofetil resulted in complete recovery of the administered dose; with 93% of the administered dose recovered in the urine and 6% recovered in the faeces.
 Most (about 87%) of the administered dose is excreted in the urine as MPAG.
+
 The mean bioavailability of oral mycophenolate mofetil, based on MPA AUC, was 94% relative to IV mycophenolate mofetil .
 
 Food had no effect on the extent of absorption (MPA AUC) of mycophenolate mofetil when administered at doses of 1.5 g BID to renal transplant patients.
@@ -24,7 +24,6 @@ Immediately post-transplant (< 40 days), mean MPA AUC and Cmax are approximately
 In a single dose study (6 subjects per group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate < 25 ml/min/1.73 m2) were 28 - 75% higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
 However, the mean single dose MPAG AUC was 3 - 6 fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG.
 Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied.
-
 No data are available for cardiac transplant patients with severe chronic renal impairment.
 
 In patients with delayed graft function post-transplant, mean MPA AUC0-12 was comparable to that seen in post-transplant patients without delayed graft function.
