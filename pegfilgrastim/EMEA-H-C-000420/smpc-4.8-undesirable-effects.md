@@ -11,6 +11,12 @@ In some cases, symptoms have recurred with rechallenge, suggesting a causal rela
 Reversible, mild to moderate elevations in uric acid, alkaline phosphatase and lactate dehydrogenase, with no associated clinical effects, occurred in 7%, 10% and 20% respectively of patients receiving Neulasta following cytotoxic chemotherapy.
 Nausea was observed in healthy volunteers (11%) and < 1% of patients receiving chemotherapy.
 
+Common but generally asymptomatic cases of splenomegaly and very rare cases of splenic rupture have been reported in healthy donors and patients following administration of granulocyte-colony stimulating factors (G-CSFs) (see Section 4.4).
+
+Rare cases of thrombocytopenia have been reported.
+
+Very rare cases of Sweet’s syndrome have been reported, although in some cases underlying haematological malignancies may play a role.
+
 Very common (> 10%) and common (> 1%, < 10%) undesirable effects in clinical studies were:
 
 | Body system | Undesirable effects |
