@@ -1,0 +1,16 @@
+{
+  "active_substance": "insulin human",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000201",
+  "eu_number": "EU/1/97/030",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "1997-02-21",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/insuman",
+  "molecule": "insulin-human",
+  "molecule_name": "INSULIN HUMAN",
+  "name": "Insuman",
+  "register_name": "Insuman",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h030.htm"
+}
