@@ -1,0 +1,3 @@
+# 10. DATE OF REVISION OF THE TEXT
+
+- 12 -
