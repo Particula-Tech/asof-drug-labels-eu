@@ -22,15 +22,20 @@ In responding patients, the alternative strategies for continued treatment are:
 � Maintenance: Additional infusions of 5 mg/kg at 2 and 6 weeks after the initial dose, followed by infusions every 8 weeks or
 � Readministration: Infusion of 5 mg/kg if signs and symptoms of the disease recur (see ‘Readministration’ below and section 4.4).
 
-Comparative data on the benefit / risk of these alternative strategies are lacking.
-
-Fistulising Crohn’s disease
+Fistulising, active Crohn’s disease
 An initial 5 mg/kg infusion given over a 2-hour period is to be followed with additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion.
-In fistulising Crohn’s disease, long-term efficacy of repeated administration has not been established.
+If a patient does not respond after these 3 doses, no additional treatment with infliximab should be given.
+
+In responding patients, the strategies for continued treatment are:
+
+� Additional infusions of 5 mg/kg every 8 weeks or
+� Readministration if signs and symptoms of the disease recur followed by infusions of 5 mg/kg every 8 weeks (see ‘Readministration’ below and section 4.4).
+
+In Crohn’s disease, experience with readministration if signs and symptoms of disease recur is limited and comparative data on the benefit / risk of the alternative strategies for continued treatment are lacking.
 
 Ankylosing spondylitis
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 6 to 8 weeks.
-If a patient does not respond by 6 weeks (i.e. after 2 doses), no additional treatment with infliximab should be provided.
+If a patient does not respond by 6 weeks (i.e. after 2 doses), no additional treatment with infliximab should be given.
 
 Readministration for Crohn’s disease and rheumatoid arthritis
 If the signs and symptoms of disease recur, Remicade can be readministered within 16 weeks following the last infusion.

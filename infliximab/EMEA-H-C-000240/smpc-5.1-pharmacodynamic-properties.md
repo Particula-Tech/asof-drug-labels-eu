@@ -98,8 +98,8 @@ Three hundred and thirty-five patients (58%) responding to the 5 mg/kg infusion 
 
 At week 30, a significantly greater proportion of patients in the combined infliximab maintenance treatment group (42%) achieved clinical remission, compared with patients in the placebo maintenance group (21%).
 Median time to loss of response was 46 weeks in the combined infliximab maintenance treatment group vs. 19 weeks in the placebo maintenance group (p<0.001).
-Similar results were obtained in the subgroup analyses of the population defined in the indication (see section 4.1).
-
+Similar results were obtained in the subgroup analyses of the population defined in the indication
+(see section 4.1).
 Improvements in quality of life measures were seen for both the IBDQ and SF-36 scores in the infliximab maintenance groups compared with the placebo maintenance group at week 30 (p<0.001).
 
 The safety and efficacy were also assessed in a randomised, double-blinded, placebo-controlled study in 94 patients with fistulising Crohn’s disease who had fistulae that were of at least 3 months’ duration.
@@ -115,6 +115,17 @@ Sixty-eight percent (21/31) of infliximab-treated patients receiving a 5 mg/kg d
 The median time to onset of response in the infliximab-treated group was 2 weeks.
 The median duration of response was 12 weeks.
 Additionally, closure of all fistulae was achieved in 55% of infliximab-treated patients compared with 13% of placebo-treated patients (p = 0.001).
+
+The safety and efficacy of repeated infusions with infliximab in patients with fistulising Crohn’s disease were studied in a 1-year trial.
+A total of 306 patients received 3 doses of infliximab 5 mg/kg at week 0,2 and 6.
+At baseline, 87% of the patients had perianal fistulae, 14% had abdominal fistulae, 9% had rectovaginal fistulae.
+The median CDAI score was 180.
+One-hundred and ninety-five patients responding to the 3 doses (for definition of response see description of primary endpoint for the trial above) were randomised at week 14 to receive either placebo or 5 mg/kg infliximab every 8 weeks through week 46.
+A significantly longer time to loss of response was seen in the infliximab maintenance group compared to the placebo maintenance group (p<0.001).
+Median time to loss of response was >40 weeks in the infliximab group compared with 14 weeks in the placebo group.
+Most patients had a loss of response due to increase in medication for Crohn’s disease and not because of a <50% reduction in number of draining fistulas.
+At week 54, the infliximab group showed greater improvement in CDAI score from baseline compared with placebo (p=0.04).
+There was no significant difference between placebo and infliximab for the proportion of patients with sustained closure of all fistulas through week 54, for symptoms such as proctalgia, abscesses and urinary tract infection or for number of newly developed fistulas during treatment.
 
 Ankylosing spondylitis
 Efficacy and safety were studied in a double-blind, placebo-controlled investigator initiated, multicenter study evaluating infliximab in 70 patients with active ankylosing spondylitis (disease activity [Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) score > 4] and pain [NRS score >4]).

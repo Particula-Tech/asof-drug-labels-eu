@@ -8,10 +8,14 @@ If acute infusion reactions occur, the infusion must be interrupted immediately.
 Emergency equipment, such as adrenaline, antihistamines, corticosteroids and an artificial airway must be available.
 Patients may be pretreated with e.g., an antihistamine, hydrocortisone and/or paracetamol to prevent mild and transient effects.
 
-Antibodies against infliximab may develop and may cause serious allergic reactions.
-Patients who discontinue immunosuppressants prior to or during Remicade treatment are at greater risk of developing these antibodies (see section 4.8: “Immunogenicity”).
-These antibodies can not always be detected in serum samples.
-If serious reactions occur, symptomatic treatment must be given and further Remicade infusions must not be administered.
+Antibodies to infliximab may develop and have been associated with an increased frequency of infusion reactions.
+A low proportion of the infusion reactions was serious allergic reactions.
+In Crohn's disease patients, an association between development of antibodies to infliximab and reduced duration of response has also been observed.
+Concomitant administration of immunomodulators has been associated with lower incidence of antibodies to infliximab and a reduction in the frequency of infusion reactions.
+The effect of concomitant immunomodulator therapy was more profound in episodically treated patients than in patients given maintenance therapy.
+Patients who discontinue immunosuppressants prior to or during Remicade treatment are at greater risk of developing these antibodies.
+Antibodies to infliximab can not always be detected in serum samples.
+If serious reactions occur, symptomatic treatment must be given and further Remicade infusions must not be administered (see section 4.8: "Immunogenicity").
 
 A delayed hypersensitivity reaction has been observed in a significant number of patients with
 Crohn’s disease (25%) who were retreated with infliximab following a 2 to 4 year period without infliximab treatment.
@@ -29,7 +33,6 @@ Tumour necrosis factor alpha (TNF�) mediates inflammation and modulates cellul
 Experimental data show that TNF� is essential for the clearing of intracellular infections.
 Clinical experience shows that host defence against infection is compromised in some patients treated with infliximab.
 It should be noted that suppression of TNF� may also mask symptoms of infection such as fever.
-
 Opportunistic infections and other infections including sepsis have been reported in patients treated with infliximab; some of these infections have been fatal.
 
 Cases of active tuberculosis including miliary tuberculosis and tuberculosis with extrapulmonary location have been reported in patients treated with Remicade.
@@ -44,10 +47,13 @@ If active tuberculosis is diagnosed, Remicade therapy must not be initiated (see
 If inactive (‘latent’) tuberculosis is diagnosed, prophylactic anti-tuberculosis therapy must be started before the initiation of Remicade, and in accordance with local recommendations.
 In this situation, the benefit/ risk balance of Remicade therapy should be very carefully considered.
 
+Patients with fistulising Crohn’s disease with acute suppurative fistulas should not initiate Remicade therapy until a source for possible infection, specifically abscess, has been excluded (see section 4.3).
+
 All patients should be informed to seek medical advice if signs / symptoms suggestive of tuberculosis (e.g. persistent cough, wasting / weight loss, low-grade fever) appear during or after Remicade treatment.
 
 Concurrent administration of TNF-alpha inhibitor and anakinra
-Concurrent administration of etanercept (another agent that inhibits TNF�) and anakinra (a recombinant, non-glycosylated form of the human interleukin-1 receptor antagonist) has been associated with an increased risk of serious infections, an increased risk of neutropenia and no additional benefit compared to these medicinal products alone.
+Concurrent administration of etanercept (another agent that inhibits TNF�) and anakinra
+(a recombinant, non-glycosylated form of the human interleukin-1 receptor antagonist) has been associated with an increased risk of serious infections, an increased risk of neutropenia and no additional benefit compared to these medicinal products alone.
 The safety and efficacy of anakinra used in combination with infliximab has not been established.
 Therefore, combination of infliximab and anakinra is not recommended.
 
@@ -60,12 +66,12 @@ Infliximab and other agents that inhibit TNF� have been associated in rare cas
 In patients with pre-existing or recent onset of central nervous system demyelinating disorders, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
 
 Malignancies and lymphoproliferative disorders
-It is unknown if exposure to infliximab can increase the risk of developing these disorders (see section 4.8).
+It is unknown if exposure to infliximab can increase the risk of developing these disorders
+(see section 4.8).
 
 Heart failure
 Remicade should be used with caution in patients with mild heart failure (NYHA class I/II).
 Patients should be closely monitored and Remicade must not be continued in patients who develop new or worsening symptoms of heart failure (see sections 4.3 and 4.8).
-
 Others
 Treatment with Remicade has not been studied in children 0-17 years with rheumatoid arthritis or Crohn’s disease.
 Until safety and efficacy data in children are available, such treatment is to be avoided.

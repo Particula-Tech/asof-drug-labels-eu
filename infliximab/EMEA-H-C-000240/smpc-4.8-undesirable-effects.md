@@ -5,6 +5,7 @@ ADRs are listed in Table 1 by system organ class and frequency (common > 1/100, 
 Frequency is based on the excess incidence of the ADR compared with placebo in pooled data from clinical studies involving 227 patients receiving placebo and 1442 patients receiving infliximab (primarily rheumatoid arthritis and Crohn’s disease patients).
 Infusion-related reactions were the most common ADRs reported.
 Infusion-related reactions (dyspnoea, urticaria and headache) were the most common cause for discontinuation.
+
 Table 1
 Undesirable Effects in Clinical Studies
 
@@ -40,7 +41,7 @@ Rare: Hepatitis
 Skin and appendages
 Common: Rash, pruritus, urticaria, increased sweating, dry skin Uncommon: Fungal dermatitis/ onychomycosis, eczema/seborrhoea, hordeolum, bullous eruption, furunculosis, periorbital oedema, hyperkeratosis, rosacea, verruca, abnormal skin pigmentation/coloration, alopoecia
 Musculo-skeletal system
-Uncommon: Myalgia, arthralgia
+Uncommon: Myalgia, arthralgia, back pain
 Urinary system
 Uncommon: Urinary tract infection, pyelonephritis
 Reproductive
@@ -81,6 +82,7 @@ Discontinuation of treatment occurred in 2% of patients, and all patients recove
 Infusion-related effects in patients were more likely to occur during the first infusion (7%) and were less likely on subsequent infusions (second, 6%; third, 6%; and fourth, 5%; etc.).
 
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with Remicade administration.
+
 Delayed hypersensitivity: In a clinical study of 41 patients retreated with infliximab following a 2 to 4 year period without infliximab treatment, 10 patients experienced undesirable effects manifesting 3 to 12 days following infusion.
 In 6 of these patients the effects were considered serious.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash.
@@ -92,10 +94,12 @@ In a 1-year trial with repeated infusions in patients with Crohn's disease (ACCE
 
 Immunogenicity: Patients who became positive for antibodies to infliximab were more likely (approximately 2-3 fold) to have an infusion reaction than those who were negative.
 Use of concomitant immunosuppressant agents appeared to reduce the frequency of infusion-related reactions.
-In clinical studies using single and multiple infliximab doses ranging from 1 to 20 mg/kg, antibodies to infliximab were detected in 116 of 796 (15%) patients with any immunosuppressant therapy, and in 56 of 237 (24%) patients without immunosuppressant therapy.
+In clinical studies using single and multiple infliximab doses ranging from 1 to 20 mg/kg, antibodies to infliximab were detected in 140 of 980 (14%) patients with any immunosuppressant therapy, and in 92 of 383 (24%) patients without immunosuppressant therapy.
 In rheumatoid arthritis patients who received the recommended repeated treatment dose regimens with methotrexate, 6 of 77 (8%) patients developed antibodies to infliximab.
-Due to methodological shortcomings, a negative assay did not exclude the presence of antibodies to infliximab.
-Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy.
+Of Crohn's disease patients who received maintenance treatment, approximately 6-13% developed antibodies to infliximab.
+The antibody incidence was 2-3 fold higher for patients treated episodically.
+Due to methodological limitations, a negative assay did not exclude the presence of antibodies to infliximab.
+Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy (see section 4.4: "Infusion reactions and hypersensitivity").
 
 Infections: In clinical studies 35% of infliximab-treated patients were treated for infections compared with 22% of placebo-treated patients.
 Serious infections, such as pneumonia, were reported in 5% of both infliximab-treated patients and placebo-treated patients (see section 4.4).
