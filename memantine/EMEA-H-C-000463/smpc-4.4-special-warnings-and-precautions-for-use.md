@@ -1,0 +1,15 @@
+# 4.4 Special warnings and special precautions for use
+
+As no data are available for patients with severe renal impairment (creatinine clearance less than 9 ml/min/1.73 m²) therapy is not recommended (see section 4.2).
+
+Based on pharmacological considerations and single case reports, caution is recommended with patients suffering from epilepsy.
+
+Concomitant use of N-methyl-D-aspartate(NMDA)-antagonists such as amantadine, ketamine or dextromethorphan should be avoided.
+These compounds act at the same receptor system as memantine, and therefore adverse drug reactions (mainly CNS-related) may be more frequent or more pronounced (see also section 4.5).
+
+Some factors that may raise urine pH (see section 5.2 “Elimination”) may necessitate careful monitoring of the patient.
+These factors include drastic changes in diet, e.g. from a carnivore to a vegetarian diet, or a massive ingestion of alkalising gastric buffers.
+Also, urine pH may be elevated by states of renal tubulary acidosis (RTA) or severe infections of the urinary tract with Proteus bacteria.
+
+In most clinical trials, patients with recent myocardial infarction, uncompensated congestive heart failure (NYHA III-IV), and uncontrolled hypertension were excluded.
+As a consequence, only limited data are available and patients with these conditions should be closely supervised.

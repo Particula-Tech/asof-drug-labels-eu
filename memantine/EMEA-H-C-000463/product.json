@@ -1,0 +1,16 @@
+{
+  "active_substance": "memantine hydrochloride",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000463",
+  "eu_number": "EU/1/02/219",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2002-05-15",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ebixa",
+  "molecule": "memantine",
+  "molecule_name": "MEMANTINE",
+  "name": "Ebixa",
+  "register_name": "Ebixa",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h219.htm"
+}
