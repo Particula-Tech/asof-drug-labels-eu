@@ -6,7 +6,7 @@ Studies in rabbits have shown peak concentrations of 20 ng/g of the free acid in
 Aqueous humour concentrations declined with a half-life of approximately 1.5 hours.
 
 Metabolism is the major route of elimination of both travoprost and the active free acid.
-The systemic metabolic pathways parallel those of endogenous prostaglandin F2� which are characterised by reduction of the 13-14 double bond, oxidation of the 15-hydroxyl and �- oxidative cleavages of the upper side chain.
+The systemic metabolic pathways parallel those of endogenous prostaglandin F2� which are characterised by reduction of the 13-14 double bond, oxidation of the 15-hydroxyl and �-oxidative cleavages of the upper side chain.
 
 Following topical ocular administration of TRAVATAN to healthy volunteers, low systemic exposure to active free acid was demonstrated.
 Peak active free acid plasma concentrations of 25 pg/ml or less were observed between 10 and 30 minutes post-dose.

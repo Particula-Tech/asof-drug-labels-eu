@@ -20,6 +20,7 @@ The efficacy and safety of TRAVATAN in patients below the age of 18 have not bee
 Use in hepatic and renal impairment
 TRAVATAN has been studied in patients with mild to severe hepatic impairment and in patients with mild to severe renal impairment (creatinine clearance as low as 14 ml/min).
 No dosage adjustment is necessary in these patients.
+
 Method of administration
 The patient should remove the protective overwrap immediately prior to initial use.
 To prevent contamination of the dropper tip and solution, care must be taken not to touch the eyelids, surrounding areas or other surfaces with the dropper tip of the bottle.

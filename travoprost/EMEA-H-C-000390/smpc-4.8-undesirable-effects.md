@@ -9,6 +9,7 @@ The discontinuation rate due to ocular hyperaemia was 2.5%.
 The following undesirable effects assessed as definitely, probably or possibly related to treatment were reported during clinical trials with TRAVATAN.
 Their incidence was either very common (greater than 10.0%), common (1.0% to 10.0%; maximum observed actual incidence of 4.8%), or uncommon (0.2% to less than 1.0%).
 All other effects were single reports, of which none were serious and related.
+
 Ocular effects
 Very common: ocular hyperaemia.
 
@@ -25,6 +26,5 @@ Uncommon: hypotension and bradycardia.
 
 Skin and appendages:
 Uncommon: periorbital skin discolouration.
-
 As with other prostaglandin analogues (class effect), TRAVATAN may gradually change eyelashes in the treated eye(s); these changes were observed in about half of patients in clinical trials and include: increased length, thickness, pigmentation, and/or number of lashes.
 The mechanism of eyelash changes and their long term consequences are currently unknown.

@@ -8,7 +8,6 @@ The change in iris colour occurs slowly and may not be noticeable for months to 
 The change in eye colour has predominantly been seen in patients with mixed coloured irides, i.e., blue-brown, grey-brown, yellow-brown and green-brown; however, it has also been observed in patients with brown eyes.
 Typically, the brown pigmentation around the pupil spreads concentrically towards the periphery in affected eyes, but the entire iris or parts of it may be become more brownish.
 After discontinuation of therapy, no further increase in brown iris pigment has been observed.
-
 In controlled clinical trials, periorbital and/or eyelid skin darkening in association with the use of TRAVATAN has been reported in 0.6% of patients.
 
 TRAVATAN may gradually change eyelashes in the treated eye(s); these changes were observed in about half of the patients in clinical trials and include: increased length, thickness, pigmentation, and/or number of lashes.
