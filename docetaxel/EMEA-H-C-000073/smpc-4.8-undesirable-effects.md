@@ -8,7 +8,6 @@ Haematology
 The most frequent adverse reaction to docetaxel (in patients who did not receive G-CSF) was neutropenia which was reversible and not cumulative.
 The median day to nadir was 7 days and the median duration of severe neutropenia (<500 cells/mm3) was 7 days.
 Severe neutropenia occurred in 56.4% of cycles (76.4% of the patients) and lasted for more than 7 days in 3.5% of evaluable cycles.
-VI
 Fever was associated with neutropenia (<500 cells/mm3) in 11.8% of the patients (3% of the cycles) and the incidence of severe infections associated with neutrophil counts <500 cells/mm3 was 4.6% of the patients (1.2% of the cycles).
 Infectious episodes occurred in 20% of the patients (6% of the cycles) and were severe (including sepsis and pneumonia) in 5.7% of the patients (1.4% of the cycles) and were fatal in 1.7% of the patients.
 
@@ -25,7 +24,6 @@ The most frequently reported symptoms were flushing, rash with or without prurit
 Severe reactions characterised by hypotension and/or bronchospasm or generalized rash/erythema were observed in 5.3% of patients.
 They resolved after discontinuing the infusion and appropriate therapy.
 
-VII
 Cutaneous
 
 Reversible cutaneous reactions have been observed in 56.6% of the patients and were generally considered as mild to moderate.
@@ -67,22 +65,21 @@ Abdominal pain 7.3 1
 
 Anorexia was reported in 16.8% of the patients and was infrequently severe.
 Constipation was reported in 9.3% (0.2% severe) of the patients.
-VIII
+
 Stomatitis and esophagitis were reported in 41.8% (5.3% severe) and 1% (0.4% severe) of the patients, respectively.
 Taste perversion has been reported in 10.1% of the patients (0.07% severe).
 
 Gastrointestinal bleeding has been seen in 1.4% of the patients (0.3% severe).
 
-Rare occurences of dehydration as a consequence of gastrointestinal events, gastrointestinal perforation and neutropenic enterocolitis have been reported.
+Rare occurrences of dehydration as a consequence of gastrointestinal events, gastrointestinal perforation and neutropenic enterocolitis have been reported.
 
-IX
 Neurologic
 
 Mild to moderate neuro-sensory signs characterised by paresthesia, dysesthesia or pain including burning were reported in 45.9% of patients.
 
 Neuro-motor events mainly characterised by weakness were reported in 13.8% of patients.
 
-The development of severe peripheral neurotoxicity has been observed in 4% of patients and requires a reduction of dose (see sections “Posology and method of administration” and “Special warnings and special precautions for use”)
+The development of severe peripheral neurotoxicity has been observed in 4% of patients and requires a reduction of dose (see sections «Posology and method of administration» and «Special warnings and special precautions for use»)
 
 The events were spontaneously reversible within 3 months in 35.3% of patients with neurotoxicity for whom data is available.
 
@@ -95,10 +92,9 @@ Other meaningful cardiovascular events included hypertension (2.4%) or heart fai
 Venous thromboembolic events have rarely been reported.
 
 Rare cases of myocardial infarction have been reported.
-
 Infusion site reactions
 
-Infusion site reactions were generally mild and occurred in 5.6% of the patients, and consisted of hyperpigmentation, inflammation, redness or dryness of the skin, phlebitis or extravasation and swelling of the vein.
+Infusion site reactions were generally mild and occurred in 5.6% of the patients, and consisted of hyper pigmentation, inflammation, redness or dryness of the skin, phlebitis or extravasation and swelling of the vein.
 
 Hepatic
 
@@ -106,7 +102,6 @@ Increases in serum levels of AST, ALT, bilirubin and alkaline phosphatase greate
 
 Others
 
-X
 Alopecia was observed in a total of 79% of patients but was considered severe in about 67% of the patients.
 Alopecia was reversible in 13% of the patients for whom data are available; the median recovery time was 22 weeks following the initial hair loss.
 Asthenia was observed in 62.6% of patients and was severe in 11.2% of the patients.
@@ -120,12 +115,6 @@ Radiation recall phenomena have rarely been reported.
 
 [TAXOTERE 80 mg concentrate and solvent for solution for infusion]
 
-XXI
+Severe reactions characterised by hypotension and/or bronchospasm or generalised rash/erythema were observed in 5.3% of patients.
 
-The peripheral oedema usually starts at the lower extremities and may become generalised XXII with a weight gain of 3 kg or more.
-
-XXIII
-
-Dyspnea was reported in 16.1% (2.7% severe) of the patients and was frequently associated with acute hypersensitivity reactions, respiratory infections, and cancerous lung
-
-XXIV involvement.
+Nail disorders occurred in 27.9% of the patients and were characterised by hypo- or hyper pigmentation and sometimes pain and onycholysis (2.6% of the patients).

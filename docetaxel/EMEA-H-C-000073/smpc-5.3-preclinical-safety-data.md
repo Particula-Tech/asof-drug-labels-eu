@@ -7,9 +7,3 @@ However, it did not induce mutagenicity in the Ames test or the CHO/HGPRT gene m
 These results are consistent with the pharmacological activity of docetaxel.
 
 Adverse effects on the testis observed in rodent toxicity studies suggest that docetaxel may impair male fertility.
-
-XIII
-
-[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
-
-XXVII

@@ -8,13 +8,10 @@ Docetaxel is an antineoplastic agent which acts by promoting the assembly of tub
 The binding of docetaxel to microtubules does not alter the number of protofilaments.
 
 Docetaxel has been shown in vitro to disrupt the microtubular network in cells which is essential for vital mitotic and interphase cellular functions.
-
 Docetaxel was found to be cytotoxic in vitro against various murine and human tumour cell lines and against freshly excised human tumour cells in clonogenic assays.
 Docetaxel achieves high intracellular concentrations with a long cell residence time.
 In addition, docetaxel was found to be active on some but not all cell lines overexpressing the p-glycoprotein which is encoded by the multidrug resistance gene.
-In vivo, docetaxel
-
-XI is schedule independent and has a broad spectrum of experimental antitumour activity against advanced murine and human grafted tumours.
+In vivo, docetaxel is schedule independent and has a broad spectrum of experimental antitumour activity against advanced murine and human grafted tumours.
 
 Clinical data
 
@@ -42,12 +39,16 @@ Three docetaxel patients (2%) discontinued the treatment due to fluid retention,
 In anthracycline-failure patients, docetaxel was compared to the combination of Mitomycin C and Vinblastine (12 mg/m² every 6 weeks and 6 mg/m² every 3 weeks).
 Docetaxel increased response rate (33% vs. 12%, p<0.0001), prolonged time to progression (19 weeks vs. 11 weeks, p=0.0004) and prolonged overall survival (11 months vs. 9 months, p=0.01).
 
-During these phase III studies, the safety profile of docetaxel was consistent with the safety profile observed in phase II studies (see “Undesirable effects” section).
+During these phase III studies, the safety profile of docetaxel was consistent with the safety profile observed in phase II studies (see «Undesirable effects» section).
+Non-Small Cell Lung Cancer
 
-XII
+Patients previously treated with chemotherapy with or without radiotherapy
+
+In a phase III study, in previously treated patients, time to progression (12.3 weeks versus 7 weeks) and overall survival were significantly longer for docetaxel at 75 mg/m² compared to Best Supportive Care.
+The 1-year survival rate was also significantly longer in docetaxel (40%) versus BSC (16%).
+There was less use of morphinic analgesic (p<0.01), non-morphinic analgesics (p<0.01), other disease-related medications (p=0.06) and radiotherapy (p<0.01) in patients treated with docetaxel at 75mg/m² compared to those with BSC.
+The overall response rate was 6.8% in the evaluable patients, and the median duration of response was 26.1 weeks.
 
 [TAXOTERE 80 mg concentrate and solvent for solution for infusion]
 
-In vivo, docetaxel is schedule independent and has a broad spectrum of experimental antitumour activity against advanced murine and human grafted tumours.
-
-XXV
+In addition, docetaxel was found to be active on some but not all cell lines over expressing the p-glycoprotein which is encoded by the multidrug resistance gene.

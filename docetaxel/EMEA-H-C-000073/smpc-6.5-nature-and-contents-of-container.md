@@ -17,7 +17,6 @@ Solvent vial:
 
 The solvent vial is a 7 ml clear glass vial with a transparent colourless flip-off cap.
 
-XIV
 Solvent vial contains 1.5 ml of a 13% w/w solution of ethanol in water for injections (fill volume: 1.83 ml).
 The addition of the entire contents of the solvent vial to the contents of the TAXOTERE 20 mg concentrate for solution for infusion vial ensures a premix concentration of 10 mg/ml docetaxel.
 
@@ -25,6 +24,7 @@ The addition of the entire contents of the solvent vial to the contents of the T
 
 Each blister carton of TAXOTERE 80 mg concentrate and solvent for solution for infusion contains:
 
+•
 TAXOTERE 80 mg concentrate for solution for infusion vial:
 
 The TAXOTERE 80 mg concentrate for solution for infusion vial is a 15 ml clear glass vial with a red flip-off cap.
@@ -34,6 +34,5 @@ This overfill ensures that after dilution with the entire contents of the accomp
 
 The solvent vial is a 15 ml clear glass vial with a transparent colourless flip-off cap.
 
-XXVIII
 Solvent vial contains 6 ml of a 13% w/w solution of ethanol in water for injections (fill volume: 7.33 ml).
 The addition of the entire contents of the solvent vial to the contents of the TAXOTERE 80 mg concentrate for solution for infusion vial ensures a premix concentration of 10 mg/ml docetaxel.

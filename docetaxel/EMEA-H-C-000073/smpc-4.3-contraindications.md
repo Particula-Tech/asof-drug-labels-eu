@@ -6,4 +6,4 @@ Docetaxel should not be used in patients with baseline neutrophil count of <1,50
 
 Docetaxel must not be used in pregnant or breast-feeding women.
 
-Docetaxel should not be used in patients with severe liver impairment since there is no data available (see “Special warnings and special precautions for use” and “Posology and method of administration” sections).
+Docetaxel should not be used in patients with severe liver impairment since there is no data available (see «Special warnings and special precautions for use» and «Posology and method of administration» sections).
