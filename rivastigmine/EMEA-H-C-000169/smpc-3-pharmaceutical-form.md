@@ -10,8 +10,7 @@ Off-white to slightly yellow powder in a capsule with orange cap and orange body
 
 [EXELON 4.5 mg hard capsules]
 
-Off-white to slightly yellow powder in a capsule with red cap and red body, with white imprint
-“EXELON 4.5 mg” on body.
+Off-white to slightly yellow powder in a capsule with red cap and red body, with white imprint “EXELON 4.5 mg” on body.
 
 [EXELON 6 mg hard capsules]
 

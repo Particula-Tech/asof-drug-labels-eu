@@ -11,7 +11,7 @@ Initial dose: 1.5 mg twice a day.
 
 Dose titration: The starting dose is 1.5 mg twice a day.
 If this dose is well tolerated after a minimum of two weeks of treatment, the dose may be increased to 3 mg twice a day.
-Subsequent increases to 4.5 mg and then 6 mg twice a day should also be based on good tolerance of the current dose and may be considered after a minimum of two weeks of treatment at that dose level.
+Subsequent increases to 4.5 mg and then 6 mg twice a day should also be based on good tolerability of the current dose and may be considered after a minimum of two weeks of treatment at that dose level.
 
 If adverse effects (e.g. nausea, vomiting, abdominal pain or loss of appetite) or weight decrease are observed during treatment, these may respond to omitting one or more doses.
 If adverse effects persist, the daily dose should be temporarily reduced to the previous well-tolerated dose.

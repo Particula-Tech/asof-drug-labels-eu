@@ -1,6 +1,7 @@
 # 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/98/066/001-3
+EU/1/98/066/…
 
 [EXELON 3 mg hard capsules]
 

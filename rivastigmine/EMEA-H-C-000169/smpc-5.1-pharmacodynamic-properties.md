@@ -33,28 +33,13 @@ Table 2
 | ADAS-Cog: improvement of at least 4 points | 21*** | 12 | 25*** | 12 |
 | CIBIC-Plus: improvement | 29*** | 18 | 32*** | 19 |
 | PDS: improvement of at least 10% | 26*** | 17 | 30*** | 18 |
-| At least 4 points | 10* | 6 | 12** | 6 |
-
-improvement on ADAS-
-Cog with no worsening on
-CIBIC-Plus and PDS
+| At least 4 points improvement on ADAS-Cog with no worsening on CIBIC-Plus and PDS | 10* | 6 | 12** | 6 |
 
 * p<0.05, **p<0.01, ***p<0.001
 
 [EXELON 3 mg hard capsules]
 
-|  | Patients with Clinically Significant Response (%) |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Intent to Treat |  | Last Observation Carried Forward |  |
-| Response Measure | Rivastigmine 6-12 mg N=473 | Placebo N=472 | Rivastigmine 6-12 mg N=379 | Placebo N=444 |
-| ADAS-Cog: improvement of at least 4 points | 21*** | 12 | 25*** | 12 |
-| CIBIC-Plus: improvement | 29*** | 18 | 32*** | 19 |
-| PDS: improvement of at least 10% | 26*** | 17 | 30*** | 18 |
-| At least 4 points improvement | 10* | 6 | 12** | 6 |
-
-on ADAS-Cog with no
-worsening on CIBIC-Plus and
-PDS
+(all sentences already above)
 
 [EXELON 4.5 mg hard capsules]
 
@@ -68,11 +53,13 @@ PDS
 
 The efficacy of Exelon has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
 
-|  | P atients with Clinically Significant Response (%) |  |  |  |
+|  | Patients with Clinically Significant Response (%) |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | I ntent to Treat |  | L ast Observation Carried Forward |  |
-| R esponse Measure | Rivastigmine 6 –12 mg N =473 | P lacebo N =472 | R ivastigmine 6 –12 mg N =379 | P lacebo N =444 |
-| A DAS-Cog: improvement of at least 4 points | 2 1*** | 12 | 2 5*** | 12 |
-| C IBIC-Plus: improvement | 2 9*** | 1 8 | 3 2*** | 1 9 |
-| P DS: improvement of at least 10% | 2 6*** | 1 7 | 3 0*** | 1 8 |
-| A t least 4 points improvement on ADAS-Cog with no worsening on CIBIC-Plus and PDS | 1 0* | 6 | 1 2** | 6 |
+|  | Intent to Treat |  | Last Observation Carried Forward |  |
+| Response Measure | Rivastigmine 6–12 mg N=473 | Placebo N=472 | Rivastigmine 6–12 mg N=379 | Placebo N=444 |
+| ADAS-Cog: improvement of at least 4 points | 21*** | 12 | 25*** | 12 |
+| CIBIC-Plus: improvement | 29*** | 18 | 32*** | 19 |
+| PDS: improvement of at least 10% | 26*** | 17 | 30*** | 18 |
+| At least 4 points improvement on ADAS-Cog with no worsening on | 10* | 6 | 12** | 6 |
+
+CIBIC-Plus and PDS

@@ -10,8 +10,7 @@ Table 1*
 | Infections and infestation Very rare | Urinary infection |
 | --- | --- |
 | Psychiatric disorders Common Common Uncommon Uncommon Very rare | Agitation Confusion Insomnia Depression Hallucinations |
-| Nervous system disorders Very common Common Common Common Uncommon | Dizziness Headache Somnolence Tremor Syncope |
-| Rare Very rare | Seizures Extrapyramidal symptoms (including worsening of Parkinson’s disease) |
+| Nervous system disorders Very common Common Common Common Uncommon Rare Very rare | Dizziness Headache Somnolence Tremor Syncope Seizures Extrapyramidal symptoms (including worsening of Parkinson’s disease) |
 | Cardiac disorders Rare Very rare | Angina pectoris Cardiac arrhythmia (e.g. bradycardia, atrio-ventricular block, atrial fibrillation and tachycardia) |
 | Vascular disorders Very rare | Hypertension |
 | Gastrointestinal disorders Very common Very common Very common Very common Common Rare Very rare Very rare | Nausea Vomiting Diarrhoea Loss of appetite Abdominal pain and dyspepsia Gastric and duodenal ulcers Gastrointestinal haemorrhage Pancreatitis |
@@ -31,8 +30,8 @@ Table 1*
 | Infections and infestation Very rare | Urinary infection |
 | --- | --- |
 | Psychiatric disorders Common Common Uncommon Uncommon Very rare | Agitation Confusion Insomnia Depression Hallucinations |
-| Nervous system disorders Very common Common Common Common Uncommon | Dizziness Headache Somnolence Tremor Syncope |
-| Rare Very rare | Seizures Extrapyramidal symptoms (including worsening in patients with Parkinson’s disease) |
+| Nervous system disorders Very common Common Common Common Uncommon Rare Very rare | Dizziness Headache Somnolence Tremor Syncope Seizures Extrapyramidal symptoms (including worsening of |
+|  | Parkinson’s disease) |
 | Cardiac disorders Rare Very rare | Angina pectoris Cardiac arrhythmia (e.g. bradycardia, atrio-ventricular block, atrial fibrillation and tachycardia) |
 | Vascular disorders Very rare | Hypertension |
 | Gastrointestinal disorders Very common Very common Very common Very common Common Rare Very rare Very rare | Nausea Vomiting Diarrhoea Loss of appetite Abdominal pain and dyspepsia Gastric and duodenal ulcers Gastrointestinal haemorrhage Pancreatitis |
@@ -43,15 +42,26 @@ Table 1*
 
 [EXELON 6 mg hard capsules]
 
-(all sentences already above)
+| Infections and infestation Very rare | Urinary infection |
+| --- | --- |
+| Psychiatric disorders Common Common Uncommon Uncommon Very rare | Agitation Confusion Insomnia Depression Hallucinations |
+| Nervous system disorders Very common Common Common Common Uncommon Rare | Dizziness Headache Somnolence Tremor Syncope Seizures |
+| Very rare | Extrapyramidal symptoms (including worsening of Parkinson’s disease) |
+| Cardiac disorders Rare Very rare | Angina pectoris Cardiac arrhythmia (e.g. bradycardia, atrio-ventricular block, atrial fibrillation and tachycardia) |
+| Vascular disorders Very rare | Hypertension |
+| Gastrointestinal disorders Very common Very common Very common Very common Common Rare Very rare Very rare | Nausea Vomiting Diarrhoea Loss of appetite Abdominal pain and dyspepsia Gastric and duodenal ulcers Gastrointestinal haemorrhage Pancreatitis |
+| Hepato-biliary disorders Very rare | Elevated liver function tests |
+| Skin and subcutaneous disorders Common Rare | Sweating increased Rashes |
+| General disorders Common Common Uncommon | Fatigue and asthenia Malaise Accidental fall |
+| Investigations Common | Weight loss |
 
 [EXELON 2 mg/ml Oral Solution]
 
 | Infections and infestation Very rare | Urinary infection |
 | --- | --- |
 | Psychiatric disorders Common Common Uncommon Uncommon Very rare | Agitation Confusion Insomnia Depression Hallucinations |
-| Nervous system disorders Very common Common Common Common | Dizziness Headache Somnolence Tremor |
-| Uncommon Rare Very rare | Syncope Seizures Extrapyramidal symptoms (including worsening in patients with Parkinson’s disease) |
+| Nervous system disorders Very common | Dizziness |
+| Common Common Common Uncommon Rare Very rare | Headache Somnolence Tremor Syncope Seizures Extrapyramidal symptoms (including worsening in patients with Parkinson’s disease) |
 | Cardiac disorders Rare Very rare | Angina pectoris Cardiac arrhythmia (e.g. bradycardia, atrio-ventricular block, atrial fibrillation and tachycardia) |
 | Vascular disorders Very rare | Hypertension |
 | Gastrointestinal disorders Very common Very common Very common Very common Common Rare Very rare Very rare | Nausea Vomiting Diarrhoea Loss of appetite Abdominal pain and dyspepsia Gastric and duodenal ulcers Gastrointestinal haemorrhage Pancreatitis |
