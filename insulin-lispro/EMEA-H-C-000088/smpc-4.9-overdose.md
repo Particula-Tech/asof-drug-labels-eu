@@ -12,6 +12,3 @@ Patients who fail to respond to glucagon must be given glucose solution intraven
 If the patient is comatose, glucagon should be administered intramuscularly or subcutaneously.
 However, glucose solution must be given intravenously if glucagon is not available or if the patient fails to respond to glucagon.
 The patient should be given a meal as soon as consciousness is recovered.
-
-5.
-PHARMALOGICAL PROPERTIES
