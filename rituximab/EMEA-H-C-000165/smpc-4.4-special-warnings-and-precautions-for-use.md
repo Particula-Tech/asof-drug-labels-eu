@@ -4,19 +4,18 @@ Patients with a high number (>50,000 mm3) of circulating malignant cells or high
 These patients should be very closely monitored throughout the first infusion.
 Consideration should be given to the use of a reduced infusion rate for the first infusion in these patients.
 
-Severe cytokine release syndrome is characterised by severe dyspnea, often accompanied by bronchospasm and hypoxia, in addition to fever, chills, rigors, urticaria, and angioedema.
+Severe cytokine release syndrome is characterized by severe dyspnea, often accompanied by bronchospasm and hypoxia, in addition to fever, chills, rigors, urticaria, and angioedema.
 This syndrome may be associated with some features of tumour lysis syndrome such as hyperuricemia, hyperkalemia, hypocalcemia, acute renal failure, elevated LDH and may be associated with acute respiratory failure and death.
 The acute respiratory failure may be accompanied by events such as pulmonary interstitial infiltration or oedema, visible on a chest x-ray.
 The syndrome frequently manifests itself within one or two hours of initiating the first infusion.
 Patients with a history of pulmonary insufficiency or those with pulmonary tumour infiltration may be at greater risk of poor outcome and should be treated with increased caution.
 Patients who develop severe cytokine release syndrome should have their infusion interrupted immediately (see Section 4.2) and should receive aggressive symptomatic treatment.
-Since initial improvement of clinical symptoms may be followed by deterioration, these patients should be closely monitored until tumour lysis syndrome and pulmonary infiltration have resolved or been ruled out.
+Since initial improvement of clinical symptoms may be followed by deterioration, these patients should be closely monitored until tumour lysis syndrome and pulmonary infiltration have been resolved or ruled out.
 Further treatment of patients after complete resolution of signs and symptoms has rarely resulted in repeated severe cytokine release syndrome.
 
 Infusion related adverse reactions including cytokine release syndrome (see Section 4.8) accompanied by hypotension and bronchospasm have been observed in 10% of patients treated with MABTHERA.
 These symptoms are usually reversible with interruption of MABTHERA infusion and administration of a pain-reliever, an antihistaminic, and, occasionally, oxygen, intravenous saline or bronchodilators, and corticosteroids if required.
 Please see cytokine release syndrome above for severe reactions.
-
 Anaphylactic and other hypersensitivity reactions have been reported following the intravenous administration of proteins to patients.
 In contrast to cytokine release syndrome, true hypersensitivity reactions typically occur within minutes after starting infusion.
 Medications for the treatment of hypersensitivity reactions, e.g., epinephrine, antihistamines and corticosteroids, should be available for immediate use in the event of an allergic reaction during administration of MABTHERA.

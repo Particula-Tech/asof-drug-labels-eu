@@ -12,17 +12,19 @@ Less frequently, patients experienced an exacerbation of pre-existing cardiac co
 The incidence of infusion-related events decreases substantially with subsequent infusions.
 
 Fatal outcomes have been reported for patients who developed severe cytokine release syndrome, occasionally associated with signs and symptoms of tumour lysis syndrome leading to multi-organ failure, respiratory failure, and renal failure (see Section 4.4).
+
 Haematologic Adverse Reactions
 
 Haematologic abnormalities occur in a minority of patients and are usually mild and reversible.
 Severe thrombocytopenia and neutropenia occurred in 1.3% and 1.9% of patients respectively, and severe anaemia occurred in 1.0% of patients.
-A single occurence of transient aplastic anaemia (pure red cell aplasia) and infrequent occurences of hemolytic anaemia following MABTHERA treatment were reported.
+A single occurrence of transient aplastic anaemia (pure red cell aplasia) and infrequent occurrences of hemolytic anaemia following MABTHERA treatment were reported.
 
 Other Adverse Reactions
 
 Pulmonary adverse reaction, including severe bronchoconstriction and rarely fatalities from respiratory failure, have been reported with MABTHERA therapy.
 
 Anaphylaxis has been reported in patients treated with MABTHERA (see Section 4.4).
+Severe bullous skin reactions, including fatal cases of toxic epidermal necrolysis, have been reported rarely.
 
 Although MABTHERA induces B-cell depletion and can be associated with decreased serum immunoglobulins, the incidence of infection does not appear to be greater than expected in this patient population, and serious or opportunistic infections were considerably less than reported with conventional chemotherapy.
 During treatment and up to one year following therapy, approximately 17% and 16%, respectively, of patients developed infections which were usually common, non opportunistic and mild.
@@ -33,7 +35,7 @@ Body as a Whole⎯asthenia, abdominal pain, back pain, chest pain, malaise, abdo
 Cardiovascular System⎯hypertension, bradycardia, tachycardia, arrythmia, postural hypotension;
 Digestive System⎯diarrhea, dyspepsia, anorexia;
 Haemic and Lymphatic System⎯ lymphadenopathy;
-Metabolic and Nutritional disorders⎯hyperglycemia, peripheral oedema, LDH increase, hypocalcemia;
+Metabolic and Nutritional disorders⎯hyperglycemia, peripheral edema, LDH increase, hypocalcemia;
 Musculo-Skeletal System⎯arthralgia, myalgia, pain, hypertonia;
 Nervous System⎯dizziness, anxiety, paresthesia, hypesthesia, agitation, insomnia, nervousness;
 Respiratory System⎯cough increase, sinusitis, bronchitis, respiratory disease;
