@@ -32,6 +32,7 @@ Adverse events occurring in greater than 1 % of children receiving oseltamivir a
 The most frequently reported adverse event was vomiting.
 Other events reported more frequently by oseltamivir treated children included abdominal pain, epistaxis, ear disorder and conjunctivitis.
 These events generally occurred once, resolved despite continued dosing and did not cause discontinuation of treatment in the vast majority of cases.
+
 Adverse Events occurring in greater than 1 % of children enrolled in Phase III studies of oseltamivir treatment of naturally acquired influenza.
 
 | System Organ Class | Adverse Event | Treatment |  |
@@ -48,7 +49,8 @@ Adverse Events occurring in greater than 1 % of children enrolled in Phase III s
 
 In general, the adverse event profile in the children with asthma was qualitatively similar to that of otherwise healthy children.
 
-Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: rash, very rare reports of hepatitis and elevated liver enzymes in patients with influenza-like illness
+Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: dermatitis, rash, eczema, urticaria, hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, as well as very rare reports of severe skin reactions, including Steven-Johnson Syndrome and erythema multiforme.
+Additionally, there are very rare reports of hepatic function disorders, including hepatitis and elevated liver enzymes in patients with influenza-like illness.
 
 [Tamiflu 12 mg/ml powder for oral suspension.]
 
@@ -57,8 +59,7 @@ In prevention studies, where the dosage of oseltamivir was 75 mg once daily for 
 
 | System Organ Class | Adverse Event | Treatment |  | Prevention |  |
 | --- | --- | --- | --- | --- | --- |
-|  |  | Placebo | Oseltamivir 75 mg twice | Placebo | Oseltamivir 75 mg once |
-|  |  | (N = 1050) | daily (N = 1057) | (N = 1434) | daily (N = 1480) |
+|  |  | Placebo (N = 1050) | Oseltamivir 75 mg twice daily (N = 1057) | Placebo (N = 1434) | Oseltamivir 75 mg once daily (N = 1480) |
 | Gastrointestinal Disorders | Vomiting 2 Nausea 1, 2 Diarrhoea Abdominal Pain | 3.0 % 5.7 % 8.0 % 2.0 % | 8.0 % 7.9 % 5.5 % 2.2 % | 1.0 % 3.9 % 2.6 % 1.6 % | 2.1 % 7.0 % 3.2 % 2.0 % |
 | Infections and Infestations | Bronchitis Bronchitis acute | 5.0 % 1.0 % | 3.7 % 1.0 % | 1.2 % - | 0.7 % - |
 | General Disorders | Dizziness Fatigue | 3.0 % 0.7 % | 1.9 % 0.8 % | 1.5 % 7.5 % | 1.6 % 7.9 % |
@@ -66,6 +67,7 @@ In prevention studies, where the dosage of oseltamivir was 75 mg once daily for 
 |  | Insomnia | 1.0 % | 1.0 % | 1.0 % | 1.2 % |
 
 Adverse events occurring in greater 1 % of children receiving oseltamivir are listed in the table below.
+
 Adverse Events occurring in greater 1 % of children enrolled in Phase III studies of oseltamivir treatment of naturally acquired influenza.
 
 | System Organ Class | Adverse Event | Treatment |  |
@@ -76,9 +78,9 @@ Adverse Events occurring in greater 1 % of children enrolled in Phase III studie
 | Respiratory Disorders | Asthma (incl. aggravated) | 3.7 % | 3.5 % |
 |  | Epistaxis | 2.5 % | 3.1 % |
 | Disorders of the Ear and Labyrinth | Ear disorder Tympanic membrane disorder | 1.2 % 1.2 % | 1.7 % 1.0 % |
+|  |  | Placebo (N = 517) | Oseltamivir 2 mg/kg (N = 515) |
 | Skin and Subcutaneous Disorders | Dermatitis | 1.9 % | 1.0 % |
-| Disorders of the | Lymphadenopathy | 1.5 % | 1.0 % |
-| Blood and Lymphatic System |  |  |  |
+| Disorders of the Blood and Lymphatic System | Lymphadenopathy | 1.5 % | 1.0 % |
 | Vision disorders | Conjunctivitis | 0.4 % | 1.0 % |
 
-Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: rash, and very rare reports of hepatitis and elevated liver enzymes inpatients with influenza-like illness.
+Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: dermatitis, rash, eczema, urticaria, hypersensitivity reactions,including anaphylactic/anaphylactoid reactions, as well as very rare reports of severe skin reactions, including Steven-Johnson Syndrome and erythema multiforme.

@@ -1,7 +1,7 @@
 # 4.2 Posology and method of administration
 
 Tamiflu capsules and Tamiflu suspension are bioequivalent formulations, 75 mg doses can be administered as either one 75 mg capsule or by administering one 30 mg dose plus one 45 mg dose of suspension.
-Adults, adolescents or children (>40kg) who are unable to swallow capsules may receive appropriate doses of Tamiflu suspension.
+Adults, adolescents or children (>40 kg) who are unable to swallow capsules may receive appropriate doses of Tamiflu suspension.
 
 Treatment of influenza
 
@@ -50,7 +50,7 @@ No dose adjustment is required, unless there is evidence of severe renal impairm
 [Tamiflu 12 mg/ml powder for oral suspension.]
 
 Tamiflu suspension and Tamiflu capsules are bioequivalent formulations, 75 mg doses can be administered as either one 75 mg capsule or by administering one 30 mg dose plus one 45 mg dose of suspension.
-Adults, adolescents or children (>40kg) who are able to swallow capsules may receive appropriate doses of Tamiflu capsules.
+Adults, adolescents or children (>40 kg) who are able to swallow capsules may receive appropriate doses of Tamiflu capsules.
 
 For children of one to 12 years of age: The recommended dose of Tamiflu oral suspension is indicated in the table below.
 The following weight adjusted dosing regimens are recommended for children one year or older:
