@@ -1,6 +1,6 @@
-# 4.1 THERAPEUTIC INDICATIONS
+# 4.1 Therapeutic indications
 
-TAXOTERE® (docetaxel) monotherapy is indicated for the treatment of patients with locally advanced or metastatic breast cancer:
+TAXOTERE (docetaxel) monotherapy is indicated for the treatment of patients with locally advanced or metastatic breast cancer:
 
 a) who are resistant or have recurrent disease after a cytotoxic therapy
 

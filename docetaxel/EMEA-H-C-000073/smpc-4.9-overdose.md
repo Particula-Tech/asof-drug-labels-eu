@@ -1,4 +1,4 @@
-# 4.9 OVERDOSE
+# 4.9 Overdose
 
 There were two reports of overdose.
 One patient received 150 mg/m² and the other received 200 mg/m² of docetaxel as a one hour infusion.

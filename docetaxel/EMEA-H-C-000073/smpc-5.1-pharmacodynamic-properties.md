@@ -1,8 +1,8 @@
-# 5.1 PHARMACODYNAMIC PROPERTIES
+# 5.1 Pharmacodynamic properties
 
 Pharmaco-therapeutic group: Antineoplastic agents, ATC Code: L01CD
 
-5.1.1 PRECLINICAL DATA
+5.1.1 Preclinical data
 
 Docetaxel is an antineoplastic agent which acts by promoting the assembly of tubulin into stable microtubules and inhibits their disassembly which leads to a marked decrease of free tubulin.
 The binding of docetaxel to microtubules does not alter the number of protofilaments.
@@ -14,10 +14,9 @@ Docetaxel achieves high intracellular concentrations with a long cell residence 
 In addition, docetaxel was found to be active on some but not all cell lines overexpressing the p-glycoprotein which is encoded by the multidrug resistance gene.
 In vivo, docetaxel is schedule independent and has a broad spectrum of experimental antitumour activity against advanced murine and human grafted tumours.
 
-5.1.2.
-CLINICAL DATA
+5.1.2 Clinical data
 
-BREAST CANCER
+Breast cancer
 
 Six phase II studies were conducted in patients with locally advanced or metastatic breast carcinoma.
 A total of 117 patients had received no prior chemotherapy (previously untreated) and 111 patients had received prior chemotherapy (previously treated) which included 83 patients who had progressive disease during anthracycline therapy (anthracycline resistant).

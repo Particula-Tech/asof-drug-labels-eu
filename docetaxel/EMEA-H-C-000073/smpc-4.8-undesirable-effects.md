@@ -1,9 +1,9 @@
-# 4.8 UNDESIRABLE EFFECTS
+# 4.8 Undesirable effects
 
 The adverse reactions considered to be possibly or probably related to the administration of docetaxel have been obtained from 1312 patients with normal LFTs at baseline who received an initial planned dose of 100 mg/m2 over a one-hour infusion independently of the premedication.
 The patients were enrolled in 36 clinical trials conducted in Europe and North America (514 with breast carcinoma and 798 with various tumour types).
 
-HAEMATOLOGY
+Haematology
 
 The most frequent adverse reaction to docetaxel (in patients who did not receive G-CSF) was neutropenia which was reversible and not cumulative.
 The median day to nadir was 7 days and the median duration of severe neutropenia (<500 cells/mm3) was 7 days.
@@ -17,7 +17,7 @@ Bleeding episodes were reported in 2.4% of the patients and were rarely associat
 
 Anaemia (<11g/dl) was observed in 90.4% of the patients and was severe (<8 g/dl) in 8.9 % of the cases.
 
-HYPERSENSITIVITY REACTIONS
+Hypersensitivity reactions
 
 Hypersensitivity reactions (HSRs) have occurred in 25.9% of the patients (9.4% of the cycles) generally within a few minutes following the start of the infusion of docetaxel and were usually mild to moderate.
 The most frequently reported symptoms were flushing, rash with or without pruritus, chest tightness, back pain, dyspnoea and drug fever or chills.
@@ -25,7 +25,7 @@ The most frequently reported symptoms were flushing, rash with or without prurit
 Severe reactions characterised by hypotension and/or bronchospasm or generalized rash/erythema were observed in 5.3% of patients.
 They resolved after discontinuing the infusion and appropriate therapy.
 
-CUTANEOUS
+Cutaneous
 
 Reversible cutaneous reactions have been observed in 56.6% of the patients and were generally considered as mild to moderate.
 73% of these events were reversible within 21 days.
@@ -35,7 +35,7 @@ Less frequently (5.9% of the patients), severe symptoms such as eruptions follow
 
 Nail disorders occurred in 27.9% of the patients and were characterised by hypo- or hyperpigmentation and sometimes pain and onycholysis (2.6% of the patients).
 
-FLUID RETENTION
+Fluid retention
 
 Fluid retention has been reported in 50% (5.3% severe) of patients receiving the recommended premedication compared with 81.6% (22.4% severe) in patients without premedication.
 Events such as peripheral oedema and less frequently pleural effusion, pericardial effusion, ascites, lacrimation with or without conjunctivitis and weight gain have been reported.
@@ -44,10 +44,11 @@ Fluid retention is cumulative in incidence and severity.
 The onset of moderate and severe retention is delayed (median cumulative dose: 745.6 mg/m²) in patients with premedication compared with patients without premedication (median cumulative dose: 489.7 mg/m²); however, it has been reported in some patients during the early courses of therapy.
 Discontinuation occurred in 2 % of the patients treated with the recommended premedication.
 The median time to fluid retention reversibility was 29 weeks (range 0 to 42+ weeks) in patients receiving the recommended premedication.
+
 Fluid retention has not been accompanied by acute episodes of oliguria or hypotension.
 Dehydration has been reported rarely in association with fluid retention.
 
-GASTROINTESTINAL
+Gastrointestinal
 
 Gastrointestinal effects such as nausea, vomiting, diarrhoea, and abdominal pain were seen in 40.5%, 24.5%, 40.6% and 7.3% of the patients treated respectively with an incidence of severe reactions of 4%, 3%, 4%, and 1% respectively.
 Anorexia was reported in 16.8 % of the patients and was infrequently severe.
@@ -58,7 +59,7 @@ Taste perversion has been reported in 10.1% of the patients (0.07% severe).
 
 Gastrointestinal bleeding has been seen in 1.4% of the patients (0.3% severe).
 
-NEUROLOGIC
+Neurologic
 
 Mild to moderate neuro-sensory signs characterised by paresthesia, dysesthesia or pain including burning were reported in 4 5.9% of patients and were considered severe in 4.1% of the cases.
 
@@ -66,21 +67,20 @@ Neuro-motor events mainly characterised by weakness were reported in 13.8% of pa
 
 The events were spontaneously reversible within 3 months in 35.3% of patients with neurotoxicity for whom data is available.
 
-CARDIOVASCULAR
+Cardiovascular
 
 Hypotension occurred in 3.8% of the patients and required therapy in 0.7% of the patients.
 Dysrhythmia occurred in 4.1% of the patients and was severe in 0.7% of the patients.
 Other meaningful cardiovascular events included hypertension (2.4%) or heart failure (0.46%); the relationship of these findings to the administration of docetaxel has not been clearly defined.
 
-INFUSION SITE REACTIONS
-
+Infusion site reactions
 Infusion site reactions were generally mild and occurred in 5.6% of the patients, and consisted of hyperpigmentation, inflammation, redness or dryness of the skin, phlebitis or extravasation and swelling of the vein.
 
-HEPATIC
+Hepatic
 
 Increases in serum levels of AST, ALT, bilirubin and alkaline phosphatase greater than 2.5 times the ULN were observed in less than 5% of the patients.
 
-OTHERS
+Others
 
 Alopecia was observed in a total of 79% of patients but was considered severe in about 67% of the patients.
 Alopecia was reversible in 13% of the patients for whom data is available; the median recovery time was 22 weeks following the initial hair loss.
@@ -91,7 +91,7 @@ Dyspnea was reported in 16.1% (2.7% severe) of the patients and was frequently a
 Generalized or localized pain has been observed in 16.5% of the patients and was severe in 0.8% of patients.
 Chest pain was seen in 4.5% of patients (0.4% severe) without any cardiac or respiratory involvement.
 
-[TAXOTERE® (docetaxel) 80 mg]
+[TAXOTERE (docetaxel) 80 mg]
 
 The patients were enrolled in 36 clinical trials conducted in Europe and North America ( 514 with breast carcinoma and 798 with various tumour types).
 

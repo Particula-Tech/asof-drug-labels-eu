@@ -1,4 +1,4 @@
-# 5.3 PRECLINICAL SAFETY DATA
+# 5.3 Preclinical safety data
 
 The carcinogenic potential of docetaxel has not been studied.
 

@@ -1,4 +1,4 @@
-# 4.5 INTERACTION WITH OTHER MEDICAMENTS AND OTHER FORMS OF INTERACTION
+# 4.5 Interaction with other medicinal products and other forms of interaction
 
 There have been no formal clinical studies to evaluate the drug interactions of docetaxel.
 

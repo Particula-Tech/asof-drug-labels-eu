@@ -1,4 +1,4 @@
-# 4.6 PREGNANCY AND LACTATION
+# 4.6 Use during pregnancy and lactation
 
 There is no information on the use of docetaxel in pregnant women.
 Docetaxel has been shown to be both embryotoxic and foetotoxic in rabbits and rats, and to reduce fertility in rats.
