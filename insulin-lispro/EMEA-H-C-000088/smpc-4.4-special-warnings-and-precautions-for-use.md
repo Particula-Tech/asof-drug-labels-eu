@@ -1,17 +1,9 @@
-# 4.4 Special Warnings and Special Precautions for Use
+# 4.4 Special warnings and special precautions for use
 
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
 Changes in strength, brand (manufacturer), type (regular, NPH, lente, etc.), species (animal, human, human insulin analog), and/or method of manufacture (recombinant DNA versus animal-source insulin) may result in the need for a change in dosage.
 
-The shorter acting HUMALOG® should be drawn into the syringe first, to prevent contamination of
-
-the vial by the longer acting insulin.
-Mixing of the insulins ahead of time or just before the injection should be on advice of the physician.
-However, a consistent routine must be followed.
-
-Patients taking HUMALOG® may require a change in dosage from that used with their usual
-
-insulins.
+Patients taking Humalog may require a change in dosage from that used with their usual insulins.
 If an adjustment is needed, it may occur with the first dose or during the first several weeks or months.
 
 Patients whose blood glucose is greatly improved, e.g. by intensified insulin therapy, may lose some or all of the warning symptoms of hypoglycaemia and should be advised accordingly.

@@ -1,4 +1,4 @@
-# 4.3 Contra-Indications
+# 4.3 Contra-indications
 
 Hypoglycemia.
 

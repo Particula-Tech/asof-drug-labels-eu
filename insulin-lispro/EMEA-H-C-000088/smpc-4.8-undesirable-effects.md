@@ -1,4 +1,4 @@
-# 4.8 Undesirable Effects
+# 4.8 Undesirable effects
 
 Hypoglycemia is the most frequent undesirable effect of insulin therapy that a patient with diabetes may suffer.
 Severe hypoglycemia may lead to loss of consciousness, and in extreme cases, death.
