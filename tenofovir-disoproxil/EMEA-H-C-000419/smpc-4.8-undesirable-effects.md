@@ -21,13 +21,11 @@ Common: flatulence
 
 Approximately 1% of tenofovir disoproxil fumarate treated patients discontinued treatment due to the gastrointestinal events.
 
-Mild to moderate (grade 1 and 2) decreases in serum phosphate (to 1.5 mg/dl (0.48 mmol/l)
-- 2.2 mg/dl (0.70 mmol/l)) were observed in 12% of tenofovir disoproxil fumarate treated patients versus 7% of placebo-treated patients for a mean of 24 weeks (controlled studies) and in 15% of patients treated with tenofovir disoproxil fumarate during a mean of 58 weeks (long term safety data).
+Mild to moderate (grade 1 and 2) decreases in serum phosphate (to 1.5 mg/dl (0.48 mmol/l) - 2.2 mg/dl (0.70 mmol/l)) were observed in 12% of tenofovir disoproxil fumarate treated patients versus 7% of placebo-treated patients for a mean of 24 weeks (controlled studies) and in 15% of patients treated with tenofovir disoproxil fumarate during a mean of 58 weeks (long term safety data).
 Most of these decreases resolved without interruption of treatment, but some patients received phosphate supplementation.
 
 Experience from Post-Marketing Surveillance:
 In addition to adverse reaction reports from clinical trials, the following possible adverse reactions have also been identified during post-approval use of tenofovir disoproxil 245 mg (as fumarate).
-
 Metabolism and nutrition disorders:
 Lactic acidosis
 
@@ -45,6 +43,7 @@ Renal failure, acute renal failure, proximal tubulopathy (including Fanconi synd
 
 General disorders and administration site conditions:
 Asthenia
+
 Investigations:
 Increased creatinine
 

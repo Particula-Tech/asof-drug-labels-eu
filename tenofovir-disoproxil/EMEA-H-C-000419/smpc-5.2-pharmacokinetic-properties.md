@@ -12,7 +12,6 @@ The oral bioavailability of tenofovir from tenofovir disoproxil fumarate in fast
 Administration of tenofovir disoproxil fumarate with a high fat meal enhanced the oral bioavailability, with an increase in tenofovir AUC by approximately 40% and Cmax by approximately 14%.
 Following the first dose of tenofovir disoproxil fumarate in fed patients, the median Cmax in serum ranged from 213 to 375 ng/ml.
 However, administration of tenofovir disoproxil fumarate with a light meal did not have a significant effect on the pharmacokinetics of tenofovir.
-
 Distribution
 Following intravenous administration the steady-state volume of distribution of tenofovir was estimated to be approximately 800 ml/kg.
 After oral administration of tenofovir disoproxil fumarate, tenofovir is distributed to most tissues with the highest concentrations occurring in the kidney, liver and the intestinal contents (preclinical studies).
@@ -23,6 +22,7 @@ In vitro studies have determined that neither tenofovir disoproxil fumarate nor 
 Moreover, at concentrations substantially higher (approximately 300-fold) than those observed in vivo, tenofovir did not inhibit in vitro drug metabolism mediated by any of the major human CYP450 isoforms involved in drug biotransformation (CYP3A4, CYP2D6, CYP2C9, CYP2E1, or CYP1A1/2).
 Tenofovir disoproxil fumarate at a concentration of 100 µmol/l had no effect on any of the CYP450 isoforms, except CYP1A1/2, where a small (6%) but statistically significant reduction in metabolism of CYP1A1/2 substrate was observed.
 Based on these data, it is unlikely that clinically significant interactions involving tenofovir disoproxil fumarate and medicinal products metabolised by CYP450 would occur.
+
 Elimination
 Tenofovir is primarily excreted by the kidney by both filtration and an active tubular transport system with approximately 70-80% of the dose excreted unchanged in urine following intravenous administration.
 Total clearance has been estimated to be approximately 230 ml/h/kg (approximately 300 ml/min).
@@ -50,8 +50,7 @@ The clinical implications of this are unknown.
 In patients with end-stage renal disease (ESRD) (CrCl < 10 ml/min) requiring haemodialysis, between dialysis tenofovir concentrations substantially increased over 48 hours achieving a mean Cmax of 1,032 ng/ml and a mean AUC0-48h of 42,857 ng·h/ml.
 It is recommended that the dosing interval for tenofovir disoproxil 245 mg (as fumarate) is modified in patients with creatinine clearance < 50 ml/min or in patients who already have ESRD and require dialysis (see 4.2).
 
-The pharmacokinetics of tenofovir in non-haemodialysis patients with creatinine clearance
-< 10 ml/min and in patients with ESRD managed by peritoneal or other forms of dialysis have not been studied.
+The pharmacokinetics of tenofovir in non-haemodialysis patients with creatinine clearance < 10 ml/min and in patients with ESRD managed by peritoneal or other forms of dialysis have not been studied.
 
 Hepatic Impairment
 A single 245 mg dose of tenofovir disoproxil was administered to non-HIV infected patients with varying degrees of hepatic impairment defined according to Child-Pugh-Turcotte (CPT) classification.

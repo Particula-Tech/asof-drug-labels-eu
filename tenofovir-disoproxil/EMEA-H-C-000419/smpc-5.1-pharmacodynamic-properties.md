@@ -7,8 +7,7 @@ Tenofovir disoproxil is absorbed and converted to the active substance tenofovir
 Tenofovir is then converted to the active metabolite, tenofovir diphosphate, by constitutively expressed cellular enzymes through two phosphorylation reactions in both resting and activated T cells.
 Tenofovir diphosphate has an intracellular half-life of 10 hours in activated and 50 hours in resting peripheral blood mononuclear cells (PBMCs).
 Tenofovir diphosphate inhibits viral polymerases by direct binding competition with the natural deoxyribonucleotide substrate and, after incorporation into DNA, by DNA chain termination.
-Tenofovir diphosphate is a weak inhibitor of cellular polymerases α, β, and γ, with kinetic inhibition constants (Ki) that are > 200-fold higher against human DNA polymerase α
-(5.2 µmol/l) and > 3,000-fold higher against human DNA polymerase β and γ (81.7 and 59.5 µmol/l, respectively) than its Ki against HIV-1 reverse transcriptase (0.02 µmol/l).
+Tenofovir diphosphate is a weak inhibitor of cellular polymerases α, β, and γ, with kinetic inhibition constants (Ki) that are > 200-fold higher against human DNA polymerase α (5.2 µmol/l) and > 3,000-fold higher against human DNA polymerase β and γ (81.7 and 59.5 µmol/l, respectively) than its Ki against HIV-1 reverse transcriptase (0.02 µmol/l).
 At concentrations of up to 300 µmol/l, tenofovir has also shown no effect on the synthesis of mitochondrial DNA or the production of lactic acid in in vitro assays.
 
 Pharmacodynamic effects: Tenofovir has in vitro antiviral activity against retroviruses and hepadnaviruses.
@@ -51,7 +50,9 @@ Eight (2%) tenofovir disoproxil 245 mg (as fumarate) treated patients developed 
 Study GS-99-903 is an ongoing 144-week, double-blind, active controlled study evaluating the efficacy and safety of tenofovir disoproxil 245 mg (as fumarate) versus stavudine when used in combination with lamivudine and efavirenz in HIV -1 infected patients naïve to antiretroviral therapy.
 The mean baseline CD4 cell count was 279 cells/mm3, the mean baseline plasma HIV-1 RNA was 4.91 log10 copies/ml, 19% of patients had symptomatic HIV-1 infection and 18% had AIDS.
 Patients were stratified by baseline HIV-1 RNA and CD4 count.
-Forty-three percent of patients had baseline viral loads > 100,000 copies/ml and 39% had CD4 cell counts < 200 cells/ml.
+Forty-three percent of patients had baseline viral loads
+> 100,000 copies/ml and 39% had CD4 cell counts < 200 cells/ml.
+
 By intent to treat analysis, the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml after 48 weeks treatment was 80% and 76% respectively in the tenofovir disoproxil 245 mg (as fumarate) arm, compared to 84% and 80 % in the stavudine arm.
 The average change from baseline for HIV-1 RNA and CD4 count after 48 weeks of treatment was similar in both treatment groups (-3.09 and -3.09 log10 copies/ml; +169 and 167 cells/mm3 in the tenofovir disoproxil 245 mg (as fumarate) and stavudine groups, respectively).
 A consistent response to treatment with tenofovir disoproxil 245 mg (as fumarate) was seen regardless of baseline HIV-1 RNA and CD4 count.

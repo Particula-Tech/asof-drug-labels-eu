@@ -7,6 +7,7 @@ Co-administration of tenofovir disoproxil fumarate with other medicinal products
 
 Concomitant antiretroviral medicinal products
 Emtricitabine, lamivudine, indinavir and efavirenz: co-administration with tenofovir disoproxil fumarate did not result in any interaction.
+
 When tenofovir disoproxil fumarate was administered with lopinavir/ritonavir, no changes were observed in the pharmacokinetics of lopinavir and ritonavir.
 Tenofovir AUC was increased by approximately 30% when tenofovir disoproxil fumarate was administered with lopinavir/ritonavir.
 
