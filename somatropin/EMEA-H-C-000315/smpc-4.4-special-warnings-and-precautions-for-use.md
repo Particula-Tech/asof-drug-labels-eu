@@ -11,11 +11,10 @@ In patients with previous malignant disease, special attention should be given t
 Patients with a history of an intracranial lesion should be examined frequently for progression or recurrence of the lesion.
 
 The effects of growth hormone on recovery were studied in two placebo-controlled clinical trials involving 522 adult patients who were critically ill due to complications following open-heart or abdominal surgery, multiple accidental traumas, or who were having acute respiratory failure.
-Mortality was higher (41.9 % vs. 19.3 %) among growth hormone treated patients (doses 5.3 - 8 mg/day) compared to those receiving placebo.
+Mortality was higher (41.9 % vs. 19.3 %) among growth hormone treated patients (doses 5.3 – 8 mg/day) compared to those receiving placebo.
 
 The safety of continuing somatropin treatment in patients with acute critical illness in intensive care units due to complications following open-heart or abdominal surgery, multiple accidental trauma or acute respiratory failure receiving replacement doses for approved indications has not been established.
 Therefore, the benefit-risk assessment for continuing treatment should be performed carefully.
-
 Paediatric patients with endocrine disorders, including growth hormone deficiency, have a higher incidence of slipped capital femoral epiphyses.
 Any patient with the onset of a limp or complaint of hip or knee pain should be evaluated.
 

@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Schwarz Pharma AG
-Alfred-Nobel-Straße 10
-40789 Monheim
-Germany
+IPSEN Limited
+190 Bath Road
+Slough, Berkshire
+SL1 3XE, United Kingdom

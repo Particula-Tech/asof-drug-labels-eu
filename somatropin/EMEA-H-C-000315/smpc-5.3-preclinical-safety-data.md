@@ -5,7 +5,6 @@ Due to its hormonal activity, somatropin may exert a promotional effect on tumou
 To date, this has not been confirmed in patients.
 
 Local tolerance studies with NutropinAq showed no substantial adverse local reactions.
-
 Studies in transgenic mice suggest a low antibody provoking potential of (aged) liquid Nutropin.
 
 No common reproduction studies were performed.

@@ -2,7 +2,7 @@
 
 Undesirable effects from a postmarketing surveillance program
 
-Safety data from 9829 patients treated with Nutropin or NutropinAq - derived from a postmarketing surveillance program in the United States - demonstrate that approximately 2% of patients can be expected to experience drug-related adverse reactions.
+Safety data from 9829 patients treated with Nutropin or NutropinAq – derived from a postmarketing surveillance program in the United States – demonstrate that approximately 2% of patients can be expected to experience drug-related adverse reactions.
 
 Overall, 81 patients reported undesirable effects in the “Body as a Whole” body system.
 The number of subjects with adverse drugs reactions (ADRs) in other body systems was as follows: Cardiovascular: 5, Digestive: 9, Endocrine: 7, Haematological/Lymphatic: 2, Metabolic: 18, Musculoskeletal: 33, Nervous: 24, Skin: 11, Special Senses: 3, Urogenital: 13.
@@ -79,7 +79,7 @@ The following table gives an overview of very common or common ADRs, which occur
 | Gynaecomastia | (-) | (-) | (-) | 2 (2%) |
 
 Uncommon ADRs are listed below.
-These events occurred in 1 out of all treated patients (0.15%) - unless otherwise indicated.
+These events occurred in 1 out of all treated patients (0.15%) – unless otherwise indicated.
 
 Body as a whole: injection site atrophy, injection site oedema, injection site haemorrhage, injection site hypersensitivity, injection site mass (0.5%), carcinoma, neoplasm, hypertrophy, abdominal pain.
 
@@ -96,9 +96,9 @@ Nervous: somnolence, nystagmus, personality disorder, vertigo.
 Skin/Appendages: skin atrophy, urticaria, exfoliative dermatitis, hirsutism, skin hypertrophy.
 
 Special Senses: diplopia, papilloedema.
+
 Urogenital: urinary incontinence, leukorrhoea, polyuria, urine frequency, urine abnormality, urine haemorrhage.
 
 Compared to untreated Turner syndrome patients, no new or unexpected safety signals unique to Turner syndrome patients treated with somatropin were identified.
 The incidence of known complications of the underlying syndrome was not altered.
-
 In patients with chronic renal insufficiency, there was no evidence that NutropinAq altered the rate of progression of renal failure or renal osteodystrophy.
