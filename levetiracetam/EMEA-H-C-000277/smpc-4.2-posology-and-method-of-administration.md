@@ -24,7 +24,6 @@ The daily dose must be individualised according to renal function.
 Refer to the following table and adjust the dose as indicated.
 To use this dosing table, an estimate of the patient's creatinine clearance (CLcr) in ml/min is needed.
 The CLcr in ml/min may be estimated from serum creatinine (mg/dl) determination using the following formula:
-
 [140-age (years)] x weight (kg)
 CLcr = ----------------------------------------- (x 0.85 for women)
 72 x serum creatinine (mg/dl)
@@ -40,9 +39,8 @@ Normal > 80 500 to 1,500 mg twice daily
 Mild 50-79 500 to 1,000 mg twice daily
 Moderate 30-49 250 to 750 mg twice daily
 Severe < 30 250 to 500 mg twice daily
-End-stage renal disease - 500 to 1,000 mg once daily (2)
+End-stage renal disease patients - 500 to 1,000 mg once daily (2)
 
-patients
 Undergoing dialysis (1)
 (1) A 750 mg loading dose is recommended on the first day of treatment with levetiracetam.
 (2) Following dialysis, a 250 to 500 mg supplemental dose is recommended.

@@ -1,7 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Data indicate that Keppra did not influence the serum concentrations of existing antiepileptic medicinal products (phenytoin, carbamazepine, valproic acid, phenobarbital, lamotrigine, gabapentin and primidone) and that these antiepileptic medicinal products did not influence the pharmacokinetics of Keppra.
-
+Pre-marketing data from clinical studies indicate that Keppra did not influence the serum concentrations of existing antiepileptic medicinal products (phenytoin, carbamazepine, valproic acid, phenobarbital, lamotrigine, gabapentin and primidone) and that these antiepileptic medicinal products did not influence the pharmacokinetics of Keppra.
 Probenecid (500 mg four times daily), a renal tubular secretion blocking agent, has been shown to inhibit the renal clearance of the primary metabolite but not of levetiracetam.
 Nevertheless, the concentration of this metabolite remains low.
 It is expected that other drugs excreted by active tubular secretion could also reduce the renal clearance of the metabolite.
@@ -15,15 +14,3 @@ No data on the influence of antacids on the absorption of levetiracetam are avai
 
 The extent of absorption of levetiracetam was not altered by food, but the rate of absorption was slightly reduced.
 No data on the interaction of levetiracetam with alcohol are available.
-
-[Keppra 500 mg film-coated tablets.]
-
-The effect of levetiracetam on probenecid was not studied and the effect of levetiracetam on other actively secreted drugs, e.g. NSAIDs, sulphonamides and methotrexate is unknown.
-
-[Keppra 750 mg film-coated tablets.]
-
-(all sentences already above)
-
-[Keppra 1000 mg film-coated tablets.]
-
-(all sentences already above)

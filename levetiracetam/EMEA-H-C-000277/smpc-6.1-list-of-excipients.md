@@ -2,6 +2,7 @@
 
 Core:
 maize starch, povidone K30, talc, colloidal anhydrous silica, magnesium stearate
+
 Film-coating Opadry OY-S-30913:
 hypromellose, macrogol 4000, titanium dioxide (E 171), indigo carmine lake (E 132)
 
