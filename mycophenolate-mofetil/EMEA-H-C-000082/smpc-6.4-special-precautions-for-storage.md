@@ -1,3 +1,3 @@
 # 6.4 Special precautions for storage
 
-Store at or below 30ºC.
+Powder for oral suspension and constituted suspension: Store below 30oC.

@@ -1,6 +1,6 @@
 # 4.4 Special warnings and special precautions for use
 
-As in patients receiving immunosuppressive regimes involving combinations of drugs, patients receiving CellCept as part of an immunosuppressive regime are at increased risk of developing lymphomas and other malignancies, particularly of the skin (See section 4.8 Undesirable effects).
+As in patients receiving immunosuppressive regimes involving combinations of drugs, patients receiving CellCept as part of an immunosuppressive regime are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see section 4.8 Undesirable effects).
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
@@ -18,8 +18,12 @@ Patients receiving CellCept should be instructed to report immediately any evide
 Because CellCept has been associated with an increased incidence of digestive system adverse events, including infrequent cases of gastrointestinal tract ulceration, haemorrhage and perforation, CellCept should be administered with caution in patients with active serious digestive system disease.
 
 Administration of doses greater than 1 g BID to renal transplant patients with severe chronic renal impairment should be avoided and they should be carefully observed.
-No dose adjustment is recommended for patients with delayed renal graft function post-transplant, however, they should be carefully observed (see section 4.2 Posology and method of administration, and section 5.2 Pharmacokinetic properties) No data are available for cardiac transplant patients with severe chronic renal impairment.
+No dose adjustment is recommended for patients with delayed renal graft function post-transplant, however, they should be carefully observed (see section 4.2 Posology and method of administration, and section 5.2 Pharmacokinetic properties).
+No data are available for cardiac transplant patients with severe chronic renal impairment.
 
 It is recommended that CellCept not be administered concomitantly with azathioprine because such concomitant administration has not been studied.
 
 In view of the significant reduction in the AUC of MPA by cholestyramine, caution should be used in the concomitant administration of CellCept with drugs that interfere with enterohepatic recirculation because of the potential to reduce the efficacy of CellCept.
+
+CellCept 1 g/5 ml powder for oral suspension contains aspartame.
+Therefore care should be taken if CellCept 1 g/5 ml powder for oral suspension is administered to patients with phenylketonuria (see section 6.1 List of excipients).

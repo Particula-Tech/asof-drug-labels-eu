@@ -1,3 +1,4 @@
 # 6.3 Shelf-life
 
-CellCept capsules have a shelf life of three years when stored in opaque polyvinyl chloride blister packs at temperatures not exceeding 30° C.
+The shelf-life of the powder for oral suspension is two years.
+The shelf-life of the constituted suspension is two months.
