@@ -34,6 +34,7 @@ Similarly the risk/benefit of continued Rapamune therapy should be re-evaluated 
 
 In the limited number of patients studied, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates was well tolerated.
 Patients administered Rapamune, in conjunction with an HMG-CoA reductase inhibitor or a fibrate, should be monitored for the development of rhabdomyolysis and other adverse effects as described in the Summary of Product Characteristics of these agents.
+
 Renal function should be monitored during concomitant administration of Rapamune and cyclosporine.
 Appropriate adjustment of the immunosuppression regimen should be considered in patients with elevated serum creatinine levels.
 Caution should be exercised when co-administering other agents that are known to have a deleterious effect on renal function.
