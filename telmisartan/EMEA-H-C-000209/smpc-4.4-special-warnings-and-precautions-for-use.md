@@ -1,7 +1,7 @@
 # 4.4 Special warnings and special precautions for use
 
 Hepatic impairment:
-Micardis should not be given to patients with cholestasis, biliary obstructive disorders or severe hepatic insufficiency (see 4.3 Contraindications) since telmisartan is mostly eliminated with the bile.
+Micardis should not be given to patients with cholestasis, biliary obstructive disorders or severe hepatic insufficiency (see section 4.3) since telmisartan is mostly eliminated with the bile.
 These patients can be expected to have reduced hepatic clearance for telmisartan.
 Micardis should be used only with caution in patients with mild to moderate hepatic impairment.
 
@@ -9,7 +9,7 @@ Renovascular hypertension:
 There is an increased risk of severe hypotension and renal insufficiency when patients with bilateral renal artery stenosis or stenosis of the artery to a single functioning kidney are treated with medicinal products that affect the renin-angiotensin-aldosterone system.
 
 Renal impairment and kidney transplant:
-Micardis should not be used in patients with severe renal impairment (creatinine clearance < 30 ml/min) (see 4.3 Contraindications).
+Micardis should not be used in patients with severe renal impairment (creatinine clearance < 30 ml/min) (see section 4.3).
 When Micardis is used in patients with impaired renal function, a periodic monitoring of potassium and creatinine serum levels is recommended.
 There is no experience regarding the administration of Micardis in patients with a recent kidney transplant.
 
@@ -32,11 +32,11 @@ Electrolyte imbalance: Hyperkalaemia:
 During treatment with other medicinal products that affect the renin-angiotensin-aldosterone system hyperkalaemia may occur, especially in the presence of renal impairment and/or heart failure and diabetes mellitus.
 Adequate monitoring of serum potassium in patients at risk is recommended.
 
-Based on experience with the use of other medicinal products that affect the renin-angiotensin system, concomitant use with potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium or other medicinal products that may increase the potassium level (heparin, etc.) may lead to an increase in serum potassium and should therefore be co-administered cautiously with Micardis (see section 4.5 Interaction with other medicinal products and other forms of interaction).
-
+Based on experience with the use of other medicinal products that affect the renin-angiotensin system, concomitant use with potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium or other medicinal products that may increase the potassium level (heparin, etc.) may lead to an increase in serum potassium and should therefore be co-administered cautiously with Micardis (see section 4.5).
 Sorbitol:
 A recommended daily dose of Micardis 20 mg tablets contains 84.5 mg sorbitol.
-Micardis is therefore unsuitable for patients with hereditary fructose intolerance.
+Patients with hereditary problems of fructose intolerance should not take Micardis.
+
 Other:
 As observed for angiotensin converting enzyme inhibitors, telmisartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population.
 
@@ -48,6 +48,6 @@ A recommended daily dose of Micardis 40 mg tablets contains 169 mg sorbitol.
 
 [Micardis 80 mg tablets]
 
-Micardis should not be used in patients with severe renal impairment (creatinine clearance < 30 ml/min) (see 4.3 Contraindications).When Micardis is used in patients with impaired renal function, a periodic monitoring of potassium and creatinine serum levels is recommended.
+Micardis should not be used in patients with severe renal impairment (creatinine clearance < 30 ml/min) (see section 4.3).When Micardis is used in patients with impaired renal function, a periodic monitoring of potassium and creatinine serum levels is recommended.
 
 A recommended daily dose of Micardis 80 mg tablets contains 338 mg sorbitol.

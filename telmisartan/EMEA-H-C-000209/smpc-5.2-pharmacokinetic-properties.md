@@ -30,6 +30,7 @@ Plasma concentrations were higher in females than in males, without relevant inf
 After oral (and intravenous) administration telmisartan is nearly exclusively excreted with the faeces, mainly as unchanged compound.
 Cumulative urinary excretion is < 1% of dose.
 Total plasma clearance (Cltot) is high (approximately 1,000 ml/min) compared with hepatic blood flow (about 1,500 ml/min).
+
 Special Populations
 
 Elderly patients:
@@ -43,11 +44,3 @@ The elimination half-life is not changed in patients with renal impairment.
 Patients with hepatic impairment:
 Pharmacokinetic studies in patients with hepatic impairment showed an increase in absolute bioavailability up to nearly 100 %.
 The elimination half-life is not changed in patients with hepatic impairment.
-
-[Micardis 40 mg tablets]
-
-When telmisartan is taken with food, the reduction in the area under the plasma concentration-time curve (AUC0-�) of telmisartan varies from approximately 6 % (40 mg dose) to approximately 19 % (160 mg dose).
-
-[Micardis 80 mg tablets]
-
-(all sentences already above)

@@ -2,7 +2,7 @@
 
 Each tablet contains 20 mg of telmisartan
 
-For excipients, see 6.1.
+For excipients, see section 6.1.
 
 [Micardis 40 mg tablets]
 

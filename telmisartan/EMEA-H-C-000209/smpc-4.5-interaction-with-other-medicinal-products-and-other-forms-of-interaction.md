@@ -7,7 +7,7 @@ Co-administration of lithium and Micardis should be done with caution.
 If this combination proves essential, serum lithium level monitoring is recommended during concomitant use.
 
 Medicinal products that may increase potassium levels or induce hyperkalaemia (e.g. ACE inhibitors, potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium, cyclosporin or other medicinal products such as heparin sodium): If these medicinal products are to be prescribed with telmisartan, monitoring of potassium plasma levels is advised.
-Based on the experience with the use of other medicinal products that blunt the renin-angiotensin system, concomitant use of the above medicinal products may lead to increases in serum potassium (see section 4.4 Special warnings and special precautions for use).
+Based on the experience with the use of other medicinal products that blunt the renin-angiotensin system, concomitant use of the above medicinal products may lead to increases in serum potassium (see section 4.4).
 
 Compounds, which have been studied in pharmacokinetic trials include digoxin, warfarin, hydrochlorothiazide, glibenclamide, ibuprofen, paracetamol and amlodipine.
 For digoxin a 20 % increase in median plasma digoxin trough concentration has been observed (39 % in a single case), monitoring of plasma digoxin levels should be considered.
