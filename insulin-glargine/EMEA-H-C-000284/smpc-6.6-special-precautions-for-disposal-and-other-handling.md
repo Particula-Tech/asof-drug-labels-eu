@@ -41,8 +41,7 @@ The Instructions for Use included in the Package Leaflet must be read carefully 
 Pen cap
 Injection
 needle cap Outer needle capInner Insulin reservoir Black plunger Dose arrow button
-Needle Coloured Residual Dosage selector
-bar insulin scale
+Needle Coloured bar insulin scaleResidual Dosage selector
 
 Schematic diagram of the pen
 
@@ -54,11 +53,12 @@ Important information for use of OptiSet:
 - If OptiSet is damaged or not working properly (due to mechanical defects) it has to be discarded and a new OptiSet has to be used
 
 General Notes
+
 - The injection button allows checking the actual loaded dose: The button should be pulled out.
-While holding it out, the last thick bar visible (only the top part can be seen) shows the amount of insulin loaded.
-If it is difficult to see, the pen may be held at an angle.
+  While holding it out, the last thick bar visible (only the top part can be seen) shows the amount of insulin loaded.
+  If it is difficult to see, the pen may be held at an angle.
 - The insulin pen must not be dropped or subjected to impact; otherwise, the insulin cartridge in the transparent insulin reservoir may break and the pen will not work.
-If this happens, a new pen must be used.
+  If this happens, a new pen must be used.
 
 Step 1.
 Check the Insulin
@@ -85,6 +85,7 @@ The outer and inner needle caps should be removed.
 While holding the pen with the needle pointing upwards, the insulin reservoir should be tapped gently with the finger so that any air bubbles rise up towards the needle
 
 Then the injection button should be pressed in completely.
+
 If insulin has been expelled through the needle tip, then the pen and the needle are working properly.
 If no insulin appears at the needle tip, step 3 should be repeated until insulin appears at the needle tip.
 
@@ -110,7 +111,6 @@ This ensures that the full dose of insulin has been injected.
 
 Step 6.
 Removing the needle
-
 The needle should be removed after each injection and discarded.
 This will prevent contamination as well as leakage, re-entry of air and potential needle blocks.
 Needles must not be reused.

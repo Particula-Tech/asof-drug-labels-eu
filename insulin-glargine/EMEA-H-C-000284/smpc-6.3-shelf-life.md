@@ -6,6 +6,8 @@ It is recommended that the date of first withdrawal from the vial be noted on th
 
 [Lantus 100 IU/ml solution for injection in a cartridge.]
 
+3 years.
+
 Shelf life after first use of the cartridge: 4 weeks.
 
 [Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]

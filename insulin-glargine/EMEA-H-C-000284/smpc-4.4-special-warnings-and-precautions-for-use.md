@@ -64,10 +64,6 @@ Patients with type 1 diabetes must continue to consume at least a small amount o
 
 Due to limited experience the efficacy and safety of Lantus could not be assessed in children below 6 years of age, in patients with impaired liver function or in patients with moderate/severe renal impairment (see 4.2).
 
-- certain uncompensated endocrine disorders, (e.g. in hypothyroidism and in anterior pituitary or
-
-adrenocortical insufficiency),
-
 [Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]
 
 (all sentences already above)
