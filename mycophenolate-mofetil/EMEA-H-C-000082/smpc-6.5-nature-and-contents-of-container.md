@@ -1,4 +1,4 @@
 # 6.5 Nature and content of container
 
-20 ml type I clear glass vials with grey butyl rubber stopper and aluminium seals with plastic flip-off caps.
-CellCept 500 mg powder for concentrate for solution for infusion is available in packs containing 4 vials.
+CellCept 250 mg capsules: 1 carton contains 100 capsules (in blister packs of 10)
+1 carton contains 300 capsules (in blister packs of 10)
