@@ -8,35 +8,34 @@ There were no signs of cumulative haematological or non-haematological toxicity 
 Adverse reactions are list below, by system organ class and absolute frequency.
 Frequencies are defined as: very common (> 1/10), common (> 1/100, < 1/10); uncommon (> 1/1,000, < 1/100); rare (> 1/10,000, < 1/1,000); very rare (< 1/10,000), including isolated reports.
 
-Blood and lymphatic system disorders
-Very Common : neutropenia*, thrombocytopenia*, anaemia*.
+B lood and lymphatic system disorders
+V ery Common : neutropenia*, thrombocytopenia*, anaemia*.
 
-Immune system disorders
-Rare : anaphylactic reaction, hypersensitivity reaction, angioedema, urticaria, rash.
+I mmune system disorders
+R are : anaphylactic reaction, hypersensitivity reaction, angioedema, urticaria, rash.
 
-Metabolism and nutrition disorders
-Uncommon : anorexia.
+M etabolism and nutrition disorders
+U ncommon : anorexia.
 
-Gastrointestinal disorders
-Very common : nausea*, vomiting*, diarrhoea*, constipation, mucositis*.
-Common : abdominal pain.
+G astrointestinal disorders
+V ery common : nausea*, vomiting*, diarrhoea*, constipation, mucositis*.
+C ommon : abdominal pain.
 
-Hepato-biliary disorders
-Uncommon : hyperbilirubinaemia.
+H epato-biliary disorders
+U ncommon : hyperbilirubinaemia.
 
-Skin and subcutaneous tissue disorders
-Very common : alopecia*.
-Common : pruritis.
+S kin and subcutaneous tissue disorders
+V ery common : alopecia*.
+C ommon : pruritis.
 
-General disorders and administration site conditions
-Very common : asthenia*, fatigue*.
-Uncommon : malaise.
-Rare : extravasation.
+G eneral disorders and administration site conditions
+V ery common : asthenia*, fatigue*.
+U ncommon : malaise.
+R are : extravasation*.
 
 * see detailed section below
-
 Haematological
-Neutropenia: Severe (neutrophil count <0.5 x 109/l) during course 1 was seen in 60 % of the patients and with duration ≥ 7 days in 20 % and overall in 79 % of patients (42 % of courses).
+Neutropenia: Severe (neutrophil count <0.5 x 109/l) during course 1 was seen in 60 % of the patients and with duration � 7 days in 20 % and overall in 79 % of patients (42 % of courses).
 In association with severe neutropenia, fever or infection occurred in 16 % of patients during course 1 and overall in 21 % of patients (7 % of courses).
 Median time to onset of severe neutropenia was 9 days and the median duration was 7 days.
 Severe neutropenia lasted beyond 7 days in 13 % of courses overall.
@@ -48,7 +47,7 @@ Median time to onset of severe thrombocytopenia was Day 14 and the median durati
 Platelet transfusions were given in 4 % of courses.
 Significant sequelae associated with thrombocytopenia were rare.
 
-Anaemia: Moderate to severe (Hb ≤ 7.9 g/dl) in 36 % of patients (15 % of courses).
+Anaemia: Moderate to severe (Hb � 7.9 g/dl) in 36 % of patients (15 % of courses).
 Red cell transfusions were given in 54 % of patients (23 % of courses).
 
 Non-haematological
@@ -62,7 +61,7 @@ Severe (grade 3 or 4) fatigue and asthenia incidence was 4 and 2 % respectively.
 
 Total or pronounced alopecia was observed in 42 % of patients and partial alopecia in 17 % of patients.
 
-Other severe events occurring in ≥ 1 % patients that were recorded as related or possibly related to topotecan treatment were anorexia (1 %), malaise (1 %) and hyperbilirubinaemia (1 %).
+Other severe events occurring in � 1 % patients that were recorded as related or possibly related to topotecan treatment were anorexia (1 %), malaise (1 %) and hyperbilirubinaemia (1 %).
 
 Hypersensitivity reactions including rash, urticaria, angioedema and anaphylactic reactions have been reported rarely.
 In clinical trials, rash was reported in 12.4 % of patients and pruritis in 2.7 % of patients.
@@ -72,4 +71,4 @@ Reactions have been mild and have not generally required specific therapy.
 
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
-Neutropenia: Severe (neutrophil count < 0.5 x 109/l) during course 1 was seen in 60 % of the patients and with duration ≥ 7 days in 20 % and overall in 79 % of patients (42 % of courses).
+Neutropenia: Severe (neutrophil count < 0.5 x 109/l) during course 1 was seen in 60 % of the patients and with duration � 7 days in 20 % and overall in 79 % of patients (42 % of courses).
