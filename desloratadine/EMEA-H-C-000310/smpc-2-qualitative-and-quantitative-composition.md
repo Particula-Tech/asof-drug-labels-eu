@@ -1,8 +1,12 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each ml of syrup contains 0.5 mg desloratadine.
+Each tablet contains 5 mg desloratadine.
 
 For excipients, see 6.1.
+
+[Azomyr 0.5 mg/ml syrup]
+
+Each ml of syrup contains 0.5 mg desloratadine.
 
 [Azomyr 5 mg oral lyophilisate]
 
