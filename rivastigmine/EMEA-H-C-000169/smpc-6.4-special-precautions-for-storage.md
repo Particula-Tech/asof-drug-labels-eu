@@ -1,3 +1,5 @@
 # 6.4 Special precautions for storage
 
-Store below 30°C
+Do not store above 30°C.
+Do not refrigerate or freeze.
+Store in an upright position.

@@ -1,4 +1,4 @@
 # 6.5 Nature and content of container
 
-Blister with 14 capsules; clear PVC tray with blue lidding foil.
-Each box contains 2, 4 or 8 blisters.
+120 ml Type III amber glass bottle with a child-resistant cap, dip tube and self aligning plug.
+The oral solution is packaged with an oral dosing syringe in a plastic tube container.

@@ -1,9 +1,5 @@
 # 4.4 Special warnings and special precautions for use
 
-Treatment should be initiated and supervised by a physician experienced in the diagnosis and treatment of Alzheimer’s dementia.
-Diagnosis should be made according to current guidelines.
-Therapy with rivastigmine should only be started if a caregiver is available who will regularly monitor drug intake by the patient.
-
 The use of rivastigmine in patients with severe Alzheimer’s dementia, other types of dementia or other types of memory impairment (e.g. age-related cognitive decline) has not been investigated.
 
 Gastrointestinal disorders such as nausea and vomiting may occur particularly when initiating treatment and/or increasing the dose.
@@ -21,3 +17,6 @@ Cholinesterase inhibitors should be prescribed with care to patients with a hist
 
 Cholinomimetics may induce or exacerbate urinary obstruction and seizures.
 Although this has not been observed with rivastigmine caution is recommended in treating patients predisposed to such diseases.
+
+One of the excipients in Exelon oral solution is sodium benzoate.
+Benzoic acid is a mild irritant to the skin, eyes and mucous membrane.
