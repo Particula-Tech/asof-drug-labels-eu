@@ -10,5 +10,5 @@ Although the possible in vivo interaction of docetaxel with concomitantly admini
 In addition, dexamethasone did not affect protein binding of docetaxel.
 Docetaxel did not influence the binding of digitoxin.
 
-In the doxorubicin/docetaxel combination, the clearance of docetaxel was increased
-(see « Pharmacokinetic properties »).
+In the doxorubicin/docetaxel combination, the clearance of docetaxel was increased (see
+« Pharmacokinetic properties »).

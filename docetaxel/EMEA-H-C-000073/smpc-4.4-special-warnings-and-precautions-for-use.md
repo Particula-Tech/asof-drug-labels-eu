@@ -3,15 +3,15 @@
 A premedication consisting of an oral corticosteroid, such as dexamethasone 16 mg per day (e.g. 8 mg BID) for 3 days starting 1 day prior to docetaxel administration, unless contraindicated, can reduce the incidence and severity of fluid retention as well as the severity of hypersensitivity reactions (see «Posology and method of administration» section).
 
 Haematology
+
 Neutropenia is the most frequent adverse reaction of docetaxel.
 Neutrophil nadirs occurred at a median of 7 days but this interval may be shorter in heavily pre-treated patients.
 Frequent monitoring of complete blood counts should be conducted on all patients receiving docetaxel.
-Patients should be retreated with docetaxel when neutrophils recover to a level ≥
-1,500 cells/mm3 (See «Posology and method of administration» section).
+Patients should be retreated with docetaxel when neutrophils recover to a level �1,500 cells/mm3 (See «Posology and method of administration» section).
 
 In the case of severe neutropenia (<500 cells/mm3 for seven days or more) during a course of docetaxel therapy, a reduction in dose for subsequent courses of therapy or the use of appropriate symptomatic measures are recommended (see «Posology and method of administration» section).
-Hypersensitivity reactions
 
+Hypersensitivity reactions
 Patients should be observed closely for hypersensitivity reactions especially during the first and second infusions.
 Hypersensitivity reactions may occur within a few minutes following the initiation of the infusion of docetaxel, thus facilities for the treatment of hypotension and bronchospasm should be available.
 If hypersensitivity reactions occur, minor symptoms such as flushing or localised cutaneous reactions do not require interruption of therapy.
@@ -22,7 +22,6 @@ Cutaneous reactions
 
 Localised skin erythema of the extremities (palms of the hands and soles of the feet) with oedema followed by desquamation has been observed.
 Severe symptoms such as eruptions followed by desquamation which lead to interruption or discontinuation of docetaxel treatment were reported (see «Posology and method of administration» section).
-Localised bullous eruptions have rarely been reported.
 
 Fluid retention
 
@@ -42,3 +41,8 @@ The development of severe peripheral neurotoxicity requires a reduction of dose 
 Others
 
 Contraceptive measures must be taken during and for at least three months after cessation of therapy.
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+Severe symptoms such as eruptions followed by desquamation which lead to interruption or discontinuation of docetaxel treatment were reported
+(see «Posology and method of administration» section).
