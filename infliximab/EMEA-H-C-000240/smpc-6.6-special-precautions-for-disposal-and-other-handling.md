@@ -35,7 +35,6 @@ Do not store any unused portion of the infusion solution for reuse.
 5.
 No physical biochemical compatibility studies have been conducted to evaluate the co-administration of Remicade with other agents.
 Do not infuse Remicade concomitantly in the same intravenous line with other agents.
-
 6.
 Visually inspect parenteral medicinal products for particulate matter or discoloration prior to administration.
 Do not use if visibly opaque particles, discoloration or foreign particulates are observed.

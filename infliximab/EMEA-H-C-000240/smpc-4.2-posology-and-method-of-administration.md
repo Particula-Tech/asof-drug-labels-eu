@@ -5,9 +5,10 @@ Remicade is for intravenous use in adults and has not been studied in children (
 Remicade treatment is to be administered under the supervision and monitoring of specialised physicians experienced in the diagnosis and treatment of rheumatoid arthritis, inflammatory bowel diseases, or ankylosing spondylitis.
 Patients treated with Remicade should be given the package leaflet and the special Alert card.
 
+The recommended infusion time is 2 hours.
 All patients administered Remicade are to be observed for at least 1-2 hours post infusion for acute infusion related reactions.
 Emergency equipment, such as adrenaline, antihistamines, corticosteroids and an artificial airway must be available.
-Patients may be pretreated with e.g., an antihistamine, hydrocortisone and/or paracetamol to decrease the risk of infusion related reactions (see section 4.4).
+Patients may be pretreated with e.g., an antihistamine, hydrocortisone and/or paracetamol and infusion rate may be slowed in order to decrease the risk of infusion related reactions especially if infusion related reactions have occurred previously (see section 4.4).
 During Remicade treatment, other concomitant therapies, e.g., corticosteroids and immunosuppressants should be optimised.
 
 Rheumatoid arthritis
@@ -15,7 +16,7 @@ Rheumatoid arthritis
 Remicade must be given concomitantly with methotrexate.
 
 Available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
-Continued therapy should be carefully reconsidered in a patient not responding within this time period.
+Continued therapy should be carefully reconsidered in patients who show no evidence of therapeutic benefit within this time period.
 
 Severe, active Crohn’s disease
 5 mg/kg given as an intravenous infusion over a 2-hour period.
@@ -46,8 +47,6 @@ Readministration of Remicade with a drug free interval of 2 to 4 years following
 After a drug free interval of >16 weeks to 2 years, the risk of delayed hypersensitivity following readministration is not known.
 Therefore, readministration after a drug free interval of more than 16 weeks can not be recommended.
 This applies to both Crohn’s disease patients and rheumatoid arthritis patients.
-
 Readministration for ankylosing spondylitis
 The safety and efficacy of readministration, other than every 6 to 8 weeks, has not been established.
-
 For preparation and administration instructions, see section 6.6.

@@ -11,7 +11,6 @@ Elevated concentrations of TNFα have been found in the joints of rheumatoid art
 In rheumatoid arthritis, treatment with infliximab reduced infiltration of inflammatory cells into inflamed areas of the joint as well as expression of molecules mediating cellular adhesion, chemoattraction and tissue degradation.
 After infliximab treatment, patients exhibited decreased levels of serum interleukin 6 (IL-6) and C-reactive protein (CRP) compared with baseline.
 Peripheral blood lymphocytes further showed no significant decrease in number or in proliferative responses to in vitro mitogenic stimulation when compared with untreated patients’ cells.
-
 Histological evaluation of colonic biopsies, obtained before and 4 weeks after administration of infliximab, revealed a substantial reduction in detectable TNFα.
 Infliximab treatment of Crohn’s disease patients was also associated with a substantial reduction of the commonly elevated serum inflammatory marker, CRP.
 Total peripheral white blood cell counts were minimally affected in infliximab-treated patients, although changes in lymphocytes, monocytes and neutrophils reflected shifts towards normal ranges.
@@ -46,7 +45,7 @@ Due to a number of treatment withdrawals, the magnitude of the effect difference
 
 Table 3
 Effects on ACR20, Structural Joint Damage and Physical Function at week 54 infliximabb
-3 mg/kg 3 mg/kg 10 mg/kg 10 mg/kg All Controla q 8 wks q 4 wks q 8 wks q 4 wks infliximabb
+Controla 3 mg/kg 3 mg/kg 10 mg/kg 10 mg/kg All q 8 wks q 4 wks q 8 wks q 4 wks infliximabb
 
 Patients with ACR20 response/ 15/88 36/86 41/86 51/87 48/81 176/340
 Patients evaluated (%)c (17%) (42%) (48%) (59%) (59%) (52%)
@@ -100,6 +99,7 @@ At week 30, a significantly greater proportion of patients in the combined infli
 Median time to loss of response was 46 weeks in the combined infliximab maintenance treatment group vs. 19 weeks in the placebo maintenance group (p<0.001).
 Similar results were obtained in the subgroup analyses of the population defined in the indication
 (see section 4.1).
+
 Improvements in quality of life measures were seen for both the IBDQ and SF-36 scores in the infliximab maintenance groups compared with the placebo maintenance group at week 30 (p<0.001).
 
 The safety and efficacy were also assessed in a randomised, double-blinded, placebo-controlled study in 94 patients with fistulising Crohn’s disease who had fistulae that were of at least 3 months’ duration.
@@ -131,7 +131,6 @@ Ankylosing spondylitis
 Efficacy and safety were studied in a double-blind, placebo-controlled investigator initiated, multicenter study evaluating infliximab in 70 patients with active ankylosing spondylitis (disease activity [Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) score > 4] and pain [NRS score >4]).
 During the 3 month double-blind phase, patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6 (35 patients in each group).
 Starting at week 12, placebo patients were switched to infliximab and all patients subsequently received 5 mg/kg infliximab every 6 weeks up to week 54.
-
 Treatment with infliximab resulted in improvement in signs and symptoms, as assessed by the BASDAI, with 57% of infliximab treated patients achieving at least 50% reduction from baseline in BASDAI score (mean baseline score was 6.5 in the infliximab group and 6.3 in the placebo group), compared with 9% of placebo patients (p<0.01).
 Improvement was observed at week 2 and was maintained through week 54.
 Physical function and quality of life (SF36) were improved similarly.

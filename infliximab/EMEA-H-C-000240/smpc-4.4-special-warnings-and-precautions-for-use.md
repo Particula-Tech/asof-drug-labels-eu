@@ -3,7 +3,7 @@
 Infusion reactions and hypersensitivity
 Infliximab has been associated with acute infusion-related reactions, including, anaphylactic shock, and delayed hypersensitivity reactions (see section 4.8: “Undesirable effects”).
 
-Acute infusion reactions including anaphylactic reactions may develop during (within seconds) or within a few hours following infusion and are most likely to occur during the first and second infusion.
+Acute infusion reactions including anaphylactic reactions may develop during (within seconds) or within a few hours following infusion.
 If acute infusion reactions occur, the infusion must be interrupted immediately.
 Emergency equipment, such as adrenaline, antihistamines, corticosteroids and an artificial airway must be available.
 Patients may be pretreated with e.g., an antihistamine, hydrocortisone and/or paracetamol to prevent mild and transient effects.
@@ -68,9 +68,11 @@ In patients with pre-existing or recent onset of central nervous system demyelin
 Malignancies and lymphoproliferative disorders
 It is unknown if exposure to infliximab can increase the risk of developing these disorders
 (see section 4.8).
+
 Heart failure
 Remicade should be used with caution in patients with mild heart failure (NYHA class I/II).
 Patients should be closely monitored and Remicade must not be continued in patients who develop new or worsening symptoms of heart failure (see sections 4.3 and 4.8).
+
 Others
 Treatment with Remicade has not been studied in children 0-17 years with rheumatoid arthritis or Crohn’s disease.
 Until safety and efficacy data in children are available, such treatment is to be avoided.
@@ -85,3 +87,5 @@ The long half life of Remicade should be taken into consideration if a surgical 
 A patient who requires surgery while on Remicade should be closely monitored for infections, and appropriate actions should be taken.
 
 There is limited safety experience of Remicade treatment in patients who have undergone arthroplasty.
+
+Treatment of patients with intestinal strictures due to Crohn’s disease is not recommended since the risk/benefit relationship in this patient population has not been established.
