@@ -3,7 +3,6 @@
 TAXOTERE 20 mg vial:
 
 The TAXOTERE 20 mg vial is a 7 ml clear glass vial with a green flip-off cap.
-
 The TAXOTERE 20 mg vial contains a solution of docetaxel in polysorbate 80 at a concentration of 40 mg/ml.
 
 Each TAXOTERE 20 mg vial contains 0.59 ml of the 40 mg/ml solution of docetaxel equivalent to 23.6 mg docetaxel.
@@ -29,7 +28,6 @@ Each blister carton contains one single-dose TAXOTERE (docetaxel) vial equivalen
 TAXOTERE 80 mg vial:
 
 The TAXOTERE 80 mg vial is a 15 ml clear glass vial with a red flip-off cap.
-
 The TAXOTERE 80 mg vial contains a solution of docetaxel in polysorbate 80 at a concentration of 40 mg/ml.
 
 Each TAXOTERE 80 mg vial contains 2.36 ml of the 40 mg/ml solution of docetaxel equivalent to 94.4 mg docetaxel.

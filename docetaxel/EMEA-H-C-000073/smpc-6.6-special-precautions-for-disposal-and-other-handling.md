@@ -34,10 +34,10 @@ For example, a dose of 140 mg docetaxel would require 14 ml docetaxel premix sol
 Inject the required premix volume into a 250 ml infusion bag or bottle containing either 5% glucose solution or 0.9% sodium chloride solution.
 
 If a dose greater than 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/ml docetaxel is not exceeded.
+
 Mix the infusion bag or bottle manually using a rocking motion.
 
 The TAXOTERE infusion solution should be aseptically administered intravenously within the 4 hours including a 1 hour infusion under room temperature and normal lighting conditions.
-
 As with all parenteral products, TAXOTERE premix solution and infusion solution should be visually inspected prior to use, solutions containing a precipitate should be discarded.
 
 Disposal

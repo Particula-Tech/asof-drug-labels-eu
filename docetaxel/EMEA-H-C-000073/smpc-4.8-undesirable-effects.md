@@ -37,13 +37,13 @@ Nail disorders occurred in 27.9% of the patients and were characterised by hypo-
 
 Fluid retention
 
-Fluid retention has been reported in 50% (5.3% severe) of patients receiving the recommended premedication compared with 81.6% (22.4% severe) in patients without premedication.
-Events such as peripheral oedema and less frequently pleural effusion, pericardial effusion, ascites, lacrimation with or without conjunctivitis and weight gain have been reported.
+Fluid retention has been reported in 64.1% (6.5% severe) of patients receiving the recommended premedication compared with 81.6% (22.4% severe) in patients without premedication.
+Events such as peripheral oedema and less frequently pleural effusion, pericardial effusion, ascites, lacrymation with or without conjuctivitis and weight gain have been reported.
 The peripheral oedema usually starts at the lower extremities and may become generalised with a weight gain of 3 kgs or more.
 Fluid retention is cumulative in incidence and severity.
-The onset of moderate and severe retention is delayed (median cumulative dose: 745.6 mg/m²) in patients with premedication compared with patients without premedication (median cumulative dose: 489.7 mg/m²); however, it has been reported in some patients during the early courses of therapy.
-Discontinuation occurred in 2 % of the patients treated with the recommended premedication.
-The median time to fluid retention reversibility was 29 weeks (range 0 to 42+ weeks) in patients receiving the recommended premedication.
+The onset of moderate and severe retention is delayed (median cumulative dose: 818.9 mg/m²) in patients with premedication compared with patients without premedication (median cumulative dose: 489.7 mg/m²); however, it has been reported in some patients during the early courses of therapy.
+The median cumulative dose to treatment discontinuation was more than 1000 mg/m2 in patients receiving the recommended premedication.
+The median time to fluid retention reversibility was 16.4 weeks (range 0 to 42 weeks) in patients receiving the recommended premedication.
 
 Fluid retention has not been accompanied by acute episodes of oliguria or hypotension.
 Dehydration has been reported rarely in association with fluid retention.
@@ -59,23 +59,28 @@ Taste perversion has been reported in 10.1% of the patients (0.07% severe).
 
 Gastrointestinal bleeding has been seen in 1.4% of the patients (0.3% severe).
 
+Rare occurences of gastrointestinal perforation and neutropenic enterocolitis have been reported.
+
 Neurologic
 
-Mild to moderate neuro-sensory signs characterised by paresthesia, dysesthesia or pain including burning were reported in 4 5.9% of patients and were considered severe in 4.1% of the cases.
+Mild to moderate neuro-sensory signs characterised by paresthesia, dysesthesia or pain including burning were reported in 45.9% of patients and were considered severe in 4.1% of the cases.
 
 Neuro-motor events mainly characterised by weakness were reported in 13.8% of patients and were severe in 4% of the patients.
 
 The events were spontaneously reversible within 3 months in 35.3% of patients with neurotoxicity for whom data is available.
-
 Cardiovascular
 
 Hypotension occurred in 3.8% of the patients and required therapy in 0.7% of the patients.
 Dysrhythmia occurred in 4.1% of the patients and was severe in 0.7% of the patients.
 Other meaningful cardiovascular events included hypertension (2.4%) or heart failure (0.46%); the relationship of these findings to the administration of docetaxel has not been clearly defined.
 
-Infusion site reactions
-Infusion site reactions were generally mild and occurred in 5.6% of the patients, and consisted of hyperpigmentation, inflammation, redness or dryness of the skin, phlebitis or extravasation and swelling of the vein.
+Venous thromboembolic events have been rarely reported.
 
+Rare cases of myocardial infarction have been reported.
+
+Infusion site reactions
+
+Infusion site reactions were generally mild and occurred in 5.6% of the patients, and consisted of hyperpigmentation, inflammation, redness or dryness of the skin, phlebitis or extravasation and swelling of the vein.
 Hepatic
 
 Increases in serum levels of AST, ALT, bilirubin and alkaline phosphatase greater than 2.5 times the ULN were observed in less than 5% of the patients.
@@ -93,19 +98,10 @@ Chest pain was seen in 4.5% of patients (0.4% severe) without any cardiac or res
 
 [TAXOTERE (docetaxel) 80 mg]
 
-The patients were enrolled in 36 clinical trials conducted in Europe and North America ( 514 with breast carcinoma and 798 with various tumour types).
-
 Fever was associated with neutropenia (<500 cells/mm3) in 11.8% of the patients (3% of the cycles) and the incidence of severe infections associated with neutrophil counts < 500 cells/mm3 was 4.6% of the patients (1.2% of the cycles).
 
 The cutaneous reactions were characterised by a rash including localised eruptions mainly on feet, hands, but also on arms, face or thorax, and frequently associated with pruritus.
-
 Nail disorders occurred in 2 7.9% of the patients and were characterised by hypo- or hyperpigmentation and sometimes pain and onycholysis (2.6% of the patients).
-
-Events such as peripheral oedema and less frequently pleural effusion, pericardial effusion, ascites, lacrymation with or without conjuctivitis and weight gain have been reported.
 
 Gastrointestinal effects such as nausea, vomiting, diarrhoea, and abdominal pain were seen in 40.5%, 24.5%, 40.6% and 7.3% of the patients treated respectively with an incidence of severe reactions of 4%, 3%, 4%, and 1%, respectively.
 Anorexia was reported in 16.8% of the patients and was infrequently severe.
-
-Mild to moderate neuro-sensory signs characterised by paresthesia, dysesthesia or pain including burning were reported in 45.9% of patients and were considered severe in 4.1% of the cases.
-
-The events were spontaneously reversible within 3 months in 3 5.3% of patients with neurotoxicity for whom data is available.

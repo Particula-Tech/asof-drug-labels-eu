@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmaco-therapeutic group: Antineoplastic agents, ATC Code: L01CD
+Pharmaco-therapeutic group: Antineoplastic agents, ATC Code: L01CD 02
 
 5.1.1 Preclinical data
 
