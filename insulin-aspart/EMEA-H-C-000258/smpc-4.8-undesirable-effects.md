@@ -3,12 +3,14 @@
 The safety profile of NovoRapid observed in clinical trials is similar to the safety profile reported for Novo Nordisk human insulin products.
 There is limited post-marketing experience on NovoRapid.
 
-The most often seen undesirable effect in insulin-treated patients is change in blood glucose levels.
-From clinical investigations it is known that major hypoglycaemia, defined as need for assistance in treatment, is occurring in approximately 20% of well-controlled patients.
-Based on post-marketing experience adverse events including hypoglycaemia are rare (< 1/1000) during use of Novo Nordisk human insulin products.
+The most frequently seen undesirable effect in insulin-treated patients is change in blood glucose levels.
+From clinical investigations it is known that major hypoglycaemia, defined as need for assistance in treatment, is very common (>1/10) in well-controlled patients.
+Based on post-marketing experience adverse events including hypoglycaemia are rare (>1/10000, < 1/1000) during use of Novo Nordisk human insulin products.
+
 Metabolism and nutrition disorders;
 
-Rare (<1/1000)
+Rare (>1/10000,
+<1/1000)
 
 Change in blood Hypoglycaemia:
 glucose: Symptoms of hypoglycaemia usually occur suddenly. They may
@@ -23,7 +25,6 @@ Usually the first symptoms of hyperglycaemia set in gradually, over a period of 
 They include thirst, increased frequency of urination, nausea, vomiting, drowsiness, flushed dry skin, dry mouth, loss of appetite as well as acetone odour of breath.
 In type 1 diabetes, untreated hyperglycaemic events eventually lead to diabetic ketoacidosis, which is potentially lethal.
 For precautions see section 4.4.
-
 Very rare (<1/10000)
 
 Oedema Oedema may occur upon initiation of insulin therapy. These symptoms
@@ -62,20 +63,3 @@ hypersensitivity skin rash, itching, sweating, gastrointestinal upset, angioneur
 
 oedema, difficulties in breathing, palpitation and reduction in blood pressure.
 Generalised hypersensitivity reactions are potentially life threatening.
-
-NovoRapid contains metacresol, which in rare cases may cause allergic reactions.
-
-[NovoRapid Penfill 100 U/ml, solution for injection in cartridge.]
-
-Change in blood H ypoglycaemia:
-
-Local hypersensitivity Local hypersensitivity reactions (redness, swelling and itching at the injection site) may occur during treatment with insulin.
-These reactions are usually transitory and normally they disappear during continued treatment.
-
-[NovoRapid NovoLet 100 U/ml, solution for injection in pre-filled pen.]
-
-(all sentences already above)
-
-[NovoRapid FlexPen 100 U/ml, solution for injection in pre-filled pen.]
-
-(all sentences already above)

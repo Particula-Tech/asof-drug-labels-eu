@@ -6,17 +6,5 @@ Metacresol
 Zinc chloride
 Disodium phosphate dihydrate
 Sodium chloride
-Hydrochloric acid/Sodium hydroxide
+Hydrochloric acid and/or Sodium hydroxide (for pH adjustment)
 Water for injections
-
-[NovoRapid Penfill 100 U/ml, solution for injection in cartridge.]
-
-ZincchlorideDisodium phosphate dihydrate
-
-[NovoRapid NovoLet 100 U/ml, solution for injection in pre-filled pen.]
-
-(all sentences already above)
-
-[NovoRapid FlexPen 100 U/ml, solution for injection in pre-filled pen.]
-
-(all sentences already above)

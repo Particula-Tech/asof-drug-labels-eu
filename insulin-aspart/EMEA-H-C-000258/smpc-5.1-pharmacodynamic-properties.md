@@ -1,13 +1,11 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: insulin and analogues, fast acting.
+Pharmacotherapeutic group: insulins and analogues, fast-acting.
 ATC code A10A B05.
 
 The blood glucose lowering effect of insulin occurs when the molecules facilitate the uptake of glucose by binding to insulin receptors on muscle and fat cells - and simultaneously inhibit the output of glucose from the liver.
-
 NovoRapid produces a more rapid onset of action compared to soluble human insulin, together with a lower glucose concentration, as assessed within the first four hours after a meal.
 NovoRapid has a shorter duration of action compared to soluble human insulin after subcutaneous injection.
-
 16
 
 14
@@ -29,6 +27,7 @@ NovoRapid has a shorter duration of action compared to soluble human insulin aft
 0 1 2 3 4 5
 
 Time (h)
+
 Fig. I. Blood glucose concentrations following a single pre-meal dose of NovoRapid injected immediately before a meal (solid curve) or soluble human insulin administered 30 minutes before a meal (hatched curve) in patients with Type 1 diabetes mellitus.
 
 When NovoRapid is injected subcutaneously, the onset of action will occur within 10–20 minutes of injection.
@@ -38,38 +37,6 @@ Clinical trials in patients with Type 1 diabetes have demonstrated a lower postp
 I). In two long-term open label trials in patients with Type 1 diabetes comprising 1070 and 884 patients, respectively, NovoRapid reduced glycosylated haemoglobin by 0.12 [95% C.I.
 0.03; 0.22] percentage points and by 0.15 [95% C.I.
 0.05; 0.26] percentage points compared to human insulin; a difference of doubtful clinical significance.
-
 Clinical trials in patients with Type 1 diabetes have demonstrated a reduced risk of nocturnal hypoglycaemia with insulin aspart compared with soluble human insulin.
 The risk of daytime hypoglycaemia was not significantly increased.
-
 Insulin aspart is equipotent to soluble human insulin on a molar basis.
-
-[NovoRapid Penfill 100 U/ml, solution for injection in cartridge.]
-
-Pharmacotherapeutic group: insulins and analogues, fast-acting.
-
-NovoRapid Penfill produces a more rapid onset of action compared to soluble human insulin, together with a lower glucose concentration, as assessed within the first four hours after a meal.
-NovoRapid Penfill has a shorter duration of action compared to soluble human insulin after subcutaneous injection.
-
-Fig. I. Blood glucose concentrations following a single pre-meal dose of NovoRapid Penfill injected immediately before a meal (solid curve) or soluble human insulin administered 30 minutes before a meal (hatched curve) in patients with Type 1 diabetes mellitus.
-When NovoRapid Penfill is injected subcutaneously the onset of action will occur within 10–20 minutes of injection.
-
-[NovoRapid NovoLet 100 U/ml, solution for injection in pre-filled pen.]
-
-Pharmacotherapeutic group:insulins and analogues, fast-acting.
-
-NovoRapid NovoLet produces a more rapid onset of action compared to soluble human insulin, together with a lower glucose concentration, as assessed within the first four hours after a meal.
-NovoRapid NovoLet has a shorter duration of action compared to soluble human insulin after subcutaneous injection.
-
-Fig. I. Blood glucose concentrations following a single pre-meal dose of NovoRapid NovoLet injected immediately before a meal (solid curve) or soluble human insulin administered 30 minutes before a meal (hatched curve) in patients with Type 1 diabetes mellitus.
-When NovoRapid NovoLet is injected subcutaneously, the onset of action will occur within 10-20 minutes of injection.
-
-[NovoRapid FlexPen 100 U/ml, solution for injection in pre-filled pen.]
-
-NovoRapid FlexPen produces a more rapid onset of action compared to soluble human insulin, together with a lower glucose concentration, as assessed within the first four hours after a meal.
-NovoRapid FlexPen has a shorter duration of action compared to soluble human insulin after subcutaneous injection.
-
-Fig. I. Blood glucose concentrations following a single pre-meal dose of NovoRapid FlexPen injected immediately before a meal (solid curve) or soluble human insulin administered 30 minutes before a meal (hatched curve) in patients with Type 1 diabetes mellitus.
-When NovoRapid FlexPen is injected subcutaneously, the onset of action will occur within 10-20 minutes of injection.
-
-0.03; 0.22 percentage points and by 0.15 [95% C.I.
