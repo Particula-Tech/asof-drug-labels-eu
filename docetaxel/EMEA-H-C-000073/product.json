@@ -1,0 +1,16 @@
+{
+  "active_substance": "docetaxel",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000073",
+  "eu_number": "EU/1/95/002",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "1995-11-27",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/taxotere",
+  "molecule": "docetaxel",
+  "molecule_name": "DOCETAXEL",
+  "name": "Taxotere",
+  "register_name": "Taxotere",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h002.htm"
+}
