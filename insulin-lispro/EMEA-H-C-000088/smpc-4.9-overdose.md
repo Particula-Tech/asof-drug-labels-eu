@@ -14,6 +14,8 @@ If the patient is comatose, glucagon should be administered intramuscularly or s
 However, glucose solution must be given intravenously if glucagon is not available or if the patient fails to respond to glucagon.
 The patient should be given a meal as soon as consciousness is recovered.
 
+Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+
 5.
 PHARMALOGICAL PROPERTIES
 

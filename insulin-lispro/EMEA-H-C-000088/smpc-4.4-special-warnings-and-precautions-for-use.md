@@ -7,18 +7,14 @@ The shorter acting Humalog should be drawn into the syringe first, to prevent co
 Mixing of the insulins ahead of time or just before the injection should be on advice of the physician.
 However, a consistent routine must be followed.
 
-Patients taking Humalog may require a change in dosage from that used with their usual insulins.
-If an adjustment is needed, it may occur with the first dose or during the first several weeks or months.
+Conditions which may make the early warning symptoms of hypoglycaemia different or less pronounced include long duration of diabetes, intensified insulin therapy, diabetic nerve disease or medications such as beta blockers.
 
-Patients whose blood glucose is greatly improved, e.g. by intensified insulin therapy, may lose some or all of the warning symptoms of hypoglycaemia and should be advised accordingly.
-
-A few patients who have experienced hypoglycaemic reactions after transfer from animal-source insulin to human insulin have reported that the early warning symptoms of hypoglycaemia were less pronounced or different from those experienced with their previous insulin.
+A few patiens who have experienced hypoglycaemia reactions after transfer from animal source insulin to human insulin have reported that the early warning symptoms of hypoglycaemia were less pronounced or different from those experienced with their previous insulin.
 Uncorrected hypoglycaemic or hyperglycaemic reactions can cause loss of consciousness, coma, or death.
 
 The use of dosages which are inadequate or discontinuation of treatment, especially in insulin-dependent diabetics, may lead to hyperglycaemia and diabetic ketoacidosis; conditions which are potentially lethal.
 
-Insulin requirements may be reduced in the presence of renal impairment.
-Insulin requirements may be reduced in patients with hepatic impairment due to reduced capacity for gluconeogenesis and reduced insulin breakdown, however in patients with chronic hepatic impairment an increase in insulin resistance may lead to increased insulin requirements.
+Insulin requirements may be reduced in the presence of renal impairment.Insulin requirements may be reduced in patients with hepatic impairment due to reduced capacity for gluconeogenesis and reduced insulin breakdown, however in patients with chronic hepatic impairment an increase in insulin resistance may lead to increased insulin requirements.
 
 Insulin requirements may be increased during illness or emotional disturbances.
 
@@ -31,9 +27,12 @@ For example, in the timing of the injections in relation to meals.
 
 [Humalog 100 U/ml, solution for injection in vial]
 
-(all sentences already above)
+Insulin requirements may be reduced in the presence of renal impairment.
+Insulin requirements may be reduced in patients with hepatic impairment due to reduced capacity for gluconeogenesis and reduced insulin breakdown, however in patients with chronic hepatic impairment an increase in insulin resistance may lead to increased insulin requirements.
 
 [Humalog 100 U/ml, solution for injection in cartridge]
+
+A few patients who have experienced hypoglycaemia reactions after transfer from animal source insulin to human insulin have reported that the early warning symptoms of hypoglycaemia were less pronounced or different from those experienced with their previous insulin.
 
 If the 40 U/ml vial is the product normally prescribed, do not take insulin from a 100 U/ml cartridge using a 40 U/ml syringe.
 
@@ -45,8 +44,6 @@ If the 40 U/ml vial is the product normally prescribed, do not take insulin from
 
 Under no circumstances should Humalog Mix25 be given intravenously.
 
-Patients taking Humalog Mix25 may require a change in dosage from that used with their usual insulins.
-
 Administration of insulin lispro to children below 12 years of age should be considered only in case of an expected benefit when compared to regular insulin.
 
 [Humalog Mix25 100 U/ml suspension for injection in cartridge]
@@ -57,13 +54,9 @@ Administration of insulin lispro to children below 12 years of age should be con
 
 Under no circumstances should Humalog Mix50 be given intravenously.
 
-Patients taking Humalog Mix50 may require a change in dosage from that used with their usual insulins.
-
 [Humalog NPL 100 U/ml suspension for injection in vial]
 
 Under no circumstances should Humalog NPL be given intravenously.
-
-Patients taking Humalog NPL may require a change in dosage from that used with their usual insulins.
 
 [Humalog NPL 100 U/ml suspension for injection in cartridge]
 
@@ -71,9 +64,7 @@ Patients taking Humalog NPL may require a change in dosage from that used with t
 
 [Humalog - HumaJect 100 U/ml, solution for injection]
 
-Patients taking Humalog - HumaJect may require a change in dosage from that used with their usual insulins.
-
-A few patients who have experienced hypoglycaemic reactions after transfer from animal-source insulin to human insulin have reported that the early warning symptoms of hypoglycaemia were less pronounced or different from those experienced with their previous insulin.Uncorrected hypoglycaemic or hyperglycaemic reactions can cause loss of consciousness, coma, or death.
+(all sentences already above)
 
 [Humalog Mix25 100 U/ml HumaJect suspension for injection]
 
@@ -85,11 +76,11 @@ A few patients who have experienced hypoglycaemic reactions after transfer from 
 
 [Humalog NPL 100 U/ml HumaJect suspension for injection]
 
-(all sentences already above)
+A few patients who have experienced hypoglyceamia reactions after transfer from animal source insulin to human insulin have reported that the early warning symptoms of hypoglycaemia were less pronounced or different from those experienced with their previous insulin.
 
 [Humalog-Pen 100 U/ml, solution for injection]
 
-Patients taking Humalog-Pen may require a change in dosage from that used with their usual insulins.
+(all sentences already above)
 
 [Humalog Mix25 100 U/ml Pen, suspension for injection]
 

@@ -62,7 +62,7 @@ The suspension is contained in Type I flint glass cartridges, with butyl or halo
 The cartridges are sealed in a pre-filled/disposable pen injector, called the HumaJect pen.
 Needles are not included.
 
-5 x 3 ml Humalog Mix25 100U/ml HumaJect pens.
+5 x 3 ml Humalog Mix25 100 U/ml HumaJect pens.
 
 [Humalog Mix50 100 U/ml HumaJect, suspension for injection]
 

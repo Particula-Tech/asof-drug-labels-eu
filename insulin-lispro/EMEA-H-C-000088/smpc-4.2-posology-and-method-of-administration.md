@@ -3,25 +3,26 @@
 The dosage should be determined by the physician, according to the requirement of the patient.
 
 Humalog may be given shortly before meals.
-When necessary Humalog can be given soon after meals.
-Humalog can be given in conjunction with a longer acting human insulin.
+When necessary Humalog can be given soon after meals..
 Humalog preparations should be given by subcutaneous injection or by continuous subcutaneous infusion pump (see section 6.6d) and may, although not recommended, also be given by intramuscular injection.
 
 Subcutaneous administration should be in the upper arms, thighs, buttocks, or abdomen.
 Use of injection sites should be rotated so that the same site is not used more than approximately once a month.
 
-Care should be taken when injecting Humalog to ensure that a blood vessel has not been entered.
+When administered subcutaneously, care should be taken when injecting Humalog to ensure that a blood vessel has not been entered.
 After injection, the site of injection should not be massaged.
+Patients must be educated to use the proper injection techniques.
 
-Humalog takes effect rapidly and has a shorter duration of activity (2 to 5 hours) as compared with regular insulin.
-This rapid onset of activity allows a Humalog injection (or, in the case of administration by continuous infusion, a Humalog bolus) to be given very close to mealtime.
+Humalog takes effect rapidly and has a shorter duration of activity (2 to 5 hours) given subcutaneously as compared with regular insulin.
+This rapid onset of activity allows a Humalog injection (or, in the case of administration by continuous subcutaneous infusion, a Humalog bolus) to be given very close to mealtime.
 The time course of action of any insulin may vary considerably in different individuals or at different times in the same individual.
+The faster onset of action compared to soluble human insulin is maintained regardless of injection site.
 As with all insulin preparations, the duration of action of Humalog is dependent on dose, site of injection, blood supply, temperature, and physical activity.
-Humalog may be administered in conjunction with a longer acting human insulin, on the advice of a physician.
+Humalog can be used in conjunction with a longer acting human insulin or oral sulphonylurea agents, on the advice of a physician.
 
 [Humalog 100 U/ml, solution for injection in vial]
 
-(all sentences already above)
+When administered subcutaneously care should be taken when injecting Humalog to ensure that a blood vessel has not been entered.
 
 [Humalog 100 U/ml, solution for injection in cartridge]
 
@@ -38,7 +39,7 @@ When necessary, Humalog Mix25 can be given soon after meals.
 Humalog Mix25 should only be given by subcutaneous injection.
 Under no circumstances should Humalog Mix25 be given intravenously.
 
-Care should be taken when injecting Humalog Mix25 to ensure that a blood vessel has not been entered.
+When administered subcutaneously care should be taken when injecting Humalog Mix25 to ensure that a blood vessel has not been entered.
 
 The rapid onset and early peak of activity of Humalog itself is observed following the subcutaneous administration of Humalog Mix25.
 This allows Humalog Mix25 to be given very close to mealtime.
@@ -56,7 +57,7 @@ When necessary, Humalog Mix50 can be given soon after meals.
 Humalog Mix50 should only be given by subcutaneous injection.
 Under no circumstances should Humalog Mix50 be given intravenously.
 
-Care should be taken when injecting Humalog Mix50 to ensure that a blood vessel has not been entered.
+When administered subcutaneously care should be taken when injecting Humalog Mix50 to ensure that a blood vessel has not been entered.
 
 The rapid onset and early peak of activity of Humalog itself is observed following the subcutaneous administration of Humalog Mix50.
 This allows Humalog Mix50 to be given very close to mealtime.
@@ -69,7 +70,7 @@ Humalog NPL can be mixed with or given in conjunction with Humalog.
 Humalog NPL should only be given by subcutaneous injection.
 Under no circumstances should Humalog NPL be given intravenously.
 
-Care should be taken when injecting Humalog NPL to ensure that a blood vessel has not been entered.
+When administered subcutaneously care should be taken when injecting Humalog NPL to ensure that a blood vessel has not been entered.
 
 Humalog NPL has an activity profile that is very similar to that of a basal insulin (NPH) over a period of approximately 15 hours.
 As with all insulin preparations, the duration of action of Humalog NPL is dependent on dose, site of injection, blood supply, temperature, and physical activity.
@@ -80,10 +81,10 @@ Under no circumstance should Humalog NPL be given intravenously.
 
 [Humalog - HumaJect 100 U/ml, solution for injection]
 
-Care should be taken when injecting Humalog - HumaJect to ensure that a blood vessel has not been entered.
+When administered subcutaneously care should be taken when injecting Humalog- HumaJect to ensure that a blood vessel has not been entered.
 
-Humalog-HumaJect takes effect rapidly and has a shorter duration of activity (2 to 5 hours) as compared with regular insulin.
-As with all insulin preparations, the duration of action of Humalog-HumaJect is dependent on dose, site of injection, blood supply, temperature, and physical activity.
+Humalog-HumaJect takes effect rapidly and has a shorter duration of activity (2 to 5 hours) given subcutaneously as compared with regular insulin.
+As with all insulin preparations, the duration of action of Humalog- HumaJect is dependent on dose, site of injection, blood supply, temperature, and physical activity.
 
 [Humalog Mix25 100 U/ml HumaJect suspension for injection]
 
@@ -99,9 +100,9 @@ Humalog NPL can be given in conjunction with Humalog.
 
 [Humalog-Pen 100 U/ml, solution for injection]
 
-Care should be taken when injecting Humalog-Pen to ensure that a blood vessel has not been entered.
+When administered subcutaneously care should be taken when injecting Humalog-Pen to ensure that a blood vessel has not been entered.
 
-Humalog-Pen takes effect rapidly and has a shorter duration of activity (2 to 5 hours) as compared with regular insulin.
+Humalog-Pen takes effect rapidly and has a shorter duration of activity (2 to 5 hours) given subcutaneously as compared with regular insulin.
 As with all insulin preparations, the duration of action of Humalog-Pen is dependent on dose, site of injection, blood supply, temperature, and physical activity.
 
 [Humalog Mix25 100 U/ml Pen, suspension for injection]

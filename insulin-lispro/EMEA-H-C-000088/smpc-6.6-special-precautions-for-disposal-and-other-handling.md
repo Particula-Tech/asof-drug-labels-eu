@@ -1,5 +1,7 @@
 # 6.6 Instructions for use, handling and disposal
 
+The vial is to be used in conjunction with an appropriate syringe (100 U markings).
+
 a) Preparing a dose
 
 Inspect the Humalog solution.
@@ -47,6 +49,7 @@ Humalog should be mixed with longer-acting human insulins only on the advice of 
 Draw air into the syringe equal to the amount of longer-acting insulin being taken.
 Insert the needle into the longer-acting insulin vial and inject the air.
 Withdraw the needle.
+
 3.
 Now inject air into the Humalog vial in the same manner, but do not withdraw the needle.
 
@@ -66,7 +69,6 @@ Remove the needle from the vial of Humalog and insert it into the vial of the lo
 Turn the vial and syringe upside down.
 Hold the vial and syringe firmly in one hand and shake gently.
 Making sure the tip of the needle is in the insulin, withdraw the dose of longer-acting insulin.
-
 8.
 Withdraw the needle and lay the syringe down so that the needle does not touch anything.
 
@@ -76,7 +78,7 @@ b) Injecting a dose
 Choose a site for injection.
 
 2.
-Clean the skin with an alcohol swab.
+Clean the skin as instructed.
 
 3.
 Stabilise the skin by spreading it or pinching up a large area.
@@ -115,6 +117,8 @@ When used with an insulin infusion pump, Humalog should not be mixed with any ot
 
 [Humalog 100 U/ml, solution for injection in cartridge]
 
+Humalog cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
+
 The following is a general description.
 The manufacturer’s instructions with each individual pen must be followed for loading the cartridge, attaching the needle and administering the insulin injection.
 
@@ -142,7 +146,6 @@ Use the reservoir and correct catheter for the pump.
 Vials containing Humalog Mix25 should be rotated in the palms of the hands before use to resuspend the insulin until it appears uniformly cloudy or milky.
 Do not shake vigorously as this may cause frothing which may interfere with the correct measurement of the dose.
 The vials should be examined frequently and should not be used if clumps of material are present or if solid white particles stick to the bottom or wall of the vial, giving it a frosted appearance.
-
 Humalog Mix25
 
 Draw air into the syringe equal to the prescribed Humalog Mix25 dose.
@@ -153,6 +156,8 @@ Making sure the tip of the needle is in the Humalog Mix25, withdraw the correct 
 Before removing the needle from the vial, check the syringe for air bubbles that reduce the amount of Humalog Mix25 in it.
 
 [Humalog Mix25 100 U/ml suspension for injection in cartridge]
+
+Humalog Mix25 cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
 
 Cartridges containing Humalog Mix25 should be rotated in the palms of the hands ten times and inverted 180° ten times immediately before use to resuspend the insulin until it appears uniformly cloudy or milky.
 If not, repeat the above procedure until contents are mixed.
@@ -165,9 +170,11 @@ Cartridges are not designed to be refilled.
 
 [Humalog Mix50 100 U/ml suspension for injection in cartridge]
 
+Humalog Mix 50 cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
+
 Cartridges containing Humalog Mix50 should be rotated in the palms of the hands ten times and inverted 180° ten times immediately before use to resuspend the insulin until it appears uniformly cloudy or milky.
 
-Humalog Mix50 cartridges are not designed to allow any other insulin to be mixed in the cartridge .
+Humalog Mix50 cartridges are not designed to allow any other insulin to be mixed in the cartridge.
 
 [Humalog NPL 100 U/ml suspension for injection in vial]
 
@@ -184,6 +191,8 @@ Before removing the needle from the vial, check the syringe for air bubbles that
 
 [Humalog NPL 100 U/ml suspension for injection in cartridge]
 
+Humalog NPL cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
+
 Cartridges containing Humalog NPL should be rotated in the palms of the hands ten times and inverted 180° ten times immediately before use to resuspend the insulin until it appears uniformly cloudy or milky.
 
 Humalog NPL cartridges are not designed to allow any other insulin to be mixed in the cartridge .
@@ -193,7 +202,6 @@ Humalog NPL cartridges are not designed to allow any other insulin to be mixed i
 Inspect the Humalog - HumaJect solution.
 
 Do not use Humalog - HumaJect if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
-
 Reset the pen.
 
 Before dialling each dose, the star (*) must appear in the dose window.
@@ -253,7 +261,7 @@ Replace the cap on the pen.
 
 [Humalog Mix25 100 U/ml HumaJect suspension for injection]
 
-Inspect the Humalog Mix25 100U/ml HumaJect.
+Inspect the Humalog Mix25 100 U/ml HumaJect.
 
 The HumaJect pen should be rotated in the palms of the hands ten times and inverted 180° ten times immediately before use to resuspend the insulin until it appears uniformly cloudy or milky.
 
@@ -281,6 +289,7 @@ Priming the Pen (check Insulin Flow).
 
 (a) The arrow should be visible in the dose window.
 If the arrow is not present, turn the dose knob clockwise until the arrow appears and notch is felt or visually aligned.
+
 (b) Pull dose knob out (in direction of the arrow) until a “0” appears in the dose window.
 A dose cannot be dialled until the dose knob is pulled out.
 
@@ -325,8 +334,8 @@ A dose greater than the number of units remaining in the cartridge cannot be dia
 
 Inspect the Humalog Mix50 Pen.
 
-Pull the needle out and apply gentle pressure over the injection site for several seconds.Do not rub the area.
-
 [Humalog NPL 100 U/ml Pen, suspension for injection]
 
 Inspect the Humalog NPL 100 U/ml Pen.
+
+Pull the needle out and apply gentle pressure over the injection site for several seconds.Do not rub the area.

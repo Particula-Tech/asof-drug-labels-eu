@@ -1,6 +1,7 @@
 # 6.2 Incompatibilities
 
 Humalog preparations should not be mixed with animal insulin preparations.
+This medicinal product must not be mixed with another medicinal product except those mentioned in 6.6.
 
 [Humalog 100 U/ml, solution for injection in vial]
 
@@ -17,6 +18,7 @@ Humalog preparations should not be mixed with animal insulin preparations.
 [Humalog Mix25 100 U/ml suspension for injection in vial]
 
 Mixing Humalog Mix25 with other insulins has not been studied.
+In the absence of compatibility studies, this medicinal product must not be mixed with another medicinal product
 
 [Humalog Mix25 100 U/ml suspension for injection in cartridge]
 
