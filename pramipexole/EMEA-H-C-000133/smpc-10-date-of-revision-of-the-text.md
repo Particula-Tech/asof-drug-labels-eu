@@ -1,0 +1,19 @@
+# 10. DATE OF REVISION OF TEXT
+
+XII
+
+[SIFROL 0.18 mg]
+
+XIX
+
+[SIFROL 0.7 mg]
+
+XXVI
+
+[SIFROL 0.88 mg]
+
+XXXIII
+
+[SIFROL 1.1 mg]
+
+XL

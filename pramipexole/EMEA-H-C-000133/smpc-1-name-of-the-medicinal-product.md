@@ -1,0 +1,19 @@
+# 1. NAME OF THE MEDICINAL PRODUCT
+
+SIFROL 0.088 mg
+
+[SIFROL 0.18 mg]
+
+SIFROL 0.18 mg
+
+[SIFROL 0.7 mg]
+
+SIFROL 0.7 mg
+
+[SIFROL 0.88 mg]
+
+SIFROL 0.88 mg
+
+[SIFROL 1.1 mg]
+
+SIFROL 1.1 mg
