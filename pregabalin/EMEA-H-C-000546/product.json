@@ -1,0 +1,16 @@
+{
+  "active_substance": "pregabalin",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000546",
+  "eu_number": "EU/1/04/279",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2004-07-05",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lyrica",
+  "molecule": "pregabalin",
+  "molecule_name": "PREGABALIN",
+  "name": "Lyrica",
+  "register_name": "Lyrica",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h279.htm"
+}
