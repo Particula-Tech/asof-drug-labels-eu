@@ -10,7 +10,6 @@ In man, an oral 3 mg dose decreases acetylcholinesterase activity in CSF by appr
 Activity of the enzyme returns to baseline levels about 9 hours after the maximum inhibitory effect has been achieved.
 In patients with Alzheimer’s disease, inhibition of acetylcholinesterase in CSF by rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested.
 
-1.1.1.
 Clinical studies
 
 The efficacy of rivastigmine has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
@@ -23,6 +22,7 @@ In addition, a post-hoc definition of response is provided in the same table.
 The secondary definition of response required a 4-point or greater improvement on the ADAS-Cog, no worsening on the CIBIC-Plus, and no worsening on the PDS.
 The mean actual daily dose for responders in the 6-12 mg group, corresponding to this definition, was 9.3 mg.
 It is important to note that the scales used in this indication vary and direct comparisons of results for different therapeutic agents are not valid.
+
 Table 1
 
 |  | Patients with Clinically Significant Response (%) |  |  |  |
@@ -32,22 +32,19 @@ Table 1
 | ADAS-Cog: improvement of at least 4 points | 21*** | 12 | 25*** | 12 |
 | CIBIC-Plus: improvement | 29*** | 18 | 32*** | 19 |
 | PDS: improvement of at least 10% | 26*** | 17 | 30*** | 18 |
-| At least 4 points improvement on ADAS-Cog with no worsening on CIBIC-Plus and PDS | 10* | 6 | 12** | 6 |
+| At least 4 points improvement on ADAS-Cog with no worsening on | 10* | 6 | 12** | 6 |
+
+CIBIC-Plus and PDS
 
 * p<0.05, **p<0.01, ***p<0.001
 
 [EXELON 3 mg hard capsules]
 
-1.1.2.
-
-[EXELON 4.5 mg hard capsules]
-
-(all sentences already above)
-
-[EXELON 6 mg hard capsules]
-
-1.1.3.
-
-[EXELON 2 mg/ml Oral Solution]
-
-The efficacy of Exelon has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
+|  | Patients with Clinically Significant Response (%) |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Intent to Treat |  | Last Observation Carried Forward |  |
+| Response Measure | Rivastigmine 6-12 mg N=473 | Placebo N=472 | Rivastigmine 6-12 mg N=379 | Placebo N=444 |
+| ADAS-Cog: improvement of at least 4 points | 21*** | 12 | 25*** | 12 |
+| CIBIC-Plus: improvement | 29*** | 18 | 32*** | 19 |
+| PDS: improvement of at least 10% | 26*** | 17 | 30*** | 18 |
+| At least 4 points improvement on ADAS-Cog with no worsening on CIBIC-Plus and PDS | 10* | 6 | 12** | 6 |
