@@ -19,7 +19,7 @@ Patients taking NovoRapid may require an increased number of daily injections or
 If an adjustment is needed, it may occur with the first dose or during the first several weeks or months.
 
 Omission of a meal or unplanned, strenuous physical exercise may lead to hypoglycaemia.
+
 Adjustment of dosage may also be necessary if patients undertake increased physical activity or change their usual diet.
 Exercise taken immediately after a meal may increase the risk of hypoglycaemia.
-
 NovoRapid contains metacresol, which in rare cases may cause allergic reactions.

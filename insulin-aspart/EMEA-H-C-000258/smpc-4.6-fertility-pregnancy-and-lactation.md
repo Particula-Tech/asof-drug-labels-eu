@@ -10,19 +10,3 @@ Insulin requirements usually fall in the first trimester and increase subsequent
 There are no restrictions on treatment with NovoRapid during lactation.
 Insulin treatment of the nurs-ing mother presents no risk to the baby.
 However, the NovoRapid dosage may need to be adjusted.
-
-[NovoRapid Penfill 100 U/ml, solution for injection in cartridge.]
-
-(all sentences already above)
-
-[NovoRapid NovoLet 100 U/ml, solution for injection in pre-filled pen.]
-
-(all sentences already above)
-
-[NovoRapid FlexPen 100 U/ml, solution for injection in pre-filled pen.]
-
-However, the NovoRapid FlexPen dosage may need to be adjusted.
-
-[NovoRapid InnoLet 100 U/ml, solution for injection in pre-filled pen.]
-
-(all sentences already above)
