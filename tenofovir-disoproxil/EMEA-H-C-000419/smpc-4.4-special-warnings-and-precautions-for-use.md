@@ -20,7 +20,7 @@ Tenofovir disoproxil fumarate has not been evaluated in patients receiving nephr
 Use of tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic medicinal product.
 If concomitant use of tenofovir disoproxil fumarate and nephrotoxic agents is unavoidable, renal function should be monitored weekly.
 
-Tenofovir disoproxil fumarate has not been clinically evaluated in patients receiving medicinal products which are secreted by the same renal transporter, human organic anion transporter 1 (hOAT1) (e.g. adefovir dipivoxil, cidofovir, a known nephrotoxic medicinal product).
+Tenofovir disoproxil fumarate has not been clinically evaluated in patients receiving medicinal products which are secreted by the same renal transporter, human organic anion transporter 1 (hOAT1) (e.g. adefovir dipivoxil; cidofovir, a known nephrotoxic medicinal product).
 This renal transporter (hOAT1) may be responsible for tubular secretion and in part, renal elimination of tenofovir, adefovir and cidofovir.
 Consequently, the pharmacokinetics of these medicinal products might be modified if they are co-administered.
 In healthy volunteers, a single dose of adefovir dipivoxil given with tenofovir disoproxil fumarate did not result in a relevant drug-drug interaction with regard to pharmacokinetics.
