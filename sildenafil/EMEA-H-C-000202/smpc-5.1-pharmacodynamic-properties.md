@@ -39,7 +39,6 @@ In a small size placebo-controlled study of patients with documented early age-r
 There was no effect on sperm motility or morphology after single 100 mg oral doses of sildenafil in healthy volunteers.
 
 Further information on clinical trials
-
 In clinical trials sildenafil was administered to more than 3000 patients aged 19-87.
 The following patient groups were represented: elderly (21 %), patients with hypertension (24 %), diabetes mellitus (16 %), ischaemic heart disease and other cardiovascular diseases (14 %), hyperlipidaemia (14 %), spinal cord injury (6 %), depression (5 %), transurethral resection of the prostate (5 %), radical prostatectomy (4 %).
 The following groups were not well represented or excluded from clinical trials: patients with pelvic surgery, patients post-radiotherapy, patients with severe renal or hepatic impairment and patients with certain cardiovascular conditions (see Section 4.3 Contra-indications).

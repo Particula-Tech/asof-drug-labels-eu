@@ -14,12 +14,8 @@ Adverse reactions were mild to moderate in nature and the incidence and severity
 In postmarketing surveillance the following adverse events have been reported:
 
 Body as a whole: hypersensitivity reactions (including skin rashes)
-
 Cardiovascular: Serious cardiovascular events, including myocardial infarction, angina pectoris intermediate syndrome, sudden cardiac death, ventricular arrhythmia, cerebrovascular haemorrhage, transient ischemic attack, hypertension, hypotension, syncope, tachycardia and palpitations have been reported post-marketing in temporal association with the use of VIAGRA.
 Rare spontaneous reports have been received of hypotensive events after the use of sildenafil in combination with alpha blockers.
-
 Gastrointestinal: vomiting
-
 Urogenital: Prolonged erection and/or priapism
-
 Special senses: Eye disorders: Eye pain and red eyes / bloodshot eyes.
