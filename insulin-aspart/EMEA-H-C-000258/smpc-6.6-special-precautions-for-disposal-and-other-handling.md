@@ -1,3 +1,5 @@
 # 6.6 Instructions for use and handling
 
-NovoRapid vials are for use with insulin syringes with the corresponding unit scale and for use with an infusion pump system (see section 4.2).
+For use by one person only.
+The container must not be refilled.
+NovoFine S needles are designed to be used with NovoRapid FlexPen.

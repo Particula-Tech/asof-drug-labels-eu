@@ -9,14 +9,14 @@ Patients whose blood glucose control is greatly improved, e.g. by intensified in
 
 A consequence of the pharmacodynamics of rapidly acting insulin analogues is that if hypoglycaemia occurs, it may occur earlier after an injection when compared with soluble human insulin.
 
-NovoRapid should be administered in immediate relation to a meal.
+NovoRapid FlexPen should be administered in immediate relation to a meal.
 The fast onset of action should therefore be considered in patients with concomitant diseases or medication where a delayed absorption of food might be expected.
 
 Concomitant illness, especially infections, usually increases the patient’s insulin requirements.
 
 Transferring a patient to a new type or brand of insulin should be done under strict medical supervision.
 Changes in strength, brand, type, species (animal, human, human insulin analogue) and/or method of manufacture may result in a change in dosage.
-Patients taking NovoRapid may require an increased number of daily injections or a change in dosage from that used with their usual insulins.
+Patients taking NovoRapid FlexPen may require an increased number of daily injections or a change in dosage from that used with their usual insulins.
 If an adjustment is needed, it may occur with the first dose or during the first several weeks or months.
 
 Omission of a meal or unplanned, strenuous physical exercise may lead to hypoglycaemia.
