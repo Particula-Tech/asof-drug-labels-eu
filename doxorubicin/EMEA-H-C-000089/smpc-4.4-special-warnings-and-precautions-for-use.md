@@ -15,6 +15,7 @@ Congestive heart failure due to cardiomyopathy may occur suddenly, without prior
 
 The evaluation tests and methods mentioned above concerning the monitoring of cardiac performance during anthracycline therapy are to be employed in the following order: ECG monitoring, measurement of left ventricular ejection fraction, endomyocardial biopsy.
 If a test result indicates possible cardiac injury associated with Caelyx therapy, the benefit of continued therapy must be carefully weighed against the risk of myocardial injury.
+
 In patients with a history of cardiovascular disease, administer Caelyx only when the benefit outweighs the risk to the patient.
 
 Exercise caution in patients with impaired cardiac function who receive Caelyx.
@@ -22,9 +23,7 @@ Exercise caution in patients with impaired cardiac function who receive Caelyx.
 Caution must be observed in patients who have received other anthracyclines.
 The total dose of doxorubicin hydrochloride must also take into account any previous (or concomitant) therapy with cardiotoxic compounds such as other anthracyclines/anthraquinones or e.g. 5-fluorouracil.
 Cardiac toxicity also may occur at cumulative anthracycline doses lower than 450 mg/m2 in patients with prior mediastinal irradiation or in those receiving concurrent cyclophosphamide therapy.
-
 The cardiac safety profile for the dosing schedule recommended for ovarian cancer (50 mg/m2) is similar to the 20 mg/m2 profile (see 4.8).
-
 Myelosuppression: Many patients treated with Caelyx have baseline myelosuppression due to such factors as their pre-existing HIV disease or numerous concomitant or previous medications, or tumours involving bone marrow.
 In the pivotal trial in patients with ovarian cancer treated at a dose of 50 mg/m2, myelosuppression was generally mild to moderate, reversible, and was not associated with episodes of neutropaenic infection or sepsis.
 Moreover, in a controlled clinical trial of Caelyx vs. topotecan, the incidence of treatment related sepsis was substantially less in the Caelyx-treated ovarian cancer patients as compared to the topotecan treatment group.
@@ -45,4 +44,5 @@ Combination chemotherapy with Caelyx has been extensively studied in solid tumor
 (see 4.5), however the efficacy of Caelyx combination chemotherapy has not been established in the treatment of ovarian cancer.
 
 Infusion-associated reactions: See 4.8.
+
 Diabetic patients: Please note that each vial of Caelyx contains sucrose and the dose is administered in 5 % (50 mg/ml) glucose solution for infusion.

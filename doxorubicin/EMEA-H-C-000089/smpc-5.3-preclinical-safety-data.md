@@ -16,8 +16,10 @@ The hypotensive response was reduced in magnitude by pretreatment with antihista
 However, the response was not life-threatening and the dogs recovered quickly upon discontinuation of treatment.
 
 Local toxicity: Subcutaneous tolerance studies indicate that Caelyx, as against standard doxorubicin hydrochloride, causes slighter local irritation or damage to the tissue after a possible extravasation.
+
 Mutagenicity and carcinogenicity: Although no studies have been conducted with Caelyx, doxorubicin hydrochloride, the pharmacologically active ingredient of Caelyx, is mutagenic and carcinogenic.
 Pegylated placebo liposomes are neither mutagenic nor genotoxic.
 
 Reproductive toxicity: Caelyx resulted in mild to moderate ovarian and testicular atrophy in mice after a single dose of 36 mg/kg.
-Decreased testicular weights and hypospermia were present in rats after repeat doses ≥ 0.25 mg/kg/day and diffuse degeneration of the seminiferous tubules and a marked decrease in spermatogenesis were observed in dogs after repeat doses of 1 mg/kg/day (see 4.6).
+Decreased testicular weights and hypospermia were present in rats after repeat doses ≥ 0.25 mg/kg/day and diffuse degeneration of the seminiferous tubules and a marked decrease in spermatogenesis were observed in dogs after repeat doses of 1 mg/kg/day
+(see 4.6).
