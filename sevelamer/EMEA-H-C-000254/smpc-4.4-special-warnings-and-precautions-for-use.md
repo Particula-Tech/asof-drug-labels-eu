@@ -10,11 +10,11 @@ Consequently, caution should be exercised when Renagel is used in patients with 
 
 Renagel alone is not indicated for the control of hyperparathyroidism.
 In patients with secondary hyperparathyroidism Renagel should be used within the context of a multiple therapeutic approach, which could include calcium supplements, 1,25 - dihydroxy Vitamin D3 or one of its analogues to lower the intact parathyroid hormone (iPTH) levels.
-
 Patients with renal insufficiency may develop hypocalcaemia or hypercalcaemia.
 Renagel does not contain calcium.
 Serum calcium levels should be monitored as is done in normal follow-up of a dialysis patient.
 Elemental calcium should be given as a supplement in case of hypocalcaemia.
+
 Depending on diet intake and the nature of end stage renal failure, dialysis patients may develop low vitamin A, D, E and K levels.
 Therefore, in patients not taking these vitamins, monitoring vitamin A, D and E levels and assessing vitamin K status through the measurement of thromboplastin time should be considered and the vitamins should be supplemented if necessary.
 
