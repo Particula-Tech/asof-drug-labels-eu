@@ -1,0 +1,16 @@
+{
+  "active_substance": "oseltamivir",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000402",
+  "eu_number": "EU/1/02/222",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2002-06-20",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tamiflu",
+  "molecule": "oseltamivir",
+  "molecule_name": "OSELTAMIVIR",
+  "name": "Tamiflu",
+  "register_name": "Tamiflu",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h222.htm"
+}
