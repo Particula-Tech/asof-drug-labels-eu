@@ -4,11 +4,11 @@ Undesirable effects in patients receiving Aprovel are generally mild and transie
 In placebo-controlled trials in patients with hypertension, the overall incidence of adverse events did not differ between the irbesartan and the placebo groups.
 Discontinuation due to any clinical or laboratory adverse event was less frequent for irbesartan-treated patients than for placebo-treated patients.
 The incidence of adverse events was not related to dose (in the recommended dose range), gender, age, race, or duration of treatment.
-Clinical adverse events, regardless of whether attributed to therapy, occurring in 1% or more of hypertensive patients with Aprovel in placebo-controlled trials are presented in the following table:
+Clinical adverse events, regardless of whether attributed to therapy, occurring in 1 % or more of hypertensive patients with Aprovel in placebo-controlled trials are presented in the following table:
 % of Patients
 
 Adverse Event Irbesartan Monotherapy Placebo
-n= 1965 n= 641
+n = 1965 n = 641
 respiratory infection a 18.4 18.6
 headache 12.3 16.7 *
 musculoskeletal pain b 7.3 8.4
@@ -34,10 +34,20 @@ b Includes musculoskeletal pain, musculoskeletal ache, and myalgia.
 Adverse events occurred with similar frequency in placebo and irbesartan-treated patients, with the exception of headache, musculoskeletal trauma, and flushing.
 Headache occurred significantly more often in the placebo group.
 Musculoskeletal trauma of differing types and causes occurred with a significantly higher incidence in the irbesartan group; all reports of musculoskeletal trauma were considered unrelated to irbesartan by the investigators.
-Flushing occurred in 0.6% of irbesartan patients and in no placebo patients.
+Flushing occurred in 0.6 % of irbesartan patients and in no placebo patients.
 The occurrence of flushing was not related to dose, was not accompanied by other clinical events, and the relationship with irbesartan therapy is unknown.
 No clinically significant changes in laboratory test parameters occurred in controlled clinical trials.
-Although significant increases in plasma creatine kinase occurred more frequently in irbesartan-treated subjects (1.7% vs 0.7% in placebo-treated subjects), none of these increases were classified as serious, resulted in drug discontinuation, or were associated with identifiable clinical musculoskeletal events.
+Although significant increases in plasma creatine kinase occurred more frequently in irbesartan-treated subjects (1.7 % vs 0.7 % in placebo-treated subjects), none of these increases were classified as serious, resulted in drug discontinuation, or were associated with identifiable clinical musculoskeletal events.
 No special monitoring of laboratory parameters is necessary for patients with essential hypertension receiving therapy with Aprovel, when the renal function is normal (see 4.4).
 Post-marketing experience: as with other angiotensin-II receptor antagonists, rare cases of hypersensitivity reactions (rash, urticaria, angioedema) have been reported.
-The following have also been reported very rarely during post-marketing surveillance: asthenia, diarrhoea, dizziness, dyspepsia, headache, hyperkalemia, myalgia, nausea, tachycardia, liver function abnormalities, including hepatitis and impaired renal function including isolated cases of renal failure in patients at risk (see 4.4).
+Cases of cough have been reported very rarely with irbesartan.
+The following have also been reported very rarely during post-marketing surveillance:
+Metabolism and nutrition disorders: hyperkalemia
+Nervous system disorders: dizziness, headache
+Ear and labyrinth disorders: tinnitus
+Cardiac disorders: tachycardia
+Gastrointestinal disorders: diarrhoea, dyspepsia, nausea
+Hepato-biliary disorders: abnormal liver function, hepatitis
+Musculoskeletal, connective tissue and bone disorders: myalgia, arthralgia
+Renal and urinary disorders: impaired renal function including isolated cases of renal failure in patients at risk (see 4.4)
+General disorders and administration site conditions: asthenia

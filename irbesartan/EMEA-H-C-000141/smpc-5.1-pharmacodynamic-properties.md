@@ -11,7 +11,7 @@ Irbesartan lowers blood pressure with minimal change in heart rate.
 The decrease in blood pressure is dose-related for once a day doses with a tendency towards plateau at doses above 300 mg.
 Doses of 150-300 mg once daily lower supine or seated blood pressures at trough (i.e. 24 hours after dosing) by an average of 8-13/5-8 mm Hg (systolic/diastolic) greater than those associated with placebo.
 Peak reduction of blood pressure is achieved within 3-6 hours after administration and the blood pressure lowering effect is maintained for at least 24 hours.
-At 24 hours the reduction of blood pressure was 60-70% of the corresponding peak diastolic and systolic responses at the recommended doses.
+At 24 hours the reduction of blood pressure was 60-70 % of the corresponding peak diastolic and systolic responses at the recommended doses.
 Once daily dosing with 150 mg produced trough and mean 24 hour responses similar to twice daily dosing on the same total dose.
 The blood pressure lowering effect of Aprovel is evident within 1-2 weeks, with the maximal effect occurring by 4-6 weeks after start of therapy.
 The antihypertensive effects are maintained during long term therapy.

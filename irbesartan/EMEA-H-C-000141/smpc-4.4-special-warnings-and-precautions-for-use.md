@@ -8,6 +8,7 @@ Renal impairment and kidney transplantation: when Aprovel is used in patients wi
 There is no experience regarding the administration of Aprovel in patients with a recent kidney transplantation.
 Hyperkalemia: as with other drugs that affect the renin-angiotensin-aldosterone system, hyperkalemia may occur during the treatment with Aprovel, especially in the presence of renal impairment and/or heart failure.
 Adequate monitoring of serum potassium in patients at risk is recommended (see 4.5).
+Lithium: the combination of lithium and Aprovel is not recommended (see 4.5).
 Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy: as with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
 Primary aldosteronism: patients with primary aldosteronism generally will not respond to anti-hypertensive drugs acting through inhibition of the renin-angiotensin system.
 Therefore, the use of Aprovel is not recommended.
