@@ -28,7 +28,7 @@ The following adverse drug reactions, listed in Table 1, have been accumulated f
 
 Table 1
 
-Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (�1/10), common (�1/100, <1/10), uncommon (�1/1,000, <1/100), rare (�1/10,000, <1/1,000), very rare (<1/10,000), including isolated reports.
+Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥1/10), common (≥1/100, <1/10), uncommon (≥1/1,000, <1/100), rare (≥1/10,000, <1/1,000), very rare (<1/10,000), including isolated reports.
 Blood and lymphatic system disorders
 
 Common: Anaemia
@@ -49,7 +49,8 @@ Rare: Confusion
 Eye disorders
 
 Common: Conjunctivitis
-Uncommon Blurred vision
+Uncommon: Blurred vision
+Very rare: Uveitis, episcleritis
 
 Gastrointestinal disorders
 
@@ -105,6 +106,11 @@ hypocalcaemia
 
 Uncommon: Hypomagnesaemia, hypokalaemia
 Rare: Hyperkalaemia, hypernatraemia
+
+Postmarketing: Rare cases of osteonecrosis (primarily of the jaws) have been reported in patients treated with bisphosphonates.
+The majority of the reports refer to cancer patients following tooth extractions or other dental surgeries.
+Osteonecrosis of the jaws has multiple well documented risk factors including a diagnosis of cancer, concomitant therapies (e.g. chemotherapy, radiotherapy, corticosteroids) and co-morbid conditions (e.g. anaemia, coagulopathies, infection, pre-existing oral disease).
+Although causality cannot be determined, it is prudent to avoid dental surgery as recovery may be prolonged (see section 4.4, “Special warnings and special precautions for use”).
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 

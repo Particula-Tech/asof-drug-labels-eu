@@ -10,7 +10,6 @@ If hypocalcaemia, hypophosphataemia, or hypomagnesaemia occurs, short-term suppl
 Patients with TIH with evidence of deterioration in renal function should be appropriately evaluated with consideration given as to whether the potential benefit of continued treatment with Zometa outweighs the possible risk.
 
 The decision to treat patients with bone metastases for the prevention of skeletal related events should consider that the onset of treatment effect is 2-3 months.
-
 As with other bisphosphonates, Zometa has been associated with reports of renal dysfunction.
 Factors that may increase the potential for deterioration in renal function include dehydration and pre-existing renal impairment.
 While the risk is reduced with a dose of Zometa 4 mg administered over 15 minutes, deterioration in renal function may still occur.
@@ -27,3 +26,15 @@ As only limited clinical data are available in patients with severe hepatic insu
 Overhydration should be avoided in patients at risk of cardiac failure.
 
 The safety and efficacy of Zometa in paediatric patients have not been established.
+
+Osteonecrosis of the jaw has been reported in patients with cancer receiving treatment regimens including bisphosphonates.
+Many of these patients were also receiving chemotherapy and corticosteroids.
+The majority of reported cases have been associated with dental procedures such as tooth extraction.
+Many had signs of local infection including osteomyelitis.
+
+A dental examination with appropriate preventive dentistry should be considered prior to treatment with bisphosphonates in patients with concomitant risk factors (e.g. cancer, chemotherapy, corticosteroids, poor oral hygiene).
+
+While on treatment, these patients should avoid invasive dental procedures if possible.
+For patients who develop osteonecrosis of the jaw while on bisphosphonate therapy, dental surgery may exacerbate the condition.
+For patients requiring dental procedures, there are no data available to suggest whether discontinuation of bisphosphonate treatment reduces the risk of osteonecrosis of the jaw.
+Clinical judgment of the treating physician should guide the management plan of each patient based on individual benefit/risk assessment.

@@ -27,11 +27,14 @@ Efficacy results are provided in Table 2.
 In a second study including solid tumours other than breast or prostate cancer, Zometa 4 mg significantly reduced the proportion of patients with an SRE, delayed the median time to first SRE by > 2 months, and reduced the skeletal morbidity rate.
 Multiple event analysis showed 30.7 % risk reduction in developing SREs in the Zometa group compared with placebo.
 Efficacy results are provided in Table 3.
+
 Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 
-|  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
-| --- | --- | --- | --- | --- | --- | --- |
+Any SRE (+TIH) Fractures* Radiation therapy
+to bone
+
 |  | Zometa 4 mg | Placebo | Zometa 4 mg | Placebo | Zometa 4 mg | Placebo |
+| --- | --- | --- | --- | --- | --- | --- |
 | N | 214 | 208 | 214 | 208 | 214 | 208 |
 | Proportion of patients with SREs (%) | 38 | 49 | 17 | 25 | 26 | 33 |
 | p-value | 0.028 |  | 0.052 |  | 0.119 |  |
@@ -108,10 +111,11 @@ Table 5: Proportion of complete responders by day in the combined TIH studies
 | *p-values compared to pamidronate. |  |  |  |
 
 Median time to normocalcaemia was 4 days.
-Median time to relapse (re-increase of albumin-corrected serum calcium � 2.9 mmol/l) was 30 to 40 days for patients treated with Zometa versus 17 days for those treated with pamidronate 90 mg (p-values: 0.001 for 4 mg and 0.007 for 8 mg).
+Median time to relapse (re-increase of albumin-corrected serum calcium ≥ 2.9 mmol/l) was 30 to 40 days for patients treated with Zometa versus 17 days for those treated with pamidronate 90 mg (p-values: 0.001 for 4 mg and 0.007 for 8 mg).
 There were no statistically significant differences between the two Zometa doses.
 
 In clinical trials 69 patients who relapsed or were refractory to initial treatment (Zometa 4 mg, 8 mg or pamidronate 90 mg) were retreated with Zometa 8 mg.
-The response rate in these patients was about 52%.
+The response rate in these patients was about 52 %.
 Since those patients were retreated with the 8 mg dose only, there are no data available allowing comparison with the 4 mg dose.
+
 In clinical trials performed in patients with tumour-induced hypercalcaemia (TIH), the overall safety profile amongst all three treatment groups (zoledronic acid 4 and 8 mg and pamidronate 90 mg) was similar in types and severity.
