@@ -4,8 +4,9 @@ In clinical trials in a range of indications including AR and CIU, at the recomm
 The most frequent of adverse events reported in excess of placebo were fatigue (1.2 %), dry mouth (0.8 %) and headache (0.6 %).
 Other undesirable effects reported very rarely during the post-marketing period are listed in the following table.
 
-| Cardiac disorders | Tachycardia, palpitations |
+| Nervous system disorders | Dizziness, somnolence |
 | --- | --- |
+| Cardiac disorders | Tachycardia, palpitations |
 | Gastrointestinal disorders | Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea |
 | Hepato-biliary disorders | Elevations of liver enzymes, increased bilirubin |
 | General disorders | Hypersensitivity reactions (such as anaphylaxis, angioedema, pruritus, rash, and urticaria) |

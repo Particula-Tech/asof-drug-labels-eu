@@ -8,13 +8,13 @@ After oral administration, desloratadine selectively blocks peripheral histamine
 Desloratadine has demonstrated antiallergic properties from in vitro studies.
 These include inhibiting the release of proinflammatory cytokines such as IL-4, IL-6, IL-8, and IL-13 from human mast cells/basophils, as well as inhibition of the expression of the adhesion molecule P-selectin on endothelial cells.
 The clinical relevance of these observations remains to be confirmed.
-
 In a multiple dose clinical trial, in which up to 20 mg of desloratadine was administered daily for 14 days, no statistically or clinically relevant cardiovascular effect was observed.
 In a clinical pharmacology trial, in which desloratadine was administered at a dose of 45 mg daily (nine times the clinical dose) for ten days, no prolongation of QTc interval was seen.
 
 No clinically relevant changes in desloratadine plasma concentrations were observed in multiple-dose ketoconazole and erythromycin interaction trials.
+
 Desloratadine does not readily penetrate the central nervous system.
-At the recommended dose of 5 mg daily, there was no excess incidence of somnolence as compared to placebo.
+In controlled clinical trials, at the recommended dose of 5 mg daily, there was no excess incidence of somnolence as compared to placebo.
 Azomyr given at a single daily dose of 7.5 mg did not affect psychomotor performance in clinical trials.
 In a single dose study performed in adults, desloratadine 5 mg did not affect standard measures of flight performance including exacerbation of subjective sleepiness or tasks related to flying.
 
@@ -47,7 +47,7 @@ Thus, since the course of AR/CIU and the profile of desloratadine are similar in
 In a multiple dose clinical trial, in adults and adolescents, in which up to 20 mg of desloratadine was administered daily for 14 days, no statistically or clinically relevant cardiovascular effect was observed.
 In a clinical pharmacology trial, in adults and adolescents, in which desloratadine was administered to adults at a dose of 45 mg daily (nine times the clinical dose) for ten days, no prolongation of QTc interval was seen.
 
-At the recommended dose of 5 mg daily for adults and adolescents, there was no excess incidence of somnolence as compared to placebo.
+In controlled clinical trials, at the recommended dose of 5 mg daily for adults and adolescents, there was no excess incidence of somnolence as compared to placebo.
 Azomyr tablets given at a single daily dose of 7.5 mg to adults and adolescents did not affect psychomotor performance in clinical trials.
 
 In clinical pharmacology trials in adults, co-administration with alcohol did not increase the alcohol-induced impairment in performance or increase in sleepiness.
