@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Cell Therapeutics (UK) Limited
-1 Ropemaker Street
-London EC2Y 9HT - UK
+100 Pall Mall
+London SW1Y 5HP
 United Kingdom

@@ -13,6 +13,7 @@ TRISENOX was administered intravenously over 1 to 2 hours until the bone marrow 
 Patients with complete remission received consolidation therapy with TRISENOX for 25 additional doses over a 5 week period.
 Consolidation therapy began 6 weeks (range, 3-8) after induction in the single institution study and 4 weeks (range, 3-6) in the multicentre study.
 Complete remission (CR) was defined as the absence of visible leukaemic cells in the bone marrow and peripheral recovery of platelets and white blood cells.
+
 Patients in the single centre study had relapsed following 1-6 prior therapy regimens and 2 patients had relapsed following stem cell transplantation.
 Patients in the multicentre study had relapsed following 1-4 prior therapy regimens and 5 patients had relapsed following stem cell transplantation.
 The median age in the single centre study was 33 years (age range 9 to 75).
@@ -22,7 +23,8 @@ The results are summarised in the table below.
 
 Single Centre Trial Multicentre Trial
 N=12 N=40
-Trisenox Dose, mg/kg/day 0.16 (0.06 – 0.20) 0.15
+TRISENOX Dose, 0.16 (0.06 – 0.20) 0.15
+mg/kg/day
 (Median, Range)
 Complete Remission 11 (92%) 34 (85%)
 Time to Bone Marrow 32 days 35 days
@@ -60,7 +62,7 @@ Multicenter Study 40 13 66%
 
 Months
 
-Cytogenetic confirmation of conversion to a normal genotype and Reverse Transcriptase - Polymerase Chain Reaction (RT-PCR) detection of PML/RAR� conversion to normal are shown in the table below.
+Cytogenetic confirmation of conversion to a normal genotype and Reverse Transcriptase – Polymerase Chain Reaction (RT-PCR) detection of PML/RAR� conversion to normal are shown in the table below.
 Cytogenetics after TRISENOX therapy
 
 |  | Single Centre Pilot Trial N with CR = 11 | Multicentre Trial N with CR = 34 |
