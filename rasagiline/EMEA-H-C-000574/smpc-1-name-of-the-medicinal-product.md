@@ -1,0 +1,3 @@
+# 1. NAME OF THE MEDICINAL PRODUCT
+
+AZILECT 1 mg tablets

@@ -1,0 +1,8 @@
+# 4.3 Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients (see section 6.1).
+
+Concomitant treatment with other monoamine oxidase (MAO) inhibitors or pethidine (see section 4.5).
+At least 14 days should elapse between discontinuation of rasagiline and initiation of treatment with MAO inhibitors or pethidine.
+
+Rasagiline is contraindicated in patients with severe hepatic insufficiency.
