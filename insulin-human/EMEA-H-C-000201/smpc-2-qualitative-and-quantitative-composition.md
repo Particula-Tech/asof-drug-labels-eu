@@ -6,8 +6,7 @@ Each ml of Insuman Rapid contains 100 IU of the active substance insulin human.
 Each vial contains 5 ml, equivalent to 500 IU insulin.
 One IU (International Unit) corresponds to 0.035 mg of anhydrous human insulin.
 
-The human insulin in Insuman Rapid is produced by recombinant DNA technology using K 12 strains of
-Escherichia coli.
+The human insulin in Insuman Rapid is produced by recombinant DNA technology using K 12 strains of Escherichia coli.
 
 For excipients, see section 6.1.
 
@@ -25,8 +24,6 @@ Each cartridge contains 3 ml, equivalent to 300 IU insulin.
 Insuman Rapid OptiSet is a pre-filled disposable pen containing Insuman Rapid, a neutral insulin solution (regular insulin).
 
 Each pen contains 3 ml, equivalent to 300 IU insulin.
-
-The human insulin in Insuman Rapid is produced by recombinant DNA technology using K 12 strains of Escherichia coli.
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 

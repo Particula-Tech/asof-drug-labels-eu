@@ -6,6 +6,7 @@ Do not shake the vial vigorously as this may cause frothing.
 Froth may interfere with the correct measurement of the dose.
 
 Insuman Rapid must only be used if the solution is clear, colourless, with no solid particles visible, and if it is of a water-like consistency.
+
 Mixing of insulins
 
 If two different insulins have to be drawn into one single syringe, it is recommended that the shorter-acting insulin be drawn first to prevent contamination of the vial by the longer-acting preparation.
@@ -25,6 +26,7 @@ The instructions for using the pen must be followed carefully.
 Empty cartridges must not be refilled.
 
 Insuman Rapid cartridges are not designed to allow any other insulin to be mixed in the cartridge.
+
 If the pen malfunctions, the solution may be drawn from the cartridge into a syringe (suitable for an insulin with 100 IU/ml) and injected.
 
 [Insuman Rapid 100 IU/ml OptiSet solution for injection]
