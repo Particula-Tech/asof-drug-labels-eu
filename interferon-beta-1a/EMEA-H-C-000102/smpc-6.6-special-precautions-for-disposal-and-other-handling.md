@@ -1,4 +1,4 @@
-# 6.6 Instructions for use and handling, and disposal (if appropriate)
+# 6.6 Instructions for use and handling and disposal
 
 AVONEX should be administered after reconstitution.
 However, the reconstituted solution can be stored at 2-8°C for up to 6 hours, prior to injection.

@@ -20,7 +20,7 @@ Symptoms of the flu-like syndrome associated with AVONEX therapy may prove stres
 Patients should be advised about the abortifacient potential of interferon beta (see 4.6 Use during pregnancy and lactation and 5.3 Preclinical safety data).
 
 Laboratory abnormalities are associated with the use of interferons.
-Therefore, in addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, complete and differential white blood cell counts, platelet counts, and blood chemistries, including liver function tests, are recommended during AVONEX therapy.
+Therefore, in addition to those laboratory tests normally required for monitoring patients with multiple sclerosis, complete and differential white blood cell counts, platelet counts, and blood chemistry, including liver function tests, are recommended during AVONEX therapy.
 Patients with myelosuppression may require more intensive monitoring of complete blood cell counts, with differential and platelet counts.
 
 Patients may develop antibodies to AVONEX.

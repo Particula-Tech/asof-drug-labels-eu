@@ -1,7 +1,7 @@
 # 4.2 Posology and method of administration
 
 The recommended dosage of AVONEX (Interferon beta-1a) for the treatment of relapsing MS is 30
-�g injected (1 ml solution) IM once a week (see 6.6 Instructions for use and handling, and disposal (if appropriate) and no additional benefit has been shown by administering a higher dose (60µg) once a week.
+�g injected (1 ml solution) IM once a week (see 6.6 Instructions for use and handling and disposal) and no additional benefit has been shown by administering a higher dose (60µg) once a week.
 Treatment should be initiated under supervision of a physician experienced in the treatment of the disease.
 
 There is no experience with AVONEX in patients aged 16 years or less.
@@ -17,4 +17,4 @@ Treatment should be discontinued if the patient develops chronic progressive mul
 
 [AVONEX 30 �g powder and solvent for solution for injection (SmPC 2)]
 
-�g injected (1 ml solution) IM once a week (see 6.6 Instructions for use and handling, and disposal (if appropriate) and no additional benefit has been shown by administering a higher dose (60 µg) once a week.
+�g injected (1 ml solution) IM once a week (see 6.6 Instructions for use and handling and disposal) and no additional benefit has been shown by administering a higher dose (60 µg) once a week.

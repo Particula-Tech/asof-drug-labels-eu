@@ -2,7 +2,7 @@
 
 Carcinogenesis: No carcinogenicity data for Interferon beta-1a are available in animals or humans.
 
-Chronic Toxicity: No chronic toxicity data for Interferon beta-1a is available in animals.
+Chronic Toxicity: No chronic toxicity data for Interferon beta-1a are available in animals.
 Local Tolerance: IM irritation has not been evaluated in animals following repeated administration to the same injection site.
 
 Mutagenesis: Limited but relevant mutagenesis tests have been carried out.
