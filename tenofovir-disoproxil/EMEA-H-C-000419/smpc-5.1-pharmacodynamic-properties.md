@@ -33,7 +33,6 @@ Tenofovir disoproxil fumarate should be avoided in antiretroviral experienced pa
 
 The clinical activity of tenofovir disoproxil fumarate has not been determined against hepatitis B virus (HBV) in humans.
 It is unknown whether treatment of patients co-infected with HIV-1 and HBV will result in the development of HBV resistance to tenofovir disoproxil fumarate or other medicinal products.
-
 Clinical efficacy: The effects of tenofovir disoproxil fumarate in treatment-experienced and treatment-naïve HIV-1 infected adults have been demonstrated in trials of 48 weeks duration in treatment-experienced HIV-1 infected adults.
 
 In study GS-99-907, 550 treatment-experienced patients were treated with placebo or tenofovir disoproxil 245 mg (as fumarate) for 24 weeks.

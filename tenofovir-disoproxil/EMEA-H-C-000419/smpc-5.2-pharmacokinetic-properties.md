@@ -33,6 +33,7 @@ Following oral administration the terminal half-life of tenofovir is approximate
 
 Linearity/non-linearity
 The pharmacokinetics of tenofovir were independent of tenofovir disoproxil fumarate dose over the dose range 75 to 600 mg and were not affected by repeated dosing at any dose level.
+
 Age and gender
 Limited data on the pharmacokinetics of tenofovir in women indicate no major gender effect.
 Pharmacokinetic studies have not been performed in children and adolescents (under 18) or in the elderly (over 65).
