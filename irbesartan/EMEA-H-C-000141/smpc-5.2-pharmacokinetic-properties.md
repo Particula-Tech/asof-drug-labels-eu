@@ -14,11 +14,11 @@ Peak plasma concentrations are attained at 1.5-2 hours after oral administration
 The total body and renal clearance are 157-176 and 3-3.5 ml/min, respectively.
 The terminal elimination half-life of irbesartan is 11-15 hours.
 Steady-state plasma concentrations are attained within 3 days after initiation of a once-daily dosing regimen.
-Limited accumulation of irbesartan (� 20%) is observed in plasma upon repeated once-daily dosing.
+Limited accumulation of irbesartan (< 20%) is observed in plasma upon repeated once-daily dosing.
 In a study, somewhat higher plasma concentrations of irbesartan were observed in female hypertensive patients.
 However, there was no difference in the half-life and accumulation of irbesartan.
 No dosage adjustment is necessary in female patients.
-Irbesartan AUC and Cmax values were also somewhat greater in elderly subjects (� 65 years) than those of young subjects (18-40 years).
+Irbesartan AUC and Cmax values were also somewhat greater in elderly subjects (≥ 65 years) than those of young subjects (18-40 years).
 However the terminal half-life was not significantly altered.
 No dosage adjustment is necessary in elderly patients.
 Irbesartan and its metabolites are eliminated by both biliary and renal pathways.

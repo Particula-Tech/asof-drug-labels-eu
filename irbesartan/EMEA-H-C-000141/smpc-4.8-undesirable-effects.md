@@ -49,24 +49,26 @@ No patients in IDNT were discontinued due to orthostatic hypotension.
 
 Laboratory test parameters
 Hypertension: although significant increases in plasma creatine kinase occurred more frequently in irbesartan-treated subjects (1.7% vs 0.7% in placebo-treated subjects), none of these increases were classified as serious, resulted in drug discontinuation, or were associated with identifiable clinical musculoskeletal events.
-No special monitoring of laboratory parameters is necessary for patients with essential hypertension receiving therapy with Aprovel, when the renal function is normal (see 4.4).
+No special monitoring of laboratory parameters is necessary for patients with essential hypertension receiving therapy with Aprovel, when the renal function is normal (see 4.4 Special warnings and special precautions for use).
+
 Hypertension with type 2 diabetes and renal disease: in clinical trials conducted in patients with diabetic renal disease, the laboratory test parameter profile was similar to that of hypertension, with the exception of hyperkalemia.
 In a placebo-controlled trial in 590 patients with hypertension, type 2 diabetes, microalbuminuria, and normal renal function (IRMA 2), hyperkalemia ≥ 5.5 mEq/L occurred in 29.4% of the patients in the irbesartan 300 mg group and 22% of the patients in the placebo group.
 Discontinuation for hyperkalemia occurred in 0.5% of the patients in the irbesartan group.
 
 In another placebo-controlled trial in 1715 patients with hypertension, type 2 diabetes, proteinuria
 ≥ 900 mg/day, and serum creatinine ranging from 1.0-3.0 mg/dl (IDNT), hyperkalemia ≥ 5.5 mEq/L occurred in 46.3% of the patients in the irbesartan group and 26.3% of the patients in the placebo group.
-Discontinuation for hyperkalemia occurred in 2.1% and 0.4% of the patients in the irbesartan and placebo groups, respectively (see 4.4).
+Discontinuation for hyperkalemia occurred in 2.1% and 0.4% of the patients in the irbesartan and placebo groups, respectively (see 4.4 Special warnings and special precautions for use).
+A decrease in haemoglobin, which was not clinically significant, has been observed in hypertensive patients with advanced diabetic renal disease treated with irbesartan.
 
 Post-marketing experience: as with other angiotensin-II receptor antagonists, rare cases of hypersensitivity reactions (rash, urticaria, angioedema) have been reported.
-Cases of cough have been reported very rarely with irbesartan.
-The following have also been reported very rarely during post-marketing surveillance:
+The following adverse reactions have also been reported very rarely during post-marketing surveillance:
 Metabolism and nutrition disorders: hyperkalemia
-Nervous system disorders: dizziness, headache
+Nervous system disorders: dizziness, headache, dysgeusia
 Ear and labyrinth disorders: tinnitus
 Cardiac disorders: tachycardia
+Respiratory, thoracic and mediastinal disorders: cough
 Gastrointestinal disorders: diarrhoea, dyspepsia, nausea
 Hepato-biliary disorders: abnormal liver function, hepatitis
 Musculoskeletal, connective tissue and bone disorders: myalgia, arthralgia
-Renal and urinary disorders: impaired renal function including isolated cases of renal failure in patients at risk (see 4.4)
+Renal and urinary disorders: impaired renal function including isolated cases of renal failure in patients at risk (see 4.4 Special warnings and special precautions for use)
 General disorders and administration site conditions: asthenia
