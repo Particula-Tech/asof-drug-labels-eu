@@ -32,6 +32,8 @@ These include patients:
 
 Such situations may result in severe hypoglycaemia (and possibly loss of consciousness) prior to the patient's awareness of hypoglycaemia.
 
+The prolonged effect of subcutaneous insulin glargine may delay recovery from hypoglycaemia.
+
 If normal or decreased values for glycated haemoglobin are noted, the possibility of recurrent, unrecognised (especially nocturnal) episodes of hypoglycaemia must be considered.
 
 Adherence of the patient to the dosage and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
@@ -54,3 +56,15 @@ Intercurrent illness requires intensified metabolic monitoring.
 In many cases urine tests for ketones are indicated, and often it is necessary to adjust the insulin dose.
 The insulin requirement is often increased.
 Patients with type 1 diabetes must continue to consume at least a small amount of carbohydrates on a regular basis, even if they are able to eat only little or no food, or are vomiting etc. and they must never omit insulin entirely.
+
+[Lantus 100 IU/ml solution for injection in a cartridge.]
+
+Due to limited experience the efficacy and safety of Lantus could not be assessed in children, in patients with impaired liver function or in patients with moderate/severe renal impairment (see 4.2).
+
+- certain uncompensated endocrine disorders, (e.g. in hypothyroidism and in anterior pituitary
+
+or adrenocortical insufficiency),
+
+[Lantus 100 IU/ml OptiSet solution for injection]
+
+(all sentences already above)

@@ -1,9 +1,9 @@
 # 4.2 Posology and method of administration
 
-Lantus is an insulin analogue.
-It has a prolonged duration of action and should be administered once daily in the evening.
+Lantus contains insulin glargine, an insulin analogue with a prolonged duration of action.
+It should be administered once daily at any time but at the same time each day.
 
-The dosage of insulin glargine should be individually adjusted.
+The dosage and timing of dose of Lantus should be individually adjusted.
 In patients with type 2 diabetes mellitus, Lantus can also be given together with orally active antidiabetic medicinal products.
 
 Transition from other insulins to Lantus
@@ -17,7 +17,7 @@ As with other insulin analogues, patients with high insulin doses because of ant
 
 Close metabolic monitoring is recommended during the transition and in the initial weeks thereafter.
 With improved metabolic control and resulting increase in insulin sensitivity a further adjustment in dosage regimen may become necessary.
-Dose adjustment may also be required, for example, if the patient's weight or life-style changes or other circumstances arise that increase susceptibility to hypo-or hyperglycaemia (see section 4.4).
+Dose adjustment may also be required, for example, if the patient's weight or life-style changes, change of timing of insulin dose or other circumstances arise that increase susceptibility to hypo-or hyperglycaemia (see section 4.4).
 
 Administration
 
@@ -36,3 +36,11 @@ Mixing or diluting can change its time/action profile and mixing can cause preci
 For further details on handling, see section 6.6.
 
 Due to limited experience the efficacy and safety of Lantus could not be assessed in the following groups of patients: children, patients with impaired liver function or patients with moderate/severe renal impairment (see section 4.4).
+
+[Lantus 100 IU/ml solution for injection in a cartridge.]
+
+Due to limited experience the efficacy and safety of Lantus could not be assessed in the following groups of patients: children, patients with impaired liver function or patients with moderate/severe renal impairment (see 4.4).
+
+[Lantus 100 IU/ml OptiSet solution for injection]
+
+Lantus OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.

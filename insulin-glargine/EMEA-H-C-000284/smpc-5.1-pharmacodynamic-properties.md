@@ -3,6 +3,7 @@
 Pharmacotherapeutic group: Antidiabetic agent.
 Insulin and analogues, long-acting.
 ATC Code: A10AE.
+
 Insulin glargine is a human insulin analogue designed to have a low solubility at neutral pH.
 It is completely soluble at the acidic pH of the Lantus injection solution (pH 4).
 After injection into the subcutaneous tissue, the acidic solution is neutralised leading to formation of micro-precipitates from which small amounts of insulin glargine are continuously released, providing a smooth, peakless, predictable concentration/time profile with a prolonged duration of action.
@@ -28,8 +29,7 @@ Activity Profile in Patients with Type 1 Diabetes
 5
 
 4
-Insulin glargine
-3 NPH insulin
+Insulin glargine 3 NPH insulin
 
 2
 
@@ -46,5 +46,14 @@ period
 
 The longer duration of action of insulin glargine is directly related to its slower rate of absorption and supports once daily administration.
 The time course of action of insulin and insulin analogues such as insulin glargine may vary considerably in different individuals or within the same individual.
-
 In a clinical study, symptoms of hypoglycaemia or counter-regulatory hormone responses were similar after intravenous insulin glargine and human insulin both in healthy volunteers and patients with type 1 diabetes.
+
+[Lantus 100 IU/ml solution for injection in a cartridge.]
+
+Figure 1.
+
+*determined as amount of glucose infused to maintain constant plasma glucose levels (hourly mean values)
+
+[Lantus 100 IU/ml OptiSet solution for injection]
+
+(all sentences already above)
