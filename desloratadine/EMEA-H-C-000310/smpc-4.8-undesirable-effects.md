@@ -13,8 +13,9 @@ Other undesirable effects reported very rarely during the post-marketing period 
 
 [Azomyr 0.5 mg/ml syrup]
 
-In clinical trials in a paediatric population, Azomyr syrup was administered to 115 children aged 2 through 11 years.
-The overall incidence of adverse events was similar for the Azomyr syrup and the placebo groups.
+In clinical trials in a paediatric population, Azomyr syrup was administered to a total of 246 children aged 6 months through 11 years.
+The overall incidence of adverse events in children 2 through 11 years of age was similar for the Azomyr syrup and the placebo groups.
+In infants and toddlers aged 6 to 23 months, the most frequent adverse events reported in excess of placebo were diarrhoea (3.7 %), fever (2.3 %) and insomnia (2.3 %).
 
 At the recommended dose, in clinical trials involving adults and adolescents in a range of indications including AR and CIU, undesirable effects with Azomyr were reported in 3 % of patients in excess of those treated with placebo.
 

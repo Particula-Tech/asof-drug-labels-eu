@@ -22,11 +22,24 @@ In another study, grapefruit juice had no effect on the disposition of deslorata
 
 Desloratadine plasma concentrations can be detected within 30 minutes of desloratadine administration in adults and adolescents.
 
-There is no evidence of clinically relevant drug accumulation following once daily adult and adolescent dosing of desloratadine (5 mg to 20 mg) for 14 days.
+In a series of pharmacokinetic and clinical trials, 6 % of the subjects reached a higher concentration of desloratadine.
+The prevalence of this poor metaboliser phenotype was comparable for adult (6 %) and pediatric subjects 2- to 11-year old (6 %), and greater among Blacks (18 % adult, 16 % pediatric) than Caucasians (2 % adult, 3 % pediatric) in both populations.
+
+In a multiple-dose pharmacokinetic study conducted with the tablet formulation in healthy adult subjects, four subjects were found to be poor metabolisers of desloratadine.
+These subjects had a Cmax concentration about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours.
+Similar pharmacokinetic parameters were observed in a multiple-dose pharmacokinetic study conducted with the syrup formulation in pediatric poor metaboliser subjects 2- to 11-year old diagnosed with allergic rhinitis.
+The exposure (AUC) to desloratadine was about 6-fold higher and the Cmax was about 3 to 4 fold higher at 3-6 hours with a terminal half-life of approximately 120 hours.
+Exposure was the same in adult and pediatric poor metabolisers when treated with age-appropriate doses.
+The overall safety profile of these subjects was not different from that of the general population.
+The effects of Azomyr syrup in poor metabolizers < 2 years of age have not been studied.
+
+There is no evidence of clinically relevant active substance accumulation following once daily adult and adolescent dosing of desloratadine (5 mg to 20 mg) for 14 days.
 
 In a single dose, crossover study of desloratadine, the tablet and the syrup formulations were found to be bioequivalent.
 
 In separate single dose studies, at the recommended doses, paediatric patients had comparable AUC and Cmax values of desloratadine to those in adults who received a 5 mg dose of desloratadine syrup.
+
+The enzyme responsible for the metabolism of desloratadine has not been identified yet, and therefore, some interactions with other medicinal products can not be fully excluded.
 
 [Azomyr 5 mg oral lyophilisate]
 

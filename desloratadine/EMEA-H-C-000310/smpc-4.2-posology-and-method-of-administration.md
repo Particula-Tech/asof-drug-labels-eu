@@ -4,11 +4,15 @@ Adults and adolescents (12 years of age and over): one tablet once a day, with o
 
 [Azomyr 0.5 mg/ml syrup]
 
-Children 2 through 5 years of age: 2.5 ml (1.25 mg) Azomyr syrup once a day, with or without a meal.
+Azomyr may be taken without regard to mealtime.
 
-Children 6 through 11 years of age: 5 ml (2.5 mg) Azomyr syrup once a day, with or without a meal.
+The prescriber should be aware that most cases of rhinitis below 2 years of age are of infectious origin (see section 4.4) and there are no data supporting the treatment of infectious rhinitis with Azomyr.
 
-In adults and adolescents (12 years of age and over): 10 ml (5 mg) Azomyr syrup once a day, with or without a meal.
+Children 1 through 5 years of age: 2.5 ml (1.25 mg) Azomyr syrup once a day.
+
+Children 6 through 11 years of age: 5 ml (2.5 mg) Azomyr syrup once a day.
+
+In adults and adolescents (12 years of age and over): 10 ml (5 mg) Azomyr syrup once a day.
 
 [Azomyr 5 mg oral lyophilisate]
 
