@@ -1,0 +1,16 @@
+{
+  "active_substance": "levetiracetam",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000277",
+  "eu_number": "EU/1/00/146",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2000-09-29",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/keppra",
+  "molecule": "levetiracetam",
+  "molecule_name": "LEVETIRACETAM",
+  "name": "Keppra",
+  "register_name": "Keppra",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h146.htm"
+}
