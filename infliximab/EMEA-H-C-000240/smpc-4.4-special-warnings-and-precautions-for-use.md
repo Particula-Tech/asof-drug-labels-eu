@@ -17,8 +17,7 @@ Patients who discontinue immunosuppressants prior to or during Remicade treatmen
 Antibodies to infliximab can not always be detected in serum samples.
 If serious reactions occur, symptomatic treatment must be given and further Remicade infusions must not be administered (see section 4.8: "Immunogenicity").
 
-A delayed hypersensitivity reaction has been observed in a significant number of patients with
-Crohn’s disease (25%) who were retreated with infliximab following a 2 to 4 year period without infliximab treatment.
+A delayed hypersensitivity reaction has been observed in a significant number of patients with Crohn’s disease (25%) who were retreated with infliximab following a 2 to 4 year period without infliximab treatment.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash within 12 days following retreatment.
 Some patients also experienced pruritus, facial, hand or lip oedema, dysphagia, urticaria, sore throat and/or headache.
 Advise patients to seek immediate medical advice if they experience any delayed adverse event (see section 4.8: “Delayed hypersensitivity”).
@@ -28,11 +27,11 @@ Infections
 Patients must be monitored closely for infections including tuberculosis before, during and after treatment with Remicade.
 Because the elimination of infliximab may take up to six months, monitoring should be continued throughout this period.
 Further treatment with Remicade must not be given if a patient develops a serious infection or sepsis.
-
 Tumour necrosis factor alpha (TNFα) mediates inflammation and modulates cellular immune responses.
 Experimental data show that TNFα is essential for the clearing of intracellular infections.
 Clinical experience shows that host defence against infection is compromised in some patients treated with infliximab.
 It should be noted that suppression of TNFα may also mask symptoms of infection such as fever.
+
 Opportunistic infections and other infections including sepsis have been reported in patients treated with infliximab; some of these infections have been fatal.
 
 Cases of active tuberculosis including miliary tuberculosis and tuberculosis with extrapulmonary location have been reported in patients treated with Remicade.
@@ -49,13 +48,17 @@ In this situation, the benefit/ risk balance of Remicade therapy should be very 
 
 Patients with fistulising Crohn’s disease with acute suppurative fistulas should not initiate Remicade therapy until a source for possible infection, specifically abscess, has been excluded (see section 4.3).
 
-All patients should be informed to seek medical advice if signs / symptoms suggestive of tuberculosis (e.g. persistent cough, wasting / weight loss, low-grade fever) appear during or after Remicade treatment.
+All patients should be informed to seek medical advice if signs/symptoms suggestive of tuberculosis (e.g. persistent cough, wasting/weight loss, low-grade fever) appear during or after Remicade treatment.
 
 Concurrent administration of TNF-alpha inhibitor and anakinra
 Concurrent administration of etanercept (another agent that inhibits TNFα) and anakinra
 (a recombinant, non-glycosylated form of the human interleukin-1 receptor antagonist) has been associated with an increased risk of serious infections, an increased risk of neutropenia and no additional benefit compared to these medicinal products alone.
 The safety and efficacy of anakinra used in combination with infliximab has not been established.
 Therefore, combination of infliximab and anakinra is not recommended.
+
+Vaccinations
+No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
+It is recommended that live vaccines not be given concurrently.
 
 Autoimmune processes
 The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.

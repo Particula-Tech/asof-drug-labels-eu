@@ -16,7 +16,7 @@ Immune
 Common: Serum sickness-like reactions
 Uncommon: Autoantibodies, lupus-like syndrome, complement factor abnormality
 Blood
-Uncommon: Anaemia, leukopoenia, lymphadenopathy, lymphocytosis, lymphopoenia, neutropoenia, thrombocytopoenia
+Uncommon: Anaemia, leukopenia, lymphadenopathy, lymphocytosis, lymphopenia, neutropenia, thrombocytopenia
 Psychiatric
 Uncommon: Depression, confusion, agitation, amnesia, apathy, nervousness, somnolence, insomnia
 Central and peripheral nervous system
@@ -39,7 +39,7 @@ Common: Elevated hepatic transaminases
 Uncommon: Abnormal hepatic function, cholecystitis
 Rare: Hepatitis
 Skin and appendages
-Common: Rash, pruritus, urticaria, increased sweating, dry skin Uncommon: Fungal dermatitis/ onychomycosis, eczema/seborrhoea, hordeolum, bullous eruption, furunculosis, periorbital oedema, hyperkeratosis, rosacea, verruca, abnormal skin pigmentation/coloration, alopoecia
+Common: Rash, pruritus, urticaria, increased sweating, dry skin Uncommon: Fungal dermatitis/ onychomycosis, eczema/seborrhoea, hordeolum, bullous eruption, furunculosis, periorbital oedema, hyperkeratosis, rosacea, verruca, abnormal skin pigmentation/colouration, alopoecia
 Musculo-skeletal system
 Uncommon: Myalgia, arthralgia, back pain
 Urinary system
@@ -61,7 +61,7 @@ Rare: Demyelinating disorders (such as multiple sclerosis and optic neuritis), G
 Very Rare: Transverse myelitis
 Blood
 Rare: Pancytopenia
-Very Rare: Haemolytic anaemia, idiopathic thrombocytopoenic purpura, thrombotic thrombocytopoenic purpura
+Very Rare: Haemolytic anaemia, idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, agranulocytosis
 Liver and biliary system
 Rare: Hepatitis
 Very rare: Hepatocellular damage
@@ -80,6 +80,8 @@ Cardiac
 Very rare: Pericardial effusion
 Skin and appendages
 Rare: Vasculitis (primarily cutaneous)
+Gastro-intestinal system
+Rare: Pancreatitis
 
 Infusion-related reactions: An infusion-related reaction was defined in clinical trials as any adverse event occurring during an infusion or within 1 to 2 hours after an infusion.
 In clinical studies, 20% of infliximab-treated patients compared with 9% of placebo-treated patients experienced an infusion-related effect.
@@ -125,7 +127,7 @@ Heart failure: In a phase II study aimed at evaluating Remicade in congestive he
 In this trial 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
 At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
 
-Antinuclear antibodies (ANA)/Double-stranded DNA (dsDNA) antibodies: Approximately 52% of 1261 infliximab-treated patients in clinical trials who were ANA negative at baseline developed a positive ANA during the trial compared with approximately 19% of 129 placebo-treated patients.
+Antinuclear antibodies (ANA)/Anti-double-stranded DNA (dsDNA) antibodies: Approximately 52% of 1261 infliximab-treated patients in clinical trials who were ANA negative at baseline developed a positive ANA during the trial compared with approximately 19% of 129 placebo-treated patients.
 In clinical studies, anti-dsDNA antibodies were newly detected in 261 (17%) of 1507 infliximab-treated patients compared with 0% of 162 placebo-treated patients.
 At the last evaluation, 150 of these 261 infliximab-treated patients (57%) remained anti-dsDNA positive.
 Reports of lupus and lupus-like syndromes, remain uncommon.

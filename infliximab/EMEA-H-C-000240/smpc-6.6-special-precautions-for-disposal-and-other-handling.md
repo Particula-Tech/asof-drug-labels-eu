@@ -17,7 +17,7 @@ Foaming of the solution on reconstitution is not unusual.
 Allow the reconstituted solution to stand for 5 minutes.
 Check that the solution is colourless to light yellow and opalescent.
 The solution may develop a few fine translucent particles, as infliximab is a protein.
-Do not use if opaque particles, discoloration, or other foreign particles are present.
+Do not use if opaque particles, discolouration, or other foreign particles are present.
 
 3.
 Dilute the total volume of the reconstituted Remicade solution dose to 250 ml with sodium chloride solution for infusion 9 mg/ml (0,9%).
@@ -35,9 +35,10 @@ Do not store any unused portion of the infusion solution for reuse.
 5.
 No physical biochemical compatibility studies have been conducted to evaluate the co-administration of Remicade with other agents.
 Do not infuse Remicade concomitantly in the same intravenous line with other agents.
+
 6.
-Visually inspect parenteral medicinal products for particulate matter or discoloration prior to administration.
-Do not use if visibly opaque particles, discoloration or foreign particulates are observed.
+Visually inspect parenteral medicinal products for particulate matter or discolouration prior to administration.
+Do not use if visibly opaque particles, discolouration or foreign particulates are observed.
 
 7.
 Discard any unused portion of the solution.
