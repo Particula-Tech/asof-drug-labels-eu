@@ -6,7 +6,7 @@ Plasma pharmacokinetic profiles were analysed on day 1 and on either day 7 or da
 
 Absorption
 Mean absolute bioavailability for the capsule formulation is 98%.
-There was high between- patient variability in plasma imatinib AUC levels after an oral dose.
+There was high between-patient variability in plasma imatinib AUC levels after an oral dose.
 When given with a high-fat meal, the rate of absorption of imatinib was minimally reduced (11% decrease in Cmax and prolongation of tmax by 1.5 h), with a small reduction in AUC (7.4%) compared to fasting conditions.
 The effect of prior gastrointestinal surgery on drug absorption has not been investigated.
 
@@ -20,7 +20,7 @@ The plasma AUC for this metabolite was found to be only 16% of the AUC for imati
 Imatinib and the N-demethyl metabolite together accounted for about 65% of the circulating radioactivity (AUC(0-48h)).
 The remaining circulating radioactivity consisted of a number of minor metabolites.
 
-The in vitro results showed that CYP3A4 was the major human P450 enzyme catalyzing the biotransformation of imatinib.
+The in vitro results showed that CYP3A4 was the major human P450 enzyme catalyszing the biotransformation of imatinib.
 Of a panel of potential comedications (acetaminophen, aciclovir, allopurinol, amphotericin, cytarabine, erythromycin, fluconazole, hydroxyurea, norfloxacin, penicillin V) only erythromycin (IC50 50 µM) and fluconazole (IC50 118 µM) showed inhibition of imatinib metabolism which could have clinical relevance.
 
 Imatinib was shown in vitro to be a competitive inhibitor of marker substrates for CYP2C9, CYP2D6 and CYP3A4/5.
@@ -51,13 +51,18 @@ This change is not thought to be clinically significant.
 The effect of bodyweight on the clearance of imatinib is such that for a patient weighing 50 kg the mean clearance is expected to be 8.5 l/h, while for a patient weighing 100 kg the clearance will rise to 11.8 l/h.
 These changes are not considered sufficient to warrant dose adjustment based on kg bodyweight.
 There is no effect of gender on the kinetics of imatinib.
-Pharmacokinetcs in children
+
+Pharmacokinetics in children
 As in adult patients, imatinib was rapidly absorbed after oral administration in paediatric patients in a phase I study.
-Dosing in children at 260 and 340 mg/m2 achieved the same exposure, respectively, as doses of 400 mg and 600 mg in adult patients.
-The comparison of AUC(0-24) on day 8 and day 1 at the 340 mg/m2 dose level revealed a 1.7-fold drug accumulation after repeated once-daily dosing.
+Dosing in children at 260 and 340 mg/m2/day achieved the same exposure, respectively, as doses of 400 mg and 600 mg in adult patients.
+The comparison of AUC(0-24) on day 8 and day 1 at the 340 mg/m2/day dose level revealed a 1.7-fold drug accumulation after repeated once-daily dosing.
 
 Organ function impairment
 Imatinib and its metabolites are not excreted via the kidney to a significant extent.
 Exposure to imatinib may be expected to increase if liver function is impaired.
 Glivec should be used with caution in patients with hepatic impairment.
 (See sections 4.2 Posology and method of administration, and 4.4, Precautions)
+
+[GLIVEC 100 mg capsules, hard]
+
+The in vitro results showed that CYP3A4 was the major human P450 enzyme catalyzsing the biotransformation of imatinib.

@@ -1,6 +1,7 @@
 # 6.1 List of excipients
 
 Capsule content: Cellulose microcrystalline
+
 Crospovidone
 Magnesium stearate
 Silica colloidal, anhydrous
@@ -10,6 +11,7 @@ Iron oxide, yellow (E172)
 Titanium dioxide (E171)
 
 Printing ink: Iron oxide, red (E172)
+
 Shellac
 Soya lecithin
 

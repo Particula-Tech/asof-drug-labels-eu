@@ -2,7 +2,7 @@
 
 When Glivec is co-administered with other medications, there is a potential for drug interactions (see section 4.5).
 
-Concomitant use of imatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
+Concomitant use of imatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
 Therefore, concomitant use of strong CYP3A4 inducers and imatinib should be avoided (see section 4.5).
 
 One patient, who was taking paracetamol regularly for fever, died of acute liver failure.
