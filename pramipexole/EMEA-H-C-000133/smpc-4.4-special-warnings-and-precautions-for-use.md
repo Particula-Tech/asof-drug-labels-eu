@@ -3,8 +3,7 @@
 When prescribing SIFROL tablets in a patient with renal impairment a reduced dose is suggested in line with section 4.2.
 Hallucinations are known as a side-effect of treatment with dopamine agonists and levodopa.
 Patients should be informed that (mostly visual) hallucinations can occur.
-Dyskinesias can occur during the initial titration of SIFROL.
-The incidence of initial dyskinesias may be higher in women.
+In advanced Parkinson’s disease, in combination treatment with levodopa, dyskinesias can occur during the initial titration of SIFROL.
 If they occur, the dose of levodopa should be decreased.
 
 Sudden onset of sleep during daily activities has been reported in rare cases.
@@ -16,9 +15,11 @@ Because of possible additive effects, caution should be advised when patients ar
 
 Patients with psychotic disorders should only be treated with dopamine agonists if the potential benefits outweigh the risks.
 
+Coadministration of antipsychotic drugs with pramipexole should be avoided (see section 4.5).
+
 Ophthalmologic monitoring is recommended at regular intervals or if vision abnormalities occur.
 
 In case of severe cardiovascular disease, care should be taken.
 It is recommended to monitor blood pressure, especially at the beginning of treatment, due to the general risk of postural hypotension associated with dopaminergic therapy.
 
-Symptoms suggestive of neuroleptic malignant syndrome have been reported with abrupt withdrawal of dopaminergic therapy (see section 4.2 Posology and method of administration: Treatment discontinuation).
+Symptoms suggestive of neuroleptic malignant syndrome have been reported with abrupt withdrawal of dopaminergic therapy (See section 4.2 posology and method of administration: Treatment discontinuation)
