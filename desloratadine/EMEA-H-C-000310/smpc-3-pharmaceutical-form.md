@@ -1,3 +1,3 @@
 # 3. PHARMACEUTICAL FORM
 
-Oral lyophilisate
+Film-coated tablets

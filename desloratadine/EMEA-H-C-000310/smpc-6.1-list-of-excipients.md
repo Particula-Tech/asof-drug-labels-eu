@@ -1,4 +1,4 @@
 # 6.1 List of excipients
 
-gelatin mannitol aspartame (E951) polacrilin potassium
-Dye Opatint Red (containing red iron oxide (E172) and hypromellose (E464)) flavour Tutti-Frutti citric acid anhydrous
+Tablet core: calcium hydrogen phosphate dihydrate, microcrystalline cellulose, maize starch, talc.
+Tablet coating: film coat (containing lactose monohydrate, hypromellose, titanium dioxide, macrogol 400, indigotin (E132)), clear coat (containing hypromellose, macrogol 400), carnauba wax, white wax.
