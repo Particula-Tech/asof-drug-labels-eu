@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmaco-Therapeutic group : fast acting human insulin analogue.
+Pharmacotherapeutic group : fast acting human insulin analogue.
 ATC code: A10AB04
 
 The primary activity of insulin lispro is the regulation of glucose metabolism.
@@ -23,7 +23,9 @@ Activity
 
 Time (Hours)
 
-The above representation reflects the relative amount of glucose over time required to maintain subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins on glucose metabolism over time.
+The above representation reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins on glucose metabolism over time.
+The glucodynamic response to insulin lispro is not affected by renal or hepatic function impairment.
+Glucodynamic differences between insulin lispro and soluble human insulin as measured during a glucose clamp procedure were maintained over a wide range of renal function.
 
 [Humalog 100 U/ml, solution for injection in vial]
 
@@ -31,8 +33,45 @@ ATC code: A10A B04
 
 [Humalog 100 U/ml, solution for injection in cartridge]
 
+Humulin R Hypoglycaemic
+
+[Humalog Mix25 100 U/ml suspension for injection in vial]
+
+Pharmaco-therapeutic group: ATC Code: A10A.
+Humalog Mix25 is a premixed suspension consisting of insulin lispro (fast acting human insulin analogue) and insulin lispro protamine suspension (intermediate acting human insulin analogue).
+
+The rapid onset and early peak of activity of insulin lispro is observed following the subcutaneous administration of Humalog Mix25.
+NPL has an activity profile that is very similar to that of a basal insulin (NPH) over a period of approximately 15 hours.
+In the figure below the pharmacodynamics of Humalog Mix25 and NPL are illustrated.
+
+Humalog Mix25
+NPL
+Hypoglycaemic activity
+
+0 4 8 12 16 20 24
+
+Time, hours
+
+[Humalog Mix25 100 U/ml suspension for injection in cartridge]
+
 (all sentences already above)
 
-[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
+[Humalog Mix50 100 U/ml suspension for injection in cartridge]
 
-Pharmaco-Therapeutic group :fast acting human insulin analogue.
+Humalog Mix50 is a premixed suspension consisting of insulin lispro (fast acting human insulin analogue) and insulin lispro protamine suspension (intermediate acting human insulin analogue).
+
+The rapid onset and early peak of activity of insulin lispro is observed following the subcutaneous administration of Humalog Mix50.
+In the figure below the pharmacodynamics of Humalog Mix50 and NPL are illustrated.
+
+Humalog Mix50
+
+[Humalog NPL 100 U/ml suspension for injection in vial]
+
+Pharmaco-therapeutic group : intermediate acting human insulin analogue.
+ATC Code: A10A.
+
+Humalog NPL has an activity profile that is very similar to that of a basal insulin (NPH) over a period of approximately 15 hours.
+
+[Humalog NPL 100 U/ml suspension for injection in cartridge]
+
+Pharmaco-therapeutic group: intermediate acting human insulin analogue.

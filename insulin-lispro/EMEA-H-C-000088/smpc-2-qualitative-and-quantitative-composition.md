@@ -5,7 +5,9 @@ insulin lispro 40 U
 
 (recombinant DNA origin produced in E. coli)
 
-The concentration of insulin lispro is 1.4 mg per ml for the 40U/ml product.
+The concentration of insulin lispro is 1.4 mg per ml for the 40 U/ml product.
+
+For excipients, see 6.1.
 
 [Humalog 100 U/ml, solution for injection in vial]
 
@@ -17,6 +19,22 @@ The concentration of insulin lispro is 3.5 mg per ml for the 100 U/ml product.
 
 (all sentences already above)
 
-[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
+[Humalog Mix25 100 U/ml suspension for injection in vial]
+
+(all sentences already above)
+
+[Humalog Mix25 100 U/ml suspension for injection in cartridge]
+
+(all sentences already above)
+
+[Humalog Mix50 100 U/ml suspension for injection in cartridge]
+
+(all sentences already above)
+
+[Humalog NPL 100 U/ml suspension for injection in vial]
+
+(all sentences already above)
+
+[Humalog NPL 100 U/ml suspension for injection in cartridge]
 
 (all sentences already above)
