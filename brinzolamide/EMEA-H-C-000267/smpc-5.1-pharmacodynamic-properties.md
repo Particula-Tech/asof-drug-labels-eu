@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic Group: Antiglaucoma preparations and miotics, carbonic anhydrase inhibitors.
-
 ATC code: S01EC
 
 Carbonic anhydrase (CA) is an enzyme found in many tissues of the body, including the eye.

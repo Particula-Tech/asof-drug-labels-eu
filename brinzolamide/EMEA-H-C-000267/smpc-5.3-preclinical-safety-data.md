@@ -2,7 +2,6 @@
 
 Topical ocular administration of brinzolamide to rabbits for one to six months resulted in slight, statistically significant increases in corneal thickness when given at concentrations of 1%, 2% and 4%, four times a day; these changes were not observed in other species.
 Chronic administration of brinzolamide to rats at a dose level of 8 mg/kg/day (up to 250 times the recommended human ophthalmic dose) resulted in changes associated with the pharmacology of carbonic anhydrase inhibition (i.e., urine volume and electrolyte changes, slight differences in serum electrolytes).
-
 A statistically significant increase in urinary bladder tumours was observed in female mice given brinzolamide 10 mg/kg/day (250 times the recommended human ophthalmic dose), orally, for 24 months.
 Dose-related proliferative changes in the urinary bladder were observed among female mice at 1, 3 and 10 mg/kg/day, and among males at 3 and 10 mg/kg/day.
 The elevated bladder tumour incidence, which was statistically significant, was primarily due to the increased incidence of a tumour considered unique to mice.

@@ -20,6 +20,7 @@ Likewise, in other cases of compromised corneas such as patients with diabetes m
 
 Benzalkonium chloride, which is commonly used as a preservative in ophthalmic products, has been reported to cause punctate keratopathy and/or toxic ulcerative keratopathy.
 Since AZOPT contains benzalkonium chloride, close monitoring is required with frequent or prolonged use in dry eye patients, or in conditions where the cornea is compromised.
+
 AZOPT has not been studied in patients wearing contact lenses.
 AZOPT contains the preservative benzalkonium chloride, which may be adsorbed by soft contact lenses.
 Therefore, patients must be instructed to wait 15 minutes after instillation of AZOPT before inserting contact lenses.
