@@ -22,3 +22,20 @@ Cholinomimetics may induce or exacerbate urinary obstruction and seizures.
 Caution is recommended in treating patients predisposed to such diseases.
 
 The use of rivastigmine in patients with severe Alzheimer’s dementia, other types of dementia or other types of memory impairment (e.g. age-related cognitive decline) has not been investigated.
+
+[EXELON 3 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 4.5 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 6 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 2 mg/ml Oral Solution]
+
+One of the excipients in Exelon oral solution is sodium benzoate.
+Benzoic acid is a mild irritant to the skin, eyes and mucous membrane.

@@ -1,14 +1,15 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: acetylcholinesterase inhibitor; ATC-code: N06D A03
+Pharmacotherapeutic group: anticholinesterases; ATC-code: N06D A03
 
-Rivastigmine is an acetylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones.
+Rivastigmine is an acetyl- and butyrylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones.
 Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits associated with Alzheimer’s disease.
 
-Rivastigmine interacts with its target enzyme by forming a covalently bound complex that temporarily inactivates the enzyme.
-In man, an oral 3 mg dose decreases acetylcholinesterase activity in CSF by approximately 40% within the first 1.5 hours after administration.
+Rivastigmine interacts with its target enzymes by forming a covalently bound complex that temporarily inactivates the enzymes.
+In healthy young men, an oral 3 mg dose decreases acetylcholinesterase (AChE) activity in CSF by approximately 40% within the first 1.5 hours after administration.
 Activity of the enzyme returns to baseline levels about 9 hours after the maximum inhibitory effect has been achieved.
-In patients with Alzheimer’s disease, inhibition of acetylcholinesterase in CSF by rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested.
+In patients with Alzheimer’s disease (AD), inhibition of acetylcholinesterase (AChE) in CSF by rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested.
+Inhibition of butyrylcholinesterase activity in CSF of 14 AD patients treated by rivastigmine was similar to that of AChE.
 
 Clinical studies
 
@@ -32,8 +33,10 @@ Table 1
 | ADAS-Cog: improvement of at least 4 points | 21*** | 12 | 25*** | 12 |
 | CIBIC-Plus: improvement | 29*** | 18 | 32*** | 19 |
 | PDS: improvement of at least 10% | 26*** | 17 | 30*** | 18 |
-| At least 4 points improvement on ADAS-Cog with no worsening on | 10* | 6 | 12** | 6 |
 
+At least 4 points 10* 6 12** 6
+improvement on ADAS-
+Cog with no worsening on
 CIBIC-Plus and PDS
 
 * p<0.05, **p<0.01, ***p<0.001
@@ -48,3 +51,24 @@ CIBIC-Plus and PDS
 | CIBIC-Plus: improvement | 29*** | 18 | 32*** | 19 |
 | PDS: improvement of at least 10% | 26*** | 17 | 30*** | 18 |
 | At least 4 points improvement on ADAS-Cog with no worsening on CIBIC-Plus and PDS | 10* | 6 | 12** | 6 |
+
+[EXELON 4.5 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 6 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 2 mg/ml Oral Solution]
+
+The efficacy of Exelon has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
+
+|  | P atients with Clinically Significant Response (%) |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | I ntent to Treat |  | L ast Observation Carried Forward |  |
+| R esponse Measure | Rivastigmine 6 –12 mg N =473 | P lacebo N =472 | R ivastigmine 6 –12 mg N =379 | P lacebo N =444 |
+| A DAS-Cog: improvement of at least 4 points | 2 1*** | 12 | 2 5*** | 12 |
+| C IBIC-Plus: improvement | 2 9*** | 1 8 | 3 2*** | 1 9 |
+| P DS: improvement of at least 10% | 2 6*** | 1 7 | 3 0*** | 1 8 |
+| A t least 4 points improvement on ADAS-Cog with no worsening on CIBIC-Plus and PDS | 1 0* | 6 | 1 2** | 6 |

@@ -3,7 +3,7 @@
 Absorption: Rivastigmine is rapidly and completely absorbed.
 Peak plasma concentrations are reached in approximately 1 hour.
 As a consequence of the drug’s interaction with its target enzyme, the increase in bioavailability is about 1.5-fold greater than that expected from the increase in dose.
-Absolute bioavailability after a 3 mg dose is about 36%±13%.
+Absolute bioavailability after a 3 mg dose is about 36%�13%.
 Administration of rivastigmine with food delays absorption (tmax) by 90 min and lowers Cmax and increases AUC by approximately 30%.
 
 Distribution: Rivastigmine is weakly bound to plasma proteins (approximately 40%).
@@ -24,3 +24,22 @@ Elderly subjects: While bioavailability of rivastigmine is greater in elderly th
 Subjects with hepatic impairment: The Cmax of rivastigmine was approximately 60% higher and the AUC of rivastigmine was more than twice as high in subjects with mild to moderate hepatic impairment compared to healthy subjects.
 
 Subjects with renal impairment: Cmax and AUC of rivastigmine were more than twice as high in subjects with moderate renal impairment compared with healthy subjects; however there were no changes in Cmax and AUC of rivastigmine in subjects with severe renal impairment.
+
+[EXELON 3 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 4.5 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 6 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 2 mg/ml Oral Solution]
+
+Absolute bioavailability after a 3 mg dose is about 36% � 13%.
+Administration of rivastigmine oral solution with food delays absorption (tmax) by 74 min and lowers Cmax by 43% and increases AUC by approximately 9%.
+
+Following administration of 14C-rivastigmine, renal elimination was rapid and essentially complete (> 90%) within 24 hours.

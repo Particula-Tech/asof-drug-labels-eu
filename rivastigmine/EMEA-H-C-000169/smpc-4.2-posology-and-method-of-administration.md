@@ -34,3 +34,22 @@ Due to increased exposure in renal and mild to moderate hepatic impairment, dosi
 
 Children:
 Rivastigmine is not recommended for use in children.
+
+[EXELON 3 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 4.5 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 6 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 2 mg/ml Oral Solution]
+
+Rivastigmine oral solution should be administered twice a day, with morning and evening meals.
+The prescribed amount of solution should be withdrawn from the container using the oral dosing syringe supplied.
+Rivastigmine oral solution may be swallowed directly from the syringe.
+Rivastigmine oral solution and rivastigmine capsules may be interchanged at equal doses.
