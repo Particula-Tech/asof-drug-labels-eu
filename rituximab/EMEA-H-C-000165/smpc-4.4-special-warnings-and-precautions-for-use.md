@@ -37,7 +37,3 @@ Do not administer the prepared infusion solutions as an intravenous push or bolu
 Paediatric Use
 
 The safety and efficacy of MABTHERA in children have not been established.
-
-[MABTHERA 500 mg]
-
-Patients with a high tumour burden or with a high number(≥ 25,000 /-mm3) of circulating malignant cells , who may be at higher risk of especially severe cytokine release syndrome, should only be treated with extreme caution and when other therapeutic alternatives have been exhausted.

@@ -27,18 +27,18 @@ Anaphylaxis has been reported in patients treated with MABTHERA (see Section 4.4
 Although MABTHERA induces B-cell depletion and can be associated with decreased serum immunoglobulins, the incidence of infection does not appear to be greater than expected in this patient population, and serious or opportunistic infections were considerably less than reported with conventional chemotherapy.
 During treatment and up to one year following therapy, approximately 17% and 16%, respectively, of patients developed infections which were usually common, non opportunistic and mild.
 
-Additional adverse events which occurred in ≥ 1% of patients observed in clinical trials are listed below.
+Additional adverse events which occurred in � 1% of patients observed in clinical trials are listed below.
 
-Body as a Whole⎯asthenia, abdominal pain, back pain, chest pain, malaise, abdominal enlargement, pain at infusion site;
-Cardiovascular System⎯hypertension, bradycardia, tachycardia, arrythmia, postural hypotension; Digestive System⎯diarrhea, dyspepsia, anorexia;
-Haemic and Lymphatic System⎯ lymphadenopathy;
-Metabolic and Nutritional disorders⎯hyperglycemia, peripheral edema, LDH increase, hypocalcemia;
-Musculo-Skeletal System⎯arthralgia, myalgia, pain, hypertonia;
-Nervous System⎯dizziness, anxiety, paresthesia, hypesthesia, agitation, insomnia, nervousness; Respiratory System⎯cough increase, sinusitis, bronchitis, respiratory disease; bronchiolitis obliterans Skin and Appendages⎯night sweats, sweating, herpes simplex, herpes zoster;
-Special Senses⎯lacrimation disorder, conjunctivitis, taste perversion.
+Body as a Whole�asthenia, abdominal pain, back pain, chest pain, malaise, abdominal enlargement, pain at infusion site;
+Cardiovascular System�hypertension, bradycardia, tachycardia, arrythmia, postural hypotension; Digestive System�diarrhea, dyspepsia, anorexia;
+Haemic and Lymphatic System� lymphadenopathy;
+Metabolic and Nutritional disorders�hyperglycemia, peripheral edema, LDH increase, hypocalcemia;
+Musculo-Skeletal System�arthralgia, myalgia, pain, hypertonia;
+Nervous System�dizziness, anxiety, paresthesia, hypesthesia, agitation, insomnia, nervousness; Respiratory System�cough increase, sinusitis, bronchitis, respiratory disease; bronchiolitis obliterans Skin and Appendages�night sweats, sweating, herpes simplex, herpes zoster;
+Special Senses�lacrimation disorder, conjunctivitis, taste perversion.
 
-Additional severe adverse events occurring in < 1% of patients are listed below.
-Haemic and Lymphatic System⎯coagulation disorder;
+Additional severe adverse events occurring in � 1% of patients are listed below.
+Haemic and Lymphatic System�coagulation disorder;
 Respiratory System--asthma, lung disorder.
 
 As part of the continuing post-marketing surveillance of MABTHERA safety, the following serious adverse reactions have been observed:

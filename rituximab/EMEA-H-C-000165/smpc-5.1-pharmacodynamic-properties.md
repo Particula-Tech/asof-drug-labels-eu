@@ -10,7 +10,7 @@ This antigen does not internalise upon antibody binding and is not shed from the
 CD20 does not circulate in the plasma as a free antigen and, thus, does not compete for antibody binding.
 
 The Fab domain of rituximab binds to the CD20 antigen on B lymphocytes and recruits immune effector functions to mediate B-cell lysis via the Fc domain.
-Possible mechanisms of cell lysis include complement-dependent cytotoxicity (CDC) resulting from C1q binding, and antibody-dependent cellular cytotoxicity (ADCC) mediated by one or more of the Fcγ receptors on the surface of granulocytes, macrophages and NK cells.
+Possible mechanisms of cell lysis include complement-dependent cytotoxicity (CDC) resulting from C1q binding, and antibody-dependent cellular cytotoxicity (ADCC) mediated by one or more of the Fc� receptors on the surface of granulocytes, macrophages and NK cells.
 
 Median peripheral B-cell counts declined below normal following completion of the first dose, with recovery beginning after 6 months.
 B-cell levels returned to normal between 9 and 12 months following completion of therapy.
