@@ -15,5 +15,4 @@
 [CellCept 500 mg tablets]
 
 14 February 1996 (EU/1/96/005/002)
-
 13 May 1997 (EU/1/96/005/004)

@@ -10,7 +10,6 @@ Polysorbate 80, citric acid, hydrochloric acid and sodium chloride.
 [CellCept 1 g/5 ml powder for oral suspension.]
 
 Excipients of CellCept 1 g/5 ml powder for oral suspension are sorbitol; silica, colloidal anhydrous; sodium citrate; soybean lecithin; mixed fruit flavour; xanthan gum; aspartame (E951); methyl parahydroxybenzoate (E218); and citric acid, anhydrous.
-
 Aspartame contains phenylalanine equivalent to 2.78 mg/5 ml of suspension.
 
 [CellCept 500 mg tablets]

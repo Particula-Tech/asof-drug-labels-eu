@@ -5,63 +5,46 @@ The following undesirable effects cover adverse drug reactions from clinical tri
 The principal adverse drug reactions associated with the administration of CellCept in combination with cyclosporin and corticosteroids include diarrhoea, leucopenia, sepsis and vomiting and there is evidence of a higher frequency of certain types of infections (see section 4.4 Special warnings and special precautions for use).
 
 Malignancies:
-
 Patients receiving immunosuppressive regimens involving combinations of drugs, including CellCept, are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see section 4.4 Special warnings and special precautions for use).
 Lymphoproliferative disease or lymphoma developed in 0.6% of patients receiving CellCept (2 g or 3 g daily) in combination with other immunosuppressants in controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients followed for at least 1 year.
 Non-melanoma skin carcinomas occurred in 3.6% of patients; other types of malignancy occurred in 1.1% of patients.
 Three-year safety data in renal and cardiac transplant patients did not reveal any unexpected changes in incidence of malignancy compared to the 1-year data.
 Hepatic transplant patients were followed for at least 1 year, but less than 3 years.
 
-Opportunistic Infections:
-
+Opportunistic infections:
 All transplant patients are at increased risk of opportunistic infections; the risk increased with total immunosuppressive load (see section 4.4 Special warnings and special precautions for use).
 The most common opportunistic infections in patients receiving CellCept (2 g or 3 g daily) with other immunosuppressants in controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients followed for at least 1 year were candida mucocutaneous, CMV viraemia/syndrome and Herpes simplex.
 The proportion of patients with CMV viraemia/syndrome was 13.5%.
 
-Elderly patients (≥ 65 years):
+Children and adolescents (aged 2 to 18 years):
+The type and frequency of adverse drug reactions in a clinical study, which recruited 92 paediatric patients aged 2 to 18 years who were given 600 mg/m2 mycophenolate mofetil orally twice daily, were generally similar to those observed in adult patients given 1 g CellCept twice daily with the exception that paediatric patients had a higher proportion of diarrhoea, sepsis, leucopenia and anaemia.
 
+Elderly patients (≥ 65 years):
 Elderly patients (≥ 65 years) may generally be at increased risk of adverse drug reactions due to immunosuppression.
 Elderly patients receiving CellCept as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared to younger individuals.
 
-Other Adverse Drug Reactions:
-
-Adverse drug reactions, probably or possibly related to CellCept, reported in ≥ 10% and in 1 – < 10% of patients treated with CellCept in the controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients are listed in the following table.
+Other adverse drug reactions:
+Adverse drug reactions, probably or possibly related to CellCept, reported in ≥ 10% and in 1
+– < 10% of patients treated with CellCept in the controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients are listed in the following table.
 Adverse Drug Reactions, Probably or Possibly Related to CellCept, Reported in Patients Treated with CellCept in Renal, Cardiac and Hepatic Clinical Trials when Used in Combination with Cyclosporin and Corticosteroids
-
-Body System Adverse drug reactions
-Body as a ≥ 10%
-whole
-1 - < 10% Moniliasis, infection, fever, chills, malaise, headache, flu
-syndrome, pain, asthenia, weight loss, oedema
-Blood and ≥ 10% Leucopenia, thrombocytopenia, anaemia
-lymphatic
-1 - < 10%
-openia, leucocytosis
-Renal and ≥ 10% Urinary tract infection
-urogenital
-1 - < 10% Vaginal moniliasis, abnormal kidney function, increased
-creatinine, increased BUN
-Cardiovascula ≥10% -
-r
-1 - < 10% Hypotension, hypertension, tachycardia, vasodilatation
-Metabolic/ ≥ 10% -
-nutritional 1 - < 10% Hyperkalaemia, acidosis, hypokalaemia, hypomagnesaemia,
-hypocalcaemia, hypercholesterolaemia, gout, hyperlipaemia,
-increased alkaline phosphatase, hyperglycaemia,
-hypophosphataemia, hyperuricaemia, increased lactate
-dehydrogenase
-Gastrointestin ≥ 10% Moniliasis, vomiting, diarrhoea, nausea, abdominal pain
-al
-1 - < 10% Gastrointestinal haemorrhage, peritonitis, gastric ulcer,
-duodenal ulcer, colitis, infection, ileus, stomatitis, gastritis,
-gastroenteritis, anorexia, oesophagitis, dyspepsia,
-constipation, flatulence, eructation
-Hepatic ≥ 10% -
-1 - < 10% Hepatitis, jaundice, bilirubinaemia, elevation of enzymes
-Respiratory ≥ 10% -
 
 | Body System |  | Adverse drug reactions |
 | --- | --- | --- |
+| Body as a whole | ≥ 10% | Sepsis |
+|  | 1 - < 10% | Moniliasis, infection, fever, chills, malaise, headache, flu syndrome, pain, asthenia, weight loss, oedema |
+| Blood and lymphatic | ≥ 10% | Leucopenia, thrombocytopenia, anaemia |
+|  | 1 - < 10% | Pancytopenia, leucocytosis |
+| Renal and urogenital | ≥ 10% | Urinary tract infection |
+|  | 1 - < 10% | Vaginal moniliasis, abnormal kidney function, increased creatinine, increased BUN |
+| Cardiovascula r | ≥10% | - |
+|  | 1 - < 10% | Hypotension, hypertension, tachycardia, vasodilatation |
+| Metabolic/ nutritional | ≥ 10% | - |
+|  | 1 - < 10% | Hyperkalaemia, acidosis, hypokalaemia, hypomagnesaemia, hypocalcaemia, hypercholesterolaemia, gout, hyperlipaemia, increased alkaline phosphatase, hyperglycaemia, hypophosphataemia, hyperuricaemia, increased lactate dehydrogenase |
+| Gastrointestin al | ≥ 10% | Moniliasis, vomiting, diarrhoea, nausea, abdominal pain |
+|  | 1 - < 10% | Gastrointestinal haemorrhage, peritonitis, gastric ulcer, duodenal ulcer, colitis, infection, ileus, stomatitis, gastritis, gastroenteritis, anorexia, oesophagitis, dyspepsia, constipation, flatulence, eructation |
+| Hepatic | ≥ 10% | - |
+|  | 1 - < 10% | Hepatitis, jaundice, bilirubinaemia, elevation of enzymes |
+| Respiratory | ≥ 10% | - |
 |  | 1 - < 10% | Pneumonia, infection, moniliasis, dyspnoea, sinusitis, bronchitis, pharyngitis, pleural effusion, increased cough, rhinitis |
 | Skin and appendages | ≥ 10% | Herpes simplex, herpes zoster |
 |  | 1 - < 10% | Carcinoma, moniliasis, fungal dermatitis, acne, rash, alopecia, hypertrophy, benign neoplasia |
@@ -73,9 +56,8 @@ Respiratory ≥ 10% -
 |  | 1 - < 10% | Dysgeusia |
 
 Note: 501 (2 g CellCept daily), 289 (3 g CellCept daily) and 277 (2 g IV / 3 g oral CellCept daily) patients were treated in Phase III studies for the prevention of rejection in renal, cardiac and hepatic transplantation, respectively.
-
+2
 The following undesirable effects cover adverse drug reactions from post-marketing experience:
-
 The types of adverse drug reactions reported during post-marketing with CellCept are similar to those seen in the controlled renal, cardiac and hepatic transplant studies.
 Additional adverse drug reactions reported during post-marketing are described below.
 
@@ -93,24 +75,23 @@ Data in hepatic transplant patients are based on i.v. dosing of CellCept for up 
 Adverse drug reactions, probably or possibly related to CellCept, reported in ≥10% and in 1 - < 10% of patients treated with CellCept in the controlled clinical trials of renal (2 g data) and hepatic transplant patients are listed in the following table.
 Adverse Drug Reactions, Probably or Possibly Related to CellCept, Reported in Patients Treated with CellCept in Renal and Hepatic Clinical Trials when Used in Combination with Cyclosporin and Corticosteroids
 
-Body System Adverse drug reaction
-Body as a ≥10%
-Blood and ≥10% Leucopenia, thrombocytopenia, anaemia
-Renal and ≥10% Urinary tract infection
-creatinine
-Cardiovascula ≥10%
-1 - < 10% Hypotension, hypertension, tachycardia
-Metabolic/ ≥10% -
-hypocalcaemia, hypercholesterolaemia, hyperlipaemia,
-hypophosphataemia, increased lactate dehydrogenase
-Gastrointestin ≥10% Moniliasis, vomiting, diarrhoea, nausea, abdominal pain
-duodenal ulcer, colitis, infection, ileus, gastritis,
-constipation, flatulence, stomatitis
-1 - < 10% Hepatitis, elevation of enzymes
-Respiratory ≥10% -
-
 | Body System |  | Adverse drug reaction |
 | --- | --- | --- |
+| Body as a whole | ≥10% | Sepsis |
+|  | 1 - < 10% | Moniliasis, infection, fever, chills, malaise, headache, flu syndrome, pain, asthenia, weight loss, oedema |
+| Blood and lymphatic | ≥10% | Leucopenia, thrombocytopenia, anaemia |
+|  | 1 - < 10% | Pancytopenia, leucocytosis |
+| Renal and urogenital | ≥10% | Urinary tract infection |
+|  | 1 - < 10% | Vaginal moniliasis, abnormal kidney function, increased creatinine |
+| Cardiovascula r | ≥10% | - |
+|  | 1 - < 10% | Hypotension, hypertension, tachycardia |
+| Metabolic/ nutritional | ≥10% | - |
+|  | 1 - < 10% | Hyperkalaemia, acidosis, hypokalaemia, hypomagnesaemia, hypocalcaemia, hypercholesterolaemia, hyperlipaemia, increased alkaline phosphatase, hyperglycaemia, hypophosphataemia, increased lactate dehydrogenase |
+| Gastrointestin al | ≥10% | Moniliasis, vomiting, diarrhoea, nausea, abdominal pain |
+|  | 1 - < 10% | Gastrointestinal haemorrhage, peritonitis, gastric ulcer, duodenal ulcer, colitis, infection, ileus, gastritis, gastroenteritis, anorexia, oesophagitis, dyspepsia, constipation, flatulence, stomatitis |
+| Hepatic | ≥ 10% | - |
+|  | 1 - < 10% | Hepatitis, elevation of enzymes |
+| Respiratory | ≥10% | - |
 |  | 1 - < 10% | Pneumonia, infection, moniliasis, dyspnoea, sinusitis, bronchitis, pharyngitis, pleural effusion, increased cough, rhinitis |
 | Skin and appendages | ≥10% | Herpes simplex, herpes zoster |
 |  | 1 - < 10% | Carcinoma, fungal dermatitis, acne, rash, alopecia, benign neoplasia |
@@ -130,7 +111,7 @@ Disorders related to immunosuppression: serious life-threatening infections incl
 
 [CellCept 1 g/5 ml powder for oral suspension.]
 
-(all sentences already above)
+Adverse drug reactions, probably or possibly related to CellCept, reported in ≥ 10% and in 1 – < 10% of patients treated with CellCept in the controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients are listed in the following table
 
 [CellCept 500 mg tablets]
 

@@ -3,18 +3,18 @@
 Patients receiving immunosuppressive regimens involving combinations of drugs, including CellCept, are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see section 4.8 Undesirable effects).
 The risk appears to be related to the intensity and duration of immunosuppression rather than to the use of any specific agent.
 As general advice to minimise the risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
-
 Patients receiving CellCept should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
 
 Oversuppression of the immune system increases the susceptibility to infection including opportunistic infections, fatal infections and sepsis (see section 4.8 Undesirable effects).
 
 Patients receiving CellCept should be monitored for neutropenia, which may be related to CellCept itself, concomitant medications, viral infections, or some combination of these causes.
 Patients taking CellCept should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year.
-If neutropenia develops (absolute neutrophil count < 1.3 x 10³/µl) it may be appropriate to interrupt or discontinue CellCept.
+If neutropenia develops (absolute neutrophil count < 1.3 x 103/µl) it may be appropriate to interrupt or discontinue CellCept.
 
 Patients should be advised that during treatment with CellCept vaccinations may be less effective and the use of live attenuated vaccines should be avoided (see section 4.5 Interaction with other medicinal products and other forms of interaction).
 Influenza vaccination may be of value.
 Prescribers should refer to national guidelines for influenza vaccination.
+
 Because CellCept has been associated with an increased incidence of digestive system adverse events, including infrequent cases of gastrointestinal tract ulceration, haemorrhage and perforation, CellCept should be administered with caution in patients with active serious digestive system disease.
 
 CellCept is an IMPDH (inosine monophosphate dehydrogenase) inhibitor.

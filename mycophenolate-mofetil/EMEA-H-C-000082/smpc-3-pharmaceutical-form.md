@@ -5,7 +5,6 @@ CellCept capsules: oblong, blue/brown, branded with black "CellCept 250" on the 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
 
 Powder for concentrate for solution for infusion.
-
 CellCept 500 mg powder for concentrate for solution for infusion must be reconstituted and further diluted with glucose intravenous infusion 5 % prior to administration to the patient (see section 6.6 Instructions for use and handling, and disposal).
 
 [CellCept 1 g/5 ml powder for oral suspension.]
