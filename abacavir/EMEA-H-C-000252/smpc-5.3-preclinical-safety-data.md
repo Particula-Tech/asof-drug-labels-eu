@@ -16,7 +16,6 @@ In pre-clinical toxicology studies, abacavir treatment was shown to increase liv
 The clinical relevance of this is unknown.
 There is no evidence from clinical studies that abacavir is hepatotoxic.
 Additionally, autoinduction of abacavir metabolism or induction of the metabolism of other medicinal products hepatically metabolised has not been observed in man.
-
 Mild myocardial degeneration in the heart of mice and rats was observed following administration of abacavir for two years.
 The systemic exposures were equivalent to 7 to 24 times the expected systemic exposure in humans.
 The clinical relevance of this finding has not been determined.
