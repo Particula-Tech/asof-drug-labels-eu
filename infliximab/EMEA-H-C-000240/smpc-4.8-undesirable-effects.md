@@ -46,22 +46,26 @@ Uncommon: Injection site reactions
 
 Table 2
 Undesirable effects in Post-marketing reports
-(common > 1/100, < 1/10; uncommon > 1/1000, < 1/100; rare < 1/1000).
+(common > 1/100, < 1/10; uncommon > 1/1000, < 1/100; rare > 1/10,000, < 1/1000).
 
 Neurological events
-Rare: Exacerbation of CNS demyelination suggestive of multiple sclerosis, localised demyelinating conditions such a optic neuritis, polyneuropathy, Guillain-Barre syndrome, numbness, tingling Blood
+Rare: Demyelinating disorders (such as multiple sclerosis and optic neuritis), Guillain-Barré syndrome, neuropathies, numbness, tingling, seizure
+Blood
 Rare: Pancytopenia
 Body as a whole-general
 Common: Infusion-related reactions
 Uncommon: Anaphylactic reactions
 Rare: Anaphylactic shock
 Resistance mechanism
-Rare: Opportunistic infections such as tuberculosis, pneumocystis carinii pneumonia (PCP), histoplasmosis, coccidioidomycosis, aspergillosis, listeriosis and oesophageal candidiasis
+Rare: Opportunistic infections such as tuberculosis, pneumocystis carinii pneumonia (PCP), histoplasmosis, coccidioidomycosis, aspergillosis, listeriosis and oesophageal candidiasis Respiratory
+Rare: Interstitial pneumonitis/fibrosis
 
 Infusion-related reactions: In clinical studies, 19% of infliximab-treated patients compared with 8% of placebo-treated patients experienced an infusion-related effect during infusion or within 2 hours post infusion.
 Approximately 3% of infliximab infusions were accompanied by non-specific symptoms such as fever or chills, 0.7% were accompanied by pruritus or urticaria, 1% were accompanied by cardiopulmonary reactions (primarily chest pain, hypotension, hypertension or dyspnoea), and 0.1% were accompanied by combined symptoms of pruritus/urticaria and cardiopulmonary reactions.
 Discontinuation of treatment resulted in 1.9% of patients, and all patients recovered with or without medical therapy.
 Infusion-related effects in patients were more likely to occur during the first (8%) and less likely on subsequent infusions (second, 7%; third, 6%; and fourth, 4%; etc.).
+
+In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with Remicade administration.
 
 Delayed hypersensitivity: In a clinical study of 40 patients retreated with infliximab following a 2 to 4 year period without infliximab treatment, 10 patients experienced undesirable effects manifesting 3 to 12 days following infusion.
 In 6 of these patients the effects were considered serious.
@@ -81,11 +85,11 @@ Serious infections, such as pneumonia, were reported in 5% of both infliximab-tr
 In postmarketing spontaneous reporting, infections are the most common serious adverse event .
 Some of the cases have resulted in fatal outcome.
 Nearly 50% of reported deaths have been associated with infection.
-Cases of tuberculosis, sometimes fatal, including miliary tuberculosis and tuberculosis with extrapulmonary location have been reported (see 4.4).
+Cases of tuberculosis, sometimes fatal, including miliary tuberculosis and tuberculosis with extrapulmonary location have been reported (see section 4.4).
 
 Malignancies and lymphoproliferative disorders: In clinical studies with infliximab and during long-term follow-up of three years, representing 1385 patient years, four cases of lymphomas and 10 other malignancies were detected as compared with one malignancy in placebo-treated patients observed during 189 patient years.
 These observed rates and incidences were similar to those expected for the populations studied.
-From August 1998 to August 2001, 139 cases of suspected malignancies have been reported, 47 in Crohn’s disease patients, 71 in rheumatoic arthritis patients and 21 in patients with other diseases.
+From August 1998 to August 2001, 139 cases of suspected malignancies have been reported, 47 in Crohn’s disease patients, 71 in rheumatoid arthritis patients and 21 in patients with other diseases.
 During this period, it is estimated that approximately 200,000 patients have been exposed to infliximab.
 It is unknown if exposure to infliximab can increase the incidence of these disorders.
 The long-term immunosuppressive effects of concomitant use of methotrexate and infliximab are unknown.

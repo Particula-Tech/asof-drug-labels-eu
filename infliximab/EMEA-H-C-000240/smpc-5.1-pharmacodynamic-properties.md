@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Selective immunosuppressive agents, ATC code: LO4AA12.
+Pharmacotherapeutic group: Selective immunosuppressive agents, ATC code: L04AA12.
 
 Pharmacodynamic properties: Infliximab is a chimeric human-murine monoclonal antibody that binds with high affinity to both soluble and transmembrane forms of TNF� but not to lymphotoxin � (TNFß).
 Infliximab inhibits the functional activity of TNF� in a wide variety of in vitro bioassays.
@@ -32,6 +32,7 @@ The primary endpoints were the reduction of signs and symptoms as assessed by th
 A reduction in signs and symptoms was defined to be at least a 20% improvement (ACR20) in both tender and swollen joint counts, and in 3 of the following 5 criteria: evaluator’s global assessment, patient’s global assessment, functional/disability measure, visual analogue pain scale and erythrocyte sedimentation rate or C-reactive protein.
 Structural joint damage (erosions and joint space narrowing) in both hands and feet was measured by the change from baseline in the total van der Heijde-modified Sharp score (0-440).
 The Health Assessment Questionnaire (HAQ; scale 0-3) was used to measure patients’ average change from baseline scores over time, in physical function.
+
 Results from week 54 (ACR20, HAQ and total van der Heijde-modified Sharp score) are shown in Table 3.
 At week 54, a higher percentage of patients in all infliximab treated groups had a significant reduction in signs and symptoms compared with methotrexate alone.
 This response was seen from 2 weeks, and was maintained through 102 weeks of treatment.
@@ -83,8 +84,7 @@ The primary endpoint was the proportion of patients who experienced a clinical r
 Patients who responded at week 4 were followed to week 12.
 Secondary endpoints included the proportion of patients in clinical remission at week 4 (CDAI < 150) and clinical response over time.
 
-At week 4, following a single dose of study medication, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (17%) of the placebo-treated patients
-(p < 0.001).
+At week 4, following a single dose of study medication, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (16%) of the placebo-treated patients (p < 0.001).
 Also at week 4, 13/27 (48%) of infliximab-treated patients achieved a clinical remission (CDAI < 150) vs. 1/25 (4%) of placebo-treated patients.
 A response was observed within 2 weeks, with a maximum response at 4 weeks.
 At the last observation at 12 weeks, 13/27 (48%) of infliximab-treated patients were still responding.

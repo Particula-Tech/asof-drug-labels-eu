@@ -40,7 +40,8 @@ This evaluation should include a detailed medical history with personal history 
 Appropriate screening tests, i.e. tuberculin skin test and chest x-ray, should be performed in all patients (local recommendations may apply).
 It is recommended that the conduct of these tests should be recorded in the patient’s alert card.
 Prescribers are reminded of the risk of false negative tuberculin skin test results especially in patients who are severely ill or immunocompromised.
-If active tuberculosis is diagnosed, Remicade therapy must not be initiated (see 4.3)
+If active tuberculosis is diagnosed, Remicade therapy must not be initiated (see section 4.3)
+
 If inactive (‘latent’) tuberculosis is diagnosed, prophylactic anti-tuberculosis therapy must be started before the initiation of Remicade, and in accordance with local recommendations.
 In this situation, the benefit/ risk balance of Remicade therapy should be very carefully considered.
 
@@ -49,10 +50,9 @@ All patients should be informed to seek medical advice if signs / symptoms sugge
 Autoimmune processes
 The relative deficiency of TNF� caused by anti-TNF therapy may result in the initiation of an autoimmune process.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Remicade and is positive for antibodies against double-stranded DNA, further treatment with Remicade must not be given (see section 4.8: “Anti-nuclear antibodies (ANA)/Double-stranded DNA (dsDNA) antibodies”).
-
 Neurological events
-Infliximab and other agents that inhibit TNF alpha have been associated with rare cases of exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disease suggestive of multiple sclerosis or localised demyelination conditions such as optic neuritis (see Section 4.8).
-A careful risk/benefit evaluation is recommended when prescribing Remicade to patients with preexisting or recent onset of symptoms that may be consistent with a diagnosis of demyelinating disorders.
+Infliximab and other agents that inhibit TNF� have been associated in rare cases with optic neuritis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disorders, including multiple sclerosis.
+In patients with pre-existing or recent onset of central nervous system demyelinating disorders, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
 
 Malignancies and lymphoproliferative disorders:
 It is unknown if exposure to infliximab can increase the risk of developing these disorders (see section 4.8).
