@@ -41,7 +41,7 @@ Gender
 The plasma concentrations of ertapenem are comparable in men and women.
 
 Elderly
-Plasma concentrations following a 1 g and 2 g intravenous dose of ertapenem are slightly higher (approximately 39 % and 22 %, respectively) in healthy elderly adults (� 65 years) relative to young adults (� 65 years).
+Plasma concentrations following a 1 g and 2 g intravenous dose of ertapenem are slightly higher (approximately 39 % and 22 %, respectively) in healthy elderly adults (≥ 65 years) relative to young adults (< 65 years).
 In the absence of advanced renal insufficiency, no dosage adjustment is necessary in elderly patients.
 
 Paediatric Patients

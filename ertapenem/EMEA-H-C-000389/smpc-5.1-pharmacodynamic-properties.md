@@ -6,14 +6,17 @@ Mechanism of action
 Ertapenem inhibits bacterial cell wall synthesis following attachment to penicillin binding proteins (PBPs).
 In Escherichia coli, affinity is strongest to PBPs 2 and 3.
 
-Microbiological susceptibility
+Microbiological Susceptibility
+
 The NCCLS MIC breakpoints are as follows:
-� Enterobacteriaceae and staphylococci : S =<2 mg/l and R =>8 mg/l
-� S. pneumoniae : S =<1 mg/l and R =>4 mg/l
-� Streptococcus species (beta-haemolytic only) : S =<1 mg/l
-� Haemophilus species : S =<0.5 mg/l
-� Anaerobes : S =<4 mg/l and R =>16 mg/l
-(NB : the breakpoint values for staphylococci and S. pneumoniae are applicable only to methicillin-susceptible staphylococci and penicillin-susceptible pneumococci, respectively)”
+
+- Enterobacteriaceae and staphylococci: S≤2 mg/l and R≥8 mg/l
+- S. Pneumoniae: S≤ 1 mg/l and R≥ 4 mg/l
+- Streptococcus species (beta-haemolytic only): S≤ 1 mg/l
+- Haemophilus species: S ≤0.5 mg/l
+- Anaerobes: S≤4 mg/l and R≥16 mg/l
+
+(NB: the breakpoint values for staphylococci and S. pneumoniae are applicable only to methicillin-susceptible staphylococci and penicillin-susceptible pneumococci, respectively)
 
 The prescribers are informed that local MIC breakpoints, if available, should be consulted.
 
