@@ -8,8 +8,7 @@ These are included as;
 
 [Humalog vials (100 U/ml, solution for injection)]
 
-7H2O (d) zinc oxide
-(e) water for injection (f) hydrochloric acid and (g) sodium hydroxide.
+(all sentences already above)
 
 [Humalog cartridge (100 U/ml, solution for injection)]
 

@@ -15,6 +15,7 @@ The typical activity profile following subcutaneous injection is illustrated bel
 
 Insulin
 Lispro
+
 Humulin R
 Hypoglycaemic
 Activity

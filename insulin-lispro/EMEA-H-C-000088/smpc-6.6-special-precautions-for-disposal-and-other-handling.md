@@ -17,6 +17,7 @@ If using a new bottle, flip off the plastic protective cap, but do not remove th
 3.
 If the therapeutic regimen requires the injection of basal insulin and Humalog at the same time, the two can be mixed in the syringe.
 If mixing insulins, refer to the instructions for mixing that follow in Section (ii).
+
 4.
 Draw air into the syringe equal to the prescribed Humalog dose.
 Wipe the top of the bottle with an alcohol swab.
@@ -114,7 +115,7 @@ When used with an insulin infusion pump, Humalog should not be mixed with any ot
 [Humalog cartridge (100 U/ml, solution for injection)]
 
 The following is a general description.
-The manufacturerís instructions with each individual pen must be followed for loading the cartridge, attaching the needle and administering the insulin injection.
+The manufacturer’s instructions with each individual pen must be followed for loading the cartridge, attaching the needle and administering the insulin injection.
 
 Remove outer needle cap.
 

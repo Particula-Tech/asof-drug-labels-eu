@@ -6,6 +6,7 @@ Hypoglycaemia may occur as a result of an excess of insulin or insulin lispro re
 Hypoglycaemia may be associated with listlessness, confusion, palpitations, headache, sweating and vomiting.
 
 Mild hypoglycaemic episodes will respond to oral administration of glucose or other sugar or saccharated products.
+
 Correction of moderately severe hypoglycaemia can be accomplished by intramuscular or subcutaneous administration of glucagon, followed by oral carbohydrate when the patient recovers sufficiently.
 Patients who fail to respond to glucagon must be given glucose solution intravenously.
 
