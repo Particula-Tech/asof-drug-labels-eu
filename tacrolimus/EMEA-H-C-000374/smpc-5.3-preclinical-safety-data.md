@@ -9,7 +9,6 @@ Rabbits were shown to be especially sensitive to intravenous administration of t
 
 Mutagenicity
 In vitro and in vivo tests did not indicate a genotoxic potential of tacrolimus.
-
 Carcinogenicity
 Systemic carcinogenicity studies in mice (18 months) and rats (24 months) revealed no carcinogenic potential of tacrolimus.
 In a 24-month dermal carcinogenicity study performed in mice with 0.1% ointment, no skin tumours were observed.

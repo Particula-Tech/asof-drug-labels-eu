@@ -1,26 +1,44 @@
 # 4.8 Undesirable effects
 
 Approximately 50% of patients experienced some type of skin irritation adverse reaction at the site of application.
-Burning sensation, pruritus, and erythema were very common, usually mild to moderate in severity and tended to resolve within one week of starting treatment.
-Increased skin sensitivity and skin tingling were common skin irritation adverse reactions.
+Burning sensation and pruritus were very common, usually mild to moderate in severity and tended to resolve within one week of starting treatment.
+Erythema was a common skin irritation adverse reaction.
+Sensation of warmth, pain, paraesthesia and rash at the site of application were also commonly observed.
 Alcohol intolerance (facial flushing or skin irritation after consumption of an alcoholic beverage) was common.
-Patients may be at an increased risk of folliculitis, acne and herpes simplex.
+Patients may be at an increased risk of folliculitis, acne and herpes viral infections.
+Adverse reactions with suspected relationship to treatment are listed below by system organ class.
+Frequencies are defined as very common (> 1/10), common (> 1/100, < 1/10) and uncommon
+(> 1/1,000, < 1/100).
 
-Adverse reactions with suspected relationship to treatment are listed below by body system.
-Frequencies are defined as very common (> 1/10) and common (> 1/100, < 1/10).
+General disorders and administration site conditions
+Very common: Application site burning, application site pruritus
 
-Skin and appendages
-Very common: Skin burning, pruritus, skin erythema
+Common: Application site warmth, application site erythema, application site pain,
 
-Common: Skin tingling, folliculitis, acne, herpes simplex (herpes, cold sores, eczema
+application site irritation, application site paraesthesia, application site rash
 
-herpeticum [Kaposi’s varicelliform eruption])
-Nervous system
+Infections and infestations
 
-Common: Hyperaesthesia (increased skin sensitivity, especially to hot and cold)
+Common: Herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes
 
-Body as a whole
+simplex [cold sores], Kaposi’s varicelliform eruption)
+
+Skin and subcutaneous tissue disorders
+
+Common: Folliculitits, pruritus
+
+Uncommon: Acne
+
+Nervous system disorders
+
+Common: Paraesthesias and dysaesthesias (hyperaesthesia, burning sensation)
+
+Metabolism and nutrition disorders
 
 Common: Alcohol intolerance (facial flushing or skin irritation after consumption of an
 
 alcoholic beverage)
+
+[Protopic 0.1% ointment]
+
+Common: Folliculitis, pruritus
