@@ -8,13 +8,14 @@ The safety and efficacy of ritonavir in children below the age of 2 years have n
 
 Human pharmacokinetic data for combination of ritonavir with antiretroviral medicinal products other than zidovudine and didanosine (ddI) are not yet available.
 Although the clinical use of combinations with zalcitabine (ddC) and stavudine (d4T) in a relatively limited number of patients did not seem to be associated with unfavourable effects, the use of combinations of ritonavir with other nucleoside analogues should be guided by cautious therapeutic and safety monitoring.
+
 Extra monitoring is recommended when diarrhoea occurs.
 The relatively high frequency of diarrhoea during treatment with ritonavir may compromise the absorption and efficacy (due to decreased compliance) of ritonavir or other concurrent medications.
 Serious persistent vomiting and/or diarrhoea associated with ritonavir use might also compromise renal function.
 It is advisable to monitor renal function in patients with renal function impairment.
 
 A pharmacokinetic study demonstrated that ritonavir extensively inhibits the metabolism of saquinavir resulting in greatly increased saquinavir plasma concentrations (see section 4.5 Interaction with other medicinal products and other forms of interaction).
-Doses greater than 400 mg bid of either medicine were associated with an increased incidence of adverse events.
+Doses greater than 400 mg twice daily of either medicine were associated with an increased incidence of adverse events.
 
 Norvir oral solution contains 43 % ethanol, therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg, metronidazole) should be avoided.
 
@@ -33,9 +34,10 @@ Many patients had confounding medical conditions, some of which required therapy
 Combination antiretroviral therapy, including regimens containing a protease inhibitor, is associated with redistribution of body fat in some patients.
 Protease inhibitors are also associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance and hyperglycaemia.
 Clinical examination should include evaluation for physical signs of fat redistribution.
-Consideration should be given to measurement of serum lipids and blood glucose.
+Consideration should be given to measurement of blood glucose.
+Lipid testing should be performed prior to initiating ritonavir therapy and at periodic intervals during therapy.
+Lipid disorders should be managed as clinically appropriate.
 The mechanisms of these events and long term consequences, such as an increased risk of cardiovascular disease, are currently unknown.
-
 Particular caution should be used when prescribing sildenafil in patients receiving ritonavir.
 Co-administration of ritonavir with sildenafil is expected to substantially increase sildenafil concentrations (11-fold increase in AUC) and may result in sildenafil-associated adverse events, including hypotension, syncope, visual changes and prolonged erection (see also section 4.5 Interactions with other medicinal products).
 

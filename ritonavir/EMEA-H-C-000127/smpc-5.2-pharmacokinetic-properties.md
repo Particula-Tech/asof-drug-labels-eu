@@ -4,7 +4,7 @@ There is no parenteral formulation of ritonavir, therefore the extent of absorpt
 The pharmacokinetics of ritonavir during multiple dose regimens were studied in non-fasting HIV positive adult volunteers.
 Upon multiple dosing, ritonavir accumulation is slightly less than predicted from a single dose due to a time and dose-related increase in apparent clearance (Cl/F).
 Trough concentrations of ritonavir were observed to decrease over time, possibly due to enzyme induction, but appeared to stabilise by the end of 2 weeks.
-At steady state with a 600 mg bid dose, maximal concentration (Cmax) and trough concentration (Ctrough) values of 11.2 ± 3.6 and 3.7 ± 2.6 µg/ml (mean ± SD) were observed, respectively.
+At steady state with a 600 mg twice daily dose, maximal concentration (Cmax) and trough concentration (Ctrough) values of 11.2 ± 3.6 and 3.7 ± 2.6 µg/ml (mean ± SD) were observed, respectively.
 The half life (t1/2) of ritonavir was approximately 3 to 5 hours.
 The steady-state apparent clearance in patients treated with 600 mg bid has averaged 8.8 ± 3.2 l/h.
 Renal clearance averaged less than 0.1 l/h and was relatively constant throughout the dosage range.
@@ -19,7 +19,7 @@ Ritonavir pharmacokinetic parameters were not statistically significantly associ
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20 - 40 l after a single 600 mg dose.
 The protein binding of ritonavir in human plasma was noted to be approximately 98 - 99 %.
 Ritonavir binds to both human alpha 1-acid glycoprotein (AAG) and human serum albumin (HSA) with comparable affinities.
-Plasma protein binding is constant over the concentration range of 0.1 - 100 μg /ml.
+Plasma protein binding is constant over the concentration range of 0.1 – 100 μg /ml.
 
 Tissue distribution studies with 14C-labelled ritonavir in rats showed the liver, adrenals, pancreas, kidneys and thyroid to have the highest concentrations of ritonavir.
 Tissue to plasma ratios of approximately 1 measured in rat lymph nodes suggests that ritonavir distributes into lymphatic tissues.
@@ -37,3 +37,9 @@ This was consistent with the observations in animal studies.
 
 Steady-state pharmacokinetics were evaluated in HIV infected children above 2 years of age receiving doses ranging from 250 mg/m2 twice daily to 400 mg/m2 twice daily.
 Ritonavir concentrations obtained after 350 to 400 mg/m2 twice daily in paediatric patients were comparable to those obtained in adults receiving 600 mg (approximately 330 mg/m2) twice daily.
+
+[Norvir 100 mg soft capsules]
+
+The steady-state apparent clearance in patients treated with 600 mg twice daily has averaged 8.8 ± 3.2 l/h.
+
+Plasma protein binding is constant over the concentration range of 0.1-100 μg/ml.

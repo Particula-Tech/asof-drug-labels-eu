@@ -3,7 +3,6 @@
 In clinical studies (Phase II/III), the following adverse events with possible, probable or unknown relationship to ritonavir have been reported in ≥ 2 % of 1033 patients:
 
 Gastrointestinal: nausea (47.5 %), diarrhoea (44.9 %), vomiting (23.6 %), abdominal pain (11.6 %), taste perversion (11.4 %); frequently dyspepsia, anorexia, local throat irritation; occasionally flatulence, dry mouth, eructation, mouth ulcer.
-
 Nervous system: circumoral paraesthesia (26.6 %), peripheral paraesthesia (15.4 %); frequently dizziness, paraesthesia, hyperaesthesia, somnolence; occasionally insomnia, anxiety.
 
 Skin: frequently rash; occasionally pruritus, sweating.
@@ -38,12 +37,12 @@ Patients with advanced HIV disease may be at risk of elevated triglycerides and 
 
 Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur.
 Patients who exhibit these signs or symptoms should be evaluated and Norvir therapy should be discontinued if a diagnosis of pancreatitis is made.
+
 Clinical chemistry:
 
 High gamma-glutamyl transpeptidase (GGT) (12 %); frequently high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); occasionally high aspartate transaminase (SGOT), high amylase, high uric acid, low potassium, high glucose, low total calcium, high magnesium, high total bilirubin, high alkaline phosphatase.
 
 Hypertriglyceridaemia, hypercholesterolaemia and hyperuricaemia were clearly related to ritonavir therapy.
-
 Haematology:
 
 Low white blood cell (WBC) (16 %); occasionally low haemoglobin, low neutrophils, high eosinophils, high WBC, high neutrophils, high prothrombin time.
