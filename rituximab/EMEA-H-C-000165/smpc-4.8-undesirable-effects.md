@@ -9,7 +9,6 @@ Thirty-seven patients received 375 mg/m2 for eight doses and 25 patients receive
 
 Unless otherwise indicated, the adverse events listed were considered by the investigator to be related or of unknown relationship to MabThera and were reported during or up to 12 months after treatment.
 Adverse events were graded according to the four-scale National Cancer Institute (NCI) Common Toxicity Criteria.
-
 Table 1.
 Summary of adverse events reported in �5% of 356 patients receiving MabThera monotherapy in clinical trials.
 
@@ -27,7 +26,7 @@ Summary of adverse events reported in �5% of 356 patients receiving MabThera m
 | Respiratory system Bronchospasm Rhinitis Increased cough | 28 26 18 | 7.9 7.3 5.1 | 5 1 1 | 1.4 0.3 0.3 |
 | Skin and appendages Pruritus Rash Urticaria | 44 40 26 | 12.4 11.2 7.3 | 1 1 3 | 0.3 0.3 0.8 |
 
-Additional adverse events that occurred in <5% and �1% of patients are listed below.
+Additional adverse events that occurred in < 5% and �1% of patients are listed below.
 The percentage of patients with grade 3 and 4 events is indicated in brackets.
 Infections are excluded and summarized in a separate section below.
 
@@ -42,7 +41,7 @@ Infections are excluded and summarized in a separate section below.
 - Skin and appendages: night sweats, sweating.
 - Special senses: lacrimation disorder, conjunctivitis, ear pain, tinnitus.
 
-The following adverse events were also reported (<1%): coagulation disorders, asthma, lung disorder, bronchiolitis obliterans, hypoxia, abdominal enlargement, pain at the infusion site, bradycardia, lymphadenopathy, nervousness, depression, dysgeusia.
+The following adverse events were also reported (< 1%): coagulation disorders, asthma, lung disorder, bronchiolitis obliterans, hypoxia, abdominal enlargement, pain at the infusion site, bradycardia, lymphadenopathy, nervousness, depression, dysgeusia.
 
 Infusion-related reactions: Infusion-related reactions occurred in more than 50% of patients, and were predominantly seen during the first infusion, usually during the first one to two hours.
 These events mainly comprised fever, chills, and rigours.
@@ -51,7 +50,7 @@ These symptoms were accompanied by hypotension and bronchospasm in about 10% of 
 Less frequently, patients experienced an exacerbation of pre-existing cardiac conditions such as angina pectoris or congestive heart failure.
 The incidence of infusion-related symptoms decreases substantially with subsequent infusions (see section 4.4).
 
-Infections: MabThera induced B-cell depletion in 70% to 80% of patients but was associated with decreased serum immunoglobulins only in a minority of patients.
+Infections: MabThera induced B cell depletion in 70% to 80% of patients but was associated with decreased serum immunoglobulins only in a minority of patients.
 Infectious events, irrespective of causal assessment, occurred in 30.3% of 356 patients: 18.8% of patients had bacterial infections,
 10.4% had viral infections, 1.4% had fungal infections, and 5.9% had infections of unknown etiology.
 Severe infectious events (grade 3 or 4), including sepsis occurred in 3.9% of patients; in 1.4% during the treatment period and in 2.5% during the follow up period.
@@ -72,7 +71,8 @@ Bulky disease: Patients with bulky disease (N=39) had a higher incidence of grad
 The incidence of any adverse event was similar in these two groups (92.3% in bulky disease versus 89.2% in non-bulky disease).
 
 Re-treatment: The percentage of patients reporting any adverse event and grade 3 and 4 adverse events upon re-treatment (N=60) with further courses of MabThera was similar to the percentage of patients reporting any adverse event and grade 3 and 4 adverse events upon initial exposure (N=203) (95.0% versus 89.7% for any adverse event and 13.3% versus 14.8% for grade 3 and 4 adverse events).
-Adverse reactions reported in other monotherapy clinical trials: One case of serum sickness has been reported in a clinical trial using MabThera monotherapy for treatment of diffuse large B-cell lymphoma.
+
+Adverse reactions reported in other monotherapy clinical trials: One case of serum sickness has been reported in a clinical trial using MabThera monotherapy for treatment of diffuse large B cell lymphoma.
 
 In combination with CHOP chemotherapy
 
@@ -167,7 +167,6 @@ The incidence of grade 2 to 4 herpes zoster, including ophthalmic herpes zoster,
 Haematologic events: After each treatment cycle, grade 3 and 4 leukopaenia (88% vs 79%) and neutropaenia (97% vs 87%) occurred more frequently in the R-CHOP group than in the CHOP group.
 No difference between the two treatment arms was observed with respect to grade 3 and 4 anaemia (19% in the CHOP group vs 14% in the R-CHOP group) and thrombocytopaenia (15% in the CHOP group vs 16% in the R-CHOP group).
 The time to recovery from all haematological abnormalities was comparable in the two treatment groups.
-
 Cardiac events: The incidence of grade 3 and 4 cardiac arrhythmias, predominantly supraventricular arrhythmias such as tachycardia and atrial flutter/fibrillation, was higher in the R-CHOP group (5.9%) as compared to the CHOP group (1.0%).
 All of these arrhythmias either occurred in the context of a MabThera infusion or were associated with predisposing conditions such as fever, infection, acute myocardial infarction or pre-existing respiratory and cardiovascular disease.
 No difference between the R-CHOP and CHOP group was observed in the incidence of other grade 3 and 4 cardiac events including heart failure, myocardial disease and manifestations of coronary artery disease.
@@ -193,20 +192,22 @@ Skin and Appendages: Severe bullous skin reactions, including fatal cases of tox
 
 Nervous System: Cases of cranial neuropathy with or without peripheral neuropathy have been reported rarely.
 Signs and symptoms of cranial neuropathy, such as severe vision loss, hearing loss, loss of other senses and facial nerve palsy, occurred at various times up to several months after completion of MabThera therapy.
+
 Body as a whole: Anaphylaxis has been reported in patients treated with MabThera (see section 4.4).
 Serum-sickness-like reactions have been reported rarely.
 
 [MabThera 500 mg]
 
 The following data are based on 356 patients treated in sngle-arm studies of MabThera administered as single agent (see section 5.1).
-These include 39 patients with bulky disease (lesions �10 cm) and 58 patients who received more than one course of MabThera (60 re-treatments).
 Thiry-seven patients received 375 mg/m2 for eight doses and 25 patients received doses other than 375 mg/m2 for four doses and up to 500 mg/m2 single dose in the Phase I setting.
 
-Summary of adverse events reported in �5% of 356 patients receiving MabThera monotherapy in clinical trails.
+Summary of adverse events reported in � 5% of 356 patients receiving MabThera monotherapy in clinical trails.
+
+Additional adverse events that occurred in < 5% and � 1% of patients are listed below.
 
 Haematologic Adverse Reactions:Haematologic abnormalities occurred in a minority of patients and are usually mild and reversible.
 
-| Table2: Summary of Grade 3 and 4 Adverse Events (Including Grade 2 Infections) reported in �2% of 398 patients in either treatment group (CHOP or R-CHOP) |  |  |
+| Table2: Summary of Grade 3 and 4 Adverse Events (Including Grade 2 Infections) reported in � 2% of 398 patients in either treatment group (CHOP or R-CHOP) |  |  |
 | --- | --- | --- |
 |  | Incidence |  |
 |  | CHOP N= 196 | R-CHOP N = 202 |

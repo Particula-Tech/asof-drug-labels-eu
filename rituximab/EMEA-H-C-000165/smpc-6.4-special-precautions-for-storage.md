@@ -1,8 +1,9 @@
 # 6.4 Special precautions for storage
 
-Store vials at 2-8 °C.
-Protect vials from direct sunlight.
+Store vials at 2°C - 8°C (in a refrigerator).
+Keep the container in the outer carton in order to protect from light.
 
-Prepared infusion solutions of MabThera should be used immediately after dilution and are stable for 12 hours at room temperature.
-If necessary, the prepared solutions may be stored in the refrigerator (at 2-8 °C) and are chemically stable for up to 24 hours.
-MabThera does not contain any antimicrobial preservative; therefore, care must be taken to ensure the sterility of the prepared solution.
+The prepared infusion solution of MabThera is physically and chemically stable for 24 hours at 2°C - 8°C and subsequently 12 hours at room temperature.
+
+From a microbiological point of view, the prepared infusion solution should be used immediately.
+If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2°C - 8°C, unless dilution has taken place in controlled and validated aseptic conditions.
