@@ -17,6 +17,7 @@ The kinetics of the main circulating metabolite were linear (plasma concentratio
 
 Clopidogrel and the main circulating metabolite bind reversibly in vitro to human plasma proteins (98% and 94% respectively).
 The binding is non-saturable in vitro over a wide concentration range.
+
 Following an oral dose of 14C-labelled clopidogrel in man, approximately 50% was excreted in the urine and approximately 46% in the faeces in the 120-hour interval after dosing.
 The elimination half-life of the main circulating metabolite was 8 hours after single and repeated administration.
 

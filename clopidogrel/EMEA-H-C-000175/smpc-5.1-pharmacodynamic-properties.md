@@ -27,7 +27,7 @@ In a subgroup analysis by qualifying condition (myocardial infarction, ischaemic
 CI: 8.9 to 36.2) and weaker (not significantly different from ASA) in stroke patients (RRR = 7.3%; CI: -5.7 to 18.7).
 In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was numerically inferior, but not statistically different from ASA
 (RRR = -4.0%; CI: -22.5 to 11.7).
-In addition, a subgroup analysis by age suggested that the benefit of clopidogrel in patients over 75 years was less than that observed in patients �75 years.
+In addition, a subgroup analysis by age suggested that the benefit of clopidogrel in patients over 75 years was less than that observed in patients ≤75 years.
 
 Since the CAPRIE trial was not powered to evaluate efficacy of individual subgroups, it is not clear whether the differences in relative risk reduction across qualifying conditions are real, or a result of chance.
 
@@ -40,7 +40,7 @@ Heparins were administered in more than 90% of the patients and the relative rat
 
 The number of patients experiencing the primary endpoint [cardiovascular (CV) death, myocardial infarction (MI), or stroke] was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%-28%; p=0.00009) for the clopidogrel-treated group (17% relative risk reduction when patients were treated conservatively, 29% when they underwent PTCA with or without stent and 10% when they underwent CABG).
 New cardiovascular events (primary endpoint) were prevented, with relative risk reductions of 22% (CI: 8.6, 33.4), 32% (CI: 12.8, 46.4), 4% (CI: -26.9, 26.7), 6% (CI: -33.5, 34.3) and 14% (CI: -31.6, 44.2), during the 0-1, 1-3, 3-6, 6-9 and 9-12 month study intervals, respectively.
-Thus, beyond 3 months of treatment, the benefit observed in the clopidogrel + ASA group was not further increased, whereas the risk of haemorrhage persisted (see section 4.4 Warnings and precautions).
+Thus, beyond 3 months of treatment, the benefit observed in the clopidogrel + ASA group was not further increased, whereas the risk of haemorrhage persisted (see section 4.4).
 
 The use of clopidogrel in CURE was associated with a decrease in the need of thrombolytic therapy (RRR = 43.3%; CI: 24.3%, 57.5%) and GPIIb/IIIa inhibitors (RRR = 18.2%; CI: 6.5%, 28.3%).
 

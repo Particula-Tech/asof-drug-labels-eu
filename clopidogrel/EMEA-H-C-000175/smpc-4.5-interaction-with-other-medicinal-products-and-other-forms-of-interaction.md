@@ -1,8 +1,9 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Warfarin: the concomitant administration of clopidogrel with warfarin is not recommended since it may increase the intensity of bleedings (see section 4.4 )
+Warfarin: the concomitant administration of clopidogrel with warfarin is not recommended since it may increase the intensity of bleedings (see section 4.4 ).
 
-Glycoprotein IIb/IIIa inhibitors: clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions that receive concomitant glycoprotein IIb/IIIa inhibitors (see section 4.4).
+Glycoprotein IIb/IIIa inhibitors: clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions that receive concomitant glycoprotein IIb/IIIa inhibitors.
+(see section 4.4)
 
 Acetylsalicylic acid (ASA): ASA did not modify the clopidogrel-mediated inhibition of ADP-induced platelet aggregation, but clopidogrel potentiated the effect of ASA on collagen-induced platelet aggregation.
 However, concomitant administration of 500 mg of ASA twice a day for one day did not significantly increase the prolongation of bleeding time induced by clopidogrel intake.

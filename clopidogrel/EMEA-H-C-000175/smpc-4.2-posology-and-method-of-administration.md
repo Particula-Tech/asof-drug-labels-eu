@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-� Adults and elderly
+- Adults and elderly
 
 Clopidogrel should be given as a single daily dose of 75 mg with or without food.
 
@@ -9,6 +9,6 @@ Since higher doses of ASA were associated with higher bleeding risk it is recomm
 The optimal duration of treatment has not been formally established.
 Clinical trial data support use up to 12 months, and the maximum benefit was seen at 3 months (see section 5.1).
 
-� Children and adolescents
+- Children and adolescents
 
 Safety and efficacy in subjects below the age of 18 have not been established.
