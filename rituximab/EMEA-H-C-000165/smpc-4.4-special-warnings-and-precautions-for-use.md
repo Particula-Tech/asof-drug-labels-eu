@@ -33,9 +33,14 @@ MabThera has been used in 21 patients who underwent autologous bone transplantat
 Consideration should be given to the need for regular full blood counts, including platelet counts, during monotherapy with MabThera.
 When MabThera is given in combination with CHOP or CVP chemotherapy, regular full blood counts should be performed according to usual medical practice.
 
+Very rare cases of hepatitis B reactivation, including reports of fulminant hepatitis, have been reported in subjects receiving rituximab, although these subjects were also exposed to cytotoxic chemotherapy.
+The reports are confounded by both the underlying disease state and the cytotoxic chemotherapy.
+Patients with a history of hepatitis B infection should be carefully monitored for signs of active hepatitis B infection when rituximab is used in association with cytotoxic chemotherapy.
+
 Do not administer the prepared infusion solutions as an IV push or bolus.
 
 Paediatric Use
+
 The safety and efficacy of MabThera in children have not been established.
 
 [MabThera 500 mg]

@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
 Monotherapy
+
 The following data are based on 356 patients treated in single-arm studies of MabThera administered as single agent (see section 5.1).
 Most patients received MabThera 375 mg/m2 weekly for 4 doses.
 These include 39 patients with bulky disease (lesions ≥ 10 cm) and 58 patients who received more than one course of MabThera (60 re-treatments).
@@ -19,6 +20,7 @@ Summary of adverse events reported in ≥ 1 % of 356 patients receiving MabThera
 | Body as a whole |  |  |
 | Fever | 48.3 | 0.6 |
 | Chills | 31.7 | 2.2 |
+| Body system Adverse event | % | % |
 | Asthenia | 18.0 | 0.3 |
 | Headache | 12.6 | 0.6 |
 | Throat irritation | 7.6 | - |
@@ -29,7 +31,6 @@ Summary of adverse events reported in ≥ 1 % of 356 patients receiving MabThera
 | Chest pain | 2.2 | - |
 | Malaise | 2.0 | - |
 | Tumour pain | 1.7 | - |
-| Body system Adverse event | % | % |
 | Cold syndrome | 1.4 | - |
 | Neck pain | 1.1 | - |
 | Cardiovascular system |  |  |
@@ -57,7 +58,7 @@ Summary of adverse events reported in ≥ 1 % of 356 patients receiving MabThera
 | Hyperglycaemia | 5.3 | 0.3 |
 | Peripheral oedema | 4.8 | - |
 | LDH increase | 2.2 | - |
-| Hypocalcemia | 2.2 | - |
+| Hypocalcaemia | 2.2 | - |
 | Facial oedema | 1.1 | - |
 | Weight decrease | 1.1 | - |
 | Musculoskeletal system |  |  |
@@ -72,6 +73,7 @@ Summary of adverse events reported in ≥ 1 % of 356 patients receiving MabThera
 | Insomnia | 2.2 | - |
 | Vasodilatation | 1.7 | - |
 | Hypoaesthesia | 1.4 | - |
+| Body system Adverse event | % | % |
 | Agitation | 1.4 | - |
 | Respiratory system |  |  |
 | Bronchospasm | 7.9 | 1.4 |
@@ -82,7 +84,6 @@ Summary of adverse events reported in ≥ 1 % of 356 patients receiving MabThera
 | Respiratory disease | 1.1 | - |
 | Skin and appendages |  |  |
 | Pruritus | 12.4 | 0.3 |
-| Body system Adverse event | % | % |
 | Rash | 11.2 | 0.3 |
 | Urticaria | 7.3 | 0.8 |
 | Night sweats | 2.8 | - |
@@ -114,17 +115,19 @@ A single occurrence of transient aplastic anaemia (pure red cell aplasia) and in
 Cardiovascular events: Cardiovascular events were reported in 18.8 % of patients during the treatment period.
 The most frequently reported events were hypotension and hypertension.
 Two patients (0.6 %) experienced grade 3 or 4 arrhythmia (including ventricular and supraventricular tachycardia) during a MabThera infusion and one patient with a history of myocardial infarction experienced angina pectoris, evolving into myocardial infarction 4 days later.
-
 Subpopulations:
+
 Elderly patients: (≥ 65 years): The incidence of any adverse event and of grade 3 and 4 adverse events was similar in elderly (N=94) and younger (N=237) patients (88.3 % versus 92.0 % for any adverse event and 16.0 % versus 18.1 % for grade 3 and 4 adverse events).
 
 Bulky disease: Patients with bulky disease (N=39) had a higher incidence of grade 3 and 4 adverse events than patients without bulky disease (N=195) (25.6 % versus 15.4 %).
 The incidence of any adverse event was similar in these two groups (92.3 % in bulky disease versus 89.2 % in non-bulky disease).
+
 Re-treatment: The percentage of patients reporting any adverse event and grade 3 and 4 adverse events upon re-treatment (N=60) with further courses of MabThera was similar to the percentage of patients reporting any adverse event and grade 3 and 4 adverse events upon initial exposure (N=203) (95.0 % versus 89.7 % for any adverse event and 13.3 % versus 14.8 % for grade 3 and 4 adverse events).
 
 Adverse reactions reported in other monotherapy clinical trials: One case of serum sickness has been reported in a clinical trial using MabThera monotherapy for treatment of diffuse large B cell lymphoma.
 
 In combination with CVP chemotherapy
+
 The following data are based on 321 patients from a randomised phase III clinical trial comparing MabThera plus CVP (R-CVP) to CVP alone (162 R-CVP, 159 CVP).
 
 Differences between the treatment groups with respect to the type and incidence of adverse event were mainly accounted for by typical adverse events associated with MabThera monotherapy.
@@ -153,7 +156,9 @@ In addition, the higher incidence of neutropenia in the R-CVP group was not asso
 No relevant difference between the two treatment arms was observed with respect to grade 3 and 4 anaemia (0.6 % R-CVP and 1.9 % CVP) and thrombocytopenia (1.2 % in the R-CVP group and no events reported in the CVP group).
 
 Cardiac events: The overall incidence of cardiac disorders in the safety population was low (4 % R-CVP, 5 % CVP), with no relevant differences between the treatment groups.
+
 In combination with CHOP chemotherapy
+
 The following table shows grade 3 to 4 clinical adverse events, including grade 2 infections, from a randomised phase III clinical trial comparing MabThera plus CHOP (R-CHOP) to CHOP alone in a safety population of 398 patients.
 Events shown were reported at a greater than 2 % higher incidence with R-CHOP when compared to CHOP alone and therefore may be attributable to R-CHOP (absolute incidence cut off at 2 %).
 Adverse events were graded according to the four-scale National Cancer Institute of Canada (NCIC) Common Toxicity Criteria.
@@ -193,6 +198,7 @@ Haematologic events: After each treatment cycle, grade 3 and 4 leucopenia (88 % 
 There was no evidence that neutropenia was more prolonged in the R-CHOP group.
 No difference between the two treatment arms was observed with respect to grade 3 and 4 anaemia (19 % in the CHOP group vs 14 % in the R-CHOP group) and thrombocytopenia (16 % in the CHOP group vs 15 % in the R-CHOP group).
 The time to recovery from all haematological abnormalities was comparable in the two treatment groups.
+
 Cardiac events: The incidence of grade 3 and 4 cardiac arrhythmias, predominantly supraventricular arrhythmias such as tachycardia and atrial flutter/fibrillation, was higher in the R-CHOP group (14 patients, 6.9 %) as compared to the CHOP group (3 patients, 1.5 %).
 All of these arrhythmias either occurred in the context of a MabThera infusion or were associated with predisposing conditions such as fever, infection, acute myocardial infarction or pre-existing respiratory and cardiovascular disease.
 No difference between the R-CHOP and CHOP group was observed in the incidence of other grade 3 and 4 cardiac events including heart failure, myocardial disease and manifestations of coronary artery disease.
@@ -202,15 +208,16 @@ There was no difference between the treatment groups in the incidence of other t
 In contrast, three patients (1.5 %) had cerebrovascular events in the CHOP group, all of which occurred during the follow-up period.
 
 Post-marketing experience
+
 As part of the continuing post-marketing surveillance of MabThera safety, the following serious adverse reactions have been observed:
 
 | Blood and lymphatic system disorders |  |
 | --- | --- |
 | Rare (≥ 1/10,000, < 1/1000): | Late neutropenia1 |
-| Very rare (< 1/10,000): | Pancytopenia Aplastic anaemia |
+| Very rare (< 1/10,000): | Pancytopenia Aplastic anaemia Transient increase in serum IgM levels2 |
 | Cardiovascular system |  |
-| Rare (≥ 1/10,000, < 1/1000): | *Severe cardiac events2 |
-| Very rare (< 1/10,000): | *Heart failure2 *Myocardial infarction2 |
+| Rare (≥ 1/10,000, < 1/1000): | *Severe cardiac events3 |
+| Very rare (< 1/10,000): | *Heart failure3 *Myocardial infarction3 |
 | Ear and labyrinth disorders |  |
 | Very rare (< 1/10,000): | †Hearing loss |
 | Eye disorders |  |
@@ -220,28 +227,30 @@ As part of the continuing post-marketing surveillance of MabThera safety, the fo
 | Immune system disorders |  |
 | Uncommon (≥ 1/1000, < 1/100): | Infusion related reactions |
 | Rare (≥ 1/10,000, < 1/1000): | Anaphylaxis |
-| Very rare (< 1/10,000): | *Tumour lysis syndrome *Cytokine release syndrome Serum sickness |
+| Very rare (< 1/10,000): | *Tumour lysis syndrome *Cytokine release syndrome Serum sickness Hepatitis B reactivation4 |
 | Nervous system disorders |  |
-| Very rare (< 1/10,000): | Cranial neuropathy Peripheral neuropathy †Facial nerve palsy †Loss of other senses |
+| Very rare (< 1/10,000): | Cranial neuropathy Peripheral neuropathy |
+|  | †Facial nerve palsy †Loss of other senses |
 | Renal and urinary disorders |  |
 | Very rare (< 1/10,000): | *Renal failure |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Rare (≥ 1/10,000, < 1/1000): | *Bronchospasm |
 | Very rare (< 1/10,000): | *Respiratory failure Pulmonary infiltrates Interstitial pneumonitis |
 | Skin and subcutaneous tissue disorders |  |
-| Very rare (< 1/10,000): | Severe bullous skin reactions Toxic epidermal necrolysis3 (fatal cases reported) |
+| Very rare (< 1/10,000): | Severe bullous skin reactions Toxic epidermal necrolysis5 |
 | Vascular disorders |  |
-| Very rare (< 1/10,000): | Vasculitis (predominately cutaneous) |
-
-Leukocytoclastic vasculitis
+| Very rare (< 1/10,000): | Vasculitis (predominately cutaneous) Leukocytoclastic vasculitis |
 
 *Associated with infusion-related reactions.
 Rarely fatal cases reported
 † Signs and symptoms of cranial neuropathy.
 Occurred at various times up to several months after completion of MabThera therapy
 1 Neutropenia that has occurred more than four weeks after the last infusion of MabThera.
-2 Observed mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and were mostly associated with infusion-related reactions
-3 Including fatal cases
+2 In post-marketing studies of rituximab in patients with Waldenstrom’s macroglobulinaemia, transient increases in serum IgM levels have been observed following treatment initiation, which may be associated with hyperviscosity and related symptoms.
+The transient IgM increase usually returned to at least baseline level within 4 months.
+3 Observed mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and were mostly associated with infusion-related reactions
+4 Very rare cases of hepatitis B reactivation, have been reported in subjects receiving rituximab in combination with cytotoxic chemotherapy.
+5 Including fatal cases
 
 [MabThera 500 mg]
 

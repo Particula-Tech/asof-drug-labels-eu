@@ -5,7 +5,7 @@
 Rituximab is a genetically engineered chimeric mouse/human monoclonal antibody representing a glycosylated immunoglobulin with human IgG1 constant regions and murine light-chain and heavy-chain variable region sequences.
 The antibody is produced by mammalian (Chinese hamster ovary) cell suspension culture and purified by affinity chromatography and ion exchange, including specific viral inactivation and removal procedures.
 
-For excipients, see 6.1.
+For excipients, see section 6.1.
 
 [MabThera 500 mg]
 

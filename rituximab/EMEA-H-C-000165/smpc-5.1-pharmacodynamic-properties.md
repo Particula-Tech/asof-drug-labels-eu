@@ -56,6 +56,7 @@ Treatment with R-CVP significantly prolonged the time to disease progression com
 At 12 months, 81 % in the R-CVP group had not relapsed compared to 58 % of patients receiving CVP.
 
 The benefit of adding rituximab to CVP was seen consistently throughout the population recruited in study M39021 (randomised according to BNLI criteria (no versus yes), age (≤ 60 years, > 60 years), number of extra-nodal sites (0-1 versus > 1), bone marrow involvement (no versus yes), LDH (elevated, not elevated), β2-microglobulin (elevated, not elevated), B symptoms (absent, present), bulky disease (absent, present), number of nodal sites (< 5 versus ≥ 5), haemoglobin (≤ 12 g/dL versus > 12 g/dL), IPI (≤ 1 versus > 1), and FLIPI index (0-2 versus 3-5)).
+
 Due to the number of events at the time of analysis and the relatively short observation time of 18 months, conclusion regarding differences for overall survival cannot be drawn.
 
 Diffuse large B cell non-Hodgkin’s lymphoma: In a randomised, open-label trial, a total of 399 previously untreated elderly patients (age 60 to 80 years) with diffuse large B cell lymphoma received standard CHOP chemotherapy (cyclophosphamide 750 mg/m2, doxorubicin 50 mg/m2, vincristine 1.4 mg/m2 up to a maximum of 2 mg on day 1, and prednisone 40 mg/m2/day on days 1-5) every 3 weeks for eight cycles, or MabThera 375 mg/m2 plus CHOP (R-CHOP).
@@ -73,8 +74,8 @@ The complete response rate after cycle 8 was 76.2 % in the R-CHOP group and 62.4
 The risk of disease progression was reduced by 46 % and the risk of relapse by 51 %.
 In all patients subgroups (gender, age, age adjusted IPI, Ann Arbor stage, ECOG, β2 microglobulin, LDH, albumin, B symptoms, bulky disease, extranodal sites, bone marrow involvement), the risk ratios for event-free survival and overall survival (R-CHOP compared with CHOP) were less than 0.83 and 0.95 respectively.
 R-CHOP was associated with improvements in outcome for both high- and low-risk patients according to age adjusted IPI.
-
 Clinical Laboratory Findings
+
 Of 67 patients evaluated for human anti-mouse antibody (HAMA), no responses were noted.
 Of 356 patients evaluated for HACA, 1.1 % (4 patients) were positive.
 
