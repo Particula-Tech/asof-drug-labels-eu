@@ -1,7 +1,7 @@
-# 6.4 Special Precautions for Storage
+# 6.4 Special precautions for storage
 
-Store at or below 30oC.
+Store at or below 30ºC.
 
-[CellCept 500 mg, tablet mycophenolate mofetil]
+[CellCept 500 mg tablets]
 
-CellCept tablets should be protected from light.
+Store at or below 30º C. CellCept tablets should be protected from light.

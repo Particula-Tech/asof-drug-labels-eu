@@ -1,7 +1,7 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each capsule contains 250mg mycophenolate mofetil.
+Each capsule contains 250 mg mycophenolate mofetil.
 
-[CellCept 500 mg, tablet mycophenolate mofetil]
+[CellCept 500 mg tablets]
 
-Each tablet contains 500mg mycophenolate mofetil.
+Each tablet contains 500 mg mycophenolate mofetil.
