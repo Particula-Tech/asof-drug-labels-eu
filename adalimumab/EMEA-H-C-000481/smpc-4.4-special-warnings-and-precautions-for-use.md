@@ -22,11 +22,10 @@ This evaluation should include a detailed medical history with a personal histor
 Appropriate screening tests, i.e. tuberculin skin test and chest x-ray, should be performed in all patients (local recommendations may apply).
 It is recommended that the conduct of these tests should be recorded in the patient’s alert card.
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
-
 If active tuberculosis is diagnosed, Humira therapy must not be initiated (see 4.3).
-
 If latent tuberculosis is diagnosed, appropriate anti-tuberculosis prophylaxis in accordance with local recommendations must be initiated before starting treatment with Humira.
 In this situation, the benefit/risk balance of therapy with Humira should be very carefully considered.
+
 Patients should be instructed to seek medical advice if signs/symptoms (eg, persistent cough, wasting/weight loss, low grade fever) suggestive of a tuberculosis infection occur during or after therapy with Humira.
 
 Neurological events
@@ -65,7 +64,7 @@ The impact of long-term treatment with Humira on the development of autoimmune d
 
 Concurrent administration of TNF-alpha inhibitor and anakinra
 
-Concurrent administration of etanercept (another agent that inhibits TNF�) and anakinra (a recombinant, non-glycosylated form of the human interleukin-1 receptor antagonist) has been associated with an increased risk of serious infections, an increased risk of neutropenia and no additional benefit compared to these medicinal products alone.
+Concurrent administration of etanercept (another agent that inhibits TNFα) and anakinra (a recombinant, non-glycosylated form of the human interleukin-1 receptor antagonist) has been associated with an increased risk of serious infections, an increased risk of neutropenia and no additional benefit compared to these medicinal products alone.
 The safety and efficacy of anakinra used in combination with adalimumab has not been established.
 Therefore, combination of adalimumab and anakinra is not recommended.
 

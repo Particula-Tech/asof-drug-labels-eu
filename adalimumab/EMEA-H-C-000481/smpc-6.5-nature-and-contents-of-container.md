@@ -9,10 +9,10 @@ Packs of:
 
 Humira 40 mg solution for injection in single-use pre-filled syringe (type I glass) for patient use:
 
-� 1 pre-filled syringe (0.8 ml sterile solution) with 1 alcohol pad in a blister.
-� 2 pre-filled syringes (0.8 ml sterile solution), each with 1 alcohol pad, in a blister.
-� 4 pre-filled syringes (0.8 ml sterile solution), each with 1 alcohol pad, in a blister.
-� 6 pre-filled syringes (0.8 ml sterile solution), each with 1 alcohol pad, in a blister.
+- 1 pre-filled syringe (0.8 ml sterile solution) with 1 alcohol pad in a blister.
+- 2 pre-filled syringes (0.8 ml sterile solution), each with 1 alcohol pad, in a blister.
+- 4 pre-filled syringes (0.8 ml sterile solution), each with 1 alcohol pad, in a blister.
+- 6 pre-filled syringes (0.8 ml sterile solution), each with 1 alcohol pad, in a blister.
 
 Not all pack sizes may be marketed.
 

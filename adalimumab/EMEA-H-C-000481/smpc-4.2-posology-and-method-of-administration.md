@@ -17,8 +17,8 @@ In monotherapy, some patients who experience decrease in their response may bene
 
 Available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
 Continued therapy should be carefully reconsidered in a patient not responding within this time period.
-
 Elderly patients
+
 No dose adjustment is required.
 
 Children and adolescents

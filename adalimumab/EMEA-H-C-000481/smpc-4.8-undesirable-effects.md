@@ -7,15 +7,13 @@ Most patients received 40 mg Humira every other week.
 
 The proportion of patients who discontinued treatment due to adverse events during the double-blind, placebo controlled portion of Studies I, II, III and IV was 6.6% for patients taking Humira and 4.2% for placebo-treated patients.
 
-Adverse events at least possibly causally-related to adalimumab, both clinical and laboratory, are displayed by system organ class and frequency (very common > 1/10; common > 1/100 � /10; uncommon > 1/1000 � 1/100) in Table 1 below.
-
+Adverse events at least possibly causally-related to adalimumab, both clinical and laboratory, are displayed by system organ class and frequency (very common > 1/10; common > 1/100 ≤ /10; uncommon > 1/1000 ≤ 1/100) in Table 1 below.
 Table 1
 Undesirable Effects in Clinical Studies
 
-Body system Frequency Adverse event
-
-| Neoplasia | Uncommon | Skin benign neoplasm |
+| Body system | Frequency | Adverse event |
 | --- | --- | --- |
+| Neoplasia | Uncommon | Skin benign neoplasm |
 | Haemic and Lymphatic system | Common | Decreased haemoglobin |
 |  | Uncommon | Granulocytopenia, coagulation time increased, antinuclear antibody present, leukopenia, lymphadenopathy, lymphocytosis, platelet count decreased, purpura |
 | Metabolic and Nutritional Disorders | Common | Hyperlipidaemia |
@@ -34,8 +32,8 @@ Body system Frequency Adverse event
 | Musculo-skeletal System | Uncommon | Arthralgia, muscle cramps, myalgia, joint disorder, synovitis, tendon disorder* |
 | Urogenital System | Common | Urinary tract infection |
 |  | Uncommon | Vaginal moniliasis, haematuria, cystitis, menorrhagia, proteinuria, increased urinary frequency |
-| Body as a whole | Common | Laboratory test abnormal, asthenia, clinical flare reaction, flu syndrome, abdominal pain, |
-|  | Uncommon | infection Fever, mucous membrane disorder*, pain in extremity, face oedema, back pain, cellulites, chills, sepsis, surgery |
+| Body as a whole | Common | Laboratory test abnormal, asthenia, clinical flare reaction, flu syndrome, abdominal pain, infection |
+|  | Uncommon | Fever, mucous membrane disorder*, pain in extremity, face oedema, back pain, cellulites, chills, sepsis, surgery |
 | Injection Site Reaction | Very common | Injection site pain |
 |  | Common | Injection site reaction, injection site haemorrhage, injection site eruption |
 | Hypersensitivity, general | Uncommon | Allergic reaction |
@@ -69,11 +67,12 @@ No patients developed lupus nephritis or central nervous system symptoms.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-Adverse events at least possibly causally-related to adalimumab, both clinical and laboratory, are displayed by system organ class and frequency (very common > 1/10; common > 1/100 � 1/10; uncommon > 1/1000 � 1/100) in Table 1 below.
+Adverse events at least possibly causally-related to adalimumab, both clinical and laboratory, are displayed by system organ class and frequency (very common > 1/10; common > 1/100 ≤ 1/10; uncommon > 1/1000 ≤ 1/100) in Table 1 below.
 
-| Body system | Frequency | Adverse events |
-| --- | --- | --- |
+Body system Frequency Adverse events
+
 | Neoplasia | Uncommon | Skin benign neoplasm |
+| --- | --- | --- |
 | Haemic and Lymphatic system | Common | Decreased haemoglobin |
 |  | Uncommon | Granulocytopenia, coagulation time increased, antinuclear antibody present, leukopenia, lymphadenopathy, lymphocytosis, platelet count decreased, purpura |
 | Metabolic and Nutritional Disorders | Common | Hyperlipidaemia |
@@ -93,8 +92,8 @@ Adverse events at least possibly causally-related to adalimumab, both clinical a
 | Musculo-skeletal System | Uncommon | Arthralgia, muscle cramps, myalgia, joint disorder, synovitis, tendon disorder* |
 | Urogenital System | Common | Urinary tract infection |
 |  | Uncommon | Vaginal moniliasis, haematuria, cystitis, menorrhagia, proteinuria, increased urinary frequency |
-| Body as a whole | Common | Laboratory test abnormal, asthenia, clinical flare reaction, flu syndrome, abdominal pain, |
-|  | Uncommon | infection Fever, mucous membrane disorder*, pain in extremity, face oedema, back pain, cellulitis, chills, sepsis, surgery |
+| Body as a whole | Common | Laboratory test abnormal, asthenia, clinical flare |
+|  | Uncommon | reaction, flu syndrome, abdominal pain, infection Fever, mucous membrane disorder*, pain in extremity, face oedema, back pain, cellulitis, chills, sepsis, surgery |
 | Injection Site Reaction | Very common | Injection site pain |
 |  | Common | Injection site reaction, injection site haemorrhage, injection site eruption |
 | Hypersensitivity, general | Uncommon | Allergic reaction |
