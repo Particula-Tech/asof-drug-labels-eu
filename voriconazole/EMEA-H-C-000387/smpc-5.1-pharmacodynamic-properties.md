@@ -2,7 +2,6 @@
 
 Pharmacotherapeutic group: ATC code: J02A C03
 Antimycotics for Systemic Use – Triazole derivatives
-
 Mechanism of action
 
 In vitro, voriconazole displays broad-spectrum antifungal activity with antifungal potency against Candida species (including fluconazole resistant C. krusei and resistant strains of C. glabrata and
@@ -26,13 +25,13 @@ Trichosporon spp. including T. beigelii infections.
 In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2 µg/ml.
 
 In vitro activity against the following pathogens has been shown, but the clinical significance is unknown: Curvularia spp. and Sporothrix spp.
+
 Specimens for fungal culture and other relevant laboratory studies (serology, histopathology) should be obtained prior to therapy to isolate and identify causative organisms.
 Therapy may be instituted before the results of the cultures and other laboratory studies are known; however, once these results become available, anti-infective therapy should be adjusted accordingly.
 
 Clinical isolates with decreased susceptibility to voriconazole have been identified.
 However, elevated minimum inhibitory concentrations did not always correlate with clinical failure and clinical success has been observed in patients infected with organisms resistant to other azoles.
 Correlation of in vitro activity with clinical outcome is difficult owing to the complexity of the patients studied in clinical trials; breakpoints for voriconazole remain to be established.
-
 Clinical Experience
 
 Successful outcome in this section is defined as complete or partial response.
@@ -62,6 +61,7 @@ In addition, a successful response was seen in 1 of 3 patients with infections c
 Fusarium spp.: Seven (3 complete, 4 partial responses) of 17 patients were successfully treated with voriconazole.
 Of these 7 patients, 3 had eye, 1 had sinus, and 3 had disseminated infection.
 Four additional patients with fusariosis had an infection caused by several organisms; two of them had a successful outcome.
+
 The majority of patients receiving voriconazole treatment of the above mentioned rare infections were intolerant of, or refractory to, prior antifungal therapy.
 
 Duration of treatment
@@ -70,7 +70,6 @@ In clinical trials, 561 patients received voriconazole therapy for greater than 
 Experience in paediatric patients
 Sixty one paediatric patients aged 9 months up to 15 years who had definite or probable invasive fungal infections, were treated with voriconazole.
 This population included 34 patients 2 to < 12 years old and 20 patients 12-15 years of age.
-
 The majority (57/61) had failed previous antifungal therapies.
 Therapeutic studies included 5 patients aged 12-15 years, the remaining patients received voriconazole in the compassionate use programmes.
 Underlying diseases in these patients included haematological malignancies and aplastic anaemia (27 patients) and chronic granulomatous disease (14 patients).

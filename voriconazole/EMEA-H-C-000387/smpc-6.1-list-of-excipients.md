@@ -20,7 +20,6 @@ Glycerol Triacetate
 [VFEND 200mg powder for solution for infusion]
 
 Sulphobutylether beta cyclodextrin sodium (SBECD)
-Water for Injections
 
 [VFEND 40mg/ml powder for oral suspension.]
 

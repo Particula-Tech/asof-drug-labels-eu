@@ -15,7 +15,6 @@ It is recommended that a standard
 This medicinal product is for single use only and any unused solution should be discarded and only clear solutions without particles should be used.
 
 For administration, the required volume of the reconstituted concentrate is added to a recommended compatible infusion solution (detailed below) to obtain a final voriconazole solution containing 0.5-5 mg/ml.
-
 Required Volumes of 10 mg/ml VFEND Concentrate
 
 | Body Weight (kg) | Volume of VFEND Concentrate (10 mg/ml) required for: |  |  |
@@ -73,7 +72,6 @@ Press bottle adaptor into the neck of the bottle.
 Replace the cap.
 6.
 Write the date of expiration of the constituted suspension on the bottle label (the shelf-life of the constituted suspension is 14 days).
-
 Instructions for use:
 
 Shake the closed bottle of constituted suspension for approximately 10 seconds before each use.

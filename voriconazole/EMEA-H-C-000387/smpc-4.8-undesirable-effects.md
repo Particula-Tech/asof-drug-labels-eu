@@ -20,7 +20,7 @@ Undesirable effects reported in subjects receiving voriconazole
 | Cardiovascular |  |
 | Common | Hypotension, thrombophlebitis, phlebitis |
 | Uncommon | Atrial arrhythmia, bradycardia, syncope, tachycardia, ventricular arrhythmia, ventricular fibrillation |
-| Rare | Supraventricular tachycardia, AV complete block, bundle branch block, nodal arrhythmia, torsade de pointes, QT interval prolongation |
+| Rare | Supraventricular tachycardia, AV complete block, bundle branch block, nodal arrhythmia, ventricular tachycardia, torsade de pointes, QT interval prolongation |
 | Digestive |  |
 | Very common | Nausea, vomiting, diarrhoea |
 | Common | Elevated liver function tests (includingASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), jaundice, cheilitis, cholestatic jaundice, gastroenteritis |
@@ -137,7 +137,7 @@ In the table below, since the majority of the studies were of an open nature, al
 | Cardiovascular |  |
 | Common | Hypotension, thrombophlebitis, phlebitis |
 | Uncommon | Atrial arrhythmia, bradycardia, syncope, tachycardia, ventricular arrhythmia, ventricular fibrillation |
-| Rare | Supraventricular tachycardia, AV complete block, bundle branch block, nodal arrhytmia, torsade de pointes, QT interval prolongation |
+| Rare | Supraventricular tachycardia, AV complete block, bundle branch block, nodal arrhytmia, ventricular tachycardia, torsade de pointes, QT interval prolongation |
 | Digestive |  |
 | Very common | Nausea, vomiting, diarrhoea |
 | Common | Elevated liver function tests (including ASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), jaundice, cheilitis, cholestatic jaundice, gastroenteritis |
@@ -164,7 +164,7 @@ The severity of the adverse reactions was generally mild to moderate.
 | Cardiovascular |  |
 | Common | Hypotension, thrombophlebitis, phlebitis |
 | Uncommon | Atrial arrhythmia, bradycardia, syncope, tachycardia, ventricular arrhythmia, ventricular fibrillation |
-| Rare | Supraventricular tachycardia, AV complete block, bundle branch block, nodal arrhythmia, torsade de pointes, QT interval prolongation |
+| Rare | Supraventricular tachycardia, AV complete block, bundle branch block, nodal arrhythmia, ventricular tachycardia, torsade de pointes, QT interval prolongation |
 | Digestive |  |
 | Very common | Nausea, vomiting, diarrhoea |
 | Common | Elevated liver function tests (includingASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), jaundice, cheilitis, cholestatic jaundice, gastroenteritis |
@@ -181,7 +181,9 @@ The severity of the adverse reactions was generally mild to moderate.
 | Common | Hypokalaemia, creatinine increased, hypoglycaemia |
 | Uncommon | BUN increased, albuminuria, hypercholesterolaemia |
 | Rare | Hyperthyroidism, hypothyroidism |
+
 | Musculoskeletal |  |
+| --- | --- |
 | Uncommon | Arthritis |
 | Nervous |  |
 | Common | Dizziness, hallucinations, confusion, depression, anxiety, tremor, agitation, paraesthesia |
