@@ -1,5 +1,5 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each tablet contains 5 mg desloratadine.
+Each ml of syrup contains 0.5 mg desloratadine.
 
 For excipients, see 6.1.
