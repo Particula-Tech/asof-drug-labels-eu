@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Refer also to CONTRAINDICATIONS (section 4.3)
+
 Ritonavir has a high affinity for several cytochrome P450 (CYP) isoforms with the following ranked order: CYP3A > CYP2D6 > CYP2C9.
 In addition to the medicines listed in the CONTRAINDICATIONS section, the following medicines or drug classes are known or suspected to be metabolised by these same cytochrome P450 isozymes: immunosuppressants (e.g, cyclosporine, tacrolimus), macrolide antibiotics (e.g, erythromycin), various steroids (e.g, dexamethasone, prednisolone), other HIV-protease inhibitors, nonsedating antihistamines (e.g, loratidine), calcium channel antagonists, several tricyclic antidepressants (e.g, desipramine, imipramine, amitriptyline, nortriptyline), other antidepressants (e.g, fluoxetine, paroxetine, sertraline), neuroleptics (e.g, haloperidol, risperidone, thioridazine), antifungals (e.g, itraconazole), morphinomimetics (e.g, fentanyl), carbamazepine, warfarin, tolbutamide, amphetamine and amphetamine derivatives.
 Due to the potential for significant elevation of serum levels of these medicines they should not be used concomitantly with ritonavir without a careful assessment of the potential risks and benefits.
@@ -26,8 +27,8 @@ Doses greater than 400 mg bid of either medicine were associated with an increas
 Ketoconazole: concomitant administration of ritonavir and ketoconazole resulted in markedly elevated ketoconazole plasma levels: mean AUC0-24 increased 3.4 fold and Cmax increased 1.6 fold.
 The mean half-life of ketoconazole increased from 2.7 to 13.2 h. Because of the large increases in the two agents, doses of ketoconazole 200 mg/day or greater should not be used concomitantly with ritonavir without assessing the risk and benefits.
 This interaction can have serious gastrointestinal and hepatic consequences.
-
 Norvir DECREASES the AUCs of the following medicines when administered concomitantly:
+
 Zidovudine (AZT) and ddI: zidovudine and ddI have little if any effect on ritonavir pharmacokinetics.
 Ritonavir decreased the mean zidovudine AUC by approximately 25 % in a study, which has not been of sufficient duration to reach steady state for ritonavir.
 Ritonavir resulted in a reduction of the mean ddI AUC by 13 % when given 2.5 hours apart from ritonavir.
@@ -50,7 +51,8 @@ Sildenafil: co-administration of sildenafil 100 mg single dose with ritonavir 50
 At 24 hours after sildenafil dosing, plasma sildenafil concentrations were approximately 200 ng/ml, compared to 5 ng/ml when sildenafil was administered alone.
 
 Sildenafil had no effect on the pharmacokinetics of ritonavir.
-On the basis of these data, concomitant use of sildenafil with ritonavir is not recommended and in no case should sildenafil doses exceed 25 mg within 48 hours (see also section 4.4 Special warnings and special precautions for use).
+On the basis of these data, concomitant use of sildenafil with ritonavir is not recommended and in no case should sildenafil doses exceed
+25 mg within 48 hours (see also section 4.4 Special warnings and special precautions for use).
 
 Because ritonavir is highly protein bound, the possibility of increased therapeutic and toxic effects due to protein binding displacement of concomitant medications should be considered.
 

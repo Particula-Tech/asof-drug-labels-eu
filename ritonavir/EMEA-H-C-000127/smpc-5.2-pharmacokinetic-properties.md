@@ -13,14 +13,14 @@ The time to maximum concentration (tmax) remained constant at approximately 4 ho
 
 The pharmacokinetics of ritonavir are dose-dependent: more than proportional increases in the AUC and Cmax were reported with increasing dose.
 Ingestion with food results in higher ritonavir exposure than ingestion in the fasted state.
+
 No clinically significant differences in AUC or Cmax were noted between males and females.
 Ritonavir pharmacokinetic parameters were not statistically significantly associated with body weight or lean body mass.
 
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20-40 l after a single 600 mg dose.
 The protein binding of ritonavir in human plasma was noted to be approximately 98 - 99 %.
 Ritonavir binds to both human alpha 1-acid glycoprotein (AAG) and human serum albumin (HSA) with comparable affinities.
-Plasma protein binding is constant over the concentration range of
-0.1-100 μg/ml.
+Plasma protein binding is constant over the concentration range of 0.1-100 μg /ml.
 
 Tissue distribution studies with 14C-labelled ritonavir in rats showed the liver, adrenals, pancreas, kidneys and thyroid to have the highest concentrations of ritonavir.
 Tissue to plasma ratios of approximately 1 measured in rat lymph nodes suggests that ritonavir distributes into lymphatic tissues.

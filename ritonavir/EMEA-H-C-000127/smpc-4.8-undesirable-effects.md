@@ -27,6 +27,7 @@ Cause and effect relationship has not been established.
 
 Dehydration usually associated with gastrointestinal symptoms, and sometimes resulting in hypotension, syncope, or renal insufficiency has been reported.
 Syncope, orthostatic hypotension and renal insufficiency have also been reported without known dehydration.
+
 Hepatic transaminase elevations exceeding five times the upper limit or normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
 
 Combination antiretroviral therapy, including regimens containing a protease inhibitor, is associated with redistribution of body fat in some patients, including loss of peripheral subcutaneous fat, increased intra-abdominal fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
@@ -44,7 +45,6 @@ Clinical chemistry:
 High gamma-glutamyl transpeptidase (GGT) (12 %); frequently high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); occasionally high aspartate transaminase (SGOT), high amylase, high uric acid, low potassium, high glucose, low total calcium, high magnesium, high total bilirubin, high alkaline phosphatase.
 
 Hypertriglyceridaemia, hypercholesterolaemia and hyperuricaemia were clearly related to ritonavir therapy.
-
 Haematology:
 
 Low white blood cell (WBC) (16 %); occasionally low haemoglobin, low neutrophils, high eosinophils, high WBC, high neutrophils, high prothrombin time.

@@ -1,3 +1,3 @@
 # 3. PHARMACEUTICAL FORM
 
-Soft capsule.
+Oral solution.
