@@ -11,10 +11,10 @@ The incidence of severe cases was 1.4% for clopidogrel and 1.6% for ASA.
 In patients that received clopidogrel, gastrointestinal bleeding occurred at a rate of 2.0%, and required hospitalisation in 0.7%.
 In patients that received ASA, the corresponding rates were 2.7% and 1.1%, respectively.
 The incidence of other bleeding was higher in patients that received clopidogrel compared to ASA (7.3% vs. 6.5%).
-However, the incidence of severe events was similar in both treatment groups
-(0.6% vs. 0.4%).
+However, the incidence of severe events was similar in both treatment groups (0.6% vs. 0.4%).
 The most frequently reported events in both treatment groups were: purpura/bruising/haematoma, and epistaxis.
 Other less frequently reported events were haematoma, haematuria, and eye bleeding (mainly conjunctival).
+
 The incidence of intracranial bleeding was 0.4% in patients that received clopidogrel and 0.5% for patients that received ASA .
 
 Haematological: severe neutropaenia (<0.45 x 109/l) was observed in 4 patients (0.04%) that received clopidogrel and 2 patients (0.02%) that received ASA.
@@ -28,7 +28,6 @@ In addition, the number of events resulting in early permanent discontinuation w
 However, the incidence of adverse events judged as clinically severe were not statistically different in the groups (3.0% vs. 3.6%).
 The most frequently reported events in both treatment groups were: abdominal pain, dyspepsia, diarrhoea, and nausea.
 Other less frequently reported events were constipation, tooth disorder, vomiting, flatulence and gastritis.
-
 Cases of diarrhoea were reported at a significantly higher frequency in patients taking clopidogrel compared to ASA (4.5% vs. 3.4%).
 The incidence of severe diarrhoea was similar in both treatment groups (0.2% vs. 0.1%).
 The incidence of peptic, gastric or duodenal ulcers was 0.7% for clopidogrel and 1.2% for ASA.
@@ -43,5 +42,7 @@ Central and peripheral nervous system disorders : the overall incidence of centr
 
 Hepatic and biliary disorders : the overall incidence of hepatic and biliary disorders was similar in patients treated with clopidogrel compared to ASA (3.5% vs. 3.4%).
 
-The post-marketing experience confirms the safety profile defined during the clinical development ; hypesensitivity reactions have been reported : these mainly include skin reactions (maculopapular or erythematous rash, urticaria...) and/or pruritus.
+Post-marketing experience : The post-marketing experience confirms the safety profile defined during the clinical development ; hypersensitivity reactions have been reported : these mainly include skin reactions (maculopapular or erythematous rash, urticaria....) and/or pruritus.
 Very rare cases of bronchospasm, angioedema or anaphylactoid reactions have been observed.
+
+As part of the marketing experience, very rare cases of Thrombotic Thrombocytopenic Purpura (TTP) (1/200.000 exposed patients) have been reported.

@@ -1,7 +1,8 @@
 # 4.4 Special warnings and special precautions for use
 
 In patients with acute myocardial infarction, clopidogrel therapy should not be initiated within the first few days following myocardial infarction.
-In view of the lack of data, clopidogrel can not be recommended in unstable angina, PTCA (stenting), CABG and acute ischaemic stroke (less than 7 days).
+
+In view of the lack of data, clopidogrel cannot be recommended in unstable angina, PTCA (stenting), CABG and acute ischaemic stroke (less than 7 days).
 
 As with other anti-platelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions.
 If a patient is to undergo elective surgery and an antiplatelet effect is not desired, clopidogrel should be discontinued 7 days prior to surgery.
