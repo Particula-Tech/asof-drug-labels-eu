@@ -13,7 +13,6 @@ There have been cases of cardiac failure reported from the market when pioglitaz
 Therefore pioglitazone is contraindicated in combination with insulin.
 There also have been cases of cardiac failure reported from the market when pioglitazone was used in patients with a history of cardiac failure.
 Since NSAIDs and pioglitazone are associated with fluid retention, concomitant administration may increase the risk of oedema.
-
 Monitoring of liver function:
 
 There have been rare reports of hepatocellular dysfunction during post-marketing experience.

@@ -18,6 +18,7 @@ The current sulphonylurea dose can be continued upon initiation of pioglitazone 
 If patients report hypoglycaemia, the dose of sulphonylurea should be decreased.
 
 Elderly:
+
 No dosage adjustment is necessary for elderly patients (see section 5.2).
 
 Patients with renal impairment:

@@ -17,7 +17,7 @@ Central and peripheral nervous system
 
 Common: headache
 
-Vision orders
+Vision disorders
 
 Common: vision abnormal
 
@@ -26,7 +26,6 @@ Gastrointestinal system
 Uncommon: flatulence
 
 Musculoskeletal system
-
 Common: arthralgia
 
 Urinary system
@@ -38,6 +37,7 @@ Reproductive disorders
 Common: impotence
 
 PIOGLITAZONE IN COMBINATION WITH SULPHONYLUREA
+
 Metabolism and nutritional
 
 Common: weight increase

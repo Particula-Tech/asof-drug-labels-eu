@@ -12,6 +12,7 @@ Absolute bioavailability is greater than 80 %.
 Distribution:
 
 The estimated volume of distribution in humans is 0.25 l/kg.
+
 Pioglitazone and all active metabolites are extensively bound to plasma protein (> 99 %).
 
 Metabolism:
@@ -37,7 +38,6 @@ The mean plasma elimination half-life of unchanged pioglitazone in man is 5 to 6
 Elderly:
 
 Steady state pharmacokinetics are similar in patients age 65 and over and young subjects.
-
 Patients with renal impairment:
 
 In patients with renal impairment, plasma concentrations of pioglitazone and its metabolites are lower than those seen in subjects with normal renal function, but oral clearance of parent substance is similar.
