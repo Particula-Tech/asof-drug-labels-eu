@@ -62,13 +62,13 @@ Multicenter Study 40 13 66%
 
 Months
 
-Cytogenetic confirmation of conversion to a normal genotype and Reverse Transcriptase – Polymerase Chain Reaction (RT-PCR) detection of PML/RAR� conversion to normal are shown in the table below.
+Cytogenetic confirmation of conversion to a normal genotype and Reverse Transcriptase - Polymerase Chain Reaction (RT-PCR) detection of PML/RARα conversion to normal are shown in the table below.
 Cytogenetics after TRISENOX therapy
 
 |  | Single Centre Pilot Trial N with CR = 11 | Multicentre Trial N with CR = 34 |
 | --- | --- | --- |
 | Conventional Cytogenetics [t(15;17)] Absent Present Not evaluable | 8 (73%) 1 (9%) 2 (18%) | 31 (91%) 0% 3 (9%) |
-| RT-PCR for PML/ RAR� Negative Positive Not evaluable | 8 (73%) 3 (27%) 0 | 27 (79%) 4 (12%) 3 (9%) |
+| RT-PCR for PML/ RARα Negative Positive Not evaluable | 8 (73%) 3 (27%) 0 | 27 (79%) 4 (12%) 3 (9%) |
 
 Responses were seen across all age groups tested, ranging from 6 to 75 years.
 The response rate was similar for both genders.

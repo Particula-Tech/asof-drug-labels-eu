@@ -1,3 +1,3 @@
 # 6.1 List of excipients
 
-sodium hydroxide hydrochloric acid as Ph adjuster water for injections
+sodium hydroxide hydrochloric acid as pH adjuster water for injections
