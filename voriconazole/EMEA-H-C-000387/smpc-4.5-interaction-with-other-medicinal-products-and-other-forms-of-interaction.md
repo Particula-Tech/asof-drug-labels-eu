@@ -30,7 +30,6 @@ Ranitidine (increases gastric pH): Ranitidine (150 mg twice daily) had no signif
 Macrolide antibiotics: Erythromycin (CYP3A4 inhibitor; 1g twice daily) and azithromycin (500 mg once daily) had no significant effect on voriconazole Cmax and AUCτ.
 
 Effects of voriconazole on other medicinal products
-
 Voriconazole inhibits the activity of cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
 Therefore there is potential for voriconazole to increase the plasma levels of substances metabolised by these CYP450 isoenzymes.
 
@@ -74,6 +73,7 @@ Vinca Alkaloids (CYP3A4 substrates): Although not studied, voriconazole may incr
 
 Prednisolone (CYP3A4 substrate): Voriconazole increased Cmax and AUCτ of prednisolone (60 mg single dose) by 11 % and 34 %, respectively.
 No dosage adjustment is recommended.
+
 Digoxin (P-glycoprotein mediated transport): Voriconazole had no significant effect on Cmax and AUCτ of digoxin (0.25 mg once daily).
 
 Mycophenolic acid (UDP-glucuronyl transferase substrate): Voriconazole had no effect on the Cmax and AUCt of mycophenolic acid (1 g single dose).
@@ -105,14 +105,21 @@ The metabolism of other proton pump inhibitors which are CYP2C19 substrates may 
 Indinavir (CYP3A4 inhibitor and substrate): Indinavir (800 mg three times daily) had no significant effect on voriconazole Cmax , Cmin and AUCτ.
 Voriconazole did not have a significant effect on Cmax and AUCτ of indinavir (800 mg three times daily).
 
+Efavirenz (a non-nucleoside reverse transcriptase inhibitor (CYP450 inducer; CYP3A4 inhibitor and substrate): Steady-state efavirenz (400mg orally once daily) decreased the steady state Cmax and AUCτ of voriconazole by an average of 61% and 77%, respectively, in healthy subjects.
+In the same study voriconazole at steady state increased the steady state Cmax and AUCτ of efavirenz by an average of 38% and 44% respectively, in healthy subjects.
+Coadministration of voriconazole and efavirenz is contraindicated (see section 4.3).
+
 Other HIV protease inhibitors (CYP3A4 inhibitors): In vitro studies suggest that voriconazole may inhibit the metabolism of HIV protease inhibitors (e.g. saquinavir, amprenavir and nelfinavir).
 In vitro studies also show that the metabolism of voriconazole may be inhibited by HIV protease inhibitors.
 However results of the combination of voriconazole with other HIV protease inhibitors cannot be predicted in humans only from in vitro studies.
 Patients should be carefully monitored for any occurrence of drug toxicity and/or loss of efficacy during the co-administration of voriconazole and HIV protease inhibitors.
-Non-nucleoside reverse transcriptase inhibitors (NNRTI) (CYP3A4 substrates, inhibitors or CYP450 inducers): In vitro studies show that the metabolism of voriconazole may be inhibited by delavirdine and efavirenz.
-Although not studied, the metabolism of voriconazole may be induced by efavirenz and nevirapine.
-Voriconazole may also inhibit the metabolism of NNRTIs.
-Due to the lack of in vivo studies, patients should be carefully monitored for any occurrence of drug toxicity and/or lack of efficacy during the coadministration of voriconazole and NNRTIs.
+
+Non-nucleoside reverse transcriptase inhibitors (NNRTI) (CYP3A4 substrates, inhibitors or CYP450 inducers): In vitro studies show that the metabolism of voriconazole may be inhibited by delavirdine.
+Although not studied, the metabolism of voriconazole may be induced by nevirapine.
+An in-vivo study showed that voriconazole inhibited the metabolism of efavirenz.
+Voriconazole may also inhibit the metabolism of NNRTIs besides efavirenz.
+Patients should be carefully monitored for any occurrence of drug toxicity and/or lack of efficacy during the coadministration of voriconazole and NNRTIs.
+Coadministration of voriconazole with efavirenz is contraindicated (see section 4.3)
 
 Voriconazole should be administered with caution in patients with concomitant medication that is known to prolong QT interval.
 When there is also a potential for voriconazole to increase the plasma levels of substances metabolised by CYP3A4 isoenzymes (certain antihistamines, quinidine, cisapride, pimozide) co-administration is contraindicated.

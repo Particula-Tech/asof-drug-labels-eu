@@ -15,7 +15,6 @@ Voriconazole is rapidly and almost completely absorbed following oral administra
 The absolute bioavailability of voriconazole after oral administration is estimated to be 96 %.
 When multiple doses of voriconazole are administered with high fat meals, Cmax and AUCτ are reduced by 34 % and 24 %, respectively.
 The absorption of voriconazole is not affected by changes in gastric pH.
-
 Distribution
 The volume of distribution at steady state for voriconazole is estimated to be 4.6 l/kg, suggesting extensive distribution into tissues.
 Plasma protein binding is estimated to be 58 %.
@@ -38,6 +37,7 @@ This metabolite has minimal antifungal activity and does not contribute to the o
 
 Excretion
 Voriconazole is eliminated via hepatic metabolism with less than 2 % of the dose excreted unchanged in the urine.
+
 After administration of a radiolabelled dose of voriconazole, approximately 80 % of the radioactivity is recovered in the urine after multiple intravenous dosing and 83 % in the urine after multiple oral dosing.
 The majority (> 94 %) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
 
@@ -55,7 +55,6 @@ Pharmacokinetics in special patient groups
 Gender
 In an oral multiple dose study, Cmax and AUCτ for healthy young females were 83 % and 113 % higher, respectively, than in healthy young males (18-45 years).
 In the same study, no significant differences in Cmax and AUCτ were observed between healthy elderly males and healthy elderly females (≥ 65 years).
-
 In the clinical programme, no dosage adjustment was made on the basis of gender.
 The safety profile and plasma concentrations observed in male and female patients were similar.
 Therefore, no dosage adjustment based on gender is necessary.
@@ -99,7 +98,6 @@ In patients with moderate to severe renal dysfunction (serum creatinine levels >
 During oral administration of 200mg or 300mg twice daily for 14 days in patients at risk of aspergillosis (mainly patients with malignant neoplasms of lymphatic or haematopoietic tissue), the observed pharmacokinetic characteristics of rapid and consistent absorption, accumulation and non-linear pharmacokinetics were in agreement with those observed in healthy subjects.
 
 It is estimated that, on average, increasing the oral dose from 200mg twice daily to 300mg twice daily leads to a 2.5-fold increase in exposure (AUCτ).
-
 Bioequivalence was established between the 200mg tablet and the 40mg/ml oral suspension when administered as a 200mg dose.
 When multiple doses of voriconazole oral suspension are administered with high fat meals, Cmax and AUCτ are reduced by 58% and 37% respectively.
 
@@ -108,6 +106,7 @@ The volume of distribution at steady state for voriconazole is estimated to be 4
 In 10 therapeutic studies, the median for the average and maximum plasma concentrations in individual subjects across the studies was 2425ng/ml (inter-quartile range 1193 to 4380ng/ml) and 3742ng/ml (inter-quartile range 2027 to 6302ng/ml), respectively.
 
 The safety profile of voriconazole in young and elderly patients was similar and, therefore, no dosage adjustment is necessary for the elderly (See Section 4.2).
+
 Twenty-four of these subjects received multiple doses of voriconazole.
 Average steady state plasma concentrations in children receiving a maintenance dose of 4mg/kg every 12 hours were similar to those in adults receiving 3mg/kg every 12hours, with medians of 1186ng /ml in children and 1155ng /ml in adults.
 Therefore a maintenance dose of 4mg/kg every 12 hours is recommended for children aged between 2 to <12 years of age (See Section 4.2).
