@@ -1,7 +1,6 @@
 # 4.6 Pregnancy and lactation
 
 Pregnancy: Aprovel is contraindicated during pregnancy.
-
 Although there is no experience with Aprovel in pregnant women, in utero exposure to ACE inhibitors given to pregnant women during the second and third trimesters has been reported to cause injury and death to the developing foetus.
 
 As for any drug that also acts directly on the renin-angiotensin-aldosterone system, Aprovel should not be used during pregnancy.

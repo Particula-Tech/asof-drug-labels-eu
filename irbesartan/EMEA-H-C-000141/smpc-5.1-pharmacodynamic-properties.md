@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmaco-therapeutic group: Angiotensin-II antagonists, ATC code C09C A.
+Pharmaco-therapeutic group: Angiotensin-II antagonists, ATC code C09C A04.
 
 Irbesartan is a potent, orally active, selective angiotensin-II receptor (type AT1) antagonist.
 It is expected to block all actions of angiotensin-II mediated by the AT1 receptor, regardless of the source or route of synthesis of angiotensin-II.

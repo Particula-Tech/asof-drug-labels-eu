@@ -43,4 +43,4 @@ Although significant increases in plasma creatine kinase occurred more frequentl
 No special monitoring of laboratory parameters is necessary for patients with essential hypertension receiving therapy with Aprovel, when the renal function is normal (see 4.4).
 
 Post-marketing experience: as with other angiotensin-II receptor antagonists, rare cases of hypersensitivity reactions (rash, urticaria, angioedema) have been reported.
-The following have also been reported very rarely during post-marketing surveillance: asthenia, diarrhoea, dizziness, dyspepsia, headache, hyperkalemia, myalgia, nausea, and tachycardia.
+The following have also been reported very rarely during post-marketing surveillance: asthenia, diarrhoea, dizziness, dyspepsia, headache, hyperkalemia, myalgia, nausea, tachycardia, liver function abnormalities, including hepatitis and impaired renal function including isolated cases of renal failure in patients at risk (see 4.4).
