@@ -8,7 +8,6 @@ Other medicinal products may reduce the blood glucose lowering effect and increa
 Adjustment of the insulin dose may also become necessary in such cases.
 These medicinal products include:
 ACTH (corticotrophin); barbiturates; corticosteroids; danazol; diazoxide; diuretics; doxazosin; epinephrine (adrenaline), salbutamol, terbutaline and other sympathomimetic agents; glucagon; heparin; isoniazid; laxatives (including phenolphthalein) after prolonged use (due to a decrease in serum potassium levels); nicotinic acid in high doses; oestrogens and progestogens; phenothiazines; phenytoin; prazosin; somatropin; thyroid hormones.
-
 Clonidine, reserpine and lithium salts may either potentiate or weaken the blood glucose lowering effect of insulin.
 Pentamidine may cause hypoglycaemia which may sometimes be followed by hyperglycaemia.
 
@@ -21,66 +20,18 @@ Alcohol may cause an increase in blood glucose levels.
 Large amounts of alcohol may, in addition, impair gluconeogenesis and thus increase the risk of hypoglycaemia.
 The carbohydrate content of alcoholic beverages must also be taken into consideration.
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Rapid 40 IU/ml solution for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
 (all sentences already above)
 
-[Insuman Basal 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a vial]
-
-ACTH (corticotrophin); barbiturates; corticosteroids; danazol; diazoxide; diuretics; doxazosin; epinephrine (adrenaline), salbutamol, terbutaline and other sympathomimetic agents; glucagon; heparin; isoniazid; laxatives including phenolphthalein after prolonged use (due to a decrease in serum potassium levels); nicotinic acid in high doses; oestrogens and progestogens; phenothiazines; phenytoin; prazosin; somatropin; thyroid hormones.
-
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
 
-(all sentences already above)
-
-[Insuman Comb 15 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
+ACTH (corticotrophin); barbiturates; corticosteroids; danazol; diazoxide; diuretics; doxazosin; epinephrine (adrenaline), salbutamol, terbutaline and other sympathomimetic agents; glucagon; heparin; isoniazid; laxatives including phenolphthalein after prolonged use (due to a decrease in serum potassium levels); nicotinic acid in high doses; oestrogens and progestogens; phenothiazines; phenytoin; prazosin; somatropin; thyroid hormones.
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
 
 Pentamidine may cause hypoglycaemia which may sometimes befollowed by hyperglycaemia.
 
-[Insuman Comb 25 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 50 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Infusat 100 IU/ml solution for injection in a vial.]
-
-(all sentences already above)
-
-[Insuman Infusat 100 IU/ml solution for injection in a cartridge.]
 
 (all sentences already above)

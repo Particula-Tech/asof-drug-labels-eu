@@ -28,73 +28,8 @@ They may be accompanied, for example, by generalised skin reactions, angioedema,
 If such reactions occur, a change in the insulin preparation or desensitisation is required (see also under 4.3).
 
 Other reactions
+
 Insulin administration may cause insulin antibodies to form.
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyperglycaemia or hypoglycaemia.
 Insulin may cause sodium retention and oedema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
 As a consequence of relatively marked acute lowering of blood glucose (e.g. in treatment of ketoacidosis or a hyperglycaemic-hyperosmolar condition) hypokalaemia (with e.g. cardiac complications) or cerebral oedema may develop.
-
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Rapid 40 IU/ml solution for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge]
-
-Generalised immediate-type hypersensitivity reactions to insulin or any of the excipients are
-
-very rare.
-
-[Insuman Basal 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 15 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 25 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 50 40 IU/ml suspension for injection in a vial]
-
-(all sentences already above)
-
-[Insuman Infusat 100 IU/ml solution for injection in a vial.]
-
-(all sentences already above)
-
-[Insuman Infusat 100 IU/ml solution for injection in a cartridge.]
-
-(all sentences already above)
