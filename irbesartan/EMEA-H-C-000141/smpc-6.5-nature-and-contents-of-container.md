@@ -1,4 +1,12 @@
 # 6.5 Nature and contents of container
 
-Aprovel tablets are packaged in blister packs containing 14, 28, 56 or 98 tablets in PVC/PVDC/Aluminium strips.
+14 tablets
+28 tablets
+56 tablets
+98 tablets
+PVC/PVDC/Aluminium blisters
+
+56 x 1 tablets
+PVC/PVDC/Aluminium perforated unit dose blisters
+
 Not all pack sizes may be marketed.
