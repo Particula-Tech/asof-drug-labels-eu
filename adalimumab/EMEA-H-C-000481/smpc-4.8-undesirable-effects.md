@@ -1,5 +1,7 @@
 # 4.8 Undesirable effects
 
+Clinical Trials
+
 Humira was studied in 2334 patients in placebo-controlled trials and in long term follow-up studies, including 2073 patients exposed for six months and 1497 patients exposed for greater than one year.
 The data in the table is based on the adequate and well-controlled studies I, II, III and IV (see 5.1) involving 1380 patients receiving adalimumab during the placebo-controlled period by randomised treatment.
 The population had a mean age of 54.5 years, 77% were female, 91% were Caucasian and had moderate to severely active rheumatoid arthritis.
@@ -8,6 +10,7 @@ Most patients received 40 mg Humira every other week.
 The proportion of patients who discontinued treatment due to adverse events during the double-blind, placebo controlled portion of Studies I, II, III and IV was 6.6% for patients taking Humira and 4.2% for placebo-treated patients.
 
 Adverse events at least possibly causally-related to adalimumab, both clinical and laboratory, are displayed by system organ class and frequency (very common > 1/10; common > 1/100 ≤ /10; uncommon > 1/1000 ≤ 1/100) in Table 1 below.
+
 Table 1
 Undesirable Effects in Clinical Studies
 
@@ -64,15 +67,17 @@ In the adequate and well-controlled trials, 12.6% of patients treated with Humir
 One patient out of 2334 treated with Humira developed clinical signs suggestive of new-onset lupus-like syndrome.
 The patient improved following discontinuation of therapy.
 No patients developed lupus nephritis or central nervous system symptoms.
+Additional Adverse Reactions from Postmarketing Surveillance or Phase IV Clinical Trials
+
+Anaphylaxis has been reported very rarely.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
 Adverse events at least possibly causally-related to adalimumab, both clinical and laboratory, are displayed by system organ class and frequency (very common > 1/10; common > 1/100 ≤ 1/10; uncommon > 1/1000 ≤ 1/100) in Table 1 below.
 
-Body system Frequency Adverse events
-
-| Neoplasia | Uncommon | Skin benign neoplasm |
+| Body system | Frequency | Adverse events |
 | --- | --- | --- |
+| Neoplasia | Uncommon | Skin benign neoplasm |
 | Haemic and Lymphatic system | Common | Decreased haemoglobin |
 |  | Uncommon | Granulocytopenia, coagulation time increased, antinuclear antibody present, leukopenia, lymphadenopathy, lymphocytosis, platelet count decreased, purpura |
 | Metabolic and Nutritional Disorders | Common | Hyperlipidaemia |
@@ -92,13 +97,15 @@ Body system Frequency Adverse events
 | Musculo-skeletal System | Uncommon | Arthralgia, muscle cramps, myalgia, joint disorder, synovitis, tendon disorder* |
 | Urogenital System | Common | Urinary tract infection |
 |  | Uncommon | Vaginal moniliasis, haematuria, cystitis, menorrhagia, proteinuria, increased urinary frequency |
-| Body as a whole | Common | Laboratory test abnormal, asthenia, clinical flare |
-|  | Uncommon | reaction, flu syndrome, abdominal pain, infection Fever, mucous membrane disorder*, pain in extremity, face oedema, back pain, cellulitis, chills, sepsis, surgery |
+| Body as a whole | Common | Laboratory test abnormal, asthenia, clinical flare reaction, flu syndrome, abdominal pain, infection |
+|  | Uncommon | Fever, mucous membrane disorder*, pain in extremity, face oedema, back pain, cellulitis, chills, sepsis, surgery |
 | Injection Site Reaction | Very common | Injection site pain |
 |  | Common | Injection site reaction, injection site haemorrhage, injection site eruption |
 | Hypersensitivity, general | Uncommon | Allergic reaction |
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
+
+Clincial Trials
 
 | Body system | Frequency | Adverse events |
 | --- | --- | --- |

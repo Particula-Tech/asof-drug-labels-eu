@@ -37,6 +37,7 @@ Allergic reactions
 
 Serious allergic adverse reactions have not been reported with subcutaneous administration of Humira during clinical trials.
 Non-serious allergic reactions associated with Humira were uncommon during clinical trials.
+In postmarketing, serious allergic reactions including anaphylaxis have been reported very rarely following Humira administration.
 If an anaphylactic reaction or other serious allergic reaction occurs, administration of Humira should be discontinued immediately and appropriate therapy initiated.
 
 Immunosuppression
@@ -68,6 +69,13 @@ Concurrent administration of etanercept (another agent that inhibits TNFα) and 
 The safety and efficacy of anakinra used in combination with adalimumab has not been established.
 Therefore, combination of adalimumab and anakinra is not recommended.
 
+Surgery
+
+There is limited safety experience of surgical procedures in patients treated with Humira.
+The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
+A patient who requires surgery while on Humira should be closely monitored for infections, and appropriate actions should be taken.
+There is limited safety experience in patients undergoing arthroplasty while receiving Humira.
+
 [Humira 40 mg solution for injection in pre-filled syringe]
 
 Patients must be monitored closely for infections including tuberculosis, before, during and after treatment with Humira.
@@ -77,6 +85,8 @@ It is recommended that the conduct of these tests should be recorded in the pati
 Humira is contraindicated in moderate or severe heart failure (see 4.3).
 
 Therefore combination of adalimumab and anakinra is not recommended.
+
+The long – half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 

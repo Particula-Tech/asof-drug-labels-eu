@@ -70,15 +70,13 @@ In Study IV, the ACR 20 response of patients treated with Humira plus standard o
 In all four studies, Humira-treated patients achieved statistically significant ACR 20 and 50 responses compared to placebo as early as one to two weeks after initiation of treatment.
 
 Radiographic Response
-
 In Study III, where Humira treated patients had a mean duration of rheumatoid arthritis of approximately 11 years, structural joint damage was assessed radiographically and expressed as change in modified total Sharp score and its components, the erosion score and joint space narrowing score.
 Humira/methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months.
 Data from the open-label extension phase indicate that the reduction in rate of progression of structural damage is maintained through 104 weeks.
 
 | Table 3: Radiographic Mean Changes Over 12 Months in Study III |  |  |  |  |
 | --- | --- | --- | --- | --- |
-|  | Placebo/ MTXa | HUMIRA/MTX 40 mg every other week | Placebo/MTX-HUMIRA/MTX (95% Confidence | P-value |
-|  |  |  | Intervalb) |  |
+|  | Placebo/ MTXa | HUMIRA/MTX 40 mg every other week | Placebo/MTX-HUMIRA/MTX (95% Confidence Intervalb) | P-value |
 | Total Sharp score | 2.7 | 0.1 | 2.6 (1.4, 3.8) | <0.001c |
 | Erosion score | 1.6 | 0.0 | 1.6 (0.9, 2.2) | <0.001 |
 | JSNd score | 1.0 | 0.1 | 0.9 (0.3, 1.4) | 0.002 |
@@ -119,13 +117,6 @@ The results for the 40 mg every other week dose are summarized in Table 2.
 |  | 6.7% 52.4% NA NA | 8.2% 22.1% NA NA | 9.5% 39.1% 9.5 % 41.5 % |
 |  | 3.3% 23.8% NA NA | 1.8% 12.4% NA NA | 2.5% 20.8% 4.5% 23.2% |
 
-| Table 3: Radiographic Mean Changes Over 12 Months in Study III |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Placebo/ MTXa | HUMIRA/MTX 40 mg every other week | Placebo/MTX-HUMIRA/MTX (95% Confidence Intervalb) | P-value |
-| Total Sharp score | 2.7 | 0.1 | 2.6 (1.4, 3.8) | <0.001c |
-| Erosion score | 1.6 | 0.0 | 1.6 (0.9, 2.2) | <0.001 |
-| JSNd score | 1.0 | 0.1 | 0.9 (0.3, 1.4) | 0.002 |
-
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
 Study I evaluated 271 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, had failed therapy with at least one disease-modifying, anti-rheumatic drug and had insufficient efficacy with methotrexate at doses of 12.5 to 25 mg (10 mg if methotrexate-intolerant) every week and whose methotrexate dose remained constant at 10 to 25 mg every week.
@@ -138,11 +129,3 @@ Study I evaluated 271 patients with moderately to severely active rheumatoid art
 | ACR 20 6 months 12 months ACR 50 6 months 12 months ACR 70 6 months 12 months | 13.3% 65.1% NA NA | 19.1% 46.0% NA NA | 29.5 % 63.3% 24.0% 58.9% |
 |  | 6.7% 52.4% NA NA | 8.2% 22.1% NA NA | 9.5% 39.1% 9.5% 41.5% |
 |  | 3.3% 23.8% NA NA | 1.8% 12.4% NA NA | 2.5% 20.8% 4.5% 23.2% |
-
-| Table 3: Radiographic Mean Changes Over 12 Months in Study III |  |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | Placebo/ MTXa | HUMIRA/MTX 40 mg every | Placebo/MTX-HUMIRA/MTX | P-value |
-|  |  | other week | (95% Confidence Intervalb) |  |
-| Total Sharp score | 2.7 | 0.1 | 2.6 (1.4, 3.8) | <0.001c |
-| Erosion score | 1.6 | 0.0 | 1.6 (0.9, 2.2) | <0.001 |
-| JSNd score | 1.0 | 0.1 | 0.9 (0.3, 1.4) | 0.002 |
