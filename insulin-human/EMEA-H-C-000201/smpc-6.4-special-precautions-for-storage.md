@@ -1,26 +1,24 @@
 # 6.4 Special precautions for storage
 
-Store Insuman Rapid away from direct light.
-Store at + 2°C - + 8°C.
+Store Insuman Rapid OptiSet away from direct light.
+Store at + 2°C to + 8°C.
+Do not freeze; ensure that the pen is not directly touching the freezer compartment or freezer packs.
 
-Do not freeze; ensure that the container is not directly touching the freezer compartment or freezer packs.
-In-use storage conditions: Cartridges in use (in the pen) or carried as a spare do not store above + 25°C.
+In-use storage conditions: Do not store pens in use or carried as a spare above + 25°C.
 However, they must be kept away from direct heat or light and must not be stored in a refrigerator.
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection]
 
-Store Insuman Basal away from direct light.
+Store Insuman Basal OptiSet away from direct light.
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
 
-Store Insuman Comb 15 away from direct light.
-Store at+ 2°C - + 8°C.
+Store Insuman Comb 15 OptiSet away from direct light.
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
 
-Store Insuman Comb 25 away from direct light.
-Store at + 2°C and + 8°C.
+Store Insuman Comb 25 OptiSet away from direct light.
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
 
-Store Insuman Comb 50 away from direct light.
+Store Insuman Comb 50 OptiSet away from direct light.

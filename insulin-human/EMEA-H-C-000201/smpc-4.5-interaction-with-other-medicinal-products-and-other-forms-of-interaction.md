@@ -2,12 +2,14 @@
 
 Concomitant administration of certain medicinal products may lead to an increase in the blood glucose lowering effect and susceptibility to hypoglycaemia, and may necessitate dose adjustment.
 These medicinal products include:
-other oral antidiabetic medicinal products (in type II diabetics); ACE inhibitors; acetylsalicylic acid and other salicylates such as para-aminosalicylic acid (especially at higher doses; at toxic dose levels, however, it increases blood glucose); amphetamines; anabolic steroids and male sex hormones; cibenzoline; cyclophosphamide; disopyramide; fenfluramine; fibrates; fluoxetine; guanethidine; ifosfamide; MAO inhibitors; pentoxifylline; perhexiline; phenoxybenzamine; phentolamine; propoxyphene; somatostatin and somatostatin analogues; sulfonamide antibiotics; tetracyclines; tritoqualine; trofosfamide.
 
+other oral antidiabetic medicinal products (in type II diabetics); ACE inhibitors; acetylsalicylic acid and other salicylates such as para-aminosalicylic acid (especially at higher doses; at toxic dose levels, however, it increases blood glucose); amphetamines; anabolic steroids and male sex hormones; cibenzoline; cyclophosphamide; disopyramide; fenfluramine; fibrates; fluoxetine; guanethidine; ifosfamide; MAO inhibitors; pentoxifylline; perhexiline; phenoxybenzamine; phentolamine; propoxyphene; somatostatin and somatostatin analogues; sulfonamide antibiotics; tetracyclines; tritoqualine; trofosfamide.
 Other medicinal products may reduce the blood glucose lowering effect and increase the tendency to hyperglycaemia.
 Adjustment of the insulin dose may also become necessary in such cases.
 These medicinal products include:
+
 ACTH (corticotrophin); barbiturates; corticosteroids; danazol; diazoxide; diuretics; doxazosin; epinephrine (adrenaline), salbutamol, terbutaline and other sympathomimetic agents; glucagon; heparin; isoniazid; laxatives (including phenolphthalein) after prolonged use (due to a decrease in serum potassium levels); nicotinic acid in high doses; oestrogens and progestogens; phenothiazines; phenytoin; prazosin; somatropin; thyroid hormones.
+
 Clonidine, reserpine and lithium salts may either potentiate or weaken the blood glucose lowering effect of insulin.
 Pentamidine may cause hypoglycaemia which may sometimes be followed by hyperglycaemia.
 
@@ -19,19 +21,3 @@ Under the influence of sympatholytic medicinal products such as beta-blockers, c
 Alcohol may cause an increase in blood glucose levels.
 Large amounts of alcohol may, in addition, impair gluconeogenesis and thus increase the risk of hypoglycaemia.
 The carbohydrate content of alcoholic beverages must also be taken into consideration.
-
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
-
-ACTH (corticotrophin); barbiturates; corticosteroids; danazol; diazoxide; diuretics; doxazosin; epinephrine (adrenaline), salbutamol, terbutaline and other sympathomimetic agents; glucagon; heparin; isoniazid; laxatives including phenolphthalein after prolonged use (due to a decrease in serum potassium levels); nicotinic acid in high doses; oestrogens and progestogens; phenothiazines; phenytoin; prazosin; somatropin; thyroid hormones.
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
-
-Pentamidine may cause hypoglycaemia which may sometimes befollowed by hyperglycaemia.
-
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
-
-(all sentences already above)
