@@ -1,6 +1,9 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-BIOGEN IDEC FRANCE
-“Le Capitole”
-55, avenue des Champs Pierreux
-F-92000 Nanterre- France
+BIOGEN IDEC LIMITED
+5 Roxborough Way
+Foundation Park
+Maidenhead
+Berkshire
+SL6 3UD
+United Kingdom

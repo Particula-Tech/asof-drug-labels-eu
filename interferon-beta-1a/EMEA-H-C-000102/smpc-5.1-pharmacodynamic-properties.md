@@ -16,7 +16,7 @@ However, the effects of interferon beta that are dependent on glycosylation are 
 
 AVONEX exerts its biological effects by binding to specific receptors on the surface of human cells.
 This binding initiates a complex cascade of intracellular events that leads to the expression of numerous interferon-induced gene products and markers.
-These include MHC Class I, Mx protein, 2’ / 5’- oligoadenylate synthetase, β2-microglobulin, and neopterin.
+These include MHC Class I, Mx protein, 2’ / 5’-oligoadenylate synthetase, β2-microglobulin, and neopterin.
 Some of these products have been measured in the serum and cellular fractions of blood collected from patients treated with AVONEX.
 After a single IM dose of AVONEX, serum levels of these products remain elevated for at least 4 days and up to 1 week.
 

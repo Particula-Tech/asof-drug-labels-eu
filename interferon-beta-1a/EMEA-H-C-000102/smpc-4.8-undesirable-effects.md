@@ -3,6 +3,7 @@
 The highest incidence of adverse reactions associated with AVONEX therapy is related to flu syndrome.
 The most commonly reported symptoms of the flu syndrome are myalgia, fever, chills, sweating, asthenia, headache and nausea.
 Symptoms of the flu syndrome tend to be most prominent at the initiation of therapy and decrease in frequency with continued treatment.
+
 Transient neurological symptoms that may mimic MS exacerbations may occur following injections.
 Transient episodes of hypertonia and/or severe muscular weakness that prevent voluntary movements may occur at any time during treatment.
 These episodes are of limited duration, temporally related to the injections and may recur after subsequent injections.
@@ -74,7 +75,8 @@ Other adverse reactions identified through spontaneous reporting, with unknown f
 | Respiratory disorders common | rhinorrhoea |
 | rare | dyspnoea, |
 | Gastrointestinal disorders common | vomiting , diarrhoea , nausea* |
-| Skin and subcutaneous tissue disorders common uncommon | rash , sweating increased, contusion alopecia |
+| Skin and subcutaneous tissue disorders common | rash , sweating increased, contusion |
+| uncommon | alopecia |
 | Musculoskeletal, connective tissue and bone disorders common | muscle cramp, neck pain, myalgia*, arthralgia, pain in extremity, back pain muscle stiffness, musculoskeletal stiffness |
 | Reproductive system disorders Uncommon | metrorrhagia, |
 | Uncommon | menorrhagia |
