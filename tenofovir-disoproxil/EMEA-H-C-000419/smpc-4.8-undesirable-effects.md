@@ -9,15 +9,15 @@ These reactions are usually mild to moderate gastrointestinal events.
 The adverse reactions with suspected (at least possible) relationship to treatment are listed below by body system organ class and absolute frequency.
 Frequencies are defined as very common (> 1/10) or common (> 1/100, < 1/10).
 
-Gastrointestinal system:
-Very common: diarrhoea, nausea, vomiting
-Common: flatulence
-
-Metabolism and nutritional system:
+Metabolism and nutrition disorders:
 Very common: hypophosphataemia
 
-Nervous system:
+Nervous system disorders:
 Very common: dizziness
+
+Gastrointestinal disorders:
+Very common: diarrhoea, nausea, vomiting
+Common: flatulence
 
 Approximately 1% of tenofovir disoproxil fumarate treated patients discontinued treatment due to the gastrointestinal events.
 
@@ -28,24 +28,27 @@ Most of these decreases resolved without interruption of treatment, but some pat
 Experience from Post-Marketing Surveillance:
 In addition to adverse reaction reports from clinical trials, the following possible adverse reactions have also been identified during post-approval use of tenofovir disoproxil 245 mg (as fumarate).
 
-Body as a whole:
-Asthenia
-
-Gastrointestinal system:
-Pancreatitis
-
-Metabolism and nutritional system:
+Metabolism and nutrition disorders:
 Lactic acidosis
 
-Respiratory:
+Respiratory, thoracic and mediastinal disorders:
 Dyspnoea
 
-Skin and appendages:
+Gastrointestinal disorders:
+Pancreatitis
+
+Skin and subcutaneous tissue disorders:
 Rash
 
-Urogenital system:
-Increased creatinine, renal insufficiency, renal failure, proximal tubulopathy (including Fanconi syndrome).
+Renal and urinary disorders:
+Renal failure, acute renal failure, proximal tubulopathy (including Fanconi syndrome)
 
-Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia,hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see 4.4).
+General disorders and administration site conditions:
+Asthenia
+
+Investigations:
+Increased creatinine
+
+Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).

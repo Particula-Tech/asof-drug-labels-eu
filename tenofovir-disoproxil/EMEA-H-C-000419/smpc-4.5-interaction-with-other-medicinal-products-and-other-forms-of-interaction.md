@@ -13,8 +13,7 @@ When tenofovir disoproxil fumarate was administered with lopinavir/ritonavir, a 
 When didanosine gastro-resistant capsules were administered 2 hours prior to or concurrently with tenofovir disoproxil fumarate, the AUC for didanosine was on average increased by 48% and 60% respectively.
 The mean increase in the AUC of didanosine was 44% when the buffered tablets were administered 1 hour prior to tenofovir.
 In both cases the pharmacokinetic parameters for tenofovir administered with a light meal were unchanged.
-No recommendation could be drawn at this stage with regard to a specific dosage adjustment when these medicinal products are co-administered
-(see 4.4).
+No recommendation could be drawn at this stage with regard to a specific dosage adjustment when these medicinal products are co-administered (see 4.4).
 
 Other interactions
 Co-administration of tenofovir disoproxil fumarate and methadone or the hormonal contraceptive norgestimate/ethinyl oestradiol did not result in any pharmacokinetic interaction.
