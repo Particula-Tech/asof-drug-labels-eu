@@ -1,0 +1,16 @@
+{
+  "active_substance": "Deferiprone",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000236",
+  "eu_number": "EU/1/99/108",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "1999-08-25",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ferriprox",
+  "molecule": "deferiprone",
+  "molecule_name": "DEFERIPRONE",
+  "name": "Ferriprox",
+  "register_name": "Ferriprox",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h108.htm"
+}
