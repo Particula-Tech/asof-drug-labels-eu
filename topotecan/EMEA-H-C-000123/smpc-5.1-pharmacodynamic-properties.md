@@ -16,7 +16,7 @@ In patients refractory to, or relapsing within 3 months after cisplatin therapy 
 These data should be evaluated in the context of the overall safety profile of the drug, in particular to the important haematological toxicity (see section 4.8 Undesirable effects).
 
 A supplementary retrospective analysis was conducted on data from 523 patients with relapsed ovarian cancer.
-Altogether, 87 complete and partial responses were observed, with 13 of these occurring during cycles 5 and 6 and 3 occurring thereafter.
+Altogether, 87 complete and partial responses were observed, with 13 of these occuring during cycles 5 and 6 and 3 occuring thereafter.
 For patients administered more than 6 cycles of therapy, 91 % completed the study as planned or were treated until disease progression with only 3 % withdrawn for adverse events.
 
 [HYCAMTIN 4 mg powder for solution for infusion]

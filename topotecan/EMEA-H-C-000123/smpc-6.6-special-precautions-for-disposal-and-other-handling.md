@@ -3,7 +3,6 @@
 HYCAMTIN 1 mg vials must be reconstituted with 1.1 ml water for injections.
 Since HYCAMTIN contains a 10 % overage, the reconstituted solutions provide 1 mg per ml of topotecan.
 Further dilution of the appropriate volume of the reconstituted solution with either 0.9 % w/v sodium chloride intravenous infusion or 5 % w/v glucose intravenous infusion is required to a final concentration of between 25 and 50 microgram/ml.
-
 The normal procedures for proper handling and disposal of anticancer drugs should be adopted, namely:
 − Personnel should be trained to reconstitute the drug.
 − Pregnant staff should be excluded from working with this drug.

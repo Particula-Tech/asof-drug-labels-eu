@@ -16,9 +16,10 @@ Topotecan should not be re-administered unless the neutrophil count is ≥ 1 x 1
 
 Patients who experience severe neutropenia (neutrophil count < 0.5 x 109/l) for 7 days or more, or severe neutropenia associated with fever or infection, or who have had treatment delayed due to neutropenia, should be treated as follows:
 
-either be given a reduced dose i.e. 1.25 mg/m2/day (or subsequently down to 1.0 mg/m2/day if necessary) or be given G-CSF prophylactically in subsequent courses to maintain dose intensity, starting from day 6 of the course (the day after completion of topotecan administration).
-If neutropenia is not adequately managed with G-CSF administration, doses should be reduced.
+either be given a reduced dose i.e. 1.25 mg/m2/day (or subsequently down to 1.0 mg/m2/day if necessary)
 
+or be given G-CSF prophylactically in subsequent courses to maintain dose intensity, starting from day 6 of the course (the day after completion of topotecan administration).
+If neutropenia is not adequately managed with G-CSF administration, doses should be reduced.
 Doses should be similarly reduced if the platelet count falls below 25 x 109/l.
 In clinical trials, topotecan was discontinued if the dose had been reduced to 1.0 mg/m2 and a further dose reduction was required to manage adverse effects.
 

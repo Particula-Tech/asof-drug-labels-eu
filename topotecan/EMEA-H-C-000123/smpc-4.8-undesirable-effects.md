@@ -1,13 +1,11 @@
 # 4.8 Undesirable effects
 
 Introduction
-
 In dose-finding trials, the dose limiting toxicity was found to be haematological.
 Toxicity was predictable and reversible.
 There were no signs of cumulative haematological or non-haematological toxicity in an analysis of data derived from 523 patients with recurrent ovarian carcinoma, where 152 patients received more than 6 cycles of treatment and 46 patients received more than 10 cycles.
 
 Haematological
-
 Neutropenia: Severe (neutrophil count <0.5 x 109/l) during course 1 was seen in 60 % of the patients and with duration ≥ 7 days in 20 % and overall in 79 % of patients (42 % of courses).
 In association with severe neutropenia, fever or infection occurred in 16 % of patients during course 1 and overall in 21 % of patients (7 % of courses).
 Median time to onset of severe neutropenia was 9 days and the median duration was 7 days.
@@ -34,12 +32,12 @@ Severe (grade 3 or 4) fatigue and asthenia incidence was 4 and 2 % respectively.
 Total or pronounced alopecia was observed in 42 % of patients and partial alopecia in 17 % of patients.
 
 Other severe events occurring in ≥ 1 % patients that were recorded as related or possibly related to topotecan treatment were anorexia (1 %), malaise (1 %) and hyperbilirubinaemia (1 %).
-Severe hypersensitivity reactions have been reported rarely.
-Rash was reported in 12.4 % of patients and pruritis in 2.7 % of patients.
+
+Hypersensitivity reactions including rash, urticaria, angioedema and anaphylactic reactions have been reported rarely.
+In clinical trials, rash was reported in 12.4 % of patients and pruritis in 2.7 % of patients.
 
 Extravasation has been reported rarely.
 Reactions have been mild and have not generally required specific therapy.
-No evidence of significant cardiotoxicity, neurotoxicity or major organ toxicity was observed with topotecan.
 
 [HYCAMTIN 4 mg powder for solution for infusion]
 
