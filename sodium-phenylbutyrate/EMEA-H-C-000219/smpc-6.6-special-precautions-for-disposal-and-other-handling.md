@@ -9,5 +9,4 @@ This will give the following doses: small measure 0.95 g, middle size measure 2.
 
 Where a patient requires administration by tube, it is possible to re-constitute AMMONAPS in water prior to use (solubility for sodium phenylbutyrate is up to 5 g in 10 ml water).
 Please note that the re-constituted granules will normally produce a milky white suspension.
-
 Where AMMONAPS granules need to be added to food, liquid or water, it is important that it is taken immediately after mixing.

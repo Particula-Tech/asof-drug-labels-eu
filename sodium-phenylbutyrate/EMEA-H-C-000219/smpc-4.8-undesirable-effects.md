@@ -8,7 +8,7 @@ Frequency is defined as: very common i.e. >10%, common i.e. 1-10% and uncommon i
 
 | Blood and lymphatic system disorders | Common: Anaemia, leukopenia, leukocytosis, thrombocytopenia, thrombocythaemia Uncommon: Aplastic anaemia, ecchymosis |
 | --- | --- |
-| Metabolism and nutrition disorders | Common: Appetite decreased, acidosis, alkalosis |
+| Metabolism and nutrition disorders | Common: Appetite decreased, metabolic acidosis, alkalosis |
 | Psychiatric disorders | Common: Depression |
 | Nervous system disorders | Common: Headache, syncope |
 | Cardiac disorders | Common: Oedema Uncommon: Arrhythmia |
@@ -17,3 +17,6 @@ Frequency is defined as: very common i.e. >10%, common i.e. 1-10% and uncommon i
 | Renal and urinary disorders | Common: Renal tubular acidosis |
 | Reproductive system and breast disorders | Very common: Amenorrhoea, menstruation irregular |
 | Investigations | Common: Weight increased, blood alkaline phosphatase, transaminases, bilirubin, uric acid, chloride, phosphate and sodium increased, blood albumin, total protein, phosphate and potassium decreased |
+
+A probable case of toxic reaction to AMMONAPS (450 mg/kg/d) was reported in a 18-year old anorectic female patient who developed a metabolic encephalopathy associated with lactic acidosis, severe hypokalaemia, pancytopaenia, peripheral neuropathy, and pancreatitis.
+She recovered following dose reduction except for recurrent pancreatitis episodes that eventually prompted treatment discontinuation.

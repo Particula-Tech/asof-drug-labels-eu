@@ -23,7 +23,6 @@ The majority of these patients tested had IQ’s in the average to low average/b
 Even on therapy, acute hyperammonaemic encephalopathy recurred in the majority of patients (71 %).
 
 Reversal of pre-existing neurologic impairment is not likely to occur with treatment, and neurologic deterioration may continue in some patients.
-
 AMMONAPS may be required life-long unless orthotopic liver transplantation is elected.
 
 [AMMONAPS 940 mg/g granules]
