@@ -1,193 +1,114 @@
 # 4.8 Undesirable effects
 
-The following undesirable effects cover adverse events from clinical trials:
+The following undesirable effects cover adverse drug reactions from clinical trials:
 
-The principal adverse events associated with the administration of CellCept in combination with cyclosporin and corticosteroids include diarrhoea, leucopenia, sepsis and vomiting and there is evidence of a higher frequency of certain types of infections (See section 4.4 Special warnings and special precautions for use).
+The principal adverse drug reactions associated with the administration of CellCept in combination with cyclosporin and corticosteroids include diarrhoea, leucopenia, sepsis and vomiting and there is evidence of a higher frequency of certain types of infections (see section 4.4 Special warnings and special precautions for use).
 
-As in patients receiving immunosuppressive regimes involving combinations of drugs, patients receiving CellCept as part of an immunosuppressive regime are at increased risk of developing lymphomas and other malignancies, particularly of the skin (See section 4.4 Special warnings and special precautions for use).
-Within 3 years post-transplant, lymphoproliferative disease or lymphoma developed in patients receiving CellCept in immunosuppressive regimens in 1.6 % of the patients receiving 3 g daily and 0.6 % in patients receiving 2 g daily in the controlled studies of prevention of renal rejection compared to the placebo (0 %) and azathioprine groups (0.6 %).
-In cardiac transplant patients, the incidence of lymphoproliferative disease was 0.7 % in patients receiving CellCept 3 g daily compared to patients receiving azathioprine (2.1 %).
-The incidence of non-melanoma skin cancer in cardiac transplant patients treated with CellCept 3 g per day was 5.5 % compared to patients treated with azathioprine (6.9 %).
-Cardiac transplant patients had been followed for a maximum of 3 years with 26 % of these followed for less than a year and 34 % followed for greater than 2 years.
-All patients are at increased risk of opportunistic infections, the risk increased with dose (see section 4.4 Special warnings and special precautions for use).
+Malignancies:
+Patients receiving immunosuppressive regimens involving combinations of drugs, including CellCept, are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see section 4.4 Special warnings and special precautions for use).
+Lymphoproliferative disease or lymphoma developed in 0.6% of patients receiving CellCept (2 g or 3 g daily) in combination with other immunosuppressants in controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients followed for at least 1 year.
+Non-melanoma skin carcinomas occurred in 3.6% of patients; other types of malignancy occurred in 1.1% of patients.
+Three-year safety data in renal and cardiac transplant patients did not reveal any unexpected changes in incidence of malignancy compared to the 1-year data.
+Hepatic transplant patients were followed for at least 1 year, but less than 3 years.
 
-Elderly patients, particularly those who are receiving CellCept as part of a combination immunosuppressive regimen, may be at greater increased risk of certain infections (including CMV tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared to younger individuals (See section 4.2 Posology and method of administration).
+Opportunistic Infections:
+All transplant patients are at increased risk of opportunistic infections; the risk increased with total immunosuppressive load (see section 4.4 Special warnings and special precautions for use).
+The most common opportunistic infections in patients receiving CellCept (2 g or 3 g daily) with other immunosuppressants in controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients followed for at least 1 year were candida mucocutaneous, CMV viraemia/syndrome and Herpes simplex.
+The proportion of patients with CMV viraemia/syndrome was 13.5%.
 
-Adverse events reported in ≥ 10 % of patients treated with CellCept in the three Phase III controlled trials for prevention of renal transplant rejection and/or the Phase III controlled cardiac transplant trial are listed in the following table (Table 1).
-Table 1: Adverse Events Reported in ≥ 10 % of Patients Treated with CellCept in Combination with Cyclosporine and Corticosteroids
+Elderly patients (≥ 65 years):
+Elderly patients (≥ 65 years) may generally be at increased risk of adverse drug reactions due to immunosuppression.
+Elderly patients receiving CellCept as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared to younger individuals.
+Other Adverse Drug Reactions:
+Adverse drug reactions, probably or possibly related to CellCept, reported in ≥ 10% and in 1 – < 10% of patients treated with CellCept in the controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients are listed in the following table.
 
-| Body System | Events Reported in Both Renal and Cardiac Transplant Studies | Events Reported in Renal Transplant Studies Only 991 CellCept treated patients * | Events Reported in Cardiac Transplant Study MYCS 1864 Only 289 CellCept treated patients** |
-| --- | --- | --- | --- |
-| Body as a Whole | asthenia, fever, headache, infection, pain, (includes abdominal, back, and chest), oedema | -- |  |
-| Blood and Lymphatic | anaemia(including hypochromic anaemia) leukocytosis, leukopenia, thrombocytopenia | -- | ecchymosis |
-| Urogenital | urinary tract infection | haematuria, renal tubular necrosis | abnormal kidney function, oliguria |
-| Cardiovascular | hypertension | -- | arrythmia, bradycardia, hypotension, cardiac failure, pericardial effusion |
-| Metabolic/ Nutritional | hypercholesterolaemia , hyperglycaemia, hyperkalaemia, hypokalaemia | hypophosphataemia | acidosis, bilirubinaemia, elevated BUN, elevated creatinine, elevated enzyme levels (lactic dehydrogenase, SGOT and SGPT),hyperlipaemia, hyperuricaemia, hypervolaemia, hypomagnesaemia, hyponatraemia, weight gain |
-| Gastrointestinal | constipation, diarrhoea, dyspepsia, oral moniliasis, nausea and vomiting | -- | flatulence |
-| Respiratory | cough increased, dyspnoea, pharyngitis, pneumonia | bronchitis | asthma, rhinitis, pleural effusion, sinusitis |
-| Skin and Appendages | acne, herpes simplex | -- | herpes zoster, rash |
-| Nervous | dizziness, insomnia, tremor |  | anxiety, agitation, confusion, depression, hypertonia, paresthesia, somnolence |
-| Musculoskeletal |  |  | leg cramps, myalgia, myasthaenia |
-| Special Senses |  |  | amblyopia |
+Adverse Drug Reactions, Probably or Possibly Related to CellCept, Reported in Patients Treated with CellCept in Renal, Cardiac and Hepatic Clinical Trials when Used in Combination with Cyclosporin and Corticosteroids
 
-* (total n = 1,483) ** (total n = 578)
-Adverse events, not mentioned above, reported in ≥ 3 % and < 10 % in renal transplant and/or cardiac transplant patients are listed in the following table (Table 2).
+| Body System |  | Adverse drug reactions |
+| --- | --- | --- |
+| Body as a whole | ≥ 10% | Sepsis |
+|  | 1 - < 10% | Moniliasis, infection, fever, chills, malaise, headache, flu syndrome, pain, asthenia, weight loss, oedema |
+| Blood and lymphatic | ≥ 10% | Leucopenia, thrombocytopenia, anaemia |
+|  | 1 - < 10% | Pancytopenia, leucocytosis |
+| Renal and urogenital | ≥ 10% | Urinary tract infection |
+|  | 1 - < 10% | Vaginal moniliasis, abnormal kidney function, increased creatinine, increased BUN |
+| Cardiovascula r | ≥10% | - |
+|  | 1 - < 10% | Hypotension, hypertension, tachycardia, vasodilatation |
+| Metabolic/ nutritional | ≥ 10% | - |
+|  | 1 - < 10% | Hyperkalaemia, acidosis, hypokalaemia, hypomagnesaemia, hypocalcaemia, hypercholesterolaemia, gout, hyperlipaemia, increased alkaline phosphatase, hyperglycaemia, hypophosphataemia, hyperuricaemia, increased lactate dehydrogenase |
+| Gastrointestin al | ≥ 10% | Moniliasis, vomiting, diarrhoea, nausea, abdominal pain |
+|  | 1 - < 10% | Gastrointestinal haemorrhage, peritonitis, gastric ulcer, duodenal ulcer, colitis, infection, ileus, stomatitis, gastritis, gastroenteritis, anorexia, oesophagitis, dyspepsia, constipation, flatulence, eructation |
+| Hepatic | ≥ 10% | - |
+|  | 1 - < 10% | Hepatitis, jaundice, bilirubinaemia, elevation of enzymes |
+| Respiratory | ≥ 10% | - |
+|  | 1 - < 10% | Pneumonia, infection, moniliasis, dyspnoea, sinusitis, bronchitis, pharyngitis, pleural effusion, increased cough, rhinitis |
+| Skin and appendages | ≥ 10% | Herpes simplex, herpes zoster |
+|  | 1 - < 10% | Carcinoma, moniliasis, fungal dermatitis, acne, rash, alopecia, hypertrophy, benign neoplasia |
+| Nervous | ≥ 10% | - |
+|  | 1 - < 10% | Convulsion, depression, confusion, agitation, anxiety, hypertonia, dizziness, abnormal thinking, tremor, paresthesia, insomnia, somnolence |
+| Musculo-skeletal | ≥ 10% | - |
+|  | 1 - < 10% | Myasthenia, arthralgia |
+| Special senses | ≥ 10% | - |
+|  | 1 - < 10% | Dysgeusia |
 
-Table 2: Adverse Events Reported in ≥ 3 % and < 10 % of Patients Treated with CellCept in Combination With Cyclosporine and Corticosteroids
+Note: 501 (2 g CellCept daily), 289 (3 g CellCept daily) and 277 (2 g IV / 3 g oral CellCept daily) patients were treated in Phase III studies for the prevention of rejection in renal, cardiac and hepatic transplantation, respectively.
+The following undesirable effects cover adverse drug reactions from post-marketing experience:
 
-| Body System | Events Reported in Both Renal and Cardiac Transplant Studies | Events Reported in Renal Transplant Studies Only 991 CellCept treated patients * | Events Reported in Cardiac Transplant Study 1864 Only 289 CellCept treated patients** |
-| --- | --- | --- | --- |
-| Body as a Whole | enlarged abdomen, cysts (including lymphocele and hydrocele), fever, flu syndrome, facial oedema, haemorrhage, malaise, pelvic pain, hernia | -- | cellulitis, neck pain, pallor |
-| Blood and Lymphatic |  | ecchymosis, polycythaemia | petechia, prothrombin increased, thromboplastin time increased |
-| Urogenital | dysuria, impotence, urinary frequency | albuminuria, hydronephrosis, pyelonephritis | hematuria, nocturia, renal failure, urinary incontinence, urinary retention |
-| Cardiovascular | angina pectoris, atrial fibrillation, postural hypotension | hypotension, tachycardia, thrombosis, vasodilatation | arrhythmias (including supraventricular and ventricular extrasystoles, atrial flutter, supraventricular and ventricular tachycardias), cardiac arrest, congestive heart failure, pulmonary hypertension, syncope, vasospasm, venous pressure increased |
+The types of adverse drug reactions reported during post-marketing with CellCept are similar to those seen in the controlled renal, cardiac and hepatic transplant studies.
+Additional adverse drug reactions reported during post-marketing are described below.
 
-* (total n = 1,483) ** (total n = 578)
-Table 2 (Continued): Adverse Events Reported in ≥ 3 % and < 10 % of Patients Treated with CellCept in Combination With Cyclosporine and Corticosteroids
+Gastrointestinal: colitis (including CMV colitis), pancreatitis.
 
-| Body System | Events Reported in Both Renal and Cardiac Transplant Studies | Events Reported in Renal Transplant Studies Only 991 CellCept treated patients* | Events Reported in Cardiac Transplant Study 1864 Only 289 CellCept treated patients** |
-| --- | --- | --- | --- |
-| Metabolic/ Nutritional | alkaline phosphatase increased, dehydration, hypervolaemia, hypocalcaemia, hypoglycaemia, hypoproteinaemia | acidosis, elevated enzyme levels (gamma glutamyl transpeptidase, lactic dehydrogenase, SGOT and SGPT), elevated creatinine, hypercalcaemia, hyperlipaemia, hyperuricaemia, weight gain | abnormal healing, alkalosis, gout, hypochloraemia, hypophosphataemia, hypoxia, respiratory acidosis, thirst, weight loss |
-| Gastrointestinal | anorexia, gingivitis, gum hyperplasia, gastroenteritis, abnormal liver function tests, oesophagitis, stomatitis | flatulence, gastrointestinal haemorrhage, gastrointestinal moniliasis, hepatitis, ileus | dysphagia, jaundice, melena |
-| Respiratory | pulmonary oedema | asthma, pleural effusion, rhinitis, sinusitis | apnoea, atelectasis, bronchitis, epistaxis, haemoptysis, hiccough, neoplasm, pneumothorax, sputum increased, voice alteration |
-| Skin and Appendages | benign neoplasm of skin, skin carcinoma, fungal dermatitis, skin hypertrophy, pruritus, sweating, skin ulcer | alopecia, herpes zoster, hirsutism, rash | haemorrhage |
-| Nervous |  | anxiety, depression, hypertonia, paresthesia, somnolence | convulsion, emotional lability, hallucinations, neuropathy, thinking abnormal, vertigo |
-| Musculoskeletal | arthralgia | leg cramps, myalgia, myasthenia |  |
-| Special Senses | conjunctivitis | amblyopia, cataract | abnormal vision, deafness, ear pain, eye haemorrhage, tinnitus |
-| Endocrine | diabetes mellitus | parathyroid disorder | Cushing’s syndrome, hypothyroidism |
+Disorders related to immunosuppression: serious life-threatening infections including meningitis, infectious endocarditis, tuberculosis and atypical mycobacterial infection.
 
-* (total n = 1,483) ** (total n = 578)
-The following undesirable effects cover adverse reactions from post-marketing experience:
+[CellCept 500 mg powder for concentrate for solution for infusion.]
 
-Gastro-intestinal: colitis (sometimes caused by cytomegalovirus), pancreatitis.
+The adverse drug reaction profile associated with the administration of CellCept 500 mg powder for concentrate for solution for infusion has been shown to be similar to that observed after oral administration.
 
-Disorders of immunosuppression: serious life-threatening infections such as meninigitis and infectious endocarditis have been reported occasionally and there is evidence of a higher frequency of certain types of infections such as tuberculosis and atypical mycobacterial infection.
+The following data refer to the safety experience of oral CellCept in renal transplant patients.
+Data in hepatic transplant patients are based on i.v. dosing of CellCept for up to 14 days followed by oral dosing.
+Adverse drug reactions, probably or possibly related to CellCept, reported in ≥10% and in 1 - < 10% of patients treated with CellCept in the controlled clinical trials of renal (2 g data) and hepatic transplant patients are listed in the following table.
 
-Other adverse reactions during Post Marketing Experience with CellCept are similar to those seen in the controlled renal and cardiac transplant studies.
+Adverse Drug Reactions, Probably or Possibly Related to CellCept, Reported in Patients Treated with CellCept in Renal and Hepatic Clinical Trials when Used in Combination with Cyclosporin and Corticosteroids
+
+| Body System |  | Adverse drug reaction |
+| --- | --- | --- |
+| Body as a whole | ≥10% | Sepsis |
+|  | 1 - < 10% | Moniliasis, infection, fever, chills, malaise, headache, flu syndrome, pain, asthenia, weight loss, oedema |
+| Blood and lymphatic | ≥10% | Leucopenia, thrombocytopenia, anaemia |
+|  | 1 - < 10% | Pancytopenia, leucocytosis |
+| Renal and urogenital | ≥10% | Urinary tract infection |
+|  | 1 - < 10% | Vaginal moniliasis, abnormal kidney function, increased creatinine |
+| Cardiovascula r | ≥10% | - |
+|  | 1 - < 10% | Hypotension, hypertension, tachycardia |
+| Metabolic/ nutritional | ≥10% | - |
+|  | 1 - < 10% | Hyperkalaemia, acidosis, hypokalaemia, hypomagnesaemia, hypocalcaemia, hypercholesterolaemia, hyperlipaemia, increased alkaline phosphatase, hyperglycaemia, hypophosphataemia, increased lactate dehydrogenase |
+| Gastrointestin al | ≥10% | Moniliasis, vomiting, diarrhoea, nausea, abdominal pain |
+|  | 1 - < 10% | Gastrointestinal haemorrhage, peritonitis, gastric ulcer, duodenal ulcer, colitis, infection, ileus, gastritis, gastroenteritis, anorexia, oesophagitis, dyspepsia, constipation, flatulence stomatitis |
+| Hepatic | ≥ 10% | - |
+|  | 1 - < 10% | Hepatitis, elevation of enzymes |
+| Respiratory | ≥10% | - |
+|  | 1 - < 10% | Pneumonia, infection, moniliasis, dyspnoea, sinusitis, bronchitis, pharyngitis, pleural effusion, increased cough, rhinitis |
+| Skin and | ≥10% | Herpes simplex, herpes zoster |
+| appendages | 1 - < 10% | Carcinoma, fungal dermatitis, acne, rash, alopecia, benign neoplasia |
+| Nervous | ≥10% | - |
+|  | 1 - < 10% | Convulsion, depression, hypertonia, abnormal thinking, tremor, paresthesia, insomnia, somnolence |
+| Musculo-skeletal | ≥10% | - |
+|  | 1 - < 10% | Arthralgia |
+
+Note: 501 (2 g CellCept daily) and 277 (2 g IV / 3 g oral CellCept daily) patients were treated in Phase III studies for the prevention of rejection in renal and hepatic transplantation, respectively.
+
+Adverse drug reactions attributable to peripheral venous infusion were phlebitis and thrombosis, both observed at 4% in patients treated with CellCept 500 mg powder for concentrate for solution for infusion.
+
+Adverse drug reactions reported during post-marketing with CellCept are similar to those seen in the controlled renal and hepatic transplant studies.
+Additional adverse drug reactions reported during post-marketing experience with CellCept are described below.
+
+Disorders related to immunosuppression: serious life-threatening infections including meningitis, infectious endocarditis tuberculosis and atypical mycobacterial infection.
+
+[CellCept 1 g/5 ml powder for oral suspension.]
+
+(all sentences already above)
 
 [CellCept 500 mg tablets]
 
-The incidence of non-melanoma skin cancer in cardiac transplant patients treated with CellCept 3 g per day was 5.5% compared to patients treated with azathioprine (6.9 %).
-
-Table 1: Adverse Events Reported in ≥ 10% of Patients Treated with CellCept in Combination with Cyclosporine and Corticosteroids
-
-| Body System | Events Reported in Both Renal and Cardiac Transplant Studies | Events Reported in Renal Transplant Studies Only 991 CellCept treated patients * | Events Reported in Cardiac Transplant Study MYCS 1864 Only 289 CellCept treated patients** |
-| --- | --- | --- | --- |
-| Body as a Whole | asthenia, fever, headache, infection, pain, (includes abdominal, back, and chest) , oedema | -- |  |
-| Blood and Lymphatic | anaemia, (including hypochromic anaemia) leukocytosis, leukopenia, thrombocytopenia | -- | ecchymosis |
-| Urogenital | urinary tract infection | haematuria, renal tubular necrosis | abnormal kidney function, oliguria |
-| Cardiovascular | hypertension | -- | arrythmia, bradycardia, hypotension, cardiac failure, pericardial effusion |
-| Metabolic/ Nutritional | hypercholesterolaemia, hyperglycaemia, hyperkalaemia, hypokalaemia | hypophosphataemia | acidosis, bilirubinaemia, elevated BUN, elevated creatinine, elevated enzyme levels (lactic dehydrogenase, SGOT and SGPT), hyperlipaemia, hyperuricaemia, hypervolaemia, hypomagnesaemia, hyponatraemia, weight gain |
-| Gastrointestinal | constipation, diarrhoea, dyspepsia, oral moniliasis, nausea, vomiting | -- | flatulence |
-| Respiratory | cough increased, dyspnoea, pharyngitis, pneumonia | bronchitis | asthma, rhinitis, pleural effusion, sinusitis |
-| Skin and Appendages | acne, herpes simplex | -- | herpes zoster, rash |
-| Nervous | dizziness, insomnia, tremor |  | anxiety, agitation, confusion, depression, hypertonia, paresthesia, |
-
-somnolence
-Musculoskeletal leg cramps, myalgia,
-myasthaenia
-Special Senses amblyopia
-
-| Body System | Events Reported in Both Renal and Cardiac Transplant Studies | Events Reported in Renal Transplant Studies Only 991 CellCept treated patients * | Events Reported in Cardiac Transplant Study 1864 Only 289 CellCept treated patients** |
-| --- | --- | --- | --- |
-| Body as a Whole | enlarged abdomen, cysts (including lymphocele and hydrocele), fever, flu syndrome, facial oedema, haemorrhage, malaise, pelvic pain, hernia | -- | cellulitis, neck pain, pallor |
-| Blood and Lymphatic |  | ecchymosis, polycythaemia | petechia, prothrombin increased, thromboplastin time increased |
-| Urogenital | dysuria, impotence, urinary frequency | albuminuria, hydronephrosis, pyelonephritis | haematuria, nocturia, renal failure, urinary incontinence, urinary retention |
-| Cardiovascular | angina pectoris, atrial fibrillation, postural hypotension | hypotension, tachycardia, thrombosis, vasodilatation | arrhythmia (including supraventricular and ventricular extrasystoles, atrial flutter, supraventricular and ventricular tachycardias), cardiac arrest, congestive heart failure, pulmonary hypertension, syncope, vasospasm, venous pressure increased |
-
-- (total n = 1,483) ** (total n = 578)
-
-Table 2(Continued): Adverse Events Reported in ≥ 3 % and < 10 % of Patients Treated With CellCept in Combination With Cyclosporine and Corticosteroids
-
-| Body System | Events Reported in Both Renal and Cardiac Transplant Studies | Events Reported in Renal Transplant Studies Only 991 CellCept treated patients* | Events Reported in Cardiac Transplant Study 1864 Only 289 CellCept treated patients** |
-| --- | --- | --- | --- |
-| Metabolic/ Nutritional | alkaline phosphatase increased, dehydration, hypervolaemia, hypocalcinaemia, hypoglycaemia, hypoproteinaemia, | acidosis, elevated enzyme levels (gamma glutamyl transpeptidase, lactic dehydrogenase, SGOT and SGPT), elevated creatinine, hypercalcaemia, hyperlipaemia, hyperuricaemia, weight gain | abnormal healing, alkalosis, gout, hypochloraemia, hypophosphataemia, hypoxia, respiratory acidosis, thirst, weight loss |
-| Gastrointestinal | anorexia, gingivitis, gum hyperplasia, gastroenteritis, abnormal liver function tests, oesophagitis, stomatitis | flatulence, gastrointestinal haemorrhage, gastrointestinal moniliasis, hepatitis, ileus | dysphagia, jaundice, melena |
-| Respiratory | pulmonary oedema | asthma, pleural effusion, rhinitis, sinusitis | apnoea, atelectasis, bronchitis, epistaxis, haemoptysis, hiccough, neoplasm, pneumothorax, sputum increased, voice alteration |
-| Skin and Appendages | benign neoplasm of skin, skin carcinoma, fungal dermatitis, skin hypertrophy, pruritus, sweating, skin ulcer | alopecia, herpes zoster, hirsutism, rash | haemorrhage |
-| Nervous |  | anxiety, depression, hypertonia, paresthesia, somnolence | convulsion, emotional lability, hallucinations, neuropathy, thinking abnormal, vertigo |
-| Musculoskeletal | arthralgia | leg cramps, myalgia, myasthenia |  |
-
-| Body System | Events Reported in Both Renal and Cardiac Transplant Studies | Events Reported in Renal Transplant Studies Only 991 CellCept treated patients* | Events Reported in Cardiac Transplant Study 1864 Only 289 CellCept treated patients** |
-| --- | --- | --- | --- |
-| Special Senses | conjunctivitis | amblyopia, cataract | abnormal vision, deafness, ear pain, eye haemorrhage, tinnitus |
-| Endocrine | diabetes mellitus | parathyroid disorder | Cushing’s syndrome, hypothyroidism |
-
-[CellCept 500 mg powder for concentrate for solution for infusion]
-
-The principal adverse events associated with the administration of CellCept in combination with cyclosporine and corticosteroids include diarrhoea, leucopenia, sepsis and vomiting and there is evidence of a higher frequency of certain types of infections (see section 4.4 Special warnings and special precautions for use).
-The adverse event profile associated with the administration of CellCept 500 mg powder for concentrate for solution for infusion has been shown to be similar to that observed after oral administration.
-
-The following data refer to the safety experience of oral CellCept.
-Adverse events reported in =10% of patients treated with CellCept in the three Phase III controlled trials for prevention of rejection are listed in the following table (Table 1).
-Table 1: Adverse Events Reported in = 10 % of Renal Transplant Patients Treated with CellCept in Combination with Cyclosporine and Corticosteroids
-
-| Body System | Adverse Events |
-| --- | --- |
-| Body as a Whole | asthenia, fever, headache, infection, pain, (includes abdominal, back, and chest), oedema |
-| Blood and Lymphatic | anaemia (including hypochromic anaemia), leukocytosis, leukopenia, thrombocytopenia |
-| Urogenital | urinary tract infection, haematuria, renal tubular necrosis |
-| Cardiovascular | hypertension |
-| Metabolic/ Nutritional | hypercholesterolaemia, hyperglycaemia, hyperkalaemia, hypokalaemia, hypophosphataemia |
-| Gastrointestinal | constipation, diarrhoea, dyspepsia, oral moniliasis, nausea, vomiting |
-| Respiratory | cough increased, dyspnoea, pharyngitis, pneumonia, bronchitis |
-| Skin and Appendages | acne, herpes simplex |
-| Nervous | dizziness, insomnia, tremor |
-
-Adverse events, not mentioned above, reported in = 3 % and < 10 % in renal transplant patients are listed in the following table (Table 2).
-Table 2: Adverse Events Reported in = 3 % and < 10 % of Renal Transplant Patients Treated With CellCept in Combination With Cyclosporine and Corticosteroids
-
-| Body System | Adverse Events |
-| --- | --- |
-| Body as a Whole | enlarged abdomen, cysts (including lymphocele and hydrocele), fever, +flu syndrome, facial oedema, haemorrhage, malaise, pelvic pain, hernia |
-| Blood and Lymphatic | ecchymosis, polycythaemia |
-| Urogenital | dysuria, impotence, urinary frequency, albuminuria, hydronephrosis, pyelonephritis |
-| Cardiovascular | angina pectoris, atrial fibrillation, postural hypotension, hypotension, tachycardia, thrombosis, vasodilatation |
-| Metabolic/Nutritional | alkaline phosphatase increased, dehydration, hypervolaemia, hypocalcinaemia, hypoglycaemia, hypoproteinaemia, acidosis, elevated enzyme levels (gamma glutamyl transpeptidase, lactic dehydrogenase, SGOT and SGPT), elevated creatinine, hypercalcaemia, hyperlipaemia, hyperuricaemia, weight gain |
-| Gastrointestinal | anorexia, gastritis, gastroenteritis, gingivitis, gum hyperplasia, liver function tests abnormal, oesophagitis, flatulence, gastrointestinal haemorrhage, gastrointestinal moniliasis, hepatitis, ileus, stomatitis |
-| Respiratory | lung oedema, asthma, pleural effusion, rhinitis, sinusitis |
-| Skin and Appendages | benign neoplasm of skin, skin carcinoma, fungal dermatitis, skin hypertrophy, pruritus, sweating, skin ulcer, alopecia, herpes zoster, hirsutism, rash |
-| Nervous | anxiety, depression, hypertonia, paresthesia, somnolence |
-| Musculoskeletal | arthralgia, leg cramps, myalgia, myasthenia |
-| Special Senses | conjunctivitis, amblyopia, cataract |
-| Endocrine | diabetes mellitus, paathyroid disorder |
-
-Adverse events attributable to peripheral venous infusion were phlebitis and thrombosis, both observed at 4 % in patients treated with CellCept 500 mg powder for concentrate for solution for infusion.
-
-Other adverse reactions during Post Marketing Experience with CellCept are similar to those seen in the controlled renal transplant studies.
-
-[CellCept 1 g/5 ml powder for oral suspension]
-
-| Body System | Events Reported in Both Renal and Cardiac Transplant Studies | Events Reported in Renal Transplant Studies Only 991 CellCept treated patients * | Events Reported in Cardiac Transplant Study MYCS 1864 Only 289 CellCept treated patients** |
-| --- | --- | --- | --- |
-| Body as a Whole | asthenia, fever, headache, infection, pain (includes abdominal, back and chest), oedema | -- | -- |
-| Blood and Lymphatic | anaemia (including hypochromic anaemia), leukocytosis, leukopenia, thrombocytopenia | -- | ecchymosis |
-| Urogenital | urinary tract infection | haematuria, renal tubular necrosis | abnormal kidney function, oliguria |
-| Cardiovascular | hypertension | -- | arrythmia, bradycardia, hypotension, cardiac failure, pericardial effusion |
-| Metabolic/ Nutritional | hypercholesterolaemia, hyperglycaemia, hyperkalaemia, hypokalaemia | hypophosphataemia | acidosis, bilirubinaemia, elevated BUN, elevated creatinine, elevated enzyme levels (lactic dehydrogenase, SGOT and SGPT), hyperlipaemia, hyperuricaemia, hypervolaemia, hypomagnesaemia, hyponatraemia, weight gain |
-| Gastrointestinal | constipation, diarrhoea, dyspepsia, oral moniliasis, nausea, vomiting | -- | flatulence |
-| Respiratory | cough increased, dyspnoea, pharyngitis, pneumonia | bronchitis | asthma, rhinitis, pleural effusion, sinusitis |
-| Skin and Appendages | acne, herpes simplex | -- | herpes zoster, rash |
-| Nervous | dizziness, insomnia, tremor | -- | anxiety, agitation, confusion, depression, hypertonia, paresthesia, somnolence |
-| Musculoskeletal | -- | -- | leg cramps, myalgia, myasthaenia |
-| Special Senses | -- | -- | amblyopia |
-
-| Body System | Events Reported in Both Renal and Cardiac Transplant Studies | Events Reported in Renal Transplant Studies Only 991 CellCept treated patients * | Events Reported in Cardiac Transplant Study 1864 Only 289 CellCept treated patients** |
-| --- | --- | --- | --- |
-| Body as a Whole | abdomen enlarged, cysts (including lymphocele and hydrocele), fever, flu syndrome, facial oedema, haemorrhage, malaise, pelvic pain, hernia | -- | cellulitis, neck pain, pallor |
-| Blood and Lymphatic | -- | ecchymosis, polycythaemia | petechia, prothrombin increased, thromboplastin time increased |
-| Urogenital | dysuria, impotence, urinary frequency | albuminuria, hydronephrosis, pyelonephritis | haematuria, nocturia, renal failure, urinary incontinence, urinary retention |
-| CARDIOVASCUL AR | angina pectoris, atrial fibrillation, postural hypotension | hypotension, tachycardia, thrombosis, vasodilatation | arrhythmias (including supraventricular and ventricular extrasystoles, atrial flutter, supraventricular and ventricular tachycardias, cardiac arrest, congestive heart failure, pulmonary hypertension, syncope, vasospasm, venous pressure increased |
-| Metabolic/ Nutritional | alkaline phosphatase increased, dehydration, hypervolaemia, hypocalcinaemia, hypoglycaemia, hypoproteinaemia | acidosis, elevated enzyme levels (gamma glutamyl transpeptidase, lactic dehydrogenase, SGOT and SGPT), elevated creatinine, hypercalcaemia, hyperlipaemia, hyperuricaemia, weight gain | abnormal healing, alkalosis, gout, hypochloraemia, hypophosphataemia, hypoxia, respiratory acidosis, thirst, weight loss |
-
-| Body System | Events Reported in Both Renal and Cardiac Transplant Studies | Events Reported in Renal Transplant Studies Only 991 CellCept treated patients * | Events Reported in Cardiac Transplant Study 1864 Only 289 CellCept treated patients** |
-| --- | --- | --- | --- |
-| Gastrointestinal | anorexia, gingivitis, gum hyperplasia, gastroenteritis, abnormal liver function tests, oesophagitis, stomatitis | flatulence, gastrointestinal haemorrhage, gastrointestinal moniliasis, hepatitis, ileus | dysphagia, jaundice, melena |
-| Respiratory | pulmanory oedema | asthma, pleural effusion, rhinitis, sinusitis | apnoea, atelectasis, bronchitis, epistaxis, haemoptysis, hiccough, neoplasm, pneumothorax, sputum increased, voice alteration |
-| Skin and Appendages | benign neoplasm of skin, skin carcinoma, fungal dermatitis, skin hypertrophy, pruritis, sweating, skin ulcer | alopecia, herpes zoster, hirsutism, rash | haemorrhage |
-| Nervous | -- | anxiety, depression, hypertonia, paresthesia, somnolence | convulsion, emotional lability, hallucinations, neuropathy, thinking abnormal, vertigo |
-| Musculoskeletal | arthralgia | leg cramps, myalgia, myasthenia | -- |
-| Special Senses | conjunctivitis | ambylopia, cataract | abnormal vision, deafness, ear pain, eye haemorrhage, tinnitus |
-| Endocrine | diabetes mellitus | parathyroid disorder | Cushing’s syndrome, hypothyroidism |
-
-Disorders of immunosuppression: Serious life-threatening infections such as meningitis and infectious endocarditis have been reported occasionally and there is evidence of a higher frequency of certain types of infections such as tuberculosis and atypical mycobacterial infection.
+All transplant patients are at increased risk of opportunistic infections; the risk increased with total immunosuppressive load (see section 4.4 Special warnings and special precautions for use) The most common opportunistic infections in patients receiving CellCept (2 g or 3 g daily) with other immunosuppressants in controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients followed for at least 1 year were candida mucocutaneous, CMV viraemia/syndrome and Herpes simplex.
