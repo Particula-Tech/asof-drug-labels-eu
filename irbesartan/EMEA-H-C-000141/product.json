@@ -1,0 +1,16 @@
+{
+  "active_substance": "irbesartan",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000141",
+  "eu_number": "EU/1/97/046",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "1997-08-26",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aprovel",
+  "molecule": "irbesartan",
+  "molecule_name": "IRBESARTAN",
+  "name": "Aprovel",
+  "register_name": "Aprovel",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h046.htm"
+}

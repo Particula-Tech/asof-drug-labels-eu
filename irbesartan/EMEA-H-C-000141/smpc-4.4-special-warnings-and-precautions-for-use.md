@@ -1,0 +1,22 @@
+# 4.4 Special warnings and special precautions for use
+
+Intravascular volume depletion: symptomatic hypotension, especially after the first dose, may occur in patients who are volume and/or sodium depleted by vigorous diuretic therapy, dietary salt restriction, diarrhoea or vomiting.
+Such conditions should be corrected before the administration of Aprovel.
+
+Renovascular hypertension: there is an increased risk of severe hypotension and renal insufficiency when patients with bilateral renal artery stenosis or stenosis of the artery to a single functioning kidney are treated with drugs that affect the renin-angiotensin-aldosterone system.
+While this is not documented with Aprovel, a similar effect should be anticipated with angiotensin II receptor antagonists.
+
+Renal impairment and kidney transplantation: when Aprovel is used in patients with impaired renal function, a periodic monitoring of potassium and creatinine serum levels is recommended.
+There is no experience regarding the administration of Aprovel in patients with a recent kidney transplantation.
+
+Hyperkalemia: during treatment with other drugs that affect the renin-angiotensin-aldosterone system hyperkalemia may occur, especially in the presence of renal impairment and/or heart failure.
+While this is not documented with Aprovel, adequate monitoring of serum potassium in patients at risk is recommended (see § 4.5).
+
+Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy: as with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
+
+Primary aldosteronism: patients with primary aldosteronism generally will not respond to anti-hypertensive drugs acting through inhibition of the renin-angiotensin system.
+Therefore, the use of Aprovel is not recommended.
+
+General: in patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with other drugs that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure.
+Although the possibility of similar effects cannot be excluded with angiotensin II receptor antagonists, these effects are not documented with Aprovel.
+As with any anti-hypertensive agent, excessive blood pressure decrease in patients with ischemic cardiopathy or ischemic cardiovascular disease could result in a myocardial infarction or stroke.
