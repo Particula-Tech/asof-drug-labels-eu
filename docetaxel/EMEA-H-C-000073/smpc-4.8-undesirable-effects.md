@@ -7,15 +7,14 @@ Haematology
 
 The most frequent adverse reaction to docetaxel (in patients who did not receive G-CSF) was neutropenia which was reversible and not cumulative.
 The median day to nadir was 7 days and the median duration of severe neutropenia (<500 cells/mm3) was 7 days.
-Severe neutropenia occurred in 56.4% of cycles (76.4% of the patients) and lasted for more than 7 days in 3.5 % of evaluable cycles.
-
+Severe neutropenia occurred in 56.4% of cycles (76.4% of the patients) and lasted for more than 7 days in 3.5% of evaluable cycles.
 Fever was associated with neutropenia (<500 cells/mm3) in 11.8% of the patients (3% of the cycles) and the incidence of severe infections associated with neutrophil counts <500 cells/mm3 was 4.6% of the patients (1.2% of the cycles).
 Infectious episodes occurred in 20% of the patients (6% of the cycles) and were severe (including sepsis and pneumonia) in 5.7% of the patients (1.4% of the cycles) and were fatal in 1.7% of the patients.
 
 Thrombocytopenia (<100,000 cells/mm3) has been reported in 7.8% of the patients.
 Bleeding episodes were reported in 2.4% of the patients and were rarely associated with severe thrombocytopenia (<50,000 cells/mm3).
 
-Anaemia (<11g/dl) was observed in 90.4% of the patients and was severe (<8 g/dl) in 8.9 % of the cases.
+Anaemia (<11g/dl) was observed in 90.4% of the patients and was severe (<8 g/dl) in 8.9% of the cases.
 
 Hypersensitivity reactions
 
@@ -41,7 +40,7 @@ Fluid retention has been reported in 64.1% (6.5% severe) of patients receiving t
 Events such as peripheral oedema and less frequently pleural effusion, pericardial effusion, ascites, lacrymation with or without conjuctivitis and weight gain have been reported.
 The peripheral oedema usually starts at the lower extremities and may become generalised with a weight gain of 3 kgs or more.
 Fluid retention is cumulative in incidence and severity.
-The onset of moderate and severe retention is delayed (median cumulative dose: 818.9 mg/m²) in patients with premedication compared with patients without premedication (median cumulative dose: 489.7 mg/m²); however, it has been reported in some patients during the early courses of therapy.
+The onset of moderate and severe retention is delayed (median cumulative dose: 818.9 mg/m2) in patients with premedication compared with patients without premedication (median cumulative dose: 489.7 mg/m2); however, it has been reported in some patients during the early courses of therapy.
 The median cumulative dose to treatment discontinuation was more than 1000 mg/m2 in patients receiving the recommended premedication.
 The median time to fluid retention reversibility was 16.4 weeks (range 0 to 42 weeks) in patients receiving the recommended premedication.
 
@@ -51,7 +50,7 @@ Dehydration has been reported rarely in association with fluid retention.
 Gastrointestinal
 
 Gastrointestinal effects such as nausea, vomiting, diarrhoea, and abdominal pain were seen in 40.5%, 24.5%, 40.6% and 7.3% of the patients treated respectively with an incidence of severe reactions of 4%, 3%, 4%, and 1% respectively.
-Anorexia was reported in 16.8 % of the patients and was infrequently severe.
+Anorexia was reported in 16.8% of the patients and was infrequently severe.
 Constipation was reported in 9.3% (0.2% severe) of the patients.
 
 Stomatitis and esophagitis were reported in 41.8% (5.3% severe) and 1% (0.4% severe) of the patients, respectively.
@@ -81,6 +80,7 @@ Rare cases of myocardial infarction have been reported.
 Infusion site reactions
 
 Infusion site reactions were generally mild and occurred in 5.6% of the patients, and consisted of hyperpigmentation, inflammation, redness or dryness of the skin, phlebitis or extravasation and swelling of the vein.
+
 Hepatic
 
 Increases in serum levels of AST, ALT, bilirubin and alkaline phosphatase greater than 2.5 times the ULN were observed in less than 5% of the patients.
@@ -95,13 +95,3 @@ Dyspnea was reported in 16.1% (2.7% severe) of the patients and was frequently a
 
 Generalized or localized pain has been observed in 16.5% of the patients and was severe in 0.8% of patients.
 Chest pain was seen in 4.5% of patients (0.4% severe) without any cardiac or respiratory involvement.
-
-[TAXOTERE (docetaxel) 80 mg]
-
-Fever was associated with neutropenia (<500 cells/mm3) in 11.8% of the patients (3% of the cycles) and the incidence of severe infections associated with neutrophil counts < 500 cells/mm3 was 4.6% of the patients (1.2% of the cycles).
-
-The cutaneous reactions were characterised by a rash including localised eruptions mainly on feet, hands, but also on arms, face or thorax, and frequently associated with pruritus.
-Nail disorders occurred in 2 7.9% of the patients and were characterised by hypo- or hyperpigmentation and sometimes pain and onycholysis (2.6% of the patients).
-
-Gastrointestinal effects such as nausea, vomiting, diarrhoea, and abdominal pain were seen in 40.5%, 24.5%, 40.6% and 7.3% of the patients treated respectively with an incidence of severe reactions of 4%, 3%, 4%, and 1%, respectively.
-Anorexia was reported in 16.8% of the patients and was infrequently severe.

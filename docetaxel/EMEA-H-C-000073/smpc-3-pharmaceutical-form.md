@@ -1,3 +1,3 @@
 # 3. PHARMACEUTICAL FORM
 
-Concentrate for infusion - parenteral preparation to be diluted.
+Concentrate and solvent for solution for infusion.

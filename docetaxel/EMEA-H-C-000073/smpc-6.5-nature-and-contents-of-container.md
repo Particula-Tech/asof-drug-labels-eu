@@ -1,8 +1,11 @@
 # 6.5 Nature and content of container
 
+Each blister carton of TAXOTERE (docetaxel) 20 mg contains one single-dose TAXOTERE vial equivalent to 20 mg docetaxel (anhydrous) in 0.5 ml polysorbate 80 (Fill: 23.6 mg/0.59 ml) and one single-dose solvent for TAXOTERE vial containing 1.83 ml 13% ethanol in water for injections.
+
 TAXOTERE 20 mg vial:
 
 The TAXOTERE 20 mg vial is a 7 ml clear glass vial with a green flip-off cap.
+
 The TAXOTERE 20 mg vial contains a solution of docetaxel in polysorbate 80 at a concentration of 40 mg/ml.
 
 Each TAXOTERE 20 mg vial contains 0.59 ml of the 40 mg/ml solution of docetaxel equivalent to 23.6 mg docetaxel.
@@ -19,15 +22,14 @@ Each solvent for TAXOTERE 20 mg vial contains 1.83 ml.
 This volume has been established based on the fill volume of the TAXOTERE 20 mg vial.
 The addition of the entire contents of the solvent vial to the contents of the TAXOTERE 20 mg vial ensures a premix concentration of 10 mg/ml docetaxel.
 
-TAXOTERE (docetaxel) 20 mg
-
-Each blister carton contains one single-dose TAXOTERE (docetaxel) vial equivalent to 20 mg docetaxel (anhydrous) in 0.5 ml polysorbate 80 (Fill: 23.6 mg / 0.59 ml) and one single-dose Solvent for TAXOTERE vial containing 1.83 ml 13% ethanol in water for injections.
-
 [TAXOTERE (docetaxel) 80 mg]
+
+Each blister carton of TAXOTERE (docetaxel) 80 mg contains one single-dose TAXOTERE vial equivalent to 80 mg docetaxel (anhydrous) in 2 ml polysorbate 80 (Fill: 94.4 mg/2.36 ml) and one single-dose solvent for TAXOTERE vial containing 7.33 ml 13% ethanol in water for injections.
 
 TAXOTERE 80 mg vial:
 
 The TAXOTERE 80 mg vial is a 15 ml clear glass vial with a red flip-off cap.
+
 The TAXOTERE 80 mg vial contains a solution of docetaxel in polysorbate 80 at a concentration of 40 mg/ml.
 
 Each TAXOTERE 80 mg vial contains 2.36 ml of the 40 mg/ml solution of docetaxel equivalent to 94.4 mg docetaxel.
@@ -40,7 +42,3 @@ The solvent for TAXOTERE 80 mg vial is a 15 ml clear glass vial with a transpare
 Each solvent for TAXOTERE 80 mg vial contains 7.33 ml.
 This volume has been established based on the fill volume of the TAXOTERE 80 mg vial.
 The addition of the entire contents of the solvent vial to the contents of the TAXOTERE 80 mg vial ensures a premix concentration of 10 mg/ml docetaxel.
-
-TAXOTERE (docetaxel) 80 mg
-
-Each blister carton contains one single-dose TAXOTERE (docetaxel) vial equivalent to 80 mg docetaxel (anhydrous) in 2 ml polysorbate 80 (Fill: 94.4 mg / 2.36 ml) and one single-dose solvent for TAXOTERE vial containing 7.33 ml 13% ethanol in water for injections.
