@@ -22,6 +22,7 @@ Diltiazem (CYP3A4 inhibitor): The simultaneous oral administration of 10 mg of R
 Sirolimus Cmax, tmax, and AUC were increased 1.4-fold, 1.3-fold, and 1.6-fold, respectively.
 Sirolimus did not affect the pharmacokinetics of either diltiazem or its metabolites desacetyldiltiazem and desmethyldiltiazem.
 If diltiazem is administered, sirolimus blood levels should be monitored and a dose adjustment may be necessary.
+
 Oral contraceptives: No clinically significant pharmacokinetic interaction was observed between sirolimus and 0.3 mg norgestrel/ 0.03 mg ethinyl estradiol.
 Although the results of a single dose drug interaction study with an oral contraceptive suggest the lack of a pharmacokinetic interaction, the results cannot exclude the possibility of changes in the pharmacokinetics that might affect the efficacy of the oral contraceptive during long term treatment with Rapamune.
 
@@ -29,20 +30,5 @@ Other possible interactions: Inhibitors of CYP3A4 may decrease the metabolism of
 Inducers of CYP3A4 may increase the metabolism of sirolimus and decrease sirolimus blood levels (e.g. St. John's wort (Hypericum perforatum), anticonvulsants: carbamazepine, phenobarbital, phenytoin; antibiotics: rifabutin).
 Although sirolimus inhibits human liver microsomal cytochrome P450 CYP2C9, CYP2C19, CYP2D6, and CYP3A4/5 in vitro, the drug is not expected to inhibit the activity of these isozymes in vivo since the sirolimus concentrations necessary to produce inhibition are much higher than those observed in patients receiving therapeutic doses of Rapamune.
 Inhibitors of P-gp may decrease the efflux of sirolimus from intestinal cells and increase sirolimus levels.
-
 Grapefruit juice affects CYP3A4 mediated metabolism and should therefore be avoided.
-
-1.6.1.
 No clinically significant pharmacokinetic interaction was observed between sirolimus and any of the following substances: acyclovir, atorvastatin, digoxin, glibenclamide, methylprednisolone, nifedipine, prednisolone, and trimethoprim/sulphamethoxazole.
-
-[Rapamune 1 mg/1 ml oral solution.]
-
-1.23.1.
-
-[Rapamune 2 mg/2 ml oral solution]
-
-1.41.1.
-
-[Rapamune 5 mg/5 ml oral solution]
-
-1.58.1.

@@ -3,7 +3,6 @@
 Treatment should be initiated by and remain under the guidance of an appropriately qualified specialist in transplantation.
 
 Adults
-
 Initial Therapy (2 to 3 months post-transplantation): The usual dosage regimen for Rapamune is a 6 mg oral loading dose, administered as soon as possible after transplantation, followed by 2 mg once daily.
 The Rapamune dose should then be individualised, to obtain whole blood trough levels of 4 to 12 ng/ml (chromatographic assay; see Therapeutic drug monitoring).
 Rapamune therapy should be optimised with a tapering regimen of steroids and cyclosporine microemulsion.
@@ -19,7 +18,6 @@ Currently, the efficacy and safety data are too limited to allow specific recomm
 
 Use in children and adolescents: There is insufficient experience to recommend the use of sirolimus in children and adolescents.
 Limited pharmacokinetic information is available in children (see Pharmacokinetic Properties, section 5.2).
-
 Elderly patients (> 65 years): Clinical studies of Rapamune did not include a sufficient number of patients >65 years of age to determine whether they will respond differently than younger patients.
 Sirolimus trough concentration data in 35 renal transplant patients >65 years of age were similar to those in the adult population (n=822) from 18 to 65 years of age.
 
@@ -32,6 +30,7 @@ Sirolimus pharmacokinetics have not been evaluated in patients with severe hepat
 Therapeutic drug monitoring: Most patients who received 2 mg of Rapamune 4 hours after cyclosporine had whole blood trough concentrations of sirolimus within the 4 to 12 ng/ml target range.
 Optimal therapy requires therapeutic drug concentration monitoring in all patients.
 Whole blood sirolimus levels should be closely monitored in the following populations: (1) in patients with hepatic impairment; (2) when strong inducers (e.g. rifampin, rifabutin) or inhibitors (e.g. ketaconazole) of CYP3A4 are concurrently administered and after their discontinuation (see section 4.5); and/or (3) if cyclosporine dosing is markedly reduced or discontinued, as these populations are most likely to have special dosing requirements.
+
 To minimise variability, Rapamune should be taken at the same time in relation to cyclosporine, 4 hours after the cyclosporin dose, and consistently either with or without food (see Pharmacokinetic properties, section 5.2).
 Optimally, adjustments in Rapamune dosage should be based on more than a single trough level obtained >5 days after a previous dosing change.
 

@@ -12,16 +12,16 @@ These patients were randomised to continue cyclosporine therapy or to have cyclo
 
 Adverse reactions are listed according to the following categories:
 
-Very common: ≥10 %
+Very common: �10 %
 Common: 1% and <10%
-Uncommon: ≥0.1% and <1%
+Uncommon: �0.1% and <1%
 
 Body as a whole:
 
 Very common: Lymphocele
-Common: Abnormal healing; oedema; fungal, viral, and bacterial infections
+Common: Abnormal healing; oedema; fungal, viral, and bacterial infections (such
 
-(such as Mycobacterial infections, Epstein-Barr virus, CMV, and Herpes zoster); Herpes simplex; sepsis
+as Mycobacterial infections, Epstein-Barr virus, CMV, and Herpes zoster); Herpes simplex; sepsis
 
 Cardiac disorders:
 
