@@ -13,13 +13,13 @@ It is recommended that such a management protocol be in place prior to initiatin
 
 Treatment with deferiprone should not be initiated if the patient is neutropenic.
 The risk of agranulocytosis and neutropenia is higher, if the baseline ANC count is less than 1.5x109/l.
+
 In the event of neutropenia:
 Instruct the patient to immediately discontinue deferiprone and all other medications with a potential to cause medicinal product-associated neutropenia.
 The patient should be advised to limit contact with other individuals in order to reduce the risk of potential infection.
 Obtain a complete blood cell count, corrected white blood cell count, neutrophil count, and a platelet count immediately upon diagnosing the event and then repeat daily.
 It is recommended that following recovery of the neutrophil count, weekly Complete Blood Cell count (CBC), corrected White Blood Cell count (WBC), neutrophil and platelet counts continue to be obtained for three consecutive weeks, to ensure that the patient recovers fully.
 Should any evidence of infection develop concurrent with the neutropenia, the appropriate cultures and diagnostic procedures should be performed and an appropriate antibiotic regimen instituted.
-
 In the event of severe neutropenia or agranulocytosis:
 Follow the guidelines above and administer appropriate therapy such as granulocyte growth factors, beginning the same day that the event is identified; administer daily until the neutrophil count recovers.
 Provide protective isolation and if clinically indicated admit patient to the hospital.

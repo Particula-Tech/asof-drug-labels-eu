@@ -11,7 +11,6 @@ Metabolism
 Deferiprone is metabolised predominantly to a glucuronide conjugate.
 This metabolite lacks iron binding capacity because of inactivation of the 3-hydroxy group of deferiprone.
 Peak serum concentrations of the glucuronide occur 2 to 3 hours after administration of deferiprone.
-
 Elimination
 In humans, deferiprone is eliminated mainly via the kidneys with reports of 75% to 90% of the ingested dose being recovered in the urine in the first 24 hours, in the form of free deferiprone, the glucuronide metabolite and the iron-deferiprone complex.
 

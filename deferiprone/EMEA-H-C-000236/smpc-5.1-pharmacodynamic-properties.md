@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Iron Chelator, ATC code: V03AC
+Pharmacotherapeutic group: Iron Chelator, ATC code: V03AC02
 
 The active substance is deferiprone (3-hydroxy-1,2-dimethylpyridin-4-one), a bidentate ligand which binds to iron in a 3:1 molar ratio.
 
