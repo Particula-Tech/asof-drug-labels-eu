@@ -6,10 +6,13 @@ In patients with moderate to severe renal impairment, the terminal plasma half-l
 
 Once daily dosing (300 mg once a day): a clinical study has demonstrated the non inferiority between Epivir once a day and Epivir twice a day containing regimens.
 These, results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
-Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
 
+Triple nucleoside therapy: There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when lamivudine was combined with tenofovir disoproxil fumarate and abacavir as well as with tenofovir disoproxil fumarate and didanosine as a once daily regimen.
+
+Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
 Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be taken.
+
 Pancreatitis: Cases of pancreatitis have occurred rarely.
 However it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease.
 Treatment with Epivir should be stopped immediately if clinical signs, symptoms or laboratory abnormalities suggestive of pancreatitis occur.
@@ -26,7 +29,7 @@ Treatment with nucleoside analogues should be discontinued in the setting of sym
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
 Patients co-infected with hepatitis C and treated with alpha interferon and ribavirin may constitute a special risk.
 
-Patients at increased risk should be followed closely .
+Patients at increased risk should be followed closely.
 
 Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
 There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues.
@@ -45,11 +48,11 @@ A higher risk of lipodystrophy has been associated with individual factors such 
 Clinical examination should include evaluation for physical signs of fat redistribution.
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate (see section 4.8).
-
 Liver disease: If lamivudine is being used concomitantly for the treatment of HIV and HBV, additional information relating to the use of lamivudine in the treatment of hepatitis B infection is available in the Zeffix SPC.
 
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk of severe and potentially fatal hepatic adverse events.
 In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant product information for these medicinal products.
+
 If Epivir is discontinued in patients co-infected with hepatitis B virus, periodic monitoring of liver function tests and markers of HBV replication is recommended, as withdrawal of lamivudine may result in an acute exacerbation of hepatitis (see Zeffix SPC).
 
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.

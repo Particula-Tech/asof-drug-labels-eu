@@ -51,8 +51,7 @@ Based on these data, no dose adjustment is necessary in patients with moderate o
 This may be administered as either 150 mg (15 ml) twice daily or 300 mg (30 ml) once daily (see section 4.4).
 
 Patients changing to the once daily regimen should take 150 mg (15 ml) twice a day and switch to 300 mg (30 ml) once a day the following morning.
-Where an evening once daily regimen is preferred, 150 mg
-(15 ml) of Epivir should be taken on the first morning only, followed by 300 mg (30 ml) in the evening.
+Where an evening once daily regimen is preferred, 150 mg (15 ml) of Epivir should be taken on the first morning only, followed by 300 mg (30 ml) in the evening.
 When changing back to a twice daily regimen, patients should complete the days treatment and start 150 mg (15 ml) twice a day the following morning.
 
 Less than three months of age the limited data available are insufficient to propose specific dosage recommendations (see section 5.2)

@@ -3,7 +3,7 @@
 Pharmacotherapeutic group: nucleoside analogue, ATC Code: J05A F05.
 
 Lamivudine is a nucleoside analogue which has activity against human immunodeficiency virus (HIV) and hepatitis B virus (HBV).
-It is metabolised intracellularly to the active moiety, lamivudine 5’-triphosphate.
+It is metabolised intracellularly to the active moiety, lamivudine 5’- triphosphate.
 Its main mode of action is as a chain terminator of viral reverse transcription.
 The triphosphate has selective inhibitory activity against HIV-1 and HIV-2 replication in vitro, it is also active against zidovudine-resistant clinical isolates of HIV.
 Lamivudine in combination with zidovudine exhibits synergistic anti-HIV activity against clinical isolates in cell culture.
@@ -28,6 +28,7 @@ In clinical trials, lamivudine in combination with zidovudine has been shown to 
 Clinical end-point data indicate that lamivudine in combination with zidovudine, results in a significant reduction in the risk of disease progression and mortality.
 
 Evidence from clinical studies shows that lamivudine plus zidovudine delays the emergence of zidovudine resistant isolates in individuals with no prior antiretroviral therapy.
+
 Lamivudine has been widely used as a component of antiretroviral combination therapy with other antiretroviral agents of the same class (NRTIs) or different classes (PIs, non-nucleoside reverse transcriptase inhibitors).
 
 Multiple drug antiretroviral therapy containing lamivudine has been shown to be effective in antiretrovirally-naive patients as well as in patients presenting with viruses containing the M184V mutations.
