@@ -1,10 +1,11 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-7 September 1999
+Date of first authorisation: 7 September 1999
+Date of last renewal: 7 September 2004
 
 [NovoRapid Penfill 100 U/ml, solution for injection in cartridge.]
 
-7 September, 1999
+Date of first authorisation: 7 September, 1999
 
 [NovoRapid NovoLet 100 U/ml, solution for injection in pre-filled pen.]
 
@@ -12,9 +13,8 @@
 
 [NovoRapid FlexPen 100 U/ml, solution for injection in pre-filled pen.]
 
-15 January 2001 (EU/1/99/119/009-010)
-2 April 2002 (EU/1/99/119/011)
+(all sentences already above)
 
 [NovoRapid InnoLet 100 U/ml, solution for injection in pre-filled pen.]
 
-4 June, 2003
+(all sentences already above)

@@ -1,13 +1,12 @@
 # 4.8 Undesirable effects
 
 Adverse drug reactions observed in patients using NovoRapid are mainly dose-dependent and due to the pharmacologic effect of insulin.
-As for other insulin products, hypoglycaemia, in general is the most frequently occurring undesirable effect.
+As for other insulin products, hypoglycaemia, in general is the most fre-quently occurring undesirable effect.
 It may occur if the insulin dose is too high in relation to the insulin requirement.
-Severe hypoglycaemia may lead to unconsciousness and/or convulsions and may result in temporary or permanent impairment of brain function or even death.
-In clinical trials and during marketed use the frequency varies with patient population and dose regi-mens therefore no specific frequency can be presented.
+Severe hypoglycaemia may lead to unconsciousness and/or convulsions and may result in tempo-rary or permanent impairment of brain function or even death.
+In clinical trials and during marketed use the frequency varies with patient population and dose regimens therefore no specific frequency can be presented.
 During clinical trials the overall rates of hypoglycaemia did not differ between patients treated with insulin aspart compared to human insulin.
-
-Frequencies of adverse drug reactions from clinical trials, which by an overall judgement are considered related to insulin aspart are listed below.
+Frequencies of adverse drug reactions from clinical trials, which by an overall judgement are considered re-lated to insulin aspart are listed below.
 The frequencies are defined as: Uncommon (>1/1,000, <1/100) and rare (>1/10,000, < 1/1,000).
 Isolated spontaneous cases are presented as very rare defined as (< 1/10,000).
 
@@ -15,7 +14,7 @@ Immune system disorders
 Uncommon - Urticaria, rash, eruptions
 Very rare - Anaphylactic reactions
 
-Symptoms of generalised hypersensitivity may include generalised skin rash, itching, sweating, gastro-intestinal upset, angioneurotic oedema, difficulties in breathing, palpitation and reduction in blood pressure.
+Symptoms of generalised hypersensitivity may include generalised skin rash, itching, sweating, gastrointes-tinal upset, angioneurotic oedema, difficulties in breathing, palpitation and reduction in blood pressure.
 Generalised hypersensitivity reactions are potentially life threatening.
 
 Nervous system disorders
@@ -37,7 +36,7 @@ Lipodystrophy may occur at the injection site as a consequence of failure to rot
 
 Uncommon - Local hypersensitivity-
 Local hypersensitivity reactions (redness, swelling and itching at the injection site) may occur during treatment with insulin.
-These reactions are usually transitory and normally they disappear during con-tinued treatment.
+These reactions are usually transitory and normally they disappear during continued treatment.
 
 General disorders and administration site conditions
 Uncommon - Oedema
@@ -58,4 +57,4 @@ Uncommon - Local hypersensitivity
 
 [NovoRapid InnoLet 100 U/ml, solution for injection in pre-filled pen.]
 
-Frequencies of adverse drug reactions from clinical trials, which by an overall judgment are considered related to NovoRapid are listed below.
+Frequencies of adverse drug reactions from clinical trials, which by an overall judgment are considered re-lated to NovoRapid are listed below.

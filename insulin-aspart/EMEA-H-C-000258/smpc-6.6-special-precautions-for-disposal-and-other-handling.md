@@ -5,7 +5,7 @@ NovoRapid vials are for use with insulin syringes with the corresponding unit sc
 NovoRapid may be used in an infusion pump system (CSII) as described in section 4.2.
 Tubings in which the inner surface materials are made of polyethylene or polyolefin have been evaluated and found compatible with pump use.
 
-For intravenous use, infusion systems with NovoRapid 100 U/ml at concentrations from 0.05 U/ml to 1.0 U/ml insulin aspart in the infusion fluids 0.9% sodium chloride, 5% dextrose or 10% dextrose in-clusive 40 mmol/l potassium chloride using polypropylene infusion bags are stable at room temperature for 24 hours.
+For intravenous use, infusion systems with NovoRapid 100 U/ml at concentrations from 0.05 U/ml to 1.0 U/ml insulin aspart in the infusion fluids 0.9% sodium chloride, 5% dextrose or 10% dextrose inclusive 40 mmol/l potassium chloride using polypropylene infusion bags are stable at room temperature for 24 hours.
 
 Although stable over time, a certain amount of insulin will be initially adsorbed to the material of the infusion bag.
 Monitoring of blood glucose is necessary during insulin infusion.
