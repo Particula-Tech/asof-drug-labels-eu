@@ -1,10 +1,15 @@
 # 4.2 Posology and method of administration
 
-Lantus contains insulin glargine, an insulin analogue with a prolonged duration of action.
+Lantus contains insulin glargine an insulin analogue with a prolonged duration of action.
 It should be administered once daily at any time but at the same time each day.
 
 The dosage and timing of dose of Lantus should be individually adjusted.
 In patients with type 2 diabetes mellitus, Lantus can also be given together with orally active antidiabetic medicinal products.
+
+Children
+
+In children efficacy and safety of Lantus have only been demonstrated when given in the evening.
+Due to limited experience the efficacy and safety of Lantus have not been demonstrated in children below the age of 6 years.
 
 Transition from other insulins to Lantus
 
@@ -12,10 +17,10 @@ When changing from a treatment regimen with an intermediate or long-acting insul
 
 To reduce the risk of nocturnal and early morning hypoglycaemia, patients who are changing their basal insulin regimen from a twice daily NPH insulin to a once daily regimen with Lantus should reduce their daily dose of basal insulin by 20-30% during the first weeks of treatment.
 During the first weeks the reduction should, at least partially, be compensated by an increase in mealtime insulin, after this period the regimen should be adjusted individually.
-
 As with other insulin analogues, patients with high insulin doses because of antibodies to human insulin may experience an improved insulin response with Lantus.
 
 Close metabolic monitoring is recommended during the transition and in the initial weeks thereafter.
+
 With improved metabolic control and resulting increase in insulin sensitivity a further adjustment in dosage regimen may become necessary.
 Dose adjustment may also be required, for example, if the patient's weight or life-style changes, change of timing of insulin dose or other circumstances arise that increase susceptibility to hypo-or hyperglycaemia (see section 4.4).
 
@@ -35,11 +40,11 @@ Mixing or diluting can change its time/action profile and mixing can cause preci
 
 For further details on handling, see section 6.6.
 
-Due to limited experience the efficacy and safety of Lantus could not be assessed in the following groups of patients: children, patients with impaired liver function or patients with moderate/severe renal impairment (see section 4.4).
+Due to limited experience the efficacy and safety of Lantus could not be assessed in the following groups of patients: patients with impaired liver function or patients with moderate/severe renal impairment (see section 4.4).
 
 [Lantus 100 IU/ml solution for injection in a cartridge.]
 
-Due to limited experience the efficacy and safety of Lantus could not be assessed in the following groups of patients: children, patients with impaired liver function or patients with moderate/severe renal impairment (see 4.4).
+Due to limited experience the efficacy and safety of Lantus could not be assessed in the following groups of patients: patients with impaired liver function or patients with moderate/severe renal impairment (see 4.4).
 
 [Lantus 100 IU/ml OptiSet solution for injection]
 

@@ -121,7 +121,6 @@ Dispose of the used needle safely.
 Figure 5
 
 (b) Now replace the pen cap (H) on the pen.
-
 Subsequent injections
 
 (a) Affix a new needle for each injection.
@@ -147,6 +146,7 @@ Button (A) enables you to make a further check: it can only be pulled out as far
 
 Example:
 If you have set the dose arrow (C) to 20 IU and button (A) can only be pulled out to the stop for 12 IU, then only 12 IU insulin can be injected with this pen (Figure 6b).
+
 Figure 6b
 
 In this example, either the other 8 IU will have to be injected using a new pen, or the entire 20 IU dose will have to be injected using a new pen.
