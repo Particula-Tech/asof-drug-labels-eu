@@ -1,18 +1,25 @@
 # 4.8 Undesirable effects
 
-Ovarian cancer patients: In 512 patients with ovarian cancer (a subset of 876 solid tumour patients) treated at a dose of 50 mg/m2, myelosuppression was mostly mild or moderate and manageable.
-Leukopaenia (33.2 %) was the most frequently reported haematological adverse effect, followed by, anaemia (32.2 %), neutropaenia (31.6 %) and thrombocytopaenia (10.7 %).
-Life threatening (Grade IV) haematological effects were extremely rare (1.6 %, 0.4 %, 2.9 %, 0.2 % respectively).
-Growth factor support was required infrequently (< 5 %) and transfusion support was required in approximately 15 % of patients (see 4.2).
-
-Frequently reported treatment related adverse effects included palmar-plantar erythrodysesthesia (PPE) (46.1 %) and stomatitis (38.9 %).
+Ovarian cancer patients: 512 patients with ovarian cancer (a subset of 876 solid tumour patients) were treated with Caelyx at a dose of 50 mg/m2 in clinical trials.
+The most frequently reported treatment related adverse effects included palmar-plantar erythrodysesthesia (PPE) (46.1 %) and stomatitis (38.9 %).
 These effects were mainly mild, with severe (Grade III) cases reported in 19.5 % and 8.0 % respectively, and life threatening (Grade IV) cases reported in 0.6 % and 0.8 % respectively.
-These resulted infrequently in permanent treatment discontinuation (< 5 % and
-< 1 % respectively).
+These resulted infrequently in permanent treatment discontinuation (< 5 % and < 1 % respectively).
 
-Other frequently reported drug related effects (≥ 5 %) included nausea (38.1 %), asthenia (34.0 %), rash (25.0 %), vomiting (24.4 %), alopecia (17.4 %), constipation (12.9 %), anorexia (12.1 %), mucous membrane disorder (14.5 %), diarrhoea (11.7 %), abdominal pain (8.2 %), fever (9.4 %), paresthesia (7.6 %), pain (7.4 %), skin discolouration (6.1 %), pharyngitis (6.4 %), dry skin (5.9 %), dyspepsia (5.5 %) and somnolence (5.1 %).
+| Treatment Related Undesirable Effects Reported in Ovarian Cancer Clinical Trials (≥ 5 % of Caelyx-treated patients) by Severity (Grade III, IV), Body System and COSTART Preferred Term (n=512) |  |  |  |
+| --- | --- | --- | --- |
+| Undesirable Effect by Body System | Grade III % | Grade IV % | Total % |
+| Body as a whole Asthenia Mucous Membrane Disorder Fever Abdominal Pain Pain | 6.6 3.1 0.4 1.8 1.0 | - - - - - | 34.0 14.5 9.4 8.2 7.4 |
+| Digestive system Stomatitis Nausea Vomiting Constipation Anorexia Diarrhoea Dyspepsia | 8.0 4.1 4.3 0.4 0.6 1.6 0.4 | 0.8 0.2 0.6 - - - - | 38.9 38.1 24.4 12.9 12.1 11.7 5.5 |
+| Hemic and lymphatic system Leukopaenia Anaemia Neutropaenia Thrombocytopaenia | 7.0 5.5 9.0 1.2 | 1.6 0.4 2.9 0.2 | 33.2 32.2 31.6 10.7 |
+| Nervous system Paresthesia Somnolence | 0.2 0.4 | - - | 7.6 5.1 |
+| Respiratory System Pharyngitis | 0.6 | - | 6.4 |
+| Skin and appendages Hand Foot Syndrome* Rash Alopecia Skin Discolouration Dry Skin | 19.5 3.3 1.2 - - | 0.6 0.2 - - - | 46.1 25.0 17.4 6.1 5.9 |
 
-Other less frequently (1 to < 5 %) reported undesirable effects included peripheral oedema, oral moniliasis, vasodilatation, mouth ulceration, pruritus, allergic reaction, dehydration, dyspnea, vesiculobullous rash, chills, infection, weight loss, esophagitis, skin disorder, exfoliative dermatitis, cardiovascular disorder, chest pain, dizziness, maculopapular rash, gastritis, myalgia, back pain, depression, insomnia, dysphagia, increased cough, sweating, nausea and vomiting, malaise, taste perversion, urinary tract infection, conjunctivitis, acne, gingivitis, herpes zoster, hypochromic anaemia, anxiety, vaginitis, headache, flatulence, dry mouth, cachexia, neuropathy, hypertonia, skin ulcer and dysuria.
+* PPE
+Myelosuppression was mostly mild or moderate and manageable.
+Leukopaenia was the most frequently reported haematological adverse effect, followed by anaemia, neutropaenia and thrombocytopaenia. life threatening (Grade IV) haematological effects were reported at incidences of 1.6 %, 0.4 %, 2.9 %, 0.2 % respectively.
+Growth factor support was required infrequently (< 5 %) and transfusion support was required in approximately 15 % of patients (see 4.2).
+Undesirable effects reported between 1 and 5 % in Caelyx-treated patients were headache, allergic reaction, chills, infection, chest pain, back pain, malaise, vasodilatation, cardiovascular disorder, oral moniliasis, mouth ulceration, esophagitis, nausea and vomiting, gastritis, dysphagia, dry mouth, flatulence, gingivitis, hypochromic anaemia, peripheral oedema, weight loss, dehydration, cachexia, myalgia, dizziness, insomnia, anxiety, neuropathy, depression, hypertonia, dyspnoea, increased cough, vesiculobullous rash, pruritus, exfoliative dermatitis, skin disorder, maculopapular rash, sweating, acne, herpes zoster, skin ulcer, conjunctivitis, taste perversion, urinary tract infection, dysuria and vaginitis.
 
 Solid tumour patients: in a larger cohort of 876 patients with solid tumours treated at a dose of 50 mg/m2 (including the subset of 512 ovarian cancer patients), the safety profile and incidence of adverse effects are comparable to that of the subset of 512 ovarian cancer patients.
 
@@ -40,7 +47,6 @@ The most frequently observed OI’s in clinical studies were candidiasis, cytome
 
 Other less frequently (< 5 %) observed undesirable effects included palmar-plantar erythrodysesthesia, oral monoliasis, nausea and vomiting, vomiting, weight loss, rash, mouth ulceration, dyspnea, abdominal pain, hypersensitivity reactions including anaphylactic reactions, vasodilatation, dizziness, anorexia, glossitis, constipation, paresthesia, retinitis and confusion.
 Following marketing, bullous eruption has been reported rarely in this population.
-
 Clinically significant laboratory abnormalities frequently (≥ 5 %) occurred in clinical studies with Caelyx.
 These included increases in alkaline phosphatase; and increases in AST and bilirubin which are believed to be related to the underlying disease and not Caelyx.
 Reduction in haemoglobin and platelets were less frequently (< 5 %) reported.
@@ -56,14 +62,14 @@ Infusion reactions rarely recur after the first treatment cycle with Caelyx (see
 
 Stomatitis has been reported in patients receiving continuous infusions of conventional doxorubicin hydrochloride and was frequently reported in patients receiving Caelyx.
 It did not interfere with patients completing therapy and no dosage adjustments are generally required, unless stomatitis is affecting a patient’s ability to eat.
-In this case, the dose interval may be extended by 1-2 weeks or the dose reduced (see 4.2).
+In this case, the dose interval may be extended by 1 - 2 weeks or the dose reduced (see 4.2).
 
 Palmar-plantar erythrodysesthesia is characterised by painful, macular reddening skin eruptions.
 In patients experiencing this event, it is generally seen after two or three cycles of treatment.
 In most patients it clears in one or two weeks, with or without treatment with corticosteroids.
-Pyridoxine at a dose of 50-150 mg per day has been used for the prophylaxis and treatment of PPE.
+Pyridoxine at a dose of 50 - 150 mg per day has been used for the prophylaxis and treatment of PPE.
 Other strategies to prevent and treat PPE, which may be initiated 4 to 7 days after treatment with Caelyx includes keeping hands and feet cool, by exposing them to cool water (soaks, baths, or swimming), avoiding excessive heat/hot water and keeping them unrestricted (no socks, gloves, or shoes that are tight fitting).
-It appears to be primarily related to the dose schedule and can be reduced by extending the dose interval 1-2 weeks or reducing the dose (see 4.2).
+It appears to be primarily related to the dose schedule and can be reduced by extending the dose interval 1 - 2 weeks or reducing the dose (see 4.2).
 However, this reaction can be severe and debilitating in some patients and may require discontinuation of treatment.
 
 An increased incidence of congestive heart failure is associated with doxorubicin therapy at cumulative doses > 450 mg/m2.
@@ -93,4 +99,5 @@ Animal studies indicate that administration of doxorubicin hydrochloride as a li
 If any signs or symptoms of extravasation occur (e.g., stinging, erythema) terminate the infusion immediately and restart in another vein.
 The application of ice over the site of extravasation for approximately 30 minutes may be helpful in alleviating the local reaction.
 Caelyx must not be given by the intramuscular or subcutaneous route.
+
 Recall of skin reaction due to prior radiotherapy has rarely occurred with Caelyx administration.

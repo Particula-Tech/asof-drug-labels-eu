@@ -42,11 +42,11 @@ Therefore, any patient treated with doxorubicin should be kept under haematologi
 
 Given the difference in pharmacokinetic profiles and dosing schedules, Caelyx should not be used interchangeably with other formulations of doxorubicin hydrochloride.
 
-Combination chemotherapy with Caelyx has been extensively studied in solid tumor populations (see 4.5), however the efficacy of Caelyx combination chemotherapy has not been established in the treatment of ovarian cancer.
+Combination chemotherapy with Caelyx has been extensively studied in solid tumour populations (see 4.5), however the efficacy of Caelyx combination chemotherapy has not been established in the treatment of ovarian cancer.
 
 Infusion-associated reactions: Serious and sometimes life-threatening infusion reactions, which are characterised by allergic-like or anaphylactoid-like reactions, with symptoms including asthma, flushing, urticarial rash, chest pain, fever, hypertension, tachycardia, pruritus, sweating, shortness of breath, facial oedema, chills, back pain, tightness in the chest and throat and/or hypotension may occur within minutes of starting the infusion of Caelyx (see 4.8).
 Temporarily stopping the infusion usually resolves these symptoms without further therapy.
-However, medications to treat these symptoms (e.g., antihistamines, corticosteroids, and adrenaline), as well as emergency equipement should be available for immediate use.
+However, medications to treat these symptoms (e.g., antihistamines, corticosteroids, and adrenaline), as well as emergency equipment should be available for immediate use.
 In most patients treatment can be resumed after all symptoms have resolved, without recurrence.
 Infusion reactions rarely recur after the first treatment cycle.
 To minimise the risk of infusion reactions, the initial dose should be administered at a rate no greater than 1 mg/minute (see 4.2).

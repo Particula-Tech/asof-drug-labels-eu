@@ -9,7 +9,6 @@ Caelyx is administered intravenously at a dose of 50 mg/m2 once every 4 weeks fo
 
 For doses < 90 mg: dilute Caelyx in 250 ml 5 % (50 mg/ml) glucose solution for infusion.
 For doses ≥ 90 mg: dilute Caelyx in 500 ml 5 % (50 mg/ml) glucose solution for infusion.
-
 To minimize the risk of infusion reactions, the initial dose is administered at a rate no greater than 1 mg/minute.
 If no infusion reaction is observed, subsequent Caelyx infusions may be administered over a 60 minute period.
 AIDS-related KS:
@@ -29,13 +28,13 @@ The infusion may be given through a peripheral vein.
 Do not use with in-line filters.
 Caelyx must not be given by the intramuscular or subcutaneous route (see 6.6).
 
-To manage adverse events such as palmar-plantar erythrodysesthesia (PPE), stomatitis or haematologic toxicity, the dose may be reduced or delayed.
+To manage adverse events such as palmar-plantar erythrodysesthesia (PPE), stomatitis or haematological toxicity, the dose may be reduced or delayed.
 Guidelines for Caelyx dose modification secondary to these adverse effects are provided in the tables below.
 The toxicity grading in these tables is based on the National Cancer Institute Common Toxicity Criteria (NCI-CTC).
 
 The tables for PPE and stomatitis provide the schedule followed for dose modification in clinical trials in the treatment of ovarian cancer (modification of the recommended 4 week treatment cycle): if these toxicities occur in patients with AIDS related KS, the recommended 2 to 3 week treatment cycle can be modified in a similar manner.
 
-The table for haematologic toxicity provides the schedule followed for dose modification in clinical trials in the treatment of patients with ovarian cancer only.
+The table for haematological toxicity provides the schedule followed for dose modification in clinical trials in the treatment of patients with ovarian cancer only.
 Dose modification in patients with AIDS-KS is addressed in 4.8.
 Guidelines For Caelyx Dose Modification
 
@@ -122,7 +121,7 @@ Caelyx can be administered to patients with liver metastases with concurrent ele
 Prior to Caelyx administration, evaluate hepatic function using conventional clinical laboratory tests such as ALT/AST, alkaline phosphatase, and bilirubin.
 
 Patients with impaired renal function: As doxorubicin is metabolised by the liver and excreted in the bile, dose modification should not be required.
-Population pharmacokinetic data (in the range of creatinine clearance tested of 30–156 ml/min) demonstrate that Caelyx clearance is not influenced by renal function.
+Population pharmacokinetic data (in the range of creatinine clearance tested of 30 - 156 ml/min) demonstrate that Caelyx clearance is not influenced by renal function.
 No pharmacokinetic data are available in patients with creatinine clearance of less than 30 ml/min.
 
 AIDS-KS patients with splenectomy: As there is no experience with Caelyx in patients who have had splenectomy, treatment with Caelyx is not recommended.
