@@ -1,0 +1,3 @@
+# 4.7 Effects on ability to drive and use machines
+
+As dizziness and altered vision were reported in clinical trials with sildenafil, patients should be aware of how they react to VIAGRA, before driving or operating machinery.
