@@ -1,33 +1,33 @@
 # 4.8 Undesirable effects
 
-The following undesirable effects refer to adverse events seen in clinical trials done with MABTHERA in 315 patients.
-These patients were pre-treated and the majority had poor prognostic factors.
-These adverse events may not be directly related to treatment with MABTHERA.
-Patients with high tumour burden defined as single lesions with a diameter > 10 cm tended to have an increased incidence of grade 3-4 events (17% versus 8%)
+Patients with high tumour burden defined as single lesions with a diameter > 10 cm have an increased incidence of severe (grade 3-4) adverse reactions.
 
-Infusion Related Adverse Events
+Infusion Related Adverse Reactions
 
-The majority of patients may experience infusion-related symptoms consisting primarily of fever and chills/rigour occuring predominantly during the first MABTHERA infusion, usually within the first two hours.
-Other frequent infusion-related symptoms include nausea, urticaria/rash, fatigue, headache, pruritus, bronchospasm/dyspnea, sensation of tongue or throat swelling (angioedema), throat irritation, rhinitis, vomiting, transient hypotension, flushing, and tumour pain.
+Infusion-related adverse reactions including cytokine release syndrome occurred in more than 50% of patients, and were predominantly seen during the first infusion, usually during the first one to two hours.
+These events mainly comprised fever, chills, and rigours.
+Other symptoms include flushing, angioedema, nausea, urticaria/rash, fatigue, headache, throat irritation, rhinitis, vomiting, and tumour pain.
+These symptoms were accompanied by hypotension and bronchospasm in about 10% of the cases.
 Less frequently, patients experienced an exacerbation of pre-existing cardiac conditions such as angina pectoris or congestive heart failure.
 The incidence of infusion-related events decreases substantially with subsequent infusions.
 
-Haematologic Adverse Events
+Fatal outcomes have been reported for patients who developed severe cytokine release syndrome, occasionally associated with signs and symptoms of tumour lysis syndrome leading to multi-organ failure, respiratory failure, and renal failure (see Section 4.4).
+Haematologic Adverse Reactions
 
 Haematologic abnormalities occur in a minority of patients and are usually mild and reversible.
 Severe thrombocytopenia and neutropenia occurred in 1.3% and 1.9% of patients respectively, and severe anaemia occurred in 1.0% of patients.
 A single occurence of transient aplastic anaemia (pure red cell aplasia) and infrequent occurences of hemolytic anaemia following MABTHERA treatment were reported.
-Other Adverse Events
 
-Pulmonary events, including bronchoconstriction, have been reported with MABTHERA therapy, and only 2% of all patients received bronchodilators.
-A single report of bronchiolitis obliterans was noted.
+Other Adverse Reactions
+
+Pulmonary adverse reaction, including severe bronchoconstriction and rarely fatalities from respiratory failure, have been reported with MABTHERA therapy.
+
+Anaphylaxis has been reported in patients treated with MABTHERA (see Section 4.4).
 
 Although MABTHERA induces B-cell depletion and can be associated with decreased serum immunoglobulins, the incidence of infection does not appear to be greater than expected in this patient population, and serious or opportunistic infections were considerably less than reported with conventional chemotherapy.
 During treatment and up to one year following therapy, approximately 17% and 16%, respectively, of patients developed infections which were usually common, non opportunistic and mild.
 
-Single agent MABTHERA therapy has not been associated with clinically significant hepatic or renal toxicity, though mild, transient increases in liver function tests have occurred.
-
-Additional adverse events which occurred in ≥ 1% of patients are listed below.
+Additional adverse events which occurred in ≥ 1% of patients observed in clinical trials are listed below.
 
 Body as a Whole⎯asthenia, abdominal pain, back pain, chest pain, malaise, abdominal enlargement, pain at infusion site;
 Cardiovascular System⎯hypertension, bradycardia, tachycardia, arrythmia, postural hypotension;

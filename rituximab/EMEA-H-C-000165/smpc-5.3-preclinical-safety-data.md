@@ -9,3 +9,8 @@ No adverse reactions unrelated to the targeted effect were seen, whether in sing
 No long-term animal studies have been performed to establish the carcinogenic potential of rituximab, or to determine its effects on fertility in males or females.
 Standard tests to investigate mutagenicity have not been carried out, since such tests are not relevant for this molecule.
 However, due to its character its is unlikely that rituximab has any mutagenic potential.
+9.
+
+[MABTHERA 500 mg]
+
+14.
