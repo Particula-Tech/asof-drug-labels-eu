@@ -22,23 +22,5 @@ There is no accumulation of rivastigmine or the decarbamylated metabolite in pat
 Elderly subjects: While bioavailability of rivastigmine is greater in elderly than in young healthy volunteers, studies in Alzheimer patients aged between 50 and 92 years showed no change in bioavailability with age.
 
 Subjects with hepatic impairment: The Cmax of rivastigmine was approximately 60% higher and the AUC of rivastigmine was more than twice as high in subjects with mild to moderate hepatic impairment compared to healthy subjects.
+
 Subjects with renal impairment: Cmax and AUC of rivastigmine were more than twice as high in subjects with moderate renal impairment compared with healthy subjects; however there were no changes in Cmax and AUC of rivastigmine in subjects with severe renal impairment.
-
-[EXELON 3 mg hard capsules]
-
-(all sentences already above)
-
-[EXELON 4.5 mg hard capsules]
-
-(all sentences already above)
-
-[EXELON 6 mg hard capsules]
-
-(all sentences already above)
-
-[EXELON 2 mg/ml Oral Solution]
-
-Absolute bioavailability after a 3 mg dose is about 36% ± 13%.
-Administration of rivastigmine capsules with food delays absorption (tmax) by 90 min and lowers Cmax and increases AUC by approximately 30%.
-
-Following administration of 14C-rivastigmine, renal elimination was rapid and essentially complete (> 90%) within 24 hours.

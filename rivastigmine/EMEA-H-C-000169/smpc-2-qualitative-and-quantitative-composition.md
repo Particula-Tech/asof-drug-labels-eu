@@ -13,7 +13,3 @@ Each capsule contains rivastigmine hydrogen tartrate corresponding to rivastigmi
 [EXELON 6 mg hard capsules]
 
 Each capsule contains rivastigmine hydrogen tartrate corresponding to rivastigmine 6 mg.
-
-[EXELON 2 mg/ml Oral Solution]
-
-Each ml contains rivastigmine hydrogen tartrate corresponding to rivastigmine base 2.0 mg.

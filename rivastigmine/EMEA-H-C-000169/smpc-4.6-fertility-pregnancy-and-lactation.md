@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Use during pregnancy and lactation
 
 Pregnancy: No effects on fertility or embryofoetal development were observed in rats and rabbits, except at doses related to maternal toxicity.
 In peri/postnatal studies in rats, an increased gestation time was observed.

@@ -7,6 +7,6 @@ Other common adverse effects (incidence ≥5% and ≥ placebo) were abdominal pa
 
 Other common side effects were: increased sweating, malaise, weight loss, and tremor.
 
-Rare cases of angina pectoris, gastric and duodenal ulcers, gastrointestinal haemorrhage, bradycardia, seizure, rashes, and syncope were observed.
+Rare cases of angina pectoris, gastric and duodenal ulcers, gastrointestinal haemorrhage, bradycardia, seizure, rashes and syncope were observed.
 
 No notable abnormalities in laboratory values were observed.

@@ -13,7 +13,3 @@ EU/1/98/066/007-9
 [EXELON 6 mg hard capsules]
 
 EU/1/98/066/010-12
-
-[EXELON 2 mg/ml Oral Solution]
-
-EU/1/98/066/013
