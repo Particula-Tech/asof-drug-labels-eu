@@ -10,7 +10,7 @@ Under similar conditions, bexarotene concentrations were not affected by concomi
 Concomitant administration of gemfibrozil with bexarotene is not recommended.
 
 Drug interactions: effects of bexarotene on other substances: there are indications that bexarotene may induce CYP3A4.
-Therefore, repeated administration of bexarotene may result in an auto-induction of its own metabolism and, particularly at dose levels greater than 300 mg/m2/day, may increase the rate of metabolism and reduce plasma concentrations of other substances metabolised by cytochrome P450 3A4.
+Therefore, repeated administration of bexarotene may result in an auto-induction of its own metabolism and, particularly at dose levels greater than 300 mg/m2/day, may increase the rate of metabolism and reduce plasma concentrations of other substances metabolised by cytochrome P450 3A4, such as tamoxifen.
 For example bexarotene may reduce the efficacy of oral contraceptives (see 4.4 and 4.6).
 
 Laboratory test interactions: CA125 assay values in patients with ovarian cancer may be accentuated with bexarotene therapy.
