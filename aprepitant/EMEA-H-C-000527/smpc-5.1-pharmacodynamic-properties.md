@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antiemetics and Antinauseants, ATC code: A04A D12
+Pharmacotherapeutic group: Antiemetics and Antinauseants, ATC code: A04A D 12
 
 Aprepitant is a selective high-affinity antagonist at human substance P neurokinin 1 (NK1) receptors.
 

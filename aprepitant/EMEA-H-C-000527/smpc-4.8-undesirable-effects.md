@@ -13,13 +13,13 @@ The following adverse reactions were observed in patients treated with the aprep
 
 Blood and the lymphatic system disorders:
 Uncommon: anaemia.
-
 Metabolism and nutrition disorders:
 Common: anorexia
 Uncommon: weight gain.
 
 Psychiatric disorders:
 Uncommon: disorientation, euphoria.
+
 Nervous system disorders:
 Common: headache
 Uncommon: dizziness, dream abnormality.

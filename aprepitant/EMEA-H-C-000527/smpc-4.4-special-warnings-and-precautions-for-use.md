@@ -15,7 +15,7 @@ Therefore, caution is advised due to the potential risk of ergot-related toxicit
 Coadministration of EMEND with warfarin results in decreased prothrombin time, reported as International Normalised Ratio (INR).
 In patients on chronic warfarin therapy, the INR should be monitored closely during 2 weeks following initiation of each 3-day course of EMEND (see section 4.5).
 
-The efficacy of oral contraceptives may be reduced during administration of EMEND.
+The efficacy of hormonal contraceptives may be reduced during and for 28 days after administration of EMEND.
 Alternative or back-up methods of contraception should be used during treatment with EMEND and for 2 months following the last dose of EMEND (see section 4.5).
 
 Concomitant administration of EMEND with medicinal products that strongly induce CYP3A4 activity (e.g. rifampicin, phenytoin, carbamazepine, phenobarbital) should be avoided as the combination results in reductions of the plasma concentrations of aprepitant (see section 4.5).
@@ -24,3 +24,11 @@ Concomitant administration of EMEND with medicinal products that inhibit CYP3A4 
 (e.g. ritonavir, ketoconazole, clarithromycin, telithromycin) should be approached cautiously as the combination results in increased plasma concentrations of aprepitant (see section 4.5).
 
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
+
+[EMEND 125 mg hard capsules]
+
+(all sentences already above)
+
+[EMEND 125 mg hard capsule]
+
+The efficacy of hormonalcontraceptives may be reduced during and for 28 days after administration of EMEND.
