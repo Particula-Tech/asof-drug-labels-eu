@@ -13,4 +13,5 @@ These reactions are usually transitory and normally disappear during continued t
 
 Generalised hypersensitivity reactions may rarely occur.
 Generalised hypersensitivity reactions are potentially life-threatening.
+
 Lipodystrophy may occur at the injection site as a consequence of failure to rotate injection site within an area.

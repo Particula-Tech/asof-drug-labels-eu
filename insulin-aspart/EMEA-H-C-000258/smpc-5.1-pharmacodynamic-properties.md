@@ -4,7 +4,6 @@ Pharmacotherapeutic group: fast-acting human insulin analogue.
 ATC code A10A B05.
 
 The blood glucose lowering effect of insulin occurs when the molecules facilitate the uptake of glucose by binding to insulin receptors on muscle and fat cells - and simultaneously inhibit the output of glucose from the liver.
-
 NovoRapid produces a more rapid onset of action compared to soluble human insulin, together with a lower glucose concentration, as assessed within the first four hours after a meal.
 NovoRapid has a shorter duration of action compared to soluble human insulin after subcutaneous injection.
 
@@ -34,7 +33,6 @@ Fig. I. Blood glucose concentrations following a single pre-meal dose of NovoRap
 When NovoRapid is injected subcutaneously, the onset of action will occur within 10–20 minutes of injection.
 The maximum effect is exerted between 1 and 3 hours after injection.
 The duration of action is 3 to 5 hours.
-
 Clinical trials in patients with Type 1 diabetes have demonstrated a lower postprandial blood glucose with NovoRapid compared to soluble human insulin (Fig.
 I). In two long-term open label trials in patients with Type 1 diabetes comprising 1070 and 884 patients, respectively, NovoRapid reduced glycosylated haemoglobin by 0.12 [95% C.I.
 0.03; 0.22 percentage points and by 0.15 [95% C.I.
@@ -51,7 +49,7 @@ Fig. I. Blood glucose concentrations following a single pre-meal dose of NovoRap
 
 When NovoRapid Penfill is injected subcutaneously the onset of action will occur within 10–20 minutes of injection.
 
-[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe.]
+[NovoRapid NovoLet 100 U/ml, solution for injection, pre-filled syringe.]
 
 NovoRapid NovoLet produces a more rapid onset of action compared to soluble human insulin, together with a lower glucose concentration, as assessed within the first four hours after a meal.
 NovoRapid NovoLet has a shorter duration of action compared to soluble human insulin after subcutaneous injection.
@@ -59,7 +57,3 @@ NovoRapid NovoLet has a shorter duration of action compared to soluble human ins
 Fig. I. Blood glucose concentrations following a single pre-meal dose of NovoRapid NovoLet injected immediately before a meal (solid curve) or soluble human insulin administered 30 minutes before a meal (hatched curve) in patients with Type 1 diabetes mellitus.
 
 When NovoRapid NovoLet is injected subcutaneously, the onset of action will occur within 10-20 minutes of injection.
-
-[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe. (SmPC 4)]
-
-(all sentences already above)

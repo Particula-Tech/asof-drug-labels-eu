@@ -10,12 +10,8 @@ The container must not be refilled.
 
 NovoRapid Penfill cartridges are designed to be used with the Novo Nordisk insulin delivery system and NovoFine needles.
 
-[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe.]
+[NovoRapid NovoLet 100 U/ml, solution for injection, pre-filled syringe.]
 
 For use by one person only.
 
 NovoFine needles are designed to be used with NovoLet.
-
-[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe. (SmPC 4)]
-
-(all sentences already above)

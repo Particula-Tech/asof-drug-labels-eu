@@ -20,7 +20,7 @@ Animal reproduction studies have not revealed any differences between NovoRapid 
 There are no restrictions on treatment with NovoRapid Penfill during lactation.
 However, the NovoRapid Penfill dosage may need to be adjusted.
 
-[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe.]
+[NovoRapid NovoLet 100 U/ml, solution for injection, pre-filled syringe.]
 
 There is limited clinical experience with NovoRapid NovoLet in pregnancy.
 
@@ -28,9 +28,3 @@ Animal reproduction studies have not revealed any differences between NovoRapid 
 
 There are no restrictions on treatment with NovoRapid NovoLet during lactation.
 However, the NovoRapid NovoLet dosage may need to be adjusted.
-
-[NovoRapid NovoLet 100 U/ml, solution for injection, prefilled syringe. (SmPC 4)]
-
-However, the NovoRapid
-
-NovoLet dosage may need to be adjusted.
