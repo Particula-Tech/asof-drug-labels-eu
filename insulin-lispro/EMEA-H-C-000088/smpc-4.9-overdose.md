@@ -14,3 +14,6 @@ However, glucose solution must be given intravenously if glucagon is not availab
 The patient should be given a meal as soon as consciousness is recovered.
 
 Sustained carbohydrate intake and observation may be necessary because hypoglycaemia may recur after apparent clinical recovery.
+
+5.
+PHARMALOGICAL PROPERTIES

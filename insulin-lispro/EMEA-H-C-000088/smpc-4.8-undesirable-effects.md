@@ -11,3 +11,23 @@ It may cause a rash over the whole body, shortness of breath, wheezing, reductio
 Severe cases of generalised allergy may be life-threatening.
 
 Lipodystrophy may occur at the injection site.
+
+[Humalog 100 U/ml, solution for injection in vial]
+
+(all sentences already above)
+
+[Humalog 100 U/ml, solution for injection in cartridge]
+
+It may cause rash a over the whole body, shortness of breath, wheezing, reduction in blood pressure, fast pulse, or sweating.
+
+[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
+
+(all sentences already above)
+
+[Humalog - HumaJect 100 U/ml, solution for injection]
+
+(all sentences already above)
+
+[Humalog-Pen 100 U/ml, solution for injection]
+
+(all sentences already above)
