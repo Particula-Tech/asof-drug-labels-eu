@@ -1,3 +1,16 @@
 # 4.7 Effects on ability to drive and use machines
 
-Use of the correct therapeutic dose of insulins has no known effect on driving or the use of machinery.
+The patient’s ability to concentrate and react may be impaired as a result of hypoglycaemia or hyperglycaemia, for example, as a result of visual impairment.
+This may constitute a risk in situations where these abilities are of special importance (e.g. driving a car or operating machinery).
+
+[Humalog vials (100 U/ml, 10 ml)]
+
+The patient’s ability to concentrate and react may be impaired as a result of hypoglycaemia or hyperglycaemia , for example, as a result of visual impairment.
+
+[Humalog cartridge (100 U/ml, 1.5 ml)]
+
+(all sentences already above)
+
+[Humalog cartridge (100 U/ml, 3.0 ml)]
+
+(all sentences already above)

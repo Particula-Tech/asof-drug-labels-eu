@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
-Hypoglycemia is the most frequent undesirable effect of insulin therapy that a patient with diabetes may suffer.
-Severe hypoglycemia may lead to loss of consciousness, and in extreme cases, death.
+Hypoglycaemia is the most frequent undesirable effect of insulin therapy that a patient with diabetes may suffer.
+Severe hypoglycaemia may lead to loss of consciousness, and in extreme cases, death.
 
 Local allergy in patients occasionally occurs as redness, swelling, and itching at the site of insulin injection.
 This condition usually resolves in a few days to a few weeks.
