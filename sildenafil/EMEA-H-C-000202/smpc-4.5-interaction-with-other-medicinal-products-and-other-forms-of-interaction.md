@@ -14,17 +14,17 @@ Co-administration of the HIV protease inhibitor ritonavir, which is a highly pot
 At 24 hours, the plasma levels of sildenafil were still approximately 200 ng/ml, compared to approximately 5 ng/ml when sildenafil was dosed alone.
 This is consistent with ritonavir’s marked effects on a broad range of P450 substrates.
 Sildenafil had no effect on ritonavir pharmacokinetics.
-Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is not advised (see Section 4.4 Special warnings and special precautions for use) and in any event the maximum dose of sildenafil should under no circumstances exceed 25 mg within 48 hours.
+Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is not advised (see section 4.4) and in any event the maximum dose of sildenafil should under no circumstances exceed 25 mg within 48 hours.
 
-Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1200 mg t.i.d.) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
-Sildenafil had no effect on saquinavir pharmacokinetics (see Section 4.2 Posology and method of administration).
+Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state
+(1200 mg t.i.d.) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
+Sildenafil had no effect on saquinavir pharmacokinetics (see section 4.2).
 Stronger CYP3A4 inhibitors such as ketoconazole and itraconazole would be expected to have greater effects.
 
-When a single 100 mg dose of sildenafil was administered with erythromycin, a specific CYP3A4 inhibitor, at steady state (500 mg b.i.d. for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
+When a single 100 mg dose of sildenafil was administered with erythromycin, a specific CYP3A4 inhibitor, at steady state (500 mg twice daily. for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
 In normal healthy male volunteers, there was no evidence of an effect of azithromycin (500 mg daily for 3 days) on the AUC, Cmax, tmax, elimination rate constant, or subsequent half-life of sildenafil or its principal circulating metabolite.
 Cimetidine (800 mg), a cytochrome P450 inhibitor and non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when co-administered with sildenafil (50 mg) to healthy volunteers.
-
-Grapefruit juice being a weak inhibitor of CYP3A4 gut wall metabolism may give rise to modest increases in plasma levels of sildenafil.
+Grapefruit juice is a weak inhibitor of CYP3A4 gut wall metabolism and may give rise to modest increases in plasma levels of sildenafil.
 
 Single doses of antacid (magnesium hydroxide/aluminium hydroxide) did not affect the bioavailability of sildenafil.
 
@@ -46,22 +46,26 @@ Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by ac
 
 Sildenafil (50 mg) did not potentiate the hypotensive effects of alcohol in healthy volunteers with mean maximum blood alcohol levels of 80 mg/dl.
 
-Pooling of the following classes of antihypertensive medication; diuretics, beta-blockers, ACE inhibitors, angiotensin II antagonists, antihypertensive medicinal products (vasodilator and centrally-acting), adrenergic neurone blockers, calcium channel blockers and alpha-adrenoceptor blockers, showed no difference in the side effect profile in patients taking sildenafil compared to placebo treatment.
+Pooling of the following classes of antihypertensive medication: diuretics, beta-blockers, ACE inhibitors, angiotensin II antagonists, antihypertensive medicinal products (vasodilator and centrally-acting), adrenergic neurone blockers, calcium channel blockers and alpha-adrenoceptor blockers, showed no difference in the side effect profile in patients taking sildenafil compared to placebo treatment.
 In a specific interaction study, where sildenafil (100 mg) was co-administered with amlodipine in hypertensive patients, there was an additional reduction on supine systolic blood pressure of 8 mmHg.
 The corresponding additional reduction in supine diastolic blood pressure was 7 mmHg.
-These additional blood pressure reductions were of a similar magnitude to those seen when sildenafil was administered alone to healthy volunteers (see Section 5.1 Pharmacodynamic properties).
+These additional blood pressure reductions were of a similar magnitude to those seen when sildenafil was administered alone to healthy volunteers (see section 5.1).
 
 Simultaneous administration of sildenafil to patients with alpha-blocker therapy may lead to symptomatic hypotension in some patients, in particular with higher dosages of sildenafil (>25 mg).
 This is most likely to occur within 4 hours post sildenafil dosing (for precautions see section 4.4).
 
 Sildenafil (100 mg) did not affect the steady state pharmacokinetics of the HIV protease inhibitors, saquinavir and ritonavir, both of which are CYP3A4 substrates.
 
-Consistent with its known effects on the nitric oxide/cGMP pathway (see Section 5.1 Pharmacodynamic properties), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its co-administration with nitric oxide donors or nitrates in any form is therefore contraindicated (see Section 4.3 Contraindications).
+Consistent with its known effects on the nitric oxide/cGMP pathway (see section 5.1), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its co-administration with nitric oxide donors or nitrates in any form is therefore contraindicated (see section 4.3 ).
 
 [VIAGRA 50 mg film-coated tablets]
 
-(all sentences already above)
+When a single 100 mg dose of sildenafil was administered with erythromycin, a specific CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
+
+Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 >150 microM).
 
 [VIAGRA 100 mg film-coated tablets]
 
-Sildenafil had no affect on saquinavir pharmacokinetics (see section 4.2 Posology and Method of Administration).
+These additional blood pressure reductions were of a similar magnitude to those seen when sildenafil was administered alone to healthy volunteers (see section(see section 5.1).
+
+Consistent with its known effects on the nitric oxide/cGMP pathway (see section 5.1), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its co-administration with nitric oxide donors or nitrates in any form is therefore contraindicated (see section 4.3).

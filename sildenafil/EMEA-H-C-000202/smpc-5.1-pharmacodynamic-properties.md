@@ -2,7 +2,6 @@
 
 Pharmacotherapeutic group: Drugs used in erectile dysfunction.
 ATC Code: G04B E03.
-
 Sildenafil is an oral therapy for erectile dysfunction.
 In the natural setting, i.e. with sexual stimulation, it restores impaired erectile function by increasing blood flow to the penis.
 
@@ -15,7 +14,7 @@ Sildenafil has no direct relaxant effect on isolated human corpus cavernosum but
 When the NO/cGMP pathway is activated, as occurs with sexual stimulation, inhibition of PDE5 by sildenafil results in increased corpus cavernosum levels of cGMP.
 Therefore sexual stimulation is required in order for sildenafil to produce its intended beneficial pharmacological effects.
 
-Studies in vitro have shown that sildenafil is selective for PDE5, involved in the erection process.
+Studies in vitro have shown that sildenafil is selective for PDE5, which is involved in the erection process.
 Its effect is more potent on PDE5 than on other known phosphodiesterases.
 There is a 10-fold selectivity over PDE6 which is involved in the phototransduction pathway in the retina.
 At maximum recommended doses, there is an 80-fold selectivity over PDE1, and over 700-fold over PDE2, 3, 4, 7, 8, 9, 10 and 11.
@@ -30,7 +29,8 @@ The mean maximum decreases in supine systolic blood pressure following 100 mg or
 The corresponding change in supine diastolic blood pressure was 5.5 mmHg.
 These decreases in blood pressure are consistent with the vasodilatory effects of sildenafil, probably due to increased cGMP levels in vascular smooth muscle.
 Single oral doses of sildenafil up to 100 mg in healthy volunteers produced no clinically relevant effects on ECG.
-In a study of the hemodynamic effects of a single oral 100mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (> 70% stenosis of at least one coronary artery), the mean resting systolic and diastolic blood pressures decreased by 7% and 6% respectively compared to baseline.
+
+In a study of the hemodynamic effects of a single oral 100 mg dose of sildenafil in 14 patients with severe coronary artery disease (CAD) (>70% stenosis of at least one coronary artery), the mean resting systolic and diastolic blood pressures decreased by 7% and 6% respectively compared to baseline.
 Mean pulmonary systolic blood pressure decreased by 9%.
 Sildenafil showed no effect on cardiac output, and did not impair blood flow through the stenosed coronary arteries.
 
@@ -39,15 +39,14 @@ No clinical relevant differences were demonstrated in time to limiting angina fo
 Mild and transient differences in colour discrimination (blue/green) were detected in some subjects using the Farnsworth-Munsell 100 hue test at 1 hour following a 100 mg dose, with no effects evident after 2 hours post-dose.
 The postulated mechanism for this change in colour discrimination is related to inhibition of PDE6, which is involved in the phototransduction cascade of the retina.
 Sildenafil has no effect on visual acuity or contrast sensitivity.
-In a small size placebo-controlled study of patients with documented early age-related macular degeneration (n=9), sildenafil (single dose, 100mg) demonstrated no significant changes in visual tests conducted (visual acuity, Amsler grid, colour discrimination simulated traffic light, Humphrey perimeter and photostress).
+In a small size placebo-controlled study of patients with documented early age-related macular degeneration (n=9), sildenafil (single dose, 100 mg) demonstrated no significant changes in visual tests conducted (visual acuity, Amsler grid, colour discrimination simulated traffic light, Humphrey perimeter and photostress).
 
 There was no effect on sperm motility or morphology after single 100 mg oral doses of sildenafil in healthy volunteers.
 
 Further information on clinical trials
-
 In clinical trials sildenafil was administered to more than 3000 patients aged 19-87.
-The following patient groups were represented: elderly (21%), patients with hypertension (24%), diabetes mellitus (16 %), ischaemic heart disease and other cardiovascular diseases (14%), hyperlipidaemia (14%), spinal cord injury (6%), depression (5%), transurethral resection of the prostate (5%), radical prostatectomy (4%).
-The following groups were not well represented or excluded from clinical trials: patients with pelvic surgery, patients post-radiotherapy, patients with severe renal or hepatic impairment and patients with certain cardiovascular conditions (see Section 4.3 Contraindications).
+The following patient groups were represented: elderly (21%), patients with hypertension (24%), diabetes mellitus (16%), ischaemic heart disease and other cardiovascular diseases (14%), hyperlipidaemia (14%), spinal cord injury (6%), depression (5%), transurethral resection of the prostate (5%), radical prostatectomy (4%).
+The following groups were not well represented or excluded from clinical trials: patients with pelvic surgery, patients post-radiotherapy, patients with severe renal or hepatic impairment and patients with certain cardiovascular conditions (see section 4.3 ).
 
 In fixed dose studies, the proportions of patients reporting that treatment improved their erections were 62% (25 mg), 74% (50 mg) and 82% (100 mg) compared to 25% on placebo.
 In controlled clinical trials, the discontinuation rate due to sildenafil was low and similar to placebo.
@@ -56,8 +55,8 @@ The safety and efficacy of sildenafil was maintained in long-term studies.
 
 [VIAGRA 50 mg film-coated tablets]
 
-The following patient groups were represented: elderly (21%), patients with hypertension (24%), diabetes mellitus (16%), ischaemic heart disease and other cardiovascular diseases (14%), hyperlipidaemia (14%), spinal cord injury (6%), depression (5%), transurethral resection of the prostate (5%), radical prostatectomy (4%).
+(all sentences already above)
 
 [VIAGRA 100 mg film-coated tablets]
 
-(all sentences already above)
+The following groups were not well represented or excluded from clinical trials: patients with pelvic surgery, patients post-radiotherapy, patients with severe renal or hepatic impairment and patients with certain cardiovascular conditions (see section 4.3).
