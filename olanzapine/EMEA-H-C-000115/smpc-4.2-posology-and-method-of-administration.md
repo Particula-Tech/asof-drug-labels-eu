@@ -10,8 +10,8 @@ Elderly patients: A lower starting dose (5 mg/day) is not routinely indicated bu
 
 Patients with renal and/or hepatic impairment: A lower starting dose (5 mg) should be considered for such patients.
 In cases of moderate hepatic insufficiency (cirrhosis, Child-Pugh Class A or B), the starting dose should be 5 mg and only increased with caution.
-Female compared with male patients: The starting dose and dose range need not be routinely altered for female patients relative to male patients.
 
+Female compared with male patients: The starting dose and dose range need not be routinely altered for female patients relative to male patients.
 Non-smoking patients compared with smoking patients: The starting dose and dose range need not be routinely altered for non-smoking patients relative to smoking patients.
 When more than one factor is present which might result in slower metabolism (female gender, geriatric age, non-smoking status), consideration should be given to decreasing the starting dose.
 Dose escalation, when indicated, should be conservative in such patients.
