@@ -2,10 +2,6 @@
 
 CellCept 250 mg capsules.
 
-[CellCept 500 mg powder for concentrate for solution for infusion.]
-
-CellCept 500 mg powder for concentrate for solution for infusion.
-
 [CellCept 1 g/5 ml powder for oral suspension.]
 
 CellCept 1 g/5 ml powder for oral suspension.
