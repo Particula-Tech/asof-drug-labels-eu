@@ -28,7 +28,6 @@ There is no induction of the main inducible P450 isoenzymes 1A, 2C8/9, and 3A4 i
 
 Interaction studies have shown that pioglitazone has no relevant effect on either the pharmacokinetics or pharmacodynamics of digoxin, warfarin, phenprocoumon and metformin.
 It is therefore not expected that inducers or inhibitors of P450 isoenzymes will alter pioglitazone or active metabolites in a significant way.
-
 Elimination:
 
 Following oral administration of radiolabelled pioglitazone to man, recovered label was mainly in faeces (55%) and a lesser amount in urine (45 %).
@@ -38,6 +37,7 @@ The mean plasma elimination half-life of unchanged pioglitazone in man is 5 to 6
 Elderly:
 
 Steady state pharmacokinetics are similar in patients age 65 and over and young subjects.
+
 Patients with renal impairment:
 
 In patients with renal impairment, plasma concentrations of pioglitazone and its metabolites are lower than those seen in subjects with normal renal function, but oral clearance of parent substance is similar.

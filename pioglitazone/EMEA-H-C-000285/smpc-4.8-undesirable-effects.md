@@ -26,6 +26,7 @@ Gastrointestinal system
 Uncommon: flatulence
 
 Musculoskeletal system
+
 Common: arthralgia
 
 Urinary system
@@ -51,7 +52,6 @@ Uncommon: headache, vertigo
 Vision disorders
 
 Uncommon: vision abnormal
-
 Gastrointestinal system
 
 Common: flatulence

@@ -2,7 +2,7 @@
 
 In toxicology studies, plasma volume expansion with haemodilution, anaemia, and reversible eccentric cardiac hypertrophy was consistently apparent after repeated dosing of mice, rats, dogs, and monkeys.
 In addition, increased fatty deposition and infiltration were observed.
-These findings were observed across species at plasma concentrations ≤ 4 times the clinical exposure.
+These findings were observed across species at plasma concentrations � 4 times the clinical exposure.
 Foetal growth restriction was apparent in animal studies with pioglitazone.
 This was attributable to the action of pioglitazone in diminishing the maternal hyperinsulinaemia and increased insulin resistance that occurs during pregnancy thereby reducing the availability of metabolic substrates for foetal growth.
 
