@@ -42,8 +42,13 @@ Haemodialysis contributes negligibly to tadalafil elimination.
 
 Hepatic insufficiency
 Tadalafil exposure (AUC) in subjects with mild and moderate hepatic impairment (Child-Pugh Class A and B) is comparable to exposure in healthy subjects when a dose of 10 mg is administered.
-There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
-There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.
+There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.
+
 Patients with diabetes
 Tadalafil exposure (AUC) in patients with diabetes was approximately 19 % lower than the AUC value for healthy subjects.
 This difference in exposure does not warrant a dose adjustment.
+
+[CIALIS 20 mg film-coated tablets]
+
+There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
+There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.

@@ -5,11 +5,10 @@ For oral use.
 Use in adult men
 The recommended dose is 10 mg taken prior to anticipated sexual activity and without regard to food.
 In those patients in whom tadalafil 10 mg does not produce an adequate effect, 20 mg might be tried.
-It can be taken from 30 minutes to 12 hours prior to sexual activity.
-Efficacy of tadalafil may persist up to 24 hours post-dose.
-The maximum recommended dosing frequency is once per day.
-Daily use of the medication is strongly discouraged because the long term safety after prolonged daily dosing has not been established.
-See section 4.4 Special warnings and special precautions for use, last paragraph.
+It may be taken at least 30 minutes prior to sexual activity.
+The maximum dosing frequency is once per day.
+Continuous daily use of the medication is strongly discouraged because the long term safety after prolonged daily dosing has not been established and also because the effect of tadalafil usually lasts for longer than one day.
+See sections 4.4 Special warnings and special precautions for use, last paragraph and 5.1 Pharmacodynamic properties.
 
 Use in elderly men
 Dosage adjustments are not required in elderly patients.

@@ -17,10 +17,8 @@ Additionally, tadalafil is approximately 700-fold more potent for PDE5 than for 
 Tadalafil is also
 > 10,000-fold more potent for PDE5 than for PDE7 through PDE10.
 
-Two clinical studies were conducted in 571 patients in an at-home setting to define the period of responsiveness to CIALIS.
-CIALIS demonstrated statistically significant improvement in erectile function and the ability to have successful sexual intercourse up to 24 hours following dosing, as well as patients’ ability to attain and maintain erections for successful intercourse compared to placebo as early as 16 minutes following dosing.
-Sexual Encounter Profile (SEP) diary data collected in clinical studies supports this period of responsiveness and a statistically significant greater proportion of successful intercourse attempts associated with tadalafil treatment compared to placebo treatment up to and through the 12- to 14-hour interval following administration.
-In these studies patients were free to choose the time interval between dose administration and the time of sexual attempts.
+Three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness to CIALIS.
+CIALIS demonstrated statistically significant improvement in erectile function and the ability to have successful sexual intercourse up to 36 hours following dosing, as well as patients’ ability to attain and maintain erections for successful intercourse compared to placebo as early as 16 minutes following dosing.
 
 CIALIS administered to healthy subjects produced no significant difference compared to placebo in supine systolic and diastolic blood pressure (mean maximal decrease of 1.6/0.8 mm Hg, respectively), in standing systolic and diastolic blood pressure (mean maximal decrease of 0.2/4.6 mm Hg, respectively), and no significant change in heart rate.
 
