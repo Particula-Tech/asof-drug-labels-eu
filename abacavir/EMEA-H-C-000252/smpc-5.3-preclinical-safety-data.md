@@ -6,6 +6,7 @@ These results indicate that abacavir has a weak potential to cause chromosomal d
 
 Carcinogenicity studies with orally administered abacavir in mice and rats showed an increase in the incidence of malignant and non-malignant tumours.
 Malignant tumours occurred in the preputial gland of males and the clitoral gland of females of both species, and in rats in the thyroid gland of males and the liver, urinary bladder, lymph nodes and the subcutis of females.
+
 The majority of these tumours occurred at the highest abacavir dose of 330 mg/kg/day in mice and 600 mg/kg/day in rats.
 The exception was the preputial gland tumour which occurred at a dose of 110 mg/kg in mice.
 The systemic exposure at the no effect level in mice and rats was equivalent to 3 and 7 times the human systemic exposure during therapy.

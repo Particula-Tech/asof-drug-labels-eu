@@ -1,8 +1,8 @@
 # 4.8 Undesirable effects
 
-Hypersensitivity (see also 4.4 Special warnings and special precautions for use):
+Hypersensitivity (see also section 4.4):
 
-In clinical studies, approximately 4% of subjects receiving abacavir developed a hypersensitivity reaction; some of these were life threatening and resulted in fatal outcome despite taking precautions.
+In clinical studies, approximately 4% of subjects receiving abacavir developed a hypersensitivity reaction; some of these were life-threatening and resulted in fatal outcome despite taking precautions.
 This reaction is characterised by the appearance of symptoms indicating multi-organ/body-system involvement.
 
 Almost all patients developing hypersensitivity reactions will have fever and/or rash (usually maculopapular or urticarial) as part of the syndrome, however reactions have occurred without rash or fever.
@@ -11,7 +11,9 @@ The signs and symptoms of this hypersensitivity reaction are listed below.
 These have been identified either from clinical studies or post marketing surveillance.
 Those reported in at least 10% of patients with a hypersensitivity reaction are in bold text.
 
-Skin Rash (usually maculopapular or urticarial)
+Rash (usually maculopapular or urticarial)
+Skin
+
 Gastrointestinal tract Nausea, vomiting, diarrhoea, abdominal pain, mouth ulceration
 Respiratory tract Dyspnoea, cough, sore throat, adult respiratory distress
 
@@ -22,13 +24,14 @@ Miscellaneous Fever, lethargy, malaise, oedema, lymphadenopathy,
 hypotension, conjunctivitis, anaphylaxis
 
 Neurological/Psychiatry Headache, paraesthesia
+
 Haematological Lymphopenia
 Liver/pancreas Elevated liver function tests, hepatitis, hepatic failure
 Musculoskeletal Myalgia, rarely myolysis, arthralgia, elevated creatine
 
 phosphokinase
 
-Urology: Elevated creatinine, renal failure
+Urology Elevated creatinine, renal failure
 
 Rash (81% vs 67% respectively) and gastrointestinal manifestations (70% vs 54% respectively) were more frequently reported in children compared to adults.
 
@@ -49,18 +52,20 @@ Patients who develop this hypersensitivity reaction must discontinue Ziagen and 
 
 To avoid a delay in diagnosis and minimise the risk of a life-threatening hypersensitivity reaction, Ziagen must be permanently discontinued if hypersensitivity cannot be ruled out, even when other diagnoses are possible (respiratory diseases, flu-like illness, gastroenteritis or reactions to other medications).
 
-Hypersensitivity reactions with rapid onset, including life-threatening reactions have occurred after re-starting Ziagen in patients who had only one of the key symptoms of hypersensitivity (skin rash, fever, gastrointestinal, respiratory or constitutional symptoms such as lethargy and malaise) prior to stopping Ziagen.
+Hypersensitivity reactions with rapid onset, including life-threatening reactions have occurred after restarting Ziagen in patients who had only one of the key symptoms of hypersensitivity (skin rash, fever, gastrointestinal, respiratory or constitutional symptoms such as lethargy and malaise) prior to stopping Ziagen.
 The most common isolated symptom of a hypersensitivity reaction was a skin rash.
-Moreover, on very rare occasions hypersensitivity reactions have been reported in patients who have re-started therapy and who had no preceding symptoms of a hypersensitivity reaction.
+Moreover, on very rare occasions hypersensitivity reactions have been reported in patients who have restarted therapy and who had no preceding symptoms of a hypersensitivity reaction.
 In both cases, if a decision is made to restart Ziagen this must be done in a setting where medical assistance is readily available.
 
 Each patient must be warned about this hypersensitivity reaction to abacavir.
 
 For many of the other adverse events reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV infection or as a result of the disease process.
 
-Many of those listed below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) or very rarely (erythema multiforme, Stevens Johnson syndrome and toxic epidermal necrolysis) in patients with abacavir hypersensitivity.
+Many of those listed below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) in patients with abacavir hypersensitivity.
 Therefore, patients with any of these symptoms should be carefully evaluated for the presence of this hypersensitivity reaction.
-If Ziagen has been discontinued in patients due to experiencing any one of these symptoms and a decision is made to restart Ziagen, this must be done in a setting where medical assistance is readily available (see Section 4.4.- Management after an interruption of Ziagen therapy).
+If Ziagen has been discontinued in patients due to experiencing any one of these symptoms and a decision is made to restart a medicinal product containing abacavir, this must be done in a setting where medical assistance is readily available (see section 4.4.).
+Very rarely cases of erythema multiforme, Stevens Johnson syndrome or toxic epidermal necrolysis have been reported where abacavir hypersensitivity could not be ruled out.
+In such cases medicinal products containing abacavir should be permanently discontinued.
 
 Many of the adverse reactions have not been treatment limiting.
 The following convention has been used for their classification:- very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100), rare (>1/10,000, <1/1,000) very rare (<1/10,000).
@@ -80,10 +85,13 @@ Common: rash (without systemic symptoms)
 Very rare: erythema multiforme, Stevens-Johnson syndrome and toxic epidermal necrolysis
 
 General disorders and administration site disorders
-Common: fever, lethargy, fatigueCases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see section 4.4 Special warnings and special precautions for use).
+Common: fever, lethargy, fatigue.
+
+Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see section 4.4).
+
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
 
-Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4 Special warnings and special precautions for use).
+Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 Laboratory abnormalities
 In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.
@@ -100,7 +108,5 @@ conjunctivitis, anaphylaxis
 
 Musculoskeletal Myalgia, rarely myolysis, arthralgia, elevated creatine phosphokinase
 
-Common: fever, lethargy, fatigue
-
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues.
-(see section 4.4 Special warnings and special precautions for use).
+(see section 4.4).

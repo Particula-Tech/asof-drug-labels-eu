@@ -4,16 +4,19 @@ Absorption: Abacavir is rapidly and well absorbed following oral administration.
 The absolute bioavailability of oral abacavir in adults is about 83%.
 Following oral administration, the mean time (tmax) to maximal serum concentrations of abacavir is about 1.5 hours for the tablet formulation and about 1.0 hour for the solution formulation.
 There are no differences observed between the AUC for the tablet or solution.
-At therapeutic dosages (300 mg twice daily), the steady state Cmax of abacavir tablets is approximately 3µg/ml, and the AUC over a dosing interval of 12 hours is approximately 6 µg.h/ml.
+At therapeutic dosages (300 mg twice daily) in patients, the mean (CV) steady state Cmax and Cmin of abacavir in plasma are approximately 3.0 µg/ml (30 %), and 0.01 µg/ml
+(99% ), respectively.
+The mean (CV) AUC over a dosing interval of 12 hours is 6 µg.h/ml.
+(29 %).
 The Cmax value for the oral solution is slightly higher than the tablet.
-
 Food delayed absorption and decreased Cmax but did not affect overall plasma concentrations (AUC).
 Therefore Ziagen can be taken with or without food.
 
 Distribution: Following intravenous administration, the apparent volume of distribution was about 0.8 l/kg, indicating that abacavir penetrates freely into body tissues.
 
 Studies in HIV infected patients have shown good penetration of abacavir into the cerebrospinal fluid (CSF), with a CSF to plasma AUC ratio of between 30 to 44%.
-The observed values of the peak concentrations are 9 fold greater than the IC50 of abacavir of 0.08 µg/ml or 0.26µM when abacavir is given at 600 mg twice daily.
+The observed values of the peak concentrations are 9 fold greater than the IC50 of abacavir of 0.08 µg/ml or 0.26 µM when abacavir is given at 600 mg twice daily.
+
 Plasma protein binding studies in vitro indicate that abacavir binds only low to moderately (~49%) to human plasma proteins at therapeutic concentrations.
 This indicates a low likelihood for interactions with other medicinal products through plasma protein binding displacement.
 
