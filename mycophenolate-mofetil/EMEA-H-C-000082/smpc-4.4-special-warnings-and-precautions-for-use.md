@@ -26,20 +26,3 @@ It is recommended that CellCept not be administered concomitantly with azathiopr
 In view of the significant reduction in the AUC of MPA by cholestyramine, caution should be used in the concomitant administration of CellCept with drugs that interfere with enterohepatic recirculation because of the potential to reduce the efficacy of CellCept.
 
 The risk: benefit of mycophenolate mofetil in combination with tacrolimus has not been established (see also section 4.5 Interaction with other medicinal products and other forms of interaction).
-
-[CellCept 500 mg powder for concentrate for solution for infusion.]
-
-Patients receiving immunosuppressive regimens involving combinations of drugs, including CellCept are at increased risk of developing lymphomas and other malignancies, particularly of the skin (see section 4.8 Undesirable effects).
-
-On theoretical grounds, therefore, it should be avoided in patients with rare hereditary deficiency of hypoxanthine-guanine phosphoribosyltransferase (HGPRT) such as Lesch-Nyhan and Kelley-Seegmiller syndrome.
-
-Some degree of enterohepatic recirculation is anticipated following intravenous administration of CellCept.
-
-[CellCept 1 g/5 ml powder for oral suspension.]
-
-CellCept 1 g/5 ml powder for oral suspension contains aspartame.
-Therefore care should be taken if CellCept 1 g/5 ml powder for oral suspension is administered to patients with phenylketonuria (see section 6.1 List of excipients)
-
-[CellCept 500 mg tablets]
-
-(all sentences already above)
