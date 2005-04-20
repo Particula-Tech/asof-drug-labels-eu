@@ -17,5 +17,6 @@ Dissolution is completed in less than 2 minutes.
 The reconstituted solution is clear and colourless, with a final pH of 4 to 7.
 The reconstituted solution must be inspected visually for particulate matter and discolouration prior to administration.
 If any discolouration or particulate matter is observed, the reconstituted product must be discarded.
+
 Procedure for proper disposal
 Any unused product or waste material should be disposed of in accordance with local requirements.

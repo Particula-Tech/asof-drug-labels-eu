@@ -1,3 +1,3 @@
 # 4.1 Therapeutic indications
 
-VELCADE is indicated for the treatment of patients with multiple myeloma who have received at least two prior therapies and have demonstrated disease progression on the last therapy.
+VELCADE is indicated as mono-therapy for the treatment of progressive multiple myeloma in patients who have received at least 1 prior therapy and who have already undergone or are unsuitable for bone marrow transplantation.

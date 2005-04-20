@@ -1,42 +1,31 @@
 # 4.4 Special warnings and special precautions for use
 
-Based on the integrated safety database from 256 patients with relapsed and/or refractory multiple myeloma, the following warnings and special precautions are suggested:
-
 Laboratory Tests
 Complete blood counts (CBC) including platelet counts should be frequently monitored throughout treatment with VELCADE.
 
 Gastrointestinal
 Gastrointestinal toxicity, including nausea, diarrhoea, vomiting and constipation are very common with VELCADE treatment ( see section 4.8).
-Reactions usually occur early in treatment (Cycles 1 and 2) and may persist for several cycles.
-Patients experiencing treatment emergent gastrointestinal toxicity may benefit from administration of anti-emetics and anti-diarrhoeals.
-Fluid and electrolyte replacement should be administered to prevent or treat dehydration.
 Cases of ileus have been reported, therefore patients who experience constipation should be closely monitored.
 
 Haematological
-VELCADE treatment is very commonly associated with haematological toxicities (thrombocytopenia, neutropenia, anaemia).
-However, febrile neutropenia is an uncommon undesirable effect.
-The most common haematologic toxicity is transient thrombocytopenia, which generally resolves between treatment cycles.
-Onset is most common in Cycles 1 and 2 but can continue throughout treatment to a degree depending on the bone marrow reserve.
-Severe bleeding, including CNS and gastrointestinal bleeding, associated with thrombocytopenia, has been reported.
-In patients with advanced myeloma and moderate to severe thrombocytopenia (platelet count <50,000/µl) and risk factors for bleeding potential benefit of the treatment should be carefully weighed against the risks.
-It is recommended that treatment be temporarily discontinued if patients experience Grade 4 haematological toxicities.
-Treatment may be reinitiated at a reduced dose after resolution of toxicities (see section 4.2).
-Platelet transfusions, red blood cell (RBC) transfusions and administration of growth factors may be utilised in the management of haematologic toxicities.
-Prophylactic platelet transfusions should be considered in thrombocytopenic patients at high risk of bleeding.
-Patients who have experienced life-threatening bleeding events during treatment with VELCADE are at a higher risk of subsequent bleeding events, therefore the benefits of continued therapy must be carefully weighed against the risk.
+VELCADE treatment is very commonly associated with haematological toxicities (thrombocytopenia, neutropenia and anaemia).
+The most common haematologic toxicity is transient thrombocytopenia.
+Platelets were lowest at Day 11 of each cycle of VELCADE treatment.
+There was no evidence of cumulative thrombocytopenia, including in the phase II extension study.
+The mean platelet count nadir measured was approximately 40% of baseline.
+In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts <75,000/µl, 90% of 21 patients had a count ≤25,000/µl during the study, including 14% <10,000/µl; in contrast, with a baseline platelet count >75,000/µl, only 14% of 309 patients had a count ≤25×109/L during the study.
+Platelet counts should be monitored prior to each dose of VELCADE.
+Therapy should be held when the platelet count is <25,000/µl and re-initiated at a reduced dose after resolution (see section 4.2).
+Potential benefit of the treatment should be carefully weighed against the risks, particularly in case of moderate to severe thrombocytopenia and risk factors for bleeding.
 
 Peripheral Neuropathy
-Treatment with VELCADE is very commonly associated with peripheral neuropathy, which is predominantly sensory, although rare cases of mixed sensori-motor neuropathy have been reported.
-Patients with pre-existing symptoms and/or signs of peripheral neuropathy are likely to experience worsening during treatment with VELCADE.
+Treatment with VELCADE is very commonly associated with peripheral neuropathy, which is predominantly sensory, although cases of motor neuropathy have been reported.
 The incidence of peripheral neuropathy increases early in the treatment and has been observed to peak during cycle 5.
 
 It is recommended that patients be carefully monitored for symptoms of neuropathy such as a burning sensation, hyperesthesia, hypoesthesia, paraesthesia, discomfort or neuropathic pain.
 Patients experiencing new or worsening peripheral neuropathy may require the dose and schedule of VELCADE to be modified (see section 4.2).
 Neuropathy has been managed with supportive care and other therapies.
-In the phase II myeloma clinical studies the reversibility of peripheral neuropathy was documented in 14% of patients with treatment-emergent neuropathy.
-However, only limited follow-up data regarding the outcome of peripheral neuropathy are available.
-Of the patients who experienced treatment–emergent peripheral neuropathy >70% had previously been treated with neurotoxic agents and more than 80% of these patients had signs or symptoms of peripheral neuropathy at baseline evaluation.
-Medicinal products known to be associated with neuropathy, notably other chemotherapeutic agents, should be used with caution.
+Improvement in, or resolution of, peripheral neuropathy was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy in phase III and 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in phase II studies, respectively.
 
 In addition to peripheral neuropathy, there may be a contribution of autonomic neuropathy to some adverse reactions such as postural hypotension and severe constipation with ileus.
 Information on autonomic neuropathy and its contribution to these undesirable effects is limited.
@@ -49,18 +38,19 @@ Special care is required when treating patients with any risk factors for seizur
 Hypotension
 VELCADE treatment is commonly associated with orthostatic/postural hypotension.
 Most undesirable effects are mild to moderate in nature and are observed throughout treatment.
-Patients developing orthostatic hypotension on VELCADE did not have evidence of orthostatic hypotension prior to treatment with VELCADE, although half had pre-existing hypertension and one third had evidence of peripheral neuropathy.
-Most patients required pharmacologic treatment for their orthostatic hypotension.
+Patients developing orthostatic hypotension on VELCADE did not have evidence of orthostatic hypotension prior to treatment with VELCADE.
+Most patients required treatment for their orthostatic hypotension.
 A minority of patients with orthostatic hypotension experienced syncopal events.
 Orthostatic/postural hypotension was not acutely related to bolus infusion of VELCADE.
 The mechanism of this event is unknown although a component may be due to autonomic neuropathy.
 Autonomic neuropathy may be related to bortezomib or bortezomib may aggravate an underlying condition such as diabetic neuropathy.
 Caution is advised when treating patients with a history of syncope receiving medicinal products known to be associated with hypotension; or who are dehydrated due to recurrent diarrhoea or vomiting.
-Management of orthostatic/postural hypotension may include adjustment of antihypertensive medicinal products, rehydration or administration of mineralocorticosteroids.
+Management of orthostatic/postural hypotension may include adjustment of antihypertensive medicinal products, rehydration or administration of mineralocorticosteroids and/or sympathomimetics.
 Patients should be instructed to seek medical advice if they experience symptoms of dizziness, light-headedness or fainting spells.
 
 Heart failure
 Development or exacerbation of congestive heart failure has been reported during bortezomib treatment.
+In phase III randomized, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
 Fluid retention may be a predisposing factor for signs and symptoms of heart failure.
 
 Renal Impairment
