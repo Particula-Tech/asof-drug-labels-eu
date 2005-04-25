@@ -16,7 +16,6 @@ Serum levels of matrix metalloproteinases (MMP-1 and MMP-3) that produce tissue 
 Patients treated with Humira usually experienced improvement in haematological signs of chronic inflammation.
 
 Clinical trials
-
 Humira was evaluated in over 2330 patients in all clinical trials.
 Some patients were treated for greater than 36 months duration.
 The efficacy and safety of Humira were assessed in four randomised, double-blind and well-controlled studies.
@@ -39,6 +38,7 @@ Study IV primarily assessed safety in 636 patients with moderately to severely a
 Patients were permitted to be either disease-modifying, anti-rheumatic drug-naïve or to remain on their pre-existing rheumatologic therapy provided that therapy was stable for a minimum of 28 days.
 These therapies include methotrexate, leflunomide, hydroxychloroquine, sulfasalazine and/or gold salts.
 Patients were randomised to 40 mg of Humira or placebo every other week for 24 weeks.
+
 The primary end point in Studies I, II and III and the secondary endpoint in Study IV was the percent of patients who achieved an ACR 20 response at Week 24 or 26.
 Study III had additional primary endpoints at 52 weeks of retardation of disease progression (as detected by x-ray results) and changes in quality of life.
 
@@ -46,7 +46,6 @@ ACR response
 
 The percent of Humira-treated patients achieving ACR 20, 50 and 70 responses was consistent across trials I, II and III.
 The results for the 40 mg every other week dose are summarised in Table 2.
-
 Table 2: ACR Responses in Placebo-Controlled Trials
 (Percent of Patients)
 

@@ -1,7 +1,6 @@
 # 4.8 Undesirable effects
 
 Clinical Trials
-
 Humira was studied in 2334 patients in placebo-controlled trials and in long term follow-up studies, including 2073 patients exposed for six months and 1497 patients exposed for greater than one year.
 The data in the table is based on the adequate and well-controlled studies I, II, III and IV (see 5.1) involving 1380 patients receiving adalimumab during the placebo-controlled period by randomised treatment.
 The population had a mean age of 54.5 years, 77% were female, 91% were Caucasian and had moderate to severely active rheumatoid arthritis.
@@ -42,6 +41,7 @@ Undesirable Effects in Clinical Studies
 | Hypersensitivity, general | Uncommon | Allergic reaction |
 
 * (not otherwise specified).
+
 Injection site reactions
 
 In placebo-controlled trials, 20% of patients treated with Humira developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 14% of patients receiving placebo.
@@ -78,6 +78,8 @@ No patients developed lupus nephritis or central nervous system symptoms.
 Additional Adverse Reactions from Postmarketing Surveillance or Phase IV Clinical Trials
 
 Anaphylaxis has been reported very rarely.
+
+Cutaneous vasculitis has been reported rarely.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
@@ -131,7 +133,8 @@ Clincial Trials
 | Respiratory System | Common | Upper respiratory infection, rhinitis, sinusitis, bronchitis, cough increased, pneumonia |
 |  | Uncommon | Pharyngitis, dyspnoea, lung disorder*, asthma |
 | Digestive System | Common | Nausea, diarrhoea, sore throat |
-|  | Uncommon | Liver function test abnormal, SGPT increased, SGOT increased, mouth ulceration, oesophagitis, vomiting, dyspepsia, constipation, gastrointestinal pain, tooth disorder*, gastritis, gastroenteritis, tongue disorder*, oral moniliasis, aphthous stomatitis, dysphagia, stomatitis, ulcerative stomatitis |
+|  | Uncommon | Liver function test abnormal, SGPT increased, |
+|  |  | SGOT increased, mouth ulceration, oesophagitis, vomiting, dyspepsia, constipation, gastrointestinal pain, tooth disorder*, gastritis, gastroenteritis, tongue disorder*, oral moniliasis, aphthous stomatitis, dysphagia, stomatitis, ulcerative stomatitis |
 | Skin and Appendages | Common | Rash, pruritis, herpes simplex |
 |  | Uncommon | Skin disorder*, herpes zoster, maculopapular rash, nail disorder*, dry skin, sweating increased, alopecia, fungal dermatitis, urticaria, skin nodule, skin ulcer, eczema, subcutaneous haematoma |
 | Musculo-skeletal System | Uncommon | Arthralgia, muscle cramps, myalgia, joint disorder*, synovitis, tendon disorder |
