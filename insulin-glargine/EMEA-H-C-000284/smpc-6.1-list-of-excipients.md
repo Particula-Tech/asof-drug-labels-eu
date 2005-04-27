@@ -1,6 +1,10 @@
 # 6.1 List of excipients
 
+5ml vial:
 Zinc chloride, m-cresol, glycerol, hydrochloric acid, sodium hydroxide, water for injections.
+
+10ml vial:
+Zinc chloride, m-cresol, glycerol, hydrochloric acid, polysorbate 20, sodium hydroxide, water for injections
 
 [Lantus 100 IU/ml solution for injection in a cartridge.]
 
