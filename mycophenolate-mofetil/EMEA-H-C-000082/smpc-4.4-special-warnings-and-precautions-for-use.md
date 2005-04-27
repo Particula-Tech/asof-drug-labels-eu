@@ -7,10 +7,10 @@ As general advice to minimise the risk for skin cancer, exposure to sunlight and
 Patients receiving CellCept should be instructed to report immediately any evidence of infection, unexpected bruising, bleeding or any other manifestation of bone marrow depression.
 
 Oversuppression of the immune system increases the susceptibility to infection including opportunistic infections, fatal infections and sepsis (see section 4.8 Undesirable effects).
-
 Patients receiving CellCept should be monitored for neutropenia, which may be related to CellCept itself, concomitant medications, viral infections, or some combination of these causes.
 Patients taking CellCept should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year.
 If neutropenia develops (absolute neutrophil count < 1.3 x 103/µl) it may be appropriate to interrupt or discontinue CellCept.
+
 Patients should be advised that during treatment with CellCept vaccinations may be less effective and the use of live attenuated vaccines should be avoided (see section 4.5 Interaction with other medicinal products and other forms of interaction).
 Influenza vaccination may be of value.
 Prescribers should refer to national guidelines for influenza vaccination.
@@ -22,7 +22,7 @@ On theoretical grounds, therefore, it should be avoided in patients with rare he
 
 It is recommended that CellCept not be administered concomitantly with azathioprine because such concomitant administration has not been studied.
 
-In view of the significant reduction in the AUC of MPA by cholestyramine, caution should be used in the concomitant administration of CellCept with drugs that interfere with enterohepatic recirculation because of the potential to reduce the efficacy of CellCept.
+In view of the significant reduction in the AUC of MPA by colestyramine, caution should be used in the concomitant administration of CellCept with drugs that interfere with enterohepatic recirculation because of the potential to reduce the efficacy of CellCept.
 
 The risk: benefit of mycophenolate mofetil in combination with tacrolimus has not been established (see also section 4.5 Interaction with other medicinal products and other forms of interaction).
 

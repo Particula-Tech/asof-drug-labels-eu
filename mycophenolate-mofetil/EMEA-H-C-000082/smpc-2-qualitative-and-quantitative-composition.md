@@ -2,6 +2,8 @@
 
 Each capsule contains 250 mg mycophenolate mofetil.
 
+For excipients, see section 6.1.
+
 [CellCept 500 mg powder for concentrate for solution for infusion]
 
 Each vial contains the equivalent of 500 mg mycophenolate mofetil (as hydrochloride salt).

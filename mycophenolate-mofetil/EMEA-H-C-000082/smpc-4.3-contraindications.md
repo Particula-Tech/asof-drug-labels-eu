@@ -2,6 +2,9 @@
 
 Hypersensitivity reactions to CellCept have been observed (see Section 4.8 Undesirable effects).
 Therefore, CellCept is contraindicated in patients with a hypersensitivity to mycophenolate mofetil or mycophenolic acid.
+
+CellCept is contraindicated in women who are breastfeeding (see section 4.6 Pregnancy and lactation).
+
 For information on use in pregnancy and contraceptive requirements see section 4.6 Pregnancy and lactation.
 
 [CellCept 500 mg powder for concentrate for solution for infusion]
