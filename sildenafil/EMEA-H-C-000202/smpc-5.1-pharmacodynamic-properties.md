@@ -20,7 +20,6 @@ Its effect is more potent on PDE5 than on other known phosphodiesterases.
 There is a 10-fold selectivity over PDE6 which is involved in the phototransduction pathway in the retina.
 At maximum recommended doses, there is an 80-fold selectivity over PDE1, and over 700-fold over PDE2, 3, 4, 7, 8, 9, 10 and 11.
 In particular, sildenafil has greater than 4,000-fold selectivity for PDE5 over PDE3, the cAMP-specific phosphodiesterase isoform involved in the control of cardiac contractility.
-
 Two clinical studies were specifically designed to assess the time window after dosing during which sildenafil could produce an erection in response to sexual stimulation.
 In a penile plethysmography (RigiScan) study of fasted patients, the median time to onset for those who obtained erections of 60% rigidity (sufficient for sexual intercourse) was 25 minutes (range 12-37 minutes) on sildenafil.
 In a separate RigiScan study, sildenafil was still able to produce an erection in response to sexual stimulation 4-5 hours post-dose.
@@ -43,6 +42,7 @@ Sildenafil has no effect on visual acuity or contrast sensitivity.
 In a small size placebo-controlled study of patients with documented early age-related macular degeneration (n=9), sildenafil (single dose, 100 mg) demonstrated no significant changes in visual tests conducted (visual acuity, Amsler grid, colour discrimination simulated traffic light, Humphrey perimeter and photostress).
 
 There was no effect on sperm motility or morphology after single 100 mg oral doses of sildenafil in healthy volunteers.
+
 Further information on clinical trials
 In clinical trials sildenafil was administered to more than 3000 patients aged 19-87.
 The following patient groups were represented: elderly (21%), patients with hypertension (24%), diabetes mellitus (16%), ischaemic heart disease and other cardiovascular diseases (14%), hyperlipidaemia (14%), spinal cord injury (6%), depression (5%), transurethral resection of the prostate (5%), radical prostatectomy (4%).

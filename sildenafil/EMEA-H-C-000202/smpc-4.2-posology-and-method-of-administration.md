@@ -26,3 +26,6 @@ VIAGRA is not indicated for individuals below 18 years of age.
 
 Use in patients using other medicines:
 With the exception of ritonavir for which co-administration with sildenafil is not advised (see section 4.4) a starting dose of 25 mg should be considered in patients receiving concomitant treatment with CYP3A4 inhibitors (see section 4.5).
+
+In order to minimise the potential for developing postural hypotension, patients should be stable on alpha-blocker therapy prior to initiating sildenafil treatment.
+In addition, initiation of sildenafil at a dose of 25 mg should be considered (see sections 4.4 and 4.5).

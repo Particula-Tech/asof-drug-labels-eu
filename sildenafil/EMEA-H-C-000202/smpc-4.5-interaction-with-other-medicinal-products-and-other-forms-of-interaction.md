@@ -20,12 +20,12 @@ Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, 
 (1200 mg t.i.d.) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
 Sildenafil had no effect on saquinavir pharmacokinetics (see section 4.2).
 Stronger CYP3A4 inhibitors such as ketoconazole and itraconazole would be expected to have greater effects.
-
 When a single 100 mg dose of sildenafil was administered with erythromycin, a specific CYP3A4 inhibitor, at steady state (500 mg twice daily. for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
 In normal healthy male volunteers, there was no evidence of an effect of azithromycin (500 mg daily for 3 days) on the AUC, Cmax, tmax, elimination rate constant, or subsequent half-life of sildenafil or its principal circulating metabolite.
 Cimetidine (800 mg), a cytochrome P450 inhibitor and non-specific CYP3A4 inhibitor, caused a 56% increase in plasma sildenafil concentrations when co-administered with sildenafil (50 mg) to healthy volunteers.
 
 Grapefruit juice is a weak inhibitor of CYP3A4 gut wall metabolism and may give rise to modest increases in plasma levels of sildenafil.
+
 Single doses of antacid (magnesium hydroxide/aluminium hydroxide) did not affect the bioavailability of sildenafil.
 
 Although specific interaction studies were not conducted for all medicinal products, population pharmacokinetic analysis showed no effect of concomitant medication on sildenafil pharmacokinetics when grouped as CYP2C9 inhibitors (such as tolbutamide, warfarin, phenytoin), CYP2D6 inhibitors (such as selective serotonin reuptake inhibitors, tricyclic antidepressants), thiazide and related diuretics, loop and potassium sparing diuretics, angiotensin converting enzyme inhibitors, calcium channel blockers, beta-adrenoreceptor antagonists or inducers of CYP450 metabolism (such as rifampicin, barbiturates).
@@ -42,8 +42,16 @@ Given sildenafil peak plasma concentrations of approximately 1 microM after reco
 There are no data on the interaction of sildenafil and non-specific phosphodiesterase inhibitors such as theophylline or dipyridamole.
 
 In vivo studies:
-No significant interactions were shown when sildenafil (50 mg) was co-administered with tolbutamide (250 mg) or warfarin (40 mg), both of which are metabolised by CYP2C9.
+Consistent with its known effects on the nitric oxide/cGMP pathway (see section 5.1), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its co-administration with nitric oxide donors or nitrates in any form is therefore contraindicated (see section 4.3).
 
+Concomitant administration of sildenafil to patients taking alpha-blocker therapy may lead to symptomatic hypotension in a few susceptible individuals.
+This is most likely to occur within 4 hours post sildenafil dosing (see sections 4.2 and 4.4).
+In three specific drug-drug interaction studies, the alpha-blocker doxazosin (4 mg and 8 mg) and sildenafil (25 mg, 50 mg, or 100 mg) were administered simultaneously to patients with benign prostatic hyperplasia (BPH) stabilized on doxazosin therapy.
+In these study populations, mean additional reductions of supine blood pressure of 7/7 mmHg, 9/5 mmHg, and 8/4 mmHg, and mean additional reductions of standing blood pressure of 6/6 mmHg, 11/4 mmHg, and 4/5 mmHg, respectively, were observed.
+When sildenafil and doxazosin were administered simultaneously to patients stabilized on doxazosin therapy, there were infrequent reports of patients who experienced symptomatic postural hypotension.
+These reports included dizziness and light-headedness, but not syncope.
+
+No significant interactions were shown when sildenafil (50 mg) was co-administered with tolbutamide (250 mg) or warfarin (40 mg), both of which are metabolised by CYP2C9.
 Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid
 (150 mg).
 
@@ -54,12 +62,7 @@ In a specific interaction study, where sildenafil (100 mg) was co-administered w
 The corresponding additional reduction in supine diastolic blood pressure was 7 mmHg.
 These additional blood pressure reductions were of a similar magnitude to those seen when sildenafil was administered alone to healthy volunteers (see section 5.1).
 
-Simultaneous administration of sildenafil to patients with alpha-blocker therapy may lead to symptomatic hypotension in some patients, in particular with higher dosages of sildenafil (>25 mg).
-This is most likely to occur within 4 hours post sildenafil dosing (for precautions see section 4.4).
-
 Sildenafil (100 mg) did not affect the steady state pharmacokinetics of the HIV protease inhibitors, saquinavir and ritonavir, both of which are CYP3A4 substrates.
-
-Consistent with its known effects on the nitric oxide/cGMP pathway (see section 5.1), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its co-administration with nitric oxide donors or nitrates in any form is therefore contraindicated (see section 4.3 ).
 
 [VIAGRA 50 mg film-coated tablets]
 
@@ -70,5 +73,3 @@ Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2
 [VIAGRA 100 mg film-coated tablets]
 
 These additional blood pressure reductions were of a similar magnitude to those seen when sildenafil was administered alone to healthy volunteers (see section(see section 5.1).
-
-Consistent with its known effects on the nitric oxide/cGMP pathway (see section 5.1), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its co-administration with nitric oxide donors or nitrates in any form is therefore contraindicated (see section 4.3).

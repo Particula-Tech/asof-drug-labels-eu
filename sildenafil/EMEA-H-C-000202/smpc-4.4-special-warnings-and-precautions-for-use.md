@@ -13,15 +13,19 @@ Serious cardiovascular events, including myocardial infarction, unstable angina,
 Most, but not all, of these patients had pre-existing cardiovascular risk factors.
 Many events were reported to occur during or shortly after sexual intercourse and a few were reported to occur shortly after the use of VIAGRA without sexual activity.
 It is not possible to determine whether these events are related directly to these factors or to other factors.
+Agents for the treatment of erectile dysfunction, including sildenafil, should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or
+Peyronie’s disease), or in patients who have conditions which may predispose them to priapism (such as sickle cell anaemia, multiple myeloma or leukaemia).
 
-Agents for the treatment of erectile dysfunction, including sildenafil, should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or Peyronie’s disease), or in patients who have conditions which may predispose them to priapism (such as sickle cell anaemia, multiple myeloma or leukaemia).
 The safety and efficacy of combinations of sildenafil with other treatments for erectile dysfunction have not been studied.
 Therefore the use of such combinations is not recommended.
 
 Co-administration of sildenafil with ritonavir is not advised (see section 4.5).
 
-Sildenafil should be used with caution in users of alpha-blockers as simultaneous co-administration may lead to symptomatic hypotension (see section 4.5) in some patients.
-Sildenafil (>25 mg) should not be taken within 4 hours of taking an alpha-blocker.
+Caution is advised when sildenafil is administered to patients taking an alpha-blocker, as the coadministration may lead to symptomatic hypotension in a few susceptible individuals (see section 4.5).
+This is most likely to occur within 4 hours post sildenafil dosing.
+In order to minimise the potential for developing postural hypotension, patients should be hemodynamically stable on alpha-blocker therapy prior to initiating sildenafil treatment.
+Initiation of sildenafil at a dose of 25 mg should be considered (see section 4.2).
+In addition, physicians should advise patients what to do in the event of postural hypotensive symptoms.
 
 Studies with human platelets indicate that sildenafil potentiates the antiaggregatory effect of sodium nitroprusside in vitro.
 There is no safety information on the administration of sildenafil to patients with bleeding disorders or active peptic ulceration.
