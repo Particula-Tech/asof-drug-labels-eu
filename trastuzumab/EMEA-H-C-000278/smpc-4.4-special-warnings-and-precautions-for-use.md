@@ -21,7 +21,7 @@ On very rare occasions, patients have experienced the onset of infusion symptoms
 Patients should be warned of the possibility of such a late onset and should be instructed to contact their physician if these symptoms occur.
 
 Infusion reactions, allergic-like reactions and hypersensitivity
-Serious adverse reactions to Herceptin infusion that have been reported infrequently include dyspnoea, hypotension, wheezing, hypertension, bronchospasm, tachycardia, reduced oxygen saturation, anaphylaxis, respiratory distress, urticaria and angioedema (see 4.8).
+Serious adverse reactions to Herceptin infusion that have been reported infrequently include dyspnoea, hypotension, wheezing, hypertension, bronchospasm, supraventricular tachyarrythmia, reduced oxygen saturation, anaphylaxis, respiratory distress, urticaria and angioedema (see 4.8).
 The majority of these events occur during or within 2.5 hours of the start of the first infusion.
 Should an infusion reaction occur the Herceptin infusion should be discontinued and the patient monitored until resolution of any observed symptoms (see 4.2).
 The majority of patients experienced resolution of symptoms and subsequently received further infusions of Herceptin.

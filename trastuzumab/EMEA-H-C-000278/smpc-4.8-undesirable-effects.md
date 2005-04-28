@@ -1,9 +1,9 @@
 # 4.8 Undesirable effects
 
 The adverse event data reflect the clinical trial and post marketing experience of using Herceptin at the recommended dose regimen, either alone or in combination with paclitaxel.
-
 Patients received Herceptin as monotherapy or in combination with paclitaxel in the two pivotal clinical trials.
 The most common adverse reactions are infusion-related symptoms, such as fever and chills, usually following the first infusion of Herceptin.
+
 Adverse reactions attributed to Herceptin in ≥ 10 % of patients in the two pivotal clinical trials were the following:
 
 Body as a Whole: abdominal pain, asthenia, chest pain, chills, fever, headache, pain
@@ -18,8 +18,8 @@ appendages:
 
 Adverse reactions attributed to Herceptin in > 1 % and < 10 % of patients in the two pivotal clinical trials were the following:
 
-Body as a Whole: flu syndrome, back pain, infection, neck pain, malaise, allergic reaction, mastitis, weight loss
-Cardiovascular: vasodilation, tachycardia, hypotension, heart failure, cardiomyopathy, palpitation
+Body as a Whole: influenza-like illness, back pain, infection, neck pain, malaise, hypersensitivity reaction, mastitis, weight loss
+Cardiovascular: vasodilation, supraventricular tachyarrythmia, hypotension, heart failure, cardiomyopathy, palpitation
 
 Digestive: anorexia, constipation, dyspepsia, liver tenderness, dry mouth, rectal disorder
 
@@ -33,9 +33,10 @@ Metabolic: peripheral oedema, oedema
 
 Musculoskeletal: bone pain, leg cramps, arthritis
 
-Nervous: anxiety, depression, dizziness, insomnia, paraesthesia, somnolence, hypertonia,
+Nervous: dizziness, paraesthesia, somnolence, hypertonia, peripheral neuropathy, tremor
+Psychiatric anxiety, depression, insomnia,
 
-neuropathy, tremor
+disorders
 Respiratory: asthma, cough increased, dyspnoea, epistaxis, lung disorders, pharyngitis, rhinitis, sinusitis
 
 Urogenital: urinary tract infection
@@ -49,9 +50,9 @@ The following table displays adverse events which were reported in ≥ 10% of pa
 
 | Body System | Adverse Event | Herceptin plus docetaxel N = 92 (%) | docetaxel N = 94 (%) |
 | --- | --- | --- | --- |
-| General disorders and administration site conditions | asthenia oedema peripheral fatigue mucosal inflammation pyrexia pain lethargy chest pain influenza like illness rigors | 45 40 24 23 29 12 7 11 12 11 | 41 35 21 22 15 9 11 5 2 1 |
-| Skin and subcutaneous | alopecia | 67 | 54 |
-| tissue disorders | nail disorder rash erythema | 17 24 23 | 21 12 11 |
+| General disorders and administration site conditions | asthenia oedema peripheral fatigue mucosal inflammation pyrexia pain | 45 40 24 23 29 12 | 41 35 21 22 15 9 |
+|  | lethargy chest pain influenza like illness rigors | 7 11 12 11 | 11 5 2 1 |
+| Skin and subcutaneous tissue disorders | alopecia nail disorder rash erythema | 67 17 24 23 | 54 21 12 11 |
 | Gastrointestinal disorders | nausea diarrhoea vomiting constipation stomatitis abdominal pain dyspepsia | 43 43 29 27 20 12 14 | 41 36 22 23 14 12 5 |
 | Nervous system disorders | paraesthesia headache dysgeusia hypoaesthesia | 32 21 14 11 | 21 18 12 5 |
 | Blood and lymphatic system disorders | febrile neutropenia1 / neutropenic sepsis | 23 | 17 |
@@ -64,32 +65,33 @@ The following table displays adverse events which were reported in ≥ 10% of pa
 | Investigations | weight increased | 15 | 6 |
 | Psychiatric disorders | insomnia | 11 | 4 |
 | Injury, poisoning and procedural complications | nail toxicity | 11 | 7 |
-| 1 These numbers include patients with preferred terms of ‘febrile neutropenia’, ‘neutropenic sepsis’ or ‘neutropenia’ that was associated with fever (and antibiotic use). See also section 4.8 |  |  |  |
+| 1 These numbers include patients with preferred terms of ‘febrile neutropenia’, |  |  |  |
+| ‘neutropenic sepsis’ or ‘neutropenia’ that was associated with fever (and antibiotic use). See also section 4.8 |  |  |  |
 
 There was an increased incidence of SAEs (40% vs. 31%) and Grade 4 AEs (34% vs. 23%) in the combination arm compared to docetaxel monotherapy.
 
 Serious Adverse Reactions
 At least one case of the following serious adverse reactions has occurred in at least one patient treated with Herceptin alone or in combination with chemotherapy in clinical trials or has been reported during post marketing experience:
 
-Body as a Whole: allergic reaction, anaphylaxis and anaphylactic shock, angioedema, ataxia, sepsis, chills and fever, asthenia, fever, rigor, headache, paresis, chest pain, fatigue, infusion-related symptoms, peripheral oedema, bone pain, coma, meningitis, cerebral oedema, thinking abnormal, progression of neoplasia
+Body as a Whole: hypersensitivity reaction, anaphylaxis and anaphylactic shock, angioedema, ataxia, sepsis, chills and fever, asthenia, fever, rigor, headache, paresis, chest pain, fatigue, infusion-related symptoms, peripheral oedema, bone pain, coma, meningitis, cerebral oedema, thinking abnormal, progression of neoplasia
 
 Cardiovascular: cardiomyopathy, congestive heart failure, increased congestive heart failure, decreased ejection fraction, hypotension, pericardial effusion, bradycardia, cerebrovascular disorder, cardiac failure, cardiogenic shock, pericarditis
 
-Digestive: hepatitis, liver tenderness, diarrhoea, nausea and vomiting, pancreatitis, hepatic
+Digestive: hepatocellular damage, liver tenderness, diarrhoea, nausea and vomiting,
 
-failure, jaundice
+pancreatitis, hepatic failure, jaundice
 
 Blood and leukaemia, febrile neutropenia, neutropenia, thrombocytopenia, anaemia,
-Lymphatic: prothrombin decreased
+Lymphatic: hypoprothrombinemia
 Metabolic: hyperkalaemia
 
 Musculoskeletal: myalgia
 
 Nervous: paraneoplastic cerebellar degeneration
-Renal: membranous glomerulonephritis, glomerulopathy, renal failure
+Renal: membranous glomerulonephritis, glomerulonephropathy, renal failure
 Respiratory: bronchospasm, respiratory distress, acute pulmonary oedema, respiratory
 
-insufficiency, dyspnoea, hypoxia, larynx oedema, acute respiratory distress, acute respiratory distress syndrome, Cheyne-Stokes breathing, pulmonary infiltrates, pneumonia, pneumonitis, pulmonary fibrosis.
+insufficiency, dyspnoea, hypoxia, laryngeal oedema, acute respiratory distress, acute respiratory distress syndrome, Cheyne-Stokes breathing, pulmonary infiltrates, pneumonia, pneumonitis, pulmonary fibrosis.
 
 Skin and rash, dermatitis, urticaria
 
@@ -102,7 +104,7 @@ During the first infusion of Herceptin chills and/or fever are observed commonly
 Other signs and/or symptoms may include nausea, hypertension, vomiting, pain, rigors, headache, cough, dizziness, rash, and asthenia.
 These symptoms are usually mild to moderate in severity, and occur infrequently with subsequent Herceptin infusions.
 These symptoms can be treated with an analgesic/antipyretic such as meperidine or paracetamol, or an antihistamine such as diphenhydramine (see 4.2).
-Some adverse reactions to Herceptin infusion including dyspnoea, hypotension, wheezing, bronchospasm, tachycardia, reduced oxygen saturation and respiratory distress can be serious and potentially fatal (see 4.4).
+Some adverse reactions to Herceptin infusion including dyspnoea, hypotension, wheezing, bronchospasm, supraventricular tachyarrythmia, reduced oxygen saturation and respiratory distress can be serious and potentially fatal (see 4.4).
 
 Allergic-like and hypersensitivity reactions
 Allergic reactions, anaphylaxis and anaphylactic shock, urticaria and angioedema occurring during the first infusion of Herceptin, have been reported rarely.
@@ -153,5 +155,6 @@ No WHO Grade 3 or 4 renal toxicity was observed in patients treated with Hercept
 Diarrhoea
 Of patients treated with Herceptin as a single agent, 27 % experienced diarrhoea.
 An increase in the incidence of diarrhoea, primarily mild to moderate in severity, has also been observed in patients receiving Herceptin in combination with paclitaxel or docetaxel compared with patients receiving paclitaxel or docetaxel alone.
+
 Infection
 An increased incidence of infections, primarily mild upper respiratory infections of minor clinical significance or catheter infections, has been observed primarily in patients treated with Herceptin plus paclitaxel or docetaxel compared with patients receiving paclitaxel or docetaxel alone.
