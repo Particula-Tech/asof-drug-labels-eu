@@ -19,7 +19,7 @@ If necessary, the patient may store both the sachets and the bottles at room tem
 
 [Rapamune 1 mg coated tablets]
 
-Keep the blister in the outer carton.
+Keep the blister in the outer carton in order to protect from light.
 
 [Rapamune 2 mg coated tablets]
 
@@ -27,4 +27,4 @@ Do not store above 25ºC.
 
 [Rapamune 5 mg coated tablets]
 
-(all sentences already above)
+Keep the blister in the outer carton.

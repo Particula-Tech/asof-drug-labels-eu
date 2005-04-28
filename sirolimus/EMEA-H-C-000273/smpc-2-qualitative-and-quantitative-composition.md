@@ -2,7 +2,7 @@
 
 Each ml contains 1 mg sirolimus.
 
-For excipients, see 6.1
+For excipients, see section 6.1
 
 [Rapamune 1 mg/1 ml oral solution.]
 
@@ -27,5 +27,3 @@ Each tablet contains 2 mg sirolimus.
 [Rapamune 5 mg coated tablets]
 
 Each tablet contains 5 mg sirolimus.
-
-For excipients, see section 6.1.

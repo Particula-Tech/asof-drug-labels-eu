@@ -17,8 +17,7 @@ See Instructions for use and handling, section 6.6.
 
 [Rapamune 1 mg coated tablets]
 
-Rapamune tablets must not be taken with grapefruit juice.
-See Section 4.5.
+Not applicable
 
 [Rapamune 2 mg coated tablets]
 
@@ -26,4 +25,4 @@ See Section 4.5.
 
 [Rapamune 5 mg coated tablets]
 
-Not applicable
+(all sentences already above)

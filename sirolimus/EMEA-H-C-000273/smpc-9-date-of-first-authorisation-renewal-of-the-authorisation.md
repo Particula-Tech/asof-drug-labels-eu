@@ -25,4 +25,4 @@ EU/1/01/171/006: 04/06/01
 
 [Rapamune 5 mg coated tablets]
 
-(all sentences already above)
+20.01.2005

@@ -3,27 +3,28 @@
 The list below contains adverse reactions seen in clinical trials and post-marketing reports.
 Only events for which there is at least reasonable suspicion of a causal relationship to Rapamune treatment are listed.
 
-The majority of patients in clinical trials were treated with cyclosporine and corticosteroids; thus the frequency of adverse reactions listed includes Rapamune administration combined with cyclosporine and corticosteroids.
+The majority of patients in clinical trials were treated with ciclosporinand corticosteroids; thus the frequency of adverse reactions listed includes Rapamune administration combined with ciclosporin and corticosteroids.
 
 The incidence of adverse events may increase as the trough Sirolimus level increases
 
 The frequency of the adverse reactions taken from clinical trial data listed below was determined in four clinical trials.
-These included two randomised, double-blind, multicentre controlled trials in which 499 renal transplant patients received Rapamune 2 mg/day and 477 received Rapamune 5 mg/day together with cyclosporine and corticosteriods.
-Additionally, two open-label studies enrolled 771 patients who initially received Rapamune and cyclosporine.
-These patients were randomised to continue cyclosporine therapy or to have cyclosporine withdrawn after 2-3 months post-transplant.
+These included two randomised, double-blind, multicentre controlled trials in which 499 renal transplant patients received Rapamune 2 mg/day and 477 received Rapamune 5 mg/day together with ciclosporin and corticosteriods.
+Additionally, two open-label studies enrolled 771 patients who initially received Rapamune and ciclosporin.
+These patients were randomised to continue ciclosporin therapy or to have ciclosporin withdrawn after 2-3 months post-transplant.
 Adverse reactions are listed according to the following categories:
 
-Very common: ≥10 %
-Common: 1% and <10%
-Uncommon: ≥0.1% and <1%
-Rare: ≥0.01% and <0.1%
+Very common: >1/10
+Common: >1/100, <1/10
+Uncommon: >1/1000, <1/100Rare: >1/10,000,
+
+<1/1000
 
 Body as a whole:
 
 Very common: Lymphocele, peripheral oedema
 Common: Abnormal healing; oedema; fever; fungal, viral, and bacterial
 
-infections (such as Mycobacterial infections, Epstein-Barr virus, CMV, and Herpes zoster); Herpes simplex; sepsis
+infections (such as mycobacterial infections, Epstein-Barr virus, CMV, and Herpes zoster); Herpes simplex; sepsis
 
 Cardiac disorders:
 
@@ -49,12 +50,12 @@ purpura/haemolytic uremia syndrome
 Uncommon: Lymphoma / post transplant lymphoproliferative disorder,
 
 pancytopenia
-
 Immune system disorders:
 
 Rare: Hypersensitivity reactions, including anaphylactic/anaphylactoid
 
 reactions (see section 4.4)
+
 Metabolism and nutrition disorders:
 
 Very common: Hypercholesterolemia, hypertriglyceridemia (hyperlipemia);
@@ -98,11 +99,16 @@ There was a higher rate of serious adverse events including pneumonia, acute rej
 
 [Rapamune 1 mg/1 ml oral solution.]
 
+The majority of patients in clinical trials were treated with ciclosporin and corticosteroids; thus the frequency of adverse reactions listed includes Rapamune administration combined with ciclosporin and corticosteroids.
+
+Uncommon: >1/1000, <1/100
+Rare: >1,10,000, <1/1000
+
 Hepatotoxicty has been reported, the risk may increase as the trough Sirolimus level increases.
 
 [Rapamune 2 mg/2 ml oral solution]
 
-(all sentences already above)
+Rare: >1/10,000, <1/1000
 
 [Rapamune 5 mg/5 ml oral solution]
 
@@ -111,9 +117,9 @@ Hepatotoxicty has been reported, the risk may increase as the trough Sirolimus l
 [Rapamune 1 mg coated tablets]
 
 The frequency of the adverse reactions taken from clinical trial data listed below was determined in five clinical trials in renal transplantation.
-These included two randomised, double-blind, multicentre controlled trials in which 499 renal transplant patients received Rapamune oral solution 2 mg/day and 477 received Rapamune oral solution 5 mg/day together with cyclosporine and corticosteriods.
+These included two randomised, double-blind, multicentre controlled trials in which 499 renal transplant patients received Rapamune oral solution 2 mg/day and 477 received Rapamune oral solution 5 mg/day together with ciclosporin and corticosteriods.
 One randomised, open-label study enrolling 477 patients compared the tablet (238 patients) and the solution (239 patients).
-Additionally, two open-label studies enrolled 771 patients who initially received Rapamune (246 patients received oral solution and 525 received tablets) and cyclosporine.
+Additionally, two open-label studies enrolled 771 patients who initially received Rapamune (246 patients received oral solution and 525 received tablets) and ciclosporin.
 Overall, the safety profile of Rapamune tablets did not differ from that of the oral solution formulation in clinical trials.
 
 Hepatoxicity has been reported.
@@ -131,8 +137,3 @@ The majority of patients in clinical trials were treated with cyclosporin and co
 These included two randomised, double-blind, multicentre controlled trials in which 499 renal transplant patients received Rapamune oral solution 2 mg/day and 477 received Rapamune oral solution 5 mg/day together with cyclosporin and corticosteriods.
 Additionally, two open-label studies enrolled 771 patients who initially received Rapamune (246 patients received oral solution and 525 received tablets) and cyclosporin.
 These patients were randomised to continue cyclosporin therapy or to have cyclosporin withdrawn after 2-3 months post-transplant.
-
-Very common: >1/10
-Common: >1/100, <1/10
-Uncommon: >1/1000, <1/100
-Rare: >1/10,000, <1/1000
