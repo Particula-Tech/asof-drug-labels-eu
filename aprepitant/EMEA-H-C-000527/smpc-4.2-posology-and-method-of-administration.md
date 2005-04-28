@@ -5,7 +5,9 @@ EMEND is available as an 80 mg and a 125 mg hard capsule.
 EMEND is given for 3 days as part of a regimen that includes a corticosteroid and a 5-HT3 antagonist.
 The recommended dose of EMEND is 125 mg orally Day 1 and 80 mg once daily Days 2 and 3.
 
-In clinical studies, the following regimen was used:
+In clinical studies, the following regimens were used for the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy:
+
+Highly Emetogenic Chemotherapy Regimen
 
 |  | Day 1 | Day 2 | Day 3 | Day 4 |
 | --- | --- | --- | --- | --- |
@@ -17,6 +19,18 @@ EMEND was administered orally 1 hour prior to chemotherapy treatment on Day 1 an
 Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 to 4.
 The dose of dexamethasone was chosen to account for medicinal product interactions.
 Ondansetron was administered intravenously 30 minutes prior to chemotherapy treatment on Day 1.
+Moderately Emetogenic Chemotherapy Regimen
+
+|  | Day 1 | Day 2 | Day 3 |
+| --- | --- | --- | --- |
+| EMEND | 125 mg | 80 mg | 80 mg |
+| Dexamethasone | 12 mg orally | none | none |
+| Ondansetron | 2 x 8 mg orally | none | none |
+
+EMEND was administered orally 1 hour prior to chemotherapy treatment on Day 1 and in the morning on Days 2 and 3.
+Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1.
+The dose of dexamethasone was chosen to account for medicinal product interactions.
+One 8 mg capsule of Ondansetron was administered 30 to 60 minutes prior to chemotherapy treatment and one 8 mg capsule was administered 8 hours after first dose on Day 1.
 
 Efficacy data on combination with other corticosteroids and 5-HT3 antagonists are limited.
 For additional information on the administration of EMEND with corticosteroids, see section 4.5.
@@ -26,6 +40,7 @@ Refer to the full product information for coadministered antiemetic agents.
 EMEND may be taken with or without food.
 
 The hard capsule should be swallowed whole.
+
 Elderly
 No dosage adjustment is necessary for the elderly.
 

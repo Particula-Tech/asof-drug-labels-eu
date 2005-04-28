@@ -44,7 +44,6 @@ Gender: Following oral administration of a single 125-mg dose of EMEND, the Cmax
 The half-life of aprepitant is 25 % lower in females as compared with males and its Tmax occurs at approximately the same time.
 These differences are not considered clinically meaningful.
 No dosage adjustment for EMEND is necessary based on gender.
-
 Paediatric patients: The pharmacokinetics of EMEND have not been evaluated in patients below 18 years of age.
 
 Hepatic insufficiency: Mild hepatic insufficiency (Child-Pugh score 5 to 6) does not affect the pharmacokinetics of aprepitant to a clinically relevant extent.
