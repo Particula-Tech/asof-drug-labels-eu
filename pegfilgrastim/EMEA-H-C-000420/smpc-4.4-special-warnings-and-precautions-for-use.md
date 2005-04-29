@@ -6,9 +6,10 @@ The safety and efficacy of Neulasta have not been investigated in patients recei
 
 The onset of pulmonary signs such as cough, fever, and dyspnoea in association with radiological signs of pulmonary infiltrates, and deterioration in pulmonary function along with increased neutrophil count may be preliminary signs of Adult Respiratory Distress Syndrome (ARDS).
 In such circumstances Neulasta should be discontinued at the discretion of the physician and the appropriate treatment given.
-Common but generally asymptomatic cases of splenomegaly and very rare cases of splenic rupture have been reported in healthy donors and patients following administration of granulocyte-colony stimulating factors (G-CSFs).
+Common but generally asymptomatic cases of splenomegaly and very rare cases of splenic rupture have been reported in healthy donors and patients following administration of granulocyte-colony stimulating factors (GCSFs).
 Some cases of splenic rupture were fatal.
-Therefore, spleen size should be carefully monitored (eg clinical examination, ultrasound) A diagnosis of splenic rupture should be considered in donors and/or patients reporting left upper abdominal pain or shoulder tip pain.
+Therefore, spleen size should be carefully monitored (eg clinical examination, ultrasound).
+A diagnosis of splenic rupture should be considered in patients reporting left upper abdominal pain or shoulder tip pain.
 
 Treatment with Neulasta alone does not preclude thrombocytopenia and anaemia because full dose myelosuppressive chemotherapy is maintained on the prescribed schedule.
 Regular monitoring of platelet count and haematocrit is recommended.
