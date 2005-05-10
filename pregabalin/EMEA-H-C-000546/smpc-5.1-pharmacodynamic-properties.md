@@ -19,9 +19,9 @@ Overall, the safety and efficacy profiles for BID and TID dosing regimens were s
 
 In clinical trials up to 13 weeks, a reduction in pain was seen by week 1 and was maintained throughout the treatment period.
 
-In controlled clinical trials 45% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score.
-For patients not experiencing somnolence, such an improvement was observed in 43% of patients treated with pregabalin and 18% of patients on placebo.
-For patients who experienced somnolence the responder rates were 54% on pregabalin and 16% on placebo.
+In controlled clinical trials 35% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score.
+For patients not experiencing somnolence, such an improvement was observed in 33% of patients treated with pregabalin and 18% of patients on placebo.
+For patients who experienced somnolence the responder rates were 48% on pregabalin and 16% on placebo.
 
 Epilepsy
 

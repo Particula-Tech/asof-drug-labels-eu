@@ -1,1 +1,31 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/279/001-005
+EU/1/04/279/026
+
+[LYRICA 50 mg hard capsules.]
+
+EU/1/04/279/006-010
+
+[LYRICA 75 mg hard capsules]
+
+EU/1/04/279/011-013
+EU/1/04/279/027
+
+[LYRICA 100 mg hard capsules.]
+
+EU/1/04/279/014-016
+
+[LYRICA 150 mg hard capsules]
+
+EU/1/04/279/017-019
+EU/1/04/279/028
+
+[LYRICA 200 mg hard capsules]
+
+EU/1/04/279/020 - 022
+
+[LYRICA 300 mg hard capsules]
+
+EU/1/04/279/023 – 025
+EU/1/04/279/029
