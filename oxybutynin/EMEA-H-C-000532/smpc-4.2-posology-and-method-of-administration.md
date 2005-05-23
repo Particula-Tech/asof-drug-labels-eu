@@ -5,4 +5,4 @@ A new application site should be selected with each new patch to avoid reapplica
 
 The recommended dose is one 3.9 mg transdermal patch applied twice weekly (every 3 to 4 days).
 
-No studies have been performed in children or adolescents, therefore Oxybutynin Nicobrand is not recommended for use in children or adolescents.
+No studies have been performed in children or adolescents, therefore Kentera is not recommended for use in children or adolescents.

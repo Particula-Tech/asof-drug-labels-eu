@@ -15,6 +15,6 @@ The active metabolite, N-desethyloxybutynin, has pharmacological activity on the
 The free base form of oxybutynin is pharmacologically equivalent to oxybutynin hydrochloride.
 
 Clinical efficacy:
-A total of 957 patients with urge urinary incontinence were evaluated in three controlled studies comparing Oxybutynin Nicobrand to either placebo, oral oxybutynin and/or tolterodine long acting capsules.
+A total of 957 patients with urge urinary incontinence were evaluated in three controlled studies comparing Kentera to either placebo, oral oxybutynin and/or tolterodine long acting capsules.
 Reductions in weekly incontinence episodes, urinary frequency, and urinary void volume were evaluated.
-Oxybutynin Nicobrand led to consistent improvements in overactive bladder symptoms compared with placebo.
+Kentera led to consistent improvements in overactive bladder symptoms compared with placebo.

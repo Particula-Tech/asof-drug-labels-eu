@@ -7,7 +7,6 @@ The release liner is two overlapped siliconised polyester strips that are peeled
 
 Backing Film:
 Polyethylene/ethyl vinyl acetate (PET/EVA), clear
-
 Middle layer:
 Glycerol Triacetate
 Acrylic Copolymer Adhesive Solution containing 2-ethylhexyl acrylate N-vinyl pyrrolidone and hexamethyleneglycol dimethacrylate polymer domains

@@ -1,9 +1,9 @@
 # 4.8 Undesirable effects
 
-The most commonly reported adverse drug reactions were application site reaction (Oxybutynin Nicobrand 23.1 %, placebo 7.6%).
-Other adverse drug reactions reported were dry mouth (Oxybutynin Nicobrand 8.6%, placebo 5.2%), constipation (Oxybutynin Nicobrand 3.9%, placebo 2%), diarrhea (Oxybutynin Nicobrand 3.2%, placebo 2%), headache (Oxybutynin Nicobrand 3.0%, placebo 2.4%), dizziness (Oxybutynin Nicobrand 2.3%, placebo 1.2%), and blurred vision (Oxybutynin Nicobrand 2.3%, placebo 0.89%).
+The most commonly reported adverse drug reactions were application site reaction (Kentera 23.1 %, placebo 7.6%).
+Other adverse drug reactions reported were dry mouth (Kentera 8.6%, placebo 5.2%), constipation (Kentera 3.9%, placebo 2%), diarrhea (Kentera 3.2%, placebo 2%), headache (Kentera 3.0%, placebo 2.4%), dizziness (Kentera 2.3%, placebo 1.2%), and blurred vision (Kentera 2.3%, placebo 0.89%).
 
-Undesirable effects known to be associated with anticholinergic therapy, but not observed with Oxybutynin Nicobrand during clinical studies are anorexia, vomiting, reflux oesophagitis, decreased sweating, heat stroke, decreased lacrimation, mydriasis, tachycardia, arrhythmia, disorientation, poor ability to concentrate, fatigue, nightmares, restlessness, convulsion, intraocular hypertension and induction of glaucoma, confusion, anxiety, paranoia, hallucinations, photosensitivity, erectile dysfunction.
+Undesirable effects known to be associated with anticholinergic therapy, but not observed with Kentera during clinical studies are anorexia, vomiting, reflux oesophagitis, decreased sweating, heat stroke, decreased lacrimation, mydriasis, tachycardia, arrhythmia, disorientation, poor ability to concentrate, fatigue, nightmares, restlessness, convulsion, intraocular hypertension and induction of glaucoma, confusion, anxiety, paranoia, hallucinations, photosensitivity, erectile dysfunction.
 
 Reported Adverse Drug Reactions and rate of occurrence:
 
@@ -33,14 +33,14 @@ Reported Adverse Drug Reactions and rate of occurrence:
 | Diarrhea | 3.2 % |  | common |
 | Nausea | 2.1 % |  | common |
 | Abdominal Pain | 1.2 % |  | common |
+| Dyspepsia | 0.4% |  | uncommon |
+| Abdominal Discomfort | 0.5% |  | uncommon |
+| Musculoskeletal disorders |  |  |  |
+| Back Pain | 0.8 % |  | uncommon |
+| Renal and urinary disorders |  |  |  |
 
-| Dyspepsia | 0.4% | uncommon |
-| --- | --- | --- |
-| Abdominal Discomfort | 0.5% | uncommon |
-| Musculoskeletal disorders |  |  |
-| Back Pain | 0.8 % | uncommon |
-| Renal and urinary disorders |  |  |
 | Urinary retention | 0.3 % | uncommon |
+| --- | --- | --- |
 | Dysuria | 0.9 % | uncommon |
 | General disorders |  |  |
 | Headache | 3.0 % | common |
