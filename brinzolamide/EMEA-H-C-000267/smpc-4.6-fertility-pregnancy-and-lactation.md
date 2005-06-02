@@ -1,8 +1,8 @@
 # 4.6 Pregnancy and lactation
 
 Pregnancy
-No studies were performed in pregnant women.
-Studies in animals have shown reproductive toxicity (see section 5.3).
+There are no adequate data from the use of brinzolamide in pregnant women.
+Studies in animals have shown reproductive toxicity (see 5.3).
 The potential risk for humans is unknown.
 AZOPT should not be used during pregnancy unless clearly necessary.
 
