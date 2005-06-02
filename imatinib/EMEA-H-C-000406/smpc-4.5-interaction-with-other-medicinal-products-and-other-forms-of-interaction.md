@@ -5,7 +5,6 @@ Drugs that may increase imatinib plasma concentrations:
 Substances that inhibit the cytochrome P450 isoenzyme CYP3A4 activity (e.g. ketoconazole, itraconazole, erythromycin, clarithromycin) could decrease metabolism and increase imatinib concentrations.
 There was a significant increase in exposure to imatinib (the mean Cmax and AUC of imatinib rose by 26% and 40%, respectively) in healthy subjects when it was co-administered with a single dose of ketoconazole (a CYP3A4 inhibitor).
 Caution should be taken when administering Glivec with inhibitors of the CYP3A4 family.
-
 Drugs that may decrease imatinib plasma concentrations:
 Substances that are inducers of CYP3A4 activity could increase metabolism and decrease imatinib plasma concentrations.
 Co-medications which induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.

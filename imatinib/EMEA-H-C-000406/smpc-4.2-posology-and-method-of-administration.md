@@ -10,6 +10,7 @@ Hands should be washed immediately after handling open capsules.
 Posology for CML
 The recommended dosage of Glivec is 400 mg/day for patients in chronic phase CML.
 Chronic phase CML is defined when all of the following criteria are met: blasts < 15% in blood and bone marrow, peripheral blood basophils < 20%, platelets > 100 x 109/l.
+
 The recommended dosage of Glivec is 600 mg/day for patients in accelerated phase.
 Accelerated phase is defined by the presence of any of the following: blasts ≥ 15% but < 30% in blood or bone marrow, blasts plus promyelocytes ≥ 30% in blood or bone marrow (providing < 30% blasts), peripheral blood basophils ≥ 20%, platelets < 100 x 109/l unrelated to therapy.
 
@@ -51,6 +52,7 @@ If elevations in bilirubin > 3 x institutional upper limit of normal (IULN) or i
 > 5 x IULN occur, Glivec should be withheld until bilirubin levels have returned to a < 1.5 x IULN and transaminase levels to < 2.5 x IULN.
 Treatment with Glivec may then be continued at a reduced daily dose.
 In adults the dose should be reduced from 400 to 300 mg or from 600 to 400 mg and in children from 260 to 200 mg/m2/day or from 340 to 260 mg/m2/day.
+
 Haematological adverse reactions
 Dose reduction or treatment interruption for severe neutropenia and thrombocytopenia are recommended as indicated in the table below.
 

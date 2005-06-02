@@ -38,7 +38,6 @@ Response data are shown in Table 1.
 With the follow-up currently available, the estimated rate of patients free of progression to accelerated phase or blast crisis at 12 months was significantly higher in the Glivec arm compared to the IFN arm (98.5% versus 93.1%, p<0.001).
 The estimated rate of progression-free survival at 12 months was 97.2% in the Glivec arm and 80.3% in the control arm.
 There were 11 and 20 deaths reported in the Glivec and IFN arms, respectively (difference not significant).
-
 Table 1.
 Response in newly diagnosed CML Study
 
@@ -87,7 +86,6 @@ The primary efficacy variable was the rate of haematological response, reported 
 In this study, 31% of patients achieved a haematological response (36% in previously untreated patients and 22% in previously treated patients).
 The rate of response was also higher in the patients treated at 600 mg (33%) as compared to the patients treated at 400 mg (16%, p=0.0220).
 The current estimate of the median survival of the previously untreated and treated patients was 7.7 and 4.7 months, respectively.
-
 Lymphoid blast crisis: a limited number of patients were enrolled in phase I studies (n=10).
 The rate of haematological response was 70% with a duration of 2-3 months.
 
@@ -114,6 +112,7 @@ Eight additional children (3 CML,
 Three received a dose of 173 to 200 mg/m2/day, four a dose of approximately 260 mg/m2/day, and one a dose of 360 mg/m2/day.
 Two out of the three chronic phase CML patients achieved a complete cytogenetic response.
 Among the total of 34 patients, there were no special safety findings in comparison with adult trials.
+
 Clinical studies in GIST
 One phase 2, open-label, randomised, uncontrolled multinational study was conducted in patients with unresectable or metastatic malignant gastrointestinal stromal tumours (GIST).
 In this study 147 patients were enrolled and randomised to receive either 400 mg or 600 mg orally q.d. for up to 24 months.

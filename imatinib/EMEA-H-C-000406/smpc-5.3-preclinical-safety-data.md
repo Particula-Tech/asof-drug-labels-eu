@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 The preclinical safety profile of imatinib was assessed in rats, dogs, monkeys and rabbits.
-
 Multiple dose toxicity studies revealed mild to moderate haematological changes in rats, dogs and monkeys, accompanied by bone marrow changes in rats and dogs.
 
 The liver was a target organ in rats and dogs.
@@ -14,7 +13,7 @@ Increased BUN and creatinine were observed in several of these animals.
 In rats, hyperplasia of the transitional epithelium in the renal papilla and in the urinary bladder was observed at doses ≥ 6 mg/kg in the 13-week study, without changes in serum or urinary parameters.
 An increased rate of opportunistic infections was observed with chronic imatinib treatment.
 
-In a 39-week monkey study, no NOAEL was established at the lowest dose of 15 mg/kg, approximately one-third the maximum human dose of 800 mg based on body surface.
+In a 39-week monkey study, no NOAEL (no observed adverse effect level) was established at the lowest dose of 15 mg/kg, approximately one-third the maximum human dose of 800 mg based on body surface.
 Treatment resulted in worsening of normally suppressed malarial infections in these animals.
 
 Imatinib was not considered genotoxic when tested in an in vitro bacterial cell assay (Ames test), an in vitro mammalian cell assay (mouse lymphoma) and an in vivo rat micronucleus test.
@@ -33,12 +32,20 @@ In an oral pre- and postnatal development study in rats, red vaginal discharge w
 At the same dose, the number of stillborn pups as well as those dying between postpartum days 0 and 4 was increased.
 In the F1 offspring, at the same dose level, mean body weights were reduced from birth until terminal sacrifice and the number of litters achieving criterion for preputial separation was slightly decreased.
 F1 fertility was not affected, while an increased number of resorptions and a decreased number of viable foetuses was noted at 45 mg/kg/day.
-The no effect level for both the maternal animals and the F1 generation was 15 mg/kg/day (one quarter of the maximum human dose of 800 mg).
+The no observed effect level (NOEL) for both the maternal animals and the F1 generation was 15 mg/kg/day (one quarter of the maximum human dose of 800 mg).
 
 Imatinib was teratogenic in rats when administered during organogenesis at doses ≥ 100 mg/kg, approximately equal to the maximum clinical dose of 800 mg/day, based on body surface area.
 Teratogenic effects included exencephaly or encephalocele, absent/reduced frontal and absent parietal bones.
 These effects were not seen at doses ≤ 30 mg/kg.
-Carcinogenicity studies are in progress.
+
+The urogenital tract findings from a 2-year carcinogenicity study in rats receiving doses of 15, 30 and 60 mg/kg/day of imatinib showed renal adenomas/carcinomas, urinary bladder papillomas and papillomas/carcinomas of the preputial and clitoral gland.
+Evaluation of other organs in rats is ongoing.
+
+The papilloma/carcinoma of the preputial/clitoral gland were noted at 30 and 60 mg/kg/day, representing approximately 0.5 to 4 or 0.3 to 2.4 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 0.4 to 3.0 times the daily exposure in children (based on AUC) at 340 mg/m2.
+The renal adenoma/carcinoma and the urinary bladder papilloma were noted at 60 mg/kg/day.
+The no observed effect levels (NOEL) for the various target organs with neoplastic lesions were 15 mg/kg/day for preputial and clitoral gland, and 30 mg/kg/day for kidney and urinary bladder.
+
+The mechanism and relevance of these findings in the rat carcinogenicity study for humans are not yet clarified.
 
 [GLIVEC 100 mg capsules, hard]
 

@@ -47,8 +47,7 @@ Frequencies are defined as: very common (> 1/10), common (> 1/100, ≤ 1/10), un
 Laboratory test abnormalities
 Haematology
 In CML, cytopenias, particularly neutropenia and thrombocytopenia, have been a consistent finding in all studies, with the suggestion of a higher frequency at high doses ≥ 750 mg (phase I study).
-However, the occurrence of cytopenias was also clearly dependent on the stage of the disease, the frequency of grade 3 or 4 neutropenias (ANC < 1.0 x109/l) and thrombocytopenias (platelet count
-< 50 x109/l) being between 4 and 6 times higher in blast crisis and accelerated phase (58-62% and 42-58% for neutropenia and thrombocytopenia, respectively) as compared to newly diagnosed patients in chronic phase CML (14% neutropenia and 7% thrombocytopenia).
+However, the occurrence of cytopenias was also clearly dependent on the stage of the disease, the frequency of grade 3 or 4 neutropenias (ANC < 1.0 x109/l) and thrombocytopenias (platelet count < 50 x109/l) being between 4 and 6 times higher in blast crisis and accelerated phase (58-62% and 42-58% for neutropenia and thrombocytopenia, respectively) as compared to newly diagnosed patients in chronic phase CML (14% neutropenia and 7% thrombocytopenia).
 In newly diagnosed chronic phase CML grade 4 neutropenia (ANC < 0.5 x109/l) and thrombocytopenia (platelet count < 10 x109/l) were observed in 2% and < 1% of patients, respectively.
 The median duration of the neutropenic and thrombocytopenic episodes usually ranged from 2 to 3 weeks, and from 3 to 4 weeks, respectively.
 These events can usually be managed with either a reduction of the dose or an interruption of treatment with Glivec, but can in rare cases lead to permanent discontinuation of treatment.
