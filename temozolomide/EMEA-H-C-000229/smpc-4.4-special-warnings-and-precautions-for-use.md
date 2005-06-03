@@ -1,14 +1,23 @@
 # 4.4 Special warnings and special precautions for use
 
-In patients with recurrent malignant glioma who are in a poor performance status or have other severely debilitating diseases or infection, the decision to administer Temodal should be taken after weighing the potential benefits and risks to the patient, including risks related to the accompanying condition.
+Patients who received concomitant Temodal and radiotherapy in a pilot trial for the prolonged 42 day schedule were shown to be at particular risk for developing Pneumocystis carinii pneumonia.
+Thus, prophylaxis against Pneumocystis carinii pneumonia is required for all patients receiving concomitant Temodal and radiotherapy for the 42 day regimen (with a maximum of 49 days) regardless of lymphocyte count.
+If lymphopenia occurs, they are to continue the prophylaxis until recovery of lymphopenia to grade ≤ 1.
 
+Anti-emetic therapy: Nausea and vomiting are very commonly associated with Temodal, and guidelines are provided:
+
+Patients with newly diagnosed glioblastoma multiforme:
+
+- anti-emetic prophylaxis is recommended prior to the initial dose of concomitant temozolomide,
+- anti-emetic prophylaxis is strongly recommended during the monotherapy phase.
+
+Patients with recurrent or progressive malignant glioma:
 Patients who have experienced severe (Grade 3 or 4) vomiting in previous treatment cycles may require anti-emetic therapy.
 
 This medicinal product contains lactose; thus, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 Laboratory parameters
-Prior to dosing, the following laboratory parameters must be met: ANC ≥ 1.5 x 109/l and platelet count
-≥ 100 x 109/l.
+Prior to dosing, the following laboratory parameters must be met: ANC ≥ 1.5 x 109/l and platelet count ≥ 100 x 109/l.
 A complete blood count should be obtained on Day 22 (21 days after the first dose) or within 48 hours of that day, and weekly until ANC is above 1.5 x 109/l and platelet count exceeds 100 x 109/l.
 If ANC falls to < 1.0 x 109/l or the platelet count is < 50 x 109/l during any cycle, the next cycle should be reduced one dose level.
 Dose levels include 100 mg/m2, 150 mg/m2, and 200 mg/m2.
