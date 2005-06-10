@@ -12,12 +12,11 @@ The metabolism of rasagiline proceeds through two main pathways: N-dealkylation 
 In vitro experiments indicate that both routes of rasagiline metabolism are dependent on cytochrome P450 system, with CYP1A2 being the major iso-enzyme involved in rasagiline metabolism.
 Conjugation of rasagiline and its metabolites was also found to be a major elimination pathway to yield glucuronides.
 
-Excretion: After oral administration of 14C-labelled rasagiline, elimination occurred primarily via urine (62.6%) and secondarily via faeces (21.
-8%), with a total recovery of 84.4% of the dose over a period of 38 days.
+Excretion: After oral administration of 14C-labelled rasagiline, elimination occurred primarily via urine (62.6%) and secondarily via faeces (21.8%), with a total recovery of 84.4% of the dose over a period of 38 days.
 Less than 1% of rasagiline is excreted as unchanged product in urine.
 
 Linearity/non-linearity: Rasagiline pharmacokinetics are linear with dose over the range of 0.5-2 mg.
-Its terminal half life is 0.6-2 hours.
+Its terminal half-life is 0.6-2 hours.
 
 Characteristics in patients
 

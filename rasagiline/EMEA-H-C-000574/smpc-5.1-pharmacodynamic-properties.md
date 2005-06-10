@@ -8,7 +8,7 @@ Mechanism of action:
 
 Rasagiline was shown to be a potent, irreversible MAO-B selective inhibitor, which may cause an increase in extracellular levels of dopamine in the striatum.
 The elevated dopamine level and subsequent increased dopaminergic activity are likely to mediate rasagiline's beneficial effects seen in models of dopaminergic motor dysfunction.
-.
+
 1-Aminoindan is an active major metabolite and it is not a MAO-B inhibitor.
 
 Clinical studies:
@@ -22,11 +22,11 @@ The effect was evident, although its magnitude was modest in this patient popula
 There was a significant and beneficial effect in quality of life (as assessed by PD-QUALIF scale).
 
 Adjunct therapy:
-In study II patients were randomly assigned to receive placebo (229 patients), or rasagiline 1 mg/day (231 patients) or the catechol- O –methyl transferase(COMT) inhibitor, entacapone, 200 mg taken along with scheduled doses of levodopa (LD)/decarboxylase inhibitor (227 patients), and were treated for 18 weeks.
+In study II patients were randomly assigned to receive placebo (229 patients), or rasagiline 1 mg/day (231 patients) or the catechol-O–methyl transferase (COMT) inhibitor, entacapone, 200 mg taken along with scheduled doses of levodopa (LD)/decarboxylase inhibitor (227 patients), and were treated for 18 weeks.
 In study III patients were randomly assigned to receive placebo (159 patients), rasagiline 0.5 mg/day (164 patients), or rasagiline 1 mg/day (149 patients), and were treated for 26 weeks.
 In both studies the primary measure of efficacy was the change from baseline to treatment period in the mean number of hours that were spent in the “OFF” state during the day (determined from
 “24-hour” home diaries completed for 3 days prior to each of the assessment visits).
-In study II, the mean difference in the number of hours spent in the “OFF” state compared to placebo was -0.78h, 95% CI [-1.18, -0.39h], p=0.0001.
+In study II, the mean difference in the number of hours spent in the “OFF” state compared to placebo was -0.78h, 95% CI [-1.18, -0.39], p=0.0001.
 The mean total daily decrease in the OFF time was similar in the entacapone group (-0.80h, 95% CI [-1.20, -0.41], p<0.0001) to that observed in the rasagiline 1 mg group.
 In study III the mean difference compared to placebo was -0.94h, 95% CI [-1.36, -0.51], p<0.0001.
 There was also a statistically significant improvement over placebo with the rasagiline 0.5 mg group, yet the magnitude of improvement was lower.

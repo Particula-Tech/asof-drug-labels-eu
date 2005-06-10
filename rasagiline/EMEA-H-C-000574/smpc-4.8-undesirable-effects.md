@@ -13,7 +13,7 @@ Adverse reactions are ranked under headings of frequency using the following con
 Body as a Whole: very common: headache (14.1% vs. 11.9%) common: flu syndrome (6.0% vs. 0.7%), malaise (2.0% vs. 0%), neck pain (2.0% vs. 0%), allergic reaction (1.3% vs. 0.7%), fever (2.7% vs. 1.3%)
 Cardiovascular system: common: angina pectoris (1.3% vs. 0%) uncommon: cerebrovascular accident (0.7% vs. 0%), myocardial infarct (0.7% vs. 0%)
 Digestive System: common: dyspepsia (6.7% vs. 4%), anorexia (1.3% vs. 0%)
-Hemic and lymphatic system: common: leucopaenia (1.3% vs. 0%)
+Haemic and lymphatic system: common: leucopenia (1.3% vs. 0%)
 Musculoskeletal System: common: arthralgia (7.4% vs. 4%), arthritis (2.0% vs. 0.7%)
 Nervous System: common: depression (5.4% vs. 2%), vertigo (2.0% vs. 0.7%)
 Respiratory system: common: rhinitis (2.7% vs. 1.3%)
