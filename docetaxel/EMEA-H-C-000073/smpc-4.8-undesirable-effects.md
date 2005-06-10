@@ -93,6 +93,7 @@ TAXOTERE 100mg/m² single agent:
 Very common: Alopecia (79%); Cutaneous reactions (56.6%; G3/4: 5.9%); Nail changes (27.9%; severe 2.6%).
 Very rare: one case of alopecia non-reversible at the end of the study.
 73% of the cutaneous reactions were reversible within 21 days.
+
 TAXOTERE 75mg/m² single agent:
 Very common: Alopecia (38%); Cutaneous reactions (15.7%; G3/4: 0.8%).
 Common: Nail changes (9.9%; severe 0.8%).
@@ -138,6 +139,7 @@ TAXOTERE 100mg/m² in combination with trastuzumab:
 Very common: Oedema peripheral (40%), Lymphoedema (11%).
 
 TAXOTERE 75mg/m² in combination with prednisone or prednisolone: very common (24.4%; severe 0.6%)
+
 TAXOTERE 75mg/m² in combination with doxorubicin and cyclophosphamide:
 Very common: Peripheral edema (26.7%; G3/4: 0.4%)
 Uncommon: Lymphedema (0.3%; G3/4: 0%)
@@ -232,6 +234,7 @@ Uncommon: Heart failure (0.5%).
 
 TAXOTERE 75mg/m² single agent:
 Common: Cardiac dysrhythmia (2.5%, no severe); Hypotension (1.7%).
+
 TAXOTERE 75mg/m² in combination with doxorubicin:
 Common: Heart failure (2.3%); Cardiac dysrhythmia (1.2%; no severe).
 Uncommon: Hypotension (0.4%).

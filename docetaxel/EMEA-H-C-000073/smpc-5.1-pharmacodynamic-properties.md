@@ -55,7 +55,13 @@ Three docetaxel patients (2%) discontinued the treatment due to fluid retention,
 In anthracycline-failure patients, docetaxel was compared to the combination of Mitomycin C and Vinblastine (12 mg/m² every 6 weeks and 6 mg/m² every 3 weeks).
 Docetaxel increased response rate (33% vs. 12%, p<0.0001), prolonged time to progression (19 weeks vs. 11 weeks, p=0.0004) and prolonged overall survival (11 months vs. 9 months, p=0.01).
 
-During these phase III studies, the safety profile of docetaxel was consistent with the safety profile observed in phase II studies (see section 4.8).
+During these two phase III studies, the safety profile of docetaxel was consistent with the safety profile observed in phase II studies (see section 4.8).
+
+An open-label, multicenter, randomized phase III study was conducted to compare TAXOTERE monotherapy and paclitaxel in the treatment of advanced breast cancer in patients whose previous therapy should have included an anthracycline.
+A total of 449 patients were randomized to receive either TAXOTERE monotherapy 100 mg/m² as a 1 hour infusion or paclitaxel 175 mg/m² as a 3 hour infusion.
+Both regimens were administered every 3 weeks.
+Without affecting the primary endpoint, overall response rate (32% vs 25%, p=0.10), docetaxel prolonged median time to progression (24.6 weeks vs 15.6 weeks; p<0.01) and median survival (15.3 months vs 12.7 months; p=0.03).
+More grade 3/4 adverse events were observed for TAXOTERE monotherapy (55.4%) compared to paclitaxel (23.0%).
 
 TAXOTERE in combination with doxorubicin
 
@@ -136,10 +142,13 @@ Secondary end-points included change of pain, global rating of quality of life b
 Results on these end-points were supportive of the primary end-points results.
 
 For Taxotere/Carboplatin combination, neither equivalent nor non-inferior efficacy could be proven compared to the reference treatment combination VCis.
-
 Prostate Cancer
 
-The safety and efficacy of TAXOTERE in combination with prednisone or prednisolone in patients with hormone refractory metastatic prostate cancer were evaluated in a randomized multicenter Phase III trial.
+The safety and efficacy of TAXOTERE in combination with prednisone or prednisolone in patients
+
+with hormone refractory metastatic prostate cancer were evaluated in a randomized multicenter Phase KM
+
+III trial.
 A total of 1006 patients with KPS≥60 were randomized to the following treatment groups:
 
 - TAXOTERE 75 mg/m2 every 3 weeks for 10 cycles.
@@ -147,6 +156,7 @@ A total of 1006 patients with KPS≥60 were randomized to the following treatmen
 - Mitoxantrone 12 mg/m2 every 3 weeks for 10 cycles.
 
 All 3 regimens were administered in combination with prednisone or prednisolone 5 mg twice daily, continuously.
+
 Patients who received docetaxel every three weeks demonstrated significantly longer overall survival compared to those treated with mitoxantrone.
 The increase in survival seen in the docetaxel weekly arm was not statistically significant compared to the mitoxantrone control arm.
 Efficacy endpoints for the TAXOTERE arms versus the control arm are summarized in the following table:
@@ -167,6 +177,9 @@ Given the fact that TAXOTERE every week presented a slightly better safety profi
 No statistical differences were observed between treatment groups for Global Quality of Life.
 
 [TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+Two randomised phase III comparative studies, involving a total of 326 alkylating or
+392 anthracycline failure metastatic breast cancer patients, have been performed with docetaxel at the recommended dose and regimen of 100 mg/m² every 3 weeks.
 
   The median TTP was 37.3 weeks (95%CI :33.4 - 42.1) in AT arm and 31.9 weeks (95%CI : 27.4 - 36.0) in AC arm.
   The ORR was 59.3% (95%CI : 52.8 - 65.9) in AT arm versus 46.5% (95%CI : 39.8 - 53.2) in AC arm.
