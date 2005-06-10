@@ -31,6 +31,5 @@ Occlusive dressings are not recommended.
 As with any topical medicinal product, patients should wash their hands after application if the hands are not intended for treatment.
 
 Tacrolimus is extensively metabolised in the liver and although blood concentrations are low following topical therapy, the ointment should be used with caution in patients with hepatic failure (see 5.2).
-
 The use of Protopic ointment in patients with genetic epidermal barrier defects such as Netherton’s syndrome is not recommended due to the potential for permanently increased systemic absorption of tacrolimus.
 The safety of Protopic ointment has not been established in patients with generalised erythroderma.

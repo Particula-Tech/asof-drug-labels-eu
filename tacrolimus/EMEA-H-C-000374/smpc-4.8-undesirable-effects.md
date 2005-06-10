@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-Approximately 50% of patients experienced some type of skin irritation adverse reaction at the site of application.
+In clinical studies approximately 50% of patients experienced some type of skin irritation adverse reaction at the site of application.
 Burning sensation and pruritus were very common, usually mild to moderate in severity and tended to resolve within one week of starting treatment.
 Erythema was a common skin irritation adverse reaction.
 Sensation of warmth, pain, paraesthesia and rash at the site of application were also commonly observed.
@@ -10,13 +10,14 @@ Patients may be at an increased risk of folliculitis, acne and herpes viral infe
 Adverse reactions with suspected relationship to treatment are listed below by system organ class.
 Frequencies are defined as very common (> 1/10), common (> 1/100, < 1/10) and uncommon
 (> 1/1,000, < 1/100).
-
 General disorders and administration site conditions
 Very common: Application site burning, application site pruritus
 
 Common: Application site warmth, application site erythema, application site pain,
 
-application site irritation, application site paraesthesia, application site rash Infections and infestations
+application site irritation, application site paraesthesia, application site rash
+
+Infections and infestations
 
 Common: Herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes
 
@@ -38,8 +39,9 @@ Common: Alcohol intolerance (facial flushing or skin irritation after consumptio
 
 alcoholic beverage)
 
+The following adverse reactions have been reported during post-marketing experience:
+Skin and subcutaneous tissue disorders: Rosacea
+
 [Protopic 0.1% ointment]
 
-application site irritation, application site paraesthesia, application site rash
-
-Infections and infestations
+application site irritation, application site paraesthesia, application site rash Infections and infestations
