@@ -21,3 +21,31 @@ In a 26-week, placebo-controlled trial in stabilised patients with chronic schiz
 Weight gain: in clinical trials aripiprazole has not been shown to induce clinically relevant weight gain.
 In a 26-week, olanzapine-controlled, double-blind, multi-national study of schizophrenia which included 314 patients and where the primary end-point was weight gain, significantly less patients had at least 7% weight gain over baseline (i.e. a gain of at least 5.6 kg for a mean baseline weight of
 ~80.5 kg) on aripiprazole (N=18, or 13% of evaluable patients), compared to olanzapine (N=45, or 33% of evaluable patients).
+
+[ABILIFY 10 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 5 mg orodispersible tablets]
+
+~80.5 kg) on aripiprazole (N= 18, or 13% of evaluable patients), compared to olanzapine (N= 45, or 33% of evaluable patients).
+
+[ABILIFY 10 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg orodispersible tablets]
+
+(all sentences already above)

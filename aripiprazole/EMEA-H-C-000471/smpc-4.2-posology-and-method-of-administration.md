@@ -29,3 +29,43 @@ When concomitant administration of potent CYP3A4 or CYP2D6 inhibitors with aripi
 When the CYP3A4 or CYP2D6 inhibitor is withdrawn from the combination therapy, aripiprazole dose should then be increased (see section 4.5).
 When concomitant administration of potent CYP3A4 inducers with aripiprazole occurs, the aripiprazole dose should be increased.
 When the CYP3A4 inducer is withdrawn from the combination therapy, the aripiprazole dose should then be reduced to the recommended dose (see section 4.5).
+
+[ABILIFY 10 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 5 mg orodispersible tablets]
+
+The recommended starting and maintenance dose for aripiprazole is 15 mg/day administered on a once-a-day schedule without regard to meals.
+
+Aripiprazole is effective in a dose range of 15 to 30 mg/day.
+
+The orodispersible tablet should be placed in the mouth on the tongue, where it will rapidly disperse in saliva.
+It can be taken with or without liquid.
+Removal of the intact orodispersible tablet from the mouth is difficult.
+Since the orodispersible tablet is fragile, it should be taken immediately on opening the blister.
+Alternatively, disperse the tablet in water and drink the resulting suspension.
+
+The orodispersible tablets may be used as an alternative to ABILIFY tablets for patients who have difficulty to swallow ABILIFY tablets (see also section 5.2).
+
+Smoking status: according to the metabolic pathway of aripiprazole no dosage adjustment is required for smokers (see section 4.5).
+
+[ABILIFY 10 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg orodispersible tablets]
+
+(all sentences already above)
