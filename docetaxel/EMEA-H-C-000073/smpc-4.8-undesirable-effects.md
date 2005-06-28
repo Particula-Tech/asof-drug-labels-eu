@@ -83,17 +83,16 @@ TAXOTERE 75mg/m² in combination with doxorubicin and cyclophosphamide: very com
 Skin and subcutaneous tissue disorders
 
 Reversible cutaneous reactions have been observed and were generally considered as mild to moderate.
-Reactions were characterised by a rash including localised eruptions mainly on the feet and hands, but also on the arms, face or thorax, and frequently associated with pruritus.
+Reactions were characterised by a rash including localised eruptions mainly on the feet and hands (including severe hand and foot syndrome), but also on the arms, face or thorax, and frequently associated with pruritus.
 Eruptions generally occurred within one week after the docetaxel infusion.
 Less frequently, severe symptoms such as eruptions followed by desquamation which rarely lead to interruption or discontinuation of docetaxel treatment were reported (see sections 4.2 and 4.4).
 Severe nail disorders are characterised by hypo- or hyperpigmentation and sometimes pain and onycholysis.
-Very rare cases of bullous eruption such as erythema multiforme or Stevens-Johnson syndrome have been reported with docetaxel and other concomitant factors may have contributed to the development of these effects.
+Very rare cases of bullous eruption such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, have been reported with docetaxel and other concomitant factors may have contributed to the development of these effects.
 
 TAXOTERE 100mg/m² single agent:
 Very common: Alopecia (79%); Cutaneous reactions (56.6%; G3/4: 5.9%); Nail changes (27.9%; severe 2.6%).
 Very rare: one case of alopecia non-reversible at the end of the study.
 73% of the cutaneous reactions were reversible within 21 days.
-
 TAXOTERE 75mg/m² single agent:
 Very common: Alopecia (38%); Cutaneous reactions (15.7%; G3/4: 0.8%).
 Common: Nail changes (9.9%; severe 0.8%).
@@ -139,7 +138,6 @@ TAXOTERE 100mg/m² in combination with trastuzumab:
 Very common: Oedema peripheral (40%), Lymphoedema (11%).
 
 TAXOTERE 75mg/m² in combination with prednisone or prednisolone: very common (24.4%; severe 0.6%)
-
 TAXOTERE 75mg/m² in combination with doxorubicin and cyclophosphamide:
 Very common: Peripheral edema (26.7%; G3/4: 0.4%)
 Uncommon: Lymphedema (0.3%; G3/4: 0%)
@@ -183,7 +181,7 @@ Uncommon: colitis/enteritis/large intestine perforation (0.5%).
 Two patients required treatment discontinuation; no deaths due to these events occurred.
 
 Rare occurrences of dehydration as a consequence of gastrointestinal events, gastrointestinal perforation, ischemic colitis, colitis and neutropenic enterocolitis have been reported.
-Very rare cases of ileus and intestinal obstruction have been reported.
+Rare cases of ileus and intestinal obstruction have been reported.
 Nervous system disorders
 
 The development of severe peripheral neurotoxicity requires a reduction of dose (see sections 4.2 and 4.4).
@@ -234,7 +232,6 @@ Uncommon: Heart failure (0.5%).
 
 TAXOTERE 75mg/m² single agent:
 Common: Cardiac dysrhythmia (2.5%, no severe); Hypotension (1.7%).
-
 TAXOTERE 75mg/m² in combination with doxorubicin:
 Common: Heart failure (2.3%); Cardiac dysrhythmia (1.2%; no severe).
 Uncommon: Hypotension (0.4%).
@@ -287,7 +284,7 @@ Uncommon: G3/4 AST increase (0.5%); G3/4 alkaline phosphatase increase (0.3%).
 TAXOTERE 75mg/m² in combination with capecitabine:
 Common: Hyperbilirubinemia (G3/4: 9%)
 
-Very rare cases of hepatitis have been reported.
+Very rare cases of hepatitis, sometimes fatal primarily in patients with pre-existing liver disorders, have been reported.
 Metabolism and nutrition disorders
 
 TAXOTERE 100mg/m² single agent: Very common: Anorexia (16.8%).
@@ -430,3 +427,5 @@ TAXOTERE 100mg/m² in combination with trastuzumab: Very common: Nail toxicity (
 - 1312 and 121 patients who received 100 mg/m² and 75 mg/m² of TAXOTERE as a single agent respectively,.
 
 Very common: Nausea (43%); Diarrhoea (43%); Vomiting (29%); Constipation (27%); Stomatitis (20%); Dyspepsia (14%); Abdominal pain (12%).
+
+Very rare cases of hepatitis, sometimes fatal primarily in patients with pre-existing liver disorders,have been reported.

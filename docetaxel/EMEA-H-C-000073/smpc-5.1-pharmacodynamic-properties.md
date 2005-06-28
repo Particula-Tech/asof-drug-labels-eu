@@ -43,10 +43,10 @@ TAC-treated patient subsets according to prospectively defined major prognostic 
 The beneficial effect of TAC was not proven in patients with 4 and more positive nodes (37% of the population) at the interim analysis stage.
 The effect appears to be less pronounced than in patients with 1-3 positive nodes.
 The benefit/risk ratio was not defined fully in patients with 4 and more positive nodes at this analysis stage.
-
 TAXOTERE as single agent
 
-Two randomised phase III comparative studies, involving a total of 326 alkylating or 392 anthracycline failure metastatic breast cancer patients, have been performed with docetaxel at the recommended dose and regimen of 100 mg/m² every 3 weeks.
+Two randomised phase III comparative studies, involving a total of 326 alkylating or
+392 anthracycline failure metastatic breast cancer patients, have been performed with docetaxel at the recommended dose and regimen of 100 mg/m² every 3 weeks.
 
 In alkylating-failure patients, docetaxel was compared to doxorubicin (75 mg/m² every 3 weeks).
 Without affecting overall survival time (docetaxel 15 months vs. doxorubicin 14 months, p=0.38) or time to progression (docetaxel 27 weeks vs. doxorubicin 23 weeks, p=0.54), docetaxel increased response rate (52% vs. 37%, p=0.01) and shortened time to response (12 weeks vs. 23 weeks, p=0.007).
@@ -82,7 +82,6 @@ In this trial, AT arm showed a higher incidence of severe neutropenia (90% versu
 On the other hand, AC arm showed a higher incidence of severe anemia (15.8% versus 8.5%) than AT arm, and, in addition, a higher incidence of severe cardiac toxicity: congestive heart failure (3.8% versus 2.8%), absolute LVEF decrease ≥ 20% (13.1 % versus 6.1%), absolute LVEF decrease ≥ 30% (6.2% versus 1.1%).
 Toxic deaths occurred in 1 patient in the AT arm (congestive heart failure) and in 4 patients in the AC arm (1 due to septic shock and 3 due to congestive heart failure).
 In both arms, quality of life measured by the EORTC questionnaire was comparable and stable during treatment and follow-up.
-
 TAXOTERE in combination with trastuzumab
 
 TAXOTERE in combination with trastuzumab was studied for the treatment of patients with metastatic breast cancer whose tumors overexpress HER2, and who previously had not received chemotherapy for metastatic disease.
@@ -123,7 +122,6 @@ In a phase III study, in previously treated patients, time to progression (12.3 
 The 1-year survival rate was also significantly longer in docetaxel (40%) versus BSC (16%).
 There was less use of morphinic analgesic (p<0.01), non-morphinic analgesics (p<0.01), other disease-related medications (p=0.06) and radiotherapy (p<0.01) in patients treated with docetaxel at 75 mg/m² compared to those with BSC.
 The overall response rate was 6.8% in the evaluable patients, and the median duration of response was 26.1 weeks.
-
 Taxotere in combination with platinum agents in chemotherapy-naïve patients
 
 In a Phase III trial, 1218 patients with unresectable stage IIIB or IV NSCLC, with KPS of 70% or greater, and who did not receive previous chemotherapy for this condition, were randomised to either Taxotere (T) 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin (Cis) 75 mg/ m2 over 30-60 minutes every 3 weeks, Taxotere 75 mg/ m2 as a 1 hour infusion in combination with carboplatin (AUC 6 mg/ml•min) over 30-60 minutes every 3 weeks, or vinorelbine (V) 25 mg/ m2 administered over 6-10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/ m2 administered on day 1 of cycles repeated every 4 weeks.
@@ -142,6 +140,7 @@ Secondary end-points included change of pain, global rating of quality of life b
 Results on these end-points were supportive of the primary end-points results.
 
 For Taxotere/Carboplatin combination, neither equivalent nor non-inferior efficacy could be proven compared to the reference treatment combination VCis.
+
 Prostate Cancer
 
 The safety and efficacy of TAXOTERE in combination with prednisone or prednisolone in patients
@@ -161,7 +160,9 @@ Patients who received docetaxel every three weeks demonstrated significantly lon
 The increase in survival seen in the docetaxel weekly arm was not statistically significant compared to the mitoxantrone control arm.
 Efficacy endpoints for the TAXOTERE arms versus the control arm are summarized in the following table:
 
-| Endpoint | TAXOTERE every 3 weeks | TAXOTERE every week | Mitoxantrone every 3 weeks |
+Endpoint TAXOTERE TAXOTERE Mitoxantrone
+
+|  | every 3 weeks | every week | every 3 weeks |
 | --- | --- | --- | --- |
 | Number of patients Median survival (months) 95% CI Hazard ratio 95% CI p-value†* | 335 18.9 (17.0-21.2) 0.761 (0.619-0.936) 0.0094 | 334 17.4 (15.7-19.0) 0.912 (0.747-1.113) 0.3624 | 337 16.5 (14.4-18.6) -- -- -- |
 | Number of patients PSA** response rate (%) 95% CI p-value* | 291 45.4 (39.5-51.3) 0.0005 | 282 47.9 (41.9-53.9) <0.0001 | 300 31.7 (26.4-37.3) -- |
@@ -178,8 +179,12 @@ No statistical differences were observed between treatment groups for Global Qua
 
 [TAXOTERE 80 mg concentrate and solvent for solution for infusion]
 
-Two randomised phase III comparative studies, involving a total of 326 alkylating or
-392 anthracycline failure metastatic breast cancer patients, have been performed with docetaxel at the recommended dose and regimen of 100 mg/m² every 3 weeks.
-
   The median TTP was 37.3 weeks (95%CI :33.4 - 42.1) in AT arm and 31.9 weeks (95%CI : 27.4 - 36.0) in AC arm.
   The ORR was 59.3% (95%CI : 52.8 - 65.9) in AT arm versus 46.5% (95%CI : 39.8 - 53.2) in AC arm.
+
+| Endpoint | TAXOTERE every 3 weeks | TAXOTERE every week | Mitoxantrone every 3 weeks |
+| --- | --- | --- | --- |
+| Number of patients Median survival (months) 95% CI Hazard ratio 95% CI p-value†* | 335 18.9 (17.0-21.2) 0.761 (0.619-0.936) 0.0094 | 334 17.4 (15.7-19.0) 0.912 (0.747-1.113) 0.3624 | 337 16.5 (14.4-18.6) -- -- -- |
+| Number of patients PSA** response rate (%) 95% CI p-value* | 291 45.4 (39.5-51.3) 0.0005 | 282 47.9 (41.9-53.9) <0.0001 | 300 31.7 (26.4-37.3) -- |
+| Number of patients Pain response rate (%) 95% CI p-value* | 153 34.6 (27.1-42.7) 0.0107 | 154 31.2 (24.0-39.1) 0.0798 | 157 21.7 (15.5-28.9) -- |
+| Number of patients Tumor response rate (%) 95% CI p-value* | 141 12.1 (7.2-18.6) 0.1112 | 134 8.2 (4.2-14.2) 0.5853 | 137 6.6 (3.0-12.1) -- |
