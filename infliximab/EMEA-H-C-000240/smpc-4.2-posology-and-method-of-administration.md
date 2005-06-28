@@ -42,11 +42,11 @@ If a patient does not respond by 6 weeks (i.e. after 2 doses), no additional tre
 Psoriatic arthritis
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 Efficacy and safety have been demonstrated in combination with methotrexate.
+
 Readministration for Crohn’s disease and rheumatoid arthritis
 If the signs and symptoms of disease recur, Remicade can be readministered within 16 weeks following the last infusion.
-Readministration of Remicade with a drug free interval of 2 to 4 years following a previous infusion has been associated with a delayed hypersensitivity reaction in a significant number of patients with Crohn’s disease (see section 4.4, and section 4.8: “Delayed hypersensitivity”).
-After a drug free interval of > 16 weeks to 2 years, the risk of delayed hypersensitivity following readministration is not known.
-Therefore, readministration after a drug free interval of more than 16 weeks can not be recommended.
+In clinical studies, delayed hypersensitivity reactions have been uncommon and have occurred after drug free intervals of less than 1 year (see section 4.4 and 4.8: delayed hypersensitivity).
+The safety and efficacy of readministration after a drug free interval of more than 16 weeks has not been established.
 This applies to both Crohn’s disease patients and rheumatoid arthritis patients.
 
 Readministration for ankylosing spondylitis

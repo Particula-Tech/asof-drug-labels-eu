@@ -16,9 +16,9 @@ The effect of concomitant immunomodulator therapy was more profound in episodica
 Patients who discontinue immunosuppressants prior to or during Remicade treatment are at greater risk of developing these antibodies.
 Antibodies to infliximab can not always be detected in serum samples.
 If serious reactions occur, symptomatic treatment must be given and further Remicade infusions must not be administered (see section 4.8: "Immunogenicity").
-A delayed hypersensitivity reaction has been observed in a significant number of patients with Crohn’s disease (25%) who were retreated with infliximab following a 2 to 4 year period without infliximab treatment.
-Signs and symptoms included myalgia and/or arthralgia with fever and/or rash within 12 days following retreatment.
-Some patients also experienced pruritus, facial, hand or lip oedema, dysphagia, urticaria, sore throat and/or headache.
+
+In clinical trials, delayed hypersensitivity reactions have been reported.
+Available data suggest an increased risk for delayed hypersensitivity with increasing drug free interval.
 Advise patients to seek immediate medical advice if they experience any delayed adverse event (see section 4.8: “Delayed hypersensitivity”).
 If patients are retreated after a prolonged period, they must be closely monitored for signs and symptoms of delayed hypersensitivity.
 
@@ -48,6 +48,15 @@ In this situation, the benefit/ risk balance of Remicade therapy should be very 
 Patients with fistulising Crohn’s disease with acute suppurative fistulas must not initiate Remicade therapy until a source for possible infection, specifically abscess, has been excluded (see section 4.3).
 
 All patients should be informed to seek medical advice if signs/symptoms suggestive of tuberculosis (e.g. persistent cough, wasting/weight loss, low-grade fever) appear during or after Remicade treatment.
+
+Reactivation of hepatitis B occurred in patients receiving Remicade who are chronic carriers of this virus (i.e. surface antigen positive).
+Chronic carriers of hepatitis B should be appropriately evaluated and monitored prior to the initiation of and during treatment with Remicade.
+
+Hepatobiliary events
+Very rare cases of jaundice and non-infectious hepatitis, some with features of autoimmune hepatitis, have been observed in the post-marketing experience of Remicade.
+Isolated cases of liver failure resulting in liver transplantation or death have occurred.
+Patients with symptoms or signs of liver dysfunction should be evaluated for evidence of liver injury.
+If jaundice and/or ALT elevations ≥ 5 times the upper limit of normal develop(s), Remicade should be discontinued, and a thorough investigation of the abnormality should be undertaken.
 
 Concurrent administration of TNF-alpha inhibitor and anakinra
 Serious infections were seen in clinical studies with concurrent use of anakinra and another TNFα-blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
@@ -93,5 +102,4 @@ The long half-life of infliximab should be taken into consideration if a surgica
 A patient who requires surgery while on Remicade should be closely monitored for infections, and appropriate actions should be taken.
 
 There is limited safety experience of Remicade treatment in patients who have undergone arthroplasty.
-
 Treatment of patients with intestinal strictures due to Crohn’s disease is not recommended since the risk/benefit relationship in this patient population has not been established.

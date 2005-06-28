@@ -31,7 +31,6 @@ A reduction in signs and symptoms was defined to be at least a 20% improvement (
 ACR-N uses the same criteria as the ACR20, calculated by taking the lowest percent improvement in swollen joint count, tender joint count, and the median of the remaining 5 components of the ACR response.
 Structural joint damage (erosions and joint space narrowing) in both hands and feet was measured by the change from baseline in the total van der Heijde-modified Sharp score (0-440).
 The Health Assessment Questionnaire (HAQ; scale 0-3) was used to measure patients’ average change from baseline scores over time, in physical function.
-
 The ATTRACT trial evaluated responses at 30, 54 and 102 weeks in a placebo-controlled study of 428 patients with active rheumatoid arthritis despite treatment with methotrexate.
 Approximately 50% of patients were in functional Class III.
 Patients received placebo, 3 mg/kg or 10 mg/kg infliximab at weeks 0, 2 and 6, and then every 4 or 8 weeks thereafter.
@@ -81,7 +80,6 @@ All patients received methotrexate (optimised to 20 mg/wk by week 8) and either 
 Results from week 54 are shown in Table 4.
 
 After 54 weeks of treatment, both doses of infliximab + methotrexate resulted in statistically significantly greater improvement in signs and symptoms compared to methotrexate alone as measured by the proportion of patients achieving ACR20, 50 and 70 responses.
-
 In ASPIRE, more than 90% of patients had at least two evaluable x-rays.
 Reduction in the rate of progression of structural damage was observed at weeks 30 and 54 in the infliximab + methotrexate groups compared to methotrexate alone.
 
@@ -162,7 +160,6 @@ Physical function and quality of life (SF36) were improved similarly.
 In the trial, efficacy was not shown in HLA-B27 negative patients (n=7).
 
 Psoriatic Arthritis
-
 Efficacy and safety were studied in a double-blind, placebo-controlled, multicenter study evaluating infliximab in 104 patients with active polyarticular psoriatic arthritis.
 In total 74 subjects were on at least one concomitant DMARD, and among those 58 patients were treated with methotrexate.
 During the 16-week double-blind phase, patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6, and 14 (52 patients in each group).
