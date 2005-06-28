@@ -67,9 +67,9 @@ The efficacy results from the monotherapy and combination therapy studies are su
 |  | Herceptin1 | Herceptin plus | Paclitaxel2 | Herceptin plus | Docetaxel3 |
 |  | N=172 | paclitaxel2 N=68 | N=77 | docetaxel3 N=92 | N=94 |
 | Response rate (95%CI) | 18% (13 - 25) | 49% (36 - 61) | 17% (9 - 27) | 61% (50-71) | 34% (25-45) |
-| Median duration of response (months) (95%CI) | 9.1 (5.6-10.3) | 8.3 (7.3-8.8) | 4.6 (3.7-7.4) | 11.4 (9.2 – 15.0) | 5.1 (4.4-6.2) |
-| Median TTP (months) (95%CI) | 3.2 (2.6-3.5) | 7.1 (6.2-12.0) | 3.0 (2.0-4.4) | 10.6 (7.6-12.9) | 5.7 (5.0-6.5) |
-| Median Survival (months) (95%CI) | 16.4 (12.3-ne) | 24.8 (18.6-33.7) | 17.9 (11.2-23.8) | 30.54 (26.8-ne) | 22.14 (17.6-28.9) |
+| Median duration of response (months) (95%CI) | 9.1 (5.6-10.3) | 8.3 (7.3-8.8) | 4.6 (3.7-7.4) | 11.7 (9.3 – 15.0) | 5.7 (4.6-7.6) |
+| Median TTP (months) (95%CI) | 3.2 (2.6-3.5) | 7.1 (6.2-12.0) | 3.0 (2.0-4.4) | 11.7 (9.2-13.5) | 6.1 (5.4-7.2) |
+| Median Survival (months) (95%CI) | 16.4 (12.3-ne) | 24.8 (18.6-33.7) | 17.9 (11.2-23.8) | 31.2 (27.3-40.8) | 22.74 (19.1-30.8) |
 
 TTP = time to progression; "ne" indicates that it could not be estimated or it was not yet reached.
 1.
@@ -78,8 +78,6 @@ Study H0649g: IHC3+ patient subset
 Study H0648g: IHC3+ patient subset
 3.
 Study M77001: Full analysis set (intent-to-treat)
-4.
-Estimated median survival
 
 Immunogenicity
 Nine hundred and three patients treated with Herceptin, alone or in combination with chemotherapy, have been evaluated for antibody production.
