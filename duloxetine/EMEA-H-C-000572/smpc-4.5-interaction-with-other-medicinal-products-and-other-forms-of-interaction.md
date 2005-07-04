@@ -2,6 +2,7 @@
 
 CNS medicinal products: the risk of using duloxetine in combination with other CNS-active medicinal products has not been systematically evaluated, except in the cases described in this section.
 Consequently, caution is advised when CYMBALTA is taken in combination with other centrally acting medicinal products and substances including alcohol and sedative medicinal products (e.g. benzodiazepines, morphinomimetics, antipsychotics, phenobarbital, sedative antihistamines).
+
 Monoamine Oxidase Inhibitors (MAOIs): due to the risk of serotonin syndrome, CYMBALTA should not be used in combination with nonselective irreversible monoamine oxidase inhibitors (MAOIs), or within at least 14 days of discontinuing treatment with an MAOI.
 Based on the half-life of duloxetine, at least 5 days should be allowed after stopping CYMBALTA before starting an MAOI (see section 4.3).
 
@@ -20,7 +21,6 @@ Caution is advised if CYMBALTA is co-administered with medicinal products that a
 
 Oral contraceptives and other steroidal agents: results of in vitro studies demonstrate that duloxetine does not induce the catalytic activity of CYP3A.
 Specific in vivo drug interaction studies have not been performed.
-
 Effects of other drugs on duloxetine
 Antacids and H2 antagonists: co-administration of duloxetine with aluminium- and magnesium-containing antacids or duloxetine with famotidine had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
 
