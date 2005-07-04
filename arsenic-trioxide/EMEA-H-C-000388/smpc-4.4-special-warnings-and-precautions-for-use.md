@@ -8,6 +8,8 @@ The management of the syndrome has not been fully studied, but high-dose steroid
 At the first signs that could suggest the syndrome (unexplained fever, dyspnoea and/or weight gain, abnormal chest auscultatory findings or radiographic abnormalities), high-dose steroids (dexamethasone 10 mg intravenously twice a day) must be immediately initiated, irrespective of the leukocyte count and continued for at least 3 days or longer until signs and symptoms have abated.
 The majority of patients do not require termination of TRISENOX therapy during treatment of the APL differentiation syndrome.
 It is recommended that chemotherapy not be added to treatment with steroids since there is no experience with administration of both steroids and chemotherapy during treatment of the leukocyte activation syndrome due to TRISENOX.
+Post-marketing experience suggests that a similar syndrome may occur in patients with other types of malignancy.
+Monitoring and management for these patients should be as described above .
 
 Electrocardiogram (ECG) Abnormalities: Arsenic trioxide can cause QT interval prolongation and complete atrioventricular block.
 QT prolongation can lead to a torsade de pointes-type ventricular arrhythmia, which can be fatal.

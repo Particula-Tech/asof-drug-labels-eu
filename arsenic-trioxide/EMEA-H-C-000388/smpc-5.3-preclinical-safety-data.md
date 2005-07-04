@@ -4,4 +4,4 @@ Limited reproductive toxicity studies of arsenic trioxide in animals indicate em
 Fertility studies have not been conducted with TRISENOX.
 Arsenic compounds induce chromosomal aberrations and morphological transformations of mammalian cells in vitro and in vivo.
 No formal carcinogenicity studies of arsenic trioxide have been performed.
-However, arsenic trioxide and other inorganic arsenic compounds are recognised as a human carcinogens.
+However, arsenic trioxide and other inorganic arsenic compounds are recognised as human carcinogens.

@@ -11,6 +11,8 @@ With daily dosing, plasma concentrations appeared to achieve steady-state levels
 Metabolism: Arsenic is stored mainly in liver, kidney, heart, lung, hair and nails.
 Trivalent forms of arsenic are methylated in humans and mostly excreted in urine.
 In APL patients, daily administration of 0.15 mg/kg/day of arsenic trioxide resulted in an approximate fourfold increase in the urinary excretion of arsenic after 2 to 4 weeks of continuous dosing, when compared to baseline values.
+In vitro enzymatic studies with human liver microsomes revealed that arsenic trioxide has no inhibitory activity on substrates of the major cytochrome P450 enzymes such as 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1,3A4/5, 4A9/11.
+Drugs that are substrates for these P450 enzymes are not expected to interact with TRISENOX.
 
 Excretion: Studies with radiolabelled arsenic trioxide have demonstrated that after oral administration of 0.06 ng arsenic, approximately 60% of the radioactivity was recovered in the urine within 8 days.
 The mean plasma elimination t1/2 value in patients receiving TRISENOX was 92 hours.

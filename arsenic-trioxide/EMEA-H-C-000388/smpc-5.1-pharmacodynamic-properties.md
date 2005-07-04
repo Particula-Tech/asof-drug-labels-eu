@@ -18,7 +18,6 @@ Patients in the single centre study had relapsed following 1-6 prior therapy reg
 Patients in the multicentre study had relapsed following 1-4 prior therapy regimens and 5 patients had relapsed following stem cell transplantation.
 The median age in the single centre study was 33 years (age range 9 to 75).
 The median age in the multicentre study was 40 years (age range 5 to 73).
-
 The results are summarised in the table below.
 
 Single Centre Trial Multicentre Trial

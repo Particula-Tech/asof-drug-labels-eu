@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-Adverse events occurred in 37% of patients in clinical trials.
+Related adverse events of CTC grade 3 and 4 occurred in 37% of patients in clinical trials.
 The most commonly reported reactions were hyperglycaemia, hypokalaemia, neutropenia, and increased alanine amino transferase (ALT).
 Leukocytosis occurred in 50% of patients with APL, as determined by haematology assessments, rather than adverse event reports.
 
@@ -11,7 +11,7 @@ In general, treatment-emergent adverse events tended to decrease over time, perh
 Patients tended to tolerate consolidation and maintenance treatment with less toxicity than in induction.
 This is probably due to the confounding of adverse events by the uncontrolled disease process early on in the treatment course and the myriad concomitant medicinal products required to control symptoms and morbidity.
 
-The table below lists the adverse drug reactions for the 107 patients treated with TRISENOX in clinical trials.
+The table below lists the related grade 3 and 4 adverse drug reactions for the 107 patients treated with TRISENOX in clinical trials.
 
 | System Organ Class | Common* | Uncommon** |
 | --- | --- | --- |
@@ -21,15 +21,14 @@ The table below lists the adverse drug reactions for the 107 patients treated wi
 | Cardiac disorders |  | Pericardial effusion Tachycardia |
 | Vascular disorders |  | Vasculitis |
 | Respiratory, thoracic and mediastinal disorders | Dyspnoea Pleuritic pain | Hypoxia Pleural effusion Pulmonary alveolar haemorrhage |
-| Gastrointestinal disorders |  | Abdominal pain upper Diarrhoea |
+| Gastrointestinal disorders |  | Diarrhoea |
 | Skin & subcutaneous tissue disorders |  | Erythema Pruritus |
-| Musculoskeletal, connective tissue and bone disorders | Arthralgia Bone pain | Back pain Bone pain aggravated Myalgia Pain in limb |
-| General disorders and administration site conditions | Fatigue Pyrexia | Chest pain Fatigue aggravated Pain |
-| Investigations | ALT increased Aspartate amino transferase increased ECG QT prolonged | Biopsy bone marrow abnormal Blood bilirubin increased Blood magnesium decreased |
+| Musculoskeletal, connective tissue and bone disorders | Arthralgia Bone pain | Myalgia |
+| General disorders and administration site conditions | Fatigue Pyrexia | Chest pain Pain |
+| Investigations | ALT increased Aspartate amino transferase increased ECG QT prolonged | Hyperbilirubinaemia Hypomagnesaemia |
 
 *Common >1/100 and <1/10
 **Uncommon >1/1,000 and <1/100
-
 During TRISENOX treatment, 13 of the 52 patients in the APL studies had one or more symptoms of APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leukocytosis (see Section 4.4).
 Twenty-seven patients had leukocytosis (WBC ≥ 10 x 103/µl) during induction, 4 of whom had values above 100,000/µl.
 Baseline white blood cell (WBC) counts did not correlate with development of leukocytosis on study, and WBC counts during consolidation therapy were not as high as during induction.
@@ -37,6 +36,7 @@ In these studies, leukocytosis was not treated with chemotherapeutic medicinal p
 Medicinal products that are used to lower the white blood cell count often exacerbate the toxicities associated with leukocytosis, and no standard approach has proven effective.
 One patient treated under a compassionate use program died from cerebral infarct due to leukocytosis, following treatment with chemotherapeutic medicinal products to lower WBC count.
 Observation is the recommended approach with intervention only in selected cases.
+
 Mortality in the pivotal studies from disseminated intravascular coagulation (DIC) associated haemorrhage was very common (> 10%), which is consistent with the early mortality reported in the literature.
 
 Arsenic trioxide can cause QT interval prolongation (see Section 4.4).
@@ -48,3 +48,24 @@ She went onto consolidation without further evidence of QT prolongation.
 Peripheral neuropathy, characterised by paresthesia/dysesthesia, is a common and well known effect of environmental arsenic.
 Only 2 patients discontinued treatment early due to this adverse event and one went on to receive additional TRISENOX on a subsequent protocol.
 Forty-four percent of patients experienced symptoms that could be associated with neuropathy; most were mild to moderate and were reversible upon cessation of treatment with TRISENOX.
+
+The following adverse events have been identified during the post-approval use of Trisenox and have been included following consideration of the observed frequency, seriousness and possible causal relationship to Trisenox.
+All occurred with a frequency of Uncommon (>1/1,000 and <1/100).
+
+| System Organ Class | Uncommon |
+| --- | --- |
+| Infection and Infestations | Herpes zoster Pneumonia Sepsis |
+| Blood and Lymphatics System Disorders | Anaemia |
+| Metabolism and Nutrition Disorders | Dehydration Fluid retention |
+| Psychiatric Disorders | Confusional state |
+| Nervous System Disorders | Convulsions Dizziness |
+| Eye Disorders | Vision blurred |
+| Cardiac Disorders | Cardiac failure |
+|  | Ventricular extrasystoles Ventricular tachycardia |
+| Vascular Disorders | Hypotension |
+| Respiratory, Thoracic and Mediastinal Disorders | Pneumonitis |
+| Gastrointestinal Disorders | Abdominal pain Vomiting |
+| Skin and Subcutaneous Disorders | Face oedema Rash |
+| Renal and Urinary Disorders | Renal failure |
+| General Disorders and Administration Site Conditions | Chills Oedema |
+| Investigations | Blood creatinine increased Weight increased |
