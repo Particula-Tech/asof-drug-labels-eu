@@ -6,7 +6,6 @@ Absorption continues for over one month and monthly administration results in an
 Steady-state levels are reached after about 6 doses during monthly injections with the major part of the accumulation achieved after 3-4 doses.
 The terminal half-life is governed by the absorption rate and was estimated to be 50 days.
 At steady state, fulvestrant plasma concentrations are maintained within a relatively narrow range with approximately 2- to 3-fold difference between maximum and trough concentrations.
-
 After intramuscular administration, the exposure is approximately dose proportional in the dose range 50 to 250 mg.
 
 Distribution:
@@ -21,6 +20,7 @@ Metabolism:
 The metabolism of fulvestrant has not been fully evaluated, but involves combinations of a number of possible biotransformation pathways analogous to those of endogenous steroids (includes 17-ketone, sulphone, 3-sulphate, 3- and 17-glucuronide metabolites).
 Identified metabolites are either less active or exhibit similar activity to fulvestrant in anti-oestrogen models.
 Studies using human liver preparations and recombinant human enzymes indicate that CYP 3A4 is the only P450 isoenzyme involved in the oxidation of fulvestrant, however non-P450 routes appear to be more predominant in vivo.
+In vitro data suggest that fulvestrant does not inhibit CYP450 isoenzymes.
 
 Elimination:
 Fulvestrant is eliminated mainly by metabolism.

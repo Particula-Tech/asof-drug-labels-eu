@@ -13,13 +13,13 @@ Immediately activate needle protection device upon withdrawal of the needle from
 
 Visually confirm that the lever arm has fully advanced and the needle tip is covered.
 If unable to activate the safety needle, discard immediately into an approved sharps collector.
-
 SafetyGlide Information from Becton Dickinson
 
 WARNING: - Do not autoclave safety needle before use.
 Hands must remain behind the needle at all times during use and disposal.
 
 Directions for Use of safety needle
+
 Peel apart packaging of the safety needle, break the seal of the white plastic cover on the syringe Luer connector and attach the safety needle to the Luer Lock of the syringe by twisting.
 
 Transport filled syringe to point of administration.

@@ -7,6 +7,7 @@ Fulvestrant blocks the trophic actions of oestrogens without itself having any p
 The mode of action is associated with down-regulation of oestrogen receptor (ER) protein.
 Clinical trials in postmenopausal women with primary breast cancer have shown that fulvestrant significantly down-regulates ER protein in ER positive tumours compared with placebo.
 There was also a significant decrease in progesterone receptor expression consistent with a lack of intrinsic oestrogen agonist effects.
+
 Effects on advanced breast cancer
 Two Phase III clinical trials were completed in a total of 851 postmenopausal women with advanced breast cancer who had disease recurrence on or after adjuvant endocrine therapy or progression following endocrine therapy for advanced disease.
 77% of the study population had oestrogen receptor positive breast cancer.

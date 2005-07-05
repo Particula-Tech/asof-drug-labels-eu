@@ -5,12 +5,11 @@ However, only 0.9% of patients stopped therapy because of an adverse reaction.
 The most commonly reported adverse reactions are hot flushes, nausea, and injection site reactions.
 The adverse reactions are summarised as follows:
 
-Body System/ Very Common Uncommon >1/1000,
-Frequency (>1/10) Common (>1/100, <1/10) <1/100
-
-| Cardiovascular | • Hot flushes |  |  |
+| Body System/ Frequency | Very Common (>1/10) | Common (>1/100, <1/10) | Uncommon >1/1000, <1/100 |
 | --- | --- | --- | --- |
+| Cardiovascular | • Hot flushes |  |  |
 | Gastrointestinal |  | • Gastrointestinal disturbance including nausea, vomiting, diarrhoea and anorexia. |  |
+| Hepatobiliary disorders |  | • Elevated liver enzymes, the vast majority <2xULN |  |
 | Reproductive and breast |  |  | • Vaginal haemorrhage • Vaginal moniliasis • Leukorrhea |
 | Skin |  | • Rash | • Hypersensitivity reactions, including angioedema and urticaria |
 | Urogenital |  | • Urinary tract infections |  |
