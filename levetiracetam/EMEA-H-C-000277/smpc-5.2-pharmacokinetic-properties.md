@@ -37,7 +37,6 @@ One was obtained by hydroxylation of the pyrrolidone ring (1.6 % of the dose) an
 Other unidentified components accounted only for 0.6 % of the dose.
 
 No enantiomeric interconversion was evidenced in vivo for either levetiracetam nor its primary metabolite.
-
 In vitro, levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C8/9/10, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1*6, UGT1*1 and UGT [pl6.2]) and epoxide hydroxylase activities.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 In human hepatocytes in culture, levetiracetam did not cause enzyme induction.

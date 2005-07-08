@@ -21,7 +21,7 @@ Common: amnesia, ataxia, convulsion, dizziness, headache, tremor
 - Psychiatric disorders
 
 Common: depression, emotional lability, hostility, insomnia, nervousness
-Post-marketing experience: abnormal behaviour, aggression, anger, anxiety, confusion, hallucination, irritability, psychotic disorder
+Post-marketing experience: abnormal behaviour, aggression, anger, anxiety, confusion, hallucination, irritability, psychotic disorder, suicide, suicide attempt and suicidal ideation
 
 - Gastrointestinal disorders
 
@@ -46,6 +46,7 @@ Common: accidental injury
 - Skin and subcutaneous tissue disorders
 
 Common: rash
+Post-marketing experience: alopecia: in several cases, recovery was observed when Keppra was discontinued.
 
 - Blood and lymphatic system disorders
 

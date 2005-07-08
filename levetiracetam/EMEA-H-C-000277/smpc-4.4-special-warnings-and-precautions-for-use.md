@@ -15,7 +15,7 @@ In patients with severely impaired hepatic function, assessment of renal functio
 
 [Keppra 750 mg film-coated tablets.]
 
-(all sentences already above)
+Keppra 750 mg film-coated tablets contain E110 colouring agent (see section 4.8).
 
 [Keppra 1000 mg film-coated tablets.]
 
@@ -23,5 +23,5 @@ In patients with severely impaired hepatic function, assessment of renal functio
 
 [Keppra 100 mg/ml oral solution.]
 
-Amongst its excipients, Keppra includes glycerol which can cause headache, stomach upset and diarrhoea and maltitol which may have a mild laxative effect.
-Patients with rare hereditary problems of fructose intolerance should not take this medicine.
+Keppra 100mg/ml oral solution includes glycerol which may cause headache, stomach upset and diarrhoea.
+It also includes maltitol; patients with rare hereditary problems of fructose intolerance should not take this medicine.
