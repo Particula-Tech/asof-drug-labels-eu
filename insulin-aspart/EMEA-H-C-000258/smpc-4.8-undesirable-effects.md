@@ -8,7 +8,7 @@ Severe hypoglycaemia may lead to unconsciousness and/or convulsions and may resu
 In clinical trials and during marketed use the frequency varies with patient population and dose regi-mens therefore no specific frequency can be presented.
 During clinical trials the overall rates of hypoglycaemia did not differ between patients treated with insulin aspart compared to human insulin.
 Frequencies of adverse drug reactions from clinical trials, which by an overall judgement are considered related to insulin aspart are listed below.
-The frequencies are defined as: Uncommon (>1/1,000, <1/100) and rare (>1/10,000, < 1/1,000).
+The frequencies are defined as: Uncommon (> 1/1,000, < 1/100) and rare (> 1/10,000, < 1/1,000).
 Isolated spontaneous cases are presented as very rare defined as (< 1/10,000).
 
 Immune system disorders

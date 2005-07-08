@@ -7,7 +7,7 @@ When necessary NovoRapid can be given soon after the meal.
 Dosage of NovoRapid is individual and determined on the basis of the physician’s advice in accordance with the needs of the patient.
 It should normally be used in combination with intermediate-acting or long-acting insulin given at least once a day.
 
-The individual insulin requirement in adults and children is usually between 0.5 and 1.0 U/kg/day .
+The individual insulin requirement in adults and children is usually between 0.5 and 1.0 U/kg/day.
 In a meal-related treatment 50–70% of this requirement may be provided by NovoRapid and the remainder by intermediate-acting or long-acting insulin.
 
 NovoRapid is administered subcutaneously by injection in the abdominal wall, the thigh, the deltoid region or the gluteal region.
@@ -41,8 +41,6 @@ For example, in the timing of the injections in relation to meals.
 [NovoRapid Penfill 100 U/ml, solution for injection in a cartridge.]
 
 When necessary NovoRapid can be given soon after a meal.
-
-In a meal-related treatment 50–70% of this requirement may be provided by NovoRapid Penfill and the remainder by intermediate-acting or long-acting insulin.
 
 NovoRapid is administered subcutaneously in the abdominal wall, the thigh, the deltoid region or the gluteal region.
 As with all insulins the duration of action will vary according to the dose, injection site, blood flow, temperature and level of physical activity.

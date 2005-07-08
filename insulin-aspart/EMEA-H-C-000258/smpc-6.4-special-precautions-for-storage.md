@@ -9,8 +9,7 @@ Do not store above 30°C.
 
 [NovoRapid Penfill 100 U/ml, solution for injection in a cartridge.]
 
-NovoRapid Penfill in use or carried as a spare.
-Do not refrigerate.
+NovoRapid Penfill in use or carried as a spare: Do not refrigerate.
 
 [NovoRapid NovoLet 100 U/ml, solution for injection in a pre-filled pen.]
 

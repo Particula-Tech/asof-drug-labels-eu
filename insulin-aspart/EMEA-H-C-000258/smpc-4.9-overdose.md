@@ -12,8 +12,6 @@ A specific overdose for insulin cannot be defined however hypoglycaemia may deve
 
 A specific overdose for insulin cannot be defined however hypoglycaemia may develop over sequential stages if too high doses relative to the patient’s requirement are administered:
 
-  Glucose must also be given intravenously if the patient does not respond to glucagon within 10 to 15 minutes.Upon regaining consciousness, administration of oral carbohydrate is recommended for the patient in order to prevent relapse.
-
 [NovoRapid NovoLet 100 U/ml, solution for injection in a pre-filled pen.]
 
 (all sentences already above)
