@@ -11,6 +11,7 @@ PVC/Aluminium blisters containing 14, 21, 56 or 84 hard capsules.
 [LYRICA 75 mg hard capsules]
 
 PVC/Aluminium blisters containing 14, 56 or 112 (2 x 56) hard capsules.
+HDPE bottle containing 200 hard capsules.
 
 [LYRICA 100 mg hard capsules.]
 
@@ -19,6 +20,7 @@ PVC/Aluminium blisters containing 21or 84 hard capsules.
 [LYRICA 150 mg hard capsules]
 
 PVC/Aluminium blisters containing 14,56 or 112 (2 x 56) hard capsules.
+PVC/Aluminium perforated unit dose blisters containing 100 x 1 hard capsules.HDPE bottle containing 200 hard capsules.
 
 [LYRICA 200 mg hard capsules]
 

@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antiepileptics, ATC code: N03A (proposed)
+Pharmacotherapeutic group: Antiepileptics, ATC code: N03AX16
 
 The active substance, pregabalin, is a gamma-aminobutyric acid analogue ((S)-3-(aminomethyl)-5-methylhexanoic acid).
 
@@ -11,9 +11,9 @@ Pregabalin binds to an auxiliary subunit (α2-δ protein) of voltage-gated calci
 Clinical experience
 
 Neuropathic pain
+
 Efficacy has been shown in studies in diabetic neuropathy and post herpetic neuralgia.
 Efficacy has not been studied in other models of neuropathic pain.
-
 Pregabalin has been studied in 9 controlled clinical studies of up to 13 weeks with twice a day dosing (BID) and up to 8 weeks with three times a day (TID) dosing.
 Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
 

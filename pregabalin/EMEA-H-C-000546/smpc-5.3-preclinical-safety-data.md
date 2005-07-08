@@ -9,6 +9,7 @@ Foetal toxicity in rats and rabbits occurred only at exposures sufficiently abov
 In prenatal/postnatal toxicity studies, pregabalin induced offspring developmental toxicity in rats at exposures >2 times the maximum recommended human exposure.
 
 Pregabalin is not genotoxic based on results of a battery of in vitro and in vivo tests.
+
 Two-year carcinogenicity studies with pregabalin were conducted in rats and mice.
 No tumours were observed in rats at exposures up to 24 times the mean human exposure at the maximum recommended clinical dose of 600 mg/day.
 In mice, no increased incidence of tumours was found at exposures similar to the mean human exposure, but an increased incidence of haemangiosarcoma was observed at higher exposures.

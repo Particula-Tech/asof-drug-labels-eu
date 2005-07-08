@@ -40,14 +40,13 @@ Pregabalin dosage adjustment based on renal function
 |  | Starting dose (mg/day) | Maximum dose (mg/day) |  |
 | ≥ 60 | 150 | 600 | BID or TID |
 | ≥30 - <60 | 75 | 300 | BID or TID |
-| ≥15 - <30 | 25 – 50 | 150 | QD or BID |
-| < 15 | 25 | 75 | QD |
+| ≥15 - <30 | 25 – 50 | 150 | Once Daily or BID |
+| < 15 | 25 | 75 | Once Daily |
 | Supplementary dosage following haemodialysis (mg) |  |  |  |
 |  | 25 | 100 | Single dose+ |
 
 TID = Three divided doses
 BID = Two divided doses
-QD = Single daily dose
 * Total daily dose (mg/day) should be divided as indicated by dose regimen to provide mg/dose
 + Supplementary dose is a single additional dose
 
