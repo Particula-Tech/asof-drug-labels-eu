@@ -35,6 +35,7 @@ The clinical activity of tenofovir disoproxil fumarate has not been determined a
 It is unknown whether treatment of patients co-infected with HIV-1 and HBV will result in the development of HBV resistance to tenofovir disoproxil fumarate or other medicinal products.
 
 Clinical efficacy: The effects of tenofovir disoproxil fumarate in treatment-experienced and treatment-naïve HIV-1 infected adults have been demonstrated in trials of 48 weeks duration in treatment-experienced HIV-1 infected adults.
+
 In study GS-99-907, 550 treatment-experienced patients were treated with placebo or tenofovir disoproxil 245 mg (as fumarate) for 24 weeks.
 The mean baseline CD4 cell count was 427 cells/mm3, the mean baseline plasma HIV-1 RNA was 3.4 log10 copies/ml (78% of patients had a viral load of
 < 5,000 copies/ml) and the mean duration of prior HIV treatment was 5.4 years.

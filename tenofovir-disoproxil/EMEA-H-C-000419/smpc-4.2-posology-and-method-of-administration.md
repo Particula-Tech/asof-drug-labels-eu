@@ -10,9 +10,9 @@ Children and adolescents: The safety and efficacy of Viread in patients under th
 Viread must not be administered to children or adolescents until further data become available describing the safety and efficacy of tenofovir disoproxil fumarate in patients under the age of 18 years.
 
 Elderly: No data are available on which to make a dose recommendation for patients over the age of 65 years (see 4.4).
+
 Renal insufficiency: Tenofovir is eliminated by renal excretion and the exposure to tenofovir increases in patients with renal dysfunction (see 5.2).
 Dosing interval adjustment is required in all patients with creatinine clearance < 50 ml/min, as detailed below.
-
 The proposed dose interval modifications are based on limited data and may not be optimal.
 The safety and efficacy of these dosing interval adjustment guidelines have not been clinically evaluated.
 Therefore, clinical response to treatment and renal function should be closely monitored in these patients (see 4.4).

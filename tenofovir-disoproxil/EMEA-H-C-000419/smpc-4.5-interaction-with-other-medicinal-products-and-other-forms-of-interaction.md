@@ -22,4 +22,5 @@ The co-administration of atazanavir with ritonavir in combination with tenofovir
 
 Other interactions
 Co-administration of tenofovir disoproxil fumarate, methadone, ribavirin, adefovir dipivoxil (see 4.4) or the hormonal contraceptive norgestimate/ethinyl oestradiol did not result in any pharmacokinetic interaction.
+
 Tenofovir disoproxil fumarate must be taken with food, as food enhances the bioavailability of tenofovir (see 5.2).

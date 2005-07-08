@@ -14,6 +14,7 @@ Rare: lactic acidosis
 
 Nervous system disorders:
 Very common: dizziness
+
 Respiratory, thoracic and mediastinal disorders:
 Very rare: dyspnoea
 
@@ -25,7 +26,6 @@ Rare: pancreatitis
 Hepatobiliary disorders:
 Rare: increased transaminases
 Very rare: hepatitis
-
 Skin and subcutaneous tissue disorders:
 Rare: rash
 
