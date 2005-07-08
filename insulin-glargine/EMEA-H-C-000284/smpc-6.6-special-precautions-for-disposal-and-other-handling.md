@@ -37,8 +37,8 @@ To prevent the possible transmission of disease, each pen must be used by one pa
 
 Handling of the pen
 The Instructions for Use included in the Package Leaflet must be read carefully before using OptiSet.
-
 Pen cap
+
 Injection
 needle cap Outer needle capInner Insulin reservoir Black plunger Dose arrow button
 Needle Coloured bar insulin scaleResidual Dosage selector
@@ -108,9 +108,9 @@ The needle should be inserted into the skin.
 The injection button should be pressed in completely.
 Then the injection button should be held down 10 seconds before withdrawing the needle.
 This ensures that the full dose of insulin has been injected.
-
 Step 6.
 Removing the needle
+
 The needle should be removed after each injection and discarded.
 This will prevent contamination as well as leakage, re-entry of air and potential needle blocks.
 Needles must not be reused.

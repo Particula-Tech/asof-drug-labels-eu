@@ -5,14 +5,12 @@ Do not freeze.
 Ensure that the container is not directly touching the freezer compartment or freezer packs.
 
 Unopened/Not in-use vials:
-Store at 2°C - 8°C (in a refrigerator).
+Store in a refrigerator (2°C-8°C).
 
 Opened/In-use vials:
 Once in use, do not store above 25°C.
 
 [Lantus 100 IU/ml solution for injection in a cartridge.]
-
-Store at 2oC - 8oC (in a refrigerator).
 
 In use conditions:
 Once in use, do not store above 25oC.
