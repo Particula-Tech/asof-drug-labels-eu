@@ -6,10 +6,10 @@
 
 (all sentences already above)
 
-[Glivec 100 mg film-coated tablets]
+[GLIVEC 100 mg film-coated tablets]
 
 11.11.2003
 
-[Glivec 400 mg film-coated tablets]
+[GLIVEC 400 mg film-coated tablets]
 
 (all sentences already above)

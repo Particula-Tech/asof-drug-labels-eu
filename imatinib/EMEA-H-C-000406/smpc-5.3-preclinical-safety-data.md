@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 The preclinical safety profile of imatinib was assessed in rats, dogs, monkeys and rabbits.
+
 Multiple dose toxicity studies revealed mild to moderate haematological changes in rats, dogs and monkeys, accompanied by bone marrow changes in rats and dogs.
 
 The liver was a target organ in rats and dogs.
@@ -9,7 +10,7 @@ No histopathological changes were seen in rat liver.
 Severe liver toxicity was observed in dogs treated for 2 weeks, with elevated liver enzymes, hepatocellular necrosis, bile duct necrosis, and bile duct hyperplasia.
 
 Renal toxicity was observed in monkeys treated for 2 weeks, with focal mineralisation and dilation of the renal tubules and tubular nephrosis.
-Increased BUN and creatinine were observed in several of these animals.
+Increased blood urea nitrogen (BUN) and creatinine were observed in several of these animals.
 In rats, hyperplasia of the transitional epithelium in the renal papilla and in the urinary bladder was observed at doses ≥ 6 mg/kg in the 13-week study, without changes in serum or urinary parameters.
 An increased rate of opportunistic infections was observed with chronic imatinib treatment.
 
@@ -46,15 +47,3 @@ The renal adenoma/carcinoma and the urinary bladder papilloma were noted at 60 m
 The no observed effect levels (NOEL) for the various target organs with neoplastic lesions were 15 mg/kg/day for preputial and clitoral gland, and 30 mg/kg/day for kidney and urinary bladder.
 
 The mechanism and relevance of these findings in the rat carcinogenicity study for humans are not yet clarified.
-
-[GLIVEC 100 mg capsules, hard]
-
-(all sentences already above)
-
-[Glivec 100 mg film-coated tablets]
-
-Increased blood urea nitrogen (BUN) and creatinine were observed in several of these animals.
-
-[Glivec 400 mg film-coated tablets]
-
-(all sentences already above)

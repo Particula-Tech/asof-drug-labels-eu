@@ -16,10 +16,10 @@ There are no controlled trials demonstrating a clinical benefit or increased sur
 
 The effect of Glivec on the outcome of bone marrrow transplantation has not been determined.
 
-[Glivec 100 mg film-coated tablets]
+[GLIVEC 100 mg film-coated tablets]
 
 (all sentences already above)
 
-[Glivec 400 mg film-coated tablets]
+[GLIVEC 400 mg film-coated tablets]
 
 (all sentences already above)

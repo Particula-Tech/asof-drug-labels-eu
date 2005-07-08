@@ -1,7 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 Pharmacokinetics of Glivec
-The pharmacokinetics of Glivec have been evaluated over a dosage range of 25 to 1000 mg.
+The pharmacokinetics of Glivec have been evaluated over a dosage range of 25 to 1,000 mg.
 Plasma pharmacokinetic profiles were analysed on day 1 and on either day 7 or day 28, by which time plasma concentrations had reached steady state.
 
 Absorption
@@ -16,6 +16,7 @@ At clinically relevant concentrations of imatinib, binding to plasma proteins wa
 Metabolism
 The main circulating metabolite in humans is the N-demethylated piperazine derivative, which shows similar in vitro potency to the parent.
 The plasma AUC for this metabolite was found to be only 16% of the AUC for imatinib.
+The plasma protein binding of the N-demethylated metabolite is similar to that of the parent compound.
 
 Imatinib and the N-demethyl metabolite together accounted for about 65% of the circulating radioactivity (AUC(0-48h)).
 The remaining circulating radioactivity consisted of a number of minor metabolites.
@@ -25,7 +26,7 @@ Of a panel of potential comedications (acetaminophen, aciclovir, allopurinol, am
 
 Imatinib was shown in vitro to be a competitive inhibitor of marker substrates for CYP2C9, CYP2D6 and CYP3A4/5.
 Ki values in human liver microsomes were 27, 7.5 and 7.9 µmol/l, respectively.
-Maximal plasma concentrations of imatinib in patients are 2 - 4 µmol/l, consequently an inhibition of CYP2D6 and/or CYP3A4/5-mediated metabolism of co-administered drugs is possible.
+Maximal plasma concentrations of imatinib in patients are 2–4 µmol/l, consequently an inhibition of CYP2D6 and/or CYP3A4/5-mediated metabolism of co-administered drugs is possible.
 Imatinib did not interfere with the biotransformation of 5-fluorouracil, but it inhibited paclitaxel metabolism as a result of competitive inhibition of CYP2C8 (Ki = 34.7 µM).
 This Ki value is far higher than the expected plasma levels of imatinib in patients, consequently no interaction is expected upon co-administration of either 5-fluorouracil or paclitaxel and imatinib.
 
@@ -35,7 +36,7 @@ Unchanged imatinib accounted for 25% of the dose (5% urine, 20% faeces), the rem
 
 Plasma pharmacokinetics
 Following oral administration in healthy volunteers, the t½ was approximately 18 h, suggesting that once-daily dosing is appropriate.
-The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25–1000 mg imatinib after oral administration.
+The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25–1,000 mg imatinib after oral administration.
 There was no change in the kinetics of imatinib on repeated dosing, and accumulation was 1.5–2.5-fold at steady state when dosed once daily.
 
 Pharmacokinetics in GIST patients
@@ -59,20 +60,16 @@ The comparison of AUC(0-24) on day 8 and day 1 at the 340 mg/m2/day dose level r
 
 Organ function impairment
 Imatinib and its metabolites are not excreted via the kidney to a significant extent.
-Exposure to imatinib may be expected to increase if liver function is impaired.
-Glivec should be used with caution in patients with hepatic impairment.
-(See sections 4.2 and 4.4)
+Although the results of pharmacokinetic analysis showed that there is considerable inter-subject variation, the mean exposure to imatinib did not increase in patients with varying degrees of liver dysfunction as compared to patients with normal liver function (see sections 4.2, 4.4 and 4.8).
 
 [GLIVEC 100 mg capsules, hard]
 
 (all sentences already above)
 
-[Glivec 100 mg film-coated tablets]
+[GLIVEC 100 mg film-coated tablets]
 
 Mean absolute bioavailability for imatinib is 98%.
 
-(See sections 4.2and 4.4)
-
-[Glivec 400 mg film-coated tablets]
+[GLIVEC 400 mg film-coated tablets]
 
 (all sentences already above)

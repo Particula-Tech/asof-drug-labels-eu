@@ -5,6 +5,7 @@ Drugs that may increase imatinib plasma concentrations:
 Substances that inhibit the cytochrome P450 isoenzyme CYP3A4 activity (e.g. ketoconazole, itraconazole, erythromycin, clarithromycin) could decrease metabolism and increase imatinib concentrations.
 There was a significant increase in exposure to imatinib (the mean Cmax and AUC of imatinib rose by 26% and 40%, respectively) in healthy subjects when it was co-administered with a single dose of ketoconazole (a CYP3A4 inhibitor).
 Caution should be taken when administering Glivec with inhibitors of the CYP3A4 family.
+
 Drugs that may decrease imatinib plasma concentrations:
 Substances that are inducers of CYP3A4 activity could increase metabolism and decrease imatinib plasma concentrations.
 Co-medications which induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
@@ -22,11 +23,15 @@ In vitro Glivec inhibits the cytochrome P450 isoenzyme CYP2D6 activity at concen
 Systemic exposure to substrates of CYP2D6 is therefore potentially increased when co-administered with Glivec.
 No specific studies have been performed however and caution is recommended.
 
+In vitro, Glivec inhibits paracetamol O-glucuronidation (Ki value of 58.5 micromol/l at therapeutic levels).
+
+Caution should therefore be exercised when using Glivec and paracetamol concomitantly, especially with high doses of paracetamol.
+
 [GLIVEC 100 mg capsules, hard]
 
 (all sentences already above)
 
-[Glivec 100 mg film-coated tablets]
+[GLIVEC 100 mg film-coated tablets]
 
 Active substances that may increase imatinib plasma concentrations:
 
@@ -34,6 +39,6 @@ Active substances that may decrease imatinib plasma concentrations:
 
 Active substances that may have their plasma concentration altered by Glivec
 
-[Glivec 400 mg film-coated tablets]
+[GLIVEC 400 mg film-coated tablets]
 
 (all sentences already above)

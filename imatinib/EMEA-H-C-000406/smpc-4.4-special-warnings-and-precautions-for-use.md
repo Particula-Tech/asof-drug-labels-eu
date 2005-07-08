@@ -8,9 +8,7 @@ Therefore, concomitant use of strong CYP3A4 inducers and imatinib should be avoi
 Glivec should be taken with food and a large glass of water to minimise the risk of gastrointestinal irritations.
 
 Metabolism of Glivec is mainly hepatic, and only 13% of excretion is through the kidneys.
-There are currently no clinical trials with Glivec in patients with impaired liver or renal function.
-Glivec should only be used in patients with severe hepatic impairment after a detailed benefit/risk assessment.
-In these cases, peripheral blood counts and liver enzymes should be carefully monitored (see sections 4.2 and 4.8).
+In patients with hepatic dysfunction (mild, moderate or severe), peripheral blood counts and liver enzymes should be carefully monitored (see sections 4.2, 4.8 and 5.2).
 It should be noted that GIST patients may have hepatic metastases which could lead to hepatic impairment.
 
 Occurrences of severe fluid retention (pleural effusion, oedema, pulmonary oedema, ascites) have been reported in approximately 1 to 2% of patients taking Glivec.
@@ -36,13 +34,13 @@ Creatinine clearance is known to decrease with age, and age did not significantl
 
 [GLIVEC 100 mg capsules, hard]
 
-In these cases, peripheral blood counts and liver enzymes should be carefully monitored.
-(see sections 4.2 and 4.8).
+In patients with hepatic dysfunction (mild, moderate or severe), peripheral blood counts and liver enzymes should be carefully monitored.
+(see sections 4.2, 4.8 and 5.2).
 
-[Glivec 100 mg film-coated tablets]
+[GLIVEC 100 mg film-coated tablets]
 
 When Glivec is co-administered with other medicinal products, there is a potential for drug interactions (see section 4.5).
 
-[Glivec 400 mg film-coated tablets]
+[GLIVEC 400 mg film-coated tablets]
 
 (all sentences already above)

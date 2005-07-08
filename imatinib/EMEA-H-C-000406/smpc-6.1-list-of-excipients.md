@@ -17,7 +17,7 @@ Soya lecithin
 
 Iron oxide, red (E172)
 
-[Glivec 100 mg film-coated tablets]
+[GLIVEC 100 mg film-coated tablets]
 
 Tablet core:
 Cellulose microcrystalline
@@ -26,6 +26,6 @@ Silica, colloidal anhydrous
 
 Tablet coat:
 
-[Glivec 400 mg film-coated tablets]
+[GLIVEC 400 mg film-coated tablets]
 
 (all sentences already above)
