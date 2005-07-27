@@ -1,10 +1,7 @@
 # 4.4 Special warnings and special precautions for use
 
-Laboratory Tests
-Complete blood counts (CBC) including platelet counts should be frequently monitored throughout treatment with VELCADE.
-
 Gastrointestinal
-Gastrointestinal toxicity, including nausea, diarrhoea, vomiting and constipation are very common with VELCADE treatment ( see section 4.8).
+Gastrointestinal toxicity, including nausea, diarrhoea, vomiting and constipation are very common with VELCADE treatment.
 Cases of ileus have been reported, therefore patients who experience constipation should be closely monitored.
 
 Haematological
@@ -17,6 +14,8 @@ In patients with advanced myeloma the severity of thrombocytopenia was related t
 Platelet counts should be monitored prior to each dose of VELCADE.
 Therapy should be held when the platelet count is <25,000/µl and re-initiated at a reduced dose after resolution (see section 4.2).
 Potential benefit of the treatment should be carefully weighed against the risks, particularly in case of moderate to severe thrombocytopenia and risk factors for bleeding.
+
+Therefore, complete blood counts (CBC) including platelet counts should be frequently monitored throughout treatment with VELCADE.
 
 Peripheral Neuropathy
 Treatment with VELCADE is very commonly associated with peripheral neuropathy, which is predominantly sensory, although cases of motor neuropathy have been reported.
@@ -50,8 +49,11 @@ Patients should be instructed to seek medical advice if they experience symptoms
 
 Heart failure
 Development or exacerbation of congestive heart failure has been reported during bortezomib treatment.
-In phase III randomized, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
+In a phase III randomized, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
 Fluid retention may be a predisposing factor for signs and symptoms of heart failure.
+
+ECG Investigations
+There have been isolated cases of QT-interval prolongation in clinical studies, causality has not been established.
 
 Renal Impairment
 The incidence of serious undesirable effects has been shown to increase in patients with mild to moderate renal impairment compared to patients with normal renal function (see section 4.8).
@@ -66,12 +68,15 @@ Because bortezomib is a cytotoxic agent and can rapidly kill malignant plasma ce
 The patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
 These patients should be monitored closely and appropriate precautions taken.
 
-Amyloidosis.
+Amyloidosis
 The impact of proteasome inhibition by bortezomib on disorders associated with protein accumulation such as amyloidosis is unknown.
 Caution is advised in these patients.
 
 Precautions with certain concomitant medicinal products
-Patients should be monitored closely when given bortezomib in combination with potent CYP3A4- inhibitors (e.g. ketoconazole, ritonavir), CYP2C19-inhibitors (fluoxetine) or CYP3A4-inducers (e.g. rifampicin).
-Caution should be exercised when bortezomib is combined with CYP3A4- or CYP2C19 substrates.
-
+Patients should be monitored closely when given bortezomib in combination with potent CYP3A4- inhibitors.
+Caution should be exercised when bortezomib is combined with CYP3A4- or CYP2C19 substrates (see section 4.5).
 Normal liver function should be confirmed and caution should be exercised in patients receiving oral hypoglycemics (see section 4.5).
+
+Potentially immunocomplex-mediated reactions
+Potentially immunocomplex-mediated reactions, such as serum-sickness –type reaction, polyarthritis with rash and proliferative glomerulonephritis have been reported uncommonly.
+Bortezomib should be discontinued if serious reactions occur.

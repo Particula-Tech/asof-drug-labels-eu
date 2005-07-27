@@ -1,7 +1,6 @@
 # 6.6 Instructions for use, handling and disposal
 
 For single use only.
-
 VELCADE is a cytotoxic agent.
 Therefore, as with other potentially toxic compounds, caution should be used during handling and preparation.
 Use of gloves and other protective clothing to prevent skin contact is recommended.

@@ -16,9 +16,9 @@ Recommended dosage adjustments during treatment and re-initiation of treatment
 VELCADE treatment must be withheld at the onset of any Grade 3 non-haematological or any Grade 4 haematological toxicities, excluding neuropathy as discussed below (see also section 4.4).
 Once the symptoms of the toxicity have resolved, VELCADE treatment may be re-initiated at a 25% reduced dose (1.3 mg/m2 reduced to 1.0 mg/m2; 1.0 mg/m2 reduced to 0.7 mg/m2).
 If the toxicity is not resolved or if it recurs at the lowest dose, discontinuation of VELCADE must be considered unless the benefit of treatment clearly outweighs the risk.
+
 Patients who experience VELCADE related neuropathic pain and/or peripheral neuropathy are to be managed as presented in Table 1.
 Patients with pre-existing severe neuropathy may be treated with VELCADE only after careful risk/benefit assessment.
-
 Table 1: Recommended* dose modifications for VELCADE related neuropathic pain and/or peripheral sensory neuropathy.
 
 | Severity of peripheral neuropathy | Modification of dose and regimen |

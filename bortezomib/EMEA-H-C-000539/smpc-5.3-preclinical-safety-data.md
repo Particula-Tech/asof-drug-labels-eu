@@ -13,3 +13,7 @@ In multi-cycle general toxicity studies conducted in the rat and monkey the prin
 All these target organs have shown partial to full recovery following discontinuation of treatment.
 
 Based on animal studies, the penetration of bortezomib through the blood-brain barrier appears to be limited, if any and the relevance to humans is unknown.
+
+Cardiovascular safety pharmacology studies in monkeys and dogs show that IV doses approximately two to three times the recommended clinical dose on a mg/m2 basis are associated with increases in heart rate, decreases in contractility, hypotension and death.
+In dogs the decreased cardiac contractility and hypotension responded to acute intervention with positive inotropic or pressor agents.
+Moreover, in dog studies, a slight increase in the corrected QT interval was observed.

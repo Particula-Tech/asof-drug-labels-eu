@@ -1,8 +1,7 @@
 # 4.9 Overdose
 
-No cases of overdose with VELCADE were reported during clinical trials.
-Single doses of bortezomib of up to 2.0 mg/m2 have been administered in adults.
-Results of the non-clinical cardiovascular safety pharmacology studies suggest that acutely lethal intravenous doses are associated with altered body temperature control, which is correlated with parallel changes in heart rate, and ultimately terminal hypotension.
-These effects were ameliorated by maintenance of body temperature and routine supportive care.
+In patients, overdosage more than twice the recommended dose has been associated with the acute onset of symptomatic hypotension and thrombocytopenia with fatal outcomes.
+(Refer to section 5.3 for preclinical cardiovascular safety pharmacology studies).
 
-In the event of overdosage, patients must be monitored and appropriate supportive care given to maintain body temperature, support blood pressure and avoid dehydration (see sections 4.2 and 4.4).
+There is no known specific antidote for VELCADE overdosage.
+In the event of an overdosage, the patient’s vital signs should be monitored and appropriate supportive care given to maintain blood pressure (such as fluids, pressors, and/or inotropic agents) and body temperature (See Sections 4.2 and 4.4).
