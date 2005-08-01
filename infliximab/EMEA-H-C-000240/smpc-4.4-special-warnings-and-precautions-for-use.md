@@ -31,7 +31,7 @@ Experimental data show that TNFα is essential for the clearing of intracellular
 Clinical experience shows that host defence against infection is compromised in some patients treated with infliximab.
 It should be noted that suppression of TNFα may also mask symptoms of infection such as fever.
 
-Opportunistic infections and other infections including sepsis have been reported in patients treated with infliximab; some of these infections have been fatal.
+Opportunistic infections and other infections including sepsis and pneumonia have been observed in patients treated with infliximab; some of these infections have been fatal.
 
 Cases of active tuberculosis including miliary tuberculosis and tuberculosis with extrapulmonary location have been reported in patients treated with Remicade.
 Some of these cases had a fatal outcome.
@@ -62,7 +62,6 @@ Concurrent administration of TNF-alpha inhibitor and anakinra
 Serious infections were seen in clinical studies with concurrent use of anakinra and another TNFα-blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
 Because of the nature of the adverse events seen with combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNFα-blocking agents.
 Therefore, the combination of Remicade and anakinra is not recommended.
-
 Vaccinations
 No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
 It is recommended that live vaccines not be given concurrently.
@@ -102,4 +101,5 @@ The long half-life of infliximab should be taken into consideration if a surgica
 A patient who requires surgery while on Remicade should be closely monitored for infections, and appropriate actions should be taken.
 
 There is limited safety experience of Remicade treatment in patients who have undergone arthroplasty.
+
 Treatment of patients with intestinal strictures due to Crohn’s disease is not recommended since the risk/benefit relationship in this patient population has not been established.

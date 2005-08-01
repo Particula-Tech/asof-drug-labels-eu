@@ -14,7 +14,6 @@ Common: Viral infection (e.g. influenza, herpes infections)
 Uncommon: Abscess, cellulitis, moniliasis, sepsis, bacterial infection, tuberculosis, fungal infection, hordeolum
 Blood and lymphatic disorders
 Uncommon: Anaemia, leukopenia, lymphadenopathy, lymphocytosis, lymphopenia, neutropenia, thrombocytopenia
-
 Immune system disorders
 Common: Serum sickness-like reactions
 Uncommon: Lupus-like syndrome, respiratory tract allergic reactions, anaphylactic reactions
@@ -110,9 +109,9 @@ The antibody incidence was 2-3 fold higher for patients treated episodically.
 Due to methodological limitations, a negative assay did not exclude the presence of antibodies to infliximab.
 Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy (see section 4.4: "Infusion reactions and hypersensitivity").
 
-Infections: In clinical studies 35% of infliximab-treated patients were treated for infections compared with 22% of placebo-treated patients.
-Serious infections, such as pneumonia, were reported in 5% of both infliximab-treated patients and placebo-treated patients (see section 4.4).
+Infections: In clinical studies 36% of infliximab-treated patients were treated for infections compared with 25% of placebo-treated patients.
 
+In RA trials, the incidence of serious infections including pneumonia was higher in infliximab plus MTX treated patients compared with methotrexate alone especially at doses of 6 mg/kg or greater (see section 4.4).
 In postmarketing spontaneous reporting, infections are the most common serious adverse event.
 Some of the cases have resulted in a fatal outcome.
 Nearly 50% of reported deaths have been associated with infection.

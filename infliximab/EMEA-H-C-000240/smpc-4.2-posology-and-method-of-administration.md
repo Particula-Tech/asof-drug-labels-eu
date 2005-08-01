@@ -1,7 +1,6 @@
 # 4.2 Posology and method of administration
 
 Remicade is for intravenous use in adults and has not been studied in children (0-17 years).
-
 Remicade treatment is to be administered under the supervision and monitoring of specialised physicians experienced in the diagnosis and treatment of rheumatoid arthritis, inflammatory bowel diseases, or ankylosing spondylitis.
 Patients treated with Remicade should be given the package leaflet and the special Alert card.
 The recommended infusion time is 2 hours.
@@ -42,7 +41,6 @@ If a patient does not respond by 6 weeks (i.e. after 2 doses), no additional tre
 Psoriatic arthritis
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 Efficacy and safety have been demonstrated in combination with methotrexate.
-
 Readministration for Crohn’s disease and rheumatoid arthritis
 If the signs and symptoms of disease recur, Remicade can be readministered within 16 weeks following the last infusion.
 In clinical studies, delayed hypersensitivity reactions have been uncommon and have occurred after drug free intervals of less than 1 year (see section 4.4 and 4.8: delayed hypersensitivity).
