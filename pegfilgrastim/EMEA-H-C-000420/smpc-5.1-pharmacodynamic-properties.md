@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Cytokines, ATC Code: L03AA13
+
 Human granulocyte colony stimulating factor (G-CSF) is a glycoprotein, which regulates the production and release of neutrophils from the bone marrow.
 Pegfilgrastim is a covalent conjugate of recombinant human G-CSF (r-metHuG-CSF) with a single 20 kd polyethylene glycol (PEG) molecule.
 Pegfilgrastim is a sustained duration form of filgrastim due to decreased renal clearance.

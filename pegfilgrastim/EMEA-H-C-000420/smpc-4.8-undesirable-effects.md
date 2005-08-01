@@ -12,7 +12,10 @@ Nausea was observed in healthy volunteers and patients receiving chemotherapy.
 
 Common but generally asymptomatic cases of splenomegaly and very rare cases of splenic rupture have been reported in healthy donors and patients following administration of granulocyte-colony stimulating factors (G-CSFs) (see Section 4.4).
 
-Rare cases of thrombocytopenia have been reported.
+Rare pulmonary adverse effects including interstitial pneumonia, pulmonary oedema, pulmonary infiltrates and pulmonary fibrosis have been reported.
+Some of the reported cases have resulted in respiratory failure or Adult Respiratory Distress Syndrome (ARDS), which may be fatal (see 4.4)
+
+Rare cases of thrombocytopenia and leukocytosis have been reported.
 
 Very rare cases of Sweet’s syndrome have been reported, although in some cases underlying haematological malignancies may play a role.
 

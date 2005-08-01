@@ -4,8 +4,12 @@ The safety and efficacy of Neulasta have not been investigated in patients with 
 
 The safety and efficacy of Neulasta have not been investigated in patients receiving high dose chemotherapy.
 
+Rare (>0.01% and <0.1%) pulmonary adverse effects, in particular interstitial pneumonia, have been reported after G-CSF administration.
+Patients with a recent history of pulmonary infiltrates or pneumonia may be at higher risk.
+
 The onset of pulmonary signs such as cough, fever, and dyspnoea in association with radiological signs of pulmonary infiltrates, and deterioration in pulmonary function along with increased neutrophil count may be preliminary signs of Adult Respiratory Distress Syndrome (ARDS).
 In such circumstances Neulasta should be discontinued at the discretion of the physician and the appropriate treatment given.
+
 Common but generally asymptomatic cases of splenomegaly and very rare cases of splenic rupture have been reported in healthy donors and patients following administration of granulocyte-colony stimulating factors (GCSFs).
 Some cases of splenic rupture were fatal.
 Therefore, spleen size should be carefully monitored (eg clinical examination, ultrasound).
