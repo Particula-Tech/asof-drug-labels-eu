@@ -1,17 +1,19 @@
 # 4.8 Undesirable effects
 
 Clinical Trials
-Humira was studied in 2334 patients in placebo-controlled trials and in long term follow-up studies, including 2073 patients exposed for six months and 1497 patients exposed for greater than one year.
-The data in the table is based on the adequate and well-controlled studies I, II, III and IV (see 5.1) involving 1380 patients receiving adalimumab during the placebo-controlled period by randomised treatment.
+
+Rheumatoid arthritis
+
+Humira was studied in 2334 rheumatoid arthritis patients in placebo-controlled trials and in long term follow-up studies, including 2073 patients exposed for six months and 1497 patients exposed for greater than one year.
+The data in the table is based on the adequate and well-controlled studies I, II, III and IV (see section 5.1) involving 1380 patients receiving adalimumab during the placebo-controlled period by randomised treatment.
 The population had a mean age of 54.5 years, 77% were female, 91% were Caucasian and had moderate to severely active rheumatoid arthritis.
 Most patients received 40 mg Humira every other week.
 
 The proportion of patients who discontinued treatment due to adverse events during the double-blind, placebo controlled portion of Studies I, II, III and IV was 6.6% for patients taking Humira and 4.2% for placebo-treated patients.
 
 Adverse events at least possibly causally-related to adalimumab, both clinical and laboratory, are displayed by system organ class and frequency (very common > 1/10; common > 1/100 ≤ /10; uncommon > 1/1000 ≤ 1/100) in Table 1 below.
-
 Table 1
-Undesirable Effects in Clinical Studies
+Undesirable Effects in Clinical Studies I-IV
 
 | Body system | Frequency | Adverse event |
 | --- | --- | --- |
@@ -26,7 +28,8 @@ Undesirable Effects in Clinical Studies
 | Special senses | Uncommon | Conjunctivitis, eye disorder*, otitis media, taste perversion, abnormal vision, blurred vision, dry eye, ear disorder*, eye pain |
 | Cardiovascular System | Uncommon | Hypertension, vasodilatation, chest pain, migraine |
 | Haemorrhage | Uncommon | Ecchymosis |
-| Respiratory System | Common Uncommon | Upper respiratory infection, rhinitis, sinusitis, bronchitis, cough increased, pneumonia Pharyngitis, dyspnoea, lung disorder*, asthma |
+| Respiratory System | Common | Upper respiratory infection, rhinitis, sinusitis, bronchitis, cough increased, pneumonia |
+|  | Uncommon | Pharyngitis, dyspnoea, lung disorder*, asthma |
 | Digestive System | Common | Nausea, diarrhoea, sore throat |
 |  | Uncommon | Liver function test abnormal, SGPT increased, SGOT increased, mouth ulceration, oesophagitis, vomiting, dyspepsia, constipation, gastrointestinal pain, tooth disorder*, gastritis, gastroenteritis, tongue disorder*, oral moniliasis, aphthous stomatitis, dysphagia, stomatitis, ulcerative stomatitis |
 | Skin and Appendages | Common | Rash, pruritis, herpes simplex |
@@ -65,15 +68,23 @@ The expected rates of non-melanoma skin cancers cannot be reliably estimated.
 Forty-eight other malignancies were observed and overall rates and incidences of malignancies in these patients was similar to that expected for an age and gender matched population.
 Among these other malignancies, 10 lymphomas were observed.
 
-In post-marketing experience from January 2003 to June 2004, with an estimated exposure of 40100 patient-years, a total of 70 malignancies, including 13 lymphomas, have been reported, predominately in patients with rheumatoid arthritis (see 4.4).
+In post-marketing experience from January 2003 to June 2004, with an estimated exposure of 40100 patient-years, a total of 70 malignancies, including 13 lymphomas, have been reported, predominately in patients with rheumatoid arthritis (see section 4.4).
 
 Autoantibodies
-
 Patients had serum samples tested for autoantibodies at multiple time points.
 In the adequate and well-controlled trials, 12.6% of patients treated with Humira and 7.3% of placebo-treated patients that had negative baseline anti-nuclear antibody titres reported positive titres at week 24.
 One patient out of 2334 treated with Humira developed clinical signs suggestive of new-onset lupus-like syndrome.
 The patient improved following discontinuation of therapy.
 No patients developed lupus nephritis or central nervous system symptoms.
+
+Information from further rheumatoid arthritis clinical trials
+
+Humira has been studied in 542 patients with early rheumatoid arthritis (disease duration less than 3 years) who were methotrexate naïve (Study V). In the methotrexate monotherapy group, 3.9% of subjects had ALT values 3 x ULN, compared with 2.9% in Humira monotherapy and 8.6% in the combination arm (methotrexate plus Humira).
+
+Psoriatic arthritis
+
+Humira has been studied in 395 patients with psoriatic arthritis.
+Elevations in ALT were more common in these patients compared with patients in rheumatoid arthritis clinical studies.
 
 Additional Adverse Reactions from Postmarketing Surveillance or Phase IV Clinical Trials
 
@@ -115,8 +126,6 @@ Adverse events at least possibly causally-related to adalimumab, both clinical a
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
-Clincial Trials
-
 | Body system | Frequency | Adverse events |
 | --- | --- | --- |
 | Neoplasia | Uncommon | Skin benign neoplasm |
@@ -133,8 +142,7 @@ Clincial Trials
 | Respiratory System | Common | Upper respiratory infection, rhinitis, sinusitis, bronchitis, cough increased, pneumonia |
 |  | Uncommon | Pharyngitis, dyspnoea, lung disorder*, asthma |
 | Digestive System | Common | Nausea, diarrhoea, sore throat |
-|  | Uncommon | Liver function test abnormal, SGPT increased, |
-|  |  | SGOT increased, mouth ulceration, oesophagitis, vomiting, dyspepsia, constipation, gastrointestinal pain, tooth disorder*, gastritis, gastroenteritis, tongue disorder*, oral moniliasis, aphthous stomatitis, dysphagia, stomatitis, ulcerative stomatitis |
+|  | Uncommon | Liver function test abnormal, SGPT increased, SGOT increased, mouth ulceration, oesophagitis, vomiting, dyspepsia, constipation, gastrointestinal pain, tooth disorder*, gastritis, gastroenteritis, tongue disorder*, oral moniliasis, aphthous stomatitis, dysphagia, stomatitis, ulcerative stomatitis |
 | Skin and Appendages | Common | Rash, pruritis, herpes simplex |
 |  | Uncommon | Skin disorder*, herpes zoster, maculopapular rash, nail disorder*, dry skin, sweating increased, alopecia, fungal dermatitis, urticaria, skin nodule, skin ulcer, eczema, subcutaneous haematoma |
 | Musculo-skeletal System | Uncommon | Arthralgia, muscle cramps, myalgia, joint disorder*, synovitis, tendon disorder |

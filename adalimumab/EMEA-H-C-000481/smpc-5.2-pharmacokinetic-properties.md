@@ -10,6 +10,6 @@ Following subcutaneous administration of 40 mg of Humira every other week the me
 The serum adalimumab trough levels at steady-state increased roughly proportionally with dose following 20, 40 and 80 mg every other week and every week subcutaneous dosing.
 
 Population pharmacokinetic analyses with data from over 1300 patients revealed a trend toward higher apparent clearance of adalimumab with increasing body weight .
-After adjustment for weight differences, gender and age appeared to have a minimal effect on adalimimab clearance.
+After adjustment for weight differences, gender and age appeared to have a minimal effect on adalimumab clearance.
 The serum levels of free adalimumab (not bound to anti-adalimumab antibodies, AAA) were observed to be lower in patients with measurable AAA.
 Humira has not been studied in children or in patients with hepatic or renal impairment.

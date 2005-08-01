@@ -2,6 +2,6 @@
 
 Hypersensitivity to the active substance or to any of the excipients.
 
-Active tuberculosis or other severe infections such as sepsis, and opportunistic infections (see 4.4).
+Active tuberculosis or other severe infections such as sepsis, and opportunistic infections (see section 4.4).
 
-Moderate to severe heart failure (NYHA class III/IV) (see 4.4).
+Moderate to severe heart failure (NYHA class III/IV) (see section 4.4).

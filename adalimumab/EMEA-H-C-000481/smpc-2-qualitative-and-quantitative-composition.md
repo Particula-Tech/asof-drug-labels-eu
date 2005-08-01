@@ -3,7 +3,7 @@
 Each 0.8 ml single dose vial contains 40 mg of adalimumab.
 Adalimumab is a recombinant human monoclonal antibody expressed in Chinese Hamster Ovary cells.
 
-For excipients, see 6.1.
+For excipients, see section 6.1.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
