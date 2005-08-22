@@ -3,6 +3,7 @@
 Preclinical studies have been conducted in animal species including mice, rats, rabbits, dogs and monkeys.
 
 The most common findings in non-iron-loaded animals at doses of 100 mg/kg/day and above were hematologic effects such as bone marrow hypocellularity, and decreased WBC, RBC and/or platelet counts in peripheral blood.
+
 Atrophy of the thymus, lymphoid tissues, and testis, and hypertrophy of the adrenals, were reported at doses of 100 mg/kg/day or greater in non-iron-loaded animals.
 
 No carcinogenicity studies in animals have been conducted with deferiprone.

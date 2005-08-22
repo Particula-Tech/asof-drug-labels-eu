@@ -29,6 +29,7 @@ Provide protective isolation and if clinically indicated, admit patient to the h
 Limited information is available regarding rechallenge.
 Therefore, in the event of neutropenia, rechallenge is not recommended.
 In the event of agranulocytosis, a rechallenge is contraindicated.
+
 Carcinogenicity/mutagenicity/effects on fertility
 In view of the genotoxicity results, a carcinogenic potential of deferiprone cannot be excluded (see section 5.3).
 No animal studies to evaluate the potential effects of deferiprone on fertility have been reported.
