@@ -33,7 +33,6 @@ Special populations
 
 Impaired renal function: in healthy subjects, the renal elimination of unchanged atazanavir was approximately 7% of the administered dose.
 There are no pharmacokinetic data available on patients with renal insufficiency (see 4.2); however, the impact of renal impairment on atazanavir elimination is anticipated to be minimal.
-
 Impaired hepatic function: atazanavir is metabolised and eliminated primarily by the liver.
 The effects of hepatic impairment on the pharmacokinetics of atazanavir after a 300 mg dose with ritonavir have not been studied.
 Concentrations of atazanavir with or without ritonavir are expected to be increased in patients with moderately or severely impaired hepatic function (see 4.2, 4.3, and 4.4).

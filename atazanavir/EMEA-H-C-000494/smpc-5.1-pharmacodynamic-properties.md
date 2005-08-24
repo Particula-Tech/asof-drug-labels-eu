@@ -26,7 +26,6 @@ The resistance in antiretroviral treatment experienced patients mainly occurs by
 These isolates developed higher levels of resistance to the other protease inhibitors.
 
 Clinical experience: in antiretroviral treatment experienced patients, the benefit of REYATAZ is based only on Study 045 where REYATAZ 300 mg once daily was used with ritonavir 100 mg once daily and compared with lopinavir + ritonavir.
-
 Study 045 is an ongoing, randomised, multicenter trial comparing REYATAZ (300 mg once daily) with ritonavir (100 mg once daily) to REYATAZ (400 mg once daily) with saquinavir soft gelatine capsules (1,200 mg once daily), and to lopinavir + ritonavir (400/100 mg fixed dose combination twice daily), each in combination with tenofovir (see 4.5 and 4.8) and one NRTI, in 347 (of 358 randomised) patients with virologic failure on two or more prior regimens containing at least one PI, NRTI, and NNRTI.
 For randomised patients, the mean time of prior antiretroviral exposure was 138 weeks for PIs, 281 weeks for NRTIs, and 85 weeks for NNRTIs.
 At baseline, 34% of patients were receiving a PI and 60% were receiving an NNRTI.
