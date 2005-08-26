@@ -3,6 +3,10 @@
 As for all parenteral products, ampoules of Pedea should be visually inspected for particulate matter and the integrity of the container prior to use.
 Ampoules are intended for single use only, any unused portions must be discarded.
 
+Chlorhexidine must not be used to disinfect the neck of the ampoule as it is not compatible with the Pedea solution.
+Therefore, for asepsis of the ampoule before use, ethanol 60% or isopropyl alcohol 70% is recommended.
+When disinfecting the neck of the ampoule with an antiseptic, to avoid any interaction with the Pedea solution, the ampoule must be completely dry before it is opened.
+
 The required volume to be given to the infant should be determined according to body weight, and should be injected intravenously as a short infusion over 15 minutes, preferably undiluted.
 
 Use only sodium chloride 9 mg/ml (0.9%) solution for injection or glucose 50 mg/ml (5%) solution to adjust injection volume.
