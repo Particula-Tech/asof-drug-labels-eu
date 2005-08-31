@@ -10,8 +10,8 @@ In vitro data indicates that ritonavir is active against all strains of HIV test
 The concentration of ritonavir that inhibits 50% and 90% of viral replication in vitro is approximately 0.02 µM and 0.11 µM, respectively.
 Similar potencies were found with both AZT-sensitive and AZT-resistant strains of HIV.
 Studies which measured direct cell toxicity of ritonavir on several cell lines showed no direct toxicity at concentrations up to 25 µM, with a resulting in vitro therapeutic index of at least 1000.
-Resistance
 
+Resistance
 Ritonavir-resistant isolates of HIV-1 have been selected in vitro.
 The resistant isolates showed reduced susceptibility to ritonavir and genotypic analysis showed that the resistance was attributable primarily to specific amino acid substitutions in the HIV-1 protease at codons 82 and 84.
 

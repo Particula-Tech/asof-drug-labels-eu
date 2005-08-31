@@ -10,7 +10,10 @@ Additionally, acute ergot toxicity characterised by peripheral vasospasm and isc
 These medicines should not be co-administered with ritonavir.
 Ritonavir in addition is likely to produce large increases in these highly metabolised sedatives and hypnotics: clorazepate, diazepam, estazolam, flurazepam, midazolam and triazolam.
 Due to the potential for extreme sedation and respiratory depression from these agents, they should not be co-administered with ritonavir.
+
 Concomitant use of ritonavir and rifabutin is contraindicated because of clinical consequences such as uveitis resulting from a multifold increase of rifabutin serum concentrations.
+
+Concomitant use of ritonavir (400 mg twice daily and more) and voriconazole is contraindicated since ritonavir decreases voriconazole levels significantly (see section 4.5)
 
 Herbal preparations containing St John’s wort (Hypericum perforatum) must not be used while taking ritonavir due to the risk of decreased plasma concentrations and reduced clinical effects of ritonavir.
 (See section 4.5).

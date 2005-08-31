@@ -31,7 +31,6 @@ Desipramine: dosage reduction of desipramine should be considered in patients ta
 
 Rifabutin and its active metabolite 25-O-desacetyl rifabutin: concomitant use with ritonavir has resulted in a multifold increase in the AUC of rifabutin and its active metabolite 25-O-desacetyl rifabutin with clinical consequences.
 Therefore, the concomitant use of ritonavir and rifabutin is contraindicated (see section 4.3).
-
 Saquinavir: data from pharmacokinetic studies in patients indicate that co-administration of ritonavir 400 mg twice daily produce multifold increases in saquinavir steady state blood levels (AUC, 17 fold; Cmax, 14 fold increase).
 Doses greater than 400 mg twice daily of either medicine were associated with an increased incidence of adverse events.
 
@@ -39,7 +38,8 @@ In HIV-infected patients, Invirase and Fortovase in combination with ritonavir a
 For further information, physicians should refer to the Invirase and Fortovase Summary of Product Characteristics.
 
 Indinavir: ritonavir inhibits the CYP3A-mediated metabolism of indinavir.
-In healthy subjects, 200 mg to 400 mg of ritonavir twice daily given with a single 400 mg to 600 mg indinavir dose increased the indinavir AUC by 185% to 475%, Cmax 21% to 110%, and C8h 11 to 33-fold, relative to 400 mg to 600 mg indinavir given alone.
+In healthy subjects,
+200 mg to 400 mg of ritonavir twice daily given with a single 400 mg to 600 mg indinavir dose increased the indinavir AUC by 185% to 475%, Cmax 21% to 110%, and C8h 11 to 33-fold, relative to 400 mg to 600 mg indinavir given alone.
 Concomitant administration of 400 mg ritonavir and 400 mg indinavir twice daily with a meal yielded a similar indinavir AUC, a 4 fold increase in Cmin and a 50% to 60% decrease in Cmax as compared to those resulting from administration of indinavir 800 mg three times daily under fasting conditions.
 Co-administration of ritonavir with indinavir will result in increased indinavir serum concentrations.
 There are limited safety or efficacy data available on the use of this combination in patients.
@@ -70,8 +70,19 @@ When used in combination with delavirdine, a dose reduction of ritonavir should 
 
 Sildenafil: co-administration of sildenafil 100 mg single dose with ritonavir 500 mg twice daily at steady state resulted in a 300% (4-fold) increase in sildenafil cmax and a 1000% (11-fold) increase in sildenafil plasma AUC.
 At 24 hours after sildenafil dosing, plasma sildenafil concentrations were approximately 200 ng/ml, compared to 5 ng/ml when sildenafil was administered alone.
+
 Sildenafil had no effect on the pharmacokinetics of ritonavir.
 On the basis of these data, concomitant use of sildenafil with ritonavir is not recommended and in no case should sildenafil doses exceed 25 mg within 48 hours (see also section 4.4).
+
+Tadalafil: co-adminsitration of ritonavir 200 mg twice daily increased the tadalafil 20 mg dose exposure (AUC) by 124%, with no change in Cmax.
+Use tadalafil only with caution at reduced doses of no more than 10 mg every 72 hours with increased monitoring for adverse events (see section 4.4).
+
+Vardenafil: ritonavir 600 mg twice daily co-adminstered with vardenafil 5 mg resulted in a 49-fold increase in vardenafil AUC and a 13-fold increase in vardenafil Cmax.
+Use vardenafil only with caution at reduced doses of no more than 2.5 mg every 72 hours with increased monitoring for adverse events (see section 4.4).
+
+Trazodone: concomitant use of 50 mg trazodone and 200 mg ritonavir increased the mean AUCs of trazodone approximately 2-fold in a single dose, placebo controlled, cross-over study in healthy subjects.
+In the same study, adverse events of nausea, dizziness, hypotension and syncope have been observed in subjects using both ritonavir and trazodone, but not in the trazodone plus placebo group.
+If trazodone is used with ritonavir, the combination should be used with caution, by initiating the antidepressant treatment at the lowest dosage and by monitoring the clinical response as well as the tolerance.
 
 Ketoconazole: concomitant administration of ritonavir and ketoconazole resulted in markedly elevated ketoconazole plasma levels: mean AUC0-24 increased 3.4 fold and Cmax increased 1.6 fold.
 The mean half-life of ketoconazole increased from 2.7 to 13.2 h. Because of the large increases in the two agents, doses of ketoconazole 200 mg/day or greater should not be used concomitantly with ritonavir without assessing the risk and benefits.
@@ -82,6 +93,7 @@ In a published study, administration of short-term ritonavir (200 mg twice daily
 Alprazolam can be co-administered during chronic therapy with ritonavir
 (> 10 days).
 Caution is warranted regarding alprazolam co-administration during the first several days after initiating ritonavir therapy, before induction of alprazolam metabolism has occurred.
+
 Triazolam: in a published study, co-administration of short-term ritonavir and triazolam resulted in a very large (> 20 fold) increase in the AUC of triazolam.
 These data support that triazolam and ritonavir should not be co-administered (see section 4.3).
 
@@ -101,6 +113,12 @@ Buspirone: ritonavir has been associated with increase in the risk of adverse ev
 This may be explained by clinically relevant elevations of buspirone levels due to inhibition of CYP3A-dependent metabolism of buspirone by ritonavir.
 Caution and clinical monitoring should be exercised when ritonavir is concomitantly used with buspirone.
 
+Digoxin: the impact of ritonavir on digoxin levels has been evaluated in two studies.
+In the first study, the administration of ritonavir for two days increased the mean AUC of a single dose of digoxin by +86% (range 5 − 225%).
+In the second study, the administration of ritonavir for 13 days increased the mean AUC of a single dose of digoxin by +22% (range -21 − +67%).
+This interaction may be due to modification of P − glycoprotein mediated digoxin efflux by ritonavir.
+These findings suggest that the increased digoxin AUC levels observed in patients receiving ritonavir may lessen over time.
+
 Norvir DECREASES the AUCs of the following medicines when administered concomitantly:
 
 Zidovudine (AZT) and ddI: zidovudine and ddI have little if any effect on ritonavir pharmacokinetics.
@@ -110,7 +128,12 @@ Dose alteration of AZT or ddI during concomitant Norvir therapy should usually n
 However, dosing of ritonavir and ddI should be separated by 2.5 hours to avoid formulation incompatibilities.
 Human pharmacokinetic data for combination with antiretroviral medicines other than zidovudine and ddI are not yet available (see also section 4.4).
 
-Ethinyl oestradiol: because concomitant administration of ritonavir with a fixed combination oral contraceptive resulted in a reduction of the ethinyl oestradiol mean AUC by 41%, increased doses of oral contraceptives containing ethinyl oestradiol, or alternate methods of contraception should be considered.
+Voriconazole: ritonavir (400 mg twice daily for 9 days) decreased the steady state AUC of oral voriconzole (starting dose of 400 mg twice daily, then 200 mg twice daily for 8 days) by an average of 82%, in healthy subjects.
+Concomitant use of ritonavir (400 mg twice daily and more) and voriconazole is therefore contraindicated.
+The interactive effect of lower ritonavir doses, as ritonavir is used as a pharmacokinetic enhancer of other protease inhibitors (100-200 mg once or twice daily), is yet not known.
+Voriconazole administration had no effect on ritonavir levels.
+
+Ethinyl oestradiol: because concomitant administration of ritonavir with a fixed combination oral contraceptive resulted in a reduction of the ethinyl oestradiol mean AUC by 41%, increased doses of all formulations of contraceptives containing ethinyl oestradiol, or alternate methods of contraception should be considered.
 
 Theophylline: an increased dosage of theophylline may be required, as concomitant use with ritonavir caused an approximately 45% decrease in the AUC of theophylline.
 
@@ -122,26 +145,15 @@ An increased methadone dose may be necessary when concomitantly administered wit
 
 Meperidine: co-administration of multiple-dose ritonavir with single dose oral meperidine resulted in a 62% decrease in meperidine AUC and a 47% increase in normeperidine AUC.
 Dosage increase and long term use of meperidine and ritonavir are not recommended due to the increased concentrations of the metabolite, normeperidine, which has both analgesic and CNS stimulant activity (eg, seizures).
-
-Fluticasone propionate: in a clinical study where ritonavir 100 mg capsules twice daily were co − administered with 50 µg intranasal fluticasone propionate (4 times daily) for seven days in healthy subjects, the fluticasone propionate plasma levels increased significantly, whereas the intrinsic cortisol levels decreased by approximately 86% (90% confidence interval 82 − 89%).
+Fluticasone propionate (interaction with ritonavir): in a clinical study where ritonavir 100 mg capsules twice daily were co − administered with 50 µg intranasal fluticasone propionate (4 times daily) for seven days in healthy subjects, the fluticasone propionate plasma levels increased significantly, whereas the intrinsic cortisol levels decreased by approximately 86% (90% confidence interval 82 − 89%).
 Greater effects may be expected when fluticasone propionate is inhaled.
-Systemic corticosteroid effects including Cushing's syndrome and adrenal suppression have been reported when ritonavir has been co − administered with inhaled or intranasally administered fluticasone propionate; this could also occur with other corticosteroids eg budesonide.
-Consequently, concomitant administration of Norvir (including low dose of ritonavir) and inhaled or intranasally administered glucocorticoids is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects.
-A dose reduction of the glucocorticoid should be considered with close monitoring.
+Systemic corticosteroid effects including Cushing's syndrome and adrenal suppression have been reported in patients receiving ritonavir and inhaled or intranasally administered fluticasone propionate; this could also occur with other corticosteroids metabolised via the P450 3A pathway eg budesonide.
+Consequently, concomitant administration of Norvir and these glucocorticoids is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects (see section 4.4).
+A dose reduction of the glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (e.g. beclomethasone).
 Moreover, in case of withdrawal of glucocorticoids progressive dose reduction may have to be performed over a longer period.
-The effects of high fluticasone systemic exposure on ritonavir plasma levels is yet unknown (see section 4.4).
+The effects of high fluticasone systemic exposure on ritonavir plasma levels is yet unknown.
 
 Because ritonavir is highly protein bound, the possibility of increased therapeutic and toxic effects due to protein binding displacement of concomitant medications should be considered.
 
 Cardiac and neurologic events have been reported when ritonavir has been co-administered with disopyramide, mexiletine, nefazadone, or fluoxetine.
 The possibility of drug interaction cannot be excluded.
-
-[Norvir 100 mg soft capsules]
-
-In addition to the medicines listed in the Contraindications section, the following medicines or drug classes are known or suspected to be metabolised by these same cytochrome P450 isozymes: immunosuppressants (eg, cyclosporine, tacrolimus), macrolide antibiotics (eg, erythromycin), various steroids (eg, dexamethasone, prednisolone), other HIV-protease inhibitors, delavirdine, nonsedating antihistamines (eg, loratidine), buspirone, calcium channel antagonists, several tricyclic antidepressants (eg, desipramine, imipramine, amitriptyline, nortriptyline), other antidepressants (eg, fluoxetine, paroxetine, sertraline), neuroleptics
-(eg, haloperidol, risperidone, thioridazine), antifungals (eg, itraconazole), morphinomimetics
-(eg, fentanyl), carbamazepine, tolbutamide, amphetamine and amphetamine derivatives.
-
-.
-
-Amprenavir: concentrations of amprenavir, are increased when co-administered with ritonavir due to inhibition of the metabolism of amprenavir mediated by Cytochrome P450 isoenzymes.

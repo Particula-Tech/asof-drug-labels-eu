@@ -51,10 +51,10 @@ Hyperglycaemia has been reported in individuals with and without a known history
 Cause and effect relationship has not been established.
 
 Hypertriglyceridaemia, hypercholesterolaemia and hyperuricaemia were clearly related to ritonavir therapy.
+
 Pancreatitis has been observed in patients receiving Norvir therapy, including those who developed hypertriglyceridemia.
 In some cases fatalities have been observed.
 Patients with advanced HIV disease may be at risk of elevated triglycerides and pancreatitis.
-
 Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur.
 Patients who exhibit these signs or symptoms should be evaluated and Norvir therapy should be discontinued if a diagnosis of pancreatitis is made.
 
