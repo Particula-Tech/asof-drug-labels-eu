@@ -1,6 +1,7 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 28 January 2000
+Renewal date: 26 January 2005
 
 [Renagel 400 mg film-coated tablets]
 

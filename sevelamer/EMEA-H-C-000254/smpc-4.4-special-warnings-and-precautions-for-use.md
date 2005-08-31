@@ -29,7 +29,10 @@ Serum chloride may increase during Renagel treatment as chloride may be exchange
 Although no clinically significant serum chloride increase has been observed in the clinical studies, serum chloride should be monitored as is done in the routine follow-up of a dialysis patient.
 One gram of Renagel contains approximately 180 mg (5.1mEq) chloride.
 
+Patients with chronic renal failure are predisposed to developing metabolic acidosis.
+Worsening of acidosis has been reported upon switching from other phosphate binders to sevelamer in a number of studies where lower bicarbonate levels in the sevelamer-treated patients compared to patients treated with calcium-based binders were observed.
+Closer monitoring of serum bicarbonate levels is therefore recommended.
+
 Very rare cases of hypothyroidism have been reported in patients co-administered Renagel and Levothyroxine.
 Closer monitoring of TSH levels is therefore recommended in patients receiving both drugs.
-
 As data on the chronic use of sevelamer for over one year are not yet available, potential absorption and accumulation of sevelamer during long-term chronic treatment cannot be totally excluded (see section 5.2 Pharmacokinetics).
