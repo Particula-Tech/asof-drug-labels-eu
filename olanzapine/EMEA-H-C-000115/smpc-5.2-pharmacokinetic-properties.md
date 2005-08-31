@@ -3,6 +3,7 @@
 Olanzapine is well absorbed after oral administration, reaching peak plasma concentrations within 5 to 8 hours.
 The absorption is not affected by food.
 Absolute oral bioavailability relative to intravenous administration has not been determined
+
 Olanzapine is metabolized in the liver by conjugative and oxidative pathways.
 The major circulating metabolite is the 10-N-glucuronide, which does not pass the blood brain barrier.
 Cytochromes P450-CYP1A2 and P450-CYP2D6 contribute to the formation of the N-desmethyl and 2-hydroxymethyl metabolites, both exhibited significantly less in vivo pharmacological activity than olanzapine in animal studies.
@@ -70,7 +71,6 @@ In healthy elderly (65 and over) versus non-elderly subjects administered oral o
 In female versus male subjects administered oral olanzapine the mean elimination half life was somewhat prolonged (36.7 versus 32.3 hrs) and the clearance was reduced (18.9 versus 27.3 l/hr).
 
 In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy subjects administered oral olanzapine, there was no significant difference in mean elimination half-life (37.7 versus 32.4 hr) or clearance (21.2 versus 25.0 l/hr).
-
 In smoking subjects with mild hepatic dysfunction administered olanzapine orally, mean elimination half-life (39.3 hr) was prolonged and clearance (18.0 l/hr) was reduced analogous to non-smoking healthy subjects (48.8 hr and 14.1 l/hr, respectively).
 
 [ZYPREXA 10 mg powder and solvent for solution for injection.]
