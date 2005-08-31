@@ -1,24 +1,23 @@
 # 4.6 Pregnancy and lactation
 
-Because of the potential hazards to the foetus, AVONEX (Interferon beta-1a) is contraindicated in pregnancy.
-There are no studies of Interferon beta-1a in pregnant women.
+Because of the potential hazards to the foetus, AVONEX is contraindicated in pregnancy.
+There are no studies of interferon beta-1a in pregnant women.
 At high doses, in rhesus monkeys, abortifacient effects were observed.
 It cannot be excluded that such effects will be observed in humans.
 
 Fertile women receiving AVONEX should take appropriate contraceptive measures.
 Patients planning for pregnancy and those becoming pregnant should be informed of the potential hazards and AVONEX should be discontinued.
 
-Nursing Mothers
+Breast--feeding:
 It is not known whether AVONEX is excreted in human milk.
-Because of the potential for serious adverse reactions in nursing infants, a decision should be made either to discontinue nursing or to discontinue AVONEX therapy.
+Because of the potential for serious adverse reactions in breast-fed infants, a decision should be made either to discontinue breast-feeding or to discontinue AVONEX therapy.
 
-[AVONEX 30 µg powder and solvent for solution for injection (SmPC 2)]
+[AVONEX 30 micrograms powder and solvent for solution for injection]
 
-(all sentences already above)
+Because of the potential hazards to the foetus, AVONEX - is contraindicated in pregnancy.
+
+Breast-feeding:
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
-Because of the potential hazards to the foetus, AVONEX is contraindicated in pregnancy.
-
-Breast-feeding Mothers:
-Because of the potential for serious adverse reactions in breast-feeding infants, a decision should be made either to discontinue breast-feeding or to discontinue AVONEX therapy.
+(all sentences already above)

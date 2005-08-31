@@ -1,16 +1,8 @@
 # 4.1 Therapeutic indications
 
-AVONEX (Interferon beta-1a) is indicated for the treatment of ambulatory patients with relapsing multiple sclerosis (MS) characterized by at least 2 recurrent attacks of neurologic dysfunction (relapses) over the preceding 3-year period without evidence of continuous progression between relapses.
+AVONEX is indicated for the treatment of ambulatory patients with relapsing multiple sclerosis (MS) characterised by at least two recurrent attacks of neurological dysfunction (relapses) over the preceding three-year period without evidence of continuous progression between relapses.
 AVONEX slows the progression of disability and decreases the frequency of relapses.
 
-AVONEX is also indicated for the treatment of patients who have experienced a single demyelinating event with an active inflammatory process if it is severe enough to warrant treatment with intravenous corticosteroids, if alternative diagnoses have been excluded, and if they are determined to be at high risk of developing clinically definite multiple sclerosis (see section 5.1).
+AVONEX is also indicated for the treatment of patients who have experienced a single demyelinating event with an active inflammatory process if it is severe enough to warrant treatment with intravenous corticosteroids, if alternative diagnoses have been excluded, and if they are determined to be at high risk of developing clinically definite MS (see section 5.1).
 
-AVONEX should be discontinued in patients who develop progressive multiple sclerosis.
-
-[AVONEX 30 µg powder and solvent for solution for injection (SmPC 2)]
-
-(all sentences already above)
-
-[AVONEX 30 micrograms/0.5 ml solution for injection.]
-
-AVONEX is indicated for the treatment of ambulatory patients with relapsing multiple sclerosis (MS) characterised by at least 2 recurrent attacks of neurologic dysfunction (relapses) over the preceding 3-year period without evidence of continuous progression between relapses.
+AVONEX should be discontinued in patients who develop progressive MS.

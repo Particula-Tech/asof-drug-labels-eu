@@ -1,15 +1,16 @@
 # 6.4 Special precautions for storage
 
-Do not store above 25 °C.
+Store below 25 °C.
 
-DO NOT FREEZE lyophilised or reconstituted product
+DO NOT FREEZE lyophilised or reconstituted product.
+See section 6.3 for shelf life and storage conditions after reconstitution.
 
-[AVONEX 30 µg powder and solvent for solution for injection (SmPC 2)]
+[AVONEX 30 micrograms powder and solvent for solution for injection]
 
-Do not store above 25°C.
+(all sentences already above)
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
-Store at 2-8°C in a refrigerator.
+Store in a refrigerator (2 °C -8 oC).
 DO NOT FREEZE.
-Store in the original package in order to protect from light (see 6.5 Nature and contents of container).
+Store in the original package (sealed plastic tray) in order to protect from light (see section 6.5).

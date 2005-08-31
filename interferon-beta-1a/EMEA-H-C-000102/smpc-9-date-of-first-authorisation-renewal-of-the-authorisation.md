@@ -2,7 +2,7 @@
 
 13.03.1997
 
-[AVONEX 30 µg powder and solvent for solution for injection (SmPC 2)]
+[AVONEX 30 micrograms powder and solvent for solution for injection]
 
 22.01.2001
 

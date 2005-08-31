@@ -1,13 +1,15 @@
 # 3. PHARMACEUTICAL FORM
 
-AVONEX (Interferon beta-1a) is a powder and solvent for solution for injection.
+Powder and solvent for solution for injection.
 
-[AVONEX 30 µg powder and solvent for solution for injection (SmPC 2)]
+The vial contains a white to off-whitecake.
 
-(all sentences already above)
+[AVONEX 30 micrograms powder and solvent for solution for injection]
+
+The vial contains a white to off-white cake.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
 Solution for injection.
 
-The solution for injection should be clear and colourless.
+Clear and colourless solution.

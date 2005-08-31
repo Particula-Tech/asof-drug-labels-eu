@@ -1,19 +1,18 @@
 # 5.2 Pharmacokinetic properties
 
-The pharmacokinetic profile of AVONEX (Interferon beta-1a) has been investigated indirectly with an assay that measures interferon antiviral activity.
+The pharmacokinetic profile of AVONEX has been investigated indirectly with an assay that measures interferon antiviral activity.
 This assay is limited in that it is sensitive for interferon but lacks specificity for interferon beta.
 Alternative assay techniques are not sufficiently sensitive.
-
-Following IM administration of AVONEX, serum antiviral activity levels peak between 5 and 15 hours post-dose and decline with a half-life of approximately 10 hours.
+Following intramuscular administration of AVONEX, serum antiviral activity levels peak between five and 15 hours post-dose and decline with a half-life of approximately ten hours.
 With appropriate adjustment for the rate of absorption from the injection site, the calculated bioavailability is approximately 40%.
 The calculated bioavailability is greater without such adjustments.
 Intramuscular bioavailability is three-fold higher than subcutaneous bioavailability.
-Subcutaneous administration cannot be substituted for IM administration.
+Subcutaneous administration cannot be substituted for intramuscular administration.
 
-[AVONEX 30 µg powder and solvent for solution for injection (SmPC 2)]
+[AVONEX 30 micrograms powder and solvent for solution for injection]
 
-(all sentences already above)
+The pharmacokinetic profile of AVONEX -has been investigated indirectly with an assay that measures interferon antiviral activity.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
-The pharmacokinetic profile of AVONEX has been investigated indirectly with an assay that measures interferon antiviral activity.
+(all sentences already above)

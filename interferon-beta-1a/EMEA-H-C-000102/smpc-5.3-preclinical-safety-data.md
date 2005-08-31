@@ -1,10 +1,10 @@
 # 5.3 Preclinical safety data
 
-Carcinogenesis: No carcinogenicity data for Interferon beta-1a are available in animals or humans.
+Carcinogenesis: No carcinogenicity data for interferon beta-1a are available in animals or humans.
 
-Chronic Toxicity: No chronic toxicity data for Interferon beta-1a are available in animals.
+Chronic Toxicity: In a 26--week, repeated-dose toxicity study in rhesus monkey by intramuscular route once per week, administered in combination with another immune modulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward interferon beta-1a and no signs of toxicity were demonstrated.
 
-Local Tolerance: IM irritation has not been evaluated in animals following repeated administration to the same injection site.
+Local Tolerance: Intramuscular irritation has not been evaluated in animals following repeated administration to the same injection site.
 
 Mutagenesis: Limited but relevant mutagenesis tests have been carried out.
 The results have been negative.
@@ -16,10 +16,10 @@ No teratogenic effects or effects on foetal development have been observed, but 
 
 No information is available on the effects of interferon beta-1a on male fertility.
 
-[AVONEX 30 µg powder and solvent for solution for injection (SmPC 2)]
+[AVONEX 30 micrograms powder and solvent for solution for injection]
 
-(all sentences already above)
+Chronic Toxicity: In a 26-week, repeated-dose toxicity study in rhesus monkey by intramuscular route once per week, administered in combination with another immune modulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward interferon beta-1a and no signs of toxicity were demonstrated.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
-Chronic Toxicity: In a 26-week repeated toxicity study in rhesus monkey by IM route once per week, administered in combination with another immune modulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward IFN beta-1 a and no signs of toxicity were demonstrated.
+Chronic Toxicity: In a 26-week repeated dose toxicity study in rhesus monkey by intramuscular route once per week, administered in combination with another immunomodulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward interferon beta-1a and no signs of toxicity were demonstrated.

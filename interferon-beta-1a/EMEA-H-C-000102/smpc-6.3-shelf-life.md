@@ -1,8 +1,10 @@
 # 6.3 Shelf life
 
-2 years
+2 years.
+AVONEX should be administered as soon as possible after reconstitution.
+However, the reconstituted solution can be stored at 2 oC-8 °C for up to six hours, prior to injection.
 
-[AVONEX 30 µg powder and solvent for solution for injection (SmPC 2)]
+[AVONEX 30 micrograms powder and solvent for solution for injection]
 
 (all sentences already above)
 

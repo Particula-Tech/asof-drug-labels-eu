@@ -2,7 +2,7 @@
 
 EU/1/97/033/001
 
-[AVONEX 30 µg powder and solvent for solution for injection (SmPC 2)]
+[AVONEX 30 micrograms powder and solvent for solution for injection]
 
 EU/1/97/033/002
 

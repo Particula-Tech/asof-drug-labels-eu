@@ -1,16 +1,21 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-AVONEX (Interferon beta-1a) contains a 30 µg (6 million IU) dose of Interferon beta-1a per vial.
+Each vial of AVONEX contains 30 (6 million IU) of interferon beta-1a.
 
-Using the World Health Organisation (WHO) natural interferon beta standard, Second International Standard for Interferon, Human Fibroblast (Gb-23-902-531), 30 µg of AVONEX contains 6 million IU of antiviral activity.
+Following reconstitution with the water for injections the vial contains 1.0 ml of solution.
+The concentration is 30 micrograms per ml.
+
+Using the World Health Organisation (WHO) natural interferon beta standard, Second International Standard for Interferon, Human Fibroblast (Gb-23-902-531), 30 micrograms of AVONEX contains 6 million IU of antiviral activity.
 The activity against other standards is not known.
 
-[AVONEX 30 µg powder and solvent for solution for injection (SmPC 2)]
+For excipients, see section 6.1.
 
-(all sentences already above)
+[AVONEX 30 micrograms powder and solvent for solution for injection]
+
+Each vial of AVONEX BIO-SET contains 30 micrograms (6 million IU) of interferon beta-1a.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
-1 pre-filled syringe of 0.5 ml contains 30 micrograms (6 million IU) of Interferon beta-1a.
+Each 0.5 ml pre-filled syringe contains 30 micrograms (6 million IU) of interferon beta-1a.
 
-For excipients, see section 6.1.
+The concentration is 30 micrograms per 0.5 ml
