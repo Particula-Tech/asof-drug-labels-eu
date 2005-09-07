@@ -46,8 +46,10 @@ In case of concomitant antiviral therapy for hepatitis B or C, please also refer
 
 If there is evidence of exacerbations of liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
-Patients co-infected with hepatitis B virus (HBV): Emtricitabine is active in vitro against HBV and is currently being assessed for clinical activity in patients with chronic HBV infection.
-At present, only limited data are available on the efficacy and safety of emtricitabine (as a 200 mg hard capsule once daily) in patients who are co-infected with HIV and HBV.
+Patients co-infected with hepatitis B virus (HBV): Emtricitabine is active in vitro against HBV.
+However, limited data are available on the efficacy and safety of emtricitabine (as a 200 mg hard capsule once daily) in patients who are co-infected with HIV and HBV.
+The use of emtricitabine in patient with chronic HBV induces the same mutation pattern in the YMDD motif observed with lamivudine therapy.
+The YMDD mutation confers resistance to both emtricitabine and lamivudine.
 
 Patients co-infected with HIV and HBV should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with emtricitabine for evidence of exacerbations of hepatitis.
 Such exacerbations have been seen following discontinuation of emtricitabine treatment in HBV infected patients without concomitant HIV infection and have been detected primarily by serum alanine aminotransferase (ALT) elevations in addition to re-emergence of HBV DNA.
