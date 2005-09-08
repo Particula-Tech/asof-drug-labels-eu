@@ -33,7 +33,7 @@ Although a similar antiviral effect was observed between the abacavir and indina
 In a multicentre, double-blind, controlled study (CNA30024), 654 HIV-infected, antiretroviral therapy-naïve patients were randomised to receive either abacavir 300 mg twice daily or zidovudine 300 mg twice daily, both in combination with lamivudine 150 mg twice daily and efavirenz 600 mg once daily.
 The duration of double-blind treatment was at least 48 weeks.
 In the intent-to-treat (ITT) population, 70% of patients in the abacavir group, compared to 69% of patients in the zidovudine group, achieved a virologic response of plasma HIV-1 RNA ≤50 copies/ml by Week 48 (point estimate for treatment difference: 0.8, 95% CI -6.3, 7.9).
-In the as treated (AT) analysis the difference between both treatment arms was more noticeable (88% of patients in the abacavir group, compared to 95% of patients in the zidovudine group (point estimate for treatment difference: -6.8, 95% CI -11.8; -1.7).
+In the as treated (AT) analysis the difference between both treatment arms was more noticeable (88% of patients in the abacavir group, compared to 95% of patients in the zidovudine group (point estimate for treatment difference: -6.8, 95% CI -11.8; - 1.7).
 However, both analyses were compatible with a conclusion of non-inferiority between both treatment arms.
 
 - Therapy naïve children
@@ -66,10 +66,10 @@ Long term data with abacavir used as a once daily regimen (beyond 48 weeks) are 
 
 - Therapy experienced patients
 
-In study CAL30001, 182 treatment-experienced patients with virologic failure were randomised to receive either the fixed-dose combination of abacavir/lamivudine (FDC) once daily or abacavir 300 mg twice daily plus lamivudine 300 mg once daily, both in combination with tenofovir and a PI or an NNRTI for 48 weeks.
-Preliminary data at 24 weeks indicate that the FDC group was non-inferior to the abacavir twice daily group, based on similar reductions in HIV-1 RNA as measured by average area under the curve minus baseline (AAUCMB, -1.6 versus -1.87 respectively, 95% CI -0.06, 0.37).
-Proportions with HIV-1 RNA < 50 copies/ml (56% versus 47%) and < 400 copies/ml (65% versus 63%) were also similar in each group.
-However, as there were only moderately experienced patients included in this study with an imbalance in baseline viral load and treatment discontinuations between the arms, these results should be interpreted with caution.
+In study CAL30001, 182 treatment-experienced patients with virologic failure were randomised and received treatment with either the fixed-dose combination of abacavir/lamivudine (FDC) once daily or abacavir 300 mg twice daily plus lamivudine 300 mg once daily, both in combination with tenofovir and a PI or an NNRTI for 48 weeks.
+Results indicate that the FDC group was non-inferior to the abacavir twice daily group, based on similar reductions in HIV-1 RNA as measured by average area under the curve minus baseline (AAUCMB, -1.65 log10 copies/ml versus -1.83 log10 copies/ml respectively, 95% CI -0.13, 0.38).
+Proportions with HIV-1 RNA < 50 copies/ml (50% versus 47%) and < 400 copies/ml (54% versus 57%) were also similar in each group (ITT population).
+However, as there were only moderately experienced patients included in this study with an imbalance in baseline viral load between the arms, these results should be interpreted with caution.
 
 In study ESS30008, 260 patients with virologic suppression on a first line therapy regimen containing abacavir 300 mg plus lamivudine 150 mg, both given twice daily and a PI or NNRTI, were randomised to continue this regimen or switch to abacavir/lamivudine FDC plus a PI or NNRTI for 48 weeks.
 Preliminary data at 24 weeks indicate that the FDC group was associated with a similar virologic outcome (non-inferior) compared to the abacavir plus lamivudine group, based on proportions of subjects with HIV-1 RNA < 50 copies/ml (91% and 86% respectively, 95% CI -11.1, 1.9).

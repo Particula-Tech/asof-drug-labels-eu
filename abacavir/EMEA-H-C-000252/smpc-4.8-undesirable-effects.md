@@ -16,9 +16,9 @@ Those reported in at least 10% of patients with a hypersensitivity reaction are 
 
 Skin Rash (usually maculopapular or urticarial)
 Gastrointestinal tract Nausea, vomiting, diarrhoea, abdominal pain, mouth ulceration
-Respiratory tract Dyspnoea, cough, sore throat, adult respiratory distress syndrome,
+Respiratory tract Dyspnoea, cough, sore throat, adult respiratory distress
 
-respiratory failure
+syndrome, respiratory failure
 
 Miscellaneous Fever, lethargy, malaise, oedema, lymphadenopathy,
 
@@ -99,6 +99,10 @@ Laboratory abnormalities
 In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.
 
 [Ziagen 20 mg/ml oral solution]
+
+Respiratory tract Dyspnoea, cough, sore throat, adult respiratory distress syndrome,
+
+respiratory failure
 
 Miscellaneous Fever, lethargy, malaise, oedema, lymphadenopathy, hypotension,
 
