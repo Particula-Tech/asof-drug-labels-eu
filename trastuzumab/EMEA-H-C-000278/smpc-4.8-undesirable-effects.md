@@ -145,7 +145,6 @@ There was an increase in WHO Grade 3 or 4 haematological toxicity in patients tr
 Haematological toxicity was also increased in patients receiving Herceptin and docetaxel, compared with docetaxel alone (32% grade 3/4 neutropenia versus 22%, using NCI-CTC criteria).
 Note that this is likely to be an underestimate since docetaxel alone at a dose of 100mg/m2 is known to result in neutropenia in 97% of patients, 76% grade 4, based on nadir blood counts.
 The incidence of febrile neutropenia/neutropenic sepsis was also increased in patients treated with Herceptin plus docetaxel (23% versus 17% for patients treated with docetaxel alone).
-
 Hepatic and renal toxicity
 WHO Grade 3 or 4 hepatic toxicity was observed in 12 % of patients following administration of Herceptin as single agent.
 This toxicity was associated with progression of disease in the liver in 60 % of these patients.

@@ -7,7 +7,6 @@ The following loading and subsequent doses are recommended for monotherapy and i
 
 Loading dose
 The recommended initial loading dose of Herceptin is 4 mg/kg body weight.
-
 Subsequent doses
 The recommended weekly dose of Herceptin is 2 mg/kg body weight, beginning one week after the loading dose.
 

@@ -18,7 +18,6 @@ HER2 gene amplification should be detected using fluorescence in situ hybridisat
 Patients are eligible for Herceptin treatment if they show strong HER2 overexpression as described by a 3+ score by IHC or a positive FISH or CISH result.
 
 To ensure accurate and reproducible results, the testing must be performed in a specialised laboratory, which can ensure validation of the testing procedures.
-
 The recommended scoring system to evaluate the IHC staining patterns is as follows:
 
 | Staining Intensity Score | Staining pattern | HER2 Overexpression Assessment |
@@ -54,7 +53,6 @@ This investigative clinical trial assay performed in a central laboratory utilis
 Patients classified as staining 2+ or 3+ were included, while those staining 0 or 1+ were excluded.
 Greater than 70 % of patients enrolled exhibited 3+ overexpression.
 The data suggest that beneficial effects were greater among those patients with higher levels of overexpression of HER2 (3+).
-
 The main test method used to determine HER2 positivity in the pivotal trial of docetaxel, with or without Herceptin, was immunohistochemistry.
 A minority of patients were tested using fluorescence in-situ hybridisation (FISH).
 In this trial, 87% of patients entered had disease that was IHC3+, and 95% of patients entered had disease that was IHC3+ and/or FISH-positive.
@@ -92,5 +90,6 @@ After Herceptin and paclitaxel therapy for metastatic breast cancer in patients 
 | Abdomen Bone Chest Liver Lung Dist. Node Mediastinum CNS Other | 0 17.2 5.7 21.8 16.1 3.4 4.6 12.6 4.6 | 0 16.3 13.0 45.7 18.5 6.5 2.2 6.5 9.8 | - 0.986 0.250 0.004 0.915 0.643 0.667 0.377 0.410 |
 
 *Patients may have had multiple sites of disease progression
+
 The frequency of progression in the liver was significantly reduced in patients treated with the combination of Herceptin and paclitaxel.
 More patients treated with Herceptin and paclitaxel progressed in the central nervous system than those treated with paclitaxel alone.
