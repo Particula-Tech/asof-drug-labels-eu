@@ -9,6 +9,10 @@ The pharmacokinetic profile is comparable in healthy volunteers and in patients 
 Due to its complete and linear absorption, plasma levels can be predicted from the oral dose of levetiracetam expressed as mg/kg bodyweight.
 Therefore there is no need for plasma level monitoring of levetiracetam.
 
+A significant correlation between saliva and plasma concentrations has been shown in adults and children (ratio of saliva/plasma concentrations ranged from 1 to 1.7 for oral tablet formulation and after 4 hours post-dose for oral solution formulation).
+
+Adults and adolescents
+
 Absorption
 
 Levetiracetam is rapidly absorbed after oral administration.
@@ -17,7 +21,6 @@ Peak plasma concentrations (Cmax) are achieved at 1.3 hours after dosing.
 Steady-state is achieved after two days of a twice daily administration schedule.
 Peak concentrations (Cmax) are typically 31 and 43 µg/ml following a single 1,000 mg dose and repeated 1,000 mg twice daily dose, respectively.
 The extent of absorption is dose-independent and is not altered by food.
-
 Distribution
 
 No tissue distribution data are available in humans.
@@ -37,6 +40,7 @@ One was obtained by hydroxylation of the pyrrolidone ring (1.6 % of the dose) an
 Other unidentified components accounted only for 0.6 % of the dose.
 
 No enantiomeric interconversion was evidenced in vivo for either levetiracetam nor its primary metabolite.
+
 In vitro, levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C8/9/10, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1*6, UGT1*1 and UGT [pl6.2]) and epoxide hydroxylase activities.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 In human hepatocytes in culture, levetiracetam did not cause enzyme induction.
@@ -58,20 +62,48 @@ Elderly
 In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
 This is related to the decrease in renal function in this population (see section 4.2 “Posology”).
 
-Children (6 to 12 years)
+Children (4 to 12 years)
 
-Following single dose administration (20 mg/kg) to epileptic children, the half-life of levetiracetam was 6.0 hours.
+Following single dose administration (20 mg/kg) to epileptic children (6 to 12 years), the half-life of levetiracetam was 6.0 hours.
 The apparent body weight adjusted clearance was approximately 30 % higher than in epileptic adults.
+
+Following repeated oral dose administration (20 to 60 mg/kg/day) to epileptic children (4 to 12 years), levetiracetam was rapidly absorbed.
+Peak plasma concentration was observed 0.5 to 1.0 hour after dosing.
+Linear and dose proportional increases were observed for peak plasma concentrations and area under the curve.
+The elimination half-life was approximately 5 hours.
+The apparent body clearance was 1.1 ml/min/kg.
+
+Infants and children (1 month to 4 years)
+
+Following single dose administration (20 mg/kg) of a 100 mg/ml oral solution to epileptic children
+(1 month to 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
+The pharmacokinetic results indicated that half-life was shorter (5.3 h) than for adults (7.2 h) and apparent clearance was faster (1.5 ml/min/kg) than for adults (0.96 ml/min/kg).
 
 Renal impairment
 
 The apparent body clearance of both levetiracetam and of its primary metabolite is correlated to the creatinine clearance.
 It is therefore recommended to adjust the maintenance daily dose of Keppra, based on creatinine clearance in patients with moderate and severe renal impairment (see section 4.2 “Posology”).
 
-In anuric end-stage renal disease subjects the half-life was approximately 25 and 3.1 hours during interdialytic and intradialytic periods, respectively.
+In anuric end-stage renal disease adult subjects the half-life was approximately 25 and 3.1 hours during interdialytic and intradialytic periods, respectively.
 The fractional removal of levetiracetam was 51 % during a typical 4-hour dialysis session.
 
 Hepatic impairment
 
 In subjects with mild and moderate hepatic impairment, there was no relevant modification of the clearance of levetiracetam.
 In most subjects with severe hepatic impairment, the clearance of levetiracetam was reduced by more than 50 % due to a concomitant renal impairment (see section 4.2 “Posology”).
+
+[Keppra 500 mg film-coated tablets.]
+
+(all sentences already above)
+
+[Keppra 750 mg film-coated tablets.]
+
+(all sentences already above)
+
+[Keppra 1000 mg film-coated tablets.]
+
+Linear and dose proportional increases were observed for peak plasma concentration and area under the curve.
+
+[Keppra 100 mg/ml oral solution.]
+
+(all sentences already above)

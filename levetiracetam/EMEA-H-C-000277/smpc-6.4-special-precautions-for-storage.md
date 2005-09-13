@@ -1,6 +1,6 @@
 # 6.4 Special precautions for storage
 
-Do not store above 25°C.
+No special precautions for storage.
 
 [Keppra 500 mg film-coated tablets.]
 

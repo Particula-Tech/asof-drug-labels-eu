@@ -1,24 +1,33 @@
 # 6.1 List of excipients
 
 Core:
-maize starch, povidone K30, talc, colloidal anhydrous silica, magnesium stearate
+Sodium croscarmellose
+Macrogol 6000
+Colloidal anhydrous silica
+Magnesium stearate
 
-Film-coating Opadry OY-S-30913:
-hypromellose, macrogol 4000, titanium dioxide (E 171), indigo carmine lake (E 132)
+Film-coating Opadry 85F20694:
+Polyvinyl alcohol-part.hydrolyzed
+Titanium dioxide (E171)
+Macrogol 3350
+Talc
+Indigo carmine aluminium lake (E132)
 
 [Keppra 500 mg film-coated tablets.]
 
-Film-coating Opadry O5-F-32897:
-hypromellose, macrogol 4000, titanium dioxide (E 171), yellow iron oxide (E 172)
+Film-coating Opadry 85F32004:
+Polyvinyl alcohol-part. hydrolyzed
+Iron oxide yellow (E172)
 
 [Keppra 750 mg film-coated tablets.]
 
-Film-coating Opadry OY-S-33016:
-hypromellose, macrogol 4000, titanium dioxide (E 171), indigo carmine lake (E 132), red iron oxide (E 172), sunset yellow lake (E 110)
+Film-coating Opadry 85F23452:
+Talc sunset yellow FCF aluminium lake (E110)
+Iron oxide red (E172)
 
 [Keppra 1000 mg film-coated tablets.]
 
-Film-coating: Opadry Y-1-7000 hypromellose, macrogol 400, titanium dioxide (E171).
+Film-coating Opadry 85F18422:
 
 [Keppra 100 mg/ml oral solution.]
 
@@ -26,7 +35,7 @@ Sodium citrate
 Citric acid monohydrate
 Methyl parahydroxybenzoate (E218)
 Propyl parahydroxybenzoate (E216)
-Ammonium glycyrrhizinate
+Ammonium glycyrrhizate
 Glycerol (E422)
 Maltitol (E965)
 Acesulfame potassium (E950)

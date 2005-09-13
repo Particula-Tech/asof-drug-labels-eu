@@ -1,10 +1,13 @@
 # 4.4 Special warnings and special precautions for use
 
-In accordance with current clinical practice, if Keppra has to be discontinued it is recommended to withdraw it gradually (e.g. 500 mg twice daily decrements every two to four weeks).
+In accordance with current clinical practice, if Keppra has to be discontinued it is recommended to withdraw it gradually (e.g. in adults: 500 mg twice daily decrements every two to four weeks; in children: dose decrease should not exceed decrements of 10 mg/kg twice daily every two weeks).
 
-In a study reflecting clinical practice, the concomitant antiepileptic medication could be withdrawn in a limited number of patients who responded to levetiracetam adjunctive therapy (36 patients out of 69).
+In a study reflecting clinical practice, the concomitant antiepileptic medication could be withdrawn in a limited number of patients who responded to levetiracetam adjunctive therapy (36 adult patients out of 69).
 
-An increase in seizure frequency of more than 25 % has been reported in 14 % and 26 % of the levetiracetam and placebo treated patients, respectively.
+Available data in children did not suggest impact on growth and puberty.
+However, long term effects on learning, intelligence, growth, endocrine function, puberty and childbearing potential in children remain unknown.
+
+An increase in seizure frequency of more than 25 % was reported in 14 % of levetiracetam treated adult and paediatric patients, whereas it was reported in 26 % and 21 % of placebo treated adult and paediatric patients, respectively.
 
 The administration of Keppra to patients with renal impairment may require dose adjustment.
 In patients with severely impaired hepatic function, assessment of renal function is recommended before dose selection (see section 4.2 “Posology”).
@@ -23,5 +26,5 @@ Keppra 750 mg film-coated tablets contain E110 colouring agent (see section 4.8)
 
 [Keppra 100 mg/ml oral solution.]
 
-Keppra 100mg/ml oral solution includes glycerol which may cause headache, stomach upset and diarrhoea.
+Keppra 100 mg/ml oral solution includes methyl parahydroxybenzoate (E218) and propyl parahydroxybenzoate (E216) which may cause allergic reactions (possibly delayed).
 It also includes maltitol; patients with rare hereditary problems of fructose intolerance should not take this medicine.
