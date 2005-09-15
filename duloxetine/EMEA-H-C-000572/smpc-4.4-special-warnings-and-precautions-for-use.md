@@ -29,13 +29,16 @@ It is general clinical experience with all antidepressant therapies that the ris
 Cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.
 Close supervision of high-risk patients should accompany drug therapy.
 Patients, (and caregivers of patients) should be alerted about the need to monitor for the emergence of suicidal ideation/behaviour or thoughts of harming themselves and to seek medical advice immediately if these symptoms present.
-No clinical trials have been conducted in the depressed paediatric population.
-Due to lack of clinical experience duloxetine should not be used in children and adolescents under the age of 18 years for the treatment of major depressive episode.
-Safety and efficacy from data collected in adults with major depressive episode cannot be extrapolated to the paediatric population.
-For SSRI/SNRI´s suicidal behaviour has been reported.
 Diabetic Peripheral Neuropathic Pain
 As with other medicinal products with similar pharmacological action (antidepressants), isolated cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.
 Physicians should encourage patients to report any distressing thoughts or feelings at any time.
+
+Use in children and adolescents under 18 years of age
+No clinical trials have been conducted with duloxetine in paediatric populations.
+CYMBALTA should not be used in the treatment of children and adolescents under the age of 18 years.
+Suicide-related behaviours (suicide attempts and suicidal thoughts), and hostility (predominantly aggression, oppositional behaviour and anger), were more frequently observed in clinical trials among children and adolescents treated with antidepressants compared to those treated with placebo.
+If, based on clinical need, a decision to treat is nevertheless taken, the patient should be carefully monitored for the appearance of suicidal symptoms.
+In addition, long-term safety data in children and adolescents concerning growth, maturation and cognitive and behavioural development are lacking.
 
 Sucrose
 CYMBALTA hard gastro-resistant capsules contain sucrose.
@@ -44,9 +47,9 @@ Patients with rare hereditary problems of fructose intolerance, glucose-galactos
 Haemorrhage
 There have been reports of cutaneous bleeding abnormalities, such as ecchymoses and purpura with selective serotonin reuptake inhibitors (SSRIs).
 Caution is advised in patients taking anticoagulants and/or medicinal products known to affect platelet function, and in patients with known bleeding tendencies.
-
 Hyponatremia
 Hyponatremia has been reported rarely, predominantly in the elderly, when administering CYMBALTA and other drugs of the same pharmacodynamic class.
+
 Discontinuation of treatment
 Some patients may experience symptoms on discontinuation of CYMBALTA, particularly if treatment is stopped abruptly (see section 4.2 and 4.8).
 

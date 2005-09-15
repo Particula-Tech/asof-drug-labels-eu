@@ -21,7 +21,6 @@ The medicinal product response should be evaluated after 2 months’ of treatmen
 Additional response after this time is unlikely (see 5.1).
 
 The therapeutic benefit should regularly (at least every three months) be reassessed.
-
 Elderly
 Major Depressive Episodes: No dosage adjustment is recommended for elderly patients solely on the basis of age.
 However, as with any medicine, caution should be exercised when treating the elderly, especially with CYMBALTA 120 mg per day for which data are limited (see sections 4.4 and 5.2).

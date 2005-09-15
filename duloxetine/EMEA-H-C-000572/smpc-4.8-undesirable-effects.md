@@ -34,7 +34,6 @@ Discontinuation symptoms have been reported when stopping CYMBALTA.
 Common symptoms, particularly on abrupt discontinuation, include dizziness, nausea, insomnia, headache and anxiety (see sections 4.2 and 4.4).
 
 Duloxetine treatment in clinical trials was associated with numerically significant, but not clinically related increases in ALT, AST, alkaline phosphatase, and creatinine phosphokinase-CPK; transient, abnormal values of these enzymes were infrequently observed in duloxetine-treated patients, compared with placebo-treated patients.
-
 Duloxetine is known to affect urethral resistance.
 In placebo-controlled trials, urinary hesitation was reported rarely (< 1 %) in male patients.
 If symptoms of urinary hesitation develop during treatment with duloxetine, consideration should be given that they might be drug-related.
