@@ -4,7 +4,6 @@ In repeat-dose toxicity studies, conducted in mice, rats, and dogs, atazanavir-r
 Systemic exposures of atazanavir in mice (males), rats, and dogs at doses associated with hepatic changes were at least equal to that observed in humans given 400 mg once daily.
 In female mice, atazanavir exposure at a dose that produced single-cell necrosis was 12 times the exposure in humans given 400 mg once daily.
 Serum cholesterol and glucose were minimally to mildly increased in rats but not in mice or dogs.
-
 The cloned human cardiac potassium channel, hERG, was inhibited by 15% in an in vitro patch clamp assay at a concentration (30 µM) corresponding to 30-fold the free drug concentration at Cmax in humans.
 Electrocardiographic changes (sinus bradycardia, prolongation of PR interval, prolongation of QT interval, and prolongation of QRS complex) were observed only in an initial 2-week oral toxicity study performed in dogs.
 Subsequent 2-week and 9-month oral toxicity studies in dogs showed no drug-related electrocardiographic changes.
@@ -24,4 +23,5 @@ In in vivo studies in rats, atazanavir did not induce micronuclei in bone marrow
 In long-term carcinogenicity studies of atazanavir in mice and rats, an increased incidence of benign hepatic adenomas was seen in female mice only.
 The increased incidence of benign hepatic adenomas in female mice was likely secondary to cytotoxic liver changes manifested by single-cell necrosis and is considered to have no relevance for humans at intended therapeutic exposures.
 There were no tumorigenic findings in male mice or in rats.
+
 Atazanavir increased opacity of bovine corneas in an in vitro ocular irritation study, indicating it may be an ocular irritant upon direct contact with the eye.

@@ -8,6 +8,7 @@ REYATAZ has been evaluated for safety and tolerability in combination therapy wi
 The majority of patients (1,047) received REYATAZ 400 mg once daily without ritonavir.
 The median duration of treatment was 102 weeks in Phase II trials and 48 weeks in the Phase III trials.
 Adverse events were comparable between patients who received REYATAZ 300 mg with ritonavir 100 mg once daily and patients who received REYATAZ 400 mg once daily, except that jaundice and elevated total bilirubin levels were reported more frequently with REYATAZ plus ritonavir.
+
 Among patients who received 400 mg once daily or 300 mg with ritonavir 100 mg once daily, the only adverse events of any severity reported very commonly with at least a possible relationship to regimens containing REYATAZ and one or more NRTIs were nausea (24%), headache (10%), and jaundice (10%).
 Among patients receiving REYATAZ 300 mg with ritonavir 100 mg, the frequency of jaundice was 16%.
 Jaundice was reported within a few days to a few months after the initiation of treatment (see 4.4).
@@ -56,6 +57,7 @@ Hepatobiliary disorders: common: jaundice;
 
 uncommon: hepatitis;
 rare: hepatosplenomegaly
+
 Skin and subcutaneous tissue
 
 disorders: common: rash;
@@ -80,8 +82,7 @@ disorders: uncommon: gynecomastia
 
 General disorders and administration site conditions: common: asthenia, fatigue;
 uncommon: chest pain, fever, malaise
-
-In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see 4.4).
+In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
 
 Laboratory abnormalities
 The most frequently reported laboratory abnormality in patients receiving regimens containing REYATAZ and one or more NRTIs was elevated total bilirubin (84% Grade 1, 2, 3, or 4).

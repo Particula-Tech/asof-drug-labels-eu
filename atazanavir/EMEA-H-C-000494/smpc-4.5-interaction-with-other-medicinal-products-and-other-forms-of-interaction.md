@@ -28,11 +28,11 @@ No efficacy and safety data are available to support the co-administration of ef
 Nevirapine: the effects of co-administration of REYATAZ and nevirapine have not been studied.
 Nevirapine is a metabolic inducer of CYP3A4 and is expected to decrease atazanavir exposure.
 Therefore, in the absence of data regarding the expected interaction between REYATAZ with ritonavir and nevirapine, this co-administration is not recommended.
+
 Protease inhibitors
 
 Indinavir: indinavir is also associated with indirect (unconjugated) hyperbilirubinemia due to inhibition of UGT.
 Co-administration of REYATAZ and indinavir is not recommended (see 4.4).
-
 Ritonavir: based on data in healthy volunteers, the addition of ritonavir 100 mg to atazanavir 300 mg has been shown to significantly increase the pharmacokinetic parameters of atazanavir (approximately, 2 fold increase of AUC and 7 fold increase of Cmin in comparison to atazanavir 400 mg without ritonavir).
 In patients, the limited pharmacokinetic data currently available suggest that the impact of ritonavir might be less noticeable on the Cmin (approximately, 3 fold increase).
 
@@ -59,13 +59,6 @@ Co-administration of diltiazem and REYATAZ with ritonavir has not been studied.
 An initial dose reduction of diltiazem by 50% is recommended, with subsequent titration as needed and ECG monitoring.
 Verapamil may also have its serum concentrations increased by REYATAZ with ritonavir; therefore, caution should be exercised when verapamil is co-administered with REYATAZ with ritonavir.
 
-Fluticasone propionate (interaction with ritonavir): in a clinical study where ritonavir 100 mg capsules twice daily were co-administered with 50 µg intranasal fluticasone propionate (4 times daily) for 7 days in healthy subjects, the fluticasone propionate plasma levels increased significantly, whereas the intrinsic cortisol levels decreased by approximately 86% (90% confidence interval 82-89%).
-Greater effects may be expected when fluticasone propionate is inhaled.
-Systemic corticosteroid effects including Cushing’s syndrome and adrenal suppression have been reported in patients receiving ritonavir and inhaled or intranasally administered fluticasone propionate; this could also occur with other corticosteroids metabolized via the P450 3A pathway, eg, budesonide.
-Consequently, concomitant administration of REYATAZ/ritonavir and these glucocorticoids is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects (see 4.4).
-A dose reduction of the glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (eg, beclomethasone).
-Moreover, in case of withdrawal of glucocorticoids, progressive dose reduction may have to be performed over a longer period.
-The effects of high fluticasone systemic exposure on ritonavir plasma levels is yet unknown.
 HMG-CoA reductase inhibitors (simvastatin, lovastatin, atorvastatin): simvastatin and lovastatin are highly dependent on CYP3A4 for their metabolism and co-administration with REYATAZ with ritonavir may result in increased concentrations.
 Concomitant use of simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
 The risk of myopathy including rhabdomyolysis may also be increased when protease inhibitors, including REYATAZ with ritonavir, are used in combination with atorvastatin, which is also metabolised by CYP3A4.
@@ -88,7 +81,7 @@ The effects of co-administration of oral contraceptives and REYATAZ with ritonav
 The concomitant use of REYATAZ and oral contraceptives should be avoided (see 4.4).
 Alternate reliable methods of contraception should be considered.
 
-Proton pump inhibitors: co-administration of omeprazole (40 mg once daily) with REYATAZ and ritonavir (300/100 mg once daily) resulted in a substantial reduction in atazanavir exposure (approximately 75% decrease in AUC, Cmax, and Cmin).
+Proton pump inhibitors: Co-administration of omeprazole (40 mg once daily) with REYATAZ and ritonavir (300/100 mg once daily) resulted in a substantial reduction in atazanavir exposure (approximately 75% decrease in AUC, Cmax, and Cmin).
 Increasing the dose of REYATAZ/ritonavir to 400/100 mg did not compensate for the impact of omeprazole on atazanavir exposure.
 Thus, REYATAZ/ritonavir should not be co-administered with omeprazole.
 Although not studied, other daily doses of omeprazole may produce similar results and, therefore, co-administration of any dose of omeprazole is not recommended.
@@ -106,6 +99,7 @@ The concomitant use of REYATAZ and rifampicin is contraindicated (see 4.3).
 Sildenafil: sildenafil is metabolised by CYP3A4.
 Co-administration with REYATAZ may result in increased concentrations of sildenafil and an increase in sildenafil-associated adverse events, including hypotension, visual changes, and priapism.
 Patients should be warned about these possible side effects.
+
 Triazole antifungal agents: co-administration with ketoconazole has only been studied with REYATAZ without ritonavir.
 Co-administration of 200 mg of ketoconazole with 400 mg of atazanavir in healthy subjects resulted in negligible increases in atazanavir AUC and Cmax (respectively 11% and 3%).
 Plasma levels of both atazanavir and ritonavir may be increased by ketoconazole and itraconazole.
