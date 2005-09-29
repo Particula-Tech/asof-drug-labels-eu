@@ -22,3 +22,7 @@ Treatment of ankylosing spondylitis, in patients who have severe axial symptoms,
 Psoriatic arthritis:
 Remicade, in combination with methotrexate, is indicated for:
 Treatment of active and progressive psoriatic arthritis in patients who have responded inadequately to disease-modifying anti-rheumatic drugs.
+
+Psoriasis:
+Remicade is indicated for:
+Treatment of moderate to severe plaque psoriasis in adults who failed to respond to, or who have a contraindication to, or are intolerant to other systemic therapy including cyclosporine, methotrexate or PUVA (see section 5.1).

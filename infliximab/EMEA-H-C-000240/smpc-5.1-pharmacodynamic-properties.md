@@ -11,6 +11,7 @@ Elevated concentrations of TNFα have been found in the joints of rheumatoid art
 In rheumatoid arthritis, treatment with infliximab reduced infiltration of inflammatory cells into inflamed areas of the joint as well as expression of molecules mediating cellular adhesion, chemoattraction and tissue degradation.
 After infliximab treatment, patients exhibited decreased levels of serum interleukin 6 (IL-6) and C-reactive protein (CRP) compared with baseline.
 Peripheral blood lymphocytes further showed no significant decrease in number or in proliferative responses to in vitro mitogenic stimulation when compared with untreated patients’ cells.
+In psoriasis patients, treatment with infliximab resulted in decreases in epidermal inflammation and normalization of keratinocyte differentiation in psoriatic plaques.
 
 Histological evaluation of colonic biopsies, obtained before and 4 weeks after administration of infliximab, revealed a substantial reduction in detectable TNFα.
 Infliximab treatment of Crohn’s disease patients was also associated with a substantial reduction of the commonly elevated serum inflammatory marker, CRP.
@@ -31,11 +32,11 @@ A reduction in signs and symptoms was defined to be at least a 20% improvement (
 ACR-N uses the same criteria as the ACR20, calculated by taking the lowest percent improvement in swollen joint count, tender joint count, and the median of the remaining 5 components of the ACR response.
 Structural joint damage (erosions and joint space narrowing) in both hands and feet was measured by the change from baseline in the total van der Heijde-modified Sharp score (0-440).
 The Health Assessment Questionnaire (HAQ; scale 0-3) was used to measure patients’ average change from baseline scores over time, in physical function.
+
 The ATTRACT trial evaluated responses at 30, 54 and 102 weeks in a placebo-controlled study of 428 patients with active rheumatoid arthritis despite treatment with methotrexate.
 Approximately 50% of patients were in functional Class III.
 Patients received placebo, 3 mg/kg or 10 mg/kg infliximab at weeks 0, 2 and 6, and then every 4 or 8 weeks thereafter.
 All patients were on stable methotrexate doses (median 15 mg/wk) for 6 months prior to enrolment and were to remain on stable doses throughout the study.
-
 Results from week 54 (ACR20, total van der Heijde-modified Sharp score and HAQ) are shown in Table 3.
 Higher degrees of clinical response (ACR50 and ACR70) were observed in all infliximab groups at 30 and 54 weeks compared with methotrexate alone.
 
@@ -80,9 +81,9 @@ All patients received methotrexate (optimised to 20 mg/wk by week 8) and either 
 Results from week 54 are shown in Table 4.
 
 After 54 weeks of treatment, both doses of infliximab + methotrexate resulted in statistically significantly greater improvement in signs and symptoms compared to methotrexate alone as measured by the proportion of patients achieving ACR20, 50 and 70 responses.
+
 In ASPIRE, more than 90% of patients had at least two evaluable x-rays.
 Reduction in the rate of progression of structural damage was observed at weeks 30 and 54 in the infliximab + methotrexate groups compared to methotrexate alone.
-
 Table 4
 Effects on ACRn, Structural Joint Damage and Physical Function at week 54, ASPIRE
 
@@ -158,8 +159,8 @@ Treatment with infliximab resulted in improvement in signs and symptoms, as asse
 Improvement was observed at week 2 and was maintained through week 54.
 Physical function and quality of life (SF36) were improved similarly.
 In the trial, efficacy was not shown in HLA-B27 negative patients (n=7).
-
 Psoriatic Arthritis
+
 Efficacy and safety were studied in a double-blind, placebo-controlled, multicenter study evaluating infliximab in 104 patients with active polyarticular psoriatic arthritis.
 In total 74 subjects were on at least one concomitant DMARD, and among those 58 patients were treated with methotrexate.
 During the 16-week double-blind phase, patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6, and 14 (52 patients in each group).
@@ -169,3 +170,62 @@ Treatment with infliximab resulted in improvement in signs and symptoms, as asse
 Improvement (ACR 20 and 50) was observed as early as week 2 and was maintained through week 50 (ACR 20, 50, and 70).
 Decreases in parameters of peripheral activity characteristic of psoriatic arthritis (such as number of swollen joints, number of painful/tender joints, dactylitis and presence of enthesopathy) were seen in the infliximab-treated patients.
 Infliximab-treated patients also demonstrated improvement in physical function as assessed by HAQ (mean change from baseline to week 16 of 0.6 vs. 0 for placebo-treated patients).
+
+Psoriasis
+The efficacy of infliximab was assessed in two multicenter, randomised, double blind studies: SPIRIT and EXPRESS.
+Patients in both studies had plaque psoriasis (Body Surface Area [BSA] ≥10% and Psoriasis Area and Severity Index [PASI] score ≥12).
+The primary endpoint in both studies was the percent of patients who achieved ≥ 75% improvement in PASI from baseline at week 10.
+
+SPIRIT evaluated the efficacy of infliximab induction therapy in 249 patients with plaque psoriasis that had previously received PUVA or systemic therapy.
+Patients received either 3 or, 5 mg/kg infliximab or placebo infusions at weeks 0, 2 and 6.
+Patients with a PGA score ≥3 were eligible to receive an additional infusion of the same treatment at week 26.
+
+In SPIRIT, the proportion of patients achieving PASI 75 at week 10 was 71.7% in the 3 mg/kg infliximab group, 87.9% in the 5 mg/kg infliximab group, and 5.9% in the placebo group (p < 0.001).
+By week 26, twenty weeks after the last induction dose, 30% of patients in the 5mg/kg group and 13.8% of patients in the 3mg/kg group were PASI 75 responders.
+Between weeks 6 and 26, symptoms of psoriasis gradually returned with a median time to disease relapse of > 20 weeks.
+No rebound was observed.
+
+EXPRESS evaluated the efficacy of infliximab induction and maintenance therapy in 378 patients with plaque psoriasis.
+Patients received 5 mg/kg infliximab or placebo infusions at weeks 0, 2 and 6 followed by maintenance therapy every 8 weeks through week 22 in the placebo group and through week 46 in the infliximab group.
+At week 24, the placebo group crossed over to infliximab induction therapy (5 mg/kg) followed by infliximab maintenance therapy (5 mg/kg).
+Prior therapy with PUVA, methotrexate, cyclosporin, or acitretin had been received by 71.4% of patients, although they were not necessarily therapy resistant.
+Key results are presented in Table 5.
+In infliximab treated subjects, significant PASI 50 responses were apparent at the first visit (week 2) and PASI 75 responses by the second visit (week 6).
+Efficacy was similar in the subgroup of patients that were exposed to previous systemic therapies compared to the overall study population.
+Table 5
+Summary of PASI response and PGA score at Weeks 10, 24 and 50.
+EXPRESS.
+Placebo →
+Infliximab
+
+5 mg/kg Infliximab
+(at week 24) 5 mg/kg
+
+Week 10
+
+n 77 301
+≥ 90% improvement 1 (1.3%) 172 (57.1%)a
+≥ 75% improvement 2 (2.6%) 242 (80.4%)a
+≥ 50% improvement 6 (7.8%) 274 (91.0%)
+PGA of cleared (0) or minimal (1) 3 (3.9%) 242 (82.9%)ab
+PGA of cleared (0), minimal (1), or mild (2) 14 (18.2%) 275 (94.2%)ab
+
+Week 24
+
+n 77 276
+≥ 90% improvement 1 (1.3%) 161 (58.3%)a
+≥ 75% improvement 3 (3.9%) 227 (82.2%)a
+≥ 50% improvement 5 (6.5%) 248 (89.9%)
+PGA of cleared (0) or minimal (1) 2 (2.6%) 203 (73.6%)a
+PGA of cleared (0), minimal (1), or mild (2) 15 (19.5%) 246 (89.1%)a
+
+Week 50
+
+n 68 281
+≥ 90% improvement 34 (50.0%) 127 (45.2%)
+≥ 75% improvement 52 (76.5%) 170 (60.5%)
+≥ 50% improvement 61 (89.7%) 193 (68.7%)
+PGA of cleared (0) or minimal (1) 46 (67.6%) 149 (53.0%)
+PGA of cleared (0), minimal (1), or mild (2) 59 (86.8%) 189 (67.3%)
+
+a: p < 0.001, for each infliximab treatment group vs. control b: n = 292

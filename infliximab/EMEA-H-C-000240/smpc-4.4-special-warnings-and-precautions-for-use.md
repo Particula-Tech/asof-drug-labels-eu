@@ -2,7 +2,6 @@
 
 Infusion reactions and hypersensitivity
 Infliximab has been associated with acute infusion-related reactions, including, anaphylactic shock, and delayed hypersensitivity reactions (see section 4.8: “Undesirable effects”).
-
 Acute infusion reactions including anaphylactic reactions may develop during (within seconds) or within a few hours following infusion.
 If acute infusion reactions occur, the infusion must be interrupted immediately.
 Emergency equipment, such as adrenaline, antihistamines, corticosteroids and an artificial airway must be available.
@@ -10,7 +9,7 @@ Patients may be pretreated with e.g., an antihistamine, hydrocortisone and/or pa
 
 Antibodies to infliximab may develop and have been associated with an increased frequency of infusion reactions.
 A low proportion of the infusion reactions was serious allergic reactions.
-In Crohn's disease patients, an association between development of antibodies to infliximab and reduced duration of response has also been observed.
+An association between development of antibodies to infliximab and reduced duration of response has also been observed.
 Concomitant administration of immunomodulators has been associated with lower incidence of antibodies to infliximab and a reduction in the frequency of infusion reactions.
 The effect of concomitant immunomodulator therapy was more profound in episodically treated patients than in patients given maintenance therapy.
 Patients who discontinue immunosuppressants prior to or during Remicade treatment are at greater risk of developing these antibodies.
@@ -48,7 +47,6 @@ In this situation, the benefit/ risk balance of Remicade therapy should be very 
 Patients with fistulising Crohn’s disease with acute suppurative fistulas must not initiate Remicade therapy until a source for possible infection, specifically abscess, has been excluded (see section 4.3).
 
 All patients should be informed to seek medical advice if signs/symptoms suggestive of tuberculosis (e.g. persistent cough, wasting/weight loss, low-grade fever) appear during or after Remicade treatment.
-
 Reactivation of hepatitis B occurred in patients receiving Remicade who are chronic carriers of this virus (i.e. surface antigen positive).
 Chronic carriers of hepatitis B should be appropriately evaluated and monitored prior to the initiation of and during treatment with Remicade.
 
@@ -62,6 +60,7 @@ Concurrent administration of TNF-alpha inhibitor and anakinra
 Serious infections were seen in clinical studies with concurrent use of anakinra and another TNFα-blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
 Because of the nature of the adverse events seen with combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNFα-blocking agents.
 Therefore, the combination of Remicade and anakinra is not recommended.
+
 Vaccinations
 No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
 It is recommended that live vaccines not be given concurrently.
@@ -78,11 +77,12 @@ Malignancies and lymphoproliferative disorders
 In the controlled portions of clinical trials of TNF-blocking agents, more cases of lymphoma have been observed among patients receiving a TNF blocker compared with control patients.
 However, the occurrence was rare, and the follow up period of placebo patients was shorter than for patients receiving TNF-blocking therapy.
 Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with longstanding, highly active, inflammatory disease, which complicates the risk estimation.
-With the current knowledge, a possible risk for the development of lymphomas or other malignancies in patients treated with a TNF-blocking agent cannot be excluded.
-
+In an exploratory clinical trial evaluating the use of Remicade in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies were reported in Remicade-treated patients compared with control patients.
+All patients had a history of heavy smoking.
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving Remicade.
-Thus additional caution should be exercised in considering Remicade treatment of these patients (see section 4.8).
-
+Thus additional caution should be exercised in considering Remicade treatment of these patients as well as in patients with increased risk for malignancy due to heavy smoking.
+With the current knowledge, a risk for the development of lymphomas or other malignancies in patients treated with a TNF-blocking agent cannot be excluded (see Section 4.8).
+Caution should also be exercised in patients with psoriasis and a medical history of extensive immunosuppressant therapy or prolonged PUVA treatment.
 Heart failure
 Remicade should be used with caution in patients with mild heart failure (NYHA class I/II).
 Patients should be closely monitored and Remicade must not be continued in patients who develop new or worsening symptoms of heart failure (see sections 4.3 and 4.8).

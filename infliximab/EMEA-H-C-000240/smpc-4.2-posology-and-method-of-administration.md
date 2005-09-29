@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Remicade is for intravenous use in adults and has not been studied in children (0-17 years).
+
 Remicade treatment is to be administered under the supervision and monitoring of specialised physicians experienced in the diagnosis and treatment of rheumatoid arthritis, inflammatory bowel diseases, or ankylosing spondylitis.
 Patients treated with Remicade should be given the package leaflet and the special Alert card.
 The recommended infusion time is 2 hours.
@@ -34,13 +35,18 @@ In responding patients, the strategies for continued treatment are:
 - Readministration if signs and symptoms of the disease recur followed by infusions of 5 mg/kg every 8 weeks (see ‘Readministration’ below and section 4.4).
 
 In Crohn’s disease, experience with readministration if signs and symptoms of disease recur is limited and comparative data on the benefit / risk of the alternative strategies for continued treatment are lacking.
-
 Ankylosing spondylitis
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 6 to 8 weeks.
 If a patient does not respond by 6 weeks (i.e. after 2 doses), no additional treatment with infliximab should be given.
+
 Psoriatic arthritis
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 Efficacy and safety have been demonstrated in combination with methotrexate.
+
+Psoriasis
+5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
+If a patient shows no response after 14 weeks (i.e. after 4 doses), no additional treatment with infliximab should be given.
+
 Readministration for Crohn’s disease and rheumatoid arthritis
 If the signs and symptoms of disease recur, Remicade can be readministered within 16 weeks following the last infusion.
 In clinical studies, delayed hypersensitivity reactions have been uncommon and have occurred after drug free intervals of less than 1 year (see section 4.4 and 4.8: delayed hypersensitivity).
@@ -52,5 +58,8 @@ The safety and efficacy of readministration, other than every 6 to 8 weeks, has 
 
 Readministration for psoriatic arthritis
 The safety and efficacy of readministration, other than every 8 weeks, has not been established.
+
+Readministration for psoriasis
+Limited experience from retreatment with one single infliximab dose in psoriasis after an interval of 20 weeks suggests reduced efficacy and a higher incidence of mild to moderate infusion reactions when compared to the initial induction regimen (see section 5.1).
 
 For preparation and administration instructions, see section 6.6.
