@@ -29,6 +29,7 @@ The table below lists the related grade 3 and 4 adverse drug reactions for the 1
 
 *Common >1/100 and <1/10
 **Uncommon >1/1,000 and <1/100
+
 During TRISENOX treatment, 13 of the 52 patients in the APL studies had one or more symptoms of APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leukocytosis (see Section 4.4).
 Twenty-seven patients had leukocytosis (WBC ≥ 10 x 103/µl) during induction, 4 of whom had values above 100,000/µl.
 Baseline white blood cell (WBC) counts did not correlate with development of leukocytosis on study, and WBC counts during consolidation therapy were not as high as during induction.
@@ -36,7 +37,6 @@ In these studies, leukocytosis was not treated with chemotherapeutic medicinal p
 Medicinal products that are used to lower the white blood cell count often exacerbate the toxicities associated with leukocytosis, and no standard approach has proven effective.
 One patient treated under a compassionate use program died from cerebral infarct due to leukocytosis, following treatment with chemotherapeutic medicinal products to lower WBC count.
 Observation is the recommended approach with intervention only in selected cases.
-
 Mortality in the pivotal studies from disseminated intravascular coagulation (DIC) associated haemorrhage was very common (> 10%), which is consistent with the early mortality reported in the literature.
 
 Arsenic trioxide can cause QT interval prolongation (see Section 4.4).
@@ -60,8 +60,7 @@ All occurred with a frequency of Uncommon (>1/1,000 and <1/100).
 | Psychiatric Disorders | Confusional state |
 | Nervous System Disorders | Convulsions Dizziness |
 | Eye Disorders | Vision blurred |
-| Cardiac Disorders | Cardiac failure |
-|  | Ventricular extrasystoles Ventricular tachycardia |
+| Cardiac Disorders | Cardiac failure Ventricular extrasystoles Ventricular tachycardia |
 | Vascular Disorders | Hypotension |
 | Respiratory, Thoracic and Mediastinal Disorders | Pneumonitis |
 | Gastrointestinal Disorders | Abdominal pain Vomiting |
