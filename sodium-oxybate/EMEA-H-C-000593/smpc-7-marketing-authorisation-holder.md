@@ -1,0 +1,8 @@
+# 7. MARKETING AUTHORISATION HOLDER
+
+UCB Pharma Ltd
+208 Bath Road
+Slough
+Berkshire
+SL1 3WE
+UK
