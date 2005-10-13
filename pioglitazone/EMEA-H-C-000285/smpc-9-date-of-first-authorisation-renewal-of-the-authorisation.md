@@ -1,6 +1,6 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-13-10-2000
+Date of first authorisation: 13-10-2000
 
 [Actos 30 mg tablets.]
 
@@ -8,4 +8,4 @@
 
 [Actos 45 mg tablets.]
 
-16-09-2003
+Date of fist authorisation: 16-09-2003

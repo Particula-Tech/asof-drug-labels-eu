@@ -42,3 +42,5 @@ Others:
 As a consequence of enhancing insulin action, pioglitazone treatment in patients with polycystic ovarian syndrome may result in resumption of ovulation.
 These patients may be at risk of pregnancy.
 Patients should be aware of the risk of pregnancy and if a patient wishes to become pregnant or if pregnancy occurs, the treatment should be discontinued (see section 4.6).
+
+Actos tablets contain lactose monohydrate and therefore should not be administered to patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption.
