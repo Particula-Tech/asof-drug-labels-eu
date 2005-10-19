@@ -48,9 +48,10 @@ Management of orthostatic/postural hypotension may include adjustment of antihyp
 Patients should be instructed to seek medical advice if they experience symptoms of dizziness, light-headedness or fainting spells.
 
 Heart failure
-Development or exacerbation of congestive heart failure has been reported during bortezomib treatment.
+Acute development or exacerbation of congestive heart failure, and/or new onset of decreased left ventricular ejection fraction has been reported during bortezomib treatment.
 In a phase III randomized, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
 Fluid retention may be a predisposing factor for signs and symptoms of heart failure.
+Patients with risk factors for or existing heart disease should be closely monitored.
 
 ECG Investigations
 There have been isolated cases of QT-interval prolongation in clinical studies, causality has not been established.
@@ -62,6 +63,11 @@ Such patients should be monitored closely and dose reduction considered.
 
 Hepatic Impairment
 Patients with hepatic impairment should be treated with extreme caution and a dose reduction should be considered (see sections 4.2 and 4.3).
+
+Hepatic Reactions
+Rare cases of acute liver failure have been reported in patients receiving multiple concomitant medications and with serious underlying medical conditions.
+Other reported hepatic reactions include increases in liver enzymes, hyperbilirubinaemia, and hepatitis.
+Such changes may be reversible upon discontinuation of bortezomib (see section 4.8).
 
 Tumour lysis syndrome
 Because bortezomib is a cytotoxic agent and can rapidly kill malignant plasma cells, the complications of tumour lysis syndrome may occur.
@@ -76,7 +82,6 @@ Precautions with certain concomitant medicinal products
 Patients should be monitored closely when given bortezomib in combination with potent CYP3A4- inhibitors.
 Caution should be exercised when bortezomib is combined with CYP3A4- or CYP2C19 substrates (see section 4.5).
 Normal liver function should be confirmed and caution should be exercised in patients receiving oral hypoglycemics (see section 4.5).
-
 Potentially immunocomplex-mediated reactions
 Potentially immunocomplex-mediated reactions, such as serum-sickness –type reaction, polyarthritis with rash and proliferative glomerulonephritis have been reported uncommonly.
 Bortezomib should be discontinued if serious reactions occur.
