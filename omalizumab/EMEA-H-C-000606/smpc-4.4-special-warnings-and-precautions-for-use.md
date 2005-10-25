@@ -1,0 +1,38 @@
+# 4.4 Special warnings and special precautions for use
+
+General
+Xolair is not indicated for the treatment of acute asthma exacerbations, acute bronchospasm or status asthmaticus.
+
+Xolair has not been studied in patients with hyperimmunoglobulin E syndrome or allergic bronchopulmonary aspergillosis or for the prevention of anaphylactic reactions, including those provoked by food allergy.
+Xolair therapy has not been studied in patients with autoimmune diseases, immune complex-mediated conditions, or pre-existing renal or hepatic impairment.
+Caution should be exercised when administering Xolair in these patient populations.
+
+Abrupt discontinuation of systemic or inhaled corticosteroids after initiation of Xolair therapy is not recommended.
+Decreases in corticosteroids should be performed under the direct supervision of a physician and may need to be performed gradually.
+
+Patients with diabetes mellitus, the glucose-galactose malabsorption syndrome, fructose intolerance or sucrase-isomaltase deficiency should be warned that one 75 mg Xolair dose contains 54 mg of sucrose.
+
+Allergic reactions
+As with any protein, local or systemic allergic reactions, including anaphylaxis, may occur.
+Therefore medications for the treatment of anaphylactic reactions should be available for immediate use following administration of Xolair.
+Patients should be informed that such reactions are possible and prompt medical attention should be sought if allergic reactions occur.
+Anaphylactic reactions were rare in clinical trials (see section 4.8).
+
+As with all recombinant DNA derived humanised monoclonal antibodies, patients may in rare cases develop antibodies to omalizumab.
+
+Parasitic (helminth) infections
+IgE may be involved in the immunological response to some helminth infections.
+In patients at chronic high risk of helminth infection, a placebo-controlled trial showed a slight increase in infection rate with omalizumab, although the course, severity, and response to treatment of infection were unaltered.
+The helminth infection rate in the overall clinical programme, which was not designed to detect such infections, was less than 1 in 1,000 patients.
+However, caution may be warranted in patients at high risk of helminth infection, in particular when travelling to areas where helminthic infections are endemic.
+If patients do not respond to recommended anti-helminth treatment, discontinuation of Xolair should be considered.
+
+Malignancies
+During clinical trials, there was a numerical imbalance in cancers arising in the Xolair treatment group compared with the control group.
+The frequency of observed cases was uncommon (<1/100) in both the active and the control group, i.e. 25 cancers in 5,015 patients treated with Xolair (0.5%) and 5 cancers in 2,854 patients in the control group (0.18%).
+The diversity in the type of cancers observed, the relatively short duration of exposure and the clinical features of the individual cases render a causal relationship unlikely.
+The overall observed incidence rate of malignancy in the Xolair clinical trial programme was comparable to that reported in the general population.
+
+[Xolair 150 mg powder and solvent for solution for injection]
+
+Patients with diabetes mellitus, the glucose-galactose malabsorption syndrome, fructose intolerance or sucrase-isomaltase deficiency should be warned that one 150 mg Xolair dose contains 108 mg of sucrose.
