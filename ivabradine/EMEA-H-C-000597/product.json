@@ -1,0 +1,16 @@
+{
+  "active_substance": "ivabradine hydrochloride",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000597",
+  "eu_number": "EU/1/05/316",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2005-10-25",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/procoralan",
+  "molecule": "ivabradine",
+  "molecule_name": "IVABRADINE",
+  "name": "Procoralan",
+  "register_name": "Procoralan",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h316.htm"
+}

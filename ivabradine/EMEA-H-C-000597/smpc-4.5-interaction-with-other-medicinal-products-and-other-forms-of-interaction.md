@@ -1,0 +1,41 @@
+# 4.5 Interaction with other medicinal products and other forms of interaction
+
+Pharmacodynamic interactions
+
+Concomitant use not recommended
+QT prolonging medicinal products
+- Cardiovascular QT prolonging medicinal products (e.g. quinidine, disopyramide, bepridil, sotalol, ibutilide, amiodarone).
+- Non cardiovascular QT prolonging medicinal products (e.g. pimozide, ziprasidone, sertindole, mefloquine, halofantrine, pentamidine, cisapride, erythromycin IV).
+The concomitant use of cardiovascular and non cardiovascular QT prolonging medicinal products with ivabradine should be avoided since QT prolongation may be exacerbated by heart rate reduction.
+If the combination appears necessary, close cardiac monitoring is needed (see section 4.4).
+
+Pharmacokinetic interactions
+
+Cytochrome P450 3A4 (CYP3A4)
+Ivabradine is metabolised by CYP3A4 only and it is a very weak inhibitor of this cytochrome.
+Ivabradine was shown not to influence the metabolism and plasma concentrations of other CYP3A4 substrates (mild, moderate and strong inhibitors).
+CYP3A4 inhibitors and inducers are liable to interact with ivabradine and influence its metabolism and pharmacokinetics to a clinically significant extent.
+Drug-drug interaction studies have established that CYP3A4 inhibitors increase ivabradine plasma concentrations, while inducers decrease them.
+Increased plasma concentrations of ivabradine may be associated with the risk of excessive bradycardia (see section 4.4).
+
+Contra-indication of concomitant use
+The concomitant use of potent CYP3A4 inhibitors such as azole antifungals (ketoconazole, itraconazole), macrolide antibiotics (clarithromycin, erythromycin per os, josamycin, telithromycin), HIV protease inhibitors (nelfinavir, ritonavir) and nefazodone is contra-indicated (see section 4.3).
+The potent CYP3A4 inhibitors ketoconazole (200 mg once daily) and josamycin (1 g twice daily) increased ivabradine mean plasma exposure by 7 to 8 fold.
+
+Concomitant use not recommended
+Moderate CYP3A4 inhibitors: specific interaction studies in healthy volunteers and patients have shown that the combination of ivabradine with the heart rate reducing agents diltiazem or verapamil resulted in an increase in ivabradine exposure (2 to 3 fold increase in AUC) and an additional heart rate reduction of 5 bpm.
+The concomitant use of ivabradine with these medicinal products is not recommended (see section 4.4).
+
+Concomitant use with precautions
+- Moderate CYP3A4 inhibitors: the concomitant use of ivabradine with other moderate CYP3A4 inhibitors (e.g. fluconazole) may be considered at the starting dose of 2.5 mg twice daily and if resting heart rate is above 60 bpm, with monitoring of heart rate.
+- Grapefruit juice: ivabradine exposure was increased by 2-fold following the co-administration with grapefruit juice.
+Therefore the intake of grapefruit juice should be restricted during the treatment with ivabradine.
+- CYP3A4 inducers: CYP3A4 inducers (e.g. rifampicin, barbiturates, phenytoin, Hypericum perforatum [St John’s Wort]) may decrease ivabradine exposure and activity.
+The concomitant use of CYP3A4 inducing medicinal products may require an adjustment of the dose of ivabradine.
+The combination of ivabradine 10 mg twice daily with St John’s Wort was shown to reduce ivabradine AUC by half.
+The intake of St John’s Wort should be restricted during the treatment with ivabradine.
+
+Other concomitant use
+Specific drug-drug interaction studies have shown no clinically significant effect of the following medicinal products on pharmacokinetics and pharmacodynamics of ivabradine: proton pump inhibitors (omeprazole, lansoprazole), sildenafil, HMG CoA reductase inhibitors (simvastatin), dihydropyridine calcium channel blockers (amlodipine, lacidipine), digoxin and warfarin.
+In addition there was no clinically significant effect of ivabradine on the pharmacokinetics of simvastatin, amlodipine, lacidipine, on the pharmacokinetics and pharmacodynamics of digoxin, warfarin and on the pharmacodynamics of aspirin.
+In pivotal phase III clinical trials the following medicinal products were not restricted and therefore were routinely combined with ivabradine with no evidence of safety concerns: angiotensin converting enzyme inhibitors, angiotensin II antagonists, diuretics, short and long acting nitrates, HMG CoA reductase inhibitors, fibrates, proton pump inhibitors, oral antidiabetics, aspirin and other anti-platelet agents.
