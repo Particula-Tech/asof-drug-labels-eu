@@ -26,12 +26,14 @@ Rare: pancreatitis
 Hepatobiliary disorders:
 Rare: increased transaminases
 Very rare: hepatitis
+
 Skin and subcutaneous tissue disorders:
 Rare: rash
 
 Renal and urinary disorders:
 Rare: renal failure, acute renal failure, proximal tubulopathy (including Fanconi syndrome), increased creatinine
 Very rare: acute tubular necrosis
+In addition, there have been post-marketing reports of nephritis and nephrogenic diabetes insipidus.
 
 General disorders and administration site conditions:
 Very rare: asthenia

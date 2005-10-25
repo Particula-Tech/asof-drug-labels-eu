@@ -13,9 +13,9 @@ Renal impairment, which may include hypophosphataemia, has been reported with th
 Monitoring of renal function (creatinine clearance and serum phosphate) is recommended before taking tenofovir disoproxil fumarate, every four weeks during the first year, and then every three months.
 In patients at risk for, or with a history of, renal dysfunction, and patients with renal insufficiency, consideration should be given to more frequent monitoring of renal function.
 
-If serum phosphate is < 1.5 mg/dl (0.48 mmol/l) or creatinine clearance is decreased to < 50 ml/min, renal function should be re-evaluated within one week and the dose interval of Viread adjusted (see 4.2).
-Consideration should also be given to interrupting treatment with tenofovir disoproxil fumarate in patients with creatinine clearance decreased to < 50 ml/min or decreases in serum phosphate to
-< 1.0 mg/dl (0.32 mmol/l).
+If serum phosphate is < 1.5 mg/dl (0.48 mmol/l) or creatinine clearance is decreased to < 50 ml/min, renal function should be re-evaluated within one week, including measurements of blood glucose, blood potassium and urine glucose concentrations (see section 4.8, proximal tubulopathy), and the dose interval of Viread adjusted (see 4.2).
+Consideration should also be given to interrupting treatment with tenofovir disoproxil fumarate in patients with creatinine clearance decreased to
+< 50 ml/min or decreases in serum phosphate to < 1.0 mg/dl (0.32 mmol/l).
 
 Tenofovir disoproxil fumarate has not been evaluated in patients receiving nephrotoxic medicinal products (e.g. aminoglycosides, amphotericin B, foscarnet, ganciclovir, pentamidine, vancomycin, cidofovir or interleukin-2).
 Use of tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic medicinal product.
@@ -96,6 +96,7 @@ Rare cases of pancreatitis and lactic acidosis, sometimes fatal, have been repor
 A reduced didanosine dose (250 mg) has been tested to avoid over-exposure to didanosine in case of co-administration with tenofovir disoproxil fumarate, but this has been associated with reports of high rate of virological failure and of emergence of resistance at early stage within several tested combinations.
 Co-administration of tenofovir disoproxil fumarate and didanosine is therefore not recommended, especially in patients with high viral load and low CD4 cell count.
 If this combination is judged strictly necessary, patients should be carefully monitored for efficacy and didanosine related adverse events.
+
 Triple nucleoside therapy: There have been reports of a high rate of virological failure and of emergence of resistance at early stage when tenofovir disoproxil fumarate was combined with lamivudine and abacavir as well as with lamivudine and didanosine as a once daily regimen.
 
 Patients must be advised that antiretroviral therapies, including tenofovir disoproxil fumarate, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
