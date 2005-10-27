@@ -15,26 +15,31 @@ It is recommended that a standard
 This medicinal product is for single use only and any unused solution should be discarded and only clear solutions without particles should be used.
 
 For administration, the required volume of the reconstituted concentrate is added to a recommended compatible infusion solution (detailed below) to obtain a final voriconazole solution containing 0.5-5mg/ml.
+
 Required Volumes of 10 mg/ml VFEND Concentrate
 
-| Body Weight (kg) | Volume of VFEND Concentrate (10 mg/ml) required for: |  |  |
-| --- | --- | --- | --- |
-|  | 3mg/kg dose (number of vials) | 4mg/kg dose (number of vials) | 6mg/kg dose (number of vials) |
-| 30 | 9.0ml (1) | 12ml (1) | 18ml(1) |
-| 35 | 10.5ml (1) | 14ml (1) | 21ml (2) |
-| 40 | 12.0ml (1) | 16ml (1) | 24ml (2) |
-| 45 | 13.5ml (1) | 18ml (1) | 27ml (2) |
-| 50 | 15.0ml (1) | 20ml (1) | 30ml (2) |
-| 55 | 16.5ml (1) | 22ml (2) | 33ml (2) |
-| 60 | 18.0ml (1) | 24ml (2) | 36ml (2) |
-| 65 | 19.5ml (1) | 26ml (2) | 39ml (2) |
-| 70 | 21.0ml (2) | 28ml (2) | 42ml (3) |
-| 75 | 22.5ml (2) | 30ml (2) | 45ml (3) |
-| 80 | 24.0ml (2) | 32ml (2) | 48ml (3) |
-| 85 | 25.5ml (2) | 34ml (2) | 51ml (3) |
-| 90 | 27.0ml (2) | 36ml (2) | 54ml (3) |
-| 95 | 28.5ml (2) | 38ml (2) | 57ml (3) |
-| 100 | 30.0ml (2) | 40ml (2) | 60ml (3) |
+| Body Weight (kg) | Volume of VFEND Concentrate (10mg/ml) required for: |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | 3mg/kg dose (number of vials) | 4mg/kg dose (number of vials) | 6mg/kg dose (number of vials) | 7mg/kg dose (number of vials) |
+| 10 | - | 4.0ml (1) | - | 7.0ml (1) |
+| 15 | - | 6.0ml (1) | - | 10.5ml (1) |
+| 20 | - | 8.0ml (1) | - | 14.0ml (1) |
+| 25 | - | 10.0ml (1) | - | 17.5ml (1) |
+| 30 | 9.0ml (1) | 12.0ml (1) | 18.0ml (1) | 21.0ml (2) |
+| 35 | 10.5ml (1) | 14.0ml (1) | 21.0ml (2) | 24.5ml (2) |
+| 40 | 12.0ml (1) | 16.0ml (1) | 24.0ml (2) | 28.0ml (2) |
+| 45 | 13.5ml (1) | 18.0ml (1) | 27.0ml (2) | 31.5ml (2) |
+| 50 | 15.0ml (1) | 20.0ml (1) | 30.0ml (2) | 35.0ml (2) |
+| 55 | 16.5ml (1) | 22.0ml (2) | 33.0ml (2) | - |
+| 60 | 18.0ml (1) | 24.0ml (2) | 36.0ml (2) | - |
+| 65 | 19.5ml (1) | 26.0ml (2) | 39.0ml (2) | - |
+| 70 | 21.0ml (2) | 28.0ml (2) | 42.0ml (3) | - |
+| 75 | 22.5ml (2) | 30.0ml (2) | 45.0ml (3) | - |
+| 80 | 24.0ml (2) | 32.0ml (2) | 48.0ml (3) | - |
+| 85 | 25.5ml (2) | 34.0ml (2) | 51.0ml (3) | - |
+| 90 | 27.0 ml (2) | 36.0 ml (2) | 54.0 ml (3) | - |
+| 95 | 28.5 ml (2) | 38.0 ml (2) | 57.0 ml (3) | - |
+| 100 | 30.0 ml (2) | 40.0 ml (2) | 60.0 ml (3) | - |
 
 Voriconazole is a single dose unpreserved sterile lyophile.
 Therefore, from a microbiological point of view, the reconstituted solution must be used immediately.

@@ -69,6 +69,16 @@ In the therapeutic studies no dosage adjustment was made on the basis of age.
 A relationship between plasma concentrations and age was observed.
 The safety profile of voriconazole in young and elderly patients was similar and, therefore, no dosage adjustment is necessary for the elderly (see section 4.2).
 
+Paediatric
+
+The recommended oral dose in paediatrics is based on a population pharmacokinetic analysis of data obtained from 47 immunocompromised paediatric patients aged 2 to <12 years old who were evaluated in a pharmacokinetic study examining multiple oral suspension doses of 4 and 6 mg/kg twice daily.
+A comparison of the paediatric and adult population pharmacokinetic data indicated that in order to obtain comparable exposures to those obtained in adults following a maintenance dose of 200 mg twice daily, 200 mg of oral solution twice daily is required in paediatric patients, independent of body weight.
+In paediatric patients there is a general trend towards low bioavailability at lower body weights and high bioavailability at higher body weights (approaching the extent demonstrated in adults).
+Based on the population pharmacokinetic analysis, no dosage adjustment according to age or weight is warranted in patients aged 2 to <12 years old at the 200 mg b.i.d. oral solution dosing regimen.
+A loading dose is not indicated in paediatric patients.
+Oral bioavailability may, however, be limited in paediatric patients with malabsorption and very low body weight for their age.
+In that case, intravenous voriconazole administration is recommended.
+
 Renal impairment
 In an oral single dose (200mg) study in subjects with normal renal function and mild (creatinine clearance 41-60ml/min) to severe (creatinine clearance <20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.
 The plasma protein binding of voriconazole was similar in subjects with different degrees of renal impairment.
@@ -100,10 +110,15 @@ After administration of a radiolabelled dose of voriconazole, approximately 80 %
 No significant differences in Cmax and AUCτ were observed between healthy elderly females (≥65 years) and healthy young females (18- 45 years).
 
 Paediatrics
-A population pharmacokinetic analysis was conducted on data from 35 immunocompromised subjects aged 2 to <12 years old who were included in the intravenous single or multiple dose pharmacokinetic studies.
-Twenty four of these subjects received multiple doses of voriconazole.
-Average steady state plasma concentrations in children receiving a maintenance dose of 4mg/kg every 12 hours were similar to those in adults receiving 3 mg/kg every 12hours, with medians of 1186 ng /ml in children and 1155ng /ml in adults.
-Therefore a maintenance dose of 4mg/kg every 12 hours is recommended for children aged between 2 to <12 years of age.
+
+The recommended intravenous dose in paediatric patients is based on a population pharmacokinetic analysis of data pooled from 82 immunocompromised paediatric patients aged 2 to <12 years old who were evaluated in three pharmacokinetic studies (examining single intravenous doses of 3 and 4mg/kg twice daily, multiple intravenous doses of 3, 4, 6 and 8mg/kg twice daily and multiple oral suspension doses of 4 and 6mg/kg twice daily).
+The majority of patients received more than one dose level with a maximum duration of dosing of 30 days.
+
+A comparison of the paediatric and adult population pharmacokinetic data indicated that in order to obtain comparable exposures to those obtained in adults following intravenous maintenance doses of 4mg/kg twice daily, intravenous maintenance doses of 7mg/kg twice daily are required in paediatric patients.
+The higher intravenous maintenance dose in paediatric patients relative to adults reflects the higher elimination capacity in paediatric patients due to a greater liver mass to body mass ratio.
+In order to obtain comparable exposures to those obtained in adults following intravenous maintenance doses of 3mg/kg twice daily, intravenous maintenance doses of 4mg/kg twice daily are required in paediatric patients.
+
+Based on the population pharmacokinetic analysis, no loading dose or dosage adjustment according to age is warranted in patients aged 2 to <12 years old.
 
 In patients with moderate to severe renal dysfunction (serum creatinine levels >2.5mg /dl), accumulation of the intravenous vehicle, SBECD, occurs.
 

@@ -16,13 +16,13 @@ Furthermore, there does not appear to be a correlation between plasma levels and
 This is typical of azole antimycotics.
 
 Microbiology
-
 Clinical efficacy (with partial or complete response, see below under Clinical Experience) has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans, Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis and limited numbers of C. dubliniensis, C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans and Fusarium spp.
 
 Other treated fungal infections (with often partial or complete response) included isolated cases of
 Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and
 Trichosporon spp. including T. beigelii infections.
 In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2 µg/ml.
+
 In vitro activity against the following pathogens has been shown, but the clinical significance is unknown: Curvularia spp. and Sporothrix spp.
 
 Specimens for fungal culture and other relevant laboratory studies (serology, histopathology) should be obtained prior to therapy to isolate and identify causative organisms.
@@ -67,8 +67,6 @@ The Investigator’s assessment of successful outcome at each of these time poin
 | 6 weeks after EOT | 104 (42%) | 55 (45%) |
 | 12 weeks after EOT | 104 (42%) | 51 (42%) |
 
-There are no data in children below the age of 12 years for this indication.
-
 Serious refractory Candida infections
 The study comprised 55 patients with serious refractory systemic Candida infections (including candidaemia, disseminated and other invasive candidiasis) where prior antifungal treatment, particularly with fluconazole, had been ineffective.
 Successful response was seen in 24 patients (15 complete, 9 partial responses).
@@ -93,7 +91,6 @@ In clinical trials, 561 patients received voriconazole therapy for greater than 
 Experience in paediatric patients
 Sixty one paediatric patients aged 9 months up to 15 years who had definite or probable invasive fungal infections, were treated with voriconazole.
 This population included 34 patients 2 to < 12 years old and 20 patients 12-15 years of age.
-
 The majority (57/61) had failed previous antifungal therapies.
 Therapeutic studies included 5 patients aged 12-15 years, the remaining patients received voriconazole in the compassionate use programmes.
 Underlying diseases in these patients included haematological malignancies and aplastic anaemia (27 patients) and chronic granulomatous disease (14 patients).

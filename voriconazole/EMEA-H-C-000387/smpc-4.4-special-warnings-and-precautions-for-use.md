@@ -1,6 +1,7 @@
 # 4.4 Special warnings and special precautions for use
 
 Hypersensitivity: Caution should be used in prescribing VFEND to patients with hypersensitivity to other azoles (see also section 4.8).
+
 Cardiovascular:
 Some azoles, including voriconazole have been associated with QT interval prolongation.
 There have been rare cases of torsade de pointes in patients taking voriconazole who had risk factors, such as history of cardiotoxic chemotherapy, cardiomyopathy, hypokalaemia and concomitant medications that may have been contributory.
@@ -24,6 +25,7 @@ Liver dysfunction has usually been reversible on discontinuation of therapy (see
 Monitoring of hepatic function: Patients at the beginning of therapy with voriconazole and patients who develop abnormal liver function tests during VFEND therapy must be routinely monitored for the development of more severe hepatic injury.
 Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
 Discontinuation of VFEND should be considered if clinical signs and symptoms are consistent with liver disease development.
+Monitoring of hepatic function should be carried out in both children and adults.
 
 Renal adverse events: Acute renal failure has been observed in severely ill patients undergoing treatment with VFEND.
 Patients being treated with voriconazole are likely to be treated concomitantly with nephrotoxic medications and have concurrent conditions that may result in decreased renal function (see section 4.8).
@@ -37,12 +39,16 @@ In addition VFEND has been associated with photosensitivity skin reaction especi
 It is recommended that patients should be informed to avoid sunlight during the treatment.
 
 Paediatric use: Safety and effectiveness in paediatric subjects below the age of two years has not been established (see also section 5.1).
-
+Voriconazole is indicated for paediatric patients aged two years or older.
+Hepatic function should be monitored in both children and adults.
+Oral bioavailability may be limited in paediatric patients aged 2-<12 years with malabsorption and very low body weight for age.
+In that case, intravenous voriconazole administration is recommended.
 Phenytoin (CYP2C9 substrate and potent CYP450 inducer): Careful monitoring of phenytoin levels is recommended when phenytoin is coadministered with voriconazole.
 Concomitant use of voriconazole and phenytoin should be avoided unless the benefit outweighs the risk (see section 4.5).
 
 Rifabutin (CYP450 inducer): Careful monitoring of full blood counts and adverse events to rifabutin (e.g. uveitis) is recommended when rifabutin is coadministered with voriconazole.
 Concomitant use of voriconazole and rifabutin should be avoided unless the benefit outweighs the risk (see section 4.5).
+
 Methadone (CYP3A4 substrate).
 Frequent monitoring for adverse events and toxicity related to methadone, including QTc prolongation, is recommended when coadministered with voriconazole since methadone levels increased following co-administration of voriconazole.
 Dose reduction of methadone may be needed (see section 4.5).

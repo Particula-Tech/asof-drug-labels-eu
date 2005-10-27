@@ -51,19 +51,22 @@ Patients with hepatic impairment must be carefully monitored for drug toxicity (
 Use in children
 Safety and effectiveness in paediatric subjects below the age of 2 years has not been established (see also section 5.1).
 Therefore voriconazole is not recommended for children less than 2 years of age.
-Limited data are currently available to determine the optimal posology.
-However, the following regimen has been used in paediatric studies.
 
-Children aged 2 to < 12 years:
+The recommended maintenance dosing regimen in paediatric patients 2 to <12 years is as follows:
 
-|  | Intravenous | Oral |
+|  | Intravenous* | Oral** |
 | --- | --- | --- |
-| Loading Dose Regimen (first 24 hours) | 6mg/kg every 12 hours (for the first 24 hours) | 6mg/kg every 12 hours (for the first 24 hours) |
-| Maintenance Dose (after first 24 hours) | 4mg/kg twice daily | 4mg/kg twice daily |
+| Loading Dose Regimen | No oral or intravenous loading dose is recommended |  |
+| Maintenance Dose | 7mg/kg twice daily | 200mg twice daily |
 
-If a child is able to swallow tablets, the dose should be administered to the nearest mg/kg dose possible using whole 50mg tablets.
+*Based on a population pharmacokinetic analysis in 82 immunocompromised patients aged 2 to <12 years **Based on a population pharmacokinetic analysis in 47 immunocompromised patients aged 2 to <12 years
 
-The pharmacokinetics and tolerability of higher doses have not been characterised in paediatric populations.
+Use in paediatric patients aged 2 to <12 years with hepatic or renal insufficiency has not been studied (see section 4.8 and section 5.2).
+
+These paediatric dose recommendations are based on studies in which VFEND was administered as the powder for oral suspension.
+Bioequivalence between the powder for oral suspension and tablets has not been investigated in a paediatric population.
+Considering the assumed limited gastro-enteric transit time in paediatrics, the absorption of tablets may be different in paediatric compared to adult patients.
+It is therefore recommended to use the oral suspension formulation in children aged 2-<12.
 
 Adolescents (12 to 16 years of age): should be dosed as adults.
 
@@ -106,6 +109,14 @@ The intravenous vehicle, SBECD, is haemodialysed with a clearance of 55ml/min.
 
 Patients with severe hepatic impairment must be carefully monitored for drug toxicity (see also section 4.8).
 
+|  | Intravenous* | Oral** |
+| --- | --- | --- |
+| Loading Dose Regimen | No oral or intraveneous loading dose is recommended |  |
+| Maintenance Dose | 7mg/kg twice daily | 200mg twice daily |
+
+If paediatric patients are unable to tolderate an intravenous dose of 7mg/kg twice daily, a dose reduction from 7mg/kg to 4mg/kg twice daily may be considered based on the population pharmacokinetic analysis and previous clinical experience.
+This provides equivalent exposure to 3mg/kg twice daily in adults (see section 4.2 use in adults).
+
 [VFEND 40mg/ml powder for oral suspension]
 
 VFEND oral suspension is to be taken at least one hour before, or two hours following, a meal.
@@ -118,11 +129,7 @@ VFEND is also available as 50mg and 200mg film-coated tablets and 200mg powder f
 | Loading Dose Regimen (first 24 hours) | 6mg/kg every 12 hours (for the first 24 hours) | 400mg (10ml) every 12 hours (for the first 24 hours) | 200mg (5ml) every 12 hours (for the first 24 hours) |
 | Maintenance Dose (after first 24 hours) | 4mg/kg twice daily | 200mg (5ml) twice daily | 100mg (2.5ml) twice daily |
 
-Limited data are currently available to determine the optimal posology (See section 5.2).
-
-|  | Intravenous | Oral Suspension |
+|  | Intravenous* | Oral Suspension** |
 | --- | --- | --- |
-| Loading Dose Regimen (first 24 hours) | 6mg/kg every 12 hours (for the first 24 hours) | 6mg/kg every 12 hours (for the first 24 hours) |
-| Maintenance Dose (after first 24 hours) | 4mg/kg twice daily | 4mg/kg twice daily |
-
-The dose should be administered to the nearest 20mg (0.5ml) as the oral syringe is graduated in increments of 0.5ml.
+| Loading Dose Regimen | No oral or intravenous loading dose is recommended |  |
+| Maintenance Dose | 7mg/kg twice daily | 200mg twice daily |

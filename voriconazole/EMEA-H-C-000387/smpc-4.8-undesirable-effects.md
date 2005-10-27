@@ -81,13 +81,18 @@ Patients have rarely developed serious cutaneous reactions, including Stevens-Jo
 
 If patients develop a rash they should be monitored closely and VFEND discontinued if lesions progress.
 Photosensitivity reactions have been reported, especially during long-term therapy (see also section 4.4).
-
 Liver Function Tests
 The overall incidence of clinically significant transaminase abnormalities in the voriconazole clinical programme was 13.4% (200/1493) of subjects treated with voriconazole.
 Liver function test abnormalities may be associated with higher plasma concentrations and/or doses.
 The majority of abnormal liver function tests either resolved during treatment without dose adjustment or following dose adjustment, including discontinuation of therapy.
+
 Voriconazole has been infrequently associated with cases of serious hepatic toxicity in patients with other serious underlying conditions.
 This includes cases of jaundice, and rare cases of hepatitis and hepatic failure leading to death (see section 4.4).
+
+Paediatric Use
+
+The safety of voriconazole was investigated in 245 paediatric patients aged 2 to <12 years who were treated with voriconazole in pharmacokinetic studies (87 paediatric patients) and in compassionate use programs (158 paediatric patients).
+The adverse event profile of these 245 paediatric patients was similar to that in adults.
 
 [VFEND 200mg film-coated tablets]
 

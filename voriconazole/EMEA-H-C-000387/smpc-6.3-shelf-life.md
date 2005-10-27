@@ -18,5 +18,5 @@ Chemical and physical in-use stability has been demonstrated for 24 hours at 2°
 
 [VFEND 40mg/ml powder for oral suspension]
 
-The shelf-life of the powder for oral suspension is 18 months.
+The shelf-life of the powder for oral suspension is 2 years.
 The shelf-life of the constituted suspension is 14 days.

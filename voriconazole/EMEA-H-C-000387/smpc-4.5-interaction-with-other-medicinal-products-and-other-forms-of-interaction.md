@@ -24,12 +24,12 @@ Coadministration of voriconazole with carbamazepine and phenobarbital is contrai
 
 Cimetidine (non-specific CYP450 inhibitor and increases gastric pH): Cimetidine (400mg twice daily) increased voriconazole Cmax and AUCτ by 18 % and 23 %, respectively.
 No dosage adjustment of voriconazole is recommended.
-
 Ranitidine (increases gastric pH): Ranitidine (150mg twice daily) had no significant effect on voriconazole Cmax and AUCτ.
 
 Macrolide antibiotics: Erythromycin (CYP3A4 inhibitor; 1g twice daily) and azithromycin (500mg once daily) had no significant effect on voriconazole Cmax and AUCτ.
 
 Effects of voriconazole on other medicinal products
+
 Voriconazole inhibits the activity of cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
 Therefore there is potential for voriconazole to increase the plasma levels of substances metabolised by these CYP450 isoenzymes.
 
@@ -64,6 +64,7 @@ If patients receiving coumarin preparations are treated simultaneously with vori
 
 Sulphonylureas (CYP2C9 substrates): Although not studied, voriconazole may increase the plasma levels of sulphonylureas, (e.g. tolbutamide, glipizide, and glyburide) and therefore cause hypoglycaemia.
 Careful monitoring of blood glucose is recommended during coadministration.
+
 Statins (CYP3A4 substrates): Although not studied clinically, voriconazole has been shown to inhibit lovastatin metabolism in vitro (human liver microsomes).
 Therefore, voriconazole is likely to increase plasma levels of statins that are metabolised by CYP3A4.
 It is recommended that dose adjustment of the statin be considered during coadministration.
@@ -161,8 +162,6 @@ Phenytoin (CYP2C9 substrate and potent CYP450 inducer): Concomitant use of voric
 Voriconazole (400mg twice daily, see section 4.2) increased Cmax and AUCτ of phenytoin (300mg once daily) by 67% and 81%, respectively.
 
 Rifabutin (CYP450 inducer): Concomitant use of voriconazole and rifabutin should be avoided unless the benefit outweighs the risk.Rifabutin (300mg once daily) decreased the Cmax and AUCτ of voriconazole at 200mg twice daily by 69% and 78%, respectively.
-Voriconazole at
-400mg twice daily increased Cmax and AUCτ of rifabutin by 195% and 331%, respectively.
 
 Indinavir (CYP3A4 inhibitor and substrate): Indinavir (800mg three times daily) had no significant effect on voriconazole Cmax , Cmin and AUCτ.
 
