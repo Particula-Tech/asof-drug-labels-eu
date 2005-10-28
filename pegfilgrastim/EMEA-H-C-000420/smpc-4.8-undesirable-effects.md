@@ -18,7 +18,6 @@ Some of the reported cases have resulted in respiratory failure or Adult Respira
 Rare cases of thrombocytopenia and leukocytosis have been reported.
 
 Very rare cases of Sweet’s syndrome have been reported, although in some cases underlying haematological malignancies may play a role.
-
 Very common (> 10%) and common (> 1%, < 10%) undesirable effects in clinical studies were:
 
 | Body system | Undesirable effects |

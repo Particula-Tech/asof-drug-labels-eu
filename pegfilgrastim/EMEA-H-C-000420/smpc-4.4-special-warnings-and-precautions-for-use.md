@@ -1,6 +1,13 @@
 # 4.4 Special warnings and special precautions for use
 
-The safety and efficacy of Neulasta have not been investigated in patients with acute leukaemia and should not be used in such patients receiving myelosuppressive chemotherapy.
+Limited clinical data suggest a comparable effect on time to recovery of severe neutropenia for pegfilgrastim to filgrastim in patients with de novo acute myeloid leukaemia (see Section 5.1).
+However, the long-term effects of Neulasta have not been established in acute myeloid leukaemia; therefore, it should be used with caution in this patient population.
+
+Granulocyte-colony stimulating factor can promote growth of myeloid cells in vitro and similar effects may be seen on some non-myeloid cells in vitro.
+
+The safety and efficacy of Neulasta have not been investigated in patients with myelodysplastic syndrome, chronic myelogenous leukaemia, and in patients with secondary AML; therefore, it should not be used in such patients.
+Particular care should be taken to distinguish the diagnosis of blast transformation of chronic myeloid leukaemia from acute myeloid leukaemia.
+The safety and efficacy of Neulasta administration in de novo AML patients aged < 55 years with cytogenetics t(15;17) have not been established.
 
 The safety and efficacy of Neulasta have not been investigated in patients receiving high dose chemotherapy.
 
@@ -31,3 +38,7 @@ No adverse events directly attributable to this degree of leucocytosis have been
 Such elevation in White blood cells is transient, typically seen 24 to 48 hours after administration and is consistent with the pharmacodynamic effects of Neulasta.
 
 The safety and efficacy of Neulasta for the mobilisation of blood progenitor cells in patients or healthy donors has not been adequately evaluated.
+
+[Neulasta 6 mg solution for injection. in a pre-filled pen.]
+
+Limited clinical data suggest a similar effect on time to recovery of severe neutropenia for pegfilgrastim to filgrastim in patients with de novo acute myeloid leukaemia (see Section 5.1).
