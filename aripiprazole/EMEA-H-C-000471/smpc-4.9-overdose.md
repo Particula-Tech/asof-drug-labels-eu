@@ -15,3 +15,35 @@ Following any confirmed or suspected overdose with aripiprazole, close medical s
 Activated charcoal (50 g), administered one hour after aripiprazole, decreased aripiprazole Cmax by about 41% and AUC by about 51%, suggesting that charcoal may be effective in the treatment of overdose.
 
 Although there is no information on the effect of haemodialysis in treating an overdose with aripiprazole, haemodialysis is unlikely to be useful in overdose management since aripiprazole is highly bound to plasma proteins.
+
+[ABILIFY 10 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 5 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 10 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+In clinical studies, accidental or intentional acute overdosage of aripiprazole was identified in patients with estimated doses up to 1,080 mg with no fatalities.

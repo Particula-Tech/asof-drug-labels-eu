@@ -69,3 +69,14 @@ Smoking status: according to the metabolic pathway of aripiprazole no dosage adj
 [ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+ABILIFY oral solution may be used as an alternative to ABILIFY tablets for patients who have difficulty swallowing ABILIFY tablets (see section 5.2).
+
+The recommended starting and maintenance dose for aripiprazole is 15 mg/day (i.e. 15 ml solution) administered on a once-a-day schedule without regard to meals.
+A calibrated measuring cup of polypropylene is included in the carton.
+
+Aripiprazole is effective in a dose range of 15 to 30 mg/day (i.e. 15 to 30 ml solution/day).
+
+Gender: no dosage adjustment is required for female patients as compared to male patients (see sections 4.4 and 5.2).

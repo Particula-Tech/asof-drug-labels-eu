@@ -40,3 +40,35 @@ Potential for ABILIFY to affect other medicinal products:
 In clinical studies, 10-30 mg/day doses of aripiprazole had no significant effect on the metabolism of substrates of CYP2D6 (dextromethorphan/3-methoxymorphinan ratio), 2C9 (warfarin), 2C19 (omeprazole), and 3A4 (dextromethorphan).
 Additionally, aripiprazole and dehydro-aripiprazole did not show potential for altering CYP1A2-mediated metabolism in vitro.
 Thus, aripiprazole is unlikely to cause clinically important drug interactions mediated by these enzymes.
+
+[ABILIFY 10 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 5 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 10 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is taken in combination with alcohol or other CNS drugs with overlapping side effects such as sedation (see section 4.8).

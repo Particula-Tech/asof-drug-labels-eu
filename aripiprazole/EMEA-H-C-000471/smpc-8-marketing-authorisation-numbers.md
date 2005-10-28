@@ -16,16 +16,20 @@ EU/1/04/276/016-020
 
 [ABILIFY 5 mg orodispersible tablets]
 
-EU/0/00/000/000
+EU/1/04/276/021-023
 
 [ABILIFY 10 mg orodispersible tablets]
 
-(all sentences already above)
+EU/1/04/276/024-026
 
 [ABILIFY 15 mg orodispersible tablets]
 
-(all sentences already above)
+EU/1/04/276/027-029
 
 [ABILIFY 30 mg orodispersible tablets]
 
-(all sentences already above)
+EU/1/04/276/030-032
+
+[ABILIFY 1 mg/ml oral solution]
+
+EU/0/00/000/000-000

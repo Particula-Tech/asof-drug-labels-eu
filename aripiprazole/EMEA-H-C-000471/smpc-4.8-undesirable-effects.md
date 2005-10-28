@@ -44,3 +44,39 @@ General disorders and adminstration site conditions: chest pain
 Investigations: increased Creatine Phosphokinase, increased Alanine
 
 Aminotransferase (ALT), increased Aspartate Aminotransferase (AST)
+
+[ABILIFY 10 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 5 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 10 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+The following undesirable effects occurred more often than placebo, or were identified as possibly medically relevant adverse drug reactions (*):
+
+The following adverse events have also been reported very rarely (< 1/10,000 including isolated cases) during post-marketing surveillance (the calculation for the frequency is based on an estimate of patient exposure):
+
+General disorders and administration site conditions: chest pain

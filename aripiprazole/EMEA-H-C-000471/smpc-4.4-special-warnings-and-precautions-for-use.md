@@ -54,3 +54,14 @@ Phenylketonurics: ABILIFY orodispersible tablets contain aspartame, a source of 
 [ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+Cerebrovascular adverse events, including stroke, in elderly patients with dementia-related psychosis: in three placebo-controlled trials of aripiprazole in elderly patients with psychosis associated with Alzheimer's disease, cerebrovascular adverse events (e.g. stroke, transient ischaemic attack), including fatalities, were reported in patients (mean age: 84 years; range: 78-88 years).
+
+Intolerance:
+The oral solution contains fructose.
+Patients with rare hereditary problems of fructose intolerance should not take this medicinal product.
+The oral solution contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
+The oral solution contains sucrose.
+Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take the oral solution.

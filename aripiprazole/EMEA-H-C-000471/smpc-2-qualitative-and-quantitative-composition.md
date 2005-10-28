@@ -30,3 +30,7 @@ Each orodispersible tablet contains 15 mg of aripiprazole.
 [ABILIFY 30 mg orodispersible tablets]
 
 Each orodispersible tablet contains 30 mg of aripiprazole.
+
+[ABILIFY 1 mg/ml oral solution]
+
+Each ml contains 1 mg of aripiprazole.

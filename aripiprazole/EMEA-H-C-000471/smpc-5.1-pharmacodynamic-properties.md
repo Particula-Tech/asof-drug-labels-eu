@@ -49,3 +49,9 @@ In a 26-week, olanzapine-controlled, double-blind, multi-national study of schiz
 [ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+Pharmacotherapeutic group: antipsychotics, ATC code: N05 AX12
+
+~80.5 kg) on aripiprazole (N = 18, or 13% of evaluable patients), compared to olanzapine (N = 45, or 33% of evaluable patients).
