@@ -43,17 +43,3 @@ Tartaric acid
 [ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
-
-[ABILIFY 1 mg/ml oral solution]
-
-Fructose
-Glycerin
-Lactic acid
-Methyl parahydroxybenzoate (E218)
-Propylene glycol
-Propyl parahydroxybenzoate (E216)
-Sodium hydroxide
-Sucrose
-Purified water
-
-Natural orange cream with other natural flavours

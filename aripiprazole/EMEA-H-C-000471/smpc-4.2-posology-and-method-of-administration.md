@@ -2,10 +2,10 @@
 
 Oral use.
 
-The recommended starting and maintenance dose for ABILIFY is 15 mg/day administered on a once-a-day schedule without regard to meals.
+The recommended starting dose for ABILIFY is 10 or 15 mg/day with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
 
-ABILIFY is effective in a dose range of 15 to 30 mg/day.
-Enhanced efficacy at doses higher than the recommended daily dose of 15 mg has not been demonstrated although individual patients may benefit from a higher dose.
+ABILIFY is effective in a dose range of 10 to 30 mg/day.
+Enhanced efficacy at doses higher than a daily dose of 15 mg has not been demonstrated although individual patients may benefit from a higher dose.
 The maximum daily dose should not exceed 30 mg.
 
 Children and adolescents: ABILIFY has not been studied in subjects under 18 years of age.
@@ -44,9 +44,9 @@ When the CYP3A4 inducer is withdrawn from the combination therapy, the aripipraz
 
 [ABILIFY 5 mg orodispersible tablets]
 
-The recommended starting and maintenance dose for aripiprazole is 15 mg/day administered on a once-a-day schedule without regard to meals.
+The recommended starting dose for aripiprazole is 10 or 15 mg/day with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
 
-Aripiprazole is effective in a dose range of 15 to 30 mg/day.
+Aripiprazole is effective in a dose range of 10 to 30 mg/day.
 
 The orodispersible tablet should be placed in the mouth on the tongue, where it will rapidly disperse in saliva.
 It can be taken with or without liquid.
@@ -69,14 +69,3 @@ Smoking status: according to the metabolic pathway of aripiprazole no dosage adj
 [ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
-
-[ABILIFY 1 mg/ml oral solution]
-
-ABILIFY oral solution may be used as an alternative to ABILIFY tablets for patients who have difficulty swallowing ABILIFY tablets (see section 5.2).
-
-The recommended starting and maintenance dose for aripiprazole is 15 mg/day (i.e. 15 ml solution) administered on a once-a-day schedule without regard to meals.
-A calibrated measuring cup of polypropylene is included in the carton.
-
-Aripiprazole is effective in a dose range of 15 to 30 mg/day (i.e. 15 to 30 ml solution/day).
-
-Gender: no dosage adjustment is required for female patients as compared to male patients (see sections 4.4 and 5.2).

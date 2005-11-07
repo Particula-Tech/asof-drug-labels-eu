@@ -29,7 +29,3 @@ ABILIFY 15 mg orodispersible tablets
 [ABILIFY 30 mg orodispersible tablets]
 
 ABILIFY 30 mg orodispersible tablets
-
-[ABILIFY 1 mg/ml oral solution]
-
-ABILIFY 1 mg/ml oral solution

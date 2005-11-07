@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: antipsychotics, ATC code; N05 AX12
+
 It has been proposed that aripiprazole’s efficacy in schizophrenia is mediated through a combination of partial agonism at dopamine D2 and serotonin 5HT1a receptors and antagonism of serotonin 5HT2a receptors.
 Aripiprazole exhibited antagonist properties in animal models of dopaminergic hyperactivity and agonist properties in animal models of dopaminergic hypoactivity.
 Aripiprazole exhibited high binding affinity in vitro for dopamine D2 and D3, serotonin 5HT1a and 5HT2a receptors and moderate affinity for dopamine D4, serotonin 5HT2c and 5HT7, alpha-1 adrenergic and histamine H1 receptors.
@@ -49,9 +50,3 @@ In a 26-week, olanzapine-controlled, double-blind, multi-national study of schiz
 [ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
-
-[ABILIFY 1 mg/ml oral solution]
-
-Pharmacotherapeutic group: antipsychotics, ATC code: N05 AX12
-
-~80.5 kg) on aripiprazole (N = 18, or 13% of evaluable patients), compared to olanzapine (N = 45, or 33% of evaluable patients).
