@@ -2,22 +2,26 @@
 
 Aprepitant is a substrate, a moderate inhibitor, and an inducer of CYP3A4.
 Aprepitant is also an inducer of CYP2C9.
+During treatment with EMEND, CYP3A4 is inhibited.
+After the end of treatment, EMEND causes a transient moderate induction of CYP2C9 and a transient mild induction of CYP3A4 and glucuronidation.
 
 Effect of aprepitant on the pharmacokinetics of other agents
+CYP3A4 inhibition
 As a moderate inhibitor of CYP3A4, aprepitant can increase plasma concentrations of coadministered medicinal products that are metabolised through CYP3A4.
-The AUC of orally administered CYP3A4 substrates may increase up to approximately 3-fold; the effect of aprepitant on the plasma concentrations of intravenously administered CYP3A4 substrates is expected to be smaller.
-Caution is advised during concomitant administration with CYP3A4 substrates.
+The AUC of orally administered CYP3A4 substrates may increase up to approximately 3-fold during treatment with EMEND; the effect of aprepitant on the plasma concentrations of intravenously administered CYP3A4 substrates is expected to be smaller.
+Caution is advised during concomitant administration of EMEND and CYP3A4 substrates.
 
 EMEND must not be used concurrently with pimozide, terfenadine, astemizole, or cisapride.
 Inhibition of CYP3A4 by aprepitant could result in elevated plasma concentrations of these medicinal products, potentially causing serious or life-threatening reactions.
 
-As an inducer of CYP3A4, aprepitant can decrease plasma concentrations of intravenously administered CYP3A4 substrates within 2 weeks following initiation of dosing with EMEND.
+Induction
+As a moderate inducer of CYP2C9 and a mild inducer of CYP3A4 and glucuronidation, aprepitant can decrease plasma concentrations of substrates eliminated by these routes.
 This effect may become apparent only after the end of treatment with EMEND.
-The inductive effect of aprepitant on orally administered CYP3A4 substrates has not been studied, but is expected to be larger.
-Caution is advised when oral medicinal products metabolised by CYP3A4 are administered during this time period.
-
-Aprepitant has been shown to induce the metabolism of S(-) warfarin and tolbutamide, which are metabolised through CYP2C9.
-Coadministration of EMEND with these medicinal products or other medicinal products that are known to be metabolised by CYP2C9, such as phenytoin, may result in lower plasma concentrations of these medicinal products; therefore caution is advised.
+For CYP2C9 and CYP3A4 substrates, the induction is transient with a maximum effect reached 3-5 days after end of the EMEND 3-day treatment.
+The effect is maintained for a few days, thereafter slowly declines and is clinically insignificant by two weeks after end of EMEND treatment.
+Mild induction of glucuronidation is also seen with 80 mg oral aprepitant given for 7 days.
+Data are lacking regarding effects on CYP2C8 and CYP2C19.
+Caution is advised when warfarin, acenocoumarol, tolbutamide, phenytoin or other medicinal products that are known to be metabolized by CYP2C9 are administered during this time period.
 EMEND does not seem to interact with the P-glycoprotein transporter, as demonstrated by the lack of interaction of EMEND with digoxin.
 
 Corticosteroids:
@@ -45,8 +49,13 @@ In another study with intravenous administration of midazolam, EMEND was given a
 EMEND increased the AUC of midazolam 25 % on Day 4 and decreased the AUC of midazolam 19 % on Day 8 and 4 % on Day 15.
 These effects were not considered clinically important.
 
-Warfarin: In patients on chronic warfarin therapy, the prothrombin time (INR) should be monitored closely for 2 weeks following initiation of each 3-day course of EMEND (see section 4.4).
-When a single 125-mg dose of EMEND was administered on Day 1 and 80 mg/day on Days 2 and 3 to healthy subjects who were stabilised on chronic warfarin therapy, there was no effect of EMEND on the plasma AUC of R(+) or S(-) warfarin determined on Day 3; however, there was a 34 % decrease in S(-) warfarin (a CYP2C9 substrate) trough concentration accompanied by a 14 % decrease in INR 5 days after completion of dosing with EMEND.
+In a third study with intravenous and oral administration of midazolam, EMEND was given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, together with ondansetron 32 mg Day 1, dexamethasone 12 mg Day 1 and 8 mg Days 2-4.
+This combination (i.e. EMEND, ondansetron and dexamethasone) decreased the AUC of oral midazolam 16 % on Day 6, 9% on Day 8, 7 % on Day 15 and 17% on Day 22.
+These effects were not considered clinically important.
+
+Warfarin: In patients on chronic warfarin therapy, the prothrombin time (INR) should be monitored closely during treatment with EMEND and for 2 weeks following each 3-day course of EMEND (see section 4.4).
+When a single 125-mg dose of EMEND was administered on Day 1 and 80 mg/day on Days 2 and 3 to healthy subjects who were stabilised on chronic warfarin therapy, there was no effect of EMEND on the plasma AUC of R(+) or S(-) warfarin determined on Day 3; however, there was a 34 % decrease in
+S(-) warfarin (a CYP2C9 substrate) trough concentration accompanied by a 14 % decrease in INR 5 days after completion of dosing with EMEND.
 
 Tolbutamide: EMEND, when given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, decreased the AUC of tolbutamide (a CYP2C9 substrate) by 23 % on Day 4, 28 % on Day 8, and 15 % on
 Day 15, when a single dose of tolbutamide 500 mg was administered orally prior to the administration of the 3-day regimen of EMEND and on Days 4, 8, and 15.

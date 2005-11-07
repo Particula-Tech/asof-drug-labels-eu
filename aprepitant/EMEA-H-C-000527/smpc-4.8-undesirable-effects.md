@@ -36,12 +36,12 @@ Uncommon: conjunctivitis.
 
 Ear and labyrinth disorders:
 Uncommon: tinnitus.
-
 Cardiac disorders:
 Uncommon: bradycardia.
 
 Vascular disorders:
 Uncommon: hot flush.
+
 Respiratory, thoracic and mediastinal disorders:
 Common: hiccups
 Uncommon: pharyngitis, sneezing, cough, postnasal drip, throat irritation.
