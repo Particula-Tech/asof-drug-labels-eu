@@ -87,20 +87,4 @@ Adjustments to the targeted range should be made according to the assay utilized
 
 [Rapamune 5 mg coated tablets]
 
-Rapamune therapy should be optimised with a tapering regimen of steroids and cyclosporin microemulsion.
-Suggested cyclosporin trough concentration ranges for the first 2-3 months after transplantation are 150 - 400 ng/ml (monoclonal assay or equivalent technique).
-
-Maintenance therapy: Cyclosporin should be progressively discontinued over 4 to 8 weeks and the Rapamune dose should be adjusted to obtain whole blood trough levels of 12 to 20 ng/ml (chromatographic assay; see Therapeutic drug monitoring).
-In patients for whom cyclosporin withdrawal is either unsuccessful or cannot be attempted, the combination of cyclosporin and Rapamune should not be maintained for more than 3 months post-transplantation.
-
-Therapeutic drug monitoring: Most patients who received 2 mg of Rapamune 4 hours after cyclosporin had whole blood trough concentrations of sirolimus within the 4 to 12 ng/ml target range.
-Whole blood sirolimus levels should be closely monitored in the following populations: (1) in patients with hepatic impairment; (2) when inducers or inhibitors of CYP3A4 are concurrently administered and after their discontinuation (see section 4.5); and/or (3) if cyclosporin dosing is markedly reduced or discontinued, as these populations are most likely to have special dosing requirements.
-
-To minimise variability, Rapamune should be taken at the same time in relation to cyclosporin, 4 hours after the cyclosporin dose, and consistently either with or without food (see section 5.2).
-
-Following the discontinuation of cyclosporin therapy, a target trough range of 12 to 20 ng/ml (chromatographic assay) is recommended.
-Cyclosporin inhibits the metabolism of sirolimus, and consequently, sirolimus levels will decrease when cyclosporin is discontinued unless the sirolimus dose is increased.
-On average, the sirolimus dose will need to be 4-fold higher to account for both the absence of the pharmacokinetic interaction (2-fold increase) and the augmented immunosuppressive requirement in the absence of cyclosporin (2-fold increase).
-The rate at which the dose of sirolimus is increased should correspond to the rate of cyclosporin elimination.
-
-Other considerations for use: Cyclosporin (microemulsion) and other medicinal or non-medicinal products may interact with sirolimus (see section 4.5).
+(all sentences already above)

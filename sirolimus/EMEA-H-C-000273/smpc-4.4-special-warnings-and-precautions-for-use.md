@@ -72,14 +72,4 @@ Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketocon
 
 [Rapamune 5 mg coated tablets]
 
-Rapamune has not been adequately studied in patients at high immunological risk.
-
-Sirolimus has been administered concurrently with the following agents in clinical studies: cyclosporin, azathioprine, mycophenolate mofetil, corticosteroids and cytotoxic antibodies.
-
-In two clinical studies in de novo liver transplant patients the use of sirolimus plus cyclosporin or tacrolimus was associated with an increase in hepatic artery thrombosis, mostly leading to graft loss or death.
-
-Renal function should be monitored during concomitant administration of Rapamune and cyclosporin.
-
-Patients treated with cyclosporin and Rapamune beyond 3 months had higher serum creatinine levels and lower calculated glomerular filtration rates compared to patients treated with cyclosporin and placebo or azathioprine controls.
-Patients who were successfully withdrawn from cyclosporin had lower serum creatinine levels and higher calculated glomerular filtration rates compared to patients remaining on cyclosporin.
-Until further clinical data are available, the continued co-administration of cyclosporin and Rapamune as maintenance therapy cannot be recommended
+(all sentences already above)

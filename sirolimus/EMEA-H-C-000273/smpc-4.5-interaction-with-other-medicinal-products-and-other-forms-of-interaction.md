@@ -89,6 +89,4 @@ Inducers of CYP3A4 may increase the metabolism of sirolimus and decrease sirolim
 
 [Rapamune 5 mg coated tablets]
 
-Cyclosporin (CYP3A4 substrate): The rate and extent of sirolimus absorption was significantly increased by cyclosporin A (CsA).
-Single-dose sirolimus did not affect the pharmacokinetics of cyclosporin (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart.
-It is recommended that Rapamune be administered 4 hours after cyclosporin (microemulsion).
+(all sentences already above)

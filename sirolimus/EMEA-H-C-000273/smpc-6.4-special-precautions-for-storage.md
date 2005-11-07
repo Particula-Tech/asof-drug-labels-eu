@@ -27,4 +27,4 @@ Do not store above 25ºC.
 
 [Rapamune 5 mg coated tablets]
 
-Keep the blister in the outer carton.
+(all sentences already above)

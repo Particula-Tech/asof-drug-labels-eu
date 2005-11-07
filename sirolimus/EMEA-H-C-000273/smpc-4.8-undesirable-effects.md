@@ -50,6 +50,9 @@ purpura/haemolytic uremia syndrome
 Uncommon: Lymphoma / post transplant lymphoproliferative disorder,
 
 pancytopenia
+
+Rare: Lymphoedema
+
 Immune system disorders:
 
 Rare: Hypersensitivity reactions, including anaphylactic/anaphylactoid
@@ -132,8 +135,4 @@ Common: Liver function tests abnormal; increased SGOT increasedSGPT
 
 [Rapamune 5 mg coated tablets]
 
-The majority of patients in clinical trials were treated with cyclosporin and corticosteroids; thus the frequency of adverse reactions listed includes Rapamune administration combined with cyclosporin and corticosteroids.
-
-These included two randomised, double-blind, multicentre controlled trials in which 499 renal transplant patients received Rapamune oral solution 2 mg/day and 477 received Rapamune oral solution 5 mg/day together with cyclosporin and corticosteriods.
-Additionally, two open-label studies enrolled 771 patients who initially received Rapamune (246 patients received oral solution and 525 received tablets) and cyclosporin.
-These patients were randomised to continue cyclosporin therapy or to have cyclosporin withdrawn after 2-3 months post-transplant.
+(all sentences already above)

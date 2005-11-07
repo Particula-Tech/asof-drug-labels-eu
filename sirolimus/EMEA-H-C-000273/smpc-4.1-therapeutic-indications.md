@@ -26,5 +26,4 @@ Rapamune may be continued as maintenance therapy with corticosteroids only if ci
 
 [Rapamune 5 mg coated tablets]
 
-It is recommended that Rapamune be used initially in combination with cyiclosporin microemulsion and corticosteroids for 2 to 3 months.
-Rapamune may be continued as maintenance therapy with corticosteroids only if cyclosprorin microemulsion can be progressively discontinued (see sections 4.2 and 5.1).
+Rapamune may be continued as maintenance therapy with corticosteroids only if ciclosprorin microemulsion can be progressively discontinued (see sections 4.2 and 5.1).

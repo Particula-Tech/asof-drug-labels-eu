@@ -88,11 +88,4 @@ Therefore, the sirolimus dose was approximately 4-fold higher to account for bot
 
 [Rapamune 5 mg coated tablets]
 
-The systemic availability of sirolimus in combination with simultaneously administered cyclosporin (Sandimune) is approximately 14%.
-
-Sirolimus pharmacokinetic parameters following daily doses of 2 mg Rapamune tablets administered in combination with cyclosporin microemulsion (4 hours prior to Rapamune tablets) and corticosteroids in 13 renal transplant patients, based on data collected at months 1 and 3 after transplantation, were: Cmin,ss, 7.39 ± 2.18 ng/ml; Cmax,ss, 15.0 ± 4.9 ng/ml; tmax,ss, 3.46 ± 2.40 h; AUCτ,ss, 230 ± 67 ng•h/ml; CL/F/WT, 139 ± 63 ml/h/kg (parameters calculated from LC-MS/MS assay results).
-
-Based on monitoring in all patients during the period of concomitant therapy with cyclosporin, mean (10th, 90th percentiles) troughs (by immunoassay) and daily doses were 10.8 ± 3.8 ng/ml (6.3 to 15.8 ng/ml) and 2.1 ± 0.70 mg (1.5 to 2.7 mg), respectively.
-
-Maintenance therapy: From month 3 to month 12, following discontinuation of cyclosporin, mean (10th, 90th percentiles) troughs (by immunoassay) and daily doses were 23.3 ± 5.1 ng/ml (16.9 to 29.6 ng/ml) and 8.2 ± 4.2 mg (3.6 to 13.6 mg), respectively.
-Therefore, the sirolimus dose was approximately 4-fold higher to account for both the absence of the pharmacokinetic interaction with cyclosporin (2-fold increase) and the augmented immunosuppressive requirement in the absence of cyclosporin (2-fold increase).
+(all sentences already above)
