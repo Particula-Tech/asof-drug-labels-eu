@@ -19,6 +19,7 @@ The observed values of the peak concentrations are 9 fold greater than the IC50 
 
 Plasma protein binding studies in vitro indicate that abacavir binds only low to moderately (~49%) to human plasma proteins at therapeutic concentrations.
 This indicates a low likelihood for interactions with other medicinal products through plasma protein binding displacement.
+
 Metabolism: abacavir is primarily metabolised by the liver with approximately 2% of the administered dose being renally excreted, as unchanged compound.
 The primary pathways of metabolism in man are by alcohol dehydrogenase and by glucuronidation to produce the 5’-carboxylic acid and 5’- glucuronide which account for about 66% of the administered dose.
 The metabolites are excreted in the urine.

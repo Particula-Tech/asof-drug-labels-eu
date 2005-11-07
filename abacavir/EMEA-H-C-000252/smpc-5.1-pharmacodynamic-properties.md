@@ -72,7 +72,7 @@ Proportions with HIV-1 RNA < 50 copies/ml (50% versus 47%) and < 400 copies/ml (
 However, as there were only moderately experienced patients included in this study with an imbalance in baseline viral load between the arms, these results should be interpreted with caution.
 
 In study ESS30008, 260 patients with virologic suppression on a first line therapy regimen containing abacavir 300 mg plus lamivudine 150 mg, both given twice daily and a PI or NNRTI, were randomised to continue this regimen or switch to abacavir/lamivudine FDC plus a PI or NNRTI for 48 weeks.
-Preliminary data at 24 weeks indicate that the FDC group was associated with a similar virologic outcome (non-inferior) compared to the abacavir plus lamivudine group, based on proportions of subjects with HIV-1 RNA < 50 copies/ml (91% and 86% respectively, 95% CI -11.1, 1.9).
+Results indicate that the FDC group was associated with a similar virologic outcome (non-inferior) compared to the abacavir plus lamivudine group, based on proportions of subjects with HIV-1 RNA < 50 copies/ml (90% and 85% respectively, 95% CI -2.7, 13.5).
 
 Additional information:
 

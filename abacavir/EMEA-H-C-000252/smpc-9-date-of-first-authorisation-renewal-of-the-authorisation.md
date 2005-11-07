@@ -2,4 +2,4 @@
 
 Date of first authorisation: 8 July 1999
 
-Date of renewal: 18 August 2004
+Date of renewal: 8 July 2004
