@@ -17,6 +17,7 @@ Pharmacokinetic parameters estimated by the model were very close to those estim
 The pharmacokinetics of docetaxel were not altered by the age or sex of the patient.
 In a small number of patients (n=23) with clinical chemistry data suggestive of mild to moderate liver function impairment (ALT, AST ≥1.5 times the ULN associated with alkaline phosphatase ≥2.5 times the ULN), total clearance was lowered by 27% on average (see section 4.2).
 Docetaxel clearance was not modified in patients with mild to moderate fluid retention and there are no data available in patients with severe fluid retention.
+
 When used in combination, docetaxel does not influence the clearance of doxorubicin and the plasma levels of doxorubicinol (a doxorubicin metabolite).
 The pharmacokinetics of docetaxel, doxorubicin and cyclophosphamide were not influenced by their coadministration.
 
