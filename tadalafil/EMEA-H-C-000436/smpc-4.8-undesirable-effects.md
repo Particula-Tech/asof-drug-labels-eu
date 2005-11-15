@@ -7,7 +7,9 @@ The most commonly reported adverse reactions are headache and dyspepsia, see tab
 | System Organ Class | Adverse reaction | CIALIS 10-20 mg (%) N=724 | Placebo (%) N=379 |
 | Nervous System | Headache | 14.5 | 5.5 |
 | Gastrointestinal | Dyspepsia | 12.3 | 1.8 |
+
 | Table 2 Common adverse reactions (>1/100, <1/10) |  |  |  |
+| --- | --- | --- | --- |
 | System Organ Class | Adverse reaction | CIALIS 10-20 mg (%) N=724 | Placebo (%) N=379 |
 | Nervous System | Dizziness | 2.3 | 1.8 |
 | Vascular | Flushing | 4.1 | 1.6 |
@@ -22,6 +24,8 @@ Adverse event data are limited in patients over 75 years of age.
 
 In postmarketing surveillance, adverse events/reactions that have been reported very rarely in patients taking tadalafil include:
 
+Eye disorders: Non-arteritic anterior ischemic optic neuropathy (NAION), blurred vision, visual field defect, retinal vascular occlusion.
+
 Body as a whole: hypersensitivity reactions including rash, urticaria, facial oedema, Stevens-Johnson syndrome, and exfoliative dermatitis.
 
 Cardiovascular and cerebrovascular: Serious cardiovascular events, including myocardial infarction, sudden cardiac death, unstable angina pectoris, ventricular arrhythmia, stroke, transient ischemic attacks, chest pain, palpitations and tachycardia, have been reported either post marketing and/or in clinical trials.
@@ -32,21 +36,4 @@ Hypotension (more commonly reported when tadalafil is given to patients who are 
 Skin and subcutaneous tissues: hyperhidrosis (sweating).
 
 Gastrointestinal: abdominal pain and gastro-oesophageal reflux.
-
 Urogenital: priapism and prolonged erection.
-
-[CIALIS 20 mg film-coated tablets]
-
-| Table 1 Very common adverse reactions (>1/10) |  |  |  |
-| --- | --- | --- | --- |
-| System Organ Class | Adverse reaction | CIALIS 10-20 mg (%) N=724 | Placebo (%) N=379 |
-| Nervous System | Headache | 14.5 | 5.5 |
-| Gastrointestinal | Dyspepsia | 12.3 | 1.8 |
-
-| Table 2 Common adverse reactions (>1/100, <1/10) |  |  |  |
-| --- | --- | --- | --- |
-| System Organ Class | Adverse reaction | CIALIS 10-20 mg (%) N=724 | Placebo (%) N=379 |
-| Nervous System | Dizziness | 2.3 | 1.8 |
-| Vascular | Flushing | 4.1 | 1.6 |
-| Respiratory, thoracic, and mediastinal | Nasal Congestion | 4.3 | 3.2 |
-| Musculoskeletal and connective tissue | Back pain Myalgia | 6.5 5.7 | 4.2 1.8 |

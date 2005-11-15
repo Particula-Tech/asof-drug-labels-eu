@@ -6,7 +6,8 @@ With regard to those interaction studies where only the 10 mg tadalafil dose was
 Effects of other medicinal products on tadalafil
 
 Tadalafil is principally metabolised by CYP3A4.
-A selective inhibitor of CYP3A4, ketoconazole (200 mg daily), increased tadalafil (10-mg) exposure (AUC) 2-fold and Cmax by 15%, relative to the AUC and Cmax values for tadalafil alone.
+A selective inhibitor of CYP3A4, ketoconazole
+(200 mg daily), increased tadalafil (10-mg) exposure (AUC) 2-fold and Cmax by 15%, relative to the AUC and Cmax values for tadalafil alone.
 Ketoconazole (400 mg daily) increased tadalafil (20-mg) exposure (AUC) 4-fold and Cmax by 22%.
 Ritonavir, a protease inhibitor (200 mg dose given twice daily), which is an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil (20-mg) exposure (AUC) 2-fold with no change in Cmax.
 Although specific interactions have not been studied, other protease inhibitors, such as saquinavir, and other CYP3A4 inhibitors, such as erythromycin, clarithromycin, itraconazole and grapefruit juice should be co-administered with caution as they would be expected to increase plasma concentrations of tadalafil.
@@ -49,7 +50,7 @@ The number of subjects with potentially clinically significant standing-blood-pr
 Some subjects experienced dizziness but no cases of syncope were reported.
 Lower doses of doxazosin have not been studied.
 Therefore, the combination of tadalafil and alpha blockers is not recommended.
-In a single study in 18 healthy volunteers, tadalafil (10 and 20 mg) had no clinically significant effect on blood pressure changes due to tamsulosin, a selective alpha (1A)-adrenergic receptor blocking agent.
+In a single study in 18 healthy volunteers, tadalafil (10 and 20 mg) had no clinically significant effect on blood pressure changes due to tamsulosin, a selective alpha (1A)- adrenergic receptor blocking agent.
 It is not known how this extrapolates to other alpha (1A)- adrenergic receptor blocking agents.
 
 Alcohol concentrations (mean maximum blood concentration 0.08 %) were not affected by co-administration with tadalafil (10 or 20 mg).
