@@ -12,4 +12,8 @@ Due to the pharmacological effects and the mechanism of action of memantine the 
 - Other drugs such as cimetidine, ranitidine, procainamide, quinidine, quinine and nicotine that use the same renal cationic transport system as amantadine may also possibly interact with memantine leading to a potential risk of increased plasma levels.
 - There may be a possibility of reduced serum level of hydrochlorothiazide (HCT) when memantine is co-administered with HCT or any combination with HCT.
 
-Memantine did not inhibit CYP 1A2, 2A6, 2C9, 2D6, 2E1, 3A, flavin containing monoxygenase, epoxide hydrolase and sulphation in vitro.
+Memantine did not inhibit CYP 1A2, 2A6, 2C9, 2D6, 2E1, 3A, flavin containing monooxygenase, epoxide hydrolase or sulphation in vitro.
+
+[Ebixa 10 mg/g oral drops, solution.]
+
+Memantine did not inhibit CYP 1A2, 2A6, 2C9, 2D6, 2E1, 3A, flavin containing monoxygenase, epoxide hydrolase or sulphation in vitro.

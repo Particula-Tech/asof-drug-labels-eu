@@ -1,25 +1,20 @@
 # 4.8 Undesirable effects
 
-In clinical trials in moderately severe to severe dementia, overall incidence rates for adverse events did not differ from placebo treatment and adverse events were usually mild to moderate in severity.
+In clinical trials in mild to severe dementia, involving 1784 patients treated with memantine and 1595 patients treated with placebo, the overall incidence rate of adverse events with memantine did not differ from those with placebo; the adverse events were usually mild to moderate in severity.
+The most frequently occurring adverse events with a higher incidence in the memantine group than in the placebo group were dizziness (6.3% vs 5.6%, respectively), headache (5.2% vs 3.9%), constipation (4.6% vs 2.6%) and somnolence (3.4% vs 2.2%).
+The following Adverse Drug Reactions listed in the Table below have been accumulated in clinical studies with memantine and since its introduction in the market.
 
-The following table gives an overview of the most frequent (> 4% for memantine) adverse events (irrespective of causal relationship) that were observed in the trial population of patients with moderately severe to severe dementia.
+Body as a whole – general disorders Common Headache
+Uncommon Fatigue
+Psychiatric disorders Common Somnolence
+Uncommon Confusion
+Uncommon Hallucinations*
+Gastro-intestinal system disorders Common Constipation
+Uncommon Vomiting
+Central & Peripheral nervous system Common Dizziness
+disorders Uncommon Gait abnormal
+Very rare Seizures
 
-| Preferred term (WHO ART) | Memantine n=299 | Placebo n=288 |
-| --- | --- | --- |
-| Agitation | 27 (9.0%) | 50 (17.4%) |
-| Inflicted Injury | 20 (6.7%) | 20 (6.9%) |
-| Urinary Incontinence | 17 (5.7%) | 21 (7.3%) |
-| Diarrhoea | 16 (5.4%) | 14 (4.9%) |
-| Insomnia | 16 (5.4%) | 14 (4.9%) |
-| Dizziness | 15 (5.0%) | 8 (2.8%) |
-| Headache | 15 (5.0%) | 9 (3.1%) |
-| Hallucination | 15 (5.0%) | 6 (2.1%) |
-| Fall | 14 (4.7%) | 14 (4.9%) |
-| Constipation | 12 (4.0%) | 13 (4.5%) |
-| Coughing | 12 (4.0%) | 17 (5.9%) |
+Adverse reactions are ranked according to system organ class, using the following convention: very common (> 1/10), common (>1/100 and < 1/10), uncommon (> 1/1,000 and < 1/100), rare (>1/10,000 and < 1/1,000), very rare (< 1/10,000) including isolated reports.
 
-Common adverse reactions (1 - 10% and more frequent than with placebo) for memantine and placebo patients respectively were: hallucinations (2.0 vs. 0.7%), confusion (1.3 vs. 0.3%), dizziness (1.7 vs. 1.0%), headache (1.7 vs. 1.4%) and tiredness (1.0 vs. 0.3%).
-
-Uncommon adverse reactions (0.1 - 1% and more frequent than with placebo) were anxiety, hypertonia (increased muscle tone), vomiting, cystitis and increased libido.
-
-Based on spontaneous reports, seizures have been reported, mostly in patients with a history of convulsions.
+*Hallucinations have mainly been observed in patients with severe Alzheimer´s disease.
