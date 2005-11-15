@@ -30,27 +30,9 @@ In postmarketing surveillance the following adverse events have been uncommonly 
 | Table 2 |  |
 | --- | --- |
 | Immune system disorders | hypersensitivity reactions |
-| Eye disorders | eye pain, red eyes/ bloodshot eyes |
-| Cardiac disorders | tachycardia, ventricular arrhythmia, myocardial infarction, unstable angina, sudden cardiac death (see section 4.4) |
-
-| Vascular disorders | hypotension (see sections 4.4 and 4.5), hypertension, epistaxis, syncope, cerebrovascular haemorrhage, transient ischemic attack (see section 4.4) |
-| --- | --- |
-| Gastrointestinal disorders | vomiting |
-| Skin and subcutaneous tissue disorders | skin rash |
-| Reproductive system and breast disorders | prolonged erection, priapism |
-
-[VIAGRA 50 mg film-coated tablets]
-
-| Table 2 |  |
-| --- | --- |
-| Immune system disorders | hypersensitivity reactions |
-| Eye disorders | eye pain, red eyes/ bloodshot eyes |
+| Eye disorders | eye pain, red eyes/ bloodshot eyes, non-arteritic anterior ischaemic optic neuropathy (NAION), retinal vascular occlusion, visual field defect |
 | Cardiac disorders | tachycardia, ventricular arrhythmia, myocardial infarction, unstable angina, sudden cardiac death (see section 4.4) |
 | Vascular disorders | hypotension (see sections 4.4 and 4.5), hypertension, epistaxis, syncope, cerebrovascular haemorrhage, transient ischemic attack (see section 4.4) |
 | Gastrointestinal disorders | vomiting |
 | Skin and subcutaneous tissue disorders | skin rash |
 | Reproductive system and breast disorders | prolonged erection, priapism |
-
-[VIAGRA 100 mg film-coated tablets]
-
-(all sentences already above)

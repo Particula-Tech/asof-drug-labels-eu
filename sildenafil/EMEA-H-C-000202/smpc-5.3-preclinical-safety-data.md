@@ -1,3 +1,3 @@
 # 5.3 Preclinical safety data
 
-Preclinical data revealed no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenicity potential, and toxicity to reproduction.
+Preclinical data revealed no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, and toxicity to reproduction.
