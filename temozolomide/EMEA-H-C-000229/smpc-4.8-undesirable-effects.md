@@ -15,8 +15,8 @@ Table 4 provides treatment emergent adverse events in patients with newly diagno
 | Metabolism and nutrition disorders Very Common: | Anorexia | Anorexia |
 | Common: | Hyperglycaemia, weight decreased | Weight decreased |
 | Uncommon: | Hypokalemia, alkaline phosphatase increased, weight increased | Hyperglycaemia, weight increased |
-| Psychiatric disorders Common: | Anxiety, emotional lability, insomnia | Anxiety, depression, emotional lability, insomnia |
-| Uncommon: | Agitation, apathy, behaviour disorder, depression, hallucination | Hallucination, amnesia |
+| Psychiatric disorders Common: | Anxiety, emotional lability, insomnia | Anxiety, depression, emotional |
+| Uncommon: | Agitation, apathy, behaviour disorder, depression, hallucination | lability, insomnia Hallucination, amnesia |
 | Nervous system disorders Very Common: | Headache | Headache, convulsions |
 | Common: | Dizziness, aphasia, balance impaired, concentration impaired, confusion, consciousness decreased, convulsions, memory impairment, neuropathy, paresthesia, somnolence, speech disorder, tremor | Dizziness, aphasia, balance impaired, concentration impaired, confusion, dysphasia, hemiparesis, memory impairment, neurological disorder (NOS), neuropathy, peripheral neuropathy, paresthesia, somnolence, speech disorder, tremor |
 | Uncommon: | Ataxia, cognition impaired, dysphasia, extrapyramidal disorder, gait abnormal, hemiparesis, hyperesthesia, hypoesthesia, neurological disorder (NOS), peripheral neuropathy, status epilepticus | Ataxia, coordination abnormal, gait abnormal, hemiplegia, hyperesthesia, sensory disturbance |
@@ -53,6 +53,7 @@ When laboratory abnormalities and adverse events were combined across concomitan
 Grade 3 or Grade 4 thrombocyte abnormalities, including thrombocytopenic events were observed in 14 % of the patients who received Temodal.
 
 Recurrent or progressive malignant glioma
+
 In clinical trials, the most frequently occurring treatment-related undesirable effects were gastrointestinal disturbances, specifically nausea (43 %) and vomiting (36 %).
 These effects were usually Grade 1 or 2 (0 – 5 episodes of vomiting in 24 hours) and were either self-limiting or readily controlled with standard anti-emetic therapy.
 The incidence of severe nausea and vomiting was 4 %.
@@ -76,7 +77,9 @@ Myelosuppression was predictable (usually within the first few cycles, with the 
 No evidence of cumulative myelosuppression was observed.
 The presence of thrombocytopenia may increase the risk of bleeding, and the presence of neutropenia or leukopenia may increase the risk of infection.
 
-Antineoplastic agents, and notably alkylating agents, have been associated with a potential risk of myelodysplastic syndrome (MDS) and secondary malignancies, including leukemia.Very rare cases of MDS and secondary malignancies, including myeloid leukemia have been reported in patients treated with regimens that included Temodal.
+Antineoplastic agents, and notably alkylating agents, have been associated with a potential risk of myelodysplastic syndrome (MDS) and secondary malignancies, including leukemia.
+Very rare cases of MDS and secondary malignancies, including myeloid leukemia have been reported in patients treated with regimens that included Temodal.
+Prolonged pancytopenia, which may result in aplastic anaemia has been reported very rarely.
 
 [Temodal 20 mg hard capsules]
 
@@ -99,8 +102,8 @@ Antineoplastic agents, and notably alkylating agents, have been associated with 
 | Metabolism and nutrition disorders Very Common: | Anorexia | Anorexia |
 | Common: | Hyperglycaemia, weight decreased | Weight decreased |
 | Uncommon: | Hypokalemia, alkaline phosphatase increased, weight increased | Hyperglycaemia, weight increased |
-| Psychiatric disorders Common: | Anxiety, emotional lability, insomnia | Anxiety, depression, emotional lability, insomnia |
-| Uncommon: | Agitation, apathy, behaviour disorder, depression, hallucination | Hallucination, amnesia |
+| Psychiatric disorders Common: | Anxiety, emotional lability, insomnia | Anxiety, depression, emotional |
+| Uncommon: | Agitation, apathy, behaviour disorder, depression, hallucination | lability, insomnia Hallucination, amnesia |
 | Nervous system disorders Very Common: | Headache | Headache, convulsions |
 | Common: | Dizziness, aphasia, balance impaired, concentration impaired, confusion, consciousness decreased, convulsions, memory impairment, neuropathy, paresthesia, somnolence, speech disorder, tremor | Dizziness, aphasia, balance impaired, concentration impaired, confusion, dysphasia, hemiparesis, memory impairment, neurological disorder (NOS), neuropathy, peripheral neuropathy, paresthesia, somnolence, speech disorder, tremor |
 | Uncommon: | Ataxia, cognition impaired, dysphasia, extrapyramidal disorder, gait abnormal, hemiparesis, hyperesthesia, hypoesthesia, neurological disorder (NOS), peripheral neuropathy, status epilepticus | Ataxia, coordination abnormal, gait abnormal, hemiplegia, hyperesthesia, sensory disturbance |

@@ -14,8 +14,7 @@ Temodal is administered orally at a dose of 75 mg/m2 daily for 42 days concomita
 No dose reductions will be made, but delay or discontinuation of temozolomide administration will be decided weekly according to haematological and non-haematological toxicity criteria.
 The Temodal dose can be continued throughout the 42 day concomitant period (up to 49 days) if all of the following conditions are met: absolute neutrophil count ≥ 1.5 x 109/l, thrombocyte count ≥ 100 x 109/l, Common Toxicity Criteria (CTC) non-haematological toxicity ≤ Grade 1 (except for alopecia, nausea and vomiting).
 During treatment a complete blood count should be obtained weekly.
-Temodal administration should be interrupted or discontinued during concomitant phase according to the haematological and non-haematological toxicity criteria as noted in
-Table 1.
+Temodal administration should be interrupted or discontinued during concomitant phase according to the haematological and non-haematological toxicity criteria as noted in Table 1.
 
 Table 1.
 Temozolomide dosing interruption or discontinuation during concomitant radiotherapy and temozolomide
@@ -35,8 +34,7 @@ Monotherapy phase
 
 Four weeks after completing the Temodal + Radiotherapy phase, Temodal is administered for up to 6 cycles of monotherapy treatment.
 Dosage in Cycle 1 (monotherapy) is 150 mg/m2 once daily for 5 days followed by 23 days without treatment.
-At the start of Cycle 2, the dose is escalated to 200 mg/m2 if the CTC non-haematological toxicity for Cycle 1 is Grade ≤ 2 (except for alopecia, nausea and vomiting), absolute neutrophil count (ANC) is ≥ 1.5 x 109/l, and the thrombocyte count is
-≥ 100 x 109/l.
+At the start of Cycle 2, the dose is escalated to 200 mg/m2 if the CTC non-haematological toxicity for Cycle 1 is Grade ≤ 2 (except for alopecia, nausea and vomiting), absolute neutrophil count (ANC) is ≥ 1.5 x 109/l, and the thrombocyte count is ≥ 100 x 109/l.
 If the dose was not escalated at Cycle 2, escalation should not be done in subsequent cycles.
 Once escalated, the dose remains at 200 mg/m2 per day for the first 5 days of each subsequent cycle except if toxicity occurs.
 Dose reductions and discontinuations during the monotherapy phase should be applied according to Tables 2 and 3.
