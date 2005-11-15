@@ -1,8 +1,8 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Roche Registration Limited
-40 Broadwater Road
+6 Falcon Way
+Shire Park
 Welwyn Garden City
-Hertfordshire
-AL7 3AY
+AL7 1TW
 United Kingdom

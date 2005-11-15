@@ -44,7 +44,7 @@ Renal transplant rejection does not lead to changes in MPA pharmacokinetics; dos
 There is no basis for CellCept dose adjustment following cardiac transplant rejection.
 No pharmacokinetic data are available during hepatic transplant rejection.
 
-[CellCept 500 mg powder for concentrate for solution for infusion]
+[CellCept 500 mg powder for concentrate for solution for infusion.]
 
 CAUTION: CELLCEPT I.V.
 SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
@@ -69,7 +69,7 @@ Use in elderly (≥ 65 years): the recommended dose of 1.0 g administered twice 
 
 No data are available for hepatic transplant patients with severe chronic renal impairment.
 
-[CellCept 1 g/5 ml powder for oral suspension]
+[CellCept 1 g/5 ml powder for oral suspension.]
 
 Adults: oral CellCept 1 g/5 ml powder for oral suspension should be initiated within 72 hours following transplantation.
 The recommended dose in renal transplant patients is 1.0 g administered twice daily (2 g daily dose), i.e. 5 ml oral suspension twice daily.
@@ -82,6 +82,6 @@ No dose adjustments are needed in patients experiencing delayed renal graft func
 Note
 If required, CellCept 1 g/5 ml powder for oral suspension can be administered via a nasogastric tube with a minimum size of 8 French (minimum 1.7 mm interior diameter).
 
-[CellCept 500 mg tablets]
+[CellCept 500 mg tablets.]
 
 CellCept tablets should only be prescribed to patients with a body surface area greater than 1.5 m2, at a dose of 1 g twice daily (2 g daily dose).

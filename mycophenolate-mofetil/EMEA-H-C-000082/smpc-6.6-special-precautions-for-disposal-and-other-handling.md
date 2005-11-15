@@ -5,7 +5,7 @@ Avoid inhalation or direct contact with skin or mucous membranes of the powder c
 If such contact occurs, wash thoroughly with soap and water; rinse eyes with plain water.
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
-[CellCept 500 mg powder for concentrate for solution for infusion]
+[CellCept 500 mg powder for concentrate for solution for infusion.]
 
 Preparation of Infusion Solution (6 mg/ml)
 
@@ -29,11 +29,11 @@ b. Inspect the infusion solution for particulate matter or discoloration.
 Discard the infusion solution if particulate matter or discoloration is observed.
 
 If the infusion solution is not prepared immediately prior to administration, the commencement of administration of the infusion solution should be within 3 hours from reconstitution and dilution of the drug product.
-Keep solutions at 15 – 30° C.
+Keep solutions at 15 – 30 °C.
 
 Because mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits, avoid direct contact of prepared solutions of CellCept 500 mg powder for concentrate for solution for infusion with skin or mucous membranes.
 
-[CellCept 1 g/5 ml powder for oral suspension]
+[CellCept 1 g/5 ml powder for oral suspension.]
 
 Because mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits, avoid inhalation or direct contact with skin or mucous membranes of the dry powder as well as direct contact of the constituted suspension with the skin.
 
@@ -58,6 +58,6 @@ This will assure the proper seating of the bottle adapter in the bottle and chil
 Write the date of expiration of the constituted suspension on the bottle label.
 (The shelf-life of the constituted suspension is two months.)
 
-[CellCept 500 mg tablets]
+[CellCept 500 mg tablets.]
 
 Because mycophenolate mofetil has demonstrated teratogenic effects in rats and rabbits, CellCept tablets should not be crushed.
