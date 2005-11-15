@@ -46,10 +46,9 @@ Hepatic insufficiency: The pharmacokinetics of emtricitabine have not been studi
 In general, emtricitabine pharmacokinetics in HBV infected subjects were similar to those in healthy subjects and in
 HIV infected subjects.
 
-Age, gender and ethnicity: In general, the pharmacokinetics of emtricitabine in infants and children (aged 4 months up to 18 years) are similar to those seen in adults.
+Age, gender and ethnicity: In general, the pharmacokinetics of emtricitabine in infants, children and adolescents (aged 4 months up to 18 years) are similar to those seen in adults.
 
-The mean AUC in 36 infants and children (aged 4 months to 12 years) receiving 6 mg/kg emtricitabine once daily as oral solution and in 12 adolescents (aged 13-18 years) receiving 200 mg emtricitabine as hard capsules once daily were 9.4 µg·h/ml and 10.7 µg·h/ml, respectively.
-This compares to the mean AUC of 10.0 µg·h/ml in 20 adults receiving 200 mg hard capsules once daily.
+The mean AUC in 77 infants, children and adolescents receiving 6 mg/kg emtricitabine once daily as oral solution or 200 mg emtricitabine as hard capsules once daily was similar to the mean AUC of 10.0 µg·h/ml in 20 adults receiving 200 mg hard capsules once daily.
 
 Pharmacokinetic data are not available in the elderly.
 

@@ -1,8 +1,8 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antiviral for systemic use: Nucleoside and nucleotide reverse transcriptase inhibitors, ATC Code: J05AF09.
+Mechanism of action: Emtricitabine is a synthetic nucleoside analogue of cytidine with activity that is specific to human immunodeficiency virus (HIV-1 and HIV-2) and hepatitis B virus (HBV).
 
-Mechanism of action: Emtricitabine is a synthetic nucleoside analogue of cytosine with activity that is specific to human immunodeficiency virus (HIV-1 and HIV-2) and hepatitis B virus (HBV).
 Emtricitabine is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate, which competitively inhibits HIV-1 reverse transcriptase, resulting in DNA chain termination.
 Emtricitabine is a weak inhibitor of mammalian DNA polymerase α, β and ε and mitochondrial DNA polymerase γ.
 
@@ -32,4 +32,4 @@ In virologically stable treatment-experienced adults, emtricitabine, in combinat
 Additionally, in a second study, treatment-experienced adults on a stable PI based highly active antiretroviral therapy (HAART) regimen were randomised to a once daily regimen containing emtricitabine or to continue with their PI-HAART regimen.
 At 48 weeks of treatment the emtricitabine-containing regimen demonstrated an equivalent proportion of patients with HIV RNA < 400 copies/ml (94% emtricitabine versus 92%) and a greater proportion of patients with HIV RNA < 50 copies/ml (95% emtricitabine versus 87%) compared with the patients continuing with their PI-HAART regimen.
 
-In thirty-one virologically stable treatment-experienced and 83 treatment-naïve infants and children ranging in age from 4 months to 18 years old, the majority of patients achieved or maintained complete suppression of plasma HIV-1 RNA through 24 weeks (89% achieved ≤ 400 copies/ml and 70% achieved ≤ 50 copies/ml).
+In infants and children older than 4 months, the majority of patients achieved or maintained complete suppression of plasma HIV-1 RNA through 48 weeks (89% achieved ≤ 400 copies/ml and 77% achieved ≤ 50 copies/ml).
