@@ -71,6 +71,10 @@ Co-administration of REYATAZ with ritonavir and medicinal products that induce C
 
 The concomitant use of REYATAZ and oral contraceptives should be avoided (see 4.5).
 
+Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression (see 4.5).
+
+The absorption of atazanavir may be reduced in situations where gastric pH is increased irrespective of cause.
+
 [REYATAZ 150 mg hard capsules]
 
 (all sentences already above)

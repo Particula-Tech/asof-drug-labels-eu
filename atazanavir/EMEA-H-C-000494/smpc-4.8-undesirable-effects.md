@@ -10,8 +10,8 @@ The median duration of treatment was 102 weeks in Phase II trials and 48 weeks i
 Adverse events were comparable between patients who received REYATAZ 300 mg with ritonavir 100 mg once daily and patients who received REYATAZ 400 mg once daily, except that jaundice and elevated total bilirubin levels were reported more frequently with REYATAZ plus ritonavir.
 
 Among patients who received 400 mg once daily or 300 mg with ritonavir 100 mg once daily, the only adverse events of any severity reported very commonly with at least a possible relationship to regimens containing REYATAZ and one or more NRTIs were nausea (24%), headache (10%), and jaundice (10%).
-Among patients receiving REYATAZ 300 mg with ritonavir 100 mg, the frequency of jaundice was 16%.
-Jaundice was reported within a few days to a few months after the initiation of treatment (see 4.4).
+Among patients receiving REYATAZ 300 mg with ritonavir 100 mg, the frequency of jaundice was 17%.
+In the majority of cases, jaundice was reported within a few days to a few months after the initiation of treatment (see 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy, and dorsocervical fat accumulation (buffalo hump).
 
@@ -25,9 +25,9 @@ Immune system disorders: uncommon: allergic reaction
 
 Metabolism and nutrition
 
-disorders: common: lipodystrophy;
+disorders: uncommon: anorexia, appetite increased, weight
 
-uncommon: anorexia, appetite increased, weight decreased, weight gain
+decreased, weight gain
 
 Psychiatric disorders: uncommon: anxiety, depression, sleep disorder
 Nervous system disorders: common: headache, insomnia, peripheral neurologic
@@ -80,14 +80,14 @@ Reproductive system and breast
 
 disorders: uncommon: gynecomastia
 
-General disorders and administration site conditions: common: asthenia, fatigue;
-uncommon: chest pain, fever, malaise
-In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+General disorders and administration site conditions: common: lipodystrophy syndrome, asthenia, fatigue; uncommon: chest pain, fever, malaise
+
+In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see 4.4).
 
 Laboratory abnormalities
 The most frequently reported laboratory abnormality in patients receiving regimens containing REYATAZ and one or more NRTIs was elevated total bilirubin (84% Grade 1, 2, 3, or 4).
 Grade 3 or 4 elevation of total bilirubin was noted in 33% (28% Grade 3, 5% Grade 4, reported predominantly as elevated indirect [unconjugated] bilirubin).
-Among patients treated with REYATAZ 300 mg once daily with 100 mg ritonavir once daily, 49% had Grade 3-4 total bilirubin elevations (see 4.4).
+Among patients treated with REYATAZ 300 mg once daily with 100 mg ritonavir once daily for a median duration of 95 weeks, 53% had Grade 3-4 total bilirubin elevations (see 4.4).
 
 Other marked clinical laboratory abnormalities (Grade 3 or 4) reported in ≥ 2% of patients receiving regimens containing REYATAZ and one or more NRTIs included: elevated amylase (12%), elevated creatine kinase (7%), elevated alanine aminotransferase/serum glutamic-pyruvic transaminase (ALT/SGPT) (5%), low neutrophils (5%), elevated aspartate aminotransferase/serum glutamic-oxaloacetic transaminase (AST/SGOT) (3%), and elevated lipase (3%).
 

@@ -46,7 +46,14 @@ The proportions of patients with HIV RNA < 50 copies/ml in the REYATAZ + ritonav
 By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA < 400 copies/ml (< 50 copies/ml) in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 55% (40%) and 56% (46%), respectively.
 The mean increases from baseline in CD4 cell count were 110 cells/mm3 and 121 cells/mm3 in the REYATAZ + ritonavir and lopinavir + ritonavir arms, respectively.
 
-Two types of analyses were performed based on baseline genotypic mutations.
+Analyses of data through 96 weeks of treatment demonstrated durability of antiviral activity.
+Mean HIV RNA changes from baseline at Week 96 (-2.29 log10 copies/ml for REYATAZ + ritonavir and -2.08 log10 copies/ml for lopinavir + ritonavir, time-averaged difference of 0.14, 97.5% confidence interval [-0.13, 0.41]) met criteria for non-inferiority based on observed cases.
+Consistent results were obtained with the last observation carried forward method of analysis.
+The proportions of patients with HIV RNA <400 copies/ml (<50 copies/ml) for REYATAZ + ritonavir were 43% (32%) and for lopinavir + ritonavir were 46% (35%).
+Patients completing treatment while in response after 48 weeks were censored.
+By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA <400 copies/ml (<50 copies/ml) for REYATAZ + ritonavir were 84% (72%) and for lopinavir + ritonavir were 82% (72%).
+It is important to note that at time of the 96-week analysis, 48 % of patients overall remained on study.
+Through 48 weeks of treatment, two types of analyses were performed based on baseline genotypic mutations.
 The first consisted in assessing the HIV RNA change from baseline in the subgroup of patients with < or ≥ of 4 of the following set of mutations: 10, 20, 24, 32, 33, 36, 46, 48, 50, 54, 63, 71, 73, 82, 84 and 90.
 The second consisted in assessing the HIV RNA change from baseline in the subgroup of patients with < or ≥ of 4 of the following more specific set of mutations: 10, 46, 54, 82, 84, 90.
 In the analysis performed for patients with ≥ 4 protease gene mutations among the following set of mutations 10, 20, 24, 32, 33, 36, 46, 48, 50, 54, 63, 71, 73, 82, 84 and 90, the results significantly favoured the lopinavir + ritonavir arm.
@@ -54,8 +61,14 @@ There were too few patients with ≥ 4 of the second more specific set of mutati
 
 REYATAZ + saquinavir was shown to be inferior to lopinavir + ritonavir.
 
-The data available on the lipid profile are described in the following table:
+The data available on the lipid profile (mean change from baseline) are described in the following table:
 
-|  | Study -045 48 weeks |  |
-| --- | --- | --- |
-| Total Cholesterol LDL Cholesterol HDL Cholesterol Triglycerides | ATV/RTV -8% -10% -7% -4% | LPV/RTV 6% 1% 2% 30% |
+|  | Study 045 48 weeks* |  | Study 045 96 weeks* |  |
+| --- | --- | --- | --- | --- |
+|  | ATV/RTV | LPV/RTV | ATV/RTV | LPV/RTV |
+| Total Cholesterol | -8% | 6% | -7% | 9% |
+| LDL Cholesterol | -11% | 1% | -11% | 1% |
+| HDL Cholesterol | -7% | 2% | -5% | 7% |
+| Triglycerides | -3% | 30% | -2% | 30% |
+
+*Values obtained after initiation of serum lipid-reducing agents were not included in these analyses.
