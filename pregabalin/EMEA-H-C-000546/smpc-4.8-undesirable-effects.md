@@ -114,8 +114,9 @@ General disorders and administration site conditions
 
 Common Fatigue, oedema peripheral, feeling drunk, oedema, gait abnormal
 Uncommon Asthenia, fall, thirst, chest tightness
-Rare Pain exacerbated anasarca, pyrexia, rigors
+Rare Pain exacerbated anasarca, pyrexia, rigors, face oedema, swollen
 
+tongue
 Investigations
 
 Common Weight increased
