@@ -22,12 +22,12 @@ All three trials evaluated Avastin at a dose of 5 mg/kg of body weight every two
 
 Avastin in Combination with IFL Chemotherapy for First-Line Treatment of Metastatic
 Carcinoma of the Colon or Rectum (AVF2107g): This was a phase III randomised, double-blind, active-controlled clinical trial evaluating Avastin in combination with IFL as first-line treatment for metastatic carcinoma of the colon or rectum.
-Eight hundred-thirteen patients were randomised to receive IFL + placebo (Arm 1) or IFL + Avastin (5 mg/kg every 2 weeks, Arm 2) (see Table 4).
+Eight hundred and thirteen patients were randomised to receive IFL + placebo (Arm 1) or IFL + Avastin (5 mg/kg every 2 weeks, Arm 2) (see Table 4).
 A third group of 110 patients received bolus 5-FU/FA+Avastin (Arm3).
 Enrollment in Arm 3 was discontinued, as pre-specified, once safety of Avastin with the IFL regimen was established and considered acceptable.
 All treatments were continued until disease progression.
 The overall mean age was 59.4 years; 56.6% of patients had an ECOG performance status of 0, 43% had a value of 1 and 0.4% had a value of 2.
-15.5 % had received prior radiotherapy and 28.4 % prior chemotherapy.
+15.5% had received prior radiotherapy and 28.4% prior chemotherapy.
 
 Table 4 Treatment regimens in study AVF2107g
 
@@ -56,6 +56,7 @@ Table 5 Efficacy results for study AVF2107g
 | Overall survival |  |  |
 | Median time (months) | 15.6 | 20.3 |
 | 95% Confidence Interval | 14.29 – 16.99 | 18.46 – 24.18 |
+|  | Arm 1 IFL + Placebo | Arm 2 IFL + Avastina |
 | Hazard ratiob |  | 0.660 |
 | p-value |  | 0.00004 |
 | Progression-free survival |  |  |
@@ -74,9 +75,10 @@ a 5 mg/kg every 2 weeks.
 b Relative to control arm.
 
 Among the 110 patients randomised to Arm 3 (5-FU/FA + Avastin), the median overall survival was 18.3 months, median progression free survival was 8.8 months, overall response rate was 39% and median duration of response was 8.5 months.
+
 Avastin in Combination with 5-FU/FA Chemotherapy for the First-Line Treatment of Metastatic Carcinoma of the Colon or Rectum in patients who were not optimal candidates for first-line irinotecan treatment (AVF2192g): This was a phase II randomised, double-blind, active-controlled clinical trial evaluating the efficacy and safety of Avastin in combination with 5-FU/FA as first-line treatment for metastatic colorectal cancer in patients who were not optimal candidates for first-line irinotecan treatment.
-Patients had to be either more susceptible to irinotecan toxicity (≥ 65 years, prior radiotherapy to pelvis or abdomen) or less likely to benefit from irinotecan treatment (PS
-≥ 1, baseline albumin < 3.5 g/dl) in order to be eligible for enrolment.
+Patients had to be either more susceptible to irinotecan toxicity
+(≥ 65 years, prior radiotherapy to pelvis or abdomen) or less likely to benefit from irinotecan treatment (PS ≥ 1, baseline albumin < 3.5 g/dl) in order to be eligible for enrolment.
 One hundred and five patients were randomised to 5-FU/FA + placebo arm and 104 patients to 5-FU/FA + Avastin (5 mg/kg every 2 weeks) arm.
 All treatments were continued until disease progression.
 The overall mean age was 71 years; 28.2% of patients had a ECOG performance status of 0, 65.1% had a value of 1 and 6.7% had a value of 2.
@@ -86,14 +88,13 @@ These efficacy data were consistent with the results observed in studies AVF2107
 Avastin in Combination with 5-FU/FA Chemotherapy for the First-Line Treatment of
 Metastatic Carcinoma of the Colon or Rectum (AVF0780g): This was a phase II randomised, active-controlled, open-labelled clinical trial investigating Avastin in combination with 5-FU/FA as first-line treatment of metastatic colorectal cancer.
 The median age was 64 years.
-19 % of the patients had received prior chemotherapy and 14 % prior radiotherapy.
+19% of the patients had received prior chemotherapy and 14% prior radiotherapy.
 Seventy-one patients were randomised to receive bolus 5-FU/FA or 5-FU/FA + Avastin (5 mg/kg every 2 weeks).
 A third group of 33 patients received bolus 5-FU/FA + Avastin (10 mg/kg every 2 weeks).
 Patients were treated until disease progression.
 The primary endpoints of the trial were objective response rate and progression-free survival.
 The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, longer progression-free survival, and a trend in longer survival, compared with 5-FU/FA chemotherapy alone (see Table 6).
 These efficacy data are consistent with the results from study AVF2107g.
-
 The efficacy data from studies AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 6.
 
 Table 6: Efficacy results for studies AVF0780g and AVF2192g
@@ -117,7 +118,6 @@ Table 6: Efficacy results for studies AVF0780g and AVF2192g
 | p-value |  | 0.029 | 0.43 |  | 0.055 |
 | Duration of response |  |  |  |  |  |
 | Median time (months) | NR | 9.3 | 5.0 | 6.8 | 9.2 |
-|  | 5-FU/FA | 5-FU/FA + Avastina | 5-FU/FA + Avastinb | 5-FU/FA + placebo | 5-FU/FA + Avastin |
 | 25–75 percentile (months) | 5.5 − NR | 6.1 − NR | 3.8 – 7.8 | 5.59 - 9.17 | 5.88 - 13.01 |
 
 a 5 mg/kg every 2 weeks.

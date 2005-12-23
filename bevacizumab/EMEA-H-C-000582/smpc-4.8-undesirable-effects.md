@@ -37,7 +37,7 @@ Table 2: Grade 3 and 4 adverse events (irrespective of causal relationship and o
 | Frequency of adverse events System organ class | AVF2107g IFL + Avastin | AVF2192g 5-FU/FA + Avastin |
 | --- | --- | --- |
 | ≥ 10% Cardiac disorders |  | Hypertension |
-| ≥ 1% and <10% Cardiac disorders Hypertension Blood & lymphatic system disorders Leukopenia General disorders & administration Pain Asthenia site conditions Pain Gastrointestinal disorders Diarrhoea Abdominal pain Infections & infestations disorders Sepsis Abscess Nervous system disorders Cerebral ischaemia Syncope Vascular disorders Deep vein thrombosis Thromboembolism (Arterial)* Thromboembolism (Arterial)* * Pooled arterial thromboembolic events including cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic events. Data are unadjusted for the differential time on treatment. |  |  |
+| ≥ 1% and < 10% Cardiac disorders Hypertension Cardiac failure congestive Supraventricular tachycardia Blood & lymphatic system disorders Leucopenia Anaemia Thrombocytopenia General disorders & administration Pain Asthenia site conditions Pain Gastrointestinal disorders Diarrhoea Gastrointestinal disorder Abdominal pain Intestinal obstruction Ileus Infections & infestations disorders Sepsis Abscess Urinary tract infection Investigations Prothrombin time prolonged Metabolism & nutrition disorders Hypokalaemia Nervous system disorders Cerebral ischaemia Syncope Somnolence Respiratory, Thoracic & Mediastinal Dyspnoea Disorders Hypoxia Vascular disorders Deep vein thrombosis Thromboembolism (Arterial)* Thromboembolism (Arterial)* * Pooled arterial thromboembolic events including cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic events. Data are unadjusted for the differential time on treatment. |  |  |
 
 In the phase III and II studies in metastatic carcinoma of the colon or rectum (AVF2107g, AVF2192g), adverse events of all grades (irrespective of causal relationship) which occurred in ≥ 10%, and ≥ 1% - < 10% of Avastin-treated patients as compared to the control groups were as presented in Table 3:
 
@@ -49,8 +49,7 @@ Table 3: Adverse events of all grades (irrespective of causal relationship and o
 | Gastrointestinal disorders | Rectal haemorrhage Stomatitis Constipation | Stomatitis |
 | General disorders & administration site conditions | Pain | Asthenia Pain Pyrexia |
 | Metabolism & nutrition disorders | Anorexia |  |
-| ≥ 1% and < 10% |  |  |
-| Eye disorders | Eye disorders |  |
+| ≥ 1% and < 10% Eye disorders | Eye disorders |  |
 | Nervous system disorders Dysgeusia Respiratory, thoracic & mediastinal Epistaxis disorders Dyspnoea Rhinitis Skin & subcutaneous tissue disorders Dermatitis exfoliative Skin discoloration Dry skin Data are unadjusted for the differential time on treatment. |  |  |
 
 The following adverse events have been observed in Avastin-treated patients, and may be potentially related to Avastin therapy:
@@ -106,7 +105,6 @@ The addition of Avastin did not result in significant increase in the incidence 
 Across all clinical trials, mucocutaneous haemorrhage has been seen in 20% - 40% of Avastin-treated patients.
 These were most commonly NCI-CTC Grade 1 epistaxis that lasted less than 5 minutes, resolved without medical intervention and did not require any changes in treatment regimen.
 In clinical trials of metastatic carcinoma of the colon or rectum, epistaxis was reported in 22.0% - 34.3% of Avastin-treated patients.
-
 There have also been less common events of minor mucocutaneous haemorrhage in other locations, such as gingival bleeding and vaginal bleeding.
 
 Thromboembolism (see section 4.4):
@@ -114,11 +112,12 @@ In clinical trials of metastatic carcinoma of the colon or rectum, the overall i
 
 Arterial thromboembolism:
 In clinical trials of metastatic carcinoma of the colon or rectum, the incidence of arterial thromboembolic events including CVAs, MIs, TIAs, and other arterial thromboembolic events was higher in Avastin-treated patients (3.3% - 10.0%) compared to the controls (1.3% - 4.8%).
-In five randomised trials including metastatic carcinoma of the colon or rectum trials (N=1745), arterial thromboembolic events including CVAs, MIs, TIAs, and other thromboembolic events occurred in 4.5% (45/1004) of patients treated with Avastin in combination with chemotherapy compared to 2.0% (15/741) of patients treated with chemotherapy alone.
-In patients treated with Avastin plus chemotherapy, arterial thromboembolic events led to a fatal outcome in 0.8% (8/1004).
-In patients treated with chemotherapy alone, a fatal outcome from arterial thromboembolic events was reported in 0.4% (3/741).
-CVAs (including TIAs) occurred in 2.2% of patients treated with Avastin in combination with chemotherapy and 0.5% of patients treated with chemotherapy alone.
-MI occurred in 1.9% of patients treated with Avastin in combination with chemotherapy compared to 1.1% of patients treated with chemotherapy alone.
+
+In five randomised trials including metastatic carcinoma of the colon or rectum trials (N=1745), arterial thromboembolic events including CVAs, MIs, TIAs, and other thromboembolic events occurred in 3.8% (37/963) of patients treated with Avastin in combination with chemotherapy compared to 1.7% (13/782) of patients treated with chemotherapy alone.
+In patients treated with Avastin plus chemotherapy, arterial thromboembolic events led to a fatal outcome in 0.8% (8/963).
+In patients treated with chemotherapy alone, a fatal outcome from arterial thromboembolic events was reported in 0.5% (4/782).
+CVAs (including TIAs) occurred in 2.3% of patients treated with Avastin in combination with chemotherapy and 0.5% of patients treated with chemotherapy alone.
+MI occurred in 1.4% of patients treated with Avastin in combination with chemotherapy compared to 0.7% of patients treated with chemotherapy alone.
 
 Venous thromboembolism:
 In clinical trials of metastatic carcinoma of the colon or rectum, venous thromboembolic events, including deep venous thrombosis, pulmonary embolism and thrombophlebitis occurred in 9.0% - 16.6% of Avastin-treated patients compared to that of 13.5% - 15.2% in the controls.
@@ -130,17 +129,16 @@ These events varied in severity from asymptomatic declines in left ventricular e
 All the Avastin-treated patients were previously treated with anthracyclines (doxorubicin cumulative dose range 240–360 mg/m2).
 Many of these patients also had prior radiotherapy to the left chest wall.
 Most of these patients showed improved symptoms and/or left ventricular function following appropriate medical therapy.
-There was no information on patients with pre-existing CHF (NYHA II-IV) at the time of initiating the therapy, as these patients were excluded from studies.
-In patients with metastatic cancer of the colon or rectum, there was no increased incidence of CHF in Avastin-treated patients.
+
+There was no information on patients with pre-existing CHF (New York Heart Association (NYHA) II-IV) at the time of initiating the therapy, as these patients were excluded from studies.
+In patients with metastatic cancer of the colon or rectum, including study AVF2192g, there was no significant increase in the incidence of CHF in Avastin-treated patients.
 
 Elderly Patients
 Data from 5 randomised clinical trials showed that age > 65 years was associated with an increased risk of developing arterial thromboembolic events including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs) when treated with Avastin (see sections 4.4 and 4.8 under Thromboembolism).
-No increased incidence of Avastin-related events including gastrointestinal perforation, wound healing complications, hypertension, proteinuria, haemorrhage and congestive heart failure/cardiomyopathy was observed in elderly patients
-(> 65 years) with metastatic cancer of the colon or rectum receiving Avastin compared to those aged
-≤ 65 years treated with Avastin.
-
+No increased incidence of Avastin-related events including gastrointestinal perforation, wound healing complications, hypertension, proteinuria and haemorrhage was observed in elderly patients (> 65 years) with metastatic cancer of the colon or rectum receiving Avastin compared to those aged ≤ 65 years treated with Avastin.
+In study AVF2192g, no significant increase in the incidence of CHF was observed in Avastin treated patients.
 In the phase III study in metastatic carcinoma of colon or rectum trial (AVF2107g), 114 out of the 392 patients who received Avastin were older than 65 years.
-Only Grade 3/4 leukopenia occurred at an incidence of ≥ 5% in the elderly patients (> 65 years) compared to those patients aged ≤ 65 years.
+Only Grade 3/4 leucopenia occurred at an incidence of ≥ 5% in the elderly patients (> 65 years) compared to those patients aged ≤ 65 years.
 
 In the phase II study in metastatic carcinoma of colon or rectum trial (AVF2192g), the majority of the Avastin-treated patients was older than 65 years (83%).
 The overall safety profile of Avastin from this study was comparable to the overall safety profile observed in Study AVF2107g.

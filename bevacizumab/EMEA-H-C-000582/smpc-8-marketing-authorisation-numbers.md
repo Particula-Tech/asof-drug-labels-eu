@@ -1,1 +1,4 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/300/001 – 100 mg/4 ml vial
+EU/1/04/300/002 – 400 mg/16 ml vial

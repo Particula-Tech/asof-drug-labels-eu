@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Gastrointestinal perforations (see section 4.8)
 Patients with metastatic carcinoma of the colon or rectum and an intra-abdominal inflammatory process may be at increased risk for the development of gastrointestinal perforation when treated with Avastin and chemotherapy.
@@ -30,9 +30,9 @@ Therapy should be discontinued in patients who develop Grade 4 proteinuria (neph
 
 Arterial Thromboembolism (see section 4.8)
 In five randomised clinical trials, the incidence of arterial thromboembolic events including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs) was higher in patients receiving Avastin in combination with chemotherapy compared to those who received chemotherapy alone.
-
 A history of arterial thromboembolic events or age over 65 years was associated with an increased risk of developing arterial thromboembolic events during therapy.
 Caution should be taken when treating these patients with Avastin.
+
 Therapy should be permanently discontinued in patients who develop arterial thromboembolic events.
 
 Haemorrhage
