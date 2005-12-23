@@ -17,6 +17,7 @@ Anorexia was reported in 1.5 % of patients treated with Zometa 4 mg.
 Few cases of rash or pruritus have been observed (below 1 %).
 
 As with other bisphosphonates, cases of conjunctivitis in approximately 1 % have been reported.
+
 There have been some reports of impaired renal function (2.3 %), although the aetiology appears to be multifactorial in many cases.
 
 Based on pooled analysis of placebo controlled studies, severe anaemia (Hb < 8.0 g/dl) was reported in 5.2 % of patients receiving Zometa 4 mg versus 4.2 % on placebo.
@@ -73,7 +74,7 @@ Uncommon: pain
 Muscle cramps
 Cardiovascular disorders
 
-Uncommon: Hypertension
+Uncommon: Hypertension, hypotension
 Rare: Bradycardia
 
 Renal and urinary disorders
@@ -111,6 +112,7 @@ The majority of the reports refer to cancer patients following tooth extractions
 Osteonecrosis of the jaws has multiple well documented risk factors including a diagnosis of cancer, concomitant therapies (e.g. chemotherapy, radiotherapy, corticosteroids) and co-morbid conditions (e.g. anaemia, coagulopathies, infection, pre-existing oral disease).
 Although causality cannot be determined, it is prudent to avoid dental surgery as recovery may be prolonged (see section 4.4,
 “Special warnings and special precautions for use”).
+In very rare cases, hypotension led to syncope or circulatory collapse, primarily in patients with underlying risk factors.
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 

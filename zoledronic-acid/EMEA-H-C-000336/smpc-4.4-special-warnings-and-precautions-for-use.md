@@ -39,3 +39,10 @@ While on treatment, these patients should avoid invasive dental procedures if po
 For patients who develop osteonecrosis of the jaw while on bisphosphonate therapy, dental surgery may exacerbate the condition.
 For patients requiring dental procedures, there are no data available to suggest whether discontinuation of bisphosphonate treatment reduces the risk of osteonecrosis of the jaw.
 Clinical judgement of the treating physician should guide the management plan of each patient based on individual benefit/risk assessment.
+
+In post-marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain have been reported in patients taking bisphosphonates.
+However, such reports have been infrequent.
+This category of drugs includes Zometa (zoledronic acid).
+The time to onset of symptoms varied from one day to several months after starting treatment.
+Most patients had relief of symptoms after stopping treatment.
+A subset had recurrence of symptoms when rechallenged with the same drug or another bisphosphonate.
