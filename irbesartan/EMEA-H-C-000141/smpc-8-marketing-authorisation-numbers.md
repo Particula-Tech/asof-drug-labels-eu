@@ -19,11 +19,14 @@ EU/1/97/046/015
 [Aprovel 75 mg film-coated tablets.]
 
 EU/1/97/046/016-020
+EU/1/97/046/031
 
 [Aprovel 150 mg film-coated tablets.]
 
 EU/1/97/046/021-025
+EU/1/97/046/032
 
 [Aprovel 300 mg film-coated tablets.]
 
 EU/1/97/046/026-030
+EU/1/97/046/033

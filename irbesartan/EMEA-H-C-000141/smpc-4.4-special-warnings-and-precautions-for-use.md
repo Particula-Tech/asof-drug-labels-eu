@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Intravascular volume depletion: symptomatic hypotension, especially after the first dose, may occur in patients who are volume and/or sodium depleted by vigorous diuretic therapy, dietary salt restriction, diarrhoea or vomiting.
 Such conditions should be corrected before the administration of Aprovel.
@@ -10,12 +10,12 @@ Renal impairment and kidney transplantation: when Aprovel is used in patients wi
 There is no experience regarding the administration of Aprovel in patients with a recent kidney transplantation.
 
 Hypertensive patients with type 2 diabetes and renal disease: the effects of irbesartan both on renal and cardiovascular events were not uniform across all subgroups, in an analysis carried out in the study with patients with advanced renal disease.
-In particular, they appeared less favourable in women and non-white subjects (see 5.1).
+In particular, they appeared less favourable in women and non-white subjects (see section 5.1).
 
 Hyperkalemia: as with other drugs that affect the renin-angiotensin-aldosterone system, hyperkalemia may occur during the treatment with Aprovel, especially in the presence of renal impairment, overt proteinuria due to diabetic renal disease, and/or heart failure.
-Close monitoring of serum potassium in patients at risk is recommended (see 4.5).
+Close monitoring of serum potassium in patients at risk is recommended (see section 4.5).
 
-Lithium: the combination of lithium and Aprovel is not recommended (see 4.5).
+Lithium: the combination of lithium and Aprovel is not recommended (see section 4.5).
 
 Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy: as with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
 
@@ -24,5 +24,5 @@ Therefore, the use of Aprovel is not recommended.
 
 General: in patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with angiotensin converting enzyme inhibitors or angiotensin-II receptor antagonists that affect this system has been associated with acute hypotension, azotaemia, oliguria, or rarely acute renal failure.
 As with any anti-hypertensive agent, excessive blood pressure decrease in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.
-As observed for angiotensin converting enzyme inhibitors, irbesartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population
-(see 5.1).
+As observed for angiotensin converting enzyme inhibitors, irbesartan and the other angiotensin antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population (see section 5.1).
+Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.

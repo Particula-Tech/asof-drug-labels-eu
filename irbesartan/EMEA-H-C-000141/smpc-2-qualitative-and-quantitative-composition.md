@@ -1,7 +1,7 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each tablet contains 75 mg irbesartan.
-For excipients, see 6.1.
+For a full list of excipients, see section 6.1.
 
 [Aprovel 150 mg tablets.]
 

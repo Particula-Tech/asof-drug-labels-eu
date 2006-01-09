@@ -1,6 +1,12 @@
 # 6.1 List of excipients
 
-Microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesium stearate, colloidal hydrated silica, pregelatinised maize starch, and poloxamer 188.
+Microcrystalline cellulose
+Croscarmellose sodium
+Lactose monohydrate
+Magnesium stearate
+Colloidal hydrated silica
+Pregelatinised maize starch
+Poloxamer 188
 
 [Aprovel 150 mg tablets.]
 
@@ -12,9 +18,14 @@ Microcrystalline cellulose, croscarmellose sodium, lactose monohydrate, magnesiu
 
 [Aprovel 75 mg film-coated tablets.]
 
-Tablet core: lactose monohydrate, microcrystalline cellulose, croscarmellose sodium, hypromellose, silicon dioxide, magnesium stearate.
+Tablet core:
+Hypromellose
+Silicon dioxide
 
-Film-coating: lactose monohydrate, hypromellose, titanium dioxide (E171), macrogol, carnauba wax.
+Film-coating:
+Titanium dioxide
+Macrogol
+Carnauba wax.
 
 [Aprovel 150 mg film-coated tablets.]
 

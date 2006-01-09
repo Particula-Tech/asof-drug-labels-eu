@@ -10,3 +10,23 @@ PVC/PVDC/Aluminium blisters
 PVC/PVDC/Aluminium perforated unit dose blisters
 
 Not all pack sizes may be marketed.
+
+[Aprovel 150 mg tablets.]
+
+(all sentences already above)
+
+[Aprovel 300 mg tablets.]
+
+(all sentences already above)
+
+[Aprovel 75 mg film-coated tablets.]
+
+84 tablets
+
+[Aprovel 150 mg film-coated tablets.]
+
+(all sentences already above)
+
+[Aprovel 300 mg film-coated tablets.]
+
+(all sentences already above)

@@ -2,6 +2,7 @@
 
 The frequency of adverse reactions listed below is defined using the following convention:
 very common (≥ 1/10); common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Hypertension: in placebo-controlled trials in patients with hypertension, the overall incidence of adverse events did not differ between the irbesartan (56.2%) and the placebo groups (56.5%).
 Discontinuation due to any clinical or laboratory adverse event was less frequent for irbesartan-treated patients (3.3%) than for placebo-treated patients (4.5%).
@@ -37,12 +38,12 @@ None of these increases were associated with identifiable clinical musculoskelet
 
 Hypertension and type 2 diabetes with renal disease: in addition to the adverse drug reactions mentioned under hypertension, in diabetic hypertensive patients with microalbuminuria and normal renal function, orthostatic dizziness and orthostatic hypotension were reported in 0.5% of the patients (i.e., uncommon) but in excess of placebo.
 In diabetic hypertensive patients with chronic renal insufficiency and overt proteinuria, the following additional adverse reactions were reported in > 2% of patients and in excess of placebo:
-
 Nervous system disorders:
 Common: orthostatic dizziness
 
 Vascular disorders:
 Common: orthostatic hypotension
+
 Musculoskeletal, connective tissue and bone disorders:
 Common: musculoskeletal pain
 
@@ -74,11 +75,13 @@ Gastrointestinal disorders:
 Very rare: dysgeusia
 
 Hepato-biliary disorders:
-Very rare: abnormal liver function, hepatitis
+Very rare: hepatitis, abnormal liver function
 
 Musculoskeletal, connective tissue and bone disorders:
-Very rare: myalgia, arthralgia
+Very rare: arthralgia, myalgia (in some cases associated with increased plasma creatine kinase levels), muscle cramps
 
 Renal and urinary disorders:
-Very rare: impaired renal function including isolated cases of renal failure in patients at risk
-(see 4.4)
+Very rare: impaired renal function including isolated cases of renal failure in patients at risk (see section 4.4)
+
+Skin and subcutaneous tissue disorders:
+Very rare: leuckocytoclastic vasculitis
