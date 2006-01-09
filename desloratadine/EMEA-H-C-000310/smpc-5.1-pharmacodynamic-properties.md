@@ -8,6 +8,7 @@ After oral administration, desloratadine selectively blocks peripheral histamine
 Desloratadine has demonstrated antiallergic properties from in vitro studies.
 These include inhibiting the release of proinflammatory cytokines such as IL-4, IL-6, IL-8, and IL-13 from human mast cells/basophils, as well as inhibition of the expression of the adhesion molecule P-selectin on endothelial cells.
 The clinical relevance of these observations remains to be confirmed.
+
 In a multiple dose clinical trial, in which up to 20 mg of desloratadine was administered daily for 14 days, no statistically or clinically relevant cardiovascular effect was observed.
 In a clinical pharmacology trial, in which desloratadine was administered at a dose of 45 mg daily (nine times the clinical dose) for ten days, no prolongation of QTc interval was seen.
 
