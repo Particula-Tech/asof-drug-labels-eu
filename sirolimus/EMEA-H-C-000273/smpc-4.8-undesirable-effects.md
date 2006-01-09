@@ -45,7 +45,7 @@ Blood and the lymphatic system disorders:
 Very common: Anaemia; thrombocytopenia
 Common: Leucopenia; neutropenia; thrombotic thrombocytopenic
 
-purpura/haemolytic uremia syndrome
+purpura/haemolytic uraemic syndrome
 
 Uncommon: Lymphoma / post transplant lymphoproliferative disorder,
 
@@ -57,7 +57,7 @@ Immune system disorders:
 
 Rare: Hypersensitivity reactions, including anaphylactic/anaphylactoid
 
-reactions (see section 4.4)
+reactions, angioedema, and hypersensitivity vasculitis (see section 4.4)
 
 Metabolism and nutrition disorders:
 
@@ -97,6 +97,8 @@ There have been rare reports of fatal hepatic necrosis with elevated trough Siro
 
 Abnormal healing following transplant surgery has been reported, including fascial dehiscence and anastomotic disruption (e.g. wound, vascular, airway, ureteral, biliary).
 
+The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA.
+
 In an ongoing study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/mL) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 mL/min.
 There was a higher rate of serious adverse events including pneumonia, acute rejection, graft loss and death in this sirolimus treatment arm (n=60, median time post-transplant 36 months).
 
@@ -106,6 +108,8 @@ The majority of patients in clinical trials were treated with ciclosporin and co
 
 Uncommon: >1/1000, <1/100
 Rare: >1,10,000, <1/1000
+
+reactions, angioedema and hypersensitivity vasculitis (see section 4.4)
 
 Hepatotoxicty has been reported, the risk may increase as the trough Sirolimus level increases.
 

@@ -50,7 +50,6 @@ The pharmacokinetics of sirolimus were similar in various populations with renal
 
 Much of the general pharmacokinetic information was obtained using the oral solution, which is summarised first.
 Information directly related to the tablet formulation is summarised specifically in the Oral Tablet section.
-
 Oral solution
 The terminal half-life in stable renal transplant patients after multiple oral doses was 62 ± 16 h. The effective half-life, however, is shorter and mean steady-state concentrations were achieved after 5 to 7 days.
 

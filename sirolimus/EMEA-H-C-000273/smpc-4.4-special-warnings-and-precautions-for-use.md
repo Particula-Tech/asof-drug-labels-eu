@@ -24,7 +24,7 @@ In two clinical studies in de novo liver transplant patients the use of sirolimu
 
 Cases of bronchial anastomotic dehiscence, most fatal, have been reported in de novo lung transplant patients when sirolimus has been used as part of an immunosuppressive regimen.
 
-Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, have been associated with the administration of sirolimus (see section 4.8).
+Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculitis, have been associated with the administration of sirolimus (see section 4.8).
 
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
@@ -46,12 +46,18 @@ Caution should be exercised when co-administering other agents that are known to
 
 Patients treated with ciclosporin and Rapamune beyond 3 months had higher serum creatinine levels and lower calculated glomerular filtration rates compared to patients treated with ciclosporin and placebo or azathioprine controls.
 Patients who were successfully withdrawn from ciclosporin had lower serum creatinine levels and higher calculated glomerular filtration rates compared to patients remaining on ciclosporin.
-Until further clinical data are available, the continued co-administration of ciclosporin and Rapamune as maintenance therapy cannot be recommended
+Until further clinical data are available, the continued co-administration of ciclosporin and Rapamune as maintenance therapy cannot be recommended.
+
+The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced haemolytic uraemic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA).
 
 [Rapamune 1 mg/1 ml oral solution.]
 
 Sirolimus has been administered concurrently with the following agents in clinical studies: ciclosporin, azathioprine, mycophenolate mofeticl, corticosteroids and cytotoxic antibodies.
 Sirolimus in combination with other immunosuppressive agents has not been completely investigated.
+
+Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema and hypersensitivity vasculitis, have been associated with the administration of sirolimus (see section 4.8).
+
+The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced haemolytic uraemic syndrome/thrombotic thrombocytopenic purpura/thromobtic microangiopathy (HUS/TTP/TMA).
 
 [Rapamune 2 mg/2 ml oral solution]
 

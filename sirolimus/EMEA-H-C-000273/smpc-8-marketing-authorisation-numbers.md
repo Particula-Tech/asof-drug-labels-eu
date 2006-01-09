@@ -24,4 +24,4 @@ EU/1/01/171/009-10
 
 [Rapamune 5 mg coated tablets]
 
-EU/1/01/171/011-012
+(all sentences already above)
