@@ -2,9 +2,9 @@
 
 No in vivo human pharmacokinetic interaction studies have been performed.
 
-Topotecan does not inhibit human P450 enzymes (see Section 5.2 Pharmacokinetic properties).
+Topotecan does not inhibit human P450 enzymes (see Section 5.2).
 In a population study, the co-administration of granisetron, ondansetron, morphine or corticosteroids did not appear to have a significant effect on the pharmacokinetics of total topotecan (active and inactive form).
 
-In combining topotecan with other chemotherapy agents, reduction of the doses of each drug is required to improve tolerability.
+In combining topotecan with other chemotherapy agents, reduction of the doses of each medicinal product is required to improve tolerability.
 However, in combining with platinum agents, there is a distinct sequence-dependent interaction depending on whether the platinum agent is given on day 1 or 5 of the topotecan dosing.
 If either cisplatin or carboplatin is given on day 1 of the topotecan dosing, a lower dose of each agent must be given to improve tolerability compared to the dose of each agent which can be given if the platinum agent is given on day 5 of the topotecan dosing.
