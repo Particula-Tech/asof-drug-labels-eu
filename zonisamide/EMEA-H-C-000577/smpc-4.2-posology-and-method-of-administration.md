@@ -23,7 +23,6 @@ Children and adolescents
 
 The safety and effectiveness in children and adolescents under 18 years have not been established.
 Therefore use in these patients is not recommended.
-
 Patients with renal impairment
 
 Caution must be exercised in treating patients with renal impairment, as there is limited information on use in such patients and a slower titration of Zonegran might be required.

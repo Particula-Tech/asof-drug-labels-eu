@@ -1,1 +1,18 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/04/307/001
+EU/1/04/307/002
+EU/1/04/307/005
+
+[Zonegran 50 mg hard capsules.]
+
+EU/1/04/307/010
+EU/1/04/307/009
+EU/1/04/307/003
+
+[Zonegran 100 mg hard capsules.]
+
+EU/1/04/307/006
+EU/1/04/307/004
+EU/1/04/307/007
+EU/1/04/307/008

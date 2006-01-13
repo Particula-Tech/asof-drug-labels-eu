@@ -17,12 +17,14 @@ Distribution
 Zonisamide is 40 - 50 % bound to human plasma proteins, with in vitro studies showing that this is unaffected by the presence of various antiepileptic medicinal products (i.e., phenytoin, phenobarbitone, carbamazepine, and sodium valproate).
 The apparent volume of distribution is about 1.1 – 1.7 l/kg in adults indicating that zonisamide is extensively distributed to tissues.
 Erythrocyte/plasma ratios are about 15 at low concentrations and about 3 at higher concentrations.
+
 Metabolism
 
 Zonisamide is metabolised primarily through reductive cleavage of the benzisoxazole ring of the parent drug by CYP3A4 to form 2-sulphamoylacetylphenol (SMAP) and also by N-acetylation.
 Parent drug and SMAP can additionally be glucuronidated.
 The metabolites, which could not be detected in plasma, are devoid of anticonvulsant activity.
 There is no evidence that zonisamide induces its own metabolism.
+
 Elimination
 
 Apparent clearance of zonisamide at steady-state after oral administration is about 0.70 l/h and the terminal elimination half-life is about 60 hours in the absence of CYP3A4 inducers.
@@ -30,7 +32,6 @@ The elimination half-life was independent of dose and not affected by repeat adm
 Fluctuation in serum or plasma concentrations over a dosing interval is low (< 30 %).
 The main route of excretion of zonisamide metabolites and unchanged drug is via the urine.
 Renal clearance of unchanged zonisamide is relatively low (approximately 3.5 ml/min); about 15 - 30 % of the dose is eliminated unchanged.
-
 Special patient groups
 
 In subjects with renal impairment, renal clearance of single doses of zonisamide was positively correlated with creatinine clearance.

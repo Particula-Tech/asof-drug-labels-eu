@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Anti-epileptics, ATC code: N03A X15
-
 Efficacy has been demonstrated with Zonegran in 4 double-blind, placebo-controlled studies of periods of up to 24 weeks with either once or twice daily dosing.
 These studies show that the median reduction in partial seizure frequency is related to Zonegran dose with sustained efficacy at doses of 300-500 mg per day.
 

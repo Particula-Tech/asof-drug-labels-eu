@@ -14,7 +14,6 @@ All patients who develop a rash while taking Zonegran must be closely supervised
 
 Isolated cases of agranulocytosis, thrombocytopenia, leukopenia, aplastic anaemia, pancytopenia and leucocytosis have been reported.
 There is inadequate information to assess the relationship, if any, between dose and duration of treatment and these events.
-
 Kidney stones have occurred in patients treated with Zonegran.
 Zonegran should be used with caution in patients who have risk factors for nephrolithiasis, including prior stone formation, a family history of nephrolithiasis and hypercalcuria.
 Such patients may be at increased risk for renal stone formation and associated signs and symptoms such as renal colic, renal pain or flank pain.
