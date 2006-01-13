@@ -54,7 +54,7 @@ PHARMALOGICAL PROPERTIES
 
 (all sentences already above)
 
-[Humalog - HumaJect 100 U/ml, solution for injection]
+[Humalog-Humaject 100 U/ml, solution for injection]
 
 (all sentences already above)
 
@@ -70,7 +70,7 @@ PHARMALOGICAL PROPERTIES
 
 (all sentences already above)
 
-[Humalog-Pen 100 U/ml, solution for injection]
+[Humalog Pen 100 U/ml, solution for injection]
 
 (all sentences already above)
 

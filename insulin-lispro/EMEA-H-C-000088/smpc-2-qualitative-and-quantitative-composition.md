@@ -42,7 +42,7 @@ Humalog NPL consists of insulin lispro protamine suspension.
 
 (all sentences already above)
 
-[Humalog - HumaJect 100 U/ml, solution for injection]
+[Humalog-Humaject 100 U/ml, solution for injection]
 
 (all sentences already above)
 
@@ -58,7 +58,7 @@ Humalog NPL consists of insulin lispro protamine suspension.
 
 (all sentences already above)
 
-[Humalog-Pen 100 U/ml, solution for injection]
+[Humalog Pen 100 U/ml, solution for injection]
 
 (all sentences already above)
 

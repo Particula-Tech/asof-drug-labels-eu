@@ -3,7 +3,6 @@
 The vial to be used in conjuction with an appropriate syringe (40 U markings).
 
 a) Preparing a dose
-
 Inspect the Humalog solution.
 It should be clear and colourless.
 Do not use Humalog if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
@@ -18,12 +17,13 @@ If using a new vial, flip off the plastic protective cap, but do not remove the 
 
 3.
 If the therapeutic regimen requires the injection of basal insulin and Humalog at the same time, the two can be mixed in the syringe.
-If mixing insulins, refer to the instructions for mixing that follow in Section (ii).
+If mixing insulins, refer to the instructions for mixing that follow in Section (ii) and 6.2.
 
 4.
 Draw air into the syringe equal to the prescribed Humalog dose.
 Wipe the top of the vial with an alcohol swab.
 Put the needle through the rubber top of the Humalog vial and inject the air into the vial.
+
 5.
 Turn the vial and syringe upside down.
 Hold the vial and syringe firmly in one hand.
@@ -39,7 +39,7 @@ Push them out with the plunger and withdraw the correct dose.
 8.
 Remove the needle from the vial and lay the syringe down so that the needle does not touch anything.
 
-ii) Mixing Humalog with longer-acting Human Insulins
+ii) Mixing Humalog with longer-acting Human Insulins (see section 6.2)
 
 1 .
 Humalog should be mixed with longer-acting human insulins only on the advice of a doctor.
@@ -73,7 +73,6 @@ Making sure the tip of the needle is in the insulin, withdraw the dose of longer
 Withdraw the needle and lay the syringe down so that the needle does not touch anything.
 
 b) Injecting a dose
-
 1.
 Choose a site for injection.
 
@@ -95,10 +94,14 @@ Dispose of the syringe and needle safely.
 Use of the injection sites should be rotated so that the same is not used more than approximately once a month.
 
 c) Mixing insulins
-Do not mix insulins in vials with insulins in cartridges.
+
+Do not mix insulin in vials with insulin in cartridges.
+See section 6.2.
+
 d) Use of Humalog in an insulin infusion pump:
 
-Minimed and Disetronic insulin infusion pumps may be used to infuse insulin lispro.
+Only certain Minimed and Disetronic insulin infusion pumps may be used to infuse insulin lispro.
+Before infusing insulin lispro, the manufacturers instructions should be studied to ascertain the suitability or otherwise for the particular pump.
 Read and follow the instructions that accompany the infusion pump.
 Use the correct reservoir and catheter for the pump.
 Change the infusion set every 48 hours.
@@ -137,8 +140,6 @@ Using the outer needle cap, unscrew the needle and dispose of it safely.
 
 9.
 Use of injection sites should be rotated so that the same site is not used more than approximately once a month.
-
-Do not mix insulin in vials with insulin in cartridges
 
 [Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
 
@@ -203,7 +204,6 @@ Draw air into the syringe equal to the prescribed Humalog NPL dose.
 Put the needle through rubber top of the Humalog NPL vial and inject the air into the vial.
 
 Making sure the tip of the needle is in the Humalog NPL, withdraw the correct dose into the syringe.
-
 Before removing the needle from the vial, check the syringe for air bubbles that reduce the amount of Humalog NPL in it.
 
 [Humalog NPL 100 U/ml suspension for injection in cartridge]
@@ -214,11 +214,11 @@ Cartridges containing Humalog NPL should be rotated in the palms of the hands te
 
 Humalog NPL cartridges are not designed to allow any other insulin to be mixed in the cartridge .
 
-[Humalog - HumaJect 100 U/ml, solution for injection]
+[Humalog-Humaject 100 U/ml, solution for injection]
 
-Inspect the Humalog - HumaJect solution.
+Inspect the Humalog-Humaject solution.
 
-Do not use Humalog - HumaJect if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
+Do not use Humalog-Humaject if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
 
 Reset the pen.
 
@@ -276,8 +276,6 @@ Replace the cap on the pen.
 
 (c) Mixing insulins
 
-Do not mix insulin in vials with insulin in cartridges d) Use of Humalog in an insulin infusion pump:
-
 [Humalog Mix25 100 U/ml HumaJect suspension for injection]
 
 Inspect the Humalog Mix25 100 U/ml HumaJect.
@@ -294,11 +292,11 @@ Inspect the Humalog Mix50.
 
 Inspect the Humalog NPL.
 
-[Humalog-Pen 100 U/ml, solution for injection]
+[Humalog Pen 100 U/ml, solution for injection]
 
-Inspect the Humalog-Pen solution.
+Inspect the Humalog Pen solution.
 
-Do not use Humalog-Pen if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
+Do not use Humalog Pen if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
 
 Remove the paper tab from the capped needle.
 Screw the capped needle clockwise onto the pen until it is tight.
@@ -308,11 +306,11 @@ Priming the Pen (check Insulin Flow).
 
 (a) The arrow should be visible in the dose window.
 If the arrow is not present, turn the dose knob clockwise until the arrow appears and notch is felt or visually aligned.
+
 (b) Pull dose knob out (in direction of the arrow) until a “0” appears in the dose window.
 A dose cannot be dialled until the dose knob is pulled out.
 
 (c) Turn dose knob clockwise until a “2” appears in the dose window.
-
 (d) Hold the pen with needle pointing up and tap the clear cartridge holder gently with your finger so any air bubbles collect near the top.
 Depress the injection button fully until you feel or hear a click.
 You should see a drop of insulin at the tip of the needle.

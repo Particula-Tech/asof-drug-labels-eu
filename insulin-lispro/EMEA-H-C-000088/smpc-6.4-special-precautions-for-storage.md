@@ -11,7 +11,6 @@ Once in use vials may be used for up to 28 days.
 
 [Humalog 100 U/ml, solution for injection in cartridge]
 
-Store at 2�C - 8�C (in a refrigerator).
 Once in use cartridges may be used for up to 28 days.
 
 [Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
@@ -42,7 +41,7 @@ Store at 2°C - 8°C, (in a refrigerator).
 
 Once in use cartridges may be used for up to 21 days.
 
-[Humalog - HumaJect 100 U/ml, solution for injection]
+[Humalog-Humaject 100 U/ml, solution for injection]
 
 Once in use HumaJect pens may be used for up to 28 days.
 
@@ -58,7 +57,7 @@ Once in use HumaJect pens may be used for up to 28 days.
 
 Once in use HumaJect pens may be used for up to 21 days.
 
-[Humalog-Pen 100 U/ml, solution for injection]
+[Humalog Pen 100 U/ml, solution for injection]
 
 Once in use pens may be used for up to 28 days.
 

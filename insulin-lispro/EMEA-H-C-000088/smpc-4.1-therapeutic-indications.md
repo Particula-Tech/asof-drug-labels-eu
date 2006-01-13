@@ -39,9 +39,9 @@ Humalog NPL is indicated for the treatment of patients with diabetes mellitus wh
 
 (all sentences already above)
 
-[Humalog - HumaJect 100 U/ml, solution for injection]
+[Humalog-Humaject 100 U/ml, solution for injection]
 
-Humalog - HumaJect is also indicated for the initial stabilisation of diabetes mellitus.
+Humalog-Humaject is also indicated for the initial stabilisation of diabetes mellitus.
 
 [Humalog Mix25 100 U/ml HumaJect suspension for injection]
 
@@ -55,9 +55,9 @@ Humalog - HumaJect is also indicated for the initial stabilisation of diabetes m
 
 (all sentences already above)
 
-[Humalog-Pen 100 U/ml, solution for injection]
+[Humalog Pen 100 U/ml, solution for injection]
 
-Humalog-Pen is also indicated for the initial stabilisation of diabetes mellitus.
+Humalog Pen is also indicated for the initial stabilisation of diabetes mellitus.
 
 [Humalog Mix25 100 U/ml Pen, suspension for injection]
 

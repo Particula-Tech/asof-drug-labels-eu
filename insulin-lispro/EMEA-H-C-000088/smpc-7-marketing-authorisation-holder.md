@@ -38,7 +38,7 @@ Eli Lilly Nederland B V., Grootslag 1-5, 3991 RA Houten, The Netherlands.
 
 (all sentences already above)
 
-[Humalog - HumaJect 100 U/ml, solution for injection]
+[Humalog-Humaject 100 U/ml, solution for injection]
 
 (all sentences already above)
 
@@ -54,7 +54,7 @@ Eli Lilly Nederland B V., Grootslag 1-5, 3991 RA Houten, The Netherlands.
 
 (all sentences already above)
 
-[Humalog-Pen 100 U/ml, solution for injection]
+[Humalog Pen 100 U/ml, solution for injection]
 
 (all sentences already above)
 

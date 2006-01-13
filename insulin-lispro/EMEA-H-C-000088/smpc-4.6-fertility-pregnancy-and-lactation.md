@@ -45,7 +45,7 @@ Patients with diabetes who are lactating may require adjustments in insulin dose
 
 (all sentences already above)
 
-[Humalog - HumaJect 100 U/ml, solution for injection]
+[Humalog-Humaject 100 U/ml, solution for injection]
 
 (all sentences already above)
 
@@ -61,7 +61,7 @@ Patients with diabetes who are lactating may require adjustments in insulin dose
 
 (all sentences already above)
 
-[Humalog-Pen 100 U/ml, solution for injection]
+[Humalog Pen 100 U/ml, solution for injection]
 
 (all sentences already above)
 
