@@ -82,6 +82,7 @@ Precautions with certain concomitant medicinal products
 Patients should be monitored closely when given bortezomib in combination with potent CYP3A4- inhibitors.
 Caution should be exercised when bortezomib is combined with CYP3A4- or CYP2C19 substrates (see section 4.5).
 Normal liver function should be confirmed and caution should be exercised in patients receiving oral hypoglycemics (see section 4.5).
+
 Potentially immunocomplex-mediated reactions
 Potentially immunocomplex-mediated reactions, such as serum-sickness –type reaction, polyarthritis with rash and proliferative glomerulonephritis have been reported uncommonly.
 Bortezomib should be discontinued if serious reactions occur.

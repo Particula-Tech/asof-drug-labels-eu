@@ -59,12 +59,15 @@ Table 3: Patient characteristics in Phase II and Phase III studies
 | 1 prior line > 1 prior line | 0 | N=132(40%) N= 186 (60%) | N= 119 (35%) N= 194 (65%) |
 
 *Including steroids, alkylating agents, anthracyclines, thalidomide and stem cell transplants
+
 Table 4: Patient exposure to treatment with VELCADE during phase 2 and 3 studies
 
 |  | Phase II VELCADE | Phase III VELCADE | Phase III Dex |
 | --- | --- | --- | --- |
 | Received at least 1 dose | N= 202 | N=331 | N= 332 |
-| Completed 4 cycles a) all initial cycles (number) b) full course (number) c) extension * | 27% (8 cycles) NA N= 63 pts (median 7 cycles) or total median 14 cycles (range 7-32) | 69% 29 % (8 cycles) 9% (11 cycles) NA | 36 % (4 cycles) 5 % (9 cycles) NA |
+| Completed 4 cycles a) all initial cycles (number) b) full course (number) c) extension * | 27% (8 cycles) NA N= 63 pts (median 7 cycles) or total median 14 cycles | 69% 29 % (8 cycles) 9% (11 cycles) NA | 36 % (4 cycles) 5 % (9 cycles) NA |
+
+(range 7-32)
 
 *Patients could continue on treatment after completing 8 cycles, in case of benefit
 NA = not applicable
@@ -88,17 +91,19 @@ Table 5: Summary of Disease Outcomes from the Phase III and Phase II studies
 |  | Phase III |  | Phase III |  | Phase III |  | Phase II |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | All Patients |  | 1 Prior Line of Therapy |  | >1 Prior Line of Therapy |  | ≥2 prior lines |
-| Time related events | VELCADE N=333a | Dex Na =336 | VELCADE N=132a | Dex aN=119 | VELCADE N=200a | Dex N=21 7a | VELCADE N=202a |
+| Time related events | VELCA DE N=333a | Dex N=a336 | VELCAD E N=132a | Dex N=a119 | VELCA DE N=200a | Dex N=217a | VELCA DE N=202a |
 | TTP, days [95% CI] | 189b [148, 211] | 106b [86, 128] | 212d [188, 267] | 169d [105, 191] | 148b [129, 192] | 87b [84, 107] | 210 [154, 281] |
-| 1 year survival, % [95% CI] | 80d [74,85] | 66d [59,72 ] | 89d [82,95] | 72d [62,83 ] | 73 [64,82] | 62 [53,7 1] | 60 |
-| Best | VELCADE | Dex | VELCADE | Dex | VELCADE | Dex | VELCADE |
-| Response (%) | N=315c | cN=312 | N=128 | N=110 | N=187 | N=20 2 | N=193 |
-| CR | 20 (6) b | b2 (<1) | 8 (6) | 2 (2) | 12 (6) | 0 (0) | (4)** |
+| 1 year survival, % [95% CI] | 80d [74,85] | 66d [59,72] | 89d [82,95] | 72d [62,83 ] | 73 [64,82] | 62 [53,71] | 60 |
+| Best Response (%) | VELCA DE N=315c | Dex Nc =312 | VELCAD E N=128 | Dex N=110 | VELCA DE N=187 | Dex N=202 | VELCA DE N=193 |
+| CR | 20 (6) b | 2 (b<1) | 8 (6) | 2 (2) | 12 (6) | 0 (0) | (4)** |
 | CR + nCR | 41 (13) b | 5 (2) b | 16 (13) | 4 (4) | 25 (13) | 1 (<1) | (10)** |
-| CR+ nCR + PR | 121 (38) b | 56 (18) b | 57 (45) d | 29 (26) d | 64 (34) b ( | 27 (13) b | (27)** |
+| CR+ nCR + PR | 121 (38) b | 56 (b18) | 57 (45) d | 29 (26) d | 64 (34) b | 27b (13) | (27)** |
 | CR + nCR+ PR+MR | 146 (46) | 108 (35) | 66 (52) | 45 (41) | 80 (43) | 63 (31) | (35)** |
 | Median duration Days (months) | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
-| TIME TO RESPO NSE CR + PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |
+
+TIME TO
+RESPONSE 43 43 44 46 41 27 38*
+CR + PR (days)
 
 a Intent to Treat (ITT) population b p-value from the stratified log-rank test; analysis by line of therapy excludes stratification for therapeutic history; p<0.0001 c Response population includes patients who had measurable disease at baseline and received at least 1 dose of study drug.
 d p-value from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors; analysis by line of therapy excludes stratification for therapeutic history
