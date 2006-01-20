@@ -1,5 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Bristol Myers Squibb Pharma EEIG
-141 – 149 Staines Road – Hounslow
-TW3 3JA - UK
+Bristol-Myers Squibb Pharma EEIG
+Uxbridge Business Park,
+Sanderson Road,
+Uxbridge UB8 1DH,
+United Kingdom

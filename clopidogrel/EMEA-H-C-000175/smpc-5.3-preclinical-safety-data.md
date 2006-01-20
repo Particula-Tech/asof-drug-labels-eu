@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-During preclinical studies in rat and baboon, the most frequently observed effects were liver changes.
+During non clinical studies in rat and baboon, the most frequently observed effects were liver changes.
 These occurred at doses representing at least 25 times the exposure seen in humans receiving the clinical dose of 75 mg/day and were a consequence of an effect on hepatic metabolising enzymes.
 No effect on hepatic metabolising enzymes was observed in humans receiving clopidogrel at the therapeutic dose.
 

@@ -41,15 +41,16 @@ The incidence of severe thrombocytopenia (<80 x 109/l) was 0.2% on clopidogrel a
 In CURE, the numbers of patients with thrombocytopenia (19 clopidogrel+ASA vs. 24 placebo+ASA) or neutropenia (3 vs. 3) were similar in both groups.
 
 Other clinically relevant adverse drug reactions pooled from CAPRIE and CURE studies with an incidence > 0.1% as well as all serious and relevant ADR are listed below according to the World Health Organisation classification.
-Their frequency is defined using the following conventions: common (> 1/100, <1/10) ; uncommon (> 1/1,000 , < 1/100); rare (>1/10,000 , <1/1,000).
+Their frequency is defined using the following conventions: common (> 1/100, <1/10); uncommon (> 1/1,000, < 1/100); rare (>1/10,000, <1/1,000).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Central and peripheral nervous system disorders:
 - Uncommon: Headache, Dizziness and Paraesthesia
 - Rare: Vertigo
 
 Gastrointestinal system disorders
-- Common: Dyspepsia, Abdominal pain and Diarrhoea
-- Uncommon: Nausea, Gastritis, Flatulence, Constipation, Vomiting, Gastric ulcer and Duodenal ulcer
+- Common: Diarrhoea, , Abdominal pain, Dyspepsia
+- Uncommon: Gastric ulcer and Duodenal ulcer, Gastritis, Vomiting, Nausea, Constipation, Flatulence.
 
 Platelet, bleeding and clotting disorders
 - Uncommon: Bleeding time increased and Platelets decreased
@@ -65,17 +66,18 @@ Post-marketing experience:
 Bleeding is the most common reaction reported in the post-marketing experience and was mostly reported during the first month of treatment.
 
 Bleeding: some cases were reported with fatal outcome (especially intracranial, gastrointestinal and retroperitoneal haemorrhage); serious cases of skin bleeding (purpura), musculo-skeletal bleeding (haemarthrosis, haematoma), eye bleeding (conjunctival, ocular, retinal), epistaxis, respiratory tract bleeding (haemoptysis, pulmonary haemorrhage), haematuria and haemorrhage of operative wound have been reported; cases of serious haemorrhage have been reported in patients taking clopidogrel concomitantly with acetylsalicylic acid or clopidogrel with acetylsalicylic acid and heparin (see section 4.4).
+
 In addition to clinical studies experience, the following adverse reactions have been spontaneously reported.
 Within each system organ class (MedDRA classification), they are ranked under heading of frequency.
 "Very rare" corresponds to <1/10,000.
-
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Blood and lymphatic system disorders:
 
-- Very rare: Thrombotic Thrombocytopenic Purpura (TTP) (1/200,000 exposed patients) (see section 4.4), severe Thrombocytopenia (platelet count ≤30 x109/l), Granulocytopenia, Agranulocytosis, Anaemia and Aplastic Anaemia/Pancytopenia.
+- Very rare: Thrombotic Thrombocytopenic Purpura (TTP) (1/200,000 exposed patients) (see section 4.4), severe Thrombocytopenia (platelet count ≤30 x109/l), Agranulocytosis, Granulocytopenia, Aplastic Anaemia/Pancytopenia, Anaemia.
 
 Immune system disorders:
 
-- Very rare: Anaphylactoid reactions, Serum Sickness
+- Very rare: Anaphylactoid reactions, Serum sickness
 
 Psychiatric disorders:
 
@@ -91,23 +93,23 @@ Vascular disorders:
 
 Respiratory, thoracic and mediastinal disorders:
 
-- Very rare: Bronchospasm, Interstitial Pneumonitis
+- Very rare: Bronchospasm, Interstitial pneumonitis
 
 Gastrointestinal disorders:
 
-- Very rare: Colitis (including ulcerative or lymphocytic colitis), Pancreatitis, Stomatitis
+- Very rare: Pancreatitis, Colitis (including ulcerative or lymphocytic colitis), Stomatitis
 
 Hepato-biliary disorders
 
-- Very rare: Hepatitis, Acute liver failure
+- Very rare: Acute liver failure, Hepatitis
 
 Skin and subcutaneous tissue disorders:
 
-- Very rare: Angioedema, Bullous dermatitis (erythema multiforme, Stevens Johnson Syndrome...), rash erythematous, urticaria, eczema and lichen planus
+- Very rare: Angioedema, Bullous dermatitis (erythema multiforme, Stevens Johnson Syndrome, toxic epidermal necrolysis), Rash erythematous, Urticaria, Eczema and Lichen planus
 
 Musculoskeletal, connective tissue and bone disorders:
 
-- Very rare: Arthralgia, Arthritis Myalgia
+- Very rare: Arthralgia, Arthritis, Myalgia.
 
 Renal and urinary disorders:
 
@@ -115,7 +117,7 @@ Renal and urinary disorders:
 
 General disorders and administration site conditions
 
-- Very rare: Fever
+- Very rare: Fever.
 
 Investigations:
 

@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Due to the risk of bleeding and haematological undesirable effects, blood cell count determination and/or other appropriate testing should be promptly considered whenever clinical symptoms suggestive of bleeding arise during the course of treatment (see section 4.8).
 As with other antiplatelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions and in patients receiving treatment with ASA, non-steroidal anti-inflammatory drugs, heparin, glycoprotein IIb/IIIa inhibitors or thrombolytics.
@@ -24,3 +24,5 @@ Therefore clopidogrel should be used with caution in these patients.
 
 Experience is limited in patients with moderate hepatic disease who may have bleeding diatheses.
 Clopidogrel should therefore be used with caution in this population.
+
+Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.

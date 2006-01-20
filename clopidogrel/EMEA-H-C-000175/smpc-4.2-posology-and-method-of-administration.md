@@ -11,4 +11,4 @@ Clinical trial data support use up to 12 months, and the maximum benefit was see
 
 - Children and adolescents
 
-Safety and efficacy in subjects below the age of 18 have not been established.
+There is no experience in children.

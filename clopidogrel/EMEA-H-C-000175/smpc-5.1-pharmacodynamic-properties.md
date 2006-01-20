@@ -1,8 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutical group: platelet aggregation inhibitors excl.
+Pharmacotherapeutic group: platelet aggregation inhibitors excl.
 Heparin, ATC Code: BO1AC/04.
-
 Clopidogrel selectively inhibits the binding of adenosine diphosphate (ADP) to its platelet receptor, and the subsequent ADP-mediated activation of the GPIIb/IIIa complex, thereby inhibiting platelet aggregation.
 Biotransformation of clopidogrel is necessary to produce inhibition of platelet aggregation.
 Clopidogrel also inhibits platelet aggregation induced by other agonists by blocking the amplification of platelet activation by released ADP.
@@ -37,7 +36,6 @@ Patients were randomised to clopidogrel (300 mg loading dose followed by 75 mg/d
 Patients were treated for up to one year.
 In CURE, 823 (6.6%) patients received concomitant GPIIb/IIIa receptor antagonist therapy.
 Heparins were administered in more than 90% of the patients and the relative rate of bleeding between clopidogrel and placebo was not significantly affected by the concomitant heparin therapy.
-
 The number of patients experiencing the primary endpoint [cardiovascular (CV) death, myocardial infarction (MI), or stroke] was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%-28%; p=0.00009) for the clopidogrel-treated group (17% relative risk reduction when patients were treated conservatively, 29% when they underwent PTCA with or without stent and 10% when they underwent CABG).
 New cardiovascular events (primary endpoint) were prevented, with relative risk reductions of 22% (CI: 8.6, 33.4), 32% (CI: 12.8, 46.4), 4% (CI: -26.9, 26.7), 6% (CI: -33.5, 34.3) and 14% (CI: -31.6, 44.2), during the 0-1, 1-3, 3-6, 6-9 and 9-12 month study intervals, respectively.
 Thus, beyond 3 months of treatment, the benefit observed in the clopidogrel + ASA group was not further increased, whereas the risk of haemorrhage persisted (see section 4.4).
