@@ -27,7 +27,7 @@ Patients should be instructed to seek medical advice if signs/symptoms (eg, pers
 
 Neurological events
 
-TNF-antagonists including Humira have been associated in rare cases with exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disease.
+TNF-antagonists including Humira have been associated in rare cases with new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disease.
 Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central nervous system demyelinating disorders.
 
 Allergic reactions
@@ -37,18 +37,28 @@ Non-serious allergic reactions associated with Humira were uncommon during clini
 In postmarketing, serious allergic reactions including anaphylaxis have been reported very rarely following Humira administration.
 If an anaphylactic reaction or other serious allergic reaction occurs, administration of Humira should be discontinued immediately and appropriate therapy initiated.
 
+The needle cover of the syringe contains natural rubber (latex).
+This may cause severe allergic reactions in patients sensitive to latex.
+
 Immunosuppression
 
 In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-and B cells and NK-cells, monocyte/macrophages, and neutrophils.
-
 Malignancies and lymphoproliferative disorders
 
 In the controlled portions of clinical trials of TNF-antagonists, more cases of lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients.
 However, the occurrence was rare, and the follow up period of placebo patients was shorter than for patients receiving TNF-antagonist therapy.
 Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
 With the current knowledge, a possible risk for the development of lymphomas or other malignancies in patients treated with a TNF-antagonist cannot be excluded.
+
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving Humira.
 Thus additional caution should be exercised in considering Humira treatment of these patients (see section 4.8).
+
+Haematologic reactions
+
+Rare reports of pancytopenia including aplastic anaemia have been reported with TNF blocking agents.
+Adverse events of the haematologic system, including medically significant cytopenia (eg thrombocytopenia, leukopenia) have been infrequently reported with Humira.
+All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (eg persistent fever, bruising, bleeding, pallor) while on Humira.
+Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.
 
 Vaccinations
 
@@ -74,7 +84,6 @@ Concurrent administration of TNF-antagonists and anakinra
 Serious infections were seen in clinical studies with concurrent use of anakinra and another TNF-antagonist, etanercept, with no added clinical benefit compared to etanercept alone.
 Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNF-antagonists.
 Therefore, the combination of adalimumab and anakinra is not recommended.
-
 Surgery
 
 There is limited safety experience of surgical procedures in patients treated with Humira.

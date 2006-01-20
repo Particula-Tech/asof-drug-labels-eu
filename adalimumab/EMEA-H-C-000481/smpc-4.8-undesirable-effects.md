@@ -2,154 +2,153 @@
 
 Clinical Trials
 
-Rheumatoid arthritis
+Humira was studied in 3441 patients in -controlled and open label trials.
+These trials included rheumatoid arthritis patients with short term and long standing disease as well as psoriatic arthritis patients.
+The data in Table 1 is based on the adequate and well controlled Studies I − VII (described in section 5.1) involving 2124 patients receiving Humira and 1158 patients receiving placebo or active comparator during the controlled period.
 
-Humira was studied in 2334 rheumatoid arthritis patients in placebo-controlled trials and in long term follow-up studies, including 2073 patients exposed for six months and 1497 patients exposed for greater than one year.
-The data in the table is based on the adequate and well-controlled studies I, II, III and IV (see section 5.1) involving 1380 patients receiving adalimumab during the placebo-controlled period by randomised treatment.
-The population had a mean age of 54.5 years, 77% were female, 91% were Caucasian and had moderate to severely active rheumatoid arthritis.
-Most patients received 40 mg Humira every other week.
-
-The proportion of patients who discontinued treatment due to adverse events during the double-blind, placebo controlled portion of Studies I, II, III and IV was 6.6% for patients taking Humira and 4.2% for placebo-treated patients.
-
-Adverse events at least possibly causally-related to adalimumab, both clinical and laboratory, are displayed by system organ class and frequency (very common > 1/10; common > 1/100 ≤ /10; uncommon > 1/1000 ≤ 1/100) in Table 1 below.
+The proportion of patients who discontinued treatment due to adverse events during the double-blind, controlled portion of Studies I − VII was 5.5% for patients taking Humira and 3.5% for control treated patients.
+Adverse events at least possibly causally-related to adalimumab for Studies I − VII, both clinical and laboratory, are displayed by system organ class and frequency (very common ≥ 1/10; common
+> 1/100 < 1/10; uncommon > 1/1000 ≤ 1/100) in Table 1 below.
 Table 1
-Undesirable Effects in Clinical Studies I-IV
+Undesirable Effects in Clinical Studies
 
-| Body system | Frequency | Adverse event |
+| System Organ Class | Frequency | Adverse Reaction |
 | --- | --- | --- |
-| Neoplasia | Uncommon | Skin benign neoplasm |
-| Haemic and Lymphatic system | Common | Decreased haemoglobin |
-|  | Uncommon | Granulocytopenia, coagulation time increased, antinuclear antibody present, leukopenia, lymphadenopathy, lymphocytosis, platelet count decreased, purpura |
-| Metabolic and Nutritional Disorders | Common | Hyperlipidaemia |
-|  | Uncommon | Hypercholesterolaemia, alkaline phosphatase increased, BUN increased, hyperuricaemia, peripheral oedema, weight gain, creatine phosphokinase increased, healing abnormal, hypokalaemia, lactic dehydrogenase increased |
-| Psychiatric Disorders | Uncommon | Depression, somnolence, insomnia, agitation |
-| Nervous System | Common | Headache, dizziness |
-|  | Uncommon | Paresthaesia, vertigo, hypeaesthesia, neuralgia, tremor |
-| Special senses | Uncommon | Conjunctivitis, eye disorder*, otitis media, taste perversion, abnormal vision, blurred vision, dry eye, ear disorder*, eye pain |
-| Cardiovascular System | Uncommon | Hypertension, vasodilatation, chest pain, migraine |
-| Haemorrhage | Uncommon | Ecchymosis |
-| Respiratory System | Common | Upper respiratory infection, rhinitis, sinusitis, bronchitis, cough increased, pneumonia |
-|  | Uncommon | Pharyngitis, dyspnoea, lung disorder*, asthma |
-| Digestive System | Common | Nausea, diarrhoea, sore throat |
-|  | Uncommon | Liver function test abnormal, SGPT increased, SGOT increased, mouth ulceration, oesophagitis, vomiting, dyspepsia, constipation, gastrointestinal pain, tooth disorder*, gastritis, gastroenteritis, tongue disorder*, oral moniliasis, aphthous stomatitis, dysphagia, stomatitis, ulcerative stomatitis |
-| Skin and Appendages | Common | Rash, pruritis, herpes simplex |
-|  | Uncommon | Skin disorder*, herpes zoster, maculopapular rash, nail disorder*, dry skin, sweating increased, alopecia, fungal dermatitis, urticaria, skin nodule, skin ulcer, eczema, subcutaneous haematoma |
-| Musculo-skeletal System | Uncommon | Arthralgia, muscle cramps, myalgia, joint disorder, synovitis, tendon disorder* |
-| Urogenital System | Common | Urinary tract infection |
-|  | Uncommon | Vaginal moniliasis, haematuria, cystitis, menorrhagia, proteinuria, increased urinary frequency |
-| Body as a whole | Common | Laboratory test abnormal, asthenia, clinical flare reaction, flu syndrome, abdominal pain, infection |
-|  | Uncommon | Fever, mucous membrane disorder*, pain in extremity, face oedema, back pain, cellulites, chills, sepsis, surgery |
-| Injection Site Reaction | Very common | Injection site pain |
-|  | Common | Injection site reaction, injection site haemorrhage, injection site eruption |
-| Hypersensitivity, general | Uncommon | Allergic reaction |
-
-* (not otherwise specified).
+| Infections and infestations | Very Common | upper respiratory infection |
+|  | Common | lower respiratory infections (including pneumonia, bronchitis), urinary tract infection, herpetic viral infection (including simplex and zoster), influenza, superficial fungal infections (including skin, nail and foot) |
+|  | Uncommon | sepsis, joint infection, wound infection, abscess, skin infection (including cellulitis and impetigo), hair follicle infections (including furuncles and carbuncles), paronychia, rash pustular, tooth and periodontal infection, ear infections, gastroenteritis, oropharyngeal candidiasis, vaginal fungal infection, viral and other infections |
+| Neoplasms benign and malignant (including cysts and polyps) | Uncommon | skin papilloma |
+| Blood and the lymphatic system disorders | Common | lymphopenia, anaemia |
+|  | Uncommon | leukopenia, leukocytosis, lymphadenopathy, neutropenia, thrombocytopenia |
+| Immune system disorders | Uncommon | hypersensitivity, rheumatoid nodule, seasonal allergy |
+| Metabolism and nutrition disorders | Uncommon | hypercholesterolaemia, hyperuricaemia, anorexia, decreased appetite |
+| Psychiatric disorders | Uncommon | depression, anxiety (including nervousness and agitation), insomnia, confusional state |
+| Nervous system disorders | Common | headache, dizziness, paraesthesias |
+|  | Uncommon | dysgeusia, migraine, somnolence, syncope, tremor, neuralgia, neuropathy |
+| Eye disorders | Uncommon | visual disturbance, conjunctivitis, eye inflammation (including swelling, pain, redness), eyelid oedema, glaucoma, blepharitis (including eyelid margin crusting), dry eye |
+| Ear and labyrinth disorders | Uncommon | vertigo, ear pain or congestion, tinnitus |
+| Cardiac disorders | Uncommon | palpitations, tachycardia |
+| Vascular disorders | Common | hypertension |
+|  | Uncommon | flushing, haematoma |
+| Respiratory, thoracic and mediastinal disorders | Common | cough, nasopharyngeal pain, nasal congestion |
+|  | Uncommon | dyspnoea, asthma, hoarseness, lung crepitation, nasal ulcer, upper respiratory tract congestion |
+| Gastrointestinal disorders | Common | nausea, abdominal pain, diarrhoea, dyspepsia, mouth ulceration |
+|  | Uncommon | vomiting, abdominal bloating, constipation, gastrooesophageal reflux, gastritis, colitis, haemorrhoidal haemorrhage, haemorrhoids, oral blistering, toothache, dry mouth, gingivitis, tongue ulceration, dysphagia, stomatitis (including aphthous stomatitis) |
+| Skin and subcutaneous tissue disorders | Common | rash, pruritus, rash erythematous, rash pruritic, hair loss |
+|  | Uncommon | rash macular or papular, dry skin, eczema, dermatitis, hyperhidrosis, psoriasis, skin lesion, urticaria, ecchymosis and increased bruising, purpura, acne, skin ulcer, angioedema, exanthem, localised skin reaction, nail disorder, night sweats, photosensitivity reactions |
+| Musculoskeletal, connective tissue and bone disorders | Common | arthritis |
+|  | Uncommon | rheumatoid arthritis, arthralgia, pain in extremity, myalgia, back pain, muscle cramp, joint swelling, psoriatic arthropathy, synovitis, bursitis, flank pain, tendonitis |
+| Renal and urinary disorders | Uncommon | haematuria, dysuria, nocturia, pollakiuria, renal pain |
+| Reproductive system and breast disorders | Uncommon | menorrhagia |
+| General disorders and administration site conditions | Very Common | injection site reaction (including pain, swelling, redness or pruritus) |
+|  | Common | fatigue (including asthenia and malaise), influenza like illness |
+|  | Uncommon | pyrexia, chills, chest pain, oedema, impaired healing, pain |
+| Investigations | Common | hepatic enzymes increased (including alanine aminotransferase and aspartate aminotransferase) |
+|  | Uncommon | blood triglycerides increased, activated partial thromboplastin time prolonged, blood alkaline phosphatase increased, blood creatine phosphokinase increased, blood potassium decreased, blood lactate dehydrogenase increased, neutrophil count decreased, weight decreased, weight increased, blood urea increased, blood creatinine increased, protein urine, DNA antibody positive, antinuclear antibody positive, uncharacterised antibody test positive |
+| Injury and poisoning | Uncommon | contusion |
 
 Injection site reactions
 
-In placebo-controlled trials, 20% of patients treated with Humira developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 14% of patients receiving placebo.
+In the seven controlled trials, 17% of patients treated with Humira developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 11% of patients receiving placebo or active control.
 Injection site reactions generally did not necessitate discontinuation of the medicinal product.
 
 Infections
 
-In placebo-controlled trials, the rate of infection was 1 per patient year in the Humira treated patients and 0.9 per patient year in the placebo-treated patients.
-The incidence of serious infections was 0.04 per patient year in Humira treated patients and 0.02 per patient year in placebo-treated patients.
+In the seven controlled trials, the rate of infection was 1.52 per patient year in the Humira treated patients and 1.42 per patient year in the placebo and active control-treated patients.
 The infections consisted primarily of upper respiratory tract infections, bronchitis and urinary tract infections.
 Most patients continued on Humira after the infection resolved.
+The incidence of serious infections was 0.03 per patient year in Humira treated patients and 0.02 per patient year in placebo and active control − treated patients.
+In controlled and open label studies with Humira, serious infections (including fatal infections, which occurred rarely) have been reported, which include reports of tuberculosis (including miliary and extra-pulmonary locations) and invasive opportunistic infections (e.g. histoplasmosis, pneumocystis carinii pneumonia, aspergillosis and nocardosis).
+Most of the cases of tuberculosis occurred within the first eight months after initiation of therapy and may reflect recrudescence of latent disease.
 
 Malignancies and lymphoproliferative disorders
 
-In the 4 pivotal trials, 21 malignancies were reported in 1380 Humira treated patients observed for 785 patient-years, and 2 malignancies were reported in 690 placebo treated patients observed for 362 patient-years.
-This included 2 lymphomas in the Humira treated patients and no lymphomas in the placebo treated patients.
+In the seven controlled trials, 29 malignancies were reported in 2124 Humira treated patients with 1689 patient-years of exposure (17.2 per 1000 patient years), and 6 malignancies were reported in 1158 control treated patients observed with 828 patient-years of exposure (7.2 per 1000 patient years).
+This included 2 lymphomas in the Humira treated patients (1.2 per 1000 patient years) and 1 lymphoma in the control treated patients (1.2 per 1000 patient years).
 
-In controlled trials and in open label extension studies, a total of 80 malignancies were observed in 2468 rheumatoid arthritis patients treated in clinical trials for a mean of 24 months (4870 patient-years of therapy).
-This included 32 non-melanoma skin cancers.
-The expected rates of non-melanoma skin cancers cannot be reliably estimated.
-Forty-eight other malignancies were observed and overall rates and incidences of malignancies in these patients was similar to that expected for an age and gender matched population.
-Among these other malignancies, 10 lymphomas were observed.
+When combining controlled trials I − V in rheumatoid arthritis and ongoing open label extension studies with a mean exposure of approximately 3 years including 3201 patients and over 8500 patient years of therapy, the observed rate of lymphomas is approximately 1.5 per 1000 patient years.
+The observed rate of non − melanoma skin cancers is approximately 7 per 1000 patient years.
 
-In post-marketing experience from January 2003 to June 2004, with an estimated exposure of 40100 patient-years, a total of 70 malignancies, including 13 lymphomas, have been reported, predominately in patients with rheumatoid arthritis (see section 4.4).
-
+In post-marketing experience from January 2003, predominately in patients with rheumatoid arthritis, the rate of overall malignancies and lymphomas reported is approximately 2 and 0.3 per 1000 patient years, respectively (see section 4.4).
 Autoantibodies
-Patients had serum samples tested for autoantibodies at multiple time points.
-In the adequate and well-controlled trials, 12.6% of patients treated with Humira and 7.3% of placebo-treated patients that had negative baseline anti-nuclear antibody titres reported positive titres at week 24.
-One patient out of 2334 treated with Humira developed clinical signs suggestive of new-onset lupus-like syndrome.
-The patient improved following discontinuation of therapy.
+
+Patients had serum samples tested for autoantibodies at multiple time points in rheumatoid arthritis Studies I − V. In these adequate and well-controlled trials, 11.9% of patients treated with Humira and 8.1% of placebo and active control − treated patients that had negative baseline anti-nuclear antibody titres reported positive titres at week 24.
+Two patients out of 3441 treated with Humira in all rheumatoid arthritis and psoriatic arthritis studies developed clinical signs suggestive of new-onset lupus-like syndrome.
+The patients improved following discontinuation of therapy.
 No patients developed lupus nephritis or central nervous system symptoms.
 
-Information from further rheumatoid arthritis clinical trials
+Liver Enzyme Elevations
 
-Humira has been studied in 542 patients with early rheumatoid arthritis (disease duration less than 3 years) who were methotrexate naïve (Study V). In the methotrexate monotherapy group, 3.9% of subjects had ALT values 3 x ULN, compared with 2.9% in Humira monotherapy and 8.6% in the combination arm (methotrexate plus Humira).
+Rheumatoid arthritis clinical trials: in controlled rheumatoid arthritis clinical trials (Studies I − IV), elevations of ALT were similar in patients receiving adalimumab or placebo.
+In patients with early rheumatoid arthritis (disease duration of less than 3 years) (Study V), elevations of ALT were more common in the combination arm (Humira/methotrexate) compared to the methotrexate monotherapy arm or the Humira monotherapy arm.
 
-Psoriatic arthritis
+Psoriatic arthritis clinical trials: elevations in ALT were more common in psoriatic arthritis patients (Studies VI-VII) compared with patients in rheumatoid arthritis clinical studies.
 
-Humira has been studied in 395 patients with psoriatic arthritis.
-Elevations in ALT were more common in these patients compared with patients in rheumatoid arthritis clinical studies.
+In all studies (I-VII), patients with raised ALT were asymptomatic and in most cases elevations were transient and resolved on continued treatment.
 
 Additional Adverse Reactions from Postmarketing Surveillance or Phase IV Clinical Trials
 
-Anaphylaxis has been reported very rarely.
+The additional adverse reactions in Table 2 have been reported from postmarketing surveillance of Phase IV clinical trials:
 
-Cutaneous vasculitis has been reported rarely.
+Table 2
+Undesirable Effects in Postmarketing Surveillance and Phase IV Clinical Studies
+
+| System Organ Class | Adverse Reaction |
+| --- | --- |
+| Hepatobiliary Disorders | reactivation of hepatitis B |
+| Nervous system disorders | demyelinating disorders (eg optic neuritis) |
+| Respiratory, thoracic and mediastinal disorders | interstitial lung disease, including pulmonary fibrosis |
+| Skin and subcutaneous tissue disorders | cutaneous vasculitis |
+| Immune system disorders | anaphylaxis |
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-Adverse events at least possibly causally-related to adalimumab, both clinical and laboratory, are displayed by system organ class and frequency (very common > 1/10; common > 1/100 ≤ 1/10; uncommon > 1/1000 ≤ 1/100) in Table 1 below.
+Humira was studied in 3441 patients in controlled and open label trials.
+The data in Table 1 is based on the controlled Studies I − VII (described in section 5.1) involving 2124 patients receiving Humira and 1158 patients receiving placebo or active comparator during the controlled period.
 
-| Body system | Frequency | Adverse events |
+| System Organ Class | Frequency | Adverse Reaction |
 | --- | --- | --- |
-| Neoplasia | Uncommon | Skin benign neoplasm |
-| Haemic and Lymphatic system | Common | Decreased haemoglobin |
-|  | Uncommon | Granulocytopenia, coagulation time increased, antinuclear antibody present, leukopenia, lymphadenopathy, lymphocytosis, platelet count decreased, purpura |
-| Metabolic and Nutritional Disorders | Common | Hyperlipidaemia |
-|  | Uncommon | Hypercholesterolaemia, alkaline phosphatase increased, BUN increased, hyperuricaemia, peripheral oedema, weight gain, creatine phosphokinase increased, healing abnormal, hypokalaemia, lactic dehydrogenase increased |
-| Psychiatric Disorders | Uncommon | Depression, somnolence, insomnia, agitation |
-| Nervous System | Common | Headache, dizziness |
-|  | Uncommon | Paresthaesia, vertigo, hypeaesthesia, neuralgia, tremor |
-| Special senses | Uncommon | Conjunctivitis, eye disorder*, otitis media, taste perversion, abnormal vision, blurred vision, dry eye, ear disorder*, eye pain |
-| Cardiovascular System | Uncommon | Hypertension, vasodilatation, chest pain, migraine |
-| Haemorrhage | Uncommon | Ecchymosis |
-| Respiratory System | Common | Upper respiratory infection, rhinitis, sinusitis, bronchitis, cough increased, pneumonia |
-|  | Uncommon | Pharyngitis, dyspnoea, lung disorder*, asthma |
-| Digestive System | Common | Nausea, diarrhoea, sore throat |
-|  | Uncommon | Liver function test abnormal, SGPT increased, SGOT increased, mouth ulceration, oesophagitis, vomiting, dyspepsia, constipation, gastrointestinal pain, tooth disorder*, gastritis, gastroenteritis, tongue disorder*, oral moniliasis, aphthous stomatitis, dysphagia, stomatitis, ulcerative stomatitis |
-| Skin and Appendages | Common | Rash, pruritis, herpes simplex |
-|  | Uncommon | Skin disorder*, herpes zoster, maculopapular rash, nail disorder*, dry skin, sweating increased, alopecia, fungal dermatitis, urticaria, skin nodule, skin ulcer, eczema, subcutaneous haematoma |
-| Musculo-skeletal System | Uncommon | Arthralgia, muscle cramps, myalgia, joint disorder, synovitis, tendon disorder* |
-| Urogenital System | Common | Urinary tract infection |
-|  | Uncommon | Vaginal moniliasis, haematuria, cystitis, menorrhagia, proteinuria, increased urinary frequency |
-| Body as a whole | Common | Laboratory test abnormal, asthenia, clinical flare reaction, flu syndrome, abdominal pain, infection |
-|  | Uncommon | Fever, mucous membrane disorder*, pain in extremity, face oedema, back pain, cellulitis, chills, sepsis, surgery |
-| Injection Site Reaction | Very common | Injection site pain |
-|  | Common | Injection site reaction, injection site haemorrhage, injection site eruption |
-| Hypersensitivity, general | Uncommon | Allergic reaction |
+| Infections and infestations | Very Common | upper respiratory infection |
+|  | Common | lower respiratory infections (including pneumonia, bronchitis), urinary tract infection, herpetic viral infection (including simplex and zoster), influenza, superficial fungal infections (including skin, nail and foot) |
+|  | Uncommon | sepsis, joint infection, wound infection, abscess, skin infection (including cellulitis and impetigo), hair follicle infections (including furuncles and carbuncles), paronychia, rash pustular, tooth and periodontal infection, ear infections, gastroenteritis, oropharyngeal candidiasis, vaginal fungal infection, viral and other infections |
+| Neoplasms benign and malignant (including cysts and polyps) | Uncommon | skin papilloma |
+| Blood and the lymphatic system disorders | Common | lymphopenia, anaemia |
+|  | Uncommon | leukopenia, leukocytosis, lymphadenopathy, neutropenia, thrombocytopenia |
+| Immune system disorders | Uncommon | hypersensitivity, rheumatoid nodule, seasonal allergy |
+| Metabolism and nutrition disorders | Uncommon | hypercholesterolaemia, hyperuricaemia, anorexia, decreased appetite |
+| Psychiatric disorders | Uncommon | depression, anxiety (including nervousness and agitation), insomnia, confusional state |
+| Nervous system disorders | Common | headache, dizziness, paraesthesias |
+|  | Uncommon | dysgeusia, migraine, somnolence, syncope, tremor, neuralgia, neuropathy |
+| Eye disorders | Uncommon | Visual disturbance, conjunctivitis, eye inflammation (including swelling, pain, redness), eyelid oedema, glaucoma, blepharitis (including eyelid margin crusting), dry eye |
+| Ear and labyrinth disorders | Uncommon | vertigo, ear pain or congestion, tinnitus |
+| Cardiac disorders | Uncommon | palpitations, tachycardia |
+| Vascular disorders | Common | hypertension |
+|  | Uncommon | flushing, haematoma |
+| Respiratory, thoracic and mediastinal disorders | Common | cough, nasopharyngeal pain, nasal congestion |
+|  | Uncommon | dyspnoea, asthma, hoarseness, lung crepitation, nasal ulcer, upper respiratory tract congestion |
+| Gastrointestinal disorders | Common | nausea, abdominal pain, diarrhoea., dyspepsia, mouth ulceration |
+|  | Uncommon | vomiting, abdominal bloating, constipation, gastrooesophageal reflux, gastritis, colitis, haemorrhoidal haemorrhage, haemorrhoids, oral blistering, toothache, dry mouth, gingivitis, tongue ulceration, dysphagia, stomatitis (including aphthous stomatitis) |
+| Skin and subcutaneous tissue disorders | Common | rash, pruritus, rash erythematous, rash pruritic, hair loss |
+|  | Uncommon | rash macular or papular, dry skin, eczema, dermatitis, hyperhidrosis, psoriasis, skin lesion, urticaria, ecchymosis and increased bruising, purpura, acne, skin ulcer, angioedema, exanthem, localised skin reaction, nail disorder, night sweats, photosensitivity reactions |
+| Musculoskeletal, connective tissue and bone disorders | Common | arthritis |
+|  | Uncommon | rheumatoid arthritis, arthralgia, pain in extremity, myalgia, back pain, muscle cramp, joint swelling, psoriatic arthropathy, synovitis, bursitis, flank pain, tendonitis |
+| Renal and urinary disorders | Uncommon | haematuria, dysuria, nocturia, pollakiuria, renal pain |
+| Reproductive system and breast disorders | Uncommon | menorrhagia |
+| General disorders and administration site conditions | Very Common | injection site reaction (including pain, swelling, redness or pruritus) |
+|  | Common | fatigue (including asthenia and malaise), influenza like illness |
+|  | Uncommon | pyrexia, chills, chest pain, oedema, impaired healing, pain |
+| Investigations | Common | hepatic enzymes increased (including alanine aminotransferase and aspartate aminotransferase) |
+|  | Uncommon | blood triglycerides increased, activated partial thromboplastin time prolonged, blood alkaline phosphatase increased, blood creatine phosphokinase increased, blood potassium decreased, blood lactate dehydrogenase increased, neutrophil count decreased, weight decreased, weight increased, blood urea increased, blood creatinine increased, protein urine, DNA antibody positive, antinuclear antibody positive, uncharacterised antibody test positive |
+| Injury and poisoning | Uncommon | contusion |
+
+In the seven controlled trials, the rate of infection was 1.52 per patient year in the Humira treated patients and 1.42 per patient year in the placeboand activecontrol − treated patients.
+In controlled and open label studies with Humira, serious infections (including fatal infections, which occurred rarely) have been reported, which include reports of tuberculosis (including miliary and extra-pulmonary locations) and invasive opportunistic infections (e.g. histoplasmosis, pneumocystis carinii pneumonia, aspergillosis, and nocardosis).
+
+The expected rates of non-melanoma skin cancers cannot be reliably estimated.
+The overall rates and incidences of other malignancies in these patients was similar to that expected for an age and gender matched population.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
-| Body system | Frequency | Adverse events |
-| --- | --- | --- |
-| Neoplasia | Uncommon | Skin benign neoplasm |
-| Haemic and Lymphatic system | Common | Decreased haemoglobin |
-|  | Uncommon | Granulocytopenia, coagulation time increased, antinuclear antibody present, leukopenia, lymphadenopathy, lymphocytosis, platelet count decreased, purpura |
-| Metabolic and Nutritional Disorders | Common | Hyperlipidaemia |
-|  | Uncommon | Hypercholesterolaemia, alkaline phosphatase increased, BUN increased, hyperuricaemia, peripheral oedema, weight gain, creatine phosphokinase increased, healing abnormal, hypokalaemia, lactic dehydrogenase increased |
-| Psychiatric Disorders | Uncommon | Depression, somnolence, insomnia, agitation |
-| Nervous System | Common | Headache, dizziness |
-|  | Uncommon | Paresthaesia, vertigo, hypeaesthesia, neuralgia, tremor |
-| Special senses | Uncommon | Conjunctivitis, eye disorder*, otitis media, taste perversion, abnormal vision, blurred vision, dry eye, ear disorder*, eye pain |
-| Cardiovascular System | Uncommon | Hypertension, vasodilatation, chest pain, migraine |
-| Haemorrhage | Uncommon | Ecchymosis |
-| Respiratory System | Common | Upper respiratory infection, rhinitis, sinusitis, bronchitis, cough increased, pneumonia |
-|  | Uncommon | Pharyngitis, dyspnoea, lung disorder*, asthma |
-| Digestive System | Common | Nausea, diarrhoea, sore throat |
-|  | Uncommon | Liver function test abnormal, SGPT increased, SGOT increased, mouth ulceration, oesophagitis, vomiting, dyspepsia, constipation, gastrointestinal pain, tooth disorder*, gastritis, gastroenteritis, tongue disorder*, oral moniliasis, aphthous stomatitis, dysphagia, stomatitis, ulcerative stomatitis |
-| Skin and Appendages | Common | Rash, pruritis, herpes simplex |
-|  | Uncommon | Skin disorder*, herpes zoster, maculopapular rash, nail disorder*, dry skin, sweating increased, alopecia, fungal dermatitis, urticaria, skin nodule, skin ulcer, eczema, subcutaneous haematoma |
-| Musculo-skeletal System | Uncommon | Arthralgia, muscle cramps, myalgia, joint disorder*, synovitis, tendon disorder |
-| Urogenital System | Common | Urinary tract infection |
-|  | Uncommon | Vaginal moniliasis, haematuria, cystitis, menorrhagia, proteinuria, increased urinary frequency |
-| Body as a whole | Common | Laboratory test abnormal, asthenia, clinical flare reaction, flu syndrome, abdominal pain, infection |
-|  | Uncommon | Fever, mucous membrane disorder*, pain in extremity, face oedema, back pain, cellulites, chills, sepsis, surgery |
-| Injection Site Reaction | Very common | Injection site pain |
-|  | Common | Injection site reaction, injection site haemorrhage, injection site eruption |
-| Hypersensitivity, general | Uncommon | Allergic reaction |
+In post-marketing experience from January 2003, , predominately in patients with rheumatoid arthritis, the rate of overall malignancies and lymphomas reported is approximately 2 and 0.3 per 1000 patient years, respectively (see section 4.4).
+
+Patients had serum samples tested for autoantibodies at multiple time points in rheumatoid arthritis Studies I − V. In these adequate and well-controlled trials, 11.9% of patients treated with Humira and 8.1% of placeboand active control − treated patients that had negative baseline anti-nuclear antibody titres reported positive titres at week 24.

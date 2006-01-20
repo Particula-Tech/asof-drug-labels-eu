@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of rheumatoid arthritis.
+Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of rheumatoid arthritis or psoriatic arthritis.
 Patients treated with Humira should be given the special alert card.
 
 After proper training in injection technique, patients may self-inject with Humira if their physician determines that it is appropriate and with medical follow-up as necessary.
