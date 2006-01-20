@@ -49,7 +49,7 @@ Adverse Events occurring in greater than 1 % of children enrolled in Phase III s
 
 In general, the adverse event profile in the children with asthma was qualitatively similar to that of otherwise healthy children.
 
-Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: dermatitis, rash, eczema, urticaria, hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, as well as very rare reports of severe skin reactions, including Stevens-Johnson Syndrome and erythema multiforme.
+Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: dermatitis, rash, eczema, urticaria, angioneurotic oedema, hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, as well as very rare reports of severe skin reactions, including Stevens-Johnson Syndrome, toxic epidermal necrolysis and erythema multiforme.
 Additionally, there are very rare reports of hepatic function disorders, including hepatitis and elevated liver enzymes in patients with influenza-like illness.
 
 [Tamiflu 12 mg/ml powder for oral suspension.]
@@ -84,4 +84,4 @@ Adverse Events occurring in greater 1 % of children enrolled in Phase III studie
 | Disorders of the Blood and Lymphatic System | Lymphadenopathy | 1.5 % | 1.0 % |
 | Vision disorders | Conjunctivitis | 0.4 % | 1.0 % |
 
-Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: dermatitis, rash, eczema, urticaria, hypersensitivity reactions,including anaphylactic/anaphylactoid reactions, as well as very rare reports of severe skin reactions, including Stevens-Johnson Syndrome and erythema multiforme.
+Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: dermatitis, rash, eczema, urticaria, angioneurotic oedema, hypersensitivity reactions,including anaphylactic/anaphylactoid reactions, as well as very rare reports of severe skin reactions, including Stevens-Johnson Syndrome, toxic epidermal necrolysis and erythema multiforme.
