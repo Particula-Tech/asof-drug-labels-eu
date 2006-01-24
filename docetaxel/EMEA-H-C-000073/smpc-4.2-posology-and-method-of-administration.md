@@ -64,7 +64,7 @@ Patients with hepatic impairment: Based on pharmacokinetic data with docetaxel a
 For those patients with serum bilirubin >ULN and/or ALT and AST >3.5 times the ULN associated with alkaline phosphatase >6 times the ULN, no dose-reduction can be recommended and docetaxel should not be used unless strictly indicated.
 No data are available in patients with hepatic impairment treated by docetaxel in combination.
 
-Children: The safety and effectiveness of docetaxel in children have not been established.
+Children and adolescents: The experience in children and adolescents is limited.
 
 Elderly: Based on a population pharmacokinetic analysis, there are no special instructions for use in the elderly.
 In combination with capecitabine, for patients 60 years of age or more, a starting dose reduction of capecitabine to 75% is recommended (see capecitabine summary of product characteristics)

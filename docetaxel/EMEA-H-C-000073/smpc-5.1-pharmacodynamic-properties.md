@@ -148,7 +148,7 @@ Prostate Cancer
 
 The safety and efficacy of TAXOTERE in combination with prednisone or prednisolone in patients
 
-with hormone refractory metastatic prostate cancer were evaluated in a randomized multicenter Phase KM c
+with hormone refractory metastatic prostate cancer were evaluated in a randomized multicenter Phase KM
 
 III trial.
 A total of 1006 patients with KPS≥60 were randomized to the following treatment groups:

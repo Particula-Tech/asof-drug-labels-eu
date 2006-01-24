@@ -1,6 +1,4 @@
-# 6.6 Instructions for use and handling, and disposal
-
-Recommendations for safe handling
+# 6.6 Special precautions for disposal
 
 TAXOTERE is an antineoplastic agent and, as with other potentially toxic compounds, caution should be exercised when handling it and preparing TAXOTERE solutions.
 The use of gloves is recommended.
@@ -41,6 +39,4 @@ The TAXOTERE infusion solution should be used within 4 hours and should be asept
 
 As with all parenteral products, TAXOTERE premix solution and infusion solution should be visually inspected prior to use, solutions containing a precipitate should be discarded.
 
-Disposal
-
-All materials that have been utilised for dilution and administration should be disposed of according to standard procedures.
+Any unused product or waste material should be disposed of in accordance with local requirements.

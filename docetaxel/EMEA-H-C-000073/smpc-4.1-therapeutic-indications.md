@@ -19,7 +19,6 @@ Non-small cell lung cancer
 TAXOTERE (docetaxel) is indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of prior chemotherapy.
 
 TAXOTERE (docetaxel) in combination with cisplatin is indicated for the treatment of patients with unresectable, locally advanced or metastatic non-small cell lung cancer, in patients who have not previously received chemotherapy for this condition.
-
 Prostate cancer
 
 TAXOTERE (docetaxel) in combination with prednisone or prednisolone is indicated for the treatment of patients with hormone refractory metastatic prostate cancer.

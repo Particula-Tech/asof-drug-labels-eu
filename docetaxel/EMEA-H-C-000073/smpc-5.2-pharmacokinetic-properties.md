@@ -7,7 +7,6 @@ Following the administration of a 100 mg/m2 dose given as a one-hour infusion a 
 Mean values for total body clearance and steady-state volume of distribution were 21 l/h/m2 and 113 l, respectively.
 Inter individual variation in total body clearance was approximately 50%.
 Docetaxel is more than 95% bound to plasma proteins.
-
 A study of 14C-docetaxel has been conducted in three cancer patients.
 Docetaxel was eliminated in both the urine and faeces following cytochrome P450-mediated oxidative metabolism of the tert-butyl ester group, within seven days, the urinary and faecal excretion accounted for about 6% and 75% of the administered radioactivity, respectively.
 About 80% of the radioactivity recovered in faeces is excreted during the first 48 hours as one major inactive metabolite and 3 minor inactive metabolites and very low amounts of unchanged drug.

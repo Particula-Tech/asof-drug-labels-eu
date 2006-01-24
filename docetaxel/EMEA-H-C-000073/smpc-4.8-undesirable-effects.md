@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-The adverse reactions considered to be possibly or probably related to the administration of TAXOTERE have been obtained in:.
+The adverse reactions considered to be possibly or probably related to the administration of TAXOTERE have been obtained in:
 
 - 1312 and 121 patients who received 100 mg/m² and 75 mg/m² of TAXOTEREas a single agent respectively
 - 258 patients who received TAXOTERE in combination with doxorubicin
@@ -13,6 +13,7 @@ The adverse reactions considered to be possibly or probably related to the admin
 These reactions were described using the NCI Common Toxicity Criteria (grade 3 = G3; grade3-4 = G3/4; grade 4 = G4) and the COSTART terms.
 Frequencies are defined as: very common (> 1/10), common (> 1/100, < 1/10); uncommon (> 1/1,000, < 1/100); rare (> 1/10,000, < 1/1,000); very rare
 (< 1/10,000).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 The most commonly reported adverse reaction was neutropenia, which was reversible and not cumulative (see sections 4.2 and 4.4).
 The median day to nadir was 7 days and the median duration of severe neutropenia (<500 cells/mm3) was 7 days.”
@@ -31,8 +32,7 @@ Bone marrow suppression and other hematologic adverse reactions have been report
 
 TAXOTERE 100mg/m² single agent:
 Very common: Neutropenia (96.6%; G4: 76.4%); Anemia (90.4%; G3/4: 8.9%); Infections (20%; G3/4: 5.7%, including sepsis and pneumonia, fatal in 1.7%); Febrile neutropenia (11.8%).
-Common: Thrombocytopenia (7.8%; G4: 0.2%); G3/4 infection associated with neutrophil count
-<500 cells/mm3 (4.6%); Bleeding episodes (2.4%).
+Common: Thrombocytopenia (7.8%; G4: 0.2%); G3/4 infection associated with neutrophil count <500 cells/mm3 (4.6%); Bleeding episodes (2.4%).
 Rare: Bleeding episodes associated with G3/4 thrombocytopenia.
 
 TAXOTERE 75mg/m² single agent:
@@ -49,6 +49,7 @@ Common: Febrile neutropenia (4.9%).
 TAXOTERE 100mg/m² in combination with trastuzumab:
 Very common: Neutropenia (G3/4: 32%); Febrile neutropenia (includes neutropenia associated with fever and antibiotic use) or neutropenic sepsis (23%)-; Nasopharyngitis (15%).
 Haematological toxicity was increased in patients receiving trastuzumab and docetaxel, compared with docetaxel alone (32% grade 3/4 neutropenia versus 22%, using NCI-CTC criteria).
+Note that this is likely to be an underestimate since docetaxel alone at a dose of 100mg/m2 is known to result in neutropenia in 97% of patients, 76% grade 4, based on nadir blood counts.
 The incidence of febrile neutropenia/neutropenic sepsis was also increased in patients treated with Herceptin plus docetaxel (23% versus 17% for patients treated with docetaxel alone).
 
 TAXOTERE 75mg/m² in combination with capecitabine:
@@ -67,7 +68,8 @@ Immune system disorders
 
 Hypersensitivity reactions have generally occurred within a few minutes following the start of the infusion of docetaxel and were usually mild to moderate.
 The most frequently reported symptoms were flushing, rash with or without pruritus, chest tightness, back pain, dyspnoea and drug fever or chills.
-Severe reactions, characterised by hypotension and/or bronchospasm or generalized rash/erythema, resolved after discontinuing the infusion and appropriate therapy (see section 4.4).
+Severe reactions were characterised by hypotension and/or bronchospasm or generalized rash/erythema.
+(see section 4.4).
 
 TAXOTERE 100mg/m² single agent: very common (25.9%; G3/4: 5.3%)
 
@@ -81,6 +83,8 @@ TAXOTERE 75mg/m² in combination with prednisone or prednisolone: common (6.9%; 
 
 TAXOTERE 75mg/m² in combination with doxorubicin and cyclophosphamide: very common (10.5%; G3/4: 1.1%)
 
+Some cases of anaphylactic shock, sometimes fatal, have been reported.
+
 Skin and subcutaneous tissue disorders
 
 Reversible cutaneous reactions have been observed and were generally considered as mild to moderate.
@@ -89,7 +93,7 @@ Eruptions generally occurred within one week after the docetaxel infusion.
 Less frequently, severe symptoms such as eruptions followed by desquamation which rarely lead to interruption or discontinuation of docetaxel treatment were reported (see sections 4.2 and 4.4).
 Severe nail disorders are characterised by hypo- or hyperpigmentation and sometimes pain and onycholysis.
 Very rare cases of cutaneous lupus erythematosus and bullous eruptions such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, have been reported with docetaxel.
-In some cases other concomitant factors may have contributed to the development of these effects.
+In some cases concomitant factors may have contributed to the development of these effects.
 
 TAXOTERE 100mg/m² single agent:
 Very common: Alopecia (79%); Cutaneous reactions (56.6%; G3/4: 5.9%); Nail changes (27.9%; severe 2.6%).
@@ -133,9 +137,7 @@ The onset of moderate and severe retention is delayed (median cumulative dose: 8
 
 TAXOTERE 75mg/m² single agent: very common (24.8%; severe 0.8%)
 
-TAXOTERE 75mg/m² in combination with doxorubicin: very common (35.7%; severe 1.2%)
-
-TAXOTERE 75mg/m² in combination with cisplatin: very common (25.9%; severe 0.7%)
+TAXOTERE 75mg/m² in combination with doxorubicin: very common (35.7%; severe 1.2%) TAXOTERE 75mg/m² in combination with cisplatin: very common (25.9%; severe 0.7%)
 
 TAXOTERE 100mg/m² in combination with trastuzumab:
 Very common: Oedema peripheral (40%), Lymphoedema (11%).
@@ -177,12 +179,10 @@ Common: Abdominal pain upper (9%); Dry mouth (5%).
 
 TAXOTERE 75mg/m² in combination with prednisone or prednisolone:
 Very common: Nausea (35.5%; G3/4: 2.4%); Diarrhoea (24.1%; G3/4: 1.2%); Stomatitis/Pharyngitis (17.8%; G3/4: 0.9%); Taste disturbance (17.5%; G3/4: 0%); Vomiting (13.3%; G3/4: 1.2%).
-
 TAXOTERE 75mg/m² in combination with doxorubicin and cyclophosphamide:
 Very common: Nausea (80.4%; G3/4: 5.1%); Stomatitis (69.1%; G3/4: 7.1%); Vomiting (42.6%; G3/4: 4.3%); Diarrhea (30.9%; G3/4: 3.2%); Taste perversion (27.4%; G3/4: 0.7%); Constipation (22.6%; G3/4: 0.4%).
 Common: Abdominal pain (7.3%; G3/4: 0.5%).
 Uncommon: colitis/enteritis/large intestine perforation (0.5%).
-Two patients required treatment discontinuation; no deaths due to these events occurred.
 
 Rare occurrences of dehydration as a consequence of gastrointestinal events, gastrointestinal perforation, ischemic colitis, colitis and neutropenic enterocolitis have been reported.
 Rare cases of ileus and intestinal obstruction have been reported.
@@ -228,7 +228,6 @@ Neurosensory was observed to be ongoing at the median follow-up time of 55 month
 
 Rare cases of convulsion or transient loss of consciousness have been observed with docetaxel administration.
 These reactions sometimes appear during the infusion of the drug.
-
 Cardiac disorders
 
 TAXOTERE 100mg/m² single agent:
@@ -282,10 +281,10 @@ Common: G3/4 bilirubin increase (<2%).
 TAXOTERE 75mg/m² in combination with doxorubicin:
 Common: G3/4 bilirubin increase (<2.5%); G3/4 alkaline phosphatase increase (<2.5%).
 Uncommon: G3/4 AST increase (<1%); G3/4 ALT increase (<1%).
-
 TAXOTERE 75mg/m² in combination with cisplatin:
 Common: G3/4 bilirubin increase (2.1%); G3/4 ALT increase (1.3%).
 Uncommon: G3/4 AST increase (0.5%); G3/4 alkaline phosphatase increase (0.3%).
+
 TAXOTERE 75mg/m² in combination with capecitabine:
 Common: Hyperbilirubinemia (G3/4: 9%)
 
@@ -331,13 +330,14 @@ Common: Tearing (9.3%, G3/4: 0.6%)
 
 TAXOTERE 75mg/m² in combination with doxorubicin and cyclophosphamide:
 Common: Lacrimation disorder (9.8%; G3/4: 0.1%); Conjunctivitis (4.6%; G3/4: 0.3%).
-
 Ear and labyrinth disorders
+
 Rare cases of ototoxicity, hearing disorders and/or hearing loss have been reported.
 
 Psychiatric disorders
 
 TAXOTERE 100mg/m² in combination with trastuzumab: Very common: Insomnia 11%).
+
 Musculoskeletal, connective tissue and bone disorders
 
 TAXOTERE 100mg/m² single agent:
@@ -383,7 +383,6 @@ Common: Dyspnea (4.5%; G3/4: 0.6%), Cough (1.2%; G3/4: 0%).
 
 TAXOTERE 75mg/m² in combination with doxorubicin and cyclophosphamide:
 Common: Cough (3.1%; G3/4: 0%).
-
 Acute respiratory distress syndrome, interstitial pneumonia and pulmonary fibrosis have rarely been reported.
 Rare cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
 
@@ -435,5 +434,9 @@ TAXOTERE 100mg/m² in combination with trastuzumab: Very common: Nail toxicity (
 [TAXOTERE 80 mg concentrate and solvent for solution for infusion]
 
 - 1312 and 121 patients who received 100 mg/m² and 75 mg/m² of TAXOTERE as a single agent respectively,.
+
+TAXOTERE 75mg/m² in combination with doxorubicin: very common (35.7%; severe 1.2%)
+
+TAXOTERE 75mg/m² in combination with cisplatin: very common (25.9%; severe 0.7%)
 
 Very common: Nausea (43%); Diarrhoea (43%); Vomiting (29%); Constipation (27%); Stomatitis (20%); Dyspepsia (14%); Abdominal pain (12%).
