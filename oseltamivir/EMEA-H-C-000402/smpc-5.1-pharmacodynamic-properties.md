@@ -2,11 +2,13 @@
 
 Pharmacotherapeutic group: Antiviral
 ATC code: J05AH02
-Oseltamivir is a pro-drug of the active metabolite (oseltamivir carboxylate).
+
+Oseltamivir phosphate is a pro-drug of the active metabolite (oseltamivir carboxylate).
 The active metabolite is a selective inhibitor of influenza virus neuraminidase enzymes, which are glycoproteins found on the virion surface.
-Viral neuraminidase enzyme activity is essential for the release of recently formed virus particles from infected cells and the further spread of infectious virus in the body.
+Viral neuraminidase enzyme activity is important both for viral entry into uninfected cells and for the release of recently formed virus particles from infected cells, and the further spread of infectious virus in the body.
 
 Oseltamivir carboxylate inhibits influenza A and B neuraminidases in vitro.
+Oseltamivir phosphate inhibits influenza virus infection and replication in vitro.
 Oseltamivir given orally inhibits influenza A and B virus replication and pathogenicity in vivo in animal models of influenza infection at antiviral exposures similar to that achieved in man with 75 mg twice daily.
 
 Antiviral activity of oseltamivir was supported for influenza A and B by experimental challenge studies in healthy volunteers.
@@ -14,12 +16,15 @@ Antiviral activity of oseltamivir was supported for influenza A and B by experim
 Neuraminidase enzyme IC50 values for oseltamivir for clinically isolated influenza A ranged from 0.1 nM to 1.3 nM, and for influenza B was 2.6 nM.
 Higher IC50 values for influenza B, up to a median of 8.5 nM, have been observed in published trials.
 
-Reduced sensitivity of viral neuraminidase: In clinical studies in naturally acquired infection,
-0.34 % (4/1177) of adults and adolescents and 4.5 % (17/374) of children aged one to 12 years were found to transiently carry influenza A virus with decreased neuraminidase susceptibility to oseltamivir carboxylate.
-Neuraminidase from influenza B with reduced sensitivity has not been observed either in cell culture or in clinical studies.
+Reduced sensitivity of viral neuraminidase: There has been no evidence for emergence of drug resistance associated with the use of Tamiflu in clinical studies conducted to date in post exposure (7 days), post exposure within household groups (10 days) and seasonal (42 days) prevention of influenza.
 
-Cross resistance between zanamivir-resistant influenza mutants and oseltamivir-resistant influenza mutants has been observed in vitro.
-Insufficient information is available to fully characterise the risk of emergence of oseltamivir resistance and cross-resistance in clinical use.
+The risk of emergence of drug resistance in clinical use in the treatment of influenza has been extensively examined.
+In all clinical studies in naturally acquired infection 0.32% (4/1245) of adults and adolescents and 4.1% (19/464, range 0-19% in individual studies) of children aged 1-12 were found to transiently carry influenza virus with decreased neuraminidase susceptibility to oseltamivir carboxylate.
+The emergence of resistance may be higher in young children and in children who had immunosuppression or who were under-exposed to oseltamivir.
+Patients carrying resistant virus cleared it normally and showed no clinical deterioration.
+Rare cases of oseltamivir-resistant virus strains in patients who were not confirmed to have been exposed to oseltamivir have been reported.
+All resistant genotypes are disadvantaged compared to the corresponding wild-type isolate and are likely to be less contagious in man.
+Thus far, there is no evidence for resistance in influenza B in vitro or in clinical trials.
 
 Treatment of influenza infection
 Oseltamivir is effective only against illnesses caused by influenza virus.
@@ -32,7 +37,7 @@ In all phase III treatment studies, patients were recruited only during the peri
 Adults and adolescents aged 13 years and older:.
 Patients were eligible if they reported within 36 hours of onset of symptoms, had fever ≥37.8 °C, accompanied by at least one respiratory symptom (cough, nasal symptoms or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue or headache).
 In a pooled analysis of all influenza-positive adults and adolescents
-(N = 2413) enrolled into treatment studies oseltamivir75 mg twice daily for 5 days reduced the median duration of influenza illness by approximately one day from 5.2 days (95 % CI 4.9 – 5.5 days) in the placebo group to 4.2 days (95 % CI 4.0 – 4.4 days) (p ≤0.0001).
+(N = 2413) enrolled into treatment studies oseltamivir 75 mg twice daily for 5 days reduced the median duration of influenza illness by approximately one day from 5.2 days (95 % CI 4.9 – 5.5 days) in the placebo group to 4.2 days (95 % CI 4.0 – 4.4 days) (p ≤0.0001).
 
 The proportion of subjects who developed specified lower respiratory tract complications (mainly bronchitis) treated with antibiotics was reduced from 12.7 % (135/1063) in the placebo group to 8.6 % (116/1350) in the oseltamivir treated population (p = 0.0012).
 
@@ -41,12 +46,13 @@ Treatment of influenza in high risk populations:
 The median duration of influenza illness in elderly subjects (≥ 65 years) and in subjects with chronic cardiac and/or respiratory disease receiving oseltamivir 75 mg twice daily for 5 days was not reduced significantly.
 The total duration of fever was reduced by one day in the groups treated with oseltamivir.
 In the influenza-positive elderly, oseltamivir significantly reduced the incidence of specified lower respiratory tract complications (mainly bronchitis) treated with antibiotics, from 19 % (52/268) in the placebo group to 12 % (29/250) in the oseltamivir treated population (p = 0.0156).
+
 In influenza-positive patients with chronic cardiac and/or respiratory disease the combined incidence of lower respiratory tract complications (mainly bronchitis) treated with antibiotics was 17% (22/133) in the placebo group and 14 % (16/118) in the oseltamivir treated population (p = 0.5976).
 
 Treatment of influenza in children: In a study of otherwise healthy children (65 % influenza-positive), aged 1 to 12 years (mean age 5.3 years), who had fever (≥37.8° C) plus either cough or coryza, 67 % of influenza-positive patients were infected with influenza A and 33 % with influenza B. Oseltamivir treatment , started within 48 hours of onset of symptoms, significantly reduced the time to freedom from illness (defined as the simultaneous return to normal health and activity and alleviation of fever, cough and coryza,) by 1.5 days (95 % CI 0.6 - 2.2 days, p < 0.0001) compared to placebo.
 Oseltamivir reduced the incidence of acute otitis media from 26.5 % (53/200) in the placebo group to 16 % (29/183) in the oseltamivir treated children (p = 0.013).
 
-A second study was completed in 334 asthmatic children aged 6 to12 years old of which 53.6 % were influenza-positive.
+A second study was completed in 334 asthmatic children aged 6 to 12 years old of which 53.6 % were influenza-positive.
 In the oseltamivir treated group the median duration of illness was not reduced significantly.
 By day 6 (the last day of treatment) FEV1 had increased by 10.8 % in the oseltamivir treated group compared to 4.7 % on placebo (p = 0.0148) in this population.
 
@@ -57,39 +63,46 @@ Oseltamivir reduced the time to alleviation of all symptoms by 0.7 days (95 % CI
 p = 0.022) and the duration of fever (≥37.8° C), cough and coryza by one day (95 % CI 0.4 – 1.7 days; p <0.001)), compared to placebo.
 
 Prevention of influenza
-The efficacy of oseltamivir in preventing naturally occurring influenza illness has been demonstrated in a post-exposure prophylaxis study in households and two seasonal prophylaxis studies.
+
+The efficacy of oseltamivir in preventing naturally occurring influenza illness has been demonstrated in a post-exposure prevention study in households and two seasonal prevention studies.
 The primary efficacy parameter for all of these studies was the incidence of laboratory confirmed influenza.
 The virulence of influenza epidemics is not predictable and varies within a region and from season to season, therefore the number needed to treat (NNT) in order to prevent one case of influenza illness varies.
 
 Post-exposure prevention: A study in contacts (12.6 % vaccinated against influenza) of an index case of influenza, oseltamivir 75 mg once daily, was started within 2 days of onset of symptoms in the index case and continued for seven days.
 Influenza was confirmed in 163 out of 377 index cases.
 Oseltamivir significantly reduced the incidence of clinical influenza illness occurring in the contacts of confirmed influenza cases from 24/200 (12 %) in the placebo group to 2/205 (1 %) in the oseltamivir group (92 % reduction, (95 % CI 6 – 16), p ≤0.0001).
-The NNT in contacts of true influenza cases was 10 (95 % CI 9 – 12) and was 16 (95 % CI 15 – 19) in the whole population (ITT) regardless of infection status in the index case.
+The number needed to treat (NNT) in contacts of true influenza cases was 10 (95 % CI 9 – 12) and was 16 (95 % CI 15 – 19) in the whole population (ITT) regardless of infection status in the index case.
+
+The efficacy of oseltamivir in preventing naturally occurring influenza illness has been demonstrated in a post-exposure prevention study in households that included adults, adolescents, and children aged 1 to 12 years, both as index cases and as family contacts.
+The primary efficacy parameter for this study was the incidence of laboratory-confirmed clinical influenza in the households.
+Oseltamivir prophylaxis lasted for 10 days.
+In the total population, there was a reduction in the incidence of laboratory-confirmed clinical influenza in households from 20% (27/136) in the group not receiving prevention to 7% (10/135) in the group receiving prevention (62.7% reduction, [95% CI 26.0-81.2]; p= 0.0042).
+In households of influenza infected index cases, there was a reduction in the incidence of influenza from 26% (23/89) in the group not receiving prevention to 11% (9/84) in the group receiving prevention (58.5% reduction, [95% CI 15.6-79.6; p=0.0114].
+According to subgroup analysis in children at 1-12 years of age, the incidence of laboratory-confirmed clinical influenza among children was significantly reduced from 19 % (21/111) in the group not receiving prevention to 7 % (7/104) in the group receiving (64.4 % reduction, ( 95 % CI 15.8-85.0); p= 0.0188).
+Among children who were not already shedding virus at baseline, the incidence of laboratory-confirmed clinical influenza was reduced from 21 % (15/70) in the group not receiving prevention to 4 % (2/47) in the group receiving prevention (80.1 % reduction, (95 % CI 22.0-94.9); p = 0.0206).
+The NNT for the total paediatric population was 9 (95 % CI 7-24) and 8 (95 % CI 6, upper limit not estimable) in the whole population (ITT) and in paediatric contacts of infected index cases (ITTII) respectively.
 
 Prevention during an influenza epidemic in the community: In a pooled analysis of two other studies conducted in unvaccinated otherwise healthy adults, oseltamivir 75 mg once daily given for 6 weeks significantly reduced the incidence of clinical influenza illness from 25/519 (4.8 %) in the placebo group to 6/520 (1.2 %) in the oseltamivir group (76 % reduction, (95 % CI 1.6 – 5.7); p = 0.0006) during a community outbreak of influenza.
 The NNT in this study was 28 (95 % CI 24 – 50).
-
-A study in elderly residents of nursing homes, where 80 % of participants received vaccine in the season of the study, oseltamivir 75 mg once daily given for 6 weeks significantly reduced the incidence of clinical influenza illness from 12/272 (4.4 %) in the placebo group to 1/276 (0.4 %) in the oseltamivir group (92 % reduction, (95 % CI1.5 – 6.6) ; p = 0.0015The NNT in this study was 25
-(95 % CI 23 – 62).
+A study in elderly residents of nursing homes, where 80 % of participants received vaccine in the season of the study, oseltamivir 75 mg once daily given for 6 weeks significantly reduced the incidence of clinical influenza illness from 12/272 (4.4 %) in the placebo group to 1/276 (0.4 %) in the oseltamivir group (92 % reduction, (95 % CI 1.5 – 6.6) ; p = 0.0015.
+The NNT in this study was 25 (95 % CI 23 – 62).
 
 Specific studies have not been conducted to assess of the reduction in the risk of complications.
 
 [Tamiflu 12 mg/ml powder for oral suspension.]
 
+Viral neuraminidase enzyme activity is important both for viral entry into uninfected cells and for the release of recently formed virus particles from infected cells and the further spread of infectious virus in the body.
+
 Neuraminidase enzyme IC50 values for oseltamivir for clinically isolated influenza A ranged from 0.1nM to 1.3nM, and for influenza B was 2.6nM.
 Higher IC50 values for influenza B, up to a median of 8.5nM, have been observed in published trials.
-
-Reduced sensitivity of viral neuraminidaseIn clinical studies in naturally acquired infection, 0.34 % (4/1177) of adults and adolescents and 4.5 % (17/374) of children aged one to 12 years were found to transiently carry influenza A virus with decreased neuraminidase susceptibility to oseltamivir carboxylate.
 
 In the pooled treatment study population which included both influenza-positive and -negative subjects (ITT) primary efficacy was reduced proportional to the number of influenza negative individuals.
 
 Adults and adolescents aged 13 years and older: Patients were eligible if they reported within 36 hours of onset of symptoms, had fever ≥37.8°C, accompanied by at least one respiratory symptom (cough, nasal symptoms or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue or headache).
-(N = 2413) enrolled into treatment studies oseltamivir 75 mg twice daily for 5 days reduced the median duration of influenza illness by approximately one day from 5.2 days (95 % CI 4.9 – 5.5 days) in the placebo group to 4.2 days (95 % CI 4.0 – 4.4 days) (p ≤0.0001).
 
 The proportion of subjects who developed specified lower respiratory tract complications(mainly bronchitis) treated with antibiotics was reduced from 12.7 % (135/1063) in the placebo group to 8.6 % (116/1350) in the oseltamivir treated population (p = 0.0012).
 
 In influenza-positive patients with chronic cardiac and/or respiratory disease the combined incidence of lower respiratory tract complications (mainly bronchitis) treated with antibiotics was 17 % (22/133) in the placebo group and 14 % (16/118) in the oseltamivir treated population (p = 0.5976).
-
 Treatment of influenza in children: In a study of otherwise healthy children (65% influenza-positive), aged 1 to 12 years (mean age 5.3 years), who had fever (≥ 37.8°C) plus either cough or coryza, 67 % of influenza-positive patients were infected with influenza A and 33 % with influenza B. Oseltamivir treatment started within 48 hours of onset of symptoms, significantly reduced the duration of time to freedom from illness (defined as the simultaneous return to normal health and activity and alleviation of fever, cough and coryza) by 1.5 days (95 % CI 0.6 - 2.2 days, p < 0.0001) compared to placebo. oseltamivir reduced the incidence of acute otitis media from 26.5 % (53/200) in the placebo group to 16 % (29/183) in the oseltamivir treated children (p = 0.013).
 
 Data from 504 influenza B infected subjects were pooled across all studies for analysis. oseltamivir reduced the time to alleviation of all symptoms by 0.7 days (95 % CI 0.1 – 1.6 days;
@@ -97,7 +110,9 @@ p = 0.022) and the duration of fever (≥ 37.8° C), cough and coryza by one day
 
 Influenza was confirmed in 163 out of 377 index cases. oseltamivir significantly reduced the incidence of clinical influenza illness occurring in the contacts of confirmed influenza cases from 24/200 (12 %) in the placebo group to 2/205 (1 %) in the oseltamivir group (92 % reduction, (95% CI 6 – 16), p ≤0.0001).
 
+According to subgroup analysis in children at 1-12 years of age, the incidence of laboratory-confirmed clinical influenza among children was significantly reduced from 19 % (21/111) in the group not receiving prevention to 7 % (7/104) in the group receiving (64.4 % reduction, (95 % CI 15.8-85.0); p= 0.0188).
+Among children who were not already shedding virus at baseline, the incidence of laboratory-confirmed clinical influenza was reduced from 21 % (15/70) in the group not receiving prevention to 4 % (2/47) in the group receiving prevention (80.1 % reduction, (95 % CI 22.0-94.9); p= 0.0206).
+
 Prevention during an influenza epidemic in the community: In a pooled analysis of two other studies conducted in unvaccinated otherwise healthy adults, oseltamivir 75 mg once daily given for 6 weeks significantly reduced the incidence of clinical influenza illness from 25/519 (4.8 %) in the placebo group to 6/520 (1.2 %) in the oseltamivir group (76 % reduction, 95 % CI 1.6 – 5.7); p = 0.0006) during a community outbreak of influenza.
 
 A study in elderly residents of nursing homes, where 80 % of participants received vaccine in the season of the study, oseltamivir 75 mg once daily given for 6 weeks significantly reduced the incidence of clinical influenza illness from 12/272 (4.4 %) in the placebo group to 1/276 (0.4 %) in the oseltamivir group (92 % reduction, (95 % CI 1.5 – 6.6); p = 0.0015).
-The NNT in this study was 25 (95 % CI 23 – 62).

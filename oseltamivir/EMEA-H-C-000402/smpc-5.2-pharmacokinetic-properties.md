@@ -27,15 +27,15 @@ Less than 20 % of an oral radiolabelled dose is eliminated in faeces.
 
 Renal impairment
 Administration of 100 mg oseltamivir phosphate twice daily for 5 days to patients with various degrees of renal impairment showed that exposure to oseltamivir carboxylate is inversely proportional to declining renal function.
-For dosing, see 4.2 Posology and method of administration.
+For dosing, see Section 4.2.
 
 Hepatic impairment
-In vitro studies have concluded that exposure to oseltamivir is not expected to be increased significantly nor is exposure to the active metabolite expected to be significantly decreased in patients with hepatic impairment (See 4.2 Posology and method of administration).
+In vitro studies have concluded that exposure to oseltamivir is not expected to be increased significantly nor is exposure to the active metabolite expected to be significantly decreased in patients with hepatic impairment (see Section 4.2).
 
 Elderly
 Exposure to the active metabolite at steady state was 25 to 35 % higher in elderly (age 65 to 78 years) compared to adults less than 65 years of age, given comparable doses of oseltamivir.
 Half–lives observed in the elderly were similar to those seen in young adults.
-On the basis of drug exposure and tolerability, dosage adjustments are not required for elderly patients unless there is evidence of severe renal impairment (creatinine clearance below 30 ml/min) (See 4.2 Posology and method of administration).
+On the basis of drug exposure and tolerability, dosage adjustments are not required for elderly patients unless there is evidence of severe renal impairment (creatinine clearance below 30 ml/min) (see Section 4.2).
 
 Children
 The pharmacokinetics of oseltamivir have been evaluated in single dose pharmacokinetic studies in children aged one to 16 years.

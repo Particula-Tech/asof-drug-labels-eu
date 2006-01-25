@@ -2,15 +2,14 @@
 
 Oseltamivir is effective only against illness caused by influenza viruses.
 There is no evidence for efficacy of oseltamivir in any illness caused by agents other than influenza viruses.
-The safety and efficacy of oseltamivir treatment of children of less than one year of age have not been established (Please see also Section 5.3 Preclinical Safety Data).
-The safety and efficacy of oseltamivir for the prevention of influenza in children 12 years or younger have not been established.
+The safety and efficacy of oseltamivir for the treatment and prevention of influenza in children of less than one year of age have not been established (see Section 5.3).
 
 No information is available regarding the safety and efficacy of oseltamivir in patients with any medical condition sufficiently severe or unstable to be considered at imminent risk of requiring hospitalisation.
 
 The safety and efficacy of oseltamivir in either treatment or prevention of influenza in immunocompromised patients have not been established.
 
 Efficacy of oseltamivir in the treatment of subjects with chronic cardiac disease and/or respiratory disease has not been established.
-No difference in the incidence of complications was observed between the treatment and placebo groups in this population (see section 5.1).
+No difference in the incidence of complications was observed between the treatment and placebo groups in this population (see Section 5.1).
 
 Tamiflu is not a substitute for influenza vaccination.
 Use of Tamiflu must not affect the evaluation of individuals for annual influenza vaccination.
@@ -19,7 +18,7 @@ Tamiflu should be used for the treatment and prevention of influenza only when r
 
 Severe renal impairment
 Dose adjustment is recommended for both treatment and prevention in adults with severe renal insufficiency.
-There are no data concerning the safety and efficacy of oseltamivir in children with renal impairment (see 4.2 Posology and method of administration and 5.2 Pharmacokinetic properties).
+There are no data concerning the safety and efficacy of oseltamivir in children with renal impairment (see Sections 4.2 and 5.2).
 
 [Tamiflu 12 mg/ml powder for oral suspension.]
 
