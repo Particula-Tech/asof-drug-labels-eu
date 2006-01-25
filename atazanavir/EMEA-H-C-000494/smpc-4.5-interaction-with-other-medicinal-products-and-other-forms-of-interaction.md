@@ -24,7 +24,6 @@ Non-nucleoside reverse transcriptase inhibitors (NNRTIs)
 
 Efavirenz: if REYATAZ is to be co-administered with efavirenz, which decreases atazanavir exposure, it is recommended that REYATAZ 400 mg with ritonavir 100 mg be co-administered with efavirenz 600 mg (all as a single daily dose with food), as this combination is anticipated to result in atazanavir exposure that approximates the mean exposure to atazanavir produced by 300 mg of REYATAZ given with ritonavir 100 mg.
 No efficacy and safety data are available to support the co-administration of efavirenz and REYATAZ at the increased dose of 400 mg with ritonavir.
-
 Nevirapine: the effects of co-administration of REYATAZ and nevirapine have not been studied.
 Nevirapine is a metabolic inducer of CYP3A4 and is expected to decrease atazanavir exposure.
 Therefore, in the absence of data regarding the expected interaction between REYATAZ with ritonavir and nevirapine, this co-administration is not recommended.

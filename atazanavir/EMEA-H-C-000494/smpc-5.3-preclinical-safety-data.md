@@ -5,9 +5,10 @@ Systemic exposures of atazanavir in mice (males), rats, and dogs at doses associ
 In female mice, atazanavir exposure at a dose that produced single-cell necrosis was 12 times the exposure in humans given 400 mg once daily.
 Serum cholesterol and glucose were minimally to mildly increased in rats but not in mice or dogs.
 
-The cloned human cardiac potassium channel, hERG, was inhibited by 15% in an in vitro patch clamp assay at a concentration (30 µM) corresponding to 30-fold the free drug concentration at Cmax in humans.
+During in vitro studies, cloned human cardiac potassium channel (hERG), was inhibited by 15% at a concentration (30 µM) of atazanavir corresponding to 30-fold the free drug concentration at Cmax in humans.
+Similar concentrations of atazanavir increased by 13% the action potential duration (ADP90) in rabbit Purkinje fibres study.
 Electrocardiographic changes (sinus bradycardia, prolongation of PR interval, prolongation of QT interval, and prolongation of QRS complex) were observed only in an initial 2-week oral toxicity study performed in dogs.
-Subsequent 2-week and 9-month oral toxicity studies in dogs showed no drug-related electrocardiographic changes.
+Subsequent 9-month oral toxicity studies in dogs showed no drug-related electrocardiographic changes.
 The clinical relevance of these preclinical data is unknown.
 Potential cardiac effects of this product in humans cannot be ruled out (see 4.4 and 4.8).
 The potential for PR prolongation should be considered in cases of overdose (see 4.9).

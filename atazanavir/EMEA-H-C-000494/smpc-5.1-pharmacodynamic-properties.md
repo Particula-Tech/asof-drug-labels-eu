@@ -19,7 +19,6 @@ Resistance in vivo: in antiretroviral treatment naive patients, the I50L substit
 An atazanavir resistance phenotype is expressed in all recombinant viral clones containing the I50L substitution in a variety of genetic backgrounds.
 Resistance levels ranged from 3.5- to 29-fold.
 There was no evidence of cross-resistance between atazanavir and amprenavir, with the presence of the I50L and I50V substitutions yielding selective resistance to atazanavir and amprenavir, respectively.
-
 In antiretroviral treatment experienced patients, 100 isolates from patients designated as virological failures on therapy that included either atazanavir, atazanavir + ritonavir, or atazanavir + saquinavir were determined to have developed resistance to atazanavir.
 Of the 60 isolates from patients treated with either atazanavir or atazanavir + ritonavir, 18 (30%) displayed the I50L phenotype previously described in naive patients.
 The resistance in antiretroviral treatment experienced patients mainly occurs by accumulation of the primary and secondary resistance substitutions described previously to be involved in protease inhibitor resistance.
@@ -40,8 +39,8 @@ The primary endpoint was the time-averaged difference in change from baseline in
 Through 48 weeks of treatment, the decreases from baseline in HIV RNA levels (primary endpoint) were 1.93 log10 copies/ml for REYATAZ + ritonavir and 1.87 log10 copies/ml for lopinavir + ritonavir.
 REYATAZ + ritonavir was similar (non-inferior) to lopinavir + ritonavir on this efficacy measure (time-averaged difference of 0.13, 97.5% confidence interval [-0.12, 0.39]).
 Consistent results were obtained with the last observation carried forward method of analysis (time-averaged difference of 0.11, 97.5% confidence interval [-0.15, 0.36]).
-The proportions of patients with HIV RNA
-< 400 copies/ml in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 53% and 54%, respectively, by intent-to-treat analysis, with missing values considered as failures.
+The proportions of patients with HIV
+RNA < 400 copies/ml in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 53% and 54%, respectively, by intent-to-treat analysis, with missing values considered as failures.
 The proportions of patients with HIV RNA < 50 copies/ml in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 36% and 42%, respectively.
 By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA < 400 copies/ml (< 50 copies/ml) in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 55% (40%) and 56% (46%), respectively.
 The mean increases from baseline in CD4 cell count were 110 cells/mm3 and 121 cells/mm3 in the REYATAZ + ritonavir and lopinavir + ritonavir arms, respectively.
@@ -52,7 +51,7 @@ Consistent results were obtained with the last observation carried forward metho
 The proportions of patients with HIV RNA <400 copies/ml (<50 copies/ml) for REYATAZ + ritonavir were 43% (32%) and for lopinavir + ritonavir were 46% (35%).
 Patients completing treatment while in response after 48 weeks were censored.
 By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA <400 copies/ml (<50 copies/ml) for REYATAZ + ritonavir were 84% (72%) and for lopinavir + ritonavir were 82% (72%).
-It is important to note that at time of the 96-week analysis, 48 % of patients overall remained on study.
+It is important to note that at time of the 96-week analysis, 48% of patients overall remained on study.
 Through 48 weeks of treatment, two types of analyses were performed based on baseline genotypic mutations.
 The first consisted in assessing the HIV RNA change from baseline in the subgroup of patients with < or ≥ of 4 of the following set of mutations: 10, 20, 24, 32, 33, 36, 46, 48, 50, 54, 63, 71, 73, 82, 84 and 90.
 The second consisted in assessing the HIV RNA change from baseline in the subgroup of patients with < or ≥ of 4 of the following more specific set of mutations: 10, 46, 54, 82, 84, 90.
