@@ -5,5 +5,6 @@ Treatment of the following infections when caused by bacteria known or very like
 - Intra-abdominal infections
 - Community acquired pneumonia
 - Acute gynaecological infections
+- Diabetic foot infections of the skin and soft tissue (see section 4.4)
 
 Consideration should be given to official guidance on the appropriate use of antibacterial agents.
