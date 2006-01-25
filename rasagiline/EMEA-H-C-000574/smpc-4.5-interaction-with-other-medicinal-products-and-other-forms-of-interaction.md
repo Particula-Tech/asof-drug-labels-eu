@@ -27,7 +27,7 @@ Thus, potent CYP1A2 inhibitors may alter rasagiline plasma levels and should be 
 
 There is a risk that the plasma levels of rasagiline in smoking patients could be decreased, due to induction of the metabolising enzyme CYP1A2.
 
-In vitro studies showed that rasagiline at a concentration of 1µg/ml (equivalent to a level that is 160 times the average Cmax ~ 5.9-8.5 ng/ml in Parkinson’s disease patients after 1 mg rasagiline multiple dosing), did not inhibit cytochrome P450 isoenzymes, CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4 and CYP4A.
+In vitro studies showed that rasagiline at a concentration of 1�g/ml (equivalent to a level that is 160 times the average Cmax ~ 5.9-8.5 ng/ml in Parkinson’s disease patients after 1 mg rasagiline multiple dosing), did not inhibit cytochrome P450 isoenzymes, CYP1A2, CYP2A6, CYP2C9, CYP2C19, CYP2D6, CYP2E1, CYP3A4 and CYP4A.
 These results indicate that rasagiline’s therapeutic concentrations are unlikely to cause any clinically significant interference with substrates of these enzymes.
 
 Concomitant administration of rasagiline and entacapone increased rasagiline oral clearance by 28%.
