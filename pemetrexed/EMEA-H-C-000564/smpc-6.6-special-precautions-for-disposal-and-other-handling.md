@@ -2,7 +2,6 @@
 
 1.
 Use aseptic technique during the reconstitution and further dilution of pemetrexed for intravenous infusion administration.
-
 2.
 Calculate the dose and the number of ALIMTA vials needed.
 Each vial contains an excess of pemetrexed to facilitate delivery of label amount.
@@ -13,6 +12,7 @@ Gently swirl each vial until the powder is completely dissolved.
 The resulting solution is clear and ranges in colour from colourless to yellow or green-yellow without adversely affecting product quality.
 The pH of the reconstituted solution is between 6.6 and 7.8.
 Further dilution is required.
+
 4.
 The appropriate volume of reconstituted pemetrexed solution should be further diluted to 100 ml with sodium chloride 9 mg/ml (0.9 %) solution for injection, without preservative, and administered as an intravenous infusion over 10 minutes.
 

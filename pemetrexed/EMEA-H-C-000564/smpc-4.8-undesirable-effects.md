@@ -84,7 +84,8 @@ Disorders elevation
 |  |  | SGOT (AST) elevation | 6.8 | 1.1 | 0.7 | 0.0 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Skin and Sub-cutaneous tissue disorders | Very Common | Rash/ desquamation | 14.0 | 0.0 | 6.2 | 0.0 |
-|  | Common | Pruritus Alopecia | 6.8 6.4 | 0.4 0.4 | 1.8 37.7 | 0.0 2.2 |
+|  | Common | Pruritus | 6.8 | 0.4 | 1.8 | 0.0 |
+|  |  | Alopecia | 6.4 | 0.4 | 37.7 | 2.2 |
 
 *Refer to National Cancer Institute CTC version 2 for each grade of toxicity.
 
@@ -101,3 +102,9 @@ Serious cardiovascular and cerebrovascular events, including myocardial infarcti
 Most of the patients in whom these events have been observed had pre-existing cardiovascular risk factors.
 
 Rare cases of hepatitis, potentially serious, have been reported during clinical studies with pemetrexed.
+
+Pancytopenia has been uncommonly reported during clinical trials with pemetrexed.
+
+During post marketing surveillance, the following adverse reactions have been reported in patients treated with pemetrexed:
+
+Rare cases of colitis have been reported in patients treated with pemetrexed.

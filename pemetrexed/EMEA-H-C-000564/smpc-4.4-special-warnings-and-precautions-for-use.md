@@ -1,9 +1,8 @@
 # 4.4 Special warnings and special precautions for use
 
-Pemetrexed can suppress bone marrow function as manifested by neutropenia, thrombocytopenia and anaemia (see section 4.8).
+Pemetrexed can suppress bone marrow function as manifested by neutropenia, thrombocytopenia and anaemia (or pancytopenia) (see section 4.8).
 Myelosuppression is usually the dose-limiting toxicity.
-Patients should be monitored for myelosuppression during therapy and pemetrexed should not be given to patients until absolute neutrophil count (ANC) returns to ≥ 1500 cells/mm3 and platelet count returns to
-≥ 100,000 cells/mm3.
+Patients should be monitored for myelosuppression during therapy and pemetrexed should not be given to patients until absolute neutrophil count (ANC) returns to ≥ 1500 cells/mm3 and platelet count returns to ≥ 100,000 cells/mm3.
 Dose reductions for subsequent cycles are based on nadir ANC, platelet count and maximum non-haematologic toxicity seen from the previous cycle (see section 4.2).
 
 In the Phase 3 mesothelioma trial, overall less toxicity and reduction in Grade 3/4 haematologic and non-haematologic toxicities such as neutropenia, febrile neutropenia and infection with Grade 3/4 neutropenia were reported when pre-treatment with folic acid and vitamin B12 was administered.

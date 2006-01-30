@@ -27,7 +27,8 @@ Efficacy of ALIMTA plus Cisplatin vs. Cisplatin in Malignant Pleural Mesotheliom
 | Efficacy Parameter | ALIMTA/ cisplatin (N = 226) | Cisplatin (N = 222) | ALIMTA/ cisplatin (N = 168) | Cisplatin (N = 163) |
 | Median Overall Survival (months) (95 % CI) | 12.1 (10.0 - 14.4) | 9.3 (7.8 - 10.7) | 13.3 (11.4 - 14.9) | 10.0 (8.4 - 11.9) |
 | Log Rank p-value* | 0.020 |  | 0.051 |  |
-| Median Time to tumour progression (months) (95 % CI) | 5.7 (4.9 - 6.5) | 3.9 (2.8 - 4.4) | 6.1 (5.3 - 7.0) | 3.9 (2.8 - 4.5) |
+| Median Time to tumour progression (months) (95 % CI) | 5.7 | 3.9 | 6.1 | 3.9 |
+|  | (4.9 - 6.5) | (2.8 - 4.4) | (5.3 - 7.0) | (2.8 - 4.5) |
 | Log Rank p-value* | 0.001 |  | 0.008 |  |
 | Time to Treatment Failure (months) (95 % CI) | 4.5 (3.9 - 4.9) | 2.7 (2.1 - 2.9) | 4.7 (4.3 - 5.6) | 2.7 (2.2 - 3.1) |
 | Log Rank p-value* | 0.001 |  | 0.001 |  |
@@ -35,13 +36,14 @@ Efficacy of ALIMTA plus Cisplatin vs. Cisplatin in Malignant Pleural Mesotheliom
 | Fisher’s exact p-value* | < 0.001 |  | < 0.001 |  |
 
 Abbreviation: CI = confidence interval
+
 * p-value refers to comparison between arms.
-** In the ALIMTA/cisplatin arm, randomized and treated (N = 225) and fully supplemented
-(N = 167)
+** In the ALIMTA/cisplatin arm, randomized and treated (N = 225) and fully supplemented (N = 167)
 
 A statistically significant improvement of the clinically relevant symptoms (pain and dyspnoea) associated with malignant pleural mesothelioma in the ALIMTA/cisplatin arm (212 patients) versus the cisplatin arm alone (218 patients) was demonstrated using the Lung Cancer Symptom Scale.
 Statistically significant differences in pulmonary function tests were also observed.
 The separation between the treatment arms was achieved by improvement in lung function in the ALIMTA/cisplatin arm and deterioration of lung function over time in the control arm.
+
 There are limited data in patients with malignant pleural mesothelioma treated with ALIMTA alone.
 ALIMTA at a dose of 500 mg/m2 was studied as a single-agent in 64 chemonaive patients with malignant pleural mesothelioma.
 The overall response rate was 14.1 %.
