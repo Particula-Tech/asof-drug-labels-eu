@@ -14,4 +14,3 @@ Vials contain 200mg voriconazole, equivalent to a 10mg/ml solution following rec
 [VFEND 40mg/ml powder for oral suspension]
 
 Each bottle contains 45g powder for oral suspension providing 40mg/ml voriconazole when constituted with water.
-For excipients, see 6.1.

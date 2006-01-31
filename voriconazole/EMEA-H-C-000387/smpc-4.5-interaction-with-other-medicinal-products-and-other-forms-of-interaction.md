@@ -14,16 +14,19 @@ Inhibitors or inducers of these isoenzymes may increase or decrease voriconazole
 Rifampicin (CYP450 inducer): Rifampicin (600 mg once daily) decreased the Cmax (maximum plasma concentration) and AUCτ (area under the plasma concentration time curve within a dose interval) of voriconazole by 93 % and 96 %, respectively.
 Coadministration of voriconazole and rifampicin is contraindicated (see section 4.3).
 
-Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate): Ritonavir (400mg twice daily) decreased the steady state Cmax and AUCτ of oral voriconazole by an average of 66% and 82%, respectively, in healthy subjects with the exception of one subject in whom a 2.5 fold increases in AUCτ was observed.
-No extrapolation can be made for ritonavir doses lower than 400mg.
-Repeat oral administration of voriconazole did not have a significant effect on steady state Cmax and AUCτ of ritonavir following repeat dose administration in healthy subjects.
-Coadministration of voriconazole and ritonavir (400mg and above twice daily) is contraindicated (see section 4.3).
+Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate): The effect of the coadministration of oral voriconazole (200mg twice daily) and high dose (400mg) and low dose (100mg) oral ritonavir was investigated in two separate studies in healthy volunteers.
+High doses of ritonavir (400mg twice daily) decreased the steady state Cmax and AUCτ of oral voriconazole by an average of 66% and 82%,, whereas low doses of ritonavir (100mg twice daily) decreased the Cmax and AUCτ of voriconazole by an average of 24% and 39% respectively.
+Administration of voriconazole did not have a significant effect on mean Cmax and AUCτ of ritonavir in the high dose study,although a minor decrease in steady state Cmax and AUCτ of ritonavir with an average of 25% and 13% respectively was observed in the low dose ritonavir interaction study.
+One outlier subject with raised voriconazole levels was identified in each of the ritonavir interaction studies.
+Coadministration of voriconazole and high doses of ritonavir (400mg and above twice daily) is contraindicated .
+Coadministration of voriconazole and low dose ritonavir (100mg twice daily) should be avoided, unless an assessment of the benefit/risk to the patient justifies the use of voriconazole (see section 4.3 and 4.4).
 
 Carbamazepine and phenobarbital (potent CYP450 inducers): Although not studied, carbamazepine or phenobarbital are likely to significantly decrease plasma voriconazole concentrations.
 Coadministration of voriconazole with carbamazepine and phenobarbital is contraindicated (see section 4.3).
 
 Cimetidine (non-specific CYP450 inhibitor and increases gastric pH): Cimetidine (400mg twice daily) increased voriconazole Cmax and AUCτ by 18 % and 23 %, respectively.
 No dosage adjustment of voriconazole is recommended.
+
 Ranitidine (increases gastric pH): Ranitidine (150mg twice daily) had no significant effect on voriconazole Cmax and AUCτ.
 
 Macrolide antibiotics: Erythromycin (CYP3A4 inhibitor; 1g twice daily) and azithromycin (500mg once daily) had no significant effect on voriconazole Cmax and AUCτ.
@@ -109,7 +112,7 @@ The metabolism of other proton pump inhibitors which are CYP2C19 substrates may 
 Indinavir (CYP3A4 inhibitor and substrate): Indinavir (800 mg three times daily) had no significant effect on voriconazole Cmax , Cmin and AUCτ.
 Voriconazole did not have a significant effect on Cmax and AUCτ of indinavir (800mg three times daily).
 
-Efavirenz (a non-nucleoside reverse transcriptase inhibitor (CYP450 inducer; CYP3A4 inhibitor and substrate)): Steady-state efavirenz (400mg orally once daily) decreased the steady state Cmax and AUCτ of voriconazole by an average of 61% and 77%, respectively, in healthy subjects.
+Efavirenz (a non-nucleoside reverse transcriptase inhibitor) (CYP450 inducer; CYP3A4 inhibitor and substrate): Steady-state efavirenz (400mg orally once daily) decreased the steady state Cmax and AUCτ of voriconazole by an average of 61% and 77%, respectively, in healthy subjects.
 In the same study voriconazole at steady state increased the steady state Cmax and AUCτ of efavirenz by an average of 38% and 44% respectively, in healthy subjects.
 Coadministration of voriconazole and efavirenz is contraindicated (see section 4.3).
 
@@ -124,7 +127,6 @@ An in-vivo study showed that voriconazole inhibited the metabolism of efavirenz.
 Voriconazole may also inhibit the metabolism of NNRTIs besides efavirenz.
 Patients should be carefully monitored for any occurrence of drug toxicity and/or lack of efficacy during the coadministration of voriconazole and NNRTIs.
 Coadministration of voriconazole with efavirenz is contraindicated (see section 4.3)
-
 Voriconazole should be administered with caution in patients with concomitant medication that is known to prolong QT interval.
 When there is also a potential for voriconazole to increase the plasma levels of substances metabolised by CYP3A4 isoenzymes (certain antihistamines, quinidine, cisapride, pimozide) co-administration is contraindicated (see section 4.3).
 
@@ -133,6 +135,9 @@ When there is also a potential for voriconazole to increase the plasma levels of
 Unless otherwise specified, drug interaction studies have been performed in healthy male subjects using multiple dosing to steady state with oral voriconazole at 200 mg twice daily.
 
 Rifampicin (CYP450 inducer): Rifampicin (600mg once daily) decreased the Cmax (maximum plasma concentration) and AUCτ (area under the plasma concentration time curve within a dose interval) of voriconazole by 93% and 96%, respectively.
+
+Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate): The effect of the coadministration of voriconazole (200mg twice daily) and high dose (400mg) and low dose (100mg) oral ritonavir was investigated in two separate studies in healthy volunteers.
+Administration of voriconazole did not have a significant effect on mean Cmax and AUCτ of ritonavir in the high dose study although a minor decrease in steady state Cmax and AUCτ of ritonavir with an average of 25% and 13% respectively was observed in the low dose ritonavir interaction study.
 
 Sirolimus (CYP3A4 substrate): Voriconazole increased sirolimus (2mg single dose) Cmax and AUCτ by 556% and 1014%, respectively.
 
@@ -147,6 +152,11 @@ Voriconazole increased omeprazole Cmax and AUCτ by 116% and 280%, respectively.
 Indinavir (CYP3A4 inhibitor and substrate): Indinavir (800mg three times daily) had no significant effect on voriconazole Cmax, Cmin and AUCτ.
 
 [VFEND 200mg powder for solution for infusion]
+
+Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate): The effect of the coadministration of oral voriconazole (200mg twice daily) and high dose (400mg) and low dose (100mg) oral ritonavir (400mg and 100mg) was investigated in two separate studies in healthy volunteers.High doses of ritonavir (400mg twice daily) decreased the steady state Cmax and AUCτ of oral voriconazole by an average of 66% and 82%, whereas low doses of ritonavir (100mg twice daily) decreased the Cmax and AUCτ of oral voriconazole by an average of 24% and 39% respectively, aAdministration of voriconazole did not have a significant effect on mean Cmax and AUCτ in the high dose study although a minor decrease in steady state Cmax and AUCτ of ritonavir with an average of 25% and 13% respectively was observed in the low dose ritonavir interaction study.
+Coadministration of voriconazole and high doses of ritonavir (400mg and above twice daily) is contraindicated ).
+Coadministration of voriconazole and low dose ritonavir (100mg twice daily) should be avoided unless an assessment of the benefit/risk justifies the use of voriconazole.
+(see section 4.3 and 4.4).
 
 Cimetidine (non-specific CYP450 inhibitor and increases gastric pH): Cimetidine (400 mg twice daily) increased voriconazole Cmax and AUCτ by 18% and 23%, respectively.
 
@@ -169,9 +179,15 @@ Indinavir (CYP3A4 inhibitor and substrate): Indinavir (800mg three times daily) 
 
 Rifampicin (CYP450 inducer): Rifampicin (600 mg once daily) decreased the Cmax (maximum plasma concentration) and AUCτ (area under the plasma concentration time curve within a dose interval) of voriconazole by 93% and 96%, respectively.
 
+High doses of ritonavir (400mg twice daily) decreased the steady state Cmax and AUCτ of oral voriconazole by an average of 66% and 82%, whereas low doses of ritonavir (100mg twice daily) decreased the Cmax and AUCτ of voriconazole by an average of 24% and 39% respectively.
+Administration of voriconazole did not have a significant effect on mean Cmax and AUCτ of ritonavir in the high dose study , although a minor decrease in steady state Cmax and AUCτ of ritonavir with an average of 25% and 13% respectively was observed in the low dose ritonavir interaction study.
+One outlier subject with raised voriconazole levels was identified in each of the ritonavir interaction studies.Coadministration of voriconazole and ritonavir (400mg and above twice daily) is contraindicated.
+
 Cimetidine (non-specific CYP450 inhibitor and increases gastric pH): Cimetidine (400mg twice daily) increased voriconazole Cmax and AUCτ by 18% and 23%, respectively.
 
 Cyclosporin (CYP3A4 substrate): In stable, renal transplant recipients, voriconazole increased cyclosporin Cmax and AUCτ by at least 13% and 70% respectively.
+
+]
 
 Rifabutin (300mg once daily) decreased the Cmax and AUCτ of voriconazole at 200mg twice daily by 69 % and 78 %, respectively.
 At a voriconazole dose of 400mg twice daily Cmax and AUCτ were 104 % and 87 % higher, respectively, compared with voriconazole alone at 200mg twice daily.

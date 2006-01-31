@@ -16,6 +16,7 @@ Furthermore, there does not appear to be a correlation between plasma levels and
 This is typical of azole antimycotics.
 
 Microbiology
+
 Clinical efficacy (with partial or complete response, see below under Clinical Experience) has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans, Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis and limited numbers of C. dubliniensis, C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans and Fusarium spp.
 
 Other treated fungal infections (with often partial or complete response) included isolated cases of
@@ -31,7 +32,6 @@ Therapy may be instituted before the results of the cultures and other laborator
 Clinical isolates with decreased susceptibility to voriconazole have been identified.
 However, elevated minimum inhibitory concentrations did not always correlate with clinical failure and clinical success has been observed in patients infected with organisms resistant to other azoles.
 Correlation of in vitro activity with clinical outcome is difficult owing to the complexity of the patients studied in clinical trials; breakpoints for voriconazole remain to be established.
-
 Clinical Experience
 
 Successful outcome in this section is defined as complete or partial response.
@@ -91,6 +91,7 @@ In clinical trials, 561 patients received voriconazole therapy for greater than 
 Experience in paediatric patients
 Sixty one paediatric patients aged 9 months up to 15 years who had definite or probable invasive fungal infections, were treated with voriconazole.
 This population included 34 patients 2 to < 12 years old and 20 patients 12-15 years of age.
+
 The majority (57/61) had failed previous antifungal therapies.
 Therapeutic studies included 5 patients aged 12-15 years, the remaining patients received voriconazole in the compassionate use programmes.
 Underlying diseases in these patients included haematological malignancies and aplastic anaemia (27 patients) and chronic granulomatous disease (14 patients).

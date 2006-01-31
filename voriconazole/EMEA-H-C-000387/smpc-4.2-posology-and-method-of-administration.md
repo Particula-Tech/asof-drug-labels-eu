@@ -48,8 +48,9 @@ VFEND has not been studied in patients with severe chronic hepatic cirrhosis (Ch
 
 VFEND has been associated with elevations in liver function tests and clinical signs of liver damage, such as jaundice, and must only be used in patients with severe hepatic impairment if the benefit outweighs the potential risk.
 Patients with hepatic impairment must be carefully monitored for drug toxicity (see also section 4.8).
+
 Use in children
-Safety and effectiveness in paediatric subjects below the age of 2 years has not been established (see also section 5.1).
+Safety and effectiveness in paediatric subjects below the age of 2 years has not been established (see also sections 4.8 and 5.1).
 Therefore voriconazole is not recommended for children less than 2 years of age.
 
 The recommended maintenance dosing regimen in paediatric patients 2 to <12 years is as follows:
@@ -114,7 +115,7 @@ Patients with severe hepatic impairment must be carefully monitored for drug tox
 | Loading Dose Regimen | No oral or intraveneous loading dose is recommended |  |
 | Maintenance Dose | 7mg/kg twice daily | 200mg twice daily |
 
-If paediatric patients are unable to tolderate an intravenous dose of 7mg/kg twice daily, a dose reduction from 7mg/kg to 4mg/kg twice daily may be considered based on the population pharmacokinetic analysis and previous clinical experience.
+If paediatric patients are unable to tolerate an intravenous dose of 7mg/kg twice daily, a dose reduction from 7mg/kg to 4mg/kg twice daily may be considered based on the population pharmacokinetic analysis and previous clinical experience.
 This provides equivalent exposure to 3mg/kg twice daily in adults (see section 4.2 use in adults).
 
 [VFEND 40mg/ml powder for oral suspension]
@@ -128,6 +129,8 @@ VFEND is also available as 50mg and 200mg film-coated tablets and 200mg powder f
 |  |  | Patients 40kg and above | Patients less than 40kg |
 | Loading Dose Regimen (first 24 hours) | 6mg/kg every 12 hours (for the first 24 hours) | 400mg (10ml) every 12 hours (for the first 24 hours) | 200mg (5ml) every 12 hours (for the first 24 hours) |
 | Maintenance Dose (after first 24 hours) | 4mg/kg twice daily | 200mg (5ml) twice daily | 100mg (2.5ml) twice daily |
+
+Safety and effectiveness in paediatric subjects below the age of 2 years has not been established (see also section 5.1).
 
 |  | Intravenous* | Oral Suspension** |
 | --- | --- | --- |

@@ -37,12 +37,12 @@ Dermatological reactions: Patients have rarely developed exfoliative cutaneous r
 If patients develop a rash they should be monitored closely and VFEND discontinued if lesions progress.
 In addition VFEND has been associated with photosensitivity skin reaction especially during long term therapy.
 It is recommended that patients should be informed to avoid sunlight during the treatment.
-
-Paediatric use: Safety and effectiveness in paediatric subjects below the age of two years has not been established (see also section 5.1).
+Paediatric use: Safety and effectiveness in paediatric subjects below the age of two years has not been established (see also sections 4.8 and 5.1).
 Voriconazole is indicated for paediatric patients aged two years or older.
 Hepatic function should be monitored in both children and adults.
 Oral bioavailability may be limited in paediatric patients aged 2-<12 years with malabsorption and very low body weight for age.
 In that case, intravenous voriconazole administration is recommended.
+
 Phenytoin (CYP2C9 substrate and potent CYP450 inducer): Careful monitoring of phenytoin levels is recommended when phenytoin is coadministered with voriconazole.
 Concomitant use of voriconazole and phenytoin should be avoided unless the benefit outweighs the risk (see section 4.5).
 
@@ -52,6 +52,9 @@ Concomitant use of voriconazole and rifabutin should be avoided unless the benef
 Methadone (CYP3A4 substrate).
 Frequent monitoring for adverse events and toxicity related to methadone, including QTc prolongation, is recommended when coadministered with voriconazole since methadone levels increased following co-administration of voriconazole.
 Dose reduction of methadone may be needed (see section 4.5).
+
+Coadministration of voriconazole and low dose ritonavir (100mg twice daily) should be avoided unless an assessment of the benefit/risk justifies the use of voriconazole.
+(see section 4.5, for higher doses see section 4.3).
 
 VFEND tablets contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.
 

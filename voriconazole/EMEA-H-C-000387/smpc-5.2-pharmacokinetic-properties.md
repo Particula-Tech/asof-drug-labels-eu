@@ -48,7 +48,6 @@ Because of non-linear pharmacokinetics, the terminal half-life is not useful in 
 Pharmacokinetic-Pharmacodynamic relationships
 In 10 therapeutic studies, the median for the average and maximum plasma concentrations in individual subjects across the studies was 2425ng/ml (inter-quartile range 1193 to 4380ng/ml) and 3742ng/ml (inter-quartile range 2027 to 6302ng/ml), respectively.
 A positive association between mean, maximum or minimum plasma voriconazole concentration and efficacy in therapeutic studies was not found.
-
 Pharmacokinetic-Pharmacodynamic analyses of clinical trial data identified positive associations between plasma voriconazole concentrations and both liver function test abnormalities and visual disturbances.
 
 Pharmacokinetics in special patient groups
@@ -72,9 +71,9 @@ The safety profile of voriconazole in young and elderly patients was similar and
 Paediatric
 
 The recommended oral dose in paediatrics is based on a population pharmacokinetic analysis of data obtained from 47 immunocompromised paediatric patients aged 2 to <12 years old who were evaluated in a pharmacokinetic study examining multiple oral suspension doses of 4 and 6 mg/kg twice daily.
-A comparison of the paediatric and adult population pharmacokinetic data indicated that in order to obtain comparable exposures to those obtained in adults following a maintenance dose of 200 mg twice daily, 200 mg of oral solution twice daily is required in paediatric patients, independent of body weight.
+A comparison of the paediatric and adult population pharmacokinetic data indicated that in order to obtain comparable exposures to those obtained in adults following a maintenance dose of 200 mg twice daily, 200 mg of oral suspension twice daily is required in paediatric patients, independent of body weight.
 In paediatric patients there is a general trend towards low bioavailability at lower body weights and high bioavailability at higher body weights (approaching the extent demonstrated in adults).
-Based on the population pharmacokinetic analysis, no dosage adjustment according to age or weight is warranted in patients aged 2 to <12 years old at the 200 mg b.i.d. oral solution dosing regimen.
+Based on the population pharmacokinetic analysis, no dosage adjustment according to age or weight is warranted in patients aged 2 to <12 years old at the 200 mg b.i.d. oral suspension dosing regimen.
 A loading dose is not indicated in paediatric patients.
 Oral bioavailability may, however, be limited in paediatric patients with malabsorption and very low body weight for their age.
 In that case, intravenous voriconazole administration is recommended.
@@ -87,7 +86,6 @@ See dosing and monitoring recommendations under sections 4.2 and 4.4.
 Hepatic impairment
 After an oral single dose (200mg), AUC was 233% higher in subjects with mild to moderate hepatic cirrhosis (Child-Pugh A and B) compared with subjects with normal hepatic function.
 Protein binding of voriconazole was not affected by impaired hepatic function.
-
 In an oral multiple dose study, AUCτ was similar in subjects with moderate hepatic cirrhosis (Child-Pugh B) given a maintenance dose of 100mg twice daily and subjects with normal hepatic function given 200mg twice daily.
 No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh C). See dosing and monitoring recommendations under sections 4.2 and 4.4.
 
@@ -119,7 +117,6 @@ The higher intravenous maintenance dose in paediatric patients relative to adult
 In order to obtain comparable exposures to those obtained in adults following intravenous maintenance doses of 3mg/kg twice daily, intravenous maintenance doses of 4mg/kg twice daily are required in paediatric patients.
 
 Based on the population pharmacokinetic analysis, no loading dose or dosage adjustment according to age is warranted in patients aged 2 to <12 years old.
-
 In patients with moderate to severe renal dysfunction (serum creatinine levels >2.5mg /dl), accumulation of the intravenous vehicle, SBECD, occurs.
 
 [VFEND 40mg/ml powder for oral suspension]
