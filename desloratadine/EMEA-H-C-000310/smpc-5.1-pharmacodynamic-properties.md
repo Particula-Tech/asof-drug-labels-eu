@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: antihistamines – H1 antagonist, ATC code: R06A X27
-
 Desloratadine is a non-sedating, long-acting histamine antagonist with selective peripheral H1-receptor antagonist activity.
 After oral administration, desloratadine selectively blocks peripheral histamine H1-receptors because the substance is excluded from entry to the central nervous system.
 
@@ -46,9 +45,9 @@ Thus, since the course of AR/CIU and the profile of desloratadine are similar in
 
 In a multiple dose clinical trial, in adults and adolescents, in which up to 20 mg of desloratadine was administered daily for 14 days, no statistically or clinically relevant cardiovascular effect was observed.
 In a clinical pharmacology trial, in adults and adolescents, in which desloratadine was administered to adults at a dose of 45 mg daily (nine times the clinical dose) for ten days, no prolongation of QTc interval was seen.
-
 In controlled clinical trials, at the recommended dose of 5 mg daily for adults and adolescents, there was no excess incidence of somnolence as compared to placebo.
 Azomyr tablets given at a single daily dose of 7.5 mg to adults and adolescents did not affect psychomotor performance in clinical trials.
+
 In clinical pharmacology trials in adults, co-administration with alcohol did not increase the alcohol-induced impairment in performance or increase in sleepiness.
 
 In adult and adolescent patients with AR, Azomyr tablets were effective in relieving symptoms such as sneezing, nasal discharge and itching, as well as ocular itching, tearing and redness, and itching of palate.

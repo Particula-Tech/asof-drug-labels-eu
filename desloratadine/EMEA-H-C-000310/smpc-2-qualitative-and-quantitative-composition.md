@@ -2,7 +2,7 @@
 
 Each tablet contains 5 mg desloratadine.
 
-For excipients, see section 6.1.
+For a full list of excipients, see section 6.1.
 
 [Azomyr 0.5 mg/ml syrup]
 

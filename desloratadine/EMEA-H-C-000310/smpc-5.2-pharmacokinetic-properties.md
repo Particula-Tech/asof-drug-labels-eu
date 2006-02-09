@@ -9,6 +9,7 @@ In a pharmacokinetic trial in which patient demographics were comparable to thos
 This percentage may vary according to ethnic background.
 Maximum desloratadine concentration was about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours.
 The safety profile of these subjects was not different from that of the general population.
+
 Desloratadine is moderately bound (83 % - 87 %) to plasma proteins.
 There is no evidence of clinically relevant drug accumulation following once daily dosing of desloratadine (5 mg to 20 mg) for 14 days.
 
@@ -34,6 +35,7 @@ The overall safety profile of these subjects was not different from that of the 
 The effects of Azomyr syrup in poor metabolizers < 2 years of age have not been studied.
 
 There is no evidence of clinically relevant active substance accumulation following once daily adult and adolescent dosing of desloratadine (5 mg to 20 mg) for 14 days.
+
 In a single dose, crossover study of desloratadine, the tablet and the syrup formulations were found to be bioequivalent.
 
 In separate single dose studies, at the recommended doses, paediatric patients had comparable AUC and Cmax values of desloratadine to those in adults who received a 5 mg dose of desloratadine syrup.

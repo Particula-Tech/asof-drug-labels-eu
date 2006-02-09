@@ -1,8 +1,10 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Efficacy and safety of Azomyr tablets in children under 12 years of age have not been established.
 
 In the case of severe renal insufficiency, Azomyr should be used with caution (see section 5.2).
+
+Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 [Azomyr 0.5 mg/ml syrup]
 
@@ -16,6 +18,8 @@ The safety of Azomyr syrup in children 2- to 11-years of age who are poor metabo
 The effects of Azomyr syrup in poor metabolisers < 2 years of age have not been studied.
 
 This medicinal product contains sucrose and sorbitol; thus, patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
+
+This medicinal product contains the colouring agent E110 which may cause allergic reactions.
 
 [Azomyr 5 mg oral lyophilisate]
 
