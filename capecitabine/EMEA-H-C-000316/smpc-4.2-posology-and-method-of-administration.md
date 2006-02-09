@@ -54,7 +54,6 @@ Table 3: Calculated Xeloda dose, reduced to 50% of the standard starting dose
 | ≥2.19 | 1450 | 3 | 2 | 3 | 2 |
 
 Posology adjustments during treatment:
-
 Toxicity due to Xeloda administration may be managed by symptomatic treatment and/or modification of the dose (treatment interruption or dose reduction).
 Once the dose has been reduced, it should not be increased at a later time.
 Patients taking Xeloda should be informed of the need to interrupt treatment immediately if moderate or worse toxicity occurs.
@@ -81,7 +80,7 @@ Table 4: Xeloda Monotherapy Dose Reduction Schedule
 *National Cancer Institute of Canada (NCIC) Common Toxicity Criteria (version 1) were used except for hand-foot syndrome
 
 The following are the recommended dose modifications for toxicity when Xeloda and docetaxel are used in combination:
-Table 5: Xeloda (X) in Combination with Docetaxel (Taxotere®, T) Dose Reduction Schedule for Non-Haematological Toxicities (for dose modifications due to haematological toxicities, see section on haematological toxicity after the table)
+Table 5: Xeloda (X) in Combination with Docetaxel (Taxotere, T) Dose Reduction Schedule for Non-Haematological Toxicities (for dose modifications due to haematological toxicities, see section on haematological toxicity after the table)
 
 Recommended Dose Modifications
 Xeloda dose changes within a Dose adjustment on
@@ -162,32 +161,30 @@ Patients with anorexia, asthenia, nausea, vomiting or diarrhoea may rapidly beco
 If grade 2 (or higher) dehydration occurs, Xeloda treatment should be immediately interrupted and the dehydration corrected.
 Treatment should not be restarted until the patient is rehydrated and any precipitating causes have been corrected or controlled.
 Dose modifications applied should be those for the precipitating adverse event in accordance with the above guidelines.
-Posology adjustments for special populations:
 
+Posology adjustments for special populations:
 Hepatic impairment: insufficient safety and efficacy data are available in patients with hepatic impairment to provide a dose adjustment recommendation.
 No information is available on hepatic impairment due to cirrhosis or hepatitis.
 
 Renal impairment: Xeloda is contraindicated in patients with severe renal impairment (creatinine clearance below 30 ml/min [Cockroft and Gault] at baseline).
-The incidence of grade 3 or 4 adverse events in patients with moderate renal impairment (creatinine clearance 30-50 ml/min at baseline) is increased compared to the overall population.
+The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 ml/min at baseline) is increased compared to the overall population.
 In patients with moderate renal impairment at baseline, a dose reduction to 75% of starting dose is recommended.
 In patients with mild renal impairment (creatinine clearance 51-80 ml/min at baseline) no adjustment of the starting dose is recommended.
 Careful monitoring and prompt treatment interruption is recommended if the patient develops a grade 2, 3 or 4 adverse event during treatment and subsequent dose adjustment as outlined in the table above.
 These dose adjustment recommendations for renal impairment apply both to monotherapy and combination use (see also section “Elderly” below).
 
-Children (under 18 years): the safety and efficacy of Xeloda in children has not been studied.
+There is no experience in children (under 18 years).
 
 Elderly: no adjustment of the starting dose is needed during Xeloda monotherapy.
-However, grade 3 or 4 treatment-related adverse events were more frequent in patients ≥60 years of age compared to younger patients.
+However, grade 3 or 4 treatment-related adverse reactions were more frequent in patients ≥60 years of age compared to younger patients.
 Careful monitoring of patients ≥60 years of age is advisable.
-In combination with docetaxel, an increased incidence of grade 3 or 4 treatment-related adverse events and treatment-related serious adverse events were observed in patients 60 years of age or more (see section 5.1).
+In combination with docetaxel, an increased incidence of grade 3 or 4 treatment-related adverse reactions and treatment-related serious adverse reactions were observed in patients 60 years of age or more (see section 5.1).
 For patients 60 years of age or more treated with the combination of Xeloda plus docetaxel, a starting dose reduction of Xeloda to 75% (950 mg/m2 twice daily) is recommended.
 If no toxicity is observed in patients ≥60 years of age treated with a reduced Xeloda starting dose in combination with docetaxel, the dose of Xeloda may be cautiously escalated to 1250 mg/m2 twice daily.
 
-[Xeloda®500 mg film-coated tablets]
+[Xeloda 500 mg film-coated tablets.]
 
 Patients taking Xeloda should be informed of the need to interrupt treatment immediately if moderate or worse toxicity occurs Doses of Xeloda omitted for toxicity are not replaced or restored, instead the patient should resume the planned treatment cycle.
-
-Docetaxel should be discontinued if grade 4 neutropenia or febrile neutropenia occurs at a dose of 55 mg/m2 docetaxel, docetaxel.
 
 Renal impairment:.
 Xeloda is contraindicated in patients with severe renal impairment (creatinine clearance below 30 ml/min [Cockroft and Gault] at baseline).

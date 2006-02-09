@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: cytostatic (antimetabolite), ATC code: L01B C
+Pharmacotherapeutic group: cytostatic (antimetabolite), ATC code: L01BC06
 
 Capecitabine is a non-cytotoxic fluoropyrimidine carbamate, which functions as an orally administered precursor of the cytotoxic moiety 5-fluorouracil (5-FU).
 Capecitabine is activated via several enzymatic steps (see section 5.2).
@@ -33,7 +33,7 @@ Currently, no comparative data are available on Xeloda monotherapy in colorectal
 Combination therapy with Xeloda and docetaxel in locally advanced or metastatic breast cancer
 Data from one multicenter, randomised, controlled phase 3 clinical trial support the use of Xeloda in combination with docetaxel for treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy, including an anthracycline.
 In this trial, 255 patients were randomised to treatment with Xeloda (1250 mg/m2 twice daily for 2 weeks followed by 1-week rest period and docetaxel 75 mg/m2 as a 1 hour intravenous infusion every 3 weeks).
-256 patients were randomised to treatment with docetaxel alone (100 mg/ m2 as a 1 hour intravenous infusion every 3 weeks).
+256 patients were randomised to treatment with docetaxel alone (100 mg/m2 as a 1 hour intravenous infusion every 3 weeks).
 Survival was superior in the Xeloda + docetaxel combination arm (p=0.0126).
 Median survival was 442 days (Xeloda + docetaxel) vs. 352 days (docetaxel alone).
 The overall objective response rates in the all-randomised population (investigator assessment) were 41.6% (Xeloda + docetaxel) vs. 29.7% (docetaxel alone); p = 0.0058.
@@ -47,8 +47,8 @@ The overall objective response rates (investigator assessment) were 20% (first t
 The median time to progression was 93 and 98 days.
 Median survival was 384 and 373 days.
 
-An analysis of safety data in patients treated with Xeloda monotherapy (colorectal cancer) with baseline renal impairment showed an increase in the incidence of treatment-related grade 3 and 4 adverse events compared to patients with normal renal function (36% in patients without renal impairment n=268, vs. 41% in mild n=257 and 54% in moderate n=59, respectively) (see section 5.2).
+An analysis of safety data in patients treated with Xeloda monotherapy (colorectal cancer) with baseline renal impairment showed an increase in the incidence of treatment-related grade 3 and 4 adverse reactions compared to patients with normal renal function (36% in patients without renal impairment n=268, vs. 41% in mild n=257 and 54% in moderate n=59, respectively) (see section 5.2).
 Patients with moderately impaired renal function show an increased rate of dose reduction (44%) vs. 33% and 32% in patients with no or mild renal impairment and an increase in early withdrawals from treatment (21% withdrawals during the first two cycles) vs. 5% and 8% in patients with no or mild renal impairment.
 
-An analysis of safety data in patients ≥60 years of age treated with Xeloda monotherapy and an analysis of patients treated with Xeloda plus docetaxel combination therapy showed an increase in the incidence of treatment-related grade 3 and 4 adverse events and treatment-related serious adverse events compared to patients <60 years of age.
-Patients ≥60 years of age treated with Xeloda plus docetaxel also had more early withdrawals from treatment due to adverse events compared to patients <60 years of age.
+An analysis of safety data in patients ≥60 years of age treated with Xeloda monotherapy and an analysis of patients treated with Xeloda plus docetaxel combination therapy showed an increase in the incidence of treatment-related grade 3 and 4 adverse reactions and treatment-related serious adverse reactions compared to patients <60 years of age.
+Patients ≥60 years of age treated with Xeloda plus docetaxel also had more early withdrawals from treatment due to adverse reactions compared to patients <60 years of age.

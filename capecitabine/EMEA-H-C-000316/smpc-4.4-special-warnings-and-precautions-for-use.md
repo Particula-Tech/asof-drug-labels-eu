@@ -1,7 +1,7 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Dose limiting toxicities include diarrhoea, abdominal pain, nausea, stomatitis and hand-foot syndrome (hand-foot skin reaction, palmar-plantar erythrodysesthesia).
-Most adverse events are reversible and do not require permanent discontinuation of therapy, although doses may need to be withheld or reduced.
+Most adverse reactions are reversible and do not require permanent discontinuation of therapy, although doses may need to be withheld or reduced.
 
 Diarrhoea.
 Xeloda can induce the occurrence of diarrhoea, which has been observed in 50% of patients.
@@ -11,7 +11,6 @@ NCIC CTC grade 2 diarrhoea is defined as an increase of 4 to 6 stools/day or noc
 Grade 4 diarrhoea is an increase of ≥10 stools/day or grossly bloody diarrhoea or the need for parenteral support.
 If grade 2, 3 or 4 diarrhoea occurs, administration of Xeloda should be immediately interrupted until the diarrhoea resolves or decreases in intensity to grade 1.
 Following grade 3 or 4 diarrhoea, subsequent doses of Xeloda should be decreased or treatment discontinued permanently (grade 4).
-
 Hand-foot syndrome (also known as hand-foot skin reaction or palmar-plantar erythrodysesthesia or chemotherapy induced acral erythema).
 Grade 1 hand- foot syndrome is defined as numbness, dysesthesia/paresthesia, tingling, painless swelling or erythema of the hands and/or feet and/or discomfort which does not disrupt the patient’s normal activities.
 Grade 2 hand- foot syndrome is painful erythema and swelling of the hands and/or feet and/or discomfort affecting the patient’s activities of daily living.
@@ -21,7 +20,7 @@ Following grade 3 hand-foot syndrome, subsequent doses of Xeloda should be decre
 
 Cardiotoxicity.
 Cardiotoxicity has been associated with fluoropyrimidine therapy, including myocardial infarction, angina, dysrhythmias, cardiogenic shock, sudden death and electrocardiographic changes.
-These adverse events may be more common in patients with a prior history of coronary artery disease.
+These adverse reactions may be more common in patients with a prior history of coronary artery disease.
 Cardiac arrhythmias, angina pectoris, myocardial infarction, heart failure and cardiomyopathy have been reported in patients receiving Xeloda.
 Caution must be exercised in patients with history of significant cardiac disease, arrhythmias and angina pectoris (See section 4.8).
 
@@ -48,8 +47,10 @@ Treatment with Xeloda monotherapy may be resumed when bilirubin decreases to ≤
 For combination treatment with Xeloda and docetaxel, see also section 4.2.
 
 Renal impairment.
-The incidence of grade 3 or 4 adverse events in patients with moderate renal impairment (creatinine clearance 30-50 ml/min) is increased compared to the overall population (see section 4.2 and 4.3).
+The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 ml/min) is increased compared to the overall population (see section 4.2 and 4.3).
 
-[Xeloda®500 mg film-coated tablets]
+As this medicinal product contains anhydrous lactose as an excipient, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
+[Xeloda 500 mg film-coated tablets.]
 
 Treatment with Xeloda monotherapy may be resumed when bilirubin decreases to ≤ 3.0 x ULN or hepatic aminotransferases decrease to

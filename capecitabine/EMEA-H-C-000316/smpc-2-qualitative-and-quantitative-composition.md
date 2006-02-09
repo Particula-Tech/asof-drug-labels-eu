@@ -1,9 +1,13 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-150 mg capecitabine
+150 mg capecitabine.
 
-For excipients, see section 6.1.
+Excipient: 15.6 mg anhydrous lactose.
 
-[Xeloda®500 mg film-coated tablets]
+For a full list of excipients, see section 6.1.
 
-500 mg capecitabine
+[Xeloda 500 mg film-coated tablets.]
+
+500 mg capecitabine.
+
+Excipient: 52 mg anhydrous lactose.

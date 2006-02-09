@@ -1,7 +1,7 @@
 # 4.3 Contraindications
 
 History of severe and unexpected reactions to fluoropyrimidine therapy,
-Known hypersensitivity to capecitabine, fluorouracil or any of the excipients,
+Hypersensitivity to capecitabine or to any of the excipients or fluorouracil,
 In patients with known dihydropyrimidine dehydrogenase (DPD) deficiency,
 During pregnancy and lactation,
 In patients with severe leucopenia, neutropenia, or thrombocytopenia,
