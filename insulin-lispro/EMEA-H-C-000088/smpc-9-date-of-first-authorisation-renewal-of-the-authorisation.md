@@ -1,93 +1,47 @@
-# 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
+# 9. DATE OF FIRST AUTHORISATION/RENEWAL OF AUTHORISATION
 
-30th April 1996 / April 2001
-
-[Humalog 100 U/ml, solution for injection in vial]
-
-30th April 1996 / April 2001 1 x 10 ml Humalog vial
-
-31st July 2002 2 x 10 ml Humalog vials
-15th November 2002 5 x (1 x 10 ml) Humalog vials
+Date of first authorisation: 30th April 1996
 
 [Humalog 100 U/ml, solution for injection in cartridge]
 
-30th April 1996 / April 2001 5 x 1.5 ml Humalog cartridges for a 1.5 ml pen
-
-15th November 2002 4 x (5 x 1.5 ml) Humalog cartridges for a 1.5 ml pen
-
-[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
-
-26th March 1997 / April 2001 5 x 3 ml Humalog cartridges for a 3 ml pen
-
-15th November 2002 2 x (5 x 3 ml) Humalog cartridges for a 3 ml pen
+Date of first authorisation: 26th March 1997
 
 [Humalog Mix25 100 U/ml suspension for injection in vial]
 
-19 November 1998 / April 2001
+Date of first authorisation: 19th November 1998
 
 [Humalog Mix25 100 U/ml suspension for injection in cartridge]
 
-19 November 1998 / April 2001 5 x 3 ml Humalog Mix25 cartridges for a 3 ml pen
-
-15th November 2002 2 x (5 x 3 ml) Humalog Mix25 cartridges for a 3 ml pen
+(all sentences already above)
 
 [Humalog Mix50 100 U/ml suspension for injection in vial]
 
-5.
-December 2001
+Date of first authorisation: 5th December 2001
 
 [Humalog Mix50 100 U/ml suspension for injection in cartridge]
-
-19 November 1998 / April 2001 5 x 3 ml Humalog Mix50 cartridges for a 3 ml pen
-
-15th November 2002 2 x (5 x 3 ml) Humalog Mix50 cartridges for a 3 ml pen
-
-[Humalog NPL 100 U/ml suspension for injection in vial]
 
 (all sentences already above)
 
 [Humalog NPL 100 U/ml suspension for injection in cartridge]
 
-19 November 1998 / April 2001 5 x 3 ml Humalog NPL cartridges for a 3 ml pen
-
-XX-XXX 2005 2 x (5 x 3 ml) Humalog NPL cartridges for a 3 ml pen
-
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-26th March 1997 / April 2001
-
-[Humalog Mix25 100 U/ml HumaJect suspension for injection]
-
-19th November 1998 / April 2001
-
-[Humalog Mix50 100 U/ml HumaJect, suspension for injection]
-
 (all sentences already above)
 
-[Humalog NPL 100 U/ml HumaJect suspension for injection]
+[Humalog-Humaject 100 U/ml, solution for injection]
 
 (all sentences already above)
 
 [Humalog Pen 100 U/ml, solution for injection]
 
-16th June 1997 / April 2001 5 x 3 ml Pens
-
-15th November 2002 2 x (5 x 3 ml) Pens
+Date of first authorisation: 16th June 1997
 
 [Humalog Mix25 100 U/ml Pen, suspension for injection]
 
-19th November 1998 / April 2001 5 x 3 ml Humalog Mix25 100 U/ml Pens
-
-15th November 2002 2 x (5 x 3 ml) Humalog Mix25 100 U/ml Pens
+(all sentences already above)
 
 [Humalog Mix50 100 U/ml Pen, suspension for injection]
 
-19th November 1998 / April 2001 5 x 3 ml Humalog Mix50 100 U/ml Pens
-
-15th November 2002 2 x (5 x 3 ml) Humalog Mix50 100 U/ml Pens
+(all sentences already above)
 
 [Humalog NPL 100 U/ml Pen, suspension for injection]
 
-19th November 1998 / April 2001 5 x 3 ml Humalog NPL Pen for a 3 ml pen
-
-XXX 2005 2 x (5 x 3 ml) Humalog NPL Pen for a 3 ml pen
+(all sentences already above)

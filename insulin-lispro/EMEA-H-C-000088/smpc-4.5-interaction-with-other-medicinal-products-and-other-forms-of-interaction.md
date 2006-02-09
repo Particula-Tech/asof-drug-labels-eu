@@ -2,19 +2,11 @@
 
 Insulin requirements may be increased by medicinal products with hyperglycaemic activity, such as oral contraceptives, corticosteroids, or thyroid replacement therapy, danazol, beta2 stimulants (such as ritodrine, salbutamol, terbutaline).
 
-Insulin requirements may be reduced in the presence of medicinal products with hypoglycaemic activity, such as oral hypoglycaemics, salicylates (for example, acetylsalicylic acid), sulpha antibiotics, certain antidepressants (monoamine oxidase inhibitors), certain angiotensin converting enzyme inhibitors (captopril, enalapril), beta-blockers, octreotide or alcohol.
+Insulin requirements may be reduced in the presence of medicinal products with hypoglycaemic activity, such as oral hypoglycaemics, salicylates (for example, acetylsalicylic acid), sulpha antibiotics, certain antidepressants (monoamine oxidase inhibitors), certain angiotensin converting enzyme inhibitors ( captopril, enalapril), beta-blockers, octreotide or alcohol.
 
 The physician should be consulted when using other medications in addition to Humalog.
 
-[Humalog 100 U/ml, solution for injection in vial]
-
-Insulin requirements may be reduced in the presence of medicinal products with hypoglycaemic activity, such as oral hypoglycaemics, salicylates (for example, acetylsalicylic acid), sulpha antibiotics, certain antidepressants (monoamine oxidase inhibitors), certain angiotensin converting enzyme inhibitors ( captopril, enalapril), beta-blockers, octreotide or alcohol.
-
 [Humalog 100 U/ml, solution for injection in cartridge]
-
-Insulin requirements may be increased by medicinal products with hyperglycaemic activity, such as oral contraceptives, corticosteroids, or thyroid replacement therapy, danazol, beta2 stimulants such as ritodrine, salbutamol, terbutaline).
-
-[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
 
 (all sentences already above)
 
@@ -44,33 +36,15 @@ The physician should be consulted when using other medications in addition to Hu
 
 Insulin requirements may be reduced in the presence of substances with hypoglycaemic activity, such as oral hypoglycaemics, salicylates (for example, acetylsalicylic acid), sulpha antibiotics, certain antidepressants, (monoamine oxidase inhibitors), certain angiotensin converting enzyme inhibitors (captopril, enalapril), beta-blockers, octreotide or alcohol.
 
-[Humalog NPL 100 U/ml suspension for injection in vial]
-
-Insulin requirements may be reduced in the presence of substances with hypoglycaemic activity, such as oral hypoglycaemics, salicylates (for example, acetylsalicylic acid), sulphate antibiotics, certain antidepressants, (monoamine oxidase inhibitors), certain angiotensin converting enzyme inhibitors (captopril, enalapril), beta-blockers, octreotide or alcohol.
+[Humalog NPL 100 U/ml suspension for injection in cartridge]
 
 Mixing Humalog NPL with insulins other than Humalog has not been studied.
 
 The physician should be consulted when using other medications in addition to Humalog NPL.
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
-
-(all sentences already above)
-
 [Humalog-Humaject 100 U/ml, solution for injection]
 
 The physician should be consulted when using other medications in addition to Humalog-Humaject.
-
-[Humalog Mix25 100 U/ml HumaJect suspension for injection]
-
-The physician should be consulted when using other medications in addition to Humalog Mix25 100 U/ml HumaJect.
-
-[Humalog Mix50 100 U/ml HumaJect, suspension for injection]
-
-The physician should be consulted when using other medications in addition to Humalog Mix50 100 U/ml HumaJect.
-
-[Humalog NPL 100 U/ml HumaJect suspension for injection]
-
-(all sentences already above)
 
 [Humalog Pen 100 U/ml, solution for injection]
 

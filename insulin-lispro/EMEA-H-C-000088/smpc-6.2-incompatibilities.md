@@ -1,24 +1,16 @@
 # 6.2 Incompatibilities
 
 Humalog preparations should not be mixed with insulins produced by other manufacturers or with animal insulin preparations.
-This medicinal product must not be mixed with another medicinal product except those mentioned in 6.6.
-
-[Humalog 100 U/ml, solution for injection in vial]
-
-(all sentences already above)
+This medicinal product must not be mixed with other medicinal products except those mentioned in section 4.2.
 
 [Humalog 100 U/ml, solution for injection in cartridge]
-
-(all sentences already above)
-
-[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
 
 (all sentences already above)
 
 [Humalog Mix25 100 U/ml suspension for injection in vial]
 
 Mixing Humalog Mix25 with other insulins has not been studied.
-In the absence of compatibility studies, this medicinal product must not be mixed with another medicinal product.
+In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products.
 
 [Humalog Mix25 100 U/ml suspension for injection in cartridge]
 
@@ -32,28 +24,12 @@ Mixing Humalog Mix50 with other insulins has not been studied.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml suspension for injection in vial]
-
-Mixing Humalog NPL with insulins other than Humalog has not been studied.
-This medicinal product must not be mixed with another medicinal product than Humalog.
-
 [Humalog NPL 100 U/ml suspension for injection in cartridge]
 
-(all sentences already above)
+Mixing Humalog NPL with insulins other than Humalog has not been studied.
+This medicinal product must not be mixed with other medicinal products than Humalog.
 
 [Humalog-Humaject 100 U/ml, solution for injection]
-
-(all sentences already above)
-
-[Humalog Mix25 100 U/ml HumaJect suspension for injection]
-
-(all sentences already above)
-
-[Humalog Mix50 100 U/ml HumaJect, suspension for injection]
-
-(all sentences already above)
-
-[Humalog NPL 100 U/ml HumaJect suspension for injection]
 
 (all sentences already above)
 

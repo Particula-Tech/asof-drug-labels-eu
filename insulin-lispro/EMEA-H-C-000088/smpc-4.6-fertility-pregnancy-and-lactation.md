@@ -7,17 +7,9 @@ Insulin requirements usually fall during the first trimester and increase during
 Patients with diabetes should be advised to inform their doctor if they are pregnant or are contemplating pregnancy.
 Careful monitoring of glucose control, as well as general health, is essential in pregnant patients with diabetes.
 
-Patients with diabetes who are lactating may require adjustments in insulin dose, diet or both.
-
-[Humalog 100 U/ml, solution for injection in vial]
-
-(all sentences already above)
+Patients with diabetes who are breast-feeding may require adjustments in insulin dose, diet or both.
 
 [Humalog 100 U/ml, solution for injection in cartridge]
-
-(all sentences already above)
-
-[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
 
 (all sentences already above)
 
@@ -31,13 +23,9 @@ Patients with diabetes who are lactating may require adjustments in insulin dose
 
 [Humalog Mix50 100 U/ml suspension for injection in vial]
 
-Patients with diabetes who are lactating may require adjustments in insulin dose, diet, or both.
+Patients with diabetes who are breast-feeding may require adjustments in insulin dose, diet, or both.
 
 [Humalog Mix50 100 U/ml suspension for injection in cartridge]
-
-(all sentences already above)
-
-[Humalog NPL 100 U/ml suspension for injection in vial]
 
 (all sentences already above)
 
@@ -46,18 +34,6 @@ Patients with diabetes who are lactating may require adjustments in insulin dose
 (all sentences already above)
 
 [Humalog-Humaject 100 U/ml, solution for injection]
-
-(all sentences already above)
-
-[Humalog Mix25 100 U/ml HumaJect suspension for injection]
-
-(all sentences already above)
-
-[Humalog Mix50 100 U/ml HumaJect, suspension for injection]
-
-(all sentences already above)
-
-[Humalog NPL 100 U/ml HumaJect suspension for injection]
 
 (all sentences already above)
 

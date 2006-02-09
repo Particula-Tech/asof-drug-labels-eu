@@ -2,15 +2,7 @@
 
 Eli Lilly Nederland B.V., Grootslag 1-5, 3991 RA Houten, The Netherlands.
 
-[Humalog 100 U/ml, solution for injection in vial]
-
-(all sentences already above)
-
 [Humalog 100 U/ml, solution for injection in cartridge]
-
-(all sentences already above)
-
-[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
 
 Eli Lilly Nederland B V., Grootslag 1-5, 3991 RA Houten, The Netherlands.
 
@@ -30,27 +22,11 @@ Eli Lilly Nederland B V., Grootslag 1-5, 3991 RA Houten, The Netherlands.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml suspension for injection in vial]
-
-(all sentences already above)
-
 [Humalog NPL 100 U/ml suspension for injection in cartridge]
 
 (all sentences already above)
 
 [Humalog-Humaject 100 U/ml, solution for injection]
-
-(all sentences already above)
-
-[Humalog Mix25 100 U/ml HumaJect suspension for injection]
-
-(all sentences already above)
-
-[Humalog Mix50 100 U/ml HumaJect, suspension for injection]
-
-(all sentences already above)
-
-[Humalog NPL 100 U/ml HumaJect suspension for injection]
 
 (all sentences already above)
 

@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
 Changes in strength, brand (manufacturer), type (regular, NPH, lente, etc.), species (animal, human, human insulin analogue), and/or method of manufacture (recombinant DNA versus animal-source insulin) may result in the need for a change in dosage.
@@ -26,17 +26,9 @@ A consequence of the pharmacodynamics of rapid-acting insulin analogues is that 
 Humalog should only be used in children in preference to soluble insulin when a fast action of insulin might be beneficial.
 For example, in the timing of the injections in relation to meals.
 
-[Humalog 100 U/ml, solution for injection in vial]
-
-(all sentences already above)
-
 [Humalog 100 U/ml, solution for injection in cartridge]
 
 If the 40 U/ml vial is the product normally prescribed, do not take insulin from a 100 U/ml cartridge using a 40 U/ml syringe.
-
-[Humalog 100 U/ml, solution for injection in cartridge (SmPC 4)]
-
-(all sentences already above)
 
 [Humalog Mix25 100 U/ml suspension for injection in vial]
 
@@ -56,27 +48,11 @@ Under no circumstances should Humalog Mix50 be given intravenously.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml suspension for injection in vial]
+[Humalog NPL 100 U/ml suspension for injection in cartridge]
 
 Under no circumstances should Humalog NPL be given intravenously.
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
-
-(all sentences already above)
-
 [Humalog-Humaject 100 U/ml, solution for injection]
-
-(all sentences already above)
-
-[Humalog Mix25 100 U/ml HumaJect suspension for injection]
-
-(all sentences already above)
-
-[Humalog Mix50 100 U/ml HumaJect, suspension for injection]
-
-(all sentences already above)
-
-[Humalog NPL 100 U/ml HumaJect suspension for injection]
 
 (all sentences already above)
 
