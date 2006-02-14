@@ -42,7 +42,6 @@ Empty pens must never be reused and must be properly discarded.
 
 To prevent the possible transmission of disease, each pen must be used by one patient only.
 Handling of the pen
-
 The Instructions for Use included in the Package Leaflet must be read carefully before using OptiSet.
 
 Pen cap

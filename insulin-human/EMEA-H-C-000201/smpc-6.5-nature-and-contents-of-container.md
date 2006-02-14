@@ -13,14 +13,14 @@ Each vial contains 10 ml solution (400 IU insulin human).
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
-3 ml, type 1 colourless glass cartridge with bromobutyl rubber (type 1) plunger and flanged aluminium cap with bromobutyl rubber (type 1) stopper.
+3 ml, type 1 colourless glass cartridge with bromobutyl rubber (type 1) plunger and flanged aluminium cap with bromobutyl or laminate of polyisoprene and bromobutyl rubber (type 1) stopper.
 
 Each cartridge contains 3 ml solution (300 IU insulin human).
 Packs of 4, 5 or 10 cartridges are available.
 
 [Insuman Rapid 100 IU/ml OptiSet solution for injection]
 
-Disposable pen filled with a 3 ml, type 1 colourless glass cartridge with bromobutyl rubber (type 1) plunger and flanged aluminium cap with bromobutyl rubber (type 1) stopper.
+Disposable pen filled with a 3 ml, type 1 colourless glass cartridge with bromobutyl rubber (type 1) plunger and flanged aluminium cap with bromobutyl or laminate of polyisoprene and bromobutyl rubber (type 1) stopper.
 
 The cartridges are sealed in a disposable pen injector.
 Needles are not included in the pack.
@@ -42,7 +42,7 @@ Each cartridge contains 3 ml suspension (300 IU insulin human).
 
 [Insuman Basal 100 IU/ml OptiSet suspension for injection]
 
-Disposable pen filled with 3 ml, type 1 colourless glass cartridge with bromobutyl rubber (type 1) plunger and flanged aluminium cap with bromobutyl rubber (type 1) stopper.
+Disposable pen filled with 3 ml, type 1 colourless glass cartridge with bromobutyl rubber (type 1) plunger and flanged aluminium cap with bromobutyl or laminate of polyisoprene and bromobutyl rubber (type 1) stopper.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
