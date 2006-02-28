@@ -14,8 +14,7 @@ Monitoring of renal function (creatinine clearance and serum phosphate) is recom
 In patients at risk for, or with a history of, renal dysfunction, and patients with renal insufficiency, consideration should be given to more frequent monitoring of renal function.
 
 If serum phosphate is < 1.5 mg/dl (0.48 mmol/l) or creatinine clearance is decreased to < 50 ml/min, renal function should be re-evaluated within one week, including measurements of blood glucose, blood potassium and urine glucose concentrations (see section 4.8, proximal tubulopathy), and the dose interval of Viread adjusted (see 4.2).
-Consideration should also be given to interrupting treatment with tenofovir disoproxil fumarate in patients with creatinine clearance decreased to
-< 50 ml/min or decreases in serum phosphate to < 1.0 mg/dl (0.32 mmol/l).
+Consideration should also be given to interrupting treatment with tenofovir disoproxil fumarate in patients with creatinine clearance decreased to < 50 ml/min or decreases in serum phosphate to < 1.0 mg/dl (0.32 mmol/l).
 
 Tenofovir disoproxil fumarate has not been evaluated in patients receiving nephrotoxic medicinal products (e.g. aminoglycosides, amphotericin B, foscarnet, ganciclovir, pentamidine, vancomycin, cidofovir or interleukin-2).
 Use of tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic medicinal product.

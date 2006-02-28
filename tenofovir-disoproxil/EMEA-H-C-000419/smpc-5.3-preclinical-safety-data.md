@@ -13,6 +13,7 @@ Tenofovir disoproxil fumarate reduced the viability index and weight of pups in 
 Genotoxicity studies have shown that tenofovir disoproxil fumarate was negative in the in vivo mouse bone marrow micronucleus assay but was positive for inducing forward mutations in the in vitro L5178Y mouse lymphoma cell assay in the presence or absence of S9 metabolic activation.
 Tenofovir disoproxil fumarate was positive in the Ames test (strain TA 1535) in two out of three studies, once in the presence of S9 mix (6.2 to 6.8 fold-increase) and once without S9 mix.
 Tenofovir disoproxil fumarate was also weakly positive in an in vivo / in vitro unscheduled DNA synthesis test in primary rat hepatocytes.
+
 Tenofovir disoproxil fumarate did not show any carcinogenic potential in a long-term oral carcinogenicity study in rats.
 A long-term oral carcinogenicity study in mice showed a low incidence of duodenal tumours, considered likely related to high local concentrations of tenofovir disoproxil fumarate in the gastrointestinal tract at a dose of 600 mg/kg/day.
 While the mechanism of tumour formation is uncertain, the findings are unlikely to be of relevance to humans.

@@ -6,7 +6,8 @@ Approximately one third of patients can be expected to experience adverse reacti
 These reactions are usually mild to moderate gastrointestinal events.
 
 The adverse reactions with suspected (at least possible) relationship to treatment are listed below by body system organ class and absolute frequency.
-Frequencies are defined as very common (≥ 1/10), common (≥ 1/100, < 1/10), uncommon (≥ 1/1000, < 1/100), rare (≥ 1/10,000, < 1/1000) or very rare (< 1/10,000) including isolated reports.
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100, < 1/10), uncommon (≥ 1/1000, < 1/100), rare (≥ 1/10,000, < 1/1000) or very rare
+(< 1/10,000) including isolated reports.
 
 Metabolism and nutrition disorders:
 Very common: hypophosphataemia
@@ -22,7 +23,6 @@ Gastrointestinal disorders:
 Very common: diarrhoea, nausea, vomiting
 Common: flatulence
 Rare: pancreatitis
-
 Hepatobiliary disorders:
 Rare: increased transaminases
 Very rare: hepatitis

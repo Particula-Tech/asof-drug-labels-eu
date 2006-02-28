@@ -6,7 +6,7 @@ Tenofovir is excreted renally, both by filtration and active secretion via the a
 Co-administration of tenofovir disoproxil fumarate with other medicinal products that are also actively secreted via the anionic transporter (e.g. cidofovir) may result in increased concentrations of tenofovir or of the co-administered medicinal product (see 4.4).
 
 Concomitant antiretroviral medicinal products
-Emtricitabine, lamivudine, indinavir and efavirenz: co-administration with tenofovir disoproxil fumarate did not result in any interaction.
+Emtricitabine, lamivudine, indinavir, efavirenz, nelfinavir, and saquinavir (ritonavir boosted): co-administration with tenofovir disoproxil fumarate did not result in any clinically relevant interaction.
 
 When tenofovir disoproxil fumarate was administered with lopinavir/ritonavir, no changes were observed in the pharmacokinetics of lopinavir and ritonavir.
 Tenofovir AUC was increased by approximately 30% when tenofovir disoproxil fumarate was administered with lopinavir/ritonavir.
