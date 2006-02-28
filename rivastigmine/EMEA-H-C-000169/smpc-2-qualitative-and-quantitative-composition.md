@@ -2,7 +2,7 @@
 
 Each capsule contains rivastigmine hydrogen tartrate corresponding to rivastigmine 1.5 mg.
 
-For excipients, see 6.1.
+For excipients, see section 6.1.
 
 [EXELON 3 mg hard capsules]
 

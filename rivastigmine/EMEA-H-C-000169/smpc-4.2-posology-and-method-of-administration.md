@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Administration: Treatment should be initiated and supervised by a physician experienced in the diagnosis and treatment of Alzheimer’s dementia.
+Administration: Treatment should be initiated and supervised by a physician experienced in the diagnosis and treatment of Alzheimer’s dementia or dementia associated with Parkinson’s disease.
 Diagnosis should be made according to current guidelines.
 Therapy with rivastigmine should only be started if a caregiver is available who will regularly monitor drug intake by the patient.
 
@@ -13,23 +13,28 @@ Dose titration: The starting dose is 1.5 mg twice a day.
 If this dose is well tolerated after a minimum of two weeks of treatment, the dose may be increased to 3 mg twice a day.
 Subsequent increases to 4.5 mg and then 6 mg twice a day should also be based on good tolerability of the current dose and may be considered after a minimum of two weeks of treatment at that dose level.
 
-If adverse effects (e.g. nausea, vomiting, abdominal pain or loss of appetite) or weight decrease are observed during treatment, these may respond to omitting one or more doses.
-If adverse effects persist, the daily dose should be temporarily reduced to the previous well-tolerated dose.
+If adverse effects (e.g. nausea, vomiting, abdominal pain or loss of appetite), weight decrease or worsening of extrapyramidal symptoms (e.g. tremor) in patients with dementia associated with Parkinson’s disease are observed during treatment, these may respond to omitting one or more doses.
+If adverse effects persist, the daily dose should be temporarily reduced to the previous well-tolerated dose or the treatment may be discontinued.
 
 Maintenance dose: The effective dose is 3 to 6 mg twice a day; to achieve maximum therapeutic benefit patients should be maintained on their highest well tolerated dose.
 The recommended maximum daily dose is 6 mg twice a day.
 
 Maintenance treatment can be continued for as long as a therapeutic benefit for the patient exists.
 Therefore, the clinical benefit of rivastigmine should be reassessed on a regular basis, especially for patients treated at doses less than 3 mg twice a day.
-Discontinuation should be considered when evidence of a therapeutic effect is no longer present.
+If after 3 months of maintenance dose treatment the patient’s rate of decline in dementia symptoms is not altered favourably, the treatment should be discontinued.
+Discontinuation should also be considered when evidence of a therapeutic effect is no longer present.
+
 Individual response to rivastigmine cannot be predicted.
+However, a greater treatment effect was seen in Parkinson’s disease patients with moderate dementia.
+Similarly a larger effect was observed in Parkinson’s disease patients with visual hallucinations (see section 5.1).
 
 Treatment effect has not been studied in placebo-controlled trials beyond 6 months.
+
 Re-initiation of therapy: If treatment is interrupted for more than several days, it should be re-initiated at 1.5 mg twice daily.
 Dose titration should then be carried out as described above.
 
 Renal and hepatic impairment:
-Due to increased exposure in renal and mild to moderate hepatic impairment, dosing recommendations to titrate according to individual tolerability should be closely followed (see 5.2 Pharmacokinetic properties).
+Due to increased exposure in renal and mild to moderate hepatic impairment, dosing recommendations to titrate according to individual tolerability should be closely followed (see section 5.2).
 
 Children:
 Rivastigmine is not recommended for use in children.

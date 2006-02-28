@@ -27,4 +27,4 @@ Sodium benzoate
 Citric acid
 Sodium citrate
 Quinoline yellow WS dye E104
-Purified water.
+Purified water
