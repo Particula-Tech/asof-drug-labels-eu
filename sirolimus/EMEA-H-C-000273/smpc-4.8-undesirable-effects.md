@@ -79,7 +79,7 @@ Common: Epistaxis; pneumonia; pneumonitis
 Skin and subcutaneous tissue disorders:
 
 Very common: Acne
-Common: Rash
+Common: Skin cancer, rash
 
 Renal and urinary disorders:
 
@@ -109,8 +109,6 @@ The majority of patients in clinical trials were treated with ciclosporin and co
 Uncommon: >1/1000, <1/100
 Rare: >1,10,000, <1/1000
 
-reactions, angioedema and hypersensitivity vasculitis (see section 4.4)
-
 Hepatotoxicty has been reported, the risk may increase as the trough Sirolimus level increases.
 
 [Rapamune 2 mg/2 ml oral solution]
@@ -139,4 +137,4 @@ Common: Liver function tests abnormal; increased SGOT increasedSGPT
 
 [Rapamune 5 mg coated tablets]
 
-(all sentences already above)
+Rare: Lymphoedmea

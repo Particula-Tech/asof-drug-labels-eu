@@ -45,8 +45,8 @@ Appropriate adjustment of the immunosuppression regimen should be considered in 
 Caution should be exercised when co-administering other agents that are known to have a deleterious effect on renal function.
 
 Patients treated with ciclosporin and Rapamune beyond 3 months had higher serum creatinine levels and lower calculated glomerular filtration rates compared to patients treated with ciclosporin and placebo or azathioprine controls.
-Patients who were successfully withdrawn from ciclosporin had lower serum creatinine levels and higher calculated glomerular filtration rates compared to patients remaining on ciclosporin.
-Until further clinical data are available, the continued co-administration of ciclosporin and Rapamune as maintenance therapy cannot be recommended.
+Patients who were successfully withdrawn from ciclosporin had lower serum creatinine levels and higher calculated glomerular filtration rates, as well as lower incidence of malignancy, compared to patients remaining on ciclosporin.
+The continued co-administration of ciclosporin and Rapamune as maintenance therapy cannot be recommended
 
 The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced haemolytic uraemic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA).
 
@@ -54,10 +54,6 @@ The concomitant use of Rapamune with a calcineurin inhibitor may increase the ri
 
 Sirolimus has been administered concurrently with the following agents in clinical studies: ciclosporin, azathioprine, mycophenolate mofeticl, corticosteroids and cytotoxic antibodies.
 Sirolimus in combination with other immunosuppressive agents has not been completely investigated.
-
-Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema and hypersensitivity vasculitis, have been associated with the administration of sirolimus (see section 4.8).
-
-The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced haemolytic uraemic syndrome/thrombotic thrombocytopenic purpura/thromobtic microangiopathy (HUS/TTP/TMA).
 
 [Rapamune 2 mg/2 ml oral solution]
 
@@ -67,7 +63,11 @@ Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketocon
 
 Sirolimus has been administered concurrently with the following agents in clinical studies: ciclosporin, azathioprine, mycophenolate mofetil, corticosteroids and cytotoxic antbodies.
 
+Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculaitis, have been associated with the administration of sirolimus (see section 4.8).
+
 [Rapamune 1 mg coated tablets]
+
+Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersentitivity vasculitis, have been associated with the administration of sirolimus (see section 4.8).
 
 Sirolimus tablets contain sucrose and lactose.
 In those patients with a history of sucrase insufficiency, isomaltase insufficiency, fructose intolerance, glucose malabsorption, galactose malabsorption, galactose intolerance (e.g., galactosemia), or Lapp lactase deficiency, a careful risk/benefit assessment should be performed prior to prescribing sirolimus tablets.
@@ -78,4 +78,4 @@ Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketocon
 
 [Rapamune 5 mg coated tablets]
 
-(all sentences already above)
+Rapamune has not been adequately studied in patients at high immunological risk.
