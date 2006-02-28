@@ -9,6 +9,7 @@ In vivo the compound shows anti-tumour activity as a single agent in animal mode
 
 Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF), PDGF-R, and stem cell factor (SCF), c-Kit, and inhibits PDGF- and SCF-mediated cellular events.
 In vitro, imatinib inhibits proliferation and induces apoptosis in gastrointestinal stromal tumour (GIST) cells, which express an activating kit mutation.
+
 Clinical studies in chronic myeloid leukaemia
 The effectiveness of Glivec is based on overall haematological and cytogenetic response rates.
 There are no controlled trials demonstrating a clinical benefit, such as improvement in disease-related symptoms or increased survival.

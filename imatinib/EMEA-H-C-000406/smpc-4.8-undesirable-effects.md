@@ -35,14 +35,17 @@ Frequencies are defined as: very common (>1/10), common (>1/100, ≤1/10), uncom
 | Cardiac disorders |  |  | Cardiac failure, pulmonary oedema, tachycardia | Pericardial effusion, pericarditis, cardiac tamponade |
 | Vascular disorders |  |  | Haematoma, hypertension, hypotension, flushing, peripheral coldness | Thrombosis, embolism |
 | Respiratory, thoracic and mediastinal disorders |  | Epistaxis, dyspnoea | Pleural effusion, cough, pharyngolaryngeal pain | Pulmonary fibrosis, interstitial pneumonitis |
-| Gastrointestinal disorders | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain | Abdominal distension, flatulence, constipation, gastro-oesophageal reflux, mouth ulceration | Gastrointestinal haemorrhage, melaena, ascites, gastric ulcer, gastritis, eructation, dry mouth | Colitis, ileus, intestinal obstruction, pancreatitis |
+| Gastrointestinal disorders | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain | Abdominal distension, flatulence, constipation, gastro-oesophageal reflux, mouth ulceration | Gastrointestinal haemorrhage, melaena, ascites, gastric ulcer, gastritis, eructation, dry mouth, pancreatitis | Colitis, diverticulitis, ileus, intestinal obstruction, gastrointestinal perforation (1) |
 | Hepato-biliary disorders |  | Increased hepatic enzymes | Jaundice, hepatitis, hyperbilirubinaemia | Hepatic failure |
 | Skin and subcutaneous tissue disorders | Periorbital oedema, dermatitis/eczema/ rash | Face oedema, eyelid oedema, pruritus, erythema, dry skin, alopecia, night sweats | Petechiae, contusion, sweating increased, urticaria, onychoclasis, photosensitivity reaction, purpura, hypotrichosis, cheilitis, skin hyperpigmentation, skin hypopigmentation, psoriasis, exfoliative dermatitis and bullous eruptions | Angioedema, vesicular rash, Stevens-Johnson syndrome, acute febrile neutrophilic dermatosis (Sweet’s syndrome) |
-| Musculoskeletal, connective tissue and bone disorders | Muscle spasm and cramps, musculoskeletal pain including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness |  |
+| Musculoskeletal, connective tissue and bone disorders | Muscle spasm and cramps, musculoskeletal pain including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness | Aseptic necrosis of bone, mainly in femoral head |
+| Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |  |  | Tumour haemorrhage, tumour necrosis |
 | Renal and urinary disorders |  |  | Renal failure, renal pain, urinary frequency increased, haematuria |  |
 | Reproductive system and breast disorders |  |  | Gynaecomastia, breast enlargement, scrotal oedema, menorrhagia, nipple pain, sexual dysfunction |  |
-| General disorders and administration site conditions | Fluid retention and oedema, fatigue | Pyrexia, weakness, rigors | Malaise, haemorrhage | Anasarca, tumour haemorrhage, tumour necrosis |
+| General disorders and administration site conditions | Fluid retention and oedema, fatigue | Pyrexia, weakness, rigors | Malaise, haemorrhage | Anasarca |
 | Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood creatinine increased, weight decreased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased |  |
+
+(1) Some fatal cases of gastrointestinal perforation have been reported.
 
 Laboratory test abnormalities
 Haematology
@@ -83,13 +86,14 @@ Frequencies are defined as: very common (>1/10), common (>1/100, ≤1/10), uncom
 | Cardiac disorders |  |  | Cardiac failure, pulmonary oedema, tachycardia | Pericardial effusion, pericarditis, cardiac tamponade |
 | Vascular disorders |  |  | Haematoma, hypertension, hypotension, flushing, peripheral coldness | Thrombosis, embolism |
 | Respiratory, thoracic and mediastinal disorders |  | Epistaxis, dyspnoea | Pleural effusion, cough, pharyngolaryngeal pain | Pulmonary fibrosis, interstitial pneumonitis |
-| Gastrointestinal disorders | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain | Abdominal distension, flatulence, constipation, gastro-oesophageal reflux, mouth ulceration | Gastrointestinal haemorrhage, melaena, ascites, gastric ulcer, gastritis, eructation, dry mouth | Colitis, ileus, intestinal obstruction, pancreatitis |
+| Gastrointestinal disorders | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain | Abdominal distension, flatulence, constipation, gastro-oesophageal reflux, mouth ulceration | Gastrointestinal haemorrhage, melaena, ascites, gastric ulcer, gastritis, eructation, dry mouth, pancreatitis | Colitis, diverticulitis, ileus, intestinal obstruction, gastrointestinal perforation (1) |
 | Hepato-biliary disorders |  | Increased hepatic enzymes | Jaundice, hepatitis, hyperbilirubinaemia | Hepatic failure |
 | Skin and subcutaneous tissue disorders | Periorbital oedema, dermatitis/eczema/ rash | Face oedema, eyelid oedema, pruritus, erythema, dry skin, alopecia, night sweats | Petechiae, contusion, sweating increased, urticaria, onychoclasis, photosensitivity reaction, purpura, hypotrichosis, cheilitis, skin hyperpigmentation, skin hypopigmentation, psoriasis, exfoliative dermatitis and bullous eruptions | Angioedema, vesicular rash, Stevens-Johnson syndrome, acute febrile neutrophilic dermatosis (Sweet’s syndrome) |
-| Musculoskeletal, connective tissue and bone disorders | Muscle spasm and cramps, musculoskeletal pain, including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness |  |
+| Musculoskeletal, connective tissue and bone disorders | Muscle spasm and cramps, musculoskeletal pain, including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness | Aseptic necrosis of bone, mainly in femoral head |
+| Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |  |  | Tumour haemorrhage, tumour necrosis |
 | Renal and urinary disorders |  |  | Renal failure, renal pain, urinary frequency increased, haematuria |  |
 | Reproductive system and breast disorders |  |  | Gynaecomastia, breast enlargement, scrotal oedema, menorrhagia, nipple pain, sexual dysfunction |  |
-| General disorders and administration site conditions | Fluid retention and oedema, fatigue | Pyrexia, weakness, rigors | Malaise, haemorrhage | Anasarca, tumour haemorrhage, tumour necrosis |
+| General disorders and administration site conditions | Fluid retention and oedema, fatigue | Pyrexia, weakness, rigors | Malaise, haemorrhage | Anasarca |
 | Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood creatinine increased, weight decreased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased |  |
 
 [GLIVEC 100 mg film-coated tablets]
@@ -101,4 +105,24 @@ However, some of these reactions may be serious or life-threatening and several 
 
 [GLIVEC 400 mg film-coated tablets]
 
-(all sentences already above)
+|  | Very Common | Common | Uncommon | Rare |
+| --- | --- | --- | --- | --- |
+| Infections and infestations |  |  | Sepsis, pneumonia, herpes simplex, herpes zoster, upper respiratory tract infection, gastroenteritis |  |
+| Blood and lymphatic system disorders | Neutropenia, thrombocytopenia, anaemia | Febrile neutropenia | Pancytopenia, bone marrow depression |  |
+| Metabolism and nutrition disorders |  | Anorexia | Dehydration, hyperuricaemia, hypokalaemia, appetite increased, appetite decreased, gout, hypophosphataemia | Hyperkalaemia, hyponatraemia |
+| Psychiatric disorders |  |  | Depression, anxiety, libido decreased | Confusion |
+| Nervous system disorders | Headache | Dizziness, taste disturbance, paraesthesia, insomnia | Cerebral haemorrhage, syncope, peripheral neuropathy, hypoaesthesia, somnolence, migraine, memory impairment | Cerebral oedema, increased intracranial pressure, convulsions |
+| Eye disorders |  | Conjunctivitis, lacrimation increased, vision blurred | Eye irritation, conjunctival haemorrhage, dry eye, orbital oedema | Macular oedema, papilloedema, retinal haemorrhage, vitreous haemorrhage, glaucoma |
+| Ear and labyrinth disorders |  |  | Vertigo, tinnitus |  |
+| Cardiac disorders |  |  | Cardiac failure, pulmonary oedema, tachycardia | Pericardial effusion, pericarditis, cardiac tamponade |
+| Vascular disorders |  |  | Haematoma, hypertension, hypotension, flushing, peripheral coldness | Thrombosis, embolism |
+| Respiratory, thoracic and mediastinal disorders |  | Epistaxis, dyspnoea | Pleural effusion, cough, pharyngolaryngeal pain | Pulmonary fibrosis, interstitial pneumonitis |
+| Gastrointestinal disorders | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain | Abdominal distension, flatulence, constipation, gastro-oesophageal reflux, mouth ulceration | Gastrointestinal haemorrhage, melaena, ascites, gastric ulcer, gastritis, eructation, dry mouth pancreatitis | Colitis, diverticulitis, ileus, intestinal obstruction, gastrointestinal perforation (1) |
+| Hepato-biliary disorders |  | Increased hepatic enzymes | Jaundice, hepatitis, hyperbilirubinaemia | Hepatic failure |
+| Skin and subcutaneous tissue disorders | Periorbital oedema, dermatitis/eczema/ rash | Face oedema, eyelid oedema, pruritus, erythema, dry skin, alopecia, night sweats | Petechiae, contusion, sweating increased, urticaria, onychoclasis, photosensitivity reaction, purpura, hypotrichosis, cheilitis, skin hyperpigmentation, skin hypopigmentation, psoriasis, exfoliative dermatitis and bullous eruptions | Angioedema, vesicular rash, Stevens-Johnson syndrome, acute febrile neutrophilic dermatosis (Sweet’s syndrome) |
+| Musculoskeletal, connective tissue and bone disorders | Muscle spasm and cramps, musculoskeletal pain, including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness | Aseptic necrosis of bone, mainly in femoral head |
+| Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |  |  | Tumour haemorrhage, tumour necrosis |
+| Renal and urinary disorders |  |  | Renal failure, renal pain, urinary frequency increased, haematuria |  |
+| Reproductive system and breast disorders |  |  | Gynaecomastia, breast enlargement, scrotal oedema, menorrhagia, nipple pain, sexual dysfunction |  |
+| General disorders and administration site conditions | Fluid retention and oedema, fatigue | Pyrexia, weakness, rigors | Malaise, haemorrhage | Anasarca |
+| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood creatinine increased, weight decreased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased |  |

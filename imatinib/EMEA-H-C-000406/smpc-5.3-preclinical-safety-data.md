@@ -39,11 +39,29 @@ Imatinib was teratogenic in rats when administered during organogenesis at doses
 Teratogenic effects included exencephaly or encephalocele, absent/reduced frontal and absent parietal bones.
 These effects were not seen at doses ≤ 30 mg/kg.
 
-The urogenital tract findings from a 2-year carcinogenicity study in rats receiving doses of 15, 30 and 60 mg/kg/day of imatinib showed renal adenomas/carcinomas, urinary bladder papillomas and papillomas/carcinomas of the preputial and clitoral gland.
-Evaluation of other organs in rats is ongoing.
+In the 2-year rat carcinogenicity study administration of imatinib at 15, 30 and 60 mg/kg/day resulted in a statistically significant reduction in the longevity of males at 60 mg/kg/day and females at
+≥30 mg/kg/day.
+Histopathological examination of decedents revealed cardiomyopathy (both sexes), chronic progressive nephropathy (females) and preputial gland papilloma as principal causes of death or reasons for sacrifice.
+Target organs for neoplastic changes were the kidneys, urinary bladder, urethra, preputial and clitoral gland, small intestine, parathyroid glands, adrenal glands and non-glandular stomach.
 
-The papilloma/carcinoma of the preputial/clitoral gland were noted at 30 and 60 mg/kg/day, representing approximately 0.5 to 4 or 0.3 to 2.4 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 0.4 to 3.0 times the daily exposure in children (based on AUC) at 340 mg/m2.
-The renal adenoma/carcinoma and the urinary bladder papilloma were noted at 60 mg/kg/day.
-The no observed effect levels (NOEL) for the various target organs with neoplastic lesions were 15 mg/kg/day for preputial and clitoral gland, and 30 mg/kg/day for kidney and urinary bladder.
+Papilloma/carcinoma of the preputial/clitoral gland were noted from 30 mg/kg/day onwards, representing approximately 0.5 or 0.3 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 0.4 times the daily exposure in children (based on AUC) at 340 mg/m2/day.
+The no observed effect level (NOEL) was 15 mg/kg/day.
+The renal adenoma/carcinoma, the urinary bladder and urethra papilloma, the small intestine adenocarcinomas, the parathyroid glands adenomas, the benign and malignant medullary tumours of the adrenal glands and the non-glandular stomach papillomas/carcinomas were noted at 60 mg/kg/day, representing approximately 1.7 or 1 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 1.2 times the daily exposure in children (based on AUC) at 340 mg/m2/day.
+The no observed effect level (NOEL) was 30 mg/kg/day.
 
 The mechanism and relevance of these findings in the rat carcinogenicity study for humans are not yet clarified.
+
+Non-neoplastic lesions not identified in earlier preclinical studies were the cardiovascular system, pancreas, endocrine organs and teeth.
+The most important changes included cardiac hypertrophy and dilatation, leading to signs of cardiac insufficiency in some animals.
+
+[GLIVEC 100 mg capsules, hard]
+
+Papilloma/carcinoma of the preputial/clitoral gland were noted from 30mg/kg/day onwards, representing approximately 0.5 or 0.3 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 0.4 times the daily exposure in children (based on AUC) at 340 mg/m2/day.
+
+[GLIVEC 100 mg film-coated tablets]
+
+(all sentences already above)
+
+[GLIVEC 400 mg film-coated tablets]
+
+(all sentences already above)
