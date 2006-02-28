@@ -15,6 +15,10 @@ Remicade is indicated for:
 - treatment of severe, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with a corticosteroid and an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
 - treatment of fistulising, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with conventional treatment (including antibiotics, drainage and immunosuppressive therapy).
 
+Ulcerative colitis:
+Remicade is indicated for:
+Treatment of moderately to severely active ulcerative colitis in patients who have had an inadequate response to conventional therapy including corticosteroids and 6-MP or AZA, or who are intolerant to or have medical contraindications for such therapies.
+
 Ankylosing spondylitis:
 Remicade is indicated for:
 Treatment of ankylosing spondylitis, in patients who have severe axial symptoms, elevated serological markers of inflammatory activity and who have responded inadequately to conventional therapy.

@@ -6,7 +6,6 @@ Pharmacodynamic properties: Infliximab is a chimeric human-murine monoclonal ant
 Infliximab inhibits the functional activity of TNFα in a wide variety of in vitro bioassays.
 Infliximab prevented disease in transgenic mice that develop polyarthritis as a result of constitutive expression of human TNFα and when administered after disease onset, it allowed eroded joints to heal.
 In vivo, infliximab rapidly forms stable complexes with human TNFα, a process that parallels the loss of TNFα bioactivity.
-
 Elevated concentrations of TNFα have been found in the joints of rheumatoid arthritis patients and correlate with elevated disease activity.
 In rheumatoid arthritis, treatment with infliximab reduced infiltration of inflammatory cells into inflamed areas of the joint as well as expression of molecules mediating cellular adhesion, chemoattraction and tissue degradation.
 After infliximab treatment, patients exhibited decreased levels of serum interleukin 6 (IL-6) and C-reactive protein (CRP) compared with baseline.
@@ -41,7 +40,6 @@ Results from week 54 (ACR20, total van der Heijde-modified Sharp score and HAQ) 
 Higher degrees of clinical response (ACR50 and ACR70) were observed in all infliximab groups at 30 and 54 weeks compared with methotrexate alone.
 
 A reduction in the rate of the progression of structural joint damage (erosions and joint space narrowing) was observed in all infliximab groups at 54 weeks (Table 3).
-
 The effects observed at 54 weeks were maintained through 102 weeks.
 Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group can not be defined.
 
@@ -124,7 +122,6 @@ Median time to loss of response was 46 weeks in the combined infliximab maintena
 Similar results were obtained in the subgroup analyses of the population defined in the indication
 (see section 4.1).
 Improvements in quality of life measures were seen for both the IBDQ and SF-36 scores in the infliximab maintenance groups compared with the placebo maintenance group at week 30 (p < 0.001).
-
 Induction treatment in fistulising active Crohn’s disease
 The efficacy was assessed in a randomised, double-blinded, placebo-controlled study in 94 patients with fistulising Crohn’s disease who had fistulae that were of at least 3 months’ duration.
 Thirty-one of these patients were treated with infliximab 5 mg/kg.
@@ -150,17 +147,48 @@ Most patients had a loss of response due to increase in medication for Crohn’s
 At week 54, the infliximab group showed greater improvement in CDAI score from baseline compared with placebo (p = 0.04).
 There was no significant difference between placebo and infliximab for the proportion of patients with sustained closure of all fistulas through week 54, for symptoms such as proctalgia, abscesses and urinary tract infection or for number of newly developed fistulas during treatment.
 
+Ulcerative Colitis
+The safety and efficacy of Remicade were assessed in two (ACT 1 and ACT 2) randomized, double-blind, placebo-controlled clinical studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2) with an inadequate response to conventional therapies [oral corticosteroids, aminosalicylates and/or immunomodulators (6-MP, AZA)].
+Concomitant stable doses of oral aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted.
+In both studies, patients were randomized to receive either placebo, 5 mg/kg Remicade, or 10 mg/kg Remicade at weeks 0, 2, 6, 14 and 22, and in ACT 1 at weeks 30, 38 and 46.
+Corticosteroid taper was permitted after week 8.
+Table 5
+Effects on clinical response, clinical remission and mucosal healing at Weeks 8 and 30.
+Combined data from ACT1 & 2.
+
+| Infliximab Placebo 5 mg/kg 10 mg/kg Subjects randomized 244 242 242 Percentage of subjects in clinical response and in sustained clinical response Clinical response at Week 8a 33.2% 66.9% 65.3% Clinical response at Week 30a 27.9% 49.6% 55.4% Sustained response (clinical response at both Week 8 and Week 30)a 19.3% 45.0% 49.6% | Combined 484 66.1% 52.5% 47.3% |
+| --- | --- |
+| Percentage of subjects in clinical remission and sustained remission Clinical remission at Week 8a 10.2% 36.4% 29.8% Clinical remission at Week 30a 13.1% 29.8% 36.4% Sustained remission (in remission at both Week 8 and Week 30)a 5.3% 19.0% 24.4% | 33.1% 33.1% 21.7% |
+
+Percentage of subjects with mucosal healing
+
+Mucosal healing at Week 8a 32.4% 61.2% 60.3% 60.7%
+Mucosal healing at Week 30a 27.5% 48.3% 52.9% 50.6%
+
+a: p < 0.001, for each infliximab treatment group vs. placebo
+
+The efficacy of Remicade through week 54 was assessed in the ACT 1 trial.
+At 54 weeks, 44.9% of patients in the combined infliximab treatment group were in clinical response compared to 19.8% in the placebo treatment group (p<0.001).
+Clinical remission and mucosal healing occurred in a greater proportion of patients in the combined infliximab treatment group compared to the placebo treatment group at week 54 (34.6% vs. 16.5%, p<0.001 and 46.1% vs. 18.2%, p<0.001, respectively).
+The proportions of patients in sustained response and sustained remission at week 54 were greater in the combined infliximab treatment group than in the placebo treatment group (37.9% vs. 14.0%, p<0.001; and 20.2% vs. 6.6%, p<0.001, respectively).
+
+Infliximab improved Quality of Life, confirmed by statistically and clinically significant improvement in both a disease specific measure, IBDQ, and by improvement in the generic 36-item short form survey SF-36.
+
+From baseline through week 30 in the pooled data from ACT 1 and ACT 2, the mean number of hospitalizations was lower in the combined infliximab treatment group than in the placebo treatment group (9 versus 18 hospitalizations per 100 subjects, p = 0.005).
+No notable differences were observed between the 5 mg/kg and 10 mg/kg infliximab treatment groups.
+
+A greater proportion of patients in the combined infliximab treatment group were able to discontinue corticosteroids while remaining in clinical remission compared to the placebo treatment group at both week 30 (22.3% vs. 7.2%, p ≤ 0.001) and week 54 (21.0% vs. 8.9%, p=0.022).
+
 Ankylosing spondylitis
 Efficacy and safety were studied in a double-blind, placebo-controlled investigator initiated, multicentre study evaluating infliximab in 70 patients with active ankylosing spondylitis (disease activity [Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) score > 4] and pain [NRS score >4]).
 During the 3 month double-blind phase, patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6 (35 patients in each group).
 Starting at week 12, placebo patients were switched to infliximab and all patients subsequently received 5 mg/kg infliximab every 6 weeks up to week 54.
-
 Treatment with infliximab resulted in improvement in signs and symptoms, as assessed by the BASDAI, with 57% of infliximab treated patients achieving at least 50% reduction from baseline in BASDAI score (mean baseline score was 6.5 in the infliximab group and 6.3 in the placebo group), compared with 9% of placebo patients (p<0.01).
 Improvement was observed at week 2 and was maintained through week 54.
 Physical function and quality of life (SF36) were improved similarly.
 In the trial, efficacy was not shown in HLA-B27 negative patients (n=7).
-Psoriatic Arthritis
 
+Psoriatic Arthritis
 Efficacy and safety were studied in a double-blind, placebo-controlled, multicenter study evaluating infliximab in 104 patients with active polyarticular psoriatic arthritis.
 In total 74 subjects were on at least one concomitant DMARD, and among those 58 patients were treated with methotrexate.
 During the 16-week double-blind phase, patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6, and 14 (52 patients in each group).
@@ -189,10 +217,10 @@ EXPRESS evaluated the efficacy of infliximab induction and maintenance therapy i
 Patients received 5 mg/kg infliximab or placebo infusions at weeks 0, 2 and 6 followed by maintenance therapy every 8 weeks through week 22 in the placebo group and through week 46 in the infliximab group.
 At week 24, the placebo group crossed over to infliximab induction therapy (5 mg/kg) followed by infliximab maintenance therapy (5 mg/kg).
 Prior therapy with PUVA, methotrexate, cyclosporin, or acitretin had been received by 71.4% of patients, although they were not necessarily therapy resistant.
-Key results are presented in Table 5.
+Key results are presented in Table 6.
 In infliximab treated subjects, significant PASI 50 responses were apparent at the first visit (week 2) and PASI 75 responses by the second visit (week 6).
 Efficacy was similar in the subgroup of patients that were exposed to previous systemic therapies compared to the overall study population.
-Table 5
+Table 6
 Summary of PASI response and PGA score at Weeks 10, 24 and 50.
 EXPRESS.
 Placebo →

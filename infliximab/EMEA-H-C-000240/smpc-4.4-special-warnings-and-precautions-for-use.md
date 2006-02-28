@@ -2,6 +2,7 @@
 
 Infusion reactions and hypersensitivity
 Infliximab has been associated with acute infusion-related reactions, including, anaphylactic shock, and delayed hypersensitivity reactions (see section 4.8: “Undesirable effects”).
+
 Acute infusion reactions including anaphylactic reactions may develop during (within seconds) or within a few hours following infusion.
 If acute infusion reactions occur, the infusion must be interrupted immediately.
 Emergency equipment, such as adrenaline, antihistamines, corticosteroids and an artificial airway must be available.
@@ -47,6 +48,7 @@ In this situation, the benefit/ risk balance of Remicade therapy should be very 
 Patients with fistulising Crohn’s disease with acute suppurative fistulas must not initiate Remicade therapy until a source for possible infection, specifically abscess, has been excluded (see section 4.3).
 
 All patients should be informed to seek medical advice if signs/symptoms suggestive of tuberculosis (e.g. persistent cough, wasting/weight loss, low-grade fever) appear during or after Remicade treatment.
+
 Reactivation of hepatitis B occurred in patients receiving Remicade who are chronic carriers of this virus (i.e. surface antigen positive).
 Chronic carriers of hepatitis B should be appropriately evaluated and monitored prior to the initiation of and during treatment with Remicade.
 
@@ -68,7 +70,6 @@ It is recommended that live vaccines not be given concurrently.
 Autoimmune processes
 The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Remicade and is positive for antibodies against double-stranded DNA, further treatment with Remicade must not be given (see section 4.8: “Anti-nuclear antibodies (ANA)/Double-stranded DNA (dsDNA) antibodies”).
-
 Neurological events
 Infliximab and other agents that inhibit TNFα have been associated in rare cases with optic neuritis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disorders, including multiple sclerosis.
 In patients with pre-existing or recent onset of central nervous system demyelinating disorders, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
@@ -83,6 +84,13 @@ No studies have been conducted that include patients with a history of malignanc
 Thus additional caution should be exercised in considering Remicade treatment of these patients as well as in patients with increased risk for malignancy due to heavy smoking.
 With the current knowledge, a risk for the development of lymphomas or other malignancies in patients treated with a TNF-blocking agent cannot be excluded (see Section 4.8).
 Caution should also be exercised in patients with psoriasis and a medical history of extensive immunosuppressant therapy or prolonged PUVA treatment.
+
+All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
+This evaluation should include colonoscopy and biopsies per local recommendations.
+With current data it is not known if infliximab treatment influences the risk for developing dysplasia or colon cancer (see section 4.8).
+
+Since the possibility of increased risk of cancer development in patients with newly diagnosed dysplasia treated with Remicade is not established, the risk and benefits to the individual patients must be carefully reviewed and consideration should be given to discontinuation of therapy.
+
 Heart failure
 Remicade should be used with caution in patients with mild heart failure (NYHA class I/II).
 Patients should be closely monitored and Remicade must not be continued in patients who develop new or worsening symptoms of heart failure (see sections 4.3 and 4.8).
@@ -99,7 +107,6 @@ There are insufficient preclinical data to draw conclusions on the effects of in
 There is limited safety experience of surgical procedures in Remicade treated patients.
 The long half-life of infliximab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Remicade should be closely monitored for infections, and appropriate actions should be taken.
-
 There is limited safety experience of Remicade treatment in patients who have undergone arthroplasty.
 
 Treatment of patients with intestinal strictures due to Crohn’s disease is not recommended since the risk/benefit relationship in this patient population has not been established.

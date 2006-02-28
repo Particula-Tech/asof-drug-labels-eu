@@ -4,6 +4,7 @@
 Calculate the dose and the number of Remicade vials needed.
 Each Remicade vial contains 100 mg infliximab.
 Calculate the total volume of reconstituted Remicade solution required.
+
 2.
 Under aseptic conditions, reconstitute each Remicade vial with 10 ml of water for injections, using a syringe equipped with a 21-gauge (0.8 mm) or smaller needle.
 Remove flip-top from the vial and wipe the top with a 70% alcohol swab.

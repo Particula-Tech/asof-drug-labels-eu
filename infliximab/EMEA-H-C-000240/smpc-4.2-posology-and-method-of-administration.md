@@ -28,13 +28,19 @@ In responding patients, the alternative strategies for continued treatment are:
 Fistulising, active Crohn’s disease
 An initial 5 mg/kg infusion given over a 2-hour period is to be followed with additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion.
 If a patient does not respond after these 3 doses, no additional treatment with infliximab should be given.
-
 In responding patients, the strategies for continued treatment are:
 
 - Additional infusions of 5 mg/kg every 8 weeks or
 - Readministration if signs and symptoms of the disease recur followed by infusions of 5 mg/kg every 8 weeks (see ‘Readministration’ below and section 4.4).
 
 In Crohn’s disease, experience with readministration if signs and symptoms of disease recur is limited and comparative data on the benefit / risk of the alternative strategies for continued treatment are lacking.
+
+Ulcerative colitis
+5 mg/kg given as an intravenous infusion over a 2 hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
+
+Available data suggest that the clinical response is usually achieved within 14 weeks of treatment, i.e. three doses.
+Continued therapy should be carefully reconsidered in patients who show no evidence of therapeutic benefit within this time period.
+
 Ankylosing spondylitis
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 6 to 8 weeks.
 If a patient does not respond by 6 weeks (i.e. after 2 doses), no additional treatment with infliximab should be given.
@@ -52,6 +58,9 @@ If the signs and symptoms of disease recur, Remicade can be readministered withi
 In clinical studies, delayed hypersensitivity reactions have been uncommon and have occurred after drug free intervals of less than 1 year (see section 4.4 and 4.8: delayed hypersensitivity).
 The safety and efficacy of readministration after a drug free interval of more than 16 weeks has not been established.
 This applies to both Crohn’s disease patients and rheumatoid arthritis patients.
+
+Readministration for ulcerative colitis
+The safety and efficacy of readministration, other than every 8 weeks, has not been established.
 
 Readministration for ankylosing spondylitis
 The safety and efficacy of readministration, other than every 6 to 8 weeks, has not been established.
