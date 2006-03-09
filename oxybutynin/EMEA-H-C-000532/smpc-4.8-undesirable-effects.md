@@ -37,10 +37,10 @@ Reported Adverse Drug Reactions and rate of occurrence:
 | Abdominal Discomfort | 0.5% |  | uncommon |
 | Musculoskeletal disorders |  |  |  |
 | Back Pain | 0.8 % |  | uncommon |
-| Renal and urinary disorders |  |  |  |
 
-| Urinary retention | 0.3 % | uncommon |
+| Renal and urinary disorders |  |  |
 | --- | --- | --- |
+| Urinary retention | 0.3 % | uncommon |
 | Dysuria | 0.9 % | uncommon |
 | General disorders |  |  |
 | Headache | 3.0 % | common |
