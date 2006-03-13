@@ -11,7 +11,7 @@ Children and adolescents (aged 2 to 18 years): the recommended dose of mycopheno
 CellCept capsules should only be prescribed to patients with a body surface area of at least 1.25 m2.
 Patients with a body surface area of 1.25 to 1.5 m2 may be prescribed CellCept capsules at a dose of 750 mg twice daily (1.5 g daily dose).
 Patients with a body surface area greater than 1.5 m2 may be prescribed CellCept capsules at a dose of 1 g twice daily (2 g daily dose).
-As some adverse reactions occur with greater frequency in this age group (see section 4.8 Undesirable effects) compared with adults, temporary dose reduction or interruption may be required; these will need to take into account relevant clinical factors including severity of reaction.
+As some adverse reactions occur with greater frequency in this age group (see section 4.8) compared with adults, temporary dose reduction or interruption may be required; these will need to take into account relevant clinical factors including severity of reaction.
 
 Children (< 2 years): there are limited safety and efficacy data in children below the age of 2 years.
 These are insufficient to make dosage recommendations and therefore use in this age group is not recommended.
@@ -33,7 +33,7 @@ Use in elderly (≥ 65 years): the recommended dose of 1.0 g administered twice 
 
 Use in renal impairment: in renal transplant patients with severe chronic renal impairment (glomerular filtration rate < 25 ml•min-1•1.73 m-2), outside the immediate post-transplant period, doses greater than 1 g administered twice a day should be avoided.
 These patients should also be carefully observed.
-No dose adjustments are needed in patients experiencing delayed renal graft function post-operatively (see section 5.2 Pharmacokinetic properties).
+No dose adjustments are needed in patients experiencing delayed renal graft function post-operatively (see section 5.2).
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
 
 Use in severe hepatic impairment: no dose adjustments are needed for renal transplant patients with severe hepatic parenchymal disease.
@@ -44,7 +44,7 @@ Renal transplant rejection does not lead to changes in MPA pharmacokinetics; dos
 There is no basis for CellCept dose adjustment following cardiac transplant rejection.
 No pharmacokinetic data are available during hepatic transplant rejection.
 
-[CellCept 500 mg powder for concentrate for solution for infusion.]
+[CellCept 500 mg powder for concentrate for solution for infusion]
 
 CAUTION: CELLCEPT I.V.
 SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
@@ -52,7 +52,7 @@ SOLUTION SHOULD NEVER BE ADMINISTERED BY RAPID OR BOLUS INTRAVENOUS INJECTION.
 CellCept 500 mg powder for concentrate for solution for infusion is an alternative dosage form to CellCept oral forms (capsules, tablets and powder for oral suspension) that may be administered for up to 14 days.
 The initial dose of CellCept 500 mg powder for concentrate for solution for infusion should be given within 24 hours following transplantation.
 
-Following reconstitution to a concentration of 6 mg/ml, CellCept 500 mg powder for concentrate for solution for infusion must be administered by slow intravenous infusion over a period of 2 hours by either a peripheral or a central vein (see section 6.6 Instructions for use and handling, and disposal).
+Following reconstitution to a concentration of 6 mg/ml, CellCept 500 mg powder for concentrate for solution for infusion must be administered by slow intravenous infusion over a period of 2 hours by either a peripheral or a central vein (see section 6.6).
 
 Use in renal transplant: the recommended dose in renal transplant patients is 1.0 g administered twice daily (2 g daily dose).
 
@@ -69,7 +69,7 @@ Use in elderly (≥ 65 years): the recommended dose of 1.0 g administered twice 
 
 No data are available for hepatic transplant patients with severe chronic renal impairment.
 
-[CellCept 1 g/5 ml powder for oral suspension.]
+[CellCept 1 g/5 ml powder for oral suspension]
 
 Adults: oral CellCept 1 g/5 ml powder for oral suspension should be initiated within 72 hours following transplantation.
 The recommended dose in renal transplant patients is 1.0 g administered twice daily (2 g daily dose), i.e. 5 ml oral suspension twice daily.
@@ -77,11 +77,11 @@ The recommended dose in renal transplant patients is 1.0 g administered twice da
 Children and adolescents (aged 2 to 18 years): the recommended dose of CellCept 1 g/5 mL powder for oral suspension is 600 mg/m2 administered twice daily (up to a maximum of 2 g/10 mL oral suspension daily).
 
 No dose adjustments are needed in patients experiencing delayed renal graft function post-operatively.
-(see section 5.2 Pharmacokinetic properties).
+(see section 5.2).
 
 Note
 If required, CellCept 1 g/5 ml powder for oral suspension can be administered via a nasogastric tube with a minimum size of 8 French (minimum 1.7 mm interior diameter).
 
-[CellCept 500 mg tablets.]
+[CellCept 500 mg tablets]
 
 CellCept tablets should only be prescribed to patients with a body surface area greater than 1.5 m2, at a dose of 1 g twice daily (2 g daily dose).
