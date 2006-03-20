@@ -24,9 +24,9 @@
 
 [ZYPREXA 10 mg powder for solution for injection.]
 
-Vial: 2 years.
+Vial: 3 years.
 Solution (after reconstitution): 1 hour.
 
 [ZYPREXA 10 mg powder and solvent for solution for injection.]
 
-Vial and prefilled syringe with needle: 2 years.
+Vial and prefilled syringe with needle: 3 years.

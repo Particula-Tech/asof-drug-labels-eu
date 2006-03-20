@@ -61,7 +61,8 @@ As it exhibits in vitro dopamine antagonism, olanzapine may antagonize the effec
 Postural hypotension was infrequently observed in the elderly in olanzapine clinical trials.
 As with other antipsychotics, it is recommended that blood pressure is measured periodically in patients over 65 years.
 
-In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥500 milliseconds [msec] at any time post baseline in patients with baseline QTcF<500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
+In clinical trials, olanzapine was not associated with a persistent increase in absolute QT intervals.
+Only 8 of 1,685 subjects had increased QTc interval on multiple occasions.
 However, as with other antipsychotics, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
 
 Temporal association of olanzapine treatment and venous thromboembolism has very rarely (<0.01%) been reported. .
@@ -122,8 +123,9 @@ As it exhibits in vitro dopamine antagonism, olanzapine may antagonise the effec
 
 Postural hypotension was infrequently observed in the elderly in oral olanzapine clinical trials.
 
-In clinical trials with oral administration, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥500 milliseconds [msec] at any time post baseline in patients with baseline QTcF<500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
 In clinical trials with Zyprexa Powder for Solution for Injection, olanzapine was not associated with a persistent increase in absolute QT or in QTc intervals.
+In clinical trials with oral administration, olanzapine was not associated with a persistent increase in absolute QT intervals.
+Only 8 of 1685 subjects had increased QTc interval on multiple occasions.
 
 [ZYPREXA 10 mg powder and solvent for solution for injection.]
 

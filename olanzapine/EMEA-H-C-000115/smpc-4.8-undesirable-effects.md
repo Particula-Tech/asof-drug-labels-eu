@@ -12,8 +12,8 @@ Olanzapine administered with lithium or valproate resulted in increased levels (
 Speech disorder was also reported commonly (1% to 10%).
 During treatment with olanzapine in combination with lithium or divalproex, an increase of >7% from baseline body weight occurred in 17.4% of patients during acute treatment (up to 6 weeks).
 Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥7% from baseline body weight in 39.9% of patients.
-The following table of undesirable effects is based on adverse event reporting and laboratory investigations from clinical trials.
 
+The following table of undesirable effects is based on adverse event reporting and laboratory investigations from clinical trials.
 Blood and lymphatic system disorders
 Common (1-10%): Eosinophilia.
 Metabolism and nutrition disorders
@@ -40,7 +40,7 @@ Common (1-10%): Asthenia, oedema.
 Investigations
 Very common (>10%): Elevated plasma prolactin levels, but associated clinical manifestations (e.g., gynaecomastia, galactorrhoea, and breast enlargement) were rare.
 In most patients, levels returned to normal ranges without cessation of treatment.
-Uncommon (0.1-1%): High creatine phosphokinase, QT prolongation (see also section 4.4 Special precautions and warnings for use)
+Uncommon (0.1-1%): High creatine phosphokinase.
 
 1In clinical trials with olanzapine in over 5000 patients with baseline non-fasting glucose levels ≤ 7.8 mmol/l, the incidence of non-fasting plasma glucose levels ≥ 11 mmol/l (suggestive of diabetes) was 1.0%, compared to 0.9% with placebo.
 The incidence of non-fasting plasma glucose levels ≥ 8.9 mmol/l but < 11 mmol/l (suggestive of hyperglycaemia) was 2.0%, compared to 1.6% with placebo.
@@ -51,6 +51,7 @@ Olanzapine-treated patients had a lower incidence of parkinsonism, akathisia and
 In the absence of detailed information on the pre-existing history of individual acute and tardive extrapyramidal movement disorders, it can not be concluded at present that olanzapine produces less tardive dyskinesia and/or other tardive extrapyramidal syndromes.
 
 The following table of undesirable effects is based on post-marketing spontaneous reports.
+
 Blood and lymphatic system disorders
 Rare (0.01-0.1%): Leukopenia.
 Very rare (<0.01%):Thrombocytopenia.
@@ -59,7 +60,7 @@ Immune System Disorders
 Very rare (<0.01%): Allergic reaction (e.g. anaphylactoid reaction, angioedema, pruritis or urticaria.)
 Metabolism and nutrition disorders
 Very rare (<0.01%): Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been spontaneously reported very rarely, including some fatal cases (see also Note 1 above and section 4.4).
-Hypertriglyceridaemia, hypercholesterolaemia and hypothermia.
+Hypertriglyceridaemia, hypothermia.
 Nervous system disorders
 Rare (0.01-0.1%): Seizures have been reported to occur rarely in patients treated with olanzapine.
 In most of these cases, a history of seizures or risk factors for seizures were reported.
@@ -68,8 +69,7 @@ Very rare (<0.01%): Cases reported as Neuroleptic Malignant Syndrome (NMS) have 
 Parkinsonism, dystonia and tardive dyskinesia have been reported very rarely with olanzapine.
 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely when olanzapine is stopped abruptly.
 Vascular disorders
-Very rare(<0.01%): Thromboembolism (including pulmonary embolism and deep vein thrombosis).
-QTc prolongation, ventricular tachycardia/fibrillation and sudden death (see section 4.4 Special precautions and warnings for use).
+Very rare(<0.01%): Thromboembolism (including pulmonary embolism and deep vein thrombosis)
 Gastrointestinal disorders
 Very rare (<0.01%): Pancreatitis.
 Hepato-biliary disorders
@@ -87,15 +87,10 @@ Very rare (<0.01%): Priapism.
 
 Very common (>10%): Elevated plasma prolactin levels, but associated clinical manifestations
 (e.g., gynaecomastia, galactorrhoea, and breast enlargement) were rare.
-Uncommon (0.1-1%): High creatine phosphokinase, QT prolongation (see also section 4.4
-Special precautions and warnings for use)
-
-QTc prolongation, ventricular tachycardia/fibrillation and sudden death.
-(see section 4.4 Special precautions and warnings for use)
 
 [ZYPREXA 7.5 mg coated tablets.]
 
-( see section 4.4 Special precautions and warnings for use)
+(all sentences already above)
 
 [ZYPREXA 10 mg coated tablets.]
 
@@ -107,7 +102,7 @@ Very common (>10%) undesirable effects associated with the use of olanzapine in 
 
 [ZYPREXA 20 mg coated tablets.]
 
-(see also section 4.4 Special precautions and warnigns for use)
+(all sentences already above)
 
 [ZYPREXA 10 mg powder for solution for injection.]
 

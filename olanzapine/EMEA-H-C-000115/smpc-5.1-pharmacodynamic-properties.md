@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmaco-therapeutic group: antipsychotic, ATC code N05A H03.
-
 Olanzapine is an antipsychotic, antimanic and mood stabilising agent that demonstrates a broad pharmacologic profile across a number of receptor systems.
 
 In preclinical studies, olanzapine exhibited a range of receptor affinities (Ki; < 100 nM) for serotonin 5 HT2A/2C, 5 HT3, 5 HT6; dopamine D1, D2, D3, D4, D5; cholinergic muscarinic receptors m1-m5; α1 adrenergic; and histamine H1 receptors.
@@ -22,6 +21,7 @@ In a co-therapy study of patients treated with lithium or valproate for a minimu
 
 In a 12-month recurrence prevention study in manic episode patients who achieved remission on olanzapine and were then randomised to olanzapine or placebo, olanzapine demonstrated statistically significant superiority over placebo on the primary endpoint of bipolar recurrence.
 Olanzapine also showed a statistically significant advantage over placebo in terms of preventing either recurrence into mania or recurrence into depression.
+
 In a second 12-month recurrence prevention study in manic episode patients who achieved remission with a combination of olanzapine and lithium and were then randomised to olanzapine or lithium alone, olanzapine was statistically non-inferior to lithium on the primary endpoint of bipolar recurrence (olanzapine 30.0%, lithium 38.3%; p = 0.055).
 
 In an 18-month co-therapy study in manic or mixed episode patients stabilised with olanzapine plus a mood stabiliser (lithium or valproate), long-term olanzapine co-therapy with lithium or valproate was not statistically significantly superior to lithium or valproate alone in delaying bipolar recurrence, defined according to syndromic (diagnostic) criteria.

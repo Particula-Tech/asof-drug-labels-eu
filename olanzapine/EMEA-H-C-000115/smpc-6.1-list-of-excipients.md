@@ -6,6 +6,7 @@ Hydroxypropylcellulose
 Crospovidone
 Microcrystalline cellulose
 Magnesium stearate
+
 Tablet coat
 Hypromellose
 Color mixture white (hypromellose, titanium dioxide E171, macrogol, polysorbate 80)
