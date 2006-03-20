@@ -16,7 +16,6 @@ In mice, no increased incidence of tumours was found at exposures similar to the
 The non-genotoxic mechanism of pregabalin-induced tumour formation in mice involves platelet changes and associated endothelial cell proliferation.
 These platelet changes were not present in rats or in humans based on short term and limited long term clinical data.
 There is no evidence to suggest an associated risk to humans.
-
 In juvenile rats the types of toxicity do not differ qualitatively from those observed in adult rats.
 However, juvenile rats are more sensitive.
 At therapeutic exposures, there was evidence of CNS clinical signs of hyperactivity and bruxism and some changes in growth (transient body weight gain suppression).

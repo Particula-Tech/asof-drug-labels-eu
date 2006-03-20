@@ -1,7 +1,8 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each hard capsule contains 25 mg of pregabalin.
-For excipients, see section 6.1.
+Lyrica capsules also contain lactose.
+For a full list of excipients, see section 6.1.
 
 [LYRICA 50 mg hard capsules.]
 

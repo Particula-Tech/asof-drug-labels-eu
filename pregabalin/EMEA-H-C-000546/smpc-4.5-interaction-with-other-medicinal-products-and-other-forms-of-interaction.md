@@ -12,3 +12,4 @@ Pregabalin appears to be additive in the impairment of cognitive and gross motor
 Pregabalin may potentiate the effects of ethanol and lorazepam.
 
 No specific pharmacodynamic interaction studies were conducted in elderly volunteers.
+Interaction studies have only been performed in adults.

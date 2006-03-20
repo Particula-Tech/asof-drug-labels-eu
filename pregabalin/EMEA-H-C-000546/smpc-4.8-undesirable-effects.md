@@ -7,6 +7,7 @@ In all controlled studies, the discontinuation rate due to adverse reactions was
 The most common adverse reactions resulting in discontinuation from pregabalin treatment groups were dizziness and somnolence.
 
 In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (> 1/10), common (> 1/100, < 1/10), uncommon (>1/1000, <1/100) and rare (<1/1000)).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 The adverse reactions listed may also be associated with the underlying disease and / or concomitant medications.
 
@@ -24,36 +25,36 @@ Rare Hypoglycaemia
 
 Psychiatric disorders
 
-Common Euphoric mood, confusion, libido decreased, irritability
-Uncommon Depersonalisation, anorgasmia, restlessness, depression, agitation,
+Common Euphoric mood, confusion, irritability, libido decreased
+Uncommon Hallucination, panic attack, restlessness, agitation, depression,
 
-mood swings, insomnia exacerbated, depressed mood, word finding difficulty, hallucination, abnormal dreams, libido increased, panic attack, apathy
+depressed mood, mood swings, depersonalisation, insomnia exacerbated, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy
 
 Rare Disinhibition, elevated mood
 
 Nervous system disorders
 
 Very Common Dizziness, somnolence
-Common Ataxia, disturbance in attention, coordination abnormal, memory
+Common Ataxia, coordination abnormal, tremor, dysarthria, memory
 
-impairment, tremor, dysarthria, paraesthesia
+impairment, disturbance in attention, paraesthesia
 
-Uncommon Cognitive disorder, hypoaesthesia, visual field defect, nystagmus,
+Uncommon Syncope, stupor, myoclonus, psychomotor hyperactivity, visual
 
-speech disorder, myoclonus, hyporeflexia, dyskinesia, psychomotor hyperactivity, dizziness postural, hyperaesthesia, ageusia, burning sensation, intention tremor, stupor, syncope
+field defect, ageusia, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, speech disorder, hyporeflexia, hypoaesthesia, amnesia, hyperaesthesia, burning sensation
 
 Rare Hypokinesia, parosmia, dysgraphia
 
 Eye disorders
 
 Common Vision blurred, diplopia
-Uncommon Visual disturbance, dry eye, eye swelling, visual acuity reduced, eye
+Uncommon Visual disturbance, eye swelling, visual acuity reduced, eye pain,
 
-pain, asthenopia, lacrimation increased
+asthenopia, dry eye, lacrimation increased
 
-Rare Photopsia, eye irritation, mydriasis, oscillopsia, altered visual depth
+Rare Peripheral vision loss, oscillopsia, altered visual depth perception,
 
-perception, peripheral vision loss, strabismus, visual brightness
+photopsia, eye irritation, mydriasis, strabismus, visual brightness
 Ear and labyrinth disorders
 
 Common Vertigo
@@ -64,31 +65,31 @@ Cardiac disorders
 Uncommon Tachycardia
 Rare Atrioventricular block first degree, sinus tachycardia, sinus
 
-arrhythmia, sinus bradycardia
+bradycardia, sinus arrhythmia,
 Vascular disorders
 
 Uncommon Flushing, hot flushes
-Rare Hypotension, peripheral coldness, hypertension
+Rare Hypotension, hypertension, peripheral coldness,
 
 Respiratory, thoracic and mediastinal disorders
 
 Uncommon Dyspnoea, nasal dryness
-Rare Nasopharyngitis, cough, nasal congestion, epistaxis, rhinitis,
+Rare Epistaxis, throat tightness, nasopharyngitis, cough, nasal
 
-snoring, throat tightness
+congestion, rhinitis, snoring
 Gastrointestinal disorders
 
-Common Dry mouth, constipation, vomiting, flatulence
-Uncommon Abdominal distension, salivary hypersecretion, gastrooesophageal
+Common Vomiting, dry mouth, constipation, flatulence
+Uncommon Abdominal distension, gastrooesophageal reflux disease, salivary
 
-reflux disease, hypoaesthesia oral
+hypersecretion, hypoaesthesia oral
 
-Rare Ascites, dysphagia, pancreatitis
+Rare Ascites, pancreatitis, dysphagia
 
 Skin and subcutaneous tissue disorders
 
-Uncommon Sweating, rash papular
-Rare Cold sweat, urticaria
+Uncommon Rash papular, sweating
+Rare Urticaria, cold sweat
 
 Musculoskeletal and connective tissue disorders
 
@@ -96,34 +97,64 @@ Uncommon Muscle twitching, joint swelling, muscle cramp, myalgia, arthralgia,
 
 back pain, pain in limb, muscle stiffness
 
-Rare Cervical spasm, neck pain, rhabdomyolysis
+Rare Rhabdomyolysis, cervical spasm, neck pain
 
 Renal and urinary disorders
 
-Uncommon Dysuria, urinary incontinence
-Rare Oliguria, renal failure
+Uncommon Urinary incontinence, dysuria
+Rare Renal failure, oliguria
 
 Reproductive system and breast disorders
 
 Common Erectile dysfunction
 Uncommon Ejaculation delayed, sexual dysfunction
-Rare Amenorrhoea, breast pain, breast discharge, dysmenorrhoea,
+Rare Amenorrhoea, breast discharge, breast pain, dysmenorrhoea,
 
 hypertrophy breast
 General disorders and administration site conditions
 
-Common Fatigue, oedema peripheral, feeling drunk, oedema, gait abnormal
-Uncommon Asthenia, fall, thirst, chest tightness
-Rare Pain exacerbated anasarca, pyrexia, rigors, face oedema, swollen
+Common Gait abnormal, feeling drunk, fatigue, oedema peripheral, oedema,
+Uncommon Fall, chest tightness, asthenia, thirst
+Rare Anasarca, face oedema, swollen tongue, pyrexia, rigors, pain
 
-tongue
+exacerbated,
 Investigations
 
 Common Weight increased
-Uncommon Alanine aminotransferase increased, blood creatine phosphokinase
+Uncommon Blood creatine phosphokinase increased, alanine aminotransferase
 
 increased, aspartate aminotransferase increased, platelet count decreased
 
-Rare Blood glucose increased, blood creatinine increased, blood
+Rare Blood glucose increased, blood potassium decreased, white blood
 
-potassium decreased, weight decreased, white blood cell count decreased
+cell count decreased, blood creatinine increased, weight decreased
+
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+The following events have been mentioned: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating and dizziness.
+The patient should be informed about this at the start of the treatment.
+
+Concerning discontinuation of long-term treatment of pregabalin there are no data of the incidence and severity of withdrawal symptoms in relation to duration of use and dosage of pregabalin.
+
+[LYRICA 50 mg hard capsules.]
+
+(all sentences already above)
+
+[LYRICA 75 mg hard capsules]
+
+The following events have been mentioned: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating, and dizziness.
+
+[LYRICA 100 mg hard capsules.]
+
+(all sentences already above)
+
+[LYRICA 150 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 200 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 300 mg hard capsules]
+
+The following events have been: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating and dizziness.

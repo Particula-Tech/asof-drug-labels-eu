@@ -8,7 +8,7 @@ Talc
 Capsule shell:
 Gelatin
 Titanium Dioxide (E171)
-Sodium Laurilsulfate
+Sodium Laurilsulphate
 Silica, colloidal anhydrous
 Purified water
 
