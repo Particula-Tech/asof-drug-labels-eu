@@ -13,7 +13,6 @@ Renal toxicity was observed in monkeys treated for 2 weeks, with focal mineralis
 Increased blood urea nitrogen (BUN) and creatinine were observed in several of these animals.
 In rats, hyperplasia of the transitional epithelium in the renal papilla and in the urinary bladder was observed at doses ≥ 6 mg/kg in the 13-week study, without changes in serum or urinary parameters.
 An increased rate of opportunistic infections was observed with chronic imatinib treatment.
-
 In a 39-week monkey study, no NOAEL (no observed adverse effect level) was established at the lowest dose of 15 mg/kg, approximately one-third the maximum human dose of 800 mg based on body surface.
 Treatment resulted in worsening of normally suppressed malarial infections in these animals.
 
@@ -48,7 +47,6 @@ Papilloma/carcinoma of the preputial/clitoral gland were noted from 30 mg/kg/day
 The no observed effect level (NOEL) was 15 mg/kg/day.
 The renal adenoma/carcinoma, the urinary bladder and urethra papilloma, the small intestine adenocarcinomas, the parathyroid glands adenomas, the benign and malignant medullary tumours of the adrenal glands and the non-glandular stomach papillomas/carcinomas were noted at 60 mg/kg/day, representing approximately 1.7 or 1 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 1.2 times the daily exposure in children (based on AUC) at 340 mg/m2/day.
 The no observed effect level (NOEL) was 30 mg/kg/day.
-
 The mechanism and relevance of these findings in the rat carcinogenicity study for humans are not yet clarified.
 
 Non-neoplastic lesions not identified in earlier preclinical studies were the cardiovascular system, pancreas, endocrine organs and teeth.

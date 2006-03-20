@@ -83,7 +83,6 @@ Chronic phase, Interferon failure: 532 patients were treated at a starting dose 
 The patients were distributed in three main categories: haematological failure (29%), cytogenetic failure (35%), or intolerance to interferon (36%).
 Patients had received a median of 14 months of prior IFN therapy at doses ≥ 25 x 106 IU/week and were all in late chronic phase, with a median time from diagnosis of 32 months.
 The primary efficacy variable of the study was the rate of major cytogenetic response (complete plus partial response, 0 to 35% Ph+ metaphases in the bone marrow).
-
 In this study 65% of the patients achieved a major cytogenetic response that was complete in 53% (confirmed 43%) of patients (Table 2).
 A complete haematological response was achieved in 95% of patients.
 
@@ -116,7 +115,15 @@ Table 2 Response in CML studies
 |  | Not applicable | 12% | 5% |
 |  | Not applicable | 17% | 18% |
 | Major cytogenetic response2 Complete (Confirmed3) [95% CI] Partial | 65% (61.2–69.5) 53% (43%) [38.6–47.2] 12% | 28% (22.0–33.9) 20% (16%) [11.3–21.0] 7% | 15% (11.2–20.4) 7% (2%) [0.6–4.4] 8% |
-| 1 Haematological response criteria (all responses to be confirmed after ≥ 4 weeks): CHR: Study 0110 [WBC < 10 x 109/l, platelets < 450 x 109/l, myelocyte+metamyelocyte < 5% in blood, no blasts and promyelocytes in blood, basophils < 20%, no extramedullary involvement] and in studies 0102 and 0109 [ANC ≥ 1.5 x 109/l, platelets ≥ 100 x 109/l, no blood blasts, BM blasts < 5% and no extramedullary disease] NEL Same criteria as for CHR but ANC ≥ 1 x 109/l and platelets ≥ 20 x 109/l (0102 and 0109 only) RTC < 15% blasts BM and PB, < 30% blasts+promyelocytes in BM and PB, < 20% basophils in PB, no extramedullary disease other than spleen and liver (only for 0102 and 0109). BM = bone marrow, PB = peripheral blood 2 Cytogenetic response criteria: A major response combines both complete and partial responses: complete (0% Ph+ metaphases), partial (1–35%) 3 Complete cytogenetic response confirmed by a second bone marrow cytogenetic evaluation performed at least one month after the initial bone marrow study. |  |  |  |
+| 1 Haematological response criteria (all responses to be confirmed after ≥ 4 weeks): CHR: Study 0110 [WBC < 10 x 109/l, platelets < 450 x 109/l, myelocyte+metamyelocyte < 5% in blood, no blasts and promyelocytes in blood, basophils < 20%, no extramedullary involvement] and in studies 0102 and 0109 [ANC ≥ 1.5 x 109/l, platelets ≥ 100 x 109/l, no blood blasts, BM blasts < 5% and no extramedullary disease] |  |  |  |
+
+NEL Same criteria as for CHR but ANC ≥ 1 x 109/l and platelets ≥ 20 x 109/l (0102 and 0109 only)
+RTC < 15% blasts BM and PB, < 30% blasts+promyelocytes in BM and PB, < 20% basophils in
+PB, no extramedullary disease other than spleen and liver (only for 0102 and 0109).
+BM = bone marrow, PB = peripheral blood
+2 Cytogenetic response criteria:
+A major response combines both complete and partial responses: complete (0% Ph+ metaphases), partial (1–35%)
+3 Complete cytogenetic response confirmed by a second bone marrow cytogenetic evaluation performed at least one month after the initial bone marrow study.
 
 Paediatric patients: A total of 26 paediatric patients of age < 18 years with either chronic phase CML (n=11) or CML in blast crisis or Ph+ acute leukaemias (n=15) were enrolled in a dose-escalation phase I trial.
 This was a population of heavily pretreated patients, as 46% had received prior BMT and 73% a prior multi-agent chemotherapy.
@@ -172,6 +179,15 @@ WBC< 10 x 109/l, platelet < 450 x 109/l, myelocyte+metamyelocyte < 5% in blood, 
 [GLIVEC 100 mg film-coated tablets]
 
 Chronic phase, newly diagnosed: This phase III study compared treatment with either single-agent Glivec or a combination of interferon-alfa (IFN) plus cytarabine (Ara-C).
+
+|  | Study 0110 37-month data Chronic phase, IFN failure (n=532) | Study 0109 40.5-month data Accelerated phase (n=235) | Study 0102 38-month data Myeloid blast crisis (n=260) |
+| --- | --- | --- | --- |
+|  | % of patients (CI95%) |  |  |
+| Haematological response1 Complete haematological response (CHR) No evidence of leukaemia (NEL) Return to chronic phase (RTC) | 95% (92.3–96.3) 95% | 71% (65.3–77.2) 42% | 31% (25.2–36.8) 8% |
+|  | Not applicable | 12% | 5% |
+|  | Not applicable | 17% | 18% |
+| Major cytogenetic response2 Complete (Confirmed3) [95% CI] Partial | 65% (61.2–69.5) 53% (43%) [38.6–47.2] 12% | 28% (22.0–33.9) 20% (16%) [11.3–21.0] 7% | 15% (11.2–20.4) 7% (2%) [0.6–4.4] 8% |
+| 1 Haematological response criteria (all responses to be confirmed after ≥ 4 weeks): CHR: Study 0110 [WBC < 10 x 109/l, platelets < 450 x 109/l, myelocyte+metamyelocyte < 5% in blood, no blasts and promyelocytes in blood, basophils < 20%, no extramedullary involvement] and in studies 0102 and 0109 [ANC ≥ 1.5 x 109/l, platelets ≥ 100 x 109/l, no blood blasts, BM blasts < 5% and no extramedullary disease] NEL Same criteria as for CHR but ANC ≥ 1 x 109/l and platelets ≥ 20 x 109/l (0102 and 0109 only) RTC < 15% blasts BM and PB, < 30% blasts+promyelocytes in BM and PB, < 20% basophils in PB, no extramedullary disease other than spleen and liver (only for 0102 and 0109). BM = bone marrow, PB = peripheral blood 2 Cytogenetic response criteria: A major response combines both complete and partial responses: complete (0% Ph+ metaphases), partial (1–35%) 3 Complete cytogenetic response confirmed by a second bone marrow cytogenetic evaluation performed at least one month after the initial bone marrow study. |  |  |  |
 
 [GLIVEC 400 mg film-coated tablets]
 
