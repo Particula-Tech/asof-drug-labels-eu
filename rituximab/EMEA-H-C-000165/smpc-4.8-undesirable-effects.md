@@ -18,9 +18,9 @@ Summary of adverse events reported in ≥ 1 % of 356 patients receiving MabThera
 | Body system Adverse event | % | % |
 | Any adverse event | 91.0 | 17.7 |
 | Body as a whole |  |  |
+| Body system Adverse event | % | % |
 | Fever | 48.3 | 0.6 |
 | Chills | 31.7 | 2.2 |
-| Body system Adverse event | % | % |
 | Asthenia | 18.0 | 0.3 |
 | Headache | 12.6 | 0.6 |
 | Throat irritation | 7.6 | - |
@@ -71,9 +71,9 @@ Summary of adverse events reported in ≥ 1 % of 356 patients receiving MabThera
 | Paresthesia | 2.5 | - |
 | Anxiety | 2.2 | - |
 | Insomnia | 2.2 | - |
+| Body system Adverse event | % | % |
 | Vasodilatation | 1.7 | - |
 | Hypoaesthesia | 1.4 | - |
-| Body system Adverse event | % | % |
 | Agitation | 1.4 | - |
 | Respiratory system |  |  |
 | Bronchospasm | 7.9 | 1.4 |
@@ -115,6 +115,7 @@ A single occurrence of transient aplastic anaemia (pure red cell aplasia) and in
 Cardiovascular events: Cardiovascular events were reported in 18.8 % of patients during the treatment period.
 The most frequently reported events were hypotension and hypertension.
 Two patients (0.6 %) experienced grade 3 or 4 arrhythmia (including ventricular and supraventricular tachycardia) during a MabThera infusion and one patient with a history of myocardial infarction experienced angina pectoris, evolving into myocardial infarction 4 days later.
+
 Subpopulations:
 
 Elderly patients: (≥ 65 years): The incidence of any adverse event and of grade 3 and 4 adverse events was similar in elderly (N=94) and younger (N=237) patients (88.3 % versus 92.0 % for any adverse event and 16.0 % versus 18.1 % for grade 3 and 4 adverse events).
@@ -229,8 +230,7 @@ As part of the continuing post-marketing surveillance of MabThera safety, the fo
 | Rare (≥ 1/10,000, < 1/1000): | Anaphylaxis |
 | Very rare (< 1/10,000): | *Tumour lysis syndrome *Cytokine release syndrome Serum sickness Hepatitis B reactivation4 |
 | Nervous system disorders |  |
-| Very rare (< 1/10,000): | Cranial neuropathy Peripheral neuropathy |
-|  | †Facial nerve palsy †Loss of other senses |
+| Very rare (< 1/10,000): | Cranial neuropathy Peripheral neuropathy †Facial nerve palsy †Loss of other senses |
 | Renal and urinary disorders |  |
 | Very rare (< 1/10,000): | *Renal failure |
 | Respiratory, thoracic and mediastinal disorders |  |
