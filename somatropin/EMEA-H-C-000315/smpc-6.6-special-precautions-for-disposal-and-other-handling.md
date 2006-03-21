@@ -1,4 +1,8 @@
-# 6.6 Instructions for use and handling
+# 6.6 Special precautions for disposal
+
+No special requirements.
+
+Instructions for use and handling
 
 NutropinAq is supplied as a sterile solution with preservative for multiple use.
 The solution should be clear immediately after removal from the refrigerator.
@@ -11,3 +15,5 @@ Wipe the rubber seal of the NutropinAq with rubbing alcohol or an antiseptic sol
 It is recommended that NutropinAq be administered using sterile, disposable needles.
 
 The NutropinAq Pen allows for administration of a minimum dose of 0.1 mg to a maximum dose of 4.0 mg, in 0.1 mg increments.
+
+A cartridge that is in the pen should not be removed during injections.

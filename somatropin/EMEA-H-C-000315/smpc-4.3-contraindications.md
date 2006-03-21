@@ -1,6 +1,6 @@
 # 4.3 Contraindications
 
-Hypersensitivity to somatropin or to any of the excipients.
+Hypersensitivity to the active substance or to any of the excipients.
 
 Somatropin should not be used for growth promotion in patients with closed epiphyses.
 
