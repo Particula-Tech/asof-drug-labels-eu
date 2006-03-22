@@ -3,6 +3,7 @@
 Store below 25 °C.
 
 DO NOT FREEZE lyophilised or reconstituted product.
+
 See section 6.3 for shelf life and storage conditions after reconstitution.
 
 [AVONEX 30 micrograms powder and solvent for solution for injection]

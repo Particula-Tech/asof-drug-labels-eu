@@ -3,7 +3,6 @@
 The highest incidence of adverse reactions associated with AVONEX therapy is related to flu-like symptoms.
 The most commonly reported flu-like symptoms are myalgia, fever, chills, sweating, asthenia, headache and nausea.
 Flu-like symptoms tend to be most prominent at the initiation of therapy and decrease in frequency with continued treatment.
-
 Transient neurological symptoms that may mimic MS exacerbations may occur following injections.
 Transient episodes of hypertonia and/or severe muscular weakness that prevent voluntary movements may occur at any time during treatment.
 These episodes are of limited duration, temporally related to the injections and may recur after subsequent injections.
@@ -76,7 +75,8 @@ The most commonly reported flu-like symptomsare myalgia, fever, chills, sweating
 | Nervous system disorders very common | headache* |
 | common | hypoesthesia, muscle spasticity |
 | Vascular disorders common | flushing |
-| Respiratory disorders common rare | rhinorrhoea dyspnoea |
+| Respiratory disorders common | rhinorrhoea |
+| rare | dyspnoea |
 | Gastrointestinal disorders common | vomiting, diarrhoea, nausea* |
 | Skin and subcutaneous tissue disorders common | rash, sweating increased, contusion |
 | uncommon | alopecia |
@@ -87,20 +87,3 @@ The most commonly reported flu-like symptomsare myalgia, fever, chills, sweating
 | uncommon | injection site burning |
 | Investigations common | lymphocyte count decreased, white blood cells count decreased, neutrophil count decreased, hematocrit decreased blood potassium increased, blood urea nitrogen increased |
 | uncommon | platelet count decreased |
-
-Blood and lymphatic system disorders
-pancytopenia, thrombocytopenia
-
-| Endocrine disorders | hypothyroidism, hyperthyroidism |
-| --- | --- |
-| Psychiatric disorders | anxiety, suicide, psychosis, confusion, emotional lability |
-| Nervous system disorders | neurological symptoms, syncope (1), hypertonia, dizziness, paraesthesia, seizures, migraine |
-| Cardiac disorders | palpitations, tachycardia, arrythmia, cardiomyopathy, congestive heart failure (see section 4.4) |
-| Vascular disorders | vasodilatation |
-| Hepatobiliary disorders | hepatitis, autoimmune hepatitis, hepatic failure (see section 4.4) |
-| Skin and subcutaneous tissue disorders | pruritus, rash vesicular, urticaria, aggravation of psoriasis, angioneurotic oedema |
-| Musculoskeletal disorders | muscle weakness, arthritis, systemic lupus erythematosus |
-| General disorders and administration site conditions | injection site reaction, injection site inflammation, injection site cellulitis (2), injection site necrosis, injection site bleeding, chest pain |
-| Immune system disorders | Hypersensitivity reactions (angioedema, dyspnoea, urticaria, rash and pruritic rash), anaphylactic reaction, anaphylactic shock |
-| Investigations | weight decreased, weight increased, liver function tests abnormal |
-| Infections and infestations | injection site abscess (2) |

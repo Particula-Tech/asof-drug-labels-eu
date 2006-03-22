@@ -16,6 +16,7 @@ The potential of additive effects from multiple medicinal products or other hepa
 Patients should be monitored for signs of hepatic injury and caution exercised when interferons are used concomitantly with other medicinal products associated with hepatic injury.
 Patients with cardiac disease, such as angina, congestive heart failure or arrhythmia, should be closely monitored for worsening of their clinical condition during treatment with AVONEX.
 Flu-like symptoms associated with AVONEX therapy may prove stressful to patients with underlying cardiac conditions.
+
 Laboratory abnormalities are associated with the use of interferons.
 Therefore, in addition to those laboratory tests normally required for monitoring patients with MS, complete and differential white blood cell counts, platelet counts, and blood chemistry, including liver function tests, are recommended during AVONEX therapy.
 Patients with myelosuppression may require more intensive monitoring of complete blood cell counts, with differential and platelet counts.
