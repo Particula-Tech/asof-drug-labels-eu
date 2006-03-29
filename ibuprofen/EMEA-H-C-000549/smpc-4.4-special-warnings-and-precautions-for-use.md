@@ -15,6 +15,8 @@ Pedea should be administered carefully to avoid extravasation and potential resu
 
 As ibuprofen may inhibit platelet aggregation, premature neonates should be monitored for signs of bleeding.
 
+As ibuprofen may decrease the clearance of aminoglycosides, strict surveillance of their serum levels is recommended during co-administration with ibuprofen.
+
 Careful monitoring of both renal and gastrointestinal function is recommended.
 
 In preterm newborn infants less than 27 weeks of gestational age, the closure rate of the ductus arteriosus was shown to be low at the recommended dose regimen (see section 5.1).

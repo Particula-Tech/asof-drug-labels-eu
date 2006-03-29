@@ -1,6 +1,7 @@
 # 4.3 Contraindications
 
 Pedea is contraindicated in neonates with:
+
 - life-threatening infection;
 - active bleeding, especially intracranial or gastrointestinal haemorrhage;
 - thrombocytopenia or coagulation defects;
