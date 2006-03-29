@@ -15,8 +15,8 @@ In combination with sulphonylurea, the current sulphonylurea dose can be continu
 If patients report hypoglycaemia, the dose of sulphonylurea should be decreased.
 
 Elderly:
-No dosage adjustment is necessary for elderly patients (see section 5.2).
 
+No dosage adjustment is necessary for elderly patients (see section 5.2).
 Patients with renal impairment:
 
 No dosage adjustment is necessary in patients with impaired renal function (creatinine clearance > 4 ml/min) (see section 5.2).

@@ -25,7 +25,6 @@ If ALT levels remain > 3 X the upper limit of normal, therapy should be disconti
 If any patient develops symptoms suggesting hepatic dysfunction, which may include unexplained nausea, vomiting, abdominal pain, fatigue, anorexia and/or dark urine, liver enzymes should be checked.
 The decision whether to continue the patient on therapy with pioglitazone should be guided by clinical judgement pending laboratory evaluations.
 If jaundice is observed, drug therapy should be discontinued.
-
 Weight gain:
 
 In clinical trials with pioglitazone there was evidence of weight gain, therefore weight should be closely monitored.

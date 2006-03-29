@@ -18,7 +18,6 @@ HOMA analysis shows that pioglitazone improves beta cell function as well as inc
 Two-year clinical studies have shown maintenance of this effect.
 
 In one year clinical trials, pioglitazone consistently gave a statistically significant reduction in the albumin/creatinine ratio compared to baseline.
-
 The effect of pioglitazone (45 mg monotherapy vs. placebo) was studied in a small 18-week trial in type 2 diabetics.
 Pioglitazone was associated with significant weight gain.
 Visceral fat was significantly decreased, while there was an increase in extra-abdominal fat mass.
