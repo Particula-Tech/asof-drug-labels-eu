@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-Pooled safety data from clinical studies conducted in adult patients showed that 46.4 % of the patients in the Keppra group and 42.2 % of the patients in the placebo group experienced undesirable effects.
+Pooled safety data from clinical studies conducted in adult patients with Keppra oral formulations showed that 46.4 % of the patients in the Keppra group and 42.2 % of the patients in the placebo group experienced undesirable effects.
 Serious undesirable effects were experienced in 2.4% of the patients in the Keppra and 2.0% of the patients in the placebo groups.
 The most commonly reported undesirable effects were somnolence, asthenia and dizziness.
 In the pooled safety analysis, there was no clear dose-response relationship but incidence and severity of the central nervous system related undesirable effects decreased over time.
@@ -9,11 +9,10 @@ A study conducted in paediatric patients (4 to 16 years) showed that 55.4 % of t
 Serious undesirable effects were experienced in 0.0 % of the patients in the Keppra group and 1.0 % of the patients in the placebo group.
 The most commonly reported undesirable effects were somnolence, hostility, nervousness, emotional lability, agitation, anorexia, asthenia and headache in the paediatric population.
 Safety results in paediatric patients were consistent with the safety profile of levetiracetam in adults except for behavioural and psychiatric adverse events which were more common in children than in adults (38.6% versus 18.6%).
-However, the relative risk was similar in children as compared to adults .
+However, the relative risk was similar in children as compared to adults.
 
 Undesirable effects reported in clinical studies (adults and children) or from post-marketing experience are listed in the following table per System Organ Class and per frequency.
-For clinical trials, the frequency is defined as follows: very common: > 10 %; common: > 1 - 10 %; uncommon: > 0.1 % -
-1 %; rare: 0.01 % - 0.1 %; very rare: < 0.01 %, including isolated reports.
+For clinical trials, the frequency is defined as follows: very common (>1/10); common (>1/100, <1/10); uncommon (>1/1,000, <1/100); rare (>1/10,000, <1/1,000); very rare (<1/10,000), including isolated reports.
 Data from post-marketing experience are insufficient to support an estimate of their incidence in the population to be treated.
 
 - General disorders and administration site conditions
@@ -83,3 +82,11 @@ E 110 coloring agent may cause allergic reactions.
 [Keppra 100 mg/ml oral solution.]
 
 (all sentences already above)
+
+[Keppra 100 mg/ml concentrate for solution for infusion.]
+
+Undesirable effects that resulted from Keppra intravenous use are similar to those associated with Keppra oral use.
+The most frequently reported adverse reactions were dizziness, somnolence, headache and postural dizziness.
+Since there was limited exposure for Keppra intravenous use and since oral and intravenous formulations are bioequivalent, the safety information of Keppra intravenous will rely on Keppra oral use.
+
+For clinical trials, the frequency is defined as follows: very common (>1/10); common (>1/100, <1/10); uncommon: (>1/1,000, <1/100); rare (>1/10,000, <1/1,000); very rare (<1/10,000), including isolated reports.

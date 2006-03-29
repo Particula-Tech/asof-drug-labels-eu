@@ -17,3 +17,7 @@ No special precautions for storage.
 [Keppra 100 mg/ml oral solution.]
 
 Store in the original container.
+
+[Keppra 100 mg/ml concentrate for solution for infusion.]
+
+For storage conditions of the diluted medicinal product, see section 6.3.

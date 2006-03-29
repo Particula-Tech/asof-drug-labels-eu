@@ -18,3 +18,9 @@ Keppra 1000 mg film-coated tablets are packaged in aluminium/PVC blisters placed
 [Keppra 100 mg/ml oral solution.]
 
 300 ml amber glass bottle (type III) with a white child resistant closure (polypropylene) in a cardboard box also containing a graduated oral syringe (polyethylene, polystyrene) and a patient information leaflet.
+
+[Keppra 100 mg/ml concentrate for solution for infusion.]
+
+Keppra concentrate is packed in glass vials (type I) with Teflon faced stoppers and sealed with an aluminium/polypropylene flip off cap.
+The vials are placed into cartons of 10 vials.
+Each vial contains 5 ml of concentrate.

@@ -22,7 +22,7 @@ Iron oxide yellow (E172)
 [Keppra 750 mg film-coated tablets.]
 
 Film-coating Opadry 85F23452:
-Talc sunset yellow FCF aluminium lake (E110)
+Sunset yellow FCF aluminium lake (E110)
 Iron oxide red (E172)
 
 [Keppra 1000 mg film-coated tablets.]
@@ -41,3 +41,10 @@ Maltitol (E965)
 Acesulfame potassium (E950)
 Grape flavour
 Purified water
+
+[Keppra 100 mg/ml concentrate for solution for infusion.]
+
+Sodium acetate
+Glacial acetic acid
+Sodium chloride
+Water for injection

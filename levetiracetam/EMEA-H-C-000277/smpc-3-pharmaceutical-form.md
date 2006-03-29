@@ -19,3 +19,9 @@ White, oblong, scored and debossed with the code “ucb” and “1000” on one
 
 Oral solution.
 Clear liquid.
+
+[Keppra 100 mg/ml concentrate for solution for infusion.]
+
+Concentrate for solution for infusion.
+
+Keppra concentrate is a clear, colorless, sterile solution.

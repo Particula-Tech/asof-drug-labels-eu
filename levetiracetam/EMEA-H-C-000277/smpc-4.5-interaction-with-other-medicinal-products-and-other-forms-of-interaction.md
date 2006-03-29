@@ -3,8 +3,8 @@
 Pre-marketing data from clinical studies conducted in adults indicate that Keppra did not influence the serum concentrations of existing antiepileptic medicinal products (phenytoin, carbamazepine, valproic acid, phenobarbital, lamotrigine, gabapentin and primidone) and that these antiepileptic medicinal products did not influence the pharmacokinetics of Keppra.
 
 Consistent with formal pharmacokinetic studies in adults, there has been no clear evidence of clinically significant medicinal product interactions in paediatric patients receiving up to 60 mg/kg/day levetiracetam.
-A retrospective assessment of pharmacokinetic interactions in children and adolescents with epilepsy (4 to 17 years) confirmed that adjunctive therapy with levetiracetam did not influence the steady-state serum concentrations of concomitantly administered carbamazepine and valproate.
-However, data suggested that enzyme-inducing antiepileptic medicinal products increase levetiracetam clearance by 22 %.
+A retrospective assessment of pharmacokinetic interactions in children and adolescents with epilepsy (4 to 17 years) confirmed that adjunctive therapy with orally administered levetiracetam did not influence the steady-state serum concentrations of concomitantly administered carbamazepine and valproate.
+However, data suggested a 22% higher levetiracetam clearance in children taking enzyme-inducing antiepileptic medicinal products.
 Dosage adjustment is not required.
 
 Probenecid (500 mg four times daily), a renal tubular secretion blocking agent, has been shown to inhibit the renal clearance of the primary metabolite but not of levetiracetam.

@@ -8,7 +8,7 @@ Adults (≥18 years) and adolescents (12 to 17 years) of 50 kg or more
 The initial therapeutic dose is 500 mg twice daily.
 This dose can be started on the first day of treatment.
 Depending upon the clinical response and tolerability, the daily dose can be increased up to 1,500 mg twice daily.
-Dose changes can be made in 500 mg twice daily increments or decrements every two to four weeks.
+Dose changes can be made in 500 mg twice daily increases or decreases every two to four weeks.
 
 Elderly (65 years and older)
 
@@ -18,7 +18,7 @@ Children aged 4 to 11 years and adolescents (12 to 17 years) of less than 50 kg
 
 The initial therapeutic dose is 10 mg/kg twice daily.
 Depending upon the clinical response and tolerability, the dose can be increased up to 30 mg/kg twice daily.
-Dose changes should not exceed increments or decrements of 10 mg/kg twice daily every two weeks.
+Dose changes should not exceed increases or decreases of 10 mg/kg twice daily every two weeks.
 The lowest effective dose should be used.
 Dosage in children 50 kg or greater is the same as in adults.
 The physician should prescribe the most appropriate pharmaceutical form and strength according to weight and dose.
@@ -36,7 +36,7 @@ Dosage recommendations for children and adolescents:
 
 Infants and children less than 4 years
 
-There are insufficient data to recommend the use of levetiracetam in children under 4 years of age.
+Keppra is not recommended for use in children below 4 years of age due to insufficient data on safety and efficacy (see section 5.2).
 
 Patients with renal impairment
 
@@ -86,3 +86,14 @@ The oral solution may be diluted in a glass of water and may be taken with or wi
 A graduated oral syringe and instructions for use in the package leaflet are provided with Keppra.
 
 The graduated oral syringe contains up to 1,000 mg levetiracetam (corresponding to 10 ml) with a graduation every 25 mg (corresponding to 0.25 ml).
+
+[Keppra 100 mg/ml concentrate for solution for infusion.]
+
+Keppra therapy can be initiated with either intravenous or oral administration.
+Conversion to or from oral to intravenous administration can be done directly without titration.
+The total daily dose and frequency of administration should be maintained.
+Keppra concentrate is for intravenous use only and the recommended dose must be diluted in at least 100 ml of a compatible diluent and administered intravenously as a 15-minute intravenous infusion (see section 6.6).
+
+There is no experience with administration of intravenous levetiracetam for longer period than 4 days.
+
+A Keppra concentrate vial contains 500 mg levetiracetam in 5 ml (corresponding to 100 mg/ml).

@@ -41,3 +41,7 @@ EU/1/00/146/026
 [Keppra 100 mg/ml oral solution.]
 
 EU/1/00/146/027
+
+[Keppra 100 mg/ml concentrate for solution for infusion.]
+
+(all sentences already above)
