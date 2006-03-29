@@ -11,7 +11,6 @@ Triethyl citrate.
 
 Capsule Shell:
 30 mg: Gelatin, Sodium Lauryl Sulfate, Titanium Dioxide (E171), Indigo Carmine (E132), Edible Green Ink
-
 Edible Green Ink contains: Black Iron Oxide-Synthetic (E172), Yellow Iron Oxide- Synthetic (E172), Propylene glycol, Shellac.
 
 Capsule Shell Cap colour:

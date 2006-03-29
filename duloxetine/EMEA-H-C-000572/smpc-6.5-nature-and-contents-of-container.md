@@ -8,4 +8,4 @@ Not all pack sizes may be marketed.
 
 [CYMBALTA 60 mg hard gastro-resistant capsules]
 
-CYMBALTA 60 mg is available in packs of 28, 56, 84 and 98 capsules
+CYMBALTA 60 mg is available in packs of 28, 56, 84, 98 and 500 capsules

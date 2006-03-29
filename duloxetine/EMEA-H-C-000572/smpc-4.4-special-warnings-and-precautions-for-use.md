@@ -6,6 +6,7 @@ CYMBALTA should be used with caution in patients with a history of mania or a di
 Mydriasis
 Mydriasis has been reported in association with duloxetine, therefore, caution should be used when prescribing CYMBALTA to patients with increased intraocular pressure, or those at risk of acute narrow-angle glaucoma.
 Blood pressure
+Duloxetine is associated with an increase in blood pressure in some patients.
 In patients with known hypertension and/or other cardiac disease, blood pressure monitoring is recommended as appropriate.
 
 Renal impairment
@@ -27,8 +28,9 @@ This risk persists until significant remission occurs.
 As improvement may not occur during the first few weeks or more of treatment, patients should be closely monitored until such improvement occurs.
 It is general clinical experience with all antidepressant therapies that the risk of suicide may increase in the early stages of recovery.
 Cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.
-Close supervision of high-risk patients should accompany drug therapy.
+Close supervision of high-risk patients should accompany drug therapy (see section 4.8).
 Patients, (and caregivers of patients) should be alerted about the need to monitor for the emergence of suicidal ideation/behaviour or thoughts of harming themselves and to seek medical advice immediately if these symptoms present.
+
 Diabetic Peripheral Neuropathic Pain
 As with other medicinal products with similar pharmacological action (antidepressants), isolated cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.
 Physicians should encourage patients to report any distressing thoughts or feelings at any time.
@@ -45,10 +47,13 @@ CYMBALTA hard gastro-resistant capsules contain sucrose.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.
 
 Haemorrhage
-There have been reports of cutaneous bleeding abnormalities, such as ecchymoses and purpura with selective serotonin reuptake inhibitors (SSRIs).
+There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/norepinephrine reuptake inhibitors (SNRIs).
 Caution is advised in patients taking anticoagulants and/or medicinal products known to affect platelet function, and in patients with known bleeding tendencies.
+
 Hyponatremia
-Hyponatremia has been reported rarely, predominantly in the elderly, when administering CYMBALTA and other drugs of the same pharmacodynamic class.
+Hyponatremia has been reported rarely, predominantly in the elderly, when administering CYMBALTA.
+Caution is required in patients at increased risk for hyponatremia; such as elderly, cirrhotic, or dehydrated patients or patients treated with diuretics.
+Hyponatremia may be due to a syndrome of inappropriate anti-diuretic hormone secretion (SIADH).
 
 Discontinuation of treatment
 Some patients may experience symptoms on discontinuation of CYMBALTA, particularly if treatment is stopped abruptly (see section 4.2 and 4.8).
@@ -60,3 +65,9 @@ Therefore, caution should be exercised when treating the elderly with the maximu
 Medicinal products containing duloxetine
 Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive episodes as well as stress urinary incontinence).
 The use of more than one of these products concomitantly should be avoided.
+
+Hepatitis/increased liver enzymes
+Cases of liver injury, including severe elevations of liver enzymes (>10 times upper limit of normal), hepatitis and jaundice have been reported with duloxetine (see section 4.8).
+Most of them occurred during the first months of treatment.
+The pattern of liver damage was predominantly hepatocellular.
+Duloxetine should be used with caution in patients treated with other drugs associated with hepatic injury.
