@@ -10,14 +10,13 @@ Patients may be at an increased risk of folliculitis, acne and herpes viral infe
 Adverse reactions with suspected relationship to treatment are listed below by system organ class.
 Frequencies are defined as very common (> 1/10), common (> 1/100, < 1/10) and uncommon
 (> 1/1,000, < 1/100).
+
 General disorders and administration site conditions
 Very common: Application site burning, application site pruritus
 
 Common: Application site warmth, application site erythema, application site pain,
 
-application site irritation, application site paraesthesia, application site rash
-
-Infections and infestations
+application site irritation, application site paraesthesia, application site rash Infections and infestations
 
 Common: Herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes
 
@@ -44,4 +43,6 @@ Skin and subcutaneous tissue disorders: Rosacea
 
 [Protopic 0.1% ointment]
 
-application site irritation, application site paraesthesia, application site rash Infections and infestations
+application site irritation, application site paraesthesia, application site rash
+
+Infections and infestations

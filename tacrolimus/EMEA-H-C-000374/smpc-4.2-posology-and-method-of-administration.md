@@ -24,4 +24,5 @@ An attempt should be made to reduce the frequency of application or to use the l
 Use in elderly (65 years of age and above)
 Specific studies have not been conducted in elderly patients.
 However, the clinical experience available in this patient population has not shown the necessity for any dosage adjustment.
+
 As clinical efficacy studies were performed with abrupt cessation of treatment, no information is available on whether tapering of the dosage would reduce recurrence rate.

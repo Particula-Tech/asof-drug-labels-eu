@@ -11,6 +11,7 @@ However, both the extent and the rate of topical absorption of tacrolimus decrea
 In both adults and children with an average of 50% body surface area treated, systemic exposure (i.e. AUC) of tacrolimus from Protopic is approximately 30-fold less than that seen with oral immunosuppressive doses in kidney and liver transplant patients.
 The lowest tacrolimus blood concentration at which systemic effects can be observed is not known.
 There was no evidence of systemic accumulation of tacrolimus in patients (adults and children) treated for prolonged periods (up to one year) with tacrolimus ointment.
+
 Distribution
 As systemic exposure is low with tacrolimus ointment, the high binding of tacrolimus (> 98.8%) to plasma proteins is considered not to be clinically relevant.
 Following topical application of tacrolimus ointment, tacrolimus is selectively delivered to the skin with minimal diffusion into the systemic circulation.
@@ -18,7 +19,6 @@ Following topical application of tacrolimus ointment, tacrolimus is selectively 
 Metabolism
 Metabolism of tacrolimus by human skin was not detectable.
 Systemically available tacrolimus is extensively metabolised in the liver via CYP3A4.
-
 Elimination
 When administered intravenously, tacrolimus has been shown to have a low clearance rate.
 The average total body clearance is approximately 2.25 l/h.

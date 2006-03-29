@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Fujisawa GmbH
+Astellas Pharma GmbH
 Neumarkter Str.
 61
 D-81673 München

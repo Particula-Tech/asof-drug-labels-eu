@@ -12,6 +12,7 @@ In animals, tacrolimus ointment suppressed inflammatory reactions in experimenta
 Tacrolimus ointment did not reduce skin thickness and did not cause skin atrophy in animals.
 In patients with atopic dermatitis, improvement of skin lesions during treatment with tacrolimus ointment was associated with reduced Fc receptor expression on Langerhans cells and a reduction of their hyperstimulatory activity towards T cells.
 Tacrolimus ointment does not affect collagen synthesis in humans.
+
 Results from clinical studies in patients
 The efficacy and safety of Protopic was assessed in more than 13,500 patients treated with tacrolimus ointment in Phase I to Phase III clinical trials.
 Data from four major trials are presented here.
@@ -50,12 +51,16 @@ Table 2 Efficacy at week 3
 The incidence of local skin burning was higher in the tacrolimus treatment groups than in the hydrocortisone group.
 Pruritus decreased over time in the tacrolimus groups but not in the hydrocortisone group.
 There were no clinically relevant changes in the laboratory values or vital signs in either treatment group throughout the clinical trial.
+
 The purpose of the third multicentre, double-blind, randomised study was the assessment of efficacy and safety of 0.03% tacrolimus ointment applied once or twice a day relative to twice daily administration of 1% hydrocortisone acetate ointment in children with moderate to severe atopic dermatitis.
 Treatment duration was for up to three weeks.
 
 Table 3 Efficacy at week 3
 
-|  | Hydrocortisone acetate 1% Twice daily (N=207) | Tacrolimus 0.03% Once daily (N=207) | Tacrolimus 0.03% Twice daily (N=210) |
+Hydrocortisone Tacrolimus 0.03% Tacrolimus 0.03%
+acetate 1% Once daily (N=207) Twice daily (N=210)
+
+|  | Twice daily (N=207) |  |  |
 | --- | --- | --- | --- |
 | Median mEASI Percentage Decrease (Primary Endpoint)§ | 47.2% | 70.0% | 78.7% |
 | Improvement ≥ 90% in Physician’s Global Evaluation | 13.6% | 27.8% | 36.7% |
@@ -76,5 +81,17 @@ The three most common adverse events reported were flu-like symptoms (cold, comm
 No adverse events previously unreported in shorter duration and/or previous studies were observed in this long-term study.
 
 [Protopic 0.1% ointment]
+
+Topical corticosteroid Tacrolimus 0.1%
+
+|  | regimen§ (N=485) | (N=487) |
+| --- | --- | --- |
+| Response rate of ≥ 60% improvement in mEASI (Primary Endpoint)§§ | 50.8% | 71.6% |
+| Improvement ≥ 90% in Physician’s Global Evaluation | 28.5% | 47.7% |
+
+|  | Hydrocortisone acetate 1% Twice daily (N=207) | Tacrolimus 0.03% Once daily (N=207) | Tacrolimus 0.03% Twice daily (N=210) |
+| --- | --- | --- | --- |
+| Median mEASI Percentage Decrease (Primary Endpoint)§ | 47.2% | 70.0% | 78.7% |
+| Improvement ≥ 90% in Physician’s Global Evaluation | 13.6% | 27.8% | 36.7% |
 
 A statistically significant better improvement was shown for once daily and twice daily 0.03% tacrolimus ointment compared to with twice daily hydrocortisone acetate ointment (p<0.001 for both).
