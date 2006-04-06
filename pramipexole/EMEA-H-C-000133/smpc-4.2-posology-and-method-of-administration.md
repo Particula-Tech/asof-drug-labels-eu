@@ -1,5 +1,7 @@
 # 4.2 Posology and method of administration
 
+4.2.1 Parkinson’s disease
+
 The tablets should be taken orally, swallowed with water, and can be taken either with or without food.
 The daily dosage is administered in equally divided doses 3 times a day.
 
@@ -7,12 +9,13 @@ Initial treatment:
 Dosages should be increased gradually from a starting-dose of 0.264 mg of base (0.375 mg of salt) per day and then increased every 5 - 7 days.
 Providing patients do not experience intolerable side-effects, the dosage should be titrated to achieve a maximal therapeutic effect.
 
-| Ascending – Dose Schedule of SIFROL |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Week | Dosage (mg of base) | Total Daily Dose (mg of base) | Dosage (mg of salt) | Total Daily Dose (mg of salt) |
-| 1 | 3 x 0.088 | 0.264 | 3 x 0.125 | 0.375 |
-| 2 | 3 x 0.18 | 0.54 | 3 x 0.25 | 0.75 |
-| 3 | 3 x 0.35 | 1.05 | 3 x 0.5 | 1.50 |
+Ascending – Dose Schedule of SIFROL
+
+Week Dosage Total Daily Dose Dosage Total Daily Dose
+(mg of base) (mg of base) (mg of salt) (mg of salt)
+1 3 x 0.088 0.264 3 x 0.125 0.375
+2 3 x 0.18 0.54 3 x 0.25 0.75
+3 3 x 0.35 1.05 3 x 0.5 1.50
 
 If a further dose increase is necessary the daily dose should be increased by 0.54 mg base (0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
 
@@ -47,21 +50,65 @@ The daily dose can be administered in two divided doses if creatinine clearance 
 Dosing in patients with hepatic impairment
 Dose adjustment in patients with hepatic failure is probably not necessary, as approx. 90% of absorbed drug is excreted through the kidneys.
 However, the potential influence of hepatic insufficiency on SIFROL pharmacokinetics has not been investigated.
+4.2.2.
+Restless Legs Syndrome
+
+The tablets should be taken orally, swallowed with water, and can be taken either with or without food.
+
+The recommended starting dose of SIFROL is 0.088 mg of base (0.125 mg of salt) taken once daily 2-3 hours before bedtime.
+For patients requiring additional symptomatic relief, the dose may be increased every 4-7 days to a maximum of 0.54 mg of base (0.75 mg of salt) per day (as shown in the table below).
+
+| Dose Schedule of SIFROL |  |  |
+| --- | --- | --- |
+| Titration Step | Once Daily Evening Dose (mg of base) | Once Daily Evening Dose (mg of salt) |
+| 1 | 0.088 | 0.125 |
+| 2* | 0.18 | 0.25 |
+| 3* | 0.35 | 0.50 |
+| 4* | 0.54 | 0.75 |
+| * if needed |  |  |
+
+As long-term efficacy of SIFROL in the treatment of RLS has not been sufficiently tested, patient´s response should be evaluated after 3 months treatment and the need for treatment continuation should be reconsidered.
+If treatment is interrupted for more than a few days it should be re-intiated by dose titration carried out as above.
+
+Treatment discontinuation
+Since daily dose for the treatment of Restless Legs Syndrome will not exceed 0.54 mg of base (0.75 mg of salt) SIFROL can be discontinued without tapering off.
+Rebound (worsening of symptoms after abrupt discontinuation of treatment) can not be excluded.
+
+Dosing in patients with renal impairment
+The elimination of pramipexole is dependent on renal function.
+Patients with a creatinine clearance above 20 mL/min require no reduction in daily dose.
+The use of SIFROL has not been studied in hemodialysis patients, or in patients with severe renal impairment.
+
+Dosing in patients with hepatic impairment
+Dose adjustment in patients with hepatic failure is not required, as approx. 90 % of absorbed drug is excreted through the kidneys.
+
+Dosing in children and adolescents
+Safety and efficacy of SIFROL have not been established in children and adolescents up to 18 years.
 
 [SIFROL 0.18 mg tablets]
+
+| Ascending – Dose Schedule of SIFROL |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Week | Dosage (mg of base) | Total Daily Dose (mg of base) | Dosage (mg of salt) | Total Daily Dose (mg of salt) |
+| 1 | 3 x 0.088 | 0.264 | 3 x 0.125 | 0.375 |
+| 2 | 3 x 0.18 | 0.54 | 3 x 0.25 | 0.75 |
+| 3 | 3 x 0.35 | 1.05 | 3 x 0.5 | 1.50 |
 
 However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/ day (see section 4.8 ).
 
 Abrupt discontinuation of dopaminergic therapy can lead to the development of aneuroleptic malignant syndrome.
 
+If the treatment is interrupted for more than a few days it should be re-inititiated by dose titration carried out as above.
+
 [SIFROL 0.35 mg tablets]
 
-(all sentences already above)
+If treatment is interrupted for more than a few days it should be re-initiated by dose titraction carried out as above.
 
 [SIFROL 0.7 mg tablets]
 
-(all sentences already above)
+As long-term efficacy of SIFROL in the treatment of RLS has not been sufficiently tested, patient´s response should be evaluatd after 3 months treatment and the need for treatment continuation should be reconsidered.
+If treatment is interrupted for more than a few days it should be re-initiated by dose titration carried out as above.
 
 [SIFROL 1.1 mg tablets]
 
-(all sentences already above)
+As long-term efficacy of SIFROL in the treatment of RLS has not been sufficient tested, patient´s response should be evaluated after 3 months treatment and the need for treatment continuation should be reconsidered.
