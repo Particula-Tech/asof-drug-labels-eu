@@ -15,16 +15,15 @@ Adverse reactions are listed according to the following categories:
 
 Very common: >1/10
 Common: >1/100, <1/10
-Uncommon: >1/1000, <1/100Rare: >1/10,000,
-
-<1/1000
+Uncommon: >1/1000, <1/100
+Rare: >1/10,000, <1/1000
 
 Body as a whole:
 
 Very common: Lymphocele, peripheral oedema
-Common: Abnormal healing; oedema; fever; fungal, viral, and bacterial
+Common: Abnormal healing; oedema; fever; fungal, viral, and bacterial infections
 
-infections (such as mycobacterial infections, Epstein-Barr virus, CMV, and Herpes zoster); Herpes simplex; sepsis
+(such as mycobacterial infections, Epstein-Barr virus, CMV, and Herpes zoster); Herpes simplex; sepsis
 
 Cardiac disorders:
 
@@ -43,27 +42,24 @@ Uncommon: Pancreatitis
 Blood and the lymphatic system disorders:
 
 Very common: Anaemia; thrombocytopenia
-Common: Leucopenia; neutropenia; thrombotic thrombocytopenic
+Common: Leucopenia; neutropenia; thrombotic thrombocytopenic purpura/haemolytic
 
-purpura/haemolytic uraemic syndrome
+uraemic syndrome
 
-Uncommon: Lymphoma / post transplant lymphoproliferative disorder,
-
-pancytopenia
-
+Uncommon: Lymphoma / post transplant lymphoproliferative disorder, pancytopenia
 Rare: Lymphoedema
 
 Immune system disorders:
 
-Rare: Hypersensitivity reactions, including anaphylactic/anaphylactoid
+Rare: Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions,
 
-reactions, angioedema, and hypersensitivity vasculitis (see section 4.4)
+angioedema, and hypersensitivity vasculitis (see section 4.4)
 
 Metabolism and nutrition disorders:
 
-Very common: Hypercholesterolemia, hypertriglyceridemia (hyperlipemia);
+Very common: Hypercholesterolemia, hypertriglyceridemia (hyperlipemia); hypokalaemia;
 
-hypokalaemia; increased lactic dehydrogenase (LDH)
+increased lactic dehydrogenase (LDH)
 
 Common: Liver function tests abnormal; increased SGOT, increased SGPT
 
@@ -75,6 +71,7 @@ Common: Bone necrosis
 Respiratory, thoracic and mediastinal disorders:
 
 Common: Epistaxis; pneumonia; pneumonitis
+Uncommon: Pulmonary haemorrhage
 
 Skin and subcutaneous tissue disorders:
 
@@ -84,7 +81,7 @@ Common: Skin cancer, rash
 Renal and urinary disorders:
 
 Very common: Urinary tract infection
-Common: Pyelonephritis
+Common: Pyelonephritis; proteinuria
 
 Immunosuppression increases the susceptibility to the development of lymphoma and other malignancies, particularly of the skin (see section 4.4).
 
@@ -102,24 +99,9 @@ The concomitant use of sirolimus with a calcineurin inhibitor may increase the r
 In an ongoing study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/mL) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 mL/min.
 There was a higher rate of serious adverse events including pneumonia, acute rejection, graft loss and death in this sirolimus treatment arm (n=60, median time post-transplant 36 months).
 
-[Rapamune 1 mg/1 ml oral solution.]
+[Rapamune 1 mg coated tablets]
 
 The majority of patients in clinical trials were treated with ciclosporin and corticosteroids; thus the frequency of adverse reactions listed includes Rapamune administration combined with ciclosporin and corticosteroids.
-
-Uncommon: >1/1000, <1/100
-Rare: >1,10,000, <1/1000
-
-Hepatotoxicty has been reported, the risk may increase as the trough Sirolimus level increases.
-
-[Rapamune 2 mg/2 ml oral solution]
-
-Rare: >1/10,000, <1/1000
-
-[Rapamune 5 mg/5 ml oral solution]
-
-(all sentences already above)
-
-[Rapamune 1 mg coated tablets]
 
 The frequency of the adverse reactions taken from clinical trial data listed below was determined in five clinical trials in renal transplantation.
 These included two randomised, double-blind, multicentre controlled trials in which 499 renal transplant patients received Rapamune oral solution 2 mg/day and 477 received Rapamune oral solution 5 mg/day together with ciclosporin and corticosteriods.
@@ -127,14 +109,20 @@ One randomised, open-label study enrolling 477 patients compared the tablet (238
 Additionally, two open-label studies enrolled 771 patients who initially received Rapamune (246 patients received oral solution and 525 received tablets) and ciclosporin.
 Overall, the safety profile of Rapamune tablets did not differ from that of the oral solution formulation in clinical trials.
 
+Uncommon: Lymphoma / post transplant lymphoproliferative disorder; pancytopenia
+
+angioedema and hypersensitivity vasculitis (see section 4.4)
+
 Hepatoxicity has been reported.
 The risk may increase as the trough Sirolimus level increases.
 Rare reports of fatal hepatic necrosis have been reported with elevated trough Sirolimus levels.
 
 [Rapamune 2 mg coated tablets]
 
+Rare: >1,10,000, <1/1000
+
 Common: Liver function tests abnormal; increased SGOT increasedSGPT
 
 [Rapamune 5 mg coated tablets]
 
-Rare: Lymphoedmea
+(all sentences already above)

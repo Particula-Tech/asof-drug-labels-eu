@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Rapamune has not been adequately studied in patients at high immunological risk (see section 5.1).
 
@@ -37,6 +37,7 @@ The use of Rapamune in renal transplant patients was associated with increased s
 Patients administered Rapamune, should be monitored for hyperlipidemia using laboratory tests and if hyperlipidemia is detected, subsequent interventions such as diet, exercise, and lipid-lowering agents should be initiated.
 The risk/benefit should be considered in patients with established hyperlipidemia before initiating an immunosuppressive regimen including Rapamune.
 Similarly the risk/benefit of continued Rapamune therapy should be re-evaluated in patients with severe refractory hyperlipidemia.
+
 In clinical trials, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates was well tolerated.
 During Rapamune therapy, patients administered an HMG-CoA reductase inhibitor and/or fibrate, should be monitored for the possible development of rhabdomyolysis and other adverse effects as described in the respective Summary of Product Characteristics of these agents.
 
@@ -50,24 +51,9 @@ The continued co-administration of ciclosporin and Rapamune as maintenance thera
 
 The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced haemolytic uraemic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA).
 
-[Rapamune 1 mg/1 ml oral solution.]
-
-Sirolimus has been administered concurrently with the following agents in clinical studies: ciclosporin, azathioprine, mycophenolate mofeticl, corticosteroids and cytotoxic antibodies.
-Sirolimus in combination with other immunosuppressive agents has not been completely investigated.
-
-[Rapamune 2 mg/2 ml oral solution]
-
-Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (see section 4.5).
-
-[Rapamune 5 mg/5 ml oral solution]
-
-Sirolimus has been administered concurrently with the following agents in clinical studies: ciclosporin, azathioprine, mycophenolate mofetil, corticosteroids and cytotoxic antbodies.
-
-Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculaitis, have been associated with the administration of sirolimus (see section 4.8).
-
 [Rapamune 1 mg coated tablets]
 
-Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersentitivity vasculitis, have been associated with the administration of sirolimus (see section 4.8).
+Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (see section 4.5).
 
 Sirolimus tablets contain sucrose and lactose.
 In those patients with a history of sucrase insufficiency, isomaltase insufficiency, fructose intolerance, glucose malabsorption, galactose malabsorption, galactose intolerance (e.g., galactosemia), or Lapp lactase deficiency, a careful risk/benefit assessment should be performed prior to prescribing sirolimus tablets.
@@ -78,4 +64,4 @@ Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketocon
 
 [Rapamune 5 mg coated tablets]
 
-Rapamune has not been adequately studied in patients at high immunological risk.
+(all sentences already above)

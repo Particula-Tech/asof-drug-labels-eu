@@ -17,6 +17,7 @@ In such patients, when clinically appropriate, Rapamune should be discontinued a
 
 Use in black recipients: There is limited information indicating that black renal transplant recipients (predominantly African-American) require higher doses and trough levels of sirolimus to achieve the same efficacy as observed in non-black patients.
 Currently, the efficacy and safety data are too limited to allow specific recommendations for use of sirolimus in black recipients.
+
 Use in children and adolescents(<18 years): There is insufficient experience to recommend the use of sirolimus in children and adolescents.
 Limited pharmacokinetic information is available in children (see section 5.2).
 
@@ -52,23 +53,9 @@ Careful attention should be made to clinical signs/symptoms, tissue biopsies, an
 
 Other considerations for use: Ciclosporin (microemulsion) and other medicinal or non-medicinal products may interact with sirolimus (see section 4.5).
 
-[Rapamune 1 mg/1 ml oral solution.]
-
-Use inadults
-
-Use in children and adolescents (<18 years)s: There is insufficient experience to recommend the use of sirolimus in children and adolescents.
-
-Use in elderly patients (> 65 years): Clinical studies of Rapamune did not include a sufficient number of patients >65 years of age to determine whether they will respond differently than younger patients.
-
-[Rapamune 2 mg/2 ml oral solution]
+[Rapamune 1 mg coated tablets]
 
 Use in children and adolescents (<18 years): There is insufficient experience to recommend the use of sirolimus in children and adolescents.
-
-[Rapamune 5 mg/5 ml oral solution]
-
-(all sentences already above)
-
-[Rapamune 1 mg coated tablets]
 
 Use in elderly patients (> 65 years): Clinical studies with Rapamune oral solution did not include a sufficient number of patients > 65 years of age to determine whether they will respond differently than younger patients.
 Sirolimus trough concentration data in 35 renal transplant patients > 65 years of age were similar to those in the adult population (n = 822) from 18 to 65 years of age.

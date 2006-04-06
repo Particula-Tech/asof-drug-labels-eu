@@ -7,10 +7,9 @@ The terminal half-life in stable renal transplant patients after multiple oral d
 The effective half-life, however, is shorter and mean steady-state concentrations were achieved after 5 to 7 days.
 The blood to plasma ratio (B/P) of 36 indicates that sirolimus is extensively partitioned into formed blood elements.
 
-Pharmacokinetic parameters for sirolimus obtained from 19 renal transplant patients receiving microemulsion ciclosporin (4 hours prior to Rapamune) and corticosteroids, following daily doses of 2 mg Rapamune solution in a phase III clinical trial, were; Cmax,ss 12.2±6.2 ng/ml, tmax,ss 3.01±2.40h, AUCτ,ss 158±70 ng•h/ml, CL/F/W 182±72 ml/h/kg (parameters calculated from LC-MS/MS assay results).
+Pharmacokinetic parameters for sirolimus obtained from 19 renal transplant patients receiving microemulsion ciclosporin (4 hours prior to Rapamune) and corticosteroids, following daily doses of 2 mg Rapamune solution in a phase III clinical trial, were; Cmax,ss 12.2±6.2 ng/ml, tmax,ss 3.01±2.40h, AUCτ,ss 158± 70 ng•h/ml, CL/F/W 182±72 ml/h/kg (parameters calculated from LC-MS/MS assay results).
 There was no significant difference in any of these parameters over time up to 6 months after transplantation.
 Mean sirolimus whole blood trough levels from the same phase III trial were 9 ng/ml (5 to 14 ng/ml, immunoassay; n=226) for the 2 mg per day dose and 17 ng/ml (10 to 28 ng/ml, immunoassay; n=219) for the 5 mg per day dose.
-
 Sirolimus is a substrate for both cytochrome P450 IIIA4 (CYP3A4) and P-glycoprotein.
 Sirolimus is extensively metabolised by O-demethylation and/or hydroxylation.
 Seven major metabolites, including hydroxyl, demethyl, and hydroxydemethyl, are identifiable in whole blood.
@@ -33,18 +32,6 @@ In mild and moderate hepatically impaired patients (Child-Pugh classification of
 Sirolimus pharmacokinetics were not evaluated in patients with severe hepatic impairment.
 
 The pharmacokinetics of sirolimus were similar in various populations with renal function ranging from normal to absent (dialysis patients).
-
-[Rapamune 1 mg/1 ml oral solution.]
-
-(all sentences already above)
-
-[Rapamune 2 mg/2 ml oral solution]
-
-(all sentences already above)
-
-[Rapamune 5 mg/5 ml oral solution]
-
-(all sentences already above)
 
 [Rapamune 1 mg coated tablets]
 
