@@ -15,3 +15,5 @@ Patients with increasing alpha-fetoprotein or signs of nodules in the liver shou
 
 Platelet and white blood cell (WBC) monitoring
 It is recommended that platelet and white cell counts are monitored regularly, as a few cases of reversible trombocytopenia and leucopenia were observed during clinical evaluation.
+
+Monitoring visits should be performed every 6 months; shorter intervals between visits are recommended in case of AEs.

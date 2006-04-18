@@ -7,9 +7,9 @@ Blood and lymphatic system disorders
 Common: thrombocytopenia, leucopenia, granulocytopenia
 
 Uncommon: leucocytosis
-
 Eye disorders
 Common: conjunctivitis, corneal opacity, keratitis, photophobia, eye pain
+
 Uncommon: blepharitis
 
 Skin and subcutaneous tissue disorders
