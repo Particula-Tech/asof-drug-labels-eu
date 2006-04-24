@@ -5,7 +5,6 @@ The safety of this medicinal product for use in human pregnancy has not been est
 Evaluation of experimental animal studies has shown reproductive toxicity e.g. effects on the development of the embryo or foetus.
 Prenatal exposure of rat pups to phenylacetate (the active metabolite of phenylbutyrate) produced lesions in cortical pyramidal cells; dendritic spines were longer and thinner than normal and reduced in number.
 The significance of these data in pregnant women is not known; therefore the use of AMMONAPS is contra-indicated during pregnancy (see section 4.3.).
-
 Effective contraceptive measures must be taken by women of child-bearing potential.
 
 Lactation:

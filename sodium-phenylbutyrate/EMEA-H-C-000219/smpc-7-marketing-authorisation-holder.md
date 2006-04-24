@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Orphan Europe
-Immeuble “Le Guillaumet”
-F - 92046 Paris La Défense
-France
+Swedish Orphan International AB
+Drottninggatan 98
+SE-111 60 Stockholm
+Sweden

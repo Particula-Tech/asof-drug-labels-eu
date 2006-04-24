@@ -19,7 +19,6 @@ In patients diagnosed during gestation and treated prior to any episode of hyper
 
 In late-onset deficiency patients, including females heterozygous for ornithine transcarbamylase deficiency, who recovered from hyperammonaemic encephalopathy and were then treated chronically with dietary protein restriction and AMMONAPS, the survival rate was 98 %.
 The majority of these patients tested had IQ’s in the average to low average/borderline mentally retarded range and cognitive performance remained relatively stable during phenylbutyrate therapy.
-
 Reversal of pre-existing neurologic impairment is not likely to occur with treatment, and neurologic deterioration may continue in some patients.
 
 AMMONAPS may be required life-long unless orthotopic liver transplantation is elected.
