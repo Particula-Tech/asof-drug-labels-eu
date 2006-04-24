@@ -13,8 +13,8 @@ Prescribing physicians should ensure that patients with IgE below 76 IU/ml have 
 See Table 1 for a conversion chart and Tables 2 and 3 for the dose determination charts.
 
 Patients whose baseline IgE levels or body weight in kilograms are outside the limits of the dosing table should not be given Xolair.
-The maximum recommended dose is 375 mg omalizumab every two weeks.
 
+The maximum recommended dose is 375 mg omalizumab every two weeks.
 For subcutaneous administration only.
 Do not administer by the intravenous or intramuscular route.
 
@@ -29,7 +29,6 @@ For information on reconstitution of Xolair, see section 6.6.
 Table 1: Conversion from dose to number of vials, number of injections and total injection volume for each administration
 
 Dose (mg) Number of vials Number of injections Total injection volume (ml)
-
 75 mg a 150 mg b
 
 75 1c 0 1 0.6
@@ -54,20 +53,20 @@ IgE >90- >125-
 >200–300 150 150 225 300 300
 >300–400 225 225 300
 >400–500 225 300 ADMINISTRATION EVERY 2 WEEKS
->500–600 300 300 SEE TABLE 3
+SEE TABLE 3
+>500–600 300 300
 >600–700 300
 
 Table 3: ADMINSTRATION EVERY 2 WEEKS.
 Xolair doses (milligrams per dose) administered by subcutaneous injection every 2 weeks
 
-|  | Body weight (kg) |
-| --- | --- |
-| Baseline | >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 >90- >125- |
-
-IgE 125 150
-(IU/ml)
+Body weight (kg)
+Baseline
+IgE >90- >125-
+(IU/ml) >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150
 ≥30–100 ADMINISTRATION EVERY 4 WEEKS
->100–200 SEE TABLE 2 225 300
+SEE TABLE 2
+>100–200 225 300
 >200–300 225 225 225 300 375
 >300–400 225 225 225 300 300
 >400–500 225 225 300 300 375 375

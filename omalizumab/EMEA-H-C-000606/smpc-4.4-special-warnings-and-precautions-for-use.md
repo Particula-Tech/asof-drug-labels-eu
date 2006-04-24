@@ -2,8 +2,8 @@
 
 General
 Xolair is not indicated for the treatment of acute asthma exacerbations, acute bronchospasm or status asthmaticus.
-
 Xolair has not been studied in patients with hyperimmunoglobulin E syndrome or allergic bronchopulmonary aspergillosis or for the prevention of anaphylactic reactions, including those provoked by food allergy.
+
 Xolair therapy has not been studied in patients with autoimmune diseases, immune complex-mediated conditions, or pre-existing renal or hepatic impairment.
 Caution should be exercised when administering Xolair in these patient populations.
 

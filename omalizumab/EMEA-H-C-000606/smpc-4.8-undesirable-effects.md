@@ -16,9 +16,8 @@ Table 4: Adverse reactions
 | Respiratory, thoracic and mediastinal disorders Uncommon Rare | Pharyngitis, coughing, allergic bronchospasm Laryngoedema |
 | Gastrointestinal disorders Uncommon | Nausea, diarrhoea, dyspeptic signs and symptoms |
 | Skin and subcutaneous tissue disorders Uncommon Rare | Urticaria, rash, pruritus, photosensitivity Angioedema |
-| General disorders and |  |
+| General disorders and administration site conditions |  |
 
-administration site conditions
 Common Injection site reactions such as pain, erythema, pruritus, swelling
 Uncommon Weight increase, fatigue, swelling arms, influenza-like illness
 
@@ -33,3 +32,15 @@ No pattern of persistent decrease in platelet counts, as observed in non-human p
 Parasitic infections
 In patients at chronic high risk of helminth infection, a placebo-controlled trial showed a slight numerical increase in infection rate with omalizumab that was not statistically significant.
 The course, severity, and response to treatment of infections was unaltered (see section 4.4).
+
+[Xolair 150 mg powder and solvent for solution for injection]
+
+| Infections and infestations Rare | Parasitic infection |
+| --- | --- |
+| Immune system disorders Rare | Anaphylactic reaction, other serious allergic conditions |
+| Nervous system disorders Common Uncommon | Headache Dizziness, somnolence, paraesthesia, syncope |
+| Vascular disorders Uncommon | Postural hypotension, flushing |
+| Respiratory, thoracic and mediastinal disorders Uncommon Rare | Pharyngitis, coughing, allergic bronchospasm Laryngoedema |
+| Gastrointestinal disorders Uncommon | Nausea, diarrhoea, dyspeptic signs and symptoms |
+| Skin and subcutaneous tissue disorders Uncommon Rare | Urticaria, rash, pruritus, photosensitivity Angioedema |
+| General disorders and administration site conditions Common Uncommon | Injection site reactions such as pain, erythema, pruritus, swelling Weight increase, fatigue, swelling arms, influenza-like illness |
