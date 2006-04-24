@@ -1,10 +1,10 @@
 # 6.1 List of excipients
 
-Powder vial: mannitol, sodium citrate
-Solvent ampoule: water for injections
+Powder vial: Mannitol
+Sodium citrate
+Solvent ampoule: Water for injections
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 
 Mannitol
-Sodium citrate
 Water for injections

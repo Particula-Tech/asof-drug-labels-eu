@@ -2,25 +2,24 @@
 
 Frequencies of adverse reactions for Zometa 4 mg are mainly based on data collection from chronic treatment.
 Adverse reactions to Zometa are similar to those reported for other bisphosphonates and can be expected to occur in approximately one third of patients.
-Intravenous administration has been most commonly associated with a flu-like syndrome in about 9 % of patients, including bone pain (9.1 %), fever (7.2 %), fatigue (4.1 %) and rigors (2.9 %).
-Occasionally cases of arthralgia and myalgia in approximately 3 % have been reported.
+Intravenous administration has been most commonly associated with a flu-like syndrome in about 9% of patients, including bone pain (9.1%), fever (7.2%), fatigue (4.1%) and rigors (2.9%).
+Occasionally cases of arthralgia and myalgia in approximately 3% have been reported.
 No information is available on the reversibility of these adverse effects.
 
-Frequently, the reduction in renal calcium excretion is accompanied by a fall in serum phosphate levels (in approximately 20 % of patients), which is asymptomatic not requiring treatment.
-The serum calcium may fall to asymptomatic hypocalcaemic levels in approximately 3 % of patients.
+Frequently, the reduction in renal calcium excretion is accompanied by a fall in serum phosphate levels (in approximately 20% of patients), which is asymptomatic not requiring treatment.
+The serum calcium may fall to asymptomatic hypocalcaemic levels in approximately 3% of patients.
 
-Gastrointestinal reactions, such as nausea (5.8 %) and vomiting (2.6 %) have been reported following intravenous infusion of Zometa.
-Occasionally local reactions at the infusion site such as redness or swelling and/or pain were also observed in less than 1 % of the patients.
+Gastrointestinal reactions, such as nausea (5.8%) and vomiting (2.6%) have been reported following intravenous infusion of Zometa.
+Occasionally local reactions at the infusion site such as redness or swelling and/or pain were also observed in less than 1% of the patients.
 
-Anorexia was reported in 1.5 % of patients treated with Zometa 4 mg.
+Anorexia was reported in 1.5% of patients treated with Zometa 4 mg.
+Few cases of rash or pruritus have been observed (below 1%).
 
-Few cases of rash or pruritus have been observed (below 1 %).
+As with other bisphosphonates, cases of conjunctivitis in approximately 1% have been reported.
 
-As with other bisphosphonates, cases of conjunctivitis in approximately 1 % have been reported.
+There have been some reports of impaired renal function (2.3%), although the aetiology appears to be multifactorial in many cases.
 
-There have been some reports of impaired renal function (2.3 %), although the aetiology appears to be multifactorial in many cases.
-
-Based on pooled analysis of placebo controlled studies, severe anaemia (Hb < 8.0 g/dl) was reported in 5.2 % of patients receiving Zometa 4 mg versus 4.2 % on placebo.
+Based on pooled analysis of placebo controlled studies, severe anaemia (Hb < 8.0 g/dl) was reported in 5.2% of patients receiving Zometa 4 mg versus 4.2% on placebo.
 
 The following adverse drug reactions, listed in Table 1, have been accumulated from clinical studies following predominantly chronic treatment with zoledronic acid:
 
@@ -69,9 +68,11 @@ macular rash), increased sweating
 Musculoskeletal, connective tissue and bone disorders
 
 Common: Bone pain, myalgia, arthralgia, generalised
-Uncommon: pain
 
-Muscle cramps
+pain
+
+Uncommon: Muscle cramps
+
 Cardiovascular disorders
 
 Uncommon: Hypertension, hypotension
@@ -110,10 +111,9 @@ Postmarketing: Rare cases of osteonecrosis (primarily of the jaws) have been rep
 Many had signs of local infection including osteomyelitis.
 The majority of the reports refer to cancer patients following tooth extractions or other dental surgeries.
 Osteonecrosis of the jaws has multiple well documented risk factors including a diagnosis of cancer, concomitant therapies (e.g. chemotherapy, radiotherapy, corticosteroids) and co-morbid conditions (e.g. anaemia, coagulopathies, infection, pre-existing oral disease).
-Although causality cannot be determined, it is prudent to avoid dental surgery as recovery may be prolonged (see section 4.4,
-“Special warnings and special precautions for use”).
+Although causality cannot be determined, it is prudent to avoid dental surgery as recovery may be prolonged (see section 4.4).
 In very rare cases, hypotension led to syncope or circulatory collapse, primarily in patients with underlying risk factors.
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 
-Based on pooled analysis of placebo-controlled studies, severe anaemia (Hb < 8.0 g/dl) was reported in 5.2 % of patients receiving Zometa 4 mg versus 4.2 % on placebo.
+Based on pooled analysis of placebo-controlled studies, severe anaemia (Hb < 8.0 g/dl) was reported in 5.2% of patients receiving Zometa 4 mg versus 4.2% on placebo.
