@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Clinically unstable APL patients are especially at risk and will require more frequent monitoring of electrolyte and glycaemia levels as well as more frequent haematologic, hepatic, renal and coagulation parameter tests.
 

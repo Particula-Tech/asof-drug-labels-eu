@@ -1,6 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Cell Therapeutics (UK) Limited
-100 Pall Mall
-London SW1Y 5HP-UK
+Cephalon UK Ltd
+20 Alan Turing Road
+Surrey Research Park
+Guildford, Surrey GU2 7YF
 United Kingdom
