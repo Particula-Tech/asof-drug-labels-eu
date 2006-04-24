@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic Group: other antineoplastic agents ATC code: L01XX25
+Pharmacotherapeutic Group: other antineoplastic agents, ATC code: L01XX25
 
 Bexarotene is a synthetic compound that exerts its biological action through selective binding and activation of the three RXRs: α, β, and γ.
 Once activated, these receptors function as transcription factors that regulate processes such as cellular differentiation and proliferation, apoptosis, and insulin sensitisation.

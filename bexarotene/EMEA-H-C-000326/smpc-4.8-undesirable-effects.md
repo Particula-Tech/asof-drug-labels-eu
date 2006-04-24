@@ -2,114 +2,116 @@
 
 The safety of bexarotene has been examined in clinical studies of 193 patients with CTCL who received bexarotene for up to 118 weeks and in 420 non-CTCL cancer patients in other studies.
 
-In 109 patients with CTCL treated at an initial dose of 300 mg/m2/day, the most commonly reported adverse drug reactions were hyperlipaemia ((primarily elevated triglycerides) 74%), hypothyroidism (29%), hypercholesterolaemia (28%), headache (27%), leucopenia (20%), pruritus (20%), asthenia (19%), rash (16%), exfoliative dermatitis (15%), and pain (12%).
+In 109 patients with CTCL treated at the recommended initial dose of 300 mg/m2/day, the most commonly reported adverse reactions to Targretin were hyperlipaemia ((primarily elevated triglycerides) 74%), hypothyroidism (29%), hypercholesterolaemia (28%), headache (27%), leucopenia (20%), pruritus (20%), asthenia (19%), rash (16%), exfoliative dermatitis (15%), and pain (12%).
 
-The following drug-related adverse reactions were reported during clinical studies in patients with CTCL (N=109) treated at an initial dose of 300 mg/m2/day.
-The frequency of adverse reactions are classified as very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100), rare (>1/10,000, <1/1,000), and very rare (<1/10,000).
+The following Targretin-related adverse reactions were reported during clinical studies in patients with CTCL (N=109) treated at the recommended initial dose of 300 mg/m2/day.
+The frequencies of adverse reactions are classified as very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100), rare (>1/10,000, <1/1,000), and very rare (<1/10,000).
 
-Haemic & Lymphatic
-Very common: leucopenia
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Common: hypochromic anaemia, lymphadenopathy, lymphoma like reaction
-Uncommon: anaemia, blood dyscrasia, coagulation disorder, increased coagulation
+Blood and lymphatic system disorders
+Very common: Leucopenia
 
-time, eosinophilia, leukocytosis, lymphocytosis, purpura, thrombocythaemia, thrombocytopenia
+Common: Lymphoma Like Reaction, Lymphadenopathy, Hypochromic Anaemia1,2,3,
+Uncommon: Blood Dyscrasia, Purpura, Coagulation Disorder, Coagulation Time Increased2,3,
 
-Endocrine
-Very common: hypothyroidism
+Anaemia1, Thrombocytopenia3, Thrombocythemia, Eosinophilia1, Leukocytosis2, Lymphocytosis
 
-Common: thyroid disorder
-Uncommon: hyperthyroidism
+Endocrine disorders
+Very common: Hypothyroidism
 
-Metabolic & Nutrition
-Very common: hyperlipaemia, hypercholesterolaemia
+Common: Thyroid Disorder
+Uncommon: Hyperthyroidism
 
-Common: increased SGOT, increased SGPT, increased lactic dehydrogenase,
+Metabolism and nutrition disorders
+Very common: Hyperlipaemia, Hypercholesterolaemia
 
-increased creatinine, hypoproteinaemia, weight gain
+Common: Weight Gain, SGOT Increased, SGPT Increased, Lactic Dehydrogenase
 
-Uncommon: bilirubinaemia, increased blood urea nitrogen, gout, decreased High
+Increased, Creatinine Increased, Hypoproteinaemia,
 
-Density Lipoprotein
+Uncommon: Gout, Bilirubinemia1,3, BUN Increased1, High Density Lipoprotein Decreased
 
-Nervous system
+Nervous system disorders
 
-Common: insomnia, dizziness, hypesthesia
-Uncommon: agitation, ataxia, depression, hyperaesthesia, neuropathy, vertigo
+Common: Dizziness, Hypesthesia, Insomnia
+Uncommon: Ataxia, Neuropathy, Vertigo, Hyperaesthesia, Depression1,2,3, Agitation
 
-Special senses
+Eye disorders
 
-Common: dry eyes, deafness, eye disorder
-Uncommon: abnormal vision, amblyopia, blepharitis, specified cataract,
+Common: Dry Eyes, Eye Disorder
+Uncommon: Cataract Specified1,2,3, Amblyopia3, Visual Field Defect, Corneal Lesion,
 
-conjunctivitis, corneal lesion, ear disorder, visual field defect
+Abnormal Vision1,2,3, Blepharitis, Conjunctivitis3
 
-Cardiovascular
+Ear and labyrinth disorders
 
-Common: peripheral oedema
-Uncommon: oedema, hemorrhage, hypertension, tachycardia, varicose vein,
+Common: Deafness
+Uncommon: Ear disorder
 
-vasodilatation
+Cardiac disorders
 
-Digestive
+Uncommon: Tachycardia
 
-Common: nausea, diarrhoea, dry mouth, cheilitis, anorexia,constipation,
+Vascular disorders
 
-flatulence, abnormal liver function tests, vomiting
+Common: Peripheral Oedema
+Uncommon: Haemorrhage, Hypertension, Oedema3, Vasodilatation1,2,3, Varicose Vein
 
-Uncommon: gastrointestinal disorder, hepatic failure, pancreatitis
+Gastrointestinal disorders
 
-Skin & appendages
-Very common: pruritus, rash, exfoliative dermatitis
+Common: Vomiting, Diarrhoea1,3, Nausea3, Anorexia1, Liver Function Tests Abnormal,
 
-Common: dry skin, skin disorder, alopecia, skin ulcer, acne, skin hypertrophy,
+Cheilitis2, Dry Mouth2,3, Constipation, Flatulence,
 
-skin nodule, sweating
+Uncommon: Pancreatitis1,3, Hepatic Failure, Gastrointestinal Disorder1
 
-Uncommon: hair disorder, herpes simplex, nail disorder, pustular rash, serous
+Skin and subcutaneous tissue disorders
+Very common: Exfoliative Dermatitis, Pruritus, Rash
 
-drainage, skin discoloration
+Common: Skin Ulcer, Alopecia1, Skin Hypertrophy, Skin Nodule, Acne, Sweating, Dry
 
-Musculoskeletal
+Skin2,3, Skin Disorder
 
-Common: arthralgia, bone pain, myalgia
-Uncommon: myasthenia
+Uncommon: Serous Drainage1, Herpes Simplex, Pustular Rash, Skin Discoloration3 Hair
 
-Urogenital
+Disorder1, Nail Disorder1,3
 
-Uncommon: albuminuria, abnormal kidney function
+Musculoskeletal and connective tissue disorders
 
-Body as a whole
-Very common: headache, asthenia, pain
+Common: Bone Pain, Arthralgia, Myalgia
+Uncommon: Myasthaenia1
 
-Common: altered hormone level, chills, abdominal pain, allergic reaction,
+Renal and urinary disorders
 
-infection
+Uncommon: Albuminuria1,3, Kidney Function Abnormal
 
-Uncommon: back pain, cellulitis, fever, parasitic infection, abnormal lab test,
+General Disorders and administration site conditions
+Very common: Pain, Headache, Asthaenia
 
-mucous membrane disorder, neoplasm
+Common: Allergic Reaction, Infection, Chills1, Abdominal Pain, Hormone Level Altered1
+Uncommon: Neoplasm, Fever1,2,3, Cellulitis, Infection Parasitic, Mucous Membrane
 
-The following adverse reactions were noted with increased frequency when bexarotene was administered at a dose >300 mg/m2/day (CTCL): anaemia, hypochromic anaemia, eosinophilia, bilirubinaemia, increased blood urea nitrogen, depression, abnormal vision, specified cataract, vasodilatation, diarrhoea, anorexia, pancreatitis, gastrointestinal disorder, alopecia, serous drainage, hair disorder, nail disorder, myasthenia, albuminuria, chills, altered hormone level, back pain and fever.
+Disorder3, Back Pain1,2,3, Lab Test Abnormal
 
-Additional adverse reactions were also noted when bexarotene was administered at a dose >300 mg/m2/day (CTCL): abnormal white blood cells, increased gonadotrophic luteinizing hormone, weight loss, increased alkaline phosphatase, increased creatinine phosphokinase, somnolence, hypertonia, decreased libido, nervousness, lacrimation disorder, night blindness, tinnitus, dyspnoea, sinusitis, dyspepsia, maculopapular rash and flu syndrome.
-In non-CTCL cancer patients the following adverse reactions were noted with increased frequency when bexarotene was administered at a dose of 300 mg/m2/day: anaemia, increased coagulation time, leucocytosis, depression, abnormal vision, specified cataract, vasodilatation, cheilitis, dry mouth, dry skin, back pain and fever.
-The following additional reactions were also noted: paraesthesia, dyspnoea, pharyngitis, thirst, maculopapular rash and chest pain.
+1: adverse reactions noted with increased frequency when bexarotene was administered at a dose >300mg/m2/day.
+2: adverse reactions noted with increased frequency when bexarotene was administered at a dose of 300 mg/m2/day in non-CTCL cancer patients.
+3: adverse reactions noted with increased frequency when bexarotene was administered at a dose of >300 mg/m2/day (compared to administration to CTCL patients at 300 mg/m2/day) in non-CTCL cancer patients.
 
-In non-CTCL cancer patients the following adverse reactions were noted with increased frequency when bexarotene was administered at a dose of >300 mg/m2/day (compared to administration to CTCL patients at 300 mg/m2/day): anaemia, increased coagulation time, thrombocytopenia, bilirubinaemia, depression, amblyopia, abnormal vision, specified cataract, conjunctivitis, vasodilatation, oedema, nausea, diarrhoea, dry mouth, pancreatitis, dry skin, nail disorder, skin discolouration, albuminuria, fever, back pain and mucous membrane disorder.
+Additional adverse reactions observed when used outside of the recommended dose and indication (i.e. used in CTCL at an initial dose >300mg/m2/day or in non-CTCL cancer indications):
 
-The following additional adverse reactions were also noted in non-CTCL cancer patients when bexarotene was administered at a dose >300 mg/m2/day: decreased thromboplastin, ecchymosis, abnormal erythrocytes, petechia, abnormal white blood cells, increased alkaline phosphatase, weight loss, hypercalcaemia, increased creatine phosphokinase, increased lipase, dehydration, anxiety, confusion, paraesthesia, peripheral neuritis, nystagmus, nervousness, somnolence, emotional lability, taste perversion, migraine, arrhythmia, peripheral vascular disorder, dyspnoea, increased cough, haemoptysis, pharyngitis, mouth ulceration, stomatitis, abnormal stools, dyspepsia, dysphagia, eructation, oral moniliasis, maculopapular rash, vesicobullous rash, leg cramps, haematuria, chest pain, pelvic pain, body odour and generalised oedema.
+Newly observed adverse reactions: ecchymosis, petechia, abnormal white blood cells, thromboplastin decreased, abnormal erythrocytes, dehydration, increased gonadotrophic luteinizing hormone, weight loss, increased alkaline phosphatase, increased creatinine phosphokinase, lipase increased, hypercalcaemia, migraine, peripheral neuritis, paraesthesia, hypertonia, confusion, anxiety, emotional lability, somnolence, decreased libido, nervousness, night blindness, nystagmus, lacrimation disorder, tinnitus, taste perversion, chest pain, arrhythmia, peripheral vascular disorder, generalized oedema, haemoptysis, dyspnoea, increased cough, sinusitis, pharyngitis, dysphagia, mouth ulceration, oral moniliasis, stomatitis, dyspepsia, thirst, abnormal stools, eructation, vesicobullous rash, maculopapular rash, leg cramps, haematuria, flu syndrome, pelvic pain, and body odour.
 
-At doses of 300 mg/m2/day (non-CTCL) there were also isolated reports (single patient reports) of the following: abnormal white blood cells, increased creatine phosphokinase, hyponatraemia, weight loss, circumoral paraesthesia, taste perversion, palpitation, epistaxis, pneumonia, respiratory disorder, abnormal stools, dyspepsia, increased appetite, psoriasis and carcinoma.
+Single observations of the following were also reported: bone marrow depression, decreased prothrombin, decreased gonadotrophic luteinizing hormone, increased amylase, hyponatraemia, hypokalaemia, hyperuricaemia, hypocholesterolaemia, hypolipaemia, hypomagnesaemia, abnormal gait, stupor, circumoral paraesthesia, abnormal thinking, eye pain, hypovolaemia, subdural haematoma, congestive heart failure, palpitation, epistaxis, vascular anomaly, vascular disorder, pallor, pneumonia, respiratory disorder, lung disorder, pleural disorder, cholecystitis, liver damage, jaundice, cholestatic jaundice, melaena, vomiting, laryngismus, tenesmus, rhinitis, increased appetite, gingivitis, herpes zoster, psoriasis, furunculosis, contact dermatitis, seborrhoea, lichenoid dermatitis, arthritis, joint disorder, urinary retention, impaired urination, polyuria, nocturia, impotence, urine abnormality, breast enlargement, carcinoma, photosensitivity reaction, face oedema, malaise, viral infection, enlarged abdomen.
 
-With increased dosage (>300 mg/m2/day, CTCL and non-CTCL), there were also isolated reports (single patient reports) of the following: bone marrow depression, decreased prothrombin, decreased gonadotrophic luteinizing hormone, dehydration, hypokalaemia, increased amylase, hyperuricaemia, hypocholesterolaemia, hypolipaemia, hypomagnesaemia, hyponatraemia, hypovolaemia, abnormal gait, confusion, stupor, abnormal thinking, decreased libido, subdural haematoma, taste perversion, eye pain, congestive heart failure, pallor, vascular anomaly, vascular disorder, laryngismus, pneumonia, rhinitis, lung disorder, pleural disorder, cholestatic jaundice, abnormal stools, dysphagia, eructation, jaundice, liver damage, cholecystitis, gingivitis, melaena, nausea and vomiting, tenesmus, thirst, herpes zoster, seborrhoea, contact dermatitis, furunculosis, lichenoid dermatitis, arthritis, joint disorder, leg cramps, polyuria, breast enlargement, impotence, nocturia, urinary retention, impaired urination, urine abnormality, malaise, viral infection, chest pain, generalized oedema, enlarged abdomen, face oedema and photosensitivity reaction.
-
-The majority of adverse reactions were noted at a higher incidence at doses greater than 300 mg/m2/day.
-Generally, these resolved without sequelae on dose reduction or drug withdrawal.
-However, among a total of 810 patients including those without malignancy treated with bexarotene, there were three serious adverse reactions with fatal outcome (acute pancreatitis, subdural haematoma and liver failure).
+The majority of adverse reactions were noted at a higher incidence at doses greater than
+300 mg/m2/day.
+Generally, these resolved without sequelae on dose reduction or withdrawal of treatment.
+However, among a total of 810 patients, including those without malignancy, treated with bexarotene, there were three serious adverse reactions with fatal outcome (acute pancreatitis, subdural haematoma and liver failure).
 Of these, liver failure, subsequently determined to be not related to bexarotene, was the only one to occur in a CTCL patient.
 
 Hypothyroidism generally occurs 4-8 weeks after commencement of therapy.
-It may be asymptomatic and responds to treatment with thyroxine and resolves upon drug withdrawal.
-Bexarotene has a different adverse reaction profile to other oral, non-retinoid X receptor (RXR) -selective retinoid drugs.
+It may be asymptomatic and responds to treatment with thyroxine and resolves upon withdrawal of treatment.
+
+Bexarotene has a different adverse reaction profile to other oral, non-retinoid X receptor (RXR) - selective retinoids.
 Owing to its primarily RXR-binding activity, bexarotene is less likely to cause mucocutaneous, nail, and hair toxicities; arthralgia; and myalgia; which are frequently reported with retinoic acid receptor (RAR) -binding agents.

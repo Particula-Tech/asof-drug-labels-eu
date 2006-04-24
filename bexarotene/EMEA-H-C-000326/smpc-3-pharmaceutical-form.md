@@ -1,5 +1,5 @@
 # 3. PHARMACEUTICAL FORM
 
-Soft capsule
+Soft capsule.
 
-Off-white capsule, containing a liquid suspension and imprinted with “Targretin”
+Off-white capsule, containing a liquid suspension and imprinted with “Targretin”.

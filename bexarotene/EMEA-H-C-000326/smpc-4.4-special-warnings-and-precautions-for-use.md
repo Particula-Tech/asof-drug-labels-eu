@@ -1,20 +1,21 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 General: Targretin capsules should be used with caution in patients with a known hypersensitivity to retinoids.
 No clinical instances of cross-reactivity have been noted.
 Patients receiving bexarotene should not donate blood for transfusion.
+Butylated hydroxyanisole, an ingredient in Targretin, may cause irritation to the mucous membranes, therefore the capsules must be swallowed intact and not chewed.
+
 Lipids: hyperlipidaemia has been identified as an effect associated with the use of bexarotene in clinical studies.
 Fasting blood lipid determinations (triglycerides and cholesterol) should be performed before bexarotene therapy is initiated and at weekly intervals until the lipid response to bexarotene is established, which usually occurs within two to four weeks, and then at intervals no less than monthly thereafter.
 Fasting triglycerides should be normal or normalised with appropriate intervention prior to bexarotene therapy.
 Every attempt should be made to maintain triglyceride levels below 4.52 mmol/l in order to reduce the risk of clinical sequelae.
 If fasting triglycerides are elevated or become elevated during treatment, institution of antilipaemic therapy is recommended, and if necessary, dose reductions (from 300 mg/m2/day of bexarotene to 200 mg/m2/day, and if necessary to 100 mg/m2/day) or treatment discontinuation.
 Data from clinical studies indicate that bexarotene concentrations were not affected by concomitant administration of atorvastatin.
-However, concomitant administration of gemfibrozil resulted in substantial increases in plasma concentrations of bexarotene and therefore, concomitant administration of gemfibrozil with bexarotene is not recommended (see 4.5).
+However, concomitant administration of gemfibrozil resulted in substantial increases in plasma concentrations of bexarotene and therefore, concomitant administration of gemfibrozil with bexarotene is not recommended (see section 4.5).
 Elevations of serum cholesterol should be managed according to current medical practice.
 
 Pancreatitis: acute pancreatitis associated with elevations of fasting serum triglycerides has been reported in clinical studies.
 Patients with CTCL having risk factors for pancreatitis (e.g., prior episodes of pancreatitis, uncontrolled hyperlipidaemia, excessive alcohol consumption, uncontrolled diabetes mellitus, biliary tract disease, and medications known to increase triglyceride levels or to be associated with pancreatic toxicity) should not be treated with bexarotene, unless the potential benefit outweighs the risk.
-
 Liver Function Test (LFT) abnormalities: LFT elevations associated with the use of bexarotene have been reported.
 Based on data from ongoing clinical trials, elevation of LFTs resolved within one month in 80% of patients following a decrease in dose or discontinuation of therapy.
 Baseline LFTs should be obtained, and LFTs should be carefully monitored weekly during the first month and then monthly thereafter.
@@ -47,4 +48,4 @@ Photosensitivity: the use of some retinoids has been associated with photosensit
 Patients should be advised to minimise exposure to sunlight and avoid sun lamps during therapy with bexarotene, as in vitro data indicate that bexarotene may potentially have a photosensitising effect.
 
 Oral contraceptives: bexarotene can potentially induce metabolic enzymes and thereby theoretically reduce the efficacy of oestroprogestive contraceptives.
-Thus, if treatment with bexarotene is intended in a woman of child-bearing potential, a reliable, non-hormonal form of contraception is also required, because bexarotene belongs to a therapeutic class for which the human malformative risk is high.
+Thus, if treatment with bexarotene is intended in a woman of childbearing potential, a reliable, non-hormonal form of contraception is also required, because bexarotene belongs to a therapeutic class for which the human malformative risk is high.

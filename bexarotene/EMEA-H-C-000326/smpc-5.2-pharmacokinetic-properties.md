@@ -8,6 +8,7 @@ At the recommended initial daily-dose level (300 mg/m2), single-dose and repeate
 
 Protein binding/distribution: bexarotene is highly bound (>99%) to plasma proteins.
 The uptake of bexarotene by organs or tissues has not been evaluated.
+
 Metabolism: bexarotene metabolites in plasma include 6- and 7-hydroxy-bexarotene and 6- and 7-oxo-bexarotene.
 In vitro studies suggest glucuronidation as a metabolic pathway, and that cytochrome P450 3A4 is the major cytochrome P450 isozyme responsible for formation of the oxidative metabolites.
 Based on the in vitro binding and the retinoid receptor activation profile of the metabolites, and on the relative amounts of individual metabolites in plasma, the metabolites have little impact on the pharmacological profile of retinoid receptor activation by bexarotene.
