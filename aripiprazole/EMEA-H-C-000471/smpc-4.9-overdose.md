@@ -6,7 +6,6 @@ The reported signs and symptoms observed with aripiprazole overdose included nau
 During post-marketing experience, the potentially clinically important signs and symptoms observed in adult patients who overdosed with aripiprazole alone at doses up to 1,260 mg included lethargy, increased blood pressure, somnolence, tachycardia and vomiting.
 In addition, reports of accidental overdose with aripiprazole alone (up to 195 mg) in children have been received.
 The potentially medically serious signs and symptoms reported included extrapyramidal symptoms and transient loss of consciousness.
-
 Management of overdose should concentrate on supportive therapy, maintaining an adequate airway, oxygenation and ventilation, and management of symptoms.
 The possibility of multiple drug involvement should be considered.
 Therefore cardiovascular monitoring should be started immediately and should include continuous electrocardiographic monitoring to detect possible arrhythmias.
@@ -43,3 +42,10 @@ In clinical trials, accidental or intentional acute overdosage of aripiprazole w
 [ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+In clinical studies, accidental or intentional acute overdosage of aripiprazole was identified in patients with estimated doses up to 1,080 mg with no fatalities.
+
+During post-marketing experience, the reported signs and symptoms observed in adult patients who overdosed with aripiprazole alone at doses up to 450 mg included tachycardia and vomiting.
+In addition, reports of accidental overdose with aripiprazole (up to 195 mg) in children have been received.

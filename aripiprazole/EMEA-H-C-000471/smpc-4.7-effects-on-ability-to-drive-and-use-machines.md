@@ -30,3 +30,7 @@ However, as with other antipsychotics, patients should be cautioned about operat
 [ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+(all sentences already above)

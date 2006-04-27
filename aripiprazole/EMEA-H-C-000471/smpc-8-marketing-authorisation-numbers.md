@@ -29,3 +29,7 @@ EU/1/04/276/027-029
 [ABILIFY 30 mg orodispersible tablets]
 
 EU/1/04/276/030-032
+
+[ABILIFY 1 mg/ml oral solution]
+
+EU/1/04/276/033-035

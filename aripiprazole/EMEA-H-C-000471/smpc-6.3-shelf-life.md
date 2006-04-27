@@ -16,7 +16,7 @@
 
 [ABILIFY 5 mg orodispersible tablets]
 
-18 months
+36 months
 
 [ABILIFY 10 mg orodispersible tablets]
 
@@ -29,3 +29,8 @@
 [ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+2 years
+After first opening: 6 months.

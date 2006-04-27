@@ -16,7 +16,7 @@
 
 [ABILIFY 5 mg orodispersible tablets]
 
-{month year}
+(all sentences already above)
 
 [ABILIFY 10 mg orodispersible tablets]
 
@@ -29,3 +29,7 @@
 [ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+First authorisation: 4 June 2004

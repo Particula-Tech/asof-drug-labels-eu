@@ -29,3 +29,7 @@ Aripiprazole is indicated for the treatment of schizophrenia.
 [ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+(all sentences already above)

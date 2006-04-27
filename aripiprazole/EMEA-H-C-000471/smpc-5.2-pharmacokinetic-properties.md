@@ -69,3 +69,13 @@ Aripiprazole orodispersible tablets may be used as an alternative to aripiprazol
 [ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+At therapeutic concentrations, aripiprazole and dehydro-aripiprazole are greater than 99% bound to serum proteins, binding primarily to albumin.
+
+Oral Solution
+Aripiprazole is well absorbed when administered orally as the solution.
+At equivalent doses, the peak plasma concentrations of aripiprazole (Cmax) from the solution were somewhat higher but the systemic exposure (AUC) was equivalent to tablets.
+In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to the tablet ratio of geometric mean Cmax values was 122% (N = 30).
+The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional.

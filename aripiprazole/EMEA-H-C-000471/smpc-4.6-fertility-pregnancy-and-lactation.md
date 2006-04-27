@@ -29,7 +29,7 @@ Patients should be advised not to breast feed if they are taking aripiprazole.
 
 [ABILIFY 10 mg orodispersible tablets]
 
-There are no adequate and well-controlled studies of aripiprazole in pregnant women.
+(all sentences already above)
 
 [ABILIFY 15 mg orodispersible tablets]
 
@@ -38,3 +38,7 @@ There are no adequate and well-controlled studies of aripiprazole in pregnant wo
 [ABILIFY 30 mg orodispersible tablets]
 
 (all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+There are no adequate and well-controlled studies of aripiprazole in pregnant women.
