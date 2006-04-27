@@ -8,13 +8,23 @@ Body as a whole – general disorders Common Headache
 Uncommon Fatigue
 Psychiatric disorders Common Somnolence
 Uncommon Confusion
-Uncommon Hallucinations*
+Uncommon Hallucinations1
+Not known Psychotic reactions2
 Gastro-intestinal system disorders Common Constipation
 Uncommon Vomiting
+Not known Pancreatitis2
 Central & Peripheral nervous system Common Dizziness
 disorders Uncommon Gait abnormal
 Very rare Seizures
 
-Adverse reactions are ranked according to system organ class, using the following convention: very common (> 1/10), common (>1/100 and < 1/10), uncommon (> 1/1,000 and < 1/100), rare (>1/10,000 and < 1/1,000), very rare (< 1/10,000) including isolated reports.
+Adverse reactions are ranked according to system organ class, using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥ 1/1,000 to ≤ 1/100), rare (≥1/10,000 to ≤ 1/1,000), very rare (≤ 1/10,000, not known (cannot be estimated from the available data)
 
-*Hallucinations have mainly been observed in patients with severe Alzheimer´s disease.
+1 Hallucinations have mainly been observed in patients with severe Alzheimer´s disease.
+2 Isolated cases reported in post-marketing experience
+
+Alzheimer’s disease has been associated with depression, suicidal ideation and suicide.
+In post-marketing experience these events have been reported in patients treated with memantine.
+
+[Ebixa 10 mg/g oral drops, solution.]
+
+Adverse reactions are ranked according to system organ class, using the following convention: very common (≥ 1/10), common (≥1/100 to < 1/10), uncommon (≥ 1/1,000 to ≤ 1/100), rare (≥1/10,000 to ≤ 1/1,000), very rare (≤ 1/10,000), not known (cannot be estimated from the available data)

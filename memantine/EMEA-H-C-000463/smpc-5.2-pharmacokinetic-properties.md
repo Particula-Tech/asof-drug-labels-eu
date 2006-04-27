@@ -4,7 +4,6 @@ Absorption: Memantine has an absolute bioavailability of approximately 100%. tma
 There is no indication that food influences the absorption of memantine.
 
 Linearity: Studies in volunteers have demonstrated linear pharmacokinetics in the dose range of 10 to 40 mg.
-
 Distribution: Daily doses of 20 mg lead to steady-state plasma concentrations of memantine ranging from 70 to 150 ng/mL (0.5 - 1 µmol) with large interindividual variations.
 When daily doses of 5 to 30 mg were administered, a mean CSF/serum ratio of 0.52 was calculated.
 The volume of distribution is around 10 L/kg.
@@ -16,6 +15,7 @@ None of these metabolites exhibit NMDA-antagonistic activity.
 No cytochrome P 450 catalysed metabolism has been detected in vitro.
 
 In a study using orally administered 14C-memantine, a mean of 84% of the dose was recovered within 20 days, more than 99% being excreted renally.
+
 Elimination: Memantine is eliminated in a monoexponential manner with a terminal t½ of 60 to 100 hours.
 In volunteers with normal kidney function, total clearance (Cltot) amounts to
 170 mL/min/1.73 m² and part of total renal clearance is achieved by tubular secretion.
