@@ -13,7 +13,6 @@ Docetaxel did not influence the binding of digitoxin.
 The pharmacokinetics of docetaxel, doxorubicin and cyclophosphamide were not influenced by their coadministration.
 Limited data from a single uncontrolled study were suggestive of an interaction between docetaxel and carboplatin.
 When combined to docetaxel, the clearance of carboplatin was about 50% higher than values previously reported for carboplatin monotherapy.
-
 Docetaxel pharmacokinetics in the presence of prednisone was studied in patients with metastatic prostate cancer.
 Docetaxel is metabolised by CYP3A4 and prednisone is known to induce CYP3A4.
 No statistically significant effect of prednisone on the pharmacokinetics of docetaxel was observed.

@@ -12,6 +12,10 @@ Patients should be retreated with docetaxel when neutrophils recover to a level 
 
 In the case of severe neutropenia (<500 cells/mm3 for seven days or more) during a course of docetaxel therapy, a reduction in dose for subsequent courses of therapy or the use of appropriate symptomatic measures are recommended (see section 4.2).
 
+In patients treated with docetaxel in combination with cisplatin and 5-fluorouracil (TCF), febrile neutropenia and neutropenic infection occurred at lower rates when patients received prophylactic G-CSF.
+Patients treated with TCF should receive prophylactic G-CSF to mitigate the risk of complicated neutropenia (febrile neutropenia, prolonged neutropenia or neutropenic infection).
+Patients receiving TCF should be closely monitored, (see sections 4.2 and 4.8).
+
 Hypersensitivity reactions
 
 Patients should be observed closely for hypersensitivity reactions especially during the first and second infusions.
@@ -24,16 +28,17 @@ Cutaneous reactions
 
 Localised skin erythema of the extremities (palms of the hands and soles of the feet) with oedema followed by desquamation has been observed.
 Severe symptoms such as eruptions followed by desquamation which lead to interruption or discontinuation of docetaxel treatment were reported (see section 4.2).
-
 Fluid retention
 
 Patients with severe fluid retention such as pleural effusion, pericardial effusion and ascites should be monitored closely.
 
 Patients with liver impairment
+
 In patients treated with docetaxel at 100 mg/m2 as single agent who have serum transaminase levels (ALT and/or AST) greater than 1.5 times the ULN concurrent with serum alkaline phosphatase levels greater than 2.5 times the ULN, there is a higher risk of developing severe adverse reactions such as toxic deaths including sepsis and gastrointestinal haemorrhage which can be fatal, febrile neutropenia, infections, thrombocytopenia, stomatitis and asthenia.
 Therefore, the recommended dose of docetaxel in those patients with elevated liver function test (LFTs) is 75 mg/m2 and LFTs should be measured at baseline and before each cycle (see section 4.2).
 For patients with serum bilirubin levels >ULN and/or ALT and AST >3.5 times the ULN concurrent with serum alkaline phosphatase levels >6 times the ULN, no dose-reduction can be recommended and docetaxel should not be used unless strictly indicated.
-No data are available in patients with hepatic impairment treated by docetaxel in combination.
+In combination with cisplatin and 5-fluorouracil for the treatment of patients with gastric adenocarcinoma, the pivotal clinical trial excluded patients with ALT and/or AST > 1.5 × ULN associated with alkaline phosphatase > 2.5 × ULN, and bilirubin> 1 x UNL; for these patients, no dose-reductions can be recommended and docetaxel should not be used unless strictly indicated.
+No data are available in patients with hepatic impairment treated by docetaxel in combination in the other indications.
 
 Patients with renal impairment
 
@@ -67,9 +72,25 @@ Leukemia
 In women receiving TAXOTERE, doxorubicin and cyclophosphamide (TAC), the risk of acute myeloid leukemia is comparable to the risk observed for other anthracycline/cyclophosphamide containing regimens.
 Patients with 4+ nodes
 The benefit/risk ratio for TAC in patients with 4+ nodes was not defined fully at the interim analysis (see section 5.1).
+
 Elderly
 There are no data available in patients>70 years of age on TAXOTERE use in combination with doxorubicin and cyclophosphamide.
 
 Of the 333 patients treated with TAXOTERE every three weeks in a prostate cancer study, 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
 In patients treated with TAXOTERE every three weeks, the incidence of related nail changes occurred at a rate ≥ 10% higher in patients who were 65 years of age or greater compared to younger patients.
 The incidence of related fever, diarrhea, anorexia, and peripheral edema occurred at rates ≥ 10% higher in patients who were 75 years of age or greater versus less than 65 years.
+
+Among the 300 (221 patients in the phase III part of the study and 79 patients in the phase II part) patients treated with TAXOTERE in combination with cisplatin and 5-fluorouracil in the gastric cancer study, 74 were 65 years of age or older and 4 patients were 75 years of age or older.
+The incidence of serious adverse events was higher in the elderly patients compared to younger patients.
+The incidence of the following adverse events (all grades): lethargy, stomatitis, neutropenic infection occurred at rates ≥ 10% higher in patients who were 65 years of age or older compared to younger patients.
+Elderly patients treated with TCF should be closely monitored.
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+In patients treated with docetaxel in combination with cisplatin and 5-fluorouracil (TCF), febrile neutropenia and neutropenic infection occurred at lower rates when patients received prophylactic G-
+CSF.
+Patients receiving
+TCF should be closely monitored, (see sections 4.2 and 4.8).
+
+In patients treated with docetaxel at 100 mg/m2 as single agent who have serum transaminase levels
+(ALT and/or AST) greater than 1.5 times the ULN concurrent with serum alkaline phosphatase levels greater than 2.5 times the ULN, there is a higher risk of developing severe adverse reactions such as toxic deaths including sepsis and gastrointestinal haemorrhage which can be fatal, febrile neutropenia, infections, thrombocytopenia, stomatitis and asthenia.

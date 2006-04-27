@@ -1,4 +1,4 @@
-# 5.1 PHARMACODYNAMIC PROPERTIES
+# 5.1 Pharmacodynamic Properties
 
 Pharmaco-therapeutic group: Antineoplastic agents, ATC Code: L01CD 02
 
@@ -67,13 +67,15 @@ More grade 3/4 adverse events were observed for TAXOTERE monotherapy (55.4%) com
 
 TAXOTERE in combination with doxorubicin
 
-One large randomized phase III study, involving 429 previously untreated patients with metastatic disease, has been performed with doxorubicin (50 mg/m²) in combination with docetaxel (75 mg/m²) (AT arm) versus doxorubicin (60 mg/m²) in combination with cyclophosphamide (600 mg/m²) (AC arm).
+One large randomized phase III study, involving 429 previously untreated patients with metastatic disease, has been performed with doxorubicin (50 mg/m²) in combination with docetaxel (75 mg/m²)
+(AT arm) versus doxorubicin (60 mg/m²) in combination with cyclophosphamide (600 mg/m²) (AC arm).
 Both regimens were administered on day 1 every 3 weeks.
 
 - Time to progression (TTP) was significantly longer in the AT arm versus AC arm, p=0.0138.
   The
 
-median TTP was 37.3 weeks (95%CI :33.4 - 42.1) in AT arm and 31.9 weeks (95%CI : 27.4 - 36.0) in AC arm.
+median TTP was 37.3 weeks (95%CI :33.4 - 42.1) in AT arm and 31.9 weeks (95%CI : 27.4 - 36.0) in
+AC arm.
 
 - Overall response rate (ORR) was significantly higher in the AT arm versus AC arm, p=0.009.
   The
@@ -92,7 +94,8 @@ One hundred eighty six patients were randomized to receive TAXOTERE (100 mg/m2) 
 TAXOTERE plus trastuzumab was efficacious in patients whether or not they had received prior adjuvant anthracyclines.
 The main test method used to determine HER2 positivity in this pivotal trial was immunohistochemistry (IHC).
 A minority of patients were tested using fluorescence in-situ hybridization (FISH).
-In this trial, 87% of patients had disease that was IHC 3+, and 95% of patients entered had disease that was IHC 3+ and/or FISH positive.
+In this trial, 87% of patients had disease that was IHC
+3+, and 95% of patients entered had disease that was IHC 3+ and/or FISH positive.
 Efficacy results are summarized in the following table:
 
 | Parameter | TAXOTERE plus trastuzumab1 n=92 | TAXOTERE1 n=94 |
@@ -129,7 +132,6 @@ The overall response rate was 6.8% in the evaluable patients, and the median dur
 Taxotere in combination with platinum agents in chemotherapy-naïve patients
 
 In a Phase III trial, 1218 patients with unresectable stage IIIB or IV NSCLC, with KPS of 70% or greater, and who did not receive previous chemotherapy for this condition, were randomised to either Taxotere (T) 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin (Cis) 75 mg/ m2 over 30-60 minutes every 3 weeks, Taxotere 75 mg/ m2 as a 1 hour infusion in combination with carboplatin (AUC 6 mg/ml•min) over 30-60 minutes every 3 weeks, or vinorelbine (V) 25 mg/ m2 administered over 6-10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/ m2 administered on day 1 of cycles repeated every 4 weeks.
-
 Survival data, median time to progression and response rates for two arms of the study are illustrated in the following table:
 
 |  | TCis n=408 | VCis N=404 | Statistical Analysis |
@@ -144,11 +146,12 @@ Secondary end-points included change of pain, global rating of quality of life b
 Results on these end-points were supportive of the primary end-points results.
 
 For Taxotere/Carboplatin combination, neither equivalent nor non-inferior efficacy could be proven compared to the reference treatment combination VCis.
+
 Prostate Cancer
 
 The safety and efficacy of TAXOTERE in combination with prednisone or prednisolone in patients
 
-with hormone refractory metastatic prostate cancer were evaluated in a randomized multicenter Phase KM
+with hormone refractory metastatic prostate cancer were evaluated in a randomized multicenter Phase KM c
 
 III trial.
 A total of 1006 patients with KPS≥60 were randomized to the following treatment groups:
@@ -167,18 +170,61 @@ Efficacy endpoints for the TAXOTERE arms versus the control arm are summarized i
 | --- | --- | --- | --- |
 | Number of patients Median survival (months) 95% CI Hazard ratio 95% CI p-value†* | 335 18.9 (17.0-21.2) 0.761 (0.619-0.936) 0.0094 | 334 17.4 (15.7-19.0) 0.912 (0.747-1.113) 0.3624 | 337 16.5 (14.4-18.6) -- -- -- |
 | Number of patients PSA** response rate (%) 95% CI p-value* | 291 45.4 (39.5-51.3) 0.0005 | 282 47.9 (41.9-53.9) <0.0001 | 300 31.7 (26.4-37.3) -- |
-| Number of patients Pain response rate (%) 95% CI p-value* | 153 34.6 (27.1-42.7) 0.0107 | 154 31.2 (24.0-39.1) 0.0798 | 157 21.7 (15.5-28.9) -- |
+| Number of patients | 153 | 154 | 157 |
+| Pain response rate (%) 95% CI p-value* | 34.6 (27.1-42.7) 0.0107 | 31.2 (24.0-39.1) 0.0798 | 21.7 (15.5-28.9) -- |
 | Number of patients Tumor response rate (%) 95% CI p-value* | 141 12.1 (7.2-18.6) 0.1112 | 134 8.2 (4.2-14.2) 0.5853 | 137 6.6 (3.0-12.1) -- |
 
 †Stratified log rank test
 *Threshold for statistical significance=0.0175
 **PSA: Prostate-Specific Antigen
 
-Given the fact that TAXOTERE every week presented a slightly better safety profile than TAXOTERE every 3 weeks, it is possible that certain patients may benefit from TAXOTERE every week.
+Given the fact that TAXOTERE every week presented a slightly better safety profile than
+TAXOTERE every 3 weeks, it is possible that certain patients may benefit from TAXOTERE every week.
 
 No statistical differences were observed between treatment groups for Global Quality of Life.
 
+Gastric Adenocarcinoma
+A multicenter, open-label, randomized trial, was conducted to evaluate the safety and efficacy of TAXOTERE for the treatment of patients with metastatic gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who had not received prior chemotherapy for metastatic disease.
+A total of 445 patients with KPS>70 were treated with either TAXOTERE (T) (75 mg/m2 on day 1) in combination with cisplatin (C) (75 mg/m2 on day 1) and 5-fluorouracil (F) (750 mg/m2 per day for 5 days) or cisplatin (100 mg/m2 on day 1) and 5-fluorouracil (1000 mg/m2 per day for 5 days).
+The length of a treatment cycle was 3 weeks for the TCF arm and 4 weeks for the CF arm.
+The median number of cycles administered per patient was 6 (with a range of 1-16) for the TCF arm compared to 4 (with a range of 1-12) for the CF arm.
+Time to progression (TTP) was the primary endpoint.
+The risk reduction of progression was 32.1% and was associated with a significantly longer TTP (p=0.0004) in favor of the TCF arm.
+Overall survival was also significantly longer (p=0.0201) in favor of the TCF arm with a risk reduction of mortality of 22.7%.
+Efficacy results are summarized in the following table:
+
+Efficacy of TAXOTERE in the treatment of patients with gastric adenocarcinoma
+
+| Endpoint | TCF n=221 | CF N=224 |
+| --- | --- | --- |
+| Median TTP (months) (95%CI) Hazard ratio (95%CI) *p-value | 5.6 (4.86-5.91) | 3.7 (3.45-4.47) |
+|  | 1.473 (1.189-1.825) 0.0004 |  |
+| Median survival (months) (95%CI) 2-year estimate (%) Hazard ratio (95%CI) *p-value | 9.2 (8.38-10.58) 18.4 | 8.6 (7.16-9.46) 8.8 |
+|  | 1.293 (1.041-1.606) 0.0201 |  |
+| Overall Response Rate (CR+PR) (%) p-value | 36.7 | 25.4 |
+|  | 0.0106 |  |
+| Progressive Disease as Best Overall Response (%) | 16.7 | 25.9 |
+
+*Unstratified logrank test
+
+Subgroup analyses across age, gender and race consistently favored the TCF arm compared to the CF arm.
+A survival update analysis conducted with a median follow-up time of 41.6 months no longer showed a statistically significant difference although always in favour of the TCF regimen and showed that the benefit of TCF over CF is clearly observed between 18 and 30 months of follow up.
+
+Overall, quality of life (QoL) and clinical benefit results consistently indicated improvement in favor of the TCF arm.
+Patients treated with TCF had a longer time to 5% definitive deterioration of global health status on the QLQ-C30 questionnaire (p=0.0121) and a longer time to definitive worsening of Karnofsky performance status (p=0.0088) compared to patients treated with CF.
+
 [TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+Two randomised phase III comparative studies, involving a total of 326 alkylating or 392 anthracycline failure metastatic breast cancer patients, have been performed with docetaxel at the recommended dose and regimen of 100 mg/m² every 3 weeks.
 
   The median TTP was 37.3 weeks (95%CI :33.4 - 42.1) in AT arm and 31.9 weeks (95%CI : 27.4 - 36.0) in AC arm.
   The ORR was 59.3% (95%CI : 52.8 - 65.9) in AT arm versus 46.5% (95%CI : 39.8 - 53.2) in AC arm.
+
+The safety and efficacy of TAXOTERE in combination with prednisone or prednisolone in patients with hormone refractory metastatic prostate cancer were evaluated in a randomized multicenter Phase
+
+| Endpoint | TAXOTERE every 3 weeks | TAXOTERE every week | Mitoxantrone every 3 weeks |
+| --- | --- | --- | --- |
+| Number of patients Median survival (months) 95% CI Hazard ratio 95% CI p-value†* | 335 18.9 (17.0-21.2) 0.761 (0.619-0.936) 0.0094 | 334 17.4 (15.7-19.0) 0.912 (0.747-1.113) 0.3624 | 337 16.5 (14.4-18.6) -- -- -- |
+| Number of patients PSA** response rate (%) 95% CI p-value* | 291 45.4 (39.5-51.3) 0.0005 | 282 47.9 (41.9-53.9) <0.0001 | 300 31.7 (26.4-37.3) -- |
+| Number of patients Pain response rate (%) 95% CI p-value* | 153 34.6 (27.1-42.7) 0.0107 | 154 31.2 (24.0-39.1) 0.0798 | 157 21.7 (15.5-28.9) -- |
+| Number of patients Tumor response rate (%) 95% CI p-value* | 141 12.1 (7.2-18.6) 0.1112 | 134 8.2 (4.2-14.2) 0.5853 | 137 6.6 (3.0-12.1) -- |

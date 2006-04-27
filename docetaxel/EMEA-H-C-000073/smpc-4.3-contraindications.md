@@ -8,3 +8,8 @@ Docetaxel must not be used in pregnant or breast-feeding women.
 Docetaxel should not be used in patients with severe liver impairment since there is no data available (see sections 4.2 and 4.4).
 
 Contraindications for other medicinal products also apply, when combined with docetaxel.
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+Docetaxel should not be used in patients with severe liver impairment since there is no data available
+(see sections 4.2 and 4.4).

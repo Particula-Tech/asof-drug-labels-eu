@@ -9,15 +9,16 @@ TAXOTERE 20 mg concentrate for solution for infusion vial:
 
 7 ml clear glass Type I vial with a green flip-off cap.
 
-This vial contains 0.5 ml of a 40 mg/ml solution of docetaxel in polysorbate 80 (fill volume: 24.4mg/0.61 ml).
+This vial contains 0.5 ml of a 40 mg/ml solution of docetaxel in polysorbate 80 (fill volume:
+24.4mg/0.61 ml).
 This fill volume has been established during the development of TAXOTERE to compensate for liquid loss during preparation of the premix due to foaming, adhesion to the walls of the vial and "dead-volume".
 This overfill ensures that after dilution with the entire contents of the accompanying solvent for TAXOTERE vial, there is a minimal extractable premix volume of 2 ml containing 10 mg/ml docetaxel which corresponds to the labelled amount of 20 mg per vial.
-
 Solvent vial:
 
 7 ml clear glass Type I vial with a transparent colourless flip-off cap.
 
-Solvent vial contains 1.5 ml of a 13% w/w solution of ethanol in water for injections (fill volume: 1.98 ml).
+Solvent vial contains 1.5 ml of a 13% w/w solution of ethanol in water for injections (fill volume:
+1.98 ml).
 The addition of the entire contents of the solvent vial to the contents of the TAXOTERE
 20 mg concentrate for solution for infusion vial ensures a premix concentration of 10 mg/ml docetaxel.
 

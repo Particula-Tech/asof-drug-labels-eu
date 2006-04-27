@@ -5,6 +5,7 @@ The use of gloves is recommended.
 
 If TAXOTERE concentrate, premix solution or infusion solution should come into contact with skin, wash immediately and thoroughly with soap and water.
 If TAXOTERE concentrate, premix solution or infusion solution should come into contact with mucous membranes, wash immediately and thoroughly with water.
+
 Preparation for the intravenous administration
 
 a) Preparation of the TAXOTERE premix solution (10 mg docetaxel/ml)
@@ -34,7 +35,6 @@ Inject the required premix volume into a 250 ml infusion bag or bottle containin
 If a dose greater than 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/ml docetaxel is not exceeded.
 
 Mix the infusion bag or bottle manually using a rocking motion.
-
 The TAXOTERE infusion solution should be used within 4 hours and should be aseptically administered as a 1-hour infusion under room temperature and normal lighting conditions.
 
 As with all parenteral products, TAXOTERE premix solution and infusion solution should be visually inspected prior to use, solutions containing a precipitate should be discarded.
