@@ -17,4 +17,4 @@ Lumigan has not been studied in patients with heart block more severe than first
 
 Lumigan has not been studied in patients with inflammatory ocular conditions, neovascular, inflammatory, angle-closure glaucoma, congenital glaucoma or narrow-angle glaucoma.
 
-Cystoid macular oedema has been uncommonly reported (>0.1% to <1%) following treatment with Lumigan and should therefore be used with caution in patients with known risk factors for macular oedema (e.g. aphakic patients, pseudophakic patients with a torn posterior lens capsule).
+Cystoid macular oedema has been uncommonly reported (≥1/1000 to <1/100) following treatment with Lumigan and should therefore be used with caution in patients with known risk factors for macular oedema (e.g. aphakic patients, pseudophakic patients with a torn posterior lens capsule).

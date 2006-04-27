@@ -1,7 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: other antiglaucoma preparations;
-ATC code: S 01 EE03
+ATC code: S01EE03
 
 The mechanism of action by which bimatoprost reduces intraocular pressure in man is by increasing aqueous humour outflow through the trabecular meshwork and enhancing uveoscleral outflow.
 Reduction of the intraocular pressure starts approximately 4 hours after the first administration and maximum effect is reached within approximately 8 to 12 hours.
