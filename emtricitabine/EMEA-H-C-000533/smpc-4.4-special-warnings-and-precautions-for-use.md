@@ -5,7 +5,6 @@ It must be used in combination with other antiretrovirals.
 Please also refer to the Summaries of Product Characteristics of the other antiretroviral medicinal products used in the combination regimen.
 
 Patients receiving emtricitabine or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with HIV associated diseases.
-
 Patients should be advised that antiretroviral therapies, including emtricitabine,have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be used.
 Patients should also be informed that emtricitabine is not a cure for HIV infection.
@@ -43,7 +42,6 @@ Lipid disorders should be managed as clinically appropriate.
 Liver function: Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 Patients with chronic hepatitis B or C infection treated with combination antiretroviral therapy are at increased risk of experiencing severe, and potentially fatal, hepatic adverse events.
 In case of concomitant antiviral therapy for hepatitis B or C, please also refer to the relevant Summary of Product Characteristics for these medicinal products.
-
 If there is evidence of exacerbations of liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
 Patients co-infected with hepatitis B virus (HBV): Emtricitabine is active in vitro against HBV.

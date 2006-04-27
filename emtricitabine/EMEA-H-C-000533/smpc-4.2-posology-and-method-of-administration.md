@@ -43,7 +43,8 @@ However, based on the minimal metabolism of emtricitabine and the renal route of
 [Emtriva 10 mg/ml oral solution]
 
 Emtriva 10 mg/ml oral solution may be taken with or without food.
-A measuring cup is provided (see 6.5).
+A measuring cup is provided
+(see 6.5).
 
 Adults: The recommended dose of Emtriva 10 mg/ml oral solution is 240 mg (24 ml) once daily.
 

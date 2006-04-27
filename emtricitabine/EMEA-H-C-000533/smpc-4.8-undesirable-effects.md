@@ -22,7 +22,6 @@ Common: dizziness, asthenia, insomnia, abnormal dreams
 Gastrointestinal disorders:
 Very common: diarrhoea, nausea
 Common: vomiting, dyspepsia, abdominal pain, elevated serum lipase, elevated amylase including elevated pancreatic amylase
-
 Hepato-biliary disorders:
 Common: elevated serum aspartate aminotransferase (AST) and/or elevated serum alanine aminotransferase (ALT), hyperbilirubinaemia
 
