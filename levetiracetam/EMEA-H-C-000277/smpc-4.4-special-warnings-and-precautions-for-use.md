@@ -7,7 +7,7 @@ In a study reflecting clinical practice, the concomitant antiepileptic medicatio
 Available data in children did not suggest impact on growth and puberty.
 However, long term effects on learning, intelligence, growth, endocrine function, puberty and childbearing potential in children remain unknown.
 
-An increase in seizure frequency of more than 25 % was reported in 14 % of levetiracetam treated adult and paediatric patients, whereas it was reported in 26 % and 21 % of placebo treated adult and paediatric patients, respectively.
+An increase in seizure frequency of more than 25 % was reported in 14 % of levetiracetam treated adult and paediatric patients with partial onset seizures, whereas it was reported in 26 % and 21 % of placebo treated adult and paediatric patients, respectively.
 
 The administration of Keppra to patients with renal impairment may require dose adjustment.
 In patients with severely impaired hepatic function, assessment of renal function is recommended before dose selection (see section 4.2).

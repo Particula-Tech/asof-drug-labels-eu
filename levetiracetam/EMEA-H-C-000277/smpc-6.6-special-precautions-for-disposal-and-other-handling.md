@@ -34,6 +34,7 @@ Preparation and administration of Keppra concentrate
 | 1500 mg | 15 ml (three 5 ml vials) | 100 ml | 15 minutes | Twice daily | 3000 mg/day |
 
 This medicinal product is for single use only, any unused solution should be discarded.
+
 Keppra concentrate was found to be physically compatible and chemically stable when mixed with the following diluents for at least 24 hours and stored in PVC bags at controlled room temperature 15-25°C.
 Diluents:
 

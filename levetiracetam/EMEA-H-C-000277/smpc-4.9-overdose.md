@@ -3,7 +3,6 @@
 Symptoms
 
 Somnolence, agitation, aggression, depressed level of consciousness, respiratory depression and coma were observed with Keppra overdoses.
-
 Management of overdose
 
 After an acute overdose, the stomach may be emptied by gastric lavage or by induction of emesis.
