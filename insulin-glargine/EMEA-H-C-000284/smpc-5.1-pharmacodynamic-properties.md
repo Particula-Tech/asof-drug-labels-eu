@@ -49,16 +49,16 @@ The time course of action of insulin and insulin analogues such as insulin glarg
 
 In a clinical study, symptoms of hypoglycaemia or counter-regulatory hormone responses were similar after intravenous insulin glargine and human insulin both in healthy volunteers and patients with type 1 diabetes.
 
-[Lantus 100 IU/ml solution for injection in a cartridge.]
+[Lantus 100 Units/ml solution for injection in a cartridge.]
 
 Figure 1.
 
 *determined as amount of glucose infused to maintain constant plasma glucose levels (hourly mean values)
 
-[Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]
+[Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
 
 (all sentences already above)
 
-[Lantus 100 IU/ml OptiSet solution for injection]
+[Lantus 100 Units/ml OptiSet, solution for injection in a pre-filled pen.]
 
 (all sentences already above)

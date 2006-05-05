@@ -58,14 +58,14 @@ Most minor reactions to insulins at the injection site usually resolve in a few 
 Rare: Oedema
 Rarely, insulin may cause sodium retention and oedema particularly if previously poor metabolic control is improved by intensified insulin therapy.
 
-[Lantus 100 IU/ml solution for injection in a cartridge.]
+[Lantus 100 Units/ml solution for injection in a cartridge.]
 
 Very rare: Dysgeusia
 
-[Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]
+[Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
 
 (all sentences already above)
 
-[Lantus 100 IU/ml OptiSet solution for injection]
+[Lantus 100 Units/ml OptiSet, solution for injection in a pre-filled pen.]
 
 Common: Injection site reactions

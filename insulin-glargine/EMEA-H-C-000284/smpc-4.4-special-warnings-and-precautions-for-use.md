@@ -60,15 +60,19 @@ In many cases urine tests for ketones are indicated, and often it is necessary t
 The insulin requirement is often increased.
 Patients with type 1 diabetes must continue to consume at least a small amount of carbohydrates on a regular basis, even if they are able to eat only little or no food, or are vomiting etc. and they must never omit insulin entirely.
 
-[Lantus 100 IU/ml solution for injection in a cartridge.]
+[Lantus 100 Units/ml solution for injection in a cartridge.]
 
 Due to limited experience the efficacy and safety of Lantus could not be assessed in children below 6 years of age, in patients with impaired liver function or in patients with moderate/severe renal impairment (see 4.2).
 
-[Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]
+- certain uncompensated endocrine disorders, (e.g. in hypothyroidism and in anterior pituitary or
+
+adrenocortical insufficiency),
+
+[Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
 
 (all sentences already above)
 
-[Lantus 100 IU/ml OptiSet solution for injection]
+[Lantus 100 Units/ml OptiSet, solution for injection in a pre-filled pen.]
 
 Handling of the pen
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully.

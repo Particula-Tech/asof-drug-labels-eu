@@ -42,19 +42,19 @@ For further details on handling, see section 6.6.
 
 Due to limited experience the efficacy and safety of Lantus could not be assessed in the following groups of patients: patients with impaired liver function or patients with moderate/severe renal impairment (see section 4.4).
 
-[Lantus 100 IU/ml solution for injection in a cartridge.]
+[Lantus 100 Units/ml solution for injection in a cartridge.]
 
 In children, efficacy and safety of Lantus have only been demonstrated when given in the evening.
 Due to limited experience, the efficacy and safety of Lantus have not been demonstrated in children below the age of 6 years.
 
 Due to limited experience the efficacy and safety of Lantus could not be assessed in the following groups of patients: patients with impaired liver function or patients with moderate/severe renal impairment (see 4.4).
 
-[Lantus 100 IU/ml solution for injection in a cartridge. (SmPC 3)]
+[Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
 
 (all sentences already above)
 
-[Lantus 100 IU/ml OptiSet solution for injection]
+[Lantus 100 Units/ml OptiSet, solution for injection in a pre-filled pen.]
 
-Lantus OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
+Lantus OptiSet delivers insulin in increments of 2 Units up to a maximum single dose of 40 Units.
 
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully (see6.6)
