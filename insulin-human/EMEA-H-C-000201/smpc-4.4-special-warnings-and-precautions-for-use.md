@@ -63,7 +63,7 @@ Patients with type 1 diabetes must continue to consume at least a small amount o
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
 
 Handling of the pen
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully.
@@ -83,7 +83,7 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -101,7 +101,7 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -119,7 +119,7 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 Handling of the pen-
 
@@ -137,7 +137,7 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 

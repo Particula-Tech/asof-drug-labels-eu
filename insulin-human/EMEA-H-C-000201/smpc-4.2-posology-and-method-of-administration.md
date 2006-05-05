@@ -80,7 +80,7 @@ Insuman Rapid in cartridges has been developed for use in the OptiPen series.
 
 For further details on handling, see section 6.6.
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
 
 Insuman Rapid OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 
@@ -110,7 +110,7 @@ Insuman Basal contains 40 IU of insulin per ml suspension.
 
 Insuman Basal in cartridges has been developed for use in the OptiPen series.
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 Insuman Basal OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 
@@ -140,7 +140,7 @@ Insuman Comb 15 contains 40 IU of insulin per ml suspension.
 
 Insuman Comb 15 in cartridges has been developed for use in the OptiPen series.
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 Insuman Comb 15 OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 
@@ -168,7 +168,7 @@ Insuman Comb 25 contains 40 IU of insulin per ml suspension.
 
 Insuman Comb 25 in cartridges has been developed for use in the OptiPen series.
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 Insuman Comb 25 OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 
@@ -196,7 +196,7 @@ Insuman Comb 50 contains 40 IU of insulin per ml suspension.
 
 Insuman Comb 50 in cartridges has been developed for use in the OptiPen series.
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 Insuman Comb 50 OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 

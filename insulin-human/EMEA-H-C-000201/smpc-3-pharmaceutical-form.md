@@ -10,9 +10,9 @@ Solution for injection.
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
 
-Solution for injection in a pre-filled disposable pen.
+Solution for injection in a pre-filled pen.
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
@@ -26,9 +26,9 @@ Suspension for injection.
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
-Suspension for injection in a pre-filled disposable pen.
+Suspension for injection in a pre-filled pen.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
@@ -42,7 +42,7 @@ Suspension for injection in a pre-filled disposable pen.
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -58,7 +58,7 @@ Suspension for injection in a pre-filled disposable pen.
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -74,7 +74,7 @@ Suspension for injection in a pre-filled disposable pen.
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 

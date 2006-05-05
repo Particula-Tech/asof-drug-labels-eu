@@ -19,7 +19,7 @@ Lactating women may require adjustments in insulin dose and diet.
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -37,7 +37,7 @@ There are no restrictions on the use of Insuman Basal in breast-feeding women.
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -55,7 +55,7 @@ There are no restrictions on the use of Insuman Comb 15 in breast-feeding women.
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -73,7 +73,7 @@ There are no restrictions on the use of Insuman Comb 25 in breast-feeding women.
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -91,7 +91,7 @@ There are no restrictions on the use of Insuman Comb 50 in breast-feeding women.
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 

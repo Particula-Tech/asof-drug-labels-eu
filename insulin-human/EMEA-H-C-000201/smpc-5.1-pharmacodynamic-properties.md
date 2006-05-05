@@ -28,7 +28,7 @@ Following subcutaneous injection, onset of action is within 30 minutes, the phas
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -48,7 +48,7 @@ Following subcutaneous injection, onset of action is within 60 minutes, the phas
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -68,7 +68,7 @@ Following subcutaneous injection, onset of action is within 30 to 60 minutes, th
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -85,7 +85,7 @@ Following subcutaneous injection, onset of action is within 30 to 60 minutes, th
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -102,7 +102,7 @@ Following subcutaneous injection, onset of action is within 30 minutes, the phas
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 

@@ -36,19 +36,13 @@ Air bubbles must be removed from the cartridge before injection (see instruction
 Empty cartridges must not be refilled.
 Insuman Rapid cartridges are not designed to allow any other insulin to be mixed in the cartridge.
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
 
 Empty pens must never be reused and must be properly discarded.
 
 To prevent the possible transmission of disease, each pen must be used by one patient only.
 Handling of the pen
 The Instructions for Use included in the Package Leaflet must be read carefully before using OptiSet.
-
-Pen cap
-
-Injection
-needle cap Outer needle capInner Insulin reservoir Black plunger Dose arrow button
-Needle Coloured bar insulin scaleResidual Dosage selector
 
 Schematic diagram of the pen
 
@@ -71,7 +65,7 @@ General Notes
 Step 1.
 Check the Insulin
 
-After removing the pen cap, the label on the insulin reservoir should be checked to make sure it contains the correct insulin.
+After removing the pen cap, the label on the pen and insulin reservoir should be checked to make sure it contains the correct insulin.
 The appearance of insulin should also be checked: the insulin solution must be clear, colourless, with no solid particles visible, and must have a water-like consistency.
 
 Step 2.
@@ -84,11 +78,11 @@ Step 3.
 Safety test
 
 Prior to each injection a safety test has to be performed.
-
 For a new and unused OptiSet, the dose arrow should point to the number 8, as preset by the manufacturer.
-Otherwise, the dosage selector should be turned until the dose arrow points to 2.
+Otherwise, the dosage selector should be turned forward until the dose arrow points to 2.
 Then the injection button should be pulled out as far as it will go.
 The outer and inner needle caps should be removed.
+
 While holding the pen with the needle pointing upwards, the insulin reservoir should be tapped gently with the finger so that any air bubbles rise up towards the needle
 
 Then the injection button should be pressed in completely.
@@ -102,7 +96,7 @@ Setting and loading the insulin dose
 The dose can be set in steps of 2 units, from a minimum of 2 units to a maximum of 40 units.
 If a dose greater than 40 units is required, it should be given as two or more injections.
 
-The dosage selector should be turned in either direction until the dose arrow points to the required dose.
+The dosage selector should be turned forward until the dose arrow points to the required dose.
 The injection button should be pulled out as far as it will go in order to load the pen.
 
 Step 5.
@@ -131,7 +125,7 @@ This scale must not be used to set the insulin dose.
 
 The actual loaded dose should be checked as per “General notes”.
 In case, the patient is not sure whether enough insulin remains in the reservoir, the OptiSet should be discarded.
-Example:If the dose arrow has been set to 30 units and injection button can only be pulled out to as far as 12 units, then only 12 units insulin can be injected with this pen.
+Example:If the dose has been set to 30 units and injection button can only be pulled out to as far as 12 units, then only 12 units insulin can be injected with this pen.
 In this example, either the other 18 units will have to be injected using a new pen, or the entire 30 units dose will have to be injected using a new pen.
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
@@ -168,7 +162,7 @@ It is also necessary to change to a new cartridge if the insulin requirement cha
 
 Insuman Basal cartridges are not designed to allow any other insulin to be mixed in the cartridge.
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 Before first use, Insuman Basal OptiSet must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 Later on, the insulin must be resuspended again prior to each injection.
@@ -200,7 +194,7 @@ Insuman Comb 15 must not be used if this cannot be achieved, i.e. if the suspens
 
 Insuman Comb 15 cartridges are not designed to allow any other insulin to be mixed in the cartridge.
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 Before first use, Insuman Comb 15 OptiSet must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
@@ -222,7 +216,7 @@ Insuman Comb 25 must not be used if this cannot be achieved, i.e. if the suspens
 
 Insuman Comb 25 cartridges are not designed to allow any other insulin to be mixed in the cartridge.
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 Before first use, Insuman Comb 25 OptiSet must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
@@ -244,7 +238,7 @@ Insuman Comb 50 must not be used if this cannot be achieved, i.e. if the suspens
 
 Insuman Comb 50 cartridges are not designed to allow any other insulin to be mixed in the cartridge.
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 Before first use, Insuman Comb 50 OptiSet must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 

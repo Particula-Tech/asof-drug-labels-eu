@@ -12,7 +12,7 @@ Insuman Rapid must not be used in external or implanted insulin pumps or in peri
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -28,7 +28,7 @@ Insuman Basal must not be administered intravenously and must not be used in inf
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -44,7 +44,7 @@ Insuman Comb 15 must not be administered intravenously and must not be used in i
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -60,7 +60,7 @@ Insuman Comb 25 must not be administered intravenously and must not be used in i
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
@@ -76,7 +76,7 @@ Insuman Comb 50 must not be administered intravenously and must not be used in i
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
 
 (all sentences already above)
 
