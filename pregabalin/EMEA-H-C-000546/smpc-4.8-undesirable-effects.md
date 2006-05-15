@@ -155,6 +155,10 @@ The following events have been mentioned: insomnia, headache, nausea, diarrhoea,
 
 (all sentences already above)
 
+[LYRICA 225 mg hard capsules]
+
+(all sentences already above)
+
 [LYRICA 300 mg hard capsules]
 
 The following events have been: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating and dizziness.

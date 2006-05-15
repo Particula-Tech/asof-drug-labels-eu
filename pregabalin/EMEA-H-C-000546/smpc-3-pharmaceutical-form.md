@@ -24,6 +24,10 @@ White hard capsule, marked “Pfizer” on the cap and “PGN 150” on the body
 
 Light orange hard capsule, marked “Pfizer” on the cap and “PGN 200” on the body with black ink.
 
+[LYRICA 225 mg hard capsules]
+
+White and orange hard capsule, marked “Pfizer” on the cap and “PGN 225” on the body with black ink.
+
 [LYRICA 300 mg hard capsules]
 
 White and orange hard capsule, marked “Pfizer” on the cap and “PGN 300” on the body with black ink.

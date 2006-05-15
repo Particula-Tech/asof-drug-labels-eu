@@ -81,6 +81,10 @@ Reduction of pregabalin dose may be required in patients who have age related co
 
 (all sentences already above)
 
+[LYRICA 225 mg hard capsules]
+
+(all sentences already above)
+
 [LYRICA 300 mg hard capsules]
 
 5.3 Preclinical safety dataIn conventional safety pharmacology studies in animals, pregabalin was well-tolerated at clinically relevant doses.

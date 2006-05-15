@@ -27,6 +27,10 @@ EU/1/04/279/031
 
 EU/1/04/279/020 - 022
 
+[LYRICA 225 mg hard capsules]
+
+EU/1/04/279/033 – 035
+
 [LYRICA 300 mg hard capsules]
 
 EU/1/04/279/023 – 025

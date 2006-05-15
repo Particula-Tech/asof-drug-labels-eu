@@ -38,6 +38,10 @@ Red Iron Oxide (E172)
 
 (all sentences already above)
 
+[LYRICA 225 mg hard capsules]
+
+(all sentences already above)
+
 [LYRICA 300 mg hard capsules]
 
 (all sentences already above)

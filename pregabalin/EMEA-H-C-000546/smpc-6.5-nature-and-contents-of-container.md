@@ -25,6 +25,10 @@ PVC/Aluminium blisters containing 14,56 or 112 (2 x 56) hard capsules.
 
 (all sentences already above)
 
+[LYRICA 225 mg hard capsules]
+
+PVC/Aluminium blisters containing 14 or 56 hard capsules.
+
 [LYRICA 300 mg hard capsules]
 
 (all sentences already above)

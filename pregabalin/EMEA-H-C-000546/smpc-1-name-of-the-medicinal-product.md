@@ -22,6 +22,10 @@ LYRICA 150 mg hard capsules
 
 LYRICA 200 mg hard capsules
 
+[LYRICA 225 mg hard capsules]
+
+LYRICA 225 mg hard capsules
+
 [LYRICA 300 mg hard capsules]
 
 LYRICA 300 mg hard capsules

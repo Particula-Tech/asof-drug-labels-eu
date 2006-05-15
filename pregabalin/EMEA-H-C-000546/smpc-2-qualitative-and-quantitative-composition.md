@@ -24,6 +24,10 @@ Each hard capsule contains 150 mg of pregabalin.
 
 Each hard capsule contains 200 mg of pregabalin.
 
+[LYRICA 225 mg hard capsules]
+
+Each hard capsule contains 225 mg of pregabalin.
+
 [LYRICA 300 mg hard capsules]
 
 Each hard capsule contains 300 mg of pregabalin.
