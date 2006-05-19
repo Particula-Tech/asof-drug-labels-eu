@@ -1,4 +1,4 @@
-# 6.6 Instructions for use and handling and disposal
+# 6.6 Special precautions for disposal
 
 Do not use material that shows evidence of precipitation or any other particulate matter.
 

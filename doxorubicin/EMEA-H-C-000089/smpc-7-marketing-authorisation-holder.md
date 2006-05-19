@@ -2,5 +2,5 @@
 
 SP Europe
 Rue de Stalle 73
-BE – 1180 Bruxelles,
+B – 1180 Bruxelles
 Belgium

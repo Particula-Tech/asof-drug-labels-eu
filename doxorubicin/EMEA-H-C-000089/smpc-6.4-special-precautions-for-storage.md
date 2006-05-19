@@ -1,4 +1,6 @@
 # 6.4 Special precautions for storage
 
-Store in a refrigerator (2°C - 8°C) .
+Store in a refrigerator (2°C - 8°C).
 Do not freeze.
+
+For storage conditions of the diluted medicinal product, see section 6.3.

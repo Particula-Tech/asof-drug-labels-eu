@@ -4,13 +4,13 @@ Caelyx should only be administered under the supervision of a qualified oncologi
 
 Caelyx exhibits unique pharmacokinetic properties and must not be used interchangeably with other formulations of doxorubicin hydrochloride.
 
-Breast cancer/Ovarian cancer :
+Breast cancer/Ovarian cancer:
 Caelyx is administered intravenously at a dose of 50 mg/m2 once every 4 weeks for as long as the disease does not progress and the patient continues to tolerate treatment.
 
 For doses < 90 mg: dilute Caelyx in 250 ml 5 % (50 mg/ml) glucose solution for infusion.
 For doses ≥ 90 mg: dilute Caelyx in 500 ml 5 % (50 mg/ml) glucose solution for infusion.
 To minimize the risk of infusion reactions, the initial dose is administered at a rate no greater than 1 mg/minute.
-If no infusion reaction is observed, subsequent Caelyx infusions may be administered over a 60 minute period.
+If no infusion reaction is observed, subsequent Caelyx infusions may be administered over a 60-minute period.
 
 In those patients who experience an infusion reaction, the method of infusion should be modified as follows:
 5 % of the total dose should be infused slowly over the first 15 minutes.
@@ -125,7 +125,8 @@ No pharmacokinetic data are available in patients with creatinine clearance of l
 
 AIDS-KS patients with splenectomy: As there is no experience with Caelyx in patients who have had splenectomy, treatment with Caelyx is not recommended.
 
-Paediatric patients: Safety and effectiveness in patients less than 18 years of age have not been established.
+Paediatric patients: The experience in children is limited.
+Caelyx is not recommended in patients below 18 years of age.
 
 Elderly patients: Population based analysis demonstrates that age across the range tested
 (21 – 75 years) does not significantly alter the pharmacokinetics of Caelyx.

@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-No formal drug interaction studies have been conducted with Caelyx, although phase II combination trials with conventional chemotherapy agents have been conducted in patients with gynaecological malignancies.
+No formal medicinal product interaction studies have been performed with Caelyx, although phase II combination trials with conventional chemotherapy agents have been conducted in patients with gynaecological malignancies.
 Exercise caution in the concomitant use of medicinal products known to interact with standard doxorubicin hydrochloride.
 Caelyx, like other doxorubicin hydrochloride preparations, may potentiate the toxicity of other anti-cancer therapies.
 During clinical trials in patients with solid tumours (including breast and ovarian cancer) who have received concomitant cyclophosphamide or taxanes, no new additive toxicities were noted.
