@@ -12,12 +12,12 @@ Additionally, trastuzumab is a potent mediator of antibody-dependent cell-mediat
 In vitro, trastuzumab-mediated ADCC has been shown to be preferentially exerted on HER2 overexpressing cancer cells compared with cancer cells that do not overexpress HER2.
 
 Detection of HER2 overexpression or HER2 gene amplification
-Herceptin should only be used in patients whose tumours have HER2 overexpression or HER2 gene amplification.
+Herceptin should only be used in patients whose tumours have HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay.
 HER2 overexpression should be detected using an immunohistochemistry (IHC)-based assessment of fixed tumour blocks (see 4.4).
 HER2 gene amplification should be detected using fluorescence in situ hybridisation (FISH) or chromogenic in situ hybridisation (CISH) of fixed tumour blocks.
 Patients are eligible for Herceptin treatment if they show strong HER2 overexpression as described by a 3+ score by IHC or a positive FISH or CISH result.
-
 To ensure accurate and reproducible results, the testing must be performed in a specialised laboratory, which can ensure validation of the testing procedures.
+
 The recommended scoring system to evaluate the IHC staining patterns is as follows:
 
 | Staining Intensity Score | Staining pattern | HER2 Overexpression Assessment |
@@ -29,9 +29,10 @@ The recommended scoring system to evaluate the IHC staining patterns is as follo
 
 In general, FISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2, or if there are more than 4 copies of the HER2 gene per tumour cell if no chromosome 17 control is used.
 
-In general, CISH is considered positive if there are more than 5 copies of the HER2 gene per nucleus in greater than 50% of tumour cells.
+In general, CISH is considered positive if there are more than 5 copies of the HER2 gene per nucleus in greater than 50 % of tumour cells.
 
 For full instructions on assay performance and interpretation please refer to the package inserts of validated FISH and CISH assays.
+Official recommendations on HER2 testing may also apply.
 
 For any other method that may be used for the assessment of HER2 protein or gene expression, the analyses should only be performed by laboratories that provide adequate state-of-the-art performance of validated methods.
 Such methods must clearly be precise and accurate enough to demonstrate overexpression of HER2 and must be able to distinguish between moderate (congruent with 2+) and strong (congruent with 3+) overexpression of HER2.
@@ -41,7 +42,7 @@ Herceptin has been used in clinical trials as monotherapy for patients with meta
 
 Herceptin has also been used in combination with paclitaxel or docetaxel for the treatment of patients who have not received chemotherapy for their metastatic disease.
 Patients who had previously received anthracycline-based adjuvant chemotherapy were treated with paclitaxel (175 mg/m2 infused over 3 hours) with or without Herceptin.
-In the pivotal trial of docetaxel (100 mg/m2 infused over 1 hour) with or without Herceptin, 60% of the patients had received prior anthracycline-based adjuvant chemotherapy.
+In the pivotal trial of docetaxel (100 mg/m2 infused over 1 hour) with or without Herceptin, 60 % of the patients had received prior anthracycline-based adjuvant chemotherapy.
 Patients were treated with Herceptin until progression of disease.
 
 The efficacy of Herceptin in combination with paclitaxel in patients who did not receive prior adjuvant anthracyclines has not been studied.
@@ -53,11 +54,15 @@ This investigative clinical trial assay performed in a central laboratory utilis
 Patients classified as staining 2+ or 3+ were included, while those staining 0 or 1+ were excluded.
 Greater than 70 % of patients enrolled exhibited 3+ overexpression.
 The data suggest that beneficial effects were greater among those patients with higher levels of overexpression of HER2 (3+).
+
 The main test method used to determine HER2 positivity in the pivotal trial of docetaxel, with or without Herceptin, was immunohistochemistry.
 A minority of patients were tested using fluorescence in-situ hybridisation (FISH).
-In this trial, 87% of patients entered had disease that was IHC3+, and 95% of patients entered had disease that was IHC3+ and/or FISH-positive.
+In this trial, 87 % of patients entered had disease that was IHC3+, and 95 % of patients entered had disease that was IHC3+ and/or FISH-positive.
 
 Efficacy
+
+MBC
+
 The efficacy results from the monotherapy and combination therapy studies are summarised in the following table:
 
 | Parameter | Monotherapy | Combination Therapy |  |  |  |
@@ -76,6 +81,23 @@ Study H0649g: IHC3+ patient subset
 Study H0648g: IHC3+ patient subset
 3.
 Study M77001: Full analysis set (intent-to-treat)
+
+EBC
+
+Early breast cancer is defined as non-metastatic primary invasive carcinoma of the breast.
+Early breast cancer in the HERA trial was limited to operable, primary, invasive adenocarcinoma of the breast, with axillary nodes positive or axillary nodes negative if tumours at least 1 cm in diameter.
+
+In the adjuvant setting, Herceptin was investigated in a multicentre, randomised, trial (HERA) designed to compare one year of three-weekly Herceptin treatment versus observation in patients with HER2 positive early breast cancer following surgery, established chemotherapy and radiotherapy (if applicable).
+Patients assigned to receive Herceptin were given an initial loading dose of 8 mg/kg, followed by 6 mg/kg every three weeks for one year.
+The efficacy results from the Hera trial are summarized in the following table:
+
+| Parameter | Observation N=1693 | Herceptin 1 Year N = 1693 | P-value vs Observation | Hazard Ratio vs Observation |
+| --- | --- | --- | --- | --- |
+| Disease-free survival - No. patients with event - No. patients without event | 219 (12.9 %) 1474 (87.1 %) | 127 (7.5 %) 1566 (92.5 %) | < 0.0001 | 0.54 |
+| Recurrence-free survival - No. patients with event - No. patients without event | 208 (12.3 %) 1485 (87.7 %) | 113 (6.7 %) 1580 (93.3 %) | < 0.0001 | 0.51 |
+| Distant disease-free survival - No. patients with event - No. patients without event | 184 (10.9 %) 1508 (89.1 %) | 99 (5.8 %) 1594 (94.6 %) | < 0.0001 | 0.50 |
+
+For the primary endpoint, DFS, the hazard ratio translates into an absolute benefit, in terms of a 2-year disease-free survival rate, of 7.6 percentage points (85.8 % vs 78.2 %) in favour of the Herceptin arm.
 
 Immunogenicity
 Nine hundred and three patients treated with Herceptin, alone or in combination with chemotherapy, have been evaluated for antibody production.

@@ -1,16 +1,18 @@
 # 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of trastuzumab have been studied in breast cancer patients with metastatic disease.
+The pharmacokinetics of trastuzumab have been studied in patients with metastatic breast cancer and early breast cancer.
 Short duration intravenous infusions of 10, 50, 100, 250, and 500 mg trastuzumab once weekly in patients demonstrated dose-dependent pharmacokinetics.
 Drug interaction studies have not been performed with Herceptin.
 
 Half-life
-Using the recommended dose, the half-life is approximately 28.5 days (95 % confidence interval, 25.5 –32.8 days).
+The half-life is approximately 28.5 days (95 % confidence interval, 25.5 –32.8 days).
 The washout period is up to 24 weeks (95 % confidence interval, 18-24 weeks)
 
-Steady State and Peak Concentration
+Steady State Concentration
 Steady state pharmacokinetics should be reached by approximately 20 weeks ( 95 % confidence interval, 18 – 24 weeks ).
-The estimated mean AUC was 578 mg day/L and the estimated mean peak and trough concentrations were 110 mg/L and 66 mg/L, respectively.
+In a population pharmacokinetic assessment of Phase I, II and III clinical trials in metastatic breast cancer, the estimated mean AUC was 578 mg day/L and the estimated mean peak and trough concentrations were 110 mg/L and 66 mg/L, respectively.
+In patients with early breast cancer administered Herceptin at a loading dose of 8 mg/kg followed every three weeks by 6 mg/kg, steady state trough concentrations of 63 ng/mL were achieved by cycle 13 (week 37).
+The concentrations were comparable to those reported previously in patients with metastatic breast cancer.
 
 Clearance
 Clearance decreased with increased dose level.
