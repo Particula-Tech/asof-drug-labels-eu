@@ -6,14 +6,12 @@ Both clearance and absolute bioavailability decrease with increasing dose.
 Absorption
 The mean absolute oral bioavailability of aprepitant is 67 % for the 80-mg capsule and 59 % for the 125-mg capsule.
 The mean peak plasma concentration (Cmax) of aprepitant occurred at approximately 4 hours (Tmax).
-Oral administration of the capsule with an approximately 800 Kcal standard breakfast resulted in an up to 40 % increase in AUC of aprepitant.
-This increase is not considered clinically relevant.
 
-The pharmacokinetics of aprepitant is non-linear across the clinical dose range.
-In healthy young adults, the increase in AUC0-∞ was 26 % greater than dose proportional between 80-mg and 125-mg single doses administered in the fed state.
+Concomitant intake of a 40 mg dose with a standard breakfast only decreased the aprepitant Cmax by 18% but did not affect AUC.
+This is not considered to be clinically important.
 
-Following oral administration of a single 125 mg dose of EMEND on Day 1 and 80 mg once daily on Days 2 and 3, the AUC0-24hr (mean±SD) was 19.6±2.5 microgram x hr/ml and 21.2±6.3 microgram x hr/ml on Days 1 and 3, respectively.
-Cmax was 1.6±0.36 microgram/ml and 1.4±0.22 microgram/ml on Days 1 and 3, respectively.
+Following oral administration of a single 40 mg dose of EMEND in the fasted state, the AUC0-∞ (mean±SD) was 8.0±2.1 microgram x hr/mL and the Cmax was 0.7±0.24 microgram/mL.
+The median Tmax was 3.0 hours.
 
 Distribution
 Aprepitant is highly protein bound, with a mean of 97 %.
@@ -32,7 +30,7 @@ Metabolites are excreted in urine and via biliary excretion in faeces.
 Following a single intravenously administered 100-mg dose of [14C]- aprepitant prodrug to healthy subjects, 57 % of the radioactivity was recovered in urine and 45 % in faeces.
 
 The plasma clearance of aprepitant is dose-dependent, decreasing with increased dose and ranged from approximately 60 to 72 ml/min in the therapeutic dose range.
-The terminal half-life ranged from approximately 9 to 13 hours.
+The terminal half-life is approximately 9 hours after administration of a single 40 mg dose.
 
 Pharmacokinetics in special populations
 Elderly: Following oral administration of a single 125-mg dose of EMEND on Day 1 and 80 mg once daily on Days 2 through 5, the AUC0-24hr of aprepitant was 21 % higher on Day 1 and 36 % higher on Day 5 in elderly (≥65 years) relative to younger adults.
@@ -44,6 +42,7 @@ Gender: Following oral administration of a single 125-mg dose of EMEND, the Cmax
 The half-life of aprepitant is 25 % lower in females as compared with males and its Tmax occurs at approximately the same time.
 These differences are not considered clinically meaningful.
 No dosage adjustment for EMEND is necessary based on gender.
+
 Paediatric patients: The pharmacokinetics of EMEND have not been evaluated in patients below 18 years of age.
 
 Hepatic insufficiency: Mild hepatic insufficiency (Child-Pugh score 5 to 6) does not affect the pharmacokinetics of aprepitant to a clinically relevant extent.
@@ -62,3 +61,24 @@ No dosage adjustment for EMEND is necessary for patients with renal insufficienc
 
 Relationship between concentration and effect: Using a highly specific NK1-receptor tracer, PET studies in healthy young men have shown that aprepitant penetrates into the brain and occupies NK1 receptors in a dose- and plasma- concentration-dependent manner.
 Aprepitant plasma concentrations achieved with the 3-day regimen of EMEND are predicted to provide greater than 95 % occupancy of brain NK1 receptors.
+
+[EMEND 80 mg hard capsules]
+
+Oral administration of the capsule with an approximately 800 Kcal standard breakfast resulted in an up to 40 % increase in AUC of aprepitant.
+This increase is not considered clinically relevant.
+
+The pharmacokinetics of aprepitant is non-linear across the clinical dose range.
+In healthy young adults, the increase in AUC0-∞ was 26 % greater than dose proportional between 80-mg and 125-mg single doses administered in the fed state.
+
+Following oral administration of a single 125 mg dose of EMEND on Day 1 and 80 mg once daily on Days 2 and 3, the AUC0-24hr (mean±SD) was 19.6±2.5 microgram x hr/ml and 21.2±6.3 microgram x hr/ml on Days 1 and 3, respectively.
+Cmax was 1.6±0.36 microgram/ml and 1.4±0.22 microgram/ml on Days 1 and 3, respectively.
+
+The terminal half-life ranged from approximately 9 to 13 hours.
+
+[EMEND 125 mg hard capsules]
+
+(all sentences already above)
+
+[EMEND 125 mg hard capsule]
+
+(all sentences already above)

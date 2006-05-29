@@ -2,6 +2,10 @@
 
 Hard capsule
 
+Capsules are opaque with a white body and mustard yellow cap with “464” and “40 mg” printed radially in black ink on the body.
+
+[EMEND 80 mg hard capsules]
+
 Capsules are opaque with a white body and cap with “461” and “80 mg” printed radially in black ink on the body.
 
 [EMEND 125 mg hard capsules]

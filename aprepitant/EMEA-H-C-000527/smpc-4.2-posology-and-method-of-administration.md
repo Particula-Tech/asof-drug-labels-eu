@@ -1,43 +1,10 @@
 # 4.2 Posology and method of administration
 
-EMEND is available as an 80 mg and a 125 mg hard capsule.
+Clinical treatment guidelines should be considered as regards the need for prophylactic treatment against postoperative nausea and vomiting.
 
-EMEND is given for 3 days as part of a regimen that includes a corticosteroid and a 5-HT3 antagonist.
-The recommended dose of EMEND is 125 mg orally Day 1 and 80 mg once daily Days 2 and 3.
+The recommended oral dosage of EMEND is a single 40 mg dose within 3 hours prior to induction of anesthesia.
 
-In clinical studies, the following regimens were used for the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy:
-
-Highly Emetogenic Chemotherapy Regimen
-
-|  | Day 1 | Day 2 | Day 3 | Day 4 |
-| --- | --- | --- | --- | --- |
-| EMEND | 125 mg | 80 mg | 80 mg | none |
-| Dexamethasone | 12 mg orally | 8 mg orally | 8 mg orally | 8 mg orally |
-| Ondansetron | 32 mg IV | none | none | none |
-
-EMEND was administered orally 1 hour prior to chemotherapy treatment on Day 1 and in the morning on Days 2 and 3.
-Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 to 4.
-The dose of dexamethasone was chosen to account for medicinal product interactions.
-Ondansetron was administered intravenously 30 minutes prior to chemotherapy treatment on Day 1.
-Moderately Emetogenic Chemotherapy Regimen
-
-|  | Day 1 | Day 2 | Day 3 |
-| --- | --- | --- | --- |
-| EMEND | 125 mg | 80 mg | 80 mg |
-| Dexamethasone | 12 mg orally | none | none |
-| Ondansetron | 2 x 8 mg orally | none | none |
-
-EMEND was administered orally 1 hour prior to chemotherapy treatment on Day 1 and in the morning on Days 2 and 3.
-Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1.
-The dose of dexamethasone was chosen to account for medicinal product interactions.
-One 8 mg capsule of Ondansetron was administered 30 to 60 minutes prior to chemotherapy treatment and one 8 mg capsule was administered 8 hours after first dose on Day 1.
-
-Efficacy data on combination with other corticosteroids and 5-HT3 antagonists are limited.
-For additional information on the administration of EMEND with corticosteroids, see section 4.5.
-
-Refer to the full product information for coadministered antiemetic agents.
-
-EMEND may be taken with or without food.
+General Information
 
 The hard capsule should be swallowed whole.
 
@@ -54,3 +21,47 @@ There are limited data in patients with moderate hepatic insufficiency and no da
 Children and adolescents
 Safety and efficacy have not been established in children and adolescents.
 Therefore, use in patients under 18 years of age is not recommended.
+
+[EMEND 80 mg hard capsules]
+
+EMEND is given for 3 days as part of a regimen that includes a corticosteroid and a 5-HT3 antagonist.
+The recommended dose of EMEND is 125 mg orally Day 1 and 80 mg once daily Days 2 and 3.
+
+In clinical studies, the following regimens were used for the prevention of nausea and vomiting associated with emetogenic cancer chemotherapy:
+
+Highly Emetogenic Chemotherapy Regimen
+
+Day 1 Day 2 Day 3 Day 4
+EMEND 125 mg 80 mg 80 mg none
+Dexamethasone 12 mg orally 8 mg orally 8 mg orally 8 mg orally
+Ondansetron 32 mg IV none none none
+
+EMEND was administered orally 1 hour prior to chemotherapy treatment on Day 1 and in the morning on Days 2 and 3.
+Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1 and in the morning on Days 2 to 4.
+The dose of dexamethasone was chosen to account for medicinal product interactions.
+Ondansetron was administered intravenously 30 minutes prior to chemotherapy treatment on Day 1.
+Moderately Emetogenic Chemotherapy Regimen
+
+|  | Day 1 | Day 2 | Day 3 |
+| --- | --- | --- | --- |
+| EMEND | 125 mg | 80 mg | 80 mg |
+| Dexamethasone | 12 mg orally | none | none |
+| Ondansetron | 2 x 8 mg orally | none | none |
+
+Dexamethasone was administered 30 minutes prior to chemotherapy treatment on Day 1.
+One 8 mg capsule of Ondansetron was administered 30 to 60 minutes prior to chemotherapy treatment and one 8 mg capsule was administered 8 hours after first dose on Day 1.
+
+Efficacy data on combination with other corticosteroids and 5-HT3 antagonists are limited.
+For additional information on the administration of EMEND with corticosteroids, see section 4.5.
+
+Refer to the full product information for coadministered antiemetic agents.
+
+EMEND may be taken with or without food.
+
+[EMEND 125 mg hard capsules]
+
+(all sentences already above)
+
+[EMEND 125 mg hard capsule]
+
+(all sentences already above)

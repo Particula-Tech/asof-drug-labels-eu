@@ -1,8 +1,12 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each capsule contains 80 mg of aprepitant.
+Each capsule contains 40 mg of aprepitant.
 
-For excipients, see section 6.1.
+For a full list of excipients, see section 6.1.
+
+[EMEND 80 mg hard capsules]
+
+Each capsule contains 80 mg of aprepitant.
 
 [EMEND 125 mg hard capsules]
 
