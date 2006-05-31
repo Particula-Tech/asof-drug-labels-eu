@@ -14,14 +14,14 @@ Coadministration of VFEND with high dose ritonavir (400mg and above twice daily)
 Coadministration of ergot alkaloids (ergotamine, dihydroergotamine), which are CYP3A4 substrates, is contraindicated since increased plasma concentrations of these medicinal products can lead to ergotism (see section 4.5).
 Coadministration of voriconazole and sirolimus is contraindicated, since voriconazole is likely to increase plasma concentrations of sirolimus significantly (see section 4.5).
 
-[VFEND 200mg film-coated tablets]
-
-(see section 4.5, for lower doses see section 4.4)).
-
-[VFEND 200mg powder for solution for infusion]
+[VFEND 200 mg film-coated tablets]
 
 (all sentences already above)
 
-[VFEND 40mg/ml powder for oral suspension]
+[VFEND 200 mg powder for solution for infusion]
+
+(all sentences already above)
+
+[VFEND 40 mg/ml powder for oral suspension]
 
 Coadministration of VFEND with high dose ritonavir (400mg and above twice daily) is contraindicated because ritonavir significantly decreases plasma voriconazole concentrations in healthy subjects at this dose (see section 4.5, for lower doses see section 4.4).

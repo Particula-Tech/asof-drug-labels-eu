@@ -2,14 +2,14 @@
 
 19 March 2002
 
-[VFEND 200mg film-coated tablets]
+[VFEND 200 mg film-coated tablets]
 
 (all sentences already above)
 
-[VFEND 200mg powder for solution for infusion]
+[VFEND 200 mg powder for solution for infusion]
 
 (all sentences already above)
 
-[VFEND 40mg/ml powder for oral suspension]
+[VFEND 40 mg/ml powder for oral suspension]
 
 23 February 2004

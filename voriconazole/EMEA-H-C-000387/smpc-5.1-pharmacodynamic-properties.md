@@ -23,7 +23,6 @@ Other treated fungal infections (with often partial or complete response) includ
 Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and
 Trichosporon spp. including T. beigelii infections.
 In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2 µg/ml.
-
 In vitro activity against the following pathogens has been shown, but the clinical significance is unknown: Curvularia spp. and Sporothrix spp.
 
 Specimens for fungal culture and other relevant laboratory studies (serology, histopathology) should be obtained prior to therapy to isolate and identify causative organisms.
@@ -32,6 +31,7 @@ Therapy may be instituted before the results of the cultures and other laborator
 Clinical isolates with decreased susceptibility to voriconazole have been identified.
 However, elevated minimum inhibitory concentrations did not always correlate with clinical failure and clinical success has been observed in patients infected with organisms resistant to other azoles.
 Correlation of in vitro activity with clinical outcome is difficult owing to the complexity of the patients studied in clinical trials; breakpoints for voriconazole remain to be established.
+
 Clinical Experience
 
 Successful outcome in this section is defined as complete or partial response.
@@ -103,7 +103,7 @@ The placebo-adjusted mean maximum increases in QTc from baseline after 800, 1200
 No subject in any group had an increase in QTc of ≥60 msec from baseline.
 No subject experienced an interval exceeding the potentially clinically relevant threshold of 500msec.
 
-[VFEND 200mg film-coated tablets]
+[VFEND 200 mg film-coated tablets]
 
 In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2µg/ml.
 
@@ -114,7 +114,7 @@ The most commonly treated fungal infection was aspergillosis (43/61; 70%).
 The placebo-adjusted mean maximum increases in QTc from baseline after 800, 1200 and 1600mg of voriconazole were 5.1, 4.8, and 8.2msec, respectively and 7.0msec for ketoconazole 800mg.
 No subject in any group had an increase in QTc of ≥60msec from baseline.
 
-[VFEND 200mg powder for solution for infusion]
+[VFEND 200 mg powder for solution for infusion]
 
 Clinical efficacy (with partial or complete response, see below under Clinical Experience) has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans, Candida spp., including C. albicans , C. glabrata, C. krusei, C. parapsilosis and C. tropicalis and limited numbers of C. dubliniensis,C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans and Fusarium spp.
 
@@ -128,7 +128,7 @@ Scedosporium spp.: Successful response to voriconazole therapy was seen in 16 (6
 
 No subject experienced an interval exceeding the potentially clinically relevant threshold of 500 msec.
 
-[VFEND 40mg/ml powder for oral suspension]
+[VFEND 40 mg/ml powder for oral suspension]
 
 Clinical efficacy (with partial or complete response, see below under Clinical Experience) has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans, Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis and limited numbers of C. dubliniensis,
 C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans and Fusarium spp.

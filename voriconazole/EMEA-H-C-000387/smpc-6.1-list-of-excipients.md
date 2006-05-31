@@ -13,17 +13,17 @@ Titanium Dioxide (E171)
 Lactose Monohydrate
 Glycerol Triacetate
 
-[VFEND 200mg film-coated tablets]
+[VFEND 200 mg film-coated tablets]
 
 (all sentences already above)
 
-[VFEND 200mg powder for solution for infusion]
+[VFEND 200 mg powder for solution for infusion]
 
 Sulphobutylether beta cyclodextrin sodium (SBECD)
 
-[VFEND 40mg/ml powder for oral suspension]
+[VFEND 40 mg/ml powder for oral suspension]
 
-Sucrose (0.54g per ml of suspension)
+Sucrose (0.54 g per ml of suspension)
 Silica, Colloidal
 Xanthan Gum
 Sodium Citrate
