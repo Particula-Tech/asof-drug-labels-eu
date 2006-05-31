@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-Preclinical safety data revealed no special hazard for humans based on conventional studies of safety pharmacology, repeat-dose toxicity, genotoxicity, carcinogenicity, and reproductive toxicity.
+Non-clinical safety data revealed no special hazard for humans based on conventional studies of safety pharmacology, repeat-dose toxicity, genotoxicity, carcinogenic potential, and toxicity to reproduction.
 
 Toxicologically significant effects were observed only at doses or exposures that were sufficiently in excess of the maximum human dose or exposure, indicating that these effects were limited or of no relevance to clinical use.
 These included: dose-dependent adrenocortical toxicity (lipofuscin pigment accumulation and/or parenchymal cell loss) in rats after 104 weeks at 20 to 60 mg/kg/day (3 to 14 times the mean steady-state AUC at the maximum recommended human dose) and increased adrenocortical carcinomas and combined adrenocortical adenomas/carcinomas in female rats at 60 mg/kg/day (14 times the mean steady-state AUC at the maximum recommended human dose).

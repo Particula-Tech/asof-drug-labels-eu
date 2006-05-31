@@ -1,6 +1,7 @@
 # 6.5 Nature and contents of container
 
-ABILIFY tablets are available in aluminium perforated unit dose blisters in cartons of 14 x 1, 28 x 1, 49 x 1, 56 x 1, 98 x 1 tablets.
+Aluminium perforated unit dose blisters in cartons of 14 x 1, 28 x 1, 49 x 1, 56 x 1, 98 x 1 tablets.
+
 Not all pack sizes may be marketed.
 
 [ABILIFY 10 mg tablets]
@@ -35,5 +36,5 @@ Carton of 49 x 1 tablets in cold-formed aluminium perforated unit dose blisters.
 
 [ABILIFY 1 mg/ml oral solution]
 
-ABILIFY 1 mg/ml oral solution is supplied in PET-bottles with polypropylene child-resistant closure containing 50, 150 or 480 ml per bottle.
+PET-bottles with polypropylene child-resistant closure containing 50, 150 or 480 ml per bottle.
 Each carton contains 1 bottle and a calibrated polypropylene measuring cup.

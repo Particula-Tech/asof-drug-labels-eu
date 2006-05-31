@@ -16,7 +16,7 @@
 
 [ABILIFY 5 mg orodispersible tablets]
 
-36 months
+(all sentences already above)
 
 [ABILIFY 10 mg orodispersible tablets]
 

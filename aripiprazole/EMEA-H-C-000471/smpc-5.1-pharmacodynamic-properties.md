@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antipsychotics, ATC code; N05 AX12
+Pharmacotherapeutic group: antipsychotics, ATC code; N05AX12
 
 It has been proposed that aripiprazole’s efficacy in schizophrenia is mediated through a combination of partial agonism at dopamine D2 and serotonin 5HT1a receptors and antagonism of serotonin 5HT2a receptors.
 Aripiprazole exhibited antagonist properties in animal models of dopaminergic hyperactivity and agonist properties in animal models of dopaminergic hypoactivity.
@@ -14,14 +14,14 @@ Schizophrenia: in three short-term (4 to 6 week) placebo-controlled trials invol
 1,228 schizophrenic patients, presenting with positive or negative symptoms, aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
 
 ABILIFY is effective in maintaining the clinical improvement during continuation therapy in patients who have shown an initial treatment response.
-In a haloperidol-controlled trial, the proportion of responder patients maintaining response to medication at 52-weeks was similar in both groups (aripiprazole 77% and haloperidol 73%).
+In a haloperidol-controlled trial, the proportion of responder patients maintaining response to medicinal product at 52-weeks was similar in both groups (aripiprazole 77% and haloperidol 73%).
 The overall completion rate was significantly higher for patients on aripiprazole (43%) than for haloperidol (30%).
 Actual scores in rating scales used as secondary endpoints, including PANSS and the Montgomery-Asberg Depression Rating Scale showed a significant improvement over halperidol.
 In a 26-week, placebo-controlled trial in stabilised patients with chronic schizophrenia, aripiprazole had significantly greater reduction in relapse rate, 34% in aripiprazole group and 57% in placebo.
 
 Weight gain: in clinical trials aripiprazole has not been shown to induce clinically relevant weight gain.
 In a 26-week, olanzapine-controlled, double-blind, multi-national study of schizophrenia which included 314 patients and where the primary end-point was weight gain, significantly less patients had at least 7% weight gain over baseline (i.e. a gain of at least 5.6 kg for a mean baseline weight of
-~80.5 kg) on aripiprazole (N=18, or 13% of evaluable patients), compared to olanzapine (N=45, or 33% of evaluable patients).
+~80.5 kg) on aripiprazole (N= 18, or 13% of evaluable patients), compared to olanzapine (N= 45, or 33% of evaluable patients).
 
 [ABILIFY 10 mg tablets]
 
@@ -37,7 +37,7 @@ In a 26-week, olanzapine-controlled, double-blind, multi-national study of schiz
 
 [ABILIFY 5 mg orodispersible tablets]
 
-~80.5 kg) on aripiprazole (N= 18, or 13% of evaluable patients), compared to olanzapine (N= 45, or 33% of evaluable patients).
+(all sentences already above)
 
 [ABILIFY 10 mg orodispersible tablets]
 
@@ -53,6 +53,6 @@ In a 26-week, olanzapine-controlled, double-blind, multi-national study of schiz
 
 [ABILIFY 1 mg/ml oral solution]
 
-Pharmacotherapeutic group: antipsychotics, ATC code: N05 AX12
+Pharmacotherapeutic group: antipsychotics, ATC code: N05AX12
 
 ~80.5 kg) on aripiprazole (N = 18, or 13% of evaluable patients), compared to olanzapine (N = 45, or 33% of evaluable patients).

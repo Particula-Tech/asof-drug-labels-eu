@@ -2,8 +2,7 @@
 
 Due to its α1-adrenergic receptor antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive agents.
 
-Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is taken in combination with alcohol or other CNS drugs with overlapping side effects such as sedation
-(see section 4.8).
+Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is taken in combination with alcohol or other CNS medicinal products with overlapping undesirable effects such as sedation (see section 4.8).
 
 Potential for other medicinal products to affect ABILIFY:
 
@@ -32,46 +31,12 @@ Similarly, for dehydro-aripiprazole the geometric means of Cmax and AUC after ca
 ABILIFY dose should be doubled when concomitant administration of ABILIFY occurs with carbamazepine.
 Other potent inducers of CYP3A4 (such as rifampicin, rifabutin, phenytoin, phenobarbital, primidone, efavirenz, nevirapine and St. John's Wort) may be expected to have similar effects and similar dose increases should therefore be applied.
 Upon discontinuation of potent CYP3A4 inducers, the dosage of ABILIFY should be reduced to the recommended dose.
-
 When either valproate or lithium were administered concomitantly with aripiprazole, there was no clinically significant change in aripiprazole concentrations.
+
 Potential for ABILIFY to affect other medicinal products:
 
 In clinical studies, 10-30 mg/day doses of aripiprazole had no significant effect on the metabolism of substrates of CYP2D6 (dextromethorphan/3-methoxymorphinan ratio), 2C9 (warfarin), 2C19 (omeprazole), and 3A4 (dextromethorphan).
 Additionally, aripiprazole and dehydro-aripiprazole did not show potential for altering CYP1A2-mediated metabolism in vitro.
-Thus, aripiprazole is unlikely to cause clinically important drug interactions mediated by these enzymes.
+Thus, aripiprazole is unlikely to cause clinically important medicinal product interactions mediated by these enzymes.
 
-[ABILIFY 10 mg tablets]
-
-(all sentences already above)
-
-[ABILIFY 15 mg tablets]
-
-(all sentences already above)
-
-[ABILIFY 30 mg tablets]
-
-(all sentences already above)
-
-[ABILIFY 5 mg orodispersible tablets]
-
-(all sentences already above)
-
-[ABILIFY 10 mg orodispersible tablets]
-
-(all sentences already above)
-
-[ABILIFY 15 mg orodispersible tablets]
-
-(all sentences already above)
-
-[ABILIFY 30 mg orodispersible tablets]
-
-(all sentences already above)
-
-[ABILIFY 1 mg/ml oral solution]
-
-Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is taken in combination with alcohol or other CNS drugs with overlapping side effects such as sedation (see section 4.8).
-
-In a clinical study in healthy subjects, a potent inhibitor of CYP2D6 (quinidine) increased aripiprazole AUC by 107%, while Cmax was unchanged.
-
-In a clinical study in healthy subjects, a potent inhibitor of CYP3A4 (ketoconazole) increased aripiprazole AUC and Cmax by 63% and 37%, respectively.
+When aripiprazole was administered concomitantly with either valproate or lithium, there was no clinically important change in valproate or lithium concentrations.

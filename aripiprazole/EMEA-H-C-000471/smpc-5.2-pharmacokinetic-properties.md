@@ -37,7 +37,6 @@ Population pharmacokinetic evaluation has revealed no evidence of clinically sig
 
 Renal Disease:
 The pharmacokinetic characteristics of aripiprazole and dehydro-aripiprazole were found to be similar in patients with severe renal disease compared to young healthy subjects.
-
 Hepatic Disease:
 A single-dose study in subjects with varying degrees of liver cirrhosis (Child-Pugh Classes A, B, and C) did not reveal a significant effect of hepatic impairment on the pharmacokinetics of aripiprazole and dehydro-aripiprazole, but the study included only 3 patients with Class C liver cirrhosis, which is insufficient to draw conclusions on their metabolic capacity.
 
@@ -74,7 +73,7 @@ Aripiprazole orodispersible tablets may be used as an alternative to aripiprazol
 
 At therapeutic concentrations, aripiprazole and dehydro-aripiprazole are greater than 99% bound to serum proteins, binding primarily to albumin.
 
-Oral Solution
+Oral Solution:
 Aripiprazole is well absorbed when administered orally as the solution.
 At equivalent doses, the peak plasma concentrations of aripiprazole (Cmax) from the solution were somewhat higher but the systemic exposure (AUC) was equivalent to tablets.
 In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to the tablet ratio of geometric mean Cmax values was 122% (N = 30).
