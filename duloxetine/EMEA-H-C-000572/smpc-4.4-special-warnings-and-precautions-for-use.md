@@ -1,13 +1,15 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Mania and seizures
 CYMBALTA should be used with caution in patients with a history of mania or a diagnosis of bipolar disorder, and/or seizures.
 
 Mydriasis
 Mydriasis has been reported in association with duloxetine, therefore, caution should be used when prescribing CYMBALTA to patients with increased intraocular pressure, or those at risk of acute narrow-angle glaucoma.
-Blood pressure
+Blood pressure and heart rate
 Duloxetine is associated with an increase in blood pressure in some patients.
-In patients with known hypertension and/or other cardiac disease, blood pressure monitoring is recommended as appropriate.
+This may be due to the noradrenergic effect of duloxetine.
+In patients with known hypertension and/or other cardiac disease, blood pressure monitoring is recommended, especially at the beginning of treatment.
+Duloxetine should be used with caution in patients whose conditions could be compromised by an increased heart rate or by an increase in blood pressure.
 
 Renal impairment
 Increased plasma concentrations of duloxetine occur in patients with severe renal impairment on haemodialysis (creatinine clearance <30 ml/min).
@@ -56,11 +58,23 @@ Caution is required in patients at increased risk for hyponatremia; such as elde
 Hyponatremia may be due to a syndrome of inappropriate anti-diuretic hormone secretion (SIADH).
 
 Discontinuation of treatment
-Some patients may experience symptoms on discontinuation of CYMBALTA, particularly if treatment is stopped abruptly (see section 4.2 and 4.8).
+Withdrawal symptoms when treatment is discontinued are common, particularly if discontinuation is abrupt (see section 4.8).
+In clinical trials adverse events seen on abrupt treatment discontinuation occurred in approximately 45% of patients treated with CYMBALTA and 23% of patients taking placebo.
+The risk of withdrawal symptoms seen with SSRI’s and SNRI’s may be dependent on several factors including the duration and dose of therapy and the rate of dose reduction.
+The most commonly reported reactions are listed in section 4.8.
+Generally these symptoms are mild to moderate, however, in some patients they may be severe in intensity.
+They usually occur within the first few days of discontinuing treatment, but there have been very rare reports of such symptoms in patients who have inadvertently missed a dose.
+Generally these symptoms are self-limiting and usually resolve within 2 weeks, though in some individuals they may be prolonged (2-3 months or more).
+It is therefore advised that duloxetine should be gradually tapered when discontinuing treatment over a period of no less than 2 weeks, according to the patient’s needs (see section 4.2).
 
 Elderly
 Major Depressive Episodes: Data on the use of CYMBALTA 120mg in elderly patients with major depressive disorders are limited..
 Therefore, caution should be exercised when treating the elderly with the maximum dosage (see sections 4.2 and 5.2).
+
+Akathisia/psychomotor restlessness
+The use of duloxetine has been associated with the development of akathisia, characterised by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.
+This is most likely to occur within the first few weeks of treatment.
+In patients who develop these symptoms, increasing the dose may be detrimental and it may be necessary to review the use of duloxetine.
 
 Medicinal products containing duloxetine
 Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive episodes as well as stress urinary incontinence).
@@ -71,3 +85,7 @@ Cases of liver injury, including severe elevations of liver enzymes (>10 times u
 Most of them occurred during the first months of treatment.
 The pattern of liver damage was predominantly hepatocellular.
 Duloxetine should be used with caution in patients treated with other drugs associated with hepatic injury.
+
+[CYMBALTA 60 mg hard gastro-resistant capsules]
+
+In clinical trials adverse events seen on abrupt treatment discontinuation occurred in approximately 44.8% of patients treated with CYMBALTA and 22.6% of patients taking placebo.

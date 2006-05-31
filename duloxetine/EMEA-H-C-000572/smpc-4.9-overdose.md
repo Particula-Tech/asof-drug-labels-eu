@@ -1,10 +1,11 @@
 # 4.9 Overdose
 
 There is limited clinical experience with duloxetine overdose in humans.
-In pre-marketing clinical trials, no cases of fatal overdose of duloxetine have been reported.
-Cases of acute ingestions up to 1400 mg, alone or in combination with other medicinal products, have been reported.
+Cases of overdoses, alone or in combination with other drugs, with duloxetine doses of almost 2000 mg were reported.
+Fatalities have been very rarely reported, primarily with mixed overdoses, but also with duloxetine alone at a dose of approximately 1000 mg.
+Signs and symptoms of overdose (mostly with mixed drugs) included serotonin syndrome, somnolence, vomiting and seizures.
 
-No specific antidote is known for duloxetine.
+No specific antidote is known for duloxetine but if serotonin syndrome ensues, specific treatment (such as with cyproheptadine and/or temperature control) may be considered.
 A free airway should be established.
 Monitoring of cardiac and vital signs is recommended, along with appropriate symptomatic and supportive measures.
 Gastric lavage may be indicated if performed soon after ingestion or in symptomatic patients.

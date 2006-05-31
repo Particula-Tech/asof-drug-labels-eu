@@ -21,7 +21,6 @@ The medicinal product response should be evaluated after 2 months’ of treatmen
 Additional response after this time is unlikely (see 5.1).
 
 The therapeutic benefit should regularly (at least every three months) be reassessed.
-
 Elderly
 Major Depressive Episodes: No dosage adjustment is recommended for elderly patients solely on the basis of age.
 However, as with any medicine, caution should be exercised when treating the elderly, especially with CYMBALTA 120 mg per day for which data are limited (see sections 4.4 and 5.2).
@@ -40,6 +39,11 @@ No dosage adjustment is necessary for patients with mild or moderate renal dysfu
 See section 4.3 for severe renal impairment.
 
 Discontinuation of treatment
-When discontinuing CYMBALTA after more than 1 week of therapy, it is generally recommended that the dose be tapered over no less than 2 weeks before discontinuation in an effort to decrease the risk of discontinuation symptoms.
-As a general recommendation, the dose should be reduced by half or administered on alternate days during this period.
-The precise regimen followed should however take into account the individual circumstances of the patient, such as duration of treatment, dose at discontinuation etc.
+Abrupt discontinuation should be avoided.
+When stopping treatment with CYMBALTA the dose should be gradually reduced over a period of at least one to two weeks in order to reduce the risk of withdrawal reactions (see sections 4.4 and 4.8).If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.
+Subsequently, the physician may continue decreasing the dose, but at a more gradual rate.
+
+[CYMBALTA 60 mg hard gastro-resistant capsules]
+
+When stopping treatment with CYMBALTA the dose should be gradually reduced over a period of at least one to two weeks in order to reduce the risk of withdrawal reactions (see sections 4.4 and 4.8).
+If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.

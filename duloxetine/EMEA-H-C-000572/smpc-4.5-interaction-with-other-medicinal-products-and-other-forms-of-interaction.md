@@ -2,7 +2,6 @@
 
 CNS medicinal products: the risk of using duloxetine in combination with other CNS-active medicinal products has not been systematically evaluated, except in the cases described in this section.
 Consequently, caution is advised when CYMBALTA is taken in combination with other centrally acting medicinal products and substances including alcohol and sedative medicinal products (e.g. benzodiazepines, morphinomimetics, antipsychotics, phenobarbital, sedative antihistamines).
-
 Monoamine Oxidase Inhibitors (MAOIs): due to the risk of serotonin syndrome, CYMBALTA should not be used in combination with nonselective irreversible monoamine oxidase inhibitors (MAOIs), or within at least 14 days of discontinuing treatment with an MAOI.
 Based on the half-life of duloxetine, at least 5 days should be allowed after stopping CYMBALTA before starting an MAOI (see section 4.3).
 
@@ -15,8 +14,9 @@ Caution is advisable if CYMBALTA is used concomitantly with serotonergic antidep
 Effect of duloxetine on other drugs
 Medicinal products metabolised by CYP1A2: in a clinical study, the pharmacokinetics of theophylline, a CYP1A2 substrate, were not significantly affected by co-administration with duloxetine (60 mg twice daily).
 The study was performed in males and it can not be excluded that females having a lower CYP1A2 activity and higher plasma concentrations of duloxetine may experience an interaction with a CYP1A2 substrate.
-Medicinal products metabolised by CYP2D6: the co-administration of duloxetine (40 mg twice daily) increases steady state AUC of tolterodine (2 mg twice daily) by 71 %, but does not affect the pharmacokinetics of its 5-hydroxyl metabolite and no dosage adjustment is recommended.
-Caution is advised if CYMBALTA is co-administered with medicinal products that are predominantly metabolised by CYP2D6 if they have a narrow therapeutic index.
+
+Medicinal products metabolised by CYP2D6: the co-administration of duloxetine (40 mg twice daily) increases steady state AUC of tolterodine (2 mg twice daily) by 71 %, but does not affect the pharmacokinetics of its active 5-hydroxyl metabolite and no dosage adjustment is recommended.
+Caution is advised if CYMBALTA is co-administered with medicinal products that are predominantly metabolised by CYP2D6 if they have a narrow therapeutic index (such as flecainide, propafenone and metoprolol).
 
 Oral contraceptives and other steroidal agents: results of in vitro studies demonstrate that duloxetine does not induce the catalytic activity of CYP3A.
 Specific in vivo drug interaction studies have not been performed.
@@ -29,3 +29,10 @@ Fluvoxamine (100 mg once daily), a potent inhibitor of CYP1A2, decreased the app
 Therefore CYMBALTA should not be administered in combination with potent inhibitors of CYP1A2 like fluvoxamine (see section 4.3).
 
 Inducers of CYP1A2: Population pharmacokinetic studies have shown that smokers have almost 50% lower plasma concentrations of duloxetine compared with non-smokers.
+
+Warfarin and INR:
+Increases in INR have been reported when duloxetine was co-administered with warfarin.
+
+[CYMBALTA 60 mg hard gastro-resistant capsules]
+
+Medicinal products metabolised by CYP2D6: the co-administration of duloxetine (40 mg twice daily) increases steady state AUC of tolterodine (2 mg twice daily) by 71 %, but does not affect the pharmacokinetics of its 5-hydroxyl metabolite and no dosage adjustment is recommended.
