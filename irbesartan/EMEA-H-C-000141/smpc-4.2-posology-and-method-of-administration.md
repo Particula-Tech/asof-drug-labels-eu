@@ -20,4 +20,4 @@ There is no clinical experience in patients with severe hepatic impairment.
 
 Elderly patients: although consideration should be given to initiating therapy with 75 mg in patients over 75 years of age, dosage adjustment is not usually necessary for the elderly.
 
-Children: safety and efficacy of Aprovel have not been established in children.
+Paediatric patients: irbesartan is not recommended for use in children and adolescents due to insufficient data on safety and efficacy (see sections 5.1 and 5.2).

@@ -27,6 +27,11 @@ Irbesartan and its metabolites are eliminated by both biliary and renal pathways
 After either oral or IV administration of 14C irbesartan, about 20% of the radioactivity is recovered in the urine, and the remainder in the faeces.
 Less than 2% of the dose is excreted in the urine as unchanged irbesartan.
 
+The pharmacokinetics of irbesartan were evaluated in 23 hypertensive children after the administration of single and multiple daily doses of irbesartan (2 mg/kg) up to a maximum daily dose of 150 mg for four weeks.
+Of those 23 children, 21 were evaluable for comparison of pharmacokinetics with adults (twelve children over 12 years, nine children between 6 and 12 years).
+Results showed that Cmax, AUC and clearance rates were comparable to those observed in adult patients receiving 150 mg irbesartan daily.
+A limited accumulation of irbesartan (18%) in plasma was observed upon repeated once daily dosing.
+
 Renal impairment: in patients with renal impairment or those undergoing haemodialysis, the pharmacokinetic parameters of irbesartan are not significantly altered.
 Irbesartan is not removed by haemodialysis.
 

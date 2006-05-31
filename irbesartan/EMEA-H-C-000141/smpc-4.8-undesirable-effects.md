@@ -54,34 +54,34 @@ In diabetic hypertensive patients with microalbuminuria and normal renal functio
 In diabetic hypertensive patients with chronic renal insufficiency and overt proteinuria, hyperkalemia (≥ 5.5 mEq/L) occurred in 46.3% (i.e. very common) of the patients in the irbesartan group and 26.3% of the patients in the placebo group.
 A decrease in haemoglobin, which was not clinically significant, has been observed in 1.7% (i.e. common) of hypertensive patients with advanced diabetic renal disease treated with irbesartan.
 
-In addition, since introduction of irbesartan in the market the following adverse drug reactions have also been reported:
+The following additional adverse reactions have been reported during post–marketing experience; they are derived from spontaneous reports for which incidences cannot be determined:
 
 Immune system disorders:
-
-Rare: as with other angiotensin-II receptor antagonists, rare cases of hypersensitivity
-
-reactions such as rash, urticaria, angioedema have been reported
+As with other angiotensin-II receptor antagonists, rare cases of hypersensitivity reactions such as rash, urticaria, angioedema have been reported
 
 Metabolism and nutrition disorders:
-Very rare: hyperkalemia
+Hyperkalemia
 
 Nervous system disorders:
-Very rare: headache
+Headache
 
 Ear and labyrinth disorders:
-Very rare: tinnitus
+Tinnitus
 
 Gastrointestinal disorders:
-Very rare: dysgeusia
+Dysgeusia
 
 Hepato-biliary disorders:
-Very rare: hepatitis, abnormal liver function
+Hepatitis, abnormal liver function
 
 Musculoskeletal, connective tissue and bone disorders:
-Very rare: arthralgia, myalgia (in some cases associated with increased plasma creatine kinase levels), muscle cramps
+Arthralgia, myalgia (in some cases associated with increased plasma creatine kinase levels), muscle cramps
 
 Renal and urinary disorders:
-Very rare: impaired renal function including isolated cases of renal failure in patients at risk (see section 4.4)
+Impaired renal function including cases of renal failure in patients at risk (see section 4.4)
 
 Skin and subcutaneous tissue disorders:
-Very rare: leuckocytoclastic vasculitis
+Leukocytoclastic vasculitis
+
+Paediatric patients: in a randomised trial of 318 hypertensive children and adolescents aged 6 to 16 years, the following related adverse events occurred in the 3-week double-blind phase: headache (7.9%), hypotension (2.2%), dizziness (1.9%), cough (0.9%).
+In the 26-week open-label period of this trial the most frequent laboratory abnormalities observed were creatinine increases (6.5%) and elevated CK values in 2% of child recipients.
