@@ -11,6 +11,7 @@ NCIC CTC grade 2 diarrhoea is defined as an increase of 4 to 6 stools/day or noc
 Grade 4 diarrhoea is an increase of ≥10 stools/day or grossly bloody diarrhoea or the need for parenteral support.
 If grade 2, 3 or 4 diarrhoea occurs, administration of Xeloda should be immediately interrupted until the diarrhoea resolves or decreases in intensity to grade 1.
 Following grade 3 or 4 diarrhoea, subsequent doses of Xeloda should be decreased or treatment discontinued permanently (grade 4).
+
 Hand-foot syndrome (also known as hand-foot skin reaction or palmar-plantar erythrodysesthesia or chemotherapy induced acral erythema).
 Grade 1 hand- foot syndrome is defined as numbness, dysesthesia/paresthesia, tingling, painless swelling or erythema of the hands and/or feet and/or discomfort which does not disrupt the patient’s normal activities.
 Grade 2 hand- foot syndrome is painful erythema and swelling of the hands and/or feet and/or discomfort affecting the patient’s activities of daily living.

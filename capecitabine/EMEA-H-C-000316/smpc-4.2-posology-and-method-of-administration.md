@@ -4,7 +4,8 @@ Xeloda should only be prescribed by a qualified physician experienced in the uti
 
 Recommended posology:
 
-The recommended dose is 1250 mg/m2 administered twice daily (morning and evening; equivalent to 2500 mg/m2 total daily dose) for 14 days followed by a seven day rest period.
+The recommended dose for Xeloda in the treatment of metastatic colorectal cancer and locally advanced or metastatic breast cancer is 1250 mg/m2 administered twice daily (morning and evening; equivalent to 2500 mg/m2 total daily dose) for 14 days followed by a seven day rest period.
+Adjuvant treatment in patients with stage III colon cancer is recommended for a total of 6 months, i.e. Xeloda 1250 mg/m2 administered twice daily for 14 days followed by a seven day rest period, given as 3-week cycles for a total of 8 cycles (24 weeks).
 Xeloda tablets should be swallowed with water within 30 minutes after a meal.
 Treatment should be discontinued if progressive disease or intolerable toxicity is observed.
 In combination with docetaxel, the recommended dose of Xeloda is 1250 mg/m2 twice daily for 2 weeks followed by 1-week rest period, combined with docetaxel at 75 mg/m2 as a 1 hour intravenous infusion every 3 weeks.
@@ -161,8 +162,8 @@ Patients with anorexia, asthenia, nausea, vomiting or diarrhoea may rapidly beco
 If grade 2 (or higher) dehydration occurs, Xeloda treatment should be immediately interrupted and the dehydration corrected.
 Treatment should not be restarted until the patient is rehydrated and any precipitating causes have been corrected or controlled.
 Dose modifications applied should be those for the precipitating adverse event in accordance with the above guidelines.
-
 Posology adjustments for special populations:
+
 Hepatic impairment: insufficient safety and efficacy data are available in patients with hepatic impairment to provide a dose adjustment recommendation.
 No information is available on hepatic impairment due to cirrhosis or hepatitis.
 
@@ -183,6 +184,8 @@ For patients 60 years of age or more treated with the combination of Xeloda plus
 If no toxicity is observed in patients ≥60 years of age treated with a reduced Xeloda starting dose in combination with docetaxel, the dose of Xeloda may be cautiously escalated to 1250 mg/m2 twice daily.
 
 [Xeloda 500 mg film-coated tablets.]
+
+Adjuvant treatment in patients with stage III colon cancer is recommended for a total of 6 months, i.e. Xeloda 1250 mg/m2 administered twice daily for 14 days followed by a seven day rest period, given as 3-week cycles for a total of 8 cycles (24 weeks).Xeloda tablets should be swallowed with water within 30 minutes after a meal.
 
 Patients taking Xeloda should be informed of the need to interrupt treatment immediately if moderate or worse toxicity occurs Doses of Xeloda omitted for toxicity are not replaced or restored, instead the patient should resume the planned treatment cycle.
 

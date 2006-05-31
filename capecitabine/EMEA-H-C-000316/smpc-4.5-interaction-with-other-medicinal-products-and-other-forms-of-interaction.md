@@ -3,6 +3,7 @@
 Interaction studies have only been performed in adults.
 
 Interaction with other medicinal products:
+
 Coumarin-derivative anticoagulants: altered coagulation parameters and/or bleeding have been reported in patients taking Xeloda concomitantly with coumarin-derivative anticoagulants such as warfarin and phenprocoumon.
 These reactions occurred within several days and up to several months after initiating Xeloda therapy and, in a few cases, within one month after stopping Xeloda.
 In a clinical pharmacokinetic interaction study, after a single 20 mg dose of warfarin, Xeloda treatment increased the AUC of S-warfarin by 57% with a 91% increase in INR value.
