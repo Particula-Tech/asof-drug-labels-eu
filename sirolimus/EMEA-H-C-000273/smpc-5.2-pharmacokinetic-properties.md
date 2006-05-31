@@ -7,7 +7,7 @@ The terminal half-life in stable renal transplant patients after multiple oral d
 The effective half-life, however, is shorter and mean steady-state concentrations were achieved after 5 to 7 days.
 The blood to plasma ratio (B/P) of 36 indicates that sirolimus is extensively partitioned into formed blood elements.
 
-Pharmacokinetic parameters for sirolimus obtained from 19 renal transplant patients receiving microemulsion ciclosporin (4 hours prior to Rapamune) and corticosteroids, following daily doses of 2 mg Rapamune solution in a phase III clinical trial, were; Cmax,ss 12.2±6.2 ng/ml, tmax,ss 3.01±2.40h, AUCτ,ss 158± 70 ng•h/ml, CL/F/W 182±72 ml/h/kg (parameters calculated from LC-MS/MS assay results).
+Pharmacokinetic parameters for sirolimus obtained from 19 renal transplant patients receiving microemulsion ciclosporin (4 hours prior to Rapamune) and corticosteroids, following daily doses of 2 mg Rapamune solution in a phase III clinical trial, were; Cmax,ss 12.2±6.2 ng/ml, tmax,ss 3.01±2.40h, AUCτ,ss 158±70 ng•h/ml, CL/F/W 182±72 ml/h/kg (parameters calculated from LC-MS/MS assay results).
 There was no significant difference in any of these parameters over time up to 6 months after transplantation.
 Mean sirolimus whole blood trough levels from the same phase III trial were 9 ng/ml (5 to 14 ng/ml, immunoassay; n=226) for the 2 mg per day dose and 17 ng/ml (10 to 28 ng/ml, immunoassay; n=219) for the 5 mg per day dose.
 Sirolimus is a substrate for both cytochrome P450 IIIA4 (CYP3A4) and P-glycoprotein.

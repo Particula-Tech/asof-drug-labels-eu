@@ -18,7 +18,7 @@ Anhydrous calcium sulphate
 Microcrystalline cellulose
 Sucrose
 Titanium dioxide
-Poloxamer 188
+Poloxamer 188 α-tocopherol
 Povidone
 Carnauba wax:
 Red opacode S-1-15038 (shellac glaze ~45% in SD-45 alcohol, red iron oxide (E172), isopropyl alcohol, propylene glycol, ammonium hydroxide, simethicone emulsion 30%).
@@ -31,5 +31,3 @@ Yellow iron oxide (E172)
 [Rapamune 5 mg coated tablets]
 
 Talctalc.
-
-∀-tocopherol

@@ -21,9 +21,9 @@ Rare: >1/10,000, <1/1000
 Body as a whole:
 
 Very common: Lymphocele, peripheral oedema
-Common: Abnormal healing; oedema; fever; fungal, viral, and bacterial infections
+Common: Abnormal healing; oedema; fever; fungal, viral, and bacterial
 
-(such as mycobacterial infections, Epstein-Barr virus, CMV, and Herpes zoster); Herpes simplex; sepsis
+infections (such as mycobacterial infections, Epstein-Barr virus, CMV, and Herpes zoster); Herpes simplex; sepsis
 
 Cardiac disorders:
 
@@ -42,24 +42,27 @@ Uncommon: Pancreatitis
 Blood and the lymphatic system disorders:
 
 Very common: Anaemia; thrombocytopenia
-Common: Leucopenia; neutropenia; thrombotic thrombocytopenic purpura/haemolytic
+Common: Leucopenia; neutropenia; thrombotic thrombocytopenic
 
-uraemic syndrome
+purpura/haemolytic uraemic syndrome
 
-Uncommon: Lymphoma / post transplant lymphoproliferative disorder, pancytopenia
+Uncommon: Lymphoma / post transplant lymphoproliferative disorder,
+
+pancytopenia
+
 Rare: Lymphoedema
 
 Immune system disorders:
 
-Rare: Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions,
+Rare: Hypersensitivity reactions, including anaphylactic/anaphylactoid
 
-angioedema, and hypersensitivity vasculitis (see section 4.4)
+reactions, angioedema, and hypersensitivity vasculitis (see section 4.4)
 
 Metabolism and nutrition disorders:
 
-Very common: Hypercholesterolemia, hypertriglyceridemia (hyperlipemia); hypokalaemia;
+Very common: Hypercholesterolemia, hypertriglyceridemia (hyperlipemia);
 
-increased lactic dehydrogenase (LDH)
+hypokalaemia; increased lactic dehydrogenase (LDH)
 
 Common: Liver function tests abnormal; increased SGOT, increased SGPT
 
@@ -109,9 +112,7 @@ One randomised, open-label study enrolling 477 patients compared the tablet (238
 Additionally, two open-label studies enrolled 771 patients who initially received Rapamune (246 patients received oral solution and 525 received tablets) and ciclosporin.
 Overall, the safety profile of Rapamune tablets did not differ from that of the oral solution formulation in clinical trials.
 
-Uncommon: Lymphoma / post transplant lymphoproliferative disorder; pancytopenia
-
-angioedema and hypersensitivity vasculitis (see section 4.4)
+reactions, angioedema and hypersensitivity vasculitis (see section 4.4)
 
 Hepatoxicity has been reported.
 The risk may increase as the trough Sirolimus level increases.

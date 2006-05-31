@@ -17,7 +17,6 @@ In such patients, when clinically appropriate, Rapamune should be discontinued a
 
 Use in black recipients: There is limited information indicating that black renal transplant recipients (predominantly African-American) require higher doses and trough levels of sirolimus to achieve the same efficacy as observed in non-black patients.
 Currently, the efficacy and safety data are too limited to allow specific recommendations for use of sirolimus in black recipients.
-
 Use in children and adolescents(<18 years): There is insufficient experience to recommend the use of sirolimus in children and adolescents.
 Limited pharmacokinetic information is available in children (see section 5.2).
 
