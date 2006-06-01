@@ -20,7 +20,8 @@ Upon initiation of treatment in patients with bone metastases with mild to moder
 In patients who show evidence of renal deterioration during treatment, Zometa should be withheld.
 Zometa should only be resumed when serum creatinine returns to within 10% of baseline (see section 4.2).
 
-In view of the potential impact of bisphosphonates, including Zometa, on renal function, the lack of clinical safety data in patients with severe renal impairment (in clinical trials defined as serum creatinine ≥ 400 µmol/l or ≥ 4.5 mg/dl for patients with TIH and ≥ 265 µmol/l or ≥ 3.0 mg/dl for patients with cancer and bone metastases, respectively) at baseline and only limited pharmacokinetic data in patients with severe renal impairment at baseline (creatinine clearance < 30 ml/min), the use of Zometa is not recommended in patients with severe renal impairment.
+In view of the potential impact of bisphosphonates, including Zometa, on renal function, the lack of clinical safety data in patients with severe renal impairment (in clinical trials defined as serum creatinine
+≥ 400 µmol/l or ≥ 4.5 mg/dl for patients with TIH and ≥ 265 µmol/l or ≥ 3.0 mg/dl for patients with cancer and bone metastases, respectively) at baseline and only limited pharmacokinetic data in patients with severe renal impairment at baseline (creatinine clearance < 30 ml/min), the use of Zometa is not recommended in patients with severe renal impairment.
 
 As only limited clinical data are available in patients with severe hepatic insufficiency, no specific recommendations can be given for this patient population.
 
@@ -28,7 +29,7 @@ Overhydration should be avoided in patients at risk of cardiac failure.
 
 The safety and efficacy of Zometa in paediatric patients have not been established.
 
-Osteonecrosis of the jaw has been reported in patients with cancer receiving treatment regimens including bisphosphonates.
+Osteonecrosis of the jaw has been reported, predominantly in patients with cancer receiving treatment regimens including bisphosphonates.
 Many of these patients were also receiving chemotherapy and corticosteroids.
 The majority of reported cases have been associated with dental procedures such as tooth extraction.
 Many had signs of local infection including osteomyelitis.

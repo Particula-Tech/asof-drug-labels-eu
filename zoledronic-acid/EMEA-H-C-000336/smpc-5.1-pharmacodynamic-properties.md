@@ -43,7 +43,8 @@ Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 | p-value | 0.002 |  | NA |  | NA |  |
 
 * Includes vertebral and non-vertebral fractures
-** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
+** Accounts for all skeletal events, the total number as well as time to each event during the trial
+NR Not Reached
 NA Not Applicable
 
 Table 3: Efficacy results (solid tumours other than breast or prostate cancer)
@@ -58,13 +59,12 @@ Table 3: Efficacy results (solid tumours other than breast or prostate cancer)
 | p-value | 0.009 |  |  | 0.020 |  |  | 0.079 |  |
 | Skeletal morbidity rate | 1.74 | 2.71 |  | 0.39 |  | 0.63 | 1.24 | 1.89 |
 | p-value | 0.012 |  |  | 0.066 |  |  | 0.099 |  |
-
-| Risk reduction of suffering from multiple events** (%) | 30.7 | - | NA | NA | NA | NA |
-| --- | --- | --- | --- | --- | --- | --- |
-| p-value | 0.003 |  | NA |  | NA |  |
+| Risk reduction of suffering from multiple events** (%) | 30.7 | - |  | NA |  | NA | NA | NA |
+| p-value | 0.003 |  |  | NA |  |  | NA |  |
 
 * Includes vertebral and non-vertebral fractures
-** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
+** Accounts for all skeletal events, the total number as well as time to each event during the trial
+NR Not Reached
 NA Not Applicable
 
 In a third phase III randomised, double-blind trial, 4 mg Zometa or 90 mg pamidronate every 3 to 4 weeks were compared in patients with multiple myeloma or breast cancer with at least one bone lesion.
@@ -88,7 +88,8 @@ Table 4: Efficacy results (breast cancer and multiple myeloma patients)
 | p-value | 0.030 |  | NA |  | NA |  |
 
 * Includes vertebral and non-vertebral fractures
-** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
+** Accounts for all skeletal events, the total number as well as time to each event during the trial
+NR Not Reached
 NA Not Applicable
 
 Clinical trial results in the treatment of TIH
@@ -98,6 +99,7 @@ In Phase I dose finding studies in patients with mild to moderate tumour-induced
 To assess the effects of Zometa versus pamidronate 90 mg, the results of two pivotal multicentre studies in patients with TIH were combined in a pre-planned analysis.
 There was faster normalisation of corrected serum calcium at day 4 for Zometa 8 mg and at day 7 for Zometa 4 mg and 8 mg.
 The following response rates were observed:
+
 Table 5: Proportion of complete responders by day in the combined TIH studies
 
 |  | Day 4 | Day 7 | Day 10 |
@@ -114,20 +116,4 @@ There were no statistically significant differences between the two Zometa doses
 In clinical trials 69 patients who relapsed or were refractory to initial treatment (Zometa 4 mg, 8 mg or pamidronate 90 mg) were retreated with Zometa 8 mg.
 The response rate in these patients was about 52%.
 Since those patients were retreated with the 8 mg dose only, there are no data available allowing comparison with the 4 mg dose.
-
 In clinical trials performed in patients with tumour-induced hypercalcaemia (TIH), the overall safety profile amongst all three treatment groups (zoledronic acid 4 and 8 mg and pamidronate 90 mg) was similar in types and severity.
-
-[Zometa 4 mg/5 ml concentrate for solution for infusion]
-
-|  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Zometa 4 mg | Placebo | Zometa 4 mg | Placebo | Zometa 4 mg | Placebo |
-| N | 257 | 250 | 257 | 250 | 257 | 250 |
-| Proportion of patients with SREs (%) | 39 | 48 | 16 | 22 | 29 | 34 |
-| p-value | 0.039 |  | 0.064 |  | 0.173 |  |
-| Median time to SRE (days) | 236 | 155 | NR | NR | 424 | 307 |
-| p-value | 0.009 |  | 0.020 |  | 0.079 |  |
-| Skeletal morbidity rate | 1.74 | 2.71 | 0.39 | 0.63 | 1.24 | 1.89 |
-| p-value | 0.012 |  | 0.066 |  | 0.099 |  |
-| Risk reduction of suffering from multiple events** (%) | 30.7 | - | NA | NA | NA | NA |
-| p-value | 0.003 |  | NA |  | NA |  |

@@ -16,14 +16,15 @@ Patients must be maintained well hydrated prior to and following administration 
 Renal impairment
 TIH:
 Zometa treatment in TIH patients who also have severe renal impairment should be considered only after evaluating the risks and benefits of treatment.
-In the clinical studies, patients with serum creatinine > 400 µmol/l or > 4.5 mg/dl were excluded.
+In the clinical studies, patients with serum creatinine
+> 400 µmol/l or > 4.5 mg/dl were excluded.
 No dose adjustment is necessary in TIH patients with serum creatinine < 400 µmol/l or < 4.5 mg/dl (see section 4.4).
+
 Prevention of skeletal related events in patients with advanced malignancies involving bone:
 When initiating treatment with Zometa in patients with multiple myeloma or metastatic bone lesions from solid tumours, serum creatinine and creatinine clearance (CrCl) should be determined.
 CrCl is calculated from serum creatinine using the Cockcroft-Gault formula.
 Zometa is not recommended for patients presenting with severe renal impairment prior to initiation of therapy, which is defined for this population as CrCl < 30 ml/min.
-In clinical trials with Zometa, patients with serum creatinine
-> 265 µmol/l or > 3.0 mg/dl were excluded.
+In clinical trials with Zometa, patients with serum creatinine > 265 µmol/l or > 3.0 mg/dl were excluded.
 
 In patients with bone metastases presenting with mild to moderate renal impairment prior to initiation of therapy, which is defined for this population as CrCl 30–60 ml/min, the following Zometa dose is recommended (see also section 4.4):
 
