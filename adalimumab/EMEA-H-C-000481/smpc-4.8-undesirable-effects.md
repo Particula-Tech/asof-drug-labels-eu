@@ -2,12 +2,13 @@
 
 Clinical Trials
 
-Humira was studied in 3441 patients in -controlled and open label trials.
-These trials included rheumatoid arthritis patients with short term and long standing disease as well as psoriatic arthritis patients.
-The data in Table 1 is based on the adequate and well controlled Studies I − VII (described in section 5.1) involving 2124 patients receiving Humira and 1158 patients receiving placebo or active comparator during the controlled period.
+Humira was studied in 3834 patients in -controlled and open label trials.
+These trials included rheumatoid arthritis patients with short term and long standing disease as well as psoriatic arthritis and ankylosing spondylitis patients.
+The data in Table 1 is based on the controlled Studies I − IX (described in section 5.1) involving 2370 patients receiving Humira and 1309 patients receiving placebo or active comparator during the controlled period.
 
-The proportion of patients who discontinued treatment due to adverse events during the double-blind, controlled portion of Studies I − VII was 5.5% for patients taking Humira and 3.5% for control treated patients.
-Adverse events at least possibly causally-related to adalimumab for Studies I − VII, both clinical and laboratory, are displayed by system organ class and frequency (very common ≥ 1/10; common
+The proportion of patients who discontinued treatment due to adverse events during the double-blind, controlled portion of Studies I − IX was 5.1% for patients taking Humira and 3.2% for control treated patients.
+
+Adverse events at least possibly causally-related to adalimumab for Studies I − IX, both clinical and laboratory, are displayed by system organ class and frequency (very common ≥ 1/10; common
 > 1/100 < 1/10; uncommon > 1/1000 ≤ 1/100) in Table 1 below.
 Table 1
 Undesirable Effects in Clinical Studies
@@ -16,12 +17,12 @@ Undesirable Effects in Clinical Studies
 | --- | --- | --- |
 | Infections and infestations | Very Common | upper respiratory infection |
 |  | Common | lower respiratory infections (including pneumonia, bronchitis), urinary tract infection, herpetic viral infection (including simplex and zoster), influenza, superficial fungal infections (including skin, nail and foot) |
-|  | Uncommon | sepsis, joint infection, wound infection, abscess, skin infection (including cellulitis and impetigo), hair follicle infections (including furuncles and carbuncles), paronychia, rash pustular, tooth and periodontal infection, ear infections, gastroenteritis, oropharyngeal candidiasis, vaginal fungal infection, viral and other infections |
+|  | Uncommon | sepsis, joint infection, wound infection, abscess, skin infection (including cellulitis and impetigo), hair follicle infections (including furuncles and carbuncles), paronychia, rash pustular, tooth and periodontal infection, ear infections, gastroenteritis, oropharyngeal candidiasis, vaginal infection (including fungal), viral and other infections |
 | Neoplasms benign and malignant (including cysts and polyps) | Uncommon | skin papilloma |
 | Blood and the lymphatic system disorders | Common | lymphopenia, anaemia |
 |  | Uncommon | leukopenia, leukocytosis, lymphadenopathy, neutropenia, thrombocytopenia |
-| Immune system disorders | Uncommon | hypersensitivity, rheumatoid nodule, seasonal allergy |
-| Metabolism and nutrition disorders | Uncommon | hypercholesterolaemia, hyperuricaemia, anorexia, decreased appetite |
+| Immune system disorders | Uncommon | hypersensitivity, seasonal allergy |
+| Metabolism and nutrition disorders | Uncommon | hypercholesterolaemia, hyperuricaemia, anorexia, decreased appetite, hyperglycaemia |
 | Psychiatric disorders | Uncommon | depression, anxiety (including nervousness and agitation), insomnia, confusional state |
 | Nervous system disorders | Common | headache, dizziness, paraesthesias |
 |  | Uncommon | dysgeusia, migraine, somnolence, syncope, tremor, neuralgia, neuropathy |
@@ -31,18 +32,18 @@ Undesirable Effects in Clinical Studies
 | Vascular disorders | Common | hypertension |
 |  | Uncommon | flushing, haematoma |
 | Respiratory, thoracic and mediastinal disorders | Common | cough, nasopharyngeal pain, nasal congestion |
-|  | Uncommon | dyspnoea, asthma, hoarseness, lung crepitation, nasal ulcer, upper respiratory tract congestion |
+|  | Uncommon | dyspnoea, asthma, dysphonia, lung crepitation, nasal ulcer, upper respiratory tract congestion, pharyngeal erythema, wheezing |
 | Gastrointestinal disorders | Common | nausea, abdominal pain, diarrhoea, dyspepsia, mouth ulceration |
 |  | Uncommon | vomiting, abdominal bloating, constipation, gastrooesophageal reflux, gastritis, colitis, haemorrhoidal haemorrhage, haemorrhoids, oral blistering, toothache, dry mouth, gingivitis, tongue ulceration, dysphagia, stomatitis (including aphthous stomatitis) |
 | Skin and subcutaneous tissue disorders | Common | rash, pruritus, rash erythematous, rash pruritic, hair loss |
-|  | Uncommon | rash macular or papular, dry skin, eczema, dermatitis, hyperhidrosis, psoriasis, skin lesion, urticaria, ecchymosis and increased bruising, purpura, acne, skin ulcer, angioedema, exanthem, localised skin reaction, nail disorder, night sweats, photosensitivity reactions |
+|  | Uncommon | rash macular or papular, dry skin, eczema, dermatitis, hyperhidrosis, psoriasis, skin lesion, urticaria, ecchymosis and increased bruising, purpura, acne, skin ulcer, angioedema, skin reaction, nail disorder, night sweats, photosensitivity reactions, skin exfoliation |
 | Musculoskeletal, connective tissue and bone disorders | Common | arthritis |
-|  | Uncommon | rheumatoid arthritis, arthralgia, pain in extremity, myalgia, back pain, muscle cramp, joint swelling, psoriatic arthropathy, synovitis, bursitis, flank pain, tendonitis |
+|  | Uncommon | rheumatoid arthritis, arthralgia, pain in extremity, myalgia, back pain, muscle spasm, joint swelling, psoriatic arthropathy, synovitis, bursitis, flank pain, tendonitis, rheumatoid nodule, shoulder pain |
 | Renal and urinary disorders | Uncommon | haematuria, dysuria, nocturia, pollakiuria, renal pain |
 | Reproductive system and breast disorders | Uncommon | menorrhagia |
 | General disorders and administration site conditions | Very Common | injection site reaction (including pain, swelling, redness or pruritus) |
 |  | Common | fatigue (including asthenia and malaise), influenza like illness |
-|  | Uncommon | pyrexia, chills, chest pain, oedema, impaired healing, pain |
+|  | Uncommon | pyrexia, feeling hot, chills, chest pain, oedema, impaired healing, pain |
 | Investigations | Common | hepatic enzymes increased (including alanine aminotransferase and aspartate aminotransferase) |
 |  | Uncommon | blood triglycerides increased, activated partial thromboplastin time prolonged, blood alkaline phosphatase increased, blood creatine phosphokinase increased, blood potassium decreased, blood lactate dehydrogenase increased, neutrophil count decreased, weight decreased, weight increased, blood urea increased, blood creatinine increased, protein urine, DNA antibody positive, antinuclear antibody positive, uncharacterised antibody test positive |
 | Injury and poisoning | Uncommon | contusion |
@@ -70,6 +71,7 @@ When combining controlled trials I − V in rheumatoid arthritis and ongoing ope
 The observed rate of non − melanoma skin cancers is approximately 7 per 1000 patient years.
 
 In post-marketing experience from January 2003, predominately in patients with rheumatoid arthritis, the rate of overall malignancies and lymphomas reported is approximately 2 and 0.3 per 1000 patient years, respectively (see section 4.4).
+
 Autoantibodies
 
 Patients had serum samples tested for autoantibodies at multiple time points in rheumatoid arthritis Studies I − V. In these adequate and well-controlled trials, 11.9% of patients treated with Humira and 8.1% of placebo and active control − treated patients that had negative baseline anti-nuclear antibody titres reported positive titres at week 24.
@@ -103,19 +105,18 @@ Undesirable Effects in Postmarketing Surveillance and Phase IV Clinical Studies
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-Humira was studied in 3441 patients in controlled and open label trials.
-The data in Table 1 is based on the controlled Studies I − VII (described in section 5.1) involving 2124 patients receiving Humira and 1158 patients receiving placebo or active comparator during the controlled period.
+Humira was studied in 3834 patients in controlled and open label trials.
 
 | System Organ Class | Frequency | Adverse Reaction |
 | --- | --- | --- |
 | Infections and infestations | Very Common | upper respiratory infection |
 |  | Common | lower respiratory infections (including pneumonia, bronchitis), urinary tract infection, herpetic viral infection (including simplex and zoster), influenza, superficial fungal infections (including skin, nail and foot) |
-|  | Uncommon | sepsis, joint infection, wound infection, abscess, skin infection (including cellulitis and impetigo), hair follicle infections (including furuncles and carbuncles), paronychia, rash pustular, tooth and periodontal infection, ear infections, gastroenteritis, oropharyngeal candidiasis, vaginal fungal infection, viral and other infections |
+|  | Uncommon | sepsis, joint infection, wound infection, abscess, skin infection (including cellulitis and impetigo), hair follicle infections (including furuncles and carbuncles), paronychia, rash pustular, tooth and periodontal infection, ear infections, gastroenteritis, oropharyngeal candidiasis, vaginal infection (including fungal), viral and other infections |
 | Neoplasms benign and malignant (including cysts and polyps) | Uncommon | skin papilloma |
 | Blood and the lymphatic system disorders | Common | lymphopenia, anaemia |
 |  | Uncommon | leukopenia, leukocytosis, lymphadenopathy, neutropenia, thrombocytopenia |
-| Immune system disorders | Uncommon | hypersensitivity, rheumatoid nodule, seasonal allergy |
-| Metabolism and nutrition disorders | Uncommon | hypercholesterolaemia, hyperuricaemia, anorexia, decreased appetite |
+| Immune system disorders | Uncommon | hypersensitivity, seasonal allergy |
+| Metabolism and nutrition disorders | Uncommon | hypercholesterolaemia, hyperuricaemia, anorexia, decreased appetite, hyperglycaemia |
 | Psychiatric disorders | Uncommon | depression, anxiety (including nervousness and agitation), insomnia, confusional state |
 | Nervous system disorders | Common | headache, dizziness, paraesthesias |
 |  | Uncommon | dysgeusia, migraine, somnolence, syncope, tremor, neuralgia, neuropathy |
@@ -125,27 +126,24 @@ The data in Table 1 is based on the controlled Studies I − VII (described in s
 | Vascular disorders | Common | hypertension |
 |  | Uncommon | flushing, haematoma |
 | Respiratory, thoracic and mediastinal disorders | Common | cough, nasopharyngeal pain, nasal congestion |
-|  | Uncommon | dyspnoea, asthma, hoarseness, lung crepitation, nasal ulcer, upper respiratory tract congestion |
+|  | Uncommon | dyspnoea, asthma, dysphonia, lung crepitation, nasal ulcer, upper respiratory tract congestion, pharyngeal erythema, wheezing |
 | Gastrointestinal disorders | Common | nausea, abdominal pain, diarrhoea., dyspepsia, mouth ulceration |
 |  | Uncommon | vomiting, abdominal bloating, constipation, gastrooesophageal reflux, gastritis, colitis, haemorrhoidal haemorrhage, haemorrhoids, oral blistering, toothache, dry mouth, gingivitis, tongue ulceration, dysphagia, stomatitis (including aphthous stomatitis) |
 | Skin and subcutaneous tissue disorders | Common | rash, pruritus, rash erythematous, rash pruritic, hair loss |
-|  | Uncommon | rash macular or papular, dry skin, eczema, dermatitis, hyperhidrosis, psoriasis, skin lesion, urticaria, ecchymosis and increased bruising, purpura, acne, skin ulcer, angioedema, exanthem, localised skin reaction, nail disorder, night sweats, photosensitivity reactions |
+|  | Uncommon | rash macular or papular, dry skin, eczema, dermatitis, hyperhidrosis, psoriasis, skin lesion, urticaria, ecchymosis and increased bruising, purpura, acne, skin ulcer, angioedema, skin reaction, nail disorder, night sweats, photosensitivity reactions, skin exfoliation |
 | Musculoskeletal, connective tissue and bone disorders | Common | arthritis |
-|  | Uncommon | rheumatoid arthritis, arthralgia, pain in extremity, myalgia, back pain, muscle cramp, joint swelling, psoriatic arthropathy, synovitis, bursitis, flank pain, tendonitis |
+|  | Uncommon | rheumatoid arthritis, arthralgia, pain in extremity, myalgia, back pain, muscle spasm, joint swelling, psoriatic arthropathy, synovitis, bursitis, flank pain, tendonitis, rheumatoid nodule, shoulder pain |
 | Renal and urinary disorders | Uncommon | haematuria, dysuria, nocturia, pollakiuria, renal pain |
 | Reproductive system and breast disorders | Uncommon | menorrhagia |
 | General disorders and administration site conditions | Very Common | injection site reaction (including pain, swelling, redness or pruritus) |
 |  | Common | fatigue (including asthenia and malaise), influenza like illness |
-|  | Uncommon | pyrexia, chills, chest pain, oedema, impaired healing, pain |
+|  | Uncommon | pyrexia, feeling hot, chills, chest pain, oedema, impaired healing, pain |
 | Investigations | Common | hepatic enzymes increased (including alanine aminotransferase and aspartate aminotransferase) |
 |  | Uncommon | blood triglycerides increased, activated partial thromboplastin time prolonged, blood alkaline phosphatase increased, blood creatine phosphokinase increased, blood potassium decreased, blood lactate dehydrogenase increased, neutrophil count decreased, weight decreased, weight increased, blood urea increased, blood creatinine increased, protein urine, DNA antibody positive, antinuclear antibody positive, uncharacterised antibody test positive |
 | Injury and poisoning | Uncommon | contusion |
 
 In the seven controlled trials, the rate of infection was 1.52 per patient year in the Humira treated patients and 1.42 per patient year in the placeboand activecontrol − treated patients.
 In controlled and open label studies with Humira, serious infections (including fatal infections, which occurred rarely) have been reported, which include reports of tuberculosis (including miliary and extra-pulmonary locations) and invasive opportunistic infections (e.g. histoplasmosis, pneumocystis carinii pneumonia, aspergillosis, and nocardosis).
-
-The expected rates of non-melanoma skin cancers cannot be reliably estimated.
-The overall rates and incidences of other malignancies in these patients was similar to that expected for an age and gender matched population.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 

@@ -4,12 +4,12 @@ Infections
 
 Patients must be monitored closely for infections, including tuberculosis, before, during and after treatment with Humira.
 Because the elimination of adalimumab may take up to five months, monitoring should be continued throughout this period.
-
 Treatment with Humira should not be initiated in patients with active infections including chronic or localized infections until infections are controlled.
 
 Patients who develop a new infection while undergoing treatment with Humira should be monitored closely.
 Administration of Humira should be discontinued if a patient develops a new serious infection until infections are controlled.
 Physicians should exercise caution when considering the use of Humira in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections.
+
 Serious infections, sepsis, tuberculosis and other opportunistic infections, including fatalities, have been reported with Humira.
 
 Before initiation of therapy with Humira, all patients must be evaluated for both active or inactive (latent) tuberculosis infection.
@@ -84,6 +84,7 @@ Concurrent administration of TNF-antagonists and anakinra
 Serious infections were seen in clinical studies with concurrent use of anakinra and another TNF-antagonist, etanercept, with no added clinical benefit compared to etanercept alone.
 Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNF-antagonists.
 Therefore, the combination of adalimumab and anakinra is not recommended.
+
 Surgery
 
 There is limited safety experience of surgical procedures in patients treated with Humira.

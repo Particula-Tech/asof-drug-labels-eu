@@ -1,13 +1,13 @@
 # 4.2 Posology and method of administration
 
-Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of rheumatoid arthritis or psoriatic arthritis.
+Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of rheumatoid arthritis, psoriatic arthritis or ankylosing spondylitis.
 Patients treated with Humira should be given the special alert card.
 
 After proper training in injection technique, patients may self-inject with Humira if their physician determines that it is appropriate and with medical follow-up as necessary.
-
 Adults
 
 Rheumatoid arthritis
+
 The recommended dose of Humira for adult patients with rheumatoid arthritis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
 Methotrexate should be continued during treatment with Humira.
 
@@ -16,12 +16,12 @@ Regarding combination with disease modifying anti-rheumatic drugs other than met
 
 In monotherapy, some patients who experience decrease in their response may benefit from an increase in dose intensity to 40 mg adalimumab every week.
 
-Available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
+Psoriatic arthritis and ankylosing spondylitis
+
+The recommended dose of Humira for patients with psoriatic arthritis and ankylosing spondylitis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
+
+For all of the above indications, available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
 Continued therapy should be carefully reconsidered in a patient not responding within this time period.
-
-Psoriatic arthritis
-
-The recommended dose of Humira for patients with psoriatic arthritis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
 
 Elderly patients
 
