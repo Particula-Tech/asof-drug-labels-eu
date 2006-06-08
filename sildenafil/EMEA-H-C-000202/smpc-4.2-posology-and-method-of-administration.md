@@ -23,6 +23,7 @@ Since sildenafil clearance is reduced in patients with hepatic impairment (e.g. 
 Based on efficacy and toleration, the dose may be increased to 50 mg and 100 mg.
 Use in children:
 VIAGRA is not indicated for individuals below 18 years of age.
+There is no relevant indication for use in children.
 
 Use in patients using other medicines:
 With the exception of ritonavir for which co-administration with sildenafil is not advised (see section 4.4) a starting dose of 25 mg should be considered in patients receiving concomitant treatment with CYP3A4 inhibitors (see section 4.5).

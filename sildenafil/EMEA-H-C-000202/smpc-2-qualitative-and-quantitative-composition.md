@@ -1,7 +1,8 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each tablet contains 25 mg of sildenafil, as the citrate.
-For excipients, see section 6.1.
+VIAGRA tablets also contain lactose.
+For a full list of excipients, see section 6.1.
 
 [VIAGRA 50 mg film-coated tablets]
 

@@ -15,6 +15,7 @@ At 24 hours, the plasma levels of sildenafil were still approximately 200 ng/ml,
 This is consistent with ritonavir’s marked effects on a broad range of P450 substrates.
 Sildenafil had no effect on ritonavir pharmacokinetics.
 Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is not advised (see section 4.4) and in any event the maximum dose of sildenafil should under no circumstances exceed 25 mg within 48 hours.
+
 Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state
 (1200 mg three times a day) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
 Sildenafil had no effect on saquinavir pharmacokinetics (see section 4.2).

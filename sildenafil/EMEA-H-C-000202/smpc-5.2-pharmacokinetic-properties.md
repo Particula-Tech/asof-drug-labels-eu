@@ -38,6 +38,7 @@ The mean AUC and Cmax of the N-desmethyl metabolite increased 126% and 73% respe
 However, due to high inter-subject variability, these differences were not statistically significant.
 In volunteers with severe renal impairment (creatinine clearance <30 ml/min), sildenafil clearance was reduced, resulting in mean increases in AUC and Cmax of 100% and 88% respectively compared to age-matched volunteers with no renal impairment.
 In addition, N-desmethyl metabolite AUC and Cmax values were significantly increased 79% and 200% respectively.
+
 Hepatic insufficiency:
 In volunteers with mild to moderate hepatic cirrhosis (Child-Pugh A and B) sildenafil clearance was reduced, resulting in increases in AUC (84%) and Cmax (47%) compared to age-matched volunteers with no hepatic impairment.
 The pharmacokinetics of sildenafil in patients with severely impaired hepatic function have not been studied.

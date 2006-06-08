@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 A medical history and physical examination should be undertaken to diagnose erectile dysfunction and determine potential underlying causes, before pharmacological treatment is considered.
 
@@ -13,14 +13,14 @@ Serious cardiovascular events, including myocardial infarction, unstable angina,
 Most, but not all, of these patients had pre-existing cardiovascular risk factors.
 Many events were reported to occur during or shortly after sexual intercourse and a few were reported to occur shortly after the use of VIAGRA without sexual activity.
 It is not possible to determine whether these events are related directly to these factors or to other factors.
-Agents for the treatment of erectile dysfunction, including sildenafil, should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or
-Peyronie’s disease), or in patients who have conditions which may predispose them to priapism (such as sickle cell anaemia, multiple myeloma or leukaemia).
+
+Agents for the treatment of erectile dysfunction, including sildenafil, should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or Peyronie’s disease), or in patients who have conditions which may predispose them to priapism (such as sickle cell anaemia, multiple myeloma or leukaemia).
 
 The safety and efficacy of combinations of sildenafil with other treatments for erectile dysfunction have not been studied.
 Therefore the use of such combinations is not recommended.
 
-The use of PDE5 inhibitors is not recommended in patients with a previous episode of non-arteritic anterior ischaemic optic neuropathy (NAION).
-
+Visual defects and cases of non-arteritic ischaemic optic neuropathy have been reported in connection with the intake of sildenafil and other PDE5 inhibitors.
+The patient should be advised that in case of sudden visual defect, he should stop taking VIAGRA and consult a physician immediately (see section 4.3).
 Co-administration of sildenafil with ritonavir is not advised (see section 4.5).
 
 Caution is advised when sildenafil is administered to patients taking an alpha-blocker, as the coadministration may lead to symptomatic hypotension in a few susceptible individuals (see section 4.5).

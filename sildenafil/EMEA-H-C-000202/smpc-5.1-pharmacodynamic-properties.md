@@ -24,6 +24,7 @@ In particular, sildenafil has greater than 4,000-fold selectivity for PDE5 over 
 Two clinical studies were specifically designed to assess the time window after dosing during which sildenafil could produce an erection in response to sexual stimulation.
 In a penile plethysmography (RigiScan) study of fasted patients, the median time to onset for those who obtained erections of 60% rigidity (sufficient for sexual intercourse) was 25 minutes (range 12-37 minutes) on sildenafil.
 In a separate RigiScan study, sildenafil was still able to produce an erection in response to sexual stimulation 4-5 hours post-dose.
+
 Sildenafil causes mild and transient decreases in blood pressure which, in the majority of cases, do not translate into clinical effects.
 The mean maximum decreases in supine systolic blood pressure following 100 mg oral dosing of sildenafil was 8.4 mmHg.
 The corresponding change in supine diastolic blood pressure was 5.5 mmHg.
