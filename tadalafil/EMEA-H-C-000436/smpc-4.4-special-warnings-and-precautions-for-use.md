@@ -9,9 +9,11 @@ Serious cardiovascular events, including myocardial infarction, sudden cardiac d
 Most of the patients in whom these events have been reported had pre-existing cardiovascular risk factors.
 However, it is not possible to definitively determine whether these events are related directly to these risk factors, to CIALIS, to sexual activity, or to a combination of these or other factors.
 
-The use of PDE5 inhibitors is not recommended in patients with a previous episode of non-arteritic anterior ischemic optic neuropathy (NAION).
+Visual defects and cases of non arteritic anterior ischemic optic neuropathy have been reported in connection with the intake of CIALIS and other PDE5 inhibitors.
+The patient should be advised that in case of sudden visual defect, he should stop taking CIALIS and consult a physician immediately (see section 4.3).
 
 There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
+
 Patients who experience erections lasting 4 hours or more should be instructed to seek immediate medical assistance.
 If priapism is not treated immediately, penile tissue damage and permanent loss of potency may result.
 

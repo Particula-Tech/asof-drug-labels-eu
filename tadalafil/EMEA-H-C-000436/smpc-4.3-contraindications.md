@@ -16,4 +16,6 @@ The following groups of patients with cardiovascular disease were not included i
 - patients with uncontrolled arrhythmias, hypotension (< 90/50 mm Hg), or uncontrolled hypertension,
 - patients with a stroke within the last 6 months.
 
+CIALIS is contraindicated in patients who have loss of vision in one eye because of non-arteritic anterior ischemic optic neuropathy (NAION), regardless of whether this episode was in connection or not with previous PDE5 inhibitor exposure (see section 4.4).
+
 CIALIS should not be used in patients with hypersensitivity to tadalafil or to any of the excipients.

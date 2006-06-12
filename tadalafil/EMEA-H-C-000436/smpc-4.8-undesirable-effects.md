@@ -24,8 +24,6 @@ Adverse event data are limited in patients over 75 years of age.
 
 In postmarketing surveillance, adverse events/reactions that have been reported very rarely in patients taking tadalafil include:
 
-Eye disorders: Non-arteritic anterior ischemic optic neuropathy (NAION), blurred vision, visual field defect, retinal vascular occlusion.
-
 Body as a whole: hypersensitivity reactions including rash, urticaria, facial oedema, Stevens-Johnson syndrome, and exfoliative dermatitis.
 
 Cardiovascular and cerebrovascular: Serious cardiovascular events, including myocardial infarction, sudden cardiac death, unstable angina pectoris, ventricular arrhythmia, stroke, transient ischemic attacks, chest pain, palpitations and tachycardia, have been reported either post marketing and/or in clinical trials.
@@ -33,7 +31,11 @@ Most of the patients in whom these events have been reported had pre-existing ca
 
 Hypotension (more commonly reported when tadalafil is given to patients who are already taking antihypertensive agents), hypertension, and syncope.
 
+Eye disorders: blurred vision, visual field defect, retinal vascular occlusion.
+Non-arteritic anterior ischemic optic neuropathy (NAION) has been reported at an unknown frequency.
+
 Skin and subcutaneous tissues: hyperhidrosis (sweating).
 
 Gastrointestinal: abdominal pain and gastro-oesophageal reflux.
+
 Urogenital: priapism and prolonged erection.

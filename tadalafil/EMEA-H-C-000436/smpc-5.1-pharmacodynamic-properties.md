@@ -11,8 +11,7 @@ Studies in vitro have shown that tadalafil is a selective inhibitor of PDE5.
 PDE5 is an enzyme found in corpus cavernosum smooth muscle, vascular and visceral smooth muscle, skeletal muscle, platelets, kidney, lung, and cerebellum.
 The effect of tadalafil is more potent on PDE5 than on other phosphodiesterases.
 Tadalafil is > 10,000-fold more potent for PDE5 than for PDE1, PDE2, and PDE4, enzymes which are found in the heart, brain, blood vessels, liver, and other organs.
-Tadalafil is
-> 10,000-fold more potent for PDE5 than for PDE3, an enzyme found in the heart and blood vessels.
+Tadalafil is > 10,000-fold more potent for PDE5 than for PDE3, an enzyme found in the heart and blood vessels.
 This selectivity for PDE5 over PDE3 is important because PDE3 is an enzyme involved in cardiac contractility.
 Additionally, tadalafil is approximately 700-fold more potent for PDE5 than for PDE6, an enzyme which is found in the retina and is responsible for phototransduction.
 Tadalafil is also
