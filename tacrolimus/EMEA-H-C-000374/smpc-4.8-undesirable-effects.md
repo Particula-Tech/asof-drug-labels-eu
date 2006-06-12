@@ -16,7 +16,9 @@ Very common: Application site burning, application site pruritus
 
 Common: Application site warmth, application site erythema, application site pain,
 
-application site irritation, application site paraesthesia, application site rash Infections and infestations
+application site irritation, application site paraesthesia, application site rash
+
+Infections and infestations
 
 Common: Herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes
 
@@ -41,8 +43,4 @@ alcoholic beverage)
 The following adverse reactions have been reported during post-marketing experience:
 Skin and subcutaneous tissue disorders: Rosacea
 
-[Protopic 0.1% ointment]
-
-application site irritation, application site paraesthesia, application site rash
-
-Infections and infestations
+Post-marketing: cases of malignancies, including cutaneous and other types of lymphoma, and skin cancers, have been reported in patients using tacrolimus ointment (see section 4.4).

@@ -9,7 +9,6 @@ Rabbits were shown to be especially sensitive to intravenous administration of t
 
 Mutagenicity
 In vitro and in vivo tests did not indicate a genotoxic potential of tacrolimus.
-
 Carcinogenicity
 Systemic carcinogenicity studies in mice (18 months) and rats (24 months) revealed no carcinogenic potential of tacrolimus.
 In a 24-month dermal carcinogenicity study performed in mice with 0.1% ointment, no skin tumours were observed.
@@ -17,7 +16,7 @@ In the same study an increased incidence of lymphoma was detected in association
 In a photocarcinogenicity study, albino hairless mice were chronically treated with tacrolimus ointment and UV radiation.
 Animals treated with tacrolimus ointment showed a statistically significant reduction in time to skin tumour (squamous cell carcinoma) development and an increase in the number of tumours.
 It is unclear whether the effect of tacrolimus is due to systemic immunosuppression or a local effect.
-The relevance of these findings for man is unknown.
+The risk for humans cannot be completely ruled out as the potential for local immunosuppression with the long-term use of tacrolimus ointment is unknown.
 
 Reproduction toxicity
 Embryo/foetal toxicity was observed in rats and rabbits, but only at doses that caused significant toxicity in maternal animals.

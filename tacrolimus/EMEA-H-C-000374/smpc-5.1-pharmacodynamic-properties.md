@@ -34,7 +34,6 @@ Table 1 Efficacy at month 3
 The incidence and nature of most adverse events were similar in the two treatment groups.
 Skin burning, herpes simplex, alcohol intolerance (facial flushing or skin sensitivity after alcohol intake), skin tingling, hyperaesthesia, acne and fungal dermatitis occurred more often in the tacrolimus treatment group.
 There were no clinically relevant changes in the laboratory values or vital signs in either treatment group throughout the study.
-
 In the second trial, children aged from 2 to 15 years with moderate to severe atopic dermatitis received twice daily treatment for three weeks of 0.03% tacrolimus ointment, 0.1% tacrolimus ointment or 1% hydrocortisone acetate ointment.
 The primary endpoint was the area-under-the-curve (AUC) of the mEASI as a percentage of baseline averaged over the treatment period.
 The results of this multicentre, double-blind, randomised trial showed that tacrolimus ointment, 0.03% and 0.1%, is significantly more effective (p<0.001 for both) than 1% hydrocortisone acetate ointment (Table 2).
@@ -57,10 +56,7 @@ Treatment duration was for up to three weeks.
 
 Table 3 Efficacy at week 3
 
-Hydrocortisone Tacrolimus 0.03% Tacrolimus 0.03%
-acetate 1% Once daily (N=207) Twice daily (N=210)
-
-|  | Twice daily (N=207) |  |  |
+|  | Hydrocortisone acetate 1% Twice daily (N=207) | Tacrolimus 0.03% Once daily (N=207) | Tacrolimus 0.03% Twice daily (N=210) |
 | --- | --- | --- | --- |
 | Median mEASI Percentage Decrease (Primary Endpoint)§ | 47.2% | 70.0% | 78.7% |
 | Improvement ≥ 90% in Physician’s Global Evaluation | 13.6% | 27.8% | 36.7% |
@@ -81,17 +77,5 @@ The three most common adverse events reported were flu-like symptoms (cold, comm
 No adverse events previously unreported in shorter duration and/or previous studies were observed in this long-term study.
 
 [Protopic 0.1% ointment]
-
-Topical corticosteroid Tacrolimus 0.1%
-
-|  | regimen§ (N=485) | (N=487) |
-| --- | --- | --- |
-| Response rate of ≥ 60% improvement in mEASI (Primary Endpoint)§§ | 50.8% | 71.6% |
-| Improvement ≥ 90% in Physician’s Global Evaluation | 28.5% | 47.7% |
-
-|  | Hydrocortisone acetate 1% Twice daily (N=207) | Tacrolimus 0.03% Once daily (N=207) | Tacrolimus 0.03% Twice daily (N=210) |
-| --- | --- | --- | --- |
-| Median mEASI Percentage Decrease (Primary Endpoint)§ | 47.2% | 70.0% | 78.7% |
-| Improvement ≥ 90% in Physician’s Global Evaluation | 13.6% | 27.8% | 36.7% |
 
 A statistically significant better improvement was shown for once daily and twice daily 0.03% tacrolimus ointment compared to with twice daily hydrocortisone acetate ointment (p<0.001 for both).

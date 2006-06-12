@@ -1,11 +1,12 @@
 # 4.4 Special warnings and special precautions for use
 
-The effect of treatment with Protopic ointment on the developing immune system of children, especially the young, has not yet been established and this should be taken into account when prescribing to this age group (see 4.1).
+Protopic should not be used in patients with congenital or acquired immunodeficiencies or in patients on therapy that cause immunosuppression.
 
-The use of Protopic ointment has not been evaluated in children below the age of 2 years.
+The effect of treatment with Protopic ointment on the developing immune system of children, especially the young, has not yet been established and this should be taken into account when prescribing to this age group (see 4.1).
 
 Exposure of the skin to sunlight should be minimised and the use of ultraviolet (UV) light from a solarium, therapy with UVB or UVA in combination with psoralens (PUVA) should be avoided during use of Protopic ointment (see 5.3).
 Physicians should advise patients on appropriate sun protection methods, such as minimisation of the time in the sun, use of a sunscreen product and covering of the skin with appropriate clothing.
+Protopic ointment should not be applied to lesions that are considered to be potentially malignant or pre-malignant.
 
 Emollients should not be applied to the same area within 2 hours of applying Protopic ointment.
 Concomitant use of other topical preparations has not been assessed.
@@ -16,11 +17,17 @@ Before commencing treatment with Protopic ointment, clinical infections at treat
 Patients with atopic dermatitis are predisposed to superficial skin infections.
 Treatment with Protopic may be associated with an increased risk of herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes simplex [cold sores], Kaposi’s varicelliform eruption).
 In the presence of these infections, the balance of risks and benefits associated with Protopic use should be evaluated.
-Beyond 4 years of treatment, the potential for local immunosuppression (possibly resulting in infections or cutaneous malignancies) is unknown (see 5.1).
+The potential for local immunosuppression (possibly resulting in infections or cutaneous malignancies) in the long term (i.e. over a period of years) is unknown (see 5.1).
+
+Protopic contains the active substance tacrolimus, a calcineurin inhibitor.
+In transplant patients, prolonged systemic exposure to intense immunosuppression following systemic administration of calcineurin inhibitors has been associated with an increased risk of developing lymphomas and skin malignancies.
+In patients using tacrolimus ointment, cases of malignancies, including cutaneous and other types of lymphoma, and skin cancers have been reported (see section 4.8).
+Patients with atopic dermatitis treated with Protopic have not been found to have significant systemic tacrolimus levels.
 
 Lymphadenopathy was uncommonly (0.8%) reported in clinical trials.
 The majority of these cases related to infections (skin, respiratory tract, tooth) and resolved with appropriate antibiotic therapy.
 Transplant patients receiving immunosuppressive regimens (e.g. systemic tacrolimus) are at increased risk for developing lymphoma; therefore patients who receive Protopic and who develop lymphadenopathy should be monitored to ensure that the lymphadenopathy resolves.
+Lymphadenopathy present at initiation of therapy should be investigated and kept under review.
 In case of persistent lymphadenopathy, the aetiology of the lymphadenopathy should be investigated.
 In the absence of a clear aetiology for the lymphadenopathy or in the presence of acute infectious mononucleosis, discontinuation of Protopic should be considered.
 
@@ -34,3 +41,5 @@ Tacrolimus is extensively metabolised in the liver and although blood concentrat
 
 The use of Protopic ointment in patients with genetic epidermal barrier defects such as Netherton’s syndrome is not recommended due to the potential for permanently increased systemic absorption of tacrolimus.
 The safety of Protopic ointment has not been established in patients with generalised erythroderma.
+
+Care should be exercised if applying Protopic to patients with extensive skin involvement over an extended period of time, especially in children (see section 4.2).

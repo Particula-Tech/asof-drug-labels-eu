@@ -19,6 +19,7 @@ Following topical application of tacrolimus ointment, tacrolimus is selectively 
 Metabolism
 Metabolism of tacrolimus by human skin was not detectable.
 Systemically available tacrolimus is extensively metabolised in the liver via CYP3A4.
+
 Elimination
 When administered intravenously, tacrolimus has been shown to have a low clearance rate.
 The average total body clearance is approximately 2.25 l/h.
