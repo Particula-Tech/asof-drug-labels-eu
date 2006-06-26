@@ -10,6 +10,8 @@ Polyamide/aluminium/PVC blisters
 
 [Micardis 40 mg tablets]
 
+84 tablets
+
 28 x 1 tablets
 Polyamide/aluminium/PVC perforated unit dose blisters
 
