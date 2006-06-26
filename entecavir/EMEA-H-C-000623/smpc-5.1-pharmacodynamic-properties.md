@@ -1,0 +1,115 @@
+# 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: nucleoside and nucleotide reverse transcriptase inhibitors
+ATC code: J05AF10
+
+Mechanism of action: entecavir, a guanosine nucleoside analogue with activity against HBV polymerase, is efficiently phosphorylated to the active triphosphate (TP) form, which has an intracellular half-life of 15 hours.
+By competing with the natural substrate deoxyguanosine TP, entecavir-TP functionally inhibits the 3 activities of the viral polymerase: (1) priming of the HBV polymerase, (2) reverse transcription of the negative strand DNA from the pregenomic messenger RNA, and (3) synthesis of the positive strand HBV DNA.
+The entecavir-TP Ki for HBV DNA polymerase is 0.0012 µM.
+Entecavir-TP is a weak inhibitor of cellular DNA polymerases α, β, and δ with Ki values of 18 to 40 µM.
+In addition, high exposures of entecavir had no relevant adverse effects on γ polymerase or mitochondrial DNA synthesis in HepG2 cells (Ki > 160 µM).
+
+Antiviral activity: entecavir inhibited HBV DNA synthesis (50% reduction, EC50) at a concentration of 0.004 µM in human HepG2 cells transfected with wild-type HBV.
+The median EC50 value for entecavir against LVDr HBV (rtL180M and rtM204V) was 0.026 µM (range 0.010-0.059 µM).
+In contrast, no clinically relevant activity was noted against HIV type 1 (EC50 value > 10 µM) grown in cell culture.
+Recombinant viruses encoding adefovir-resistant mutations at either rtN236T or rtA181V remained fully susceptible to entecavir.
+
+In HBV combination assays in vitro, abacavir, didanosine, lamivudine, stavudine, tenofovir or zidovudine were not antagonistic to the anti-HBV activity of entecavir over a wide range of concentrations.
+In HIV antiviral assays, entecavir was not antagonistic to the in vitro anti-HIV activity of these six NRTIs at > 4 times the Cmax of entecavir.
+
+Resistance in vitro: relative to wild-type HBV, LVDr viruses containing rtM204V and rtL180M substitutions within the reverse transcriptase exhibit 8-fold decreased susceptibility to entecavir.
+The further addition of amino acid changes at residues rtT184, rtS202 or rtM250 decrease entecavir susceptibility 16- to 741-fold relative to wild-type virus.
+These additional changes have not been observed in the absence of LVDr substitutions, and alone have only a modest effect on entecavir susceptibility in phenotypic assays.
+
+Clinical experience: the demonstration of benefit is based on histological, virological, biochemical, and serological responses after 48 weeks of treatment in active-controlled clinical trials of 1,633 adults with chronic hepatitis B infection and evidence of viral replication.
+
+In all studies, histological improvement was defined as a ≥ 2-point decrease in Knodell necroinflammatory score from baseline with no worsening of the Knodell fibrosis score.
+Responses for patients with baseline Knodell Fibrosis Scores of 4 (cirrhosis) were comparable to overall responses on all efficacy outcome measures (all patients had compensated liver disease).
+High baseline Knodell necroinflammatory scores (> 10) were associated with greater histological improvement in nucleoside-naive patients.
+Baseline ALT levels ≥ 2 x ULN and baseline HBV DNA ≤ 9.0 log10 copies/ml were both associated with higher rates of virologic response (Week 48 HBV DNA < 400 copies/ml) in nucleoside-naive HBeAg-positive patients.
+Regardless of baseline characteristics, the majority of patients showed histological and virological responses to treatment.
+
+Experience in nucleoside-naive patients with compensated liver disease:
+Results at 48 weeks of randomised, double blind studies comparing entecavir (ETV) to lamivudine (LVD) in HBeAg positive (022) and HBeAg negative (027) patients are presented in the table.
+
+|  | Nucleoside Naive |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | HBeAg Positive (study 022) |  | HBeAg Negative (study 027) |  |
+|  | ETV 0.5 mg once daily | LVD 100 mg once daily | ETV 0.5 mg once daily | LVD 100 mg once daily |
+| n | 314a | 314a | 296a | 287a |
+| Histological improvementb | 72%* | 62% | 70%* | 61% |
+| Ishak fibrosis score improvement | 39% | 35% | 36% | 38% |
+| Ishak fibrosis score worsening | 8% | 10% | 12% | 15% |
+| n | 354 | 355 | 325 | 313 |
+| Viral load reduction (log10 copies/ml)c | -6.86* | -5.39 | -5.04* | -4.53 |
+| HBV DNA undetectable (< 300 copies/ml by PCR)c | 67%* | 36% | 90%* | 72% |
+| ALT normalisation (≤ 1 times ULN) | 68%* | 60% | 78%* | 71% |
+| HBeAg Seroconversion | 21% | 18% |  |  |
+
+*p value vs lamivudine < 0.05 a patients with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥ 2) b a primary endpoint c Roche Cobas Amplicor PCR assay (LLOQ = 300 copies/ml)
+Experience in lamivudine-refractory patients:
+In a randomised, double-blind study in HBeAg positive lamivudine-refractory patients (026), with 85% of patients presenting LVDr mutations at baseline, patients receiving lamivudine at study entry either switched to entecavir 1 mg once daily, with neither a washout nor an overlap period (n = 141), or continued on lamivudine 100 mg once daily (n = 145).
+Results at 48 weeks are presented in the table.
+
+|  | Lamivudine-refractory |  |
+| --- | --- | --- |
+|  | HBeAg positive (study 026) |  |
+|  | ETV 1.0 mg once daily | LVD 100 mg once daily |
+| n | 124a | 116a |
+| Histological improvementb | 55%* | 28% |
+| Ishak fibrosis score improvement | 34%* | 16% |
+| Ishak fibrosis score worsening | 11% | 26% |
+| n | 141 | 145 |
+| Viral load reduction (log10 copies/ml)c | -5.11* | -0.48 |
+| HBV DNA undetectable (< 300 copies/ml by PCR)c | 19%* | 1% |
+| ALT normalisation (≤ 1 times ULN) | 61%* | 15% |
+| HBeAg Seroconversion | 8% | 3% |
+
+*p value vs lamivudine < 0.05 a patients with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥ 2) b a primary endpoint.
+c Roche Cobas Amplicor PCR assay (LLOQ = 300 copies/ml)
+
+Results beyond 48 weeks of treatment:
+Treatment was discontinued when prespecified response criteria were met either at 48 weeks or during the second year of treatment.
+Response criteria were HBV virological suppression (HBV DNA
+< 0.7 MEq/ml by bDNA) and loss of HBeAg (in HBeAg positive patients) or ALT < 1.25 times ULN (in HBeAg negative patients).
+Patients in response were followed for an additional 24 weeks off-treatment.
+Patients who met virologic but not serologic or biochemical response criteria continued blinded treatment.
+Patients who did not have a virologic response were offered alternative treatment.
+
+Nucleoside-naive:
+HBeAg positive (study 022): treatment with entecavir for up to 96 weeks (n = 354) resulted in cumulative response rates of 80% for HBV DNA < 300 copies/ml by PCR, 87% for ALT normalisation, 31% for HBeAg seroconversion and 2% for HBsAg seroconversion (5% for HBsAg loss).
+For lamivudine (n = 355), cumulative response rates were 39% for HBV DNA < 300 copies/ml by PCR, 79% for ALT normalisation, 26% for HBeAg seroconversion, and 2% for HBsAg seroconversion (3% for HBsAg loss).
+At end of dosing, among patients who continued treatment beyond 52 weeks (median of 96 weeks), 81% of 243 entecavir-treated and 39% of 164 lamivudine-treated patients had HBV DNA
+< 300 copies/ml by PCR while ALT normalisation (≤ 1 times ULN) occurred in 79% of entecavir-treated and 68% of lamivudine-treated patients.
+
+HBeAg negative (study 027): treatment with entecavir up to 96 weeks (n = 325) resulted in cumulative response rates of 94% for HBV DNA < 300 copies/ml by PCR and 89% for ALT normalisation versus 77% for HBV DNA < 300 copies/ml by PCR and 84% for ALT normalisation for lamivudine-treated patients (n = 313).
+For 26 entecavir-treated and 28 lamivudine-treated patients who continued treatment beyond 52 weeks (median 96 weeks), 96% of entecavir-treated and 64% of lamivudine-treated patients had HBV DNA < 300 copies/ml by PCR at end of dosing.
+ALT normalisation (≤ 1 times ULN) occurred in 27% of entecavir-treated and 21% of lamivudine-treated patients at end of dosing.
+For patients who met protocol-defined response criteria, response was sustained throughout the 24-week post-treatment follow-up in 75% (83/111) of entecavir responders vs 73% (68/93) for lamivudine responders in study 022 and 46% (131/286) of entecavir responders vs 31% (79/253) for lamivudine responders in study 027.
+By 48 weeks of post-treatment follow-up, a substantial number of HBeAg negative patients lost response.
+
+Lamivudine-refractory:
+HBeAg positive (study 026): treatment with entecavir for up to 96 weeks (n = 141) resulted in cumulative response rates of 30% for HBV DNA < 300 copies/ml by PCR, 85% for ALT normalisation and 17% for HBeAg seroconversion.
+For the 77 patients who continued entecavir treatment beyond 52 weeks (median 96 weeks), 40% of patients had HBV DNA < 300 copies/ml by PCR and 81% had ALT normalisation (≤ 1 times ULN) at end of dosing.
+
+Age/gender:
+There was no apparent difference in efficacy for entecavir based on gender (≈ 25% women in the clinical trials) or age (≈ 5% of patients > 65 years of age).
+
+Special populations
+HBV/HIV co-infected patients: study 038 included 67 HBeAg positive and 1 HBeAg negative patients co-infected with HIV.
+Patients had stable controlled HIV (HIV RNA < 400 copies/ml) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen.
+At baseline entecavir-treated patients had a median duration of prior lamivudine therapy of 4.8 years and median CD4 count of 494 cells/mm3 (with only 5 subjects having CD4 count < 200 cells/mm3).
+Patients continued their lamivudine-regimen and were assigned to add either entecavir 1 mg once daily (n = 51) or placebo
+(n = 17) for 24 weeks followed by an additional 24 weeks where all received entecavir.
+At 24 weeks the reduction in HBV viral load was significantly greater with entecavir (-3.65 vs an increase of 0.11 log10 copies/ml).
+For patients originally assigned to entecavir treatment, the reduction in HBV DNA at 48 weeks was -4.20 log10 copies/ml, ALT normalisation had occurred in 37% of patients with abnormal baseline ALT and none achieved HBeAg seroconversion.
+
+Patients with decompensated liver disease: a randomised open-label study (048) comparing entecavir 1.0 mg once daily with adefovir 10 mg once daily in patients with hepatic decompensation is ongoing.
+
+Clinical resistance: genotypic analysis of serum HBV DNA from nucleoside-naive patients (n = 549) treated for up to 48 weeks identified no genotypic changes in the HBV DNA polymerase gene that were associated with phenotypic resistance to entecavir.
+No emerging resistance was observed by week 96 in nucleoside-naive entecavir-treated patients who did not harbor lamivudine resistance mutations at baseline.
+
+Genotypic and phenotypic analysis of clinical samples from lamivudine-refractory patients treated for 48 weeks identified 6% (12/189) with emerging ETVr substitutions at primary residues T184, S202 and/or M250 and secondary residue I169 when pre-existing LVDr substitutions (M204V/I ± L180M) were present.
+Of the 12 patients with genotypic resistance, 2 experienced virologic rebound (≥ 1 log increase of HBV DNA from nadir) by week 48, with the majority of these 12 patients experiencing virologic rebound beyond week 48.
+The total frequency of virologic rebounds due to ETVr substitutions between weeks 48 and 96 was 9% (14/154).
+ETVr substitutions have been observed at baseline in 23/372 (6.2%) lamivudine-refractory patients, indicating that prior lamivudine treatment can select these resistance substitutions and that they can exist at a low frequency before entecavir treatment.
