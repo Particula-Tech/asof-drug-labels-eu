@@ -21,7 +21,7 @@ The safety of the concomitant administration of clopidogrel with other thromboly
 
 Non-Steroidal Anti-Inflammatory Drugs (NSAIDs): in a clinical study conducted in healthy volunteers, the concomitant administration of clopidogrel and naproxen increased occult gastrointestinal blood loss.
 However, due to the lack of interaction studies with other NSAIDs it is presently unclear whether there is an increased risk of gastrointestinal bleeding with all NSAIDs.
-Consequently, NSAIDs and clopidogrel should be co-administered with caution (see section 4.4).
+Consequently, NSAIDs including Cox-2 inhibitors and clopidogrel should be co-administered with caution (see section 4.4).
 
 Other concomitant therapy: a number of other clinical studies have been conducted with clopidogrel and other concomitant medications to investigate the potential for pharmacodynamic and pharmacokinetic interactions.
 No clinically significant pharmacodynamic interactions were observed when clopidogrel was co-administered with atenolol, nifedipine, or both atenolol and nifedipine.
