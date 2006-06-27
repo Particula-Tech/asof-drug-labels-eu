@@ -1,0 +1,16 @@
+# 5.2 Pharmacokinetic properties
+
+Following the repeat intravenous administration of a 300 mg dose of natalizumab to MS patients, the mean maximum observed serum concentration was 110 ± 52 µg/ml.
+Mean average steady-state trough natalizumab concentrations over the dosing period ranged from 23 µg/ml to 29 µg/ml.
+The predicted time to steady-state was approximately 36 weeks.
+
+A population pharmacokinetics analysis was conducted on samples from over 1,100 MS patients receiving doses ranging from 3 to 6 mg/kg natalizumab.
+Of these, 581 patients received a fixed 300 mg dose as monotherapy.
+The mean ± SD steady-state clearance was 13.1 ± 5.0 ml/h, with a mean ± SD half-life of 16 ± 4 days.
+The analysis explored the effects of selected covariates including body weight, age, gender, hepatic and renal function, and presence of anti-natalizumab antibodies upon pharmacokinetics.
+Only body weight and the presence of anti-natalizumab antibodies were found to influence natalizumab disposition.
+Body weight was found to influence clearance in a less-than-proportional manner, such that a 43% change in body weight resulted in a 31% to 34% change in clearance.
+The change in clearance was not clinically significant.
+The presence of persistent anti-natalizumab antibodies increased natalizumab clearance approximately 3-fold, consistent with reduced serum natalizumab concentrations observed in persistently antibody-positive patients, (see section 4.8).
+
+The pharmacokinetics of natalizumab in paediatric MS patients or in patients with renal or hepatic insufficiency has not been studied.
