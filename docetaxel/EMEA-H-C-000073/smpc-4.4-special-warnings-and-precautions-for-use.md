@@ -28,6 +28,7 @@ Cutaneous reactions
 
 Localised skin erythema of the extremities (palms of the hands and soles of the feet) with oedema followed by desquamation has been observed.
 Severe symptoms such as eruptions followed by desquamation which lead to interruption or discontinuation of docetaxel treatment were reported (see section 4.2).
+
 Fluid retention
 
 Patients with severe fluid retention such as pleural effusion, pericardial effusion and ascites should be monitored closely.
@@ -79,18 +80,7 @@ There are no data available in patients>70 years of age on TAXOTERE use in combi
 Of the 333 patients treated with TAXOTERE every three weeks in a prostate cancer study, 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
 In patients treated with TAXOTERE every three weeks, the incidence of related nail changes occurred at a rate ≥ 10% higher in patients who were 65 years of age or greater compared to younger patients.
 The incidence of related fever, diarrhea, anorexia, and peripheral edema occurred at rates ≥ 10% higher in patients who were 75 years of age or greater versus less than 65 years.
-
 Among the 300 (221 patients in the phase III part of the study and 79 patients in the phase II part) patients treated with TAXOTERE in combination with cisplatin and 5-fluorouracil in the gastric cancer study, 74 were 65 years of age or older and 4 patients were 75 years of age or older.
 The incidence of serious adverse events was higher in the elderly patients compared to younger patients.
 The incidence of the following adverse events (all grades): lethargy, stomatitis, neutropenic infection occurred at rates ≥ 10% higher in patients who were 65 years of age or older compared to younger patients.
 Elderly patients treated with TCF should be closely monitored.
-
-[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
-
-In patients treated with docetaxel in combination with cisplatin and 5-fluorouracil (TCF), febrile neutropenia and neutropenic infection occurred at lower rates when patients received prophylactic G-
-CSF.
-Patients receiving
-TCF should be closely monitored, (see sections 4.2 and 4.8).
-
-In patients treated with docetaxel at 100 mg/m2 as single agent who have serum transaminase levels
-(ALT and/or AST) greater than 1.5 times the ULN concurrent with serum alkaline phosphatase levels greater than 2.5 times the ULN, there is a higher risk of developing severe adverse reactions such as toxic deaths including sepsis and gastrointestinal haemorrhage which can be fatal, febrile neutropenia, infections, thrombocytopenia, stomatitis and asthenia.

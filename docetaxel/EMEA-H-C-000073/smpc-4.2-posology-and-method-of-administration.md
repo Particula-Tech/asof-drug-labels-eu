@@ -22,6 +22,7 @@ For trastuzumab dosage and administration, see summary of product characteristic
 
 In combination with capecitabine, the recommended dose of docetaxel is 75 mg/m2 every three weeks, combined with capecitabine at 1250 mg/m2 twice daily (within 30 minutes after a meal) for 2 weeks followed by 1- week rest period.
 For capecitabine dose calculation according to body surface area, see capecitabine summary of product characteristics.
+
 Non-small cell lung cancer
 In chemotherapy naïve patients treated for non-small cell lung cancer, the recommended dose regimen is docetaxel 75 mg/m2 immediately followed by cisplatin 75 mg/m2 over 30-60 minutes.
 For treatment after failure of prior platinum-based chemotherapy, the recommended dosage is 75 mg/m² as a single agent.
@@ -29,7 +30,6 @@ For treatment after failure of prior platinum-based chemotherapy, the recommende
 Prostate cancer
 The recommended dose of docetaxel is 75 mg/m2.
 Prednisone or prednisolone 5 mg orally twice daily is administered continuously (see section 5.1).
-
 Gastric adenocarcinoma
 The recommended dose of docetaxel is 75 mg/m2 as a 1 hour infusion, followed by cisplatin 75 mg/m2, as a 1 to 3 hour infusion (both on day 1 only), followed by 5-fluorouracil 750 mg/m2 per day given as a 24-hour continuous infusion for 5 days, starting at the end of the cisplatin infusion.
 Treatment is repeated every three weeks.
@@ -51,7 +51,7 @@ Thus the use of G-CSF should be considered function of the neutropenic risk of t
 
 In combination with cisplatin
 For patients who are dosed initially at docetaxel 75 mg/m2 in combination with cisplatin and whose nadir of platelet count during the previous course of therapy is <25000 cells/mm3, or in patients who experience febrile neutropenia, or in patients with serious non-hematologic toxicities, the docetaxel dosage in subsequent cycles should be reduced to 65 mg/m2.
-For cisplatin dosage adjustments, see manufacturer’s
+For cisplatin dosage adjustments, see manufacturer’s summary of product characteristics.
 
 In combination with capecitabine
 
@@ -98,21 +98,5 @@ In chemotherapy naïve patients treated for non-small cell lung cancer, the reco
 
 Thus the use of G-CSF should be considered function of the neutropenic risk of the patient and current recommendations.
 Patients who experience Grade 3 or 4 stomatitis should have their dose decreased to 60 mg/m².
-
-For cisplatin dosage adjustments, see manufacturer’s summary of product characteristics.
-
-- For patients developing the second appearance of a Grade 2 toxicity, or the first appearance of a
-
-Grade 3 toxicity, at any time during the treatment cycle, delay treatment until resolved to Grade 0- 1, then resume treatment with TAXOTERE 55 mg/m².
-
-- For any subsequent appearances of toxicities, or any Grade 4 toxicities, discontinue the
-
-TAXOTERE dose.
-
-If an episode of febrile neutropenia, prolonged neutropenia or neutropenic infection occurs despite G-
-CSF use, the docetaxel dose should be reduced from 75 to 60 mg/m2.
-
-Patients with hepatic impairment: Based on pharmacokinetic data with docetaxel at 100 mg/m² as single agent, patients who have both elevations of transaminase (ALT and/or AST) greater than 1.5 times the upper limit of the normal range (ULN) and alkaline phosphatase greater than 2.5 times the
-ULN, the recommended dose of docetaxel is 75 mg/m2 (see sections 4.4 and 5.2).
 
 In combination with capecitabine, for patients 60 years of age or more, a starting dose reduction of capecitabine to 75% is recommended (see capecitabine summary of product characteristics)”

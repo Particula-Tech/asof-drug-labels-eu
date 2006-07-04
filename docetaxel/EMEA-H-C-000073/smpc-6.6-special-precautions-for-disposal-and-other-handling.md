@@ -11,7 +11,6 @@ Preparation for the intravenous administration
 a) Preparation of the TAXOTERE premix solution (10 mg docetaxel/ml)
 
 If the vials are stored under refrigeration, allow the required number of TAXOTERE boxes to stand at room temperature for 5 minutes.
-
 Using a syringe fitted with a needle, aseptically withdraw the entire contents of the solvent for TAXOTERE vial by partially inverting the vial.
 
 Inject the entire contents of the syringe into the corresponding TAXOTERE vial.
@@ -35,6 +34,7 @@ Inject the required premix volume into a 250 ml infusion bag or bottle containin
 If a dose greater than 200 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/ml docetaxel is not exceeded.
 
 Mix the infusion bag or bottle manually using a rocking motion.
+
 The TAXOTERE infusion solution should be used within 4 hours and should be aseptically administered as a 1-hour infusion under room temperature and normal lighting conditions.
 
 As with all parenteral products, TAXOTERE premix solution and infusion solution should be visually inspected prior to use, solutions containing a precipitate should be discarded.
