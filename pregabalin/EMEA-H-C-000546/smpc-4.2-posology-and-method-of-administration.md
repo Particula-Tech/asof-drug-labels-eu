@@ -66,13 +66,15 @@ No dosage adjustment is required for patients with hepatic impairment (see secti
 Use in children and adolescents
 
 Lyrica is not recommended for use in children below the age of 12 years and adolescents (12 - 17 years of age) due to insufficient data on safety and efficacy (see section 5.3).
-
 Use in the elderly (over 65 years of age)
+
 Elderly patients may require a dose reduction of pregabalin due to a decreased renal function (see patients with renal impairment).
 
 [LYRICA 50 mg hard capsules.]
 
 In accordance with current clinical practice, if pregabalin has to be discontinued, it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see section 4.8).
+
+CLcr(ml/min) = 1.23×[140 - age (years)] x weight (kg) ( x 0.85 for female patients)
 
 [LYRICA 75 mg hard capsules]
 

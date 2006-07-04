@@ -12,121 +12,80 @@ Within each frequency grouping, undesirable effects are presented in order of de
 The adverse reactions listed may also be associated with the underlying disease and / or concomitant medications.
 
 Body System Adverse drug reactions
-
 Blood and lymphatic system disorders
-
 Rare Neutropenia
-
 Metabolism and nutrition disorders
-
 Common Appetite increased
 Uncommon Anorexia
 Rare Hypoglycaemia
-
 Psychiatric disorders
-
 Common Euphoric mood, confusion, irritability, libido decreased
 Uncommon Hallucination, panic attack, restlessness, agitation, depression,
-
-depressed mood, mood swings, depersonalisation, insomnia exacerbated, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy
-
-Rare Disinhibition, elevated mood
-
+depressed mood, mood swings, depersonalisation, insomnia
+exacerbated, word finding difficulty, abnormal dreams, libido
+increased, anorgasmia, apathy
+Rare Hypersensitivity, disinhibition, elevated mood, headache
 Nervous system disorders
-
 Very Common Dizziness, somnolence
 Common Ataxia, coordination abnormal, tremor, dysarthria, memory
-
 impairment, disturbance in attention, paraesthesia
-
 Uncommon Syncope, stupor, myoclonus, psychomotor hyperactivity, visual
-
-field defect, ageusia, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, speech disorder, hyporeflexia, hypoaesthesia, amnesia, hyperaesthesia, burning sensation
-
+field defect, ageusia, dyskinesia, dizziness postural, intention
+tremor, nystagmus, cognitive disorder, speech disorder,
+hyporeflexia, hypoaesthesia, amnesia, hyperaesthesia, burning
+sensation
 Rare Hypokinesia, parosmia, dysgraphia
-
 Eye disorders
-
 Common Vision blurred, diplopia
 Uncommon Visual disturbance, eye swelling, visual acuity reduced, eye pain,
-
 asthenopia, dry eye, lacrimation increased
-
 Rare Peripheral vision loss, oscillopsia, altered visual depth perception,
-
 photopsia, eye irritation, mydriasis, strabismus, visual brightness
 Ear and labyrinth disorders
-
 Common Vertigo
 Rare Hyperacusis
-
 Cardiac disorders
-
 Uncommon Tachycardia
 Rare Atrioventricular block first degree, sinus tachycardia, sinus
-
 bradycardia, sinus arrhythmia,
 Vascular disorders
-
 Uncommon Flushing, hot flushes
 Rare Hypotension, hypertension, peripheral coldness,
-
 Respiratory, thoracic and mediastinal disorders
-
 Uncommon Dyspnoea, nasal dryness
 Rare Epistaxis, throat tightness, nasopharyngitis, cough, nasal
-
 congestion, rhinitis, snoring
 Gastrointestinal disorders
-
 Common Vomiting, dry mouth, constipation, flatulence
 Uncommon Abdominal distension, gastrooesophageal reflux disease, salivary
-
 hypersecretion, hypoaesthesia oral
-
-Rare Ascites, pancreatitis, dysphagia
-
+Rare Ascites, pancreatitis, dysphagia, nausea
 Skin and subcutaneous tissue disorders
-
 Uncommon Rash papular, sweating
 Rare Urticaria, cold sweat
-
 Musculoskeletal and connective tissue disorders
-
 Uncommon Muscle twitching, joint swelling, muscle cramp, myalgia, arthralgia,
-
 back pain, pain in limb, muscle stiffness
-
 Rare Rhabdomyolysis, cervical spasm, neck pain
-
 Renal and urinary disorders
-
 Uncommon Urinary incontinence, dysuria
 Rare Renal failure, oliguria
-
 Reproductive system and breast disorders
-
 Common Erectile dysfunction
 Uncommon Ejaculation delayed, sexual dysfunction
 Rare Amenorrhoea, breast discharge, breast pain, dysmenorrhoea,
-
 hypertrophy breast
 General disorders and administration site conditions
-
 Common Gait abnormal, feeling drunk, fatigue, oedema peripheral, oedema,
 Uncommon Fall, chest tightness, asthenia, thirst
 Rare Anasarca, face oedema, swollen tongue, pyrexia, rigors, pain
-
 exacerbated,
 Investigations
-
 Common Weight increased
 Uncommon Blood creatine phosphokinase increased, alanine aminotransferase
-
-increased, aspartate aminotransferase increased, platelet count decreased
-
+increased, aspartate aminotransferase increased, platelet count
+decreased
 Rare Blood glucose increased, blood potassium decreased, white blood
-
 cell count decreased, blood creatinine increased, weight decreased
 
 After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
@@ -137,7 +96,11 @@ Concerning discontinuation of long-term treatment of pregabalin there are no dat
 
 [LYRICA 50 mg hard capsules.]
 
-(all sentences already above)
+depressed mood, mood swings, depersonalisation, insomnia exacerbated, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy
+
+field defect, ageusia, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, speech disorder, hyporeflexia, hypoaesthesia, amnesia, hyperaesthesia, burning sensation
+
+increased, aspartate aminotransferase increased, platelet count decreased
 
 [LYRICA 75 mg hard capsules]
 

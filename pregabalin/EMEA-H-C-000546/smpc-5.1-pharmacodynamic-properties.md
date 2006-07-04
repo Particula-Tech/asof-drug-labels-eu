@@ -28,6 +28,7 @@ Epilepsy
 
 Pregabalin has been studied in 3 controlled clinical studies of 12 week duration with either twice a day dosing (BID) or three times a day (TID) dosing.
 Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
+
 A reduction in seizure frequency was observed by Week 1.
 
 Generalised Anxiety Disorder
