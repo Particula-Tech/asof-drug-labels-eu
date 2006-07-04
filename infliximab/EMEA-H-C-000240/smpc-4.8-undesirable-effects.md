@@ -5,6 +5,7 @@ The adverse reactions listed in Table 1 are based on experience from clinical tr
 Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (> 1/100, < 1/10); uncommon (> 1/1000, < 1/100); rare (>1/10,000, <1/1,000).
 Infusion-related reactions were the most common ADRs reported.
 Infusion-related reactions (dyspnoea, urticaria and headache) were the most common cause for discontinuation.
+
 Table 1
 Undesirable Effects in Clinical Studies
 
@@ -67,6 +68,7 @@ Rare: Pancytopenia
 Very Rare: Haemolytic anaemia, idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, agranulocytosis Immune system disorders
 Uncommon: Anaphylactic reactions
 Rare: Anaphylactic shock, serum sickness, vasculitis
+
 Nervous system disorders
 Rare: Demyelinating disorders (such as multiple sclerosis and optic neuritis), Guillain-Barré syndrome, neuropathies, numbness, tingling, seizure
 Very Rare: Transverse myelitis
@@ -90,7 +92,6 @@ In clinical studies, approximately 20% of infliximab-treated patients compared w
 Approximately 3% of patients discontinued treatment due to infusions reactions and all patients recovered with or without medical therapy
 
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with Remicade administration.
-
 Delayed hypersensitivity: In clinical studies delayed hypersensitivity reactions have been uncommon and have occurred after drug free intervals of less than 1 year.
 In the psoriasis studies, delayed hypersensitivity reactions occurred early in the treatment course.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, with some patients experiencing pruritus, facial, hand or lip edema, dysphagia, urticaria, sore throat and headache.
@@ -103,13 +104,18 @@ Immunogenicity: Patients who developed antibodies to infliximab were more likely
 Use of concomitant immunosuppressant agents appeared to reduce the frequency of infusion-related reactions.
 In clinical studies using single and multiple infliximab doses ranging from 1 to 20 mg/kg, antibodies to infliximab were detected in 14% of patients with any immunosuppressant therapy, and in 24% of patients without immunosuppressant therapy.
 In rheumatoid arthritis patients who received the recommended repeated treatment dose regimens with methotrexate, 8% of patients developed antibodies to infliximab.
+In psoriatic arthritis patients who received 5 mg/kg with and without methotrexate, antibodies occurred overall in 15% of patients (antibodies occurred in 4% of patients receiving methotrexate and in 26% of patients not receiving methotrexate at baseline).
 Of Crohn's disease patients who received maintenance treatment, approximately 6-13% developed antibodies to infliximab.
 The antibody incidence was 2-3 fold higher for patients treated episodically.
 Due to methodological limitations, a negative assay did not exclude the presence of antibodies to infliximab.
 Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy (see section 4.4: "Infusion reactions and hypersensitivity").
 In psoriasis patients treated with infliximab as a maintenance regimen in the absence of concomitant immunomodulators, approximately 28% developed antibodies to infliximab.
 
-Infections: In clinical studies 36% of infliximab-treated patients were treated for infections compared with 25% of placebo-treated patients.
+Infections: Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal infections, and other opportunistic infections have been observed in patients receiving Remicade.
+Some of these infections have been fatal.
+Opportunistic infections reported in patients on Remicade have included, but are not limited to pneumocystosis, histoplasmosis, cytomegalovirus infection, atypical mycobacterial infections, listeriosis and aspergillosis (see section 4.4).
+
+In clinical studies 36% of infliximab-treated patients were treated for infections compared with 25% of placebo-treated patients.
 
 In RA trials, the incidence of serious infections including pneumonia was higher in infliximab plus MTX treated patients compared with methotrexate alone especially at doses of 6 mg/kg or greater (see section 4.4).
 
@@ -129,9 +135,12 @@ Nine of these patients developed malignancies, including 1 lymphoma.
 The median duration of follow-up was 0.8 years (incidence 5.7% [95% CI 2.65% - 10.6%].
 There was one reported malignancy amongst 77 control patients (median duration of follow-up 0.8 years; incidence 1.3% [95% CI 0.03% - 7.0%]).
 The majority of the malignancies developed in the lung or head and neck.
+
+Six cases of a rare type of hepatosplenic T-cell lymphoma have been reported in adolescent and young adult patients with Crohn’s disease treated with Remicade in the United States (see section 4.4).
+It is estimated that approximately 270,000 Crohn’ disease patients have been exposed to infliximab, and in the United States, approximately 10,000 patients with Crohn’s disease below 18 years of age.
+
 Heart failure: In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
-In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction
-≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
+In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
 At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking Remicade.
 There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
@@ -142,7 +151,7 @@ Elevations of aminotransferases were observed (ALT more common than AST) in a gr
 Most aminotransferase abnormalities were transient; however, a small number of patients experienced more prolonged elevations.
 In general, patients who developed ALT and AST elevations were asymptomatic, and the abnormalities decreased or resolved with either continuation or discontinuation of Remicade, or modification of concomitant medications.
 ALT elevations ≥ 5 times the upper limit of normal were observed in 1% of patients receiving Remicade.
-ALT elevations ≥ 3 times the upper limit of normal were observed across all approved indications at the following frequencies (placebo/infliximab): rheumatoid arthritis 3.2%/3.9%; Crohn's disease 3.5%/5.1%; ankylosing spondylitis 0.0%/5.9%; psoriatic arthritis 0.0%/5.4%; psoriasis 0.0%/10.4%.
+ALT elevations ≥ 3 times the upper limit of normal were observed across all approved indications at the following frequencies (placebo/infliximab): rheumatoid arthritis 3.2%/3.9%; Crohn's disease 3.5%/5.1%; ankylosing spondylitis 0.0%/5.9%; psoriatic arthritis 0.0%/6.8%; psoriasis 0.0%/10.4%.
 In post-marketing surveillance, very rare cases of jaundice and hepatitis, some with features of autoimmune hepatitis, have been reported in patients receiving Remicade (see section 4.4)
 
 Antinuclear antibodies (ANA)/Anti-double-stranded DNA (dsDNA) antibodies: Approximately half of infliximab-treated patients in clinical studies who were ANA negative at baseline developed a positive ANA during the study compared with approximately one-fifth of placebo-treated patients.

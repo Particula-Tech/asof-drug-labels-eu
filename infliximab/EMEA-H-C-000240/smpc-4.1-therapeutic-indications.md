@@ -22,10 +22,12 @@ Treatment of moderately to severely active ulcerative colitis in patients who ha
 Ankylosing spondylitis:
 Remicade is indicated for:
 Treatment of ankylosing spondylitis, in patients who have severe axial symptoms, elevated serological markers of inflammatory activity and who have responded inadequately to conventional therapy.
-
 Psoriatic arthritis:
-Remicade, in combination with methotrexate, is indicated for:
+Remicade is indicated for:
 Treatment of active and progressive psoriatic arthritis in patients who have responded inadequately to disease-modifying anti-rheumatic drugs.
+Remicade should be administered
+- in combination with methotrexate
+- or alone in patients who show intolerance to methotrexate or for whom methotrexate is contraindicated
 
 Psoriasis:
 Remicade is indicated for:

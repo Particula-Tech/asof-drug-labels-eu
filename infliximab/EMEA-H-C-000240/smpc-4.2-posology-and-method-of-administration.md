@@ -2,7 +2,7 @@
 
 Remicade is for intravenous use in adults and has not been studied in children (0-17 years).
 
-Remicade treatment is to be administered under the supervision and monitoring of specialised physicians experienced in the diagnosis and treatment of rheumatoid arthritis, inflammatory bowel diseases, or ankylosing spondylitis.
+Remicade treatment is to be administered under the supervision and monitoring of specialised physicians experienced in the diagnosis and treatment of rheumatoid arthritis, inflammatory bowel diseases, ankylosing spondylitis, psoriatic arthritis or psoriasis.
 Patients treated with Remicade should be given the package leaflet and the special Alert card.
 The recommended infusion time is 2 hours.
 All patients administered Remicade are to be observed for at least 1-2 hours post infusion for acute infusion-related reactions.
@@ -28,6 +28,7 @@ In responding patients, the alternative strategies for continued treatment are:
 Fistulising, active Crohn’s disease
 An initial 5 mg/kg infusion given over a 2-hour period is to be followed with additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion.
 If a patient does not respond after these 3 doses, no additional treatment with infliximab should be given.
+
 In responding patients, the strategies for continued treatment are:
 
 - Additional infusions of 5 mg/kg every 8 weeks or
@@ -47,7 +48,6 @@ If a patient does not respond by 6 weeks (i.e. after 2 doses), no additional tre
 
 Psoriatic arthritis
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
-Efficacy and safety have been demonstrated in combination with methotrexate.
 
 Psoriasis
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
