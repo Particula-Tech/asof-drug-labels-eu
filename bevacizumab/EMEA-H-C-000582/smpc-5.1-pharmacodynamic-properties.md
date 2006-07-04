@@ -5,7 +5,6 @@ Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibody, ATC code:
 Mechanism of action
 Bevacizumab binds to vascular endothelial growth factor (VEGF) and thereby inhibits the binding of VEGF to its receptors, Flt-1 (VEGFR-1) and KDR (VEGFR-2), on the surface of endothelial cells.
 Neutralising the biological activity of VEGF reduces the vascularisation of tumours, thereby inhibiting tumour growth.
-
 Pharmacodynamic effects
 Administration of bevacizumab or its parental murine antibody to xenotransplant models of cancer in nude mice resulted in extensive anti-tumour activity in human cancers, including colon, breast, pancreas and prostate.
 Metastatic disease progression was inhibited and microvascular permeability was reduced.
@@ -56,7 +55,6 @@ Table 5 Efficacy results for study AVF2107g
 | Overall survival |  |  |
 | Median time (months) | 15.6 | 20.3 |
 | 95% Confidence Interval | 14.29 – 16.99 | 18.46 – 24.18 |
-|  | Arm 1 IFL + Placebo | Arm 2 IFL + Avastina |
 | Hazard ratiob |  | 0.660 |
 | p-value |  | 0.00004 |
 | Progression-free survival |  |  |
@@ -95,6 +93,7 @@ Patients were treated until disease progression.
 The primary endpoints of the trial were objective response rate and progression-free survival.
 The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, longer progression-free survival, and a trend in longer survival, compared with 5-FU/FA chemotherapy alone (see Table 6).
 These efficacy data are consistent with the results from study AVF2107g.
+
 The efficacy data from studies AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 6.
 
 Table 6: Efficacy results for studies AVF0780g and AVF2192g

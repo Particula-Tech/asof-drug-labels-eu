@@ -1,8 +1,8 @@
 # 4.4 Special warnings and precautions for use
 
 Gastrointestinal perforations (see section 4.8)
-Patients with metastatic carcinoma of the colon or rectum and an intra-abdominal inflammatory process may be at increased risk for the development of gastrointestinal perforation when treated with Avastin and chemotherapy.
-Therefore, caution should be exercised when treating these patients.
+Patients may be at an increased risk for the development of gastrointestinal perforation when treated with Avastin.
+Intra-abdominal inflammatory process may be a risk factor for gastrointestinal perforations in patients with metastatic carcinoma of the colon or rectum, therefore, caution should be exercised when treating these patients.
 Therapy should be permanently discontinued in patients who develop gastrointestinal perforation.
 
 Wound Healing Complications (see section 4.8)
@@ -20,7 +20,13 @@ Monitoring of blood pressure is generally recommended during therapy.
 
 In patients with severe hypertension requiring medical therapy, temporary interruption of Avastin is recommended until adequate control is achieved.
 If hypertension cannot be controlled with medical therapy, treatment should be permanently discontinued.
-Therapy should be permanently discontinued in patients who develop hypertensive crisis.
+Therapy should be permanently discontinued in patients who develop hypertensive crisis or hypertensive encephalopathy.
+
+Reversible Posterior Leukoencephalopathy Syndrome (RPLS) (see section 4.8)
+There have been rare reports of Avastin-treated patients developing signs and symptoms that are consistent with Reversible Posterior Leukoencephalopathy Syndrome (RPLS), a rare neurologic disorder, which can present with the following signs and symptoms among others: seizures, headache, altered mental status, visual disturbance, or cortical blindness, with or without associated hypertension.
+Brain imaging confirms the diagnosis of RPLS.
+In patients developing RPLS, treatment of specific symptoms including control of hypertension is recommended along with discontinuation of Avastin.
+The safety of reinitiating Avastin therapy in patients previously experiencing RPLS is not known.
 
 Proteinuria (see section 4.8)
 Patients with a history of hypertension may be at increased risk for the development of proteinuria when treated with Avastin.
@@ -30,6 +36,7 @@ Therapy should be discontinued in patients who develop Grade 4 proteinuria (neph
 
 Arterial Thromboembolism (see section 4.8)
 In five randomised clinical trials, the incidence of arterial thromboembolic events including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs) was higher in patients receiving Avastin in combination with chemotherapy compared to those who received chemotherapy alone.
+
 A history of arterial thromboembolic events or age over 65 years was associated with an increased risk of developing arterial thromboembolic events during therapy.
 Caution should be taken when treating these patients with Avastin.
 

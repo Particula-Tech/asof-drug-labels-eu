@@ -7,12 +7,12 @@ The pharmacokinetics of bevacizumab was linear at doses ranging from 1 to 10 mg/
 
 Absorption
 Not applicable.
-
 Distribution
 Based on a population pharmacokinetic analysis of 491 subjects receiving Avastin weekly, every 2 weeks, or every 3 weeks, in doses ranging from 1 to 20 mg/kg, the volume of the central compartment (Vc) was 2.92 l. Results also indicated that, after correcting for body weight, male subjects had a larger Vc (+ 22%) than females.
 
 Metabolism
 Assessment of bevacizumab metabolism in rabbits following a single IV dose of 125I-bevacizumab indicated that its metabolic profile was similar to that expected for a native IgG molecule which does not bind VEGF.
+
 Elimination
 Bevacizumab clearance was 0.231 l/day.
 The volume of the central compartment (Vc) and clearance correspond to an initial half-life of 1.4 days and a terminal half-life of about 20 days.
