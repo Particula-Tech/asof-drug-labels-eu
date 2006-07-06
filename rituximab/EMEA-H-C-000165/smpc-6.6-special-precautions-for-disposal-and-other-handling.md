@@ -1,4 +1,4 @@
-# 6.6 Instructions for use and handling and disposal
+# 6.6 Special precautions for disposal
 
 MabThera is provided in sterile, preservative-free, non-pyrogenic, single use vials.
 

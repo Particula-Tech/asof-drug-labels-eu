@@ -2,6 +2,6 @@
 
 EU/1/98/067/001
 
-[MabThera 500 mg]
+[MabThMabThera 500 mg concentrate for solution for infusion.]
 
 EU/1/98/067/002
