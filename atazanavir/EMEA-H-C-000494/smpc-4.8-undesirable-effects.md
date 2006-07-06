@@ -22,13 +22,8 @@ The following adverse events of moderate intensity or greater with at least a po
 The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10), common (≥ 1/100, < 1/10), uncommon (≥ 1/1,000, < 1/100), rare (≥ 1/10,000, < 1/1,000), or very rare (< 1/10,000).
 
 Immune system disorders: uncommon: allergic reaction
-
-Metabolism and nutrition
-
-disorders: uncommon: anorexia, appetite increased, weight
-
-decreased, weight gain
-
+Metabolism and nutrition uncommon: anorexia, appetite increased, weight
+disorders: decreased, weight gain
 Psychiatric disorders: uncommon: anxiety, depression, sleep disorder
 Nervous system disorders: common: headache, insomnia, peripheral neurologic
 
@@ -38,15 +33,13 @@ rare: abnormal gait
 
 Eye disorders: common: scleral icterus
 
-Cardiac disorders and vascular
+Cardiac disorders and vascular uncommon: hypertension, syncope;
 
-disorders: uncommon: hypertension, syncope;
+disorders: rare: oedema, palpitation
+Respiratory, thoracic and uncommon: dyspnea
 
-rare: oedema, palpitation
+mediastinal disorders:
 
-Respiratory, thoracic and
-
-mediastinal disorders: uncommon: dyspnea
 Gastrointestinal disorders: common: abdominal pain, diarrhoea, dyspepsia, nausea,
 
 vomiting;
@@ -58,29 +51,24 @@ Hepatobiliary disorders: common: jaundice;
 uncommon: hepatitis;
 rare: hepatosplenomegaly
 
-Skin and subcutaneous tissue
+Skin and subcutaneous tissue common: rash;
+disorders: uncommon: alopecia, pruritus, urticaria;
 
-disorders: common: rash;
-
-uncommon: alopecia, pruritus, urticaria;
 rare: eczema, vasodilatation, vesiculobullous rash
 
-Musculoskeletal and connective
+Musculoskeletal and connective uncommon: arthralgia, muscle atrophy, myalgia;
 
-tissue disorders: uncommon: arthralgia, muscle atrophy, myalgia;
-
-rare: myopathy
-
+tissue disorders: rare: myopathy
 Renal and urinary disorders: uncommon: hematuria, nephrolithiasis, pollakiuria,
 
 proteinuria;
 rare: kidney pain
 
-Reproductive system and breast
+Reproductive system and breast uncommon: gynecomastia disorders:
 
-disorders: uncommon: gynecomastia
+General disorders and common: lipodystrophy syndrome, asthenia, fatigue;
 
-General disorders and administration site conditions: common: lipodystrophy syndrome, asthenia, fatigue; uncommon: chest pain, fever, malaise
+administration site conditions: uncommon: chest pain, fever, malaise
 
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see 4.4).
 
@@ -92,8 +80,10 @@ Among patients treated with REYATAZ 300 mg once daily with 100 mg ritonavir once
 Other marked clinical laboratory abnormalities (Grade 3 or 4) reported in ≥ 2% of patients receiving regimens containing REYATAZ and one or more NRTIs included: elevated amylase (12%), elevated creatine kinase (7%), elevated alanine aminotransferase/serum glutamic-pyruvic transaminase (ALT/SGPT) (5%), low neutrophils (5%), elevated aspartate aminotransferase/serum glutamic-oxaloacetic transaminase (AST/SGOT) (3%), and elevated lipase (3%).
 
 One percent of patients treated with REYATAZ experienced concurrent Grade 3-4 ALT/AST and Grade 3-4 total bilirubin elevations.
-
 Patients co-infected with hepatitis B and/or hepatitis C virus
 Among 585 patients receiving atazanavir 400 mg once daily, 74 patients were co-infected with chronic hepatitis B or C, and among 119 patients receiving atazanavir 300 mg once daily with ritonavir 100 mg once daily, 20 were co-infected with chronic hepatitis B or C. Co-infected patients were more likely to have baseline hepatic transaminase elevations than those without chronic viral hepatitis.
 No differences in frequency of bilirubin elevations were observed between these patients and those without viral hepatitis.
 The frequency of treatment emergent hepatitis or transaminase elevations in co-infected patients was comparable between REYATAZ and comparator regimens (see 4.4).
+
+Postmarketing experience
+There have been postmarketing reports of diabetes mellitus, and hyperglycemia.

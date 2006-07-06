@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: protease inhibitor, ATC code: J05A E
+Pharmacotherapeutic group: protease inhibitor, ATC code: J05A E08
 
 Mechanism of action: atazanavir is an azapeptide HIV-1 protease inhibitor.
 The compound selectively inhibits the virus-specific processing of viral Gag-Pol proteins in HIV-1 infected cells, thus preventing formation of mature virions and infection of other cells.
@@ -14,11 +14,11 @@ In general, susceptibility to atazanavir was retained (83% of isolates displayed
 Eighteen percent of isolates had 4 or more of the following 6 mutations considered critical mutations for protease inhibitors: amino acid substitutions 10, 46, 54, 82, 84, and 90.
 These isolates expressed a median fold change in EC50 relative to wildtype of 12.0 for atazanavir.
 Therefore, viral isolates having at least 4 of these specific mutations would be considered resistant for atazanavir.
-
 Resistance in vivo: in antiretroviral treatment naive patients, the I50L substitution, sometimes in combination with an A71V change, is the signature resistance mutation for atazanavir.
 An atazanavir resistance phenotype is expressed in all recombinant viral clones containing the I50L substitution in a variety of genetic backgrounds.
 Resistance levels ranged from 3.5- to 29-fold.
 There was no evidence of cross-resistance between atazanavir and amprenavir, with the presence of the I50L and I50V substitutions yielding selective resistance to atazanavir and amprenavir, respectively.
+
 In antiretroviral treatment experienced patients, 100 isolates from patients designated as virological failures on therapy that included either atazanavir, atazanavir + ritonavir, or atazanavir + saquinavir were determined to have developed resistance to atazanavir.
 Of the 60 isolates from patients treated with either atazanavir or atazanavir + ritonavir, 18 (30%) displayed the I50L phenotype previously described in naive patients.
 The resistance in antiretroviral treatment experienced patients mainly occurs by accumulation of the primary and secondary resistance substitutions described previously to be involved in protease inhibitor resistance.
@@ -52,6 +52,7 @@ The proportions of patients with HIV RNA <400 copies/ml (<50 copies/ml) for REYA
 Patients completing treatment while in response after 48 weeks were censored.
 By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA <400 copies/ml (<50 copies/ml) for REYATAZ + ritonavir were 84% (72%) and for lopinavir + ritonavir were 82% (72%).
 It is important to note that at time of the 96-week analysis, 48% of patients overall remained on study.
+
 Through 48 weeks of treatment, two types of analyses were performed based on baseline genotypic mutations.
 The first consisted in assessing the HIV RNA change from baseline in the subgroup of patients with < or ≥ of 4 of the following set of mutations: 10, 20, 24, 32, 33, 36, 46, 48, 50, 54, 63, 71, 73, 82, 84 and 90.
 The second consisted in assessing the HIV RNA change from baseline in the subgroup of patients with < or ≥ of 4 of the following more specific set of mutations: 10, 46, 54, 82, 84, 90.

@@ -20,10 +20,13 @@ Tenofovir disoproxil fumarate: atazanavir concentrations (AUC and Cmin) are decr
 When ritonavir was added to atazanavir, the negative impact of tenofovir on atazanavir Cmin was significantly reduced, whereas the decrease of AUC was of the same magnitude (decrease of 25% and 26% of AUC and Cmin respectively compared to atazanavir/ritonavir 300/100 mg).
 The efficacy of REYATAZ with ritonavir in combination with tenofovir in treatment-experienced patients has been demonstrated in the clinical study 045 (see 4.8 and 5.1).
 
+When tenofovir disoproxil fumarate 300 mg was administered with REYATAZ 300 mg and ritonavir 100 mg, an increase in concentrations of tenofovir was observed (increase in AUC(TAU) of 37% with 90% confidence interval [30-45%]; in Cmax of 34% with 90% confidence interval [20-51%]; and in Cmin of 29% with 90% confidence interval [21-36%]).
+Higher tenofovir concentrations could potentiate tenofovir-associated adverse events, including renal disorders.
 Non-nucleoside reverse transcriptase inhibitors (NNRTIs)
 
 Efavirenz: if REYATAZ is to be co-administered with efavirenz, which decreases atazanavir exposure, it is recommended that REYATAZ 400 mg with ritonavir 100 mg be co-administered with efavirenz 600 mg (all as a single daily dose with food), as this combination is anticipated to result in atazanavir exposure that approximates the mean exposure to atazanavir produced by 300 mg of REYATAZ given with ritonavir 100 mg.
 No efficacy and safety data are available to support the co-administration of efavirenz and REYATAZ at the increased dose of 400 mg with ritonavir.
+
 Nevirapine: the effects of co-administration of REYATAZ and nevirapine have not been studied.
 Nevirapine is a metabolic inducer of CYP3A4 and is expected to decrease atazanavir exposure.
 Therefore, in the absence of data regarding the expected interaction between REYATAZ with ritonavir and nevirapine, this co-administration is not recommended.

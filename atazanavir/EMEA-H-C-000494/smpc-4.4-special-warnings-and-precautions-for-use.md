@@ -63,7 +63,6 @@ Any inflammatory symptoms should be evaluated and treatment instituted when nece
 
 Lactose
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
-
 Interactions with other medicinal products
 Co-administration of REYATAZ with simvastatin or lovastatin is not recommended (see 4.5).
 

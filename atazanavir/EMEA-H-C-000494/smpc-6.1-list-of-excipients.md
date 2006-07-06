@@ -17,7 +17,6 @@ Butyl alcohol
 Propylene glycol
 Ammonia solution
 Indigotine aluminium lake (E132)
-
 White ink containing:
 Shellac
 Titanium dioxide (E171)
