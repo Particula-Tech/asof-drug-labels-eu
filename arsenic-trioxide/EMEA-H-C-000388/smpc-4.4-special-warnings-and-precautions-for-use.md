@@ -47,8 +47,8 @@ Elderly patients: There is limited clinical data on the use of TRISENOX in the e
 Elderly patients have a greater risk of reduced renal function.
 Because renal excretion is the main route of elimination of arsenic, particular caution is needed in these patients.
 
-Hyperleukocytosis: Treatment with TRISENOX has been associated with the development of hyperleukocytosis (≥ 10 x 103/µl) in some patients.
+Hyperleukocytosis: Treatment with TRISENOX has been associated with the development of hyperleukocytosis (≥ 10 x 103/�l) in some patients.
 There did not appear to be a relationship between baseline white blood cell (WBC) counts and development of hyperleukocytosis nor did there appear to be a correlation between baseline WBC count and peak WBC counts.
 Hyperleukocytosis was never treated with additional chemotherapy and resolved on continuation of TRISENOX.
-WBC counts during consolidation were not as high as during induction treatment and were < 10 x 103/µl, except in one patient who had a WBC count of 22 x 103/µl during consolidation.
+WBC counts during consolidation were not as high as during induction treatment and were < 10 x 103/�l, except in one patient who had a WBC count of 22 x 103/�l during consolidation.
 Twenty patients (50%) experienced leukocytosis; however, in all these patients, the WBC count was declining or had normalized by the time of bone marrow remission and cytotoxic chemotherapy or leukopheresis was not required.
