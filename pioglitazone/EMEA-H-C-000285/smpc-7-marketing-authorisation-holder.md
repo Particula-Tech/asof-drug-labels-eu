@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Takeda Europe R & D Centre Limited
+Takeda Global Research and Development Centre (Europe) Ltd
 Arundel Great Court
 2 Arundel Street
 London

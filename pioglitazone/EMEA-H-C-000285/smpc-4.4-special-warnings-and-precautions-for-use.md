@@ -36,6 +36,12 @@ Haematology:
 There was a small reduction in mean haemoglobin (4 % relative reduction) and haematocrit (4.1 % relative reduction) during therapy with pioglitazone, consistent with haemodilution.
 Similar changes were seen in metformin (haemoglobin 3 - 4 % and haematocrit 3.6 – 4.1 % relative reductions) and to a lesser extent sulphonylurea (haemoglobin 1 – 2 % and haematocrit 1 – 3.2 % relative reductions) treated patients in comparative controlled trials with pioglitazone.
 
+Eye disorders:
+
+Post-marketing reports of new-onset or worsening diabetic macular oedema with decreased visual acuity have been reported with thiazolidinediones, including pioglitazone.
+Many of these patients reported concurrent peripheral oedema.
+It is unclear whether or not there is a direct association between pioglitazone and macular oedema but prescribers should be alert to the possibility of macular oedema if patients report disturbances in visual acuity; an appropriate ophthalmological referral should be considered.
+
 Others:
 
 As a consequence of enhancing insulin action, pioglitazone treatment in patients with polycystic ovarian syndrome may result in resumption of ovulation.
