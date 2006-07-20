@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-A number of medicinal products are known to interact with glucose metabolism.
+A number of medicinal products are known to interact with the glucose metabolism.
 
 The following substances may reduce the patient's insulin requirements:
 Oral hypoglycaemic agents (OHAs), octreotide, monoamine oxidase inhibitors (MAOIs), non-selective beta-adrenergic blocking agents, angiotensin converting enzyme (ACE) inhibitors, salicylates, alcohol, anabolic steroids and sulphonamides.
@@ -11,19 +11,3 @@ Oral contraceptives, thiazides, glucocorticoids, thyroid hormones, sympathomimet
 Beta-blocking agents may mask the symptoms of hypoglycaemia.
 
 Alcohol may intensify and prolong the hypoglycaemic effect of insulin.
-
-[NovoRapid Penfill 100 U/ml, solution for injection in a cartridge.]
-
-(all sentences already above)
-
-[NovoRapid NovoLet 100 U/ml, solution for injection in a pre-filled pen.]
-
-(all sentences already above)
-
-[NovoRapid FlexPen 100 U/ml, solution for injection in a pre-filled pen.]
-
-A number of medicinal products are known to interact with the glucose metabolism.
-
-[NovoRapid InnoLet 100 U/ml, solution for injection in a pre-filled pen.]
-
-(all sentences already above)

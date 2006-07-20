@@ -1,8 +1,8 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 The use of dosages which are inadequate or discontinuation of treatment, especially in insulin-dependent diabetics, may lead to hyperglycaemia and diabetic ketoacidosis; conditions which are potentially lethal.
 
-Patients, whose blood glucose control is greatly improved, e.g. by intensified insulin therapy, may experience a change in their usual warning symptoms of hypoglycaemia, and should be advised accordingly.
+Patients, whose blood glucose control is greatly improved, e.g. by intensified insulin therapy, may ex-perience a change in their usual warning symptoms of hypoglycaemia, and should be advised accord-ingly.
 
 A consequence of the pharmacodynamics of rapid-acting insulin analogues is that if hypoglycaemia occurs, it may occur earlier after an injection when compared with soluble human insulin.
 
@@ -22,4 +22,5 @@ Omission of a meal or unplanned, strenuous physical exercise may lead to hypogly
 
 Adjustment of dosage may also be necessary if patients undertake increased physical activity or change their usual diet.
 Exercise taken immediately after a meal may increase the risk of hypoglycaemia.
+
 NovoRapid contains metacresol, which in rare cases may cause allergic reactions.

@@ -1,6 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
-In NovoRapid substitution of the amino acid proline with aspartic acid at position B28 reduces the tendency to form hexamers as observed with soluble human insulin.
+In NovoRapid substitution of amino acid proline with aspartic acid at position B28 reduces the ten-dency to form hexamers as observed with soluble human insulin.
 NovoRapid is therefore more rapidly absorbed from the subcutaneous layer compared to soluble human insulin.
 
 The time to maximum concentration is, on average, half of that for soluble human insulin.
@@ -14,21 +14,4 @@ The pharmacokinetics has not been investigated in elderly or patients with impai
 Children and adolescents.
 The pharmacokinetic and pharmacodynamic properties of NovoRapid were investigated in children (6–12 years) and adolescents (13–17 years) with type 1 diabetes.
 Insulin aspart was rapidly absorbed in both age groups, with similar tmax as in adults.
-However, Cmax differed between the age groups, stressing the importance of the individual titration of NovoRapid
-
-[NovoRapid Penfill 100 U/ml, solution for injection in a cartridge.]
-
-NovoRapid Penfill is therefore more rapidly absorbed from the subcutaneous layer compared to soluble human insulin.
-
-[NovoRapid NovoLet 100 U/ml, solution for injection in a pre-filled pen.]
-
-NovoRapid NovoLet is therefore more rapidly absorbed from the subcutaneous layer compared to soluble human insulin.
-
-[NovoRapid FlexPen 100 U/ml, solution for injection in a pre-filled pen.]
-
-In NovoRapid substitution of amino acid proline with aspartic acid at position B28 reduces the tendency to form hexamers as observed with soluble human insulin.
-NovoRapid FlexPen is therefore more rapidly absorbed from the subcutaneous layer compared to soluble human insulin.
-
-[NovoRapid InnoLet 100 U/ml, solution for injection in a pre-filled pen.]
-
-(all sentences already above)
+However, Cmax differed between the age groups, stressing the importance of the individual titration of NovoRapid.

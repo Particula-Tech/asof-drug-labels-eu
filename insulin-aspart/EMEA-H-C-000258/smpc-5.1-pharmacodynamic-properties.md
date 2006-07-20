@@ -8,26 +8,6 @@ The blood glucose lowering effect of insulin occurs when the molecules facilitat
 NovoRapid produces a more rapid onset of action compared to soluble human insulin, together with a lower glucose concentration, as assessed within the first four hours after a meal.
 NovoRapid has a shorter duration of action compared to soluble human insulin after subcutaneous injection.
 
-16
-
-14
-
-12
-
-10
-
-8
-
-6
-
-4
-
-2
-
-0
-
-0 1 2 3 4 5
-
 Time (h)
 
 Fig. I. Blood glucose concentrations following a single pre-meal dose of NovoRapid injected immediately before a meal (solid curve) or soluble human insulin administered 30 minutes before a meal (hatched curve) in patients with type 1 diabetes mellitus.
@@ -35,7 +15,6 @@ Fig. I. Blood glucose concentrations following a single pre-meal dose of NovoRap
 When NovoRapid is injected subcutaneously, the onset of action will occur within 10 to 20 minutes of injection.
 The maximum effect is exerted between 1 and 3 hours after injection.
 The duration of action is 3 to 5 hours.
-
 Adults.
 Clinical trials in patients with type 1 diabetes have demonstrated a lower postprandial blood glucose with NovoRapid compared to soluble human insulin (Fig.
 I). In two long-term open label trials in patients with type 1 diabetes comprising 1070 and 884 patients, respectively, NovoRapid reduced glycosylated haemoglobin by 0.12 [95% C.I.
@@ -48,13 +27,16 @@ The pharmacodynamic profile of insulin aspart in children was similar to that se
 
 Clinical trials in patients with type 1 diabetes have demonstrated a reduced risk of nocturnal hypoglycaemia with insulin aspart compared with soluble human insulin.
 The risk of daytime hypoglycaemia was not significantly increased.
+
+Pregnancy.
+A clinical trial comparing safety and efficacy of insulin aspart vs. insulin human in the treatment of pregnant women with type 1 diabetes (322 exposed pregnancies (insulin aspart: 157; insulin human: 165)) did not indicate any adverse effect of insulin aspart on pregnancy or on the health of the foetus/newborn.
+In addition the data from a clinical trial including 27 women with gestational diabetes randomised to treatment with insulin aspart vs. insulin human (insulin aspart: 14; insulin human: 13) showed similar safety profiles between treatments.
+
 Insulin aspart is equipotent to soluble human insulin on a molar basis.
 
 [NovoRapid Penfill 100 U/ml, solution for injection in a cartridge.]
 
-When NovoRapid is injected subcutaneously the onset of action will occur within 10 to 20 minutes of injection.
-
-Adults.Clinical trials in patients with type 1 diabetes have demonstrated a lower postprandial blood glucose with NovoRapid compared to soluble human insulin (Fig.
+Adults .Clinical trials in patients with type 1 diabetes have demonstrated a lower postprandial blood glucose with NovoRapid compared to soluble human insulin (Fig.
 
 [NovoRapid NovoLet 100 U/ml, solution for injection in a pre-filled pen.]
 
@@ -62,7 +44,7 @@ Adults.Clinical trials in patients with type 1 diabetes have demonstrated a lowe
 
 [NovoRapid FlexPen 100 U/ml, solution for injection in a pre-filled pen.]
 
-0.03; 0.22 percentage points and by 0.15 [95% C.I.
+(all sentences already above)
 
 [NovoRapid InnoLet 100 U/ml, solution for injection in a pre-filled pen.]
 

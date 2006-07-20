@@ -5,7 +5,12 @@ Insulin aspart∗ .........................................100 U/ml
 ∗ produced by recombinant DNA technology in Saccharomyces cerevisiae.
 
 One unit of insulin aspart corresponds to 6 nmol, 0.035 mg salt-free anhydrous insulin aspart.
-For excipients, see section 6.1.
+
+Excipient
+
+Metacresol……………………………1,72 mg/ml
+
+For a full list of excipients, see section 6.1.
 
 [NovoRapid Penfill 100 U/ml, solution for injection in a cartridge.]
 

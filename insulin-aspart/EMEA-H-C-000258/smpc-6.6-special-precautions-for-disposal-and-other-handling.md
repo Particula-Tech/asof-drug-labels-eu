@@ -1,4 +1,4 @@
-# 6.6 Instructions for use and handling
+# 6.6 Special precautions for disposal
 
 NovoRapid vials are for use with insulin syringes with the corresponding unit scale.
 
@@ -11,6 +11,8 @@ Although stable over time, a certain amount of insulin will be initially adsorbe
 Monitoring of blood glucose is necessary during insulin infusion.
 
 NovoRapid should not be used if it does not appear clear and colourless.
+
+Any unused product or waste material should be disposed of in accordance with local requirements.
 
 [NovoRapid Penfill 100 U/ml, solution for injection in a cartridge.]
 
