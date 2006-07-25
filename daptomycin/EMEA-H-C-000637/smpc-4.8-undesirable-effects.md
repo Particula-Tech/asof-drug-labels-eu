@@ -57,9 +57,9 @@ Uncommon: Pyrexia, weakness, fatigue, pain
 Investigations
 Common: Liver function tests abnormal (increased AST, ALT and Alkaline phosphatase) increased CPK
 Uncommon: Electrolyte imbalance, increased serum creatinine, increased myoglobin, Lactic dehydrogenase (LDH) increased
+
 Post-Marketing
 Adverse reactions that have been reported Post -Marketing that are not listed above are:
-
 Blood and lymphatic system disorders
 Very rare: Eosinophilia
 

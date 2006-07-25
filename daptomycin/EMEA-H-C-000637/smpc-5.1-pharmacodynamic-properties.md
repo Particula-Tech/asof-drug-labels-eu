@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: not yet assigned, ATC code: not yet assigned
+Pharmacotherapeutic group: Antibacterials for systemic use, Other antibacterials, ATC code: J01XX09
 
 Mode of action
 Daptomycin is a cyclic lipopeptide natural product that is active against Gram positive bacteria only.

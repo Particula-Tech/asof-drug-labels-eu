@@ -8,7 +8,6 @@ Animal studies showed that daptomycin is not absorbed to any significant extent 
 Distribution
 The steady state volume of distribution of daptomycin was approximately 0.1 l/kg in healthy adult volunteers, consistent with distribution primarily within the extracellular space.
 Tissue distribution studies in animals have shown that daptomycin preferentially distributes into highly vascularised tissues and to a lesser degree penetrates the blood-brain barrier and the placental barrier following single and multiple doses.
-
 Daptomycin is reversibly bound to human plasma proteins in a concentration independent manner.
 In healthy volunteers and patients treated with daptomycin, protein binding averaged about 90% including subjects with renal insufficiency.
 
@@ -45,6 +44,7 @@ Renal insufficiency
 Following administration of a single 4 mg/kg dose of daptomycin to subjects with various degrees of renal insufficiency, daptomycin clearance (CL) was reduced and systemic exposure (AUC) was increased.
 In subjects with severe renal insufficiency (CLcr < 30 ml/min) and end-stage renal disease, exposure (AUC) and elimination half life were increased between 2-3-fold relative to healthy subjects.
 See section 4.2 regarding the need for dose adjustment in these patients.
+
 Hepatic insufficiency
 The pharmacokinetics of daptomycin is not altered in subjects with moderate hepatic insufficiency (Child-Pugh B classification of cirrhosis) compared with healthy volunteers matched for gender, age and weight following a single 4 mg/kg dose.
 No dosage adjustment is necessary when administering daptomycin in patients with moderate hepatic insufficiency.
