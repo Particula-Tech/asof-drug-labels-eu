@@ -5,13 +5,13 @@ The pharmacokinetic profile is linear with low intra- and inter-subject variabil
 There is no modification of the clearance after repeated administration.
 There is no evidence for any relevant gender, race or circadian variability.
 The pharmacokinetic profile is comparable in healthy volunteers and in patients with epilepsy.
-
 Due to its complete and linear absorption, plasma levels can be predicted from the oral dose of levetiracetam expressed as mg/kg bodyweight.
 Therefore there is no need for plasma level monitoring of levetiracetam.
 
 A significant correlation between saliva and plasma concentrations has been shown in adults and children (ratio of saliva/plasma concentrations ranged from 1 to 1.7 for oral tablet formulation and after 4 hours post-dose for oral solution formulation).
 
 Adults and adolescents
+
 Absorption
 
 Levetiracetam is rapidly absorbed after oral administration.
@@ -50,7 +50,6 @@ Elimination
 
 The plasma half-life in adults was 7±1 hours and did not vary either with dose, route of administration or repeated administration.
 The mean total body clearance was 0.96 ml/min/kg.
-
 The major route of excretion was via urine, accounting for a mean 95 % of the dose (approximately 93 % of the dose was excreted within 48 hours).
 Excretion via faeces accounted for only 0.3 % of the dose.
 The cumulative urinary excretion of levetiracetam and its primary metabolite accounted for 66 % and 24 % of the dose, respectively during the first 48 hours.
@@ -58,6 +57,7 @@ The renal clearance of levetiracetam and ucb L057 is 0.6 and 4.2 ml/min/kg respe
 Levetiracetam elimination is correlated to creatinine clearance.
 
 Elderly
+
 In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
 This is related to the decrease in renal function in this population (see section 4.2).
 

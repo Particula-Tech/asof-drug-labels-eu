@@ -15,7 +15,7 @@ The effect of levetiracetam on probenecid was not studied and the effect of leve
 Levetiracetam 1,000 mg daily did not influence the pharmacokinetics of oral contraceptives (ethinyl-estradiol and levonorgestrel); endocrine parameters (luteinizing hormone and progesterone) were not modified.
 Levetiracetam 2,000 mg daily did not influence the pharmacokinetics of digoxin and warfarin; prothrombin times were not modified.
 Co-administration with digoxin, oral contraceptives and warfarin did not influence the pharmacokinetics of levetiracetam.
-
 No data on the influence of antacids on the absorption of levetiracetam are available.
+
 The extent of absorption of levetiracetam was not altered by food, but the rate of absorption was slightly reduced.
 No data on the interaction of levetiracetam with alcohol are available.

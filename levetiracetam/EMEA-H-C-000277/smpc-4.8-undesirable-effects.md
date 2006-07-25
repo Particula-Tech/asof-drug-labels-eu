@@ -14,7 +14,6 @@ However, the relative risk was similar in children as compared to adults.
 A study conducted in adults and adolescents with myoclonic seizures (12 to 65 years) showed that 33.3% of the patients in the Keppra group and 30.0% of the patients in the placebo group experienced undesirable effects that were judged to be related to treatment.
 The most commonly reported undesirable effects were headache and somnolence.
 The incidence of undesirable effects in patients with myoclonic seizures was lower than that in adult patients with partial onset seizures (30.0% versus 46.4%).
-
 Undesirable effects reported in clinical studies (adults and children) or from post-marketing experience are listed in the following table per System Organ Class and per frequency.
 For clinical trials, the frequency is defined as follows: very common (>1/10); common (>1/100, <1/10); uncommon (>1/1,000, <1/100); rare (>1/10,000, <1/1,000); very rare (<1/10,000), including isolated reports.
 Data from post-marketing experience are insufficient to support an estimate of their incidence in the population to be treated.
