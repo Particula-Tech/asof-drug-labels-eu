@@ -18,9 +18,8 @@ Rifampicin (CYP3A4 inducer): Administration of multiple doses of rifampicin decr
 Rifampicin increased the clearance of sirolimus by approximately 5.5-fold and decreased AUC and Cmax by approximately 82% and 71%, respectively.
 Co-administration of sirolimus and rifampicin is not recommended (see section 4.4).
 
-Ketoconazole (CYP3A4 inhibitor): Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.3-fold, 1.4-fold, and 10.9-fold, respectively.
+Ketoconazole (CYP3A4 inhibitor): Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.4-fold, 1.4-fold, and 10.9-fold, respectively.
 Co-administration of sirolimus and ketoconazole is not recommended (see section 4.4).
-
 Voriconazole (CYP3A4 inhibitor): Co-administration of sirolimus (2 mg single dose) with multiple-dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 100 mg every 12 hours for 8 days) in healthy subjects has been reported to increase sirolimus Cmax and AUC by an average of 7-fold and 11-fold respectively.
 Co-administration of sirolimus and voriconazole is not recommended (see section 4.4).
 
@@ -63,7 +62,7 @@ Co-administration of sirolimus with strong inhibitors of CYP3A4 or inducers of C
 
 Single-dose sirolimusdid not affect the pharmacokinetics of ciclosporin (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart.
 
-Ketoconazole (CYP3A4 inhibitor): Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure from Rapamune oral solution as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.3-fold, 1.4-fold, and 10.9-fold, respectively.
+Ketoconazole (CYP3A4 inhibitor): Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure from Rapamune oral solution as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.4-fold, 1.4-fold, and 10.9-fold, respectively.
 
 Oral contraceptives: No clinically significant pharmacokinetic interaction was observed between Rapamune oral solution and 0.3 mg norgestrel/ 0.03 mg ethinyl estradiol.
 

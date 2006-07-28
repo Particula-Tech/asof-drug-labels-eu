@@ -26,6 +26,8 @@ Cases of bronchial anastomotic dehiscence, most fatal, have been reported in de 
 
 Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculitis, have been associated with the administration of sirolimus (see section 4.8).
 
+In rare cases, the concomitant administration of sirolimus and ACE inhibitors has resulted in angioneurotic oedema-type reactions.
+
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
 Cases of Pneumocystis carinii pneumonia have been reported in patients not receiving antimicrobial prophylaxis.
@@ -34,9 +36,10 @@ Therefore, antimicrobial prophylaxis for Pneumocystis carinii pneumonia should b
 Cytomegalovirus (CMV) prophylaxis is recommended for 3 months after transplantation, particularly for patients at increased risk for CMV disease.
 
 The use of Rapamune in renal transplant patients was associated with increased serum cholesterol and triglycerides that may require treatment.
-Patients administered Rapamune, should be monitored for hyperlipidemia using laboratory tests and if hyperlipidemia is detected, subsequent interventions such as diet, exercise, and lipid-lowering agents should be initiated.
+Patients administered Rapamune should be monitored for hyperlipidemia using laboratory tests and if hyperlipidemia is detected, subsequent interventions such as diet, exercise, and lipid-lowering agents should be initiated.
 The risk/benefit should be considered in patients with established hyperlipidemia before initiating an immunosuppressive regimen including Rapamune.
 Similarly the risk/benefit of continued Rapamune therapy should be re-evaluated in patients with severe refractory hyperlipidemia.
+
 In clinical trials, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates was well tolerated.
 During Rapamune therapy, patients administered an HMG-CoA reductase inhibitor and/or fibrate, should be monitored for the possible development of rhabdomyolysis and other adverse effects as described in the respective Summary of Product Characteristics of these agents.
 
