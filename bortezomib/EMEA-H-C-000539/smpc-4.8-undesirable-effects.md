@@ -3,9 +3,9 @@
 The following undesirable effects were considered to have at least a possible or probable causal relationship to VELCADE by the investigators during the conduct of 5 non-comparative Phase II studies and 1 comparative phase III trial VELCADE vs dexamethasone in 663 patients with relapsed or refractory multiple myeloma, of whom 331 received VELCADE as single agent.
 The safety database comprises data from patients with multiple myeloma or B-cell lymphocytic leukemia (CLL).
 Patients were treated with VELCADE as a single agent, or in combination with dexamethasone.
-
-ADRs are listed below by system organ class and frequency.
+Adverse drug reactions are listed below by system organ class and frequency.
 Frequencies are defined as: Very common (>1/10); common (>1/100, <1/10); uncommon (>1/1,000, <1/100); rare (>1/10,000, <1/1,000); very rare (<1/10,000), including isolated reports.
+
 Infections and infestations
 
 Common: herpes zoster, pneumonia, bronchitis, sinusitis, nasopharyngitis, herpes simplex.
@@ -55,12 +55,12 @@ Eye disorders
 Common: vision blurred (see section 4.7), eye pain.
 
 Uncommon: dry eye, conjunctivitis, eye discharge, vision abnormal, eye haemorrhage, photophobia, eye irritation, lacrimation increased, conjunctival hyperaemia, eye swelling.
-
 Ear and labyrinth disorders
 
 Common: vertigo.
 
 Uncommon: tinnitus, deafness, hypoacusis, hearing impaired.
+
 Cardiac disorders
 
 Uncommon: Development or exacerbation of congestive heart failure (see section 4.4), cardiac failure, ventricular hypokinesia, pulmonary oedema and acute pulmonary oedema, cardiac arrest, cardiogenic shock, tachycardia, sinus tachycardia, supraventricular tachycardia, arrhythmia, atrial fibrillation, palpitations, sinus arrest, atrioventricular block complete, angina pectoris, angina unstable, myocardial infarction.
@@ -76,7 +76,9 @@ Uncommon: flushing, petechiae, hot flushes, ecchymosis, purpura, cerebral hemorr
 
 Respiratory, thoracic and mediastinal disorders
 Very Common: dyspnoea.
+
 Common: epistaxis, dyspnoea exertional, cough, rhinorrhoea.
+
 Uncommon: nasal congestion, wheezing, pleural effusion, hoarseness, chest wall pain, hypoxia, pulmonary congestion, rhinitis, asthma, hyperventilation, orthopnoea, sinus pain, throat tightness, productive cough, respiratory alkalosis, respiratory arrest, tachypnoea.
 
 Gastrointestinal disorders (see section 4.4)
@@ -97,7 +99,6 @@ Common: pruritus, erythema, periorbital oedema, urticaria, rash pruritic, sweati
 
 dry skin, eczema.
 Uncommon: night sweats, rash erythematous, alopecia, contusion, pruritus generalised, rash macular, rash papular, skin nodule, rash generalized, dermatitis, eyelid oedema, nail disorder, photosensitivity reaction, skin discolouration, dermatitis atopic, hair texture abnormal, heat rash, psoriasis, vasculitic rash, face oedema, pressure sore, ichthyosis.
-
 Musculoskeletal and connective tissue disorders
 Very Common: myalgia.
 
@@ -125,6 +126,7 @@ Investigations
 Common: weight decreased, blood lactate dehydrogenase increased.
 
 Uncommon: alanine aminotransferase increased, aspartate aminotransferase increased, blood alkaline phosphatase increased, blood creatinine increased, blood urea increased, gamma-glutamyltransferase increased, blood amylase increased, blood bilirubin increased, blood phosphate decreased, liver function tests abnormal, red blood cell count decreased, weight increased, white blood cell count decreased, blood bicarbonate decreased, heart rate irregular, C-reactive protein increased.
+
 Injury, poisoning and procedural complications
 Uncommon: catheter related complications, post procedural pain, post procedural haemorrhage, burns.
 
@@ -135,6 +137,19 @@ Potentially immunocomplex-mediated reactions (see section 4.4)
 Potentially immunocomplex-mediated reactions, such as serum-sickness –type reaction, polyarthritis with rash and proliferative glomerulonephritis have been reported uncommonly.
 
 Post Marketing Experience
-Clinically significant adverse reactions are listed if they have been reported during post approval use of VELCADE and have not been reported in clinical trials:
-Uncommon: cardiac tamponade, ischemic colitis, encephalopathy.
-Rare: Liver failure
+Clinically significant adverse reactions are listed if they have been reported during post approval use of VELCADE and have not been reported in clinical trials.
+Their frequency is not known.
+
+Nervous system disorders
+Encephalopathy
+
+Cardiac disorders
+Cardiac tamponade
+
+Respiratory, thoracic and mediastinal disorders (see section 4.4)
+Pneumonitis, interstitial pneumonia, Acute Respiratory Distress Syndrome (ARDS)
+Gastrointestinal disorders
+Ischemic colitis
+
+Hepatobiliary disorders
+Liver failure

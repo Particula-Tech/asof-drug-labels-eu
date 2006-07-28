@@ -25,6 +25,7 @@ Clinical Trials
 
 The safety and efficacy of VELCADE were evaluated in 2 studies at the recommended dose of 1.3 mg/m2: a phase III randomized, comparative study, versus Dexamethasone (Dex), of 669 patients with relapsed or refractory multiple myeloma who had received 1-3 prior lines of therapy, and a phase II single-arm study of 202 patients with relapsed and refractory multiple myeloma, who had received at least 2 prior lines of treatment and who were progressing on their most recent treatment.
 (See Tables 2, 3 and 4).
+
 Table 2: Dosing regimens in Phase II and Phase III studies
 
 | Phase/arm | Drug Schedule | Dose | Regimen |
@@ -65,8 +66,13 @@ Table 4: Patient exposure to treatment with VELCADE during phase 2 and 3 studies
 |  | Phase II VELCADE | Phase III VELCADE | Phase III Dex |
 | --- | --- | --- | --- |
 | Received at least 1 dose | N= 202 | N=331 | N= 332 |
-| Completed 4 cycles a) all initial cycles (number) b) full course (number) c) extension * | 27% (8 cycles) NA N= 63 pts (median 7 cycles) or total median 14 cycles | 69% 29 % (8 cycles) 9% (11 cycles) NA | 36 % (4 cycles) 5 % (9 cycles) NA |
+| Completed 4 cycles | 62% | 69% 29 % (8 cycles) |  |
 
+a) all initial cycles (number) 27% (8 cycles ) 9% (11 cycles) 36 % (4 cycles)
+b) full course (number) NA NA 5 % (9 cycles)
+c) extension * N= 63 pts (median NA
+7 cycles) or total
+median 14 cycles
 (range 7-32)
 
 *Patients could continue on treatment after completing 8 cycles, in case of benefit
@@ -85,7 +91,6 @@ In the refractory population of the Phase II study, responses were determined by
 The median survival of all patients enrolled was 17 months (range <1 to 36+ months).
 This survival was greater than the six-to-nine month median survival anticipated by consultant clinical investigators for a similar patient population.
 By multivariate analysis, the response rate was independent of myeloma type, performance status, chromosome 13 deletion status, or the number, or type of previous therapies; patients who had received 2 to 3 prior therapeutic regimens had a response rate of 32% (10/32) and patients who received greater than 7 prior therapeutic regimens had a response rate of 31% (21/67).
-
 Table 5: Summary of Disease Outcomes from the Phase III and Phase II studies
 
 |  | Phase III |  | Phase III |  | Phase III |  | Phase II |
@@ -100,10 +105,7 @@ Table 5: Summary of Disease Outcomes from the Phase III and Phase II studies
 | CR+ nCR + PR | 121 (38) b | 56 (b18) | 57 (45) d | 29 (26) d | 64 (34) b | 27b (13) | (27)** |
 | CR + nCR+ PR+MR | 146 (46) | 108 (35) | 66 (52) | 45 (41) | 80 (43) | 63 (31) | (35)** |
 | Median duration Days (months) | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
-
-TIME TO
-RESPONSE 43 43 44 46 41 27 38*
-CR + PR (days)
+| TIME TO RESPONSE CR + PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |
 
 a Intent to Treat (ITT) population b p-value from the stratified log-rank test; analysis by line of therapy excludes stratification for therapeutic history; p<0.0001 c Response population includes patients who had measurable disease at baseline and received at least 1 dose of study drug.
 d p-value from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors; analysis by line of therapy excludes stratification for therapeutic history

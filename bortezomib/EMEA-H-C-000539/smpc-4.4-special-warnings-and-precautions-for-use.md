@@ -3,7 +3,6 @@
 Gastrointestinal
 Gastrointestinal toxicity, including nausea, diarrhoea, vomiting and constipation are very common with VELCADE treatment.
 Cases of ileus have been reported, therefore patients who experience constipation should be closely monitored.
-
 Haematological
 VELCADE treatment is very commonly associated with haematological toxicities (thrombocytopenia, neutropenia and anaemia).
 The most common haematologic toxicity is transient thrombocytopenia.
@@ -46,7 +45,6 @@ Autonomic neuropathy may be related to bortezomib or bortezomib may aggravate an
 Caution is advised when treating patients with a history of syncope receiving medicinal products known to be associated with hypotension; or who are dehydrated due to recurrent diarrhoea or vomiting.
 Management of orthostatic/postural hypotension may include adjustment of antihypertensive medicinal products, rehydration or administration of mineralocorticosteroids and/or sympathomimetics.
 Patients should be instructed to seek medical advice if they experience symptoms of dizziness, light-headedness or fainting spells.
-
 Heart failure
 Acute development or exacerbation of congestive heart failure, and/or new onset of decreased left ventricular ejection fraction has been reported during bortezomib treatment.
 In a phase III randomized, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
@@ -55,6 +53,12 @@ Patients with risk factors for or existing heart disease should be closely monit
 
 ECG Investigations
 There have been isolated cases of QT-interval prolongation in clinical studies, causality has not been established.
+
+Pulmonary Disorders
+There have been rare reports of acute diffuse infiltrative pulmonary disease of unknown aetiology such as pneumonitis, interstitial pneumonia, lung infiltration, and Acute Respiratory Distress Syndrome (ARDS) in patients receiving VELCADE (see section 4.8).
+Some of these events have been fatal.
+A higher proportion of these events have been reported in Japan.
+In the event of new or worsening pulmonary symptoms (e.g. cough, dyspnoea), a prompt diagnostic evaluation should be performed and patients treated appropriately.
 
 Renal Impairment
 The incidence of serious undesirable effects has been shown to increase in patients with mild to moderate renal impairment compared to patients with normal renal function (see section 4.8).
@@ -82,7 +86,6 @@ Precautions with certain concomitant medicinal products
 Patients should be monitored closely when given bortezomib in combination with potent CYP3A4- inhibitors.
 Caution should be exercised when bortezomib is combined with CYP3A4- or CYP2C19 substrates (see section 4.5).
 Normal liver function should be confirmed and caution should be exercised in patients receiving oral hypoglycemics (see section 4.5).
-
 Potentially immunocomplex-mediated reactions
 Potentially immunocomplex-mediated reactions, such as serum-sickness –type reaction, polyarthritis with rash and proliferative glomerulonephritis have been reported uncommonly.
 Bortezomib should be discontinued if serious reactions occur.

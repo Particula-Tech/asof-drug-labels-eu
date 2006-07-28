@@ -19,5 +19,5 @@ The elimination pathways of bortezomib have not been evaluated in vivo.
 In vitro, CYP3A4 and CYP2C19 are quantitatively the major enzymes responsible for the metabolism of bortezomib.
 Only a small amount of parent compound has been recovered in urine while no intact bortezomib has been recovered in bile or faeces.
 
-Formal studies in patients with severely impaired renal and hepatic functions have not been conducted to date; consequently caution is recommended when administering bortezomib to these classes of patients (see 4.4).
-In the absence of data VELCADE is contraindicated in patients with severe liver impairment (see 4.3).
+Formal studies in patients with severely impaired renal and hepatic functions have not been conducted to date; consequently caution is recommended when administering bortezomib to these classes of patients (see section 4.4).
+In the absence of data VELCADE is contraindicated in patients with severe liver impairment (see section 4.3).
