@@ -1,18 +1,15 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Epivir is not recommended for use as monotherapy.
 
-Renal impairment: In patients with moderate to severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (See section 4.2).
-
-Once daily dosing (300 mg once a day): a clinical study has demonstrated the non inferiority between Epivir once a day and Epivir twice a day containing regimens.
-These, results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
+Renal impairment: In patients with moderate to severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (see section 4.2).
 
 Triple nucleoside therapy: There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when lamivudine was combined with tenofovir disoproxil fumarate and abacavir as well as with tenofovir disoproxil fumarate and didanosine as a once daily regimen.
 
 Opportunistic infections: Patients receiving Epivir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with associated HIV diseases.
-Transmission of HIV: Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
-Appropriate precautions should continue to be taken.
 
+Transmission of HIV: Patients should be advised that current antiretroviral therapy, including Epivir, has not been proven to prevent the risk of transmission of HIV to others through sexual contact or contamination with blood.
+Appropriate precautions should continue to be taken.
 Pancreatitis: Cases of pancreatitis have occurred rarely.
 However it is not clear whether these cases were due to the antiretroviral treatment or to the underlying HIV disease.
 Treatment with Epivir should be stopped immediately if clinical signs, symptoms or laboratory abnormalities suggestive of pancreatitis occur.
@@ -29,7 +26,7 @@ Treatment with nucleoside analogues should be discontinued in the setting of sym
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
 Patients co-infected with hepatitis C and treated with alpha interferon and ribavirin may constitute a special risk.
 
-Patients at increased risk should be followed closely .
+Patients at increased risk should be followed closely.
 
 Mitochondrial dysfunction: Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
 There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues.
@@ -53,7 +50,6 @@ Immune Reactivation Syndrome: In HIV-infected patients with severe immune defici
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-
 Liver disease: If lamivudine is being used concomitantly for the treatment of HIV and HBV, additional information relating to the use of lamivudine in the treatment of hepatitis B infection is available in the Zeffix SPC.
 
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk of severe and potentially fatal hepatic adverse events.
@@ -62,19 +58,19 @@ In case of concomitant antiviral therapy for hepatitis B or C, please refer also
 If Epivir is discontinued in patients co-infected with hepatitis B virus, periodic monitoring of liver function tests and markers of HBV replication is recommended, as withdrawal of lamivudine may result in an acute exacerbation of hepatitis (see Zeffix SPC).
 
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.
-If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
+If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered (see section 4.8).
 
 [Epivir 10 mg/ml oral solution]
 
-Diabetic patients should be advised that each dose (150 mg = 15 ml) contains 3 g of sucrose.
-
-Renal impairment: In patients with moderate –to- severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (See section 4.2).
-
-These results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
+Renal impairment: In patients with moderate –to- severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (see section 4.2).
 
 A connection between visceral lipomatosis and protease inhibitors (PIs) and lipoatrophy and nucleoside analogue reverse transcriptase inhibitors (NRTIs) has been hypothesised.
 
-Liver disease:If lamivudine is being used concomitantly for the treatment of HIV and HBV, additional information relating to the use of lamivudine in the treatment of hepatitis B infection is available in the Zeffix SPC.
+Diabetic patients should be advised that each dose (150 mg = 15 ml) contains 3 g of sucrose.
+Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
+
+Epivir contains methyl parahydroxybenzoate and propyl parahydroxybenzoate.
+These may cause allergic reactions (possibly delayed).
 
 [Epivir 300 mg film-coated tablets]
 

@@ -1,8 +1,7 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: August 1996
-
-Date of renewal: 8 November 2001
+Date of last renewal: 8 November 2001
 
 [Epivir 10 mg/ml oral solution]
 

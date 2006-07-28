@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-HDPE bottles : 5 years
+HDPE bottles: 5 years
 
 PVC/aluminium foil blister packs: 2 years
 

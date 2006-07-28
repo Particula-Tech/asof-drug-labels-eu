@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: nucleoside analogue, ATC Code: J05A F05.
+Pharmacotherapeutic group: nucleoside analogue, ATC Code: J05AF05.
 
 Lamivudine is a nucleoside analogue which has activity against human immunodeficiency virus (HIV) and hepatitis B virus (HBV).
 It is metabolised intracellularly to the active moiety, lamivudine 5’- triphosphate.
@@ -19,7 +19,6 @@ Zidovudine and stavudine maintain their antiretroviral activities against lamivu
 Abacavir maintains its antiretroviral activities against lamivudine-resistant HIV-1 harbouring only the M184V mutation.
 The M184V RT mutant shows a <4-fold decrease in susceptibility to didanosine and zalcitabine; the clinical significance of these findings is unknown.
 In vitro susceptibility testing has not been standardised and results may vary according to methodological factors.
-
 Lamivudine demonstrates low cytotoxicity to peripheral blood lymphocytes, to established lymphocyte and monocyte-macrophage cell lines, and to a variety of bone marrow progenitor cells in vitro.
 
 Clinical experience:
@@ -39,6 +38,9 @@ Lamivudine at a dose of 100 mg once daily has also been shown to be effective fo
 However, for the treatment of HIV infection only a 300 mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
 
 Lamivudine has not been specifically investigated in HIV patients co-infected with HBV.
+
+Once daily dosing (300 mg once a day): a clinical study has demonstrated the non inferiority between Epivir once a day and Epivir twice a day containing regimens.
+These results were obtained in an antiretroviral naïve-population, primarily consisting of asymptomatic HIV infected patients (CDC stage A).
 
 [Epivir 10 mg/ml oral solution]
 

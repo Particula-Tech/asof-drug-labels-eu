@@ -1,6 +1,6 @@
 # 6.1 List of excipients
 
-Tablet Core:
+Tablet core:
 Microcrystalline cellulose (E460),
 Sodium starch glycollate
 Magnesium stearate
@@ -13,7 +13,7 @@ Polysorbate 80
 
 [Epivir 10 mg/ml oral solution]
 
-Sucrose 20 %(3 g/15 ml)
+Sucrose 20 % (3 g/15 ml)
 Methyl parahydroxybenzoate
 Propyl parahydroxybenzoate
 Citric acid Anhydrous

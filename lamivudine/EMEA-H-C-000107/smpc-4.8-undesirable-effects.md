@@ -1,10 +1,10 @@
 # 4.8 Undesirable effects
 
-The following adverse events have been reported during therapy for HIV disease with Epivir.
-With many it is unclear whether they are related to Epivir, other medications taken concurrently or are as a result of the underlying disease process.
+The following adverse reactions have been reported during therapy for HIV disease with Epivir.
 
-The adverse events considered at least possibly related to the treatment are listed below by body system, organ class and absolute frequency.
+The adverse reactions considered at least possibly related to the treatment are listed below by body system, organ class and absolute frequency.
 Frequencies are defined as very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100), rare (>1/10,000, <1/1,000), very rare (<1/10,000).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Blood and lymphatic systems disorders
 Uncommon: Neutropenia and anaemia (both occasionally severe), thrombocytopenia
@@ -12,22 +12,22 @@ Very rare: Pure red cell aplasia
 
 Nervous system disorders
 Common: Headache, insomnia
-Very rare: Cases of peripheral neuropathy (or paraesthesia) have been reported.
+Very rare: peripheral neuropathy (or paraesthesia)
 
 Respiratory, thoracic and mediastinal disorders
 Common: Cough, nasal symptoms
 
 Gastrointestinal disorders
 Common: Nausea, vomiting, abdominal pain or cramps, diarrhoea
-Rare: Rises in serum amylase.
-Cases of pancreatitis have been reported.
+Rare: Pancreatitis. elevations in serum amylase.
 
 Hepatobiliary disorders
-Uncommon: Transient rises in liver enzymes (AST, ALT).
+Uncommon: Transient elevations in liver enzymes (AST, ALT).
 Rare: Hepatitis
 
 Skin and subcutaneous tissue disorders
 Common: Rash, alopecia
+
 Musculoskeletal and connective tissue disorders
 Common: Arthralgia, muscle disorders
 Rare: Rhabdomyolysis
@@ -45,8 +45,9 @@ In HIV-infected patients with severe immune deficiency at the time of initiation
 
 [Epivir 10 mg/ml oral solution]
 
-Common:Cough, nasal symptoms
+Rare: Pancreatitis elevations in serum amylase.
 
 [Epivir 300 mg film-coated tablets]
 
-(all sentences already above)
+Rare: Pancreatitis.
+Elevations in serum amylase.
