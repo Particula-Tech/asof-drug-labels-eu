@@ -2,6 +2,10 @@
 
 Pharmacotherapeutic group: protease inhibitor, ATC code: J05A E08
 
+This medicinal product has been authorised under “Exceptional Circumstances”.
+This means that for scientific reasons, it has not been possible to obtain complete information on this medicinal product.
+The European Medicines Agency (EMEA) will review any new information which may become available every year and this SPC will be updated as necessary.
+
 Mechanism of action: atazanavir is an azapeptide HIV-1 protease inhibitor.
 The compound selectively inhibits the virus-specific processing of viral Gag-Pol proteins in HIV-1 infected cells, thus preventing formation of mature virions and infection of other cells.
 
@@ -14,6 +18,7 @@ In general, susceptibility to atazanavir was retained (83% of isolates displayed
 Eighteen percent of isolates had 4 or more of the following 6 mutations considered critical mutations for protease inhibitors: amino acid substitutions 10, 46, 54, 82, 84, and 90.
 These isolates expressed a median fold change in EC50 relative to wildtype of 12.0 for atazanavir.
 Therefore, viral isolates having at least 4 of these specific mutations would be considered resistant for atazanavir.
+
 Resistance in vivo: in antiretroviral treatment naive patients, the I50L substitution, sometimes in combination with an A71V change, is the signature resistance mutation for atazanavir.
 An atazanavir resistance phenotype is expressed in all recombinant viral clones containing the I50L substitution in a variety of genetic backgrounds.
 Resistance levels ranged from 3.5- to 29-fold.
@@ -26,7 +31,7 @@ These isolates developed higher levels of resistance to the other protease inhib
 
 Clinical experience: in antiretroviral treatment experienced patients, the benefit of REYATAZ is based only on Study 045 where REYATAZ 300 mg once daily was used with ritonavir 100 mg once daily and compared with lopinavir + ritonavir.
 
-Study 045 is an ongoing, randomised, multicenter trial comparing REYATAZ (300 mg once daily) with ritonavir (100 mg once daily) to REYATAZ (400 mg once daily) with saquinavir soft gelatine capsules (1,200 mg once daily), and to lopinavir + ritonavir (400/100 mg fixed dose combination twice daily), each in combination with tenofovir (see 4.5 and 4.8) and one NRTI, in 347 (of 358 randomised) patients with virologic failure on two or more prior regimens containing at least one PI, NRTI, and NNRTI.
+Study 045 is an ongoing, randomised, multicenter trial comparing REYATAZ (300 mg once daily) with ritonavir (100 mg once daily) to REYATAZ (400 mg once daily) with saquinavir soft gelatine capsules (1,200 mg once daily), and to lopinavir + ritonavir (400/100 mg fixed dose combination twice daily), each in combination with tenofovir (see sections 4.5 and 4.8) and one NRTI, in 347 (of 358 randomised) patients with virologic failure on two or more prior regimens containing at least one PI, NRTI, and NNRTI.
 For randomised patients, the mean time of prior antiretroviral exposure was 138 weeks for PIs, 281 weeks for NRTIs, and 85 weeks for NNRTIs.
 At baseline, 34% of patients were receiving a PI and 60% were receiving an NNRTI.
 Fifteen of 120 (13%) patients in the REYATAZ + ritonavir treatment arm and 17 of 123 (14%) patients in the lopinavir + ritonavir arm had four or more of the PI mutations 10, 46, 54, 82, 84, and 90.
@@ -39,8 +44,8 @@ The primary endpoint was the time-averaged difference in change from baseline in
 Through 48 weeks of treatment, the decreases from baseline in HIV RNA levels (primary endpoint) were 1.93 log10 copies/ml for REYATAZ + ritonavir and 1.87 log10 copies/ml for lopinavir + ritonavir.
 REYATAZ + ritonavir was similar (non-inferior) to lopinavir + ritonavir on this efficacy measure (time-averaged difference of 0.13, 97.5% confidence interval [-0.12, 0.39]).
 Consistent results were obtained with the last observation carried forward method of analysis (time-averaged difference of 0.11, 97.5% confidence interval [-0.15, 0.36]).
-The proportions of patients with HIV
-RNA < 400 copies/ml in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 53% and 54%, respectively, by intent-to-treat analysis, with missing values considered as failures.
+The proportions of patients with HIV RNA
+< 400 copies/ml in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 53% and 54%, respectively, by intent-to-treat analysis, with missing values considered as failures.
 The proportions of patients with HIV RNA < 50 copies/ml in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 36% and 42%, respectively.
 By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA < 400 copies/ml (< 50 copies/ml) in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 55% (40%) and 56% (46%), respectively.
 The mean increases from baseline in CD4 cell count were 110 cells/mm3 and 121 cells/mm3 in the REYATAZ + ritonavir and lopinavir + ritonavir arms, respectively.
@@ -51,7 +56,7 @@ Consistent results were obtained with the last observation carried forward metho
 The proportions of patients with HIV RNA <400 copies/ml (<50 copies/ml) for REYATAZ + ritonavir were 43% (32%) and for lopinavir + ritonavir were 46% (35%).
 Patients completing treatment while in response after 48 weeks were censored.
 By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA <400 copies/ml (<50 copies/ml) for REYATAZ + ritonavir were 84% (72%) and for lopinavir + ritonavir were 82% (72%).
-It is important to note that at time of the 96-week analysis, 48% of patients overall remained on study.
+It is important to note that at time of the 96-week analysis, 48 % of patients overall remained on study.
 
 Through 48 weeks of treatment, two types of analyses were performed based on baseline genotypic mutations.
 The first consisted in assessing the HIV RNA change from baseline in the subgroup of patients with < or ≥ of 4 of the following set of mutations: 10, 20, 24, 32, 33, 36, 46, 48, 50, 54, 63, 71, 73, 82, 84 and 90.

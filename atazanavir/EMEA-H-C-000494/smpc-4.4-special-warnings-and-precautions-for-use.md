@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Patients should be advised that current antiretroviral therapy has not been proven to prevent the risk of transmission of HIV to others through blood or sexual contact.
 Appropriate precautions should continue to be employed.
@@ -9,18 +9,18 @@ Co-administration of REYATAZ with ritonavir in doses greater than 100 mg once da
 The use of higher ritonavir doses might alter the safety profile of atazanavir (cardiac effects, hyperbilirubinemia) and therefore is not recommended.
 
 Patients with coexisting conditions
-Atazanavir is primarily hepatically metabolised and increased plasma concentrations were observed in patients with hepatic impairment (see 4.2 and 4.3).
+Atazanavir is primarily hepatically metabolised and increased plasma concentrations were observed in patients with hepatic impairment (see sections 4.2 and 4.3).
 The safety and efficacy of REYATAZ has not been established in patients with significant underlying liver disorders.
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse events.
-In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant Summary of Product Characteristics for these medicinal products (see 4.8).
+In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant Summary of Product Characteristics for these medicinal products (see section 4.8).
 
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
 Dose related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
 Caution should be used with medicinal products known to induce PR prolongations.
-In patients with pre-existing conduction problems (second degree or higher atrioventricular or complex bundle-branch block), REYATAZ should be used with caution and only if the benefits exceed the risk (see 5.1).
-Particular caution should be used when prescribing REYATAZ in association with medicinal products which have the potential to increase the QT interval and/or in patients with pre-existing risk factors (bradycardia, long congenital QT, electrolyte imbalances (see 4.8 and 5.3).
+In patients with pre-existing conduction problems (second degree or higher atrioventricular or complex bundle-branch block), REYATAZ should be used with caution and only if the benefits exceed the risk (see section 5.1).
+Particular caution should be used when prescribing REYATAZ in association with medicinal products which have the potential to increase the QT interval and/or in patients with pre-existing risk factors (bradycardia, long congenital QT, electrolyte imbalances (see sections 4.8 and 5.3).
 There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in type A and B haemophiliac patients treated with protease inhibitors.
 In some patients additional factor VIII was given.
 In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.
@@ -36,9 +36,9 @@ A higher risk of lipodystrophy has been associated with individual factors such 
 Clinical examination should include evaluation for physical signs of fat redistribution.
 
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
-Lipid disorders should be managed as clinically appropriate (see 4.8).
+Lipid disorders should be managed as clinically appropriate (see section 4.8).
 
-In clinical studies, REYATAZ (with or without ritonavir) has been shown to induce dyslipidemia to a lesser extent than comparators (see 5.1).
+In clinical studies, REYATAZ (with or without ritonavir) has been shown to induce dyslipidemia to a lesser extent than comparators (see section 5.1).
 However, the clinical impact of such findings has not been demonstrated in the absence of specific studies on cardiovascular risk.
 
 Hyperglycaemia
@@ -47,13 +47,13 @@ In some of these, the hyperglycaemia was severe and in some cases also associate
 Many patients had confounding medical conditions, some of which required therapy with medicinal products that have been associated with development of diabetes or hyperglycaemia.
 
 Hyperbilirubinemia
-Reversible elevations in indirect (unconjugated) bilirubin related to inhibition of UDP-glucuronosyl transferase (UGT) have occurred in patients receiving REYATAZ (see 4.8).
+Reversible elevations in indirect (unconjugated) bilirubin related to inhibition of UDP-glucuronosyl transferase (UGT) have occurred in patients receiving REYATAZ (see section 4.8).
 Hepatic transaminase elevations that occur with elevated bilirubin in patients receiving REYATAZ should be evaluated for alternative etiologies.
 Alternative antiretroviral therapy to REYATAZ may be considered if jaundice or scleral icterus is unacceptable to a patient.
 Dose reduction of atazanavir is not recommended because it may result in a loss of therapeutic effect and development of resistance.
 
 Indinavir is also associated with indirect (unconjugated) hyperbilirubinemia due to inhibition of UGT.
-Combinations of REYATAZ and indinavir have not been studied and co-administration of these medicinal products is not recommended (see 4.5).
+Combinations of REYATAZ and indinavir have not been studied and co-administration of these medicinal products is not recommended (see section 4.5).
 
 Immune reactivation syndrome
 In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
@@ -61,19 +61,20 @@ Typically, such reactions have been observed within the first few weeks or month
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
-Lactose
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 Interactions with other medicinal products
-Co-administration of REYATAZ with simvastatin or lovastatin is not recommended (see 4.5).
-
+Co-administration of REYATAZ with simvastatin or lovastatin is not recommended (see section 4.5).
 Atazanavir is metabolised principally by CYP3A4.
-Co-administration of REYATAZ with ritonavir and medicinal products that induce CYP3A4 is not recommended (see 4.3 and 4.5).
+Co-administration of REYATAZ with ritonavir and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
 
-The concomitant use of REYATAZ and oral contraceptives should be avoided (see 4.5).
+The concomitant use of REYATAZ and oral contraceptives should be avoided (see section 4.5).
 
-Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression (see 4.5).
+Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression
+(see section 4.5).
 
 The absorption of atazanavir may be reduced in situations where gastric pH is increased irrespective of cause.
+
+Lactose
+Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
 [REYATAZ 150 mg hard capsules]
 
@@ -85,11 +86,13 @@ The absorption of atazanavir may be reduced in situations where gastric pH is in
 
 [REYATAZ 50 mg/1.5 g oral powder]
 
-Phenylketonuria
-REYATAZ oral powder contains aspartame as a sweetening agent.
-Aspartame provides a source of phenylalanine and, therefore, may not be suitable for persons with phenylketonuria.
-
 Diabetics
 REYATAZ oral powder contains 7.3 g sucrose per 300 mg daily dose.
 This should be taken into account in patients with diabetes mellitus.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
+
+Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression (see section 4.5).
+
+Phenylketonuria
+REYATAZ oral powder contains aspartame as a sweetening agent.
+Aspartame provides a source of phenylalanine and, therefore, may not be suitable for persons with phenylketonuria.

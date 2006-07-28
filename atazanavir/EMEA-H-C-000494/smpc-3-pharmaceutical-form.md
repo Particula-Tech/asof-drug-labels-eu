@@ -1,6 +1,6 @@
 # 3. PHARMACEUTICAL FORM
 
-Capsule, hard.
+Hard capsule
 The capsules are opaque blue and white.
 They are printed with edible white and blue inks, with
 "BMS 100" on one half and with "3623" on the other half.

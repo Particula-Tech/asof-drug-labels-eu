@@ -1,4 +1,4 @@
 # 4.7 Effects on ability to drive and use machines
 
-There are no data to suggest that atazanavir affects the ability to drive or use machines.
-However, patients should be informed that dizziness has been reported during treatment with regimens containing REYATAZ (see 4.8).
+No studies on the effects on the ability to drive and use machines have been performed.
+Patients should be informed that dizziness has been reported during treatment with regimens containing REYATAZ (see section 4.8).

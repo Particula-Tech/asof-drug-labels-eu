@@ -6,12 +6,12 @@ In female mice, atazanavir exposure at a dose that produced single-cell necrosis
 Serum cholesterol and glucose were minimally to mildly increased in rats but not in mice or dogs.
 
 During in vitro studies, cloned human cardiac potassium channel (hERG), was inhibited by 15% at a concentration (30 µM) of atazanavir corresponding to 30-fold the free drug concentration at Cmax in humans.
-Similar concentrations of atazanavir increased by 13% the action potential duration (ADP90) in rabbit Purkinje fibres study.
+Similar concentrations of atazanavir increased by 13% the action potential duration (APD90) in rabbit Purkinje fibres study.
 Electrocardiographic changes (sinus bradycardia, prolongation of PR interval, prolongation of QT interval, and prolongation of QRS complex) were observed only in an initial 2-week oral toxicity study performed in dogs.
 Subsequent 9-month oral toxicity studies in dogs showed no drug-related electrocardiographic changes.
-The clinical relevance of these preclinical data is unknown.
-Potential cardiac effects of this product in humans cannot be ruled out (see 4.4 and 4.8).
-The potential for PR prolongation should be considered in cases of overdose (see 4.9).
+The clinical relevance of these non-clinical data is unknown.
+Potential cardiac effects of this product in humans cannot be ruled out (see sections 4.4 and 4.8).
+The potential for PR prolongation should be considered in cases of overdose (see section4.9).
 
 In a fertility and early embryonic development study in rats, atazanavir altered oestrus cycling with no effects on mating or fertility.
 No teratogenic effects were observed in rats or rabbits at maternally toxic doses.
@@ -27,3 +27,15 @@ The increased incidence of benign hepatic adenomas in female mice was likely sec
 There were no tumorigenic findings in male mice or in rats.
 
 Atazanavir increased opacity of bovine corneas in an in vitro ocular irritation study, indicating it may be an ocular irritant upon direct contact with the eye.
+
+[REYATAZ 150 mg hard capsules]
+
+(all sentences already above)
+
+[REYATAZ 200 mg hard capsules]
+
+(all sentences already above)
+
+[REYATAZ 50 mg/1.5 g oral powder]
+
+The potential for PR prolongation should be considered in cases of overdose (see section 4.9).

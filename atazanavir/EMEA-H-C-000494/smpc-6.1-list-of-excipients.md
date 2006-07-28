@@ -13,13 +13,15 @@ Titanium dioxide (E171)
 Blue ink containing:
 Shellac
 Dehydrated alcohol
-Butyl alcohol
+Isopropyl alcohol n-Butyl alcohol
 Propylene glycol
 Ammonia solution
 Indigotine aluminium lake (E132)
+
 White ink containing:
 Shellac
 Titanium dioxide (E171)
+Isopropyl alcohol n-Butyl alcohol
 Ammonium hydroxide
 Propylene glycol
 Simethicone
@@ -39,4 +41,4 @@ Sucrose
 Orange-vanilla flavour including:
 Modified food starch
 Dextrose
-Butylhydroxytoluene
+Butylhydroxytoluene (E321)
