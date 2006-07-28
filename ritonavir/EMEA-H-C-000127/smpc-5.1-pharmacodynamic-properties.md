@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmaco-therapeutic group: antiviral for systemic use, ATC code: J05A E03
-
 Ritonavir is an orally active peptidomimetic inhibitor of the HIV-1 and HIV-2 aspartyl proteases.
 Inhibition of HIV protease renders the enzyme incapable of processing the gag-pol polyprotein precursor which leads to the production of HIV particles with immature morphology that are unable to initiate new rounds of infection.
 Ritonavir has selective affinity for the HIV protease and has little inhibitory activity against human aspartyl proteases.
@@ -12,6 +11,7 @@ Similar potencies were found with both AZT-sensitive and AZT-resistant strains o
 Studies which measured direct cell toxicity of ritonavir on several cell lines showed no direct toxicity at concentrations up to 25 µM, with a resulting in vitro therapeutic index of at least 1000.
 
 Resistance
+
 Ritonavir-resistant isolates of HIV-1 have been selected in vitro.
 The resistant isolates showed reduced susceptibility to ritonavir and genotypic analysis showed that the resistance was attributable primarily to specific amino acid substitutions in the HIV-1 protease at codons 82 and 84.
 
@@ -41,7 +41,6 @@ The most frequently used nucleosides in this study were zidovudine, stavudine, d
 In a study recruiting less advanced HIV-1 infected patients (CD4 200-500 cells/µl) without previous antiretroviral therapy, ritonavir in combination with zidovudine or alone reduced viral load in plasma and increased CD4 count.
 The effects of ritonavir monotherapy seemed unexpectedly to be at least as large as the combination therapy, a finding which has not been explained adequately.
 The mean average change from baseline over 48 weeks for HIV RNA levels was -0.88 log10 in the ritonavir group versus -0.66 log10 in the ritonavir + zidovudine group versus -0.42 log10 in the zidovudine group.
-
 The continuation of ritonavir therapy should be evaluated by viral load because of the possibility of the emergence of resistance as described under section 4.1 Therapeutic indications.
 
 In an open label trial in 32 antiretroviral naive HIV-1 infected patients the combination of ritonavir with zidovudine and zalcitabine decreased the viral load (mean decrease at week 20 of -1.76 log10).

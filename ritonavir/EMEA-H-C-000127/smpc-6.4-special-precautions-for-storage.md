@@ -11,5 +11,4 @@ Avoid exposure to excessive heat.
 
 Norvir soft capsules should be stored in a refrigerator (2º - 8ºC) until they are dispensed to the patient.
 Refrigeration by the patient is not required if used within 30 days and stored below 25°C.
-
 Avoid exposure to freezing and excessive heat.

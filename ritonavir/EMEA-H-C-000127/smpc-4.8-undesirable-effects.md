@@ -43,7 +43,6 @@ Syncope, orthostatic hypotension and renal insufficiency have also been reported
 Hepatic transaminase elevations exceeding five times the upper limit or normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
-
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
@@ -55,6 +54,7 @@ Hypertriglyceridaemia, hypercholesterolaemia and hyperuricaemia were clearly rel
 Pancreatitis has been observed in patients receiving Norvir therapy, including those who developed hypertriglyceridemia.
 In some cases fatalities have been observed.
 Patients with advanced HIV disease may be at risk of elevated triglycerides and pancreatitis.
+
 Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur.
 Patients who exhibit these signs or symptoms should be evaluated and Norvir therapy should be discontinued if a diagnosis of pancreatitis is made.
 
