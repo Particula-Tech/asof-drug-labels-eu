@@ -26,14 +26,10 @@ In a study to assess the effects of tadalafil on vision, no impairment of colour
 This finding is consistent with the low affinity of tadalafil for PDE6 compared to PDE5.
 Across all clinical studies, reports of changes in colour vision were rare (< 0.1 %).
 
-Two studies were conducted in men to assess the potential effect of CIALIS 10 mg and 20 mg administered daily for 6 months on spermatogenesis.
-The results of these studies demonstrate no difference from placebo with respect to the proportion of men showing a 50% or greater decrease in sperm concentration.
-In addition, in comparison with placebo, there were no adverse effects observed with respect to mean change in sperm count, sperm morphology, or sperm motility at either dose.
-However, in the study of 10 mg CIALIS taken daily for 6 months, results showed a decrease in mean sperm concentration relative to placebo.
-This effect was not seen in the study where the higher dose, 20 mg, CIALIS was taken daily for 6 months.
-In addition there was no effect on mean concentrations of testosterone, luteinizing hormone or follicle stimulating hormone with either 10 or 20 mg of CIALIS compared to placebo.
-The effects of longer term daily dosing have not been established.
-See also Sections 4.4 Special warnings and special precautions for use and 5.3 Preclinical safety data.
+Three studies were conducted in men to assess the potential effect on spermatogenesis of CIALIS
+10 mg (one 6-month study) and 20 mg (one 6-month and one 9-month study) administered daily.
+In two of these studies decreases were observed in sperm count and concentration related to tadalafil treatment of unlikely clinical relevance.
+These effects were not associated with changes in other parameters such as motility, morphology and FSH.
 
 Tadalafil at doses of 2 to 100 mg has been evaluated in 16 clinical studies involving 3250 patients, including patients with erectile dysfunction of various severities (mild, moderate, severe), etiologies, ages (range 21-86 years), and ethnicities.
 Most patients reported erectile dysfunction of at least 1 year in duration.

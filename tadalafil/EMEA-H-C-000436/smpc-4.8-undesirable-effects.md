@@ -22,7 +22,9 @@ The adverse events reported with tadalafil were transient, and generally mild or
 
 Adverse event data are limited in patients over 75 years of age.
 
-In postmarketing surveillance, adverse events/reactions that have been reported very rarely in patients taking tadalafil include:
+In postmarketing surveillance, adverse reactions that have been reported in patients taking tadalafil include:
+
+Nervous system: migraine.
 
 Body as a whole: hypersensitivity reactions including rash, urticaria, facial oedema, Stevens-Johnson syndrome, and exfoliative dermatitis.
 
@@ -34,6 +36,7 @@ Hypotension (more commonly reported when tadalafil is given to patients who are 
 Eye disorders: blurred vision, visual field defect, retinal vascular occlusion.
 Non-arteritic anterior ischemic optic neuropathy (NAION) has been reported at an unknown frequency.
 
+Respiratory system: epistaxis.
 Skin and subcutaneous tissues: hyperhidrosis (sweating).
 
 Gastrointestinal: abdominal pain and gastro-oesophageal reflux.

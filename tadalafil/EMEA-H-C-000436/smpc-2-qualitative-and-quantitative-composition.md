@@ -2,7 +2,8 @@
 
 Each tablet contains 10 mg tadalafil
 
-For excipients, see 6.1.
+Excipients:
+For a full list of excipients, see 6.1.
 
 [CIALIS 20 mg film-coated tablets]
 

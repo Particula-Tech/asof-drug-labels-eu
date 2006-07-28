@@ -11,7 +11,6 @@ Ketoconazole (400 mg daily) increased tadalafil (20-mg) exposure (AUC) 4-fold an
 Ritonavir, a protease inhibitor (200 mg dose given twice daily), which is an inhibitor of CYP3A4, CYP2C9, CYP2C19, and CYP2D6, increased tadalafil (20-mg) exposure (AUC) 2-fold with no change in Cmax.
 Although specific interactions have not been studied, other protease inhibitors, such as saquinavir, and other CYP3A4 inhibitors, such as erythromycin, clarithromycin, itraconazole and grapefruit juice should be co-administered with caution as they would be expected to increase plasma concentrations of tadalafil.
 Consequently the incidence of the undesirable effects listed in section 4.8 might be increased.
-
 The role of transporters (for example p-glycoprotein) in the disposition of tadalafil is not known.
 There is thus the potential of drug interactions mediated by inhibition of transporters.
 
@@ -51,7 +50,7 @@ Some subjects experienced dizziness but no cases of syncope were reported.
 Lower doses of doxazosin have not been studied.
 Therefore, the combination of tadalafil and alpha blockers is not recommended.
 In a single study in 18 healthy volunteers, tadalafil (10 and 20 mg) had no clinically significant effect on blood pressure changes due to tamsulosin, a selective alpha (1A)-adrenergic receptor blocking agent.
-It is not known how this extrapolates to other alpha (1A)- adrenergic receptor blocking agents.
+It is not known how this extrapolates to other alpha (1A)-adrenergic receptor blocking agents.
 
 Alcohol concentrations (mean maximum blood concentration 0.08 %) were not affected by co-administration with tadalafil (10 or 20 mg).
 In addition, no changes in tadalafil concentrations were seen 3 hours after co-administration with alcohol.
@@ -67,7 +66,3 @@ The only pharmacodynamic effect was a small (3.5 bpm) increase in heart rate.
 Although this effect is minor and was of no clinical significance in this study, it should be considered when co-administering these medications.
 
 Specific interaction studies with antidiabetic agents were not conducted.
-
-[CIALIS 20 mg film-coated tablets]
-
-Based on the results of a clinical study in which150 subjects receiving daily doses of tadalafil 20 mg for 7 days and 0.4 mg sublingual nitroglycerin at various times, this interaction lasted for more than 24 hours and was no longer detectable when 48 hours had elapsed after the last tadalafil dose.

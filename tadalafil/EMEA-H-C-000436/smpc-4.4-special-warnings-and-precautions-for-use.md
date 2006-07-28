@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 A medical history and physical examination should be undertaken to diagnose erectile dysfunction and determine potential underlying causes, before pharmacological treatment is considered.
 
@@ -11,7 +11,6 @@ However, it is not possible to definitively determine whether these events are r
 
 Visual defects and cases of non arteritic anterior ischemic optic neuropathy have been reported in connection with the intake of CIALIS and other PDE5 inhibitors.
 The patient should be advised that in case of sudden visual defect, he should stop taking CIALIS and consult a physician immediately (see section 4.3).
-
 There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
 
 Patients who experience erections lasting 4 hours or more should be instructed to seek immediate medical assistance.
@@ -31,8 +30,3 @@ Caution should be exercised when prescribing CIALIS to patients using potent CYP
 
 The safety and efficacy of combinations of CIALIS and other treatments for erectile dysfunction have not been studied.
 Therefore, the use of such combinations is not recommended.
-
-In dogs given tadalafil daily for 6 to 12 months at doses of 25 mg/kg/day (resulting in at least a 3-fold greater exposure [range 3.7 – 18.6] than seen in humans at a 20 mg single dose) and above, there was regression of the seminiferous tubular epithelium that resulted in a decrease in spermatogenesis in some dogs.
-Results from two 6 month studies in volunteers suggest that this effect is unlikely in humans (see section 5.1 Pharmacodynamic properties).
-The effects of longer term daily dosing have not been established.
-Therefore, daily use of the medication is strongly discouraged.
