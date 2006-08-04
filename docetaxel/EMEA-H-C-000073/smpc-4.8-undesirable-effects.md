@@ -42,6 +42,7 @@ Reactions were characterised by a rash including localised eruptions mainly on t
 Eruptions generally occurred within one week after the docetaxel infusion.
 Less frequently, severe symptoms such as eruptions followed by desquamation which rarely lead to interruption or discontinuation of docetaxel treatment were reported (see sections 4.2 and 4.4).
 Severe nail disorders are characterised by hypo- or hyperpigmentation and sometimes pain and onycholysis.
+
 General disorders and administration site conditions:
 Infusion site reactions were generally mild and consisted of hyper pigmentation, inflammation, redness or dryness of the skin, phlebitis or extravasation and swelling of the vein.
 Fluid retention includes events such as peripheral oedema and less frequently pleural effusion, pericardial effusion, ascites and weight gain.
@@ -92,6 +93,7 @@ G3/4 ALT increased (<2%)
 
 Blood and Lymphatic system disorders:
 Rare: bleeding episodes associated with grade 3/4 thrombocytopenia
+
 Nervous system disorders:
 Reversibility data are available among 35.3% of patients who developed neurotoxicity following TAXOTERE treatment at 100 mg/m² as single agent.
 The events were spontaneously reversible within 3 months.
@@ -265,6 +267,8 @@ MedDRA System Organ classes Very common side effects Common side effects
 ≥ 10 % of patients 1 to 10 % of patients
 Infections and infestations Infection (G3/4: 3.3%)
 Blood and the lymphatic system disorders Neutropenia (G3/4: 32%); Thrombocytopenia; (G3/4: 0.6%);
+MedDRA System Organ classes Very common side effects Common side effects
+≥ 10 % of patients 1 to 10 % of patients
 Anaemia (G3/4: 4.9%) Febrile neutropenia
 Immune system disorders Hypersensitivity (G3/4: 0.6%)
 Metabolism and nutrition disorders Anorexia (G3/4: 0.6%)
@@ -315,13 +319,13 @@ neuropathy (G3/4: 0%) (G3/4: 0%);
 Neurocortical (G3/4: 0.3%);
 Neurocerebella (G3/4:
 0.1%)
-MedDRA System Organ Very common side Common side effects Uncommon side effects
-classes effects 1 to 10 % of patients 0.1 to 1 % of patients
-≥ 10 % of patients
 Eye disorders Lacrimation disorder (G3/4:
 0.1%);
 Conjunctivitis (G3/4: 0.3%)
 Cardiac disorders Arrhythmia (G3/4: 0.1%);
+MedDRA System Organ Very common side Common side effects Uncommon side effects
+classes effects 1 to 10 % of patients 0.1 to 1 % of patients
+≥ 10 % of patients
 Vascular disorders Vasodilatation (G3/4: Hypotension (G3/4: 0%) Phlebitis (G3/4: 0%);
 0.9%) Lymphoedema (G3/4: 0%)
 Respiratory, thoracic and Cough (G3/4: 0%)
@@ -353,7 +357,7 @@ Nervous system disorders:
 Peripheral sensory neuropathy was observed to be ongoing at the median follow-up time of 55 months in 9 patients out of the 73 patients with peripheral sensory neuropathy at the end of the chemotherapy.
 
 Cardiac disorders:
-Congestive Heart Failure (CHF) (1.6%) has also been reported.
+Congestive Heart Failure (CHF) (2.3% at 70 months median follow-up) has also been reported.
 One patient in each treatment arm died due to cardiac failure.
 
 Skin and subcutaneous tissue disorders:
@@ -408,6 +412,7 @@ Neoplasms benign and malignant (including cysts and polyps)
 Very rare cases of acute myeloid leukaemia and myelodysplastic syndrome have been reported in association with docetaxel when used in combination with other chemotherapy agents and/or radiotherapy.
 Blood and the lymphatic system disorders
 Bone marrow suppression and other hematologic adverse reactions have been reported.
+Disseminated intravascular coagulation (DIC), often in association with sepsis or multiorgan failure, has been reported.
 
 Immune system disorders
 Some cases of anaphylactic shock, sometimes fatal, have been reported.

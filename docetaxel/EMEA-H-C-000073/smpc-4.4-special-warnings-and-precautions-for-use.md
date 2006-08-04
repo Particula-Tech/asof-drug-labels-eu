@@ -70,7 +70,8 @@ Symptoms such as early abdominal pain and tenderness, fever, diarrhea, with or w
 Congestive heart failure
 Patients should be monitored for symptoms of congestive heart failure during therapy and during the follow up period.
 Leukemia
-In women receiving TAXOTERE, doxorubicin and cyclophosphamide (TAC), the risk of acute myeloid leukemia is comparable to the risk observed for other anthracycline/cyclophosphamide containing regimens.
+In the TAXOTERE, doxorubicin and cyclophosphamide (TAC) treated patients, the risk of delayed myelodysplasia or myeloid leukaemia requires haematological follow-up.
+
 Patients with 4+ nodes
 The benefit/risk ratio for TAC in patients with 4+ nodes was not defined fully at the interim analysis (see section 5.1).
 
