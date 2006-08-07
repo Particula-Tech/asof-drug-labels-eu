@@ -14,7 +14,6 @@ The manufacturer’s instructions for using the pen must be followed carefully f
 If the insulin pen is damaged or not working properly (due to mechanical defects) it has to be discarded, and a new insulin pen has to be used.
 
 If the pen malfunctions (see instructions for using the pen), the solution may be drawn from the cartridge into a syringe (suitable for an insulin with 100 Units/ml) and injected.
-
 Cartridge
 Before insertion into the pen, the cartridge must be stored at room temperature for 1 to 2 hours.
 Inspect the cartridge before use.
@@ -34,6 +33,7 @@ It must only be used if the cartridge is intact and the solution is clear, colou
 Empty pens must never be reused and must be properly discarded.
 
 To prevent the possible transmission of disease, each pen must be used by one patient only.
+
 Handling of the pen
 The Instructions for Use included in the Package Leaflet must be read carefully before using OptiSet.
 
@@ -115,7 +115,6 @@ Checking the reservoir for remaining insulin
 
 The residual insulin scale on the transparent insulin reservoir shows approximately how much insulin remains in the OptiSet.
 This scale must not be used to set the insulin dose.
-
 The actual loaded dose should be checked as per “General notes”.
 In case, the patient is not sure whether enough insulin remains in the reservoir, the OptiSet should be discarded.
 Example:If the dose has been set to 30 units and injection button can only be pulled out to as far as 12 units, then only 12 units insulin can be injected with this pen.

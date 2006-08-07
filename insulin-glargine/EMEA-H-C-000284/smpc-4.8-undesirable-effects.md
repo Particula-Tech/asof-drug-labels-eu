@@ -3,6 +3,7 @@
 Hypoglycaemia, in general the most frequent undesirable effect of insulin therapy, may occur if the insulin dose is too high in relation to the insulin requirement.
 
 The following related adverse reactions from clinical investigations were listed below by system organ class and in order of decreasing incidence (very common: >1/10; common: >1/100, <1/10; uncommon: > 1/1,000, < 1/100; rare: >1/10,000, <1/1,000; very rare: < 1/10,000).
+
 Metabolism and nutrition disorders
 
 Very common: Hypoglycaemia
@@ -35,7 +36,6 @@ Rare: Retinopathy
 Long-term improved glycaemic control decreases the risk of progression of diabetic retinopathy.
 However, intensification of insulin therapy with abrupt improvement in glycaemic control may be associated with temporary worsening of diabetic retinopathy.
 In patients with proliferative retinopathy, particularly if not treated with photocoagulation, severe hypoglycaemic episodes may result in transient amaurosis.
-
 Skin and subcutaneous tissue disorders
 
 As with any insulin therapy, lipodystrophy may occur at the injection site and delay local insulin absorption.

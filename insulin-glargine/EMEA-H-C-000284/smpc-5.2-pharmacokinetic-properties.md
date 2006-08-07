@@ -3,7 +3,6 @@
 In healthy subjects and diabetic patients, insulin serum concentrations indicated a slower and much more prolonged absorption and showed a lack of a peak after subcutaneous injection of insulin glargine in comparison to human NPH insulin.
 Concentrations were thus consistent with the time profile of the pharmacodynamic activity of insulin glargine.
 The graph above shows the activity profiles over time of insulin glargine and NPH insulin.
-
 Insulin glargine injected once daily will reach steady state levels in 2-4 days after the first dose.
 
 When given intravenously the elimination half-life of insulin glargine and human insulin were comparable.
