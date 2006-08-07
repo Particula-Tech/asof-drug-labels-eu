@@ -3,7 +3,17 @@
 The film-coated tablets must be taken orally, swallowed with a sufficient quantity of liquid and may be taken with or without food.
 The daily dose is administered in two equally divided doses.
 
-Adults (≥18 years) and adolescents (12 to 17 years) of 50 kg or more
+- Monotherapy
+
+Adults and adolescents from 16 years of age
+
+The recommended starting dose is 250 mg twice daily which should be increased to an initial therapeutic dose of 500 mg twice daily after two weeks.
+The dose can be further increased by 250 mg twice daily every two weeks depending upon the clinical response.
+The maximum dose is 1500 mg twice daily.
+
+- Add-on therapy
+
+Adults (≥18 years) and adolescents (12 to 17 years) weighing 50 kg or more
 
 The initial therapeutic dose is 500 mg twice daily.
 This dose can be started on the first day of treatment.
@@ -13,8 +23,7 @@ Dose changes can be made in 500 mg twice daily increases or decreases every two 
 Elderly (65 years and older)
 
 Adjustment of the dose is recommended in elderly patients with compromised renal function (see “Patients with renal impairment” below).
-
-Children aged 4 to 11 years and adolescents (12 to 17 years) of less than 50 kg
+Children aged 4 to 11 years and adolescents (12 to 17 years) weighing less than 50 kg
 
 The initial therapeutic dose is 10 mg/kg twice daily.
 Depending upon the clinical response and tolerability, the dose can be increased up to 30 mg/kg twice daily.
@@ -22,6 +31,7 @@ Dose changes should not exceed increases or decreases of 10 mg/kg twice daily ev
 The lowest effective dose should be used.
 Dosage in children 50 kg or greater is the same as in adults.
 The physician should prescribe the most appropriate pharmaceutical form and strength according to weight and dose.
+
 Dosage recommendations for children and adolescents:
 
 | Weight | Starting dose: 10 mg/kg twice daily | Maximum dose: 30 mg/kg twice daily |
@@ -58,7 +68,6 @@ Dosing adjustment for adult patients with impaired renal function
 
 (1) A 750 mg loading dose is recommended on the first day of treatment with levetiracetam.
 (2) Following dialysis, a 250 to 500 mg supplemental dose is recommended.
-
 For children with renal impairment, levetiracetam dose needs to be adjusted based on the renal function as levetiracetam clearance is related to renal function.
 This recommendation is based on a study in adult renally impaired patients.
 
