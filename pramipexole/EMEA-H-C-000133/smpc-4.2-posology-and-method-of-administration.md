@@ -9,13 +9,12 @@ Initial treatment:
 Dosages should be increased gradually from a starting-dose of 0.264 mg of base (0.375 mg of salt) per day and then increased every 5 - 7 days.
 Providing patients do not experience intolerable side-effects, the dosage should be titrated to achieve a maximal therapeutic effect.
 
-Ascending – Dose Schedule of SIFROL
-
-Week Dosage Total Daily Dose Dosage Total Daily Dose
-(mg of base) (mg of base) (mg of salt) (mg of salt)
-1 3 x 0.088 0.264 3 x 0.125 0.375
-2 3 x 0.18 0.54 3 x 0.25 0.75
-3 3 x 0.35 1.05 3 x 0.5 1.50
+| Ascending – Dose Schedule of SIFROL |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Week | Dosage (mg of base) | Total Daily Dose (mg of base) | Dosage (mg of salt) | Total Daily Dose (mg of salt) |
+| 1 | 3 x 0.088 | 0.264 | 3 x 0.125 | 0.375 |
+| 2 | 3 x 0.18 | 0.54 | 3 x 0.25 | 0.75 |
+| 3 | 3 x 0.35 | 1.05 | 3 x 0.5 | 1.50 |
 
 If a further dose increase is necessary the daily dose should be increased by 0.54 mg base (0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
 
@@ -86,13 +85,6 @@ Dosing in children and adolescents
 Safety and efficacy of SIFROL have not been established in children and adolescents up to 18 years.
 
 [SIFROL 0.18 mg tablets]
-
-| Ascending – Dose Schedule of SIFROL |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Week | Dosage (mg of base) | Total Daily Dose (mg of base) | Dosage (mg of salt) | Total Daily Dose (mg of salt) |
-| 1 | 3 x 0.088 | 0.264 | 3 x 0.125 | 0.375 |
-| 2 | 3 x 0.18 | 0.54 | 3 x 0.25 | 0.75 |
-| 3 | 3 x 0.35 | 1.05 | 3 x 0.5 | 1.50 |
 
 However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/ day (see section 4.8 ).
 

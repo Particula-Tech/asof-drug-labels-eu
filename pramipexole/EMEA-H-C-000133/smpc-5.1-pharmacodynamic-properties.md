@@ -35,7 +35,6 @@ After 12 weeks of treatment the baseline IRLS score improved from 23.5 to 14.1 p
 The adjusted mean difference was -4.3 points (CI 95% -6.4; -2.1 points, p-value <0.0001).
 CGI-I responder rates (improved, very much improved) were 51.2% and 72.0% for placebo and pramipexole respectively (difference 20% CI 95%: 8.1%; 31.8%, p<0.0005).
 Efficacy was observed with 0.088 mg of base (0.125 mg of salt) per day after the first week of treatment.
-
 In a placebo-controlled polysomnography study over 3 weeks SIFROL significantly reduced the number of periodic limb movements during time in bed.
 
 [SIFROL 0.18 mg tablets]

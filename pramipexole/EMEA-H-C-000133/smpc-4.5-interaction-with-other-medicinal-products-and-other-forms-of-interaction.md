@@ -12,4 +12,5 @@ Reduction of the pramipexole dose should be considered when these drugs are admi
 When SIFROL is given in combination with levodopa, it is recommended that the dosage of levodopa is reduced and the dosage of other anti-parkinsonian medication is kept constant while increasing the dose of SIFROL.
 
 Because of possible additive effects, caution should be advised when patients are taking other sedating medication or alcohol in combination with pramipexole.
+
 Coadministration of antipsychotic drugs with pramipexole should be avoided (see section 4.4).
