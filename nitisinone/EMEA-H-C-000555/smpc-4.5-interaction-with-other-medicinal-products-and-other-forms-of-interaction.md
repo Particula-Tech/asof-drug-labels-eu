@@ -2,7 +2,8 @@
 
 No formal interaction studies with other medicinal products have been conducted.
 
-Nitisinone is metabolised in vitro by CYP3A4 and dose-adjustment may therefore be needed when nitisinone is co-administered with inhibitors or inducers of this enzyme.
+Nitisinone is metabolised in vitro by CYP 3A4 and dose-adjustment may therefore be needed when nitisinone is co-administered with inhibitors or inducers of this enzyme.
+
 Based on in vitro studies, nitisinone is not expected to inhibit CYP 1A2, 2C9, 2C19, 2D6, 2E1 or 3A4-mediated metabolism.
 
 No formal food interactions studies have been performed.

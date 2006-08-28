@@ -1,8 +1,7 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each capsule contains 2 mg nitisinone.
-
-For excipients, see section 6.1.
+For a full list of excipients, see section 6.1.
 
 [Orfadin 5 mg hard capsules.]
 

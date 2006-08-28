@@ -2,8 +2,4 @@
 
 Capsule content pregelatinised starch (maize)
 
-Capsule shell gelatin
-
-titanium dioxide (E 171)
-
-imprint: antifoam, iron oxide black (E 172), shellac, soya lecithin
+Capsule shell gelatin titanium dioxide (E 171) imprint: black iron oxide (E 172), shellac, propylene glycol
