@@ -114,7 +114,6 @@ Paediatrics
 
 The recommended intravenous dose in paediatric patients is based on a population pharmacokinetic analysis of data pooled from 82 immunocompromised paediatric patients aged 2 to <12 years old who were evaluated in three pharmacokinetic studies (examining single intravenous doses of 3 and 4 mg/kg twice daily, multiple intravenous doses of 3, 4, 6 and 8 mg/kg twice daily and multiple oral suspension doses of 4 and 6 mg/kg twice daily).
 The majority of patients received more than one dose level with a maximum duration of dosing of 30 days.
-
 A comparison of the paediatric and adult population pharmacokinetic data indicated that in order to obtain comparable exposures to those obtained in adults following intravenous maintenance doses of 4 mg/kg twice daily, intravenous maintenance doses of 7 mg/kg twice daily are required in paediatric patients.
 The higher intravenous maintenance dose in paediatric patients relative to adults reflects the higher elimination capacity in paediatric patients due to a greater liver mass to body mass ratio.
 In order to obtain comparable exposures to those obtained in adults following intravenous maintenance doses of 3 mg/kg twice daily, intravenous maintenance doses of 4 mg/kg twice daily are required in paediatric patients.

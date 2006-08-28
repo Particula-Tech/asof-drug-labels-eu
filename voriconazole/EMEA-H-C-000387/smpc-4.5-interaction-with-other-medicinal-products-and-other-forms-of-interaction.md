@@ -51,7 +51,6 @@ Ciclosporin (CYP3A4 substrate): In stable, renal transplant recipients, voricona
 When initiating voriconazole in patients already receiving ciclosporin it is recommended that the ciclosporin dose be halved and ciclosporin level carefully monitored.
 Increased ciclosporin levels have been associated with nephrotoxicity.
 When voriconazole is discontinued, ciclosporin levels must be carefully monitored and the dose increased as necessary.
-
 Methadone (CYP3A4 substrate): In subjects receiving a methadone maintenance dose (32-100img once daily) coadministration of oral voriconazole (400img twice daily for 1 day, then 200img twice daily for four days) increased the Cmax and AUCτ of pharmacologically active R-methadone by 31% and 47%, respectively, whereas the Cmax and AUCτ of the S-enantiomer increased by approximately 65% and 103%, respectively.
 Voriconazole plasma concentrations during coadministration of methadone were comparable to voriconazole levels (historical data) in healthy subjects without any comedication.
 Frequent monitoring for adverse events and toxicity related to increased plasma concentrations of methadone, including QT prolongation, is recommended during coadministration.
@@ -87,8 +86,8 @@ Prednisolone (CYP3A4 substrate): Voriconazole increased Cmax and AUCτ of predni
 No dosage adjustment is recommended.
 
 Digoxin (P-glycoprotein mediated transport): Voriconazole had no significant effect on Cmax and AUCτ of digoxin (0.25 mg once daily).
-
 Mycophenolic acid (UDP-glucuronyl transferase substrate): Voriconazole had no effect on the Cmax and AUCt of mycophenolic acid (1 g single dose).
+
 Two-way interactions
 
 Phenytoin (CYP2C9 substrate and potent CYP450 inducer): Concomitant use of voricoazole and phenytoin should be avoided unless the benefit outweighs the risk.
@@ -123,7 +122,6 @@ Antiretroviral Agents:
 
 Indinavir (CYP3A4 inhibitor and substrate): Indinavir (800 mg three times daily) had no significant effect on voriconazole Cmax , Cmin and AUCτ.
 Voriconazole did not have a significant effect on Cmax and AUCτ of indinavir (800mg three times daily).
-
 Other HIV protease inhibitors (CYP3A4 inhibitors): In vitro studies suggest that voriconazole may inhibit the metabolism of HIV protease inhibitors (e.g. saquinavir, amprenavir and nelfinavir).
 In vitro studies also show that the metabolism of voriconazole may be inhibited by HIV protease inhibitors.
 However results of the combination of voriconazole with other HIV protease inhibitors cannot be predicted in humans only from in vitro studies.

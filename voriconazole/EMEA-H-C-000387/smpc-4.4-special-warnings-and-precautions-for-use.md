@@ -37,6 +37,7 @@ Dermatological reactions: Patients have rarely developed exfoliative cutaneous r
 If patients develop a rash they should be monitored closely and VFEND discontinued if lesions progress.
 In addition VFEND has been associated with photosensitivity skin reaction especially during long term therapy.
 It is recommended that patients should be informed to avoid sunlight during the treatment.
+
 Paediatric use: Safety and effectiveness in paediatric subjects below the age of two years has not been established (see also sections 4.8 and 5.1).
 Voriconazole is indicated for paediatric patients aged two years or older.
 Hepatic function should be monitored in both children and adults.
