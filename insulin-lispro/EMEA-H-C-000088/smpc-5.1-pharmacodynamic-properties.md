@@ -8,10 +8,8 @@ The primary activity of insulin lispro is the regulation of glucose metabolism.
 In addition, insulins have several anabolic and anti-catabolic actions on a variety of different tissues.
 Within muscle tissue this includes increasing glycogen, fatty acid, glycerol and protein synthesis and amino acid uptake, while decreasing glycogenolysis, gluconeogenesis, ketogenesis, lipolysis, protein catabolism and amino acid output.
 
-Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allowing it to be given closer to a meal (within zero to 15 minutes of the meal) when compared to regular insulin
-(30 to 45 minutes before).
-Insulin lispro takes effect rapidly and has a shorter duration of activity
-(2 to 5 hours) when compared to regular insulin.
+Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allowing it to be given closer to a meal (within zero to 15 minutes of the meal) when compared to regular insulin (30 to 45 minutes before).
+Insulin lispro takes effect rapidly and has a shorter duration of activity (2 to 5 hours) when compared to regular insulin.
 
 Clinical trials in patients with type 1 and type 2 diabetes have demonstrated reduced postprandial hyperglycaemia with insulin lispro compared to soluble human insulin.
 For fast-acting insulins, any patient also on a basal insulin must optimise dosage of both insulins to obtain improved glucose control across the whole day.
@@ -21,6 +19,7 @@ The typical activity profile following subcutaneous injection is illustrated bel
 
 Insulin
 Lispro
+
 Humulin R
 Hypoglycaemic
 Activity
@@ -29,7 +28,6 @@ Activity
 
 Time (Hours)
 The above representation reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins on glucose metabolism over time.
-
 Clinical trials have been performed in children (61 patients aged 2 to 11) and children and adolescents (481 patients aged 9 to 19 years), comparing insulin lispro to human soluble insulin.
 The pharmacodynamic profile of insulin lispro in children is similar to that seen in adults.
 
@@ -51,9 +49,6 @@ Insulin lispro has been shown to be equipotent to human insulin on a molar basis
 
 Pharmacotherapeutic group :Fast-acting human insulin analogue.
 
-Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allowing it to be given closer to a meal (within zero to 15 minutes of the meal) when compared to regular insulin (30 to 45 minutes before).
-Insulin lispro takes effect rapidly and has a shorter duration of activity (2 to 5 hours) when compared to regular insulin.
-
 [Humalog Mix25 100 U/ml suspension for injection in vial]
 
 Pharmaco-therapeutic group: ATC Code: A10A D04.
@@ -74,6 +69,21 @@ NPL
 0 4 8 12 16 20 24
 
 Time, hours
+
+In two 8-month open label crossover studies, type 2 diabetes patients who were either new to insulin therapy or already using one or two injections of insulin, received 4 months of treatment with Humalog Mix25 (used twice daily with metformin) and insulin glargine (used once daily with metformin) in a randomised sequence.
+Detailed information can be found in the following table.
+
+|  | Insulin-Naive Patients n = 78 | Not Insulin-Naive Patients n = 97 |
+| --- | --- | --- |
+| Mean total daily insulin dose at endpoint | 0.63 UI/kg | 0.42 UI/kg |
+| Haemoglobin A1c –Reduction1 | 1.30% (mean at baseline = 8.7%) | 1.00 % (mean at baseline = 8.5%) |
+| Reduction of the mean of combined morning / evening two-hour postprandial blood glucose1 | 3.46 mM | 2.48 mM |
+| Reduction of the mean fasting blood glucose1 | 0.55 mM | 0.65 mM |
+| Incidence of hypoglycaemia at endpoint | 28% | 25% |
+| Bodyweight gain2 | 2.17 kg | 0.96 kg |
+
+1 from baseline to end of Humalog Mix25 treatment
+2 in patients randomised to Humalog Mix25 during the first crossover period
 
 [Humalog Mix25 100 U/ml suspension for injection in cartridge]
 
@@ -108,6 +118,9 @@ Insulin lispro
 [Humalog Pen 100 U/ml, solution for injection]
 
 Pharmacotherapeutic group : Fast-acting human insulin analogue, ATC code: A10A B04
+
+Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allowing it to be given closer to a meal (within zero to 15 minutes of the meal) when compared to regular insulin
+(30 to 45 minutes before).
 
 Hypoglycemic
 
