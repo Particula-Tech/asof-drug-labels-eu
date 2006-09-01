@@ -32,6 +32,7 @@ Patients should be advised of and avoid exposure to potential risk factors for i
 Tumour necrosis factor alpha (TNFα) mediates inflammation and modulates cellular immune responses.
 Experimental data show that TNFα is essential for the clearing of intracellular infections.
 Clinical experience shows that host defence against infection is compromised in some patients treated with infliximab.
+
 It should be noted that suppression of TNFα may mask symptoms of infection such as fever.
 Early recognition of atypical clinical presentations of serious infections is critical in order to minimize delays in diagnosis and treatment.
 
@@ -70,6 +71,7 @@ Concurrent administration of TNF-alpha inhibitor and anakinra
 Serious infections were seen in clinical studies with concurrent use of anakinra and another TNFα-blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
 Because of the nature of the adverse events seen with combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNFα-blocking agents.
 Therefore, the combination of Remicade and anakinra is not recommended.
+
 Vaccinations
 No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
 It is recommended that live vaccines not be given concurrently.
@@ -83,14 +85,16 @@ Infliximab and other agents that inhibit TNFα have been associated in rare case
 In patients with pre-existing or recent onset of central nervous system demyelinating disorders, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
 
 Malignancies and lymphoproliferative disorders
-In the controlled portions of clinical trials of TNF-blocking agents, more cases of lymphoma have been observed among patients receiving a TNF blocker compared with control patients.
-However, the occurrence was rare, and the follow up period of placebo patients was shorter than for patients receiving TNF-blocking therapy.
+In the controlled portions of clinical trials of TNF-blocking agents, more cases of malignancies including lymphoma have been observed among patients receiving a TNF blocker compared with control patients.
+During clinical trials of Remicade across all approved indications the incidence of lymphoma in Remicade-treated patients was higher than expected in the general population, but the occurrence of lymphoma was rare.
 Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with longstanding, highly active, inflammatory disease, which complicates the risk estimation.
 In an exploratory clinical trial evaluating the use of Remicade in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies were reported in Remicade-treated patients compared with control patients.
 All patients had a history of heavy smoking.
-No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving Remicade.
-Thus additional caution should be exercised in considering Remicade treatment of these patients as well as in patients with increased risk for malignancy due to heavy smoking.
+Caution should be exercised in considering treatment of patients with increased risk for malignancy due to heavy smoking.
+
 With the current knowledge, a risk for the development of lymphomas or other malignancies in patients treated with a TNF-blocking agent cannot be excluded (see Section 4.8).
+Caution should be exercised when considering TNF-blocking therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop a malignancy.
+
 Caution should also be exercised in patients with psoriasis and a medical history of extensive immunosuppressant therapy or prolonged PUVA treatment.
 
 Rare postmarketing cases of hepatosplenic T-cell lymphoma have been reported in adolescent and young adult patients with Crohn’s disease treated with Remicade.
@@ -101,6 +105,7 @@ A risk for the development for hepatosplenic T-cell lymphoma in patients treated
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
 This evaluation should include colonoscopy and biopsies per local recommendations.
 With current data it is not known if infliximab treatment influences the risk for developing dysplasia or colon cancer (see section 4.8).
+
 Since the possibility of increased risk of cancer development in patients with newly diagnosed dysplasia treated with Remicade is not established, the risk and benefits to the individual patients must be carefully reviewed and consideration should be given to discontinuation of therapy.
 
 Heart failure
@@ -122,4 +127,5 @@ A patient who requires surgery while on Remicade should be closely monitored for
 
 There is limited safety experience of Remicade treatment in patients who have undergone arthroplasty.
 
-Treatment of patients with intestinal strictures due to Crohn’s disease is not recommended since the risk/benefit relationship in this patient population has not been established.
+Failure to respond to treatment for Crohn’s disease may indicate the presence of a fixed fibrotic stricture that may require surgical treatment.
+Available data suggest that infliximab does not worsen or cause strictures.

@@ -12,7 +12,7 @@ In these patient populations, a reduction in the rate of the progression of join
 Crohn’s disease:
 Remicade is indicated for:
 
-- treatment of severe, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with a corticosteroid and an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
+- treatment of severe, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
 - treatment of fistulising, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with conventional treatment (including antibiotics, drainage and immunosuppressive therapy).
 
 Ulcerative colitis:

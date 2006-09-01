@@ -5,7 +5,6 @@ The adverse reactions listed in Table 1 are based on experience from clinical tr
 Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (> 1/100, < 1/10); uncommon (> 1/1000, < 1/100); rare (>1/10,000, <1/1,000).
 Infusion-related reactions were the most common ADRs reported.
 Infusion-related reactions (dyspnoea, urticaria and headache) were the most common cause for discontinuation.
-
 Table 1
 Undesirable Effects in Clinical Studies
 
@@ -55,6 +54,7 @@ Rare: Granulomatous lesion
 Investigations
 Common: Elevated hepatic transaminases
 Uncommon: Autoantibodies, complement factor abnormality
+
 Table 2
 Undesirable effects in Post-marketing reports
 (common > 1/100, < 1/10; uncommon > 1/1000, < 1/100; rare > 1/10,000, < 1/1000;
@@ -63,12 +63,13 @@ very rare < 1/10,000, including isolated reports).
 Infections and infestations
 Rare: Opportunistic infections (such as tuberculosis, atypical mycobacteria, pneumocystosis, histoplasmosis, coccidioidomycosis, cryptococcosis, aspergillosis, listeriosis and candidiasis)
 Very Rare: Salmonellosis, reactivation of hepatitis B
+Neoplasms benign, malignant and unspecified (including cysts and polyps)
+Rare Hepatosplenic T-cell lymphoma (adolescent and young adult patients with Crohn’s Disease), lymphoma (including non-Hodgkin’s lymphoma and Hodgkin’s Disease)
 Blood and lymphatic system disorders
 Rare: Pancytopenia
 Very Rare: Haemolytic anaemia, idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, agranulocytosis Immune system disorders
 Uncommon: Anaphylactic reactions
 Rare: Anaphylactic shock, serum sickness, vasculitis
-
 Nervous system disorders
 Rare: Demyelinating disorders (such as multiple sclerosis and optic neuritis), Guillain-Barré syndrome, neuropathies, numbness, tingling, seizure
 Very Rare: Transverse myelitis
@@ -92,6 +93,7 @@ In clinical studies, approximately 20% of infliximab-treated patients compared w
 Approximately 3% of patients discontinued treatment due to infusions reactions and all patients recovered with or without medical therapy
 
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with Remicade administration.
+
 Delayed hypersensitivity: In clinical studies delayed hypersensitivity reactions have been uncommon and have occurred after drug free intervals of less than 1 year.
 In the psoriasis studies, delayed hypersensitivity reactions occurred early in the treatment course.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, with some patients experiencing pruritus, facial, hand or lip edema, dysphagia, urticaria, sore throat and headache.
@@ -124,11 +126,13 @@ Some of the cases have resulted in a fatal outcome.
 Nearly 50% of reported deaths have been associated with infection.
 Cases of tuberculosis, sometimes fatal, including miliary tuberculosis and tuberculosis with extrapulmonary location have been reported (see section 4.4).
 
-Malignancies and lymphoproliferative disorders: In clinical studies with infliximab and during long-term follow-up of 4 years, representing 8800 patient years, 8 cases of lymphomas and 43 other malignancies were detected as compared with 9 malignancies and 0 lymphoma in placebo-treated patients observed during 1274 patient years.
-The overall rate of malignancies in these patients was similar to that expected for an age-, gender- and race-matched general population.
-From August 1998 to August 2004, 1367 cases of suspected malignancies have been reported from post-marketing, clinical trials and registries (229 in Crohn’s disease patients, 942 in rheumatoid arthritis patients and 196 in patients with other or unknown indications).
-Among those there were 242 lymphoma cases.
-During this period, the estimated exposure is 1,350,000 patient years (see section 4.4: Special Warnings and Special Precautions for Use - "Malignancies").
+Malignancies and lymphoproliferative disorders: In clinical studies with infliximab in which 5706 patients were treated, representing 4990 patient years, 5 cases of lymphomas and 24 non-lymphoma malignancies were detected as compared with no lymphomas and 1 non-lymphoma malignancy in 1600 placebo-treated patients representing 892 patient years.
+
+In long-term safety follow-up of clinical studies with infliximab of up to 5 years, representing 6234 patients-years (3210 patients), 5 cases of lymphoma and 38 cases of non-lymphoma malignancies were reported.
+
+From August 1998 to August 2005, 1909 cases of suspected malignancies have been reported from post-marketing, clinical trials and registries (321 in Crohn’s disease patients, 1302 in rheumatoid arthritis patients and 286 in patients with other or unknown indications).
+Among those there were 347 lymphoma cases.
+During this period, the estimated exposure is 1,909,941 patient years since first exposure (see section 4.4: Special Warnings and Special Precautions for Use - "Malignancies").
 
 In an exploratory clinical trial involving patients with moderate to severe COPD who were either current smokers or ex-smokers, 157 patients were treated with REMICADE at doses similar to those used in RA and Crohn’s disease.
 Nine of these patients developed malignancies, including 1 lymphoma.

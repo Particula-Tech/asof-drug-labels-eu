@@ -28,7 +28,6 @@ In responding patients, the alternative strategies for continued treatment are:
 Fistulising, active Crohn’s disease
 An initial 5 mg/kg infusion given over a 2-hour period is to be followed with additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion.
 If a patient does not respond after these 3 doses, no additional treatment with infliximab should be given.
-
 In responding patients, the strategies for continued treatment are:
 
 - Additional infusions of 5 mg/kg every 8 weeks or
@@ -67,7 +66,6 @@ The safety and efficacy of readministration, other than every 6 to 8 weeks, has 
 
 Readministration for psoriatic arthritis
 The safety and efficacy of readministration, other than every 8 weeks, has not been established.
-
 Readministration for psoriasis
 Limited experience from retreatment with one single infliximab dose in psoriasis after an interval of 20 weeks suggests reduced efficacy and a higher incidence of mild to moderate infusion reactions when compared to the initial induction regimen (see section 5.1).
 
