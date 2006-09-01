@@ -15,6 +15,10 @@ Polysorbate 20, sodium hydroxide, water for injections
 
 (all sentences already above)
 
-[Lantus 100 Units/ml OptiSet, solution for injection in a pre-filled pen.]
+[Lantus 100 Units/ml solution for injection in a pre-filled pen]
 
 Zinc chloride m-cresol glycerol hydrochloric acid sodium hydroxide water for injections.
+
+[Lantus 100 Units/ml solution for injection in a pre-filled pen (SmPC 5)]
+
+(all sentences already above)

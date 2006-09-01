@@ -12,7 +12,11 @@ EU/1/00/134/013-017
 
 EU/1/00/134/022-029
 
-[Lantus 100 Units/ml OptiSet, solution for injection in a pre-filled pen.]
+[Lantus 100 Units/ml solution for injection in a pre-filled pen]
 
 EU/1/00/134/008-011
 EU/1/00/134/018-021
+
+[Lantus 100 Units/ml solution for injection in a pre-filled pen (SmPC 5)]
+
+EU/1/00/134/XXX

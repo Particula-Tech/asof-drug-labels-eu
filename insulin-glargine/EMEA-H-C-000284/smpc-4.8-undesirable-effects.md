@@ -4,6 +4,8 @@ Hypoglycaemia, in general the most frequent undesirable effect of insulin therap
 
 The following related adverse reactions from clinical investigations were listed below by system organ class and in order of decreasing incidence (very common: >1/10; common: >1/100, <1/10; uncommon: > 1/1,000, < 1/100; rare: >1/10,000, <1/1,000; very rare: < 1/10,000).
 
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
 Metabolism and nutrition disorders
 
 Very common: Hypoglycaemia
@@ -37,7 +39,6 @@ Long-term improved glycaemic control decreases the risk of progression of diabet
 However, intensification of insulin therapy with abrupt improvement in glycaemic control may be associated with temporary worsening of diabetic retinopathy.
 In patients with proliferative retinopathy, particularly if not treated with photocoagulation, severe hypoglycaemic episodes may result in transient amaurosis.
 Skin and subcutaneous tissue disorders
-
 As with any insulin therapy, lipodystrophy may occur at the injection site and delay local insulin absorption.
 Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions.
 
@@ -66,6 +67,10 @@ Very rare: Dysgeusia
 
 (all sentences already above)
 
-[Lantus 100 Units/ml OptiSet, solution for injection in a pre-filled pen.]
+[Lantus 100 Units/ml solution for injection in a pre-filled pen]
 
 Common: Injection site reactions
+
+[Lantus 100 Units/ml solution for injection in a pre-filled pen (SmPC 5)]
+
+(all sentences already above)

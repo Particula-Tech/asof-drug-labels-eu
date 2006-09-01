@@ -10,6 +10,10 @@ Lantus 100 Units/ml solution for injection in a cartridge.
 
 (all sentences already above)
 
-[Lantus 100 Units/ml OptiSet, solution for injection in a pre-filled pen.]
+[Lantus 100 Units/ml solution for injection in a pre-filled pen]
 
-Lantus 100 Units/ml OptiSet, solution for injection in a pre-filled pen.
+Lantus 100 Units/ml solution for injection in a pre-filled pen
+
+[Lantus 100 Units/ml solution for injection in a pre-filled pen (SmPC 5)]
+
+(all sentences already above)
