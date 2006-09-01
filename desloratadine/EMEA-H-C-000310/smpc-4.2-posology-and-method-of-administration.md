@@ -1,10 +1,13 @@
 # 4.2 Posology and method of administration
 
-Adults and adolescents (12 years of age and over): one tablet once a day, with or without a meal.
+Adults and adolescents (12 years of age and over): one tablet once a day, with or without a meal for the relief of symptoms associated with allergic rhinitis (including intermittent and persistent allergic rhinitis) and chronic idiopathic urticaria (see section 5.1).
+
+Intermittent allergic rhinitis (presence of symptoms for less than 4 days per week or for less than 4 weeks) should be managed in accordance with the evaluation of patient’s disease history and the treatment could be discontinued after symptoms are resolved and reinitiated upon their reappearance.
+In persistent allergic rhinitis (presence of symptoms for 4 days or more per week and for more than 4 weeks), continued treatment may be proposed to the patients during the allergen exposure periods.
 
 [Azomyr 0.5 mg/ml syrup]
 
-Azomyr may be taken without regard to mealtime.
+Azomyr may be taken without regard to mealtime for the relief of symptoms associated with allergic rhinitis (including intermittent and persistent allergic rhinitis) and chronic idiopathic urticaria (see section 5.1).
 
 The prescriber should be aware that most cases of rhinitis below 2 years of age are of infectious origin (see section 4.4) and there are no data supporting the treatment of infectious rhinitis with Azomyr.
 
@@ -16,7 +19,7 @@ In adults and adolescents (12 years of age and over): 10 ml (5 mg) Azomyr syrup 
 
 [Azomyr 5 mg oral lyophilisate]
 
-Adults and adolescents (12 years of age and over): one dose of Azomyr oral lyophilisate placed in the mouth once a day.
+Adults and adolescents (12 years of age and over): one dose of Azomyr oral lyophilisate placed in the mouth once a day for the relief of symptoms associated with allergic rhinitis (including intermittent and persistent allergic rhinitis) and chronic idiopathic urticaria (see section 5.1).
 Azomyr oral lyophilisate disperses instantly and water or other liquid is not needed.
 The dose can be taken regardless of mealtime.
 

@@ -10,7 +10,7 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 Efficacy and safety of Azomyr syrup in children under 1 year of age have not been established.
 
-In children below 2 years of age, the diagnosis of AR is particularly difficult to distinguish from other forms of rhinitis.
+In children below 2 years of age, the diagnosis of allergic rhinitis is particularly difficult to distinguish from other forms of rhinitis.
 The absence of upper respiratory tract infection or structural abnormalities, as well as patient history, physical examinations, and appropriate laboratory and skin tests should be considered.
 
 Approximately 6 % of adults and children 2- to 11-year old are phenotypic poor metabolisers of desloratadine and exhibit a higher exposure (see section 5.2).
