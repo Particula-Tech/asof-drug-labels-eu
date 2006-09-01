@@ -19,7 +19,6 @@ The co-administration of tenofovir disoproxil fumarate and didanosine is not rec
 When tenofovir disoproxil fumarate was administered with atazanavir, a decrease in concentrations of atazanavir was observed (decrease of 25% and 40% of AUC and Cmin respectively compared to atazanavir 400 mg).
 When ritonavir was added to atazanavir, the negative impact of tenofovir on atazanavir Cmin was significantly reduced, whereas the decrease of AUC was of the same magnitude (decrease of 25% and 26% of AUC and Cmin respectively compared to atazanavir/ritonavir 300/100 mg).
 The co-administration of atazanavir with ritonavir in combination with tenofovir has been substantiated in a clinical study.
-
 Other interactions
 Co-administration of tenofovir disoproxil fumarate, methadone, ribavirin, adefovir dipivoxil (see 4.4) or the hormonal contraceptive norgestimate/ethinyl oestradiol did not result in any pharmacokinetic interaction.
 

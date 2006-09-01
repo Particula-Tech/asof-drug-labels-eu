@@ -6,8 +6,7 @@ Approximately one third of patients can be expected to experience adverse reacti
 These reactions are usually mild to moderate gastrointestinal events.
 
 The adverse reactions with suspected (at least possible) relationship to treatment are listed below by body system organ class and absolute frequency.
-Frequencies are defined as very common (≥ 1/10), common (≥ 1/100, < 1/10), uncommon (≥ 1/1000, < 1/100), rare (≥ 1/10,000, < 1/1000) or very rare
-(< 1/10,000) including isolated reports.
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100, < 1/10), uncommon (≥ 1/1000, < 1/100), rare (≥ 1/10,000, < 1/1000) or very rare (< 1/10,000) including isolated reports, or not known (identified through post-marketing safety surveillance and the frequency cannot be estimated from the available data).
 
 Metabolism and nutrition disorders:
 Very common: hypophosphataemia
@@ -23,6 +22,7 @@ Gastrointestinal disorders:
 Very common: diarrhoea, nausea, vomiting
 Common: flatulence
 Rare: pancreatitis
+
 Hepatobiliary disorders:
 Rare: increased transaminases
 Very rare: hepatitis
@@ -30,10 +30,13 @@ Very rare: hepatitis
 Skin and subcutaneous tissue disorders:
 Rare: rash
 
+Musculoskeletal and connective tissue disorders:
+Not known: myopathy, osteomalacia (both associated with proximal renal tubulopathy)
+
 Renal and urinary disorders:
 Rare: renal failure, acute renal failure, proximal tubulopathy (including Fanconi syndrome), increased creatinine
 Very rare: acute tubular necrosis
-In addition, there have been post-marketing reports of nephritis and nephrogenic diabetes insipidus.
+Not known: nephritis (including acute interstitial nephritis), nephrogenic diabetes insipidus.
 
 General disorders and administration site conditions:
 Very rare: asthenia

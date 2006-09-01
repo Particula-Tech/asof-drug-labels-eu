@@ -30,7 +30,6 @@ Total clearance has been estimated to be approximately 230 ml/h/kg (approximatel
 Renal clearance has been estimated to be approximately 160 ml/h/kg (approximately 210 ml/min), which is in excess of the glomerular filtration rate.
 This indicates that active tubular secretion is an important part of the elimination of tenofovir.
 Following oral administration the terminal half-life of tenofovir is approximately 12 to 18 hours.
-
 Linearity/non-linearity
 The pharmacokinetics of tenofovir were independent of tenofovir disoproxil fumarate dose over the dose range 75 to 600 mg and were not affected by repeated dosing at any dose level.
 

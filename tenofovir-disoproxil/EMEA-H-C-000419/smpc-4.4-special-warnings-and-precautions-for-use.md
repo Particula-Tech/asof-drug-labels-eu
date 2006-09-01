@@ -1,5 +1,7 @@
 # 4.4 Special warnings and special precautions for use
 
+Viread should not be taken with any other medicinal products containing tenofovir disoproxil fumarate (Truvada).
+
 Tenofovir disoproxil fumarate has not been studied in patients under the age of 18.
 
 Tenofovir is principally eliminated via the kidney.
@@ -14,8 +16,8 @@ Monitoring of renal function (creatinine clearance and serum phosphate) is recom
 In patients at risk for, or with a history of, renal dysfunction, and patients with renal insufficiency, consideration should be given to more frequent monitoring of renal function.
 
 If serum phosphate is < 1.5 mg/dl (0.48 mmol/l) or creatinine clearance is decreased to < 50 ml/min, renal function should be re-evaluated within one week, including measurements of blood glucose, blood potassium and urine glucose concentrations (see section 4.8, proximal tubulopathy), and the dose interval of Viread adjusted (see 4.2).
-Consideration should also be given to interrupting treatment with tenofovir disoproxil fumarate in patients with creatinine clearance decreased to < 50 ml/min or decreases in serum phosphate to < 1.0 mg/dl (0.32 mmol/l).
-
+Consideration should also be given to interrupting treatment with tenofovir disoproxil fumarate in patients with creatinine clearance decreased to
+< 50 ml/min or decreases in serum phosphate to < 1.0 mg/dl (0.32 mmol/l).
 Tenofovir disoproxil fumarate has not been evaluated in patients receiving nephrotoxic medicinal products (e.g. aminoglycosides, amphotericin B, foscarnet, ganciclovir, pentamidine, vancomycin, cidofovir or interleukin-2).
 Use of tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic medicinal product.
 If concomitant use of tenofovir disoproxil fumarate and nephrotoxic agents is unavoidable, renal function should be monitored weekly.
@@ -48,13 +50,13 @@ In case of concomitant antiviral therapy for hepatitis B or C, please refer also
 
 Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
-
 Lactic acidosis: Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues.
 The preclinical and clinical data suggest that the risk of occurrence of lactic acidosis, a class effect of nucleoside analogues, is low for tenofovir disoproxil fumarate.
 However, as tenofovir is structurally related to nucleoside analogues, this risk cannot be excluded.
 Early symptoms (symptomatic hyperlactatemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
 Lactic acidosis has a high mortality and may be associated with pancreatitis, liver failure or renal failure.
 Lactic acidosis generally occurred after a few or several months of treatment.
+
 Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactatemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
 
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
@@ -88,7 +90,6 @@ Immune Reactivation Syndrome: In HIV infected patients with severe immune defici
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-
 Co-administration of tenofovir disoproxil fumarate and didanosine results in a 40-60% increase in systemic exposure to didanosine that may increase the risk for didanosine-related adverse events (see 4.5).
 Rare cases of pancreatitis and lactic acidosis, sometimes fatal, have been reported.
 
