@@ -112,7 +112,8 @@ The proportion of patients with a favorable clinical response assessment at post
 |  | 13 to 17 years | 3/3 | 100.0 | 3/3 | 100.0 |
 | Disease Stratum | Age Stratum | Ertapenem |  | Ticarcillin/clavulanate |  |
 |  |  | n/m | % | n/m | % |
-| Intraabdominal Infections (IAI) | 2 to 12 years | 28/34 | 82.4 | 7/9 | 77.8 |
+| Intraabdominal Infections | 2 to 12 years | 28/34 | 82.4 | 7/9 | 77.8 |
+| (IAI) |  |  |  |  |  |
 |  | 13 to 17 years | 15/16 | 93.8 | 4/6 | 66.7 |
 | Acute Pelvic Infections (API) | 13 to 17 years | 25/25 | 100.0 | 8/8 | 100.0 |
 | † . This includes 9 patients in the ertapenem group (7 CAP and 2 IAI), 2 patients in the ceftriaxone group (2 CAP), and 1 patient with IAI in the ticarcillin/clavulanate group with secondary bacteremia at entry into the study. |  |  |  |  |  |

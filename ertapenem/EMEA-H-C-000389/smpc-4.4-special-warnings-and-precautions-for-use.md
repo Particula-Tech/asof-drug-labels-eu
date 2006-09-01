@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving therapy with beta-lactams.
 These reactions are more likely to occur in individuals with a history of sensitivity to multiple allergens.
@@ -19,10 +19,14 @@ The efficacy of INVANZ in the treatment of community acquired pneumonia due to p
 There is relatively little experience with ertapenem in children less than two years of age.
 In this age group, particular care should be taken to establish the susceptibility of the infecting organism(s) to ertapenem.
 No data are available in children under 3 months of age.
-
 Experience in the use of ertapenem in the treatment of severe infections is limited.
 In clinical studies for the treatment of community-acquired pneumonia, in adults, 25 % of evaluable patients treated with ertapenem had severe disease (defined as pneumonia severity index > III).
 In a clinical study for the treatment of acute gynaecologic infections, in adults, 26 % of evaluable patients treated with ertapenem had severe disease (defined as temperature ≥ 39°C and/or bacteraemia); ten patients had bacteraemia.
 Of evaluable patients treated with ertapenem in a clinical study for the treatment of intra-abdominal infections, in adults, 30 % had generalized peritonitis and 39 % had infections involving sites other than the appendix including the stomach, duodenum, small bowel, colon, and gallbladder; there were limited numbers of evaluable patients who were enrolled with APACHE II scores ≥ 15 and efficacy in these patients has not been established.
 
 Efficacy of ertapenem in the treatment of diabetic foot infections with concurrent osteomyelitis has not been established.
+
+Based on the data available it cannot be excluded that in the few cases of surgical interventions exceeding 4 hours, patients could be exposed to sub-optimal Ertapenem concentrations and consequently to a risk of potential treatment failure.
+Therefore, caution should be exercised in such unusual cases.
+
+This medicinal product contains approximately 6.0 mEq (approximately 137 mg) of sodium per 1.0 g dose which should be taken into consideration by patients on a controlled sodium diet.
