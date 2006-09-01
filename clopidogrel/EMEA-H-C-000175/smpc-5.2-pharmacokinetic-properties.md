@@ -20,7 +20,6 @@ The binding is non-saturable in vitro over a wide concentration range.
 
 Following an oral dose of 14C-labelled clopidogrel in man, approximately 50% was excreted in the urine and approximately 46% in the faeces in the 120-hour interval after dosing.
 The elimination half-life of the main circulating metabolite was 8 hours after single and repeated administration.
-
 After repeated doses of 75 mg clopidogrel per day, plasma levels of the main circulating metabolite were lower in subjects with severe renal disease (creatinine clearance from 5 to 15 ml/min) compared to subjects with moderate renal disease (creatinine clearance from 30 to 60 ml/min) and to levels observed in other studies with healthy subjects.
 Although inhibition of ADP-induced platelet aggregation was lower (25%) than that observed in healthy subjects, the prolongation of bleeding was similar to that seen in healthy subjects receiving 75 mg of clopidogrel per day.
 In addition, clinical tolerance was good in all patients.

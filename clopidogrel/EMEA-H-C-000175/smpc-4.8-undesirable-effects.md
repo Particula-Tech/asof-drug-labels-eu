@@ -2,10 +2,10 @@
 
 Clinical studies experience:
 
-Clopidogrel has been evaluated for safety in more than 17,500 patients, including over 9,000 patients treated for 1 year or more.
+Clopidogrel has been evaluated for safety in more than 42,000 patients, including over 9,000 patients treated for 1 year or more.
+The clinically relevant adverse effects observed in the CAPRIE, CURE , CLARITY and COMMIT studies are discussed below.
 Clopidogrel 75 mg/day was well tolerated compared to ASA 325 mg/day in CAPRIE.
 The overall tolerability of clopidogrel in this study was similar to ASA, regardless of age, gender and race.
-The clinically relevant adverse effects observed in the CAPRIE and CURE studies are discussed below.
 
 Haemorrhagic disorders:
 In CAPRIE, in patients treated with either clopidogrel or ASA, the overall incidence of any bleeding was 9.3%.
@@ -25,11 +25,17 @@ The incidence of intracranial bleeding was 0.1% in both groups.
 
 The major bleeding event rate for clopidogrel+ASA was dose-dependent on ASA (<100mg: 2.6%; 100-200mg: 3.5%; >200mg: 4.9%) as was the major bleeding event rate for placebo+ASA
 (<100mg: 2.0%; 100-200mg: 2.3%; >200mg: 4.0%).
-
 The risk of bleeding (life-threatening, major, minor, other) decreased during the course of the trial: 0-1 months [clopidogrel: 599/6259 (9.6%); placebo: 413/6303 (6.6%)], 1-3 months [clopidogrel: 276/6123 (4.5%); placebo: 144/6168 (2.3%)], 3-6 months [clopidogrel: 228/6037 (3.8%); placebo: 99/6048 (1.6%)], 6-9 months [clopidogrel: 162/5005 (3.2%); placebo: 74/4972 (1.5%)], 9-12 months [clopidogrel: 73/3841 (1.9%); placebo: 40/3844 (1.0%)].
 
 There was no excess in major bleeds within 7 days after coronary bypass graft surgery in patients who stopped therapy more than five days prior to surgery (4.4% clopidogrel+ASA vs. 5.3% placebo+ASA).
 In patients who remained on therapy within five days of bypass graft surgery, the event rate was 9.6% for clopidogrel+ASA, and 6.3% for placebo+ASA.
+
+In CLARITY, there was an overall increase in bleeding in the clopidogrel + ASA group (17.4%) vs. the placebo + ASA group (12.9%).
+The incidence of major bleeding was similar between groups (1.3% versus 1.1% for the clopidogrel + ASA and the placebo + ASA groups, respectively).
+This was consistent across subgroups of patients defined by baseline characteristics, and type of fibrinolytic or heparin therapy.
+The incidence of fatal bleeding (0.8% versus 0.6% in the clopidogrel + ASA and the placebo + ASA groups, respectively) and intracranial hemorrhage (0.5% versus 0.7% in the clopidogrel + ASA and the placebo + ASA groups, respectively) was low and similar in both groups.
+
+In COMMIT, the overall rate of noncerebral major bleeding or cerebral bleeding was low and similar in both groups (0.6% versus 0.5% in the clopidogrel + ASA and the placebo + ASA groups, respectively).
 
 Haematological disorders:
 In CAPRIE, severe neutropenia (<0.45 x 109/l) was observed in 4 patients (0.04%) that received clopidogrel and 2 patients (0.02%) that received ASA.
@@ -38,9 +44,9 @@ One case of aplastic anaemia occurred on clopidogrel treatment.
 
 The incidence of severe thrombocytopenia (<80 x 109/l) was 0.2% on clopidogrel and 0.1% on ASA.
 
-In CURE, the numbers of patients with thrombocytopenia (19 clopidogrel+ASA vs. 24 placebo+ASA) or neutropenia (3 vs. 3) were similar in both groups.
+In CURE and CLARITY, the number of patients with thrombocytopenia or neutropenia was similar in both groups.
 
-Other clinically relevant adverse drug reactions pooled from CAPRIE and CURE studies with an incidence > 0.1% as well as all serious and relevant ADR are listed below according to the World Health Organisation classification.
+Other clinically relevant adverse drug reactions pooled from CAPRIE, CURE, CLARITY and COMMIT studies with an incidence > 0.1% as well as all serious and relevant ADR are listed below according to the World Health Organisation classification.
 Their frequency is defined using the following conventions: common (> 1/100, <1/10); uncommon (> 1/1,000, < 1/100); rare (>1/10,000, <1/1,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -49,7 +55,7 @@ Central and peripheral nervous system disorders:
 - Rare: Vertigo
 
 Gastrointestinal system disorders
-- Common: Diarrhoea, , Abdominal pain, Dyspepsia
+- Common: Diarrhoea, Abdominal pain, Dyspepsia
 - Uncommon: Gastric ulcer and Duodenal ulcer, Gastritis, Vomiting, Nausea, Constipation, Flatulence.
 
 Platelet, bleeding and clotting disorders
@@ -57,7 +63,6 @@ Platelet, bleeding and clotting disorders
 
 Skin and appendages disorders:
 - Uncommon: Rash and Pruritus
-
 White cell and RES disorders
 - Uncommon: Leucopenia, Neutrophils decreased and Eosinophilia
 
@@ -71,6 +76,7 @@ In addition to clinical studies experience, the following adverse reactions have
 Within each system organ class (MedDRA classification), they are ranked under heading of frequency.
 "Very rare" corresponds to <1/10,000.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
 Blood and lymphatic system disorders:
 
 - Very rare: Thrombotic Thrombocytopenic Purpura (TTP) (1/200,000 exposed patients) (see section 4.4), severe Thrombocytopenia (platelet count ≤30 x109/l), Agranulocytosis, Granulocytopenia, Aplastic Anaemia/Pancytopenia, Anaemia.
