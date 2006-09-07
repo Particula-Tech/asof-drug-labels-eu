@@ -14,9 +14,8 @@ Discard the unused portion of any vial.
 [AVONEX 30 micrograms powder and solvent for solution for injection]
 
 Inject the content of the syringe into the vial of AVONEX by connecting the pre-filled syringe to the BIO-SET device.
-Gently swirlthe contents in the vial until all materials are dissolved; DO NOT SHAKE.
-Inspect the reconstituted product: If it contains particulate matter or is other than colourless to slightly yellow in colour, the vial mustnot be used.
-After reconstitution, draw all the liquid (1 ml) from the vial back into the syringe for the administration of 30 microgramsAVONEX.
+Inspect the reconstituted product: If it contains particulate matter or is other than colourless to slightly yellow in colour, the vial must not be used.
+After reconstitution, draw all the liquid (1 ml) from the vial back into the syringe for the administration of 30 micrograms AVONEX.
 The needle for intramuscular injection is provided.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]

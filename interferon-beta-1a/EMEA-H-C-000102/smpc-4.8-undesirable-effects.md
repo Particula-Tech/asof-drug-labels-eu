@@ -3,6 +3,7 @@
 The highest incidence of adverse reactions associated with AVONEX therapy is related to flu-like symptoms.
 The most commonly reported flu-like symptoms are myalgia, fever, chills, sweating, asthenia, headache and nausea.
 Flu-like symptoms tend to be most prominent at the initiation of therapy and decrease in frequency with continued treatment.
+
 Transient neurological symptoms that may mimic MS exacerbations may occur following injections.
 Transient episodes of hypertonia and/or severe muscular weakness that prevent voluntary movements may occur at any time during treatment.
 These episodes are of limited duration, temporally related to the injections and may recur after subsequent injections.
@@ -65,7 +66,26 @@ Other adverse reactions identified through spontaneous reporting, with unknown f
 
 [AVONEX 30 micrograms powder and solvent for solution for injection]
 
-The most commonly reported flu-like symptomsare myalgia, fever, chills, sweating, asthenia, headache and nausea.
+| Metabolism and nutrition disorders common | anorexia |
+| --- | --- |
+| Psychiatric disorders common | insomnia, depression (see section 4.4) |
+| Nervous system disorders very common | headache* |
+| common | hypoesthesia, muscle spasticity |
+| Vascular disorders common | flushing |
+| Respiratory disorders common | rhinorrhoea |
+| rare | dyspnoea |
+| Gastrointestinal disorders common | vomiting, diarrhoea, nausea* |
+| Skin and subcutaneous tissue disorders common | rash, sweating increased, contusion |
+| uncommon | alopecia |
+| Musculoskeletal, connective tissue and bone disorders common | muscle cramp, neck pain, myalgia*, arthralgia, pain in extremity, back pain, muscle stiffness, musculoskeletal stiffness |
+
+| Reproductive system disorders uncommon | metrorrhagia, menorrhagia |
+| --- | --- |
+| General disorders and administration site conditions very common | flu-like symptoms, pyrexia*, chills*, sweating* |
+| common | injection site pain, injection site erythema, injection site bruising, asthenia*, pain, fatigue*, malaise, night sweats |
+| uncommon | injection site burning |
+| Investigations common | lymphocyte count decreased, white blood cells count decreased, neutrophil count decreased, hematocrit decreased, blood potassium increased, blood urea nitrogen increased |
+| uncommon | platelet count decreased |
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 

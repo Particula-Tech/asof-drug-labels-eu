@@ -4,9 +4,9 @@ Treatment should be initiated under supervision of a physician experienced in th
 
 Adults: The recommended dosage of AVONEX for the treatment of relapsing MS is 30 micrograms (1 ml solution), administered by intramuscular injection (IM) once a week (see section 6.6).
 No additional benefit has been shown by administering a higher dose (60 micrograms) once a week.
-
 Children and adolescents: There is no experience with AVONEX in patients aged 16 years or less.
 Therefore, AVONEX should not be used in children and adolescents.
+
 Elderly: Clinical studies of AVONEX did not include a sufficient number of patients aged 65 and over to determine whether they respond differently than younger patients.
 However, based on the mode of clearance of the active substance there are no theoretical reasons for any requirement for dose adjustments in the elderly.
 
@@ -21,12 +21,12 @@ Treatment should be discontinued if the patient develops chronic progressive MS.
 
 [AVONEX 30 micrograms powder and solvent for solution for injection]
 
-Adults: The recommended dosage of AVONEX - for the treatment of relapsing MS is 30 micrograms (1 ml solution), administered by intramuscular (IM) injection once a week (see section 6.6).
+Adults: The recommended dosage of AVONEX - for the treatment of relapsing MS is 30 micrograms
+(1 ml solution), administered by intramuscular (IM) injection once a week (see section 6.6).
 
-The intramuscularinjection site should be varied each week (see section 5.3).
+The intramuscular injection site should be varied each week (see section 5.3).
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
-Adults: The recommended dosage of AVONEX for the treatment of relapsing MS is 30 micrograms (0.5 ml solution)-administered by intramuscular injection (IM) once a week (see section 6.6).
-
-The intramuscular injection site should be varied each week (see section 5.3).
+Adults: The recommended dosage of AVONEX for the treatment of relapsing MS is 30 micrograms
+(0.5 ml solution)-administered by intramuscular injection (IM) once a week (see section 6.6).

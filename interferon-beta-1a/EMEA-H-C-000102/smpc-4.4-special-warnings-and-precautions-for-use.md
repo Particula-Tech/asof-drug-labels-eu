@@ -1,12 +1,12 @@
 # 4.4 Special warnings and special precautions for use
 
-AVONEX, as other interferons, should be used with caution in patients with depression or other mood disorders, conditions that are common with MS. Depression has been reported in association with AVONEX use and it may occur at any time during treatment.
-Patients treated with AVONEX should be advised to immediately report any symptom of depression and/or suicidal ideation to their prescribing physician.
+AVONEXshould be administered with caution to patients with previous or current depressive disorders in particular to those with antecedents of suicidal ideation (see section 4.3).
+Depression and suicidal ideation are known to occur in increased frequency in the multiple sclerosis population and in association with interferon use.
+Patients treated with AVONEX should be advised to immediately report any symptoms of depression and/or suicidal ideation to their prescribing physician.
 Patients exhibiting depression should be monitored closely during therapy with AVONEX and treated appropriately.
-Cessation of therapy should be considered.
+Cessation of therapy with AVONEX should be considered (see also section 4.3 and 4.8).
 
-Caution should be exercised when administering AVONEX to patients with pre-existing seizure disorder.
-For patients without a pre-existing seizure disorder who develop seizures during therapy with AVONEX, an etiologic basis should be established and appropriate anti-convulsant therapy instituted prior to resuming AVONEX treatment.
+AVONEX should be administered with caution to patients with a history of seizures, to those receiving treatment with anti-epileptics, particularly if their therapy is not adequately controlled with anti-epileptics (see sections 4.5 and 4.8).
 
 Caution should be used and close monitoring considered when administering AVONEX to patients with severe renal and hepatic failure and to patients with severe myelosuppression.
 
@@ -31,13 +31,19 @@ The use of various assays to detect serum antibodies to interferons limits the a
 
 [AVONEX 30 micrograms powder and solvent for solution for injection]
 
+AVONEXshould be administered with caution in patients with previous or current depressive disorders, in particular to those with antecedents of suicidal ideation (see section 4.3).
+Patients treated with AVONEX should be advised to immediately report any symptom of depression and/or suicidal ideation to their prescribing physician.
+
+Avonex should be administered with caution to patients with a history of seizures, to those receiving treatment with anti-epileptics, particularly if their epilepsy is not adequately controlled with anti-epileptics (see sections 4.5 and 4.8).
+
 In some cases, these reactions have occurred in the presence of other medicinal products that have been associated with hepatic injury.
 
 It is estimated that the plateau for the incidence of neutralising antibody formation is reached after 12months of treatment.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
-Flu-likesymptoms associated with AVONEX therapy may prove stressful to patients with underlying cardiac conditions.
+AVONEXshould beadministered with caution in patients with previous or current depressive disorders in particular to those with antecedents of suicidal ideation (see section 4.3).
+Depression and suicidal ideation are known to occur in increased frequency in the multiple sclerosis population and in association with interferon use.Patients treated with AVONEX should be advised to immediately report any symptom of depression and/or suicidal ideation to their prescribing physician.
 
 Recent clinical studies with patients treated up to three years with AVONEX suggest that approximately 5% to 8% develop neutralising antibodies.
 

@@ -1,23 +1,16 @@
 # 4.6 Pregnancy and lactation
 
-Because of the potential hazards to the foetus, AVONEX is contraindicated in pregnancy.
-There are no studies of interferon beta-1a in pregnant women.
-At high doses, in rhesus monkeys, abortifacient effects were observed.
-It cannot be excluded that such effects will be observed in humans.
+Pregnancy
 
-Fertile women receiving AVONEX should take appropriate contraceptive measures.
-Patients planning for pregnancy and those becoming pregnant should be informed of the potential hazards and AVONEX should be discontinued.
+There is limited information on the use of Avonex in pregnancy.
+Available data indicates that there may be an increased risk of spontaneous abortion.
+Initiation of treatment is contraindicated during pregnancy (see section 4.3).
 
-Breast--feeding:
+Women of child-bearing potential
+
+Women of child-bearing potential should take appropriate contraceptive measures.
+If the patient becomes pregnant or plans to become pregnant while taking Avonex she should be informed of the potential hazards and discontinuation of therapy should be considered (see section 5.3).
+In patients with a high relapse rate before treatment started, the risk of a severe relapse following discontinuation of Avonex in the event of pregnancy should be weighed against a possible increased risk of spontaneous abortion.
+Lactation:
 It is not known whether AVONEX is excreted in human milk.
-Because of the potential for serious adverse reactions in breast-fed infants, a decision should be made either to discontinue breast-feeding or to discontinue AVONEX therapy.
-
-[AVONEX 30 micrograms powder and solvent for solution for injection]
-
-Because of the potential hazards to the foetus, AVONEX - is contraindicated in pregnancy.
-
-Breast-feeding:
-
-[AVONEX 30 micrograms/0.5 ml solution for injection.]
-
-(all sentences already above)
+Because of the potential for serious adverse reactions in nursing infants, a decision should be made either to discontinue breast-feeding or AVONEX therapy.

@@ -1,19 +1,15 @@
 # 4.3 Contraindications
 
-AVONEX is contraindicated in:
-
-- Patients with hypersensitivity to natural or recombinant interferon beta, human serum albumin or to any of the other excipients
-- Pregnant patients (see section 4.6)
-- Patients with severe depressive disorders and/or suicidal ideation
-- Epileptic patients with a history of seizures not adequately controlled by treatment.
+- Initiation of treatment in pregnancy (see section 4.6)
+- Patients with a history of hypersensitivity to natural or recombinant interferon ß, human albumin or to any excipients
+- Patients with current severe depression disorders and/or suicidal ideation (see section 4.4 and 4.8)
 
 [AVONEX 30 micrograms powder and solvent for solution for injection]
 
-- Pregnant patients (see section 4.6-)
+- Patients with a history of hypersensitivity to natural or recombinant interferon -ß, human albumin or to any excipients
+- Patients with current severe depression and/or suicidal ideation (see section 4.4 and 4.8).
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
-- Patients with hypersensitivity to natural or recombinant interferon beta, or to any of the excipients
-- Patients with severe depressive disorders and/or suicidal ideationEpileptic patients with a
-
-history of seizures not adequately controlled by treatment.
+- Patients with a history of hypersensitivity to natural or recombinant interferon- ß or to any excipients
+- Patients with current severe depression disorders and/or suicidal ideation.

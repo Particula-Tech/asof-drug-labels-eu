@@ -8,11 +8,11 @@ Three major forms of interferons have been distinguished: alpha, beta and gamma.
 Interferons alpha and beta are classified as Type I interferons, and interferon gamma is a Type II interferon.
 These interferons have overlapping but clearly distinguishable biological activities.
 They can also differ with respect to their cellular sites of synthesis.
+
 Interferon beta is produced by various cell types including fibroblasts and macrophages.
 Natural interferon beta and AVONEX (interferon beta-1a) are glycosylated and have a single N-linked complex carbohydrate moiety.
 Glycosylation of other proteins is known to affect their stability, activity, biodistribution, and half-life in blood.
 However, the effects of interferon beta that are dependent on glycosylation are not fully defined.
-
 AVONEX exerts its biological effects by binding to specific receptors on the surface of human cells.
 This binding initiates a complex cascade of intracellular events that leads to the expression of numerous interferon-induced gene products and markers.
 These include MHC Class I, Mx protein,
@@ -54,6 +54,7 @@ Furthermore, for the time-being there is no well established definition of a hig
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
 Pharmacotherapeutic Group: Interferons, ATC code : L03 AB07.
+
 Interferons are cytokines that mediate antiviral, antiproliferative, and immunomodulatory activities.
 Three major forms of interferons have been distinguished: alpha, beta, and gamma.
 
