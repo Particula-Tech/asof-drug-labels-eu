@@ -28,9 +28,36 @@ very rare < 1/10,000 including isolated reports
 | Hepatobiliary disorders |  |  | Cholecystitis Cholelithiasis | Hepatocellular damage |
 | Skin and subcutaneous tissue disorders |  | Rash |  | Anhidrosis Erythema multiforme Pruritis Stevens-Johnson syndrome |
 | Musculoskeletal and connective tissue disorders |  |  |  | Rhabdomyolysis |
+| System Organ Class (MedDRA terminology) | Very Common | Common | Uncommon | Very Rare |
 | Renal and urinary disorders |  |  | Calculus urinary Nephrolithiasis | Hydronephrosis Renal insufficiency Urine abnormality |
 | General disorders and administration site conditions |  | Pyrexia |  |  |
 | Investigations |  | Weight decreased |  | Blood creatine phosphokinase increased Blood urea increased Liver function tests abnormal |
 | Injury, poisoning and procedural complications |  |  |  | Heat stroke |
 
 In addition there have been isolated cases of Sudden Unexplained Death in Epilepsy Patients (SUDEP) receiving Zonegran.
+
+[Zonegran 50 mg hard capsules.]
+
+| System Organ Class (MedDRA terminology) | Very Common | Common | Uncommon | Very Rare |
+| --- | --- | --- | --- | --- |
+| Infections and infestation |  |  | Pneumonia Urinary tract infection |  |
+| Blood and lymphatic system disorders |  |  |  | Agranulocytosis Aplastic anaemia Leucocytosis Leucopoenia Lymphadenopathy Pancytopenia, Thrombocytopenia |
+| Immune system disorders |  | Hypersensitivity |  |  |
+| Metabolism and nutrition disorders | Anorexia |  | Hypokalaemia | Metabolic acidosis |
+| Psychiatric Disorders | Agitation Irritability Confusional state Depression |  | Psychotic disorder | Hallucination Insomnia Suicidal ideation |
+| Nervous system disorders | Ataxia Dizziness Memory impairment Somnolence | Disturbance in attention Speech disorder | Convulsion | Amnesia Coma Grand mal seizure Myasthenic syndrome Neuroleptic malignant syndrome |
+| Eye disorders | Diplopia |  |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |  | Dyspnoea Pneumonia aspiration Respiratory disorder |
+| Gastrointestinal disorders |  | Abdominal pain Diarrhoea Nausea | Vomiting | Pancreatitis |
+| Hepatobiliary disorders |  |  | Cholecystitis Cholelithiasis | Hepatocellular damage |
+| Skin and subcutaneous tissue disorders |  | Rash |  | Anhidrosis Erythema multiforme Pruritis Stevens-Johnson syndrome |
+| Musculoskeletal and connective tissue disorders |  |  |  | Rhabdomyolysis |
+| System Organ Class (MedDRA terminology) | Very Common | Common | Uncommon | Very Rare |
+| Renal and urinary disorders |  |  | Calculus urinary Nephrolithiasis | Hydronephrosis Renal insufficiency Urine abnormality |
+| General disorders and administration site conditions |  | Pyrexia |  |  |
+| Investigations |  | Weight decreased |  | Blood creatine phosphokinase increased Blood urea increased Liver function tests abnormal |
+| Injury, poisoning and procedural complications |  |  |  | Heat stroke |
+
+[Zonegran 100 mg hard capsules.]
+
+(all sentences already above)
