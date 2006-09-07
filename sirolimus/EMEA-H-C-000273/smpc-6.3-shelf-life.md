@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-18 months.
+2 years.
 
 30 days for opened bottle.
 
@@ -10,7 +10,7 @@ After dilution, (see Special precautions for disposal, section 6.6) the preparat
 
 [Rapamune 1 mg coated tablets]
 
-2 years.
+(all sentences already above)
 
 [Rapamune 2 mg coated tablets]
 

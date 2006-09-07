@@ -30,9 +30,12 @@ It is not necessary to modify the Rapamune loading dose (see section 5.2).
 
 Use in patients with severe hepatic impairment: Sirolimus pharmacokinetics have not been evaluated in patients with severe hepatic impairment.
 
-Therapeutic drug monitoring: Most patients who received 2 mg of Rapamune 4 hours after ciclosporin had whole blood trough concentrations of sirolimus within the 4 to 12 ng/ml target range.
+Therapeutic drug monitoring: Most patients who received 2 mg of Rapamune 4 hours after ciclosporin had whole blood trough concentrations of sirolimus within the 4 to 12 ng/ml target range (expressed as chromatographic assay values).
 Optimal therapy requires therapeutic drug concentration monitoring in all patients.
 Whole blood sirolimus levels should be closely monitored in the following populations: (1) in patients with hepatic impairment; (2) when inducers or inhibitors of CYP3A4 are concurrently administered and after their discontinuation (see section 4.5); and/or (3) if ciclosporin dosing is markedly reduced or discontinued, as these populations are most likely to have special dosing requirements.
+
+Therapeutic drug monitoring should not be the sole basis for adjusting sirolimus therapy.
+Careful attention should be made to clinical signs/symptoms, tissue biopsies, and laboratory parameters.
 
 To minimise variability, Rapamune should be taken at the same time in relation to ciclosporin, 4 hours after the ciclosporin dose, and consistently either with or without food (see section 5.2).
 Optimally, adjustments in Rapamune dosage should be based on more than a single trough level obtained >5 days after a previous dosing change.
@@ -42,13 +45,19 @@ Ciclosporin inhibits the metabolism of sirolimus, and consequently, sirolimus le
 On average, the sirolimus dose will need to be 4-fold higher to account for both the absence of the pharmacokinetic interaction (2-fold increase) and the augmented immunosuppressive requirement in the absence of ciclosporin (2-fold increase).
 The rate at which the dose of sirolimus is increased should correspond to the rate of ciclosporin elimination.
 
-The recommended ranges for sirolimus are based on chromatographic methods.
-On average, chromatographic methods, with either ultraviolet or mass spectrometric detection, yield results that are approximately 20% lower than the immunoassay whole blood concentration determinations.
-Adjustments to the targeted range should be made according to the assay utilised to determine sirolimus trough concentrations.
-Therefore, comparison between concentrations in the published literature and an individual patient concentration using current assays must be made with detailed knowledge of the assay methods employed.
+If further dose adjustment(s) are required during maintenance therapy (after discontinuation of ciclosporin), in most patients these adjustments can be based on simple proportion: new Rapamune dose = current dose x (target concentration/current concentration).
+A loading dose should be considered in addition to a new maintenance dose when it is necessary to considerably increase sirolimus trough concentrations: Rapamune loading dose = 3 x (new maintenance dose – current maintenance dose).
+The maximum Rapamune dose administered on any day should not exceed 40 mg.
+If an estimated daily dose exceeds 40 mg due to the addition of a loading dose, the loading dose should be administered over 2 days.
+Sirolimus trough concentrations should be monitored at least 3 to 4 days after a loading dose(s).
 
-Therapeutic drug monitoring should not be the sole basis for adjusting sirolimus therapy.
-Careful attention should be made to clinical signs/symptoms, tissue biopsies, and laboratory parameters.
+The recommended 24-hour trough concentration ranges for sirolimus are based on chromatographic methods.
+Several assay methodologies have been used to measure the whole blood concentrations of sirolimus.
+Currently in clinical practice, sirolimus whole blood concentration are being measured by both chromatographic and immunoassay methodologies.
+The concentration values obtained by these different methodologies are not interchangeable.
+When using a proprietary immunoassay system, always refer to the manufacturer’s information to correlate values to a reference chromatographic assay.
+All sirolimus concentrations reported in this Summary of Product Characteristics were either measured using chromatographic methods or have been converted to chromatographic method equivalents.
+Adjustments to the targeted range should be made according to the assay being utilised to determine the sirolimus trough concentrations.
 
 Other considerations for use: Ciclosporin (microemulsion) and other medicinal or non-medicinal products may interact with sirolimus (see section 4.5).
 
@@ -65,11 +74,11 @@ Optimally, adjustments in Rapamune dosage should be based on more than a single 
 Patients can be switched from the solution to the tablet formulation on a mg per mg basis.
 It is recommended that a trough concentration be taken 1 or 2 weeks after switching formulations or tablet strength to confirm that the trough concentration is within the recommended target range.
 
-Adjustments to the targeted range should be made according to the assay utilized to determine sirolimus trough concentrations.
+Adjustments to the targeted range should be made according to the assay being utilized to determine the sirolimus trough concentrations.
 
 [Rapamune 2 mg coated tablets]
 
-(all sentences already above)
+The recommended ranges 24-hour trough concentration for sirolimus are based on chromatographic methods.
 
 [Rapamune 5 mg coated tablets]
 

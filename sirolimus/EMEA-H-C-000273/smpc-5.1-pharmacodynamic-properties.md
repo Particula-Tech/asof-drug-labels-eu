@@ -8,7 +8,6 @@ Studies demonstrated that its effects are mediated by a mechanism that is differ
 Experimental evidence suggests that sirolimus binds to the specific cytosolic protein FKPB-12 and that the FKPB 12-sirolimus complex inhibits the activation of the mammalian Target Of Rapamycin (mTOR), a critical kinase for cell cycle progression.
 The inhibition of mTOR results in blockage of several specific signal transduction pathways.
 The net result is the inhibition of lymphocyte activation, which results in immunosuppression.
-
 In animals, sirolimus has a direct effect on T and B cell activation suppressing immune mediated reactions such as allograft rejection.
 
 Patients at low to moderate immunological risk were studied in the ciclosporin elimination-sirolimus maintenance trials which included patients receiving a renal allograft from a cadaveric or living donor.

@@ -14,7 +14,6 @@ The pharmacokinetics of Rapamune have not been studied in patients with severe h
 It is recommended that sirolimus whole blood trough levels be closely monitored in hepatically impaired patients.
 
 Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (section 4.5).
-
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression (see section 4.8).
 Oversuppression of the immune system can also increase susceptibility to infection including opportunistic infections, fatal infections, and sepsis.
 
@@ -27,7 +26,6 @@ Cases of bronchial anastomotic dehiscence, most fatal, have been reported in de 
 Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, and hypersensitivity vasculitis, have been associated with the administration of sirolimus (see section 4.8).
 
 In rare cases, the concomitant administration of sirolimus and ACE inhibitors has resulted in angioneurotic oedema-type reactions.
-
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
 Cases of Pneumocystis carinii pneumonia have been reported in patients not receiving antimicrobial prophylaxis.
@@ -49,7 +47,9 @@ Caution should be exercised when co-administering other agents that are known to
 
 Patients treated with ciclosporin and Rapamune beyond 3 months had higher serum creatinine levels and lower calculated glomerular filtration rates compared to patients treated with ciclosporin and placebo or azathioprine controls.
 Patients who were successfully withdrawn from ciclosporin had lower serum creatinine levels and higher calculated glomerular filtration rates, as well as lower incidence of malignancy, compared to patients remaining on ciclosporin.
-The continued co-administration of ciclosporin and Rapamune as maintenance therapy cannot be recommended
+The continued co-administration of ciclosporin and Rapamune as maintenance therapy cannot be recommended.
+
+In patients with delayed graft function, sirolimus may delay recovery of renal function
 
 The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced haemolytic uraemic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA).
 

@@ -20,6 +20,7 @@ Co-administration of sirolimus and rifampicin is not recommended (see section 4.
 
 Ketoconazole (CYP3A4 inhibitor): Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.4-fold, 1.4-fold, and 10.9-fold, respectively.
 Co-administration of sirolimus and ketoconazole is not recommended (see section 4.4).
+
 Voriconazole (CYP3A4 inhibitor): Co-administration of sirolimus (2 mg single dose) with multiple-dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 100 mg every 12 hours for 8 days) in healthy subjects has been reported to increase sirolimus Cmax and AUC by an average of 7-fold and 11-fold respectively.
 Co-administration of sirolimus and voriconazole is not recommended (see section 4.4).
 
@@ -45,7 +46,6 @@ Other possible interactions
 Moderate and weak inhibitors of CYP3A4 may decrease the metabolism of sirolimus and increase sirolimus blood levels (e.g. calcium channel blockers: nicardipine; antifungal agents: clotrimazole, fluconazole; antibiotics: troleandomycin; other substances: bromocriptine, cimetidine, danazol, protease inhibitors).
 
 Inducers of CYP3A4 may increase the metabolism of sirolimus and decrease sirolimus blood levels (e.g. St. John's wort (Hypericum perforatum), anticonvulsants: carbamazepine, phenobarbital, phenytoin).
-
 Although sirolimus inhibits human liver microsomal cytochrome P450 CYP2C9, CYP2C19, CYP2D6, and CYP3A4/5 in vitro, the active substance is not expected to inhibit the activity of these isozymes in vivo since the sirolimus concentrations necessary to produce inhibition are much higher than those observed in patients receiving therapeutic doses of Rapamune.
 Inhibitors of P-gp may decrease the efflux of sirolimus from intestinal cells and increase sirolimus levels.
 
