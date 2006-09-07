@@ -2,7 +2,7 @@
 
 Neuropathic pain
 
-Lyrica is indicated for the treatment of peripheral neuropathic pain in adults.
+Lyrica is indicated for the treatment of peripheral and central neuropathic pain in adults.
 
 Epilepsy
 

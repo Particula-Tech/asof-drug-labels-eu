@@ -14,3 +14,7 @@ The patient should be informed about this at the start of the treatment.
 Concerning discontinuation of long-term treatment of pregabalin there are no data of the incidence and severity of withdrawal symptoms in relation to duration of use and dosage of pregabalin.
 
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
+In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse events in general, CNS adverse events and especially somnolence was increased.
+This may be attributed to an additive effect due to concomitant medication (e.g. anti-spasticity agents) needed for this condition.
+This should be considered when prescribing pregabalin in this condition.

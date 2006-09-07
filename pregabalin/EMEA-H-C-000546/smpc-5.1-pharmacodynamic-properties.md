@@ -12,17 +12,18 @@ Clinical experience
 
 Neuropathic pain
 
-Efficacy has been shown in studies in diabetic neuropathy and post herpetic neuralgia.
+Efficacy has been shown in studies in diabetic neuropathy,post herpetic neuralgia and spinal cord injury.
 Efficacy has not been studied in other models of neuropathic pain.
-
-Pregabalin has been studied in 9 controlled clinical studies of up to 13 weeks with twice a day dosing (BID) and up to 8 weeks with three times a day (TID) dosing.
+Pregabalin has been studied in 10 controlled clinical studies of up to 13 weeks with twice a day dosing (BID) and up to 8 weeks with three times a day (TID) dosing.
 Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
 
-In clinical trials up to 13 weeks, a reduction in pain was seen by week 1 and was maintained throughout the treatment period.
+In clinical trials up to 12 weeks for both peripheral and central neuropathic pain, a reduction in pain was seen by week 1 and was maintained throughout the treatment period.
 
-In controlled clinical trials 35% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score.
+In controlled clinical trials in peripheral neuropathic pain 35% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score.
 For patients not experiencing somnolence, such an improvement was observed in 33% of patients treated with pregabalin and 18% of patients on placebo.
 For patients who experienced somnolence the responder rates were 48% on pregabalin and 16% on placebo.
+
+In the controlled clinical trial in central neuropathic pain 22% of the Pregabalin treated patients and 7% of the patients on placebo had a 50% improvement in pain score.
 
 Epilepsy
 
