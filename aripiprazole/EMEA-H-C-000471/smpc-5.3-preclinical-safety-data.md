@@ -1,9 +1,9 @@
 # 5.3 Preclinical safety data
 
 Non-clinical safety data revealed no special hazard for humans based on conventional studies of safety pharmacology, repeat-dose toxicity, genotoxicity, carcinogenic potential, and toxicity to reproduction.
-
 Toxicologically significant effects were observed only at doses or exposures that were sufficiently in excess of the maximum human dose or exposure, indicating that these effects were limited or of no relevance to clinical use.
-These included: dose-dependent adrenocortical toxicity (lipofuscin pigment accumulation and/or parenchymal cell loss) in rats after 104 weeks at 20 to 60 mg/kg/day (3 to 14 times the mean steady-state AUC at the maximum recommended human dose) and increased adrenocortical carcinomas and combined adrenocortical adenomas/carcinomas in female rats at 60 mg/kg/day (14 times the mean steady-state AUC at the maximum recommended human dose).
+These included: dose-dependent adrenocortical toxicity (lipofuscin pigment accumulation and/or parenchymal cell loss) in rats after 104 weeks at 20 to 60 mg/kg/day (3 to 10 times the mean steady-state AUC at the maximum recommended human dose) and increased adrenocortical carcinomas and combined adrenocortical adenomas/carcinomas in female rats at 60 mg/kg/day (10 times the mean steady-state AUC at the maximum recommended human dose).
+The highest nontumorigenic exposure in female rats was 7 times the human exposure at the recommended dose.
 
 An additional finding was cholelithiasis as a consequence of precipitation of sulphate conjugates of hydroxy metabolites of aripiprazole in the bile of monkeys after repeated oral dosing at 25 to 125 mg/kg/day (1 to 3 times the mean steady-state AUC at the maximum recommended clinical dose or 16 to 81 times the maximum recommended human dose based on mg/m2).
 However, the concentrations of the sulphate conjugates of hydroxy aripiprazole in human bile at the highest dose proposed, 30 mg per day, were no more than 6% of the bile concentrations found in the monkeys in the 39-week study and are well below (6%) their limits of in vitro solubility.

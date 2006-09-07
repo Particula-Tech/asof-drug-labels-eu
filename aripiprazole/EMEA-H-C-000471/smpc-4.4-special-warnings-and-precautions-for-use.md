@@ -3,6 +3,9 @@
 During antipsychotic treatment, improvement in the patient's clinical condition may take several days to some weeks.
 Patients should be closely monitored throughout this period.
 
+The occurrence of suicidal behaviour is inherent in psychotic illnesses and in some cases has been reported early after initiation or switch of antipsychotic therapy, including treatment with aripiprazole (see section 4.8).
+Close supervision of high-risk patients should accompany antipsychotic therapy.
+
 Tardive Dyskinesia: in clinical trials of one year or less duration, there were uncommon reports of treatment emergent dyskinesia during treatment with aripiprazole.
 If signs and symptoms of tardive dyskinesia appear in a patient on ABILIFY, dose reduction or discontinuation should be considered.
 These symptoms can temporally deteriorate or can even arise after discontinuation of treatment.
@@ -26,7 +29,6 @@ Overall, 1.3% of aripiprazole-treated patients reported cerebrovascular adverse 
 This difference was not statistically significant.
 However, in one of these trials, a fixed-dose trial, there was a significant dose response relationship for cerebrovascular adverse events in patients treated with aripiprazole.
 ABILIFY is not approved for the treatment of dementia-related psychosis.
-
 Hyperglycaemia and Diabetes Mellitus: hyperglycaemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotic agents.
 In clinical trials with aripiprazole, there were no significant differences in the incidence rates of hyperglycaemia-related adverse events (including diabetes) or in abnormal glycaemia laboratory values compared to placebo.
 Precise risk estimates for hyperglycaemia-related adverse events in patients treated with ABILIFY and with other atypical antipsychotic agents are not available to allow direct comparisons.
@@ -47,6 +49,10 @@ Lactose: patients with rare hereditary problems of galactose intolerance, the la
 (all sentences already above)
 
 [ABILIFY 5 mg orodispersible tablets]
+
+The occurrence of suicidal behaviour is inherent in psychotic illnesses and in some cases has been
+reported early after initiation or switch of antipsychotic therapy, including treatment with aripiprazole
+(see section 4.8). Close supervision of high-risk patients should accompany antipsychotic therapy.
 
 Phenylketonurics: ABILIFY orodispersible tablets contain aspartame, a source of phenylalanine which may be harmful for people with phenylketonuria.
 

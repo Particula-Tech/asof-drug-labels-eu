@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antipsychotics, ATC code; N05AX12
+Pharmacotherapeutic group: antipsychotics, ATC code: N05AX12
 
 It has been proposed that aripiprazole’s efficacy in schizophrenia is mediated through a combination of partial agonism at dopamine D2 and serotonin 5HT1a receptors and antagonism of serotonin 5HT2a receptors.
 Aripiprazole exhibited antagonist properties in animal models of dopaminergic hyperactivity and agonist properties in animal models of dopaminergic hypoactivity.
@@ -10,7 +10,7 @@ Interaction with receptors other than dopamine and serotonin subtypes may explai
 Aripiprazole doses ranging from 0.5 to 30 mg administered once a day to healthy subjects for 2 weeks produced a dose-dependent reduction in the binding of 11C-raclopride, a D2/D3 receptor ligand, to the caudate and putamen detected by positron emission tomography.
 
 Further information on clinical trials:
-Schizophrenia: in three short-term (4 to 6 week) placebo-controlled trials involving
+Schizophrenia: in three short-term (4 to 6 weeks) placebo-controlled trials involving
 1,228 schizophrenic patients, presenting with positive or negative symptoms, aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
 
 ABILIFY is effective in maintaining the clinical improvement during continuation therapy in patients who have shown an initial treatment response.
@@ -37,7 +37,7 @@ In a 26-week, olanzapine-controlled, double-blind, multi-national study of schiz
 
 [ABILIFY 5 mg orodispersible tablets]
 
-(all sentences already above)
+Schizophrenia: in three short-term (4 to 6 week) placebo-controlled trials involving
 
 [ABILIFY 10 mg orodispersible tablets]
 
@@ -52,7 +52,5 @@ In a 26-week, olanzapine-controlled, double-blind, multi-national study of schiz
 (all sentences already above)
 
 [ABILIFY 1 mg/ml oral solution]
-
-Pharmacotherapeutic group: antipsychotics, ATC code: N05AX12
 
 ~80.5 kg) on aripiprazole (N = 18, or 13% of evaluable patients), compared to olanzapine (N = 45, or 33% of evaluable patients).
