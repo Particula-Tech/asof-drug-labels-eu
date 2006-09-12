@@ -32,6 +32,7 @@ Adverse events occurring in greater than 1 % of children receiving oseltamivir a
 The most frequently reported adverse event was vomiting.
 Other events reported more frequently by oseltamivir treated children included abdominal pain, epistaxis, ear disorder and conjunctivitis.
 These events generally occurred once, resolved despite continued dosing and did not cause discontinuation of treatment in the vast majority of cases.
+
 Most Frequent Adverse Events in Studies in Naturally Acquired Influenza in Children
 
 [Adverse Events Occurring On Treatment in >1% of Paediatric Patients]

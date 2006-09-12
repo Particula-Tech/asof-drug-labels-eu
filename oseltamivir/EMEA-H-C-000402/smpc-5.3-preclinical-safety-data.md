@@ -12,6 +12,7 @@ Foetal exposure in the rats and rabbits was approximately 15 to 20 % of that of 
 
 In lactating rats, oseltamivir and the active metabolite are excreted in the milk.
 It is not known whether oseltamivir or the active metabolite are excreted in human milk, but extrapolation of the animal data provides estimates of 0.01 mg/day and 0.3 mg/day for the respective compounds.
+
 A potential for skin sensitisation to oseltamivir was observed in a "maximisation" test in guinea pigs.
 Approximately 50 % of the animals treated with the unformulated active ingredient showed erythema after challenging the induced animals.
 Reversible irritancy of rabbits' eyes was detected.
