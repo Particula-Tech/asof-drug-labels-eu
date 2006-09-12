@@ -9,7 +9,6 @@ Clinical signs included sedation, ataxia, tremors, increased heart rate, labored
 In monkeys, single oral doses up to 100 mg/kg resulted in prostration and, at higher doses, semi-consciousness.
 
 Repeated-dose toxicity
-
 In studies up to 3 months duration in mice and up to 1 year in rats and dogs, the predominant effects were CNS depression, anticholinergic effects, and peripheral haematological disorders.
 Tolerance developed to the CNS depression.
 Growth parameters were decreased at high doses.
@@ -34,11 +33,11 @@ Carcinogenicity
 
 Based on the results of studies in mice and rats, it was concluded that olanzapine is not carcinogenic.
 
-[ZYPREXA 5 mg coated tablets.]
+[ZYPREXA 5 mg coated tablets]
 
 (all sentences already above)
 
-[ZYPREXA 7.5 mg coated tablets.]
+[ZYPREXA 7.5 mg coated tablets]
 
 (all sentences already above)
 
@@ -46,15 +45,15 @@ Based on the results of studies in mice and rats, it was concluded that olanzapi
 
 (all sentences already above)
 
-[ZYPREXA 15 mg coated tablets.]
+[ZYPREXA 15 mg coated tablets]
 
 (all sentences already above)
 
-[ZYPREXA 20 mg coated tablets.]
+[ZYPREXA 20 mg coated tablets]
 
 (all sentences already above)
 
-[ZYPREXA 10 mg powder for solution for injection.]
+[ZYPREXA 10 mg powder for solution for injection]
 
 Signs of oral toxicity in rodents were characteristic of potent antipsychotic compounds: hypoactivity, coma, tremors, clonic convulsions, salivation, and depressed weight gain.
 Clinical signs included sedation, ataxia, tremors, increased heart rate, laboured respiration, miosis, and anorexia.
@@ -68,7 +67,3 @@ In the offspring of rats given olanzapine, delays in foetal development and tran
 Olanzapine was not mutagenic or clastogenic in a full range of standard tests, which included bacterial mutation tests and in vitro and oral in vivo mammalian tests.
 
 Based on the results of oral studies in mice and rats, it was concluded that olanzapine is not carcinogenic.
-
-[ZYPREXA 10 mg powder and solvent for solution for injection.]
-
-(all sentences already above)

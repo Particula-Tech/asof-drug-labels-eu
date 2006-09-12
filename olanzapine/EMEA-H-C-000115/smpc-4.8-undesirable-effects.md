@@ -14,6 +14,7 @@ During treatment with olanzapine in combination with lithium or divalproex, an i
 Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥7% from baseline body weight in 39.9% of patients.
 
 The following table of undesirable effects is based on adverse event reporting and laboratory investigations from clinical trials.
+
 Blood and lymphatic system disorders
 Common (1-10%): Eosinophilia.
 Metabolism and nutrition disorders
@@ -26,7 +27,7 @@ Very common (>10%): Somnolence.
 Common (1-10%): Dizziness, akathisia, parkinsonism, dyskinesia.
 (See also note 2 below).
 Cardiac disorders
-Uncommon (0.1-1%): Bradycardia with or without hypotension or syncope.
+Uncommon (0.1-1%): Bradycardia with or without hypotension or syncope, QT prolongation (see also section 4.4 Special warnings and precautions for use).
 Vascular Disorders
 Common (1-10%): Orthostatic hypotension.
 Gastrointestinal disorders
@@ -60,7 +61,7 @@ Immune System Disorders
 Very rare (<0.01%): Allergic reaction (e.g. anaphylactoid reaction, angioedema, pruritis or urticaria.)
 Metabolism and nutrition disorders
 Very rare (<0.01%): Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been spontaneously reported very rarely, including some fatal cases (see also Note 1 above and section 4.4).
-Hypertriglyceridaemia, hypothermia.
+Hypertriglyceridaemia, hypercholesterolaemia and hypothermia.
 Nervous system disorders
 Rare (0.01-0.1%): Seizures have been reported to occur rarely in patients treated with olanzapine.
 In most of these cases, a history of seizures or risk factors for seizures were reported.
@@ -68,8 +69,11 @@ Very rare (<0.01%): Cases reported as Neuroleptic Malignant Syndrome (NMS) have 
 (See also section 4.4).
 Parkinsonism, dystonia and tardive dyskinesia have been reported very rarely with olanzapine.
 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely when olanzapine is stopped abruptly.
+Cardiac disorders
+Very rare(<0.01%): QTc prolongation, ventricular tachycardia/fibrillation and sudden death.
+(See also section 4.4 Special warnings and precautions for use).
 Vascular disorders
-Very rare(<0.01%): Thromboembolism (including pulmonary embolism and deep vein thrombosis)
+Very rare(<0.01%): Thromboembolism (including pulmonary embolism and deep vein thrombosis).
 Gastrointestinal disorders
 Very rare (<0.01%): Pancreatitis.
 Hepato-biliary disorders
@@ -83,12 +87,13 @@ Very rare (<0.01%): Urinary Hesitation
 Reproductive system and breast disorders
 Very rare (<0.01%): Priapism.
 
-[ZYPREXA 5 mg coated tablets.]
+[ZYPREXA 5 mg coated tablets]
 
+Uncommon (0.1-1%): Bradycardia with or without hypotension or syncope, QT prolongation
 Very common (>10%): Elevated plasma prolactin levels, but associated clinical manifestations
 (e.g., gynaecomastia, galactorrhoea, and breast enlargement) were rare.
 
-[ZYPREXA 7.5 mg coated tablets.]
+[ZYPREXA 7.5 mg coated tablets]
 
 (all sentences already above)
 
@@ -96,21 +101,21 @@ Very common (>10%): Elevated plasma prolactin levels, but associated clinical ma
 
 (all sentences already above)
 
-[ZYPREXA 15 mg coated tablets.]
+[ZYPREXA 15 mg coated tablets]
 
 Very common (>10%) undesirable effects associated with the use of olanzapine in this patient group were abnormal gait and falls.Pneumonia, increased body temperature, lethargy, erythema, visual hallucinations and urinary incontinence were observed commonly (1-10%).
 
-[ZYPREXA 20 mg coated tablets.]
+[ZYPREXA 20 mg coated tablets]
 
 (all sentences already above)
 
-[ZYPREXA 10 mg powder for solution for injection.]
+[ZYPREXA 10 mg powder for solution for injection]
 
 A common (1-10%) undesirable effect associated with the use of intramuscular olanzapine in clinical trials was somnolence.
 
-In post marketing reports, temporal association of treatment with IM olanzapine with cases of respiratory depression, hypotension or bradycardia and death have been very rarely reported, mostly in patients who concomitantly received benzodiazepines, and/or other antipsychotic drugs or who were treated in excess of olanzapine recommended daily doses (see section 4.4 Special precautions and warnings for use and section 4.5 Interaction with other medicinal products and other forms of interaction).
+In post marketing reports, temporal association of treatment with IM olanzapine with cases of respiratory depression, hypotension or bradycardia and death have been very rarely reported, mostly in patients who concomitantly received benzodiazepines, and/or other antipsychotic medicinal products or who were treated in excess of olanzapine recommended daily doses (see section 4.4 Special precautions and warnings for use and section 4.5 Interaction with other medicinal products and other forms of interaction).
 
-The following table is based on the undesirable effects and laboratory investigations from clinical trials with Zyprexa Powder for Solution for Injection rather than oral olanzapine.
+The following table is based on the undesirable effects and laboratory investigations from clinical trials with ZYPREXA Powder for Solution for Injection rather than oral olanzapine.
 
 Common (1-10%): Bradycardia with or without hypotension or syncope, tachycardia.
 Uncommon (0.1-1%): Sinus pause.
@@ -119,14 +124,10 @@ Respiratory disorders
 Uncommon (0.1-1%): Hypoventilation.
 Common (1-10%): Injection site discomfort.
 
-The undesirable effects listed below have been observed following administration of oral olanzapine, but may also occur following administration of Zyprexa Powder for Solution for Injection.
+The undesirable effects listed below have been observed following administration of oral olanzapine, but may also occur following administration of ZYPREXA Powder for Solution for Injection.
 
 Very common (>10%) undesirable effects associated with the use of oral olanzapine in clinical trials were somnolence and weight gain.
 
 The following table of undesirable effects is based on adverse event reporting and laboratory investigations from clinical trials with oral olanzapine.
 
 The following table of undesirable effects is based on post-marketing spontaneous reports with oral olanzapine.
-
-[ZYPREXA 10 mg powder and solvent for solution for injection.]
-
-(all sentences already above)
