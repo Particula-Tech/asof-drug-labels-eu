@@ -23,7 +23,6 @@ Tablet core:
 Cellulose microcrystalline
 Hypromellose
 Silica, colloidal anhydrous
-
 Tablet coat:
 
 [GLIVEC 400 mg film-coated tablets]

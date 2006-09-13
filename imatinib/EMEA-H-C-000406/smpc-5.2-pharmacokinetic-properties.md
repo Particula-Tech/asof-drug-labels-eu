@@ -25,11 +25,10 @@ The in vitro results showed that CYP3A4 was the major human P450 enzyme catalysi
 Of a panel of potential comedications (acetaminophen, aciclovir, allopurinol, amphotericin, cytarabine, erythromycin, fluconazole, hydroxyurea, norfloxacin, penicillin V) only erythromycin (IC50 50 µM) and fluconazole (IC50 118 µM) showed inhibition of imatinib metabolism which could have clinical relevance.
 
 Imatinib was shown in vitro to be a competitive inhibitor of marker substrates for CYP2C9, CYP2D6 and CYP3A4/5.
-Ki values in human liver microsomes were 27, 7.5 and 7.9 µmol/l, respectively.
-Maximal plasma concentrations of imatinib in patients are 2–4 µmol/l, consequently an inhibition of CYP2D6 and/or CYP3A4/5-mediated metabolism of co-administered drugs is possible.
+Ki values in human liver microsomes were 27, 7.5 and 7.9 μmol/l, respectively.
+Maximal plasma concentrations of imatinib in patients are 2–4 μmol/l, consequently an inhibition of CYP2D6 and/or CYP3A4/5-mediated metabolism of co-administered drugs is possible.
 Imatinib did not interfere with the biotransformation of 5-fluorouracil, but it inhibited paclitaxel metabolism as a result of competitive inhibition of CYP2C8 (Ki = 34.7 µM).
 This Ki value is far higher than the expected plasma levels of imatinib in patients, consequently no interaction is expected upon co-administration of either 5-fluorouracil or paclitaxel and imatinib.
-
 Elimination
 Based on the recovery of compound(s) after an oral 14C-labelled dose of imatinib, approximately 81% of the dose was recovered within 7 days in faeces (68% of dose) and urine (13% of dose).
 Unchanged imatinib accounted for 25% of the dose (5% urine, 20% faeces), the remainder being metabolites.
@@ -54,7 +53,7 @@ These changes are not considered sufficient to warrant dose adjustment based on 
 There is no effect of gender on the kinetics of imatinib.
 
 Pharmacokinetics in children
-As in adult patients, imatinib was rapidly absorbed after oral administration in paediatric patients in a phase I study.
+As in adult patients, imatinib was rapidly absorbed after oral administration in paediatric patients in both phase I and phase II studies.
 Dosing in children at 260 and 340 mg/m2/day achieved the same exposure, respectively, as doses of 400 mg and 600 mg in adult patients.
 The comparison of AUC(0-24) on day 8 and day 1 at the 340 mg/m2/day dose level revealed a 1.7-fold drug accumulation after repeated once-daily dosing.
 

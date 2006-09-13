@@ -11,6 +11,9 @@ Metabolism of Glivec is mainly hepatic, and only 13% of excretion is through the
 In patients with hepatic dysfunction (mild, moderate or severe), peripheral blood counts and liver enzymes should be carefully monitored (see sections 4.2, 4.8 and 5.2).
 It should be noted that GIST patients may have hepatic metastases which could lead to hepatic impairment.
 
+When imatinib is combined with high dose chemotherapy regimens in Ph+ ALL patients, transient liver toxicity in the form of transaminase elevation and hyperbilirubinaemia can be observed.
+Monitoring of liver function should be considered in circumstances where imatinib is combined with chemotherapy regimens also known to be associated with hepatic dysfunction (see section 4.5 and 4.8).
+
 Occurrences of severe fluid retention (pleural effusion, oedema, pulmonary oedema, ascites) have been reported in approximately 1 to 2% of patients taking Glivec.
 Therefore, it is highly recommended that patients be weighed regularly.
 An unexpected rapid weight gain should be carefully investigated and if necessary appropriate supportive care and therapeutic measures should be undertaken.
@@ -20,7 +23,6 @@ Therefore, caution should be exercised in patients with cardiac dysfunction.
 In the GIST clinical trial, both gastrointestinal and intra-tumoural haemorrhages were reported (see section 4.8).
 Based on the available data, no predisposing factors (e.g. tumour size, tumour location, coagulation disorders) have been identified that place patients with GIST at a higher risk of either type of haemorrhage.
 Since increased vascularity and propensity for bleeding is a part of the nature and clinical course of GIST, standard practices and procedures for the monitoring and management of haemorrhage in all patients should be applied.
-
 Laboratory tests
 Complete blood counts must be performed regularly during therapy with Glivec.
 Treatment of CML patients with Glivec has been associated with neutropenia or thrombocytopenia.
