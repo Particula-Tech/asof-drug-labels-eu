@@ -14,7 +14,6 @@ During treatment with olanzapine in combination with lithium or divalproex, an i
 Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥7% from baseline body weight in 39.9% of patients.
 
 The following table of undesirable effects is based on adverse event reporting and laboratory investigations from clinical trials.
-
 Blood and lymphatic system disorders
 Common (1-10%): Eosinophilia.
 Metabolism and nutrition disorders
@@ -77,7 +76,7 @@ Very rare(<0.01%): Thromboembolism (including pulmonary embolism and deep vein t
 Gastrointestinal disorders
 Very rare (<0.01%): Pancreatitis.
 Hepato-biliary disorders
-Very rare (<0.01%): Hepatitis.
+Rare (0.01-0.1%): Hepatitis (including hepatocellular, cholestatic or mixed liver injury)
 Musculoskeletal and connective tissue and bone disorders
 Very rare(<0.01%): Rhabdomyolysis
 Skin and subcutaneous tissue disorders
@@ -86,6 +85,10 @@ Renal and Urinary Disorders
 Very rare (<0.01%): Urinary Hesitation
 Reproductive system and breast disorders
 Very rare (<0.01%): Priapism.
+Investigations
+Increased transaminases.
+Very rare (<0.01%): Increased alkaline phosphatase.
+Increased total bilirubin.
 
 [ZYPREXA 5 mg coated tablets]
 

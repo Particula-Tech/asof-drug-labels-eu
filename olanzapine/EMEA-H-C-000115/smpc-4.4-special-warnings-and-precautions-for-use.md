@@ -33,7 +33,7 @@ Patients should be closely monitored during this period.
 Transient, asymptomatic elevations of hepatic transaminases, ALT, AST have been seen commonly, especially in early treatment.
 Caution should be exercised in patients with elevated ALT and/or AST, in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic medicines.
 In the event of elevated ALT and/or AST during treatment, follow-up should be organised and dose reduction should be considered.
-In cases where hepatitis has been diagnosed, olanzapine treatment should be discontinued.
+In cases where hepatitis (including hepatocellular, cholestatic or mixed liver injury) has been diagnosed, olanzapine treatment should be discontinued.
 
 As with other neuroleptic medicines, caution should be exercised in patients with low leukocyte and/or neutrophil counts for any reason, in patients receiving medicines known to cause neutropenia, in patients with a history of drug-induced bone marrow depression/toxicity, in patients with bone marrow depression caused by concomitant illness, radiation therapy or chemotherapy and in patients with hypereosinophilic conditions or with myeloproliferative disease.
 Neutropenia has been reported commonly when olanzapine and valproate are used concomitantly (see section 4.8).
@@ -54,9 +54,9 @@ In most of these cases, a history of seizures or risk factors for seizures were 
 Tardive Dyskinesia: In comparator studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.
 However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or discontinuation should be considered.
 These symptoms can temporally deteriorate or even arise after discontinuation of treatment.
-
 Given the primary CNS effects of olanzapine, caution should be used when it is taken in combination with other centrally acting medicines and alcohol.
 As it exhibits in vitro dopamine antagonism, olanzapine may antagonize the effects of direct and indirect dopamine agonists.
+
 Postural hypotension was infrequently observed in the elderly in olanzapine clinical trials.
 As with other antipsychotics, it is recommended that blood pressure is measured periodically in patients over 65 years.
 
@@ -76,7 +76,7 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 [ZYPREXA 7.5 mg coated tablets]
 
-In cases where hepatitis has been diagnosed, olanzapine treatment, should be discontinued.
+In cases where hepatitis (including hepatocellular, cholestatic or mixed liver injury) has been diagnosed, olanzapine treatment, should be discontinued.
 
 However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients should be identified and preventive measures undertaken.
 
