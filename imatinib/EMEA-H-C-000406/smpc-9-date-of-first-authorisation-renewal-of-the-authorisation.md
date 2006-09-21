@@ -1,15 +1,16 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-07.11.2001
+Date of first authorisation: 07.11.2001
+Date of first renewal:
 
-[GLIVEC 100 mg capsules, hard]
+[Glivec 100 mg hard capsules]
 
 (all sentences already above)
 
-[GLIVEC 100 mg film-coated tablets]
+[Glivec 100 mg film-coated tablets]
 
-11.11.2003
+Date of first authorisation: 11.11.2003
 
-[GLIVEC 400 mg film-coated tablets]
+[Glivec 400 mg film-coated tablets]
 
 (all sentences already above)

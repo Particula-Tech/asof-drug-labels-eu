@@ -2,16 +2,16 @@
 
 Each capsule contains 50 mg imatinib (as mesilate).
 
-For excipients, see 6.1.
+For a full list of excipients, see section 6.1.
 
-[GLIVEC 100 mg capsules, hard]
+[Glivec 100 mg hard capsules]
 
 Each capsule contains 100 mg imatinib (as mesilate).
 
-[GLIVEC 100 mg film-coated tablets]
+[Glivec 100 mg film-coated tablets]
 
 Each film-coated tablet contains 100 mg imatinib (as mesilate).
 
-[GLIVEC 400 mg film-coated tablets]
+[Glivec 400 mg film-coated tablets]
 
 Each film-coated tablet contains 400 mg imatinib (as mesilate).

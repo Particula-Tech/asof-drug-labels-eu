@@ -8,4 +8,5 @@ Treatment was temporarily interrupted and there was complete reversal of all abn
 Treatment was resumed at a dose of 400 mg without recurrence of problems.
 Another patient developed severe muscle cramps after taking Glivec 1,600 mg daily for six days.
 Following interruption of treatment, complete resolution of muscle cramps occurred, treatment was subsequently resumed.
+
 In the event of overdose, the patient should be observed and appropriate supportive treatment given.

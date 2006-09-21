@@ -39,8 +39,7 @@ Imatinib was teratogenic in rats when administered during organogenesis at doses
 Teratogenic effects included exencephaly or encephalocele, absent/reduced frontal and absent parietal bones.
 These effects were not seen at doses ≤ 30 mg/kg.
 
-In the 2-year rat carcinogenicity study administration of imatinib at 15, 30 and 60 mg/kg/day resulted in a statistically significant reduction in the longevity of males at 60 mg/kg/day and females at
-≥30 mg/kg/day.
+In the 2-year rat carcinogenicity study administration of imatinib at 15, 30 and 60 mg/kg/day resulted in a statistically significant reduction in the longevity of males at 60 mg/kg/day and females at ≥30 mg/kg/day.
 Histopathological examination of decedents revealed cardiomyopathy (both sexes), chronic progressive nephropathy (females) and preputial gland papilloma as principal causes of death or reasons for sacrifice.
 Target organs for neoplastic changes were the kidneys, urinary bladder, urethra, preputial and clitoral gland, small intestine, parathyroid glands, adrenal glands and non-glandular stomach.
 
@@ -54,14 +53,14 @@ The mechanism and relevance of these findings in the rat carcinogenicity study f
 Non-neoplastic lesions not identified in earlier preclinical studies were the cardiovascular system, pancreas, endocrine organs and teeth.
 The most important changes included cardiac hypertrophy and dilatation, leading to signs of cardiac insufficiency in some animals.
 
-[GLIVEC 100 mg capsules, hard]
+[Glivec 100 mg hard capsules]
 
 Papilloma/carcinoma of the preputial/clitoral gland were noted from 30mg/kg/day onwards, representing approximately 0.5 or 0.3 times the human daily exposure (based on AUC) at 400 mg/day or 800 mg/day, respectively, and 0.4 times the daily exposure in children (based on AUC) at 340 mg/m2/day.
 
-[GLIVEC 100 mg film-coated tablets]
+[Glivec 100 mg film-coated tablets]
 
 (all sentences already above)
 
-[GLIVEC 400 mg film-coated tablets]
+[Glivec 400 mg film-coated tablets]
 
 (all sentences already above)

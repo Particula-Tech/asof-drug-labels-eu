@@ -13,18 +13,21 @@ Printing ink: Iron oxide, red (E172)
 Shellac
 Soya lecithin
 
-[GLIVEC 100 mg capsules, hard]
+[Glivec 100 mg hard capsules]
 
 Iron oxide, red (E172)
 
-[GLIVEC 100 mg film-coated tablets]
+[Glivec 100 mg film-coated tablets]
 
 Tablet core:
 Cellulose microcrystalline
 Hypromellose
 Silica, colloidal anhydrous
-Tablet coat:
 
-[GLIVEC 400 mg film-coated tablets]
+Tablet coat:
+Macrogol
+Talc
+
+[Glivec 400 mg film-coated tablets]
 
 (all sentences already above)

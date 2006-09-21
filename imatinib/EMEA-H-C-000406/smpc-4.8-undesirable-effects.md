@@ -17,17 +17,19 @@ However, these oedemas were rarely severe and may be managed with diuretics, oth
 When imatinib was combined with high dose chemotherapy in Ph+ ALL patients, transient liver toxicity in the form of transaminase elevation and hyperbilirubinaemia were observed.
 
 Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and rapid weight gain with or without superficial oedema may be collectively described as “fluid retention”.
-These reactions can usually be managed by withholding Glivec temporarily and/or with diuretics and/or other appropriate supportive care measures.
-However, a few of these reactions may be serious or life-threatening and several patients with blast crisis died with a complex clinical history of pleural effusion, congestive heart failure and renal failure.
+These reactions can usually be managed by withholding Glivec temporarily and with diuretics and other appropriate supportive care measures.
+However, some of these reactions may be serious or life-threatening and several patients with blast crisis died with a complex clinical history of pleural effusion, congestive heart failure and renal failure.
 There were no special safety findings in paediatric clinical trials.
 
 Adverse reactions
 Adverse reactions reported as more than an isolated case are listed below, by system organ class and by frequency.
 Frequencies are defined as: very common (>1/10), common (>1/100, ≤1/10), uncommon (>1/1,000, ≤1/100), rare (≤1/1,000)
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 |  | Very Common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
 | Infections and infestations |  |  | Sepsis, pneumonia, herpes simplex, herpes zoster, upper respiratory tract infection, gastroenteritis |  |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  | Tumour haemorrhage, tumour necrosis |
 | Blood and lymphatic system disorders | Neutropenia, thrombocytopenia, anaemia | Febrile neutropenia | Pancytopenia, bone marrow depression |  |
 | Metabolism and nutrition disorders |  | Anorexia | Dehydration, hyperuricaemia, hypokalaemia, appetite increased, appetite decreased, gout, hypophosphataemia | Hyperkalaemia, hyponatraemia |
 | Psychiatric disorders |  |  | Depression, anxiety, libido decreased | Confusion |
@@ -38,21 +40,14 @@ Frequencies are defined as: very common (>1/10), common (>1/100, ≤1/10), uncom
 | Vascular disorders |  |  | Haematoma, hypertension, hypotension, flushing, peripheral coldness | Thrombosis, embolism |
 | Respiratory, thoracic and mediastinal disorders |  | Epistaxis, dyspnoea | Pleural effusion, cough, pharyngolaryngeal pain | Pulmonary fibrosis, interstitial pneumonitis |
 | Gastrointestinal disorders | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain | Abdominal distension, flatulence, constipation, gastro-oesophageal reflux, mouth ulceration | Gastrointestinal haemorrhage, melaena, ascites, gastric ulcer, gastritis, eructation, dry mouth, pancreatitis | Colitis, diverticulitis, ileus, intestinal obstruction, gastrointestinal perforation (1) |
-| Hepato-biliary disorders |  | Increased hepatic enzymes | Jaundice, hepatitis, hyperbilirubinaemia | Hepatic failure |
+| Hepatobiliary disorders |  | Increased hepatic enzymes | Jaundice, hepatitis, hyperbilirubinaemia | Hepatic failure |
 | Skin and subcutaneous tissue disorders | Periorbital oedema, dermatitis/eczema/ rash | Face oedema, eyelid oedema, pruritus, erythema, dry skin, alopecia, night sweats | Petechiae, contusion, sweating increased, urticaria, onychoclasis, photosensitivity reaction, purpura, hypotrichosis, cheilitis, skin hyperpigmentation, skin hypopigmentation, psoriasis, exfoliative dermatitis and bullous eruptions | Angioedema, vesicular rash, Stevens-Johnson syndrome, acute febrile neutrophilic dermatosis (Sweet’s syndrome) |
-| Musculoskeletal, connective tissue and bone disorders | Muscle spasm and cramps, musculoskeletal pain including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness | Aseptic necrosis of bone, mainly in femoral head |
-| Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |  |  | Tumour haemorrhage, tumour necrosis |
+| Musculoskeletal and connective tissue disorders | Muscle spasm and cramps, musculoskeletal pain including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness | Aseptic necrosis of bone, mainly in femoral head |
 | Renal and urinary disorders |  |  | Renal failure, renal pain, urinary frequency increased, haematuria |  |
 | Reproductive system and breast disorders |  |  | Gynaecomastia, breast enlargement, scrotal oedema, menorrhagia, nipple pain, sexual dysfunction |  |
 | General disorders and administration site conditions | Fluid retention and oedema, fatigue | Pyrexia, weakness, rigors | Malaise, haemorrhage | Anasarca |
-| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood creatinine increased, |  |
+| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood creatinine increased, weight decreased, blood creatine phosphokinase increased, blood lactate dehydrogenase |  |
 
-weight decreased,
-blood creatine
-phosphokinase
-increased, blood
-lactate
-dehydrogenase
 increased
 
 (1) Some fatal cases of gastrointestinal perforation have been reported.
@@ -60,10 +55,8 @@ increased
 Laboratory test abnormalities
 Haematology
 In CML, cytopenias, particularly neutropenia and thrombocytopenia, have been a consistent finding in all studies, with the suggestion of a higher frequency at high doses ≥ 750 mg (phase I study).
-However, the occurrence of cytopenias was also clearly dependent on the stage of the disease, the frequency of grade 3 or 4 neutropenias (ANC < 1.0 x 109/l) and thrombocytopenias (platelet count
-< 50 x 109/l) being between 4 and 6 times higher in blast crisis and accelerated phase (59–64% and 44–63% for neutropenia and thrombocytopenia, respectively) as compared to newly diagnosed patients in chronic phase CML (15% neutropenia and 8.5% thrombocytopenia).
-In newly diagnosed chronic phase CML grade 4 neutropenia (ANC < 0.5 x 109/l) and thrombocytopenia (platelet count
-< 10 x 109/l) were observed in 3% and < 1% of patients, respectively.
+However, the occurrence of cytopenias was also clearly dependent on the stage of the disease, the frequency of grade 3 or 4 neutropenias (ANC < 1.0 x 109/l) and thrombocytopenias (platelet count < 50 x 109/l) being between 4 and 6 times higher in blast crisis and accelerated phase (59–64% and 44–63% for neutropenia and thrombocytopenia, respectively) as compared to newly diagnosed patients in chronic phase CML (15% neutropenia and 8.5% thrombocytopenia).
+In newly diagnosed chronic phase CML grade 4 neutropenia (ANC < 0.5 x 109/l) and thrombocytopenia (platelet count < 10 x 109/l) were observed in 3% and < 1% of patients, respectively.
 The median duration of the neutropenic and thrombocytopenic episodes usually ranged from 2 to 3 weeks, and from 3 to 4 weeks, respectively.
 These events can usually be managed with either a reduction of the dose or an interruption of treatment with Glivec, but can in rare cases lead to permanent discontinuation of treatment.
 In paediatric CML patients the most frequent toxicities observed were grade 3 or 4 cytopenias involving neutropenia, thrombocytopenia and anaemia.
@@ -82,13 +75,14 @@ Bilirubin elevation was below 3%.
 
 There have been cases of cytolytic and cholestatic hepatitis and hepatic failure; in some of them outcome was fatal, including one patient on high dose paracetamol.
 
-[GLIVEC 100 mg capsules, hard]
+[Glivec 100 mg hard capsules]
 
 Frequencies are defined as: very common (>1/10), common (>1/100, ≤1/10), uncommon (>1/1,000, ≤1/100), rare (<1/1,000)
 
 |  | Very Common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
 | Infections and infestations |  |  | Sepsis, pneumonia, herpes simplex, herpes zoster, upper respiratory tract infection, gastroenteritis |  |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  | Tumour haemorrhage, tumour necrosis |
 | Blood and lymphatic system disorders | Neutropenia, thrombocytopenia, anaemia | Febrile neutropenia | Pancytopenia, bone marrow depression |  |
 | Metabolism and nutrition disorders |  | Anorexia | Dehydration, hyperuricaemia, hypokalaemia, appetite increased, appetite decreased, gout, hypophosphataemia | Hyperkalaemia, hyponatraemia |
 | Psychiatric disorders |  |  | Depression, anxiety, libido decreased | Confusion |
@@ -99,23 +93,20 @@ Frequencies are defined as: very common (>1/10), common (>1/100, ≤1/10), uncom
 | Vascular disorders |  |  | Haematoma, hypertension, hypotension, flushing, peripheral coldness | Thrombosis, embolism |
 | Respiratory, thoracic and mediastinal disorders |  | Epistaxis, dyspnoea | Pleural effusion, cough, pharyngolaryngeal pain | Pulmonary fibrosis, interstitial pneumonitis |
 | Gastrointestinal disorders | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain | Abdominal distension, flatulence, constipation, gastro-oesophageal reflux, mouth ulceration | Gastrointestinal haemorrhage, melaena, ascites, gastric ulcer, gastritis, eructation, dry mouth, pancreatitis | Colitis, diverticulitis, ileus, intestinal obstruction, gastrointestinal perforation (1) |
-| Hepato-biliary disorders |  | Increased hepatic enzymes | Jaundice, hepatitis, hyperbilirubinaemia | Hepatic failure |
+| Hepatobiliary disorders |  | Increased hepatic enzymes | Jaundice, hepatitis, hyperbilirubinaemia | Hepatic failure |
 | Skin and subcutaneous tissue disorders | Periorbital oedema, dermatitis/eczema/ rash | Face oedema, eyelid oedema, pruritus, erythema, dry skin, alopecia, night sweats | Petechiae, contusion, sweating increased, urticaria, onychoclasis, photosensitivity reaction, purpura, hypotrichosis, cheilitis, skin hyperpigmentation, skin hypopigmentation, psoriasis, exfoliative dermatitis and bullous eruptions | Angioedema, vesicular rash, Stevens-Johnson syndrome, acute febrile neutrophilic dermatosis (Sweet’s syndrome) |
-| Musculoskeletal, connective tissue and bone disorders | Muscle spasm and cramps, musculoskeletal pain, including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness | Aseptic necrosis of bone, mainly in femoral head |
-| Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |  |  | Tumour haemorrhage, tumour necrosis |
+| Musculoskeletal and connective tissue disorders | Muscle spasm and cramps, musculoskeletal pain, including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness | Aseptic necrosis of bone, mainly in femoral head |
 | Renal and urinary disorders |  |  | Renal failure, renal pain, urinary frequency increased, haematuria |  |
 | Reproductive system and breast disorders |  |  | Gynaecomastia, breast enlargement, scrotal oedema, menorrhagia, nipple pain, sexual dysfunction |  |
 | General disorders and administration site conditions | Fluid retention and oedema, fatigue | Pyrexia, weakness, rigors | Malaise, haemorrhage | Anasarca |
-| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood creatinine increased, |  |
+| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood creatinine increased, weight decreased, blood creatine phosphokinase increased, blood lactate dehydrogenase |  |
 
-[GLIVEC 100 mg film-coated tablets]
-
-These reactions can usually be managed by withholding Glivec temporarily and with diuretics and other appropriate supportive care measures.
-However, some of these reactions may be serious or life-threatening and several patients with blast crisis died with a complex clinical history of pleural effusion, congestive heart failure and renal failure.
+[Glivec 100 mg film-coated tablets]
 
 |  | Very Common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
 | Infections and infestations |  |  | Sepsis, pneumonia, herpes simplex, herpes zoster, upper respiratory tract infection, gastroenteritis |  |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  | Tumour haemorrhage, tumour necrosis |
 | Blood and lymphatic system disorders | Neutropenia, thrombocytopenia, anaemia | Febrile neutropenia | Pancytopenia, bone marrow depression |  |
 | Metabolism and nutrition disorders |  | Anorexia | Dehydration, hyperuricaemia, hypokalaemia, appetite increased, appetite decreased, gout, hypophosphataemia | Hyperkalaemia, hyponatraemia |
 | Psychiatric disorders |  |  | Depression, anxiety, libido decreased | Confusion |
@@ -126,22 +117,20 @@ However, some of these reactions may be serious or life-threatening and several 
 | Vascular disorders |  |  | Haematoma, hypertension, hypotension, flushing, peripheral coldness | Thrombosis, embolism |
 | Respiratory, thoracic and mediastinal disorders |  | Epistaxis, dyspnoea | Pleural effusion, cough, pharyngolaryngeal pain | Pulmonary fibrosis, interstitial pneumonitis |
 | Gastrointestinal disorders | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain | Abdominal distension, flatulence, constipation, gastro-oesophageal reflux, mouth ulceration | Gastrointestinal haemorrhage, melaena, ascites, gastric ulcer, gastritis, eructation, dry mouth, pancreatitis | Colitis, diverticulitis, ileus, intestinal obstruction, gastrointestinal perforation (1) |
-| Hepato-biliary disorders |  | Increased hepatic enzymes | Jaundice, hepatitis, hyperbilirubinaemia | Hepatic failure |
+| Hepatobiliary disorders |  | Increased hepatic enzymes | Jaundice, hepatitis, hyperbilirubinaemia | Hepatic failure |
 | Skin and subcutaneous tissue disorders | Periorbital oedema, dermatitis/eczema/ rash | Face oedema, eyelid oedema, pruritus, erythema, dry skin, alopecia, night sweats | Petechiae, contusion, sweating increased, urticaria, onychoclasis, photosensitivity reaction, purpura, hypotrichosis, cheilitis, skin hyperpigmentation, skin hypopigmentation, psoriasis, exfoliative dermatitis and bullous eruptions | Angioedema, vesicular rash, Stevens-Johnson syndrome, acute febrile neutrophilic dermatosis (Sweet’s syndrome) |
-| Musculoskeletal, connective tissue and bone disorders | Muscle spasm and cramps, musculoskeletal pain, including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness | Aseptic necrosis of bone, mainly in femoral head |
-| Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |  |  | Tumour haemorrhage, tumour necrosis |
+| Musculoskeletal and connective tissue disorders | Muscle spasm and cramps, musculoskeletal pain, including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness | Aseptic necrosis of bone, mainly in femoral head |
 | Renal and urinary disorders |  |  | Renal failure, renal pain, urinary frequency increased, haematuria |  |
 | Reproductive system and breast disorders |  |  | Gynaecomastia, breast enlargement, scrotal oedema, menorrhagia, nipple pain, sexual dysfunction |  |
 | General disorders and administration site conditions | Fluid retention and oedema, fatigue | Pyrexia, weakness, rigors | Malaise, haemorrhage | Anasarca |
-| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood |  |
+| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood creatinine increased, weight decreased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased |  |
 
-creatinine increased,
-
-[GLIVEC 400 mg film-coated tablets]
+[Glivec 400 mg film-coated tablets]
 
 |  | Very Common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
 | Infections and infestations |  |  | Sepsis, pneumonia, herpes simplex, herpes zoster, upper respiratory tract infection, gastroenteritis |  |
+| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  | Tumour haemorrhage, tumour necrosis |
 | Blood and lymphatic system disorders | Neutropenia, thrombocytopenia, anaemia | Febrile neutropenia | Pancytopenia, bone marrow depression |  |
 | Metabolism and nutrition disorders |  | Anorexia | Dehydration, hyperuricaemia, hypokalaemia, appetite increased, appetite decreased, gout, hypophosphataemia | Hyperkalaemia, hyponatraemia |
 | Psychiatric disorders |  |  | Depression, anxiety, libido decreased | Confusion |
@@ -152,11 +141,10 @@ creatinine increased,
 | Vascular disorders |  |  | Haematoma, hypertension, hypotension, flushing, peripheral coldness | Thrombosis, embolism |
 | Respiratory, thoracic and mediastinal disorders |  | Epistaxis, dyspnoea | Pleural effusion, cough, pharyngolaryngeal pain | Pulmonary fibrosis, interstitial pneumonitis |
 | Gastrointestinal disorders | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain | Abdominal distension, flatulence, constipation, gastro-oesophageal reflux, mouth ulceration | Gastrointestinal haemorrhage, melaena, ascites, gastric ulcer, gastritis, eructation, dry mouth pancreatitis | Colitis, diverticulitis, ileus, intestinal obstruction, gastrointestinal perforation (1) |
-| Hepato-biliary disorders |  | Increased hepatic enzymes | Jaundice, hepatitis, hyperbilirubinaemia | Hepatic failure |
+| Hepatobiliary disorders |  | Increased hepatic enzymes | Jaundice, hepatitis, hyperbilirubinaemia | Hepatic failure |
 | Skin and subcutaneous tissue disorders | Periorbital oedema, dermatitis/eczema/ rash | Face oedema, eyelid oedema, pruritus, erythema, dry skin, alopecia, night sweats | Petechiae, contusion, sweating increased, urticaria, onychoclasis, photosensitivity reaction, purpura, hypotrichosis, cheilitis, skin hyperpigmentation, skin hypopigmentation, psoriasis, exfoliative dermatitis and bullous eruptions | Angioedema, vesicular rash, Stevens-Johnson syndrome, acute febrile neutrophilic dermatosis (Sweet’s syndrome) |
-| Musculoskeletal, connective tissue and bone disorders | Muscle spasm and cramps, musculoskeletal pain, including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness | Aseptic necrosis of bone, mainly in femoral head |
-| Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |  |  | Tumour haemorrhage, tumour necrosis |
+| Musculoskeletal and connective tissue disorders | Muscle spasm and cramps, musculoskeletal pain, including arthralgia | Joint swelling | Sciatica, joint and muscle stiffness | Aseptic necrosis of bone, mainly in femoral head |
 | Renal and urinary disorders |  |  | Renal failure, renal pain, urinary frequency increased, haematuria |  |
 | Reproductive system and breast disorders |  |  | Gynaecomastia, breast enlargement, scrotal oedema, menorrhagia, nipple pain, sexual dysfunction |  |
 | General disorders and administration site conditions | Fluid retention and oedema, fatigue | Pyrexia, weakness, rigors | Malaise, haemorrhage | Anasarca |
-| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood |  |
+| Investigations |  | Weight increased | Blood alkaline phosphatase increased, blood creatinine increased, weight decreased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased |  |

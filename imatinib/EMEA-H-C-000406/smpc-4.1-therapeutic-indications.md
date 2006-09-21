@@ -16,15 +16,3 @@ Glivec is also indicated for the treatment of
 
 In adult and paediatric patients, the effectiveness of Glivec is based on overall haematological and cytogenetic response rates and progression-free survival in CML, on haematological and cytogenetic response rates in Ph+ ALL and on objective response rates in adult patients with GIST and DFSP.
 There are no controlled trials demonstrating a clinical benefit or increased survival for these diseases.
-
-[GLIVEC 100 mg capsules, hard]
-
-The effect of Glivec on the outcome of bone marrrow transplantation has not been determined.
-
-[GLIVEC 100 mg film-coated tablets]
-
-(all sentences already above)
-
-[GLIVEC 400 mg film-coated tablets]
-
-(all sentences already above)

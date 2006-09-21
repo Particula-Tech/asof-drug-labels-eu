@@ -4,18 +4,19 @@ PVC/aluminium blisters
 
 Packs containing 30 capsules.
 
-[GLIVEC 100 mg capsules, hard]
+[Glivec 100 mg hard capsules]
 
 Packs containing 24, 48, 96, 120 and 180 capsules.
+
 Not all pack sizes may be marketed.
 
-[GLIVEC 100 mg film-coated tablets]
+[Glivec 100 mg film-coated tablets]
 
 PVC/alu blisters
 
 Packs containing 20, 60, 120 or 180 film-coated tablets
 
-[GLIVEC 400 mg film-coated tablets]
+[Glivec 400 mg film-coated tablets]
 
 PVDC/alu blisters
 
