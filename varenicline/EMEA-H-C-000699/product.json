@@ -1,0 +1,16 @@
+{
+  "active_substance": "varenicline",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000699",
+  "eu_number": "EU/1/06/360",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2006-09-25",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/champix",
+  "molecule": "varenicline",
+  "molecule_name": "VARENICLINE",
+  "name": "Champix",
+  "register_name": "Champix",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h360.htm"
+}
