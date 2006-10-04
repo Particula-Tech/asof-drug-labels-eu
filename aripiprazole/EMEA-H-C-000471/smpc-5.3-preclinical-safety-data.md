@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 Non-clinical safety data revealed no special hazard for humans based on conventional studies of safety pharmacology, repeat-dose toxicity, genotoxicity, carcinogenic potential, and toxicity to reproduction.
+
 Toxicologically significant effects were observed only at doses or exposures that were sufficiently in excess of the maximum human dose or exposure, indicating that these effects were limited or of no relevance to clinical use.
 These included: dose-dependent adrenocortical toxicity (lipofuscin pigment accumulation and/or parenchymal cell loss) in rats after 104 weeks at 20 to 60 mg/kg/day (3 to 10 times the mean steady-state AUC at the maximum recommended human dose) and increased adrenocortical carcinomas and combined adrenocortical adenomas/carcinomas in female rats at 60 mg/kg/day (10 times the mean steady-state AUC at the maximum recommended human dose).
 The highest nontumorigenic exposure in female rats was 7 times the human exposure at the recommended dose.
@@ -12,3 +13,42 @@ Based on results of a full range of standard genotoxicity tests, aripiprazole wa
 Aripiprazole did not impair fertility in reproductive toxicity studies.
 Developmental toxicity, including dose-dependent delayed foetal ossification and possible teratogenic effects, were observed in rats at doses resulting in subtherapeutic exposures (based on AUC) and in rabbits at doses resulting in exposures 3 and 11 times the mean steady-state AUC at the maximum recommended clinical dose.
 Maternal toxicity occurred at doses similar to those eliciting developmental toxicity.
+
+[ABILIFY 10 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 5 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 10 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+(all sentences already above)
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+Administration of aripiprazole solution for injection was well tolerated and produced no direct target organ toxicity in rats or monkeys after repeated dosing at systemic exposures (AUC) that were 15 and 5 times, respectively, human exposure at the maximum recommended human dose of 30 mg intramuscular.
+In intravenous reproductive toxicity studies, no new safety concerns were observed at maternal exposures up to 15 (rat) and 29 (rabbit) times human exposure at 30 mg.
+
+Non-clinical safety data revealed no special hazard for humans based on conventional oral aripiprazole studies of safety pharmacology, repeat-dose toxicity, genotoxicity, carcinogenic potential, and toxicity to reproduction.

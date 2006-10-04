@@ -36,3 +36,8 @@ Round and pink, marked with "A" over "643" on one side and "30" on the other.
 
 Oral solution
 Clear, colourless to light yellow liquid.
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+Solution for injection
+Clear, colourless, aqueous solution.

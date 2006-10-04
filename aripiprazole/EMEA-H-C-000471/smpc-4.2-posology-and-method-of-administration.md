@@ -80,3 +80,25 @@ A calibrated measuring cup of polypropylene is included in the carton.
 Aripiprazole is effective in a dose range of 10 to 30 mg/day (i.e. 10 to 30 ml solution/day).
 
 Gender: no dosage adjustment is required for female patients as compared to male patients (see sections 4.4 and 5.2).
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+For intramuscular use.
+
+To enhance absorption and minimise variability, injection into the deltoid or deep within the gluteus maximus muscle, avoiding adipose regions, is recommended.
+
+ABILIFY solution for injection should not be administered intravenously or subcutaneously.
+ABILIFY solution for injection is ready to use and intended for short-term use only (see section 5.1).
+
+The recommended initial dose for aripiprazole solution for injection is 9.75 mg (1.3 ml), administered as a single intramuscular injection.
+The effective dose range of aripiprazole solution for injection is 5.25-15 mg as a single injection.
+A lower dose of 5.25 mg (0.7 ml) may be given, on the basis of individual clinical status, which should also include consideration of medicinal products already administered either for maintenance or acute treatment (see section 4.5).
+A second injection may be administered 2 hours after the first injection, on the basis of individual clinical status and no more than three injections should be given in any 24-hour period.
+
+The maximum daily dose of aripiprazole is 30 mg (including all formulations of aripiprazole).
+
+If continued treatment is indicated with oral aripiprazole, see the Summary of Product Characteristics for ABILIFY tablets, ABILIFY orodispersible tablets, or ABILIFY oral solution.
+
+Elderly: the effectiveness of ABILIFY solution for injection in patients who are 65 years of age or older has not been established.
+
+Gender: no dosage adjustment is required for female patients as compared to male patients (see section 5.2).

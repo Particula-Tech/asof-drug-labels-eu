@@ -33,3 +33,7 @@ Store in the original package in order to protect from moisture.
 [ABILIFY 1 mg/ml oral solution]
 
 This medicinal product does not require any special storage conditions.
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+Keep the vial in the outer carton in order to protect from light.

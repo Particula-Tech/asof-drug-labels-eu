@@ -56,3 +56,9 @@ Excipients: 200 mg fructose per ml
 400 mg sucrose per ml
 1.8 mg methyl parahydroxybenzoate (E218) per ml
 0.2 mg propyl parahydroxybenzoate (E216) per ml
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+Each ml contains 7.5 mg of aripiprazole.
+
+A vial contains 9.75 mg aripiprazole.

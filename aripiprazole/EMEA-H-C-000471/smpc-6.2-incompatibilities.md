@@ -33,3 +33,7 @@ Not applicable.
 [ABILIFY 1 mg/ml oral solution]
 
 The oral solution should not be diluted with other liquids or mixed with any food prior to administration.
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+(all sentences already above)

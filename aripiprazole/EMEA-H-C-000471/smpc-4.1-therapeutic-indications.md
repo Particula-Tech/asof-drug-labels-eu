@@ -33,3 +33,8 @@ Aripiprazole is indicated for the treatment of schizophrenia.
 [ABILIFY 1 mg/ml oral solution]
 
 (all sentences already above)
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+ABILIFY solution for injection is indicated for the rapid control of agitation and disturbed behaviours in patients with schizophrenia, when oral therapy is not appropriate.
+Treatment with aripiprazole solution for injection should be discontinued as soon as clinically appropriate and the use of oral aripiprazole should be initiated.

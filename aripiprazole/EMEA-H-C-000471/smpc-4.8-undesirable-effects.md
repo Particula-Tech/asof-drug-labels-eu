@@ -2,6 +2,7 @@
 
 The following undesirable effects occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*):
 The frequency listed below is defined using the following convention: common (> 1/100, < 1/10) and uncommon (> 1/1,000, < 1/100).
+
 Psychiatric disorders
 Common: restlessness, insomnia
 Nervous System disorders
@@ -57,8 +58,7 @@ Psychiatric disorders: cases of suicide attempt, suicidal ideation, and complete
 
 [ABILIFY 5 mg orodispersible tablets]
 
-Psychiatric disorders: cases of suicide attempt, suicidal ideation, and completed suicide have been
-reported post marketing (see section 4.4).
+(all sentences already above)
 
 [ABILIFY 10 mg orodispersible tablets]
 
@@ -75,3 +75,25 @@ reported post marketing (see section 4.4).
 [ABILIFY 1 mg/ml oral solution]
 
 The following undesirable effects occurred more often than placebo, or were identified as possibly medically relevant adverse reactions (*):
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+The following undesirable effects occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*) in clinical trials with aripiprazole solution for injection (see section 5.1):
+
+Common: somnolence, dizziness, headache, akathisia
+Common: tachycardia
+Common: nausea, dry mouth, vomiting
+Common: fatigue
+
+The following undesirable effects occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*) in clinical trials with oral formulations of aripiprazole (see section 5.1):
+
+| Immune system disorders: | allergic reaction (e.g. anaphylactic reaction, angioedema, pruritis, or urticaria) |
+| --- | --- |
+| Psychiatric disorders: | agitation, nervousness |
+| Nervous system disorders: | speech disorder |
+| Vascular disorders: | syncope |
+| Gastrointestinal disorders: | pancreatitis, increased salivation |
+| Musculoskeletal and connective tissue disorders: | rhabdomyolysis, myalgia, stiffness |
+| Reproductive system and breast disorders: | priapism |
+| General disorders and administration site conditions: | temperature regulation disorder (e.g. hypothermia, pyrexia), chest pain |
+| Investigations: | increased Creatine Phosphokinase, increased Alanine Aminotransferase (ALT), increased Aspartate Aminotransferase (AST), increased Gamma Glutamyl Transferase (GGT) |

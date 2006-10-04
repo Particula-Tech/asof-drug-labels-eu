@@ -38,3 +38,7 @@ Carton of 49 x 1 tablets in cold-formed aluminium perforated unit dose blisters.
 
 PET-bottles with polypropylene child-resistant closure containing 50, 150 or 480 ml per bottle.
 Each carton contains 1 bottle and a calibrated polypropylene measuring cup.
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+Each carton contains one single-use type I glass vial with a rubber butyl stopper and a "flip-off" aluminium seal.

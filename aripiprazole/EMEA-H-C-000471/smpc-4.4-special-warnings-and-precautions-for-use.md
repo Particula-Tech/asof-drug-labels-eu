@@ -29,6 +29,7 @@ Overall, 1.3% of aripiprazole-treated patients reported cerebrovascular adverse 
 This difference was not statistically significant.
 However, in one of these trials, a fixed-dose trial, there was a significant dose response relationship for cerebrovascular adverse events in patients treated with aripiprazole.
 ABILIFY is not approved for the treatment of dementia-related psychosis.
+
 Hyperglycaemia and Diabetes Mellitus: hyperglycaemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotic agents.
 In clinical trials with aripiprazole, there were no significant differences in the incidence rates of hyperglycaemia-related adverse events (including diabetes) or in abnormal glycaemia laboratory values compared to placebo.
 Precise risk estimates for hyperglycaemia-related adverse events in patients treated with ABILIFY and with other atypical antipsychotic agents are not available to allow direct comparisons.
@@ -49,10 +50,6 @@ Lactose: patients with rare hereditary problems of galactose intolerance, the la
 (all sentences already above)
 
 [ABILIFY 5 mg orodispersible tablets]
-
-The occurrence of suicidal behaviour is inherent in psychotic illnesses and in some cases has been
-reported early after initiation or switch of antipsychotic therapy, including treatment with aripiprazole
-(see section 4.8). Close supervision of high-risk patients should accompany antipsychotic therapy.
 
 Phenylketonurics: ABILIFY orodispersible tablets contain aspartame, a source of phenylalanine which may be harmful for people with phenylketonuria.
 
@@ -78,3 +75,15 @@ Patients with rare hereditary problems of fructose intolerance should not take t
 The oral solution contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
 The oral solution contains sucrose.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take the oral solution.
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+The efficacy of aripiprazole solution for injection in patients with agitation and disturbed behaviours has not been established related to conditions other than schizophrenia.
+
+Simultaneous administration of injectable antipsychotics and parenteral benzodiazepine may be associated with excessive sedation and cardiorespiratory depression.
+If parenteral benzodiazepine therapy is deemed necessary in addition to aripiprazole solution for injection, patients should be monitored for excessive sedation and for orthostatic hypotension (see section 4.5).
+
+Patients receiving aripiprazole solution for injection should be observed for orthostatic hypotension.
+Blood pressure, pulse, respiratory rate and level of consciousness should be monitored regularly.
+
+The safety and efficacy of aripiprazole solution for injection has not been evaluated in patients with alcohol or medicinal product intoxication (either with prescribed or illicit medicinal products).

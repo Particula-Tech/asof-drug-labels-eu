@@ -47,3 +47,11 @@ In clinical trials, accidental or intentional acute overdosage of aripiprazole w
 [ABILIFY 1 mg/ml oral solution]
 
 (all sentences already above)
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+In clinical trials, accidental or intentional acute overdosage of oral aripiprazole was identified in patients with estimated doses up to 1,080 mg with no fatalities.
+The reported signs and symptoms observed with oral aripiprazole overdose included nausea, vomiting, asthenia, diarrhea, and somnolence.
+
+During post-marketing experience, the potentially clinically important signs and symptoms observed in adult patients who overdosed with oral aripiprazole alone at doses up to 1,260 mg included lethargy, increased blood pressure, somnolence, tachycardia and vomiting.
+In addition, reports of accidental overdose with oral aripiprazole alone (up to 195 mg) in children have been received.

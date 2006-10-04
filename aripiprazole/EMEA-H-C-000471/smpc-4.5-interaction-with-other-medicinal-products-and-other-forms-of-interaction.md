@@ -27,6 +27,7 @@ Upon discontinuation of the CYP2D6 or 3A4 inhibitor, the dosage of ABILIFY shoul
 
 Following concomitant administration of carbamazepine, a potent inducer of CYP3A4, the geometric means of Cmax and AUC for aripiprazole were 68% and 73% lower, respectively, compared to when aripiprazole (30 mg) was administered alone.
 Similarly, for dehydro-aripiprazole the geometric means of Cmax and AUC after carbamazepine co-administration were 69% and 71% lower, respectively, than those following treatment with aripiprazole alone.
+
 ABILIFY dose should be doubled when concomitant administration of ABILIFY occurs with carbamazepine.
 Other potent inducers of CYP3A4 (such as rifampicin, rifabutin, phenytoin, phenobarbital, primidone, efavirenz, nevirapine and St. John's Wort) may be expected to have similar effects and similar dose increases should therefore be applied.
 Upon discontinuation of potent CYP3A4 inducers, the dosage of ABILIFY should be reduced to the recommended dose.
@@ -40,3 +41,43 @@ Additionally, aripiprazole and dehydro-aripiprazole did not show potential for a
 Thus, aripiprazole is unlikely to cause clinically important medicinal product interactions mediated by these enzymes.
 
 When aripiprazole was administered concomitantly with either valproate or lithium, there was no clinically important change in valproate or lithium concentrations.
+
+[ABILIFY 10 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg tablets]
+
+(all sentences already above)
+
+[ABILIFY 5 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 10 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 15 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 30 mg orodispersible tablets]
+
+(all sentences already above)
+
+[ABILIFY 1 mg/ml oral solution]
+
+(all sentences already above)
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+The administration of lorazepam solution for injection had no effect on the pharmacokinetics of aripiprazole solution for injection when administered concomitantly.
+However, in a single-dose, intramuscular study of aripiprazole (dose 15 mg) in healthy subjects, administered simultaneously with intramuscular lorazepam (dose 2 mg), the intensity of sedation was greater with the combination as compared to that observed with aripiprazole alone.
+
+The administration of aripiprazole solution for injection had no effect on the pharmacokinetics of lorazepam solution for injection when administered concomitantly.
+However, in a single-dose, intramuscular study of aripiprazole (dose 15 mg) in healthy subjects, administered simultaneously with intramuscular lorazepam (dose 2 mg), the orthostatic hypotension observed was greater with the combination as compared to that observed with lorazepam alone.

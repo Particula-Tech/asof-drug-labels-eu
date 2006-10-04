@@ -33,3 +33,7 @@ EU/1/04/276/030-032
 [ABILIFY 1 mg/ml oral solution]
 
 EU/1/04/276/033-035
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+EU/0/00/000/000

@@ -34,3 +34,8 @@
 
 2 years
 After first opening: 6 months.
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+18 months
+Use product immediately after opening and discard any unused amount.

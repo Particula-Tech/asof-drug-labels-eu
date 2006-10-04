@@ -58,3 +58,8 @@ Sucrose
 Purified water
 
 Natural orange cream with other natural flavours
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+Sulfobutylether β-cyclodextrin (SBECD)
+Water for injection

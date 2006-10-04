@@ -9,6 +9,7 @@ There is no effect of a high fat meal on the pharmacokinetics of aripiprazole.
 Distribution:
 Aripiprazole is widely distributed throughout the body with an apparent volume of distribution of 4.9 l/kg, indicating extensive extravascular distribution.
 At therapeutic concentrations, aripiprazole and dehydro-aripiprazole are greater than 99% bound to serum proteins, binding primarily to albumin.
+
 Metabolism:
 Aripiprazole is extensively metabolised by the liver primarily by three biotransformation pathways: dehydrogenation, hydroxylation, and N-dealkylation.
 Based on in vitro studies, CYP3A4 and CYP2D6 enzymes are responsible for dehydrogenation and hydroxylation of aripiprazole, and N-dealkylation is catalysed by CYP3A4.
@@ -30,7 +31,6 @@ There are no differences in the pharmacokinetics of aripiprazole between healthy
 
 Gender:
 There are no differences in the pharmacokinetics of aripiprazole between healthy male and female subjects nor is there any detectable effect of gender in a population pharmacokinetic analysis in schizophrenic patients.
-
 Smoking and Race:
 Population pharmacokinetic evaluation has revealed no evidence of clinically significant race-related differences or effects from smoking upon the pharmacokinetics of aripiprazole.
 
@@ -76,3 +76,9 @@ Aripiprazole is well absorbed when administered orally as the solution.
 At equivalent doses, the peak plasma concentrations of aripiprazole (Cmax) from the solution were somewhat higher but the systemic exposure (AUC) was equivalent to tablets.
 In a relative bioavailability study comparing the pharmacokinetics of 30 mg aripiprazole as the oral solution to 30 mg aripiprazole tablets in healthy subjects, the solution to the tablet ratio of geometric mean Cmax values was 122% (N = 30).
 The single-dose pharmacokinetics of aripiprazole were linear and dose-proportional.
+
+[ABILIFY 7.5 mg/ml solution for injection]
+
+Aripiprazole solution for injection administered intramuscularly as a single-dose to healthy subjects is well absorbed and has an absolute bioavailability of 100%.
+The aripiprazole AUC in the first 2 hours after an intramuscular injection was 90% greater than the AUC after the same dose as a tablet; systemic exposure was generally similar between the 2 formulations.
+In 2 studies in healthy subjects the median times to the peak plasma concentrations were 1 and 3 hours after dosing.
