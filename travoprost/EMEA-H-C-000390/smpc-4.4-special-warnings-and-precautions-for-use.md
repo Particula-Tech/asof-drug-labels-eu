@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 TRAVATAN may gradually change the eye colour by increasing the number of melanosomes (pigment granules) in melanocytes.
 Before treatment is instituted, patients must be informed of the possibility of a permanent change in eye colour.
@@ -21,12 +21,17 @@ There is no experience of TRAVATAN in inflammatory ocular conditions; nor in neo
 
 Caution is recommended when using Travatan in aphakic patients, pseudophakic patients with a torn posterior lens capsule or anterior chamber lenses, or in patients with known risk factors for cystoid macular oedema.
 
-Skin contact with TRAVATAN must be avoided as transdermal absorption of travoprost has been demonstrated in rabbits (see section 6.6).
+Skin contact with TRAVATAN must be avoided as transdermal absorption of travoprost has been demonstrated in rabbits.
 
 Benzalkonium chloride, which is commonly used as a preservative in ophthalmic products, has been reported to cause punctate keratopathy and/or toxic ulcerative keratopathy.
-Since TRAVATAN contains benzalkonium chloride, close monitoring is required with frequent or prolonged use in dry eye patients, or in conditions where the cornea is compromised.
+Since TRAVATAN contains benzalkonium chloride, close monitoring is required with frequent or prolonged use.
 
 In patients with known predisposing risk factors for iritis/uveitis, TRAVATAN can be used with caution.
+Prostaglandins and prostaglandin analogues are biologically active materials that may be absorbed through the skin.
+Women who are pregnant or attempting to become pregnant should exercise appropriate precautions to avoid direct exposure to the contents of the bottle.
+In the unlikely event of coming in contact with a substantial portion of the contents of the bottle, thoroughly cleanse the exposed area immediately
 
-As TRAVATAN contains the preservative benzalkonium chloride, this may cause irritation and is known to discolour soft contact lenses.
-Therefore, patients must remove contact lenses prior to application of TRAVATAN and be instructed to wait 15 minutes after instillation of TRAVATAN before inserting contact lenses.
+TRAVATAN contains benzalkonium chloride which may cause irritation and is known to discolour soft contact lenses.
+Contact with soft contact lenses is to be avoided.
+Patients must be instructed to remove contact lenses prior to application of TRAVATAN and wait 15 minutes after instillation of the dose before reinsertion.
+TRAVATAN contains polyoxyethylene hydrogenated castor oil 40 which may cause skin reactions.

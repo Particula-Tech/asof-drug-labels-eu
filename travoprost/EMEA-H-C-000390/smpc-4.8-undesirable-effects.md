@@ -12,7 +12,6 @@ Their incidence listed below is defined using the following convention: very com
 Ocular effects
 Very common: ocular hyperaemia, eyelash changes, including increased length, thickness, pigmentation and/or number of lashes.
 The mechanism of these changes and their long-term consequences are currently unknown.
-
 Common: ocular pruritus, ocular discomfort (transient burning or stinging upon instillation), ocular pain, dry eye, photophobia, foreign body sensation, flare, iris discolouration, cells, and keratitis.
 
 Uncommon: tearing, blurred vision, conjunctivitis, ocular irritation, decreased visual acuity, iritis, lid oedema, sticky sensation, blepharitis, browache, conjunctival follicles, conjunctival papillae, lid margin crusting, ocular fatigue, and uveitis.
@@ -21,6 +20,7 @@ Rare: Macular oedema*(see also section 4.4), abnormal hair growth on eyelids*.
 Systemic effects
 Body as a whole:
 Common: headache.
+
 Cardiovascular:
 Uncommon: hypotension and bradycardia.
 

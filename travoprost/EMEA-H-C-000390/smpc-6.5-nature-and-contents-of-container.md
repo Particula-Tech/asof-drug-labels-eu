@@ -1,6 +1,6 @@
 # 6.5 Nature and contents of container
 
-2.5 ml oval bottle with dispensing plug and screw cap, all polypropylene.
+2.5 ml oval bottle with dispensing plug and screw cap, all polypropylene, presented in an overwrap.
 
-The following pack sizes are available: cartons containing 1 or 3 bottles of 2.5 ml.
+Cartons containing 1 or 3 bottles.
 Not all pack sizes may be marketed.

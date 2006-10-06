@@ -2,4 +2,4 @@
 
 Eye drops, solution.
 
-TRAVATAN is a clear, colourless solution.
+Clear, colourless solution.
