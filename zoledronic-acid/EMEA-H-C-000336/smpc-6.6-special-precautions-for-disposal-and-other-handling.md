@@ -1,4 +1,4 @@
-# 6.6 Special precautions for disposal
+# 6.6 Special precautions for disposal and other handling
 
 The powder must first be reconstituted in the vial using 5 ml water for injections from the ampoule supplied.
 Dissolution must be complete before the solution is withdrawn.
