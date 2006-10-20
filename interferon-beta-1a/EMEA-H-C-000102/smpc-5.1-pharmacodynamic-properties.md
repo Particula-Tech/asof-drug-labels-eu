@@ -13,6 +13,7 @@ Interferon beta is produced by various cell types including fibroblasts and macr
 Natural interferon beta and AVONEX (interferon beta-1a) are glycosylated and have a single N-linked complex carbohydrate moiety.
 Glycosylation of other proteins is known to affect their stability, activity, biodistribution, and half-life in blood.
 However, the effects of interferon beta that are dependent on glycosylation are not fully defined.
+
 AVONEX exerts its biological effects by binding to specific receptors on the surface of human cells.
 This binding initiates a complex cascade of intracellular events that leads to the expression of numerous interferon-induced gene products and markers.
 These include MHC Class I, Mx protein,
@@ -21,7 +22,6 @@ Some of these products have been measured in the serum and cellular fractions of
 After a single intramuscular dose of AVONEX, serum levels of these products remain elevated for at least four days and up to one week.
 
 Whether the mechanism of action of AVONEX in MS is mediated by the same pathway as the biological effects described above is not known because the pathophysiology of MS is not well established.
-
 The effects of AVONEX in the treatment of MS were demonstrated in a placebo-controlled study of 301 patients (AVONEX n=158, placebo n=143) with relapsing MS. Due to the design of the study, patients were followed for variable lengths of time.
 One hundred and fifty AVONEX-treated patients completed one year on study and 85 completed two years on study.
 In the study, the cumulative percentage of patients who developed disability progression (by Kaplan-Meier life table analysis) by the end of two-years was 35% for placebo-treated patients and 22% for AVONEX-treated patients.

@@ -11,6 +11,6 @@ It is provided with a 1 ml pre-filled glass syringe of solvent for reconstitutio
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
-1 ml pre-filled syringe made of glass (Type I) with tip cap (approximately 10% Dry Natural Rubber) and plunger stopper (bromobutyl) containing 0.5 ml of solution.
+1 ml pre-filled syringe made of glass (Type I) with a tamper evident cap and plunger stopper (bromobutyl) containing 0.5 ml of solution.
 Pack size: box of four pre-filled syringes of 0.5 ml.
 Each syringe is packed in a sealed plastic tray which also contains one injection needle for intramuscular use.

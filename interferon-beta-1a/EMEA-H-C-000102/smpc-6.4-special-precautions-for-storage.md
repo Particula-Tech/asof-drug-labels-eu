@@ -14,4 +14,5 @@ See section 6.3 for shelf life and storage conditions after reconstitution.
 
 Store in a refrigerator (2 °C -8 oC).
 DO NOT FREEZE.
+Avonex can be stored at room temperature (between 150C and 300C) for up to one week.
 Store in the original package (sealed plastic tray) in order to protect from light (see section 6.5).

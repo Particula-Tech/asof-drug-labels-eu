@@ -22,7 +22,7 @@ The needle for intramuscular injection is provided.
 
 AVONEX is provided as ready to use solution for injection in a pre-filled syringe.
 
-Once removed from the refrigerator, AVONEX in a pre-filled syringe should be allowed to warm to room temperature (15-30 °C) for about 30 minutes and used within 12 hours.
+Once removed from the refrigerator, AVONEX in a pre-filled syringe should be allowed to warm to room temperature (15-30 °C) for about 30 minutes.
 Do not use external heat sources such as hot water to warm AVONEX 30 micrograms solution for injection.
 
 If the solution for injection contains particulate matter or if it is any colour other than clear colourless, the pre-filled syringe must not be used.

@@ -35,8 +35,7 @@ EXPERIENCE FROM STUDIES (clinical trials and observational studies, with a perio
 | uncommon | alopecia |
 | Musculoskeletal, connective tissue and bone disorders common | muscle cramp, neck pain, myalgia*, arthralgia, pain in extremity, back pain, muscle stiffness, musculoskeletal stiffness |
 | Reproductive system disorders uncommon | metrorrhagia, menorrhagia |
-| General disorders and administration site conditions very common | Flu-like symptoms, pyrexia*, chills*, sweating* |
-| common | injection site pain, injection site erythema, injection site bruising, asthenia*, pain, fatigue*, malaise, night sweats |
+| General disorders and administration site conditions very common common | Flu-like symptoms, pyrexia*, chills*, sweating* injection site pain, injection site erythema, injection site bruising, asthenia*, pain, fatigue*, malaise, night sweats |
 | uncommon | injection site burning |
 | Investigations common | lymphocyte count decreased, white blood cells count decreased, neutrophil count decreased, hematocrit decreased, blood potassium increased, blood urea nitrogen increased |
 | uncommon | platelet count decreased |
@@ -78,9 +77,7 @@ Other adverse reactions identified through spontaneous reporting, with unknown f
 | Skin and subcutaneous tissue disorders common | rash, sweating increased, contusion |
 | uncommon | alopecia |
 | Musculoskeletal, connective tissue and bone disorders common | muscle cramp, neck pain, myalgia*, arthralgia, pain in extremity, back pain, muscle stiffness, musculoskeletal stiffness |
-
 | Reproductive system disorders uncommon | metrorrhagia, menorrhagia |
-| --- | --- |
 | General disorders and administration site conditions very common | flu-like symptoms, pyrexia*, chills*, sweating* |
 | common | injection site pain, injection site erythema, injection site bruising, asthenia*, pain, fatigue*, malaise, night sweats |
 | uncommon | injection site burning |

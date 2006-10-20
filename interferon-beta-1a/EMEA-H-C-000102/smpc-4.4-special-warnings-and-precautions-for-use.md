@@ -1,13 +1,13 @@
 # 4.4 Special warnings and special precautions for use
 
-AVONEXshould be administered with caution to patients with previous or current depressive disorders in particular to those with antecedents of suicidal ideation (see section 4.3).
+AVONEX should be administered with caution to patients with previous or current depressive disorders in particular to those with antecedents of suicidal ideation (see section 4.3).
 Depression and suicidal ideation are known to occur in increased frequency in the multiple sclerosis population and in association with interferon use.
 Patients treated with AVONEX should be advised to immediately report any symptoms of depression and/or suicidal ideation to their prescribing physician.
+
 Patients exhibiting depression should be monitored closely during therapy with AVONEX and treated appropriately.
-Cessation of therapy with AVONEX should be considered (see also section 4.3 and 4.8).
+Cessation of therapy with Avonex should be considered (see also sections 4.3 and 4.8).
 
-AVONEX should be administered with caution to patients with a history of seizures, to those receiving treatment with anti-epileptics, particularly if their therapy is not adequately controlled with anti-epileptics (see sections 4.5 and 4.8).
-
+Avonex should be administered with caution to patients with a history of seizures, to those receiving treatment with anti-epileptics, particularly if their epilepsy is not adequately controlled with anti-epileptics (see sections 4.5 and 4.8).
 Caution should be used and close monitoring considered when administering AVONEX to patients with severe renal and hepatic failure and to patients with severe myelosuppression.
 
 Hepatic injury including elevated serum hepatic enzyme levels, hepatitis, autoimmune hepatitis and hepatic failure has been reported with interferon beta in post-marketing.
@@ -16,7 +16,6 @@ The potential of additive effects from multiple medicinal products or other hepa
 Patients should be monitored for signs of hepatic injury and caution exercised when interferons are used concomitantly with other medicinal products associated with hepatic injury.
 Patients with cardiac disease, such as angina, congestive heart failure or arrhythmia, should be closely monitored for worsening of their clinical condition during treatment with AVONEX.
 Flu-like symptoms associated with AVONEX therapy may prove stressful to patients with underlying cardiac conditions.
-
 Laboratory abnormalities are associated with the use of interferons.
 Therefore, in addition to those laboratory tests normally required for monitoring patients with MS, complete and differential white blood cell counts, platelet counts, and blood chemistry, including liver function tests, are recommended during AVONEX therapy.
 Patients with myelosuppression may require more intensive monitoring of complete blood cell counts, with differential and platelet counts.
@@ -31,20 +30,10 @@ The use of various assays to detect serum antibodies to interferons limits the a
 
 [AVONEX 30 micrograms powder and solvent for solution for injection]
 
-AVONEXshould be administered with caution in patients with previous or current depressive disorders, in particular to those with antecedents of suicidal ideation (see section 4.3).
-Patients treated with AVONEX should be advised to immediately report any symptom of depression and/or suicidal ideation to their prescribing physician.
-
-Avonex should be administered with caution to patients with a history of seizures, to those receiving treatment with anti-epileptics, particularly if their epilepsy is not adequately controlled with anti-epileptics (see sections 4.5 and 4.8).
-
 In some cases, these reactions have occurred in the presence of other medicinal products that have been associated with hepatic injury.
 
 It is estimated that the plateau for the incidence of neutralising antibody formation is reached after 12months of treatment.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
-AVONEXshould beadministered with caution in patients with previous or current depressive disorders in particular to those with antecedents of suicidal ideation (see section 4.3).
-Depression and suicidal ideation are known to occur in increased frequency in the multiple sclerosis population and in association with interferon use.Patients treated with AVONEX should be advised to immediately report any symptom of depression and/or suicidal ideation to their prescribing physician.
-
 Recent clinical studies with patients treated up to three years with AVONEX suggest that approximately 5% to 8% develop neutralising antibodies.
-
-The tip-cap of the pre-filled syringe contains dry natural rubber, which may cause allergic reactions.
