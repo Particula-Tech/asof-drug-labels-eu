@@ -13,6 +13,7 @@ Immediately activate needle protection device upon withdrawal of the needle from
 
 Visually confirm that the lever arm has fully advanced and the needle tip is covered.
 If unable to activate the safety needle, discard immediately into an approved sharps collector.
+
 SafetyGlide Information from Becton Dickinson
 
 WARNING: - Do not autoclave safety needle before use.

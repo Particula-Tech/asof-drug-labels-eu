@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
-Approximately 47% of patients experienced adverse reactions in the clinical trial programme.
-However, only 0.9% of patients stopped therapy because of an adverse reaction.
+Approximately 47 % of patients experienced adverse reactions in the clinical trial programme.
+However, only 0.9 % of patients stopped therapy because of an adverse reaction.
 The most commonly reported adverse reactions are hot flushes, nausea, and injection site reactions.
 The adverse reactions are summarised as follows:
 

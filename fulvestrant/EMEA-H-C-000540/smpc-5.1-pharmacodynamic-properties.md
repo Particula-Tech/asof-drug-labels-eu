@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: anti-oestrogen, ATC code: L02BA03
-
 Fulvestrant is an oestrogen receptor antagonist and binds to oestrogen receptors in a competitive manner with an affinity comparable with that of oestradiol.
 Fulvestrant blocks the trophic actions of oestrogens without itself having any partial agonist (oestrogen-like) activity.
 The mode of action is associated with down-regulation of oestrogen receptor (ER) protein.
@@ -9,6 +8,7 @@ Clinical trials in postmenopausal women with primary breast cancer have shown th
 There was also a significant decrease in progesterone receptor expression consistent with a lack of intrinsic oestrogen agonist effects.
 
 Effects on advanced breast cancer
+
 Two Phase III clinical trials were completed in a total of 851 postmenopausal women with advanced breast cancer who had disease recurrence on or after adjuvant endocrine therapy or progression following endocrine therapy for advanced disease.
 77% of the study population had oestrogen receptor positive breast cancer.
 These trials compared the safety and efficacy of monthly administration of 250 mg fulvestrant with a third-generation aromatase inhibitor, anastrozole, at a daily dose of 1 mg.
@@ -24,6 +24,7 @@ The hazard ratio of fulvestrant to anastrozole for time to death was 1.01 (95% C
 Analysis of results by ER status showed that the use of fulvestrant should be restricted to patients with ER positive breast cancer.
 
 Effects on the postmenopausal endometrium
+
 Preclinical data suggest that fulvestrant will not have a stimulatory effect on the postmenopausal endometrium.
 A 2-week study in healthy postmenopausal volunteers showed that compared to placebo, pre-treatment with 250 mg fulvestrant resulted in significantly reduced stimulation of the postmenopausal endometrium, as judged by ultrasound measurement of endometrium thickness, in volunteers treated with 20 micrograms per day ethinyl oestradiol.
 
@@ -34,4 +35,5 @@ In two studies with premenopausal patients with benign gynaecologic disease, no 
 However, the duration of treatment was short (1, and 12 weeks, respectively).
 
 Effects on bone
+
 There are no long-term data on the effect of fulvestrant on bone.
