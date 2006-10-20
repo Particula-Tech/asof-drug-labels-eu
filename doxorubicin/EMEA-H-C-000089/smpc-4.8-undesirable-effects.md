@@ -2,8 +2,7 @@
 
 The most common undesirable effect reported in breast/ovarian clinical trials (50 mg/m2 every 4 weeks) was palmar-plantar erythrodysesthesia (PPE).
 The overall incidence of PPE reported was 44.0 % - 46.1 %.
-These effects were mostly mild, with severe (Grade III) cases reported in 17 % -
-19.5 %.
+These effects were mostly mild, with severe (Grade III) cases reported in 17 % - 19.5 %.
 The reported incidence of life-threatening (Grade IV) cases was < 1 %.
 PPE infrequently resulted in permanent treatment discontinuation (3.7 % - 7.0 %).
 PPE is characterised by painful, macular reddening skin eruptions.
@@ -16,7 +15,8 @@ However, this reaction can be severe and debilitating in some patients and may r
 Stomatitis/mucositis and nausea were also commonly reported in breast/ovarian cancer patient populations, whereas the AIDS-KS Program (20 mg/m2 every 2 weeks), myelosuppression (mostly leukopaenia) was the most common side effect (see AIDS-KS).
 
 Breast cancer program: 509 patients with advanced breast cancer who had not received prior chemotherapy for metastatic disease were treated with Caelyx (n=254) at a dose of 50 mg/m2 every 4 weeks, or doxorubicin (n=255) at a dose of 60 mg/m2 every 3 weeks, in a phase III clinical trial (I97-328).
-The following common adverse events were reported more often with doxorubicin than with Caelyx: nausea (53 % vs. 37 %; Grade III/IV 5 % vs. 3 %), vomiting (31 % vs. 19 %; Grade III/IV 4 % vs. less than 1 %), any alopecia (66 % vs. 20 %), pronounced alopecia (54 % vs.7 %), and neutropaenia (10 % vs. 4 %; Grade III/IV 8 % vs. 2 %).
+The following common adverse events were reported more often with doxorubicin than with Caelyx: nausea (53 % vs. 37 %; Grade III/IV 5 % vs. 3 %), vomiting (31 % vs. 19 %; Grade III/IV
+4 % vs. less than 1 %), any alopecia (66 % vs. 20 %), pronounced alopecia (54 % vs.7 %), and neutropaenia (10 % vs. 4 %; Grade III/IV 8 % vs. 2 %).
 Mucositis (23 % vs. 13 %; Grade III/IV 4 % vs. 2 %), and stomatitis (22 % vs. 15 %; Grade III/IV 5 % vs. 2 %) were reported more commonly with Caelyx than with doxorubicin.
 The average duration of the most common severe (Grade III/IV) events for both groups was 30 days or less.
 See Table 4 for complete listing of undesirable effects reported in Caelyx-treated patients.
@@ -41,7 +41,9 @@ No clinically significant increases in serum creatinine were reported.
 | Gastrointestinal disorders Very Common | Nausea, stomatitis, vomiting |  |  |
 | Common | Abdominal pain, constipation, diarrhoea, dyspepsia, mouth ulceration | Abdominal pain, diarrhoea, nausea, stomatitis | Oral pain |
 | Uncommon |  | Mouth ulceration, constipation, Vomiting |  |
-| Skin and subcutaneous tissue disorders Very Common Common Uncommon | PPE*, alopecia, rash Dry skin, skin discolouration, pigmentation abnormal, erythema | PPE* Rash Pigmentation abnormal, erythema | Bullous eruption, dermatitis, erythematous rash, nail disorder, scaly skin |
+| Skin and subcutaneous tissue disorders Very Common | PPE*, alopecia, rash | PPE* |  |
+| Common | Dry skin, skin discolouration, pigmentation abnormal, | Rash | Bullous eruption, dermatitis, erythematous rash, nail |
+| Uncommon | erythema | Pigmentation abnormal, erythema | disorder, scaly skin |
 | Musculoskeletal and connective tissue disorders Common |  |  | Leg cramps, bone pain, musculoskeletal pain |
 | Reproductive system and breast disorders Common |  |  | Breast pain |
 | General disorders and administration site conditions Very Common | Asthenia, fatigue, mucositis NOS |  |  |
@@ -178,7 +180,8 @@ In this case, the dose interval may be extended by 1 - 2 weeks or the dose reduc
 An increased incidence of congestive heart failure is associated with doxorubicin therapy at cumulative lifetime doses > 450 mg/m2 or at lower doses for patients with cardiac risk factors.
 Endomyocardial biopsies on nine of ten AIDS-KS patients receiving cumulative doses of Caelyx greater than 460 mg/m2 indicate no evidence of anthracycline-induced cardiomyopathy.
 The recommended dose of Caelyx for AIDS-KS patients is 20 mg/m2 every two-to-three weeks.
-The cumulative dose at which cardiotoxicity would become a concern for these AIDS-KS patients (> 400 mg/m2) would require more than 20 courses of Caelyx therapy over 40 to 60 weeks.
+The cumulative dose at which cardiotoxicity would become a concern for these AIDS-KS patients
+(> 400 mg/m2) would require more than 20 courses of Caelyx therapy over 40 to 60 weeks.
 
 In addition, endomyocardial biopsies were performed in 8 solid tumour patients with cumulative anthracycline doses of 509 mg/m2 – 1,680 mg/m2 .
 The range of Billingham cardiotoxicity scores was grades 0 - 1.5.

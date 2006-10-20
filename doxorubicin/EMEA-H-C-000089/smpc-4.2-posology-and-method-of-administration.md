@@ -44,65 +44,23 @@ The table for haematological toxicity (Table 3) provides the schedule followed f
 Dose modification in patients with AIDS-KS is addressed in 4.8.
 Guidelines For Caelyx Dose Modification
 
-Table 1. PALMAR – PLANTAR ERYTHRODYSESTHESIA
-Week After Prior Caelyx Dose
-Toxicity Grade At Week 4 Week 5 Week 6
-Current Assessment
-Grade 1 Redose unless Redose unless Decrease dose by
-(mild erythema, patient has patient has 25 %; return to
-swelling, or experienced a experienced a 4 week interval
-desquamation not previous Grade 3 or previous Grade 3 or
-interfering with daily 4 skin toxicity, in 4 skin toxicity, in
-activities) which case wait an which case wait an
-additional week additional week
-Grade 2 Wait an additional Wait an additional Decrease dose by
-(erythema, week week 25 %; return to
-desquamation, or 4 week interval
-swelling interfering
-with, but not
-precluding normal
-physical activities;
-small blisters or
-ulcerations less than
-2 cm in diameter)
-Grade 3 Wait an additional Wait an additional Withdraw patient
-(blistering, ulceration, week week
-or swelling interfering
-with walking or
-normal daily
-activities; cannot wear
-regular clothing)
-Grade 4 Wait an additional Wait an additional Withdraw patient
-(diffuse or local week week
-process causing
-infectious
-complications, or a
-bedridden state or
-hospitalization)
-Table 2. STOMATITIS
-Week after Prior Caelyx Dose
-Toxicity Grade At 4 5 6
-Current Assessment
-Grade 1 Redose unless Redose unless Decrease dose by
-(painless ulcers, patient has patient has 25 %; return to
-erythema, or mild experienced a experienced a 4 week interval or
-soreness) previous Grade 3 or previous Grade 3 or withdraw patient per
-4 stomatitis in which 4 stomatitis in which physician’s
-case wait an case wait an assessment
-additional week additional week
-Grade 2 Wait an additional Wait an additional Decrease dose by
-(painful erythema, week week 25 %; return to
-oedema, or ulcers, but 4 week interval or
-can eat) withdraw patient per
-physician’s
-assessment
-Grade 3 Wait an additional Wait an additional Withdraw patient
-(painful erythema, week week
-edema, or ulcers, but
-cannot eat)
-Grade 4 Wait an additional Wait an additional Withdraw patient
-(requires parenteral or week week
-enteral support)
+| Table 1. PALMAR – PLANTAR ERYTHRODYSESTHESIA |  |  |  |
+| --- | --- | --- | --- |
+|  | Week After Prior Caelyx Dose |  |  |
+| Toxicity Grade At Current Assessment | Week 4 | Week 5 | Week 6 |
+| Grade 1 (mild erythema, swelling, or desquamation not interfering with daily activities) | Redose unless patient has experienced a previous Grade 3 or 4 skin toxicity, in which case wait an additional week | Redose unless patient has experienced a previous Grade 3 or 4 skin toxicity, in which case wait an additional week | Decrease dose by 25 %; return to 4 week interval |
+| Grade 2 (erythema, desquamation, or swelling interfering with, but not precluding normal physical activities; small blisters or ulcerations less than 2 cm in diameter) | Wait an additional week | Wait an additional week | Decrease dose by 25 %; return to 4 week interval |
+| Grade 3 (blistering, ulceration, or swelling interfering with walking or normal daily activities; cannot wear regular clothing) | Wait an additional week | Wait an additional week | Withdraw patient |
+| Grade 4 (diffuse or local process causing infectious complications, or a bedridden state or hospitalization) | Wait an additional week | Wait an additional week | Withdraw patient |
+
+| Table 2. STOMATITIS |  |  |  |
+| --- | --- | --- | --- |
+|  | Week after Prior Caelyx Dose |  |  |
+| Toxicity Grade At Current Assessment | 4 | 5 | 6 |
+| Grade 1 (painless ulcers, erythema, or mild soreness) | Redose unless patient has experienced a previous Grade 3 or 4 stomatitis in which case wait an additional week | Redose unless patient has experienced a previous Grade 3 or 4 stomatitis in which case wait an additional week | Decrease dose by 25 %; return to 4 week interval or withdraw patient per physician’s assessment |
+| Grade 2 (painful erythema, oedema, or ulcers, but can eat) | Wait an additional week | Wait an additional week | Decrease dose by 25 %; return to 4 week interval or withdraw patient per physician’s assessment |
+| Grade 3 (painful erythema, edema, or ulcers, but cannot eat) | Wait an additional week | Wait an additional week | Withdraw patient |
+| Grade 4 (requires parenteral or enteral support) | Wait an additional week | Wait an additional week | Withdraw patient |
 
 | Table 3. HAEMATOLOGICAL TOXICITY (ANC OR PLATELETS) – MANAGEMENT OF PATIENTS WITH BREAST OR OVARIAN CANCER |  |  |  |
 | --- | --- | --- | --- |

@@ -22,3 +22,7 @@ Pegylated placebo liposomes are neither mutagenic nor genotoxic.
 
 Reproductive toxicity: Caelyx resulted in mild to moderate ovarian and testicular atrophy in mice after a single dose of 36 mg/kg.
 Decreased testicular weights and hypospermia were present in rats after repeat doses ≥ 0.25 mg/kg/day and diffuse degeneration of the seminiferous tubules and a marked decrease in spermatogenesis were observed in dogs after repeat doses of 1 mg/kg/day (see section 4.6).
+
+Nephrotoxicity: A study has shown that Caelyx at a single intravenous dose of over twice the clinical dose produces renal toxicity in monkeys.
+Renal toxicity has been observed with even lower single doses of doxorubicin HCl in rats and rabbits.
+Since an evaluation of the post-marketing safety database for Caelyx in patients has not suggested a significant nephrotoxicity liability of Caelyx, these findings in monkeys may not have relevance to patient risk assessment.
