@@ -6,14 +6,13 @@ Each vial of Herceptin is reconstituted with 7.2 ml of sterile water for injecti
 Use of other reconstitution solvents should be avoided.
 This yields a 7.4 ml solution for single-dose use, containing approximately 21 mg/ml trastuzumab, at a pH of approximately 6.0.
 A volume overage of 4 % ensures that the labelled dose of 150 mg can be withdrawn from each vial.
-
 Herceptin should be carefully handled during reconstitution.
 Causing excessive foaming during reconstitution or shaking the reconstituted Herceptin may result in problems with the amount of Herceptin that can be withdrawn from the vial.
-
 Instructions for Reconstitution:
 1) Using a sterile syringe, slowly inject 7.2 ml of sterile water for injections in the vial containing the lyophilised Herceptin, directing the stream into the lyophilised cake.
 2) Swirl vial gently to aid reconstitution.
 DO NOT SHAKE!
+
 Slight foaming of the product upon reconstitution is not unusual.
 Allow the vial to stand undisturbed for approximately 5 minutes.
 The reconstituted Herceptin results in a colourless to pale yellow transparent solution and should be essentially free of visible particulates.

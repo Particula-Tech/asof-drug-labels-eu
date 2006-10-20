@@ -47,9 +47,9 @@ Skin and pruritus, sweating, nail disorder, dry skin, alopecia, acne, maculopapu
 
 appendages:
 Special senses: taste perversion
-
 In a further randomised clinical trial (M77001), patients with metastatic breast cancer received docetaxel, with or without Herceptin.
 The following table displays adverse events which were reported in ≥ 10% of patients, by study treatment:
+
 Table 1 Common Non-haematological Adverse Events Reported in ≥ 10% of Patients, by Study Treatment
 
 | Body System | Adverse Event | Herceptin plus docetaxel N = 92 (%) | docetaxel N = 94 (%) |
@@ -83,10 +83,10 @@ Table 2 Adverse Events Reported at 1 year in ≥ 1% of Patients, by Study Treatm
 | --- | --- | --- | --- |
 |  | Total Pts with at least one AE Total number of AEs | 792 (46) 2251 | 1179 (70) 5248 |
 | Musculoskeletal and connective tissue disorders | arthralgia* back pain* pain in extremity myalgia* bone pain shoulder pain chest wall pain muscle spasms* musculoskeletal pain | 98 (6) 59 (3) 45 (3) 17 (<1) 26 (2) 29 (2) 24 (1) 3 (<1) 11 (<1) | 137 (8) 91 (5) 60 (4) 63 (4) 49 (3) 30 (2) 26 (2) 45 (3) 17 (1) |
-| Infections and infestations | nasopharyngitis* influenza* upper respiratory tract infection* urinary tract infection rhinitis sinusitis cystitis pharyngitis bronchitis herpes zoster | 43 (3) 9 (<1) 20 (1) 13 (<1) 6 (<1) 5 (<1) 11 (<1) 9 (<1) 9 (<1) 9 (<1) | 135 (8) 69 (4) 46 (3) 39 (2) 36 (2) 26 (2) 19 (1) 20 (1) 18 (1) 17 (1) |
-| General disorders and administration site conditions | fatigue* oedema peripheral pyrexia* | 44 (3) 38 (2) 6 (<1) | 128 (8) 79 (5) 100 (6) |
+| Infections and infestations | nasopharyngitis* influenza* upper respiratory tract infection* urinary tract infection rhinitis sinusitis cystitis pharyngitis bronchitis | 43 (3) 9 (<1) 20 (1) 13 (<1) 6 (<1) 5 (<1) 11 (<1) 9 (<1) 9 (<1) | 135 (8) 69 (4) 46 (3) 39 (2) 36 (2) 26 (2) 19 (1) 20 (1) 18 (1) |
 |  | Total Pts with at least one AE Total number of AEs | 792 (46) 2251 | 1179 (70) 5248 |
-|  | asthenia* chills* chest pain* influenza illness oedema chest discomfort | 30 (2) - 22 (1) 3 (<1) 7 (<1) 2 (<1) | 75 (4) 85 (5) 45 (3) 40 (2) 18 (1) 20 (1) |
+|  | herpes zoster | 9 (<1) | 17 (1) |
+| General disorders and administration site conditions | fatigue* oedema peripheral pyrexia* asthenia* chills* chest pain* influenza illness oedema chest discomfort | 44 (3) 38 (2) 6 (<1) 30 (2) - 22 (1) 3 (<1) 7 (<1) 2 (<1) | 128 (8) 79 (5) 100 (6) 75 (4) 85 (5) 45 (3) 40 (2) 18 (1) 20 (1) |
 | Gastrointestinal disorders | diarrhoea* nausea* vomiting* abdominal pain constipation abdominal pain upper dyspepsia gastritis stomatitis | 16 (<1) 19 (1) 10 (<1) 16 (<1) 17 (<1) 15 (<1) 9 (<1) 11 (<1) 1 (<1) | 123 (7) 108 (6) 58 (3) 40 (2) 33 (2) 29 (2) 30 (2) 20 (1) 26 (2) |
 | Nervous system disorders | headache* dizziness* paraesthesia vertigo | 49 (3) 29 (2) 11 (<1) 7 (<1) | 161 (10) 60 (4) 29 (2) 25 (1) |
 | Vascular disorders | hot flush hypertension* lymphoedema | 84 (5) 35 (2) 40 (2) | 98 (6) 64 (4) 42 (3) |
@@ -96,9 +96,11 @@ Table 2 Adverse Events Reported at 1 year in ≥ 1% of Patients, by Study Treatm
 | Psychiatric | insomnia depression anxiety | 31 (2) 34 (2) 19 (1) | 58 (3) 51 (3) 39 (2) |
 | Cardiac disorders | palpitations* cardiac failure congestive tachycardia | 12 (<1) 5 (<1) 5 (<1) | 48 (3) 30 (2) 20 (1) |
 | Investigations | ejection fraction decreased* weight increased | 11 (<1) 17 (<1) | 58 (3) 29 (2) |
+|  | Total Pts with at least one AE Total number of AEs | 792 (46) 2251 | 1179 (70) 5248 |
 | Renal and urinary disorders | dysuria | 2 (<1) | 17 (1) |
 
 * Adverse Events that were reported at higher incidence (>_2 % difference) in the Herceptin group compared with the observation group and therefore may be attributable to Herceptin.
+
 The following information is relevant to all indications:
 
 Serious Adverse Reactions
@@ -125,7 +127,6 @@ Other signs and/or symptoms may include nausea, hypertension, vomiting, pain, ri
 These symptoms are usually mild to moderate in severity, and occur infrequently with subsequent Herceptin infusions.
 These symptoms can be treated with an analgesic/antipyretic such as meperidine or paracetamol, or an antihistamine such as diphenhydramine (see 4.2).
 Some adverse reactions to Herceptin infusion including dyspnoea, hypotension, wheezing, bronchospasm, supraventricular tachyarrythmia, reduced oxygen saturation and respiratory distress can be serious and potentially fatal (see 4.4).
-
 Allergic-like and hypersensitivity reactions
 Allergic reactions, anaphylaxis and anaphylactic shock, urticaria and angioedema occurring during the first infusion of Herceptin, have been reported rarely.
 Over a third of these patients had a negative re-challenge and continued to receive Herceptin.
@@ -134,6 +135,7 @@ Some of these reactions can be serious and potentially fatal (see 4.4).
 Serious pulmonary events
 Single cases of pulmonary infiltrates, pneumonia, pulmonary fibrosis, pleural effusion, respiratory distress, acute pulmonary oedema, acute respiratory distress syndrome (ARDS) and respiratory insufficiency have been reported rarely.
 These events have been reported rarely with fatal outcome (see 4.4).
+
 Cardiac toxicity
 Reduced ejection fraction and signs and symptoms of heart failure, such as dyspnoea, orthopnoea, increased cough, pulmonary oedema, and S3 gallop, have been observed in patients treated with Herceptin.
 (see 4.4).
@@ -163,13 +165,13 @@ The percentage of patients with at least one significant LVEF drop (decrease of 
 Haematological toxicity
 Haematological toxicity was infrequent following the administration of Herceptin as a single agent in the metastatic setting, WHO Grade 3 leucopenia, thrombocytopenia and anaemia occurring in < 1 % of patients.
 No WHO Grade 4 toxicities were observed.
-
 There was an increase in WHO Grade 3 or 4 haematological toxicity in patients treated with the combination of Herceptin and paclitaxel compared with patients receiving paclitaxel alone (34 % versus 21 %).
 Haematological toxicity was also increased in patients receiving Herceptin and docetaxel, compared with docetaxel alone (32 % grade 3/4 neutropenia versus 22 %, using NCI-CTC criteria).
 Note that this is likely to be an underestimate since docetaxel alone at a dose of 100mg/m2 is known to result in neutropenia in 97 % of patients, 76% grade 4, based on nadir blood counts.
 The incidence of febrile neutropenia/neutropenic sepsis was also increased in patients treated with Herceptin plus docetaxel (23 % versus 17 % for patients treated with docetaxel alone).
 
 Using NCI-CTC criteria, in the HERA trial, 0.4% of Herceptin-treated patients experienced a shift of 3 or 4 grades from baseline, compared with 0.6% in the observation arm.
+
 Hepatic and renal toxicity
 WHO Grade 3 or 4 hepatic toxicity was observed in 12 % of patients following administration of Herceptin as single agent, in the metastatic setting.
 This toxicity was associated with progression of disease in the liver in 60 % of these patients.

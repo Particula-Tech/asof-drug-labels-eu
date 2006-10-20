@@ -10,12 +10,12 @@ The extracellular domain of the receptor (ECD, p105) can be shed into the blood 
 Trastuzumab has been shown, in both in vitro assays and in animals, to inhibit the proliferation of human tumour cells that overexpress HER2.
 Additionally, trastuzumab is a potent mediator of antibody-dependent cell-mediated cytotoxicity (ADCC).
 In vitro, trastuzumab-mediated ADCC has been shown to be preferentially exerted on HER2 overexpressing cancer cells compared with cancer cells that do not overexpress HER2.
-
 Detection of HER2 overexpression or HER2 gene amplification
 Herceptin should only be used in patients whose tumours have HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay.
 HER2 overexpression should be detected using an immunohistochemistry (IHC)-based assessment of fixed tumour blocks (see 4.4).
 HER2 gene amplification should be detected using fluorescence in situ hybridisation (FISH) or chromogenic in situ hybridisation (CISH) of fixed tumour blocks.
 Patients are eligible for Herceptin treatment if they show strong HER2 overexpression as described by a 3+ score by IHC or a positive FISH or CISH result.
+
 To ensure accurate and reproducible results, the testing must be performed in a specialised laboratory, which can ensure validation of the testing procedures.
 
 The recommended scoring system to evaluate the IHC staining patterns is as follows:
@@ -86,9 +86,9 @@ EBC
 
 Early breast cancer is defined as non-metastatic primary invasive carcinoma of the breast.
 Early breast cancer in the HERA trial was limited to operable, primary, invasive adenocarcinoma of the breast, with axillary nodes positive or axillary nodes negative if tumours at least 1 cm in diameter.
-
 In the adjuvant setting, Herceptin was investigated in a multicentre, randomised, trial (HERA) designed to compare one year of three-weekly Herceptin treatment versus observation in patients with HER2 positive early breast cancer following surgery, established chemotherapy and radiotherapy (if applicable).
 Patients assigned to receive Herceptin were given an initial loading dose of 8 mg/kg, followed by 6 mg/kg every three weeks for one year.
+
 The efficacy results from the Hera trial are summarized in the following table:
 
 | Parameter | Observation N=1693 | Herceptin 1 Year N = 1693 | P-value vs Observation | Hazard Ratio vs Observation |
@@ -112,6 +112,5 @@ After Herceptin and paclitaxel therapy for metastatic breast cancer in patients 
 | Abdomen Bone Chest Liver Lung Dist. Node Mediastinum CNS Other | 0 17.2 5.7 21.8 16.1 3.4 4.6 12.6 4.6 | 0 16.3 13.0 45.7 18.5 6.5 2.2 6.5 9.8 | - 0.986 0.250 0.004 0.915 0.643 0.667 0.377 0.410 |
 
 *Patients may have had multiple sites of disease progression
-
 The frequency of progression in the liver was significantly reduced in patients treated with the combination of Herceptin and paclitaxel.
 More patients treated with Herceptin and paclitaxel progressed in the central nervous system than those treated with paclitaxel alone.

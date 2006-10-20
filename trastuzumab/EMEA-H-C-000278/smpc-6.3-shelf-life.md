@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-3 years
+4 years
 
 After reconstitution with sterile water for injections the reconstituted solution is physically and chemically stable for 48 hours at 2°C – 8°C.
 Any remaining reconstituted solution should be discarded.
