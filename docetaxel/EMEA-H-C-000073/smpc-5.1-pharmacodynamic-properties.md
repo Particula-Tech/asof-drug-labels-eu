@@ -25,7 +25,7 @@ After stratification according to the number of positive lymph nodes (1-3, 4+), 
 Both regimens were administered once every 3 weeks for 6 cycles.
 TAXOTERE was administered as a 1-hour infusion, all other drugs were given as IV bolus on day one.
 G-CSF was administered as secondary prophylaxis to patients who experienced complicated neutropenia (febrile neutropenia, prolonged neutropenia, or infection).
-Patients on the TAC arm received antibiotic prophylaxis with ciprofloxacin 500 mg orally b.i.d. for 10 days starting on day 5 of each cycle, or equivalent.
+Patients on the TAC arm received antibiotic prophylaxis with ciprofloxacin 500 mg orally twice daily for 10 days starting on day 5 of each cycle, or equivalent.
 In both arms, after the last cycle of chemotherapy, patients with positive estrogen and/or progesterone receptors received tamoxifen 20 mg daily for up to 5 years.
 Adjuvant radiation therapy was prescribed according to guidelines in place at participating institutions and was given to 69% of patients who received TAC and 72% of patients who received FAC.
 An interim analysis was performed with a median follow up of 55 months.
@@ -146,11 +146,7 @@ Results on these end-points were supportive of the primary end-points results.
 For Taxotere/Carboplatin combination, neither equivalent nor non-inferior efficacy could be proven compared to the reference treatment combination VCis.
 Prostate Cancer
 
-The safety and efficacy of TAXOTERE in combination with prednisone or prednisolone in patients
-
-with hormone refractory metastatic prostate cancer were evaluated in a randomized multicenter Phase KM
-
-III trial.
+The safety and efficacy of TAXOTERE in combination with prednisone or prednisolone in patients with hormone refractory metastatic prostate cancer were evaluated in a randomized multicenter Phase III trial.
 A total of 1006 patients with KPS≥60 were randomized to the following treatment groups:
 
 - TAXOTERE 75 mg/m2 every 3 weeks for 10 cycles.
@@ -187,18 +183,26 @@ Time to progression (TTP) was the primary endpoint.
 The risk reduction of progression was 32.1% and was associated with a significantly longer TTP (p=0.0004) in favor of the TCF arm.
 Overall survival was also significantly longer (p=0.0201) in favor of the TCF arm with a risk reduction of mortality of 22.7%.
 Efficacy results are summarized in the following table:
-
 Efficacy of TAXOTERE in the treatment of patients with gastric adenocarcinoma
 
-| Endpoint | TCF n=221 | CF N=224 |
-| --- | --- | --- |
-| Median TTP (months) (95%CI) Hazard ratio (95%CI) *p-value | 5.6 (4.86-5.91) | 3.7 (3.45-4.47) |
-|  | 1.473 (1.189-1.825) 0.0004 |  |
-| Median survival (months) (95%CI) 2-year estimate (%) Hazard ratio (95%CI) *p-value | 9.2 (8.38-10.58) 18.4 | 8.6 (7.16-9.46) 8.8 |
-|  | 1.293 (1.041-1.606) 0.0201 |  |
-| Overall Response Rate (CR+PR) (%) p-value | 36.7 | 25.4 |
-|  | 0.0106 |  |
-| Progressive Disease as Best Overall Response (%) | 16.7 | 25.9 |
+Endpoint TCF CF
+n=221 N=224
+Median TTP (months) 5.6 3.7
+(95%CI) (4.86-5.91) (3.45-4.47)
+Hazard ratio 1.473
+(95%CI) (1.189-1.825)
+*p-value 0.0004
+Median survival (months) 9.2 8.6
+(95%CI) (8.38-10.58) (7.16-9.46)
+2-year estimate (%) 18.4 8.8
+Hazard ratio 1.293
+(95%CI) (1.041-1.606)
+*p-value 0.0201
+Overall Response Rate (CR+PR) (%) 36.7 25.4
+p-value 0.0106
+Progressive Disease as Best Overall
+16.7 25.9
+Response (%)
 
 *Unstratified logrank test
 
@@ -209,11 +213,42 @@ A survival update analysis conducted with a median follow-up time of 41.6 months
 Overall, quality of life (QoL) and clinical benefit results consistently indicated improvement in favor of the TCF arm.
 Patients treated with TCF had a longer time to 5% definitive deterioration of global health status on the QLQ-C30 questionnaire (p=0.0121) and a longer time to definitive worsening of Karnofsky performance status (p=0.0088) compared to patients treated with CF.
 
-[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+Head and neck cancer
+The safety and efficacy of TAXOTERE in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a phase III, multicenter, open-label, randomized trial (TAX323).
+In this study, 358 patients with inoperable locally advanced SCCHN, and WHO perfomance status 0 or 1, received either Taxotere 75 mg/m2 followed by cisplatin 75 mg/m2 followed by 5-fluorouracil 750 mg/m2 per day as a continuous infusion for 5 days (TPF) or cisplatin 100 mg/m2 followed by 5-fluorouracil 1000 mg/m2 (PF) per day for 5 days.
+These regimens were administered every three weeks for 4 cycles in case at least a minor response (≥ 25 % reduction in bidimensionally measured tumour size) was observed after 2 cycles.
+At the end of chemotherapy, with a minimal interval of 4 weeks and a maximal interval of 7 weeks, patients whose disease did not progress received radiotherapy (RT) according to institutional guidelines for 7 weeks.
+Locoregional therapy with radiation was delivered either with a conventional fraction (1.8 Gy-2.0 Gy once a day, 5 days per week for a total dose of 66 to 70 Gy), or accelerated/hyperfractionated regimens of radiation therapy (twice a day, with a minimum interfraction interval of 6 hours, 5 days per week).
+A total of 70 Gy was recommended for accelerated regimens and 74 Gy for hyperfractionated schemes.
+Surgical resection was allowed following chemotherapy, before or after radiotherapy.
+Patients on the TPF arm received antibiotic prophylaxis with ciprofloxacin 500 mg orally twice daily for 10 days starting on day 5 of each cycle, or equivalent.
+The primary endpoint in this study, progression-free survival (PFS), was significantly longer in the TPF arm compared to the PF arm, p=0.0042 (median PFS: 11.4 vs. 8.3 months respectively) with an overall median follow up time of 33.7 months.
+Median overall survival was also significantly longer in favor of the TPF arm compared to the PF arm (median OS: 18.6 vs. 14.5 months respectively) with a 28% risk reduction of mortality, p=0.0128.
+Efficacy results are presented in the table below:
 
-Two randomised phase III comparative studies, involving a total of 326 alkylating or 392 anthracycline failure metastatic breast cancer patients, have been performed with docetaxel at the recommended dose and regimen of 100 mg/m² every 3 weeks.
+Efficacy of TAXOTERE in the induction treatment of patients with inoperable locally advanced SCCHN (Intent-to-Treat Analysis)
 
-  The median TTP was 37.3 weeks (95%CI :33.4 - 42.1) in AT arm and 31.9 weeks (95%CI : 27.4 - 36.0) in AC arm.
-  The ORR was 59.3% (95%CI : 52.8 - 65.9) in AT arm versus 46.5% (95%CI : 39.8 - 53.2) in AC arm.
+| Endpoint | TAXOTERE+ Cis+5-FU n=177 | Cis+5-FU n=181 |
+| --- | --- | --- |
+| Median progression free survival (months) (95%CI) Adjusted Hazard ratio (95%CI) *p-value | 11.4 (10.1-14.0) | 8.3 (7.4-9.1) |
+|  | 0.70 (0.55-0.89) 0.0042 |  |
+| Median survival (months) (95%CI) Hazard ratio (95%CI) **p-value | 18.6 (15.7-24.0) | 14.5 (11.6-18.7) |
+|  | 0.72 (0.56-0.93) 0.0128 |  |
+| Best overall response to chemotherapy (%) (95%CI) ***p-value | 67.8 (60.4-74.6) | 53.6 (46.0-61.0) |
+|  | 0.006 |  |
+| Best overall response to study treatment [chemotherapy +/- radiotherapy] (%) (95%CI) ***p-value | 72.3 (65.1-78.8) | 58.6 (51.0-65.8) |
+|  | 0.006 |  |
+| Median duration of response to chemotherapy ± radiotherapy (months) (95%CI) Hazard ratio (95%CI) **p-value | n=128 15.7 (13.4-24.6) | n=106 11.7 (10.2-17.4) |
+|  | 0.72 (0.52-0.99) 0.0457 |  |
 
-The safety and efficacy of TAXOTERE in combination with prednisone or prednisolone in patients with hormone refractory metastatic prostate cancer were evaluated in a randomized multicenter Phase III trial.
+A Hazard ratio of less than 1 favors TAXOTERE+Cisplatin+5-FU
+*Cox model (adjustment for Primary tumor site, T and N clinical stages and PSWHO) **Logrank test
+*** Chi-square test
+
+Quality of life parameters
+Patients treated with TPF experienced significantly less deterioration of their Global health score compared to those treated with PF (p=0.01, using the EORTC QLQ-C30 scale).
+
+Clinical benefit parameters
+The performance status scale, for head and neck (PSS-HN) subscales designed to measure understandability of speech, ability to eat in public, and normalcy of diet, was significantly in favor of TPF as compared to PF.
+Median time to first deterioration of WHO performance status was significantly longer in the TPF arm compared to PF.
+Pain intensity score improved during treatment in both groups indicating adequate pain management

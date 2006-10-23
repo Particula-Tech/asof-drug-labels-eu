@@ -5,12 +5,12 @@ The use of gloves is recommended.
 
 If TAXOTERE concentrate, premix solution or infusion solution should come into contact with skin, wash immediately and thoroughly with soap and water.
 If TAXOTERE concentrate, premix solution or infusion solution should come into contact with mucous membranes, wash immediately and thoroughly with water.
-
 Preparation for the intravenous administration
 
 a) Preparation of the TAXOTERE premix solution (10 mg docetaxel/ml)
 
 If the vials are stored under refrigeration, allow the required number of TAXOTERE boxes to stand at room temperature for 5 minutes.
+
 Using a syringe fitted with a needle, aseptically withdraw the entire contents of the solvent for TAXOTERE vial by partially inverting the vial.
 
 Inject the entire contents of the syringe into the corresponding TAXOTERE vial.

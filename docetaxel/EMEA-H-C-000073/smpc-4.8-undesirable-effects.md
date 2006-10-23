@@ -9,7 +9,8 @@ The adverse reactions considered to be possibly or probably related to the admin
 - 255 patients who received TAXOTERE in combination with capecitabine,
 - 332 patients who received TAXOTERE in combination with prednisone or prednisolone (clinically important treatment related adverse events are presented).
 - 744 patients who received TAXOTERE in combination with doxorubicin and cyclophosphamide (clinically important treatment related adverse events are presented).
-- 300 patients (221 patients in the phase III part of the study and 79 patients in the phase II part) who received TAXOTERE in combination with cisplatin and 5-fluorouracil (clinically important treatment related adverse events are presented).
+- 300 gastric adenocarcinoma patients (221 patients in the phase III part of the study and 79 patients in the phase II part) who received TAXOTERE in combination with cisplatin and 5-fluorouracil (clinically important treatment related adverse events are presented).
+- 174 head and neck cancer patients who received TAXOTERE in combination with cisplatin and 5-fluorouracil (clinically important treatment related adverse events are presented).
 
 These reactions were described using the NCI Common Toxicity Criteria (grade 3 = G3; grade3-4 = G3/4; grade 4 = G4) and the COSTART terms.
 Frequencies are defined as: very common (> 1/10), common (> 1/100, < 1/10); uncommon (> 1/1,000, < 1/100); rare (> 1/10,000, < 1/1,000); very rare
@@ -18,7 +19,6 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 The most commonly reported adverse reactions of TAXOTERE alone are: neutropenia (which was reversible and not cumulative; the median day to nadir was 7 days and the median duration of severe neutropenia (<500 cells/mm3) was 7 days), anemia, alopecia, nausea, vomiting, stomatits, diarrhea and asthenia.
 The severity of adverse events of TAXOTERE may be increased when taxotere is given in combination with other chemotherapeutic agents.
-
 For combination with trastuzumab, adverse events (all grades) reported in ≥ 10% are displayed.
 There was an increased incidence of SAEs (40% vs. 31%) and Grade 4 AEs (34% vs. 23%) in the trastuzumab combination arm compared to TAXOTERE monotherapy.
 
@@ -67,6 +67,8 @@ Peripheral motor neuropathy (G3/4:
 4%)
 Dysgeusia (severe 0.07%)
 Cardiac disorders Arrhythmia (G3/4: 0.7%)
+MedDRA System Organ classes Very common side effects Common side effects
+≥ 10 % of patients 1 to 10 % of patients
 Vascular disorders Hypotension;
 Hypertension;
 Haemorrhage
@@ -111,7 +113,6 @@ Very rare: one case of alopecia non-reversible at the end of the study.
 General disorders and administration site conditions:
 The median cumulative dose to treatment discontinuation was more than 1,000 mg/m2 and the median time to fluid retention reversibility was 16.4 weeks (range 0 to 42 weeks).
 The onset of moderate and severe retention is delayed (median cumulative dose: 818.9 mg/m2) in patients with premedication compared with patients without premedication (median cumulative dose: 489.7 mg/m2); however, it has been reported in some patients during the early courses of therapy.
-
 TAXOTERE 75mg/m² single agent:
 
 MedDRA System Organ classes Very common side effects Common side effects
@@ -142,33 +143,61 @@ Investigations G3/4 Blood bilirubin increased
 
 TAXOTERE 75mg/m² in combination with doxorubicin:
 
-| MedDRA System Organ classes | Very common side effects ≥ 10 % of patients | Common side effects 1 to 10 % of patients | Uncommon side effects 0.1 to 1 % of patients |
-| --- | --- | --- | --- |
-| Infections and infestations | Infection (G3/4: 7.8%) |  |  |
-| Blood and the lymphatic system disorders | Neutropenia (G4: 91.7%); Anaemia (G3/4: 9.4%); Febrile neutropenia; Thrombocytopenia (G4: 0.8%) |  |  |
-| Immune system disorders |  | Hypersensitivity (G3/4: 1.2%) |  |
-| Metabolism and nutrition disorders |  | Anorexia |  |
-| Nervous system disorders | Peripheral sensory neuropathy (G3: 0.4%) | Peripheral motor neuropathy (G3/4: 0.4%) |  |
-| Cardiac disorders |  | Cardiac failure; Arrhythmia (no severe) |  |
-| Vascular disorders |  |  | Hypotension |
-| Gastrointestinal disorders | Nausea (G3/4: 5%); Stomatitis (G3/4: 7.8%); Diarrhoea (G3/4: 6.2%); Vomiting (G3/4: 5%); Constipation |  |  |
-| Skin and subcutaneous tissue disorders | Alopecia; Nail disorders (severe 0.4%); Skin reaction (no severe) |  |  |
-| Musculoskeletal, connective tissue and bone disorders |  | Myalgia |  |
-| General disorders and administration site conditions | Asthenia (severe 8.1%); Fluid retention (severe 1.2%); Pain | Infusion site reaction |  |
-| Investigations |  | G3/4 Blood bilirubin increased (<2.5%); G3/4 Blood alkaline phosphatase increased (<2.5%) | G3/4 AST increased (<1%); G3/4 ALT increased (<1%) |
+MedDRA System Organ Very common side effects Common side effects Uncommon side effects
+classes ≥ 10 % of patients 1 to 10 % of patients 0.1 to 1 % of patients
+Infections and infestations Infection (G3/4: 7.8%)
+Blood and the lymphatic Neutropenia (G4: 91.7%);
+system disorders Anaemia (G3/4: 9.4%);
+Febrile neutropenia;
+Thrombocytopenia (G4:
+0.8%)
+Immune system disorders Hypersensitivity (G3/4:
+1.2%)
+Metabolism and nutrition Anorexia
+disorders
+Nervous system disorders Peripheral sensory Peripheral motor
+neuropathy (G3: 0.4%) neuropathy (G3/4: 0.4%)
+Cardiac disorders Cardiac failure;
+Arrhythmia (no severe)
+Vascular disorders Hypotension
+Gastrointestinal disorders Nausea (G3/4: 5%);
+Stomatitis (G3/4: 7.8%);
+Diarrhoea (G3/4: 6.2%);
+Vomiting (G3/4: 5%);
+Constipation
+Skin and subcutaneous tissue Alopecia;
+disorders Nail disorders (severe
+0.4%); Skin reaction (no
+MedDRA System Organ Very common side effects Common side effects Uncommon side effects
+classes ≥ 10 % of patients 1 to 10 % of patients 0.1 to 1 % of patients
+severe)
+Musculoskeletal, connective Myalgia
+tissue and bone disorders
+General disorders and Asthenia (severe 8.1%); Infusion site reaction
+administration site conditions Fluid retention (severe
+1.2%);
+Pain
+Investigations G3/4 Blood bilirubin G3/4 AST increased
+increased (<2.5%); (<1%);
+G3/4 Blood alkaline G3/4 ALT increased
+phosphatase increased (<1%)
+(<2.5%)
 
 TAXOTERE 75mg/m² in combination with cisplatin:
 
-| MedDRA System Organ classes | Very common side effects ≥ 10 % of patients | Common side effects 1 to 10 % of patients | Uncommon side effects 0.1 to 1 % of patients |
-| --- | --- | --- | --- |
-| Infections and infestations | Infection (G3/4: 5.7%) |  |  |
-| Blood and the lymphatic system disorders | Neutropenia (G4: 51.5%); Anaemia (G3/4: 6.9%); Thrombocytopenia (G4:0.5%) | Febrile neutropenia |  |
-| Immune system disorders | Hypersensitivity (G3/4: 2.5%) |  |  |
-| Metabolism and nutrition disorders | Anorexia |  |  |
-| Nervous system disorders | Peripheral sensory neuropathy (G3: 3.7%); |  |  |
-
 MedDRA System Organ Very common side effects Common side effects Uncommon side effects
 classes ≥ 10 % of patients 1 to 10 % of patients 0.1 to 1 % of patients
+Infections and infestations Infection (G3/4: 5.7%)
+Blood and the lymphatic Neutropenia (G4: 51.5%); Febrile neutropenia
+system disorders Anaemia (G3/4: 6.9%);
+Thrombocytopenia
+(G4:0.5%)
+Immune system disorders Hypersensitivity (G3/4:
+2.5%)
+Metabolism and nutrition Anorexia
+disorders
+Nervous system disorders Peripheral sensory
+neuropathy (G3: 3.7%);
 Peripheral motor
 neuropathy (G3/4: 2%)
 Cardiac disorders Arrhythmia (G3/4: 0.7%) Cardiac failure
@@ -196,20 +225,26 @@ G3/4 ALT increased G3/4 Blood alkaline
 
 TAXOTERE 100mg/m² in combination with trastuzumab:
 
-| MedDRA System Organ classes |  | Very common side effects ≥ 10 % of patients |
-| --- | --- | --- |
-| Blood and the lymphatic system disorders | Neutropenia (G3/4: 32%); Febrile neutropenia (includes neutropenia associated with fever and antibiotic use) or neutropenic sepsis ; |  |
-| Metabolism and nutrition disorders | Anorexia |  |
-| Psychiatric disorders | Insomnia |  |
-| Nervous system disorders | Paresthesia; Headache; Dysgeusia; Hypoaesthesia |  |
-| Eye disorders | Lacrimation increased; Conjunctivitis |  |
-| Vascular disorders | Lymphoedema |  |
-| Respiratory, thoracic and mediastinal disorders | Epistaxis; Pharyngolaryngeal pain; Nasopharyngitis ; Dyspnoea; Cough; Rhinorrhoea |  |
-| Gastrointestinal disorders | Nausea; Diarrhoea; Vomiting; Constipation; Stomatitis; Dyspepsia; Abdominal pain |  |
-| Skin and subcutaneous tissue disorders | Alopecia; Erythema; Rash; Nail disorders |  |
-| Musculoskeletal, connective tissue and bone disorders | Myalgia; Arthralgia; Pain in extremity; Bone pain; Back pain |  |
-| General disorders and administration site conditions | Asthenia; Oedema peripheral; Pyrexia; Fatigue; Mucosal inflammation; Pain; Influenza like illness; Chest pain; Chills |  |
-| Investigations | Weight increased |  |
+MedDRA System Organ classes Very common side effects
+≥ 10 % of patients
+Blood and the lymphatic system disorders Neutropenia (G3/4: 32%);
+Febrile neutropenia (includes neutropenia associated with fever
+and antibiotic use) or neutropenic sepsis ;
+Metabolism and nutrition disorders Anorexia
+Psychiatric disorders Insomnia
+Nervous system disorders Paresthesia; Headache; Dysgeusia; Hypoaesthesia
+Eye disorders Lacrimation increased; Conjunctivitis
+Vascular disorders Lymphoedema
+Respiratory, thoracic and mediastinal Epistaxis; Pharyngolaryngeal pain; Nasopharyngitis ; Dyspnoea;
+disorders Cough; Rhinorrhoea
+Gastrointestinal disorders Nausea; Diarrhoea; Vomiting; Constipation; Stomatitis;
+Dyspepsia; Abdominal pain
+Skin and subcutaneous tissue disorders Alopecia; Erythema; Rash; Nail disorders
+Musculoskeletal, connective tissue and bone Myalgia; Arthralgia; Pain in extremity; Bone pain; Back pain
+disorders
+General disorders and administration site Asthenia; Oedema peripheral; Pyrexia; Fatigue; Mucosal
+conditions inflammation; Pain; Influenza like illness; Chest pain; Chills
+Investigations Weight increased
 
 Blood and the lymphatic system disorders:
 Very common: Haematological toxicity was increased in patients receiving trastuzumab and docetaxel, compared with docetaxel alone (32% grade 3/4 neutropenia versus 22%, using NCI-CTC criteria).
@@ -239,6 +274,8 @@ Diarrhoea (G3/4: 14%); Dry mouth
 Nausea (G3/4: 6%);
 Vomiting (G3/4: 4%);
 Constipation (G3/4: 1%);
+MedDRA System Organ classes Very common side effects Common side effects
+≥ 10 % of patients 1 to 10 % of patients
 Abdominal pain (G3/4: 2%);
 Dyspepsia
 Nervous system disorders Dysgeusia (G3/4: <1%); Dizziness;
@@ -267,8 +304,6 @@ MedDRA System Organ classes Very common side effects Common side effects
 ≥ 10 % of patients 1 to 10 % of patients
 Infections and infestations Infection (G3/4: 3.3%)
 Blood and the lymphatic system disorders Neutropenia (G3/4: 32%); Thrombocytopenia; (G3/4: 0.6%);
-MedDRA System Organ classes Very common side effects Common side effects
-≥ 10 % of patients 1 to 10 % of patients
 Anaemia (G3/4: 4.9%) Febrile neutropenia
 Immune system disorders Hypersensitivity (G3/4: 0.6%)
 Metabolism and nutrition disorders Anorexia (G3/4: 0.6%)
@@ -323,9 +358,6 @@ Eye disorders Lacrimation disorder (G3/4:
 0.1%);
 Conjunctivitis (G3/4: 0.3%)
 Cardiac disorders Arrhythmia (G3/4: 0.1%);
-MedDRA System Organ Very common side Common side effects Uncommon side effects
-classes effects 1 to 10 % of patients 0.1 to 1 % of patients
-≥ 10 % of patients
 Vascular disorders Vasodilatation (G3/4: Hypotension (G3/4: 0%) Phlebitis (G3/4: 0%);
 0.9%) Lymphoedema (G3/4: 0%)
 Respiratory, thoracic and Cough (G3/4: 0%)
@@ -368,7 +400,8 @@ Amenorrhoea was observed to be ongoing at the median follow-up time of 55 months
 
 General disorders and administration site conditions:
 Oedema peripheral was observed to be ongoing at the median follow-up time of 55 months in 18 patients out of the 112 patients with oedema peripheral at the end of the chemotherapy.
-TAXOTERE 75mg/m² in combination with cisplatin and 5-fluorouracil:
+
+TAXOTERE 75mg/m² in combination with cisplatin and 5-fluorouracil for gastric adenocarcinoma cancer:
 
 MedDRA System Organ classes Very common side effects Common side effects
 ≥ 10 % of patients 1 to 10 % of patients
@@ -405,6 +438,50 @@ Blood and the lymphatic system disorders:
 Febrile neutropenia and neutropenic infection occurred in 17.2% and 13.5% of patients respectively, regardless of G-CSF use.
 G-CSF was used for secondary prophylaxis in 19.3% of patients (10.7% of the cycles).
 Febrile neutropenia and neutropenic infection occurred respectively in 12.1% and 3.4% of patients when patients received prophylactic G-CSF, in 15.6% and 12.9% of patients without prophylactic G-CSF, (see section 4.2).
+
+TAXOTERE 75mg/m² in combination with cisplatin and 5-fluorouracil (for Head and Neck) cancer):
+
+MedDRA System Organ classes Very common side effects Common side effects
+≥ 10 % of patients 1 to 10 % of patients
+Neoplasms benign and malignant Cancer pain (G3/4: 0.6%)
+(including cysts and polyps)
+Infections and infestations Infection (G3/4:6.3%)
+Neutropenic infection
+Blood and the lymphatic system Neutropenia (G3/4:76.3%) Febrile neutropenia
+disorders Anemia (G3/4:9.2)
+Thrombocytopenia
+(G3/4:5.2%)
+Immune system disorders Hypersensitivity (no severe)
+Metabolism and nutrition disorders Anorexia (G3/4:0.6%)
+Nervous system disorders Dysgeusia/Parosmia Dizziness
+Peripheral sensory neuropathy
+(G3/4:0.6%)
+Lethargy (G3/4:3.4%).
+Eye disorders Lacrimation increased
+Conjunctivitis
+Vascular disorders Venous disorder (G3/4:0.6%)
+Ear and labyrinth disorders Hearing impaired
+Cardiac disorders Myocardial ischemia (G3/4:1.7%)
+Arrhythmia
+Gastrointestinal disorders Nausea (G3/4:0.6%) Constipation
+Stomatitis (G3/4;4.0%) Esophagitis/dysphagia/
+Diarrhea (G3/4:2.9%) odynophagia (G3/4:0.6%)
+Vomiting (G3/4:0.6%) Abdominal pain
+Dyspepsia
+Gastrointestinal haemorrhage
+(G3/4:0.6%)
+Skin and subcutaneous tissue Alopecia (G3/4:10.9%). Rash pruritic
+disorders Dry skin
+Skin exfoliative (G3/4:0.6%)
+Musculoskeletal, connective tissue Myalgia (G3/4:0.6%)
+and bone disorders
+General disorders and administration Pyrexia (G3/4:0.6%)
+site conditions Fluid retention
+Oedema
+Investigations Weight increased
+
+Cardiac disorders:
+Uncommon: Arrhythmia (G3/4:0.6%)
 
 Post-Marketing Experience:
 

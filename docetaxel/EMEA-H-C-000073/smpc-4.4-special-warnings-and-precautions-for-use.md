@@ -61,7 +61,6 @@ For more details see Summary of Product Characteristics of trastuzumab.
 Others
 
 Contraceptive measures must be taken during and for at least three months after cessation of therapy.
-
 Additional cautions for use in adjuvant treatment of breast cancer
 Complicated neutropenia
 For patients who experience complicated neutropenia (prolonged neutropenia, febrile neutropenia or infection), G-CSF and dose reduction should be considered (see section 4.2).
@@ -70,17 +69,16 @@ Symptoms such as early abdominal pain and tenderness, fever, diarrhea, with or w
 Congestive heart failure
 Patients should be monitored for symptoms of congestive heart failure during therapy and during the follow up period.
 Leukemia
-In the TAXOTERE, doxorubicin and cyclophosphamide (TAC) treated patients, the risk of delayed myelodysplasia or myeloid leukaemia requires haematological follow-up.
-
+In the TAXOTERE, doxorubicin and cyclophosphamide (TAC) treated patients, the risk of delayed myelodysplasia or myeloid leukemia requires haematological follow-up.
 Patients with 4+ nodes
 The benefit/risk ratio for TAC in patients with 4+ nodes was not defined fully at the interim analysis (see section 5.1).
-
 Elderly
 There are no data available in patients>70 years of age on TAXOTERE use in combination with doxorubicin and cyclophosphamide.
 
 Of the 333 patients treated with TAXOTERE every three weeks in a prostate cancer study, 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
 In patients treated with TAXOTERE every three weeks, the incidence of related nail changes occurred at a rate ≥ 10% higher in patients who were 65 years of age or greater compared to younger patients.
 The incidence of related fever, diarrhea, anorexia, and peripheral edema occurred at rates ≥ 10% higher in patients who were 75 years of age or greater versus less than 65 years.
+
 Among the 300 (221 patients in the phase III part of the study and 79 patients in the phase II part) patients treated with TAXOTERE in combination with cisplatin and 5-fluorouracil in the gastric cancer study, 74 were 65 years of age or older and 4 patients were 75 years of age or older.
 The incidence of serious adverse events was higher in the elderly patients compared to younger patients.
 The incidence of the following adverse events (all grades): lethargy, stomatitis, neutropenic infection occurred at rates ≥ 10% higher in patients who were 65 years of age or older compared to younger patients.
