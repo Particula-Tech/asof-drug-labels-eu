@@ -40,7 +40,6 @@ The NCCLS MIC breakpoints are as follows:
 The prescribers are informed that local MIC breakpoints, if available, should be consulted.
 
 Microbiological Susceptibility
-
 The prevalence of acquired resistance may vary geographically and with time for selected species and local information on resistance is desirable, particularly when treating severe infections.
 Localized clusters of infections due to carbapenem-resistant organisms have been reported in the European Union.
 The information below gives only approximate guidance on the probability as to whether the micro-organism will be susceptible to ertapenem or not.
@@ -112,8 +111,7 @@ The proportion of patients with a favorable clinical response assessment at post
 |  | 13 to 17 years | 3/3 | 100.0 | 3/3 | 100.0 |
 | Disease Stratum | Age Stratum | Ertapenem |  | Ticarcillin/clavulanate |  |
 |  |  | n/m | % | n/m | % |
-| Intraabdominal Infections | 2 to 12 years | 28/34 | 82.4 | 7/9 | 77.8 |
-| (IAI) |  |  |  |  |  |
+| Intraabdominal Infections (IAI) | 2 to 12 years | 28/34 | 82.4 | 7/9 | 77.8 |
 |  | 13 to 17 years | 15/16 | 93.8 | 4/6 | 66.7 |
 | Acute Pelvic Infections (API) | 13 to 17 years | 25/25 | 100.0 | 8/8 | 100.0 |
 | † . This includes 9 patients in the ertapenem group (7 CAP and 2 IAI), 2 patients in the ceftriaxone group (2 CAP), and 1 patient with IAI in the ticarcillin/clavulanate group with secondary bacteremia at entry into the study. |  |  |  |  |  |

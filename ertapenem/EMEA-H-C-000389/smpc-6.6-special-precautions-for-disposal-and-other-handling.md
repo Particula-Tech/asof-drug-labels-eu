@@ -11,7 +11,7 @@ Adults and adolescents (13 to 17 years of age):
 Reconstitution:
 Reconstitute the contents of a 1 g vial of INVANZ with 10 ml of water for injection or sodium chloride 9 mg/ml (0.9 %) solution to yield a reconstituted solution of approximately 100 mg/ml.
 Shake well to dissolve.
-(See section 6.4)
+(See section 6.4 .)
 2.
 Dilution:
 For a 50 ml bag of diluent: For a 1 g dose, immediately transfer contents of the reconstituted vial to a 50 ml bag of sodium chloride 9 mg/ml (0.9 %) solution; or

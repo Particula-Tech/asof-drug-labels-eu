@@ -12,5 +12,4 @@ Treatment of the following infections when caused by bacteria known or very like
 Prevention
 
 INVANZ is indicated in adults for the prophylaxis of surgical site infection following elective colorectal surgery.
-
 Consideration should be given to official guidance on the appropriate use of antibacterial agents.

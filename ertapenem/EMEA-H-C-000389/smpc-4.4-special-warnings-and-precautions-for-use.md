@@ -15,10 +15,15 @@ Therefore, it is important to consider this diagnosis in patients who present wi
 Discontinuation of therapy with INVANZ and the administration of specific treatment for Clostridium difficile should be considered.
 Medicinal products that inhibit peristalsis should not be given.
 
+Seizures have been reported during clinical investigation in adult patients treated with ertapenem sodium (1g once a day) during therapy or in the 14-day follow-up period.
+Seizures occurred most commonly in elderly patients and those with pre-existing CNS disorders (e.g., brain lesions or history of seizures) and/or compromised renal function.
+Similar observations have been made in the post-marketing environment.
+
 The efficacy of INVANZ in the treatment of community acquired pneumonia due to penicillin-resistant Streptococcus pneumoniae has not been established.
 There is relatively little experience with ertapenem in children less than two years of age.
 In this age group, particular care should be taken to establish the susceptibility of the infecting organism(s) to ertapenem.
 No data are available in children under 3 months of age.
+
 Experience in the use of ertapenem in the treatment of severe infections is limited.
 In clinical studies for the treatment of community-acquired pneumonia, in adults, 25 % of evaluable patients treated with ertapenem had severe disease (defined as pneumonia severity index > III).
 In a clinical study for the treatment of acute gynaecologic infections, in adults, 26 % of evaluable patients treated with ertapenem had severe disease (defined as temperature ≥ 39°C and/or bacteraemia); ten patients had bacteraemia.
