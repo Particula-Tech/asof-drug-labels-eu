@@ -8,6 +8,7 @@ Steady state is achieved after 4–7 days of dosing.
 Repeated dosing does not result in accumulation of the compound or metabolites.
 Absorption is not influenced by food intake.
 Absolute bioavailability is greater than 80 %.
+
 Distribution:
 
 The estimated volume of distribution in humans is 0.25 l/kg.
@@ -17,16 +18,15 @@ Pioglitazone and all active metabolites are extensively bound to plasma protein 
 Metabolism:
 
 Pioglitazone undergoes extensive hepatic metabolism by hydroxylation of aliphatic methylene groups.
-This is predominantly via cytochrome P450 3A4 and 2C9 although multiple other isoforms are involved to a lesser degree.
+This is predominantly via cytochrome P4502C8 although other isoforms may be involved to a lesser degree.
 Three of the six identified metabolites are active (M-II, M-III, and M-IV).
 When activity, concentrations and protein binding are taken into account, pioglitazone and metabolite M-III contribute equally to efficacy.
 On this basis M-IV contribution to efficacy is approximately three-fold that of pioglitazone, whilst the relative efficacy of M-II is minimal.
-
 In vitro studies have shown no evidence that pioglitazone inhibits any subtype of cytochrome P450.
 There is no induction of the main inducible P450 isoenzymes 1A, 2C8/9, and 3A4 in man.
 
 Interaction studies have shown that pioglitazone has no relevant effect on either the pharmacokinetics or pharmacodynamics of digoxin, warfarin, phenprocoumon and metformin.
-It is therefore not expected that inducers or inhibitors of P450 isoenzymes will alter pioglitazone or active metabolites in a significant way.
+Concomitant administration of pioglitazone with gemfibrozil (an inhibitor of cytochrome P450 2C8) or with rifampicin (an inducer of cytochrome P450 2C8) is reported to increase or decrease, respectively, the plasma concentration of pioglitazone (see section 4.5).
 
 Elimination:
 
@@ -47,3 +47,11 @@ Patients with hepatic impairment:
 
 Total plasma concentration of pioglitazone is unchanged, but with an increased volume of distribution.
 Intrinsic clearance is therefore reduced, coupled with a higher unbound fraction of pioglitazone.
+
+[Actos 30 mg tablets.]
+
+This is predominantly via cytochrome P450 2C8 although other isoforms may be involved to a lesser degree.
+
+[Actos 45 mg tablets.]
+
+(all sentences already above)

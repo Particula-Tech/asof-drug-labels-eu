@@ -2,7 +2,7 @@
 
 Pioglitazone is contraindicated in patients with:
 
-- known hypersensitivity to pioglitazone or to any of the excipients of the tablet
+- hypersensitivity to the active substance or to any of the excipients
 - cardiac failure or history of cardiac failure (NYHA stages I to IV)
 - hepatic impairment.
 

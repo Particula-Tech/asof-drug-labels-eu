@@ -1,13 +1,13 @@
 # 4.8 Undesirable effects
 
 Adverse reactions reported in excess (> 0.5 %) of placebo and as more than an isolated case in patients receiving pioglitazone in double-blind studies are listed below as MedDRA preferred term by system organ class and absolute frequency.
-Frequencies are defined as: common > 1/100, < 1/10; uncommon > 1/1000, < 1/100; rare > 1/10000, < 1/1000; very rare < 1/10000; not known (cannot be estimated from the available data).
+Frequencies are defined as: very common >1/10; common > 1/100, < 1/10; uncommon > 1/1000, < 1/100; rare > 1/10000, < 1/1000; very rare < 1/10000; not known (cannot be estimated from the available data).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 MONOTHERAPY
 Eye disorders
 
 Common: visual disturbance
-
 Infection and infestations
 
 Common: upper respiratory tract infection
@@ -25,7 +25,6 @@ Common: hypoaesthesia
 Uncommon: insomnia
 
 PIOGLITAZONE IN COMBINATION WITH METFORMIN
-
 Blood and lymphatic system disorders
 
 Common: anaemia
@@ -37,6 +36,7 @@ Common: visual disturbance
 Gastrointestinal disorders
 
 Uncommon: flatulence
+
 Investigations
 
 Common: weight increased
@@ -58,11 +58,9 @@ Reproductive system and breast disorders
 Common: erectile dysfunction
 
 PIOGLITAZONE IN COMBINATION WITH SULPHONYLUREA
-
 Ear and labyrinth disorders
 
 Uncommon: vertigo
-
 Eye disorders
 
 Uncommon: visual disturbance
@@ -90,6 +88,7 @@ Nervous system disorders
 Common: dizziness
 
 Uncommon: headache
+
 Renal and urinary disorders
 
 Uncommon: glycosuria, proteinuria
@@ -98,12 +97,24 @@ Skin and subcutaneous tissue disorders
 
 Uncommon: sweating
 
+PIOGLITAZONE IN TRIPLE ORAL COMBINATION THERAPY WITH METFORMIN AND SULPHONYLUREA
+
+Investigations
+
+Common: weight increased, blood creatine phosphokinase increased
+
+Metabolism and nutrition disorders
+
+Very common: hypoglycaemia
+
+Musculoskeletal and connective tissue disorders
+
+Common: arthralgia
+
 POST-MARKETING DATA
 
 Eye disorders
-
 Macular oedema: not known
-
 Oedema was reported in 6 – 9 % of patients treated with pioglitazone over one year in controlled clinical trials.
 The oedema rates for comparator groups (sulphonylurea, metformin) were 2 – 5 %.
 The reports of oedema were generally mild to moderate and usually did not require discontinuation of treatment.

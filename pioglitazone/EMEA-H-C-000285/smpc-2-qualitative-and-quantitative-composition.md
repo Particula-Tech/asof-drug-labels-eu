@@ -2,7 +2,7 @@
 
 Each tablet contains 15 mg of pioglitazone as hydrochloride.
 
-For excipients, see 6.1.
+For a full list of excipients, see 6.1.
 
 [Actos 30 mg tablets.]
 

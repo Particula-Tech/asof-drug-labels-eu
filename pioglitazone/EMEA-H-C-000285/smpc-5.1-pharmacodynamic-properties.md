@@ -5,6 +5,7 @@ Pharmacotherapeutic group: oral blood glucose lowering drugs; Thiazolidinediones
 Pioglitazone effects may be mediated by a reduction of insulin resistance.
 Pioglitazone appears to act via activation of specific nuclear receptors (peroxisome proliferator activated receptor gamma) leading to increased insulin sensitivity of liver, fat and skeletal muscle cells in animals.
 Treatment with pioglitazone has been shown to reduce hepatic glucose output and to increase peripheral glucose disposal in the case of insulin resistance.
+
 Fasting and postprandial glycaemic control is improved in patients with type 2 diabetes mellitus.
 The improved glycaemic control is associated with a reduction in both fasting and postprandial plasma insulin concentrations.
 A clinical trial of pioglitazone vs. gliclazide as monotherapy was extended to two years in order to assess time to treatment failure (defined as appearance of HbA1c ≥ 8.0 % after the first six months of therapy).
@@ -29,3 +30,11 @@ In a 20-week study, as well as reducing fasting triglycerides, pioglitazone redu
 These effects were independent of pioglitazone’s effects on glycaemia and were statistically significant different to glibenclamide.
 
 An outcome study is underway with pioglitazone, and until this is completed the long-term benefits associated with improved metabolic control have not been demonstrated.
+
+[Actos 30 mg tablets.]
+
+(all sentences already above)
+
+[Actos 45 mg tablets.]
+
+These effects were independent of pioglitazone’s effects on glycaemia and were statistically significant different to glibenclamide.+

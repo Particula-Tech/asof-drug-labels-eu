@@ -5,3 +5,10 @@ Co-administration of pioglitazone with sulphonylureas does not appear to affect 
 Studies in man suggest no induction of the main inducible cytochrome P450, 1A, 2C8/9 and 3A4.
 In vitro studies have shown no inhibition of any subtype of cytochrome P450.
 Interactions with substances metabolised by these enzymes, e.g. oral contraceptives, cyclosporin, calcium channel blockers, and HMGCoA reductase inhibitors are not to be expected.
+
+Co-administration of pioglitazone with gemfibrozil (an inhibitor of cytochrome P450 2C8) is reported to result in a 3-fold increase in AUC of pioglitazone.
+Since there is a potential for an increase in dose-related adverse events, a decrease in the dose of pioglitazone may be needed when gemfibrozil is concomitantly administered.
+Close monitoring of glycaemic control should be considered (see section 4.4).
+Co-administration of pioglitazone with rifampicin (an inducer of cytochrome P450 2C8) is reported to result in a 54% decrease in AUC of pioglitazone.
+The pioglitazone dose may need to be increased when rifampicin is concomitantly administered.
+Close monitoring of glycaemic control should be considered (see section 4.4).
