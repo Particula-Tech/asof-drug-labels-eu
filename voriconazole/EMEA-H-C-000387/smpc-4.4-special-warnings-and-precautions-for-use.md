@@ -57,6 +57,8 @@ Dose reduction of methadone may be needed (see section 4.5).
 Coadministration of voriconazole and low dose ritonavir (100 mg twice daily) should be avoided unless an assessment of the benefit/risk justifies the use of voriconazole.
 (see section 4.5, for higher doses see section 4.3).
 
+Efavirenz (CYP450 inducer; CYP3A4 inhibitor and substrate): When voriconazole is coadministered with efavirenz the dose of voriconazole should be increased to 400 mg every 12 hours and that of efavirenz should be decreased to 300 mg every 24 hours (see section 4.5; for contraindication with standard doses of voriconazole and efavirenz see section 4.3).
+
 VFEND tablets contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.
 
 [VFEND 200 mg film-coated tablets]

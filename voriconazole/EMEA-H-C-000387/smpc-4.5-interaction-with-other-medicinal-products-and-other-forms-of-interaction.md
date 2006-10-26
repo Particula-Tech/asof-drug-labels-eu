@@ -13,7 +13,6 @@ Inhibitors or inducers of these isoenzymes may increase or decrease voriconazole
 
 Rifampicin (CYP450 inducer): Rifampicin (600 mg once daily) decreased the Cmax (maximum plasma concentration) and AUCτ (area under the plasma concentration time curve within a dose interval) of voriconazole by 93 % and 96 %, respectively.
 Coadministration of voriconazole and rifampicin is contraindicated (see section 4.3).
-
 Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate): The effect of the coadministration of oral voriconazole (200 mg twice daily) and high dose (400 mg) and low dose (100 mg) oral ritonavir was investigated in two separate studies in healthy volunteers.
 High doses of ritonavir (400 mg twice daily) decreased the steady state Cmax and AUCτ of oral voriconazole by an average of 66% and 82%,, whereas low doses of ritonavir (100 mg twice daily) decreased the Cmax and AUCτ of voriconazole by an average of 24% and 39% respectively.
 Administration of voriconazole did not have a significant effect on mean Cmax and AUCτ of ritonavir in the high dose study,although a minor decrease in steady state Cmax and AUCτ of ritonavir with an average of 25% and 13% respectively was observed in the low dose ritonavir interaction study.
@@ -46,11 +45,11 @@ Coadministration of voriconazole and sirolimus is contraindicated (see section 4
 
 Ergot alkaloids (CYP3A4 substrates): Although not studied, voriconazole may increase the plasma concentrations of ergot alkaloids (ergotamine and dihydroergotamine) and lead to ergotism.
 Coadministration of voriconazole with ergot alkaloids is contraindicated (see section 4.3).
-
 Ciclosporin (CYP3A4 substrate): In stable, renal transplant recipients, voriconazole increased ciclosporin Cmax and AUCτ by at least 13 % and 70 % respectively.
 When initiating voriconazole in patients already receiving ciclosporin it is recommended that the ciclosporin dose be halved and ciclosporin level carefully monitored.
 Increased ciclosporin levels have been associated with nephrotoxicity.
 When voriconazole is discontinued, ciclosporin levels must be carefully monitored and the dose increased as necessary.
+
 Methadone (CYP3A4 substrate): In subjects receiving a methadone maintenance dose (32-100img once daily) coadministration of oral voriconazole (400img twice daily for 1 day, then 200img twice daily for four days) increased the Cmax and AUCτ of pharmacologically active R-methadone by 31% and 47%, respectively, whereas the Cmax and AUCτ of the S-enantiomer increased by approximately 65% and 103%, respectively.
 Voriconazole plasma concentrations during coadministration of methadone were comparable to voriconazole levels (historical data) in healthy subjects without any comedication.
 Frequent monitoring for adverse events and toxicity related to increased plasma concentrations of methadone, including QT prolongation, is recommended during coadministration.
@@ -81,11 +80,11 @@ Therefore, voriconazole is likely to increase the plasma levels of benzodiazepin
 It is recommended that dose adjustment of the benzodiazepine be considered during coadministration.
 
 Vinca Alkaloids (CYP3A4 substrates): Although not studied, voriconazole may increase the plasma levels of the vinca alkaloids (e.g. vincristine and vinblastine) and lead to neurotoxicity.
-
 Prednisolone (CYP3A4 substrate): Voriconazole increased Cmax and AUCτ of prednisolone (60 mg single dose) by 11% and 34%, respectively.
 No dosage adjustment is recommended.
 
 Digoxin (P-glycoprotein mediated transport): Voriconazole had no significant effect on Cmax and AUCτ of digoxin (0.25 mg once daily).
+
 Mycophenolic acid (UDP-glucuronyl transferase substrate): Voriconazole had no effect on the Cmax and AUCt of mycophenolic acid (1 g single dose).
 
 Two-way interactions
@@ -117,11 +116,11 @@ It is expected that the voriconazole levels will return to standard levels durin
 As the ratio between norethisterone and ethinylestradiol remained similar during interaction with voriconazole, their contraceptive activity would probably not be affected.
 Although no increase in the incidence of hormonal related adverse events was observed in the clinical interaction study, higher estrogen and progestagen levels may cause notably nausea and menstrual disorders.
 Oral contraceptives containing doses other than 1 mg norethisterone and 0.035 mg ethinylestradiol have not been studied.
-
 Antiretroviral Agents:
 
 Indinavir (CYP3A4 inhibitor and substrate): Indinavir (800 mg three times daily) had no significant effect on voriconazole Cmax , Cmin and AUCτ.
 Voriconazole did not have a significant effect on Cmax and AUCτ of indinavir (800mg three times daily).
+
 Other HIV protease inhibitors (CYP3A4 inhibitors): In vitro studies suggest that voriconazole may inhibit the metabolism of HIV protease inhibitors (e.g. saquinavir, amprenavir and nelfinavir).
 In vitro studies also show that the metabolism of voriconazole may be inhibited by HIV protease inhibitors.
 However results of the combination of voriconazole with other HIV protease inhibitors cannot be predicted in humans only from in vitro studies.
@@ -129,7 +128,16 @@ Patients should be carefully monitored for any occurrence of drug toxicity and/o
 
 Efavirenz (a non-nucleoside reverse transcriptase inhibitor) (CYP450 inducer; CYP3A4 inhibitor and substrate): Steady-state efavirenz (400 mg orally once daily) decreased the steady state Cmax and AUCτ of voriconazole by an average of 61% and 77%, respectively, in healthy subjects.
 In the same study voriconazole at steady state increased the steady state Cmax and AUCτ of efavirenz by an average of 38% and 44% respectively, in healthy subjects.
-Coadministration of voriconazole and efavirenz is contraindicated (see section 4.3).
+Coadministration of standard doses of voriconazole and efavirenz is contraindicated (see section 4.3).
+
+Following coadministration of voriconazole 300 mg twice daily with efavirenz 300 mg orally once daily, in healthy subjects, the AUCτ and Cmax of voriconazole was decreased by 55 % and 36 % respectively, compared to voriconazole 200 mg twice daily alone; AUCτ of efavirenz was equivalent but Cmax was decreased by 14 % compared to efavirenz 600 mg once daily alone.
+
+Following coadministration of voriconazole 400 mg twice daily with efavirenz 300 mg orally once daily, in healthy subjects, the AUCτ of voriconazole was decreased by 7 % and Cmax was increased by 23 %, compared to voriconazole 200 mg twice daily alone.
+These differences were not considered to be clinically significant.
+The AUCτ of efavirenz was increased by 17 % and Cmax was equivalent compared to efavirenz 600 mg once daily alone.
+
+When voriconazole is coadministered with efavirenz, voriconazole maintenance dose should be increased to 400 mg twice daily and the efavirenz dose should be reduced by 50 %, i.e. to 300 mg once daily.
+When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored.
 
 Non-nucleoside reverse transcriptase inhibitors (NNRTI) (CYP3A4 substrates, inhibitors or CYP450 inducers): In vitro studies show that the metabolism of voriconazole may be inhibited by delavirdine.
 Although not studied, the metabolism of voriconazole may be induced by nevirapine.
@@ -182,7 +190,6 @@ Cimetidine (non-specific CYP450 inhibitor and increases gastric pH): Cimetidine 
 Macrolide antibiotics: Erythromycin (CYP3A4 inhibitor; 1 g twice daily) and azithromycin (500 mg once daily) had no significant effect on voriconazole Cmax and AUCτ.
 
 Ciclosporin (CYP3A4 substrate): In stable, renal transplant recipients, voriconazole increased ciclosporin Cmax and AUCτ by at least 13% and 70% , respectively.
-
 Methadone (CYP3A4 substrate): In subjects receiving a methadone maintenance dose (32-100 mg once daily) coadministration of oral voriconazole (400 mg twice daily for 1 day, then 200 mg twice daily for four days) increased the Cmax and AUCτ of pharmacologically active R-methadone by 31% and 47%, respectively, whereas the Cmax and AUCτ of the S-enantiomer increased by approximately 65% and 103%, respectively.
 
 Tacrolimus (CYP3A4 substrate): Voriconazole increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCt (area under the plasma concentration time curve to the last quantifiable measurement) by 117 % and 221 %, respectively.
@@ -203,8 +210,6 @@ Oral Contraceptives: Coadministration of voriconazole and an oral contraceptive 
 
 Indinavir (CYP3A4 inhibitor and substrate): Indinavir (800mg three times daily) had no significant effect on voriconazole Cmax , Cmin and AUCτ.
 
-.
-
 [VFEND 40 mg/ml powder for oral suspension]
 
 High doses of ritonavir (400 mg twice daily) decreased the steady state Cmax and AUCτ of oral voriconazole by an average of 66% and 82%, whereas low doses of ritonavir (100 mg twice daily) decreased the Cmax and AUCτ of voriconazole by an average of 24% and 39% respectively.
@@ -221,3 +226,5 @@ At a voriconazole dose of 400 mg twice daily Cmax and AUCτ were 104 % and 87 % 
 Careful monitoring of full blood counts and adverse reactions to rifabutin (e.g. uveitis) is recommended when rifabutin is coadministered with voriconazole.
 
 Voriconazole did not have a significant effect on Cmax and AUCτ of indinavir (800 mg three times daily).
+
+Following coadministration of voriconazole 300 mg twice daily with efavirenz 300 mg orally once daily, in healthy subject, the AUCτ and Cmax of voriconazole was decreased by 55 % and 36 % respectively, compared to voriconazole 200 mg twice daily alone; AUCτ of efavirenz was equivalent but Cmax was decreased by 14 % compared to efavirenz 600 mg once daily alone.

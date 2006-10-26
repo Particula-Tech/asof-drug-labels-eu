@@ -61,7 +61,6 @@ The compatibility of voriconazole with diluents other than described above or in
 [VFEND 40 mg/ml powder for oral suspension]
 
 Constitution instructions:
-
 1.
 Tap the bottle to release the powder.
 2.

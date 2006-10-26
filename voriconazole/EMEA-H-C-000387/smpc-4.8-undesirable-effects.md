@@ -87,10 +87,10 @@ General disorders and administrative site conditions
 Very common Pyrexia
 Common Chills, asthenia, injection site reaction / inflammation
 Investigations
-
-| Common | Elevated liver function tests (including ASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), blood creatinine increased |
-| --- | --- |
-| Uncommon | Blood urea increased, blood cholesterol increased, electrocardiogram QT corrected interval prolonged |
+Common Elevated liver function tests (including ASAT, ALAT, alkaline
+phosphatase, GGT, LDH, bilirubin), blood creatinine increased
+Uncommon Blood urea increased, blood cholesterol increased, electrocardiogram QT
+corrected interval prolonged
 
 Visual disturbances
 Voriconazole treatment-related visual disturbances were very common.
@@ -129,10 +129,7 @@ In the 22 patients less than 2 years old who received voriconazole in a compassi
 
 [VFEND 200 mg film-coated tablets]
 
-Common Elevated liver function tests (including ASAT, ALAT, alkaline
-phosphatase, GGT, LDH, bilirubin), blood creatinine increased
-Uncommon Blood urea increased, blood cholesterol increased, electrocardiogram QT
-corrected interval prolonged
+(all sentences already above)
 
 [VFEND 200 mg powder for solution for infusion]
 

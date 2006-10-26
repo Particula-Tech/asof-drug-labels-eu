@@ -14,7 +14,6 @@ In animal studies there is a correlation between minimum inhibitory concentratio
 By contrast, in clinical studies, there appears to be no correlation between minimum inhibitory concentration values and clinical outcome.
 Furthermore, there does not appear to be a correlation between plasma levels and clinical outcome.
 This is typical of azole antimycotics.
-
 Microbiology
 
 Clinical efficacy (with partial or complete response, see below under Clinical Experience) has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans, Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis and limited numbers of C. dubliniensis, C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans and Fusarium spp.
@@ -25,6 +24,7 @@ Trichosporon spp. including T. beigelii infections.
 In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2 µg/ml.
 
 In vitro activity against the following pathogens has been shown, but the clinical significance is unknown: Curvularia spp. and Sporothrix spp.
+
 Specimens for fungal culture and other relevant laboratory studies (serology, histopathology) should be obtained prior to therapy to isolate and identify causative organisms.
 Therapy may be instituted before the results of the cultures and other laboratory studies are known; however, once these results become available, anti-infective therapy should be adjusted accordingly.
 
@@ -47,7 +47,6 @@ This study confirmed findings from an earlier, prospectively designed study wher
 The studies included cerebral, sinus, pulmonary and disseminated aspergillosis in patients with bone marrow and solid organ transplants, haematological malignancies, cancer and AIDS.
 
 Candidaemia in non-neutropenic patients.
-
 The efficacy of voriconazole compared to the regimen of amphotericin B followed by fluconazole in the primary treatment of candidaemia was demonstrated in an open, comparative study.
 Three hundred and seventy non-neutropenic patients (above 12 years of age) with documented candidaemia were included in the study, of whom 248 were treated with voriconazole.
 Nine subjects in the voriconazole group and five in the amphotericin B followed by fluconazole group also had mycologically proven infection in deep tissue.

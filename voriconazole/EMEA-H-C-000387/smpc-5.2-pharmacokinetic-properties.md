@@ -23,7 +23,6 @@ Cerebrospinal fluid samples from eight patients in a compassionate programme sho
 
 Metabolism
 In vitro studies showed that voriconazole is metabolised by the hepatic cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
-
 The inter-individual variability of voriconazole pharmacokinetics is high.
 
 In vivo studies indicated that CYP2C19 is significantly involved in the metabolism of voriconazole.
@@ -38,6 +37,7 @@ This metabolite has minimal antifungal activity and does not contribute to the o
 
 Excretion
 Voriconazole is eliminated via hepatic metabolism with less than 2% of the dose excreted unchanged in the urine.
+
 After administration of a radiolabelled dose of voriconazole, approximately 80% of the radioactivity is recovered in the urine after multiple intravenous dosing and 83% in the urine after multiple oral dosing.
 The majority (> 94%) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
 
@@ -63,7 +63,6 @@ Therefore, no dosage adjustment based on gender is necessary.
 Elderly
 In an oral multiple dose study Cmax and AUCτ in healthy elderly males (≥ 65 years) were 61% and 86% higher, respectively, than in healthy young males (18-45 years).
 No significant differences in Cmax and AUCτ were observed between healthy elderly females (≥ 65 years) and healthy young females (18- 45 years).
-
 In the therapeutic studies no dosage adjustment was made on the basis of age.
 A relationship between plasma concentrations and age was observed.
 The safety profile of voriconazole in young and elderly patients was similar and, therefore, no dosage adjustment is necessary for the elderly (see section 4.2).
@@ -114,6 +113,7 @@ Paediatrics
 
 The recommended intravenous dose in paediatric patients is based on a population pharmacokinetic analysis of data pooled from 82 immunocompromised paediatric patients aged 2 to <12 years old who were evaluated in three pharmacokinetic studies (examining single intravenous doses of 3 and 4 mg/kg twice daily, multiple intravenous doses of 3, 4, 6 and 8 mg/kg twice daily and multiple oral suspension doses of 4 and 6 mg/kg twice daily).
 The majority of patients received more than one dose level with a maximum duration of dosing of 30 days.
+
 A comparison of the paediatric and adult population pharmacokinetic data indicated that in order to obtain comparable exposures to those obtained in adults following intravenous maintenance doses of 4 mg/kg twice daily, intravenous maintenance doses of 7 mg/kg twice daily are required in paediatric patients.
 The higher intravenous maintenance dose in paediatric patients relative to adults reflects the higher elimination capacity in paediatric patients due to a greater liver mass to body mass ratio.
 In order to obtain comparable exposures to those obtained in adults following intravenous maintenance doses of 3 mg/kg twice daily, intravenous maintenance doses of 4 mg/kg twice daily are required in paediatric patients.
