@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 The incidence and severity of adverse events generally increase with higher doses.
 If treatment is interrupted for more than several days, it should be re-initiated at 1.5 mg twice daily to reduce the possibility of adverse reactions (e.g. vomiting).
@@ -13,15 +13,19 @@ Patients with Alzheimer’s disease may lose weight.
 Cholinesterase inhibitors, including rivastigmine, have been associated with weight loss in these patients.
 During therapy patient’s weight should be monitored.
 
+In case of severe vomiting associated with rivastigmine treatment, appropriate dose adjustments as recommended in section 4.2 must be made.
+Some cases of severe vomiting were associated with oesophageal rupture (see section 4.8).
+Such events appeared to occur particularly after dose increments or high doses of rivastigmine.
+
 As with other cholinomimetics, care must be taken when using rivastigmine in patients with sick sinus syndrome or conduction defects (sino-atrial block, atrio-ventricular block) (see section 4.8).
 
 As with other cholinergic substances, rivastigmine may cause increased gastric acid secretions.
 Care should be exercised in treating patients with active gastric or duodenal ulcers or patients predisposed to these conditions.
-
 Cholinesterase inhibitors should be prescribed with care to patients with a history of asthma or obstructive pulmonary disease.
 
 Cholinomimetics may induce or exacerbate urinary obstruction and seizures.
 Caution is recommended in treating patients predisposed to such diseases.
+
 The use of rivastigmine in patients with severe dementia of Alzheimer’s disease or associated with Parkinson’s disease, other types of dementia or other types of memory impairment (e.g. age-related cognitive decline) has not been investigated.
 
 Like other cholinomimetics, rivastigmine may exacerbate or induce extrapyramidal symptoms.
@@ -43,5 +47,5 @@ Clinical monitoring is recommended for these adverse events.
 
 [EXELON 2 mg/ml Oral Solution]
 
-One of the excipients in Exelon oral solution is sodium benzoate.
+One of the excipients in EXELON Oral Solution is sodium benzoate.
 Benzoic acid is a mild irritant to the skin, eyes and mucous membrane.

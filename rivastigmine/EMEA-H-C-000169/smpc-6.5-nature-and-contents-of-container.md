@@ -17,9 +17,7 @@ Not all pack sizes may be marketed.
 
 [EXELON 6 mg hard capsules]
 
-  Each box contains 2, 4 or
-
-8 blisters.
+(all sentences already above)
 
 [EXELON 2 mg/ml Oral Solution]
 

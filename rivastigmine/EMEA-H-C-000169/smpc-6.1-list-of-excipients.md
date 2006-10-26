@@ -26,5 +26,5 @@ Titanium dioxide (E171)
 Sodium benzoate
 Citric acid
 Sodium citrate
-Quinoline yellow WS dye E104
+Quinoline yellow WS dye (E104)
 Purified water

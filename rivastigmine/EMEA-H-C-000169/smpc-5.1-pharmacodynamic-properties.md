@@ -55,24 +55,30 @@ Table 5
 | Mean baseline ± SD Mean change at 24 weeks ± SD | 24.0 ± 10.3 24.5 ± 10.6 2.5 ± 8.4 -0.8 ± 7.5 |  | n/a n/a 3.7 ± 1.4 4.3 ± 1.5 |  |
 | Adjusted treatment difference p-value versus placebo | 3.541 <0.0011 |  | n/a <0.0012 |  |
 
-1 Based on ANCOVA with treatment and country as factors and baseline ADAS-Cog as a covariate 2 Mean data shown for convenience, categorical analysis performed using van Elteren test
-ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward Although a treatment effect was demonstrated in the overall study population, the data suggested that a larger treatment effect relative to placebo was seen in the subgroup of patients with moderate dementia associated with Parkinson’s disease.
+1 Based on ANCOVA with treatment and country as factors and baseline ADAS-Cog as a covariate.
+A positive change indicates improvement.
+2 Mean data shown for convenience, categorical analysis performed using van Elteren test
+ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward
+
+Although a treatment effect was demonstrated in the overall study population, the data suggested that a larger treatment effect relative to placebo was seen in the subgroup of patients with moderate dementia associated with Parkinson’s disease.
 Similarly a larger treatment effect was observed in those patients with visual hallucinations (see Table 6).
 
 Table 6
 
 | Dementia associated with Parkinson’s Disease | ADAS-Cog Exelon | ADAS-Cog Placebo | ADAS-Cog Exelon | ADAS-Cog Placebo |
 | --- | --- | --- | --- | --- |
-| Patients with visual hallucinations Patients without visual hallucinations |  |  |  |  |
+|  | Patients with visual hallucinations |  | Patients without visual hallucinations |  |
 | ITT + RDO population | (n=107) (n=60) |  | (n=220) (n=101) |  |
 | Mean baseline ± SD Mean change at 24 weeks ± SD | 25.4 ± 9.9 27.4 ± 10.4 1.0 ± 9.2 -2.1 ± 8.3 |  | 23.1 ± 10.4 22.5 ± 10.1 2.6 ± 7.6 0.1 ± 6.9 |  |
 | Adjusted treatment difference p-value versus placebo | 4.271 0.0021 |  | 2.091 0.0151 |  |
-| Patients with moderate dementia Patients with mild dementia (MMSE 10-17) (MMSE 18-24) |  |  |  |  |
+|  | Patients with moderate dementia (MMSE 10-17) |  | Patients with mild dementia (MMSE 18-24) |  |
 | ITT + RDO population | (n=87) (n=44) |  | (n=237) (n=115) |  |
-| Mean baseline ± SD Mean change at 24 weeks ± SD | 32.6 ± 10.4 33.7 ± 10.3 2.6 ± 9.4 -1.8 ± 7.2 |  | 20.6 ± 7.9 20.7 ± 7.9 1.9 ± 7.7 - 0.2 ± 7.5 |  |
+| Mean baseline ± SD Mean change at 24 weeks ± SD | 32.6 ± 10.4 33.7 ± 10.3 2.6 ± 9.4 -1.8 ± 7.2 |  | 20.6 ± 7.9 20.7 ± 7.9 1.9 ± 7.7 -0.2 ± 7.5 |  |
 | Adjusted treatment difference p-value versus placebo | 4.731 0.0021 |  | 2.141 0.0101 |  |
 
-1 Based on ANCOVA with treatment and country as factors and baseline ADAS-Cog as a covariate ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
+1 Based on ANCOVA with treatment and country as factors and baseline ADAS-Cog as a covariate.
+A positive change indicates improvement.
+ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
 
 [EXELON 3 mg hard capsules]
 
@@ -89,3 +95,5 @@ Table 6
 [EXELON 2 mg/ml Oral Solution]
 
 The efficacy of Exelon has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
+
+ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward Although a treatment effect was demonstrated in the overall study population, the data suggested that a larger treatment effect relative to placebo was seen in the subgroup of patients with moderate dementia associated with Parkinson’s disease.

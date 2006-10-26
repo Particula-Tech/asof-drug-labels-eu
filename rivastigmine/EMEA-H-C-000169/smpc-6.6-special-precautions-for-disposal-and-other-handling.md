@@ -1,4 +1,4 @@
-# 6.6 Instructions for use and handling
+# 6.6 Special precautions for disposal and other handling
 
 No special requirements.
 
