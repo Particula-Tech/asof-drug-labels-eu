@@ -5,6 +5,7 @@ The adverse reactions listed in Table 1 are based on experience from clinical tr
 Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (> 1/100, < 1/10); uncommon (> 1/1000, < 1/100); rare (>1/10,000, <1/1,000).
 Infusion-related reactions were the most common ADRs reported.
 Infusion-related reactions (dyspnoea, urticaria and headache) were the most common cause for discontinuation.
+
 Table 1
 Undesirable Effects in Clinical Studies
 
@@ -59,7 +60,6 @@ Table 2
 Undesirable effects in Post-marketing reports
 (common > 1/100, < 1/10; uncommon > 1/1000, < 1/100; rare > 1/10,000, < 1/1000;
 very rare < 1/10,000, including isolated reports).
-
 Infections and infestations
 Rare: Opportunistic infections (such as tuberculosis, atypical mycobacteria, pneumocystosis, histoplasmosis, coccidioidomycosis, cryptococcosis, aspergillosis, listeriosis and candidiasis)
 Very Rare: Salmonellosis, reactivation of hepatitis B
@@ -90,8 +90,9 @@ Common: Infusion-related reactions
 
 Infusion-related reactions: An infusion-related reaction was defined in clinical studies as any adverse event occurring during an infusion or within 1 to 2 hours after an infusion.
 In clinical studies, approximately 20% of infliximab-treated patients compared with approximately 10% of placebo-treated patients experienced an infusion-related effect.
-Approximately 3% of patients discontinued treatment due to infusions reactions and all patients recovered with or without medical therapy
-
+Approximately 3% of patients discontinued treatment due to infusions reactions and all patients recovered with or without medical therapy.
+In a clinical study of patients with rheumatoid arthritis (ASPIRE), sixty six percent of the patients (686 out of 1040) received at least one shortened infusion of 90 minutes or less and 44% of the patients (454 out of 1040) received at least one shortened infusion of 60 minutes or less.
+Of the infliximab-treated patients who received at least one shortened infusion, infusion-related reactions occurred in 15% of patients and serious infusion reactions occurred in 0.4% of patients.
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with Remicade administration.
 
 Delayed hypersensitivity: In clinical studies delayed hypersensitivity reactions have been uncommon and have occurred after drug free intervals of less than 1 year.
@@ -127,7 +128,6 @@ Nearly 50% of reported deaths have been associated with infection.
 Cases of tuberculosis, sometimes fatal, including miliary tuberculosis and tuberculosis with extrapulmonary location have been reported (see section 4.4).
 
 Malignancies and lymphoproliferative disorders: In clinical studies with infliximab in which 5706 patients were treated, representing 4990 patient years, 5 cases of lymphomas and 24 non-lymphoma malignancies were detected as compared with no lymphomas and 1 non-lymphoma malignancy in 1600 placebo-treated patients representing 892 patient years.
-
 In long-term safety follow-up of clinical studies with infliximab of up to 5 years, representing 6234 patients-years (3210 patients), 5 cases of lymphoma and 38 cases of non-lymphoma malignancies were reported.
 
 From August 1998 to August 2005, 1909 cases of suspected malignancies have been reported from post-marketing, clinical trials and registries (321 in Crohn’s disease patients, 1302 in rheumatoid arthritis patients and 286 in patients with other or unknown indications).
@@ -162,3 +162,18 @@ Antinuclear antibodies (ANA)/Anti-double-stranded DNA (dsDNA) antibodies: Approx
 Anti-dsDNA antibodies were newly detected in approximately 17% of infliximab-treated patients compared with 0% of placebo-treated patients.
 At the last evaluation, 57% of infliximab-treated patients remained anti-dsDNA positive.
 Reports of lupus and lupus-like syndromes, however, remain uncommon.
+
+Juvenile Rheumatoid Arthritis patients: Remicade was studied in a trial in 120 patients (age range: 4-17 years old) with active JRA despite MTX.
+Patients received 3 or 6 mg/kg infliximab as a 3-dose induction regimen (weeks 0, 2, 6 or weeks 14, 16, 20 respectively) followed by maintenance therapy every 8 weeks, in combination with MTX.
+
+Infusion reactions
+Infusion reactions occurred in 35 % of patients with JRA receiving 3 mg/kg compared with 17.5% of patients receiving 6 mg/kg.
+In the 3 mg/kg Remicade group, 4 out of 60 patients had a serious infusion reaction and 3 patients reported a possible anaphylactic reaction (2 of which were among the serious infusion reactions).
+In the 6 mg/kg group, 2 out of 57 patients had a serious infusion reaction, one of whom had a possible anaphylactic reaction.
+
+Immunogenicity
+Antibodies to infliximab developed in 38 % of patients receiving 3 mg/kg compared with 12% of patients receiving 6 mg/kg.
+The antibody titers were notably higher for the 3 mg/kg compared to the 6 mg/kg group.
+
+Infections
+Infections occurred in 68% (41/60) of children receiving 3 mg/kg over 52 weeks , 65% (37/57) of children receiving infliximab 6 mg/kg over 38 weeks and 47% (28/60) of children receiving placebo over 14 weeks.

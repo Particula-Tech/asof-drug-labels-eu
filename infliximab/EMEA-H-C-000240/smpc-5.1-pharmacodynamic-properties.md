@@ -13,7 +13,6 @@ After infliximab treatment, patients exhibited decreased levels of serum interle
 Peripheral blood lymphocytes further showed no significant decrease in number or in proliferative responses to in vitro mitogenic stimulation when compared with untreated patients’ cells.
 In psoriasis patients, treatment with infliximab resulted in decreases in epidermal inflammation and normalization of keratinocyte differentiation in psoriatic plaques.
 In psoriatic arthritis, short term treatment with Remicade reduced the number of T-cells and blood vessels in the synovium and psoriatic skin.
-
 Histological evaluation of colonic biopsies, obtained before and 4 weeks after administration of infliximab, revealed a substantial reduction in detectable TNFα.
 Infliximab treatment of Crohn’s disease patients was also associated with a substantial reduction of the commonly elevated serum inflammatory marker, CRP.
 Total peripheral white blood cell counts were minimally affected in infliximab-treated patients, although changes in lymphocytes, monocytes and neutrophils reflected shifts towards normal ranges.
@@ -156,6 +155,7 @@ The safety and efficacy of Remicade were assessed in two (ACT 1 and ACT 2) rando
 Concomitant stable doses of oral aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted.
 In both studies, patients were randomized to receive either placebo, 5 mg/kg Remicade, or 10 mg/kg Remicade at weeks 0, 2, 6, 14 and 22, and in ACT 1 at weeks 30, 38 and 46.
 Corticosteroid taper was permitted after week 8.
+
 Table 5
 Effects on clinical response, clinical remission and mucosal healing at Weeks 8 and 30.
 Combined data from ACT1 & 2.
@@ -168,6 +168,10 @@ Percentage of subjects in clinical response and in sustained clinical response
 
 Clinical response at Week 8a 33.2% 66.9% 65.3% 66.1%
 Clinical response at Week 30a 27.9% 49.6% 55.4% 52.5%
+
+Infliximab
+
+Placebo 5 mg/kg 10 mg/kg Combined
 
 Sustained response
 (clinical response at both
@@ -211,7 +215,6 @@ Treatment with infliximab resulted in improvement in signs and symptoms, as asse
 Improvement was observed at week 2 and was maintained through week 54.
 Physical function and quality of life (SF36) were improved similarly.
 In the trial, efficacy was not shown in HLA-B27 negative patients (n=7).
-
 Psoriatic Arthritis
 Efficacy and safety were assessed in two multicenter, double-blind, placebo-controlled studies in patients with active psoriatic arthritis.
 
@@ -258,16 +261,15 @@ PASI response
 N 87 83 82
 PASI 75 response** 1 (1%) 50 (60%) 40 (48.8%)
 
-* ITT-analysis where subjects with missing data were included as non-responders aWeek 98 data for IMPACT includes combined placebo crossover and infliximab patients who entered the open-label extension bBased on patients with PASI >2.5 at baseline for IMPACT, and patients with >3% BSA psoriasis skin involvement at baseline in IMPACT
-
+* ITT-analysis where subjects with missing data were included as non-responders aWeek 98 data for IMPACT includes combined placebo crossover and infliximab patients who entered the open-label extension bBased on patients with PASI >2.5 at baseline for IMPACT, and patients with >3% BSA psoriasis skin involvement at baseline in IMPACT 2
 ** PASI 75 response for IMPACT not included due to low N; p<0.001 for infliximab vs. placebo at week 24 for IMPACT 2
+
 In IMPACT and IMPACT 2, clinical responses were observed as early as week 2 and were maintained through week 98 and week 54 respectively.
 Efficacy has been demonstrated with or without concomitant use of methotrexate.
 Decreases in parameters of peripheral activity characteristic of psoriatic arthritis (such as number of swollen joints, number of painful/tender joints, dactylitis and presence of enthesopathy) were seen in the infliximab-treated patients.
 
 Infliximab-treated patients demonstrated significant improvement in physical function as assessed by HAQ.
 Significant improvements in health-related quality of life were also demonstrated as measured by the physical and mental component summary scores of the SF-36 in IMPACT 2.
-
 Psoriasis
 The efficacy of infliximab was assessed in two multicenter, randomised, double blind studies: SPIRIT and EXPRESS.
 Patients in both studies had plaque psoriasis (Body Surface Area [BSA] ≥10% and Psoriasis Area and Severity Index [PASI] score ≥12).
@@ -286,9 +288,10 @@ EXPRESS evaluated the efficacy of infliximab induction and maintenance therapy i
 Patients received 5 mg/kg infliximab or placebo infusions at weeks 0, 2 and 6 followed by maintenance therapy every 8 weeks through week 22 in the placebo group and through week 46 in the infliximab group.
 At week 24, the placebo group crossed over to infliximab induction therapy (5 mg/kg) followed by infliximab maintenance therapy (5 mg/kg).
 Prior therapy with PUVA, methotrexate, cyclosporin, or acitretin had been received by 71.4% of patients, although they were not necessarily therapy resistant.
-Key results are presented in Table 6.
+Key results are presented in Table 7.
 In infliximab treated subjects, significant PASI 50 responses were apparent at the first visit (week 2) and PASI 75 responses by the second visit (week 6).
 Efficacy was similar in the subgroup of patients that were exposed to previous systemic therapies compared to the overall study population.
+
 Table 7
 Summary of PASI response and PGA score at Weeks 10, 24 and 50.
 EXPRESS.

@@ -26,9 +26,9 @@ Infections
 Patients must be monitored closely for infections including tuberculosis before, during and after treatment with Remicade.
 Because the elimination of infliximab may take up to six months, monitoring should be continued throughout this period.
 Further treatment with Remicade must not be given if a patient develops a serious infection or sepsis.
-
 Caution should be exercised when considering the use of Remicade in patients with chronic infection or a history of recurrent infections, including use of concomitant immunosuppressive medications.
 Patients should be advised of and avoid exposure to potential risk factors for infection as appropriate.
+
 Tumour necrosis factor alpha (TNFα) mediates inflammation and modulates cellular immune responses.
 Experimental data show that TNFα is essential for the clearing of intracellular infections.
 Clinical experience shows that host defence against infection is compromised in some patients treated with infliximab.
@@ -101,7 +101,6 @@ Rare postmarketing cases of hepatosplenic T-cell lymphoma have been reported in 
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
 All of these hepatosplenic T-cell lymphomas with Remicade have occurred in patients on concomitant treatment with azathioprine or 6-mercaptopurine.
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with Remicade cannot be excluded (see sections 4.2 and 4.8).
-
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
 This evaluation should include colonoscopy and biopsies per local recommendations.
 With current data it is not known if infliximab treatment influences the risk for developing dysplasia or colon cancer (see section 4.8).
@@ -111,6 +110,9 @@ Since the possibility of increased risk of cancer development in patients with n
 Heart failure
 Remicade should be used with caution in patients with mild heart failure (NYHA class I/II).
 Patients should be closely monitored and Remicade must not be continued in patients who develop new or worsening symptoms of heart failure (see sections 4.3 and 4.8).
+
+Paediatrics
+Remicade is not recommended for use in children ≤ 17 years due to insufficient data on safety and efficacy (for juvenile RA see Section 4.8)
 
 Others
 Treatment with Remicade has not been studied in children 0-17 years with rheumatoid arthritis or Crohn’s disease.
