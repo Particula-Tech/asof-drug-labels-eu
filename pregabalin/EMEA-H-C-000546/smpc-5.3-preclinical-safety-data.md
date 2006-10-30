@@ -21,4 +21,5 @@ In juvenile rats the types of toxicity do not differ qualitatively from those ob
 However, juvenile rats are more sensitive.
 At therapeutic exposures, there was evidence of CNS clinical signs of hyperactivity and bruxism and some changes in growth (transient body weight gain suppression).
 Effects on the oestrus cycle were observed at 5-fold the human therapeutic exposure.
-Neurobehavioural/cognitive effects were observed in juvenile rats 1-2 weeks after exposure >2 times (acoustic startle response) or >5 times (learning/memory) the human therapeutic exposure.
+Reduced acoustic startle response was observed in juvenile rats 1-2 weeks after exposure at >2 times the human therapeutic exposure.
+Nine weeks after exposure, this effect was no longer observable.

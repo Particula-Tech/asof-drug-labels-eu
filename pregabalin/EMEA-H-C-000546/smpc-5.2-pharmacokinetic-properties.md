@@ -9,6 +9,7 @@ Pregabalin oral bioavailability is estimated to be ≥90% and is independent of 
 Following repeated administration, steady state is achieved within 24 to 48 hours.
 The rate of pregabalin absorption is decreased when given with food resulting in a decrease in Cmax by approximately 25-30% and a delay in tmax to approximately 2.5 hours.
 However, administration of pregabalin with food has no clinically significant effect on the extent of pregabalin absorption.
+
 Distribution:
 
 In preclinical studies, pregabalin has been shown to cross the blood brain barrier in mice, rats, and monkeys.

@@ -7,13 +7,13 @@ The active substance, pregabalin, is a gamma-aminobutyric acid analogue ((S)-3-(
 Mechanism of action
 
 Pregabalin binds to an auxiliary subunit (α2-δ protein) of voltage-gated calcium channels in the central nervous system, potently displacing [3H]-gabapentin.
-
 Clinical experience
 
 Neuropathic pain
 
 Efficacy has been shown in studies in diabetic neuropathy,post herpetic neuralgia and spinal cord injury.
 Efficacy has not been studied in other models of neuropathic pain.
+
 Pregabalin has been studied in 10 controlled clinical studies of up to 13 weeks with twice a day dosing (BID) and up to 8 weeks with three times a day (TID) dosing.
 Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
 
