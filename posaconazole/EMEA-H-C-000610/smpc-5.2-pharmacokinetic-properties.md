@@ -1,7 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
-Posaconazole is absorbed with a median tmax of ~ 5 hours.
+Posaconazole is absorbed with a median tmax of 3 hours (fed patients).
 The pharmacokinetics of posaconazole are linear following single and multiple dose administration of up to 800 mg when taken with a high fat meal.
 No further increases in exposure were observed when doses above 800 mg daily were administered to patients and healthy volunteers.
 In the fasting state, AUC increased less than in proportion to dose above 200 mg.
@@ -22,27 +22,26 @@ The excreted metabolites in urine and faeces account for approximately 17 % of t
 
 Excretion
 Posaconazole is slowly eliminated with a mean half-life (t½) of 35 hours (range 20 to 66 hours).
-After administration of 14C-posaconazole, radioactivity was predominantly recovered in the faeces (77 % of the radiolabelled dose) with the major component being parent drug (66 % of the radiolabelled dose).
-Renal clearance is a minor elimination pathway, with 14 % of the radiolabelled dose excreted in urine (< 0.2 % of the radiolabelled dose is parent drug).
+After administration of 14C-posaconazole, radioactivity was predominantly recovered in the faeces (77 % of the radiolabelled dose) with the major component being parent compound (66 % of the radiolabelled dose).
+Renal clearance is a minor elimination pathway, with 14 % of the radiolabelled dose excreted in urine (< 0.2 % of the radiolabelled dose is parent compound).
 Steady-state is attained following 7 to 10 days of multiple-dose administration.
 
-Pharmacokinetics in Special Populations
+Pharmacokinetics in special populations
 Children (< 18 years)
-Following administration of 800 mg per day of posaconazole as a divided dose, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/ml) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/ml).
+Following administration of 800 mg per day of posaconazole as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/ml) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/ml).
 No pharmacokinetic data are available from paediatric patients less than 8 years of age.
+Similarly, in the prophylaxis studies, the mean steady-state posaconazole average concentration (Cav) was comparable among ten adolescents (13-17 years of age) to Cav achieved in adults (≥ 18 years of age).
 
 Gender
-Results from a multiple dose study in healthy volunteers (12 per gender) and data from patients in the pivotal efficacy study (79 females and 152 males) indicate that gender does not affect posaconazole pharmacokinetics.
+The pharmacokinetics of posaconazole are comparable in men and women.
 
 Elderly (≥ 65 years)
 An increase in Cmax (26 %) and AUC (29 %) was observed in elderly subjects (24 subjects ≥ 65 years of age) relative to younger subjects (24 subjects 18 - 45 years of age).
-However, the safety profile of posaconazole between the young and elderly patients was similar.
-Therefore, no dose adjustment is required for age.
+However, in clinical efficacy trials, the safety profile of posaconazole between the young and elderly patients was similar.
 
 Race
 There was a slight decrease (16 %) in the AUC and Cmax of posaconazole in Black subjects relative to Caucasian subjects.
 However, the safety profile of posaconazole between the Black and Caucasian subjects was similar.
-Therefore no dose adjustment is recommended.
 
 Renal impairment
 Following single-dose administration, there was no effect of mild and moderate renal impairment (n=18, Cl cr ≥ 20 ml/min/1.73 m2) on posaconazole pharmacokinetics; therefore, no dose adjustment is required.

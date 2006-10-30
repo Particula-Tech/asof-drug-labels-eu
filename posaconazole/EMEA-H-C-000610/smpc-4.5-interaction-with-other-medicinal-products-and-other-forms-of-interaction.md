@@ -3,8 +3,7 @@
 Effects of other medicinal products on posaconazole:
 Posaconazole is metabolised via UDP glucuronidation (phase 2 enzymes) and is a substrate for p-glycoprotein (P-gp) efflux in vitro.
 Therefore, inhibitors (e.g. verapamil, ciclosporin, quinidine, clarithromycin, erythromycin, etc.) or inducers (e.g. rifampicin, rifabutin, certain anticonvulsants, etc.) of these clearance pathways may increase or decrease posaconazole plasma concentrations, respectively.
-
-Rifabutin (300 mg once a day) decreased the Cmax (maximum plasma concentration) and AUC (area under the plasma concentration time curve) of posaconazole by 57 % and 51 %, respectively.
+Rifabutin (300 mg once a day) decreased the Cmax (maximum plasma concentration) and AUC (area under the plasma concentration time curve) of posaconazole to 57 % and 51 %, respectively.
 Concomitant use of posaconazole and rifabutin and similar inducers (e.g. rifampicin) should be avoided unless the benefit to the patient outweighs the risk.
 See also below regarding the effect of posaconazole on rifabutin plasma levels.
 
@@ -13,7 +12,7 @@ Concomitant use of posaconazole and phenytoin and similar inducers (e.g. carbama
 
 H2 receptor antagonists and proton pump inhibitors: Posaconazole plasma concentrations (Cmax and AUC) were reduced by 39 % when posaconazole was administered with cimetidine (400 mg twice a day) due to reduced absorption possibly secondary to a decrease in gastric acid production.
 Concomitant use of posaconazole and cimetidine should be avoided unless the benefit to the patient outweighs the risk.
-The effect of other H2 receptor antagonists and proton pump inhibitors that may suppress gastric acidity for several hours on plasma levels of posaconazole has not been studied but a reduction in bioavailability may occur so that co-administration should be avoided if possible.
+The effect of other H2 receptor antagonists (e.g. famotidine, ranitidine) and proton pump inhibitors (e.g. omeprazole) that may suppress gastric acidity for several hours on plasma levels of posaconazole has not been studied but a reduction in bioavailability may occur so that co-administration should be avoided if possible.
 
 Effects of posaconazole on other medicinal products:
 Posaconazole is an inhibitor of CYP3A4.
@@ -37,16 +36,17 @@ Therefore, concomitant use of posaconazole and vinca alkaloids should be avoided
 If co-administered, then it is recommended that dose adjustment of vinca alkaloids be considered.
 
 Rifabutin: Posaconazole increased the Cmax and AUC of rifabutin by 31 % and 72 %, respectively.
-Concomitant use of posaconazole and rifabutin should be avoided unless the benefit to the patient outweighs the risk (see also above regarding the effect of rifabutin on plasma levels of posaconazole ).
+Concomitant use of posaconazole and rifabutin should be avoided unless the benefit to the patient outweighs the risk (see also above regarding the effect of rifabutin on plasma levels of posaconazole).
 If these medicinal products are co-administered, careful monitoring of full blood counts and adverse events related to increased rifabutin levels (e.g. uveitis) is recommended.
 
 Ciclosporin: In heart transplant patients on stable doses of ciclosporin, posaconazole 200 mg once daily increased ciclosporin concentrations requiring dose reductions.
-Cases of elevated ciclosporin levels resulting in serious adverse events, including nephrotoxicity were reported in clinical efficacy studies.
-Monitoring of ciclosporin blood levels should be performed upon initiation, during co-administration, and upon discontinuation of posaconazole treatment, with adjustment of ciclosporin doses as necessary.
+Cases of elevated ciclosporin levels resulting in serious adverse events, including nephrotoxicity and one fatal case of leukoencephalopathy, were reported in clinical efficacy studies.
+When initiating treatment with posaconazole in patients already receiving ciclosporin, the dose of ciclosporin should be reduced (e.g. to about three quarters of the current dose).
+Thereafter blood levels of ciclosporin should be monitored carefully during co-administration, and upon discontinuation of posaconazole treatment, and the dose of ciclosporin should be adjusted as necessary.
 
 Tacrolimus: Posaconazole increased Cmax and AUC of tacrolimus (0.05 mg/kg body weight single dose) by 121 % and 358 %, respectively.
 Clinically significant interactions resulting in hospitalisation and/or posaconazole discontinuation were reported in clinical efficacy studies.
-When initiating posaconazole treatment in patients already receiving tacrolimus, the dose of tacrolimus dose should be reduced (e.g. to about one third of the current dose).
+When initiating posaconazole treatment in patients already receiving tacrolimus, the dose of tacrolimus should be reduced (e.g. to about one third of the current dose).
 Thereafter blood levels of tacrolimus should be monitored carefully during co-administration, and upon discontinuation of posaconazole, and the dose of tacrolimus should be adjusted as necessary.
 
 Sirolimus: Posaconazole may increase the plasma concentration of sirolimus.
@@ -59,6 +59,7 @@ Patients should be carefully monitored for any occurrence of toxicity during the
 Midazolam and other benzodiazepines metabolised by CYP3A4: Posaconazole 200 mg orally once daily increased the AUC of midazolam by 83 % following intravenous administration.
 Due to the inhibition of intestinal CYP3A4 by posaconazole, an even greater effect of posaconazole on the AUC of midazolam is expected following oral administration.
 Dose adjustments should be considered for all benzodiazepines that are metabolised through CYP3A4 (e.g. midazolam, triazolam, alprazolam) during co-administration with posaconazole.
+
 Calcium channel blockers metabolised through CYP3A4 (e.g. diltiazem, verapamil, nifedipine, nisoldipine): Frequent monitoring for adverse events and toxicity related to calcium channel blockers is recommended during co-administration with posaconazole.
 Dose adjustment of calcium channel blockers may be required.
 
