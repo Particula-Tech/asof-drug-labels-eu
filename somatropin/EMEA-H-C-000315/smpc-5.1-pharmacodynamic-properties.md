@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Somatropin and analogues, ATC Code: H01 AC 01
-
 Somatropin stimulates growth rate and increases adult height in children who lack endogenous growth hormone.
 Treatment of growth hormone deficient adults with somatropin results in reduced fat mass, increased lean body mass and increased spine bone mineral density.
 Metabolic alterations in these patients include normalisation of IGF-1 serum levels.

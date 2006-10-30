@@ -20,8 +20,9 @@ Mortality was higher (41.9 % vs. 19.3 %) among growth hormone treated patients (
 The safety of continuing somatropin treatment in patients with acute critical illness in intensive care units due to complications following open-heart or abdominal surgery, multiple accidental trauma or acute respiratory failure receiving replacement doses for approved indications has not been established.
 Therefore, the benefit-risk assessment for continuing treatment should be performed carefully.
 
-Paediatric patients with endocrine disorders, including growth hormone deficiency, have a higher incidence of slipped capital femoral epiphyses.
-Any patient with the onset of a limp or complaint of hip or knee pain should be evaluated.
+Patients with growth hormone failure secondary to CRI should be examined periodically for evidence of progression of renal osteodystrophy.
+Slipped capital femoral epiphyses and aseptic necrosis of the femoral head may be seen in children with advanced renal osteodystrophy and in growth hormone deficiency, and it is uncertain whether these problems are affected by GH therapy.
+Physicians and parents should be alert to the development of a limp or complaints of hip or knee pain in patients treated with NutropinAq.
 
 Scoliosis may progress in any child during rapid growth.
 Signs of scoliosis should be monitored during treatment.

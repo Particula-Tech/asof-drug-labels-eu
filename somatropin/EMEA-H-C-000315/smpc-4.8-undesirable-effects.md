@@ -36,7 +36,6 @@ Patients with endocrinological disorders are more prone to develop an epiphysiol
 Indication-specific adverse drug reactions from clinical trials
 
 Paediatric patients:
-
 Patients with growth failure due to inadequate growth hormone secretion
 Common: central nervous system neoplasm.
 
