@@ -13,6 +13,7 @@ Serious undesirable effects were experienced in 0.0 % of the patients in the Kep
 The most commonly reported undesirable effects were somnolence, hostility, nervousness, emotional lability, agitation, anorexia, asthenia and headache in the paediatric population.
 Safety results in paediatric patients were consistent with the safety profile of levetiracetam in adults except for behavioural and psychiatric adverse events which were more common in children than in adults (38.6% versus 18.6%).
 However, the relative risk was similar in children as compared to adults.
+
 A study conducted in adults and adolescents with myoclonic seizures (12 to 65 years) showed that 33.3% of the patients in the Keppra group and 30.0% of the patients in the placebo group experienced undesirable effects that were judged to be related to treatment.
 The most commonly reported undesirable effects were headache and somnolence.
 The incidence of undesirable effects in patients with myoclonic seizures was lower than that in adult patients with partial onset seizures (33.3% versus 46.4%).
@@ -29,6 +30,7 @@ Very common: asthenia/fatigue
 
 Very common: somnolence
 Common: amnesia, ataxia, convulsion, dizziness, headache, hyperkinesia, tremor, balance disorder, disturbance in attention, memory impairment.
+Post-marketing experience: paraesthesia
 
 - Psychiatric disorders
 
@@ -38,11 +40,17 @@ Post-marketing experience: abnormal behaviour, anger, anxiety, confusion, halluc
 - Gastrointestinal disorders
 
 Common: abdominal pain, diarrhoea, dyspepsia, nausea, vomiting
+Post-marketing experience: pancreatitis
+
+- Hepatobiliary disorders:
+
+Post-marketing experience: hepatic failure, hepatitis, liver function test abnormal
 
 - Metabolism and nutrition disorders
 
 Common: anorexia, weight increase.
 The risk of anorexia is higher when topiramate is coadministered with levetiracetam.
+Post-marketing experience: weight loss
 
 - Ear and labyrinth disorders
 
@@ -76,7 +84,7 @@ Post-marketing experience: alopecia: in several cases, recovery was observed whe
 - Blood and lymphatic system disorders
 
 Common: thrombocytopenia
-Post-marketing experience: leukopenia, neutropenia, pancytopenia
+Post-marketing experience: leukopenia, neutropenia, pancytopenia (with bone marrow suppression identified in some of the cases)
 
 [Keppra 500 mg film-coated tablets.]
 

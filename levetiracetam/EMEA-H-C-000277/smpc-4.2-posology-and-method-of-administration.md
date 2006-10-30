@@ -68,9 +68,9 @@ Dosing adjustment for adult patients with impaired renal function
 
 (1) A 750 mg loading dose is recommended on the first day of treatment with levetiracetam.
 (2) Following dialysis, a 250 to 500 mg supplemental dose is recommended.
+
 For children with renal impairment, levetiracetam dose needs to be adjusted based on the renal function as levetiracetam clearance is related to renal function.
 This recommendation is based on a study in adult renally impaired patients.
-
 Patients with hepatic impairment
 
 No dose adjustment is needed in patients with mild to moderate hepatic impairment.

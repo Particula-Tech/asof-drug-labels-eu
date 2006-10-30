@@ -13,6 +13,7 @@ Furthermore, levetiracetam has been shown in in vitro studies to bind to a speci
 This binding site is the synaptic vesicle protein 2A, believed to be involved in vesicle fusion and neurotransmitter exocytosis.
 Levetiracetam and related analogs show a rank order of affinity for binding to the synaptic vesicle protein 2A which correlates with the potency of their anti-seizure protection in the mouse audiogenic model of epilepsy.
 This finding suggests that the interaction between levetiracetam and the synaptic vesicle protein 2A seems to contribute to the antiepileptic mechanism of action of the medicinal product.
+
 Pharmacodynamic effects
 
 Levetiracetam induces seizure protection in a broad range of animal models of partial and primary generalised seizures without having a pro-convulsant effect.
