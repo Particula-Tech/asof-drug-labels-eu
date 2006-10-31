@@ -19,4 +19,4 @@ EU/1/00/134/018-021
 
 [Lantus 100 Units/ml solution for injection in a pre-filled pen (SmPC 5)]
 
-EU/1/00/134/XXX
+EU/1/00/134/030-037

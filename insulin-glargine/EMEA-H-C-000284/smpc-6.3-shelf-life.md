@@ -2,7 +2,6 @@
 
 Unopened/Not in-use vials:
 2 years.
-
 Opened/In-use vials:
 Shelf-life after first opening of the vial: the product may be stored for a maximum of 4 weeks not above 25°C.
 Keep in the outer carton.

@@ -20,7 +20,6 @@ Immune system disorders
 Rare: Allergic reaction
 Immediate-type allergic reactions to insulin are rare.
 Such reactions to insulin (including insulin glargine) or the excipients may, for example, be associated with generalised skin reactions, angio-oedema, bronchospasm, hypotension and shock, and may be life-threatening.
-
 Insulin administration may cause insulin antibodies to form.
 In clinical studies, antibodies that cross-react with human insulin and insulin glargine were observed with the same frequency in both NPH-insulin and insulin glargine treatment groups.
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
@@ -38,7 +37,9 @@ Rare: Retinopathy
 Long-term improved glycaemic control decreases the risk of progression of diabetic retinopathy.
 However, intensification of insulin therapy with abrupt improvement in glycaemic control may be associated with temporary worsening of diabetic retinopathy.
 In patients with proliferative retinopathy, particularly if not treated with photocoagulation, severe hypoglycaemic episodes may result in transient amaurosis.
+
 Skin and subcutaneous tissue disorders
+
 As with any insulin therapy, lipodystrophy may occur at the injection site and delay local insulin absorption.
 Continuous rotation of the injection site within the given injection area may help to reduce or prevent these reactions.
 
@@ -58,6 +59,12 @@ Most minor reactions to insulins at the injection site usually resolve in a few 
 
 Rare: Oedema
 Rarely, insulin may cause sodium retention and oedema particularly if previously poor metabolic control is improved by intensified insulin therapy.
+
+Paediatric population
+
+In general, the safety profile for patients � 18 years of age is similar to the safety profile for patients > 18 years.
+The adverse event reports received from Post Marketing Surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) in patients � 18 years of age than in patients > 18 years.
+No clinical study safety data are available in patients below 6 years of age.
 
 [Lantus 100 Units/ml solution for injection in a cartridge.]
 

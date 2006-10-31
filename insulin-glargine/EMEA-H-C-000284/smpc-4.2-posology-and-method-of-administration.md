@@ -14,10 +14,10 @@ Children
 
 In children efficacy and safety of Lantus have only been demonstrated when given in the evening.
 Due to limited experience the efficacy and safety of Lantus have not been demonstrated in children below the age of 6 years.
-
 Transition from other insulins to Lantus
 
 When changing from a treatment regimen with an intermediate or long-acting insulin to a regimen with Lantus, a change of the dose of the basal insulin may be required and the concomitant antidiabetic treatment may need to be adjusted (dose and timing of additional regular insulins or fast-acting insulin analogues or the dose of oral antidiabetic agents).
+
 To reduce the risk of nocturnal and early morning hypoglycaemia, patients who are changing their basal insulin regimen from a twice daily NPH insulin to a once daily regimen with Lantus should reduce their daily dose of basal insulin by 20-30% during the first weeks of treatment.
 During the first weeks the reduction should, at least partially, be compensated by an increase in mealtime insulin, after this period the regimen should be adjusted individually.
 As with other insulin analogues, patients with high insulin doses because of antibodies to human insulin may experience an improved insulin response with Lantus.

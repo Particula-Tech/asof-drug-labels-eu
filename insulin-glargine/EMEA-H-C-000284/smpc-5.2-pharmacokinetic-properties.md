@@ -5,6 +5,7 @@ Concentrations were thus consistent with the time profile of the pharmacodynamic
 The graph above shows the activity profiles over time of insulin glargine and NPH insulin.
 
 Insulin glargine injected once daily will reach steady state levels in 2-4 days after the first dose.
+
 When given intravenously the elimination half-life of insulin glargine and human insulin were comparable.
 
 In man, insulin glargine is partly degraded in the subcutaneous tissue at the carboxyl terminus of the Beta chain with formation of the active metabolites 21A-Gly-insulin and 21A -Gly-des-30B-Thr-insulin.
