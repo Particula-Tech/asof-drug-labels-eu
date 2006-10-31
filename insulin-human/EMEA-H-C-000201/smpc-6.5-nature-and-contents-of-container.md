@@ -18,7 +18,7 @@ Each vial contains 10 ml solution (400 IU insulin human).
 Each cartridge contains 3 ml solution (300 IU insulin human).
 Packs of 4, 5 or 10 cartridges are available.
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection]
 
 Disposable pen filled with a 3 ml, type 1 colourless glass cartridge with bromobutyl rubber (type 1) plunger and flanged aluminium cap with bromobutyl or laminate of polyisoprene and bromobutyl rubber (type 1) stopper.
 
@@ -40,7 +40,7 @@ Each cartridge contains 3 balls (stainless steel).
 
 Each cartridge contains 3 ml suspension (300 IU insulin human).
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection]
 
 Disposable pen filled with 3 ml, type 1 colourless glass cartridge with bromobutyl rubber (type 1) plunger and flanged aluminium cap with bromobutyl or laminate of polyisoprene and bromobutyl rubber (type 1) stopper.
 
@@ -56,7 +56,7 @@ Disposable pen filled with 3 ml, type 1 colourless glass cartridge with bromobut
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
 
 (all sentences already above)
 
@@ -72,7 +72,7 @@ Disposable pen filled with 3 ml, type 1 colourless glass cartridge with bromobut
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
 
 (all sentences already above)
 
@@ -88,7 +88,7 @@ Disposable pen filled with 3 ml, type 1 colourless glass cartridge with bromobut
 
 Each ball contains 3 balls (stainless steel).
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
 
 (all sentences already above)
 

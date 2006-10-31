@@ -19,9 +19,9 @@ Each vial contains 10 ml, equivalent to 400 IU insulin.
 
 Each cartridge contains 3 ml, equivalent to 300 IU insulin.
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection]
 
-Insuman Rapid OptiSet is a pre-filled pen containing Insuman Rapid, a neutral insulin solution (regular insulin).
+Insuman Rapid OptiSet is a pre-filled disposable pen containing Insuman Rapid, a neutral insulin solution (regular insulin).
 
 Each pen contains 3 ml, equivalent to 300 IU insulin.
 
@@ -41,9 +41,9 @@ Each ml of Insuman Basal contains 40 IU of the active substance insulin human.
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection]
 
-Insuman Basal OptiSet is a pre-filled pen containing Insuman Basal, an isophane insulin suspension.
+Insuman Basal OptiSet is a pre-filled disposable pen containing Insuman Basal, an isophane insulin suspension.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
@@ -61,9 +61,9 @@ Each ml of Insuman Comb 15 contains 40 IU of the active substance insulin human.
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
 
-Insuman Comb 15 OptiSet is a pre-filled pen containing Insuman Comb 15, a biphasic isophane insulin suspension consisting of 15% dissolved insulin and 85% crystalline protamine insulin.
+Insuman Comb 15 OptiSet is a pre-filled disposable pen containing Insuman Comb 15, a biphasic isophane insulin suspension consisting of 15% dissolved insulin and 85% crystalline protamine insulin.
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
@@ -81,9 +81,9 @@ Each ml of Insuman Comb 25 contains 40 IU of the active substance insulin human.
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
 
-Insuman Comb 25 OptiSet is a pre-filled pen containing Insuman Comb 25, a biphasic isophane insulin suspension consisting of 25% dissolved insulin and 75% crystalline protamine insulin.
+Insuman Comb 25 OptiSet is a pre-filled disposable pen containing Insuman Comb 25, a biphasic isophane insulin suspension consisting of 25% dissolved insulin and 75% crystalline protamine insulin.
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
@@ -104,9 +104,9 @@ K 12 strains of Escherichia coli.
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
 
-Insuman Comb 50 OptiSet is a pre-filled pen containing Insuman Comb 50, a biphasic isophane insulin suspension consisting of 50% dissolved insulin and 50% crystalline protamine insulin.
+Insuman Comb 50 OptiSet is a pre-filled disposable pen containing Insuman Comb 50, a biphasic isophane insulin suspension consisting of 50% dissolved insulin and 50% crystalline protamine insulin.
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 

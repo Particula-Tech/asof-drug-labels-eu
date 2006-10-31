@@ -14,7 +14,7 @@ EU/1/97/030/030
 EU/1/97/030/055
 EU/1/97/030/056
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection]
 
 EU/1/97/030/065
 EU/1/97/030/066
@@ -37,7 +37,7 @@ EU/1/97/030/035
 EU/1/97/030/057
 EU/1/97/030/058
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection]
 
 EU/1/97/030/069
 EU/1/97/030/070
@@ -60,7 +60,7 @@ EU/1/97/030/040
 EU/1/97/030/059
 EU/1/97/030/060
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
 
 EU/1/97/030/073
 EU/1/97/030/074
@@ -83,7 +83,7 @@ EU/1/97/030/045
 EU/1/97/030/061
 EU/1/97/030/062
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
 
 EU/1/97/030/077
 EU/1/97/030/078
@@ -106,7 +106,7 @@ EU/1/97/030/050
 EU/1/97/030/063
 EU/1/97/030/064
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
 
 EU/1/97/030/081
 EU/1/97/030/082

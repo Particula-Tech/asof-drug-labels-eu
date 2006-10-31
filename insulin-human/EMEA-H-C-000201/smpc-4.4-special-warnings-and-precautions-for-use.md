@@ -33,7 +33,6 @@ These include patients:
 Such situations may result in severe hypoglycaemia (and possibly loss of consciousness) prior to the patient's awareness of hypoglycaemia.
 
 If normal or decreased values for glycated haemoglobin are noted, the possibility of recurrent, unrecognised (especially nocturnal) episodes of hypoglycaemia must be considered.
-
 Adherence of the patient to the dosage and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
 Factors increasing the susceptibility to hypoglycaemia require particularly close monitoring and may necessitate dose adjustment.
 These include:
@@ -63,7 +62,7 @@ Patients with type 1 diabetes must continue to consume at least a small amount o
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection]
 
 Handling of the pen
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully.
@@ -83,7 +82,7 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection]
 
 (all sentences already above)
 
@@ -101,7 +100,7 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
 
 (all sentences already above)
 
@@ -119,7 +118,7 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
 
 Handling of the pen-
 
@@ -137,7 +136,7 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
 
 (all sentences already above)
 

@@ -14,7 +14,7 @@ Care must be taken to ensure that no alcohol or other disinfectants enter the in
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection]
 
 (all sentences already above)
 
@@ -33,7 +33,7 @@ Care must be taken to ensure that no alcohol or other disinfectants enter the in
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection]
 
 (all sentences already above)
 
@@ -53,7 +53,7 @@ It must also be remembered that
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
 
 (all sentences already above)
 
@@ -69,7 +69,7 @@ As with all insulin preparations, Insuman Comb 25 must not be mixed with solutio
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
 
 (all sentences already above)
 
@@ -85,7 +85,7 @@ As with all insulin preparations, Insuman Comb 50 must not be mixed with solutio
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
 
 (all sentences already above)
 

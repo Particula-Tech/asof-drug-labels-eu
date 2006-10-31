@@ -40,9 +40,7 @@ Dose adjustment may also be required, for example, if
 
 - the patient's weight changes,
 - the patient's life-style changes,
-- other circumstances arise that may promote an increased susceptibility to hypo- or
-
-hyperglycaemia (see section 4.4).
+- other circumstances arise that may promote an increased susceptibility to hypo- or hyperglycaemia (see section 4.4).
 
 Use in specific patient groups
 
@@ -64,12 +62,10 @@ Intravenous insulin therapy must generally take place in an intensive care unit 
 
 Mixing of insulins
 
-Insuman Rapid may be mixed with all Aventis Pharma human insulins, but NOT with those designed specifically for use in insulin pumps.
+Insuman Rapid may be mixed with all Sanofi-Aventis human insulins, but NOT with those designed specifically for use in insulin pumps.
 Insuman Rapid must also NOT be mixed with insulins of animal origin or with insulin analogues.
 
 [Insuman Rapid 40 U/ml solution for injection in a vial]
-
-- other circumstances arise that may promote an increased susceptibility to hypo- or hyperglycaemia (see section 4.4).
 
 Insuman Rapid contains 40 IU of insulin per ml solution.
 Only syringes designed for this strength of insulin (40 IU per ml) are to be used.
@@ -80,7 +76,7 @@ Insuman Rapid in cartridges has been developed for use in the OptiPen series.
 
 For further details on handling, see section 6.6.
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection]
 
 Insuman Rapid OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 
@@ -99,7 +95,7 @@ Insuman Basal contains 100 IU of insulin per ml suspension.
 Insuman Basal is administered subcutaneously.
 Insuman Basal must never be injected intravenously.
 
-Insuman Basal may be mixed with all Aventis Pharma human insulins, but NOT with those designed specifically for use in insulin pumps.
+Insuman Basal may be mixed with all Sanofi-Aventis human insulins, but NOT with those designed specifically for use in insulin pumps.
 Insuman Basal must also NOT be mixed with insulins of animal origin or with insulin analogues.
 
 [Insuman Basal 40 IU/ml suspension for injection in a vial]
@@ -110,7 +106,7 @@ Insuman Basal contains 40 IU of insulin per ml suspension.
 
 Insuman Basal in cartridges has been developed for use in the OptiPen series.
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection]
 
 Insuman Basal OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 
@@ -129,7 +125,7 @@ Insuman Comb 15 contains 100 IU of insulin per ml suspension.
 Insuman Comb 15 is administered subcutaneously.
 Insuman Comb 15 must never be injected intravenously.
 
-Insuman Comb 15 may be mixed with all Aventis Pharma human insulins, but NOT with those designed specifically for use in insulin pumps.
+Insuman Comb 15 may be mixed with all Sanofi-Aventis human insulins, but NOT with those designed specifically for use in insulin pumps.
 Insuman Comb 15 must also NOT be mixed with insulins of animal origin or with insulin analogues.
 
 [Insuman Comb 15 40 IU/ml suspension for injection in a vial]
@@ -140,7 +136,7 @@ Insuman Comb 15 contains 40 IU of insulin per ml suspension.
 
 Insuman Comb 15 in cartridges has been developed for use in the OptiPen series.
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
 
 Insuman Comb 15 OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 
@@ -152,12 +148,16 @@ Insuman Comb 25 is injected subcutaneously 30 to 45 minutes before a meal.
 
 Transfer to Insuman Comb 25
 
+- other circumstances arise that may promote an increased susceptibility to hypo- or
+
+hyperglycaemia (see section 4.4).
+
 Insuman Comb 25 contains 100 IU of insulin per ml suspension.
 
 Insuman Comb 25 is administered subcutaneously.
 Insuman Comb 25 must never be injected intravenously.
 
-Insuman Comb 25 may be mixed with all Aventis Pharma human insulins, but NOT with those designed specifically for use in insulin pumps.
+Insuman Comb 25 may be mixed with all Sanofi-Aventis human insulins, but NOT with those designed specifically for use in insulin pumps.
 Insuman Comb 25 must also NOT be mixed with insulins of animal origin or with insulin analogues.
 
 [Insuman Comb 25 40 IU/ml suspension for injection in a vial]
@@ -168,7 +168,7 @@ Insuman Comb 25 contains 40 IU of insulin per ml suspension.
 
 Insuman Comb 25 in cartridges has been developed for use in the OptiPen series.
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
 
 Insuman Comb 25 OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 
@@ -185,7 +185,7 @@ Insuman Comb 50 contains 100 IU of insulin per ml suspension.
 Insuman Comb 50 is administered subcutaneously.
 Insuman Comb 50 must never be injected intravenously.
 
-Insuman Comb 50 may be mixed with all Aventis Pharma human insulins, but NOT with those designed specifically for use in insulin pumps.
+Insuman Comb 50 may be mixed with all Sanofi-Aventis human insulins, but NOT with those designed specifically for use in insulin pumps.
 Insuman Comb 50 must also NOT be mixed with insulins of animal origin or with insulin analogues.
 
 [Insuman Comb 50 40 IU/ml suspension for injection in a vial]
@@ -196,7 +196,7 @@ Insuman Comb 50 contains 40 IU of insulin per ml suspension.
 
 Insuman Comb 50 in cartridges has been developed for use in the OptiPen series.
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
 
 Insuman Comb 50 OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 

@@ -15,7 +15,7 @@ Once in use, do not store above 25°C and protect from direct heat or light.
 
 When in use (in the pen), do not store in a refrigerator.
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection in a pre-filled pen]
+[Insuman Rapid 100 IU/ml OptiSet solution for injection]
 
 Ensure that the pen is not directly touching the freezer compartment or freezer packs.
 
@@ -34,7 +34,7 @@ When in use, do not store in a refrigerator.
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Basal 100 IU/ml OptiSet suspension for injection]
 
 Before first use, Insuman Basal OptiSet must be kept at room temperature for 1 to 2 hours.
 
@@ -50,7 +50,7 @@ Before first use, Insuman Basal OptiSet must be kept at room temperature for 1 t
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
 
 Before first use, Insuman Comb 15 OptiSet must be kept at room temperature for 1 to 2 hours.
 
@@ -66,7 +66,7 @@ Before first use, Insuman Comb 15 OptiSet must be kept at room temperature for 1
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
 
 Before first use, Insuman Comb 25 OptiSet must be kept at room temperature for 1 to 2 hours.
 
@@ -82,7 +82,7 @@ Before first use, Insuman Comb 25 OptiSet must be kept at room temperature for 1
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection in a pre-filled pen]
+[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
 
 Before first use, Insuman Comb 50 OptiSet must be kept at room temperature for 1 to 2 hours.
 
