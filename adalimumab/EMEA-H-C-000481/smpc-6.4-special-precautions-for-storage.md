@@ -11,3 +11,7 @@ Keep the syringe in the outer carton.
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
 (all sentences already above)
+
+[Humira 40 mg solution for injection in pre-filled pen]
+
+Keep the pre-filled pen in the outer carton.

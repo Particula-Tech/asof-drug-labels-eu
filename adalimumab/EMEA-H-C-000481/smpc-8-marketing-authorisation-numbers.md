@@ -12,3 +12,7 @@ EU/1/03/256/005
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
 EU/1/03/256/006
+
+[Humira 40 mg solution for injection in pre-filled pen]
+
+(all sentences already above)

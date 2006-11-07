@@ -29,8 +29,7 @@ No dose adjustment is required.
 
 Children and adolescents
 
-Humira has not been studied in this patient population.
-Therefore, use of Humira cannot be recommended in patients aged below 18 years until further data become available.
+There is no experience in children.
 
 Impaired renal and/or hepatic function
 
@@ -44,3 +43,7 @@ In monotherapy, some patients who experience a decrease in their response to Hum
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
 In monotherapy, some patients who experience decrease in their response to Humira may benefit from an increase in dose intensity to 40 mg adalimumab every week.
+
+[Humira 40 mg solution for injection in pre-filled pen]
+
+(all sentences already above)
