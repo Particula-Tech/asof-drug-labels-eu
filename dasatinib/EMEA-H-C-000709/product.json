@@ -1,0 +1,16 @@
+{
+  "active_substance": "dasatinib",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000709",
+  "eu_number": "EU/1/06/363",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2006-11-20",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sprycel",
+  "molecule": "dasatinib",
+  "molecule_name": "DASATINIB",
+  "name": "Sprycel",
+  "register_name": "Sprycel",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h363.htm"
+}

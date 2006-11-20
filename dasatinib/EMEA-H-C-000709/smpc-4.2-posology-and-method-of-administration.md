@@ -1,0 +1,43 @@
+# 4.2 Posology and method of administration
+
+Therapy should be initiated by a physician experienced in the diagnosis and treatment of patients with leukaemia.
+
+The recommended dosage of SPRYCEL is 70 mg twice daily (BID), administered orally in the morning and in the evening, with or without a meal.
+Tablets must not be crushed or cut, they must be swallowed whole.
+To achieve the recommended dosage, SPRYCEL is available as 20 mg, 50 mg and 70 mg film-coated tablets.
+
+Treatment duration: in clinical trials, treatment with SPRYCEL was continued until disease progression or until no longer tolerated by the patient.
+The effect of stopping treatment after the achievement of a complete cytogenetic response (CCyR) has not been investigated.
+
+Dose escalation:
+In clinical trials of adult CML and Ph+ ALL patients, dose escalation to 90 mg BID (chronic phase CML) or 100 mg BID (accelerated and blast phase CML or Ph+ ALL) was allowed in patients who did not achieve a haematologic or cytogenetic response.
+Dose adjustment for undesirable effects:
+
+Myelosuppression:
+In clinical trials, myelosuppression was managed by dose interruption, dose reduction, or discontinuation of study therapy.
+Platelet transfusion and red cell transfusion were used as appropriate.
+Haematopoetic growth factor has been used in patients with resistant myelosuppression.
+Guidelines for dose modifications are summarized in Table 1.
+
+| Table 1 Dose adjustments for neutropenia and thrombocytopenia |  |  |
+| --- | --- | --- |
+| Chronic Phase CML (starting dose 70 mg BID) | ANC < 0.5 x 109/l and/or Platelets < 50 x 109/l | 1 Stop treatment until ANC ≥ 1.0 x 109/l and platelets ≥ 50 x 109/l. 2 Resume treatment at the original starting dose. 3 If platelets < 25 x 109/l and/or recurrence of ANC < 0.5 x 109/l for > 7 days, repeat step 1 and resume treatment at a reduced dose (50 mg BID if starting dose was 70 mg BID, 40 mg BID if previously reduced to 50 mg BID). |
+| Accelerated and Blast Phase CML and Ph+ ALL (starting dose 70 mg BID) | ANC < 0.5 x 109/l and/or Platelets < 10 x 109/l | 1 Check if cytopenia is related to leukaemia (marrow aspirate or biopsy). 2 If cytopenia is unrelated to leukaemia, stop treatment until ANC ≥ 1.0 x 109/l and platelets ≥ 20 x 109/l and resume at the original starting dose. 3 If recurrence of cytopenia, repeat step 1 and resume treatment at a reduced dose of 50 mg BID (second episode) or 40 mg BID (third episode). 4 If cytopenia is related to leukaemia, consider dose escalation to 100 mg BID. |
+
+ANC: absolute neutrophil count
+
+Non-haematological adverse reactions:
+If a severe non-haematological adverse reaction develops with SPRYCEL, treatment must be withheld until the event has resolved.
+Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the initial severity of the event.
+
+Paediatric use: SPRYCEL is not recommended for use in children and adolescents below 18 years of age due to a lack of data on safety and efficacy (see section 5.1).
+
+Elderly patients: no clinically relevant age-related pharmacokinetic differences have been observed in these patients.
+No specific dose recommendation is necessary in the elderly.
+
+Hepatic impairment: no clinical trials were conducted with SPRYCEL in patients with decreased liver function (trials excluded patients with ALT and/or AST > 2.5 times the upper limit of the normal range and/or total bilirubin > 2 times the upper limit of the normal range).
+Since dasatinib is mainly metabolised through the liver, exposure to dasatinib is expected to increase if liver function is impaired.
+SPRYCEL should be used with caution in patients with moderate to severe hepatic impairment (see sections 4.4 and 4.8).
+
+Renal impairment: no clinical trials were conducted with SPRYCEL in patients with decreased renal function (trials excluded patients with serum creatinine concentration > 1.5 times the upper limit of the normal range).
+Since the renal clearance of dasatinib and its metabolites is < 4%, a decrease in total body clearance is not expected in patients with renal insufficiency.

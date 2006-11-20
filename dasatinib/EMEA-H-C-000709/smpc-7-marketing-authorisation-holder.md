@@ -1,0 +1,7 @@
+# 7. MARKETING AUTHORISATION HOLDER
+
+BRISTOL-MYERS SQUIBB PHARMA EEIG
+Uxbridge Business Park
+Sanderson Road
+Uxbridge UB8 1DH
+United Kingdom
