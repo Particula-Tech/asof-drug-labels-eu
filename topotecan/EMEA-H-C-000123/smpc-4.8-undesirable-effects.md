@@ -7,7 +7,7 @@ There were no signs of cumulative haematological or non-haematological toxicity.
 The integrated safety data are presented below.
 
 Adverse reactions are listed below, by system organ class and absolute frequency (all reported events).
-Frequencies are defined as: very common (> 1/10), common (> 1/100, < 1/10); uncommon (> 1/1,000, < 1/100); rare (> 1/10,000, < 1/1,000); very rare (< 1/10,000), including isolated reports.
+Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000), including isolated reports.
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 

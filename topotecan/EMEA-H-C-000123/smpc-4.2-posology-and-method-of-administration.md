@@ -2,7 +2,7 @@
 
 The use of topotecan should be confined to units specialised in the administration of cytotoxic chemotherapy and should only be administered under the supervision of a physician experienced in the use of chemotherapy (see section 6.6).
 
-Initial Dose
+Initial dose
 The recommended dose of topotecan is 1.5 mg/m2 body surface area/day administered by intravenous infusion over 30 minutes daily for 5 consecutive days with a 3 week interval between the start of each course.
 If well tolerated, treatment may continue until disease progression (see sections 4.8 and 5.1).
 
@@ -11,7 +11,7 @@ Prior to administration of the first course of topotecan, patients must have a b
 Routine pre-medication for non-haematological adverse events is not required with topotecan.
 Topotecan must be reconstituted and further diluted before use (see section 6.6).
 
-Subsequent Doses
+Subsequent doses
 Topotecan should not be re-administered unless the neutrophil count is ≥ 1 x 109/l, the platelet count is ≥ 100 x 109/l, and the haemoglobin level is ≥ 9 g/dl (after transfusion if necessary).
 
 Patients who experience severe neutropenia (neutrophil count < 0.5 x 109/l) for 7 days or more, or severe neutropenia associated with fever or infection, or who have had treatment delayed due to neutropenia, should be treated as follows:
@@ -22,7 +22,7 @@ If neutropenia is not adequately managed with G-CSF administration, doses should
 Doses should be similarly reduced if the platelet count falls below 25 x 109/l.
 In clinical trials, topotecan was discontinued if the dose had been reduced to 1.0 mg/m2 and a further dose reduction was required to manage adverse effects.
 
-Dosage in Renally Impaired Patients
+Dosage in renally impaired patients
 Insufficient data are available to make a recommendation for patients with a creatinine clearance
 < 20 ml/min.
 Limited data indicate that the dose should be reduced in patients with moderate renal impairment.

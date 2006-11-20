@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmaco-therapeutic group: Antineoplastic and immunomodulating agent: ATC-code: L01X X17.
+Pharmaco-therapeutic group: Antineoplastic and immunomodulating agent: ATC-code: L01XX17.
 
 The anti-tumour activity of topotecan involves the inhibition of topoisomerase-I, an enzyme intimately involved in DNA replication as it relieves the torsional strain introduced ahead of the moving replication fork.
 Topotecan inhibits topoisomerase-I by stabilising the covalent complex of enzyme and strand-cleaved DNA which is an intermediate of the catalytic mechanism.
@@ -32,6 +32,7 @@ In another phase III trial, the efficacy of oral [n=153] and intravenous [n=151]
 The overall response rates were 18.3 % for oral and 21.9 % for intravenous topotecan.
 Median survival was 33.0 weeks [95 % CI: 29.1, 42.4] in the oral group and 35.0 weeks [95 % CI: 31.0, 37.4] in the intravenous group.
 Oral and i.v. topotecan were associated with similar symptom palliation in patients with relapsed sensitive SCLC.
+
 In another randomised phase III trial which compared IV topotecan to cyclophosphamide, Adriamycin (doxorubicin) and vincristine (CAV) in patients with relapsed, sensitive SCLC, the overall response rate was 24.3% for topotecan compared to 18.3% for the CAV group.
 Median time to progression was similar in the two groups (13.3 weeks and 12.3 weeks respectively).
 Median survivals for the two groups were 25.0 and 24.7 weeks respectively.
