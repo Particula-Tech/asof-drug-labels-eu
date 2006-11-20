@@ -2,7 +2,7 @@
 
 1 g of Protopic 0.03% ointment contains 0.3 mg of tacrolimus as tacrolimus monohydrate (0.03%).
 
-For excipients, see 6.1.
+For a full list of excipients, see section 6.1.
 
 [Protopic 0.1% ointment]
 

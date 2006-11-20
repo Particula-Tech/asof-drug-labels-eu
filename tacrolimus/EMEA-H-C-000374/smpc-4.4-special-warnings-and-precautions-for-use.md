@@ -1,10 +1,10 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Protopic should not be used in patients with congenital or acquired immunodeficiencies or in patients on therapy that cause immunosuppression.
 
-The effect of treatment with Protopic ointment on the developing immune system of children, especially the young, has not yet been established and this should be taken into account when prescribing to this age group (see 4.1).
+The effect of treatment with Protopic ointment on the developing immune system of children, especially the young, has not yet been established and this should be taken into account when prescribing to this age group (see section 4.1).
 
-Exposure of the skin to sunlight should be minimised and the use of ultraviolet (UV) light from a solarium, therapy with UVB or UVA in combination with psoralens (PUVA) should be avoided during use of Protopic ointment (see 5.3).
+Exposure of the skin to sunlight should be minimised and the use of ultraviolet (UV) light from a solarium, therapy with UVB or UVA in combination with psoralens (PUVA) should be avoided during use of Protopic ointment (see section 5.3).
 Physicians should advise patients on appropriate sun protection methods, such as minimisation of the time in the sun, use of a sunscreen product and covering of the skin with appropriate clothing.
 Protopic ointment should not be applied to lesions that are considered to be potentially malignant or pre-malignant.
 
@@ -17,7 +17,7 @@ Before commencing treatment with Protopic ointment, clinical infections at treat
 Patients with atopic dermatitis are predisposed to superficial skin infections.
 Treatment with Protopic may be associated with an increased risk of herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes simplex [cold sores], Kaposi’s varicelliform eruption).
 In the presence of these infections, the balance of risks and benefits associated with Protopic use should be evaluated.
-The potential for local immunosuppression (possibly resulting in infections or cutaneous malignancies) in the long term (i.e. over a period of years) is unknown (see 5.1).
+The potential for local immunosuppression (possibly resulting in infections or cutaneous malignancies) in the long term (i.e. over a period of years) is unknown (see section 5.1).
 
 Protopic contains the active substance tacrolimus, a calcineurin inhibitor.
 In transplant patients, prolonged systemic exposure to intense immunosuppression following systemic administration of calcineurin inhibitors has been associated with an increased risk of developing lymphomas and skin malignancies.
@@ -37,7 +37,7 @@ The use of Protopic ointment under occlusion has not been studied in patients.
 Occlusive dressings are not recommended.
 As with any topical medicinal product, patients should wash their hands after application if the hands are not intended for treatment.
 
-Tacrolimus is extensively metabolised in the liver and although blood concentrations are low following topical therapy, the ointment should be used with caution in patients with hepatic failure (see 5.2).
+Tacrolimus is extensively metabolised in the liver and although blood concentrations are low following topical therapy, the ointment should be used with caution in patients with hepatic failure (see section 5.2).
 
 The use of Protopic ointment in patients with genetic epidermal barrier defects such as Netherton’s syndrome is not recommended due to the potential for permanently increased systemic absorption of tacrolimus.
 The safety of Protopic ointment has not been established in patients with generalised erythroderma.

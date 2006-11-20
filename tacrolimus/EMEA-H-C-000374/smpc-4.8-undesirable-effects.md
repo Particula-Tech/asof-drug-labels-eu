@@ -10,6 +10,7 @@ Patients may be at an increased risk of folliculitis, acne and herpes viral infe
 Adverse reactions with suspected relationship to treatment are listed below by system organ class.
 Frequencies are defined as very common (> 1/10), common (> 1/100, < 1/10) and uncommon
 (> 1/1,000, < 1/100).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 General disorders and administration site conditions
 Very common: Application site burning, application site pruritus
@@ -26,7 +27,7 @@ simplex [cold sores], Kaposi’s varicelliform eruption)
 
 Skin and subcutaneous tissue disorders
 
-Common: Folliculitits, pruritus
+Common: Folliculitis, pruritus
 
 Uncommon: Acne
 

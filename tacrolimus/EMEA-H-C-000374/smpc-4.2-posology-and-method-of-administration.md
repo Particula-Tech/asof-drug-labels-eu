@@ -6,7 +6,7 @@ Treatment should be intermittent and not continuous.
 
 Protopic ointment should be applied as a thin layer to affected areas of the skin.
 Protopic ointment may be used on any part of the body, including face, neck and flexure areas, except on mucous membranes.
-Protopic ointment should not be applied under occlusion (see 4.4).
+Protopic ointment should not be applied under occlusion (see section 4.4).
 
 Each affected region of the skin should be treated with Protopic until clearance occurs and then treatment should be discontinued.
 Generally, improvement is seen within one week of starting treatment.
@@ -18,7 +18,7 @@ Protopic is not recommended for use in children below age of 2 years until furth
 
 Use in children (2 years of age and above)
 Treatment should be started twice a day for up to three weeks.
-Afterwards the frequency of application should be reduced to once a day until clearance of the lesion (see 4.4).
+Afterwards the frequency of application should be reduced to once a day until clearance of the lesion (see section 4.4).
 
 Use in adults (16 years of age and above)
 Protopic is available in two strengths, Protopic 0.03% and Protopic 0.1% ointment.

@@ -75,7 +75,3 @@ In addition, there was no evidence of loss of efficacy throughout the duration o
 The overall incidence of adverse events tended to decrease as the study progressed for all patients independent of age.
 The three most common adverse events reported were flu-like symptoms (cold, common cold, influenza, upper respiratory infection, etc.), pruritus and skin burning.
 No adverse events previously unreported in shorter duration and/or previous studies were observed in this long-term study.
-
-[Protopic 0.1% ointment]
-
-A statistically significant better improvement was shown for once daily and twice daily 0.03% tacrolimus ointment compared to with twice daily hydrocortisone acetate ointment (p<0.001 for both).
