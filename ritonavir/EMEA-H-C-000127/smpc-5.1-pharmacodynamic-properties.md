@@ -1,32 +1,31 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmaco-therapeutic group: antiviral for systemic use, ATC code: J05A E03
+
+Ritonavir dosed as a pharmacokinetic enhancer
+
+Pharmacokinetic enhancement by ritonavir is based on ritonavir’s activity as a potent inhibitor of CYP3A- mediated metabolism.
+The degree of enhancement is related to the metabolic pathway of the co-administered protease inhibitor and the impact of the co-administered protease inhibitor on the metabolism of ritonavir.
+Maximal inhibition of metabolism of the co-administered protease inhibitor is generally achieved with ritonavir doses of 100 mg daily to 200 mg twice daily, and is dependent on the co-administered protease inhibitor.
+For additional information on the effect of ritonavir on co-administered protease inhibitor metabolism, see Section 4.5 and refer to the Summary of Product Characteristics of the particular co-administered PIs.
+
+Ritonavir dosed as an antiretroviral agent
+
 Ritonavir is an orally active peptidomimetic inhibitor of the HIV-1 and HIV-2 aspartyl proteases.
 Inhibition of HIV protease renders the enzyme incapable of processing the gag-pol polyprotein precursor which leads to the production of HIV particles with immature morphology that are unable to initiate new rounds of infection.
 Ritonavir has selective affinity for the HIV protease and has little inhibitory activity against human aspartyl proteases.
 
-In vitro data indicates that ritonavir is active against all strains of HIV tested in a variety of transformed and primary human cell lines.
-The concentration of ritonavir that inhibits 50% and 90% of viral replication in vitro is approximately 0.02 µM and 0.11 µM, respectively.
-Similar potencies were found with both AZT-sensitive and AZT-resistant strains of HIV.
-Studies which measured direct cell toxicity of ritonavir on several cell lines showed no direct toxicity at concentrations up to 25 µM, with a resulting in vitro therapeutic index of at least 1000.
+Ritonavir was the first protease inhibitor (approved in 1996) for which efficacy was proven in a study with clinical endpoints.
+However, due to ritonavir’s metabolic inhibitory properties its use as a pharmacokinetic enhancer of other protease inhibitors is the prevalent use of ritonavir in clinical practice (see section 4.2).
 
 Resistance
 
-Ritonavir-resistant isolates of HIV-1 have been selected in vitro.
-The resistant isolates showed reduced susceptibility to ritonavir and genotypic analysis showed that the resistance was attributable primarily to specific amino acid substitutions in the HIV-1 protease at codons 82 and 84.
+Ritonavir-resistant isolates of HIV-1 have been selected in vitro and isolated from patients treated with therapeutic doses of ritonavir.
 
-Susceptibility of clinical isolates to ritonavir was monitored in controlled clinical trials.
-Some patients receiving ritonavir monotherapy developed HIV strains with decreased susceptibility to ritonavir.
-Serial genotypic and phenotypic analysis indicated that susceptibility to ritonavir declined in an ordered and stepwise fashion.
-Initial mutations occurred at position 82 from wildtype valine to usually alanine or phenylalanine (V82A/F).
-Viral strains isolated in vivo without a change at codon 82 did not have decreased susceptibility to ritonavir.
-
-Cross-resistance to other antiretrovirals
-
-Serial HIV isolates obtained from six patients during ritonavir therapy showed a decrease in ritonavir susceptibility in vitro but did not demonstrate a concordant decrease in susceptibility to saquinavir in vitro when compared to matched baseline isolates.
-However, isolates from two of these patients demonstrated decrease susceptibility to indinavir in vitro (8-fold).
-Cross-resistance between ritonavir and reverse transcriptase inhibitors is unlikely because of the different enzyme targets involved.
-One AZT-resistant HIV isolate tested in vitro retained full susceptibility to ritonavir.
+Reduction in the antiretroviral activity of ritonavir is primarily associated with the protease mutations V82A/F/T/S and I84V.
+Accumulation of other mutations in the protease gene (including at positions 20, 33, 36, 46, 54, 71, and 90) can also contribute to ritonavir resistance.
+In general, as mutations associated with ritonavir resistance accumulate, susceptibility to select other PIs may decrease due to cross-resistance.
+The Summary of Product Characteristics of other protease inhibitors or official continuous updates should be consulted for specific information regarding protease mutations associated with reduced response to these agents.
 
 Clinical pharmacodynamic data
 
@@ -34,22 +33,23 @@ The effects of ritonavir (alone or combined with other antiretroviral agents) on
 The following studies are the most important.
 
 Adult Use
-A controlled study with ritonavir as add-on therapy in HIV-1 infected patients extensively pre-treated with nucleoside analogues and baseline CD4 cell counts ≤ 100 cells/µl showed a reduction in mortality and AIDS defining events.
+
+A controlled study completed in 1996 with ritonavir as add-on therapy in HIV-1 infected patients extensively pre-treated with nucleoside analogues and baseline CD4 cell counts ≤ 100 cells/µl showed a reduction in mortality and AIDS defining events.
 The mean average change from baseline over 16 weeks for HIV RNA levels was -0.79 log10 (maximum mean decrease: 1.29 log10) in the ritonavir group versus-0.01 log10 in the control group.
 The most frequently used nucleosides in this study were zidovudine, stavudine, didanosine and zalcitabine.
 
-In a study recruiting less advanced HIV-1 infected patients (CD4 200-500 cells/µl) without previous antiretroviral therapy, ritonavir in combination with zidovudine or alone reduced viral load in plasma and increased CD4 count.
-The effects of ritonavir monotherapy seemed unexpectedly to be at least as large as the combination therapy, a finding which has not been explained adequately.
+In a study completed in 1996 recruiting less advanced HIV-1 infected patients (CD4 200-500 cells/µl) without previous antiretroviral therapy, ritonavir in combination with zidovudine or alone reduced viral load in plasma and increased CD4 count.
 The mean average change from baseline over 48 weeks for HIV RNA levels was -0.88 log10 in the ritonavir group versus -0.66 log10 in the ritonavir + zidovudine group versus -0.42 log10 in the zidovudine group.
+
 The continuation of ritonavir therapy should be evaluated by viral load because of the possibility of the emergence of resistance as described under section 4.1 Therapeutic indications.
 
-In an open label trial in 32 antiretroviral naive HIV-1 infected patients the combination of ritonavir with zidovudine and zalcitabine decreased the viral load (mean decrease at week 20 of -1.76 log10).
-
 Paediatric Use
-In an open label trial in HIV infected, clinically stable children there was a significant difference
-(p = 0.03) in the detectable RNA levels in favour of a triple regimen (ritonavir, zidovudine and lamivudine) following 48 weeks treatment.
 
-Studies investigating optimal combinations and the long term efficacy and safety of ritonavir are ongoing.
+In an open label trial completed in 1998 in HIV infected, clinically stable children there was a significant difference (p = 0.03) in the detectable RNA levels in favour of a triple regimen (ritonavir, zidovudine and lamivudine) following 48 weeks treatment.
+
+In a study completed in 2003, 50 HIV-1 infected, protease inhibitor and lamivudine naïve children age 4 weeks to 2 years received ritonavir 350 or 450 mg/m2 every 12 hours co-administered with zidovudine 160 mg/m2 every 8 hours and lamivudine 4 mg/kg every 12 hours.
+In intent to treat analyses, 72% and 36% of patients achieved reduction in plasma HIV-1 RNA of ≤ 400 copies/ml at Week 16 and 104, respectively.
+Response was similar in both dosing regimens and across patient age.
 
 [Norvir 100 mg soft capsules]
 

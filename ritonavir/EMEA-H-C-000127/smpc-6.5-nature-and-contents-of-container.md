@@ -1,4 +1,4 @@
-# 6.5 Nature and content of container
+# 6.5 Nature and contents of container
 
 Norvir oral solution is supplied in amber coloured multiple-dose polyethylene terephthalate (PET) bottles in a 90 ml size.
 Each pack contains 5 bottles of 90 ml (450 ml).

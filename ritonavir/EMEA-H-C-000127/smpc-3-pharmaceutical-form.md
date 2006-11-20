@@ -1,7 +1,11 @@
 # 3. PHARMACEUTICAL FORM
 
-Oral solution.
+Oral solution
+
+The solution is a practically clear, orange solution for oral administration.
 
 [Norvir 100 mg soft capsules]
 
-Soft Capsule.
+Soft capsule.
+
+The capsule is white with “Abbott A” and the code “DS100” imprinted on the shell in black ink.

@@ -1,77 +1,60 @@
 # 4.8 Undesirable effects
 
-In clinical studies (Phase II/III), the following adverse events with possible, probable or unknown relationship to ritonavir have been reported in ≥ 2% of 1033 patients:
+Ritonavir dosed as a pharmacokinetic enhancer
 
-Classification of expected frequencies:
+Adverse events associated with the use of ritonavir as a pharmacokinetic enhancer are dependent on the specific co-administered PI.
+For information on adverse events refer to the SPC of the specific co-administered PI.
 
-Very common (> 1/10)
+Ritonavir dosed as an antiretroviral agent
 
-Common (> 1/100, < 1/10)
+In the original clinical studies (Phase II/III), adverse events with possible, probable or unknown relationship to ritonavir were reported in ≥ 2% of 1033 patients.
 
-Uncommon (> 1/1,000, < 1/100)
+The following adverse reactions of moderate to severe intensity with possible or probable relationship to ritonavir have been reported.
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (> 1/10); common (> 1/100 to < 1/10); uncommon
+(> 1/1000 to < 1/100); rare( > 1/10,000 to < 1/1,000).
 
-Rare (> 1/10,000, < 1/1,000)
+| Undesirable Effects in Clinical Studies and Post-marketing in Adult Patients |  |  |
+| --- | --- | --- |
+| Immune system disorders | Common | Allergic reactions including urticaria, mild skin eruptions, bronchospasm and angioedema |
+|  | Rare | Anaphylaxis and Stevens Johnson syndrome |
+| Blood and lymphatic system disorders | Common | Decreased WBC, decreased haemoglobin, decreased neutrophils, increased eosinophils |
+|  | Uncommon | Increased WBC, increased neutrophils and increased prothrombin time |
+|  | Unknown frequency | Thrombocytopenia |
+| Metabolic and nutritional disorders | Uncommon | Dehydration, diabetes mellitus |
+|  | Rare | Hyperglycaemia |
+|  | Unknown frequency | Hypertriglyceridaemia, hypercholesterolaemia, hyperuricaemia |
+| Nervous system disorders | Very common | Taste perversion, circumoral and peripheral paresthesia, headache |
+|  | Common | Dizziness, paraesthesia, hyperaesthesia, somnolence, insomnia, anxiety |
+|  | Unknown frequency | Seizure, syncope |
+| Vascular disorders | Common | Vasodilation |
+|  | Unknown frequency | Orthostatic hypotension |
+| Respiratory, thoracic and mediastinal disorders | Common | Pharyngitis, cough increased |
+| Gastrointestinal disorders | Very common | Abdominal pain, nausea, diarrhoea, vomiting |
+|  | Common | Dyspepsia, anorexia, local throat irritation, flatulence, dry mouth, eructation, mouth ulcer |
+| Hepatobiliary disorders | Uncommon | Hepatitis and jaundice |
+| Skin and subcutaneous tissue disorders | Common | Rash, pruritus, sweating, lipodystrophy |
+| Musculosketal and connective tissue disorders | Common | Increased CPK, myalgia |
+|  | Uncommon | Myositis, rhabdomyolysis |
+| Renal and urinary disorders | Unknown frequency | Renal failure |
+| Reproductive system and breast disorders | Unknown frequency | Menorrhagia |
+| General disorders and administration site conditions | Very common | Asthenia |
+|  | Common | Fever, pain weight loss |
+| Investigations | Common | Increased GGT, increased CPK, increased triglycerides, increased SGPT, increased SGOT, increased amylase, increased uric acid, decreased potassium, decreased free and total thyroxin |
+|  | Uncommon | Increased glucose, decreased total calcium, increased magnesium, increased bilirubin, increased alkaline phosphatase |
 
-Nausea, diarrhoea, vomiting, asthenia, taste perversion, circumoral and peripheral paraesthesia were very common and are felt to be clearly related to ritonavir.
-
-Nervous system disorders: Dizziness, paraesthesia, hyperaesthesia, somnolence, insomnia and anxiety were commonly reported.
-
-Cardiovascular disorders: Vasodilation was commonly reported.
-
-Respiratory system disorders: Pharyngitis and cough increased were commonly reported.
-
-Gastrointestinal disorders: Very common events reported were abdominal pain.
-Dyspepsia, anorexia, local throat irritation, flatulence, dry mouth, eructation and mouth ulcer were commonly reported.
-
-Musculoskeletal system disorders: Increased CPK and myalgia were commonly reported.
-Myositis was reported rarely.
-Rarely, rhabdomyolysis has been reported with protease inhibitors, particularly in combination with nucleoside analogues.
-
-Skin and subcutaneous tissue disorders: Rash, pruritus and sweating were commonly reported.
-
-Allergic reactions including urticaria, mild skin eruptions, bronchospasm, and angioedema have been reported.
-Rare cases of anaphylaxis and Stevens-Johnson syndrome have been reported
-
-Other disorders: Very common events reported were headache.
-Fever, pain and weight loss were commonly reported.
-
-There have been spontaneous reports of thrombocytopenia, seizure and menorrhagia.
-
-Dehydration usually associated with gastrointestinal symptoms, and sometimes resulting in hypotension, syncope, or renal insufficiency has been reported.
-Syncope, orthostatic hypotension and renal insufficiency have also been reported without known dehydration.
+Events noted as having Unknown frequency were identified via post-marketing surveillance.
 
 Hepatic transaminase elevations exceeding five times the upper limit or normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
-
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
+
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
-Hyperglycaemia has been reported in individuals with and without a known history of diabetes.
-Cause and effect relationship has not been established.
 
-Hypertriglyceridaemia, hypercholesterolaemia and hyperuricaemia were clearly related to ritonavir therapy.
-
-Pancreatitis has been observed in patients receiving Norvir therapy, including those who developed hypertriglyceridemia.
+Pancreatitis has been observed in patients receiving ritonavir therapy, including those who developed hypertriglyceridemia.
 In some cases fatalities have been observed.
-Patients with advanced HIV disease may be at risk of elevated triglycerides and pancreatitis.
-
-Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur.
-Patients who exhibit these signs or symptoms should be evaluated and Norvir therapy should be discontinued if a diagnosis of pancreatitis is made.
-
-Clinical chemistry:
-
-High gamma-glutamyl transpeptidase (GGT), high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); high aspartate transaminase (SGOT), high amylase, high uric acid, low potassium and decrease of free and total thyroxin (T4) values were commonly reported.
-Uncommon events were high glucose, low total calcium, high magnesium, high total bilirubin, high alkaline phosphatase.
-
-Haematology:
-
-Low white blood cell (WBC), low haemoglobin, low neutrophils and high eosinophils were commonly reported.
-Uncommon events were high WBC, high neutrophils and high prothrombin time.
+Patients with advanced HIV disease may be at risk of elevated triglycerides and pancreatitis (see section 4.4).
 
 [Norvir 100 mg soft capsules]
 
-Dyspepsia, anorexia, local throat irritation flatulence, dry mouth, eructation and mouth ulcer were commonly reported.
-
-High gamma-glutamyl transpeptidase (GGT) , high creatine phosphokinase (CPK), high triglycerides, high alanine transaminase (SGPT); high aspartate transaminase (SGOT), high amylase, high uric acid low potassium and decrease of free and total thyroxin (T4) values were commonly reported.
-
-Low white blood cell (WBC) , low haemoglobin, low neutrophils and high eosinophils were commonly reported.
+(> 1/1000 to < 1/100); rare (> 1/10,000 to < 1/1,000).
