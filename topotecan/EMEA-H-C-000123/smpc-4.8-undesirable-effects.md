@@ -1,14 +1,19 @@
 # 4.8 Undesirable effects
 
-In dose-finding trials involving 523 patients with relapsed ovarian cancer and 631 patients with relapsed small cell lung cancer, the dose limiting toxicity was found to be haematological.
+In dose-finding trials involving 523 patients with relapsed ovarian cancer and 631 patients with relapsed small cell lung cancer, the dose limiting toxicity of topotecan monotherapy was found to be haematological.
 Toxicity was predictable and reversible.
 There were no signs of cumulative haematological or non-haematological toxicity.
 
-The integrated safety data are presented below.
+The adverse event profile for topotecan when given in combination with cisplatin in the cervical cancer clinical trials is consistent with that seen with topotecan monotherapy.
+The overall haematological toxicity is lower in patients treated with topotecan in combination with cisplatin compared to topotecan monotherapy, but higher than with cisplatin alone.
+
+Additional adverse events were seen when topotecan was given in combination with cisplatin, however, these events were seen with cisplatin monotherapy and not attributable to topotecan.
+The prescribing information for cisplatin should be consulted for a full list of adverse events associated cisplatin use.
+
+The integrated safety data for topotecan monotherapy are presented below.
 
 Adverse reactions are listed below, by system organ class and absolute frequency (all reported events).
 Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000), including isolated reports.
-
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Blood and lymphatic system disorders
@@ -36,7 +41,7 @@ Very common : pyrexia, asthenia, fatigue.
 Common : malaise.
 Very rare : extravasation*.
 
-*Extravasation has been reported rarely.
+*Extravasation has been reported very rarely.
 Reactions have been mild and have not generally required specific therapy.
 
 The incidence of adverse events listed above have the potential to occur with a higher frequency in patients who have a poor performance status (see section 4.4).
@@ -51,11 +56,10 @@ Severe neutropenia lasted beyond 7 days in 11 % of courses overall.
 Among all patients treated in clinical trials (including both those with severe neutropenia and those who did not develop severe neutropenia), 11 % (4 % of courses) developed fever and 26 % (9 % of courses) developed infection.
 In addition, 5 % of all patients treated (1 % of courses) developed sepsis (see section 4.4).
 
-Thrombocytopenia: Severe (platelets less than 10 x 109/l) in 25 % of patients (8 % of courses); moderate (platelets between 10.0 and 50.0 x 109/l) in 25 % of patients (15 % of courses).
+Thrombocytopenia: Severe (platelets less than 25 x 109/l) in 25 % of patients (8 % of courses); moderate (platelets between 25.0 and 50.0 x 109/l) in 25 % of patients (15 % of courses).
 Median time to onset of severe thrombocytopenia was Day 15 and the median duration was 5 days.
 Platelet transfusions were given in 4 % of courses.
-Significant sequelae associated with thrombocytopenia were rare.
-
+Reports of significant sequelae associated with thrombocytopenia including fatalities due to tumour bleeds have been infrequent.
 Anaemia: Moderate to severe (Hb ≤ 8.0 g/dl) in 37 % of patients (14 % of courses).
 Red cell transfusions were given in 52 % of patients (21 % of courses).
 
@@ -76,5 +80,7 @@ Hypersensitivity reactions including rash, urticaria, angioedema and anaphylacti
 In clinical trials, rash was reported in 4 % of patients and pruritus in 1.5 % of patients.
 
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
+
+The integrated safety data of topotecan monotherapy are presented below.
 
 Neutropenia: Severe (neutrophil count < 0.5 x 109/l) during course 1 was seen in 55 % of the patients and with duration ≥ 7 days in 20 % and overall in 77 % of patients (39 % of courses).
