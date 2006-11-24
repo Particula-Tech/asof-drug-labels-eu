@@ -23,6 +23,9 @@ perforation
 Uncommon: Gastrointestinal haemorrhage
 
 Renal and urinary disorders Common: Oliguria, Fluid retention, Haematuria
+
+Uncommon: Acute renal failure
+
 Investigations Very Common: Blood creatinine increased, Blood
 
 sodium decreased

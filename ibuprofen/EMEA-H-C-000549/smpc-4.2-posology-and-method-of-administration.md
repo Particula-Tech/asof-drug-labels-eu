@@ -4,7 +4,6 @@ For intravenous use only.
 Treatment with Pedea should only be carried out in a neonatal intensive care unit under the supervision of an experienced neonatologist.
 A course of therapy is defined as three intravenous doses of Pedea given at 24-hour intervals.
 The ibuprofen dose is adjusted to the body weight as follows:
-
 - 1st injection: 10 mg/kg,
 - 2nd and 3rd injections: 5 mg/kg.
 

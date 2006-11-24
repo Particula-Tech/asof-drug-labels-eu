@@ -1,7 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 As a NSAID, ibuprofen may interact with the following medicinal products:
-
 - diuretics: ibuprofen may reduce the effect of diuretics; diuretics can increase the risk of nephrotoxicity of NSAIDs in dehydrated patients.
 - anticoagulants: ibuprofen may increase the effect of anticoagulants and enhance the risk of bleeding.
 - corticosteroids: ibuprofen may increase the risk of gastrointestinal bleeding.
