@@ -26,11 +26,11 @@ The incidence of relapse during the 6-months double-blind follow-up period was 1
 The effect of CYMBALTA 60 mg once a day in elderly depressed patients (≥65 years) was specifically examined in a study that showed a statistically significative difference in the reduction of the HAMD17 score for duloxetine-treated patients compared to placebo.
 Tolerability of CYMBALTA 60 mg once day in elderly patients was comparable to that seen in the younger adults.
 However, data on elderly patients exposed to the maximum dose (120mg per day) are limited and thus, caution is recommended when treating this population.
+
 Diabetic Peripheral Neuropathic Pain:
 The efficacy of duloxetine as a treatment for diabetic neuropathic pain was established in 2 randomised, 12-week, double-blind, placebo-controlled, fixed dose studies in adults (22 to 88 years) having diabetic neuropathic pain for at least 6 months.
 Patients meeting diagnostic criteria for major depressive disorder were excluded from these trials.
 The primary outcome measure was the weekly mean of 24-hour average pain, which was collected in a daily diary by patients on an 11-point Likert scale.
-
 In both studies, duloxetine 60 mg once daily and 60 mg twice daily significantly reduced pain compared with placebo.
 The effect in some patients was apparent in the first week of treatment.
 The difference in mean improvement between the two active treatment arms was not significant.

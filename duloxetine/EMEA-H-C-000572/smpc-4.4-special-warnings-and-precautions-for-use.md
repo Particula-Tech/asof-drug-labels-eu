@@ -2,14 +2,18 @@
 
 Mania and seizures
 CYMBALTA should be used with caution in patients with a history of mania or a diagnosis of bipolar disorder, and/or seizures.
-
 Mydriasis
 Mydriasis has been reported in association with duloxetine, therefore, caution should be used when prescribing CYMBALTA to patients with increased intraocular pressure, or those at risk of acute narrow-angle glaucoma.
+
 Blood pressure and heart rate
-Duloxetine is associated with an increase in blood pressure in some patients.
+Duloxetine has been associated with an increase in blood pressure and clinically significant hypertension in some patients.
 This may be due to the noradrenergic effect of duloxetine.
-In patients with known hypertension and/or other cardiac disease, blood pressure monitoring is recommended, especially at the beginning of treatment.
+Cases of hypertensive crisis have been reported with duloxetine, especially in patients with pre-existing hypertension.
+Therefore,in patients with known hypertension and/or other cardiac disease, blood pressure monitoring is recommended, especially during the first month of treatment.
 Duloxetine should be used with caution in patients whose conditions could be compromised by an increased heart rate or by an increase in blood pressure.
+Caution should also be exercised when duloxetine is used with drugs that may impair its metabolism (see section 4.5).
+For patients who experience a sustained increase in blood pressure while receiving duloxetine either dose reduction or gradual discontinuation should be considered (see section 4.8).
+In patients with uncontrolled hypertension duloxetine should not be initiated (see section 4.3).
 
 Renal impairment
 Increased plasma concentrations of duloxetine occur in patients with severe renal impairment on haemodialysis (creatinine clearance <30 ml/min).
@@ -32,7 +36,6 @@ It is general clinical experience with all antidepressant therapies that the ris
 Cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.
 Close supervision of high-risk patients should accompany drug therapy (see section 4.8).
 Patients, (and caregivers of patients) should be alerted about the need to monitor for the emergence of suicidal ideation/behaviour or thoughts of harming themselves and to seek medical advice immediately if these symptoms present.
-
 Diabetic Peripheral Neuropathic Pain
 As with other medicinal products with similar pharmacological action (antidepressants), isolated cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.
 Physicians should encourage patients to report any distressing thoughts or feelings at any time.
@@ -43,7 +46,6 @@ CYMBALTA should not be used in the treatment of children and adolescents under t
 Suicide-related behaviours (suicide attempts and suicidal thoughts), and hostility (predominantly aggression, oppositional behaviour and anger), were more frequently observed in clinical trials among children and adolescents treated with antidepressants compared to those treated with placebo.
 If, based on clinical need, a decision to treat is nevertheless taken, the patient should be carefully monitored for the appearance of suicidal symptoms.
 In addition, long-term safety data in children and adolescents concerning growth, maturation and cognitive and behavioural development are lacking.
-
 Sucrose
 CYMBALTA hard gastro-resistant capsules contain sucrose.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.
@@ -74,8 +76,7 @@ Therefore, caution should be exercised when treating the elderly with the maximu
 Akathisia/psychomotor restlessness
 The use of duloxetine has been associated with the development of akathisia, characterised by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.
 This is most likely to occur within the first few weeks of treatment.
-In patients who develop these symptoms, increasing the dose may be detrimental and it may be necessary to review the use of duloxetine.
-
+In patients who develop these symptoms, increasing the dose may be detrimental.
 Medicinal products containing duloxetine
 Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive episodes as well as stress urinary incontinence).
 The use of more than one of these products concomitantly should be avoided.
