@@ -1,4 +1,4 @@
-# 6.6 Instructions for use and handling
+# 6.6 Special precautions for disposal
 
 No special requirements
 
@@ -7,4 +7,4 @@ No special requirements
 A plastic adapter and oral dosing syringe are provided for accurate measurement of the prescribed dose of oral solution.
 The adapter is placed in the neck of the bottle and the syringe attached to this.
 The bottle is inverted and the correct volume withdrawn.
-Instructions for use are included in the package leaflet.
+Any unused product or waste material should be disposed of in accordance with local requirements.

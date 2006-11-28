@@ -1,7 +1,6 @@
 # 4.8 Undesirable effects
 
 Hypersensitivity (see also section 4.4):
-
 In clinical studies, approximately 5% of subjects receiving abacavir developed a hypersensitivity reaction.
 In clinical studies with abacavir 600 mg once daily the reported rate of hypersensitivity remained within the range recorded for abacavir 300 mg twice daily.
 
@@ -43,8 +42,7 @@ Therefore, the diagnosis of hypersensitivity reaction should be carefully consid
 Symptoms usually appeared within the first six weeks (median time to onset 11 days) of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 Close medical supervision is necessary during the first two months, with consultations every two weeks.
 
-Risk factors that may predict the occurrence or severity of hypersensitivity to abacavir have not been identified.
-However, it is likely that intermittent therapy may increase the risk of developing sensitisation and therefore occurrence of clinically significant hypersensitivity reactions.
+It is likely that intermittent therapy may increase the risk of developing sensitisation and therefore occurrence of clinically significant hypersensitivity reactions.
 Consequently, patients should be advised of the importance of taking Ziagen regularly.
 
 Restarting Ziagen following a hypersensitivity reaction results in a prompt return of symptoms within hours.
@@ -59,7 +57,8 @@ Moreover, on very rare occasions hypersensitivity reactions have been reported i
 In both cases, if a decision is made to restart Ziagen this must be done in a setting where medical assistance is readily available.
 
 Each patient must be warned about this hypersensitivity reaction to abacavir.
-For many of the other adverse events reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV infection or as a result of the disease process.
+
+For many of the other adverse reactions reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV infection or as a result of the disease process.
 
 Many of those listed below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) in patients with abacavir hypersensitivity.
 Therefore, patients with any of these symptoms should be carefully evaluated for the presence of this hypersensitivity reaction.
@@ -86,7 +85,6 @@ Very rare: erythema multiforme, Stevens-Johnson syndrome and toxic epidermal nec
 
 General disorders and administration site conditions
 Common: fever, lethargy, fatigue
-
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see section 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).

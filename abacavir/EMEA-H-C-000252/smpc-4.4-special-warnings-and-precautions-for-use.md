@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Hypersensitivity Reaction (see also section 4.8):
 
@@ -40,6 +40,20 @@ Hypersensitivity reactions with rapid onset, including life-threatening reaction
 The most common isolated symptom of a hypersensitivity reaction was a skin rash.
 Moreover, on very rare occasions hypersensitivity reactions have been reported in patients who have restarted therapy, and who had no preceding symptoms of a hypersensitivity reaction.
 In both cases, if a decision is made to restart Ziagen this must be done in a setting where medical assistance is readily available.
+
+- Risk Factors
+
+Analyses of clinical risk factors for hypersensitivity to abacavir have consistently identified the risk for those of black race to be approximately half the risk of other racial groups combined.
+As this still represents a significant risk (based on the fact that approximately 5% of subjects receiving abacavir develop a hypersensitivity reaction in clinical studies), the same close monitoring should apply to patients of all racial groups.
+
+In addition, two retrospective, case-controlled pharmacogenetic studies have shown that carriage of HLA-B*5701 is associated with a significantly increased risk of clinically suspected hypersensitivity in Caucasians.
+It is estimated that approximately 50% of patients with the HLA-B*5701 allele develop a suspected hypersensitivity reaction (HSR) during the course of abacavir treatment versus less than 3% of patients who do not have HLA-B*5701 allele in the Caucasian population.
+This genetic association has not been assessed in prospective controlled clinical studies but such studies are ongoing to better appreciate the association between occurrence of HSR and carriage of HLA-B*5701 allele.
+However, it is noteworthy that among patients with a suspected hypersensitivity reaction, 50% did not carry HLA-B*5701 in the Caucasian population.
+Therefore, the clinical diagnosis of suspected hypersensitivity to abacavir must remain the basis for clinical decision-making.
+It is important to permanently discontinue abacavir and not rechallenge with abacavir if hypersensitivity cannot be ruled out on clinical grounds.
+Absence of the HLA-B*5701 allele does not justify rechallenge with abacavir due to the potential for a fatal rechallenge reaction.
+The same recommendation should apply for other races and ethnic groups, although data are more limited in these groups.
 
 - Essential patient information
 
@@ -126,7 +140,6 @@ Any inflammatory symptoms should be evaluated and treatment instituted when nece
 
 Opportunistic infections: patients receiving Ziagen or any other antiretroviral therapy may still develop opportunistic infections and other complications of HIV infection.
 Therefore patients should remain under close clinical observation by physicians experienced in the treatment of these associated HIV diseases.
-
 Transmission: patients should be advised that current antiretroviral therapy, including Ziagen, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be taken.
 
@@ -137,3 +150,4 @@ When taken according to the dosage recommendations each 15 ml dose contains appr
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
 Sorbitol can have a mild laxative effect.
 The calorific value of sorbitol is 2.6 kcal/g.
+Ziagen oral solution also contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).

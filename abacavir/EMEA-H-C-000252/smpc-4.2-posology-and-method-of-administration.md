@@ -2,7 +2,7 @@
 
 Ziagen should be prescribed by physicians experienced in the management of HIV infection.
 
-Adults and adolescents over 12 years: the recommended dose of Ziagen is 600 mg daily.
+Adults and adolescents: the recommended dose of Ziagen is 600 mg daily.
 This may be administered as either 300 mg (one tablet) twice daily or 600 mg (two tablets) once daily (see sections 4.4 and 5.1).
 
 Patients changing to the once daily regimen should take 300 mg twice a day and switch to 600 mg once a day the following morning.
@@ -29,7 +29,7 @@ Elderly: no pharmacokinetic data is currently available in patients over 65 year
 
 [Ziagen 20 mg/ml oral solution]
 
-Adults and adolescents over 12 years: the recommended dose of Ziagen is 600 mg daily (30 ml).
+Adults and adolescents: the recommended dose of Ziagen is 600 mg daily (30 ml).
 This may be administered as either 300 mg (15 ml) twice daily or 600 mg (30 ml) once daily (see sections 4.4 and 5.1).
 
 Patients changing to the once daily regimen should take 300 mg (15 ml) twice a day and switch to 600 mg (30 ml) once a day the following morning.

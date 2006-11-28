@@ -8,4 +8,4 @@ The biconvex, capsule shaped tablets are yellow and engraved with GX 623 on one 
 
 Oral solution
 
-The oral solution is clear to slightly opalescent yellowish, aqueous solution with strawberry and banana flavouring.
+The oral solution is clear to slightly opalescent yellowish, aqueous solution.
