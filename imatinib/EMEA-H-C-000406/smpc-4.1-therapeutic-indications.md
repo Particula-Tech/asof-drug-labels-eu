@@ -6,6 +6,8 @@ Glivec is indicated for the treatment of
 - adult and paediatric patients with Ph+ CML in chronic phase after failure of interferon-alpha therapy, or in accelerated phase or blast crisis (for paediatric use see section 4.2).
 - adult patients with newly diagnosed Philadelphia chromosome positive acute lymphoblastic leukaemia (Ph+ ALL) integrated with chemotherapy.
 - adult patients with relapsed or refractory Ph+ ALL as monotherapy.
+- adult patients with myelodysplastic/myeloproliferative diseases (MDS/MPD) associated with platelet-derived growth factor receptor (PDGFR) gene re-arrangements.
+- adult patients with advanced hypereosinophilic syndrome (HES) and/or chronic eosinophilic leukaemia (CEL) with FIP1L1-PDGFRα rearrangement.
 
 The effect of Glivec on the outcome of bone marrow transplantation has not been determined.
 
@@ -14,5 +16,6 @@ Glivec is also indicated for the treatment of
 - adult patients with Kit (CD 117) positive unresectable and/or metastatic malignant gastrointestinal stromal tumours (GIST).
 - adult patients with unresectable dermatofibrosarcoma protuberans (DFSP) and adult patients with recurrent and/or metastatic DFSP who are not eligible for surgery.
 
-In adult and paediatric patients, the effectiveness of Glivec is based on overall haematological and cytogenetic response rates and progression-free survival in CML, on haematological and cytogenetic response rates in Ph+ ALL and on objective response rates in adult patients with GIST and DFSP.
-There are no controlled trials demonstrating a clinical benefit or increased survival for these diseases.
+In adult and paediatric patients, the effectiveness of Glivec is based on overall haematological and cytogenetic response rates and progression-free survival in CML, on haematological and cytogenetic response rates in Ph+ ALL, MDS/MPD, on haematological response rates in HES/CEL and on objective response rates in adult patients with GIST and DFSP.
+The experience with Glivec in patients with MDS/MPD associated with PDGFR gene re-arrangements is very limited (see section 5.1).
+Except in newly diagnosed chronic phase CML, there are no controlled trials demonstrating a clinical benefit or increased survival for these diseases.

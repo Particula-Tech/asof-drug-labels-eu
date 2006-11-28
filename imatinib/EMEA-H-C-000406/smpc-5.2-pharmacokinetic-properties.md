@@ -60,6 +60,10 @@ The comparison of AUC(0-24) on day 8 and day 1 at the 340 mg/m2/day dose level r
 
 Organ function impairment
 Imatinib and its metabolites are not excreted via the kidney to a significant extent.
+Patients with mild and moderate impairment of renal function appear to have a higher plasma exposure than patients with normal renal function.
+The increase is approximately 1.5- to 2-fold, corresponding to a 1.5-fold elevation of plasma AGP, to which imatinib binds strongly.
+The free drug clearance of imatinib is probably similar between patients with renal impairment and those with normal renal function, since renal excretion represents only a minor elimination pathway for imatinib (see sections 4.2 and 4.4).
+
 Although the results of pharmacokinetic analysis showed that there is considerable inter-subject variation, the mean exposure to imatinib did not increase in patients with varying degrees of liver dysfunction as compared to patients with normal liver function (see sections 4.2, 4.4 and 4.8).
 
 [Glivec 100 mg hard capsules]

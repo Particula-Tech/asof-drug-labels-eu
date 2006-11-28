@@ -26,6 +26,10 @@ In vitro, Glivec inhibits paracetamol O-glucuronidation (Ki value of 58.5 microm
 
 Caution should therefore be exercised when using Glivec and paracetamol concomitantly, especially with high doses of paracetamol.
 
+In thyroidectomy patients receiving levothyroxine, the plasma exposure to levothyroxine may be decreased when Glivec is co-administered (see section 4.4).
+Caution is therefore recommended.
+However, the mechanism of the observed interaction is presently unknown.
+
 In Ph+ ALL patients, there is clinical experience of co-administering Glivec with chemotherapy (see section 5.1), but drug-drug interactions between imatinib and chemotherapy regimens are not well characterised.
 Imatinib adverse events, i.e. hepatotoxicity, myelosuppression or others, may increase and it has been reported that concomitant use with L-asparaginase could be associated with increased hepatotoxicity (see section 4.8).
 Therefore, the use of Glivec in combination requires special precaution.

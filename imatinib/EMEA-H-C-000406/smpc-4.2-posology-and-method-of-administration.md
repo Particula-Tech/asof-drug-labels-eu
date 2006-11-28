@@ -42,7 +42,19 @@ Haematological experts in the management of this disease should supervise the th
 
 Treatment schedule: On the basis of the existing data, Glivec has been shown to be effective and safe when administered at 600 mg/day in combination with chemotherapy in the induction phase, the consolidation and maintenance phases of chemotherapy (see section 5.1) for adult patients with newly diagnosed Ph+ ALL.
 The duration of Glivec therapy can vary with the treatment programme selected, but generally longer exposures to Glivec have yielded better results.
+
 For adult patients with relapsed or refractory Ph+ALL Glivec monotherapy at 600 mg/day is safe, effective and can be given until disease progression occurs.
+
+Posology for MDS/MPD
+The recommended dose of Glivec is 400 mg/day for patients with MDS/MPD.
+
+Treatment duration: In the only clinical trial performed up to now, treatment with Glivec was continued until disease progression (see section 5.1).
+At the time of analysis, the treatment duration was a median of 47 months (24 days - 60 months).
+
+Posology for HES/CEL
+The recommended dose of Glivec is 100 mg/day for patients with HES/CEL.
+
+Dose increase from 100 mg to 400 mg may be considered in the absence of adverse drug reactions if assessments demonstrate an insufficient response to therapy.
 
 Posology for GIST
 The recommended dose of Glivec is 400 mg/day for patients with unresectable and/or metastatic malignant GIST.
@@ -74,8 +86,9 @@ Dose reduction or treatment interruption for severe neutropenia and thrombocytop
 
 Dose adjustments for neutropenia and thrombocytopenia:
 
-| Chronic phase CML and GIST (starting dose 400 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). 3. In the event of recurrence of ANC < 1.0 x 109/l and/or platelets < 50 x 109/l, repeat step 1 and resume Glivec at reduced dose of 300 mg. |
+| HES/CEL (starting dose 100 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). |
 | --- | --- | --- |
+| Chronic phase CML, MDS/MPD and GIST (starting dose 400 mg) HES/CEL (at dose 400 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). 3. In the event of recurrence of ANC < 1.0 x 109/l and/or platelets < 50 x 109/l, repeat step 1 and resume Glivec at reduced dose of 300 mg. |
 | Paediatric chronic phase CML (at dose 340 mg/m2) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). 3. In the event of recurrence of ANC < 1.0 x109/l and/or platelets < 50 x109/l, repeat step 1 and resume Glivec at reduced dose of 260 mg/m2. |
 | Accelerated phase CML and blast crisis and Ph+ ALL (starting dose 600 mg) | aANC < 0.5 x 109/l and/or platelets < 10 x 109/l | 1. Check whether cytopenia is related to leukaemia (marrow aspirate or biopsy). 2. If cytopenia is unrelated to leukaemia, reduce dose of Glivec to 400 mg. 3. If cytopenia persists for 2 weeks, reduce further to 300 mg. 4. If cytopenia persists for 4 weeks and is still unrelated to leukaemia, stop Glivec until ANC ≥ 1 x 109/l and platelets ≥ 20 x 109/l, then resume treatment at 300 mg. |
 | Paediatric accelerated phase CML and blast crisis (starting dose 340 mg/m2) | aANC < 0.5 x 109/l and/or platelets < 10 x 109/l | 1. Check whether cytopenia is related to leukaemia (marrow aspirate or biopsy). 2. If cytopenia is unrelated to leukaemia, reduce dose of Glivec to 260 mg/m2. 3. If cytopenia persists for 2 weeks, reduce further to 200 mg/m2. 4. If cytopenia persists for 4 weeks and is still unrelated to leukaemia, stop Glivec until ANC ≥ 1 x 109/l and platelets ≥ 20 x 109/l, then resume treatment at 200 mg/m2. |
@@ -83,12 +96,12 @@ Dose adjustments for neutropenia and thrombocytopenia:
 | ANC = absolute neutrophil count a occurring after at least 1 month of treatment |  |  |
 
 Paediatric use: There is no experience in children with CML below 2 years of age (see section 5.1).
-There is limited experience in children with Ph+ ALL.
-There is no experience in children or adolescents with GIST.
+There is limited experience in children with Ph+ ALL and very limited experience in children with MDS/MPD and DFSP.
+There is no experience in children or adolescents with GIST and HES/CEL.
 
 Hepatic insufficiency: Imatinib is mainly metabolised through the liver.
 Patients with mild, moderate or severe liver dysfunction should be given the minimum recommended dose of 400 mg daily.
-The dose can be reduced if the patient develops unacceptable toxicity (see sections 4.4, 4.8 and 5.2).
+The dose can be reduced if not tolerated (see sections 4.4, 4.8 and 5.2).
 
 Liver dysfunction classification:
 
@@ -101,10 +114,11 @@ Liver dysfunction classification:
 ULN = upper limit of normal for the institution
 AST = aspartate aminotransferase
 
-Renal insufficiency: No clinical studies were conducted with Glivec in patients with decreased renal function (studies excluded patients with serum creatinine concentration more than 2 times the upper limit of the normal range).
-Imatinib and its metabolites are not significantly excreted via the kidney.
-Since the renal clearance of imatinib is negligible, a decrease in total body clearance is not expected in patients with renal insufficiency.
-However, in severe renal insufficiency caution is recommended.
+Renal insufficiency: Since the renal clearance of imatinib is negligible, a decrease in free imatinib clearance is not expected in patients with renal insufficiency.
+Patients with mild or moderate renal dysfunction (creatinine clearance = 20–59 ml/min) should be given the minimum recommended dose of 400 mg daily as starting dose.
+Although very limited information is available, patients with severe renal dysfunction (creatinine clearance = < 20 ml/min) or on dialysis could also start at the same dose of 400 mg.
+However, in these patients caution is recommended.
+The dose can be reduced if not tolerated, or increased for lack of efficacy (see sections 4.4 and 5.2).
 
 Elderly patients: Imatinib pharmacokinetics have not been specifically studied in the elderly.
 No significant age-related pharmacokinetic differences have been observed in adult patients in clinical trials which included over 20% of patients age 65 and older.

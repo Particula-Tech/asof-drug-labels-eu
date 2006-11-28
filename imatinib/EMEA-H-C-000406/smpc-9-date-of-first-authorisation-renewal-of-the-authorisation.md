@@ -1,7 +1,7 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 07.11.2001
-Date of first renewal:
+Date of first renewal: 07.11.2006
 
 [Glivec 100 mg hard capsules]
 
