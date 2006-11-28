@@ -6,6 +6,11 @@ Patients should be closely monitored throughout this period.
 The occurrence of suicidal behaviour is inherent in psychotic illnesses and in some cases has been reported early after initiation or switch of antipsychotic therapy, including treatment with aripiprazole (see section 4.8).
 Close supervision of high-risk patients should accompany antipsychotic therapy.
 
+Cardiovascular disorders: Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) or hypertension, including accelerated or malignant.
+
+Conduction abnormalities: In clinical trials of aripiprazole, the incidence of QT prolongation was comparable to placebo.
+As with other antipsychotics, aripiprazole should be used with caution in patients with a family history of QT prolongation.
+
 Tardive Dyskinesia: in clinical trials of one year or less duration, there were uncommon reports of treatment emergent dyskinesia during treatment with aripiprazole.
 If signs and symptoms of tardive dyskinesia appear in a patient on ABILIFY, dose reduction or discontinuation should be considered.
 These symptoms can temporally deteriorate or can even arise after discontinuation of treatment.
@@ -14,6 +19,7 @@ Neuroleptic Malignant Syndrome (NMS): NMS is a potentially fatal symptom complex
 In clinical trials, rare cases of NMS were reported during treatment with aripiprazole.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis and cardiac dysrhythmia).
 Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
+However, elevated creatine phosphokinase and rhabdomyolysis, not necessarily in association with NMS, have also been reported.
 If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotic medicinal products, including ABILIFY, must be discontinued.
 
 Seizure: in clinical trials, uncommon cases of seizure were reported during treatment with aripiprazole.
@@ -30,10 +36,19 @@ This difference was not statistically significant.
 However, in one of these trials, a fixed-dose trial, there was a significant dose response relationship for cerebrovascular adverse events in patients treated with aripiprazole.
 ABILIFY is not approved for the treatment of dementia-related psychosis.
 
-Hyperglycaemia and Diabetes Mellitus: hyperglycaemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotic agents.
+Hyperglycaemia and Diabetes Mellitus: hyperglycaemia, in some cases extreme and associated with ketoacidosis or hyperosmolar coma or death, has been reported in patients treated with atypical antipsychotic agents, including ABILIFY.
+Risk factors that may predispose patients to severe complications include obesity and family history of diabetes.
 In clinical trials with aripiprazole, there were no significant differences in the incidence rates of hyperglycaemia-related adverse events (including diabetes) or in abnormal glycaemia laboratory values compared to placebo.
 Precise risk estimates for hyperglycaemia-related adverse events in patients treated with ABILIFY and with other atypical antipsychotic agents are not available to allow direct comparisons.
 Patients treated with any antipsychotic agents, including ABILIFY, should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control.
+
+Weight gain: weight gain is commonly seen in schizophrenic patients due to co-morbidities, use of antipsychotics known to cause weight gain, poorly managed life-style, and might lead to severe complications.
+Weight gain has been very rarely reported post-marketing among patients prescribed ABILIFY.
+When seen, it is usually in those with significant risk factors such as history of diabetes, thyroid disorder or pituitary adenoma.
+In clinical trials aripiprazole has not been shown to induce clinically relevant weight gain (see section 5.1).
+
+Dysphagia: oesophageal dysmotility and aspiration have been associated with antipsychotic drug use, including ABILIFY.
+Aripiprazole and other antipsychotic drugs should be used cautiously in patients at risk for aspiration pneumonia.
 
 Lactose: patients with rare hereditary problems of galactose intolerance, the lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
@@ -50,6 +65,10 @@ Lactose: patients with rare hereditary problems of galactose intolerance, the la
 (all sentences already above)
 
 [ABILIFY 5 mg orodispersible tablets]
+
+The occurrence of suicidal behaviour is inherent in psychotic illnesses and in some cases has been
+reported early after initiation or switch of antipsychotic therapy, including treatment with aripiprazole
+(see section 4.8). Close supervision of high-risk patients should accompany antipsychotic therapy.
 
 Phenylketonurics: ABILIFY orodispersible tablets contain aspartame, a source of phenylalanine which may be harmful for people with phenylketonuria.
 
