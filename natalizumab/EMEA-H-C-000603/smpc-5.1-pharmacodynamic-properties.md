@@ -52,11 +52,11 @@ Study features and results are presented in the table below.
 | Randomised | 315 | 627 |
 | Completing 1 years | 296 | 609 |
 | Completing 2 years | 285 | 589 |
-| Age yrs, (range) | 37 (19-50) | 36 (18-50) |
-| MS-history yrs (range) | 6.0 (0-33) | 5.0 (0-34) |
-| Time since diagnosis, yrs (range) | 2.0 (0-23) | 2.0 (0-24) |
-| Relapse in previous 12 months (range) | 1.0 (0-5) | 1.0 (0-12) |
-| EDSS-baseline (range) | 2 (0-6.0) | 2 (0-6.0) |
+| Age yrs, median (range) | 37 (19-50) | 36 (18-50) |
+| MS-history yrs, median (range) | 6.0 (0-33) | 5.0 (0-34) |
+| Time since diagnosis, yrs median (range) | 2.0 (0-23) | 2.0 (0-24) |
+| Relapses in previous 12 months, median (range) | 1.0 (0-5) | 1.0 (0-12) |
+| EDSS-baseline, median (range) | 2 (0-6.0) | 2 (0-6.0) |
 | RESULTS |  |  |
 | Annual relapse rate |  |  |
 | After one year (primary endpoint) | 0.805 | 0.261 |
@@ -68,10 +68,8 @@ Study features and results are presented in the table below.
 | After two years | 41% | 67% |
 | Disability |  |  |
 | Proportion progressed1(12-week confirmation; primary outcome) | 29% | 17% |
-| Time to progression | 1.78 years | 1.90 years |
 |  | Hazard ratio 0.58, CI95% 0.43; 0.73, p<0.001 |  |
 | Proportion progressed1(24-week confirmation) | 23% | 11% |
-| Time to progression | 1.65 years | 1.96 years |
 |  | Hazard ratio 0.46, CI95% 0.33; 0.64, p<0.001 |  |
 | MRI (0-2 years) |  |  |
 | Median % change in T2-hyperintense lesion volume | +8.8% | -9.4% (p<0.001) |
