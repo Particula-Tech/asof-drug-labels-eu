@@ -4,7 +4,7 @@
 
 Pegfilgrastim is produced by r-DNA technology in E. coli (K12).
 
-For excipients, see 6.1.
+For a full list of excipients, see 6.1.
 
 * Based on protein only.
-The concentration is 20 mg/ml if the PEG moeity is included.
+The concentration is 20 mg/ml if the PEG moiety is included.

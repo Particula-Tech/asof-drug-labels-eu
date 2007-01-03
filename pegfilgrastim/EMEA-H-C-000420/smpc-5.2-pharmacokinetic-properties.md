@@ -6,7 +6,7 @@ Pegfilgrastim appears to be mainly eliminated by neutrophil mediated clearance, 
 Consistent with a self-regulating clearance mechanism, the serum concentration of pegfilgrastim declines rapidly at the onset of neutrophil recovery (see Figure 1).
 
 Figure 1.
-Profile of Median Pegfilgrastim Serum Concentration and Absolute Neutrophil Count (ANC) in Chemotherapy Treated Patients After a Single 6 mg Injection
+Profile of Median Pegfilgrastim Serum Concentration and Absolute Neutrophil Count (ANC) in Chemotherapy Treated Patients after a Single 6 mg Injection
 
 1000 100
 Pegfilgrastim Conc.

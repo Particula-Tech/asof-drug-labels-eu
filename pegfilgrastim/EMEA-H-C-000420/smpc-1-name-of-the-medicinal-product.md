@@ -2,6 +2,6 @@
 
 Neulasta 6 mg solution for injection.
 
-[Neulasta 6 mg solution for injection. in a pre-filled pen.]
+[Neulasta 6 mg solution for injection in a pre-filled pen.]
 
-Neulasta 6 mg solution for injection. in a pre-filled pen.
+Neulasta 6 mg solution for injection in a pre-filled pen.

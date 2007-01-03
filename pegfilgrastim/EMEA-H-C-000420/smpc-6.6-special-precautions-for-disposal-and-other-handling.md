@@ -1,7 +1,6 @@
-# 6.6 Instructions for use, handling and disposal
+# 6.6 Special precautions for disposal and other handling
 
 Neulasta is a sterile but unpreserved solution.
-
 Before administration, Neulasta solution should be inspected for visible particles.
 Only a solution that is clear and colourless should be injected.
 
@@ -11,7 +10,7 @@ Allow the pre-filled syringe to reach room temperature before injecting.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
-[Neulasta 6 mg solution for injection. in a pre-filled pen.]
+[Neulasta 6 mg solution for injection in a pre-filled pen.]
 
 The carton contains a package leaflet with the full instructions for use and handling.
 

@@ -5,6 +5,6 @@ There are insufficient data to recommend the use of Neulasta in children and ado
 
 Neulasta therapy should be initiated and supervised by physicians experienced in oncology and/or haematology.
 
-[Neulasta 6 mg solution for injection. in a pre-filled pen.]
+[Neulasta 6 mg solution for injection in a pre-filled pen.]
 
 One 6 mg dose (a single pre-filled pen) of Neulasta (SureClick) is recommended for each chemotherapy cycle, administered as a subcutaneous injection approximately 24 hours following cytotoxic chemotherapy.
