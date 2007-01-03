@@ -1,17 +1,18 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Gastrointestinal
 Gastrointestinal toxicity, including nausea, diarrhoea, vomiting and constipation are very common with VELCADE treatment.
 Cases of ileus have been reported, therefore patients who experience constipation should be closely monitored.
+
 Haematological
 VELCADE treatment is very commonly associated with haematological toxicities (thrombocytopenia, neutropenia and anaemia).
 The most common haematologic toxicity is transient thrombocytopenia.
 Platelets were lowest at Day 11 of each cycle of VELCADE treatment.
 There was no evidence of cumulative thrombocytopenia, including in the phase II extension study.
 The mean platelet count nadir measured was approximately 40% of baseline.
-In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts <75,000/µl, 90% of 21 patients had a count ≤25,000/µl during the study, including 14% <10,000/µl; in contrast, with a baseline platelet count >75,000/µl, only 14% of 309 patients had a count ≤25×109/L during the study.
+In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts <75,000/μl, 90% of 21 patients had a count ≤25,000/μl during the study, including 14% <10,000/μl; in contrast, with a baseline platelet count >75,000/μl, only 14% of 309 patients had a count ≤25×109/l during the study.
 Platelet counts should be monitored prior to each dose of VELCADE.
-Therapy should be held when the platelet count is <25,000/µl and re-initiated at a reduced dose after resolution (see section 4.2).
+Therapy should be held when the platelet count is <25,000/μl and re-initiated at a reduced dose after resolution (see section 4.2).
 Potential benefit of the treatment should be carefully weighed against the risks, particularly in case of moderate to severe thrombocytopenia and risk factors for bleeding.
 
 Therefore, complete blood counts (CBC) including platelet counts should be frequently monitored throughout treatment with VELCADE.
@@ -45,6 +46,7 @@ Autonomic neuropathy may be related to bortezomib or bortezomib may aggravate an
 Caution is advised when treating patients with a history of syncope receiving medicinal products known to be associated with hypotension; or who are dehydrated due to recurrent diarrhoea or vomiting.
 Management of orthostatic/postural hypotension may include adjustment of antihypertensive medicinal products, rehydration or administration of mineralocorticosteroids and/or sympathomimetics.
 Patients should be instructed to seek medical advice if they experience symptoms of dizziness, light-headedness or fainting spells.
+
 Heart failure
 Acute development or exacerbation of congestive heart failure, and/or new onset of decreased left ventricular ejection fraction has been reported during bortezomib treatment.
 In a phase III randomized, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
@@ -57,7 +59,7 @@ There have been isolated cases of QT-interval prolongation in clinical studies, 
 Pulmonary Disorders
 There have been rare reports of acute diffuse infiltrative pulmonary disease of unknown aetiology such as pneumonitis, interstitial pneumonia, lung infiltration, and Acute Respiratory Distress Syndrome (ARDS) in patients receiving VELCADE (see section 4.8).
 Some of these events have been fatal.
-A higher proportion of these events have been reported in Japan.
+A higher proportion of these events has been reported in Japan.
 In the event of new or worsening pulmonary symptoms (e.g. cough, dyspnoea), a prompt diagnostic evaluation should be performed and patients treated appropriately.
 
 Renal Impairment
@@ -86,6 +88,7 @@ Precautions with certain concomitant medicinal products
 Patients should be monitored closely when given bortezomib in combination with potent CYP3A4- inhibitors.
 Caution should be exercised when bortezomib is combined with CYP3A4- or CYP2C19 substrates (see section 4.5).
 Normal liver function should be confirmed and caution should be exercised in patients receiving oral hypoglycemics (see section 4.5).
+
 Potentially immunocomplex-mediated reactions
 Potentially immunocomplex-mediated reactions, such as serum-sickness –type reaction, polyarthritis with rash and proliferative glomerulonephritis have been reported uncommonly.
 Bortezomib should be discontinued if serious reactions occur.

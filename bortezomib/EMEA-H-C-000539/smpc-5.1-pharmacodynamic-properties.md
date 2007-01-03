@@ -3,6 +3,10 @@
 Pharmacotherapeutic group: Antineoplastic agent
 ATC code: LO1XX32
 
+This medicinal product has been authorised under “Exceptional Circumstances”.
+This means that for scientific reasons it has not been possible to obtain complete information on this medicinal product.
+The European Medicines Agency (EMEA) will review any new information which may become available every year and this SPC will be updated as necessary.
+
 Bortezomib is a proteasome inhibitor.
 It is specifically designed to inhibit the chymotrypsin-like activity of the 26S proteasome in mammalian cells.
 The 26S proteasome is a large protein complex that degrades ubiquitinated proteins.
@@ -10,7 +14,7 @@ The ubiquitin-proteasome pathway plays an essential role in orchestrating the tu
 Inhibition of the 26S proteasome prevents this targeted proteolysis and affects multiple signalling cascades within the cell, ultimately resulting in cancer cell death.
 
 Bortezomib is highly selective for the proteasome.
-At 10 µM concentrations, bortezomib does not inhibit any of a wide variety of receptors and proteases screened and is more than 1500-fold more selective for the proteasome than for its next preferable enzyme.
+At 10 μM concentrations, bortezomib does not inhibit any of a wide variety of receptors and proteases screened and is more than 1500-fold more selective for the proteasome than for its next preferable enzyme.
 The kinetics of proteasome inhibition were evaluated in vitro, and bortezomib was shown to dissociate from the proteasome with a t½ of 20 minutes, thus demonstrating that proteasome inhibition by bortezomib is reversible.
 
 Bortezomib mediated proteasome inhibition affects cancer cells in a number of ways, including, but not limited to, altering regulatory proteins, which control cell cycle progression and Nuclear Factor kappa B (NF-kB) activation.
@@ -25,7 +29,6 @@ Clinical Trials
 
 The safety and efficacy of VELCADE were evaluated in 2 studies at the recommended dose of 1.3 mg/m2: a phase III randomized, comparative study, versus Dexamethasone (Dex), of 669 patients with relapsed or refractory multiple myeloma who had received 1-3 prior lines of therapy, and a phase II single-arm study of 202 patients with relapsed and refractory multiple myeloma, who had received at least 2 prior lines of treatment and who were progressing on their most recent treatment.
 (See Tables 2, 3 and 4).
-
 Table 2: Dosing regimens in Phase II and Phase III studies
 
 | Phase/arm | Drug Schedule | Dose | Regimen |
@@ -47,7 +50,7 @@ Table 3: Patient characteristics in Phase II and Phase III studies
 | Median age, yrs (range) | 59 (34-84) | 61 (33-84) | 61 (27-86) |
 | Caucasian | 81 | 90 % | 88 % |
 | Karnofsky PS >80% | 80 | 87% | 84 % |
-| Platelets < 75’000/µl | 21 % | 6 % | 4 % |
+| Platelets < 75’000/μl | 21 % | 6 % | 4 % |
 | Hemoglobin < 100g/l | 44 % | 32 % | 28 % |
 | Median Creatinine Clearance, ml/min (range) | 74 (14-221) | 73.3 (15.6-170.7) | 73.3 (15.3-261.1) |
 | Myeloma IgG | 60 % | 60 % | 59% |
@@ -55,25 +58,17 @@ Table 3: Patient characteristics in Phase II and Phase III studies
 | Myeloma light chain | 14 % | 12 % | 13 % |
 | Median duration since diagnosis (yrs) | 4.0 | 3.5 | 3.1 |
 | Chromosome 13 abnormalities | 15% | 25.7% | 25.0% |
-| Med. β2 µglobulin (mg/L) | 3.5 | 3.7 | 3.6 |
+| Med. β2 μglobulin (mg/L) | 3.5 | 3.7 | 3.6 |
 | Median number prior treatment lines* (range) | 6 (2-15) | 2 (1-7) | 2 (1-8) |
 | 1 prior line > 1 prior line | 0 | N=132(40%) N= 186 (60%) | N= 119 (35%) N= 194 (65%) |
 
 *Including steroids, alkylating agents, anthracyclines, thalidomide and stem cell transplants
-
 Table 4: Patient exposure to treatment with VELCADE during phase 2 and 3 studies
 
 |  | Phase II VELCADE | Phase III VELCADE | Phase III Dex |
 | --- | --- | --- | --- |
 | Received at least 1 dose | N= 202 | N=331 | N= 332 |
-| Completed 4 cycles | 62% | 69% 29 % (8 cycles) |  |
-
-a) all initial cycles (number) 27% (8 cycles ) 9% (11 cycles) 36 % (4 cycles)
-b) full course (number) NA NA 5 % (9 cycles)
-c) extension * N= 63 pts (median NA
-7 cycles) or total
-median 14 cycles
-(range 7-32)
+| Completed 4 cycles a) all initial cycles (number) b) full course (number) c) extension * | 27% (8 cycles) NA N= 63 pts (median 7 cycles) or total median 14 cycles (range 7-32) | 69% 29 % (8 cycles) 9% (11 cycles) NA | 36 % (4 cycles) 5 % (9 cycles) NA |
 
 *Patients could continue on treatment after completing 8 cycles, in case of benefit
 NA = not applicable
@@ -96,13 +91,13 @@ Table 5: Summary of Disease Outcomes from the Phase III and Phase II studies
 |  | Phase III |  | Phase III |  | Phase III |  | Phase II |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | All Patients |  | 1 Prior Line of Therapy |  | >1 Prior Line of Therapy |  | ≥2 prior lines |
-| Time related events | VELCA DE N=333a | Dex N=a336 | VELCAD E N=132a | Dex N=a119 | VELCA DE N=200a | Dex N=217a | VELCA DE N=202a |
+| Time related events | VELCADE N=333a | Dex N=336a | VELCADE N=132a | Dex N=119a | VELCADE N=200a | Dex N=217a | VELCADE N=202a |
 | TTP, days [95% CI] | 189b [148, 211] | 106b [86, 128] | 212d [188, 267] | 169d [105, 191] | 148b [129, 192] | 87b [84, 107] | 210 [154, 281] |
-| 1 year survival, % [95% CI] | 80d [74,85] | 66d [59,72] | 89d [82,95] | 72d [62,83 ] | 73 [64,82] | 62 [53,71] | 60 |
-| Best Response (%) | VELCA DE N=315c | Dex Nc =312 | VELCAD E N=128 | Dex N=110 | VELCA DE N=187 | Dex N=202 | VELCA DE N=193 |
-| CR | 20 (6) b | 2 (b<1) | 8 (6) | 2 (2) | 12 (6) | 0 (0) | (4)** |
+| 1 year survival, % [95% CI] | 80d [74,85] | 66d [59,72] | 89d [82,95] | 72d [62,83] | 73 [64,82] | 62 [53,71] | 60 |
+| Best Response (%) | VELCADE N=315c | Dex N=312c | VELCADE N=128 | Dex N=110 | VELCADE N=187 | Dex N=202 | VELCADE N=193 |
+| CR | 20 (6) b | 2 (<1) b | 8 (6) | 2 (2) | 12 (6) | 0 (0) | (4)** |
 | CR + nCR | 41 (13) b | 5 (2) b | 16 (13) | 4 (4) | 25 (13) | 1 (<1) | (10)** |
-| CR+ nCR + PR | 121 (38) b | 56 (b18) | 57 (45) d | 29 (26) d | 64 (34) b | 27b (13) | (27)** |
+| CR+ nCR + PR | 121 (38) b | 56 (18) b | 57 (45) d | 29 (26) d | 64 (34) b | 27 (13) b | (27)** |
 | CR + nCR+ PR+MR | 146 (46) | 108 (35) | 66 (52) | 45 (41) | 80 (43) | 63 (31) | (35)** |
 | Median duration Days (months) | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
 | TIME TO RESPONSE CR + PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |

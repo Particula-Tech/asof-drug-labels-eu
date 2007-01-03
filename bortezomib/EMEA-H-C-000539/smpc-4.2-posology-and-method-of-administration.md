@@ -34,7 +34,7 @@ Administration
 The reconstituted solution is administered as a 3-5 second bolus intravenous injection through a peripheral or central intravenous catheter followed by a flush with 9 mg/ml (0.9%) sodium chloride solution for injection.
 
 Paediatric patients
-VELCADE has not been studied in children and adolescents.
+The experience in children and adolescents is limited.
 Therefore, it should not be used in the paediatric age group until further data become available.
 
 Elderly patients

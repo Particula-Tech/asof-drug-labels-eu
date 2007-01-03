@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-Bortezomib was positive for clastogenic activity (structural chromosomal aberrations) in the in vitro chromosomal aberration assay using Chinese hamster ovary cells at concentrations as low as 3.125 µg/ml, which was the lowest concentration evaluated.
+Bortezomib was positive for clastogenic activity (structural chromosomal aberrations) in the in vitro chromosomal aberration assay using Chinese hamster ovary cells at concentrations as low as 3.125 μg/ml, which was the lowest concentration evaluated.
 Bortezomib was not genotoxic when tested in the in vitro mutagenicity assay (Ames assay) and in vivo micronucleus assay in mice.
 
 Developmental toxicity studies in the rat and rabbit have shown embryo-fetal lethality at maternally toxic dosages, but no direct embryo-foetal toxicity below maternally toxic dosages.
