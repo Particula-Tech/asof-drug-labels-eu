@@ -13,6 +13,7 @@ After infliximab treatment, patients exhibited decreased levels of serum interle
 Peripheral blood lymphocytes further showed no significant decrease in number or in proliferative responses to in vitro mitogenic stimulation when compared with untreated patients’ cells.
 In psoriasis patients, treatment with infliximab resulted in decreases in epidermal inflammation and normalization of keratinocyte differentiation in psoriatic plaques.
 In psoriatic arthritis, short term treatment with Remicade reduced the number of T-cells and blood vessels in the synovium and psoriatic skin.
+
 Histological evaluation of colonic biopsies, obtained before and 4 weeks after administration of infliximab, revealed a substantial reduction in detectable TNFα.
 Infliximab treatment of Crohn’s disease patients was also associated with a substantial reduction of the commonly elevated serum inflammatory marker, CRP.
 Total peripheral white blood cell counts were minimally affected in infliximab-treated patients, although changes in lymphocytes, monocytes and neutrophils reflected shifts towards normal ranges.
@@ -46,30 +47,11 @@ The effects observed at 54 weeks were maintained through 102 weeks.
 Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group can not be defined.
 
 Table 3
-Effects on ACR20, Structural Joint Damage and Physical Function at week 54, ATTRACT infliximabb
-3 mg/kg 3 mg/kg 10 mg/kg 10 mg/kg All Controla q 8 wks q 4 wks q 8 wks q 4 wks infliximabb
+Effects on ACR20, Structural Joint Damage and Physical Function at week 54, ATTRACT
 
-Patients with ACR20 response/ 15/88 36/86 41/86 51/87 48/81 176/340
-Patients evaluated (%)c (17%) (42%) (48%) (59%) (59%) (52%)
-
-Total scored (van der Heijde-modified
-Sharp score)
-Change from baseline (Mean ± SDc ) 7.0 ± 10.3 1.3 ± 6.0 1.6 ± 8.5 0.2 ± 3.6 -0.7 ± 3.8 0.6 ± 5.9
-
-Medianc 4.0 0.5 0.1 0.5 -0.5 0.0
-(Interquartile range) (0.5,9.7) (-1.5,3.0) (-2.5,3.0) (-1.5,2.0) (-3.0,1.5) (-1.8,2.0)
-
-Patients with no deterioration/patients 13/64 34/71 35/71 37/77 44/66 150/285
-
-evaluated (%)c (20%) (48%) (49%) (48%) (67%) (53%)
-
-HAQ change from baseline over timee
-
-87 86 85 87 81 339
-
-(patients evaluated)
-
-Mean ± SDc 0.2 ± 0.3 0.4 ± 0.3 0.5 ± 0.4 0.5 ± 0.5 0.4 ± 0.4 0.4 ± 0.4
+| infliximabb 3 mg/kg 3 mg/kg Controla q 8 wks q 4 wks | 10 mg/kg q 8 wks | 10 mg/kg q 4 wks | All infliximabb |
+| --- | --- | --- | --- |
+| Patients with ACR20 response/ 15/88 36/86 41/86 Patients evaluated (%)c (17%) (42%) (48%) Total scored (van der Heijde-modified Sharp score) Change from baseline (Mean ± SDc ) 7.0 ± 10.3 1.3 ± 6.0 1.6 ± 8.5 Medianc 4.0 0.5 0.1 (Interquartile range) (0.5,9.7) (-1.5,3.0) (-2.5,3.0) Patients with no deterioration/patients 13/64 34/71 35/71 evaluated (%)c (20%) (48%) (49%) HAQ change from baseline over timee 87 86 85 (patients evaluated) Mean ± SDc 0.2 ± 0.3 0.4 ± 0.3 0.5 ± 0.4 | 51/87 (59%) 0.2 ± 3.6 0.5 (-1.5,2.0) 37/77 (48%) 87 0.5 ± 0.5 | 48/81 (59%) -0.7 ± 3.8 -0.5 (-3.0,1.5) 44/66 (67%) 81 0.4 ± 0.4 | 176/340 (52%) 0.6 ± 5.9 0.0 (-1.8,2.0) 150/285 (53%) 339 0.4 ± 0.4 |
 
 a: control = All patients had active RA despite treatment with stable methotrexate doses for 6 months prior to enrolment and were to remain on stable doses throughout the study.
 Concurrent use of stable doses of oral corticosteroids (≤ 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted, and folate supplementation was given.
@@ -79,11 +61,11 @@ e: HAQ = Health Assessment Questionnaire; greater values indicate less disabilit
 The ASPIRE trial evaluated responses at 54 weeks in 1004 methotrexate naive patients with early (≤3 years disease duration, median 0.6 years) active rheumatoid arthritis (median swollen and tender joint count of 19 and 31, respectively).
 All patients received methotrexate (optimised to 20 mg/wk by week 8) and either placebo, 3 mg/kg or 6 mg/kg infliximab at weeks 0, 2, and 6 and every 8 weeks thereafter.
 Results from week 54 are shown in Table 4.
-
 After 54 weeks of treatment, both doses of infliximab + methotrexate resulted in statistically significantly greater improvement in signs and symptoms compared to methotrexate alone as measured by the proportion of patients achieving ACR20, 50 and 70 responses.
 
 In ASPIRE, more than 90% of patients had at least two evaluable x-rays.
 Reduction in the rate of progression of structural damage was observed at weeks 30 and 54 in the infliximab + methotrexate groups compared to methotrexate alone.
+
 Table 4
 Effects on ACRn, Structural Joint Damage and Physical Function at week 54, ASPIRE
 
@@ -97,6 +79,12 @@ Effects on ACRn, Structural Joint Damage and Physical Function at week 54, ASPIR
 a: p < 0.001, for each infliximab treatment group vs. control b: greater values indicate more joint damage.
 c: HAQ = Health Assessment Questionnaire; greater values indicate less disability.
 d: p = 0.030 and < 0.001 for the 3mg/kg and 6mg/kg treatment groups respectively vs. placebo + MTX.
+
+Data to support dose titration in rheumatoid arthritis come from ATTRACT, ASPIRE and the START study.
+START was a randomised, multicenter, double-blind, 3-arm, parallel-group safety study.
+In one of the study arms (group 2, n=329), patients with an inadequate response were allowed to dose titrate with 1.5 mg/kg increments from 3 up to 9 mg/kg.
+The majority (67%) of these patients did not require any dose titration.
+Of the patients who required a dose titration, 80% achieved clinical response and the majority (64%) of these required only one adjustment of 1.5 mg/kg.
 
 Crohn’s disease
 Induction treatment in severe active Crohn’s disease
@@ -112,7 +100,6 @@ At week 4, following a single dose of study medication, 22/27 (81%) of inflixima
 Also at week 4, 13/27 (48%) of infliximab-treated patients achieved a clinical remission (CDAI < 150) vs. 1/25 (4%) of placebo-treated patients.
 A response was observed within 2 weeks, with a maximum response at 4 weeks.
 At the last observation at 12 weeks, 13/27 (48%) of infliximab-treated patients were still responding.
-
 Maintenance treatment in severe active Crohn’s disease
 The efficacy of repeated infusions with infliximab was studied in a 1-year clinical study.
 A total of 573 patients with active Crohn’s disease (CDAI ≥ 220 ≤ 400) received a single infusion of 5 mg/kg at week 0.
@@ -169,10 +156,6 @@ Percentage of subjects in clinical response and in sustained clinical response
 Clinical response at Week 8a 33.2% 66.9% 65.3% 66.1%
 Clinical response at Week 30a 27.9% 49.6% 55.4% 52.5%
 
-Infliximab
-
-Placebo 5 mg/kg 10 mg/kg Combined
-
 Sustained response
 (clinical response at both
 
@@ -215,6 +198,7 @@ Treatment with infliximab resulted in improvement in signs and symptoms, as asse
 Improvement was observed at week 2 and was maintained through week 54.
 Physical function and quality of life (SF36) were improved similarly.
 In the trial, efficacy was not shown in HLA-B27 negative patients (n=7).
+
 Psoriatic Arthritis
 Efficacy and safety were assessed in two multicenter, double-blind, placebo-controlled studies in patients with active psoriatic arthritis.
 
@@ -270,6 +254,7 @@ Decreases in parameters of peripheral activity characteristic of psoriatic arthr
 
 Infliximab-treated patients demonstrated significant improvement in physical function as assessed by HAQ.
 Significant improvements in health-related quality of life were also demonstrated as measured by the physical and mental component summary scores of the SF-36 in IMPACT 2.
+
 Psoriasis
 The efficacy of infliximab was assessed in two multicenter, randomised, double blind studies: SPIRIT and EXPRESS.
 Patients in both studies had plaque psoriasis (Body Surface Area [BSA] ≥10% and Psoriasis Area and Severity Index [PASI] score ≥12).
@@ -291,7 +276,6 @@ Prior therapy with PUVA, methotrexate, cyclosporin, or acitretin had been receiv
 Key results are presented in Table 7.
 In infliximab treated subjects, significant PASI 50 responses were apparent at the first visit (week 2) and PASI 75 responses by the second visit (week 6).
 Efficacy was similar in the subgroup of patients that were exposed to previous systemic therapies compared to the overall study population.
-
 Table 7
 Summary of PASI response and PGA score at Weeks 10, 24 and 50.
 EXPRESS.
