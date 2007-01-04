@@ -21,7 +21,6 @@ Peak plasma concentrations (Cmax) are achieved at 1.3 hours after dosing.
 Steady-state is achieved after two days of a twice daily administration schedule.
 Peak concentrations (Cmax) are typically 31 and 43 µg/ml following a single 1,000 mg dose and repeated 1,000 mg twice daily dose, respectively.
 The extent of absorption is dose-independent and is not altered by food.
-
 Distribution
 
 No tissue distribution data are available in humans.
@@ -67,7 +66,6 @@ Children (4 to 12 years)
 
 Following single oral dose administration (20 mg/kg) to epileptic children (6 to 12 years), the half-life of levetiracetam was 6.0 hours.
 The apparent body weight adjusted clearance was approximately 30 % higher than in epileptic adults.
-
 Following repeated oral dose administration (20 to 60 mg/kg/day) to epileptic children (4 to 12 years), levetiracetam was rapidly absorbed.
 Peak plasma concentration was observed 0.5 to 1.0 hour after dosing.
 Linear and dose proportional increases were observed for peak plasma concentrations and area under the curve.
@@ -87,6 +85,7 @@ It is therefore recommended to adjust the maintenance daily dose of Keppra, base
 
 In anuric end-stage renal disease adult subjects the half-life was approximately 25 and 3.1 hours during interdialytic and intradialytic periods, respectively.
 The fractional removal of levetiracetam was 51 % during a typical 4-hour dialysis session.
+
 Hepatic impairment
 
 In subjects with mild and moderate hepatic impairment, there was no relevant modification of the clearance of levetiracetam.
@@ -115,7 +114,6 @@ A single dose of 1500 mg levetiracetam diluted in 100 ml of a compatible diluent
 
 The intravenous administration of doses up to 4000 mg diluted in 100 ml of 0.9% sodium chloride infused over 15 minutes and doses up to 2500 mg diluted in 100 ml of 0.9% sodium chloride infused over 5 minutes was evaluated.
 The pharmacokinetic and safety profiles did not identify any safety concerns.
-
 The time independent pharmacokinetic profile of levetiracetam was also confirmed following 1500 mg intravenous infusion for 4 days with b.i.d dosing.
 
 Peak plasma concentration (Cmax) observed in 17 subjects following a single intravenous dose of 1500 mg infused over 15 minutes was 51 ± 19 µg/mL (arithmetic average ± standard deviation).

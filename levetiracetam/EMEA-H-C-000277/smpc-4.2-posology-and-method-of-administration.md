@@ -19,10 +19,10 @@ The initial therapeutic dose is 500 mg twice daily.
 This dose can be started on the first day of treatment.
 Depending upon the clinical response and tolerability, the daily dose can be increased up to 1,500 mg twice daily.
 Dose changes can be made in 500 mg twice daily increases or decreases every two to four weeks.
-
 Elderly (65 years and older)
 
 Adjustment of the dose is recommended in elderly patients with compromised renal function (see “Patients with renal impairment” below).
+
 Children aged 4 to 11 years and adolescents (12 to 17 years) weighing less than 50 kg
 
 The initial therapeutic dose is 10 mg/kg twice daily.
@@ -71,6 +71,7 @@ Dosing adjustment for adult patients with impaired renal function
 
 For children with renal impairment, levetiracetam dose needs to be adjusted based on the renal function as levetiracetam clearance is related to renal function.
 This recommendation is based on a study in adult renally impaired patients.
+
 Patients with hepatic impairment
 
 No dose adjustment is needed in patients with mild to moderate hepatic impairment.

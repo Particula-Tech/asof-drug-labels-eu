@@ -6,6 +6,7 @@ Keppra is indicated as adjunctive therapy
 
 - in the treatment of partial onset seizures with or without secondary generalisation in adults and children from 4 years of age with epilepsy.
 - in the treatment of myoclonic seizures in adults and adolescents from 12 years of age with Juvenile Myoclonic Epilepsy.
+- in the treatment of primary generalised tonic-clonic seizures in adults and adolescents from 12 years of age with Idiopathic Generalised Epilepsy.
 
 [Keppra 500 mg film-coated tablets.]
 
