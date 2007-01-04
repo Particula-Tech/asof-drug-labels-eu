@@ -1,6 +1,6 @@
 # 4.3 Contraindications
 
-Temodal is contraindicated in patients who have a history of hypersensitivity to its components or to dacarbazine (DTIC).
+Hypersensitivity to the active substance, to any of the excipients or to dacarbazine (DTIC).
 
 Temodal is contraindicated in patients with severe myelosuppression (see section 4.4).
 

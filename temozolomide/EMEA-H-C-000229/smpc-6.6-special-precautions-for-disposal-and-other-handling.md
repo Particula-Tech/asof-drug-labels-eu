@@ -1,4 +1,4 @@
-# 6.6 Instructions for use and handling
+# 6.6 Special precautions for disposal and other handling
 
 Do not open the capsules.
 If a capsule becomes damaged, avoid contact of the powder contents with skin or mucous membrane.

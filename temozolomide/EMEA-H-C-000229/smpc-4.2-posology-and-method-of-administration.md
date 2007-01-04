@@ -15,14 +15,12 @@ No dose reductions will be made, but delay or discontinuation of temozolomide ad
 The Temodal dose can be continued throughout the 42 day concomitant period (up to 49 days) if all of the following conditions are met: absolute neutrophil count ≥ 1.5 x 109/l, thrombocyte count ≥ 100 x 109/l, Common Toxicity Criteria (CTC) non-haematological toxicity ≤ Grade 1 (except for alopecia, nausea and vomiting).
 During treatment a complete blood count should be obtained weekly.
 Temodal administration should be interrupted or discontinued during concomitant phase according to the haematological and non-haematological toxicity criteria as noted in Table 1.
-
 Table 1.
 Temozolomide dosing interruption or discontinuation during concomitant radiotherapy and temozolomide
 
-Toxicity TMZ interruptiona TMZ discontinuation
-
-| Absolute Neutrophil Count | ≥ 0.5 and < 1.5 x 109/l | < 0.5 x 109/l |
+| Toxicity | TMZ interruptiona | TMZ discontinuation |
 | --- | --- | --- |
+| Absolute Neutrophil Count | ≥ 0.5 and < 1.5 x 109/l | < 0.5 x 109/l |
 | Thrombocyte Count | ≥ 10 and < 100 x 109/l | < 10 x 109/l |
 | CTC Non-haematological toxicity (except for alopecia, nausea, vomiting) | CTC Grade 2 | CTC Grade 3 or 4 |
 
@@ -73,10 +71,13 @@ Adult patients
 A treatment cycle comprises 28 days.
 In patients previously untreated with chemotherapy, Temodal is administered orally at a dose of 200 mg/m2 once daily for the first 5 days followed by a 23 day treatment interruption (total of 28 days).
 In patients previously treated with chemotherapy, the initial dose is 150 mg/m2 once daily, to be increased in the second cycle to 200 mg/m2 once daily, for 5 days if there is no haematological toxicity (see section 4.4)
+
 Paediatric patients
 In patients 3 years of age or older, a treatment cycle comprises 28 days.
 Temodal is administered orally at a dose of 200 mg/m2 once daily for the first 5 days followed by a 23 day treatment interruption (total of 28 days).
 Paediatric patients previously treated with chemotherapy should receive an initial dose of 150 mg/m2 once daily for 5 days, with escalation to 200 mg/m2 once daily for 5 days at the next cycle if there is no haematological toxicity (see section 4.4).
+There is no clinical experience with use of Temodal in children under the age of 3 years.
+Experience in older children is very limited (see section 4.4).
 
 Patients with hepatic or renal dysfunction
 The pharmacokinetics of temozolomide were comparable in patients with normal hepatic function and in those with mild or moderate hepatic dysfunction.

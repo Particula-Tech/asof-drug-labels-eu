@@ -1,16 +1,17 @@
 # 3. PHARMACEUTICAL FORM
 
 Hard capsule
-The hard capsules are white, opaque and imprinted with a specific colour imprinting ink that is unique for each strength.
+
+The hard capsules have an opaque white body, an opaque green cap, and are imprinted with black ink.
 
 [Temodal 20 mg hard capsules]
 
-The hard capsules are white, opaque and imprinted with a specific color imprinting ink that is unique for each strength.
+The hard capsules have an opaque white body, an opaque yellow cap, and are imprinted with black ink.
 
 [Temodal 100 mg hard capsules]
 
-(all sentences already above)
+The hard capsules have an opaque white body, an opaque pink cap, and are imprinted with black ink.
 
 [Temodal 250 mg hard capsules]
 
-(all sentences already above)
+The hard capsules have an opaque white body and cap and are imprinted with black ink.

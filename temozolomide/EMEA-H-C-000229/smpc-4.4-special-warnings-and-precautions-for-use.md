@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Patients who received concomitant Temodal and radiotherapy in a pilot trial for the prolonged 42 day schedule were shown to be at particular risk for developing Pneumocystis carinii pneumonia (PCP).
 Thus, prophylaxis against Pneumocystis carinii pneumonia is required for all patients receiving concomitant Temodal and radiotherapy for the 42 day regimen (with a maximum of 49 days) regardless of lymphocyte count.
@@ -6,7 +6,6 @@ If lymphopenia occurs, they are to continue the prophylaxis until recovery of ly
 
 There may be a higher occurrence of PCP when Temodal is administered during a longer dosing regimen.
 However, all patients receiving Temodal, particularly patients receiving steroids, should be observed closely for the development of PCP, regardless of the regimen.
-
 Anti-emetic therapy: Nausea and vomiting are very commonly associated with Temodal, and guidelines are provided:
 
 Patients with newly diagnosed glioblastoma multiforme:
@@ -28,7 +27,7 @@ The lowest recommended dose is 100 mg/m2.
 
 Paediatric use
 There is no clinical experience with use of Temodal in children under the age of 3 years.
-Experience in older children is very limited.
+Experience in older children is very limited (see section 4.2).
 
 Use in elderly patients
 Elderly patients (> 70 years of age) appear to be at increased risk of neutropenia and thrombocytopenia, compared with younger patients.
