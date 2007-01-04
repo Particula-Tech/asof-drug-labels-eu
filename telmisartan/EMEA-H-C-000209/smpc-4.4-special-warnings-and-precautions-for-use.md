@@ -12,7 +12,7 @@ Renal impairment and kidney transplant:
 When Micardis is used in patients with impaired renal function, a periodic monitoring of potassium and creatinine serum levels is recommended.
 There is no experience regarding the administration of Micardis in patients with a recent kidney transplant.
 
-Intravascular volume depletion:
+Intravascular hypovolaemia:
 Symptomatic hypotension, especially after the first dose, may occur in patients who are volume and/or sodium depleted by vigorous diuretic therapy, dietary salt restriction, diarrhoea or vomiting.
 Such conditions should be corrected before the administration of Micardis.
 Volume and/or sodium depletion should be corrected prior to administration of Micardis.

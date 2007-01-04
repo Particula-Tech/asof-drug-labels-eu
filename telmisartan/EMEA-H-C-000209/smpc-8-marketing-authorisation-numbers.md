@@ -13,6 +13,8 @@ EU/1/98/090/003 (56 tablets)
 EU/1/98/090/004 (98 tablets)
 EU/1/98/090/013 (28 x 1 tablets)
 EU/1/98/090/015 (84 tablets)
+EU/1/98/090/017 (30 tablets)
+EU/1/98/090/019 (90 tablets)
 
 [Micardis 80 mg tablets]
 
@@ -22,3 +24,5 @@ EU/1/98/090/007 (56 tablets)
 EU/1/98/090/008 (98 tablets)
 EU/1/98/090/014 (28 x 1 tablets)
 EU/1/98/090/016 (84 tablets)
+EU/1/98/090/018 (30 tablets)
+EU/1/98/090/020 (90 tablets)
