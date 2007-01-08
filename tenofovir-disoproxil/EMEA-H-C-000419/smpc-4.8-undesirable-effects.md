@@ -6,6 +6,7 @@ Approximately one third of patients can be expected to experience adverse reacti
 These reactions are usually mild to moderate gastrointestinal events.
 
 The adverse reactions with suspected (at least possible) relationship to treatment are listed below by body system organ class and absolute frequency.
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100, < 1/10), uncommon (≥ 1/1000, < 1/100), rare (≥ 1/10,000, < 1/1000) or very rare (< 1/10,000) including isolated reports, or not known (identified through post-marketing safety surveillance and the frequency cannot be estimated from the available data).
 
 Metabolism and nutrition disorders:
@@ -19,7 +20,7 @@ Respiratory, thoracic and mediastinal disorders:
 Very rare: dyspnoea
 
 Gastrointestinal disorders:
-Very common: diarrhoea, nausea, vomiting
+Very common: diarrhoea, vomiting, nausea
 Common: flatulence
 Rare: pancreatitis
 
@@ -43,7 +44,7 @@ Very rare: asthenia
 
 Approximately 1% of tenofovir disoproxil fumarate treated patients discontinued treatment due to the gastrointestinal events.
 
-Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see 4.4).
+Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
 

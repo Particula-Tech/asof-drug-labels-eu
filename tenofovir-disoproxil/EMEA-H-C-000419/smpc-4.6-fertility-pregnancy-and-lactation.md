@@ -1,11 +1,12 @@
 # 4.6 Pregnancy and lactation
 
 Pregnancy
-No clinical data on exposed pregnancies are available for tenofovir disoproxil fumarate.
+For tenofovir disoproxil fumarate no clinical data on exposed pregnancies are available.
 
-Animal studies do not indicate direct or indirect harmful effects of tenofovir disoproxil fumarate with respect to pregnancy, foetal development, parturition or postnatal development (see 5.3).
+Animal studies do not indicate direct or indirect harmful effects of tenofovir disoproxil fumarate with respect to pregnancy, foetal development, parturition or postnatal development (see section 5.3).
 
 Tenofovir disoproxil fumarate should be used during pregnancy only if the potential benefit justifies the potential risk to the foetus.
+
 However, given that the potential risks to developing human foetuses are unknown, the use of tenofovir disoproxil fumarate in women of childbearing potential must be accompanied by the use of effective contraception.
 
 Lactation

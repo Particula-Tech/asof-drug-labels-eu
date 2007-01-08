@@ -1,3 +1,4 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-5 February 2002
+Date of first authorisation: 5 February 2002
+Date of last renewal:

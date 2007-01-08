@@ -30,6 +30,7 @@ Total clearance has been estimated to be approximately 230 ml/h/kg (approximatel
 Renal clearance has been estimated to be approximately 160 ml/h/kg (approximately 210 ml/min), which is in excess of the glomerular filtration rate.
 This indicates that active tubular secretion is an important part of the elimination of tenofovir.
 Following oral administration the terminal half-life of tenofovir is approximately 12 to 18 hours.
+
 Linearity/non-linearity
 The pharmacokinetics of tenofovir were independent of tenofovir disoproxil fumarate dose over the dose range 75 to 600 mg and were not affected by repeated dosing at any dose level.
 
@@ -49,12 +50,11 @@ The clinical implications of this are unknown.
 
 In patients with end-stage renal disease (ESRD) (CrCl < 10 ml/min) requiring haemodialysis, between dialysis tenofovir concentrations substantially increased over 48 hours achieving a mean Cmax of 1,032 ng/ml and a mean AUC0-48h of 42,857 ng·h/ml.
 
-It is recommended that the dosing interval for tenofovir disoproxil 245 mg (as fumarate) is modified in patients with creatinine clearance < 50 ml/min or in patients who already have ESRD and require dialysis (see 4.2).
+It is recommended that the dosing interval for tenofovir disoproxil 245 mg (as fumarate) is modified in patients with creatinine clearance < 50 ml/min or in patients who already have ESRD and require dialysis (see section 4.2).
 
 The pharmacokinetics of tenofovir in non-haemodialysis patients with creatinine clearance
 < 10 ml/min and in patients with ESRD managed by peritoneal or other forms of dialysis have not been studied.
-
-Hepatic Impairment
+Hepatic impairment
 A single 245 mg dose of tenofovir disoproxil was administered to non-HIV infected patients with varying degrees of hepatic impairment defined according to Child-Pugh-Turcotte (CPT) classification.
 Tenofovir pharmacokinetics were not substantially altered in subjects with hepatic impairment suggesting that no dose adjustment is required in these subjects.
 The mean (%CV) tenofovir Cmax and AUC0-∞ values were 223 (34.8%) ng/ml and 2,050 (50.8%) ng·hr/ml, respectively, in normal subjects compared with 289 (46.0%) ng/ml and 2,310 (43.5%) ng·hr/ml in subjects with moderate hepatic impairment, and 305 (24.8%) ng/ml and 2,740 (44.0%) ng·hr/ml in subjects with severe hepatic impairment.

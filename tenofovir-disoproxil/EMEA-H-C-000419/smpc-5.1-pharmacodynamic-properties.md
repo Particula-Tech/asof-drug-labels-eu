@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antiviral for systemic use, ATC code: J05AF07
+Pharmacotherapeutic group: Nucleoside and nucleotide reverse transcriptase inhibitors, ATC code: J05AF07
 
 Mechanism of action: Tenofovir disoproxil fumarate is the fumarate salt of the prodrug tenofovir disoproxil.
 Tenofovir disoproxil is absorbed and converted to the active substance tenofovir, which is a nucleoside monophosphate (nucleotide) analogue.
@@ -29,7 +29,8 @@ Cross-resistance to protease inhibitor resistance mutations is not expected due 
 
 Strains of HIV-1 with 3- to 4-fold reduced susceptibility to tenofovir and a K65R mutation in reverse transcriptase have been selected in vitro.
 The K65R mutation in reverse transcriptase can also be selected by zalcitabine, didanosine, and abacavir, and causes reduced susceptibility to zalcitabine, didanosine, abacavir, and lamivudine (14-, 4-, 3-, and 25-fold, respectively).
-Tenofovir disoproxil fumarate should be avoided in antiretroviral experienced patients with strains harbouring the K65R mutation (see also 4.4).
+Tenofovir disoproxil fumarate should be avoided in antiretroviral experienced patients with strains harbouring the K65R mutation (see section 4.4).
+
 The clinical activity of tenofovir disoproxil fumarate has not been determined against hepatitis B virus (HBV) in humans.
 It is unknown whether treatment of patients co-infected with HIV-1 and HBV will result in the development of HBV resistance to tenofovir disoproxil fumarate or other medicinal products.
 
@@ -58,6 +59,7 @@ At 144 weeks, the proportion of patients with HIV-1 RNA below 400 copies/ml and 
 The average change from baseline for HIV-1 RNA and CD4 count at 48 weeks of treatment was similar in both treatment groups (-3.09 and -3.09 log10 copies/ml; +169 and 167 cells/mm3 in the tenofovir disoproxil 245 mg (as fumarate) and stavudine groups, respectively).
 At 144 weeks of treatment, the average change from baseline remained similar in both treatment groups (-3.07 and -3.03 log10 copies/ml; +263 and +283 cells/mm3 in the tenofovir disoproxil 245 mg (as fumarate) and stavudine groups, respectively).
 A consistent response to treatment with tenofovir disoproxil 245 mg (as fumarate) was seen regardless of baseline HIV-1 RNA and CD4 count.
+
 The K65R mutation occurred in a slightly higher percentage of patients in the tenofovir disoproxil fumarate group than the active control group (2.7% versus 0.7%).
 Efavirenz or lamivudine resistance either preceded or was coincident with the development of K65R in all cases.
 Eight patients had HIV that expressed K65R in the tenofovir disoproxil 245 mg (as fumarate) arm, 7 of these occurred during the first 48 weeks of treatment and the last one at week 96.
