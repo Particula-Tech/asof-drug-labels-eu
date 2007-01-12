@@ -14,14 +14,14 @@ Ritonavir Dosing Regimen
 100 mg once 100 mg twice 200 mg once 200 mg twice 600 mg twice
 
 daily daily1 daily daily daily
-Cmax (µg/mL) 0.84 ± 0.39 0.89 3.4 ± 1.3 4.5 ± 1.3 11.2 ± 3.6
+Cmax (�g/mL) 0.84 ± 0.39 0.89 3.4 ± 1.3 4.5 ± 1.3 11.2 ± 3.6
 Ctrough 0.08 ± 0.04 0.22 0.16 ± 0.10 0.6 ± 0.2 3.7 ± 2.6
 
-(µg/mL)
+(�g/mL)
 
 AUC12 or 24 6.6 ± 2.4 6.2 20.0 ± 5.6 21.92 ± 6.48 77.5 ± 31.5
 
-(µg•h/mL)
+(�g•h/mL)
 
 t½ (h) ~5 ~5 ~4 ~8 ~3 to 5
 Cl/F (L/h) 17.2 ± 6.6 16.1 10.8 ± 3.1 10.0 ± 3.2 8.8 ± 3.2
@@ -59,12 +59,10 @@ Special Populations: No clinically significant differences in AUC or Cmax were n
 Ritonavir pharmacokinetic parameters were not statistically significantly associated with body weight or lean body mass.
 Ritonavir pharmacokinetics have not been evaluated in elderly patients.
 
-Patients with impaired liver function: after multiple dosing of ritonavir to healthy volunteers (500 mg twice daily) and subjects with mild to moderate hepatic impairment (Child Pugh Class A and B,
-400 mg twice daily) exposure to ritonavir after dose normalisation was not significantly different between the two groups.
+Patients with impaired liver function: after multiple dosing of ritonavir to healthy volunteers (500 mg twice daily) and subjects with mild to moderate hepatic impairment (Child Pugh Class A and B, 400 mg twice daily) exposure to ritonavir after dose normalisation was not significantly different between the two groups.
 
 Patients with impaired renal function: Ritonavir pharmacokinetic parameters have not been studied in patients with renal impairment.
 However, since the renal clearance of ritonavir is negligible, no changes in the total body clearance are expected in patients with renal impairment.
-
 Paediatric Patients: Ritonavir steady-state pharmacokinetic parameters were evaluated in HIV infected children above 2 years of age receiving doses ranging from 250 mg/m² twice daily to 400 mg/m² twice daily.
 Ritonavir concentrations obtained after 350 to 400 mg/m² twice daily in paediatric patients were comparable to those obtained in adults receiving 600 mg (approximately 330 mg/m²) twice daily.
 Across dose groups, ritonavir oral clearance (CL/F/m2) was approximately 1.5 to 1.7 times faster in paediatric patients above 2 years of age than in adult subjects.

@@ -1,16 +1,14 @@
 # 4.4 Special warnings and precautions for use
 
-[Norvir 100 mg soft capsules]
-
 Ritonavir is not a cure for HIV-1 infection or AIDS.
-Patients receiving Ritonavir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV-1 infection.
-
+Patients receiving ritonavir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV-1 infection.
 Patients should be advised that current antiretroviral therapy has not been proven to prevent the risk of transmission of HIV to others through blood or sexual contact.
 Appropriate precautions should continue to be used.
 
 When ritonavir is used as a pharmacokinetic enhancer with other PIs, full details on the warnings and precautions relevant to that particular PI should be considered, therefore the Summary of Product Characteristics for the particular PI must be consulted.
 
 Ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer
+
 Patients with chronic diarrhoea or malabsorption: Extra monitoring is recommended when diarrhoea occurs.
 The relatively high frequency of diarrhoea during treatment with ritonavir may compromise the absorption and efficacy (due to decreased compliance) of ritonavir or other concurrent medications.
 Serious persistent vomiting and/or diarrhoea associated with ritonavir use might also compromise renal function.
@@ -50,17 +48,27 @@ In case of concomitant antiviral therapy for hepatitis B or C, please refer to t
 
 Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
+
 Renal disease: Since the renal clearance of ritonavir is negligible, the decrease in the total body clearance is not expected in patients with renal impairment.
 For specific dosing information in patients with renal impairment, refer to the Summary of Product Characteristics (SPC) of the co-administered protease inhibitor.
 See also section 4.2.
 
-This medicinal product contains small amounts of ethanol (alcohol), less than 100 mg per maximum dose of 600 mg.
+Ritonavir oral solution contains castor oil polyoxyl which may cause stomach upset and diarrhoea.
+Ritonavir oral solution also contains the azo-colouring agent sunset yellow (E110) which may cause allergic reactions.
+
+Ritonavir oral solution contains alcohol (43% v/v), ie up to 258 mg per maximum dose of 600 mg, equivalent to 65 ml beer, 27 ml wine per dose.
+Each 100 mg dose contains up to 43 mg alcohol and each 200 mg dose contains 86 mg alcohol.
+Therefore concomitant administration of Norvir with disulfiram or medicines with disulfiram-like reactions (eg metronidazole) should be avoided.
+Also to be taken into account in pregnant or breast-feeding women, children and high-risk groups such as patients with liver disease or epilepsy.
+
+Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 Interactions with other medicinal products
 
 Ritonavir dosed as an antiretroviral agent
 
-The following Warnings and Precautions should be considered when ritonavir is used as a antiretroviral agent.
+The following Warnings and Precautions should be considered when ritonavir is used as an antiretroviral agent.
 When ritonavir is used as a pharmacokinetic enhancer at the 100 mg and 200 mg level it cannot be assumed that the following warnings and precautions will also apply.
 When ritonavir is used as a pharmacokinetic enhancer, full details on the warnings and precautions relevant to that particular PI must be considered, therefore the Summary of Product Characteristics, section 4.4, for the particular PI must be consulted to determine if the information below is applicable.
 
@@ -70,11 +78,10 @@ Co-administration of ritonavir with these medicinal products is expected to subs
 HMG-CoA reductase inhibitors: The HMG-CoA reductase inhibitors simvastatin and lovastatin are highly dependent on CYP3A for metabolism, thus concomitant use of ritonavir with simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
 Caution must also be exercised and reduced doses should be considered if ritonavir is used concurrently with atorvastatin, which is metabolised to a lesser extent by CYP3A.
 If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fluvastatin is recommended (see section 4.5).
-
 Digoxin: Particular caution should be used when prescribing ritonavir in patients taking digoxin since co-administration of ritonavir with digoxin is expected to increase digoxin levels.
 The increased digoxin levels may lessen over time (see section 4.5).
 
-In patients who are already taking digoxin when ritonavir is introduced, the digoxin dose should be reduced to one-half of the patients’ normal dose and patients need to be followed more closely than usual for several weeks after initiating co-administration of ritonavir and digoxin.
+In patients who are already taking digoxin when ritonavir is introduced, the digoxin dose should be reduced to one-half of the patients’ normal dose and patient need to be followed more closely than usual for several weeks after initiating co-administration of ritonavir and digoxin.
 
 In patients who are already taking ritonavir when digoxin is introduced, digoxin should be introduced more gradually than usual.
 Digoxin levels should be monitored more intensively than usual during this period, with dose adjustments made, as necessary, based on clinical, electrocardiographic and digoxin level findings.
@@ -108,3 +115,11 @@ The use of higher ritonavir doses might alter the safety profile of the combinat
 
 Atazanavir: Co-administration of atazanavir with ritonavir in doses greater than 100 mg once daily has not been clinically evaluated.
 The use of higher ritonavir doses might alter the safety profile of atazanavir (cardiac effects, hyperbilirubinemia) and therefore is not recommended.
+
+[Norvir 100 mg soft capsules]
+
+This medicinal product contains small amounts of ethanol (alcohol), less than 100 mg per maximum dose of 600 mg.
+
+The following Warnings and Precautions should be considered when ritonavir is used as a antiretroviral agent.
+
+In patients who are already taking digoxin when ritonavir is introduced, the digoxin dose should be reduced to one-half of the patients’ normal dose and patients need to be followed more closely than usual for several weeks after initiating co-administration of ritonavir and digoxin.

@@ -7,5 +7,9 @@ A dosage cup containing graduations at 3.75 ml (300 mg dose), 5 ml (400 mg dose)
 [Norvir 100 mg soft capsules]
 
 Norvir soft capsules are supplied in white high density polyethylene (HDPE) bottles closed with polypropylene caps containing 84 capsules.
-Each pack contains 4 bottles of 84 capsules
-(336 capsules).
+
+Two pack sizes are available for Norvir soft capsules:
+− 1 bottle of 84 capsules (84 capsules)
+− 4 bottles of 84 capsules (336 capsules)
+
+Not all pack sizes may be marketed.

@@ -4,14 +4,12 @@ Ritonavir dosed as a pharmacokinetic enhancer
 
 Adverse events associated with the use of ritonavir as a pharmacokinetic enhancer are dependent on the specific co-administered PI.
 For information on adverse events refer to the SPC of the specific co-administered PI.
-
 Ritonavir dosed as an antiretroviral agent
 
 In the original clinical studies (Phase II/III), adverse events with possible, probable or unknown relationship to ritonavir were reported in ≥ 2% of 1033 patients.
 
 The following adverse reactions of moderate to severe intensity with possible or probable relationship to ritonavir have been reported.
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (> 1/10); common (> 1/100 to < 1/10); uncommon
-(> 1/1000 to < 1/100); rare( > 1/10,000 to < 1/1,000).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (> 1/10); common (> 1/100 to < 1/10); uncommon (> 1/1000 to < 1/100); rare( > 1/10,000 to < 1/1,000).
 
 | Undesirable Effects in Clinical Studies and Post-marketing in Adult Patients |  |  |
 | --- | --- | --- |
@@ -45,6 +43,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 Events noted as having Unknown frequency were identified via post-marketing surveillance.
 
 Hepatic transaminase elevations exceeding five times the upper limit or normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
+
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
@@ -55,6 +54,9 @@ Pancreatitis has been observed in patients receiving ritonavir therapy, includin
 In some cases fatalities have been observed.
 Patients with advanced HIV disease may be at risk of elevated triglycerides and pancreatitis (see section 4.4).
 
+Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
+The frequency of this is unknown (see section 4.4).
+
 [Norvir 100 mg soft capsules]
 
-(> 1/1000 to < 1/100); rare (> 1/10,000 to < 1/1,000).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (> 1/10); common (> 1/100 to < 1/10); uncommon (> 1/1000 to < 1/100); rare (> 1/10,000 to < 1/1,000).
