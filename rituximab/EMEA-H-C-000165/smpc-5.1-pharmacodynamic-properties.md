@@ -4,6 +4,7 @@ Pharmacotherapeutic group: Antineoplastic Agents, ATC code: L01X C02
 
 Rituximab binds specifically to the transmembrane antigen, CD20, a non-glycosylated phosphoprotein, located on pre-B and mature B lymphocytes.
 The antigen is expressed on >95 % of all B cell non-Hodgkin’s Lymphomas (NHLs).
+
 CD20 is found on both normal and malignant B cells, but not on haematopoietic stem cells, pro-
 B cells, normal plasma cells or other normal tissue.
 This antigen does not internalise upon antibody binding and is not shed from the cell surface.
@@ -42,6 +43,7 @@ The ORR was 57 % (CI95 % 41 % – 73 %; CR 14 %, PR 43 %) with a projected media
 Initial treatment, bulky disease, weekly for 4 doses
 In pooled data from three studies, 39 patients with relapsed or chemoresistant, bulky disease (single lesion ≥ 10 cm in diameter), low grade or follicular B cell NHL received 375 mg/m2 of MabThera as IV infusion weekly for four doses.
 The ORR was 36 % (CI95 % 21 % – 51 %; CR 3 %, PR 33 %) with a median TTP for responding patients of 9.6 months (range 4.5 to 26.8 months).
+
 Re-treatment, weekly for 4 doses
 In a multi-centre, single-arm study, 58 patients with relapsed or chemoresistant low grade or follicular B cell NHL, who had achieved an objective clinical response to a prior course of MabThera, were re-treated with 375 mg/m2 of MabThera as IV infusion weekly for four doses.
 Three of the patients had received two courses of MabThera before enrollment and thus were given a third course in the study.
@@ -51,7 +53,7 @@ This compares favourably with the TTP achieved after the prior course of MabTher
 
 Initial treatment, in combination with CVP
 
-In an open-label randomised trial, a total of 322 previously untreated low-grade or follicular B cell NHL patients were randomised to receive either CVP chemotherapy (cyclophosphamide 750 mg/m2, vincristine 1.4 mg/m2 up to a maximum of 2 mg on day 1, and prednisolone 40 mg/m2/day on days 1 – 5) every 3 weeks for 8 cycles or MabThera 375 mg/m2 in combination with CVP (R-CVP).
+In an open-label randomised trial, a total of 322 previously untreated low-grade or follicular B cell NHL patients were randomised to receive either CVP chemotherapy (cyclophosphamide 750 mg/m2, vincristine 1.4 mg/m2 up to a maximum of 2 mg on day 1, and prednisolone 40 mg/m2/day on days 1 -5) every 3 weeks for 8 cycles or MabThera 375 mg/m2 in combination with CVP (R-CVP).
 MabThera was administered on the first day of each treatment cycle.
 A total of 321 patients (162 R-CVP, 159 CVP) received therapy and were analysed for efficacy.
 At the time of the final analysis, the median observation time was 18 months.
@@ -248,10 +250,6 @@ Some patients required even less frequent retreatment.
 The response to further therapy was at least the same magnitude as that following the initial treatment course, as evidenced by the change from baseline DAS28.
 Mean change in DAS28 from original baseline: first course -2.18, second course -2.75.
 
-[MabThMabThera 500 mg concentrate for solution for infusion.]
+[MabThera 500 mg concentrate for solution for infusion.]
 
 NR: not reached since the Kaplan-Meier estimates of event-free rates were above 50 % during the entire observation period of the study
-
-|  | CHOP | R-CHOP | p-value | Risk Reduction1) |
-| --- | --- | --- | --- | --- |
-| Primary Efficacy ORR2) CR2) PR2) | 74 % 16 % 58 % | 87 % 29 % 58 % | 0.0003 0.0005 0.9449 | na na na |

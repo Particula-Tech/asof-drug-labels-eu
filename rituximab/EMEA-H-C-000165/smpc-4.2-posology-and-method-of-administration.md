@@ -22,7 +22,7 @@ The infusion rate may be increased upon improvement of symptoms.
 
 Posology
 
-non-Hodgkin’s Lymphoma
+non-Hodgkin’s lymphoma
 
 Premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing (CHOP or CVP) chemotherapy for treatment of non-Hodgkin’s lymphoma.
 

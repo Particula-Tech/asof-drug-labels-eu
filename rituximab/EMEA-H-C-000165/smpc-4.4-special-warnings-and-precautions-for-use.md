@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-non-Hogkin’s Lymphoma
+Non-Hogkin’s lymphoma
 
 Patients with a high tumour burden or with a high number (≥25 x 109/l) of circulating malignant cells, who may be at higher risk of especially severe cytokine release syndrome, should only be treated with extreme caution and when other therapeutic alternatives have been exhausted.
 These patients should be very closely monitored throughout the first infusion.
@@ -28,7 +28,7 @@ Since hypotension may occur during MabThera infusion, consideration should be gi
 Angina pectoris, or cardiac arrhythmias such as atrial flutter and fibrillation heart failure or myocardial infarction have occurred in patients treated with MabThera.
 Therefore patients with a history of cardiac disease and/or cardiotoxic chemotherapy should be monitored closely.
 
-Although MabThera is not myelosuppressive in monotherapy, caution should be exercised when considering treatment of patients with neutrophils < 1.5 x 109/l and/or platelet counts < 75 x 109/l , as clinical experience in this population is limited.
+Although MabThera is not myelosuppressive in monotherapy, caution should be exercised when considering treatment of patients with neutrophils < 1.5 x 109/l and/or platelet counts < 75 x 109/l as clinical experience in this population is limited.
 MabThera has been used in 21 patients who underwent autologous bone marrow transplantation and other risk groups with a presumable reduced bone marrow function without inducing myelotoxicity.
 
 Consideration should be given to the need for regular full blood counts, including platelet counts, during monotherapy with MabThera.
@@ -60,7 +60,7 @@ In clinical studies 10/990 (1 %) patients with rheumatoid arthritis who received
 
 There are no data on the safety of MabThera in patients with moderate heart failure (NYHA class III) or severe, uncontrolled cardiovascular disease.
 In patients treated with MabThera, the occurrence of pre-existing ischemic cardiac conditions becoming symptomatic, such as angina pectoris, has been observed, as well as atrial fibrillation and flutter.
-Therefore, in patients with a known cardiac history, the risk of cardiovascular complications resulting from infusion reactions should be considered before treatment with MabThera and patients closely monitoring during administration.
+Therefore, in patients with a known cardiac history, the risk of cardiovascular complications resulting from infusion reactions should be considered before treatment with MabThera and patients closely monitored during administration.
 Since hypotension may occur during MabThera infusion, consideration should be given to withholding anti-hypertensive medications 12 hours prior to the MabThera infusion.
 Infections
 Serious infections, including fatalities, can occur during therapy with MabThera (see section 4.8).
@@ -68,7 +68,7 @@ MabThera should not be administered to patients with an active and/or severe inf
 In hypogammaglobulinemia or where levels of CD4 or CD8 are very low).
 Physicians should exercise caution when considering the use of MabThera in patients with a history of recurring or chronic infections or with underlying conditions which may further predispose patients to serious infection (see section 4.8).
 Patients reporting signs and symptoms of infection following MabThera therapy should be promptly evaluated and treated appropriately.
-Before giving a subsequent course of MabThera treatment, patients should be re-evaluated for any potential risk for infections before givng any subsequent courses of MabThera.
+Before giving a subsequent course of MabThera treatment, patients should be re-evaluated for any potential risk for infections.
 
 In patients with non-Hodgkin’s lymphoma receiving rituximab in combination with cytotoxic chemotherapy, very rare cases of hepatitis B reactivation have been reported (see non-Hodgkin’s Lymphoma).
 
@@ -87,3 +87,7 @@ Patients should be closely observed for signs of infection if biologic agents an
 Malignancy
 Immunomodulatory drugs may increase the risk of malignancy.
 On the basis of limited experience with MabThera in rheumatoid arthritis patients (see section 4.8) a possible risk for the development of solid tumours cannot be excluded at this time, although present data do not seem to suggest any increased risk.
+
+[MabThera 500 mg concentrate for solution for infusion.]
+
+Although MabThera is not myelosuppressive in monotherapy, caution should be exercised when considering treatment of patients with neutrophils < 1.5 x 109/l and/or platelet counts < 75 x 109/l , as clinical experience in this population is limited.

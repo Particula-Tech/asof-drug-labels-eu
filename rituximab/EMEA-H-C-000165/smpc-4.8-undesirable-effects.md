@@ -1,8 +1,8 @@
 # 4.8 Undesirable effects
 
-non-Hodgkin's Lymphoma
+Non-Hodgkin's lymphoma
 
-Follicular non-Hodgkin's Lymphoma
+Follicular non-Hodgkin's lymphoma
 
 Monotherapy
 
@@ -281,7 +281,7 @@ After induction treatment, median IgG levels were below the lower limit of norma
 In the observation group, the median IgG level subsequently increased to above the LLN, but remained constant during MabThera treatment.
 The proportion of patients with IgG levels below the LLN was about 60% in the MabThera group throughout the 2 year treatment period, while it decreased in the observation group (36 % after 2 years).
 
-Diffuse large B cell non-Hodgkin’s Lymphoma
+Diffuse large B cell non-Hodgkin’s lymphoma
 
 In combination with CHOP chemotherapy
 
@@ -424,15 +424,19 @@ Post-marketing experience
 
 As part of the continuing post-marketing surveillance of MabThera safety, the following serious adverse reactions have been observed:
 
+non-Hodgkin’s Lymphoma
+
 Table 6 Serious adverse reactions observed during post-marketing surveillance
 
-| Blood and lymphatic system disorders |  |
+| Infections and infestations |  |
 | --- | --- |
-| Rare (≥ 1/10,000, < 1/1000): | Late neutropenia1 |
-| Very rare (< 1/10,000): | Pancytopenia Aplastic anaemia Transient increase in serum IgM levels2 |
+| Very rare (< 1/10,000): | Serious viral infection1 |
+| Blood and lymphatic system disorders |  |
+| Rare (≥ 1/10,000, < 1/1000): | Late neutropenia2 |
+| Very rare (< 1/10,000): | Pancytopenia Aplastic anaemia Transient increase in serum IgM levels3 |
 | Cardiovascular system |  |
-| Rare (≥ 1/10,000, < 1/1000): | *Severe cardiac events3 |
-| Very rare (< 1/10,000): | *Heart failure3 *Myocardial infarction3 |
+| Rare (≥ 1/10,000, < 1/1000): | *Severe cardiac events4 |
+| Very rare (< 1/10,000): | *Heart failure4 *Myocardial infarction4 |
 | Ear and labyrinth disorders |  |
 | Very rare (< 1/10,000): | †Hearing loss |
 | Eye disorders |  |
@@ -442,7 +446,7 @@ Table 6 Serious adverse reactions observed during post-marketing surveillance
 | Immune system disorders |  |
 | Uncommon (≥ 1/1000, < 1/100): | Infusion related reactions |
 | Rare (≥ 1/10,000, < 1/1000): | Anaphylaxis |
-| Very rare (< 1/10,000): | *Tumour lysis syndrome *Cytokine release syndrome Serum sickness Hepatitis B reactivation4 |
+| Very rare (< 1/10,000): | *Tumour lysis syndrome *Cytokine release syndrome Serum sickness Hepatitis B reactivation5 |
 | Nervous system disorders |  |
 | Very rare (< 1/10,000): | Cranial neuropathy Peripheral neuropathy †Facial nerve palsy †Loss of other senses |
 | Renal and urinary disorders |  |
@@ -450,8 +454,10 @@ Table 6 Serious adverse reactions observed during post-marketing surveillance
 | Respiratory, thoracic and mediastinal disorders |  |
 | Rare (≥ 1/10,000, < 1/1000): | *Bronchospasm |
 | Very rare (< 1/10,000): | *Respiratory failure Pulmonary infiltrates Interstitial pneumonitis |
+| Gastrointestinal disorders |  |
+| Very rare (< 1/10,000): | Gastro-intestinal perforation6 |
 | Skin and subcutaneous tissue disorders |  |
-| Very rare (< 1/10,000): | Severe bullous skin reactions Toxic epidermal necrolysis5 |
+| Very rare (< 1/10,000): | Severe bullous skin reactions Toxic epidermal necrolysis7 |
 | Vascular disorders |  |
 | Very rare (< 1/10,000): | Vasculitis (predominately cutaneous) Leukocytoclastic vasculitis |
 
@@ -459,57 +465,179 @@ Table 6 Serious adverse reactions observed during post-marketing surveillance
 Rarely fatal cases reported
 † Signs and symptoms of cranial neuropathy.
 Occurred at various times up to several months after completion of MabThera therapy
-1 Neutropenia that has occurred more than four weeks after the last infusion of MabThera.
-2 In post-marketing studies of rituximab in patients with Waldenstrom’s macroglobulinaemia, transient increases in serum IgM levels have been observed following treatment initiation, which may be associated with hyperviscosity and related symptoms.
+1 Other serious viral infections, either new, reactivation or exacerbation some of which were fatal, have been reported with rituximab treatment.
+The majority of patients had received rituximab in combination with chemotherapy or as part of a hematopoetic stem cell transplant.
+Examples of these serious viral infections are infections caused by the herpes viruses (Cytomegalovirus, Varicella Zoster Virus and Herpes Simplex Virus), JC virus (progressive multifocal leukoencephalopathy (PML)) and Hepatitis C virus.
+2 Neutropenia that has occurred more than four weeks after the last infusion of MabThera.
+3 In post-marketing studies of rituximab in patients with Waldenstrom’s macroglobulinaemia, transient increases in serum IgM levels have been observed following treatment initiation, which may be associated with hyperviscosity and related symptoms.
 The transient IgM increase usually returned to at least baseline level within 4 months.
-3 Observed mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and were mostly associated with infusion-related reactions
-4 Very rare cases of hepatitis B reactivation, have been reported, the majority of which were in subjects receiving rituximab in combination with cytotoxic chemotherapy.
-5 Including fatal cases
+4 Observed mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and were mostly associated with infusion-related reactions
+5 Very rare cases of hepatitis B reactivation, have been reported, the majority of which were in subjects receiving rituximab in combination with cytotoxic chemotherapy.
+6 Gastro-intestinal perforation in some cases leading to death has been observed in patients receiving rituximab for treatment of Non Hodgin Lymphoma.
+In the majority of these cases, rituximab was administered with chemotherapy.
+7 Including fatal cases
 
-[MabThMabThera 500 mg concentrate for solution for infusion.]
+[MabThera 500 mg concentrate for solution for infusion.]
+
+|  | All grades | Grade 3 and 4 |
+| --- | --- | --- |
+| Body system Adverse event | % | % |
+| Any adverse event | 91.0 | 17.7 |
+| Body as a whole |  |  |
+| Body system Adverse event | % | % |
+| Fever | 48.3 | 0.6 |
+| Chills | 31.7 | 2.2 |
+| Asthenia | 18.0 | 0.3 |
+| Headache | 12.6 | 0.6 |
+| Throat irritation | 7.6 | - |
+| Abdominal pain | 7.0 | 0.6 |
+| Back pain | 4.5 | 0.3 |
+| Pain | 4.2 | - |
+| Flushing | 4.2 | - |
+| Chest pain | 2.2 | - |
+| Malaise | 2.0 | - |
+| Tumour pain | 1.7 | - |
+| Cold syndrome | 1.4 | - |
+| Neck pain | 1.1 | - |
+| Cardiovascular system |  |  |
+| Hypotension | 9.8 | 0.8 |
+| Hypertension | 4.5 | 0.3 |
+| Tachycardia | 1.4 | - |
+| Arrhythmia | 1.4 | 0.6 |
+| Orthostatic hypotension | 1.1 | - |
+| Digestive system |  |  |
+| Nausea | 17.1 | 0.3 |
+| Vomiting | 6.7 | 0.3 |
+| Diarrhoea | 4.2 | - |
+| Dyspepsia | 2.8 | - |
+| Anorexia | 2.8 | - |
+| Dysphagia | 1.4 | 0.3 |
+| Stomatitis | 1.4 | - |
+| Constipation | 1.1 | - |
+| Blood and lymphatic system |  |  |
+| Leucopenia | 12.4 | 2.8 |
+| Neutropenia | 11.2 | 4.2 |
+| Thrombocytopenia | 9.6 | 1.7 |
+| Anaemia | 3.7 | 1.1 |
+| Metabolic and nutritional disorders |  |  |
+| Angioedema | 10.7 | 0.3 |
+| Hyperglycaemia | 5.3 | 0.3 |
+| Peripheral oedema | 4.8 | - |
+| LDH increase | 2.2 | - |
+| Hypocalcaemia | 2.2 | - |
+| Facial oedema | 1.1 | - |
+| Weight decrease | 1.1 | - |
+| Musculoskeletal system |  |  |
+| Myalgia | 8.1 | 0.3 |
+| Arthralgia | 5.9 | 0.6 |
+| Hypertonia | 1.4 | - |
+| Pain | 1.1 | 0.3 |
+| Nervous system |  |  |
+| Dizziness | 7.3 | - |
+| Paraesthesia | 2.5 | - |
+| Anxiety | 2.2 | - |
+| Insomnia | 2.2 | - |
+| Body system Adverse event | % | % |
+| Vasodilatation | 1.7 | - |
+| Hypoaesthesia | 1.4 | - |
+| Agitation | 1.4 | - |
+| Respiratory system |  |  |
+| Bronchospasm | 7.9 | 1.4 |
+| Rhinitis | 7.3 | 0.3 |
+| Increased cough | 5.1 | 0.3 |
+| Dyspnoea | 2.2 | 0.8 |
+| Chest pain | 1.1 | - |
+| Respiratory disease | 1.1 | - |
+| Skin and appendages |  |  |
+| Pruritus | 12.4 | 0.3 |
+| Rash | 11.2 | 0.3 |
+| Urticaria | 7.3 | 0.8 |
+| Night sweats | 2.8 | - |
+| Sweating | 2.8 | - |
+| Special senses |  |  |
+| Lacrimation disorder | 3.1 | - |
+| Conjunctivitis | 1.4 | - |
+| Ear pain | 1.1 | - |
+| Tinnitus | 1.1 | - |
+
+| MedDRA System Organ Class Adverse Event | Incidence N (%) |  |
+| --- | --- | --- |
+|  | CHOP | R-CHOP |
+| Any adverse event | 152 (67) | 185 (79) |
+| Gastrointestinal disorders |  |  |
+| Nausea* | 9 (4) | 13 (6) |
+| Vomiting | 8 (4) | 7 (3) |
+| Abdominal pain | 6 (3) | 4 (2) |
+| Diarrhoea | 5 (2) | 6 (3) |
+| Constipation* | 1 (< 1) | 7 (3) |
+| Stomatitis | 1 (< 1) | 4 (2) |
+| Blood and lymphatic system disorders |  |  |
+| Neutropenia* | 108 (47) | 129 (55) |
+| Leucopenia | 106 (46) | 111 (47) |
+| Thrombocytopenia | 18 (8) | 17 (7) |
+| Febrile neutropenia* | 8 (4) | 14 (6) |
+|  | CHOP | R-CHOP |
+| Any adverse event | 152 (67) | 185 (79) |
+| Haematotoxicity | 12 (5) | 9 (4) |
+| Anaemia | 5 (2) | 6 (3) |
+| General and administration site conditions |  |  |
+| Asthenia | 10 (4) | 5 (2) |
+| Pyrexia | 6 (3) | 7 (3) |
+| Nervous system disorders |  |  |
+| Sensory disturbance | 4 (2) | 7 (3) |
+| Skin and subcutaneous tissue disorders |  |  |
+| Alopecia* | 15 (7) | 30 (13) |
+| Skin disorder | 2 (<1) | 4 (2) |
+| Infections and infestations |  |  |
+| Neutropenic Infection | 18 (8) | 15 (6) |
+| Sepsis | 5 (2) | 3 (1) |
+| Urinary tract infection | 4 (2) | 3 (1) |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Dyspnoea | 6 (3) | 3 (1) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Back pain | 1 (< 1) | 4 (2) |
+| Metabolism and nutrition disorders |  |  |
+| Hyperglycaemia | 5 (2) | 4 (2) |
+| Immune system disorders |  |  |
+| Hypersensitivity* | - | 10 (4) |
+| Cardiac disorders |  |  |
+| Cardiac disorder | 6 (3) | 2 (< 1) |
 
 The proportion of patients with IgG levels below the LLN was about 60 % in the MabThera group throughout the 2 year treatment period, while it decreased in the observation group (36 % after 2 years).
 
-Pooled Phase II Study Phase III Study Population
-Population
-MTX + Rituximab + MTX + Rituximab +
-Placebo MTX Placebo MTX
-N = 189 N = 232 N =209 N = 308
-n (%) n (%) n (%) n (%)
-
-|  | Pooled Phase II Study Population |  | Phase III Study Population |  |
-| --- | --- | --- | --- | --- |
-| Acute Infusion reactions* |  |  |  |  |
-| Hypertension | 10(5%) | 22(9%) | 11(5%) | 21(7%) |
-| Nausea | 14(7%) | 19(8%) | 5(2%) | 22(7%) |
-| Rash | 6 (3%) | 18 (8%) | 9 (4%) | 17 (6%) |
-| Pyrexia | 1(<1%) | 12 (5%) | 7 (3%) | 15 (5%) |
-| Pruritis | 1 (<1%) | 14 (6%) | 4 (2%) | 12 (4%) |
-| Urticaria | 0 | 2 (<1%) | 3 (1%) | 10 (3%) |
-| Rhinitis | 2 (1%) | 6 (3%) | 4 (2%) | 8 (3%) |
-| Throat irritation | 0 | 5 (2%) | 0 | 6 (2%) |
-| Hot Flush | 4 (2%) | 2 (<1%) | 0 | 6 (2%) |
-| Hypotension | 11 (6%) | 10 (4%) | 1 (<1%) | 5 (2%) |
-| Chills | 3 (2%) | 13 (6%) | 6 (3%) | 3 (<1%) |
-| Infections and Infestations |  |  |  |  |
-| Any infection | 56 (30%) | 85 (37%) | 78 (37%) | 127 (41%) |
-| Urinary tract Infections | 8 (4%) | 14 (6%) | 17 (8%) | 15 (5%) |
-| Upper Respiratory Tract | 28 (15%) | 31 (13%) | 26 (12%) | 48 (16%) |
-| Lower Respiratory Tract Infection/Pneumonia | 10 (5%) | 9 (4%) | 5 (2%) | 8 (3%) |
-| General Disorders |  |  |  |  |
-| Asthenia | 0 | 3 (1%) | 1 (<1%) | 6 (2%) |
-| Gastrointestinal Disorders |  |  |  |  |
-| Dyspepsia | 3 (2%) | 9 (4%) | 0 | 7 (2%) |
-| Abdominal Pain Upper | 3 (2%) | 7 (3%) | 1 (<1%) | 4 (1%) |
-| Metabolism and Nutritional Disorders |  |  |  |  |
-| Hypercholesterolemia | 1 (<1%) | 3 (1%) | 0 | 6 (2%) |
-| Musculo skeletal disorders |  |  |  |  |
-| Arthralgia/musculoskeletal pain | 8 (4%) | 18 (7%) | 6 (3%) | 17 (7%) |
-| Muscle Spasms | 0 | 1 (<1%) | 2 (1%) | 7 (2%) |
-| Osteoarthritis | 1 (<1%) | 4 (2%) | 0 | 6 (2%) |
-| Nervous System |  |  |  |  |
-| Paraesthesia | 2 (1%) | 4 (2%) | 1 (<1%) | 8 (3%) |
-| Migraine | 0 | 4 (2%) | 2 (1%) | 5 (2%) |
-
 Cardiac events were observed in 11 % patients in clinical studies with MabThera.
 In placebo controlled studies, serious cardiac events were reported equally in MabThera and placebo treated patients (2 %).
+
+| Infections and infestations |  |
+| --- | --- |
+| Very rare (< 1/10,000): | Serious viral infection1 |
+| Blood and lymphatic system disorders |  |
+| Rare (≥ 1/10,000, < 1/1000): | Late neutropenia2 |
+| Very rare (< 1/10,000): | Pancytopenia Aplastic anaemia Transient increase in serum IgM levels3 |
+| Cardiovascular system |  |
+| Rare (≥ 1/10,000, < 1/1000): | *Severe cardiac events4 |
+| Very rare (< 1/10,000): | *Heart failure4 *Myocardial infarction4 |
+| Ear and labyrinth disorders |  |
+| Very rare (< 1/10,000): | †Hearing loss |
+| Eye disorders |  |
+| Very rare (< 1/10,000): | †Severe vision loss |
+| General disorders and administration site conditions |  |
+| Very rare (< 1/10,000): | *Multi-organ failure |
+| Immune system disorders |  |
+| Uncommon (≥ 1/1000, < 1/100): | Infusion related reactions |
+| Rare (≥ 1/10,000, < 1/1000): | Anaphylaxis |
+| Very rare (< 1/10,000): | *Tumour lysis syndrome *Cytokine release syndrome Serum sickness |
+|  | Hepatitis B reactivation5 |
+| Nervous system disorders |  |
+| Very rare (< 1/10,000): | Cranial neuropathy Peripheral neuropathy †Facial nerve palsy †Loss of other senses |
+| Renal and urinary disorders |  |
+| Very rare (< 1/10,000): | *Renal failure |
+| Respiratory, thoracic and mediastinal disorders |  |
+| Rare (≥ 1/10,000, < 1/1000): | *Bronchospasm |
+| Very rare (< 1/10,000): | *Respiratory failure Pulmonary infiltrates Interstitial pneumonitis |
+| Gastrointestinal disorders |  |
+| Very rare (< 1/10,000): | Gastro-intestinal perforation6 |
+| Skin and subcutaneous tissue disorders |  |
+| Very rare (< 1/10,000): | Severe bullous skin reactions Toxic epidermal necrolysis7 |
+| Vascular disorders |  |
+| Very rare (< 1/10,000): | Vasculitis (predominately cutaneous) Leukocytoclastic vasculitis |

@@ -1,6 +1,6 @@
 # 4.3 Contraindications
 
-Contraindications for use in non-Hodgkin’s Lymphoma
+Contraindications for use in non-Hodgkin’s lymphoma
 
 Hypersensitivity to the active substance or to any of the excipients of this product or to murine proteins.
 

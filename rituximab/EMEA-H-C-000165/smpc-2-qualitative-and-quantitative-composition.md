@@ -9,6 +9,6 @@ The antibody is produced by mammalian (Chinese hamster ovary) cell suspension cu
 
 For a full list of excipients, see section 6.1.
 
-[MabThMabThera 500 mg concentrate for solution for infusion.]
+[MabThera 500 mg concentrate for solution for infusion.]
 
 Single-use vial containing rituximab 500 mg/50 ml.
