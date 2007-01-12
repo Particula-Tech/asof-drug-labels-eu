@@ -34,6 +34,7 @@ Linearity/non-linearity: The pharmacokinetics of emtricitabine are proportional 
 
 Intracellular pharmacokinetics: In a clinical study, the intracellular half-life of emtricitabine-triphosphate in peripheral blood mononuclear cells was 39 hours.
 Intracellular triphosphate levels increased with dose, but reached a plateau at doses of 200 mg or greater.
+
 Adults with renal insufficiency: Pharmacokinetic parameters were determined following administration of a single dose of 200 mg emtricitabine hard capsules to 30 non-HIV infected subjects with varying degrees of renal insufficiency.
 Subjects were grouped according to baseline creatinine clearance
 (> 80 ml/min as normal function; 50-80 ml/min as mild impairment; 30-49 ml/min as moderate impairment; < 30 ml/min as severe impairment; < 15 ml/min as functionally anephric requiring haemodialysis).

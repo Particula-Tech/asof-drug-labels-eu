@@ -14,7 +14,6 @@ Metabolism and nutrition disorders:
 Common: hypertriglyceridaemia, hyperglycaemia
 
 Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues (see 4.4).
-
 Nervous system disorders:
 Very common: headache
 Common: dizziness, asthenia, insomnia, abnormal dreams
@@ -22,6 +21,7 @@ Common: dizziness, asthenia, insomnia, abnormal dreams
 Gastrointestinal disorders:
 Very common: diarrhoea, nausea
 Common: vomiting, dyspepsia, abdominal pain, elevated serum lipase, elevated amylase including elevated pancreatic amylase
+
 Hepato-biliary disorders:
 Common: elevated serum aspartate aminotransferase (AST) and/or elevated serum alanine aminotransferase (ALT), hyperbilirubinaemia
 
@@ -44,3 +44,6 @@ Combination antiretroviral therapy has been associated with metabolic abnormalit
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see 4.4).
 
 In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+
+Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
+The frequency of this is unknown (see section 4.4).

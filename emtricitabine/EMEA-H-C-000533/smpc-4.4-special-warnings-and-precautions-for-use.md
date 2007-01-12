@@ -5,6 +5,7 @@ It must be used in combination with other antiretrovirals.
 Please also refer to the Summaries of Product Characteristics of the other antiretroviral medicinal products used in the combination regimen.
 
 Patients receiving emtricitabine or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with HIV associated diseases.
+
 Patients should be advised that antiretroviral therapies, including emtricitabine,have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be used.
 Patients should also be informed that emtricitabine is not a cure for HIV infection.
@@ -42,6 +43,7 @@ Lipid disorders should be managed as clinically appropriate.
 Liver function: Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 Patients with chronic hepatitis B or C infection treated with combination antiretroviral therapy are at increased risk of experiencing severe, and potentially fatal, hepatic adverse events.
 In case of concomitant antiviral therapy for hepatitis B or C, please also refer to the relevant Summary of Product Characteristics for these medicinal products.
+
 If there is evidence of exacerbations of liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
 Patients co-infected with hepatitis B virus (HBV): Emtricitabine is active in vitro against HBV.
@@ -65,6 +67,9 @@ Immune Reactivation Syndrome: In HIV infected patients with severe immune defici
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
+
+Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 [Emtriva 10 mg/ml oral solution]
 

@@ -3,6 +3,7 @@
 Pharmacotherapeutic group: Antiviral for systemic use: Nucleoside and nucleotide reverse transcriptase inhibitors, ATC Code: J05AF09.
 
 Mechanism of action: Emtricitabine is a synthetic nucleoside analogue of cytidine with activity that is specific to human immunodeficiency virus (HIV-1 and HIV-2) and hepatitis B virus (HBV).
+
 Emtricitabine is phosphorylated by cellular enzymes to form emtricitabine 5'-triphosphate, which competitively inhibits HIV-1 reverse transcriptase, resulting in DNA chain termination.
 Emtricitabine is a weak inhibitor of mammalian DNA polymerase α, β and ε and mitochondrial DNA polymerase γ.
 
