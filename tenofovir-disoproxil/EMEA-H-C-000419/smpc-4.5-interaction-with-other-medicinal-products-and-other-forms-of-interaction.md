@@ -17,7 +17,6 @@ When didanosine gastro-resistant capsules were administered 2 hours prior to or 
 The mean increase in the AUC of didanosine was 44% when the buffered tablets were administered 1 hour prior to tenofovir.
 In both cases the pharmacokinetic parameters for tenofovir administered with a light meal were unchanged.
 The co-administration of tenofovir disoproxil fumarate and didanosine is not recommended (see section 4.4).
-
 When tenofovir disoproxil fumarate was administered with atazanavir, a decrease in concentrations of atazanavir was observed (decrease of 25% and 40% of AUC and Cmin respectively compared to atazanavir 400 mg).
 When ritonavir was added to atazanavir, the negative impact of tenofovir on atazanavir Cmin was significantly reduced, whereas the decrease of AUC was of the same magnitude (decrease of 25% and 26% of AUC and Cmin respectively compared to atazanavir/ritonavir 300/100 mg).
 The co-administration of atazanavir with ritonavir in combination with tenofovir has been substantiated in a clinical study.

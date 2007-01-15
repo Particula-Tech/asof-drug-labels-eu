@@ -54,6 +54,7 @@ It is recommended that the dosing interval for tenofovir disoproxil 245 mg (as f
 
 The pharmacokinetics of tenofovir in non-haemodialysis patients with creatinine clearance
 < 10 ml/min and in patients with ESRD managed by peritoneal or other forms of dialysis have not been studied.
+
 Hepatic impairment
 A single 245 mg dose of tenofovir disoproxil was administered to non-HIV infected patients with varying degrees of hepatic impairment defined according to Child-Pugh-Turcotte (CPT) classification.
 Tenofovir pharmacokinetics were not substantially altered in subjects with hepatic impairment suggesting that no dose adjustment is required in these subjects.

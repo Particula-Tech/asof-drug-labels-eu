@@ -91,6 +91,9 @@ Immune Reactivation Syndrome: In HIV infected patients with severe immune defici
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
+Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+
 Co-administration of tenofovir disoproxil fumarate and didanosine results in a 40-60% increase in systemic exposure to didanosine that may increase the risk for didanosine-related adverse events (see section 4.5).
 Rare cases of pancreatitis and lactic acidosis, sometimes fatal, have been reported.
 

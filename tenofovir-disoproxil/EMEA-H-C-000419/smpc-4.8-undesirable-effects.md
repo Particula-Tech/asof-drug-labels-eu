@@ -1,7 +1,6 @@
 # 4.8 Undesirable effects
 
 Assessment of adverse reactions is based on post-marketing experience and experience in two studies in 653 treatment-experienced patients receiving treatment with tenofovir disoproxil fumarate (n = 443) or placebo (n = 210) in combination with other antiretroviral medicinal products for 24 weeks and also in a double-blind comparative controlled study in which 600 treatment-naïve patients received treatment with tenofovir disoproxil 245 mg (as fumarate) (n = 299) or stavudine (n = 301) in combination with lamivudine and efavirenz for 144 weeks.
-
 Approximately one third of patients can be expected to experience adverse reactions following treatment with tenofovir disoproxil fumarate in combination with other antiretroviral agents.
 These reactions are usually mild to moderate gastrointestinal events.
 
@@ -47,8 +46,10 @@ Approximately 1% of tenofovir disoproxil fumarate treated patients discontinued 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
-
 In a 144-week controlled clinical study in antiretroviral-naïve patients that compared tenofovir disoproxil fumarate with stavudine in combination with lamivudine and efavirenz, patients who received tenofovir disoproxil had a significantly lower incidence of lipodystrophy compared with patients who received stavudine.
 The tenofovir disoproxil fumarate arm also had significantly smaller mean increases in fasting triglycerides and total cholesterol than the comparator arm.
 
 In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+
+Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
+The frequency of this is unknown (see section 4.4).
