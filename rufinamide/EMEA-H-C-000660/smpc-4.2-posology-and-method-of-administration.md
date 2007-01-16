@@ -17,7 +17,6 @@ Patients <30 kg also receiving valproate medication:
 As valproate significantly decreases clearance of Inovelon, a lower maximum dose of Inovelon is recommended for patients <30 kg being co-administered valproate.
 Treatment should be initiated at a daily dose of 200 mg.
 According to clinical response and tolerability, after a minimum of 2 days the dose may be increased by 200 mg/day, to the maximum recommended dose of 400 mg/day.
-
 Use in adults and children four years of age or older of 30 kg or over
 Treatment should be initiated at a daily dose of 400 mg.
 According to clinical response and tolerability, the dose may be increased by 400 mg/day increments, as frequently as every two days, up to a maximum recommended dose as indicated in the table below.
