@@ -1,22 +1,27 @@
 # 3. PHARMACEUTICAL FORM
 
-Solution for injection.
+Solution for injection in a vial.
 
-[Insuman Rapid 40 U/ml solution for injection in a vial]
+Clear, colourless solution of water-like consistency.
+
+[Insuman Rapid 40 IU/ml solution for injection in a vial]
 
 (all sentences already above)
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
-(all sentences already above)
+Solution for injection in a cartridge.
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection]
+[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
 
 Solution for injection in a pre-filled pen.
+OptiSet
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
-Suspension for injection.
+Suspension for injection in a vial.
+
+After re-suspension, milky white suspension.
 
 [Insuman Basal 40 IU/ml suspension for injection in a vial]
 
@@ -24,9 +29,9 @@ Suspension for injection.
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
-(all sentences already above)
+Suspension for injection in a cartridge.
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection]
+[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
 
 Suspension for injection in a pre-filled pen.
 
@@ -42,7 +47,7 @@ Suspension for injection in a pre-filled pen.
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -58,7 +63,7 @@ Suspension for injection in a pre-filled pen.
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -74,7 +79,7 @@ Suspension for injection in a pre-filled pen.
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 

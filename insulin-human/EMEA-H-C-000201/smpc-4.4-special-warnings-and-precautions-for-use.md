@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Patients hypersensitive to Insuman Rapid for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
 
@@ -33,6 +33,7 @@ These include patients:
 Such situations may result in severe hypoglycaemia (and possibly loss of consciousness) prior to the patient's awareness of hypoglycaemia.
 
 If normal or decreased values for glycated haemoglobin are noted, the possibility of recurrent, unrecognised (especially nocturnal) episodes of hypoglycaemia must be considered.
+
 Adherence of the patient to the dosage and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
 Factors increasing the susceptibility to hypoglycaemia require particularly close monitoring and may necessitate dose adjustment.
 These include:
@@ -54,7 +55,7 @@ In many cases, urine tests for ketones are indicated, and often it is necessary 
 The insulin requirement is often increased.
 Patients with type 1 diabetes must continue to consume at least a small amount of carbohydrates on a regular basis, even if they are able to eat only little or no food, or are vomiting etc. and they must never omit insulin entirely.
 
-[Insuman Rapid 40 U/ml solution for injection in a vial]
+[Insuman Rapid 40 IU/ml solution for injection in a vial]
 
 (all sentences already above)
 
@@ -62,11 +63,12 @@ Patients with type 1 diabetes must continue to consume at least a small amount o
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml OptiSet solution for injection]
+[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
 
 Handling of the pen
+
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully.
-OptiSet has to be used as recommended in these Instructions for Use (see 6.6).
+OptiSet has to be used as recommended in these Instructions for Use (see section 6.6).
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
@@ -82,7 +84,7 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml OptiSet suspension for injection]
+[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -100,7 +102,7 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -118,9 +120,9 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
 
-Handling of the pen-
+(all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
@@ -136,7 +138,7 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml OptiSet suspension for injection]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -153,7 +155,7 @@ Insulin pump faults
 Hyperglycaemia, ketoacidosis and coma may develop within hours if the pump catheter is obstructed completely.
 Whenever the patient notices a rapid increase in blood glucose which does not respond to a bolus dose, a check must be made for possible catheter obstruction.
 
-In the event of a pump malfunction, patients must always have injection devices (syringe or pen) and insulin available for subcutaneous injection.
+In the event of a pump malfunction, patients must always have injection devices (injection syringe or pen) and insulin available for subcutaneous injection.
 For details on safety precautions in the use of insulin pumps, refer to the operator’s manual.
 
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
