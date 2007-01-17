@@ -11,6 +11,7 @@ Titanium Dioxide (E171)
 Sodium Laurilsulphate
 Silica, colloidal anhydrous
 Purified water
+
 Printing Ink :
 Shellac
 Black Iron Oxide (E172)

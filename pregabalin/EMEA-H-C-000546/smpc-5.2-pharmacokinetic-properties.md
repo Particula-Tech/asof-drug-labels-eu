@@ -1,7 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
 Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, patients with epilepsy receiving anti-epileptic drugs and patients with chronic pain.
-
 Absorption:
 
 Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration.
@@ -49,11 +48,11 @@ Renal impairment
 Pregabalin clearance is directly proportional to creatinine clearance.
 In addition, pregabalin is effectively removed from plasma by haemodialysis (following a 4 hour haemodialysis treatment plasma pregabalin concentrations are reduced by approximately 50%).
 Because renal elimination is the major elimination pathway, dosage reduction in patients with renal impairment and dosage supplementation following haemodialysis is necessary (see section 4.2 Table 1).
-
 Hepatic impairment
 
 No specific pharmacokinetic studies were carried out in patients with impaired liver function.
 Since pregabalin does not undergo significant metabolism and is excreted predominantly as unchanged drug in the urine, impaired liver function would not be expected to significantly alter pregabalin plasma concentrations.
+
 Elderly (over 65 years of age)
 
 Pregabalin clearance tends to decrease with increasing age.

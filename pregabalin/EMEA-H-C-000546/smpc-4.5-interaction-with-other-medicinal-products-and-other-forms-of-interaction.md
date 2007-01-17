@@ -4,9 +4,7 @@ Since pregabalin is predominantly excreted unchanged in the urine, undergoes neg
 
 Accordingly, in in vivo studies no clinically relevant pharmacokinetic interactions were observed between pregabalin and phenytoin, carbamazepine, valproic acid, lamotrigine, gabapentin, lorazepam, oxycodone or ethanol.
 Population pharmacokinetic analysis indicated that oral antidiabetics, diuretics, insulin, phenobarbital, tiagabine and topiramate had no clinically significant effect on pregabalin clearance.
-
 Co-administration of pregabalin with the oral contraceptives norethisterone and/or ethinyl oestradiol does not influence the steady-state pharmacokinetics of either substance.
-
 Multiple oral doses of pregabalin co-administered with oxycodone, lorazepam, or ethanol did not result in clinically important effects on respiration.
 Pregabalin appears to be additive in the impairment of cognitive and gross motor function caused by oxycodone.
 Pregabalin may potentiate the effects of ethanol and lorazepam.

@@ -13,7 +13,13 @@ The adverse reactions listed may also be associated with the underlying disease 
 
 In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse events in general, CNS adverse events and especially somnolence was increased (See 4.4).
 
+Additional reactions reported from post-marketing experience are included as Unknown frequency in italics in the list below.
+
 Body System Adverse drug reactions
+
+Immune system disorders
+
+Unknown frequency Hypersensitivity, allergic reaction
 
 Blood and lymphatic system disorders
 
@@ -32,7 +38,7 @@ Uncommon Hallucination, panic attack, restlessness, agitation, depression,
 
 depressed mood, mood swings, depersonalisation, insomnia exacerbated, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy
 
-Rare Hypersensitivity, disinhibition, elevated mood, headache
+Rare Disinhibition, elevated mood
 
 Nervous system disorders
 
@@ -46,6 +52,7 @@ Uncommon Syncope, stupor, myoclonus, psychomotor hyperactivity, visual
 field defect, ageusia, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, speech disorder, hyporeflexia, hypoaesthesia, amnesia, hyperaesthesia, burning sensation
 
 Rare Hypokinesia, parosmia, dysgraphia
+Unknown frequency Headache
 
 Eye disorders
 
@@ -67,11 +74,14 @@ Cardiac disorders
 Uncommon Tachycardia
 Rare Atrioventricular block first degree, sinus tachycardia, sinus
 
-bradycardia, sinus arrhythmia,
+bradycardia, sinus arrhythmia
+
+Unknown frequency Congestive heart failure
+
 Vascular disorders
 
 Uncommon Flushing, hot flushes
-Rare Hypotension, hypertension, peripheral coldness,
+Rare Hypotension, hypertension, peripheral coldness
 
 Respiratory, thoracic and mediastinal disorders
 
@@ -86,12 +96,14 @@ Uncommon Abdominal distension, gastrooesophageal reflux disease, salivary
 
 hypersecretion, hypoaesthesia oral
 
-Rare Ascites, pancreatitis, dysphagia, nausea
+Rare Ascites, pancreatitis, dysphagia
+Unknown frequency Swollen tongue, diarrhoea, nausea
 
 Skin and subcutaneous tissue disorders
 
 Uncommon Rash papular, sweating
 Rare Urticaria, cold sweat
+Unknown frequency Pruritus
 
 Musculoskeletal and connective tissue disorders
 
@@ -117,9 +129,9 @@ General disorders and administration site conditions
 
 Common Gait abnormal, feeling drunk, fatigue, oedema peripheral, oedema,
 Uncommon Fall, chest tightness, asthenia, thirst
-Rare Anasarca, face oedema, swollen tongue, pyrexia, rigors, pain
+Rare Anasarca, pyrexia, rigors, pain exacerbated,
+Unknown frequency Face oedema
 
-exacerbated,
 Investigations
 
 Common Weight increased
@@ -139,7 +151,7 @@ Concerning discontinuation of long-term treatment of pregabalin there are no dat
 
 [LYRICA 50 mg hard capsules.]
 
-(all sentences already above)
+Rare Anasarca,pyrexia, rigors, pain exacerbated,
 
 [LYRICA 75 mg hard capsules]
 

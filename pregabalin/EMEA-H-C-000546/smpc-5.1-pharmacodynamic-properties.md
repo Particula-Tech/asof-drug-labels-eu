@@ -3,10 +3,10 @@
 Pharmacotherapeutic group: Antiepileptics, ATC code: N03AX16
 
 The active substance, pregabalin, is a gamma-aminobutyric acid analogue ((S)-3-(aminomethyl)-5-methylhexanoic acid).
-
 Mechanism of action
 
 Pregabalin binds to an auxiliary subunit (α2-δ protein) of voltage-gated calcium channels in the central nervous system, potently displacing [3H]-gabapentin.
+
 Clinical experience
 
 Neuropathic pain
