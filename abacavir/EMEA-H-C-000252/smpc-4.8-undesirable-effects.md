@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
 Hypersensitivity (see also section 4.4):
+
 In clinical studies, approximately 5% of subjects receiving abacavir developed a hypersensitivity reaction.
 In clinical studies with abacavir 600 mg once daily the reported rate of hypersensitivity remained within the range recorded for abacavir 300 mg twice daily.
 
@@ -41,7 +42,6 @@ Therefore, the diagnosis of hypersensitivity reaction should be carefully consid
 
 Symptoms usually appeared within the first six weeks (median time to onset 11 days) of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 Close medical supervision is necessary during the first two months, with consultations every two weeks.
-
 It is likely that intermittent therapy may increase the risk of developing sensitisation and therefore occurrence of clinically significant hypersensitivity reactions.
 Consequently, patients should be advised of the importance of taking Ziagen regularly.
 
@@ -85,6 +85,7 @@ Very rare: erythema multiforme, Stevens-Johnson syndrome and toxic epidermal nec
 
 General disorders and administration site conditions
 Common: fever, lethargy, fatigue
+
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see section 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
@@ -92,6 +93,9 @@ Combination antiretroviral therapy has been associated with redistribution of bo
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART) an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+
+Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
+The frequency of this is unknown (see section 4.4).
 
 Laboratory abnormalities
 In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.

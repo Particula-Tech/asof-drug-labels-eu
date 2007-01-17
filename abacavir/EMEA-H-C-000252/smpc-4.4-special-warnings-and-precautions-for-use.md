@@ -112,6 +112,7 @@ Pancreatitis: pancreatitis has been reported, but a causal relationship to Ziage
 Triple nucleoside therapy: in patients with high viral load (>100,000 copies/ml) the choice of a triple combination with abacavir, lamivudine and zidovudine needs special consideration (see section 5.1).
 
 There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when abacavir was combined with tenofovir disoproxil fumarate and lamivudine as a once daily regimen.
+
 Once daily administration (abacavir 600 mg): the benefit of abacavir as a once daily regimen is mainly based on a study performed in combination with efavirenz and lamivudine, in antiretroviral-naïve adult patients (see section 5.1).
 
 Liver disease: the safety and efficacy of Ziagen has not been established in patients with significant underlying liver disorders.
@@ -138,8 +139,12 @@ Typically, such reactions have been observed within the first few weeks or month
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
+Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+
 Opportunistic infections: patients receiving Ziagen or any other antiretroviral therapy may still develop opportunistic infections and other complications of HIV infection.
 Therefore patients should remain under close clinical observation by physicians experienced in the treatment of these associated HIV diseases.
+
 Transmission: patients should be advised that current antiretroviral therapy, including Ziagen, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be taken.
 

@@ -31,6 +31,7 @@ The metabolites and unchanged abacavir account for about 83% of the administered
 The remainder is eliminated in the faeces.
 
 Intracellular pharmacokinetics
+
 In a study of 20 HIV-infected patients receiving abacavir 300 mg twice daily, with only one 300 mg dose taken prior to the 24 hour sampling period, the geometric mean terminal carbovir-TP intracellular half-life at steady-state was 20.6 hours, compared to the geometric mean abacavir plasma half-life in this study of 2.6 hours.
 Similar intracellular kinetics are expected from abacavir 600 mg once daily.
 These data support the use of abacavir 600 mg once daily for the treatment of HIV infected patients.

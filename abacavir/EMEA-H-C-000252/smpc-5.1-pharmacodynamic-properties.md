@@ -18,6 +18,7 @@ Reduced susceptibility to abacavir has been demonstrated in clinical isolates of
 Clinical isolates with three or more mutations associated with NRTIs are unlikely to be susceptible to abacavir.
 
 Clinical Experience
+
 The demonstration of the benefit of Ziagen is mainly based on results of studies performed in adult treatment-naïve patients using a regimen of Ziagen 300 mg twice daily in combination with zidovudine and lamivudine.
 
 Twice daily (300 mg) administration:
@@ -49,9 +50,7 @@ In this study, addition of ABC to ZDV/3TC/EFV did not significantly improve effi
 | --- | --- | --- | --- | --- |
 | Virologic failure (HIV RNA >200 copies/ml) | 32 weeks | 26% | 16% | 13% |
 |  | 144 weeks | - | 26% | 25% |
-| Virologic success (48 weeks HIV RNA < 50 |  | 63% | 80% | 86% |
-
-copies/ml)
+| Virologic success (48 weeks HIV RNA < 50 copies/ml) |  | 63% | 80% | 86% |
 
 - Therapy naïve children
 
@@ -100,8 +99,4 @@ However, no effects on neuropsychological performance were seen when it was admi
 
 [Ziagen 20 mg/ml oral solution]
 
-|  |  | ZDV/3TC/ABC | ZDV/3TC/EFV | ZDV/3TC/ABC/EFV |
-| --- | --- | --- | --- | --- |
-| Virologic failure (HIV RNA >200 copies/ml) | 32 weeks | 26% | 16% | 13% |
-|  | 144 weeks | - | 26% | 25% |
-| Virologic success (48 weeks HIV RNA < 50 copies/ml) |  | 63% | 80% | 86% |
+Pharmacotherapeutic group: nucleoside reverse transcriptase inhibitors, ATC Code: J05A F06 Abacavir is a NRTI.
