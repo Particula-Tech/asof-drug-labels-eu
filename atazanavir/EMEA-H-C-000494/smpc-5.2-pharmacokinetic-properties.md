@@ -9,6 +9,7 @@ Therefore, HIV-infected patients can use the two formulations inter-changeably.
 Absorption: the pharmacokinetics of atazanavir boosted with ritonavir is currently supported by limited data in patients.
 In a pharmacokinetic study in HIV-positive patients (n= 10), multiple dosing of REYATAZ 300 mg once daily with ritonavir 100 mg once daily with a light meal for 2 weeks produced a mean steady-state Cmax (SD) of 5,233 ng/ml (3,033), occurring approximately 3.0 hours (Tmax) after administration, and a mean steady-state trough concentration (SD) of 862 ng/ml (838).
 The mean steady-state plasma AUC (SD) of atazanavir was 53,761 ng hr/ml (35,294).
+
 Food effect: administration of atazanavir with either a light meal or a high fat meal decreased the coefficient of variation of AUC and Cmax approximately one-half compared to the fasting state.
 A similar decrease in the coefficient of variation was noted when REYATAZ 300 mg once daily with ritonavir 100 mg once daily was administered with a light meal in healthy subjects.
 To enhance bioavailability and minimise variability, REYATAZ is to be taken with food.
@@ -39,7 +40,6 @@ Concentrations of atazanavir with or without ritonavir are expected to be increa
 
 Age/Gender: a study of the pharmacokinetics of atazanavir was performed in 59 healthy male and female subjects (29 young, 30 elderly).
 There were no clinically important pharmacokinetic differences based on age or gender.
-
 Race: a population pharmacokinetic analysis of samples from Phase II clinical trials indicated no effect of race on the pharmacokinetics of atazanavir.
 
 Infants, toddlers, children, and adolescents: the pharmacokinetics of atazanavir is being studied after multiple doses in paediatric patients, stratified by age.

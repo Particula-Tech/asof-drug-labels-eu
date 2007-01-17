@@ -73,12 +73,15 @@ administration site conditions: uncommon: chest pain, malaise, fever
 
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
 
+Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
+The frequency of this is unknown (see section 4.4).
 Laboratory abnormalities
 The most frequently reported laboratory abnormality in patients receiving regimens containing REYATAZ and one or more NRTIs was elevated total bilirubin (84% Grade 1, 2, 3, or 4).
 Grade 3 or 4 elevation of total bilirubin was noted in 33% (28% Grade 3, 5% Grade 4, reported predominantly as elevated indirect [unconjugated] bilirubin).
 Among patients treated with REYATAZ 300 mg once daily with 100 mg ritonavir once daily for a median duration of 95 weeks, 53% had Grade 3-4 total bilirubin elevations (see section 4.4).
 
 Other marked clinical laboratory abnormalities (Grade 3 or 4) reported in ≥ 2% of patients receiving regimens containing REYATAZ and one or more NRTIs included: elevated amylase (12%), elevated creatine kinase (7%), elevated alanine aminotransferase/serum glutamic-pyruvic transaminase (ALT/SGPT) (5%), low neutrophils (5%), elevated aspartate aminotransferase/serum glutamic-oxaloacetic transaminase (AST/SGOT) (3%), and elevated lipase (3%).
+
 One percent of patients treated with REYATAZ experienced concurrent Grade 3-4 ALT/AST and Grade 3-4 total bilirubin elevations.
 
 Patients co-infected with hepatitis B and/or hepatitis C virus

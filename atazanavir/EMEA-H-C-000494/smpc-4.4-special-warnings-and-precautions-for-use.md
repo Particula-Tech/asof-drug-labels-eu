@@ -61,8 +61,13 @@ Typically, such reactions have been observed within the first few weeks or month
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
+Osteonecrosis
+Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+
 Interactions with other medicinal products
 Co-administration of REYATAZ with simvastatin or lovastatin is not recommended (see section 4.5).
+
 Atazanavir is metabolised principally by CYP3A4.
 Co-administration of REYATAZ with ritonavir and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
 
