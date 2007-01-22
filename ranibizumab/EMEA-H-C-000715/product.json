@@ -1,0 +1,16 @@
+{
+  "active_substance": "ranibizumab",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000715",
+  "eu_number": "EU/1/06/374",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2007-01-22",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lucentis",
+  "molecule": "ranibizumab",
+  "molecule_name": "RANIBIZUMAB",
+  "name": "Lucentis",
+  "register_name": "Lucentis",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h374.htm"
+}
