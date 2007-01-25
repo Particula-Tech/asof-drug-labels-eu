@@ -20,7 +20,6 @@ Common: Cough, nasal symptoms
 Gastrointestinal disorders
 Common: Nausea, vomiting, abdominal pain or cramps, diarrhoea
 Rare: Pancreatitis. elevations in serum amylase.
-
 Hepatobiliary disorders
 Uncommon: Transient elevations in liver enzymes (AST, ALT).
 Rare: Hepatitis
@@ -42,6 +41,9 @@ Combination antiretroviral therapy has been associated with redistribution of bo
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+
+Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term combined antiretroviral exposure (cART).
+The frequency of which is unknown (see section 4.4).
 
 [Epivir 10 mg/ml oral solution]
 

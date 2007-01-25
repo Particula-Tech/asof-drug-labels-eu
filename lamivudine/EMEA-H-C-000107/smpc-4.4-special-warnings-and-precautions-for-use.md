@@ -60,6 +60,9 @@ If Epivir is discontinued in patients co-infected with hepatitis B virus, period
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered (see section 4.8).
 
+Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+
 [Epivir 10 mg/ml oral solution]
 
 Renal impairment: In patients with moderate –to- severe renal impairment, the terminal plasma half-life of lamivudine is increased due to decreased clearance, therefore the dose should be adjusted (see section 4.2).

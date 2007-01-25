@@ -5,7 +5,6 @@ Following oral administration, the mean time (tmax) to maximal serum concentrati
 Based on data derived from a study in healthy volunteers, at a therapeutic dose of 150mg twice daily, mean (CV) steady-state Cmax and Cmin of lamivudine in plasma are 1.2 µg/ml (24%) and 0.09 µg/ml (27%), respectively.
 The mean (CV) AUC over a dosing interval of 12 hours is 4.7 µg.h/ml (18%).
 At a therapeutic dose of 300mg once daily, the mean (CV) steady-state Cmax, Cmin and 24h AUC are 2.0 µg/ml (26%), 0.04 µg/ml (34%) and 8.9 µg.h/ml (21%), respectively.
-
 The 150 mg tablet is bioequivalent and dose proportional to the 300 mg tablet with respect to AUC∞, Cmax, and tmax.
 
 Co-administration of lamivudine with food results in a delay of tmax and a lower C max (decreased by 47 %).
@@ -13,6 +12,7 @@ However, the extent (based on the AUC) of lamivudine absorbed is not influenced.
 
 Co-administration of zidovudine results in a 13 % increase in zidovudine exposure and a 28 % increase in peak plasma levels.
 This is not considered to be of significance to patient safety and therefore no dosage adjustments are necessary.
+
 Distribution: From intravenous studies, the mean volume of distribution is 1.3 l/kg.
 The observed half-life of elimination is 5 to 7 hours.
 The mean systemic clearance of lamivudine is approximately 0.32 l/h/kg, with predominantly renal clearance (> 70 %) via the organic cationic transport system.
@@ -45,7 +45,6 @@ There are limited pharmacokinetic data for patients less than three months of ag
 In neonates one week of age, lamivudine oral clearance was reduced when compared to paediatric patients and is likely to be due to immature renal function and variable absorption.
 Therefore to achieve similar adult and paediatric exposure, the recommended dose for neonates is 4 mg/kg/day.
 Glomerular filtration estimates suggests that to achieve similar adult and paediatric exposure, the recommended dose for children aged six weeks and older could be 8 mg/kg/day.
-
 Pharmacokinetics in pregnancy: Following oral administration, lamivudine pharmacokinetics in late-pregnancy were similar to non-pregnant women.
 
 [Epivir 10 mg/ml oral solution]
