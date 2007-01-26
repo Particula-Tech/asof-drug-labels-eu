@@ -6,9 +6,10 @@ Deferiprone is most commonly given as 25 mg/kg body weight, orally, three times 
 Dosage per kilogram body weight should be calculated to the nearest half tablet.
 See Dosage Table below.
 
-Doses above 100 mg/kg/day are not recommended because of the potentially increased risk of adverse reactions.
+Doses above 100 mg/kg/day are not recommended because of the potentially increased risk of adverse reactions; chronic administration of more than 2.5 times the maximum recommended dose has been associated with neurological disorders (see sections 4.4, 4.8, and 4.9).
 
 There are limited data available on the use of deferiprone in children between 6 and 10 years of age, and no data on deferiprone use in children under 6 years of age.
+
 Due to the serious nature of agranulocytosis that can occur with the use of deferiprone, special monitoring is required for all patients.
 Caution must be used when the patient’s absolute neutrophil count (ANC) is low, as well as when treating patients with renal insufficiency or hepatic dysfunction (see section 4.4).
 

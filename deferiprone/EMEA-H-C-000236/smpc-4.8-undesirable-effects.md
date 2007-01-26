@@ -18,6 +18,9 @@ Some patients experienced progression of fibrosis associated with an increase in
 Low plasma zinc levels have been associated with deferiprone, in a minority of patients.
 The levels normalised with oral zinc supplementation.
 
+Neurological disorders (such as cerebellar symptoms, diplopia, lateral nystagmus, psychomotor slowdown, hand movements and axial hypotonia) have been observed in children who had been voluntarily prescribed more than 2.5 times the maximum recommended dose of 100 mg/kg/day for several years.
+The neurological disorders progressively regressed after deferiprone discontinuation (see sections 4.2, 4.4 and 4.9).
+
 | Adverse Reaction | Rate of Event (Per 100 Patient Years) | Percentage of Patients Affected |
 | --- | --- | --- |
 | Reddish/Brown Urine | 29.2 | 53.8 |

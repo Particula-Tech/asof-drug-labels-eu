@@ -1,6 +1,6 @@
 # 4.6 Pregnancy and lactation
 
-Pregnancy: there is no adequate information on the use of deferiprone in pregnant women.
+Pregnancy: there are no adequate data from the use of deferiprone in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 The potential risk for humans is unknown.
 

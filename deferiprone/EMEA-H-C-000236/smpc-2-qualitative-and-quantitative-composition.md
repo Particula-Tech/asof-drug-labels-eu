@@ -1,5 +1,5 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each tablet contains 500 mg deferiprone as active substance.
+Each tablet contains 500 mg deferiprone.
 
-For excipients, see 6.1.
+For a full list of excipients, see section 6.1.

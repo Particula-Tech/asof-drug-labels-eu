@@ -1,8 +1,8 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Neutropenia/Agranulocytosis
 Deferiprone has been shown to cause neutropenia, including agranulocytosis.
-It is recommended that a patient’s neutrophil count be monitored every week.
+The patient’s neutrophil count should be monitored every week.
 
 In clinical trials, weekly monitoring of the neutrophil count has been effective in identifying cases of neutropenia and agranulocytosis.
 Neutropenia and agranulocytosis resolved once therapy was withdrawn.
@@ -21,7 +21,6 @@ The patient should be advised to limit contact with other individuals in order t
 Obtain a complete blood cell (CBC) count, with a white blood cell (WBC) count, corrected for the presence of nucleated red blood cells, a neutrophil count, and a platelet count immediately upon diagnosing the event and then repeat daily.
 It is recommended that following recovery from neutropenia, weekly CBC, WBC, neutrophil and platelet counts continue to be obtained for three consecutive weeks, to ensure that the patient recovers fully.
 Should any evidence of infection develop concurrently with the neutropenia, the appropriate cultures and diagnostic procedures should be performed and an appropriate therapeutic regimen instituted.
-
 In the event of severe neutropenia or agranulocytosis:
 Follow the guidelines above and administer appropriate therapy such as granulocyte colony stimulating factor, beginning the same day that the event is identified; administer daily until the condition resolves.
 Provide protective isolation and if clinically indicated, admit patient to the hospital.
@@ -36,7 +35,7 @@ No animal studies to evaluate the potential effects of deferiprone on fertility 
 
 Serum ferritin concentration/plasma Zn2+ concentration
 It is recommended that serum ferritin concentrations, or other indicators of body iron load, be monitored every two to three months to assess the long-term effectiveness of the chelation regimen in controlling the body iron load.
-Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 µg/l.
+Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 μg/l.
 
 Monitoring of plasma Zn2+ concentration, and supplementation in case of a deficiency, is recommended.
 
@@ -56,3 +55,7 @@ In these patients careful monitoring of liver histology is recommended.
 
 Discoloration of urine
 Patients should be informed that their urine may show a reddish/brown discoloration due to the excretion of the iron-deferiprone complex.
+
+Chronic overdose and neurological disorders
+Neurological disorders have been observed in children treated with 2.5 to 3 times the recommended dose for several years.
+Prescribers are reminded that the use of doses above 100 mg/kg/day are not recommended (see sections 4.2, 4.8 and 4.9).
