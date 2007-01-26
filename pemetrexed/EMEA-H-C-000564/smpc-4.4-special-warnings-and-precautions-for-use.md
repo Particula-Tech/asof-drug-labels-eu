@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Pemetrexed can suppress bone marrow function as manifested by neutropenia, thrombocytopenia and anaemia (or pancytopenia) (see section 4.8).
 Myelosuppression is usually the dose-limiting toxicity.
@@ -17,6 +17,9 @@ Therefore, the use of pemetrexed in patients with creatinine clearance of < 45 m
 Patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 ml/min) should avoid taking non-steroidal anti-inflammatory drugs (NSAIDs) as ibuprofen, and aspirin (> 1.3 g daily) for 2 days before, on the day of, and 2 days following pemetrexed administration (see section 4.5).
 All patients eligible for pemetrexed therapy should avoid taking NSAIDs with long elimination half-lives for at least 5 days prior to, on the day, and at least 2 days following pemetrexed administration (see section 4.5).
 
+Serious renal events, including acute renal failure, have been reported with pemetrexed alone or in association with other chemotherapeutic agents.
+Many of the patients in whom these occurred had underlying risk factors for the development of renal events including dehydration or pre-existing hypertension or diabetes.
+
 The effect of third space fluid, such as pleural effusion or ascites, on pemetrexed is unknown.
 In patients with clinically significant third space fluid, consideration should be given to draining the effusion prior to pemetrexed administration.
 
@@ -27,7 +30,7 @@ Serious cardiovascular events, including myocardial infarction and cerebrovascul
 Most of the patients in whom these events have been observed had pre-existing cardiovascular risk factors (see section 4.8).
 
 Immunodepressed status is common in cancer patients.
-As a result, concomitant use of live attenuated vaccines (except yellow fever) is not recommended (see section 4.5).
+As a result, concomitant use of live attenuated vaccines (except yellow fever which is contraindicated) is not recommended (see section 4.3 and 4.5).
 
 Pemetrexed can have genetically damaging effects.
 Sexually mature males are advised not to father a child during the treatment and up to 6 months thereafter.

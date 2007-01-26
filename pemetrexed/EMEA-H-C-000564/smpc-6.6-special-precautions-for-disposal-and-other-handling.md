@@ -1,4 +1,4 @@
-# 6.6 Instructions for use, handling and disposal
+# 6.6 Special precautions for disposal and other handling
 
 1.
 Use aseptic technique during the reconstitution and further dilution of pemetrexed for intravenous infusion administration.

@@ -38,7 +38,7 @@ Upon recovery patients should be retreated using the guidelines in Tables 1, 2 a
 | Table 1 - Dose Modification Table for ALIMTA (as single agent or in combination) AND Cisplatin –Haematologic Toxicities |  |
 | --- | --- |
 | Nadir ANC < 500 /mm3 and nadir platelets ≥ 50,000 /mm3 | 75 % of previous dose (both ALIMTA and cisplatin). |
-| Nadir platelets ≤ 50,000 /mm3 regardless of nadir ANC | 50 % of previous dose (both ALIMTA and cisplatin ). |
+| Nadir platelets <50,000 /mm3 regardless of nadir ANC | 50 % of previous dose (both ALIMTA and cisplatin ). |
 
 If patients develop non-haematologic toxicities ≥ Grade 3 (excluding neurotoxicity), ALIMTA should be withheld until resolution to less than or equal to the patient’s pre-therapy value.
 Treatment should be resumed according to the guidelines in Table 2.
@@ -68,7 +68,7 @@ Treatment with ALIMTA should be discontinued if a patient experiences any haemat
 Elderly: In clinical studies, there has been no indication that patients 65 years of age or older are at increased risk of adverse events compared to patients younger than 65 years old.
 No dose reductions other than those recommended for all patients are necessary.
 
-Children and adolescents: ALIMTA is not recommended for use in patients under 18 years of age, as safety and efficacy have not been established in this group of patients.
+Children and adolescents: ALIMTA is not recommended for use in children below 18 years of age due to insufficient data on safety and efficacy.
 
 Patients with Renal Impairment (Standard Cockcroft and Gault formula or Glomerular Filtration Rate measured Tc99m-DPTA serum clearance method): pemetrexed is primarily eliminated unchanged by renal excretion.
 In clinical studies, patients with creatinine clearance of ≥ 45 ml/min required no dose adjustments other than those recommended for all patients.
