@@ -3,13 +3,16 @@
 Fluid retention and cardiac failure:
 
 Pioglitazone can cause fluid retention, which may exacerbate or precipitate heart failure.
-Treatment with thiazolidinediones, such as pioglitazone, in patients who are at risk for development of heart failure, should be initiated at the lowest available dose and the dose increased gradually.
+When treating patients who have at least one risk factor for development of congestive heart failure (e.g. prior myocardial infarction or symptomatic coronary artery disease), physicians should start with the lowest available dose and increase the dose gradually.
 Patients should be observed for signs and symptoms of heart failure, weight gain or oedema particularly those with reduced cardiac reserve.
+There have been cases of cardiac failure reported from the market when pioglitazone was used in combination with insulinor in patients with a history of cardiac failure; patients should be observed for signs and symptoms of heart failure, weight gain and oedema when pioglitazone is used in combination with insulin.
+Since insulin and pioglitazone are associated with fluid retention, concomitant administration may increase the risk of oedema.
 Pioglitazone should be discontinued if any deterioration in cardiac status occurs.
-There have been cases of cardiac failure reported from the market when pioglitazone was used in combination with insulin.
-Therefore pioglitazone is contraindicated in combination with insulin.
-There also have been cases of cardiac failure reported from the market when pioglitazone was used in patients with a history of cardiac failure.
-Since NSAIDs and pioglitazone are associated with fluid retention, concomitant administration may increase the risk of oedema.
+
+A cardiovascular outcome study of pioglitazone has been performed in patients under 75 years with type 2 diabetes mellitus and pre-existing major macrovascular disease.
+Pioglitazone or placebo was added to existing antidiabetic and cardiovascular therapy for up to 3.5 years.
+This study showed an increase in reports of heart failure, however this did not lead to an increase in mortality in this study.
+Caution should be exercised in patients over 75 years because of the limited experience in this patient group.
 
 Monitoring of liver function:
 
@@ -17,6 +20,7 @@ There have been rare reports of hepatocellular dysfunction during post-marketing
 It is recommended, therefore, that patients treated with pioglitazone undergo periodic monitoring of liver enzymes.
 Liver enzymes should be checked prior to the initiation of therapy with pioglitazone in all patients.
 Therapy with pioglitazone should not be initiated in patients with increased baseline liver enzyme levels (ALT > 2.5 X upper limit of normal) or with any other evidence of liver disease.
+
 Following initiation of therapy with pioglitazone, it is recommended that liver enzymes be monitored periodically based on clinical judgement.
 If ALT levels are increased to 3 X upper limit of normal during pioglitazone therapy, liver enzyme levels should be reassessed as soon as possible.
 If ALT levels remain > 3 X the upper limit of normal, therapy should be discontinued.
@@ -26,18 +30,19 @@ If jaundice is observed, drug therapy should be discontinued.
 
 Weight gain:
 
-In clinical trials with pioglitazone there was evidence of weight gain, therefore weight should be closely monitored.
+In clinical trials with pioglitazone there was evidence of dose related weight gain, which may be due to fat accumulation and in some cases associated with fluid retention.
+In some cases weight increase may be a symptom of cardiac failure, therefore weight should be closely monitored.
 Part of the treatment of diabetes is dietary control.
 Patients should be advised to adhere strictly to a calorie-controlled diet.
 
 Haematology:
 
 There was a small reduction in mean haemoglobin (4 % relative reduction) and haematocrit (4.1 % relative reduction) during therapy with pioglitazone, consistent with haemodilution.
-Similar changes were seen in metformin (haemoglobin 3 - 4 % and haematocrit 3.6 – 4.1 % relative reductions) and to a lesser extent sulphonylurea (haemoglobin 1 – 2 % and haematocrit 1 – 3.2 % relative reductions) treated patients in comparative controlled trials with pioglitazone.
+Similar changes were seen in metformin (haemoglobin 3 - 4 % and haematocrit 3.6 – 4.1 % relative reductions) and to a lesser extent sulphonylurea and insulin (haemoglobin 1 – 2 % and haematocrit 1 – 3.2 % relative reductions) treated patients in comparative controlled trials with pioglitazone.
 
 Hypoglycaemia
 
-Patients receiving pioglitazone in dual or triple oral therapy with a sulphonylurea may be at risk for dose-related hypoglycaemia, and a reduction in the dose of the sulphonylurea may be necessary.
+As a consequence of increased insulin sensitivity, patients receiving pioglitazone in dual or triple oral therapy with a sulphonylurea or in dual therapy with insulin may be at risk for dose-related hypoglycaemia, and a reduction in the dose of the sulphonylurea or insulin may be necessary.
 
 Eye disorders:
 
@@ -54,5 +59,4 @@ Patients should be aware of the risk of pregnancy and if a patient wishes to bec
 Pioglitazone should be used with caution during concomitant administration of cytochrome P450 2C8 inhibitors (e.g. gemfibrozil) or inducers (e.g. rifampicin).
 Glycaemic control should be monitored closely.
 Pioglitazone dose adjustment within the recommended posology or changes in diabetic treatment should be considered (see section 4.5).
-
 Actos tablets contain lactose monohydrate and therefore should not be administered to patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption.

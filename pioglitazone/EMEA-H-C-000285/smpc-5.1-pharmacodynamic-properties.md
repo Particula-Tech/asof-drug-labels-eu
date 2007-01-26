@@ -14,6 +14,9 @@ At two years, glycaemic control (defined as HbA1c < 8.0 %) was sustained in 69 %
 In a two-year study of combination therapy comparing pioglitazone with gliclazide when added to metformin, glycaemic control measured as mean change from baseline in HbA1c was similar between treatment groups after one year.
 The rate of deterioration of HbA1c during the second year was less with pioglitazone than with gliclazide.
 
+In a placebo controlled trial, patients with inadequate glycaemic control despite a three month insulin optimisation period were randomised to pioglitazone or placebo for 12 months.
+Patients receiving pioglitazone had a mean reduction in HbA1c of 0.45 % compared with those continuing on insulin alone, and a reduction of insulin dose in the pioglitazone treated group.
+
 HOMA analysis shows that pioglitazone improves beta cell function as well as increasing insulin sensitivity.
 Two-year clinical studies have shown maintenance of this effect.
 
@@ -23,18 +26,21 @@ The effect of pioglitazone (45 mg monotherapy vs. placebo) was studied in a smal
 Pioglitazone was associated with significant weight gain.
 Visceral fat was significantly decreased, while there was an increase in extra-abdominal fat mass.
 Similar changes in body fat distribution on pioglitazone have been accompanied by an improvement in insulin sensitivity.
-In most clinical trials, reduced total plasma triglycerides and free fatty acids, and increased HDL-cholesterol levels were observed as compared to placebo, with no statistically significant increases in LDL-cholesterol levels.
+In most clinical trials, reduced total plasma triglycerides and free fatty acids, and increased HDL-cholesterol levels were observed as compared to placebo, with small, but not clinically significant increases in LDL-cholesterol levels.
+
 In clinical trials of up to two years duration, pioglitazone reduced total plasma triglycerides and free fatty acids, and increased HDL cholesterol levels, compared with placebo, metformin or gliclazide.
 Pioglitazone did not cause statistically significant increases in LDL cholesterol levels compared with placebo, whilst reductions were observed with metformin and gliclazide.
 In a 20-week study, as well as reducing fasting triglycerides, pioglitazone reduced post prandial hypertriglyceridaemia through an effect on both absorbed and hepatically synthesised triglycerides.
 These effects were independent of pioglitazone’s effects on glycaemia and were statistically significant different to glibenclamide.
 
-An outcome study is underway with pioglitazone, and until this is completed the long-term benefits associated with improved metabolic control have not been demonstrated.
+In PROactive, a cardiovascular outcome study, 5238 patients with type 2 diabetes mellitus and pre-existing major macrovascular disease were randomised to pioglitazone or placebo in addition to existing antidiabetic and cardiovascular therapy, for up to 3.5 years.
+The study population had an average age of 62 years; the average duration of diabetes was 9.5 years.
+Approximately one third of patients were receiving insulin in combination with metformin and/or a sulphonylurea.
+To be eligible patients had to have had one or more of the following: myocardial infarction, stroke, percutaneous cardiac intervention or coronary artery bypass graft, acute coronary syndrome, coronary artery disease, or peripheral arterial obstructive disease.
+Almost half of the patients had a previous myocardial infarction and approximately 20% had had a stroke.
+Approximately half of the study population had at least two of the cardiovascular history entry criteria.
+Almost all subjects (95%) were receiving cardiovascular medications (beta blockers, ACE inhibitors, angiotensin II antagonists, calcium channel blockers, nitrates, diuretics, aspirin, statins, fibrates).
 
-[Actos 30 mg tablets.]
-
-(all sentences already above)
-
-[Actos 45 mg tablets.]
-
-These effects were independent of pioglitazone’s effects on glycaemia and were statistically significant different to glibenclamide.+
+Although the study failed regarding its primary endpoint, which was a composite of all-cause mortality, non-fatal myocardial infarction, stroke, acute coronary syndrome, major leg amputation, coronary revascularisation and leg revascularisation, the results suggest that there are no long-term cardiovascular concerns regarding use of pioglitazone.
+However, the incidences of oedema, weight gain and heart failure were increased.
+No increase in mortality from heart failure was observed.

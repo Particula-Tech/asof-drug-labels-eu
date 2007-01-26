@@ -1,20 +1,14 @@
 # 4.2 Posology and method of administration
 
-The long-term benefits of therapy with pioglitazone have not been demonstrated (see section 5.1).
-
 Pioglitazone tablets are taken orally once daily with or without food.
-
-Dosage in adults:
 
 Pioglitazone may be initiated at 15mg or 30mg once daily.
 The dose may be increased in increments up to 45mg once daily.
 
-In combination with metformin, the current metformin dose can be continued upon initiation of pioglitazone therapy.
-In combination with sulphonylurea, the current sulphonylurea dose can be continued upon initiation of pioglitazone therapy.
-If patients report hypoglycaemia, the dose of sulphonylurea should be decreased.
+In combination with insulin, the current insulin dose can be continued upon initiation of pioglitazone therapy.
+If patients report hypoglycaemia, the dose of insulin should be decreased.
 
 Elderly:
-
 No dosage adjustment is necessary for elderly patients (see section 5.2).
 
 Patients with renal impairment:

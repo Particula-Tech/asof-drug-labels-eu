@@ -18,7 +18,7 @@ Pioglitazone and all active metabolites are extensively bound to plasma protein 
 Metabolism:
 
 Pioglitazone undergoes extensive hepatic metabolism by hydroxylation of aliphatic methylene groups.
-This is predominantly via cytochrome P4502C8 although other isoforms may be involved to a lesser degree.
+This is predominantly via cytochrome P450 2C8 although other isoforms may be involved to a lesser degree.
 Three of the six identified metabolites are active (M-II, M-III, and M-IV).
 When activity, concentrations and protein binding are taken into account, pioglitazone and metabolite M-III contribute equally to efficacy.
 On this basis M-IV contribution to efficacy is approximately three-fold that of pioglitazone, whilst the relative efficacy of M-II is minimal.
@@ -47,11 +47,3 @@ Patients with hepatic impairment:
 
 Total plasma concentration of pioglitazone is unchanged, but with an increased volume of distribution.
 Intrinsic clearance is therefore reduced, coupled with a higher unbound fraction of pioglitazone.
-
-[Actos 30 mg tablets.]
-
-This is predominantly via cytochrome P450 2C8 although other isoforms may be involved to a lesser degree.
-
-[Actos 45 mg tablets.]
-
-(all sentences already above)

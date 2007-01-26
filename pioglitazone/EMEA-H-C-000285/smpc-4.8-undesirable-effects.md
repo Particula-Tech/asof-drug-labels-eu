@@ -3,11 +3,11 @@
 Adverse reactions reported in excess (> 0.5 %) of placebo and as more than an isolated case in patients receiving pioglitazone in double-blind studies are listed below as MedDRA preferred term by system organ class and absolute frequency.
 Frequencies are defined as: very common >1/10; common > 1/100, < 1/10; uncommon > 1/1000, < 1/100; rare > 1/10000, < 1/1000; very rare < 1/10000; not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
-MONOTHERAPY
+PIOGLITAZONE MONOTHERAPY
 Eye disorders
 
 Common: visual disturbance
+
 Infection and infestations
 
 Common: upper respiratory tract infection
@@ -24,7 +24,7 @@ Common: hypoaesthesia
 
 Uncommon: insomnia
 
-PIOGLITAZONE IN COMBINATION WITH METFORMIN
+PIOGLITAZONE IN COMBINATION THERAPY WITH METFORMIN
 Blood and lymphatic system disorders
 
 Common: anaemia
@@ -56,11 +56,11 @@ Common: haematuria
 Reproductive system and breast disorders
 
 Common: erectile dysfunction
-
-PIOGLITAZONE IN COMBINATION WITH SULPHONYLUREA
+PIOGLITAZONE IN COMBINATION THERAPY WITH SULPHONYLUREA
 Ear and labyrinth disorders
 
 Uncommon: vertigo
+
 Eye disorders
 
 Uncommon: visual disturbance
@@ -110,11 +110,40 @@ Very common: hypoglycaemia
 Musculoskeletal and connective tissue disorders
 
 Common: arthralgia
+PIOGLITAZONE IN COMBINATION THERAPY WITH INSULIN
+Metabolism and nutrition disorders
+
+Common: hypoglycaemia
+
+General disorders and administration site conditions
+
+Very common: oedema
+
+Infections and infestations
+
+Common: bronchitis
+
+Investigations
+
+Common: weight increase
+
+Musculoskeletal system and connective tissue disorders
+
+Common: back pain, arthralgia
+
+Respiratory, thoracic and mediastinal disorders
+
+Common: dyspnoea
+
+Cardiac disorders
+
+Common: heart failure
 
 POST-MARKETING DATA
 
 Eye disorders
 Macular oedema: not known
+
 Oedema was reported in 6 – 9 % of patients treated with pioglitazone over one year in controlled clinical trials.
 The oedema rates for comparator groups (sulphonylurea, metformin) were 2 – 5 %.
 The reports of oedema were generally mild to moderate and usually did not require discontinuation of treatment.
@@ -130,6 +159,7 @@ In clinical trials with pioglitazone the incidence of elevations of ALT greater 
 Mean levels of liver enzymes decreased with treatment with pioglitazone.
 Rare cases of elevated liver enzymes and hepatocellular dysfunction have occurred in post-marketing experience.
 Although in very rare cases fatal outcome has been reported, causal relationship has not been established.
-
-In controlled clinical trials the incidence of reports of heart failure with pioglitazone treatment was the same as in placebo, metformin and sulphonylurea treatment groups.
-Heart failure has been reported rarely with marketing use of pioglitazone.
+In controlled clinical trials the incidence of reports of heart failure with pioglitazone treatment was the same as in placebo, metformin and sulphonylurea treatment groups, but was increased when used in combination therapy with insulin.
+In an outcome study of patients with pre-existing major macrovascular disease, the incidence of serious heart failure was 1.6 % higher with pioglitazone than with placebo, when added to therapy that included insulin.
+However, this did not lead to an increase in mortality in this study.
+Heart failure has been reported rarely with marketing use of pioglitazone, but more frequently when pioglitazone was used in combination with insulin or in patients with a history of cardiac failure.

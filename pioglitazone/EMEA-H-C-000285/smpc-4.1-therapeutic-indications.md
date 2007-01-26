@@ -14,3 +14,5 @@ as dual oral therapy in combination with
 as triple oral therapy in combination with
 
 - metformin and a sulphonylurea, in patients (particularly overweight patients) with insufficient glycaemic control despite dual oral therapy.
+
+Pioglitazone is also indicated for combination with insulin in type 2 diabetes mellitus patients with insufficient glycaemic control on insulin for whom metformin is inappropriate because of contraindications or intolerance (see section 4.4).
