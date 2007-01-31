@@ -1,6 +1,6 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each vial of AVONEX contains 30 (6 million IU) of interferon beta-1a.
+Each vial of AVONEX contains 30 micrograms (6 million IU) of interferon beta-1a.
 
 Following reconstitution with the water for injections the vial contains 1.0 ml of solution.
 The concentration is 30 micrograms per ml.

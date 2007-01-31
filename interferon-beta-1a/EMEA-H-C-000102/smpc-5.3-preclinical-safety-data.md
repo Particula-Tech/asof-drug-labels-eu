@@ -5,6 +5,7 @@ Carcinogenesis: No carcinogenicity data for interferon beta-1a are available in 
 Chronic Toxicity: In a 26--week, repeated-dose toxicity study in rhesus monkey by intramuscular route once per week, administered in combination with another immune modulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward interferon beta-1a and no signs of toxicity were demonstrated.
 
 Local Tolerance: Intramuscular irritation has not been evaluated in animals following repeated administration to the same injection site.
+
 Mutagenesis: Limited but relevant mutagenesis tests have been carried out.
 The results have been negative.
 
