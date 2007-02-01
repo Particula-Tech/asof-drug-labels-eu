@@ -12,16 +12,12 @@ Common: anorexia
 
 Psychiatric disorders:
 Very common: sleep disorder
-
 Common: abnormal dreams, abnormal thinking, confusion, disorientation, nightmares, sleepwalking, depression, hallucination, agitation
-
 Uncommon: psychosis, paranoia
 
 Nervous system disorders:
 Very common: dizziness, headache
-
 Common: sleep paralysis, somnolence, tremor, amnesia
-
 Uncommon: myoclonus, convulsion
 
 Eye disorders:
@@ -32,16 +28,12 @@ Rare: respiratory depression
 
 Gastrointestinal disorders:
 Very common: nausea (the frequency of nausea is higher in women than men)
-
 Common: vomiting, upper abdominal pain, diarrhoea,
-
 Uncommon: faecal incontinence
 
 Skin and subcutaneous tissue disorders:
 Common: sweating, rash
-
 Uncommon: urticaria
-
 Musculoskeletal, connective tissue and bone disorders:
 Common: muscle cramps
 

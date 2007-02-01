@@ -27,19 +27,16 @@ The primary efficacy measure in each clinical trial was the frequency of cataple
 Table 1
 Summary of Outcomes in Clinical Trials Supporting the Efficacy of Sodium Oxybate
 
-Dosage Number of Cataplexy Attacks
-Subjects
-Trial 1 Baseline Median Change
-from Baseline
-Median attacks/week
-Placebo 33 20.5 -4
-3.0 g/day 33 20.0 -7
-6.0 g/day 31 23.0 -10
-9.0 g/day 33 23.5 -16
-Trial 2 Median attacks/two weeks
-
-| Placebo | 29 | 4.0 | 21.0 | - |
+| Dosage | Number of Subjects | Cataplexy Attacks |  |  |
 | --- | --- | --- | --- | --- |
+| Trial 1 |  | Baseline | Median Change from Baseline |  |
+|  |  | Median attacks/week |  |  |
+| Placebo | 33 | 20.5 | -4 |  |
+| 3.0 g/day | 33 | 20.0 | -7 |  |
+| 6.0 g/day | 31 | 23.0 | -10 |  |
+| 9.0 g/day | 33 | 23.5 | -16 |  |
+| Trial 2 |  | Median attacks/two weeks |  |  |
+| Placebo | 29 | 4.0 | 21.0 | - |
 | Sodium oxybate | 26 | 1.9 | 0 |  |
 
 In Trial 1, both the 6 g/day and 9 g/day doses gave statistically significant reductions in the frequency of cataplexy attacks.

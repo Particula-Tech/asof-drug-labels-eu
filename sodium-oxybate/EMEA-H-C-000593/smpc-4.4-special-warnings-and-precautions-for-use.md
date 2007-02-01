@@ -11,6 +11,7 @@ Whilst there is no clear evidence of emergence of dependence in patients taking 
 CNS depression
 The combined use of alcohol or any CNS depressant drug with sodium oxybate may result in potentiation of the CNS-depressant effects of sodium oxybate.
 Therefore, patients should be warned against the use of alcohol in conjunction with sodium oxybate.
+
 Patients with porphyria
 Sodium oxybate is considered to be unsafe in patients with porphyria because it has been shown to be porphyrogenic in animals or in-vitro systems.
 
@@ -54,6 +55,7 @@ The starting dose should therefore be halved in such patients, and response to d
 Elderly
 There is very limited experience with sodium oxybate in the elderly.
 Therefore, elderly patients should be monitored closely for impaired motor and/or cognitive function when taking sodium oxybate.
+
 Childhood and adolescence
 Safety and effectiveness in children and adolescents has not been established, therefore use in patients under 18 years of age is not recommended.
 
