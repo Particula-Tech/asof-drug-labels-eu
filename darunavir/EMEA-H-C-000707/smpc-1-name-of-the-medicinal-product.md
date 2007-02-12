@@ -1,0 +1,3 @@
+# 1. NAME OF THE MEDICINAL PRODUCT
+
+PREZISTA 300 mg film-coated tablets.
