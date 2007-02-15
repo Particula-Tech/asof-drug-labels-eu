@@ -14,7 +14,7 @@ Monitoring and management for these patients should be as described above .
 Electrocardiogram (ECG) Abnormalities: Arsenic trioxide can cause QT interval prolongation and complete atrioventricular block.
 QT prolongation can lead to a torsade de pointes-type ventricular arrhythmia, which can be fatal.
 Previous treatment with anthracyclines may increase the risk of QT prolongation.
-The risk of torsade de pointes is related to the extent of QT prolongation, concomitant administration of QT prolonging medicinal products (such as class Ia and III antiarrythmics (e.g. quinidine, amiodarone, sotalol, dofetilide), antipsychotics (e.g. thioridazine), antidepressants (e.g. amitriptyline), some macrolides (e.g. erythromycine), some antihistamines (e.g. terfinadine and astemizole), some quinolone antibiotics (e.g. sparfloxacine), and other individual drugs known to increase QT interval (e.g. cisapride)), a history of torsade de pointes, pre-existing QT interval prolongation, congestive heart failure, administration of potassium-wasting diuretics, amphothericine B or other conditions that result in hypokalemia or hypomagnesaemia.
+The risk of torsade de pointes is related to the extent of QT prolongation, concomitant administration of QT prolonging medicinal products (such as class Ia and III antiarrythmics (e.g. quinidine, amiodarone, sotalol, dofetilide), antipsychotics (e.g. thioridazine), antidepressants (e.g. amitriptyline), some macrolides (e.g. erythromycin), some antihistamines (e.g. terfenadine and astemizole), some quinolone antibiotics (e.g. sparfloxacin), and other individual drugs known to increase QT interval (e.g. cisapride)), a history of torsade de pointes, pre-existing QT interval prolongation, congestive heart failure, administration of potassium-wasting diuretics, amphotericin B or other conditions that result in hypokalemia or hypomagnesaemia.
 In clinical trials, 40% of patients treated with TRISENOX experienced at least one QT corrected (QTc) interval prolongation greater than 500 msec.
 Prolongation of the QTc was observed between 1 and 5 weeks after TRISENOX infusion, and then returned to baseline by the end of 8 weeks after TRISENOX infusion.
 One patient (receiving multiple, concomitant medicinal products, including amphotericin B) had asymptomatic torsade de pointes during induction therapy for relapsed APL with arsenic trioxide.
@@ -39,16 +39,12 @@ Laboratory tests: The patient’s electrolyte and glycaemia levels, as well as h
 Patients with renal or hepatic impairment: Safety and effectiveness of TRISENOX in patients with renal and hepatic impairment have not been studied.
 Particular caution is needed in patients with renal failure receiving TRISENOX, as renal excretion is the main route of elimination of arsenic.
 
-Paediatric use: There is limited clinical data on the paediatric use of TRISENOX.
-Of 7 patients under 18 years of age (range 5 to 16 years) treated with TRISENOX at the recommended dose of 0.15 mg/kg/day, 5 patients achieved a complete response.
-Safety and effectiveness in paediatric patients under 5 years of age have not been studied.
-
 Elderly patients: There is limited clinical data on the use of TRISENOX in the elderly population.
 Elderly patients have a greater risk of reduced renal function.
 Because renal excretion is the main route of elimination of arsenic, particular caution is needed in these patients.
 
-Hyperleukocytosis: Treatment with TRISENOX has been associated with the development of hyperleukocytosis (≥ 10 x 103/�l) in some patients.
+Hyperleukocytosis: Treatment with TRISENOX has been associated with the development of hyperleukocytosis (≥ 10 x 103/μl) in some patients.
 There did not appear to be a relationship between baseline white blood cell (WBC) counts and development of hyperleukocytosis nor did there appear to be a correlation between baseline WBC count and peak WBC counts.
 Hyperleukocytosis was never treated with additional chemotherapy and resolved on continuation of TRISENOX.
-WBC counts during consolidation were not as high as during induction treatment and were < 10 x 103/�l, except in one patient who had a WBC count of 22 x 103/�l during consolidation.
+WBC counts during consolidation were not as high as during induction treatment and were < 10 x 103/μl, except in one patient who had a WBC count of 22 x 103/μl during consolidation.
 Twenty patients (50%) experienced leukocytosis; however, in all these patients, the WBC count was declining or had normalized by the time of bone marrow remission and cytotoxic chemotherapy or leukopheresis was not required.

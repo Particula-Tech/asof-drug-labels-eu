@@ -2,6 +2,10 @@
 
 Pharmacotherapeutic group: Other antineoplastic agents, ATC code: L01XX27
 
+TRISENOX has been authorised under “Exceptional Circumstances”.
+This means that due to the rarity of the disease, it has not been possible to obtain complete information on this medicinal product.
+The European Medicines Agency (EMEA) will review any new information which may become available every year and this SPC will be updated as necessary.
+
 Mechanism of action: The mechanism of action of TRISENOX is not completely understood.
 Arsenic trioxide causes morphological changes and deoxyribonucleic acid (DNA) fragmentation characteristic of apoptosis in NB4 human promyelocytic leukaemia cells in vitro.
 Arsenic trioxide also causes damage or degradation of the fusion protein Pro-Myelocytic Leukaemia/Retinoic Acid Receptor-alpha (PML/RAR alpha).

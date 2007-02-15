@@ -10,6 +10,10 @@ If bone marrow remission has not occurred by day 50, dosing must be discontinued
 Consolidation schedule: Consolidation treatment must begin 3 to 4 weeks after completion of induction therapy.
 TRISENOX is to be administered intravenously at a dose of 0.15 mg/kg/day for 25 doses given 5 days per week, followed by 2 days interruption, repeated for 5 weeks.
 
+Paediatric use: The experience in children is limited.
+Of 7 patients under 18 years of age (range 5 to 16 years) treated with TRISENOX at the recommended dose of 0.15 mg/kg/day, 5 patients achieved a complete response.
+Safety and effectiveness in paediatric patients under 5 years of age have not been studied.
+
 Method of administration
 
 TRISENOX must be administered intravenously over 1-2 hours.

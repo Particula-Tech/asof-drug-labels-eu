@@ -1,3 +1,3 @@
 # 4.3 Contraindications
 
-Hypersensitivity to arsenic or any of the excipients.
+Hypersensitivity to the active substance or any of the excipients.
