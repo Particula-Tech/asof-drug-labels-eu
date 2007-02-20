@@ -6,8 +6,8 @@ The dose should not exceed once daily as more frequent administration may lessen
 If more than one topical ophthalmic medicinal product is being used, each one should be administered at least 5 minutes apart.
 
 Use in children and adolescents (under the age of 18):
-Lumigan has only been studied in adults and therefore its use is not recommended in children or adolescents.
+LUMIGAN has only been studied in adults and therefore its use is not recommended in children or adolescents.
 
 Use in hepatic and renal impairment:
-Lumigan has not been studied in patients with renal or moderate to severe hepatic impairment and should therefore be used with caution in such patients.
-In patients with a history of mild liver disease or abnormal ALT, AST and/or bilirubin at baseline, Lumigan had no adverse effect on liver function over 24 months.
+LUMIGAN has not been studied in patients with renal or moderate to severe hepatic impairment and should therefore be used with caution in such patients.
+In patients with a history of mild liver disease or abnormal ALT, AST and/or bilirubin at baseline, LUMIGAN had no adverse effect on liver function over 24 months.
