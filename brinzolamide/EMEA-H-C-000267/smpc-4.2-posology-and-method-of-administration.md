@@ -21,5 +21,6 @@ The efficacy and safety of AZOPT in patients below the age of 18 have not been e
 
 Use in hepatic and renal impairment
 AZOPT has not been studied in patients with hepatic impairment and is therefore not recommended in such patients.
-AZOPT has not been studied in patients with severe renal impairment (creatinine clearance < 30 ml/min) or in patients with hyperchloraemic acidosis.
+AZOPT has not been studied in patients with severe renal impairment (creatinine clearance
+< 30 ml/min) or in patients with hyperchloraemic acidosis.
 Since brinzolamide and its main metabolite are excreted predominantly by the kidney, AZOPT is therefore contra-indicated in such patients (see also 4.3).

@@ -17,8 +17,8 @@ N-Desethyl-brinzolamide accumulated in RBCs to steady state within 20-28 weeks r
 The inhibition of total RBC CA activity at steady state was approximately 70-75%.
 
 Subjects with moderate renal impairment (creatinine clearance of 30-60 ml/minute) were administered 1 mg of brinzolamide twice daily orally for up to 54 weeks.
-Brinzolamide RBC concentration ranged from about 20 to 40 µM by week 4 of treatment.
-At steady-state, brinzolamide and its metabolite RBC concentrations ranged from 22.0 to 46.1 and 17.1 to 88.6 µM, respectively.
+Brinzolamide RBC concentration ranged from about 20 to 40 μM by week 4 of treatment.
+At steady-state, brinzolamide and its metabolite RBC concentrations ranged from 22.0 to 46.1 and 17.1 to 88.6 μM, respectively.
 
 N-desethyl-brinzolamide RBC concentrations increased and total RBC CA activity decreased with decreasing creatinine clearance but brinzolamide RBC concentrations and CA-II activity remained unchanged.
 In subjects with the highest degree of renal impairment inhibition of total CA activity was greater although it was inferior to 90% at steady-state.
