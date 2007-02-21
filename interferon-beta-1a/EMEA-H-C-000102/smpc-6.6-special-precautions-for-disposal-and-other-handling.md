@@ -1,6 +1,6 @@
-# 6.6 Instructions for use and handling and disposal
+# 6.6 Special precautions for disposal and other handling
 
-Use the supplied pre-filled syringe of solvent to reconstitute AVONEX for injection. .
+Use the supplied pre-filled syringe of solvent to reconstitute AVONEX for injection.
 Do not use any other solvent.
 Inject the content of the syringe into the vial of AVONEX using the green reconstitution needle.
 Gently swirl the contents in the vial until all materials are dissolved; DO NOT SHAKE.
@@ -23,6 +23,7 @@ The needle for intramuscular injection is provided.
 AVONEX is provided as ready to use solution for injection in a pre-filled syringe.
 
 Once removed from the refrigerator, AVONEX in a pre-filled syringe should be allowed to warm to room temperature (15-30 °C) for about 30 minutes.
+
 Do not use external heat sources such as hot water to warm AVONEX 30 micrograms solution for injection.
 
 If the solution for injection contains particulate matter or if it is any colour other than clear colourless, the pre-filled syringe must not be used.

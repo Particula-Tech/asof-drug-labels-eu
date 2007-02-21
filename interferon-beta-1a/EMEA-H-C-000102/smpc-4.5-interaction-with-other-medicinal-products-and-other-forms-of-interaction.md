@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-No formal drug interaction studies have been conducted with AVONEX in humans.
+No formal interaction studies have been performed in humans.
 
 The interaction of AVONEX with corticosteroids or adrenocorticotropic hormone (ACTH) has not been studied systematically.
 The clinical studies indicate that MS patients can receive AVONEX and corticosteroids or ACTH during relapses.

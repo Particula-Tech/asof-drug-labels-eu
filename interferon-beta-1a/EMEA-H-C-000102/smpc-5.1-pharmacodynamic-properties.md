@@ -33,7 +33,7 @@ This latter clinical effect was observed after more than one year of treatment.
 A double-blind randomised dose comparison study of 802 relapsing MS patients (AVONEX
 30 micrograms n=402, AVONEX 60 micrograms n=400) has shown no statistically significant differences or trends between the 30 micrograms and the 60 micrograms doses of AVONEX in clinical and general MRI parameters.
 
-The effects of AVONEX in the treatment of MSwere also demonstrated in a randomised double-blind study performed with 383 patients (AVONEX n=193, placebo n=190) with a single demyelinating event associated with at least two compatible brain MRI lesions.
+The effects of AVONEX in the treatment of MS were also demonstrated in a randomised double-blind study performed with 383 patients (AVONEX n=193, placebo n=190) with a single demyelinating event associated with at least two compatible brain MRI lesions.
 A reduction of the risk of experiencing a second event was noted in the AVONEX treatment group.
 An effect on MRI parameters was also seen.
 The estimated risk of a second event was 50% in three years and 39% in two years in the placebo group and 35% (three years) and 21% (two years) in the AVONEX group.
@@ -49,7 +49,6 @@ Interferons alpha and beta are classified as Type I interferons and interferon g
 In the study, the cumulative percentage of patients who developed disability progression (by Kaplan-Meier life table analysis) by the end of two years was 35% for placebo-treated patients and 22% for AVONEX-treated patients.
 Disability progression was measured as an increase in the Expanded Disability Status Scale (EDSS) of 1.0 point, sustained for at least six months.
 
-The effects of AVONEX in the treatment of MS were also demonstrated in a randomised double-blind study performed with 383 patients (AVONEX n=193, placebo n=190) with a single demyelinating event associated with at least two compatible brain MRI lesions.
 Furthermore, for the time-being there is no well established definition of a high risk patient although a more conservative approach is to accept at least nine T2 hyperintense lesions on the initial scan and at least one new T2 or one new Gd-enhancing lesion on a follow-up scan taken at least three months after the initial scan.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]

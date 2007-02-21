@@ -2,7 +2,7 @@
 
 Carcinogenesis: No carcinogenicity data for interferon beta-1a are available in animals or humans.
 
-Chronic Toxicity: In a 26--week, repeated-dose toxicity study in rhesus monkey by intramuscular route once per week, administered in combination with another immune modulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward interferon beta-1a and no signs of toxicity were demonstrated.
+Chronic Toxicity: In a 26-week, repeated-dose toxicity study in rhesus monkeys by intramuscular route once per week, administered in combination with another immune modulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward interferon beta-1a and no signs of toxicity were demonstrated.
 
 Local Tolerance: Intramuscular irritation has not been evaluated in animals following repeated administration to the same injection site.
 
@@ -18,8 +18,8 @@ No information is available on the effects of interferon beta-1a on male fertili
 
 [AVONEX 30 micrograms powder and solvent for solution for injection]
 
-Chronic Toxicity: In a 26-week, repeated-dose toxicity study in rhesus monkey by intramuscular route once per week, administered in combination with another immune modulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward interferon beta-1a and no signs of toxicity were demonstrated.
+(all sentences already above)
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
-Chronic Toxicity: In a 26-week repeated dose toxicity study in rhesus monkey by intramuscular route once per week, administered in combination with another immunomodulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward interferon beta-1a and no signs of toxicity were demonstrated.
+Chronic Toxicity: In a 26-week repeated dose toxicity study in rhesus monkeys by intramuscular route once per week, administered in combination with another immunomodulating agent, an anti CD40 ligand monoclonal antibody, no immune response toward interferon beta-1a and no signs of toxicity were demonstrated.
