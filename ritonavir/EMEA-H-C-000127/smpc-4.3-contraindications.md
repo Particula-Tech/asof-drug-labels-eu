@@ -15,7 +15,7 @@ For some products, contraindications may be more relevant when ritonavir is used
 | Drug Class Drugs within Class | Rationale |
 | --- | --- |
 | Concomitant Drug Levels Increased |  |
-| �1-Adrenoreceptor Alfuzosin Antagonist | Increased plasma concentrations of alfuzosin which may lead to severe hypotension (see section 4.5). |
+| α1-Adrenoreceptor Alfuzosin Antagonist | Increased plasma concentrations of alfuzosin which may lead to severe hypotension (see section 4.5). |
 | Analgesics Meperidine, piroxicam, propoxyphne | Increased plasma concentrations of normeperidine, piroxicam and propoxyphene. Thereby, increasing the risk of serious respiratory depression or haematologic abnormalities, or other serious adverse effects from these agents. |
 | Antiarrthymics Amiodarone, bepridil, encainide, flecanide, propafenone, quinidine | Increased plasma concentrations of amiodarone, bepridil, encainide, flecanide, propafenone, quinidine. Thereby, increasing the risk of arrhythmias or other serious adverse effects from these agents. |
 | Antibiotic Fusidic Acid | Increased plasma concentrations of fusidic acid and ritonavir. |

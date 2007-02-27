@@ -105,6 +105,8 @@ Saquinavir: Doses of ritonavir higher than 100 mg twice daily should not be used
 Higher doses of ritonavir have been shown to be associated with an increased incidence of adverse events.
 Co-administration of saquinavir and ritonavir has led to severe adverse events, mainly diabetic ketoacidosis and liver disorders, especially in patients with pre-existing liver disease.
 
+Saquinavir/ritonavir should not be given together with rifampicin, due to the risk of severe hepatotoxicity (presenting as increased hepatic transaminases) if the three medicines are given together (see section 4.5).
+
 Tipranavir: co-administered with 200 mg of ritonavir has been associated with reports of clinical hepatitis and hepatic decompensation including some fatalities.
 Extra vigilance is warranted in patients with chronic hepatitis B or hepatitis C co-infection, as these patients have an increased risk of hepatotoxicity.
 
@@ -112,7 +114,6 @@ Doses of ritonavir lower than 200 mg twice daily should not be used as they migh
 
 Fosamprenavir: Co-administration of fosamprenavir with ritonavir in doses greater than 100 mg twice daily has not been clinically evaluated.
 The use of higher ritonavir doses might alter the safety profile of the combination and therefore is not recommended.
-
 Atazanavir: Co-administration of atazanavir with ritonavir in doses greater than 100 mg once daily has not been clinically evaluated.
 The use of higher ritonavir doses might alter the safety profile of atazanavir (cardiac effects, hyperbilirubinemia) and therefore is not recommended.
 

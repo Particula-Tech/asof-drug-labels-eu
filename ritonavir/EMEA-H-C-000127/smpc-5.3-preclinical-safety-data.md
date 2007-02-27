@@ -10,6 +10,9 @@ Clinical investigation in humans has revealed no clinically significant alterati
 Renal changes including tubular degeneration, chronic inflammation and proteinurea were noted in rats and are felt to be attributable to species-specific spontaneous disease.
 Furthermore, no clinically significant renal abnormalities were noted in clinical trials.
 
+Developmental toxicity observed in rats (embryolethality, decreased foetal body weight and ossification delays and visceral changes, including delayed testicular descent) occurred mainly at a maternally toxic dosage.
+Developmental toxicity in rabbits (embryolethality, decreased litter size and decreased foetal weights) occurred at a maternally toxic dosage.
+
 Ritonavir was not found to be mutagenic or clastogenic in a battery of in vitro and in vivo assays including the Ames bacterial reverse mutation assay using S. typhimurium and E. coli, the mouse lymphoma assay, the mouse micronucleus test and chromosomal aberration assays in human lymphocytes.
 
 Long term carcinogenicity studies of ritonavir in mice and rats revealed tumourigenic potential specific for these species, but are regarded as of no relevance for humans.
