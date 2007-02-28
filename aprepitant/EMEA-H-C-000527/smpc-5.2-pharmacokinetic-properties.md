@@ -28,7 +28,6 @@ Elimination
 Aprepitant is not excreted unchanged in urine.
 Metabolites are excreted in urine and via biliary excretion in faeces.
 Following a single intravenously administered 100-mg dose of [14C]- aprepitant prodrug to healthy subjects, 57 % of the radioactivity was recovered in urine and 45 % in faeces.
-
 The plasma clearance of aprepitant is dose-dependent, decreasing with increased dose and ranged from approximately 60 to 72 ml/min in the therapeutic dose range.
 The terminal half-life is approximately 9 hours after administration of a single 40 mg dose.
 

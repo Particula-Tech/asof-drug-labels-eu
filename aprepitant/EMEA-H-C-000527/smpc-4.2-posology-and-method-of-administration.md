@@ -17,10 +17,8 @@ No dosage adjustment is necessary for patients with renal insufficiency or for p
 Hepatic Impairment
 No dosage adjustment is necessary for patients with mild hepatic insufficiency.
 There are limited data in patients with moderate hepatic insufficiency and no data in patients with severe hepatic insufficiency (see sections 4.4 and 5.2).
-
 Children and adolescents
-Safety and efficacy have not been established in children and adolescents.
-Therefore, use in patients under 18 years of age is not recommended.
+EMEND is not recommended for use in children below 18 years due to insufficient data on its safety and efficacy (see section 5.2).
 
 [EMEND 80 mg hard capsules]
 

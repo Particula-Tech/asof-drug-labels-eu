@@ -15,8 +15,8 @@ The AUC of orally administered CYP3A4 substrates may increase up to approximatel
 
 EMEND should be used with caution in patients receiving pimozide, terfenadine, astemizole, cisapride, or ergot alkaloid derivatives.
 Inhibition of CYP3A4 by aprepitant could result in elevated plasma concentrations of these medicinal products, potentially causing serious reactions.
-
 EMEND does not seem to interact with the P-glycoprotein transporter, as demonstrated by the lack of interaction of EMEND with digoxin.
+
 Corticosteroids:
 Dexamethasone: A single dose of EMEND (40 mg), when coadministered with a single oral dose of dexamethasone 20 mg, increased the AUC of dexamethasone by 1.45-fold.
 No dose adjustment is recommended.
@@ -76,11 +76,8 @@ EMEND, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 and 3,
 During continuous treatment with methylprednisolone, the AUC of methylprednisolone may decrease at later time points within 2 weeks following initiation of dosing with EMEND, due to the inducing effect of aprepitant on CYP3A4.
 This effect may be expected to be more pronounced for orally administered methylprednisolone.
 
-Chemotherapeutic agents: In clinical studies, EMEND (125 mg/80 mg regimen) was administered with the following chemotherapeutic agents metabolised primarily or in part by CYP3A4: etoposide, vinorelbine, docetaxel, and paclitaxel.
-The doses of these agents were not adjusted to account for potential medicinal product interactions.
-Caution is advised and additional monitoring may be appropriate in patients receiving such agents (see section 4.4).
-
-Docetaxel: In a clinical study, EMEND, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 and 3, did not influence the pharmacokinetics of docetaxel administered intravenously on Day 1.
+Chemotherapeutic agents: In pharmacokinetic studies, EMEND, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 and 3, did not influence the pharmacokinetics of docetaxel administered intravenously on Day 1 or vinorelbine administered intravenously on Day 1 or Day 8..Because the effect of EMEND on the pharmacokinetics of orally administered CYP3A4 substrates is greater than the effect of EMEND on the pharmacokinetics of intravenously administered CYP3A4 substrates, an interaction with orally administered chemotherapeutic agents metabolised primarily or in part by CYP3A4 (e.g. etoposide, vinorelbine) cannot be excluded.
+Caution is advised and additional monitoring may be appropriate in patients receiving such agents orally (see section 4.4).
 
 Midazolam: The potential effects of increased plasma concentrations of midazolam or other benzodiazepines metabolised via CYP3A4 (alprazolam, triazolam) should be considered when coadministering these agents with EMEND (125 mg/80 mg).
 
@@ -89,6 +86,7 @@ EMEND increased the AUC of midazolam, a sensitive CYP3A4 substrate, 2.3-fold on 
 In another study with intravenous administration of midazolam, EMEND was given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, and midazolam 2 mg was given intravenously prior to the administration of the 3-day regimen of EMEND and on Days 4, 8, and 15.
 EMEND increased the AUC of midazolam 25 % on Day 4 and decreased the AUC of midazolam 19 % on Day 8 and 4 % on Day 15.
 These effects were not considered clinically important.
+
 In a third study with intravenous and oral administration of midazolam, EMEND was given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, together with ondansetron 32 mg Day 1, dexamethasone 12 mg Day 1 and 8 mg Days 2-4.
 This combination (i.e. EMEND, ondansetron and dexamethasone) decreased the AUC of oral midazolam 16 % on Day 6, 9 % on Day 8, 7 % on Day 15 and 17 % on Day 22.
 
@@ -105,7 +103,7 @@ Day 15, when a single dose of tolbutamide 500 mg was administered orally prior t
 
 Oral contraceptives: The efficacy of hormonal contraceptives may be reduced during and for 28 days after administration of EMEND.
 Alternative or back-up methods of contraception should be used during treatment with EMEND and for 2 months following the last dose of EMEND.
-Aprepitant, when given once daily for 14 days as a 100-mg capsule with an oral contraceptive containing 35 mcg of ethinyl estradiol and 1 mg of norethindrone, decreased the AUC of ethinyl estradiol by 43 %, and decreased the AUC of norethindrone by 8 %.
+Aprepitant, when given once daily for 14 days as a 100-mg capsule with an oral contraceptive containing 35 μg of ethinyl estradiol and 1 mg of norethindrone, decreased the AUC of ethinyl estradiol by 43 %, and decreased the AUC of norethindrone by 8 %.
 
 In another study, single doses of an oral contraceptive containing ethinyl estradiol and norethindrone were administered on Days 1 through 21 with EMEND, given as a regimen of 125 mg on Day 8 and 80 mg/day on Days 9 and 10 with ondansetron 32 mg IV on Day 8 and oral dexamethasone given as 12 mg on Day 8 and 8 mg/day on Days 9, 10, and 11.
 During days 9 through 21 in this study, there was as much as a 64% decrease in ethinyl estradiol trough concentrations and as much as a 60% decrease in norethindrone trough concentrations.

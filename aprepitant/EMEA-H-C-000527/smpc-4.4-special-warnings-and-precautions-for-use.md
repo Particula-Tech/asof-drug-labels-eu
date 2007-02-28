@@ -19,8 +19,6 @@ For further information on interaction potential of EMEND at higher and multiple
 [EMEND 80 mg hard capsules]
 
 EMEND should be used with caution in patients receiving concomitant orally administered medicinal products that are metabolised primarily through CYP3A4 (see section 4.5).
-The effect of EMEND on the pharmacokinetics of orally administered CYP3A4 substrates is greater than the effect of EMEND on the pharmacokinetics of intravenously administered CYP3A4 substrates (see section 4.5).
-Chemotherapeutic agents metabolised via CYP3A4 should be used with caution (see section 4.5).
 Additionally, concomitant administration with irinotecan should be approached with particular caution as the combination might result in increased toxicity.
 
 Coadministration of EMEND with ergot alkaloid derivatives, which are CYP3A4 substrates, may result in elevated plasma concentrations of these medicinal products.

@@ -12,7 +12,6 @@ Ondansetron was given intravenously immediately before induction of anesthesia.
 The antiemetic activity of EMEND was evaluated during the 0 to 48 hour period following the end of surgery.
 
 The results demonstrate that a higher percentage of post-surgical patients will experience complete response (no emesis and no use of rescue) with aprepitant 40 mg than with ondansetron 4 mg (lower bound of C.I. is 0.0 indicating borderline significance) as described in Table 1.
-
 Table 1
 Percent of Post-Operative Patients Responding by Treatment Group
 Combined Results from 2 Phase III Trials
@@ -45,20 +44,13 @@ Regimen Therapy
 COMPOSITE MEASURES (N= 521) (N= 524)
 % % % (95 % CI)
 
-Complete Response (no emesis and no rescue therapy)
-
-Overall (0-120 hours) 67.7 47.8 19.9 (14.0, 25.8)
-0-24 hours 86.0 73.2 12.7 (7.9, 17.6)
-25-120 hours 71.5 51.2 20.3 (14.5, 26.1)
-
-INDIVIDUAL MEASURES
-No Emesis (no emetic episodes regardless of use of rescue therapy)
-
-Overall (0-120 hours) 71.9 49.7 22.2 (16.4, 28.0)
-0-24 hours 86.8 74.0 12.7 (8.0, 17.5)
-25-120 hours 76.2 53.5 22.6 (17.0, 28.2)
-
-No Significant Nausea (maximum VAS <25 mm on a scale of 0-100 mm)
+| Complete Response (no emesis and no rescue therapy) |  |
+| --- | --- |
+| Overall (0-120 hours) 67.7 47.8 19.9 0-24 hours 86.0 73.2 12.7 25-120 hours 71.5 51.2 20.3 | (14.0, 25.8) (7.9, 17.6) (14.5, 26.1) |
+| INDIVIDUAL MEASURES |  |
+| No Emesis (no emetic episodes regardless of use of rescue therapy) |  |
+| Overall (0-120 hours) 71.9 49.7 22.2 0-24 hours 86.8 74.0 12.7 25-120 hours 76.2 53.5 22.6 | (16.4, 28.0) (8.0, 17.5) (17.0, 28.2) |
+| No Significant Nausea (maximum VAS <25 mm on a scale of 0-100 mm) |  |
 
 Overall (0-120 hours) 72.1 64.9 7.2 (1.6, 12.8)
 25-120 hours 74.0 66.9 7.1 (1.5, 12.6)
@@ -105,13 +97,20 @@ Percent of Patients Responding by Treatment Group and Phase —Cycle 1 Moderatel
 
 COMPOSITE MEASURES (N= 433) (N= 424)
 
+Complete Response (no emesis and no rescue therapy)
+
 Overall (0-120 hours) 50.8 42.5 8.3 (1.6, 15.0)
 0-24 hours 75.7 69.0 6.7 (0.7, 12.7)
 25-120 hours 55.4 49.1 6.3 (-0.4, 13.0)
 
+INDIVIDUAL MEASURES
+No Emesis (no emetic episodes regardless of use of rescue therapy)
+
 Overall (0-120 hours) 75.7 58.7 17.0 (10.8, 23.2)
 0-24 hours 87.5 77.3 10.2 (5.1, 15.3)
 25-120 hours 80.8 69.1 11.7 (5.9, 17.5)
+
+No Significant Nausea (maximum VAS <25 mm on a scale of 0-100 mm)
 
 Overall (0-120 hours) 60.9 55.7 5.3 (-1.3, 11.9)
 0-24 hours 79.5 78.3 1.3 (-4.2, 6.8)
