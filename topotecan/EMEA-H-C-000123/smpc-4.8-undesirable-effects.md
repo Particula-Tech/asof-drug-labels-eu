@@ -14,6 +14,7 @@ The integrated safety data for topotecan monotherapy are presented below.
 
 Adverse reactions are listed below, by system organ class and absolute frequency (all reported events).
 Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000), including isolated reports.
+
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Blood and lymphatic system disorders
@@ -24,10 +25,10 @@ Common : hypersensitivity reaction including rash
 Rare : anaphylactic reaction, angioedema, urticaria.
 
 Metabolism and nutrition disorders
-Very common : anorexia.
+Very common : anorexia (which may be severe).
 
 Gastrointestinal disorders
-Very common : mucositis, nausea, vomiting, diarrhoea, constipation, abdominal pain.
+Very common : Nausea, vomiting and diarrhoea (all of which may be severe), constipation, abdominal pain and mucositis.
 
 Hepato-biliary disorders
 Common : hyperbilirubinaemia.
@@ -60,13 +61,13 @@ Thrombocytopenia: Severe (platelets less than 25 x 109/l) in 25 % of patients (8
 Median time to onset of severe thrombocytopenia was Day 15 and the median duration was 5 days.
 Platelet transfusions were given in 4 % of courses.
 Reports of significant sequelae associated with thrombocytopenia including fatalities due to tumour bleeds have been infrequent.
+
 Anaemia: Moderate to severe (Hb ≤ 8.0 g/dl) in 37 % of patients (14 % of courses).
 Red cell transfusions were given in 52 % of patients (21 % of courses).
 
 Non-haematological
 Frequently reported non-haematological effects were gastrointestinal such as nausea (52 %), vomiting (32 %), and diarrhoea (18 %), constipation (9 %) and mucositis (15 %).
 Severe (grade 3 or 4) nausea, vomiting, diarrhoea and mucositis incidence was 4, 3, 2 and 1 % respectively.
-
 Mild abdominal pain was also reported amongst 4 % of patients.
 
 Fatigue was observed in approximately 25 % and asthenia in 16 % of patients whilst receiving topotecan.
