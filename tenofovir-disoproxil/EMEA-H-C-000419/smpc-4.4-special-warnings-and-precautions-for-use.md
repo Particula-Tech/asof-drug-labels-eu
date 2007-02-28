@@ -103,7 +103,7 @@ If this combination is judged strictly necessary, patients should be carefully m
 
 Triple nucleoside therapy: There have been reports of a high rate of virological failure and of emergence of resistance at early stage when tenofovir disoproxil fumarate was combined with lamivudine and abacavir as well as with lamivudine and didanosine as a once daily regimen.
 
-Patients must be advised that antiretroviral therapies, including tenofovir disoproxil fumarate, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
+Patients must be advised that antiretroviral therapies, including tenofovir disoproxil fumarate, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or contamination with blood.
 Appropriate precautions must continue to be used.
 
 Viread contains lactose monohydrate.
