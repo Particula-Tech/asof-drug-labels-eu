@@ -13,6 +13,7 @@ This variant arises both in vitro and in HIV-1 infected patients treated with la
 M184V mutants display greatly reduced susceptibility to lamivudine and show diminished viral replicative capacity in vitro.
 In vitro studies indicate that zidovudine-resistant virus isolates can become zidovudine sensitive when they simultaneously acquire resistance to lamivudine.
 The clinical relevance of such findings remains, however, not well defined.
+
 Cross-resistance conferred by the M184V RT is limited within the nucleoside inhibitor class of antiretroviral agents.
 Zidovudine and stavudine maintain their antiretroviral activities against lamivudine-resistant HIV-1.
 Abacavir maintains its antiretroviral activities against lamivudine-resistant HIV-1 harbouring only the M184V mutation.

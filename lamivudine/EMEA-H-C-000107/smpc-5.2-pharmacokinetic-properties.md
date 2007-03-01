@@ -40,11 +40,15 @@ Pharmacokinetics in children: In general, lamivudine pharmacokinetics in paediat
 However, absolute bioavailability (approximately 55-65 %) was reduced in paediatric patients below 12 years of age.
 In addition, systemic clearance values were greater in younger paediatric patients and decreased with age, approaching adult values around 12 years of age.
 Due to these differences, the recommended dose for children from three months to 12 years is 8 mg/kg/day, which will achieve similar adult and paediatric exposure (average AUC approximately 5,000 ng.h/ml).
+Recent findings indicate that exposure in children < 6 years of age may be reduced by about 30% compared to that of other age groups.
+Further data addressing this issue are currently awaited.
+However, presently available data does not suggest that lamivudine is less efficacious in this age group.
 
 There are limited pharmacokinetic data for patients less than three months of age.
 In neonates one week of age, lamivudine oral clearance was reduced when compared to paediatric patients and is likely to be due to immature renal function and variable absorption.
 Therefore to achieve similar adult and paediatric exposure, the recommended dose for neonates is 4 mg/kg/day.
 Glomerular filtration estimates suggests that to achieve similar adult and paediatric exposure, the recommended dose for children aged six weeks and older could be 8 mg/kg/day.
+
 Pharmacokinetics in pregnancy: Following oral administration, lamivudine pharmacokinetics in late-pregnancy were similar to non-pregnant women.
 
 [Epivir 10 mg/ml oral solution]
