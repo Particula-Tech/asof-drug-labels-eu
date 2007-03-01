@@ -5,7 +5,7 @@ Due to the well known potential of abuse of sodium oxybate, physicians should ev
 
 The recommended starting dose is 4.5 g/day sodium oxybate (9 ml Xyrem) divided into two equal doses of 2.25 g/dose (4.5 ml/dose).
 The dose should be titrated to effect based on efficacy and tolerability (see Section 4.4) up to a maximum of 9 g/day divided into two equal doses of 4.5g/dose (9ml/dose) by adjusting up or down in dose increments of 1.5 g/day (i.e. 0.75 g/dose or 1.5 ml/dose).
-A minimum of two weeks is recommended between dosage increments.
+A minimum of one to two weeks is recommended between dosage increments.
 The dose of 9g/day should not be exceeded due to the possible occurrence of severe symptoms at doses of 18 g/day or above (see section 4.4).
 
 A 10ml measuring syringe and two 90 ml dosing cups are provided with Xyrem.
