@@ -8,6 +8,7 @@ Carcinogenicity studies, and standard assessment of fertility and postnatal toxi
 [Humira 40 mg solution for injection in pre-filled syringe]
 
 Non-clinicaldata reveal no special hazard for humans based on studies of single dose toxicity, repeated dose toxicity, and genotoxicity.
+
 An embryo-foetal developmental toxicity/perinatal developmental study has been performed in cynomologous monkeys at 0, 30 and 100 mg/kg (9-17 monkeys / group) and has revealed no evidence of harm to the foetuses due to adalimumab.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]

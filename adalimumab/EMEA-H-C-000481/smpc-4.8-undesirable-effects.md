@@ -153,8 +153,79 @@ In controlled and open label studies with Humira, serious infections (including 
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
+System Organ Class Frequency Adverse Reaction
+
+| Infections and infestations | Very Common | upper respiratory infection |
+| --- | --- | --- |
+|  | Common | lower respiratory infections (including pneumonia, bronchitis), urinary tract infection, herpetic viral infection (including simplex and zoster), influenza, superficial fungal infections (including skin, nail and foot) |
+|  | Uncommon | sepsis, joint infection, wound infection, abscess, skin infection (including cellulitis and impetigo), hair follicle infections (including furuncles and carbuncles), paronychia, rash pustular, tooth and periodontal infection, ear infections, gastroenteritis, candidiasis, vaginal infection (including fungal), viral and other infections |
+| Neoplasms benign and malignant (including cysts and polyps) | Uncommon | skin papilloma |
+| Blood and the lymphatic system disorders | Common | lymphopenia, anaemia |
+|  | Uncommon | leukopenia, leukocytosis, lymphadenopathy, neutropenia, thrombocytopenia |
+| Immune system disorders | Uncommon | hypersensitivity, seasonal allergy |
+| Metabolism and nutrition disorders | Uncommon | hypercholesterolaemia, hyperuricaemia, anorexia, decreased appetite, hyperglycaemia |
+| Psychiatric disorders | Uncommon | depression, anxiety (including nervousness and agitation), insomnia, confusional state |
+| Nervous system disorders | Common | headache, dizziness, paraesthesias |
+|  | Uncommon | dysgeusia, migraine, somnolence, syncope, tremor, neuralgia, neuropathy |
+| Eye disorders | Uncommon | visual disturbance, conjunctivitis, eye inflammation (including swelling, pain, redness), eyelid oedema, glaucoma, blepharitis (including eyelid margin crusting), dry eye |
+| Ear and labyrinth disorders | Uncommon | vertigo, ear pain or congestion, tinnitus |
+| Cardiac disorders | Uncommon | palpitations, tachycardia |
+| Vascular disorders | Common | hypertension |
+|  | Uncommon | flushing, haematoma |
+| Respiratory, thoracic and mediastinal disorders | Common | cough, nasopharyngeal pain, nasal congestion |
+|  | Uncommon | dyspnoea, asthma, dysphonia, lung crepitation, nasal ulcer, upper respiratory tract congestion, pharyngeal erythema, wheezing |
+| Gastrointestinal disorders | Common | nausea, abdominal pain, diarrhoea, dyspepsia, mouth ulceration |
+|  | Uncommon | vomiting, abdominal bloating, constipation, gastrooesophageal reflux, gastritis, colitis, haemorrhoidal haemorrhage, haemorrhoids, oral blistering, toothache, dry mouth, gingivitis, tongue ulceration, dysphagia, stomatitis (including aphthous stomatitis) |
+| Skin and subcutaneous tissue disorders | Common | rash, pruritus, rash erythematous, rash pruritic, hair loss |
+|  | Uncommon | rash macular or papular, dry skin, eczema, dermatitis, hyperhidrosis, psoriasis, skin lesion, urticaria, ecchymosis and increased bruising, purpura, acne, skin ulcer, angioedema, skin reaction, nail disorder, night sweats, photosensitivity reactions, skin exfoliation |
+| Musculoskeletal, connective tissue and bone disorders | Common | arthritis |
+|  | Uncommon | rheumatoid arthritis, arthralgia, pain in extremity, myalgia, back pain, muscle spasm, joint swelling, psoriatic arthropathy, synovitis, bursitis, flank pain, tendonitis, rheumatoid nodule, shoulder pain |
+| Renal and urinary disorders | Uncommon | haematuria, dysuria, nocturia, pollakiuria, renal pain |
+| Reproductive system and breast disorders | Uncommon | menorrhagia |
+| General disorders and administration site conditions | Very Common | injection site reaction (including pain, swelling, redness or pruritus) |
+|  | Common | fatigue (including asthenia and malaise), influenza like illness |
+|  | Uncommon | pyrexia, feeling hot, chills, chest pain, oedema, impaired healing, pain |
+| Investigations | Common | hepatic enzymes increased (including alanine aminotransferase and aspartate aminotransferase) |
+|  | Uncommon | blood triglycerides increased, activated partial thromboplastin time prolonged, blood alkaline phosphatase increased, blood creatine phosphokinase increased, blood potassium decreased, blood lactate dehydrogenase increased, neutrophil count decreased, weight decreased, weight increased, blood urea increased, blood creatinine increased, protein urine, DNA antibody positive, antinuclear antibody positive, uncharacterised antibody test positive |
+| Injury and poisoning | Uncommon | contusion |
+
 Patients had serum samples tested for autoantibodies at multiple time points in rheumatoid arthritis Studies I − V. In these trials, 11.9% of patients treated with Humira and 8.1% of placeboand active control − treated patients that had negative baseline anti-nuclear antibody titres reported positive titres at week 24.
 
 [Humira 40 mg solution for injection in pre-filled pen]
 
-(all sentences already above)
+| System Organ Class | Frequency | Adverse Reaction |
+| --- | --- | --- |
+| Infections and infestations | Very Common | upper respiratory infection |
+|  | Common | lower respiratory infections (including pneumonia, bronchitis), urinary tract infection, herpetic viral infection (including simplex and zoster), influenza, superficial fungal infections |
+|  | Uncommon | (including skin, nail and foot) sepsis, joint infection, wound infection, abscess, skin infection (including cellulitis and impetigo), hair follicle infections (including furuncles and carbuncles), paronychia, rash pustular, tooth and periodontal infection, ear infections, gastroenteritis, candidiasis, vaginal infection (including fungal), viral and other infections |
+| Neoplasms benign and malignant (including cysts and polyps) | Uncommon | skin papilloma |
+| Blood and the lymphatic system disorders | Common | lymphopenia, anaemia |
+|  | Uncommon | leukopenia, leukocytosis, lymphadenopathy, neutropenia, thrombocytopenia |
+| Immune system disorders | Uncommon | hypersensitivity, seasonal allergy |
+| Metabolism and nutrition disorders | Uncommon | hypercholesterolaemia, hyperuricaemia, anorexia, decreased appetite, hyperglycaemia |
+| Psychiatric disorders | Uncommon | depression, anxiety (including nervousness and agitation), insomnia, confusional state |
+| Nervous system disorders | Common | headache, dizziness, paraesthesias |
+|  | Uncommon | dysgeusia, migraine, somnolence, syncope, tremor, neuralgia, neuropathy |
+| Eye disorders | Uncommon | visual disturbance, conjunctivitis, eye inflammation (including swelling, pain, redness), eyelid oedema, glaucoma, blepharitis (including eyelid margin crusting), dry eye |
+| Ear and labyrinth disorders | Uncommon | vertigo, ear pain or congestion, tinnitus |
+| Cardiac disorders | Uncommon | palpitations, tachycardia |
+
+| Vascular disorders | Common | hypertension |
+| --- | --- | --- |
+|  | Uncommon | flushing, haematoma |
+| Respiratory, thoracic and mediastinal disorders | Common | cough, nasopharyngeal pain, nasal congestion |
+|  | Uncommon | dyspnoea, asthma, dysphonia, lung crepitation, nasal ulcer, upper respiratory tract congestion, pharyngeal erythema, wheezing |
+| Gastrointestinal disorders | Common | nausea, abdominal pain, diarrhoea, dyspepsia, mouth ulceration |
+|  | Uncommon | vomiting, abdominal bloating, constipation, gastrooesophageal reflux, gastritis, colitis, haemorrhoidal haemorrhage, haemorrhoids, oral blistering, toothache, dry mouth, gingivitis, tongue ulceration, dysphagia, stomatitis (including aphthous stomatitis) |
+| Skin and subcutaneous tissue disorders | Common | rash, pruritus, rash erythematous, rash pruritic, hair loss |
+|  | Uncommon | rash macular or papular, dry skin, eczema, dermatitis, hyperhidrosis, psoriasis, skin lesion, urticaria, ecchymosis and increased bruising, purpura, acne, skin ulcer, angioedema, skin reaction, nail disorder, night sweats, photosensitivity reactions, skin exfoliation |
+| Musculoskeletal, connective tissue and bone disorders | Common | arthritis |
+|  | Uncommon | rheumatoid arthritis, arthralgia, pain in extremity, myalgia, back pain, muscle spasm, joint swelling, psoriatic arthropathy, synovitis, bursitis, flank pain, tendonitis, rheumatoid nodule, shoulder pain |
+| Renal and urinary disorders | Uncommon | haematuria, dysuria, nocturia, pollakiuria, renal pain |
+| Reproductive system and breast disorders | Uncommon | menorrhagia |
+| General disorders and administration site conditions | Very Common | injection site reaction (including pain, swelling, redness or pruritus) |
+|  | Common | fatigue (including asthenia and malaise), influenza like illness |
+|  | Uncommon | pyrexia, feeling hot, chills, chest pain, oedema, impaired healing, pain |
+| Investigations | Common | hepatic enzymes increased (including alanine aminotransferase and aspartate aminotransferase) |
+|  | Uncommon | blood triglycerides increased, activated partial thromboplastin time prolonged, blood alkaline phosphatase increased, blood creatine phosphokinase increased, blood potassium decreased, blood lactate dehydrogenase increased, neutrophil count decreased, weight decreased, weight increased, blood urea increased, blood creatinine increased, protein urine, DNA antibody positive, antinuclear antibody positive, uncharacterised antibody test positive |
+| Injury and poisoning | Uncommon | contusion |

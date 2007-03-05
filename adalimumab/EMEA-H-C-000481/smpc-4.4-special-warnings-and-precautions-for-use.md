@@ -41,12 +41,22 @@ There have been reports of serious and severe opportunistic infections associate
 
 If a patient receiving Humira shows prolonged/atypical symptoms/signs of infections or general deterioration, prevalent opportunistic conditions must be considered.
 
+Hepatitis B Reactivation
+
+Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including Humira, who are chronic carriers of this virus.
+Some cases have had fatal outcome.
+Patients at risk for HBV infection should be evaluated for prior evidence of HBV infection before initiating Humira therapy.
+Carriers of HBV who require treatment with Humira should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy.
+Adequate data of treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available.
+In patients who develop HBV reactivation, Humira should be stopped and effective anti-viral therapy with appropriate supportive treatment should be initiated.
+
 Neurological events
 
 TNF-antagonists including Humira have been associated in rare cases with new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disease.
 Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central nervous system demyelinating disorders.
 
 Allergic reactions
+
 Serious allergic adverse reactions have not been reported with subcutaneous administration of Humira during clinical trials.
 Non-serious allergic reactions associated with Humira were uncommon during clinical trials.
 In postmarketing, serious allergic reactions including anaphylaxis have been reported very rarely following Humira administration.
@@ -72,15 +82,12 @@ Thus additional caution should be exercised in considering Humira treatment of t
 In an exploratory clinical trial evaluating the use of another anti-TNF agent, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with increased risk for malignancy due to heavy smoking.
-
 Haematologic reactions
 
 Rare reports of pancytopenia including aplastic anaemia have been reported with TNF blocking agents.
 Adverse events of the haematologic system, including medically significant cytopenia (eg thrombocytopenia, leukopenia) have been infrequently reported with Humira.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (eg persistent fever, bruising, bleeding, pallor) while on Humira.
-Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.
-Vaccinations
-
+Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.Vaccinations
 Similar antibody responses to the standard 23-valent pneumococcal vaccine and the influenza trivalent virus vaccination were observed in a study in 226 adult subjects with rheumatoid arthritis who were treated with adalimumab or placebo.
 No data are available on the secondary transmission of infection by live vaccines in patients receiving Humira.
 Patients on Humira may receive concurrent vaccinations, except for live vaccines.
@@ -118,7 +125,10 @@ Patients must be monitored closely for infections including tuberculosis, before
 
 It is recommended that the conduct of these tests should be recorded in the patient alert card.
 
-Patients on Humira may receive concurrent vaccinations, except for live vaccines.Congestive heart failure
+Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.
+
+Vaccinations
+
 In a clinical trial with another TNF antagonist worsening congestive heart failure and increased mortality due to congestive heart failure have been observed.
 Humira is contraindicated in moderate or severe heart failure (see section 4.3).
 
@@ -126,7 +136,7 @@ The long – half-life of adalimumab should be taken into consideration if a sur
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
-Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.Vaccinations
+(all sentences already above)
 
 [Humira 40 mg solution for injection in pre-filled pen]
 

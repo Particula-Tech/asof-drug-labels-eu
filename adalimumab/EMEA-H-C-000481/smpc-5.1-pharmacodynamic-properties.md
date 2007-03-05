@@ -4,6 +4,7 @@ Pharmacotherapeutic group: Selective immunosuppressive agents.
 ATC code: L04AA17
 
 Mechanism of action
+
 Adalimumab binds specifically to TNF and neutralizes the biological function of TNF by blocking its interaction with the p55 and p75 cell surface TNF receptors.
 
 Adalimumab also modulates biological responses that are induced or regulated by TNF, including changes in the levels of adhesion molecules responsible for leukocyte migration (ELAM-1, VCAM-1, and ICAM-1 with an IC50 of 1-2 X 10-10 M).
@@ -43,6 +44,7 @@ Patients were randomised to 40 mg of Humira or placebo every other week for 24 w
 
 Study V evaluated 799 methotrexate-naïve, adult patients with moderate to severely active early rheumatoid arthritis (mean disease duration less than 9 months).
 This study evaluated the efficacy of Humira 40 mg every other week/methotrexate combination therapy, Humira 40 mg every other week monotherapy and methotrexate monotherapy in reducing the signs and symptoms and rate of progression of joint damage in rheumatoid arthritis for 104 weeks.
+
 The primary end point in Studies I, II and III and the secondary endpoint in Study IV was the percent of patients who achieved an ACR 20 response at week 24 or 26.
 The primary endpoint in Study V was the percent of patients who achieved an ACR 50 response at week 52.
 Study III and V had an additional primary endpoint at 52 weeks of retardation of disease progression (as detected by X-ray results).
@@ -69,7 +71,6 @@ a Study I at 24 weeks, Study II at 26 weeks , and Study III at 24 and 52 weeks b
 In Studies I-IV, all individual components of the ACR response criteria (number of tender and swollen joints, physician and patient assessment of disease activity and pain, disability index (HAQ) scores and CRP (mg/dl) values) improved at 24 or 26 weeks compared to placebo.
 In Study III, these improvements were maintained throughout 52 weeks.
 In addition, ACR response rates were maintained in the majority of patients followed in the open-label extension phase to week 104.
-
 In Study IV, the ACR 20 response of patients treated with Humira plus standard of care was statistically significantly better than patients treated with placebo plus standard of care (p<0.001).
 
 In Studies I-IV, Humira-treated patients achieved statistically significant ACR 20 and 50 responses compared to placebo as early as one to two weeks after initiation of treatment.
@@ -79,11 +80,9 @@ In Study V with early rheumatoid arthritis patients who were methotrexate naïve
 Table 4: ACR Responses in Study V
 (percent of patients)
 
-Response MTX Humira Humira/MTX p-valuea p-valueb p-valuec
-n=257 n=274 n=268
-
-| ACR 20 |  |  |  |  |  |  |
+| Response | MTX n=257 | Humira n=274 | Humira/MTX n=268 | p-valuea | p-valueb | p-valuec |
 | --- | --- | --- | --- | --- | --- | --- |
+| ACR 20 |  |  |  |  |  |  |
 | Week 52 | 62.6% | 54.4% | 72.8% | 0.013 | <0.001 | 0.043 |
 | Week 104 | 56.0% | 49.3% | 69.4% | 0.002 | <0.001 | 0.140 |
 | ACR 50 |  |  |  |  |  |  |
@@ -106,7 +105,10 @@ Data from the open-label extension phase indicate that the reduction in rate of 
 
 Table 5: Radiographic Mean Changes Over 12 Months in Study III
 
-|  | Placebo/ MTXa | HUMIRA/MTX 40 mg every other week | Placebo/MTX-HUMIRA/MTX (95% Confidence Intervalb) | P-value |
+Placebo/ HUMIRA/MTX Placebo/MTX- P-value
+MTXa 40 mg every HUMIRA/MTX
+
+|  |  | other week | (95% Confidence Intervalb) |  |
 | --- | --- | --- | --- | --- |
 | Total Sharp score | 2.7 | 0.1 | 2.6 (1.4, 3.8) | <0.001c |
 | Erosion score | 1.6 | 0.0 | 1.6 (0.9, 2.2) | <0.001 |
@@ -118,13 +120,9 @@ In Study V, structural joint damage was assessed radiographically and expressed 
 
 Table 6: Radiographic Mean Changes at Week 52 in Study V
 
-MTX Humira Humira/MTX
-n=257 n=274 n=268 p-valuea p-valueb p-valuec
-(95% confidence (95% confidence (95% confidence
-interval) interval) interval)
-
-| Total Sharp score | 5.7 (4.2-7.3) | 3.0 (1.7-4.3) | 1.3 (0.5-2.1) | <0.001 | 0.0020 | <0.001 |
+|  | MTX n=257 (95% confidence interval) | Humira n=274 (95% confidence interval) | Humira/MTX n=268 (95% confidence interval) | p-valuea | p-valueb | p-valuec |
 | --- | --- | --- | --- | --- | --- | --- |
+| Total Sharp score | 5.7 (4.2-7.3) | 3.0 (1.7-4.3) | 1.3 (0.5-2.1) | <0.001 | 0.0020 | <0.001 |
 | Erosion score | 3.7 (2.7-4.7) | 1.7 (1.0-2.4) | 0.8 (0.4-1.2) | <0.001 | 0.0082 | <0.001 |
 | JSN score | 2.0 (1.2-2.8) | 1.3 (0.5-2.1) | 0.5 (0-1.0) | <0.001 | 0.0037 | 0.151 |
 
@@ -144,20 +142,12 @@ A statistically significant decrease in fatigue as measured by functional assess
 In Study III, improvement in physical function and quality of life was maintained through week 104 of open-label treatment.
 
 In Study V, the improvement in the HAQ disability index and the physical component of the SF 36 showed greater improvement (p<0.001) for Humira/methotrexate combination therapy versus methotrexate monotherapy and Humira monotherapy at week 52, which was maintained through week 104.
-
-Immunogenicity
-
-Patients in Studies I, II and III were tested at multiple timepoints for antibodies to adalimumab during the 6 to 12 month period.
-In the pivotal trials, anti-adalimumab antibodies were identified in 58/1053 (5.5%) patients treated with adalimumab, compared to 2/370 (0.5%) on placebo.
-In patients not given concomitant methotrexate, the incidence was 12.4%, compared to 0.6% when adalimumab was used as add-on to methotrexate.
-
-Because immunogenicity analyses are product-specific, comparison of antibody rates with those from other products is not appropriate.
-
 Psoriatic arthritis
 
 Humira, 40 mg every other week, was studied in patients with moderately to severely active psoriatic arthritis in two placebo-controlled studies, Studies VI and VII.
 Study VI with 24 week duration, treated 313 adult patients who had an inadequate response to non-steroidal anti-inflammatory drug therapy and of these, approximately 50% were taking methotrexate.
 Study VII with 12-week duration, treated 100 patients who had an inadequate response to DMARD therapy.
+
 There is insufficient evidence of the efficacy of Humira in patients with ankylosing spondylitis-like psoriatic arthropathy due to the small number of patients studied (see Table 7).
 
 Table 7: ACR Response in Placebo-Controlled Psoriatic Arthritis Studies
@@ -189,9 +179,11 @@ Significant response was first observed at Week 2 and maintained through 24 week
 
 Table 8 - Efficacy Responses in Placebo-Controlled AS Study – Study VIII Reduction of Signs and Symptoms
 
-| Response | Placebo N=107 | Humira N=208 |
-| --- | --- | --- |
+Response Placebo Humira
+N=107 N=208
+
 | ASASa 20 |  |  |
+| --- | --- | --- |
 | Week 2 | 16% | 42%*** |
 | Week 12 | 21% | 58%*** |
 | Week 24 | 19% | 51%*** |
@@ -214,6 +206,23 @@ Humira treated patients had significantly greater improvement at Week 12 which w
 
 Similar trends (not all statistically significant) were seen in the smaller randomised, double − blind, placebo controlled study (IX) of 82 adult patients with active ankylosing spondylitis.
 
+Immunogenicity
+
+Formation of anti-adalimumab antibodies is associated with increased clearance and reduced efficacy of adalimumab.
+There is no apparent correlation between the presence of anti-adalimumab antibodies and adverse events.
+
+Patients in Studies I, II and III were tested at multiple timepoints for antibodies to adalimumab during the 6 to 12 month period.
+In the pivotal trials, anti-adalimumab antibodies were identified in 58/1053 (5.5%) patients treated with adalimumab, compared to 2/370 (0.5%) on placebo.
+In patients not given concomitant methotrexate, the incidence was 12.4%, compared to 0.6% when adalimumab was used as add-on to methotrexate.
+
+In patients with psoriatic arthritis, adalimumab antibodies were identified in 38/376 subjects (10%) treated with adalimumab.
+In patients not given concomitant methotrexate, the incidence was 13.5 % (24/178 subjects), compared to 7 % (14 of 198 subjects) when adalimumab was used as add-on to methotrexate.
+
+In patients with ankylosing spondylitis antibodies were identified in 17/204 subjects (8.3%) treated with adalimumab.
+In patients not given concomitant methotrexate, the incidence was 16/185 (8.6%), compared to 1/19 (5.3%) when adalimumab was used as add-on to methotrexate.
+
+Because immunogenicity analyses are product-specific, comparison of antibody rates with those from other products is not appropriate.
+
 [Humira 40 mg solution for injection in pre-filled syringe]
 
 Study I evaluated 271 patients with moderately to severely active rheumatoid arthritis who were
@@ -231,26 +240,34 @@ The results for the 40 mg every other week dose are summarized in Table 3.
 |  | 6.7% 52.4% NA NA | 8.2% 22.1% NA NA | 9.5% 39.1% 9.5 % 41.5 % |
 |  | 3.3% 23.8% NA NA | 1.8% 12.4% NA NA | 2.5% 20.8% 4.5% 23.2% |
 
-| Response | MTX n=257 | Humira n=274 | Humira/MTX n=268 | p-valuea | p-valueb | p-valuec |
-| --- | --- | --- | --- | --- | --- | --- |
-| ACR 20 |  |  |  |  |  |  |
-| Week 52 | 62.6% | 54.4% | 72.8% | 0.013 | <0.001 | 0.043 |
-| Week 104 | 56.0% | 49.3% | 69.4% | 0.002 | <0.001 | 0.140 |
-| ACR 50 |  |  |  |  |  |  |
-| Week 52 | 45.9% | 41.2% | 61.6% | <0.001 | <0.001 | 0.317 |
-| Week 104 | 42.8% | 36.9% | 59.0% | <0.001 | <0.001 | 0.162 |
-| ACR 70 |  |  |  |  |  |  |
-| Week 52 | 27.2% | 25.9% | 45.5% | <0.001 | <0.001 | 0.656 |
-| Week 104 | 28.4% | 28.1% | 46.6% | <0.001 | <0.001 | 0.864 |
-| a. p-value is from the pairwise comparison of methotrexate monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test. b. p-value is from the pairwise comparison of Humira monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test c. p-value is from the pairwise comparison of Humira monotherapy and methotrexate monotherapy using the Mann-Whitney U test |  |  |  |  |  |  |
-
-|  | MTX n=257 (95% confidence interval) | Humira n=274 (95% confidence interval) | Humira/MTX n=268 (95% confidence interval) | p-valuea | p-valueb | p-valuec |
-| --- | --- | --- | --- | --- | --- | --- |
-| Total Sharp score | 5.7 (4.2-7.3) | 3.0 (1.7-4.3) | 1.3 (0.5-2.1) | <0.001 | 0.0020 | <0.001 |
-| Erosion score | 3.7 (2.7-4.7) | 1.7 (1.0-2.4) | 0.8 (0.4-1.2) | <0.001 | 0.0082 | <0.001 |
-| JSN score | 2.0 (1.2-2.8) | 1.3 (0.5-2.1) | 0.5 (0-1.0) | <0.001 | 0.0037 | 0.151 |
+|  | Placebo/ MTXa | HUMIRA/MTX 40 mg every other week | Placebo/MTX-HUMIRA/MTX (95% Confidence Intervalb) | P-value |
+| --- | --- | --- | --- | --- |
+| Total Sharp score | 2.7 | 0.1 | 2.6 (1.4, 3.8) | <0.001c |
+| Erosion score | 1.6 | 0.0 | 1.6 (0.9, 2.2) | <0.001 |
+| JSNd score | 1.0 | 0.1 | 0.9 (0.3, 1.4) | 0.002 |
 
 ACR responses in Study VI were similar with and without concomitant methotrexte therapy.
+
+| Response | Placebo N=107 | Humira N=208 |
+| --- | --- | --- |
+| ASASa 20 |  |  |
+| Week 2 | 16% | 42%*** |
+| Week 12 | 21% | 58%*** |
+| Week 24 | 19% | 51%*** |
+| ASAS 50 |  |  |
+| Week 2 | 3% | 16%*** |
+| Week 12 | 10% | 38%*** |
+| Week 24 | 11% | 35%*** |
+| ASAS 70 |  |  |
+| Week 2 | 0% | 7%** |
+| Week 12 | 5% | 23%*** |
+| Week 24 | 8% | 24%*** |
+| BASDAIb 50 |  |  |
+| Week 2 | 4% | 20%*** |
+| Week 12 | 16% | 45%*** |
+| Week 24 | 15% | 42%*** |
+
+In patients not given concomitant methotrexate, the incidence was 16/185 (8.6%), compared to 1/19 (5.3%) when adalimumab was used as add-on to methotrexateIn patients with psoriatic arthritis, the rate of development of antibodies to adalimumab in adalimumab-treated patients was comparable to patients with rheumatoid arthritis.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
@@ -302,6 +319,14 @@ At week 52, 42.9% of patients who received Humira /methotrexate combination ther
 Humira /methotrexate combination therapy was clinically and statistically superior to methotrexate (p<0.001) and Humira monotherapy (p<0.001) in achieving a low disease state in patients with recently diagnosed moderate to severe rheumatoid arthritis.
 
 Humira /methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months.
+
+other week (95% Confidence
+
+|  |  |  | Intervalb) |  |
+| --- | --- | --- | --- | --- |
+| Total Sharp score | 2.7 | 0.1 | 2.6 (1.4, 3.8) | <0.001c |
+| Erosion score | 1.6 | 0.0 | 1.6 (0.9, 2.2) | <0.001 |
+| JSNd score | 1.0 | 0.1 | 0.9 (0.3, 1.4) | 0.002 |
 
 |  | MTX n=257 (95% confidence interval) | HUMIRA n=274 (95% confidence interval) | HUMIRA/M TX n=268 (95% confidence interval) | p-valuea | p-valueb | p-valuec |
 | --- | --- | --- | --- | --- | --- | --- |

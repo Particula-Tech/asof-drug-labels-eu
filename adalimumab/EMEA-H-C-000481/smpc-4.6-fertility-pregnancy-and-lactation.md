@@ -1,6 +1,7 @@
 # 4.6 Pregnancy and lactation
 
 For Humira, no clinical data on exposed pregnancies are available
+
 In a developmental toxicity study conducted in monkeys, there was no indication of maternal toxicity, embryotoxicity or teratogenicity.
 Preclinical data on postnatal toxicity and fertility effects of adalimumab are not available (see section 5.3).
 
