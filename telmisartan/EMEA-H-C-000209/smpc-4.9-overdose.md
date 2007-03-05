@@ -1,6 +1,5 @@
 # 4.9 Overdose
 
-No case of overdose has been reported.
 The most likely manifestations of telmisartan overdosage are expected to be hypotension and tachycardia; bradycardia might also occur.
 Telmisartan is not removed by haemodialysis.
 The patient should be closely monitored, and the treatment should be symptomatic and supportive.

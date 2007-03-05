@@ -34,7 +34,7 @@ Total plasma clearance (Cltot) is high (approximately 1,000 ml/min) compared wit
 Special Populations
 
 Elderly patients:
-The pharmacokinetics of telmisartan do not differ in young and elderly patients.
+The pharmacokinetics of telmisartan does not differ in young and elderly patients.
 
 Patients with renal impairment:
 In mild to moderate and severe renal impairment patients doubling of plasma concentrations was observed.
@@ -45,3 +45,11 @@ The elimination half-life is not changed in patients with renal impairment.
 Patients with hepatic impairment:
 Pharmacokinetic studies in patients with hepatic impairment showed an increase in absolute bioavailability up to nearly 100 %.
 The elimination half-life is not changed in patients with hepatic impairment.
+
+[Micardis 40 mg tablets]
+
+The pharmacokinetics of telmisartan do not differ in young and elderly patients.
+
+[Micardis 80 mg tablets]
+
+(all sentences already above)

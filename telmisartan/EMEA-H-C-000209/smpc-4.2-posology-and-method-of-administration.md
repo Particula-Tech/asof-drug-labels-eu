@@ -17,4 +17,4 @@ Elderly
 No dosing adjustment is necessary.
 
 Children and adolescents
-Safety and efficacy of Micardis have not been established in children and adolescents up to 18 years.
+Micardis is not recommended for use in children below 18 years due to a lack of data on safety and efficacy.

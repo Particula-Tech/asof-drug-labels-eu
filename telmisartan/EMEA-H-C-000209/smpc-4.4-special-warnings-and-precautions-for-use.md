@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Hepatic impairment:
 Micardis should not be given to patients with cholestasis, biliary obstructive disorders or severe hepatic insufficiency (see section 4.3) since telmisartan is mostly eliminated with the bile.
@@ -18,7 +18,7 @@ Such conditions should be corrected before the administration of Micardis.
 Volume and/or sodium depletion should be corrected prior to administration of Micardis.
 
 Other conditions with stimulation of the renin-angiotensin-aldosterone system:
-In patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with other medicinal products that affect this system has been associated with acute hypotension, hyperazotaemia, oliguria, or rarely acute renal failure.
+In patients whose vascular tone and renal function depend predominantly on the activity of the renin-angiotensin-aldosterone system (e.g. patients with severe congestive heart failure or underlying renal disease, including renal artery stenosis), treatment with medicinal products that affect this system has been associated with acute hypotension, hyperazotaemia, oliguria, or rarely acute renal failure (see section 4.8).
 
 Primary aldosteronism:
 Patients with primary aldosteronism generally will not respond to antihypertensive medicinal products acting through inhibition of the renin-angiotensin system.
@@ -27,11 +27,16 @@ Therefore, the use of telmisartan is not recommended.
 Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy:
 As with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
 
-Electrolyte imbalance: Hyperkalaemia:
-During treatment with other medicinal products that affect the renin-angiotensin-aldosterone system hyperkalaemia may occur, especially in the presence of renal impairment and/or heart failure and diabetes mellitus.
-Adequate monitoring of serum potassium in patients at risk is recommended.
-
-Based on experience with the use of other medicinal products that affect the renin-angiotensin system, concomitant use with potassium-sparing diuretics, potassium supplements, salt substitutes containing potassium or other medicinal products that may increase the potassium level (heparin, etc.) may lead to an increase in serum potassium and should therefore be co-administered cautiously with Micardis (see section 4.5).
+Hyperkalaemia:
+The use of medicinal products that affect the renin-angiotensin-aldosterone system may cause hyperkalaemia.
+In the elderly, in patients with renal insufficiency, in diabetic patients, in patients concomitantly treated with other medicinal products that may increase potassium levels, and/or in patients with intercurrent events, hyperkalaemia may be fatal.
+Before considering the concomitant use of medicinal products that affect the renin-angiotensin-aldosterone system, the benefit risk ratio should be evaluated.
+The main risk factors for hyperkalaemia to be considered are:
+- Diabetes mellitus, renal impairment, age (> 70 years)
+- Combination with one or more other medicinal products that affect the renin-angiotensin-aldosterone system and/or potassium supplements.
+Medicinal products or therapeutic class of medicinal products that may provoke hyperkalaemia: salt substitutes containing potassium, potassium-sparing diuretics, ACE inhibitors, angiotensin II receptors antagonists, non steroidal anti-inflammatory drugs (including selective COX-2 inhibitors), heparin, immunosuppressor (cyclosporin or tacrolimus), trimethoprim.
+- Intercurrent events, in particular dehydratation, acute cardiac decompensation, metabolic acidosis, worsening of renal function, sudden worsening of the renal condition (e.g. infectious diseases), cellular lysis (e.g. acute limb ischemia, rhabdomyolysis, extend trauma).
+Close-monitoring of serum potassium in at risk patients is recommended (see section 4.5).
 Sorbitol:
 A recommended daily dose of Micardis 20 mg tablets contains 84.5 mg sorbitol.
 Patients with hereditary problems of fructose intolerance should not take Micardis.
@@ -43,6 +48,7 @@ As with any antihypertensive agent, excessive reduction of blood pressure in pat
 
 [Micardis 40 mg tablets]
 
+- Intercurrent events, in particular dehydratation, acute cardiac decompensation, metabolic acidosis, worsening of renal function, sudden worsening of the renal condition (e.g. infectious diseases), cellular lysis (e.g, acute limb ischemia, rhabdomyolysis, extend trauma).
 A recommended daily dose of Micardis 40 mg tablets contains 169 mg sorbitol.
 
 [Micardis 80 mg tablets]
