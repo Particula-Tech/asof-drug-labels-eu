@@ -3,6 +3,7 @@
 Under physiological conditions, ivabradine is rapidly released from tablets and is highly water-soluble (>10 mg/ml).
 Ivabradine is the S-enantiomer with no bioconversion demonstrated in vivo.
 The N-desmethylated derivative of ivabradine has been identified as the main active metabolite in humans.
+
 Absorption and bioavailability
 Ivabradine is rapidly and almost completely absorbed after oral administration with a peak plasma level reached in about 1 hour under fasting condition.
 The absolute bioavailability of the film-coated tablets is around 40%, due to first-pass effect in the gut and liver.

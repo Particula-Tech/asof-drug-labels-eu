@@ -4,7 +4,6 @@ Pharmacotherapeutic group: other cardiac preparations, ATC code: C01EB17.
 
 Ivabradine is a pure heart rate lowering agent, acting by selective and specific inhibition of the cardiac pacemaker If current that controls the spontaneous diastolic depolarisation in the sinus node and regulates heart rate.
 The cardiac effects are specific to the sinus node with no effect on intra-atrial, atrioventricular or intraventricular conduction times, nor on myocardial contractility or ventricular repolarisation.
-
 Ivabradine can interact also with the retinal current Ih which closely resembles cardiac If.
 It participates in the temporal resolution of the visual system, by curtailing the retinal response to bright light stimuli.
 Under triggering circumstances (e.g. rapid changes in luminosity), partial inhibition of Ih by ivabradine underlies the luminous phenomena that may be occasionally experienced by patients.

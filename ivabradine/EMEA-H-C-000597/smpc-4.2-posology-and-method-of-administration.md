@@ -22,4 +22,4 @@ Caution should be exercised when using ivabradine in patients with moderate hepa
 Ivabradine is contra-indicated for use in patients with severe hepatic insufficiency, since it has not been studied in this population and a large increase in systemic exposure is anticipated (see sections 4.3 and 5.2).
 
 Children and adolescents
-Procoralan is not recommended in children and adolescents as the efficacy and safety of ivabradine have not been studied in these populations.
+Procoralan is not recommended for use in children and adolescents due to a lack of data on safety and efficacy.

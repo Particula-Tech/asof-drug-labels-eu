@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Special warnings
 
@@ -32,9 +32,6 @@ To date, there is no evidence of a toxic effect of ivabradine on the retina, but
 Cessation of treatment should be considered if any unexpected deterioration in visual function occurs.
 Caution should be exercised in patients with retinitis pigmentosa.
 
-Excipients
-Since tablets contain lactose, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
-
 Precautions for use
 
 Patients with hypotension
@@ -54,3 +51,6 @@ Caution should be exercised when using ivabradine in patients with moderate hepa
 
 Use in patients with severe renal insufficiency
 Caution should be exercised when using ivabradine in patients with severe renal insufficiency (creatinine clearance < 15 ml/min) (see section 4.2).
+
+Excipients
+Since tablets contain lactose, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

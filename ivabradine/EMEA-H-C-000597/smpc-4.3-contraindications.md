@@ -1,6 +1,6 @@
 # 4.3 Contraindications
 
-- Hypersensitivity to ivabradine or to any of the excipients (see section 6.1)
+- Hypersensitivity to the active substance or to any of the excipients (see section 6.1)
 - Resting heart rate below 60 beats per minute prior to treatment
 - Cardiogenic shock
 - Acute myocardial infarction
