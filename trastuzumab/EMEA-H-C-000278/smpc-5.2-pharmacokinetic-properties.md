@@ -20,7 +20,6 @@ In clinical trials where a loading dose of 4 mg/kg trastuzumab followed by a sub
 
 The effects of patient characteristics (such as age or serum creatinine) on the disposition of trastuzumab have been evaluated.
 The data suggest that the disposition of trastuzumab is not altered in any of these groups of patients (see 4.2), however, studies were not specifically designed to investigate the impact of renal impairment upon pharmacokinetics.
-
 Volume of Distribution
 In all clinical studies, volume of distribution approximated serum volume, 2.95 L.
 

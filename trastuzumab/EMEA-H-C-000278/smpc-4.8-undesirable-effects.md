@@ -161,10 +161,10 @@ In the Herceptin plus docetaxel arm, 64 % had received a prior anthracycline com
 In the HERA trial, NYHA class III-IV heart failure was observed in 0.6 % of patients in the one-year arm.
 Asymptomatic or mildly symptomatic NYHA class I – II events were observed in 3.0% of patients in the Herceptin arm compared to 0.5% of patients in the observation arm.
 The percentage of patients with at least one significant LVEF drop (decrease of ≥ 10 EF points and to < 50%) during the study was 7.4% in the 1 year Herceptin arm versus 2.3% in the observation arm.
-
 Haematological toxicity
 Haematological toxicity was infrequent following the administration of Herceptin as a single agent in the metastatic setting, WHO Grade 3 leucopenia, thrombocytopenia and anaemia occurring in < 1 % of patients.
 No WHO Grade 4 toxicities were observed.
+
 There was an increase in WHO Grade 3 or 4 haematological toxicity in patients treated with the combination of Herceptin and paclitaxel compared with patients receiving paclitaxel alone (34 % versus 21 %).
 Haematological toxicity was also increased in patients receiving Herceptin and docetaxel, compared with docetaxel alone (32 % grade 3/4 neutropenia versus 22 %, using NCI-CTC criteria).
 Note that this is likely to be an underestimate since docetaxel alone at a dose of 100mg/m2 is known to result in neutropenia in 97 % of patients, 76% grade 4, based on nadir blood counts.

@@ -39,7 +39,6 @@ Such methods must clearly be precise and accurate enough to demonstrate overexpr
 
 Clinical Data
 Herceptin has been used in clinical trials as monotherapy for patients with metastatic breast cancer who have tumours that overexpress HER2 and who have failed one or more chemotherapy regimens for their metastatic disease (Herceptin alone).
-
 Herceptin has also been used in combination with paclitaxel or docetaxel for the treatment of patients who have not received chemotherapy for their metastatic disease.
 Patients who had previously received anthracycline-based adjuvant chemotherapy were treated with paclitaxel (175 mg/m2 infused over 3 hours) with or without Herceptin.
 In the pivotal trial of docetaxel (100 mg/m2 infused over 1 hour) with or without Herceptin, 60 % of the patients had received prior anthracycline-based adjuvant chemotherapy.
@@ -81,7 +80,6 @@ Study H0649g: IHC3+ patient subset
 Study H0648g: IHC3+ patient subset
 3.
 Study M77001: Full analysis set (intent-to-treat)
-
 EBC
 
 Early breast cancer is defined as non-metastatic primary invasive carcinoma of the breast.
@@ -112,5 +110,6 @@ After Herceptin and paclitaxel therapy for metastatic breast cancer in patients 
 | Abdomen Bone Chest Liver Lung Dist. Node Mediastinum CNS Other | 0 17.2 5.7 21.8 16.1 3.4 4.6 12.6 4.6 | 0 16.3 13.0 45.7 18.5 6.5 2.2 6.5 9.8 | - 0.986 0.250 0.004 0.915 0.643 0.667 0.377 0.410 |
 
 *Patients may have had multiple sites of disease progression
+
 The frequency of progression in the liver was significantly reduced in patients treated with the combination of Herceptin and paclitaxel.
 More patients treated with Herceptin and paclitaxel progressed in the central nervous system than those treated with paclitaxel alone.

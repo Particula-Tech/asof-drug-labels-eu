@@ -6,6 +6,7 @@ Each vial of Herceptin is reconstituted with 7.2 ml of sterile water for injecti
 Use of other reconstitution solvents should be avoided.
 This yields a 7.4 ml solution for single-dose use, containing approximately 21 mg/ml trastuzumab, at a pH of approximately 6.0.
 A volume overage of 4 % ensures that the labelled dose of 150 mg can be withdrawn from each vial.
+
 Herceptin should be carefully handled during reconstitution.
 Causing excessive foaming during reconstitution or shaking the reconstituted Herceptin may result in problems with the amount of Herceptin that can be withdrawn from the vial.
 Instructions for Reconstitution:
@@ -35,5 +36,4 @@ The bag should be gently inverted to mix the solution in order to avoid foaming.
 Parenteral solutions should be inspected visually for particulates and discoloration prior to administration.
 Once the infusion is prepared it should be administered immediately.
 If diluted aseptically, it may be stored for 24 hours (do not store above 30°C).
-
 No incompatibilities between Herceptin and polyvinylchloride or polyethylene bags have been observed.
