@@ -3,6 +3,7 @@
 Administration of pemetrexed to pregnant mice resulted in decreased foetal viability, decreased foetal weight, incomplete ossification of some skeletal structures and cleft palate.
 
 Administration of pemetrexed to male mice resulted in reproductive toxicity characterised by reduced fertility rates and testicular atrophy.
+In a study conducted in beagle dog by intravenous bolus injection for 9 months, testicular findings (degeneration/necrosis of the seminiferous epithelium) have been observed.
 This suggests that pemetrexed may impair male fertility.
 Female fertility was not investigated.
 

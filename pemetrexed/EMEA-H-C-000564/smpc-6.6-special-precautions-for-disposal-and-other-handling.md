@@ -2,6 +2,7 @@
 
 1.
 Use aseptic technique during the reconstitution and further dilution of pemetrexed for intravenous infusion administration.
+
 2.
 Calculate the dose and the number of ALIMTA vials needed.
 Each vial contains an excess of pemetrexed to facilitate delivery of label amount.
