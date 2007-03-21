@@ -2,4 +2,5 @@
 
 No studies on the effects on the ability to drive and use machines have been performed.
 
-Dizziness and somnolence can occur (see section 4.8), which may affect some patients’ ability to drive and/or operate machinery.
+INVANZ may influence patients' ability to drive and use machines.
+Patients should be informed that dizziness and somnolence have been reported with INVANZ (see section 4.8).

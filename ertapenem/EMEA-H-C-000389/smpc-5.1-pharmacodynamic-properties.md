@@ -2,8 +2,6 @@
 
 General properties
 
-ATC classification
-
 Pharmacotherapeutic group: carbapenems, ATC code: J01D H03
 
 Mode of action
@@ -38,8 +36,8 @@ The NCCLS MIC breakpoints are as follows:
 (NB: the breakpoint values for staphylococci and S. pneumoniae are applicable only to methicillin-susceptible staphylococci and penicillin-susceptible pneumococci, respectively)
 
 The prescribers are informed that local MIC breakpoints, if available, should be consulted.
-
 Microbiological Susceptibility
+
 The prevalence of acquired resistance may vary geographically and with time for selected species and local information on resistance is desirable, particularly when treating severe infections.
 Localized clusters of infections due to carbapenem-resistant organisms have been reported in the European Union.
 The information below gives only approximate guidance on the probability as to whether the micro-organism will be susceptible to ertapenem or not.
@@ -96,7 +94,6 @@ Legionella species
 † The efficacy of INVANZ in the treatment of community acquired pneumonia due to penicillin-resistant Streptococcus pneumoniae has not been established.
 + frequency of acquired resistance > 50 % in some Member States
 # Methicillin-resistant staphylococci (including MRSA) are always resistant to betalactams.
-
 Information from clinical studies
 
 Efficacy in Pediatric Studies

@@ -14,8 +14,8 @@ Average plasma concentrations of ertapenem following a single 30 minute intraven
 113.2 micrograms/ml (Cmax) at 0.5 hour postdose (end of infusion), 12.8 micrograms/ml at 6 hour postdose, and 3.0 micrograms/ml at 12 hour postdose.
 
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 20 mg/kg (up to a maximum dose of 1 g) dose in patients 13 to 17 years of age were 170.4 micrograms/ml (Cmax) at 0.5 hour postdose (end of infusion), 7.0 micrograms/ml at 12 hour postdose, and 1.1 microgram/ml at 24 hour postdose.
-
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 1 g dose in three patients 13 to 17 years of age were 155.9 micrograms/ml (Cmax) at 0.5 hour postdose (end of infusion), and 6.2 micrograms/ml at 12 hour postdose.
+
 Distribution
 Ertapenem is highly bound to human plasma proteins.
 In healthy young adults (25 to 45 years of age), the protein binding of ertapenem decreases, as plasma concentrations increase, from approximately 95 % bound at an approximate plasma concentration of < 50 micrograms/ml to approximately 92 % bound at an approximate plasma concentration of 155 micrograms/ml (average concentration achieved at the end of infusion following 1 g intravenously).
@@ -51,7 +51,6 @@ Special Populations
 
 Gender
 The plasma concentrations of ertapenem are comparable in men and women.
-
 Elderly
 Plasma concentrations following a 1 g and 2 g intravenous dose of ertapenem are slightly higher (approximately 39 % and 22 %, respectively) in healthy elderly adults (≥ 65 years) relative to young adults (< 65 years).
 In the absence of advanced renal insufficiency, no dosage adjustment is necessary in elderly patients.

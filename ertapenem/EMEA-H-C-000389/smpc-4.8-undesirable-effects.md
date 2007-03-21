@@ -23,13 +23,12 @@ For patients who received only INVANZ, the most frequently reported laboratory a
 
 For patients who received only INVANZ, the following adverse reactions were reported during therapy plus follow-up for 14 days after treatment was stopped:
 
-Common = ≥ 1/100, < 1/10; Uncommon = > 1/1,000, < 1/100; Rare = > 1/10,000, < 1/1,000;
-Very rare = < 1/10,000
+Common (≥1/100 to < 1/10); Uncommon (≥ 1/ 1000 to < 1/100); Rare (≥ 1/ 10,000 to < 1/1000); Very rare (< 1/ 10,000)
 
 |  | Adults 18 years of age and older | Children and adolescents (3 months to 17 years of age) |
 | --- | --- | --- |
 | Infections and infestations: | Uncommon: Oral candidiasis |  |
-| Blood and the lymphatic disorders: | Rare: Neutropenia, thrombocytopenia |  |
+| Blood and lymphatic disorders: | Rare: Neutropenia, thrombocytopenia |  |
 | Metabolism and nutrition disorders: | Uncommon: Anorexia Rare: Hypoglycaemia |  |
 | Nervous system disorders: | Common: Headache Uncommon: Dizziness, somnolence, insomnia, confusion, seizure (see section 4.4) Rare: Agitation, anxiety, depression, tremor | Uncommon: Headache |
 | Cardiac Disorders: | Uncommon: Sinus bradycardia Rare: Arrhythmia, tachycardia |  |
@@ -38,7 +37,7 @@ Very rare = < 1/10,000
 | Gastrointestinal disorders: | Common: Diarrhoea, nausea, vomiting Uncommon: Constipation, pseudomembranous enterocolitis, acid regurgitation, dry mouth, dyspepsia Rare: Dysphagia, faecal incontinence | Common: Diarrhoea Uncommon: Faeces discoloured, melaena |
 | Hepato-biliary disorders: | Rare: Cholecystitis, jaundice, liver disorder |  |
 | Skin and subcutaneous tissue disorders: | Common: Rash, pruritus Uncommon: Erythema, urticaria Rare: Dermatitis, dermatomycosis, desquamation, postoperative wound infection | Common: Diaper dermatitis Uncommon: Erythema, rash |
-| Musculoskeletal, connective tissue and bone disorders: | Rare: Muscle cramp, shoulder pain |  |
+| Musculoskeletaland connective tissue disorders: | Rare: Muscle cramp, shoulder pain |  |
 | Renal and urinary disorders: | Rare: Urinary tract infection, renal insufficiency, acute renal insufficiency |  |
 | Reproductive system and breast disorders: | Uncommon: Vaginitis Rare: Abortion, genital bleeding |  |
 
@@ -46,8 +45,7 @@ Very rare = < 1/10,000
 | --- | --- | --- |
 | Laboratory test findings: |  |  |
 | Chemistry: | Common: Elevations in ALT, AST, alkaline phosphatase Uncommon: Increases in total serum bilirubin, direct serum bilirubin, indirect serum bilirubin, serum creatinine, serum urea, serum glucose Rare: Decreases in serum bicarbonate, serum creatinine, and serum potassium; increases in serum LDH, serum phosphorus, serum potassium | Common: Elevations in ALT and AST |
-| Haematology: | Common: Elevation in platelet count | Common: Decreases in neutrophil count |
-|  | Uncommon: Decreases in white blood cells, platelet count, segmented neutrophils, haemoglobin and haematocrit; increases in eosinophils, activated partial thromboplastin time, prothrombin time, segmented neutrophils, and white blood cells Rare: Decrease in lymphocytes; increases in band neutrophils, lymphocytes, metamyelocytes, monocytes, myelocytes; atypical lymphocytes | Uncommon: Increases in platelet count, activated partial thromboplastin time, prothrombin time, decreases in haemoglobin |
+| Haematology: | Common: Elevation in platelet count Uncommon: Decreases in white blood cells, platelet count, segmented neutrophils, haemoglobin and haematocrit; increases in eosinophils, activated partial thromboplastin time, prothrombin time, segmented neutrophils, and white blood cells Rare: Decrease in lymphocytes; increases in band neutrophils, lymphocytes, metamyelocytes, monocytes, myelocytes; atypical lymphocytes | Common: Decreases in neutrophil count Uncommon: Increases in platelet count, activated partial thromboplastin time, prothrombin time, decreases in haemoglobin |
 | Urinalysis: | Uncommon: Increases in urine bacteria, urine white blood cells, urine epithelial cells, and urine red blood cells; urine yeast present Rare: Increase in urobilinogen |  |
 | Miscellaneous: | Uncommon: Positive Clostridium difficile toxin |  |
 | Post Marketing Experience: |  |  |

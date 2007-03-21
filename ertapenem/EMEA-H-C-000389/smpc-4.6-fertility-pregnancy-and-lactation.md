@@ -5,4 +5,4 @@ Animal studies do not indicate direct or indirect harmful effects with respect t
 However, ertapenem should not be used during pregnancy unless the potential benefit outweighs the possible risk to the foetus.
 
 Ertapenem is excreted in human milk.
-Because of the potential for adverse effects on the infant, mothers should not breast-feed their infants while receiving ertapenem.
+Because of the potential for adverse reactions on the infant, mothers should not breast-feed their infants while receiving ertapenem.
