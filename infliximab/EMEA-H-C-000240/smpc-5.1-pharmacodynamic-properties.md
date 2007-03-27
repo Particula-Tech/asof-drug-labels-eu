@@ -9,7 +9,7 @@ In vivo, infliximab rapidly forms stable complexes with human TNFα, a process t
 
 Elevated concentrations of TNFα have been found in the joints of rheumatoid arthritis patients and correlate with elevated disease activity.
 In rheumatoid arthritis, treatment with infliximab reduced infiltration of inflammatory cells into inflamed areas of the joint as well as expression of molecules mediating cellular adhesion, chemoattraction and tissue degradation.
-After infliximab treatment, patients exhibited decreased levels of serum interleukin 6 (IL-6) and C-reactive protein (CRP) compared with baseline.
+After infliximab treatment, patients exhibited decreased levels of serum interleukin 6 (IL-6) and C-reactive protein (CRP), and increased haemoglobin levels in rheumatoid arthritis patients with reduced haemoglobin levels, compared with baseline.
 Peripheral blood lymphocytes further showed no significant decrease in number or in proliferative responses to in vitro mitogenic stimulation when compared with untreated patients’ cells.
 In psoriasis patients, treatment with infliximab resulted in decreases in epidermal inflammation and normalization of keratinocyte differentiation in psoriatic plaques.
 In psoriatic arthritis, short term treatment with Remicade reduced the number of T-cells and blood vessels in the synovium and psoriatic skin.
@@ -61,6 +61,7 @@ e: HAQ = Health Assessment Questionnaire; greater values indicate less disabilit
 The ASPIRE trial evaluated responses at 54 weeks in 1004 methotrexate naive patients with early (≤3 years disease duration, median 0.6 years) active rheumatoid arthritis (median swollen and tender joint count of 19 and 31, respectively).
 All patients received methotrexate (optimised to 20 mg/wk by week 8) and either placebo, 3 mg/kg or 6 mg/kg infliximab at weeks 0, 2, and 6 and every 8 weeks thereafter.
 Results from week 54 are shown in Table 4.
+
 After 54 weeks of treatment, both doses of infliximab + methotrexate resulted in statistically significantly greater improvement in signs and symptoms compared to methotrexate alone as measured by the proportion of patients achieving ACR20, 50 and 70 responses.
 
 In ASPIRE, more than 90% of patients had at least two evaluable x-rays.
@@ -100,6 +101,7 @@ At week 4, following a single dose of study medication, 22/27 (81%) of inflixima
 Also at week 4, 13/27 (48%) of infliximab-treated patients achieved a clinical remission (CDAI < 150) vs. 1/25 (4%) of placebo-treated patients.
 A response was observed within 2 weeks, with a maximum response at 4 weeks.
 At the last observation at 12 weeks, 13/27 (48%) of infliximab-treated patients were still responding.
+
 Maintenance treatment in severe active Crohn’s disease
 The efficacy of repeated infusions with infliximab was studied in a 1-year clinical study.
 A total of 573 patients with active Crohn’s disease (CDAI ≥ 220 ≤ 400) received a single infusion of 5 mg/kg at week 0.
@@ -189,7 +191,6 @@ From baseline through week 30 in the pooled data from ACT 1 and ACT 2, the mean 
 No notable differences were observed between the 5 mg/kg and 10 mg/kg infliximab treatment groups.
 
 A greater proportion of patients in the combined infliximab treatment group were able to discontinue corticosteroids while remaining in clinical remission compared to the placebo treatment group at both week 30 (22.3% vs. 7.2%, p ≤ 0.001) and week 54 (21.0% vs. 8.9%, p=0.022).
-
 Ankylosing spondylitis
 Efficacy and safety were studied in a double-blind, placebo-controlled investigator initiated, multicentre study evaluating infliximab in 70 patients with active ankylosing spondylitis (disease activity [Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) score > 4] and pain [NRS score >4]).
 During the 3 month double-blind phase, patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6 (35 patients in each group).
@@ -215,7 +216,6 @@ At week 24, all placebo-treated patients crossed over to infliximab induction.
 Dosing continued for all patients through week 46.
 
 Key efficacy results for IMPACT and IMPACT 2 are shown in table 6 below:
-
 Table 6: Effects on ACR and PASI in IMPACT and IMPACT 2
 
 IMPACT IMPACT 2*
@@ -276,6 +276,7 @@ Prior therapy with PUVA, methotrexate, cyclosporin, or acitretin had been receiv
 Key results are presented in Table 7.
 In infliximab treated subjects, significant PASI 50 responses were apparent at the first visit (week 2) and PASI 75 responses by the second visit (week 6).
 Efficacy was similar in the subgroup of patients that were exposed to previous systemic therapies compared to the overall study population.
+
 Table 7
 Summary of PASI response and PGA score at Weeks 10, 24 and 50.
 EXPRESS.

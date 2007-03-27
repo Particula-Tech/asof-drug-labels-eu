@@ -22,6 +22,7 @@ Treatment of moderately to severely active ulcerative colitis in patients who ha
 Ankylosing spondylitis:
 Remicade is indicated for:
 Treatment of ankylosing spondylitis, in patients who have severe axial symptoms, elevated serological markers of inflammatory activity and who have responded inadequately to conventional therapy.
+
 Psoriatic arthritis:
 Remicade is indicated for:
 Treatment of active and progressive psoriatic arthritis in adults when the response to previous disease-modifying anti-rheumatic drug therapy has been inadequate.

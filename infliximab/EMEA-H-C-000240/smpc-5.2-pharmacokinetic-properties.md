@@ -8,7 +8,6 @@ Unchanged infliximab was not detected in urine.
 No major age- or weight-related differences in clearance or volume of distribution were observed in rheumatoid arthritis patients.
 The pharmacokinetics of infliximab in elderly patients has not been studied.
 Studies have not been performed in patients with liver or renal disease.
-
 At single doses of 3, 5, or 10 mg/kg, the median Cmax values were 77, 118 and 277 micrograms/ml, respectively.
 The median terminal half-life at these doses ranged from 8 to 9.5 days.
 In most patients, infliximab could be detected in the serum for at least 8 weeks after the recommended single dose of 5 mg/kg for Crohn’s disease and the rheumatoid arthritis maintenance dose of 3 mg/kg every 8 weeks.
