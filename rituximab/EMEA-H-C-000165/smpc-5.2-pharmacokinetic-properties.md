@@ -14,6 +14,7 @@ B cells at baseline.
 Typically, rituximab was detectable for 3 to 6 months.
 
 Elimination and distribution have not been extensively studied in patients with diffuse large B cell non-Hodgkin's Lymphoma, but available data indicate that serum levels of rituximab in these patients are comparable to those in patients with follicular non-Hodgkin's Lymphoma following treatment with similar doses.
+
 Rheumatoid Arthritis
 
 Following two intravenous infusions of rituximab at a dose of 1000 mg, two weeks apart, the mean terminal half-life was 20.8 days (range, 8.58 to 35.9 days), mean systemic clearance was 0.23 L/day (range, 0.091 to 0.67 L/day), and mean steady-state distribution volume was 4.6 L (range, 1.7 to 7.51 L). Population pharmacokinetic analysis of the same data gave similar mean values for systemic clearance and half-life, 0.26 L/day and 20.4 days, respectively.

@@ -119,7 +119,7 @@ Primary Efficacy
 1) Estimates were calculated by hazard ratios
 2) Last tumour response as assessed by the investigator.
 The “primary” statistical test for “response” was the trend test of CR versus PR versus non-response (p < 0.0001)
-Abbreviations: NA, not available; NR, not reached; mo, months; ORR: overall response rate; CR: complete response; PR: partial response; OS: overal survival; PFS: progression free survival
+Abbreviations: NA, not available; ORR: overall response rate; CR: complete response; PR: partial response
 
 For patients randomized to the maintenance phase of the trial, the median observation time was 28 months from maintenance randomisation.
 Maintenance treatment with MabThera led to a clinically relevant and statistically significant improvement in the primary endpoint, PFS, (time from maintenance randomisation to relapse, disease progression or death) when compared to observation alone (p< 0.0001 log-rank test).The median PFS was 42.2 months in the MabThera maintenance arm compared to 14.3 months in the observation arm.
@@ -177,6 +177,8 @@ Eligible patients had active rheumatoid arthritis for at least 6 months, diagnos
 The primary endpoint was the percent of patients who achieved an ACR20 response at week 24.
 Patients received two 1000 mg IV infusions of MabThera, each following an IV infusion of 100 mg methylprednisone and separated by an interval of 15 days.
 All patients received concomitant oral methotrexate (10-25 mg/week) and 60 mg oral prednisone on days 2-7 and 30 mg on days 8-14 following the first infusion.
+Patients were followed beyond week 24 for long term endpoints, including radiographic assessment at 56 weeks.
+During this time 81% of patients, from the original placebo group received rituximab between weeks 24 an 56, under an open label extension study protocol.
 
 Study 2 was a randomized, double-blind, double-dummy, controlled, 3 x 3 multifactorial study which compared two different dose levels of rituximab given with or without one of two peri infusional corticosteroid regimens in combination with weekly methotrexate in patients with active rheumatoid arthritis which had not responded to treatment with at least 5 other DMARDs.
 
@@ -205,13 +207,29 @@ Table 10 Cross-Study Comparison of ACR Responses at Week 24 (ITT Population)
 In study 3, the ACR20 response in patients treated with rituximab alone was 65 % compared with 38 % on methotrexate alone (p=0.025).
 
 Rituximab treated patients had a significantly greater reduction in disease activity score (DAS28) than patients treated with methotrexate alone (Mean change in DAS28 from baseline -1.9 vs -0.4, p<0.0001, respectively).
-A good to moderate EULAR response was achieved by significantly more rituximab treated patients compared to patients treated with methotrexate alone (Table 11).
+A good to moderate EULAR response was achieved by significantly more rituximab treated patients compared to patients treated with methotrexate alone (Table 12).
+
+Radiographic Response
+
+In Study 1, conducted in patients with inadequate response or intolerance to one or more TNF inhibitor therapies, structural joint damage was assessed radiographically and expressed as change in modified total Sharp score and its components, the erosion score and joint space narrowing score.
+Patients originally receiving rituximab/MTX demonstrated significantly less radiographic progression than patients originally receiving methotrexate alone at 56 weeks.
+Of the patients originally receiving methotrexate alone, 81% received rituximab either as rescue between weeks 16-24 or in the extension trial, before week 56.
+A higher proportion of patients receiving the original rituximab/MTX treatment also had no erosive progression over 56 weeks (Table 11).
+
+Table 11 Radiographic mean changes over 56 weeks in Study 1
+
+|  | Placebo+MTX | Rituximab +MTX 2 × 1g |
+| --- | --- | --- |
+| Study 1 | (n = 184) | (n = 273) |
+| Total Sharp score | 2.31 | 1.00 p=0.0046 |
+| Erosion Score | 1.32 | 0.59 p=0.0114 |
+| Joint Space narrowing score | 0.99 | 0.41 p=0.0006 |
+| Proportion of patients with no erosive progression over 56 weeks | 52% | 61% p=0.0494 |
 
 Quality of Life Outcomes
+Significant reductions in disability index (HAQ-DI), fatigue (FACIT-F) (Table 12), and improvement in both the physical and mental health domains of the SF-36 were observed in patients treated with rituximab compared to patients treated with methotrexate alone (SF-36 Physical 5.8 vs 0.9, SF-36 Mental 4.7 vs 1.3, respectively, Study 1).
 
-Significant reductions in disability index (HAQ-DI), fatigue (FACIT-F) (Table 11), and improvement in both the physical and mental health domains of the SF-36 were observed in patients treated with rituximab compared to patients treated with methotrexate alone (SF-36 Physical 5.8 vs 0.9, SF-36 Mental 4.7 vs 1.3, respectively, Study 1).
-
-Table 11 Disease Activity and Quality of Life Outcomes at Week 24 in Study 1
+Table 12 Disease Activity and Quality of Life Outcomes at Week 24 in Study 1
 
 | Week 24 reponse: Change from baseline | Placebo+MTX1 N= 201 mean (SD) | Rituximab+MTX1 N= 298 mean (SD) switch | p-value |
 | --- | --- | --- | --- |
@@ -253,3 +271,5 @@ Mean change in DAS28 from original baseline: first course -2.18, second course -
 [MabThera 500 mg concentrate for solution for infusion.]
 
 NR: not reached since the Kaplan-Meier estimates of event-free rates were above 50 % during the entire observation period of the study
+
+During this time 81% of patients from the original placebo group received rituximab between weeks 24 and 56, under an open label extension study protocol.
