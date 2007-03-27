@@ -40,6 +40,7 @@ Concentrations of atazanavir with or without ritonavir are expected to be increa
 
 Age/Gender: a study of the pharmacokinetics of atazanavir was performed in 59 healthy male and female subjects (29 young, 30 elderly).
 There were no clinically important pharmacokinetic differences based on age or gender.
+
 Race: a population pharmacokinetic analysis of samples from Phase II clinical trials indicated no effect of race on the pharmacokinetics of atazanavir.
 
 Infants, toddlers, children, and adolescents: the pharmacokinetics of atazanavir is being studied after multiple doses in paediatric patients, stratified by age.

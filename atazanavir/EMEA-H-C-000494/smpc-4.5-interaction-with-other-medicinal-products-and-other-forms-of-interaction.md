@@ -5,7 +5,7 @@ The Summary of Product Characteristics for ritonavir must be consulted before in
 
 Atazanavir is metabolised in the liver through CYP3A4.
 It inhibits CYP3A4.
-Therefore, REYATAZ with ritonavir is contraindicated with medicinal products that are substrates of CYP3A4 and have a narrow therapeutic index: astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil and ergot alkaloids, particularly ergotamine and dihydroergotamine (see section 4.3).
+Therefore, REYATAZ with ritonavir is contraindicated with medicinal products that are substrates of CYP3A4 and have a narrow therapeutic index: astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil, triazolam, orally administered midazolam, and ergot alkaloids, particularly ergotamine and dihydroergotamine (see section 4.3).
 
 Antiretroviral agents
 
@@ -20,6 +20,7 @@ Tenofovir disoproxil fumarate: atazanavir concentrations (AUC and Cmin) are decr
 When ritonavir was added to atazanavir, the negative impact of tenofovir on atazanavir Cmin was significantly reduced, whereas the decrease of AUC was of the same magnitude (decrease of 25% and 26% of AUC and Cmin respectively compared to atazanavir/ritonavir 300/100 mg).
 The efficacy of REYATAZ with ritonavir in combination with tenofovir in treatment-experienced patients has been demonstrated in the clinical study 045
 (see sections 4.8 and 5.1).
+
 When tenofovir disoproxil fumarate 300 mg was administered with REYATAZ 300 mg and ritonavir 100 mg, an increase in concentrations of tenofovir was observed (increase in AUC(TAU) of 37% with 90% confidence interval [30-45%]; in Cmax of 34% with 90% confidence interval [20-51%]; and in Cmin of 29% with 90% confidence interval [21-36%]).
 Higher tenofovir concentrations could potentiate tenofovir-associated adverse events, including renal disorders.
 
@@ -93,6 +94,12 @@ Macrolide antibiotics: co-administration of clarithromycin (500 mg twice daily) 
 (400 mg once daily) resulted in a 2 fold increase in exposure to clarithromycin and a 70% decrease in exposure to 14-OH clarithromycin, with a 28% increase in the AUC of atazanavir.
 Dose reduction of clarithromycin may result in subtherapeutic concentrations of 14-OH clarithromycin.
 No recommendation regarding dose reduction can be made; therefore, caution should be exercised if REYATAZ plus ritonavir is co-administered with clarithromycin.
+Midazolam: midazolam is extensively metabolized by CYP3A4.
+Co-administration with REYATAZ may cause a large increase in the concentration of this benzodiazepine.
+By extrapolation of data observed with other CYP3A4 inhibitors, increases in concentrations are expected to be significantly higher when midazolam is given orally.
+Therefore REYATAZ should not be co-administered with orally administered midazolam (see section 4.3), whereas caution should be used with co-administration of REYATAZ and parenteral midazolam.
+No data are available on concomitant use of atazanavir with intravenous midazolam; data from concomitant use of other protease inhibitors suggest a possible 3-4 fold increase in midazolam plasma levels.
+If REYATAZ is co-administered with parenteral midazolam, a close clinical monitoring for respiratory depression and/or prolonged sedation should be exercised and dosage adjustment should be considered.
 
 Oral contraceptives (ethinyl estradiol, norethindrone): the mean concentration of ethinyl estradiol, when co-administered as a 35-µg dose with atazanavir 400 mg once daily, was increased to a level between mean concentrations produced by a 35-µg and a 50-µg ethinyl estradiol dose, and the AUC of norethindrone was increased about 2 fold.
 In contrast, ritonavir may decrease ethinyl estradiol concentrations.
@@ -126,7 +133,6 @@ High doses of ketoconazole and itraconazole (> 200 mg/day) should be used cautio
 
 Warfarin: co-administration with REYATAZ with ritonavir has the potential to produce a decrease or, less often, an increase in INR (International Normalised Ratio).
 It is recommended that the INR be monitored carefully during treatment with REYATAZ and ritonavir, especially when commencing therapy.
-
 St. John’s wort (Hypericum perforatum): REYATAZ should not be used concomitantly with products containing St. John's wort since it may be expected to result in significant reduction in plasma levels of atazanavir.
 This effect may be due to an induction of CYP3A4.
 There is a risk of loss of therapeutic effect and development of resistance (see section 4.3).

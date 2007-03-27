@@ -5,6 +5,7 @@ Pharmacotherapeutic group: protease inhibitor, ATC code: J05A E08
 This medicinal product has been authorised under “Exceptional Circumstances”.
 This means that for scientific reasons, it has not been possible to obtain complete information on this medicinal product.
 The European Medicines Agency (EMEA) will review any new information which may become available every year and this SPC will be updated as necessary.
+
 Mechanism of action: atazanavir is an azapeptide HIV-1 protease inhibitor.
 The compound selectively inhibits the virus-specific processing of viral Gag-Pol proteins in HIV-1 infected cells, thus preventing formation of mature virions and infection of other cells.
 
@@ -37,6 +38,7 @@ Fifteen of 120 (13%) patients in the REYATAZ + ritonavir treatment arm and 17 of
 Thirty-two percent of patients in the study had a viral strain with fewer than two NRTI mutations.
 The mean baseline CD4 cell count was 337 cells/mm3 (range: 14 to 1,543 cells/mm3) and the mean baseline plasma HIV-1 RNA level was 4.4 log10 copies/ml (range: 2.6 to 5.9 log10 copies/ml).
 The population included in this study was moderately pretreated.
+
 The primary endpoint was the time-averaged difference in change from baseline in HIV RNA through 48 weeks.
 
 Through 48 weeks of treatment, the decreases from baseline in HIV RNA levels (primary endpoint) were 1.93 log10 copies/ml for REYATAZ + ritonavir and 1.87 log10 copies/ml for lopinavir + ritonavir.
@@ -63,7 +65,6 @@ In the analysis performed for patients with ≥ 4 protease gene mutations among 
 There were too few patients with ≥ 4 of the second more specific set of mutations (i.e. 10, 46, 54, 82, 84, 90) to assess the comparability of the REYATAZ + ritonavir and lopinavir + ritonavir regimens, but reduced virologic activity may be anticipated among patients with this resistance profile.
 
 REYATAZ + saquinavir was shown to be inferior to lopinavir + ritonavir.
-
 The data available on the lipid profile (mean change from baseline) are described in the following table:
 
 |  | Study 045 48 weeks* |  | Study 045 96 weeks* |  |

@@ -14,7 +14,6 @@ Among patients receiving REYATAZ 300 mg with ritonavir 100 mg, the frequency of 
 In the majority of cases, jaundice was reported within a few days to a few months after the initiation of treatment (see section 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy, and dorsocervical fat accumulation (buffalo hump).
-
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia, and hyperlactataemia (see sections 4.4 and 5.1).
 
 Adult patients
@@ -75,6 +74,7 @@ In HIV-infected patients with severe immune deficiency at the time of initiation
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).
+
 Laboratory abnormalities
 The most frequently reported laboratory abnormality in patients receiving regimens containing REYATAZ and one or more NRTIs was elevated total bilirubin (84% Grade 1, 2, 3, or 4).
 Grade 3 or 4 elevation of total bilirubin was noted in 33% (28% Grade 3, 5% Grade 4, reported predominantly as elevated indirect [unconjugated] bilirubin).
@@ -103,3 +103,5 @@ There have been postmarketing reports of diabetes mellitus, and hyperglycemia.
 [REYATAZ 50 mg/1.5 g oral powder]
 
 uncommon: pancreatitis, gastritis, stomatitis aphthous, dysgeusia, flatulence;
+
+rare: vesiculobullous rash, eczema, vasodilatation Musculoskeletal and connective uncommon: muscle atrophy, arthralgia, myalgia;

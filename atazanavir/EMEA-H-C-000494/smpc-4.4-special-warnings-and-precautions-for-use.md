@@ -21,6 +21,7 @@ Dose related asymptomatic prolongations in PR interval with REYATAZ have been ob
 Caution should be used with medicinal products known to induce PR prolongations.
 In patients with pre-existing conduction problems (second degree or higher atrioventricular or complex bundle-branch block), REYATAZ should be used with caution and only if the benefits exceed the risk (see section 5.1).
 Particular caution should be used when prescribing REYATAZ in association with medicinal products which have the potential to increase the QT interval and/or in patients with pre-existing risk factors (bradycardia, long congenital QT, electrolyte imbalances (see sections 4.8 and 5.3).
+
 There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in type A and B haemophiliac patients treated with protease inhibitors.
 In some patients additional factor VIII was given.
 In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.
@@ -60,7 +61,6 @@ In HIV-infected patients with severe immune deficiency at the time of institutio
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-
 Osteonecrosis
 Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
