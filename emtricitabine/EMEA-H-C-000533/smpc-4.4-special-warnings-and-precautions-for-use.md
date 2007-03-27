@@ -1,5 +1,6 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
+Emtriva should not be taken with any other medicinal products containing emtricitabine or medicinal products containing lamivudine.
 General: Emtricitabine is not recommended as monotherapy for the treatment of HIV infection.
 It must be used in combination with other antiretrovirals.
 Please also refer to the Summaries of Product Characteristics of the other antiretroviral medicinal products used in the combination regimen.
@@ -15,9 +16,9 @@ Emtricitabine exposure may be markedly increased in patients with moderate or se
 Consequently, either a dose interval adjustment (using Emtriva 200 mg hard capsules) or a reduction in the daily dose of emtricitabine (using Emtriva 10 mg/ml oral solution) is required in all patients with creatinine clearance
 < 50 ml/min.
 The safety and efficacy of the dose interval adjustment guidelines provided in section 4.2 are based on single dose pharmacokinetic data and modelling and have not been clinically evaluated.
-Therefore, clinical response to treatment and renal function should be closely monitored in patients treated with emtricitabine at prolonged dosing intervals (see 4.2 and 5.2).
+Therefore, clinical response to treatment and renal function should be closely monitored in patients treated with emtricitabine at prolonged dosing intervals (see sections 4.2 and 5.2).
 
-Caution should be exercised when emtricitabine is co-administered with medicinal products that are eliminated by active tubular secretion as such co-administration may lead to an increase in serum concentrations of either emtricitabine or a co-administered medicinal product, due to competition for this elimination pathway (see 4.5).
+Caution should be exercised when emtricitabine is co-administered with medicinal products that are eliminated by active tubular secretion as such co-administration may lead to an increase in serum concentrations of either emtricitabine or a co-administered medicinal product, due to competition for this elimination pathway (see section 4.5).
 
 Lactic acidosis: Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues.
 Early symptoms (symptomatic hyperlactataemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
@@ -39,7 +40,6 @@ A higher risk of lipodystrophy has been associated with individual factors such 
 Clinical examination should include evaluation for physical signs of fat redistribution.
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate.
-
 Liver function: Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 Patients with chronic hepatitis B or C infection treated with combination antiretroviral therapy are at increased risk of experiencing severe, and potentially fatal, hepatic adverse events.
 In case of concomitant antiviral therapy for hepatitis B or C, please also refer to the relevant Summary of Product Characteristics for these medicinal products.
@@ -53,6 +53,8 @@ The YMDD mutation confers resistance to both emtricitabine and lamivudine.
 
 Patients co-infected with HIV and HBV should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with emtricitabine for evidence of exacerbations of hepatitis.
 Such exacerbations have been seen following discontinuation of emtricitabine treatment in HBV infected patients without concomitant HIV infection and have been detected primarily by serum alanine aminotransferase (ALT) elevations in addition to re-emergence of HBV DNA.
+In some of these patients, HBV reactivation was associated with more severe liver disease, including decompensation and liver failure.
+There is insufficient evidence to determine whether re-initiation of emtricitabine alters the course of post-treatment exacerbations of hepatitis.
 
 Mitochondrial dysfunction: Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
 There have been reports of mitochondrial dysfunction in HIV negative infants exposed in utero and/or postnatally to nucleoside analogues.
@@ -76,7 +78,7 @@ Patients should be advised to seek medical advice if they experience joint aches
 Patients should be advised that antiretroviral therapies, including emtricitabine have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 
 The safety and efficacy of the reduced doses provided in section 4.2 are based on single dose pharmacokinetic data and modelling and have not been clinically evaluated.
-Therefore, clinical response to treatment and renal function should be closely monitored in patients treated with a reduced dose of emtricitabine (see 4.2 and 5.2).
+Therefore, clinical response to treatment and renal function should be closely monitored in patients treated with a reduced dose of emtricitabine (see sections 4.2 and 5.2).
 
-Sunset yellow (E110), a component of Emtriva oral solution, may cause allergic reactions, including asthma.
-The methyl parahydroxybenzoate (E218) and propyl parahydroxybenzoate (E216) in the oral solution may cause allergic reactions (possibly delayed).
+Emtriva oral solution contains Sunset Yellow (E110) which may cause allergic reactions, methyl parahydroxybenzoate (E218) and propyl parahydroxybenzoate (E216) which may cause allergic reactions (possibly delayed).
+This medicinal product contains 254 mg of sodium per dose which should be taken into consideration by patients on a controlled sodium diet.

@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antiviral for systemic use: Nucleoside and nucleotide reverse transcriptase inhibitors, ATC Code: J05AF09.
+Pharmacotherapeutic group: Nucleoside and nucleotide reverse transcriptase inhibitors, ATC code: J05AF09.
 
 Mechanism of action: Emtricitabine is a synthetic nucleoside analogue of cytidine with activity that is specific to human immunodeficiency virus (HIV-1 and HIV-2) and hepatitis B virus (HBV).
 
@@ -25,7 +25,6 @@ Viruses resistant to zidovudine, zalcitabine, didanosine and NNRTIs retained the
 Clinical experience: Emtricitabine in combination with other antiretroviral agents, including nucleoside analogues, non-nucleoside analogues and protease inhibitors, has been shown to be effective in the treatment of HIV infection in treatment-naïve patients and treatment-experienced patients with stable virological control.
 There is no experience of the use of emtricitabine in patients who are failing their current regimen or who have failed multiple regimens.
 There is no clinical experience of the use of emtricitabine in infants less than 4 months of age.
-
 In antiretroviral treatment-naïve adults, emtricitabine was significantly superior to stavudine when both medicinal products were taken in combination with didanosine and efavirenz through 48 weeks of treatment.
 Phenotypic analysis showed no significant changes in emtricitabine susceptibility unless the M184V/I mutation had developed.
 

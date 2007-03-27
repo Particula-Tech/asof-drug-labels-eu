@@ -2,7 +2,7 @@
 
 The safety of emtricitabine in human pregnancy has not been established.
 
-Animal studies do not indicate direct or indirect harmful effects of emtricitabine with respect to pregnancy, foetal development, parturition or postnatal development (see 5.3).
+Animal studies do not indicate direct or indirect harmful effects of emtricitabine with respect to pregnancy, foetal development, parturition or postnatal development (see section 5.3).
 
 Emtricitabine should be used during pregnancy only if necessary.
 
