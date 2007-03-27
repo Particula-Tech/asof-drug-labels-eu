@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-The overall safety profile of Avastin is based on 1132 patients with metastatic carcinoma of the colon or rectum, locally advanced or metastatic non-small cell lung, metastatic breast and hormone-resistant prostate cancer, who received Avastin either as a single agent or in combination with chemotherapy in clinical trials.
+The overall safety profile of Avastin is based on data from patients with various malignancies who received Avastin either as a single agent or in combination with chemotherapy in clinical trials.
 
 The most serious adverse events were:
 
@@ -8,68 +8,27 @@ The most serious adverse events were:
 - Haemorrhage (see section 4.4).
 - Arterial thromboembolism (see section 4.4).
 
-The most frequently observed adverse events across all clinical trials in patients receiving Avastin with or without chemotherapy were asthenia, diarrhoea, nausea and pain NOS (Not Otherwise Specified).
-
 Analyses of the clinical safety data suggest that the occurrence of hypertension and proteinuria with Avastin therapy are likely to be dose-dependent.
 
-In a phase III, randomised, double-blind, active-controlled study in metastatic carcinoma of the colon or rectum (Study AVF2107g), 396 patients were treated with IFL+ placebo (Arm 1), 392 patients were treated with IFL + Avastin (Arm 2), and 109 patients were treated with 5-fluorouracil/folinic acid (5-FU/FA) + Avastin (Arm 3).
-In a phase II, randomised, double-blind, active-controlled study
-(Study AVF2192g), the safety of Avastin was investigated in 204 patients with metastatic carcinoma of the colon or rectum who were not optimal candidates for first-line irinotecan.
-Of these patients, 104 were treated with 5-FU/FA + placebo (Arm 1) and 100 patients were treated with 5-FU/FA + Avastin (Arm 2).
-The safety overview of these two studies is displayed in Table 1 below:
-
-Table 1: Safety overview of study AVF2107g and AVF2192g
-
-AVF2107g AVF2192g
-IFL + placebo IFL + Avastin 5-FU/FA + 5-FU/FA +
-N=396 N=392 placebo Avastin
-N=104 N=100
-
-|  | AVF2107g |  | AVF2192g |  |
-| --- | --- | --- | --- | --- |
-|  | IFL + placebo N=396 | IFL + Avastin N=392 | 5-FU/FA + placebo N=104 | 5-FU/FA + Avastin N=100 |
-| Death within 60 days of randomisation | 4.9% | 3.0% | 13.5% | 5.0% |
-| Median duration of safety observation (weeks) | 28 | 40 | 23 | 31 |
-| SAEs leading to death | 2.8% | 2.6% | 6.7% | 4.0% |
-| AEs leading to study drug discontinuation | 7.1% | 8.4% | 11.5% | 10.0% |
-| Data are unadjusted for the differential time on treatment. |  |  |  |  |
-
-In the phase III and II studies in metastatic carcinoma of the colon or rectum (AVF2107g, AVF2192g), Grade 3 and 4 adverse events (irrespective of causal relationship) observed in ≥ 10% and ≥ 1% -
-< 10% of Avastin-treated patients as compared to the control groups were as shown in Table 2:
-
-Table 2: Grade 3 and 4 adverse events (irrespective of causal relationship and occurring with ≥ 2% higher incidence in Avastin-treated arm compared with the control group) observed in ≥ 10%, and ≥ 1% - < 10% of Avastin-treated patients: studies AVF2107g and AVF2192g
-
-| Frequency of adverse events System organ class | AVF2107g IFL + Avastin | AVF2192g 5-FU/FA + Avastin |
-| --- | --- | --- |
-| ≥ 10% Cardiac disorders |  | Hypertension |
-| ≥ 1% and < 10% Cardiac disorders Hypertension Cardiac failure congestive Supraventricular tachycardia Blood & lymphatic system disorders Leucopenia Anaemia Thrombocytopenia General disorders & administration Pain Asthenia site conditions Pain Gastrointestinal disorders Diarrhoea Gastrointestinal disorder Abdominal pain Intestinal obstruction Ileus Infections & infestations disorders Sepsis Abscess Urinary tract infection Investigations Prothrombin time prolonged Metabolism & nutrition disorders Hypokalaemia Nervous system disorders Cerebral ischaemia Syncope Somnolence Respiratory, Thoracic & Mediastinal Dyspnoea Disorders Hypoxia Vascular disorders Deep vein thrombosis Thromboembolism (Arterial)* Thromboembolism (Arterial)* * Pooled arterial thromboembolic events including cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic events. Data are unadjusted for the differential time on treatment. |  |  |
-
-In the phase III and II studies in metastatic carcinoma of the colon or rectum (AVF2107g, AVF2192g), adverse events of all grades (irrespective of causal relationship) which occurred in ≥ 10%, and ≥ 1% - < 10% of Avastin-treated patients as compared to the control groups were as presented in Table 3:
-
-Table 3: Adverse events of all grades (irrespective of causal relationship and occurring with ≥ 10% higher incidence in Avastin-treated arm compared with the control group) observed in ≥ 10%, and ≥ 1%- < 10% of Avastin-treated patients as compared to the control groups: studies AVF2107g and AVF2192g
-
-| Frequency of adverse events system organ class | AVF2107g IFL + Avastin | AVF2192g 5-FU/FA + Avastin |
-| --- | --- | --- |
-| ≥ 10% Cardiac disorders | Hypertension | Hypertension |
-| Gastrointestinal disorders | Rectal haemorrhage Stomatitis Constipation | Stomatitis |
-| General disorders & administration site conditions | Pain | Asthenia Pain Pyrexia |
-| Metabolism & nutrition disorders | Anorexia |  |
-| ≥ 1% and < 10% Eye disorders | Eye disorders |  |
-| Nervous system disorders Dysgeusia Respiratory, thoracic & mediastinal Epistaxis disorders Dyspnoea Rhinitis Skin & subcutaneous tissue disorders Dermatitis exfoliative Skin discoloration Dry skin Data are unadjusted for the differential time on treatment. |  |  |
+General
 
 The following adverse events have been observed in Avastin-treated patients, and may be potentially related to Avastin therapy:
 
 Gastrointestinal perforations (see section 4.4):
 Avastin has been associated with serious cases of gastrointestinal perforation.
-
 In clinical trials in metastatic carcinoma of the colon or rectum, gastrointestinal perforation was observed in 1.4% - 2.0% of the Avastin-treated patients.
 Of these, 0.4% - 1% had fatal outcome.
 The presentation of these events varied in type and severity, ranging from free air seen on the plain abdominal X-ray, which resolved without treatment, to a colonic perforation with abdominal abscess and fatal outcome.
 The common feature among these cases was intra-abdominal inflammation, either from gastric ulcer disease, tumour necrosis, diverticulitis, or chemotherapy-associated colitis.
+
+In the pivotal clinical trial in locally recurrent and metastatic breast cancer (study E2100), gastrointestinal perforation was observed in 0.8% of patients receiving Avastin + paclitaxel.
+
 Wound healing (see section 4.4):
 As Avastin may adversely impact wound healing, patients who had major surgery within the last 28 days were excluded from participation in clinical trials for metastatic cancer of the colon or rectum.
 In clinical trials of metastatic carcinoma of the colon or rectum, patients who underwent cancer-related surgery between 28 and 60 days prior to starting therapy did not have increased risk of post-operative bleeding or wound healing complications during treatment compared to the controlled groups.
 Adverse events consistent with post-operative bleeding or wound healing complication were observed in 10% - 20% of Avastin-treated patients who underwent major surgery while receiving treatment.
+
+In the pivotal clinical trial in locally recurrent and metastatic breast cancer, Grade 3-5 wound healing complications were observed in 1.1% of patients receiving Avastin + paclitaxel.
 
 Nasal Septum Perforations:
 Very rare cases of nasal septum perforations have been reported in patients treated with Avastin.
@@ -85,6 +44,8 @@ Grade 3 hypertension (requiring oral anti-hypertensive medication) was reported 
 No hypertensive crisis (Grade 4) was reported.
 At week 24 of treatment, the mean change of blood pressure (BP) from baseline was diastolic BP +4.1 to +5.4 mmHg and systolic BP + 5.5 to +8.4 mmHg in the treated patients.
 
+In the pivotal clinical trial in locally recurrent and metastatic breast cancer, hypertension was observed in 15.5% (the majority was Grade 3, only one event was Grade 4) of patients receiving Avastin + paclitaxel.
+
 Reversible Posterior Leukoencephalopathy Syndrome (RPLS) (see section 4.4)
 There have been rare reports of Avastin-treated patients developing signs and symptoms that are consistent with Reversible Posterior Leukoencephalopathy Syndrome (RPLS), a rare neurologic disorder, which can present with the following signs and symptoms among others: seizures, headache, altered mental status, visual disturbance or cortical blindness, with or without associated hypertension.
 
@@ -92,15 +53,18 @@ Proteinuria (see section 4.4):
 Proteinuria, reported as adverse event, was observed in 23.3% of all Avastin-treated patients.
 It ranged in severity from clinically asymptomatic, transient, trace proteinuria to nephrotic syndrome, with the great majority as Grade 1 proteinuria.
 The proteinuria seen in clinical trials was not associated with renal dysfunction and rarely required permanent discontinuation of therapy.
-
 In clinical trials of metastatic carcinoma of the colon or rectum, proteinuria was reported as an adverse event in 21.7% - 38.0% of Avastin-treated patients.
 No Grade 4 proteinuria was reported.
+
+In the pivotal clinical trial in locally recurrent and metastatic breast cancer, Grade 3-4 proteinuria was observed in 3.0% of patients receiving Avastin + paclitaxel.
 
 Haemorrhage (see section 4.4):
 Overall, 4.0% of NCI-CTC Grade 3 and 4 bleeding events were observed in all Avastin treated patients.
 In clinical trials of metastatic carcinoma of the colon or rectum, there was no significant difference in the incidence of grade 3 and 4 bleeding events observed between Avastin-treated patients (3.1% - 5.1%) compared to that observed in the controls (2.5% - 2.9%).
 
 The haemorrhagic events that have been observed in clinical studies were predominantly tumour-associated haemorrhage (see below) and minor mucocutaneous haemorrhage.
+
+In the pivotal clinical trial in locally recurrent and metastatic breast cancer, Grade 3-4 haemorrhage was observed in 1.9% of patients receiving Avastin + paclitaxel.
 
 Tumour-associated haemorrhage was observed in phase I and phase II studies.
 In patients with non-small cell lung cancer receiving Avastin, serious haemorrhage was observed in six patients (9% of treated patients) in one phase II study.
@@ -131,17 +95,26 @@ In patients treated with chemotherapy alone, a fatal outcome from arterial throm
 CVAs (including TIAs) occurred in 2.3% of patients treated with Avastin in combination with chemotherapy and 0.5% of patients treated with chemotherapy alone.
 MI occurred in 1.4% of patients treated with Avastin in combination with chemotherapy compared to 0.7% of patients treated with chemotherapy alone.
 
+In the pivotal clinical trial in locally recurrent and metastatic breast cancer, arterial thromboembolism was observed in 2.8% of patients receiving Avastin + paclitaxel.
+
 Venous thromboembolism:
 In clinical trials of metastatic carcinoma of the colon or rectum, venous thromboembolic events, including deep venous thrombosis, pulmonary embolism and thrombophlebitis occurred in 9.0% - 16.6% of Avastin-treated patients compared to that of 13.5% - 15.2% in the controls.
 It could not be determined if these events were due to the patients’ underlying cancer, their cytotoxic chemotherapy, Avastin or other risk factors.
 
+In the pivotal clinical trial in locally recurrent and metastatic breast cancer, venous thromboembolism was observed in 3.0% of patients receiving Avastin + paclitaxel.
+
 Congestive Heart Failure (CHF)/Cardiomyopathy
-In the phase III controlled clinical trial of metastatic breast cancer, CHF/cardiomyopathy was reported in 3% of the Avastin-treated patients compared with 1% in the controlled group.
+In the phase III controlled clinical trial (AVF2119g) of capecitabine, with or without Avastin, in patients with previously treated metastatic breast cancer including long term follow-up, NCI-CTC Grade 3-4 CHF/cardiomyopathy was reported in 3.5% of the Avastin-treated patients compared with 0.9% in the control group.
 These events varied in severity from asymptomatic declines in left ventricular ejection fraction to symptomatic CHF requiring hospitalisation and treatment.
-All the Avastin-treated patients were previously treated with anthracyclines (doxorubicin cumulative dose range 240–360 mg/m2).
+All the patients were previously treated with anthracyclines (doxorubicin cumulative dose range 240–360 mg/m2).
 Many of these patients also had prior radiotherapy to the left chest wall.
 Most of these patients showed improved symptoms and/or left ventricular function following appropriate medical therapy.
+
 There was no information on patients with pre-existing CHF (New York Heart Association (NYHA) II-IV) at the time of initiating the therapy, as these patients were excluded from studies.
+
+Consistent with study AVF2119g, in the pivotal phase III clinical trial of paclitaxel, with or without Avastin, in patients with previously untreated locally recurrent or metastatic breast cancer (study E2100), the rate of CHF (NCI-CTC Grade 3-4) was 2.9% (5/174) in the subset of patients treated with Avastin who had received prior anthracycline treatment.
+The rate of CHF in the total population receiving Avastin and paclitaxel was 1.4% (5/362).
+
 In patients with metastatic cancer of the colon or rectum, including study AVF2192g, there was no significant increase in the incidence of CHF in Avastin-treated patients.
 
 Elderly Patients
@@ -151,7 +124,6 @@ In study AVF2192g, no significant increase in the incidence of CHF was observed 
 
 In the phase III study in metastatic carcinoma of colon or rectum trial (AVF2107g), 114 out of the 392 patients who received Avastin were older than 65 years.
 Only Grade 3/4 leucopenia occurred at an incidence of ≥ 5% in the elderly patients (> 65 years) compared to those patients aged ≤ 65 years.
-
 In the phase II study in metastatic carcinoma of colon or rectum trial (AVF2192g), the majority of the Avastin-treated patients was older than 65 years (83%).
 The overall safety profile of Avastin from this study was comparable to the overall safety profile observed in Study AVF2107g.
 
@@ -162,3 +134,68 @@ Decreased neutrophil count and decreased white blood cell count were the most co
 Grade 3 and 4 laboratory abnormalities occurring in ≥ 5% of Avastin-treated patients with or without chemotherapy in any trials included decreased neutrophil count, decreased white blood cell count, protein urine present, decreased blood potassium, decreased blood phosphorus, increased blood glucose and increased blood alkaline phosphatase.
 
 The higher incidences of decreased neutrophil count and decreased white blood cell count observed in the IFL + Avastin arm possibly correlated to the increased concentrations of SN38, the active metabolite of irinotecan (see section 4.5).
+
+Metastatic carcinoma of the colon or rectum (mCRC)
+
+The most frequently observed adverse events across clinical trials in mCRC patients receiving Avastin with or without chemotherapy were hypertension, fatigue or asthenia, diarrhoea, and abdominal pain.
+
+In a phase III, randomised, double-blind, active-controlled study in metastatic carcinoma of the colon or rectum (Study AVF2107g), 396 patients were treated with IFL+ placebo (Arm 1), 392 patients were treated with IFL + Avastin (Arm 2), and 109 patients were treated with 5-fluorouracil/folinic acid (5-FU/FA) + Avastin (Arm 3).
+In a phase II, randomised, double-blind, active-controlled study
+(Study AVF2192g), the safety of Avastin was investigated in 204 patients with metastatic carcinoma of the colon or rectum who were not optimal candidates for first-line irinotecan.
+Of these patients, 104 were treated with 5-FU/FA + placebo (Arm 1) and 100 patients were treated with 5-FU/FA + Avastin (Arm 2).
+The safety overview of these two studies is displayed in Table 1 below:
+
+Table 1: Safety overview of study AVF2107g and AVF2192g
+
+|  | AVF2107g |  | AVF2192g |  |
+| --- | --- | --- | --- | --- |
+|  | IFL + placebo N=396 | IFL + Avastin N=392 | 5-FU/FA + placebo N=104 | 5-FU/FA + Avastin N=100 |
+| Death within 60 days of randomisation | 4.9% | 3.0% | 13.5% | 5.0% |
+| Median duration of safety observation (weeks) | 28 | 40 | 23 | 31 |
+| SAEs leading to death | 2.8% | 2.6% | 6.7% | 4.0% |
+| AEs leading to study drug discontinuation | 7.1% | 8.4% | 11.5% | 10.0% |
+| Data are unadjusted for the differential time on treatment. |  |  |  |  |
+
+In the phase III and II studies in metastatic carcinoma of the colon or rectum (AVF2107g, AVF2192g), Grade 3 and 4 adverse events (irrespective of causal relationship) observed in ≥ 10% and ≥ 1% -
+< 10% of Avastin-treated patients as compared to the control groups were as shown in Table 2:
+Table 2: Grade 3 and 4 adverse events (irrespective of causal relationship and occurring with ≥ 2% higher incidence in Avastin-treated arm compared with the control group) observed in ≥ 10%, and ≥ 1% - < 10% of Avastin-treated patients: studies AVF2107g and AVF2192g
+
+| Frequency of adverse events System organ class | AVF2107g IFL + Avastin | AVF2192g 5-FU/FA + Avastin |
+| --- | --- | --- |
+| ≥ 10% Cardiac disorders |  | Hypertension |
+| ≥ 1% and < 10% Cardiac disorders Hypertension Cardiac failure congestive Supraventricular tachycardia Blood & lymphatic system disorders Leucopenia Anaemia Thrombocytopenia General disorders & administration Pain Asthenia site conditions Pain Gastrointestinal disorders Diarrhoea Gastrointestinal disorder Abdominal pain Intestinal obstruction Ileus Infections & infestations disorders Sepsis Abscess Urinary tract infection Investigations Prothrombin time prolonged Metabolism & nutrition disorders Hypokalaemia Nervous system disorders Cerebral ischaemia Syncope Somnolence Respiratory, Thoracic & Mediastinal Dyspnoea Disorders Hypoxia Vascular disorders Deep vein thrombosis Thromboembolism (Arterial)* Thromboembolism (Arterial)* * Pooled arterial thromboembolic events including cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic events. Data are unadjusted for the differential time on treatment. |  |  |
+
+In the phase III and II studies in metastatic carcinoma of the colon or rectum (AVF2107g, AVF2192g), adverse events of all grades (irrespective of causal relationship) which occurred in ≥ 10%, and ≥ 1% - < 10% of Avastin-treated patients as compared to the control groups were as presented in Table 3:
+
+Table 3: Adverse events of all grades (irrespective of causal relationship and occurring with ≥ 10% higher incidence in Avastin-treated arm compared with the control group) observed in ≥ 10%, and ≥ 1%- < 10% of Avastin-treated patients as compared to the control groups: studies AVF2107g and AVF2192g
+
+| Frequency of adverse events system organ class | AVF2107g IFL + Avastin | AVF2192g 5-FU/FA + Avastin |
+| --- | --- | --- |
+| ≥ 10% Cardiac disorders | Hypertension | Hypertension |
+| Gastrointestinal disorders | Rectal haemorrhage Stomatitis Constipation | Stomatitis |
+| General disorders & administration site conditions | Pain | Asthenia Pain Pyrexia |
+| Metabolism & nutrition disorders | Anorexia |  |
+| ≥ 1% and < 10% Eye disorders | Eye disorders |  |
+| Nervous system disorders Dysgeusia Respiratory, thoracic & mediastinal Epistaxis disorders Dyspnoea Rhinitis Skin & subcutaneous tissue disorders Dermatitis exfoliative Skin discoloration Dry skin Data are unadjusted for the differential time on treatment. |  |  |
+
+Metastatic breast cancer (mBC)
+
+The most frequently observed adverse events across clinical trials in mBC patients receiving Avastin, with or without chemotherapy, were hypertension, fatigue or asthenia, and nausea.
+
+The pivotal trial, E2100, was an open-label, randomised, active-controlled study in 722 patients, with locally recurrent or metastatic breast cancer who had not previously received chemotherapy for advanced disease.
+All NCI CTC Grade 3-5 non-haematologic and grade 4-5 haematologic adverse events were collected in both study arms.
+
+Severe and life threatening (NCI CTC Grade 3, 4 and 5) adverse events, which occurred at a higher incidence (≥ 2%) in patients receiving paclitaxel plus Avastin as compared to paclitaxel alone, are presented in Table 4.
+None of the adverse events were Grade 5 (fatal).
+Table 4 Grade 3-5 Adverse Events in Study E2100 (Occurring with an absolute difference of ≥ 2% in AVASTIN + paclitaxel vs. paclitaxel alone)
+
+| Frequency of adverse events system organ class | Paclitaxel + Avastin |
+| --- | --- |
+| ≥ 10% Nervous System Disorders | Peripheral Sensory Neuropathy |
+| Cardiac Disorders | Hypertension |
+| ≥ 1% and < 10% Metabolism and Nutrition Disorders | Dehydration |
+| Gastrointestinal Disorders | Diarrhoea |
+| Renal and Urinary disorders | Proteinuria |
+| General Disorders & Administration Site Conditions Infections and Infestations | Fatigue Muscular weakness Infection |
+
+Note: None of the AEs listed above were fatal.

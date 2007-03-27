@@ -5,11 +5,15 @@ Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibody, ATC code:
 Mechanism of action
 Bevacizumab binds to vascular endothelial growth factor (VEGF) and thereby inhibits the binding of VEGF to its receptors, Flt-1 (VEGFR-1) and KDR (VEGFR-2), on the surface of endothelial cells.
 Neutralising the biological activity of VEGF reduces the vascularisation of tumours, thereby inhibiting tumour growth.
+
 Pharmacodynamic effects
 Administration of bevacizumab or its parental murine antibody to xenotransplant models of cancer in nude mice resulted in extensive anti-tumour activity in human cancers, including colon, breast, pancreas and prostate.
 Metastatic disease progression was inhibited and microvascular permeability was reduced.
 
 Clinical efficacy
+
+Metastatic carcinoma of the colon or rectum (mCRC)
+
 The safety and efficacy of the recommended dose (5 mg/kg of body weight every two weeks) in metastatic carcinoma of the colon or rectum were studied in three randomised, active-controlled clinical trials in combination with fluoropyrimidine-based first-line chemotherapy.
 Avastin was combined with two chemotherapy regimens:
 
@@ -21,14 +25,14 @@ All three trials evaluated Avastin at a dose of 5 mg/kg of body weight every two
 
 Avastin in Combination with IFL Chemotherapy for First-Line Treatment of Metastatic
 Carcinoma of the Colon or Rectum (AVF2107g): This was a phase III randomised, double-blind, active-controlled clinical trial evaluating Avastin in combination with IFL as first-line treatment for metastatic carcinoma of the colon or rectum.
-Eight hundred and thirteen patients were randomised to receive IFL + placebo (Arm 1) or IFL + Avastin (5 mg/kg every 2 weeks, Arm 2) (see Table 4).
+Eight hundred and thirteen patients were randomised to receive IFL + placebo (Arm 1) or IFL + Avastin (5 mg/kg every 2 weeks, Arm 2) (see Table 5).
 A third group of 110 patients received bolus 5-FU/FA+Avastin (Arm3).
 Enrollment in Arm 3 was discontinued, as pre-specified, once safety of Avastin with the IFL regimen was established and considered acceptable.
 All treatments were continued until disease progression.
 The overall mean age was 59.4 years; 56.6% of patients had an ECOG performance status of 0, 43% had a value of 1 and 0.4% had a value of 2.
 15.5% had received prior radiotherapy and 28.4% prior chemotherapy.
 
-Table 4 Treatment regimens in study AVF2107g
+Table 5 Treatment regimens in study AVF2107g
 
 |  | Treatment | Starting Dose | Schedule |
 | --- | --- | --- | --- |
@@ -41,12 +45,11 @@ Table 4 Treatment regimens in study AVF2107g
 | 5-Fluorouracil: IV bolus injection immediately after folinic acid. folinic acid: IV bolus injection (over 1–2 minutes) immediately after each irinotecan dose. |  |  |  |
 
 The primary efficacy variable of the trial was duration of survival.
-The addition of Avastin to IFL resulted in a statistically significant increase in overall survival (see Table 5).
+The addition of Avastin to IFL resulted in a statistically significant increase in overall survival (see Table 6).
 The clinical benefit, as measured by overall survival, was seen in all pre-specified patient subgroups, including those defined by age, sex, performance status, location of primary tumour, number of organs involved and duration of metastatic disease.
 
-The efficacy results of Avastin in combination with IFL-chemotherapy are displayed in Table 5.
-
-Table 5 Efficacy results for study AVF2107g
+The efficacy results of Avastin in combination with IFL-chemotherapy are displayed in Table 6.
+Table 6 Efficacy results for study AVF2107g
 
 |  | AVF2107g |  |
 | --- | --- | --- |
@@ -80,7 +83,7 @@ Patients had to be either more susceptible to irinotecan toxicity
 One hundred and five patients were randomised to 5-FU/FA + placebo arm and 104 patients to 5-FU/FA + Avastin (5 mg/kg every 2 weeks) arm.
 All treatments were continued until disease progression.
 The overall mean age was 71 years; 28.2% of patients had a ECOG performance status of 0, 65.1% had a value of 1 and 6.7% had a value of 2.
-The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, significantly longer progression-free survival, and a trend in longer survival, compared to 5-FU/FA chemotherapy alone (see Table 6).
+The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, significantly longer progression-free survival, and a trend in longer survival, compared to 5-FU/FA chemotherapy alone (see Table 7).
 These efficacy data were consistent with the results observed in studies AVF2107g and AVF0780g.
 
 Avastin in Combination with 5-FU/FA Chemotherapy for the First-Line Treatment of
@@ -91,12 +94,12 @@ Seventy-one patients were randomised to receive bolus 5-FU/FA or 5-FU/FA + Avast
 A third group of 33 patients received bolus 5-FU/FA + Avastin (10 mg/kg every 2 weeks).
 Patients were treated until disease progression.
 The primary endpoints of the trial were objective response rate and progression-free survival.
-The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, longer progression-free survival, and a trend in longer survival, compared with 5-FU/FA chemotherapy alone (see Table 6).
+The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, longer progression-free survival, and a trend in longer survival, compared with 5-FU/FA chemotherapy alone (see Table 7).
 These efficacy data are consistent with the results from study AVF2107g.
 
-The efficacy data from studies AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 6.
+The efficacy data from studies AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 7.
 
-Table 6: Efficacy results for studies AVF0780g and AVF2192g
+Table 7: Efficacy results for studies AVF0780g and AVF2192g
 
 |  | AVF0780g |  |  | AVF2192g |  |
 | --- | --- | --- | --- | --- | --- |
@@ -123,3 +126,29 @@ a 5 mg/kg every 2 weeks.
 b 10 mg/kg every 2 weeks.
 c Relative to control arm.
 NR = Not reached.
+
+Metastatic breast cancer (mBC)
+
+Study E2100 was an open-label, randomised, active controlled, multicentre clinical trial evaluating Avastin in combination with paclitaxel for locally recurrent or metastatic breast cancer in patients who had not previously received chemotherapy for locally recurrent and metastatic disease.
+Patients were randomised to paclitaxel alone (90 mg/m2 IV over 1 hour once weekly for three out of four weeks) or in combination with Avastin (10 mg/kg IV infusion every two weeks).
+Prior hormonal therapy for the treatment of metastatic disease was allowed.
+Adjuvant taxane therapy was allowed only if it was completed at least 12 months prior to study entry.
+Of the 722 patients in the study, the majority of patients had HER2-negative disease (90%), with a small number of patients with unknown (8%) or confirmed HER2-positive status (2%), who had previously been treated with or were considered unsuitable for trastuzumab therapy.
+Furthermore, 65% of patients had received adjuvant chemotherapy including 19% prior taxanes and 49% prior anthracyclines.
+Patients with central nervous system metastasis, including previously treated or resected brain lesions, were excluded.
+
+In Study E2100, patients were treated until disease progression.
+In situations where early discontinuation of chemotherapy was required, treatment with Avastin as a single agent continued until disease progression.
+The patient characteristics were similar across the study arms.
+The primary endpoint of this trial was progression free survival (PFS), based on study investigators’ assessment of disease progression.
+The results of this study are presented in Table 8.
+
+Table 8 Study E2100 Efficacy Results:
+
+|  | Paclitaxel Paclitaxel + Avastin (n=354) (n=368) |
+| --- | --- |
+| Progression-Free Survival (Months)a, b Median Hazard ratio 95% CI p-value (log-rank test) Overall survival (months)c Median Hazard ratio 95% CI p-value (log-rank test) | 6.7 13.3 0.48 (0.39, 0.59) P<0.0001 23.8 25.7 0.82 (0.66, 1.03) 0.082 |
+| CI= Confidence interval aIntent to treat analysis b As assessed by study investigators c Based on an exploratory analysis of immature overall survival data, with 70% of events required for final analysis |  |
+
+The clinical benefit of Avastin as measured by PFS was seen in all pre-specified subgroups tested (including disease-free interval, number of metastatic sites, prior receipt of adjuvant chemotherapy and estrogen receptor (ER) status).
+In an exploratory analysis, the extent of Avastin benefit was less pronounced in the subgroup of patients >65 years of age.
