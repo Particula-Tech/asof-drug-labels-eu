@@ -18,6 +18,7 @@ Grade 2 hand- foot syndrome is painful erythema and swelling of the hands and/or
 Grade 3 hand- foot syndrome is moist desquamation, ulceration, blistering and severe pain of the hands and/or feet and/or severe discomfort that causes the patient to be unable to work or perform activities of daily living.
 If grade 2 or 3 hand- foot syndrome occurs, administration of Xeloda should be interrupted until the event resolves or decreases in intensity to grade 1.
 Following grade 3 hand-foot syndrome, subsequent doses of Xeloda should be decreased.
+When Xeloda and cisplatin are used in combination, the use of vitamin B6 (pyridoxine) is not advised for symptomatic or secondary prophylactic treatment of hand–foot syndrome, because of published reports that it may decrease the efficacy of cisplatin.
 
 Cardiotoxicity.
 Cardiotoxicity has been associated with fluoropyrimidine therapy, including myocardial infarction, angina, dysrhythmias, cardiogenic shock, sudden death and electrocardiographic changes.
@@ -49,7 +50,6 @@ For combination treatment with Xeloda and docetaxel, see also section 4.2.
 
 Renal impairment.
 The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 ml/min) is increased compared to the overall population (see section 4.2 and 4.3).
-
 As this medicinal product contains anhydrous lactose as an excipient, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 [Xeloda 500 mg film-coated tablets.]

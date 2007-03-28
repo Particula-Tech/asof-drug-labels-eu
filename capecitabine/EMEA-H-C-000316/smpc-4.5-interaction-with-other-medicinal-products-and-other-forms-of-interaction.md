@@ -31,7 +31,6 @@ Interaction with cytochrome P-450: For potential interactions with isozymes 1A2,
 Interferon alpha: the MTD of Xeloda was 2000 mg/m2 per day when combined with interferon alpha-2a (3 MIU/m2 per day) compared to 3000 mg/m2 per day when Xeloda was used alone.
 
 Radiotherapy: the MTD of Xeloda alone using the intermittent regimen is 3000 mg/m2 per day, whereas, when combined with radiotherapy for rectal cancer, the MTD of Xeloda is 2000 mg/m2 per day using either a continuous schedule or given daily Monday through Friday during a 6-week course of radiotherapy.
-
 Food interaction: In all clinical trials, patients were instructed to administer Xeloda within 30 minutes after a meal.
 Since current safety and efficacy data are based upon administration with food, it is recommended that Xeloda be administered with food.
 Administration with food decreases the rate of capecitabine absorption (see section 5.2).
