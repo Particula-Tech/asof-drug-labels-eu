@@ -2,7 +2,7 @@
 
 Each Zonegran hard capsule contains 25 mg of zonisamide.
 
-For excipients, see Section 6.1.
+For a full list of excipients, see section 6.1.
 
 [Zonegran 50 mg hard capsules.]
 
