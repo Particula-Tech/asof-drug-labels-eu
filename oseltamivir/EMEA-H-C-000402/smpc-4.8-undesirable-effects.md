@@ -19,9 +19,9 @@ Most Frequent Adverse Events in Studies in Naturally Acquired Influenza
 |  |  | Placebo | Oseltamivir 75 mg twice | Placebo | Oseltamivir 75 mg once |
 |  |  | (N=1050) | daily (N=1057) | (N=1434) | daily (N=1480) |
 | Gastrointestinal Disorders | Vomiting 2 Nausea 1, 2 Diarrhoea Abdominal Pain | 3.0 % 5.7 % 8.0 % 2.0 % | 8.0 % 7.9 % 5.5 % 2.2 % | 1.0 % 3.9 % 2.6 % 1.6 % | 2.1 % 7.0 % 3.2 % 2.0 % |
-| Infections and Infestations | Bronchitis Bronchitis acute | 5.0 % 1.0 % | 3.7 % 1.0 % | 1.2 % - | 0.7 % - |
+| Infections and Infestations | Bronchitis Bronchitis acute Cough | 5.0 % 1.0 % 1.1 % | 3.7 % 1.0 % 0.9 % | 1.2 % - 6.0 % | 0.7 % - 5.6 % |
 | General Disorders | Dizziness Fatigue | 3.0 % 0.7 % | 1.9 % 0.8 % | 1.5 % 7.5 % | 1.6 % 7.9 % |
-| Neurological Disorders | Headache Insomnia | 1.5 % 1.0 % | 1.6 % 1.0 % | 17.5 % 1.0 % | 20.1 % 1.2 % |
+| Neurological Disorders | Headache Insomnia Vertigo | 1.5 % 1.0 % 0.6 % | 1.6 % 1.0 % 0.9 % | 17.5 % 1.0 % 0.2 % | 20.1 % 1.2 % 0.3 % |
 
 1 Subjects who experienced nausea alone; excludes subjects who experienced nausea in association with vomiting.
 2 The difference between the placebo and oseltamivir groups was statistically significant.
@@ -59,6 +59,11 @@ The adverse events were consistent with those previously observed (see table abo
 Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: dermatitis, rash, eczema, urticaria, angioneurotic oedema, hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, as well as very rare reports of severe skin reactions, including Stevens-Johnson syndrome, toxic epidermal necrolysis and erythema multiforme.
 Additionally, there are very rare reports of hepato-biliary system disorders, including hepatitis and elevated liver enzymes in patients with influenza-like illness.
 
+Convulsions and psychiatric events such as depressed level of consciousness, abnormal behavior, hallucinations and delirium have been reported during Tamiflu administration.
+In rare cases, the delirium resulted in accidental injury.
+The symptoms were mainly reported in children and adolescents.
+Convulsions and psychiatric symptoms have also been reported in patients with influenza not taking Tamiflu.
+
 [Tamiflu 12 mg/ml powder for oral suspension.]
 
 Prevention of influenza.
@@ -69,10 +74,10 @@ In prevention studies, where the dosage of oseltamivir was 75 mg once daily for 
 |  |  | Placebo | Oseltamivir 75 mg twice | Placebo | Oseltamivir 75 mg once |
 |  |  | (N = 1050) | daily (N = 1057) | (N = 1434) | daily (N = 1480) |
 | Gastrointestinal Disorders | Vomiting 2 Nausea 1, 2 Diarrhoea Abdominal Pain | 3.0 % 5.7 % 8.0 % 2.0 % | 8.0 % 7.9 % 5.5 % 2.2 % | 1.0 % 3.9 % 2.6 % 1.6 % | 2.1 % 7.0 % 3.2 % 2.0 % |
-| Infections and Infestations | Bronchitis Bronchitis acute | 5.0 % 1.0 % | 3.7 % 1.0 % | 1.2 % - | 0.7 % - |
+| Infections and Infestations | Bronchitis Bronchitis acute Cough | 5.0 % 1.0 % 1.1 % | 3.7 % 1.0 % 0.9 % | 1.2 % - 6.0 % | 0.7 % - 5.6 % |
 | General Disorders | Dizziness Fatigue | 3.0 % 0.7 % | 1.9 % 0.8 % | 1.5 % 7.5 % | 1.6 % 7.9 % |
 | Neurological Disorders | Headache | 1.5 % | 1.6 % | 17.5 % | 20.1 % |
-|  | Insomnia | 1.0 % | 1.0 % | 1.0 % | 1.2 % |
+|  | Insomnia Vertigo | 1.0 % 0.6 % | 1.0 % 0.9 % | 1.0 % 0.2 % | 1.2 % 0.3 % |
 
 Adverse events occurring in greater 1 % of children receiving oseltamivir are listed in the table below.
 
@@ -81,12 +86,12 @@ Most Frequent Adverse Events in Studies in Naturally Acquired Influenza in Child
 |  | Treatmenta |  | Treatmentb | Preventionb |
 | --- | --- | --- | --- | --- |
 | Adverse Event | Placebo N=517 | Oseltamivir 2 mg/kg bid N=515 | Oseltamivir 30 to 75 mgc N=158 | Oseltamivir 30 to 75 mg c N=99 |
-| Vomiting Diarrhoea Otitis media Abdominal pain Asthma (including aggravated) Nausea Epistaxis Pneumonia Ear disorder Sinusitis Bronchitis Conjunctivitis Dermatitis Lymphadenopathy | 48 (9.3%) 55 (10.6%) 58 (11.2%) 20 (3.9%) 19 (3.7%) | 77 (15.0%) 49 (9.5%) 45 (8.7%) 24 (4.7%) 18 (3.5%) | 31 (19.6%) 5 (3.2%) 2 (1.3%) 3 (1.9%) - | 10 (10.1%) 1 (1.0%) 2 (2.0%) 3 (3.0%) 1 (1.0%) |
-|  | 22 (4.3%) 13 (2.5%) 17 (3.3%) 6 (1.2%) 13 (2.5%) 11 (2.1%) 2 (0.4%) 10 (1.9%) 8 (1.5%) | 17 (3.3%) 16 (3.1%) 10 (1.9%) 9 (1.7%) 9 (1.7%) 8 (1.6%) 5 (1.0%) 5 (1.0%) 5 (1.0%) | 10 (6.3%) 2 (1.3%) - - - 3 (1.9%) - 1 (0.6%) 1 (0.6%) | 4 (4.0%) 1 (1.0%) - - - - - - - |
+| Vomiting Diarrhoea Otitis media Abdominal pain Asthma (including aggravated) Nausea Epistaxis Pneumonia Ear disorder Sinusitis Bronchitis Conjunctivitis Dermatitis | 48 (9.3%) 55 (10.6%) 58 (11.2%) 20 (3.9%) 19 (3.7%) | 77 (15.0%) 49 (9.5%) 45 (8.7%) 24 (4.7%) 18 (3.5%) | 31 (19.6%) 5 (3.2%) 2 (1.3%) 3 (1.9%) - | 10 (10.1%) 1 (1.0%) 2 (2.0%) 3 (3.0%) 1 (1.0%) |
+|  | 22 (4.3%) 13 (2.5%) 17 (3.3%) 6 (1.2%) 13 (2.5%) 11 (2.1%) 2 (0.4%) 10 (1.9%) | 17 (3.3%) 16 (3.1%) 10 (1.9%) 9 (1.7%) 9 (1.7%) 8 (1.6%) 5 (1.0%) 5 (1.0%) | 10 (6.3%) 2 (1.3%) - - - 3 (1.9%) - 1 (0.6%) | 4 (4.0%) 1 (1.0%) - - - - - - |
 
+Lymphadenopathy 8 (1.5%) 5 (1.0%) 1 (0.6%) -
 Tympanic membrane 6 (1.2%) 5 (1.0%) - -
-
-disorder a Pooled data from Phase III trials of Tamiflu treatment of naturally acquired influenza.
+disorder
 
 Adverse events included are: all events reported in the treatment studies with a frequency ≥1% in the oseltamivir 2 mg/kg mg bid group.
 
