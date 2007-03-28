@@ -25,81 +25,119 @@ Adverse reactions
 Adverse reactions reported as more than an isolated case are listed below, by system organ class and by frequency.
 Frequencies are defined as: very common (>1/10), common (>1/100, ≤1/10), uncommon (>1/1,000, ≤1/100), rare (≤1/1,000), not known (cannot be estimated from the available data).
 
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Within each frequency grouping, undesirable effects are presented in order of frequency, the most frequent first.
 
-Very Common Common Uncommon Rare Not known
+Adverse reactions and their frequencies reported in Table 1 are based on the main registration studies.
 
-| Infections and infestations |  |  | Sepsis, pneumonia, herpes simplex, herpes zoster, upper respiratory tract infection, gastroenteritis |  |  |
-| --- | --- | --- | --- | --- | --- |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  | Tumour haemorrhage, tumour necrosis |  |
-| Blood and lymphatic system disorders | Neutropenia, thrombocytopenia, anaemia | Febrile neutropenia | Pancytopenia, bone marrow depression |  |  |
-| Metabolism and nutrition disorders |  | Anorexia | Dehydration, hyperuricaemia, hypokalaemia, appetite increased, appetite decreased, gout, hypophosphataemia | Hyperkalaemia, hyponatraemia |  |
-| Psychiatric disorders |  |  | Depression, anxiety, libido decreased | Confusion |  |
-| Nervous system disorders | Headache | Dizziness, taste disturbance, paraesthesia, insomnia | Cerebral haemorrhage, syncope, peripheral neuropathy, hypoaesthesia, somnolence, migraine, memory impairment | Cerebral oedema, increased intracranial pressure, convulsions |  |
-| Eye disorders |  | Conjunctivitis, lacrimation increased, vision blurred | Eye irritation, conjunctival haemorrhage, dry eye, orbital oedema | Macular oedema, papilloedema, retinal haemorrhage, vitreous haemorrhage, glaucoma |  |
-| Ear and labyrinth disorders |  |  | Vertigo, tinnitus |  |  |
-| Cardiac disorders |  |  | Cardiac failure, pulmonary oedema, tachycardia | Pericardial effusion, pericarditis, cardiac tamponade |  |
-| Vascular disorders |  |  | Haematoma, hypertension, hypotension, flushing, peripheral coldness | Thrombosis, embolism | Anaphylactic shock |
-| Respiratory, thoracic and mediastinal disorders |  | Epistaxis, dyspnoea | Pleural effusion, cough, pharyngo-laryngeal pain, acute respiratory failure (1) | Pulmonary fibrosis, interstitial pneumonitis |  |
-| Gastrointestinal disorders | Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain | Abdominal distension, flatulence, constipation, | Gastrointestinal haemorrhage, melaena, ascites, gastric ulcer, | Colitis, diverticulitis, ileus, intestinal obstruction, |  |
+Table 1 Adverse reactions in clinical studies
 
-gastro- gastritis, eructation, gastrointestinal
-oesophageal dry mouth, perforation (2)
-reflux, mouth pancreatitis
-ulceration
-Hepatobiliary Increased hepatic Jaundice, hepatitis, Hepatic failure,
-disorders enzymes hyperbilirubinaemia hepatic necrosis
-(3)
-Skin and Periorbital oedema, Face oedema, Petechiae, Angioedema,
-subcutaneous dermatitis/eczema/ eyelid oedema, contusion, sweating vesicular rash,
-tissue disorders rash pruritus, increased, urticaria, Stevens-Johnson
-erythema, dry onychoclasis, syndrome, acute
-skin, alopecia, photosensitivity febrile
-night sweats reaction, purpura, neutrophilic
-hypotrichosis, dermatosis
-cheilitis, skin (Sweet’s
-hyperpigmentation, syndrome)
-skin
-hypopigmentation,
-psoriasis,
-exfoliative
-dermatitis and
-bullous eruptions
-Musculoskeletal Muscle spasm and Joint swelling Sciatica, joint and Aseptic necrosis
-and connective cramps, muscle stiffness of bone, mainly
-tissue disorders musculoskeletal in femoral head
-pain including
-arthralgia
-Renal and Renal failure, renal
-urinary pain, urinary
-disorders frequency
-increased,
-haematuria
-Reproductive Gynaecomastia,
-system and breast enlargement,
-breast disorders scrotal oedema,
-menorrhagia, nipple
-pain, sexual
-dysfunction
-General Fluid retention and Pyrexia, Malaise, Anasarca
-disorders and oedema, fatigue weakness, rigors haemorrhage
-administration
-site conditions
-Investigations Weight increased Blood alkaline
-phosphatase
-increased, blood
-creatinine increased,
-weight decreased,
-blood creatine
-phosphokinase
-increased, blood
-lactate
-dehydrogenase
-increased
+| Investigations |  |
+| --- | --- |
+| Very common: | Weight increased |
+| Common: | Weight decreased |
+| Uncommon: | Blood creatinine increased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased, blood alkaline phosphatase increased |
+| Rare: | Blood amylase increased |
+| Cardiac disorders |  |
+| Uncommon: | Palpitations, tachycardia, cardiac failure congestive1, pulmonary oedema |
+| Rare: | Arrhythmia, atrial fibrillation, cardiac arrest, myocardial infarction, angina pectoris, pericardial effusion |
+| Blood and lymphatic system disorders |  |
+| Very common: | Neutropenia, thrombocytopenia, anaemia |
+| Common: | Pancytopenia, febrile neutropenia |
+| Uncommon: | Thrombocythaemia, lymphopenia, bone marrow depression, eosinophilia, lymphadenopathy |
+| Rare: | Haemolytic anaemia |
+| Nervous system disorders |  |
+| Very common: | Headache2 |
+| Common: | Dizziness, paraesthesia, taste disturbance, hypoaesthesia |
+| Uncommon: | Migraine, somnolence, syncope, peripheral neuropathy, memory impairment, sciatica, restless leg syndrome, tremor, cerebral haemorrhage |
+| Rare: | Increased intracranial pressure, convulsions, optic neuritis |
+| Eye disorders |  |
+| Common: | Eyelid oedema, lacrimation increased, conjunctival haemorrhage, conjunctivitis, dry eye, blurred vision |
+| Uncommon: | Eye irritation, eye pain, orbital oedema, scleral haemorrhage, retinal haemorrhage, blepharitis, macular oedema |
+| Rare: | Cataract, glaucoma, papilloedema |
+| Ear and labyrinth disorders |  |
+| Uncommon: | Vertigo, tinnitus, hearing loss |
+| Respiratory, thoracic and mediastinal disorders |  |
+| Common: | Dyspnoea, epistaxis, cough |
+| Uncommon: | Pleural effusion3, pharyngolaryngeal pain, pharyngitis |
+| Rare: | Pleuritic pain, pulmonary fibrosis, pulmonary hypertension, pulmonary haemorrhage |
+| Gastrointestinal disorders |  |
+| Very common: | Nausea, diarrhoea, vomiting, dyspepsia, abdominal pain4 |
+| Common: | Flatulence, abdominal distension, gastro-oesophageal reflux, constipation, dry mouth, gastritis |
+| Uncommon: | Stomatitis, mouth ulceration, gastrointestinal haemorrhage5, eructation, melaena, oesophagitis, ascites, gastric ulcer, haematemesis, cheilitis, dysphagia, pancreatitis |
+| Rare: | Colitis, ileus, inflammatory bowel disease |
+| Renal and urinary disorders |  |
+| Uncommon: | Renal pain, haematuria, renal failure acute, urinary frequency increased |
+| Skin and subcutaneous tissue disorders |  |
+| Very common: | Periorbital oedema, dermatitis/eczema/rash |
+| Common: | Pruritus, face oedema, dry skin, erythema, alopecia, night sweats, photosensitivity reaction |
+| Uncommon: | Rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, dermatitis exfoliative, onychoclasis, folliculitis, petechiae, psoriasis, purpura, skin hyperpigmentation, bullous eruptions |
+| Rare: | Acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforma, leucocytoclastic vasculitis, Stevens-Johnson syndrome |
+| Musculoskeletal and connective tissue disorders |  |
+| Very common: | Muscle spasm and cramps, musculoskeletal pain including myalgia, arthralgia, bone pain6 |
+| Common: | Joint swelling |
+| Uncommon: | Joint and muscle stiffness |
+| Rare: | Muscular weakness, arthritis |
+| Metabolism and nutrition disorders |  |
+| Common: | Anorexia |
+| Uncommon: | Hypokalaemia, increased appetite, hypophosphataemia, decreased appetite, dehydration, gout, hyperuricaemia, hypercalcaemia, hyperglycaemia, hyponatraemia |
+| Rare: | Hyperkalaemia, hypomagnesaemia |
+| Infections and infestations |  |
+| Uncommon: | Herpes zoster, herpes simplex, nasopharyngitis, pneumonia7, sinusitis, cellulites, upper respiratory tract infection, influenza, urinary tract infection, gastroenteritis, sepsis |
+| Rare: | Fungal infection |
+| Vascular disorders8 |  |
+| Common: | Flushing, haemorrhage |
+| Uncommon: | Hypertension, haematoma, peripheral coldness, hypotension, Raynaud’s phenomenon |
+| General disorders and administration site conditions |  |
+| Very common: | Fluid retention and oedema, fatigue |
+| Common: | Weakness, pyrexia, anasarca, chills, rigors |
+| Uncommon: | Chest pain, malaise |
+| Hepatobiliary disorders |  |
+| Common: | Increased hepatic enzymes |
+| Uncommon: | Hyperbilirubinaemia, hepatitis, jaundice |
+| Rare: | Hepatic failure9, hepatic necrosis |
+| Reproductive system and breast disorders |  |
+| Uncommon: | Gynaecomastia, erectile dysfunction, menorrhagia, menstruation irregular, sexual dysfunction, nipple pain, breast enlargement, scrotal oedema |
+| Psychiatric disorders |  |
+| Common: | Insomnia |
+| Uncommon: | Depression, libido decreased, anxiety |
+| Rare: | Confusional state |
 
-(1) Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant clinical conditions.
-(2) Some fatal cases of gastrointestinal perforation have been reported.
-(3) Some fatal cases of hepatic necrosis have been reported.
+1 On a patient-year basis, cardiac events including congestive heart failure were more commonly observed in patients with transformed CML than in patients with chronic CML.
+2 Headache was the most common in GIST patients.
+3 Pleural effusion was reported more commonly in patients with GIST and in patients with transformed CML (CML-AP and CML-BC) than in patients with chronic CML.
+4+5 Abdominal pain and gastrointestinal haemorrhage were most commonly observed in GIST patients.
+6 Musculoskeletal pain and related events were more commonly observed in patients with CML than in GIST patients.
+7 Pneumonia was reported most commonly in patients with transformed CML and in patients with GIST.
+8 Flushing was most common in GIST patients and bleeding (haematoma, haemorrhage) was most common in patients with GIST and with transformed CML (CML-AP and CML-BC).
+9 Some fatal cases of hepatic failure and of hepatic necrosis have been reported.
+
+The following types of reactions have been reported mainly from post-marketing experience with Glivec.
+This includes spontaneous case reports as well as serious adverse events from ongoing studies, the expanded access programmes, clinical pharmacology studies and exploratory studies in unapproved indications.
+Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to imatinib exposure.
+
+Table 2 Adverse reactions from post-marketing reports
+
+| Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |
+| --- | --- |
+| Not known: | Tumour haemorrhage/tumour necrosis |
+| Immune system disorders |  |
+| Not known: | Anaphylactic shock |
+| Cardiac disorders |  |
+| Not known: | Pericarditis, cardiac tamponade |
+| Nervous system disorders |  |
+| Not known: | Cerebral oedema |
+| Eye disorders |  |
+| Not known: | Vitreous haemorrhage |
+| Respiratory, thoracic and mediastinal disorders |  |
+| Not known: | Acute respiratory failure1, interstitial lung disease |
+| Gastrointestinal disorders |  |
+| Not known: | Ileus/intestinal obstruction, gastrointestinal perforation, diverticulitis |
+| Musculoskeletal and connective tissue disorders |  |
+| Not known: | Avascular necrosis/hip necrosis |
+| Vascular disorders |  |
+| Not known: | Thrombosis/embolism |
+
+1 Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant conditions.
 
 Laboratory test abnormalities
 Haematology
@@ -123,36 +161,3 @@ In GIST patients (study B2222), 6.8% of grade 3 or 4 ALT (alanine aminotransfera
 Bilirubin elevation was below 3%.
 
 There have been cases of cytolytic and cholestatic hepatitis and hepatic failure; in some of them outcome was fatal, including one patient on high dose paracetamol.
-
-[Glivec 100 mg hard capsules]
-
-(all sentences already above)
-
-[Glivec 100 mg film-coated tablets]
-
-|  | Very Common | Common | Uncommon | Rare | Not known |
-| --- | --- | --- | --- | --- | --- |
-| Infections and infestations |  |  | Sepsis, pneumonia, herpes simplex, herpes zoster, upper respiratory tract infection, gastroenteritis |  |  |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  |  |  | Tumour haemorrhage, tumour necrosis |  |
-| Blood and lymphatic system disorders | Neutropenia, thrombocytopenia, anaemia | Febrile neutropenia | Pancytopenia, bone marrow depression |  |  |
-| Metabolism and nutrition disorders |  | Anorexia | Dehydration, hyperuricaemia, hypokalaemia, appetite increased, appetite decreased, gout, hypophosphataemia | Hyperkalaemia, hyponatraemia |  |
-| Psychiatric disorders |  |  | Depression, anxiety, libido decreased | Confusion |  |
-| Nervous system disorders | Headache | Dizziness, taste disturbance, paraesthesia, insomnia | Cerebral haemorrhage, syncope, peripheral neuropathy, hypoaesthesia, somnolence, migraine, memory impairment | Cerebral oedema, increased intracranial pressure, convulsions |  |
-| Eye disorders |  | Conjunctivitis, lacrimation increased, vision blurred | Eye irritation, conjunctival haemorrhage, dry eye, orbital oedema | Macular oedema, papilloedema, retinal haemorrhage, vitreous haemorrhage, glaucoma |  |
-| Ear and labyrinth disorders |  |  | Vertigo, tinnitus |  |  |
-| Cardiac disorders |  |  | Cardiac failure, pulmonary oedema, tachycardia | Pericardial effusion, pericarditis, cardiac tamponade |  |
-| Vascular disorders |  |  | Haematoma, hypertension, hypotension, flushing, peripheral coldness | Thrombosis, embolism | Anaphylactic shock |
-
-Respiratory, Epistaxis, Pleural effusion, Pulmonary
-thoracic and dyspnoea cough, pharyngo- fibrosis,
-mediastinal laryngeal pain, interstitial
-disorders acute respiratory pneumonitis
-failure (1)
-Gastrointestinal Nausea, vomiting, Abdominal Gastrointestinal Colitis,
-disorders diarrhoea, distension, haemorrhage, diverticulitis,
-dyspepsia, flatulence, melaena, ascites, ileus, intestinal
-abdominal pain constipation, gastric ulcer, obstruction,
-
-[Glivec 400 mg film-coated tablets]
-
-(all sentences already above)

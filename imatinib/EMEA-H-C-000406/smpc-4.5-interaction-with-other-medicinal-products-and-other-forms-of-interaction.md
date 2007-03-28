@@ -7,8 +7,10 @@ Caution should be taken when administering Glivec with inhibitors of the CYP3A4 
 
 Active substances that may decrease imatinib plasma concentrations:
 Substances that are inducers of CYP3A4 activity could increase metabolism and decrease imatinib plasma concentrations.
-Co-medications which induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
+Co-medications which induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital, fosphenytoin, primidone or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
 Pretreatment with multiple doses of rifampicin 600 mg followed by a single 400 mg dose of Glivec resulted in decrease in Cmax and AUC(0-∞) by at least 54% and 74%, of the respective values without rifampicin treatment.
+Similar results were observed in patients with malignant gliomas treated with Glivec while taking enzyme-inducing anti-epileptic drugs (EIAEDs) such as carbamazepine, oxcarbamazepine and phenytoin.
+The plasma AUC for imatinib decreased by 73% compared to patients not on EIAEDs.
 Concomitant use of rifampicin or other strong CYP3A4 inducers and imatinib should be avoided.
 
 Active substances that may have their plasma concentration altered by Glivec
@@ -19,8 +21,9 @@ Glivec may increase plasma concentration of other CYP3A4 metabolised drugs (e.g.
 Because warfarin is metabolised by CYP2C9, patients who require anticoagulation should receive low-molecular-weight or standard heparin.
 
 In vitro Glivec inhibits the cytochrome P450 isoenzyme CYP2D6 activity at concentrations similar to those that affect CYP3A4 activity.
-Systemic exposure to substrates of CYP2D6 is therefore potentially increased when co-administered with Glivec.
-No specific studies have been performed however and caution is recommended.
+Imatinib at 400 mg twice daily had an inhibitory effect on CYP2D6-mediated metoprolol metabolism, with metoprolol Cmax and AUC being increased by approximately 23% (90%CI [1.16-1.30]).
+Dose adjustments do not seem to be necessary when imatinib is co-administrated with CYP2D6 substrates, however caution is advised for CYP2D6 substrates with a narrow therapeutic window such as metoprolol.
+In patients treated with metoprolol clinical monitoring should be considered.
 
 In vitro, Glivec inhibits paracetamol O-glucuronidation (Ki value of 58.5 micromol/l at therapeutic levels).
 

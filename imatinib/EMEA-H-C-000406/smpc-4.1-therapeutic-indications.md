@@ -2,8 +2,8 @@
 
 Glivec is indicated for the treatment of
 
-- adult and paediatric patients with newly diagnosed Philadelphia chromosome (bcr-abl) positive (Ph+) chronic myeloid leukaemia (CML) for whom bone marrow transplantation is not considered as the first line of treatment (for paediatric use see section 4.2).
-- adult and paediatric patients with Ph+ CML in chronic phase after failure of interferon-alpha therapy, or in accelerated phase or blast crisis (for paediatric use see section 4.2).
+- adult and paediatric patients with newly diagnosed Philadelphia chromosome (bcr-abl) positive (Ph+) chronic myeloid leukaemia (CML) for whom bone marrow transplantation is not considered as the first line of treatment.
+- adult and paediatric patients with Ph+ CML in chronic phase after failure of interferon-alpha therapy, or in accelerated phase or blast crisis.
 - adult patients with newly diagnosed Philadelphia chromosome positive acute lymphoblastic leukaemia (Ph+ ALL) integrated with chemotherapy.
 - adult patients with relapsed or refractory Ph+ ALL as monotherapy.
 - adult patients with myelodysplastic/myeloproliferative diseases (MDS/MPD) associated with platelet-derived growth factor receptor (PDGFR) gene re-arrangements.
