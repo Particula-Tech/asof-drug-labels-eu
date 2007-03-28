@@ -2,6 +2,7 @@
 
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
 Changes in strength, brand (manufacturer), type (regular, NPH, lente, etc.), species (animal, human, human insulin analogue), and/or method of manufacture (recombinant DNA versus animal-source insulin) may result in the need for a change in dosage.
+For fast-acting insulins, any patient also on basal insulin must optimise dosage of both insulins to obtain glucose control across the whole day, particularly nocturnal/fasting glucose control.
 
 The shorter-acting Humalog should be drawn into the syringe first, to prevent contamination of the vial by the longer-acting insulin.
 Mixing of the insulins ahead of time or just before the injection should be on advice of the physician.

@@ -19,8 +19,8 @@ This rapid onset of activity allows a Humalog injection (or, in the case of admi
 The time course of action of any insulin may vary considerably in different individuals or at different times in the same individual.
 The faster onset of action compared to soluble human insulin is maintained regardless of injection site.
 As with all insulin preparations, the duration of action of Humalog is dependent on dose, site of injection, blood supply, temperature, and physical activity.
-Humalog can be used in conjunction with a longer-acting human insulin or oral sulphonylurea agents, on the advice of a physician.
 
+Humalog can be used in conjunction with a longer-acting human insulin or oral sulphonylurea agents, on the advice of a physician.
 Instructions for use and handling
 The vial is to be used in conjunction with an appropriate syringe (100 U markings).
 
@@ -85,7 +85,6 @@ Making sure the tip of the needle is in the Humalog, withdraw the correct dose o
 Before removing the needle from the vial, check the syringe for air bubbles that reduce the amount of Humalog in it.
 If bubbles are present, hold the syringe straight up and tap its side until the bubbles float to the top.
 Push them out with the plunger and withdraw the correct dose.
-
 7.
 Remove the needle from the vial of Humalog and insert it into the vial of the longer-acting insulin.
 Turn the vial and syringe upside down.

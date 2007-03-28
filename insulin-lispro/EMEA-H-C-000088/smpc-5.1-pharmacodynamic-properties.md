@@ -12,13 +12,13 @@ Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allo
 Insulin lispro takes effect rapidly and has a shorter duration of activity (2 to 5 hours) when compared to regular insulin.
 
 Clinical trials in patients with type 1 and type 2 diabetes have demonstrated reduced postprandial hyperglycaemia with insulin lispro compared to soluble human insulin.
-For fast-acting insulins, any patient also on a basal insulin must optimise dosage of both insulins to obtain improved glucose control across the whole day.
 
 As with all insulin preparations, the time course of insulin lispro action may vary in different individuals or at different times in the same individual and is dependent on dose, site of injection, blood supply, temperature and physical activity.
 The typical activity profile following subcutaneous injection is illustrated below.
 
 Insulin
 Lispro
+
 Humulin R
 Hypoglycaemic
 Activity
@@ -27,9 +27,9 @@ Activity
 
 Time (Hours)
 The above representation reflects the relative amount of glucose over time required to maintain the subject's whole blood glucose concentrations near fasting levels and is an indicator of the effect of these insulins on glucose metabolism over time.
+
 Clinical trials have been performed in children (61 patients aged 2 to 11) and children and adolescents (481 patients aged 9 to 19 years), comparing insulin lispro to human soluble insulin.
 The pharmacodynamic profile of insulin lispro in children is similar to that seen in adults.
-
 When used in subcutaneous infusion pumps, treatment with insulin lispro has been shown to result in lower glycosylated haemoglobin levels compared to soluble insulin.
 In a double-blind, crossover study, the reduction in glycosylated haemoglobin levels after 12 weeks dosing was 0.37 percentage points with insulin lispro, compared to 0.03 percentage points for soluble insulin (p = 0.004).
 
