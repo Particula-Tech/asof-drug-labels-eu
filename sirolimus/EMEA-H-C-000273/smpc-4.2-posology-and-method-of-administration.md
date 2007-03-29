@@ -17,10 +17,11 @@ In such patients, when clinically appropriate, Rapamune should be discontinued a
 
 Use in black recipients: There is limited information indicating that black renal transplant recipients (predominantly African-American) require higher doses and trough levels of sirolimus to achieve the same efficacy as observed in non-black patients.
 Currently, the efficacy and safety data are too limited to allow specific recommendations for use of sirolimus in black recipients.
+
 Use in children and adolescents(<18 years): There is insufficient experience to recommend the use of sirolimus in children and adolescents.
 Limited pharmacokinetic information is available in children (see section 5.2).
 
-Use inelderly patients (> 65 years): Clinical studies of Rapamune did not include a sufficient number of patients >65 years of age to determine whether they will respond differently than younger patients.
+Use in elderly patients (> 65 years): Clinical studies of Rapamune did not include a sufficient number of patients >65 years of age to determine whether they will respond differently than younger patients.
 Sirolimus trough concentration data in 35 renal transplant patients >65 years of age were similar to those in the adult population (n=822) from 18 to 65 years of age.
 
 Use in patients with renal impairment: No dosage adjustment is required (see section 5.2).
@@ -50,7 +51,6 @@ A loading dose should be considered in addition to a new maintenance dose when i
 The maximum Rapamune dose administered on any day should not exceed 40 mg.
 If an estimated daily dose exceeds 40 mg due to the addition of a loading dose, the loading dose should be administered over 2 days.
 Sirolimus trough concentrations should be monitored at least 3 to 4 days after a loading dose(s).
-
 The recommended 24-hour trough concentration ranges for sirolimus are based on chromatographic methods.
 Several assay methodologies have been used to measure the whole blood concentrations of sirolimus.
 Currently in clinical practice, sirolimus whole blood concentration are being measured by both chromatographic and immunoassay methodologies.

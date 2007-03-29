@@ -19,52 +19,6 @@ Pyelonephritis
 Herpes simplex
 Fungal, viral, and
 bacterial infections
-
-|  |  | (such as mycobacterial infections, Epstein-Barr virus, CMV, and Herpes zoster) |  |  |
-| --- | --- | --- | --- | --- |
-| Neoplasms benign, malignant and unspecified (including cysts and polyps) |  | Skin Cancer | Lymphoma / post transplant lymphoproliferative disorder |  |
-| Blood and lymphatic system disorders | Thrombocytopenia Anaemia | Thrombotic thrombocytopenic purpura/haemolytic uraemic syndrome Leukopenia Neutropenia | Pancytopenia |  |
-| Hepatobiliary disorders |  | Liver function tests abnormal |  |  |
-| Immune system disorders |  |  |  | Hypersensitivity reactions, including anaphylactic/ anaphylactoid reactions, angioedema, and hypersensitivity vasculitis (see section 4.4) |
-| Metabolism and nutrition disorders | Hypokalaemia Hypercholesterolaemia Hypertriglyceridaemia |  |  |  |
-| Cardiac disorders |  | Tachycardia |  |  |
-| Vascular disorders | Lymphocele | Deep vein thrombosis | Pulmonary embolism | Lymphoedema |
-| Respiratory, thoracic, and mediastinal disorders |  | Pneumonitis Epistaxis | Pulmonary haemorrhage |  |
-| Gastrointestinal disorders | Abdominal pain Diarrhoea | Stomatitis | Pancreatitis |  |
-| Skin and subcutaneous tissue disorders | Acne | Rash |  |  |
-| Musculoskeletal and connective tissue disorders | Arthralgia | Osteonecrosis |  |  |
-| Renal and urinary disorders |  | Proteinuria |  |  |
-| General disorders and administration site conditions | Oedema peripheral | Impaired healing Oedema Pyrexia |  |  |
-
-Investigations Blood lactate Aspartate
-dehydrogenase aminotransferase
-increased increased
-Alanine
-aminotransferase
-increased
-
-Immunosuppression increases the susceptibility to the development of lymphoma and other malignancies, particularly of the skin (see section 4.4).
-
-Hepatotoxicity has been reported, the risk may increase as the trough sirolimus level increases.
-There have been rare reports of fatal hepatic necrosis with elevated trough sirolimus levels.
-
-Cases of interstitial lung disease (including pneumonitis and infrequently bronchiolitis obliterans organising pneumonia (BOOP) and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
-In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
-The risk may be increased as the trough sirolimus level increases.
-
-Impaired healing following transplant surgery has been reported, including fascial dehiscence and anastomotic disruption (e.g. wound, vascular, airway, ureteral, biliary).
-
-In patients with delayed graft function, sirolimus may delay recovery of renal function.
-
-The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA.
-
-In an ongoing study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/mL) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 mL/min.
-There was a higher rate of serious adverse events including pneumonia, acute rejection, graft loss and death in this sirolimus treatment arm (n=60, median time post-transplant 36 months).
-
-[Rapamune 1 mg coated tablets]
-
-The most commonly reported adverse drug reactions (occuring in >10% of patients) are thrombocytopenia, anaemia, hypokalaemia, urinary tract infection, hypercholesterolaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, and increased blood lactate dehydrogenase (LDH).
-
 (such as
 mycobacterial
 infections, Epstein-
@@ -104,6 +58,7 @@ disorders thrombosis embolism
 Respiratory, Pneumonitis Pulmonary
 thoracic, and Epistaxis haemorrhage
 mediastinal
+disorders
 Gastrointestinal Abdominal pain Stomatitis Pancreatitis
 disorders Diarrhoea
 Skin and Acne Rash
@@ -111,12 +66,54 @@ subcutaneous
 tissue disorders
 Musculoskeletal Arthralgia Osteonecrosis
 and connective
-Renal and Proteinuria
-urinary
+tissue disorders
+Renal and Proteinuria Nephrotic
+urinary syndrome (see
+disorders section 4.4)
 General Oedema peripheral Impaired healing
 disorders and Oedema
 administration Pyrexia
 site conditions
+Investigations Blood lactate Aspartate
+dehydrogenase aminotransferase
+increased increased
+Alanine
+aminotransferase
+increased
+
+Immunosuppression increases the susceptibility to the development of lymphoma and other malignancies, particularly of the skin (see section 4.4).
+
+Hepatotoxicity has been reported, the risk may increase as the trough sirolimus level increases.
+There have been rare reports of fatal hepatic necrosis with elevated trough sirolimus levels.
+
+Cases of interstitial lung disease (including pneumonitis and infrequently bronchiolitis obliterans organising pneumonia (BOOP) and pulmonary fibrosis), some fatal, with no identified infectious etiology have occurred in patients receiving immunosuppressive regimens including Rapamune.
+In some cases, the interstitial lung disease has resolved upon discontinuation or dose reduction of Rapamune.
+The risk may be increased as the trough sirolimus level increases.
+
+Impaired healing following transplant surgery has been reported, including fascial dehiscence and anastomotic disruption (e.g. wound, vascular, airway, ureteral, biliary).
+
+In patients with delayed graft function, sirolimus may delay recovery of renal function.
+
+The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA.
+
+In an ongoing study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/mL) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 mL/min (see section 5.1).
+There was a higher rate of serious adverse events including pneumonia, acute rejection, graft loss and death in this sirolimus treatment arm (n=60, median time post-transplant 36 months).
+
+[Rapamune 1 mg coated tablets]
+
+The most commonly reported adverse drug reactions (occuring in >10% of patients) are thrombocytopenia, anaemia, hypokalaemia, urinary tract infection, hypercholesterolaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, and increased blood lactate dehydrogenase (LDH).
+
+| nutrition disorders | Hypercholesterolaemia Hypertriglyceridaemia |  |  |  |
+| --- | --- | --- | --- | --- |
+| Cardiac disorders |  | Tachycardia |  |  |
+| Vascular disorders | Lymphocele | Deep vein thrombosis | Pulmonary embolism | Lymphoedema |
+| Respiratory, thoracic, and mediastinal disorders |  | Pneumonitis Epistaxis | Pulmonary haemorrhage |  |
+| Gastrointestinal disorders | Abdominal pain Diarrhoea | Stomatitis | Pancreatitis |  |
+| Skin and subcutaneous tissue disorders | Acne | Rash |  |  |
+| Musculoskeletal and connective tissue disorders | Arthralgia | Osteonecrosis |  |  |
+| Renal and urinary disorders |  | Proteinuria | Nephrotic syndrome (see section 4.4) |  |
+| General disorders and administration site conditions | Oedema peripheral | Impaired healing Oedema Pyrexia |  |  |
+| Investigations | Blood lactate dehydrogenase increased | Aspartate aminotransferase increased Alanine aminotransferase increased |  |  |
 
 Hepatoxicity has been reported.
 The risk may increase as the trough sirolimus level increases.
@@ -124,7 +121,17 @@ Rare reports of fatal hepatic necrosis have been reported with elevated trough s
 
 [Rapamune 2 mg coated tablets]
 
-(all sentences already above)
+| disorders | Hypertriglyceridaemia |  |  |  |
+| --- | --- | --- | --- | --- |
+| Cardiac disorders |  | Tachycardia |  |  |
+| Vascular disorders | Lymphocele | Deep vein thrombosis | Pulmonary embolism | Lymphoedema |
+| Respiratory, thoracic, and mediastinal disorders |  | Pneumonitis Epistaxis | Pulmonary haemorrhage |  |
+| Gastrointestinal disorders | Abdominal pain Diarrhoea | Stomatitis | Pancreatitis |  |
+| Skin and subcutaneous tissue disorders | Acne | Rash |  |  |
+| Musculoskeletal and connective tissue disorders | Arthralgia | Osteonecrosis |  |  |
+| Renal and urinary disorders |  | Proteinuria | Nephrotic syndrome (see section 4.4) |  |
+| General disorders and administration site conditions | Oedema peripheral | Impaired healing Oedema Pyrexia |  |  |
+| Investigations | Blood lactate dehydrogenase increased | Aspartate aminotransferase increased Alanine aminotransferase increased |  |  |
 
 [Rapamune 5 mg coated tablets]
 

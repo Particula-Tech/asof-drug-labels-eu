@@ -38,7 +38,6 @@ Erythromycin (CYP3A4 inhibitor): Multiple-dose administration of erythromycin an
 Whole blood sirolimus Cmax, tmax, and AUC were increased 4.4-fold, 1.4-fold, and 4.2-fold, respectively.
 The Cmax, tmax, and AUC of plasma erythromycin base were increased 1.6-fold, 1.3-fold, and 1.7-fold, respectively.
 Sirolimus levels should be monitored and appropriate dose reductions of both medications should be considered.
-
 Oral contraceptives: No clinically significant pharmacokinetic interaction was observed between sirolimus and 0.3 mg norgestrel/ 0.03 mg ethinyl estradiol.
 Although the results of a single dose drug interaction study with an oral contraceptive suggest the lack of a pharmacokinetic interaction, the results cannot exclude the possibility of changes in the pharmacokinetics that might affect the efficacy of the oral contraceptive during long term treatment with Rapamune.
 
@@ -46,6 +45,7 @@ Other possible interactions
 Moderate and weak inhibitors of CYP3A4 may decrease the metabolism of sirolimus and increase sirolimus blood levels (e.g. calcium channel blockers: nicardipine; antifungal agents: clotrimazole, fluconazole; antibiotics: troleandomycin; other substances: bromocriptine, cimetidine, danazol, protease inhibitors).
 
 Inducers of CYP3A4 may increase the metabolism of sirolimus and decrease sirolimus blood levels (e.g. St. John's wort (Hypericum perforatum), anticonvulsants: carbamazepine, phenobarbital, phenytoin).
+
 Although sirolimus inhibits human liver microsomal cytochrome P450 CYP2C9, CYP2C19, CYP2D6, and CYP3A4/5 in vitro, the active substance is not expected to inhibit the activity of these isozymes in vivo since the sirolimus concentrations necessary to produce inhibition are much higher than those observed in patients receiving therapeutic doses of Rapamune.
 Inhibitors of P-gp may decrease the efflux of sirolimus from intestinal cells and increase sirolimus levels.
 
@@ -58,7 +58,6 @@ No clinically significant pharmacokinetic interaction was observed between sirol
 [Rapamune 1 mg coated tablets]
 
 Sirolimus is extensively metabolized by the CYP3A4 isozyme in the intestinal wall and liver.
-Co-administration of sirolimus with strong inhibitors of CYP3A4 or inducers of CYP3A4 is not recommended (seesection 4.4).
 
 Single-dose sirolimusdid not affect the pharmacokinetics of ciclosporin (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart.
 

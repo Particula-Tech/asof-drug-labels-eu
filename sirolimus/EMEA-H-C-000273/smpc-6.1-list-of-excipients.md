@@ -30,4 +30,4 @@ Yellow iron oxide (E172)
 
 [Rapamune 5 mg coated tablets]
 
-Talctalc.
+(all sentences already above)
