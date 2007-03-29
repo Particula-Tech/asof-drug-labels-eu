@@ -18,7 +18,6 @@ The typical activity profile following subcutaneous injection is illustrated bel
 
 Insulin
 Lispro
-
 Humulin R
 Hypoglycaemic
 Activity
@@ -30,6 +29,7 @@ The above representation reflects the relative amount of glucose over time requi
 
 Clinical trials have been performed in children (61 patients aged 2 to 11) and children and adolescents (481 patients aged 9 to 19 years), comparing insulin lispro to human soluble insulin.
 The pharmacodynamic profile of insulin lispro in children is similar to that seen in adults.
+
 When used in subcutaneous infusion pumps, treatment with insulin lispro has been shown to result in lower glycosylated haemoglobin levels compared to soluble insulin.
 In a double-blind, crossover study, the reduction in glycosylated haemoglobin levels after 12 weeks dosing was 0.37 percentage points with insulin lispro, compared to 0.03 percentage points for soluble insulin (p = 0.004).
 
