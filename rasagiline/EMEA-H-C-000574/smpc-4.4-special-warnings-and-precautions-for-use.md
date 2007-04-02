@@ -1,4 +1,4 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 The concomitant use of rasagiline and fluoxetine or fluvoxamine should be avoided (see section 4.5).
 At least five weeks should elapse between discontinuation of fluoxetine and initiation of treatment with rasagiline.

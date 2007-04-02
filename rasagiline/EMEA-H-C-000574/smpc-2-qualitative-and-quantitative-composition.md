@@ -2,4 +2,4 @@
 
 Each tablet contains 1 mg rasagiline (as mesilate).
 
-For excipients, see section 6.1.
+For a full list of excipients, see section 6.1.
