@@ -1,9 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Ligand Pharmaceuticals UK Limited
-Innovis House
-108 High Street
-Crawley
-West Sussex
-RH10 1BB
+Eisai Ltd.
+3 Shortlands
+London
+W6 8EE
 United Kingdom
