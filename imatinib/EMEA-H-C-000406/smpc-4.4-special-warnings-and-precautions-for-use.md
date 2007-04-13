@@ -4,7 +4,6 @@ When Glivec is co-administered with other medicinal products, there is a potenti
 
 Concomitant use of imatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
 Therefore, concomitant use of strong CYP3A4 inducers and imatinib should be avoided (see section 4.5).
-
 Clinical cases of hypothyroidism have been reported in thyroidectomy patients undergoing levothyroxine replacement during treatment with Glivec (see section 4.5).
 TSH levels should be closely monitored in such patients.
 
@@ -41,6 +40,7 @@ However, the occurrence of these cytopenias is likely to be related to the stage
 Treatment with Glivec may be interrupted or the dose may be reduced, as recommended in section 4.2.
 
 Liver function (transaminases, bilirubin, alkaline phosphatase) should be monitored regularly in patients receiving Glivec.
+
 In patients with impaired renal function, imatinib plasma exposure seems to be higher than that in patients with normal renal function, probably due to an elevated plasma level of alpha-acid glycoprotein (AGP), an imatinib-binding protein, in these patients.
 Patients with renal impairment should be given the minimum starting dose.
 Patients with severe renal impairment should be treated with caution.

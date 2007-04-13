@@ -24,7 +24,6 @@ There were no special safety findings in paediatric clinical trials.
 Adverse reactions
 Adverse reactions reported as more than an isolated case are listed below, by system organ class and by frequency.
 Frequencies are defined as: very common (>1/10), common (>1/100, ≤1/10), uncommon (>1/1,000, ≤1/100), rare (≤1/1,000), not known (cannot be estimated from the available data).
-
 Within each frequency grouping, undesirable effects are presented in order of frequency, the most frequent first.
 
 Adverse reactions and their frequencies reported in Table 1 are based on the main registration studies.
@@ -153,7 +152,6 @@ In patients with GIST, grade 3 and 4 anaemia was reported in 5.4% and 0.7% of pa
 Grade 3 and 4 neutropenia was seen in 7.5% and 2.7% of patients, respectively, and grade 3 thrombocytopenia in 0.7% of patients.
 No patient developed grade 4 thrombocytopenia.
 The decreases in white blood cell (WBC) and neutrophil counts occurred mainly during the first six weeks of therapy, with values remaining relatively stable thereafter.
-
 Biochemistry
 Severe elevation of transaminases (<5%) or bilirubin (<1%) was seen in CML patients and was usually managed with dose reduction or interruption (the median duration of these episodes was approximately one week).
 Treatment was discontinued permanently because of liver laboratory abnormalities in less than 1% of CML patients.

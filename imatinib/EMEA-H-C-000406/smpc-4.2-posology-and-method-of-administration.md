@@ -13,8 +13,7 @@ The recommended dosage of Glivec is 400 mg/day for patients in chronic phase CML
 Chronic phase CML is defined when all of the following criteria are met: blasts < 15% in blood and bone marrow, peripheral blood basophils < 20%, platelets > 100 x 109/l.
 
 The recommended dosage of Glivec is 600 mg/day for patients in accelerated phase.
-Accelerated phase is defined by the presence of any of the following: blasts ≥ 15% but < 30% in blood or bone marrow, blasts plus promyelocytes ≥ 30% in blood or bone marrow (providing < 30% blasts), peripheral blood basophils
-≥ 20%, platelets < 100 x 109/l unrelated to therapy.
+Accelerated phase is defined by the presence of any of the following: blasts ≥ 15% but < 30% in blood or bone marrow, blasts plus promyelocytes ≥ 30% in blood or bone marrow (providing < 30% blasts), peripheral blood basophils ≥ 20%, platelets < 100 x 109/l unrelated to therapy.
 
 The recommended dose of Glivec is 600 mg/day for patients in blast crisis.
 Blast crisis is defined as blasts
