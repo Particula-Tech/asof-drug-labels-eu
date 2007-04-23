@@ -3,6 +3,7 @@
 General
 
 Avastin must be administered under the supervision of a physician experienced in the use of antineoplastic medicinal products.
+
 It is recommended that treatment be continued until progression of the underlying disease.
 
 The initial dose should be delivered over 90 minutes as an intravenous infusion.
@@ -19,7 +20,7 @@ Metastatic carcinoma of the colon or rectum (mCRC)
 
 The recommended dose of Avastin is 5 mg/kg of body weight given once every 14 days as an intravenous infusion.
 Dose reduction for adverse events is not recommended.
-If indicated, therapy should either be discontinued or temporarily suspended as described in section 4.4.
+If indicated, therapy should either be permanently discontinued or temporarily suspended as described in section 4.4.
 
 Metastatic breast cancer (mBC)
 

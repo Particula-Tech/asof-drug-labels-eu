@@ -1,4 +1,4 @@
-# 6.6 Special precautions for disposal
+# 6.6 Special precautions for disposal and other handling
 
 Avastin does not contain any antimicrobial preservative; therefore, care must be taken to ensure the sterility of the prepared solution.
 

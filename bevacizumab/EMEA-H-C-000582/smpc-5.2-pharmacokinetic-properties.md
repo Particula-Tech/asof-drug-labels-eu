@@ -13,6 +13,7 @@ Based on a population pharmacokinetic analysis of 491 subjects receiving Avastin
 
 Metabolism
 Assessment of bevacizumab metabolism in rabbits following a single IV dose of 125I-bevacizumab indicated that its metabolic profile was similar to that expected for a native IgG molecule which does not bind VEGF.
+
 Elimination
 Bevacizumab clearance was 0.231 l/day.
 The volume of the central compartment (Vc) and clearance correspond to an initial half-life of 1.4 days and a terminal half-life of about 20 days.

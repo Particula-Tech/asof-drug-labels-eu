@@ -18,13 +18,12 @@ There is no information on the effect of Avastin in patients with uncontrolled h
 Therefore, caution should be exercised before initiating therapy in these patients.
 Monitoring of blood pressure is generally recommended during therapy.
 
-In patients with severe hypertension requiring medical therapy, temporary interruption of Avastin is recommended until adequate control is achieved.
-If hypertension cannot be controlled with medical therapy, treatment should be permanently discontinued.
-Therapy should be permanently discontinued in patients who develop hypertensive crisis or hypertensive encephalopathy.
+In most cases hypertension was controlled adequately using standard antihypertensive treatment appropriate for the individual situation of the affected patient.
+Avastin should be permanently discontinued, if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.
 
 Reversible Posterior Leukoencephalopathy Syndrome (RPLS) (see section 4.8)
 There have been rare reports of Avastin-treated patients developing signs and symptoms that are consistent with Reversible Posterior Leukoencephalopathy Syndrome (RPLS), a rare neurologic disorder, which can present with the following signs and symptoms among others: seizures, headache, altered mental status, visual disturbance, or cortical blindness, with or without associated hypertension.
-Brain imaging confirms the diagnosis of RPLS.
+A diagnosis of RPLS requires confirmation by brain imaging.
 In patients developing RPLS, treatment of specific symptoms including control of hypertension is recommended along with discontinuation of Avastin.
 The safety of reinitiating Avastin therapy in patients previously experiencing RPLS is not known.
 
@@ -37,7 +36,7 @@ Therapy should be discontinued in patients who develop Grade 4 proteinuria (neph
 Arterial Thromboembolism (see section 4.8)
 In five randomised clinical trials, the incidence of arterial thromboembolic events including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs) was higher in patients receiving Avastin in combination with chemotherapy compared to those who received chemotherapy alone.
 
-A history of arterial thromboembolic events or age over 65 years was associated with an increased risk of developing arterial thromboembolic events during therapy.
+Patients, receiving Avastin plus chemotherapy, with a history of arterial thromboembolism or age greater than 65 years have an increased risk of developing arterial thromboembolic events during therapy.
 Caution should be taken when treating these patients with Avastin.
 
 Therapy should be permanently discontinued in patients who develop arterial thromboembolic events.
@@ -46,13 +45,23 @@ Haemorrhage
 The risk of CNS haemorrhage in patients with CNS metastases receiving Avastin could not be fully evaluated, as these patients were excluded from clinical trials.
 Thus, Avastin should not be used in these patients (see sections 4.3 and 4.8).
 
-Patients with metastatic cancer of the colon or rectum might have an increased risk of developing tumour-associated haemorrhage.
+Patients treated with Avastin might have an increased risk of haemorrhage, especially tumour-associated haemorrhage.
 Avastin should be discontinued permanently in patients who experience Grade 3 or 4 bleeding during Avastin therapy (see section 4.8).
 
 There is no information on the safety profile of Avastin in patients with congenital bleeding diathesis, acquired coagulopathy or in patients receiving full dose of anticoagulants for the treatment of thromboembolism prior to starting Avastin treatment, as such patients were excluded from clinical trials.
 Therefore, caution should be exercised before initiating therapy in these patients.
 However, patients who developed venous thrombosis while receiving therapy did not appear to have an increased rate of serious bleeding when treated with a full dose of warfarin and Avastin concomitantly.
 
-Congestive Heart Failure (CHF)/Cardiomyopathy (see section 4.8)
-Prior anthracycline exposure and/or prior radiation to the chest wall may be possible risk factors for the development of CHF.
-Caution should be exercised before initiating Avastin therapy in patients with these risk factors.
+Pulmonary Haemorrhage/Haemoptysis
+Patients with non-small cell lung cancer treated with Avastin may be at risk of serious, and in some cases fatal, pulmonary haemorrhage/haemoptysis.
+Patients with recent pulmonary haemorrhage/ haemoptysis (> 2.5 ml of red blood) should not be treated with Avastin.
+
+Congestive Heart Failure (CHF) (see section 4.8)
+Events consistent with CHF were reported in clinical trials.
+The symptoms ranged from asymptomatic declines in left ventricular ejection fraction to symptomatic CHF, requiring treatment or hospitalisation.
+Most of the patients who experienced CHF had metastatic breast cancer and had received previous treatment with anthracyclines.
+
+Caution should be exercised when treating patients with clinically significant cardiovascular disease or pre-existing congestive heart failure with Avastin.
+
+Neutropenia (see section 4.8)
+Increased rates of severe neutropenia, febrile neutropenia, or infection with severe neutropenia (including some fatalities) have been observed in patients treated with some myelotoxic chemotherapy regimens plus Avastin in comparison to chemotherapy alone.

@@ -2,6 +2,7 @@
 
 No formal drug interaction studies with other antineoplastic agents have been conducted.
 However, the existing data suggest that bevacizumab does not affect the pharmacokinetics of 5-fluorouracil (5-FU), carboplatin, paclitaxel, and doxorubicin to a clinically relevant extent.
+
 In one study, irinotecan concentrations were similar in patients receiving Irinotecan/5-FU/folinic acid (IFL) alone and in combination with bevacizumab.
 Concentrations of SN38, the active metabolite of irinotecan, were analysed in a subset of patients (approximately 30 per treatment arm).
 Concentrations of SN38 were on average 33% higher in patients receiving IFL in combination with bevacizumab compared with IFL alone.
