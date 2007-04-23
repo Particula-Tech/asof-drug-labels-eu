@@ -13,3 +13,15 @@ In a clinical pharmacology trial, Azomyr tablets taken concomitantly with alcoho
 [Azomyr 5 mg oral lyophilisate]
 
 (all sentences already above)
+
+[Azomyr 2.5 mg orodispersible tablet]
+
+(all sentences already above)
+
+[Azomyr 5 mg orodispersible tablet]
+
+(all sentences already above)
+
+[Azomyr 0.5 mg/ml oral solution]
+
+(all sentences already above)

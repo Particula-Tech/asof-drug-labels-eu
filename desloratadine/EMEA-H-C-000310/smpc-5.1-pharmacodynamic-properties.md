@@ -73,3 +73,23 @@ Azomyr tablets given at a single daily dose of 7.5 mg did not affect psychomotor
 
 In patients with allergic rhinitis, Azomyr tablets were effective in relieving symptoms such as sneezing, nasal discharge and itching, as well as ocular itching, tearing and redness, and itching of palate.
 Azomyr tablets effectively controlled symptoms for 24 hours.
+
+[Azomyr 2.5 mg orodispersible tablet]
+
+In addition, Azomyr orodispersible tablets were well tolerated in a multiple dose trial.
+
+At the recommended dose, Azomyr 5 mg orodispersible tablet was found to be bioequivalent to the Azomyr 5 mg conventional tablet and the Azomyr 5 mg oral lyophilisate formulations of desloratadine.
+Therefore, the efficacy of Azomyr orodispersible tablet is expected to be the same as with the Azomyr tablet formulation.
+
+In addition to the established classification of seasonal and perennial, allergic rhinitis can alternatively be classified as intermittent allergic rhinitis and persistent allergic rhinitis according to the duration of symptoms.
+
+[Azomyr 5 mg orodispersible tablet]
+
+In addition, Azomyr orodispersible tablets were well tolerated in a multiple-dose trial.
+
+In a multiple-dose clinical trial, in which up to 20 mg of desloratadine was administered daily for 14 days, no statistically or clinically relevant cardiovascular effect was observed.
+
+[Azomyr 0.5 mg/ml oral solution]
+
+Efficacy of Azomyr oral solution has not been investigated in separate paediatric trials.
+However, the safety of Azomyr syrup, which contains the same concentration of desloratadine, was demonstrated in three paediatric trials.

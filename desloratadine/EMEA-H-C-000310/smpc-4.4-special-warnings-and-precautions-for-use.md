@@ -27,3 +27,25 @@ In the case of severe renal insufficiency, Azomyr should be used with caution.
 
 This product contains aspartame 1.75 mg per dose.
 Aspartame is a source of phenylalanine, which may be harmful for people with phenylketonuria.
+
+[Azomyr 2.5 mg orodispersible tablet]
+
+Efficacy and safety of Azomyr 2.5 mg orodispersible tablets in children under 6 years of age have not been established.
+
+This product contains 1.4 mg of phenylalanine per 2.5 mg dose of Azomyr orodispersible tablet.
+Phenylalanine may be harmful for people with phenylketonuria.
+
+[Azomyr 5 mg orodispersible tablet]
+
+Efficacy and safety of Azomyr orodispersible tablets in children under 12 years of age have not been established.
+
+This product contains 2.9 mg of phenylalanine per 5 mg dose of Azomyr orodispersible tablet.
+
+[Azomyr 0.5 mg/ml oral solution]
+
+Efficacy and safety of Azomyr oral solution in children under 1 year of age have not been established.
+
+The safety of desloratadine in children 2- to 11-years of age who are poor metabolisers is the same as in children who are normal metabolisers.
+The effects of desloratadine in poor metabolisers < 2 years of age have not been studied.
+
+This medicinal product contains sorbitol; thus, patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.

@@ -13,3 +13,18 @@ The lack of carcinogenic potential was demonstrated in studies conducted with lo
 [Azomyr 5 mg oral lyophilisate]
 
 No significant local irritant effect was observed when the rapidly-dissolving form was tested in a hamster cheek pouch mucous membrane irritation assay.
+
+[Azomyr 2.5 mg orodispersible tablet]
+
+Preclinical studies conducted with desloratadine and loratadine demonstrated that there are no qualitative or quantitative differences in the toxicity profile of desloratadine and loratadine at comparable levels of exposure to desloratadine.
+
+The collective analysis of preclinical and clinical irritation studies for the orodispersible tablet indicate that this formulation is unlikely to pose risk for local irritation with clinical use.
+The lack of carcinogenic potential was demonstrated in studies conducted with desloratadine and loratadine.
+
+[Azomyr 5 mg orodispersible tablet]
+
+(all sentences already above)
+
+[Azomyr 0.5 mg/ml oral solution]
+
+(all sentences already above)

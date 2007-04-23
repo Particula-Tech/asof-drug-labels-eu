@@ -27,3 +27,24 @@ Immediately before use, the blister must be carefully peeled open and the dose o
 The dose of oral lyophilisate is placed in the mouth where it will disperse immediately.
 Water or other liquid is not needed to swallow the dose.
 The dose must be taken as soon as the blister has been opened.
+
+[Azomyr 2.5 mg orodispersible tablet]
+
+Children 6 to 11 years of age: one 2.5 mg Azomyr orodispersible tablet placed in mouth once a day for the relief of symptoms associated with allergic rhinitis (including intermittent and persistent allergic rhinitis) and chronic idiopathic urticaria (see section 5.1).
+
+Adults and adolescents (12 years of age and over): two 2.5 mg Azomyr orodispersible tablets placed in the mouth once a day for the relief of symptoms associated with allergic rhinitis (including intermittent and persistent allergic rhinitis) and chronic idiopathic urticaria (see section 5.1).
+
+Immediately before use, the blister must be carefully peeled open and the dose of orodispersible tablet removed without crushing it.
+The dose of orodispersible tablet is placed in the mouth where it will disperse immediately.
+
+[Azomyr 5 mg orodispersible tablet]
+
+Adults and adolescents (12 years of age and over): one 5 mg Azomyr orodispersible tablet placed in the mouth once a day for the relief of symptoms associated with allergic rhinitis (including intermittent and persistent allergic rhinitis) and chronic idiopathic urticaria (see section 5.1).
+
+[Azomyr 0.5 mg/ml oral solution]
+
+Children 1 through 5 years of age: 2.5 ml (1.25 mg) Azomyr oral solution once a day.
+
+Children 6 through 11 years of age: 5 ml (2.5 mg) Azomyr oral solution once a day.
+
+In adults and adolescents (12 years of age and over): 10 ml (5 mg) Azomyr oral solution once a day.

@@ -46,3 +46,22 @@ In single-dose crossover studies of Azomyr oral lyophilisate with Azomyr tablets
 
 The presence of food has no relevant influence on AUC and Cmax of Azomyr oral lyophilisate while the presence of food prolongs Tmax for desloratadine from 2.5 to 4 hours and Tmax for 3-OH-desloratadine from 4 to 6 hours.
 In a separate study, grapefruit juice had no effect on the disposition of desloratadine.
+
+[Azomyr 2.5 mg orodispersible tablet]
+
+The prevalence of this poor metaboliser phenotype was comparable for adult (6 %) and paediatric subjects 2- to 11-year old (6 %), and greater among Blacks (18 % adult, 16 % paediatric) than Caucasians (2 % adult, 3 % paediatric) in both populations however the safety profile of these subjects was not different from that of the general population.
+
+In single-dose crossover studies of Azomyr 5 mg orodispersible tablets with Azomyr 5 mg conventional tablets or Azomyr 5 mg oral lyophilisate, the formulations were bioequivalent.
+Azomyr 2.5 mg tablets has not been evaluated in paediatric patients however in conjunction with the dose finding studies in paediatrics, the pharmacokinetics data for Azomyr orodispersible tablets supports the use of the 2.5 mg dose in paediatric patients 6 to 11 years of age.
+
+Water had no affect on the bioavailability of Azomyr orodispersible tablets.
+
+[Azomyr 5 mg orodispersible tablet]
+
+The prevalence of this poor metaboliser phenotype was greater among Black adults than Caucasian adults (18 % vs. 2 %) however the safety profile of these subjects was not different from that of the general population.
+
+[Azomyr 0.5 mg/ml oral solution]
+
+The effects of desloratadine in poor metabolizers < 2 years of age have not been studied.
+
+As Azomyr oral solution contains the same concentration of desloratadine, no bioequivalence study was required and it is expected to be equivalent to the syrup and tablet.

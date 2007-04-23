@@ -9,3 +9,15 @@ Azomyr 0.5 mg/ml syrup
 [Azomyr 5 mg oral lyophilisate]
 
 Azomyr 5 mg oral lyophilisate
+
+[Azomyr 2.5 mg orodispersible tablet]
+
+Azomyr 2.5 mg orodispersible tablet
+
+[Azomyr 5 mg orodispersible tablet]
+
+Azomyr 5 mg orodispersible tablet
+
+[Azomyr 0.5 mg/ml oral solution]
+
+Azomyr 0.5 mg/ml oral solution
