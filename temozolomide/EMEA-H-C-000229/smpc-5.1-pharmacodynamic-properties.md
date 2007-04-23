@@ -7,17 +7,17 @@ The cytotoxicity of MTIC is thought to be due primarily to alkylation at the O6 
 Cytotoxic lesions that develop subsequently are thought to involve aberrant repair of the methyl adduct.
 
 Newly diagnosed glioblastoma multiforme
-Five hundred and seventy-three patients were randomised to receive either temozolomide + Radiotherapy (RT) (n=287) or RT alone (n=286).
+Five hundred and seventy-three patients were randomised to receive either temozolomide + Radiotherapy (n=287) or RT alone (n=286).
 Patients in the temozolomide + RT arm received concomitant temozolomide (75 mg/m2) once daily, starting the first day of RT until the last day of RT, for 42 days (with a maximum of 49 days).
 This was followed by monotherapy temozolomide (150 - 200 mg/m2) on Days 1 - 5 of every 28-day cycle for up to 6 cycles, starting 4 weeks after the end of RT.
 Patients in the control arm received RT only.
 Pneumocystis carinii pneumonia (PCP) prophylaxis was required during RT and combined temozolomide therapy.
+
 Temozolomide was administered as salvage therapy in the follow-up phase in 161 patients of the 282 (57 %) in the RT alone arm, and 62 patients of the 277 (22 %) in the temozolomide + RT arm.
 
 The hazard ratio (HR) for overall survival was 1.59 (95 % CI for HR=1.33 -1.91) with a log-rank p < 0.0001 in favour of the temozolomide arm.
 The estimated probability of surviving 2 years or more (26 % vs 10 %) is higher for the RT + temozolomide arm.
 The addition of concomitant temozolomide to radiotherapy, followed by temozolomide monotherapy in the treatment of patients with newly diagnosed glioblastoma multiforme demonstrated a statistically significant improved overall survival compared with radiotherapy alone (Figure 1).
-
 HR (95% C.I.) = 1.59 (1.33 – 1.91) log-rank p-value < .0001
 
 26%
@@ -42,6 +42,7 @@ In the randomised trial, the 6 month PFS was significantly greater for temozolom
 The median survival was 7.34 and 5.66 months for temozolomide and procarbazine, respectively (log rank p = 0.33).
 At 6 months the fraction of surviving patients was significantly higher in the temozolomide arm (60 %) compared with the procarbazine arm (44 %) (chi-square p = 0.019).
 In patients with prior chemotherapy a benefit was indicated in those with a KPS of 80 or better.
+
 Data on time to worsening of neurological status favoured temozolomide over procarbazine as did data on time to worsening of performance status (decrease to a KPS of < 70 or a decrease by at least 30 points).
 The median times to progression in these endpoints ranged from 0.7 to 2.1 months longer for temozolomide than for procarbazine (log rank p = < 0.01 to 0.03).
 
@@ -57,15 +58,19 @@ Achieving a radiological objective response or maintaining progression-free stat
 
 [Temodal 20 mg hard capsules]
 
-The addition of concomitant temozolomide
-
-to radiotherapy, followed by temozolomide monotherapy in the treatment of patients with newly diagnosed glioblastoma multiforme demonstrated a statistically significant improved overall survival compared with radiotherapy alone (Figure 1).
+(all sentences already above)
 
 [Temodal 100 mg hard capsules]
 
-The addition of concomitant temozolomide to radiotherapy, followed by temozolomide monotherapy in the treatment of patients with newly diagnosed glioblastoma multiforme demonstrated a statistically significant improved overall survival
+(all sentences already above)
 
-compared with radiotherapy alone (Figure 1).
+[Temodal 140 mg hard capsules]
+
+Pharmacotherapeutic group: Antineoplastic agents - Other alkylating agents, ATC code: L01A X03
+
+[Temodal 180 mg hard capsules]
+
+(all sentences already above)
 
 [Temodal 250 mg hard capsules]
 

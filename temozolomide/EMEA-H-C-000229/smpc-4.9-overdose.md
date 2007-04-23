@@ -15,6 +15,14 @@ In the event of an overdose, haematologic evaluation is needed.
 
 (all sentences already above)
 
+[Temodal 140 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 180 mg hard capsules]
+
+(all sentences already above)
+
 [Temodal 250 mg hard capsules]
 
 (all sentences already above)

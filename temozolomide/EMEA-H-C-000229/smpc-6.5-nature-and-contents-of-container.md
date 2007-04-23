@@ -1,4 +1,4 @@
 # 6.5 Nature and contents of container
 
-Type I amber glass bottles with child-resistant polypropylene caps containing 5 and 20 capsules.
+Type I amber glass bottles with child-resistant polypropylene closures containing 5 and 20 capsules.
 Not all pack sizes may be marketed.

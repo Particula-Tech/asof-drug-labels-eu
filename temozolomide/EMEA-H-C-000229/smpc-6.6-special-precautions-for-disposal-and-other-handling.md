@@ -6,3 +6,5 @@ If contact does occur, wash the affected area.
 
 Keep capsules out of the reach and sight of children, preferably in a locked cupboard.
 Ingestion can be lethal.
+
+Any unused product or waste material should be disposed of in accordance with local requirements.
