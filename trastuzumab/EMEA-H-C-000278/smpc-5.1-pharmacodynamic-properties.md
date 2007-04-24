@@ -39,6 +39,7 @@ Such methods must clearly be precise and accurate enough to demonstrate overexpr
 
 Clinical Data
 Herceptin has been used in clinical trials as monotherapy for patients with metastatic breast cancer who have tumours that overexpress HER2 and who have failed one or more chemotherapy regimens for their metastatic disease (Herceptin alone).
+
 Herceptin has also been used in combination with paclitaxel or docetaxel for the treatment of patients who have not received chemotherapy for their metastatic disease.
 Patients who had previously received anthracycline-based adjuvant chemotherapy were treated with paclitaxel (175 mg/m2 infused over 3 hours) with or without Herceptin.
 In the pivotal trial of docetaxel (100 mg/m2 infused over 1 hour) with or without Herceptin, 60 % of the patients had received prior anthracycline-based adjuvant chemotherapy.
@@ -80,6 +81,15 @@ Study H0649g: IHC3+ patient subset
 Study H0648g: IHC3+ patient subset
 3.
 Study M77001: Full analysis set (intent-to-treat)
+
+Combination treatment with Herceptin and anastrozole
+
+Herceptin has been studied in combination with anastrozole for first line treatment of metastatic breast cancer in HER2 overexpressing, hormone-receptor (i.e. estrogen-receptor (ER) and/or progesterone-receptor (PR)) positive postmenopausal patients.
+Progression free survival was doubled in the Herceptin plus anastrozole arm compared to anastrozole (4.8 months versus 2.4 months).
+For the other parameters the improvements seen for the combination were for overall response (16.5% versus 6.7%); clinical benefit rate (42.7% versus 27.9%); time to progression (4.8 months versus 2.4 months).
+For time to response and duration of response no difference could be recorded between the arms.
+The median overall survival was extended by 4.6 months for patients in the combination arm.
+The difference was not statistically significant, however more than half of the patients in the anastrozole alone arm crossed over to a Herceptin containing regimen after progression of disease.
 EBC
 
 Early breast cancer is defined as non-metastatic primary invasive carcinoma of the breast.

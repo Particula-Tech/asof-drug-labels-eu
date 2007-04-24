@@ -47,6 +47,7 @@ Skin and pruritus, sweating, nail disorder, dry skin, alopecia, acne, maculopapu
 
 appendages:
 Special senses: taste perversion
+
 In a further randomised clinical trial (M77001), patients with metastatic breast cancer received docetaxel, with or without Herceptin.
 The following table displays adverse events which were reported in ≥ 10% of patients, by study treatment:
 
@@ -60,7 +61,8 @@ Table 1 Common Non-haematological Adverse Events Reported in ≥ 10% of Patients
 | Nervous system disorders | paraesthesia headache dysgeusia hypoaesthesia | 32 21 14 11 | 21 18 12 5 |
 | Blood and lymphatic system disorders | febrile neutropenia1 / neutropenic sepsis | 23 | 17 |
 | Musculoskeletal and connective tissue disorders | myalgia arthralgia pain in extremity back pain bone pain | 27 27 16 10 14 | 26 20 16 14 6 |
-| Respiratory, thoracic and mediastinal disorders | cough dyspnoea pharyngolaryngeal pain epistaxis rhinorrhoea | 13 14 16 18 12 | 16 15 9 5 1 |
+| Respiratory, thoracic and mediastinal | cough dyspnoea | 13 14 | 16 15 |
+| disorders | pharyngolaryngeal pain epistaxis rhinorrhoea | 16 18 12 | 9 5 1 |
 | Infections and infestations | nasopharyngitis | 15 | 6 |
 | Eye disorders | lacrimation increased conjunctivitis | 21 12 | 10 7 |
 | Vascular disorders | lymphoedema | 11 | 6 |
@@ -72,22 +74,50 @@ Table 1 Common Non-haematological Adverse Events Reported in ≥ 10% of Patients
 
 There was an increased incidence of SAEs (40 % vs. 31%) and Grade 4 AEs (34 % vs. 23 %) in the combination arm compared to docetaxel monotherapy.
 
+In a further randomised clinical trial (BO16216), patients with HER2 positive and hormone receptor positive metastatic breast cancer received anastrozole with or without Herceptin.
+In this trial, there was no change in the safety profile compared with previous trials in the metastatic population.
+The following table displays adverse events which were reported in ≥ 10% of patients, by study treatment:
+
+Table 1 Summary of Adverse Events with an Incidence Rate of at Least
+
+10 % by Trial Treatment
+
+| Adverse Event | Arimidex Plus Herceptin N=103 No. (%) | Arimidex Alone N=104 No. (%) |
+| --- | --- | --- |
+| Fatigue | 22 (21) | 10 (10) |
+| Diarrhoea | 21 (20) | 8 (8) |
+| Vomiting | 22 (21) | 5 (5) |
+| Arthralgia | 15 (15) | 10 (10) |
+| Pyrexia | 18 (17) | 7 (7) |
+| Back pain | 15 (15) | 7 (7) |
+| Dyspnoea | 13 (13) | 9 (9) |
+| Nausea | 17 (17) | 5 (5) |
+| Cough | 14 (14) | 6 (6) |
+| Headache | 14 (14) | 6 (6) |
+| Nasopharyngitis | 17 (17) | 2 (2) |
+| Bone pain | 11 (11) | 6 (6) |
+| Constipation | 12 (12) | 5 (5) |
+| Chills | 15 (15) | - |
+| Percentages are based on N. Multiple occurrences of the same adverse event in one individual counted only once. Note: For patients from the Arimidex Alone arm who switched to Herceptin, only AEs before the 1st Herceptin administration are displayed |  |  |
+
+There was an increased incidence of SAEs (23% vs. 6%) and Grade 3/4 AEs (25% vs. 15%) in the combination arm compared to anastrozole monotherapy.
+
 EBC
 
 The HERA trial is a randomised, open label study in patients with HER2-positive early breast cancer (see section 5.1 Pharmacodynamic properties).
 Table 2 displays adverse events which were reported at 1 year in ≥ 1% of patients, by study treatment.
 
-Table 2 Adverse Events Reported at 1 year in ≥ 1% of Patients, by Study Treatment
+Table 3 Adverse Events Reported at 1 year in ≥ 1% of Patients, by Study Treatment
 
 | Body System | Adverse Event | Observation Only N = 1708 No. (%) | Herceptin 1 year N = 1678 No. (%) |
 | --- | --- | --- | --- |
 |  | Total Pts with at least one AE Total number of AEs | 792 (46) 2251 | 1179 (70) 5248 |
 | Musculoskeletal and connective tissue disorders | arthralgia* back pain* pain in extremity myalgia* bone pain shoulder pain chest wall pain muscle spasms* musculoskeletal pain | 98 (6) 59 (3) 45 (3) 17 (<1) 26 (2) 29 (2) 24 (1) 3 (<1) 11 (<1) | 137 (8) 91 (5) 60 (4) 63 (4) 49 (3) 30 (2) 26 (2) 45 (3) 17 (1) |
-| Infections and infestations | nasopharyngitis* influenza* upper respiratory tract infection* urinary tract infection rhinitis sinusitis cystitis pharyngitis bronchitis | 43 (3) 9 (<1) 20 (1) 13 (<1) 6 (<1) 5 (<1) 11 (<1) 9 (<1) 9 (<1) | 135 (8) 69 (4) 46 (3) 39 (2) 36 (2) 26 (2) 19 (1) 20 (1) 18 (1) |
-|  | Total Pts with at least one AE Total number of AEs | 792 (46) 2251 | 1179 (70) 5248 |
-|  | herpes zoster | 9 (<1) | 17 (1) |
+| Infections and infestations | nasopharyngitis* influenza* upper respiratory tract infection* urinary tract infection rhinitis sinusitis cystitis pharyngitis bronchitis herpes zoster | 43 (3) 9 (<1) 20 (1) 13 (<1) 6 (<1) 5 (<1) 11 (<1) 9 (<1) 9 (<1) 9 (<1) | 135 (8) 69 (4) 46 (3) 39 (2) 36 (2) 26 (2) 19 (1) 20 (1) 18 (1) 17 (1) |
 | General disorders and administration site conditions | fatigue* oedema peripheral pyrexia* asthenia* chills* chest pain* influenza illness oedema chest discomfort | 44 (3) 38 (2) 6 (<1) 30 (2) - 22 (1) 3 (<1) 7 (<1) 2 (<1) | 128 (8) 79 (5) 100 (6) 75 (4) 85 (5) 45 (3) 40 (2) 18 (1) 20 (1) |
-| Gastrointestinal disorders | diarrhoea* nausea* vomiting* abdominal pain constipation abdominal pain upper dyspepsia gastritis stomatitis | 16 (<1) 19 (1) 10 (<1) 16 (<1) 17 (<1) 15 (<1) 9 (<1) 11 (<1) 1 (<1) | 123 (7) 108 (6) 58 (3) 40 (2) 33 (2) 29 (2) 30 (2) 20 (1) 26 (2) |
+| Gastrointestinal disorders | diarrhoea* nausea* vomiting* abdominal pain constipation abdominal pain upper | 16 (<1) 19 (1) 10 (<1) 16 (<1) 17 (<1) 15 (<1) | 123 (7) 108 (6) 58 (3) 40 (2) 33 (2) 29 (2) |
+|  | Total Pts with at least one AE Total number of AEs | 792 (46) 2251 | 1179 (70) 5248 |
+|  | dyspepsia gastritis stomatitis | 9 (<1) 11 (<1) 1 (<1) | 30 (2) 20 (1) 26 (2) |
 | Nervous system disorders | headache* dizziness* paraesthesia vertigo | 49 (3) 29 (2) 11 (<1) 7 (<1) | 161 (10) 60 (4) 29 (2) 25 (1) |
 | Vascular disorders | hot flush hypertension* lymphoedema | 84 (5) 35 (2) 40 (2) | 98 (6) 64 (4) 42 (3) |
 | Skin and subcutaneous tissue | rash* pruritus nail disorder* onychorrhexis erythema | 10 (<1) 10 (<1) - 1 (<1) 7 (<1) | 70 (4) 40 (2) 43 (3) 36 (2) 24 (1) |
@@ -96,7 +126,6 @@ Table 2 Adverse Events Reported at 1 year in ≥ 1% of Patients, by Study Treatm
 | Psychiatric | insomnia depression anxiety | 31 (2) 34 (2) 19 (1) | 58 (3) 51 (3) 39 (2) |
 | Cardiac disorders | palpitations* cardiac failure congestive tachycardia | 12 (<1) 5 (<1) 5 (<1) | 48 (3) 30 (2) 20 (1) |
 | Investigations | ejection fraction decreased* weight increased | 11 (<1) 17 (<1) | 58 (3) 29 (2) |
-|  | Total Pts with at least one AE Total number of AEs | 792 (46) 2251 | 1179 (70) 5248 |
 | Renal and urinary disorders | dysuria | 2 (<1) | 17 (1) |
 
 * Adverse Events that were reported at higher incidence (>_2 % difference) in the Herceptin group compared with the observation group and therefore may be attributable to Herceptin.
@@ -127,6 +156,7 @@ Other signs and/or symptoms may include nausea, hypertension, vomiting, pain, ri
 These symptoms are usually mild to moderate in severity, and occur infrequently with subsequent Herceptin infusions.
 These symptoms can be treated with an analgesic/antipyretic such as meperidine or paracetamol, or an antihistamine such as diphenhydramine (see 4.2).
 Some adverse reactions to Herceptin infusion including dyspnoea, hypotension, wheezing, bronchospasm, supraventricular tachyarrythmia, reduced oxygen saturation and respiratory distress can be serious and potentially fatal (see 4.4).
+
 Allergic-like and hypersensitivity reactions
 Allergic reactions, anaphylaxis and anaphylactic shock, urticaria and angioedema occurring during the first infusion of Herceptin, have been reported rarely.
 Over a third of these patients had a negative re-challenge and continued to receive Herceptin.
@@ -141,7 +171,6 @@ Reduced ejection fraction and signs and symptoms of heart failure, such as dyspn
 (see 4.4).
 
 The incidence of cardiac adverse events from retrospective analysis of data from the combination therapy study (Herceptin plus paclitaxel versus paclitaxel alone and the Herceptin monotherapy study is shown in the following table:
-
 Cardiac Adverse Event Incidence; n,% [95 %-confidence limits]
 
 |  | Herceptin plus paclitaxel N=91 | paclitaxel N=95 | Herceptin N=213 |
@@ -158,9 +187,20 @@ The incidence of symptomatic congestive heart failure in the study of Herceptin 
 In this study, all patients had a baseline cardiac ejection fraction of greater than 50 %.
 In the Herceptin plus docetaxel arm, 64 % had received a prior anthracycline compared with 55 % in the docetaxel alone arm.
 
+Summary of Patients with an LVEF Decrease by at least an Absolute 15% from Baseline and the Absolute LVEF Value below 50%, Safety Population
+(Before Crossover)
+
+|  | Anastrozole plus Herceptin n=103 | Anastrozole alone n=104 |
+| --- | --- | --- |
+| Symptomatic CHF | 1 (<1%) | 0a |
+| Confirmed LVEF drops of ≥ 15% from Baseline and below 50% | 1 (<1%) | 0b |
+| At least one LVEF drop of ≥ 15% from baseline and below 50% | 6 (5.8%) | 0c |
+| a One patient experienced symptomatic CHF after cross over to Herceptin-containing regimen following progression b Two patients experienced confirmed LVEF drops after cross over to Herceptin-containing regimen following progression c Four patients experienced confirmed LVEF drops after cross over to Herceptin-containing regimen following progression |  |  |
+
 In the HERA trial, NYHA class III-IV heart failure was observed in 0.6 % of patients in the one-year arm.
 Asymptomatic or mildly symptomatic NYHA class I – II events were observed in 3.0% of patients in the Herceptin arm compared to 0.5% of patients in the observation arm.
 The percentage of patients with at least one significant LVEF drop (decrease of ≥ 10 EF points and to < 50%) during the study was 7.4% in the 1 year Herceptin arm versus 2.3% in the observation arm.
+
 Haematological toxicity
 Haematological toxicity was infrequent following the administration of Herceptin as a single agent in the metastatic setting, WHO Grade 3 leucopenia, thrombocytopenia and anaemia occurring in < 1 % of patients.
 No WHO Grade 4 toxicities were observed.

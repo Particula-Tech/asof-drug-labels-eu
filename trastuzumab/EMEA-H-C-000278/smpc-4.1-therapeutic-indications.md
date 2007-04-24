@@ -12,6 +12,8 @@ b) in combination with paclitaxel for the treatment of those patients who have n
 
 c) in combination with docetaxel for the treatment of those patients who have not received chemotherapy for their metastatic disease.
 
+d) in combination with an aromatase inhibitor for the treatment of postmenopausal patients with hormone-receptor positive metastatic breast cancer, not previously treated with trastuzumab.
+
 Early Breast Cancer (EBC)
 
 Herceptin is indicated for the treatment of patients with HER2 positive early breast cancer following surgery, chemotherapy (neoadjuvant or adjuvant) and radiotherapy (if applicable) (see 5.1).

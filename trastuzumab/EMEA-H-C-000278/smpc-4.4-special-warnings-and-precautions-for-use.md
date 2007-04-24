@@ -2,6 +2,8 @@
 
 HER2 testing must be performed in a specialised laboratory which can ensure adequate validation of the testing procedures (see 5.1).
 
+Currently no data from clinical trials are available on Herceptin re-treatment of patients with previous exposure to Herceptin in the adjuvant setting.
+
 The use of Herceptin is associated with cardiotoxicity.
 All candidates for treatment should undergo careful cardiac monitoring (see “cardiotoxicity”section below).The risk of cardiotoxicity is greatest when Herceptin is used in combination with anthracyclines.
 Therefore Herceptin and anthracyclines should not be used currently in combination except in a well-controlled clinical trial setting with cardiac monitoring.
@@ -33,7 +35,7 @@ Pulmonary events
 Severe pulmonary events have been reported rarely with the use of Herceptin in the post-marketing setting (see 4.8).
 These rare events have occasionally been fatal.
 In addition, rare cases of pulmonary infiltrates, acute respiratory distress syndrome, pneumonia, pneumonitis, pleural effusion, respiratory distress, acute pulmonary oedema and respiratory insufficiency have been reported.
-These events may occur as part of an infusion-related reaction or with a delayed onset..
+These events may occur as part of an infusion-related reaction or with a delayed onset.
 Patients who are experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of pulmonary events.
 Therefore, these patients should not be treated with Herceptin (see 4.3).
 Caution should be exercised for pneumonitis, especially in patients being treated concomitantly with taxanes.
