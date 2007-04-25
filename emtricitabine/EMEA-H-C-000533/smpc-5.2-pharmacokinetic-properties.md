@@ -17,7 +17,6 @@ Distribution: In vitro binding of emtricitabine to human plasma proteins was < 4
 The mean plasma to blood concentration ratio was approximately 1.0 and the mean semen to plasma concentration ratio was approximately 4.0.
 
 The apparent volume of distribution after intravenous administration of emtricitabine was 1.4±0.3 l/kg, indicating that emtricitabine is widely distributed throughout the body to both intracellular and extracellular fluid spaces.
-
 Biotransformation: There is limited metabolism of emtricitabine.
 The biotransformation of emtricitabine includes oxidation of the thiol moiety to form the 3'-sulphoxide diastereomers (approximately 9% of dose) and conjugation with glucuronic acid to form 2'-O-glucuronide (approximately 4% of dose).
 
@@ -50,6 +49,11 @@ HIV infected subjects.
 Age, gender and ethnicity: In general, the pharmacokinetics of emtricitabine in infants, children and adolescents (aged 4 months up to 18 years) are similar to those seen in adults.
 
 The mean AUC in 77 infants, children and adolescents receiving 6 mg/kg emtricitabine once daily as oral solution or 200 mg emtricitabine as hard capsules once daily was similar to the mean AUC of 10.0 µg·h/ml in 20 adults receiving 200 mg hard capsules once daily.
+
+In an open-label, non-comparative study, pharmacokinetic data were obtained from 20 neonates of HIV infected mothers who received two 4-day courses of emtricitabine oral solution between the first week of life and 3 months of age at a dose level of 3 mg/kg once daily.
+This dose is half of that approved for infants aged 4 months and over (6 mg/kg).
+The apparent total body clearance at steady state (CL/F) increased with age over the 3-month period with a corresponding decrease in AUC.
+Plasma emtricitabine exposure (AUC) in infants up to 3 months of age who received 3 mg/kg emtricitabine once daily was similar to that observed using 6 mg/kg daily doses in HIV infected adults and children aged 4 months and over.
 
 Pharmacokinetic data are not available in the elderly.
 

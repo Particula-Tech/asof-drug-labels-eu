@@ -8,11 +8,14 @@ Adults: The recommended dose of Emtriva is one 200 mg hard capsule, taken orally
 
 Children and adolescents up to 18 years of age: The recommended dose of Emtriva for children and adolescents weighing at least 33 kg who are able to swallow hard capsules is one 200 mg hard capsule, taken orally, once daily.
 
-There are no data on the safety and efficacy of emtricitabine in infants less than 4 months of age.
+There are no data regarding the efficacy and only very limited data regarding the safety of emtricitabine in infants below 4 months of age.
+Therefore Emtriva is not recommended for use in those aged less than 4 months.
+(For pharmacokinetic data in this age group, see section 5.2).
 
 Emtriva is also available as a 10 mg/ml oral solution for use in infants older than 4 months of age, children and patients who are unable to swallow hard capsules and patients with renal insufficiency.
 Please refer to the Summary of Product Characteristics for Emtriva 10 mg/ml oral solution.
 Due to a difference in the bioavailability of emtricitabine between the hard capsule and oral solution presentations, 240 mg emtricitabine administered as the oral solution should provide similar plasma levels to those observed after administration of one 200 mg emtricitabine hard capsule (see section 5.2).
+
 Elderly: There are no safety and efficacy data available in patients over the age of 65 years.
 However, no adjustment in the recommended daily dose for adults should be required unless there is evidence of renal insufficiency.
 

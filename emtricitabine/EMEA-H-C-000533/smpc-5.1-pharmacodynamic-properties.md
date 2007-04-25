@@ -25,6 +25,7 @@ Viruses resistant to zidovudine, zalcitabine, didanosine and NNRTIs retained the
 Clinical experience: Emtricitabine in combination with other antiretroviral agents, including nucleoside analogues, non-nucleoside analogues and protease inhibitors, has been shown to be effective in the treatment of HIV infection in treatment-naïve patients and treatment-experienced patients with stable virological control.
 There is no experience of the use of emtricitabine in patients who are failing their current regimen or who have failed multiple regimens.
 There is no clinical experience of the use of emtricitabine in infants less than 4 months of age.
+
 In antiretroviral treatment-naïve adults, emtricitabine was significantly superior to stavudine when both medicinal products were taken in combination with didanosine and efavirenz through 48 weeks of treatment.
 Phenotypic analysis showed no significant changes in emtricitabine susceptibility unless the M184V/I mutation had developed.
 

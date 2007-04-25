@@ -1,6 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 Emtriva should not be taken with any other medicinal products containing emtricitabine or medicinal products containing lamivudine.
+
 General: Emtricitabine is not recommended as monotherapy for the treatment of HIV infection.
 It must be used in combination with other antiretrovirals.
 Please also refer to the Summaries of Product Characteristics of the other antiretroviral medicinal products used in the combination regimen.
@@ -40,6 +41,7 @@ A higher risk of lipodystrophy has been associated with individual factors such 
 Clinical examination should include evaluation for physical signs of fat redistribution.
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate.
+
 Liver function: Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 Patients with chronic hepatitis B or C infection treated with combination antiretroviral therapy are at increased risk of experiencing severe, and potentially fatal, hepatic adverse events.
 In case of concomitant antiviral therapy for hepatitis B or C, please also refer to the relevant Summary of Product Characteristics for these medicinal products.
