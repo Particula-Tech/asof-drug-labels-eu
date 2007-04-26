@@ -40,7 +40,9 @@ Consideration should be given to the measurement of fasting serum lipids and blo
 Lipid disorders should be managed as clinically appropriate (see section 4.8).
 
 In clinical studies, REYATAZ (with or without ritonavir) has been shown to induce dyslipidemia to a lesser extent than comparators (see section 5.1).
-However, the clinical impact of such findings has not been demonstrated in the absence of specific studies on cardiovascular risk.
+The clinical impact of such findings has not been demonstrated in the absence of specific studies on cardiovascular risk.
+The selection of antiretroviral therapy must be guided principally by antiviral efficacy.
+Consultation with standard guidelines for management of dyslipidemia is recommended.
 
 Hyperglycaemia
 New onset diabetes mellitus, hyperglycaemia, and exacerbation of existing diabetes mellitus have been reported in patients receiving protease inhibitors.

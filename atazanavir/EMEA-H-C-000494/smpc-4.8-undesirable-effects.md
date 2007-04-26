@@ -103,5 +103,3 @@ There have been postmarketing reports of diabetes mellitus, and hyperglycemia.
 [REYATAZ 50 mg/1.5 g oral powder]
 
 uncommon: pancreatitis, gastritis, stomatitis aphthous, dysgeusia, flatulence;
-
-rare: vesiculobullous rash, eczema, vasodilatation Musculoskeletal and connective uncommon: muscle atrophy, arthralgia, myalgia;
