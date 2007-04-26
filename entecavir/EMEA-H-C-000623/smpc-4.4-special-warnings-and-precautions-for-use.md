@@ -1,13 +1,14 @@
 # 4.4 Special warnings and precautions for use
 
 Renal impairment: dosage adjustment is recommended for patients with renal impairment (see section 4.2).
+The proposed dose modifications are based on extrapolation of limited data, and their safety and effectiveness have not been clinically evaluated.
+Therefore, virological response should be closely monitored.
 
 Exacerbations of hepatitis: spontaneous exacerbations in chronic hepatitis B are relatively common and are characterised by transient increases in serum ALT.
 After initiating antiviral therapy, serum ALT may increase in some patients as serum HBV DNA levels decline (see section 4.8).
 Among entecavir-treated patients on-treatment exacerbations had a median time of onset of 4-5 weeks.
 In patients with compensated liver disease, these increases in serum ALT are generally not accompanied by an increase in serum bilirubin concentrations or hepatic decompensation.
 Patients with cirrhosis may be at a higher risk for hepatic decompensation following hepatitis exacerbation, and therefore should be monitored closely during therapy.
-
 Acute exacerbation of hepatitis has also been reported in patients who have discontinued hepatitis B therapy.
 Post-treatment exacerbations are usually associated with rising HBV DNA, and the majority appears to be self-limited.
 However, severe exacerbations, including fatalities, have been reported.
@@ -15,6 +16,7 @@ However, severe exacerbations, including fatalities, have been reported.
 Among entecavir-treated nucleoside naive patients, post-treatment exacerbations had a median time to onset of 23-24 weeks, and most were reported in HBeAg negative patients (see section 4.8).
 Hepatic function should be monitored at repeated intervals with both clinical and laboratory follow-up for at least 6 months after discontinuation of hepatitis B therapy.
 If appropriate, resumption of hepatitis B therapy may be warranted.
+
 Patients with decompensated cirrhosis: a higher rate of serious hepatic adverse events has been observed in patients with decompensated cirrhosis compared with rates in patients with compensated liver function.
 This observation is based on limited experience in 45 patients with Child-Pugh score
 ≥ 7 at the start of entecavir treatment.
@@ -43,7 +45,6 @@ Co-infection with hepatitis C or D: there are no data on the efficacy of entecav
 
 Co-infection with HIV: no data are available on the efficacy of entecavir in HBeAg-negative patients co-infected with HIV.
 There are limited data on patients co-infected with HIV who have low CD4 cell counts (< 200 cells/mm3) (see section 5.1).
-
 General: patients should be advised that therapy with entecavir has not been proven to reduce the risk of transmission of HBV and therefore appropriate precautions should still be taken.
 
 Lactose: this medicinal product contains 120.5 mg of lactose in each 0.5 mg daily dose.

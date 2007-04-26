@@ -20,16 +20,21 @@ The dose should be adjusted according to the patient’s renal function (see dos
 Gender and race: no dosage adjustment based on gender or race is required.
 
 Renal impairment: the clearance of entecavir decreases with decreasing creatinine clearance (see section 5.2).
-Dose adjustment is recommended for patients with creatinine clearance < 50 ml/min, including those on haemodialysis or continuous ambulatory peritoneal dialysis (CAPD), as follows:
+Dose adjustment is recommended for patients with creatinine clearance < 50 ml/min, including those on haemodialysis or continuous ambulatory peritoneal dialysis (CAPD).
+A reduction of the daily dose using Baraclude oral solution, as detailed in the table, is recommended.
+As an alternative, in case the oral solution is not available, the dose can be adjusted by increasing the dosage interval, also shown in the table.
+The proposed dose modifications are based on extrapolation of limited data, and their safety and effectiveness have not been clinically evaluated.
+Therefore, virological response should be closely monitored.
 
 | Creatinine clearance (ml/min) | Baraclude dosage* |  |
 | --- | --- | --- |
-|  | Nucleoside naïve patients (0.5 mg once daily) | Lamivudine-refractory (1 mg once daily) |
-| 30 - 49 | 0.25 mg once daily | 0.5 mg once daily |
-| 10 - 29 | 0.15 mg once daily | 0.3 mg once daily |
-| < 10 Haemodialysis or CAPD** | 0.05 mg once daily | 0.1 mg once daily |
+|  | Nucleoside naïve patients | Lamivudine-refractory |
+| ≥ 50 | 0.5 mg once daily | 1 mg once daily |
+| 30 - 49 | 0.25 mg once daily* OR 0.5 mg every 48 hours | 0.5 mg once daily |
+| 10 - 29 | 0.15 mg once daily* OR 0.5 mg every 72 hours | 0.3 mg once daily* OR 0.5 mg every 48 hours |
+| < 10 Haemodialysis or CAPD** | 0.05 mg once daily* OR 0.5 mg every 5-7 days | 0.1 mg once daily* OR 0.5 mg every 72 hours |
 
-* for doses < 0.5 mg Baraclude oral solution is available.
+* for doses < 0.5 mg Baraclude oral solution is recommended.
 ** on haemodialysis days, administer entecavir after haemodialysis.
 
 Hepatic impairment: no dose adjustment is required in patients with hepatic impairment.
@@ -44,9 +49,10 @@ It is recommended that the dosing spoon be rinsed with water after each daily do
 
 | Creatinine clearance (ml/min) | Baraclude dosage |  |
 | --- | --- | --- |
-|  | Nucleoside naïve patients (0.5 mg once daily) | Lamivudine-refractory (1 mg once daily) |
-| 30 - 49 | 0.25 mg once daily | 0.5 mg once daily |
-| 10 - 29 | 0.15 mg once daily | 0.3 mg once daily |
-| < 10 Haemodialysis or CAPD** | 0.05 mg once daily | 0.1 mg once daily |
+|  | Nucleoside naïve patients | Lamivudine-refractory |
+| ≥ 50 | 0.5 mg once daily | 1 mg once daily |
+| 30 - 49 | 0.25 mg once daily OR 0.5 mg every 48 hours | 0.5 mg once daily |
+| 10 - 29 | 0.15 mg once daily OR 0.5 mg every 72 hours | 0.3 mg once daily OR 0.5 mg every 48 hours |
+| < 10 Haemodialysis or CAPD** | 0.05 mg once daily OR 0.5 mg every 5-7 days | 0.1 mg once daily OR 0.5 mg every 72 hours |
 
 **on haemodialysis days, administer entecavir after haemodialysis.

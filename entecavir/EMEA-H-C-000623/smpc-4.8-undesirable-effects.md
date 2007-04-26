@@ -4,7 +4,6 @@ Assessment of adverse reactions is based on four clinical studies in which 1,720
 The safety profiles of entecavir and lamivudine, including laboratory test abnormalities, were comparable in these studies.
 
 The most common adverse reactions of any severity with at least a possible relation to entecavir were headache (9%), fatigue (6%), dizziness (4%) and nausea (3%).
-
 Adverse reactions considered at least possibly related to treatment with entecavir are listed by body system organ class.
 Frequency is defined as very common (≥ 1/10); common (≥ 1/100, < 1/10).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
@@ -49,11 +48,11 @@ Exacerbations during treatment: in studies with nucleoside naive patients, on tr
 In studies with lamivudine-refractory patients, on treatment ALT elevations > 10 times ULN and > 2 times baseline occurred in 2% of entecavir treated patients vs 11% of lamivudine treated patients.
 Among entecavir-treated patients, on-treatment ALT elevations had a median time to onset of 4-5 weeks, generally resolved with continued treatment, and, in a majority of cases, were associated with a ≥ 2 log10/ml reduction in viral load that preceded or coincided with the ALT elevation.
 Periodic monitoring of hepatic function is recommended during treatment.
-
 Exacerbations after discontinuation of treatment: acute exacerbations of hepatitis have been reported in patients who have discontinued anti-hepatitis B virus therapy, including therapy with entecavir (see section 4.4).
 In studies in nucleoside-naive patients, 6% of entecavir-treated patients and 10% of lamivudine-treated patients experienced ALT elevations (> 10 times ULN and > 2 times reference [minimum of baseline or last end-of-dosing measurement]) during post-treatment follow-up.
 Among entecavir-treated nucleoside-naive patients, ALT elevations had a median time to onset of 23-24 weeks, and 86% (24/28) of ALT elevations occurred in HBeAg negative patients.
 In studies in lamivudine-refractory patients, with only limited numbers of patients being followed up, 11% of entecavir-treated patients and no lamivudine-treated patients developed ALT elevations during post-treatment follow-up.
+
 In the clinical trials entecavir treatment was discontinued if patients achieved a prespecified response.
 If treatment is discontinued without regard to treatment response, the rate of post-treatment ALT flares could be higher.
 
