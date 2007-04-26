@@ -14,6 +14,7 @@ Biotransformation: Varenicline undergoes minimal metabolism with 92% excreted un
 Minor metabolites in urine include varenicline N-carbamoylglucuronide and hydroxyvarenicline.
 In circulation, varenicline comprises 91% of drug-related material.
 Minor circulating metabolites include varenicline N-carbamoylglucuronide and N-glucosylvarenicline.
+
 Elimination: The elimination half-life of varenicline is approximately 24 hours.
 Renal elimination of varenicline is primarily through glomerular filtration along with active tubular secretion via the organic cationic transporter, OCT2.
 (see section 4.5).

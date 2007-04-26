@@ -95,3 +95,5 @@ Investigations
 Uncommon Blood pressure increased, electrocardiogram ST segment depression,
 
 electrocardiogram T wave amplitude decreased, heart rate increased, liver function test abnormal, platelet count decreased, weight increased, semen abnormal, C-reactive protein increased, blood calcium decreased
+
+Post-marketing cases of myocardial infarction have been reported in patients taking varenicline.
