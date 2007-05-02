@@ -12,6 +12,7 @@ Tenofovir diphosphate is a weak inhibitor of cellular polymerases α, β, and γ
 At concentrations of up to 300 µmol/l, tenofovir has also shown no effect on the synthesis of mitochondrial DNA or the production of lactic acid in in vitro assays.
 
 Pharmacodynamic effects: Tenofovir has in vitro antiviral activity against retroviruses and hepadnaviruses.
+
 The concentration of tenofovir required for 50% inhibition (IC50) of the wild-type laboratory strain HIV-1IIIB is 1-6 µmol/l in lymphoid cell lines and 1.1 µmol/l against primary HIV-1 subtype B isolates in PBMCs.
 Tenofovir is also active against HIV-1 subtypes A, C, D, E, F, G, and O and against HIVBaL in primary monocyte/macrophage cells.
 Tenofovir shows activity in vitro against HIV-2, with an IC50 of 4.9 µmol/l in MT-4 cells and against hepatitis B virus, with an IC50 of 1.1 µmol/l in

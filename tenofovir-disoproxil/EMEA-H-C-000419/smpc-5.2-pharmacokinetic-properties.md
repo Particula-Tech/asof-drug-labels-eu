@@ -12,6 +12,7 @@ The oral bioavailability of tenofovir from tenofovir disoproxil fumarate in fast
 Administration of tenofovir disoproxil fumarate with a high fat meal enhanced the oral bioavailability, with an increase in tenofovir AUC by approximately 40% and Cmax by approximately 14%.
 Following the first dose of tenofovir disoproxil fumarate in fed patients, the median Cmax in serum ranged from 213 to 375 ng/ml.
 However, administration of tenofovir disoproxil fumarate with a light meal did not have a significant effect on the pharmacokinetics of tenofovir.
+
 Distribution
 Following intravenous administration the steady-state volume of distribution of tenofovir was estimated to be approximately 800 ml/kg.
 After oral administration of tenofovir disoproxil fumarate, tenofovir is distributed to most tissues with the highest concentrations occurring in the kidney, liver and the intestinal contents (preclinical studies).
@@ -46,8 +47,8 @@ Pharmacokinetic parameters of tenofovir were determined following administration
 Compared with patients with normal renal function, the mean (%CV) tenofovir exposure increased from 2,185 (12%) ng·h/ml in subjects with CrCl > 80 ml/min to respectively 3,064 (30%) ng·h/ml, 6,009 (42%) ng·h/ml and 15,985 (45%) ng·h/ml in patients with mild, moderate and severe renal impairment.
 The dosing recommendations in patients with renal impairment, with increased dosing interval, are expected to result in higher peak plasma concentrations and lower Cmin levels in patients with renal impairment compared with patients with normal renal function.
 The clinical implications of this are unknown.
-
 In patients with end-stage renal disease (ESRD) (CrCl < 10 ml/min) requiring haemodialysis, between dialysis tenofovir concentrations substantially increased over 48 hours achieving a mean Cmax of 1,032 ng/ml and a mean AUC0-48h of 42,857 ng·h/ml.
+
 It is recommended that the dosing interval for tenofovir disoproxil 245 mg (as fumarate) is modified in patients with creatinine clearance < 50 ml/min or in patients who already have ESRD and require dialysis (see section 4.2).
 
 The pharmacokinetics of tenofovir in non-haemodialysis patients with creatinine clearance

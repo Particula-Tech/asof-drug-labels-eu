@@ -38,11 +38,11 @@ Renal and urinary disorders:
 Rare: renal failure, acute renal failure, proximal tubulopathy (including Fanconi syndrome), increased creatinine
 Very rare: acute tubular necrosis
 Not known: nephritis (including acute interstitial nephritis), nephrogenic diabetes insipidus.
-
 General disorders and administration site conditions:
 Very rare: asthenia
 
 Approximately 1% of tenofovir disoproxil fumarate treated patients discontinued treatment due to the gastrointestinal events.
+
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
