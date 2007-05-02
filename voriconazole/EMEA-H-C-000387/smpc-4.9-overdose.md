@@ -15,8 +15,7 @@ In an overdose, haemodialysis may assist in the removal of voriconazole from the
 
 [VFEND 200 mg powder for solution for infusion]
 
-Voriconazole is haemodialysed with a clearance of 121ml/min.
-The intravenous vehicle, SBECD, is haemodialysed with a clearance of 55ml/min.
+The intravenous vehicle, SBECD, is haemodialysed with a clearance of 55 ml/min.
 In an overdose, haemodialysis may assist in the removal of voriconazole and SBECD from the body.
 
 [VFEND 40 mg/ml powder for oral suspension]

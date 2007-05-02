@@ -1,6 +1,6 @@
 # 6.2 Incompatibilities
 
-Not applicable
+Not applicable.
 
 [VFEND 200 mg film-coated tablets]
 
@@ -8,15 +8,19 @@ Not applicable
 
 [VFEND 200 mg powder for solution for infusion]
 
-VFEND must not be infused into the same line or cannula concomitantly with infusions of other medicinal products including parenteral nutrition (eg Aminofusin 10% Plus).
-4.2% Sodium Bicarbonate Intravenous Infusion is not compatible with VFEND and is not recommended for use as a diluent.
+VFEND must not be infused into the same line or cannula concomitantly with other intravenous products.
+When the VFEND infusion is complete, the line may be used for administration of other intravenous products.
+
+Blood products and electrolyte supplementation:
+Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of voriconazole therapy (see section 4.2 and section 4.4).
+VFEND must not be administered simultaneously with any blood product or any electrolyte supplementation, even if the two infusions are running in separate lines.
+
+Total parenteral nutrition:
+Total parenteral nutrition (TPN) need not be discontinued when prescribed with VFEND, but does need to be infused through a separate line.
+If infused through a multiple-lumen catheter, TPN needs to be administered using a different port from the one used for VFEND.
+VFEND must not be diluted with 4.2 % Sodium Bicarbonate Infusion.
 Compatibility with other concentrations is unknown.
-
 This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
-
-Infusions of blood products must not occur simultaneously with voriconazole.
-
-Infusion of total parenteral nutrition can occur simultaneously with voriconazole but not in the same line or cannula.
 
 [VFEND 40 mg/ml powder for oral suspension]
 

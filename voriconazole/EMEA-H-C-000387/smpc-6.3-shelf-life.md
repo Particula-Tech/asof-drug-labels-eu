@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-3 years
+3 years.
 
 [VFEND 200 mg film-coated tablets]
 
@@ -20,3 +20,4 @@ Chemical and physical in-use stability has been demonstrated for 24 hours at 2°
 
 The shelf-life of the powder for oral suspension is 2 years.
 The shelf-life of the constituted suspension is 14 days.
+Constituted suspension: Do not store above 30°C, do not refrigerate or freeze.

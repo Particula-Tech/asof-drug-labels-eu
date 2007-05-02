@@ -1,10 +1,10 @@
 # 4.1 Therapeutic indications
 
-VFEND, voriconazole, is a broad spectrum, triazole antifungal agent and is indicated as follows:
+Voriconazole, is a broad spectrum, triazole antifungal agent and is indicated as follows:
 
 Treatment of invasive aspergillosis.
 
-Treatment of candidemia in non-neutropenic patients
+Treatment of candidemia in non-neutropenic patients.
 
 Treatment of fluconazole-resistant serious invasive Candida infections (including C. krusei).
 

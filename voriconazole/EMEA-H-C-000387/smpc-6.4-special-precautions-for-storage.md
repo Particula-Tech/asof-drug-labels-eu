@@ -10,9 +10,10 @@ No special precautions for storage.
 
 Reconstituted concentrate: Store at 2°C-8°C for up to 24 hours (in a refrigerator).
 
+For storage conditions of the reconstituted medicinal product, see section 6.3.
+
 [VFEND 40 mg/ml powder for oral suspension]
 
 Powder for oral suspension: Store at 2°C - 8°C (in a refrigerator) before constitution.
-Constituted suspension: Do not store above 30°C, do not refrigerate or freeze.
+For storage conditions of the constituted suspension see section 6.3.
 Keep the container tightly closed.
-Any remaining suspension should be discarded 14 days after constitution.

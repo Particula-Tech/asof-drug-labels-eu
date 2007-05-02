@@ -15,7 +15,7 @@ Packs of 1 single use 30 ml clear Type I glass vials with rubber stoppers and al
 
 [VFEND 40 mg/ml powder for oral suspension]
 
-One 100ml high-density polyethylene (HDPE) bottle (with a polypropylene child resistant closure) contains 45 g of powder for oral suspension.
+One 100 ml high-density polyethylene (HDPE) bottle (with a polypropylene child resistant closure) contains 45 g of powder for oral suspension.
 Following constitution, the volume of the suspension is 75 ml, providing a usable volume of 70 ml.
-A measuring cup (graduated to indicate 23 mL), 5 ml oral syringe and a press-in bottle adaptor are also provided.
-Pack size: 1 bottle
+A measuring cup (graduated to indicate 23 ml), 5 ml oral syringe and a press-in bottle adaptor are also provided.
+Pack size: 1 bottle.

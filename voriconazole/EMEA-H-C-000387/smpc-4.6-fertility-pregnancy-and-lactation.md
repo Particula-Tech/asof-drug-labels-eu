@@ -1,10 +1,11 @@
 # 4.6 Pregnancy and lactation
 
 Pregnancy
-No adequate information on the use of VFEND in pregnant women is available.
+There are no adequate data from the use of VFEND in pregnant women.
 
 Studies in animals have shown reproductive toxicity (see section 5.3).
-The potential risk to humans is unknown.
+The potential risk for humans is unknown.
+
 VFEND must not be used during pregnancy unless the benefit to the mother clearly outweighs the potential risk to the foetus.
 
 Women of child-bearing potential
@@ -13,3 +14,15 @@ Women of child-bearing potential must always use effective contraception during 
 Lactation
 The excretion of voriconazole into breast milk has not been investigated.
 Breast-feeding must be stopped on initiation of treatment with VFEND.
+
+[VFEND 200 mg film-coated tablets]
+
+No adequate information on the use of VFEND in pregnant women is available.
+
+[VFEND 200 mg powder for solution for infusion]
+
+(all sentences already above)
+
+[VFEND 40 mg/ml powder for oral suspension]
+
+(all sentences already above)

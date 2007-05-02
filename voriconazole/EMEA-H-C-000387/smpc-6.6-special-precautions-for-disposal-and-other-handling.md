@@ -1,6 +1,6 @@
-# 6.6 Instructions for use and handling
+# 6.6 Special precautions for disposal
 
-Not applicable.
+No special requirements.
 
 [VFEND 200 mg film-coated tablets]
 
@@ -8,10 +8,10 @@ Not applicable.
 
 [VFEND 200 mg powder for solution for infusion]
 
+Any unused product or waste material should be disposed of in accordance with local requirements.
 The powder is reconstituted with 19 ml of Water for Injections to obtain an extractable volume of 20 ml of clear concentrate containing 10 mg/ml of voriconazole.
 Discard the VFEND vial if vacuum does not pull the diluent into the vial.
-It is recommended that a standard
-20 ml (non-automated) syringe be used to ensure that the exact amount (19.0 ml) of Water for Injections is dispensed.
+It is recommended that a standard 20 ml (non-automated) syringe be used to ensure that the exact amount (19.0 ml) of Water for Injections is dispensed.
 This medicinal product is for single use only and any unused solution should be discarded and only clear solutions without particles should be used.
 
 For administration, the required volume of the reconstituted concentrate is added to a recommended compatible infusion solution (detailed below) to obtain a final voriconazole solution containing 0.5-5 mg/ml.
@@ -47,26 +47,29 @@ If not used immediately, in-use storage times and conditions prior to use are th
 
 The reconstituted solution can be diluted with:
 
-9 mg/ml (0.9%) Sodium Chloride for Infusion
+9 mg/ml (0.9 %) Sodium Chloride for Infusion
 Lactated Ringer’s Intravenous Infusion
-5% Glucose and Lactated Ringer’s Intravenous Infusion
-5% Glucose and 0.45% Sodium Chloride Intravenous Infusion
-5% Glucose Intravenous Infusion
-5% Glucose in 20mEq Potassium Chloride Intravenous Infusion
-0.45% Sodium Chloride Intravenous Infusion
-5% Glucose and 0.9% Sodium Chloride Intravenous Infusion
+5 % Glucose and Lactated Ringer’s Intravenous Infusion
+5 % Glucose and 0.45 % Sodium Chloride Intravenous Infusion
+5 % Glucose Intravenous Infusion
+5 % Glucose in 20 mEq Potassium Chloride Intravenous Infusion
+0.45 % Sodium Chloride Intravenous Infusion
+5 % Glucose and 0.9 % Sodium Chloride Intravenous Infusion
 
 The compatibility of voriconazole with diluents other than described above or in section 6.2 is unknown.
 
 [VFEND 40 mg/ml powder for oral suspension]
 
+Any remaining suspension should be discarded 14 days after constitution.
+
 Constitution instructions:
+
 1.
 Tap the bottle to release the powder.
 2.
-Measure 23 mL of water by filling the measuring cup to the top of the marked line.
+Measure 23 ml of water by filling the measuring cup to the top of the marked line.
 Add the water to the bottle.
-Using the cup measure another 23 mL of water and add this to the bottle.
+Using the cup measure another 23 ml of water and add this to the bottle.
 3.
 Shake the closed bottle vigorously for about 1 minute.
 4.
