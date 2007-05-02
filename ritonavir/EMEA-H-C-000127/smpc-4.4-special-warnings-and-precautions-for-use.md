@@ -2,6 +2,7 @@
 
 Ritonavir is not a cure for HIV-1 infection or AIDS.
 Patients receiving ritonavir or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV-1 infection.
+
 Patients should be advised that current antiretroviral therapy has not been proven to prevent the risk of transmission of HIV to others through blood or sexual contact.
 Appropriate precautions should continue to be used.
 
@@ -78,6 +79,7 @@ Co-administration of ritonavir with these medicinal products is expected to subs
 HMG-CoA reductase inhibitors: The HMG-CoA reductase inhibitors simvastatin and lovastatin are highly dependent on CYP3A for metabolism, thus concomitant use of ritonavir with simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
 Caution must also be exercised and reduced doses should be considered if ritonavir is used concurrently with atorvastatin, which is metabolised to a lesser extent by CYP3A.
 If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fluvastatin is recommended (see section 4.5).
+
 Digoxin: Particular caution should be used when prescribing ritonavir in patients taking digoxin since co-administration of ritonavir with digoxin is expected to increase digoxin levels.
 The increased digoxin levels may lessen over time (see section 4.5).
 
@@ -106,7 +108,6 @@ Higher doses of ritonavir have been shown to be associated with an increased inc
 Co-administration of saquinavir and ritonavir has led to severe adverse events, mainly diabetic ketoacidosis and liver disorders, especially in patients with pre-existing liver disease.
 
 Saquinavir/ritonavir should not be given together with rifampicin, due to the risk of severe hepatotoxicity (presenting as increased hepatic transaminases) if the three medicines are given together (see section 4.5).
-
 Tipranavir: co-administered with 200 mg of ritonavir has been associated with reports of clinical hepatitis and hepatic decompensation including some fatalities.
 Extra vigilance is warranted in patients with chronic hepatitis B or hepatitis C co-infection, as these patients have an increased risk of hepatotoxicity.
 
@@ -114,6 +115,7 @@ Doses of ritonavir lower than 200 mg twice daily should not be used as they migh
 
 Fosamprenavir: Co-administration of fosamprenavir with ritonavir in doses greater than 100 mg twice daily has not been clinically evaluated.
 The use of higher ritonavir doses might alter the safety profile of the combination and therefore is not recommended.
+
 Atazanavir: Co-administration of atazanavir with ritonavir in doses greater than 100 mg once daily has not been clinically evaluated.
 The use of higher ritonavir doses might alter the safety profile of atazanavir (cardiac effects, hyperbilirubinemia) and therefore is not recommended.
 

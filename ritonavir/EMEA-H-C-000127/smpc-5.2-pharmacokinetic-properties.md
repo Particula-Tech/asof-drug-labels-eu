@@ -13,14 +13,14 @@ Ritonavir Dosing Regimen
 100 mg once 100 mg twice 200 mg once 200 mg twice 600 mg twice
 
 daily daily1 daily daily daily
-Cmax (µg/mL) 0.84 ± 0.39 0.89 3.4 ± 1.3 4.5 ± 1.3 11.2 ± 3.6
+Cmax (μg/mL) 0.84 ± 0.39 0.89 3.4 ± 1.3 4.5 ± 1.3 11.2 ± 3.6
 Ctrough 0.08 ± 0.04 0.22 0.16 ± 0.10 0.6 ± 0.2 3.7 ± 2.6
 
-(µg/mL)
+(μg/mL)
 
 AUC12 or 24 6.6 ± 2.4 6.2 20.0 ± 5.6 21.92 ± 6.48 77.5 ± 31.5
 
-(µg•h/mL)
+(μg•h/mL)
 
 t½ (h) ~5 ~5 ~4 ~8 ~3 to 5
 Cl/F (L/h) 17.2 ± 6.6 16.1 10.8 ± 3.1 10.0 ± 3.2 8.8 ± 3.2
@@ -33,7 +33,7 @@ Ingestion of ritonavir with food results in higher ritonavir exposure than inges
 
 Distribution:
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20 - 40 l after a single 600 mg dose.
-The protein binding of ritonavir in human plasma is approximately 98 - 99% and is constant over the concentration range of 1.0 – 100 µg /ml.
+The protein binding of ritonavir in human plasma is approximately 98 - 99% and is constant over the concentration range of 1.0 – 100 μg /ml.
 Ritonavir binds to both human alpha 1-acid glycoprotein (AAG) and human serum albumin (HSA) with comparable affinities.
 
 Tissue distribution studies with 14C-labelled ritonavir in rats showed the liver, adrenals, pancreas, kidneys and thyroid to have the highest concentrations of ritonavir.
@@ -56,8 +56,7 @@ This was consistent with the observations in animal studies.
 
 Special Populations: No clinically significant differences in AUC or Cmax were noted between males and females.
 Ritonavir pharmacokinetic parameters were not statistically significantly associated with body weight or lean body mass.
-Ritonavir pharmacokinetics have not been evaluated in elderly patients.
-
+Ritonavir plasma exposures in patients 50 – 70 years of age when dosed 100 mg in combination with lopinavir or at higher doses in the absence of other protease inhibitors is similar to that observed in younger adults.
 Patients with impaired liver function: after multiple dosing of ritonavir to healthy volunteers (500 mg twice daily) and subjects with mild to moderate hepatic impairment (Child Pugh Class A and B,
 400 mg twice daily) exposure to ritonavir after dose normalisation was not significantly different between the two groups.
 

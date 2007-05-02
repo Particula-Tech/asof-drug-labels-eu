@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
 Ritonavir dosed as a pharmacokinetic enhancer
+
 Adverse events associated with the use of ritonavir as a pharmacokinetic enhancer are dependent on the specific co-administered PI.
 For information on adverse events refer to the SPC of the specific co-administered PI.
 

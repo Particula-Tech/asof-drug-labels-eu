@@ -18,6 +18,7 @@ Tipranvir 500 mg twice daily with ritonavir 200 mg twice daily
 
 Paediatric use: Lopinavir co-formulated with ritonavir is recommended for children 2 years of age and older.
 For further dosage recommendations, refer to the product information of other Protease Inhibitors approved for co-administered with ritonavir.
+
 Renal impairment: As ritonavir is primarily metabolised by the liver, ritonavir may be appropriate for use with caution as a pharmacokinetic enhancer in patients with renal insufficiency depending on the specific protease inhibitor with which it is co-administered.
 However, since the renal clearance of ritonavir is negligible, the decrease in the total body clearance is not expected in patients with renal impairment.
 For specific dosing information in patients with renal impairment, refer to the Summary of Product Characteristics (SPC) of the co-administered protease inhibitor.
@@ -62,8 +63,7 @@ Because ritonavir is highly protein bound it is unlikely that it will be signifi
 Hepatic impairment: Ritonavir is principally metabolised and eliminated by the liver.
 Pharmacokinetic data indicate that no dose adjustment is necessary in patients with mild to moderate hepatic impairment (see section 5.2).
 Ritonavir should not be given to patients with severe hepatic impairment (see section 4.3).
-
-Special Populations: Ritonavir pharmacokinetics have not been evaluated in elderly patients.
+Special Populations: Pharmacokinetic data indicated that no dose adjustment is necessary for elderly patients (see section 5.2).
 
 The bitter taste of Norvir solution may be lessened if mixed with chocolate milk.
 
