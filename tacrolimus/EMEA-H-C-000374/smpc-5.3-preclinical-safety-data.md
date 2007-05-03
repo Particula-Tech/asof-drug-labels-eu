@@ -9,6 +9,7 @@ Rabbits were shown to be especially sensitive to intravenous administration of t
 
 Mutagenicity
 In vitro and in vivo tests did not indicate a genotoxic potential of tacrolimus.
+
 Carcinogenicity
 Systemic carcinogenicity studies in mice (18 months) and rats (24 months) revealed no carcinogenic potential of tacrolimus.
 In a 24-month dermal carcinogenicity study performed in mice with 0.1% ointment, no skin tumours were observed.
@@ -20,4 +21,4 @@ The risk for humans cannot be completely ruled out as the potential for local im
 
 Reproduction toxicity
 Embryo/foetal toxicity was observed in rats and rabbits, but only at doses that caused significant toxicity in maternal animals.
-Reduced sperm function was noted in male rats at high oral doses.
+Reduced sperm function was noted in male rats at high subcutaneous doses of tacrolimus.

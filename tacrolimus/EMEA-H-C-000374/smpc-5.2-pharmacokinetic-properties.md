@@ -1,10 +1,9 @@
 # 5.2 Pharmacokinetic properties
 
 Clinical data have shown that tacrolimus concentrations in systemic circulation after topical administration are low and, when measurable, transient.
-
 Absorption
 Data from healthy human subjects indicate that there is little or no systemic exposure to tacrolimus following single or repeated topical application of tacrolimus ointment.
-Most atopic dermatitis patients (adults and children) treated with single or repeated application of tacrolimus ointment (0.03 - 0.3%) had blood concentrations < 1.0 ng/ml.
+Most atopic dermatitis patients (adults and children) treated with single or repeated application of tacrolimus ointment (0.03 - 0.1%), and infants from age of 5 months treated with tacrolimus ointment (0.03%) had blood concentrations < 1.0 ng/ml.
 When observed, blood concentrations exceeding 1.0 ng/ml were transient.
 Systemic exposure increases with increasing treatment areas.
 However, both the extent and the rate of topical absorption of tacrolimus decrease as the skin heals.

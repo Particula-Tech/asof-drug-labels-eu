@@ -34,10 +34,10 @@ Table 1 Efficacy at month 3
 The incidence and nature of most adverse events were similar in the two treatment groups.
 Skin burning, herpes simplex, alcohol intolerance (facial flushing or skin sensitivity after alcohol intake), skin tingling, hyperaesthesia, acne and fungal dermatitis occurred more often in the tacrolimus treatment group.
 There were no clinically relevant changes in the laboratory values or vital signs in either treatment group throughout the study.
+
 In the second trial, children aged from 2 to 15 years with moderate to severe atopic dermatitis received twice daily treatment for three weeks of 0.03% tacrolimus ointment, 0.1% tacrolimus ointment or 1% hydrocortisone acetate ointment.
 The primary endpoint was the area-under-the-curve (AUC) of the mEASI as a percentage of baseline averaged over the treatment period.
 The results of this multicentre, double-blind, randomised trial showed that tacrolimus ointment, 0.03% and 0.1%, is significantly more effective (p<0.001 for both) than 1% hydrocortisone acetate ointment (Table 2).
-
 Table 2 Efficacy at week 3
 
 |  | Hydrocortisone acetate 1% (N=185) | Tacrolimus 0.03% (N=189) | Tacrolimus 0.1% (N=186) |
