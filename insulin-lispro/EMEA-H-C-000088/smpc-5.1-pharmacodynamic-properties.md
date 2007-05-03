@@ -18,6 +18,7 @@ The typical activity profile following subcutaneous injection is illustrated bel
 
 Insulin
 Lispro
+
 Humulin R
 Hypoglycaemic
 Activity
@@ -29,7 +30,6 @@ The above representation reflects the relative amount of glucose over time requi
 
 Clinical trials have been performed in children (61 patients aged 2 to 11) and children and adolescents (481 patients aged 9 to 19 years), comparing insulin lispro to human soluble insulin.
 The pharmacodynamic profile of insulin lispro in children is similar to that seen in adults.
-
 When used in subcutaneous infusion pumps, treatment with insulin lispro has been shown to result in lower glycosylated haemoglobin levels compared to soluble insulin.
 In a double-blind, crossover study, the reduction in glycosylated haemoglobin levels after 12 weeks dosing was 0.37 percentage points with insulin lispro, compared to 0.03 percentage points for soluble insulin (p = 0.004).
 
@@ -74,12 +74,12 @@ Detailed information can be found in the following table.
 
 |  | Insulin-Naive Patients n = 78 | Not Insulin-Naive Patients n = 97 |
 | --- | --- | --- |
-| Mean total daily insulin dose at endpoint | 0.63 UI/kg | 0.42 UI/kg |
+| Mean total daily insulin dose at endpoint | 0.63 U/kg | 0.42 U/kg |
 | Haemoglobin A1c –Reduction1 | 1.30% (mean at baseline = 8.7%) | 1.00 % (mean at baseline = 8.5%) |
 | Reduction of the mean of combined morning / evening two-hour postprandial blood glucose1 | 3.46 mM | 2.48 mM |
 | Reduction of the mean fasting blood glucose1 | 0.55 mM | 0.65 mM |
-| Incidence of hypoglycaemia at endpoint | 28% | 25% |
-| Bodyweight gain2 | 2.17 kg | 0.96 kg |
+| Incidence of hypoglycaemia at endpoint | 25% | 25% |
+| Bodyweight gain2 | 2.33 kg | 0.96 kg |
 
 1 from baseline to end of Humalog Mix25 treatment
 2 in patients randomised to Humalog Mix25 during the first crossover period
