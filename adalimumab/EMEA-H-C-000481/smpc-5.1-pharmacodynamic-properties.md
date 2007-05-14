@@ -176,14 +176,11 @@ Subjects (n=215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20 r
 
 In the larger study (VIII) with 315 patients, results showed statistically significant improvement of the signs and symptoms of ankylosing spondylitis in patients treated with Humira compared to placebo.
 Significant response was first observed at Week 2 and maintained through 24 weeks (Table 8).
-
 Table 8 - Efficacy Responses in Placebo-Controlled AS Study – Study VIII Reduction of Signs and Symptoms
 
-Response Placebo Humira
-N=107 N=208
-
-| ASASa 20 |  |  |
+| Response | Placebo N=107 | Humira N=208 |
 | --- | --- | --- |
+| ASASa 20 |  |  |
 | Week 2 | 16% | 42%*** |
 | Week 12 | 21% | 58%*** |
 | Week 24 | 19% | 51%*** |
@@ -248,27 +245,6 @@ The results for the 40 mg every other week dose are summarized in Table 3.
 
 ACR responses in Study VI were similar with and without concomitant methotrexte therapy.
 
-| Response | Placebo N=107 | Humira N=208 |
-| --- | --- | --- |
-| ASASa 20 |  |  |
-| Week 2 | 16% | 42%*** |
-| Week 12 | 21% | 58%*** |
-| Week 24 | 19% | 51%*** |
-| ASAS 50 |  |  |
-| Week 2 | 3% | 16%*** |
-| Week 12 | 10% | 38%*** |
-| Week 24 | 11% | 35%*** |
-| ASAS 70 |  |  |
-| Week 2 | 0% | 7%** |
-| Week 12 | 5% | 23%*** |
-| Week 24 | 8% | 24%*** |
-| BASDAIb 50 |  |  |
-| Week 2 | 4% | 20%*** |
-| Week 12 | 16% | 45%*** |
-| Week 24 | 15% | 42%*** |
-
-In patients not given concomitant methotrexate, the incidence was 16/185 (8.6%), compared to 1/19 (5.3%) when adalimumab was used as add-on to methotrexateIn patients with psoriatic arthritis, the rate of development of antibodies to adalimumab in adalimumab-treated patients was comparable to patients with rheumatoid arthritis.
-
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
 Study I evaluated 271 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, had failed therapy with at least one disease-modifying, anti-rheumatic drug and had insufficient efficacy with methotrexate at doses of 12.5 to 25 mg (10 mg if methotrexate-intolerant) every week and whose methotrexate dose remained constant at 10 to 25 mg every week.
@@ -319,14 +295,6 @@ At week 52, 42.9% of patients who received Humira /methotrexate combination ther
 Humira /methotrexate combination therapy was clinically and statistically superior to methotrexate (p<0.001) and Humira monotherapy (p<0.001) in achieving a low disease state in patients with recently diagnosed moderate to severe rheumatoid arthritis.
 
 Humira /methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months.
-
-other week (95% Confidence
-
-|  |  |  | Intervalb) |  |
-| --- | --- | --- | --- | --- |
-| Total Sharp score | 2.7 | 0.1 | 2.6 (1.4, 3.8) | <0.001c |
-| Erosion score | 1.6 | 0.0 | 1.6 (0.9, 2.2) | <0.001 |
-| JSNd score | 1.0 | 0.1 | 0.9 (0.3, 1.4) | 0.002 |
 
 |  | MTX n=257 (95% confidence interval) | HUMIRA n=274 (95% confidence interval) | HUMIRA/M TX n=268 (95% confidence interval) | p-valuea | p-valueb | p-valuec |
 | --- | --- | --- | --- | --- | --- | --- |
