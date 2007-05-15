@@ -16,8 +16,8 @@ Co-administration of heparin had no effect on the inhibition of platelet aggrega
 A pharmacodynamic interaction between clopidogrel and heparin is possible, leading to increased risk of bleeding.
 Therefore, concomitant use should be undertaken with caution (see section 4.4).
 
-Thrombolytics: the safety of the concomitant administration of clopidogrel, fibrin or non-fibrin specific thrombolytic agents and heparins was assessed in patients withacute myocardial infarction.
-The incidence of clinically significant bleeding was similar to that observed whenthrombolytic agents and heparin are co-administered with ASA (see section 4.8)
+Thrombolytics: the safety of the concomitant administration of clopidogrel, fibrin or non-fibrin specific thrombolytic agents and heparins was assessed in patients with acute myocardial infarction.
+The incidence of clinically significant bleeding was similar to that observed when thrombolytic agents and heparin are co-administered with ASA (see section 4.8)
 
 Non-Steroidal Anti-Inflammatory Drugs (NSAIDs): in a clinical study conducted in healthy volunteers, the concomitant administration of clopidogrel and naproxen increased occult gastrointestinal blood loss.
 However, due to the lack of interaction studies with other NSAIDs it is presently unclear whether there is an increased risk of gastrointestinal bleeding with all NSAIDs.
