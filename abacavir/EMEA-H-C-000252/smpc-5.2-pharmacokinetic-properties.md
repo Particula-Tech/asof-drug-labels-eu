@@ -3,7 +3,6 @@
 Absorption: abacavir is rapidly and well absorbed following oral administration.
 The absolute bioavailability of oral abacavir in adults is about 83%.
 Following oral administration, the mean time (tmax) to maximal serum concentrations of abacavir is about 1.5 hours for the tablet formulation and about 1.0 hour for the solution formulation.
-
 At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 µg/ml (30%) and 0.01 µg/ml (99%), respectively.
 The mean (CV) AUC over a dosing interval of 12 hours was 6.02 µg.h/ml (29%), equivalent to a daily AUC of approximately 12.0 µg.h/ml.
 The Cmax value for the oral solution is slightly higher than the tablet.
