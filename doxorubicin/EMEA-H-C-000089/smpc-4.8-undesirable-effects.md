@@ -2,21 +2,21 @@
 
 The most common undesirable effect reported in breast/ovarian clinical trials (50 mg/m2 every 4 weeks) was palmar-plantar erythrodysesthesia (PPE).
 The overall incidence of PPE reported was 44.0 % - 46.1 %.
-These effects were mostly mild, with severe (Grade III) cases reported in 17 % - 19.5 %.
+These effects were mostly mild, with severe (Grade III) cases reported in 17 % -
+19.5 %.
 The reported incidence of life-threatening (Grade IV) cases was < 1 %.
 PPE infrequently resulted in permanent treatment discontinuation (3.7 % - 7.0 %).
 PPE is characterised by painful, macular reddening skin eruptions.
 In patients experiencing this event, it is generally seen after two or three cycles of treatment.
 Improvement usually occurs in one - two weeks, and in some cases, may take up to 4 weeks or longer for complete resolution.
-Pyridoxine at a dose of 50 - 150 mg per day and corticosteroids have been used for the prophylaxis and treatment of PPE, however, these therapies have not bee evaluated in phase III trials.
+Pyridoxine at a dose of 50 - 150 mg per day and corticosteroids have been used for the prophylaxis and treatment of PPE, however, these therapies have not been evaluated in phase III trials.
 Other strategies to prevent and treat PPE, which may be initiated for 4 to 7 days after treatment with Caelyx include keeping hands and feet cool, by exposing them to cool water (soaks, baths, or swimming), avoiding excessive heat/hot water and keeping them unrestricted (no socks, gloves, or shoes that are tight fitting).
 PPE appears to be primarily related to the dose schedule and can be reduced by extending the dose interval 1 - 2 weeks (see section 4.2).
 However, this reaction can be severe and debilitating in some patients and may require discontinuation of treatment.
 Stomatitis/mucositis and nausea were also commonly reported in breast/ovarian cancer patient populations, whereas the AIDS-KS Program (20 mg/m2 every 2 weeks), myelosuppression (mostly leukopaenia) was the most common side effect (see AIDS-KS).
 
 Breast cancer program: 509 patients with advanced breast cancer who had not received prior chemotherapy for metastatic disease were treated with Caelyx (n=254) at a dose of 50 mg/m2 every 4 weeks, or doxorubicin (n=255) at a dose of 60 mg/m2 every 3 weeks, in a phase III clinical trial (I97-328).
-The following common adverse events were reported more often with doxorubicin than with Caelyx: nausea (53 % vs. 37 %; Grade III/IV 5 % vs. 3 %), vomiting (31 % vs. 19 %; Grade III/IV
-4 % vs. less than 1 %), any alopecia (66 % vs. 20 %), pronounced alopecia (54 % vs.7 %), and neutropaenia (10 % vs. 4 %; Grade III/IV 8 % vs. 2 %).
+The following common adverse events were reported more often with doxorubicin than with Caelyx: nausea (53 % vs. 37 %; Grade III/IV 5 % vs. 3 %), vomiting (31 % vs. 19 %; Grade III/IV 4 % vs. less than 1 %), any alopecia (66 % vs. 20 %), pronounced alopecia (54 % vs.7 %), and neutropaenia (10 % vs. 4 %; Grade III/IV 8 % vs. 2 %).
 Mucositis (23 % vs. 13 %; Grade III/IV 4 % vs. 2 %), and stomatitis (22 % vs. 15 %; Grade III/IV 5 % vs. 2 %) were reported more commonly with Caelyx than with doxorubicin.
 The average duration of the most common severe (Grade III/IV) events for both groups was 30 days or less.
 See Table 4 for complete listing of undesirable effects reported in Caelyx-treated patients.
@@ -32,7 +32,7 @@ No clinically significant increases in serum creatinine were reported.
 | AE by body system | Breast Cancer All Severities n=254 (≥ 5 %) | Breast Cancer Grades III/IV n=254 (≥ 5 % ) | Breast Cancer n=404 (1-5 %) not previously reported in clinical trials |
 | Infections and infestations Common Uncommon | Pharyngitis | Pharyngitis | Folliculitis, fungal infection, cold sores (non-herpetic), upper respiratory tract infection |
 | Blood and lymphatic system disorders Common Uncommon | Leukopaenia, anaemia, neutropaenia, thrombocytopaenia | Leukopaenia, anaemia Neutropaenia | Thrombocythemia |
-| Metabolism and Nutrition disorders Very Common Common | Anorexia | Anorexia |  |
+| Metabolism and nutrition disorders Very Common Common | Anorexia | Anorexia |  |
 | Nervous system disorders Common | Paresthesia | Paresthesia | Peripheral neuropathy |
 | Uncommon | Somnolence |  |  |
 | Eye Disorders Common |  |  | Lacrimation, blurred vision |
@@ -41,9 +41,7 @@ No clinically significant increases in serum creatinine were reported.
 | Gastrointestinal disorders Very Common | Nausea, stomatitis, vomiting |  |  |
 | Common | Abdominal pain, constipation, diarrhoea, dyspepsia, mouth ulceration | Abdominal pain, diarrhoea, nausea, stomatitis | Oral pain |
 | Uncommon |  | Mouth ulceration, constipation, Vomiting |  |
-| Skin and subcutaneous tissue disorders Very Common | PPE*, alopecia, rash | PPE* |  |
-| Common | Dry skin, skin discolouration, pigmentation abnormal, | Rash | Bullous eruption, dermatitis, erythematous rash, nail |
-| Uncommon | erythema | Pigmentation abnormal, erythema | disorder, scaly skin |
+| Skin and subcutaneous tissue disorders Very Common Common Uncommon | PPE*, alopecia, rash Dry skin, skin discolouration, pigmentation abnormal, erythema | PPE* Rash Pigmentation abnormal, erythema | Bullous eruption, dermatitis, erythematous rash, nail disorder, scaly skin |
 | Musculoskeletal and connective tissue disorders Common |  |  | Leg cramps, bone pain, musculoskeletal pain |
 | Reproductive system and breast disorders Common |  |  | Breast pain |
 | General disorders and administration site conditions Very Common | Asthenia, fatigue, mucositis NOS |  |  |
@@ -65,21 +63,19 @@ CIOMS III
 | Blood and lymphatic system disorders Very Common | Leukopaenia, anaemia, neutropaenia, thrombocytopaenia | Neutropaenia |  |
 | Common |  | Leukopaenia, anaemia, thrombocytopaenia | Hypochromic anaemia |
 | Immune system disorders Common |  |  | Allergic reaction |
-| Metabolism and Nutrition disorders Very Common Common Uncommon | Anorexia | Anorexia | Dehydration, cachexia |
+| Metabolism and nutrition disorders Very Common Common Uncommon | Anorexia | Anorexia | Dehydration, cachexia |
 | Psychiatric disorders Common |  |  | Anxiety, depression, insomnia |
 | Nervous system disorders Common Uncommon | Paresthesia, somnolence | Paresthesia, somnolence | Headache, dizziness, neuropathy, hypertonia |
 | Eye disorders Common |  |  | Conjunctivitis |
 | Cardiac disorders Common |  |  | Cardiovascular disorder |
 | Vascular disorders Common |  |  | Vasodilatation |
 | Respiratory, thoracic and mediastinal disorders Common |  |  | Dyspnoea, increased cough |
-| Gastrointestinal disorders Very Common | Constipation, diarrhoea, nausea, stomatitis, vomiting |  |  |
-| Common | Abdominal pain, dyspepsia, mouth ulceration | Nausea, stomatitis, vomiting, abdominal pain, diarrhoea | Mouth ulceration, esophagitis, nausea and vomiting, gastritis, dysphagia, dry mouth, flatulence, gingivitis, |
-| Uncommon |  | Constipation, dyspepsia, mouth ulceration | taste perversion |
+| Gastrointestinal disorders Very Common Common Uncommon | Constipation, diarrhoea, nausea, stomatitis, vomiting Abdominal pain, dyspepsia, mouth ulceration | Nausea, stomatitis, vomiting, abdominal pain, diarrhoea Constipation, dyspepsia, mouth ulceration | Mouth ulceration, esophagitis, nausea and vomiting, gastritis, dysphagia, dry mouth, flatulence, gingivitis, taste perversion |
 | Skin and subcutaneous tissue disorders Very Common | PPE*, alopecia, rash | PPE* |  |
 | Common | Dry skin, skin discolouration | Alopecia, rash | Vesiculobullous rash, pruritus, exfoliative dermatitis, skin disorder, maculopapular rash, sweating, acne, skin ulcer |
 | Musculoskeletal and connective tissue disorders Common |  |  | Back pain, myalgia |
 | Renal and urinary disorders Common |  |  | Dysuria |
-| Reproductive system and breast disorders: Common |  |  | Vaginitis |
+| Reproductive system and breast disorders Common |  |  | Vaginitis |
 | General disorders and administration site conditions Very Common | Asthenia, mucous membrane disorder |  |  |
 | Common | Fever, pain | Asthenia, mucous membrane disorder, pain | Chills, chest pain, malaise, peripheral oedema |
 | Uncommon |  | Fever |  |
@@ -113,7 +109,6 @@ Opportunistic infections (OI’s) are observed in KS patients after administrati
 The most frequently observed OI’s in clinical studies were candidiasis, cytomegalovirus, herpes simplex, Pneumocystis carinii pneumonia, and mycobacterium avium complex.
 
 Undesirable effects observed in patients with AIDS-KS according to CIOMS III frequency categories (Very common (> 1/10); Common (> 1/100, < 1/10); Uncommon (> 1/1,000, < 1/100)) were as follows:
-
 Infections and infestations:
 Common: oral moniliasis
 
@@ -173,6 +168,7 @@ In nearly all patients, Caelyx treatment can be resumed after all symptoms have 
 Infusion reactions rarely recur after the first treatment cycle with Caelyx (see section 4.2).
 
 Myelosuppression associated with anaemia, thrombocytopaenia, leukopaenia, and rarely febrile neutropaenia, has been reported in Caelyx -treated patients.
+
 Stomatitis has been reported in patients receiving continuous infusions of conventional doxorubicin hydrochloride and was frequently reported in patients receiving Caelyx.
 It did not interfere with patients completing therapy and no dosage adjustments are generally required, unless stomatitis is affecting a patient’s ability to eat.
 In this case, the dose interval may be extended by 1 - 2 weeks or the dose reduced (see section 4.2).
@@ -180,8 +176,7 @@ In this case, the dose interval may be extended by 1 - 2 weeks or the dose reduc
 An increased incidence of congestive heart failure is associated with doxorubicin therapy at cumulative lifetime doses > 450 mg/m2 or at lower doses for patients with cardiac risk factors.
 Endomyocardial biopsies on nine of ten AIDS-KS patients receiving cumulative doses of Caelyx greater than 460 mg/m2 indicate no evidence of anthracycline-induced cardiomyopathy.
 The recommended dose of Caelyx for AIDS-KS patients is 20 mg/m2 every two-to-three weeks.
-The cumulative dose at which cardiotoxicity would become a concern for these AIDS-KS patients
-(> 400 mg/m2) would require more than 20 courses of Caelyx therapy over 40 to 60 weeks.
+The cumulative dose at which cardiotoxicity would become a concern for these AIDS-KS patients (> 400 mg/m2) would require more than 20 courses of Caelyx therapy over 40 to 60 weeks.
 
 In addition, endomyocardial biopsies were performed in 8 solid tumour patients with cumulative anthracycline doses of 509 mg/m2 – 1,680 mg/m2 .
 The range of Billingham cardiotoxicity scores was grades 0 - 1.5.
@@ -209,3 +204,6 @@ Caelyx must not be given by the intramuscular or subcutaneous route.
 Recall of skin reaction due to prior radiotherapy has rarely occurred with Caelyx administration.
 
 Following the marketing of Caelyx, serious skin conditions including erythema multiforme, Stevens Johnson syndrome and toxic epidermal necrolysis have been reported very rarely.
+
+In patients treated with Caelyx, cases of venous thromboembolism, including thrombophlebitis, venous thrombosis and pulmonary embolism have been seen uncommonly.
+However, because patients with cancer are at increased risk for thromboembolic disease, a causal relationship cannot be determined.

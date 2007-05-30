@@ -21,6 +21,5 @@ The survival rates at 1,
 
 For the sub-group of patients with platinum-sensitive disease the difference was greater: HR of 1.432 (95 % CI; 1.066, 1.923), p=0.017.
 The survival rates at 1, 2 and 3 years were 74.1 %, 51.2 % and 28.4 % respectively on Caelyx, compared to 66.2 %, 31.0 % and 17.5 % on topotecan.
-
 The treatments were similar in the sub-group of patients with platinum refractory disease: HR of 1.069 (95 % CI; 0.823, 1.387), p=0.618.
 The survival rates at 1, 2 and 3 years were 41.5 %, 21.1 % and 13.8 % respectively on Caelyx, compared to 43.2 %, 17.2 % and 9.5 % on topotecan.
