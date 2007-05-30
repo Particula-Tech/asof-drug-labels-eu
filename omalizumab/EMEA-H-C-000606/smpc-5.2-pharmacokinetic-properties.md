@@ -26,4 +26,4 @@ The population pharmacokinetics of Xolair were analysed to evaluate the effects 
 Analyses of these limited data suggest that no dose adjustments are necessary for age (12–76 years), race, ethnicity or gender.
 
 Renal and hepatic impairment
-There are no pharmacokinetic or pharmacodynamic data in patients with renal or hepatic impairment.
+There are no pharmacokinetic or pharmacodynamic data in patients with renal or hepatic impairment (see section 4.4).

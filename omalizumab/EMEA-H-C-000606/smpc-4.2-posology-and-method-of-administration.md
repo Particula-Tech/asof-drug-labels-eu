@@ -71,8 +71,8 @@ SEE TABLE 2
 >300–400 225 225 225 300 300
 >400–500 225 225 300 300 375 375
 >500–600 225 300 300 375 DO NOT ADMINISTER – data is
-unavailable for dose recommendation
->600–700 225 225 300 375
+unavailable for dose
+>600–700 225 225 300 375 recommendation
 
 Treatment duration, monitoring and dose adjustments
 Discontinuation of Xolair treatment generally results in a return to elevated free IgE levels and associated symptoms.

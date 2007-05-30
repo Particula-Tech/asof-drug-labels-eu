@@ -2,6 +2,7 @@
 
 General
 Xolair is not indicated for the treatment of acute asthma exacerbations, acute bronchospasm or status asthmaticus.
+
 Xolair has not been studied in patients with hyperimmunoglobulin E syndrome or allergic bronchopulmonary aspergillosis or for the prevention of anaphylactic reactions, including those provoked by food allergy.
 
 Xolair therapy has not been studied in patients with autoimmune diseases, immune complex-mediated conditions, or pre-existing renal or hepatic impairment.
@@ -13,9 +14,11 @@ Decreases in corticosteroids should be performed under the direct supervision of
 Patients with diabetes mellitus, the glucose-galactose malabsorption syndrome, fructose intolerance or sucrase-isomaltase deficiency should be warned that one 75 mg Xolair dose contains 54 mg of sucrose.
 
 Allergic reactions
-As with any protein, local or systemic allergic reactions, including anaphylaxis, may occur.
-Therefore medications for the treatment of anaphylactic reactions should be available for immediate use following administration of Xolair.
+Local or systemic allergic reactions, including anaphylaxis and anaphylactic shock, may occur when taking omalizumab, also with onset after a long duration of treatment.
+Most of these reactions occurred within 2 hours after the first and subsequent injections of Xolair but some started beyond 2 hours and even beyond 24 hours after the injection.
+Therefore medications for the treatment of anaphylactic reactions should always be available for immediate use following administration of Xolair.
 Patients should be informed that such reactions are possible and prompt medical attention should be sought if allergic reactions occur.
+
 Anaphylactic reactions were rare in clinical trials (see section 4.8).
 
 As with all recombinant DNA derived humanised monoclonal antibodies, patients may in rare cases develop antibodies to omalizumab.
@@ -32,6 +35,13 @@ During clinical trials, there was a numerical imbalance in cancers arising in th
 The frequency of observed cases was uncommon (<1/100) in both the active and the control group, i.e. 25 cancers in 5,015 patients treated with Xolair (0.5%) and 5 cancers in 2,854 patients in the control group (0.18%).
 The diversity in the type of cancers observed, the relatively short duration of exposure and the clinical features of the individual cases render a causal relationship unlikely.
 The overall observed incidence rate of malignancy in the Xolair clinical trial programme was comparable to that reported in the general population.
+Churg-Strauss syndrome and hypereosinophilic syndrome
+Patients with severe asthma may rarely present with systemic hypereosinophilic syndrome or allergic eosinophilic granulomatous vasculitis (Churg-Strauss syndrome), both of which are usually treated with systemic corticosteroids.
+
+In rare cases, patients on therapy with anti-asthma agents, including omalizumab, may present or develop systemic eosinophilia and vasculitis.
+These events are commonly associated with the reduction of oral corticosteroid therapy.
+
+In these patients, physicians should be alert to the development of marked eosinophilia, vasculitic rash, worsening pulmonary symptoms, cardiac complications, and/or neuropathy.
 
 [Xolair 150 mg powder and solvent for solution for injection]
 
