@@ -9,11 +9,16 @@ the reduction of signs and symptoms as well as the improvement in physical funct
 
 In these patient populations, a reduction in the rate of the progression of joint damage, as measured by x-ray, has been demonstrated (see section 5.1).
 
-Crohn’s disease:
+Adult Crohn’s disease:
 Remicade is indicated for:
 
 - treatment of severe, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
 - treatment of fistulising, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with conventional treatment (including antibiotics, drainage and immunosuppressive therapy).
+
+Paediatric Crohn’s disease:
+Remicade is indicated for:
+Treatment of severe, active Crohn’s disease, in paediatric patients aged 6 to 17 years, who have not responded to conventional therapy including a corticosteroid, an immunomodulator and primary nutrition therapy; or who are intolerant to or have contraindications for such therapies.
+Remicade has been studied only in combination with conventional immunosuppressive therapy.
 
 Ulcerative colitis:
 Remicade is indicated for:

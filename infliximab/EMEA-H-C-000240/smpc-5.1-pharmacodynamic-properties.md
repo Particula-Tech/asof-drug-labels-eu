@@ -47,11 +47,30 @@ The effects observed at 54 weeks were maintained through 102 weeks.
 Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group can not be defined.
 
 Table 3
-Effects on ACR20, Structural Joint Damage and Physical Function at week 54, ATTRACT
+Effects on ACR20, Structural Joint Damage and Physical Function at week 54, ATTRACT infliximabb
+3 mg/kg 3 mg/kg 10 mg/kg 10 mg/kg All Controla q 8 wks q 4 wks q 8 wks q 4 wks infliximabb
 
-| infliximabb 3 mg/kg 3 mg/kg Controla q 8 wks q 4 wks | 10 mg/kg q 8 wks | 10 mg/kg q 4 wks | All infliximabb |
-| --- | --- | --- | --- |
-| Patients with ACR20 response/ 15/88 36/86 41/86 Patients evaluated (%)c (17%) (42%) (48%) Total scored (van der Heijde-modified Sharp score) Change from baseline (Mean ± SDc ) 7.0 ± 10.3 1.3 ± 6.0 1.6 ± 8.5 Medianc 4.0 0.5 0.1 (Interquartile range) (0.5,9.7) (-1.5,3.0) (-2.5,3.0) Patients with no deterioration/patients 13/64 34/71 35/71 evaluated (%)c (20%) (48%) (49%) HAQ change from baseline over timee 87 86 85 (patients evaluated) Mean ± SDc 0.2 ± 0.3 0.4 ± 0.3 0.5 ± 0.4 | 51/87 (59%) 0.2 ± 3.6 0.5 (-1.5,2.0) 37/77 (48%) 87 0.5 ± 0.5 | 48/81 (59%) -0.7 ± 3.8 -0.5 (-3.0,1.5) 44/66 (67%) 81 0.4 ± 0.4 | 176/340 (52%) 0.6 ± 5.9 0.0 (-1.8,2.0) 150/285 (53%) 339 0.4 ± 0.4 |
+Patients with ACR20 response/ 15/88 36/86 41/86 51/87 48/81 176/340
+Patients evaluated (%)c (17%) (42%) (48%) (59%) (59%) (52%)
+
+Total scored (van der Heijde-modified
+Sharp score)
+Change from baseline (Mean ± SDc ) 7.0 ± 10.3 1.3 ± 6.0 1.6 ± 8.5 0.2 ± 3.6 -0.7 ± 3.8 0.6 ± 5.9
+
+Medianc 4.0 0.5 0.1 0.5 -0.5 0.0
+(Interquartile range) (0.5,9.7) (-1.5,3.0) (-2.5,3.0) (-1.5,2.0) (-3.0,1.5) (-1.8,2.0)
+
+Patients with no deterioration/patients 13/64 34/71 35/71 37/77 44/66 150/285
+
+evaluated (%)c (20%) (48%) (49%) (48%) (67%) (53%)
+
+HAQ change from baseline over timee
+
+87 86 85 87 81 339
+
+(patients evaluated)
+
+Mean ± SDc 0.2 ± 0.3 0.4 ± 0.3 0.5 ± 0.4 0.5 ± 0.5 0.4 ± 0.4 0.4 ± 0.4
 
 a: control = All patients had active RA despite treatment with stable methotrexate doses for 6 months prior to enrolment and were to remain on stable doses throughout the study.
 Concurrent use of stable doses of oral corticosteroids (≤ 10 mg/day) and/or non-steroidal anti-inflammatory drugs was permitted, and folate supplementation was given.
@@ -87,7 +106,7 @@ In one of the study arms (group 2, n=329), patients with an inadequate response 
 The majority (67%) of these patients did not require any dose titration.
 Of the patients who required a dose titration, 80% achieved clinical response and the majority (64%) of these required only one adjustment of 1.5 mg/kg.
 
-Crohn’s disease
+Adult Crohn’s disease
 Induction treatment in severe active Crohn’s disease
 The efficacy of a single dose treatment with infliximab was assessed in 108 patients with active Crohn’s disease (Crohn’s Disease Activity Index (CDAI) ≥ 220 ≤ 400) in a randomised, double-blinded, placebo-controlled, dose-response study.
 Of these 108 patients, 27 were treated with the recommended dosage of infliximab 5 mg/kg.
@@ -138,6 +157,22 @@ Median time to loss of response was > 40 weeks in the infliximab group compared 
 Most patients had a loss of response due to increase in medication for Crohn’s disease and not because of a < 50% reduction in number of draining fistulas.
 At week 54, the infliximab group showed greater improvement in CDAI score from baseline compared with placebo (p = 0.04).
 There was no significant difference between placebo and infliximab for the proportion of patients with sustained closure of all fistulas through week 54, for symptoms such as proctalgia, abscesses and urinary tract infection or for number of newly developed fistulas during treatment.
+
+Paediatric Crohn’s disease (6 to17 years)
+In the REACH trial, 112 patients (6 to 17 years, median age 13.0 years) with moderate to severe, active Crohn’s disease (median PCDAI of 40) and an inadequate response to conventional therapies were to receive 5 mg/kg infliximab at weeks 0, 2, and 6.
+All patients were required to be on a stable dose of 6-MP, AZA or MTX (35% were also receiving corticosteroids at baseline).
+Patients assessed by the investigator to be in clinical response at week 10 were randomized and received 5 mg/kg infliximab at either q8 weeks or q12 weeks as a maintenance treatment regimen.
+If response was lost during maintenance treatment, crossing over to a higher dose (10 mg/kg) and/or shorter dosing interval (q8 weeks) was allowed.
+Thirty-two (32) evaluable paediatric patients crossed over (9 subjects in the q8 weeks and 23 subjects in the q12 weeks maintenance groups).
+Twenty-four of these patients (75.0%) regained clinical response after crossing over.
+The proportion of subjects in clinical response at week 10 was 88.4% (99/112).
+The proportion of subjects achieving clinical remission at week 10 was 58.9% (66/112).
+At week 30, the proportion of subjects in clinical remission was higher in the q8 week (59.6%, 31/52) than the q12 week maintenance treatment group (35.3%, 18/51; p=0.013).
+At week 54, the figures were 55.8% (29/52) and 23.5% (12/51) in the q8 weeks and q12 weeks maintenance groups, respectively (p<0.001).
+Data about fistulas were derived from PCDAI scores.
+Of the 22 subjects that had fistulas at baseline, 63.6% (14/22), 59.1% (13/22) and 68.2% (15/22) were in complete fistula response at week 10, 30 and 54, respectively, in the combined q8 weeks and q12 weeks maintenance groups.
+
+In addition, statistically and clinically significant improvements in quality of life and height, as well as a significant reduction in corticosteroid use, were observed versus baseline.
 
 Ulcerative Colitis
 The safety and efficacy of Remicade were assessed in two (ACT 1 and ACT 2) randomized, double-blind, placebo-controlled clinical studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2) with an inadequate response to conventional therapies [oral corticosteroids, aminosalicylates and/or immunomodulators (6-MP, AZA)].
@@ -191,6 +226,7 @@ From baseline through week 30 in the pooled data from ACT 1 and ACT 2, the mean 
 No notable differences were observed between the 5 mg/kg and 10 mg/kg infliximab treatment groups.
 
 A greater proportion of patients in the combined infliximab treatment group were able to discontinue corticosteroids while remaining in clinical remission compared to the placebo treatment group at both week 30 (22.3% vs. 7.2%, p ≤ 0.001) and week 54 (21.0% vs. 8.9%, p=0.022).
+
 Ankylosing spondylitis
 Efficacy and safety were studied in a double-blind, placebo-controlled investigator initiated, multicentre study evaluating infliximab in 70 patients with active ankylosing spondylitis (disease activity [Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) score > 4] and pain [NRS score >4]).
 During the 3 month double-blind phase, patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6 (35 patients in each group).
@@ -216,11 +252,16 @@ At week 24, all placebo-treated patients crossed over to infliximab induction.
 Dosing continued for all patients through week 46.
 
 Key efficacy results for IMPACT and IMPACT 2 are shown in table 6 below:
+
 Table 6: Effects on ACR and PASI in IMPACT and IMPACT 2
 
 IMPACT IMPACT 2*
 
-Placebo Infliximab Infliximab Placebo Infliximab Infliximab (Week 16) (Week 16) (Week 98) (Week 24) (Week 24) (Week 54)
+Placebo Infliximab Inflixima Placebo Infliximab Infliximab (Week (Week 16) b (Week 24) (Week 24) (Week 54)
+
+16) (Week
+
+98)
 
 Patients randomized 52 52 N/Aa 100 100 100
 

@@ -8,6 +8,7 @@ Unchanged infliximab was not detected in urine.
 No major age- or weight-related differences in clearance or volume of distribution were observed in rheumatoid arthritis patients.
 The pharmacokinetics of infliximab in elderly patients has not been studied.
 Studies have not been performed in patients with liver or renal disease.
+
 At single doses of 3, 5, or 10 mg/kg, the median Cmax values were 77, 118 and 277 micrograms/ml, respectively.
 The median terminal half-life at these doses ranged from 8 to 9.5 days.
 In most patients, infliximab could be detected in the serum for at least 8 weeks after the recommended single dose of 5 mg/kg for Crohn’s disease and the rheumatoid arthritis maintenance dose of 3 mg/kg every 8 weeks.
@@ -15,3 +16,6 @@ In most patients, infliximab could be detected in the serum for at least 8 weeks
 Repeated administration of infliximab (5 mg/kg at 0, 2 and 6 weeks in fistulising Crohn´s disease, 3 or 10 mg/kg every 4 or 8 weeks in rheumatoid arthritis) resulted in a slight accumulation of infliximab in serum after the second dose.
 No further clinically relevant accumulation was observed.
 In most fistulising Crohn’s disease patients, infliximab was detected in serum for 12 weeks (range 4-28 weeks) after administration of the regimen.
+
+Overall, serum levels in paediatric patients with Crohn's disease (53 patients aged 6 to 17 years old; 8 patients aged 6 to 10 years old) were similar to those in adult Crohn's disease patients.
+The median terminal half-life for the 5 mg/kg dose in paediatric patients with Crohn's disease is 10.9 days.

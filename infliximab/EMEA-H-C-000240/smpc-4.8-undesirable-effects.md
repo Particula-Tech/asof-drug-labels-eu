@@ -5,9 +5,9 @@ The adverse reactions listed in Table 1 are based on experience from clinical tr
 Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (> 1/100, < 1/10); uncommon (> 1/1000, < 1/100); rare (>1/10,000, <1/1,000).
 Infusion-related reactions were the most common ADRs reported.
 Infusion-related reactions (dyspnoea, urticaria and headache) were the most common cause for discontinuation.
+
 Table 1
 Undesirable Effects in Clinical Studies
-
 Infections and infestations
 Common: Viral infection (e.g. influenza, herpes infections)
 Uncommon: Abscess, cellulitis, moniliasis, sepsis, bacterial infection, tuberculosis, fungal infection, hordeolum
@@ -114,7 +114,6 @@ The antibody incidence was 2-3 fold higher for patients treated episodically.
 Due to methodological limitations, a negative assay did not exclude the presence of antibodies to infliximab.
 Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy (see section 4.4: "Infusion reactions and hypersensitivity").
 In psoriasis patients treated with infliximab as a maintenance regimen in the absence of concomitant immunomodulators, approximately 28% developed antibodies to infliximab.
-
 Infections: Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal infections, and other opportunistic infections have been observed in patients receiving Remicade.
 Some of these infections have been fatal.
 Opportunistic infections reported in patients on Remicade have included, but are not limited to pneumocystosis, histoplasmosis, cytomegalovirus infection, atypical mycobacterial infections, listeriosis and aspergillosis (see section 4.4).
@@ -142,8 +141,7 @@ The median duration of follow-up was 0.8 years (incidence 5.7% [95% CI 2.65% - 1
 There was one reported malignancy amongst 77 control patients (median duration of follow-up 0.8 years; incidence 1.3% [95% CI 0.03% - 7.0%]).
 The majority of the malignancies developed in the lung or head and neck.
 
-Six cases of a rare type of hepatosplenic T-cell lymphoma have been reported in adolescent and young adult patients with Crohn’s disease treated with Remicade in the United States (see section 4.4).
-It is estimated that approximately 270,000 Crohn’ disease patients have been exposed to infliximab, and in the United States, approximately 10,000 patients with Crohn’s disease below 18 years of age.
+Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in adolescent and young adult patients with Crohn’s disease treated with Remicade (see section 4.4).
 
 Heart failure: In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
 In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
@@ -151,7 +149,6 @@ At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 m
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking Remicade.
 There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
 Some of these patients have been under 50 years of age.
-
 Hepatobiliary events: In clinical trials, mild or moderate elevations of ALT and AST have been observed in patients receiving Remicade without progression to severe hepatic injury.
 Elevations of aminotransferases were observed (ALT more common than AST) in a greater proportion of patients receiving Remicade than in controls, both when Remicade was given as monotherapy and when it was used in combination with other immunosuppressive agents.
 Most aminotransferase abnormalities were transient; however, a small number of patients experienced more prolonged elevations.
@@ -165,7 +162,11 @@ Anti-dsDNA antibodies were newly detected in approximately 17% of infliximab-tre
 At the last evaluation, 57% of infliximab-treated patients remained anti-dsDNA positive.
 Reports of lupus and lupus-like syndromes, however, remain uncommon.
 
-Juvenile Rheumatoid Arthritis patients: Remicade was studied in a trial in 120 patients (age range: 4-17 years old) with active JRA despite methotrexate.
+Additional information on special populations
+
+Paediatric population
+Juvenile Rheumatoid Arthritis patients:
+Remicade was studied in a trial in 120 patients (age range: 4-17 years old) with active JRA despite methotrexate.
 Patients received 3 or 6 mg/kg infliximab as a 3-dose induction regimen (weeks 0, 2, 6 or weeks 14, 16, 20 respectively) followed by maintenance therapy every 8 weeks, in combination with methotrexate.
 
 Infusion reactions
@@ -179,3 +180,21 @@ The antibody titers were notably higher for the 3 mg/kg compared to the 6 mg/kg 
 
 Infections
 Infections occurred in 68% (41/60) of children receiving 3 mg/kg over 52 weeks, 65% (37/57) of children receiving infliximab 6 mg/kg over 38 weeks and 47% (28/60) of children receiving placebo over 14 weeks.
+
+Paediatric Crohn’s disease patients:
+The following adverse events were reported more commonly in paediatric Crohn’s disease patients in the REACH trial (see section 5.1) than in adult Crohn’s disease patients: anaemia (10.7%), blood in stool (9.7%), leukopenia (8.7%), flushing (8.7%), viral infection (7.8%), neutropenia (6.8%), bone fracture (6.8%), bacterial infection (5.8%), and respiratory tract allergic reaction (5.8%).
+Other special considerations are discussed below.
+Infusion-related reactions
+Overall, in REACH, 17.5% of randomized patients experienced 1 or more infusion reactions.
+There were no serious infusion reactions, and 2 subjects in REACH had non-serious anaphylactic reactions.
+
+Immunogenicity
+Antibodies to infliximab were detected in 3 (2.9%) paediatric patients.
+
+Infections
+In the REACH trial, infections were reported in 56.3% of randomized subjects treated with infliximab.
+Infections were reported more frequently for subjects who received q8 week as opposed to q12 week infusions (73.6% and 38.0%, respectively), while serious infections were reported for 3 subjects in the q8 week and 4 subjects in the q12 week maintenance treatment group.
+The most commonly reported infections were upper respiratory tract infection and pharyngitis, and the most commonly reported serious infection was abscess.
+Three cases of pneumonia (1 serious) and 2 cases of herpes zoster (both non-serious) were reported.
+
+Post-marketing spontaneous serious adverse events with infliximab in the paediatric population have included malignancies including hepatosplenic T-cell lymphomas, transient hepatic enzyme abnormalities, lupus-like syndromes, and positive autoantibodies (see sections 4.4 and 4.8: ‘Malignancies and lymphoproliferative disorders’).

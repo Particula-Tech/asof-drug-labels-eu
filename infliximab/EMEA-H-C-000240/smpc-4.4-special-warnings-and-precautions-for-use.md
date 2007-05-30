@@ -26,6 +26,7 @@ Infections
 Patients must be monitored closely for infections including tuberculosis before, during and after treatment with Remicade.
 Because the elimination of infliximab may take up to six months, monitoring should be continued throughout this period.
 Further treatment with Remicade must not be given if a patient develops a serious infection or sepsis.
+
 Caution should be exercised when considering the use of Remicade in patients with chronic infection or a history of recurrent infections, including use of concomitant immunosuppressive medications.
 Patients should be advised of and avoid exposure to potential risk factors for infection as appropriate.
 
@@ -43,6 +44,8 @@ Cases of active tuberculosis including miliary tuberculosis and tuberculosis wit
 
 Opportunistic infections reported in patients on Remicade have included, but are not limited to pneumocystosis, histoplasmosis, cytomegalovirus infection, atypical mycobacterial infections, listeriosis and aspergillosis.
 
+In clinical trials, infections have been reported more frequently in paediatric patient populations than in adult patient populations (see section 4.8).
+
 Before starting treatment with Remicade, all patients must be evaluated for both active and inactive (‘latent’) tuberculosis.
 This evaluation should include a detailed medical history with personal history of tuberculosis or possible previous contact with tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests, i.e. tuberculin skin test and chest x-ray, should be performed in all patients (local recommendations may apply).
@@ -50,7 +53,6 @@ It is recommended that the conduct of these tests should be recorded in the pati
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 
 If active tuberculosis is diagnosed, Remicade therapy must not be initiated (see section 4.3).
-
 If inactive (‘latent’) tuberculosis is diagnosed, treatment for latent tuberculosis must be started with anti-tuberculosis therapy before the initiation of Remicade, and in accordance with local recommendations.
 In this situation, the benefit/ risk balance of Remicade therapy should be very carefully considered.
 
@@ -75,6 +77,7 @@ Therefore, the combination of Remicade and anakinra is not recommended.
 Vaccinations
 No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
 It is recommended that live vaccines not be given concurrently.
+It is recommended that paediatric Crohn’s disease patients, if possible, be brought up to date with all vaccinations in agreement with current vaccination guidelines prior to initiating Remicade therapy.
 
 Autoimmune processes
 The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.
@@ -101,6 +104,7 @@ Rare postmarketing cases of hepatosplenic T-cell lymphoma have been reported in 
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
 All of these hepatosplenic T-cell lymphomas with Remicade have occurred in patients on concomitant treatment with azathioprine or 6-mercaptopurine.
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with Remicade cannot be excluded (see sections 4.2 and 4.8).
+
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
 This evaluation should include colonoscopy and biopsies per local recommendations.
 With current data it is not known if infliximab treatment influences the risk for developing dysplasia or colon cancer (see section 4.8).
@@ -112,11 +116,10 @@ Remicade should be used with caution in patients with mild heart failure (NYHA c
 Patients should be closely monitored and Remicade must not be continued in patients who develop new or worsening symptoms of heart failure (see sections 4.3 and 4.8).
 
 Paediatrics
-Remicade is not recommended for use in children ≤ 17 years due to insufficient data on safety and efficacy (for juvenile RA see Section 4.8)
+Due to insufficient data on safety and efficacy, Remicade is not recommended for use in children ≤ 17 years, except in Crohn’s disease.
+Remicade has not been studied in patients with Crohn’s disease below the age of 6 years.
 
 Others
-Treatment with Remicade has not been studied in children 0-17 years with rheumatoid arthritis or Crohn’s disease.
-Until safety and efficacy data in children are available, such treatment is to be avoided.
 
 The pharmacokinetics of infliximab in elderly patients has not been studied.
 Studies have not been performed in patients with liver or renal disease (see section 5.2).
