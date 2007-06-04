@@ -6,10 +6,14 @@ After single intravenous doses ranging from 0.25 to 10 mg/kg, concentrations wer
 After doses of 0.5 mg/kg (~40 mg), clearances ranged from 11 to 15 ml/hour, the distribution volume (Vss) ranged from 5 to 6 litres and the mean terminal phase half-life was approximately two weeks.
 Adalimumab concentrations in the synovial fluid from several rheumatoid arthritis patients ranged from 31-96% of those in serum.
 
-Following subcutaneous administration of 40 mg of Humira every other week the mean steady-state trough concentrations were approximately 5 µg/ml (without concomitant methotrexate) and 8 to 9 µg/ml (with concomitant methotrexate), respectively.
+Following subcutaneous administration of 40 mg of Humira every other week in rheumatoid arthritis (RA) patients the mean steady-state trough concentrations were approximately 5 µg/ml (without concomitant methotrexate) and 8 to 9 µg/ml (with concomitant methotrexate), respectively.
 The serum adalimumab trough levels at steady-state increased roughly proportionally with dose following 20, 40 and 80 mg every other week and every week subcutaneous dosing.
 
-Population pharmacokinetic analyses with data from over 1300 patients revealed a trend toward higher apparent clearance of adalimumab with increasing body weight .
+In patients with Crohn’s disease, the loading dose of 80 mg Humira on week 0 followed by 40 mg Humira on week 2 achieves serum adalimumab trough concentrations of approximately 5.5 µg/ml during the induction period.
+A loading dose of 160 mg Humira on week 0 followed by 80 mg Humira on week 2 achieves serum adalimumab trough concentrations of approximately 12 µg/ml during the induction period.
+Mean steady-state trough levels of approximately 7 µg/ml were observed in Crohn’s disease patients who received a maintenance dose of 40 mg Humira every other week.
+
+Population pharmacokinetic analyses with data from over 1300 RA patients revealed a trend toward higher apparent clearance of adalimumab with increasing body weight.
 After adjustment for weight differences, gender and age appeared to have a minimal effect on adalimumab clearance.
 The serum levels of free adalimumab (not bound to anti-adalimumab antibodies, AAA) were observed to be lower in patients with measurable AAA.
 Humira has not been studied in children or in patients with hepatic or renal impairment.
