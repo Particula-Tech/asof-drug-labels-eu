@@ -17,10 +17,10 @@ Anorexia was reported in 1.5% of patients treated with Zometa 4 mg.
 Few cases of rash or pruritus have been observed (below 1%).
 
 As with other bisphosphonates, cases of conjunctivitis in approximately 1% have been reported.
-
 There have been some reports of impaired renal function (2.3%), although the aetiology appears to be multifactorial in many cases.
 
 Based on pooled analysis of placebo controlled studies, severe anaemia (Hb < 8.0 g/dl) was reported in 5.2% of patients receiving Zometa 4 mg versus 4.2% on placebo.
+
 The following adverse drug reactions, listed in Table 1, have been accumulated from clinical studies following predominantly chronic treatment with zoledronic acid:
 
 Table 1
@@ -108,11 +108,11 @@ hypocalcaemia
 Uncommon: Hypomagnesaemia, hypokalaemia
 Rare: Hyperkalaemia, hypernatraemia
 
-Postmarketing: Uncommonly, cases of osteonecrosis (primarily of the jaws) have been reported, predominantly in cancer patients treated with bisphosphonates.
+Post-marketing experience: Cases of osteonecrosis (primarily of the jaws) have been reported, predominantly in cancer patients treated with bisphosphonates, including Zometa.
 Many of these patients had signs of local infection including osteomyelitis, and the majority of the reports refer to cancer patients following tooth extractions or other dental surgeries.
 Osteonecrosis of the jaws has multiple well documented risk factors including a diagnosis of cancer, concomitant therapies (e.g. chemotherapy, radiotherapy, corticosteroids) and co-morbid conditions (e.g. anaemia, coagulopathies, infection, pre-existing oral disease).
 Although causality has not been determined, it is prudent to avoid dental surgery as recovery may be prolonged (see section 4.4).
-In very rare cases, hypotension led to syncope or circulatory collapse, primarily in patients with underlying risk factors.
+In very rare cases, the following events have been reported: hypotension leading to syncope or circulatory collapse, primarily in patients with underlying risk factors, somnolence, bronchoconstriction.
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 

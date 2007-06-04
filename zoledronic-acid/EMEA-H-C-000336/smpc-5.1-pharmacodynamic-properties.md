@@ -122,11 +122,12 @@ The following response rates were observed:
 
 Table 5: Proportion of complete responders by day in the combined TIH studies
 
-Day 4 Day 7 Day 10
-Zometa 4 mg (N=86) 45.3% (p=0.104) 82.6% (p=0.005)* 88.4% (p=0.002)*
-Zometa 8 mg (N=90) 55.6% (p=0.021)* 83.3% (p=0.010)* 86.7% (p=0.015)*
-Pamidronate 90 mg (N=99) 33.3% 63.6% 69.7%
-*p-values compared to pamidronate.
+|  | Day 4 | Day 7 | Day 10 |
+| --- | --- | --- | --- |
+| Zometa 4 mg (N=86) | 45.3% (p=0.104) | 82.6% (p=0.005)* | 88.4% (p=0.002)* |
+| Zometa 8 mg (N=90) | 55.6% (p=0.021)* | 83.3% (p=0.010)* | 86.7% (p=0.015)* |
+| Pamidronate 90 mg (N=99) | 33.3% | 63.6% | 69.7% |
+| *p-values compared to pamidronate. |  |  |  |
 
 Median time to normocalcaemia was 4 days.
 Median time to relapse (re-increase of albumin-corrected serum calcium ≥ 2.9 mmol/l) was 30 to 40 days for patients treated with Zometa versus 17 days for those treated with pamidronate 90 mg (p-values: 0.001 for 4 mg and 0.007 for 8 mg).
@@ -135,4 +136,21 @@ There were no statistically significant differences between the two Zometa doses
 In clinical trials 69 patients who relapsed or were refractory to initial treatment (Zometa 4 mg, 8 mg or pamidronate 90 mg) were retreated with Zometa 8 mg.
 The response rate in these patients was about 52%.
 Since those patients were retreated with the 8 mg dose only, there are no data available allowing comparison with the 4 mg dose.
+
 In clinical trials performed in patients with tumour-induced hypercalcaemia (TIH), the overall safety profile amongst all three treatment groups (zoledronic acid 4 and 8 mg and pamidronate 90 mg) was similar in types and severity.
+
+[Zometa 4 mg/5 ml concentrate for solution for infusion]
+
+|  | Any SRE (+TIH) |  |  | Fractures* |  |  | Radiation therapy to bone |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Zometa 4 mg |  | Placebo | Zometa 4 mg | Placebo |  | Zometa 4 mg | Placebo |
+| N | 257 |  | 250 | 257 | 250 |  | 257 | 250 |
+| Proportion of patients with SREs (%) | 39 |  | 48 | 16 | 22 |  | 29 | 34 |
+| p-value | 0.039 |  |  | 0.064 |  |  | 0.173 |  |
+| Median time to SRE (days) | 236 |  | 155 | NR | NR |  | 424 | 307 |
+| p-value | 0.009 |  |  | 0.020 |  |  | 0.079 |  |
+| Skeletal morbidity rate | 1.74 | 2.71 |  | 0.39 |  | 0.63 | 1.24 | 1.89 |
+| p-value | 0.012 |  |  | 0.066 |  |  | 0.099 |  |
+| Risk reduction of suffering from multiple events** (%) | 30.7 | - |  | NA |  | NA | NA | NA |
+
+p-value 0.003 NA NA
