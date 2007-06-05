@@ -12,11 +12,11 @@ Each ml of syrup contains 0.5 mg desloratadine.
 
 Each dose of Azomyr oral lyophilisate contains 5 mg desloratadine.
 
-[Azomyr 2.5 mg orodispersible tablet]
+[Azomyr 2.5 mg orodispersible tablets]
 
 Each dose of Azomyr orodispersible tablet contains 2.5 mg desloratadine.
 
-[Azomyr 5 mg orodispersible tablet]
+[Azomyr 5 mg orodispersible tablets]
 
 Each dose of Azomyr orodispersible tablet contains 5 mg desloratadine.
 

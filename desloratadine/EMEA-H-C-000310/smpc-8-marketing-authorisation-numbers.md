@@ -10,14 +10,14 @@ EU/1/00/157/014-021
 
 EU/1/00/157/022-034
 
-[Azomyr 2.5 mg orodispersible tablet]
+[Azomyr 2.5 mg orodispersible tablets]
 
-EU/1/00/157/XXX-XXX
+EU/1/00/157/035-046
 
-[Azomyr 5 mg orodispersible tablet]
+[Azomyr 5 mg orodispersible tablets]
 
-(all sentences already above)
+EU/1/00/157/047-058
 
 [Azomyr 0.5 mg/ml oral solution]
 
-EU/1/00/157/XXX
+EU/1/00/157/059-067

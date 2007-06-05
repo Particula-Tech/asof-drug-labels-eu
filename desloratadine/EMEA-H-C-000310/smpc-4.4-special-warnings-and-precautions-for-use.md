@@ -9,7 +9,6 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 [Azomyr 0.5 mg/ml syrup]
 
 Efficacy and safety of Azomyr syrup in children under 1 year of age have not been established.
-
 In children below 2 years of age, the diagnosis of allergic rhinitis is particularly difficult to distinguish from other forms of rhinitis.
 The absence of upper respiratory tract infection or structural abnormalities, as well as patient history, physical examinations, and appropriate laboratory and skin tests should be considered.
 
@@ -24,18 +23,17 @@ This medicinal product contains the colouring agent E110 which may cause allergi
 [Azomyr 5 mg oral lyophilisate]
 
 In the case of severe renal insufficiency, Azomyr should be used with caution.
-
 This product contains aspartame 1.75 mg per dose.
 Aspartame is a source of phenylalanine, which may be harmful for people with phenylketonuria.
 
-[Azomyr 2.5 mg orodispersible tablet]
+[Azomyr 2.5 mg orodispersible tablets]
 
 Efficacy and safety of Azomyr 2.5 mg orodispersible tablets in children under 6 years of age have not been established.
 
 This product contains 1.4 mg of phenylalanine per 2.5 mg dose of Azomyr orodispersible tablet.
 Phenylalanine may be harmful for people with phenylketonuria.
 
-[Azomyr 5 mg orodispersible tablet]
+[Azomyr 5 mg orodispersible tablets]
 
 Efficacy and safety of Azomyr orodispersible tablets in children under 12 years of age have not been established.
 

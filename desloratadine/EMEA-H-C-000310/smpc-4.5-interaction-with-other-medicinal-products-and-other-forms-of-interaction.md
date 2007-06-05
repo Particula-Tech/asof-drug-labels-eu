@@ -14,11 +14,11 @@ In a clinical pharmacology trial, Azomyr tablets taken concomitantly with alcoho
 
 (all sentences already above)
 
-[Azomyr 2.5 mg orodispersible tablet]
+[Azomyr 2.5 mg orodispersible tablets]
 
 (all sentences already above)
 
-[Azomyr 5 mg orodispersible tablet]
+[Azomyr 5 mg orodispersible tablets]
 
 (all sentences already above)
 

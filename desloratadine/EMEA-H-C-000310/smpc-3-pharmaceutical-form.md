@@ -10,13 +10,13 @@ Syrup
 
 Oral lyophilisate
 
-[Azomyr 2.5 mg orodispersible tablet]
+[Azomyr 2.5 mg orodispersible tablets]
 
 Orodispersible Tablet
 
 Light-red, flat-faced, round, speckled tablets, one side branded with “K”
 
-[Azomyr 5 mg orodispersible tablet]
+[Azomyr 5 mg orodispersible tablets]
 
 Light-red, flat-faced, round, speckled tablets, one side branded with “A”
 

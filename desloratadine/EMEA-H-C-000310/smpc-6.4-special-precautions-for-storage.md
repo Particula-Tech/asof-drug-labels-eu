@@ -11,11 +11,11 @@ Store in the original package.
 
 (all sentences already above)
 
-[Azomyr 2.5 mg orodispersible tablet]
+[Azomyr 2.5 mg orodispersible tablets]
 
 (all sentences already above)
 
-[Azomyr 5 mg orodispersible tablet]
+[Azomyr 5 mg orodispersible tablets]
 
 (all sentences already above)
 

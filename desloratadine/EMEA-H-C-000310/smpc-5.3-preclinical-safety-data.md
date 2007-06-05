@@ -4,7 +4,7 @@ Desloratadine is the primary active metabolite of loratadine.
 Non-clinical studies conducted with desloratadine and loratadine demonstrated that there are no qualitative or quantitative differences in the toxicity profile of desloratadine and loratadine at comparable levels of exposure to desloratadine.
 
 Non-clinical data with desloratadine reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, and toxicity to reproduction.
-The lack of carcinogenic potential was demonstrated in studies conducted with loratadine.
+The lack of carcinogenic potential was demonstrated in studies conducted with desloratadine and loratadine.
 
 [Azomyr 0.5 mg/ml syrup]
 
@@ -14,16 +14,13 @@ The lack of carcinogenic potential was demonstrated in studies conducted with lo
 
 No significant local irritant effect was observed when the rapidly-dissolving form was tested in a hamster cheek pouch mucous membrane irritation assay.
 
-[Azomyr 2.5 mg orodispersible tablet]
+[Azomyr 2.5 mg orodispersible tablets]
 
-Preclinical studies conducted with desloratadine and loratadine demonstrated that there are no qualitative or quantitative differences in the toxicity profile of desloratadine and loratadine at comparable levels of exposure to desloratadine.
+The collective analysis of preclinical and clinical irritation studies for the orodispersible tablet indicate that this formulation in unlikely to pose risk for local irritation with clinical use.
+
+[Azomyr 5 mg orodispersible tablets]
 
 The collective analysis of preclinical and clinical irritation studies for the orodispersible tablet indicate that this formulation is unlikely to pose risk for local irritation with clinical use.
-The lack of carcinogenic potential was demonstrated in studies conducted with desloratadine and loratadine.
-
-[Azomyr 5 mg orodispersible tablet]
-
-(all sentences already above)
 
 [Azomyr 0.5 mg/ml oral solution]
 

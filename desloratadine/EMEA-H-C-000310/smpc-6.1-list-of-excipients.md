@@ -12,11 +12,11 @@ Propylene glycol, sorbitol, citric acid anhydrous, sodium citrate, sodium benzoa
 gelatin mannitol aspartame (E951) polacrilin potassium
 Dye Opatint Red (containing red iron oxide (E172) and hypromellose (E464)) flavour Tutti-Frutti citric acid anhydrous
 
-[Azomyr 2.5 mg orodispersible tablet]
+[Azomyr 2.5 mg orodispersible tablets]
 
 microcrystalline cellulose pregelatinized starch sodium starch glycolate magnesium stearate butylated methacrylate copolymer crospovidone sodium hydrogen carbonate citric acid colloidal silicon dioxide ferric oxide mannitol aspartame (E951) flavour Tutti-Frutti
 
-[Azomyr 5 mg orodispersible tablet]
+[Azomyr 5 mg orodispersible tablets]
 
 (all sentences already above)
 
