@@ -66,8 +66,7 @@ All occurred with a frequency of Uncommon (>1/1,000 and <1/100).
 | Cardiac Disorders | Cardiac failure Ventricular tachycardia Ventricular extrasystoles |
 | Vascular Disorders | Hypotension |
 | Respiratory, Thoracic and Mediastinal Disorders | Pneumonitis |
-| Gastrointestinal Disorders | Vomiting |
-|  | Abdominal pain |
+| Gastrointestinal Disorders | Vomiting Abdominal pain |
 | Skin and Subcutaneous Disorders | Face oedema Rash |
 | Renal and Urinary Disorders | Renal failure |
 | General Disorders and Administration Site Conditions | Oedema Chills |

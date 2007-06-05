@@ -22,6 +22,7 @@ Patients in the single centre study had relapsed following 1-6 prior therapy reg
 Patients in the multicentre study had relapsed following 1-4 prior therapy regimens and 5 patients had relapsed following stem cell transplantation.
 The median age in the single centre study was 33 years (age range 9 to 75).
 The median age in the multicentre study was 40 years (age range 5 to 73).
+
 The results are summarised in the table below.
 
 Single Centre Trial Multicentre Trial
@@ -38,7 +39,6 @@ Time to CR (Median) 54 days 59 days
 The single institution study included 2 paediatric patients (< 18 years old), both of whom achieved CR.
 The multicentre trial included 5 paediatric patients (< 18 years old), 3 of whom achieved CR.
 No children of less than 5 years of age were treated.
-
 In a follow-up treatment after consolidation, 7 patients in the single institution study and 18 patients in the multicentre study received further maintenance therapy with TRISENOX.
 Three patients from the single institution study and 15 patients from the multicentre study had stem cell transplants after completing TRISENOX.
 The Kaplan-Meier median CR duration for the single institution study is 14 months and has not been reached for the multicentre study.
