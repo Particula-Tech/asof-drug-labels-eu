@@ -42,7 +42,7 @@ When the CYP3A4 inducer is withdrawn from the combination therapy, the aripipraz
 
 (all sentences already above)
 
-[ABILIFY 5 mg orodispersible tablets]
+[ABILIFY 10 mg orodispersible tablets]
 
 The recommended starting dose for aripiprazole is 10 or 15 mg/day with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
 
@@ -57,10 +57,6 @@ Alternatively, disperse the tablet in water and drink the resulting suspension.
 The orodispersible tablets may be used as an alternative to ABILIFY tablets for patients who have difficulty to swallow ABILIFY tablets (see also section 5.2).
 
 Smoking status: according to the metabolic pathway of aripiprazole no dosage adjustment is required for smokers (see section 4.5).
-
-[ABILIFY 10 mg orodispersible tablets]
-
-(all sentences already above)
 
 [ABILIFY 15 mg orodispersible tablets]
 

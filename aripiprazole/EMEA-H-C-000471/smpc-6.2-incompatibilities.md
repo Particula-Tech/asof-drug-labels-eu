@@ -14,10 +14,6 @@ Not applicable.
 
 (all sentences already above)
 
-[ABILIFY 5 mg orodispersible tablets]
-
-(all sentences already above)
-
 [ABILIFY 10 mg orodispersible tablets]
 
 (all sentences already above)

@@ -20,7 +20,7 @@ Yellow iron oxide (E172)
 
 (all sentences already above)
 
-[ABILIFY 5 mg orodispersible tablets]
+[ABILIFY 10 mg orodispersible tablets]
 
 Calcium silicate
 Croscarmellose sodium
@@ -31,10 +31,6 @@ Aspartame (E951)
 Acesulfame potassium
 Vanilla flavour (including vanillin and ethyl vanillin)
 Tartaric acid
-
-[ABILIFY 10 mg orodispersible tablets]
-
-(all sentences already above)
 
 [ABILIFY 15 mg orodispersible tablets]
 

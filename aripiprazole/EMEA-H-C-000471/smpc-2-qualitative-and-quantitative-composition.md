@@ -24,12 +24,6 @@ Each tablet contains 30 mg of aripiprazole.
 
 Excipient: 186.54 mg lactose per tablet
 
-[ABILIFY 5 mg orodispersible tablets]
-
-Each orodispersible tablet contains 5 mg of aripiprazole.
-
-Excipient: 4 mg aspartame (E951) per orodispersible tablet
-
 [ABILIFY 10 mg orodispersible tablets]
 
 Each orodispersible tablet contains 10 mg of aripiprazole.

@@ -52,6 +52,8 @@ Aripiprazole and other antipsychotic drugs should be used cautiously in patients
 
 Lactose: patients with rare hereditary problems of galactose intolerance, the lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
+Hypersensitivity: as with other medications hypersensitivity reactions, characterised by allergic symptoms, may occur with aripiprazole (see section 4.8).
+
 [ABILIFY 10 mg tablets]
 
 (all sentences already above)
@@ -64,17 +66,13 @@ Lactose: patients with rare hereditary problems of galactose intolerance, the la
 
 (all sentences already above)
 
-[ABILIFY 5 mg orodispersible tablets]
+[ABILIFY 10 mg orodispersible tablets]
 
 The occurrence of suicidal behaviour is inherent in psychotic illnesses and in some cases has been
 reported early after initiation or switch of antipsychotic therapy, including treatment with aripiprazole
 (see section 4.8). Close supervision of high-risk patients should accompany antipsychotic therapy.
 
 Phenylketonurics: ABILIFY orodispersible tablets contain aspartame, a source of phenylalanine which may be harmful for people with phenylketonuria.
-
-[ABILIFY 10 mg orodispersible tablets]
-
-(all sentences already above)
 
 [ABILIFY 15 mg orodispersible tablets]
 

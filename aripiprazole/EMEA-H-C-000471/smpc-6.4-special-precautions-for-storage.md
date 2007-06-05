@@ -14,10 +14,6 @@ Store in the original package in order to protect from moisture.
 
 (all sentences already above)
 
-[ABILIFY 5 mg orodispersible tablets]
-
-(all sentences already above)
-
 [ABILIFY 10 mg orodispersible tablets]
 
 (all sentences already above)

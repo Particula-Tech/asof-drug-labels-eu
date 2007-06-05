@@ -52,14 +52,10 @@ A single-dose study in subjects with varying degrees of liver cirrhosis (Child-P
 
 (all sentences already above)
 
-[ABILIFY 5 mg orodispersible tablets]
+[ABILIFY 10 mg orodispersible tablets]
 
 Aripiprazole orodispersible tablet is bioequivalent to aripiprazole tablets, with a similar rate and extent of absorption.
 Aripiprazole orodispersible tablets may be used as an alternative to aripiprazole tablets.
-
-[ABILIFY 10 mg orodispersible tablets]
-
-(all sentences already above)
 
 [ABILIFY 15 mg orodispersible tablets]
 

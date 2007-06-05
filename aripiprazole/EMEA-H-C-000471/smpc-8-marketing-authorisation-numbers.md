@@ -14,10 +14,6 @@ EU/1/04/276/011-015
 
 EU/1/04/276/016-020
 
-[ABILIFY 5 mg orodispersible tablets]
-
-EU/1/04/276/021-023
-
 [ABILIFY 10 mg orodispersible tablets]
 
 EU/1/04/276/024-026

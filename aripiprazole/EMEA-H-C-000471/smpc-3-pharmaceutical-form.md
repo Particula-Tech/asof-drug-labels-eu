@@ -15,13 +15,9 @@ Round and yellow, engraved with "A-009" and "15" on one side.
 
 Round and pink, engraved with "A-011" and "30" on one side.
 
-[ABILIFY 5 mg orodispersible tablets]
-
-Orodispersible tablet
-Round and blue, marked with "A" over "639" on one side and "5" on the other.
-
 [ABILIFY 10 mg orodispersible tablets]
 
+Orodispersible tablet
 Round and pink, marked with "A" over "640" on one side and "10" on the other.
 
 [ABILIFY 15 mg orodispersible tablets]

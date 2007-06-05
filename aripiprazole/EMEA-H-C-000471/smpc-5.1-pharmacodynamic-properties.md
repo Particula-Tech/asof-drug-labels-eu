@@ -35,10 +35,6 @@ In a 26-week, olanzapine-controlled, double-blind, multi-national study of schiz
 
 (all sentences already above)
 
-[ABILIFY 5 mg orodispersible tablets]
-
-(all sentences already above)
-
 [ABILIFY 10 mg orodispersible tablets]
 
 (all sentences already above)
@@ -60,6 +56,7 @@ In a 26-week, olanzapine-controlled, double-blind, multi-national study of schiz
 Agitation in schizophrenia with aripiprazole solution for injection: in two short- term (24-hour) placebo-controlled trials involving 554 schizophrenic patients presenting with agitation and disturbed behaviours, aripiprazole solution for injection was associated with statistically significant greater improvements in agitation/behavioural symptoms compared to placebo and was similar to haloperidol.
 
 Schizophrenia with oral aripiprazole: in three short-term (4 to 6 weeks) placebo-controlled trials involving 1,228 schizophrenic patients, presenting with positive or negative symptoms, oral aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
+
 In a haloperidol-controlled trial, the proportion of responder patients maintaining response to medicinal product at 52-weeks was similar in both groups (oral aripiprazole 77% and haloperidol 73%).
 The overall completion rate was significantly higher for patients on oral aripiprazole (43%) than for oral haloperidol (30%).
 In a 26-week, placebo-controlled trial in stabilised patients with chronic schizophrenia, oral aripiprazole had significantly greater reduction in relapse rate, 34% in oral aripiprazole group and 57% in placebo.

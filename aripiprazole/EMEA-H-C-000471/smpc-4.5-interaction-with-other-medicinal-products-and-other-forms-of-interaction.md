@@ -9,9 +9,9 @@ If aripiprazole is administered concomitantly with medicines known to cause QT p
 Potential for other medicinal products to affect ABILIFY:
 
 A gastric acid blocker, the H2 antagonist famotidine, reduces aripiprazole rate of absorption but this effect is deemed not clinically relevant.
-
 Aripiprazole is metabolised by multiple pathways involving the CYP2D6 and CYP3A4 enzymes but not CYP1A enzymes.
 Thus, no dosage adjustment is required for smokers.
+
 In a clinical trial in healthy subjects, a potent inhibitor of CYP2D6 (quinidine) increased aripiprazole AUC by 107%, while Cmax was unchanged.
 The AUC and Cmax of dehydro-aripiprazole, the active metabolite, decreased by 32% and 47%.
 ABILIFY dose should be reduced to approximately one-half of its prescribed dose when concomitant administration of ABILIFY with quinidine occurs.
@@ -54,10 +54,6 @@ When aripiprazole was administered concomitantly with either valproate or lithiu
 (all sentences already above)
 
 [ABILIFY 30 mg tablets]
-
-(all sentences already above)
-
-[ABILIFY 5 mg orodispersible tablets]
 
 (all sentences already above)
 

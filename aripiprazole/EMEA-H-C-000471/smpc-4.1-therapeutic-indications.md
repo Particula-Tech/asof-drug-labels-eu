@@ -14,13 +14,9 @@ ABILIFY is indicated for the treatment of schizophrenia.
 
 (all sentences already above)
 
-[ABILIFY 5 mg orodispersible tablets]
-
-Aripiprazole is indicated for the treatment of schizophrenia.
-
 [ABILIFY 10 mg orodispersible tablets]
 
-(all sentences already above)
+Aripiprazole is indicated for the treatment of schizophrenia.
 
 [ABILIFY 15 mg orodispersible tablets]
 

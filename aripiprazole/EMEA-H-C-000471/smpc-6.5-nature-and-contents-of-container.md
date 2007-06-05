@@ -16,15 +16,11 @@ Not all pack sizes may be marketed.
 
 (all sentences already above)
 
-[ABILIFY 5 mg orodispersible tablets]
+[ABILIFY 10 mg orodispersible tablets]
 
 Carton of 14 x 1 tablets in cold-formed aluminium perforated unit dose blisters.
 Carton of 28 x 1 tablets in cold-formed aluminium perforated unit dose blisters.
 Carton of 49 x 1 tablets in cold-formed aluminium perforated unit dose blisters.
-
-[ABILIFY 10 mg orodispersible tablets]
-
-(all sentences already above)
 
 [ABILIFY 15 mg orodispersible tablets]
 
