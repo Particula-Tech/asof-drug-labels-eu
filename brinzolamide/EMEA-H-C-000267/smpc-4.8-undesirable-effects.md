@@ -10,6 +10,7 @@ Uncommon (≥ 0.1% to < 1%): bronchitis and pharyngitis.
 
 Psychiatric disorders
 Uncommon (≥ 0.1% to < 1%): depression.
+
 Nervous System Disorders
 Common (≥ 1% to < 10%): dysgeusia and headache.
 
@@ -31,10 +32,11 @@ Uncommon (≥ 0.1% to < 1%): alopecia, dermatitis contact and rash.
 
 General Disorders and Administration Site Conditions
 Uncommon (≥ 0.1% to < 1%): chest pain.
-
 Dysgeusia (bitter or unusual taste in the mouth following instillation) was the most frequently reported systemic undesirable effect associated with the use of AZOPT during clinical studies.
 It is likely caused by passage of the eye drops in the nasopharynx via the nasolacrimal canal.
 Nasolacrimal occlusion or gently closing the eyelid after instillation may help reducing the incidence of this effect (see also 4.2 Posology and method of administration).
+
+In a small short-term clinical trial, approximately 12.5% of paediatric patients were observed to experience drug related adverse effects, the majority of which were local, nonserious ocular effects such as ocular hyperaemia, ocular discomfort, ocular discharge, and tearing (see also 5.1).
 
 AZOPT is a sulphonamide inhibitor of carbonic anhydrase with systemic absorption.
 Gastrointestinal, nervous system, haematological, renal and metabolic effects are generally associated with systemic carbonic anhydrase inhibitors.
