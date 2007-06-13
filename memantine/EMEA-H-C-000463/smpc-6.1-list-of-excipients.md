@@ -18,5 +18,5 @@ Simethicone emulsion
 [Ebixa 10 mg/g oral drops, solution.]
 
 Potassium sorbate
-Sorbitol
+Sorbitol E420
 Purified water

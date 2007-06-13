@@ -13,13 +13,12 @@ The tablets can be taken with or without food.
 
 Elderly: On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (10 mg twice a day) as described above.
 
-Children and adolescents under the age of 18 years: The safety and efficacy of memantine in children and adolescents have not been established.
-
-Renal impairment: In patients with normal to mildly impaired renal function (serum creatinine levels of up to 130 µmol/L) no dose reduction is needed.
-In patients with moderate renal impairment (creatinine clearance 40 - 60 mL/min/1.73 m²) daily dose should be reduced to 10 mg per day.
+Children and adolescents under the age of 18 years: Ebixa is not recommended for use in children below 18 years due to lack of data on safety and efficacy.
+Renal impairment: In patients with normal to mildly impaired renal function (serum creatinine levels of up to 130 µmol/l) no dose reduction is needed.
+In patients with moderate renal impairment (creatinine clearance 40 - 60 ml/min/1.73 m²) daily dose should be reduced to 10 mg per day.
 No data are available for patients with severely reduced kidney function (see sections 4.4 and 5.2).
 
-Hepatic impairment: There are no data on the use of memantine in patients with hepatic impairment (see section 5.2).
+Hepatic impairment: There are no data on the use of Ebixa in patients with hepatic impairment (see section 5.2).
 
 [Ebixa 10 mg/g oral drops, solution.]
 
@@ -31,4 +30,4 @@ The drops can be taken with or without food.
 
 Elderly: On the basis of the clinical studies the recommended dose for patients over the age of 65 years is 20 mg per day (10 mg twice a day) as described above.
 
-Renal impairment: In patients with normal to mildly impaired renal function (serum creatinine levels of up to 130 µmol/ L) no dose reduction is needed.
+Renal impairment: In patients with normal to mildly impaired renal function (serum creatinine levels of up to 130 µmol/ l) no dose reduction is needed.

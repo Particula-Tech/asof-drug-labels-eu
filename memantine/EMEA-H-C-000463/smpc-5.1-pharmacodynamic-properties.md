@@ -7,8 +7,7 @@ There is increasing evidence that malfunctioning of glutamatergic neurotransmiss
 Memantine is a voltage-dependent, moderate-affinity uncompetitive NMDA-receptor antagonist.
 It modulates the effects of pathologically elevated tonic levels of glutamate that may lead to neuronal dysfunction.
 
-Clinical studies
-A pivotal monotherapy study in a population of patients suffering from moderate to severe Alzheimer’s disease (MMSE total scores at baseline of 3 - 14) included a total of 252 outpatients.
+Clinical studies: A pivotal monotherapy study in a population of patients suffering from moderate to severe Alzheimer’s disease (MMSE total scores at baseline of 3 - 14) included a total of 252 outpatients.
 The study showed beneficial effects of memantine treatment in comparison to placebo at 6 months (observed cases analysis for CIBIC-plus: p=0.025; ADCS-ADLsev: p=0.003; SIB: p=0.002).
 
 A pivotal monotherapy study of memantine in the treatment of mild to moderate Alzheimer’s disease (MMSE total scores at baseline of 10 to 22) included 403 patients.

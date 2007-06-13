@@ -1,6 +1,6 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
-As no data are available for patients with severe renal impairment (creatinine clearance less than 9 mL/min/1.73 m²) therapy is not recommended (see section 4.2).
+As no data are available for patients with severe renal impairment (creatinine clearance less than 9 ml/min/1.73 m²) therapy is not recommended (see section 4.2).
 
 Caution is recommended in patients with epilepsy, former history of convulsions or patients with predisposing factors for epilepsy.
 
@@ -13,3 +13,11 @@ Also, urine pH may be elevated by states of renal tubulary acidosis (RTA) or sev
 
 In most clinical trials, patients with recent myocardial infarction, uncompensated congestive heart failure (NYHA III-IV), or uncontrolled hypertension were excluded.
 As a consequence, only limited data are available and patients with these conditions should be closely supervised.
+
+Excipients: The tablets contain lactose monohydrate.
+Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
+[Ebixa 10 mg/g oral drops, solution.]
+
+Excipients: The oral drops contain sorbitol.
+Patients with rare hereditary problems of fructose intolerance should not take this medicine.

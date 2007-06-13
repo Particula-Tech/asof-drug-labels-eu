@@ -16,4 +16,4 @@ The clinical relevance of these findings is unknown.
 No genotoxicity has been observed following testing of memantine in standard assays.
 There was no evidence of any carcinogenicity in life long studies in mice and rats.
 Memantine was not teratogenic in rats and rabbits, even at maternally toxic doses, and no adverse effects of memantine were noted on fertility.
-In rats, foetal growth reduction was noted at exposure levels which are identical or slightly higher than at human exposure.
+In rats, foetal growth reduction was noted at exposure levels, which are identical or slightly higher than at human exposure.
