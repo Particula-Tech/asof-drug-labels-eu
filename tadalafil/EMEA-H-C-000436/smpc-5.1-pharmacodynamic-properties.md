@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs used in erectile dysfunction (ATC Code G04B E).
+Pharmacotherapeutic group: Drugs used in erectile dysfunction, ATC Code: G04BE.
 
 Tadalafil is a selective, reversible inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5).
 When sexual stimulation causes the local release of nitric oxide, inhibition of PDE5 by tadalafil produces increased levels of cGMP in the corpus cavernosum.
@@ -17,7 +17,7 @@ Additionally, tadalafil is approximately 700-fold more potent for PDE5 than for 
 Tadalafil is also
 > 10,000-fold more potent for PDE5 than for PDE7 through PDE10.
 
-Three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness to CIALIS.
+Three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness to CIALIS on demand.
 CIALIS demonstrated statistically significant improvement in erectile function and the ability to have successful sexual intercourse up to 36 hours following dosing, as well as patients’ ability to attain and maintain erections for successful intercourse compared to placebo as early as 16 minutes following dosing.
 
 CIALIS administered to healthy subjects produced no significant difference compared to placebo in supine systolic and diastolic blood pressure (mean maximal decrease of 1.6/0.8 mm Hg, respectively), in standing systolic and diastolic blood pressure (mean maximal decrease of 0.2/4.6 mm Hg, respectively), and no significant change in heart rate.
@@ -31,8 +31,30 @@ Three studies were conducted in men to assess the potential effect on spermatoge
 In two of these studies decreases were observed in sperm count and concentration related to tadalafil treatment of unlikely clinical relevance.
 These effects were not associated with changes in other parameters such as motility, morphology and FSH.
 
+Tadalafil at doses of 2.5, 5, and 10 mg taken once a day has been evaluated in 3 clinical studies involving 853 patients of various ages (range 21-82 years) and ethnicities, with erectile dysfunction of various severities (mild, moderate, severe) and etiologies.
+Most patients in all three studies were responders to previous on-demand treatment with PDE5 inhibitors.
+In the two primary efficacy studies of general populations, the mean per-subject proportion of successful attempts were 57 and 67% on CIALIS 5mg on CIALIS 2.5mg as compared to 31 and 37% with placebo.
+In the study in patients with erectile dysfunction secondary to diabetes, the mean per-subject proportion of successful attempts were 41 and 46% on CIALIS 5mg and 2.5mg, respectively, as compared to 28% with placebo.
+
+[CIALIS 5 mg film-coated tablets]
+
+Pharmacotherapeutic group: Drugs used in erectile dysfunction, -ATC Code: G04B-E.
+
+In the two primary efficacy studies of general populations, the mean per-subject proportion of successful attemps were 57 and 67% on CIALIS 5mg on CIALIS 2.5mg as compared to 31 and 37% with placebo.
+In the study in patients with erectile dysfunction secondary to diabetes, the mean per-subject proportion of successful attemps were 41 and 46% on CIALIS 5mg and 2.5mg, respectively, as compared to 28% with placebo.
+
+[CIALIS 10 mg film-coated tablets]
+
+Pharmacotherapeutic group: Drugs used in erectile dysfunction (ATC Code G04B E).
+
+Three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness to CIALIS.
+
 Tadalafil at doses of 2 to 100 mg has been evaluated in 16 clinical studies involving 3250 patients, including patients with erectile dysfunction of various severities (mild, moderate, severe), etiologies, ages (range 21-86 years), and ethnicities.
 Most patients reported erectile dysfunction of at least 1 year in duration.
 In the primary efficacy studies of general populations, 81% of patients reported that CIALIS improved their erections as compared to 35% with placebo.
 Also, patients with erectile dysfunction in all severity categories reported improved erections whilst taking CIALIS (86%, 83%, and 72% for mild, moderate, and severe, respectively, as compared to 45%, 42%, and 19% with placebo).
 In the primary efficacy studies, 75% of intercourse attempts were successful in CIALIS treated patients as compared to 32% with placebo.
+
+[CIALIS 20 mg film-coated tablets]
+
+(all sentences already above)
