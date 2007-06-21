@@ -7,5 +7,5 @@ Not all pack sizes may be marketed.
 
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
-HYCAMTIN 4 mg is supplied in 5 ml type I flint glass vials, together with 20 mm grey butyl rubber stoppers and 20 mm aluminium seals with plastic flip-off caps.
+HYCAMTIN 4 mg is supplied in 17 ml type I flint glass vials, together with 20 mm grey butyl rubber stoppers and 20 mm aluminium seals with plastic flip-off caps.
 HYCAMTIN 4 mg is available in cartons containing 1 vial and 5 vials.
