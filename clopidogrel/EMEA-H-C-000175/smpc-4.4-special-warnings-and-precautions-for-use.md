@@ -1,7 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 Due to the risk of bleeding and haematological undesirable effects, blood cell count determination and/or other appropriate testing should be promptly considered whenever clinical symptoms suggestive of bleeding arise during the course of treatment (see section 4.8).
-As with other antiplatelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions and in patients receiving treatment with ASA, non-steroidal anti-inflammatory drugs including Cox-2 inhibitors, heparin, glycoprotein IIb/IIIa inhibitors or thrombolytics.
+As with other antiplatelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions and in patients receiving treatment with ASA, non-steroidal anti-inflammatory drugs including Cox-2 inhibitors, heparin or glycoprotein IIb/IIIa inhibitors.
 Patients should be followed carefully for any signs of bleeding including occult bleeding, especially during the first weeks of treatment and/or after invasive cardiac procedures or surgery.
 The concomitant administration of clopidogrel with warfarin is not recommended since it may increase the intensity of bleedings (see section 4.5).
 

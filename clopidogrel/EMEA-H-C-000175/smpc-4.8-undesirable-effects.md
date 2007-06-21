@@ -3,7 +3,7 @@
 Clinical studies experience:
 
 Clopidogrel has been evaluated for safety in more than 42,000 patients, including over 9,000 patients treated for 1 year or more.
-The clinically relevant adverse effects observed in the CAPRIE, CURE , CLARITY and COMMIT studies are discussed below.
+The clinically relevant adverse effects observed in the CAPRIE, CURE, CLARITY and COMMIT studies are discussed below.
 Clopidogrel 75 mg/day was well tolerated compared to ASA 325 mg/day in CAPRIE.
 The overall tolerability of clopidogrel in this study was similar to ASA, regardless of age, gender and race.
 

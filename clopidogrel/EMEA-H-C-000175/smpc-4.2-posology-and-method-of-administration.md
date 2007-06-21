@@ -13,7 +13,6 @@ Clinical trial data support use up to 12 months, and the maximum benefit was see
 - ST segment elevation acute myocardial infarction: clopidogrel should be given as a single daily dose of 75 mg initiated with a loading dose in combination with ASA and with or without thrombolytics.
   For patients greater than 75 years of age clopidogrel should be initiated without a loading dose.
   Combined therapy should be started as early as possible after symptoms start and continued for at least four weeks The benefit of the combination of clopidogrel with ASA beyond four weeks has not been studied in this setting (see section 5.1).
-
-Children and adolescents
+- Children and adolescents
 
 There is no experience in children.

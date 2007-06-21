@@ -6,7 +6,6 @@ Macrogol 6000
 Microcrystalline cellulose
 Hydrogenated castor oil
 Low substituted hydroxypropylcellulose
-
 Coating:
 Hypromellose (E464)
 Lactose
