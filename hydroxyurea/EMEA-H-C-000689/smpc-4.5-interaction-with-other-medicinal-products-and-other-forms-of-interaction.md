@@ -1,0 +1,14 @@
+# 4.5 Interaction with other medicinal products and other forms of interaction
+
+Specific interaction studies have not been performed with hydroxycarbamide.
+
+Potentially fatal pancreatitis and hepatotoxicity, and severe peripheral neuropathy have been reported in HIV-infected patients who received hydroxycarbamide in combination with antiretroviral agents particularly didanosine plus stavudine.
+Patients treated with hydroxycarbamide in combination with didanosine, stavudine, and indinavir showed a median decline in CD4 cells of approximately 100/mm3.
+
+Concurrent use of hydroxycarbamide and other myelosuppressive medicinal products or radiation therapy may increase bone marrow depression, gastro-intestinal disturbances or mucositis.
+An erythema caused by radiation therapy may be aggravated by hydroxycarbamide.
+
+Concomitant use of hydroxycarbamide with a live virus vaccine may potentiate the replication of the vaccine virus and/or may increase the adverse reaction of the vaccine virus, because normal defence mechanisms may be suppressed by hydroxycarbamide therapy.
+Vaccination with a live vaccine in a patient taking hydroxycarbamide may result in severe infections.
+Generally, the patient's antibody response to vaccines may be decreased.
+Treatment with Siklos and concomitant immunisation with live virus vaccines should only be performed if benefits clearly outweigh potential risks.

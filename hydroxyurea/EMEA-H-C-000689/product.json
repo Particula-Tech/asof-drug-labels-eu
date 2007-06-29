@@ -1,0 +1,16 @@
+{
+  "active_substance": "hydroxycarbamide",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000689",
+  "eu_number": "EU/1/07/397",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2007-06-29",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/siklos",
+  "molecule": "hydroxyurea",
+  "molecule_name": "HYDROXYUREA",
+  "name": "Siklos",
+  "register_name": "Siklos",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h397.htm"
+}
