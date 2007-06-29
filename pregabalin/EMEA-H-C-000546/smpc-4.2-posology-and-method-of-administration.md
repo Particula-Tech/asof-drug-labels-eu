@@ -73,11 +73,11 @@ Elderly patients may require a dose reduction of pregabalin due to a decreased r
 
 In accordance with current clinical practice, if pregabalin has to be discontinued, it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see section 4.8).
 
-CLcr(ml/min) = ⎡⎢1.23× [140 - age (years)] x weight (kg)⎤⎥ (x 0.85 for female patients)
-
 [LYRICA 75 mg hard capsules]
 
-(all sentences already above)
+Contraindications
+
+Hypersensitivity to the active substance or to any of the excipients.
 
 [LYRICA 100 mg hard capsules.]
 

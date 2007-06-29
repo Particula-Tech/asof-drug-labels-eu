@@ -12,7 +12,6 @@ Within each frequency grouping, undesirable effects are presented in order of de
 The adverse reactions listed may also be associated with the underlying disease and / or concomitant medications.
 
 In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse events in general, CNS adverse events and especially somnolence was increased (See 4.4).
-
 Additional reactions reported from post-marketing experience are included as Unknown frequency in italics in the list below.
 
 Body System Adverse drug reactions
@@ -52,7 +51,7 @@ Uncommon Syncope, stupor, myoclonus, psychomotor hyperactivity, visual
 field defect, ageusia, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, speech disorder, hyporeflexia, hypoaesthesia, amnesia, hyperaesthesia, burning sensation
 
 Rare Hypokinesia, parosmia, dysgraphia
-Unknown frequency Headache
+Unknown frequency Loss of consciousness, mental impairment, headache
 
 Eye disorders
 
@@ -153,15 +152,7 @@ Concerning discontinuation of long-term treatment of pregabalin there are no dat
 
 Rare Anasarca,pyrexia, rigors, pain exacerbated,
 
-[LYRICA 75 mg hard capsules]
-
-The following events have been mentioned: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating, and dizziness.
-
 [LYRICA 100 mg hard capsules.]
-
-(all sentences already above)
-
-[LYRICA 150 mg hard capsules]
 
 (all sentences already above)
 
