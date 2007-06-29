@@ -2,7 +2,7 @@
 
 Clinical Trials
 
-Humira was studied in 5293 patients in controlled and open label trials.
+Humira was studied in 5293 patients in controlled and open label trials for up to 60 months.
 These trials included rheumatoid arthritis patients with short term and long standing disease as well as psoriatic arthritis, ankylosing spondylitis and Crohn’s disease patients.
 The data in Table 1 is based on the controlled Studies (I − IX,CLASSIC I, GAIN AND CHARM) (described in section 5.1) involving 3271 patients receiving Humira and 1809 patients receiving placebo or active comparator during the controlled period.
 
@@ -65,7 +65,6 @@ Undesirable Effects in Clinical Studies
 | Injury and poisoning | Uncommon | accidental injury, impaired healing |
 
 Injection site reactions
-
 In the twelve controlled trials, 16% of patients treated with Humira developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 10% of patients receiving placebo or active control.
 Injection site reactions generally did not necessitate discontinuation of the medicinal product.
 
@@ -86,6 +85,7 @@ During the controlled portions of ten Humira trials at least 12 weeks in duratio
 The rate (95% confidence interval) of non-melanoma skin cancers was 7.6 (4.7, 12.4) per 1000 patient-years among Humira-treated patients and 2.0 (0.5, 8.2) per 1000 patient-years among control patients.
 Of these skin cancers, squamous cell carcinomas occurred at rates (95% confidence interval) of 2.4 (1.0, 5.7) per 1000 patient-years among Humira-treated patients and 0 per 1000 patient-years among control patients.
 The rate (95% confidence interval) of lymphomas was 1.0 (0.2, 3.8) per 1000 patient-years among Humira-treated patients and 1.0 (0.1, 7.3) per 1000 patient-years among control patients.
+
 When combining controlled portions of ten trials (I-IX and CHARM) and ongoing open label extension studies with a median duration of approximately 2. years including 4843 patients and over 13000 patient-years of therapy, the observed rate of malignancies, other than lymphoma and non-melanoma skin cancers is approximately 13.6 per 1000 patient years.
 The observed rate of non-melanoma skin cancers is approximately 9.0 per 1000 patient years, and the observed rate of lymphomas is approximately 1.2 per 1000 patient years.
 
@@ -183,4 +183,52 @@ Undesirable Effects in Postmarketing Surveillance and Phase IV Clinical Studies
 
 [Humira 40 mg solution for injection in pre-filled pen]
 
-(all sentences already above)
+| System Organ Class | Frequency | Adverse Reaction |
+| --- | --- | --- |
+| Infections and infestations | Common | lower respiratory infections (including pneumonia, bronchitis), viral infections (including influenza, herpes infections), candidiasis, bacterial infections (including urinary tract infections), upper respiratory infection |
+|  | Uncommon | opportunistic infections (including tuberculosis, histoplasmosis), sepsis, abscess, joint infection, wound infection, skin infection (including cellulitis and impetigo), superficial fungal infections (including skin, nail and foot) |
+|  | Rare | necrotising fasciitis, viral meningitis, diverticulitis |
+| Neoplasms benign and malignant (including | Uncommon | skin papilloma |
+| cysts and polyps) | Rare | lymphoma, solid organ tumours (including breast, ovarian, testicular), squamous cell carcinoma of the skin |
+| Blood and the lymphatic system disorders | Common | lymphopaenia |
+|  | Uncommon | neutropaenia (including agranulocytosis), leucopaenia, thrombocytopaenia, anaemia, , lymphadenopathy, leucocytosis |
+|  | Rare | pancytopaenia, idiopathic thrombocytopaenia purpura |
+| Immune system disorders | Uncommon | systemic lupus erythematosus, angioedema, drug hypersensitivity, seasonal allergy |
+|  | Rare | serum sickness |
+| Endocrine disorders | Rare | thyroid disorder (including goitre) |
+| Metabolism and nutrition disorders | Uncommon | Hypokalaemia, lipids increased, appetite disorders (including anorexia), hyperuricaemia |
+|  | Rare | hypercalcaemia |
+| Psychiatric disorders | Uncommon | mood disorders, anxiety (including nervousness and agitation) |
+| Nervous system disorders | Common | dizziness (including vertigo), headache, neurologic sensation disorders (including paraesthesias) |
+|  | Uncommon | syncope, migraine, tremor, sleep disturbances |
+|  | Rare | multiple sclerosis |
+| Eye disorders | Common | infection, irritation or inflammation of the eye |
+|  | Uncommon | vision disorder, ocular sensation disorders |
+|  | Rare | Panophthalmitis, iritis, glaucoma |
+| Ear and labyrinth disorders | Uncommon | tinnitus, ear discomfort (including pain and swelling) |
+|  | Rare | hearing loss |
+| Cardiac disorders | Uncommon | arrhythmias, tachycardia, palpitations |
+|  | Rare | cardiac arrest, coronary artery insufficiency, angina pectoris, pericardial effusion |
+| Vascular disorders | Uncommon | hypertension, flushing, haematoma |
+|  | Rare | vascular occlusion, aortic stenosis, thrombophlebitis, aortic aneurysm |
+| Respiratory, thoracic and mediastinal disorders | Common | cough, nasopharyngeal pain |
+|  | Uncommon | asthma, dyspnoea, dysphonia, nasal congestion |
+|  | Rare | pulmonary oedema, pharyngeal oedema, pleural effusion, pleurisy |
+| Gastrointestinal disorders | Common | diarrhoea, abdominal pain, stomatitis and mouth ulceration, nausea |
+|  | Uncommon | rectal haemorrhage, gastritis, vomiting, dyspepsia, abdominal bloating, constipation, |
+|  | Rare | intestinal stenosis, colitis, enteritis, oesophagitis |
+| Hepato-biliary disorders | Common | hepatic enzymes increased |
+|  | Rare | hepatic necrosis, hepatitis |
+| Skin and subcutaneous tissue disorders | Common | rash, dermatitis and eczema, pruritus, hair loss |
+|  | Uncommon | urticaria, psoriasis, ecchymosis and increased bruising, purpura |
+|  | Rare | erythema multiforme, panniculitis |
+| Musculoskeletal, connective tissue and bone disorders | Common | musculoskeletal pain |
+|  | Rare | rhabdomyolysis |
+| Renal and urinary disorders | Uncommon | haematuria, renal impairment, bladder and urethral symptoms |
+|  | Rare | proteinuria, renal pain |
+| Reproductive system and breast disorders | Uncommon | menstrual cycle and uterine bleeding disorders |
+| General disorders and administration site conditions | Very Common | injection site reaction (including pain, swelling, redness or pruritus) |
+|  | Common | pyrexia, fatigue (including asthenia and malaise) |
+|  | Uncommon | chest pain, oedema, influenza like illness |
+| Investigations | Uncommon | blood creatine phosphokinase increased, activated partial thromboplastin time prolonged, autoantibodies present |
+| Injury and poisoning | Uncommon | accidental injury, impaired healing |

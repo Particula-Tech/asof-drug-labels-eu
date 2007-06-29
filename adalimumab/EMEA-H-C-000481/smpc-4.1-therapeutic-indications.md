@@ -21,12 +21,12 @@ Humira is indicated for the treatment of adults with severe active ankylosing sp
 
 Crohn’s disease
 
-Humira is indicated for treatment of severe, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
-For induction treatment, Humira should be given in combination with cortiocosteroids.
+Humira is indicated for treatment of severe, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.For induction treatment, Humira should be given in combination with cortiocosteroids.
 Humira can be given as monotherapy in case of intolerance to corticosteroids or when continued treatment with corticosteroids is inappropriate (see section 4.2).
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
+Humira is indicated for treatment of severe, active Crohn’s disease, in patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
 For induction treatment, Humira should be given in combination with corticosteroids.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]

@@ -1,6 +1,7 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each 0.8 ml single dose vial contains 40 mg of adalimumab.
+
 Adalimumab is a recombinant human monoclonal antibody expressed in Chinese Hamster Ovary cells.
 
 For a full list of excipients, see section 6.1.

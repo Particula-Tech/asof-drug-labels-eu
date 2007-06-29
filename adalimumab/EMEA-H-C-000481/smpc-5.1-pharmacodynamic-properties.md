@@ -8,7 +8,6 @@ Mechanism of action
 Adalimumab binds specifically to TNF and neutralizes the biological function of TNF by blocking its interaction with the p55 and p75 cell surface TNF receptors.
 
 Adalimumab also modulates biological responses that are induced or regulated by TNF, including changes in the levels of adhesion molecules responsible for leukocyte migration (ELAM-1, VCAM-1, and ICAM-1 with an IC50 of 1-2 X 10-10 M).
-
 Pharmacodynamic effects
 
 After treatment with Humira, a rapid decrease in levels of acute phase reactants of inflammation (C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR)) and serum cytokines (IL-6) was observed compared to baseline in patients with rheumatoid arthritis.
@@ -22,7 +21,7 @@ Clinical trials
 Rheumatoid arthritis
 
 Humira was evaluated in over 3000 patients in all rheumatoid arthritis clinical trials.
-Some patients were treated for greater than 36 months duration.
+Some patients were treated for up to 60 months duration.
 The efficacy and safety of Humira for the treatment of rheumatoid arthritis were assessed in five randomised, double-blind and well-controlled studies.
 
 Study I evaluated 271 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, had failed therapy with at least one disease-modifying, anti rheumatic drug and had insufficient efficacy with methotrexate at doses of 12.5 to 25 mg (10 mg if methotrexate-intolerant) every week and whose methotrexate dose remained constant at 10 to 25 mg every week.
@@ -37,7 +36,7 @@ There were three groups in this study.
 The first received placebo injections every week for 52 weeks.
 The second received 20 mg of Humira every week for 52 weeks.
 The third group received 40 mg of Humira every other week with placebo injections on alternate weeks.
-Thereafter, patients enrolled in an open-label extension phase in which 40 mg of Humira was administered every other week.
+Thereafter, patients enrolled in an open-label extension phase in which 40 mg of Humira was administered every other week up to 60 months.
 
 Study IV primarily assessed safety in 636 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old.
 Patients were permitted to be either disease-modifying, anti-rheumatic drug-naïve or to remain on their pre-existing rheumatologic therapy provided that therapy was stable for a minimum of 28 days.
@@ -73,8 +72,11 @@ a Study I at 24 weeks, Study II at 26 weeks , and Study III at 24 and 52 weeks b
 In Studies I-IV, all individual components of the ACR response criteria (number of tender and swollen joints, physician and patient assessment of disease activity and pain, disability index (HAQ) scores and CRP (mg/dl) values) improved at 24 or 26 weeks compared to placebo.
 In Study III, these improvements were maintained throughout 52 weeks.
 In addition, ACR response rates were maintained in the majority of patients followed in the open-label extension phase to week 104.
+There were 114 out of 207 patients who continued on Humira 40 mg every other week for 60 months.
+Among those, 86, 72, and 41 patients had ACR 20/50/70 response, respectively at month 60.
 
 In Study IV, the ACR 20 response of patients treated with Humira plus standard of care was statistically significantly better than patients treated with placebo plus standard of care (p < 0.001).
+
 In Studies I-IV, Humira-treated patients achieved statistically significant ACR 20 and 50 responses compared to placebo as early as one to two weeks after initiation of treatment.
 
 In Study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at week 52 and responses were sustained at week 104 (see Table 4).
@@ -102,8 +104,11 @@ The response for the two monotherapy arms was similar (p = 0.447).
 Radiographic response
 
 In Study III, where Humira treated patients had a mean duration of rheumatoid arthritis of approximately 11 years, structural joint damage was assessed radiographically and expressed as change in modified total Sharp score and its components, the erosion score and joint space narrowing score.
-Humira/methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months.
-Data from the open-label extension phase indicate that the reduction in rate of progression of structural damage is maintained through 104 weeks (see Table 5).
+Humira/methotrexate patients demonstrated significantly less radiographic progression than patients receiving methotrexate alone at 6 and 12 months (see Table 5).
+Data from the open-label extension phase indicate that the reduction in rate of progression of structural damage is maintained for 60 months in a subset of patients.
+113/207 of patients originally treated with 40 mg Humira every other week were evaluated radiographically at 5 years.
+Among those, 66 patients showed no progression of structural damage defined by a change in the TSS of zero or less.
+
 Table 5: Radiographic Mean Changes Over 12 Months in Study III
 
 |  | Placebo/ MTXa | HUMIRA/MTX 40 mg every other week | Placebo/MTX-HUMIRA/MTX (95% Confidence Intervalb) | P-value |
@@ -136,7 +141,9 @@ Health-related quality of life and physical function was assessed using the disa
 All doses/schedules of Humira in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to Month 6 compared to placebo and in Study III the same was seen at week 52.
 Results from the Short Form Health Survey (SF 36) for all doses/schedules of Humira in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose.
 A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (Studies I, III, IV).
-In Study III, improvement in physical function and quality of life was maintained through week 104 of open-label treatment.
+
+In Study III, improvement in physical function was maintained through week 260 (60 months) of open-label treatment.
+Improvement in quality of life was measured up to week 156 (36 months) and improvement was maintained through that time.
 
 In Study V, the improvement in the HAQ disability index and the physical component of the SF 36 showed greater improvement (p < 0.001) for Humira/methotrexate combination therapy versus methotrexate monotherapy and Humira monotherapy at week 52, which was maintained through week 104.
 
@@ -153,7 +160,8 @@ Table 7: ACR Response in Placebo-Controlled Psoriatic Arthritis Studies
 
 |  | Study VI |  | Study VII |  |
 | --- | --- | --- | --- | --- |
-| Response | Placebo N=162 | Humira N=151 | Placebo N=49 | Humira N=51 |
+| Response | Placebo | Humira | Placebo | Humira |
+|  | N=162 | N=151 | N=49 | N=51 |
 | ACR 20 Week 12 Week 24 ACR 50 Week 12 Week 24 ACR 70 Week 12 Week 24 | 14% 15% | 58%*** 57%*** | 16% N/A | 39%* N/A |
 |  | 4% 6% | 36%*** 39%*** | 2% N/A | 25%*** N/A |
 |  | 1% 1% | 20%*** 23%*** | 0% N/A | 14% * N/A |
@@ -171,6 +179,7 @@ Humira 40 mg every other week was assessed in 393 patients in two randomised, 24
 Seventy-nine (20.1%) patients were treated concomitantly with disease modifying anti-rheumatic drugs, and 37 (9.4%) patients with glucocorticoids.
 The blinded period was followed by an open − label period during which patients received Humira 40 mg every other week subcutaneously for up to an additional 28 weeks.
 Subjects (n = 215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20 received early escape open-label adalimumab 40 mg every other week subcutaneously and were subsequently treated as non-responders in the double-blind statistical analyses.
+
 In the larger study (VIII) with 315 patients, results showed statistically significant improvement of the signs and symptoms of ankylosing spondylitis in patients treated with Humira compared to placebo.
 Significant response was first observed at Week 2 and maintained through 24 weeks (Table 8).
 
@@ -211,6 +220,7 @@ Induction of clinical remission (defined as CDAI < 150) was evaluated in two stu
 In CLASSIC I, 299 TNF-antagonist naive patients were randomised to one of four treatment groups; placebo at weeks 0 and 2, 160 mg Humira at week 0 and 80 mg at week 2, 80 mg at week 0 and 40 mg at week 2, and 40 mg at week 0 and 20 mg at week 2.
 In GAIN, 325 patients who had lost response or were intolerant to infliximab were randomised to receive either 160 mg Humira at week 0 and 80 mg at week 2 or placebo at weeks 0 and 2.
 The primary non-responders were excluded from the studies and therefore these patients were not further evaluated.
+
 Maintenance of clinical remission was evaluated in CHARM.
 In CHARM, 854 patients received open-label 80 mg at week 0 and 40 mg at week 2.
 At week 4 patients were randomised to 40 mg every other week, 40 mg every week, or placebo with a total study duration of 56 weeks.
@@ -232,7 +242,6 @@ Table 9: Induction of Clinical Remission and Response
 All p-values are pairwise comparisons of proportions for Humira versus placebo
 * p < 0.001
 ** p < 0.01
-
 Similar remission rates were observed for the 160/80 mg and 80/40 mg induction regimens by week 8 and adverse events were more frequently noted in the 160/80 mg group.
 
 In CHARM, at week 4, 58% (499/854) of patients were in clinical response and were assessed in the primary analysis.
@@ -286,6 +295,14 @@ Because immunogenicity analyses are product-specific, comparison of antibody rat
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
+|  | Study VI |  | Study VII |  |
+| --- | --- | --- | --- | --- |
+| Response | Placebo N=162 | Humira N=151 | Placebo N=49 | Humira N=51 |
+| ACR 20 |  |  |  |  |
+| Week 12 Week 24 ACR 50 Week 12 Week 24 ACR 70 Week 12 Week 24 | 14% 15% | 58%*** 57%*** | 16% N/A | 39%* N/A |
+|  | 4% 6% | 36%*** 39%*** | 2% N/A | 25%*** N/A |
+|  | 1% 1% | 20%*** 23%*** | 0% N/A | 14% * N/A |
+
 Subjects (n=215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20 received early escape open-label adalimumab 40 mg every other week subcutaneously and were subsequently treated as non-responders in the double-blind statistical analyses.
 
 |  | CLASSIC I: Infliximab Naive Patients |  |  | GAIN: Infliximab Experienced Patients |  |
@@ -297,8 +314,13 @@ Subjects (n=215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20 r
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
-(all sentences already above)
+.
 
 [Humira 40 mg solution for injection in pre-filled pen]
 
-(all sentences already above)
+|  | Study VI |  | Study VII |  |
+| --- | --- | --- | --- | --- |
+| Response | Placebo N=162 | Humira N=151 | Placebo N=49 | Humira N=51 |
+| ACR 20 Week 12 Week 24 ACR 50 Week 12 Week 24 ACR 70 Week 12 Week 24 | 14% 15% | 58%*** 57%*** | 16% N/A | 39%* N/A |
+|  | 4% 6% | 36%*** 39%*** | 2% N/A | 25%*** N/A |
+|  | 1% 1% | 20%*** 23%*** | 0% N/A | 14% * N/A |
