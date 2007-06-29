@@ -1,9 +1,30 @@
 # 6.1 List of excipients
 
-Pregelatinized starch (derived from maize starch), talc, povidone, croscarmellose sodium, and sodium stearyl fumarate.
-The capsule shell contains gelatin, yellow iron oxide (E172), red iron oxide (E172), black iron oxide (E172) and titanium dioxide (E171).
-The printing ink contains shellac, titanium dioxide (E171) and FD and C Blue 2 (indigo carmine, E132).
+Capsule core:
+Pregelatinized starch (derived from maize starch)
+Talc
+Povidone
+Croscarmellose sodium
+Sodium stearyl fumarate
+
+Capsule shell:
+Gelatin
+Yellow iron oxide (E172)
+Red iron oxide (E172)
+Black iron oxide (E172)
+Titanium dioxide (E171)
+
+Printing ink:
+Shellac
+Titanium dioxide (E171)
+FD and C Blue 2 (indigo carmine, E132)
 
 [Tamiflu 12 mg/ml powder for oral suspension.]
 
-Sorbitol (E420), sodium dihydrogen citrate (E331(a)), xanthan gum (E415), sodium benzoate (E211), saccharin sodium (E954), titanium dioxide (E171) and tutti frutti flavour (including maltodextrins (maize), propylene glycol, arabic gum E414 and natural identical flavouring substances) (mainly consisting of banana, pineapple and peach flavour).
+Powder for oral suspension:
+Sorbitol (E420),
+Sodium dihydrogen citrate (E331[a])
+Xanthan gum (E415)
+Sodium benzoate (E211)
+Saccharin sodium (E954)
+Tutti frutti flavour (including maltodextrins [maize], propylene glycol, arabic gum E414 and natural identical flavouring substances [mainly consisting of banana, pineapple and peach flavour]).
