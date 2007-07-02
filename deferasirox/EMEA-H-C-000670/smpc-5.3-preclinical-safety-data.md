@@ -4,7 +4,6 @@ Preclinical data reveal no special hazard for patients with iron overload, based
 The main findings were kidney toxicity and lens opacity (cataracts).
 Similar findings were observed in neonatal and juvenile animals.
 The kidney toxicity is considered mainly due to iron deprivation in animals that were not previously overloaded with iron.
-
 Tests of genotoxicity in vitro were either negative (Ames test, chromosomal aberration test) or positive (V79 screen).
 Deferasirox caused formation of micronuclei in vivo in the bone marrow, but not liver, of non-iron-loaded rats at lethal doses.
 No such effects were observed in iron-preloaded rats.

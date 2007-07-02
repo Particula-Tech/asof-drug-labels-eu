@@ -15,13 +15,11 @@ Elevations of liver transaminases occurred in 2% of patients and were not depend
 Elevations of transaminases greater than 10 times the upper limit of the normal range, suggestive of hepatitis, were uncommon (0.3%).
 As with other iron chelator treatment, high-frequency hearing loss and lenticular opacities (early cataracts) have been uncommonly observed in patients treated with EXJADE (see section 4.4).
 
-Adverse reactions are ranked below using the following convention: very common (>1/10); common (>1/100, <1/10); uncommon (>1/1,000, <1/100).
+Adverse reactions are ranked below using the following convention: very common (≥1/10); common
+(≥1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (<1/10,000); not known (cannot be estimated form the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Table 1
-
-Psychiatric disorders
-
-Uncommon: Anxiety, sleep disorder
 
 Nervous system disorders
 
@@ -48,22 +46,35 @@ abdominal distension, dyspepsia
 
 Uncommon: Gastritis
 
-Hepatobiliary disorders
-
-Common: Transaminases increased
-Uncommon: Hepatitis, cholelithiasis
-
-Skin and subcutaneous tissue disorders
-
-Common: Rash, pruritus
-Uncommon: Pigmentation disorder
-
 Renal and urinary disorders
 Very common: Blood creatinine increased
 
 Common: Proteinuria
 Uncommon: Glycosuria
+Not known Acute renal failure1
+
+Skin and subcutaneous tissue disorders
+
+Common: Rash, pruritus
+Uncommon: Pigmentation disorder
+Not known Urticaria1
 
 General disorders and administration site conditions
 
 Uncommon: Pyrexia, oedema, fatigue
+
+Immune system disorders
+
+Not known Hypersensitivity reactions (including anaphylaxis and angioedema)1
+
+Hepatobiliary disorders
+
+Common: Transaminases increased
+Uncommon: Hepatitis, cholelithiasis
+
+Psychiatric disorders
+
+Uncommon: Anxiety, sleep disorder
+
+1 Adverse reactions reported during postmarketing experience.
+These are derived from spontaneous reports for which it is not always possible to reliably establish frequency or a causal relationship to exposure to the medicinal product.

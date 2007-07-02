@@ -1,1 +1,14 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/06/356/001
+EU/1/06/356/002
+
+[EXJADE 250 mg dispersible tablets]
+
+EU/1/06/356/003
+EU/1/06/356/004
+
+[EXJADE 500 mg dispersible tablets]
+
+EU/1/06/356/005
+EU/1/06/356/006

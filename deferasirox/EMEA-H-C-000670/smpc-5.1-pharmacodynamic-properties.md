@@ -9,7 +9,8 @@ Deferasirox has low affinity for zinc and copper, and does not cause constant lo
 
 In an iron-balance metabolic study in iron-overloaded adult thalassaemic patients, EXJADE at daily doses of 10, 20 and 40 mg/kg induced the mean net excretion of 0.119, 0.329 and 0.445 mg Fe/kg body weight/day, respectively.
 
-EXJADE has been investigated in 411 adult (age ≥16 years) and 292 paediatric patients (aged 2 to <16 years) with chronic iron overload due to blood transfusions.
+EXJADE has been investigated in 411 adult (age ≥16 years) and 292 paediatric patients (aged 2 to
+<16 years) with chronic iron overload due to blood transfusions.
 Of the paediatric patients 52 were aged 2 to 5 years.
 The underlying conditions requiring transfusion included beta-thalassaemia, sickle cell disease and other congenital and acquired anaemias (myelodysplastic syndromes, Diamond-Blackfan syndrome, aplastic anaemia and other very rare anaemias).
 

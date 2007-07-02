@@ -9,11 +9,11 @@ EXJADE must therefore be taken on an empty stomach at least 30 minutes before fo
 Deferasirox metabolism depends on UGT enzymes.
 A decrease of its plasma concentration cannot be excluded when it is given with potent UGT inducers such as rifampicin, phenobarbital or phenytoin.
 The patient’s serum ferritin should be monitored during and after the combination, and the dose of EXJADE adjusted if necessary.
-
 The safety of EXJADE in combination with other iron chelators has not been established.
 Therefore, it must not be combined with other iron chelator therapies (see section 4.3).
 
 No interaction was observed between EXJADE and digoxin in healthy adult volunteers.
+
 An interaction between deferasirox and CYP2C8 substrates like paclitaxel and repaglinide cannot be excluded.
 
 The concomitant administration of EXJADE and vitamin C has not been formally studied.
