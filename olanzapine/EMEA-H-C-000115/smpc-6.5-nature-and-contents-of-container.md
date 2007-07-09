@@ -1,6 +1,6 @@
 # 6.5 Nature and contents of container
 
-Cold-formed aluminium blister strips in cartons of 28 or 56 tablets per carton.
+Cold-formed aluminium blister strips in cartons of 28, 35, 56 or 70 tablets per carton.
 
 Not all pack sizes may be marketed.
 
@@ -14,7 +14,7 @@ Not all pack sizes may be marketed.
 
 [ZYPREXA 10 mg coated tablets.]
 
-Cold-formed aluminium blister strips in cartons of 7, 28 or 56 tablets per carton.
+Cold-formed aluminium blister strips in cartons of 7, 28, 35, 56 or 70 tablets per carton.
 
 [ZYPREXA 15 mg coated tablets]
 

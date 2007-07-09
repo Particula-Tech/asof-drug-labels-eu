@@ -67,7 +67,6 @@ Additional pharmacokinetic data following administration of oral olanzapine are 
 Olanzapine is metabolised in the liver by conjugative and oxidative pathways.
 
 In healthy elderly (65 and over) versus non-elderly subjects administered oral olanzapine, the mean elimination half-life was prolonged (51.8 versus 33.8 hr) and the clearance was reduced (17.5 versus 18.2 l/hr).
-
 In female versus male subjects administered oral olanzapine the mean elimination half life was somewhat prolonged (36.7 versus 32.3 hrs) and the clearance was reduced (18.9 versus 27.3 l/hr).
 
 In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy subjects administered oral olanzapine, there was no significant difference in mean elimination half-life (37.7 versus 32.4 hr) or clearance (21.2 versus 25.0 l/hr).

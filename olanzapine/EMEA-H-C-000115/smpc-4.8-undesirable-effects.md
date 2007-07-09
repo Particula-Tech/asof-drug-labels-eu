@@ -12,8 +12,8 @@ Olanzapine administered with lithium or valproate resulted in increased levels (
 Speech disorder was also reported commonly (1% to 10%).
 During treatment with olanzapine in combination with lithium or divalproex, an increase of >7% from baseline body weight occurred in 17.4% of patients during acute treatment (up to 6 weeks).
 Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥7% from baseline body weight in 39.9% of patients.
-
 The following table of undesirable effects is based on adverse event reporting and laboratory investigations from clinical trials.
+
 Blood and lymphatic system disorders
 Common (1-10%): Eosinophilia.
 Metabolism and nutrition disorders
@@ -49,7 +49,6 @@ Hyperglycaemia is also reported as a Very Rare (<0.01%) spontaneous event.
 2In clinical trials, the incidence of parkinsonism and dystonia in olanzapine-treated patients was numerically higher, but not statistically significantly different from placebo.
 Olanzapine-treated patients had a lower incidence of parkinsonism, akathisia and dystonia compared with titrated doses of haloperidol.
 In the absence of detailed information on the pre-existing history of individual acute and tardive extrapyramidal movement disorders, it can not be concluded at present that olanzapine produces less tardive dyskinesia and/or other tardive extrapyramidal syndromes.
-
 The following table of undesirable effects is based on post-marketing spontaneous reports.
 
 Blood and lymphatic system disorders
