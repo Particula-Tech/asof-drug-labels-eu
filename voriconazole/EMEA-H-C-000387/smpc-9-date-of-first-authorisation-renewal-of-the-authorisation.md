@@ -1,7 +1,7 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
 Date of first authorisation: 19 March 2002
-Date of last renewal:
+Date of last renewal: 2 May 2007
 
 [VFEND 200 mg film-coated tablets]
 

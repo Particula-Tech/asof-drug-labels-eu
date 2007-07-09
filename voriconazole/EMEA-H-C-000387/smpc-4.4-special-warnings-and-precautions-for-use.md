@@ -31,6 +31,8 @@ Patients being treated with voriconazole are likely to be treated concomitantly 
 
 Monitoring of renal function: Patients should be monitored for the development of abnormal renal function.
 This should include laboratory evaluation, particularly serum creatinine.
+Monitoring of pancreatic function: Patients, especially children, with risk factors for acute pancreatitis (e.g. recent chemotherapy, hematopoietic stem cell translplantation (HSCT)), should be monitored closely during Vfend treatment.
+Monitoring of serum amylase or lipase may be considered in this clinical situation.
 
 Dermatological reactions: Patients have rarely developed exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, during treatment with VFEND.
 If patients develop a rash they should be monitored closely and VFEND discontinued if lesions progress.

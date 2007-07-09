@@ -9,13 +9,11 @@ VFEND is also available as 200 mg film-coated tablets, 200 mg powder for solutio
 Use in adults
 Therapy must be initiated with the specified loading dose regimen of either intravenous or oral VFEND to achieve plasma concentrations on Day 1 that are close to steady state.
 On the basis of the high oral bioavailability (96 %; see section 5.2), switching between intravenous and oral administration is appropriate when clinically indicated.
-
 Detailed information on dosage recommendations is provided in the following table:
 
-Intravenous Oral
-
-|  |  | Patients 40 kg and above | Patients less than 40 kg |
+|  | Intravenous | Oral |  |
 | --- | --- | --- | --- |
+|  |  | Patients 40 kg and above | Patients less than 40 kg |
 | Loading Dose Regimen (first 24 hours) | 6 mg/kg every 12 hours (for the first 24 hours) | 400 mg every 12 hours (for the first 24 hours) | 200 mg every 12 hours (for the first 24 hours) |
 | Maintenance Dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg twice daily | 100 mg twice daily |
 
@@ -52,6 +50,7 @@ VFEND has been associated with elevations in liver function tests and clinical s
 Patients with hepatic impairment must be carefully monitored for drug toxicity (see also section 4.8).
 
 Use in children
+
 VFEND is not recommended for use in children below 2 years due to insufficient data on safety and efficacy (see also sections 4.8 and 5.1).
 
 The recommended maintenance dosing regimen in paediatric patients 2 to <12 years is as follows:
@@ -77,12 +76,6 @@ Adolescents (12 to 16 years of age): should be dosed as adults.
 
 VFEND is also available as 50 mg film-coated tablets, 200 mg powder for solution for infusion and 40 mg/ml powder for oral suspension.
 
-|  | Intravenous | Oral |  |
-| --- | --- | --- | --- |
-|  |  | Patients 40 kg and above | Patients less than 40 kg |
-| Loading Dose Regimen (first 24 hours) | 6 mg/kg every 12 hours (for the first 24 hours) | 400 mg every 12 hours (for the first 24 hours) | 200 mg every 12 hours (for the first 24 hours) |
-| Maintenance Dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg twice daily | 100 mg twice daily |
-
 A four hour haemodialysis session does not remove sufficient amount of voriconazole to warrant dose adjustement.
 
 [VFEND 200 mg powder for solution for infusion]
@@ -93,7 +86,7 @@ Not for bolus injection.
 It is recommended that VFEND is administered at a maximum rate of 3 mg/kg per hour over 1 to 2 hours.
 
 VFEND must not be infused into the same line or cannula concomitantly with other intravenous products.
-VFEND must not be administered simultaneously with any blood product or any electrolyte supplementation, even if the two infusions are running in separate lines.
+VFEND must not be administered simultaneously with any blood product or any short-term infusion of concentrated solutions of electrolytes, even if the two infusions are running in separate lines.
 Total parenteral nutrition (TPN) need not be discontinued when prescribed with VFEND, but does need to be infused through a separate line (see section 6.2).
 
 VFEND is also available as 50 mg and 200 mg film-coated tablets and 40 mg/ml powder for oral suspension.
@@ -129,10 +122,9 @@ VFEND oral suspension is to be taken at least one hour before, or two hours foll
 
 VFEND is also available as 50 mg and 200 mg film-coated tablets and 200 mg powder for solution for injection.
 
-Intravenous Oral Suspension
-
-|  |  | Patients 40 kg and above | Patients less than 40 kg |
+|  | Intravenous | Oral Suspension |  |
 | --- | --- | --- | --- |
+|  |  | Patients 40 kg and above | Patients less than 40 kg |
 | Loading Dose Regimen (first 24 hours) | 6 mg/kg every 12 hours (for the first 24 hours) | 400 mg (10 ml) every 12 hours (for the first 24 hours) | 200 mg (5 ml) every 12 hours (for the first 24 hours) |
 | Maintenance Dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg (5 ml) twice daily | 100 mg (2.5 ml) twice daily |
 

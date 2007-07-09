@@ -10,9 +10,11 @@ Coadministration of standard doses of VFEND with efavirenz is contraindicated be
 
 Coadministration of VFEND with high dose ritonavir (400 mg and above twice daily) is contraindicated because ritonavir significantly decreases plasma voriconazole concentrations in healthy subjects at this dose.
 (see section 4.5, for lower doses see section 4.4).
-
 Coadministration of ergot alkaloids (ergotamine, dihydroergotamine), which are CYP3A4 substrates, is contraindicated since increased plasma concentrations of these medicinal products can lead to ergotism (see section 4.5).
+
 Coadministration of voriconazole and sirolimus is contraindicated, since voriconazole is likely to increase plasma concentrations of sirolimus significantly (see section 4.5).
+
+The concomitant use of voriconazole with St John’s Wort is contraindicated (see section 4.5).
 
 [VFEND 200 mg film-coated tablets]
 

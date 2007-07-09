@@ -26,6 +26,7 @@ Metabolism
 In vitro studies showed that voriconazole is metabolised by the hepatic cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
 
 The inter-individual variability of voriconazole pharmacokinetics is high.
+
 In vivo studies indicated that CYP2C19 is significantly involved in the metabolism of voriconazole.
 This enzyme exhibits genetic polymorphism.
 For example, 15-20 % of Asian populations may be expected to be poor metabolisers.
@@ -44,7 +45,6 @@ The majority (> 94 %) of the total radioactivity is excreted in the first 96 hou
 
 The terminal half-life of voriconazole depends on dose and is approximately 6 hours at 200 mg (orally).
 Because of non-linear pharmacokinetics, the terminal half-life is not useful in the prediction of the accumulation or elimination of voriconazole.
-
 Pharmacokinetic-Pharmacodynamic relationships
 In 10 therapeutic studies, the median for the average and maximum plasma concentrations in individual subjects across the studies was 2425 ng/ml (inter-quartile range 1193 to 4380 ng/ml) and 3742 ng/ml (inter-quartile range 2027 to 6302 ng/ml), respectively.
 A positive association between mean, maximum or minimum plasma voriconazole concentration and efficacy in therapeutic studies was not found.
@@ -64,6 +64,7 @@ Therefore, no dosage adjustment based on gender is necessary.
 Elderly
 In an oral multiple dose study Cmax and AUCτ in healthy elderly males (≥ 65 years) were 61 % and 86 % higher, respectively, than in healthy young males (18-45 years).
 No significant differences in Cmax and AUCτ were observed between healthy elderly females (≥ 65 years) and healthy young females (18- 45 years).
+
 In the therapeutic studies no dosage adjustment was made on the basis of age.
 A relationship between plasma concentrations and age was observed.
 The safety profile of voriconazole in young and elderly patients was similar and, therefore, no dosage adjustment is necessary for the elderly (see section 4.2).
@@ -81,7 +82,6 @@ Renal impairment
 In an oral single dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance <20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.
 The plasma protein binding of voriconazole was similar in subjects with different degrees of renal impairment.
 See dosing and monitoring recommendations under sections 4.2 and 4.4.
-
 Hepatic impairment
 After an oral single dose (200 mg), AUC was 233 % higher in subjects with mild to moderate hepatic cirrhosis (Child-Pugh A and B) compared with subjects with normal hepatic function.
 Protein binding of voriconazole was not affected by impaired hepatic function.

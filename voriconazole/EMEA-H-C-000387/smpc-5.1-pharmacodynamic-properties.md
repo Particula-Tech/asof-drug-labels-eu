@@ -31,7 +31,6 @@ Therapy may be instituted before the results of the cultures and other laborator
 Clinical isolates with decreased susceptibility to voriconazole have been identified.
 However, elevated minimum inhibitory concentrations did not always correlate with clinical failure and clinical success has been observed in patients infected with organisms resistant to other azoles.
 Correlation of in vitro activity with clinical outcome is difficult owing to the complexity of the patients studied in clinical trials; breakpoints for voriconazole remain to be established.
-
 Clinical Experience
 
 Successful outcome in this section is defined as complete or partial response.
@@ -86,6 +85,7 @@ The majority of patients receiving voriconazole treatment of the above mentioned
 
 Duration of treatment
 In clinical trials, 561 patients received voriconazole therapy for greater than 12 weeks, with 136 patients receiving voriconazole for over 6 months.
+
 Experience in paediatric patients
 Sixty one paediatric patients aged 9 months up to 15 years who had definite or probable invasive fungal infections, were treated with voriconazole.
 This population included 34 patients 2 to < 12 years old and 20 patients 12-15 years of age.

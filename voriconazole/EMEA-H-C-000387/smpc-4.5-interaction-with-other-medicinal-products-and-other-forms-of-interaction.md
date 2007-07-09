@@ -5,7 +5,6 @@ These results are relevant to other populations and routes of administration.
 
 This section addresses the effects of other medicinal products on voriconazole, the effects of voriconazole on other medicinal products and two-way interactions.
 The interactions for the first two sections are presented in the following order: contraindications, those requiring dosage adjustment and careful clinical and/or biological monitoring and finally those that have no significant pharmacokinetic interaction but may be of clinical interest in this therapeutic field.
-
 Effects of other medicinal products on voriconazole
 
 Voriconazole is metabolised by cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
@@ -30,6 +29,10 @@ No dosage adjustment of voriconazole is recommended.
 Ranitidine (increases gastric pH): Ranitidine (150 mg twice daily) had no significant effect on voriconazole Cmax and AUCτ.
 
 Macrolide antibiotics: Erythromycin (CYP3A4 inhibitor; 1 g twice daily) and azithromycin (500 mg once daily) had no significant effect on voriconazole Cmax and AUCτ.
+
+St John’s Wort (CYP450 inducer; P-gp inducer): In a clinical study in healthy volunteers, St John’s Wort exhibited a short initial inhibitory effect followed by induction of voriconazole metabolism.
+After 15 days of treatment with St John’s Wort (300 mg three times daily), plasma exposure following a single 400 mg dose of voriconazole decreased by 40-60%.
+Therefore, concomitant use of voriconazole with St John’s Wort is contraindicated (see section 4.3).
 
 Effects of voriconazole on other medicinal products
 
@@ -69,7 +72,6 @@ Close monitoring of prothrombin time is recommended if warfarin and voriconazole
 
 Other oral anticoagulants e.g. phenprocoumon, acenocoumarol (CYP2C9, CYP3A4 substrates): Although not studied, voriconazole may increase the plasma concentrations of coumarins and therefore may cause an increase in prothrombin time.
 If patients receiving coumarin preparations are treated simultaneously with voriconazole, the prothrombin time should be monitored at close intervals and the dosage of anticoagulants adjusted accordingly.
-
 Sulphonylureas (CYP2C9 substrates): Although not studied, voriconazole may increase the plasma levels of sulphonylureas (e.g. tolbutamide, glipizide, and glyburide) and therefore cause hypoglycaemia.
 Careful monitoring of blood glucose is recommended during coadministration.
 
@@ -86,6 +88,7 @@ Vinca Alkaloids (CYP3A4 substrates): Although not studied, voriconazole may incr
 
 Prednisolone (CYP3A4 substrate): Voriconazole increased Cmax and AUCτ of prednisolone (60 mg single dose) by 11 % and 34 %, respectively.
 No dosage adjustment is recommended.
+
 Digoxin (P-glycoprotein mediated transport): Voriconazole had no significant effect on Cmax and AUCτ of digoxin (0.25 mg once daily).
 
 Mycophenolic acid (UDP-glucuronyl transferase substrate): Voriconazole had no effect on the Cmax and AUCt of mycophenolic acid (1 g single dose).
@@ -107,7 +110,6 @@ Voriconazole at 400 mg twice daily increased Cmax and AUCτ of rifabutin by 195 
 
 If rifabutin coadministration with voriconazole is justified then the maintenance dose of voriconazole may be increased to 5 mg/kg intravenously twice daily or from 200 mg to 350 mg orally, twice daily (100 mg to 200 mg orally, twice daily in patients less than 40 kg) (see section 4.2).
 Careful monitoring of full blood counts and adverse events to rifabutin (e.g. uveitis) is recommended when rifabutin is coadministered with voriconazole.
-
 Omeprazole (CYP2C19 inhibitor; CYP2C19 and CYP3A4 substrate): Omeprazole (40 mg once daily) increased voriconazole Cmax and AUCτ by 15 % and 41 %, respectively.
 No dosage adjustment of voriconazole is recommended.
 Voriconazole increased omeprazole Cmax and AUCτ by 116 % and 280 %, respectively.
@@ -122,6 +124,7 @@ Although no increase in the incidence of hormonal related adverse events was obs
 Oral contraceptives containing doses other than 1 mg norethisterone and 0.035 mg ethinylestradiol have not been studied.
 
 Antiretroviral Agents:
+
 Indinavir (CYP3A4 inhibitor and substrate): Indinavir (800 mg three times daily) had no significant effect on voriconazole Cmax, Cmin and AUCτ.
 Voriconazole did not have a significant effect on Cmax and AUCτ of indinavir (800 mg three times daily).
 
