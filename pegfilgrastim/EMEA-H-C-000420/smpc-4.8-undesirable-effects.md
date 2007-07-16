@@ -12,6 +12,7 @@ Reversible, mild to moderate elevations in uric acid and alkaline phosphatase, w
 Nausea was observed in healthy volunteers and patients receiving chemotherapy.
 
 Common (≥ 1/100 to <1/10) but generally asymptomatic cases of splenomegaly and very rare cases of splenic rupture, including some fatal cases, have been reported following administration of pegfilgrastim (see section 4.4).
+Other commonly reported undesirable effects include pain, injection site pain; chest pain (non-cardiac); headache; arthralgia; myalgia; back, limb, musculo-skeletal and neck pain.
 
 Rare (≥ 1/10,000 to < 1/1,000) pulmonary adverse effects including interstitial pneumonia, pulmonary oedema, pulmonary infiltrates and pulmonary fibrosis have been reported.
 Some of the reported cases have resulted in respiratory failure or Adult Respiratory Distress Syndrome (ARDS), which may be fatal (see section 4.4)
