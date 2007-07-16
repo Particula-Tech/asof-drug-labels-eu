@@ -1,10 +1,20 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-6 mg of pegfilgrastim in 0.6 ml (10 mg/ml*) solution for injection.
+Each pre-filled syringe contains 6 mg of pegfilgrastim* in 0.6 ml solution for injection.
+The concentration is 10 mg/ml based on protein only**.
 
-Pegfilgrastim is produced by r-DNA technology in E. coli (K12).
+*Produced in Escherichia coli cells by recombinant DNA technology followed by conjugation with polyethylene glycol (PEG).
+** The concentration is 20 mg/ml if the PEG moiety is included
 
-For a full list of excipients, see 6.1.
+The potency of this product should not be compared to the potency of another pegylated or non-pegylated protein of the same therapeutic class.
+For more information, see section 5.1.
 
-* Based on protein only.
-The concentration is 20 mg/ml if the PEG moiety is included.
+Excipients:
+
+Excipients known to have a recognised action: sorbitol E420, sodium acetate (see section 4.4).
+
+For a full list of excipients, see section 6.1.
+
+[Neulasta 6 mg solution for injection in a pre-filled pen.]
+
+Each pre-filled pen contains 6 mg of pegfilgrastim* in 0.6 ml solution for injection.The concentration is 10 mg/ml based on protein only**.

@@ -6,4 +6,4 @@ The potential risk for humans is unknown.
 
 Neulasta should not be used during pregnancy unless clearly necessary.
 
-There is no clinical experience with lactating women, therefore Neulasta should not be administered to women who are breast-feeding.
+There is no clinical experience with breast-feeding women, therefore Neulasta should not be administered to women who are breast-feeding.

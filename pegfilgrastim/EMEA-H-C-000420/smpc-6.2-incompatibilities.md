@@ -1,3 +1,3 @@
 # 6.2 Incompatibilities
 
-Neulasta is incompatible with sodium chloride solutions.
+This medicinal product must not be mixed with other medicinal products, particularly with sodium chloride solutions.
