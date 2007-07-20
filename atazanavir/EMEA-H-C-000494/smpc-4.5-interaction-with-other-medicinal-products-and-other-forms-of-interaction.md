@@ -101,7 +101,7 @@ Therefore REYATAZ should not be co-administered with orally administered midazol
 No data are available on concomitant use of atazanavir with intravenous midazolam; data from concomitant use of other protease inhibitors suggest a possible 3-4 fold increase in midazolam plasma levels.
 If REYATAZ is co-administered with parenteral midazolam, a close clinical monitoring for respiratory depression and/or prolonged sedation should be exercised and dosage adjustment should be considered.
 
-Oral contraceptives (ethinyl estradiol, norethindrone): the mean concentration of ethinyl estradiol, when co-administered as a 35-μg dose with atazanavir 400 mg once daily, was increased to a level between mean concentrations produced by a 35-μg and a 50-μg ethinyl estradiol dose, and the AUC of norethindrone was increased about 2 fold.
+Oral contraceptives (ethinyl estradiol, norethindrone): the mean concentration of ethinyl estradiol, when co-administered as a 35-µg dose with atazanavir 400 mg once daily, was increased to a level between mean concentrations produced by a 35-µg and a 50-µg ethinyl estradiol dose, and the AUC of norethindrone was increased about 2 fold.
 In contrast, ritonavir may decrease ethinyl estradiol concentrations.
 The effects of co-administration of oral contraceptives and REYATAZ with ritonavir have not been studied.
 The concomitant use of REYATAZ and oral contraceptives should be avoided (see section 4.4).
