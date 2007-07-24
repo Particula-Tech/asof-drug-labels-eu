@@ -8,6 +8,7 @@ Infusion-related reactions (dyspnoea, urticaria and headache) were the most comm
 
 Table 1
 Undesirable Effects in Clinical Studies
+
 Infections and infestations
 Common: Viral infection (e.g. influenza, herpes infections)
 Uncommon: Abscess, cellulitis, moniliasis, sepsis, bacterial infection, tuberculosis, fungal infection, hordeolum
@@ -85,6 +86,7 @@ Rare: Hepatitis
 Very rare: Hepatocellular damage, jaundice, liver failure, autoimmune hepatitis
 Skin and subcutaneous tissue disorders
 Rare: Vasculitis (primarily cutaneous)
+Very rare: Psoriasis, including new onset and pustular (primarily palmar/plantar)
 General disorders and administration site conditions
 Common: Infusion-related reactions
 
@@ -114,6 +116,7 @@ The antibody incidence was 2-3 fold higher for patients treated episodically.
 Due to methodological limitations, a negative assay did not exclude the presence of antibodies to infliximab.
 Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy (see section 4.4: "Infusion reactions and hypersensitivity").
 In psoriasis patients treated with infliximab as a maintenance regimen in the absence of concomitant immunomodulators, approximately 28% developed antibodies to infliximab.
+
 Infections: Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal infections, and other opportunistic infections have been observed in patients receiving Remicade.
 Some of these infections have been fatal.
 Opportunistic infections reported in patients on Remicade have included, but are not limited to pneumocystosis, histoplasmosis, cytomegalovirus infection, atypical mycobacterial infections, listeriosis and aspergillosis (see section 4.4).
@@ -149,19 +152,37 @@ At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 m
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking Remicade.
 There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
 Some of these patients have been under 50 years of age.
+
 Hepatobiliary events: In clinical trials, mild or moderate elevations of ALT and AST have been observed in patients receiving Remicade without progression to severe hepatic injury.
+Elevations of ALT ≥5 x ULN have been observed (see Table 3).
 Elevations of aminotransferases were observed (ALT more common than AST) in a greater proportion of patients receiving Remicade than in controls, both when Remicade was given as monotherapy and when it was used in combination with other immunosuppressive agents.
 Most aminotransferase abnormalities were transient; however, a small number of patients experienced more prolonged elevations.
-In general, patients who developed ALT and AST elevations were asymptomatic, and the abnormalities decreased or resolved with either continuation or discontinuation of Remicade, or modification of concomitant medications.
-ALT elevations ≥ 5 times the upper limit of normal were observed in 1% of patients receiving Remicade.
-ALT elevations ≥ 3 times the upper limit of normal were observed across all approved indications at the following frequencies (placebo/infliximab): rheumatoid arthritis 3.2%/3.9%; Crohn's disease 3.5%/5.1%; ankylosing spondylitis 0.0%/5.9%; psoriatic arthritis 0.0%/6.8%; psoriasis 0.0%/10.4%.
+In general, patients who developed ALT and AST elevations were asymptomatic, and the abnormalities decreased or resolved with either continuation or discontinuation of Remicade, or modification of concomitant medications..
 In post-marketing surveillance, very rare cases of jaundice and hepatitis, some with features of autoimmune hepatitis, have been reported in patients receiving Remicade (see section 4.4)
+
+Table 3: Proportion of patients with increased ALT activity in Clinical Trials
+
+| Indication | Number of patients3 |  | Median follow-up (wks)4 |  | ≥3 x ULN |  | ≥5 x ULN |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | placebo | infliximab | placebo | infliximab | placebo | infliximab | placebo | infliximab |
+| Rheumatoid arthritis1 | 375 | 1087 | 58.1 | 58.3 | 3.2% | 3.9% | 0.8% | 0.9% |
+| Crohn’s disease2 | 173 | 703 | 54.1 | 54.1 | 3.5% | 5.1% | 0.0% | 1.7% |
+| Pediatric Crohn’s disease | N/A | 139 | N/A | 53.0 | N/A | 4.4% | N/A | 1.5% |
+| Ulcerative colitis | 242 | 482 | 30.1 | 30.8 | 1.2% | 2.5% | 0.4% | 0.6% |
+| Ankylosing spondylitis | 76 | 275 | 24.1 | 101.9 | 0.0% | 9.5% | 0.0% | 3.6% |
+| Psoriatic arthritis | 98 | 191 | 18.1 | 39.1 | 0.0% | 6.8% | 0.0% | 2.1% |
+| Plaque psoriasis | 281 | 1175 | 16.1 | 50.1 | 0.4% | 7.7% | 0.0% | 3.4% |
+
+1 Placebo patients received methotrexate while infliximab patients received both infliximab and methotrexate.
+2 Placebo patients in the 2 Phase III trials in Crohn’s disease, ACCENT I and ACCENT II, received an initial dose of 5 mg/kg infliximab at study start and were on placebo in the maintenance phase.
+Patients who were randomized to the placebo maintenance group and then later crossed over to infliximab are included in the infliximab group in the ALT analysis.
+3 Number of patients evaluated for ALT.
+4 Median follow-up is based on patients treated.
 
 Antinuclear antibodies (ANA)/Anti-double-stranded DNA (dsDNA) antibodies: Approximately half of infliximab-treated patients in clinical studies who were ANA negative at baseline developed a positive ANA during the study compared with approximately one-fifth of placebo-treated patients.
 Anti-dsDNA antibodies were newly detected in approximately 17% of infliximab-treated patients compared with 0% of placebo-treated patients.
 At the last evaluation, 57% of infliximab-treated patients remained anti-dsDNA positive.
 Reports of lupus and lupus-like syndromes, however, remain uncommon.
-
 Additional information on special populations
 
 Paediatric population
@@ -184,6 +205,7 @@ Infections occurred in 68% (41/60) of children receiving 3 mg/kg over 52 weeks, 
 Paediatric Crohn’s disease patients:
 The following adverse events were reported more commonly in paediatric Crohn’s disease patients in the REACH trial (see section 5.1) than in adult Crohn’s disease patients: anaemia (10.7%), blood in stool (9.7%), leukopenia (8.7%), flushing (8.7%), viral infection (7.8%), neutropenia (6.8%), bone fracture (6.8%), bacterial infection (5.8%), and respiratory tract allergic reaction (5.8%).
 Other special considerations are discussed below.
+
 Infusion-related reactions
 Overall, in REACH, 17.5% of randomized patients experienced 1 or more infusion reactions.
 There were no serious infusion reactions, and 2 subjects in REACH had non-serious anaphylactic reactions.

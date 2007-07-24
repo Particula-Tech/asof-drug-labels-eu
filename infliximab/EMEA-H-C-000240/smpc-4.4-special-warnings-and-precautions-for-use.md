@@ -60,8 +60,13 @@ All patients should be informed to seek medical advice if signs/symptoms suggest
 
 Patients with fistulising Crohn’s disease with acute suppurative fistulas must not initiate Remicade therapy until a source for possible infection, specifically abscess, has been excluded (see section 4.3).
 
-Reactivation of hepatitis B occurred in patients receiving Remicade who are chronic carriers of this virus (i.e. surface antigen positive).
-Chronic carriers of hepatitis B should be appropriately evaluated and monitored prior to the initiation of and during treatment with Remicade.
+Hepatitis B Reactivation
+Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including Remicade, who are chronic carriers of this virus.
+Some cases have had fatal outcome.
+Patients at risk for HBV infection should be evaluated for prior evidence of HBV infection before initiating Remicade therapy.
+Carriers of HBV who require treatment with Remicade should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy.
+Adequate data of treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available.
+In patients who develop HBV reactivation, Remicade should be stopped and effective anti-viral therapy with appropriate supportive treatment should be initiated.
 
 Hepatobiliary events
 Very rare cases of jaundice and non-infectious hepatitis, some with features of autoimmune hepatitis, have been observed in the post-marketing experience of Remicade.
@@ -120,7 +125,6 @@ Due to insufficient data on safety and efficacy, Remicade is not recommended for
 Remicade has not been studied in patients with Crohn’s disease below the age of 6 years.
 
 Others
-
 The pharmacokinetics of infliximab in elderly patients has not been studied.
 Studies have not been performed in patients with liver or renal disease (see section 5.2).
 
