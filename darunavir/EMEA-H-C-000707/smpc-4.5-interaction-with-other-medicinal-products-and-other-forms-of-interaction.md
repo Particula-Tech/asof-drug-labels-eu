@@ -3,7 +3,7 @@
 Darunavir and ritonavir are both inhibitors of the CYP3A4 isoform.
 Co-administration of darunavir and ritonavir and medicinal products primarily metabolised by CYP3A4 may result in increased systemic exposure to such medicinal products, which could increase or prolong their therapeutic effect and adverse reactions.
 PREZISTA co-administered with 100 mg ritonavir must not be combined with medicinal products that are highly dependent on CYP3A4 for clearance and for which increased systemic exposure is associated with serious and/or life-threatening events (narrow therapeutic index).
-These medicinal products include amiodarone, bepridil, quinidine, systemic lidocaine, astemizole, terfenadine, midazolam, triazolam, cisapride, pimozide, sertindole, simvastatin, lovastatin and the ergot alkaloids (e.g. ergotamine, dihydroergotamine, ergonovine and methylergonovine) (see section 4.3).
+These medicinal products include amiodarone, bepridil, quinidine, systemic lidocaine, astemizole, terfenadine, midazolam administered orally, triazolam, cisapride, pimozide, sertindole, simvastatin, lovastatin and the ergot alkaloids (e.g. ergotamine, dihydroergotamine, ergonovine and methylergonovine) (see section 4.3).
 
 The overall pharmacokinetic enhancement effect by ritonavir was an approximate 14-fold increase in the systemic exposure of darunavir when a single dose of 600 mg darunavir was given orally in combination with ritonavir at 100 mg b.i.d.
 Therefore, PREZISTA must only be used in combination with 100 mg of ritonavir as a pharmacokinetic enhancer (see sections 4.4 and 5.2).
@@ -27,9 +27,9 @@ Co-administered Dose of Dose of Medicinal AUC Cmin
 
 Medicinal Product Co-administered darunavir/ritonavir Product
 
-Medicinal Product (mg) Assessed
+Medicinal (mg) Assessed
 
-(mg)
+Product (mg)
 
 Lopinavir/ritonavir 400/100 b.i.d. 300/100 b.i.d. Lopinavir ↑ 37% ↑ 72%
 
@@ -56,9 +56,9 @@ Co-administered Dose of Dose of Medicinal AUC Cmin
 
 Medicinal Co-administered darunavir/ritonavir Product
 
-Product Medicinal Product (mg) Assessed
+Product Medicinal (mg) Assessed
 
-(mg)
+Product (mg)
 
 Efavirenz 600 q.d. 300/100 b.i.d. Efavirenz ↑ 21% ↑ 17%
 
@@ -67,8 +67,9 @@ Darunavir/ritonavir increases the plasma concentrations of efavirenz as a result
 Clinical monitoring for central nervous system toxicity associated with increased exposure to efavirenz may be indicated when PREZISTA co-administered with 100 mg ritonavir is given in combination with efavirenz.
 
 Nevirapine 200 b.i.d. 400/100 b.i.d. Nevirapine ↑ 27% ↑ 47%
+Darunavir ↔ ↔
 
-Darunavir ↔ ↔ Darunavir/ritonavir increases the plasma concentrations of nevirapine as a result of CYP3A4 inhibition.
+Darunavir/ritonavir increases the plasma concentrations of nevirapine as a result of CYP3A4 inhibition.
 Since this difference is not considered to be clinically relevant, the combination of PREZISTA co-administered with 100 mg ritonavir and nevirapine can be used without dose adjustments.
 
 Tenofovir 300 q.d. 300/100 b.i.d. Tenofovir ↑ 22% ↑ 37%
@@ -80,9 +81,7 @@ Monitoring of renal function may be indicated when PREZISTA co-administered with
 Zidovudine Based on the different elimination pathways of the other NRTIs zidovudine,
 Didanosine zalcitabine, emtricitabine, stavudine, lamivudine, that are primarily renally
 Zalcitabine excreted, and didanosine and abacavir for which metabolism is not mediated by
-
 Emtricitabine CYP450, no interactions are expected for these medicinal compounds and
-
 Stavudine PREZISTA co-administered with 100 mg ritonavir.
 
 Lamivudine
@@ -90,56 +89,19 @@ Abacavir
 
 Interactions – Darunavir/ritonavir with Non-antiretroviral co-administered Medicinal Products
 
-Co-administered Dose of Dose of Medicinal AUC Cmin
-
-Medicinal Co-administered darunavir/ritonavir Product
-
-Product Medicinal (mg) Assessed
-
-Product
-(mg)
-Antiarrhythmics
-
-Digoxin 0.4 mg single dose 600/100 b.i.d. Digoxin ↑ 60% ND
-
-Darunavir/ritonavir increases the plasma concentrations of digoxin.
-Inhibition of Pgp may be a likely explanation.
-Given that digoxin has as a narrow therapeutic index, it is recommended that the lowest possible dose of digoxin should initially be prescribed in case digoxin is given to patients on darunavir/ritonavir therapy.
-The digoxin dose should be carefully titrated to obtain the desired clinical effect while assessing the overall clinical state of the subject.
-Antibiotics
-
-Clarithromycin 500 b.i.d. 400/100 b.i.d. Clarithromycin ↑ 57% ↑ 174%
-
-Darunavir ↔ ↔ Darunavir/ritonavir increases the plasma concentrations of clarithromycin as a result of CYP3A4 inhibition and possible Pgp inhibition.
-Concentrations of the metabolite 14-OH-clarithromycin were not detectable.
-Caution is warranted and clinical monitoring is recommended.
-For patients with renal impairment, a dose reduction of clarithromycin should be considered.
-Anticoagulant
-
-Warfarin Warfarin concentrations may be affected when co-administered with darunavir
-
-with ritonavir.
-The international normalised ratio (INR) should be monitored when warfarin is combined with PREZISTA co-administered with 100 mg ritonavir.
-Anticonvulsants
-Phenobarbital Phenobarbital, phenytoin and carbamazepine are inducers of CYP450 enzymes.
-
-Phenytoin PREZISTA co-administered with 100 mg ritonavir should not be used in
-
-Carbamazepine combination with these medicines, as co-administration may cause significant decreases in darunavir plasma concentrations.
-Antifungals
-
-Voriconazole The combined use of voriconazole with darunavir co-administered with 100 mg
-
-ritonavir has not been studied.
-Voriconazole is metabolised by cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
-Ritonavir, which can induce some of these isoenzymes, may decrease voriconazole plasma concentrations.
-Voriconazole should not be co-administered with PREZISTA with 100 mg ritonavir unless an assessment of the benefit/risk ratio justifies the use of voriconazole.
-
-Ketoconazole 200 b.i.d. 400/100 b.i.d. Ketoconazole ↑ 212% ↑ 868%
-
-Darunavir ↑ 42% ↑ 73% Ketoconazole is a potent inhibitor as well as substrate of CYP3A4.
-Caution is warranted and clinical monitoring is recommended.
-When co-administration is required the daily dose of ketoconazole should not exceed 200 mg.
+| Co-administered Medicinal Product | Dose of Dose of Medicinal AUC Cmin Co-administered darunavir/ritonavir Product Medicinal (mg) Assessed Product (mg) |
+| --- | --- |
+| Antiarrhythmics |  |
+| Digoxin | 0.4 mg single dose 600/100 b.i.d. Digoxin ↑ 60% ND Darunavir/ritonavir increases the plasma concentrations of digoxin. Inhibition of Pgp may be a likely explanation. Given that digoxin has as a narrow therapeutic index, it is recommended that the lowest possible dose of digoxin should initially be prescribed in case digoxin is given to patients on darunavir/ritonavir therapy. The digoxin dose should be carefully titrated to obtain the desired clinical effect while assessing the overall clinical state of the subject. |
+| Antibiotics |  |
+| Clarithromycin | 500 b.i.d. 400/100 b.i.d. Clarithromycin ↑ 57% ↑ 174% Darunavir ↔ ↔ Darunavir/ritonavir increases the plasma concentrations of clarithromycin as a result of CYP3A4 inhibition and possible Pgp inhibition. Concentrations of the metabolite 14-OH-clarithromycin were not detectable. Caution is warranted and clinical monitoring is recommended. For patients with renal impairment, a dose reduction of clarithromycin should be considered. |
+| Anticoagulant |  |
+| Warfarin | Warfarin concentrations may be affected when co-administered with darunavir with ritonavir. The international normalised ratio (INR) should be monitored when warfarin is combined with PREZISTA co-administered with 100 mg ritonavir. |
+| Anticonvulsants |  |
+| Phenobarbital Phenytoin Carbamazepine | Phenobarbital, phenytoin and carbamazepine are inducers of CYP450 enzymes. PREZISTA co-administered with 100 mg ritonavir should not be used in combination with these medicines, as co-administration may cause significant decreases in darunavir plasma concentrations. |
+| Antifungals |  |
+| Voriconazole | The combined use of voriconazole with darunavir co-administered with 100 mg ritonavir has not been studied. Voriconazole is metabolised by cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4. Ritonavir, which can induce some of these isoenzymes, may decrease voriconazole plasma concentrations. Voriconazole should not be co-administered with PREZISTA with 100 mg ritonavir unless an assessment of the benefit/risk ratio justifies the use of voriconazole. |
+| Ketoconazole | 200 b.i.d. 400/100 b.i.d. Ketoconazole ↑ 212% ↑ 868% Darunavir ↑ 42% ↑ 73% Ketoconazole is a potent inhibitor as well as substrate of CYP3A4. Caution is warranted and clinical monitoring is recommended. When co-administration is required the daily dose of ketoconazole should not exceed 200 mg. |
 
 Itraconazole Itraconazole, like ketoconazole, is a potent inhibitor as well as substrate of
 
@@ -164,10 +126,10 @@ Nicardipine CYP3A4 substrates. Clinical monitoring of therapeutic and adverse ef
 recommended when these medicines are concomitantly administered with PREZISTA with 100 mg ritonavir.
 HMG Co-A Reductase Inhibitors
 
-Lovastatin Lovastatin and simvastatin, which are highly dependent on
-Simvastatin CYP3A4 metabolism are expected to have markedly increased plasma
+Lovastatin Lovastatin and simvastatin, which are highly dependent on CYP3A4 metabolism
+Simvastatin are expected to have markedly increased plasma concentrations when
 
-concentrations when co-administered with darunavir co-administered with 100 mg ritonavir.
+co-administered with darunavir co-administered with 100 mg ritonavir.
 This may cause myopathy, including rhabdomyolysis.
 Concomitant use of PREZISTA co-administered with 100 mg ritonavir with lovastatin and simvastatin is therefore contraindicated (see section 4.3).
 
@@ -182,15 +144,17 @@ Pravastatin 40 mg single dose 600/100 b.i.d. Pravastatin 0 – 5 ND
 times ↑ Darunavir/ritonavir did not increase exposure to a single dose of pravastatin in most subjects but up to 5-fold in a limited subset of subjects.
 When administration of pravastatin and PREZISTA co-administered with 100 mg ritonavir is required, it is recommended to start with the lowest possible dose of pravastatin and titrate it up to the desired clinical effect while monitoring for safety.
 Hormonal contraceptive
+Ethinylestradiol 35 µg/1 mg q.d.
+600/100 b.i.d.
+Ethinylestradiol ↓ 44% ↓ 62%
 
-Ethinylestradiol 35 μg/1 mg q.d. 600/100 b.i.d. Ethinylestradiol ↓ 44% ↓ 62%
 Norethindrone Norethindrone ↓ 14% ↓ 30%
 
 Alternative or additional contraceptive measures are recommended when oestrogen-based contraceptives are co-administered with PREZISTA and 100 mg ritonavir.
 Patients using oestrogens as hormone replacement therapy should be clinically monitored for signs of oestrogen deficiency.
 Immunosupressants
-
 Cyclosporine Exposure to cyclosporine, tacrolimus, or sirolimus will be increased when
+
 Tacrolimus co-administered with PREZISTA co-administered with 100 mg ritonavir.
 Sirolimus Therapeutic drug monitoring of the immunosuppressive agent must be done
 
@@ -203,7 +167,7 @@ Based on these results, PREZISTA co-administered with 100 mg ritonavir can be co
 
 Omeprazole 20 q.d. 400/100 b.i.d. Darunavir ↔ ↔
 
-Based on these results, PREZISTA co-administered with 100 mg ritonavir can be co-administered with proton pump inhibitors without dose adjustments
+Based on these results, PREZISTA co-administered with 100 mg ritonavir can be co-administered with proton pump inhibitors without dose adjustments.
 Opiods
 
 Methadone When methadone is co-administered with PREZISTA co-administered with
@@ -228,7 +192,19 @@ Consideration should be given to official guidance on the appropriate treatment 
 
 Rifampicin Rifampicin is a potent inducer of CYP450 metabolism. PREZISTA
 
-co-administered with 100 mg ritonavir must not be used in combination with rifampicin, as co-administration may cause significant decreases in darunavir plasma concentrations (see section 4.3).
+co-administered with 100 mg ritonavir must not be used in combination with rifampicin, as co-administration may cause significant decreases in darunavir plasma concentrations (see section 4.3)
+Sedatives/Hypnotics
+
+Parenteral Midazolam is extensively metabolized by CYP3A4. Co-administration with
+midazolam PREZISTA/ritonavir may cause a large increase in the concentration of this
+
+benzodiazepine.
+No drug interaction study has been performed for the co-administration of PREZISTA/ritonavir with benzodiazepines.
+Based on data for other CYP3A4 inhibitors, plasma concentrations of midazolam are expected to be significantly higher when midazolam is given orally.
+Therefore PREZISTA/ritonavir should not be co-administered with orally administered midazolam (see section 4.3), whereas caution should be used with co-administration of PREZISTA/ritonavir and parenteral midazolam.
+Data from concomitant use of parenteral midazolam with other protease inhibitors suggest a possible 3-4 fold increase in midazolam plasma levels.
+If PREZISTA/ritonavir is co-administered with parenteral midazolam, it should be done in an intensive care unit (ICU) or similar setting, which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation.
+Dosage adjustment for midazolam should be considered, especially if more than a single dose of midazolam is administered.
 Selective Serotonin Reuptake Inhibitors (SSRIs)
 
 Paroxetine 20 q.d. 400/100 b.i.d. Paroxetine ↓ 39% ↓ 37%
@@ -241,9 +217,9 @@ In addition, patients on a stable dose of sertraline or paroxetine who start tre
 Steroids
 
 Fluticasone In a clinical study where ritonavir 100 mg capsules b.i.d were co-administered
-propionate with 50 µg intranasal fluticasone propionate (4 times daily) for 7 days in
+propionate with 50 µg intranasal fluticasone propionate (4 times daily) for 7 days in healthy
 
-healthy subjects, fluticasone propionate plasma concentrations increased significantly, whereas the intrinsic cortisol levels decreased by approximately 86% (90% confidence interval 82 - 89%).
+subjects, fluticasone propionate plasma concentrations increased significantly, whereas the intrinsic cortisol levels decreased by approximately 86% (90% confidence interval 82 - 89%).
 Greater effects may be expected when fluticasone propionate is inhaled.
 Systemic corticosteroid effects including Cushing's syndrome and adrenal suppression have been reported in patients receiving ritonavir and inhaled or intranasally administered fluticasone propionate; this could also occur with other corticosteroids metabolised via the P450 3A pathway e.g. budesonide.
 Consequently, concomitant administration of PREZISTA, co-administered with 100 mg ritonavir and these glucocorticoids, is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects.
@@ -256,6 +232,7 @@ Therefore this combination should be used with caution.
 Others
 St. John’s wort PREZISTA co-administered with 100 mg ritonavir must not be used concomitantly with products containing St John’s wort (Hypericum perforatum) because co-administration may cause significant decreases in darunavir plasma concentrations and also in ritonavir concentrations.
 This is due to the induction of metabolising enzymes by St John’s wort.
-If a patient is already taking St John’s wort, stop St John’s wort and if possible check viral levels.
+If a patient is already taking
+St John’s wort, stop St John’s wort and if possible check viral levels.
 Darunavir exposure (and also ritonavir exposure) may increase on stopping St John’s wort.
 The inducing effect may persist for at least 2 weeks after cessation of treatment with St John’s wort (see section 4.3).

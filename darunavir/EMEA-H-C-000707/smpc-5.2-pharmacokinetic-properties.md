@@ -15,6 +15,7 @@ The overall pharmacokinetic enhancement effect by ritonavir was an approximate 1
 When administered without food, the relative bioavailability of darunavir in the presence of low-dose ritonavir is 30% lower as compared to intake with food.
 Therefore, PREZISTA tablets should be taken with ritonavir and with food.
 The type of food does not affect exposure to darunavir.
+
 Distribution
 Darunavir is approximately 95% bound to plasma protein.
 Darunavir binds primarily to plasma alpha-1-acid glycoprotein.

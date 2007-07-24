@@ -21,10 +21,9 @@ Frequencies are defined as common (≥ 1/100 to < 1/10), and uncommon (≥ 1/100
 Adverse reactions reported in the de novo patients (grade 1 – 4) are summarised below.
 The frequency was calculated using adverse reactions reported by the investigators as being attributable (at least possible causal relationship) to PREZISTA co-administered with 100 mg ritonavir.
 
-SOC Adverse reaction Frequency
-
-| Investigations | increased alanine aminotransferase, increased blood creatinine, increased blood amylase, increased aspartate aminotransferase, increased gamma-glutamyltransferase, increased lipase, increased blood glucose, increased blood alkaline phosphatase, increased blood urea | uncommon |
+| SOC | Adverse reaction | Frequency |
 | --- | --- | --- |
+| Investigations | increased alanine aminotransferase, increased blood creatinine, increased blood amylase, increased aspartate aminotransferase, increased gamma-glutamyltransferase, increased lipase, increased blood glucose, increased blood alkaline phosphatase, increased blood urea | uncommon |
 | Cardiac disorders | myocardial infarction, abnormal electrocardiogram, tachycardia, atrial dilatation | uncommon |
 | Blood and lymphatic system disorders | neutropenia, thrombocytopenia | uncommon |
 | Nervous system disorders | headache, dizziness | common |
@@ -49,6 +48,7 @@ SOC Adverse reaction Frequency
 |  | anxiety, confusional state, disorientation, irritability, altered mood, nightmare | uncommon |
 
 * Reported with another dosage.
+
 Laboratory abnormalities
 Treatment emergent clinical laboratory abnormalities (Grade 3 or 4) observed in the de novo patients and reported in greater than or equal to 2% of subjects were increases in triglycerides (8.6%), pancreatic amylase (6.6%), total cholesterol (4.9%), gamma glutamyltransferase (GGT) (3.8%), partial thromboplastine time (PTT) (3.6%), pancreatic lipase (3.5%), alanine aminotransferase (ALT) (2.4%), aspartate aminotransferase (AST) (2.2%) and decreases in white blood cell count (6.4%), neutrophils (4.7%), total absolute neutrophils count (4.2%), lymphocytes (3.8%).
 All other abnormal laboratory parameters were observed in less than 2% of the subjects.

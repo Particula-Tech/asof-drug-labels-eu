@@ -58,7 +58,6 @@ The table below shows the efficacy data of the 24-week analyses on the recommend
 a Non-completer is failure imputation: patients who discontinued prematurely are imputed with a change equal to 0 b Treatment differences are based on Least Square Means (LSM) from an ANOVA model including the stratification factors.
 P-values
 < 0.001 c Last Observation Carried Forward imputation d Imputations according to the TLOVR algorithm e Confidence interval around observed difference of response rates; P-values < 0.001 f 95% confidence intervals.
-
 Baseline genotype or phenotype and virologic outcome
 In POWER 1, 2 and 3 the presence at baseline of 3 or more of mutations V11I, V32I, L33F, I47V, I50V, I54L or M, G73S, L76V, I84V or L89V was associated with a decreased virologic response to PREZISTA co-administered with 100 mg ritonavir.
 The presence of these individual mutations was associated with a median of 10 PI resistance associated mutations of the IAS-USA list of mutations.
