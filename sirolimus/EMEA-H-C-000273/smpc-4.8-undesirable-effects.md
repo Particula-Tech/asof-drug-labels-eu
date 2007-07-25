@@ -1,7 +1,6 @@
 # 4.8 Undesirable effects
 
 The most commonly reported adverse drug reactions (occurring in >10% of patients) are thrombocytopenia, anaemia, hypokalaemia, urinary tract infection, hypercholesterolaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, and increased blood lactate dehydrogenase (LDH).
-
 The incidence of any adverse event(s) may increase as the trough sirolimus level increases.
 
 Adverse reactions based on experience from clinical trials and postmarketing experience are presented in the following table by system organ class and frequency of occurrence.
@@ -51,35 +50,17 @@ vasculitis
 Metabolism and Hypokalaemia
 nutrition Hypercholesterolaemia
 disorders Hypertriglyceridaemia
-Cardiac Tachycardia
-disorders
-Vascular Lymphocele Deep vein Pulmonary Lymphoedema
-disorders thrombosis embolism
-Respiratory, Pneumonitis Pulmonary
-thoracic, and Epistaxis haemorrhage
-mediastinal
-disorders
-Gastrointestinal Abdominal pain Stomatitis Pancreatitis
-disorders Diarrhoea
-Skin and Acne Rash
-subcutaneous
-tissue disorders
-Musculoskeletal Arthralgia Osteonecrosis
-and connective
-tissue disorders
-Renal and Proteinuria Nephrotic
-urinary syndrome (see
-disorders section 4.4)
-General Oedema peripheral Impaired healing
-disorders and Oedema
-administration Pyrexia
-site conditions
-Investigations Blood lactate Aspartate
-dehydrogenase aminotransferase
-increased increased
-Alanine
-aminotransferase
-increased
+
+| Cardiac disorders |  | Tachycardia | Pericardial effusion (including haemodynamically significant effusions in children and adults) |  |
+| --- | --- | --- | --- | --- |
+| Vascular disorders | Lymphocele | Deep vein thrombosis | Pulmonary embolism | Lymphoedema |
+| Respiratory, thoracic, and mediastinal disorders |  | Pneumonitis Epistaxis | Pulmonary haemorrhage |  |
+| Gastrointestinal disorders | Abdominal pain Diarrhoea | Stomatitis | Pancreatitis |  |
+| Skin and subcutaneous tissue disorders | Acne | Rash |  |  |
+| Musculoskeletal and connective tissue disorders | Arthralgia | Osteonecrosis |  |  |
+| Renal and urinary disorders |  | Proteinuria | Nephrotic syndrome (see section 4.4) |  |
+| General disorders and administration site conditions | Oedema peripheral | Impaired healing Oedema Pyrexia |  |  |
+| Investigations | Blood lactate dehydrogenase increased | Aspartate aminotransferase increased Alanine aminotransferase increased |  |  |
 
 Immunosuppression increases the susceptibility to the development of lymphoma and other malignancies, particularly of the skin (see section 4.4).
 
@@ -103,9 +84,10 @@ There was a higher rate of serious adverse events including pneumonia, acute rej
 
 The most commonly reported adverse drug reactions (occuring in >10% of patients) are thrombocytopenia, anaemia, hypokalaemia, urinary tract infection, hypercholesterolaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, and increased blood lactate dehydrogenase (LDH).
 
-| nutrition disorders | Hypercholesterolaemia Hypertriglyceridaemia |  |  |  |
+| Immune system disorders |  |  |  | Hypersensitivity reactions, including anaphylactic/ anaphylactoid reactions, angioedema, and hypersensitivity vasculitis (see section 4.4) |
 | --- | --- | --- | --- | --- |
-| Cardiac disorders |  | Tachycardia |  |  |
+| Metabolism and nutrition disorders | Hypokalaemia Hypercholesterolaemia Hypertriglyceridaemia |  |  |  |
+| Cardiac disorders |  | Tachycardia | Pericardial effusion (including haemodynamically significant effusions in children and adults) |  |
 | Vascular disorders | Lymphocele | Deep vein thrombosis | Pulmonary embolism | Lymphoedema |
 | Respiratory, thoracic, and mediastinal disorders |  | Pneumonitis Epistaxis | Pulmonary haemorrhage |  |
 | Gastrointestinal disorders | Abdominal pain Diarrhoea | Stomatitis | Pancreatitis |  |
@@ -121,9 +103,14 @@ Rare reports of fatal hepatic necrosis have been reported with elevated trough s
 
 [Rapamune 2 mg coated tablets]
 
-| disorders | Hypertriglyceridaemia |  |  |  |
+(all sentences already above)
+
+[Rapamune 5 mg coated tablets]
+
+|  |  |  |  | vasculitis (see section 4.4) |
 | --- | --- | --- | --- | --- |
-| Cardiac disorders |  | Tachycardia |  |  |
+| Metabolism and nutrition disorders | Hypokalaemia Hypercholesterolaemia Hypertriglyceridaemia |  |  |  |
+| Cardiac disorders |  | Tachycardia | Pericardial effusion (including haemodynamically significant effusions in children and adults) |  |
 | Vascular disorders | Lymphocele | Deep vein thrombosis | Pulmonary embolism | Lymphoedema |
 | Respiratory, thoracic, and mediastinal disorders |  | Pneumonitis Epistaxis | Pulmonary haemorrhage |  |
 | Gastrointestinal disorders | Abdominal pain Diarrhoea | Stomatitis | Pancreatitis |  |
@@ -132,7 +119,3 @@ Rare reports of fatal hepatic necrosis have been reported with elevated trough s
 | Renal and urinary disorders |  | Proteinuria | Nephrotic syndrome (see section 4.4) |  |
 | General disorders and administration site conditions | Oedema peripheral | Impaired healing Oedema Pyrexia |  |  |
 | Investigations | Blood lactate dehydrogenase increased | Aspartate aminotransferase increased Alanine aminotransferase increased |  |  |
-
-[Rapamune 5 mg coated tablets]
-
-(all sentences already above)

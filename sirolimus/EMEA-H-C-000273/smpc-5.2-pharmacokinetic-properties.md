@@ -19,6 +19,7 @@ After a single dose of [14C] sirolimus in healthy volunteers, the majority (91.1
 
 Clinical studies of Rapamune did not include a sufficient number of patients >65 years of age to determine whether they will respond differently than younger patients.
 Sirolimus trough concentration data in 35 renal transplant patients >65 years of age were similar to those in the adult population (n=822) from 18 to 65 years of age.
+
 In healthy volunteers, a high fat meal altered the bioavailability characteristics of oral liquid sirolimus.
 There was a 34% decrease in the peak blood sirolimus concentration (Cmax), a 3.5-fold increase in the time to peak concentration (tmax), and a 35% increase in total exposure (AUC).
 It is recommended that Rapamune be taken consistently either with or without food.

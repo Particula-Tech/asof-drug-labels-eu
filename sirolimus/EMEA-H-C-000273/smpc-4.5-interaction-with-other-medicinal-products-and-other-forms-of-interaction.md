@@ -38,6 +38,7 @@ Erythromycin (CYP3A4 inhibitor): Multiple-dose administration of erythromycin an
 Whole blood sirolimus Cmax, tmax, and AUC were increased 4.4-fold, 1.4-fold, and 4.2-fold, respectively.
 The Cmax, tmax, and AUC of plasma erythromycin base were increased 1.6-fold, 1.3-fold, and 1.7-fold, respectively.
 Sirolimus levels should be monitored and appropriate dose reductions of both medications should be considered.
+
 Oral contraceptives: No clinically significant pharmacokinetic interaction was observed between sirolimus and 0.3 mg norgestrel/ 0.03 mg ethinyl estradiol.
 Although the results of a single dose drug interaction study with an oral contraceptive suggest the lack of a pharmacokinetic interaction, the results cannot exclude the possibility of changes in the pharmacokinetics that might affect the efficacy of the oral contraceptive during long term treatment with Rapamune.
 
@@ -58,8 +59,6 @@ No clinically significant pharmacokinetic interaction was observed between sirol
 [Rapamune 1 mg coated tablets]
 
 Sirolimus is extensively metabolized by the CYP3A4 isozyme in the intestinal wall and liver.
-
-Single-dose sirolimusdid not affect the pharmacokinetics of ciclosporin (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart.
 
 Ketoconazole (CYP3A4 inhibitor): Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure from Rapamune oral solution as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.4-fold, 1.4-fold, and 10.9-fold, respectively.
 
