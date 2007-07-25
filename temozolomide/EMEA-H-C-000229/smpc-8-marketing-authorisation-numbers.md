@@ -15,11 +15,13 @@ EU/1/98/096/006
 
 [Temodal 140 mg hard capsules]
 
-EU/0/00/000/000
+EU/1/98/096/009
+EU/1/98/096/010
 
 [Temodal 180 mg hard capsules]
 
-(all sentences already above)
+EU/1/98/096/011
+EU/1/98/096/012
 
 [Temodal 250 mg hard capsules]
 

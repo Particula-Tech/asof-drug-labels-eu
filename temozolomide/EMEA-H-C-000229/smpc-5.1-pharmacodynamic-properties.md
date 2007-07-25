@@ -18,7 +18,7 @@ Temozolomide was administered as salvage therapy in the follow-up phase in 161 p
 The hazard ratio (HR) for overall survival was 1.59 (95 % CI for HR=1.33 -1.91) with a log-rank p < 0.0001 in favour of the temozolomide arm.
 The estimated probability of surviving 2 years or more (26 % vs 10 %) is higher for the RT + temozolomide arm.
 The addition of concomitant temozolomide to radiotherapy, followed by temozolomide monotherapy in the treatment of patients with newly diagnosed glioblastoma multiforme demonstrated a statistically significant improved overall survival compared with radiotherapy alone (Figure 1).
-HR (95% C.I.) = 1.59 (1.33 – 1.91) log-rank p-value < .0001
+HR (95% C .I.) = 1.59 (1.33 – 1.91) log-rank p-value < .0001
 
 26%
 RT+TM Z
