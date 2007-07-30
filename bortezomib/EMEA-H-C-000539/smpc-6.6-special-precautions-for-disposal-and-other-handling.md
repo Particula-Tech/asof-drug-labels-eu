@@ -10,7 +10,6 @@ ASEPTIC TECHNIQUE MUST BE STRICTLY OBSERVED THROUGHOUT HANDLING OF VELCADE SINCE
 
 VELCADE is provided as a lyophilised powder in the form of a mannitol boronic ester.
 When reconstituted, the mannitol ester is in equilibrium with its hydrolysis product, the monomeric boronic acid.
-
 When reconstituted, each vial of VELCADE 3.5 mg yields a solution with a concentration of 1 mg/ml.
 Each vial must be reconstituted with 3.5 ml of 9 mg/ml (0.9%) sodium chloride for injection.
 Dissolution is completed in less than 2 minutes.
@@ -19,4 +18,5 @@ The reconstituted solution must be inspected visually for particulate matter and
 If any discolouration or particulate matter is observed, the reconstituted product must be discarded.
 
 Procedure for proper disposal
+
 Any unused product or waste material should be disposed of in accordance with local requirements.
