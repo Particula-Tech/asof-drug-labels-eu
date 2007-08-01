@@ -21,8 +21,8 @@ Peak plasma concentrations (Cmax) are achieved at 1.3 hours after dosing.
 Steady-state is achieved after two days of a twice daily administration schedule.
 Peak concentrations (Cmax) are typically 31 and 43 µg/ml following a single 1,000 mg dose and repeated 1,000 mg twice daily dose, respectively.
 The extent of absorption is dose-independent and is not altered by food.
-Distribution
 
+Distribution
 No tissue distribution data are available in humans.
 Neither levetiracetam nor its primary metabolite are significantly bound to plasma proteins (< 10 %).
 The volume of distribution of levetiracetam is approximately 0.5 to 0.7 l/kg, a value close to the total body water volume.
@@ -66,6 +66,7 @@ Children (4 to 12 years)
 
 Following single oral dose administration (20 mg/kg) to epileptic children (6 to 12 years), the half-life of levetiracetam was 6.0 hours.
 The apparent body weight adjusted clearance was approximately 30 % higher than in epileptic adults.
+
 Following repeated oral dose administration (20 to 60 mg/kg/day) to epileptic children (4 to 12 years), levetiracetam was rapidly absorbed.
 Peak plasma concentration was observed 0.5 to 1.0 hour after dosing.
 Linear and dose proportional increases were observed for peak plasma concentrations and area under the curve.

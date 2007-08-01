@@ -107,3 +107,9 @@ Keppra concentrate is for intravenous use only and the recommended dose must be 
 There is no experience with administration of intravenous levetiracetam for longer period than 4 days.
 
 A Keppra concentrate vial contains 500 mg levetiracetam in 5 ml (corresponding to 100 mg/ml).
+
+Group Creatinine clearance Dosage and frequency
+
+|  | (ml/min) |  |
+| --- | --- | --- |
+| Normal Mild Moderate Severe End-stage renal disease patients Undergoing dialysis (1) | > 80 50-79 30-49 < 30 - | 500 to 1,500 mg twice daily 500 to 1,000 mg twice daily 250 to 750 mg twice daily 250 to 500 mg twice daily 500 to 1,000 mg once daily (2) |
