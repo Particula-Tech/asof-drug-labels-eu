@@ -10,7 +10,6 @@ Maximal inhibition of metabolism of the co-administered protease inhibitor is ge
 For additional information on the effect of ritonavir on co-administered protease inhibitor metabolism, see Section 4.5 and refer to the Summary of Product Characteristics of the particular co-administered PIs.
 
 Ritonavir dosed as an antiretroviral agent
-
 Ritonavir is an orally active peptidomimetic inhibitor of the HIV-1 and HIV-2 aspartyl proteases.
 Inhibition of HIV protease renders the enzyme incapable of processing the gag-pol polyprotein precursor which leads to the production of HIV particles with immature morphology that are unable to initiate new rounds of infection.
 Ritonavir has selective affinity for the HIV protease and has little inhibitory activity against human aspartyl proteases.
@@ -21,6 +20,7 @@ However, due to ritonavir’s metabolic inhibitory properties its use as a pharm
 Resistance
 
 Ritonavir-resistant isolates of HIV-1 have been selected in vitro and isolated from patients treated with therapeutic doses of ritonavir.
+
 Reduction in the antiretroviral activity of ritonavir is primarily associated with the protease mutations V82A/F/T/S and I84V.
 Accumulation of other mutations in the protease gene (including at positions 20, 33, 36, 46, 54, 71, and 90) can also contribute to ritonavir resistance.
 In general, as mutations associated with ritonavir resistance accumulate, susceptibility to select other PIs may decrease due to cross-resistance.
@@ -33,11 +33,11 @@ The following studies are the most important.
 
 Adult Use
 
-A controlled study completed in 1996 with ritonavir as add-on therapy in HIV-1 infected patients extensively pre-treated with nucleoside analogues and baseline CD4 cell counts ≤ 100 cells/μl showed a reduction in mortality and AIDS defining events.
+A controlled study completed in 1996 with ritonavir as add-on therapy in HIV-1 infected patients extensively pre-treated with nucleoside analogues and baseline CD4 cell counts ≤ 100 cells/µl showed a reduction in mortality and AIDS defining events.
 The mean average change from baseline over 16 weeks for HIV RNA levels was -0.79 log10 (maximum mean decrease: 1.29 log10) in the ritonavir group versus-0.01 log10 in the control group.
 The most frequently used nucleosides in this study were zidovudine, stavudine, didanosine and zalcitabine.
 
-In a study completed in 1996 recruiting less advanced HIV-1 infected patients (CD4 200-500 cells/μl) without previous antiretroviral therapy, ritonavir in combination with zidovudine or alone reduced viral load in plasma and increased CD4 count.
+In a study completed in 1996 recruiting less advanced HIV-1 infected patients (CD4 200-500 cells/µl) without previous antiretroviral therapy, ritonavir in combination with zidovudine or alone reduced viral load in plasma and increased CD4 count.
 The mean average change from baseline over 48 weeks for HIV RNA levels was -0.88 log10 in the ritonavir group versus -0.66 log10 in the ritonavir + zidovudine group versus -0.42 log10 in the zidovudine group.
 
 The continuation of ritonavir therapy should be evaluated by viral load because of the possibility of the emergence of resistance as described under section 4.1 Therapeutic indications.

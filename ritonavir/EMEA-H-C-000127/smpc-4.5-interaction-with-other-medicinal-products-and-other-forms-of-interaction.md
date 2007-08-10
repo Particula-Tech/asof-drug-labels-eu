@@ -21,20 +21,27 @@ Ritonavir levels may increase on stopping St John’s wort.
 The dose of ritonavir may need adjusting.
 The inducing effect may persist for at least 2 weeks after cessation of treatment with St John’s wort (see section 4.3).
 
-Serum levels of ritonavir may be reduced by select co-administered medicinal products (eg delavirdine, efavirenz, phenytoin).
+Serum levels of ritonavir may be affected by select co-administered medicinal products (eg delavirdine, efavirenz, phenytoin).
 These interactions are noted in the drug interaction tables below.
 
 Drugs that are affected by the use of ritonavir
 
 Interactions between ritonavir and protease inhibitors, antiretroviral agents other than protease inhibitors and other non-antiretroviral drugs are listed in the tables below.
+
 Drug Interactions – Ritonavir with Protease Inhibitors
 
 | Co-administered Drug | Dose of Co-administered Dose of NORVIR Drug AUC Cmin Drug (mg) (mg) Assessed |
 | --- | --- |
 | Amprenavir | 600 q12h 100 q12h Amprenavir2 ↑ 64% ↑ 5 fold Ritonavir increases the serum levels of amprenavir as a result of CYP3A4 inhibition. Clinical trials confirmed the safety and efficacy of 600 mg amprenavir twice daily with ritonavir 100 mg twice daily. Norvir oral solution should not be co-administered with amprenavir oral solution to children due to the risk of toxicity from excipients in the two formulations. For further information, physicians should refer to the Agenerase Summary of Product Characteristics. |
 | Atazanavir | 300 q24h 100 q24h Atazanavir ↑ 86% ↑ 11 fold Atazanavir1 ↑ 2 fold ↑ 3-7 fold Ritonavir increases the serum levels of atazanavir as a result of CYP3A4 inhibition. Clinical trials confirmed the safety and efficacy of 300 mg atazanavir once daily with ritonavir 100 mg once daily in treatment experienced patients. For further information, physicians should refer to the Reyataz Summary of Product Characteristics. |
-| Fosamprenavir | 700 q12h 100 q12h Amprenavir ↑ 2.4 fold ↑ 11 fold Ritonavir increases the serum levels of amprenavir (from fosamprenavir) as a result of CYP3A4 inhibition. Fosamprenavir must be given with ritonavir to ensure its therapeutic effect. Clinical trials confirmed the safety and efficacy of fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily. Ritonavir doses higher than 100 mg twice daily have not been studied with fosamprenavir. For further information, physicians should refer to the Telzir Summary of Product Characteristics. |
+| Fosamprenavir | 700 q12h 100 q12h Amprenavir ↑ 2.4 fold ↑ 11 fold Ritonavir increases the serum levels of amprenavir (from fosamprenavir) as a result of CYP3A4 inhibition. Fosamprenavir must be given with ritonavir to ensure its therapeutic effect. Clinical |
+
+trials confirmed the safety and efficacy of fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily.
+Ritonavir doses higher than 100 mg twice daily have not been studied with fosamprenavir.
+For further information, physicians should refer to the Telzir Summary of Product Characteristics.
+
 | Indinavir | 800 q12h 100 q12h Indinavir3 ↑ 178% ND Ritonavir ↑ 72% ND 400 q12h 400 q12h Indinavir3 ↔ ↑ 4 fold Ritonavir ↔ ↔ Ritonavir increases the serum levels of indinavir as a result of CYP3A4 inhibition. Appropriate doses for this combination, with respect to efficacy and safety, have not been established. Minimal benefit of ritonavir-mediated pharmacokinetic enhancement is achieved with doses higher than 100 mg twice daily. In cases of co-administration of ritonavir (100 mg twice daily) and indinavir (800 mg twice daily) caution is warranted as the risk of nephrolithiasis may be increased. |
+| --- | --- |
 | Nelfinavir | 1250 q12h 100 q12h Nelfinavir ↑ 20to39% ND 750, single 500 q12h Nelfinavir ↑ 152% ND Ritonavir ↔ ↔ Ritonavir increases the serum levels of nelfinavir as a result of CYP3A4 inhibition. Appropriate doses for this combination, with respect to efficacy and safety, have not been established. Minimal benefit of ritonavir-mediated pharmacokinetic enhancement is achieved with doses higher than 100 mg twice daily. |
 | Saquinavir | 1000 q12h 100 q12h Saquinavir4 ↑ 15-fold ↑ 5-fold Ritonavir ↔ ↔ 400 q12h 400 q12h Saquinavir4 ↑ 17-fold ND Ritonavir ↔ ↔ Ritonavir increases the serum levels of saquinavir as a result of CYP3A4 inhibition. Saquinavir should only be given in combination with ritonavir. Ritonavir 100 mg twice daily with saquinavir 1000 mg twice daily provides saquinavir systemic exposure over 24 hours similar to or greater than those achieved with saquinavir 1200 mg three times daily without ritonavir. In a clinical study investigating the interaction of rifampicin 600 mg once daily and saquinavir 1000 mg with ritonavir 100 mg twice daily in healthy volunteers, severe hepatocellular toxicity with transaminase elevations up to > 20-fold the upper limit of normal after 1 to 5 days of co-administration was noted. Due to the risk of severe hepatoxicity, saquinavir/ritonavir should not be given together with rifampicin. For further information, physicians should refer to the Invirase or Fortovase Summary of Product Characteristics. |
 
@@ -248,7 +255,7 @@ Dose alteration of sulfamethoxazole/trimethoprim during concomitant ritonavir th
 | Tadalafil | 20, single dose 200 q12h ↑ 124% ↔ The concomitant use of tadalafil with ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer should be with caution at reduced doses of no more than 10 mg tadalafil every 72 hours with increased monitoring for adverse events (see section 4.4). |
 | Vardenafil | 5, single dose 600 q12h ↑ 49-fold ↑ 13-fold The concomitant use of vardenafil and ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer should be with caution at reduced doses of no more than 2.5 mg every 72 hours with increased monitoring for adverse events (see section 4.4). |
 | Sedatives/hynoptics |  |
-| Clorazepate, diazepam, estazolam, flurazepam, midazolam and triazolam | Ritonavir co-administration is likely to result in increased plasma concentrations of Clorazepate, diazepam, estazolam, flurazepam and midazolam and is therefore contraindicated (see section 4.3). |
+| Clorazepate, diazepam, estazolam, flurazepam, oral and parenteral midazolam and triazolam | Ritonavir co-administration is likely to result in increased plasma concentrations of clorazepate, diazepam, estazolam and flurazepam and is therefore contraindicated (see section 4.3). Midazolam is extensively metabolised by CYP3A4. Co-administration with Norvir may cause a large increase in the concentration of this benzodiazepine. No drug interaction study has been performed for the co-administration of Norvir with benzodiazepines. Based on data for other CYP3A4 inhibitors, plasma concentrations of midazolam are expected to be significantly higher when midazolam is given orally. Therefore, Norvir should not be co-administered with orally administered midazolam (see section 4.3), whereas caution should be used with co-administration of Norvir and parenteral midazolam. Data from concomitant use of parenteral midazolam with other protease inhibitors suggest a possible 3 – 4 fold increase in midazolam plasma levels. If Norvir is co-administered with parenteral midazolam, it should be done in an intensive care unit (ICU) or similar setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation. Dosage adjustment for midazolam should be considered, especially if more than a single dose of midazolam is administered. |
 | Triazolam | 0.125 single dose 200, 4 doses ↑ >20 fold ↑ 87% Ritonavir co-administration is likely to result in increased plasma concentrations of triazolam and is therefore contraindicated (see section 4.3). |
 | Meperidine Normeperidine metabolite | 50 oral single 500 q12h ↓ 62% ↓ 59% dose ↑ 47% ↑ 87% The use of meperidine and ritonavir is contraindicated due to the increased concentrations of the metabolite, normeperidine, which has both analgesic and CNS stimulant activity. Elevated normeperidine concentrations may increase the risk of CNS effects (eg, seizures), see section 4.3. |
 | Alprazolam | 1, single dose 200 q12h, 2 ↑2.5 fold ↔ days 500 q12h, 10 ↓ 12% ↓ 16% days Alprazolam metabolism was inhibited following the introduction of ritonavir. After ritonavir use for 10 days, no inhibitory effect of ritonavir was observed. Caution is warranted during the first several days when alprazolam is co-administered with ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer, before induction of alprazolam metabolism develops. |
@@ -453,9 +460,19 @@ The concomitant use of vardenafil and ritonavir dosed as an antiretroviral agent
 Sedatives/hynoptics
 
 Clorazepate, diazepam, estazolam, Ritonavir co-administration is likely to result in increased plasma
-flurazepam, midazolam and triazolam concentrations of Clorazepate, diazepam, estazolam, flurazepam and
 
-midazolam and is therefore contraindicated (see section 4.3).
+flurazepam, oral and parenteral midazolam concentrations of clorazepate, diazepam, estazolam and flurazepam and
+
+and triazolam is therefore contraindicated (see section 4.3).
+
+Midazolam is extensively metabolised by CYP3A4.
+Co-administration with Norvir may cause a large increase in the concentration of this benzodiazepine.
+No drug interaction study has been performed for the co-administration of Norvir with benzodiazepines.
+Based on data for other CYP3A4 inhibitors, plasma concentrations of midazolam are expected to be significantly higher when midazolam is given orally.
+Therefore, Norvir should not be co-administered with orally administered midazolam (see section 4.3), whereas caution should be used with co-administration of Norvir and parenteral midazolam.
+Data from concomitant use of parenteral midazolam with other protease inhibitors suggest a possible 3 – 4 fold increase in midazolam plasma levels.
+If Norvir is co-administered with parenteral midazolam, it should be done in an intensive care unit (ICU) or similar setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation.
+Dosage adjustment for midazolam should be considered, especially if more than a single dose of midazolam is administered.
 
 Triazolam 0.125 single dose 200, 4 doses ↑ >20 fold ↑ 87%
 
