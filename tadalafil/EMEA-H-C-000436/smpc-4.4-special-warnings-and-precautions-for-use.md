@@ -25,7 +25,7 @@ If priapism is not treated immediately, penile tissue damage and permanent loss 
 Agents for the treatment of erectile dysfunction, including CIALIS, should be used with caution in patients with anatomical deformation of the penis (such as angulation, cavernosal fibrosis or Peyronie's disease), or in patients who have conditions which may predispose them to priapism (such as sickle cell anaemia, multiple myeloma or leukaemia).
 
 The evaluation of erectile dysfunction should include a determination of potential underlying causes and the identification of appropriate treatment following an appropriate medical assessment.
-It is not known if CIALIS is effective in patients with spinal cord injuries and patients who have undergone pelvic surgery or radical non-nerve-sparing prostatectomy.
+It is not known if CIALIS is effective in patients who have undergone pelvic surgery or radical non-nerve-sparing prostatectomy.
 
 In patients who are taking alpha(1) blockers, such as doxazosin, concomitant administration of CIALIS may lead to symptomatic hypotension in some patients (see section 4.5).
 Therefore, the combination of tadalafil and alpha blockers is not recommended.

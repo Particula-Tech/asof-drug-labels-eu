@@ -11,26 +11,27 @@ Not known (cannot be estimated from available data-spontaneous reports)
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| Table 1 Very common adverse reactions (>1/10) |  |  |  |
+| Table 1 Very common adverse reactions (≥1 /10) |  |  |  |
 | --- | --- | --- | --- |
 | System Organ Class | Adverse reaction | CIALIS 10 mg-20 mg (%) N=724 | Placebo (%) N=379 |
 | Nervous System disorders | Headache | 14.5 | 5.5 |
 | Gastrointestinal disorders | Dyspepsia | 12.3 | 1.8 |
 
-| Table 2 Common adverse reactions (>1/100, <1/10) |  |  |  |
+| Table 2 Common adverse reactions (≥ 1/100 and < 1/10) |  |  |  |
 | --- | --- | --- | --- |
-| System Organ Class disorders | Adverse reaction | CIALIS 10 mg-20 mg (%) N=724 | Placebo (%) N=379 |
+| System Organ Class | Adverse reaction | CIALIS 10 mg-20 mg (%) N=724 | Placebo (%) N=379 |
 | Nervous System disorders | Dizziness | 2.3 | 1.8 |
 | Respiratory, thoracic, and mediastinal disorders | Nasal Congestion | 4.3 | 3.2 |
 | Musculoskeletal and connective tissue disorders | Back pain Myalgia | 6.5 5.7 | 4.2 1.8 |
 | Vascular disorders | Flushing | 4.1 | 1.6 |
 
 Swelling of eyelids, sensations described as eye pain and conjunctival hyperaemia are uncommon adverse reactions.
+
 Table 3 lists the adverse reactions from phase 3 placebo-controlled clinical trials in patients treated with CIALIS 2.5 mg and 5 mg once a day.
 The adverse events reported were transient, and generally mild or moderate.
 The most commonly reported adverse reactions were dyspepsia, back pain, myalgia, flushing and nasal congestion.
 
-| Table 3 Common adverse reactions (>1/100, <1/10) |  |  |  |
+| Table 3 Common adverse reactions (≥ 1/100 and < 1/10) |  |  |  |
 | --- | --- | --- | --- |
 | System Organ Class | Adverse reaction | CIALIS 2.5 mg-5 mg (%) N=500 | Placebo (%) N=248 |
 | Respiratory, thoracic and mediastinal disorders | Nasal congestion | 1.8 | 0 |
@@ -40,7 +41,6 @@ The most commonly reported adverse reactions were dyspepsia, back pain, myalgia,
 
 A slightly higher incidence of ECG abnormalities, primarily sinus bradycardia, has been reported in patients treated with tadalafil once a day as compared with placebo.
 Most of these ECG abnormalities were not associated with adverse events.
-
 In postmarketing surveillance, adverse reactions that have been reported in patients taking tadalafil include:
 
 Cardiac disorders(1)
@@ -78,7 +78,11 @@ Not known: Priapism
 
 [CIALIS 5 mg film-coated tablets]
 
-(all sentences already above)
+| Table 1 Very common adverse reactions (≥1/10) |  |  |  |
+| --- | --- | --- | --- |
+| System Organ Class | Adverse reaction | CIALIS 10 mg-20 mg (%) N=724 | Placebo (%) N=379 |
+| Nervous System disorders | Headache | 14.5 | 5.5 |
+| Gastrointestinal disorders | Dyspepsia | 12.3 | 1.8 |
 
 [CIALIS 10 mg film-coated tablets]
 
@@ -89,7 +93,9 @@ The most commonly reported adverse reactions are headache and dyspepsia, see tab
 | System Organ Class | Adverse reaction | CIALIS 10-20 mg (%) N=724 | Placebo (%) N=379 |
 | Nervous System | Headache | 14.5 | 5.5 |
 | Gastrointestinal | Dyspepsia | 12.3 | 1.8 |
+
 | Table 2 Common adverse reactions (>1/100, <1/10) |  |  |  |
+| --- | --- | --- | --- |
 | System Organ Class | Adverse reaction | CIALIS 10-20 mg (%) N=724 | Placebo (%) N=379 |
 | Nervous System | Dizziness | 2.3 | 1.8 |
 | Vascular | Flushing | 4.1 | 1.6 |
@@ -109,7 +115,6 @@ Hypotension (more commonly reported when tadalafil is given to patients who are 
 
 Eye disorders: blurred vision, visual field defect, retinal vascular occlusion.
 Non-arteritic anterior ischemic optic neuropathy (NAION) has been reported at an unknown frequency.
-
 Respiratory system: epistaxis.
 
 Skin and subcutaneous tissues: hyperhidrosis (sweating).

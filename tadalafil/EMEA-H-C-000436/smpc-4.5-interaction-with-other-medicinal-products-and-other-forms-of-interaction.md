@@ -2,7 +2,6 @@
 
 Interaction studies were conducted with 10 mg and/or 20 mg tadalafil, as indicated below.
 With regard to those interaction studies where only the 10 mg tadalafil dose was used, clinically relevant interactions at higher doses cannot be completely ruled out.
-
 Effects of other medicinal products on tadalafil
 
 Tadalafil is principally metabolised by CYP3A4.
@@ -23,10 +22,9 @@ Other inducers of CYP3A4 such as phenobarbital, phenytoin and carbamazepine, may
 Effects of tadalafil on other medicinal products
 
 In clinical studies, tadalafil (5, 10 and 20 mg) was shown to augment the hypotensive effects of nitrates.
-Therefore, administration of CIALIS to patients who are using any form of organic nitrate is contraindicated (see section 4.3 Contraindications).
+Therefore, administration of CIALIS to patients who are using any form of organic nitrate is contraindicated (see section 4.3).
 Based on the results of a clinical study in which 150 subjects receiving daily doses of tadalafil 20 mg for 7 days and 0.4 mg sublingual nitroglycerin at various times, this interaction lasted for more than 24 hours and was no longer detectable when 48 hours had elapsed after the last tadalafil dose.
-Thus, in a patient prescribed any dose of CIALIS
-(2.5 mg-20 mg), where nitrate administration is deemed medically necessary in a life-threatening situation, at least 48 hours should have elapsed after the last dose of CIALIS before nitrate administration is considered.
+Thus, in a patient prescribed any dose of CIALIS (2.5 mg-20 mg), where nitrate administration is deemed medically necessary in a life-threatening situation, at least 48 hours should have elapsed after the last dose of CIALIS before nitrate administration is considered.
 In such circumstances, nitrates should only be administered under close medical supervision with appropriate haemodynamic monitoring.
 
 In clinical pharmacology studies, the potential for tadalafil to augment the hypotensive effects of antihypertensive agents was examined.
@@ -39,7 +37,6 @@ In study subjects whose blood pressure was not controlled, the reduction was gre
 In patients receiving concomitant antihypertensive medicines, tadalafil 20 mg may induce a blood pressure decrease, which (with the exception of alpha blockers -see below-) is, in general, minor and not likely to be clinically relevant.
 Analysis of phase 3 clinical trial data showed no difference in adverse events in patients taking tadalafil with or without antihypertensive medicines.
 However, appropriate clinical advice should be given to patients regarding a possible decrease in blood pressure when they are treated with antihypertensive medicines.
-
 In subjects receiving concomitant tadalafil (20 mg) and doxazosin (8 mg daily), an alpha (1)adrenergic receptor blocker, there was an augmentation of the blood-pressure-lowering effect of doxazosin.
 This effect was still present at 12 hours postdose and had generally disappeared at 24 hours.
 The number of subjects with potentially clinically significant standing-blood-pressure decreases was greater for the combination.
@@ -89,6 +86,7 @@ Although specific interactions have not been studied, other protease inhibitors,
 It can be expected that concomitant administration of other CYP3A4 inducers such as phenobarbital, phenytoin and carbamazepine, will also decrease plasma concentrations of tadalafil.
 
 In clinical studies, tadalafil (10 and 20 mg) was shown to augment the hypotensive effects of nitrates.
+Therefore, administration of CIALIS to patients who are using any form of organic nitrate is contraindicated (see section 4.3 Contraindications).
 Thus, in a patient prescribed CIALIS, where nitrate administration is deemed medically necessary in a life-threatening situation, at least 48 hours should have elapsed after the last dose of CIALIS before nitrate administration is considered.
 
 Tadalafil is not expected to cause clinically significant inhibition or induction of the clearance of drugs metabolised by CYP450 isoforms.

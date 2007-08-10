@@ -11,7 +11,7 @@ The maximum dose frequency is once per day.
 
 Tadalafil 10 and 20 mg is intended for use prior to anticipated sexual activity and it is not recommended for continuous daily use.
 
-In responder patients to on-demand regimen who anticipate a frequent use of Cialis (i.e., at least twice weekly) a once daily regimen with the lowest doses of Cialis might be considered suitable, based on patient choice and the physician’s judgement.
+In responder patients to on-demand regimen who anticipate a frequent use of CIALIS (i.e., at least twice weekly) a once daily regimen with the lowest doses of CIALIS might be considered suitable, based on patient choice and the physician’s judgement.
 
 In these patients the recommended dose is 5 mg taken once a day at approximately the same time of day.
 The dose may be decreased to 2.5 mg once a day based on individual tolerability.
@@ -36,12 +36,8 @@ There is no relevant indication for use of CIALIS in children.
 
 [CIALIS 5 mg film-coated tablets]
 
-Tadalafil 10 and 20 mg is intended for use prior to anticipated sexual activity and it is not recommended for continuous use.
-
 Once-a-day dosing of tadalafil is not recommended in patients with severe renal impairment.(See sections 4.
 4 and 5.2).
-
-Once-a-day dosing has not beenevaluated in patients with hepatic impairment; therefore, if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
 
 [CIALIS 10 mg film-coated tablets]
 
@@ -58,7 +54,6 @@ The recommended dose of CIALIS is 10 mg taken prior to anticipated sexual activi
 There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
 There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.
 (See sections 4.4 Special warnings and precautions for use and 5.2 Pharmacokinetic properties).
-
 Dosage adjustments are not required in diabetic patients.
 
 CIALIS should not be used in individuals below 18 years of age.

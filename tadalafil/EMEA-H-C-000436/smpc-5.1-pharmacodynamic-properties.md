@@ -33,15 +33,14 @@ These effects were not associated with changes in other parameters such as motil
 
 Tadalafil at doses of 2.5, 5, and 10 mg taken once a day has been evaluated in 3 clinical studies involving 853 patients of various ages (range 21-82 years) and ethnicities, with erectile dysfunction of various severities (mild, moderate, severe) and etiologies.
 Most patients in all three studies were responders to previous on-demand treatment with PDE5 inhibitors.
-In the two primary efficacy studies of general populations, the mean per-subject proportion of successful attempts were 57 and 67% on CIALIS 5mg on CIALIS 2.5mg as compared to 31 and 37% with placebo.
+In the two primary efficacy studies of general populations, the mean per-subject proportion of successful attempts were 57 and 67% on CIALIS 5mg, 50% on CIALIS 2.5mg as compared to 31 and 37% with placebo.
 In the study in patients with erectile dysfunction secondary to diabetes, the mean per-subject proportion of successful attempts were 41 and 46% on CIALIS 5mg and 2.5mg, respectively, as compared to 28% with placebo.
+
+In a 12-week study performed in 186 patients (142 tadalafil, 44 placebo) with erectile dysfunction secondary to spinal cord injury, tadalafil significantly improved the erectile function leading to a mean per-subject proportion of successful attempts in patients treated with tadalafil 10 or 20 mg (flexible-dose, on demand) of 48% as compared to 17% with placebo.
 
 [CIALIS 5 mg film-coated tablets]
 
-Pharmacotherapeutic group: Drugs used in erectile dysfunction, -ATC Code: G04B-E.
-
-In the two primary efficacy studies of general populations, the mean per-subject proportion of successful attemps were 57 and 67% on CIALIS 5mg on CIALIS 2.5mg as compared to 31 and 37% with placebo.
-In the study in patients with erectile dysfunction secondary to diabetes, the mean per-subject proportion of successful attemps were 41 and 46% on CIALIS 5mg and 2.5mg, respectively, as compared to 28% with placebo.
+Pharmacotherapeutic group: Drugs used in erectile dysfunction, ATC Code: G04B-E.
 
 [CIALIS 10 mg film-coated tablets]
 
