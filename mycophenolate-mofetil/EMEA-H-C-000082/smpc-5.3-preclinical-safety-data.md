@@ -14,30 +14,31 @@ The systemic exposure at this dose was approximately 0.5 times the clinical expo
 No effects on fertility or reproductive parameters were evident in the dams or in the subsequent generation.
 
 In teratology studies in rats and rabbits, foetal resorptions and malformations occurred in rats at 6 mg•kg-1•day-1 (including anophthalmia, agnathia, and hydrocephaly) and in rabbits at 90 mg•kg1•day-1 (including cardiovascular and renal anomalies, such as ectopia cordis and ectopic kidneys, and diaphragmatic and umbilical hernia), in the absence of maternal toxicity.
-The systemic exposure at these levels are approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g/day for cardiac transplant patients.
+The systemic exposure at these levels is approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day for renal transplant patients and approximately 0.3 times the clinical exposure at the recommended clinical dose of 3 g/day for cardiac transplant patients.
 
 Refer to section 4.6.
+
 The haematopoietic and lymphoid systems were the primary organs affected in toxicology studies conducted with mycophenolate mofetil in the rat, mouse, dog and monkey.
 These effects occurred at systemic exposure levels that are equivalent to or less than the clinical exposure at the recommended dose of 2 g/day for renal transplant recipients.
 Gastrointestinal effects were observed in the dog at systemic exposure levels equivalent to or less than the clinical exposure at the recommended dose.
 Gastrointestinal and renal effects consistent with dehydration were also observed in the monkey at the highest dose (systemic exposure levels equivalent to or greater than clinical exposure).
 The nonclinical toxicity profile of mycophenolate mofetil appears to be consistent with adverse events observed in human clinical trials which now provide safety data of more relevance to the patient population (see section 4.8).
 
-[CellCept 500 mg powder for concentrate for solution for infusion]
+[CellCept 500 mg powder for concentrate for solution for infusion.]
 
 The highest dose tested in the animal carcinogenicity studies resulted in approximately 2 – 3 times the systemic exposure (AUC or Cmax) observed in renal transplant patients at the recommended clinical dose of 2 g/day.
 
 The systemic exposure at this dose represents 2 – 3 times the clinical exposure at the recommended clinical dose of 2 g/day.
 The systemic exposure at this dose was approximately 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day.
 
-The systemic exposure at these levels are approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day.
+The systemic exposure at these levels is approximately equivalent to or less than 0.5 times the clinical exposure at the recommended clinical dose of 2 g/day.
 
 These effects occurred at systemic exposure levels that are equivalent to or less than the clinical exposure at the recommended dose of 2 g/day.
 
-[CellCept 1 g/5 ml powder for oral suspension]
+[CellCept 1 g/5 mL powder for oral suspension.]
 
 (all sentences already above)
 
-[CellCept 500 mg tablets]
+[CellCept 500 mg tablets.]
 
 (all sentences already above)
