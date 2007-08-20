@@ -13,7 +13,6 @@ A cardiovascular outcome study of pioglitazone has been performed in patients un
 Pioglitazone or placebo was added to existing antidiabetic and cardiovascular therapy for up to 3.5 years.
 This study showed an increase in reports of heart failure, however this did not lead to an increase in mortality in this study.
 Caution should be exercised in patients over 75 years because of the limited experience in this patient group.
-
 Monitoring of liver function:
 
 There have been rare reports of hepatocellular dysfunction during post-marketing experience (see section 4.8).
@@ -52,6 +51,18 @@ It is unclear whether or not there is a direct association between pioglitazone 
 
 Others:
 
+An increased incidence in bone fractures in women was seen in a pooled analysis of adverse event reports of bone fracture from randomised, controlled, double blind clinical trials in over 8100 pioglitazone and 7400 comparator treated patients, on treatment for up to 3.5 years.
+Fractures were observed in 2.6% of women taking pioglitazone compared to 1.7% of women treated with a comparator.
+No increase in fracture rates was observed in men treated with pioglitazone (1.3%) versus comparator (1.5%).
+
+The fracture incidence calculated was 1.9 fractures per 100 patient years in women treated with pioglitazone and 1.1 fractures per 100 patient years in women treated with a comparator.
+The observed excess risk of fractures for women in this dataset on pioglitazone is therefore 0.8 fractures per 100 patient years of use.
+
+In the 3.5 year cardiovascular risk PROactive study, 44/870 (5.1%; 1.0 fractures per 100 patient years) of pioglitazone-treated female patients experienced fractures compared to 23/905 (2.5%; 0.5 fractures per 100 patient years) of female patients treated with comparator.
+No increase in fracture rates was observed in men treated with pioglitazone (1.7%) versus comparator (2.1%).
+
+The risk of fractures should be considered in the long term care of women treated with pioglitazone.
+
 As a consequence of enhancing insulin action, pioglitazone treatment in patients with polycystic ovarian syndrome may result in resumption of ovulation.
 These patients may be at risk of pregnancy.
 Patients should be aware of the risk of pregnancy and if a patient wishes to become pregnant or if pregnancy occurs, the treatment should be discontinued (see section 4.6).
@@ -59,4 +70,5 @@ Patients should be aware of the risk of pregnancy and if a patient wishes to bec
 Pioglitazone should be used with caution during concomitant administration of cytochrome P450 2C8 inhibitors (e.g. gemfibrozil) or inducers (e.g. rifampicin).
 Glycaemic control should be monitored closely.
 Pioglitazone dose adjustment within the recommended posology or changes in diabetic treatment should be considered (see section 4.5).
+
 Actos tablets contain lactose monohydrate and therefore should not be administered to patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption.

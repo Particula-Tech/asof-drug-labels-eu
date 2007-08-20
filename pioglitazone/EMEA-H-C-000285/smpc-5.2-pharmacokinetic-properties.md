@@ -22,6 +22,7 @@ This is predominantly via cytochrome P450 2C8 although other isoforms may be inv
 Three of the six identified metabolites are active (M-II, M-III, and M-IV).
 When activity, concentrations and protein binding are taken into account, pioglitazone and metabolite M-III contribute equally to efficacy.
 On this basis M-IV contribution to efficacy is approximately three-fold that of pioglitazone, whilst the relative efficacy of M-II is minimal.
+
 In vitro studies have shown no evidence that pioglitazone inhibits any subtype of cytochrome P450.
 There is no induction of the main inducible P450 isoenzymes 1A, 2C8/9, and 3A4 in man.
 
@@ -37,7 +38,6 @@ The mean plasma elimination half-life of unchanged pioglitazone in man is 5 to 6
 Elderly:
 
 Steady state pharmacokinetics are similar in patients age 65 and over and young subjects.
-
 Patients with renal impairment:
 
 In patients with renal impairment, plasma concentrations of pioglitazone and its metabolites are lower than those seen in subjects with normal renal function, but oral clearance of parent substance is similar.
