@@ -24,7 +24,16 @@ If indicated, therapy should either be permanently discontinued or temporarily s
 
 Metastatic breast cancer (mBC)
 
-The recommended dose of Avastin is 10 mg/kg given once every 2 weeks or 15 mg/kg given once every 3 weeks as an intravenous infusion.
+The recommended dose of Avastin is 10 mg/kg of body weight given once every 2 weeks or 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
+
+Non-small cell lung cancer (NSCLC)
+
+Avastin is administered in addition to platinum-based chemotherapy for up to 6 cycles of treatment followed by Avastin as a single agent until disease progression.
+
+The recommended dose of Avastin is 7.5 mg/kg or 15 mg/k of body weight given once every 3 weeks as an intravenous infusion.
+
+Clinical benefit in NSCLC patients has been demonstrated with both 7.5mg/kg and 15mg/kg doses.
+For details refer to section 5.1 Pharmacodynamic Properties, Non-small cell lung cancer (NSCLC).
 
 Special populations
 

@@ -31,6 +31,7 @@ Enrollment in Arm 3 was discontinued, as pre-specified, once safety of Avastin w
 All treatments were continued until disease progression.
 The overall mean age was 59.4 years; 56.6% of patients had an ECOG performance status of 0, 43% had a value of 1 and 0.4% had a value of 2.
 15.5% had received prior radiotherapy and 28.4% prior chemotherapy.
+
 Table 2 Treatment regimens in study AVF2107g
 
 |  | Treatment | Starting Dose | Schedule |
@@ -60,6 +61,7 @@ Table 3 Efficacy results for study AVF2107g
 | 95% Confidence Interval | 14.29 – 16.99 | 18.46 – 24.18 |
 | Hazard ratiob |  | 0.660 |
 | p-value |  | 0.00004 |
+|  | Arm 1 IFL + Placebo | Arm 2 IFL + Avastina |
 | Progression-free survival |  |  |
 | Median time (months) | 6.2 | 10.6 |
 | Hazard ratio |  | 0.54 |
@@ -74,6 +76,7 @@ Table 3 Efficacy results for study AVF2107g
 
 a 5 mg/kg every 2 weeks.
 b Relative to control arm.
+
 Among the 110 patients randomised to Arm 3 (5-FU/FA + Avastin), the median overall survival was 18.3 months, median progression free survival was 8.8 months, overall response rate was 39% and median duration of response was 8.5 months.
 
 Avastin in Combination with 5-FU/FA Chemotherapy for the First-Line Treatment of Metastatic Carcinoma of the Colon or Rectum in patients who were not optimal candidates for first-line irinotecan treatment (AVF2192g): This was a phase II randomised, double-blind, active-controlled clinical trial evaluating the efficacy and safety of Avastin in combination with 5-FU/FA as first-line treatment for metastatic colorectal cancer in patients who were not optimal candidates for first-line irinotecan treatment.
@@ -97,7 +100,6 @@ The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher ob
 These efficacy data are consistent with the results from study AVF2107g.
 
 The efficacy data from studies AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 4.
-
 Table 4: Efficacy results for studies AVF0780g and AVF2192g
 
 |  | AVF0780g |  |  | AVF2192g |  |
@@ -115,7 +117,6 @@ Table 4: Efficacy results for studies AVF0780g and AVF2192g
 | p-value | - | 0.0049 | 0.217 |  | 0.0002 |
 | Overall response rate |  |  |  |  |  |
 | Rate (percent) | 16.7 | 40.0 | 24.2 | 15.2 | 26 |
-|  | 5-FU/FA | 5-FU/FA + Avastina | 5-FU/FA + Avastinb | 5-FU/FA + placebo | 5-FU/FA + Avastin |
 | 95% CI | 7.0 − 33.5 | 24.4 − 57.8 | 11.7 – 42.6 | 9.2 - 23.9 | 18.1 - 35.6 |
 | p-value |  | 0.029 | 0.43 |  | 0.055 |
 | Duration of response |  |  |  |  |  |
@@ -142,7 +143,6 @@ In situations where early discontinuation of chemotherapy was required, treatmen
 The patient characteristics were similar across the study arms.
 The primary endpoint of this trial was progression free survival (PFS), based on study investigators’ assessment of disease progression.
 The results of this study are presented in Table 5.
-
 Table 5 Study E2100 Efficacy Results:
 
 |  | Paclitaxel Paclitaxel + Avastin (n=354) (n=368) |
@@ -152,3 +152,51 @@ Table 5 Study E2100 Efficacy Results:
 
 The clinical benefit of Avastin as measured by PFS was seen in all pre-specified subgroups tested (including disease-free interval, number of metastatic sites, prior receipt of adjuvant chemotherapy and estrogen receptor (ER) status).
 In an exploratory analysis, the extent of Avastin benefit was less pronounced in the subgroup of patients >65 years of age.
+
+Non-small cell lung cancer (NSCLC)
+
+The safety and efficacy of Avastin, in addition to platinum-based chemotherapy, in the first-line treatment of patients with non-squamous non-small cell lung cancer (NSCLC), was investigated in studies E4599 and BO17704.
+An overall survival benefit has been demonstrated in study E4599 with a 15 mg/kg/q3wk dose of bevacizumab.
+Study BO17704 has demonstrated that both 7.5 mg/kg/q3wk and 15 mg/kg/q3wk bevacizumab doses increase progression free survival and response rate.
+Due to the short duration of follow-up in study BO17704 no conclusions can be drawn regarding a benefit in overall survival.
+
+E4599 was an open-label, randomised, active-controlled, multicentre clinical trial evaluating Avastin as first-line treatment of patients with locally advanced (stage IIIb with malignant pleural effusion), metastatic or recurrent NSCLC other than predominantly squamous cell histology.
+
+Patients were randomized to platinum-based chemotherapy (paclitaxel 200 mg/m2 and carboplatin AUC = 6.0, both by IV infusion) (PC) on day 1 of every 3-week cycle for up to 6 cycles or PC in combination with Avastin at a dose of 15 mg/kg IV infusion day 1 of every 3-week cycle.
+After completion of six cycles of carboplatin-paclitaxel chemotherapy or upon premature discontinuation of chemotherapy, patients on the Avastin + carboplatin–paclitaxel arm continued to receive Avastin as a single agent every 3 weeks until disease progression.
+878 patients were randomised to the two arms.
+
+During the study, of the patients who received trial treatment, 32.2% (136/422) of patients received 7-12 administrations of Avastin and 21.1% (89/422) of patients received 13 or more administrations of Avastin.
+The primary endpoint was duration of survival.
+Results are presented in Table 6.
+
+Table 6 Efficacy results for study E4599
+
+|  | Arm 1 | Arm 2 |
+| --- | --- | --- |
+|  | Carboplatin/ Paclitaxel | Carboplatin/ Paclitaxel + Avastin 15 mg/kg q 3 weeks |
+| Number of Patients | 444 | 434 |
+| Overall Survival Median (months) Hazard ratio | 10.3 | 12.3 0.80 (p=0.003) 95% CI (0.69, 0.93) |
+| Progression-Free Survival Median (months) Hazard ratio | 4.8 | 6.4 0.65 (p<0.0001) 95% CI (0.56, 0.76) |
+| Overall Response Rate Rate (percent) | 12.9 | 29.0 (p<0.0001) |
+
+In an exploratory analysis, the extent of Avastin benefit on overall survival was less pronounced in the subgroup of patients who did not have adenocarcinoma histology.
+
+Study BO17704 was a randomised, double-blind phase III study of Avastin in addition to cisplatin and gemcitabine versus placebo, cisplatin and gemcitabine in patients with locally advanced (stage IIIb with supraclavicular lymph node metastases or with malignant pleural or pericardial effusion), metastatic or recurrent non-squamous NSCLC, who had not received prior chemotherapy.
+The primary endpoint was progression free survival (PFS).
+
+Patients were randomised to platinum-based chemotherapy, cisplatin 80 mg/m2 i.v. infusion on day 1 and gemcitabine 1250 mg/m2 i.v. infusion on days 1 and 8 of every 3-week cycle for up to 6 cycles (CG) with placebo or CG with Avastin at a dose of 7.5 or 15 mg/kg IV infusion day 1 of every 3-week cycle.
+In the Avastin-containing arms, patients could receive Avastin as a single-agent every 3 weeks until disease progression or unacceptable toxicity.
+Study results show that 94% (277 / 296) of eligible patients went on to receive single agent bevacizumab at cycle 7.
+
+The efficacy results are presented in Table 7.
+
+Table 7 Efficacy results for study BO17704
+
+|  | Cisplatin/Gemcitabine + placebo | Cisplatin/Gemcitabine + Avastin 7.5 mg/kg q 3 weeks | Cisplatin/Gemcitabine + Avastin 15 mg/kg q 3 weeks |
+| --- | --- | --- | --- |
+| Number of Patients | 347 | 345 | 351 |
+| Progression-Free Survival Median (months) Hazard ratio | 6.1 | 6.7 (p = 0.0026) 0.75 [0.62;0.91] | 6.5 (p = 0.0301) 0.82 [0.68;0.98] |
+| Best Overall Response Rate a | 20.1% | 34.1% (p< 0.0001) | 30.4% (p=0.0023) |
+
+a patients with measurable disease at baseline
