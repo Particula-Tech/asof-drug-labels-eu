@@ -15,8 +15,8 @@ Administration of Emtriva 200 mg hard capsules with a high-fat meal or administr
 
 Distribution: In vitro binding of emtricitabine to human plasma proteins was < 4% and independent of concentration over the range of 0.02-200 µg/ml.
 The mean plasma to blood concentration ratio was approximately 1.0 and the mean semen to plasma concentration ratio was approximately 4.0.
-
 The apparent volume of distribution after intravenous administration of emtricitabine was 1.4±0.3 l/kg, indicating that emtricitabine is widely distributed throughout the body to both intracellular and extracellular fluid spaces.
+
 Biotransformation: There is limited metabolism of emtricitabine.
 The biotransformation of emtricitabine includes oxidation of the thiol moiety to form the 3'-sulphoxide diastereomers (approximately 9% of dose) and conjugation with glucuronic acid to form 2'-O-glucuronide (approximately 4% of dose).
 

@@ -6,9 +6,10 @@ In three paediatric studies, treatment-naïve (n=123) and treatment-experienced 
 
 The adverse reactions with suspected (at least possible) relationship to treatment in adults are listed below by body system organ class and absolute frequency.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-Frequencies are defined as very common (≥ 1/10) or common (≥ 1/100, < 1/10).
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100, < 1/10) or uncommon (≥ 1/1000, < 1/100).
 Blood and lymphatic system disorders:
 Common: neutropenia
+Uncommon: anaemia
 
 Metabolism and nutrition disorders:
 Common: hypertriglyceridaemia, hyperglycaemia
@@ -46,7 +47,7 @@ However, as would be expected in this patient population, elevations in AST and 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see section 4.4).
-
 In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).
