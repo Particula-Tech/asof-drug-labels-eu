@@ -35,7 +35,7 @@ To differentiate between elevations in aminotransferases due to response to trea
 
 Resistance and specific precaution for lamivudine-refractory patients: mutations in the HBV polymerase that encode lamivudine-resistance substitutions may lead to the subsequent emergence of secondary substitutions, including those associated with entecavir associated resistance (ETVr).
 Virological response should be closely monitored in the lamivudine-refractory population in general and appropriate resistance testing should be performed.
-In a small percentage of patients previously treated with lamivudine, ETVr substitutions at residues rtT184, rtS202 and rtM250 were present at baseline or emerged during entecavir therapy for up to 96 weeks.
+In a small percentage of patients previously treated with lamivudine, ETVr substitutions at residues rtT184, rtS202 and rtM250 were present at baseline or emerged during entecavir therapy for up to 144 weeks.
 The long term clinical significance of these variants is yet to be fully established (see section 5.1).
 
 Liver transplant recipients: there are limited data on efficacy and safety of entecavir in liver transplant recipients.
