@@ -17,6 +17,7 @@ However, in an in vivo single-dose study in conscious telemetered monkeys, there
 
 Dasatinib was not mutagenic in in vitro bacterial cell assays (Ames test) and was not genotoxic in an in vivo rat micronucleus study.
 Dasatinib was clastogenic in vitro to dividing Chinese hamster ovary cells.
+
 In embryofoetal development studies, dasatinib induced embryolethality with associated decreases in litter size in rats, and foetal skeletal alterations in both rats and rabbits.
 These effects in both rats and rabbits occurred at doses that did not produce maternal toxicity.
 The effects of dasatinib on male and female fertility are not known.

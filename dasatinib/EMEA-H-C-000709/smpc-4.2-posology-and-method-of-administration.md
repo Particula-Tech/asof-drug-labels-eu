@@ -2,15 +2,18 @@
 
 Therapy should be initiated by a physician experienced in the diagnosis and treatment of patients with leukaemia.
 
-The recommended dosage of SPRYCEL is 70 mg twice daily (BID), administered orally in the morning and in the evening, with or without a meal.
+The recommended starting dosage of SPRYCEL for chronic phase CML is 100 mg once daily, administered orally, consistently either in the morning or in the evening (see sections 4.4, 4.8 and 5.1).
+The recommended starting dosage of SPRYCEL for accelerated, myeloid or lymphoid blast phase (advanced phase) CML or Ph+ALL is 70 mg twice daily administered orally, one tablet in the morning and one in the evening (see sections 4.8 and 5.1).
 Tablets must not be crushed or cut, they must be swallowed whole.
+SPRYCEL can be taken with or without a meal.
 To achieve the recommended dosage, SPRYCEL is available as 20 mg, 50 mg and 70 mg film-coated tablets.
+Dose increase or reduction is recommended based on patient response and tolerability.
 
 Treatment duration: in clinical trials, treatment with SPRYCEL was continued until disease progression or until no longer tolerated by the patient.
 The effect of stopping treatment after the achievement of a complete cytogenetic response (CCyR) has not been investigated.
 
 Dose escalation:
-In clinical trials of adult CML and Ph+ ALL patients, dose escalation to 90 mg BID (chronic phase CML) or 100 mg BID (accelerated and blast phase CML or Ph+ ALL) was allowed in patients who did not achieve a haematologic or cytogenetic response.
+In clinical trials of adult CML and Ph+ ALL patients, dose escalation to 140 mg once daily (chronic phase CML) or 100 mg twice daily (advanced phase CML or Ph+ ALL) was allowed in patients who did not achieve a haematologic or cytogenetic response at the recommended starting dosage.
 Dose adjustment for undesirable effects:
 
 Myelosuppression:
@@ -19,10 +22,11 @@ Platelet transfusion and red cell transfusion were used as appropriate.
 Haematopoetic growth factor has been used in patients with resistant myelosuppression.
 Guidelines for dose modifications are summarized in Table 1.
 
-| Table 1 Dose adjustments for neutropenia and thrombocytopenia |  |  |
+Table 1 Dose adjustments for neutropenia and thrombocytopenia
+
+| Chronic Phase CML (starting dose 100 mg once daily) | ANC < 0.5 x 109/l and/or Platelets < 50 x 109/l | 1 Stop treatment until ANC ≥ 1.0 x 109/l and platelets ≥ 50 x 109/l. 2 Resume treatment at the original starting dose. 3 If platelets < 25 x 109/l and/or recurrence of ANC < 0.5 x 109/l for > 7 days, repeat step 1 and resume treatment at a reduced dose of 80 mg once daily (second episode) or discontinue (third episode). |
 | --- | --- | --- |
-| Chronic Phase CML (starting dose 70 mg BID) | ANC < 0.5 x 109/l and/or Platelets < 50 x 109/l | 1 Stop treatment until ANC ≥ 1.0 x 109/l and platelets ≥ 50 x 109/l. 2 Resume treatment at the original starting dose. 3 If platelets < 25 x 109/l and/or recurrence of ANC < 0.5 x 109/l for > 7 days, repeat step 1 and resume treatment at a reduced dose (50 mg BID if starting dose was 70 mg BID, 40 mg BID if previously reduced to 50 mg BID). |
-| Accelerated and Blast Phase CML and Ph+ ALL (starting dose 70 mg BID) | ANC < 0.5 x 109/l and/or Platelets < 10 x 109/l | 1 Check if cytopenia is related to leukaemia (marrow aspirate or biopsy). 2 If cytopenia is unrelated to leukaemia, stop treatment until ANC ≥ 1.0 x 109/l and platelets ≥ 20 x 109/l and resume at the original starting dose. 3 If recurrence of cytopenia, repeat step 1 and resume treatment at a reduced dose of 50 mg BID (second episode) or 40 mg BID (third episode). 4 If cytopenia is related to leukaemia, consider dose escalation to 100 mg BID. |
+| Accelerated and Blast Phase CML and Ph+ ALL (starting dose 70 mg twice daily) | ANC < 0.5 x 109/l and/or Platelets < 10 x 109/l | 1 Check if cytopenia is related to leukaemia (marrow aspirate or biopsy). 2 If cytopenia is unrelated to leukaemia, stop treatment until ANC ≥ 1.0 x 109/l and platelets ≥ 20 x 109/l and resume at the original starting dose. 3 If recurrence of cytopenia, repeat step 1 and resume treatment at a reduced dose of 50 mg twice daily (second episode) or 40 mg twice daily (third episode). 4 If cytopenia is related to leukaemia, consider dose escalation to 100 mg twice daily. |
 
 ANC: absolute neutrophil count
 
@@ -31,7 +35,6 @@ If a severe non-haematological adverse reaction develops with SPRYCEL, treatment
 Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the initial severity of the event.
 
 Paediatric use: SPRYCEL is not recommended for use in children and adolescents below 18 years of age due to a lack of data on safety and efficacy (see section 5.1).
-
 Elderly patients: no clinically relevant age-related pharmacokinetic differences have been observed in these patients.
 No specific dose recommendation is necessary in the elderly.
 

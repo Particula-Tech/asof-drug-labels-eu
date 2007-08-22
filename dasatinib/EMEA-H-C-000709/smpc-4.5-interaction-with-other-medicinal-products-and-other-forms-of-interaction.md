@@ -4,7 +4,6 @@ Active substances that may increase dasatinib plasma concentrations:
 In vitro studies indicate that dasatinib is a CYP3A4 substrate.
 Concomitant use of dasatinib and medicinal products which potently inhibit CYP3A4 (e.g. ketoconazole, itraconazole, erythromycin, clarithromycin, ritonavir, telithromycin) may increase exposure to dasatinib.
 Therefore, in patients receiving SPRYCEL, systemic administration of a potent CYP3A4 inhibitor is not recommended.
-
 At clinically relevant concentrations, dasatinib's binding to plasma proteins is approximately 96% on the basis of in vitro experiments.
 No studies have been performed to evaluate dasatinib interaction with other protein-bound medicinal products.
 The potential for displacement and its clinical relevance are unknown.
@@ -15,10 +14,10 @@ Also other medicinal products that induce CYP3A4 activity (e.g. dexamethazone, p
 Therefore, concomitant use of potent CYP3A4 inducers with SPRYCEL is not recommended.
 In patients in whom rifampicin or other CYP3A4 inducers are indicated, alternative agents with less enzyme induction potential should be used.
 
-Histamine-2 blockers and proton pump inhibitors:
-Long-term suppression of gastric acid secretion by H2 blockers or proton pump inhibitors (e.g. famotidine and omeprazole) is likely to reduce dasatinib exposure.
+Histamine-2 antagonists and proton pump inhibitors:
+Long-term suppression of gastric acid secretion by H2 antagonists or proton pump inhibitors (e.g. famotidine and omeprazole) is likely to reduce dasatinib exposure.
 In a single dose study in healthy subjects, the administration of famotidine 10 hours prior to a single dose of SPRYCEL reduced dasatinib exposure by 61%.
-The use of antacids should be considered in place of H2 blockers or proton pump inhibitors in patients receiving SPRYCEL therapy (see section 4.4).
+The use of antacids should be considered in place of H2 antagonists or proton pump inhibitors in patients receiving SPRYCEL therapy (see section 4.4).
 
 Antacids:
 Nonclinical data demonstrate that the solubility of dasatinib is pH dependent.

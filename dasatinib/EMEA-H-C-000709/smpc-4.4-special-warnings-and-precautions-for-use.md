@@ -7,7 +7,8 @@ Therefore, there is a potential for interaction with other concomitantly adminis
 Concomitant use of dasatinib and medicinal products that potently inhibit CYP3A4 (e.g. ketoconazole, itraconazole, erythromycin, clarithromycin, ritonavir, telithromycin) may increase exposure to dasatinib.
 Therefore, in patients receiving SPRYCEL, coadministration of a potent CYP3A4 inhibitor is not recommended (see section 4.5).
 
-Concomitant use of dasatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum, also known as St. John's Wort) may substantially reduce exposure to dasatinib, potentially increasing the risk of therapeutic failure.
+Concomitant use of dasatinib and medicinal products that induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital or Hypericum perforatum, also known as
+St. John's Wort) may substantially reduce exposure to dasatinib, potentially increasing the risk of therapeutic failure.
 Therefore, in patients receiving SPRYCEL, coadministration of alternative therapeutic agents with less potential for CYP3A4 induction should be selected (see section 4.5).
 
 Concomitant use of dasatinib and a CYP3A4 substrate may increase exposure to the CYP3A4 substrate.
@@ -22,22 +23,27 @@ Caution is recommended when administering SPRYCEL to patients with moderate to s
 
 Important Adverse Reactions:
 Myelosuppression: treatment with SPRYCEL is associated with anaemia, neutropenia and thrombocytopenia.
-Their occurrence is more frequent in patients with advanced phase CML or Ph+ ALL than in chronic phase CML.
+Their occurrence is more frequent in patients with advanced phase CML or
+Ph+ ALL than in chronic phase CML.
 Complete blood counts should be performed weekly for the first 2 months, and then monthly thereafter, or as clinically indicated.
 Myelosuppression was generally reversible and usually managed by withholding SPRYCEL temporarily or by dose reduction (see sections 4.2 and 4.8 Laboratory Test Abnormalities, Haematology).
+In a Phase III dose-optimisation study in patients with chronic phase CML, grade 3 or 4 myelosuppression was reported more frequently in patients treated with 70 mg twice daily than in patients treated with 100 mg once daily; fluid retention was also reported more frequently in patients treated with twice daily schedule compared to once daily (see section 4.8).
+Therefore, the starting dose of 100 mg once daily is the recommended initial dosage for patients with chronic phase CML.
 
-Bleeding: severe central nervous system (CNS) haemorrhage occurred in < 1% of patients.
-Three cases were fatal and 2 of them were associated with CTC grade 4 thrombocytopenia.
-Severe gastrointestinal haemorrhage occurred in 5% of patients and generally required drug interruptions and transfusions.
+Bleeding: in all clinical studies, severe central nervous system (CNS) haemorrhage occurred in < 1% of patients.
+Seven cases were fatal and 4 of them were associated with CTC grade 4 thrombocytopenia.
+Severe gastrointestinal haemorrhage occurred in 4% of patients and generally required drug interruptions and transfusions.
 Other severe haemorrhage occurred in 2% of patients.
 Most bleeding related events were typically associated with severe thrombocytopenia (see section 4.8).
 
 Patients were excluded from participation in SPRYCEL clinical trials if they took medicinal products that inhibit platelet function or anticoagulants.
 Caution should be exercised if patients are required to take medicinal products that inhibit platelet function or anticoagulants.
 
-Fluid retention: SPRYCEL is associated with fluid retention, which was severe in 7% of patients, including severe pleural and pericardial effusion reported in 4% and < 1% of patients, respectively.
-Severe ascites and generalised oedema were each reported in < 1% of patients.
-Severe non-cardiogenic pulmonary oedema was reported in < 1% of patients.
+Fluid retention: SPRYCEL is associated with fluid retention.
+In all clinical studies, severe fluid retention was reported in 6% of patients, including severe pleural and pericardial effusion reported in 4% and 1% of patients, respectively.
+Severe ascites and generalised oedema were each reported in
+< 1% of patients.
+Severe non-cardiogenic pulmonary oedema was reported in 1% of patients.
 Patients who develop symptoms suggestive of pleural effusion such as dyspnoea or dry cough should be evaluated by chest X-ray.
 Severe pleural effusion may require thoracocentesis and oxygen therapy.
 Fluid retention events were typically managed by supportive care measures that include diuretics and short courses of steroids (see section 4.8).
@@ -53,5 +59,5 @@ Hypokalemia or hypomagnesemia should be corrected prior to SPRYCEL administratio
 Patients with uncontrolled or significant cardiovascular disease were not included in the clinical studies.
 
 Lactose:
-This medicinal product contains 189 mg of lactose monohydrate in 140 mg daily dose.
+This medicinal product contains 135 mg of lactose monohydrate in a 100 mg daily dose and 189 mg of lactose monohydrate in a 140 mg daily dose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
