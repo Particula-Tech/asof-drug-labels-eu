@@ -1,7 +1,8 @@
 # 4.8 Undesirable effects
 
 The adverse reactions considered at least possibly related to treatment are listed below, by body system organ class, and absolute frequency.
-Frequencies are defined as common (>1/100, <1/10) or uncommon (>1/1,000, <1/100).
+Frequencies are defined as common (≥1/100, <1/10) or uncommon (≥1/1,000, <1/100).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Blood and lymphatic system disorders
 Common: thrombocytopenia, leucopenia, granulocytopenia
@@ -12,7 +13,7 @@ Common: conjunctivitis, corneal opacity, keratitis, photophobia, eye pain
 Uncommon: blepharitis
 
 Skin and subcutaneous tissue disorders
-Uncommon: pruritus, exfoliative dermatitis, erythematous rash
+Uncommon: exfoliative dermatitis, erythematous rash, pruritus
 
 Nitisinone treatment is associated with elevated tyrosine levels.
 Elevated levels of tyrosine have been associated with corneal opacities and hyperkeratotic lesions.
@@ -24,4 +25,4 @@ Uncommon: leucocytosis
 
 [Orfadin 10 mg hard capsules.]
 
-(all sentences already above)
+Uncommon: pruritus, exfoliative dermatitis, erythematous rash
