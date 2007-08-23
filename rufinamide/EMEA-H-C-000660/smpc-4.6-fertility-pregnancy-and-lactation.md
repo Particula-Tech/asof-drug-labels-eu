@@ -19,5 +19,6 @@ Physicians should try to ensure that appropriate contraception is used, and shou
 
 If women treated with rufinamide plan to become pregnant, the indication of this product should be carefully weighed.
 During pregnancy, an effective antiepileptic rufinamide treatment must not be interrupted, since the aggravation of the illness is detrimental to both the mother and the foetus.
+
 Is not known if rufinamide is excreted in human breast milk.
 Due to the potential harmful effects for the breast fed infant, the lactation should be avoided during maternal treatment with rufinamide.

@@ -5,6 +5,7 @@ Pharmacotherapeutic group: anti-epileptics, carboxamide derivatives; ATC-code: N
 Mechanism of action
 Rufinamide modulates the activity of sodium channels, prolonging their inactive state.
 Rufinamide is active in a range of animal models of epilepsy.
+
 Clinical experience
 Inovelon was administered in a double blind, placebo-controlled study, at doses of up to 45 mg/kg/day for 84 days, to 139 patients with inadequately controlled seizures associated with Lennox-Gastaut Syndrome (including both atypical absence seizures and drop attacks).Male or female patients (between 4 and 30 years of age) were included if they were being treated with 1 to 3 concomitant fixed-dose antiepileptic drugs.
 Each patient had to have at least 90 seizures in the month prior to study entry.

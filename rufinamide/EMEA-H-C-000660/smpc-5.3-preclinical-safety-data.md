@@ -12,7 +12,6 @@ Inovelon was not teratogenic in mice, rats or rabbits.
 Rufinamide was not genotoxic and had no carcinogenic potential.
 Adverse effects not observed in clinical studies, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to human use was myelofibrosis of the bone marrow in the mouse carcinogenicity study.
 Benign bone neoplasms (osteomas) and hyperostosis seen in mice were considered a result of the activation of a mouse specific virus by fluoride ions released during the oxidative metabolism of rufinamide.
-
 Regarding the immunotoxic potential, small thymus and thymic involution were observed in dogs in a 13 week study with significant response at the high dose in male.
 In the 13 week study, female bone marrow and lymphoid changes are reported at the high dose with a weak incidence.
 In rats decreased cellularity of the bone marrow and thymic atrophy were observed only in the carcinogenicity study.

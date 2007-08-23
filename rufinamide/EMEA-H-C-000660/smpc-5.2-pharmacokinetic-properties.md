@@ -21,7 +21,6 @@ Rufinamide has demonstrated little or no significant capacity in-vitro to act as
 Elimination
 The plasma elimination half-life is approximately 6-10 hours in healthy subjects and patients with epilepsy.
 When given twice daily at 12-hourly intervals, rufinamide accumulates to the extent predicted by its terminal half-life, indicating that the pharmacokinetics of rufinamide are time-independent (i.e. no autoinduction of metabolism).
-
 In a radiotracer study in three healthy volunteers, the parent compound (rufinamide) was the main radioactive component in plasma, representing about 80% of the total radioactivity, and the metabolite CGP 47292 constituting only about 15%.
 Renal excretion was the predominant route of elimination for drug related material, accounting for 84.7% of the dose.
 

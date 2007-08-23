@@ -21,7 +21,7 @@ Rufinamide appears not to have clinically relevant effect on carbamazepine, lamo
 Since rufinamide may decrease phenytoin clearance and increase average steady state plasma concentrations of co-administered phenytoin, consideration should be given to reducing the dose of phenytoin.
 
 Oral contraceptives
-Co-administration of rufinamide 800 mg b.i.d. and a combined oral contraceptive (ethinyloestradiol 35 µg and norethindrone 1 mg) for 14 days resulted in a mean decrease in the ethinyl estradiol AUC0-24 of 22% and in norethindrone AUC0-24 of 14%.
+Co-administration of rufinamide 800 mg b.i.d. and a combined oral contraceptive (ethinyloestradiol 35 μg and norethindrone 1 mg) for 14 days resulted in a mean decrease in the ethinyl estradiol AUC0-24 of 22% and in norethindrone AUC0-24 of 14%.
 Studies with other oral or implant contraceptives have not been conducted.
 Women of child-bearing potential using hormonal contraceptives are advised to use an additional safe and effective contraceptive method (see Section 4.4 and 4.6).
 

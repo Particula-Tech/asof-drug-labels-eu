@@ -16,11 +16,15 @@ Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 < 1/10), u
 | Immune system disorders |  |  | Hypersensitivity* |  |
 | Metabolism and Nutrition disorders |  | Anorexia Eating disorder Decreased appetite |  |  |
 | Psychiatric disorders |  | Anxiety Insomnia |  |  |
-| Nervous system disorders | Somnolence* Headache Dizziness* | Status epilepticus* Convulsion Coordination Abnormal* Nystagmus Psychomotor hyperactivity Tremor |  |  |
-| Eye Disorders |  | Diplopia Vision blurred |  |  |
+| Nervous system disorders | Somnolence* Headache Dizziness* | Status epilepticus* Convulsion Coordination Abnormal* |  |  |
 
 System Organ
 Class Very Common Common Uncommon Rare
+Nystagmus
+Psychomotor hyperactivity
+Tremor
+Eye Disorders Diplopia
+Vision blurred
 Ear and Vertigo
 Labyrinth
 disorders
@@ -56,16 +60,28 @@ Contusion
 
 [Inovelon 200 mg film-coated tablets]
 
+Infections and Pneumonia
+Infestations Influenza
+Nasopharyngitis
+Ear infection
+Sinusitis
+Rhinitis
+Immune system
+disorders Hypersensitivity*
+Metabolism and Anorexia
+Nutrition Eating disorder
+disorders Decreased appetite
+Psychiatric Anxiety
+disorders Insomnia
+Nervous system Somnolence* Status epilepticus*
+disorders Headache Convulsion
+Dizziness* Coordination Abnormal*
+
 | System Organ Class | Very Common | Common | Uncommon | Rare |
 | --- | --- | --- | --- | --- |
-| Infections and Infestations |  | Pneumonia Influenza Nasopharyngitis Ear infection Sinusitis Rhinitis |  |  |
-| Immune system disorders |  |  | Hypersensitivity* |  |
-| Metabolism and Nutrition disorders |  | Anorexia Eating disorder Decreased appetite |  |  |
-| Psychiatric disorders |  | Anxiety Insomnia |  |  |
-| Nervous system disorders | Somnolence* Headache Dizziness* | Status epilepticus* Convulsion Coordination Abnormal* Nystagmus Psychomotor hyperactivity Tremor |  |  |
-
-Eye Disorders Diplopia
-Vision blurred
+| General disorders and administration site conditions | Fatigue | Gait disturbance* |  |  |
+| Investigations |  | Weight decrease |  |  |
+| Injury, poisoning |  | Head injury Contusion |  |  |
 
 [Inovelon 400 mg film-coated tablets]
 
