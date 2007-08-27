@@ -33,7 +33,6 @@ Verapamil (CYP3A4 inhibitor): Multiple-dose administration of verapamil and siro
 Whole blood sirolimus Cmax, tmax, and AUC were increased 2.3-fold, 1.1-fold, and 2.2-fold, respectively.
 Plasma S-(-) verapamil Cmax and AUC were both increased 1.5-fold, and tmax was decreased 24%.
 Sirolimus levels should be monitored and appropriate dose reductions of both medications should be considered.
-
 Erythromycin (CYP3A4 inhibitor): Multiple-dose administration of erythromycin and sirolimus oral solution significantly increased the rate and extent of absorption of both drugs.
 Whole blood sirolimus Cmax, tmax, and AUC were increased 4.4-fold, 1.4-fold, and 4.2-fold, respectively.
 The Cmax, tmax, and AUC of plasma erythromycin base were increased 1.6-fold, 1.3-fold, and 1.7-fold, respectively.

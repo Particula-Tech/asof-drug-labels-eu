@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
-The most commonly reported adverse drug reactions (occurring in >10% of patients) are thrombocytopenia, anaemia, hypokalaemia, urinary tract infection, hypercholesterolaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, and increased blood lactate dehydrogenase (LDH).
+The most commonly reported adverse drug reactions (occurring in >10% of patients) are thrombocytopenia, anaemia, hypokalaemia, hypophosphataemia, urinary tract infection, hypercholesterolaemia, hyperglycaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, and increased blood lactate dehydrogenase (LDH).
+
 The incidence of any adverse event(s) may increase as the trough sirolimus level increases.
 
 Adverse reactions based on experience from clinical trials and postmarketing experience are presented in the following table by system organ class and frequency of occurrence.
@@ -43,16 +44,19 @@ including
 anaphylactic/
 anaphylactoid
 reactions,
-angioedema, and
+angioedema,
+exfoliative
+dermatitis, and
 hypersensitivity
 vasculitis
 (see section 4.4)
 Metabolism and Hypokalaemia
-nutrition Hypercholesterolaemia
-disorders Hypertriglyceridaemia
+nutrition Hypophosphataemia
+disorders Hypercholesterolaemia
 
-| Cardiac disorders |  | Tachycardia | Pericardial effusion (including haemodynamically significant effusions in children and adults) |  |
+|  | Hyperglycaemia Hypertriglyceridaemia |  |  |  |
 | --- | --- | --- | --- | --- |
+| Cardiac disorders |  | Tachycardia | Pericardial effusion (including haemodynamically significant effusions in children and adults) |  |
 | Vascular disorders | Lymphocele | Deep vein thrombosis | Pulmonary embolism | Lymphoedema |
 | Respiratory, thoracic, and mediastinal disorders |  | Pneumonitis Epistaxis | Pulmonary haemorrhage |  |
 | Gastrointestinal disorders | Abdominal pain Diarrhoea | Stomatitis | Pancreatitis |  |
@@ -76,17 +80,16 @@ Impaired healing following transplant surgery has been reported, including fasci
 In patients with delayed graft function, sirolimus may delay recovery of renal function.
 
 The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA.
-
 In an ongoing study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/mL) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 mL/min (see section 5.1).
 There was a higher rate of serious adverse events including pneumonia, acute rejection, graft loss and death in this sirolimus treatment arm (n=60, median time post-transplant 36 months).
 
 [Rapamune 1 mg coated tablets]
 
-The most commonly reported adverse drug reactions (occuring in >10% of patients) are thrombocytopenia, anaemia, hypokalaemia, urinary tract infection, hypercholesterolaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, and increased blood lactate dehydrogenase (LDH).
+The most commonly reported adverse drug reactions (occuring in >10% of patients) are thrombocytopenia, anaemia, hypokalaemia, hypophosphataemia, urinary tract infection, hypercholesterolaemia, hyperglycaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, and increased blood lactate dehydrogenase (LDH).
 
-| Immune system disorders |  |  |  | Hypersensitivity reactions, including anaphylactic/ anaphylactoid reactions, angioedema, and hypersensitivity vasculitis (see section 4.4) |
+|  |  |  |  | angioedema, exfoliative dermatitis, and hypersensitivity vasculitis (see section 4.4) |
 | --- | --- | --- | --- | --- |
-| Metabolism and nutrition disorders | Hypokalaemia Hypercholesterolaemia Hypertriglyceridaemia |  |  |  |
+| Metabolism and nutrition disorders | Hypokalaemia Hypophosphataemia Hypercholesterolaemia Hyperglycaemia Hypertriglyceridaemia |  |  |  |
 | Cardiac disorders |  | Tachycardia | Pericardial effusion (including haemodynamically significant effusions in children and adults) |  |
 | Vascular disorders | Lymphocele | Deep vein thrombosis | Pulmonary embolism | Lymphoedema |
 | Respiratory, thoracic, and mediastinal disorders |  | Pneumonitis Epistaxis | Pulmonary haemorrhage |  |
@@ -103,13 +106,24 @@ Rare reports of fatal hepatic necrosis have been reported with elevated trough s
 
 [Rapamune 2 mg coated tablets]
 
-(all sentences already above)
+|  |  |  |  | anaphylactoid reactions, angioedema, exfoliative dermatitis, and hypersensitivity vasculitis (see section 4.4) |
+| --- | --- | --- | --- | --- |
+| Metabolism and nutrition disorders | Hypokalaemia Hypophosphataemia Hypercholesterolaemia Hyperglycaemia Hypertriglyceridaemia |  |  |  |
+| Cardiac disorders |  | Tachycardia | Pericardial effusion (including haemodynamically significant effusions in children and adults) |  |
+| Vascular disorders | Lymphocele | Deep vein thrombosis | Pulmonary embolism | Lymphoedema |
+| Respiratory, thoracic, and mediastinal disorders |  | Pneumonitis Epistaxis | Pulmonary haemorrhage |  |
+| Gastrointestinal disorders | Abdominal pain Diarrhoea | Stomatitis | Pancreatitis |  |
+| Skin and subcutaneous tissue disorders | Acne | Rash |  |  |
+| Musculoskeletal and connective tissue disorders | Arthralgia | Osteonecrosis |  |  |
+| Renal and urinary disorders |  | Proteinuria | Nephrotic syndrome (see section 4.4) |  |
+| General disorders and administration site conditions | Oedema peripheral | Impaired healing Oedema Pyrexia |  |  |
+| Investigations | Blood lactate dehydrogenase increased | Aspartate aminotransferase increased Alanine aminotransferase increased |  |  |
 
 [Rapamune 5 mg coated tablets]
 
-|  |  |  |  | vasculitis (see section 4.4) |
+|  |  |  |  | dermatitis, and hypersensitivity vasculitis (see section 4.4) |
 | --- | --- | --- | --- | --- |
-| Metabolism and nutrition disorders | Hypokalaemia Hypercholesterolaemia Hypertriglyceridaemia |  |  |  |
+| Metabolism and nutrition disorders | Hypokalaemia Hypophosphataemia Hypercholesterolaemia Hyperglycaemia Hypertriglyceridaemia |  |  |  |
 | Cardiac disorders |  | Tachycardia | Pericardial effusion (including haemodynamically significant effusions in children and adults) |  |
 | Vascular disorders | Lymphocele | Deep vein thrombosis | Pulmonary embolism | Lymphoedema |
 | Respiratory, thoracic, and mediastinal disorders |  | Pneumonitis Epistaxis | Pulmonary haemorrhage |  |

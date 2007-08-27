@@ -10,7 +10,6 @@ The blood to plasma ratio (B/P) of 36 indicates that sirolimus is extensively pa
 Pharmacokinetic parameters for sirolimus obtained from 19 renal transplant patients receiving microemulsion ciclosporin (4 hours prior to Rapamune) and corticosteroids, following daily doses of 2 mg Rapamune solution in a phase III clinical trial, were; Cmax,ss 12.2±6.2 ng/ml, tmax,ss 3.01±2.40h, AUCτ,ss 158±70 ng•h/ml, CL/F/W 182±72 ml/h/kg (parameters calculated from LC-MS/MS assay results).
 There was no significant difference in any of these parameters over time up to 6 months after transplantation.
 Mean sirolimus whole blood trough levels from the same phase III trial were 7.2 ng/ml (4.0 to 11 ng/ml, expressed as chromatographic assay values; n=226) for the 2 mg per day dose and 14 ng/ml (8.0 to 22 ng/ml, expressed as chromatographic assay values; n=219) for the 5 mg per day dose (see section 4.2).
-
 Sirolimus is a substrate for both cytochrome P450 IIIA4 (CYP3A4) and P-glycoprotein.
 Sirolimus is extensively metabolised by O-demethylation and/or hydroxylation.
 Seven major metabolites, including hydroxyl, demethyl, and hydroxydemethyl, are identifiable in whole blood.
