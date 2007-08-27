@@ -25,15 +25,18 @@ There is no target-based cross-resistance between ertapenem and these substances
 However, micro-organisms may exhibit resistance to more than one class of antibacterial agents when the mechanism is, or includes, impermeability to some compounds and/or an efflux pump.
 
 Breakpoints
-The NCCLS MIC breakpoints are as follows:
 
-- Enterobacteriaceae and staphylococci: S≤ 2 mg/l and R ≥ 8 mg/l
-- S. Pneumoniae: S ≤ 1 mg/l and R ≥ 4 mg/l
-- Streptococcus species (beta-haemolytic only): S≤ 1 mg/l
-- Haemophilus species: S ≤ 0.5 mg/l
-- Anaerobes: S ≤ 4 mg/l and R ≥ 16 mg/l
+The EUCAST MIC breakpoints are as follows:
 
-(NB: the breakpoint values for staphylococci and S. pneumoniae are applicable only to methicillin-susceptible staphylococci and penicillin-susceptible pneumococci, respectively)
+- Enterobacteriaceae: S≤ 0.5 mg/l and R >1 mg/l
+- Streptococcus A,B,C,G: S ≤0.5 mg/l and R >0.5 mg/l
+- Streptococcus pneumoniae: S ≤0.5 mg/l and R >0.5 mg/l
+- Haemophilus influenzae: S ≤0.5 mg/l and R >0.5 mg/l
+- M. catarrhalis: S ≤0.5 mg/l and R >0.5 mg/l
+- Gram negative anaerobes: S ≤ 1mg/l and R >1 mg/l
+- Non species related breakpoints: S≤ 0.5 mg/l and R >1 mg/l
+
+(NB: Susceptibility of staphylococci to ertapenem is inferred from the methicillin susceptibility)
 
 The prescribers are informed that local MIC breakpoints, if available, should be consulted.
 Microbiological Susceptibility
