@@ -6,7 +6,7 @@ Following oral administration, the mean time (tmax) to maximal serum concentrati
 At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 µg/ml (30%) and 0.01 µg/ml (99%), respectively.
 The mean (CV) AUC over a dosing interval of 12 hours was 6.02 µg.h/ml (29%), equivalent to a daily AUC of approximately 12.0 µg.h/ml.
 The Cmax value for the oral solution is slightly higher than the tablet.
-After a 600 mg abacavir tablet dose, the mean (CV) abacavir Cmax was approximately 4.26 µg/ml (28%) and the mean AUC was 11.95 µg.h/ml (21%).
+After a 600 mg abacavir tablet dose, the mean (CV) abacavir Cmax was approximately 4.26 µg/ml (28%) and the mean (CV) AUC∞ was 11.95 µg.h/ml (21%).
 
 Food delayed absorption and decreased Cmax but did not affect overall plasma concentrations (AUC).
 Therefore Ziagen can be taken with or without food.
@@ -32,9 +32,9 @@ The remainder is eliminated in the faeces.
 Intracellular pharmacokinetics
 
 In a study of 20 HIV-infected patients receiving abacavir 300 mg twice daily, with only one 300 mg dose taken prior to the 24 hour sampling period, the geometric mean terminal carbovir-TP intracellular half-life at steady-state was 20.6 hours, compared to the geometric mean abacavir plasma half-life in this study of 2.6 hours.
-Similar intracellular kinetics are expected from abacavir 600 mg once daily.
-These data support the use of abacavir 600 mg once daily for the treatment of HIV infected patients.
-Additionally, the efficacy of abacavir given once daily has been demonstrated in a pivotal clinical study (CNA30021- See section 5.1 Clinical experience).
+In a crossover study in 27 HIV-infected patients, intracellular carbovir-TP exposures were higher for the abacavir 600 mg once daily regimen (AUC24,ss + 32 %, Cmax24,ss + 99 % and Ctrough + 18 %) compared to the 300 mg twice daily regimen.
+Overall, these data support the use of abacavir 600 mg once daily for the treatment of HIV infected patients.
+Additionally, the efficacy and safety of abacavir given once daily has been demonstrated in a pivotal clinical study (CNA30021-See section 5.1 Clinical experience).
 
 Special populations
 
@@ -42,7 +42,6 @@ Hepatically impaired: abacavir is metabolised primarily by the liver.
 The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5-6) receiving a single 600 mg dose.
 The results showed that there was a mean increase of 1.89 fold [1.32; 2.70] in the abacavir AUC, and 1.58 [1.22; 2.04] fold in the elimination half-life.
 No recommendation on dosage reduction is possible in patients with mild hepatic impairment due to the substantial variability of abacavir exposure.
-
 Renally impaired: abacavir is primarily metabolised by the liver with approximately 2% of abacavir excreted unchanged in the urine.
 The pharmacokinetics of abacavir in patients with end-stage renal disease is similar to patients with normal renal function.
 Therefore no dosage reduction is required in patients with renal impairment.
