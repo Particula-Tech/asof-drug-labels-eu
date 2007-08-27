@@ -19,6 +19,7 @@ These interactions are described in the interaction tables below.
 
 Interaction table
 Interactions between darunavir/ritonavir and protease inhibitors, antiretroviral agents other than protease inhibitors and other non-antiretroviral medicinal products are listed in the tables below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”, twice daily as “b.i.d.” and once daily as “q.d.”).
+
 Interactions – Darunavir/ritonavir with Protease Inhibitors
 The efficacy and safety of the use of PREZISTA with 100 mg ritonavir and any other PI (e.g. (fos)amprenavir, nelfinavir and tipranavir) has not been established in HIV patients.
 Generally, dual therapy with protease inhibitors is not recommended.
@@ -31,9 +32,15 @@ Medicinal (mg) Assessed
 
 Product (mg)
 
-Lopinavir/ritonavir 400/100 b.i.d. 300/100 b.i.d. Lopinavir ↑ 37% ↑ 72%
+Lopinavir/ritonavir 400/100 b.i.d. 1200/100 b.i.d. Lopinavir ↔ ↔
 
-Darunavir ↓ 53% ↓ 65% It is not recommended to combine PREZISTA co-administered with 100 mg ritonavir with lopinavir/ritonavir.
+Darunavir ↓ 38%* ↓ 51%*
+
+533/133.3 b.i.d. 1200 b.i.d. Lopinavir ↔ ↔
+
+Darunavir ↓ 41%* ↓ 55%* * based upon not dose normalised values
+Due to a decrease in the exposure (AUC) of darunavir by 40%, appropriate doses of the combination have not been established.
+Hence, combination of PREZISTA co-administered with 100 mg ritonavir with lopinavir/ritonavir is contraindicated.
 
 Saquinavir 1000 b.i.d. 400/100 b.i.d. Darunavir ↓ 26% ↓ 42%
 
@@ -79,29 +86,68 @@ Ritonavir effect on MDR-1 transport in renal tubuli has been a proposed mechanis
 Monitoring of renal function may be indicated when PREZISTA co-administered with 100 mg ritonavir is given in combination with tenofovir, particularly in patients with underlying systemic or renal disease, or in patients taking nephrotoxic agents.
 
 Zidovudine Based on the different elimination pathways of the other NRTIs zidovudine,
-Didanosine zalcitabine, emtricitabine, stavudine, lamivudine, that are primarily renally
-Zalcitabine excreted, and didanosine and abacavir for which metabolism is not mediated by
-Emtricitabine CYP450, no interactions are expected for these medicinal compounds and
-Stavudine PREZISTA co-administered with 100 mg ritonavir.
+Zalcitabine zalcitabine, emtricitabine, stavudine, lamivudine, that are primarily renally
+Emtricitabine excreted, and abacavir for which metabolism is not mediated by CYP450, no
+Stavudine interactions are expected for these medicinal compounds and PREZISTA
+Lamivudine co-administered with 100 mg ritonavir.
 
-Lamivudine
 Abacavir
+
+Didanosine 400 q.d. 600/100 b.i.d. Didanosine ↔ NA
+Darunavir ↔ ↔
+
+Didanosine was administered on an empty stomach 2 hours prior to administration of darunavir/ritonavir.
+Systemic exposure to darunavir co-administered with low dose ritonavir, with or without didanosine was comparable.
+The combination of PREZISTA co-administered with 100 mg ritonavir and didanosine can be used without dose adjustments.
 
 Interactions – Darunavir/ritonavir with Non-antiretroviral co-administered Medicinal Products
 
-| Co-administered Medicinal Product | Dose of Dose of Medicinal AUC Cmin Co-administered darunavir/ritonavir Product Medicinal (mg) Assessed Product (mg) |
-| --- | --- |
-| Antiarrhythmics |  |
-| Digoxin | 0.4 mg single dose 600/100 b.i.d. Digoxin ↑ 60% ND Darunavir/ritonavir increases the plasma concentrations of digoxin. Inhibition of Pgp may be a likely explanation. Given that digoxin has as a narrow therapeutic index, it is recommended that the lowest possible dose of digoxin should initially be prescribed in case digoxin is given to patients on darunavir/ritonavir therapy. The digoxin dose should be carefully titrated to obtain the desired clinical effect while assessing the overall clinical state of the subject. |
-| Antibiotics |  |
-| Clarithromycin | 500 b.i.d. 400/100 b.i.d. Clarithromycin ↑ 57% ↑ 174% Darunavir ↔ ↔ Darunavir/ritonavir increases the plasma concentrations of clarithromycin as a result of CYP3A4 inhibition and possible Pgp inhibition. Concentrations of the metabolite 14-OH-clarithromycin were not detectable. Caution is warranted and clinical monitoring is recommended. For patients with renal impairment, a dose reduction of clarithromycin should be considered. |
-| Anticoagulant |  |
-| Warfarin | Warfarin concentrations may be affected when co-administered with darunavir with ritonavir. The international normalised ratio (INR) should be monitored when warfarin is combined with PREZISTA co-administered with 100 mg ritonavir. |
-| Anticonvulsants |  |
-| Phenobarbital Phenytoin Carbamazepine | Phenobarbital, phenytoin and carbamazepine are inducers of CYP450 enzymes. PREZISTA co-administered with 100 mg ritonavir should not be used in combination with these medicines, as co-administration may cause significant decreases in darunavir plasma concentrations. |
-| Antifungals |  |
-| Voriconazole | The combined use of voriconazole with darunavir co-administered with 100 mg ritonavir has not been studied. Voriconazole is metabolised by cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4. Ritonavir, which can induce some of these isoenzymes, may decrease voriconazole plasma concentrations. Voriconazole should not be co-administered with PREZISTA with 100 mg ritonavir unless an assessment of the benefit/risk ratio justifies the use of voriconazole. |
-| Ketoconazole | 200 b.i.d. 400/100 b.i.d. Ketoconazole ↑ 212% ↑ 868% Darunavir ↑ 42% ↑ 73% Ketoconazole is a potent inhibitor as well as substrate of CYP3A4. Caution is warranted and clinical monitoring is recommended. When co-administration is required the daily dose of ketoconazole should not exceed 200 mg. |
+Co-administered Dose of Dose of Medicinal AUC Cmin
+
+Medicinal Co-administered darunavir/ritonavir Product
+
+Product Medicinal (mg) Assessed
+
+Product (mg)
+Antiarrhythmics
+
+Digoxin 0.4 mg single dose 600/100 b.i.d. Digoxin ↑ 60% ND
+
+Darunavir/ritonavir increases the plasma concentrations of digoxin.
+Inhibition of Pgp may be a likely explanation.
+Given that digoxin has as a narrow therapeutic index, it is recommended that the lowest possible dose of digoxin should initially be prescribed in case digoxin is given to patients on darunavir/ritonavir therapy.
+The digoxin dose should be carefully titrated to obtain the desired clinical effect while assessing the overall clinical state of the subject.
+Antibiotics
+
+Clarithromycin 500 b.i.d. 400/100 b.i.d. Clarithromycin ↑ 57% ↑ 174%
+
+Darunavir ↔ ↔ Darunavir/ritonavir increases the plasma concentrations of clarithromycin as a result of CYP3A4 inhibition and possible Pgp inhibition.
+Concentrations of the metabolite 14-OH-clarithromycin were not detectable.
+Caution is warranted and clinical monitoring is recommended.
+For patients with renal impairment, a dose reduction of clarithromycin should be considered.
+Anticoagulant
+
+Warfarin Warfarin concentrations may be affected when co-administered with darunavir
+
+with ritonavir.
+The international normalised ratio (INR) should be monitored when warfarin is combined with PREZISTA co-administered with 100 mg ritonavir.
+Anticonvulsants
+Phenobarbital Phenobarbital, phenytoin and carbamazepine are inducers of CYP450 enzymes.
+
+Phenytoin PREZISTA co-administered with 100 mg ritonavir should not be used in
+
+Carbamazepine combination with these medicines, as co-administration may cause significant decreases in darunavir plasma concentrations.
+Antifungals
+Voriconazole The combined use of voriconazole with darunavir co-administered with 100 mg ritonavir has not been studied.
+Voriconazole is metabolised by cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
+Ritonavir, which can induce some of these isoenzymes, may decrease voriconazole plasma concentrations.
+Voriconazole should not be co-administered with PREZISTA with 100 mg ritonavir unless an assessment of the benefit/risk ratio justifies the use of voriconazole.
+
+Ketoconazole 200 b.i.d. 400/100 b.i.d. Ketoconazole ↑ 212% ↑ 868%
+
+Darunavir ↑ 42% ↑ 73% Ketoconazole is a potent inhibitor as well as substrate of CYP3A4.
+Caution is warranted and clinical monitoring is recommended.
+When co-administration is required the daily dose of ketoconazole should not exceed 200 mg.
 
 Itraconazole Itraconazole, like ketoconazole, is a potent inhibitor as well as substrate of
 
@@ -170,10 +216,12 @@ Omeprazole 20 q.d. 400/100 b.i.d. Darunavir ↔ ↔
 Based on these results, PREZISTA co-administered with 100 mg ritonavir can be co-administered with proton pump inhibitors without dose adjustments.
 Opiods
 
-Methadone When methadone is co-administered with PREZISTA co-administered with
+Methadone 55 - 150 q.d. 600/100 b.i.d. R-methadone ↓ 16% ↓ 15%
 
-100 mg ritonavir, patients should be monitored for opiate abstinence syndrome, as ritonavir is known to induce the metabolism of methadone, leading to a decrease in its plasma concentrations.
-An increase in methadone dosage may be considered based on clinical response.
+(dosed for 7 days)
+Based on pharmacokinetic and clinical findings, no adjustment of methadone dosage is required when initiating co-administration with PREZISTA/ritonavir.
+However, increased methadone dose may be necessary when concomitantly administered for a longer period of time due to induction of metabolism by ritonavir.
+Therefore, clinical monitoring is recommended, as maintenance therapy may need to be adjusted in some patients.
 PDE-5 inhibitors
 
 Sildenafil In an interaction study a comparable systemic exposure to sildenafil was
@@ -208,11 +256,12 @@ Dosage adjustment for midazolam should be considered, especially if more than a 
 Selective Serotonin Reuptake Inhibitors (SSRIs)
 
 Paroxetine 20 q.d. 400/100 b.i.d. Paroxetine ↓ 39% ↓ 37%
-Darunavir ↔ ↔
-Sertraline 50 q.d. 400/100 b.i.d. Sertraline ↓ 49% ↓ 49%
+
 Darunavir ↔ ↔
 
-If SSRIs are co-administered with PREZISTA and ritonavir, the recommended approach is a dose titration of the SSRI based on a clinical assessment of antidepressant response.
+Sertraline 50 q.d. 400/100 b.i.d. Sertraline ↓ 49% ↓ 49%
+
+Darunavir ↔ ↔ If SSRIs are co-administered with PREZISTA and ritonavir, the recommended approach is a dose titration of the SSRI based on a clinical assessment of antidepressant response.
 In addition, patients on a stable dose of sertraline or paroxetine who start treatment with PREZISTA co-administered with 100 mg ritonavir should be monitored for antidepressant response.
 Steroids
 

@@ -11,11 +11,11 @@ Elderly: As limited information is available on the use of PREZISTA in patients 
 Darunavir binds predominantly to α1-acid glycoprotein.
 This protein binding is concentration dependent indicative for saturation of binding.
 Therefore, protein displacement of medicinal products highly bound to α1-acid glycoprotein cannot be ruled out.
-
 Darunavir contains a sulphonamide moiety.
 PREZISTA should be used with caution in patients with a known sulphonamide allergy.
 During the clinical development program, severe skin rash, including erythema multiforme and Stevens-Johnson Syndrome, has been reported.
 Treatment with PREZISTA should be discontinued if severe rash develops.
+
 Patients with coexisting conditions
 Liver disease
 The safety and efficacy of PREZISTA have not been established in patients with severe underlying liver disorders and PREZISTA is therefore contraindicated in patients with severe liver impairment.
