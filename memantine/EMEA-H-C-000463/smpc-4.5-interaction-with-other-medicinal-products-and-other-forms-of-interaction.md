@@ -14,8 +14,14 @@ Due to the pharmacological effects and the mechanism of action of memantine the 
 - In post marketing experience isolated cases with INR increases have been reported in patients concomitantly treated with warfarin.
   Although no causal relationship has been established, close monitoring of prothrombin time or INR is advisable for patients concomitantly treated with oral anticoagulants.
 
+In single dose PK studies in young healthy subjects no relevant drug-drug interaction of memantine with glyburide/metformin or donepezil was observed.
+
+In a clinical study in young healthy volunteers no relevant effect of memantine on the pharmacokinetics of galantamine was observed.
+
 Memantine did not inhibit CYP 1A2, 2A6, 2C9, 2D6, 2E1, 3A, flavin containing monooxygenase, epoxide hydrolase or sulphation in vitro.
 
 [Ebixa 10 mg/g oral drops, solution.]
 
   Although no causal relationship has been established , close monitoring of prothrombin time or INR is advisable for patients concomitantly treated with oral anticoagulants.
+
+In single-dose PK studies in young healthy subjects no relevant drug-drug interaction of memantine with glyburide/metformin or donepezil was observed.

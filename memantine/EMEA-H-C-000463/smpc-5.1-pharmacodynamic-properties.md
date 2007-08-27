@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Anti-dementia drugs, ATC code: N06DX01.
-
 There is increasing evidence that malfunctioning of glutamatergic neurotransmission, in particular at NMDA-receptors, contributes to both expression of symptoms and disease progression in neurodegenerative dementia.
 
 Memantine is a voltage-dependent, moderate-affinity uncompetitive NMDA-receptor antagonist.

@@ -1,7 +1,5 @@
 # 4.4 Special warnings and precautions for use
 
-As no data are available for patients with severe renal impairment (creatinine clearance less than 9 ml/min/1.73 m²) therapy is not recommended (see section 4.2).
-
 Caution is recommended in patients with epilepsy, former history of convulsions or patients with predisposing factors for epilepsy.
 
 Concomitant use of N-methyl-D-aspartate(NMDA)-antagonists such as amantadine, ketamine or dextromethorphan should be avoided.

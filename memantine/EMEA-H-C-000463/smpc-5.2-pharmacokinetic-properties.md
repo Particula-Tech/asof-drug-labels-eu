@@ -22,11 +22,6 @@ In volunteers with normal kidney function, total clearance (Cltot) amounts to
 Renal handling also involves tubular reabsorption, probably mediated by cation transport proteins.
 The renal elimination rate of memantine under alkaline urine conditions may be reduced by a factor of 7 to 9 (see section 4.4).
 Alkalisation of urine may result from drastic changes in diet, e.g. from a carnivore to a vegetarian diet, or from the massive ingestion of alkalising gastric buffers.
-
 Linearity: Studies in volunteers have demonstrated linear pharmacokinetics in the dose range of 10 to 40 mg.
-
-Specific patient population: In elderly volunteers with normal and reduced renal function (creatinine clearance of 50 - 100 ml/min/1.73 m²), a significant correlation was observed between creatinine clearance and total renal clearance of memantine (see section 4.2).
-The effect of liver disease on the pharmacokinetics of memantine has not been studied.
-As memantine is metabolised to a minor extent only, and into metabolites with no NMDA-antagonistic activity, clinically relevant changes in the pharmacokinetics are not expected in mild to moderate liver impairment.
 
 Pharmacokinetic/pharmacodynamic relationship: At a dose of memantine of 20 mg per day the cerebrospinal fluid (CSF) levels match the ki-value (ki = inhibition constant) of memantine, which is 0.5 µmol in human frontal cortex.

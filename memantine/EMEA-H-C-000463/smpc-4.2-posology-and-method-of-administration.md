@@ -13,12 +13,14 @@ The tablets can be taken with or without food.
 
 Elderly: On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (10 mg twice a day) as described above.
 
-Children and adolescents under the age of 18 years: Ebixa is not recommended for use in children below 18 years due to lack of data on safety and efficacy.
-Renal impairment: In patients with normal to mildly impaired renal function (serum creatinine levels of up to 130 µmol/l) no dose reduction is needed.
-In patients with moderate renal impairment (creatinine clearance 40 - 60 ml/min/1.73 m²) daily dose should be reduced to 10 mg per day.
-No data are available for patients with severely reduced kidney function (see sections 4.4 and 5.2).
+Children and adolescents under the age of 18 years: Ebixa is not recommended for use in children below 18 years due to a lack of data on safety and efficacy.
+Renal impairment: In patients with mildly impaired renal function (creatinine clearance 50 – 80 ml/min) no dosage adjustment is required.
+In patients with moderate renal impairment (creatinine clearance 30 - 49 ml/min) daily dose should be 10 mg per day.
+If tolerated well after at least 7 days of treatment, the dose could be increased up to 20 mg/day according to standard titration scheme.
+In patients with severe renal impairment (creatinine clearance 5 – 29 ml/min) daily dose should be 10 mg per day.
 
-Hepatic impairment: There are no data on the use of Ebixa in patients with hepatic impairment (see section 5.2).
+Hepatic impairment: In patients with mild or moderate hepatic impaired function (Child-Pugh A and Child-Pugh B) no dosage adjustment is needed.
+No data on the use of memantine in patients with severe hepatic impairment are available.
 
 [Ebixa 10 mg/g oral drops, solution.]
 
@@ -29,5 +31,3 @@ From the 4th week on, treatment can be continued with the recommended maintenanc
 The drops can be taken with or without food.
 
 Elderly: On the basis of the clinical studies the recommended dose for patients over the age of 65 years is 20 mg per day (10 mg twice a day) as described above.
-
-Renal impairment: In patients with normal to mildly impaired renal function (serum creatinine levels of up to 130 µmol/ l) no dose reduction is needed.

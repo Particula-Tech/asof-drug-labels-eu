@@ -1,4 +1,4 @@
-# 3. PHARMACEUTICAL form
+# 3. PHARMACEUTICAL FORM
 
 Film-coated tablets.
 White to off-white film-coated tablets, centrally tapered oblong, biconvex, with a single breakline on both sides.
