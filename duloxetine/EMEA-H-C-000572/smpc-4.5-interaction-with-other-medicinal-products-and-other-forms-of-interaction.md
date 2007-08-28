@@ -27,8 +27,8 @@ Furthermore, increases in INR values have been reported when duloxetine was co-a
 
 Effects of other drugs on duloxetine
 Antacids and H2 antagonists: co-administration of duloxetine with aluminium- and magnesium-containing antacids or duloxetine with famotidine had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
-
 Inhibitors of CYP 1A2: because CYP1A2 is involved in duloxetine metabolism, concomitant use of duloxetine with potent inhibitors of CYP1A2 is likely to result in higher concentrations of duloxetine.
 Fluvoxamine (100 mg once daily), a potent inhibitor of CYP1A2, decreased the apparent plasma clearance of duloxetine by about 77% and increased AUCo-t 6-fold.
 Therefore CYMBALTA should not be administered in combination with potent inhibitors of CYP1A2 like fluvoxamine (see section 4.3).
+
 Inducers of CYP1A2: Population pharmacokinetic analyses have shown that smokers have almost 50% lower plasma concentrations of duloxetine compared with non-smokers.

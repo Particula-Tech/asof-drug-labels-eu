@@ -34,7 +34,6 @@ Capsule Shell Body colour:
 60 mg:
 Yellow Iron Oxide (E172)
 Edible White Ink
-
 Edible White Ink contains:
 Povidone.
 

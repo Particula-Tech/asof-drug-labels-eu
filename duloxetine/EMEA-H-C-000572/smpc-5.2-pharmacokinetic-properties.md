@@ -24,7 +24,6 @@ After an oral dose the apparent plasma clearance of duloxetine ranges from 33 to
 Special populations:
 Gender: pharmacokinetic differences have been identified between males and females (apparent plasma clearance is approximatively 50% lower in females).
 Based upon the overlap in the range of clearance, gender-based pharmacokinetic differences do not justify the recommendation for using a lower dose for female patients.
-
 Age: pharmacokinetic differences have been identified between younger and elderly females (≥65 years) (AUC increases by about 25% and half-life is about 25% longer in the elderly), although the magnitude of these changes is not sufficient to justify adjustments to the dose.
 As a general recommendation, caution should be exercised when treating the elderly (see sections 4.2 and 4.4).
 

@@ -29,15 +29,18 @@ Undesirable effects may be more common during concomitant use of CYMBALTA and he
 
 Suicide
 Major Depressive Episodes
-Depression is associated with an increased risk of suicidal thoughts, self harm and suicide.
+Depression is associated with an increased risk of suicidal thoughts, self harm and suicide (suicide-related events).
 This risk persists until significant remission occurs.
 As improvement may not occur during the first few weeks or more of treatment, patients should be closely monitored until such improvement occurs.
-It is general clinical experience with all antidepressant therapies that the risk of suicide may increase in the early stages of recovery.
-Cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.
-Close supervision of high-risk patients should accompany drug therapy (see section 4.8).
-Patients, (and caregivers of patients) should be alerted about the need to monitor for the emergence of suicidal ideation/behaviour or thoughts of harming themselves and to seek medical advice immediately if these symptoms present.
+It is general clinical experience that the risk of suicide may increase in the early stages of recovery.
+Patients with a history of suicide-related events or those exhibiting a significant degree of suicidal thoughts prior to commencement of treatment are known to be at greater risk of suicidal thoughts or suicidal behaviour, and should receive careful monitoring during treatment.
+A meta-analysis of placebo-controlled clinical trials of antidepressant drugs in psychiatric disorders showed an increased risk of suicidal behaviour with antidepressants compared to placebo in patients less than 25 years old.
+Cases of suicidal thoughts and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation (see section 4.8).
+Close supervision of patients and in particular those at high risk should accompany drug therapy especially in early treatment and following dose changes.
+Patients, (and caregivers of patients) should be alerted about the need to monitor for any clinical worsening, suicidal behaviour or thoughts and unusual changes in behaviour and to seek medical advice immediately if these symptoms present.
 Diabetic Peripheral Neuropathic Pain
 As with other medicinal products with similar pharmacological action (antidepressants), isolated cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.
+Concerning risk factors for suicidality in depression, see above.
 Physicians should encourage patients to report any distressing thoughts or feelings at any time.
 
 Use in children and adolescents under 18 years of age
@@ -46,6 +49,7 @@ CYMBALTA should not be used in the treatment of children and adolescents under t
 Suicide-related behaviours (suicide attempts and suicidal thoughts), and hostility (predominantly aggression, oppositional behaviour and anger), were more frequently observed in clinical trials among children and adolescents treated with antidepressants compared to those treated with placebo.
 If, based on clinical need, a decision to treat is nevertheless taken, the patient should be carefully monitored for the appearance of suicidal symptoms.
 In addition, long-term safety data in children and adolescents concerning growth, maturation and cognitive and behavioural development are lacking.
+
 Sucrose
 CYMBALTA hard gastro-resistant capsules contain sucrose.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.
@@ -80,13 +84,8 @@ In patients who develop these symptoms, increasing the dose may be detrimental.
 Medicinal products containing duloxetine
 Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive episodes as well as stress urinary incontinence).
 The use of more than one of these products concomitantly should be avoided.
-
 Hepatitis/increased liver enzymes
 Cases of liver injury, including severe elevations of liver enzymes (>10 times upper limit of normal), hepatitis and jaundice have been reported with duloxetine (see section 4.8).
 Most of them occurred during the first months of treatment.
 The pattern of liver damage was predominantly hepatocellular.
 Duloxetine should be used with caution in patients treated with other drugs associated with hepatic injury.
-
-[CYMBALTA 60 mg hard gastro-resistant capsules]
-
-In clinical trials adverse events seen on abrupt treatment discontinuation occurred in approximately 44.8% of patients treated with CYMBALTA and 22.6% of patients taking placebo.

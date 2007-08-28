@@ -17,7 +17,7 @@ Frequency estimate: Very common (≥10%), common (≥1% and <10%), uncommon (≥
 | Endocrine disorders |  |  |  |  |  |
 |  |  |  | Hypo-thyroidism |  |  |
 | Metabolism and Nutrition Disorders |  |  |  |  |  |
-|  | Decreased Appetite |  | Dehydration |  | Hypo-natremia SIADH |
+|  | Decreased Appetite | Hyperglycemi a (reported especially in diabetic patients) | Dehydration |  | Hypo-natremia SIADH |
 | Psychiatric Disorders |  |  |  |  |  |
 | Insomnia (10.2%) | Anxiety Libido decreased Orgasm abnormal Agitation Abnormal dreams | Bruxism Disorientation Sleep disorder Apathy | Mania |  | Suicidal ideation Suicidal behaviour1 Hallucination s |
 | Nervous System Disorders |  |  |  |  |  |
@@ -29,17 +29,19 @@ Frequency estimate: Very common (≥10%), common (≥1% and <10%), uncommon (≥
 | Cardiac Disorders |  |  |  |  |  |
 |  | Palpitations | Tachycardia |  |  | Supra-ventricular arrhythmia, mainly atrial fibrillation |
 | Vascular Disorders |  |  |  |  |  |
-|  | Hot flush | Flushing Blood pressure increase Peripheral coldness Orthostatic |  |  | Hypertension Hypertensive crisis |
+|  | Hot flush | Flushing Blood pressure increase Peripheral coldness |  |  | Hypertension Hypertensive crisis |
 
+Orthostatic
 hypotension2
 Syncope2
 Respiratory, thoracic and mediastinal disorders
 Yawning Throat
 tightness
+Epistaxis
 Gastrointestinal Disorders
-Nausea Constipation Eructation Halitosis
-(21.7%) Vomiting Gastroenteritis
-Dry mouth Dyspepsia Stomatitis
+Nausea Constipation Eructation Halitosis Gastrointesti
+(21.7%) Vomiting Gastroenteritis Haematochezi nal
+Dry mouth Dyspepsia Stomatitis a haemorrhage
 (13.4%) Flatulence Gastritis
 Diarrhoea
 (10.2%)
@@ -58,13 +60,15 @@ increased Photo- neurotic
 Rash sensitivity oedema
 reactions Stevens-
 Cold sweat Johnson
-Syndrome
-Urticaria
+Increased Syndrome
+tendency to Urticaria
+bruise
 Muscoskeletal and connective tissue disorders
 Musculo- Muscle Trismus
 skeletal pain twitching
 Muscle
 tightness
+Muscle spasm
 Renals and Urinary Disorders
 Nocturia Urine odour
 Urinary abnormal
@@ -77,6 +81,8 @@ Erectile Ejaculation Menopausal
 dysfunction disorder symptoms
 Ejaculation
 delayed
+Gynaecologica
+l haemorrhage
 General Disorders and Administration Site Conditions
 Fatigue Feeling hot Chest pain
 Abdominal Feeling cold
@@ -97,7 +103,7 @@ increase
 3See section 4.4
 
 Discontinuation of duloxetine (particularly when abrupt) commonly leads to withdrawal symptoms.
-Dizziness, sensory disturbances (including paraesthesia), sleep disturbances (including insomnia and intense dreams), agitation or anxiety, nausea and/or vomiting, tremor and headache are the most commonly reported reactions.
+Dizziness, sensory disturbances (including paraesthesia), sleep disturbances (including insomnia and intense dreams), agitation or anxiety, nausea and/or vomiting, tremor ,headache, irritability, diarrhoea, hyperhydrosis and vertigo are the most commonly reported reactions.
 Generally, for SSRIs and SNRIs, these events are mild to moderate and self-limiting, however, in some patients they may be severe and/or prolonged.
 It is therefore advised that when duloxetine treatment is no longer required, gradual discontinuation by dose tapering should be carried out (see sections 4.2 and 4.4).
 
@@ -111,5 +117,7 @@ The heart rate-corrected QT interval in duloxetine-treated patients did not diff
 No clinically significant differences were observed for QT, PR, QRS, or QTcB measurements between duloxetine-treated and placebo-treated patients.
 
 [CYMBALTA 60 mg hard gastro-resistant capsules]
+
+Dizziness, sensory disturbances (including paraesthesia), sleep disturbances (including insomnia and intense dreams), agitation or anxiety, nausea and/or vomiting, tremor, headache, irritability, diarrhoea, hyperhydrosis and vertigo are the most commonly reported reactions.
 
 In the 12 week acute phase of three clinical trials of duloxetine in patients with diabetic neuropathic pain, small but statistically significant increases in fasting blood glucose were observed in duloxetine-treated patients HbA1c was stable in both duloxetine-treated and placebo-treated patients.
