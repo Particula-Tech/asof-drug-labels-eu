@@ -53,6 +53,9 @@ This change in laboratory parameters is not considered to be clinically relevant
 
 No clinically meaningful changes in vital signs or in ECG (including in QTc interval) were observed with Januvia treatment.
 
+Post-marketing Experience:
+During post-marketing experience the following additional side effects have been reported (frequency not known): hypersensitivity reactions, including anaphylaxis, angioedema, rash, and urticaria.
+
 [Januvia 50 mg film-coated tablets]
 
 Additional adverse experiences reported regardless of causal relationship to medication that occurred more frequently in patients treated with Januvia (not reaching the 5% level, but occurring with an incidence of > 0.5% higher with Januvia than that in the control group) included osteoarthritis and pain in extremity.

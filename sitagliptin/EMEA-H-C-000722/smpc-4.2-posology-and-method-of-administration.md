@@ -20,7 +20,6 @@ Januvia has not been studied in patients with severe hepatic insufficiency.
 Elderly
 No dosage adjustment is necessary based on age.
 Limited safety data is available in patients ≥ 75 years of age and care should be exercised.
-
 Paediatric population
 Januvia is not recommended for use in children below 18 years of age due to a lack of data on its safety and efficacy.
 
