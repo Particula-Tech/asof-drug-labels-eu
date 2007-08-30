@@ -1,6 +1,6 @@
 # 4.9 Overdose
 
-A specific overdose for insulin cannot be defined however hypoglycaemia may develop over sequen-tial stages if too high doses relative to the patient’s requirement are administered:
+A specific overdose for insulin cannot be defined however hypoglycaemia may develop over sequential stages if too high doses relative to the patient’s requirement are administered:
 
 - Mild hypoglycaemic episodes can be treated by oral administration of glucose or sugary products.
   It is therefore recommended that the diabetic patient constantly carry sugar containing products

@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: insulins and analogues, fast-acting.
+Pharmacotherapeutic group: insulins and analogues for injection, fast-acting.
 ATC code A10AB05.
 
 The blood glucose lowering effect of insulin occurs when the molecules facilitate the uptake of glucose by binding to insulin receptors on muscle and fat cells - and simultaneously inhibit the output of glucose from the liver.
@@ -19,7 +19,11 @@ Adults.
 Clinical trials in patients with type 1 diabetes have demonstrated a lower postprandial blood glucose with NovoRapid compared to soluble human insulin (Fig.
 I). In two long-term open label trials in patients with type 1 diabetes comprising 1070 and 884 patients, respectively, NovoRapid reduced glycosylated haemoglobin by 0.12 [95% C.I.
 0.03; 0.22] percentage points and by 0.15 [95% C.I.
-0.05; 0.26] percentage points compared to human insulin; a difference of doubtful clinical signifi-cance.
+0.05; 0.26] percentage points compared to human insulin; a difference of doubtful clinical significance.
+
+Elderly.
+A randomised, double-blind cross-over PK/PD trial comparing insulin aspart with soluble human insulin was performed in elderly patients with type 2 diabetes (19 patients aged 65-83 years, mean age 70 years).
+The relative differences in the pharmacodynamic properties (GIRmax,AUCGIR, 0-120 min) between insulin aspart and human insulin in elderly were similar to those seen in healthy subjects and in younger subjects with diabetes.
 
 Children and adolescents.
 A clinical trial comparing preprandial soluble human insulin with postprandial insulin aspart was performed in small children (20 patients aged 2 to less than 6 years, studied for 12 weeks, among those four were younger than 4 years old) and a single dose PK/PD trial was performed in children (6-12 years) and adolescents (13-17 years).

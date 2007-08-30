@@ -20,7 +20,7 @@ As with all insulins, subcutaneous injection in the abdominal wall ensures a fas
 However, the faster onset of action compared to soluble human insulin is maintained regardless of injection site.
 If necessary, NovoRapid may also be administered intravenously (see section 6.6) which should be carried out by health care professionals.
 
-NovoRapid may be used for Continuous Subcutaneous Insulin Infusion (CSII) in pump systems suit-able for insulin infusion.
+NovoRapid may be used for Continuous Subcutaneous Insulin Infusion (CSII) in pump systems suitable for insulin infusion.
 CSII should be administered in the abdominal wall.
 Infusion sites should be rotated.
 
@@ -32,6 +32,7 @@ The infusion set (tubing and cannula) should be changed in accordance with the i
 Patients administering NovoRapid by CSII must have alternative insulin available in case of pump system failure.
 
 Renal or hepatic impairment may reduce the patient's insulin requirements.
+Careful glucose monitoring and dose adjustments of insulin aspart are recommended in these patients.
 
 No studies have been performed in children under the age of 2 years.
 
@@ -50,10 +51,9 @@ As with all insulins the duration of action will vary according to the dose, inj
 
 FlexPen are pre-filled pens designed to be used with NovoFine short cap needles.
 The needle box is marked with an S. FlexPen delivers 1-60 units in increments of 1 unit.
-Detailed instruction accompa-nying the device must be followed.
+Detailed instruction accompanying the device must be followed.
 
 [NovoRapid InnoLet 100 U/ml, solution for injection in a pre-filled pen.]
 
 InnoLet are pre-filled pens designed to be used with NovoFine short cap needles.
 The needle box is marked with an S. InnoLet delivers 1-50 units in increments of 1 unit.
-Detailed instruction accompany-ing the device must be followed.
