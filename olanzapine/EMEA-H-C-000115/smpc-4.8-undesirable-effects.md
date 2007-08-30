@@ -21,6 +21,7 @@ Very common (>10%): Weight gain
 Common (1-10%): Increased appetite.
 Elevated glucose levels (see note 1 below).
 Elevated triglyceride levels.
+Elevated cholesterol levels.
 Nervous system disorders
 Very common (>10%): Somnolence.
 Common (1-10%): Dizziness, akathisia, parkinsonism, dyskinesia.
@@ -49,8 +50,8 @@ Hyperglycaemia is also reported as a Very Rare (<0.01%) spontaneous event.
 2In clinical trials, the incidence of parkinsonism and dystonia in olanzapine-treated patients was numerically higher, but not statistically significantly different from placebo.
 Olanzapine-treated patients had a lower incidence of parkinsonism, akathisia and dystonia compared with titrated doses of haloperidol.
 In the absence of detailed information on the pre-existing history of individual acute and tardive extrapyramidal movement disorders, it can not be concluded at present that olanzapine produces less tardive dyskinesia and/or other tardive extrapyramidal syndromes.
-The following table of undesirable effects is based on post-marketing spontaneous reports.
 
+The following table of undesirable effects is based on post-marketing spontaneous reports.
 Blood and lymphatic system disorders
 Rare (0.01-0.1%): Leukopenia.
 Very rare (<0.01%):Thrombocytopenia.
@@ -65,7 +66,7 @@ Rare (0.01-0.1%): Seizures have been reported to occur rarely in patients treate
 In most of these cases, a history of seizures or risk factors for seizures were reported.
 Very rare (<0.01%): Cases reported as Neuroleptic Malignant Syndrome (NMS) have been received in association with olanzapine.
 (See also section 4.4).
-Parkinsonism, dystonia and tardive dyskinesia have been reported very rarely with olanzapine.
+Parkinsonism, dystonia (including oculogyration) and tardive dyskinesia have been reported very rarely with olanzapine.
 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely when olanzapine is stopped abruptly.
 Cardiac disorders
 Very rare(<0.01%): QTc prolongation, ventricular tachycardia/fibrillation and sudden death.
@@ -80,6 +81,7 @@ Musculoskeletal and connective tissue and bone disorders
 Very rare(<0.01%): Rhabdomyolysis
 Skin and subcutaneous tissue disorders
 Rare (0.01-0.1%): Rash.
+Very rare (<0.01%): Alopecia.
 Renal and Urinary Disorders
 Very rare (<0.01%): Urinary Hesitation
 Reproductive system and breast disorders
@@ -94,6 +96,9 @@ Increased total bilirubin.
 Uncommon (0.1-1%): Bradycardia with or without hypotension or syncope, QT prolongation
 Very common (>10%): Elevated plasma prolactin levels, but associated clinical manifestations
 (e.g., gynaecomastia, galactorrhoea, and breast enlargement) were rare.
+
+Parkinsonism, dystonia
+(including oculogyration) and tardive dyskinesia have been reported very rarely with olanzapine.
 
 [ZYPREXA 7.5 mg coated tablets]
 

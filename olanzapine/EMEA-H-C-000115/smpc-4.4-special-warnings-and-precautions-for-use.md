@@ -4,6 +4,9 @@ Hyperglycaemia and/or development or exacerbation of diabetes occasionally assoc
 In some cases, a prior increase in body weight has been reported which may be a predisposing factor.
 Appropriate clinical monitoring is advisable particularly in diabetic patients and in patients with risk factors for the development of diabetes mellitus.
 
+Undesirable alterations in lipids have been observed in olanzapine-treated patients in placebo-controlled clinical trials (see section 4.8 Undesirable effects).
+Lipid alterations should be managed as clinically appropriate.
+
 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely (<0.01%) when olanzapine is stopped abruptly.
 Gradual dose reduction should be considered when discontinuing olanzapine.
 
@@ -54,6 +57,7 @@ In most of these cases, a history of seizures or risk factors for seizures were 
 Tardive Dyskinesia: In comparator studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.
 However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or discontinuation should be considered.
 These symptoms can temporally deteriorate or even arise after discontinuation of treatment.
+
 Given the primary CNS effects of olanzapine, caution should be used when it is taken in combination with other centrally acting medicines and alcohol.
 As it exhibits in vitro dopamine antagonism, olanzapine may antagonize the effects of direct and indirect dopamine agonists.
 
