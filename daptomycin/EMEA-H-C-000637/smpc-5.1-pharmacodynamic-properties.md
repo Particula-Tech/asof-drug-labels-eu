@@ -10,13 +10,13 @@ This results in bacterial cell death with negligible cell lysis.
 
 PK/PD relationship
 Daptomycin exhibits rapid, concentration dependent bactericidal activity against sensitive Gram positive organisms in vitro.
-In animal models AUC/MIC and Cmax/MIC correlate with efficacy and predicted bacterial kill in vivo at single doses equivalent to human doses of 4 mg/kg once daily.
+In animal models AUC/MIC and Cmax/MIC correlate with efficacy and predicted bacterial kill in vivo at single doses equivalent to human doses of 4 mg/kg and 6 mg/kg once daily.
 
 Mechanisms of resistance
-No confirmed mechanism of resistance to daptomycin has yet been identified.
-As documented with other antibiotics when used in patients with difficult to treat infections and/or for prolonged periods, emergent decreases in susceptibility have been observed with daptomycin.
-In a clinical trial of daptomycin in endocarditis and complicated bacteraemia there were six patients in whom the observed decrease in susceptibility to daptomycin may or may not have contributed to their failure to respond to therapy.
-Sporadic cases of reduced susceptibility to daptomycin have also been reported.
+Strains with decreased susceptibility to daptomycin have been reported during the treatment of patients with difficult to treat infections and/or following administration for prolonged periods.
+In a clinical trial in which daptomycin was used for the treatment of endocarditis and complicated bacteraemia there were six patients in whom the observed decrease in susceptibility to daptomycin may have contributed to their failure to respond to therapy.
+
+The mechanism of resistance to daptomycin has not yet been identified.
 
 Breakpoints
 Minimum inhibitory concentration (MIC) breakpoint established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for Staphylococci and Streptococci (except S. pneumoniae) are Susceptible ≤ 1 mg/l and Resistant > 1 mg/l.
@@ -40,9 +40,24 @@ Gram negative organisms
 * denotes species against which it is considered that activity has been satisfactorily demonstrated in clinical studies.
 
 Information from clinical trials
+In two clinical trials in complicated skin and soft tissues infections, 36% of patients treated with Cubicin met the criteria for systemic inflammatory response syndrome (SIRS).
+The most common type of infection treated was wound infection (38% of patients), while 21% had major abscesses.
+These limitations of the patients population treated should be taken into account when deciding to use Cubicin.
 
-In two clinical trials in complicated skin and soft tissues infections, 36% of patients treated with daptomycin met the criteria for systemic inflammatory response syndrome (SIRS).
-The most common type of infection treated was wound infection (38% of patients) while 21% had major abscesses.
-These limitations of the patients population treated should be taken into account when deciding to use daptomycin.
+There is insufficient evidence to be able to draw any conclusions regarding the possible clinical efficacy of Cubicin against Enterococcus faecalis and Enterococcus faecium.
 
-There is insufficient evidence to be able to draw any conclusions regarding the possible clinical efficacy of daptomycin against Enterococcus faecalis and Enterococcus faecium.
+In a randomised controlled open-label study in 235 patients with Staphylococcus aureus bacteraemia (i.e, at least one positive blood culture of Staphylococcus aureus prior to receiving the first dose) 19 of 120 patients treated with Cubicin met the criteria for RIE.
+Of these 19 patients 11 were infected with methicillin-susceptible and 8 with methicillin-resistant Staphylococcus aureus.
+The success rates in RIE patients are shown in the table below.
+
+| Population | Daptomycin | Comparator | Differences in Success |
+| --- | --- | --- | --- |
+|  | n/N (%) | n/N (%) | Rates (95% CI) |
+| ITT Population |  |  |  |
+| RIE | 8/19 (42.1%) | 7/16 (43.8%) | -1.6% (-34.6, 31.3) |
+| PP Population |  |  |  |
+| RIE | 6/12 (50.0%) | 4/8 (50.0%) | 0.0% (-44.7, 44.7) |
+
+Failure of treatment due to persisting or relapsing Staphylococcus aureus infections was observed in 19/120 (15.8%) patients treated with Cubicin, 9/53 (16.7%) patients treated with vancomycin and 2/62 (3.2%) patients treated with an anti-staphylococcal semi-synthetic penicillin.
+Among these failures six patients treated with Cubicin and one patient treated with vancomycin were infected with Staphylococcus aureus that developed increasing MICs of daptomycin on or following therapy (see “Mechanisms of resistance” above).
+Most patients who failed due to persisting or relapsing Staphylococcus aureus infection had deep-seated infection and did not receive necessary surgical intervention.
