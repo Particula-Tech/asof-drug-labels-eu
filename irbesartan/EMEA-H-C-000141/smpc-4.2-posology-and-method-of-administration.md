@@ -11,13 +11,11 @@ In hypertensive type 2 diabetic patients, therapy should be initiated at 150 mg 
 The demonstration of renal benefit of Aprovel in hypertensive type 2 diabetic patients is based on studies where irbesartan was used in addition to other antihypertensive agents, as needed, to reach target blood pressure (see section 5.1).
 
 Renal impairment: no dosage adjustment is necessary in patients with impaired renal function.
-A lower starting dose (75 mg) should be considered for patients undergoing haemodialysis.
-
-Intravascular volume depletion: volume and/or sodium depletion should be corrected prior to administration of Aprovel.
+A lower starting dose (75 mg) should be considered for patients undergoing haemodialysis (see section 4.4).
 
 Hepatic impairment: no dosage adjustment is necessary in patients with mild to moderate hepatic impairment.
 There is no clinical experience in patients with severe hepatic impairment.
 
 Elderly patients: although consideration should be given to initiating therapy with 75 mg in patients over 75 years of age, dosage adjustment is not usually necessary for the elderly.
 
-Paediatric patients: irbesartan is not recommended for use in children and adolescents due to insufficient data on safety and efficacy (see sections 5.1 and 5.2).
+Paediatric patients: irbesartan is not recommended for use in children and adolescents due to insufficient data on safety and efficacy (see sections 4.8, 5.1 and 5.2).

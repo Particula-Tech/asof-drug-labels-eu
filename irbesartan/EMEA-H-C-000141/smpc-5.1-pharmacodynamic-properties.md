@@ -1,10 +1,10 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Angiotensin-II antagonists, ATC code C09C A04.
+Pharmacotherapeutic group: Angiotensin-II antagonists, plain.
+ATC code: C09C A04.
 
-Irbesartan is a potent, orally active, selective angiotensin-II receptor (type AT1) antagonist.
-
-Mechanism of action: it is expected to block all actions of angiotensin-II mediated by the AT1 receptor, regardless of the source or route of synthesis of angiotensin-II.
+Mechanism of action: Irbesartan is a potent, orally active, selective angiotensin-II receptor (type AT1) antagonist.
+It is expected to block all actions of angiotensin-II mediated by the AT1 receptor, regardless of the source or route of synthesis of angiotensin-II.
 The selective antagonism of the angiotensin-II (AT1) receptors results in increases in plasma renin levels and angiotensin-II levels, and a decrease in plasma aldosterone concentration.
 Serum potassium levels are not significantly affected by irbesartan alone at the recommended doses.
 Irbesartan does not inhibit ACE (kininase-II), an enzyme which generates angiotensin-II and also degrades bradykinin into inactive metabolites.
@@ -27,7 +27,7 @@ The blood pressure lowering effects of irbesartan and thiazide-type diuretics ar
 In patients not adequately controlled by irbesartan alone, the addition of a low dose of hydrochlorothiazide
 (12.5 mg) to irbesartan once daily results in a further placebo-adjusted blood pressure reduction at trough of 7-10/3-6 mm Hg (systolic/diastolic).
 The efficacy of Aprovel is not influenced by age or gender.
-As is the case with other drugs that affect the renin-angiotensin system, black hypertensive patients have notably less response to irbesartan monotherapy.
+As is the case with other medicinal products that affect the renin-angiotensin system, black hypertensive patients have notably less response to irbesartan monotherapy.
 When irbesartan is administered concomitantly with a low dose of hydrochlorothiazide (e.g. 12.5 mg daily), the antihypertensive response in black patients approaches that of white patients.
 There is no clinically important effect on serum uric acid or urinary uric acid secretion.
 
@@ -35,7 +35,7 @@ Reduction of blood pressure with 0.5 mg/kg (low), 1.5 mg/kg (medium) and 4.5 mg/
 At the end of the three weeks the mean reduction from baseline in the primary efficacy variable, trough seated systolic blood pressure (SeSBP) was 11.7 mmHg (low dose), 9.3 mmHg (medium dose), 13.2 mmHg (high dose).
 No significant difference was apparent between these doses.
 Adjusted mean change of trough seated diastolic blood pressure (SeDBP) was as follows: 3.8 mmHg (low dose), 3.2 mmHg (medium dose), 5.6 mmHg (high dose).
-Over a subsequent two week period where patients were re-randomized to either active drug or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
+Over a subsequent two week period where patients were re-randomized to either active medicinal product or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
 
 Hypertension and type 2 diabetes with renal disease
 The “Irbesartan Diabetic Nephropathy Trial (IDNT)” shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria.

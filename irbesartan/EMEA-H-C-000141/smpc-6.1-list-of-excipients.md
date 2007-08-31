@@ -24,7 +24,7 @@ Silicon dioxide
 
 Film-coating:
 Titanium dioxide
-Macrogol
+Macrogol 3000
 Carnauba wax.
 
 [Aprovel 150 mg film-coated tablets.]
