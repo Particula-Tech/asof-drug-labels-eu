@@ -14,6 +14,12 @@ M184V mutants display greatly reduced susceptibility to lamivudine and show dimi
 In vitro studies indicate that zidovudine-resistant virus isolates can become zidovudine sensitive when they simultaneously acquire resistance to lamivudine.
 The clinical relevance of such findings remains, however, not well defined.
 
+In vitro data tend to suggest that the continuation of lamivudine in anti-retroviral regimen despite the development of M184V might provide residual anti-retroviral activity (likely through impaired viral fitness).
+The clinical relevance of these findings is not established.
+Indeed, the available clinical data are very limited and preclude any reliable conclusion in the field.
+In any case, initiation of susceptible NRTI’s should always be preferred to maintenance of lamivudine therapy.
+Therefore, maintaining lamivudine therapy despite emergence of M184V mutation should only be considered in cases where no other active NRTIs are available.
+
 Cross-resistance conferred by the M184V RT is limited within the nucleoside inhibitor class of antiretroviral agents.
 Zidovudine and stavudine maintain their antiretroviral activities against lamivudine-resistant HIV-1.
 Abacavir maintains its antiretroviral activities against lamivudine-resistant HIV-1 harbouring only the M184V mutation.

@@ -5,6 +5,7 @@ Following oral administration, the mean time (tmax) to maximal serum concentrati
 Based on data derived from a study in healthy volunteers, at a therapeutic dose of 150mg twice daily, mean (CV) steady-state Cmax and Cmin of lamivudine in plasma are 1.2 µg/ml (24%) and 0.09 µg/ml (27%), respectively.
 The mean (CV) AUC over a dosing interval of 12 hours is 4.7 µg.h/ml (18%).
 At a therapeutic dose of 300mg once daily, the mean (CV) steady-state Cmax, Cmin and 24h AUC are 2.0 µg/ml (26%), 0.04 µg/ml (34%) and 8.9 µg.h/ml (21%), respectively.
+
 The 150 mg tablet is bioequivalent and dose proportional to the 300 mg tablet with respect to AUC∞, Cmax, and tmax.
 
 Co-administration of lamivudine with food results in a delay of tmax and a lower C max (decreased by 47 %).
