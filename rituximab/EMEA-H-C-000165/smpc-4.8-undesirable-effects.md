@@ -13,6 +13,7 @@ Thirty-seven patients received 375 mg/m2 for eight doses and 25 patients receive
 
 The following table shows adverse events that were considered to be at least possibly related to MabThera during or up to 12 months after treatment.
 Adverse events were graded according to the four-scale National Cancer Institute (NCI) Common Toxicity Criteria.
+
 Table 1 Summary of adverse events reported in ≥ 1 % of 356 non-Hodgkin’s Lymphoma patients receiving MabThera monotherapy in clinical trials
 
 |  | All grades | Grade 3 and 4 |
@@ -51,6 +52,7 @@ Table 1 Summary of adverse events reported in ≥ 1 % of 356 non-Hodgkin’s Lym
 | Constipation | 1.1 | - |
 | Blood and lymphatic system |  |  |
 | Leucopenia | 12.4 | 2.8 |
+| Body system Adverse event | % | % |
 | Neutropenia | 11.2 | 4.2 |
 | Thrombocytopenia | 9.6 | 1.7 |
 | Anaemia | 3.7 | 1.1 |
@@ -67,7 +69,6 @@ Table 1 Summary of adverse events reported in ≥ 1 % of 356 non-Hodgkin’s Lym
 | Arthralgia | 5.9 | 0.6 |
 | Hypertonia | 1.4 | - |
 | Pain | 1.1 | 0.3 |
-| Body system Adverse event | % | % |
 | Nervous system |  |  |
 | Dizziness | 7.3 | - |
 | Paraesthesia | 2.5 | - |
@@ -110,6 +111,7 @@ MabThera induced B cell depletion in 70 % to 80 % of patients but was associated
 Infectious events, irrespective of causal assessment, occurred in 30.3 % of 356 patients: 18.8 % of patients had bacterial infections, 10.4 % had viral infections, 1.4 % had fungal infections, and 5.9 % had infections of unknown aetiology.
 Severe infectious events (grade 3 or 4), including sepsis occurred in 3.9 % of patients; in 1.4 % during the treatment period and in 2.5 % during the follow up period.
 As these were single-arm trials, the contributory role of MabThera or of the underlying NHL and its previous treatment to the development of these infectious events cannot be determined.
+
 Haematologic Adverse Reactions
 Haematological abnormalities occurred in a minority of patients and are usually mild and reversible.
 Severe (grade 3 and 4) thrombocytopenia and neutropenia were reported in 1.7 % and 4.2 % of patients respectively, and severe anaemia was reported in 1.1 % of patients.
@@ -138,7 +140,6 @@ One case of serum sickness has been reported in a clinical trial using MabThera 
 In combination with CVP chemotherapy
 
 The following data are based on 321 patients from a randomised phase III clinical trial comparing MabThera plus CVP (R-CVP) to CVP alone (162 R-CVP, 159 CVP).
-
 Differences between the treatment groups with respect to the type and incidence of adverse event were mainly accounted for by typical adverse events associated with MabThera monotherapy.
 
 The following grade 3 to 4 clinical adverse events were reported in ≥ 2 % higher incidence in patients receiving R-CVP compared to CVP treatment group and therefore may be attributable to R-CVP.
@@ -177,7 +178,6 @@ Patients who responded to induction treatment with CHOP or R-CHOP were randomise
 MabThera maintenance treatment consisted of a single infusion of MabThera at 375 mg/m2 body surface area administered every 3 months for a maximum period of 2 years or until disease progression.
 
 In the induction phase of the trial, a total of 462 patients (228 on CHOP, 234 on R-CHOP) contributed to the safety evaluation of the two induction regimens.
-
 Table 2 Induction phase: summary of grade 3 and 4 adverse events reported in ≥2 % of 462 non-Hodgkin’s Lymphoma patients in either group (CHOP or R-CHOP)
 
 | MedDRA System Organ Class Adverse Event | Incidence N (%) |  |
@@ -191,8 +191,6 @@ Table 2 Induction phase: summary of grade 3 and 4 adverse events reported in ≥
 | Diarrhoea | 5 (2) | 6 (3) |
 | Constipation* | 1 (< 1) | 7 (3) |
 | Stomatitis | 1 (< 1) | 4 (2) |
-|  | CHOP | R-CHOP |
-| Any adverse event | 152 (67) | 185 (79) |
 | Blood and lymphatic system disorders |  |  |
 | Neutropenia* | 108 (47) | 129 (55) |
 | Leucopenia | 106 (46) | 111 (47) |
@@ -227,7 +225,6 @@ Table 2 Induction phase: summary of grade 3 and 4 adverse events reported in ≥
 
 A total of 332 patients (166 observation, 166 rituximab) were included in the safety evaluation of the maintenance phase of the study.
 MabThera was given at a dose of 375 mg/m2 body surface area once every 3 months until disease progression or for a maximum period of two years.
-
 Table 3 Maintenance phase: summary of grade 3 and 4 adverse events reported in ≥ 2% of 332 non-Hodgkin’s Lymphoma patients in either treatment group (observation or MabThera maintenance)
 
 | MedDRA System Organ Class Adverse Event | Incidence N (%) |  |
@@ -269,7 +266,6 @@ Leucopenia (all grades) occurred in 21 % of patients on observation vs 29 % of p
 There was a higher incidence of grade 3-4 neutropenia (observation 4 %, MabThera 10 %) and leucopenia (observation 2 %, MabThera 5 %) in the MabThera arm compared to the observation arm.
 The incidence of grade 3 to 4 thrombocytopenia (observation 1 %, MabThera
 < 1 %) was low.
-
 Cardiac disorders
 The incidence of grade 3 to 4 cardiac disorders was comparable between the two treatment groups
 (4 % in observation, 5 % in MabThera).
@@ -314,13 +310,13 @@ Grade 3 and 4 infusion-related reactions (defined as starting during or within o
 The incidence of grade 3 and 4 infusion-related reactions decreased to less than 1 % by the eighth cycle of R-CHOP.
 The signs and symptoms were consistent with those observed during monotherapy (see section 4.4 and 4.8, Undesirable effects, monotherapy), and included fever, chills, hypotension, hypertension, tachycardia, dyspnoea, bronchospasm, nausea, vomiting, pain and features of tumour lysis syndrome.
 Additional reactions reported in isolated cases at the time of R-CHOP therapy were myocardial infarction, atrial fibrillation and pulmonary oedema.
-
 Infections
 The proportion of patients with grade 2 to 4 infections and/or febrile neutropenia was 55.4 % in the R-CHOP group and 51.5 % in the CHOP group.
 Febrile neutropenia (i.e. no report of concomitant documented infection) was reported only during the treatment period, in 20.8 % in the R-CHOP group and 15.3 % in the CHOP group.
 The overall incidence of grade 2 to 4 infections was 45.5 % in the R-CHOP group and 42.3 % in the CHOP group with no difference in the incidence of systemic bacterial and fungal infections.
 Grade 2 to 4 fungal infections were more frequent in the R-CHOP group (4.5 % vs 2.6 % in the CHOP group); this difference was due to a higher incidence of localised Candida infections during the treatment period.
 The incidence of grade 2 to 4 herpes zoster, including ophthalmic herpes zoster, was higher in the R-CHOP group (4.5 %) than in the CHOP group (1.5 %), with 7 of a total of 9 cases in the R-CHOP group occurring during the treatment phase.
+
 Haematologic events
 After each treatment cycle, grade 3 and 4 leucopenia (88 % vs 79 %) and neutropenia (97 % vs 88 %) occurred more frequently in the R-CHOP group than in the CHOP group.
 There was no evidence that neutropenia was more prolonged in the R-CHOP group.
@@ -484,7 +480,6 @@ In the majority of these cases, rituximab was administered with chemotherapy.
 | Body system Adverse event | % | % |
 | Any adverse event | 91.0 | 17.7 |
 | Body as a whole |  |  |
-| Body system Adverse event | % | % |
 | Fever | 48.3 | 0.6 |
 | Chills | 31.7 | 2.2 |
 | Asthenia | 18.0 | 0.3 |
@@ -517,6 +512,7 @@ In the majority of these cases, rituximab was administered with chemotherapy.
 | Blood and lymphatic system |  |  |
 | Leucopenia | 12.4 | 2.8 |
 | Neutropenia | 11.2 | 4.2 |
+| Body system Adverse event | % | % |
 | Thrombocytopenia | 9.6 | 1.7 |
 | Anaemia | 3.7 | 1.1 |
 | Metabolic and nutritional disorders |  |  |
@@ -537,7 +533,6 @@ In the majority of these cases, rituximab was administered with chemotherapy.
 | Paraesthesia | 2.5 | - |
 | Anxiety | 2.2 | - |
 | Insomnia | 2.2 | - |
-| Body system Adverse event | % | % |
 | Vasodilatation | 1.7 | - |
 | Hypoaesthesia | 1.4 | - |
 | Agitation | 1.4 | - |
@@ -560,84 +555,7 @@ In the majority of these cases, rituximab was administered with chemotherapy.
 | Ear pain | 1.1 | - |
 | Tinnitus | 1.1 | - |
 
-| MedDRA System Organ Class Adverse Event | Incidence N (%) |  |
-| --- | --- | --- |
-|  | CHOP | R-CHOP |
-| Any adverse event | 152 (67) | 185 (79) |
-| Gastrointestinal disorders |  |  |
-| Nausea* | 9 (4) | 13 (6) |
-| Vomiting | 8 (4) | 7 (3) |
-| Abdominal pain | 6 (3) | 4 (2) |
-| Diarrhoea | 5 (2) | 6 (3) |
-| Constipation* | 1 (< 1) | 7 (3) |
-| Stomatitis | 1 (< 1) | 4 (2) |
-| Blood and lymphatic system disorders |  |  |
-| Neutropenia* | 108 (47) | 129 (55) |
-| Leucopenia | 106 (46) | 111 (47) |
-| Thrombocytopenia | 18 (8) | 17 (7) |
-| Febrile neutropenia* | 8 (4) | 14 (6) |
-|  | CHOP | R-CHOP |
-| Any adverse event | 152 (67) | 185 (79) |
-| Haematotoxicity | 12 (5) | 9 (4) |
-| Anaemia | 5 (2) | 6 (3) |
-| General and administration site conditions |  |  |
-| Asthenia | 10 (4) | 5 (2) |
-| Pyrexia | 6 (3) | 7 (3) |
-| Nervous system disorders |  |  |
-| Sensory disturbance | 4 (2) | 7 (3) |
-| Skin and subcutaneous tissue disorders |  |  |
-| Alopecia* | 15 (7) | 30 (13) |
-| Skin disorder | 2 (<1) | 4 (2) |
-| Infections and infestations |  |  |
-| Neutropenic Infection | 18 (8) | 15 (6) |
-| Sepsis | 5 (2) | 3 (1) |
-| Urinary tract infection | 4 (2) | 3 (1) |
-| Respiratory, thoracic and mediastinal disorders |  |  |
-| Dyspnoea | 6 (3) | 3 (1) |
-| Musculoskeletal and connective tissue disorders |  |  |
-| Back pain | 1 (< 1) | 4 (2) |
-| Metabolism and nutrition disorders |  |  |
-| Hyperglycaemia | 5 (2) | 4 (2) |
-| Immune system disorders |  |  |
-| Hypersensitivity* | - | 10 (4) |
-| Cardiac disorders |  |  |
-| Cardiac disorder | 6 (3) | 2 (< 1) |
-
 The proportion of patients with IgG levels below the LLN was about 60 % in the MabThera group throughout the 2 year treatment period, while it decreased in the observation group (36 % after 2 years).
 
 Cardiac events were observed in 11 % patients in clinical studies with MabThera.
 In placebo controlled studies, serious cardiac events were reported equally in MabThera and placebo treated patients (2 %).
-
-| Infections and infestations |  |
-| --- | --- |
-| Very rare (< 1/10,000): | Serious viral infection1 |
-| Blood and lymphatic system disorders |  |
-| Rare (≥ 1/10,000, < 1/1000): | Late neutropenia2 |
-| Very rare (< 1/10,000): | Pancytopenia Aplastic anaemia Transient increase in serum IgM levels3 |
-| Cardiovascular system |  |
-| Rare (≥ 1/10,000, < 1/1000): | *Severe cardiac events4 |
-| Very rare (< 1/10,000): | *Heart failure4 *Myocardial infarction4 |
-| Ear and labyrinth disorders |  |
-| Very rare (< 1/10,000): | †Hearing loss |
-| Eye disorders |  |
-| Very rare (< 1/10,000): | †Severe vision loss |
-| General disorders and administration site conditions |  |
-| Very rare (< 1/10,000): | *Multi-organ failure |
-| Immune system disorders |  |
-| Uncommon (≥ 1/1000, < 1/100): | Infusion related reactions |
-| Rare (≥ 1/10,000, < 1/1000): | Anaphylaxis |
-| Very rare (< 1/10,000): | *Tumour lysis syndrome *Cytokine release syndrome Serum sickness |
-|  | Hepatitis B reactivation5 |
-| Nervous system disorders |  |
-| Very rare (< 1/10,000): | Cranial neuropathy Peripheral neuropathy †Facial nerve palsy †Loss of other senses |
-| Renal and urinary disorders |  |
-| Very rare (< 1/10,000): | *Renal failure |
-| Respiratory, thoracic and mediastinal disorders |  |
-| Rare (≥ 1/10,000, < 1/1000): | *Bronchospasm |
-| Very rare (< 1/10,000): | *Respiratory failure Pulmonary infiltrates Interstitial pneumonitis |
-| Gastrointestinal disorders |  |
-| Very rare (< 1/10,000): | Gastro-intestinal perforation6 |
-| Skin and subcutaneous tissue disorders |  |
-| Very rare (< 1/10,000): | Severe bullous skin reactions Toxic epidermal necrolysis7 |
-| Vascular disorders |  |
-| Very rare (< 1/10,000): | Vasculitis (predominately cutaneous) Leukocytoclastic vasculitis |

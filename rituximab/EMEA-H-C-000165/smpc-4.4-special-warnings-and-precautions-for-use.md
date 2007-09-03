@@ -38,6 +38,10 @@ Very rare cases of hepatitis B reactivation, including reports of fulminant hepa
 The reports are confounded by both the underlying disease state and the cytotoxic chemotherapy.
 Patients with a history of hepatitis B infection should be carefully monitored for signs of active hepatitis B infection when rituximab is used in association with cytotoxic chemotherapy.
 
+Very rare cases of Progressive Multifocal Leukoencephalopathy have been reported during post-marketing use of MabThera/Rituxan in NHL (see section 4.8).
+The majority of patients had received rituximab in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
+Physicians treating patients with non-Hodgkin’s Lymphoma should consider PML in the differential diagnosis of patients reporting neurological symptoms and consultation with a Neurologist should be considered as clinically indicated.
+
 The safety of immunization with any vaccine, particularly live viral vaccines, following MabThera therapy has not been studied.
 The ability to generate a primary or anamnestic humoral response to any vaccine has also not been studied.
 
@@ -57,11 +61,11 @@ Medicinal products for the treatment of hypersensitivity reactions, e.g., epinep
 The presence of HACA may be associated with worsening infusion or allergic reactions after the second infusion of subsequent courses (see section 5.1).
 
 In clinical studies 10/990 (1 %) patients with rheumatoid arthritis who received a first infusion of MabThera at any dose experienced a serious reaction during the infusion (see section 4.8).
-
 There are no data on the safety of MabThera in patients with moderate heart failure (NYHA class III) or severe, uncontrolled cardiovascular disease.
 In patients treated with MabThera, the occurrence of pre-existing ischemic cardiac conditions becoming symptomatic, such as angina pectoris, has been observed, as well as atrial fibrillation and flutter.
 Therefore, in patients with a known cardiac history, the risk of cardiovascular complications resulting from infusion reactions should be considered before treatment with MabThera and patients closely monitored during administration.
 Since hypotension may occur during MabThera infusion, consideration should be given to withholding anti-hypertensive medications 12 hours prior to the MabThera infusion.
+
 Infections
 Serious infections, including fatalities, can occur during therapy with MabThera (see section 4.8).
 MabThera should not be administered to patients with an active and/or severe infection (eg. tuberculosis, sepsis and opportunistic infections, see section 4.3) or severely immunocompromised patients (eg.
@@ -87,6 +91,16 @@ Patients should be closely observed for signs of infection if biologic agents an
 Malignancy
 Immunomodulatory drugs may increase the risk of malignancy.
 On the basis of limited experience with MabThera in rheumatoid arthritis patients (see section 4.8) a possible risk for the development of solid tumours cannot be excluded at this time, although present data do not seem to suggest any increased risk.
+
+Spontaneous Reporting
+Cases of fatal Progressive Multifocal Leukoencephalopathy have been reported following off-label use of MabThera for the treatment of certain autoimmune diseases, including Systemic Lupus Erythematosus (SLE) and Vasculitis.
+The patients with autoimmune diseases had a history of prior or concurrent immunosuppressive therapy and were diagnosed with PML within 12 months of their last infusion of MabThera.
+No cases of PML have been reported in patients with rheumatoid arthritis.
+PML has also been reported in patients with autoimmune disease not treated with MabThera.
+The reported cases had multiple risk factors for PML, including the underlying disease and long-term immunosuppressive therapy.
+Physicians treating patients with autoimmune diseases should consider PML in the differential diagnosis of patients reporting neurological symptoms and consultation with a Neurologist should be considered as clinically indicated.
+
+The efficacy and safety of MabThera for the treatment of autoimmune diseases other than rheumatoid arthritis has not been established.
 
 [MabThera 500 mg concentrate for solution for infusion.]
 
