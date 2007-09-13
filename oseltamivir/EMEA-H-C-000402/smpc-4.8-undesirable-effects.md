@@ -66,6 +66,7 @@ The adverse events were consistent with those previously observed (see table abo
 
 Observed during clinical practice: The following adverse reactions have been reported during postmarketing use of oseltamivir: dermatitis, rash, eczema, urticaria, angioneurotic oedema, hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, as well as very rare reports of severe skin reactions, including Stevens-Johnson syndrome, toxic epidermal necrolysis and erythema multiforme.
 Additionally, there are very rare reports of hepato-biliary system disorders, including hepatitis and elevated liver enzymes in patients with influenza-like illness.
+These cases include fatal fulminant hepatitis/hepatic failure.
 
 Convulsions and psychiatric events such as depressed level of consciousness, abnormal behavior, hallucinations and delirium have been reported during Tamiflu administration.
 In rare cases, the delirium resulted in accidental injury.
