@@ -34,9 +34,8 @@ Special Populations
 Elderly
 Healthy elderly subjects (65 years or over), had a lower oral clearance of tadalafil, resulting in 25 % higher exposure (AUC) relative to healthy subjects aged 19 to 45 years.
 This effect of age is not clinically significant and does not warrant a dose adjustment.
-
 Renal insufficiency
-In clinical pharmacology studies using single-dose tadalafil (5-20 mg), tadalafil exposure (AUC) approximately doubled in subjects with mild (creatinine clearance 51 to 80 ml/min) or moderate (creatinine clearance 31 to 50 ml/min) renal impairment and in subjects with end-stage renal disease on dialysis.
+In clinical pharmacology studies using single-dose tadalafil (5 mg-20 mg), tadalafil exposure (AUC) approximately doubled in subjects with mild (creatinine clearance 51 to 80 ml/min) or moderate (creatinine clearance 31 to 50 ml/min) renal impairment and in subjects with end-stage renal disease on dialysis.
 In haemodialysis patients, Cmax was 41% higher than that observed in healthy subjects.
 Haemodialysis contributes negligibly to tadalafil elimination.
 
@@ -44,19 +43,20 @@ Hepatic insufficiency
 Tadalafil exposure (AUC) in subjects with mild and moderate hepatic impairment (Child-Pugh Class A and B) is comparable to exposure in healthy subjects when a dose of 10 mg is administered.
 There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C). There are no available data about the administration of once-a-day dosing of tadalafil to patients with hepatic impairment.
 If CIALIS is prescribed once-a-day, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
+
 Patients with diabetes
 Tadalafil exposure (AUC) in patients with diabetes was approximately 19 % lower than the AUC value for healthy subjects.
 This difference in exposure does not warrant a dose adjustment.
 
 [CIALIS 5 mg film-coated tablets]
 
-(all sentences already above)
+In clinical pharmacology studies using single-dose tadalafil (5mg -20 mg), tadalafil exposure (AUC) approximately doubled in subjects with mild (creatinine clearance 51 to 80 ml/min) or moderate (creatinine clearance 31 to 50 ml/min) renal impairment and in subjects with end-stage renal disease on dialysis.
 
 [CIALIS 10 mg film-coated tablets]
 
-There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.
+There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C). If CIALIS is prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
+There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.
 
 [CIALIS 20 mg film-coated tablets]
 
-There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
-There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.
+In clinical pharmacology studies using single-dose tadalafil (5-20 mg), tadalafil exposure (AUC) approximately doubled in subjects with mild (creatinine clearance 51 to 80 ml/min) or moderate (creatinine clearance 31 to 50 ml/min) renal impairment and in subjects with end-stage renal disease on dialysis.

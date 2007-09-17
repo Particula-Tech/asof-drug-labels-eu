@@ -1,6 +1,6 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/1/02/237/ 006
+EU/1/02/237/006
 
 [CIALIS 5 mg film-coated tablets]
 

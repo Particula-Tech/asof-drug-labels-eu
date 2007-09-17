@@ -18,9 +18,9 @@ Tadalafil is also
 > 10,000-fold more potent for PDE5 than for PDE7 through PDE10.
 
 Three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness to CIALIS on demand.
-CIALIS demonstrated statistically significant improvement in erectile function and the ability to have successful sexual intercourse up to 36 hours following dosing, as well as patients’ ability to attain and maintain erections for successful intercourse compared to placebo as early as 16 minutes following dosing.
+Tadalafil demonstrated statistically significant improvement in erectile function and the ability to have successful sexual intercourse up to 36 hours following dosing, as well as patients’ ability to attain and maintain erections for successful intercourse compared to placebo as early as 16 minutes following dosing.
 
-CIALIS administered to healthy subjects produced no significant difference compared to placebo in supine systolic and diastolic blood pressure (mean maximal decrease of 1.6/0.8 mm Hg, respectively), in standing systolic and diastolic blood pressure (mean maximal decrease of 0.2/4.6 mm Hg, respectively), and no significant change in heart rate.
+Tadalafil administered to healthy subjects produced no significant difference compared to placebo in supine systolic and diastolic blood pressure (mean maximal decrease of 1.6/0.8 mm Hg, respectively), in standing systolic and diastolic blood pressure (mean maximal decrease of 0.2/4.6 mm Hg, respectively), and no significant change in heart rate.
 
 In a study to assess the effects of tadalafil on vision, no impairment of colour discrimination (blue/green) was detected using the Farnsworth-Munsell 100-hue test.
 This finding is consistent with the low affinity of tadalafil for PDE6 compared to PDE5.
@@ -30,7 +30,6 @@ Three studies were conducted in men to assess the potential effect on spermatoge
 10 mg (one 6-month study) and 20 mg (one 6-month and one 9-month study) administered daily.
 In two of these studies decreases were observed in sperm count and concentration related to tadalafil treatment of unlikely clinical relevance.
 These effects were not associated with changes in other parameters such as motility, morphology and FSH.
-
 Tadalafil at doses of 2.5, 5, and 10 mg taken once a day has been evaluated in 3 clinical studies involving 853 patients of various ages (range 21-82 years) and ethnicities, with erectile dysfunction of various severities (mild, moderate, severe) and etiologies.
 Most patients in all three studies were responders to previous on-demand treatment with PDE5 inhibitors.
 In the two primary efficacy studies of general populations, the mean per-subject proportion of successful attempts were 57 and 67% on CIALIS 5mg, 50% on CIALIS 2.5mg as compared to 31 and 37% with placebo.
@@ -40,11 +39,11 @@ In a 12-week study performed in 186 patients (142 tadalafil, 44 placebo) with er
 
 [CIALIS 5 mg film-coated tablets]
 
-Pharmacotherapeutic group: Drugs used in erectile dysfunction, ATC Code: G04B-E.
+(all sentences already above)
 
 [CIALIS 10 mg film-coated tablets]
 
-Pharmacotherapeutic group: Drugs used in erectile dysfunction (ATC Code G04B E).
+Pharmacotherapeutic group: Drugs used in erectile dysfunction, ATC Code G04BE.
 
 Three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness to CIALIS.
 

@@ -6,12 +6,12 @@ Aluminium/PVC/PE/PCTFE blisters in cartons of 28 film-coated tablets.
 
 Aluminium/PVC/PE/PCTFE blisters in cartons of 14 or 28 film-coated tablets.
 
+Not all packs sizes may be marketed.
+
 [CIALIS 10 mg film-coated tablets]
 
-Aluminium/PVC/PE/PCTFE blisters in cartons of 4 tablets 10 mg.
+Aluminium/PVC/PE/PCTFE blisters in cartons of 4 film-coated tablets.
 
 [CIALIS 20 mg film-coated tablets]
 
-Aluminium/PVC/PE/PCTFE blisters in cartons of 2, 4, 8 and 12 tablets 20 mg.
-
-Not all packs sizes may be marketed in every country.
+Aluminium/PVC/PE/PCTFE blisters in cartons of 2, 4, 8 and 12 film-coated tablets.

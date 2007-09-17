@@ -1,9 +1,10 @@
 # 4.2 Posology and method of administration
 
 For oral use.
+CIALIS is available as 2.5, 5, 10, and 20 mg film-coated tablets.
 
 Use in adult men
-In general, the recommended dose is 10 mg prior to anticipated sexual activity and with or without food.
+In general, the recommended dose is 10 mg taken prior to anticipated sexual activity and with or without food.
 In those patients in whom tadalafil 10 mg does not produce an adequate effect, 20 mg might be tried.
 It may be taken at least 30 minutes prior to sexual activity.
 
@@ -22,9 +23,13 @@ Use in elderly men
 Dose adjustments are not required in elderly patients.
 Use in men with impaired renal function
 Dose adjustments are not required in patients with mild to moderate renal impairment.
+For patients with severe renal impairment 10 mg is the maximum recommended dose.
 Once-a-day dosing of tadalafil is not recommended in patients with severe renal impairment.(See sections 4.4 and 5.2).
 
 Use in men with impaired hepatic function
+The recommended dose of CIALIS is 10 mg taken prior to anticipated sexual activity and with or without food.
+There is limited clinical data on the safety of CIALIS in patients with severe hepatic impairment (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
+There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.
 Once-a-day dosing has not been evaluated in patients with hepatic impairment; therefore, if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
 (See section 5.2).
 
@@ -32,32 +37,23 @@ Use in men with diabetes
 Dose adjustments are not required in diabetic patients.
 
 Use in children and adolescents
-There is no relevant indication for use of CIALIS in children.
+CIALIS should not be used in individuals below 18 years of age.
 
 [CIALIS 5 mg film-coated tablets]
+
+CIALIS is available as 2.5, 5, 10 and 20 mg film-coated tablets.
 
 Once-a-day dosing of tadalafil is not recommended in patients with severe renal impairment.(See sections 4.
 4 and 5.2).
 
 [CIALIS 10 mg film-coated tablets]
 
-The recommended dose is 10 mg taken prior to anticipated sexual activity and without regard to food.
-The maximum dosing frequency is once per day.
-Tadalafil 10 and 20 mg is intended for use prior to anticipated sexual activity and is not recommended for continuous daily use.
+Once-a-day dosing of tadalafil is not recommended in patients with severe renal impairment.
+(See sectiones 4.4 and 5.2)
 
-Dosage adjustments are not required in elderly patients.
-
-Dosage adjustments are not required in patients with mild to moderate renal impairment.
-For patients with severe renal impairment 10 mg is the maximum recommended dose.(See section 5.2 Pharmacokinetic properties).
-
-The recommended dose of CIALIS is 10 mg taken prior to anticipated sexual activity and without regard to food.
-There is limited clinical data on the safety of CIALIS in patients with severe hepatic insufficiency (Child-Pugh Class C); if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
-There are no available data about the administration of doses higher than 10 mg of tadalafil to patients with hepatic impairment.
-(See sections 4.4 Special warnings and precautions for use and 5.2 Pharmacokinetic properties).
-Dosage adjustments are not required in diabetic patients.
-
-CIALIS should not be used in individuals below 18 years of age.
+Once-a-day dosing has not been evaluated in patients with hepatic impairment; therefore if prescribed, a careful individual benefit/risk evaluation should be undertaken by the prescribing physician.
+(See section 5.2 ).
 
 [CIALIS 20 mg film-coated tablets]
 
-(all sentences already above)
+Tadalafil 10 mg and 20 mg is intended for use prior to anticipated sexual activity and it is not recommended for continuous daily use.

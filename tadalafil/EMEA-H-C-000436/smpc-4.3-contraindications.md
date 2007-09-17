@@ -1,6 +1,6 @@
 # 4.3 Contraindications
 
-CIALIS must not be used in patients with hypersensitivity to the active substance or to any of the excipients.
+Hypersensitivity to the active substance or to any of the excipients.
 
 In clinical studies, tadalafil was shown to augment the hypotensive effects of nitrates.
 This is thought to result from the combined effects of nitrates and tadalafil on the nitric oxide/cGMP pathway.
@@ -19,19 +19,3 @@ The following groups of patients with cardiovascular disease were not included i
 - patients with a stroke within the last 6 months.
 
 CIALIS is contraindicated in patients who have loss of vision in one eye because of non-arteritic anterior ischemic optic neuropathy (NAION), regardless of whether this episode was in connection or not with previous PDE5 inhibitor exposure (see section 4.4).
-
-[CIALIS 5 mg film-coated tablets]
-
-(all sentences already above)
-
-[CIALIS 10 mg film-coated tablets]
-
-(See section 4.5 Interaction with other medicinal products and other forms of interaction).
-
-Agents for the treatment of erectile dysfunction, including CIALIS, should not be used in men with cardiac disease for whom sexual activity is inadvisable.
-
-CIALIS should not be used in patients with hypersensitivity to tadalafil or to any of the excipients.
-
-[CIALIS 20 mg film-coated tablets]
-
-(all sentences already above)
