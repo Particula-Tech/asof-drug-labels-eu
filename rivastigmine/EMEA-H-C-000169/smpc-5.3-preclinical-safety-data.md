@@ -12,3 +12,41 @@ When normalised to body surface area, the exposure to rivastigmine and its metab
 
 In animals, rivastigmine crosses the placenta and is excreted into milk.
 Oral studies in pregnant rats and rabbits gave no indication of teratogenic potential on the part of rivastigmine.
+
+[EXELON 3 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 4.5 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 6 mg hard capsules]
+
+(all sentences already above)
+
+[EXELON 2 mg/ml Oral Solution]
+
+(all sentences already above)
+
+[Exelon 4.6 mg/24 h transdermal patch]
+
+Oral and topical repeated-dose toxicity studies in mice, rats, rabbits, dogs and minipigs revealed only effects associated with an exaggerated pharmacological action.
+Oral and topical dosing in animal studies was limited due to the sensitivity of the animal models used.
+
+Rivastigmine was not mutagenic in a standard battery of in vitro and in vivo tests, except in a chromosomal aberration test in human peripheral lymphocytes at a dose exceeding 104 times the foreseen clinical exposure.
+
+No evidence of carcinogenicity was found in oral and topical studies in mice and in an oral study in rats at the maximum tolerated dose.
+The exposure to rivastigmine and its metabolites was approximately equivalent to human exposure with highest doses of rivastigmine capsules and transdermal patches.
+
+Specific dermal studies in pregnant animals have not been conducted.
+
+Rivastigmine transdermal patches were not phototoxic.
+In some other dermal toxicity studies, a mild irritant effect on the skin of laboratory animals, including controls, was observed.
+This may indicate a potential for Exelon transdermal patches to induce mild erythema in patients.
+When administered to rabbit eyes in primary eye irritation studies, rivastigmine caused reddening and swelling of the conjunctiva, corneal opacities and miosis which persisted for 7 days.
+Therefore, the patient/caregiver should avoid contact with the eyes after handling of the patch (see section 4.4).
+
+[Exelon 9.5 mg/24 h transdermal patch]
+
+(all sentences already above)

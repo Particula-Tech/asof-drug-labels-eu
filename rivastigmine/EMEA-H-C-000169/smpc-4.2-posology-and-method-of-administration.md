@@ -57,3 +57,58 @@ Rivastigmine oral solution should be administered twice a day, with morning and 
 The prescribed amount of solution should be withdrawn from the container using the oral dosing syringe supplied.
 Rivastigmine oral solution may be swallowed directly from the syringe.
 Rivastigmine oral solution and rivastigmine capsules may be interchanged at equal doses.
+
+[Exelon 4.6 mg/24 h transdermal patch]
+
+Treatment should be initiated and supervised by a physician experienced in the diagnosis and treatment of Alzheimer’s dementia.
+Similar to any treatment initiated in patients with dementia, therapy with rivastigmine should only be started if a caregiver is available to regularly administer and monitor the treatment.
+
+Posology
+
+| Transdermal patches | Rivastigmine dose load | Rivastigmine in vivo release rates per 24 h |
+| --- | --- | --- |
+| Exelon 4.6 mg/24 h | 9 mg | 4.6 mg |
+| Exelon 9.5 mg/24 h | 18 mg | 9.5 mg |
+
+Initial dose: Treatment is started with 4.6 mg/24 h.
+After a minimum of four weeks of treatment and if well tolerated according to the treating physician, this dose should be increased to 9.5 mg/24 h, which is the recommended effective dose.
+
+Maintenance dose: 9.5 mg/24 h is the recommended daily maintenance dose which can be continued for as long as the patient is deriving therapeutic benefit.
+Treatment should be temporarily interrupted if gastrointestinal adverse effects are observed until these adverse effects resolve.
+Transdermal patch treatment can be resumed at the same dose if treatment is not interrupted for more than several days.
+Otherwise treatment should be re-initiated with 4.6 mg/24 h.
+
+Switching from capsules or oral solution to transdermal patches:
+Based on comparable exposure between oral and transdermal rivastigmine (see section 5.2), patients treated with Exelon capsules or oral solution can be switched to Exelon transdermal patches as follows:
+
+- A patient on a dose of 3 mg/day oral rivastigmine can be switched to 4.6 mg/24 h transdermal patches.
+- A patient on a dose of 6 mg/day oral rivastigmine can be switched to 4.6 mg/24 h transdermal patches.
+- A patient on a stable and well tolerated dose of 9 mg/day oral rivastigmine can be switched to 9.5 mg/24 h transdermal patches.
+  If the oral dose of 9 mg/day has not been stable and well tolerated, a switch to 4.6 mg/24 h transdermal patches is recommended.
+- A patient on a dose of 12 mg/day oral rivastigmine can be switched to 9.5 mg/24 h transdermal patches.
+
+After switching to 4.6 mg/24 h transdermal patches, provided these are well tolerated after a minimum of four weeks of treatment, the dose of 4.6 mg/24 h should be increased to 9.5 mg/24 h, which is the recommended effective dose.
+
+It is recommended to apply the first transdermal patch on the day following the last oral dose.
+
+Method of administration
+Transdermal patches should be applied once a day to clean, dry, hairless, intact healthy skin on the upper or lower back, upper arm or chest, in a place which will not be rubbed by tight clothing.
+It is not recommended to apply the transdermal patch to the thigh or to the abdomen due to decreased bioavailability of rivastigmine observed when the transdermal patch is applied to these areas of the body.
+
+The transdermal patch should not be applied to skin that is red, irritated or cut.
+Reapplication to the exact same skin location within 14 days should be avoided to minimise the potential risk of skin irritation.
+
+The transdermal patch should be pressed down firmly until the edges stick well.
+It can be used in everyday situations, including bathing and during hot weather.
+
+The transdermal patch should be replaced by a new one after 24 hours.
+Only one transdermal patch should be worn at a time.
+Patients and caregivers should be instructed accordingly.
+
+Renal impairment: No dose adjustment is necessary for patients with renal impairment (see section 5.2).
+
+Children and adolescents (age below 18 years): Rivastigmine is not recommended for use in children and adolescents.
+
+[Exelon 9.5 mg/24 h transdermal patch]
+
+(all sentences already above)

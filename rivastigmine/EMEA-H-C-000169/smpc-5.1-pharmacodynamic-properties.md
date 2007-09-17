@@ -59,7 +59,6 @@ Table 5
 A positive change indicates improvement.
 2 Mean data shown for convenience, categorical analysis performed using van Elteren test
 ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward
-
 Although a treatment effect was demonstrated in the overall study population, the data suggested that a larger treatment effect relative to placebo was seen in the subgroup of patients with moderate dementia associated with Parkinson’s disease.
 Similarly a larger treatment effect was observed in those patients with visual hallucinations (see Table 6).
 
@@ -96,4 +95,52 @@ ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
 
 The efficacy of Exelon has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
 
-ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward Although a treatment effect was demonstrated in the overall study population, the data suggested that a larger treatment effect relative to placebo was seen in the subgroup of patients with moderate dementia associated with Parkinson’s disease.
+[Exelon 4.6 mg/24 h transdermal patch]
+
+Pharmacotherapeutic group: anticholinesterases, ATC code: N06DA03
+
+Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits in dementia associated with Alzheimer’s disease.
+
+In patients with Alzheimer’s disease, inhibition of AChE in CSF by oral rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested.
+Inhibition of butyrylcholinesterase activity in CSF of 14 Alzheimer patients treated by oral rivastigmine was similar to that of AChE.
+
+The efficacy of Exelon transdermal patches in patients with Alzheimer’s dementia has been demonstrated in a 24-week double-blind core study and its open-label extension phase.
+Patients involved in this study had an MMSE (Mini-Mental State Examination) score of 10–20.
+Efficacy was established by the use of independent, domain-specific assessment tools which were applied at regular intervals during the 24-week treatment period.
+These include the ADAS-Cog (a performance-based measure of cognition) and the ADCS-CGIC (a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the ADCS-ADL (a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities related to finances).
+The 24-week results for the three assessment tools are summarised in Table 2.
+
+Table 2
+
+| ITT-LOCF population | Exelon transdermal patches 9.5 mg/24 h N = 251 | Exelon capsules 12 mg/day N = 256 | Placebo N = 282 |
+| --- | --- | --- | --- |
+| ADAS-Cog Mean baseline ± SD Mean change at week 24 ± SD p-value versus placebo | (n=248) 27.0 ± 10.3 -0.6 ± 6.4 0.005*1 | (n=253) 27.9 ± 9.4 -0.6 ± 6.2 0.003*1 | (n=281) 28.6 ± 9.9 1.0 ± 6.8 |
+| ADCS-CGIC Mean score ± SD p-value versus placebo | (n=248) 3.9 ± 1.20 0.010*2 | (n=253) 3.9 ± 1.25 0.009*2 | (n=278) 4.2 ± 1.26 |
+| ADCS-ADL Mean baseline ± SD Mean change at week 24 ± SD p-value versus placebo | (n=247) 50.1 ± 16.3 -0.1 ± 9.1 0.013*1 | (n=254) 49.3 ± 15.8 -0.5 ± 9.5 0.039*1 | (n=281) 49.2 ± 16.0 -2.3 ± 9.4 |
+
+* p≤0.05 versus placebo
+ITT: Intent-To-Treat; LOCF: Last Observation Carried Forward
+1 Based on ANCOVA with treatment and country as factors and baseline value as a covariate.
+Negative ADAS-Cog changes indicate improvement.
+Positive ADCS-ADL changes indicate improvement.
+2 Based on CMH test (van Elteren test) blocking for country.
+ADCS-CGIC scores <4 indicate improvement.
+
+The results for clinically relevant responders from the 24-week study are provided in Table 3.
+Clinically relevant improvement was defined a priori as at least 4-point improvement on the ADAS-Cog, no worsening on the ADCS-CGIC, and no worsening on the ADCS-ADL.
+
+Table 3
+
+|  | Patients with clinically significant response (%) |  |  |
+| --- | --- | --- | --- |
+| ITT-LOCF population | Exelon transdermal patches 9.5 mg/24 h N = 251 | Exelon capsules 12 mg/day N = 256 | Placebo N = 282 |
+| At least 4 points improvement on ADAS-Cog with no worsening on ADCS-CGIC and ADCS-ADL | 17.4 | 19.0 | 10.5 |
+| p-value versus placebo | 0.037* | 0.004* |  |
+
+*p<0.05 versus placebo
+
+As suggested by compartmental modelling, 9.5 mg/24 h transdermal patches exhibited exposure similar to that provided by an oral dose of 12 mg/day.
+
+[Exelon 9.5 mg/24 h transdermal patch]
+
+(all sentences already above)

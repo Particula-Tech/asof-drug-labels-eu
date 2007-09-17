@@ -9,7 +9,8 @@ In other cases, Exelon has been discontinued (see section 4.8).
 
 Gastrointestinal disorders such as nausea and vomiting may occur particularly when initiating treatment and/or increasing the dose.
 These adverse events occur more commonly in women.
-Patients with Alzheimer’s disease may lose weight.
+Patients with
+Alzheimer’s disease may lose weight.
 Cholinesterase inhibitors, including rivastigmine, have been associated with weight loss in these patients.
 During therapy patient’s weight should be monitored.
 
@@ -21,6 +22,7 @@ As with other cholinomimetics, care must be taken when using rivastigmine in pat
 
 As with other cholinergic substances, rivastigmine may cause increased gastric acid secretions.
 Care should be exercised in treating patients with active gastric or duodenal ulcers or patients predisposed to these conditions.
+
 Cholinesterase inhibitors should be prescribed with care to patients with a history of asthma or obstructive pulmonary disease.
 
 Cholinomimetics may induce or exacerbate urinary obstruction and seizures.
@@ -49,3 +51,33 @@ Clinical monitoring is recommended for these adverse events.
 
 One of the excipients in EXELON Oral Solution is sodium benzoate.
 Benzoic acid is a mild irritant to the skin, eyes and mucous membrane.
+
+[Exelon 4.6 mg/24 h transdermal patch]
+
+The incidence and severity of adverse events generally increase with increasing doses, particularly at dose changes.
+If treatment is interrupted for more than several days, it should be re-initiated with 4.6 mg/24 h.
+
+Gastrointestinal disorders such as nausea and vomiting are dose-related, and may occur when initiating treatment and/or increasing the dose (see section 4.8).
+
+Patients with Alzheimer’s disease may lose weight whilst taking cholinesterase inhibitors, including rivastigmine.
+The patient’s weight should be monitored during therapy with Exelon transdermal patches.
+
+As with other cholinergic substances, care must be taken when prescribing Exelon transdermal patches:
+
+- to patients with sick sinus syndrome or conduction defects (sino-atrial block, atrio-ventricular block) (see section 4.8)
+- to patients with active gastric or duodenal ulcers or patients predisposed to these conditions because rivastigmine may cause increased gastric secretions (see section 4.8)
+- to patients predisposed to urinary obstruction and seizures because cholinomimetics may induce or exacerbate these diseases.
+- to patients with a history of asthma or obstructive pulmonary disease.
+
+As with other cholinergic substances, rivastigmine may exacerbate or induce extrapyramidal symptoms.
+
+Contact with the eyes should be avoided after handling Exelon transdermal patches (see section 5.3).
+
+Special populations:
+
+- Patients with body weight below 50 kg may experience more adverse events and may be more likely to discontinue due to adverse events.
+- Hepatic impairment: Patients with clinically significant hepatic impairment might experience more adverse events (see section 5.2).
+
+[Exelon 9.5 mg/24 h transdermal patch]
+
+(all sentences already above)

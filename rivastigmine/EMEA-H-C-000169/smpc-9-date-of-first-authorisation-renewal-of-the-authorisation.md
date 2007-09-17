@@ -17,3 +17,11 @@
 [EXELON 2 mg/ml Oral Solution]
 
 02.06.99/12.05.2003
+
+[Exelon 4.6 mg/24 h transdermal patch]
+
+(all sentences already above)
+
+[Exelon 9.5 mg/24 h transdermal patch]
+
+(all sentences already above)

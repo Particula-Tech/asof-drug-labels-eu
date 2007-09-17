@@ -28,3 +28,21 @@ Citric acid
 Sodium citrate
 Quinoline yellow WS dye (E104)
 Purified water
+
+[Exelon 4.6 mg/24 h transdermal patch]
+
+Backing layer:
+- polyethylene terephthalate film, lacquered.
+Medicinal product matrix:
+- alpha-tocopherol,
+- poly(butylmethacrylate, methyl-methacrylate),
+- acrylic copolymer.
+Adhesive matrix:
+- silicone oil,
+- dimethicone.
+Release liner:
+- polyester film, fluoropolymer-coated.
+
+[Exelon 9.5 mg/24 h transdermal patch]
+
+(all sentences already above)
