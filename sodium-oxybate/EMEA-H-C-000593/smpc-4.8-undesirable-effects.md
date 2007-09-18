@@ -35,6 +35,7 @@ Skin and subcutaneous tissue disorders:
 Common: sweating
 Uncommon: rash
 Not known: urticaria
+
 Musculoskeletal, connective tissue and bone disorders:
 Common: muscle cramps, arthralgia
 Renal and urinary disorders:

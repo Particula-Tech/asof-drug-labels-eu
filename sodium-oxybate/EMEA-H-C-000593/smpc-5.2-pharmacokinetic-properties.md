@@ -11,7 +11,6 @@ The average time to peak plasma concentration (Tmax) ranged from 0.5 to 2 hours 
 Following oral administration, the plasma levels of sodium oxybate increase more than proportionally with increasing dose.
 Single doses greater than 4.5 g have not been studied.
 Administration of sodium oxybate immediately after a high fat meal resulted in delayed absorption (average Tmax increased from 0.75 hr to 2.0 hr) and a reduction in peak plasma level (Cmax) by a mean of 58% and of systemic exposure (AUC) by 37 %.
-
 Distribution: Sodium oxybate is a hydrophilic compound with an apparent volume of distribution averaging 190-384 ml/kg.
 At sodium oxybate concentrations ranging from 3 to 300 µg/ml, less than 1 % is bound to plasma proteins.
 
@@ -21,6 +20,7 @@ Succinic acid enters the Krebs cycle where it is metabolised to carbon dioxide a
 A second mitochondrial oxidoreductase enzyme, a transhydrogenase, also catalyses the conversion to succinic semialdehyde in the presence of α-ketoglutarate.
 An alternate pathway of biotransformation involves β-oxidation via 3,4-dihydroxybutyrate to Acetyl CoA, which also enters the citric acid cycle to result in the formation of carbon dioxide and water.
 No active metabolites have been identified.
+
 Studies in vitro with pooled human liver microsomes indicate that sodium oxybate does not significantly inhibit the activities of the human isoenzymes: CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1, or CYP3A up to the concentration of 3 mM (378 µg/ml).
 These levels are considerably higher than levels achieved with therapeutic doses.
 

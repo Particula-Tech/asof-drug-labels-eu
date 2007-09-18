@@ -4,7 +4,6 @@ Repeat administration of sodium oxybate to rats (90 days and 26 weeks) and dogs 
 Treatment-related clinical signs were mainly related to sedation, reduced food consumption and secondary changes in body weight, body weight gain and organ weights.
 The rat and dog exposures at the NOEL were lower (~50%) than that in humans.
 Sodium oxybate was non-mutagenic and non-clastogenic in in vitro and in vivo assays.
-
 Gamma Butyrolactone (GBL), a pro-drug of GHB tested at exposures similar to the expected in man (1.21-1.64 times) has been classified by NTP as non-carcinogenic in rats and equivocal carcinogen in mice, due to slight increase of pheochromocytomas which was difficult to interpret due to high mortality in the high dose group.
 In a rat carcinogenicity study with oxybate no compound-related tumours were identified.
 GHB had no effect on mating, general fertility or sperm parameters and did not produce embryo-foetal toxicity in rats exposed to up 1000 mg/kg/day GHB (1.64 times the human exposure calculated in nonpregnant animals).
