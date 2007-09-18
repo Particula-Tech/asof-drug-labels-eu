@@ -1,0 +1,40 @@
+# 4.2 Posology and method of administration
+
+Therapy should be initiated by a physician experienced in the management of HIV infection.
+
+Before taking CELSENTRI it has to be confirmed that only CCR5-tropic HIV-1 is detectable (i.e. CXCR4 or dual/mixed tropic virus not detected) using an adequately validated and sensitive detection method on a newly drawn blood sample.
+The Monogram Trofile assay was used in the clinical studies of CELSENTRI (see sections 4.4 and 5.1).
+Other phenotypic and genotypic assays are currently being evaluated.
+The viral tropism cannot be safely predicted by treatment history and assessment of stored samples.
+
+There are currently no data regarding the reuse of CELSENTRI in patients that currently have only CCR5-tropic HIV-1 detectable, but have a history of failure on CELSENTRI (or other CCR5 antagonists) with a CXCR4 or dual/mixed tropic virus.
+There are no data regarding the switch from a medicinal product of a different antiretroviral class to CELSENTRI in virologically suppressed patients.
+Alternative treatment options should be considered.
+
+Adults: the recommended dose of CELSENTRI is 150 mg, 300 mg or 600 mg twice daily depending on interactions with co-administered antiretroviral therapy and other medicinal products (see Table 2 in Section 4.5).
+CELSENTRI can be taken with or without food.
+
+Children: CELSENTRI is not recommended for use in children due to lack of data on safety, efficacy and pharmacokinetics (see section 5.2).
+Elderly: there is limited experience in patients >65 years of age (see section 5.2), therefore CELSENTRI should be used with caution in this population.
+
+Renal impairment: dosage adjustment is only recommended in patients with renal impairment who are receiving potent CYP3A4 inhibitors such as:
+
+- protease inhibitors (except tipranavir/ritonavir)
+- ketoconazole, itraconazole, clarithromycin, telithromycin.
+
+CELSENTRI should be used with caution in patients with renal impairment (CLcr < 80ml/min) who are taking potent CYP3A4 inhibitors (see sections 4.4 and 5.2).
+Table 1 below provides dose interval adjustment guidelines based on simulations of increasing renal impairment in patients being coadministered potent CYP3A4 inhibitors.
+The safety and efficacy of these dose interval adjustments have not been clinically evaluated.
+Therefore, clinical response to treatment should be closely monitored in these patients.
+
+Table 1.
+Dose interval adjustments based on simulations of increasing renal impairment (for dose recommendations, see Section 4.5 Table 2)
+
+| Recommended CELSENTRI dose interval | Creatinine clearance (CLcr) (ml/min) |  |  |
+| --- | --- | --- | --- |
+|  | 50- 80 ml/min | <50 – 30 ml/min | <30 ml/min |
+| Without potent CYP3A4 inhibitors or co-administered with tipranavir/ritonavir | No dose interval adjustment required |  |  |
+| If coadministered with potent CYP3A4 inhibitors, e.g. lopinavir/ritonavir, darunavir/ritonavir, atazanavir/ritonavir, ketoconazole (see also section 4.5) | Every 24 hours |  |  |
+| If coadministered with saquinavir/ritonavir | Every 24 hours | Every 48 hours | Every 72 hours |
+
+Hepatic impairment: limited data are available in patients with hepatic impairment, therefore CELSENTRI should be used with caution in this population (see sections 4.4 and 5.2).
