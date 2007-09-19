@@ -11,13 +11,20 @@ Capsule shell:
 Gelatin
 Yellow iron oxide (E172)
 Red iron oxide (E172)
-Black iron oxide (E172)
 Titanium dioxide (E171)
 
 Printing ink:
 Shellac
 Titanium dioxide (E171)
 FD and C Blue 2 (indigo carmine, E132)
+
+[Tamiflu 45 mg hard capsule.]
+
+Black iron oxide (E172)
+
+[Tamiflu 75 mg hard capsule.]
+
+(all sentences already above)
 
 [Tamiflu 12 mg/ml powder for oral suspension.]
 

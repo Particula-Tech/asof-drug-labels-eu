@@ -3,6 +3,14 @@
 No special requirements.
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
+[Tamiflu 45 mg hard capsule.]
+
+(all sentences already above)
+
+[Tamiflu 75 mg hard capsule.]
+
+(all sentences already above)
+
 [Tamiflu 12 mg/ml powder for oral suspension.]
 
 It is recommended that Tamiflu oral suspension should be reconstituted by the pharmacist prior to its dispensing to the patient.

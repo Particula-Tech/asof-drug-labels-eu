@@ -5,6 +5,7 @@ Pharmacotherapeutic group: Antiviral ATC code: J05AH02
 Oseltamivir phosphate is a pro-drug of the active metabolite (oseltamivir carboxylate).
 The active metabolite is a selective inhibitor of influenza virus neuraminidase enzymes, which are glycoproteins found on the virion surface.
 Viral neuraminidase enzyme activity is important both for viral entry into uninfected cells and for the release of recently formed virus particles from infected cells, and for the further spread of infectious virus in the body.
+
 Oseltamivir carboxylate inhibits influenza A and B neuraminidases in vitro.
 Oseltamivir phosphate inhibits influenza virus infection and replication in vitro.
 Oseltamivir given orally inhibits influenza A and B virus replication and pathogenicity in vivo in animal models of influenza infection at antiviral exposures similar to that achieved in man with 75 mg twice daily.
@@ -61,7 +62,6 @@ Prevention of influenza
 The efficacy of oseltamivir in preventing naturally occurring influenza illness has been demonstrated in a post-exposure prevention study in households and two seasonal prevention studies.
 The primary efficacy parameter for all of these studies was the incidence of laboratory-confirmed influenza.
 The virulence of influenza epidemics is not predictable and varies within a region and from season to season, therefore the number needed to treat (NNT) in order to prevent one case of influenza illness varies.
-
 Post-exposure prevention: In a study in contacts (12.6 % vaccinated against influenza) of an index case of influenza, oseltamivir 75 mg once daily was started within 2 days of onset of symptoms in the index case and continued for seven days.
 Influenza was confirmed in 163 out of 377 index cases.
 Oseltamivir significantly reduced the incidence of clinical influenza illness occurring in the contacts of confirmed influenza cases from 24/200 (12 %) in the placebo group to 2/205 (1 %) in the oseltamivir group (92 % reduction [95 % CI 6 – 16; p ≤ 0.0001]).
@@ -82,6 +82,14 @@ A study in elderly residents of nursing homes, where 80 % of participants receiv
 The NNT in this study was 25 (95 % CI 23 – 62).
 
 Specific studies have not been conducted to assess of the reduction in the risk of complications.
+
+[Tamiflu 45 mg hard capsule.]
+
+(all sentences already above)
+
+[Tamiflu 75 mg hard capsule.]
+
+(all sentences already above)
 
 [Tamiflu 12 mg/ml powder for oral suspension.]
 

@@ -1,8 +1,16 @@
 # 3. PHARMACEUTICAL FORM
 
-Capsule, hard
-The hard capsule consists of a grey opaque body bearing the imprint “ROCHE” and a light yellow opaque cap bearing the imprint “75 mg”.
+Hard capsule
+The hard capsule consists of a light yellow opaque body bearing the imprint “ROCHE” and a light yellow opaque cap bearing the imprint “30 mg”.
 Imprints are blue.
+
+[Tamiflu 45 mg hard capsule.]
+
+The hard capsule consists of a grey opaque body bearing the imprint “ROCHE” and a grey opaque cap bearing the imprint “45 mg”.
+
+[Tamiflu 75 mg hard capsule.]
+
+The hard capsule consists of a grey opaque body bearing the imprint “ROCHE” and a light yellow opaque cap bearing the imprint “75 mg”.
 
 [Tamiflu 12 mg/ml powder for oral suspension.]
 

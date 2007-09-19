@@ -9,7 +9,6 @@ Plasma concentrations of both pro-drug and active metabolite are proportional to
 Distribution
 The mean volume of distribution at steady state of the oseltamivir carboxylate is approximately 23 litres in humans, a volume equivalent to extracellular body fluid.
 Since neuraminidase activity is extracellular, oseltamivir carboxylate distributes to all sites of influenza virus spread.
-
 The binding of the oseltamivir carboxylate to human plasma protein is negligible (approximately 3 %).
 
 Metabolism
@@ -24,6 +23,7 @@ Peak plasma concentrations of oseltamivir carboxylate decline with a half-life o
 The active metabolite is eliminated entirely by renal excretion.
 Renal clearance (18.8 l/h) exceeds glomerular filtration rate (7.5 l/h) indicating that tubular secretion occurs in addition to glomerular filtration.
 Less than 20 % of an oral radiolabelled dose is eliminated in faeces.
+
 Renal impairment
 Administration of 100 mg oseltamivir phosphate twice daily for 5 days to patients with various degrees of renal impairment showed that exposure to oseltamivir carboxylate is inversely proportional to declining renal function.
 For dosing, see section 4.2.
