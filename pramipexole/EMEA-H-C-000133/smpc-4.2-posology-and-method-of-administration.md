@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-4.2.1 Parkinson’s disease
+Parkinson’s disease
 
 The tablets should be taken orally, swallowed with water, and can be taken either with or without food.
 The daily dosage is administered in equally divided doses 3 times a day.
@@ -23,14 +23,15 @@ However, it should be noted that the incidence of somnolence is increased at dos
 Maintenance treatment:
 The individual dose should be in the range of 0.264 mg of base (0.375 mg of salt) to a maximum of 3.3 mg of base (4.5 mg of salt) per day.
 During dose escalation in three pivotal studies, efficacy was observed starting at a daily dose of 1.1 mg of base (1.5 mg of salt).
-Further dose adjustments should be done based on the clinical response and tolerability.
+Further dose adjustments should be done based on the clinical response and the occurrence of undesirables effects.
 In clinical trials approximately 5% of patients were treated at doses below 1.1 mg (1.5 mg of salt).
 In advanced Parkinson’s disease, doses higher than 1.1 mg (1.5 mg of salt) per day can be useful in patients where a reduction of the levodopa therapy is intended.
 It is recommended that the dosage of levodopa is reduced during both the dose escalation and the maintenance treatment with SIFROL, depending on reactions in individual patients.
 
 Treatment discontinuation:
 Abrupt discontinuation of dopaminergic therapy can lead to the development of a neuroleptic malignant syndrome.
-Therefore, pramipexole should be tapered off at a rate of 0.54 mg of base (0.75 mg of salt) per day until the daily dose has been reduced to 0.54 mg of base (0.75 mg of salt).
+Therefore, pramipexole should be tapered off at a rate of 0.54 mg of base
+(0.75 mg of salt) per day until the daily dose has been reduced to 0.54 mg of base (0.75 mg of salt).
 Thereafter the dose should be reduced by 0.264 mg of base (0.375 mg of salt) per day (see section 4.4).
 
 Dosing in patients with renal impairment:
@@ -47,11 +48,10 @@ If renal function declines during maintenance therapy, reduce SIFROL daily dose 
 The daily dose can be administered in two divided doses if creatinine clearance is between 20 and 50 ml/min, and as a single daily dose if creatinine clearance is less than 20 ml/min.
 
 Dosing in patients with hepatic impairment
-Dose adjustment in patients with hepatic failure is probably not necessary, as approx. 90% of absorbed drug is excreted through the kidneys.
+Dose adjustment in patients with hepatic failure is probably not necessary, as approx. 90% of absorbed active substance is excreted through the kidneys.
 However, the potential influence of hepatic insufficiency on SIFROL pharmacokinetics has not been investigated.
-4.2.2.
-Restless Legs Syndrome
 
+Restless Legs Syndrome
 The tablets should be taken orally, swallowed with water, and can be taken either with or without food.
 
 The recommended starting dose of SIFROL is 0.088 mg of base (0.125 mg of salt) taken once daily 2-3 hours before bedtime.
@@ -70,27 +70,26 @@ As long-term efficacy of SIFROL in the treatment of RLS has not been sufficientl
 If treatment is interrupted for more than a few days it should be re-intiated by dose titration carried out as above.
 
 Treatment discontinuation
-Since daily dose for the treatment of Restless Legs Syndrome will not exceed 0.54 mg of base (0.75 mg of salt) SIFROL can be discontinued without tapering off.
+Since daily dose for the treatment of Restless Legs Syndrome will not exceed 0.54 mg of base
+(0.75 mg of salt) SIFROL can be discontinued without tapering off.
 Rebound (worsening of symptoms after abrupt discontinuation of treatment) can not be excluded.
 
 Dosing in patients with renal impairment
 The elimination of pramipexole is dependent on renal function.
-Patients with a creatinine clearance above 20 mL/min require no reduction in daily dose.
+Patients with a creatinine clearance above 20 ml/min require no reduction in daily dose.
 The use of SIFROL has not been studied in hemodialysis patients, or in patients with severe renal impairment.
 
 Dosing in patients with hepatic impairment
-Dose adjustment in patients with hepatic failure is not required, as approx. 90 % of absorbed drug is excreted through the kidneys.
+Dose adjustment in patients with hepatic failure is not required, as approx. 90% of absorbed active substance is excreted through the kidneys.
 
 Dosing in children and adolescents
-Safety and efficacy of SIFROL have not been established in children and adolescents up to 18 years.
+SIFROL is not recommended for use in children and adolescents below 18 years due to a lack of data on safety and efficacy.
 
 [SIFROL 0.18 mg tablets]
 
-However, it should be noted that the incidence of somnolence is increased at doses higher than 1.5 mg/ day (see section 4.8 ).
-
 Abrupt discontinuation of dopaminergic therapy can lead to the development of aneuroleptic malignant syndrome.
 
-If the treatment is interrupted for more than a few days it should be re-inititiated by dose titration carried out as above.
+If the treatment is interrupted for more than a few days it should be re-initiated by dose titration carried out as above.
 
 [SIFROL 0.35 mg tablets]
 

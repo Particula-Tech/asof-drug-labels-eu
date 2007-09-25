@@ -6,6 +6,6 @@ SIFROL should not be used during pregnancy unless clearly necessary, i.e. if the
 
 As SIFROL treatment inhibits secretion of prolactin in humans, inhibition of lactation is expected.
 The excretion of SIFROL into breast milk has not been studied in women.
-In rats, the concentration of drug-related radioactivity was higher in breast milk than in plasma.
-In the absence of human data, SIFROL should not be used during breast-feeding, .
+In rats, the concentration of active substance-related radioactivity was higher in breast milk than in plasma.
+In the absence of human data, SIFROL should not be used during breast-feeding.
 However, if its use is unavoidable, breast-feeding should be discontinued.
