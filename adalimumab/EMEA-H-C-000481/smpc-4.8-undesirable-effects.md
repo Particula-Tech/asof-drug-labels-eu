@@ -22,7 +22,7 @@ Undesirable Effects in Clinical Studies
 | Neoplasms benign and malignant (including cysts and polyps) | Uncommon | skin papilloma |
 |  | Rare | lymphoma, solid organ tumours (including breast, ovarian, testicular), squamous cell carcinoma of the skin |
 | Blood and the lymphatic system disorders | Common | lymphopaenia |
-|  | Uncommon | neutropaenia (including agranulocytosis), leucopaenia, thrombocytopaenia, anaemia, , lymphadenopathy, leucocytosis |
+|  | Uncommon | neutropaenia (including agranulocytosis), leucopaenia, thrombocytopaenia, anaemia, lymphadenopathy, leucocytosis |
 |  | Rare | pancytopaenia, idiopathic thrombocytopaenia purpura |
 | Immune system disorders | Uncommon | systemic lupus erythematosus, angioedema, drug hypersensitivity, seasonal allergy |
 |  | Rare | serum sickness |
@@ -46,8 +46,8 @@ Undesirable Effects in Clinical Studies
 |  | Uncommon | asthma, dyspnoea, dysphonia, nasal congestion |
 |  | Rare | pulmonary oedema, pharyngeal oedema, pleural effusion, pleurisy |
 | Gastrointestinal disorders | Common | diarrhoea, abdominal pain, stomatitis and mouth ulceration, nausea |
-|  | Uncommon | rectal haemorrhage, gastritis, vomiting, dyspepsia, abdominal bloating, constipation, |
-|  | Rare | intestinal stenosis, colitis, enteritis, oesophagitis |
+|  | Uncommon | rectal haemorrhage, gastritis, vomiting, dyspepsia, abdominal bloating, constipation |
+|  | Rare | pancreatitis, intestinal stenosis, colitis, enteritis, oesophagitis |
 | Hepato-biliary disorders | Common | hepatic enzymes increased |
 |  | Rare | hepatic necrosis, hepatitis |
 | Skin and subcutaneous tissue disorders | Common | rash, dermatitis and eczema, pruritus, hair loss |
@@ -135,7 +135,7 @@ Undesirable Effects in Postmarketing Surveillance and Phase IV Clinical Studies
 | Neoplasms benign and malignant (including cysts and polyps) | Uncommon | skin papilloma |
 |  | Rare | lymphoma, solid organ tumours (including breast, ovarian, testicular), squamous cell carcinoma of the skin |
 | Blood and the lymphatic system disorders | Common | lymphopaenia |
-|  | Uncommon | neutropaenia (including agranulocytosis), leucopaenia, thrombocytopaenia, anaemia, , lymphadenopathy, leucocytosis |
+|  | Uncommon | neutropaenia (including agranulocytosis), leucopaenia, thrombocytopaenia, anaemia, lymphadenopathy, leucocytosis |
 |  | Rare | pancytopaenia, idiopathic thrombocytopaenia purpura |
 | Immune system disorders | Uncommon | systemic lupus erythematosus, angioedema, drug hypersensitivity, seasonal allergy |
 |  | Rare | serum sickness |
@@ -159,8 +159,8 @@ Undesirable Effects in Postmarketing Surveillance and Phase IV Clinical Studies
 |  | Uncommon | asthma, dyspnoea, dysphonia, nasal congestion |
 |  | Rare | pulmonary oedema, pharyngeal oedema, pleural effusion, pleurisy |
 | Gastrointestinal disorders | Common | diarrhoea, abdominal pain, stomatitis and mouth ulceration, nausea |
-|  | Uncommon | rectal haemorrhage, gastritis, vomiting, dyspepsia, abdominal bloating, constipation, |
-|  | Rare | intestinal stenosis, colitis, enteritis, oesophagitis |
+|  | Uncommon | rectal haemorrhage, gastritis, vomiting, dyspepsia, abdominal bloating, constipation |
+|  | Rare | pancreatitis, intestinal stenosis, colitis, enteritis, oesophagitis |
 | Hepato-biliary disorders | Common | hepatic enzymes increased |
 |  | Rare | hepatic necrosis, hepatitis |
 | Skin and subcutaneous tissue disorders | Common | rash, dermatitis and eczema, pruritus, hair loss |
@@ -191,7 +191,7 @@ Undesirable Effects in Postmarketing Surveillance and Phase IV Clinical Studies
 | Neoplasms benign and malignant (including | Uncommon | skin papilloma |
 | cysts and polyps) | Rare | lymphoma, solid organ tumours (including breast, ovarian, testicular), squamous cell carcinoma of the skin |
 | Blood and the lymphatic system disorders | Common | lymphopaenia |
-|  | Uncommon | neutropaenia (including agranulocytosis), leucopaenia, thrombocytopaenia, anaemia, , lymphadenopathy, leucocytosis |
+|  | Uncommon | neutropaenia (including agranulocytosis), leucopaenia, thrombocytopaenia, anaemia, lymphadenopathy, leucocytosis |
 |  | Rare | pancytopaenia, idiopathic thrombocytopaenia purpura |
 | Immune system disorders | Uncommon | systemic lupus erythematosus, angioedema, drug hypersensitivity, seasonal allergy |
 |  | Rare | serum sickness |
@@ -215,8 +215,8 @@ Undesirable Effects in Postmarketing Surveillance and Phase IV Clinical Studies
 |  | Uncommon | asthma, dyspnoea, dysphonia, nasal congestion |
 |  | Rare | pulmonary oedema, pharyngeal oedema, pleural effusion, pleurisy |
 | Gastrointestinal disorders | Common | diarrhoea, abdominal pain, stomatitis and mouth ulceration, nausea |
-|  | Uncommon | rectal haemorrhage, gastritis, vomiting, dyspepsia, abdominal bloating, constipation, |
-|  | Rare | intestinal stenosis, colitis, enteritis, oesophagitis |
+|  | Uncommon | rectal haemorrhage, gastritis, vomiting, dyspepsia, abdominal bloating, constipation |
+|  | Rare | pancreatitis, intestinal stenosis, colitis, enteritis, oesophagitis |
 | Hepato-biliary disorders | Common | hepatic enzymes increased |
 |  | Rare | hepatic necrosis, hepatitis |
 | Skin and subcutaneous tissue disorders | Common | rash, dermatitis and eczema, pruritus, hair loss |
