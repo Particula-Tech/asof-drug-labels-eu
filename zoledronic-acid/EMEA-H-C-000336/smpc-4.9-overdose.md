@@ -1,5 +1,5 @@
 # 4.9 Overdose
 
-There is no experience of acute intoxication with Zometa.
-Patients who have received doses higher than those recommended should be carefully monitored.
-In the event of clinically significant hypocalcaemia, reversal may be achieved with an infusion of calcium gluconate.
+Clinical experience with acute overdose of Zometa is limited.
+Patients who have received doses higher than those recommended should be carefully monitored, since renal function impairment (including renal failure) and serum electrolyte (including calcium, phosphorus and magnesium) abnormalities have been observed.
+In the event of hypocalcaemia, calcium gluconate infusions should be administered as clinically indicated.
