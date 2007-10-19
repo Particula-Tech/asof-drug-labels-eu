@@ -10,7 +10,6 @@ Due to its complete and linear absorption, plasma levels can be predicted from t
 Therefore there is no need for plasma level monitoring of levetiracetam.
 
 A significant correlation between saliva and plasma concentrations has been shown in adults and children (ratio of saliva/plasma concentrations ranged from 1 to 1.7 for oral tablet formulation and after 4 hours post-dose for oral solution formulation).
-
 Adults and adolescents
 
 Absorption
@@ -23,6 +22,7 @@ Peak concentrations (Cmax) are typically 31 and 43 µg/ml following a single 1,0
 The extent of absorption is dose-independent and is not altered by food.
 
 Distribution
+
 No tissue distribution data are available in humans.
 Neither levetiracetam nor its primary metabolite are significantly bound to plasma proteins (< 10 %).
 The volume of distribution of levetiracetam is approximately 0.5 to 0.7 l/kg, a value close to the total body water volume.
@@ -56,7 +56,6 @@ Excretion via faeces accounted for only 0.3 % of the dose.
 The cumulative urinary excretion of levetiracetam and its primary metabolite accounted for 66 % and 24 % of the dose, respectively during the first 48 hours.
 The renal clearance of levetiracetam and ucb L057 is 0.6 and 4.2 ml/min/kg respectively indicating that levetiracetam is excreted by glomerular filtration with subsequent tubular reabsorption and that the primary metabolite is also excreted by active tubular secretion in addition to glomerular filtration.
 Levetiracetam elimination is correlated to creatinine clearance.
-
 Elderly
 
 In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
@@ -115,6 +114,7 @@ A single dose of 1500 mg levetiracetam diluted in 100 ml of a compatible diluent
 
 The intravenous administration of doses up to 4000 mg diluted in 100 ml of 0.9% sodium chloride infused over 15 minutes and doses up to 2500 mg diluted in 100 ml of 0.9% sodium chloride infused over 5 minutes was evaluated.
 The pharmacokinetic and safety profiles did not identify any safety concerns.
+
 The time independent pharmacokinetic profile of levetiracetam was also confirmed following 1500 mg intravenous infusion for 4 days with b.i.d dosing.
 
 Peak plasma concentration (Cmax) observed in 17 subjects following a single intravenous dose of 1500 mg infused over 15 minutes was 51 ± 19 µg/mL (arithmetic average ± standard deviation).
