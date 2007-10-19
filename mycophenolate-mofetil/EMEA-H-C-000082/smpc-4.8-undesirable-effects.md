@@ -79,6 +79,8 @@ There have been reports of aplastic anaemia and bone marrow depression in patien
 
 Hypersensitivity: Hypersensitivity reactions, including angioneurotic oedema and anaphylactic reaction, have been reported.
 
+Congenital disorders: see further details in section 4.6.
+
 [CellCept 500 mg powder for concentrate for solution for infusion.]
 
 The adverse reaction profile associated with the administration of CellCept 500 mg powder for concentrate for solution for infusion has been shown to be similar to that observed after oral administration.
@@ -115,7 +117,7 @@ Adverse Reactions, Probably or Possibly Related to CellCept, Reported in Patient
 |  | Common | Hepatitis |
 | Skin and subcutaneous tissue disorders | Very common | - |
 |  | Common | Rash, acne, alopecia, |
-| Musculoskeletal and connective tissue disorders | Very common | - |
+| Musculoskeletal and connective Tissue disorders | Very common | - |
 |  | Common | Arthralgia |
 | Renal and urinary disorders | Very common | - |
 |  | Common | Renal impairment |
@@ -136,9 +138,10 @@ Gastrointestinal: colitis including cytomegalovirus colitis, (≥1/100 to <1/10)
 Disorders related to immunosuppression: serious life-threatening infections including meningitis, endocarditis tuberculosis and atypical mycobacterial infection.
 Agranulocytosis (≥1/1000 to <1/100) and neutropenia have been reported; therefore regular monitoring of patients taking CellCept is advised (see section 4.4).
 
-[CellCept 1 g/5 mL powder for oral suspension.]
+[CellCept 1 g/5 ml powder for oral suspension.]
 
 However, the following treatment-related adverse events were more frequent in the paediatric population, particularly in children under 6 years of age, when compared to adults: diarrhoea, sepsis, leucopenia, anaemia and infection.
+
 Elderly patients receiving CellCept as part of a combination immunosuppressive regimen may be at increased risk of certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared to younger individuals.
 
 Adverse reactions, probably or possibly related to CellCept, reported in ≥1/10 and in ≥1/100 to <1/10 of patients treated with CellCept in the controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients are listed in the following table.

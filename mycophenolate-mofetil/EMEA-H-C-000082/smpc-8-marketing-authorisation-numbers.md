@@ -7,7 +7,7 @@ EU/1/96/005/003 CellCept (300 capsules)
 
 EU/1/96/005/005 CellCept (4 vials)
 
-[CellCept 1 g/5 mL powder for oral suspension.]
+[CellCept 1 g/5 ml powder for oral suspension.]
 
 EU/1/96/005/006 CellCept (1 bottle 110g)
 

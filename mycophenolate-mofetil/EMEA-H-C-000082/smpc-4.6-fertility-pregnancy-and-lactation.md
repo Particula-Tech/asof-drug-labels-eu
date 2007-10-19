@@ -6,7 +6,8 @@ Patients should be instructed to consult their physician immediately should preg
 
 The use of CellCept is not recommended during pregnancy and should be reserved for cases where no more suitable alternative treatment is available.
 CellCept should be used in pregnant women only if the potential benefit outweighs the potential risk to the foetus.
-There are no adequate data from the use of CellCept in pregnant women.
+There is limited data from the use of CellCept in pregnant women.
+However, congenital malformations including ear malformations, i.e. abnormally formed or absent external/middle ear, have been reported in children of patients exposed to CellCept in combination with other immunosuppressants during pregnancy.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 The potential risk for humans is unknown.
 

@@ -35,7 +35,7 @@ The systemic exposure at these levels is approximately equivalent to or less tha
 
 These effects occurred at systemic exposure levels that are equivalent to or less than the clinical exposure at the recommended dose of 2 g/day.
 
-[CellCept 1 g/5 mL powder for oral suspension.]
+[CellCept 1 g/5 ml powder for oral suspension.]
 
 (all sentences already above)
 

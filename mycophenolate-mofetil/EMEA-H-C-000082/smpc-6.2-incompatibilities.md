@@ -8,7 +8,7 @@ CellCept 500 mg powder for concentrate for solution for infusion solution should
 
 This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
 
-[CellCept 1 g/5 mL powder for oral suspension.]
+[CellCept 1 g/5 ml powder for oral suspension.]
 
 (all sentences already above)
 

@@ -36,9 +36,9 @@ Trimethoprim/sulfamethoxazole: no effect on the bioavailability of MPA was obser
 Norfloxacin and metronidazole: in healthy volunteers, no significant interaction was observed when CellCept was concomitantly administered with norfloxacin and metronidazole separately.
 However, norfloxacin and metronidazole combined reduced the MPA exposure by approximately 30 % following a single dose of CellCept.
 
-Tacrolimus: in liver transplant recipients initiated on CellCept and tacrolimus, the AUC and Cmax of MPA, the active metabolite of CellCept, were not significantly affected by trough tacrolimus level.
-In renal transplant patients, the tacrolimus concentration did not appear to be altered by CellCept.
-However, in hepatic transplant patients, there was an increase of approximately 20 % in tacrolimus AUC when multiple doses of CellCept (1.5 g BID) were administered to patients taking tacrolimus (see also section 4.4).
+Tacrolimus: in hepatic transplant patients initiated on CellCept and tacrolimus, the AUC and Cmax of MPA, the active metabolite of CellCept, were not significantly affected by coadministration with tacrolimus.
+In, contrast, there was an increase of approximately 20 % in tacrolimus AUC when multiple doses of CellCept (1.5 g BID) were administered to patients taking tacrolimus.
+However, in renal transplant patients, tacrolimus concentration did not appear to be altered by CellCept (see also section 4.4).
 
 Other interactions: co-administration of probenecid with mycophenolate mofetil in monkeys raises plasma AUC of MPAG by 3-fold.
 Thus, other substances known to undergo renal tubular secretion may compete with MPAG, and thereby raise plasma concentrations of MPAG or the other substance undergoing tubular secretion.
@@ -53,9 +53,9 @@ Because MPAG plasma concentrations are increased in the presence of renal impair
 Cholestyramine: following single dose, oral administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4 g TID of cholestyramine for 4 days, there was a 40 % reduction in the AUC of MPA.
 (see section 4.4, and section 5.2).
 
-In renal transplant patients, tacrolimus concentration did not appear to be altered by CellCept.
+In contrast, there was an increase of approximately 20 % in tacrolimus AUC when multiple doses of CellCept (1.5 g BID) were administered to patients taking tacrolimus.
 
-[CellCept 1 g/5 mL powder for oral suspension.]
+[CellCept 1 g/5 ml powder for oral suspension.]
 
 Cholestyramine: following single dose administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4 g TID of cholestyramine for 4 days, there was a 40 % reduction in the AUC of MPA.
 

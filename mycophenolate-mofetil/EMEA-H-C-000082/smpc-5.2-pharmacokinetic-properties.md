@@ -18,15 +18,16 @@ Orally administered radiolabelled mycophenolate mofetil results in complete reco
 Most (about 87 %) of the administered dose is excreted in the urine as MPAG.
 
 At clinically encountered concentrations, MPA and MPAG are not removed by haemodialysis.
-However, at high MPAG plasma concentrations (> 100µg/mL), small amounts of MPAG are removed.
+However, at high MPAG plasma concentrations (> 100µg/ml), small amounts of MPAG are removed.
 
 In the early post-transplant period (< 40 days post-transplant), renal, cardiac and hepatic transplant patients had mean MPA AUCs approximately 30 % lower and Cmax approximately 40 % lower compared to the late post-transplant period (3 – 6 months post-transplant).
 
 Renal impairment:
-In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate < 25 mL•min-1•1.73 m-2) were 28 – 75 % higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
+In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate < 25 ml•min-1•1.73 m-2) were 28 – 75 % higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
 However, the mean single dose MPAG AUC was 3 – 6-fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG.
 Multiple dosing of mycophenolate mofetil in patients with severe chronic renal impairment has not been studied.
 No data are available for cardiac or hepatic transplant patients with severe chronic renal impairment.
+
 Delayed renal graft function:
 In patients with delayed renal graft function post-transplant, mean MPA AUC (0–12h) was comparable to that seen in post-transplant patients without delayed graft function.
 Mean plasma MPAG AUC (0-12h) was 2 – 3-fold higher than in post-transplant patients without delayed graft function.
@@ -55,7 +56,7 @@ Serum levels of LH, FSH and progesterone were not significantly affected.
 
 Following intravenous administration, mycophenolate mofetil undergoes rapid and complete metabolism to the active metabolite, MPA.
 The parent substance mycophenolate mofetil can be measured systemically during intravenous infusion; however, after oral administration it is below the limit of quantitation
-(0.4 µg/mL).
+(0.4 µg/ml).
 
 Orally administered radiolabelled mycophenolate mofetil results in complete recovery of the administered dose, with 93 % of the administered dose recovered in the urine and 6 % recovered in faeces.
 
@@ -65,11 +66,11 @@ In hepatic transplant patients, administration of 1 g BID intravenous CellCept f
 However, the mean single dose MPAG AUC was 3 – 6 fold higher in subjects with severe renal impairment than in subjects with mild renal impairment or normal healthy subjects, consistent with the known renal elimination of MPAG.
 No data are available for hepatic transplant patients with severe chronic renal impairment.
 
-[CellCept 1 g/5 mL powder for oral suspension.]
+[CellCept 1 g/5 ml powder for oral suspension.]
 
 Orally administered radiolabelled mycophenolate mofetil results in complete recovery of the administered dose, with 93 % of the administered dose recovered in the urine and 6 % recovered in the faeces.
 
-In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate < 25mL•min-1•1.73 m-2) were 28 – 75 % higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
+In a single dose study (6 subjects/group), mean plasma MPA AUC observed in subjects with severe chronic renal impairment (glomerular filtration rate < 25ml•min-1•1.73 m-2) were 28 – 75 % higher relative to the means observed in normal healthy subjects or subjects with lesser degrees of renal impairment.
 
 [CellCept 500 mg tablets.]
 

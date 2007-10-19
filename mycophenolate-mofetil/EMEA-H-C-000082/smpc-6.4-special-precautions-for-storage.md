@@ -9,7 +9,7 @@ Powder for concentrate for solution for infusion: Do not store above 30 °C.
 
 Reconstituted solution and infusion solution: Store at 15 – 30°C.
 
-[CellCept 1 g/5 mL powder for oral suspension.]
+[CellCept 1 g/5 ml powder for oral suspension.]
 
 Powder for oral suspension and reconstituted suspension: Do not store above 30 °C.
 

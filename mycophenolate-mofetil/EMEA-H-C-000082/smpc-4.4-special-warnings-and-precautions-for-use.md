@@ -37,10 +37,10 @@ On theoretical grounds, therefore, it should be avoided in patients with rare he
 
 Some degree of enterohepatic recirculation is anticipated following intravenous administration of CellCept.
 
-[CellCept 1 g/5 mL powder for oral suspension.]
+[CellCept 1 g/5 ml powder for oral suspension.]
 
-CellCept 1 g/5 mL powder for oral suspension contains aspartame.
-Therefore, care should be taken if CellCept 1 g/5 mL powder for oral suspension is administered to patients with phenylketonuria (see section 6.1)
+CellCept 1 g/5 ml powder for oral suspension contains aspartame.
+Therefore, care should be taken if CellCept 1 g/5 ml powder for oral suspension is administered to patients with phenylketonuria (see section 6.1)
 
 [CellCept 500 mg tablets.]
 
