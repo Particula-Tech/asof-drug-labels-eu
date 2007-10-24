@@ -9,6 +9,7 @@ Plasma concentrations of both pro-drug and active metabolite are proportional to
 Distribution
 The mean volume of distribution at steady state of the oseltamivir carboxylate is approximately 23 litres in humans, a volume equivalent to extracellular body fluid.
 Since neuraminidase activity is extracellular, oseltamivir carboxylate distributes to all sites of influenza virus spread.
+
 The binding of the oseltamivir carboxylate to human plasma protein is negligible (approximately 3 %).
 
 Metabolism

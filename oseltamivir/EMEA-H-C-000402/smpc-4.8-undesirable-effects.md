@@ -67,6 +67,8 @@ In rare cases, the delirium resulted in accidental injury.
 The symptoms were mainly reported in children and adolescents.
 Convulsions and psychiatric symptoms have also been reported in patients with influenza not taking Tamiflu.
 
+In rare cases gastro-intestinal bleedings and hemorrhagic colitis were observed after the use of Tamiflu.
+
 [Tamiflu 45 mg hard capsule.]
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness under treatment with oseltamivir 2 mg/kg bid.
