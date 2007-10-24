@@ -20,6 +20,7 @@ These data should be evaluated in the context of the overall safety profile of t
 A supplementary retrospective analysis was conducted on data from 523 patients with relapsed ovarian cancer.
 Altogether, 87 complete and partial responses were observed, with 13 of these occurring during cycles 5 and 6 and 3 occurring thereafter.
 For patients administered more than 6 cycles of therapy, 91 % completed the study as planned or were treated until disease progression with only 3 % withdrawn for adverse events.
+
 Relapsed SCLC
 
 A phase III trial compared oral topotecan plus Active Symptom Control [ASC] [n=71] with ASC alone [n=70] in patients who had relapsed following first line therapy [median time to progression [TTP] from first-line therapy: 84 days for oral topotecan + ASC, 90 days for ASC] and for whom retreatment with i.v chemotherapy was not considered appropriate.

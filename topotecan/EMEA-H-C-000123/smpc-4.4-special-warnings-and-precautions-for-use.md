@@ -5,6 +5,10 @@ Haematological toxicity is dose-related and full blood count including platelets
 In common with other cytotoxic medicinal products, severe myelosuppression leading to sepsis has been reported in 5% of patients treated with topotecan.
 Severe sepsis has the potential of leading to death (see section 4.8).
 
+Topotecan-induced neutropenia can cause neutropenic colitis.
+Fatalities due to neutropenic colitis have been reported in clinical trials with topotecan.
+In patients presenting with fever, neutropenia, and a compatible pattern of abdominal pain, the possibility of neutropenic colitis should be considered.
+
 Topotecan and topotecan in combination with cisplatin are commonly associated with clinically relevant thrombocytopenia.
 This should be taken into account, e.g. in case patients at increased risk of tumour bleeds are considered for therapy.
 

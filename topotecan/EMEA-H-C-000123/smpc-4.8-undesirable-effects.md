@@ -9,7 +9,6 @@ The overall haematological toxicity is lower in patients treated with topotecan 
 
 Additional adverse events were seen when topotecan was given in combination with cisplatin, however, these events were seen with cisplatin monotherapy and not attributable to topotecan.
 The prescribing information for cisplatin should be consulted for a full list of adverse events associated cisplatin use.
-
 The integrated safety data for topotecan monotherapy are presented below.
 
 Adverse reactions are listed below, by system organ class and absolute frequency (all reported events).
@@ -18,7 +17,7 @@ Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100, < 1/10); 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Blood and lymphatic system disorders
-Very common : febrile neutropenia, neutropenia, thrombocytopenia, anaemia, leukopenia.
+Very common : febrile neutropenia, neutropenia (see Gastrointestinal disorders), thrombocytopenia, anaemia, leukopenia.
 
 Immune system disorders
 Common : hypersensitivity reaction including rash
@@ -28,7 +27,8 @@ Metabolism and nutrition disorders
 Very common : anorexia (which may be severe).
 
 Gastrointestinal disorders
-Very common : Nausea, vomiting and diarrhoea (all of which may be severe), constipation, abdominal pain and mucositis.
+Very common : Nausea, vomiting and diarrhoea (all of which may be severe), constipation, abdominal pain* and mucositis.
+*Neutropenic colitis, including fatal neutropenic colitis, has been reported to occur as a complication of topotecan-induced neutropenia (see section 4.4).
 
 Hepato-biliary disorders
 Common : hyperbilirubinaemia.
@@ -68,6 +68,7 @@ Red cell transfusions were given in 52 % of patients (21 % of courses).
 Non-haematological
 Frequently reported non-haematological effects were gastrointestinal such as nausea (52 %), vomiting (32 %), and diarrhoea (18 %), constipation (9 %) and mucositis (15 %).
 Severe (grade 3 or 4) nausea, vomiting, diarrhoea and mucositis incidence was 4, 3, 2 and 1 % respectively.
+
 Mild abdominal pain was also reported amongst 4 % of patients.
 
 Fatigue was observed in approximately 25 % and asthenia in 16 % of patients whilst receiving topotecan.
