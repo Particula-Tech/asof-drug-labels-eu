@@ -20,13 +20,14 @@ The adverse drug reactions listed in this table fall into the following categori
 Adverse drug reactions are added to the appropriate category in the table below according to the highest incidence seen in any of the major clinical trials.
 Within each frequency grouping adverse drug reactions are presented in the order of decreasing seriousness.
 Some of the adverse drug reactions are reactions commonly seen with chemotherapy, however, an exacerbation by Avastin therapy can not be excluded.
+
 Table 1: Very Common and Common Adverse Drug Reactions
 
 | System Organ Class (SOC) | NCI-CTC Grade 3-5 Reactions (≥ 2% difference between the study arms in at least one clinical trial) |  | All Grade Reactions (≥ 10% difference between the study arms in at least one clinical trial) |
 | --- | --- | --- | --- |
 |  | Very common | Common | Very Common |
 | Infections and infestations |  | Sepsis Abscess Infection |  |
-| Blood and the lymphatic systems disorders | Leucopenia Thrombocytopenia | Febrile neutropenia Anaemia |  |
+| Blood and the lymphatic systems disorders | Leucopenia Thrombocytopenia Neutropenia | Febrile neutropenia Anaemia |  |
 | Metabolism and nutrition disorders |  | Dehydration | Anorexia |
 | Nervous system disorders | Peripheral sensory neuropathy | Cerebrovascular accident Syncope Somnolence Headache | Dysgeusia Headache |
 | Eye disorders |  |  | Eye disorder |
@@ -35,6 +36,7 @@ Table 1: Very Common and Common Adverse Drug Reactions
 | Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism Dyspnoea Hypoxia Epistaxis | Dyspnoea Epistaxis Rhinitis |
 | Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal Perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder | Constipation Stomatitis Rectal haemorrhage |
 | Skin and subcutaneous tissue disorders |  | Palmar-plantar erythrodysaesthesia syndrome | Exfoliative dermatitis Dry skin Skin discolouration |
+|  | Very common | Common | Very Common |
 | Musculoskeletal, connective tissue and bone disorders |  | Muscular weakness |  |
 | Renal and urinary disorders |  | Proteinuria Urinary Tract Infection | Proteinuria |
 | General disorders and administration site conditions | Asthenia Fatigue | Pain Lethargy | Pyrexia Asthenia Pain |
@@ -45,13 +47,22 @@ Data are unadjusted for the differential time on treatment.
 Further information on selected serious adverse drug reactions:
 
 Gastrointestinal perforations (see section 4.4):
-Avastin has been associated with serious cases of gastrointestinal perforation or fistulae.
+Avastin has been associated with serious cases of gastrointestinal perforation or fistulae (see also under heading Fistulae).
 
 Gastrointestinal perforation have been reported in clinical trials with an incidence of less than 1% in patients with metastatic breast cancer or non-squamous non-small cell lung cancer, and in up to 2.0% in metastatic colorectal cancer patients.
 Fatal outcome was reported in approximately a third of serious cases of gastrointestinal perforations, which represents between 0.2%-1% of all Avastin treated patients.
 
 The presentation of these events varied in type and severity, ranging from free air seen on the plain abdominal X-ray, which resolved without treatment, to intestinal perforation with abdominal abscess and fatal outcome.
 In some cases underlying intra-abdominal inflammation was present, either from gastric ulcer disease, tumour necrosis, diverticulitis, or chemotherapy-associated colitis.
+
+Fistulae (see section 4.4):
+Avastin use has been associated with serious cases of fistulae including events resulting in death.
+
+In clinical trials, gastrointestinal fistulae have been reported with an incidence of up to 2% in patients with metastatic colorectal cancer, but were also reported less commonly in patients with other types of cancers.
+Uncommon (≥ 0.1% to < 1%) reports of other types of fistulae that involve areas of the body other than the gastrointestinal tract (e.g. bronchopleural, urogenital and biliary fistulae) were observed across various indications.
+Fistulae have also been reported in post-marketing experience.
+
+Events were reported at various time points during treatment ranging from one week to greater than 1 year from initiation of Avastin, with most events occurring within the first 6 months of therapy.
 
 Wound healing (see section 4.4):
 As Avastin may adversely impact wound healing, patients who had major surgery within the last 28 days were excluded from participation in phase III clinical trials.
@@ -113,6 +124,7 @@ These were most commonly NCI-CTC Grade 1 epistaxis that lasted less than 5 minut
 Clinical safety data suggest that the incidence of minor mucocutaneous haemorrhage (e.g. epistaxis) may be dose-dependent.
 
 There have also been less common events of minor mucocutaneous haemorrhage in other locations, such as gingival bleeding or vaginal bleeding.
+
 Thromboembolism (see section 4.4):
 
 Arterial thromboembolism:
@@ -129,7 +141,6 @@ In this trial arterial thromboembolic events were observed in 11% (11/100) of pa
 Venous thromboembolism:
 The incidence of venous thromboembolic events in clinical trials was similar in patients receiving Avastin in combination with chemotherapy compared to those receiving the control chemotherapy alone.
 Venous thromboembolic events include deep venous thrombosis, pulmonary embolism and thrombophlebitis.
-
 In clinical trials across indications, the overall incidence of venous thromboembolic events ranged from 2.8% to 17.3% of Avastin-treated patients compared with 3.2% to 15.6% in the controls.
 In the clinical trials in NSCLC an increase of the overall incidence of venous thromboembolic events with Grade 3-5 severity was observed of up to 5.6% in the Avastin containing arm compared with 3.2% in the chemotherapy control arm.
 One event (0.2%) was fatal on the Avastin containing arm compared to none in the carboplatin-paclitaxel arm.

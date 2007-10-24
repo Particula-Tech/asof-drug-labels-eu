@@ -27,5 +27,4 @@ The results showed no significant difference in the pharmacokinetics of bevacizu
 Children and adolescents: No studies have been conducted to investigate the pharmacokinetics of bevacizumab in paediatric patients.
 
 Renal impairment: No studies have been conducted to investigate the pharmacokinetics of bevacizumab in renally impaired patients.
-
 Hepatic impairment: No studies have been conducted to investigate the pharmacokinetics of bevacizumab in patients with hepatic impairment.

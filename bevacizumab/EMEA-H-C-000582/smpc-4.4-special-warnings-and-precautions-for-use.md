@@ -4,6 +4,11 @@ Gastrointestinal perforations (see section 4.8)
 Patients may be at an increased risk for the development of gastrointestinal perforation when treated with Avastin.
 Intra-abdominal inflammatory process may be a risk factor for gastrointestinal perforations in patients with metastatic carcinoma of the colon or rectum, therefore, caution should be exercised when treating these patients.
 Therapy should be permanently discontinued in patients who develop gastrointestinal perforation.
+Fistulae (see section 4.8)
+Patients may be at increased risk for the development of fistulae when treated with Avastin.
+Permanently discontinue Avastin in patients with TE (tracheoesophageal) fistula or any grade 4 fistula.
+Limited information is available on the continued use of Avastin in patients with other fistulae.
+In cases of internal fistula not arising in the GI tract, discontinuation of Avastin should be considered
 
 Wound Healing Complications (see section 4.8)
 Avastin may adversely affect the wound healing process.
@@ -41,7 +46,6 @@ Patients, receiving Avastin plus chemotherapy, with a history of arterial thromb
 Caution should be taken when treating these patients with Avastin.
 
 Therapy should be permanently discontinued in patients who develop arterial thromboembolic events.
-
 Venous Thromboembolism (see section 4.8)
 Patients may be at risk of developing venous thromboembolic events, including pulmonary embolism under Avastin treatment.
 Avastin should be discontinued in patients with life-threatening (Grade 4) pulmonary embolism, patients with ≤Grade 3 need to be closely monitored.
@@ -49,6 +53,7 @@ Avastin should be discontinued in patients with life-threatening (Grade 4) pulmo
 Haemorrhage
 The risk of CNS haemorrhage in patients with CNS metastases receiving Avastin could not be fully evaluated, as these patients were excluded from clinical trials.
 Thus, Avastin should not be used in these patients (see sections 4.3 and 4.8).
+
 Patients treated with Avastin might have an increased risk of haemorrhage, especially tumour-associated haemorrhage.
 Avastin should be discontinued permanently in patients who experience Grade 3 or 4 bleeding during Avastin therapy (see section 4.8).
 

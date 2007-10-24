@@ -31,7 +31,6 @@ Enrollment in Arm 3 was discontinued, as pre-specified, once safety of Avastin w
 All treatments were continued until disease progression.
 The overall mean age was 59.4 years; 56.6% of patients had an ECOG performance status of 0, 43% had a value of 1 and 0.4% had a value of 2.
 15.5% had received prior radiotherapy and 28.4% prior chemotherapy.
-
 Table 2 Treatment regimens in study AVF2107g
 
 |  | Treatment | Starting Dose | Schedule |
@@ -61,7 +60,6 @@ Table 3 Efficacy results for study AVF2107g
 | 95% Confidence Interval | 14.29 – 16.99 | 18.46 – 24.18 |
 | Hazard ratiob |  | 0.660 |
 | p-value |  | 0.00004 |
-|  | Arm 1 IFL + Placebo | Arm 2 IFL + Avastina |
 | Progression-free survival |  |  |
 | Median time (months) | 6.2 | 10.6 |
 | Hazard ratio |  | 0.54 |
@@ -76,7 +74,6 @@ Table 3 Efficacy results for study AVF2107g
 
 a 5 mg/kg every 2 weeks.
 b Relative to control arm.
-
 Among the 110 patients randomised to Arm 3 (5-FU/FA + Avastin), the median overall survival was 18.3 months, median progression free survival was 8.8 months, overall response rate was 39% and median duration of response was 8.5 months.
 
 Avastin in Combination with 5-FU/FA Chemotherapy for the First-Line Treatment of Metastatic Carcinoma of the Colon or Rectum in patients who were not optimal candidates for first-line irinotecan treatment (AVF2192g): This was a phase II randomised, double-blind, active-controlled clinical trial evaluating the efficacy and safety of Avastin in combination with 5-FU/FA as first-line treatment for metastatic colorectal cancer in patients who were not optimal candidates for first-line irinotecan treatment.
@@ -190,7 +187,6 @@ In the Avastin-containing arms, patients could receive Avastin as a single-agent
 Study results show that 94% (277 / 296) of eligible patients went on to receive single agent bevacizumab at cycle 7.
 
 The efficacy results are presented in Table 7.
-
 Table 7 Efficacy results for study BO17704
 
 |  | Cisplatin/Gemcitabine + placebo | Cisplatin/Gemcitabine + Avastin 7.5 mg/kg q 3 weeks | Cisplatin/Gemcitabine + Avastin 15 mg/kg q 3 weeks |
