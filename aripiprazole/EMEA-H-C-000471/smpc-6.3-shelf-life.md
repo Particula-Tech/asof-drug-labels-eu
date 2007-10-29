@@ -28,7 +28,6 @@
 
 [ABILIFY 1 mg/ml oral solution]
 
-2 years
 After first opening: 6 months.
 
 [ABILIFY 7.5 mg/ml solution for injection]
