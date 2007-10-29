@@ -2,7 +2,7 @@
 
 Effect of Zonegran on cytochrome P450 enzymes
 
-In vitro studies using human liver microsomes show no or little (<25%) inhibition of cytochrome P450 isozymes 1A2, 2A6, 2C9, 2C19, 2D6, 2E1 or 3A4 at zonisamide levels approximately two-fold or greater than clinically relevant unbound serum concentrations.
+In vitro studies using human liver microsomes show no or little (<25%) inhibition of cytochrome P450 isozymes 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1 or 3A4 at zonisamide levels approximately two-fold or greater than clinically relevant unbound serum concentrations.
 Therefore Zonegran is not expected to affect the pharmacokinetics of other medicinal products via cytochrome P450-mediated mechanisms, as demonstrated for carbamazepine, phenytoin, ethinylestradiol and desipramine in vivo.
 Potential for Zonegran to affect other medicinal products
 
@@ -14,6 +14,10 @@ In clinical studies in healthy subjects, steady-state dosing with Zonegran did n
 
 Carbonic anhydrase inhibitors
 There are insufficient data to rule out possible pharmacodynamic interactions with carbonic anhydrase inhibitors such as topiramate.
+
+P-gp substrate
+An in vitro study shows that zonisamide is a weak inhibitor of P-gp (MDR1) with an IC50 of 267 µmol/L and there is the theoretical potential for zonisamide to affect the pharmoacokinetics of drugs which are P-gp substrates.
+Caution is advised when starting or stopping zonisamide treatment or changing the zonisamide dose in patients who are also receiving drugs which are P-gp substrates (e.g. digoxin, quinidine).
 
 Potential medicinal product interactions affecting Zonegran
 
@@ -34,7 +38,7 @@ Therefore, modification of Zonegran dosing should not be necessary when co-admin
 
 [Zonegran 50 mg hard capsules.]
 
-(all sentences already above)
+An in vitro study shows that zonisamide is a weak inhibitor of P-gp (MDR1) with an IC50 of 267 µmol/L and there is the theoretical potential for zonisamide to affect the pharmacokinetics of drugs which are P-gp substrates.
 
 [Zonegran 100 mg hard capsules.]
 

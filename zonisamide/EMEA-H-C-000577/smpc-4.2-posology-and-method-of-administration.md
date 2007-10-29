@@ -45,11 +45,3 @@ Withdrawal of Zonegran
 
 When Zonegran treatment is to be discontinued, it should be withdrawn gradually.
 In clinical studies, dose reductions of 100 mg at weekly intervals have been used with concurrent adjustment of other antiepileptic drug doses.
-
-[Zonegran 50 mg hard capsules.]
-
-Prescibers should also take account of the safety profile of Zonegran (see Section 4.8).
-
-[Zonegran 100 mg hard capsules.]
-
-(all sentences already above)

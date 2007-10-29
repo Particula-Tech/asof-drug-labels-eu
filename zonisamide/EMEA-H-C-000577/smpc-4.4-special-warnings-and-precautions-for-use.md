@@ -1,16 +1,16 @@
 # 4.4 Special warnings and precautions for use
 
-Serious rashes have occurred in association with Zonegran therapy, including cases of Stevens-Johnson syndrome.
+Serious rashes occur in association with Zonegran therapy, including cases of Stevens-Johnson syndrome.
+
+Consideration must be given to discontinuing Zonegran in patients who develop an otherwise unexplained rash.
+All patients who develop a rash while taking Zonegran must be closely supervised, with additional levels of caution applied to those patients receiving concomitant antiepileptic agents that may independently induce skin rashes.
 
 In accordance with current clinical practice, discontinuation of Zonegran in patients with epilepsy must be accomplished by gradual dose reduction, to reduce the possibility of seizures on withdrawal.
 There are insufficient data for the withdrawal of concomitant antiepileptic medications once seizure control with Zonegran has been achieved in the add-on situation, in order to reach monotherapy with Zonegran.
 Therefore withdrawal of concomitant anti-epileptic agents must be undertaken with caution.
 
 Zonegran is a benzisoxazole derivative, which contains a sulphonamide group.
-Serious immune based adverse reactions that have been associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances including aplastic anaemia.
-
-Consideration must be given to discontinuing Zonegran in patients who develop an otherwise unexplained rash.
-All patients who develop a rash while taking Zonegran must be closely supervised, with additional levels of caution applied to those patients receiving concomitant antiepileptic agents that may independently induce skin rashes.
+Serious immune based adverse reactions that are associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances including aplastic anaemia.
 
 Cases of agranulocytosis, thrombocytopenia, leukopenia, aplastic anaemia, pancytopenia and leucocytosis have been reported.
 There is inadequate information to assess the relationship, if any, between dose and duration of treatment and these events.

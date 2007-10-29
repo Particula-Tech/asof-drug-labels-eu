@@ -24,7 +24,6 @@ Zonisamide is metabolised primarily through reductive cleavage of the benzisoxaz
 Parent drug and SMAP can additionally be glucuronidated.
 The metabolites, which could not be detected in plasma, are devoid of anticonvulsant activity.
 There is no evidence that zonisamide induces its own metabolism.
-
 Elimination
 
 Apparent clearance of zonisamide at steady-state after oral administration is about 0.70 l/h and the terminal elimination half-life is about 60 hours in the absence of CYP3A4 inducers.
