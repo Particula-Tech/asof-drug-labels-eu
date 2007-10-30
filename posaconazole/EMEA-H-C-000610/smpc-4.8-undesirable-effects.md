@@ -2,11 +2,11 @@
 
 Treatment-related, adverse events observed in 2,400 subjects dosed with posaconazole are shown in Table 2.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-One hundred seventy two patients received posaconazole for ≥ 6 months; 58 of these received posaconazole therapy for ≥ 12 months.
+One hundred seventy two patients received posaconazole for � 6 months; 58 of these received posaconazole therapy for � 12 months.
 
 The most frequently reported adverse reactions reported across the whole population of healthy volunteers and patients were nausea (6 %) and headache (6 %).
 
-| Table 2. Treatment-related adverse events (TRAE) reported in posaconazole dosed subjects by body system and frequency n= 2,400 Includes all TRAEs with incidence of 1 % or higher and all medically significant adverse events regardless of incidence Common (>1/100, <1/10); uncommon (>1/1,000, <1/100); rare (>1/10,000, <1/1,000) |  |
+| Table 2. Treatment-related adverse events (TRAE) reported in posaconazole dosed subjects by body system and frequency n= 2,400 Includes all TRAEs with incidence of 1 % or higher and all medically significant adverse events regardless of incidence Common (≥1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000) |  |
 | --- | --- |
 | Blood and lymphatic system disorders Common: Uncommon: Rare: | neutropenia thrombocytopenia, leukopenia, anaemia, eosinophilia, lymphadenopathy haemolytic uraemic syndrome, thrombotic thrombocytopenic purpura , pancytopenia, coagulation disorder, haemorrhage NOS |
 | Immune system disorders Uncommon: Rare: | allergic reaction Stevens Johnson syndrome, hypersensitivity reaction |

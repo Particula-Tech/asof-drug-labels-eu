@@ -22,6 +22,7 @@ Pharmacokinetic / Pharmacodynamic relationships:
 A correlation between total medicinal product exposure divided by MIC (AUC/MIC) and clinical outcome was observed.
 The critical ratio for subjects with Aspergillus infections was ~200.
 It is particularly important to try to ensure that maximal plasma levels are achieved in patients infected with Aspergillus (see sections 4.2 and 5.2 on recommended dose regimens and the effects of food on absorption).
+
 Clinical experience
 Invasive aspergillosis
 Oral posaconazole 800 mg/day in divided doses was evaluated for the treatment of invasive aspergillosis in patients with disease refractory to amphotericin B (including liposomal formulations) or itraconazole or in patients who were intolerant of these medicinal products in a non-comparative salvage therapy trial.
@@ -60,7 +61,6 @@ Patients were treated with posaconazole or fluconazole oral suspension (both pos
 The clinical response rates from the above study are shown in the Table 4 below.
 Posaconazole was shown to be non-inferior to fluconazole for clinical success rates at Day 14 as well as 4 weeks after the end of treatment.
 
-1 Includes other less common species or species unknown
 Table 4.
 Clinical success rates in Oropharyngeal Candidiasis
 
@@ -74,7 +74,9 @@ Clinical success rate was defined as the number of cases assessed as having a cl
 Prophylaxis of Invasive Fungal Infections (IFIs) (Studies 316 and 1899)
 Two randomised, controlled prophylaxis studies were conducted among patients at high risk for developing invasive fungal infections.
 
-Study 316 was a randomised, double-blind trial of posaconazole oral suspension (200 mg three times a day) versus fluconazole capsules (400 mg once daily) in allogeneic hematopoietic stem cell transplant recipients with graft-versus-host disease (GVHD).
+Study 316 was a randomised, double-blind trial of posaconazole oral suspension (200 mg three times a day) versus fluconazole capsules (400 mg once daily) in allogeneic hematopoietic stem cell transplant
+
+1 Includes other less common species or species unknown recipients with graft-versus-host disease (GVHD).
 The primary efficacy endpoint was the incidence of proven/probable IFIs at 16 weeks post-randomization as determined by an independent, blinded external expert panel.
 A key secondary endpoint was the incidence of proven/probable IFIs during the on-treatment period (first dose to last dose of study medicinal product + 7 days).
 The majority (377/600, [63 %]) of patients included had Acute Grade 2 or 3 or chronic extensive (195/600,
@@ -109,6 +111,7 @@ a: FLU/ITZ (1899); FLU (316).
 b: In 1899 this was the period from randomization to last dose of study medicinal product plus 7 days; in 316 it was the period from first dose to last dose of study medicinal product plus 7 days.
 c: In 1899, this was the period from randomization to 100 days post-randomization; in 316 it was the period from the baseline day to 111 days post-baseline.
 d: All randomized e: All treated
+
 Table 6.
 Results from clinical studies in prophylaxis of Invasive Fungal Infections.
 

@@ -18,7 +18,7 @@ Patients who have severe diarrhoea or vomiting should be monitored closely for b
 
 The oral suspension must be shaken well before use.
 
-Use in renal impairment: An effect of renal impairment on the pharmacokinetics of posaconazole is not expected and no dose adjustment is recommended (see sections 4.4 and 5.2).
+Use in renal impairment: An effect of renal impairment on the pharmacokinetics of posaconazole is not expected and no dose adjustment is recommended (see section 5.2).
 
 Use in hepatic impairment: There are limited pharmacokinetic data in patients with hepatic impairment; therefore, no recommendation for dose adjustment can be made.
 In the small number of subjects studied who had hepatic impairment, there was an increase in exposure and half-life with a decrease in hepatic function (see sections 4.4 and 5.2).

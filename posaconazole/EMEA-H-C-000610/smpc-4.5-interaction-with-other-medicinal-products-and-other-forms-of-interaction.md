@@ -7,6 +7,9 @@ Rifabutin (300 mg once a day) decreased the Cmax (maximum plasma concentration) 
 Concomitant use of posaconazole and rifabutin and similar inducers (e.g. rifampicin) should be avoided unless the benefit to the patient outweighs the risk.
 See also below regarding the effect of posaconazole on rifabutin plasma levels.
 
+Efavirenz (400 mg once a day) decreased the Cmax and AUC of posaconazole by 45 % and 50 %, respectively.
+Concomitant use of posaconazole and efavirenz should be avoided unless the benefit to the patient outweighs the risk.
+
 Phenytoin (200 mg once a day) decreased the Cmax and AUC of posaconazole by 41 % and 50 %, respectively.
 Concomitant use of posaconazole and phenytoin and similar inducers (e.g. carbamazepine, phenobarbital, primidone) should be avoided unless the benefit to the patient outweighs the risk.
 
@@ -15,11 +18,13 @@ Concomitant use of posaconazole and cimetidine should be avoided unless the bene
 The effect of other H2 receptor antagonists (e.g. famotidine, ranitidine) and proton pump inhibitors (e.g. omeprazole) that may suppress gastric acidity for several hours on plasma levels of posaconazole has not been studied but a reduction in bioavailability may occur so that co-administration should be avoided if possible.
 
 Effects of posaconazole on other medicinal products:
-Posaconazole is an inhibitor of CYP3A4.
-Posaconazole 200 mg once daily increased the exposure (AUC) of the CYP3A4 substrate midazolam after intravenous administration by 83 %.
-Caution is advised during co-administration of CYP3A4 substrates administered intravenously and the dose of the CYP3A4 substrate may need to be reduced.
-The effect of posaconazole on plasma concentrations of orally administered CYP3A4 substrates is not known, but a much larger effect than that observed for intravenously administered substrates could be expected.
-If Noxafil is used concomitantly with CYP3A4 substrates that are administered orally, and for which an increase in plasma concentrations may be associated with unacceptable adverse events, plasma concentrations of the CYP3A4 substrate or adverse events should be closely monitored and the dose adjusted as needed.
+Posaconazole is a potent inhibitor of CYP3A4.
+Co-administration of posaconazole with CYP3A4 substrates may result in large increases in exposure to CYP3A4 substrates as exemplified by the effects on tacrolimus, sirolimus, atazanavir and midazolam below.
+Caution is advised during co-administration of posaconazole with CYP3A4 substrates administered intravenously and the dose of the CYP3A4 substrate may need to be reduced.
+If posaconazole is used concomitantly with CYP3A4 substrates that are administered orally, and for which an increase in plasma concentrations may be associated with unacceptable adverse events, plasma concentrations of the CYP3A4 substrate and/or adverse events should be closely monitored and the dose adjusted as needed.
+Several of the interaction studies were conducted in healthy volunteers in whom a higher exposure to posaconazole occurs compared to patients administered the same dose.
+The effect of posaconazole on CYP3A4 substrates in patients might be somewhat lower than that observed in healthy volunteers, and is expected to be variable between patients due to the variable posaconazole exposure in patients.
+The effect of co-administration with posaconazole on plasma levels of CYP3A4 substrates may also be variable within a patient, unless posaconazole is administered in a strictly standardised way with food, given the large food effect on posaconazole exposure (see section 5.2).
 
 Terfenadine, astemizole, cisapride, pimozide, halofantrine and quinidine (CYP3A4 substrates):
 Co-administration of posaconazole and terfenadine, astemizole, cisapride, pimozide, halofantrine or quinidine is contraindicated.
@@ -49,16 +54,27 @@ Clinically significant interactions resulting in hospitalisation and/or posacona
 When initiating posaconazole treatment in patients already receiving tacrolimus, the dose of tacrolimus should be reduced (e.g. to about one third of the current dose).
 Thereafter blood levels of tacrolimus should be monitored carefully during co-administration, and upon discontinuation of posaconazole, and the dose of tacrolimus should be adjusted as necessary.
 
-Sirolimus: Posaconazole may increase the plasma concentration of sirolimus.
-Monitoring of sirolimus blood levels should be performed upon initiation, during co-administration, and upon discontinuation of posaconazole treatment.
-The dose of sirolimus should be adjusted as necessary.
+Sirolimus: Repeat dose administration of oral posaconazole (400 mg twice daily for 16 days) increased the Cmax and AUC of sirolimus (2 mg single dose) an average of 6.7-fold and 8.9-fold (range 3.1 to 17.5-fold), respectively, in healthy subjects.
+The effect of posaconazole on sirolimus in patients is unknown, but is expected to be variable due to the variable posaconazole exposure in patients.
+Co-administration of posaconazole with sirolimus is not recommended and should be avoided whenever possible.
+If it is considered that co-administration is unavoidable, then it is recommended that the dose of sirolimus should be greatly reduced at the time of initiation of posaconazole therapy and that there should be very frequent monitoring of trough concentrations of sirolimus in whole blood.
+Sirolimus concentrations should be measured upon initiation, during co-administration, and at discontinuation of posaconazole treatment, with sirolimus doses adjusted accordingly.
+It should be noted that the relationship between sirolimus trough concentration and AUC is changed during co-administration with posaconazole.
+As a result, sirolimus trough concentrations that fall within the usual therapeutic range may result in sub-therapeutic levels.
+Therefore trough concentrations that fall in the upper part of the usual therapeutic range should be targetted and careful attention should be paid to clinical signs and symptoms, laboratory parameters and tissue biopsies.
 
-Antiretroviral agents: As HIV protease inhibitors and non-nucleoside reverse transcriptase inhibitors (NNRTIs) are CYP3A4 substrates, it is expected that posaconazole will increase plasma levels of these antiretroviral agents.
-Patients should be carefully monitored for any occurrence of toxicity during the co-administration of posaconazole and these agents.
+HIV Protease Inhibitors: As HIV protease inhibitors are CYP3A4 substrates, it is expected that posaconazole will increase plasma levels of these antiretroviral agents.
+Following co-administration of oral posaconazole (400 mg twice daily) with atazanavir (300 mg once daily) for 7 days in healthy subjects Cmax and AUC of atazanavir increased by an average of 2.6-fold and 3.7-fold (range 1.2 to 26-fold), respectively.
+Following co-administration of oral posaconazole (400 mg twice daily) with atazanavir and ritonavir (300/100 mg once daily) for 7 days in healthy subjects Cmax and AUC of atazanavir increased by an average of 1.5-fold and 2.5-fold (range 0.9 to 4.1-fold), respectively.
+The addition of posaconazole to therapy with atazanavir or with atazanavir plus ritonavir was associated with increases in plasma bilirubin levels.
+Frequent monitoring for adverse events and toxicity related to antiretroviral agents that are substrates of CYP3A4 is recommended during co-administration with posaconazole.
 
-Midazolam and other benzodiazepines metabolised by CYP3A4: Posaconazole 200 mg orally once daily increased the AUC of midazolam by 83 % following intravenous administration.
-Due to the inhibition of intestinal CYP3A4 by posaconazole, an even greater effect of posaconazole on the AUC of midazolam is expected following oral administration.
-Dose adjustments should be considered for all benzodiazepines that are metabolised through CYP3A4 (e.g. midazolam, triazolam, alprazolam) during co-administration with posaconazole.
+Midazolam and other benzodiazepines metabolised by CYP3A4: In a study in healthy volunteers posaconazole (200 mg once daily for 10 days) increased the exposure (AUC) of IV midazolam
+(0.05 mg/kg) by 83 %.
+In another study in healthy volunteers, repeat dose administration of oral posaconazole (200 mg twice daily for 7 days) increased the Cmax and AUC of IV midazolam (0.4 mg single dose) by an average of 1.3- and 4.6-fold (range 1.7 to 6.4-fold), respectively; Posaconazole 400 mg twice daily for 7 days increased the IV midazolam Cmax and AUC by 1.6 and 6.2-fold (range 1.6 to 7.6-fold), respectively.
+Both doses of posaconazole increased Cmax and AUC of oral midazolam (2 mg single oral dose) by 2.2 and 4.5-fold, respectively.
+In addition, oral posaconazole (200 mg or 400 mg) prolonged the mean terminal half-life of midazolam from approximately 3-4 hours to 8-10 hours during co-administration.
+Due to the risk of prolonged sedation it is recommended that dose adjustments should be considered when posaconazole is administered concomitantly with any benzodiazepine that is metabolised by CYP3A4 (e.g. midazolam, triazolam, alprazolam).
 
 Calcium channel blockers metabolised through CYP3A4 (e.g. diltiazem, verapamil, nifedipine, nisoldipine): Frequent monitoring for adverse events and toxicity related to calcium channel blockers is recommended during co-administration with posaconazole.
 Dose adjustment of calcium channel blockers may be required.

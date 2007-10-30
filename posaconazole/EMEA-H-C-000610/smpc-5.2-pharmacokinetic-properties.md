@@ -35,7 +35,7 @@ Similarly, in the prophylaxis studies, the mean steady-state posaconazole averag
 Gender
 The pharmacokinetics of posaconazole are comparable in men and women.
 
-Elderly (≥ 65 years)
+Elderly (� 65 years)
 An increase in Cmax (26 %) and AUC (29 %) was observed in elderly subjects (24 subjects ≥ 65 years of age) relative to younger subjects (24 subjects 18 - 45 years of age).
 However, in clinical efficacy trials, the safety profile of posaconazole between the young and elderly patients was similar.
 

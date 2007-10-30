@@ -29,7 +29,7 @@ Posaconazole is an inhibitor of CYP3A4 and should only be used under specific ci
 
 Rifabutin: Concomitant use with posaconazole should be avoided unless the benefit to the patient outweighs the risk (see section 4.5).
 
-Rifamycin antibacterials (rifampicin, rifabutin), certain anticonvulsants (phenytoin, carbamazepine, phenobarbital, primidone), and cimetidine: Posaconazole concentrations may be significantly lowered in combination; therefore, concomitant use with posaconazole should be avoided unless the benefit to the patient outweighs the risk (see section 4.5).
+Rifamycin antibacterials (rifampicin, rifabutin), certain anticonvulsants (phenytoin, carbamazepine, phenobarbital, primidone), efavirenz and cimetidine: Posaconazole concentrations may be significantly lowered in combination; therefore, concomitant use with posaconazole should be avoided unless the benefit to the patient outweighs the risk (see section 4.5).
 
 This medicinal product contains approximately 1.75 g of glucose per 5 ml of suspension.
 Patients with glucose-galactose malabsorption should not take this medicine.
