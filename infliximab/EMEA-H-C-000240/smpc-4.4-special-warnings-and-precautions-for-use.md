@@ -125,9 +125,9 @@ Due to insufficient data on safety and efficacy, Remicade is not recommended for
 Remicade has not been studied in patients with Crohn’s disease below the age of 6 years.
 
 Others
+
 The pharmacokinetics of infliximab in elderly patients has not been studied.
 Studies have not been performed in patients with liver or renal disease (see section 5.2).
-
 There are insufficient preclinical data to draw conclusions on the effects of infliximab on fertility and general reproductive function (see section 5.3).
 
 There is limited safety experience of surgical procedures in Remicade treated patients.

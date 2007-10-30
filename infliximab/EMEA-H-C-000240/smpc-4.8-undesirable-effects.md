@@ -130,7 +130,7 @@ Some of the cases have resulted in a fatal outcome.
 Nearly 50% of reported deaths have been associated with infection.
 Cases of tuberculosis, sometimes fatal, including miliary tuberculosis and tuberculosis with extrapulmonary location have been reported (see section 4.4).
 
-Malignancies and lymphoproliferative disorders: In clinical studies with infliximab in which 5706 patients were treated, representing 4990 patient years, 5 cases of lymphomas and 24 non-lymphoma malignancies were detected as compared with no lymphomas and 1 non-lymphoma malignancy in 1600 placebo-treated patients representing 892 patient years.
+Malignancies and lymphoproliferative disorders: In clinical studies with infliximab in which 5780 patients were treated, representing 5494 patient years, 5 cases of lymphomas and 26 non-lymphoma malignancies were detected as compared with no lymphomas and 1 non-lymphoma malignancy in 1600 placebo-treated patients representing 941 patient years.
 
 In long-term safety follow-up of clinical studies with infliximab of up to 5 years, representing 6234 patients-years (3210 patients), 5 cases of lymphoma and 38 cases of non-lymphoma malignancies were reported.
 
@@ -183,6 +183,7 @@ Antinuclear antibodies (ANA)/Anti-double-stranded DNA (dsDNA) antibodies: Approx
 Anti-dsDNA antibodies were newly detected in approximately 17% of infliximab-treated patients compared with 0% of placebo-treated patients.
 At the last evaluation, 57% of infliximab-treated patients remained anti-dsDNA positive.
 Reports of lupus and lupus-like syndromes, however, remain uncommon.
+
 Additional information on special populations
 
 Paediatric population
