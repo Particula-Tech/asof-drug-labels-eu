@@ -21,4 +21,5 @@ The nucleoside analogues (e.g. didanosine and zalcitabine) like zidovudine, are 
 
 A modest increase in Cmax (28 %) was observed for zidovudine when administered with lamivudine, however overall exposure (AUC) is not significantly altered.
 Zidovudine has no effect on the pharmacokinetics of lamivudine (see section 5.2).
+
 Lamivudine metabolism does not involve CYP3A, making interactions with medicinal products metabolised by this system (e.g. PIs) unlikely.

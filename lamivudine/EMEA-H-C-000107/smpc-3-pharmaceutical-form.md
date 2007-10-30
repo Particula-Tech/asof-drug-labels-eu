@@ -2,7 +2,7 @@
 
 Film-coated tablet
 
-White, diamond shaped and engraved with “GX CJ7” on one face.
+White, diamond shaped scored tablets engraved with “GX CJ7” on both faces.
 
 [Epivir 10 mg/ml oral solution]
 

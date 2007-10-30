@@ -20,13 +20,13 @@ Common: Cough, nasal symptoms
 Gastrointestinal disorders
 Common: Nausea, vomiting, abdominal pain or cramps, diarrhoea
 Rare: Pancreatitis. elevations in serum amylase.
-
 Hepatobiliary disorders
 Uncommon: Transient elevations in liver enzymes (AST, ALT).
 Rare: Hepatitis
 
 Skin and subcutaneous tissue disorders
 Common: Rash, alopecia
+
 Musculoskeletal and connective tissue disorders
 Common: Arthralgia, muscle disorders
 Rare: Rhabdomyolysis
