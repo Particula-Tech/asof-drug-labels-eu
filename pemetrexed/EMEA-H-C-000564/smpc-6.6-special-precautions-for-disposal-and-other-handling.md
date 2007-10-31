@@ -8,7 +8,7 @@ Calculate the dose and the number of ALIMTA vials needed.
 Each vial contains an excess of pemetrexed to facilitate delivery of label amount.
 
 3.
-Reconstitute 500-mg vials with 20 ml of sodium chloride 9 mg/ml (0.9 %) solution for injection, without preservative, resulting in a solution containing 25 mg/ml pemetrexed.
+Reconstitute 100-mg vials with 4.2 ml of sodium chloride 9 mg/ml (0.9 %) solution for injection, without preservative, resulting in a solution containing 25 mg/ml pemetrexed.
 Gently swirl each vial until the powder is completely dissolved.
 The resulting solution is clear and ranges in colour from colourless to yellow or green-yellow without adversely affecting product quality.
 The pH of the reconstituted solution is between 6.6 and 7.8.
@@ -36,3 +36,7 @@ Pemetrexed is not a vesicant.
 There is not a specific antidote for extravasation of pemetrexed.
 There have been few reported cases of pemetrexed extravasation, which were not assessed as serious by the investigator.
 Extravasation should be managed by local standard practice as with other non-vesicants.
+
+[ALIMTA 500 mg powder for concentrate for solution for infusion]
+
+Reconstitute 500-mg vials with 20 ml of sodium chloride 9 mg/ml (0.9 %) solution for injection, without preservative, resulting in a solution containing 25 mg/ml pemetrexed.

@@ -112,8 +112,11 @@ Rare cases of hepatitis, potentially serious, have been reported during clinical
 
 Pancytopenia has been uncommonly reported during clinical trials with pemetrexed.
 
+In clinical trials, cases of colitis (including intestinal and rectal bleeding, sometimes fatal, intestinal perforation, intestinal necrosis and typhlitis) have been reported uncommonly in patients treated with pemetrexed.
+
+In clinical trials, cases of interstitial pneumonitis with respiratory insufficiency, sometimes fatal, have been reported uncommonly in patients treated with pemetrexed..
+
 During post marketing surveillance, the following adverse reactions have been reported in patients treated with pemetrexed:
 
-Rare cases of colitis have been reported in patients treated with pemetrexed.
-
 Cases of acute renal failure have been reported with pemetrexed alone or in association with other chemotherapeutic agents (see section 4.4).
+Cases of radiation pneumonitis have been reported in patients treated with radiation either prior, during or subsequent to their pemetrexed therapy (see section 4.4).

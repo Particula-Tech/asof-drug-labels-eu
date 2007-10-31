@@ -38,3 +38,10 @@ Contraceptive measures or abstinence are recommended.
 Owing to the possibility of pemetrexed treatment causing irreversible infertility, men are advised to seek counselling on sperm storage before starting treatment.
 
 Women of childbearing potential must use effective contraception during treatment with pemetrexed (see section 4.6).
+
+Cases of radiation pneumonitis have been reported in patients treated with radiation either prior, during or subsequent to their pemetrexed therapy.
+Particular attention should be paid to these patients and caution exercised with use of other radiosensitising agents.
+
+[ALIMTA 500 mg powder for concentrate for solution for infusion]
+
+Particular attention should be paid to these patients and caution exercised with use of other radiosensiting agents.
