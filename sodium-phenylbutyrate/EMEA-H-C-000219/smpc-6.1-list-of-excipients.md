@@ -1,8 +1,8 @@
 # 6.1 List of excipients
 
-Microcrystalline cellulose,
+Microcrystalline cellulose
 Magnesium stearate
-Colloidal anhydrous silica.
+Colloidal anhydrous silica
 
 [AMMONAPS 940 mg/g granules]
 

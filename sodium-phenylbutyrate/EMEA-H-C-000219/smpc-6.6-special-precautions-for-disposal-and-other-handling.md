@@ -1,11 +1,12 @@
-# 6.6 Instructions for use and handling
+# 6.6 Special precautions for disposal and other handling
 
 No special requirements.
+Any unused product or waste material should be disposed of in accordance with local requirements.
 
 [AMMONAPS 940 mg/g granules]
 
-It is recommended that a heaped measuring spoon is removed from the container and a flat surface e.g. base of a knife is drawn across the top of the measure.
-This will give the following doses: small measure 0.95 g, middle size measure 2.9 g and large measure 8.6 g of sodium phenylbutyrate.
+It is recommended that a heaped measuring spoon is removed from the container and a flat surface, e.g. the blade of a knife, is drawn across the top of the measure.
+This will give the following doses: small measure 0.95 g, medium measure 2.9 g and large measure 8.6 g of sodium phenylbutyrate.
 
 Where a patient requires administration by tube, it is possible to re-constitute AMMONAPS in water prior to use (solubility for sodium phenylbutyrate is up to 5 g in 10 ml water).
 Please note that the re-constituted granules will normally produce a milky white suspension.

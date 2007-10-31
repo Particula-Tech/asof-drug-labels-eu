@@ -2,4 +2,4 @@
 
 − Pregnancy
 − Breast-feeding
-− Known hypersensitivity to the active substance or to any of the excipients.
+− Hypersensitivity to the active substance or to any of the excipients.
