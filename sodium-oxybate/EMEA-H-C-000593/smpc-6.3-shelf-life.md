@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-5 years;
+5 years
 
 After First opening: 40 days
 
