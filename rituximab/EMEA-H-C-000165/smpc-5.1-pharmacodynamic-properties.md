@@ -180,7 +180,7 @@ All patients received concomitant oral methotrexate (10-25 mg/week) and 60 mg or
 Patients were followed beyond week 24 for long term endpoints, including radiographic assessment at 56 weeks.
 During this time 81% of patients, from the original placebo group received rituximab between weeks 24 an 56, under an open label extension study protocol.
 
-Study 2 was a randomized, double-blind, double-dummy, controlled, 3 x 3 multifactorial study which compared two different dose levels of rituximab given with or without one of two peri infusional corticosteroid regimens in combination with weekly methotrexate in patients with active rheumatoid arthritis which had not responded to treatment with at least 5 other DMARDs.
+Study 2 was a randomized, double-blind, double-dummy, controlled, 3 x 3 multifactorial study which compared two different dose levels of rituximab given with or without one of two peri infusional corticosteroid regimens in combination with weekly methotrexate in patients with active rheumatoid arthritis which had not responded to treatment with 1 to 5 other DMARDs.
 
 Study 3 was a double-blind, double-dummy, controlled study evaluating rituximab monotherapy, and rituximab in combination with either cyclophosphamide or methotrexate in patients with active rheumatoid arthritis which had not responded to one or more prior DMARDs
 

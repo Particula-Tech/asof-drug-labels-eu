@@ -2,18 +2,22 @@
 
 non-Hodgkin’s Lymphoma
 
-Pharmacokinetic studies performed in a phase I study in which patients (n=15) with relapsed B cell lymphoma were given single doses of rituximab at 10, 50, 100 or 500 mg/m2 indicated that serum levels and half-life of rituximab were proportional to dose.
-In a cohort of 14 patients among the 166 patients with relapsed or chemoresistant low-grade or follicular non-Hodgkin’s Lymphoma enrolled in the phase III pivotal trial and given rituximab 375 mg/m2 as an IV infusion for 4 weekly doses, the mean serum half-life was 76.3 hours (range, 31.5 to 152.6 hours) after the first infusion and 205.8 hours (range, 83.9 to 407.0 hours) after the fourth infusion.
-The mean Cmax after the first and fourth infusion were 205.6 ± 59.9 µg/ml and 464.7 ± 119.0 µg/ml, respectively.
-The mean serum clearance after the first and fourth infusion was 0.0382 ± 0.0182 L/h and 0.0092 ± 0.0033 L/h, respectively.
-However, variability in serum levels was large.
+Based on a population pharmacokinetic analysis in 298 NHL patients who received single or multiple infusions of rituximab as a single agent or in combination with CHOP therapy (applied rituximab doses ranged from 100 to 500 mg/m2), the typical population estimates of nonspecific clearance (CL1), specific clearance (CL2) likely contributed by B cells or tumor burden, and central compartment volume of distribution (V1) were 0.14 L/day, 0.59 L/day, and 2.7 L, respectively.
+The estimated median terminal elimination half-life of rituximab was 22 days (range, 6.1 to 52 days).
+Baseline CD19-positive cell counts and size of measurable tumor lesions contributed to some of the variability in CL2 of rituximab in data from 161 patients given 375 mg/m2 as an IV infusion for 4 weekly doses.
+Patients with higher CD19-positive cell counts or tumor lesions had a higher CL2.
+However, a large component of inter-individual variability remained for CL2 after correction for CD19-positive cell counts and tumor lesion size.
+V1 varied by body surface area (BSA) and CHOP therapy.
+This variability in V1 (27.1% and 19.0%) contributed by the range in BSA (1.53 to 2.32 m2) and concurrent CHOP therapy, respectively, were relatively small.
+Age, gender and WHO performance status had no effect on the pharmacokinetics of rituximab.
+This analysis suggests that dose adjustment of rituximab with any of the tested covariates is not expected to result in a meaningful reduction in its pharmacokinetic variability.
 
-Rituximab serum concentrations were statistically significantly higher in responding patients compared to non-responding patients just prior to and after the fourth infusion and post treatment.
-Serum concentrations were negatively correlated with tumour burden and the number of circulating
-B cells at baseline.
-Typically, rituximab was detectable for 3 to 6 months.
+Rituximab, administered as an IV infusion at a dose of 375 mg/m2 at weekly intervals for 4 doses to 203 patients with NHL naive to rituximab, yielded a mean Cmax following the fourth infusion of 486 µg/mL (range, 77.5 to 996.6 µg/mL).
+Rituximab was detectable in the serum of patients 3 – 6 months after completion of last treatment.
 
-Elimination and distribution have not been extensively studied in patients with diffuse large B cell non-Hodgkin's Lymphoma, but available data indicate that serum levels of rituximab in these patients are comparable to those in patients with follicular non-Hodgkin's Lymphoma following treatment with similar doses.
+Upon administration of rituximab at a dose of 375 mg/m2 as an IV infusion at weekly intervals for 8 doses to 37 patients with NHL, the mean Cmax increased with each successive infusion, spanning from a mean of 243 µg/mL (range, 16 – 582 µg/mL) after the first infusion to 550 µg/mL (range, 171 – 1177 µg/mL) after the eighth infusion.
+
+The pharmacokinetic profile of rituximab when administered as 6 infusions of 375 mg/m2 in combination with 6 cycles of CHOP chemotherapy was similar to that seen with rituximab alone.
 
 Rheumatoid Arthritis
 
@@ -21,7 +25,7 @@ Following two intravenous infusions of rituximab at a dose of 1000 mg, two weeks
 Population pharmacokinetic analysis revealed that BSA and gender were the most significant covariates to explain inter-individual variability in pharmacokinetic parameters.
 After adjusting for BSA, male subjects had a larger volume of distribution and a faster clearance than female subjects.
 The gender- related pharmacokinetic differences are not considered to be clinically relevant and dose adjustment is not required.
-Following the intravenous administration of 500 and 1000 mg doses of rituximab on two occasions, two weeks apart, mean Cmax values were 183 µg/mL (range, 81.8 to 279 µg/mL) and 370 µg/mL (212 to 637 µg/mL), and mean half-lives were 17.9 days (range, 12.3 to 31.3 days) and 19.7 days (range, 12.3 to 34.6 days), respectively.
+Following the intravenous administration of 500 and 1000 mg doses of rituximab on two occasions, two weeks apart, mean Cmax values were 183 μg/mL (range, 81.8 to 279 μg/mL) and 370 μg/mL (212 to 637 μg/mL), and mean half-lives were 17.9 days (range, 12.3 to 31.3 days) and 19.7 days (range, 12.3 to 34.6 days), respectively.
 No pharmacokinetic data are available in patients with hepatic or renal impairment.
 No pharmacokinetic data are available for patients receiving multiple courses of therapy.
-The PK parameters in the anti-TNF inadequate responder population, following the same dosage regimen (2 x 1000 mg, iv, 2 weeks apart), were similar with a mean maximum serum concentration of 369 µg/mL and a mean terminal half-life of 19.2 days.
+The PK parameters in the anti-TNF inadequate responder population, following the same dosage regimen (2 x 1000 mg, iv, 2 weeks apart), were similar with a mean maximum serum concentration of 369 μg/mL and a mean terminal half-life of 19.2 days.

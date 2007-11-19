@@ -38,7 +38,7 @@ Very rare cases of hepatitis B reactivation, including reports of fulminant hepa
 The reports are confounded by both the underlying disease state and the cytotoxic chemotherapy.
 Patients with a history of hepatitis B infection should be carefully monitored for signs of active hepatitis B infection when rituximab is used in association with cytotoxic chemotherapy.
 
-Very rare cases of Progressive Multifocal Leukoencephalopathy have been reported during post-marketing use of MabThera/Rituxan in NHL (see section 4.8).
+Very rare cases of Progressive Multifocal Leukoencephalopathy have been reported during post-marketing use of MabThera in NHL (see section 4.8).
 The majority of patients had received rituximab in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
 Physicians treating patients with non-Hodgkin’s Lymphoma should consider PML in the differential diagnosis of patients reporting neurological symptoms and consultation with a Neurologist should be considered as clinically indicated.
 
