@@ -13,10 +13,10 @@ Suggested management of cases of neutropenia is outlined below.
 It is recommended that such a management protocol be in place prior to initiating any patient on deferiprone treatment.
 
 Treatment with deferiprone should not be initiated if the patient is neutropenic.
-The risk of agranulocytosis and neutropenia is higher, if the baseline ANC count is less than 1.5x109/l.
+The risk of agranulocytosis and neutropenia is higher, if the baseline absolute neutrophil count (ANC) is less than 1.5x109/l.
 
 In the event of neutropenia:
-Instruct the patient to immediately discontinue deferiprone and all other medications with a potential to cause neutropenia.
+Instruct the patient to immediately discontinue deferiprone and all other medicinal products with a potential to cause neutropenia.
 The patient should be advised to limit contact with other individuals in order to reduce the risk of infection.
 Obtain a complete blood cell (CBC) count, with a white blood cell (WBC) count, corrected for the presence of nucleated red blood cells, a neutrophil count, and a platelet count immediately upon diagnosing the event and then repeat daily.
 It is recommended that following recovery from neutropenia, weekly CBC, WBC, neutrophil and platelet counts continue to be obtained for three consecutive weeks, to ensure that the patient recovers fully.
@@ -35,7 +35,7 @@ No animal studies to evaluate the potential effects of deferiprone on fertility 
 
 Serum ferritin concentration/plasma Zn2+ concentration
 It is recommended that serum ferritin concentrations, or other indicators of body iron load, be monitored every two to three months to assess the long-term effectiveness of the chelation regimen in controlling the body iron load.
-Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 μg/l.
+Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 µg/l.
 
 Monitoring of plasma Zn2+ concentration, and supplementation in case of a deficiency, is recommended.
 
@@ -44,7 +44,7 @@ No data are available on the use of deferiprone in HIV positive or in other immu
 Given that deferiprone can be associated with neutropenia and agranulocytosis, therapy in immune compromised patients should not be initiated unless potential benefits outweigh potential risks.
 
 Renal or hepatic impairment and liver fibrosis
-There are no available data in patients with renal or hepatic impairment.
+There are no data available on the use of deferiprone in patients with renal or hepatic impairment.
 Since deferiprone is eliminated mainly via the kidneys, there may be an increased risk of complications in patients with impaired renal function.
 Similarly, as deferiprone is metabolised in the liver, caution must be exercised in patients with hepatic dysfunction.
 Renal and hepatic function should be monitored in this patient population during deferiprone therapy.
@@ -59,3 +59,8 @@ Patients should be informed that their urine may show a reddish/brown discolorat
 Chronic overdose and neurological disorders
 Neurological disorders have been observed in children treated with 2.5 to 3 times the recommended dose for several years.
 Prescribers are reminded that the use of doses above 100 mg/kg/day are not recommended (see sections 4.2, 4.8 and 4.9).
+
+[Ferriprox 100 mg/ml oral solution]
+
+Excipients
+Ferriprox oral solution contains the colouring agent Sunset Yellow (E110) which may cause allergic reactions.
