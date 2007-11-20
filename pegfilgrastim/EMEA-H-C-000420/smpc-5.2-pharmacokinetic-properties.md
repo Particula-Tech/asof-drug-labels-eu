@@ -25,5 +25,6 @@ ANC
 Study Day
 
 Due to the neutrophil-mediated clearance mechanism, the pharmacokinetics of pegfilgrastim is not expected to be affected by renal or hepatic impairment.
+In a open label, single dose study (n=31) various stages of renal impairment, including end-stage renal disease, had no impact on the pharmacokinetics of pegfilgrastim.
 
 Limited data indicate that the pharmacokinetics of pegfilgrastim in elderly subjects (> 65 years) is similar to that in adults.

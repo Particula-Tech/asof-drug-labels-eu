@@ -24,7 +24,3 @@ The incidence of hospitalisations and IV anti-infective use associated with a cl
 A small (n=83), Phase II, randomised, double-blind study in patients receiving chemotherapy for de novo acute myeloid leukaemia compared pegfilgrastim (single dose of 6 mg) with filgrastim, administered during induction chemotherapy.
 Median time to recovery from severe neutropenia was estimated as 22 days in both treatment groups.
 Long term outcome was not studied (see section 4.4).
-
-[Neulasta 6 mg solution for injection in a pre-filled pen.]
-
-In a second study (n=310), which used a weight-adjusted dose (100 microgramsg/kg), the mean duration of grade 4 neutropenia for the pegfilgrastim group was 1.7 days, compared with 1.8 days in the filgrastim group (difference 0.03 days, 95% CI -0.36, 0.30).
