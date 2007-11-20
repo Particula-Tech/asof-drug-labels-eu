@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: protein-tyrosine kinase inhibitor, ATC code: L01XX28
+Pharmacotherapeutic group: protein-tyrosine kinase inhibitor, ATC code: L01XE01
 
 Imatinib is a protein-tyrosine kinase inhibitor which potently inhibits the Bcr-Abl tyrosine kinase at the in vitro, cellular and in vivo levels.
 The compound selectively inhibits proliferation and induces apoptosis in Bcr-Abl positive cell lines as well as fresh leukaemic cells from Philadelphia chromosome positive CML and acute lymphoblastic leukaemia (ALL) patients.
@@ -20,12 +20,14 @@ Three large, international, open-label, non-controlled phase II studies were con
 One large, open-label, multicentre, international randomised phase III study has been conducted in patients with newly diagnosed Ph+ CML.
 In addition, children have been treated in two phase I studies and one phase II study.
 
-In all clinical studies 38–40% of patients were ≥ 60 years of age and 10–12% of patients were ≥ 70 years of age.
+In all clinical studies 38–40% of patients were ≥ 60 years of age and 10–12% of patients were
+≥ 70 years of age.
 
 Chronic phase, newly diagnosed: This phase III study in adult patients compared treatment with either single-agent Glivec or a combination of interferon-alpha (IFN) plus cytarabine (Ara-C).
 Patients showing lack of response (lack of complete haematological response (CHR) at 6 months, increasing WBC, no major cytogenetic response (MCyR) at 24 months), loss of response (loss of CHR or MCyR) or severe intolerance to treatment were allowed to cross over to the alternative treatment arm.
 In the Glivec arm, patients were treated with 400 mg daily.
-In the IFN arm, patients were treated with a target dose of IFN of 5 MIU/m2/day subcutaneously in combination with subcutaneous Ara-C 20 mg/m2/day for 10 days/month.
+In the IFN arm, patients were treated with a target dose of IFN of 5 MIU/m2/day subcutaneously in combination with subcutaneous Ara-C
+20 mg/m2/day for 10 days/month.
 
 A total of 1,106 patients were randomised, 553 to each arm.
 Baseline characteristics were well balanced between the two arms.
@@ -100,8 +102,7 @@ Other adverse reactions were reported with lower or equal frequency.
 
 Chronic phase, Interferon failure: 532 adult patients were treated at a starting dose of 400 mg.
 The patients were distributed in three main categories: haematological failure (29%), cytogenetic failure (35%), or intolerance to interferon (36%).
-Patients had received a median of 14 months of prior IFN therapy at doses
-≥ 25 x 106 IU/week and were all in late chronic phase, with a median time from diagnosis of 32 months.
+Patients had received a median of 14 months of prior IFN therapy at doses ≥ 25 x 106 IU/week and were all in late chronic phase, with a median time from diagnosis of 32 months.
 The primary efficacy variable of the study was the rate of major cytogenetic response (complete plus partial response, 0 to 35% Ph+ metaphases in the bone marrow).
 
 In this study 65% of the patients achieved a major cytogenetic response that was complete in 53% (confirmed 43%) of patients (Table 4).
@@ -109,6 +110,7 @@ A complete haematological response was achieved in 95% of patients.
 
 Accelerated phase: 235 adult patients with accelerated phase disease were enrolled.
 The first 77 patients were started at 400 mg, the protocol was subsequently amended to allow higher dosing and the remaining 158 patients were started at 600 mg.
+
 The primary efficacy variable was the rate of haematological response, reported as either complete haematological response, no evidence of leukaemia (i.e. clearance of blasts from the marrow and the blood, but without a full peripheral blood recovery as for complete responses), or return to chronic phase CML.
 A confirmed haematological response was achieved in 71.5% of patients (Table 4).
 Importantly, 27.7% of patients also achieved a major cytogenetic response, which was complete in 20.4% (confirmed 16%) of patients.
@@ -139,8 +141,8 @@ Table 4 Response in adult CML studies
 
 Paediatric patients: A total of 26 paediatric patients of age < 18 years with either chronic phase CML (n=11) or CML in blast crisis or Ph+ acute leukaemias (n=15) were enrolled in a dose-escalation phase I trial.
 This was a population of heavily pretreated patients, as 46% had received prior BMT and 73% a prior multi-agent chemotherapy.
-Patients were treated at doses of Glivec of 260 mg/m2/day (n=5), 340 mg/m2/day (n=9),
-440 mg/m2/day (n=7) and 570 mg/m2/day (n=5).
+Patients were treated at doses of Glivec of 260 mg/m2/day (n=5),
+340 mg/m2/day (n=9), 440 mg/m2/day (n=7) and 570 mg/m2/day (n=5).
 Out of 9 patients with chronic phase CML and cytogenetic data available, 4 (44%) and 3 (33%) achieved a complete and partial cytogenetic response, respectively, for a rate of MCyR of 77%.
 
 A total of 51 paediatric patients with newly diagnosed and untreated CML in chronic phase have been enrolled in an open-label, multicentre, single-arm phase II trial.
@@ -164,20 +166,28 @@ Disease-free survival (DFS) and overall survival (OS) constantly exceeded 1 year
 
 Table 5 Chemotherapy regimen used in combination with imatinib
 
-| Study ADE10 |  |
-| --- | --- |
-| Prephase | DEX 10 mg/m2 oral, days 1-5; CP 200 mg/m2 i.v., days 3, 4, 5; MTX 12 mg intrathecal, day 1 |
-| Remission induction | DEX 10 mg/m2 oral, days 6-7, 13-16; VCR 1 mg i.v., days 7, 14; IDA 8 mg/m2 i.v. (0.5 h), days 7, 8, 14, 15; CP 500 mg/m2 i.v.(1 h) day 1; Ara-C 60 mg/m2 i.v., days 22-25, 29-32 |
-| Consolidation therapy I, III, V | MTX 500 mg/m2 i.v. (24 h), days 1, 15; 6-MP 25 mg/m2 oral, days 1-20 |
-| Consolidation therapy II, IV | Ara-C 75 mg/m2 i.v. (1 h), days 1-5; VM26 60 mg/m2 i.v. (1 h), days 1-5 |
-| Study AAU02 |  |
+Study ADE10
 
+Prephase DEX 10 mg/m2 oral, days 1-5; CP 200 mg/m2 i.v., days 3, 4, 5; MTX
+
+12 mg intrathecal, day 1
+Remission induction DEX 10 mg/m2 oral, days 6-7, 13-16; VCR 1 mg i.v., days 7, 14; IDA
+8 mg/m2 i.v.
+(0.5 h), days 7, 8, 14, 15; CP 500 mg/m2 i.v.(1 h) day 1; Ara-C 60 mg/m2 i.v., days 22-25, 29-32
+
+Consolidation MTX 500 mg/m2 i.v. (24 h), days 1, 15; 6-MP 25 mg/m2 oral, days 1-20
+
+therapy I, III, V
+
+Consolidation Ara-C 75 mg/m2 i.v. (1 h), days 1-5; VM26 60 mg/m2 i.v. (1 h), days 1-5
+
+therapy II, IV
+Study AAU02
 Induction therapy (de Daunorubicin 30 mg/m2 i.v., days 1-3, 15-16; VCR 2 mg total dose i.v.,
 
-novo Ph+ ALL) days 1, 8, 15, 22; CP 750 mg/m2 i.v., days 1, 8; prednisone 60 mg/m2 oral,
+novo Ph+ ALL) days 1, 8, 15, 22; CP 750 mg/m2 i.v., days 1, 8; prednisone 60 mg/m2
 
-days 1-7, 15-21; IDA 9 mg/m2 oral, days 1-28; MTX 15 mg intrathecal, days 1, 8, 15, 22; Ara-C 40 mg intrathecal, days 1, 8, 15, 22;
-methylprednisolone 40 mg intrathecal, days 1, 8, 15, 22
+oral, days 1-7, 15-21; IDA 9 mg/m2 oral, days 1-28; MTX 15 mg intrathecal, days 1, 8, 15, 22; Ara-C 40 mg intrathecal, days 1, 8, 15, 22; methylprednisolone 40 mg intrathecal, days 1, 8, 15, 22
 Consolidation (de Ara-C 1,000 mg/m2/12 h i.v.(3 h), days 1-4; mitoxantrone 10 mg/m2 i.v.
 
 novo Ph+ ALL) days 3-5; MTX 15 mg intrathecal, day 1; methylprednisolone 40 mg
@@ -188,17 +198,15 @@ Study ADE04
 Prephase DEX 10 mg/m2 oral, days 1-5; CP 200 mg/m2 i.v., days 3-5; MTX 15 mg
 
 intrathecal, day 1
-Induction therapy I DEX 10 mg/m2 oral, days 1-5; VCR 2 mg i.v., days 6, 13, 20;
-daunorubicin 45 mg/m2 i.v., days 6-7, 13-14
+Induction therapy I DEX 10 mg/m2 oral, days 1-5; VCR 2 mg i.v., days 6, 13, 20; daunorubicin 45 mg/m2 i.v., days 6-7, 13-14
 Induction therapy II CP 1 g/m2 i.v.
 (1 h), days 26, 46; Ara-C 75 mg/m2 i.v.
-(1 h), days 28-31,
-35-38, 42-45; 6-MP 60 mg/m2 oral, days 26-46
+(1 h), days 28-31, 35-38, 42-45; 6-MP 60 mg/m2 oral, days 26-46
 
 Consolidation DEX 10 mg/m2 oral, days 1-5; vindesine 3 mg/m2 i.v., day 1; MTX
-therapy 1.5 g/m2 i.v. (24 h), day 1; etoposide 250 mg/m2 i.v. (1 h) days 4-5; Ara-C
+therapy 1.5 g/m2 i.v. (24 h), day 1; etoposide 250 mg/m2 i.v. (1 h) days 4-5; Ara-
 
-2x 2 g/m2 i.v.
+C 2x 2 g/m2 i.v.
 (3 h, q 12 h), day 5
 Study AJP01
 Induction therapy CP 1.2 g/m2 i.v.
@@ -226,8 +234,8 @@ Maintenance VCR 2 mg i.v. monthly for 13 months; prednisolone 200 mg oral, 5 day
 
 per month for 13 months
 All treatment regimens include administration of steroids for CNS prophylaxis.
-Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate;
-6-MP: 6-mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.: intravenous
+Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6-MP: 6-mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.:
+intravenous
 
 Relapsed/refractory Ph+ ALL: When imatinib was used as single agent in patients with relapsed/refractory Ph+ ALL, it resulted, in the 53 out of 411 patients evaluable for response, in a haematological response rate of 30% (9% complete) and a major cytogenetic response rate of 23%.
 (Of note, out of the 411 patients, 353 were treated in an expanded access program without primary response data collected.)
@@ -299,7 +307,6 @@ Median time to response was 13 weeks (95% C.I.
 Median time to treatment failure in responders was 122 weeks (95% C.I 106–147), while in the overall study population it was 84 weeks (95% C.I 71–109).
 The median overall survival has not been reached.
 The Kaplan-Meier estimate for survival after 36-month follow-up is 68%.
-
 In two clinical studies (study B2222 and an intergroup study S0033) the daily dose of Glivec was escalated to 800 mg in patients progressing at the lower daily doses of 400 mg or 600 mg.
 The daily dose was escalated to 800 mg in a total of 103 patients; 6 patients achieved a partial response and 21 stabilisation of their disease after dose escalation for an overall clinical benefit of 26%.
 From the safety data available, escalating the dose to 800 mg daily in patients progressing at lower doses of 400 mg or 600 mg daily does not seem to affect the safety profile of Glivec.

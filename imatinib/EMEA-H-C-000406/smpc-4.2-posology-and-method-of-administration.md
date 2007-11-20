@@ -16,8 +16,7 @@ The recommended dosage of Glivec is 600 mg/day for patients in accelerated phase
 Accelerated phase is defined by the presence of any of the following: blasts ≥ 15% but < 30% in blood or bone marrow, blasts plus promyelocytes ≥ 30% in blood or bone marrow (providing < 30% blasts), peripheral blood basophils ≥ 20%, platelets < 100 x 109/l unrelated to therapy.
 
 The recommended dose of Glivec is 600 mg/day for patients in blast crisis.
-Blast crisis is defined as blasts
-≥ 30% in blood or bone marrow or extramedullary disease other than hepatosplenomegaly.
+Blast crisis is defined as blasts ≥ 30% in blood or bone marrow or extramedullary disease other than hepatosplenomegaly.
 
 Treatment duration: In clinical trials, treatment with Glivec was continued until disease progression.
 The effect of stopping treatment after the achievement of a complete cytogenetic response has not been investigated.
@@ -38,7 +37,6 @@ Patients should be monitored closely following dose escalation given the potenti
 Posology for Ph+ ALL
 The recommended dose of Glivec is 600 mg/day for patients with Ph+ ALL.
 Haematological experts in the management of this disease should supervise the therapy throughout all phases of care.
-
 Treatment schedule: On the basis of the existing data, Glivec has been shown to be effective and safe when administered at 600 mg/day in combination with chemotherapy in the induction phase, the consolidation and maintenance phases of chemotherapy (see section 5.1) for adult patients with newly diagnosed Ph+ ALL.
 The duration of Glivec therapy can vary with the treatment programme selected, but generally longer exposures to Glivec have yielded better results.
 
@@ -76,7 +74,8 @@ Non-haematological adverse reactions
 If a severe non-haematological adverse reaction develops with Glivec use, treatment must be withheld until the event has resolved.
 Thereafter, treatment can be resumed as appropriate depending on the initial severity of the event.
 
-If elevations in bilirubin > 3 x institutional upper limit of normal (IULN) or in liver transaminases > 5 x IULN occur, Glivec should be withheld until bilirubin levels have returned to < 1.5 x IULN and transaminase levels to < 2.5 x IULN.
+If elevations in bilirubin > 3 x institutional upper limit of normal (IULN) or in liver transaminases
+> 5 x IULN occur, Glivec should be withheld until bilirubin levels have returned to < 1.5 x IULN and transaminase levels to < 2.5 x IULN.
 Treatment with Glivec may then be continued at a reduced daily dose.
 In adults the dose should be reduced from 400 to 300 mg or from 600 to 400 mg, or from 800 mg to 600 mg, and in children from 340 to 260 mg/m2/day.
 
@@ -134,6 +133,16 @@ For doses of 400 mg and above (see dosage recommendation below) a 400 mg tablet 
 For patients unable to swallow the film-coated tablets, the tablets may be dispersed in a glass of mineral water or apple juice.
 The required number of tablets should be placed in the appropriate volume of beverage (approximately 50 ml for a 100 mg tablet, and 200 ml for a 400 mg tablet) and stirred with a spoon.
 The suspension should be administered immediately after complete disintegration of the tablet(s).
+
+| HES/CEL (starting dose 100 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). |
+| --- | --- | --- |
+| Chronic phase CML, MDS/MPD and GIST (starting dose 400 mg) HES/CEL (at dose 400 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). 3. In the event of recurrence of ANC < 1.0 x 109/l and/or platelets < 50 x 109/l, repeat step 1 and resume Glivec at reduced dose of 300 mg. |
+| Paediatric chronic phase CML (at dose 340 mg/m2) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at previous dose (i.e. before severe adverse reaction). 3. In the event of recurrence of ANC < 1.0 x109/l and/or platelets < 50 x109/l, repeat step 1 and resume Glivec at reduced dose of 260 mg/m2. |
+| Accelerated phase CML and blast crisis and Ph+ ALL (starting dose 600 mg) | aANC < 0.5 x 109/l and/or platelets < 10 x 109/l | 1. Check whether cytopenia is related to leukaemia (marrow aspirate or biopsy). 2. If cytopenia is unrelated to leukaemia, reduce dose of Glivec to 400 mg. 3. If cytopenia persists for 2 weeks, reduce further to 300 mg. 4. If cytopenia persists for 4 weeks and is still unrelated to leukaemia, stop Glivec until ANC ≥ 1 x 109/l and platelets ≥ 20 x 109/l, then resume treatment at 300 mg. |
+| Paediatric accelerated phase CML and blast crisis (starting dose 340 mg/m2) | aANC < 0.5 x 109/l and/or platelets < 10 x 109/l | 1. Check whether cytopenia is related to leukaemia (marrow aspirate or biopsy). 2. If cytopenia is unrelated to leukaemia, reduce dose of Glivec to 260 mg/m2. 3. If cytopenia persists for 2 weeks, reduce further to 200 mg/m2. 4. If cytopenia persists for 4 weeks and is still unrelated to leukaemia, stop Glivec until ANC ≥ 1 x 109/l and platelets ≥ 20 x 109/l, then resume treatment at |
+|  |  | 200 mg/m2. |
+| DFSP (at dose 800 mg) | ANC < 1.0 x 109/l and/or platelets < 50 x 109/l | 1. Stop Glivec until ANC ≥ 1.5 x 109/l and platelets ≥ 75 x 109/l. 2. Resume treatment with Glivec at 600 mg. 3. In the event of recurrence of ANC < 1.0 x 109/l and/or platelets < 50 x 109/l, repeat step 1 and resume Glivec at reduced dose of 400 mg. |
+| ANC = absolute neutrophil count a occurring after at least 1 month of treatment |  |  |
 
 [Glivec 400 mg film-coated tablets]
 

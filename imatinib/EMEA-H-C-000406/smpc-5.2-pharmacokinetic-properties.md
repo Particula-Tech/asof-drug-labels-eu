@@ -20,12 +20,12 @@ The plasma protein binding of the N-demethylated metabolite is similar to that o
 
 Imatinib and the N-demethyl metabolite together accounted for about 65% of the circulating radioactivity (AUC(0-48h)).
 The remaining circulating radioactivity consisted of a number of minor metabolites.
+
 The in vitro results showed that CYP3A4 was the major human P450 enzyme catalysing the biotransformation of imatinib.
 Of a panel of potential comedications (acetaminophen, aciclovir, allopurinol, amphotericin, cytarabine, erythromycin, fluconazole, hydroxyurea, norfloxacin, penicillin V) only erythromycin (IC50 50 µM) and fluconazole (IC50 118 µM) showed inhibition of imatinib metabolism which could have clinical relevance.
-
 Imatinib was shown in vitro to be a competitive inhibitor of marker substrates for CYP2C9, CYP2D6 and CYP3A4/5.
-Ki values in human liver microsomes were 27, 7.5 and 7.9 μmol/l, respectively.
-Maximal plasma concentrations of imatinib in patients are 2–4 μmol/l, consequently an inhibition of CYP2D6 and/or CYP3A4/5-mediated metabolism of co-administered drugs is possible.
+Ki values in human liver microsomes were 27, 7.5 and 7.9 µmol/l, respectively.
+Maximal plasma concentrations of imatinib in patients are 2–4 µmol/l, consequently an inhibition of CYP2D6 and/or CYP3A4/5-mediated metabolism of co-administered drugs is possible.
 Imatinib did not interfere with the biotransformation of 5-fluorouracil, but it inhibited paclitaxel metabolism as a result of competitive inhibition of CYP2C8 (Ki = 34.7 µM).
 This Ki value is far higher than the expected plasma levels of imatinib in patients, consequently no interaction is expected upon co-administration of either 5-fluorouracil or paclitaxel and imatinib.
 
@@ -62,6 +62,7 @@ Imatinib and its metabolites are not excreted via the kidney to a significant ex
 Patients with mild and moderate impairment of renal function appear to have a higher plasma exposure than patients with normal renal function.
 The increase is approximately 1.5- to 2-fold, corresponding to a 1.5-fold elevation of plasma AGP, to which imatinib binds strongly.
 The free drug clearance of imatinib is probably similar between patients with renal impairment and those with normal renal function, since renal excretion represents only a minor elimination pathway for imatinib (see sections 4.2 and 4.4).
+
 Although the results of pharmacokinetic analysis showed that there is considerable inter-subject variation, the mean exposure to imatinib did not increase in patients with varying degrees of liver dysfunction as compared to patients with normal liver function (see sections 4.2, 4.4 and 4.8).
 
 [Glivec 100 mg hard capsules]
