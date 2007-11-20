@@ -45,10 +45,10 @@ Within each frequency grouping, undesirable effects are presented in order of de
 Events noted as having Unknown frequency were identified via post-marketing surveillance.
 
 Hepatic transaminase elevations exceeding five times the upper limit or normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
+
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
-
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
 
 Pancreatitis has been observed in patients receiving ritonavir therapy, including those who developed hypertriglyceridemia.
