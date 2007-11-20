@@ -1,13 +1,14 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other ophthalmologicals, ATC code: S01LA04
+Pharmacotherapeutic group: Antineovascularisation agents, ATC code: S01LA04
 
 Ranibizumab is a humanised recombinant monoclonal antibody fragment targeted against human vascular endothelial growth factor A (VEGF-A).
 It binds with high affinity to the VEGF-A isoforms (e.g. VEGF110, VEGF121 and VEGF165), thereby preventing binding of VEGF-A to its receptors VEGFR-1 and VEGFR-2.
 Binding of VEGF-A to its receptors leads to endothelial cell proliferation and neovascularisation, as well as vascular leakage, all of which are thought to contribute to the progression of the neovascular form of age-related macular degeneration.
 
-The clinical safety and efficacy of Lucentis have been assessed in three randomised, double-masked, sham-or active-controlled studies in patients with neovascular AMD.
-A total of 1,323 patients (879 active and 444 control) were enrolled in these studies.
+The clinical safety and efficacy of Lucentis have been assessed in three randomised, double-masked, sham- or active-controlled studies in patients with neovascular AMD.
+A total of 1,323 patients
+(879 active and 444 control) were enrolled in these studies.
 
 In study FVF2598g (MARINA), patients with minimally classic or occult with no classic choroidal neovascularisation (CNV) received monthly intravitreal injections of Lucentis 0.3 mg or 0.5 mg or sham injections.
 A total of 716 patients were enrolled in this study (sham, 238; Lucentis 0.3 mg, 238; Lucentis 0.5 mg, 240).
@@ -51,16 +52,15 @@ Table 2 Outcomes at month 12 in study FVF2587g (ANCHOR)
 a p<0.01
 Figure 1 Mean change in visual acuity from baseline to month 24 in study FVF2598g (MARINA) and to month 12 in study FVF2587g (ANCHOR)
 
-15 Study FVF2598g
+Study FVF2598g
+15
 
 10
-
 +6.6
 5
 
 0
-
--5 +21.5
++21.5 -5
 
 -10
 
@@ -70,9 +70,10 @@ Figure 1 Mean change in visual acuity from baseline to month 24 in study FVF2598
 Mont
 
 Study FVF2587g
-15
 
-10 +11.3
+15
++11.3
+10
 
 5
 0 +20.8
@@ -82,7 +83,6 @@ Study FVF2587g
 -10 -9.5
 
 -15
-
 00 22 44 66 88 1010 12
 Mont
 
