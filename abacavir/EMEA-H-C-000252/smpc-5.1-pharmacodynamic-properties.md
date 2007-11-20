@@ -11,6 +11,7 @@ It has been shown to be additive in combination with didanosine, lamivudine and 
 
 In vitro resistance: Abacavir-resistant isolates of HIV-1 have been selected in vitro and are associated with specific genotypic changes in the reverse transcriptase (RT) codon region (codons M184V, K65R, L74V and Y115F).
 Viral resistance to abacavir develops relatively slowly in vitro, requiring multiple mutations for a clinically relevant increase in EC50 over wild-type virus.
+
 In vivo resistance (Therapy naïve patients) Isolates from most patients experiencing virological failure with a regimen containing abacavir in pivotal clinical trials showed either no NRTI-related changes from baseline (45%) or only M184V or M184I selection (45%).
 The overall selection frequency for M184V or M184I was high (54%), and less common was the selection of L74V (5%), K65R (1%) and Y115F (1%).
 The inclusion of zidovudine in the regimen has been found to reduce the frequency of L74V and K65R selection in the presence of abacavir (with zidovudine: 0/40, without zidovudine: 15/192, 8%).
@@ -137,7 +138,3 @@ The safety and efficacy of Ziagen in a number of different multidrug combination
 
 Abacavir penetrates the cerebrospinal fluid (CSF) (see section 5.2), and has been shown to reduce HIV-1 RNA levels in the CSF.
 However, no effects on neuropsychological performance were seen when it was administered to patients with AIDS dementia complex.
-
-[Ziagen 20 mg/ml oral solution]
-
-Pharmacotherapeutic group: nucleoside reverse transcriptase inhibitors, ATC Code: J05A F06 Mechanism of action: Abacavir is a NRTI.

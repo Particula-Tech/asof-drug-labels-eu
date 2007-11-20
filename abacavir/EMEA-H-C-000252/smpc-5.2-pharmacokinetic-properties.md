@@ -3,10 +3,10 @@
 Absorption: abacavir is rapidly and well absorbed following oral administration.
 The absolute bioavailability of oral abacavir in adults is about 83%.
 Following oral administration, the mean time (tmax) to maximal serum concentrations of abacavir is about 1.5 hours for the tablet formulation and about 1.0 hour for the solution formulation.
-At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 µg/ml (30%) and 0.01 µg/ml (99%), respectively.
-The mean (CV) AUC over a dosing interval of 12 hours was 6.02 µg.h/ml (29%), equivalent to a daily AUC of approximately 12.0 µg.h/ml.
+At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 μg/ml (30%) and 0.01 µg/ml (99%), respectively.
+The mean (CV) AUC over a dosing interval of 12 hours was 6.02 μg.h/ml (29%), equivalent to a daily AUC of approximately 12.0 μg.h/ml.
 The Cmax value for the oral solution is slightly higher than the tablet.
-After a 600 mg abacavir tablet dose, the mean (CV) abacavir Cmax was approximately 4.26 µg/ml (28%) and the mean (CV) AUC∞ was 11.95 µg.h/ml (21%).
+After a 600 mg abacavir tablet dose, the mean (CV) abacavir Cmax was approximately 4.26 μg/ml (28%) and the mean (CV) AUC∞ was 11.95 μg.h/ml (21%).
 
 Food delayed absorption and decreased Cmax but did not affect overall plasma concentrations (AUC).
 Therefore Ziagen can be taken with or without food.
@@ -42,6 +42,7 @@ Hepatically impaired: abacavir is metabolised primarily by the liver.
 The pharmacokinetics of abacavir have been studied in patients with mild hepatic impairment (Child-Pugh score 5-6) receiving a single 600 mg dose.
 The results showed that there was a mean increase of 1.89 fold [1.32; 2.70] in the abacavir AUC, and 1.58 [1.22; 2.04] fold in the elimination half-life.
 No recommendation on dosage reduction is possible in patients with mild hepatic impairment due to the substantial variability of abacavir exposure.
+
 Renally impaired: abacavir is primarily metabolised by the liver with approximately 2% of abacavir excreted unchanged in the urine.
 The pharmacokinetics of abacavir in patients with end-stage renal disease is similar to patients with normal renal function.
 Therefore no dosage reduction is required in patients with renal impairment.

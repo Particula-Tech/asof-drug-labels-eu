@@ -26,6 +26,7 @@ Ziagen immediately.
 Ziagen, or any other medicinal product containing abacavir (i.e. Kivexa, Trizivir), MUST NEVER be restarted in patients who have stopped therapy due to a hypersensitivity reaction.
 Restarting abacavir following a hypersensitivity reaction results in a prompt return of symptoms within hours.
 This recurrence is usually more severe than on initial presentation, and may include life-threatening hypotension and death.
+
 To avoid a delay in diagnosis and minimise the risk of a life-threatening hypersensitivity reaction, Ziagen must be permanently discontinued if hypersensitivity cannot be ruled out, even when other diagnoses are possible (respiratory diseases, flu-like illness, gastroenteritis or reactions to other medications).
 
 Special care is needed for those patients simultaneously starting treatment with Ziagen and other medicinal products known to induce skin toxicity (such as non-nucleoside reverse transcriptase inhibitors - NNRTIs).
@@ -155,4 +156,5 @@ When taken according to the dosage recommendations each 15 ml dose contains appr
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
 Sorbitol can have a mild laxative effect.
 The calorific value of sorbitol is 2.6 kcal/g.
+
 Ziagen oral solution also contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).

@@ -42,6 +42,7 @@ Therefore, the diagnosis of hypersensitivity reaction should be carefully consid
 
 Symptoms usually appeared within the first six weeks (median time to onset 11 days) of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 Close medical supervision is necessary during the first two months, with consultations every two weeks.
+
 It is likely that intermittent therapy may increase the risk of developing sensitisation and therefore occurrence of clinically significant hypersensitivity reactions.
 Consequently, patients should be advised of the importance of taking Ziagen regularly.
 
@@ -71,7 +72,6 @@ The following convention has been used for their classification: very common (>1
 
 Metabolism and nutrition disorders
 Common: anorexia
-
 Nervous system disorders
 Common: headache
 

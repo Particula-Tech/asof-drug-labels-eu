@@ -2,7 +2,7 @@
 
 Film-coated tablet
 
-The biconvex, capsule shaped tablets are yellow and engraved with GX 623 on one side.
+The scored tablets are yellow, biconvex, capsule shaped and are engraved with GX 623 on both sides.
 
 [Ziagen 20 mg/ml oral solution]
 
