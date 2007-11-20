@@ -14,4 +14,4 @@ In reproduction toxicity studies decreased fertility in male rats was observed.
 Partly reversible reductions in sperm counts were reported in a 13-week rat study.
 Reductions in testicular weights and/or histological lesions (e.g. tubular atrophy and tubular giant cells) were observed in rats and in a monkey study.
 In rats, sirolimus caused embryo/foetotoxicity that was manifested as mortality and reduced foetal weights (with associated delays in skeletal ossification).
-(See section 4.6).
+(see section 4.6).

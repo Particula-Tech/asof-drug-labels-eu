@@ -23,7 +23,11 @@ Oversuppression of the immune system can also increase susceptibility to infecti
 The safety and efficacy of Rapamune as immunosuppressive therapy have not been established in liver or lung transplant patients, and therefore, such use is not recommended.
 
 In two clinical studies in de novo liver transplant patients the use of sirolimus plus ciclosporin or tacrolimus was associated with an increase in hepatic artery thrombosis, mostly leading to graft loss or death.
-There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, and pericardial effusions (including haemodynamically significant effusions in children and adults), in patients receiving Rapamune.
+
+There have been reports of impaired or delayed wound healing in patients receiving Rapamune, including lymphocele and wound dehiscence.
+Patients with a BMI greater than 30 kg/m2 may be at increased risk of abnormal wound healing based on data from the medical literature.
+
+There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion, and pericardial effusions (including haemodynamically significant effusions in children and adults), in patients receiving Rapamune.
 
 Cases of bronchial anastomotic dehiscence, most fatal, have been reported in de novo lung transplant patients when sirolimus has been used as part of an immunosuppressive regimen.
 
@@ -60,12 +64,13 @@ Periodic quantitative monitoring of urinary protein excretion is recommended.
 In a study evaluating conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients, increased urinary protein excretion was commonly observed at 6 to 24 months after conversion to Rapamune (see section 5.1).
 New onset nephrosis (nephrotic syndrome) was also reported in 2% of the patients in the study (see section 4.8).
 The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients have not been established.
-
 The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced haemolytic uraemic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA).
 
 [Rapamune 1 mg coated tablets]
 
 Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (see section 4.5).
+
+There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults), in patients receiving Rapamune.
 
 Sirolimus tablets contain sucrose and lactose.
 In those patients with a history of sucrase insufficiency, isomaltase insufficiency, fructose intolerance, glucose malabsorption, galactose malabsorption, galactose intolerance (e.g., galactosemia), or Lapp lactase deficiency, a careful risk/benefit assessment should be performed prior to prescribing sirolimus tablets.

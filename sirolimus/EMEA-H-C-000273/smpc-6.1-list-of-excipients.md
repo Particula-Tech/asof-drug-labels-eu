@@ -27,6 +27,7 @@ Red opacode S-1-15038 (shellac glaze ~45% in SD-45 alcohol, red iron oxide (E172
 
 Brown iron oxide (E172)
 Yellow iron oxide (E172)
+Red opacode S-1-15095 (shellac glaze ~45% in ethanol, red iron oxide (E172), isopropyl alcohol, n-butyl alcohol, propylene glycol, ammonium hydroxide, simethicone).
 
 [Rapamune 5 mg coated tablets]
 

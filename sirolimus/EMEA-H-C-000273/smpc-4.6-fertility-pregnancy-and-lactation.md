@@ -9,3 +9,6 @@ Effective contraception must be used during Rapamune therapy and for 12 weeks af
 Following administration of radiolabelled sirolimus, radioactivity is excreted in the milk of lactating rats.
 It is not known whether sirolimus is excreted in human milk.
 Because of the potential for adverse reactions in nursing infants from sirolimus, nursing should be discontinued during therapy.
+
+Impairments of sperm parameters have been observed among some patients treated with Rapamune.
+These effects have been reversible upon discontinuation of Rapamune in most cases (see section 5.3).

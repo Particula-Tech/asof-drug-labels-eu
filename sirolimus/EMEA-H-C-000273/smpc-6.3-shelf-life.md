@@ -6,7 +6,7 @@
 
 24 hours in the dosing syringe (at room temperature, but not to exceed 25°C).
 
-After dilution, (see Special precautions for disposal and other handling, section 6.6) the preparation should be used immediately.
+After dilution, (see section 6.6) the preparation should be used immediately.
 
 [Rapamune 1 mg coated tablets]
 
