@@ -43,8 +43,16 @@ Renal function should be carefully evaluated before and during entecavir therapy
 
 Co-infection with hepatitis C or D: there are no data on the efficacy of entecavir in patients co-infected with hepatitis C or D virus.
 
-Co-infection with HIV: no data are available on the efficacy of entecavir in HBeAg-negative patients co-infected with HIV.
-There are limited data on patients co-infected with HIV who have low CD4 cell counts (< 200 cells/mm3) (see section 5.1).
+Human immunodeficiency virus (HIV)/HBV co-infected patients not receiving concomitant antiretroviral therapy: entecavir has not been evaluated in HIV/HBV co-infected patients not concurrently receiving effective HIV treatment.
+Emergence of HIV resistance has been observed when entecavir was used to treat chronic hepatitis B infection in patients with HIV infection not receiving highly active antiretroviral therapy (HAART) (see section 5.1).
+Therefore, therapy with entecavir should not be used for HIV/HBV co-infected patients who are not receiving HAART.
+Entecavir has not been studied as a treatment for HIV infection and is not recommended for this use.
+
+HIV/HBV co-infected patients receiving concomitant antiretroviral therapy: entecavir has been studied in 68 adults with HIV/HBV co-infection receiving a lamivudine-containing HAART regimen (see section 5.1).
+No data are available on the efficacy of entecavir in HBeAg-negative patients co-infected with HIV.
+There are limited data on patients co-infected with HIV who have low CD4 cell counts
+(< 200 cells/mm3).
+
 General: patients should be advised that therapy with entecavir has not been proven to reduce the risk of transmission of HBV and therefore appropriate precautions should still be taken.
 
 Lactose: this medicinal product contains 120.5 mg of lactose in each 0.5 mg daily dose.

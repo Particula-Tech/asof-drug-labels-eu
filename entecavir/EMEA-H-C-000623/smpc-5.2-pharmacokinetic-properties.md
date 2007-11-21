@@ -13,6 +13,7 @@ The lower Cmax and AUC when taken with food is not considered to be of clinical 
 
 Distribution: the estimated volume of distribution for entecavir is in excess of total body water.
 Protein binding to human serum protein in vitro is ≈ 13%.
+
 Metabolism: entecavir is not a substrate, inhibitor or inducer of the CYP450 enzyme system.
 Following administration of 14C-entecavir, no oxidative or acetylated metabolites and minor amounts of the phase II metabolites, glucuronide and sulfate conjugates, were observed.
 
@@ -32,10 +33,7 @@ Baseline Creatinine Clearance (ml/min)
 Unimpaired Mild Moderate Severe Severe Severe
 > 80 > 50; 30-50 20- Managed with Managed
 ≤ 80 < 30 Haemodialysis with CAPD
-
-(n = 6) (n = 6) (n = 6) (n = 6)
-
-(n = 6) (n = 4)
+(n = 6) (n = 6) (n = 6) (n = 6) (n = 6) (n = 4)
 Cmax (ng/ml) 8.1 10.4 10.5 15.3 15.4 16.6
 (CV%) (30.7) (37.2) (22.7) (33.8) (56.4) (29.7)
 AUC(0-T) 27.9 51.5 69.5 145.7 233.9 221.8
@@ -57,5 +55,6 @@ After adjusting for differences in creatinine clearance and body weight there wa
 Elderly: the effect of age on the pharmacokinetics of entecavir was evaluated comparing elderly subjects in the age range 65-83 years (mean age females 69 years, males 74 years) with young subjects in the age range 20-40 years (mean age females 29 years, males 25 years).
 AUC was 29% higher in elderly than in young subjects, mainly due to differences in renal function and weight.
 After adjusting for differences in creatinine clearance and body weight, elderly subjects had a 12.5% higher AUC than young subjects.The population pharmacokinetic analysis covering patients in the age range 16-75 years did not identify age as significantly influencing entecavir pharmacokinetics.
+
 Race: the population pharmacokinetic analysis did not identify race as significantly influencing entecavir pharmacokinetics.
 However, conclusions can only be drawn for the Caucasian and Asian groups as there were too few subjects in the other categories.

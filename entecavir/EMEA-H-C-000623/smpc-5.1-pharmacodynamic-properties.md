@@ -11,11 +11,15 @@ In addition, high exposures of entecavir had no relevant adverse effects on γ p
 
 Antiviral activity: entecavir inhibited HBV DNA synthesis (50% reduction, EC50) at a concentration of 0.004 µM in human HepG2 cells transfected with wild-type HBV.
 The median EC50 value for entecavir against LVDr HBV (rtL180M and rtM204V) was 0.026 µM (range 0.010-0.059 µM).
-In contrast, no clinically relevant activity was noted against HIV type 1 (EC50 value > 10 µM) grown in cell culture.
 Recombinant viruses encoding adefovir-resistant mutations at either rtN236T or rtA181V remained fully susceptible to entecavir.
 
-In HBV combination assays in vitro, abacavir, didanosine, lamivudine, stavudine, tenofovir or zidovudine were not antagonistic to the anti-HBV activity of entecavir over a wide range of concentrations.
-In HIV antiviral assays, entecavir was not antagonistic to the in vitro anti-HIV activity of these six NRTIs at > 4 times the Cmax of entecavir.
+An analysis of the inhibitory activity of entecavir against a panel of laboratory and clinical HIV-1 isolates using a variety of cells and assay conditions yielded EC50 values ranging from 0.026 to
+> 10 µM; the lower EC50 values were observed when decreased levels of virus were used in the assay.
+In cell culture, entecavir selected for an M184I substitution at micromolar concentrations, confirming inhibitory pressure at high entecavir concentrations.
+HIV variants containing the M184V substitution showed loss of susceptibility to entecavir (see section 4.4).
+
+In HBV combination assays in cell culture, abacavir, didanosine, lamivudine, stavudine, tenofovir or zidovudine were not antagonistic to the anti-HBV activity of entecavir over a wide range of concentrations.
+In HIV antiviral assays, entecavir at micromolar concentrations was not antagonistic to the anti-HIV activity in cell culture of these six NRTIs or emtricitabine.
 
 Resistance in cell culture: relative to wild-type HBV, LVDr viruses containing rtM204V and rtL180M substitutions within the reverse transcriptase exhibit 8-fold decreased susceptibility to entecavir.
 Incorporation of additional entecavir resistant amino acid changes rtT184, rtS202 and/or rtM250 decreases entecavir susceptibility in cell culture.
@@ -78,7 +82,6 @@ Response criteria were HBV virological suppression (HBV DNA
 Patients in response were followed for an additional 24 weeks off-treatment.
 Patients who met virologic but not serologic or biochemical response criteria continued blinded treatment.
 Patients who did not have a virologic response were offered alternative treatment.
-
 Nucleoside-naive:
 HBeAg positive (study 022): treatment with entecavir for up to 96 weeks (n = 354) resulted in cumulative response rates of 80% for HBV DNA < 300 copies/ml by PCR, 87% for ALT normalisation, 31% for HBeAg seroconversion and 2% for HBsAg seroconversion (5% for HBsAg loss).
 For lamivudine (n = 355), cumulative response rates were 39% for HBV DNA < 300 copies/ml by PCR, 79% for ALT normalisation, 26% for HBeAg seroconversion, and 2% for HBsAg seroconversion (3% for HBsAg loss).
@@ -100,13 +103,19 @@ Age/gender:
 There was no apparent difference in efficacy for entecavir based on gender (≈ 25% women in the clinical trials) or age (≈ 5% of patients > 65 years of age).
 
 Special populations
-HBV/HIV co-infected patients: study 038 included 67 HBeAg positive and 1 HBeAg negative patients co-infected with HIV.
+HIV/HBV co-infected patients receiving concomitant HAART: study 038 included 67 HBeAg positive and 1 HBeAg negative patients co-infected with HIV.
 Patients had stable controlled HIV (HIV RNA < 400 copies/ml) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen.
+HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate.
 At baseline entecavir-treated patients had a median duration of prior lamivudine therapy of 4.8 years and median CD4 count of 494 cells/mm3 (with only 5 subjects having CD4 count < 200 cells/mm3).
-Patients continued their lamivudine-regimen and were assigned to add either entecavir 1 mg once daily (n = 51) or placebo
-(n = 17) for 24 weeks followed by an additional 24 weeks where all received entecavir.
+Patients continued their lamivudine-regimen and were assigned to add either entecavir 1 mg once daily
+(n = 51) or placebo (n = 17) for 24 weeks followed by an additional 24 weeks where all received entecavir.
 At 24 weeks the reduction in HBV viral load was significantly greater with entecavir (-3.65 vs an increase of 0.11 log10 copies/ml).
 For patients originally assigned to entecavir treatment, the reduction in HBV DNA at 48 weeks was -4.20 log10 copies/ml, ALT normalisation had occurred in 37% of patients with abnormal baseline ALT and none achieved HBeAg seroconversion.
+
+HIV/HBV co-infected patients not receiving concomitant HAART: entecavir has not been evaluated in HIV/HBV co-infected patients not concurrently receiving effective HIV treatment.
+Reductions in HIV RNA have been reported in HIV/HBV co-infected patients receiving entecavir monotherapy without HAART.
+In some cases, selection of HIV variant M184V has been observed, which has implications for the selection of HAART regimens that the patient may take in the future.
+Therefore, entecavir should not be used in this setting due to the potential for development of HIV resistance (see section 4.4).
 
 Patients with decompensated liver disease: a randomised open-label study (048) comparing entecavir 1.0 mg once daily with adefovir 10 mg once daily in patients with hepatic decompensation is ongoing.
 
@@ -151,27 +160,4 @@ e ETVr emerging in any year; rebound in specified year.
 
 [Baraclude 0.05 mg/ml oral solution]
 
-|  | Nucleoside Naive |  |  |  |
-| --- | --- | --- | --- | --- |
-|  | HBeAg Positive (study 022) |  | HBeAg Negative (study 027) |  |
-|  | ETV 0.5 mg once daily | LVD 100 mg once daily | ETV 0.5 mg once daily | LVD 100 mg once daily |
-| n | 314a | 314a | 296a | 287a |
-| Histological improvementb | 72%* | 62% | 70%* | 61% |
-| Ishak fibrosis score improvement | 39% | 35% | 36% | 38% |
-| Ishak fibrosis score worsening | 8% | 10% | 12% | 15% |
-| n | 354 | 355 | 325 | 313 |
-| Viral load reduction (log10 copies/ml)c | -6.86* | -5.39 | -5.04* | -4.53 |
-| HBV DNA undetectable (< 300 copies/ml by PCR)c | 67%* | 36% | 90%* | 72% |
-| ALT normalisation (≤ 1 times ULN) | 68%* | 60% | 78%* | 71% |
-
-HBeAg Seroconversion 21% 18%
-
-| Emerging Genotypic Entecavir Resistance Through Week 144, Nucleoside-Naive Studies |  |  |  |
-| --- | --- | --- | --- |
-|  | Year 1 | Year 2 | Year 3a |
-| Patients treated and monitored for resistanceb | 663 | 278 | 149 |
-| Emerging genotypic ETVrc | 1 (<1%) | 1 (<1%) | 1 (<1%) |
-| Cumulative probability of emerging genotypic ETVrc | 0.2% | 0.5% | 1.2% |
-
-Virologic reboundd due to 1 (<1%) 0 1 (<1%)
-emerging ETVrc
+Patients had stable controlled HIV (HIV RNA < 400 copies/ml) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen.HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate.

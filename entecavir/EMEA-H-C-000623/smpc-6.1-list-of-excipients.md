@@ -6,6 +6,7 @@ Lactose monohydrate
 Magnesium stearate
 Cellulose, Microcrystalline
 Povidone
+
 Tablet coating:
 Titanium dioxide
 Hypromellose
