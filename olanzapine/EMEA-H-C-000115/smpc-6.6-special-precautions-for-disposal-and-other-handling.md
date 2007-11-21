@@ -43,6 +43,7 @@ The following table provides injection volumes for delivering various doses of o
 | 10 | 2.0 |
 | 7.5 | 1.5 |
 | 5 | 1.0 |
+| 2.5 | 0.5 |
 
 4.
 Administer the solution intramuscularly.

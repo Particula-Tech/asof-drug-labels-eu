@@ -37,7 +37,7 @@ Common (1-10%): Transient, asymptomatic elevations of hepatic transaminases (ALT
 Skin and subcutaneous tissue disorders
 Uncommon (0.1-1%): Photosensitivity reaction.
 General disorders and administration site conditions
-Common (1-10%): Asthenia, oedema.
+Common (1-10%): Asthenia, fatigue, oedema.
 Investigations
 Very common (>10%): Elevated plasma prolactin levels, but associated clinical manifestations (e.g., gynaecomastia, galactorrhoea, and breast enlargement) were rare.
 In most patients, levels returned to normal ranges without cessation of treatment.
