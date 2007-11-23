@@ -20,14 +20,14 @@ Immune system disorders
 Rare: Allergic reaction
 Immediate-type allergic reactions to insulin are rare.
 Such reactions to insulin (including insulin glargine) or the excipients may, for example, be associated with generalised skin reactions, angio-oedema, bronchospasm, hypotension and shock, and may be life-threatening.
+
 Insulin administration may cause insulin antibodies to form.
 In clinical studies, antibodies that cross-react with human insulin and insulin glargine were observed with the same frequency in both NPH-insulin and insulin glargine treatment groups.
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
 
 Nervous system disorders
 
-Very rare : Dysgeusia
-
+Very rare: Dysgeusia
 Eyes disorders
 
 Rare: Visual impairment
@@ -45,7 +45,7 @@ Continuous rotation of the injection site within the given injection area may he
 
 Common: Lipohypertrophy
 
-Uncommon:Lipoatrophy
+Uncommon: Lipoatrophy
 
 Musculoskeletal and connective tissue disorders
 
@@ -53,7 +53,7 @@ Very rare: Myalgia
 
 General disorders and administration site conditions
 
-Common:Injection site reactions
+Common: Injection site reactions
 Such reactions include redness, pain, itching, hives, swelling, or inflammation.
 Most minor reactions to insulins at the injection site usually resolve in a few days to a few weeks.
 
@@ -68,7 +68,7 @@ No clinical study safety data are available in patients below 6 years of age.
 
 [Lantus 100 Units/ml solution for injection in a cartridge.]
 
-Very rare: Dysgeusia
+(all sentences already above)
 
 [Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
 
@@ -76,8 +76,8 @@ Very rare: Dysgeusia
 
 [Lantus 100 Units/ml solution for injection in a pre-filled pen]
 
-Common: Injection site reactions
+(all sentences already above)
 
 [Lantus 100 Units/ml solution for injection in a pre-filled pen (SmPC 5)]
 
-(all sentences already above)
+Uncommon:Lipoatrophy

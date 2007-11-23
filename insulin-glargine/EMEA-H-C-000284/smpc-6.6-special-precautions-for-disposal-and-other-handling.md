@@ -26,6 +26,7 @@ Empty cartridges must not be refilled.
 The cartridges for OptiClik are to be used in conjunction with OptiClik only and as recommended in the information provided by the device manufacturer.
 
 If OptiClik is damaged or not working properly (due to mechanical defects) it has to be discarded, and a new OptiClik has to be used.
+
 It must only be used if the cartridge is intact and the solution is clear, colourless, with no solid particles visible, and if it is of water-like consistency.
 
 [Lantus 100 Units/ml solution for injection in a pre-filled pen]
@@ -75,14 +76,13 @@ OptiSet is designed to work accurately and safely.
 It should be handled with care.
 Avoid situations where OptiSet might be damaged.
 If you are concerned that your OptiSet may be damaged, use a new one.
-.
+
 Step 1.
 Check the Insulin
 
 After removing the pen cap, the label on the pen and the insulin reservoir should be checked to make sure it contains the correct insulin.
 The appearance of insulin should also be checked: the insulin solution must be clear, colourless, with no solid particles visible, and must have a water-like consistency.
 Do not use this OptiSet if the insulin is cloudy, coloured or has particles.
-
 Step 2.
 Attach the needle
 
@@ -136,11 +136,11 @@ The injection button should be pulled out as far as it will go in order to load 
 
 Check if the selected dose is fully loaded.
 Note that the injection button only goes out as far as the amount of insulin that is left in the reservoir.
+
 The injection button allows checking the actual loaded dose.
 The injection button must be held out under tension during this check.
 The last thick line visible on the injection button shows the amount of insulin loaded.
 When the injection button is held out only the top part of this thick line can be seen.
-
 Step 6.
 Inject the dose
 
