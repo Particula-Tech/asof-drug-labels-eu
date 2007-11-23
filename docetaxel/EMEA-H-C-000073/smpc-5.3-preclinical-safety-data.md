@@ -6,4 +6,4 @@ Docetaxel has been shown to be mutagenic in the in vitro micronucleus and chromo
 However, it did not induce mutagenicity in the Ames test or the CHO/HGPRT gene mutation assay.
 These results are consistent with the pharmacological activity of docetaxel.
 
-Adverse effects on the testis observed in rodent toxicity studies suggest that docetaxel may impair male fertility.
+Undesirable effects on the testis observed in rodent toxicity studies suggest that docetaxel may impair male fertility.

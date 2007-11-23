@@ -2,7 +2,7 @@
 
 There is no information on the use of docetaxel in pregnant women.
 Docetaxel has been shown to be both embryotoxic and foetotoxic in rabbits and rats, and to reduce fertility in rats.
-As with other cytotoxic drugs, docetaxel may cause foetal harm when administered to pregnant women.
+As with other cytotoxic medicinal products, docetaxel may cause foetal harm when administered to pregnant women.
 Therefore, docetaxel must not be used during pregnancy.
 Women of childbearing age receiving docetaxel should be advised to avoid becoming pregnant, and to inform the treating physician immediately should this occur.
 

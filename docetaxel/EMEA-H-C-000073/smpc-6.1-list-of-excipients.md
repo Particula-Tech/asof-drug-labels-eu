@@ -1,4 +1,7 @@
 # 6.1 List of excipients
 
-TAXOTERE vial: polysorbate 80.
-Solvent vial: ethanol in water for injections.
+Concentrate vial:
+polysorbate 80.
+
+Solvent vial:
+ethanol 95% water for injections.
