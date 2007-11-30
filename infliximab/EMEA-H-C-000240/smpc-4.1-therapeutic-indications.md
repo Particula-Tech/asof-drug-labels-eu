@@ -4,10 +4,10 @@ Rheumatoid arthritis:
 Remicade, in combination with methotrexate, is indicated for:
 the reduction of signs and symptoms as well as the improvement in physical function in:
 
-- patients with active disease when the response to disease-modifying drugs, including methotrexate, has been inadequate.
+- patients with active disease when the response to disease-modifying anti-rheumatic drugs (DMARDs), including methotrexate, has been inadequate.
 - patients with severe, active and progressive disease not previously treated with methotrexate or other DMARDs.
 
-In these patient populations, a reduction in the rate of the progression of joint damage, as measured by x-ray, has been demonstrated (see section 5.1).
+In these patient populations, a reduction in the rate of the progression of joint damage, as measured by X-ray, has been demonstrated (see section 5.1).
 
 Adult Crohn’s disease:
 Remicade is indicated for:
@@ -23,17 +23,17 @@ Remicade has been studied only in combination with conventional immunosuppressiv
 Ulcerative colitis:
 Remicade is indicated for:
 Treatment of moderately to severely active ulcerative colitis in patients who have had an inadequate response to conventional therapy including corticosteroids and 6-MP or AZA, or who are intolerant to or have medical contraindications for such therapies.
-
 Ankylosing spondylitis:
 Remicade is indicated for:
-Treatment of severe active ankylosing spondylitis, in adult patients who have responded inadequately to conventional therapy.
+Treatment of severe, active ankylosing spondylitis, in adult patients who have responded inadequately to conventional therapy.
 
 Psoriatic arthritis:
 Remicade is indicated for:
-Treatment of active and progressive psoriatic arthritis in adults when the response to previous disease-modifying anti-rheumatic drug therapy has been inadequate.
+Treatment of active and progressive psoriatic arthritis in adults when the response to previous DMARD therapy has been inadequate.
 Remicade should be administered
 - in combination with methotrexate
 - or alone in patients who show intolerance to methotrexate or for whom methotrexate is contraindicated
+Remicade has been shown to improve physical function in patients with psoriatic arthritis, and to reduce the rate of progression of peripheral joint damage as measured by X-ray in patients with polyarticular symmetrical subtypes of the disease (see Section 5.1).
 
 Psoriasis:
 Remicade is indicated for:

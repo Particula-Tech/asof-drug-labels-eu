@@ -1,4 +1,4 @@
-# 6.6 Instructions for use and handling
+# 6.6 Special precautions for disposal and other handling
 
 1.
 Calculate the dose and the number of Remicade vials needed.
@@ -38,7 +38,7 @@ Do not infuse Remicade concomitantly in the same intravenous line with other age
 
 6.
 Visually inspect parenteral medicinal products for particulate matter or discolouration prior to administration.
-Do not use if visibly opaque particles, discolouration or foreign particulates are observed.
+Do not use if visibly opaque particles, discolouration or foreign particles are observed.
 
 7.
-Discard any unused portion of the solution.
+Any unused product or waste material; should be disposed of in accordance with local requirements.

@@ -1,13 +1,12 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Infusion reactions and hypersensitivity
-Infliximab has been associated with acute infusion-related reactions, including, anaphylactic shock, and delayed hypersensitivity reactions (see section 4.8: “Undesirable effects”).
+Infliximab has been associated with acute infusion-related reactions, including anaphylactic shock, and delayed hypersensitivity reactions (see section 4.8).
 
 Acute infusion reactions including anaphylactic reactions may develop during (within seconds) or within a few hours following infusion.
 If acute infusion reactions occur, the infusion must be interrupted immediately.
 Emergency equipment, such as adrenaline, antihistamines, corticosteroids and an artificial airway must be available.
-Patients may be pretreated with e.g., an antihistamine, hydrocortisone and/or paracetamol to prevent mild and transient effects.
-
+Patients may be pre-treated with e.g., an antihistamine, hydrocortisone and/or paracetamol to prevent mild and transient effects.
 Antibodies to infliximab may develop and have been associated with an increased frequency of infusion reactions.
 A low proportion of the infusion reactions was serious allergic reactions.
 An association between development of antibodies to infliximab and reduced duration of response has also been observed.
@@ -17,17 +16,18 @@ Patients who discontinue immunosuppressants prior to or during Remicade treatmen
 Antibodies to infliximab can not always be detected in serum samples.
 If serious reactions occur, symptomatic treatment must be given and further Remicade infusions must not be administered (see section 4.8: "Immunogenicity").
 
-In clinical trials, delayed hypersensitivity reactions have been reported.
-Available data suggest an increased risk for delayed hypersensitivity with increasing drug free interval.
-Advise patients to seek immediate medical advice if they experience any delayed adverse event (see section 4.8: “Delayed hypersensitivity”).
-If patients are retreated after a prolonged period, they must be closely monitored for signs and symptoms of delayed hypersensitivity.
+In clinical studies, delayed hypersensitivity reactions have been reported.
+Available data suggest an increased risk for delayed hypersensitivity with increasing Remicade-free interval.
+Advise patients to seek immediate medical advice if they experience any delayed adverse event (see section 4.8:
+“Delayed hypersensitivity”).
+If patients are re-treated after a prolonged period, they must be closely monitored for signs and symptoms of delayed hypersensitivity.
 
 Infections
 Patients must be monitored closely for infections including tuberculosis before, during and after treatment with Remicade.
 Because the elimination of infliximab may take up to six months, monitoring should be continued throughout this period.
 Further treatment with Remicade must not be given if a patient develops a serious infection or sepsis.
 
-Caution should be exercised when considering the use of Remicade in patients with chronic infection or a history of recurrent infections, including use of concomitant immunosuppressive medications.
+Caution should be exercised when considering the use of Remicade in patients with chronic infection or a history of recurrent infections, including concomitant immunosuppressive therapy.
 Patients should be advised of and avoid exposure to potential risk factors for infection as appropriate.
 
 Tumour necrosis factor alpha (TNFα) mediates inflammation and modulates cellular immune responses.
@@ -36,26 +36,31 @@ Clinical experience shows that host defence against infection is compromised in 
 
 It should be noted that suppression of TNFα may mask symptoms of infection such as fever.
 Early recognition of atypical clinical presentations of serious infections is critical in order to minimize delays in diagnosis and treatment.
-
 Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal infections, and other opportunistic infections have been observed in patients treated with infliximab.
 Some of these infections have been fatal.
 
-Cases of active tuberculosis including miliary tuberculosis and tuberculosis with extrapulmonary location have been reported in patients treated with Remicade.
+Cases of active tuberculosis including miliary tuberculosis and tuberculosis with extra pulmonary location have been reported in patients treated with Remicade.
 
 Opportunistic infections reported in patients on Remicade have included, but are not limited to pneumocystosis, histoplasmosis, cytomegalovirus infection, atypical mycobacterial infections, listeriosis and aspergillosis.
 
-In clinical trials, infections have been reported more frequently in paediatric patient populations than in adult patient populations (see section 4.8).
+In clinical studies, infections have been reported more frequently in paediatric patient populations than in adult patient populations (see section 4.8).
 
 Before starting treatment with Remicade, all patients must be evaluated for both active and inactive (‘latent’) tuberculosis.
 This evaluation should include a detailed medical history with personal history of tuberculosis or possible previous contact with tuberculosis and previous and/or current immunosuppressive therapy.
-Appropriate screening tests, i.e. tuberculin skin test and chest x-ray, should be performed in all patients (local recommendations may apply).
+Appropriate screening tests, i.e. tuberculin skin test and chest X-ray, should be performed in all patients (local recommendations may apply).
 It is recommended that the conduct of these tests should be recorded in the patient’s alert card.
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 
 If active tuberculosis is diagnosed, Remicade therapy must not be initiated (see section 4.3).
-If inactive (‘latent’) tuberculosis is diagnosed, treatment for latent tuberculosis must be started with anti-tuberculosis therapy before the initiation of Remicade, and in accordance with local recommendations.
-In this situation, the benefit/ risk balance of Remicade therapy should be very carefully considered.
 
+If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
+In all situations described below, the benefit/ risk balance of Remicade therapy should be very carefully considered.
+
+If inactive (‘latent’) tuberculosis is diagnosed, treatment for latent tuberculosis must be started with anti-tuberculosis therapy before the initiation of Remicade, and in accordance with local recommendations.
+
+In patients who have several or significant risk factors for tuberculosis and have a negative test for latent tuberculosis, anti-tuberculosis therapy should be considered before the initiation of Remicade.
+
+Use of anti-tuberculosis therapy should also be considered before the initiation of Remicade in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
 All patients should be informed to seek medical advice if signs/symptoms suggestive of tuberculosis (e.g. persistent cough, wasting/weight loss, low-grade fever) appear during or after Remicade treatment.
 
 Patients with fistulising Crohn’s disease with acute suppurative fistulas must not initiate Remicade therapy until a source for possible infection, specifically abscess, has been excluded (see section 4.3).
@@ -67,7 +72,6 @@ Patients at risk for HBV infection should be evaluated for prior evidence of HBV
 Carriers of HBV who require treatment with Remicade should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy.
 Adequate data of treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available.
 In patients who develop HBV reactivation, Remicade should be stopped and effective anti-viral therapy with appropriate supportive treatment should be initiated.
-
 Hepatobiliary events
 Very rare cases of jaundice and non-infectious hepatitis, some with features of autoimmune hepatitis, have been observed in the post-marketing experience of Remicade.
 Isolated cases of liver failure resulting in liver transplantation or death have occurred.
@@ -93,16 +97,16 @@ Infliximab and other agents that inhibit TNFα have been associated in rare case
 In patients with pre-existing or recent onset of central nervous system demyelinating disorders, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
 
 Malignancies and lymphoproliferative disorders
-In the controlled portions of clinical trials of TNF-blocking agents, more cases of malignancies including lymphoma have been observed among patients receiving a TNF blocker compared with control patients.
-During clinical trials of Remicade across all approved indications the incidence of lymphoma in Remicade-treated patients was higher than expected in the general population, but the occurrence of lymphoma was rare.
+In the controlled portions of clinical studies of TNF-blocking agents, more cases of malignancies including lymphoma have been observed among patients receiving a TNF blocker compared with control patients.
+During clinical studies of Remicade across all approved indications the incidence of lymphoma in Remicade-treated patients was higher than expected in the general population, but the occurrence of lymphoma was rare.
 Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with longstanding, highly active, inflammatory disease, which complicates the risk estimation.
-In an exploratory clinical trial evaluating the use of Remicade in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies were reported in Remicade-treated patients compared with control patients.
+
+In an exploratory clinical study evaluating the use of Remicade in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies were reported in Remicade-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Caution should be exercised in considering treatment of patients with increased risk for malignancy due to heavy smoking.
 
 With the current knowledge, a risk for the development of lymphomas or other malignancies in patients treated with a TNF-blocking agent cannot be excluded (see Section 4.8).
 Caution should be exercised when considering TNF-blocking therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop a malignancy.
-
 Caution should also be exercised in patients with psoriasis and a medical history of extensive immunosuppressant therapy or prolonged PUVA treatment.
 
 Rare postmarketing cases of hepatosplenic T-cell lymphoma have been reported in adolescent and young adult patients with Crohn’s disease treated with Remicade.
@@ -125,9 +129,9 @@ Due to insufficient data on safety and efficacy, Remicade is not recommended for
 Remicade has not been studied in patients with Crohn’s disease below the age of 6 years.
 
 Others
-
 The pharmacokinetics of infliximab in elderly patients has not been studied.
 Studies have not been performed in patients with liver or renal disease (see section 5.2).
+
 There are insufficient preclinical data to draw conclusions on the effects of infliximab on fertility and general reproductive function (see section 5.3).
 
 There is limited safety experience of surgical procedures in Remicade treated patients.

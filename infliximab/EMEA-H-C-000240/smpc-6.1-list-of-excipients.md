@@ -1,3 +1,6 @@
 # 6.1 List of excipients
 
-Sucrose, polysorbate 80, monobasic sodium phosphate, dibasic sodium phosphate.
+Sucrose
+Polysorbate 80
+Monobasic sodium phosphate
+Dibasic sodium phosphate

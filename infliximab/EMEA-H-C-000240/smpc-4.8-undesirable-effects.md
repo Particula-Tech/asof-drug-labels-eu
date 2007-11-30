@@ -1,81 +1,86 @@
 # 4.8 Undesirable effects
 
-In clinical studies with infliximab, adverse drug reactions (ADRs) were observed in approximately 60% of infliximab-treated patients and 40% of placebo-treated patients.
-The adverse reactions listed in Table 1 are based on experience from clinical trials.
-Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (> 1/100, < 1/10); uncommon (> 1/1000, < 1/100); rare (>1/10,000, <1/1,000).
-Infusion-related reactions were the most common ADRs reported.
+In clinical studies with infliximab, adverse reactions were observed in approximately 60% of infliximab-treated patients and 40% of placebo-treated patients.
+Infusion-related reactions were the most common adverse reactions reported.
 Infusion-related reactions (dyspnoea, urticaria and headache) were the most common cause for discontinuation.
+
+The adverse reactions listed in Table 1 are based on experience from clinical studies.
+Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (≥1/100 to <1/10); uncommon (≥1/1000 to <1/100); rare (≥1/10,000 to <1/1,000).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 1
 Undesirable Effects in Clinical Studies
 
 Infections and infestations
 Common: Viral infection (e.g. influenza, herpes infections)
-Uncommon: Abscess, cellulitis, moniliasis, sepsis, bacterial infection, tuberculosis, fungal infection, hordeolum
-Blood and lymphatic disorders
-Uncommon: Anaemia, leukopenia, lymphadenopathy, lymphocytosis, lymphopenia, neutropenia, thrombocytopenia
+Uncommon: Tuberculosis, sepsis, abscess, bacterial infection, cellulitis, moniliasis, fungal infection, hordeolum
+Blood and lymphatic system disorders
+Uncommon: Neutropenia, leukopenia, thrombocytopenia, anaemia, lymphopenia , lymphadenopathy, lymphocytosis
 Immune system disorders
 Common: Serum sickness-like reactions
-Uncommon: Lupus-like syndrome, respiratory tract allergic reactions, anaphylactic reactions
+Uncommon: Anaphylactic reactions, respiratory tract allergic reactions, lupus-like syndrome
 Psychiatric disorders
-Uncommon: Depression, confusion, agitation, amnesia, apathy, nervousness, somnolence, insomnia
+Uncommon: Depression, amnesia, agitation, confusion, insomnia, somnolence, nervousness, apathy
 Nervous system disorders
 Common: Headache, vertigo/dizziness
 Uncommon: Exacerbation of demyelinating disease suggestive of multiple sclerosis
 Rare: Meningitis
 Eye disorders
-Uncommon: Conjunctivitis, endophthalmitis, keratoconjunctivitis, periorbital oedema
+Uncommon: Endophthalmitis, keratoconjunctivitis, conjunctivitis, periorbital oedema
 Cardiac disorders
-Uncommon: Syncope, bradycardia, palpitation, cyanosis, arrythmia, worsening heart failure
+Uncommon: Worsening heart failure, syncope, arrhythmia, bradycardia, cyanosis, palpitation
 Rare: Tachycardia
 Vascular disorders
 Common: Flushing
-Uncommon: Ecchymosis/haematoma, hot flushes, hypertension, hypotension, petechia, thrombophleblitis, vasospasm, peripheral ischaemia Rare: Circulatory failure
+Uncommon: Vasospasm ,hypotension, peripheral ischaemia, thrombophleblitis, ecchymosis/haematoma, petechia, hypertension, hot flushes
+Rare: Circulatory failure
 Respiratory, thoracic and mediastinal disorders
-Common: Upper respiratory tract infection, lower respiratory tract infection (e.g. bronchitis, pneumonia), dyspnoea, sinusitis
-Uncommon: Epistaxis, bronchospasm, pleurisy, pulmonary oedema
+Common: Lower respiratory tract infection (e.g. bronchitis, pneumonia), upper respiratory tract infection, sinusitis, dyspnoea Uncommon: Pulmonary oedema, bronchospasm, pleurisy, epistaxis
 Rare: Pleural effusion
 Gastrointestinal disorders
-Common: Nausea, diarrhoea, abdominal pain, dyspepsia
-Uncommon: Constipation, gastroesophageal reflux, cheilitis, diverticulitis Rare: Intestinal perforation, intestinal stenosis, gastrointestinal haemorrhage
+Common: Abdominal pain, diarrhoea, nausea, dyspepsia
+Uncommon: Diverticulitis, gastroesophageal reflux, constipation, cheilitis Rare: Intestinal perforation, gastrointestinal haemorrhage, intestinal stenosis
 Hepatobiliary disorders
 Uncommon: Abnormal hepatic function, cholecystitis
 Rare: Hepatitis
 Skin and subcutaneous tissue disorders
-Common: Rash, pruritus, urticaria, increased sweating, dry skin Uncommon: Fungal dermatitis/onychomycosis, eczema/seborrhoea, bullous eruption, furunculosis, hyperkeratosis, rosacea, verruca, abnormal skin pigmentation/ colouration, alopoecia
+Common: Urticaria, rash, pruritus, increased sweating, dry skin Uncommon: Bullous eruption, furunculosis, fungal dermatitis/onychomycosis, eczema/seborrhoea, rosacea, verruca, hyperkeratosis, alopecia, abnormal skin pigmentation/ colouration
 Musculoskeletal and connective tissue disorders
-Uncommon: Myalgia, arthralgia, back pain
+Uncommon: Arthralgia, myalgia, back pain
 Renal and urinary disorders
-Uncommon: Urinary tract infection, pyelonephritis
+Uncommon: Pyelonephritis, urinary tract infection
 Reproductive system and breast disorders
 Uncommon: Vaginitis
 General disorders and administration site conditions
-Common: Fatigue, chest pain, infusion-related reactions, fever Uncommon: Injections site reactions, oedema, pain, chills/rigors, impaired healing
+Common: Infusion-related reactions, chest pain, fatigue, fever Uncommon: Impaired healing, injections site reactions, chills/rigors, oedema, pain
 Rare: Granulomatous lesion
 Investigations
 Common: Elevated hepatic transaminases
 Uncommon: Autoantibodies, complement factor abnormality
 
+The additional adverse reactions listed in Table 2 are reported from worldwide post-marketing experience with Remicade.
+Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (≥1/100 to <1/10);
+uncommon (≥1/1000 to <1/100); rare (≥1/10,000 to <1/1,000; very rare <1/10,000, including isolated reports).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
 Table 2
 Undesirable effects in Post-marketing reports
-(common > 1/100, < 1/10; uncommon > 1/1000, < 1/100; rare > 1/10,000, < 1/1000;
-very rare < 1/10,000, including isolated reports).
 
 Infections and infestations
 Rare: Opportunistic infections (such as tuberculosis, atypical mycobacteria, pneumocystosis, histoplasmosis, coccidioidomycosis, cryptococcosis, aspergillosis, listeriosis and candidiasis)
-Very Rare: Salmonellosis, reactivation of hepatitis B
+Very Rare: Reactivation of hepatitis B, salmonellosis
 Neoplasms benign, malignant and unspecified (including cysts and polyps)
-Rare Hepatosplenic T-cell lymphoma (adolescent and young adult patients with Crohn’s Disease), lymphoma (including non-Hodgkin’s lymphoma and Hodgkin’s Disease)
+Rare: Hepatosplenic T-cell lymphoma (adolescent and young adult patients with Crohn’s Disease), lymphoma (including non-Hodgkin’s lymphoma and Hodgkin’s Disease)
 Blood and lymphatic system disorders
 Rare: Pancytopenia
-Very Rare: Haemolytic anaemia, idiopathic thrombocytopenic purpura, thrombotic thrombocytopenic purpura, agranulocytosis Immune system disorders
+Very Rare: Agranulocytosis, thrombotic thrombocytopenic purpura, idiopathic thrombocytopenic purpura, haemolytic anaemia Immune system disorders
 Uncommon: Anaphylactic reactions
 Rare: Anaphylactic shock, serum sickness, vasculitis
 Nervous system disorders
-Rare: Demyelinating disorders (such as multiple sclerosis and optic neuritis), Guillain-Barré syndrome, neuropathies, numbness, tingling, seizure
+Rare: Guillain-Barré syndrome, demyelinating disorders (such as multiple sclerosis and optic neuritis), seizure, neuropathies, numbness, tingling
 Very Rare: Transverse myelitis
 Cardiac disorders
-Rare: Worsening heart failure, new onset heart failure
+Rare: New onset heart failure, worsening heart failure
 Very rare: Pericardial effusion
 Respiratory, thoracic and mediastinal disorders
 Rare: Interstitial pneumonitis/fibrosis
@@ -83,10 +88,10 @@ Gastrointestinal disorders
 Rare: Pancreatitis
 Hepatobiliary disorders
 Rare: Hepatitis
-Very rare: Hepatocellular damage, jaundice, liver failure, autoimmune hepatitis
+Very rare: Liver failure, autoimmune hepatitis, hepatocellular damage, jaundice
 Skin and subcutaneous tissue disorders
 Rare: Vasculitis (primarily cutaneous)
-Very rare: Psoriasis, including new onset and pustular (primarily palmar/plantar)
+Very rare: Toxic epidermal necrolysis, Stevens-Johnson-Syndrome, erythema multiforme, psoriasis, including new onset and pustular (primarily palmar/plantar)
 General disorders and administration site conditions
 Common: Infusion-related reactions
 
@@ -98,13 +103,13 @@ Of the infliximab-treated patients who received at least one shortened infusion,
 
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with Remicade administration.
 
-Delayed hypersensitivity: In clinical studies delayed hypersensitivity reactions have been uncommon and have occurred after drug free intervals of less than 1 year.
+Delayed hypersensitivity: In clinical studies delayed hypersensitivity reactions have been uncommon and have occurred after Remicade-free intervals of less than 1 year.
 In the psoriasis studies, delayed hypersensitivity reactions occurred early in the treatment course.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, with some patients experiencing pruritus, facial, hand or lip edema, dysphagia, urticaria, sore throat and headache.
 
-There are insufficient data on the incidence of delayed hypersensitivity reactions after drug free intervals of more than 1 year but limited data from clinical trials suggest an increased risk for delayed hypersensitivity with increasing drug free interval.
+There are insufficient data on the incidence of delayed hypersensitivity reactions after Remicade-free intervals of more than 1 year but limited data from clinical studies suggest an increased risk for delayed hypersensitivity with increasing Remicade-free interval.
 
-In a 1-year trial with repeated infusions in patients with Crohn's disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
+In a 1-year clinical study with repeated infusions in patients with Crohn's disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
 
 Immunogenicity: Patients who developed antibodies to infliximab were more likely (approximately 2-3 fold) to develop infusion-related reactions.
 Use of concomitant immunosuppressant agents appeared to reduce the frequency of infusion-related reactions.
@@ -123,7 +128,7 @@ Opportunistic infections reported in patients on Remicade have included, but are
 
 In clinical studies 36% of infliximab-treated patients were treated for infections compared with 25% of placebo-treated patients.
 
-In RA trials, the incidence of serious infections including pneumonia was higher in infliximab plus methotrexate treated patients compared with methotrexate alone especially at doses of 6 mg/kg or greater (see section 4.4).
+In RA clinical studies, the incidence of serious infections including pneumonia was higher in infliximab plus methotrexate treated patients compared with methotrexate alone especially at doses of 6 mg/kg or greater (see section 4.4).
 
 In postmarketing spontaneous reporting, infections are the most common serious adverse event.
 Some of the cases have resulted in a fatal outcome.
@@ -134,11 +139,11 @@ Malignancies and lymphoproliferative disorders: In clinical studies with inflixi
 
 In long-term safety follow-up of clinical studies with infliximab of up to 5 years, representing 6234 patients-years (3210 patients), 5 cases of lymphoma and 38 cases of non-lymphoma malignancies were reported.
 
-From August 1998 to August 2005, 1909 cases of suspected malignancies have been reported from post-marketing, clinical trials and registries (321 in Crohn’s disease patients, 1302 in rheumatoid arthritis patients and 286 in patients with other or unknown indications).
+From August 1998 to August 2005, 1909 cases of suspected malignancies have been reported from post-marketing, clinical studies and registries (321 in Crohn’s disease patients, 1302 in rheumatoid arthritis patients and 286 in patients with other or unknown indications).
 Among those there were 347 lymphoma cases.
 During this period, the estimated exposure is 1,909,941 patient years since first exposure (see section 4.4: Special Warnings and Special Precautions for Use - "Malignancies").
 
-In an exploratory clinical trial involving patients with moderate to severe COPD who were either current smokers or ex-smokers, 157 patients were treated with REMICADE at doses similar to those used in RA and Crohn’s disease.
+In an exploratory clinical study involving patients with moderate to severe COPD who were either current smokers or ex-smokers, 157 patients were treated with REMICADE at doses similar to those used in RA and Crohn’s disease.
 Nine of these patients developed malignancies, including 1 lymphoma.
 The median duration of follow-up was 0.8 years (incidence 5.7% [95% CI 2.65% - 10.6%].
 There was one reported malignancy amongst 77 control patients (median duration of follow-up 0.8 years; incidence 1.3% [95% CI 0.03% - 7.0%]).
@@ -153,14 +158,14 @@ There have been post-marketing reports of worsening heart failure, with and with
 There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
 Some of these patients have been under 50 years of age.
 
-Hepatobiliary events: In clinical trials, mild or moderate elevations of ALT and AST have been observed in patients receiving Remicade without progression to severe hepatic injury.
+Hepatobiliary events: In clinical studies, mild or moderate elevations of ALT and AST have been observed in patients receiving Remicade without progression to severe hepatic injury.
 Elevations of ALT ≥5 x ULN have been observed (see Table 3).
 Elevations of aminotransferases were observed (ALT more common than AST) in a greater proportion of patients receiving Remicade than in controls, both when Remicade was given as monotherapy and when it was used in combination with other immunosuppressive agents.
 Most aminotransferase abnormalities were transient; however, a small number of patients experienced more prolonged elevations.
-In general, patients who developed ALT and AST elevations were asymptomatic, and the abnormalities decreased or resolved with either continuation or discontinuation of Remicade, or modification of concomitant medications..
+In general, patients who developed ALT and AST elevations were asymptomatic, and the abnormalities decreased or resolved with either continuation or discontinuation of Remicade, or modification of concomitant therapy.
 In post-marketing surveillance, very rare cases of jaundice and hepatitis, some with features of autoimmune hepatitis, have been reported in patients receiving Remicade (see section 4.4)
 
-Table 3: Proportion of patients with increased ALT activity in Clinical Trials
+Table 3: Proportion of patients with increased ALT activity in Clinical Studies
 
 | Indication | Number of patients3 |  | Median follow-up (wks)4 |  | ≥3 x ULN |  | ≥5 x ULN |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -174,7 +179,7 @@ Table 3: Proportion of patients with increased ALT activity in Clinical Trials
 | Plaque psoriasis | 281 | 1175 | 16.1 | 50.1 | 0.4% | 7.7% | 0.0% | 3.4% |
 
 1 Placebo patients received methotrexate while infliximab patients received both infliximab and methotrexate.
-2 Placebo patients in the 2 Phase III trials in Crohn’s disease, ACCENT I and ACCENT II, received an initial dose of 5 mg/kg infliximab at study start and were on placebo in the maintenance phase.
+2 Placebo patients in the 2 Phase III studies in Crohn’s disease, ACCENT I and ACCENT II, received an initial dose of 5 mg/kg infliximab at study start and were on placebo in the maintenance phase.
 Patients who were randomized to the placebo maintenance group and then later crossed over to infliximab are included in the infliximab group in the ALT analysis.
 3 Number of patients evaluated for ALT.
 4 Median follow-up is based on patients treated.
@@ -187,8 +192,9 @@ Reports of lupus and lupus-like syndromes, however, remain uncommon.
 Additional information on special populations
 
 Paediatric population
+
 Juvenile Rheumatoid Arthritis patients:
-Remicade was studied in a trial in 120 patients (age range: 4-17 years old) with active JRA despite methotrexate.
+Remicade was studied in a clinical study in 120 patients (age range: 4-17 years old) with active JRA despite methotrexate.
 Patients received 3 or 6 mg/kg infliximab as a 3-dose induction regimen (weeks 0, 2, 6 or weeks 14, 16, 20 respectively) followed by maintenance therapy every 8 weeks, in combination with methotrexate.
 
 Infusion reactions
@@ -204,7 +210,7 @@ Infections
 Infections occurred in 68% (41/60) of children receiving 3 mg/kg over 52 weeks, 65% (37/57) of children receiving infliximab 6 mg/kg over 38 weeks and 47% (28/60) of children receiving placebo over 14 weeks.
 
 Paediatric Crohn’s disease patients:
-The following adverse events were reported more commonly in paediatric Crohn’s disease patients in the REACH trial (see section 5.1) than in adult Crohn’s disease patients: anaemia (10.7%), blood in stool (9.7%), leukopenia (8.7%), flushing (8.7%), viral infection (7.8%), neutropenia (6.8%), bone fracture (6.8%), bacterial infection (5.8%), and respiratory tract allergic reaction (5.8%).
+The following adverse events were reported more commonly in paediatric Crohn’s disease patients in the REACH study (see section 5.1) than in adult Crohn’s disease patients: anaemia (10.7%), blood in stool (9.7%), leukopenia (8.7%), flushing (8.7%), viral infection (7.8%), neutropenia (6.8%), bone fracture (6.8%), bacterial infection (5.8%), and respiratory tract allergic reaction (5.8%).
 Other special considerations are discussed below.
 
 Infusion-related reactions
@@ -215,7 +221,7 @@ Immunogenicity
 Antibodies to infliximab were detected in 3 (2.9%) paediatric patients.
 
 Infections
-In the REACH trial, infections were reported in 56.3% of randomized subjects treated with infliximab.
+In the REACH study, infections were reported in 56.3% of randomized subjects treated with infliximab.
 Infections were reported more frequently for subjects who received q8 week as opposed to q12 week infusions (73.6% and 38.0%, respectively), while serious infections were reported for 3 subjects in the q8 week and 4 subjects in the q12 week maintenance treatment group.
 The most commonly reported infections were upper respiratory tract infection and pharyngitis, and the most commonly reported serious infection was abscess.
 Three cases of pneumonia (1 serious) and 2 cases of herpes zoster (both non-serious) were reported.
