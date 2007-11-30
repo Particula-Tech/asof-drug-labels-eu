@@ -1,4 +1,4 @@
-# 6.5 Nature and content of container
+# 6.5 Nature and contents of container
 
 5 and 10 ml opaque low density polyethylene bottles with polypropylene screw caps (droptainer).
 

@@ -20,7 +20,6 @@ AZOPT has not been studied in patients with narrow-angle glaucoma.
 The possible role of brinzolamide on corneal endothelial function has not been investigated in patients with compromised corneas (particularly in patients with low endothelial cell count).
 Specifically, patients wearing contact lenses have not been studied and careful monitoring of these patients when using brinzolamide is recommended, since carbonic anhydrase inhibitors may affect corneal hydration and wearing contact lenses might increase the risk for the cornea.
 Likewise, in other cases of compromised corneas such as patients with diabetes mellitus, careful monitoring is recommended.
-
 Benzalkonium chloride, which is commonly used as a preservative in ophthalmic products, has been reported to cause punctate keratopathy and/or toxic ulcerative keratopathy.
 Since AZOPT contains benzalkonium chloride, close monitoring is required with frequent or prolonged use in dry eye patients, or in conditions where the cornea is compromised.
 

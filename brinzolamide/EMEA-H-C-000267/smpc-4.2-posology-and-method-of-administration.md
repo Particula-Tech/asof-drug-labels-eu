@@ -4,11 +4,11 @@ When used as monotherapy or adjunctive therapy, the dose is one drop of AZOPT in
 Some patients may have a better response with one drop three times a day.
 
 Nasolacrimal occlusion or gently closing the eyelid after instillation is recommended.
-This may reduce the systemic absorption of medications administered via the ocular route and result in a decrease in systemic side effects.
+This may reduce the systemic absorption of medicinal products administered via the ocular route and result in a decrease in systemic side effects.
 
 When substituting another ophthalmic antiglaucoma agent with AZOPT, discontinue the other agent and start the following day with AZOPT.
 
-If more than one topical ophthalmic medication is being used, the medicines must be administered at least 5 minutes apart.
+If more than one topical ophthalmic medicinal product is being used, the medicines must be administered at least 5 minutes apart.
 
 Shake well before use.
 To prevent contamination of the dropper tip and suspension, care must be taken not to touch the eyelids, surrounding areas or other surfaces with the dropper tip of the bottle.
@@ -24,6 +24,5 @@ The safety and efficacy of AZOPT have been studied in a small number of paediatr
 Use in hepatic and renal impairment
 AZOPT has not been studied in patients with hepatic impairment and is therefore not recommended in such patients.
 
-AZOPT has not been studied in patients with severe renal impairment (creatinine clearance
-< 30 ml/min) or in patients with hyperchloraemic acidosis.
+AZOPT has not been studied in patients with severe renal impairment (creatinine clearance < 30 ml/min) or in patients with hyperchloraemic acidosis.
 Since brinzolamide and its main metabolite are excreted predominantly by the kidney, AZOPT is therefore contra-indicated in such patients (see also 4.3).
