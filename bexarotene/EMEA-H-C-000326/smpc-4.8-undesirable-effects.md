@@ -43,7 +43,6 @@ Common: Dry Eyes, Eye Disorder
 Uncommon: Cataract Specified1,2,3, Amblyopia3, Visual Field Defect, Corneal Lesion,
 
 Abnormal Vision1,2,3, Blepharitis, Conjunctivitis3
-
 Ear and labyrinth disorders
 
 Common: Deafness

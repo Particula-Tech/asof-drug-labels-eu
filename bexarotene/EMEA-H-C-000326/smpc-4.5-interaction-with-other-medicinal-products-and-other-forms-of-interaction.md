@@ -5,6 +5,8 @@ On the basis of the oxidative metabolism of bexarotene by cytochrome
 P450 3A4 (CYP3A4), coadministration with other CYP3A4 substrates such as ketoconazole, itraconazole, protease inhibitors, clarithromycin and erythromycin may theoretically lead to an increase in plasma bexarotene concentrations.
 Furthermore, co-administration with CYP3A4 inducers such as rifampicin, phenytoin, dexamethasone or phenobarbital may theoretically cause a reduction in plasma bexarotene concentrations.
 
+Caution is advised in case of combination with CYP3A4 substrates having a narrow therapeutic margin i.e. immunosuppressive agents (cyclosporine, tacrolimus, sirolimus) as well as CYP3A4-metabolised cytotoxics, i.e. cyclophosphamide, etoposide, finasteride, ifosfamide, tamoxifen, vinca-alcaloids.
+
 A population analysis of plasma bexarotene concentrations in patients with CTCL indicated that concomitant administration of gemfibrozil resulted in substantial increases in plasma concentrations of bexarotene.
 The mechanism of this interaction is unknown.
 Under similar conditions, bexarotene concentrations were not affected by concomitant administration of atorvastatin or levothyroxine.
