@@ -8,7 +8,7 @@ Mean total body clearances were 102 and 112 l/h following the first dose for dos
 
 The mean distribution volume of bortezomib ranged from 1659 liters to 3294 liters following single-or repeat-dose administration of 1.0 mg/m2 or 1.3 mg/m2 to patients with multiple myeloma.
 This suggests that bortezomib distributes widely to peripheral tissues.
-Over a bortezomib concentration range of 0.01 to 1.0 μg/ml, the in vitro protein binding averaged 82.9% in human plasma.
+Over a bortezomib concentration range of 0.01 to 1.0 µg/ml, the in vitro protein binding averaged 82.9% in human plasma.
 The percent of bortezomib bound to plasma proteins was not concentration dependent.
 
 In vitro studies with human liver microsomes and human cDNA-expressed cytochrome P450 isozymes indicate that bortezomib is primarily oxidatively metabolized via cytochrome P450 enzymes, 3A4, 2C19, and 1A2.

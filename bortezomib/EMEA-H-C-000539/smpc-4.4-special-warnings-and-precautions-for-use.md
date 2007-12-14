@@ -12,9 +12,9 @@ The most common haematologic toxicity is transient thrombocytopenia.
 Platelets were lowest at Day 11 of each cycle of VELCADE treatment.
 There was no evidence of cumulative thrombocytopenia, including in the phase II extension study.
 The mean platelet count nadir measured was approximately 40% of baseline.
-In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts <75,000/μl, 90% of 21 patients had a count ≤25,000/μl during the study, including 14% <10,000/μl; in contrast, with a baseline platelet count >75,000/μl, only 14% of 309 patients had a count ≤25×109/l during the study.
+In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts <75,000/µl, 90% of 21 patients had a count ≤25,000/µl during the study, including 14% <10,000/µl; in contrast, with a baseline platelet count >75,000/µl, only 14% of 309 patients had a count ≤25×109/l during the study.
 Platelet counts should be monitored prior to each dose of VELCADE.
-Therapy should be held when the platelet count is <25,000/μl and re-initiated at a reduced dose after resolution (see section 4.2).
+Therapy should be held when the platelet count is <25,000/µl and re-initiated at a reduced dose after resolution (see section 4.2).
 Potential benefit of the treatment should be carefully weighed against the risks, particularly in case of moderate to severe thrombocytopenia and risk factors for bleeding.
 
 Therefore, complete blood counts (CBC) including platelet counts should be frequently monitored throughout treatment with VELCADE.
@@ -102,7 +102,7 @@ Caution is advised in these patients.
 
 Precautions with certain concomitant medicinal products
 
-Patients should be monitored closely when given bortezomib in combination with potent CYP3A4-inhibitors.
+Patients should be closely monitored when given bortezomib in combination with potent CYP3A4-inhibitors.
 Caution should be exercised when bortezomib is combined with CYP3A4- or CYP2C19 substrates (see section 4.5).
 
 Normal liver function should be confirmed and caution should be exercised in patients receiving oral hypoglycemics (see section 4.5).
