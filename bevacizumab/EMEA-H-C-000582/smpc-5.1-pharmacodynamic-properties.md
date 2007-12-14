@@ -48,7 +48,6 @@ The addition of Avastin to IFL resulted in a statistically significant increase 
 The clinical benefit, as measured by overall survival, was seen in all pre-specified patient subgroups, including those defined by age, sex, performance status, location of primary tumour, number of organs involved and duration of metastatic disease.
 
 The efficacy results of Avastin in combination with IFL-chemotherapy are displayed in Table 3.
-
 Table 3 Efficacy results for study AVF2107g
 
 |  | AVF2107g |  |
@@ -74,6 +73,7 @@ Table 3 Efficacy results for study AVF2107g
 
 a 5 mg/kg every 2 weeks.
 b Relative to control arm.
+
 Among the 110 patients randomised to Arm 3 (5-FU/FA + Avastin), the median overall survival was 18.3 months, median progression free survival was 8.8 months, overall response rate was 39% and median duration of response was 8.5 months.
 
 Avastin in Combination with 5-FU/FA Chemotherapy for the First-Line Treatment of Metastatic Carcinoma of the Colon or Rectum in patients who were not optimal candidates for first-line irinotecan treatment (AVF2192g): This was a phase II randomised, double-blind, active-controlled clinical trial evaluating the efficacy and safety of Avastin in combination with 5-FU/FA as first-line treatment for metastatic colorectal cancer in patients who were not optimal candidates for first-line irinotecan treatment.
@@ -97,6 +97,7 @@ The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher ob
 These efficacy data are consistent with the results from study AVF2107g.
 
 The efficacy data from studies AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 4.
+
 Table 4: Efficacy results for studies AVF0780g and AVF2192g
 
 |  | AVF0780g |  |  | AVF2192g |  |
@@ -140,6 +141,7 @@ In situations where early discontinuation of chemotherapy was required, treatmen
 The patient characteristics were similar across the study arms.
 The primary endpoint of this trial was progression free survival (PFS), based on study investigators’ assessment of disease progression.
 The results of this study are presented in Table 5.
+
 Table 5 Study E2100 Efficacy Results:
 
 |  | Paclitaxel Paclitaxel + Avastin (n=354) (n=368) |
@@ -162,8 +164,8 @@ E4599 was an open-label, randomised, active-controlled, multicentre clinical tri
 Patients were randomized to platinum-based chemotherapy (paclitaxel 200 mg/m2 and carboplatin AUC = 6.0, both by IV infusion) (PC) on day 1 of every 3-week cycle for up to 6 cycles or PC in combination with Avastin at a dose of 15 mg/kg IV infusion day 1 of every 3-week cycle.
 After completion of six cycles of carboplatin-paclitaxel chemotherapy or upon premature discontinuation of chemotherapy, patients on the Avastin + carboplatin–paclitaxel arm continued to receive Avastin as a single agent every 3 weeks until disease progression.
 878 patients were randomised to the two arms.
-
 During the study, of the patients who received trial treatment, 32.2% (136/422) of patients received 7-12 administrations of Avastin and 21.1% (89/422) of patients received 13 or more administrations of Avastin.
+
 The primary endpoint was duration of survival.
 Results are presented in Table 6.
 
@@ -196,3 +198,46 @@ Table 7 Efficacy results for study BO17704
 | Best Overall Response Rate a | 20.1% | 34.1% (p< 0.0001) | 30.4% (p=0.0023) |
 
 a patients with measurable disease at baseline
+
+Advanced and/or metastatic Renal Cell Cancer (mRCC)
+
+Avastin in Combination with Interferon alfa-2a for the First-Line Treatment of Advance and/ or Metastatic Renal Cell Cancer (BO17705)
+
+This was a phase III randomised double-blind trial conducted to evaluate the efficacy and safety of Avastin in combination with interferon (IFN) alfa-2a (Roferon®) versus IFN alfa-2a alone as first-line treatment in mRCC.
+The 649 randomized patients (641 treated) had Karnofsky Performance Status (KPS) of ≥ 70%, no CNS metastases and adequate organ function.
+Patients were nephrectomised for primary renal cell carcinoma.
+Avastin 10 mg/kg was given every 2 weeks until disease progression.
+IFN alfa-2a was given up to 52 weeks or until disease progression at a recommend starting dose of 9 MIU three times a week, allowing a dose reduction to 3 MIU three times a week in 2 steps.
+Patients were stratified according to country and Motzer score and the treatment arms were shown to be well balanced for the prognostic factors.
+At the data cut-off, 505 progression events had occurred, 111 patients remained on treatment, 287 had discontinued (discontinuations of trial treatment due to AEs were 12% with IFN alfa-2a vs. 28% with IFN alfa-2a +Avastin), and 251 died.
+Ninety seven (97) patients in the IFN alfa-2a arm and 131 patients in the Avastin arm reduced the dose of IFN alfa-2a from 9 MIU to either 6 or 3 MIU three times a week as pre-specified in the protocol.
+Dose-reduction of IFN alfa-2a did not appear to affect the efficacy of the combination of Avastin and IFN alfa-2a based on PFS event free rates over time, as shown by a sub-group analysis.
+The 131 patients in the Avastin + IFN alfa-2a arm who reduced and maintained the IFN alfa-2a dose at 6 or 3 MIU during the study, exhibited at 6, 12 and 18 months PFS event free rates of 73, 52 and 21% respectively, as compared to 61, 43 and 17% in the total population of patients receiving Avastin + IFN alfa-2a.
+The addition of Avastin to IFN alfa-2a significantly increased PFS and objective tumour response rate (Table 8).
+The overall survival (OS) data were not mature at the time of the interim analysis.
+Table 8 Efficacy Results for Study BO17705
+
+|  | BO17705 |
+| --- | --- |
+|  | Placebo+ IFNa Bvb + IFNa |
+| Number of Patients | 322 327 |
+| Progression-Free Survival Median (months) Hazard ratio 95% CI | 5.4 10.2 0.63 0.52, 0.75 (p-value < 0.0001) |
+| Objective Response Rate (%) in Patients with Measurable Disease n Response rate | 289 306 12.8% 31.4 % (p-value < 0.0001) |
+
+a Interferon alfa-2a 9 MIU 3x/week b Bevacizumab 10 mg/kg q 2 wk
+
+AVF2938
+
+This was a randomised, double-blind, phase II clinical study investigating Avastin 10 mg/kg in a 2 weekly schedule with the same dose of Avastin in combination with 150 mg daily erlotinib, in patients with metastatic clear cell RCC.
+A total of 104 patients were randomised to treatment in this study, 53 to Avastin 10 mg/kg every 2 weeks plus placebo and 51 to Avastin 10 mg/kg every 2 weeks plus erlotinib 150 mg daily.
+The analysis of the primary endpoint showed no difference between the Avastin + Placebo arm and the Avastin + Erlotinib arm (median PFS 8.5 versus 9.9 months).
+Seven patients in each arm had an objective response.
+The addition of erlotinib to bevacizumab did not result in an improvement in OS (HR = 1.764; p=0.1789), duration of objective response (6.7 vs 9.1 months) or time to symptom progression (HR = 1.172; p = 0.5076).
+
+AVF0890
+
+This was a randomised phase II trial conducted to compare the efficacy and safety of bevacizumab versus placebo.
+A total of 116 patients were randomized to receive bevacizumab 3 mg/kg every 2 weeks (n=39), 10 mg/kg every 2 weeks; (n=37), or placebo (n=40).
+An interim analysis showed there was a significant prolongation of the time to progression of disease in the 10 mg/kg group as compared with the placebo group (hazard ratio, 2.55; p<0.001).
+There was a small difference, of borderline significance, between the time to progression of disease in the 3 mg/kg group and that in the placebo group (hazard ratio, 1.26; p=0.053).
+Four patients had objective (partial) response, and all of these had received the 10 mg/kg dose bevacizumab; the ORR for the 10 mg/kg dose was 10%.

@@ -54,7 +54,7 @@ Haemorrhage
 The risk of CNS haemorrhage in patients with CNS metastases receiving Avastin could not be fully evaluated, as these patients were excluded from clinical trials.
 Thus, Avastin should not be used in these patients (see sections 4.3 and 4.8).
 
-Patients treated with Avastin might have an increased risk of haemorrhage, especially tumour-associated haemorrhage.
+Patients treated with Avastin have an increased risk of haemorrhage, especially tumour-associated haemorrhage.
 Avastin should be discontinued permanently in patients who experience Grade 3 or 4 bleeding during Avastin therapy (see section 4.8).
 
 There is no information on the safety profile of Avastin in patients with congenital bleeding diathesis, acquired coagulopathy or in patients receiving full dose of anticoagulants for the treatment of thromboembolism prior to starting Avastin treatment, as such patients were excluded from clinical trials.

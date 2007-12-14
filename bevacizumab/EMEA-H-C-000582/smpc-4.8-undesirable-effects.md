@@ -11,7 +11,6 @@ The most serious adverse drug reactions were:
 The most frequently observed adverse drug reactions across clinical trials in patients receiving Avastin were hypertension, fatigue or asthenia, diarrhoea and abdominal pain.
 
 Analyses of the clinical safety data suggest that the occurrence of hypertension and proteinuria with Avastin therapy are likely to be dose-dependent.
-
 Table 1 lists adverse drug reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications.
 These reactions had occurred either with at least a 2% difference compared to the control arm (NCI-CTC grade 3-5 reactions) or with at least a 10% difference compared to the control arm (NCI-CTC grade 1-5 reactions), in at least one of the major clinical trials.
 
@@ -19,7 +18,7 @@ The adverse drug reactions listed in this table fall into the following categori
 (≥ 10%) and Common (≥ 1% - < 10%).
 Adverse drug reactions are added to the appropriate category in the table below according to the highest incidence seen in any of the major clinical trials.
 Within each frequency grouping adverse drug reactions are presented in the order of decreasing seriousness.
-Some of the adverse drug reactions are reactions commonly seen with chemotherapy, however, an exacerbation by Avastin therapy can not be excluded.
+Some of the adverse drug reactions are reactions commonly seen with chemotherapy, (e.g. palmar-plantar erythrodysaesthesia syndrome with capecitabine and peripheral sensory neuropathy with paclitaxel or oxaliplatin); however, an exacerbation by Avastin therapy can not be excluded.
 
 Table 1: Very Common and Common Adverse Drug Reactions
 
@@ -34,9 +33,9 @@ Table 1: Very Common and Common Adverse Drug Reactions
 | Cardiac disorders |  | Cardiac failure congestive Supraventricular tachycardia |  |
 | Vascular disorders | Hypertension | Thromboembolism (arterial)* Deep vein thrombosis Haemorrhage | Hypertension |
 | Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism Dyspnoea Hypoxia Epistaxis | Dyspnoea Epistaxis Rhinitis |
+|  | Very common | Common | Very Common |
 | Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal Perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder | Constipation Stomatitis Rectal haemorrhage |
 | Skin and subcutaneous tissue disorders |  | Palmar-plantar erythrodysaesthesia syndrome | Exfoliative dermatitis Dry skin Skin discolouration |
-|  | Very common | Common | Very Common |
 | Musculoskeletal, connective tissue and bone disorders |  | Muscular weakness |  |
 | Renal and urinary disorders |  | Proteinuria Urinary Tract Infection | Proteinuria |
 | General disorders and administration site conditions | Asthenia Fatigue | Pain Lethargy | Pyrexia Asthenia Pain |
@@ -61,7 +60,6 @@ Avastin use has been associated with serious cases of fistulae including events 
 In clinical trials, gastrointestinal fistulae have been reported with an incidence of up to 2% in patients with metastatic colorectal cancer, but were also reported less commonly in patients with other types of cancers.
 Uncommon (≥ 0.1% to < 1%) reports of other types of fistulae that involve areas of the body other than the gastrointestinal tract (e.g. bronchopleural, urogenital and biliary fistulae) were observed across various indications.
 Fistulae have also been reported in post-marketing experience.
-
 Events were reported at various time points during treatment ranging from one week to greater than 1 year from initiation of Avastin, with most events occurring within the first 6 months of therapy.
 
 Wound healing (see section 4.4):
@@ -79,7 +77,7 @@ Very rare cases of nasal septum perforations have been reported in patients trea
 Hypertension (see section 4.4):
 An increased incidence of hypertension (all grades) of up to 34% has been observed in Avastin-treated patients in clinical trials compared with up to 14% in those treated with comparator.
 Grade 3 and 4 hypertension (requiring oral anti-hypertensive medication) in patients receiving Avastin ranged from 3.0% to 17.9%.
-Grade 4 hypertension (hypertensive crisis) occurred in up to 1.0% of patients treated with Avastin and chemotherapy compared to with up to 0.2% of patients treated with the same chemotherapy alone.
+Grade 4 hypertension (hypertensive crisis) occurred in up to 1.0% of patients treated with Avastin and chemotherapy compared to up to 0.2% of patients treated with the same chemotherapy alone.
 
 Hypertension was generally adequately controlled with oral anti-hypertensives such as angiotensin-converting enzyme inhibitors, diuretics and calcium-channel blockers.
 It rarely resulted in discontinuation of Avastin treatment or hospitalisation.
@@ -94,12 +92,11 @@ There have been rare reports of Avastin-treated patients developing signs and sy
 Proteinuria (see section 4.4):
 In clinical trials, proteinuria has been reported within the range of 0.7% to 38% of patients receiving Avastin.
 Proteinuria ranged in severity from clinically asymptomatic, transient, trace proteinuria to nephrotic syndrome, with the great majority as Grade 1 proteinuria.
-Grade 3 proteinuria was reported in< 3% of treated patients: however, in up to 7% of patients treated for advanced and/or metastatic renal cell carcinoma.
+Grade 3 proteinuria was reported in< 3% of treated patients: however, in patients treated for advanced and/or metastatic renal cell carcinoma this was up to 7%.
 Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of treated patients.
 The proteinuria seen in clinical trials was not associated with renal dysfunction and rarely required permanent discontinuation of therapy.
 Testing for proteinuria is recommended prior to start of Avastin therapy.
 In most clinical studies urine protein levels of ≥ 2g /24 hrs led to the holding of Avastin until recovery to < 2g/24 hrs.
-
 Haemorrhage (see section 4.4):
 In clinical trials across all indications the overall incidence of NCI-CTC Grade 3-5 bleeding events ranged from 0.4% to 5% in Avastin treated patients, compared with up to 2.9% of patients in chemotherapy control group.
 
@@ -141,6 +138,7 @@ In this trial arterial thromboembolic events were observed in 11% (11/100) of pa
 Venous thromboembolism:
 The incidence of venous thromboembolic events in clinical trials was similar in patients receiving Avastin in combination with chemotherapy compared to those receiving the control chemotherapy alone.
 Venous thromboembolic events include deep venous thrombosis, pulmonary embolism and thrombophlebitis.
+
 In clinical trials across indications, the overall incidence of venous thromboembolic events ranged from 2.8% to 17.3% of Avastin-treated patients compared with 3.2% to 15.6% in the controls.
 In the clinical trials in NSCLC an increase of the overall incidence of venous thromboembolic events with Grade 3-5 severity was observed of up to 5.6% in the Avastin containing arm compared with 3.2% in the chemotherapy control arm.
 One event (0.2%) was fatal on the Avastin containing arm compared to none in the carboplatin-paclitaxel arm.
@@ -149,7 +147,7 @@ Patients who have experienced a venous thromboembolic event may be at higher ris
 
 Congestive Heart Failure (CHF)
 In clinical trials with Avastin, congestive heart failure (CHF) was observed in all cancer indications studied to date, but occurred predominantly in patients with metastatic breast cancer.
-In phase III studies (AVF2119g and E2100) in patients with metastatic breast cancer an increase of CHF Grade 3 or more with Avastin was seen.
+In two phase III studies (AVF2119g and E2100) in patients with metastatic breast cancer an increase of CHF Grade 3 or more with Avastin was seen.
 The incidence of CHF in patients treated with Avastin ranged from 2.9% to 3.5% compared with up to 1.4% in the control arms.
 Most of these patients showed improved symptoms and/or left ventricular function following appropriate medical therapy.
 
@@ -166,4 +164,4 @@ No increase in the incidence of other reactions, including gastrointestinal perf
 Laboratory Abnormalities:
 Decreased neutrophil count, decreased white blood cell count and presence of urine protein may be associated with Avastin treatment.
 
-Across clinical trials, the following Grade 3 and 4 laboratory abnormalities were seen with an increased (≥ 2%) incidence in patients treated with Avastin compared to those in the control groups: hyperglycaemia, decreased haemoglobin, hyperkalaemia, hyponatraemia, decreased white blood cell count, increased prothrombine time and normalised ratio.
+Across clinical trials, the following Grade 3 and 4 laboratory abnormalities occurred in patients treated with Avastin with at least a 2% difference compared to the corresponding control groups: hyperglycaemia, decreased haemoglobin, hyperkalaemia, hyponatraemia, decreased white blood cell count, increased international normalised ratio (INR).

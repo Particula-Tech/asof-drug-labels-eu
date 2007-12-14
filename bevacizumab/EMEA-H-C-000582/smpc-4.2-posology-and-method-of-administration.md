@@ -10,8 +10,6 @@ The initial dose should be delivered over 90 minutes as an intravenous infusion.
 If the first infusion is well tolerated, the second infusion may be administered over 60 minutes.
 If the 60-minute infusion is well tolerated, all subsequent infusions may be administered over 30-minutes.
 
-The initial dose should be administered following chemotherapy, all subsequent doses can be given before or after chemotherapy.
-
 Do not administer as an intravenous push or bolus.
 
 Instructions for the preparation of Avastin infusions are described in section 6.6.
@@ -30,10 +28,14 @@ Non-small cell lung cancer (NSCLC)
 
 Avastin is administered in addition to platinum-based chemotherapy for up to 6 cycles of treatment followed by Avastin as a single agent until disease progression.
 
-The recommended dose of Avastin is 7.5 mg/kg or 15 mg/k of body weight given once every 3 weeks as an intravenous infusion.
+The recommended dose of Avastin is 7.5 mg/kg or 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
 
 Clinical benefit in NSCLC patients has been demonstrated with both 7.5mg/kg and 15mg/kg doses.
 For details refer to section 5.1 Pharmacodynamic Properties, Non-small cell lung cancer (NSCLC).
+
+Advanced and/or metastatic Renal Cell Cancer (mRCC)
+
+The recommended dose of Avastin is 10 mg/kg of body weight given once every 2 weeks as an intravenous infusion.
 
 Special populations
 
