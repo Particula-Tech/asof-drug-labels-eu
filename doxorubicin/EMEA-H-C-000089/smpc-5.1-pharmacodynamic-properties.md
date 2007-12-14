@@ -21,5 +21,14 @@ The survival rates at 1,
 
 For the sub-group of patients with platinum-sensitive disease the difference was greater: HR of 1.432 (95 % CI; 1.066, 1.923), p=0.017.
 The survival rates at 1, 2 and 3 years were 74.1 %, 51.2 % and 28.4 % respectively on Caelyx, compared to 66.2 %, 31.0 % and 17.5 % on topotecan.
+
 The treatments were similar in the sub-group of patients with platinum refractory disease: HR of 1.069 (95 % CI; 0.823, 1.387), p=0.618.
 The survival rates at 1, 2 and 3 years were 41.5 %, 21.1 % and 13.8 % respectively on Caelyx, compared to 43.2 %, 17.2 % and 9.5 % on topotecan.
+
+A phase III randomized, parallel-group, open-label, multicentre study comparing the safety and efficacy of Caelyx plus bortezomib combination therapy with bortezomib monotherapy in patients with multiple myeloma who have received at least 1 prior therapy and who did not progress while receiving anthracycline-based therapy, was conducted in 646 patients.
+There was a significant improvement in the primary endpoint of time to progression (TTP) for patients treated with combination therapy of Caelyx plus bortezomib compared to patients treated with bortezomib monotherapy as indicated by a risk reduction (RR) of 35 % (95 % CI; 21-47 %), p < 0.0001, based on 407 TTP events.
+The median TTP was 6.9 months for the bortezomib monotherapy patients compared with 8.9 months for the Caelyx plus bortezomib combination therapy patients.
+A protocol-defined interim analysis (based on 249 TTP events) triggered early study termination for efficacy.
+This interim analysis showed a TTP risk reduction of 45 % (95 % CI; 29-57 %), p < 0.0001.
+The median TTP was 6.5 months for the bortezomib monotherapy patients compared with 9.3 months for the Caelyx plus bortezomib combination therapy patients.
+These results, though not mature, constituted the protocol defined final analysis.

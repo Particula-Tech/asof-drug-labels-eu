@@ -37,9 +37,9 @@ The mean apparent half-life was 75.0 hours (range 36.1 – 125 hours).
 AIDS-KS patients
 The plasma pharmacokinetics of Caelyx were evaluated in 23 patients with KS who received single doses of 20 mg/m2 administered by a 30-minute infusion.
 The pharmacokinetic parameters of Caelyx (primarily representing pegylated liposomal doxorubicin hydrochloride and low levels of unencapsulated doxorubicin hydrochloride) observed after the 20 mg/m2 doses are presented in
-Table 6.
+Table 8.
 
-Table 6.
+Table 8.
 Pharmacokinetic Parameters in Caelyx-Treated AIDS-KS Patients
 
 | Mean + Standard Error |  |

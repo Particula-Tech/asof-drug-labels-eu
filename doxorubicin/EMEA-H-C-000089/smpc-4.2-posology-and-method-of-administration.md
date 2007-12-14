@@ -7,8 +7,15 @@ Caelyx exhibits unique pharmacokinetic properties and must not be used interchan
 Breast cancer/Ovarian cancer:
 Caelyx is administered intravenously at a dose of 50 mg/m2 once every 4 weeks for as long as the disease does not progress and the patient continues to tolerate treatment.
 
+Multiple Myeloma: Caelyx is administered at 30 mg/m² on day 4 of the bortezomib 3 week regimen as a 1 hour infusion administered immediately after the bortezomib infusion.
+The bortezomib regimen consists of 1.3 mg/m² on days 1, 4, 8, and 11 every 3 weeks.
+The dose should be repeated as long as patients respond satisfactorily and tolerate treatment.
+Day 4 dosing of both medicinal products may be delayed up to 48 hours as medically necessary.
+Doses of bortezomib should be at least 72 hours apart.
+
 For doses < 90 mg: dilute Caelyx in 250 ml 5 % (50 mg/ml) glucose solution for infusion.
 For doses ≥ 90 mg: dilute Caelyx in 500 ml 5 % (50 mg/ml) glucose solution for infusion.
+
 To minimize the risk of infusion reactions, the initial dose is administered at a rate no greater than 1 mg/minute.
 If no infusion reaction is observed, subsequent Caelyx infusions may be administered over a 60-minute period.
 
@@ -111,6 +118,20 @@ enteral support)
 | Grade 2 | 1,000 – < 1,500 | 50,000 – < 75,000 | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; redose with no dose reduction. |
 | Grade 3 | 500 – < 1,000 | 25,000 – < 50,000 | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; redose with no dose reduction. |
 | Grade 4 | < 500 | < 25,000 | Wait until ANC ≥ 1,500 and platelets ≥ 75,000; decrease dose by 25 % or continue full dose with growth factor support. |
+
+For multiple myeloma patients treated with Caelyx in combination with bortezomib who experience PPE or stomatitis, the Caelyx dose should be modified as described in Table 1 and 2 above respectively.
+Table 4, below provides the schedule followed for other dose modifications in the clinical trial in the treatment of patients with multiple myeloma receiving Caelyx and bortezomib combination therapy.
+For more detailed information on bortezomib dosing and dosage adjustments, see the SPC for bortezomib.
+
+| Table 4. DOSAGE ADJUSTMENTS FOR CAELYX + BORTEZOMIB COMBINATION THERAPY - PATIENTS WITH MULTIPLE MYELOMA |  |  |
+| --- | --- | --- |
+| Patient Status | Caelyx | Bortezomib |
+| Fever ≥ 38○C and ANC < 1,000/mm3 | Do not dose this cycle if before Day 4; if after Day 4, reduce next dose by 25 %. | Reduce next dose by 25 %. |
+| On any day of medicine administration after Day 1 of each cycle: Platelet count < 25,000/mm3 Hemoglobin < 8 g/dl ANC < 500/mm3 | Do not dose this cycle if before Day 4; if after Day 4 reduce next dose by 25 % in the following cycles if bortezomib is reduced for hematologic toxicity.* | Do not dose; if 2 or more doses are not given in a cycle, reduce dose by 25 % in following cycles. |
+| Grade 3 or 4 non-hematologic medicine related toxicity | Do not dose until recovered to Grade < 2 and reduce dose by 25 % for all subsequent doses. | Do not dose until recovered to Grade < 2 and reduce dose by 25 % for all subsequent doses. |
+| Neuropathic pain or peripheral neuropathy | No dosage adjustments. | See the SPC for bortezomib. |
+
+*for more information on bortezomib dosing and dosage adjustment, see the SPC for bortezomib
 
 Patients with impaired hepatic function: Caelyx pharmacokinetics determined in a small number of patients with elevated total bilirubin levels do not differ from patients with normal total bilirubin; however, until further experience is gained, the Caelyx dosage in patients with impaired hepatic function should be reduced based on the experience from the breast and ovarian clinical trial programs as follows: at initiation of therapy, if the bilirubin is between 1.2 - 3.0 mg/dl, the first dose is reduced by 25 %.
 If the bilirubin is > 3.0 mg/dl, the first dose is reduced by 50 %.
