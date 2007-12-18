@@ -2,37 +2,45 @@
 
 EU/1/04/279/001-005
 EU/1/04/279/026
+EU/1/04/279/036
 
 [LYRICA 50 mg hard capsules.]
 
 EU/1/04/279/006-010
+EU/1/04/279/037
 
 [LYRICA 75 mg hard capsules]
 
 EU/1/04/279/011-013
 EU/1/04/279/027
 EU/1/04/279/030
+EU/1/04/279/038
 
 [LYRICA 100 mg hard capsules.]
 
 EU/1/04/279/014-016
+EU/1/04/279/39
 
 [LYRICA 150 mg hard capsules]
 
 EU/1/04/279/017-019
 EU/1/04/279/028
 EU/1/04/279/031
+EU/1/04/279/040
 
 [LYRICA 200 mg hard capsules]
 
-EU/1/04/279/020 - 022
+EU/1/04/279/020 – 022
+EU/1/04/279/041
 
 [LYRICA 225 mg hard capsules]
 
 EU/1/04/279/033 – 035
+EU/1/04/279/042
 
 [LYRICA 300 mg hard capsules]
 
 EU/1/04/279/023 – 025
 EU/1/04/279/029
 EU/1/04/279/032
+EU/04/279/043

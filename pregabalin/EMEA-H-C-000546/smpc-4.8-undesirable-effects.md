@@ -5,13 +5,13 @@ The most commonly reported adverse reactions were dizziness and somnolence.
 Adverse reactions were usually mild to moderate in intensity.
 In all controlled studies, the discontinuation rate due to adverse reactions was 13% for patients receiving pregabalin and 7% for patients receiving placebo.
 The most common adverse reactions resulting in discontinuation from pregabalin treatment groups were dizziness and somnolence.
-
 In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (> 1/10), common (> 1/100, < 1/10), uncommon (>1/1000, <1/100) and rare (<1/1000)).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 The adverse reactions listed may also be associated with the underlying disease and / or concomitant medications.
 
 In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse events in general, CNS adverse events and especially somnolence was increased (See 4.4).
+
 Additional reactions reported from post-marketing experience are included as Unknown frequency in italics in the list below.
 
 Body System Adverse drug reactions
@@ -116,6 +116,7 @@ Renal and urinary disorders
 
 Uncommon Urinary incontinence, dysuria
 Rare Renal failure, oliguria
+Unknown frequency Urinary retention
 
 Reproductive system and breast disorders
 
@@ -152,7 +153,15 @@ Concerning discontinuation of long-term treatment of pregabalin there are no dat
 
 Rare Anasarca,pyrexia, rigors, pain exacerbated,
 
+[LYRICA 75 mg hard capsules]
+
+The following events have been mentioned: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating, and dizziness.
+
 [LYRICA 100 mg hard capsules.]
+
+(all sentences already above)
+
+[LYRICA 150 mg hard capsules]
 
 (all sentences already above)
 

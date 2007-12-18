@@ -3,6 +3,7 @@
 Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, patients with epilepsy receiving anti-epileptic drugs and patients with chronic pain.
 
 Absorption:
+
 Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration.
 Pregabalin oral bioavailability is estimated to be ≥90% and is independent of dose.
 Following repeated administration, steady state is achieved within 24 to 48 hours.
@@ -36,7 +37,6 @@ Pregabalin pharmacokinetics are linear over the recommended daily dose range.
 Inter-subject pharmacokinetic variability for pregabalin is low (<20%).
 Multiple dose pharmacokinetics are predictable from single-dose data.
 Therefore, there is no need for routine monitoring of plasma concentrations of pregabalin.
-
 Pharmacokinetics in special patient groups
 
 Gender
@@ -50,6 +50,7 @@ In addition, pregabalin is effectively removed from plasma by haemodialysis (fol
 Because renal elimination is the major elimination pathway, dosage reduction in patients with renal impairment and dosage supplementation following haemodialysis is necessary (see section 4.2 Table 1).
 
 Hepatic impairment
+
 No specific pharmacokinetic studies were carried out in patients with impaired liver function.
 Since pregabalin does not undergo significant metabolism and is excreted predominantly as unchanged drug in the urine, impaired liver function would not be expected to significantly alter pregabalin plasma concentrations.
 
