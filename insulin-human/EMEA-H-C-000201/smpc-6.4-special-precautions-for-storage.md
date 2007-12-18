@@ -23,6 +23,10 @@ Keep the pen in the outer carton in order to protect from light.
 Before first use, Insuman Rapid must be kept at room temperature for 1 to 2 hours.
 For storage conditions of in use pens, see section 6.3.
 
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+
+(all sentences already above)
+
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
@@ -38,6 +42,10 @@ For storage conditions of in use pens, see section 6.3.
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
 
 Before first use, Insuman Basal must be kept at room temperature for 1 to 2 hours.
+
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
+
+(all sentences already above)
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
@@ -55,6 +63,10 @@ Before first use, Insuman Basal must be kept at room temperature for 1 to 2 hour
 
 Before first use, Insuman Comb 15 must be kept at room temperature for 1 to 2 hours.
 
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
+
+(all sentences already above)
+
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
@@ -70,6 +82,10 @@ Before first use, Insuman Comb 15 must be kept at room temperature for 1 to 2 ho
 [Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
 
 Before first use, Insuman Comb 25 must be kept at room temperature for 1 to 2 hours.
+
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
+
+(all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
@@ -88,6 +104,10 @@ Before first use, Insuman Comb 25 must be kept at room temperature for 1 to 2 ho
 Keep the pen in the outer carton.
 Before first use, Insuman Comb 50 must be kept at room temperature for 1 to 2 hours.
 For storage conditions of in use pen , see section 6.3.
+
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
+
+(all sentences already above)
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 

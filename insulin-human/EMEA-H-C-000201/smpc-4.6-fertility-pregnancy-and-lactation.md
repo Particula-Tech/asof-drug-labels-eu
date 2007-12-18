@@ -10,7 +10,6 @@ It is essential for patients with pre-existing or gestational diabetes to mainta
 Insulin requirements may decrease during the first trimester and generally increase during the second and third trimesters.
 Immediately after delivery, insulin requirements decline rapidly (increased risk of hypoglycaemia).
 Careful monitoring of glucose control is essential.
-
 Lactation
 
 No effects on the suckling child are anticipated.
@@ -26,6 +25,10 @@ For insulin human, no clinical data on exposed pregnancies are available.
 (all sentences already above)
 
 [Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
 
 (all sentences already above)
 
@@ -45,6 +48,10 @@ Insuman Basal can be used during breastfeeding.
 
 (all sentences already above)
 
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
+
+(all sentences already above)
+
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
 Insuman Comb 15 can be used during breastfeeding.
@@ -58,6 +65,10 @@ Insuman Comb 15 can be used during breastfeeding.
 (all sentences already above)
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
 
 (all sentences already above)
 
@@ -79,6 +90,10 @@ Insuman Comb 25 can be used during breastfeeding.
 
 (all sentences already above)
 
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
+
+(all sentences already above)
+
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 Insuman Comb 50 can be used during breastfeeding.
@@ -92,6 +107,10 @@ Insuman Comb 50 can be used during breastfeeding.
 (all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
 
 (all sentences already above)
 

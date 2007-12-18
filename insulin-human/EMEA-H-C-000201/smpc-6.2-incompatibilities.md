@@ -17,6 +17,10 @@ Care must be taken to ensure that no alcohol or other disinfectants enter the in
 
 (all sentences already above)
 
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+
+(all sentences already above)
+
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
 Care must be taken to ensure that no alcohol or other disinfectants enter the insulin suspension.
@@ -30,6 +34,10 @@ Care must be taken to ensure that no alcohol or other disinfectants enter the in
 (all sentences already above)
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
 
 (all sentences already above)
 
@@ -49,6 +57,10 @@ Care must be taken to ensure that no alcohol or other disinfectants enter the in
 
 (all sentences already above)
 
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
+
+(all sentences already above)
+
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
@@ -65,6 +77,10 @@ Care must be taken to ensure that no alcohol or other disinfectants enter the in
 
 (all sentences already above)
 
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
+
+(all sentences already above)
+
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
@@ -78,6 +94,10 @@ Care must be taken to ensure that no alcohol or other disinfectants enter the in
 (all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
 
 (all sentences already above)
 

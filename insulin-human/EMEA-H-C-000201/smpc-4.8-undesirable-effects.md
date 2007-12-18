@@ -30,12 +30,12 @@ Common: oedema
 Not known: sodium retention
 
 Insulin may cause sodium retention and oedema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
-
 Eyes disorders
 
 Not known: proliferative retinopathy, diabetic retinopathy, visual impairment
 
 A marked change in glycaemic control may cause temporary visual impairment, due to temporary alteration in the turgidity and refractive index of the lens.
+
 Long-term improved glycaemic control decreases the risk of progression of diabetic retinopathy.
 However, intensification of insulin therapy with abrupt improvement in glycaemic control may be associated with temporary worsening of diabetic retinopathy.
 
@@ -66,6 +66,10 @@ Most minor reactions to insulins at the injection site usually resolve in a few 
 
 (all sentences already above)
 
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+
+(all sentences already above)
+
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
@@ -82,6 +86,10 @@ Most minor reactions to insulins at the injection site usually resolve in a few 
 
 (all sentences already above)
 
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
+
+(all sentences already above)
+
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
@@ -95,6 +103,10 @@ Most minor reactions to insulins at the injection site usually resolve in a few 
 (all sentences already above)
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
 
 (all sentences already above)
 
@@ -115,6 +127,10 @@ Not known : sodium retention
 
 (all sentences already above)
 
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
+
+(all sentences already above)
+
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
@@ -130,6 +146,10 @@ Not known : sodium retention
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
 
 Common : injection site reactions
+
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
+
+(all sentences already above)
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 

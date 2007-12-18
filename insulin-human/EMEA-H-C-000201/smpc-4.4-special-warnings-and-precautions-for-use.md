@@ -33,7 +33,6 @@ These include patients:
 Such situations may result in severe hypoglycaemia (and possibly loss of consciousness) prior to the patient's awareness of hypoglycaemia.
 
 If normal or decreased values for glycated haemoglobin are noted, the possibility of recurrent, unrecognised (especially nocturnal) episodes of hypoglycaemia must be considered.
-
 Adherence of the patient to the dosage and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
 Factors increasing the susceptibility to hypoglycaemia require particularly close monitoring and may necessitate dose adjustment.
 These include:
@@ -45,7 +44,10 @@ These include:
 - inadequate food intake,
 - missed meals,
 - alcohol consumption,
-- certain uncompensated endocrine disorders (e.g. in hypothyroidism and in anterior pituitary or adrenocortical insufficiency),
+- certain uncompensated endocrine disorders (e.g. in hypothyroidism and in anterior pituitary or
+
+adrenocortical insufficiency),
+
 - concomitant treatment with certain other medicinal products.
 
 Intercurrent illness
@@ -57,7 +59,7 @@ Patients with type 1 diabetes must continue to consume at least a small amount o
 
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
 
-(all sentences already above)
+- certain uncompensated endocrine disorders (e.g. in hypothyroidism and in anterior pituitary or adrenocortical insufficiency),
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
@@ -69,6 +71,10 @@ Handling of the pen
 
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully.
 OptiSet has to be used as recommended in these Instructions for Use (see section 6.6).
+
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+
+(all sentences already above)
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
@@ -85,6 +91,10 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 (all sentences already above)
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
 
 (all sentences already above)
 
@@ -106,6 +116,10 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
+
+(all sentences already above)
+
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
 Patients hypersensitive to Insuman Comb 25 for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
@@ -124,6 +138,10 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
+
+(all sentences already above)
+
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 Patients hypersensitive to Insuman Comb 50 for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
@@ -139,6 +157,10 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 (all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
 
 (all sentences already above)
 

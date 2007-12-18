@@ -23,6 +23,10 @@ Each cartridge contains 3 ml, equivalent to 300 IU insulin.
 
 Each pen contains 3 ml, equivalent to 300 IU insulin.
 
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+
+(all sentences already above)
+
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
 Each ml of Insuman Basal contains 100 IU (3.5 mg) of the active substance insulin human.
@@ -40,6 +44,10 @@ Each ml of Insuman Basal contains 40 IU (1.4 mg) of the active substance insulin
 (all sentences already above)
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
 
 (all sentences already above)
 
@@ -63,6 +71,10 @@ Each ml of Insuman Comb 15 contains 40 IU (1.4 mg) of the active substance insul
 
 (all sentences already above)
 
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
+
+(all sentences already above)
+
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
 Each ml of Insuman Comb 25 contains 100 IU (3.5 mg) of the active substance insulin human.
@@ -80,6 +92,10 @@ Each ml of Insuman Comb 25 contains 40 IU (1.4 mg) of the active substance insul
 (all sentences already above)
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
 
 (all sentences already above)
 
@@ -103,6 +119,10 @@ K 12 strains of Escherichia coli.
 Each ml of Insuman Comb 50 contains 100 IU (3,5 mg) of the active substance insulin human.
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
 
 (all sentences already above)
 

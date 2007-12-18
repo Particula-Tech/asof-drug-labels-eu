@@ -24,6 +24,10 @@ This applies irrespective of whether the pens are immediately used or are first 
 Pen in use must not be stored above 25°C and must be protected from direct heat or light.
 When in use, pen must not be stored in a refrigerator.
 
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+
+(all sentences already above)
+
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
@@ -37,6 +41,10 @@ When in use, pen must not be stored in a refrigerator.
 (all sentences already above)
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
 
 (all sentences already above)
 
@@ -56,6 +64,10 @@ When in use, cartridge (in the pen), must not be stored in a refrigerator.
 
 (all sentences already above)
 
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
+
+(all sentences already above)
+
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
@@ -69,6 +81,10 @@ When in use, cartridge (in the pen), must not be stored in a refrigerator.
 (all sentences already above)
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
 
 (all sentences already above)
 
@@ -87,6 +103,10 @@ When in use, cartridge (in the pen), must not be stored in a refrigerator.
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
 
 This applies irrespective of whether the pens are immediately used or are first carried as a spare for a while.Pen in use must not be stored above 25°C and must be protected from direct heat or light.
+
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
+
+(all sentences already above)
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 

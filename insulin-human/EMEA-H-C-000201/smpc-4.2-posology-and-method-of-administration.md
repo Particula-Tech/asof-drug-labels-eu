@@ -80,6 +80,10 @@ Insuman Rapid delivers insulin in increments of 2 IU up to a maximum single dose
 
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully
 
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+
+Insuman Rapid in cartridges for OptiClik has been developed for use with OptiClik only.
+
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
 Insuman Basal is injected subcutaneously 45 to 60 minutes before a meal.
@@ -105,6 +109,10 @@ Insuman Basal in cartridges has been developed for use in the OptiPen series.
 
 Insuman Basal delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
+
+Insuman Basal in cartridges for OptiClik has been developed for use with OptiClik only.
+
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
 Insuman Comb 15 is injected subcutaneously 30 to 45 minutes before a meal.
@@ -127,6 +135,10 @@ Insuman Comb 15 in cartridges has been developed for use in the OptiPen series.
 [Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
 
 Insuman Comb 15 delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
+
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
+
+Insuman Comb 15 in cartridges for OptiClik has been developed for use with OptiClik only.
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
@@ -151,6 +163,10 @@ Insuman Comb 25 in cartridges has been developed for use in the OptiPen series.
 
 Insuman Comb 25 delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
+
+Insuman Comb 25 in cartridges for OptiClik has been developed for use with OptiClik only.
+
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 Insuman Comb 50 is injected subcutaneously 20 to 30 minutes before a meal.
@@ -173,6 +189,10 @@ Insuman Comb 50 in cartridges has been developed for use in the OptiPen series.
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
 
 Insuman Comb 50 delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
+
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
+
+Insuman Comb 50 in cartridges for OptiClik has been developed for use with OptiClik only.
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
