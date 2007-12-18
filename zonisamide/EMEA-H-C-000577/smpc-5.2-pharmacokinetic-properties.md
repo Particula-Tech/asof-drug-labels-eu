@@ -24,6 +24,7 @@ Zonisamide is metabolised primarily through reductive cleavage of the benzisoxaz
 Parent drug and SMAP can additionally be glucuronidated.
 The metabolites, which could not be detected in plasma, are devoid of anticonvulsant activity.
 There is no evidence that zonisamide induces its own metabolism.
+
 Elimination
 
 Apparent clearance of zonisamide at steady-state after oral administration is about 0.70 l/h and the terminal elimination half-life is about 60 hours in the absence of CYP3A4 inducers.
@@ -32,7 +33,6 @@ Fluctuation in serum or plasma concentrations over a dosing interval is low (< 3
 The main route of excretion of zonisamide metabolites and unchanged drug is via the urine.
 Renal clearance of unchanged zonisamide is relatively low (approximately 3.5 ml/min); about 15 - 30 % of the dose is eliminated unchanged.
 Special patient groups
-
 In subjects with renal impairment, renal clearance of single doses of zonisamide was positively correlated with creatinine clearance.
 The plasma AUC of zonisamide was increased by 35% in subjects with creatinine clearance <20 ml/min (see also section 4.2.).
 

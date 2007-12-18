@@ -3,7 +3,7 @@
 There have been cases of accidental and intentional overdose in adult and paediatric patients.
 In some cases, the overdoses were asymptomatic, particularly where emesis or lavage was prompt.
 In other cases, the overdose was followed by symptoms such as somnolence, nausea, gastritis, nystagmus, myoclonus, coma, bradycardia, reduced renal function, hypotension and respiratory depression.
-A very high plasma concentration of 100.1 µg/ml zonisamide was recorded approximately 31 hours after a patient took an overdose of Zonegran and clonazepam; the patient became comatose and had respiratory depression, but recovered consciousness five days later and had no sequelae.
+A very high plasma concentration of 100.1 μg/ml zonisamide was recorded approximately 31 hours after a patient took an overdose of Zonegran and clonazepam; the patient became comatose and had respiratory depression, but recovered consciousness five days later and had no sequelae.
 
 Treatment
 

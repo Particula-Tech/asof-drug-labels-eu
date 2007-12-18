@@ -16,7 +16,7 @@ Carbonic anhydrase inhibitors
 There are insufficient data to rule out possible pharmacodynamic interactions with carbonic anhydrase inhibitors such as topiramate.
 
 P-gp substrate
-An in vitro study shows that zonisamide is a weak inhibitor of P-gp (MDR1) with an IC50 of 267 µmol/L and there is the theoretical potential for zonisamide to affect the pharmoacokinetics of drugs which are P-gp substrates.
+An in vitro study shows that zonisamide is a weak inhibitor of P-gp (MDR1) with an IC50 of 267 µmol/L and there is the theoretical potential for zonisamide to affect the pharmacokinetics of drugs which are P-gp substrates.
 Caution is advised when starting or stopping zonisamide treatment or changing the zonisamide dose in patients who are also receiving drugs which are P-gp substrates (e.g. digoxin, quinidine).
 
 Potential medicinal product interactions affecting Zonegran
@@ -38,7 +38,7 @@ Therefore, modification of Zonegran dosing should not be necessary when co-admin
 
 [Zonegran 50 mg hard capsules.]
 
-An in vitro study shows that zonisamide is a weak inhibitor of P-gp (MDR1) with an IC50 of 267 µmol/L and there is the theoretical potential for zonisamide to affect the pharmacokinetics of drugs which are P-gp substrates.
+(all sentences already above)
 
 [Zonegran 100 mg hard capsules.]
 
