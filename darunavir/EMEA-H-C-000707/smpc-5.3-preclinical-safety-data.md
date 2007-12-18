@@ -16,7 +16,12 @@ In a pre- and postnatal development assessment in rats, darunavir with and witho
 Darunavir in combination with ritonavir caused a reduction in the number of pups that exhibited the startle response on day 15 of lactation and a reduced pup survival during lactation.
 These effects may be secondary to pup exposure to the active substance via the milk and/or maternal toxicity.
 No post weaning functions were affected with darunavir alone or in combination with ritonavir.
-In juvenile rats that were directly dosed on days 12 - 25 of their life, increased mortality was observed and, in some of the animals, convulsions.
+In juvenile rats receiving darunavir up to days 23 - 26, increased mortality was observed with convulsions in some animals.
+Exposure in plasma, liver and brain was considerably higher than in adult rats after comparable doses in mg/kg between days 5 and 11 of age.
+After day 23 of life, the exposure was comparable to that in adult rats.
+The increased exposure was likely at least partly due to immaturity of the drug-metabolising enzymes in juvenile animals.
+No treatment related mortalities were noted in juvenile rats dosed at 1000 mg/kg darunavir (single dose) on day 26 of age or at 500 mg/kg (repeated dose) from day 23 to 50 of age, and the exposures and toxicity profile were comparable to those observed in adult rats.
+In humans, the activity of drug-metabolising enzymes approaches adult values by 1 to 3 years of age.
 
 Long-term carcinogenicity studies of darunavir in rodents have not been completed.
 Darunavir, however, was tested negative in the in vitro Ames reverse mutation assay and in vitro chromosomal aberration assay in human lymphocyte, both tested in the absence and presence of metabolic activation system.

@@ -51,5 +51,7 @@ Although darunavir has not been studied in patients with renal impairment, popul
 
 Hepatic impairment
 Darunavir is primarily metabolised and eliminated by the liver.
-In a multiple dose study with PREZISTA co-administered with ritonavir (600/100 mg) twice daily, it was demonstrated that the steady state pharmacokinetic parameters of darunavir in patients with mild (Child-Pugh Class A, n=8) and moderate (Child-Pugh Class B, n=3) hepatic impairment were comparable with that in healthy subjects.
-The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not yet been studied (see sections 4.2, 4.3 and 4.4).
+In a multiple dose study with PREZISTA co-administered with ritonavir (600/100 mg) twice daily, it was demonstrated that the total plasma concentrations of darunavir in subjects with mild (Child-Pugh Class A, n=8) and moderate (Child-Pugh Class B, n=8) hepatic impairment were comparable with those in healthy subjects.
+However, unbound darunavir concentrations were approximately 55% (Child-Pugh Class A) and 100% (Child-Pugh Class B) higher, respectively.
+The clinical relevance of this increase is unknown therefore, PREZISTA should be used with caution.
+The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not been studied (see sections 4.2, 4.3 and 4.4).

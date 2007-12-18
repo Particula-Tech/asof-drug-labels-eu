@@ -13,8 +13,11 @@ Children and adolescents: PREZISTA is not recommended for use in children and ad
 Elderly: Limited information is available in this population (see sections 4.4 and 5.2).
 
 Hepatic impairment: Darunavir is metabolised by the hepatic system.
-Severe liver impairment could therefore result in an increase of darunavir exposure and a worsening of its safety profile.
-Therefore, PREZISTA should be used with caution in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment and should not be used in patients with severe hepatic impairment (Child-Pugh Class C) (see sections 4.3, 4.4 and 5.2).
+No dose adjustment is recommended in patients with mild (Child-Pugh Class A) or moderate (Child-Pugh Class B) hepatic impairment, however, PREZISTA should be used with caution in these patients.
+No pharmacokinetic data are available in patients with severe hepatic impairment.
+Severe hepatic impairment could result in an increase of darunavir exposure and a worsening of its safety profile.
+Therefore, PREZISTA should not be used in patients with severe hepatic impairment (Child-Pugh Class C) (see sections 4.3, 4.4 and 5.2).
+
 Renal impairment: No dose adjustment is required in patients with renal impairment (see sections 4.4 and 5.2).
 
 In case a dose of PREZISTA and/or ritonavir was missed within 6 hours of the time it is usually taken, patients should be instructed to take the prescribed dose of PREZISTA and ritonavir with food as soon as possible.

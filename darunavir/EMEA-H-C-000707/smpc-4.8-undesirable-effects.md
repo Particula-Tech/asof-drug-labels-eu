@@ -58,7 +58,6 @@ Severe cases of skin rash, including Stevens-Johnson Syndrome (rare) have been r
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see section 4.4).
 
 Combination antiretroviral therapy has also been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
-
 Increased CPK, myalgia, myositis and rarely, rhabdomyolysis have been reported with the use of protease inhibitors, particularly in combination with NRTIs.
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).

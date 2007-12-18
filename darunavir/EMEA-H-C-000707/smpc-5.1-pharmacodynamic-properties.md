@@ -43,11 +43,13 @@ Entry criteria were the same as and baseline characteristics were comparable to 
 Results 24-week analyses
 The table below shows the efficacy data of the 24-week analyses on the recommended 600 mg dose of PREZISTA co-administered with 100 mg ritonavir b.i.d. from the pooled POWER 1 and POWER 2 trials as well as from the 24-week POWER 3 analysis.
 
-|  | POWER 1 and POWER 2 pooled data |  |  | POWER 3 |
-| --- | --- | --- | --- | --- |
-| Baseline characteristics |  |  |  |  |
-| Median plasma HIV-1 RNA | 4.52 log10 copies/ml |  |  | 4.60 log10 copies/ml |
+|  | POWER 1 and POWER 2 pooled data | POWER 3 |
+| --- | --- | --- |
+| Baseline characteristics |  |  |
+| Median plasma HIV-1 RNA | 4.52 log10 copies/ml | 4.60 log10 copies/ml |
+
 | Median CD4+ cell count | 153 x 106 cells/l |  |  | 115 x 106 cells/l |
+| --- | --- | --- | --- | --- |
 | Outcomes | PREZISTA/ritonavir 600/100 mg b.i.d. n=131 | Control n=124 | Treatment difference | PREZISTA/ritonavir 600/100 mg b.i.d. n=327 |
 | HIV-1 RNA log10 change from baseline (log10 copies/ml)a | -1.89 (-2.11; -1.68)f | -0.48 (-0.65; -0.31)f | -1.41 (LSMb) (-1.67; -1.14)f | -1.73 (-1.87; -1.58)f |
 | CD4+ cell count change from baseline (x 106/l)c | 92 (73; 112)f | 17 (0; 35)f | 75 (LSMb) (49; 101)f | 80 (69; 90)f |
@@ -58,6 +60,7 @@ The table below shows the efficacy data of the 24-week analyses on the recommend
 a Non-completer is failure imputation: patients who discontinued prematurely are imputed with a change equal to 0 b Treatment differences are based on Least Square Means (LSM) from an ANOVA model including the stratification factors.
 P-values
 < 0.001 c Last Observation Carried Forward imputation d Imputations according to the TLOVR algorithm e Confidence interval around observed difference of response rates; P-values < 0.001 f 95% confidence intervals.
+
 Baseline genotype or phenotype and virologic outcome
 In POWER 1, 2 and 3 the presence at baseline of 3 or more of mutations V11I, V32I, L33F, I47V, I50V, I54L or M, G73S, L76V, I84V or L89V was associated with a decreased virologic response to PREZISTA co-administered with 100 mg ritonavir.
 The presence of these individual mutations was associated with a median of 10 PI resistance associated mutations of the IAS-USA list of mutations.

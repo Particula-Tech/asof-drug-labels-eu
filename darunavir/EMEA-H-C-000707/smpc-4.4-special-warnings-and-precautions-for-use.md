@@ -7,10 +7,10 @@ PREZISTA should only be used in combination with 100 mg of ritonavir as a pharma
 Increasing the dose of ritonavir from that recommended in section 4.2 did not significantly affect darunavir concentrations and is not recommended.
 
 Elderly: As limited information is available on the use of PREZISTA in patients aged 65 and over, caution should be exercised in the administration of PREZISTA in elderly patients, reflecting the greater frequency of decreased hepatic function and of concomitant disease or other therapy (see sections 4.2 and 5.2).
-
 Darunavir binds predominantly to α1-acid glycoprotein.
 This protein binding is concentration dependent indicative for saturation of binding.
 Therefore, protein displacement of medicinal products highly bound to α1-acid glycoprotein cannot be ruled out.
+
 Darunavir contains a sulphonamide moiety.
 PREZISTA should be used with caution in patients with a known sulphonamide allergy.
 During the clinical development program, severe skin rash, including erythema multiforme and Stevens-Johnson Syndrome, has been reported.
@@ -18,8 +18,8 @@ Treatment with PREZISTA should be discontinued if severe rash develops.
 
 Patients with coexisting conditions
 Liver disease
-The safety and efficacy of PREZISTA have not been established in patients with severe underlying liver disorders and PREZISTA is therefore contraindicated in patients with severe liver impairment.
-PREZISTA should be used with caution in patients with mild or moderate hepatic impairment (see sections 4.2, 4.3 and 5.2).
+The safety and efficacy of PREZISTA have not been established in patients with severe underlying liver disorders and PREZISTA is therefore contraindicated in patients with severe hepatic impairment.
+Due to an increase in the unbound darunavir plasma concentrations, PREZISTA should be used with caution in patients with mild or moderate hepatic impairment (see sections 4.2, 4.3 and 5.2).
 
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse events.
 In case of concomitant antiviral therapy for hepatitis B or C, please refer to the relevant product information for these medicinal products.
@@ -52,7 +52,6 @@ A higher risk of lipodystrophy has been associated with individual factors such 
 Clinical examination should include evaluation for physical signs of fat redistribution.
 Consideration should be given to measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate (see section 4.8).
-
 Osteonecrosis
 Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
