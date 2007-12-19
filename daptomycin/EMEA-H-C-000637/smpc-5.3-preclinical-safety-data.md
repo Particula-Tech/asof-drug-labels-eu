@@ -20,5 +20,6 @@ Juvenile dogs developed peripheral and spinal nerve lesions at doses lower than 
 Reproductive toxicity testing showed no evidence of effects on fertility, embryofetal, or postnatal development.
 However, daptomycin can cross the placenta in pregnant rats (see section 5.2).
 Excretion of daptomycin into milk of lactating animals has not been studied.
+
 Long-term carcinogenicity studies in rodents were not conducted.
 Daptomycin was not mutagenic or clastogenic in a battery of in vivo and in vitro genotoxicity tests.

@@ -28,7 +28,7 @@ Therefore, it is recommended that:
 Peripheral Neuropathy
 Patients who develop signs or symptoms that might represent a peripheral neuropathy during therapy with Cubicin should be investigated and consideration should be given to discontinuation of daptomycin (see sections 4.8 and 5.3).
 Renal Insufficiency
-Renal insufficiency has been reported during treatment with Cubicin, although the relationship to daptomycin remains unclear.
+Renal insufficiency has been reported during treatment with Cubicin.
 Severe renal insufficiency may in itself also pre-dispose to elevations in daptomycin levels which may increase the risk of development of myopathy (see above).
 
 Dose adjustment is needed for patients with cSSTI without bacteraemia whose creatinine clearance is < 30 ml/min (see sections 4.2 and 5.2).

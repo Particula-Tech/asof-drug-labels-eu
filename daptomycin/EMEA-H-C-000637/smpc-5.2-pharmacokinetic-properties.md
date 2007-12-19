@@ -33,11 +33,11 @@ Special populations
 Elderly
 No dose adjustment is necessary based on age alone.
 However, renal function should be assessed and the dose should be reduced if there is evidence of severe renal insufficiency.
-
 Children and adolescents (< 18 years of age)
 Pharmacokinetic profiles were obtained following single intravenous administration of daptomycin 4 mg/kg in paediatric patients with proven or suspected Gram-positive infection, divided into three age groups (2-6 years, 7-11 years and 12-17 years).
 The pharmacokinetics of daptomycin following a single 4 mg/kg dose in adolescents aged 12-17 years are generally similar to those of healthy adult subjects with normal renal function with trends towards lower AUC and Cmax in adolescents.
 In the younger age groups (2-6 years and 7-11 years), exposure (Cmax and AUC) and elimination half-life for the same mg/kg dose were reduced compared with adolescents.
+
 Obesity
 Relative to non-obese subjects daptomycin systemic exposure measured by AUC is increased by about 28% in moderately obese subjects (Body Mass Index of 25-40 kg/m2) and by 42% in extremely obese subjects (Body Mass Index of > 40 kg/m2).
 However, no dose adjustment is considered to be necessary based on obesity alone.
@@ -51,6 +51,6 @@ In subjects with severe renal insufficiency (CLcr < 30 ml/min) and end-stage ren
 See section 4.2 regarding the need for dose adjustment.
 
 Hepatic insufficiency
-The pharmacokinetics of daptomycin is not altered in subjects with moderate hepatic insufficiency (Child-Pugh B classification of cirrhosis) compared with healthy volunteers matched for gender, age and weight following a single 4 mg/kg dose.
+The pharmacokinetics of daptomycin is not altered in subjects with moderate hepatic insufficiency (Child-Pugh B classification of hepatic insufficiency) compared with healthy volunteers matched for gender, age and weight following a single 4 mg/kg dose.
 No dosage adjustment is necessary when administering daptomycin in patients with moderate hepatic insufficiency.
 The pharmacokinetics of daptomycin in patients with severe hepatic insufficiency (Child-Pugh C classification) have not been evaluated.

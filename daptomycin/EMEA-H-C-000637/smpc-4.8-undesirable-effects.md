@@ -18,9 +18,9 @@ Uncommon: Urinary tract infection
 
 Blood and lymphatic system disorders
 Uncommon: Thrombocythaemia, anaemia, eosinophilia
-
 Metabolism and nutrition disorders
 Uncommon: Anorexia, hyperglycaemia
+
 Psychiatric disorders
 Uncommon: Anxiety, insomnia
 
@@ -49,7 +49,7 @@ Musculoskeletal, connective tissue and bone disorders
 Uncommon: Myositis, muscle weakness, muscle pain, arthralgia
 
 Renal and urinary disorders
-Uncommon: Renal insufficiency
+Uncommon: Renal insufficiency, including renal impairment and renal failure
 
 Reproductive system and breast disorders
 Uncommon: Vaginitis
@@ -66,14 +66,17 @@ Post-Marketing
 Adverse reactions that have been reported Post-Marketing that are not listed above are:
 
 Immune system disorders
-Very rare: Hypersensitivity, manifested by isolated spontaneous reports including, but not limited to; pulmonary eosinophilia, vesicobullous rash with mucous membrane involvement and sensation of oropharyngeal swelling.
+Hypersensitivity, manifested by isolated spontaneous reports including, but not limited to; pulmonary eosinophilia, vesicobullous rash with mucous membrane involvement and sensation of oropharyngeal swelling.
+Anaphylaxis
 
-Very rare: Anaphylaxis
+Infusion reactions including the following symptoms: tachycardia, wheezing, pyrexia, rigors, systemic flushing, vertigo, syncope and metallic taste.
 
-Very rare: There have been isolated cases of infusion reactions including the following symptoms: tachycardia, wheezing, pyrexia, rigors, systemic flushing, vertigo, syncope and metallic taste.
 Musculoskeletal, connective tissue and bone disorders
-Very rare: Rhabdomyolysis
-Isolated cases of rhabdomyolysis have been reported; when clinical information on the patients was available to make a judgement, approximately 50% of the cases occurred in patients with pre-existing renal insufficiency, or in those receiving concomitant medications known to cause rhabdomyolysis.
+Rhabdomyolysis
+When clinical information on the patients was available to make a judgement, approximately 50% of the cases occurred in patients with pre-existing renal insufficiency, or in those receiving concomitant medications known to cause rhabdomyolysis.
+
+Nervous system disorders
+Peripheral neuropathy
 
 Investigations
 In some cases of myopathy involving raised CPK and muscle symptoms, the patients also presented with elevated transaminases.

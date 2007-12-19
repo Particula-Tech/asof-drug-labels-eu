@@ -13,7 +13,7 @@ See sections 4.4, 4.8 and 5.3.
 Daptomycin is primarily cleared by renal filtration and so plasma levels may be increased during co-administration with medicinal products that reduce renal filtration (e.g. NSAIDs and COX-2 inhibitors).
 In addition, there is a potential for a pharmacodynamic interaction to occur during co-administration due to additive renal effects.
 Therefore, caution is advised when daptomycin is co-administered with any other medicinal product known to reduce renal filtration.
-During post–marketing surveillance, cases of interference between daptomycin and a particular reagent used in some assays of Prothrombin Time/International Normalised Ratio (PT/INR) have been reported.
+During post–marketing surveillance, cases of interference between daptomycin and particular reagents used in some assays of Prothrombin Time/International Normalised Ratio (PT/INR) have been reported.
 This interference led to an apparent prolongation of PT and elevation of INR.
 If unexplained abnormalities of PT/INR are observed in patients taking daptomycin, consideration should be given to a possible in vitro interaction with the laboratory test.
 The possibility of erroneous results may be minimised by drawing samples for PT or INR testing near the time of trough plasma concentrations of daptomycin.

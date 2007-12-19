@@ -17,7 +17,6 @@ Strains with decreased susceptibility to daptomycin have been reported during th
 In a clinical trial in which daptomycin was used for the treatment of endocarditis and complicated bacteraemia there were six patients in whom the observed decrease in susceptibility to daptomycin may have contributed to their failure to respond to therapy.
 
 The mechanism of resistance to daptomycin has not yet been identified.
-
 Breakpoints
 Minimum inhibitory concentration (MIC) breakpoint established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for Staphylococci and Streptococci (except S. pneumoniae) are Susceptible ≤ 1 mg/l and Resistant > 1 mg/l.
 
@@ -53,9 +52,9 @@ The success rates in RIE patients are shown in the table below.
 | Population | Daptomycin | Comparator | Differences in Success |
 | --- | --- | --- | --- |
 |  | n/N (%) | n/N (%) | Rates (95% CI) |
-| ITT Population |  |  |  |
+| ITT (intention to treat) Population |  |  |  |
 | RIE | 8/19 (42.1%) | 7/16 (43.8%) | -1.6% (-34.6, 31.3) |
-| PP Population |  |  |  |
+| PP (per protocol) Population |  |  |  |
 | RIE | 6/12 (50.0%) | 4/8 (50.0%) | 0.0% (-44.7, 44.7) |
 
 Failure of treatment due to persisting or relapsing Staphylococcus aureus infections was observed in 19/120 (15.8%) patients treated with Cubicin, 9/53 (16.7%) patients treated with vancomycin and 2/62 (3.2%) patients treated with an anti-staphylococcal semi-synthetic penicillin.
