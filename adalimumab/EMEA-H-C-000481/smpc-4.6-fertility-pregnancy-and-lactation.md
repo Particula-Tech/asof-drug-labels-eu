@@ -12,4 +12,5 @@ Women of childbearing potential are strongly recommended to use adequate contrac
 Use during lactation
 
 It is not known whether adalimumab is excreted in human milk or absorbed systemically after ingestion.
+
 However, because human immunoglobulins are excreted in milk, women must not breast-feed for at least five months after the last Humira treatment.

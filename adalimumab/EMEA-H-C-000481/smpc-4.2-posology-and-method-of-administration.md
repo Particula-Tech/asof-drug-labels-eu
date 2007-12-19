@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis or Crohn’s disease.
+Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, Crohn’s disease or psoriasis.
 Patients treated with Humira should be given the special alert card.
 
 After proper training in injection technique, patients may self-inject with Humira if their physician determines that it is appropriate and with medical follow-up as necessary.
@@ -34,12 +34,18 @@ In case there is a need for a more rapid response to therapy, the regimen 160 mg
 After induction treatment, the recommended dose is 40 mg every other week via subcutaneous injection.
 Alternatively, if a patient has stopped Humira and signs and symptoms of disease recur, Humira may be re-administered.
 There is little experience from re-administration after more than 8 weeks since the previous dose.
-
 During maintenance treatment, corticosteroids may be tapered in accordance with clinical practice guidelines.
 
 Some patients who experience decrease in their response may benefit from an increase in dose intensity to 40 mg Humira every week.
+
 Some patients who have not responded by week 4 may benefit from continued maintenance therapy through week 12.
 Continued therapy should be carefully reconsidered in a patient not responding within this time period.
+
+Psoriasis
+
+The recommended dose of Humira for adult patients is an initial dose of 80 mg administered subcutaneously, followed by 40 mg subcutaneously given every other week starting one week after the initial dose.
+
+Continued therapy beyond 16 weeks should be carefully reconsidered in a patient not responding within this time period.
 
 Elderly patients
 

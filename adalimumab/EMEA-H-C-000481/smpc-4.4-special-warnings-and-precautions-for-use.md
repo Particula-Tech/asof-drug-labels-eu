@@ -10,7 +10,6 @@ Treatment with Humira should not be initiated in patients with active infections
 Patients who develop a new infection while undergoing treatment with Humira should be monitored closely.
 Administration of Humira should be discontinued if a patient develops a new serious infection until infections are controlled.
 Physicians should exercise caution when considering the use of Humira in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medications.
-
 Serious infections, sepsis, tuberculosis and other opportunistic infections, including fatalities, have been reported with Humira.
 
 Serious infections:
@@ -22,6 +21,7 @@ Tuberculosis:
 
 There have been reports of tuberculosis in patients receiving Humira.
 It should be noted that in the majority of those reports, tuberculosis was extra-pulmonary, i.e. disseminated.
+
 Before initiation of therapy with Humira, all patients must be evaluated for both active or inactive (latent) tuberculosis infection.
 This evaluation should include a detailed medical history with a personal history of tuberculosis or possible previous exposure to patients with active tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests, i.e. tuberculin skin test and chest X-ray, should be performed in all patients (local recommendations may apply).
@@ -30,8 +30,15 @@ Prescribers are reminded of the risk of false negative tuberculin skin test resu
 
 If active tuberculosis is diagnosed, Humira therapy must not be initiated (see section 4.3).
 
-If latent tuberculosis is diagnosed, appropriate anti-tuberculosis prophylaxis in accordance with local recommendations must be initiated before starting treatment with Humira.
-In this situation, the benefit/risk balance of therapy with Humira should be very carefully considered.
+If latent tuberculosis issuspected, a physician with expertise in the treatment of tuberculosis should be consulted.
+In all situations described below, the benefit/risk balance of therapy should be very carefully considered.
+
+If inactive (‘latent’) tuberculosis is diagnosed, appropriate treatment for latent tuberculosis must be started with anti-tuberculosis prophylaxis therapy before the initiation of Humira, and in accordance with local recommendations.
+
+In patients who have several or significant risk factors for tuberculosis and have a negative test for latent tuberculosis, anti-tuberculosis therapy should also be considered before the initiation of Humira.
+
+Use of anti-tuberculosis therapy should also be considered before the initiation of Humira in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
+Some patients who have previously received treatment for latent or active tuberculosis have developed active tuberculosis while being treated with Humira.
 
 Patients should be instructed to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade fever) suggestive of a tuberculosis infection occur during or after therapy with Humira.
 
@@ -42,7 +49,6 @@ There have been reports of serious and severe opportunistic infections associate
 If a patient receiving Humira shows prolonged/atypical symptoms/signs of infections or general deterioration, prevalent opportunistic conditions must be considered.
 
 Hepatitis B Reactivation
-
 Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including Humira, who are chronic carriers of this virus.
 Some cases have had fatal outcome.
 Patients at risk for HBV infection should be evaluated for prior evidence of HBV infection before initiating Humira therapy.
@@ -61,6 +67,7 @@ Serious allergic adverse reactions have not been reported with subcutaneous admi
 Non-serious allergic reactions associated with Humira were uncommon during clinical trials.
 In postmarketing, serious allergic reactions including anaphylaxis have been reported very rarely following Humira administration.
 If an anaphylactic reaction or other serious allergic reaction occurs, administration of Humira should be discontinued immediately and appropriate therapy initiated.
+
 The needle cover of the syringe contains natural rubber (latex).
 This may cause severe allergic reactions in patients sensitive to latex.
 
@@ -77,6 +84,8 @@ With the current knowledge, a possible risk for the development of lymphomas or 
 
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving Humira.
 Thus additional caution should be exercised in considering Humira treatment of these patients (see section 4.8).
+
+All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.
 
 In an exploratory clinical trial evaluating the use of another anti-TNF agent, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 All patients had a history of heavy smoking.
@@ -101,6 +110,7 @@ Cases of worsening congestive heart failure have also been reported in patients 
 Humira should be used with caution in patients with mild heart failure (NYHA class I/II).
 Humira is contraindicated in moderate to severe heart failure (see section 4.3).
 Treatment with Humira must be discontinued in patients who develop new or worsening symptoms of congestive heart failure.
+
 Autoimmune processes
 
 Treatment with Humira may result in the formation of autoimmune antibodies.
@@ -121,6 +131,17 @@ A patient who requires surgery while on Humira should be closely monitored for i
 There is limited safety experience in patients undergoing arthroplasty while receiving Humira.
 
 Small bowel obstruction
-
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
 Available data suggest that Humira does not worsen or cause strictures.
+
+[Humira 40 mg solution for injection in pre-filled syringe]
+
+In all situations decribed below, the benefit/risk balance of therapy should be very carefully considered.
+
+[Humira 40 mg solution for injection in pre-filled syringe with needleguard]
+
+If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
+
+[Humira 40 mg solution for injection in pre-filled pen]
+
+(all sentences already above)

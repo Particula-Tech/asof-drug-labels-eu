@@ -8,6 +8,7 @@ Mechanism of action
 Adalimumab binds specifically to TNF and neutralizes the biological function of TNF by blocking its interaction with the p55 and p75 cell surface TNF receptors.
 
 Adalimumab also modulates biological responses that are induced or regulated by TNF, including changes in the levels of adhesion molecules responsible for leukocyte migration (ELAM-1, VCAM-1, and ICAM-1 with an IC50 of 1-2 X 10-10 M).
+
 Pharmacodynamic effects
 
 After treatment with Humira, a rapid decrease in levels of acute phase reactants of inflammation (C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR)) and serum cytokines (IL-6) was observed compared to baseline in patients with rheumatoid arthritis.
@@ -26,7 +27,6 @@ The efficacy and safety of Humira for the treatment of rheumatoid arthritis were
 
 Study I evaluated 271 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, had failed therapy with at least one disease-modifying, anti rheumatic drug and had insufficient efficacy with methotrexate at doses of 12.5 to 25 mg (10 mg if methotrexate-intolerant) every week and whose methotrexate dose remained constant at 10 to 25 mg every week.
 Doses of 20, 40 or 80 mg of Humira or placebo were given every other week for 24 weeks.
-
 Study II evaluated 544 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old and had failed therapy with at least one disease-modifying, anti-rheumatic drugs.
 Doses of 20 or 40 mg of Humira were given by subcutaneous injection every other week with placebo on alternative weeks or every week for 26 weeks; placebo was given every week for the same duration.
 No other disease-modifying anti-rheumatic drugs were allowed.
@@ -55,7 +55,6 @@ ACR response
 
 The percent of Humira-treated patients achieving ACR 20, 50 and 70 responses was consistent across trials I, II and III.
 The results for the 40 mg every other week dose are summarised in Table 3.
-
 Table 3: ACR Responses in Placebo-Controlled Trials
 (Percent of Patients)
 
@@ -95,7 +94,9 @@ Table 4: ACR Responses in Study V
 | ACR 70 |  |  |  |  |  |  |
 | Week 52 | 27.2% | 25.9% | 45.5% | < 0.001 | < 0.001 | 0.656 |
 | Week 104 | 28.4% | 28.1% | 46.6% | < 0.001 | < 0.001 | 0.864 |
-| a. p-value is from the pairwise comparison of methotrexate monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test. b. p-value is from the pairwise comparison of Humira monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test c. p-value is from the pairwise comparison of Humira monotherapy and methotrexate monotherapy using the Mann-Whitney U test |  |  |  |  |  |  |
+
+a. p-value is from the pairwise comparison of methotrexate monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test.
+b. p-value is from the pairwise comparison of Humira monotherapy and Humira/methotrexate combination therapy using the Mann-Whitney U test c. p-value is from the pairwise comparison of Humira monotherapy and methotrexate monotherapy using the Mann-Whitney U test
 
 At week 52, 42.9% of patients who received Humira/methotrexate combination therapy achieved clinical remission (DAS28 < 2.6) compared to 20.6% of patients receiving methotrexate monotherapy and 23.4% of patients receiving Humira monotherapy.
 Humira/methotrexate combination therapy was clinically and statistically superior to methotrexate (p < 0.001) and Humira monotherapy (p < 0.001) in achieving a low disease state in patients with recently diagnosed moderate to severe rheumatoid arthritis.
@@ -160,10 +161,9 @@ Table 7: ACR Response in Placebo-Controlled Psoriatic Arthritis Studies
 
 |  | Study VI |  | Study VII |  |
 | --- | --- | --- | --- | --- |
-| Response | Placebo | Humira | Placebo | Humira |
-|  | N=162 | N=151 | N=49 | N=51 |
-| ACR 20 Week 12 Week 24 ACR 50 Week 12 Week 24 ACR 70 Week 12 Week 24 | 14% 15% | 58%*** 57%*** | 16% N/A | 39%* N/A |
-|  | 4% 6% | 36%*** 39%*** | 2% N/A | 25%*** N/A |
+| Response | Placebo N=162 | Humira N=151 | Placebo N=49 | Humira N=51 |
+| ACR 20 Week 12 Week 24 ACR 50 | 14% 15% | 58%*** 57%*** | 16% N/A | 39%* N/A |
+| Week 12 Week 24 ACR 70 Week 12 Week 24 | 4% 6% | 36%*** 39%*** | 2% N/A | 25%*** N/A |
 |  | 1% 1% | 20%*** 23%*** | 0% N/A | 14% * N/A |
 
 *** p < 0.001 for all comparisons between Humira and placebo
@@ -205,7 +205,6 @@ Table 8 - Efficacy Responses in Placebo-Controlled AS Study – Study VIII Reduc
 | Week 24 | 15% | 42%*** |
 
 ***,** Statistically significant at p < 0.001, < 0.01 for all comparisons between Humira and placebo at Weeks 2, 12 and 24 a ASsessments in Ankylosing Spondylitis b Bath Ankylosing Spondylitis Disease Activity Index
-
 Humira treated patients had significantly greater improvement at Week 12 which was maintained through Week 24 in both the SF36 and Ankylosing Spondylitis Quality of Life Questionnaire (ASQoL).
 
 Similar trends (not all statistically significant) were seen in the smaller randomised, double − blind, placebo controlled study (IX) of 82 adult patients with active ankylosing spondylitis.
@@ -242,13 +241,13 @@ Table 9: Induction of Clinical Remission and Response
 All p-values are pairwise comparisons of proportions for Humira versus placebo
 * p < 0.001
 ** p < 0.01
+
 Similar remission rates were observed for the 160/80 mg and 80/40 mg induction regimens by week 8 and adverse events were more frequently noted in the 160/80 mg group.
 
 In CHARM, at week 4, 58% (499/854) of patients were in clinical response and were assessed in the primary analysis.
 Of those in clinical response at week 4, 48% had been previously exposed to other anti-TNF therapy.
 Maintenance of remission and response rates are presented in Table 10.
 Clinical remission results remained relatively constant irrespective of previous TNF antagonist exposure.
-
 Table 10: Maintenance of Clinical Remission and Response
 (Percent of Patients)
 
@@ -274,22 +273,70 @@ Quality of Life
 
 In CLASSIC I and GAIN, statistically significant improvement in the disease-specific inflammatory bowel disease questionnaire (IBDQ) total score was achieved at week 4 in patients randomised to Humira 80/40 mg and 160/80 mg compared to placebo and was seen at weeks 26 and 56 in CHARM as well among the adalimumab treatment groups compared to the placebo group.
 
+Psoriasis
+The safety and efficacy of Humira were studied in adult patients with chronic plaque psoriasis (≥ 10% BSA involvement and Psoriasis Area and Severity Index (PASI) ≥ 12 or ≥ 10) who were candidates for systemic therapy or phototherapy in randomised, double-blind studies.
+73% of patients enrolled in Psoriasis Studies I and II had received prior systemic therapy or phototherapy.
+
+Psoriasis Study I (REVEAL) evaluated 1212 patients within three treatment periods.
+In period A, patients received placebo or Humira at an initial dose of 80 mg followed by 40 mg every other week starting one week after the initial dose.
+After 16 weeks of therapy, patients who achieved at least a PASI 75 response (PASI score improvement of at least 75% relative to baseline), entered period B and received open-label 40 mg Humira every other week.
+Patients who maintained ≥PASI 75 response at week 33 and were originally randomised to active therapy in Period A, were re-randomised in period C to receive 40 mg Humira every other week or placebo for an additional 19 weeks.
+Across all treatment groups, the mean baseline PASI score was 18.9 and the baseline Physician’s Global Assessment (PGA) score ranged from “moderate” (53% of subjects included) to “severe” (41%) to “very severe” (6%).
+
+Psoriasis Study II (CHAMPION) compared the efficacy and safety of Humira versus methotrexate and placebo in 271 patients.
+Patients received placebo, an initial dose of MTX 7.5 mg and thereafter dose increases up to week 12, with a maximum dose of 25 mg or an initial dose of 80 mg Humira followed by 40 mg every other week (starting one week after the initial dose) for 16 weeks.
+There are no data available comparing Humira and MTX beyond 16 weeks of therapy.
+Patients receiving MTX who achieved a ≥PASI 50 response at week 8 and/or 12 did not receive further dose increases.
+Across all treatment groups, the mean baseline PASI score was 19.7 and the baseline PGA score ranged from “mild” (<1%) to “moderate” (48%) to “severe” (46%) to “very severe” (6%).
+
+In Psoriasis Studies I and II, a primary endpoint was the proportion of patients who achieved a PASI 75 response from baseline at week 16 (see Tables 11 and 12).
+
+Table 11: Ps Study I (REVEAL)
+Efficacy Results at 16 Weeks
+
+|  | Placebo N=398 n (%) | Humira 40 mg eow N=814 n (%) |
+| --- | --- | --- |
+| ≥PASI 75a | 26 (6.5) | 578 (70.9)b |
+| PASI 100 | 3 (0.8) | 163 (20.0)b |
+| PGA: Clear/minimal | 17 (4.3) | 506 (62.2)b |
+| a Percent of patients achieving PASI75 response was calculated as center-adjusted rate b p<0.001, Humira vs. placebo |  |  |
+
+Table 12: Ps Study II (CHAMPION)
+Efficacy Results at 16 Weeks
+
+|  | Placebo N=53 n (%) | MTX N=110 n (%) | Humira 40 mg eow N=108 n (%) |
+| --- | --- | --- | --- |
+| ≥PASI 75 | 10 (18.9) | 39 (35.5) | 86 (79.6) a, b |
+| PASI 100 | 1 (1.9) | 8 (7.3) | 18 (16.7) c, d |
+| PGA: Clear/minimal | 6 (11.3) | 33 (30.0) | 79 (73.1) a, b |
+| a p<0.001 Humira vs. placebo b p<0.001 Humira vs. methotrexate c p<0.01 Humira vs. placebo d p<0.05 Humira vs. methotrexate |  |  |  |
+
+In Psoriasis Study I, 28% of patients who were PASI 75 responders and were re-randomised to placebo at week 33 compared to 5% continuing on Humira, p<0.001, experienced “loss of adequate response” (PASI score after week 33 and on or before week 52 that resulted in a <PASI 50 response relative to baseline with a minimum of a 6-point increase in PASI score relative to week 33).
+Of the patients who lost adequate response after re-randomization to placebo who then enrolled into the open-label extension trial, 38% (25/66) and 55% (36/66) regained PASI 75 response after 12 and 24 weeks of re-treatment, respectively.
+
+Significant improvements at Week 16 from baseline compared to placebo (Studies I and II) and MTX (Study II) were demonstrated in the DLQI (Dermatology Life Quality Index).
+In Study I, improvements in the physical and mental component summary scores of the SF-36 were also significant compared to placebo.
+
+In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50 and were evaluated at 12 weeks after dose escalation, 59/243 (24.3%) of patients regained PASI 75 response.
+
 Immunogenicity
 
 Formation of anti-adalimumab antibodies is associated with increased clearance and reduced efficacy of adalimumab.
 There is no apparent correlation between the presence of anti-adalimumab antibodies and adverse events.
 
-Patients in Studies I, II and III were tested at multiple timepoints for antibodies to adalimumab during the 6 to 12 month period.
+Patients in RA Studies I, II and III were tested at multiple timepoints for anti-adalimumab antibodies during the 6 to 12 month period.
 In the pivotal trials, anti-adalimumab antibodies were identified in 58/1053 (5.5%) patients treated with adalimumab, compared to 2/370 (0.5%) on placebo.
 In patients not given concomitant methotrexate, the incidence was 12.4%, compared to 0.6% when adalimumab was used as add-on to methotrexate.
 
-In patients with psoriatic arthritis, adalimumab antibodies were identified in 38/376 subjects (10%) treated with adalimumab.
+In patients with psoriatic arthritis, anti-adalimumab antibodies were identified in 38/376 subjects (10%) treated with adalimumab.
 In patients not given concomitant methotrexate, the incidence was 13.5% (24/178 subjects), compared to 7% (14 of 198 subjects) when adalimumab was used as add-on to methotrexate.
 
-In patients with ankylosing spondylitis antibodies were identified in 17/204 subjects (8.3%) treated with adalimumab.
+In patients with ankylosing spondylitis anti-adalimumab antibodies were identified in 17/204 subjects (8.3%) treated with adalimumab.
 In patients not given concomitant methotrexate, the incidence was 16/185 (8.6%), compared to 1/19 (5.3%) when adalimumab was used as add-on to methotrexate.
 
-In patients with Crohn’s disease, adalimumab antibodies were identified in 7/269 subjects (2.6%) treated with adalimumab.
+In patients with Crohn’s disease, anti-adalimumab antibodies were identified in 7/269 subjects (2.6%) treated with adalimumab.
+
+In patients with psoriasis, anti-adalimumab antibodies were identified in 77/920 subjects (8.4%) treated with adalimumab monotherapy.
 
 Because immunogenicity analyses are product-specific, comparison of antibody rates with those from other products is not appropriate.
 
@@ -298,9 +345,8 @@ Because immunogenicity analyses are product-specific, comparison of antibody rat
 |  | Study VI |  | Study VII |  |
 | --- | --- | --- | --- | --- |
 | Response | Placebo N=162 | Humira N=151 | Placebo N=49 | Humira N=51 |
-| ACR 20 |  |  |  |  |
-| Week 12 Week 24 ACR 50 Week 12 Week 24 ACR 70 Week 12 Week 24 | 14% 15% | 58%*** 57%*** | 16% N/A | 39%* N/A |
-|  | 4% 6% | 36%*** 39%*** | 2% N/A | 25%*** N/A |
+| ACR 20 Week 12 Week 24 | 14% 15% | 58%*** 57%*** | 16% N/A | 39%* N/A |
+| ACR 50 Week 12 Week 24 ACR 70 Week 12 Week 24 | 4% 6% | 36%*** 39%*** | 2% N/A | 25%*** N/A |
 |  | 1% 1% | 20%*** 23%*** | 0% N/A | 14% * N/A |
 
 Subjects (n=215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20 received early escape open-label adalimumab 40 mg every other week subcutaneously and were subsequently treated as non-responders in the double-blind statistical analyses.
@@ -318,9 +364,4 @@ Subjects (n=215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20 r
 
 [Humira 40 mg solution for injection in pre-filled pen]
 
-|  | Study VI |  | Study VII |  |
-| --- | --- | --- | --- | --- |
-| Response | Placebo N=162 | Humira N=151 | Placebo N=49 | Humira N=51 |
-| ACR 20 Week 12 Week 24 ACR 50 Week 12 Week 24 ACR 70 Week 12 Week 24 | 14% 15% | 58%*** 57%*** | 16% N/A | 39%* N/A |
-|  | 4% 6% | 36%*** 39%*** | 2% N/A | 25%*** N/A |
-|  | 1% 1% | 20%*** 23%*** | 0% N/A | 14% * N/A |
+In patients with Crohn’s disease, anti-dalimumab antibodies were identified in 7/269 subjects (2.6%) treated with adalimumab.

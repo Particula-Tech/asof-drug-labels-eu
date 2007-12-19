@@ -11,6 +11,7 @@ EU/1/03/256/005
 
 9.
 DATE OF FIRST AU`THORISATION/RENEWAL OF THE AUTHORISATION
+
 8 September 2003
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
