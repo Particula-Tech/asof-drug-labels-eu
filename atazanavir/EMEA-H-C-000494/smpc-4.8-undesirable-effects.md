@@ -12,8 +12,8 @@ Adverse events were comparable between patients who received REYATAZ 300 mg with
 Among patients who received 400 mg once daily or 300 mg with ritonavir 100 mg once daily, the only adverse events of any severity reported very commonly with at least a possible relationship to regimens containing REYATAZ and one or more NRTIs were nausea (24%), headache (10%), and jaundice (10%).
 Among patients receiving REYATAZ 300 mg with ritonavir 100 mg, the frequency of jaundice was 17%.
 In the majority of cases, jaundice was reported within a few days to a few months after the initiation of treatment (see section 4.4).
-
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy, and dorsocervical fat accumulation (buffalo hump).
+
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia, and hyperlactataemia (see sections 4.4 and 5.1).
 
 Adult patients

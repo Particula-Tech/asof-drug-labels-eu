@@ -15,7 +15,7 @@ Shellac
 Dehydrated alcohol
 Isopropyl alcohol n-Butyl alcohol
 Propylene glycol
-Ammonia solution
+Ammonium hydroxide
 Indigotine aluminium lake (E132)
 
 White ink containing:

@@ -30,7 +30,6 @@ The resistance in antiretroviral treatment experienced patients mainly occurs by
 These isolates developed higher levels of resistance to the other protease inhibitors.
 
 Clinical experience: in antiretroviral treatment experienced patients, the benefit of REYATAZ is based only on Study 045 where REYATAZ 300 mg once daily was used with ritonavir 100 mg once daily and compared with lopinavir + ritonavir.
-
 Study 045 is an ongoing, randomised, multicenter trial comparing REYATAZ (300 mg once daily) with ritonavir (100 mg once daily) to REYATAZ (400 mg once daily) with saquinavir soft gelatine capsules (1,200 mg once daily), and to lopinavir + ritonavir (400/100 mg fixed dose combination twice daily), each in combination with tenofovir (see sections 4.5 and 4.8) and one NRTI, in 347 (of 358 randomised) patients with virologic failure on two or more prior regimens containing at least one PI, NRTI, and NNRTI.
 For randomised patients, the mean time of prior antiretroviral exposure was 138 weeks for PIs, 281 weeks for NRTIs, and 85 weeks for NNRTIs.
 At baseline, 34% of patients were receiving a PI and 60% were receiving an NNRTI.
@@ -63,8 +62,8 @@ The first consisted in assessing the HIV RNA change from baseline in the subgrou
 The second consisted in assessing the HIV RNA change from baseline in the subgroup of patients with < or ≥ of 4 of the following more specific set of mutations: 10, 46, 54, 82, 84, 90.
 In the analysis performed for patients with ≥ 4 protease gene mutations among the following set of mutations 10, 20, 24, 32, 33, 36, 46, 48, 50, 54, 63, 71, 73, 82, 84 and 90, the results significantly favoured the lopinavir + ritonavir arm.
 There were too few patients with ≥ 4 of the second more specific set of mutations (i.e. 10, 46, 54, 82, 84, 90) to assess the comparability of the REYATAZ + ritonavir and lopinavir + ritonavir regimens, but reduced virologic activity may be anticipated among patients with this resistance profile.
-
 REYATAZ + saquinavir was shown to be inferior to lopinavir + ritonavir.
+
 The data available on the lipid profile (mean change from baseline) are described in the following table:
 
 |  | Study 045 48 weeks* |  | Study 045 96 weeks* |  |

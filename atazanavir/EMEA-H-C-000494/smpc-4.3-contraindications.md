@@ -8,6 +8,4 @@ REYATAZ with ritonavir should not be used in combination with rifampicin (see se
 
 REYATAZ with ritonavir should not be used in combination with medicinal products that are substrates of the CYP3A4 isoform of cytochrome P450 and have narrow therapeutic windows (e.g., astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil, triazolam, midazolam administered orally (for caution on parenterally administered midazolam, see section 4.5), and ergot alkaloids, particularly, ergotamine, dihydroergotamine, ergonovine, methylergonovine) (see section 4.5).
 
-REYATAZ should not be administered with proton pump inhibitors due to an important reduction in atazanavir exposure (see section 4.5).
-
 REYATAZ should not be used in combination with products containing St. John’s wort (Hypericum perforatum) (see section 4.5).

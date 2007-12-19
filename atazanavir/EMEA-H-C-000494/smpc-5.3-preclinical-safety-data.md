@@ -5,7 +5,7 @@ Systemic exposures of atazanavir in mice (males), rats, and dogs at doses associ
 In female mice, atazanavir exposure at a dose that produced single-cell necrosis was 12 times the exposure in humans given 400 mg once daily.
 Serum cholesterol and glucose were minimally to mildly increased in rats but not in mice or dogs.
 
-During in vitro studies, cloned human cardiac potassium channel (hERG), was inhibited by 15% at a concentration (30 µM) of atazanavir corresponding to 30-fold the free drug concentration at Cmax in humans.
+During in vitro studies, cloned human cardiac potassium channel (hERG), was inhibited by 15% at a concentration (30 μM) of atazanavir corresponding to 30-fold the free drug concentration at Cmax in humans.
 Similar concentrations of atazanavir increased by 13% the action potential duration (APD90) in rabbit Purkinje fibres study.
 Electrocardiographic changes (sinus bradycardia, prolongation of PR interval, prolongation of QT interval, and prolongation of QRS complex) were observed only in an initial 2-week oral toxicity study performed in dogs.
 Subsequent 9-month oral toxicity studies in dogs showed no drug-related electrocardiographic changes.
@@ -21,7 +21,6 @@ Systemic exposure to atazanavir at doses that resulted in maternal toxicity was 
 
 Atazanavir was negative in an Ames reverse-mutation assay but did induce chromosomal aberrations in vitro in both the absence and presence of metabolic activation.
 In in vivo studies in rats, atazanavir did not induce micronuclei in bone marrow, DNA damage in duodenum (comet assay), or unscheduled DNA repair in liver at plasma and tissue concentrations exceeding those that were clastogenic in vitro.
-
 In long-term carcinogenicity studies of atazanavir in mice and rats, an increased incidence of benign hepatic adenomas was seen in female mice only.
 The increased incidence of benign hepatic adenomas in female mice was likely secondary to cytotoxic liver changes manifested by single-cell necrosis and is considered to have no relevance for humans at intended therapeutic exposures.
 There were no tumorigenic findings in male mice or in rats.

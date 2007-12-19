@@ -56,7 +56,6 @@ The concomitant use of quinidine is contraindicated
 (see section 4.3).
 
 Antineoplastics: atazanavir inhibits UGT and may interfere with the metabolism of irinotecan, resulting in increased irinotecan toxicities.
-
 Calcium channel blockers: co-administration of bepridil with REYATAZ is not recommended
 (see section 4.3).
 Co-administration of diltiazem (180 mg once daily) with atazanavir (400 mg once daily) in healthy subjects resulted in a 2 to 3 fold increase in diltiazem and desacetyl-diltiazem exposure and no change in the pharmacokinetics of atazanavir.
@@ -94,6 +93,7 @@ Macrolide antibiotics: co-administration of clarithromycin (500 mg twice daily) 
 (400 mg once daily) resulted in a 2 fold increase in exposure to clarithromycin and a 70% decrease in exposure to 14-OH clarithromycin, with a 28% increase in the AUC of atazanavir.
 Dose reduction of clarithromycin may result in subtherapeutic concentrations of 14-OH clarithromycin.
 No recommendation regarding dose reduction can be made; therefore, caution should be exercised if REYATAZ plus ritonavir is co-administered with clarithromycin.
+
 Midazolam: midazolam is extensively metabolized by CYP3A4.
 Co-administration with REYATAZ may cause a large increase in the concentration of this benzodiazepine.
 By extrapolation of data observed with other CYP3A4 inhibitors, increases in concentrations are expected to be significantly higher when midazolam is given orally.
@@ -101,17 +101,19 @@ Therefore REYATAZ should not be co-administered with orally administered midazol
 No data are available on concomitant use of atazanavir with intravenous midazolam; data from concomitant use of other protease inhibitors suggest a possible 3-4 fold increase in midazolam plasma levels.
 If REYATAZ is co-administered with parenteral midazolam, a close clinical monitoring for respiratory depression and/or prolonged sedation should be exercised and dosage adjustment should be considered.
 
-Oral contraceptives (ethinyl estradiol, norethindrone): the mean concentration of ethinyl estradiol, when co-administered as a 35-µg dose with atazanavir 400 mg once daily, was increased to a level between mean concentrations produced by a 35-µg and a 50-µg ethinyl estradiol dose, and the AUC of norethindrone was increased about 2 fold.
+Oral contraceptives (ethinyl estradiol, norethindrone): the mean concentration of ethinyl estradiol, when co-administered as a 35-μg dose with atazanavir 400 mg once daily, was increased to a level between mean concentrations produced by a 35-μg and a 50-μg ethinyl estradiol dose, and the AUC of norethindrone was increased about 2 fold.
 In contrast, ritonavir may decrease ethinyl estradiol concentrations.
 The effects of co-administration of oral contraceptives and REYATAZ with ritonavir have not been studied.
 The concomitant use of REYATAZ and oral contraceptives should be avoided (see section 4.4).
 Alternate reliable methods of contraception should be considered.
 
 Proton pump inhibitors: co-administration of omeprazole (40 mg once daily) with REYATAZ and ritonavir (300/100 mg once daily) resulted in a substantial reduction in atazanavir exposure (approximately 75% decrease in AUC, Cmax, and Cmin).
-Increasing the dose of REYATAZ/ritonavir to 400/100 mg did not compensate for the impact of omeprazole on atazanavir exposure.
-Thus, REYATAZ/ritonavir should not be co-administered with omeprazole.
-Although not studied, other daily doses of omeprazole may produce similar results and, therefore, co-administration of any dose of omeprazole is not recommended.
-In the absence of specific data, the recommendation against co-administration with REYATAZ should be extended to other proton pump inhibitors (see section 4.3).
+Co-administration of omeprazole (20 mg once daily) with an increased dose of REYATAZ and ritonavir (400/100 mg once daily) in healthy volunteers resulted in a decrease of approximately 30% in the AUC, Cmax and Cmin of atazanavir relative to REYATAZ and ritonavir (300/100 mg once daily) without omeprazole.
+This decrease in AUC, Cmax and Cmin was not mitigated when an increased dose of REYATAZ and ritonavir
+(400/100 mg once daily) was temporally separated from omeprazole by 12 hours.
+Although not studied, similar results are expected with other proton pump inhibitors.
+This decrease in atazanavir exposure might negatively impact the efficacy of atazanavir.
+Therefore, the co-administration of proton pump inhibitors with REYATAZ and ritonavir is not recommended (see section 4.4).
 
 Rifabutin: simultaneous administration of 400 mg of atazanavir and 150 mg of rifabutin once daily for 14 days resulted in no clinically important change in the Cmax or AUC for atazanavir.
 No dose adjustment is needed for REYATAZ.
@@ -130,9 +132,9 @@ Triazole antifungal agents: co-administration with ketoconazole has only been st
 Co-administration of 200 mg of ketoconazole with 400 mg of atazanavir in healthy subjects resulted in negligible increases in atazanavir AUC and Cmax (respectively 11% and 3%).
 Plasma levels of both atazanavir and ritonavir may be increased by ketoconazole and itraconazole.
 High doses of ketoconazole and itraconazole (> 200 mg/day) should be used cautiously with atazanavir and ritonavir, by assessing the risk versus the benefit of such a combination.
-
 Warfarin: co-administration with REYATAZ with ritonavir has the potential to produce a decrease or, less often, an increase in INR (International Normalised Ratio).
 It is recommended that the INR be monitored carefully during treatment with REYATAZ and ritonavir, especially when commencing therapy.
+
 St. John’s wort (Hypericum perforatum): REYATAZ should not be used concomitantly with products containing St. John's wort since it may be expected to result in significant reduction in plasma levels of atazanavir.
 This effect may be due to an induction of CYP3A4.
 There is a risk of loss of therapeutic effect and development of resistance (see section 4.3).
