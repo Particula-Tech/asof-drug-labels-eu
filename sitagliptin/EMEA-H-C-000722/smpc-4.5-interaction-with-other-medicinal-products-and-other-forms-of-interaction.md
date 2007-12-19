@@ -10,7 +10,6 @@ Coadministration of a single 100 mg oral dose of sitagliptin and a single 600 mg
 These changes in sitagliptin pharmacokinetics were not considered to be clinically meaningful.
 The renal clearance of sitagliptin was not meaningfully altered.
 Therefore, meaningful interactions would not be expected with other p-glycoprotein inhibitors.
-
 In vitro studies indicated that the primary enzyme responsible for the limited metabolism of sitagliptin is CYP3A4, with contribution from CYP2C8.
 In patients with normal renal function, metabolism, including via CYP3A4, plays only a small role in the clearance of sitagliptin.
 Metabolism may play a more significant role in the elimination of sitagliptin in the setting of severe renal insufficiency or ESRD.
@@ -24,9 +23,10 @@ Concomitant administration of OAT3 inhibitors has not been evaluated in vivo.
 Effects of sitagliptin on other medicinal products
 In vitro data suggest that sitagliptin does not inhibit nor induce CYP450 isoenzymes.
 In clinical studies, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, warfarin, or oral contraceptives, providing in vivo evidence of a low propensity for causing interactions with substrates of CYP3A4, CYP2C8, CYP2C9, and organic cationic transporter (OCT).
+
 Sitagliptin had a small effect on plasma digoxin concentrations, and may be a mild inhibitor of p-glycoprotein in vivo.
 
 Digoxin: Sitagliptin had a small effect on plasma digoxin concentrations.
 Following administration of 0.25 mg digoxin concomitantly with 100 mg of Januvia daily for 10 days, the plasma AUC of digoxin was increased on average by 11 %, and the plasma Cmax on average by 18 %.
-No dosage adjustment of digoxin is recommended..
+No dosage adjustment of digoxin is recommended.
 However, patients at risk of digoxin toxicity should be monitored for this when sitagliptin and digoxin are administered concomitantly.
