@@ -8,7 +8,6 @@ A total of 859 patients had at least 12 months exposure and 452 had 24 months ex
 Serious adverse events related to the injection procedure and occurring in <0.1% of intravitreal injections included endophthalmitis, rhegmatogenous retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.4).
 
 Other serious ocular events observed among Lucentis-treated patients and occurring in <1% of patients included intraocular inflammation and increased intraocular pressure (see section 4.4).
-
 The adverse events listed below occurred at a higher rate (at least 3 percentage points) in patients receiving treatment with Lucentis 0.5 mg than in those receiving control treatment (sham or verteporfin PDT) in the three controlled phase III studies FVF2598g (MARINA), FVF2587g (ANCHOR) and FVF3192g (PIER).
 These were therefore considered potential adverse drug reactions (ADRs).
 The safety data described below also include all adverse events suspected to be at least potentially related to the injection procedure or medicinal product in the 440 patients of the combined 0.5 mg treatment groups.

@@ -17,7 +17,6 @@ As with all therapeutic proteins, there is a potential for immunogenicity with L
 Patients should be instructed to report if an intraocular inflammation increases in severity, which may be a clinical sign attributable to intraocular antibody formation.
 
 Lucentis has not been studied in patients who have previously received intravitreal injections.
-
 Lucentis should not be administered concurrently with other anti-VEGF agents (systemic or ocular).
 
 The dose should be withheld and treatment should not be resumed earlier than the next scheduled treatment in the event of:
