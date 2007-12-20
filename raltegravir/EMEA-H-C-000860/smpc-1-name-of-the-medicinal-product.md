@@ -1,0 +1,3 @@
+# 1. NAME OF THE MEDICINAL PRODUCT
+
+ISENTRESS 400 mg film-coated tablets
