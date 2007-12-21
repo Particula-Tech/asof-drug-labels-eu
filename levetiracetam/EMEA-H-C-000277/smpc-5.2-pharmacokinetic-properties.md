@@ -5,11 +5,11 @@ The pharmacokinetic profile is linear with low intra- and inter-subject variabil
 There is no modification of the clearance after repeated administration.
 There is no evidence for any relevant gender, race or circadian variability.
 The pharmacokinetic profile is comparable in healthy volunteers and in patients with epilepsy.
-
 Due to its complete and linear absorption, plasma levels can be predicted from the oral dose of levetiracetam expressed as mg/kg bodyweight.
 Therefore there is no need for plasma level monitoring of levetiracetam.
 
 A significant correlation between saliva and plasma concentrations has been shown in adults and children (ratio of saliva/plasma concentrations ranged from 1 to 1.7 for oral tablet formulation and after 4 hours post-dose for oral solution formulation).
+
 Adults and adolescents
 
 Absorption
@@ -41,13 +41,14 @@ Other unidentified components accounted only for 0.6 % of the dose.
 
 No enantiomeric interconversion was evidenced in vivo for either levetiracetam or its primary metabolite.
 
-In vitro, levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C8/9/10, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1*6, UGT1*1 and UGT [pl6.2]) and epoxide hydroxylase activities.
+In vitro, levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C9, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1A1 AND UGT1A6]) and epoxide hydroxylase activities.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
-In human hepatocytes in culture, levetiracetam did not cause enzyme induction.
+In human hepatocytes in culture, levetiracetam had little or no effect on CYP1A2, SULT1E1 or UGT1A1.
+Levetiracetam caused mild induction of CYP2B6 and CYP3A4.
+The in vitro data and in vivo interaction data on oral contraceptives, digoxin and warfarin indicate that no significant enzyme induction is expected in vivo.
 Therefore, the interaction of Keppra with other substances, or vice versa, is unlikely.
 
 Elimination
-
 The plasma half-life in adults was 7±1 hours and did not vary either with dose, route of administration or repeated administration.
 The mean total body clearance was 0.96 ml/min/kg.
 
@@ -56,6 +57,7 @@ Excretion via faeces accounted for only 0.3 % of the dose.
 The cumulative urinary excretion of levetiracetam and its primary metabolite accounted for 66 % and 24 % of the dose, respectively during the first 48 hours.
 The renal clearance of levetiracetam and ucb L057 is 0.6 and 4.2 ml/min/kg respectively indicating that levetiracetam is excreted by glomerular filtration with subsequent tubular reabsorption and that the primary metabolite is also excreted by active tubular secretion in addition to glomerular filtration.
 Levetiracetam elimination is correlated to creatinine clearance.
+
 Elderly
 
 In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
@@ -93,7 +95,7 @@ In most subjects with severe hepatic impairment, the clearance of levetiracetam 
 
 [Keppra 500 mg film-coated tablets.]
 
-(all sentences already above)
+In vitro, levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C9, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1A1 and UGT1A6) and epoxide hydroxylase activities.
 
 [Keppra 750 mg film-coated tablets.]
 
@@ -118,8 +120,6 @@ The pharmacokinetic and safety profiles did not identify any safety concerns.
 The time independent pharmacokinetic profile of levetiracetam was also confirmed following 1500 mg intravenous infusion for 4 days with b.i.d dosing.
 
 Peak plasma concentration (Cmax) observed in 17 subjects following a single intravenous dose of 1500 mg infused over 15 minutes was 51 ± 19 µg/mL (arithmetic average ± standard deviation).
-
-Therefore, the clinically significant interaction of Keppra with other substances, or vice versa, is unlikely.
 
 The pharmacokinetics in paediatric patients has not been investigated after intravenous administration.
 However, based on the pharmacokinetic characteristics of levetiracetam, the pharmacokinetics in adults after intravenous administration and the pharmacokinetics in children after oral administration, the exposure (AUC) of levetiracetam is expected to be similar in paediatric patients aged 4 to 12 years after intravenous and oral administration.

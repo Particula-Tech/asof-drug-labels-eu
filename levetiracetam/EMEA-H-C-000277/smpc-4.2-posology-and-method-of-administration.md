@@ -67,10 +67,17 @@ CLcr (ml/min/1.73 m2) = ---------------------------- x 1.73
 BSA subject (m2)
 Dosing adjustment for adult patients with impaired renal function
 
-| Group | Creatinine clearance (ml/min/1.73m2) | Dosage and frequency |
-| --- | --- | --- |
-| Normal Mild Moderate Severe End-stage renal disease patients Undergoing dialysis (1) | > 80 50-79 30-49 < 30 - | 500 to 1,500 mg twice daily 500 to 1,000 mg twice daily 250 to 750 mg twice daily 250 to 500 mg twice daily 500 to 1,000 mg once daily (2) |
+Group Creatinine clearance Dosage and frequency
 
+(ml/min/1.73m2)
+
+Normal > 80 500 to 1,500 mg twice daily
+Mild 50-79 500 to 1,000 mg twice daily
+Moderate 30-49 250 to 750 mg twice daily
+Severe < 30 250 to 500 mg twice daily
+End-stage renal disease patients - 500 to 1,000 mg once daily (2)
+
+Undergoing dialysis (1)
 (1) A 750 mg loading dose is recommended on the first day of treatment with levetiracetam.
 (2) Following dialysis, a 250 to 500 mg supplemental dose is recommended.
 

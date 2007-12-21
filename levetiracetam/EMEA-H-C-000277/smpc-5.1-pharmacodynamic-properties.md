@@ -33,6 +33,7 @@ In this study, the patients received levetiracetam as a fixed dose of 60 mg/kg/d
 With continued long-term treatment, 11.4% of the patients were seizure-free for at least 6 months and 7.2% were seizure-free for at least 1 year.
 
 Monotherapy in the treatment of partial onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy.
+
 Efficacy of levetiracetam as monotherapy was established in a double-blind, parallel group, non-inferiority comparison to carbamazepine controlled release (CR) in 576 patients 16 years of age or older with newly or recently diagnosed epilepsy.
 The patients had to present with unprovoked partial seizures or with generalized tonic-clonic seizures only.
 The patients were randomized to carbamazepine CR 400 – 1200 mg/day or levetiracetam 1000 - 3000 mg/day, the duration of the treatment was up to 121 weeks depending on the response.

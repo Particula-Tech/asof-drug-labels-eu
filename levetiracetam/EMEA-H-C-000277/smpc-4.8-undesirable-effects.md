@@ -97,10 +97,6 @@ Common: agitation, depression, emotional lability /mood swings, hostility/aggres
 
 [Keppra 750 mg film-coated tablets.]
 
-For clinical trials, the frequency is defined as follows: very common (≥1/10); common (≥1/100, <1/10);
-
-uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (<1/10,000), including isolated reports.
-
 E 110 coloring agent may cause allergic reactions.
 
 [Keppra 1000 mg film-coated tablets.]
@@ -117,4 +113,4 @@ Undesirable effects that resulted from Keppra intravenous use are similar to tho
 The most frequently reported adverse reactions were dizziness, somnolence, headache and postural dizziness.
 Since there was limited exposure for Keppra intravenous use and since oral and intravenous formulations are bioequivalent, the safety information of Keppra intravenous will rely on Keppra oral use.
 
-uncommon: (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (<1/10,000), including isolated reports.
+For clinical trials, the frequency is defined as follows: very common (≥1/10); common (≥1/100, <1/10); uncommon: (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (<1/10,000), including isolated reports.
