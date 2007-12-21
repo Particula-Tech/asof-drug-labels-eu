@@ -58,9 +58,8 @@ Investigations
 Common: Elevated hepatic transaminases
 Uncommon: Autoantibodies, complement factor abnormality
 
-The additional adverse reactions listed in Table 2 are reported from worldwide post-marketing experience with Remicade.
-Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (≥1/100 to <1/10);
-uncommon (≥1/1000 to <1/100); rare (≥1/10,000 to <1/1,000; very rare <1/10,000, including isolated reports).
+Additional adverse reactions, some with fatal outcome, reported from worldwide post-marketing experience with Remicade are included in Table 2.
+Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: common (≥1/100 to <1/10); uncommon (≥1/1000 to <1/100); rare (≥1/10,000 to <1/1,000; very rare <1/10,000, including isolated reports).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 2
@@ -83,7 +82,8 @@ Cardiac disorders
 Rare: New onset heart failure, worsening heart failure
 Very rare: Pericardial effusion
 Respiratory, thoracic and mediastinal disorders
-Rare: Interstitial pneumonitis/fibrosis
+Rare: Interstitial lung disease, including pulmonary fibrosis/interstitial pneumonitis
+Very rare: Rapidly progressive interstitial lung disease
 Gastrointestinal disorders
 Rare: Pancreatitis
 Hepatobiliary disorders
