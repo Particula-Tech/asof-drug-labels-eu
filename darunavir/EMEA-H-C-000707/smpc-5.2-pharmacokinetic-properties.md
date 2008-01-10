@@ -44,7 +44,6 @@ However, only limited data were available in patients above the age of 65 year.
 Gender
 Population pharmacokinetic analysis showed a slightly higher darunavir exposure (16.8%) in HIV infected females compared to males.
 This difference is not clinically relevant.
-
 Renal impairment
 Results from a mass balance study with 14C-darunavir with ritonavir showed that approximately 7.7% of the administered dose of darunavir is excreted in the urine unchanged.
 Although darunavir has not been studied in patients with renal impairment, population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV infected patients with moderate renal impairment (CrCl between 30 - 60 ml/min, n=20) (see sections 4.2 and 4.4).
