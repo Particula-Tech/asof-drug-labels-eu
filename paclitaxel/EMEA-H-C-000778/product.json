@@ -1,0 +1,16 @@
+{
+  "active_substance": "paclitaxel",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000778",
+  "eu_number": "EU/1/07/428",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2008-01-11",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abraxane",
+  "molecule": "paclitaxel",
+  "molecule_name": "PACLITAXEL",
+  "name": "Abraxane",
+  "register_name": "Abraxane",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h428.htm"
+}
