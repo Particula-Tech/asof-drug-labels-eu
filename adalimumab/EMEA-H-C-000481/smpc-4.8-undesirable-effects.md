@@ -11,6 +11,7 @@ The proportion of patients who discontinued treatment due to adverse events duri
 Adverse events at least possibly causally-related to adalimumab for pivotal studies, both clinical and laboratory, are displayed by system organ class and frequency (very common ≥ 1/10;
 common≥ 1/100 to < 1/10; uncommon≥ 1/1000 to< 1/100 and rare ≥ 1/10,000 to < 1/1000) in Table 1 below.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
 Table 1
 Undesirable Effects in Clinical Studies
 
@@ -76,7 +77,6 @@ The incidence of serious infections was 0.03 per patient year in Humira treated 
 
 In controlled and open label studies with Humira, serious infections (including fatal infections, which occurred rarely) have been reported, which include reports of tuberculosis (including miliary and extra-pulmonary locations) and invasive opportunistic infections (e.g. disseminated histoplasmosis, pneumocystis carinii pneumonia, aspergillosis and listeriosis).
 Most of the cases of tuberculosis occurred within the first eight months after initiation of therapy and may reflect recrudescence of latent disease.
-
 Malignancies and lymphoproliferative disorders
 
 During the controlled portions of pivotal Humira trials at least 12 weeks in duration in patients with moderately to severely active rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, Crohn’s disease and psoriasis, malignancies, other than lymphoma and non-melanoma skin cancer, were observed at a rate (95% confidence interval) of 5.9 (3.5, 9.9) per 1000 patient-years among 3853 Humira treated patients versus a rate of 4.3 (1.8, 10.4) 1 per 1000 patient-years among 2183 control patients (median duration of treatment was 5.5 months for Humira and 3.9 months for control-treated patients).
@@ -109,10 +109,10 @@ In all rheumatoid arthritis and psoriatic arthritis studies (I-VII), patients wi
 Crohn’s disease clinical trials: in controlled clinical trials, elevations of ALT were similar in patients receiving adalimumab or placebo.
 
 Psoriasis clinical trials: in controlled psoriasis clinical trials, elevations of ALT were similar in patients receiving adalimumab or placebo.
-
 Additional Adverse Reactions from Postmarketing Surveillance or Phase IV Clinical Trials
 
 The additional adverse reactions in Table 2 have been reported from postmarketing surveillance or Phase IV clinical trials:
+
 Table 2
 Undesirable Effects in Postmarketing Surveillance and Phase IV Clinical Studies
 

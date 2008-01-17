@@ -21,7 +21,7 @@ In monotherapy, some patients who experience a decrease in their response may be
 
 Psoriatic arthritis and ankylosing spondylitis
 
-The recommended dose of Humira for patients with psoriatic arthritis and ankylosing spondylitis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
+The recommended dose of Humira for patients with psoriatic arthritis or ankylosing spondylitis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
 
 For all of the above indications, available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
 Continued therapy should be carefully reconsidered in a patient not responding within this time period.
@@ -34,6 +34,7 @@ In case there is a need for a more rapid response to therapy, the regimen 160 mg
 After induction treatment, the recommended dose is 40 mg every other week via subcutaneous injection.
 Alternatively, if a patient has stopped Humira and signs and symptoms of disease recur, Humira may be re-administered.
 There is little experience from re-administration after more than 8 weeks since the previous dose.
+
 During maintenance treatment, corticosteroids may be tapered in accordance with clinical practice guidelines.
 
 Some patients who experience decrease in their response may benefit from an increase in dose intensity to 40 mg Humira every week.

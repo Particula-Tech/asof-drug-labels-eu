@@ -10,6 +10,7 @@ Treatment with Humira should not be initiated in patients with active infections
 Patients who develop a new infection while undergoing treatment with Humira should be monitored closely.
 Administration of Humira should be discontinued if a patient develops a new serious infection until infections are controlled.
 Physicians should exercise caution when considering the use of Humira in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medications.
+
 Serious infections, sepsis, tuberculosis and other opportunistic infections, including fatalities, have been reported with Humira.
 
 Serious infections:
@@ -47,8 +48,8 @@ Other opportunistic infections:
 There have been reports of serious and severe opportunistic infections associated with Humira therapy, for example pneumocystis carinii pneumonia, disseminated histoplasmosis, listeriosis and aspergillosis.
 
 If a patient receiving Humira shows prolonged/atypical symptoms/signs of infections or general deterioration, prevalent opportunistic conditions must be considered.
-
 Hepatitis B Reactivation
+
 Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including Humira, who are chronic carriers of this virus.
 Some cases have had fatal outcome.
 Patients at risk for HBV infection should be evaluated for prior evidence of HBV infection before initiating Humira therapy.
@@ -86,7 +87,6 @@ No studies have been conducted that include patients with a history of malignanc
 Thus additional caution should be exercised in considering Humira treatment of these patients (see section 4.8).
 
 All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.
-
 In an exploratory clinical trial evaluating the use of another anti-TNF agent, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with increased risk for malignancy due to heavy smoking.
@@ -129,8 +129,8 @@ There is limited safety experience of surgical procedures in patients treated wi
 The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Humira should be closely monitored for infections, and appropriate actions should be taken.
 There is limited safety experience in patients undergoing arthroplasty while receiving Humira.
-
 Small bowel obstruction
+
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
 Available data suggest that Humira does not worsen or cause strictures.
 

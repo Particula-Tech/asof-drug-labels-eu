@@ -24,9 +24,9 @@ Rheumatoid arthritis
 Humira was evaluated in over 3000 patients in all rheumatoid arthritis clinical trials.
 Some patients were treated for up to 60 months duration.
 The efficacy and safety of Humira for the treatment of rheumatoid arthritis were assessed in five randomised, double-blind and well-controlled studies.
-
 Study I evaluated 271 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, had failed therapy with at least one disease-modifying, anti rheumatic drug and had insufficient efficacy with methotrexate at doses of 12.5 to 25 mg (10 mg if methotrexate-intolerant) every week and whose methotrexate dose remained constant at 10 to 25 mg every week.
 Doses of 20, 40 or 80 mg of Humira or placebo were given every other week for 24 weeks.
+
 Study II evaluated 544 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old and had failed therapy with at least one disease-modifying, anti-rheumatic drugs.
 Doses of 20 or 40 mg of Humira were given by subcutaneous injection every other week with placebo on alternative weeks or every week for 26 weeks; placebo was given every week for the same duration.
 No other disease-modifying anti-rheumatic drugs were allowed.
@@ -153,8 +153,8 @@ Psoriatic arthritis
 Humira, 40 mg every other week, was studied in patients with moderately to severely active psoriatic arthritis in two placebo-controlled studies, Studies VI and VII.
 Study VI with 24 week duration, treated 313 adult patients who had an inadequate response to non-steroidal anti-inflammatory drug therapy and of these, approximately 50% were taking methotrexate.
 Study VII with 12-week duration, treated 100 patients who had an inadequate response to DMARD therapy.
-
-There is insufficient evidence of the efficacy of Humira in patients with ankylosing spondylitis-like psoriatic arthropathy due to the small number of patients studied (see Table 7).
+Upon completion of both studies, 383 patients enrolled in an open-label extension study, in which 40 mg Humira was administered eow.
+There is insufficient evidence of the efficacy of Humira in patients with ankylosing spondylitis-like psoriatic arthropathy due to the small number of patients studied.
 
 Table 7: ACR Response in Placebo-Controlled Psoriatic Arthritis Studies
 (Percent of Patients)
@@ -162,8 +162,9 @@ Table 7: ACR Response in Placebo-Controlled Psoriatic Arthritis Studies
 |  | Study VI |  | Study VII |  |
 | --- | --- | --- | --- | --- |
 | Response | Placebo N=162 | Humira N=151 | Placebo N=49 | Humira N=51 |
-| ACR 20 Week 12 Week 24 ACR 50 | 14% 15% | 58%*** 57%*** | 16% N/A | 39%* N/A |
-| Week 12 Week 24 ACR 70 Week 12 Week 24 | 4% 6% | 36%*** 39%*** | 2% N/A | 25%*** N/A |
+| ACR 20 Week 12 | 14% | 58%*** | 16% | 39%* |
+| Week 24 ACR 50 Week 12 Week 24 ACR 70 Week 12 Week 24 | 15% | 57%*** | N/A | N/A |
+|  | 4% 6% | 36%*** 39%*** | 2% N/A | 25%*** N/A |
 |  | 1% 1% | 20%*** 23%*** | 0% N/A | 14% * N/A |
 
 *** p < 0.001 for all comparisons between Humira and placebo
@@ -171,7 +172,18 @@ Table 7: ACR Response in Placebo-Controlled Psoriatic Arthritis Studies
 N/A not applicable
 
 ACR responses in Study VI were similar with and without concomitant methotrexate therapy.
-Humira treated patients demonstrated improvement in physical function as assessed by HAQ and Short Form Health Survey (SF 36), from base-line to week 24.
+ACR responses were maintained in the open-label extension study for up to 136 weeks.
+
+Radiographic changes were assessed in the psoriatic arthritis studies.
+Radiographs of hands, wrists, and feet were obtained at baseline and Week 24 during the double-blind period when patients were on Humira or placebo and at Week 48 when all patients were on open-label Humira.
+A modified Total Sharp Score (mTSS), which included distal interphalangeal joints (i.e., not identical to the TSS used for rheumatoid arthritis), was used.
+
+Humira treatment reduced the rate of progression of peripheral joint damage compared with placebo treatment as measured by change from baseline in mTSS score (mean + SD) 0.8 ± 2.5 in the placebo group (at week 24) compared with 0.0 ± 1.9 in the Humira group (at week 48); p< 0.001).
+
+In subjects treated with Humira with no radiographic progression from baseline to Week 48 (n=102), 84% continued to show no radiographic progression through 144 weeks of treatment.
+
+Humira treated patients demonstrated statistically significant improvement in physical function as assessed by HAQ and Short Form Health Survey (SF 36) compared to placebo at week 24.
+Improved physical function continued during the open label extension up to week 136.
 
 Ankylosing spondylitis
 
@@ -205,6 +217,7 @@ Table 8 - Efficacy Responses in Placebo-Controlled AS Study – Study VIII Reduc
 | Week 24 | 15% | 42%*** |
 
 ***,** Statistically significant at p < 0.001, < 0.01 for all comparisons between Humira and placebo at Weeks 2, 12 and 24 a ASsessments in Ankylosing Spondylitis b Bath Ankylosing Spondylitis Disease Activity Index
+
 Humira treated patients had significantly greater improvement at Week 12 which was maintained through Week 24 in both the SF36 and Ankylosing Spondylitis Quality of Life Questionnaire (ASQoL).
 
 Similar trends (not all statistically significant) were seen in the smaller randomised, double − blind, placebo controlled study (IX) of 82 adult patients with active ankylosing spondylitis.
@@ -227,7 +240,6 @@ Patients in clinical response (decrease in CDAI ≥ 70) at week 4 were stratifie
 Corticosteroid taper was permitted after week 8.
 
 CLASSIC I and GAIN induction of remission and response rates are presented in Table 9.
-
 Table 9: Induction of Clinical Remission and Response
 (Percent of Patients)
 
@@ -248,6 +260,7 @@ In CHARM, at week 4, 58% (499/854) of patients were in clinical response and wer
 Of those in clinical response at week 4, 48% had been previously exposed to other anti-TNF therapy.
 Maintenance of remission and response rates are presented in Table 10.
 Clinical remission results remained relatively constant irrespective of previous TNF antagonist exposure.
+
 Table 10: Maintenance of Clinical Remission and Response
 (Percent of Patients)
 
@@ -342,13 +355,6 @@ Because immunogenicity analyses are product-specific, comparison of antibody rat
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-|  | Study VI |  | Study VII |  |
-| --- | --- | --- | --- | --- |
-| Response | Placebo N=162 | Humira N=151 | Placebo N=49 | Humira N=51 |
-| ACR 20 Week 12 Week 24 | 14% 15% | 58%*** 57%*** | 16% N/A | 39%* N/A |
-| ACR 50 Week 12 Week 24 ACR 70 Week 12 Week 24 | 4% 6% | 36%*** 39%*** | 2% N/A | 25%*** N/A |
-|  | 1% 1% | 20%*** 23%*** | 0% N/A | 14% * N/A |
-
 Subjects (n=215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20 received early escape open-label adalimumab 40 mg every other week subcutaneously and were subsequently treated as non-responders in the double-blind statistical analyses.
 
 |  | CLASSIC I: Infliximab Naive Patients |  |  | GAIN: Infliximab Experienced Patients |  |
@@ -362,6 +368,15 @@ Subjects (n=215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20 r
 
 .
 
+Improved physical function continued during the open label extension up to week 136.Ankylosing spondylitis
+
 [Humira 40 mg solution for injection in pre-filled pen]
+
+|  | Study VI |  | Study VII |  |
+| --- | --- | --- | --- | --- |
+| Response | Placebo N=162 | Humira N=151 | Placebo N=49 | Humira N=51 |
+| ACR 20 Week 12 Week 24 | 14% 15% | 58%*** 57%*** | 16% N/A | 39%* N/A |
+| ACR 50 Week 12 Week 24 ACR 70 Week 12 Week 24 | 4% 6% | 36%*** 39%*** | 2% N/A | 25%*** N/A |
+|  | 1% 1% | 20%*** 23%*** | 0% N/A | 14% * N/A |
 
 In patients with Crohn’s disease, anti-dalimumab antibodies were identified in 7/269 subjects (2.6%) treated with adalimumab.
