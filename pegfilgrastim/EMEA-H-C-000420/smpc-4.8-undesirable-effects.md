@@ -19,7 +19,7 @@ Some of the reported cases have resulted in respiratory failure or Adult Respira
 
 Rare (≥ 1/10,000 to < 1/1,000) cases of thrombocytopenia and leukocytosis have been reported.
 
-Very rare (< 1/10,000) cases of Sweet’s syndrome have been reported, although in some cases underlying haematological malignancies may play a role.
+Rare (≥ 1/10,000 to < 1/1,000) cases of Sweet’s syndrome have been reported, although in some cases underlying haematological malignancies may play a role.
 
 Very rare (< 1/10,000) events of cutaneous vasculitis have been reported in patients treated with Neulasta.
 The mechanism of vasculitis in patients receiving Neulasta is unknown.
