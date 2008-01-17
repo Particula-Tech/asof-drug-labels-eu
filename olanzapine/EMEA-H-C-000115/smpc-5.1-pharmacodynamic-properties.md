@@ -17,7 +17,6 @@ In addition, a SPECT imaging study in schizophrenic patients revealed that olanz
 In two of two placebo and two of three comparator controlled trials with over 2,900 schizophrenic patients presenting with both positive and negative symptoms, olanzapine was associated with statistically significantly greater improvements in negative as well as positive symptoms.
 
 In a multinational, double-blind, comparative study of schizophrenia, schizoaffective, and related disorders which included 1,481 patients with varying degrees of associated depressive symptoms (baseline mean of 16.6 on the Montgomery-Asberg Depression Rating Scale), a prospective secondary analysis of baseline to endpoint mood score change demonstrated a statistically significant improvement (p=0.001) favouring olanzapine (-6.0) versus haloperidol (-3.1).
-
 In patients with a manic or mixed episode of bipolar disorder, olanzapine demonstrated superior efficacy to placebo and valproate semisodium (divalproex) in reduction of manic symptoms over 3 weeks.
 Olanzapine also demonstrated comparable efficacy results to haloperidol in terms of the proportion of patients in symptomatic remission from mania and depression at 6 and 12 weeks.
 In a co-therapy study of patients treated with lithium or valproate for a minimum of 2 weeks, the addition of olanzapine 10 mg (co-therapy with lithium or valproate) resulted in a greater reduction in symptoms of mania than lithium or valproate monotherapy after 6 weeks.
@@ -58,7 +57,6 @@ Animal behavioural studies with olanzapine indicated 5HT, dopamine, and choliner
 Olanzapine demonstrated a greater in-vitro affinity for serotonin 5-HT2 than dopamine D2 receptors and greater 5-HT2 than D2 activity in vivo, models.
 
 In a single oral dose (10 mg) Positron Emission tomography (PET) study in healthy volunteers, olanzapine produced a higher 5-HT2A than dopamine D2 receptor occupancy.
-
 In two of two placebo and two of three comparator controlled trials with oral olanzapine in over 2,900 schizophrenic patients presenting with both positive and negative symptoms, olanzapine was associated with statistically significantly greater improvements in negative as well as positive symptoms.
 
 In a multinational, double-blind, comparative study of schizophrenia, schizoaffective, and related disorders which included 1,481 patients with varying degrees of associated depressive symptoms (baseline mean of 16.6 on the Montgomery-Asberg Depression Rating Scale), a prospective secondary analysis of baseline to endpoint mood score change demonstrated a statistically significant improvement (p=0.001) favouring oral olanzapine (-6.0) versus haloperidol (-3.1).

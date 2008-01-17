@@ -21,7 +21,6 @@ In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy s
 A mass balance study showed that approximately 57 % of radiolabelled olanzapine appeared in urine, principally as metabolites.
 
 In smoking subjects with mild hepatic dysfunction, mean elimination half-life (39.3 hr) was prolonged and clearance (18.0 l/hr) was reduced analogous to non-smoking healthy subjects (48.8 hr and 14.1 l/hr, respectively).
-
 In non-smoking versus smoking subjects (males and females) the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
 
 The plasma clearance of olanzapine is lower in elderly versus young subjects, in females versus males, and in non-smokers versus smokers.
@@ -67,6 +66,7 @@ Additional pharmacokinetic data following administration of oral olanzapine are 
 Olanzapine is metabolised in the liver by conjugative and oxidative pathways.
 
 In healthy elderly (65 and over) versus non-elderly subjects administered oral olanzapine, the mean elimination half-life was prolonged (51.8 versus 33.8 hr) and the clearance was reduced (17.5 versus 18.2 l/hr).
+
 In female versus male subjects administered oral olanzapine the mean elimination half life was somewhat prolonged (36.7 versus 32.3 hrs) and the clearance was reduced (18.9 versus 27.3 l/hr).
 
 In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy subjects administered oral olanzapine, there was no significant difference in mean elimination half-life (37.7 versus 32.4 hr) or clearance (21.2 versus 25.0 l/hr).

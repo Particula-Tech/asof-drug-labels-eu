@@ -1,11 +1,11 @@
 # 4.4 Special warnings and precautions for use
 
-Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been reported very rarely, including some fatal cases.
+Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been reported rarely, including some fatal cases (see section 4.8).
 In some cases, a prior increase in body weight has been reported which may be a predisposing factor.
-Appropriate clinical monitoring is advisable particularly in diabetic patients and in patients with risk factors for the development of diabetes mellitus.
+Appropriate clinical monitoring is advisable particularly in diabetic patients and in patients with risk factors for the development of diabetes mellitus for which regular glucose control is recommended.
 
-Undesirable alterations in lipids have been observed in olanzapine-treated patients in placebo-controlled clinical trials (see section 4.8 Undesirable effects).
-Lipid alterations should be managed as clinically appropriate.
+Undesirable alterations in lipids have been observed in olanzapine-treated patients in placebo-controlled clinical trials (see section 4.8).
+Lipid alterations should be managed as clinically appropriate, particularly in dyslipidemic patients and in patients with risk factors for the development of lipids disorders.
 
 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely (<0.01%) when olanzapine is stopped abruptly.
 Gradual dose reduction should be considered when discontinuing olanzapine.
@@ -17,7 +17,6 @@ The use of olanzapine in the treatment of dopamine agonist associated psychosis 
 In clinical trials, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo (see also 4.8 Undesirable effects), and olanzapine was not more effective than placebo in the treatment of psychotic symptoms.
 In these trials, patients were initially required to be stable on the lowest effective dose of anti-Parkinsonian medications (dopamine agonist) and to remain on the same anti-Parkinsonian medications and dosages throughout the study.
 Olanzapine was started at 2.5 mg/day and titrated to a maximum of 15 mg/day based on investigator judgement.
-
 Olanzapine is not approved for the treatment of dementia-related psychosis and/or behavioural disturbances and is not recommended for use in this particular group of patients because of an increase in mortality and the risk of cerebrovascular accident.
 In placebo-controlled clinical trials (6-12 weeks duration) of elderly patients (mean age 78 years) with dementia-related psychosis and/or disturbed behaviours, there was a 2-fold increase in the incidence of death in olanzapine-treated patients compared to patients treated with placebo (3.5% vs. 1.5% , respectively).
 The higher incidence of death was not associated with olanzapine dose (mean daily dose 4.4 mg) or duration of treatment.
@@ -53,7 +52,6 @@ If a patient develops signs and symptoms indicative of NMS, or presents with une
 Olanzapine should be used cautiously in patients who have a history of seizures or are subject to factors which may lower the seizure threshold.
 Seizures have been reported to occur rarely in patients when treated with olanzapine.
 In most of these cases, a history of seizures or risk factors for seizures were reported.
-
 Tardive Dyskinesia: In comparator studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.
 However the risk of tardive dyskinesia increases with long term exposure, and therefore if signs or symptoms of tardive dyskinesia appear in a patient on olanzapine, a dose reduction or discontinuation should be considered.
 These symptoms can temporally deteriorate or even arise after discontinuation of treatment.

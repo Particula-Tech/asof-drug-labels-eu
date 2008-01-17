@@ -15,8 +15,8 @@ A lower starting dose of olanzapine should be considered in patients who are usi
 A decrease in the dose of olanzapine should be considered if treatment with an inhibitor of CYP1A2 is initiated.
 
 Decreased bioavailability: Activated charcoal reduces the bioavailability of oral olanzapine by 50 to 60% and should be taken at least 2 hours before or after olanzapine.
-
 Fluoxetine (a CYP2D6 inhibitor), single doses of antacid (aluminium, magnesium) or cimetidine have not been found to significantly affect the pharmacokinetics of olanzapine.
+
 Potential for olanzapine to affect other medicinal products: Olanzapine may antagonise the effects of direct and indirect dopamine agonists.
 
 Olanzapine does not inhibit the main CYP450 isoenzymes in vitro (e.g. 1A2, 2D6, 2C9, 2C19, 3A4).
