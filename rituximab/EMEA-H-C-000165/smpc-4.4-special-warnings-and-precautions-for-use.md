@@ -25,6 +25,7 @@ Clinical manifestations of anaphylaxis may appear similar to clinical manifestat
 Reactions attributed to hypersensitivity have been reported less frequently than those attributed to cytokine release.
 
 Since hypotension may occur during MabThera infusion, consideration should be given to withholding anti-hypertensive medicines 12 hours prior to the MabThera infusion.
+
 Angina pectoris, or cardiac arrhythmias such as atrial flutter and fibrillation heart failure or myocardial infarction have occurred in patients treated with MabThera.
 Therefore patients with a history of cardiac disease and/or cardiotoxic chemotherapy should be monitored closely.
 
@@ -61,6 +62,7 @@ Medicinal products for the treatment of hypersensitivity reactions, e.g., epinep
 The presence of HACA may be associated with worsening infusion or allergic reactions after the second infusion of subsequent courses (see section 5.1).
 
 In clinical studies 10/990 (1 %) patients with rheumatoid arthritis who received a first infusion of MabThera at any dose experienced a serious reaction during the infusion (see section 4.8).
+
 There are no data on the safety of MabThera in patients with moderate heart failure (NYHA class III) or severe, uncontrolled cardiovascular disease.
 In patients treated with MabThera, the occurrence of pre-existing ischemic cardiac conditions becoming symptomatic, such as angina pectoris, has been observed, as well as atrial fibrillation and flutter.
 Therefore, in patients with a known cardiac history, the risk of cardiovascular complications resulting from infusion reactions should be considered before treatment with MabThera and patients closely monitored during administration.

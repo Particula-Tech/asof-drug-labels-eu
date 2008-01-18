@@ -51,52 +51,35 @@ Two patients were re-treated twice in the study.
 For the 60 re-treatments on study, the ORR was 38 % (CI95 % 26 % – 51 %; 10 % CR, 28 % PR) with a projected median TTP for responding patients of 17.8 months (range 5.4 – 26.6).
 This compares favourably with the TTP achieved after the prior course of MabThera (12.4 months).
 
-Initial treatment, in combination with CVP
+Initial treatment, in combination with chemotherapy
 
-In an open-label randomised trial, a total of 322 previously untreated low-grade or follicular B cell NHL patients were randomised to receive either CVP chemotherapy (cyclophosphamide 750 mg/m2, vincristine 1.4 mg/m2 up to a maximum of 2 mg on day 1, and prednisolone 40 mg/m2/day on days 1 -5) every 3 weeks for 8 cycles or MabThera 375 mg/m2 in combination with CVP (R-CVP).
+In an open-label randomised trial, a total of 322 previously untreated patients with follicular lymphoma were randomised to receive either CVP chemotherapy (cyclophosphamide 750 mg/m2, vincristine 1.4 mg/m2 up to a maximum of 2 mg on day 1, and prednisolone 40 mg/m2/day on days 1 -5) every 3 weeks for 8 cycles or MabThera 375 mg/m2 in combination with CVP (R-CVP).
 MabThera was administered on the first day of each treatment cycle.
 A total of 321 patients (162 R-CVP, 159 CVP) received therapy and were analysed for efficacy.
-At the time of the final analysis, the median observation time was 18 months.
-R-CVP led to a significant benefit over CVP for the primary endpoint, time to treatment failure (25.9 months vs. 6.7 months, p < 0.0001, log-rank test).
-The risk of experiencing a treatment failure event was reduced by 67 % (95 % CI: 56 % - 76 %) with R-CVP compared with CVP alone, using a Cox regression analysis.
-The Kaplan-Meier estimated event free rate at 12 months was 69 % in the R-CVP group compared with 32 % in the CVP group.
+The median follow up of patients was 53 months.
+R-CVP led to a significant benefit over CVP for the primary endpoint, time to treatment failure (27 months vs. 6.6 months, p < 0.0001, log-rank test).
 The proportion of patients with a tumour response (CR, CRu, PR) was significantly higher (p< 0.0001 Chi-Square test) in the R-CVP group (80.9 %) than the CVP group (57.2 %).
-At 18 months, the median duration of response had not been reached in the R-CVP group and was 9.8 months in the CVP group (p < 0.0001, log-rank test).
-Amongst responding patients, Cox regression analysis showed that the risk of relapse was reduced by 70 % (95 % CI: 55 % - 81 %) in the R-CVP group compared to the CVP group.
+Treatment with R-CVP significantly prolonged the time to disease progression or death compared to CVP, 33.6 months and 14.7 months, respectively (p
+< 0.0001, log-rank test).
+The median duration of response was 37.7 months in the R-CVP group and was 13.5 months in the CVP group (p < 0.0001, log-rank test).
+The difference between the treatment groups with respect to overall survival showed a significant clinical difference (p=0.029, log-rank test stratified by center): survival rates at 53 months were 80.9 % for patients in the R-CVP group compared to 71.1 % for patients in the CVP group
 
-The time to institution of new lymphoma treatment or death was significantly longer in the R-CVP group (not estimable), compared to the CVP group (12.3 months) (p < 0.0001, log-rank test).
-Treatment with R-CVP significantly prolonged the time to disease progression or death compared to CVP, 27 months and 14.5 months, respectively.
-At 12 months, 81 % in the R-CVP group had not relapsed compared to 58 % of patients receiving CVP.
+Results from three other randomized trials using MabThera/Rituxan in combination with chemotherapy regimen other than CVP (CHOP, MCP, CHVP/Interferon-α) have also demonstrated significant improvements in response rates, time-dependent parameters as well as in overall survival .
+Key results from all four studies are summarized in table 7.
 
-A subsequent analysis of the primary and all secondary parameters, carried out with a median observation time of approximately 42 months, confirmed the benefit of R-CVP over CVP (Table 7).
-Table 7 Overview of updated efficacy results of CVP vs R-CVP (42 months median observation time)
+Table 7 Summary of key results from four phase III randomized studies evaluating the benefit of MabThera with different chemotherapy regimens in follicular lymphoma
 
-|  | Kaplan-Meier Estimate of Median Time to Event (months)§ |  |  | Treatment Effect+ |
-| --- | --- | --- | --- | --- |
-|  | CVP | R-CVP | Log-Rank p value |  |
-| Median Observation Time (months) | 41.3 | 42.1 |  |  |
+| Study | Treatment, n | Median FU, months | ORR, % | CR, % | Median TTF/PFS/ EFS mo | OS rates, % |
+| --- | --- | --- | --- | --- | --- | --- |
+| M39021 | CVP, 159 R-CVP, 162 | 53 | 57 81 | 10 41 | Median TTP: 14.7 33.6 P<0.0001 | 53-months 71.1 80.9 p=0.029 |
+| GLSG’00 | CHOP, 205 R-CHOP, 223 | 18 | 90 96 | 17 20 | Median TTF: 2.6 years Not reached p < 0.001 | 18-months 90 95 p = 0.016 |
+| OSHO-39 | MCP, 96 R-MCP, 105 | 47 | 75 92 | 25 50 | Median PFS: 28.8 Not reached p < 0.0001 | 48-months 74 87 p = 0.0096 |
+| FL2000 | CHVP-IFN, 183 R-CHVP-IFN, 175 | 42 | 85 94 | 49 76 | Median EFS: 36 Not reached p < 0.0001 | 42-months 84 91 p = 0.029 |
 
-Primary Efficacy Parameter
-
-TTF 6.6 27.0 < 0.0001 66 %
-
-Secondary Efficacy Parameters
-
-| Time to disease progression or deathX Overall Survival Overall Tumour Response (CR, CRu, PR)* Duration of Response Disease-Free Survival Time to new lymphoma treatment or death | 14.5 | 33.6 | < 0.0001 | 58 % |
-| --- | --- | --- | --- | --- |
-|  | NR 57 % | NR 81 % | 0.0700 < 0.0001** | 38% 3.2*** |
-|  | 13.5 20.5 12.3 | 37.7 44.8 46.3 | < 0.0001 0.0005 < 0.0001 | 65 % 71 % 63 % |
-
-§ According to investigator’s assessment, all data stratified by center
-+ Treatment effect: for event-free parameters, estimates were calculated by risk reduction; for tumour response, odds ratio was used.
-NR: not reached since the Kaplan-Meier estimates of event-free rates were above 50% during the entire observation period of the study
-X Defined as a secondary efficacy parameter in amendment G of the protocol
-* Overall response rate is calculated from the tumour response as assessed at the end of trial treatment ** chi-square test; *** odds ratio
-Abbreviations: NR, not reached; TTF: time to treatment failure; CR: complete response; CRu: complete response unconfirmed; PR: partial response.
-
-The rate of cause-specific deaths (death due to lymphoma) was significantly lower in the R-CVP arm when compared to the CVP arm (p=0.02 with stratification by center, log-rank test; 3-year event free rate 93 % for R-CVP versus 85 % for CVP).
-
-The benefit of adding rituximab to CVP was seen consistently throughout the population recruited in study M39021 (randomised according to BNLI criteria (no versus yes), age (≤ 60 years, > 60 years), number of extra-nodal sites (0-1 versus > 1), bone marrow involvement (no versus yes), LDH (elevated, not elevated), β2-microglobulin (elevated, not elevated), B symptoms (absent, present), bulky disease (absent, present), number of nodal sites (< 5 versus ≥ 5), haemoglobin (≤ 12 g/dL versus > 12 g/dL), IPI (≤ 1 versus > 1), and FLIPI index (0-2 versus 3-5)).
+TTP – Time to progression or death
+PFS – Progression-Free Survival
+TTF – Time to Treatment Failure
+OS rates – survival rates at the time of the analyses
 
 Maintenance therapy
 
@@ -107,14 +90,11 @@ MabThera maintenance treatment consisted of a single infusion of MabThera at 375
 
 The final efficacy analysis included all patients randomized to both parts of the study.
 After a median observation time of 31 months for patients randomised to the induction phase, R-CHOP significantly improved the outcome of patients with relapsed/refractory follicular NHL when compared to CHOP (see Table 8).
-
 Table 8 Induction phase: overview of efficacy results for CHOP vs R-CHOP (31 months median observation time)
 
-| CHOP | R-CHOP | p-value |
-| --- | --- | --- |
-| 74 % 16 % 58 % | 87 % 29 % 58 % | 0.0003 0.0005 0.9449 |
-
-Primary Efficacy
+|  | CHOP | R-CHOP | p-value | Risk Reduction1) |
+| --- | --- | --- | --- | --- |
+| Primary Efficacy ORR2) CR2) PR2) | 74 % 16 % 58 % | 87 % 29 % 58 % | 0.0003 0.0005 0.9449 | na na na |
 
 1) Estimates were calculated by hazard ratios
 2) Last tumour response as assessed by the investigator.
@@ -127,6 +107,7 @@ Using a cox regression analysis, the risk of experiencing progressive disease or
 Kaplan-Meier estimated progression-free rates at 12 months were 78 % in the MabThera maintenance group vs 57 % in the observation group.
 An analysis of overall survival confirmed the significant benefit of MabThera maintenance over observation (p=0.0039 log-rank test).
 MabThera maintenance treatment reduced the risk of death by 56 % (95 % CI; 22 %-75 %).
+
 Table 9 Maintenance phase: overview of efficacy results MabThera vs. observation (28 months median observation time)
 
 | Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
@@ -191,6 +172,7 @@ Disease Activity Outcomes
 In all three studies, rituximab 2 x 1000 mg significantly increased the proportion of patients achieving at least a 20 % improvement in ACR score compared with patients treated with methotrexate alone (Table 10).
 The treatment effect was similar in patients independent of rheumatoid factor status, age, gender, body surface area, race, number of prior treatments or disease status.
 Clinically and statistically significant improvement was also noted on all individual components of the ACR response (tender and swollen joint counts, patient and physician global assessment, disability index scores (HAQ), pain assessment and CRP (mg/dL).
+
 Table 10 Cross-Study Comparison of ACR Responses at Week 24 (ITT Population)
 
 |  | ACR Response | Placebo+MTX | Rituximab+MTX |
@@ -208,7 +190,6 @@ In study 3, the ACR20 response in patients treated with rituximab alone was 65 %
 
 Rituximab treated patients had a significantly greater reduction in disease activity score (DAS28) than patients treated with methotrexate alone (Mean change in DAS28 from baseline -1.9 vs -0.4, p<0.0001, respectively).
 A good to moderate EULAR response was achieved by significantly more rituximab treated patients compared to patients treated with methotrexate alone (Table 12).
-
 Radiographic Response
 
 In Study 1, conducted in patients with inadequate response or intolerance to one or more TNF inhibitor therapies, structural joint damage was assessed radiographically and expressed as change in modified total Sharp score and its components, the erosion score and joint space narrowing score.
@@ -227,6 +208,7 @@ Table 11 Radiographic mean changes over 56 weeks in Study 1
 | Proportion of patients with no erosive progression over 56 weeks | 52% | 61% p=0.0494 |
 
 Quality of Life Outcomes
+
 Significant reductions in disability index (HAQ-DI), fatigue (FACIT-F) (Table 12), and improvement in both the physical and mental health domains of the SF-36 were observed in patients treated with rituximab compared to patients treated with methotrexate alone (SF-36 Physical 5.8 vs 0.9, SF-36 Mental 4.7 vs 1.3, respectively, Study 1).
 
 Table 12 Disease Activity and Quality of Life Outcomes at Week 24 in Study 1
@@ -247,7 +229,6 @@ A total of 96/1039 (9.2 %) patients with rheumatoid arthritis tested positive fo
 The emergence of HACA was not associated with clinical deterioration or with an increased risk of reactions to subsequent infusions in the majority of patients.
 The presence of HACA may be associated with worsening of infusion or allergic reactions after the second infusion of subsequent courses.
 Furthermore, in one case with HACA, failure to deplete B cells after receipt of further treatment courses has been observed.
-
 In 675 patients in clinical studies, the following shifts in anti-nuclear antibody (ANA) status were observed before and after rituximab: 26 % ANA negative to positive and 32 % ANA positive to negative.
 There was no evidence of new onset autoimmune disease.
 
@@ -270,6 +251,10 @@ Mean change in DAS28 from original baseline: first course -2.18, second course -
 
 [MabThera 500 mg concentrate for solution for infusion.]
 
-NR: not reached since the Kaplan-Meier estimates of event-free rates were above 50 % during the entire observation period of the study
+| CHOP | R-CHOP | p-value |
+| --- | --- | --- |
+| 74 % 16 % 58 % | 87 % 29 % 58 % | 0.0003 0.0005 0.9449 |
+
+Primary Efficacy
 
 During this time 81% of patients from the original placebo group received rituximab between weeks 24 and 56, under an open label extension study protocol.

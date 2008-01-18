@@ -44,6 +44,7 @@ Table 1 Summary of adverse events reported in ≥ 1 % of 356 non-Hodgkin’s Lym
 | Digestive system |  |  |
 | Nausea | 17.1 | 0.3 |
 | Vomiting | 6.7 | 0.3 |
+| Body system Adverse event | % | % |
 | Diarrhoea | 4.2 | - |
 | Dyspepsia | 2.8 | - |
 | Anorexia | 2.8 | - |
@@ -52,7 +53,6 @@ Table 1 Summary of adverse events reported in ≥ 1 % of 356 non-Hodgkin’s Lym
 | Constipation | 1.1 | - |
 | Blood and lymphatic system |  |  |
 | Leucopenia | 12.4 | 2.8 |
-| Body system Adverse event | % | % |
 | Neutropenia | 11.2 | 4.2 |
 | Thrombocytopenia | 9.6 | 1.7 |
 | Anaemia | 3.7 | 1.1 |
@@ -133,13 +133,13 @@ The incidence of any adverse event was similar in these two groups (92.3 % in bu
 
 Re-treatment
 The percentage of patients reporting any adverse event and grade 3 and 4 adverse events upon re-treatment (N=60) with further courses of MabThera was similar to the percentage of patients reporting any adverse event and grade 3 and 4 adverse events upon initial exposure (N=203) (95.0 % versus 89.7 % for any adverse event and 13.3 % versus 14.8 % for grade 3 and 4 adverse events).
-
 Adverse reactions reported in other monotherapy clinical trials
 One case of serum sickness has been reported in a clinical trial using MabThera monotherapy for treatment of diffuse large B cell lymphoma.
 
-In combination with CVP chemotherapy
+In combination with CVP chemotherapyin follicular lymphoma
 
-The following data are based on 321 patients from a randomised phase III clinical trial comparing MabThera plus CVP (R-CVP) to CVP alone (162 R-CVP, 159 CVP).
+The following data are based on 321 previously untreated patients with follicular lymphoma from a randomised phase III clinical trial comparing MabThera plus CVP (R-CVP) to CVP alone (162 R-CVP, 159 CVP).
+
 Differences between the treatment groups with respect to the type and incidence of adverse event were mainly accounted for by typical adverse events associated with MabThera monotherapy.
 
 The following grade 3 to 4 clinical adverse events were reported in ≥ 2 % higher incidence in patients receiving R-CVP compared to CVP treatment group and therefore may be attributable to R-CVP.
@@ -171,13 +171,16 @@ No relevant difference between the two treatment arms was observed with respect 
 Cardiac events
 The overall incidence of cardiac disorders in the safety population was low (4 % R-CVP, 5 % CVP), with no relevant differences between the treatment groups.
 
-Maintenance therapy
+In combination with other chemotherapies in follicular lymphoma
+The safety profile for MabThera in combination with other chemotherapies (e.g. CHOP, MCP, CHVP-IFN) is comparable to the safety profile as described for the combination of MabThera and CVP.
+Maintenance therapy in follicular lymphoma
 
 The following data are from a phase III clinical trial where patients with relapsed or refractory follicular non-Hodgkin’s Lymphoma were randomised in a first phase to induction treatment with CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone) or MabThera plus CHOP (R-CHOP).
 Patients who responded to induction treatment with CHOP or R-CHOP were randomised in a second phase to receive no further treatment (observation) or MabThera maintenance treatment.
 MabThera maintenance treatment consisted of a single infusion of MabThera at 375 mg/m2 body surface area administered every 3 months for a maximum period of 2 years or until disease progression.
 
 In the induction phase of the trial, a total of 462 patients (228 on CHOP, 234 on R-CHOP) contributed to the safety evaluation of the two induction regimens.
+
 Table 2 Induction phase: summary of grade 3 and 4 adverse events reported in ≥2 % of 462 non-Hodgkin’s Lymphoma patients in either group (CHOP or R-CHOP)
 
 | MedDRA System Organ Class Adverse Event | Incidence N (%) |  |
@@ -217,6 +220,8 @@ Table 2 Induction phase: summary of grade 3 and 4 adverse events reported in ≥
 | Metabolism and nutrition disorders |  |  |
 | Hyperglycaemia | 5 (2) | 4 (2) |
 | Immune system disorders |  |  |
+|  | CHOP | R-CHOP |
+| Any adverse event | 152 (67) | 185 (79) |
 | Hypersensitivity* | - | 10 (4) |
 | Cardiac disorders |  |  |
 | Cardiac disorder | 6 (3) | 2 (< 1) |
@@ -225,6 +230,7 @@ Table 2 Induction phase: summary of grade 3 and 4 adverse events reported in ≥
 
 A total of 332 patients (166 observation, 166 rituximab) were included in the safety evaluation of the maintenance phase of the study.
 MabThera was given at a dose of 375 mg/m2 body surface area once every 3 months until disease progression or for a maximum period of two years.
+
 Table 3 Maintenance phase: summary of grade 3 and 4 adverse events reported in ≥ 2% of 332 non-Hodgkin’s Lymphoma patients in either treatment group (observation or MabThera maintenance)
 
 | MedDRA System Organ Class Adverse Event | Incidence N (%) |  |
@@ -266,6 +272,7 @@ Leucopenia (all grades) occurred in 21 % of patients on observation vs 29 % of p
 There was a higher incidence of grade 3-4 neutropenia (observation 4 %, MabThera 10 %) and leucopenia (observation 2 %, MabThera 5 %) in the MabThera arm compared to the observation arm.
 The incidence of grade 3 to 4 thrombocytopenia (observation 1 %, MabThera
 < 1 %) was low.
+
 Cardiac disorders
 The incidence of grade 3 to 4 cardiac disorders was comparable between the two treatment groups
 (4 % in observation, 5 % in MabThera).
@@ -284,7 +291,6 @@ In combination with CHOP chemotherapy
 The following table shows grade 3 to 4 clinical adverse events, including grade 2 infections, from a randomised phase III clinical trial comparing MabThera plus CHOP (R-CHOP) to CHOP alone in a safety population of 398 patients.
 Events shown were reported at a greater than 2 % higher incidence with R-CHOP when compared to CHOP alone and therefore may be attributable to R-CHOP (absolute incidence cut off at 2 %).
 Adverse events were graded according to the four-scale National Cancer Institute of Canada (NCIC) Common Toxicity Criteria.
-
 Table 4 Excess incidence (≥ 2 %) of grade 3 and 4 adverse events (including grade 2 infections) with R-CHOP compared with CHOP (overall cut off of 2 %) in non-Hodgkin’s Lymphoma patients
 
 |  | R-CHOP | CHOP |
@@ -310,6 +316,7 @@ Grade 3 and 4 infusion-related reactions (defined as starting during or within o
 The incidence of grade 3 and 4 infusion-related reactions decreased to less than 1 % by the eighth cycle of R-CHOP.
 The signs and symptoms were consistent with those observed during monotherapy (see section 4.4 and 4.8, Undesirable effects, monotherapy), and included fever, chills, hypotension, hypertension, tachycardia, dyspnoea, bronchospasm, nausea, vomiting, pain and features of tumour lysis syndrome.
 Additional reactions reported in isolated cases at the time of R-CHOP therapy were myocardial infarction, atrial fibrillation and pulmonary oedema.
+
 Infections
 The proportion of patients with grade 2 to 4 infections and/or febrile neutropenia was 55.4 % in the R-CHOP group and 51.5 % in the CHOP group.
 Febrile neutropenia (i.e. no report of concomitant documented infection) was reported only during the treatment period, in 20.8 % in the R-CHOP group and 15.3 % in the CHOP group.
@@ -421,7 +428,6 @@ Post-marketing experience
 As part of the continuing post-marketing surveillance of MabThera safety, the following serious adverse reactions have been observed:
 
 non-Hodgkin’s Lymphoma
-
 Table 6 Serious adverse reactions observed during post-marketing surveillance
 
 | Infections and infestations |  |
@@ -509,10 +515,10 @@ In the majority of these cases, rituximab was administered with chemotherapy.
 | Dysphagia | 1.4 | 0.3 |
 | Stomatitis | 1.4 | - |
 | Constipation | 1.1 | - |
+| Body system Adverse event | % | % |
 | Blood and lymphatic system |  |  |
 | Leucopenia | 12.4 | 2.8 |
 | Neutropenia | 11.2 | 4.2 |
-| Body system Adverse event | % | % |
 | Thrombocytopenia | 9.6 | 1.7 |
 | Anaemia | 3.7 | 1.1 |
 | Metabolic and nutritional disorders |  |  |
@@ -554,6 +560,49 @@ In the majority of these cases, rituximab was administered with chemotherapy.
 | Conjunctivitis | 1.4 | - |
 | Ear pain | 1.1 | - |
 | Tinnitus | 1.1 | - |
+
+In combination with CVP chemotherapy in follicular lymphoma
+
+| MedDRA System Organ Class Adverse Event | Incidence N (%) |  |
+| --- | --- | --- |
+|  | CHOP | R-CHOP |
+| Any adverse event | 152 (67) | 185 (79) |
+| Gastrointestinal disorders |  |  |
+| Nausea* | 9 (4) | 13 (6) |
+| Vomiting | 8 (4) | 7 (3) |
+| Abdominal pain | 6 (3) | 4 (2) |
+| Diarrhoea | 5 (2) | 6 (3) |
+| Constipation* | 1 (< 1) | 7 (3) |
+| Stomatitis | 1 (< 1) | 4 (2) |
+| Blood and lymphatic system disorders |  |  |
+| Neutropenia* | 108 (47) | 129 (55) |
+| Leucopenia | 106 (46) | 111 (47) |
+| Thrombocytopenia | 18 (8) | 17 (7) |
+| Febrile neutropenia* | 8 (4) | 14 (6) |
+| Haematotoxicity | 12 (5) | 9 (4) |
+| Anaemia | 5 (2) | 6 (3) |
+| General and administration site conditions |  |  |
+| Asthenia | 10 (4) | 5 (2) |
+| Pyrexia | 6 (3) | 7 (3) |
+| Nervous system disorders |  |  |
+| Sensory disturbance | 4 (2) | 7 (3) |
+| Skin and subcutaneous tissue disorders |  |  |
+| Alopecia* | 15 (7) | 30 (13) |
+| Skin disorder | 2 (<1) | 4 (2) |
+| Infections and infestations |  |  |
+| Neutropenic Infection | 18 (8) | 15 (6) |
+| Sepsis | 5 (2) | 3 (1) |
+| Urinary tract infection | 4 (2) | 3 (1) |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| Dyspnoea | 6 (3) | 3 (1) |
+| Musculoskeletal and connective tissue disorders |  |  |
+| Back pain | 1 (< 1) | 4 (2) |
+| Metabolism and nutrition disorders |  |  |
+| Hyperglycaemia | 5 (2) | 4 (2) |
+| Immune system disorders |  |  |
+| Hypersensitivity* | - | 10 (4) |
+| Cardiac disorders |  |  |
+| Cardiac disorder | 6 (3) | 2 (< 1) |
 
 The proportion of patients with IgG levels below the LLN was about 60 % in the MabThera group throughout the 2 year treatment period, while it decreased in the observation group (36 % after 2 years).
 

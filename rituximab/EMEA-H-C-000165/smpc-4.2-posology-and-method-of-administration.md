@@ -24,23 +24,7 @@ Posology
 
 non-Hodgkin’s lymphoma
 
-Premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing (CHOP or CVP) chemotherapy for treatment of non-Hodgkin’s lymphoma.
-
-Follicular non-Hodgkin's Lymphoma
-The recommended dosage of MabThera used as a single agent for adult patients is 375 mg/m2 body surface area, administered as an IV infusion once weekly for four weeks.
-
-The recommended dosage of MabThera in combination with CVP chemotherapy is 375 mg/m2 body surface area for 8 cycles (21 days/cycle), administered on day 1 of each chemotherapy cycle after IV administration of the glucocorticoid component of CVP.
-
-Retreatment following relapse in non-Hodgkin’s Lymphoma
-Patients who have responded to MabThera initially have been treated again with MabThera at a dose of 375 mg/m2 body surface area, administered as an IV infusion once weekly for four weeks (see section 5.1).
-
-Maintenance treatment
-Patients who have responded to induction treatment may receive maintenance therapy with MabThera given at 375 mg/m2 body surface area once every 3 months until disease progression or for a maximum period of two years.
-
-Diffuse large B cell non-Hodgkin's Lymphoma
-MabThera should be used in combination with CHOP chemotherapy.
-The recommended dosage is 375 mg/m2 body surface area, administered on day 1 of each chemotherapy cycle for 8 cycles after IV administration of the glucocorticoid component of CHOP.
-Safety and efficacy of MabThera have not been established in combination with other chemotherapies.
+Premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing chemotherapy for treatment of non-Hodgkin’s lymphoma.
 
 First infusion
 The recommended initial rate for infusion is 50 mg/hr; after the first 30 minutes, it can be escalated in 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
@@ -50,7 +34,25 @@ Subsequent doses of MabThera can be infused at an initial rate of 100 mg/hr, and
 
 Dosage adjustments during treatment
 No dose reductions of MabThera are recommended.
-When MabThera is given in combination with CHOP or CVP chemotherapy, standard dose reductions for the chemotherapeutic medicinal products should be applied.
+When MabThera is given in combination with chemotherapy, standard dose reductions for the chemotherapeutic medicinal products should be applied.
+
+Follicular non-Hodgkin's Lymphoma
+
+Combination therapy
+The recommended dose of MabThera in combination with chemotherapy for induction treatment of previously untreated or relapsed/ refractory patients with follicular NHL is: 375 mg/m2 body surface area per cycle, for up to 8cycles.
+Mabthera should be administered on day 1 of each chemotherapy cycle, after IV administration of the glucocorticoid component of the chemotherapy if applicable.
+Monotherapy/Maintenance
+The recommended dose of MabThera used as a maintenance treatment for patients with relapsed/refractory follicular NHL who have responded to induction treatment with chemotherapy, with or without MabThera is: 375 mg/m2 body surface area once every 3 months until disease progression or for a maximum period of two years.
+
+The recommended dose of MabThera monotherapy used as induction treatment for adult patients with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy is: 375 mg/m2 body surface area, administered as an IV infusion once weekly for four weeks.
+
+For retreatment with MabThera monotherapy for patients who have responded to previous treatment with MabThera monotherapy for relapsed/refractory follicular NHL, the recommended dose is:
+375 mg/m2 body surface area, administered as an IV infusion once weekly for four weeks (see section 5.1).
+
+Diffuse large B cell non-Hodgkin's Lymphoma
+MabThera should be used in combination with CHOP chemotherapy.
+The recommended dosage is 375 mg/m2 body surface area, administered on day 1 of each chemotherapy cycle for 8 cycles after IV infusion of the glucocorticoid component of CHOP.
+Safety and efficacy of MabThera have not been established in combination with other chemotherapies in diffuse large B cell non-Hodgkin’s Lymphoma..
 
 Rheumatoid Arthritis
 
@@ -75,7 +77,6 @@ The recommended initial rate for infusion is 50 mg/hr; after the first 30 minute
 
 Second infusion of each course
 Subsequent doses of MabThera can be infused at an initial rate of 100 mg/hr, and increased by 100 mg/hr increments at 30 minutes intervals, to a maximum of 400 mg/hr.
-
 Special Populations
 
 Paediatric Use
@@ -83,3 +84,15 @@ MabThera is not recommended for use in children due to a lack of data on safety 
 
 Elderly
 No dose adjustment is required in elderly patients (aged >65 years).
+
+[MabThera 500 mg concentrate for solution for infusion.]
+
+The recommended dose of MabThera in combination with chemotherapy for induction treatment of previously untreated or relapsed/refractory patients with follicular NHL is: 375 mg/m2 body surface area per cycle, for up to 8 cycles.
+MabThera should be administered on day 1 of each chemotherapy cycle after IV administration of the glucocorticoid component of the chemotherapy if applicable.
+The recommended dose of MabThera used as a maintenance treatment for patients with relapsed/refractory NHL who have responded to induction treatment with chemotherapy, with or without Mabthera is: 375 mg/m2 body surface area once every 3 months until disease progression or for a maximum period of two years.
+
+The recommended dose of MabThera monotherapy used as induction treatment for for adult patients.with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy is: 375 mg/m2 body surface area, administered as an IV infusion once weekly for four weeks.
+
+For retreatment with MabThera monotherapy for patients who have responded to to previous treatment with MabThera monotherapy for relapsed/refractory follicular NHL, the recommended dose is:
+
+Safety and efficacy of MabThera have not been established in combination with other chemotherapiesin diffuse large B cell non-Hodgkin's lymphoma
