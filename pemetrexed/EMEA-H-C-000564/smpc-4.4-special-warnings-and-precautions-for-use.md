@@ -42,6 +42,8 @@ Women of childbearing potential must use effective contraception during treatmen
 Cases of radiation pneumonitis have been reported in patients treated with radiation either prior, during or subsequent to their pemetrexed therapy.
 Particular attention should be paid to these patients and caution exercised with use of other radiosensitising agents.
 
+Cases of radiation recall have been reported in patients who received radiotherapy weeks or years previously.
+
 [ALIMTA 500 mg powder for concentrate for solution for infusion]
 
 Particular attention should be paid to these patients and caution exercised with use of other radiosensiting agents.

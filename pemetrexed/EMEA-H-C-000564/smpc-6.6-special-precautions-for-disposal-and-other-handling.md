@@ -39,4 +39,17 @@ Extravasation should be managed by local standard practice as with other non-ves
 
 [ALIMTA 500 mg powder for concentrate for solution for infusion]
 
+8.
+
+9.
+
+10.
 Reconstitute 500-mg vials with 20 ml of sodium chloride 9 mg/ml (0.9 %) solution for injection, without preservative, resulting in a solution containing 25 mg/ml pemetrexed.
+
+11.
+
+12.
+
+13.
+
+14.

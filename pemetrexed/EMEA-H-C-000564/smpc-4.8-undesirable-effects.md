@@ -120,3 +120,8 @@ During post marketing surveillance, the following adverse reactions have been re
 
 Cases of acute renal failure have been reported with pemetrexed alone or in association with other chemotherapeutic agents (see section 4.4).
 Cases of radiation pneumonitis have been reported in patients treated with radiation either prior, during or subsequent to their pemetrexed therapy (see section 4.4).
+Cases of radiation recall have been reported in patient who have received radiotherapy previously (see section 4.4)
+
+[ALIMTA 500 mg powder for concentrate for solution for infusion]
+
+Cases of radiation recall have been reported in patients who have received radiotherapy previously (see section 4.4).

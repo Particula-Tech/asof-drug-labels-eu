@@ -47,6 +47,7 @@ The separation between the treatment arms was achieved by improvement in lung fu
 There are limited data in patients with malignant pleural mesothelioma treated with ALIMTA alone.
 ALIMTA at a dose of 500 mg/m2 was studied as a single-agent in 64 chemonaive patients with malignant pleural mesothelioma.
 The overall response rate was 14.1 %.
+
 A multicentre, randomised, open label phase 3 study of ALIMTA versus docetaxel in patients with locally advanced or metastatic NSCLC after prior chemotherapy has shown median survival times of 8.3 months for patients treated with ALIMTA (Intent To Treat population n = 283) and 7.9 months for patients treated with docetaxel (ITT n = 288).
 
 Efficacy of ALIMTA vs docetaxel in NSCLC - ITT Population
