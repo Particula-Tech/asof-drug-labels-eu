@@ -16,7 +16,8 @@ Instructions for the preparation of Avastin infusions are described in section 6
 Avastin infusions should not be administered or mixed with glucose solutions (see section 6.2).
 Metastatic carcinoma of the colon or rectum (mCRC)
 
-The recommended dose of Avastin is 5 mg/kg of body weight given once every 14 days as an intravenous infusion.
+The recommended dose of Avastin, administered as an intravenous infusion, is either 5 mg/kg or 10 mg/kg of body weight given once every 2 weeks or 7.5 mg/kg or 15 mg/kg of body weight given once every 3 weeks.
+
 Dose reduction for adverse events is not recommended.
 If indicated, therapy should either be permanently discontinued or temporarily suspended as described in section 4.4.
 
@@ -30,7 +31,7 @@ Avastin is administered in addition to platinum-based chemotherapy for up to 6 c
 
 The recommended dose of Avastin is 7.5 mg/kg or 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
 
-Clinical benefit in NSCLC patients has been demonstrated with both 7.5mg/kg and 15mg/kg doses.
+Clinical benefit in NSCLC patients has been demonstrated with both 7.5 mg/kg and 15 mg/kg doses.
 For details refer to section 5.1 Pharmacodynamic Properties, Non-small cell lung cancer (NSCLC).
 
 Advanced and/or metastatic Renal Cell Cancer (mRCC)

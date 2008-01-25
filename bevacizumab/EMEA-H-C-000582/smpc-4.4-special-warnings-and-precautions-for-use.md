@@ -4,6 +4,7 @@ Gastrointestinal perforations (see section 4.8)
 Patients may be at an increased risk for the development of gastrointestinal perforation when treated with Avastin.
 Intra-abdominal inflammatory process may be a risk factor for gastrointestinal perforations in patients with metastatic carcinoma of the colon or rectum, therefore, caution should be exercised when treating these patients.
 Therapy should be permanently discontinued in patients who develop gastrointestinal perforation.
+
 Fistulae (see section 4.8)
 Patients may be at increased risk for the development of fistulae when treated with Avastin.
 Permanently discontinue Avastin in patients with TE (tracheoesophageal) fistula or any grade 4 fistula.

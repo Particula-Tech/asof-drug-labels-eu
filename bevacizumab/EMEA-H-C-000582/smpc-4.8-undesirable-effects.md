@@ -109,7 +109,7 @@ The only variables that showed statistically significant correlations with bleed
 Patients with NSCLC of known squamous cell histology or mixed cell type with predominant squamous cell histology were excluded from subsequent phase III studies, while patients with unknown tumour histology were included.
 
 In patients with NSCLC excluding predominant squamous histology, all grade events were seen with a frequency of up to 9% when treated with Avastin plus chemotherapy compared with 5% in the patients treated with chemotherapy alone.
-Grade 3-5 events have been observed in up to 2.3% of patients treated with Avastin plus chemotherapy as compared with <1% with chemotherapy alone.
+Grade 3-5 events have been observed in up to 2.3% of patients treated with Avastin plus chemotherapy as compared with < 1% with chemotherapy alone.
 Major or massive pulmonary haemorrhage/haemoptysis can occur suddenly and up to two thirds of the serious pulmonary haemorrhages resulted in a fatal outcome.
 
 Gastrointestinal haemorrhages, including rectal bleeding and melaena have been reported in colorectal cancer patients, and have been assessed as tumour-associated haemorrhages.
