@@ -14,6 +14,6 @@ For storage conditions of the reconstituted medicinal product, see section 6.3.
 
 [VFEND 40 mg/ml powder for oral suspension]
 
-Powder for oral suspension: Store at 2°C - 8°C (in a refrigerator) before constitution.
+Powder for oral suspension: Store at 2°C -8°C (in a refrigerator) before constitution.
 For storage conditions of the constituted suspension see section 6.3.
 Keep the container tightly closed.

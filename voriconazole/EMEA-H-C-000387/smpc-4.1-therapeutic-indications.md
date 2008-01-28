@@ -10,4 +10,6 @@ Treatment of fluconazole-resistant serious invasive Candida infections (includin
 
 Treatment of serious fungal infections caused by Scedosporium spp. and Fusarium spp.
 
-VFEND should be administered primarily to patients with progressive, possibly life-threatening infections.
+VFEND should be administered primarily to patients with progressive, possibly life-threatening
+
+infections.

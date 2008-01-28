@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-3 years.
+3 years
 
 [VFEND 200 mg film-coated tablets]
 

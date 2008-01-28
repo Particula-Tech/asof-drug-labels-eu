@@ -10,8 +10,7 @@ Not applicable.
 
 VFEND must not be infused into the same line or cannula concomitantly with other intravenous products.
 When the VFEND infusion is complete, the line may be used for administration of other intravenous products.
-
-Blood products and short-term infusion of concentrated solutions of electrolytes, :
+Blood products and short-term infusion of concentrated solutions of electrolytes:
 Electrolyte disturbances such as hypokalemia, hypomagnesemia and hypocalcemia should be corrected prior to initiation of voriconazole therapy (see section 4.2 and section 4.4).
 VFEND must not be administered simultaneously with any blood product or any short-term infusion of concentrated solutions of electrolytes, even if the two infusions are running in separate lines.
 

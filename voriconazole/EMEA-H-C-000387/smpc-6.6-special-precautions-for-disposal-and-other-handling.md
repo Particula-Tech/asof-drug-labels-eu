@@ -13,8 +13,8 @@ The powder is reconstituted with 19 ml of Water for Injections to obtain an extr
 Discard the VFEND vial if vacuum does not pull the diluent into the vial.
 It is recommended that a standard 20 ml (non-automated) syringe be used to ensure that the exact amount (19.0 ml) of Water for Injections is dispensed.
 This medicinal product is for single use only and any unused solution should be discarded and only clear solutions without particles should be used.
-For administration, the required volume of the reconstituted concentrate is added to a recommended compatible infusion solution (detailed below) to obtain a final voriconazole solution containing 0.5-5 mg/ml.
 
+For administration, the required volume of the reconstituted concentrate is added to a recommended compatible infusion solution (detailed below) to obtain a final voriconazole solution containing 0.5-5 mg/ml.
 Required Volumes of 10 mg/ml VFEND Concentrate
 
 | Body Weight (kg) | Volume of VFEND Concentrate (10 mg/ml) required for: |  |  |  |
@@ -48,19 +48,14 @@ The reconstituted solution can be diluted with:
 
 9 mg/ml (0.9 %) Sodium Chloride for Infusion
 Lactated Ringer’s Intravenous Infusion
-5 % Glucose and Lactated Ringer’s Intravenous Infusion
-5 % Glucose and 0.45 % Sodium Chloride Intravenous Infusion
-5 % Glucose Intravenous Infusion
-5 % Glucose in 20 mEq Potassium Chloride Intravenous Infusion
-0.45 % Sodium Chloride Intravenous Infusion
-5 % Glucose and 0.9 % Sodium Chloride Intravenous Infusion
+5 % Glucose and Lactated Ringer’s Intravenous Infusion 5 % Glucose and 0.45 % Sodium Chloride Intravenous Infusion 5 % Glucose Intravenous Infusion 5 % Glucose in 20 mEq Potassium Chloride Intravenous Infusion
+0.45 % Sodium Chloride Intravenous Infusion 5 % Glucose and 0.9 % Sodium Chloride Intravenous Infusion
 
 The compatibility of voriconazole with diluents other than described above or in section 6.2 is unknown.
 
 [VFEND 40 mg/ml powder for oral suspension]
 
 Any remaining suspension should be discarded 14 days after constitution.
-
 Constitution instructions:
 
 1.

@@ -2,8 +2,7 @@
 
 Hypersensitivity: Caution should be used in prescribing VFEND to patients with hypersensitivity to other azoles (see also section 4.8).
 
-Cardiovascular:
-Some azoles, including voriconazole have been associated with QT interval prolongation.
+Cardiovascular: Some azoles, including voriconazole have been associated with QT interval prolongation.
 There have been rare cases of torsades de pointes in patients taking voriconazole who had risk factors, such as history of cardiotoxic chemotherapy, cardiomyopathy, hypokalaemia and concomitant medications that may have been contributory.
 Voriconazole should be administered with caution to patients with potentially proarrhythmic conditions, such as
 
@@ -33,7 +32,6 @@ Monitoring of renal function: Patients should be monitored for the development o
 This should include laboratory evaluation, particularly serum creatinine.
 Monitoring of pancreatic function: Patients, especially children, with risk factors for acute pancreatitis (e.g. recent chemotherapy, hematopoietic stem cell translplantation (HSCT)), should be monitored closely during Vfend treatment.
 Monitoring of serum amylase or lipase may be considered in this clinical situation.
-
 Dermatological reactions: Patients have rarely developed exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, during treatment with VFEND.
 If patients develop a rash they should be monitored closely and VFEND discontinued if lesions progress.
 In addition VFEND has been associated with photosensitivity skin reaction especially during long term therapy.
@@ -54,9 +52,12 @@ Concomitant use of voriconazole and rifabutin should be avoided unless the benef
 Methadone (CYP3A4 substrate): Frequent monitoring for adverse events and toxicity related to methadone, including QTc prolongation, is recommended when coadministered with voriconazole since methadone levels increased following co-administration of voriconazole.
 Dose reduction of methadone may be needed (see section 4.5).
 
+Short Acting Opiates (CYP3A4 substrate): Reduction in the dose of alfentanil and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g. fentanyl and sufentanil) should be considered when co-administered with voriconazole (see section 4.5).
+As the half-life of alfentanil is prolonged in a four-fold manner when alfentanil is coadministered with voriconazole, a longer respiratory monitoring period may be necessary.
+
 Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate): Coadministration of voriconazole and low dose ritonavir (100 mg twice daily) should be avoided unless an assessment of the benefit/risk justifies the use of voriconazole (see section 4.5, for higher doses see section 4.3).
 
-Efavirenz (CYP450 inducer; CYP3A4 inhibitor and substrate): When voriconazole is coadministered with efavirenz the dose of voriconazole should be increased to 400 mg every 12 hours and that of efavirenz should be decreased to 300 mg every 24 hours (see section 4.5; for contraindication with standard doses of voriconazole and efavirenz see section 4.3).
+Efavirenz (CYP450 inducer; CYP3A4 inhibitor and substrate): When voriconazole is coadministered with efavirenz the dose of voriconazole should be increased to 400 mg every 12 hours and that of efavirenz should be decreased to 300 mg every 24 hours (see sections 4.2 and 4.5.).
 
 VFEND tablets contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.
 
@@ -65,11 +66,14 @@ VFEND tablets contain lactose and should not be given to patients with rare here
 Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly haematological malignancy).
 Transient hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
 
+Short Acting Opiates (CYP3A4 substrate): Reduction in the dose of alfentanil and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g fentanyl and sufentanil) should be considered when co-administered with voriconazole (see section 4.5).
+As the half-life of alfentanil is prolonged in a four-fold manner in combination with voriconazole, a longer respiratory monitoring period may be necessary).
+
 Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate): Coadministration of voriconazole and low dose ritonavir (100mg twice daily) should be avoided unless an assessment of the benefit/risk justifies the use of voriconazole (see section 4.5, for higher doses see section 4.3).
 
-[VFEND 200 mg powder for solution for infusion]
+Efavirenz (CYP450 inducer; CYP3A4 inhibitor and substrate): When voriconazole is coadministered with efavirenz the dose of voriconazole should be increased to 400 mg every 12 hours and that of efavirenz should be decreased to 300 mg every 24 hours (see sections 4.2 and 4.5).
 
-Cardiovascular: Some azoles, including voriconazole have been associated with QT interval prolongation.
+[VFEND 200 mg powder for solution for infusion]
 
 A study has been conducted in healthy volunteers which examined the effect on QT interval of single doses of voriconazole up to four times the usual daily dose.
 
@@ -81,13 +85,40 @@ Patient being treated with voriconazole are likely to be treated concomitantly w
 Methadone (CYP3A4 substrate).
 Frequent monitoring for adverse events and toxicity related to methadone, including QTc prolongation, is recommended when coadministered with voriconazole since methadone levels increased following co-administration of voriconazole.
 
+As the half-life of alfentanil is prolonged in a four-fold manner when alfentanyl is coadministered with voriconazole, a longer respiratory monitoring period may be necessary.
+
 Sodium content: Each vial of VFEND contains 217.6 mg of sodium.
 This should be taken into consideration for patients on a controlled sodium diet.
 
 [VFEND 40 mg/ml powder for oral suspension]
 
+Hypersensitivity:
+Caution should be used in prescribing VFEND to patients with hypersensitivity to other azoles (see also section 4.8).
+
+Cardiovascular:
+Some azoles, including voriconazole have been associated with QT interval prolongation.
+
+Hepatic toxicity:
+In clinical trials, there have been uncommon cases of serious hepatic reactions during treatment with VFEND (including clinical hepatitis, cholestasis and fulminant hepatic failure, including fatalities).
+
+Monitoring of hepatic function:
+Patients at the beginning of therapy with voriconazole and patients who develop abnormal liver function tests during VFEND therapy must be routinely monitored for the development of more severe hepatic injury.
+
+Renal adverse events:
+Acute renal failure has been observed in severely ill patients undergoing treatment with
+VFEND.
+
+Monitoring of renal function:
+Patients should be monitored for the development of abnormal renal function.
+Dermatological reactions:
+Patients have rarely developed exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, during treatment with VFEND.
 In addition VFEND has been associated with photosensitivity skin reaction especially during long-term therapy.
 
+Paediatric use:
+Safety and effectiveness in paediatric subjects below the age of two years has not been established (see also sections 4.8 and 5.1).
+
 Rifabutin (CYP450 inducer): Careful monitoring of full blood counts and adverse reactions to rifabutin (e.g. uveitis) is recommended when rifabutin is coadministered with voriconazole.
+
+Short Acting Opiates (CYP3A4 substrate): Reduction in the dose of alfentanil and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g. alfentanyl and sufentanil) should be considered when co-administered with voriconazole (see section 4.5).
 
 VFEND oral suspension contains sucrose and should not be given to patients with rare hereditary problems of fructose intolerance, sucrase-isomaltase deficiency or glucose-galactose malabsorption.
