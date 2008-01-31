@@ -55,3 +55,19 @@ Phenol [1.00 mg/ml]
 [Humalog NPL 100 U/ml Pen, suspension for injection]
 
 (all sentences already above)
+
+[Humalog 100 U/ml KwikPen, solution for injection]
+
+(all sentences already above)
+
+[Humalog Mix25 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog Mix50 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)

@@ -63,3 +63,19 @@ The physician should be consulted when using other medications in addition to Hu
 [Humalog NPL 100 U/ml Pen, suspension for injection]
 
 The physician should be consulted when using other medications in addition to Humalog NPL 100 U/ml Pen.
+
+[Humalog 100 U/ml KwikPen, solution for injection]
+
+The physician should be consulted when using other medications in addition to Humalog KwikPen.
+
+[Humalog Mix25 100 U/ml KwikPen, suspension for injection]
+
+The physician should be consulted when using other medications in addition to Humalog Mix25 KwikPen.
+
+[Humalog Mix50 100 U/ml KwikPen, suspension for injection]
+
+The physician should be consulted when using other medications in addition to Humalog Mix50 KwikPen.
+
+[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+
+The physician should be consulted when using other medications in addition to Humalog NPL 100 U/ml KwikPen.

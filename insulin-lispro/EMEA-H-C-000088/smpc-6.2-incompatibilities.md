@@ -1,7 +1,7 @@
 # 6.2 Incompatibilities
 
 Humalog preparations should not be mixed with insulins produced by other manufacturers or with animal insulin preparations.
-This medicinal product must not be mixed with other medicinal products except those mentioned in section 4.2.
+This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
 
 [Humalog 100 U/ml, solution for injection in cartridge]
 
@@ -46,5 +46,21 @@ This medicinal product must not be mixed with other medicinal products than Huma
 (all sentences already above)
 
 [Humalog NPL 100 U/ml Pen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog 100 U/ml KwikPen, solution for injection]
+
+(all sentences already above)
+
+[Humalog Mix25 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog Mix50 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog NPL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)

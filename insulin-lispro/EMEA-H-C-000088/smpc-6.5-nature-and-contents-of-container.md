@@ -80,3 +80,25 @@ The 3 ml cartridges are sealed in a disposable pen injector, called the “Pen�
 
 5 x 3 ml Humalog NPL 100 U/ml Pens
 2 x (5 x 3 ml) Humalog NPL 100 U/ml Pens
+
+[Humalog 100 U/ml KwikPen, solution for injection]
+
+The 3 ml cartridges are sealed in a disposable pen injector, called the “KwikPen”.
+
+5 x 3 ml Humalog 100 U/ml KwikPens
+2 x (5 x 3 ml) Humalog 100 U/ml KwikPens
+
+[Humalog Mix25 100 U/ml KwikPen, suspension for injection]
+
+5 x 3 ml Humalog Mix25 100 U/ml KwikPens.
+2 x (5 x 3 ml) Humalog Mix25 100 U/ml KwikPens.
+
+[Humalog Mix50 100 U/ml KwikPen, suspension for injection]
+
+5 x 3 ml Humalog Mix50 100 U/ml KwikPens
+2 x (5 x 3 ml) Humalog Mix50 100 U/ml KwikPens.
+
+[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+
+5 x 3 ml Humalog NPL 100 U/ml KwikPens
+2 x (5 x 3 ml) Humalog NPL 100 U/ml KwikPens

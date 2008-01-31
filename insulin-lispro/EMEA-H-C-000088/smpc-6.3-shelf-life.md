@@ -49,3 +49,19 @@ After first use of the pen, the suspension should be used within 28 days, when s
 [Humalog NPL 100 U/ml Pen, suspension for injection]
 
 After first use of the pen, the suspension should be used within 21 days, when stored below 30°C.
+
+[Humalog 100 U/ml KwikPen, solution for injection]
+
+(all sentences already above)
+
+[Humalog Mix25 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog Mix50 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)

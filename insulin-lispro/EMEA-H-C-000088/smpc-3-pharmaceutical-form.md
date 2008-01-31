@@ -49,3 +49,19 @@ Humalog Pen is a sterile, clear, colourless, aqueous solution.
 [Humalog NPL 100 U/ml Pen, suspension for injection]
 
 (all sentences already above)
+
+[Humalog 100 U/ml KwikPen, solution for injection]
+
+Humalog KwikPen is a sterile, clear, colourless, aqueous solution.
+
+[Humalog Mix25 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog Mix50 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)

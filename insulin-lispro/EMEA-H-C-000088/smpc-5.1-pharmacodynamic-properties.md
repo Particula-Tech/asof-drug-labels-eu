@@ -10,7 +10,6 @@ Within muscle tissue this includes increasing glycogen, fatty acid, glycerol and
 
 Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allowing it to be given closer to a meal (within zero to 15 minutes of the meal) when compared to regular insulin (30 to 45 minutes before).
 Insulin lispro takes effect rapidly and has a shorter duration of activity (2 to 5 hours) when compared to regular insulin.
-
 Clinical trials in patients with type 1 and type 2 diabetes have demonstrated reduced postprandial hyperglycaemia with insulin lispro compared to soluble human insulin.
 
 As with all insulin preparations, the time course of insulin lispro action may vary in different individuals or at different times in the same individual and is dependent on dose, site of injection, blood supply, temperature and physical activity.
@@ -30,6 +29,7 @@ The above representation reflects the relative amount of glucose over time requi
 
 Clinical trials have been performed in children (61 patients aged 2 to 11) and children and adolescents (481 patients aged 9 to 19 years), comparing insulin lispro to human soluble insulin.
 The pharmacodynamic profile of insulin lispro in children is similar to that seen in adults.
+
 When used in subcutaneous infusion pumps, treatment with insulin lispro has been shown to result in lower glycosylated haemoglobin levels compared to soluble insulin.
 In a double-blind, crossover study, the reduction in glycosylated haemoglobin levels after 12 weeks dosing was 0.37 percentage points with insulin lispro, compared to 0.03 percentage points for soluble insulin (p = 0.004).
 
@@ -133,5 +133,21 @@ ATC Code: A10A D04.
 (all sentences already above)
 
 [Humalog NPL 100 U/ml Pen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog 100 U/ml KwikPen, solution for injection]
+
+(all sentences already above)
+
+[Humalog Mix25 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog Mix50 100 U/ml KwikPen, suspension for injection]
+
+(all sentences already above)
+
+[Humalog NPL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)
