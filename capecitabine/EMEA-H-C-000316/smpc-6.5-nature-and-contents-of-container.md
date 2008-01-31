@@ -1,6 +1,6 @@
 # 6.5 Nature and contents of container
 
-Nature: PVC/PE/PVDC blisters
+Nature: PVC/PVDC blisters
 
 Content: 60 film-coated tablets (6 blisters of 10 tablets)
 

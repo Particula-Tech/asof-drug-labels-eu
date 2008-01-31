@@ -8,4 +8,4 @@ In patients with severe leucopenia, neutropenia, or thrombocytopenia,
 In patients with severe hepatic impairment,
 In patients with severe renal impairment (creatinine clearance below 30 ml/min),
 Treatment with sorivudine or its chemically related analogues, such as brivudine,
-If contraindications exist to any of the other agents in the combination regimen, that agent should not be used.
+If contraindications exist to any of the agents in the combination regimen, that agent should not be used.

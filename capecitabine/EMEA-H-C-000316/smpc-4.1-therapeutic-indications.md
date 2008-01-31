@@ -2,7 +2,7 @@
 
 Xeloda is indicated for the adjuvant treatment of patients following surgery of stage III (Dukes’ stage C) colon cancer (see section 5.1).
 
-Xeloda is indicated for first line monotherapy of metastatic colorectal cancer (see section 5.1).
+Xeloda is indicated for the treatment of metastatic colorectal cancer (see section 5.1).
 
 Xeloda is indicated for first-line treatment of advanced gastric cancer in combination with a platinum-based regimen (see section 5.1).
 

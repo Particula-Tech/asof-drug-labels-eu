@@ -36,7 +36,6 @@ The major metabolite excreted in urine is FBAL, which represents 57% of the admi
 About 3% of the administered dose is excreted in urine as unchanged drug.
 
 Combination therapy: Phase I studies evaluating the effect of Xeloda on the pharmacokinetics of either docetaxel or paclitaxel and vice versa showed no effect by Xeloda on the pharmacokinetics of docetaxel or paclitaxel (Cmax and AUC) and no effect by docetaxel or paclitaxel on the pharmacokinetics of 5’-DFUR.
-
 Pharmacokinetics in special populations: A population pharmacokinetic analysis was carried out after Xeloda treatment of 505 patients with colorectal cancer dosed at 1250 mg/m2 twice daily.
 Gender, presence or absence of liver metastasis at baseline, Karnofsky Performance Status, total bilirubin, serum albumin, ASAT and ALAT had no statistically significant effect on the pharmacokinetics of 5'-DFUR, 5-FU and FBAL.
 
