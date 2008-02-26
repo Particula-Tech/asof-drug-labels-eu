@@ -4,7 +4,6 @@ Absorption
 Following oral administration of a 100-mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours post-dose, mean plasma AUC of sitagliptin was 8.52 μM•hr, Cmax was 950 nM.
 The absolute bioavailability of sitagliptin is approximately 87 %.
 Since coadministration of a high-fat meal with Januvia had no effect on the pharmacokinetics, Januvia may be administered with or without food.
-
 Plasma AUC of sitagliptin increased in a dose-proportional manner.
 Dose-proportionality was not established for Cmax and C24hr (Cmax increased in a greater than dose-proportional manner and C24hr increased in a less than dose-proportional manner).
 
@@ -44,6 +43,7 @@ Renal insufficiency
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of a reduced dose of sitagliptin (50-mg) in patients with varying degrees of chronic renal insufficiency compared to normal healthy control subjects.
 The study included patients with renal insufficiency classified on the basis of creatinine clearance as mild (50 to < 80 ml/min), moderate (30 to < 50 ml/min), and severe
 (< 30 ml/min), as well as patients with end-stage renal disease (ESRD) on hemodialysis.
+
 Patients with mild renal insufficiency did not have a clinically meaningful increase in the plasma concentration of sitagliptin as compared to normal healthy control subjects.
 An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal insufficiency, and an approximately 4-fold increase was observed in patients with severe renal insufficiency and in patients with ESRD on hemodialysis, as compared to normal healthy control subjects.
 Sitagliptin was modestly removed by hemodialysis (13.5 % over a 3- to 4-hour hemodialysis session starting 4 hours postdose).

@@ -10,3 +10,10 @@ The use of sitagliptin in combination with insulin has not been adequately studi
 
 Renal insufficiency
 As the experience is limited, patients with moderate to severe renal insufficiency should not be treated with Januvia (see section 5.2).
+
+Hypersensitivity Reactions
+Postmarketing reports of serious hypersensitivity reactions in patients treated with Januvia have been reported.
+These reactions include anaphylaxis, angioedema, and exfoliative skin conditions including Stevens-Johnson syndrome.
+Onset of these reactions occurred within the first 3 months after initiation of treatment with Januvia, with some reports occurring after the first dose.
+If a hypersensitivity reaction is suspected, discontinue Januvia, assess for other potential causes for the event, and institute alternative treatment for diabetes.
+(See section 4.8).

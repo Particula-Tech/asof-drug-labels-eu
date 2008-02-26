@@ -65,10 +65,18 @@ HbA1c results in placebo-controlled monotherapy and combination therapy studies*
 ‡ p<0.001 compared to placebo or placebo + combination treatment.
 § HbA1c (%) at week 18.
 
-In a study comparing the efficacy and safety of the addition of Januvia 100 mg once daily or glipizide (a sulphonylurea agent) in patients with inadequate glycaemic control on metformin monotherapy, sitagliptin was similar to glipizide in reducing HbA1c .
+In a study comparing the efficacy and safety of the addition of Januvia 100 mg once daily or glipizide (a sulphonylurea agent) in patients with inadequate glycaemic control on metformin monotherapy, sitagliptin was similar to glipizide in reducing HbA1c.
 The mean glipizide dose used in the comparator group was 10 mg per day with approximately 40 % of patients requiring a glipizide dose of
 ≤ 5 mg/day throughout the study.
 However, more patients in the sitagliptin group discontinued due to lack of efficacy than in the glipizide group.
 Patients treated with sitagliptin exhibited a significant mean decrease from baseline in body weight compared to a significant weight gain in patients administered glipizide (-1.5 vs. +1.1 kg).
 In this study, the proinsulin to insulin ratio, a marker of efficiency of insulin synthesis and release, improved with sitagliptin and deteriorated with glipizide treatment.
 The incidence of hypoglycaemia in the sitagliptin group (4.9 %) was significantly lower than that in the glipizide group (32.0 %).
+
+[Januvia 50 mg film-coated tablets]
+
+In a study comparing the efficacy and safety of the addition of Januvia 100 mg once daily or glipizide (a sulphonylurea agent) in patients with inadequate glycaemic control on metformin monotherapy, sitagliptin was similar to glipizide in reducing HbA1c The mean glipizide dose used in the comparator group was 10 mg per day with approximately 40 % of patients requiring a glipizide dose of
+
+[Januvia 100 mg film-coated tablets]
+
+(all sentences already above)

@@ -4,12 +4,12 @@ Effects of other medicinal products on sitagliptin
 Clinical data described below suggest that the risk for clinically meaningful interactions by co-administered medicinal products is low.
 
 Metformin: Co-administration of multiple twice-daily doses of 1000 mg metformin with 50 mg sitagliptin did not meaningfully alter the pharmacokinetics of sitagliptin in patients with type 2 diabetes.
-
 Cyclosporine: A study was conducted to assess the effect of cyclosporine, a potent inhibitor of p-glycoprotein, on the pharmacokinetics of sitagliptin.
 Coadministration of a single 100 mg oral dose of sitagliptin and a single 600 mg oral dose of cyclosporine increased the AUC and Cmax of sitagliptin by approximately 29 % and 68 %, respectively.
 These changes in sitagliptin pharmacokinetics were not considered to be clinically meaningful.
 The renal clearance of sitagliptin was not meaningfully altered.
 Therefore, meaningful interactions would not be expected with other p-glycoprotein inhibitors.
+
 In vitro studies indicated that the primary enzyme responsible for the limited metabolism of sitagliptin is CYP3A4, with contribution from CYP2C8.
 In patients with normal renal function, metabolism, including via CYP3A4, plays only a small role in the clearance of sitagliptin.
 Metabolism may play a more significant role in the elimination of sitagliptin in the setting of severe renal insufficiency or ESRD.
