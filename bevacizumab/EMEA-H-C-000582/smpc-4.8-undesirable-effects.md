@@ -71,9 +71,6 @@ The incidence varied between 10% (4/40) and 20% (3/15).
 
 In locally recurrent and metastatic breast cancer, Grade 3-5 wound healing complications were observed in 1.1% of patients receiving Avastin + paclitaxel and in none of the patients receiving paclitaxel alone.
 
-Nasal Septum Perforations:
-Very rare cases of nasal septum perforations have been reported in patients treated with Avastin.
-
 Hypertension (see section 4.4):
 An increased incidence of hypertension (all grades) of up to 34% has been observed in Avastin-treated patients in clinical trials compared with up to 14% in those treated with comparator.
 Grade 3 and 4 hypertension (requiring oral anti-hypertensive medication) in patients receiving Avastin ranged from 3.0% to 17.9%.
@@ -97,9 +94,9 @@ Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of treated patie
 The proteinuria seen in clinical trials was not associated with renal dysfunction and rarely required permanent discontinuation of therapy.
 Testing for proteinuria is recommended prior to start of Avastin therapy.
 In most clinical studies urine protein levels of ≥ 2g /24 hrs led to the holding of Avastin until recovery to < 2g/24 hrs.
+
 Haemorrhage (see section 4.4):
 In clinical trials across all indications the overall incidence of NCI-CTC Grade 3-5 bleeding events ranged from 0.4% to 5% in Avastin treated patients, compared with up to 2.9% of patients in chemotherapy control group.
-
 The haemorrhagic events that have been observed in clinical studies were predominantly tumour-associated haemorrhage (see below) and minor mucocutaneous haemorrhage (e.g. epistaxis).
 
 Tumour-associated haemorrhage (see section 4.4).
@@ -134,14 +131,13 @@ Myocardial infarction was reported in 1.4% of patients treated with Avastin in c
 
 In one clinical trial, AVF2192g, patients with metastatic colorectal cancer who were not candidates for treatment with irinotecan were included.
 In this trial arterial thromboembolic events were observed in 11% (11/100) of patients compared to 5.8% (6/104) in the chemotherapy control group.
-
 Venous thromboembolism:
 The incidence of venous thromboembolic events in clinical trials was similar in patients receiving Avastin in combination with chemotherapy compared to those receiving the control chemotherapy alone.
 Venous thromboembolic events include deep venous thrombosis, pulmonary embolism and thrombophlebitis.
 
-In clinical trials across indications, the overall incidence of venous thromboembolic events ranged from 2.8% to 17.3% of Avastin-treated patients compared with 3.2% to 15.6% in the controls.
-In the clinical trials in NSCLC an increase of the overall incidence of venous thromboembolic events with Grade 3-5 severity was observed of up to 5.6% in the Avastin containing arm compared with 3.2% in the chemotherapy control arm.
-One event (0.2%) was fatal on the Avastin containing arm compared to none in the carboplatin-paclitaxel arm.
+In clinical trials across indications, the overall incidence of venous thromboembolic events ranged from 2.8% to 17.3% of Avastin-treated patients compared with 3.2% to 15.6% in the control arms.
+
+Grade 3-5 venous thromboembolic events have been reported in up to 7.8% of patients treated with chemotherapy plus bevacizumab compared with up to 4.9% in patients treated with chemotherapy alone.
 
 Patients who have experienced a venous thromboembolic event may be at higher risk for a recurrence if they receive Avastin in combination with chemotherapy versus chemotherapy alone.
 
@@ -154,6 +150,8 @@ Most of these patients showed improved symptoms and/or left ventricular function
 In most clinical trials of Avastin, patients with pre-existing CHF of NYHA (New York Heart Association (NYHA) II-IV were excluded, therefore, no information is available on the risk of CHF in this population.
 
 Prior anthracyclines exposure and/or prior radiation to the chest wall may be possible risk factors for the development of CHF
+
+Other adverse events reported in post-marketing setting: nasal septum perforation, pulmonary hypertension.
 
 Elderly Patients
 In randomised clinical trials, age > 65 years was associated with an increased risk of developing arterial thromboembolic events, including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs).

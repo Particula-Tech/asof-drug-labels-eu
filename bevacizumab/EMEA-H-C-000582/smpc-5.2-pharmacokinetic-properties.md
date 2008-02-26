@@ -25,7 +25,8 @@ Pharmacokinetics in Special Populations
 The population pharmacokinetics were analysed to evaluate the effects of demographic characteristics.
 The results showed no significant difference in the pharmacokinetics of bevacizumab in relation to age.
 
-Children and adolescents: No studies have been conducted to investigate the pharmacokinetics of bevacizumab in paediatric patients.
+Children and adolescents: The pharmacokinetics of bevacizumab have been studied in a limited number of paediatric patients.
+The resulting pharmacokinetic data suggest that the volume of distribution and clearance of bevacizumab were comparable to that in adults with solid tumours.
 
 Renal impairment: No studies have been conducted to investigate the pharmacokinetics of bevacizumab in renally impaired patients since the kidneys are not a major organ for bevacizumab metabolism or excretion.
 

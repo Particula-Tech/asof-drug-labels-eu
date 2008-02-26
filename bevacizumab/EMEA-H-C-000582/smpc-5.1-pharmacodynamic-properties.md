@@ -3,8 +3,8 @@
 Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibody, ATC code: L01X C07
 
 Mechanism of action
-Bevacizumab binds to vascular endothelial growth factor (VEGF) and thereby inhibits the binding of VEGF to its receptors, Flt-1 (VEGFR-1) and KDR (VEGFR-2), on the surface of endothelial cells.
-Neutralising the biological activity of VEGF reduces the vascularisation of tumours, thereby inhibiting tumour growth.
+Bevacizumab binds to vascular endothelial growth factor (VEGF), the key driver of vasculogenesis and angiogenesis, and thereby inhibits the binding of VEGF to its receptors, Flt-1 (VEGFR-1) and KDR (VEGFR-2), on the surface of endothelial cells.
+Neutralising the biological activity of VEGF regresses the vascularisation of tumours, normalises remaining tumour vasculature, and inhibits the formation of new tumour vasculature, thereby inhibiting tumour growth.
 
 Pharmacodynamic effects
 Administration of bevacizumab or its parental murine antibody to xenotransplant models of cancer in nude mice resulted in extensive anti-tumour activity in human cancers, including colon, breast, pancreas and prostate.
@@ -67,6 +67,7 @@ AVF2192g: This was a phase II randomised, double-blind, active-controlled clinic
 One hundred and five patients were randomised to 5-FU/FA + placebo arm and 104 patients to 5-FU/FA + Avastin (5 mg/kg every 2 weeks) arm.
 All treatments were continued until disease progression.
 The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, significantly longer progression-free survival, and a trend in longer survival as compared to 5-FU/FA chemotherapy alone.
+
 AVF0780g: This was a phase II randomised, active-controlled, open-labelled clinical trial investigating Avastin in combination with 5-FU/FA as first-line treatment of metastatic colorectal cancer.
 The median age was 64 years.
 19% of the patients had received prior chemotherapy and 14% prior radiotherapy.
@@ -112,8 +113,8 @@ NO16966
 This was a phase III randomised, double-blind (for bevacizumab), clinical trial investigating Avastin 7.5 mg/kg in combination with oral capecitabine and IV oxaliplatin (XELOX), administered on a 3-weekly schedule; or Avastin 5 mg/kg in combination with leucovorin with 5-fluorouracil bolus, followed by 5-fluorouracil infusional, with IV oxaliplatin (FOLFOX-4), administered on a 2-weekly schedule.
 The study contained two parts: an initial unblinded 2-arm part (Part I) in which patients were randomised to two different treatment groups (XELOX and FOLFOX-4) and a subsequent 2 x 2 factorial 4-arm part (Part II) in which patients were randomised to four treatment groups (XELOX + placebo, FOLFOX-4 + placebo, XELOX + Avastin, FOLFOX-4 + Avastin).
 In Part II, treatment assignment was double-blind with respect to Avastin.
-Approximately 350 patients were randomised into each of the 4 study arms in the Part II of the trial.
 
+Approximately 350 patients were randomised into each of the 4 study arms in the Part II of the trial.
 Table 4 Treatment Regimens in Study N016966 (mCRC)
 
 |  | Treatment | Starting Dose | Schedule |
@@ -137,11 +138,8 @@ Secondary PFS analyses, based on ‘on-treatment’-based response assessments, 
 Table 5 Key efficacy results for the superiority analysis
 (ITT population, Study NO16966)
 
-| Endpoint (months) | FOLFOX-4 | FOLFOX-4 | P Value |
+| Endpoint (months) | FOLFOX-4 or XELOX + Placebo (n=701) | FOLFOX-4 or XELOX + Bevacizumab (n=699) | P Value |
 | --- | --- | --- | --- |
-|  | or XELOX | or XELOX |  |
-|  | + Placebo | + Bevacizumab |  |
-|  | (n=701) | (n=699) |  |
 | Primary endpoint |  |  |  |
 | Median PFS** | 8.0 | 9.4 | 0.0023 |
 | Hazard ratio (97.5% CI)a | 0.83 (0.72–0.95) |  |  |
@@ -172,11 +170,11 @@ Table 6 Efficacy Results for Study E3200
 
 |  | E3200 |  |
 | --- | --- | --- |
-|  | FOLFOX-4 FOLFOX-4 + Avastina |  |
-| Number of Patients | 292 293 |  |
+|  | FOLFOX-4 | FOLFOX-4 + Avastina |
+| Number of Patients | 292 | 293 |
 | Overall Survival |  |  |
-| Median (months) | 10.8 13.0 |  |
-| 95% confidence interval | 10.12 – 11.86 12.09 – 14.03 |  |
+| Median (months) | 10.8 | 13.0 |
+| 95% confidence interval | 10.12 – 11.86 | 12.09 – 14.03 |
 | Hazard ratiob | 0.751 (p-value = 0.0012) |  |
 | Progression-Free Survival |  |  |
 | Median (months) | 4.5 | 7.5 |
@@ -206,17 +204,33 @@ In Study E2100, patients were treated until disease progression.
 In situations where early discontinuation of chemotherapy was required, treatment with Avastin as a single agent continued until disease progression.
 The patient characteristics were similar across the study arms.
 The primary endpoint of this trial was progression free survival (PFS), based on study investigators’ assessment of disease progression.
+In addition, an independent review of the primary endpoint was also conducted.
 The results of this study are presented in Table 7.
 Table 7 Study E2100 Efficacy Results:
 
-|  | Paclitaxel Paclitaxel + Avastin (n=354) (n=368) |
-| --- | --- |
-| Progression-Free Survival (Months)a, b Median Hazard ratio 95% CI p-value (log-rank test) Overall survival (months)c Median Hazard ratio 95% CI p-value (log-rank test) | 6.7 13.3 0.48 (0.39, 0.59) P<0.0001 23.8 25.7 0.82 (0.66, 1.03) 0.082 |
+| Progression-free survival |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Investigator Assessment* |  | IRF Assessment |  |
+|  | Paclitaxel (n=354) | Paclitaxel/Avastin (n=368) | Paclitaxel (n=354) | Paclitaxel/Avastin (n=368) |
+| Median PFS (months) | 5.8 | 11.4 | 5.8 | 11.3 |
+| HR (95% CI) | 0.421 (0.343 ; 0.516) |  | 0.483 (0.385 ; 0.607) |  |
+| p-value | <0.0001 |  | <0.0001 |  |
+| Response rates (for patients with measurable disease) |  |  |  |  |
+|  | Investigator Assessment |  | IRF Assessment |  |
+|  | Paclitaxel (n=243) | Paclitaxel/Avastin (n=229) | Paclitaxel (n=243) | Paclitaxel/Avastin (n=229) |
+| % pts with objective response | 23.4 | 48.0 | 22.2 | 49.8 |
+| p-value | <0.0001 |  | <0.0001 |  |
 
-CI= Confidence interval aIntent to treat analysis b As assessed by study investigators c Based on an exploratory analysis of immature overall survival data, with 70% of events required for final analysis
+* primary analysis
+
+| Overall Survival |  |  |
+| --- | --- | --- |
+|  | Paclitaxel (n=354) | Paclitaxel/Avastin (n=368) |
+| Median OS (months) | 24.8 | 26.5 |
+| HR (95% CI) | 0.869 (0.722 ; 1.046) |  |
+| p-value | 0.1374 |  |
 
 The clinical benefit of Avastin as measured by PFS was seen in all pre-specified subgroups tested (including disease-free interval, number of metastatic sites, prior receipt of adjuvant chemotherapy and estrogen receptor (ER) status).
-In an exploratory analysis, the extent of Avastin benefit was less pronounced in the subgroup of patients > 65 years of age.
 
 Non-small cell lung cancer (NSCLC)
 
@@ -241,9 +255,14 @@ Table 8 Efficacy results for study E4599
 | --- | --- | --- |
 |  | Carboplatin/ Paclitaxel | Carboplatin/ Paclitaxel + Avastin 15 mg/kg q 3 weeks |
 | Number of Patients | 444 | 434 |
-| Overall Survival Median (months) Hazard ratio | 10.3 | 12.3 0.80 (p=0.003) 95% CI (0.69, 0.93) |
-| Progression-Free Survival Median (months) Hazard ratio | 4.8 | 6.4 0.65 (p<0.0001) 95% CI (0.56, 0.76) |
-| Overall Response Rate Rate (percent) | 12.9 | 29.0 (p<0.0001) |
+| Overall Survival |  |  |
+| Median (months) | 10.3 | 12.3 |
+| Hazard ratio | 0.80 (p=0.003) 95% CI (0.69, 0.93) |  |
+| Progression-Free Survival |  |  |
+| Median (months) | 4.8 | 6.4 |
+| Hazard ratio | 0.65 (p<0.0001) 95% CI (0.56, 0.76) |  |
+| Overall Response Rate |  |  |
+| Rate (percent) | 12.9 | 29.0 (p<0.0001) |
 
 In an exploratory analysis, the extent of Avastin benefit on overall survival was less pronounced in the subgroup of patients who did not have adenocarcinoma histology.
 

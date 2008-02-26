@@ -40,7 +40,7 @@ The recommended dose of Avastin is 10 mg/kg of body weight given once every 2 we
 
 Special populations
 
-Children and Adolescents: The safety and efficacy in children and adolescents have not been studied.
+Children and Adolescents: The safety and efficacy in children and adolescents have not been established.
 Avastin is not recommended for use in children and adolescents due to a lack of data on safety and efficacy (see section 5.3).
 
 Elderly: No dose adjustment is required in the elderly.
