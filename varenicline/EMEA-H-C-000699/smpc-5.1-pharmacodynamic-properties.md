@@ -7,7 +7,7 @@ Varenicline binds with high affinity and selectivity at the α4β2 neuronal nico
 Electrophysiology studies in vitro and neurochemical studies in vivo have shown that varenicline binds to the α4β2 neuronal nicotinic acetylcholine receptors and stimulates receptor-mediated activity, but at a significantly lower level than nicotine.
 Nicotine competes for the same human α4β2 nAChR binding site for which varenicline has higher affinity.
 Therefore, varenicline can effectively block nicotine's ability to fully activate α4β2 receptors and the mesolimbic dopamine system, the neuronal mechanism underlying reinforcement and reward experienced upon smoking.
-Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1µM, except to 5-HT3 receptors: Ki=350 nM).
+Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1μM, except to 5-HT3 receptors: Ki=350 nM).
 
 The efficacy of CHAMPIX in smoking cessation is a result of varenicline's partial agonist activity at the α4β2 nicotinic receptor where its binding produces an effect sufficient to alleviate symptoms of craving and withdrawal (agonist activity), while simultaneously resulting in a reduction of the rewarding and reinforcing effects of smoking by preventing nicotine binding to α4β2 receptors (antagonist activity).
 
@@ -23,6 +23,7 @@ In these 52-week duration studies, patients received treatment for 12 weeks, fol
 
 The primary endpoint of the two studies was the carbon monoxide (CO) confirmed, 4-week continuous quit rate (4W-CQR) from week 9 through week 12.
 The primary endpoint for CHAMPIX demonstrated statistical superiority to bupropion and placebo.
+
 After the 40 week non-treatment phase, a key secondary endpoint for both studies was the Continuous Abstinence Rate (CA) at week 52.
 CA was defined as the proportion of all subjects treated who did not smoke (not even a puff of a cigarette) from Week 9 through Week 52 and did not have an exhaled CO measurement of > 10 ppm.
 The 4W-CQR (weeks 9 through 12) and CA rate (weeks 9 through 52) from studies 1 and 2 are included in the following table:

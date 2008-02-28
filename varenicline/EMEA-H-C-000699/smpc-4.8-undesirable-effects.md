@@ -35,11 +35,13 @@ Nervous system disorders
 Very common Headache
 
 Common Somnolence, dizziness, dysgeusia
+
+System Organ Adverse Drug Reactions
+Class
+
 Uncommon Tremor, coordination abnormal, dysarthria, hypertonia, restlessness,
 
 dysphoria, hypoaesthesia, hypogeusia, lethargy, libido increased, libido decreased
-System Organ Adverse Drug Reactions
-Class
 Cardiac disorders
 
 Uncommon Atrial fibrillation, palpitations
@@ -96,4 +98,4 @@ Uncommon Blood pressure increased, electrocardiogram ST segment depression,
 
 electrocardiogram T wave amplitude decreased, heart rate increased, liver function test abnormal, platelet count decreased, weight increased, semen abnormal, C-reactive protein increased, blood calcium decreased
 
-Post-marketing cases of myocardial infarction have been reported in patients taking varenicline.
+Post-marketing cases of myocardial infarction, depression and suicidal ideation have been reported in patients taking varenicline (see section 4.4).

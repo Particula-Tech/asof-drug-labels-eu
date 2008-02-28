@@ -9,7 +9,6 @@ Distribution: Varenicline distributes into tissues, including the brain.
 Apparent volume of distribution averaged 415 litres (%CV= 50) at steady-state.
 Plasma protein binding of varenicline is low (< 20%) and independent of both age and renal function.
 In rodents, varenicline is transferred through the placenta and excreted in milk.
-
 Biotransformation: Varenicline undergoes minimal metabolism with 92% excreted unchanged in the urine and less than 10% excreted as metabolites.
 Minor metabolites in urine include varenicline N-carbamoylglucuronide and hydroxyvarenicline.
 In circulation, varenicline comprises 91% of drug-related material.
