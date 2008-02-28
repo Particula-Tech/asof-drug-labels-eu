@@ -4,8 +4,9 @@ When prescribing SIFROL in a patient with Parkinson’s disease with renal impai
 
 Hallucinations are known as a side-effect of treatment with dopamine agonists and levodopa.
 Patients should be informed that (mostly visual) hallucinations can occur.
-In advanced Parkinson’s disease, in combination treatment with levodopa, dyskinesias can occur during the initial titration of SIFROL.
+In advanced Parkinson’s disease, in combination treatment with levodopa, dyskinesia can occur during the initial titration of SIFROL.
 If they occur, the dose of levodopa should be decreased.
+
 SIFROL has been associated with somnolence and episodes of sudden sleep onset, particularly in patients with Parkinson’s disease.
 Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported uncommonly.
 Patients must be informed of this and advised to exercise caution while driving or operating machines during treatment with SIFROL.
@@ -13,7 +14,8 @@ Patients who have experienced somnolence and/or an episode of sudden sleep onset
 Furthermore a reduction of dosage or termination of therapy may be considered.
 Because of possible additive effects, caution should be advised when patients are taking other sedating medicinal products or alcohol in combination with pramipexole (see section 4.7 and section 4.8).
 
-Patients and caregivers should be aware of the fact that behavioural changes can occur (e.g. pathological gambling, increased libido, binge eating).
+Pathological gambling, increased libido and hypersexuality have been reported in patients treated with dopamine agonists for Parkinson’s disease, including SIFROL.
+Furthermore, patients and caregivers should be aware of the fact that behavioural changes can occur.
 Dose reduction/taper discontinuation should be considered.
 
 Patients with psychotic disorders should only be treated with dopamine agonists if the potential benefits outweigh the risks.
@@ -44,10 +46,8 @@ Reports in the literature indicate treatment of Restless Legs Syndrome with dopa
 
 [SIFROL 0.7 mg tablets]
 
-Dose reduction/taper discontinuation ahould be considered.
-
 Symptoms suggestive of neuroleptic malignant syndrome have been reported with abrupt withdrawal of dopaminergic therapy (see section 4.2.).
 
 [SIFROL 1.1 mg tablets]
 
-Patients and caregivers should be aware of the fact that behavioural changes can occur (e.g. pathological gambling, increasedlibido, binge eating).
+(all sentences already above)

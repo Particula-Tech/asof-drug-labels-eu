@@ -6,11 +6,11 @@ SIFROL is indicated for symptomatic treatment of moderate to severe idiopathic R
 
 [SIFROL 0.18 mg tablets]
 
-SIFROL is indicated for symptomatic treatment of moderate to severe idiopathic Restless Legs Syndrome in dosages up to 0.54 mg of vase (0.75 mg of salt) (see section 4.2).
+SIFROL is indicated for symptomatic treatment of moderate to severe idiopathic Restless Legs Syndrome in dosages up to 0.54 mg of base (0.75 mg of salt) (see section 4.2).
 
 [SIFROL 0.35 mg tablets]
 
-SIFROL is indicated for symptomatic treatment of moderate to severe idiopathic Restless Legs Syndrome in dosages up to 0.54 mg of base (0.75 mg of salt) (see section 4.2).
+(all sentences already above)
 
 [SIFROL 0.7 mg tablets]
 

@@ -1,6 +1,6 @@
 # 4.7 Effects on ability to drive and use machines
 
-Sifrol can have a major influence on the ability to drive and use machines.
+SIFROL can have a major influence on the ability to drive and use machines.
 
 Hallucinations or somnolence can occur.
 

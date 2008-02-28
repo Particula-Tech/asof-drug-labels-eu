@@ -14,7 +14,6 @@ SIFROL 0.18 mg tablets contain 0.18 mg of pramipexole base (as 0.25 mg of pramip
 [SIFROL 0.35 mg tablets]
 
 SIFROL 0.35 mg tablets contain 0.35 mg of pramipexole base (as 0.5 mg of pramipexole dihydrochloride monohydrate).
-.
 
 [SIFROL 0.7 mg tablets]
 

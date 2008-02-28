@@ -14,7 +14,7 @@ Providing patients do not experience intolerable side-effects, the dosage should
 | Week | Dosage (mg of base) | Total Daily Dose (mg of base) | Dosage (mg of salt) | Total Daily Dose (mg of salt) |
 | 1 | 3 x 0.088 | 0.264 | 3 x 0.125 | 0.375 |
 | 2 | 3 x 0.18 | 0.54 | 3 x 0.25 | 0.75 |
-| 3 | 3 x 0.35 | 1.05 | 3 x 0.5 | 1.50 |
+| 3 | 3 x 0.35 | 1.1 | 3 x 0.5 | 1.50 |
 
 If a further dose increase is necessary the daily dose should be increased by 0.54 mg base (0.75 mg salt) at weekly intervals up to a maximum dose of 3.3 mg of base (4.5 mg of salt) per day.
 
@@ -23,7 +23,7 @@ However, it should be noted that the incidence of somnolence is increased at dos
 Maintenance treatment:
 The individual dose should be in the range of 0.264 mg of base (0.375 mg of salt) to a maximum of 3.3 mg of base (4.5 mg of salt) per day.
 During dose escalation in three pivotal studies, efficacy was observed starting at a daily dose of 1.1 mg of base (1.5 mg of salt).
-Further dose adjustments should be done based on the clinical response and the occurrence of undesirables effects.
+Further dose adjustments should be done based on the clinical response and the occurrence of undesirable effects.
 In clinical trials approximately 5% of patients were treated at doses below 1.1 mg (1.5 mg of salt).
 In advanced Parkinson’s disease, doses higher than 1.1 mg (1.5 mg of salt) per day can be useful in patients where a reduction of the levodopa therapy is intended.
 It is recommended that the dosage of levodopa is reduced during both the dose escalation and the maintenance treatment with SIFROL, depending on reactions in individual patients.
@@ -50,8 +50,8 @@ The daily dose can be administered in two divided doses if creatinine clearance 
 Dosing in patients with hepatic impairment
 Dose adjustment in patients with hepatic failure is probably not necessary, as approx. 90% of absorbed active substance is excreted through the kidneys.
 However, the potential influence of hepatic insufficiency on SIFROL pharmacokinetics has not been investigated.
-
 Restless Legs Syndrome
+
 The tablets should be taken orally, swallowed with water, and can be taken either with or without food.
 
 The recommended starting dose of SIFROL is 0.088 mg of base (0.125 mg of salt) taken once daily 2-3 hours before bedtime.
@@ -67,7 +67,7 @@ For patients requiring additional symptomatic relief, the dose may be increased 
 | * if needed |  |  |
 
 As long-term efficacy of SIFROL in the treatment of RLS has not been sufficiently tested, patient´s response should be evaluated after 3 months treatment and the need for treatment continuation should be reconsidered.
-If treatment is interrupted for more than a few days it should be re-intiated by dose titration carried out as above.
+If treatment is interrupted for more than a few days it should be re-initiated by dose titration carried out as above.
 
 Treatment discontinuation
 Since daily dose for the treatment of Restless Legs Syndrome will not exceed 0.54 mg of base
@@ -93,13 +93,12 @@ If the treatment is interrupted for more than a few days it should be re-initiat
 
 [SIFROL 0.35 mg tablets]
 
-If treatment is interrupted for more than a few days it should be re-initiated by dose titraction carried out as above.
+(all sentences already above)
 
 [SIFROL 0.7 mg tablets]
 
-As long-term efficacy of SIFROL in the treatment of RLS has not been sufficiently tested, patient´s response should be evaluatd after 3 months treatment and the need for treatment continuation should be reconsidered.
-If treatment is interrupted for more than a few days it should be re-initiated by dose titration carried out as above.
+(all sentences already above)
 
 [SIFROL 1.1 mg tablets]
 
-As long-term efficacy of SIFROL in the treatment of RLS has not been sufficient tested, patient´s response should be evaluated after 3 months treatment and the need for treatment continuation should be reconsidered.
+(all sentences already above)

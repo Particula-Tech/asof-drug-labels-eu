@@ -1,10 +1,10 @@
 # 3. PHARMACEUTICAL FORM
 
-Tablet.
+Tablet
 
 All tablets are white and have a code embossed.
 
-| Strength(mg base/mg salt) | Appearance |
+| Strength (mg salt) | Appearance |
 | --- | --- |
 | 0.125 | flat, round, 6 mm diameter, no score |
 | 0.25 | flat, oval, 7.86 x 5.63 mm, scores on both sides |
