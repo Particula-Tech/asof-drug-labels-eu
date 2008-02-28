@@ -2,7 +2,6 @@
 
 CellCept capsules:
 pregelatinised maize starch croscarmellose sodium polyvidone (K-90) magnesium stearate
-
 Capsule shells:
 gelatin indigo carmine (E132) yellow iron oxide (E172) red iron oxide (E172) titanium dioxide (E171) black iron oxide (E172) potassium hydroxide shellac.
 

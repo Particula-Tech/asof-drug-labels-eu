@@ -12,7 +12,6 @@ Cholestyramine: following single dose administration of 1.5 g of mycophenolate m
 Caution should be used during concomitant administration because of the potential to reduce efficacy of CellCept.
 
 Medicinal products that interfere with enterohepatic circulation: caution should be used with medicinal products that interfere with enterohepatic circulation because of their potential to reduce the efficacy of CellCept.
-
 Ciclosporin A: ciclosporin A (CsA) pharmacokinetics are unaffected by mycophenolate mofetil.
 In contrast, if concomitant ciclosporin treatment is stopped, an increase in MPA AUC of around 30% should be expected.
 

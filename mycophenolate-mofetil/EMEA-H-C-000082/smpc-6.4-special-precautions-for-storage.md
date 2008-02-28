@@ -1,7 +1,7 @@
 # 6.4 Special precautions for storage
 
 Do not store above 30°C.
-Keep the blister in the outer carton in order to protect from moisture.
+Store in the original package in order to protect from moisture.
 
 [CellCept 500 mg powder for concentrate for solution for infusion.]
 

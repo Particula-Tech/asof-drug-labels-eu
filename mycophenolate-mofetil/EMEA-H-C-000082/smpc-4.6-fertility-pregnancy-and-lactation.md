@@ -8,8 +8,8 @@ The use of CellCept is not recommended during pregnancy and should be reserved f
 CellCept should be used in pregnant women only if the potential benefit outweighs the potential risk to the foetus.
 There is limited data from the use of CellCept in pregnant women.
 However, congenital malformations including ear malformations, i.e. abnormally formed or absent external/middle ear, have been reported in children of patients exposed to CellCept in combination with other immunosuppressants during pregnancy.
+Cases of spontaneous abortions have been reported in patients exposed to CellCept.
 Studies in animals have shown reproductive toxicity (see section 5.3).
-The potential risk for humans is unknown.
 
 Mycophenolate mofetil has been shown to be excreted in the milk of lactating rats.
 It is not known whether this substance is excreted in human milk.

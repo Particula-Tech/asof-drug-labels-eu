@@ -8,6 +8,12 @@ Patients receiving CellCept should be instructed to report immediately any evide
 
 Oversuppression of the immune system increases the susceptibility to infection including opportunistic infections, fatal infections and sepsis (see section 4.8).
 
+Cases of Progressive Multifocal Leukoencephalopathy (PML), sometimes fatal, have been reported in CellCept treated patients.
+The reported cases generally had risk factors for PML, including immunosuppressant therapies and impairment of immune function.
+In immunosuppressed patients, physicians should consider PML in the differential diagnosis in patients reporting neurological symptoms and consultation with a Neurologist should be considered as clinically indicated.
+Consideration should be given to reducing the total immunosuppression in patients who develop PML.
+In transplant patients, however, reduced immunosuppression may place the graft at risk.
+
 Patients receiving CellCept should be monitored for neutropenia, which may be related to CellCept itself, concomitant medications, viral infections, or some combination of these causes.
 Patients taking CellCept should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year.
 If neutropenia develops (absolute neutrophil count < 1.3 x 103/µl), it may be appropriate to interrupt or discontinue CellCept.

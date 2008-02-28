@@ -14,6 +14,7 @@ CellCept 500 mg powder for concentrate for solution for infusion does not contai
 
 CellCept 500 mg powder for concentrate for solution for infusion must be prepared in two steps: the first step is a reconstitution step with glucose intravenous infusion 5 % and the second step is a dilution step with glucose intravenous infusion 5 %.
 A detailed description of the preparation is given below:
+
 Step 1 a. Two vials of CellCept 500 mg powder for concentrate for solution for infusion are used for preparing each 1 g dose.
 Reconstitute the content of each vial by injecting 14 ml of glucose intravenous infusion 5 %.
 

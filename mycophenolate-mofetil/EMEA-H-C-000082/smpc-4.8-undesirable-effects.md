@@ -22,6 +22,7 @@ However, the following treatment-related adverse events were more frequent in th
 Elderly patients (≥ 65 years):
 Elderly patients (≥ 65 years) may generally be at increased risk of adverse reactions due to immunosuppression.
 Elderly patients receiving CellCept as part of a combination immunosuppressive regimen, may be at increased risk of certain infections (including cytomegalovirus tissue invasive disease) and possibly gastrointestinal haemorrhage and pulmonary oedema, compared to younger individuals.
+
 Other adverse reactions:
 Adverse reactions, probably or possibly related to CellCept, reported in ≥1/10 and in ≥1/100 to<1/10 of patients treated with CellCept in the controlled clinical trials of renal (2 g data), cardiac and hepatic transplant patients are listed in the following table.
 
@@ -74,6 +75,8 @@ Additional adverse reactions reported during post-marketing are described below 
 Gastrointestinal: colitis including cytomegalovirus colitis, (≥1/100 to <1/10), pancreatitis, (≥1/100 to <1/10) and intestinal villous atrophy.
 
 Disorders related to immunosuppression: serious life-threatening infections including meningitis, endocarditis, tuberculosis and atypical mycobacterial infection.
+Cases of Progressive Multifocal Leukoencephalopathy (PML), sometimes fatal, have been reported in CellCept treated patients.
+The reported cases generally had risk factors for PML, including immunosuppressant therapies and impairment of immune function.
 Agranulocytosis (≥1/1000 to <1/100) and neutropenia have been reported; therefore, regular monitoring of patients taking CellCept is advised (see section 4.4).
 There have been reports of aplastic anaemia and bone marrow depression in patients treated with CellCept, some of which have been fatal.
 
@@ -117,8 +120,8 @@ Adverse Reactions, Probably or Possibly Related to CellCept, Reported in Patient
 |  | Common | Hepatitis |
 | Skin and subcutaneous tissue disorders | Very common | - |
 |  | Common | Rash, acne, alopecia, |
-| Musculoskeletal and connective Tissue disorders | Very common | - |
-|  | Common | Arthralgia |
+| Musculoskeletal and connective | Very common | - |
+| Tissue disorders | Common | Arthralgia |
 | Renal and urinary disorders | Very common | - |
 |  | Common | Renal impairment |
 | General disorders and administration site conditions | Very common | - |
