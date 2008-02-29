@@ -4,7 +4,21 @@ Hypersensitivity Reaction (see also section 4.8):
 
 In clinical studies approximately 5% of subjects receiving abacavir develop a hypersensitivity reaction; some of these cases were life-threatening and resulted in a fatal outcome despite taking precautions.
 
-- Description
+Studies have shown that carriage of the HLA-B*5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir.
+Based on the prospective study CNA106030 (PREDICT-1), use of pre-therapy screening for the HLA-B*5701 allele and subsequently avoiding abacavir in patients with this allele significantly reduced the incidence of abacavir hypersensitivity reactions.
+In populations similar to that enrolled in the PREDICT-1 study, it is estimated that 48% to 61% of patients with the HLA-B*5701 allele will develop a hypersensitivity reaction during the course of abacavir treatment compared with 0% to 4% of patients who do not have the HLA-B*5701 allele.
+
+These results are consistent with those of prior retrospective studies.
+
+As a consequence, before initiating treatment with abacavir, screening for carriage of the HLA-B*5701 allele should be performed in any HIV-infected patient, irrespective of racial origin.
+Abacavir should not be used in patients known to carry the HLA-B*5701 allele, unless no other therapeutic option is available based on the treatment history and resistance testing (see section 4.1).
+In any patient treated with abacavir, the clinical diagnosis of suspected hypersensitivity reaction must remain the basis of clinical decision-making.
+It is noteworthy that among patients with a clinically suspected hypersensitivity reaction, a proportion did not carry HLA-B*5701.
+Therefore, even in the absence of HLA-B*5701 allele, it is important to permanently discontinue abacavir and not rechallenge with abacavir if a hypersensitivity reaction cannot be ruled out on clinical grounds, due to the potential for a severe or even fatal reaction.
+
+Skin patch testing was used as a research tool for the PREDICT-1 study but has no utility in the clinical management of patients and therefore should not be used in the clinical setting.
+
+- Clinical Description
 
 Hypersensitivity reactions are characterised by the appearance of symptoms indicating multi-organ system involvement.
 Almost all hypersensitivity reactions will have fever and/or rash as part of the syndrome.
@@ -15,7 +29,7 @@ Other frequently observed signs or symptoms of the hypersensitivity reaction may
 The symptoms related to this hypersensitivity reaction worsen with continued therapy and can be life-threatening.
 These symptoms usually resolve upon discontinuation of Ziagen.
 
-- Management
+- Clinical Management
 
 Hypersensitivity reaction symptoms usually appear within the first six weeks of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 Patients should be monitored closely, especially during the first two months of treatment with Ziagen, with consultation every two weeks.
@@ -41,20 +55,6 @@ Hypersensitivity reactions with rapid onset, including life-threatening reaction
 The most common isolated symptom of a hypersensitivity reaction was a skin rash.
 Moreover, on very rare occasions hypersensitivity reactions have been reported in patients who have restarted therapy, and who had no preceding symptoms of a hypersensitivity reaction.
 In both cases, if a decision is made to restart Ziagen this must be done in a setting where medical assistance is readily available.
-
-- Risk Factors
-
-Analyses of clinical risk factors for hypersensitivity to abacavir have consistently identified the risk for those of black race to be approximately half the risk of other racial groups combined.
-As this still represents a significant risk (based on the fact that approximately 5% of subjects receiving abacavir develop a hypersensitivity reaction in clinical studies), the same close monitoring should apply to patients of all racial groups.
-
-In addition, two retrospective, case-controlled pharmacogenetic studies have shown that carriage of HLA-B*5701 is associated with a significantly increased risk of clinically suspected hypersensitivity in Caucasians.
-It is estimated that approximately 50% of patients with the HLA-B*5701 allele develop a suspected hypersensitivity reaction (HSR) during the course of abacavir treatment versus less than 3% of patients who do not have HLA-B*5701 allele in the Caucasian population.
-This genetic association has not been assessed in prospective controlled clinical studies but such studies are ongoing to better appreciate the association between occurrence of HSR and carriage of HLA-B*5701 allele.
-However, it is noteworthy that among patients with a suspected hypersensitivity reaction, 50% did not carry HLA-B*5701 in the Caucasian population.
-Therefore, the clinical diagnosis of suspected hypersensitivity to abacavir must remain the basis for clinical decision-making.
-It is important to permanently discontinue abacavir and not rechallenge with abacavir if hypersensitivity cannot be ruled out on clinical grounds.
-Absence of the HLA-B*5701 allele does not justify rechallenge with abacavir due to the potential for a fatal rechallenge reaction.
-The same recommendation should apply for other races and ethnic groups, although data are more limited in these groups.
 
 - Essential patient information
 
@@ -87,7 +87,6 @@ Treatment with nucleoside analogues should be discontinued in the setting of sym
 
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
 Patients co-infected with hepatitis C and treated with alpha interferon and ribavirin may constitute a special risk.
-
 Patients at increased risk should be followed closely.
 
 Mitochondrial dysfunction: nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.

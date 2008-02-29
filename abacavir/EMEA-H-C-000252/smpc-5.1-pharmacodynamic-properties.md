@@ -69,7 +69,6 @@ Twice daily (300 mg) administration:
 - Therapy naïve adults
 
 In adults treated with abacavir in combination with lamivudine and zidovudine the proportion of patients with undetectable viral load (<400 copies/ml) was approximately 70% (intention to treat analysis at 48 weeks) with corresponding rise in CD4 cells.
-
 One randomised, double blind, placebo controlled clinical study in adults has compared the combination of abacavir, lamivudine and zidovudine to the combination of indinavir, lamivudine and zidovudine.
 Due to the high proportion of premature discontinuation (42% of patients discontinued randomised treatment by week 48), no definitive conclusion can be drawn regarding the equivalence between the treatment regimens at week 48.
 Although a similar antiviral effect was observed between the abacavir and indinavir containing regimens in terms of proportion of patients with undetectable viral load (≤400 copies/ml; intention to treat analysis (ITT), 47% versus 49%; as treated analysis (AT), 86% versus 94% for abacavir and indinavir combinations respectively), results favoured the indinavir combination, particularly in the subset of patients with high viral load (>100,000 copies/ml at baseline; ITT, 46% versus 55%; AT, 84% versus 93% for abacavir and indinavir respectively).
@@ -107,6 +106,7 @@ In adults moderately exposed to antiretroviral therapy the addition of abacavir 
 
 In heavily NRTI pretreated patients the efficacy of abacavir is very low.
 The degree of benefit as part of a new combination regimen will depend on the nature and duration of prior therapy which may have selected for HIV-1 variants with cross-resistance to abacavir.
+
 Once daily (600 mg) administration:
 
 - Therapy naïve adults

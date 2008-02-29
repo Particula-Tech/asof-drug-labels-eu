@@ -18,6 +18,5 @@ The changes in abacavir pharmacokinetics are not considered clinically relevant.
 In this study abacavir increased the mean methadone systemic clearance by 22%.
 The induction of drug metabolising enzymes cannot therefore be excluded.
 Patients being treated with methadone and abacavir should be monitored for evidence of withdrawal symptoms indicating under dosing, as occasionally methadone re-titration may be required.
-
 Retinoids: retinoid compounds are eliminated via alcohol dehydrogenase.
 Interaction with abacavir is possible but has not been studied.

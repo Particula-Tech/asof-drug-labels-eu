@@ -21,6 +21,7 @@ A pharmacokinetic overexposure of abacavir can occur since accurate dosing can n
 Therefore a close safety monitoring is warranted in these patients.
 
 Children weighing at least 30 kg: the adult dosage of 300 mg twice daily should be taken.
+
 Children weighing > 21 kg to < 30 kg: one half of a Ziagen tablet taken in the morning and one whole tablet taken in the evening.
 
 Children weighing 14 to 21 kg: one half of a Ziagen tablet twice daily.

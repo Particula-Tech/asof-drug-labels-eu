@@ -72,6 +72,7 @@ The following convention has been used for their classification: very common (>1
 
 Metabolism and nutrition disorders
 Common: anorexia
+
 Nervous system disorders
 Common: headache
 
