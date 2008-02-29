@@ -4,6 +4,7 @@ Capsule content:
 Lactose monohydrate
 Maize starch
 Talc
+
 Capsule shell:
 Gelatin
 Titanium Dioxide (E171)

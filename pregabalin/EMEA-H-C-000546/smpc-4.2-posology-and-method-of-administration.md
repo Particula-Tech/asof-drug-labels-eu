@@ -14,11 +14,11 @@ Epilepsy
 Pregabalin treatment can be started with a dose of 150 mg per day.
 Based on individual patient response and tolerability, the dosage may be increased to 300 mg per day after 1 week.
 The maximum dosage of 600 mg per day may be achieved after an additional week.
+
 Generalised Anxiety Disorder
 
 The dose range is 150 to 600 mg per day given as two or three divided doses.
 The need for treatment should be reassessed regularly.
-
 Pregabalin treatment can be started with a dose of 150 mg per day.
 Based on individual patient response and tolerability, the dosage may be increased to 300 mg per day after 1 week.
 Following an additional week the dosage may be increased to 450 mg per day.
@@ -62,10 +62,10 @@ BID = Two divided doses
 Use in patients with hepatic impairment
 
 No dosage adjustment is required for patients with hepatic impairment (see section 5.2).
+
 Use in children and adolescents
 
 Lyrica is not recommended for use in children below the age of 12 years and adolescents (12 - 17 years of age) due to insufficient data on safety and efficacy (see section 5.3).
-
 Use in the elderly (over 65 years of age)
 
 Elderly patients may require a dose reduction of pregabalin due to a decreased renal function (see patients with renal impairment).

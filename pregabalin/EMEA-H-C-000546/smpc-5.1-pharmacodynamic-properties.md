@@ -34,6 +34,7 @@ Overall, the safety and efficacy profiles for BID and TID dosing regimens were s
 A reduction in seizure frequency was observed by Week 1.
 
 Generalised Anxiety Disorder
+
 Pregabalin has been studied in 6 controlled studies of 4-6 week duration, an elderly study of 8 week duration and a long-term relapse prevention study with a double blind relapse prevention phase of 6 months duration.
 
 Relief of the symptoms of GAD as reflected by the Hamilton Anxiety Rating Scale (HAM-A) was observed by Week 1.
