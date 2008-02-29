@@ -58,11 +58,11 @@ Respiratory, thoracic and oropharyngeal spasm, laryngospasm, aspiration pneumoni
 
 mediastinal disorders:
 
-Gastrointestinal disorders: pancreatitis, increased salivation, dysphagia, abdominal discomfort, stomach discomfort
+Gastrointestinal disorders: pancreatitis, increased salivation, dysphagia, abdominal discomfort, stomach discomfort, diarrhoea
 
 Hepato-biliary disorders: jaundice, hepatitis, increased Alanine Aminotransferase (ALT),
 
-increased Aspartate Aminotransferase (AST), increased Gamma Glutamyl Transferase (GGT)
+increased Aspartate Aminotransferase (AST), increased Gamma Glutamyl Transferase (GGT), increased alkaline phosphatase
 
 Skin and subcutaneous tissue rash, photosensitivity reaction, alopecia, hyperhidrosis disorders:
 
@@ -150,3 +150,5 @@ connective tissue disorders:
 General disorders and temperature regulation disorder (e.g. hypothermia, pyrexia),
 
 administration site conditions: chest pain, peripheral oedema
+
+glucose fluctuation, glycosylated haemoglobin increased Psychiatric disorders: cases of suicide attempt, suicidal ideation, and completed suicide have been reported post marketing (see section 4.4).
