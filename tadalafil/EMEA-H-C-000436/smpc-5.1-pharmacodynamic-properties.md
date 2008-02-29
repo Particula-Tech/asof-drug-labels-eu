@@ -30,6 +30,7 @@ Three studies were conducted in men to assess the potential effect on spermatoge
 10 mg (one 6-month study) and 20 mg (one 6-month and one 9-month study) administered daily.
 In two of these studies decreases were observed in sperm count and concentration related to tadalafil treatment of unlikely clinical relevance.
 These effects were not associated with changes in other parameters such as motility, morphology and FSH.
+
 Tadalafil at doses of 2.5, 5, and 10 mg taken once a day has been evaluated in 3 clinical studies involving 853 patients of various ages (range 21-82 years) and ethnicities, with erectile dysfunction of various severities (mild, moderate, severe) and etiologies.
 Most patients in all three studies were responders to previous on-demand treatment with PDE5 inhibitors.
 In the two primary efficacy studies of general populations, the mean per-subject proportion of successful attempts were 57 and 67% on CIALIS 5mg, 50% on CIALIS 2.5mg as compared to 31 and 37% with placebo.

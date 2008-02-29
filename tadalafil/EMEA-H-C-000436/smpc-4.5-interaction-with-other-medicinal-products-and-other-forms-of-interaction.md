@@ -1,5 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
+[CIALIS 5 mg film-coated tablets]
+
 Interaction studies were conducted with 10 mg and/or 20 mg tadalafil, as indicated below.
 With regard to those interaction studies where only the 10 mg tadalafil dose was used, clinically relevant interactions at higher doses cannot be completely ruled out.
 
@@ -68,10 +70,6 @@ Tadalafil (10 mg and 20 mg) had no clinically significant effect on exposure (AU
 Tadalafil (10 mg and 20 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid.
 
 Specific interaction studies with antidiabetic agents were not conducted.
-
-[CIALIS 5 mg film-coated tablets]
-
-(all sentences already above)
 
 [CIALIS 10 mg film-coated tablets]
 

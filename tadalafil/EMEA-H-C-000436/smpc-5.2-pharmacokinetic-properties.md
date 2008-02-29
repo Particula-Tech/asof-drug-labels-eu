@@ -34,6 +34,7 @@ Special Populations
 Elderly
 Healthy elderly subjects (65 years or over), had a lower oral clearance of tadalafil, resulting in 25 % higher exposure (AUC) relative to healthy subjects aged 19 to 45 years.
 This effect of age is not clinically significant and does not warrant a dose adjustment.
+
 Renal insufficiency
 In clinical pharmacology studies using single-dose tadalafil (5 mg-20 mg), tadalafil exposure (AUC) approximately doubled in subjects with mild (creatinine clearance 51 to 80 ml/min) or moderate (creatinine clearance 31 to 50 ml/min) renal impairment and in subjects with end-stage renal disease on dialysis.
 In haemodialysis patients, Cmax was 41% higher than that observed in healthy subjects.
