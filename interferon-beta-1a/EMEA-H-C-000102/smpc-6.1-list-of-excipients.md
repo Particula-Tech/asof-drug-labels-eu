@@ -1,8 +1,8 @@
 # 6.1 List of excipients
 
-Human serum albumin
-Dibasic sodium phosphate
-Monobasic sodium phosphate
+Human serum albumin,
+Dibasic sodium phosphate,
+Monobasic sodium phosphate,
 Sodium chloride.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
@@ -11,4 +11,4 @@ Sodium acetate trihydrate,
 Acetic acid, glacial,
 Arginine hydrochloride,
 Polysorbate 20,
-Water for injections
+Water for injections.

@@ -23,8 +23,10 @@ After a single intramuscular dose of AVONEX, serum levels of these products rema
 
 Whether the mechanism of action of AVONEX in MS is mediated by the same pathway as the biological effects described above is not known because the pathophysiology of MS is not well established.
 
-The effects of AVONEX in the treatment of MS were demonstrated in a placebo-controlled study of 301 patients (AVONEX n=158, placebo n=143) with relapsing MS. Due to the design of the study, patients were followed for variable lengths of time.
-One hundred and fifty AVONEX-treated patients completed one year on study and 85 completed two years on study.
+The effects of lyophilised AVONEX in the treatment of MS were demonstrated in a placebo-controlled study of 301 patients (AVONEX n=158, placebo n=143) with relapsing MS characterised by at least 2 exacerbations in the previous 3 years or at least one exacerbation per year prior to entry when the duration of the disease was less than 3 years.
+Patients with an EDSS of 1.0 to 3.5 at entry were included in the clinical trial.
+Due to the design of the study, patients were followed for variable lengths of time.
+150 AVONEX-treated patients completed one year on study and 85 completed two years on study.
 In the study, the cumulative percentage of patients who developed disability progression (by Kaplan-Meier life table analysis) by the end of two years was 35% for placebo-treated patients and 22% for AVONEX-treated patients.
 Disability progression was measured as an increase in the Expanded Disability Status Scale (EDSS) of 1.0 point, sustained for at least six months.
 It was also shown that there was a one-third reduction in annual relapse rate.
@@ -50,4 +52,4 @@ Interferons are cytokines that mediate antiviral, antiproliferative, and immunom
 Three major forms of interferons have been distinguished: alpha, beta, and gamma.
 Interferons alpha and beta are classified as Type I interferons, and interferon gamma is a Type II interferon.
 
-The effects of lyophilised AVONEX in the treatment of MS were demonstrated in a placebo-controlled study of 301 patients (AVONEX n=158, placebo n=143) with relapsing MS. Due to the design of the study, patients were followed for variable lengths of time.
+However, the impact of early treatment with AVONEX is unknown even in this high-risk subgroup as the study was mainly designed to assess the time to the second event rather than the long-term evolution of the disease.

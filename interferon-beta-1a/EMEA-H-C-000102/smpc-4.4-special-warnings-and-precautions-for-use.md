@@ -1,13 +1,13 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 AVONEX should be administered with caution to patients with previous or current depressive disorders, in particular to those with antecedents of suicidal ideation (see section 4.3).
 Depression and suicidal ideation are known to occur in increased frequency in the multiple sclerosis population and in association with interferon use.
 Patients should be advised to immediately report any symptoms of depression and/or suicidal ideation to their prescribing physician.
 
 Patients exhibiting depression should be monitored closely during therapy and treated appropriately.
-Cessation of therapy with AVONEX should be considered (see also section 4.3 and 4.8).
+Cessation of therapy with AVONEX should be considered (see also sections 4.3 and 4.8).
 
-Avonex should be administered with caution to patients with a history of seizures, to those receiving treatment with anti-epileptics, particularly if their epilepsy is not adequately controlled with anti-epileptics (see sections 4.5 and 4.8).
+AVONEX should be administered with caution to patients with a history of seizures, to those receiving treatment with anti-epileptics, particularly if their epilepsy is not adequately controlled with anti-epileptics (see sections 4.5 and 4.8).
 
 Caution should be used and close monitoring considered when administering AVONEX to patients with severe renal and hepatic failure and to patients with severe myelosuppression.
 
@@ -32,7 +32,5 @@ Data from patients treated up to two years with AVONEX suggests that approximate
 The use of various assays to detect serum antibodies to interferons limits the ability to compare antigenicity among different products.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
-
-AVONEX should be administered with caution to patients with previous or current depressive disorders in particular to those with antecedents of suicidal ideation (see section 4.3).
 
 Recent clinical studies with patients treated up to three years with AVONEX suggest that approximately 5% to 8% develop neutralising antibodies.

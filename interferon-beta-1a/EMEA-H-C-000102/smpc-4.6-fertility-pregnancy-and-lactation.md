@@ -8,7 +8,7 @@ Initiation of treatment is contraindicated during pregnancy (see section 4.3).
 
 Women of child-bearing potential
 
-Women of child-bearing potential should take appropriate contraceptive measures.
+Women of child-bearing potential have to take appropriate contraceptive measures.
 If the patient becomes pregnant or plans to become pregnant while taking AVONEX she should be informed of the potential hazards and discontinuation of therapy should be considered (see section 5.3).
 In patients with a high relapse rate before treatment started, the risk of a severe relapse following discontinuation of AVONEX in the event of pregnancy should be weighed against a possible increased risk of spontaneous abortion.
 Lactation

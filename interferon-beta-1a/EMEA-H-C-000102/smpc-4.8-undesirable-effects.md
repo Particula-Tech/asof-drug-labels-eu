@@ -12,10 +12,11 @@ In some cases these symptoms are associated with flu-like symptoms.
 The frequencies of adverse reactions are expressed in patient-years, according to the following categories:
 
 Very common (≥1/10 patient-years);
-Common (≥1/100, <1/10 patient-years);
-Uncommon (≥1/1, 000, <1/100 patient-years);
-Rare (≥1/10, 000, <1/1,000 patient-years);
+Common (≥1/100 to <1/10 patient-years);
+Uncommon (≥1/1, 000 to <1/100 patient-years);
+Rare (≥1/10, 000 to <1/1,000 patient-years);
 Very rare (<1/10,000 patient-years);
+Not known (cannot be estimated from the available data).
 
 Patient-time is the sum of individual units of time that the patient in the study has been exposed to AVONEX before experiencing the adverse reaction.
 For example, 100 person-years could be observed in 100 patients who were on treatment for one year or in 200 patients who were on treatment for half a year.
@@ -24,42 +25,40 @@ Adverse reactions identified from studies (clinical trials and observational stu
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| Infections and infestations unknown frequency | injection site abscess (1) |
+| Investigations common | lymphocyte count decreased, white blood cell count decreased, neutrophil count decreased, hematocrit decreased, blood potassium increased, blood urea nitrogen increased |
 | --- | --- |
-| Blood and lymphatic system disorders unknown frequency | pancytopenia, thrombocytopenia |
-| Immune system disorders unknown frequency | anaphylactic reaction, anaphylactic shock, hypersensitivity reactions (angioedema, dyspnoea, urticaria, rash, pruritic rash) |
-| Endocrine disorders unknown frequency | hypothyroidism, hyperthyroidism |
-| Metabolism and nutrition disorders common | anorexia |
-| Psychiatric disorders common | depression (see section 4.4), insomnia |
-| unknown frequency | suicide, psychosis, anxiety, confusion, emotional lability |
-| Nervous system disorders very common | headache (2) |
+| uncommon | platelet count decreased |
+| not known | weight decreased, weight increased, liver function tests abnormal |
+| Cardiac disorders not known | cardiomyopathy, congestive heart failure (see section 4.4), palpitations, arrhythmia, tachycardia |
+| Blood and lymphatic system disorders not known | pancytopenia, thrombocytopenia |
+| Nervous system disorders very common | headache2 |
 | common | muscle spasticity, hypoesthesia |
-| unknown frequency | neurological symptoms, syncope (3), hypertonia, dizziness, paraesthesia, seizures, migraine |
-| Cardiac disorders unknown frequency | cardiomyopathy, congestive heart failure (see section 4.4), palpitations, arrhythmia, tachycardia |
-| Vascular disorders common | flushing |
-| unknown frequency | vasodilatation |
+| not known | neurological symptoms, syncope3, hypertonia, dizziness, paraesthesia, seizures, migraine |
 | Respiratory, thoracic and mediastinal disorders common | rhinorrhoea |
 | rare | dyspnoea |
-| Gastrointestinal disorders common | vomiting, diarrhoea, nausea (2) |
-| Hepato-biliary disorders unknown frequency | hepatic failure (see section 4.4), hepatitis, autoimmune hepatitis |
+| Gastrointestinal disorders common | vomiting, diarrhoea, nausea2 |
 | Skin and subcutaneous tissue disorders common | rash, sweating increased, contusion |
 | uncommon | alopecia |
-| unknown frequency | angioneurotic oedema, pruritus, rash vesicular, urticaria, aggravation of psoriasis |
-| Musculoskeletal, connective tissue and bone disorders common | muscle cramp, neck pain, myalgia (2), arthralgia, pain in extremity, back pain, muscle stiffness, musculoskeletal stiffness |
-| unknown frequency | systemic lupus erythematosus, muscle weakness, arthritis |
-| Reproductive system disorders uncommon | metrorrhagia, menorrhagia |
-
-| General disorders and administration site conditions very common | flu-like symptoms, pyrexia (2), chills (2), sweating (2) |
-| --- | --- |
-| common | injection site pain, injection site erythema, injection site bruising, asthenia (2), pain, fatigue (2), malaise, night sweats |
+| not known | angioneurotic oedema, pruritus, rash vesicular, urticaria, aggravation of psoriasis |
+| Musculoskeletal and connective tissue disorders common | muscle cramp, neck pain, myalgia2, arthralgia, pain in extremity, back pain, muscle stiffness, musculoskeletal stiffness |
+| not known | systemic lupus erythematosus, muscle weakness, arthritis |
+| Endocrine disorders not known | hypothyroidism, hyperthyroidism |
+| Metabolism and nutrition disorders common | anorexia |
+| Infections and infestations not known | injection site abscess1 |
+| Vascular disorders common | flushing |
+| not known | vasodilatation |
+| General disorders and administration site conditions very common | flu-like symptoms, pyrexia2, chills2, sweating2 |
+| common | injection site pain, injection site erythema, injection site bruising, asthenia2, pain, fatigue2, malaise, night sweats |
 | uncommon | injection site burning |
-| unknown frequency | injection site reaction, injection site inflammation, injection site cellulitis (1), injection site necrosis, injection site bleeding, chest pain |
-| Investigations common | lymphocyte count decreased, white blood cell count decreased, neutrophil count decreased, hematocrit decreased, blood potassium increased, blood urea nitrogen increased |
-| uncommon | platelet count decreased |
-| unknown frequency | weight decreased, weight increased, liver function tests abnormal |
+| not known | injection site reaction, injection site inflammation, injection site cellulitis1, injection site necrosis, injection site bleeding, chest pain |
+| Immune system disorders not known | anaphylactic reaction, anaphylactic shock, hypersensitivity reactions (angioedema, dyspnoea, urticaria, rash, pruritic rash) |
+| Hepatobiliary disorders not known | hepatic failure (see section 4.4), hepatitis, autoimmune hepatitis |
+| Reproductive system and breast disorders uncommon | metrorrhagia, menorrhagia |
+| Psychiatric disorders common | depression (see section 4.4), insomnia |
+| not known | suicide, psychosis, anxiety, confusion, emotional lability |
 
-(1) Injection site reactions including pain, inflammation and very rare cases of abscess or cellulitis that may require surgical intervention have been reported.
+1Injection site reactions including pain, inflammation and very rare cases of abscess or cellulitis that may require surgical intervention have been reported.
 
-(2) The frequency of occurrence is higher at the beginning of treatment.
+2The frequency of occurrence is higher at the beginning of treatment.
 
-(3) A syncope episode may occur after AVONEX injection, it is normally a single episode that usually appears at the beginning of the treatment and does not recur with subsequent injections.
+3A syncope episode may occur after AVONEX injection, it is normally a single episode that usually appears at the beginning of the treatment and does not recur with subsequent injections.
