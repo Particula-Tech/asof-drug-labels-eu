@@ -2,7 +2,7 @@
 
 Treatment-related, adverse events observed in 2,400 subjects dosed with posaconazole are shown in Table 2.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-One hundred seventy two patients received posaconazole for � 6 months; 58 of these received posaconazole therapy for � 12 months.
+One hundred seventy two patients received posaconazole for ≥ 6 months; 58 of these received posaconazole therapy for ≥ 12 months.
 
 The most frequently reported adverse reactions reported across the whole population of healthy volunteers and patients were nausea (6 %) and headache (6 %).
 
@@ -33,3 +33,5 @@ Treatment-related serious adverse events reported in 605 patients treated with p
 During clinical development there was a single case of torsade de pointes in a patient taking posaconazole.
 This report involved a seriously ill patient with multiple confounding, potentially contributory risk factors, such as a history of palpitations, recent cardiotoxic chemotherapy, hypokalemia, and hypomagnesemia.
 In addition, rare cases of hemolytic uremic syndrome and thrombotic thrombocytopenic purpura have been reported primarily among patients who had been receiving concomitant cyclosporine or tacrolimus for management of transplant rejection or graft vs. host disease.
+
+During post marketing surveillance severe hepatic injury with fatal outcome has been reported (see section 4.4).

@@ -3,9 +3,9 @@
 Hypersensitivity: There is no information regarding cross-sensitivity between posaconazole and other azole antifungal agents.
 Caution should be used when prescribing Noxafil to patients with hypersensitivity to other azoles.
 
-Hepatic toxicity: In clinical trials, there were reports of hepatic reactions (e.g. mild to moderate elevations in ALT, AST, alkaline phosphatase, total bilirubin and/or clinical hepatitis) during treatment with posaconazole.
+Hepatic toxicity: Hepatic reactions (e.g. mild to moderate elevations in ALT, AST, alkaline phosphatase, total bilirubin and/or clinical hepatitis) have been reported during treatment with posaconazole.
 Elevated liver function tests were generally reversible on discontinuation of therapy and in some instances these tests normalised without interruption of therapy.
-Rarely, more severe hepatic reactions including cholestasis or hepatic failure were reported in patients with serious underlying medical conditions (e.g. hematologic malignancy) during treatment with posaconazole.
+Rarely, more severe hepatic reactions with fatal outcomes have been reported.
 Posaconazole should be used with caution in patients with severe hepatic impairment.
 In these patients, the prolonged elimination half-life may lead to increased exposure.
 

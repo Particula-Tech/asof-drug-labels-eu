@@ -32,7 +32,6 @@ Most of the cases of aspergillosis were considered to be refractory to prior the
 
 As shown in Table 3, a successful response (complete or partial resolution) at the end of treatment was seen in 42 % of posaconazole-treated patients compared to 26 % of the external group.
 However, this was not a prospective, randomised controlled study and so all comparisons with the external control group should be viewed with caution.
-
 Table 3.
 Overall efficacy of posaconazole at the end of treatment for invasive aspergillosis in comparison to an external control group
 
@@ -74,11 +73,11 @@ Clinical success rate was defined as the number of cases assessed as having a cl
 Prophylaxis of Invasive Fungal Infections (IFIs) (Studies 316 and 1899)
 Two randomised, controlled prophylaxis studies were conducted among patients at high risk for developing invasive fungal infections.
 
-Study 316 was a randomised, double-blind trial of posaconazole oral suspension (200 mg three times a day) versus fluconazole capsules (400 mg once daily) in allogeneic hematopoietic stem cell transplant
-
-1 Includes other less common species or species unknown recipients with graft-versus-host disease (GVHD).
+Study 316 was a randomised, double-blind trial of posaconazole oral suspension (200 mg three times a day) versus fluconazole capsules (400 mg once daily) in allogeneic hematopoietic stem cell transplant recipients with graft-versus-host disease (GVHD).
 The primary efficacy endpoint was the incidence of proven/probable IFIs at 16 weeks post-randomization as determined by an independent, blinded external expert panel.
-A key secondary endpoint was the incidence of proven/probable IFIs during the on-treatment period (first dose to last dose of study medicinal product + 7 days).
+A key secondary endpoint was the incidence of proven/probable IFIs during the
+
+1 Includes other less common species or species unknown on-treatment period (first dose to last dose of study medicinal product + 7 days).
 The majority (377/600, [63 %]) of patients included had Acute Grade 2 or 3 or chronic extensive (195/600,
 [32.5 %]) GVHD at study start.
 The mean duration of therapy was 80 days for posaconazole and 77 days for fluconazole.
@@ -129,7 +128,6 @@ a: FLU/ITZ (1899); FLU (316).
 b: In 1899 this was the period from randomization to last dose of study medicinal product plus 7 days; in 316 it was the period from first dose to last dose of study medicinal product plus 7 days.
 c: In 1899, this was the period from randomization to 100 days post-randomization; in 316 it was the period from the baseline day to 111 days post-baseline.
 d: All randomized e: All treated
-
 In Study 1899, a significant decrease in all cause mortality in favour of posaconazole was observed [POS 49/304 (16 %) vs. FLU/ITZ 67/298 (22 %) p= 0.048].
 Based on Kaplan-Meier estimates, the probability of survival up to day 100 after randomization, was significantly higher for posaconazole recipients; this survival benefit was demonstrated when the analysis considered all causes of death (P= 0.0354) as well as IFI-related deaths (P = 0.0209).
 
