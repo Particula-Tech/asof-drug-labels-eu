@@ -10,7 +10,7 @@ Adverse reactions are also included that have been reported from postmarketing s
 Adverse reactions
 Frequency estimate: Very common (≥ 1/10), Common (≥ 1/100 to < 1/10), Uncommon (≥ 1/1000 to < 1/100), Rare (≥ 1/10,000 to < 1/1000), Very Rare (< 1/10,000) and Not known (events not reported in registration trials cannot be estimated from postmarketing spontaneous reports).
 
-| Very common (≥1 /10) | Common (≥1 /100 to <1 /10) | Uncommon (≥1 /1000 to <1 /100) | Rare (≥1 /10,000 to <1 /1000) | Not known |
+| Very common (≥1 /10) | Common (≥1 /100 to <1 /10) | Uncommon (≥1 /1000 to <1 /100) | Rare (≥1 /10,000 to < 1/1000) | Not known |
 | --- | --- | --- | --- | --- |
 | System Organ Class: Immune system disorders |  |  |  |  |
 |  |  | Hypersensitivity reactions |  |  |
@@ -18,6 +18,8 @@ Frequency estimate: Very common (≥ 1/10), Common (≥ 1/100 to < 1/10), Uncomm
 | Headache | Dizziness |  | Stroke1, Syncope, Transient ischaemic attacks1, Migraine | Seizures, Transient amnesia |
 | System Organ Class: Eye disorders |  |  |  |  |
 |  |  | Blurred vision, Sensations described as eye pain, Swelling of eyelids, Conjunctival hyperaemia | Visual field defect | Non-arteritic anterior ischemic optic neuropathy (NAION), Retinal vascular occlusion |
+| System Organ Class: Ear and labyrinth disorders |  |  |  |  |
+|  |  |  |  | Sudden deafness2 |
 | System Organ Class: Cardiac disorders1 |  |  |  |  |
 |  | Palpitations | Tachycardia | Myocardial infarction | Unstable angina pectoris, Ventricular arrhythmia |
 
@@ -55,6 +57,7 @@ Chest pain1 Facial oedema Sudden cardiac
 death1
 
 (1) Most of the patients in whom these events have been reported had pre-existing cardiovascular risk factors (see section 4.4).
+(2) Sudden decrease or loss of hearing has been reported in a small number of postmarketing and clinical trial cases with the use of all PDE5 inhibitors, including tadalafil.
 
 A slightly higher incidence of ECG abnormalities, primarily sinus bradycardia, has been reported in patients treated with tadalafil once a day as compared with placebo.
 Most of these ECG abnormalities were not associated with adverse reactions.
@@ -65,6 +68,20 @@ Adverse reactions are alos included that have been reported from postmarketing s
 
 Frequency estimate: Very common (≥ 1/10), Common (≥ 1/100 to < 1/10), Uncommon (≥ 1/1000 to < 1/100), Rare (≥ 1/10,000 to < 1/1000), Very Rare (< 1/10,000) and
 Not known (events not reported in registration trials cannot be estimated postmarketing spontaneous reports)
+
+| Very common (≥1 /10) | Common (≥1 /100 to <1 /10) | Uncommon (≥1 /1000 to <1 /100) | Rare (≥1 /10,000 to < 1/1000) | Not known |
+| --- | --- | --- | --- | --- |
+| System Organ Class: Immune system disorders |  |  |  |  |
+|  |  | Hypersensitivity reactions |  |  |
+| System Organ Class: Nervous System disorders |  |  |  |  |
+| Headache | Dizziness |  | Stroke1, Syncope, Transient ischaemic attacks1, Migraine | Seizures, Transient amnesia |
+| System Organ Class: Eye disorders |  |  |  |  |
+|  |  | Blurred vision, Sensations described as eye pain, Swelling of eyelids, Conjunctival hyperaemia | Visual field defect | Non-arteritic anterior ischemic optic neuropathy (NAION), Retinal vascular occlusion |
+| System Organ Class: Ear and labyrinth disorders |  |  |  |  |
+|  |  |  |  | Sudden deafness2 |
+| System Organ Class: Cardiac disorders1 |  |  |  |  |
+|  | Palpitations | Tachycardia | Myocardial infarction | Unstable angina pectoris, Ventricular arrhythmia |
+| System Organ Class: Vascular disorders |  |  |  |  |
 
 (1)Most of the patients in whom these events have been reported had pre-existing cardiovascular risk factors (see section 4.4).
 

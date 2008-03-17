@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs used in erectile dysfunction, ATC Code: G04BE.
-
 Tadalafil is a selective, reversible inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5).
 When sexual stimulation causes the local release of nitric oxide, inhibition of PDE5 by tadalafil produces increased levels of cGMP in the corpus cavernosum.
 This results in smooth muscle relaxation and inflow of blood into the penile tissues, thereby producing an erection.
