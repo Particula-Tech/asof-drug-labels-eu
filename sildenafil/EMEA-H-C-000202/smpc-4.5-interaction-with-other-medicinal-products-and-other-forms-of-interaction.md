@@ -37,8 +37,8 @@ Due to the nitrate component it has the potential to have serious interaction wi
 Effects of sildenafil on other medicinal products
 
 In vitro studies:
-Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 > 150 µM).
-Given sildenafil peak plasma concentrations of approximately 1 µM after recommended doses, it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes.
+Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 > 150 μM).
+Given sildenafil peak plasma concentrations of approximately 1 μM after recommended doses, it is unlikely that VIAGRA will alter the clearance of substrates of these isoenzymes.
 
 There are no data on the interaction of sildenafil and non-specific phosphodiesterase inhibitors such as theophylline or dipyridamole.
 
@@ -70,7 +70,7 @@ Sildenafil (100 mg) did not affect the steady state pharmacokinetics of the HIV 
 
 When a single 100 mg dose of sildenafil was administered with erythromycin, a specific CYP3A4 inhibitor, at steady state (500 mg twice daily for 5 days), there was a 182% increase in sildenafil systemic exposure (AUC).
 
-Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 >150 µM).
+Sildenafil is a weak inhibitor of the cytochrome P450 isoforms 1A2, 2C9, 2C19, 2D6, 2E1 and 3A4 (IC50 >150 μM).
 
 [VIAGRA 100 mg film-coated tablets]
 

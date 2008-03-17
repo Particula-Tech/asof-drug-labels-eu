@@ -19,7 +19,7 @@ Agents for the treatment of erectile dysfunction, including sildenafil, should b
 The safety and efficacy of combinations of sildenafil with other treatments for erectile dysfunction have not been studied.
 Therefore the use of such combinations is not recommended.
 
-Visual defects and cases of non-arteritic ischaemic optic neuropathy have been reported in connection with the intake of sildenafil and other PDE5 inhibitors.
+Visual defects and cases of non-arteritic anterior ischaemic optic neuropathy have been reported in connection with the intake of sildenafil and other PDE5 inhibitors.
 The patient should be advised that in case of sudden visual defect, he should stop taking VIAGRA and consult a physician immediately (see section 4.3).
 Co-administration of sildenafil with ritonavir is not advised (see section 4.5).
 

@@ -25,7 +25,6 @@ Not known: cannot be estimated from available data
 | Gastrointestinal disorders Common | Dyspepsia | 3.0 | 0.4 |
 
 There were reports of muscle aches when sildenafil was administered more frequently than the recommended dosing regimen.
-
 In postmarketing surveillance the following adverse events have been uncommonly or rarely reported (Table 2):
 
 | Table 2 |  |
@@ -40,30 +39,5 @@ In postmarketing surveillance the following adverse events have been uncommonly 
 
 In postmarketing surveillance, adverse events that have been reported with an unknown frequency in patients taking VIAGRA include:
 Eye disorders: Non-arteritic anterior ischaemic optic neuropathy (NAION), retinal vascular occlusion, visual field defect
-
-[VIAGRA 50 mg film-coated tablets]
-
-| Table 2 |  |
-| --- | --- |
-| Immune system disorders | hypersensitivity reactions |
-| Eye disorders | eye pain, red eyes/ bloodshot eyes |
-| Cardiac disorders | tachycardia, ventricular arrhythmia, myocardial infarction, unstable angina, sudden cardiac death (see section 4.4) |
-| Vascular disorders | hypotension (see sections 4.4 and 4.5), hypertension, epistaxis, syncope, cerebrovascular haemorrhage, transient ischaemic attack (see section 4.4) |
-| Gastrointestinal disorders | vomiting |
-| Skin and subcutaneous tissue disorders | skin rash |
-| Reproductive |  |
-
-system and breast prolonged erection, priapism
-disorders
-
-[VIAGRA 100 mg film-coated tablets]
-
-| Table 2 |  |
-| --- | --- |
-| Immune system disorders | hypersensitivity reactions |
-| Eye disorders | eye pain, red eyes/ bloodshot eyes |
-| Cardiac disorders | tachycardia, ventricular arrhythmia, myocardial infarction, unstable angina, sudden cardiac death (see section 4.4) |
-| Vascular disorders | hypotension (see sections 4.4 and 4.5), hypertension, epistaxis, syncope, cerebrovascular haemorrhage, transient ischaemic attack (see section 4.4) |
-| Gastrointestinal disorders | vomiting |
-| Skin and subcutaneous tissue disorders | skin rash |
-| Reproductive system and breast | prolonged erection, priapism |
+Ear disorders: Sudden deafness.
+Sudden decrease or loss of hearing has been reported in a small number of post-marketing and clinical trials cases with the use of all PDE5 inhibitors, including sildenafil.
