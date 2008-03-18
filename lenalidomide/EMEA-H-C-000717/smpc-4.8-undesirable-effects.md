@@ -5,6 +5,7 @@ The median duration of exposure to study treatment was significantly longer (44.
 The difference was accounted for by a lower rate of discontinuation from study treatment due to lower progression of disease in patients exposed to lenalidomide/dexamethasone (39.7%) than in placebo/dexamethasone patients (70.4%).
 
 325 (92%) of the patients in the lenalidomide/dexamethasone group experienced at least one adverse reaction compared to 288 (82%) in the placebo/dexamethasone group.
+
 The most serious adverse reactions were:
 
 - Venous thromboembolism (deep vein thrombosis, pulmonary embolism) (see section 4.4)
@@ -95,12 +96,12 @@ Common: Steroid myopathy, myopathy, myalgia, arthralgia, back pain, bone pain, p
 
 limb, chest wall pain, peripheral swelling
 Uncommon: Osteonecrosis, muscle atrophy, amyotrophy, pain in foot, muscle spasms, musculoskeletal pain, night cramps, groin pain, pain in jaw, neck pain, spondylitis, joint stiffness, joint swelling, musculoskeletal stiffness, limb discomfort, toe deformities, local swelling
-
 Endocrine disorders
 
 Common: Cushingoid-like symptoms
 
 Uncommon: Adrenal suppression, adrenal insufficiency, acquired hypothyroidism, increased and decreased thyroid stimulating hormone, hirsutism
+
 Metabolism and nutrition disorders
 
 Common: Hyperglycaemia, anorexia, hypocalcaemia, hypokalaemia, dehydration,

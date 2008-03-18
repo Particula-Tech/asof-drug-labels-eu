@@ -1,9 +1,9 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Celgene Europe Limited
-8 The Square
-Stockley Park
-Uxbridge
-Middlesex
-UB11 1FW
+Morgan House
+Madeira Walk
+Windsor
+Berkshire
+SL4 1EP
 United Kingdom

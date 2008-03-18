@@ -64,7 +64,11 @@ Prophylactic antibiotics should be considered particularly in patients with neut
 Copper-releasing intrauterine devices are generally not recommended due to the potential risks of infection at the time of insertion and menstrual blood loss which may compromise patients with neutropenia or thrombocytopenia.
 
 Pregnancy testing
-According to local practice, medically supervised pregnancy tests with a minimum sensitivity of 25 IU/ml must be performed for women of childbearing potential as outlined below.
+According to local practice, medically supervised pregnancy tests with a minimum sensitivity of 25 mIU/ml must be performed for women of childbearing potential as outlined below.
+This requirement includes women of childbearing potential who practice absolute and continuous abstinence.
+Ideally, pregnancy testing, issuing a prescription and dispensing should occur on the same day.
+Dispensing of lenalidomide to women of childbearing potential should occur within 7 days of the prescription.
+
 Prior to starting treatment
 A medically supervised pregnancy test should be performed during the consultation, when lenalidomide is prescribed, or in the 3 days prior to the visit to the prescriber once the patient had been using effective contraception for at least 4 weeks.
 The test should ensure the patient is not pregnant when she starts treatment with lenalidomide.
@@ -78,9 +82,6 @@ It is not known whether lenalidomide is present in semen.
 Therefore all male patients should use condoms throughout treatment duration, during dose interruption and for 1 week after cessation of treatment if their partner is of childbearing potential and has no contraception.
 
 Additional precautions
-Ideally, pregnancy testing, issuing a prescription and dispensing should occur on the same day.
-Dispensing of lenalidomide should occur within a maximum of 7 days of the prescription.
-
 Patients should be instructed never to give this medicinal product to another person and to return any unused capsules to their pharmacist at the end of treatment.
 
 Patients should not donate blood or semen during therapy or for 1 week following discontinuation of lenalidomide.
@@ -95,7 +96,7 @@ Venous thromboembolism
 The combination of lenalidomide with dexamethasone is associated with an increased risk of deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients with multiple myeloma (see sections 4.5 and 4.8).
 Concomitant administration of erythropoietic agents or previous history of DVT may also increase thrombotic risk in these patients.
 Therefore, erythropoietic agents, or other agents that may increase the risk of thrombosis, such as hormone replacement therapy, should be used with caution in multiple myeloma patients receiving lenalidomide with dexamethasone.
-A haemoglobin concentration above 13g/dl should lead to discontinuation of erythropoietic agents.
+A haemoglobin concentration above 13 g/dl should lead to discontinuation of erythropoietic agents.
 Patients and physicians are advised to be observant for the signs and symptoms of thromboembolism.
 Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, arm or leg swelling.
 Prophylactic antithrombotic medicines, such as low molecular weight heparins or warfarin, should be recommended, especially in patients with additional thrombotic risk factors.
@@ -127,6 +128,11 @@ Cases of hypothyroidism have been reported and monitoring of thyroid function sh
 Peripheral neuropathy
 Lenalidomide is structurally related to thalidomide, which is known to induce severe peripheral neuropathy.
 At this time, the neurotoxic potential of lenalidomide associated with long-term use cannot be ruled out.
+
+Tumour Lysis Syndrome
+Because lenalidomide has anti-neoplastic activity the complications of tumour lysis syndrome may occur.
+The patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
+These patients should be monitored closely and appropriate precautions taken.
 
 Lactose intolerance
 Revlimid capsules contain lactose.

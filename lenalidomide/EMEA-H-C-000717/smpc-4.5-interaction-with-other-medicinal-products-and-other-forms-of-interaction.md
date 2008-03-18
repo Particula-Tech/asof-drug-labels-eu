@@ -7,9 +7,9 @@ No interaction study has been performed with oral contraceptives.
 Dexamethasone is known to be a weak to moderate inducer of CYP3A4 and is likely to also affect other enzymes as well as transporters.
 It may not be excluded that the efficacy of oral contraceptives may be reduced during treatment.
 Effective measures to avoid pregnancy must be taken (see sections 4.4 and 4.6).
-
 Results from human in vitro metabolism studies indicate that lenalidomide is not metabolised by cytochrome P450 enzymes suggesting that administration of lenalidomide with drugs that inhibit cytochrome P450 enzymes is not likely to result in metabolic drug interactions in man.
 In vitro studies indicate that lenalidomide has no inhibitory effect on CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A.
+
 Warfarin
 Co-administration of multiple doses of 10 mg of lenalidomide had no effect on the single dose pharmacokinetics of R- and S- warfarin.
 Co-administration of a single 25 mg dose of warfarin had no effect on the pharmacokinetics of lenalidomide.
