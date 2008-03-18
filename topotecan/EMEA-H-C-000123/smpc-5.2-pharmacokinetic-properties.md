@@ -4,9 +4,8 @@ Following intravenous administration of topotecan at doses of 0.5 to 1.5 mg/m2 a
 Topotecan also had a high volume of distribution, about 132 l, (SD 57) and a relatively short half-life of 2-3 hours.
 Comparison of pharmacokinetic parameters did not suggest any change in pharmacokinetics over the 5 days of dosing.
 Area under the curve increased approximately in proportion to the increase in dose.
-The binding of topotecan to plasma proteins was low (35 %) and distribution between blood cells and plasma was fairly homogeneous.
-
-In a population study, a number of factors including age, weight and ascites had no significant effect on clearance of total topotecan (active and inactive form).
+There is little or no accumulation of topotecan with repeated daily dosing and there is no evidence of a change in the PK after multiple doses.
+Preclinical studies indicate plasma protein binding of topotecan is low (35%) and distribution between blood cells and plasma was fairly homogeneous.
 
 The elimination of topotecan has only been partly investigated in man.
 A major route of clearance of topotecan was by hydrolysis of the lactone ring to form the ring-opened carboxylate.
@@ -23,7 +22,6 @@ Overall, the N-desmethyl metabolite contributed a mean of less than 7 % (range 4
 The topotecan-O-glucuronide and N-desmethyl topotecan-O-glucuronide in the urine were less than 2.0 %.
 
 In vitro data using human liver microsomes indicate the formation of small amounts of N-demethylated topotecan.
-In man, as in animal species, a significant proportion of the dose (generally 20-60 %) was excreted in the urine as topotecan or the open ring form.
 In vitro, topotecan did not inhibit human P450 enzymes CYP1A2, CYP2A6, CYP2C8/9, CYP2C19, CYP2D6, CYP2E, CYP3A, or CYP4A nor did it inhibit the human cytosolic enzymes dihydropyrimidine or xanthine oxidase.
 
 When given in combination with cisplatin (cisplatin day 1, topotecan days 1 to 5), the clearance of topotecan was reduced on day 5 compared to day 1 (19.1 L/h/m2 compared to 21.3 L/h/m2 [n=9]) (see section 4.5).
@@ -37,6 +35,8 @@ Volume of distribution was slightly decreased and thus half-life only increased 
 In patients with moderate renal impairment topotecan plasma clearance was reduced to 34 % of the value in control patients.
 Mean half-life increased from 1.9 hours to 4.9 hours.
 
+In a population study, a number of factors including age, weight and ascites had no significant effect on clearance of total topotecan (active and inactive form).
+
 Paediatrics
 
 The pharmacokinetics of topotecan given as a 30-minute infusion for 5 days were evaluated in two studies.
@@ -47,3 +47,34 @@ In these studies, there were no apparent differences in the pharmacokinetics of 
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
 Approximately 51 % was excreted as total topotecan and 3 % was excreted as N-desmethyl topotecan in the urine.
+
+[HYCAMTIN 0.25 mg hard capsules]
+
+The pharmacokinetics of topotecan after oral administration have been evaluated in cancer patients following doses of 1.2 to 3.1 mg/m2/day and 4 mg/m2/day administered daily for 5 days.
+The bioavailability of oral topotecan (total and lactone) in humans is approximately 40%.
+Plasma concentrations of total topotecan (i.e. lactone and carboxylate forms) and topotecan lactone (active moiety) peak at approximately 2.0 hours and 1.5 hours, respectively, and decline bi-exponentially with mean terminal half-life of approximately 3.0 to 6.0 hour.
+Total exposure (AUC) increases approximately proportionally with dose.
+
+A major route of clearance of topotecan is by hydrolysis of the lactone ring to form the ring-opened carboxylate.
+Other than hydrolysis, topotecan is cleared predominantly renally, with a minor component metabolized to the N-desmethyl metabolite (SB-209780) identified in plasma, urine and faeces.
+Overall recovery of topotecan-related material following five daily doses of topotecan was 41 to 76 % (mean 57%) of the administered oral dose.
+Approximately 20% was excreted as total topotecan and 2 % was excreted as N-desmethyl topotecan in the urine.
+Faecal elimination of total topotecan accounted for 33 % while faecal elimination of N-desmethyl topotecan was 1.5%.
+Overall, the N-desmethyl metabolite contributed a mean of less than 6 % (range 4-8 %) of the total topotecan related material accounted for in the urine and faeces.
+O-glucuronides of both topotecan and N-desmethyl topotecan have been identified in the urine.
+The mean metabolite: parent plasma AUC ratio was less than 10% for both total topotecan and topotecan lactone.
+
+Following coadministration of the ABCB1 (P-gp) and ABCG2 (BCRP) inhibitor, elacridar (GF120918) at 100 to 1,000 mg with oral topotecan, the AUC0-∞ of topotecan lactone and total topotecan increased approximately 2.5-fold (see section 4.5 for guidance).
+
+Administration of oral cyclosporine A (15 mg/kg), an inhibitor of transporters ABCB1 (P-gp) and ABCC1 (MRP-1) as well as the metabolising enzyme CYP3A4, within 4 hours of oral topotecan increased the dose normalised AUC0-24h of topotecan lactone and total topotecan approximately 2.0-and 2.5-fold, respectively (see section 4.5).
+
+The extent of exposure was similar following a high fat meal and fasted state while tmax was delayed from 1.5 to 3 hours (topotecan lactone) and from 3 to 4 hours (total topotecan).
+
+The pharmacokinetics of oral topotecan has not been studied in patients with renal or hepatic impairment (see section 4.2 and 4.4).
+
+A cross-study analysis in 217 patients with advanced solid tumours indicated that gender did not affect the pharmacokinetics of HYCAMTIN capsules to a clinically relevant extent.
+There are insufficient data to determine an effect of race on pharmacokinetics of oral topotecan.
+
+[HYCAMTIN 1 mg hard capsules]
+
+Administration of oral cyclosporine A (15 mg/kg), an inhibitor of transporters ABCB1 (P-gp) and ABCC1 (MRP-1) as well as the metabolising enzyme CYP3A4, within 4 hours of oral topotecan increased the dose normalised AUC0-24h of topotecan lactone and total topotecan approximately 2.0-and 2.5-fold respectively (see section 4.5).

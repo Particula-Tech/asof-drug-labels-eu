@@ -7,3 +7,11 @@ For a full list of excipients, see section 6.1.
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
 Each vial contains 4 mg topotecan (as hydrochloride).
+
+[HYCAMTIN 0.25 mg hard capsules]
+
+Each capsule contains topotecan hydrochloride equivalent to 0.25 mg of topotecan.
+
+[HYCAMTIN 1 mg hard capsules]
+
+Each capsule contains topotecan hydrochloride equivalent to 1 mg of topotecan.

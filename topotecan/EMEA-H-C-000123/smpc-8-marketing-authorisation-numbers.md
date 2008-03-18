@@ -9,3 +9,11 @@
 4 mg vials:
 5 vials EU/1/96/027/001
 1 vial EU/1/96/027/003
+
+[HYCAMTIN 0.25 mg hard capsules]
+
+EU/0/00/000/000
+
+[HYCAMTIN 1 mg hard capsules]
+
+(all sentences already above)

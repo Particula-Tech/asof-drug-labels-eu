@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmaco-therapeutic group: Antineoplastic and immunomodulating agent: ATC-code: L01XX17.
+Pharmacotherapeutic group: Other antineoplastic agents : ATC code: L01XX17.
 
 The anti-tumour activity of topotecan involves the inhibition of topoisomerase-I, an enzyme intimately involved in DNA replication as it relieves the torsional strain introduced ahead of the moving replication fork.
 Topotecan inhibits topoisomerase-I by stabilising the covalent complex of enzyme and strand-cleaved DNA which is an intermediate of the catalytic mechanism.
@@ -23,15 +23,34 @@ For patients administered more than 6 cycles of therapy, 91 % completed the stud
 
 Relapsed SCLC
 
-A phase III trial compared oral topotecan plus Active Symptom Control [ASC] [n=71] with ASC alone [n=70] in patients who had relapsed following first line therapy [median time to progression [TTP] from first-line therapy: 84 days for oral topotecan + ASC, 90 days for ASC] and for whom retreatment with i.v chemotherapy was not considered appropriate.
-The median survival for patients treated with topotecan + ASC was 25.9 weeks [95 % C.I.
+A phase III trial compared oral topotecan plus Best Supportive Care [BSC] [n=71] with BSC alone [n=70] in patients who had relapsed following first line therapy [median time to progression [TTP] from first-line therapy: 84 days for oral topotecan + BSC, 90 days for BSC] and for whom retreatment with i.v chemotherapy was not considered appropriate.
+Oral topotecan plus BSC group had a statistically significant improvement in overall survival compared with the BSC alone group (Log-rank p=0.0104).
+The unadjusted hazard ratio for oral topotecan plus BSC group relative to BSC alone group was 0.64 (95% CI: 0.45, 0.90).
+The median survival for patients treated with topotecan + BSC was 25.9 weeks [95 % C.I.
 18.3, 31.6] compared to 13.9 weeks [95 % C.I.
-11.1, 18.6] for patients receiving ASC alone [p=0.0104].
+11.1, 18.6] for patients receiving BSC alone [p=0.0104].
 
-In another phase III trial, the efficacy of oral [n=153] and intravenous [n=151] topotecan was compared in patients with sensitive disease [median TTP 176 days versus 190 days respectively].
-The overall response rates were 18.3 % for oral and 21.9 % for intravenous topotecan.
-Median survival was 33.0 weeks [95 % CI: 29.1, 42.4] in the oral group and 35.0 weeks [95 % CI: 31.0, 37.4] in the intravenous group.
-Oral and i.v. topotecan were associated with similar symptom palliation in patients with relapsed sensitive SCLC.
+Patient self-reports of symptoms using an unblinded assessment showed a consistent trend for symptom benefit for oral topotecan + BSC.
+
+One Phase 2 study (Study 065) and one Phase 3 study (Study 396) were conducted to evaluate the efficacy of oral topotecan versus intravenous topotecan in patients who had relapsed ≥ 90 days after completion of one prior regimen of chemotherapy.(see Table 1).
+Oral and intravenous topotecan were associated with similar symptom palliation in patients with relapsed sensitive SCLC in patient self-reports on an unblinded symptom scale assessment in each of these two studies.
+Table 1.
+Summary of survival, response rate, and time to progression in SCLC patients treated with oral HYCAMTIN or intravenous HYCAMTIN
+
+|  | Study 065 |  |  | Study 396 |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Oral topotecan | Intravenous topotecan |  | Oral topotecan | Intravenous topotecan |  |
+|  | (N = 52) | (N = 54) |  | (N = 153) | (N = 151) |  |
+| Median survival (weeks) (95% CI) | 32.3 (26.3, 40.9) | 25.1 (21.1, 33.0) |  | 33.0 (29.1, 42.4) | 35.0 (31.0, 37.1) |  |
+| Hazard ratio (95% CI) | 0.88 (0.59, 1.31) |  |  | 0.88 (0.7, 1.11) |  |  |
+| Response rate (%) (95% CI) | 23.1 (11.6, 34.5) |  | 14.8 (5.3, 24.3) | 18.3 (12.2, 24.4) |  | 21.9 (15.3, 28.5) |
+| Difference in response rate (95% CI) | 8.3 (-6.6, 23.1) |  |  | -3.6 (-12.6, 5.5) |  |  |
+| Median time to progression (weeks) (95% CI) | 14.9 |  | 13.1 | 11.9 |  | 14.6 |
+|  | (8.3, 21.3) |  | (11.6, 18.3) | (9.7, 14.1) |  | (13.3, 18.9) |
+| Hazard ratio (95% CI) | 0.90 (0.60, 1.35) |  |  | 1.21 (0.96, 1.53) |  |  |
+
+N = total number of patients treated.
+CI = Confidence interval.
 
 In another randomised phase III trial which compared IV topotecan to cyclophosphamide, Adriamycin (doxorubicin) and vincristine (CAV) in patients with relapsed, sensitive SCLC, the overall response rate was 24.3% for topotecan compared to 18.3% for the CAV group.
 Median time to progression was similar in the two groups (13.3 weeks and 12.3 weeks respectively).
@@ -83,6 +102,26 @@ Based on the dose-limiting toxicity of myelosuppression, the maximum tolerated d
 
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
+Pharmacotherapeutic group: Other antineoplastic agents: ATC code: L01XX17.
+
 For patients administered more than 6 cycles of therapy, 91% completed the study as planned or were treated until disease progression with only 3% withdrawn for adverse events.
 
+A phase III trial compared oral topotecan plus Best Supportive Care [BSC] [n=71] with BSC alone [n=70] in patients who had relapsed following first line therapy [median time to progression [TTP] from first-line therapy: 84 days for oral topotecan + BSC, 90 days for BSC] and for whom retreatment with i.v. chemotherapy was not considered appropriate.
+
 The response rate to topotecan in the combined small cell lung cancer programme [n = 480] for patients with relapsed disease sensitive to first-line therapy, was 20.2%.
+
+[HYCAMTIN 0.25 mg hard capsules]
+
+A phase III trial (study 478) compared oral topotecan plus Best Supportive Care [BSC] [n=71] with BSC alone [n=70] in patients who had relapsed following first line therapy [median time to progression [TTP] from first-line therapy: 84 days for oral topotecan + BSC, 90 days for BSC] and for whom retreatment with intravenous chemotherapy was not considered appropriate.
+18.3, 31.6] compared to 13.9 weeks
+[95 % C.I.
+11.1, 18.6] for patients receiving BSC alone.
+
+One Phase 2 study (Study 065) and one Phase 3 study (Study 396) were conducted to evaluate the efficacy of oral topotecan versus intravenous topotecan in patients who had relapsed ≥ 90 days after completion of one prior regimen of chemotherapy.(see Table 1) Oral and intravenous topotecan were associated with similar symptom palliation in patients with relapsed sensitive SCLC in patient self-reports on an unblinded symptom scale assessment in each of these two studies.
+
+Safety and effectiveness of oral topotecan in paediatric patients have not been established.
+
+[HYCAMTIN 1 mg hard capsules]
+
+One Phase 2 study (Study 065) and one Phase 3 study (Study 396) were conducted to evaluate the efficacy of oral topotecan versus intravenous topotecan in patients who had relapsed ≥ 90 days after completion of one prior regimen of chemotherapy.
+(see Table 1).

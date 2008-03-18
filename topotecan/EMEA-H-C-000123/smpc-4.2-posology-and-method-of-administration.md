@@ -55,11 +55,40 @@ In clinical studies with topotecan in combination with cisplatin for the treatme
 If, during topotecan/cisplatin combination therapy serum creatinine exceeds 1.5 mg/dL, it is recommended that the full prescribing information be consulted for any advice on cisplatin dose reduction/continuation.
 If cisplatin is discontinued, there are insufficient data regarding continuing monotherapy with topotecan in patients with cervical cancer.
 
-Children
-Due to limited data on efficacy and safety in the paediatric population, no recommendation for treatment of children with Topotecan can be given (see sections 5.1 and 5.2).
+Paediatrics
+The experience in children is limited, therefore no recommendation for treatment of paediatric patients with HYCAMTIN can be given (see sections 5.1 and 5.2).
 
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
 Topotecan should not be re-administered unless the neutrophil count is ≥ 1 x 109/l, the platelet count is ≥ 100 x 109/l, and the haemoglobin level is ≥ 9g/dl (after transfusion if necessary).
 
 The recommended monotherapy dose of topotecan in patients with ovarian or small cell lung cancer and a creatinine clearance between 20 and 39 ml/min is 0.75 mg/m2 /day for 5 consecutive days.
+
+[HYCAMTIN 0.25 mg hard capsules]
+
+HYCAMTIN capsules should only be prescribed and therapy supervised by a physician experienced in the use of chemotherapeutic agents.
+
+The recommended dose of HYCAMTIN capsules is 2.3 mg/m2 body surface area/day administered for 5 consecutive days with a 3 week interval between the start of each course.
+
+The capsule(s) must be swallowed whole, and must not be chewed crushed or divided.
+Topotecan capsules may be taken with or without food (see section 5.2).
+
+Patients who experience severe neutropenia (neutrophil count < 0.5 x 109/l) for 7 days or more, or severe neutropenia associated with fever or infection, or who have had treatment delayed due to neutropenia, should be given a dose reduced by 0.4 mg/m2/day i.e. 1.9 mg/m2/day (or subsequently down to 1.5 mg/m2/day if necessary)
+
+In clinical trials, topotecan was discontinued if the dose needed to be reduced below 1.5 mg/m2.
+Patients with small cell lung carcinoma who participated in oral topotecan clinical trials had a serum creatinine less than or equal to 1.5 mg/dl (133 µmol/l) or a creatinine clearance of greater than or equal to 60 ml/min.
+Dosing recommendations for patients receiving oral topotecan with Clcr less than 60 ml/min have not been established (see section 4.4).
+
+Dosage in hepatically impaired patients
+Pharmacokinetics of HYCAMTIN capsules have not been specifically studied in patients with impaired hepatic function.
+There are insufficient data available with HYCAMTIN capsules to make a dose recommendation for this patient group (see section 4.4).
+
+The experience in children is limited, therefore no recommendation for treatment of paediatric patients with HYCAMTIN can be given (see section 5.1).
+
+Elderly
+No overall differences in effectiveness were observed between patients over 65 years and younger adult patients.
+However in the two studies administering both oral and intravenous topotecan, patients older than 65 years old receiving oral topotecan experienced an increase in drug related diarrhoea compared to those younger than 65 years of age (see section 4.4 and 4.8).
+
+[HYCAMTIN 1 mg hard capsules]
+
+Therapy with HYCAMTIN capsules should only be prescribed and therapy supervised by a physician experienced in the use of chemotherapeutic agents.
