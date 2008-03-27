@@ -10,6 +10,7 @@ In the table below all adverse reactions, which occurred at an incidence greater
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 The adverse reactions listed may also be associated with the underlying disease and / or concomitant medications.
+
 In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse events in general, CNS adverse events and especially somnolence was increased (See 4.4).
 
 Additional reactions reported from post-marketing experience are included as Unknown frequency in italics in the list below.
@@ -18,7 +19,7 @@ Body System Adverse drug reactions
 
 Immune system disorders
 
-Unknown frequency Hypersensitivity, allergic reaction
+Unknown frequency Hypersensitivity, angioedema, allergic reaction
 
 Blood and lymphatic system disorders
 
@@ -46,9 +47,9 @@ Common Ataxia, coordination abnormal, tremor, dysarthria, memory
 
 impairment, disturbance in attention, paraesthesia
 
-Uncommon Syncope, stupor, myoclonus, psychomotor hyperactivity, visual
+Uncommon Syncope, stupor, myoclonus, psychomotor hyperactivity, ageusia,
 
-field defect, ageusia, dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, speech disorder, hyporeflexia, hypoaesthesia, amnesia, hyperaesthesia, burning sensation
+dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, speech disorder, hyporeflexia, hypoaesthesia, amnesia, hyperaesthesia, burning sensation
 
 Rare Hypokinesia, parosmia, dysgraphia
 Unknown frequency Loss of consciousness, mental impairment, headache
@@ -56,13 +57,16 @@ Unknown frequency Loss of consciousness, mental impairment, headache
 Eye disorders
 
 Common Vision blurred, diplopia
-Uncommon Visual disturbance, eye swelling, visual acuity reduced, eye pain,
+Uncommon Visual disturbance, eye swelling, visual field defect, visual acuity
 
-asthenopia, dry eye, lacrimation increased
+reduced, eye pain, asthenopia, dry eye, lacrimation increased
 
 Rare Peripheral vision loss, oscillopsia, altered visual depth perception,
 
 photopsia, eye irritation, mydriasis, strabismus, visual brightness
+
+Unknown frequency Keratitis
+
 Ear and labyrinth disorders
 
 Common Vertigo
@@ -141,9 +145,7 @@ increased, aspartate aminotransferase increased, platelet count decreased
 
 Rare Blood glucose increased, blood potassium decreased, white blood
 
-cell count decreased, blood creatinine increased, weight decreased
-
-After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+cell count decreased, blood creatinine increased, weight decreased After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
 The following events have been mentioned: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating and dizziness.
 The patient should be informed about this at the start of the treatment.
 
@@ -155,7 +157,13 @@ Unknown frequency Stevens Johnson syndrome, Pruritus
 
 Rare Anasarca,pyrexia, rigors, pain exacerbated,
 
+cell count decreased, blood creatinine increased, weight decreased
+
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+
 [LYRICA 75 mg hard capsules]
+
+Unknown frequency Hypersensitivity,angioedema, allergic reaction
 
 The following events have been mentioned: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating, and dizziness.
 
@@ -173,7 +181,7 @@ The following events have been mentioned: insomnia, headache, nausea, diarrhoea,
 
 [LYRICA 225 mg hard capsules]
 
-Uncommon Rash �henoba, sweating
+(all sentences already above)
 
 [LYRICA 300 mg hard capsules]
 

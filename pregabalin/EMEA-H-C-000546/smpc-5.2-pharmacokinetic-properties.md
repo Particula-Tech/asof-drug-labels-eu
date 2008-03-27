@@ -43,6 +43,7 @@ Pharmacokinetics in special patient groups
 Gender
 
 Clinical trials indicate that gender does not have a clinically significant influence on the plasma concentrations of pregabalin.
+
 Renal impairment
 
 Pregabalin clearance is directly proportional to creatinine clearance.
