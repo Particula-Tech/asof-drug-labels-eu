@@ -40,6 +40,7 @@ Ritonavir binds to both human alpha 1-acid glycoprotein (AAG) and human serum al
 Tissue distribution studies with 14C-labelled ritonavir in rats showed the liver, adrenals, pancreas, kidneys and thyroid to have the highest concentrations of ritonavir.
 Tissue to plasma ratios of approximately 1 measured in rat lymph nodes suggests that ritonavir distributes into lymphatic tissues.
 Ritonavir penetrates minimally into the brain.
+
 Metabolism:
 Ritonavir was noted to be extensively metabolised by the hepatic cytochrome P450 system, primarily by the CYP3A isozyme family and to a lesser extent by the CYP2D6 isoform.
 Animal studies as well as in vitro experiments with human hepatic microsomes indicated that ritonavir primarily underwent oxidative metabolism.

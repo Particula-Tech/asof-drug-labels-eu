@@ -76,6 +76,10 @@ Co-administration of ritonavir with these medicinal products is expected to subs
 
 HMG-CoA reductase inhibitors: The HMG-CoA reductase inhibitors simvastatin and lovastatin are highly dependent on CYP3A for metabolism, thus concomitant use of ritonavir with simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
 Caution must also be exercised and reduced doses should be considered if ritonavir is used concurrently with atorvastatin, which is metabolised to a lesser extent by CYP3A.
+While rosuvastatin elimination is not dependent on CYP3A, an elevation of rosuvastatin exposure has been reported with ritonavir co-administration.
+The mechanism of this interaction is not clear, but may be the result of transporter inhibition.
+When used with ritonavir dosed as a pharmacokinetic enhancer or as an antiretroviral agent, the lowest doses of atorvastatin or rosuvastatin should be administered.
+The metabolism of pravastatin and fluvastatin is not dependent of CYP3A, and interactions are not expected with ritonavir.
 If treatment with an HMG-CoA reductase inhibitor is indicated, pravastatin or fluvastatin is recommended (see section 4.5).
 
 Digoxin: Particular caution should be used when prescribing ritonavir in patients taking digoxin since co-administration of ritonavir with digoxin is expected to increase digoxin levels.
@@ -100,12 +104,12 @@ The interaction profiles of HIV-protease inhibitors, co-administered with low do
 
 For a description of the mechanisms and potential mechanisms contributing to the interaction profile of the PIs, see section 4.5.
 Please also review the Summary of Product Characteristics for the particular boosted PI.
-
 Saquinavir: Doses of ritonavir higher than 100 mg twice daily should not be used.
 Higher doses of ritonavir have been shown to be associated with an increased incidence of adverse events.
 Co-administration of saquinavir and ritonavir has led to severe adverse events, mainly diabetic ketoacidosis and liver disorders, especially in patients with pre-existing liver disease.
 
 Saquinavir/ritonavir should not be given together with rifampicin, due to the risk of severe hepatotoxicity (presenting as increased hepatic transaminases) if the three medicines are given together (see section 4.5).
+
 Tipranavir: co-administered with 200 mg of ritonavir has been associated with reports of clinical hepatitis and hepatic decompensation including some fatalities.
 Extra vigilance is warranted in patients with chronic hepatitis B or hepatitis C co-infection, as these patients have an increased risk of hepatotoxicity.
 

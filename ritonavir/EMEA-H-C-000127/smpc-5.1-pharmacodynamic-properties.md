@@ -8,6 +8,7 @@ Pharmacokinetic enhancement by ritonavir is based on ritonavir’s activity as a
 The degree of enhancement is related to the metabolic pathway of the co-administered protease inhibitor and the impact of the co-administered protease inhibitor on the metabolism of ritonavir.
 Maximal inhibition of metabolism of the co-administered protease inhibitor is generally achieved with ritonavir doses of 100 mg daily to 200 mg twice daily, and is dependent on the co-administered protease inhibitor.
 For additional information on the effect of ritonavir on co-administered protease inhibitor metabolism, see Section 4.5 and refer to the Summary of Product Characteristics of the particular co-administered PIs.
+
 Ritonavir dosed as an antiretroviral agent
 
 Ritonavir is an orally active peptidomimetic inhibitor of the HIV-1 and HIV-2 aspartyl proteases.
@@ -16,7 +17,6 @@ Ritonavir has selective affinity for the HIV protease and has little inhibitory 
 
 Ritonavir was the first protease inhibitor (approved in 1996) for which efficacy was proven in a study with clinical endpoints.
 However, due to ritonavir’s metabolic inhibitory properties its use as a pharmacokinetic enhancer of other protease inhibitors is the prevalent use of ritonavir in clinical practice (see section 4.2).
-
 Resistance
 
 Ritonavir-resistant isolates of HIV-1 have been selected in vitro and isolated from patients treated with therapeutic doses of ritonavir.
@@ -41,6 +41,7 @@ In a study completed in 1996 recruiting less advanced HIV-1 infected patients (C
 The mean average change from baseline over 48 weeks for HIV RNA levels was -0.88 log10 in the ritonavir group versus -0.66 log10 in the ritonavir + zidovudine group versus -0.42 log10 in the zidovudine group.
 
 The continuation of ritonavir therapy should be evaluated by viral load because of the possibility of the emergence of resistance as described under section 4.1 Therapeutic indications.
+
 Paediatric Use
 
 In an open label trial completed in 1998 in HIV infected, clinically stable children there was a significant difference (p = 0.03) in the detectable RNA levels in favour of a triple regimen (ritonavir, zidovudine and lamivudine) following 48 weeks treatment.
