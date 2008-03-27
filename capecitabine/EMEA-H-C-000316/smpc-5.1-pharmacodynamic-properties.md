@@ -17,10 +17,13 @@ Colon and colorectal cancer:
 Adjuvant Therapy with Xeloda in colon cancer
 Data from one multicentre, randomised, controlled phase III clinical trial in patients with stage III (Dukes’ C) colon cancer supports the use of Xeloda for the adjuvant treatment of patients with colon cancer (XACT Study; M66001).
 In this trial, 1987 patients were randomised to treatment with Xeloda (1250 mg/m2 twice daily for 2 weeks followed by a 1-week rest period and given as 3-week cycles for 24 weeks) or 5-FU and leucovorin (Mayo Clinic regimen: 20 mg/m2 leucovorin IV followed by 425 mg/m2 IV bolus 5-FU, on days 1 to 5, every 28 days for 24 weeks).
-Xeloda was at least equivalent to IV 5-FU/LV in disease-free survival in per protocol population (hazard ratio 0.89; 95% CI 0.76-1.04).
-In the all-randomised population, tests for difference of Xeloda vs 5-FU/LV in disease-free and overall survival showed hazard ratios of 0.87 (95% CI 0.75 – 1.00; p = 0.053) and 0.84 (95% CI 0.69 – 1.01; p = 0.071), respectively.
-Relapse-free survival, censoring patients at the time of last tumour assessment in case of death unrelated to disease progression or unrelated to treatment (for disease-free survival these death cases were considered as events), was statistically different in favour of Xeloda comparing to 5-FU/LV [HR 0.86 (95% CI 0.74 – 0.99; p = 0.041)].
-The median follow up at the time of the analysis was 3.8 years.
+Xeloda was at least equivalent to IV 5-FU/LV in disease-free survival in per protocol population (hazard ratio 0.92; 95% CI 0.80-1.06).
+In the all-randomised population, tests for difference of Xeloda vs 5-FU/LV in disease-free and overall survival showed hazard ratios of 0.88 (95% CI 0.77 – 1.01; p = 0.068) and 0.86 (95% CI 0.74 – 1.01; p = 0.060), respectively.
+The median follow up at the time of the analysis was 6.9 years.
+In a preplanned multivariate Cox analysis, superiority of Xeloda compared with bolus 5-FU/LV was demonstrated.
+The following factors were pre-specified in the statistical analysis plan for inclusion in the model: age, time from surgery to randomization, gender, CEA levels at baseline, lymph nodes at baseline, and country.
+In the all-randomised population, Xeloda was shown to be superior to 5FU/LV for disease-free survival (hazard ratio 0.849 [95% CI: 0.739 to 0.976], p = 0.0212), as well as for overall survival (hazard ratio 0.828 [95% CI: 0.705 to 0.971], p = 0.0203).
+Currently, data on the use of Xeloda in combination with other chemotherapeutic agents in adjuvant therapy of colon cancer is not available.
 
 Monotherapy with Xeloda in metastatic colorectal cancer
 Data from two identically-designed, multicentre, randomised, controlled phase III clinical trials (SO14695; SO14796) support the use of Xeloda for first line treatment of metastatic colorectal cancer.
@@ -53,7 +56,6 @@ In this treatment subgroup comparison, XELOX plus bevacizumab was similar compar
 The median follow up at the time of the primary analyses in the intent-to-treat population was 1.5 years; data from analyses following an additional 1 year of follow up are also included in Table 11.
 However, the on-treatment PFS analysis did not confirm the results of the general PFS and OS analysis: the HR of XELOX versus FOLFOX-4 was 1.24 with 97.5% CI: 1.07 to 1.44.
 Although sensitivity analyses show that differences in regimen schedules and timing of tumor assessments impact the on-treatment PFS analysis, a full explanation for this result has not been found.
-
 Table 11 Key efficacy results for the non-inferiority analysis of Study NO16966
 
 PRIMARY ANALYSIS
@@ -66,7 +68,6 @@ Parameter: Progression-free Survival
 EPP 241 259 1.05 (0.94; 1.18)
 ITT 244 259 1.04 (0.93; 1.16)
 Parameter: Overall Survival
-PRIMARY ANALYSIS
 EPP 577 549 0.97 (0.84; 1.14)
 ITT 581 553 0.96 (0.83; 1.12)
 ADDITIONAL 1 YEAR OF FOLLOW UP
@@ -103,6 +104,7 @@ For the dosing schedule of XELOX and FOLFOX-4 (without addition of placebo or be
 XELOX was demonstrated to be non-inferior to FOLFOX-4 in terms of progression-free survival in the per-protocol population and intent-to-treat population (see Table 12).
 The results indicate that XELOX is equivalent to FOLFOX-4 in terms of overall survival (see Table 12).
 The median follow up at the time of the primary analyses in the intent-to-treat population was 2.1 years; data from analyses following an additional 6 months of follow up are also included in Table 12.
+
 Table 12 Key efficacy results for the non-inferiority analysis of Study NO16967
 
 PRIMARY ANALYSIS
