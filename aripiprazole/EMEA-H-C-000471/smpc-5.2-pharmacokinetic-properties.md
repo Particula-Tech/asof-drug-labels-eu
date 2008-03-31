@@ -31,12 +31,12 @@ There are no differences in the pharmacokinetics of aripiprazole between healthy
 
 Gender:
 There are no differences in the pharmacokinetics of aripiprazole between healthy male and female subjects nor is there any detectable effect of gender in a population pharmacokinetic analysis in schizophrenic patients.
+
 Smoking and Race:
 Population pharmacokinetic evaluation has revealed no evidence of clinically significant race-related differences or effects from smoking upon the pharmacokinetics of aripiprazole.
 
 Renal Disease:
 The pharmacokinetic characteristics of aripiprazole and dehydro-aripiprazole were found to be similar in patients with severe renal disease compared to young healthy subjects.
-
 Hepatic Disease:
 A single-dose study in subjects with varying degrees of liver cirrhosis (Child-Pugh Classes A, B, and C) did not reveal a significant effect of hepatic impairment on the pharmacokinetics of aripiprazole and dehydro-aripiprazole, but the study included only 3 patients with Class C liver cirrhosis, which is insufficient to draw conclusions on their metabolic capacity.
 

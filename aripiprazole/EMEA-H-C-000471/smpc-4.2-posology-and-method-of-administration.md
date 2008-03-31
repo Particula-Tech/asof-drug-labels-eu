@@ -2,11 +2,21 @@
 
 Oral use.
 
+Schizophrenia:
 The recommended starting dose for ABILIFY is 10 or 15 mg/day with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
 
 ABILIFY is effective in a dose range of 10 to 30 mg/day.
 Enhanced efficacy at doses higher than a daily dose of 15 mg has not been demonstrated although individual patients may benefit from a higher dose.
 The maximum daily dose should not exceed 30 mg.
+
+Manic episodes:
+The recommended starting dose for ABILIFY is 15 mg administered on a once-a-day schedule without regard to meals as monotherapy or combination therapy (see section 5.1).
+Some patients may benefit from a higher dose.
+The maximum daily dose should not exceed 30 mg.
+
+Recurrence prevention of manic episodes in Bipolar I Disorder:
+For preventing recurrence of manic episodes in patients who have been receiving aripiprazole, continue therapy at the same dose.
+Adjustments of daily dosage, including dose reduction should be considered on the basis of clinical status.
 
 Children and adolescents: there is no experience in children and adolescents under 18 years of age.
 
@@ -17,13 +27,14 @@ However, the maximum daily dose of 30 mg should be used with caution in patients
 
 Patients with renal impairment: no dosage adjustment is required in patients with renal impairment.
 
-Elderly: the effectiveness of ABILIFY in the treatment of schizophrenia in patients 65 years of age or older has not been established.
+Elderly: the effectiveness of ABILIFY in the treatment of schizophrenia and Bipolar I Disorder in patients 65 years of age or older has not been established.
 Owing to the greater sensitivity of this population, a lower starting dose should be considered when clinical factors warrant (see section 4.4).
 
 Gender: no dosage adjustment is required for female patients as compared to male patients
 (see section 5.2).
 
 Smoking status: according to the metabolic pathway of ABILIFY no dosage adjustment is required for smokers (see section 4.5).
+
 When concomitant administration of potent CYP3A4 or CYP2D6 inhibitors with aripiprazole occurs, the aripiprazole dose should be reduced.
 When the CYP3A4 or CYP2D6 inhibitor is withdrawn from the combination therapy, aripiprazole dose should then be increased (see section 4.5).
 
@@ -44,16 +55,11 @@ When the CYP3A4 inducer is withdrawn from the combination therapy, the aripipraz
 
 [ABILIFY 10 mg orodispersible tablets]
 
-The recommended starting dose for aripiprazole is 10 or 15 mg/day with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
-
-Aripiprazole is effective in a dose range of 10 to 30 mg/day.
-
 The orodispersible tablet should be placed in the mouth on the tongue, where it will rapidly disperse in saliva.
 It can be taken with or without liquid.
 Removal of the intact orodispersible tablet from the mouth is difficult.
 Since the orodispersible tablet is fragile, it should be taken immediately on opening the blister.
 Alternatively, disperse the tablet in water and drink the resulting suspension.
-
 The orodispersible tablets may be used as an alternative to ABILIFY tablets for patients who have difficulty to swallow ABILIFY tablets (see also section 5.2).
 
 Smoking status: according to the metabolic pathway of aripiprazole no dosage adjustment is required for smokers (see section 4.5).
@@ -70,10 +76,13 @@ Smoking status: according to the metabolic pathway of aripiprazole no dosage adj
 
 ABILIFY oral solution may be used as an alternative to ABILIFY tablets for patients who have difficulty swallowing ABILIFY tablets (see section 5.2).
 
-The recommended starting dose for aripiprazole is 10 or 15 mg/day (i.e. 10 or 15 ml solution) with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
+The recommended starting dose for ABILIFY is 10 or 15 mg/day (i.e. 10 or 15 ml solution/day) with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
 A calibrated measuring cup of polypropylene is included in the carton.
 
-Aripiprazole is effective in a dose range of 10 to 30 mg/day (i.e. 10 to 30 ml solution/day).
+ABILIFY is effective in a dose range of 10 to 30 mg/day (i.e. 10 to 30 ml solution/day).
+
+The recommended starting dose for ABILIFY is 15 mg (i.e. 15 ml solution/day) administered on a once-a-day schedule without regard to meals as monotherapy or combination therapy (see section 5.1).
+The maximum daily dose should not exceed 30 mg (i.e. 30 ml solution/day).
 
 Gender: no dosage adjustment is required for female patients as compared to male patients (see sections 4.4 and 5.2).
 
