@@ -10,7 +10,7 @@ There are insufficient data for the withdrawal of concomitant antiepileptic medi
 Therefore withdrawal of concomitant anti-epileptic agents must be undertaken with caution.
 
 Zonegran is a benzisoxazole derivative, which contains a sulphonamide group.
-Serious immune based adverse reactions that are associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances including aplastic anaemia.
+Serious immune based adverse reactions that are associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances including aplastic anaemia, which very rarely can be fatal.
 
 Cases of agranulocytosis, thrombocytopenia, leukopenia, aplastic anaemia, pancytopenia and leucocytosis have been reported.
 There is inadequate information to assess the relationship, if any, between dose and duration of treatment and these events.
@@ -45,3 +45,11 @@ Therefore these patients should be treated with caution.
 Zonegran may cause weight loss.
 A dietary supplement or increased food intake may be considered if the patient is losing weight or is underweight whilst on this medication.
 If substantial undesirable weight loss occurs, discontinuation of Zonegran should be considered.
+
+[Zonegran 50 mg hard capsules.]
+
+Serious immune based adverse reactions that are associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances including aplastic anaemia, which very rarley can be fatal.
+
+[Zonegran 100 mg hard capsules.]
+
+(all sentences already above)
