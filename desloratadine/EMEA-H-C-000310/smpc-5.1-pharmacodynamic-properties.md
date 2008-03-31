@@ -33,6 +33,8 @@ Persistent allergic rhinitis is defined as the presence of symptoms for 4 days o
 Azomyr was effective in alleviating the burden of seasonal allergic rhinitis as shown by the total score of the rhino-conjunctivitis quality of life questionnaire.
 The greatest amelioration was seen in the domains of practical problems and daily activities limited by symptoms.
 
+Chronic idiopathic urticaria was studied as a clinical model for urticarial conditions, since the underlying pathophysiology is similar, regardless of etiology, and because chronic patients can be more easily recruited prospectively.
+Since histamine release is a causal factor in all urticarial diseases, desloratadine is expected to be effective in providing symptomatic relief for other urticarial conditions, in addition to chronic idiopathic urticaria, as advised in clinical guidelines.
 In two placebo-controlled six week trials in patients with chronic idiopathic urticaria, Azomyr was effective in relieving pruritus and decreasing the size and number of hives by the end of the first dosing interval.
 In each trial, the effects were sustained over the 24 hour dosing interval.
 As with other antihistamine trials in chronic idiopathic urticaria, the minority of patients who were identified as non-responsive to antihistamines was excluded.

@@ -22,9 +22,9 @@ In another study, grapefruit juice had no effect on the disposition of deslorata
 [Azomyr 0.5 mg/ml syrup]
 
 Desloratadine plasma concentrations can be detected within 30 minutes of desloratadine administration in adults and adolescents.
-
 In a series of pharmacokinetic and clinical trials, 6 % of the subjects reached a higher concentration of desloratadine.
 The prevalence of this poor metaboliser phenotype was comparable for adult (6 %) and paediatric subjects 2- to 11-year old (6 %), and greater among Blacks (18 % adult, 16 % paediatric) than Caucasians (2 % adult, 3 % paediatric) in both populations.
+
 In a multiple-dose pharmacokinetic study conducted with the tablet formulation in healthy adult subjects, four subjects were found to be poor metabolisers of desloratadine.
 These subjects had a Cmax concentration about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours.
 

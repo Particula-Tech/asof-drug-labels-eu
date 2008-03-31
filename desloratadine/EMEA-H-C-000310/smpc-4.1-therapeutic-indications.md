@@ -3,4 +3,4 @@
 Azomyr is indicated for the relief of symptoms associated with:
 
 - allergic rhinitis (see section 5.1)
-- chronic idiopathic urticaria
+- urticaria (see section 5.1)
