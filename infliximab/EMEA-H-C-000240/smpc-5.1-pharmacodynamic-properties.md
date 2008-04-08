@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Selective immunosuppressive agents, ATC code: L04A A12.
+Pharmacotherapeutic group: Selective immunosuppressive agents, ATC code: L04AB02.
 
 Pharmacodynamic properties: Infliximab is a chimeric human-murine monoclonal antibody that binds with high affinity to both soluble and transmembrane forms of TNFα but not to lymphotoxin α (TNFß).
 Infliximab inhibits the functional activity of TNFα in a wide variety of in vitro bioassays.
@@ -209,7 +209,7 @@ In both studies, patients were randomized to receive either placebo, 5 mg/kg Rem
 Corticosteroid taper was permitted after week 8.
 Table 8
 Effects on clinical response, clinical remission and mucosal healing at Weeks 8 and 30.
-Combined data from ACT1 & 2.
+Combined data from ACT 1 & 2.
 Infliximab
 
 Placebo 5 mg/kg 10 mg/kg Combined
@@ -247,12 +247,19 @@ At 54 weeks, 44.9% of patients in the combined infliximab treatment group were i
 Clinical remission and mucosal healing occurred in a greater proportion of patients in the combined infliximab treatment group compared to the placebo treatment group at week 54 (34.6% vs. 16.5%, p<0.001 and 46.1% vs. 18.2%, p<0.001, respectively).
 The proportions of patients in sustained response and sustained remission at week 54 were greater in the combined infliximab treatment group than in the placebo treatment group (37.9% vs. 14.0%, p<0.001; and 20.2% vs. 6.6%, p<0.001, respectively).
 
-Infliximab improved Quality of Life, confirmed by statistically and clinically significant improvement in both a disease specific measure, IBDQ, and by improvement in the generic 36-item short form survey SF-36.
+A greater proportion of patients in the combined infliximab treatment group were able to discontinue corticosteroids while remaining in clinical remission compared to the placebo treatment group at both week 30 (22.3% vs. 7.2%, p < 0.001, pooled ACT 1 & ACT 2 data) and week 54 (21.0% vs. 8.9%, p=0.022, ACT1 data).
 
-From baseline through week 30 in the pooled data from ACT 1 and ACT 2, the mean number of hospitalizations was lower in the combined infliximab treatment group than in the placebo treatment group (9 versus 18 hospitalizations per 100 subjects, p = 0.005).
-No notable differences were observed between the 5 mg/kg and 10 mg/kg infliximab treatment groups.
+The pooled data analysis from the ACT 1 and ACT 2 studies and their extensions, analysed from baseline through 54 weeks, demonstrated a reduction of ulcerative colitis related hospitalisations and surgical procedures with infliximab treatment.
+The number of UC-related hospitalisations was significantly lower in the 5 and 10 mg/kg infliximab treatment groups than in the placebo group (mean number of hospitalisations per 100 subject-years: 21 and 19 vs 40 in the placebo group; p=0.019 and p=0.007, respectively).
+The number of UC-related surgical procedures was also lower in the 5 and 10 mg/kg infliximab treatment groups than in the placebo group (mean number of surgical procedures per 100 subject-years: 22 and 19 vs 34; p=0.145 and p=0.022, respectively).
 
-A greater proportion of patients in the combined infliximab treatment group were able to discontinue corticosteroids while remaining in clinical remission compared to the placebo treatment group at both week 30 (22.3% vs. 7.2%, p ≤ 0.001) and week 54 (21.0% vs. 8.9%, p=0.022).
+The proportion of subjects who underwent colectomy at any time within 54 weeks following the first infusion of study agent were collected and pooled from the ACT 1 and ACT 2 studies and their extensions.
+Fewer subjects underwent colectomy in the 5 mg/kg infliximab group (28/242 or 11.6% [N.S.]) and the 10 mg/kg infliximab group (18/242 or 7.4% [p=0.011]) than in the placebo group (36/244; 14.8%).
+
+The reduction in incidence of colectomy was also examined in another randomised, double-blind study (C0168Y06) in hospitalised patients (n= 45) with moderately to severely active ulcerative colitis who failed to respond to IV corticosteroids and who were therefore at higher risk for colectomy.
+Significantly fewer colectomies occurred within 3 months of study infusion in patients who received a single dose of 5 mg/kg infliximab compared to patients who received placebo (29.2% vs 66.7% respectively, p=0.017).
+
+In ACT 1 and ACT 2, infliximab improved quality of life, confirmed by statistically significant improvement in both a disease specific measure, IBDQ, and by improvement in the generic 36-item short form survey SF-36.
 
 Ankylosing spondylitis
 
@@ -261,6 +268,7 @@ Efficacy and safety of infliximab were assessed in two multicenter, double-blind
 In the first study (P01522), which had a 3 month double-blind phase, 70 patients received either 5 mg/kg infliximab or placebo at weeks 0, 2, 6 (35 patients in each group).
 At week 12, placebo patients were switched to infliximab 5 mg/kg every 6 weeks up to week 54.
 After the first year of the study, 53 patients continued into an open-label extension to week 102.
+
 In the second clinical study (ASSERT), 279 patients were randomized to receive either placebo (Group 1, n=78) or 5 mg/kg infliximab (Group 2, n=201) at 0, 2 and 6 weeks and every 6 weeks to week 24.
 Thereafter, all subjects continued on infliximab every 6 weeks to week 96.
 Group 1 received 5 mg/kg infliximab.
@@ -296,6 +304,7 @@ At week 24, all placebo-treated patients crossed over to infliximab induction.
 Dosing continued for all patients through week 46.
 
 Key efficacy results for IMPACT and IMPACT 2 are shown in Table 9 below:
+
 Table 9: Effects on ACR and PASI in IMPACT and IMPACT 2
 
 IMPACT IMPACT 2*
@@ -345,7 +354,6 @@ Psoriasis
 The efficacy of infliximab was assessed in two multicenter, randomised, double blind studies: SPIRIT and EXPRESS.
 Patients in both studies had plaque psoriasis (Body Surface Area [BSA] ≥10% and Psoriasis Area and Severity Index [PASI] score ≥12).
 The primary endpoint in both studies was the percent of patients who achieved ≥ 75% improvement in PASI from baseline at week 10.
-
 SPIRIT evaluated the efficacy of infliximab induction therapy in 249 patients with plaque psoriasis that had previously received PUVA or systemic therapy.
 Patients received either 3 or, 5 mg/kg infliximab or placebo infusions at weeks 0, 2 and 6.
 Patients with a PGA score ≥3 were eligible to receive an additional infusion of the same treatment at week 26.
@@ -406,4 +414,5 @@ Week 50 27/64 (42.2%) 92/226 (40.7%)
 
 a: p < 0.001, for each infliximab treatment group vs. control b: n = 292 c: Analysis was based on subjects with nail psoriasis at baseline (81.8% of subjects).
 Mean baseline NAPSI scores were 4.6 and 4.3 in infliximab and placebo group.
+
 Significant improvements from baseline were demonstrated in DLQI (p<0.001) and the physical and mental component scores of the SF 36 (p<0.001 for each component comparison).
