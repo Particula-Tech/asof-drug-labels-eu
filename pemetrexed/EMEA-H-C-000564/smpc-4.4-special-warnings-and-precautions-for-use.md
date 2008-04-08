@@ -5,8 +5,8 @@ Myelosuppression is usually the dose-limiting toxicity.
 Patients should be monitored for myelosuppression during therapy and pemetrexed should not be given to patients until absolute neutrophil count (ANC) returns to ≥ 1500 cells/mm3 and platelet count returns to ≥ 100,000 cells/mm3.
 Dose reductions for subsequent cycles are based on nadir ANC, platelet count and maximum non-haematologic toxicity seen from the previous cycle (see section 4.2).
 
-In the Phase 3 mesothelioma trial, overall less toxicity and reduction in Grade 3/4 haematologic and non-haematologic toxicities such as neutropenia, febrile neutropenia and infection with Grade 3/4 neutropenia were reported when pre-treatment with folic acid and vitamin B12 was administered.
-Therefore patients treated with pemetrexed must be instructed to take folic acid and vitamin B12 as a prophylactic measure to reduce treatment-related toxicity (see section 4.2).
+Less toxicity and reduction in Grade 3/4 haematologic and non-haematologic toxicities such as neutropenia, febrile neutropenia and infection with Grade 3/4 neutropenia were reported when pre-treatment with folic acid and vitamin B12 was administered.
+Therefore all patients treated with pemetrexed must be instructed to take folic acid and vitamin B12 as a prophylactic measure to reduce treatment-related toxicity (see section 4.2).
 
 Skin reactions have been reported in patients not pre-treated with a corticosteroid.
 Pre-treatment with dexamethasone (or equivalent) can reduce the incidence and severity of skin reactions (see section 4.2).
@@ -31,7 +31,6 @@ Most of the patients in whom these events have been observed had pre-existing ca
 
 Immunodepressed status is common in cancer patients.
 As a result, concomitant use of live attenuated vaccines (except yellow fever which is contraindicated) is not recommended (see section 4.3 and 4.5).
-
 Pemetrexed can have genetically damaging effects.
 Sexually mature males are advised not to father a child during the treatment and up to 6 months thereafter.
 Contraceptive measures or abstinence are recommended.

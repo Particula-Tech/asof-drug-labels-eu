@@ -40,7 +40,8 @@ Disorders
 Nervous Very Neuropathy- 10.1 0.0 9.8 0.6
 System Common Sensory
 Disorders
-Common Dysgeusia 7.7 0.0 6.1 0.0
+Common Taste 7.7 0.0*** 6.1 0.0***
+disturbance
 Renal and Very Creatinine 10.7 0.6 9.8 1.2
 urinary Common elevation
 Disorders
@@ -48,16 +49,18 @@ Creatinine 16.1 0.6 17.8 1.8
 clearance
 decreased**
 Skin and Very Rash 16.1 0.6 4.9 0.0
-Subcutaneous Common Alopecia 11.3 0.0 5.5 0.0
+Subcutaneous Common Alopecia 11.3 0.0*** 5.5 0.0***
 Tissue
 Disorders
 
-* Refer to National Cancer Institute CTC version 2 for each grade of toxicity except the term “creatinine clearance decreased”** which is derived from the term “renal/genitourinary other”.
-
-Very common - > 10 %; Common is normally defined as > 1 % and < 10 %.
+*Refer to National Cancer Institute CTC version 2 for each grade of toxicity except the term “creatinine clearance decreased”
+** which is derived from the term “renal/genitourinary other”.
+*** According to National Cancer Institute CTC (v2.0; NCI 1998), taste disturbance and alopecia should only be reported as Grade 1 or 2.
+Very common - ≥ 10 %; Common is normally defined as - ≥ 1 % and < 10 %.
 For the purpose of this table a cut off of 5 % was used for inclusion of all events where the reporter considered a possible relationship to pemetrexed and cisplatin.
-Clinically relevant CTC toxicities that were reported in > 1 % and < 5 % (common) of the patients that were randomly assigned to receive cisplatin and pemetrexed include: renal failure, infection, pyrexia, febrile neutropenia, increased AST, ALT, and GGT, urticaria and chest pain.
-Clinically relevant CTC toxicities that were reported in ≤ 1 % of the patients that were randomly assigned to receive cisplatin and pemetrexed include arrhythmia and motor neuropathy.
+
+Clinically relevant CTC toxicities that were reported in - ≥ 1 % and < 5 % (common) of the patients that were randomly assigned to receive cisplatin and pemetrexed include: renal failure, infection, pyrexia, febrile neutropenia, increased AST, ALT, and GGT, urticaria and chest pain.
+Clinically relevant CTC toxicities that were reported in < 1 % (uncommon) of the patients that were randomly assigned to receive cisplatin and pemetrexed include arrhythmia and motor neuropathy.
 
 The table below provides the frequency and severity of undesirable effects that have been reported in > 5 % of 265 patients randomly assigned to receive single agent pemetrexed with folic acid and vitamin B12 supplementation and 276 patients randomly assigned to receive single agent docetaxel.
 All patients were diagnosed with locally advanced or metastatic non-small cell lung cancer and received prior chemotherapy.
@@ -93,17 +96,68 @@ elevation
 Skin and Sub- Very Rash/ 14.0 0.0 6.2 0.0
 cutaneous tissue Common desquamation
 disorders Common Pruritus 6.8 0.4 1.8 0.0
-Alopecia 6.4 0.4 37.7 2.2
+Alopecia 6.4 0.4** 37.7 2.2**
 
 *Refer to National Cancer Institute CTC version 2 for each grade of toxicity.
+**According to National Cancer Institute CTC (v2.0; NCI 1998), alopecia should only be reported as Grade 1 or 2.
 
-Very common - > 10 %; Common is normally defined as > 1 % and < 10 %.
+Very common - ≥ 10 %; Common is normally defined as - ≥ 1 % and < 10 %.
 For the purpose of this table a cut off of 5 % was used for inclusion of all events where the reporter considered a possible relationship to pemetrexed.
+Clinically relevant CTC toxicities that were reported in - ≥ 1 % and < 5 % (common) of the patients that were randomly assigned to pemetrexed include: infection without neutropenia, febrile neutropenia, allergic reaction/hypersensitivity, increased creatinine, motor neuropathy, sensory neuropathy, erythema multiforme, and abdominal pain.
+Clinically relevant CTC toxicities that were reported in < 1 % (uncommon) of the patients that were randomly assigned to pemetrexed include supraventricular arrhythmias.
 
-Clinically relevant CTC toxicities that were reported in > 1 % and < 5 % (common) of the patients that were randomly assigned to pemetrexed include: infection without neutropenia, febrile neutropenia, allergic reaction/hypersensitivity, increased creatinine, motor neuropathy, sensory neuropathy, erythema multiforme, and abdominal pain.
-Clinically relevant CTC toxicities that were reported in ≤ 1 % of the patients that were randomly assigned to pemetrexed include supraventricular arrhythmias.
 Clinically relevant Grade 3 and Grade 4 laboratory toxicities were similar between integrated Phase 2 results from three single agent pemetrexed studies (n = 164) and the Phase 3 single agent pemetrexed study described above, with the exception of neutropenia (12.8 % versus 5.3 %, respectively) and alanine transaminase elevation (15.2 % versus 1.9 %, respectively).
 These differences were likely due to differences in the patient population, since the Phase 2 studies included both chemonaive and heavily pre-treated breast cancer patients with pre-existing liver metastases and/or abnormal baseline liver function tests.
+The table below provides the frequency and severity of undesirable effects considered possibly related to study drug that have been reported in >5% of 839 patients with NSCLC who were randomized to receive cisplatin and pemetrexed and 830 patients with NSCLC who were randomized to receive cisplatin and gemcitabine.
+All patients received study therapy as initial treatment for locally advanced or metastatic NSCLC and patients in both treatment groups were fully supplemented with folic acid and vitamin B12.
+
+System Organ Frequency Event** Pemetrexed/ Gemcitabine/
+Class cisplatin cisplatin
+(N = 839) (N = 830)
+All Grade All Grade
+Grades 3 - 4 Grades 3 - 4
+Toxicity Toxicity Toxicity Toxicity
+(%) (%) (%) (%)
+Blood and Very Hemoglobin 33.0* 5.6* 45.7* 9.9*
+lymphatic Common decreased
+system Neutrophils/ 29.0* 15.1* 38.4* 26.7*
+disorders Granulocytes
+decreased
+Leukocytes 17.8 4.8* 20.6 7.6*
+decreased
+Platelets 10.1* 4.1* 26.6* 12.7*
+decreased
+Gastrointestinal Very Nausea 56.1 7.2* 53.4 3.9*
+disorders Common Vomiting 39.7 6.1 35.5 6.1
+Anorexia 26.6 2.4* 24.2 0.7*
+Constipation 21.0 0.8 19.5 0.4
+Stomatitis/ 13.5 0.8 12.4 0.1
+pharyngitis
+Diarrhea without 12.4 1.3 12.8 1.6
+colostomy
+Common Dyspepsia/ 5.2 0.1 5.9 0.0
+heartburn
+General Very Fatigue 42.7 6.7 44.9 4.9
+disorders and Common
+administration
+site conditions
+Nervous Common Neuropathy- 8.5* 0.0* 12.4* 0.6*
+system sensory
+disorders Taste disturbance 8.1 0.0*** 8.9 0.0***
+Renal and Very Creatinine 10.1* 0.8 6.9* 0.5
+urinary Common elevation
+disorders
+Skin and Very Alopecia 11.9* 0*** 21.4* 0.5***
+subcutaneous Common
+tissue disorders Common Rash/desquamation 6.6 0.1 8.0 0.5
+
+*P-values <0.05 comparing pemetrexed/cisplatin to gemcitabine/cisplatin, using Fisher Exact test. **Refer to National Cancer Institute CTC (v2.0; NCI 1998) for each Grade of Toxicity. ***According to National Cancer Institute CTC (v2.0; NCI 1998), taste disturbance and alopecia should only be reported as Grade 1 or 2.
+
+Very common - ≥10%; common is normally defined as ≥ 1 % and < 10 %.
+For the purpose of this table, a cut-off of 5% was used for inclusion of all events where the reporter considered a possible relationship to pemetrexed and cisplatin).
+Clinically relevant toxicity that was reported in ≥1% and ≤5% (common) of the patients that were randomly assigned to receive cisplatin and pemetrexed include: AST increase, ALT increase, infection, febrile neutropenia, renal failure, pyrexia, dehydration, conjunctivitis, and creatinine clearance decrease.
+Clinically relevant toxicity that was reported in <1% (uncommon) of the patients that were randomly assigned to receive cisplatin and pemetrexed include: GGT increase, chest pain, arrhythmia, and motor neuropathy.
+Clinically relevant toxicities with respect to gender were similar to the overall population in patients receiving pemetrexed plus cisplatin.
 
 Serious cardiovascular and cerebrovascular events, including myocardial infarction, angina pectoris, cerebrovascular accident and transient ischaemic attack have been uncommonly reported during clinical studies with pemetrexed, usually when given in combination with another cytotoxic agent.
 Most of the patients in whom these events have been observed had pre-existing cardiovascular risk factors.
@@ -123,5 +177,10 @@ Cases of radiation pneumonitis have been reported in patients treated with radia
 Cases of radiation recall have been reported in patient who have received radiotherapy previously (see section 4.4)
 
 [ALIMTA 500 mg powder for concentrate for solution for infusion]
+
+*Refer to National Cancer Institute CTC version 2 for each grade of toxicity. **According to National Cancer Institute CTC (v2.0; NCI 1998), alopecia should only be reported as Grade 1 or 2.
+
+Platelets decreased 10.1* 4.1* 26.6* 12.7*
+urinary Common
 
 Cases of radiation recall have been reported in patients who have received radiotherapy previously (see section 4.4).
