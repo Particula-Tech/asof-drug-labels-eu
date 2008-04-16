@@ -14,3 +14,7 @@ EU/1/98/070/006a - Cartons of 90 film-coated tablets in PVC/PVDC/Alu blisters
 EU/1/98/070/006b - Cartons of 90 film-coated tablets in all aluminium blisters
 EU/1/98/070/007a - Cartons of 14 film-coated tablets in PVC/PVDC/Alu blisters
 EU/1/98/070/007b - Cartons of 14 film-coated tablets in all aluminium blisters
+
+[Iscover 300 mg film-coated tablets]
+
+EU/1/98/070/xxx - Cartons of 4x1 film-coated tablets in all aluminium perforated unit-dose blisters EU/1/98/070/xxx - Cartons of 30x1 film-coated tablets in all aluminium perforated unit-dose blisters EU/1/98/070/xxx - Cartons of 100x1 film-coated tablets in all aluminium perforated unit-dose blisters

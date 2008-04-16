@@ -78,3 +78,14 @@ The population included 27.8% women, 58.4% patients ≥ 60 years (26% ≥ 70 yea
 
 Clopidogrel significantly reduced the relative risk of death from any cause by 7% (p = 0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p = 0.002), representing an absolute reduction of 0.5% and 0.9%, respectively.
 This benefit was consistent across age, gender and with or without fibrinolytics, and was observed as early as 24 hours.
+
+[Iscover 300 mg film-coated tablets]
+
+Pharmacotherapeutic group: platelet aggregation inhibitors excl. heparin, ATC Code: B01AC-04.
+
+The safety and efficacy of clopidogrel have been evaluated in 4 double-blind studies involving over 80,000 patients: the CAPRIE study, a comparison of clopidogrel to ASA, and the CURE, CLARITY and COMMIT studies comparing clopidogrel to placebo, both medicinal products given in combination with ASA and other standard therapy.
+
+In a subgroup analysis by qualifying condition (myocardial infarction, ischaemic stroke, and PAD) the benefit appeared to be strongest (achieving statistical significance at p = 0.003) in patients enrolled due to PAD (especially those who also had a history of myocardial infarction) (RRR = 23.7%; CI: 8.9 to 36.2) and weaker (not significantly different from ASA) in stroke patients (RRR = 7.3%; CI: -5.7 to 18.7 [p=0.258]).
+In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was numerically inferior, but not statistically different from ASA (RRR = -4.0%; CI: -22.5 to 11.7 [p=0.639]).
+
+The benefits observed with clopidogrel were independent of other acute and long-term cardiovascular therapies (such as heparin/LMWH, GPIIb/IIIa antagonists, lipid lowering medicinal products, beta blockers, and ACE-inhibitors).

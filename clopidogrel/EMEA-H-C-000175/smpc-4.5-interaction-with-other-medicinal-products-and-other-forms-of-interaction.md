@@ -35,3 +35,12 @@ Data from the CAPRIE study indicate that phenytoin and tolbutamide can be safely
 
 Apart from the specific drug interaction information described above, interaction studies with clopidogrel and some drugs commonly administered in patients with atherothrombotic disease have not been performed.
 However, patients entered into clinical trials with clopidogrel received a variety of concomitant medications including diuretics, beta blockers, ACEI, calcium antagonists, cholesterol lowering agents, coronary vasodilators, antidiabetic agents (including insulin), antiepileptic agents, hormone replacement therapy and GPIIb/IIIa antagonists without evidence of clinically significant adverse interactions.
+
+[Iscover 300 mg film-coated tablets]
+
+Other concomitant therapy: a number of other clinical studies have been conducted with clopidogrel and other concomitant medicinal products to investigate the potential for pharmacodynamic and pharmacokinetic interactions.
+
+This could potentially lead to increased plasma levels of medicinal products such as phenytoin and tolbutamide and the NSAIDs, which are metabolised by Cytochrome P450 2C9.
+
+Apart from the specific medicinal product interaction information described above, interaction studies with clopidogrel and some medicinal products commonly administered in patients with atherothrombotic disease have not been performed.
+However, patients entered into clinical trials with clopidogrel received a variety of concomitant medicinal products including diuretics, beta blockers, ACEI, calcium antagonists, cholesterol lowering agents, coronary vasodilators, antidiabetic agents (including insulin), antiepileptic agents and GPIIb/IIIa antagonists without evidence of clinically significant adverse interactions.

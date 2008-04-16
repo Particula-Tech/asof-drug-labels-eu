@@ -24,3 +24,19 @@ Experience is limited in patients with moderate hepatic disease who may have ble
 Clopidogrel should therefore be used with caution in this population.
 
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
+[Iscover 300 mg film-coated tablets]
+
+As with other antiplatelet agents, clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions and in patients receiving treatment with ASA, heparin, glycoprotein IIb/IIIa inhibitors, or non-steroidal anti-inflammatory drugs including Cox-2 inhibitors.
+
+Patients should inform physicians and dentists that they are taking clopidogrel before any surgery is scheduled and before any new medicinal product is taken.
+
+It is characterised by thrombocytopenia and microangiopathic haemolytic anaemia associated with either neurological findings, renal dysfunction or fever.
+
+Therefore clopidogrel should be used with caution in these patients (see section 4.2).
+Clopidogrel should therefore be used with caution in this population (see section 4.2).
+
+Iscover contains lactose.
+Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
+This product contains hydrogenated castor oil which may cause stomach upset and diarrhoea.

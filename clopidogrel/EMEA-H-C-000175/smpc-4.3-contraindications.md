@@ -4,3 +4,7 @@
 - Severe liver impairment.
 - Active pathological bleeding such as peptic ulcer or intracranial haemorrhage.
 - Breast-feeding (see section 4.6).
+
+[Iscover 300 mg film-coated tablets]
+
+- Hypersensitivity to the active substance or to any of the excipients.
