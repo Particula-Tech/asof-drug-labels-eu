@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: protease inhibitor, ATC code: J05A E08
+Pharmacotherapeutic group: protease inhibitor, ATC code: J05AE08
 
 This medicinal product has been authorised under “Exceptional Circumstances”.
 This means that for scientific reasons, it has not been possible to obtain complete information on this medicinal product.
@@ -62,6 +62,7 @@ The first consisted in assessing the HIV RNA change from baseline in the subgrou
 The second consisted in assessing the HIV RNA change from baseline in the subgroup of patients with < or ≥ of 4 of the following more specific set of mutations: 10, 46, 54, 82, 84, 90.
 In the analysis performed for patients with ≥ 4 protease gene mutations among the following set of mutations 10, 20, 24, 32, 33, 36, 46, 48, 50, 54, 63, 71, 73, 82, 84 and 90, the results significantly favoured the lopinavir + ritonavir arm.
 There were too few patients with ≥ 4 of the second more specific set of mutations (i.e. 10, 46, 54, 82, 84, 90) to assess the comparability of the REYATAZ + ritonavir and lopinavir + ritonavir regimens, but reduced virologic activity may be anticipated among patients with this resistance profile.
+
 REYATAZ + saquinavir was shown to be inferior to lopinavir + ritonavir.
 
 The data available on the lipid profile (mean change from baseline) are described in the following table:

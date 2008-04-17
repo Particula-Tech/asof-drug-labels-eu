@@ -28,8 +28,8 @@ Elimination: following a single 400-mg dose of 14C-atazanavir, 79% and 13% of th
 Unchanged drug accounted for approximately 20% and 7% of the administered dose in the faeces and urine, respectively.
 Mean urinary excretion of unchanged drug was 7% following 2 weeks of dosing at 800 mg once daily.
 The mean elimination half-life of atazanavir in HIV-infected adult patients (n= 10) was 8.6 hours at steady state following a dose of 300 mg daily with ritonavir 100 mg once daily with a light meal.
-
 Special populations
+
 Impaired renal function: in healthy subjects, the renal elimination of unchanged atazanavir was approximately 7% of the administered dose.
 There are no pharmacokinetic data available on patients with renal insufficiency (see section 4.2); however, the impact of renal impairment on atazanavir elimination is anticipated to be minimal.
 
@@ -50,6 +50,10 @@ There are insufficient data at this time to recommend a dose (see section 4.2).
 (all sentences already above)
 
 [REYATAZ 200 mg hard capsules]
+
+(all sentences already above)
+
+[REYATAZ 300 mg hard capsules]
 
 (all sentences already above)
 

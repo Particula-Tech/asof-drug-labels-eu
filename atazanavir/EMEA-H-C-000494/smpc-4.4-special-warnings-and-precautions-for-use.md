@@ -94,12 +94,18 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 (all sentences already above)
 
+[REYATAZ 300 mg hard capsules]
+
+(all sentences already above)
+
 [REYATAZ 50 mg/1.5 g oral powder]
 
 Diabetics
 REYATAZ oral powder contains 7.3 g sucrose per 300 mg daily dose.
 This should be taken into account in patients with diabetes mellitus.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
+
+The long-term consequences of these reactions are currently unknown.
 
 Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression (see section 4.5).
 

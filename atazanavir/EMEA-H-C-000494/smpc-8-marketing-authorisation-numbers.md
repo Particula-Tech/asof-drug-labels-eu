@@ -10,6 +10,10 @@ EU/1/03/267/003-004
 
 EU/1/03/267/005-006
 
+[REYATAZ 300 mg hard capsules]
+
+EU/1/03/267/008-009
+
 [REYATAZ 50 mg/1.5 g oral powder]
 
 EU/1/03/267/007

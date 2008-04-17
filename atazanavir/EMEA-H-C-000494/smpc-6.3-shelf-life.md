@@ -10,6 +10,10 @@
 
 (all sentences already above)
 
+[REYATAZ 300 mg hard capsules]
+
+(all sentences already above)
+
 [REYATAZ 50 mg/1.5 g oral powder]
 
 After opening: 2 months.

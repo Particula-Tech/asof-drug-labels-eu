@@ -7,21 +7,17 @@ Magnesium stearate
 
 Capsule shells:
 Gelatine
-Indigotin (E132)
+Indigocarmin (E132)
 Titanium dioxide (E171)
 
 Blue ink containing:
 Shellac
-Dehydrated alcohol
-Isopropyl alcohol n-Butyl alcohol
 Propylene glycol
 Ammonium hydroxide
-Indigotine aluminium lake (E132)
-
+Indigocarmin (E132)
 White ink containing:
 Shellac
 Titanium dioxide (E171)
-Isopropyl alcohol n-Butyl alcohol
 Ammonium hydroxide
 Propylene glycol
 Simethicone
@@ -31,6 +27,10 @@ Simethicone
 (all sentences already above)
 
 [REYATAZ 200 mg hard capsules]
+
+(all sentences already above)
+
+[REYATAZ 300 mg hard capsules]
 
 (all sentences already above)
 

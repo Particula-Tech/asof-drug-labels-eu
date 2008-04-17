@@ -1,19 +1,19 @@
 # 3. PHARMACEUTICAL FORM
 
 Hard capsule
-The capsules are opaque blue and white.
-They are printed with edible white and blue inks, with
-"BMS 100" on one half and with "3623" on the other half.
+Opaque blue and white capsule printed with white and blue inks, with "BMS 100" on one half and with "3623" on the other half.
 
 [REYATAZ 150 mg hard capsules]
 
-The capsules are opaque blue and powder blue.
-They are printed with edible white and blue inks, with "BMS 150" on one half and with "3624" on the other half.
+Opaque blue and powder blue capsule printed with white and blue inks, with "BMS 150" on one half and with "3624" on the other half.
 
 [REYATAZ 200 mg hard capsules]
 
-The capsules are opaque blue.
-They are printed with edible white ink, with "BMS 200" on one half and with "3631" on the other half.
+Opaque blue capsule printed with white ink, with "BMS 200" on one half and with "3631" on the other half.
+
+[REYATAZ 300 mg hard capsules]
+
+Opaque red and blue capsule printed with white ink, with "BMS 300" on one half and with "3622" on the other half
 
 [REYATAZ 50 mg/1.5 g oral powder]
 

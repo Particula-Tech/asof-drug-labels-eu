@@ -1,13 +1,16 @@
 # 6.4 Special precautions for storage
 
 Do not store above 25°C.
-Store in the original package.
 
 [REYATAZ 150 mg hard capsules]
 
 (all sentences already above)
 
 [REYATAZ 200 mg hard capsules]
+
+(all sentences already above)
+
+[REYATAZ 300 mg hard capsules]
 
 (all sentences already above)
 

@@ -12,7 +12,7 @@ Antiretroviral agents
 Nucleoside/nucleotide reverse transcriptase inhibitors (NRTIs):
 
 Interaction studies with stavudine, lamivudine and zidovudine have been performed with REYATAZ without ritonavir.
-Based on data derived from these studies and because ritonavir is not expected to have a significant impact on the pharmacokinetics of NRTIs, the co-administration of REYATAZ and ritonavir with these medicinal products is not expected to significantly alter the exposure of the co-administered drugs.
+Based on data derived from these studies and because ritonavir is not expected to have a significant impact on the pharmacokinetics of NRTIs, the co-administration of REYATAZ and ritonavir with these medicinal products is not expected to significantly alter the exposure of the co-administered medicinal products.
 The same conclusion applies to the co-administration with abacavir.
 Considering that REYATAZ with ritonavir should be administered with food, didanosine should be taken 2 hours after REYATAZ with ritonavir.
 
@@ -22,7 +22,7 @@ The efficacy of REYATAZ with ritonavir in combination with tenofovir in treatmen
 (see sections 4.8 and 5.1).
 
 When tenofovir disoproxil fumarate 300 mg was administered with REYATAZ 300 mg and ritonavir 100 mg, an increase in concentrations of tenofovir was observed (increase in AUC(TAU) of 37% with 90% confidence interval [30-45%]; in Cmax of 34% with 90% confidence interval [20-51%]; and in Cmin of 29% with 90% confidence interval [21-36%]).
-Higher tenofovir concentrations could potentiate tenofovir-associated adverse events, including renal disorders.
+Higher tenofovir concentrations could potentiate tenofovir-associated adverse reactions, including renal disorders.
 
 Non-nucleoside reverse transcriptase inhibitors (NNRTIs)
 
@@ -50,10 +50,9 @@ Other medicinal products
 Antacids and medicinal products containing buffers: reduced plasma concentrations of atazanavir may be the consequence of increased gastric pH if antacids, including buffered medicinal products, are administered with REYATAZ with ritonavir.
 REYATAZ with ritonavir should be administered 2 hours before or 1 hour after buffered medicinal products.
 
-Antiarrhythmics (amiodarone, systemic lidocaine, quinidine): concentrations may be increased when co-administered with REYATAZ with ritonavir.
+Antiarrhythmics (amiodarone, systemic lidocaine, quinidine): concentrations of antiarrhythmics may be increased when co-administered with REYATAZ with ritonavir.
 Caution is warranted and therapeutic concentration monitoring is recommended when available.
-The concomitant use of quinidine is contraindicated
-(see section 4.3).
+The concomitant use of quinidine is contraindicated (see section 4.3).
 
 Antineoplastics: atazanavir inhibits UGT and may interfere with the metabolism of irinotecan, resulting in increased irinotecan toxicities.
 Calcium channel blockers: co-administration of bepridil with REYATAZ is not recommended
@@ -125,7 +124,7 @@ This may result in loss of therapeutic effect and development of resistance.
 The concomitant use of REYATAZand rifampicin is contraindicated (see section 4.3).
 
 Sildenafil: sildenafil is metabolised by CYP3A4.
-Co-administration with REYATAZ may result in increased concentrations of sildenafil and an increase in sildenafil-associated adverse events, including hypotension, visual changes, and priapism.
+Co-administration with REYATAZ may result in increased concentrations of sildenafil and an increase in sildenafil-associated adverse reactions, including hypotension, visual changes, and priapism.
 Patients should be warned about these possible side effects.
 
 Triazole antifungal agents: co-administration with ketoconazole has only been studied with REYATAZ without ritonavir.
@@ -144,6 +143,10 @@ There is a risk of loss of therapeutic effect and development of resistance (see
 (all sentences already above)
 
 [REYATAZ 200 mg hard capsules]
+
+(all sentences already above)
+
+[REYATAZ 300 mg hard capsules]
 
 (all sentences already above)
 

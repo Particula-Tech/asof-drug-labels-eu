@@ -35,6 +35,10 @@ Atazanavir increased opacity of bovine corneas in an in vitro ocular irritation 
 
 (all sentences already above)
 
+[REYATAZ 300 mg hard capsules]
+
+(all sentences already above)
+
 [REYATAZ 50 mg/1.5 g oral powder]
 
 The potential for PR prolongation should be considered in cases of overdose (see section 4.9).
