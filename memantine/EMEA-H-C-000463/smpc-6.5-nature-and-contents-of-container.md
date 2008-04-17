@@ -1,7 +1,7 @@
 # 6.5 Nature and contents of container
 
 Blister packs containing either 7, 10, 14 or 20 tablets per blister strip.
-Pack sizes of 28, 30, 49 x 1, 50, 56, 56 x 1, 98 x 1,100, 100 x 1, 112 or 1000 (20 x 50) tablets are presented.
+Pack sizes of 14, 28, 30, 42, 49 x 1, 50, 56, 56 x 1, 70, 84, 98, 98 x 1,100, 100 x 1, 112, 980(10 x 98) or 1000 (20 x 50) tablets are presented.
 The pack sizes 49 x 1, 56 x1, 98 x 1 and 100 x 1 film-coated tablets are presented in unit dose blister.
 
 Not all pack sizes may be marketed.
