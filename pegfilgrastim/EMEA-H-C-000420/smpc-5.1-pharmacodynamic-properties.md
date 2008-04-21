@@ -9,6 +9,7 @@ Pegfilgrastim and filgrastim have been shown to have identical modes of action, 
 Similarly to filgrastim, neutrophils produced in response to pegfilgrastim show normal or enhanced function as demonstrated by tests of chemotactic and phagocytic function.
 As with other haematopoietic growth factors, G-CSF has shown in vitro stimulating properties on human endothelial cells.
 G-CSF can promote growth of myeloid cells, including malignant cells, in vitro and similar effects may be seen on some non-myeloid cells in vitro.
+
 In two randomised, double-blind, pivotal studies in patients with high risk stage II-IV breast cancer undergoing myelosuppressive chemotherapy consisting of doxorubicin and docetaxel, use of pegfilgrastim, as a single once per cycle dose, reduced the duration of neutropenia and the incidence of febrile neutropenia similarly to that observed with daily administrations of filgrastim (a median of 11 daily administrations).
 In the absence of growth factor support, this regimen has been reported to result in a mean duration of grade 4 neutropenia of 5 to7 days, and a 30-40% incidence of febrile neutropenia.
 In one study (n=157), which used a 6mg fixed dose of pegfilgrastim the mean duration of grade 4 neutropenia for the pegfilgrastim group was 1.8 days compared with 1.6 days in the filgrastim group (difference 0.23 days, 95% CI -0.15, 0.63).
