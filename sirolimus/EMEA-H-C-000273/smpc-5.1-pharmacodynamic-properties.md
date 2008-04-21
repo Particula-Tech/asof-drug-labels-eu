@@ -14,7 +14,8 @@ In animals, sirolimus has a direct effect on T and B cell activation suppressing
 Clinical Trials
 Patients at low to moderate immunological risk were studied in the phase 3 ciclosporin elimination-Rapamune maintenance trial, which included patients receiving a renal allograft from a cadaveric or living donor.
 In addition, re-transplant recipients whose previous grafts survived for at least 6 months after transplantation were included.
-Ciclosporin was not withdrawn in patients experiencing Banff Grade 3 acute rejection episodes, who were dialysis-dependent, who had a serum creatinine > 400 μmol/l, or who had inadequate renal function to support ciclosporin withdrawal.
+Ciclosporin was not withdrawn in patients experiencing Banff Grade 3 acute rejection episodes, who were dialysis-dependent, who had a serum creatinine
+> 400 μmol/l, or who had inadequate renal function to support ciclosporin withdrawal.
 Patients at high immunological risk of graft loss were not studied in sufficient number in the ciclosporin elimination-Rapamune maintenance trials and are not recommended for this treatment regimen.
 
 At 12, 24 and 36 months, graft and patient survival were similar for both groups.
@@ -45,15 +46,14 @@ In two multi-centre clinical studies, de novo renal transplant patients treated 
 Renal function was not better in the treatment arms with de novo Rapamune without a calcineurin inhibitor.
 An abbreviated dosing schedule of daclizumab was used in one of the studies.
 
-[Rapamune 1 mg coated tablets]
+[Rapamune 1 mg coated tablets.]
+
+Ciclosporin was not withdrawn in patients experiencing Banff Grade 3 acute rejection episodes, who were dialysis-dependent, who had a serum creatinine > 400 μmol/l, or who had inadequate renal function to support ciclosporin withdrawal.
+
+[Rapamune 2 mg coated tablets.]
 
 (all sentences already above)
 
-[Rapamune 2 mg coated tablets]
-
-Ciclosporin was not withdrawn in patients experiencing Banff Grade 3 acute rejection episodes, who were dialysis-dependent, who had a serum creatinine
-> 400 μmol/l, or who had inadequate renal function to support ciclosporin withdrawal.
-
-[Rapamune 5 mg coated tablets]
+[Rapamune 5 mg coated tablets.]
 
 (all sentences already above)

@@ -12,11 +12,11 @@ Immunosuppressants may affect response to vaccination.
 During treatment with immunosuppressants, including Rapamune, vaccination may be less effective.
 The use of live vaccines should be avoided during treatment with Rapamune.
 
-The pharmacokinetics of Rapamune have not been studied in patients with severe hepatic impairment.
-It is recommended that sirolimus whole blood trough levels be closely monitored in hepatically impaired patients.
+In hepatically impaired patients, it is recommended that sirolimus whole blood trough levels be closely monitored.
+In patients with severe hepatic impairment, reduction in maintenance dose by one half is recommended based on decreased clearance (see sections 4.2 and 5.2).
+Since half-life is prolonged in these patients, therapeutic drug monitoring after a loading dose or a change of dose should be performed for a prolonged period of time until stable concentrations are reached (see sections 4.2 and 5.2).
 
-Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (section 4.5).
-
+Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (see section 4.5).
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression (see section 4.8).
 Oversuppression of the immune system can also increase susceptibility to infection including opportunistic infections, fatal infections, and sepsis.
 
@@ -49,7 +49,6 @@ Similarly the risk/benefit of continued Rapamune therapy should be re-evaluated 
 
 In clinical trials, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates was well tolerated.
 During Rapamune therapy, patients administered an HMG-CoA reductase inhibitor and/or fibrate, should be monitored for the possible development of rhabdomyolysis and other adverse effects as described in the respective Summary of Product Characteristics of these agents.
-
 Renal function should be monitored during concomitant administration of Rapamune and ciclosporin.
 Appropriate adjustment of the immunosuppression regimen should be considered in patients with elevated serum creatinine levels.
 Caution should be exercised when co-administering other agents that are known to have a deleterious effect on renal function.
@@ -64,21 +63,20 @@ Periodic quantitative monitoring of urinary protein excretion is recommended.
 In a study evaluating conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients, increased urinary protein excretion was commonly observed at 6 to 24 months after conversion to Rapamune (see section 5.1).
 New onset nephrosis (nephrotic syndrome) was also reported in 2% of the patients in the study (see section 4.8).
 The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients have not been established.
+
 The concomitant use of Rapamune with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced haemolytic uraemic syndrome/thrombotic thrombocytopenic purpura/thrombotic microangiopathy (HUS/TTP/TMA).
 
-[Rapamune 1 mg coated tablets]
-
-Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (see section 4.5).
+[Rapamune 1 mg coated tablets.]
 
 There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults), in patients receiving Rapamune.
 
 Sirolimus tablets contain sucrose and lactose.
 In those patients with a history of sucrase insufficiency, isomaltase insufficiency, fructose intolerance, glucose malabsorption, galactose malabsorption, galactose intolerance (e.g., galactosemia), or Lapp lactase deficiency, a careful risk/benefit assessment should be performed prior to prescribing sirolimus tablets.
 
-[Rapamune 2 mg coated tablets]
+[Rapamune 2 mg coated tablets.]
 
 (all sentences already above)
 
-[Rapamune 5 mg coated tablets]
+[Rapamune 5 mg coated tablets.]
 
-(all sentences already above)
+Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (section 4.5).

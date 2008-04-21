@@ -13,9 +13,9 @@ Maintenance Therapy: Ciclosporin should be progressively discontinued over 4 to 
 Rapamune should be given with corticosteroids.
 In patients for whom ciclosporin withdrawal is either unsuccessful or cannot be attempted, the combination of ciclosporin and Rapamune should not be maintained for more than 3 months post-transplantation.
 In such patients, when clinically appropriate, Rapamune should be discontinued and an alternative immunosuppressive regimen instituted.
-
 Use in black recipients: There is limited information indicating that black renal transplant recipients (predominantly African-American) require higher doses and trough levels of sirolimus to achieve the same efficacy as observed in non-black patients.
 Currently, the efficacy and safety data are too limited to allow specific recommendations for use of sirolimus in black recipients.
+
 Use in children and adolescents(<18 years): There is insufficient experience to recommend the use of sirolimus in children and adolescents.
 Limited pharmacokinetic information is available in children (see section 5.2).
 
@@ -24,10 +24,11 @@ Sirolimus trough concentration data in 35 renal transplant patients >65 years of
 
 Use in patients with renal impairment: No dosage adjustment is required (see section 5.2).
 
-Use in patients with mild or moderate hepatic impairment: It is recommended that sirolimus whole blood trough levels be closely monitored in patients with impaired hepatic function.
-It is not necessary to modify the Rapamune loading dose (see section 5.2).
+Use in patients with hepatic impairment: The clearance of sirolimus may be reduced in patients with impaired hepatic function (see section 5.2).
+In patients with severe hepatic impairment, it is recommended that the maintenance dose of Rapamune be reduced by approximately one half.
 
-Use in patients with severe hepatic impairment: Sirolimus pharmacokinetics have not been evaluated in patients with severe hepatic impairment.
+It is recommended that sirolimus whole blood trough levels be closely monitored in patients with impaired hepatic function (see Therapeutic drug monitoring).
+It is not necessary to modify the Rapamune loading dose.
 
 Therapeutic drug monitoring: Most patients who received 2 mg of Rapamune 4 hours after ciclosporin had whole blood trough concentrations of sirolimus within the 4 to 12 ng/ml target range (expressed as chromatographic assay values).
 Optimal therapy requires therapeutic drug concentration monitoring in all patients.
@@ -50,6 +51,8 @@ The maximum Rapamune dose administered on any day should not exceed 40 mg.
 If an estimated daily dose exceeds 40 mg due to the addition of a loading dose, the loading dose should be administered over 2 days.
 Sirolimus trough concentrations should be monitored at least 3 to 4 days after a loading dose(s).
 
+In patients with severe hepatic impairment, monitoring should be performed every 5 to 7 days until 3 consecutive trough levels have shown stable concentrations of sirolimus after dose adjustment or after loading dose due to the delay in reaching steady state because of the prolonged half-life.
+
 The recommended 24-hour trough concentration ranges for sirolimus are based on chromatographic methods.
 Several assay methodologies have been used to measure the whole blood concentrations of sirolimus.
 Currently in clinical practice, sirolimus whole blood concentration are being measured by both chromatographic and immunoassay methodologies.
@@ -60,7 +63,7 @@ Adjustments to the targeted range should be made according to the assay being ut
 
 Other considerations for use: Ciclosporin (microemulsion) and other medicinal or non-medicinal products may interact with sirolimus (see section 4.5).
 
-[Rapamune 1 mg coated tablets]
+[Rapamune 1 mg coated tablets.]
 
 Bioavailability has not been determined for tablets after they have been crushed, chewed or split and therefore this cannot be recommended.
 
@@ -71,17 +74,16 @@ Sirolimus trough concentration data in 35 renal transplant patients > 65 years o
 Rapamune tablets administered to 12 renal transplant patients > 65 years of age also gave similar results to adult patients (n = 167) 18 to 65 years of age.
 
 To minimize variability, Rapamune should be taken at the same time in relation to ciclosporin, 4 hours after the ciclosporin dose, and consistently either with or without food (see section 5.2).
-Optimally, adjustments in Rapamune dosage should be based on more than a single trough level obtained
-> 5 days after a previous dosing change.
+Optimally, adjustments in Rapamune dosage should be based on more than a single trough level obtained > 5 days after a previous dosing change.
 Patients can be switched from the solution to the tablet formulation on a mg per mg basis.
 It is recommended that a trough concentration be taken 1 or 2 weeks after switching formulations or tablet strength to confirm that the trough concentration is within the recommended target range.
 
 Adjustments to the targeted range should be made according to the assay being utilized to determine the sirolimus trough concentrations.
 
-[Rapamune 2 mg coated tablets]
+[Rapamune 2 mg coated tablets.]
 
 The recommended ranges 24-hour trough concentration for sirolimus are based on chromatographic methods.
 
-[Rapamune 5 mg coated tablets]
+[Rapamune 5 mg coated tablets.]
 
 (all sentences already above)
