@@ -13,7 +13,7 @@ Opaque blue capsule printed with white ink, with "BMS 200" on one half and with 
 
 [REYATAZ 300 mg hard capsules]
 
-Opaque red and blue capsule printed with white ink, with "BMS 300" on one half and with "3622" on the other half
+Opaque red and blue capsule printed with white ink, with "BMS 300" on one half and with "3622" on the other half.
 
 [REYATAZ 50 mg/1.5 g oral powder]
 

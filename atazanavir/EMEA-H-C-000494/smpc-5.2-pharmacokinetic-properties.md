@@ -13,7 +13,6 @@ The mean steady-state plasma AUC (SD) of atazanavir was 53,761 ng hr/ml (35,294)
 Food effect: administration of atazanavir with either a light meal or a high fat meal decreased the coefficient of variation of AUC and Cmax approximately one-half compared to the fasting state.
 A similar decrease in the coefficient of variation was noted when REYATAZ 300 mg once daily with ritonavir 100 mg once daily was administered with a light meal in healthy subjects.
 To enhance bioavailability and minimise variability, REYATAZ is to be taken with food.
-
 Distribution: atazanavir was approximately 86% bound to human serum proteins over a concentration range of 100 to 10,000 ng/ml.
 Atazanavir binds to both alpha-1-acid glycoprotein (AAG) and albumin to a similar extent (89% and 86%, respectively, at 1,000 ng/ml).
 In a multiple-dose study in HIV-infected patients dosed with 400 mg of atazanavir once daily with a light meal for 12 weeks, atazanavir was detected in the cerebrospinal fluid and semen.
@@ -28,6 +27,7 @@ Elimination: following a single 400-mg dose of 14C-atazanavir, 79% and 13% of th
 Unchanged drug accounted for approximately 20% and 7% of the administered dose in the faeces and urine, respectively.
 Mean urinary excretion of unchanged drug was 7% following 2 weeks of dosing at 800 mg once daily.
 The mean elimination half-life of atazanavir in HIV-infected adult patients (n= 10) was 8.6 hours at steady state following a dose of 300 mg daily with ritonavir 100 mg once daily with a light meal.
+
 Special populations
 
 Impaired renal function: in healthy subjects, the renal elimination of unchanged atazanavir was approximately 7% of the administered dose.

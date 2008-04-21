@@ -55,6 +55,37 @@ Caution is warranted and therapeutic concentration monitoring is recommended whe
 The concomitant use of quinidine is contraindicated (see section 4.3).
 
 Antineoplastics: atazanavir inhibits UGT and may interfere with the metabolism of irinotecan, resulting in increased irinotecan toxicities.
+
+Co-administered medicinal Medicinal product AUC Cmax Cmin Recommendations
+products (dose in mg) assessed (90% (90% (90% concerning
+
+CI) CI) CI) co-administration
+
+OPIOIDS
+
+Buprenorphine, QD, stable buprenorphine ↑1.67 ↑1.37 ↑1.69
+
+Co-administration warrants maintenance dose, clinical monitoring for
+
+(atazanavir 300 mg QD with ritonavir 100 mg QD) norbuprenorphine ↑2.05 ↑1.61 ↑2.01 sedation and cognitive effects.
+
+A dose reduction of
+The mechanism of interaction is CYP3A4 and UGT1A1 buprenorphine may be
+
+inhibition. considered.
+
+Concentrations of atazanavir were not significantly affected.
+
+Methadone, stable No significant effect on methadone concentrations was No dosage adjustment is
+maintenance dose observed. Given that low dose ritonavir (100 mg twice
+
+necessary if methadone is
+
+(atazanavir 400 mg QD) daily) has been shown to have no significant effect on coadministered with
+methadone concentrations, no interaction is expected if methadone is co-administered with REYATAZ and REYATAZ and ritonavir.
+
+ritonavir, based on these data.
+
 Calcium channel blockers: co-administration of bepridil with REYATAZ is not recommended
 (see section 4.3).
 Co-administration of diltiazem (180 mg once daily) with atazanavir (400 mg once daily) in healthy subjects resulted in a 2 to 3 fold increase in diltiazem and desacetyl-diltiazem exposure and no change in the pharmacokinetics of atazanavir.
@@ -131,6 +162,7 @@ Triazole antifungal agents: co-administration with ketoconazole has only been st
 Co-administration of 200 mg of ketoconazole with 400 mg of atazanavir in healthy subjects resulted in negligible increases in atazanavir AUC and Cmax (respectively 11% and 3%).
 Plasma levels of both atazanavir and ritonavir may be increased by ketoconazole and itraconazole.
 High doses of ketoconazole and itraconazole (> 200 mg/day) should be used cautiously with atazanavir and ritonavir, by assessing the risk versus the benefit of such a combination.
+
 Warfarin: co-administration with REYATAZ with ritonavir has the potential to produce a decrease or, less often, an increase in INR (International Normalised Ratio).
 It is recommended that the INR be monitored carefully during treatment with REYATAZ and ritonavir, especially when commencing therapy.
 
@@ -153,5 +185,9 @@ There is a risk of loss of therapeutic effect and development of resistance (see
 [REYATAZ 50 mg/1.5 g oral powder]
 
 Co-administration of REYATAZ and indinavir is not recommended (see section 4.4).
+
+Buprenorphine, QD, stable buprenorphine ↑1.67 ↑1.37 ↑1.69 Co-administration warrants
+maintenance dose, clinical monitoring for
+(atazanavir 300 mg QD with ritonavir 100 mg QD) norbuprenorphine ↑2.05 ↑1.61 ↑2.01 sedation and cognitive effects. A dose reduction of
 
 The concomitant use of REYATAZ and rifampicin is contraindicated (see section 4.3).

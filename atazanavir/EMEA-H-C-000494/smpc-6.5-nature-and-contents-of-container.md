@@ -3,6 +3,7 @@
 One high-density polyethylene (HDPE) bottle closed with a child-resistant polypropylene closure containing 60 hard capsules.
 
 Each carton contains 60 x 1 capsules; 10 blister cards of 6 x 1 capsules each in Alu/Alu perforated unit dose blisters.
+
 Not all pack sizes may be marketed.
 
 [REYATAZ 150 mg hard capsules]
