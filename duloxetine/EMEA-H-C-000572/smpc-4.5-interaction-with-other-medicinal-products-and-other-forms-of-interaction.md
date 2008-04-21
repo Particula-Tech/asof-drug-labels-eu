@@ -12,7 +12,7 @@ However, the concomitant use of CYMBALTA with selective, reversible MAOIs is not
 Serotonin syndrome: in rare cases, serotonin syndrome has been reported in patients using SSRIs (e.g. paroxetine, fluoxetine) concomitantly with serotonergic medicinal products.
 Caution is advisable if CYMBALTA is used concomitantly with serotonergic antidepressants like SSRIs, tricyclics like clomipramine or amitriptyline, St John’s wort (Hypericum perforatum), venlafaxine or triptans, tramadol, pethidine and tryptophan.
 
-Effect of duloxetine on other drugs
+Effect of duloxetine on other medicinal products
 Medicinal products metabolised by CYP1A2: The pharmacokinetics of theophylline, a CYP1A2 substrate, were not significantly affected by co-administration with duloxetine (60 mg twice daily).
 Medicinal products metabolised by CYP2D6: Duloxetine is a moderate inhibitor of CYP2D6.
 When duloxetine was administered at a dose of 60 mg twice daily with a single dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3-fold.
@@ -25,8 +25,9 @@ Specific in vivo drug interaction studies have not been performed.
 Anticoagulants and antiplatelet agents: Caution should be exercised when duloxetine is combined with oral anticoagulants or antiplatelet agents due to a potential increased risk of bleeding.
 Furthermore, increases in INR values have been reported when duloxetine was co-administered with warfarin.
 
-Effects of other drugs on duloxetine
+Effects of other medicinal products on duloxetine
 Antacids and H2 antagonists: co-administration of duloxetine with aluminium- and magnesium-containing antacids or duloxetine with famotidine had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
+
 Inhibitors of CYP 1A2: because CYP1A2 is involved in duloxetine metabolism, concomitant use of duloxetine with potent inhibitors of CYP1A2 is likely to result in higher concentrations of duloxetine.
 Fluvoxamine (100 mg once daily), a potent inhibitor of CYP1A2, decreased the apparent plasma clearance of duloxetine by about 77% and increased AUCo-t 6-fold.
 Therefore CYMBALTA should not be administered in combination with potent inhibitors of CYP1A2 like fluvoxamine (see section 4.3).

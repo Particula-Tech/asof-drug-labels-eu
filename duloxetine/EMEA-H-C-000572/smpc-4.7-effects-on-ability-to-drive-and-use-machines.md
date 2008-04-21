@@ -1,4 +1,5 @@
 # 4.7 Effects on ability to drive and use machines
 
-Although in controlled studies duloxetine has not been shown to impair psychomotor performance, cognitive function, or memory, it may be associated with sedation and dizziness.
-Patients should be cautioned about their ability to drive a car or operate hazardous machinery.
+No studies on the effects on the ability to drive and use machines have been performed.
+CYMBALTA may be associated with sedation and dizziness.
+Patients should be instructed that if they experience sedation or dizziness they should avoid potentially hazardous tasks such as driving or operating machinery.

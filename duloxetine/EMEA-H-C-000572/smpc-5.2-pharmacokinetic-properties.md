@@ -16,7 +16,6 @@ Both cytochromes P450-2D6 and 1A2 catalyse the formation of the two major metabo
 Based upon in vitro studies, the circulating metabolites of duloxetine are considered pharmacologically inactive.
 The pharmacokinetics of duloxetine in patients who are poor metabolisers with respect to CYP2D6 has not been specifically investigated.
 Limited data suggest that the plasma levels of duloxetine are higher in these patients.
-
 The elimination half-life of duloxetine ranges from 8 to 17 hours (mean of 12 hours).
 After an intravenous dose the plasma clearance of duloxetine ranges from 22 l/hr to 46 l/hr (mean of 36 l/hr).
 After an oral dose the apparent plasma clearance of duloxetine ranges from 33 to 261 l/hr (mean 101 l/hr).
@@ -24,6 +23,7 @@ After an oral dose the apparent plasma clearance of duloxetine ranges from 33 to
 Special populations:
 Gender: pharmacokinetic differences have been identified between males and females (apparent plasma clearance is approximatively 50% lower in females).
 Based upon the overlap in the range of clearance, gender-based pharmacokinetic differences do not justify the recommendation for using a lower dose for female patients.
+
 Age: pharmacokinetic differences have been identified between younger and elderly females (≥65 years) (AUC increases by about 25% and half-life is about 25% longer in the elderly), although the magnitude of these changes is not sufficient to justify adjustments to the dose.
 As a general recommendation, caution should be exercised when treating the elderly (see sections 4.2 and 4.4).
 

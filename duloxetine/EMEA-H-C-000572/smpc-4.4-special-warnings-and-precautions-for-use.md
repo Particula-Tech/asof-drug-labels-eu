@@ -2,6 +2,7 @@
 
 Mania and seizures
 CYMBALTA should be used with caution in patients with a history of mania or a diagnosis of bipolar disorder, and/or seizures.
+
 Mydriasis
 Mydriasis has been reported in association with duloxetine, therefore, caution should be used when prescribing CYMBALTA to patients with increased intraocular pressure, or those at risk of acute narrow-angle glaucoma.
 
@@ -11,7 +12,7 @@ This may be due to the noradrenergic effect of duloxetine.
 Cases of hypertensive crisis have been reported with duloxetine, especially in patients with pre-existing hypertension.
 Therefore,in patients with known hypertension and/or other cardiac disease, blood pressure monitoring is recommended, especially during the first month of treatment.
 Duloxetine should be used with caution in patients whose conditions could be compromised by an increased heart rate or by an increase in blood pressure.
-Caution should also be exercised when duloxetine is used with drugs that may impair its metabolism (see section 4.5).
+Caution should also be exercised when duloxetine is used with medicinal products that may impair its metabolism (see section 4.5).
 For patients who experience a sustained increase in blood pressure while receiving duloxetine either dose reduction or gradual discontinuation should be considered (see section 4.8).
 In patients with uncontrolled hypertension duloxetine should not be initiated (see section 4.3).
 
@@ -34,7 +35,7 @@ This risk persists until significant remission occurs.
 As improvement may not occur during the first few weeks or more of treatment, patients should be closely monitored until such improvement occurs.
 It is general clinical experience that the risk of suicide may increase in the early stages of recovery.
 Patients with a history of suicide-related events or those exhibiting a significant degree of suicidal thoughts prior to commencement of treatment are known to be at greater risk of suicidal thoughts or suicidal behaviour, and should receive careful monitoring during treatment.
-A meta-analysis of placebo-controlled clinical trials of antidepressant drugs in psychiatric disorders showed an increased risk of suicidal behaviour with antidepressants compared to placebo in patients less than 25 years old.
+A meta-analysis of placebo-controlled clinical trials of antidepressant medicinal products in psychiatric disorders showed an increased risk of suicidal behaviour with antidepressants compared to placebo in patients less than 25 years old.
 Cases of suicidal thoughts and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation (see section 4.8).
 Close supervision of patients and in particular those at high risk should accompany drug therapy especially in early treatment and following dose changes.
 Patients, (and caregivers of patients) should be alerted about the need to monitor for any clinical worsening, suicidal behaviour or thoughts and unusual changes in behaviour and to seek medical advice immediately if these symptoms present.
@@ -49,10 +50,6 @@ CYMBALTA should not be used in the treatment of children and adolescents under t
 Suicide-related behaviours (suicide attempts and suicidal thoughts), and hostility (predominantly aggression, oppositional behaviour and anger), were more frequently observed in clinical trials among children and adolescents treated with antidepressants compared to those treated with placebo.
 If, based on clinical need, a decision to treat is nevertheless taken, the patient should be carefully monitored for the appearance of suicidal symptoms.
 In addition, long-term safety data in children and adolescents concerning growth, maturation and cognitive and behavioural development are lacking.
-
-Sucrose
-CYMBALTA hard gastro-resistant capsules contain sucrose.
-Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.
 
 Haemorrhage
 There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/norepinephrine reuptake inhibitors (SNRIs).
@@ -81,11 +78,20 @@ Akathisia/psychomotor restlessness
 The use of duloxetine has been associated with the development of akathisia, characterised by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.
 This is most likely to occur within the first few weeks of treatment.
 In patients who develop these symptoms, increasing the dose may be detrimental.
+
 Medicinal products containing duloxetine
 Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive episodes as well as stress urinary incontinence).
 The use of more than one of these products concomitantly should be avoided.
+
 Hepatitis/increased liver enzymes
 Cases of liver injury, including severe elevations of liver enzymes (>10 times upper limit of normal), hepatitis and jaundice have been reported with duloxetine (see section 4.8).
 Most of them occurred during the first months of treatment.
 The pattern of liver damage was predominantly hepatocellular.
-Duloxetine should be used with caution in patients treated with other drugs associated with hepatic injury.
+Duloxetine should be used with caution in patients treated with other medicinal products associated with hepatic injury.
+Sucrose
+CYMBALTA hard gastro-resistant capsules contain sucrose.
+Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.
+
+[CYMBALTA 60 mg hard gastro-resistant capsules]
+
+Close supervision of patients and in particular those at high risk should accompany medicinal product therapy especially in early treatment and following dose changes.

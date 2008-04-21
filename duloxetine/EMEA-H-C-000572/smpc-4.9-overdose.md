@@ -1,9 +1,9 @@
 # 4.9 Overdose
 
-There is limited clinical experience with duloxetine overdose in humans.
-Cases of overdoses, alone or in combination with other drugs, with duloxetine doses of 4800mg were reported.
+Cases of overdoses, alone or in combination with other medicinal products, with duloxetine doses of 4800mg were reported.
 Some fatalities have occurred, primarily with mixed overdoses, but also with duloxetine alone at a dose of approximately 1000 mg.
-Signs and symptoms of overdose (mostly with mixed drugs) included serotonin syndrome, somnolence, vomiting and seizures.
+Signs and symptoms of overdose (duloxetine alone or with mixed medicinal products) included somnolence, coma, serotonin syndrome, seizures, , vomiting andtachycardia.
+
 No specific antidote is known for duloxetine but if serotonin syndrome ensues, specific treatment (such as with cyproheptadine and/or temperature control) may be considered.
 A free airway should be established.
 Monitoring of cardiac and vital signs is recommended, along with appropriate symptomatic and supportive measures.
