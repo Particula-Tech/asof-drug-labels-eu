@@ -81,7 +81,7 @@ Injury, poisoning and procedural complications
 Uncommon: catheter related complications, post procedural pain, post procedural haemorrhage, burns.
 Post Marketing Experience
 
-Clinically significant adverse reactions are listed if they have been reported during post approval use of VELCADE and have not been reported in clinical trials.
+Clinically significant adverse reactions are listed if they have been reported during post approval use of VELCADE and may or may not have been reported in clinical trials.
 Their frequency is not known.
 
 Infections and infestations
@@ -102,11 +102,11 @@ Ophthalmic herpes
 
 Cardiac disorders
 
-Cardiac tamponade
+Cardiac tamponade, pericarditis, cardiac and cardiopulmonary arrest, ventricular arrhythmias, atrioventricular block complete, atrial fibrillation, tachycardia, sinus and ventricular tachycardia
 
 Respiratory, thoracic and mediastinal disorders (see section 4.4)
 
-Pneumonitis, interstitial pneumonia, Acute Respiratory Distress Syndrome (ARDS)
+Pneumonitis, pneumonia, interstitial pneumonia, Acute Respiratory Distress Syndrome (ARDS), acute diffuse infiltrative pulmonary disease, pulmonary hypertension, respiratory failure, pulmonary alveolar haemorrhage, acute pulmonary oedema, pulmonary oedema, pulmonary embolism, peripheral embolism
 
 Gastrointestinal disorders
 

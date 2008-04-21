@@ -12,9 +12,9 @@ The most common haematologic toxicity is transient thrombocytopenia.
 Platelets were lowest at Day 11 of each cycle of VELCADE treatment.
 There was no evidence of cumulative thrombocytopenia, including in the phase II extension study.
 The mean platelet count nadir measured was approximately 40% of baseline.
-In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts <75,000/µl, 90% of 21 patients had a count ≤25,000/µl during the study, including 14% <10,000/µl; in contrast, with a baseline platelet count >75,000/µl, only 14% of 309 patients had a count ≤25×109/l during the study.
+In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts <75,000/μl, 90% of 21 patients had a count ≤25,000/μl during the study, including 14% <10,000/μl; in contrast, with a baseline platelet count >75,000/μl, only 14% of 309 patients had a count ≤25×109/l during the study.
 Platelet counts should be monitored prior to each dose of VELCADE.
-Therapy should be held when the platelet count is <25,000/µl and re-initiated at a reduced dose after resolution (see section 4.2).
+Therapy should be held when the platelet count is <25,000/μl and re-initiated at a reduced dose after resolution (see section 4.2).
 Potential benefit of the treatment should be carefully weighed against the risks, particularly in case of moderate to severe thrombocytopenia and risk factors for bleeding.
 
 Therefore, complete blood counts (CBC) including platelet counts should be frequently monitored throughout treatment with VELCADE.
@@ -37,7 +37,6 @@ Seizures
 
 Seizures have been uncommonly reported in patients without previous history of seizures or epilepsy.
 Special care is required when treating patients with any risk factors for seizures.
-
 Hypotension
 
 VELCADE treatment is commonly associated with orthostatic/postural hypotension.
@@ -67,8 +66,10 @@ Pulmonary Disorders
 
 There have been rare reports of acute diffuse infiltrative pulmonary disease of unknown aetiology such as pneumonitis, interstitial pneumonia, lung infiltration, and Acute Respiratory Distress Syndrome (ARDS) in patients receiving VELCADE (see section 4.8).
 Some of these events have been fatal.
-A higher proportion of these events has been reported in Japan.
+A pretreatment chest radiograph is recommended to determine if any additional diagnostic measures are necessary and to serve as a baseline for potential post-treatment pulmonary changes.
+
 In the event of new or worsening pulmonary symptoms (e.g. cough, dyspnoea), a prompt diagnostic evaluation should be performed and patients treated appropriately.
+The benefit/risk ratio should be considered prior to continuing VELCADE therapy.
 
 In a clinical trial, two patients given high-dose cytarabine (2 g/m2 per day) by continuous infusion over 24 hours with daunorubicin and VELCADE for relapsed acute myelogenous leukemia died of ARDS early in the course of therapy.
 Therefore, this specific regimen with concomitant administration with high-dose cytarabine (2g/m2 per day) by continuous infusion over 24 hours is not recommended.
@@ -78,7 +79,6 @@ Renal Impairment
 The incidence of serious undesirable effects has been shown to increase in patients with mild to moderate renal impairment compared to patients with normal renal function (see section 4.8).
 Renal complications are frequent in patients with multiple myeloma.
 Such patients should be monitored closely and dose reduction considered.
-
 Hepatic Impairment
 
 Patients with hepatic impairment should be treated with extreme caution and a dose reduction should be considered (see sections 4.2 and 4.3).
