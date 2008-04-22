@@ -21,15 +21,21 @@ In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy s
 A mass balance study showed that approximately 57 % of radiolabelled olanzapine appeared in urine, principally as metabolites.
 
 In smoking subjects with mild hepatic dysfunction, mean elimination half-life (39.3 hr) was prolonged and clearance (18.0 l/hr) was reduced analogous to non-smoking healthy subjects (48.8 hr and 14.1 l/hr, respectively).
+
 In non-smoking versus smoking subjects (males and females) the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
 
 The plasma clearance of olanzapine is lower in elderly versus young subjects, in females versus males, and in non-smokers versus smokers.
 However, the magnitude of the impact of age, gender, or smoking on olanzapine clearance and half-life is small in comparison to the overall variability between individuals.
 
 In a study of Caucasians, Japanese, and Chinese subjects, there were no differences in the pharmacokinetic parameters among the three populations.
-
 The plasma protein binding of olanzapine was about 93 % over the concentration range of about 7 to about 1000 ng/ml.
 Olanzapine is bound predominantly to albumin and α1-acid-glycoprotein.
+
+Paediatric population
+Adolescents (ages 13 to 17 years): The pharmacokinetics of olanzapine are similar between adolescents and adults.
+In clinical studies, the average olanzapine exposure was approximately 27% higher in adolescents.
+Demographic differences between the adolescents and adults include a lower average body weight and fewer adolescents were smokers.
+Such factors possibly contribute to the higher average exposure observed in adolescents.
 
 [ZYPREXA 5 mg coated tablets]
 
@@ -53,7 +59,7 @@ The plasma protein binding of olanzapine was about 93 % over the concentration r
 
 [ZYPREXA 10 mg powder for solution for injection]
 
-In a pharmacokinetic study in healthy volunteers, a dose of 5mg of ZYPREXA Powder for Solution for Injection produced a maximum plasma concentration (Cmax) approximately 5 times higher than that seen with the same dose of olanzapine administered orally.
+In a pharmacokinetic study in healthy volunteers, a dose of 5 mg of ZYPREXA powder for solution for injection produced a maximum plasma concentration (Cmax) approximately 5 times higher than that seen with the same dose of olanzapine administered orally.
 The Cmax occurs earlier after intramuscular compared to oral use (15 to 45 minutes versus 5 to 8 hours).
 As with oral use, Cmax and area under the curve after intramuscular use are directly proportional to the dose administered.
 For the same dose of olanzapine administered intramuscularly and orally, the associated area under the curve, half-life, clearance and volume of distribution are similar.
@@ -68,7 +74,6 @@ Olanzapine is metabolised in the liver by conjugative and oxidative pathways.
 In healthy elderly (65 and over) versus non-elderly subjects administered oral olanzapine, the mean elimination half-life was prolonged (51.8 versus 33.8 hr) and the clearance was reduced (17.5 versus 18.2 l/hr).
 
 In female versus male subjects administered oral olanzapine the mean elimination half life was somewhat prolonged (36.7 versus 32.3 hrs) and the clearance was reduced (18.9 versus 27.3 l/hr).
-
 In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy subjects administered oral olanzapine, there was no significant difference in mean elimination half-life (37.7 versus 32.4 hr) or clearance (21.2 versus 25.0 l/hr).
 
 In smoking subjects with mild hepatic dysfunction administered olanzapine orally, mean elimination half-life (39.3 hr) was prolonged and clearance (18.0 l/hr) was reduced analogous to non-smoking healthy subjects (48.8 hr and 14.1 l/hr, respectively).

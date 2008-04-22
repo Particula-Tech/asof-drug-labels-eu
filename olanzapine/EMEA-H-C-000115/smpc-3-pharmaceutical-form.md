@@ -26,5 +26,5 @@ Pink, elliptical, coated tablets debossed with “LILLY” and a numeric identic
 
 [ZYPREXA 10 mg powder for solution for injection]
 
-Powder for solution for injection:
-Yellow lyophilised powder in a clear glass vial.
+Powder for solution for injection
+Yellow lyophilised powder.

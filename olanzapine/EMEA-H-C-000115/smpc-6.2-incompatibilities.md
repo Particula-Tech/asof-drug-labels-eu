@@ -24,10 +24,7 @@ Not applicable.
 
 [ZYPREXA 10 mg powder for solution for injection]
 
-Reconstitute ZYPREXA Powder for Solution for Injection only with water for injections (See section 6.6).
-
-ZYPREXA Powder for Solution for Injection must not be combined in the syringe with any commercially available medicinal product.
-See examples of incompatibilities below:
+This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.
 
 Olanzapine for injection should not be combined in a syringe with diazepam injection because precipitation occurs when these products are mixed.
 

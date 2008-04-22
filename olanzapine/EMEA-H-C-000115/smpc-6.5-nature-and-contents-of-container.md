@@ -26,5 +26,5 @@ Cold-formed aluminium blister strips in cartons of 7, 28, 35, 56 or 70 tablets p
 
 [ZYPREXA 10 mg powder for solution for injection]
 
-Type I glass vial.
+Type I, 5 ml glass vial.
 One carton contains 1 or 10 vial(s).

@@ -24,5 +24,6 @@
 
 [ZYPREXA 10 mg powder for solution for injection]
 
-Vial: 3 years.
+Powder: 3 years.
 Solution (after reconstitution): 1 hour.
+Do not freeze.

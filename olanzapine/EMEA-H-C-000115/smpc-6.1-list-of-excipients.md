@@ -37,5 +37,4 @@ Colour mixture pink (titanium dioxide E171, macrogol, lactose monohydrate, hypro
 
 - Tartaric acid, E334
 - Hydrochloric acid.
-  This may have been added to adjust pH.
 - Sodium hydroxide.

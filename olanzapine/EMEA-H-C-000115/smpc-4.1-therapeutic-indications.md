@@ -1,5 +1,6 @@
 # 4.1 Therapeutic indications
 
+Adults
 Olanzapine is indicated for the treatment of schizophrenia.
 
 Olanzapine is effective in maintaining the clinical improvement during continuation therapy in patients who have shown an initial treatment response.
@@ -30,5 +31,5 @@ In patients whose manic episode has responded to olanzapine treatment, olanzapin
 
 [ZYPREXA 10 mg powder for solution for injection]
 
-ZYPREXA Powder for Solution for Injection is indicated for the rapid control of agitation and disturbed behaviours in patients with schizophrenia or manic episode, when oral therapy is not appropriate.
-Treatment with ZYPREXA Powder for Solution for Injection should be discontinued and the use of oral olanzapine should be initiated as soon as clinically appropriate.
+ZYPREXA powder for solution for injection is indicated for the rapid control of agitation and disturbed behaviours in patients with schizophrenia or manic episode, when oral therapy is not appropriate.
+Treatment with ZYPREXA powder for solution for injection should be discontinued and the use of oral olanzapine should be initiated as soon as clinically appropriate.

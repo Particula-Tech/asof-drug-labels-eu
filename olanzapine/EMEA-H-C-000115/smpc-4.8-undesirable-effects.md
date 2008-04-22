@@ -1,114 +1,126 @@
 # 4.8 Undesirable effects
 
-Very common (>10%) undesirable effects associated with the use of olanzapine in clinical trials were somnolence and weight gain.
+Adults
+The most frequently (seen in ≥ 1% of patients ) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic transaminases (see section 4.4), rash, asthenia, fatigue and oedema.
 
-In clinical trials in elderly patients with dementia, olanzapine treatment was associated with a higher incidence of death and cebrebrovascular adverse events compared to placebo (see also section 4.4).
-Very common (>10%) undesirable effects associated with the use of olanzapine in this patient group were abnormal gait and falls.Pneumonia , increased body temperature, lethargy, erythema, visual hallucinations and urinary incontinence were observed commonly (1-10%).
+The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials.
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The frequency terms listed are defined as follows: Very common (≥10%), common (≥ 1% and < 10%), uncommon (≥ 0.1% and < 1%), rare (≥ 0.01% and
+< 0.1%), very rare (< 0.01%), not known (cannot be estimated from the data available).
 
-In clinical trials in patients with drug-induced (dopamine agonist) psychosis associated with Parkinson’s disease, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo.
-
-In one clinical trial in patients with bipolar mania, valproate combination therapy with olanzapine resulted in an incidence of neutropenia of 4.1%; a potential contributing factor could be high plasma valproate levels.
-Olanzapine administered with lithium or valproate resulted in increased levels (>10%) of tremor, dry mouth, increased appetite, and weight gain.
-Speech disorder was also reported commonly (1% to 10%).
-During treatment with olanzapine in combination with lithium or divalproex, an increase of >7% from baseline body weight occurred in 17.4% of patients during acute treatment (up to 6 weeks).
-Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥7% from baseline body weight in 39.9% of patients.
-
-The following table of undesirable effects is based on adverse event reporting and laboratory investigations from clinical trials.
-
-Blood and lymphatic system disorders
-Common (1-10%): Eosinophilia.
-Metabolism and nutrition disorders
-Very common (>10%): Weight gain1.
-Common (1-10%): Increased appetite.
-Elevated glucose levels (see note 2 below).
-Elevated triglyceride levels3,4.
-Elevated cholesterol levels3,5 Glycosuria.
-Nervous system disorders
-Very common (>10%): Somnolence.
-Common (1-10%): Dizziness, akathisia, parkinsonism, dyskinesia.
-(See also note 6 below).
-Cardiac disorders
-Uncommon (0.1-1%): Bradycardia with or without hypotension or syncope, QT prolongation (see also section 4.4 Special warnings and precautions for use).
-Vascular Disorders
-Common (1-10%): Orthostatic hypotension.
-Gastrointestinal disorders
-Common (1-10%): Mild, transient anticholinergic effects including constipation and dry mouth.
-Hepato-biliary disorders
-Common (1-10%): Transient, asymptomatic elevations of hepatic transaminases (ALT, AST), especially in early treatment (see also section 4.4).
-Skin and subcutaneous tissue disorders
-Uncommon (0.1-1%): Photosensitivity reaction.
-General disorders and administration site conditions
-Common (1-10%): Asthenia, fatigue, oedema.
-Investigations
-Very common (>10%): Elevated plasma prolactin levels, but associated clinical manifestations (e.g., gynaecomastia, galactorrhoea, and breast enlargement) were rare.
-In most patients, levels returned to normal ranges without cessation of treatment.
-Uncommon (0.1-1%): High creatine phosphokinase.
+| Very common | Common | Uncommon | Not known |
+| --- | --- | --- | --- |
+| Blood and the lymphatic system disorders |  |  |  |
+|  | Eosinophilia | Leukopenia Neutropenia | Thrombocytopenia |
+| Immune system disorders |  |  |  |
+|  |  |  | Allergic reaction |
+| Metabolism and nutrition disorders |  |  |  |
+| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 Elevated triglyceride levels2,5 Glucosuria Increased appetite |  | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) Hypothermia |
+| Nervous system disorders |  |  |  |
+| Somnolence | Dizziness Akathisia6 Parkinsonism6 Dyskinesia6 |  | Seizures where in most cases a history of seizures or risk factors for seizures were reported Neuroleptic malignant syndrome (see section 4.4) |
+|  |  |  | Dystonia (including oculogyration) Tardive dyskinesia Discontinuation symptoms7 |
+| Cardiac disorders |  |  |  |
+|  |  | Bradycardia QTc prolongation (see section 4.4) | Ventricular tachycardia/fibrillation, sudden death (see section 4.4) |
+| Vascular disorders |  |  |  |
+|  | Orthostatic hypotension |  | Thromboembolism (including pulmonary embolism and deep vein thrombosis) |
+| Gastrointestinal disorders |  |  |  |
+|  | Mild, transient anticholinergic effects including constipation and dry mouth |  | Pancreatitis |
+| Hepato-biliary disorders |  |  |  |
+|  | Transient, asymptomatic elevations of hepatic transaminases (ALT, AST), especially in early treatment (see section 4.4) |  | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) |
+| Skin and subcutaneous tissue disorders |  |  |  |
+|  | Rash | Photosensitivity reaction Alopecia |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |
+|  |  |  | Rhabdomyolysis |
+| Renal and urinary disorders |  |  |  |
+|  |  |  | Urinary hesitation |
+| Reproductive system and breast disorders |  |  |  |
+|  |  |  | Priapism |
+| General disorders and administration site conditions |  |  |  |
+|  | Asthenia Fatigue Oedema |  |  |
+| Investigations |  |  |  |
+| Elevated plasma prolactin levels8 |  | High creatine phosphokinase Increased total bilirubin | Increased alkaine phosphatase |
 
 1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories.
 Weight gain ≥ 7% of baseline body weight was very common and ≥ 15% of baseline body weight was common.
 
-2 Observed for fasting normal levels at baseline (< 5.56 mmol/l) which increased to high (≥ 7 mmol/l).
+2 Mean increases in fasting lipid values (total cholesterol, LDL cholesterol, and triglycerides) were greater in patients without evidence of lipid dysregulation at baseline.
+3 Observed for fasting normal levels at baseline (< 5.17 mmol/l) which increased to high
+(≥ 6.2 mmol/l).
+Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17 - < 6.2 mmol) to high (≥ 6.2 mmol) were very common.
+
+4 Observed for fasting normal levels at baseline (< 5.56 mmol/l) which increased to high (≥ 7 mmol/l).
 Changes in fasting glucose from borderline at baseline (≥ 5.56 - < 7 mmol/l) to high (≥ 7 mmol/l) were very common.
 
-3 Mean increases in fasting lipid values (total cholesterol, LDL cholesterol, and triglycerides) were greater in patients without evidence of lipid dysregulation at baseline.
-
-4 Observed for fasting normal levels at baseline (< 1.69 mmol/l) which increased to high
+5 Observed for fasting normal levels at baseline (< 1.69 mmol/l) which increased to high
 (≥ 2.26 mmol/l).
 Changes in fasting triglycerides from borderline at baseline (≥ 1.69 mmol/l -
 < 2.26 mmol/l) to high (≥ 2.26 mmol/l) were very common.
 
-5 Observed for fasting normal levels at baseline (< 5.17 mmol/l) which increased to high
-(≥ 6.2 mmol/l).
-Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17- < 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
 6 In clinical trials, the incidence of parkinsonism and dystonia in olanzapine-treated patients was numerically higher, but not statistically significantly different from placebo.
 Olanzapine-treated patients had a lower incidence of parkinsonism, akathisia and dystonia compared with titrated doses of haloperidol.
 In the absence of detailed information on the pre-existing history of individual acute and tardive extrapyramidal movement disorders, it can not be concluded at present that olanzapine produces less tardive dyskinesia and/or other tardive extrapyramidal syndromes.
 
-The following table of undesirable effects is based on post-marketing spontaneous reports.
+7 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea and vomiting have been reported when olanzapine is stopped abruptly.
 
-Blood and lymphatic system disorders
-Rare (0.01-0.1%): Leukopenia.
-Very rare (<0.01%):Thrombocytopenia.
-Neutropenia.
-Immune System Disorders
-Very rare (<0.01%): Allergic reaction (e.g. anaphylactoid reaction, angioedema, pruritis or urticaria.)
+8 Associated clinical manifestations (e.g., gynaecomastia, galactorrhoea, and breast enlargement) were rare.
+In most patients, levels returned to normal ranges without cessation of treatment.
+
+Additional information on special populations
+In clinical trials in elderly patients with dementia, olanzapine treatment was associated with a higher incidence of death and cerebrovascular adverse reactions compared to placebo (see also section 4.4).
+Very common adverse reactions associated with the use of olanzapine in this patient group were abnormal gait and falls.
+Pneumonia, increased body temperature, lethargy, erythema, visual hallucinations and urinary incontinence were observed commonly.
+
+In clinical trials in patients with drug-induced (dopamine agonist) psychosis associated with Parkinson’s disease, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo.
+
+In one clinical trial in patients with bipolar mania, valproate combination therapy with olanzapine resulted in an incidence of neutropenia of 4.1%; a potential contributing factor could be high plasma valproate levels.
+Olanzapine administered with lithium or valproate resulted in increased levels
+(≥10%) of tremor, dry mouth, increased appetite, and weight gain.
+Speech disorder was also reported commonly.
+During treatment with olanzapine in combination with lithium or divalproex, an increase of ≥ 7% from baseline body weight occurred in 17.4% of patients during acute treatment (up to 6 weeks).
+Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥7% from baseline body weight in 39.9% of patients.
+
+Children and adolescents
+Olanzapine is not indicated for the treatment of children and adolescent patients below 18 years.
+Although no clinical studies designed to compare adolescents to adults have been conducted, data from the adolescent trials were compared to those of the adult trials.
+
+The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during clinical trials in adolescent patients.
+Clinically significant weight gain (≥ 7%) appears to occur more frequently in the adolescent population.
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+The frequency terms listed are defined as follows: Very common (≥ 10%), common (≥ 1% and
+< 10%).
+
 Metabolism and nutrition disorders
-Rare (0.01-0.1%): Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been spontaneously reported rarely, including some fatal cases (see section 4.4).
-Very rare (<0.01%): Hypertriglyceridaemia, hypercholesterolaemia and hypothermia.
+Very common: Weight gain9, elevated triglyceride levels10, increased appetite.
+Common: Elevated cholesterol levels11
 Nervous system disorders
-Rare (0.01-0.1%): Seizures have been reported to occur rarely in patients treated with olanzapine.
-In most of these cases, a history of seizures or risk factors for seizures were reported.
-Very rare (<0.01%): Cases reported as Neuroleptic Malignant Syndrome (NMS) have been received in association with olanzapine.
-(See also section 4.4).
-Parkinsonism, dystonia (including oculogyration) and tardive dyskinesia have been reported very rarely with olanzapine.
-Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely when olanzapine is stopped abruptly.
-Cardiac disorders
-Very rare(<0.01%): QTc prolongation, ventricular tachycardia/fibrillation and sudden death.
-(See also section 4.4 Special warnings and precautions for use).
-Vascular disorders
-Very rare(<0.01%): Thromboembolism (including pulmonary embolism and deep vein thrombosis).
+Very common: Sedation (including: hypersomnia, lethargy, somnolence).
 Gastrointestinal disorders
-Very rare (<0.01%): Pancreatitis.
+Common: Dry mouth
 Hepato-biliary disorders
-Rare (0.01-0.1%): Hepatitis (including hepatocellular, cholestatic or mixed liver injury)
-Musculoskeletal and connective tissue and bone disorders
-Very rare(<0.01%): Rhabdomyolysis
-Skin and subcutaneous tissue disorders
-Rare (0.01-0.1%): Rash.
-Very rare (<0.01%): Alopecia.
-Renal and Urinary Disorders
-Very rare (<0.01%): Urinary Hesitation
-Reproductive system and breast disorders
-Very rare (<0.01%): Priapism.
+Very common: Elevations of hepatic transaminases (ALT/AST; see section 4.4).
 Investigations
-Increased transaminases.
-Very rare (<0.01%): Increased alkaline phosphatase.
-Increased total bilirubin.
+Very common: Decreased total bilirubin, increased GGT, elevated plasma prolactin levels12.
+
+9 Weight gain ≥ 7% of baseline body weight (kg) was very common and ≥ 15% of baseline body weight was common.
+
+10 Observed for fasting normal levels at baseline (< 1.016 mmol/l) which increased to high
+(≥ 1.467 mmol/l) and changes in fasting triglycerides from borderline at baseline (≥ 1.016 mmol/l -
+< 1.467 mmol/l) to high (≥ 1.467 mmol/l).
+
+11 Changes in total fasting cholesterol levels from normal at baseline (< 4.39 mmol/l) to high
+(≥ 5.17 mmol/l) were observed commonly.
+Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.39 - < 5.17 mmol/l) to high (≥ 5.17 mmol/l) were very common.
+
+12 Elevated plasma prolactin levels were reported in 47.4% of adolescent patients.
 
 [ZYPREXA 5 mg coated tablets]
 
-Elevated cholesterol levels3,5.
-Glycosuria.
+The most frequently (seen in ≥ 1% of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic transaminases (see section 4.4), rash, asthenia, fatigue and oedema.
+
+Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17- < 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
+
+(≥ 10%) of tremor, dry mouth, increased appetite, and weight gain.
+Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥ 7% from baseline body weight in 39.9% of patients.
 
 [ZYPREXA 7.5 mg coated tablets]
 
@@ -120,7 +132,7 @@ Glycosuria.
 
 [ZYPREXA 15 mg coated tablets]
 
-Very common (>10%) undesirable effects associated with the use of olanzapine in this patient group were abnormal gait and falls.Pneumonia, increased body temperature, lethargy, erythema, visual hallucinations and urinary incontinence were observed commonly (1-10%).
+(all sentences already above)
 
 [ZYPREXA 20 mg coated tablets]
 
@@ -130,21 +142,51 @@ Very common (>10%) undesirable effects associated with the use of olanzapine in 
 
 A common (1-10%) undesirable effect associated with the use of intramuscular olanzapine in clinical trials was somnolence.
 
-In post marketing reports, temporal association of treatment with IM olanzapine with cases of respiratory depression, hypotension or bradycardia and death have been very rarely reported, mostly in patients who concomitantly received benzodiazepines, and/or other antipsychotic medicinal products or who were treated in excess of olanzapine recommended daily doses (see section 4.4 Special precautions and warnings for use and section 4.5 Interaction with other medicinal products and other forms of interaction).
+In post marketing reports, temporal association of treatment with IM olanzapine with cases of respiratory depression, hypotension or bradycardia and death have been very rarely reported, mostly in patients who concomitantly received benzodiazepines, and/or other antipsychotic medicinal products or who were treated in excess of olanzapine recommended daily doses (see sections 4.4 and 4.5).
+The following table is based on the undesirable effects and laboratory investigations from clinical trials with ZYPREXA powder for solution for injection rather than oral olanzapine.
 
-The following table is based on the undesirable effects and laboratory investigations from clinical trials with ZYPREXA Powder for Solution for Injection rather than oral olanzapine.
-
+Cardiac disorders
 Common (1-10%): Bradycardia with or without hypotension or syncope, tachycardia.
 Uncommon (0.1-1%): Sinus pause.
+Vascular Disorders
 Common (1-10%): Postural hypotension, hypotension.
 Respiratory disorders
 Uncommon (0.1-1%): Hypoventilation.
+General disorders and administration site conditions
 Common (1-10%): Injection site discomfort.
 
-The undesirable effects listed below have been observed following administration of oral olanzapine, but may also occur following administration of ZYPREXA Powder for Solution for Injection.
+The undesirable effects listed below have been observed following administration of oral olanzapine, but may also occur following administration of ZYPREXA powder for solution for injection.
 
-Very common (>10%) undesirable effects associated with the use of oral olanzapine in clinical trials were somnolence and weight gain.
+The frequency terms listed are defined as follows: Very common (≥ 10%), common (≥ 1% and < 10%), uncommon (≥ 0.1% and < 1%), rare (≥ 0.01% and
 
-The following table of undesirable effects is based on adverse event reporting and laboratory investigations from clinical trials with oral olanzapine.
-
-The following table of undesirable effects is based on post-marketing spontaneous reports with oral olanzapine.
+| Very common | Common | Uncommon | Not known |
+| --- | --- | --- | --- |
+| Blood and the lymphatic system disorders |  |  |  |
+|  | Eosinophilia | Leukopenia Neutropenia | Thrombocytopenia |
+| Immune system disorders |  |  |  |
+|  |  |  | Allergic reaction |
+| Metabolism and nutrition disorders |  |  |  |
+| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 Elevated triglyceride levels2,5 Glucosuria Increased appetite |  | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) Hypothermia |
+| Nervous system disorders |  |  |  |
+| Somnolence | Dizziness Akathisia6 Parkinsonism6 Dyskinesia6 |  | Seizures where in most cases a history of seizures or risk factors for seizures were reported Neuroleptic malignant syndrome (see section 4.4) Dystonia (including oculogyration) |
+|  |  |  | Tardive dyskinesia Discontinuation symptoms7 |
+| Cardiac disorders |  |  |  |
+|  |  | Bradycardia QTc prolongation (see section 4.4) | Ventricular tachycardia/fibrillation, sudden death (see section 4.4) |
+| Vascular disorders |  |  |  |
+|  | Orthostatic hypotension |  | Thromboembolism (including pulmonary embolism and deep vein thrombosis) |
+| Gastrointestinal disorders |  |  |  |
+|  | Mild, transient anticholinergic effects including constipation and dry mouth |  | Pancreatitis |
+| Hepato-biliary disorders |  |  |  |
+|  | Transient, asymptomatic elevations of hepatic transaminases (ALT, AST), especially in early treatment (see section 4.4) |  | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) |
+| Skin and subcutaneous tissue disorders |  |  |  |
+|  | Rash | Photosensitivity reaction Alopecia |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |
+|  |  |  | Rhabdomyolysis |
+| Renal and urinary disorders |  |  |  |
+|  |  |  | Urinary hesitation |
+| Reproductive system and breast disorders |  |  |  |
+|  |  |  | Priapism |
+| General disorders and administration site conditions |  |  |  |
+|  | Asthenia Fatigue Oedema |  |  |
+| Investigations |  |  |  |
+| Elevated plasma prolactin levels8 |  | High creatine phosphokinase Increased total bilirubin | Increased alkaine phosphatase |
