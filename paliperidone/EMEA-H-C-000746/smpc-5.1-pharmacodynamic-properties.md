@@ -3,7 +3,6 @@
 Pharmacologic group: other antipsychotics ATC code: N05AX13
 
 INVEGA contains a racemic mixture of (+)- and (-)-paliperidone.
-
 Mechanism of Action
 Paliperidone is a selective blocking agent of monoamine effects, whose pharmacological properties are different from that of traditional neuroleptics.
 Paliperidone binds strongly to serotonergic 5-HT2- and dopaminergic D2-receptors.
@@ -23,6 +22,7 @@ The primary efficacy endpoint was decrease in total Positive and Negative Syndro
 All tested doses of INVEGA separated from placebo on day 4 (p<0.05).
 Predefined secondary endpoints included the Personal and Social Performance (PSP) scale and the Clinical Global Impression – Severity (CGI-S) scale.
 In all three studies, INVEGA was superior to placebo on PSP and CGI-S.
+
 Positive and Negative Syndrome Scale for Schizophrenia (PANSS) Total Score - Change From Baseline to End Point- LOCF for Studies R076477-SCH-303, R076477-SCH-304, and R076477-SCH-305: Intent-to-Treat Analysis Set
 
 Note: Negative change in score indicates improvement.

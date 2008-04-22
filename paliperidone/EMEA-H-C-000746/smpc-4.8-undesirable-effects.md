@@ -3,6 +3,7 @@
 The most frequently reported adverse drug reactions (ADRs) reported in clinical trials were headache, tachycardia, akathisia, sinus tachycardia, extrapyramidal disorder, somnolence, dizziness, sedation, tremor, hypertonia, dystonia, orthostatic hypotension, and dry mouth.
 
 The ADRs that appeared to be dose-related included weight increased, headache, salivary hypersecretion, vomiting, dyskinesia, akathisia, dystonia, extrapyramidal disorder, hypertonia, and Parkinsonism.
+
 The following are all ADRs that were reported in INVEGA-treated subjects in clinical trials.
 The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to
 < 1/10), uncommon (≥ 1/1000 to < 1/100), rare (≥ 1/10,000 to < 1/1000), and very rare (< 1/10,000).
@@ -81,10 +82,16 @@ breast disorders Menstrual disorder, Priapism, Retrograde ejaculation, Sexual
 
 dysfunction, Vaginal discharge
 
-| General disorders | Adverse drug reaction, Chest discomfort, Chest pain, Chills, Discomfort, Drug withdrawal syndrome, Face oedema, Feeling abnormal, Gait disturbance, Generalized oedema, Influenza like illness, Malaise, Oedema peripheral, Peripheral coldness, Pitting oedema, Pyrexia, Sluggishness, Thirst |
-| --- | --- |
-| Investigations | Alanine aminotransferase increased, Aspartate aminotransferase increased, Blood creatine phosphokinase increased, Blood glucose increased, Blood pressure decreased, Blood prolactin increased, Body temperature decreased, Body temperature increased, Electrocardiogram QT prolonged, Eosinophil count increased, Haematocrit decreased, Haemoglobin decreased, Heart rate increased, Transaminases increased, White blood cell count decreased |
+General disorders Adverse drug reaction, Chest discomfort, Chest pain, Chills,
 
+Discomfort, Drug withdrawal syndrome, Face oedema, Feeling abnormal, Gait disturbance, Generalized oedema, Influenza like illness, Malaise, Oedema peripheral, Peripheral coldness, Pitting oedema, Pyrexia, Sluggishness, Thirst
+
+Investigations Alanine aminotransferase increased, Aspartate aminotransferase
+
+increased, Blood creatine phosphokinase increased, Blood glucose increased, Blood pressure decreased, Blood prolactin increased,
+Body temperature decreased, Body temperature increased,
+Electrocardiogram QT prolonged, Eosinophil count increased,
+Haematocrit decreased, Haemoglobin decreased, Heart rate increased, Transaminases increased, White blood cell count decreased
 Elderly
 In a study conducted in elderly subjects with schizophrenia, the safety profile was similar to that seen in non-elderly subjects.
 INVEGA has not been studied in elderly patients with dementia.
@@ -106,64 +113,3 @@ Maximum mean increases of serum prolactin concentrations were generally observed
 
 Class effects
 QT prolongation, ventricular arrythmias (ventricular fibrillation, ventricular tachycardia), sudden unexplained death, cardiac arrest and Torsade de pointes may occur with antipsychotics.
-
-[INVEGA 6 mg prolonged-release tablets]
-
-| System Organ Class | Adverse Drug Reaction |  |  |
-| --- | --- | --- | --- |
-|  | Frequency |  |  |
-|  | Very common | Common | Uncommon |
-| Immune system disorders |  |  | Anaphylactic reaction |
-| Metabolism and nutrition disorders |  |  | Increased appetite |
-| Psychiatric disorders |  |  | Nightmare |
-| Nervous system disorders | Headache | Akathisia, Dizziness, Dystonia, Extrapyramidal disorder, Hypertonia, Parkinsonism, Sedation, Somnolence, Tremor | Dizziness postural, Dyskinesia, Grand mal convulsion, Syncope |
-| Eye disorders |  |  | Oculogyration |
-| Cardiac disorders |  | Atrioventricular block first degree, Bradycardia, Bundle branch block, Sinus tachycardia, Tachycardia | Palpitations, Sinus arrhythmia |
-| Vascular disorders |  | Orthostatic hypotension | Hypotension, Ischaemia |
-| Gastrointestinal disorders |  | Abdominal pain upper, Dry mouth, Salivary hypersecretion, Vomiting |  |
-| Musculoskeletal, connective tissue and bone disorders |  |  | Muscle rigidity |
-|  | Frequency |  |  |
-|  | Very common | Common | Uncommon |
-| Reproductive system and breast disorders |  |  | Amenorrhoea, Breast discharge, Erectile dysfunction, Galactorrhoea, Gynaecomastia, Menstruation irregular |
-| General disorders |  | Asthenia, Fatigue | Oedema |
-| Investigations |  | Weight increased | Electrocardiogram abnormal |
-
-Endocrine disorders Hyperprolactaemia, Inappropriate antidiuretic hormone secretion Metabolism and nutrition Anorexia, Decreased appetite, Diabetic ketoacidosis, Polydipsia disorders
-Psychiatric disorders Agitation, Anorgasmia, Anxiety, Blunted affect, Confusional state, Insomnia, Libido decreased, Listless, Mania, Middle insomnia, Nervousness, Restlessness, Sleep disorder
-Nervous system disorders Akinesia, Balance disorder, Bradykinesia, Cerebral ischaemia, Cerebrovascular accident, Cerebrovascular disorder, Cogwheel rigidity, Convulsion, Coordination abnormal, Depressed level of consciousness, Diabetic coma, Disturbance in attention, Drooling, Dysarthria, Hypersomnia, Hypoaesthesia, Hypokinesia, Lethargy,
-
-Gastrointestinal disorders Abdominal discomfort, Abdominal pain, Aptyalism, Cheilitis, Constipation, Diarrhoea, Dyspepsia, Dysphagia, Faecal incontinence, Faecaloma, Gastritis, Intestinal obstruction, Lip swelling, Nausea, Stomach discomfort
-
-General disorders Adverse drug reaction, Chest discomfort, Chest pain, Chills,
-
-Discomfort, Drug withdrawal syndrome, Face oedema, Feeling abnormal, Gait disturbance, Generalized oedema, Influenza like illness, Malaise, Oedema peripheral, Peripheral coldness, Pitting oedema, Pyrexia, Sluggishness, Thirst
-
-Investigations Alanine aminotransferase increased, Aspartate aminotransferase
-
-increased, Blood creatine phosphokinase increased, Blood glucose increased, Blood pressure decreased, Blood prolactin increased,
-Body temperature decreased, Body temperature increased, Electrocardiogram QT prolonged, Eosinophil count increased, Haematocrit decreased, Haemoglobin decreased, Heart rate increased, Transaminases increased, White blood cell count decreased
-
-[INVEGA 9 mg prolonged-release tablets]
-
-| System Organ Class | Adverse Drug Reaction |  |  |
-| --- | --- | --- | --- |
-|  | Frequency |  |  |
-|  | Very common | Common | Uncommon |
-| Immune system disorders |  |  | Anaphylactic reaction |
-| Metabolism and nutrition disorders |  |  | Increased appetite |
-| Psychiatric disorders |  |  | Nightmare |
-| Nervous system disorders | Headache | Akathisia, Dizziness, Dystonia, Extrapyramidal disorder, Hypertonia, Parkinsonism, Sedation, Somnolence, Tremor | Dizziness postural, Dyskinesia, Grand mal convulsion, Syncope |
-| Eye disorders |  |  | Oculogyration |
-| Cardiac disorders |  | Atrioventricular block first degree, Bradycardia, Bundle branch block, Sinus tachycardia, Tachycardia | Palpitations, Sinus arrhythmia |
-| Vascular disorders |  | Orthostatic hypotension | Hypotension, Ischaemia |
-| Gastrointestinal disorders |  | Abdominal pain upper, Dry mouth, Salivary hypersecretion, Vomiting |  |
-| Musculoskeletal, connective tissue and bone disorders |  |  | Muscle rigidity |
-| Reproductive system and breast disorders |  |  | Amenorrhoea, Breast discharge, Erectile dysfunction, Galactorrhoea, Gynaecomastia, Menstruation irregular |
-|  | Frequency |  |  |
-|  | Very common | Common | Uncommon |
-| General disorders |  | Asthenia, Fatigue | Oedema |
-| Investigations |  | Weight increased | Electrocardiogram abnormal |
-
-[INVEGA 12 mg prolonged-release tablets]
-
-(all sentences already above)

@@ -14,4 +14,4 @@ Trilayer cylindrical-shaped longitudinal pink tablets (capsule-shaped) printed w
 
 [INVEGA 12 mg prolonged-release tablets]
 
-Trilayer cylindrical-shaped longitudinal dark-yellow tablets (capsule-shaped) printed with “PAL 12”
+Trilayer cylindrical-shaped longitudinal yellow tablets (capsule-shaped) printed with “PAL 12”

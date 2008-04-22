@@ -6,11 +6,12 @@ As with other antipsychotics, caution should be exercised when INVEGA is prescri
 Neuroleptic malignant syndrome
 Neuroleptic Malignant Syndrome (NMS), characterised by hyperthermia, muscle rigidity, autonomic instability, altered consciousness, and elevated serum creatine phosphokinase levels has been reported to occur with antipsychotics , including paliperidone.
 Additional clinical signs may include myoglobinuria (rhabdomyolysis) and acute renal failure.
-If a patient develops signs or symptoms indicative of NMS, all antipsychotics , including INVEGA, should be discontinued.
+If a patient develops signs or symptoms indicative of NMS, all antipsychotics, including INVEGA, should be discontinued.
 
 Tardive dyskinesia
 Medicines with dopamine receptor antagonistic properties have been associated with the induction of tardive dyskinesia characterised by rhythmical, involuntary movements, predominantly of the tongue and/or face.
 If signs and symptoms of tardive dyskinesia appear, the discontinuation of all antipsychotics, including INVEGA, should be considered.
+
 Hyperglycemia
 Rare cases of glucose related adverse reactions, e.g., increase in blood glucose, have been reported in clinical trials with INVEGA.
 As with other antipsychotics, appropriate clinical monitoring is advisable in diabetic patients and in patients with risk factors for the development of diabetes mellitus.
@@ -46,6 +47,7 @@ Hence, until data demonstrate otherwise the experience from risperidone is consi
 Overall mortality
 In a meta-analysis of 17 controlled clinical trials, elderly patients with dementia treated with other atypical antipsychotics, including risperidone, aripiprazole, olanzapine, and quetiapine had an increased risk of mortality compared to placebo.
 Among those treated with risperidone, the mortality was 4% compared with 3.1% for placebo.
+
 Cerebrovascular adverse reactions
 An approximately 3-fold increased risk of cerebrovascular adverse reactions have been seen in randomised placebo-controlled clinical trials in the dementia population with some atypical antipsychotics, including risperidone, aripiprazole, and olanzapine.
 The mechanism for this increased risk is not known.
@@ -54,7 +56,6 @@ INVEGA should be used with caution in elderly patients with dementia who have ri
 Parkinson’s disease and dementia with Lewy bodies
 Physicians should weigh the risks versus the benefits when prescribing antipsychotic medicinal products, including INVEGA, to patients with Parkinson’s Disease or Dementia with Lewy Bodies (DLB) since both groups may be at increased risk of Neuroleptic Malignant Syndrome as well as having an increased sensitivity to antipsychotics.
 Manifestation of this increased sensitivity can include confusion, obtundation, postural instability with frequent falls, in addition to extrapyramidal symptoms.
-
 Priapism
 Medicines with alpha-adrenergic blocking effects have been reported to induce priapism.
 Although no cases of priapism have been reported in clinical trials with INVEGA, paliperidone shares this pharmacologic activity and, therefore, may be associated with this risk.
@@ -68,4 +69,4 @@ An antiemetic effect was observed in preclinical studies with paliperidone.
 This effect, if it occurs in humans, may mask the signs and symptoms of overdosage with certain medicines or of conditions such as intestinal obstruction, Reye’s syndrome, and brain tumour.
 
 Lactose content (pertains only to the 3 mg tablets)
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucosegalactose malabsorption should not take this medicine.
+Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.

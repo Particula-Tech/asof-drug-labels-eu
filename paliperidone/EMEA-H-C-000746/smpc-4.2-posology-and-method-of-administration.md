@@ -20,10 +20,10 @@ As INVEGA has not been studied in patients with severe hepatic impairment, cauti
 Patients with renal impairment
 For patients with mild renal impairment (creatinine clearance ≥ 50 to < 80 ml/min), the recommended initial dose is 3 mg once daily.
 The dose may be increased based on clinical response and tolerability.
+
 For patients with moderate renal impairment (creatinine clearance ≥ 30 to < 50 ml/min), the recommended dose of INVEGA is 3 mg once daily.
 For patients with severe renal impairment (creatinine clearance ≥ 10 to < 30 ml/min), the recommended initial dose of INVEGA is 3 mg every other day, which may be increased to 3 mg once daily after clinical reassessment.
 As INVEGA has not been studied in patients with creatinine clearance below 10 ml/min, use is not recommended in such patients.
-
 Elderly
 Dosing recommendations for elderly patients with normal renal function (≥ 80 ml/min) are the same as for adults with normal renal function.
 However, because elderly patients may have diminished renal function, dose adjustments may be required according to their renal function status (see Patients with Renal Impairment above).

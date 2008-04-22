@@ -13,6 +13,7 @@ Ferric oxide (red) E172
 Hydroxyethyl cellulose
 Polyethylene glycol 3350
 Cellulose acetate
+
 Colour overcoat:
 Hypromellose
 Titanium dioxide E171
