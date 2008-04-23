@@ -6,7 +6,7 @@ Tenofovir is converted intracellularly to tenofovir monophosphate and to the act
 
 Absorption
 Following oral administration of tenofovir disoproxil fumarate to HIV infected patients, tenofovir disoproxil fumarate is rapidly absorbed and converted to tenofovir.
-Administration of multiple doses of tenofovir disoproxil fumarate with a meal to HIV infected patients resulted in mean (%CV) tenofovir Cmax, AUC0-∞, and Cmin values of 326 (36.6%) ng/ml, 3,324 (41.2%) ng·hr/ml and 64.4 (39.4%) ng/ml, respectively.
+Administration of multiple doses of tenofovir disoproxil fumarate with a meal to HIV infected patients resulted in mean (%CV) tenofovir Cmax, AUC0-∞, and Cmin values of 326 (36.6%) ng/ml, 3,324 (41.2%) ng·h/ml and 64.4 (39.4%) ng/ml, respectively.
 Maximum tenofovir concentrations are observed in serum within one hour of dosing in the fasted state and within two hours when taken with food.
 The oral bioavailability of tenofovir from tenofovir disoproxil fumarate in fasted patients was approximately 25%.
 Administration of tenofovir disoproxil fumarate with a high fat meal enhanced the oral bioavailability, with an increase in tenofovir AUC by approximately 40% and Cmax by approximately 14%.
@@ -31,6 +31,8 @@ Renal clearance has been estimated to be approximately 160 ml/h/kg (approximatel
 This indicates that active tubular secretion is an important part of the elimination of tenofovir.
 Following oral administration the terminal half-life of tenofovir is approximately 12 to 18 hours.
 
+Studies have established the pathway of active tubular secretion of tenofovir to be influx into proximal tubule cell by the human organic anion transporters (hOAT) 1 and 3 and efflux into the urine by the multidrug resistant protein 4 (MRP 4).
+
 Linearity/non-linearity
 The pharmacokinetics of tenofovir were independent of tenofovir disoproxil fumarate dose over the dose range 75 to 600 mg and were not affected by repeated dosing at any dose level.
 
@@ -42,22 +44,21 @@ Pharmacokinetic studies have not been performed in children and adolescents (und
 Pharmacokinetics have not been specifically studied in different ethnic groups.
 
 Renal impairment
-Pharmacokinetic parameters of tenofovir were determined following administration of a single dose of tenofovir disoproxil 245 mg to 40 non-HIV infected patients with varying degrees of renal impairment defined according to baseline creatinine clearance (CrCl) (normal renal function when CrCl
-> 80 ml/min; mild with CrCl = 50-79 ml/min; moderate with CrCl = 30-49 ml/min and severe with CrCl = 10-29 ml/min).
+Pharmacokinetic parameters of tenofovir were determined following administration of a single dose of tenofovir disoproxil 245 mg to 40 non-HIV, non-HBV infected patients with varying degrees of renal impairment defined according to baseline creatinine clearance (CrCl) (normal renal function when CrCl > 80 ml/min; mild with CrCl = 50-79 ml/min; moderate with CrCl = 30-49 ml/min and severe with CrCl = 10-29 ml/min).
 Compared with patients with normal renal function, the mean (%CV) tenofovir exposure increased from 2,185 (12%) ng·h/ml in subjects with CrCl > 80 ml/min to respectively 3,064 (30%) ng·h/ml, 6,009 (42%) ng·h/ml and 15,985 (45%) ng·h/ml in patients with mild, moderate and severe renal impairment.
 The dosing recommendations in patients with renal impairment, with increased dosing interval, are expected to result in higher peak plasma concentrations and lower Cmin levels in patients with renal impairment compared with patients with normal renal function.
 The clinical implications of this are unknown.
+
 In patients with end-stage renal disease (ESRD) (CrCl < 10 ml/min) requiring haemodialysis, between dialysis tenofovir concentrations substantially increased over 48 hours achieving a mean Cmax of 1,032 ng/ml and a mean AUC0-48h of 42,857 ng·h/ml.
 
 It is recommended that the dosing interval for tenofovir disoproxil 245 mg (as fumarate) is modified in patients with creatinine clearance < 50 ml/min or in patients who already have ESRD and require dialysis (see section 4.2).
 
 The pharmacokinetics of tenofovir in non-haemodialysis patients with creatinine clearance
 < 10 ml/min and in patients with ESRD managed by peritoneal or other forms of dialysis have not been studied.
-
 Hepatic impairment
-A single 245 mg dose of tenofovir disoproxil was administered to non-HIV infected patients with varying degrees of hepatic impairment defined according to Child-Pugh-Turcotte (CPT) classification.
+A single 245 mg dose of tenofovir disoproxil was administered to non-HIV, non-HBV infected patients with varying degrees of hepatic impairment defined according to Child-Pugh-Turcotte (CPT) classification.
 Tenofovir pharmacokinetics were not substantially altered in subjects with hepatic impairment suggesting that no dose adjustment is required in these subjects.
-The mean (%CV) tenofovir Cmax and AUC0-∞ values were 223 (34.8%) ng/ml and 2,050 (50.8%) ng·hr/ml, respectively, in normal subjects compared with 289 (46.0%) ng/ml and 2,310 (43.5%) ng·hr/ml in subjects with moderate hepatic impairment, and 305 (24.8%) ng/ml and 2,740 (44.0%) ng·hr/ml in subjects with severe hepatic impairment.
+The mean (%CV) tenofovir Cmax and AUC0-∞ values were 223 (34.8%) ng/ml and 2,050 (50.8%) ng·h/ml, respectively, in normal subjects compared with 289 (46.0%) ng/ml and 2,310 (43.5%) ng·h/ml in subjects with moderate hepatic impairment, and 305 (24.8%) ng/ml and 2,740 (44.0%) ng·h/ml in subjects with severe hepatic impairment.
 
 Intracellular pharmacokinetics
 In non-proliferating human peripheral blood mononuclear cells (PBMCs) the half-life of tenofovir diphosphate was found to be approximately 50 hours, whereas the half-life in phytohaemagglutinin-stimulated PBMCs was found to be approximately 10 hours.
