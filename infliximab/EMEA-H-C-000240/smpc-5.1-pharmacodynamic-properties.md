@@ -21,6 +21,7 @@ Peripheral blood mononuclear cells (PBMC) from infliximab-treated patients showe
 Analysis of lamina propria mononuclear cells obtained by biopsy of the intestinal mucosa showed that infliximab treatment caused a reduction in the number of cells capable of expressing TNFα and interferonγ.
 Additional histological studies provided evidence that treatment with infliximab reduces the infiltration of inflammatory cells into affected areas of the intestine and the presence of inflammation markers at these sites.
 Endoscopic studies of intestinal mucosa have shown evidence of mucosal healing in infliximab treated patients.
+
 Clinical Efficacy
 
 Rheumatoid arthritis
@@ -38,14 +39,14 @@ The ATTRACT study evaluated responses at 30, 54 and 102 weeks in a placebo-contr
 Approximately 50% of patients were in functional Class III.
 Patients received placebo, 3 mg/kg or 10 mg/kg infliximab at weeks 0, 2 and 6, and then every 4 or 8 weeks thereafter.
 All patients were on stable methotrexate doses (median 15 mg/wk) for 6 months prior to enrolment and were to remain on stable doses throughout the study.
-Results from week 54 (ACR20, total van der Heijde-modified Sharp score and HAQ) are shown in Table 4.
+Results from week 54 (ACR20, total van der Heijde-modified Sharp score and HAQ) are shown in Table 3.
 Higher degrees of clinical response (ACR50 and ACR70) were observed in all infliximab groups at 30 and 54 weeks compared with methotrexate alone.
 
-A reduction in the rate of the progression of structural joint damage (erosions and joint space narrowing) was observed in all infliximab groups at 54 weeks (Table 4).
+A reduction in the rate of the progression of structural joint damage (erosions and joint space narrowing) was observed in all infliximab groups at 54 weeks (Table 3).
 
 The effects observed at 54 weeks were maintained through 102 weeks.
 Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group can not be defined.
-Table 4
+Table 3
 Effects on ACR20, Structural Joint Damage and Physical Function at week 54, ATTRACT
 
 | infliximabb 3 mg/kg 3 mg/kg Controla q 8 wks q 4 wks | 10 mg/kg q 8 wks | 10 mg/kg q 4 wks | All infliximabb |
@@ -60,13 +61,13 @@ e: HAQ = Health Assessment Questionnaire; greater values indicate less disabilit
 The ASPIRE study evaluated responses at 54 weeks in 1004 methotrexate naive patients with early
 (≤3 years disease duration, median 0.6 years) active rheumatoid arthritis (median swollen and tender joint count of 19 and 31, respectively).
 All patients received methotrexate (optimised to 20 mg/wk by week 8) and either placebo, 3 mg/kg or 6 mg/kg infliximab at weeks 0, 2, and 6 and every 8 weeks thereafter.
-Results from week 54 are shown in Table 5.
+Results from week 54 are shown in Table 4.
 
 After 54 weeks of treatment, both doses of infliximab + methotrexate resulted in statistically significantly greater improvement in signs and symptoms compared to methotrexate alone as measured by the proportion of patients achieving ACR20, 50 and 70 responses.
 
 In ASPIRE, more than 90% of patients had at least two evaluable X-rays.
 Reduction in the rate of progression of structural damage was observed at weeks 30 and 54 in the infliximab + methotrexate groups compared to methotrexate alone.
-Table 5
+Table 4
 Effects on ACRn, Structural Joint Damage and Physical Function at week 54, ASPIRE
 Infliximab + MTX
 Placebo + MTX 3 mg/kg 6 mg/kg Combined
@@ -121,14 +122,14 @@ At week 2, all patients were assessed for clinical response and randomised to on
 All 3 groups received repeated infusions at week 2, 6 and every 8 weeks thereafter.
 
 Of the 573 patients randomised, 335 (58%) achieved clinical response by week 2.
-These patients were classified as Week-2 responders and were included in the primary analysis (see Table 6).
+These patients were classified as Week-2 responders and were included in the primary analysis (see Table 5).
 Among patients classified as non-responders at week 2, 32% (26/81) in the placebo maintenance group and 42% (68/163) in the infliximab group achieved clinical response by week 6.
 There was no difference between groups in the number of late responders thereafter.
 
 The co-primary endpoints were the proportion of patients in clinical remission (CDAI<150) at week 30 and time to loss of response through week 54.
 Corticosteroid tapering was permitted after week 6.
 
-Table 6: Effects on response and remission rate, data from ACCENT I (Week-2 responders)
+Table 5: Effects on response and remission rate, data from ACCENT I (Week-2 responders)
 
 |  | ACCENT I (Week-2 responders) % of Patients Placebo Infliximab Infliximab Maintenance Maintenance Maintenance (n=110) 5 mg/kg 10 mg/kg (n=113) (n=112) (p value) (p value) |
 | --- | --- |
@@ -165,10 +166,10 @@ At baseline, 87% of the patients had perianal fistulae, 14% had abdominal fistul
 The median CDAI score was 180.
 At week 14, 282 patients were assessed for clinical response and randomised to receive either placebo or 5 mg/kg infliximab every 8 weeks through week 46.
 
-Week-14 responders (195/282) were analyzed for the primary endpoint, which was time from randomisation to loss of response (see Table 7).
+Week-14 responders (195/282) were analyzed for the primary endpoint, which was time from randomisation to loss of response (see Table 6).
 Corticosteroid tapering was permitted after week 6.
 
-Table 7: Effects on response rate, data from ACCENT II (Week-14 responders)
+Table 6: Effects on response rate, data from ACCENT II (Week-14 responders)
 
 |  | ACCENT II (Week-14 responders) |  |
 | --- | --- | --- |
@@ -207,7 +208,7 @@ The safety and efficacy of Remicade were assessed in two (ACT 1 and ACT 2) rando
 Concomitant stable doses of oral aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted.
 In both studies, patients were randomized to receive either placebo, 5 mg/kg Remicade, or 10 mg/kg Remicade at weeks 0, 2, 6, 14 and 22, and in ACT 1 at weeks 30, 38 and 46.
 Corticosteroid taper was permitted after week 8.
-Table 8
+Table 7
 Effects on clinical response, clinical remission and mucosal healing at Weeks 8 and 30.
 Combined data from ACT 1 & 2.
 Infliximab
@@ -303,9 +304,9 @@ At week 16, 47 placebo patients with < 10% improvement from baseline in both swo
 At week 24, all placebo-treated patients crossed over to infliximab induction.
 Dosing continued for all patients through week 46.
 
-Key efficacy results for IMPACT and IMPACT 2 are shown in Table 9 below:
+Key efficacy results for IMPACT and IMPACT 2 are shown in Table 8 below:
 
-Table 9: Effects on ACR and PASI in IMPACT and IMPACT 2
+Table 8: Effects on ACR and PASI in IMPACT and IMPACT 2
 
 IMPACT IMPACT 2*
 
@@ -366,11 +367,11 @@ Patients received 5 mg/kg infliximab or placebo infusions at weeks 0, 2 and 6 fo
 At week 24, the placebo group crossed over to infliximab induction therapy (5 mg/kg) followed by infliximab maintenance therapy (5 mg/kg).
 Nail psoriasis was assessed using the Nail Psoriasis Severity Index (NAPSI).
 Prior therapy with PUVA, methotrexate, cyclosporin, or acitretin had been received by 71.4% of patients, although they were not necessarily therapy resistant.
-Key results are presented in Table 10.
+Key results are presented in Table 9.
 In infliximab treated subjects, significant PASI 50 responses were apparent at the first visit (week 2) and PASI 75 responses by the second visit (week 6).
 Efficacy was similar in the subgroup of patients that were exposed to previous systemic therapies compared to the overall study population.
 
-Table 10
+Table 9
 Summary of PASI response, PGA response and percent of patients with all nails cleared at Weeks 10, 24 and 50.
 EXPRESS.
 Placebo →
