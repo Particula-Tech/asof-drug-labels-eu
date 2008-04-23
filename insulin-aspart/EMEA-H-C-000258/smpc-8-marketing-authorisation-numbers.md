@@ -2,6 +2,7 @@
 
 EU/1/99/119/001
 EU/1/99/119/008
+EU/1/99/119/015
 
 [NovoRapid Penfill 100 U/ml, solution for injection in a cartridge.]
 
