@@ -21,6 +21,7 @@ The patient should be advised to limit contact with other individuals in order t
 Obtain a complete blood cell (CBC) count, with a white blood cell (WBC) count, corrected for the presence of nucleated red blood cells, a neutrophil count, and a platelet count immediately upon diagnosing the event and then repeat daily.
 It is recommended that following recovery from neutropenia, weekly CBC, WBC, neutrophil and platelet counts continue to be obtained for three consecutive weeks, to ensure that the patient recovers fully.
 Should any evidence of infection develop concurrently with the neutropenia, the appropriate cultures and diagnostic procedures should be performed and an appropriate therapeutic regimen instituted.
+
 In the event of severe neutropenia or agranulocytosis:
 Follow the guidelines above and administer appropriate therapy such as granulocyte colony stimulating factor, beginning the same day that the event is identified; administer daily until the condition resolves.
 Provide protective isolation and if clinically indicated, admit patient to the hospital.
@@ -35,7 +36,7 @@ No animal studies to evaluate the potential effects of deferiprone on fertility 
 
 Serum ferritin concentration/plasma Zn2+ concentration
 It is recommended that serum ferritin concentrations, or other indicators of body iron load, be monitored every two to three months to assess the long-term effectiveness of the chelation regimen in controlling the body iron load.
-Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 µg/l.
+Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 μg/l.
 
 Monitoring of plasma Zn2+ concentration, and supplementation in case of a deficiency, is recommended.
 

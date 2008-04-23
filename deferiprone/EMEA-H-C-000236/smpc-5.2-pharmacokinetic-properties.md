@@ -5,7 +5,7 @@ Deferiprone is rapidly absorbed from the upper part of the gastrointestinal trac
 Peak serum concentration is reported to occur 45 to 60 minutes following a single dose in fasted patients.
 This may be extended to 2 hours in fed patients.
 
-Following a dose of 25 mg/kg, lower peak serum concentrations have been detected in patients in the fed state (85 µmol/l) than in the fasting state (126 µmol/l), although there was no decrease in the amount of deferiprone absorbed when it was given with food.
+Following a dose of 25 mg/kg, lower peak serum concentrations have been detected in patients in the fed state (85 μmol/l) than in the fasting state (126 μmol/l), although there was no decrease in the amount of deferiprone absorbed when it was given with food.
 
 Biotransformation
 Deferiprone is metabolised predominantly to a glucuronide conjugate.

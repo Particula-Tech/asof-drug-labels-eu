@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
-The most serious adverse reaction reported in clinical trials with deferiprone is agranulocytosis (neutrophils <0.5x109/l), with an incidence of 0.8% (0.5 cases per 100 patient-years of treatment) (see section 4.4).
-The observed incidence of the less severe form of neutropenia (neutrophils <1.5x109/l) is 5.9% (2.5 cases per 100 patient-years).
+The most serious adverse reaction reported in clinical trials with deferiprone is agranulocytosis (neutrophils <0.5x109/l), with an incidence of 1.1% (0.6 cases per 100 patient-years of treatment) (see section 4.4).
+The observed incidence of the less severe form of neutropenia (neutrophils <1.5x109/l) is 4.9% (2.5 cases per 100 patient-years).
 This rate should be considered in the context of the underlying elevated incidence of neutropenia in thalassaemia patients, particularly in those with hypersplenism.
 
 Episodes of diarrhoea, mostly mild and transient, have been reported in patients treated with deferiprone.
@@ -14,7 +14,6 @@ Increased levels of serum liver enzymes have been reported in patients taking de
 In the majority of these patients, the increase was asymptomatic and transient, and returned to baseline without discontinuation or decreasing the dose of deferiprone (see section 4.4).
 
 Some patients experienced progression of fibrosis associated with an increase in iron overload or hepatitis C.
-
 Low plasma zinc levels have been associated with deferiprone, in a minority of patients.
 The levels normalised with oral zinc supplementation.
 
@@ -23,21 +22,13 @@ The neurological disorders progressively regressed after deferiprone discontinua
 
 Adverse reaction frequencies: Very common (≥1/10), Common (≥1/100 to <1/10), Uncommon (≥1/1,000 to <1/100).
 
-|  | Adverse reaction | Rate of event (Per 100 patient years) | Percentage of patients affected |
+| SYSTEM ORGAN CLASS | VERY COMMON (≥1/10) | COMMON (≥1/100 to <1/10) | UNCOMMON (≥1/1,000 to <1/100) |
 | --- | --- | --- | --- |
-| Investigations |  |  |  |
-| Common | Increased liver enzymes | 3.7 | 6.8 |
-| Blood and lymphatic system disorders |  |  |  |
-| Common | Neutropenia | 2.5 | 5.9 |
-| Uncommon | Agranulocytosis | 0.5 | 0.8 |
-| Gastrointestinal disorders |  |  |  |
-| Very common | Nausea | 8.6 | 15.9 |
-|  | Abdominal Pain | 7.6 | 14.1 |
-|  | Vomiting | 7.2 | 13.3 |
-| Common | Diarrhoea | 1.4 | 2.0 |
-| Renal and urinary disorders |  |  |  |
-| Very common | Reddish/Brown Urine | 29.2 | 53.8 |
-| Musculoskeletal and connective tissue disorders |  |  |  |
-| Common | Arthralgia | 5.1 | 9.4 |
-| Metabolism and nutrition disorders |  |  |  |
-| Common | Increased Appetite | 2.9 | 5.4 |
+| Investigations |  | Increased liver enzymes |  |
+| Blood and lymphatic system disorders |  | Neutropenia Agranulocytosis |  |
+| Nervous system disorders |  | Headache |  |
+| Gastrointestinal disorders | Nausea Abdominal Pain Vomiting | Diarrhoea |  |
+| Renal and urinary disorders | Chromaturia |  |  |
+| Musculoskeletal and connective tissue disorders |  | Arthralgia |  |
+| Metabolism and nutrition disorders |  | Increased Appetite |  |
+| General disorders and administration site conditions |  | Fatigue |  |

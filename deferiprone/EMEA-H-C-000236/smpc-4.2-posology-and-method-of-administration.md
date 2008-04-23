@@ -13,15 +13,14 @@ Doses above 100 mg/kg/day are not recommended because of the potentially increas
 There are limited data available on the use of deferiprone in children between 6 and 10 years of age, and no data on deferiprone use in children under 6 years of age.
 
 Due to the serious nature of agranulocytosis, that can occur with the use of deferiprone, special monitoring is required for all patients.
-Cation must be used when the patients abosolute neutrophil count (ANC) is low, as well as when treating patients with renal insufficiency or hepatic dysfunction.
+Caution must be used when the patients’ absolute neutrophil count (ANC) is low, as well as when treating patients with renal insufficiency or hepatic dysfunction.
 (see section 4.4).
-
 Dose table
 
 To obtain a dose of about 75 mg/kg/day, use the number of tablets suggested in the following table for the body weight of the patient.
 Sample body weights at 10 kg increments are listed.
 
-| Body weight | Total daily dose | Dose | Number of tablets |
+| Body weight (kg) | Total daily dose (mg) | Dose (mg, three times/day) | Number of tablets (three times/day) |
 | --- | --- | --- | --- |
 | 20 | 1500 | 500 | 1.0 |
 | 30 | 2250 | 750 | 1.5 |
@@ -38,7 +37,7 @@ Dose per kilogram body weight should be calculated to the nearest 2.5 ml.
 
 To obtain a dose of about 75 mg/kg/day, use the volume of oral solution suggested in the following table for the body weight of the patient.
 
-| Body weight | Total daily dose | Dose | ml of oral solution |
+| Body weight (kg) | Total daily dose (mg) | Dose (mg, three times/day) | ml of oral solution (three times/day) |
 | --- | --- | --- | --- |
 | 20 | 1500 | 500 | 5.0 |
 | 30 | 2250 | 750 | 7.5 |

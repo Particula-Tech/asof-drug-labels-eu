@@ -1,3 +1,8 @@
 # 8. MARKETING AUTHORISATION NUMBER
 
 EU/1/99/108/001
+
+[Ferriprox 100 mg/ml oral solution]
+
+EU/1/99/108/002
+EU/1/99/108/003
