@@ -4,7 +4,7 @@ Progressive Multifocal Leukoencephalopathy (PML)
 
 Use of TYSABRI has been associated with an increased risk of PML.
 
-Before initiation of treatment with Tysabri, a recent (usually within 3 months) Magnetic Resonance Image should be available.
+Before initiation of treatment with TYSABRI, a recent (usually within 3 months) Magnetic Resonance Image should be available.
 Patients must be monitored at regular intervals for any new or worsening neurological symptoms or signs that may be suggestive of PML.
 If new neurological symptoms occur, further dosing is to be suspended until PML has been excluded.
 The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction, and if so, whether these symptoms are typical of MS or possibly suggestive of PML.
@@ -32,16 +32,20 @@ If a patient receiving TYSABRI develops an opportunistic infection, dosing of TY
 Educational guidance
 
 Physicians must discuss the benefits and risks of TYSABRI therapy with the patient and provide them with a Patient Alert Card.
-Patients should be instructed that if they develop any infection then they should inform their physician that they are being treated with Tysabri.
+Patients should be instructed that if they develop any infection then they should inform their physician that they are being treated with TYSABRI.
+
+Physicians should counsel patients on the importance of uninterrupted dosing, particularly in the early months of treatment (see hypersensitivity).
 
 Hypersensitivity
 
 Hypersensitivity reactions have been associated with TYSABRI, including serious systemic reactions (see section 4.8).
 These reactions usually occurred during the infusion or up to 1 hour after completion of the infusion.
-The risk for hypersensitivity was greatest with early infusions, but the risk of hypersensitivity reactions should be considered for every infusion administered.
+The risk for hypersensitivity was greatest with early infusions and in patients re-exposed to TYSABRI following an initial short exposure (one or two infusions) and extended period (three months or more) without treatment.
+However, the risk of hypersensitivity reactions should be considered for every infusion administered.
 
 Patients are to be observed during the infusion and for 1 hour after the completion of the infusion (see section 4.8).
 Resources for the management of hypersensitivity reactions should be available.
+
 Discontinue administration of TYSABRI and initiate appropriate therapy at the first symptoms or signs of hypersensitivity.
 
 Patients who have experienced a hypersensitivity reaction must be permanently discontinued from treatment with TYSABRI.
@@ -49,7 +53,7 @@ Patients who have experienced a hypersensitivity reaction must be permanently di
 Concurrent or prior treatment with immunosuppressants
 
 The safety and efficacy of TYSABRI in combination with other immunosuppressive and antineoplastic therapies have not been fully established.
-Concurrent use of these agents with TYSABRI may increase the risk of infections, including opportunistic infections, and is contraindicated (see 4.3).
+Concurrent use of these agents with TYSABRI may increase the risk of infections, including opportunistic infections, and is contraindicated (see section 4.3).
 
 Patients with a treatment history of immunosuppressant medications, including cyclophosphamide and mitoxantrone, may experience prolonged immunosuppression and therefore may be at increased risk for PML.
 Care should be taken with patients who have previously received immunosuppressants to allow sufficient time for immune function recovery to occur.
@@ -61,7 +65,9 @@ Short courses of corticosteroids can be used in combination with TYSABRI.
 Immunogenicity
 
 Disease exacerbations or infusion related events may indicate the development of antibodies against natalizumab.
-In case these events occur the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after 6 weeks, treatment should be discontinued as persistent antibodies are associated with a substantial decrease in the effectiveness of TYSABRI and an increased incidence of hypersensitivity reactions (See section 4.8).
+In these cases the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after 6 weeks, treatment should be discontinued, as persistent antibodies are associated with a substantial decrease in efficacy of TYSABRI and an increased incidence of hypersensitivity reactions (see section 4.8).
+
+Since patients who have received an initial short exposure to TYSABRI and then had an extended period without treatment are more at risk for hypersensitivity upon redosing, the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after 6 weeks treatment should not be resumed.
 
 Stopping TYSABRI therapy
 

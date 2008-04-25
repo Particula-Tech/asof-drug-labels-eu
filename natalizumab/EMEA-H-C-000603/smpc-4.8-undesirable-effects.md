@@ -6,18 +6,11 @@ Adverse drug reactions reported with natalizumab with an incidence of 0.5% great
 The reactions are reported as MedDRA preferred terms under the MedDRA primary system organ class.
 Frequencies were defined as follows:
 
-Common (> 1/100, < 1/10), uncommon (> 1/1,000, < 1/100).
+Common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Infections and infestations
-Common Urinary tract infection
-Nasopharyngitis
-
-Immune system disorders
-Common Urticaria
-Uncommon Hypersensitivity
-
+1 An adverse event judged related to therapy by the investigating physician.
 Nervous system disorders
 Common Headache
 Dizziness
@@ -29,10 +22,18 @@ Nausea
 Musculoskeletal and connective tissue disorders
 Common Arthralgia
 
+Infections and infestations
+Common Urinary tract infection
+Nasopharyngitis
+
 General disorders and administration site conditions
 Common Rigors
 Pyrexia
 Fatigue
+
+Immune system disorders
+Common Urticaria
+Uncommon Hypersensitivity
 
 Infusion reactions
 
@@ -43,7 +44,6 @@ See section 4.4.
 
 Hypersensitivity reactions
 
-1 An adverse event judged related to therapy by the investigating physician.
 In 2-year controlled clinical trials in MS patients, hypersensitivity reactions occurred in up to 4% of patients.
 Anaphylactic/anaphylactoid reactions occurred in less than 1% of patients receiving TYSABRI.
 Hypersensitivity reactions usually occurred during the infusion or within the 1-hour period after the completion of the infusion.
@@ -55,19 +55,18 @@ In 10% of patients antibodies against natalizumab were detected in 2-year contro
 Persistent anti-natalizumab antibodies (one positive test reproducible on retesting at least 6 weeks later) developed in approximately 6% of patients.
 Antibodies were detected on only one occasion in an additional 4% of patients.
 Persistent antibodies were associated with a substantial decrease in the effectiveness of TYSABRI and an increased incidence of hypersensitivity reactions.
-Additional infusion-related reactions associated with persistent antibodies included rigors, nausea, vomiting and flushing.
-(see section 4.4).
+Additional infusion-related reactions associated with persistent antibodies included rigors, nausea, vomiting and flushing (see section 4.4).
 
 If, after approximately 6 months of therapy, persistent antibodies are suspected, either due to reduced efficacy or due to occurrence of infusion-related events, they may be detected and confirmed with a subsequent test 6 weeks after the first positive test.
 Given that efficacy may be reduced or the incidence of hypersensitivity or infusion-related reactions may be increased in a patient with persistent antibodies, treatment should be discontinued in patients who develop persistent antibodies.
-
 Infections, including PML and opportunistic infections
 
 In 2-year controlled clinical trials in MS patients, the rate of infection was approximately 1.5 per patient-year in both natalizumab- and placebo-treated patients.
 The nature of the infections was generally similar in natalizumab- and placebo-treated patients.
 A case of cryptosporidium diarrhoea was reported in MS clinical trials.
 In other clinical trials, cases of additional opportunistic infections have been reported, some of which were fatal.
-Early post-marketing experience included one fatal case of herpes encephalitis.
+In clinical trials, herpes infections (Varicella-Zoster virus, Herpes-simplex virus) occurred slightly more frequently in natalizumab-treated patients than in placebo-treated patients.
+In post marketing experience, there have been reports of serious cases, including one fatal case of herpes encephalitis.
 See section 4.4.
 
 The majority of patients did not interrupt natalizumab therapy during infections and recovery occurred with appropriate treatment.

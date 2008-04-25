@@ -1,7 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
-Following the repeat intravenous administration of a 300 mg dose of natalizumab to MS patients, the mean maximum observed serum concentration was 110 ± 52 μg/ml.
-Mean average steady-state trough natalizumab concentrations over the dosing period ranged from 23 μg/ml to 29 μg/ml.
+Following the repeat intravenous administration of a 300 mg dose of natalizumab to MS patients, the mean maximum observed serum concentration was 110 ± 52 µg/ml.
+Mean average steady-state trough natalizumab concentrations over the dosing period ranged from 23 µg/ml to 29 µg/ml.
 The predicted time to steady-state was approximately 36 weeks.
 
 A population pharmacokinetics analysis was conducted on samples from over 1,100 MS patients receiving doses ranging from 3 to 6 mg/kg natalizumab.

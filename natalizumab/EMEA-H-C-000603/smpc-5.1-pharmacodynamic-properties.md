@@ -22,7 +22,7 @@ Blockade of the molecular interactions of α4β1 with its targets reduces inflam
 Clinical efficacy
 
 TYSABRI is indicated as a single disease modifying therapy in relapsing remitting multiple sclerosis to prevent relapses and delay progression of disability.
-Due to safety concerns (see 4.4 and 4.8) treatment is restricted to the following patient groups:
+Due to safety concerns (see sections 4.4 and 4.8) treatment is restricted to the following patient groups:
 
 - Patients who have failed to respond to a full and adequate course of a beta-interferon.
   Patients should have had at least 1 relapse in the previous year while on therapy, and have at least 9 T2-hyperintense lesions in cranial MRI or at least 1 Gadolinium-enhancing lesion.
@@ -78,7 +78,7 @@ Study features and results are presented in the table below.
 | Mean number of Gd-enhancing lesions | 1.2 | 0.1 (p<0.001) |
 | 1 Progression of disability was defined as at least a 1.0 point increase on the EDSS from a baseline EDSS >=1.0 sustained for 12 or 24 weeks or at least a 1.5 point increase on the EDSS from a baseline EDSS =0 sustained for 12 or 24 weeks. |  |  |
 
-In the sub-group of patients indicated for treatment of rapidly evolving relapsing remitting MS (patients with 2 or more relapses and 1 or more Gd+ lesion), the annualised relapse rate was 0.282 in the Tysabri treated group (n = 148) and 1.455 in the placebo group (n = 61) (p <0.001).
+In the sub-group of patients indicated for treatment of rapidly evolving relapsing remitting MS (patients with 2 or more relapses and 1 or more Gd+ lesion), the annualised relapse rate was 0.282 in the TYSABRI treated group (n = 148) and 1.455 in the placebo group (n = 61) (p <0.001).
 Hazard ratio for disability progression was 0.36 (95% CI : 0.17, 0.76) p = 0.008.
 These results were obtained from a post hoc analysis and should be interpreted cautiously.
 No information on the severity of the relapses before inclusion of patients in the study is available.

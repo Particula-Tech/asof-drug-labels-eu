@@ -2,7 +2,7 @@
 
 TYSABRI therapy is to be initiated and supervised by specialised physicians experienced in the diagnosis and treatment of neurological conditions, in centres with timely access to MRI.
 
-Patients treated with TYSABRI must be given the special alert card.
+Patients treated with TYSABRI must be given the patient alert card.
 
 Resources for the management of hypersensitivity reactions and access to MRI should be available.
 
@@ -42,4 +42,4 @@ The mechanism for elimination and results from population pharmacokinetics sugge
 
 Readministration
 
-The efficacy and safety of re-administration have not been established.
+The efficacy of re-administration has not been established, for safety see section 4.4.
