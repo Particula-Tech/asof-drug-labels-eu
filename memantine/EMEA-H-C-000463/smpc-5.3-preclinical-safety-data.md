@@ -8,7 +8,7 @@ Ocular changes were inconsistently observed in repeat dose toxicity studies in r
 Specific ophthalmoscopic examinations in clinical studies with memantine did not disclose any ocular changes.
 
 Phospholipidosis in pulmonary macrophages due to accumulation of memantine in lysosomes was observed in rodents.
-This effect is known from other drugs with cationic amphiphilic properties.
+This effect is known from other active substances with cationic amphiphilic properties.
 There is a possible relationship between this accumulation and the vacuolisation observed in lungs.
 This effect was only observed at high doses in rodents.
 The clinical relevance of these findings is unknown.
