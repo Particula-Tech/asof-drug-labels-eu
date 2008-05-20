@@ -52,7 +52,7 @@ For retreatment with MabThera monotherapy for patients who have responded to pre
 Diffuse large B cell non-Hodgkin's Lymphoma
 MabThera should be used in combination with CHOP chemotherapy.
 The recommended dosage is 375 mg/m2 body surface area, administered on day 1 of each chemotherapy cycle for 8 cycles after IV infusion of the glucocorticoid component of CHOP.
-Safety and efficacy of MabThera have not been established in combination with other chemotherapies in diffuse large B cell non-Hodgkin’s Lymphoma..
+Safety and efficacy of MabThera have not been established in combination with other chemotherapies in diffuse large B cell non-Hodgkin’s Lymphoma.
 
 Rheumatoid Arthritis
 
