@@ -2,19 +2,19 @@
 
 Not applicable.
 
-[EXELON 3 mg hard capsules]
+[Exelon 3.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 4.5 mg hard capsules]
+[Exelon 4.5 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 6 mg hard capsules]
+[Exelon 6.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 2 mg/ml Oral Solution]
+[Exelon 2 mg/ml oral solution]
 
 (all sentences already above)
 

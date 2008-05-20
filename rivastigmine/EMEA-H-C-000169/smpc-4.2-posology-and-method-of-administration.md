@@ -1,24 +1,26 @@
 # 4.2 Posology and method of administration
 
-Administration: Treatment should be initiated and supervised by a physician experienced in the diagnosis and treatment of Alzheimer’s dementia or dementia associated with Parkinson’s disease.
+Treatment should be initiated and supervised by a physician experienced in the diagnosis and treatment of Alzheimer’s dementia or dementia associated with Parkinson’s disease.
 Diagnosis should be made according to current guidelines.
-Therapy with rivastigmine should only be started if a caregiver is available who will regularly monitor drug intake by the patient.
+Therapy with rivastigmine should only be started if a caregiver is available who will regularly monitor intake of the medicinal product by the patient.
 
 Rivastigmine should be administered twice a day, with morning and evening meals.
 The capsules should be swallowed whole.
 
-Initial dose: 1.5 mg twice a day.
+Initial dose
+1.5 mg twice a day.
 
-Dose titration: The starting dose is 1.5 mg twice a day.
+Dose titration
+The starting dose is 1.5 mg twice a day.
 If this dose is well tolerated after a minimum of two weeks of treatment, the dose may be increased to 3 mg twice a day.
 Subsequent increases to 4.5 mg and then 6 mg twice a day should also be based on good tolerability of the current dose and may be considered after a minimum of two weeks of treatment at that dose level.
 
-If adverse effects (e.g. nausea, vomiting, abdominal pain or loss of appetite), weight decrease or worsening of extrapyramidal symptoms (e.g. tremor) in patients with dementia associated with Parkinson’s disease are observed during treatment, these may respond to omitting one or more doses.
-If adverse effects persist, the daily dose should be temporarily reduced to the previous well-tolerated dose or the treatment may be discontinued.
+If adverse reactions (e.g. nausea, vomiting, abdominal pain or loss of appetite), weight decrease or worsening of extrapyramidal symptoms (e.g. tremor) in patients with dementia associated with Parkinson’s disease are observed during treatment, these may respond to omitting one or more doses.
+If adverse reactions persist, the daily dose should be temporarily reduced to the previous well-tolerated dose or the treatment may be discontinued.
 
-Maintenance dose: The effective dose is 3 to 6 mg twice a day; to achieve maximum therapeutic benefit patients should be maintained on their highest well tolerated dose.
+Maintenance dose
+The effective dose is 3 to 6 mg twice a day; to achieve maximum therapeutic benefit patients should be maintained on their highest well tolerated dose.
 The recommended maximum daily dose is 6 mg twice a day.
-
 Maintenance treatment can be continued for as long as a therapeutic benefit for the patient exists.
 Therefore, the clinical benefit of rivastigmine should be reassessed on a regular basis, especially for patients treated at doses less than 3 mg twice a day.
 If after 3 months of maintenance dose treatment the patient’s rate of decline in dementia symptoms is not altered favourably, the treatment should be discontinued.
@@ -30,28 +32,31 @@ Similarly a larger effect was observed in Parkinson’s disease patients with vi
 
 Treatment effect has not been studied in placebo-controlled trials beyond 6 months.
 
-Re-initiation of therapy: If treatment is interrupted for more than several days, it should be re-initiated at 1.5 mg twice daily.
+Re-initiation of therapy
+If treatment is interrupted for more than several days, it should be re-initiated at 1.5 mg twice daily.
 Dose titration should then be carried out as described above.
 
-Renal and hepatic impairment:
-Due to increased exposure in renal and mild to moderate hepatic impairment, dosing recommendations to titrate according to individual tolerability should be closely followed (see section 5.2).
+Renal and hepatic impairment
+Due to increased exposure in moderate renal and mild to moderate hepatic impairment, dosing recommendations to titrate according to individual tolerability should be closely followed (see section 5.2).
 
-Children:
+Patients with severe liver impairment have not been studied (see section 4.3).
+
+Children
 Rivastigmine is not recommended for use in children.
 
-[EXELON 3 mg hard capsules]
+[Exelon 3.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 4.5 mg hard capsules]
+[Exelon 4.5 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 6 mg hard capsules]
+[Exelon 6.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 2 mg/ml Oral Solution]
+[Exelon 2 mg/ml oral solution]
 
 Rivastigmine oral solution should be administered twice a day, with morning and evening meals.
 The prescribed amount of solution should be withdrawn from the container using the oral dosing syringe supplied.
@@ -70,15 +75,14 @@ Posology
 | Exelon 4.6 mg/24 h | 9 mg | 4.6 mg |
 | Exelon 9.5 mg/24 h | 18 mg | 9.5 mg |
 
-Initial dose: Treatment is started with 4.6 mg/24 h.
+Treatment is started with 4.6 mg/24 h.
 After a minimum of four weeks of treatment and if well tolerated according to the treating physician, this dose should be increased to 9.5 mg/24 h, which is the recommended effective dose.
 
-Maintenance dose: 9.5 mg/24 h is the recommended daily maintenance dose which can be continued for as long as the patient is deriving therapeutic benefit.
-Treatment should be temporarily interrupted if gastrointestinal adverse effects are observed until these adverse effects resolve.
+9.5 mg/24 h is the recommended daily maintenance dose which can be continued for as long as the patient is deriving therapeutic benefit.
+Treatment should be temporarily interrupted if gastrointestinal adverse reactions are observed until these adverse reactions resolve.
 Transdermal patch treatment can be resumed at the same dose if treatment is not interrupted for more than several days.
 Otherwise treatment should be re-initiated with 4.6 mg/24 h.
-
-Switching from capsules or oral solution to transdermal patches:
+Switching from capsules or oral solution to transdermal patches
 Based on comparable exposure between oral and transdermal rivastigmine (see section 5.2), patients treated with Exelon capsules or oral solution can be switched to Exelon transdermal patches as follows:
 
 - A patient on a dose of 3 mg/day oral rivastigmine can be switched to 4.6 mg/24 h transdermal patches.

@@ -2,21 +2,22 @@
 
 Alzheimer’s disease may cause gradual impairment of driving performance or compromise the ability to use machinery.
 Furthermore, rivastigmine can induce dizziness and somnolence, mainly when initiating treatment or increasing the dose.
+As a consequence, rivastigmine has minor or moderate influence on the ability to drive and use machines.
 Therefore, the ability of patients with dementia on rivastigmine to continue driving or operating complex machines should be routinely evaluated by the treating physician.
 
-[EXELON 3 mg hard capsules]
+[Exelon 3.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 4.5 mg hard capsules]
+[Exelon 4.5 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 6 mg hard capsules]
+[Exelon 6.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 2 mg/ml Oral Solution]
+[Exelon 2 mg/ml oral solution]
 
 (all sentences already above)
 

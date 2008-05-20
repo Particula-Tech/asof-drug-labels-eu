@@ -2,21 +2,22 @@
 
 Do not store above 30°C.
 
-[EXELON 3 mg hard capsules]
+[Exelon 3.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 4.5 mg hard capsules]
+[Exelon 4.5 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 6 mg hard capsules]
+[Exelon 6.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 2 mg/ml Oral Solution]
+[Exelon 2 mg/ml oral solution]
 
 Do not refrigerate or freeze.
+
 Store in an upright position.
 
 [Exelon 4.6 mg/24 h transdermal patch]

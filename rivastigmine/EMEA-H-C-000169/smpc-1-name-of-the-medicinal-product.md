@@ -1,22 +1,22 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
-EXELON 1.5 mg hard capsules
+Exelon 1.5 mg hard capsules
 
-[EXELON 3 mg hard capsules]
+[Exelon 3.0 mg hard capsules]
 
-EXELON 3 mg hard capsules
+Exelon 3.0 mg hard capsules
 
-[EXELON 4.5 mg hard capsules]
+[Exelon 4.5 mg hard capsules]
 
-EXELON 4.5 mg hard capsules
+Exelon 4.5 mg hard capsules
 
-[EXELON 6 mg hard capsules]
+[Exelon 6.0 mg hard capsules]
 
-EXELON 6 mg hard capsules
+Exelon 6.0 mg hard capsules
 
-[EXELON 2 mg/ml Oral Solution]
+[Exelon 2 mg/ml oral solution]
 
-EXELON 2 mg/ml Oral Solution
+Exelon 2 mg/ml oral solution
 
 [Exelon 4.6 mg/24 h transdermal patch]
 

@@ -13,19 +13,19 @@ When normalised to body surface area, the exposure to rivastigmine and its metab
 In animals, rivastigmine crosses the placenta and is excreted into milk.
 Oral studies in pregnant rats and rabbits gave no indication of teratogenic potential on the part of rivastigmine.
 
-[EXELON 3 mg hard capsules]
+[Exelon 3.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 4.5 mg hard capsules]
+[Exelon 4.5 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 6 mg hard capsules]
+[Exelon 6.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 2 mg/ml Oral Solution]
+[Exelon 2 mg/ml oral solution]
 
 (all sentences already above)
 

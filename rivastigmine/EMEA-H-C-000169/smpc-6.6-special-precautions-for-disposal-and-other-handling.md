@@ -1,20 +1,20 @@
-# 6.6 Special precautions for disposal and other handling
+# 6.6 Special precautions for disposal
 
 No special requirements.
 
-[EXELON 3 mg hard capsules]
+[Exelon 3.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 4.5 mg hard capsules]
+[Exelon 4.5 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 6 mg hard capsules]
+[Exelon 6.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 2 mg/ml Oral Solution]
+[Exelon 2 mg/ml oral solution]
 
 The prescribed amount of solution should be withdrawn from the bottle using the oral dosing syringe supplied.
 

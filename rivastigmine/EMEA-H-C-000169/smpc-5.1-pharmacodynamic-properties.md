@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: anticholinesterases, ATC code: N06D A03
+Pharmacotherapeutic group: anticholinesterases, ATC code: N06DA03
 
 Rivastigmine is an acetyl- and butyrylcholinesterase inhibitor of the carbamate type, thought to facilitate cholinergic neurotransmission by slowing the degradation of acetylcholine released by functionally intact cholinergic neurones.
 Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits in dementia associated with Alzheimer’s disease and Parkinson’s disease.
@@ -12,7 +12,6 @@ In patients with Alzheimer’s disease, inhibition of AChE in CSF by rivastigmin
 Inhibition of butyrylcholinesterase activity in CSF of 14 Alzheimer patients treated by rivastigmine was similar to that of AChE.
 
 Clinical studies in Alzheimer’s dementia
-
 The efficacy of rivastigmine has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
 These include the ADAS-Cog (a performance based measure of cognition), the CIBIC-Plus (a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the PDS (a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities relating to finances, etc.).
 
@@ -39,11 +38,9 @@ Table 4
 *p<0.05, **p<0.01, ***p<0.001
 
 Clinical studies in dementia associated with Parkinson’s disease
-
 The efficacy of rivastigmine in dementia associated with Parkinson’s disease has been demonstrated in a 24-week multicentre, double-blind, placebo-controlled core study and its 24-week open-label extension phase.
 Patients involved in this study had an MMSE (Mini-Mental State Examination) score of 10–24.
 Efficacy has been established by the use of two independent scales which were assessed at regular intervals during a 6-month treatment period as shown in Table 5 below: the ADAS-Cog, a measure of cognition, and the global measure ADCS-CGIC (Alzheimer’s Disease Cooperative Study-Clinician’s Global Impression of Change).
-
 Table 5
 
 | Dementia associated with Parkinson’s Disease | ADAS-Cog Exelon | ADAS-Cog Placebo | ADCS-CGIC Exelon | ADCS-CGIC Placebo |
@@ -59,9 +56,9 @@ Table 5
 A positive change indicates improvement.
 2 Mean data shown for convenience, categorical analysis performed using van Elteren test
 ITT: Intent-To-Treat; RDO: Retrieved Drop Outs; LOCF: Last Observation Carried Forward
+
 Although a treatment effect was demonstrated in the overall study population, the data suggested that a larger treatment effect relative to placebo was seen in the subgroup of patients with moderate dementia associated with Parkinson’s disease.
 Similarly a larger treatment effect was observed in those patients with visual hallucinations (see Table 6).
-
 Table 6
 
 | Dementia associated with Parkinson’s Disease | ADAS-Cog Exelon | ADAS-Cog Placebo | ADAS-Cog Exelon | ADAS-Cog Placebo |
@@ -79,25 +76,23 @@ Table 6
 A positive change indicates improvement.
 ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
 
-[EXELON 3 mg hard capsules]
+[Exelon 3.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 4.5 mg hard capsules]
+[Exelon 4.5 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 6 mg hard capsules]
+[Exelon 6.0 mg hard capsules]
 
 (all sentences already above)
 
-[EXELON 2 mg/ml Oral Solution]
+[Exelon 2 mg/ml oral solution]
 
-The efficacy of Exelon has been established through the use of three independent, domain specific, assessment tools which were assessed at periodic intervals during 6 month treatment periods.
+(all sentences already above)
 
 [Exelon 4.6 mg/24 h transdermal patch]
-
-Pharmacotherapeutic group: anticholinesterases, ATC code: N06DA03
 
 Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits in dementia associated with Alzheimer’s disease.
 
@@ -109,7 +104,6 @@ Patients involved in this study had an MMSE (Mini-Mental State Examination) scor
 Efficacy was established by the use of independent, domain-specific assessment tools which were applied at regular intervals during the 24-week treatment period.
 These include the ADAS-Cog (a performance-based measure of cognition) and the ADCS-CGIC (a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the ADCS-ADL (a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities related to finances).
 The 24-week results for the three assessment tools are summarised in Table 2.
-
 Table 2
 
 | ITT-LOCF population | Exelon transdermal patches 9.5 mg/24 h N = 251 | Exelon capsules 12 mg/day N = 256 | Placebo N = 282 |
