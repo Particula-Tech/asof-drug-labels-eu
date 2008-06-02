@@ -22,8 +22,8 @@ Xyrem should be taken orally upon getting into bed and again between 2.5 to 4 ho
 It is recommended that both doses of Xyrem should be made up at the same time upon retiring to bed.
 Xyrem is provided for use with a graduated measuring syringe and dosing cup with child resistant cap.
 Each measured dose of Xyrem must be dispensed into the dosing cup and diluted with 60 ml of water prior to ingestion.
-Discontinuation of Xyrem
 
+Discontinuation of Xyrem
 The discontinuation effects of sodium oxybate have not been systematically evaluated in controlled clinical trials (see Section 4.4).
 
 If the patient stops medication for more than 14 consecutive days, titration should be restarted from the lowest dose

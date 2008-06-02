@@ -14,6 +14,7 @@ Therefore, patients should be warned against the use of alcohol in conjunction w
 
 Patients with porphyria
 Sodium oxybate is considered to be unsafe in patients with porphyria because it has been shown to be porphyrogenic in animals or in-vitro systems.
+
 Respiratory depression
 Sodium oxybate also has the potential to induce respiratory depression.
 Apnoea and respiratory depression have been observed in a fasting healthy subject after a single intake of 4.5g (twice the recommended starting dose).
