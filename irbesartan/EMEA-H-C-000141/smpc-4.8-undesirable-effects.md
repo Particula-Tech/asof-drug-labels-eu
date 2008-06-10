@@ -29,6 +29,7 @@ Common: dizziness, orthostatic dizziness*
 
 Respiratory, thoracic and mediastinal disorders:
 Uncommon: cough
+
 Gastrointestinal disorders:
 Common: nausea/vomiting
 Uncommon: diarrhoea, dyspepsia/heartburn
@@ -37,9 +38,7 @@ Musculoskeletal and connective tissue disorders:
 Common: musculoskeletal pain*
 
 Vascular disorders:
-
 Common: orthostatic hypotension*
-
 Uncommon: flushing
 
 General disorders and administration site conditions:
@@ -68,7 +67,6 @@ Leukocytoclastic vasculitis
 
 Musculoskeletal and connective tissue disorders:
 Arthralgia, myalgia (in some cases associated with increased plasma creatine kinase levels), muscle cramps
-
 Metabolism and nutrition disorders:
 Hyperkalaemia
 

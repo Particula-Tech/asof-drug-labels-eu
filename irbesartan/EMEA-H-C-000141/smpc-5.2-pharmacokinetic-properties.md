@@ -31,7 +31,6 @@ The pharmacokinetics of irbesartan were evaluated in 23 hypertensive children af
 Of those 23 children, 21 were evaluable for comparison of pharmacokinetics with adults (twelve children over 12 years, nine children between 6 and 12 years).
 Results showed that Cmax, AUC and clearance rates were comparable to those observed in adult patients receiving 150 mg irbesartan daily.
 A limited accumulation of irbesartan (18%) in plasma was observed upon repeated once daily dosing.
-
 Renal impairment: in patients with renal impairment or those undergoing haemodialysis, the pharmacokinetic parameters of irbesartan are not significantly altered.
 Irbesartan is not removed by haemodialysis.
 
