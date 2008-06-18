@@ -20,12 +20,9 @@ Within each frequency grouping, undesirable effects are presented in order of de
 |  |  | Placebo | Oseltamivir 75 mg twice | Placebo | Oseltamivir 75 mg once |
 |  |  | (N = 1050) | daily (N = 1057) | (N = 1434) | daily (N = 1480) |
 | Gastrointestinal Disorders | Vomiting 2 Nausea 1, 2 Diarrhoea Abdominal Pain | 3.0 % 5.7 % 8.0 % 2.0 % | 8.0 % 7.9 % 5.5 % 2.2 % | 1.0 % 3.9 % 2.6 % 1.6 % | 2.1 % 7.0 % 3.2 % 2.0 % |
-| Infections and Infestations | Bronchitis Bronchitis acute | 5.0 % 1.0 % | 3.7 % 1.0 % | 1.2 % - | 0.7 % - |
-|  | Cough | 1.1 % | 0.9 % | 6.0 % | 5.6 % |
+| Infections and Infestations | Bronchitis Bronchitis acute Cough | 5.0 % 1.0 % 1.1 % | 3.7 % 1.0 % 0.9 % | 1.2 % - 6.0 % | 0.7 % - 5.6 % |
 | General Disorders | Dizziness Fatigue | 3.0 % 0.7 % | 1.9 % 0.8 % | 1.5 % 7.5 % | 1.6 % 7.9 % |
-| Neurological Disorders | Headache | 1.5 % | 1.6 % | 17.5 % | 20.1 % |
-|  | Insomnia | 1.0 % | 1.0 % | 1.0 % | 1.2 % |
-|  | Vertigo | 0.6 % | 0.9 % | 0.2 % | 0.3 % |
+| Neurological Disorders | Headache Insomnia Vertigo | 1.5 % 1.0 % 0.6 % | 1.6 % 1.0 % 0.9 % | 17.5 % 1.0 % 0.2 % | 20.1 % 1.2 % 0.3 % |
 
 1 Subjects who experienced nausea alone; excludes subjects who experienced nausea in association with vomiting.
 2 The difference between the placebo and oseltamivir groups was statistically significant.
@@ -66,7 +63,6 @@ Convulsions and psychiatric events such as depressed level of consciousness, abn
 In rare cases, the delirium resulted in accidental injury.
 The symptoms were mainly reported in children and adolescents.
 Convulsions and psychiatric symptoms have also been reported in patients with influenza not taking Tamiflu.
-
 In rare cases gastro-intestinal bleedings and hemorrhagic colitis were observed after the use of Tamiflu.
 
 [Tamiflu 45 mg hard capsule.]
@@ -78,10 +74,10 @@ Within each frequency grouping, undesirable effects are presented in order of de
 |  | Treatment 1 |  | Treatment 2 | Prevention 2 |
 | --- | --- | --- | --- | --- |
 | Adverse Event | Placebo N = 517 | Oseltamivir 2 mg/kg bid N = 515 | Oseltamivir 30 to 75 mg 3 N = 158 | Oseltamivir 30 to 75 mg 3 N = 99 |
-| Vomiting Diarrhoea Otitis media Abdominal pain Asthma (including aggravated) Nausea Epistaxis | 48 (9.3 %) 55 (10.6 %) 58 (11.2 %) 20 (3.9 %) 19 (3.7 %) | 77 (15.0 %) 49 (9.5 %) 45 (8.7 %) 24 (4.7 %) 18 (3.5 %) | 31 (19.6 %) 5 (3.2 %) 2 (1.3 %) 3 (1.9 %) - | 10 (10.1 %) 1 (1.0 %) 2 (2.0 %) 3 (3.0 %) 1 (1.0 %) |
-|  | 22 (4.3 %) 13 (2.5 %) | 17 (3.3 %) 16 (3.1 %) | 10 (6.3 %) 2 (1.3 %) | 4 (4.0 %) 1 (1.0 %) |
+| Vomiting Diarrhoea Otitis media Abdominal pain Asthma (including aggravated) Nausea Epistaxis Pneumonia | 48 (9.3 %) 55 (10.6 %) 58 (11.2 %) 20 (3.9 %) 19 (3.7 %) | 77 (15.0 %) 49 (9.5 %) 45 (8.7 %) 24 (4.7 %) 18 (3.5 %) | 31 (19.6 %) 5 (3.2 %) 2 (1.3 %) 3 (1.9 %) - | 10 (10.1 %) 1 (1.0 %) 2 (2.0 %) 3 (3.0 %) 1 (1.0 %) |
+|  | 22 (4.3 %) 13 (2.5 %) 17 (3.3 %) | 17 (3.3 %) 16 (3.1 %) 10 (1.9 %) | 10 (6.3 %) 2 (1.3 %) - | 4 (4.0 %) 1 (1.0 %) - |
 | Adverse Event | Placebo N = 517 | Oseltamivir 2 mg/kg bid N = 515 | Oseltamivir 30 to 75 mg 3 N = 158 | Oseltamivir 30 to 75 mg 3 N = 99 |
-| Pneumonia Ear disorder Sinusitis Bronchitis Conjunctivitis Dermatitis Lymphadenopathy Tympanic membrane disorder | 17 (3.3 %) 6 (1.2 %) 13 (2.5 %) 11 (2.1 %) 2 (0.4 %) 10 (1.9 %) 8 (1.5 %) 6 (1.2 %) | 10 (1.9 %) 9 (1.7 %) 9 (1.7 %) 8 (1.6 %) 5 (1.0 %) 5 (1.0 %) 5 (1.0 %) 5 (1.0 %) | - - - 3 (1.9 %) - 1 (0.6 %) 1 (0.6 %) - | - - - - - - - - |
+| Ear disorder Sinusitis Bronchitis Conjunctivitis Dermatitis Lymphadenopathy Tympanic membrane disorder | 6 (1.2 %) 13 (2.5 %) 11 (2.1 %) 2 (0.4 %) 10 (1.9 %) 8 (1.5 %) 6 (1.2 %) | 9 (1.7 %) 9 (1.7 %) 8 (1.6 %) 5 (1.0 %) 5 (1.0 %) 5 (1.0 %) 5 (1.0 %) | - - 3 (1.9 %) - 1 (0.6 %) 1 (0.6 %) - | - - - - - - - |
 
 [Tamiflu 12 mg/ml powder for oral suspension.]
 

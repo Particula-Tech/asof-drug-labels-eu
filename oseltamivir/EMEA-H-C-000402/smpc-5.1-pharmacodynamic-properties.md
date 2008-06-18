@@ -18,13 +18,23 @@ Higher IC50 values for influenza B, up to a median of 8.5 nM, have been observed
 Reduced sensitivity of viral neuraminidase
 There has been no evidence for emergence of drug resistance associated with the use of Tamiflu in clinical studies conducted to date in post-exposure (7 days), post-exposure within household groups (10 days) and seasonal (42 days) prevention of influenza.
 
-The risk of emergence of drug resistance in clinical use in the treatment of influenza has been extensively examined.
-In all clinical studies in naturally acquired infection, 0.32 % (4/1245) of adults and adolescents and 4.1 % (19/464, range 0-19 % in individual studies) of children aged 1 to 12 years were found to transiently carry influenza virus with decreased neuraminidase susceptibility to oseltamivir carboxylate.
-The emergence of resistance may be higher in young children and in children who had immunosuppression or who were under-exposed to oseltamivir.
-Patients carrying resistant virus cleared it normally and showed no clinical deterioration.
-Rare cases of oseltamivir-resistant virus strains in patients who were not confirmed to have been exposed to oseltamivir have been reported.
-All resistant genotypes are disadvantaged compared to the corresponding wild-type isolate and are likely to be less contagious in humans.
-Thus far, there is no evidence for resistance in influenza B in vitro or in clinical trials.
+The risk of emergence of influenza viruses with reduced susceptibility or frank resistance to oseltamivir has been examined during Roche-sponsored clinical studies.
+All patients carried oseltamivir-resistant virus transiently, cleared the virus normally and showed no clinical deterioration.
+
+| Patient Population | Patients with Resistance Mutations (%) |  |
+| --- | --- | --- |
+|  | Phenotyping* | Geno- and Phenotyping* |
+| Adults and adolescents | 4/1245 (0.32%) | 5/1245 (0.4%) |
+| Children (1-12 years) | 19/464 (4.1%) | 25/464 (5.4%) |
+
+* Full genotyping was not performed in all studies.
+
+The rate of emergence of resistance may be higher in the youngest age groups, and in immunosupressed patients.
+Oseltamivir-resistant viruses isolated from oseltamivir-treated patients and oseltamivir-resistant laboratory strains of influenza viruses have been found to contain mutations in N1 and N2 neuraminidases.
+Resistance mutations tend to be viral sub-type specific (including those found in H5N1 variants).
+
+Naturally occurring mutations in influenza A/H1N1 virus associated with reduced susceptibility to oseltamivir in vitro have been detected in patients who, based on the reported information, have not been exposed to oseltamivir.
+The extent of reduction in susceptibility to oseltamivir and the prevalence of such viruses appears to vary seasonally and geographically.
 
 Treatment of influenza infection
 Oseltamivir is effective only against illnesses caused by influenza virus.

@@ -108,5 +108,4 @@ For accurate dosing, the oral dispenser supplied should be used exclusively.
 For infants older than 1 year of age and for children 2 to 12 years of age: Tamiflu 30 mg and 45 mg capsules are available as an alternative to the recommended dose of Tamiflu suspension.
 
 It is recommended that Tamiflu powder for oral suspension be constituted by a pharmacist prior to dispensing to the patient (see section 6.6).
-
 Children weighing > 40 kg and who are able to swallow capsules may receive prophylaxis with a 75 mg capsule once daily for 10 days as an alternative to the recommended dose of Tamiflu suspension.
