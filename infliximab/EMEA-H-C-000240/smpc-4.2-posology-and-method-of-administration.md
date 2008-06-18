@@ -54,7 +54,7 @@ In responding patients, the alternative strategies for continued treatment are:
 Although comparative data are lacking, limited data in patients who initially responded to 5 mg/kg but who lost response indicate that some patients may regain response with dose escalation (see section 5.1).
 Continued therapy should be carefully reconsidered in patients who show no evidence of therapeutic benefit after dose adjustment.
 
-In Crohn’s disease, experience with re-administration if signs and symptoms of disease recur is limited and comparative data on the benefit / risk of the alternative strategies for continued treatment are lacking.
+In Crohn’s disease, experience with re-administration if signs and symptoms of disease recur is limited and comparative data on the benefit/risk of the alternative strategies for continued treatment are lacking.
 Ulcerative colitis
 5 mg/kg given as an intravenous infusion over a 2 hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 

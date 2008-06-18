@@ -29,8 +29,9 @@ Psychiatric disorders
 Uncommon: Depression, amnesia, agitation, confusion, insomnia, somnolence, nervousness, apathy
 Nervous system disorders
 Common: Headache, vertigo, dizziness
-Uncommon: Demyelinating disorders (multiple sclerosis-like disease) Rare: Meningitis
-Unknown: Guillain-Barré syndrome, optic neuritis, transverse myelitis, seizure, neuropathy, hypoaesthesia, paraesthesia
+Uncommon: Central nervous system demyelinating disorders (multiple sclerosis-like disease)
+Rare: Meningitis
+Unknown: Peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy and multifocal motor neuropathy), central nervous system demyelinating disorders (such as optic neuritis), transverse myelitis, seizure, neuropathy, hypoaesthesia, paraesthesia
 Eye disorders
 Uncommon: Endophthalmitis, keratitis, conjunctivitis, periorbital oedema, hordeolum
 Cardiac disorders
@@ -76,10 +77,10 @@ In a clinical study of patients with rheumatoid arthritis (ASPIRE), sixty six pe
 Of the infliximab-treated patients who received at least one shortened infusion, infusion-related reactions occurred in 15% of patients and serious infusion reactions occurred in 0.4% of patients.
 
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with Remicade administration.
-
 Delayed hypersensitivity: In clinical studies delayed hypersensitivity reactions have been uncommon and have occurred after Remicade-free intervals of less than 1 year.
 In the psoriasis studies, delayed hypersensitivity reactions occurred early in the treatment course.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, with some patients experiencing pruritus, facial, hand or lip edema, dysphagia, urticaria, sore throat and headache.
+
 There are insufficient data on the incidence of delayed hypersensitivity reactions after Remicade-free intervals of more than 1 year but limited data from clinical studies suggest an increased risk for delayed hypersensitivity with increasing Remicade-free interval.
 
 In a 1-year clinical study with repeated infusions in patients with Crohn's disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
@@ -111,12 +112,11 @@ Cases of tuberculosis, sometimes fatal, including miliary tuberculosis and tuber
 Malignancies and lymphoproliferative disorders: In clinical studies with infliximab in which 5780 patients were treated, representing 5494 patient years, 5 cases of lymphomas and 26 non-lymphoma malignancies were detected as compared with no lymphomas and 1 non-lymphoma malignancy in 1600 placebo-treated patients representing 941 patient years.
 
 In long-term safety follow-up of clinical studies with infliximab of up to 5 years, representing 6234 patients-years (3210 patients), 5 cases of lymphoma and 38 cases of non-lymphoma malignancies were reported.
-
 From August 1998 to August 2005, 1909 cases of suspected malignancies have been reported from post-marketing, clinical studies and registries (321 in Crohn’s disease patients, 1302 in rheumatoid arthritis patients and 286 in patients with other or unknown indications).
 Among those there were 347 lymphoma cases.
 During this period, the estimated exposure is 1,909,941 patient years since first exposure (see section 4.4: Special Warnings and Special Precautions for Use - "Malignancies").
 
-In an exploratory clinical study involving patients with moderate to severe COPD who were either current smokers or ex-smokers, 157 patients were treated with REMICADE at doses similar to those used in RA and Crohn’s disease.
+In an exploratory clinical study involving patients with moderate to severe COPD who were either current smokers or ex-smokers, 157 patients were treated with Remicade at doses similar to those used in RA and Crohn’s disease.
 Nine of these patients developed malignancies, including 1 lymphoma.
 The median duration of follow-up was 0.8 years (incidence 5.7% [95% CI 2.65% - 10.6%].
 There was one reported malignancy amongst 77 control patients (median duration of follow-up 0.8 years; incidence 1.3% [95% CI 0.03% - 7.0%]).
@@ -149,9 +149,7 @@ Table 2: Proportion of patients with increased ALT activity in Clinical Studies
 | Ulcerative colitis | 242 | 482 | 30.1 | 30.8 | 1.2% | 2.5% | 0.4% | 0.6% |
 | Ankylosing spondylitis | 76 | 275 | 24.1 | 101.9 | 0.0% | 9.5% | 0.0% | 3.6% |
 | Psoriatic arthritis | 98 | 191 | 18.1 | 39.1 | 0.0% | 6.8% | 0.0% | 2.1% |
-
-Plaque 281 1175 16.1 50.1 0.4% 7.7% 0.0% 3.4%
-psoriasis
+| Plaque psoriasis | 281 | 1175 | 16.1 | 50.1 | 0.4% | 7.7% | 0.0% | 3.4% |
 
 1 Placebo patients received methotrexate while infliximab patients received both infliximab and methotrexate.
 2 Placebo patients in the 2 Phase III studies in Crohn’s disease, ACCENT I and ACCENT II, received an initial dose of 5 mg/kg infliximab at study start and were on placebo in the maintenance phase.

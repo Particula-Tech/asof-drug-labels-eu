@@ -21,7 +21,6 @@ Peripheral blood mononuclear cells (PBMC) from infliximab-treated patients showe
 Analysis of lamina propria mononuclear cells obtained by biopsy of the intestinal mucosa showed that infliximab treatment caused a reduction in the number of cells capable of expressing TNFα and interferonγ.
 Additional histological studies provided evidence that treatment with infliximab reduces the infiltration of inflammatory cells into affected areas of the intestine and the presence of inflammation markers at these sites.
 Endoscopic studies of intestinal mucosa have shown evidence of mucosal healing in infliximab treated patients.
-
 Clinical Efficacy
 
 Rheumatoid arthritis
@@ -45,7 +44,7 @@ Higher degrees of clinical response (ACR50 and ACR70) were observed in all infli
 A reduction in the rate of the progression of structural joint damage (erosions and joint space narrowing) was observed in all infliximab groups at 54 weeks (Table 3).
 
 The effects observed at 54 weeks were maintained through 102 weeks.
-Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group can not be defined.
+Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group cannot be defined.
 Table 3
 Effects on ACR20, Structural Joint Damage and Physical Function at week 54, ATTRACT
 
@@ -117,7 +116,7 @@ At the last observation at 12 weeks, 13/27 (48%) of infliximab-treated patients 
 
 Maintenance treatment in severe active Crohn’s disease
 The efficacy of repeated infusions with infliximab was studied in a 1-year clinical study (ACCENT I). A total of 573 patients with moderately to severely active Crohn’s disease (CDAI ≥ 220 ≤ 400) received a single infusion of 5 mg/kg at week 0.
-178 of the 580 enrolled patients (30.7%) were defined as having severe disease (CDAI score> 300 and concomitant corticosteroid and/or immunosuppressants) corresponding to the population defined in the indication (see section 4.1).
+178 of the 580 enrolled patients (30.7%) were defined as having severe disease (CDAI score > 300 and concomitant corticosteroid and/or immunosuppressants) corresponding to the population defined in the indication (see section 4.1).
 At week 2, all patients were assessed for clinical response and randomised to one of 3 treatment groups; a placebo maintenance group, 5 mg/kg maintenance group and 10 mg/kg maintenance group.
 All 3 groups received repeated infusions at week 2, 6 and every 8 weeks thereafter.
 
@@ -187,7 +186,7 @@ Furthermore, a reduction in corticosteroid use and improvements in quality of li
 
 Paediatric Crohn’s disease (6 to17 years)
 
-In the REACHstudy, 112 patients (6 to 17 years, median age 13.0 years) with moderate to severe, active Crohn’s disease (median PCDAI of 40) and an inadequate response to conventional therapies were to receive 5 mg/kg infliximab at weeks 0, 2, and 6.
+In the REACH study, 112 patients (6 to 17 years, median age 13.0 years) with moderate to severe, active Crohn’s disease (median PCDAI of 40) and an inadequate response to conventional therapies were to receive 5 mg/kg infliximab at weeks 0, 2, and 6.
 All patients were required to be on a stable dose of 6-MP, AZA or MTX (35% were also receiving corticosteroids at baseline).
 Patients assessed by the investigator to be in clinical response at week 10 were randomized and received 5 mg/kg infliximab at either q8 weeks or q12 weeks as a maintenance treatment regimen.
 If response was lost during maintenance treatment, crossing over to a higher dose (10 mg/kg) and/or shorter dosing interval (q8 weeks) was allowed.
@@ -342,7 +341,7 @@ In IMPACT and IMPACT 2, clinical responses were observed as early as week 2 and 
 Efficacy has been demonstrated with or without concomitant use of methotrexate.
 Decreases in parameters of peripheral activity characteristic of psoriatic arthritis (such as number of swollen joints, number of painful/tender joints, dactylitis and presence of enthesopathy) were seen in the infliximab-treated patients.
 
-Radiographic changes were assessed in IMPACT2.
+Radiographic changes were assessed in IMPACT 2.
 Radiographs of hands and feet were collected at baseline, weeks 24 and 54.
 Infliximab treatment reduced the rate of progression of peripheral joint damage compared with placebo treatment at the week 24 primary endpoint as measured by change from baseline in total modified vdH-S score (mean ± SD score was 0.82 ± 2.62 in the placebo group compared with -0.70 ± 2.53 in the infliximab group; p< 0.001).
 In the infliximab group, the mean change in total modified vdH-S score remained below 0 at the week 54 timepoint.
@@ -356,7 +355,7 @@ The efficacy of infliximab was assessed in two multicenter, randomised, double b
 Patients in both studies had plaque psoriasis (Body Surface Area [BSA] ≥10% and Psoriasis Area and Severity Index [PASI] score ≥12).
 The primary endpoint in both studies was the percent of patients who achieved ≥ 75% improvement in PASI from baseline at week 10.
 SPIRIT evaluated the efficacy of infliximab induction therapy in 249 patients with plaque psoriasis that had previously received PUVA or systemic therapy.
-Patients received either 3 or, 5 mg/kg infliximab or placebo infusions at weeks 0, 2 and 6.
+Patients received either 3 or 5 mg/kg infliximab or placebo infusions at weeks 0, 2 and 6.
 Patients with a PGA score ≥3 were eligible to receive an additional infusion of the same treatment at week 26.
 In SPIRIT, the proportion of patients achieving PASI 75 at week 10 was 71.7% in the 3 mg/kg infliximab group, 87.9% in the 5 mg/kg infliximab group, and 5.9% in the placebo group (p < 0.001).
 By week 26, twenty weeks after the last induction dose, 30% of patients in the 5mg/kg group and 13.8% of patients in the 3mg/kg group were PASI 75 responders.
