@@ -2,16 +2,14 @@
 
 Pharmacotherapeutic group: Antidiabetic agent.
 Insulins and analogues, fast-acting, ATC Code: A10AB01.
+
 Mode of action
 
 Insulin
 
 - lowers blood glucose and promotes anabolic effects as well as decreasing catabolic effects,
-- increases the transport of glucose into cells as well as the formation of glycogen in the muscles
-
-and the liver, and improves pyruvate utilisation.
-It inhibits glycogenolysis and gluconeogenesis,
-
+- increases the transport of glucose into cells as well as the formation of glycogen in the muscles and the liver, and improves pyruvate utilisation.
+  It inhibits glycogenolysis and gluconeogenesis,
 - increases lipogenesis in the liver and adipose tissue and inhibits lipolysis,
 - promotes the uptake of amino acids into cells and promotes protein synthesis,
 - enhances the uptake of potassium into cells.
@@ -23,7 +21,7 @@ Following subcutaneous injection, onset of action is within 30 minutes, the phas
 
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
 
-- increases the transport of glucose into cells as well as the formation of glycogen in the muscles and the liver, and improves pyruvate utilisation.
+(all sentences already above)
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
@@ -127,6 +125,9 @@ Following subcutaneous injection, onset of action is within 30 minutes, the phas
 (all sentences already above)
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
+
+- increases the transport of glucose into cells as well as the formation of glycogen in the muscles
+- and the liver, and improves pyruvate utilisation.
 
 Insuman Infusat is an insulin with rapid onset and short duration of action.
 

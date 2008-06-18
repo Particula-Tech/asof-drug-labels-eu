@@ -44,10 +44,7 @@ These include:
 - inadequate food intake,
 - missed meals,
 - alcohol consumption,
-- certain uncompensated endocrine disorders (e.g. in hypothyroidism and in anterior pituitary or
-
-adrenocortical insufficiency),
-
+- certain uncompensated endocrine disorders (e.g. in hypothyroidism and in anterior pituitary or adrenocortical insufficiency),
 - concomitant treatment with certain other medicinal products.
 
 Intercurrent illness
@@ -59,7 +56,7 @@ Patients with type 1 diabetes must continue to consume at least a small amount o
 
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
 
-- certain uncompensated endocrine disorders (e.g. in hypothyroidism and in anterior pituitary or adrenocortical insufficiency),
+(all sentences already above)
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 

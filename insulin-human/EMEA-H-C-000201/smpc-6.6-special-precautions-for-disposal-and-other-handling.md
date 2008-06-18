@@ -13,7 +13,7 @@ It must also be remembered that neutral regular insulin precipitates out at a pH
 Mixing of insulins
 
 Insuman Rapid may be mixed with all Sanofi-Aventis human insulins, but NOT with those designed specifically for use in insulin pumps.
-Insuman rapid must also NOT be mixed with insulins of animal origin or with insulin analogues.
+Insuman Rapid must also NOT be mixed with insulins of animal origin or with insulin analogues.
 
 If two different insulins have to be drawn into one single injection syringe, it is recommended that the shorter-acting insulin be drawn first to prevent contamination of the vial by the longer-acting preparation.
 It is advisable to inject immediately after mixing.
@@ -100,9 +100,9 @@ Check the Insulin
 After removing the pen cap, the label on the pen and the insulin reservoir should be checked to make sure it contains the correct insulin.
 The appearance of insulin should also be checked: the insulin solution must be clear, colourless, with no solid particles visible, and must have a water-like consistency.
 Do not use this OptiSet if insulin is cloudy, coloured or has particles.
-
 Step 2.
 Attach the needle
+
 The needle should be carefully attached straight onto the pen.
 
 Step 3.
@@ -158,9 +158,9 @@ The injection button allows checking the actual loaded dose.
 The injection button must be held out under tension during this check.
 The last thick line visible on the injection button shows the amount of insulin loaded.
 When the injection button is held out only the top part of this thick line can be seen.
-
 Step 6.
 Inject the dose
+
 The patient should be informed on the injection technique by his health care professional.
 The needle should be inserted into the skin.
 
@@ -224,6 +224,8 @@ These changes sometimes give the cartridge a frosted appearance.
 In such cases, a new cartridge yielding a uniform suspension must be used.
 It is also necessary to change to a new cartridge if the insulin requirement changes substantially.
 
+Mixing of insulin
+
 Insuman Basal cartridges are not designed to allow any other insulin to be mixed in the cartridge.
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
@@ -246,8 +248,6 @@ The injection button should be pressed all the way in.
 This helps prevent contamination and/or infection as well as entry of air into the insulin reservoir and leakage of insulin, which can cause inaccurate dosing.
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
-
-Mixing of insulin
 
 Insuman Basal cartridges for Opticlik are not designed to allow any other insulin to be mixed in the cartridge for Opticlik.
 

@@ -2,7 +2,7 @@
 
 Pregnancy
 
-For insulin human , no clinical data on exposed pregnancies are available.
+For insulin human, no clinical data on exposed pregnancies are available.
 Insulin does not cross the placental barrier.
 Caution should be exercised when prescribing to pregnant women.
 
@@ -18,7 +18,7 @@ Lactating women may require adjustments in insulin dose and diet.
 
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
 
-For insulin human, no clinical data on exposed pregnancies are available.
+(all sentences already above)
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 

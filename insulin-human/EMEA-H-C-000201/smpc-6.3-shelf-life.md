@@ -2,9 +2,10 @@
 
 2 years.
 
-Shelf life after first use: the product may be used for up to four weeks.
-It is recommended that the date of first withdrawal from the vial be noted on the label.
-Vial in use must not be stored above 25°C and must be protected from direct heat or light.
+Shelf life after first use of the vial:
+The product may be stored for a maximum of 4 weeks not above 25°C away from direct heat or direct light.
+Keep the vial in the outer carton in order to protect from light.
+It is recommended that the date of the first use be noted on the label.
 
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
 
@@ -12,17 +13,16 @@ Vial in use must not be stored above 25°C and must be protected from direct hea
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
-Shelf life after first use: the product may be kept for up to four weeks.
-This applies irrespective of whether the cartridges are immediately put into the pen or are first carried as a spare for a while.
-Cartridge in use must not be stored above 25°C and must be protected from direct heat or light.
-When in use, cartridge (in the pen) must not be stored in a refrigerator.
+Shelf life after first use of the cartridge:
+The cartridge in-use (in the insulin pen) or carried as a spare may be stored for a maximum of 4 weeks not above 25°C away from direct heat or direct light.
+The pen containing a cartridge must not be stored in the refrigerator.
+The pen cap must be put back on the pen after each injection in order to protect from light.
 
 [Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
 
-This applies irrespective of whether the pens are immediately used or are first carried as a spare for a while.
-
-Pen in use must not be stored above 25°C and must be protected from direct heat or light.
-When in use, pen must not be stored in a refrigerator.
+Shelf life after first use of the pen:
+The pen in-use or carried as a spare may be stored for a maximum of 4 weeks not above 25°C away from direct heat or direct light.
+Pens in-usemust not be stored in the refrigerator.
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
 
@@ -42,7 +42,7 @@ When in use, pen must not be stored in a refrigerator.
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
 
-(all sentences already above)
+Pens in-use must not be stored in the refrigerator.
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
 
@@ -58,7 +58,7 @@ When in use, pen must not be stored in a refrigerator.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
 
-When in use, cartridge (in the pen), must not be stored in a refrigerator.
+(all sentences already above)
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
 
@@ -82,7 +82,7 @@ When in use, cartridge (in the pen), must not be stored in a refrigerator.
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
 
-(all sentences already above)
+The pen in-use or carried as a spare may be stored for a maximum of 4 weeks not above 25°C away from direct heat or direct ligh.
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
 
@@ -94,7 +94,7 @@ When in use, cartridge (in the pen), must not be stored in a refrigerator.
 
 [Insuman Comb 50 40 IU/ml suspension for injection in a vial]
 
-(all sentences already above)
+The product may be stored for a maximum of 4 weeks not above 25°C away direct heat or direct light.
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
 
@@ -102,7 +102,7 @@ When in use, cartridge (in the pen), must not be stored in a refrigerator.
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
 
-This applies irrespective of whether the pens are immediately used or are first carried as a spare for a while.Pen in use must not be stored above 25°C and must be protected from direct heat or light.
+(all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
 
@@ -111,8 +111,7 @@ This applies irrespective of whether the pens are immediately used or are first 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
 Insulin that has been filled into the pump reservoir may be used for two weeks thereafter.
-Shelf life after first use: the product may be used for up to 4 weeks.
 
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
-Shelf life after first use: the product (cartridges in use in the pump) may be kept for up to two weeks.
+The product (cartridges in-use in the pump) may be stored for a maximum of 2 weeks.

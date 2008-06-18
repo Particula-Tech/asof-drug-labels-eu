@@ -1,27 +1,27 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each ml of Insuman Rapid contains 100 IU (3.5 mg) of the active substance insulin human.
-Each vial contains 5 ml, equivalent to 500 IU insulin.
+Each ml contains 100 IU insulin human (equivalent to 3.5 mg).
+Each vial contains 5 ml of solution for injection, equivalent to 500 IU insulin.
 One IU (International Unit) corresponds to 0.035 mg of anhydrous human insulin.
 
 Insuman Rapid is a neutral insulin solution (regular insulin).
 
-The human insulin in Insuman Rapid is produced by recombinant DNA technology using K 12 strains of Escherichia coli.
+Human insulin is produced by recombinant DNA technology in Escherichia coli.
 
 For a full list of excipients, see section 6.1.
 
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
 
-Each ml of Insuman Rapid contains 40 IU (1.4 mg) of the active substance insulin human.
-Each vial contains 10 ml, equivalent to 400 IU insulin.
+Each ml contains 40 IU insulin human (equivalent to 1.4 mg).
+Each vial contains 10 ml of solution for injection, equivalent to 400 IU insulin.
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
-Each cartridge contains 3 ml, equivalent to 300 IU insulin.
+Each cartridge contains 3 ml of solution for injection, equivalent to 300 IU insulin.
 
 [Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
 
-Each pen contains 3 ml, equivalent to 300 IU insulin.
+Each pen contains 3 ml of solution for injection, equivalent to 300 IU insulin.
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
 
@@ -29,23 +29,21 @@ Each pen contains 3 ml, equivalent to 300 IU insulin.
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
-Each ml of Insuman Basal contains 100 IU (3.5 mg) of the active substance insulin human.
+Each vial contains 5 ml of suspension for injection, equivalent to 500 IU insulin.
 
 Insuman Basal is an isophane insulin suspension.
 
-The human insulin in Insuman Basal is produced by recombinant DNA technology using K 12 strains of Escherichia coli.
-
 [Insuman Basal 40 IU/ml suspension for injection in a vial]
 
-Each ml of Insuman Basal contains 40 IU (1.4 mg) of the active substance insulin human.
+Each vial contains 10 ml of suspension for injection, equivalent to 400 IU insulin.
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
-(all sentences already above)
+Each cartridge contains 3 ml of suspension for injection, equivalent to 300 IU insulin.
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
 
-(all sentences already above)
+Each pen contains 3 ml of suspension for injection, equivalent to 300 IU insulin.
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
 
@@ -53,15 +51,11 @@ Each ml of Insuman Basal contains 40 IU (1.4 mg) of the active substance insulin
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
-Each ml of Insuman Comb 15 contains 100 IU (3.5 mg) of the active substance insulin human.
-
 Insuman Comb 15 is a biphasic isophane insulin suspension consisting of 15% dissolved insulin and 85% crystalline protamine insulin.
-
-The human insulin in Insuman Comb 15 is produced by recombinant DNA technology using K 12 strains of Escherichia coli.
 
 [Insuman Comb 15 40 IU/ml suspension for injection in a vial]
 
-Each ml of Insuman Comb 15 contains 40 IU (1.4 mg) of the active substance insulin human.
+(all sentences already above)
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
 
@@ -77,15 +71,11 @@ Each ml of Insuman Comb 15 contains 40 IU (1.4 mg) of the active substance insul
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
-Each ml of Insuman Comb 25 contains 100 IU (3.5 mg) of the active substance insulin human.
-
 Insuman Comb 25 is a biphasic isophane insulin suspension consisting of 25% dissolved insulin and 75% crystalline protamine insulin.
-
-The human insulin in Insuman Comb 25 is produced by recombinant DNA technology using K 12 strains of Escherichia coli.
 
 [Insuman Comb 25 40 IU/ml suspension for injection in a vial]
 
-Each ml of Insuman Comb 25 contains 40 IU (1.4 mg) of the active substance insulin human.
+(all sentences already above)
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
 
@@ -101,22 +91,15 @@ Each ml of Insuman Comb 25 contains 40 IU (1.4 mg) of the active substance insul
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
-Each ml of Insuman Comb 50 contains 100 IU (3.5 mg) of the active substance insulin human.
-
 Insuman Comb 50 is a biphasic isophane insulin suspension consisting of 50% dissolved insulin and 50% crystalline protamine insulin.
-
-The human insulin in Insuman Comb 50 is produced by recombinant DNA technology using K 12 strains of Escherichia coli.
 
 [Insuman Comb 50 40 IU/ml suspension for injection in a vial]
 
-Each ml of Insuman Comb 50 contains 40 IU (1.4 mg) of the active substance insulin human.
-
-The human insulin in Insuman Comb 50 is produced by recombinant DNA technology using
-K 12 strains of Escherichia coli.
+(all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
 
-Each ml of Insuman Comb 50 contains 100 IU (3,5 mg) of the active substance insulin human.
+Each ml contains 100 IU insulin human (equivalent to 3,5 mg).
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
 
@@ -124,17 +107,14 @@ Each ml of Insuman Comb 50 contains 100 IU (3,5 mg) of the active substance insu
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
 
-(all sentences already above)
+Each cartridge contains 3 ml suspension for injection, equivalent to 300 IU insulin.
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
-Each ml of Insuman Infusat contains 100 IU (3.5 mg) of the active substance insulin human.
-Each vial contains 10 ml, equivalent to 1000 IU insulin.
+Each vial contains 10 ml of solution for injection, equivalent to 1000 IU insulin.
 
 Insuman Infusat is a neutral insulin solution (regular insulin).
 
-The human insulin in Insuman Infusat is produced by recombinant DNA technology using K 12 strains of Escherichia coli.
-
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
-Each cartridge contains 3.15 ml, equivalent to 315 IU insulin.
+Each cartridge contains 3.15 ml of solution for injection, equivalent to 315 IU insulin.

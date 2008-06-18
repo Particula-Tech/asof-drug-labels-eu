@@ -1,6 +1,6 @@
 # 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients .
+Hypersensitivity to the active substance or to any of the excipients.
 
 Insuman Rapid must not be used in external or implanted insulin pumps or in peristaltic pumps with silicone tubing.
 

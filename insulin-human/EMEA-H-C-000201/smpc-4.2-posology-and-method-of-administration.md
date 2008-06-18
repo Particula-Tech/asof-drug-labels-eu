@@ -39,9 +39,7 @@ Dose adjustment may also be required, for example, if
 
 - the patient's weight changes,
 - the patient's life-style changes,
-- other circumstances arise that may promote an increased susceptibility to hypo- or
-
-hyperglycaemia (see section 4.4).
+- other circumstances arise that may promote an increased susceptibility to hypo- or hyperglycaemia (see section 4.4).
 
 Use in specific patient groups
 
@@ -61,11 +59,9 @@ Injection sites within an injection area must be rotated from one injection to t
 Insuman Rapid may also be administered intravenously.
 Intravenous insulin therapy must generally take place in an intensive care unit or under comparable monitoring and treatment conditions (see "Daily doses and timing of administration").
 
-For further details on handling, see section 6.6
+For further details on handling, see section 6.6.
 
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
-
-- other circumstances arise that may promote an increased susceptibility to hypo- or hyperglycaemia (see section 4.4).
 
 Insuman Rapid contains 40 IU of insulin per ml solution.
 Only injection syringes designed for this strength of insulin (40 IU per ml) are to be used.
@@ -76,7 +72,7 @@ Insuman Rapid in cartridges has been developed for use in the OptiPen series.
 
 [Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
 
-Insuman Rapid delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
+OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
 
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully
 
@@ -107,7 +103,7 @@ Insuman Basal in cartridges has been developed for use in the OptiPen series.
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
 
-Insuman Basal delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
+(all sentences already above)
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
 
@@ -134,7 +130,7 @@ Insuman Comb 15 in cartridges has been developed for use in the OptiPen series.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
 
-Insuman Comb 15 delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
+(all sentences already above)
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
 
@@ -161,7 +157,7 @@ Insuman Comb 25 in cartridges has been developed for use in the OptiPen series.
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
 
-Insuman Comb 25 delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
+(all sentences already above)
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
 
@@ -188,7 +184,7 @@ Insuman Comb 50 in cartridges has been developed for use in the OptiPen series.
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
 
-Insuman Comb 50 delivers insulin in increments of 2 IU up to a maximum single dose of 40 IU.
+(all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
 
