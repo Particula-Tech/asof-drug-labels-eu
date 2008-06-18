@@ -64,6 +64,9 @@ Also to be taken into account in pregnant or breast-feeding women, children and 
 Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
+PR interval prolongation: ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects.
+Rare reports of 2nd or 3rd degree atrioventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving drugs known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
+Norvir should be used with caution in such patients (see section 5.1).
 Interactions with other medicinal products
 
 Ritonavir dosed as an antiretroviral agent
@@ -71,6 +74,7 @@ Ritonavir dosed as an antiretroviral agent
 The following Warnings and Precautions should be considered when ritonavir is used as an antiretroviral agent.
 When ritonavir is used as a pharmacokinetic enhancer at the 100 mg and 200 mg level it cannot be assumed that the following warnings and precautions will also apply.
 When ritonavir is used as a pharmacokinetic enhancer, full details on the warnings and precautions relevant to that particular PI must be considered, therefore the Summary of Product Characteristics, section 4.4, for the particular PI must be consulted to determine if the information below is applicable.
+
 PDE5 inhibitors: Particular caution should be used when prescribing sildenafil, tadalafil or vardenafil in patients receiving ritonavir.
 Co-administration of ritonavir with these medicinal products is expected to substantially increase their concentrations and may result in associated adverse events such as hypotension and prolonged erection (see section 4.5).
 
@@ -99,11 +103,11 @@ Trazodone is a CYP3A4 substrate and co-administration of ritonavir is expected t
 Adverse events of nausea, dizziness, hypotension and syncope have been observed in single dose interaction studies in healthy volunteers (see section 4.5)
 
 Ritonavir dosed as a pharmacokinetic enhancer
-
 The interaction profiles of HIV-protease inhibitors, co-administered with low dose ritonavir, are dependant on the specific co-administered protease inhibitor.
 
 For a description of the mechanisms and potential mechanisms contributing to the interaction profile of the PIs, see section 4.5.
 Please also review the Summary of Product Characteristics for the particular boosted PI.
+
 Saquinavir: Doses of ritonavir higher than 100 mg twice daily should not be used.
 Higher doses of ritonavir have been shown to be associated with an increased incidence of adverse events.
 Co-administration of saquinavir and ritonavir has led to severe adverse events, mainly diabetic ketoacidosis and liver disorders, especially in patients with pre-existing liver disease.
