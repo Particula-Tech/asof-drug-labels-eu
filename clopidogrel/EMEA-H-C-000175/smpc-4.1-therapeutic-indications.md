@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indications
 
-Clopidogrel is indicated for the prevention of atherothrombotic events in:
+Clopidogrel is indicated in adults for the prevention of atherothrombotic events in:
 
 - Patients suffering from myocardial infarction (from a few days until less than 35 days), ischaemic stroke (from 7 days until less than 6 months) or established peripheral arterial disease.
 - Patients suffering from acute coronary syndrome:
@@ -8,7 +8,3 @@ Clopidogrel is indicated for the prevention of atherothrombotic events in:
   - ST segment elevation acute myocardial infarction, in combination with ASA in medically treated patients eligible for thrombolytic therapy.
 
 For further information please refer to section 5.1.
-
-[Iscover 300 mg film-coated tablets]
-
-Clopidogrel is indicated in adults for the prevention of atherothrombotic events in:

@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Warfarin: the concomitant administration of clopidogrel with warfarin is not recommended since it may increase the intensity of bleedings (see section 4.4).
+Oral anticoagulants: the concomitant administration of clopidogrel with oral anticoagulants is not recommended since it may increase the intensity of bleedings (see section 4.4).
 
 Glycoprotein IIb/IIIa inhibitors: clopidogrel should be used with caution in patients who may be at risk of increased bleeding from trauma, surgery or other pathological conditions that receive concomitant glycoprotein IIb/IIIa inhibitors (see section 4.4).
 
@@ -22,7 +22,7 @@ Non-Steroidal Anti-Inflammatory Drugs (NSAIDs): in a clinical study conducted in
 However, due to the lack of interaction studies with other NSAIDs it is presently unclear whether there is an increased risk of gastrointestinal bleeding with all NSAIDs.
 Consequently, NSAIDs including Cox-2 inhibitors and clopidogrel should be co-administered with caution (see section 4.4).
 
-Other concomitant therapy: a number of other clinical studies have been conducted with clopidogrel and other concomitant medications to investigate the potential for pharmacodynamic and pharmacokinetic interactions.
+Other concomitant therapy: a number of other clinical studies have been conducted with clopidogrel and other concomitant medicinal products to investigate the potential for pharmacodynamic and pharmacokinetic interactions.
 No clinically significant pharmacodynamic interactions were observed when clopidogrel was co-administered with atenolol, nifedipine, or both atenolol and nifedipine.
 Furthermore, the pharmacodynamic activity of clopidogrel was not significantly influenced by the co-administration of phenobarbital, cimetidine, or oestrogen.
 
@@ -30,17 +30,12 @@ The pharmacokinetics of digoxin or theophylline were not modified by the co-admi
 Antacids did not modify the extent of clopidogrel absorption.
 
 Data from studies with human liver microsomes indicated that the carboxylic acid metabolite of clopidogrel could inhibit the activity of Cytochrome P450 2C9.
-This could potentially lead to increased plasma levels of drugs such as phenytoin and tolbutamide and the NSAIDs, which are metabolised by Cytochrome P450 2C9.
+This could potentially lead to increased plasma levels of medicinal products such as phenytoin and tolbutamide and the NSAIDs, which are metabolised by Cytochrome P450 2C9.
 Data from the CAPRIE study indicate that phenytoin and tolbutamide can be safely co-administered with clopidogrel.
 
-Apart from the specific drug interaction information described above, interaction studies with clopidogrel and some drugs commonly administered in patients with atherothrombotic disease have not been performed.
-However, patients entered into clinical trials with clopidogrel received a variety of concomitant medications including diuretics, beta blockers, ACEI, calcium antagonists, cholesterol lowering agents, coronary vasodilators, antidiabetic agents (including insulin), antiepileptic agents, hormone replacement therapy and GPIIb/IIIa antagonists without evidence of clinically significant adverse interactions.
+Apart from the specific medicinal product interaction information described above, interaction studies with clopidogrel and some medicinal products commonly administered in patients with atherothrombotic disease have not been performed.
+However, patients entered into clinical trials with clopidogrel received a variety of concomitant medicinal products including diuretics, beta blockers, ACEI, calcium antagonists, cholesterol lowering agents, coronary vasodilators, antidiabetic agents (including insulin), antiepileptic agents, and GPIIb/IIIa antagonists without evidence of clinically significant adverse interactions.
 
 [Iscover 300 mg film-coated tablets]
 
-Other concomitant therapy: a number of other clinical studies have been conducted with clopidogrel and other concomitant medicinal products to investigate the potential for pharmacodynamic and pharmacokinetic interactions.
-
-This could potentially lead to increased plasma levels of medicinal products such as phenytoin and tolbutamide and the NSAIDs, which are metabolised by Cytochrome P450 2C9.
-
-Apart from the specific medicinal product interaction information described above, interaction studies with clopidogrel and some medicinal products commonly administered in patients with atherothrombotic disease have not been performed.
 However, patients entered into clinical trials with clopidogrel received a variety of concomitant medicinal products including diuretics, beta blockers, ACEI, calcium antagonists, cholesterol lowering agents, coronary vasodilators, antidiabetic agents (including insulin), antiepileptic agents and GPIIb/IIIa antagonists without evidence of clinically significant adverse interactions.
