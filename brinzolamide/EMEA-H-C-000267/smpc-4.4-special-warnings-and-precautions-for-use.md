@@ -11,9 +11,9 @@ There is a potential for an additive effect on the known systemic effects of car
 The concomitant administration of AZOPT and oral carbonic anhydrase inhibitors has not been studied and is not recommended.
 
 There is limited experience with AZOPT in the treatment of patients with pseudoexfoliative glaucoma or pigmentary glaucoma.
-
 AZOPT was primarily evaluated in concomitant administration with timolol during adjunctive glaucoma therapy.
-Therefore, there are limited data regarding the administration of brinzolamide with other antiglaucomatous agents.
+Additionally the IOP-reducing effect of Azopt as adjunctive therapy to the prostaglandin analogue travoprost has been studied.
+No long term data are available on the use of AZOPT as adjunctive therapy to travoprost.(see section 5.1)
 
 AZOPT has not been studied in patients with narrow-angle glaucoma.
 

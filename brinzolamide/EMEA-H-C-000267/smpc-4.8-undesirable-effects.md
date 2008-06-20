@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-In clinical studies involving over1800 patients treated with AZOPT as monotherapy or adjunctive therapy to timolol maleate 5 mg/ml, the most frequently reported treatment-related adverse events were: dysgeusia (5.8%) (bitter or unusual taste, see description below) and temporary blurred vision (5.8%) upon instillation, lasting from a few seconds to a few minutes (see also 4.7 Effects on ability to drive and use machines).
+In clinical studies involving over 1800 patients treated with AZOPT as monotherapy or adjunctive therapy to timolol maleate 5 mg/ml, the most frequently reported treatment-related adverse events were: dysgeusia (5.8%) (bitter or unusual taste, see description below) and temporary blurred vision (5.8%) upon instillation, lasting from a few seconds to a few minutes (see also 4.7 Effects on ability to drive and use machines).
 
 The following undesirable effects were assessed to be treatment-related and are classified according to the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon
 (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1000), or very rare (<1/10,000).
@@ -89,6 +89,8 @@ It is likely caused by passage of the eye drops in the nasopharynx via the nasol
 Nasolacrimal occlusion or gently closing the eyelid after instillation may help reduce the incidence of this effect (see also 4.2 Posology and method of administration).
 
 AZOPT is a sulphonamide inhibitor of carbonic anhydrase with systemic absorption.
-
 Gastrointestinal, nervous system, haematological, renal and metabolic effects are generally associated with systemic carbonic anhydrase inhibitors.
 The same type of undesirable effects that are attributable to oral carbonic anhydrase inhibitors may occur with topical administration.
+
+No unexpected adverse events have been observed with AZOPT when used as adjunctive therapy to travoprost.
+The adverse events seen with the adjunctive therapy have been observed with each active substance alone.

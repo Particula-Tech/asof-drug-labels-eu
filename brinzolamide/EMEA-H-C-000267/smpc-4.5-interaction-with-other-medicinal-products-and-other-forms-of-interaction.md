@@ -1,10 +1,8 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Specific interaction studies with other medicinal products have not been performed with AZOPT.
-In clinical studies, AZOPT was used concomitantly with timolol ophthalmic preparations without evidence of adverse interactions.
+In clinical studies, AZOPT was used concomitantly with prostaglandin analogues and timolol ophthalmic preparations without evidence of adverse interactions.
 Association between AZOPT and miotics or adrenergic agonists has not been evaluated during adjunctive glaucoma therapy.
-
-Association between AZOPT and antiglaucomatous agents other than beta-adrenergic blocking agents has not been evaluated during adjunctive glaucoma therapy.
 
 AZOPT is a carbonic anhydrase inhibitor and, although administered topically, is absorbed systemically.
 Acid-base disturbances have been reported with oral carbonic anhydrase inhibitors.
