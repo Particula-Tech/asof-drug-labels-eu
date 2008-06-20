@@ -63,16 +63,20 @@ In a 26-week, placebo-controlled trial, followed by a 74-week extension, in mani
 
 [ABILIFY 7.5 mg/ml solution for injection]
 
-It has been proposed that aripiprazole’s efficacy in schizophrenia is mediated through a combination of partial agonism at dopamine D2 and serotonin 5HT1a receptors and antagonism of serotonin 5HT2a receptors.
+Agitation in schizophrenia and Bipolar I Disorder with aripiprazole solution for injection:
+In two short- term (24-hour) placebo-controlled trials involving 554 schizophrenic patients presenting with agitation and disturbed behaviours, aripiprazole solution for injection was associated with statistically significant greater improvements in agitation/behavioural symptoms compared to placebo and was similar to haloperidol.
+In one short-term (24-hour) placebo-controlled trial involving 291 patients with bipolar disorder presenting with agitation and disturbed behaviours, aripiprazole solution for injection was associated with statistically significant greater improvements in agitation/behavioural symptoms compared to placebo and was similar to the reference arm lorazepam.
+The observed mean improvement from baseline on the PANSS Excitement Component score at the primary 2-hour endpoint was 5.8 for placebo, 9.6 for lorazepam, and 8.7 for aripiprazole.
+In subpopulation analyses on patients with mixed episodes or on patients with severe agitation, a similar pattern of efficacy to the overall population was observed but statistical significance could not be established due to a reduced sample size.
 
-Agitation in schizophrenia with aripiprazole solution for injection: in two short- term (24-hour) placebo-controlled trials involving 554 schizophrenic patients presenting with agitation and disturbed behaviours, aripiprazole solution for injection was associated with statistically significant greater improvements in agitation/behavioural symptoms compared to placebo and was similar to haloperidol.
-
-Schizophrenia with oral aripiprazole: in three short-term (4 to 6 weeks) placebo-controlled trials involving 1,228 schizophrenic patients, presenting with positive or negative symptoms, oral aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
+Schizophrenia with oral aripiprazole:
+In three short-term (4 to 6 weeks) placebo-controlled trials involving 1,228 schizophrenic patients, presenting with positive or negative symptoms, oral aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
 
 In a haloperidol-controlled trial, the proportion of responder patients maintaining response to medicinal product at 52-weeks was similar in both groups (oral aripiprazole 77% and haloperidol 73%).
 The overall completion rate was significantly higher for patients on oral aripiprazole (43%) than for oral haloperidol (30%).
-Actual scores in rating scales used as secondary endpoints, including PANSS and the Montgomery-Asberg Depression Rating Scale showed a significant improvement over halperidol.
 In a 26-week, placebo-controlled trial in stabilised patients with chronic schizophrenia, oral aripiprazole had significantly greater reduction in relapse rate, 34% in oral aripiprazole group and 57% in placebo.
 
 Weight gain: in clinical trials oral aripiprazole has not been shown to induce clinically relevant weight gain.
 ~80.5 kg) on oral aripiprazole (N= 18, or 13% of evaluable patients), compared to oral olanzapine (N= 45, or 33% of evaluable patients).
+
+Manic episodes in Bipolar I Disorder with oral aripiprazole:

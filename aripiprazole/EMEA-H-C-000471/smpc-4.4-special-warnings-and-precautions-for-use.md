@@ -95,7 +95,7 @@ Patients with rare hereditary problems of fructose intolerance, glucose-galactos
 
 [ABILIFY 7.5 mg/ml solution for injection]
 
-The efficacy of aripiprazole solution for injection in patients with agitation and disturbed behaviours has not been established related to conditions other than schizophrenia.
+The efficacy of aripiprazole solution for injection in patients with agitation and disturbed behaviours has not been established related to conditions other than schizophrenia and manic episodes in Bipolar I Disorder.
 
 Simultaneous administration of injectable antipsychotics and parenteral benzodiazepine may be associated with excessive sedation and cardiorespiratory depression.
 If parenteral benzodiazepine therapy is deemed necessary in addition to aripiprazole solution for injection, patients should be monitored for excessive sedation and for orthostatic hypotension (see section 4.5).
@@ -104,12 +104,3 @@ Patients receiving aripiprazole solution for injection should be observed for or
 Blood pressure, pulse, respiratory rate and level of consciousness should be monitored regularly.
 
 The safety and efficacy of aripiprazole solution for injection has not been evaluated in patients with alcohol or medicinal product intoxication (either with prescribed or illicit medicinal products).
-
-The occurrence of suicidal behaviour is inherent in psychotic illnesses and in some cases has been reported early after initiation or switch of antipsychotic therapy, including treatment with aripiprazole (see section 4.8).
-
-Cardiovascular disorders: Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) or hypertension, including accelerated or malignant.
-
-Cerebrovascular adverse events: in the same trials, cerebrovascular adverse events (e.g. stroke, transient ischemic attack), including fatalities, were reported in patients (mean age: 84 years; range: 78-88 years).
-
-Weight gain: weight gain is commonly seen in schizophrenic patients due to co-morbidities, use of antipsychotics known to cause weight gain, poorly managed life-style, and might lead to severe complications.
-Weight gain has been very rarely reported post-marketing among patients prescribed ABILIFY.

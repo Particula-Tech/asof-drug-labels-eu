@@ -33,5 +33,5 @@ ABILIFY is indicated for the treatment of moderate to severe manic episodes in B
 
 [ABILIFY 7.5 mg/ml solution for injection]
 
-ABILIFY solution for injection is indicated for the rapid control of agitation and disturbed behaviours in patients with schizophrenia, when oral therapy is not appropriate.
+ABILIFY solution for injection is indicated for the rapid control of agitation and disturbed behaviours in patients with schizophrenia or in patients with manic episodes in Bipolar I Disorder, when oral therapy is not appropriate.
 Treatment with aripiprazole solution for injection should be discontinued as soon as clinically appropriate and the use of oral aripiprazole should be initiated.
