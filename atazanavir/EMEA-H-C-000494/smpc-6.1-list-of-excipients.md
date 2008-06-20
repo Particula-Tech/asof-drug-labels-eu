@@ -15,6 +15,7 @@ Shellac
 Propylene glycol
 Ammonium hydroxide
 Indigocarmin (E132)
+
 White ink containing:
 Shellac
 Titanium dioxide (E171)
@@ -32,7 +33,9 @@ Simethicone
 
 [REYATAZ 300 mg hard capsules]
 
-(all sentences already above)
+Red iron oxide
+Black iron oxide
+Yellow iron oxide
 
 [REYATAZ 50 mg/1.5 g oral powder]
 

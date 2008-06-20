@@ -2,14 +2,14 @@
 
 Therapy should be initiated by a physician experienced in the management of HIV infection.
 
-Adults: the recommended dose of REYATAZ is 300 mg (REYATAZ is available as 100 mg, 150 mg, 200 mg and 300 mg hard capsules) once daily taken with ritonavir 100 mg once daily and with food.
+Adults: the recommended dose of REYATAZ is 300 mg once daily taken with ritonavir 100 mg once daily and with food.
 Ritonavir is used as a booster of atazanavir pharmacokinetics (see sections 4.5 and 5.1).
 
 If REYATAZ with ritonavir is co-administered with didanosine, it is recommended that didanosine be taken 2 hours after REYATAZ with ritonavir.
 REYATAZ with ritonavir must be taken with food
 (see section 4.5).
 
-Infants, toddlers, children, and adolescents: The experience in children is limited (see section 5.2).
+Infants, toddlers, children, and adolescents: the safety and efficacy of REYATAZ in paediatric patients has not been established (see section 5.2).
 
 Patients with renal impairment: no dosage adjustment is needed (see section 5.2).
 
@@ -39,6 +39,7 @@ The recommended dose of oral powder is 300 mg (6 level measuring spoons) once da
 One measuring spoon of 1.5 g of oral powder contains 50 mg atazanavir.
 
 REYATAZ should not be used in patients with moderate to severe hepatic impairment (see sections 4.3, 4.4 and 5.2).
+
 The oral powder should be taken with food.
 The prescriber should advise the patient to scoop an overfilled spoon of loose powder from the bottle using the measuring spoon provided.
 The patient should then gently level the powder in the spoon by scraping the extra powder back into the bottle using a flat edge of a knife or spatula.
