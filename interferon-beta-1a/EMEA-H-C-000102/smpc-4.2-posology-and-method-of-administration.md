@@ -4,6 +4,7 @@ Treatment should be initiated under supervision of a physician experienced in th
 
 Adults: The recommended dosage for the treatment of relapsing MS is 30 micrograms (1 ml solution), administered by intramuscular (IM) injection once a week (see section 6.6).
 No additional benefit has been shown by administering a higher dose (60 micrograms) once a week.
+
 Children and adolescents: No formal clinical trials or pharmacokinetic studies have been conducted in children or adolescents.
 However, limited published data suggest that the safety profile in adolescents from 12 to 16 years of age receiving AVONEX 30 micrograms IM once per week is similar to that seen in adults.
 There is no information on the use of AVONEX in children under 12 years of age and therefore AVONEX should not be used in this population.
