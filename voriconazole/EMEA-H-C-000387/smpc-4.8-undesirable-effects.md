@@ -9,6 +9,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 The most commonly reported adverse events were visual disturbances, pyrexia, rash, vomiting, nausea, diarrhoea, headache, peripheral oedema and abdominal pain.
 The severity of the adverse events was generally mild to moderate.
 No clinically significant differences were seen when the safety data were analysed by age, race, or gender.
+
 Undesirable effects reported in subjects receiving voriconazole
 
 | System Organ Class | Adverse drug reactions |
@@ -29,8 +30,8 @@ Undesirable effects reported in subjects receiving voriconazole
 | Uncommon | Brain oedema, ataxia, diplopia, vertigo, hypoaesthesia |
 | Rare | Convulsion, encephalopathy, Guillain-Barre syndrome, extrapyramidal symptoms |
 | Eye disorders |  |
-| Very common | Visual disturbance |
-| Uncommon | Papiloedema, optic nerve disorder, nystagmus, scleritis, blepharitis |
+| Very common | Visual disturbances (including blurred vision (see Section 4.4), chromatopsia and photophobia) |
+| Uncommon | Papilloedema (see Section 4.4), optic nerve disorder (including optic neuritis, see Section 4.4), nystagmus, scleritis, blepharitis |
 | Rare | Retinal haemorrhage, optic atrophy, oculogyration, corneal opacity |
 | Ear and labyrinth disorders |  |
 | Rare | Hypoacusis, tinnitus |
@@ -40,7 +41,9 @@ Undesirable effects reported in subjects receiving voriconazole
 | Very common | Abdominal pain, nausea, vomiting, diarrhoea |
 | Uncommon | Pancreatitis, peritonitis, duodenitis, gingivitis, glossitis, swollen tongue, dyspepsia, constipation |
 | Rare | Dysgeusia |
+
 | Renal and urinary disorders |  |
+| --- | --- |
 | Common | Renal failure acute, haematuria |
 | Uncommon | Nephritis, proteinuria |
 | Rare | Renal tubular necrosis |
@@ -78,11 +81,11 @@ Undesirable effects reported in subjects receiving voriconazole
 | Common | Depression, anxiety, hallucination |
 | Rare | Insomnia |
 
-Visual disturbances Voriconazole treatment-related visual disturbances were very common.
-In clinical trials, short-term as well as long-term treatment, approximately 30 % of subjects experienced altered/enhanced visual perception, blurred vision, colour vision change or photophobia.
-The visual disturbances are transient and fully reversible, with the majority spontaneously resolving within 60 minutes and no clinically significant long-term visual effects were observed.
-There is evidence of attenuation with repeated doses of voriconazole.
-The visual disturbance is generally mild, rarely results in discontinuation and has not been associated with long-term sequelae.
+Visual disturbances In clinical trials, voriconazole treatment-related visual disturbances were very common.
+In these studies, short-term as well as long-term treatment, approximately 30 % of subjects experienced altered/enhanced visual perception, blurred vision, colour vision change or photophobia.
+These visual disturbances were transient and fully reversible, with the majority spontaneously resolving within 60 minutes and no clinically significant long-term visual effects were observed.
+There was evidence of attenuation with repeated doses of voriconazole.
+The visual disturbances were generally mild, rarely resulted in discontinuation and were not associated with long-term sequelae.
 Visual disturbances may be associated with higher plasma concentrations and/or doses.
 
 The mechanism of action is unknown, although the site of action is most likely to be within the retina.
@@ -130,87 +133,29 @@ Common Pancytopenia, bone marrow depression, leukopenia,
 thrombocytopenia, purpura, anaemia
 Uncommon Disseminated intravascular coagulation, agranulocytosis,
 lymphadenopathy, eosinophilia
-Nervous system disorders
-Very common Headache
-Common Dizziness, confusional state, tremor, agitation, paraesthesia
-Uncommon Brain oedema, ataxia, diplopia, vertigo, hypoaesthesia
-Rare Convulsion, encephalopathy, Guillain-Barre syndrome,
-extrapyramidal symptoms
-Eye disorders
-Very common Visual disturbance
-Uncommon Papiloedema, optic nerve disorder, nystagmus, scleritis,
-blepharitis
-Rare Retinal haemorrhage, optic atrophy, oculogyration, corneal
-opacity
-Ear and labyrinth disorders
-Rare Hypoacusis, tinnitus
-Respiratory, thoracic and mediastinal disorders
-Common Acute respiratory distress syndrome, pulmonary oedema,
-respiratory distress, chest pain
-Gastrointestinal disorders
-Very common Abdominal pain, nausea, vomiting, diarrhoea
-Uncommon Pancreatitis, peritonitis, duodenitis, gingivitis, glossitis,
-swollen tongue, dyspepsia, constipation
-Rare Dysgeusia
-Renal and urinary disorders
-Common Renal failure acute, haematuria
-Uncommon Nephritis, proteinuria
-Rare Renal tubular necrosis
 
-| Skin and subcutaneous tissue disorders |  |
+| Nervous system disorders |  |
 | --- | --- |
-| Very common | Rash |
-| Common | Exfoliative dermatitis, face oedema, photosensitivity reaction, maculo-papular rash, macular rash, papular rash, cheilitis, pruritus, alopecia, erythema |
-| Uncommon | Stevens-Johnson syndrome, angioneurotic oedema, allergic dermatitis, urticaria, drug hypersensitivity, psoriasis |
-| Rare | Toxic epidermal necrolysis, erythema multiforme, discoid lupus erythematosis |
-| Musculoskeletal and connective tissue disorders |  |
-| Common | Back pain |
-| Uncommon | Arthritis |
-| Rare | Hypertonia |
-| Endocrine disorders |  |
-| Uncommon | Adrenal insufficiency |
-| Rare | Hyperthyroidism, hypothyroidism |
-| Metabolism and nutrition system disorders |  |
-| Common | Hypoglycaemia, hypokalaemia |
-| Infections and infestation |  |
-| Common | Gastroenteritis, influenza-like illness |
-| Rare | Pseudomembranous colitis |
-| Vascular disorders |  |
-| Common | Hypotension, thrombophlebitis, phlebitis |
-| Rare | Lymphangitis |
-| General disorders and administrative site conditions |  |
-| Very common | Pyrexia |
-| Common | Injection site reaction / inflammation, chills, asthenia, |
-| Immune system disorders |  |
-| Common | Sinusitis |
-| Uncommon | Anaphylactoid reaction, hypersensitivity |
-| Hepato-biliary disorders |  |
-| Common | Jaundice, cholestatic jaundice |
-| Uncommon | Hepatic failure, hepatitis, hepatomegaly, cholecystitis, cholelithiasis |
-| Rare | Hepatic coma |
-| Psychiatric disorders |  |
-| Common | Depression, anxiety, hallucination |
-| Rare | Insomnia |
-
-Visual disturbances
-Voriconazole treatment-related visual disturbances were very common.
-
-Dermatological reactions
-Dermatological reactions were common in patients treated with voriconazole in clinical trials, but these patients had serious underlying diseases and were receiving multiple concomitant medications.
-
-Liver Function Tests
-The overall incidence of clinically significant transaminase abnormalities in the voriconazole clinical programme was 13.4 % (200/1493) of subjects treated with voriconazole.
-
-Paediatric Use
-The safety of voriconazole was investigated in 245 paediatric patients aged 2 to <12 years who were treated with voriconazole in pharmacokinetic studies (87 paediatric patients) and in compassionate use programs (158 paediatric patients).
-
-[VFEND 200 mg powder for solution for infusion]
-
-extrapyramidal symptoms, somnolence during infusion
-
+| Very common | Headache |
+| Common | Dizziness, confusional state, tremor, agitation, paraesthesia |
+| Uncommon | Brain oedema, ataxia, diplopia, vertigo, hypoaesthesia |
+| Rare | Convulsion, encephalopathy, Guillain-Barre syndrome, extrapyramidal symptoms |
+| Eye disorders |  |
+| Very common | Visual disturbances (including blurred vision (see Section 4.4), chromotopsia and photophobia) |
+| Uncommon | Papilloedema (see Section 4.4), optic nerve disorder (including optic neuritis, see Section 4.4), nystagmus, scleritis, blepharitis |
+| Rare | Retinal haemorrhage, optic atrophy, oculogyration, corneal opacity |
+| Ear and labyrinth disorders |  |
+| Rare | Hypoacusis, tinnitus |
+| Respiratory, thoracic and mediastinal disorders |  |
+| Common | Acute respiratory distress syndrome, pulmonary oedema, respiratory distress, chest pain |
+| Gastrointestinal disorders |  |
+| Very common | Abdominal pain, nausea, vomiting, diarrhoea |
+| Uncommon | Pancreatitis, peritonitis, duodenitis, gingivitis, glossitis, swollen tongue, dyspepsia, constipation |
+| Rare | Dysgeusia |
 | Renal and urinary disorders |  |
-| --- | --- |
+
 | Common | Renal failure acute, haematuria |
+| --- | --- |
 | Uncommon | Nephritis, proteinuria |
 | Rare | Renal tubular necrosis |
 | Skin and subcutaneous tissue disorders |  |
@@ -247,11 +192,96 @@ extrapyramidal symptoms, somnolence during infusion
 | Common | Depression, anxiety, hallucination |
 | Rare | Insomnia |
 
-Infusion-Related Reactions
-During infusion of the intravenous formulation of voriconazole in healthy subjects, anaphylactoid-type reactions, including flushing, fever, sweating, tachycardia, chest tightness, dyspnoea, faintness, nausea, pruritus and rash have occurred.
+[VFEND 200 mg powder for solution for infusion]
+
+Nervous system disorders
+Very common Headache
+Common Dizziness, confusional state, tremor, agitation, paraesthesia
+Uncommon Brain oedema, ataxia, diplopia, vertigo, hypoaesthesia
+
+| Rare | Convulsion, encephalopathy, Guillain-Barre syndrome, extrapyramidal symptoms, somnolence during infusion |
+| --- | --- |
+| Eye disorders |  |
+| Very common | Visual disturbances (including blurred vision (see Section 4.4), chromotopsia and photophobia) |
+| Uncommon | Papilloedema (se Section 4.4), optic nerve disorder (including optic neuritis, see Section 4.4), nystagmus, scleritis, blepharitis |
+| Rare | Retinal haemorrhage, optic atrophy, oculogyration, corneal opacity |
+| Ear and labyrinth disorders |  |
+| Rare | Hypoacusis, tinnitus |
+| Respiratory, thoracic and mediastinal disorders |  |
+
+| Common | Acute respiratory distress syndrome, pulmonary oedema, respiratory distress, chest pain |
+| --- | --- |
+| Gastrointestinal disorders |  |
+| Very common | Abdominal pain, nausea, vomiting, diarrhoea |
+| Uncommon | Pancreatitis, peritonitis, duodenitis, gingivitis, glossitis, swollen tongue, dyspepsia, constipation |
+| Rare | Dysgeusia |
+| Renal and urinary disorders |  |
+| Common | Renal failure acute, haematuria |
+| Uncommon | Nephritis, proteinuria |
+| Rare | Renal tubular necrosis |
+| Skin and subcutaneous tissue disorders |  |
+| Very common | Rash |
+| Common | Exfoliative dermatitis, face oedema, photosensitivity reaction, maculo-papular rash, macular rash, papular rash, cheilitis, pruritus, alopecia, erythema |
+| Uncommon | Stevens-Johnson syndrome, angioneurotic oedema, allergic dermatitis, urticaria, drug hypersensitivity, psoriasis |
+| Rare | Toxic epidermal necrolysis, erythema multiforme, discoid lupus erythematosis |
+| Musculoskeletal and connective tissue disorders |  |
+| Common | Back pain |
+| Uncommon | Arthritis |
+| Rare | Hypertonia |
+| Endocrine disorders |  |
+| Uncommon | Adrenal insufficiency |
+| Rare | Hyperthyroidism, hypothyroidism |
+| Metabolism and nutrition system disorders |  |
+| Common | Hypoglycaemia, hypokalaemia |
+| Infections and infestation |  |
+| Common | Gastroenteritis, influenza-like illness |
+| Rare | Pseudomembranous colitis |
+| Vascular disorders |  |
+| Common | Hypotension, thrombophlebitis, phlebitis |
+| Rare | Lymphangitis |
+| General disorders and administrative site conditions |  |
+| Very common | Pyrexia |
+| Common | Injection site reaction / inflammation, chills, asthenia, |
+| Immune system disorders |  |
+| Common | Sinusitis |
+| Uncommon | Anaphylactoid reaction, hypersensitivity |
+| Hepato-biliary disorders |  |
+| Common | Jaundice, cholestatic jaundice |
+
+| Uncommon | Hepatic failure, hepatitis, hepatomegaly, cholecystitis, cholelithiasis |
+| --- | --- |
+| Rare | Hepatic coma |
+| Psychiatric disorders |  |
+| Common | Depression, anxiety, hallucination |
+| Rare | Insomnia |
+
+Visual disturbances: In clinical trials, voriconazole treatment-related visual disturbances were very common.
+
+Infusion-Related Reactions During infusion of the intravenous formulation of voriconazole in healthy subjects, anaphylactoid-type reactions, including flushing, fever, sweating, tachycardia, chest tightness, dyspnoea, faintness, nausea, pruritus and rash have occurred.
 Symptoms appeared immediately upon initiating the infusion (see also section 4.4).
 
 [VFEND 40 mg/ml powder for oral suspension]
+
+Rare Convulsion, encephalopathy, Guillain-Barre syndrome,
+extrapyramidal symptoms
+Eye disorders
+Visual disturbances (including blurred vision (see Section
+Very common
+4.4), chromotopsia and photophobia)
+Uncommon Papilloedema (see Section 4.4), optic nerve disorder
+(including optic neuritis, see Section 4.4), nystagmus,
+scleritis, blepharitis
+
+| Rare | Retinal haemorrhage, optic atrophy, oculogyration, corneal opacity |
+| --- | --- |
+| Ear and labyrinth disorders |  |
+| Rare | Hypoacusis, tinnitus |
+| Respiratory, thoracic and mediastinal disorders |  |
+| Common | Acute respiratory distress syndrome, pulmonary oedema, respiratory distress, chest pain |
+| Gastrointestinal disorders |  |
+| Very common | Abdominal pain, nausea, vomiting, diarrhoea |
+| Uncommon | Pancreatitis, peritonitis, duodenitis, gingivitis, glossitis, swollen tongue, dyspepsia, constipation |
+| Rare | Dysgeusia |
 
 Altered taste perception
 In the combined data from three bioequivalence studies using the powder for oral suspension formulation, treatment related taste perversion was recorded in 12 (14 %) of subjects.

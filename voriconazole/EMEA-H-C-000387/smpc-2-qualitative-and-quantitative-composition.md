@@ -13,10 +13,10 @@ Excipient: lactose monohydrate 253.675 mg
 
 Each ml contains 10 mg of voriconazole after reconstitution (see section 6.6) - once reconstituted further dilution is required before administration.
 Each vial contains 200 mg of voriconazole.
-Excipient: each vial contains 217.6 mg sodium For a full list of excipients, see section 6.1.
+Excipient: each vial contains 217.6 mg sodium
 
 [VFEND 40 mg/ml powder for oral suspension]
 
 Each ml of oral suspension contains 40 mg of voriconazole when reconstituted with water (see section 6.6).
 Each bottle contains 3 g of voriconazole.
-Excipient: Each ml of suspension contains 0.54 g of sucrose For a full list of excipients, see section 6.1.
+Excipient: Each ml of suspension contains 0.54 g of sucrose.

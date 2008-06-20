@@ -15,6 +15,7 @@ It is recommended that a standard 20 ml (non-automated) syringe be used to ensur
 This medicinal product is for single use only and any unused solution should be discarded and only clear solutions without particles should be used.
 
 For administration, the required volume of the reconstituted concentrate is added to a recommended compatible infusion solution (detailed below) to obtain a final voriconazole solution containing 0.5-5 mg/ml.
+
 Required Volumes of 10 mg/ml VFEND Concentrate
 
 | Body Weight (kg) | Volume of VFEND Concentrate (10 mg/ml) required for: |  |  |  |
@@ -56,6 +57,7 @@ The compatibility of voriconazole with diluents other than described above or in
 [VFEND 40 mg/ml powder for oral suspension]
 
 Any remaining suspension should be discarded 14 days after constitution.
+
 Constitution instructions:
 
 1.
