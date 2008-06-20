@@ -6,7 +6,7 @@ Adverse drug reactions reported with natalizumab with an incidence of 0.5% great
 The reactions are reported as MedDRA preferred terms under the MedDRA primary system organ class.
 Frequencies were defined as follows:
 
-Common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
+Common (� 1/100 to < 1/10), uncommon (� 1/1,000 to < 1/100).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -77,6 +77,10 @@ In pivotal clinical trials, two cases, including one fatality, occurred in MS pa
 In another trial, one patient with Crohn’s disease, who had a long history of treatment with immunosuppressants and associated lymphopenia also developed PML and died.
 
 Although each case of PML occurred in patients either with concomitant use of immune modulating drugs or with evidence of immunosuppression, it remains possible that the risk of PML is associated with natalizumab alone.
+
+Hepatic Events
+
+Spontaneous cases of serious liver injuries, increased liver enzymes, hyperbilirubinaemia have been reported during the post marketing phase (see section 4.4).
 
 Malignancies
 

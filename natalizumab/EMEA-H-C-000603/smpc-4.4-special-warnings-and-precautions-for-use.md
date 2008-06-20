@@ -69,8 +69,16 @@ In these cases the presence of antibodies should be evaluated and if these remai
 
 Since patients who have received an initial short exposure to TYSABRI and then had an extended period without treatment are more at risk for hypersensitivity upon redosing, the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after 6 weeks treatment should not be resumed.
 
-Stopping TYSABRI therapy
+Hepatic Events
 
+Spontaneous serious adverse reactions of liver injury have been reported during the post marketing phase.
+These liver injuries may occur at any time during treatment, even after the first dose.
+In some instances, the reaction reoccurred when TYSABRI was reintroduced.
+Some patients with a past medical history of an abnormal liver test have experienced an exacerbation of abnormal liver test while on TYSABRI.
+Patients should be monitored as appropriate for impaired liver function, and be instructed to contact their physician in case signs and symptoms suggestive of liver injury occur, such as jaundice and vomiting.
+In cases of significant liver injury TYSABRI should be discontinued.
+
+Stopping TYSABRI therapy
 If a decision is made to stop treatment with natalizumab, the physician needs to be aware that natalizumab remains in the blood, and has pharmacodynamic effects (e.g increased lymphocyte counts) for approximately 12 weeks following the last dose.
 Starting other therapies during this interval will result in a concomitant exposure to natalizumab.
 For drugs such as interferon and glatiramer acetate, concomitant exposure of this duration was not associated with safety risks in clinical trials.
