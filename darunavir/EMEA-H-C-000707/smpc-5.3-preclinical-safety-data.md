@@ -23,6 +23,13 @@ The increased exposure was likely at least partly due to immaturity of the drug-
 No treatment related mortalities were noted in juvenile rats dosed at 1000 mg/kg darunavir (single dose) on day 26 of age or at 500 mg/kg (repeated dose) from day 23 to 50 of age, and the exposures and toxicity profile were comparable to those observed in adult rats.
 In humans, the activity of drug-metabolising enzymes approaches adult values by 1 to 3 years of age.
 
-Long-term carcinogenicity studies of darunavir in rodents have not been completed.
-Darunavir, however, was tested negative in the in vitro Ames reverse mutation assay and in vitro chromosomal aberration assay in human lymphocyte, both tested in the absence and presence of metabolic activation system.
-Darunavir did not induce chromosomal damage in the in vivo micronucleus test in mice up to exposure levels that were maximally similar to the human therapeutic exposure.
+Darunavir was evaluated for carcinogenic potential by oral gavage administration to mice and rats up to 104 weeks.
+Daily doses of 150, 450 and 1000 mg/kg were administered to mice and doses of 50, 150 and 500 mg/kg were administered to rats.
+Dose-related increases in the incidences of hepatocellular adenomas and carcinomas were observed in males and females of both species.
+Thyroid follicular cell adenomas were noted in male rats.
+Administration of darunavir did not cause a statistically significant increase in the incidence of any other benign or malignant neoplasm in mice or rats.
+The observed hepatocellular and thyroid tumours in rodents are considered to be of limited relevance to humans.
+Repeated administration of darunavir to rats caused hepatic microsomal enzyme induction and increased thyroid hormone elimination, which predispose rats, but not humans, to thyroid neoplasms.
+At the highest tested doses, the systemic exposures (based on AUC) to darunavir were between 0.4- and 0.7-fold (mice) and 0.7- and 1-fold (rats), relative to those observed in humans at the recommended therapeutic doses.
+After 2 years administration of darunavir at exposures at or below the human exposure, kidney changes were observed in mice (nephrosis) and rats (chronic progressive nephropathy).
+Darunavir was not mutagenic or genotoxic in a battery of in vitro and in vivo assays including bacterial reverse mutation (Ames), chromosomal aberration in human lymphocytes and in vivo micronucleus test in mice.
