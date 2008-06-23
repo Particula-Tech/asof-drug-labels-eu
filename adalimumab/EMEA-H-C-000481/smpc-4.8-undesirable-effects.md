@@ -118,8 +118,9 @@ Undesirable Effects in Postmarketing Surveillance and Phase IV Clinical Studies
 
 | System Organ Class | Adverse Reaction |
 | --- | --- |
-| Hepatobiliary Disorders | reactivation of hepatitis B |
-| Nervous system disorders | demyelinating disorders (e.g. optic neuritis) |
+| Gastrointestinal disorders | intestinal perforation |
+| Hepatobiliary disorders | reactivation of hepatitis B |
+| Nervous system disorders | demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) |
 | Respiratory, thoracic and mediastinal disorders | interstitial lung disease, including pulmonary fibrosis |
 | Skin and subcutaneous tissue disorders | cutaneous vasculitis |
 | Immune system disorders | anaphylaxis |
@@ -237,6 +238,15 @@ common≥ 1/100 to < 1/10; uncommon≥ 1/1000 to < 1/100 and rare ≥ 1/10,000 t
 
 The infections consisted primarily of nasopharyngitis, upper respiratory tract infection, and sinusitis.
 Most patients continued on Humira after the infection resolved.
+
+| System Organ Class | Adverse Reaction |
+| --- | --- |
+| Gastrointestinal disorders | intestinal perforation |
+| Hepatobiliary disorders | reactivation of hepatitis B |
+| Nervous system disorders | demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome ) |
+| Respiratory, thoracic and mediastinal disorders | interstitial lung disease, including pulmonary fibrosis |
+| Skin and subcutaneous tissue disorders | cutaneous vasculitis |
+| Immune system disorders | anaphylaxis |
 
 [Humira 40 mg solution for injection in pre-filled pen]
 
