@@ -13,7 +13,6 @@ It is essential for patients with pre-existing or gestational diabetes to mainta
 Insulin requirements may decrease during the first trimester and generally increase during the second and third trimesters.
 Immediately after delivery, insulin requirements decline rapidly (increased risk of hypoglycaemia).
 Careful monitoring of glucose control is essential.
-
 Lactation
 Lactating women may require adjustments in insulin dose and diet.
 

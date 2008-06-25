@@ -1,12 +1,12 @@
 # 3. PHARMACEUTICAL FORM
 
-Solution for injection.
+Solution for injection in a vial.
 
-Lantus is a clear colourless solution.
+Clear colourless solution.
 
 [Lantus 100 Units/ml solution for injection in a cartridge.]
 
-(all sentences already above)
+Solution for injection in a cartridge.
 
 [Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
 

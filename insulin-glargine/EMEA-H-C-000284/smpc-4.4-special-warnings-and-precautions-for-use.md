@@ -3,14 +3,14 @@
 Lantus is not the insulin of choice for the treatment of diabetic ketoacidosis.
 Instead, regular insulin administered intravenously is recommended in such cases.
 
-Safety and efficacy of Lantus has been established in adolescents and children of 6 years and above.
+Safety and efficacy of Lantus have been established in adolescents and children of 6 years and above.
 
 Due to limited experience the efficacy and safety of Lantus could not be assessed in children below 6 years of age, in patients with impaired liver function or in patients with moderate/severe renal impairment (see section 4.2).
 
 In patients with renal impairment, insulin requirements may be diminished due to reduced insulin metabolism.
 In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
-In patients with severe hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
 
+In patients with severe hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
 In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic episodes, the patient's adherence to the prescribed treatment regimen, injection sites and proper injection technique and all other relevant factors must be reviewed before dose adjustment is considered.
 
 Switching a patient to another type or brand of insulin should be done under strict medical supervision and may require change in dose.

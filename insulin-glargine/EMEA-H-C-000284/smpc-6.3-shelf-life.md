@@ -1,19 +1,21 @@
 # 6.3 Shelf-life
 
-Unopened/Not in-use vials:
 2 years.
-Opened/In-use vials:
-Shelf-life after first opening of the vial: the product may be stored for a maximum of 4 weeks not above 25°C.
-Keep in the outer carton.
 
-It is recommended that the date of first withdrawal from the vial be noted on the label.
+Shelf-life after first use of the vial
+The product may be stored for a maximum of 4 weeks not above 25°C away from direct heat or direct light.
+Keep the vial in the outer carton in order to protect from light.
+
+It is recommended that the date of the first use from the vial be noted on the label.
 
 [Lantus 100 Units/ml solution for injection in a cartridge.]
 
 3 years.
 
-Shelf life after first use of the cartridge: the product may be stored for a maximum of 4 weeks not above 25°C.
+Shelf life after first use of the cartridge
 The pen containing a cartridge must not be stored in the refrigerator.
+
+The pen cap must be put back on the pen after each injection in order to protect from light.
 
 [Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
 
@@ -21,11 +23,10 @@ The pen containing a cartridge must not be stored in the refrigerator.
 
 [Lantus 100 Units/ml solution for injection in a pre-filled pen]
 
-Shelf life for pens in use: The product may be stored for a maximum of 4 weeks not above 25°C.
+Shelf life after first use of the pen
 Pens in use must not be stored in the refrigerator.
+The pen cap must put back on the pen after each injection in order to protect from light.
 
 [Lantus 100 Units/ml solution for injection in a pre-filled pen (SmPC 5)]
 
-Shelf life for pens after first use: the product may be stored for a maximum of 4 weeks not above 25°C.
-Do not refrigerate.
-Keep the pen protected from light.
+(all sentences already above)

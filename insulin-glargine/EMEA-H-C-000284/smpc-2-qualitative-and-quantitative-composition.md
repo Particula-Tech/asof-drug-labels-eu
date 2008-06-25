@@ -1,16 +1,16 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each ml of the solution for injection contains 3.64 mg of the active substance insulin glargine, corresponding to 100 Units insulin glargine.
+Each ml contains 100 Units insulin glargine (equivalent to 3.64 mg).
 
-Each vial contains 5 ml, equivalent to 500 Units, or 10 ml, equivalent to 1000 Units.
+Each vial contains 5 ml of solution for injection, equivalent to 500 Units, or 10 ml of solution for injection, equivalent to 1000 Units.
 
-Insulin glargine is an insulin analogue produced by recombinant DNA technology using Escherichia coli (K 12 strains).
+Insulin glargine is produced by recombinant DNA technology in Escherichia coli .
 
 For a full list of excipients, see section 6.1.
 
 [Lantus 100 Units/ml solution for injection in a cartridge.]
 
-Each cartridge contains 3 ml, equivalent to 300 Units.
+Each cartridge contains 3 ml of solution for injection, equivalent to 300 Units.
 
 [Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
 
@@ -18,7 +18,7 @@ Each cartridge contains 3 ml, equivalent to 300 Units.
 
 [Lantus 100 Units/ml solution for injection in a pre-filled pen]
 
-Each pen contains 3 ml, equivalent to 300 Units.
+Each pen contains 3 ml of solution for injection, equivalent to 300 Units.
 
 [Lantus 100 Units/ml solution for injection in a pre-filled pen (SmPC 5)]
 

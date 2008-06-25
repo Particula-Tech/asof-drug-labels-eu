@@ -2,7 +2,7 @@
 
 Hypoglycaemia, in general the most frequent undesirable effect of insulin therapy, may occur if the insulin dose is too high in relation to the insulin requirement.
 
-The following related adverse reactions from clinical investigations were listed below by system organ class and in order of decreasing incidence (very common: >1/10; common: >1/100, <1/10; uncommon: > 1/1,000, < 1/100; rare: >1/10,000, <1/1,000; very rare: < 1/10,000).
+The following related adverse reactions from clinical investigations were listed below by system organ class and in order of decreasing incidence (very common: ≥1/10; common: ≥1/100 to <1/10; uncommon: ≥ 1/1,000 to < 1/100; rare: ≥1/10,000 to <1/1,000; very rare: < 1/10,000).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -62,13 +62,13 @@ Rarely, insulin may cause sodium retention and oedema particularly if previously
 
 Paediatric population
 
-In general, the safety profile for patients � 18 years of age is similar to the safety profile for patients > 18 years.
-The adverse event reports received from Post Marketing Surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) in patients � 18 years of age than in patients > 18 years.
+In general, the safety profile for patients ≤ 18 years of age is similar to the safety profile for patients > 18 years.
+The adverse event reports received from Post Marketing Surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) in patients ≤ 18 years of age than in patients > 18 years.
 No clinical study safety data are available in patients below 6 years of age.
 
 [Lantus 100 Units/ml solution for injection in a cartridge.]
 
-(all sentences already above)
+The adverse event reports received from Post Marketing Surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) in patients ≤18 years of age than in patients > 18 years.
 
 [Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
 
@@ -80,4 +80,4 @@ No clinical study safety data are available in patients below 6 years of age.
 
 [Lantus 100 Units/ml solution for injection in a pre-filled pen (SmPC 5)]
 
-Uncommon:Lipoatrophy
+(all sentences already above)
