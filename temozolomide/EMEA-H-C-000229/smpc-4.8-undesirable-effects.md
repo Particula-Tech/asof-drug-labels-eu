@@ -10,7 +10,11 @@ Table 4 provides treatment emergent adverse events in patients with newly diagno
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| Table 4: Temodal and radiotherapy: Treatment-emergent events during concomitant and monotherapy treatment Very Common (> 1/10); Common (> 1/100, < 1/10); Uncommon (> 1/1,000, < 1/100) CIOMS III |  |  |
+Table 4: Temodal and radiotherapy:
+Treatment-emergent events during concomitant and monotherapy treatment
+Very Common (≥ 1/10); Common (≥ 1/100, < 1/10); Uncommon (≥ 1/1,000, < 1/100)
+
+| CIOMS III |  |  |
 | --- | --- | --- |
 | Body System | TMZ + concomitant radiotherapy n=288* | TMZ monotherapy n=224 |
 | Infections and infestations Common: | Infection, herpes simplex, wound infection, pharyngitis, candidiasis oral | Infection, candidiasis oral |
@@ -43,7 +47,8 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Uncommon: | Skin exfoliation, photosensitivity reaction, pigmentation abnormal | Erythema, pigmentation abnormal, sweating increased |
 | Musculoskeletal and connective tissue disorders Common: | Muscle weakness, arthralgia | Muscle weakness, arthralgia, musculoskeletal pain, myalgia |
 | Uncommon: | Myopathy, back pain, musculoskeletal pain, myalgia | Myopathy, back pain |
-| Renal and urinary disorders Common: | Micturition frequency, urinary incontinence | Urinary incontinence |
+| Renal and urinary disorders |  |  |
+| Common: | Micturition frequency, urinary incontinence | Urinary incontinence |
 | Uncommon: |  | Dysuria |
 | Reproductive system and breast disorders Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
 | General disorders and administration site conditions Very Common: | Fatigue | Fatigue |
@@ -57,6 +62,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 Laboratory results: Myelosuppression (neutropenia and thrombocytopenia), which is known dose limiting toxicity for most cytotoxic agents, including temozolomide, was observed.
 When laboratory abnormalities and adverse events were combined across concomitant and monotherapy treatment phases, Grade 3 or Grade 4 neutrophil abnormalities including neutropenic events were observed in 8 % of the patients.
 Grade 3 or Grade 4 thrombocyte abnormalities, including thrombocytopenic events were observed in 14 % of the patients who received Temodal.
+
 Recurrent or progressive malignant glioma
 
 In clinical trials, the most frequently occurring treatment-related undesirable effects were gastrointestinal disturbances, specifically nausea (43 %) and vomiting (36 %).
@@ -67,7 +73,7 @@ Table 5 includes undesirable effects reported during clinical trials for recurre
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| Table 5. Treatment related undesirable effects: Recurrent or progressive malignant glioma Very common (>1/10); Common (>1/100, <1/10); Uncommon (>1/1,000, <1/100); Rare (>1/10,000, <1/1,000); Very rare (<1/10,000) (CIOMS III ) |  |
+| Table 5. Treatment related undesirable effects: Recurrent or progressive malignant glioma Very common (≥1/10); Common (>1/100, <1/10); Uncommon (>1/1,000, <1/100); Rare (>1/10,000, <1/1,000); Very rare (<1/10,000) (CIOMS III ) |  |
 | --- | --- |
 | Infections and infestations Rare: | Opportunistic infections, including PCP |
 | Blood and lymphatic system disorders Very common: Uncommon: | Neutropenia or lymphopenia (grade 3-4), thrombocytopenia (grade 3-4) Pancytopenia, anaemia (grade 3-4), leukopenia |
@@ -95,6 +101,107 @@ Prolonged pancytopenia, which may result in aplastic anaemia has been reported v
 Cases of toxic epidermal necrolysis and Stevens-Johnson syndrome have been reported very rarely.
 
 [Temodal 20 mg hard capsules]
+
+Very Common (> 1/10); Common (> 1/100, < 1/10); Uncommon (> 1/1,000, < 1/100)
+
+| CIOMS III |  |  |
+| --- | --- | --- |
+| Body System | TMZ + concomitant radiotherapy n=288* | TMZ monotherapy n=224 |
+| Infections and infestations Common: | Infection, herpes simplex, wound infection, pharyngitis, candidiasis oral | Infection, candidiasis oral |
+| Uncommon: |  | Herpes simplex, Herpes zoster, influenza–like symptoms |
+| Blood and lymphatic system disorders Common: | Neutropenia, thrombocytopenia, lymphopenia, leukopenia | Febril neutropenia, thrombocytopenia, anaemia, leukopenia |
+| Uncommon: | Febrile neutropenia, anaemia | Lymphopenia, petechiae |
+| Endocrine disorders Uncommon: | Cushingoid | Cushingoid |
+| Metabolism and nutrition disorders Very Common: | Anorexia | Anorexia |
+| Common: | Hyperglycaemia, weight decreased | Weight decreased |
+| Uncommon: | Hypokalemia, alkaline phosphatase increased, weight increased | Hyperglycaemia, weight increased |
+| Psychiatric disorders Common: | Anxiety, emotional lability, insomnia | Anxiety, depression, emotional lability, insomnia |
+| Uncommon: | Agitation, apathy, behaviour disorder, depression, hallucination | Hallucination, amnesia |
+| Nervous system disorders Very Common: | Headache | Convulsions, headache |
+| Common: | Convulsions, consciousness decreased, somnolence, aphasia, balance impaired, dizziness, confusion, memory impairment, concentration impaired, neuropathy, paresthesia, speech disorder, tremor | Hemiparesis, aphasia, balance impaired, somnolence, confusion, dizziness, memory impairment, concentration impaired, dysphasia, neurological disorder (NOS), neuropathy, peripheral neuropathy, paresthesia, speech disorder, tremor |
+| Uncommon: | Status epilepticus, extrapyramidal disorder, hemiparesis, ataxia, cognition impaired, dysphasia, gait abnormal, hyperesthesia, hypoesthesia, neurological disorder (NOS), peripheral neuropathy | Hemiplegia, ataxia, coordination abnormal, gait abnormal, hyperesthesia, sensory disturbance |
+| Eye disorders Common: | Vision blurred | Visual field defect, vision blurred, diplopia |
+| Uncommon: | Hemianopia, visual acuity reduced, vision disorder, visual field defect, eye pain | Visual acuity reduced, eye pain, eyes dry |
+| Ear and labyrinth disorders Common: | Hearing impairment | Hearing impairment, tinnitus |
+| Uncommon: | Otitis media, tinnitus, hyperacusis, earache | Deafness, vertigo, earache |
+| Cardiac disorders Uncommon: | Palpitation |  |
+| Vascular disorders Common: | Haemorrhage, oedema, oedema leg | Haemorrhage, deep venous thrombosis, oedema leg |
+| Uncommon: | Cerebral haemorrhage, hypertension | Embolism pulmonary, oedema, oedema peripheral |
+| Respiratory, thoracic and mediastinal disorders Common: | Dyspnoea, coughing | Dyspnoea, coughing |
+| Uncommon: | Pneumonia, upper respiratory infection, nasal congestion | Pneumonia, sinusitis, upper respiratory infection, bronchitis |
+| Gastrointestinal disorders Very Common: | Constipation, nausea, vomiting | Constipation, nausea, vomiting |
+| Common: | Stomatitis, diarrhoea, abdominal pain, dyspepsia, dysphagia | Stomatitis, diarrhoea, dyspepsia, dysphagia, mouth dry |
+| Uncommon: |  | Abdominal distension, fecal incontinence, gastrointestinal disorder (NOS), gastroenteritis, haemorrhoids |
+| Skin and subcutaneous tissue disorders Very Common: | Rash, alopecia | Rash, alopecia |
+| Common: | Dermatitis, dry skin, erythema, pruritus | Dry skin, pruritus |
+| Uncommon: | Skin exfoliation, photosensitivity reaction, pigmentation abnormal | Erythema, pigmentation abnormal, sweating increased |
+| Musculoskeletal and connective tissue disorders Common: | Muscle weakness, arthralgia | Muscle weakness, arthralgia, musculoskeletal pain, myalgia |
+| Uncommon: | Myopathy, back pain, musculoskeletal pain, myalgia | Myopathy, back pain |
+| Renal and urinary disorders Common: | Micturition frequency, urinary incontinence | Urinary incontinence |
+| Uncommon: |  | Dysuria |
+| Reproductive system and breast disorders Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
+| General disorders and administration site conditions Very Common: | Fatigue | Fatigue |
+| Common: | Allergic reaction, fever, radiation injury, face oedema, pain, taste perversion | Allergic reaction, fever, radiation injury, pain, taste perversion |
+| Uncommon: | Asthenia, flushing, hot flushes, condition aggravated, rigors, tongue discolouration, parosmia, thirst | Asthenia, face oedema, pain, condition aggravated, rigors, tooth disorder, taste perversion |
+| Investigations Common: | ALT increased | ALT increased |
+| Uncommon: | Hepatic enzymes increased, Gamma GT increased, AST increased |  |
+
+| Table 5. Treatment related undesirable effects: Recurrent or progressive malignant glioma Very common (>1/10); Common (>1/100, <1/10); Uncommon (>1/1,000, <1/100); Rare (>1/10,000, <1/1,000); Very rare (<1/10,000) (CIOMS III ) |  |
+| --- | --- |
+| Infections and infestations Rare: | Opportunistic infections, including PCP |
+| Blood and lymphatic system disorders Very common: Uncommon: | Neutropenia or lymphopenia (grade 3-4), thrombocytopenia (grade 3-4) Pancytopenia, anaemia (grade 3-4), leukopenia |
+| Metabolism and nutrition disorders Very common: Common: | Anorexia Weight decrease |
+| Nervous system disorders Very common: Common: | Headache Somnolence, dizziness, paresthesia |
+| Respiratory, thoracic and mediastinal disorders Common: | Dyspnoea |
+| Gastrointestinal disorders Very common: Common: | Vomiting, nausea, constipation Diarrhoea, abdominal pain, dyspepsia |
+| Skin and subcutaneous tissue disorders Common: Very rare: | Rash, pruritus, alopecia Erythema multiforme, erythroderma, urticaria, exanthema |
+| General disorders and administration site conditions Very common: Common: Very rare: | Fatigue Fever, asthenia, rigors, malaise, pain, taste perversion Allergic reactions, including anaphylaxis, angioedema |
+
+[Temodal 100 mg hard capsules]
+
+| CIOMS III |  |  |
+| --- | --- | --- |
+| Body System | TMZ + concomitant radiotherapy n=288* | TMZ monotherapy n=224 |
+| Infections and infestations Common: | Infection, herpes simplex, wound infection, pharyngitis, candidiasis oral | Infection, candidiasis oral |
+| Uncommon: |  | Herpes simplex, Herpes zoster, influenza–like symptoms |
+| Blood and lymphatic system disorders Common: | Neutropenia, thrombocytopenia, lymphopenia, leukopenia | Febril neutropenia, thrombocytopenia, anaemia, leukopenia |
+| Uncommon: | Febrile neutropenia, anaemia | Lymphopenia, petechiae |
+| Endocrine disorders Uncommon: | Cushingoid | Cushingoid |
+| Metabolism and nutrition disorders Very Common: | Anorexia | Anorexia |
+| Common: | Hyperglycaemia, weight decreased | Weight decreased |
+| Uncommon: | Hypokalemia, alkaline phosphatase increased, weight increased | Hyperglycaemia, weight increased |
+| Psychiatric disorders Common: | Anxiety, emotional lability, insomnia | Anxiety, depression, emotional lability, insomnia |
+| Uncommon: | Agitation, apathy, behaviour disorder, depression, hallucination | Hallucination, amnesia |
+| Nervous system disorders Very Common: | Headache | Convulsions, headache |
+| Common: | Convulsions, consciousness decreased, somnolence, aphasia, balance impaired, dizziness, confusion, memory impairment, concentration impaired, neuropathy, paresthesia, speech disorder, tremor | Hemiparesis, aphasia, balance impaired, somnolence, confusion, dizziness, memory impairment, concentration impaired, dysphasia, neurological disorder (NOS), neuropathy, peripheral neuropathy, paresthesia, speech disorder, tremor |
+| Uncommon: | Status epilepticus, extrapyramidal disorder, hemiparesis, ataxia, cognition impaired, dysphasia, gait abnormal, hyperesthesia, hypoesthesia, neurological disorder (NOS), peripheral neuropathy | Hemiplegia, ataxia, coordination abnormal, gait abnormal, hyperesthesia, sensory disturbance |
+| Eye disorders Common: | Vision blurred | Visual field defect, vision blurred, diplopia |
+| Uncommon: | Hemianopia, visual acuity reduced, vision disorder, visual field defect, eye pain | Visual acuity reduced, eye pain, eyes dry |
+| Ear and labyrinth disorders Common: | Hearing impairment | Hearing impairment, tinnitus |
+| Uncommon: | Otitis media, tinnitus, hyperacusis, earache | Deafness, vertigo, earache |
+| Cardiac disorders Uncommon: | Palpitation |  |
+| Vascular disorders Common: | Haemorrhage, oedema, oedema leg | Haemorrhage, deep venous thrombosis, oedema leg |
+| Uncommon: | Cerebral haemorrhage, hypertension | Embolism pulmonary, oedema, oedema peripheral |
+| Respiratory, thoracic and mediastinal disorders Common: | Dyspnoea, coughing | Dyspnoea, coughing |
+| Uncommon: | Pneumonia, upper respiratory infection, nasal congestion | Pneumonia, sinusitis, upper respiratory infection, bronchitis |
+| Gastrointestinal disorders Very Common: | Constipation, nausea, vomiting | Constipation, nausea, vomiting |
+| Common: | Stomatitis, diarrhoea, abdominal pain, dyspepsia, dysphagia | Stomatitis, diarrhoea, dyspepsia, dysphagia, mouth dry |
+| Uncommon: |  | Abdominal distension, fecal incontinence, gastrointestinal disorder (NOS), gastroenteritis, haemorrhoids |
+| Skin and subcutaneous tissue disorders Very Common: | Rash, alopecia | Rash, alopecia |
+| Common: | Dermatitis, dry skin, erythema, pruritus | Dry skin, pruritus |
+| Uncommon: | Skin exfoliation, photosensitivity reaction, pigmentation abnormal | Erythema, pigmentation abnormal, sweating increased |
+| Musculoskeletal and connective tissue disorders Common: | Muscle weakness, arthralgia | Muscle weakness, arthralgia, musculoskeletal pain, myalgia |
+| Uncommon: | Myopathy, back pain, musculoskeletal pain, myalgia | Myopathy, back pain |
+| Renal and urinary disorders Common: | Micturition frequency, urinary | Urinary incontinence |
+| Uncommon: | incontinence | Dysuria |
+| Reproductive system and breast disorders Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
+| General disorders and administration site conditions Very Common: | Fatigue | Fatigue |
+| Common: | Allergic reaction, fever, radiation injury, face oedema, pain, taste perversion | Allergic reaction, fever, radiation injury, pain, taste perversion |
+| Uncommon: | Asthenia, flushing, hot flushes, condition aggravated, rigors, tongue discolouration, parosmia, thirst | Asthenia, face oedema, pain, condition aggravated, rigors, tooth disorder, taste perversion |
+| Investigations Common: | ALT increased | ALT increased |
+| Uncommon: | Hepatic enzymes increased, Gamma GT increased, AST increased |  |
+
+[Temodal 140 mg hard capsules]
 
 | Table 4: Temodal and radiotherapy: Treatment-emergent events during concomitant and monotherapy treatment Very Common (> 1/10); Common (> 1/100, < 1/10); Uncommon (> 1/1,000, < 1/100) CIOMS III |  |  |
 | --- | --- | --- |
@@ -138,23 +245,16 @@ Cases of toxic epidermal necrolysis and Stevens-Johnson syndrome have been repor
 | Investigations Common: | ALT increased | ALT increased |
 | Uncommon: | Hepatic enzymes increased, Gamma GT increased, AST increased |  |
 
-[Temodal 100 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 140 mg hard capsules]
-
-(all sentences already above)
-
 [Temodal 180 mg hard capsules]
 
 (all sentences already above)
 
 [Temodal 250 mg hard capsules]
 
-| Table 4: Temodal and radiotherapy: Treatment-emergent events during concomitant and monotherapy treatment Very Common (> 1/10); Common (> 1/100, < 1/10); Uncommon (> 1/1,000, < 1/100) CIOMS III |  |  |
-| --- | --- | --- |
+Very Common (> 1/10); Common (> 1/100, < 1/10); Uncommon (> 1/1,000, < 1/100) CIOMS III
+
 | Body System | TMZ + concomitant radiotherapy n= 288* | TMZ monotherapy n=224 |
+| --- | --- | --- |
 | Infections and infestations Common: | Infection, herpes simplex, wound infection, pharyngitis, candidiasis oral | Infection, candidiasis oral |
 | Uncommon: |  | Herpes simplex, Herpes zoster, influenza–like symptoms |
 | Blood and lymphatic system disorders Common: | Neutropenia, thrombocytopenia, lymphopenia, leukopenia | Febril neutropenia, thrombocytopenia, anaemia, leukopenia |

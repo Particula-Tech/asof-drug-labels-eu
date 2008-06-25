@@ -3,8 +3,10 @@
 Patients who received concomitant Temodal and radiotherapy in a pilot trial for the prolonged 42 day schedule were shown to be at particular risk for developing Pneumocystis carinii pneumonia (PCP).
 Thus, prophylaxis against PCP is required for all patients receiving concomitant Temodal and radiotherapy for the 42 day regimen (with a maximum of 49 days) regardless of lymphocyte count.
 If lymphopenia occurs, they are to continue the prophylaxis until recovery of lymphopenia to grade ≤ 1.
+
 There may be a higher occurrence of PCP when Temodal is administered during a longer dosing regimen.
 However, all patients receiving Temodal, particularly patients receiving steroids, should be observed closely for the development of PCP, regardless of the regimen.
+Very rare cases of myelodysplastic syndrome and secondary malignancies, including myeloid leukaemia, have also been observed.
 
 Anti-emetic therapy: Nausea and vomiting are very commonly associated with Temodal, and guidelines are provided:
 

@@ -64,7 +64,6 @@ b: TMZ is to be discontinued if:
 - the same Grade 3 non-haematological toxicity (except for alopecia, nausea, vomiting) recurs after dose reduction.
 
 Recurrent or progressive malignant glioma:
-
 Adult patients
 A treatment cycle comprises 28 days.
 In patients previously untreated with chemotherapy, Temodal is administered orally at a dose of 200 mg/m2 once daily for the first 5 days followed by a 23 day treatment interruption (total of 28 days).
