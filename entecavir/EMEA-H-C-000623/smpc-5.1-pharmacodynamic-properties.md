@@ -5,7 +5,7 @@ ATC code: J05AF10
 
 Mechanism of action: entecavir, a guanosine nucleoside analogue with activity against HBV polymerase, is efficiently phosphorylated to the active triphosphate (TP) form, which has an intracellular half-life of 15 hours.
 By competing with the natural substrate deoxyguanosine TP, entecavir-TP functionally inhibits the 3 activities of the viral polymerase: (1) priming of the HBV polymerase, (2) reverse transcription of the negative strand DNA from the pregenomic messenger RNA, and (3) synthesis of the positive strand HBV DNA.
-The entecavir-TP Ki for HBV DNA polymerase is 0.0012 µM.
+The entecavir-TP Ki for HBV DNA polymerase is 0.0012 μM.
 Entecavir-TP is a weak inhibitor of cellular DNA polymerases α, β, and δ with Ki values of 18 to 40 µM.
 In addition, high exposures of entecavir had no relevant adverse effects on γ polymerase or mitochondrial DNA synthesis in HepG2 cells (Ki > 160 µM).
 

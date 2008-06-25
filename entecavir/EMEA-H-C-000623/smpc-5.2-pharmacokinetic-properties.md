@@ -27,7 +27,6 @@ Hepatic impairment: pharmacokinetic parameters in patients with moderate or seve
 Renal impairment: entecavir clearance decreases with decreasing creatinine clearance.
 A 4 hour period of haemodialysis removed ≈ 13% of the dose, and 0.3% was removed by CAPD.
 The pharmacokinetics of entecavir following a single 1 mg dose in patients (without chronic hepatitis B infection) are shown in the table below:
-
 Baseline Creatinine Clearance (ml/min)
 
 Unimpaired Mild Moderate Severe Severe Severe

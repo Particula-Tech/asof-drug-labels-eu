@@ -16,6 +16,7 @@ In a separate study wherein entecavir was administered to pregnant lactating rat
 No evidence of genotoxicity was observed in an Ames microbial mutagenicity assay, a mammalian-cell gene mutation assay, and a transformation assay with Syrian hamster embryo cells.
 A micronucleus study and a DNA repair study in rats were also negative.
 Entecavir was clastogenic to human lymphocyte cultures at concentrations substantially higher than those achieved clinically.
+
 Two-year carcinogenicity studies: in male mice, increases in the incidences of lung tumours were observed at exposures ≥ 4 and ≥ 2 times that in humans at 0.5 mg and 1 mg respectively.
 Tumour development was preceded by pneumocyte proliferation in the lung which was not observed in rats, dogs, or monkeys, indicating that a key event in lung tumour development observed in mice likely was species-specific.
 Increased incidences of other tumours including brain gliomas in male and female rats, liver carcinomas in male mice, benign vascular tumours in female mice, and liver adenomas and carcinomas in female rats were seen only at high lifetime exposures.
