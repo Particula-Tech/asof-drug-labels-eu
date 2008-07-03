@@ -4,8 +4,9 @@ The overall incidence of adverse events reported with telmisartan (41.4%) was us
 The incidence of adverse events was not dose related and showed no correlation with gender, age or race of the patients.
 
 The adverse drug reactions listed below have been accumulated from all clinical trials including 5788 hypertensive patients treated with telmisartan.
-Adverse reactions have been ranked under headings of frequency using the following convention:
-very common (≥ 1/10); common (≥ 1/100, <1/10); uncommon (≥ 1/1,000, <1/100); rare (≥ 1/10,000, <1/1,000); very rare (< 1/10,000)
+
+Adverse reactions have been ranked under headings of frequency using the following convention: very common (≥ 1/10); common (≥ 1/100, <1/10); uncommon (≥ 1/1,000, <1/100);
+rare (≥ 1/10,000, <1/1,000); very rare (< 1/10,000)
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 

@@ -1,5 +1,10 @@
 # 4.4 Special warnings and precautions for use
 
+Pregnancy
+Angiotensin II receptor antagonists should not be initiated during pregnancy.
+Unless continued angiotensin II receptor antagonist therapy is considered essential, patients planning pregnancy should be changed to alternative anti-hypertensive treatments which have an established safety profile for use in pregnancy.
+When pregnancy is diagnosed, treatment with angiotensin II receptor antagonists should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
+
 Hepatic impairment:
 Micardis should not be given to patients with cholestasis, biliary obstructive disorders or severe hepatic insufficiency (see section 4.3) since telmisartan is mostly eliminated with the bile.
 These patients can be expected to have reduced hepatic clearance for telmisartan.
@@ -37,6 +42,7 @@ The main risk factors for hyperkalaemia to be considered are:
 Medicinal products or therapeutic class of medicinal products that may provoke hyperkalaemia: salt substitutes containing potassium, potassium-sparing diuretics, ACE inhibitors, angiotensin II receptors antagonists, non steroidal anti-inflammatory drugs (including selective COX-2 inhibitors), heparin, immunosuppressor (cyclosporin or tacrolimus), trimethoprim.
 - Intercurrent events, in particular dehydratation, acute cardiac decompensation, metabolic acidosis, worsening of renal function, sudden worsening of the renal condition (e.g. infectious diseases), cellular lysis (e.g. acute limb ischemia, rhabdomyolysis, extend trauma).
 Close-monitoring of serum potassium in at risk patients is recommended (see section 4.5).
+
 Sorbitol:
 A recommended daily dose of Micardis 20 mg tablets contains 84.5 mg sorbitol.
 Patients with hereditary problems of fructose intolerance should not take Micardis.
@@ -49,6 +55,7 @@ As with any antihypertensive agent, excessive reduction of blood pressure in pat
 [Micardis 40 mg tablets]
 
 - Intercurrent events, in particular dehydratation, acute cardiac decompensation, metabolic acidosis, worsening of renal function, sudden worsening of the renal condition (e.g. infectious diseases), cellular lysis (e.g, acute limb ischemia, rhabdomyolysis, extend trauma).
+
 A recommended daily dose of Micardis 40 mg tablets contains 169 mg sorbitol.
 
 [Micardis 80 mg tablets]

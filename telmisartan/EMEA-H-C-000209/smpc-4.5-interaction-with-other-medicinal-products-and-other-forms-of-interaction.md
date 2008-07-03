@@ -18,7 +18,6 @@ If concomitant use is indicated because of documented hypokalaemia they should b
 Lithium:
 Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors and, rarely, with angiotensin II antagonists.
 If use of the combination proves necessary, careful monitoring of serum lithium levels is recommended.
-
 Concomitant use requiring caution
 
 Non-steroidal anti-inflammatory medicinal products:
