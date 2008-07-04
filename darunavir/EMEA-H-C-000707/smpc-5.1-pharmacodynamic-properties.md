@@ -42,11 +42,13 @@ Entry criteria were the same as and baseline characteristics were comparable to 
 
 The table below shows the efficacy data of the 48-week analyses on the recommended 600 mg dose of PREZISTA co-administered with 100 mg ritonavir b.i.d. from the pooled POWER 1 and POWER 2 trials as well as from the POWER 3 trial.
 
-|  | POWER 1 and POWER 2 pooled data |  |  | POWER 3 |
-| --- | --- | --- | --- | --- |
-| Outcomes at 48 weeks |  |  |  |  |
-| Baseline characteristics |  |  |  |  |
+|  | POWER 1 and POWER 2 pooled data | POWER 3 |
+| --- | --- | --- |
+| Outcomes at 48 weeks |  |  |
+| Baseline characteristics |  |  |
+
 | Mean plasma HIV-1 RNA | 4.61 log10 copies/ml (PREZISTA/ritonavir) 4.49 log10 copies/ml (control) |  |  | 4.58 log10 copies/ml |
+| --- | --- | --- | --- | --- |
 | Median CD4+ cell count | 153 x 106 cells/l (PREZISTA/ritonavir) 163 x 106 cells/l (control) |  |  | 120 x 106 cells/l |
 | Outcomes | PREZISTA/ritonavir 600/100 mg b.i.d. n=131 | Control n=124 | Treatment difference | PREZISTA/ritonavir 600/100 mg b.i.d. n=334 |
 | HIV-1 RNA log10 mean change from baseline (log10 copies/ml)a | -1.69 | -0.37 | 1.32b (1.58; 1.05)f | -1.62 |
@@ -56,6 +58,7 @@ The table below shows the efficacy data of the 48-week analyses on the recommend
 | HIV RNA < 50 copies/mld | 59 (45.0%) | 14 (11.3%) | 33.7% (23.4%; 44.1%)e, f | 155 (46.4%) |
 
 a Non-completer is failure imputation: patients who discontinued prematurely are imputed with a change equal to 0 b P-values < 0.001, based on the ANOVA model c Last Observation Carried Forward imputation d Imputations according to the TLOVR algorithm e Confidence interval around observed difference of response rates; P-values < 0.001, based on the logistic regression model f 95% confidence intervals.
+
 Analyses of data through 96 weeks of treatment in the three POWER trials demonstrated sustained antiretroviral efficacy and immunological benefit.
 Treatment with PREZISTA co-administered with ritonavir (600/100 mg b.i.d.) resulted in 56.5% (POWER 1 and 2) and 52.2% (POWER 3) of responders with a decrease of at least 1 log10 in HIV RNA from baseline, 38.9% (POWER 1 and 2) and 42.1% (POWER 3) of subjects with an HIV RNA level < 50 copies/ml and 49.6% (POWER 1 and 2) and 50.0% (POWER 3) respectively of subjects with an HIV RNA level less than 400 copies/ml.
 The mean decrease in HIV RNA level compared to baseline was 1.58 (POWER 1 and 2) and 1.43 (POWER 3) log10 copies/ml and a mean increase in CD4+ cell count of 133 x 106 cells/l (POWER 1 and 2) and 103 x 106 cells/l (POWER 3) was observed.
@@ -74,7 +77,6 @@ Response to PREZISTA co-administered with ritonavir (600/100 mg b.i.d.) by basel
 | ≥ 4 | -0.46 | 27% 11/41 | 10% 4/41 |
 
 * Number of mutations from the list of mutations associated with a diminished response to PREZISTA/ritonavir (V11I, V32I, L33F, I47V, I50V, I54L or M, G73S, L76V, I84V or L89V)
-
 Baseline darunavir phenotype (shift in susceptibility relative to reference) was shown to be a predictive factor of virologic outcome.
 
 Response to PREZISTA co-administered with ritonavir (600/100 mg b.i.d.) by baseline darunavir phenotype: As treated analysis of POWER 1, 2 and 3.

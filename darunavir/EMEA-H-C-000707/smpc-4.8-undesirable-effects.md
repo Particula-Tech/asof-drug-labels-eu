@@ -11,10 +11,9 @@ The adverse reactions are listed by system organ class (SOC) and frequency.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Frequencies are defined as common (≥ 1/100 to < 1/10) and uncommon (≥ 1/1000 to < 1/100).
 
-SOC Adverse reaction Frequency
-
-| Cardiac disorders | myocardial infarction, angina pectoris, prolonged electrocardiogram QT corrected interval | uncommon |
+| SOC | Adverse reaction | Frequency |
 | --- | --- | --- |
+| Cardiac disorders | myocardial infarction, angina pectoris, prolonged electrocardiogram QT corrected interval | uncommon |
 | Blood and lymphatic system disorders | thrombocytopenia, neutropenia, anaemia | uncommon |
 | Nervous system disorders | headache | common |
 |  | peripheral neuropathy, dizziness, lethargy, paraesthesia, hypoaesthesia, somnolence | uncommon |
@@ -62,10 +61,9 @@ Treatment emergent laboratory abnormalities (at least grade 3), observed in the 
 | Total cholesterol | 6.0 | na* |
 | Hyperglycemia | 1.9 | 0.2 |
 
-*na: not applicable
+* na: not applicable
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see section 4.4).
-
 Combination antiretroviral therapy has also been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 Increased CPK, myalgia, myositis and rarely, rhabdomyolysis have been reported with the use of protease inhibitors, particularly in combination with NRTIs.

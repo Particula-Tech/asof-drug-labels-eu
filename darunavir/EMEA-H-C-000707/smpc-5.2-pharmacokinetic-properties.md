@@ -26,7 +26,6 @@ In vitro experiments with human liver microsomes (HLMs) indicate that darunavir 
 Darunavir is extensively metabolised by the hepatic CYP system and almost exclusively by isozyme CYP3A4.
 A 14C-darunavir trial in healthy volunteers showed that a majority of the radioactivity in plasma after a single 400/100 mg darunavir with ritonavir dose was due to the parent active substance.
 At least 3 oxidative metabolites of darunavir have been identified in humans; all showed activity that was at least 10-fold less than the activity of darunavir against wild type HIV.
-
 Elimination
 After a 400/100 mg 14C-darunavir with ritonavir dose, approximately 79.5% and 13.9% of the administered dose of 14C-darunavir could be retrieved in faeces and urine, respectively.
 Unchanged darunavir accounted for approximately 41.2% and 7.7% of the administered dose in faeces and urine, respectively.
@@ -44,6 +43,7 @@ However, only limited data were available in patients above the age of 65 year.
 Gender
 Population pharmacokinetic analysis showed a slightly higher darunavir exposure (16.8%) in HIV infected females compared to males.
 This difference is not clinically relevant.
+
 Renal impairment
 Results from a mass balance study with 14C-darunavir with ritonavir showed that approximately 7.7% of the administered dose of darunavir is excreted in the urine unchanged.
 Although darunavir has not been studied in patients with renal impairment, population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV infected patients with moderate renal impairment (CrCl between 30 - 60 ml/min, n=20) (see sections 4.2 and 4.4).

@@ -132,11 +132,22 @@ Warfarin Warfarin concentrations may be affected when co-administered with darun
 with ritonavir.
 The international normalised ratio (INR) should be monitored when warfarin is combined with PREZISTA co-administered with 100 mg ritonavir.
 Anticonvulsants
-Phenobarbital Phenobarbital, phenytoin and carbamazepine are inducers of CYP450 enzymes.
+Phenobarbital Phenobarbital and phenytoin are inducers of CYP450 enzymes.
+PREZISTA
 
-Phenytoin PREZISTA co-administered with 100 mg ritonavir should not be used in
+Phenytoin co-administered with 100 mg ritonavir should not be used in combination with
 
-Carbamazepine combination with these medicines, as co-administration may cause significant decreases in darunavir plasma concentrations.
+these medicines, as co-administration may cause significant decreases in darunavir plasma concentrations.
+
+Carbamazepine 200 b.i.d. 600/100 b.i.d. Carbamazepine ↑ 45% ↑ 54%
+
+Darunavir ↔ ↔ Exposure to darunavir, co-administered with ritonavir, was unaffected by carbamazepine.
+Ritonavir exposure (AUC12h) was decreased by 49%.
+For carbamazepine, AUC12h was increased by 45%.
+No dose adjustment for PREZISTA/rtv is recommended.
+If there is a need to combine PREZISTA/rtv and carbamazepine, patients should be monitored for potential carbamazepine-related adverse events.
+Carbamazepine concentrations should be monitored and its dose should be titrated for adequate response.
+Based upon the findings, the carbamazepine dose may need to be reduced by 25% to 50% in the presence of PREZISTA/rtv.
 Antifungals
 Voriconazole The combined use of voriconazole with darunavir co-administered with 100 mg ritonavir has not been studied.
 Voriconazole is metabolised by cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
@@ -265,24 +276,8 @@ Darunavir ↔ ↔ If SSRIs are co-administered with PREZISTA and ritonavir, the 
 In addition, patients on a stable dose of sertraline or paroxetine who start treatment with PREZISTA co-administered with 100 mg ritonavir should be monitored for antidepressant response.
 Steroids
 
-Fluticasone In a clinical study where ritonavir 100 mg capsules b.i.d were co-administered
-propionate, with 50 µg intranasal fluticasone propionate (4 times daily) for 7 days in healthy
-budesonide subjects, fluticasone propionate plasma concentrations increased significantly,
-
-whereas the intrinsic cortisol levels decreased by approximately 86% (90% confidence interval 82 - 89%).
-Greater effects may be expected when fluticasone propionate is inhaled.
-Systemic corticosteroid effects including Cushing's syndrome and adrenal suppression have been reported in patients receiving ritonavir and inhaled or intranasally administered fluticasone propionate; this could also occur with other corticosteroids metabolised via the P450 3A pathway e.g. budesonide.
-Consequently, concomitant administration of PREZISTA, co-administered with 100 mg ritonavir and these glucocorticoids, is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects.
-A dose reduction of the glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (e.g. beclomethasone).
-Moreover, in case of withdrawal of glucocorticoids progressive dose reduction may have to be performed over a longer period.
-The effects of high fluticasone systemic exposure on ritonavir plasma levels are as yet unknown.
-
-Dexamethasone Systemic dexamethasone induces CYP3A4 and thereby may decrease darunavir exposure.
-Therefore this combination should be used with caution.
-Others
-St. John’s wort PREZISTA co-administered with 100 mg ritonavir must not be used concomitantly with products containing St John’s wort (Hypericum perforatum) because co-administration may cause significant decreases in darunavir plasma concentrations and also in ritonavir concentrations.
-This is due to the induction of metabolising enzymes by St John’s wort.
-If a patient is already taking
-St John’s wort, stop St John’s wort and if possible check viral levels.
-Darunavir exposure (and also ritonavir exposure) may increase on stopping St John’s wort.
-The inducing effect may persist for at least 2 weeks after cessation of treatment with St John’s wort (see section 4.3).
+| Fluticasone propionate, budesonide | In a clinical study where ritonavir 100 mg capsules b.i.d were co-administered with 50 µg intranasal fluticasone propionate (4 times daily) for 7 days in healthy subjects, fluticasone propionate plasma concentrations increased significantly, whereas the intrinsic cortisol levels decreased by approximately 86% (90% confidence interval 82 - 89%). Greater effects may be expected when fluticasone propionate is inhaled. Systemic corticosteroid effects including Cushing's syndrome and adrenal suppression have been reported in patients receiving ritonavir and inhaled or intranasally administered fluticasone propionate; this could also occur with other corticosteroids metabolised via the P450 3A pathway e.g. budesonide. Consequently, concomitant administration of PREZISTA, co-administered with 100 mg ritonavir and these glucocorticoids, is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects. A dose reduction of the glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (e.g. beclomethasone). Moreover, in case of withdrawal of glucocorticoids progressive dose reduction may have to be performed over a longer period. The effects of high fluticasone systemic exposure on ritonavir plasma levels are as yet unknown. |
+| --- | --- |
+| Dexamethasone | Systemic dexamethasone induces CYP3A4 and thereby may decrease darunavir exposure. Therefore this combination should be used with caution. |
+| Others |  |
+| St. John’s wort | PREZISTA co-administered with 100 mg ritonavir must not be used concomitantly with products containing St John’s wort (Hypericum perforatum) because co-administration may cause significant decreases in darunavir plasma concentrations and also in ritonavir concentrations. This is due to the induction of metabolising enzymes by St John’s wort. If a patient is already taking St John’s wort, stop St John’s wort and if possible check viral levels. Darunavir exposure (and also ritonavir exposure) may increase on stopping St John’s wort. The inducing effect may persist for at least 2 weeks after cessation of treatment with St John’s wort (see section 4.3). |
