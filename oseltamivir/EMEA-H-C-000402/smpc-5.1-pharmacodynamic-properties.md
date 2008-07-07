@@ -11,7 +11,6 @@ Oseltamivir phosphate inhibits influenza virus infection and replication in vitr
 Oseltamivir given orally inhibits influenza A and B virus replication and pathogenicity in vivo in animal models of influenza infection at antiviral exposures similar to that achieved in man with 75 mg twice daily.
 
 Antiviral activity of oseltamivir was supported for influenza A and B by experimental challenge studies in healthy volunteers.
-
 Neuraminidase enzyme IC50 values for oseltamivir for clinically isolated influenza A ranged from 0.1 nM to 1.3 nM, and for influenza B was 2.6 nM.
 Higher IC50 values for influenza B, up to a median of 8.5 nM, have been observed in published trials.
 

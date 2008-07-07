@@ -9,6 +9,7 @@ Tamiflu capsules and Tamiflu suspension are bioequivalent formulations.
 
 Adults, adolescents or children (> 40 kg) who are unable to swallow capsules may receive appropriate doses of Tamiflu suspension.
 Tamiflu is not recommended for use in children less than one year of age due to insufficient data on safety and efficacy (see section 5.3).
+
 Treatment of influenza
 Treatment should be initiated as soon as possible within the first two days of onset of symptoms of influenza.
 
