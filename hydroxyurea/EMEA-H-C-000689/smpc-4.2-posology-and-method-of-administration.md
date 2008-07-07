@@ -18,6 +18,7 @@ Haematologic recovery usually occurs within two weeks.
 Treatment may then be reinstituted at a reduced dose.
 The dose of Siklos may then be increased again under close haematological monitoring.
 A dose producing haematological toxicity should not be tried more than two times.
+
 The toxic range may be characterised by the following results of blood tests:
 Neutrophils < 2000 /mm3
 Platelets < 80,000/mm3

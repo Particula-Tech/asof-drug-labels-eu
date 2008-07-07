@@ -7,6 +7,7 @@ Also, in rats testicular atrophy with decreased spermatogenesis occurred, while 
 Hydroxycarbamide is unequivocally genotoxic in a wide range of test systems.
 Conventional long-term studies to evaluate the carcinogenic potential of hydroxycarbamide have not been performed.
 However, hydroxycarbamide is presumed to be a transspecies carcinogen.
+
 Hydroxycarbamide crosses the placenta barrier and has been demonstrated to be a potent teratogen and embryotoxic in a wide variety of animal models at or below the human therapeutic dose.
 Teratogenicity was characterised by partially ossified cranial bones, absence of eye sockets, hydrocephaly, bipartite sternebrae, missing lumbar vertebrae.
 Embryotoxicity was characterized by decreased foetal viability, reduced live litter sizes, and developmental delays.

@@ -4,7 +4,6 @@ Specific interaction studies have not been performed with hydroxycarbamide.
 
 Potentially fatal pancreatitis and hepatotoxicity, and severe peripheral neuropathy have been reported in HIV-infected patients who received hydroxycarbamide in combination with antiretroviral agents particularly didanosine plus stavudine.
 Patients treated with hydroxycarbamide in combination with didanosine, stavudine, and indinavir showed a median decline in CD4 cells of approximately 100/mm3.
-
 Concurrent use of hydroxycarbamide and other myelosuppressive medicinal products or radiation therapy may increase bone marrow depression, gastro-intestinal disturbances or mucositis.
 An erythema caused by radiation therapy may be aggravated by hydroxycarbamide.
 
