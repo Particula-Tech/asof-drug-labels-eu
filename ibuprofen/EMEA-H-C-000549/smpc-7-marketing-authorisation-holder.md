@@ -1,5 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Orphan Europe SARL
-Immeuble “Le Guillaumet”
-F-92046 Paris La Défense - France
+Immeuble “Le Wilson”
+70 avenue du Général de Gaulle
+F-92800 Puteaux - France
