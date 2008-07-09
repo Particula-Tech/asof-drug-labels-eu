@@ -1,0 +1,16 @@
+{
+  "active_substance": "ranolazine",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000805",
+  "eu_number": "EU/1/08/462",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2008-07-08",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ranexa",
+  "molecule": "ranolazine",
+  "molecule_name": "RANOLAZINE",
+  "name": "Ranexa (previously Latixa)",
+  "register_name": "Ranexa",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h462.htm"
+}
