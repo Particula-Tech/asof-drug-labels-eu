@@ -7,6 +7,10 @@ After proper training in injection technique, patients may self-inject with Humi
 
 During treatment with Humira, other concomitant therapies (e.g., corticosteroids and/or immunomodulatory agents) should be optimised.
 
+Dose Interruption
+
+Available data suggest that re-introduction of Humira after discontinuation for 70 days or longer resulted in the same magnitudes of clinical response and similar safety profile as before dose interruption.
+
 Adults
 
 Rheumatoid arthritis

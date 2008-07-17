@@ -4,7 +4,6 @@ Infections
 
 Patients must be monitored closely for infections, including tuberculosis, before, during and after treatment with Humira.
 Because the elimination of adalimumab may take up to five months, monitoring should be continued throughout this period.
-
 Treatment with Humira should not be initiated in patients with active infections including chronic or localized infections until infections are controlled.
 
 Patients who develop a new infection while undergoing treatment with Humira should be monitored closely.
@@ -44,10 +43,10 @@ Some patients who have previously received treatment for latent or active tuberc
 Patients should be instructed to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade fever) suggestive of a tuberculosis infection occur during or after therapy with Humira.
 
 Other opportunistic infections:
-
 There have been reports of serious and severe opportunistic infections associated with Humira therapy, for example pneumocystis carinii pneumonia, disseminated histoplasmosis, listeriosis and aspergillosis.
 
 If a patient receiving Humira shows prolonged/atypical symptoms/signs of infections or general deterioration, prevalent opportunistic conditions must be considered.
+
 Hepatitis B Reactivation
 
 Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including Humira, who are chronic carriers of this virus.
@@ -59,7 +58,7 @@ In patients who develop HBV reactivation, Humira should be stopped and effective
 
 Neurological events
 
-TNF-antagonists including Humira have been associated in rare cases with new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disease.
+TNF-antagonists including Humira have been associated in rare cases with new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disease including multiple sclerosis.
 Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central nervous system demyelinating disorders.
 
 Allergic reactions
@@ -82,11 +81,11 @@ In the controlled portions of clinical trials of TNF-antagonists, more cases of 
 However, the occurrence was rare.
 Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
 With the current knowledge, a possible risk for the development of lymphomas or other malignancies in patients treated with a TNF-antagonist cannot be excluded.
-
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving Humira.
 Thus additional caution should be exercised in considering Humira treatment of these patients (see section 4.8).
 
 All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.
+
 In an exploratory clinical trial evaluating the use of another anti-TNF agent, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with increased risk for malignancy due to heavy smoking.
@@ -122,6 +121,12 @@ Concurrent administration of TNF-antagonists and anakinra
 Serious infections were seen in clinical studies with concurrent use of anakinra and another TNF-antagonist, etanercept, with no added clinical benefit compared to etanercept alone.
 Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNF-antagonists.
 Therefore, the combination of adalimumab and anakinra is not recommended.
+(See section 4.5).
+Concurrent administration of TNF-antagonists and abatacept.
+
+Concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
+The combination of Humira and abatacept is not recommended.
+(See Section 4.5).
 
 Surgery
 
@@ -129,6 +134,7 @@ There is limited safety experience of surgical procedures in patients treated wi
 The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Humira should be closely monitored for infections, and appropriate actions should be taken.
 There is limited safety experience in patients undergoing arthroplasty while receiving Humira.
+
 Small bowel obstruction
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
@@ -141,6 +147,8 @@ In all situations decribed below, the benefit/risk balance of therapy should be 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
 If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
+
+See section 4.5).
 
 [Humira 40 mg solution for injection in pre-filled pen]
 

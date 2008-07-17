@@ -67,7 +67,6 @@ Injection site reactions
 
 In the pivotal controlled trials, 14% of patients treated with Humira developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 8% of patients receiving placebo or active control.
 Injection site reactions generally did not necessitate discontinuation of the medicinal product.
-
 Infections
 
 In the pivotal controlled trials, the rate of infection was 1.56 per patient year in the Humira treated patients and 1.39 per patient year in the placebo and active control-treated patients.
@@ -77,6 +76,7 @@ The incidence of serious infections was 0.03 per patient year in Humira treated 
 
 In controlled and open label studies with Humira, serious infections (including fatal infections, which occurred rarely) have been reported, which include reports of tuberculosis (including miliary and extra-pulmonary locations) and invasive opportunistic infections (e.g. disseminated histoplasmosis, pneumocystis carinii pneumonia, aspergillosis and listeriosis).
 Most of the cases of tuberculosis occurred within the first eight months after initiation of therapy and may reflect recrudescence of latent disease.
+
 Malignancies and lymphoproliferative disorders
 
 During the controlled portions of pivotal Humira trials at least 12 weeks in duration in patients with moderately to severely active rheumatoid arthritis, psoriatic arthritis, ankylosing spondylitis, Crohn’s disease and psoriasis, malignancies, other than lymphoma and non-melanoma skin cancer, were observed at a rate (95% confidence interval) of 5.9 (3.5, 9.9) per 1000 patient-years among 3853 Humira treated patients versus a rate of 4.3 (1.8, 10.4) 1 per 1000 patient-years among 2183 control patients (median duration of treatment was 5.5 months for Humira and 3.9 months for control-treated patients).
@@ -98,7 +98,6 @@ The patients improved following discontinuation of therapy.
 No patients developed lupus nephritis or central nervous system symptoms.
 
 Liver Enzyme Elevations
-
 Rheumatoid arthritis clinical trials: in controlled rheumatoid arthritis clinical trials (Studies I − IV), elevations of ALT were similar in patients receiving adalimumab or placebo.
 In patients with early rheumatoid arthritis (disease duration of less than 3 years) (Study V), elevations of ALT were more common in the combination arm (Humira /methotrexate) compared to the methotrexate monotherapy arm or the Humira monotherapy arm.
 
@@ -109,6 +108,7 @@ In all rheumatoid arthritis and psoriatic arthritis studies (I-VII), patients wi
 Crohn’s disease clinical trials: in controlled clinical trials, elevations of ALT were similar in patients receiving adalimumab or placebo.
 
 Psoriasis clinical trials: in controlled psoriasis clinical trials, elevations of ALT were similar in patients receiving adalimumab or placebo.
+
 Additional Adverse Reactions from Postmarketing Surveillance or Phase IV Clinical Trials
 
 The additional adverse reactions in Table 2 have been reported from postmarketing surveillance or Phase IV clinical trials:
@@ -120,7 +120,7 @@ Undesirable Effects in Postmarketing Surveillance and Phase IV Clinical Studies
 | --- | --- |
 | Gastrointestinal disorders | intestinal perforation |
 | Hepatobiliary disorders | reactivation of hepatitis B |
-| Nervous system disorders | demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) |
+| Nervous system disorders | demyelinating disorders (e.g. optic neuritis, Guillian-Barré syndrome) |
 | Respiratory, thoracic and mediastinal disorders | interstitial lung disease, including pulmonary fibrosis |
 | Skin and subcutaneous tissue disorders | cutaneous vasculitis |
 | Immune system disorders | anaphylaxis |
@@ -184,6 +184,15 @@ The rate (95% confidence interval) of non-melanoma skin cancers was 8.8 (5.7, 13
 
 When combining controlled portions of these trials and ongoi6539 patients and over 16000 patient-years of therapy, the observed rate of malignancies, other than lymphoma and non-melanoma skin cancers is approximately 10.1 per 1000 patient years.
 
+| System Organ Class | Adverse Reaction |
+| --- | --- |
+| Gastrointestinal disorders | intestinal perforation |
+| Hepatobiliary disorders | reactivation of hepatitis B |
+| Nervous system disorders | demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) |
+| Respiratory, thoracic and mediastinal disorders | interstitial lung disease, including pulmonary fibrosis |
+| Skin and subcutaneous tissue disorders | cutaneous vasculitis |
+| Immune system disorders | anaphylaxis |
+
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
 common≥ 1/100 to < 1/10; uncommon≥ 1/1000 to < 1/100 and rare ≥ 1/10,000 to < 1/1000) in Table 1 below.
@@ -238,15 +247,6 @@ common≥ 1/100 to < 1/10; uncommon≥ 1/1000 to < 1/100 and rare ≥ 1/10,000 t
 
 The infections consisted primarily of nasopharyngitis, upper respiratory tract infection, and sinusitis.
 Most patients continued on Humira after the infection resolved.
-
-| System Organ Class | Adverse Reaction |
-| --- | --- |
-| Gastrointestinal disorders | intestinal perforation |
-| Hepatobiliary disorders | reactivation of hepatitis B |
-| Nervous system disorders | demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome ) |
-| Respiratory, thoracic and mediastinal disorders | interstitial lung disease, including pulmonary fibrosis |
-| Skin and subcutaneous tissue disorders | cutaneous vasculitis |
-| Immune system disorders | anaphylaxis |
 
 [Humira 40 mg solution for injection in pre-filled pen]
 
