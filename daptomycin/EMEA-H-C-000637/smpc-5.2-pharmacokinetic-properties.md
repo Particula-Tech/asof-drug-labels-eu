@@ -22,7 +22,6 @@ Of the four minor metabolites detected in urine, two are Phase I oxidative metab
 Elimination
 Daptomycin is excreted primarily by the kidneys.
 Concomitant administration of probenecid and daptomycin has no effect on daptomycin pharmacokinetics in humans suggesting minimal to no active tubular secretion of daptomycin.
-
 Following intravenous administration, plasma clearance of daptomycin is approximately 7 to 9 ml/h/kg and its renal clearance is 4 to 7 ml/h/kg.
 
 In a mass balance study using radiolabelled material, 78% of the administered dose was recovered from the urine based on total radioactivity, whilst urinary recovery of unchanged daptomycin was approximately 50% of the dose.
@@ -33,6 +32,7 @@ Special populations
 Elderly
 No dose adjustment is necessary based on age alone.
 However, renal function should be assessed and the dose should be reduced if there is evidence of severe renal insufficiency.
+
 Children and adolescents (< 18 years of age)
 Pharmacokinetic profiles were obtained following single intravenous administration of daptomycin 4 mg/kg in paediatric patients with proven or suspected Gram-positive infection, divided into three age groups (2-6 years, 7-11 years and 12-17 years).
 The pharmacokinetics of daptomycin following a single 4 mg/kg dose in adolescents aged 12-17 years are generally similar to those of healthy adult subjects with normal renal function with trends towards lower AUC and Cmax in adolescents.

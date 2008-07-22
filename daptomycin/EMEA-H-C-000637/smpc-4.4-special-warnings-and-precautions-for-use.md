@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-If a focus of Staphylococcus aureus infection other than cSSTI or RIE is identified after initiation of Cubicin therapy consideration should be given to instituting alternative antibacterial therapy that has been demonstrated to be efficacious in the treatment of the specific type of infection(s) present.
+If a focus of infection other than cSSTI or RIE is identified after initiation of Cubicin therapy consideration should be given to instituting alternative antibacterial therapy that has been demonstrated to be efficacious in the treatment of the specific type of infection(s) present.
 
 It has been demonstrated in clinical studies that Cubicin is not effective in the treatment of pneumonia.
 
@@ -9,6 +9,12 @@ Clinical data on the use of Cubicin to treat RIE due to Staphylococcus aureus ar
 The efficacy of Cubicin in patients with prosthetic valve infections or with left-sided infective endocarditis due to Staphylococcus aureus has not been demonstrated.
 
 Patients with deep-seated infections should receive any required surgical interventions (e.g. debridement, removal of prosthetic devices, valve replacement surgery) without delay.
+
+There is insufficient evidence to be able to draw any conclusions regarding the possible clinical efficacy of Cubicin against infections due to enterococci, including Enterococcus faecalis and Enterococcus faecium.
+In addition, dose regimens of daptomycin that might be appropriate for the treatment of enterococcal infections, with or without bacteraemia, have not been identified.
+
+Failures with daptomycin in the treatment of enterococcal infections that were mostly accompanied by bacteraemia have been reported.
+In some instances treatment failure has been associated with the selection of organisms with reduced susceptibility or frank resistance to daptomycin (see section 5.1).
 
 Creatine phosphokinase and myopathy
 Increases in plasma creatine phosphokinase (CPK; MM isoenzyme) levels associated with muscular pains and/or weakness and cases of myositis, myoglobinaemia and rhabdomyolysis have been reported during therapy with Cubicin (see also sections 4.5, 4.8 and 5.3).
@@ -27,6 +33,7 @@ Therefore, it is recommended that:
 
 Peripheral Neuropathy
 Patients who develop signs or symptoms that might represent a peripheral neuropathy during therapy with Cubicin should be investigated and consideration should be given to discontinuation of daptomycin (see sections 4.8 and 5.3).
+
 Renal Insufficiency
 Renal insufficiency has been reported during treatment with Cubicin.
 Severe renal insufficiency may in itself also pre-dispose to elevations in daptomycin levels which may increase the risk of development of myopathy (see above).
@@ -51,3 +58,7 @@ If superinfection occurs during therapy, appropriate measures should be taken.
 
 Antibiotic-associated colitis and pseudomembranous colitis have been reported with nearly all antibacterial agents and may range in severity from mild to life-threatening.
 Therefore, it is important to consider this diagnosis in patients who present with diarrhoea during or shortly following treatment.
+
+[Cubicin 500 mg powder for concentrate for solution for infusion]
+
+In addition, dose regimens for daptomycin that might be appropriate for the treatment of enterococcal infections, with or without bacteraemia, have not been identified.

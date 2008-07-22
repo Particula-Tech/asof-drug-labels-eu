@@ -5,7 +5,6 @@ Microscopic changes in skeletal muscle were minimal (approximately 0.05% of myof
 No fibrosis or rhabdomyolysis was observed.
 Depending on the study duration, all muscle effects, including microscopic changes, were fully reversible within 1-3 months following cessation of dosing.
 No functional or pathological changes in smooth or cardiac muscle were observed.
-
 The lowest observable effect level (LOEL) for myopathy in rats and dogs occurred at exposure levels of 0.8 to 2.3-fold the human therapeutic levels at 6 mg/kg for patients with normal renal function.
 A study in dogs demonstrated that skeletal myopathy was reduced upon once daily administration as compared to fractionated dosing at same total daily dose, suggesting that myopathic effects in animals were primarily related to time between doses.
 

@@ -1,6 +1,7 @@
 # 6.6 Special precautions for disposal and other handling
 
 A 50 mg/ml concentration is obtained by reconstituting with 7 ml of sodium chloride 9 mg/ml (0.9%) solution for injection, or water for injections.
+
 Aseptic technique should be used to reconstitute lyophilised Cubicin.
 The polypropylene flip off cap should be removed to expose the central portions of the rubber stopper.
 7 ml of either sodium chloride 9 mg/ml solution for injection or water for injections should be slowly injected through the centre of the rubber stopper into the vial pointing the needle towards the wall of the vial.
@@ -24,4 +25,5 @@ Any unused product or waste material should be disposed of in accordance with lo
 [Cubicin 500 mg powder for concentrate for solution for infusion]
 
 A 50 mg/ml concentration is obtained by reconstituting with 10 ml of sodium chloride 9 mg/ml (0.9%) solution for injection, or water for injections.
+
 10 ml of either sodium chloride 9 mg/ml solution for injection or water for injections should be slowly injected through the centre of the rubber stopper into the vial pointing the needle towards the wall of the vial.

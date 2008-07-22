@@ -11,12 +11,12 @@ This results in bacterial cell death with negligible cell lysis.
 PK/PD relationship
 Daptomycin exhibits rapid, concentration dependent bactericidal activity against sensitive Gram positive organisms in vitro.
 In animal models AUC/MIC and Cmax/MIC correlate with efficacy and predicted bacterial kill in vivo at single doses equivalent to human doses of 4 mg/kg and 6 mg/kg once daily.
-
 Mechanisms of resistance
-Strains with decreased susceptibility to daptomycin have been reported during the treatment of patients with difficult to treat infections and/or following administration for prolonged periods.
-In a clinical trial in which daptomycin was used for the treatment of endocarditis and complicated bacteraemia there were six patients in whom the observed decrease in susceptibility to daptomycin may have contributed to their failure to respond to therapy.
+Strains with decreased susceptibility to daptomycin have been reported especially during the treatment of patients with difficult-to-treat infections and/or following administration for prolonged periods.
+In particular, there have been reports of treatment failures in patients infected with Staphylococcus aureus, Enterococcus faecalis or Enterococcus faecium, including bacteraemic patients, that have been associated with the selection of organisms with reduced susceptibility or frank resistance to daptomycin during therapy.
 
 The mechanism of resistance to daptomycin has not yet been identified.
+
 Breakpoints
 Minimum inhibitory concentration (MIC) breakpoint established by the European Committee on Antimicrobial Susceptibility Testing (EUCAST) for Staphylococci and Streptococci (except S. pneumoniae) are Susceptible ≤ 1 mg/l and Resistant > 1 mg/l.
 
@@ -42,8 +42,6 @@ Information from clinical trials
 In two clinical trials in complicated skin and soft tissues infections, 36% of patients treated with Cubicin met the criteria for systemic inflammatory response syndrome (SIRS).
 The most common type of infection treated was wound infection (38% of patients), while 21% had major abscesses.
 These limitations of the patients population treated should be taken into account when deciding to use Cubicin.
-
-There is insufficient evidence to be able to draw any conclusions regarding the possible clinical efficacy of Cubicin against Enterococcus faecalis and Enterococcus faecium.
 
 In a randomised controlled open-label study in 235 patients with Staphylococcus aureus bacteraemia (i.e, at least one positive blood culture of Staphylococcus aureus prior to receiving the first dose) 19 of 120 patients treated with Cubicin met the criteria for RIE.
 Of these 19 patients 11 were infected with methicillin-susceptible and 8 with methicillin-resistant Staphylococcus aureus.

@@ -11,13 +11,13 @@ The following adverse reactions were reported during therapy and during follow-u
 < 1/1,000, Very rare = ≤ 1/10,000:
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
 Infections and Infestations
 Common: Fungal infections
 Uncommon: Urinary tract infection
 
 Blood and lymphatic system disorders
 Uncommon: Thrombocythaemia, anaemia, eosinophilia
+
 Metabolism and nutrition disorders
 Uncommon: Anorexia, hyperglycaemia
 
@@ -61,14 +61,12 @@ Uncommon: Pyrexia, weakness, fatigue, pain
 Investigations
 Common: Liver function tests abnormal (increased AST, ALT and alkaline phosphatase), increased CPK
 Uncommon: Electrolyte imbalance, increased serum creatinine, increased myoglobin, Lactic dehydrogenase (LDH) increased
-
 Post-Marketing
 Adverse reactions that have been reported Post-Marketing that are not listed above are:
 
 Immune system disorders
 Hypersensitivity, manifested by isolated spontaneous reports including, but not limited to; pulmonary eosinophilia, vesicobullous rash with mucous membrane involvement and sensation of oropharyngeal swelling.
 Anaphylaxis
-
 Infusion reactions including the following symptoms: tachycardia, wheezing, pyrexia, rigors, systemic flushing, vertigo, syncope and metallic taste.
 
 Musculoskeletal, connective tissue and bone disorders

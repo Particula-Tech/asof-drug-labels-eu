@@ -12,7 +12,6 @@ Posology
 
 Renal insufficiency
 Daptomycin is eliminated primarily by the kidney.
-
 Due to limited clinical experience (see table and footnotes below) Cubicin should only be used in patients with any degree of renal insufficiency (Cr Cl < 80 ml/min) when it is considered that the expected clinical benefit outweighs the potential risk.
 The response to treatment and renal function should be closely monitored in all patients with some degree of renal insufficiency (see also sections 4.4 and 5.2).
 
