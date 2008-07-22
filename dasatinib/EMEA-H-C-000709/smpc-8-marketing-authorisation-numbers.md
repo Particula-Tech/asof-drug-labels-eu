@@ -1,4 +1,4 @@
-# 8. MARKETING AUTHORISATION NUMBER(S)
+# 8. MARKETING AUTHORISATION NUMBERS
 
 EU/1/06/363/004 - 56 film-coated tablets (blisters)
 EU/1/06/363/007 - 60 x 1 film-coated tablets (unit-dose blisters)

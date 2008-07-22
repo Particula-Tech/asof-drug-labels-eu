@@ -22,7 +22,7 @@ Platelet transfusion and red cell transfusion were used as appropriate.
 Haematopoetic growth factor has been used in patients with resistant myelosuppression.
 Guidelines for dose modifications are summarized in Table 1.
 
-Table 1 Dose adjustments for neutropenia and thrombocytopenia
+Table 1: Dose adjustments for neutropenia and thrombocytopenia
 
 | Chronic Phase CML (starting dose 100 mg once daily) | ANC < 0.5 x 109/l and/or Platelets < 50 x 109/l | 1 Stop treatment until ANC ≥ 1.0 x 109/l and platelets ≥ 50 x 109/l. 2 Resume treatment at the original starting dose. 3 If platelets < 25 x 109/l and/or recurrence of ANC < 0.5 x 109/l for > 7 days, repeat step 1 and resume treatment at a reduced dose of 80 mg once daily (second episode) or discontinue (third episode). |
 | --- | --- | --- |
@@ -35,6 +35,7 @@ If a severe non-haematological adverse reaction develops with SPRYCEL, treatment
 Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the initial severity of the event.
 
 Paediatric use: SPRYCEL is not recommended for use in children and adolescents below 18 years of age due to a lack of data on safety and efficacy (see section 5.1).
+
 Elderly patients: no clinically relevant age-related pharmacokinetic differences have been observed in these patients.
 No specific dose recommendation is necessary in the elderly.
 

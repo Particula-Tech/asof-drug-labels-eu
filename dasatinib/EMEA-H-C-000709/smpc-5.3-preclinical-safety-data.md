@@ -21,7 +21,6 @@ Dasatinib was clastogenic in vitro to dividing Chinese hamster ovary cells.
 In embryofoetal development studies, dasatinib induced embryolethality with associated decreases in litter size in rats, and foetal skeletal alterations in both rats and rabbits.
 These effects in both rats and rabbits occurred at doses that did not produce maternal toxicity.
 The effects of dasatinib on male and female fertility are not known.
-
 In mice, dasatinib induced immunosuppression, which was dose-related and effectively managed by dose reduction and/or changes in dosing schedule.
 Dasatinib had phototoxic potential in an in vitro neutral red uptake phototoxicity assay in mouse fibroblasts.
 

@@ -4,6 +4,7 @@ Active substances that may increase dasatinib plasma concentrations:
 In vitro studies indicate that dasatinib is a CYP3A4 substrate.
 Concomitant use of dasatinib and medicinal products which potently inhibit CYP3A4 (e.g. ketoconazole, itraconazole, erythromycin, clarithromycin, ritonavir, telithromycin) may increase exposure to dasatinib.
 Therefore, in patients receiving SPRYCEL, systemic administration of a potent CYP3A4 inhibitor is not recommended.
+
 At clinically relevant concentrations, dasatinib's binding to plasma proteins is approximately 96% on the basis of in vitro experiments.
 No studies have been performed to evaluate dasatinib interaction with other protein-bound medicinal products.
 The potential for displacement and its clinical relevance are unknown.

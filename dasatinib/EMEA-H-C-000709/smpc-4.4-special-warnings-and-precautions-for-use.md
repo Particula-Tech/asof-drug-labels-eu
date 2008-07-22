@@ -14,8 +14,8 @@ Therefore, in patients receiving SPRYCEL, coadministration of alternative therap
 Concomitant use of dasatinib and a CYP3A4 substrate may increase exposure to the CYP3A4 substrate.
 Therefore, caution is warranted when SPRYCEL is coadministered with CYP3A4 substrates of narrow therapeutic index, such as astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil or ergot alkaloids (ergotamine, dihydroergotamine) (see section 4.5).
 
-The concomitant use of dasatinib and a H2 blocker (e.g. famotidine), proton pump inhibitor (e.g. omeprazole), or aluminium hydroxide/magnesium hydroxide may reduce the exposure to dasatinib.
-Thus, H2 blockers and proton pump inhibitors are not recommended and aluminium hydroxide/magnesium hydroxide products should be administered up to 2 hours prior to, or 2 hours following the administration of dasatinib (see section 4.5).
+The concomitant use of dasatinib and a H2 antagonist (e.g. famotidine), proton pump inhibitor (e.g. omeprazole), or aluminium hydroxide/magnesium hydroxide may reduce the exposure to dasatinib.
+Thus, H2 antagonists and proton pump inhibitors are not recommended and aluminium hydroxide/magnesium hydroxide products should be administered up to 2 hours prior to, or 2 hours following the administration of dasatinib (see section 4.5).
 
 Special groups:
 There are currently no data available from clinical trials with SPRYCEL in patients with moderately to severely impaired liver function.
@@ -31,27 +31,29 @@ In a Phase III dose-optimisation study in patients with chronic phase CML, grade
 Therefore, the starting dose of 100 mg once daily is the recommended initial dosage for patients with chronic phase CML.
 
 Bleeding: in all clinical studies, severe central nervous system (CNS) haemorrhage occurred in < 1% of patients.
-Seven cases were fatal and 4 of them were associated with CTC grade 4 thrombocytopenia.
+Eight cases were fatal and 5 of them were associated with CTC grade 4 thrombocytopenia.
 Severe gastrointestinal haemorrhage occurred in 4% of patients and generally required drug interruptions and transfusions.
 Other severe haemorrhage occurred in 2% of patients.
 Most bleeding related events were typically associated with severe thrombocytopenia (see section 4.8).
 
 Patients were excluded from participation in SPRYCEL clinical trials if they took medicinal products that inhibit platelet function or anticoagulants.
+In some trials, the use of anticoagulants, acetylsalicylic acid, and non-steroidal anti-inflammatory drugs (NSAIDs) was allowed concurrently with SPRYCEL if the platelet count was > 50,000/mm3.
 Caution should be exercised if patients are required to take medicinal products that inhibit platelet function or anticoagulants.
 
 Fluid retention: SPRYCEL is associated with fluid retention.
-In all clinical studies, severe fluid retention was reported in 6% of patients, including severe pleural and pericardial effusion reported in 4% and 1% of patients, respectively.
+In all clinical studies, severe fluid retention was reported in 9% of patients, including severe pleural and pericardial effusion reported in 6% and 1% of patients, respectively.
 Severe ascites and generalised oedema were each reported in
 < 1% of patients.
 Severe non-cardiogenic pulmonary oedema was reported in 1% of patients.
 Patients who develop symptoms suggestive of pleural effusion such as dyspnoea or dry cough should be evaluated by chest X-ray.
 Severe pleural effusion may require thoracocentesis and oxygen therapy.
-Fluid retention events were typically managed by supportive care measures that include diuretics and short courses of steroids (see section 4.8).
+Fluid retention events were typically managed by supportive care measures that include diuretics and short courses of steroids.
+While the safety profile of SPRYCEL in the elderly population was similar to that in the younger population, patients aged 65 years and older are more likely to experience fluid retention events and should be monitored closely (see section 4.8).
 
 QT Prolongation: in vitro data suggest that dasatinib has the potential to prolong cardiac ventricular repolarization (QT Interval) (see section 5.3).
-In Phase II clinical trials in patients with leukaemia, treated with SPRYCEL, the mean changes from baseline in QTc interval using Fridericia's method (QTcF) were 3 - 6 msec; the upper 95% confidence intervals for all mean changes from baseline were < 8 msec (see section 4.8).
-Nine patients had QTc prolongation reported as an adverse event.
-Three patients (< 1%) experienced a QTcF > 500 msec.
+In 865 patients with leukaemia treated with SPRYCEL in Phase II clinical trials, the mean changes from baseline in QTc interval using Fridericia's method (QTcF) were 4 - 6 msec; the upper 95% confidence intervals for all mean changes from baseline were < 7 msec (see section 4.8).
+Of the 2,182 patients who received SPRYCEL in Phase II/III clinical trials, 18 had QTc prolongation reported as an adverse event.
+Seventeen patients (< 1%) experienced a QTcF > 500 msec.
 SPRYCEL should be administered with caution to patients who have or may develop prolongation of QTc.
 These include patients with hypokalemia or hypomagnesemia, patients with congenital long QT syndrome, patients taking anti-arrhythmic medicinal products or other medicinal products which lead to QT prolongation, and cumulative high dose anthracycline therapy.
 Hypokalemia or hypomagnesemia should be corrected prior to SPRYCEL administration.

@@ -10,7 +10,6 @@ The overall mean terminal half-life of dasatinib is approximately 5-6 hours in p
 Data from healthy subjects administered a single, 100 mg dose of dasatinib 30 minutes following a high-fat meal indicated a 14% increase in the mean AUC of dasatinib.
 A low-fat meal 30 minutes prior to dasatinib resulted in a 21% increase in the mean AUC of dasatinib.
 The observed food effects do not represent clinically relevant changes in exposure.
-
 Distribution:
 In patients, dasatinib has a large apparent volume of distribution (2,505 l) suggesting that the medicinal product is extensively distributed in the extravascular space.
 At clinically relevant concentrations of dasatinib, binding to plasma proteins was approximately 96% on the basis of in vitro experiments.
