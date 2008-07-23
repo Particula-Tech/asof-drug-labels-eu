@@ -11,12 +11,12 @@ In the remaining third the serum creatinine increase did not always respond to a
 Indeed, in some cases, only a stabilisation of the serum creatinine values has been observed after dose reduction (see section 4.4).
 
 Gallstones and related biliary disorders were reported in about 2% of patients.
-Elevations of liver transaminases occurred in 2% of patients and were not dependent on dose.
+Elevations of liver transaminases were reported as an adverse drug reaction in 2% of patients.
 Elevations of transaminases greater than 10 times the upper limit of the normal range, suggestive of hepatitis, were uncommon (0.3%).
+During postmarketing experience, hepatic failure, sometimes fatal, has been reported with EXJADE, especially in patients with pre-existing liver cirrhosis (see section 4.4).
 As with other iron chelator treatment, high-frequency hearing loss and lenticular opacities (early cataracts) have been uncommonly observed in patients treated with EXJADE (see section 4.4).
 
-Adverse reactions are ranked below using the following convention: very common (≥1/10); common
-(≥1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (<1/10,000); not known (cannot be estimated form the available data).
+Adverse reactions are ranked below using the following convention: very common (≥1/10); common (≥1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (<1/10,000); not known (cannot be estimated form the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1
@@ -44,20 +44,24 @@ Common: Diarrhoea, constipation, vomiting, nausea, abdominal pain,
 
 abdominal distension, dyspepsia
 
-Uncommon: Gastritis
+Uncommon: Gastrointestinal haemorrhage, gastric ulcer (including multiple
+
+ulcers), duodenal ulcer, gastritis
+
+Rare: Oesophagitis
 
 Renal and urinary disorders
 Very common: Blood creatinine increased
 
 Common: Proteinuria
-Uncommon: Glycosuria
-Not known Acute renal failure1
+Uncommon: Renal tubulopathy (acquired Fanconi’s syndrome), glycosuria
+Not known: Acute renal failure1
 
 Skin and subcutaneous tissue disorders
 
 Common: Rash, pruritus
 Uncommon: Pigmentation disorder
-Not known Urticaria1
+Not known: Urticaria1
 
 General disorders and administration site conditions
 
@@ -65,12 +69,13 @@ Uncommon: Pyrexia, oedema, fatigue
 
 Immune system disorders
 
-Not known Hypersensitivity reactions (including anaphylaxis and angioedema)1
+Not known: Hypersensitivity reactions (including anaphylaxis and angioedema)1
 
 Hepatobiliary disorders
 
 Common: Transaminases increased
 Uncommon: Hepatitis, cholelithiasis
+Not known: Hepatic failure1
 
 Psychiatric disorders
 

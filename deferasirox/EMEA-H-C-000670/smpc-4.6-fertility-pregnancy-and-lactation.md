@@ -6,7 +6,6 @@ Studies in animals have shown some reproductive toxicity at maternally toxic dos
 The potential risk for humans is unknown.
 
 As a precaution, it is recommended that EXJADE not be used during pregnancy unless clearly necessary.
-
 Lactation
 In animal studies, deferasirox was found to be rapidly and extensively secreted into maternal milk.
 No effect on the offspring was noted.

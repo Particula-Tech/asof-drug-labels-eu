@@ -19,7 +19,8 @@ Patients with pre-existing renal conditions and patients who are receiving medic
 Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
 
 For adult patients, the daily dose may be reduced by 10 mg/kg if a rise in serum creatinine by >33% above the average of the pre-treatment measurements and estimated creatinine clearance decreases below the lower limit of the normal range (<90 ml/min) are seen at two consecutive visits, and cannot be attributed to other causes (see section 4.2).
-For paediatric patients, the dose may be reduced by 10 mg/kg if estimated creatinine clearance decreases below the lower limit of the normal range (<90 ml/min) and/or serum creatinine levels rise above the age-appropriate upper limit of normal at two consecutive visits.
+For paediatric patients, the dose may be reduced by 10 mg/kg if estimated creatinine clearance decreases below the lower limit of the normal range
+(<90 ml/min) and/or serum creatinine levels rise above the age-appropriate upper limit of normal at two consecutive visits.
 
 After a dose reduction, for adult and paediatric patients, treatment should be interrupted if a rise in serum creatinine >33% above the average of the pre-treatment measurements is observed and/or the calculated creatinine clearance falls below the lower limit of the normal range.
 Treatment may be reinitiated depending on the individual clinical circumstances.
@@ -31,14 +32,24 @@ As needed, additional markers of renal tubular function (e.g. glycosuria in non-
 Dose reduction or interruption may be considered if there are abnormalities in levels of tubular markers and/or if clinically indicated.
 
 If, despite dose reduction and interruption, the serum creatinine remains significantly elevated and there is also persistent abnormality in another marker of renal function (e.g. proteinuria, Fanconi’s Syndrome), the patient should be referred to a renal specialist, and further specialised investigations (such as renal biopsy) may be considered.
+Hepatic function:
+
+Liver function test elevations have been observed in patients treated with EXJADE.
+Postmarketing cases of hepatic failure, sometimes fatal, have been reported in patients treated with EXJADE.
+Most reports of hepatic failure involved patients with significant morbidities including pre-existing liver cirrhosis.
+However, the role of EXJADE as a contributing or aggravating factor cannot be excluded (see Section 4.8).
+
+It is recommended that serum transaminases, bilirubin and alkaline phosphatase be checked before the initiation of treatment, every 2 weeks during the first month and monthly thereafter.
+If there is a persistent and progressive increase in serum transaminase levels that cannot be attributed to other causes, EXJADE should be interrupted.
+Once the cause of the liver function test abnormalities has been clarified or after return to normal levels, cautious re-initiation of treatment at a lower dose followed by gradual dose escalation may be considered.
 
 EXJADE is not recommended in patients with severe hepatic impairment as it has not been studied in such patients.
 Treatment has been initiated only in patients with baseline liver transaminase levels up to 5 times the upper limit of the normal range (see section 5.2).
 
-Liver function test elevations have been observed in patients treated with EXJADE.
-It is recommended that liver function tests be performed every month.
-If there is a persistent and progressive increase in serum transaminase levels that cannot be attributed to other causes, treatment should be interrupted.
-Once the cause of the liver function test abnormalities has been clarified or after return to normal levels, cautious re-initiation of treatment at a lower dose followed by gradual dose escalation may be considered.
+Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children and adolescents, receiving EXJADE.
+Multiple ulcers have been observed in some patients (see section 4.8).
+Physicians and patients should remain alert for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy and promptly initiate additional evaluation and treatment if a serious gastrointestinal adverse event is suspected.
+Caution should be exercised in patients who are taking EXJADE in combination with drugs that have known ulcerogenic potential, such as NSAIDs, corticosteroids, or oral bisphosphonates and in patients receiving anticoagulants (see Section 4.5 Interaction with other medicinal products and other forms of interaction).
 
 Skin rashes may appear during EXJADE treatment.
 The rashes resolve spontaneously in most cases.

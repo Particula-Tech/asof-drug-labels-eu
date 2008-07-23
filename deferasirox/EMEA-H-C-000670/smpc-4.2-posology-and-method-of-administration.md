@@ -3,19 +3,17 @@
 Treatment with EXJADE should be initiated and maintained by physicians experienced in the treatment of chronic iron overload due to blood transfusions.
 It is recommended that treatment be started after the transfusion of approximately 20 units (about 100 ml/kg) of packed red blood cells or when there is evidence from clinical monitoring that chronic iron overload is present (e.g. serum ferritin >1,000 µg/l).
 Doses (in mg/kg) must be calculated and rounded to the nearest whole tablet size.
-EXJADE is available in three tablet strengths (125 mg, 250 mg and 500 mg).
 
 The goals of iron chelation therapy are to remove the amount of iron administered in transfusions and, as required, to reduce the existing iron burden.
 
 Starting dose
 The recommended initial daily dose of EXJADE is 20 mg/kg body weight.
 
-An initial daily dose of 30 mg/kg may be considered for patients who require reduction of elevated body iron levels and who are also receiving more than 14 ml/kg/month of packed red blood cells (approximately
->4 units/month for an adult).
+An initial daily dose of 30 mg/kg may be considered for patients who require reduction of elevated body iron levels and who are also receiving more than 14 ml/kg/month of packed red blood cells (approximately >4 units/month for an adult).
 
-An initial daily dose of 10 mg/kg may be considered for patients who do not require reduction of body iron levels and who are also receiving less than 7 ml/kg/month of packed red blood cells (approximately
-<2 units/month for an adult).
+An initial daily dose of 10 mg/kg may be considered for patients who do not require reduction of body iron levels and who are also receiving less than 7 ml/kg/month of packed red blood cells (approximately <2 units/month for an adult).
 The patient’s response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1).
+
 For patients already well managed on treatment with deferoxamine, a starting dose of EXJADE that is numerically half that of the deferoxamine dose could be considered (e.g. a patient receiving 40 mg/kg/day of deferoxamine for 5 days per week (or equivalent) could be transferred to a starting daily dose of 20 mg/kg/day of EXJADE).
 When this results in a daily dose less than 20 mg/kg body weight, the patient’s response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1).
 
