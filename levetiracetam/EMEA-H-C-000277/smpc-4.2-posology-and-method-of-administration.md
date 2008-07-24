@@ -19,8 +19,8 @@ The initial therapeutic dose is 500 mg twice daily.
 This dose can be started on the first day of treatment.
 Depending upon the clinical response and tolerability, the daily dose can be increased up to 1,500 mg twice daily.
 Dose changes can be made in 500 mg twice daily increases or decreases every two to four weeks.
-Elderly (65 years and older)
 
+Elderly (65 years and older)
 Adjustment of the dose is recommended in elderly patients with compromised renal function (see “Patients with renal impairment” below).
 
 Children aged 4 to 11 years and adolescents (12 to 17 years) weighing less than 50 kg
@@ -65,15 +65,13 @@ Then CLcr is adjusted for body surface area (BSA) as follows:
 CLcr (ml/min)
 CLcr (ml/min/1.73 m2) = ---------------------------- x 1.73
 BSA subject (m2)
+
 Dosing adjustment for adult patients with impaired renal function
 
-Group Creatinine clearance Dosage and frequency
+| Group | Creatinine clearance (ml/min/1.73m2) | Dosage and frequency |
+| --- | --- | --- |
+| Normal Mild Moderate | > 80 50-79 30-49 | 500 to 1,500 mg twice daily 500 to 1,000 mg twice daily 250 to 750 mg twice daily |
 
-(ml/min/1.73m2)
-
-Normal > 80 500 to 1,500 mg twice daily
-Mild 50-79 500 to 1,000 mg twice daily
-Moderate 30-49 250 to 750 mg twice daily
 Severe < 30 250 to 500 mg twice daily
 End-stage renal disease patients - 500 to 1,000 mg once daily (2)
 
@@ -92,15 +90,27 @@ Therefore a 50 % reduction of the daily maintenance dose is recommended when the
 
 [Keppra 500 mg film-coated tablets.]
 
-(all sentences already above)
+| Group | Creatinine clearance (ml/min/1.73m2) | Dosage and frequency |
+| --- | --- | --- |
+| Normal Mild Moderate Severe | > 80 50-79 30-49 < 30 | 500 to 1,500 mg twice daily 500 to 1,000 mg twice daily 250 to 750 mg twice daily 250 to 500 mg twice daily |
 
 [Keppra 750 mg film-coated tablets.]
 
-(all sentences already above)
+Group Creatinine clearance Dosage and frequency
+
+(ml/min/1.73m2)
+
+Normal > 80 500 to 1,500 mg twice daily
+Mild 50-79 500 to 1,000 mg twice daily
+Moderate 30-49 250 to 750 mg twice daily
 
 [Keppra 1000 mg film-coated tablets.]
 
 [140-age( years)] x weight (kg)
+
+| Group | Creatinine clearance (ml/min/1.73m2) | Dosage and frequency |
+| --- | --- | --- |
+| Normal Mild | > 80 50-79 | 500 to 1,500 mg twice daily 500 to 1,000 mg twice daily |
 
 [Keppra 100 mg/ml oral solution.]
 
@@ -108,6 +118,10 @@ The oral solution may be diluted in a glass of water and may be taken with or wi
 A graduated oral syringe and instructions for use in the package leaflet are provided with Keppra.
 
 The graduated oral syringe contains up to 1,000 mg levetiracetam (corresponding to 10 ml) with a graduation every 25 mg (corresponding to 0.25 ml).
+
+| Group | Creatinine clearance (ml/min/1.73m2) | Dosage and frequency |
+| --- | --- | --- |
+| Normal Mild Moderate Severe End-stage renal disease patients Undergoing dialysis (1) | > 80 50-79 30-49 < 30 - | 500 to 1,500 mg twice daily 500 to 1,000 mg twice daily 250 to 750 mg twice daily 250 to 500 mg twice daily 500 to 1,000 mg once daily (2) |
 
 [Keppra 100 mg/ml concentrate for solution for infusion.]
 

@@ -5,6 +5,7 @@ The pharmacokinetic profile is linear with low intra- and inter-subject variabil
 There is no modification of the clearance after repeated administration.
 There is no evidence for any relevant gender, race or circadian variability.
 The pharmacokinetic profile is comparable in healthy volunteers and in patients with epilepsy.
+
 Due to its complete and linear absorption, plasma levels can be predicted from the oral dose of levetiracetam expressed as mg/kg bodyweight.
 Therefore there is no need for plasma level monitoring of levetiracetam.
 
@@ -49,6 +50,7 @@ The in vitro data and in vivo interaction data on oral contraceptives, digoxin a
 Therefore, the interaction of Keppra with other substances, or vice versa, is unlikely.
 
 Elimination
+
 The plasma half-life in adults was 7±1 hours and did not vary either with dose, route of administration or repeated administration.
 The mean total body clearance was 0.96 ml/min/kg.
 
@@ -59,7 +61,6 @@ The renal clearance of levetiracetam and ucb L057 is 0.6 and 4.2 ml/min/kg respe
 Levetiracetam elimination is correlated to creatinine clearance.
 
 Elderly
-
 In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
 This is related to the decrease in renal function in this population (see section 4.2).
 
@@ -113,7 +114,6 @@ Linear and dose proportional increases were observed for peak plasma concentrati
 
 The pharmacokinetic profile has been characterized following oral administration.
 A single dose of 1500 mg levetiracetam diluted in 100 ml of a compatible diluent and infused intravenously over 15 minutes is bioequivalent to 1500 mg levetiracetam oral intake, given as three 500 mg tablets.
-
 The intravenous administration of doses up to 4000 mg diluted in 100 ml of 0.9% sodium chloride infused over 15 minutes and doses up to 2500 mg diluted in 100 ml of 0.9% sodium chloride infused over 5 minutes was evaluated.
 The pharmacokinetic and safety profiles did not identify any safety concerns.
 

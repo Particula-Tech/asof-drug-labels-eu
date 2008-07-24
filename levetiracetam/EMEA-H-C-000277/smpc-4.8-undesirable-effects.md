@@ -7,7 +7,6 @@ In the pooled safety analysis, there was no clear dose-response relationship but
 
 In monotherapy 49.8 % of the subjects experienced at least one drug related undesirable effect.
 The most frequently reported undesirable effects were fatigue and somnolence.
-
 A study conducted in paediatric patients (4 to 16 years) with partial onset seizures showed that 55.4 % of the patients in the Keppra group and 40.2 % of the patients in the placebo group experienced undesirable effects.
 Serious undesirable effects were experienced in 0.0 % of the patients in the Keppra group and 1.0 % of the patients in the placebo group.
 The most commonly reported undesirable effects were somnolence, hostility, nervousness, emotional lability, agitation, anorexia, asthenia and headache in the paediatric population.

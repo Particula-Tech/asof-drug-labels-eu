@@ -4,7 +4,6 @@ Pharmacotherapeutic group: antiepileptics, ATC code: N03AX14.
 The active substance, levetiracetam, is a pyrrolidone derivative (S-enantiomer of α-ethyl-2-oxo-1-pyrrolidine acetamide), chemically unrelated to existing antiepileptic active substances.
 
 Mechanism of action
-
 The mechanism of action of levetiracetam still remains to be fully elucidated but appears to be different from the mechanisms of current antiepileptic medicinal products.
 In vitro and in vivo experiments suggest that levetiracetam does not alter basic cell characteristics and normal neurotransmission.
 In vitro studies show that levetiracetam affects intraneuronal Ca2+ levels by partial inhibition of N-type Ca2+ currents and by reducing the release of Ca2+ from intraneuronal stores.

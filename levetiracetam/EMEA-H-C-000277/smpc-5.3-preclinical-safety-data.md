@@ -6,5 +6,4 @@ Adverse effects not observed in clinical studies but seen in the rat and to a le
 In reproductive toxicity studies in the rat, levetiracetam induced developmental toxicity (increase in skeletal variations/minor anomalies, retarded growth, increased pup mortality) at exposure levels similar to or greater than the human exposure.
 In the rabbit foetal effects (embryonic death, increased skeletal anomalies, and increased malformations) were observed in the presence of maternal toxicity.
 The systemic exposure at the observed no effect level in the rabbit was about 4 to 5 times the human exposure.
-
 Neonatal and juvenile animal studies in rats and dogs demonstrated that there were no adverse effects seen in any of the standard developmental or maturation endpoints at doses up to 1800 mg/kg/day corresponding to 30 times the maximum recommended human dose.
