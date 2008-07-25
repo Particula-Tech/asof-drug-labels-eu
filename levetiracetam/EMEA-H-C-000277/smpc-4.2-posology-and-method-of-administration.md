@@ -68,10 +68,13 @@ BSA subject (m2)
 
 Dosing adjustment for adult patients with impaired renal function
 
-| Group | Creatinine clearance (ml/min/1.73m2) | Dosage and frequency |
-| --- | --- | --- |
-| Normal Mild Moderate | > 80 50-79 30-49 | 500 to 1,500 mg twice daily 500 to 1,000 mg twice daily 250 to 750 mg twice daily |
+Group Creatinine clearance Dosage and frequency
 
+(ml/min/1.73m2)
+
+Normal > 80 500 to 1,500 mg twice daily
+Mild 50-79 500 to 1,000 mg twice daily
+Moderate 30-49 250 to 750 mg twice daily
 Severe < 30 250 to 500 mg twice daily
 End-stage renal disease patients - 500 to 1,000 mg once daily (2)
 
@@ -90,27 +93,15 @@ Therefore a 50 % reduction of the daily maintenance dose is recommended when the
 
 [Keppra 500 mg film-coated tablets.]
 
-| Group | Creatinine clearance (ml/min/1.73m2) | Dosage and frequency |
-| --- | --- | --- |
-| Normal Mild Moderate Severe | > 80 50-79 30-49 < 30 | 500 to 1,500 mg twice daily 500 to 1,000 mg twice daily 250 to 750 mg twice daily 250 to 500 mg twice daily |
+(all sentences already above)
 
 [Keppra 750 mg film-coated tablets.]
 
-Group Creatinine clearance Dosage and frequency
-
-(ml/min/1.73m2)
-
-Normal > 80 500 to 1,500 mg twice daily
-Mild 50-79 500 to 1,000 mg twice daily
-Moderate 30-49 250 to 750 mg twice daily
+(all sentences already above)
 
 [Keppra 1000 mg film-coated tablets.]
 
 [140-age( years)] x weight (kg)
-
-| Group | Creatinine clearance (ml/min/1.73m2) | Dosage and frequency |
-| --- | --- | --- |
-| Normal Mild | > 80 50-79 | 500 to 1,500 mg twice daily 500 to 1,000 mg twice daily |
 
 [Keppra 100 mg/ml oral solution.]
 
@@ -118,10 +109,6 @@ The oral solution may be diluted in a glass of water and may be taken with or wi
 A graduated oral syringe and instructions for use in the package leaflet are provided with Keppra.
 
 The graduated oral syringe contains up to 1,000 mg levetiracetam (corresponding to 10 ml) with a graduation every 25 mg (corresponding to 0.25 ml).
-
-| Group | Creatinine clearance (ml/min/1.73m2) | Dosage and frequency |
-| --- | --- | --- |
-| Normal Mild Moderate Severe End-stage renal disease patients Undergoing dialysis (1) | > 80 50-79 30-49 < 30 - | 500 to 1,500 mg twice daily 500 to 1,000 mg twice daily 250 to 750 mg twice daily 250 to 500 mg twice daily 500 to 1,000 mg once daily (2) |
 
 [Keppra 100 mg/ml concentrate for solution for infusion.]
 

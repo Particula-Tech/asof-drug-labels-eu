@@ -10,7 +10,6 @@ Due to its complete and linear absorption, plasma levels can be predicted from t
 Therefore there is no need for plasma level monitoring of levetiracetam.
 
 A significant correlation between saliva and plasma concentrations has been shown in adults and children (ratio of saliva/plasma concentrations ranged from 1 to 1.7 for oral tablet formulation and after 4 hours post-dose for oral solution formulation).
-
 Adults and adolescents
 
 Absorption
@@ -61,6 +60,7 @@ The renal clearance of levetiracetam and ucb L057 is 0.6 and 4.2 ml/min/kg respe
 Levetiracetam elimination is correlated to creatinine clearance.
 
 Elderly
+
 In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
 This is related to the decrease in renal function in this population (see section 4.2).
 
@@ -114,6 +114,7 @@ Linear and dose proportional increases were observed for peak plasma concentrati
 
 The pharmacokinetic profile has been characterized following oral administration.
 A single dose of 1500 mg levetiracetam diluted in 100 ml of a compatible diluent and infused intravenously over 15 minutes is bioequivalent to 1500 mg levetiracetam oral intake, given as three 500 mg tablets.
+
 The intravenous administration of doses up to 4000 mg diluted in 100 ml of 0.9% sodium chloride infused over 15 minutes and doses up to 2500 mg diluted in 100 ml of 0.9% sodium chloride infused over 5 minutes was evaluated.
 The pharmacokinetic and safety profiles did not identify any safety concerns.
 
