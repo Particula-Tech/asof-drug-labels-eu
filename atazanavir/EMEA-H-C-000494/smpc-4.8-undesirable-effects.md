@@ -90,4 +90,4 @@ No differences in frequency of bilirubin elevations were observed between these 
 The frequency of treatment emergent hepatitis or transaminase elevations in co-infected patients was comparable between REYATAZ and comparator regimens (see section 4.4).
 
 Postmarketing experience
-There have been postmarketing reports of unknown frequency for diabetes mellitus, hyperglycaemia, nephrolithiasis, and gallbladder disorders including cholelithiasis, cholecystitis, and cholestasis.
+There have been postmarketing reports of unknown frequency for torsades de pointes, QTc prolongation, diabetes mellitus, hyperglycaemia, nephrolithiasis, and gallbladder disorders including cholelithiasis, cholecystitis, and cholestasis.

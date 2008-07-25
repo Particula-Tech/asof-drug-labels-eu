@@ -2,10 +2,6 @@
 
 Pharmacotherapeutic group: protease inhibitor, ATC code: J05AE08
 
-This medicinal product has been authorised under “Exceptional Circumstances”.
-This means that for scientific reasons, it has not been possible to obtain complete information on this medicinal product.
-The European Medicines Agency (EMEA) will review any new information which may become available every year and this SPC will be updated as necessary.
-
 Mechanism of action: atazanavir is an azapeptide HIV-1 protease inhibitor (PI).
 The compound selectively inhibits the virus-specific processing of viral Gag-Pol proteins in HIV-1 infected cells, thus preventing formation of mature virions and infection of other cells.
 
