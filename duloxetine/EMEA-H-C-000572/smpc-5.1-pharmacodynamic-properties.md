@@ -27,12 +27,23 @@ The effect of CYMBALTA 60 mg once a day in elderly depressed patients (≥65 yea
 Tolerability of CYMBALTA 60 mg once day in elderly patients was comparable to that seen in the younger adults.
 However, data on elderly patients exposed to the maximum dose (120mg per day) are limited and thus, caution is recommended when treating this population.
 
+Generalised Anxiety Disorder
+CYMBALTA demonstrated statistically significant superiority over placebo in five out of five studies including four randomized, double-blind, placebo-controlled acute studies and a relapse prevention study in adult patients with generalised anxiety disorder.
+
+CYMBALTA demonstrated statistically significant superiority over placebo as measured by improvement in the Hamilton Anxiety Scale (HAM-A) total score and by the Sheehan Disability Scale (SDS) global functional impairment score.
+Response and remission rates were also higher with CYMBALTA compared to placebo.
+CYMBALTA showed comparable efficacy results to venlafaxine in terms of improvements on the HAM-A total score.
+
+In a relapse prevention study, patients responding to 6 months of acute treatment with open-label CYMBALTA were randomised to either CYMBALTA or placebo for further 6-months.
+CYMBALTA 60 mg to 120 mg once daily demonstrated statistically significant superiority compared to placebo (p<0.001) on the prevention of relapse, as measured by time to relapse.
+The incidence of relapse during the 6-months double-blind follow-up period was 14% for CYMBALTA and 42% for placebo.
+
 Diabetic Peripheral Neuropathic Pain:
-The efficacy of duloxetine as a treatment for diabetic neuropathic pain was established in 2 randomised, 12-week, double-blind, placebo-controlled, fixed dose studies in adults (22 to 88 years) having diabetic neuropathic pain for at least 6 months.
+The efficacy of CYMBALTA as a treatment for diabetic neuropathic pain was established in 2 randomised, 12-week, double-blind, placebo-controlled, fixed dose studies in adults (22 to 88 years) having diabetic neuropathic pain for at least 6 months.
 Patients meeting diagnostic criteria for major depressive disorder were excluded from these trials.
 The primary outcome measure was the weekly mean of 24-hour average pain, which was collected in a daily diary by patients on an 11-point Likert scale.
 
-In both studies, duloxetine 60 mg once daily and 60 mg twice daily significantly reduced pain compared with placebo.
+In both studies, CYMBALTA 60 mg once daily and 60 mg twice daily significantly reduced pain compared with placebo.
 The effect in some patients was apparent in the first week of treatment.
 The difference in mean improvement between the two active treatment arms was not significant.
 At least 30% reported pain reduction was recorded in approximately 65% of duloxetine treated patients versus 40% for placebo.

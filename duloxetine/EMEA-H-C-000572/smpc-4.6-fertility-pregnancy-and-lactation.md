@@ -1,7 +1,7 @@
 # 4.6 Pregnancy and lactation
 
 Pregnancy
-There are no data on the use of duloxetine in pregnant women.
+There are no adequate data on the use of duloxetine in pregnant women.
 Studies in animals have shown reproductive toxicity at systemic exposure levels (AUC) of duloxetine lower than the maximum clinical exposure (see section 5.3).
 The potential risk for humans is unknown.
 As with other serotoninergic medicinal products, discontinuation symptoms may occur in the neonate after maternal duloxetine use near term.

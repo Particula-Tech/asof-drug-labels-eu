@@ -29,11 +29,14 @@ St John’s wort
 Undesirable effects may be more common during concomitant use of CYMBALTA and herbal preparations containing St John’s wort (Hypericum perforatum).
 
 Suicide
-Major Depressive Episodes
+Major Depressive Episodes and Generalised Anxiety Disorder
 Depression is associated with an increased risk of suicidal thoughts, self harm and suicide (suicide-related events).
 This risk persists until significant remission occurs.
 As improvement may not occur during the first few weeks or more of treatment, patients should be closely monitored until such improvement occurs.
 It is general clinical experience that the risk of suicide may increase in the early stages of recovery.
+Other psychiatric conditions for which CYMBALTA is prescribed can also be associated with an increased risk of suicide-related events.
+In addition, these conditions may be co-morbid with major depressive disorder.
+The same precautions observed when treating patients with major depressive disorder should therefore be observed when treating patients with other psychiatric disorders.
 Patients with a history of suicide-related events or those exhibiting a significant degree of suicidal thoughts prior to commencement of treatment are known to be at greater risk of suicidal thoughts or suicidal behaviour, and should receive careful monitoring during treatment.
 A meta-analysis of placebo-controlled clinical trials of antidepressant medicinal products in psychiatric disorders showed an increased risk of suicidal behaviour with antidepressants compared to placebo in patients less than 25 years old.
 Cases of suicidal thoughts and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation (see section 4.8).
@@ -71,16 +74,16 @@ Generally these symptoms are self-limiting and usually resolve within 2 weeks, t
 It is therefore advised that duloxetine should be gradually tapered when discontinuing treatment over a period of no less than 2 weeks, according to the patient’s needs (see section 4.2).
 
 Elderly
-Major Depressive Episodes: Data on the use of CYMBALTA 120mg in elderly patients with major depressive disorders are limited..
+Major Depressive Episodes: Data on the use of CYMBALTA 120mg in elderly patients with major depressive disorders are limited.
 Therefore, caution should be exercised when treating the elderly with the maximum dosage (see sections 4.2 and 5.2).
-
+Generalised Anxiety Disorder: Data on the use of CYMBALTA in elderly patients with generalised anxiety disorder are limited.
 Akathisia/psychomotor restlessness
 The use of duloxetine has been associated with the development of akathisia, characterised by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.
 This is most likely to occur within the first few weeks of treatment.
 In patients who develop these symptoms, increasing the dose may be detrimental.
 
 Medicinal products containing duloxetine
-Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive episodes as well as stress urinary incontinence).
+Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive episodes, generalised anxiety disorder as well as stress urinary incontinence).
 The use of more than one of these products concomitantly should be avoided.
 
 Hepatitis/increased liver enzymes
@@ -88,6 +91,7 @@ Cases of liver injury, including severe elevations of liver enzymes (>10 times u
 Most of them occurred during the first months of treatment.
 The pattern of liver damage was predominantly hepatocellular.
 Duloxetine should be used with caution in patients treated with other medicinal products associated with hepatic injury.
+
 Sucrose
 CYMBALTA hard gastro-resistant capsules contain sucrose.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.

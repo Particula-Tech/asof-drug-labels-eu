@@ -11,6 +11,15 @@ However, there is no clinical evidence suggesting that patients not responding t
 Therapeutic response is usually seen after 2-4 weeks of treatment.
 After consolidation of the antidepressive response, it is recommended to continue treatment for several months, in order to avoid relapse.
 
+Generalised Anxiety Disorder:
+The recommended starting dose in patients with Generalised Anxiety Disorder is 30 mg once daily with or without food.
+In patients with insufficient response the dose should be increased to 60 mg, which is the usual maintenance dose in most patients.
+In patients with co-morbid Major Depressive Episodes, the starting and maintenance dose is 60 mg once daily (please see also dosing recommendation above).
+Doses up to 120 mg per day have been shown to be efficacious and have been evaluated from a safety perspective in clinical trials.
+In patients with insufficient response to 60 mg, escalation up to 90 mg or 120 mg may therefore be considered.
+Dose escalation should be based upon clinical response and tolerability.
+After consolidation of the response, it is recommended to continue treatment for several months, in order to avoid relapse.
+
 Diabetic Peripheral Neuropathic Pain:
 The starting and recommended maintenance dose is 60 mg daily with or without food.
 Dosages above 60 mg once daily, up to a maximum dose of 120 mg per day administered in evenly divided doses, have been evaluated from a safety perspective in clinical trials.
@@ -25,7 +34,7 @@ The therapeutic benefit should regularly (at least every three months) be reasse
 Elderly
 Major Depressive Episodes: No dosage adjustment is recommended for elderly patients solely on the basis of age.
 However, as with any medicine, caution should be exercised when treating the elderly, especially with CYMBALTA 120 mg per day for which data are limited (see sections 4.4 and 5.2).
-Diabetic Peripheral Neuropathic Pain: No dosage adjustment is recommended for elderly patients solely on the basis of age.
+Other Indications: No dosage adjustment is recommended for elderly patients solely on the basis of age.
 However, caution should be exercised when treating the elderly (see section 5.2).
 
 Children and adolescents
