@@ -56,7 +56,7 @@ Discontinuation of treatment
 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely (<0.01%) when olanzapine is stopped abruptly.
 
 QT interval
-In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF<500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
+In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] � 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF<500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
 However, as with other antipsychotics, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
 
 Thromboembolism
@@ -95,7 +95,7 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely (< 0.01%) when olanzapine is stopped abruptly.
 
-In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF< 500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
+In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] � 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF< 500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
 
 Lactose: ZYPREXA tablets contain lactose.
 
@@ -139,7 +139,7 @@ The safety and efficacy of IM olanzapine has not been evaluated in patients with
 
 While olanzapine demonstrated anticholinergic activity in vitro, experience during oral clinical trials revealed a low incidence of related events.
 
-In clinical trials with oral administration, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥500 milliseconds [msec] at any time post baseline in patients with baseline QTcF<500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
+In clinical trials with oral administration, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] �500 milliseconds [msec] at any time post baseline in patients with baseline QTcF<500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
 In clinical trials with ZYPREXA powder for solution for injection, olanzapine was not associated with a persistent increase in absolute QT or in QTc intervals.
 
 In comparator oral studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.

@@ -32,8 +32,8 @@ Olanzapine showed no interaction when co-administered with lithium or biperiden.
 
 Therapeutic monitoring of valproate plasma levels did not indicate that valproate dosage adjustment is required after the introduction of concomitant olanzapine.
 
-CNS medicinal products
-Caution should be exercised in patients who receive medicinal products that can cause central nervous system depression and alcohol.
+General CNS activity
+Caution should be exercised in patients who consume alcohol or receive medicinal products that can cause central nervous system depression.
 
 The concomitant use of olanzapine with anti-Parkinsonian medicinal products in patients with Parkinson's disease and dementia is not recommended (see section 4.4).
 
@@ -50,7 +50,7 @@ Caution should be used if olanzapine is being administered concomitantly with me
 
 [ZYPREXA 10 mg coated tablets.]
 
-Caution should be exercised in patients who receive medicinal products that can cause central nervous system depression.
+(all sentences already above)
 
 [ZYPREXA 15 mg coated tablets]
 
@@ -64,7 +64,7 @@ Caution should be exercised in patients who receive medicinal products that can 
 
 IM olanzapine has not been studied in patients with alcohol or drug intoxication (see section 4.4).
 
-Caution should be exercised in patients who receive medicinal products that can induce hypotension, bradycardia, respiratory or central nervous system depression (see section 4.4).
+Caution should be exercised in patients who consume alcohol or receive medicinal products that can induce hypotension, bradycardia, respiratory or central nervous system depression (see section 4.4).
 
 Potential for interaction following intramuscular injection
 In a single dose intramuscular study of olanzapine 5 mg, administered 1 hour before intramuscular lorazepam 2 mg (metabolised by glucuronidation), the pharmacokinetics of both medicines were unchanged.

@@ -26,6 +26,7 @@ In a 12-month recurrence prevention study in manic episode patients who achieved
 Olanzapine also showed a statistically significant advantage over placebo in terms of preventing either recurrence into mania or recurrence into depression.
 
 In a second 12-month recurrence prevention study in manic episode patients who achieved remission with a combination of olanzapine and lithium and were then randomised to olanzapine or lithium alone, olanzapine was statistically non-inferior to lithium on the primary endpoint of bipolar recurrence (olanzapine 30.0%, lithium 38.3%; p = 0.055).
+
 In an 18-month co-therapy study in manic or mixed episode patients stabilised with olanzapine plus a mood stabiliser (lithium or valproate), long-term olanzapine co-therapy with lithium or valproate was not statistically significantly superior to lithium or valproate alone in delaying bipolar recurrence, defined according to syndromic (diagnostic) criteria.
 
 Paediatric population

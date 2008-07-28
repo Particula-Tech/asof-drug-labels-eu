@@ -1,11 +1,11 @@
 # 4.8 Undesirable effects
 
 Adults
-The most frequently (seen in ≥ 1% of patients ) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic transaminases (see section 4.4), rash, asthenia, fatigue and oedema.
+The most frequently (seen in � 1% of patients ) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic transaminases (see section 4.4), rash, asthenia, fatigue and oedema.
 
 The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-The frequency terms listed are defined as follows: Very common (≥10%), common (≥ 1% and < 10%), uncommon (≥ 0.1% and < 1%), rare (≥ 0.01% and
+The frequency terms listed are defined as follows: Very common (�10%), common (� 1% and < 10%), uncommon (� 0.1% and < 1%), rare (� 0.01% and
 < 0.1%), very rare (< 0.01%), not known (cannot be estimated from the data available).
 
 | Very common | Common | Uncommon | Not known |
@@ -41,20 +41,21 @@ The frequency terms listed are defined as follows: Very common (≥10%), common 
 | Elevated plasma prolactin levels8 |  | High creatine phosphokinase Increased total bilirubin | Increased alkaine phosphatase |
 
 1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories.
-Weight gain ≥ 7% of baseline body weight was very common and ≥ 15% of baseline body weight was common.
+Weight gain � 7% of baseline body weight was very common and � 15% of baseline body weight was common.
+Patients gaining � 25% of their baseline body weight with long-term exposure were very common.
 
 2 Mean increases in fasting lipid values (total cholesterol, LDL cholesterol, and triglycerides) were greater in patients without evidence of lipid dysregulation at baseline.
 3 Observed for fasting normal levels at baseline (< 5.17 mmol/l) which increased to high
-(≥ 6.2 mmol/l).
-Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17 - < 6.2 mmol) to high (≥ 6.2 mmol) were very common.
+(� 6.2 mmol/l).
+Changes in total fasting cholesterol levels from borderline at baseline (� 5.17 - < 6.2 mmol) to high (� 6.2 mmol) were very common.
 
-4 Observed for fasting normal levels at baseline (< 5.56 mmol/l) which increased to high (≥ 7 mmol/l).
-Changes in fasting glucose from borderline at baseline (≥ 5.56 - < 7 mmol/l) to high (≥ 7 mmol/l) were very common.
+4 Observed for fasting normal levels at baseline (< 5.56 mmol/l) which increased to high (� 7 mmol/l).
+Changes in fasting glucose from borderline at baseline (� 5.56 - < 7 mmol/l) to high (� 7 mmol/l) were very common.
 
 5 Observed for fasting normal levels at baseline (< 1.69 mmol/l) which increased to high
-(≥ 2.26 mmol/l).
-Changes in fasting triglycerides from borderline at baseline (≥ 1.69 mmol/l -
-< 2.26 mmol/l) to high (≥ 2.26 mmol/l) were very common.
+(� 2.26 mmol/l).
+Changes in fasting triglycerides from borderline at baseline (� 1.69 mmol/l -
+< 2.26 mmol/l) to high (� 2.26 mmol/l) were very common.
 
 6 In clinical trials, the incidence of parkinsonism and dystonia in olanzapine-treated patients was numerically higher, but not statistically significantly different from placebo.
 Olanzapine-treated patients had a lower incidence of parkinsonism, akathisia and dystonia compared with titrated doses of haloperidol.
@@ -64,6 +65,10 @@ In the absence of detailed information on the pre-existing history of individual
 
 8 Associated clinical manifestations (e.g., gynaecomastia, galactorrhoea, and breast enlargement) were rare.
 In most patients, levels returned to normal ranges without cessation of treatment.
+
+Long-term exposure (at least 48 weeks)
+The proportion of patients who had adverse, clinically significant changes in weight gain, glucose, total/LDL/HCL cholesterol or triglycerides increased over time.
+In adult patients who completed 9-12 months of therapy, the rate of increase in mean blood glucose slowed after approximately 4-6 months.
 
 Additional information on special populations
 In clinical trials in elderly patients with dementia, olanzapine treatment was associated with a higher incidence of death and cerebrovascular adverse reactions compared to placebo (see also section 4.4).
@@ -82,11 +87,12 @@ Long-term olanzapine treatment (up to 12 months) for recurrence prevention in pa
 Children and adolescents
 Olanzapine is not indicated for the treatment of children and adolescent patients below 18 years.
 Although no clinical studies designed to compare adolescents to adults have been conducted, data from the adolescent trials were compared to those of the adult trials.
+The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during short-term clinical trials in adolescent patients.
+Clinically significant weight gain (� 7%) appears to occur more frequently in the adolescent population compared to adults with comparable exposures.
+The magnitude of weight gain and the propotion of adolescent patients who had clinically significant weight gain were greater with long-term exposure (at least 24 weeks) than with short-term exposure.
 
-The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during clinical trials in adolescent patients.
-Clinically significant weight gain (≥ 7%) appears to occur more frequently in the adolescent population.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-The frequency terms listed are defined as follows: Very common (≥ 10%), common (≥ 1% and
+The frequency terms listed are defined as follows: Very common (� 10%), common (� 1% and
 < 10%).
 
 Metabolism and nutrition disorders
@@ -101,23 +107,25 @@ Very common: Elevations of hepatic transaminases (ALT/AST; see section 4.4).
 Investigations
 Very common: Decreased total bilirubin, increased GGT, elevated plasma prolactin levels12.
 
-9 Weight gain ≥ 7% of baseline body weight (kg) was very common and ≥ 15% of baseline body weight was common.
+9 Weight gain � 7% of baseline body weight (kg) was very common and � 15% of baseline body weight was common.
+With long-term exposure (at least 24 weeks), approximately half of adolescent patients gained � 15% and almost a third gained � 25% of their baseline body weight.
+Among adolescent patients, mean weight gain was greatest in patients who were overweight or obese at baseline.
 
 10 Observed for fasting normal levels at baseline (< 1.016 mmol/l) which increased to high
-(≥ 1.467 mmol/l) and changes in fasting triglycerides from borderline at baseline (≥ 1.016 mmol/l -
-< 1.467 mmol/l) to high (≥ 1.467 mmol/l).
+(� 1.467 mmol/l) and changes in fasting triglycerides from borderline at baseline (� 1.016 mmol/l -
+< 1.467 mmol/l) to high (� 1.467 mmol/l).
 
 11 Changes in total fasting cholesterol levels from normal at baseline (< 4.39 mmol/l) to high
-(≥ 5.17 mmol/l) were observed commonly.
-Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.39 - < 5.17 mmol/l) to high (≥ 5.17 mmol/l) were very common.
+(� 5.17 mmol/l) were observed commonly.
+Changes in total fasting cholesterol levels from borderline at baseline (� 4.39 - < 5.17 mmol/l) to high (� 5.17 mmol/l) were very common.
 
 12 Elevated plasma prolactin levels were reported in 47.4% of adolescent patients.
 
 [ZYPREXA 5 mg coated tablets]
 
-The most frequently (seen in ≥ 1% of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic transaminases (see section 4.4), rash, asthenia, fatigue and oedema.
+The most frequently (seen in � 1% of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic transaminases (see section 4.4), rash, asthenia, fatigue and oedema.
 
-Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17- < 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
+Changes in total fasting cholesterol levels from borderline at baseline (� 5.17- < 6.2 mmol/l) to high (� 6.2 mmol/l) were very common.
 
 (≥ 10%) of tremor, dry mouth, increased appetite, and weight gain.
 Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥ 7% from baseline body weight in 39.9% of patients.
@@ -157,7 +165,7 @@ Common (1-10%): Injection site discomfort.
 
 The undesirable effects listed below have been observed following administration of oral olanzapine, but may also occur following administration of ZYPREXA powder for solution for injection.
 
-The frequency terms listed are defined as follows: Very common (≥ 10%), common (≥ 1% and < 10%), uncommon (≥ 0.1% and < 1%), rare (≥ 0.01% and
+The frequency terms listed are defined as follows: Very common (� 10%), common (� 1% and < 10%), uncommon (� 0.1% and < 1%), rare (� 0.01% and
 
 | Very common | Common | Uncommon | Not known |
 | --- | --- | --- | --- |

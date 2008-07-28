@@ -11,7 +11,6 @@ There is no specific antidote for olanzapine.
 Induction of emesis is not recommended.
 Standard procedures for management of overdose may be indicated (i.e. gastric lavage, administration of activated charcoal).
 The concomitant administration of activated charcoal was shown to reduce the oral bioavailability of olanzapine by 50 to 60%.
-
 Symptomatic treatment and monitoring of vital organ function should be instituted according to clinical presentation, including treatment of hypotension and circulatory collapse and support of respiratory function.
 Do not use epinephrine, dopamine, or other sympathomimetic agents with beta-agonist activity since beta stimulation may worsen hypotension.
 Cardiovascular monitoring is necessary to detect possible arrhythmias.
