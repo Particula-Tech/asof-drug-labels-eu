@@ -3,7 +3,8 @@
 Pharmacotherapeutic group: Antiviral for systemic use, ATC code: J05AE10.
 
 Mechanism of action
-Darunavir is an inhibitor of the HIV-1 protease (KD of 4.5 x 10-12M).
+Darunavir is an inhibitor of the dimerisation and of the catalytic activity of the HIV-1 protease
+(KD of 4.5 x 10-12M).
 It selectively inhibits the cleavage of HIV encoded Gag-Pol polyproteins in virus infected cells, thereby preventing the formation of mature infectious virus particles.
 
 Antiviral activity in vitro
@@ -16,14 +17,16 @@ Darunavir showed synergistic antiviral activity when studied in combination with
 No antagonism was observed between darunavir and any of those antiretrovirals.
 
 Resistance
-In vitro selection of darunavir-resistant virus from wild type HIV-1 was lengthy (up to 2 years).
-The selected viruses were unable to grow in the presence of darunavir concentrations above 220 nM.
-Viruses selected in these conditions and showing decreased susceptibility to darunavir (range: 6 - 21-fold) harboured 3 to 6 amino acid substitutions in the protease gene.
+In vitro selection of darunavir-resistant virus from wild type HIV-1 was lengthy (> 3 years).
+The selected viruses were unable to grow in the presence of darunavir concentrations above 400 nM.
+Viruses selected in these conditions and showing decreased susceptibility to darunavir (range: 23 - 50-fold) harboured 2 to 4 amino acid substitutions in the protease gene.
 Identification of determinants of decreased susceptibility to darunavir in those viruses is under investigation.
-In vitro selection of darunavir resistant HIV-1 (range: 53 - 641-fold change in EC50 values) from 9 HIV-1 strains harbouring multiple PI resistance-associated mutations showed that a minimum of 8 darunavir in vitro selected mutations were required in the HIV-1 protease to render a virus resistant (fold change [FC] > 10) to darunavir.
-In the 96 weeks analysis of POWER 1, 2 and 3 (see Clinical experience subsection) the amino acid substitutions identified that developed on PREZISTA co-administered with ritonavir
-(600/100 mg b.i.d.) in greater than 20% of the isolates from subjects who experienced virologic failure by rebound were V32I, L33F, I54L and L89V.
-Amino acid substitutions that developed in 10 to 20% of the isolates were L10F, V11I, I13V, I15V, K43T, M46I, I47V, I50V, F53L and V82I.
+In vitro selection of darunavir resistant HIV-1 (range: 53 - 641-fold change in EC50 values [FC]) from 9 HIV-1 strains harbouring multiple PI Resistance-Associated Mutations (RAMs) showed that a minimum of 8 darunavir in vitro selected mutations were required in the HIV-1 protease to render a virus resistant (FC > 10) to darunavir.
+In a pooled analysis of the POWER 1, 2 and 3 (see Clinical experience subsection) and DUET 1 and 2 (TMC125-C206 and TMC125-C216) trials the amino acid substitutions identified that developed on PREZISTA co-administered with ritonavir (600/100 mg b.i.d.) in ≥ 20% of the isolates from subjects who experienced virologic failure by rebound were V32I, I54L and L89V.
+Amino acid substitutions that developed in 10 to 20% of the isolates were V11I, I13V, L33F, I50V and F53L.
+Amino acid substitutions that developed in 5 to 10% of isolates were L10F, I15V, M36L, K43T, M46I, I47V, A71I, G73S, T74P, L76V, V82I and I84V.
+Of the viruses isolated from patients experiencing virologic failure by rebound from the PREZISTA/rtv 600/100 mg b.i.d. group of the POWER and DUET trials, 85% of those susceptible to darunavir at baseline developed decreased susceptibility to darunavir during treatment.
+In the same group of patients, 71% of viruses that were susceptible to tipranavir at baseline remained susceptible after treatment.
 
 Cross-resistance
 Darunavir has a < 10-fold decreased susceptibility against 90% of 3309 clinical isolates resistant to amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir and/or tipranavir showing that viruses resistant to most PIs remain susceptible to darunavir.
@@ -39,16 +42,13 @@ HIV-1 infected patients who were eligible for these trials had previously failed
 The OBR consisted of at least 2 NRTIs with or without enfuvirtide (ENF).
 POWER 3: additional data on the efficacy of PREZISTA co-administered with ritonavir 600/100 mg b.i.d. with OBR have been obtained in similar treatment-experienced patients participating in the non-randomised trial TMC114-C215.
 Entry criteria were the same as and baseline characteristics were comparable to those of POWER 1 and POWER 2.
-
 The table below shows the efficacy data of the 48-week analyses on the recommended 600 mg dose of PREZISTA co-administered with 100 mg ritonavir b.i.d. from the pooled POWER 1 and POWER 2 trials as well as from the POWER 3 trial.
 
-|  | POWER 1 and POWER 2 pooled data | POWER 3 |
-| --- | --- | --- |
-| Outcomes at 48 weeks |  |  |
-| Baseline characteristics |  |  |
-
-| Mean plasma HIV-1 RNA | 4.61 log10 copies/ml (PREZISTA/ritonavir) 4.49 log10 copies/ml (control) |  |  | 4.58 log10 copies/ml |
+|  | POWER 1 and POWER 2 pooled data |  |  | POWER 3 |
 | --- | --- | --- | --- | --- |
+| Outcomes at 48 weeks |  |  |  |  |
+| Baseline characteristics |  |  |  |  |
+| Mean plasma HIV-1 RNA | 4.61 log10 copies/ml (PREZISTA/ritonavir) 4.49 log10 copies/ml (control) |  |  | 4.58 log10 copies/ml |
 | Median CD4+ cell count | 153 x 106 cells/l (PREZISTA/ritonavir) 163 x 106 cells/l (control) |  |  | 120 x 106 cells/l |
 | Outcomes | PREZISTA/ritonavir 600/100 mg b.i.d. n=131 | Control n=124 | Treatment difference | PREZISTA/ritonavir 600/100 mg b.i.d. n=334 |
 | HIV-1 RNA log10 mean change from baseline (log10 copies/ml)a | -1.69 | -0.37 | 1.32b (1.58; 1.05)f | -1.62 |
@@ -65,27 +65,30 @@ The mean decrease in HIV RNA level compared to baseline was 1.58 (POWER 1 and 2)
 Out of the 206 subjects who responded with complete viral suppression (< 50 copies/ml) at week 48, 177 subjects (86% of the responders at week 48) remained responders at week 96.
 
 Baseline genotype or phenotype and virologic outcome
-In POWER 1, 2 and 3 the presence at baseline of 3 or more of mutations V11I, V32I, L33F, I47V, I50V, I54L or M, G73S, L76V, I84V or L89V was associated with a decreased virologic response to PREZISTA co-administered with 100 mg ritonavir.
-The presence of these individual mutations was associated with a median of 10 PI resistance associated mutations of the IAS-USA list of mutations.
+In a pooled analysis of the 600/100 mg b.i.d. groups of the POWER and DUET trials, the presence at baseline of 3 or more of mutations V11I, V32I, L33F, I47V, I50V, I54L or M, T74P, L76V, I84V or L89V was associated with a decreased virologic response to PREZISTA co-administered with 100 mg ritonavir.
+The presence of these individual mutations was associated with a median of 13 to 15 PI resistance associated mutations of the IAS-USA list of mutations.
 
-Response to PREZISTA co-administered with ritonavir (600/100 mg b.i.d.) by baseline genotype*: As treated analysis of POWER 1, 2 and 3.
+Response (HIV-1 RNA < 50 copies/ml at week 24) to PREZISTA co-administered with ritonavir (600/100 mg b.i.d.) by baseline genotype* and by use of enfuvirtide (ENF): As treated analysis of the POWER and DUET trials.
 
-| Number of mutations at baseline* | Change in log10 viral load at week 24 | Proportion of subjects with ≥ 1 log10 decrease at week 24 | Proportion of subjects with < 50 copies/ml at week 24 |
+| Number of mutations at baseline* | All subjects % n/N | Subjects with no/non-naïve use of ENF % n/N | Subjects with naïve use of ENF % n/N |
 | --- | --- | --- | --- |
-| 0 – 2 | -2.1 | 78% 213/274 | 50% 138/274 |
-| 3 | -1.12 | 45% 26/58 | 22% 13/58 |
-| ≥ 4 | -0.46 | 27% 11/41 | 10% 4/41 |
+| All ranges | 45% 455/1014 | 39% 290/741 | 60% 165/273 |
+| 0 – 2 | 54% 359/660 | 50% 238/477 | 66% 121/183 |
+| 3 | 39% 67/172 | 29% 35/120 | 62% 32/52 |
+| ≥ 4 | 12% 20/171 | 7% 10/135 | 28% 10/36 |
 
-* Number of mutations from the list of mutations associated with a diminished response to PREZISTA/ritonavir (V11I, V32I, L33F, I47V, I50V, I54L or M, G73S, L76V, I84V or L89V)
+* Number of mutations from the list of mutations associated with a diminished response to PREZISTA/ritonavir (V11I, V32I, L33F, I47V, I50V, I54L or M, T74P, L76V, I84V or L89V)
+
 Baseline darunavir phenotype (shift in susceptibility relative to reference) was shown to be a predictive factor of virologic outcome.
 
-Response to PREZISTA co-administered with ritonavir (600/100 mg b.i.d.) by baseline darunavir phenotype: As treated analysis of POWER 1, 2 and 3.
+Response (HIV-1 RNA < 50 copies/ml at week 24) to PREZISTA co-administered with ritonavir (600/100 mg b.i.d.) by baseline darunavir phenotype and by use of enfuvirtide: As treated analysis of the POWER and DUET trials.
 
-| Baseline darunavir phenotype n=349 | Proportion of subjects with ≥ 1 log10 decrease at week 24 | Proportion of subjects with < 50 copies/ml at week 24 |
-| --- | --- | --- |
-| < 10 | 82% 201/244 | 53% 129/244 |
-| 10 – 40 | 44% 27/62 | 26% 16/62 |
-| > 40 | 40% 17/43 | 14% 6/43 |
+| Baseline darunavir phenotype | All subjects % n/N | Subjects with no/non-naïve use of ENF % n/N | Subjects with naïve use of ENF % n/N |
+| --- | --- | --- | --- |
+| All ranges | 45% 455/1014 | 39% 290/741 | 60% 165/273 |
+| ≤ 10 | 55% 364/659 | 51% 244/477 | 66% 120/182 |
+| 10 – 40 | 29% 59/203 | 17% 25/147 | 61% 34/56 |
+| > 40 | 8% 9/118 | 5% 5/94 | 17% 4/24 |
 
 This medicinal product has been authorised under a so-called “conditional approval” scheme.
 This means that further evidence on this medicinal product is awaited.
