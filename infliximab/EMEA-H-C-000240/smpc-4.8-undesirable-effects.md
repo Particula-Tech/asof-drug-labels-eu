@@ -12,7 +12,6 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 Table 1
 Undesirable Effects in Clinical Studies and from Post-Marketing Experience
-
 Infections and infestations
 Common: Viral infection (e.g. influenza, herpes virus infection) Uncommon: Sepsis, tuberculosis, abscess, bacterial infection, fungal infection, cellulitis, candidiasis
 Unknown: Opportunistic infections (such as atypical mycobacterial infection, pneumocystosis, histoplasmosis, coccidioidomycosis, cryptococcosis, aspergillosis and listeriosis), hepatitis B reactivation, salmonellosis
@@ -110,8 +109,8 @@ Nearly 50% of reported deaths have been associated with infection.
 Cases of tuberculosis, sometimes fatal, including miliary tuberculosis and tuberculosis with extrapulmonary location have been reported (see section 4.4).
 
 Malignancies and lymphoproliferative disorders: In clinical studies with infliximab in which 5780 patients were treated, representing 5494 patient years, 5 cases of lymphomas and 26 non-lymphoma malignancies were detected as compared with no lymphomas and 1 non-lymphoma malignancy in 1600 placebo-treated patients representing 941 patient years.
-
 In long-term safety follow-up of clinical studies with infliximab of up to 5 years, representing 6234 patients-years (3210 patients), 5 cases of lymphoma and 38 cases of non-lymphoma malignancies were reported.
+
 From August 1998 to August 2005, 1909 cases of suspected malignancies have been reported from post-marketing, clinical studies and registries (321 in Crohn’s disease patients, 1302 in rheumatoid arthritis patients and 286 in patients with other or unknown indications).
 Among those there were 347 lymphoma cases.
 During this period, the estimated exposure is 1,909,941 patient years since first exposure (see section 4.4: Special Warnings and Special Precautions for Use - "Malignancies").
@@ -185,7 +184,6 @@ Infections occurred in 68% (41/60) of children receiving 3 mg/kg over 52 weeks, 
 Paediatric Crohn’s disease patients:
 The following adverse events were reported more commonly in paediatric Crohn’s disease patients in the REACH study (see section 5.1) than in adult Crohn’s disease patients: anaemia (10.7%), blood in stool (9.7%), leukopenia (8.7%), flushing (8.7%), viral infection (7.8%), neutropenia (6.8%), bone fracture (6.8%), bacterial infection (5.8%), and respiratory tract allergic reaction (5.8%).
 Other special considerations are discussed below.
-
 Infusion-related reactions
 Overall, in REACH, 17.5% of randomized patients experienced 1 or more infusion reactions.
 There were no serious infusion reactions, and 2 subjects in REACH had non-serious anaphylactic reactions.

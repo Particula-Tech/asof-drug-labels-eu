@@ -39,7 +39,8 @@ Early recognition of atypical clinical presentations of serious infections is cr
 Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal infections, and other opportunistic infections have been observed in patients treated with infliximab.
 Some of these infections have been fatal.
 
-Cases of active tuberculosis including miliary tuberculosis and tuberculosis with extra pulmonary location have been reported in patients treated with Remicade.
+There have been reports of active tuberculosis in patients receiving Remicade.
+It should be noted that in the majority of these reports tuberculosis was extrapulmonary, presenting as either local or disseminated disease.
 
 Opportunistic infections reported in patients on Remicade have included, but are not limited to pneumocystosis, histoplasmosis, cytomegalovirus infection, atypical mycobacterial infections, listeriosis and aspergillosis.
 
