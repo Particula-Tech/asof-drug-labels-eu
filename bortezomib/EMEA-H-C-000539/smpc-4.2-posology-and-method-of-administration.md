@@ -48,12 +48,17 @@ There is no evidence to suggest that dose adjustments are necessary in the elder
 
 Use in patients with impaired renal function
 
-VELCADE has not been formally studied in patients with impaired renal function.
-Patients with compromised renal function should be monitored carefully, especially if creatinine clearance is
-≤30 ml/min and a dose reduction should be considered (see section 4.4 and 4.8).
+The pharmacokinetics of VELCADE are not influenced in patients with renal impairment (CrCL (Creatinine Clearance) > 20 ml/min/1.73 m2); therefore, dosing adjustments of VELCADE are not necessary for these patients.
+It is unknown if the pharmacokinetics of VELCADE are influenced in patients with severe renal impairment (CrCL< 20 ml/min/1.73 m2 not undergoing dialysis).
+Since dialysis may reduce VELCADE concentrations, the drug should be administered after the dialysis procedure (see section 5.2).
 
 Use in patients with impaired hepatic function
 
 VELCADE has not been studied in patients with impaired hepatic function.
 Significant hepatic impairment may have an impact on the elimination of bortezomib and may increase the likelihood of drug-drug interactions.
 Patients with impaired liver function should be treated with extreme caution and a dose reduction should be considered (see sections 4.3 and 4.4).
+
+[VELCADE 3.5 mg powder for solution for injection]
+
+The pharmacokinetics of VELCADE are not influenced in patients with renal impairment (CCl > 20 ml/min/1.73 m2); therefore, dosing adjustments of VELCADE are not necessary for these patients.
+It is unknown if the pharmacokinetics of VELCADE are influenced in patients with severe renal impairment (CCl < 20 ml/min/1.73 m2 not undergoing dialysis).

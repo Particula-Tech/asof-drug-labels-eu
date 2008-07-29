@@ -14,5 +14,10 @@ The percent of bortezomib bound to plasma proteins was not concentration depende
 In vitro studies with human liver microsomes and human cDNA-expressed cytochrome P450 isozymes indicate that bortezomib is primarily oxidatively metabolized via cytochrome P450 enzymes, 3A4, 2C19, and 1A2.
 The major metabolic pathway is deboronation to form two deboronated metabolites that subsequently undergo hydroxylation to several metabolites.
 Deboronated-bortezomib metabolites are inactive as 26S proteasome inhibitors.
-Formal studies in patients with severely impaired renal and hepatic functions have not been conducted to date; consequently caution is recommended when administering bortezomib to these classes of patients (see section 4.4).
+Formal studies in patients with severely impaired hepatic function has not been conducted to date; consequently caution is recommended when administering bortezomib to this class of patients (see section 4.4).
 In the absence of data VELCADE is contraindicated in patients with severe liver impairment (see section 4.3).
+
+A pharmacokinetic study was conducted in patients with various degrees of renal impairment who were classified according to their creatinine clearance values (CrCL) into the following groups: Normal (CrCL ≥60 ml/min/1.73 m2, n=12), Mild (CrCL=40-59 ml/min/1.73 m2, n=10), Moderate (CrCL=20-39 ml/min/1.73 m2, n=9), and Severe (CrCL < 20 ml/min/1.73 m2, n=3).
+A group of dialysis patients who were dosed after dialysis was also included in the study (n=8).
+Patients were administered intravenous doses of 0.7 to 1.3 mg/m2 of VELCADE twice weekly.
+Exposure of VELCADE (dose-normalized AUC and Cmax) was comparable among all the groups (see section 4.2).

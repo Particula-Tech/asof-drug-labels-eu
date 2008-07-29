@@ -36,7 +36,7 @@ Table 2: Dosing regimens in Phase II and Phase III studies
 | --- | --- | --- | --- |
 | II | VELCADE: Day 1,4,8,11, (rest Day 12-21) | 1.3 mg/m2 (IV bolus) | Q3 weeks x 8cycles (extension**) |
 | III | VELCADE* a) Days 1,4,8,11, (Rest Day 12-21) b) Days 1,8,15,22 | 1.3 mg/m2 (IV bolus) | a) Q3weeks x 8, then b) Q5 weeks x 3 |
-| III | DEXAMETHASONE a) Days 1–4, 9–12, 17–20Days 1–4 | 40 mg (PO) | a) Q5 week x 4 b) Q4 week x 5 |
+| III | DEXAMETHASONE a) Days 1–4, 9–12, 17–20 b) Days 1–4 | 40 mg (PO) | a) Q5 week x 4 b) Q4 week x 5 |
 | II | Add DEXAMETHASONE*** | 20 mg (PO) (Days 1,2,4,5,8,9, 11,12) | Q3 weeks |
 
 *a) is the initial treatment, a) and b) represent a full course of treatment
@@ -70,7 +70,7 @@ Table 4: Patient exposure to treatment with VELCADE during phase 2 and 3 studies
 |  | Phase II VELCADE | Phase III VELCADE | Phase III Dex |
 | --- | --- | --- | --- |
 | Received at least 1 dose | N= 202 | N=331 | N= 332 |
-| Completed 4 cycles a) all initial cycles (number) b) full course (number) c) extension * | 27% (8 cycles) NA N= 63 pts (median 7 cycles) or total median 14 cycles (range 7-32) | 69% 29 % (8 cycles) 9% (11 cycles) NA | 36 % (4 cycles) 5 % (9 cycles) NA |
+| Completed 4 cycles a) all initial cycles (number) b) full course (number) c) extension * | 62% 27% (8 cycles ) NA N= 63 pts (median 7 cycles) or total median 14 cycles (range 7-32) | 69% 29 % (8 cycles) 9% (11 cycles) NA | 36 % (4 cycles) 5 % (9 cycles) NA |
 
 *Patients could continue on treatment after completing 8 cycles, in case of benefit
 NA = not applicable
@@ -79,10 +79,10 @@ In the phase III study, treatment with VELCADE led to a significantly longer tim
 As a result of a preplanned interim analysis, the Dexamethasone arm was halted at the recommendation of the data monitoring committee and all patients randomised to dexamethasone were then offered VELCADE, regardless of disease status.
 Due to this early crossover, the median duration of follow-up for surviving patients is 8.3 months.
 Both in patients who were refractory to their last prior therapy and those who were not refractory, overall survival was significantly longer and response rate was significantly higher on the VELCADE arm.
+
 Of the 669 patients enrolled, 245 (37%) were 65 years of age or older.
 Response parameters as well as TTP remained significantly better for VELCADE independently of age.
 Regardless of β2-microglobulin levels at baseline, all efficacy parameters (time to progression and overall survival, as well as response rate) were significantly improved on the VELCADE arm.
-
 In the refractory population of the Phase II study, responses were determined by an independent review committee and the response criteria were those of the European Bone Marrow Transplant Group.
 The median survival of all patients enrolled was 17 months (range <1 to 36+ months).
 This survival was greater than the six-to-nine month median survival anticipated by consultant clinical investigators for a similar patient population.
@@ -120,5 +120,5 @@ Eighteen percent of patients achieved, or had an improved response (MR (11%) or 
 | --- | --- | --- | --- |
 | II | VELCADE: Day 1,4,8,11, (rest Day 12-21) | 1.3 mg/m2 (IV bolus) | Q3 weeks x 8cycles (extension**) |
 | III | VELCADE* a) Days 1,4,8,11, (Rest Day 12-21) b) Days 1,8,15,22 | 1.3 mg/m2 (IV bolus) | a) Q3weeks x 8, then b) Q5 weeks x 3 |
-| III | DEXAMETHASONE a) Days 1–4, 9–12, 17–20b) Days 1–4 | 40 mg (PO) | a) Q5 week x 4 b) Q4 week x 5 |
+| III | DEXAMETHASONE c) Days 1–4, 9–12, 17–20 d) Days 1–4 | 40 mg (PO) | a) Q5 week x 4 b) Q4 week x 5 |
 | II | Add DEXAMETHASONE*** | 20 mg (PO) (Days 1,2,4,5,8,9, 11,12) | Q3 weeks |

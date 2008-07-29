@@ -86,7 +86,7 @@ Their frequency is not known.
 
 Infections and infestations
 
-Herpes meningoencephalitis
+Herpes meningoencephalitis, septic shock
 
 Immune System Disorders
 

@@ -32,11 +32,11 @@ Improvement in, or resolution of, peripheral neuropathy was reported in 51% of p
 
 In addition to peripheral neuropathy, there may be a contribution of autonomic neuropathy to some adverse reactions such as postural hypotension and severe constipation with ileus.
 Information on autonomic neuropathy and its contribution to these undesirable effects is limited.
-
 Seizures
 
 Seizures have been uncommonly reported in patients without previous history of seizures or epilepsy.
 Special care is required when treating patients with any risk factors for seizures.
+
 Hypotension
 
 VELCADE treatment is commonly associated with orthostatic/postural hypotension.
@@ -72,13 +72,11 @@ In the event of new or worsening pulmonary symptoms (e.g. cough, dyspnoea), a pr
 The benefit/risk ratio should be considered prior to continuing VELCADE therapy.
 
 In a clinical trial, two patients given high-dose cytarabine (2 g/m2 per day) by continuous infusion over 24 hours with daunorubicin and VELCADE for relapsed acute myelogenous leukemia died of ARDS early in the course of therapy.
-Therefore, this specific regimen with concomitant administration with high-dose cytarabine (2g/m2 per day) by continuous infusion over 24 hours is not recommended.
+Therefore, this specific regimen with concomitant administration with high-dose cytarabine (2 g/m2 per day) by continuous infusion over 24 hours is not recommended.
 
 Renal Impairment
-
-The incidence of serious undesirable effects has been shown to increase in patients with mild to moderate renal impairment compared to patients with normal renal function (see section 4.8).
 Renal complications are frequent in patients with multiple myeloma.
-Such patients should be monitored closely and dose reduction considered.
+Such patients should be monitored closely.
 Hepatic Impairment
 
 Patients with hepatic impairment should be treated with extreme caution and a dose reduction should be considered (see sections 4.2 and 4.3).
@@ -111,3 +109,7 @@ Potentially immunocomplex-mediated reactions
 
 Potentially immunocomplex-mediated reactions, such as serum-sickness –type reaction, polyarthritis with rash and proliferative glomerulonephritis have been reported uncommonly.
 Bortezomib should be discontinued if serious reactions occur.
+
+[VELCADE 3.5 mg powder for solution for injection]
+
+Therefore, this specific regimen with concomitant administration with high-dose cytarabine (2g/m2 per day) by continuous infusion over 24 hours is not recommended.
