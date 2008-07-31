@@ -3,11 +3,9 @@
 Pregnancy (see also sections 4.3 and 4.4)
 Lenalidomide is structurally related to thalidomide.
 Thalidomide is a known human teratogenic active substance that causes severe life-threatening birth defects.
-The teratogenic effect of lenalidomide cannot be ruled out.
 
-For lenalidomide no clinical data on exposed pregnancies are available.
-Studies in animals have shown embryofoetal toxicity (see section 5.3).
-Therefore, lenalidomide is contraindicated during pregnancy.
+Lenalidomide induced in monkeys malformations similar to those described with thalidomide (see section 5.3).
+Therefore, a teratogenic effect of lenalidomide is expected and lenalidomide is contraindicated during pregnancy (see section 4.3).
 
 Women of childbearing potential should use effective method of contraception.
 If pregnancy occurs in a woman treated with lenalidomide, treatment must be stopped and the patient should be referred to a physician specialised or experienced in teratology for evaluation and advice.

@@ -3,7 +3,8 @@
 Pregnancy warning
 Lenalidomide is structurally related to thalidomide.
 Thalidomide is a known human teratogenic active substance that causes severe life-threatening birth defects.
-If lenalidomide is taken during pregnancy, a teratogenic effect of lenalidomide cannot be ruled out.
+Lenalidomide induced in monkeys malformations similar to those described with thalidomide (see sections 4.6 and 5.3).
+If lenalidomide is taken during pregnancy, a teratogenic effect of lenalidomide in humans is expected.
 
 The conditions of the Pregnancy Prevention Programme must be fulfilled for all patients unless there is reliable evidence that the patient does not have childbearing potential.
 
@@ -20,7 +21,7 @@ A female patient or a female partner of a male patient is considered to have chi
 Counselling
 For women of childbearing potential, lenalidomide is contraindicated unless all of the following are met:
 
-- She understands the potential teratogenic risk to the unborn child
+- She understands the expected teratogenic risk to the unborn child
 - She understands the need for effective contraception, without interruption, 4 weeks before starting treatment, throughout the entire duration of treatment, and 4 weeks after the end of treatment
 - Even if a woman of childbearing potential has amenorrhea she must follow all the advice on effective contraception
 - She should be capable of complying with effective contraceptive measures
@@ -32,7 +33,7 @@ For women of childbearing potential, lenalidomide is contraindicated unless all 
 For male patients taking lenalidomide, there is no clinical data available on the presence of lenalidomide in human semen.
 Male patients taking lenalidomide must meet the following conditions:
 
-- Understand the potential teratogenic risk if engaged in sexual activity with a woman of childbearing potential
+- Understand the expected teratogenic risk if engaged in sexual activity with a woman of childbearing potential
 - Understand the need for the use of a condom if engaged in sexual activity with a woman of childbearing potential.
 
 The prescriber must ensure that for women of childbearing potential:
@@ -87,8 +88,8 @@ Patients should be instructed never to give this medicinal product to another pe
 Patients should not donate blood or semen during therapy or for 1 week following discontinuation of lenalidomide.
 
 Educational materials
-In order to assist patients in avoiding foetal exposure to lenalidomide, the Marketing Authorisation Holder will provide educational material to health care professionals to reinforce the warnings about the potential teratogenicity of lenalidomide, to provide advice on contraception before therapy is started, and to provide guidance on the need for pregnancy testing.
-Full patient information about the potential teratogenic risk and the strict pregnancy prevention measures as specified in the Pregnancy Prevention Programme should be given by the physician to women of childbearing potential and, as appropriate, to male patients.
+In order to assist patients in avoiding foetal exposure to lenalidomide, the Marketing Authorisation Holder will provide educational material to health care professionals to reinforce the warnings about the expected teratogenicity of lenalidomide, to provide advice on contraception before therapy is started, and to provide guidance on the need for pregnancy testing.
+Full patient information about the expected teratogenic risk and the strict pregnancy prevention measures as specified in the Pregnancy Prevention Programme should be given by the physician to women of childbearing potential and, as appropriate, to male patients.
 
 Other special warnings and precautions for use
 
