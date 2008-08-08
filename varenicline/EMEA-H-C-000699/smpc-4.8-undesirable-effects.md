@@ -26,6 +26,8 @@ Metabolism and nutrition disorders
 Common Increased appetite
 Uncommon Anorexia, decreased appetite, polydipsia
 
+System Organ Adverse Drug Reactions
+Class
 Psychiatric disorders
 Very common Abnormal dreams, insomnia
 
@@ -35,10 +37,6 @@ Nervous system disorders
 Very common Headache
 
 Common Somnolence, dizziness, dysgeusia
-
-System Organ Adverse Drug Reactions
-Class
-
 Uncommon Tremor, coordination abnormal, dysarthria, hypertonia, restlessness,
 
 dysphoria, hypoaesthesia, hypogeusia, lethargy, libido increased, libido decreased

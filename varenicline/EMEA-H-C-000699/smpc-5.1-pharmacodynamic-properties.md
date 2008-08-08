@@ -7,7 +7,7 @@ Varenicline binds with high affinity and selectivity at the α4β2 neuronal nico
 Electrophysiology studies in vitro and neurochemical studies in vivo have shown that varenicline binds to the α4β2 neuronal nicotinic acetylcholine receptors and stimulates receptor-mediated activity, but at a significantly lower level than nicotine.
 Nicotine competes for the same human α4β2 nAChR binding site for which varenicline has higher affinity.
 Therefore, varenicline can effectively block nicotine's ability to fully activate α4β2 receptors and the mesolimbic dopamine system, the neuronal mechanism underlying reinforcement and reward experienced upon smoking.
-Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1μM, except to 5-HT3 receptors: Ki=350 nM).
+Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1µM, except to 5-HT3 receptors: Ki=350 nM).
 
 The efficacy of CHAMPIX in smoking cessation is a result of varenicline's partial agonist activity at the α4β2 nicotinic receptor where its binding produces an effect sufficient to alleviate symptoms of craving and withdrawal (agonist activity), while simultaneously resulting in a reduction of the rewarding and reinforcing effects of smoking by preventing nicotine binding to α4β2 receptors (antagonist activity).
 
