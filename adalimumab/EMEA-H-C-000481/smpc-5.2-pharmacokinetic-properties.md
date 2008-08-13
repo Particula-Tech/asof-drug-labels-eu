@@ -12,7 +12,6 @@ The serum adalimumab trough levels at steady-state increased roughly proportiona
 In patients with Crohn’s disease, the loading dose of 80 mg Humira on week 0 followed by 40 mg Humira on week 2 achieves serum adalimumab trough concentrations of approximately 5.5 μg/ml during the induction period.
 A loading dose of 160 mg Humira on week 0 followed by 80 mg Humira on week 2 achieves serum adalimumab trough concentrations of approximately 12 μg/ml during the induction period.
 Mean steady-state trough levels of approximately 7 μg/ml were observed in Crohn’s disease patients who received a maintenance dose of 40 mg Humira every other week.
-
 In patients with psoriasis, the mean steady-state trough concentration was 5 μg/mL during adalimumab 40 mg every other week monotherapy treatment.
 
 Population pharmacokinetic analyses with data from over 1300 RA patients revealed a trend toward higher apparent clearance of adalimumab with increasing body weight.

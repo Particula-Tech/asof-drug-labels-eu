@@ -1,7 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Selective immunosuppressive agents.
-ATC code: L04AA17
+ATC code: L04AB04
 
 Mechanism of action
 
@@ -45,7 +45,6 @@ Patients were randomised to 40 mg of Humira or placebo every other week for 24 w
 
 Study V evaluated 799 methotrexate-naïve, adult patients with moderate to severely active early rheumatoid arthritis (mean disease duration less than 9 months).
 This study evaluated the efficacy of Humira 40 mg every other week/methotrexate combination therapy, Humira 40 mg every other week monotherapy and methotrexate monotherapy in reducing the signs and symptoms and rate of progression of joint damage in rheumatoid arthritis for 104 weeks.
-
 The primary end point in Studies I, II and III and the secondary endpoint in Study IV was the percent of patients who achieved an ACR 20 response at week 24 or 26.
 The primary endpoint in Study V was the percent of patients who achieved an ACR 50 response at week 52.
 Study III and V had an additional primary endpoint at 52 weeks of retardation of disease progression (as detected by X-ray results).
@@ -80,7 +79,6 @@ In Study IV, the ACR 20 response of patients treated with Humira plus standard o
 In Studies I-IV, Humira-treated patients achieved statistically significant ACR 20 and 50 responses compared to placebo as early as one to two weeks after initiation of treatment.
 
 In Study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at week 52 and responses were sustained at week 104 (see Table 4).
-
 Table 4: ACR Responses in Study V
 (percent of patients)
 
@@ -118,17 +116,11 @@ Table 5: Radiographic Mean Changes Over 12 Months in Study III
 | JSNd score | 1.0 | 0.1 | 0.9 (0.3, 1.4) | 0.002 |
 
 amethotrexate b95% confidence intervals for the differences in change scores between methotrexate and Humira. cBased on rank analysis dJoint Space Narrowing
-
 In Study V, structural joint damage was assessed radiographically and expressed as change in modified total Sharp score (see Table 6).
 
 Table 6: Radiographic Mean Changes at Week 52 in Study V
 
-MTX Humira Humira/MTX
-n=257 n=274 n=268 p-valuea p-valueb p-valuec
-(95% (95% (95%
-confidence confidence confidence
-
-|  | interval) | interval) | interval) |  |  |  |
+|  | MTX n=257 (95% confidence interval) | Humira n=274 (95% confidence interval) | Humira/MTX n=268 (95% confidence interval) | p-valuea | p-valueb | p-valuec |
 | --- | --- | --- | --- | --- | --- | --- |
 | Total Sharp score | 5.7 (4.2-7.3) | 3.0 (1.7-4.3) | 1.3 (0.5-2.1) | < 0.001 | 0.0020 | < 0.001 |
 | Erosion score | 3.7 (2.7-4.7) | 1.7 (1.0-2.4) | 0.8 (0.4-1.2) | < 0.001 | 0.0082 | < 0.001 |
@@ -151,7 +143,6 @@ In Study III, improvement in physical function was maintained through week 260 (
 Improvement in quality of life was measured up to week 156 (36 months) and improvement was maintained through that time.
 
 In Study V, the improvement in the HAQ disability index and the physical component of the SF 36 showed greater improvement (p < 0.001) for Humira/methotrexate combination therapy versus methotrexate monotherapy and Humira monotherapy at week 52, which was maintained through week 104.
-
 Psoriatic arthritis
 
 Humira, 40 mg every other week, was studied in patients with moderately to severely active psoriatic arthritis in two placebo-controlled studies, Studies VI and VII.
@@ -188,8 +179,7 @@ In subjects treated with Humira with no radiographic progression from baseline t
 
 Humira treated patients demonstrated statistically significant improvement in physical function as assessed by HAQ and Short Form Health Survey (SF 36) compared to placebo at week 24.
 Improved physical function continued during the open label extension up to week 136.
-
-Ankylosing spondylitis
+nkylosing spondylitis
 
 Humira 40 mg every other week was assessed in 393 patients in two randomised, 24 week double − blind, placebo − controlled studies in patients with active ankylosing spondylitis (mean baseline score of disease activity [Bath Ankylosing Spondylitis Disease Activity Index (BASDAI)] was 6.3 in all groups) who have had an inadequate response to conventional therapy.
 Seventy-nine (20.1%) patients were treated concomitantly with disease modifying anti-rheumatic drugs, and 37 (9.4%) patients with glucocorticoids.
@@ -225,7 +215,6 @@ Table 8 - Efficacy Responses in Placebo-Controlled AS Study – Study VIII Reduc
 Humira treated patients had significantly greater improvement at Week 12 which was maintained through Week 24 in both the SF36 and Ankylosing Spondylitis Quality of Life Questionnaire (ASQoL).
 
 Similar trends (not all statistically significant) were seen in the smaller randomised, double − blind, placebo controlled study (IX) of 82 adult patients with active ankylosing spondylitis.
-
 Crohn’s Disease
 
 The safety and efficacy of Humira were assessed in over 1400 patients with moderately to severely active Crohn’s disease (Crohn’s Disease Activity Index (CDAI) ≥ 220 and ≤ 450) in randomised, double-blind, placebo-controlled studies.
@@ -242,6 +231,7 @@ In CHARM, 854 patients received open-label 80 mg at week 0 and 40 mg at week 2.
 At week 4 patients were randomised to 40 mg every other week, 40 mg every week, or placebo with a total study duration of 56 weeks.
 Patients in clinical response (decrease in CDAI ≥ 70) at week 4 were stratified and analysed separately from those not in clinical response at week 4.
 Corticosteroid taper was permitted after week 8.
+
 CLASSIC I and GAIN induction of remission and response rates are presented in Table 9.
 
 Table 9: Induction of Clinical Remission and Response
@@ -264,7 +254,6 @@ In CHARM, at week 4, 58% (499/854) of patients were in clinical response and wer
 Of those in clinical response at week 4, 48% had been previously exposed to other anti-TNF therapy.
 Maintenance of remission and response rates are presented in Table 10.
 Clinical remission results remained relatively constant irrespective of previous TNF antagonist exposure.
-
 Table 10: Maintenance of Clinical Remission and Response
 (Percent of Patients)
 
@@ -287,6 +276,7 @@ These results suggest that some patients who have not responded by week 4 benefi
 Therapy continued beyond 12 weeks did not result in significantly more responses (see section 4.2).
 
 Quality of Life
+
 In CLASSIC I and GAIN, statistically significant improvement in the disease-specific inflammatory bowel disease questionnaire (IBDQ) total score was achieved at week 4 in patients randomised to Humira 80/40 mg and 160/80 mg compared to placebo and was seen at weeks 26 and 56 in CHARM as well among the adalimumab treatment groups compared to the placebo group.
 
 Psoriasis
@@ -298,7 +288,6 @@ In period A, patients received placebo or Humira at an initial dose of 80 mg fol
 After 16 weeks of therapy, patients who achieved at least a PASI 75 response (PASI score improvement of at least 75% relative to baseline), entered period B and received open-label 40 mg Humira every other week.
 Patients who maintained ≥PASI 75 response at week 33 and were originally randomised to active therapy in Period A, were re-randomised in period C to receive 40 mg Humira every other week or placebo for an additional 19 weeks.
 Across all treatment groups, the mean baseline PASI score was 18.9 and the baseline Physician’s Global Assessment (PGA) score ranged from “moderate” (53% of subjects included) to “severe” (41%) to “very severe” (6%).
-
 Psoriasis Study II (CHAMPION) compared the efficacy and safety of Humira versus methotrexate and placebo in 271 patients.
 Patients received placebo, an initial dose of MTX 7.5 mg and thereafter dose increases up to week 12, with a maximum dose of 25 mg or an initial dose of 80 mg Humira followed by 40 mg every other week (starting one week after the initial dose) for 16 weeks.
 There are no data available comparing Humira and MTX beyond 16 weeks of therapy.
@@ -325,8 +314,7 @@ Efficacy Results at 16 Weeks
 | ≥PASI 75 | 10 (18.9) | 39 (35.5) | 86 (79.6) a, b |
 | PASI 100 | 1 (1.9) | 8 (7.3) | 18 (16.7) c, d |
 | PGA: Clear/minimal | 6 (11.3) | 33 (30.0) | 79 (73.1) a, b |
-
-a p<0.001 Humira vs. placebo b p<0.001 Humira vs. methotrexate c p<0.01 Humira vs. placebo d p<0.05 Humira vs. methotrexate
+| a p<0.001 Humira vs. placebo b p<0.001 Humira vs. methotrexate c p<0.01 Humira vs. placebo d p<0.05 Humira vs. methotrexate |  |  |  |
 
 In Psoriasis Study I, 28% of patients who were PASI 75 responders and were re-randomised to placebo at week 33 compared to 5% continuing on Humira, p<0.001, experienced “loss of adequate response” (PASI score after week 33 and on or before week 52 that resulted in a <PASI 50 response relative to baseline with a minimum of a 6-point increase in PASI score relative to week 33).
 Of the patients who lost adequate response after re-randomization to placebo who then enrolled into the open-label extension trial, 38% (25/66) and 55% (36/66) regained PASI 75 response after 12 and 24 weeks of re-treatment, respectively.
@@ -337,7 +325,6 @@ In Study I, improvements in the physical and mental component summary scores of 
 In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50 and were evaluated at 12 weeks after dose escalation, 59/243 (24.3%) of patients regained PASI 75 response.
 
 Immunogenicity
-
 Formation of anti-adalimumab antibodies is associated with increased clearance and reduced efficacy of adalimumab.
 There is no apparent correlation between the presence of anti-adalimumab antibodies and adverse events.
 
@@ -359,20 +346,9 @@ Because immunogenicity analyses are product-specific, comparison of antibody rat
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-|  | MTX n=257 (95% confidence interval) | Humira n=274 (95% confidence interval) | Humira/MTX n=268 (95% confidence interval) | p-valuea | p-valueb | p-valuec |
-| --- | --- | --- | --- | --- | --- | --- |
-| Total Sharp score | 5.7 (4.2-7.3) | 3.0 (1.7-4.3) | 1.3 (0.5-2.1) | < 0.001 | 0.0020 | < 0.001 |
-| Erosion score | 3.7 (2.7-4.7) | 1.7 (1.0-2.4) | 0.8 (0.4-1.2) | < 0.001 | 0.0082 | < 0.001 |
-| JSN score | 2.0 (1.2-2.8) | 1.3 (0.5-2.1) | 0.5 (0-1.0) | < 0.001 | 0.0037 | 0.151 |
+Ankylosing spondylitis
 
 Subjects (n=215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20 received early escape open-label adalimumab 40 mg every other week subcutaneously and were subsequently treated as non-responders in the double-blind statistical analyses.
-
-|  | Placebo N=53 n (%) | MTX N=110 n (%) | Humira 40 mg eow N=108 n (%) |
-| --- | --- | --- | --- |
-| ≥PASI 75 | 10 (18.9) | 39 (35.5) | 86 (79.6) a, b |
-| PASI 100 | 1 (1.9) | 8 (7.3) | 18 (16.7) c, d |
-| PGA: Clear/minimal | 6 (11.3) | 33 (30.0) | 79 (73.1) a, b |
-| a p<0.001 Humira vs. placebo b p<0.001 Humira vs. methotrexate c p<0.01 Humira vs. placebo d p<0.05 Humira vs. methotrexate |  |  |  |
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 

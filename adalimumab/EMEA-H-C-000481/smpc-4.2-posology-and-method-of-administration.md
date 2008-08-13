@@ -29,7 +29,6 @@ The recommended dose of Humira for patients with psoriatic arthritis or ankylosi
 
 For all of the above indications, available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
 Continued therapy should be carefully reconsidered in a patient not responding within this time period.
-
 Crohn’s disease
 
 The recommended Humira induction dose regimen for adult patients with severe Crohn’s disease is 80 mg at week 0 followed by 40 mg at week 2.

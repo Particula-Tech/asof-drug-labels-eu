@@ -11,7 +11,6 @@ The proportion of patients who discontinued treatment due to adverse events duri
 Adverse events at least possibly causally-related to adalimumab for pivotal studies, both clinical and laboratory, are displayed by system organ class and frequency (very common ≥ 1/10;
 common≥ 1/100 to < 1/10; uncommon≥ 1/1000 to< 1/100 and rare ≥ 1/10,000 to < 1/1000) in Table 1 below.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
 Table 1
 Undesirable Effects in Clinical Studies
 
@@ -67,13 +66,13 @@ Injection site reactions
 
 In the pivotal controlled trials, 14% of patients treated with Humira developed injection site reactions (erythema and/or itching, haemorrhage, pain or swelling), compared to 8% of patients receiving placebo or active control.
 Injection site reactions generally did not necessitate discontinuation of the medicinal product.
+
 Infections
 
 In the pivotal controlled trials, the rate of infection was 1.56 per patient year in the Humira treated patients and 1.39 per patient year in the placebo and active control-treated patients.
 The infections consisted primarily of nasopharyngitis, upper respiratory tract infection, and sinusitis Most patients continued on Humira after the infection resolved.
 
 The incidence of serious infections was 0.03 per patient year in Humira treated patients and 0.03 per patient year in placebo and active control − treated patients.
-
 In controlled and open label studies with Humira, serious infections (including fatal infections, which occurred rarely) have been reported, which include reports of tuberculosis (including miliary and extra-pulmonary locations) and invasive opportunistic infections (e.g. disseminated histoplasmosis, pneumocystis carinii pneumonia, aspergillosis and listeriosis).
 Most of the cases of tuberculosis occurred within the first eight months after initiation of therapy and may reflect recrudescence of latent disease.
 
@@ -90,6 +89,8 @@ The observed rate of non-melanoma skin cancers is approximately 9.0 per 1000 pat
 In post-marketing experience from January 2003, predominately in patients with rheumatoid arthritis, the reported rate of malignancies other than lymphomas and non-melanoma skin cancers is approximately 1.7 per 1000 patient years.
 The reported rates for non-melanoma skin cancers and lymphomas are approximately 0.2 and 0.4 per 1000 patient years, respectively (see section 4.4).
 
+Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with adalimumab (see section 4.4).
+
 Autoantibodies
 
 Patients had serum samples tested for autoantibodies at multiple time points in rheumatoid arthritis Studies I − V. In these trials, 11.9% of patients treated with Humira and 8.1% of placebo and active control − treated patients that had negative baseline anti-nuclear antibody titres reported positive titres at week 24.
@@ -98,9 +99,9 @@ The patients improved following discontinuation of therapy.
 No patients developed lupus nephritis or central nervous system symptoms.
 
 Liver Enzyme Elevations
+
 Rheumatoid arthritis clinical trials: in controlled rheumatoid arthritis clinical trials (Studies I − IV), elevations of ALT were similar in patients receiving adalimumab or placebo.
 In patients with early rheumatoid arthritis (disease duration of less than 3 years) (Study V), elevations of ALT were more common in the combination arm (Humira /methotrexate) compared to the methotrexate monotherapy arm or the Humira monotherapy arm.
-
 Psoriatic arthritis clinical trials: elevations in ALT were more common in psoriatic arthritis patients (Studies VI-VII) compared with patients in rheumatoid arthritis clinical studies.
 
 In all rheumatoid arthritis and psoriatic arthritis studies (I-VII), patients with raised ALT were asymptomatic and in most cases elevations were transient and resolved on continued treatment.
@@ -123,7 +124,8 @@ Undesirable Effects in Postmarketing Surveillance and Phase IV Clinical Studies
 | Nervous system disorders | demyelinating disorders (e.g. optic neuritis, Guillian-Barré syndrome) |
 | Respiratory, thoracic and mediastinal disorders | interstitial lung disease, including pulmonary fibrosis |
 | Skin and subcutaneous tissue disorders | cutaneous vasculitis |
-| Immune system disorders | anaphylaxis |
+| Immune system disorders | Anaphylaxis |
+| Neoplasma benign and malignant (including cysts and polyps) | Hepatosplenic T-cell lymphoma |
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
@@ -191,7 +193,8 @@ When combining controlled portions of these trials and ongoi6539 patients and ov
 | Nervous system disorders | demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) |
 | Respiratory, thoracic and mediastinal disorders | interstitial lung disease, including pulmonary fibrosis |
 | Skin and subcutaneous tissue disorders | cutaneous vasculitis |
-| Immune system disorders | anaphylaxis |
+| Immune system disorders | Anaphylaxis |
+| Neoplasm benign and malignant (including cysts and polyps) | Hepatosplenic T-cell lymphoma |
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
@@ -247,6 +250,16 @@ common≥ 1/100 to < 1/10; uncommon≥ 1/1000 to < 1/100 and rare ≥ 1/10,000 t
 
 The infections consisted primarily of nasopharyngitis, upper respiratory tract infection, and sinusitis.
 Most patients continued on Humira after the infection resolved.
+
+| System Organ Class | Adverse Reaction |
+| --- | --- |
+| Gastrointestinal disorders | intestinal perforation |
+| Hepatobiliary disorders | reactivation of hepatitis B |
+| Nervous system disorders | demyelinating disorders (e.g. optic neuritis, Guillain-Barré syndrome) |
+| Respiratory, thoracic and mediastinal disorders | interstitial lung disease, including pulmonary fibrosis |
+| Skin and subcutaneous tissue disorders | cutaneous vasculitis |
+| Immune system disorders | Anaphylaxis |
+| Neoplasma benign and malignant (including cysts and polyps) | Hepatosplenic T-cell lymphoma |
 
 [Humira 40 mg solution for injection in pre-filled pen]
 

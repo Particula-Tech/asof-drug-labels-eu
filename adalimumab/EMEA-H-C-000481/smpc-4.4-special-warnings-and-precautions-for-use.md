@@ -4,6 +4,7 @@ Infections
 
 Patients must be monitored closely for infections, including tuberculosis, before, during and after treatment with Humira.
 Because the elimination of adalimumab may take up to five months, monitoring should be continued throughout this period.
+
 Treatment with Humira should not be initiated in patients with active infections including chronic or localized infections until infections are controlled.
 
 Patients who develop a new infection while undergoing treatment with Humira should be monitored closely.
@@ -43,6 +44,7 @@ Some patients who have previously received treatment for latent or active tuberc
 Patients should be instructed to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade fever) suggestive of a tuberculosis infection occur during or after therapy with Humira.
 
 Other opportunistic infections:
+
 There have been reports of serious and severe opportunistic infections associated with Humira therapy, for example pneumocystis carinii pneumonia, disseminated histoplasmosis, listeriosis and aspergillosis.
 
 If a patient receiving Humira shows prolonged/atypical symptoms/signs of infections or general deterioration, prevalent opportunistic conditions must be considered.
@@ -76,11 +78,16 @@ Immunosuppression
 In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-and B cells and NK-cells, monocyte/macrophages, and neutrophils.
 
 Malignancies and lymphoproliferative disorders
-
 In the controlled portions of clinical trials of TNF-antagonists, more cases of malignancies including lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients.
 However, the occurrence was rare.
 Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
 With the current knowledge, a possible risk for the development of lymphomas or other malignancies in patients treated with a TNF-antagonist cannot be excluded.
+
+Rare postmarketing cases of hepatosplenic T-cell lymphoma have been identified in patients treated with adalimumab.
+This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
+Some of these hepatosplenic T-cell lymphomas with Humira have occurred in young adult patients on concomitant treatment with azathioprine or 6-mercaptopurine used for Crohn’s disease.
+A risk for the development of hepatosplenic T-cell lymphoma in patients treated with Humira cannot be excluded (see sections 4.8).
+
 No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving Humira.
 Thus additional caution should be exercised in considering Humira treatment of these patients (see section 4.8).
 
@@ -101,7 +108,6 @@ Vaccinations
 Similar antibody responses to the standard 23-valent pneumococcal vaccine and the influenza trivalent virus vaccination were observed in a study in 226 adult subjects with rheumatoid arthritis who were treated with adalimumab or placebo.
 No data are available on the secondary transmission of infection by live vaccines in patients receiving Humira.
 Patients on Humira may receive concurrent vaccinations, except for live vaccines.
-
 Congestive heart failure
 
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to congestive heart failure have been observed.
@@ -122,6 +128,7 @@ Serious infections were seen in clinical studies with concurrent use of anakinra
 Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNF-antagonists.
 Therefore, the combination of adalimumab and anakinra is not recommended.
 (See section 4.5).
+
 Concurrent administration of TNF-antagonists and abatacept.
 
 Concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
