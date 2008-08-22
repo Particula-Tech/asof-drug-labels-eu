@@ -63,3 +63,7 @@ Gender/age: there was no apparent difference in the safety profile of entecavir 
 
 Decompensated cirrhosis: a higher rate of serious hepatic adverse events has been observed in patients with decompensated cirrhosis compared with rates in patients with compensated liver function.
 This observation is based on limited experience in 45 patients with Child-Pugh score ≥ 7 at the start of entecavir treatment.
+
+Postmarketing experience: in addition to the adverse drug reactions identified from clinical trials, the following adverse reaction has been identified during post-approval use of entecavir.
+
+Skin and subcutaneous tissue disorders: frequency not known: rash

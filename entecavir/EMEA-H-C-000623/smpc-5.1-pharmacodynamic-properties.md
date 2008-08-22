@@ -82,6 +82,7 @@ Response criteria were HBV virological suppression (HBV DNA
 Patients in response were followed for an additional 24 weeks off-treatment.
 Patients who met virologic but not serologic or biochemical response criteria continued blinded treatment.
 Patients who did not have a virologic response were offered alternative treatment.
+
 Nucleoside-naive:
 HBeAg positive (study 022): treatment with entecavir for up to 96 weeks (n = 354) resulted in cumulative response rates of 80% for HBV DNA < 300 copies/ml by PCR, 87% for ALT normalisation, 31% for HBeAg seroconversion and 2% for HBsAg seroconversion (5% for HBsAg loss).
 For lamivudine (n = 355), cumulative response rates were 39% for HBV DNA < 300 copies/ml by PCR, 79% for ALT normalisation, 26% for HBeAg seroconversion, and 2% for HBsAg seroconversion (3% for HBsAg loss).
@@ -111,7 +112,6 @@ Patients continued their lamivudine-regimen and were assigned to add either ente
 (n = 51) or placebo (n = 17) for 24 weeks followed by an additional 24 weeks where all received entecavir.
 At 24 weeks the reduction in HBV viral load was significantly greater with entecavir (-3.65 vs an increase of 0.11 log10 copies/ml).
 For patients originally assigned to entecavir treatment, the reduction in HBV DNA at 48 weeks was -4.20 log10 copies/ml, ALT normalisation had occurred in 37% of patients with abnormal baseline ALT and none achieved HBeAg seroconversion.
-
 HIV/HBV co-infected patients not receiving concomitant HAART: entecavir has not been evaluated in HIV/HBV co-infected patients not concurrently receiving effective HIV treatment.
 Reductions in HIV RNA have been reported in HIV/HBV co-infected patients receiving entecavir monotherapy without HAART.
 In some cases, selection of HIV variant M184V has been observed, which has implications for the selection of HAART regimens that the patient may take in the future.

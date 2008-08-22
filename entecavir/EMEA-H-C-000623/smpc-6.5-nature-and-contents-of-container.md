@@ -6,7 +6,6 @@ Each carton contains either:
 
 High-density polyethylene (HDPE) bottle with child resistant polypropylene closure containing 30 film-coated tablets.
 Each carton contains one bottle.
-
 Not all pack sizes and container types may be marketed.
 
 [Baraclude 1 mg film-coated tablets]
