@@ -1,9 +1,8 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: dopamine agonists, ATC code: N04B-C
+Pharmacotherapeutic group: dopamine agonists, ATC code: N04BC05
 
 Pramipexole is a dopamine agonist that binds with high selectivity and specificity to the D2 subfamily of dopamine receptors of which it has a preferential affinity to D3 receptors, and has full intrinsic activity.
-
 Pramipexole alleviates Parkinsonian motor deficits by stimulation of dopamine receptors in the striatum.
 Animal studies have shown that pramipexole inhibits dopamine synthesis, release, and turnover.
 
