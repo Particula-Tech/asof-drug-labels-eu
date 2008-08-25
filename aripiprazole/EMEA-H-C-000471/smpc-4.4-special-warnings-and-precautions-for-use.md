@@ -4,7 +4,11 @@ During antipsychotic treatment, improvement in the patient's clinical condition 
 Patients should be closely monitored throughout this period.
 
 The occurrence of suicidal behaviour is inherent in psychotic illnesses and mood disorders and in some cases has been reported early after initiation or switch of antipsychotic therapy, including treatment with aripiprazole (see section 4.8).
-Close supervision of high-risk patients should accompany antipsychotic therapy.
+Close supervision of high-risk patients should
+
+accompany antipsychotic therapy. Results of an epidemiological study found that there was no
+increased risk of suicidality with aripiprazole compared to other antipsychotics among patients
+with bipolar disorder.
 
 Cardiovascular disorders: Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischaemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medications) or hypertension, including accelerated or malignant.
 
@@ -68,11 +72,9 @@ Hypersensitivity: as with other medications hypersensitivity reactions, characte
 
 [ABILIFY 10 mg orodispersible tablets]
 
-| The occurrence of suicidal behaviour is inherent in psychotic illnesses | and mood disorders | and in |
-| --- | --- | --- |
-| some cases has been reported early after initiation or switch of antipsychotic therapy, including |  |  |
-| treatment with aripiprazole (see section 4.8). Close supervision of high-risk patients should |  |  |
-| accompany antipsychotic therapy. |  |  |
+The occurrence of suicidal behaviour is inherent in psychotic illnesses and mood disorders and in
+some cases has been reported early after initiation or switch of antipsychotic therapy, including
+treatment with aripiprazole (see section 4.8). Close supervision of high-risk patients should
 
 Phenylketonurics: ABILIFY orodispersible tablets contain aspartame, a source of phenylalanine which may be harmful for people with phenylketonuria.
 
@@ -104,3 +106,6 @@ Patients receiving aripiprazole solution for injection should be observed for or
 Blood pressure, pulse, respiratory rate and level of consciousness should be monitored regularly.
 
 The safety and efficacy of aripiprazole solution for injection has not been evaluated in patients with alcohol or medicinal product intoxication (either with prescribed or illicit medicinal products).
+
+increased risk of suicidality with aripiprazole compared to other antipsychotics among patients with
+bipolar disorder.
