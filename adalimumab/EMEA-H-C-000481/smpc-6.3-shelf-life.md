@@ -4,11 +4,11 @@
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-24months
+24 months
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
-24 months
+(all sentences already above)
 
 [Humira 40 mg solution for injection in pre-filled pen]
 

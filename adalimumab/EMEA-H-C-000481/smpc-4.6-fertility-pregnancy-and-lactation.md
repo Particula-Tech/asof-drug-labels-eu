@@ -9,8 +9,6 @@ Due to its inhibition of TNFα, adalimumab administered during pregnancy could a
 Administration of adalimumab is not recommended during pregnancy.
 Women of childbearing potential are strongly recommended to use adequate contraception to prevent pregnancy and continue its use for at least five months after the last Humira treatment.
 
-Use during lactation
-
 It is not known whether adalimumab is excreted in human milk or absorbed systemically after ingestion.
 
 However, because human immunoglobulins are excreted in milk, women must not breast-feed for at least five months after the last Humira treatment.

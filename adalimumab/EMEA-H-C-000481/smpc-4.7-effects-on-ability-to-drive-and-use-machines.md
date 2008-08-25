@@ -1,3 +1,4 @@
 # 4.7 Effects on ability to drive and use machines
 
-No studies on the effects on the ability to drive and use machines have been performed.
+Humira may have a minor influence on the ability to drive and use machines.
+Dizziness (including vertigo, vision disorder and fatigue) may occur following administration of Humira see Section 4.8
