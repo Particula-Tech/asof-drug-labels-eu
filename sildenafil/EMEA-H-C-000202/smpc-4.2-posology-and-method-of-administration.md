@@ -21,12 +21,18 @@ Based on efficacy and toleration, the dose may be increased to 50 mg and 100 mg.
 Use in patients with impaired hepatic function:
 Since sildenafil clearance is reduced in patients with hepatic impairment (e.g. cirrhosis) a 25 mg dose should be considered.
 Based on efficacy and toleration, the dose may be increased to 50 mg and 100 mg.
-Use in children:
+Use in children and adolescents:
 VIAGRA is not indicated for individuals below 18 years of age.
-There is no relevant indication for use in children.
-
-Use in patients using other medicines:
+Use in patients using other:
 With the exception of ritonavir for which co-administration with sildenafil is not advised (see section 4.4) a starting dose of 25 mg should be considered in patients receiving concomitant treatment with CYP3A4 inhibitors (see section 4.5).
 
 In order to minimise the potential for developing postural hypotension, patients should be stable on alpha-blocker therapy prior to initiating sildenafil treatment.
 In addition, initiation of sildenafil at a dose of 25 mg should be considered (see sections 4.4 and 4.5).
+
+[VIAGRA 50 mg film-coated tablets]
+
+Use in patients using other medicines:
+
+[VIAGRA 100 mg film-coated tablets]
+
+(all sentences already above)

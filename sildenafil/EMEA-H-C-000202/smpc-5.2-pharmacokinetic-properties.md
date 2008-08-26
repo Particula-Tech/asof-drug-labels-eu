@@ -7,7 +7,6 @@ The mean absolute oral bioavailability is 41% (range 25-63%).
 After oral dosing of sildenafil AUC and Cmax increase in proportion with dose over the recommended dose range (25-100 mg).
 
 When sildenafil is taken with food, the rate of absorption is reduced with a mean delay in tmax of 60 minutes and a mean reduction in Cmax of 29%.
-
 Distribution:
 The mean steady state volume of distribution (Vd) for sildenafil is 105 l, indicating distribution into the tissues.
 After a single oral dose of 100 mg, the mean maximum total plasma concentration of sildenafil is approximately 440 ng/ml (CV 40%).
@@ -22,6 +21,7 @@ The major circulating metabolite results from N-demethylation of sildenafil.
 This metabolite has a phosphodiesterase selectivity profile similar to sildenafil and an in vitro potency for PDE5 approximately 50% that of the parent drug.
 Plasma concentrations of this metabolite are approximately 40% of those seen for sildenafil.
 The N-desmethyl metabolite is further metabolised, with a terminal half-life of approximately 4 h.
+
 Elimination:
 The total body clearance of sildenafil is 41 l/h with a resultant terminal phase half-life of 3-5 h. After either oral or intravenous administration, sildenafil is excreted as metabolites predominantly in the faeces (approximately 80% of administered oral dose) and to a lesser extent in the urine (approximately 13% of administered oral dose).
 

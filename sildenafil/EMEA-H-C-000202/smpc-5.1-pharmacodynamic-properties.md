@@ -45,9 +45,9 @@ In a small size placebo-controlled study of patients with documented early age-r
 There was no effect on sperm motility or morphology after single 100 mg oral doses of sildenafil in healthy volunteers.
 
 Further information on clinical trials
-In clinical trials sildenafil was administered to more than 3000 patients aged 19-87.
-The following patient groups were represented: elderly (21%), patients with hypertension (24%), diabetes mellitus (16%), ischaemic heart disease and other cardiovascular diseases (14%), hyperlipidaemia (14%), spinal cord injury (6%), depression (5%), transurethral resection of the prostate (5%), radical prostatectomy (4%).
-The following groups were not well represented or excluded from clinical trials: patients with pelvic surgery, patients post-radiotherapy, patients with severe renal or hepatic impairment and patients with certain cardiovascular conditions (see section 4.3 ).
+In clinical trials sildenafil was administered to more than 8000 patients aged 19-87.
+The following patient groups were represented: elderly (19.9%), patients with hypertension (30.9%), diabetes mellitus (20.3%), ischaemic heart disease (5.8%), hyperlipidaemia (19.8%), spinal cord injury (0.6%), depression (5.2%), transurethral resection of the prostate (3.7%), radical prostatectomy (3.3%).
+The following groups were not well represented or excluded from clinical trials: patients with pelvic surgery, patients post-radiotherapy, patients with severe renal or hepatic impairment and patients with certain cardiovascular conditions (see section 4.3).
 
 In fixed dose studies, the proportions of patients reporting that treatment improved their erections were 62% (25 mg), 74% (50 mg) and 82% (100 mg) compared to 25% on placebo.
 In controlled clinical trials, the discontinuation rate due to sildenafil was low and similar to placebo.
@@ -56,8 +56,8 @@ The safety and efficacy of sildenafil was maintained in long-term studies.
 
 [VIAGRA 50 mg film-coated tablets]
 
-(all sentences already above)
+The following groups were not well represented or excluded from clinical trials: patients with pelvic surgery, patients post-radiotherapy, patients with severe renal or hepatic impairment and patients with certain cardiovascular conditions (see section 4.3 ).
 
 [VIAGRA 100 mg film-coated tablets]
 
-The following groups were not well represented or excluded from clinical trials: patients with pelvic surgery, patients post-radiotherapy, patients with severe renal or hepatic impairment and patients with certain cardiovascular conditions (see section 4.3).
+(all sentences already above)
