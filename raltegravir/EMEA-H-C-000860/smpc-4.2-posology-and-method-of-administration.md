@@ -18,7 +18,6 @@ Safety and efficacy have not been established in patients below 16 years of age 
 
 Renal impairment
 No dosage adjustment is required for patients with renal impairment (see section 5.2).
-
 Hepatic impairment
 No dosage adjustment is required for patients with mild to moderate hepatic impairment.
 The safety and efficacy of ISENTRESS have not been established in patients with severe underlying liver disorders.

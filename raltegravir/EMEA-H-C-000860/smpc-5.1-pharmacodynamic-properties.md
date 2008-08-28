@@ -11,7 +11,6 @@ HIV genomes that fail to integrate cannot direct the production of new infectiou
 Antiviral activity in vitro
 Raltegravir at concentrations of 31 ± 20 nM resulted in 95% inhibition (IC95) of HIV-1 replication (relative to an untreated virus-infected culture) in human T-lymphoid cell cultures infected with the cell-line adapted HIV-1 variant H9IIIB.
 In addition, raltegravir inhibited viral replication in cultures of mitogen-activated human peripheral blood mononuclear cells infected with diverse, primary clinical isolates of HIV-1, including isolates resistant to reverse transcriptase inhibitors and protease inhibitors.
-
 Resistance
 Most viruses isolated from patients failing raltegravir had high-level raltegravir resistance resulting from the appearance of two or more mutations.
 Most had a signature mutation at amino acid 155 (N155 changed to H), amino acid 148 (Q148 changed to H, K, or R), or amino acid 143 (Y143 changed to H, C, or R), along with one or more additional integrase mutations.
@@ -72,6 +71,9 @@ CD4-count ≤ 50 cells/mm3 44 (35, 52) 17 (10, 28)
 Sensitivity score (GSS) §
 
 0 44 (35, 54) 6 (2, 15)
+BENCHMRK 1 and 2 Pooled ISENTRESS 400 mg Placebo + OBT
+b.i.d. + OBT (N = 237)
+Parameter (N = 462)
 1 71 (63, 77) 37 (28, 48)
 2 and above 71 (63, 78) 56 (43, 68)
 

@@ -9,16 +9,16 @@ For patients in the ISENTRESS 400 mg twice daily + OBT arm and the comparator pl
 In this pooled analysis, the rates of discontinuation of therapy due to adverse reactions were 2.0 % in patients receiving ISENTRESS + OBT and 1.4 % in patients receiving placebo + OBT.
 
 Clinical adverse reactions considered by investigators to be of mild, moderate or severe intensity, causally related to any medicinal product in the combination regimen, occurring at a numerically higher rate among treatment-experienced patients (507) receiving ISENTRESS + OBT than patients receiving Placebo + OBT (282), with an incidence ≥1%, are listed below by System Organ Class.
-
-Frequencies are defined as common (≥1/100 to <1/10) and uncommon (≥1/1,000 to <1/100).
+Adverse reactions identified from post-marketing experience are included in italics.
+Frequencies are defined as common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), and not known (cannot be estimated from the available data).
 
 | System Organ Class | Adverse reaction | Frequency |
 | --- | --- | --- |
-| Nervous system disorders | dizziness | common |
-| Ear and labyrinth disorders | vertigo | common |
+| Nervous system disorders | Dizziness | common |
+| Ear and labyrinth disorders | Vertigo | common |
 | Gastrointestinal disorders | abdominal pain, flatulence, constipation | common |
-| Skin and subcutaneous tissue disorders | pruritus, lipodystrophy acquired, hyperhidrosis | common |
-| Musculoskeletal and connective tissue disorders | arthralgia | common |
+| Skin and subcutaneous tissue disorders | pruritus, lipodystrophy acquired, hyperhidrosis Stevens Johnson syndrome, rash | common not known |
+| Musculoskeletal and connective tissue disorders | Arthralgia | common |
 | General disorders and administration site conditions | fatigue, asthenia | common |
 
 Clinically important (serious and/or severe) adverse reactions occurring in adult patients receiving ISENTRESS + OBT in the three randomized clinical studies are presented below.
@@ -78,7 +78,10 @@ Serum aspartate aminotransferase
 Grade 2 2.6 – 5.0 x ULN 9.1% 5.7%
 Grade 3 5.1 - 10.0 x ULN 2.2% 2.1%
 Grade 4 >10.0 x ULN 0.4% 0.7%
+Laboratory Parameter ISENTRESS§ Placebo§
+Limit (N = 507) (N = 282)
 
+Blood chemistry
 Serum alanine aminotransferase
 
 Grade 2 2.6 – 5.0 x ULN 6.9% 7.8%

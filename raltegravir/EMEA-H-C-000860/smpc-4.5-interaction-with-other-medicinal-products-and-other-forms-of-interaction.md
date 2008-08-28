@@ -41,6 +41,9 @@ Pharmacokinetic Interaction Data
 | efavirenz (raltegravir 400 mg SD) | raltegravir AUC ↓36% raltegravir C12hr ↓21% raltegravir Cmax ↓36% (UGT1A1 induction) | No dose adjustment required for ISENTRESS |
 | Nucleoside/tide reverse transcriptase inhibitors |  |  |
 | tenofovir (raltegravir 400 mg BID) | raltegravir AUC ↑49% raltegravir C12hr ↑3% raltegravir Cmax ↑64% (mechanism of interaction unknown) tenofovir AUC ↓10% tenofovir C12hr ↓13% tenofovir Cmax ↓33% | No dose adjustment required for ISENTRESS or tenofovir disoproxil fumarate. |
+
+| Medicinal products by therapeutic area | Interaction (mechanism, if known) | Recommendations concerning co-administration |
+| --- | --- | --- |
 | ANTIMICROBIALS |  |  |
 | Antimycobacterial |  |  |
 | rifampicin (raltegravir 400 mg SD) | raltegravir AUC ↓40% raltegravir C12hr ↓61% raltegravir Cmax ↓38% (UGT1A1 induction) | Rifampicin reduces plasma levels of ISENTRESS. If co-administration with rifampicin is unavoidable, a doubling of the dose of ISENTRESS can be considered (see section 4.4). |
