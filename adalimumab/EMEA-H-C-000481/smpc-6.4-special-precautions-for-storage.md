@@ -1,8 +1,8 @@
 # 6.4 Special precautions for storage
 
 Store in a refrigerator (2°C – 8°C).
-Do not freeze.
 Keep the vial in the outer carton.
+Do not freeze.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 

@@ -24,12 +24,13 @@ There have been reports of tuberculosis in patients receiving Humira.
 It should be noted that in the majority of those reports, tuberculosis was extra-pulmonary, i.e. disseminated.
 
 Before initiation of therapy with Humira, all patients must be evaluated for both active or inactive (latent) tuberculosis infection.
-This evaluation should include a detailed medical history of patients with a personal history of tuberculosis or possible previous exposure to patients with active tuberculosis and previous and/or current immunosuppressive therapy.
+This evaluation should include a detailed medical history with a personal history of tuberculosis or possible previous exposure to patients with active tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests, i.e. tuberculin skin test and chest X-ray, should be performed in all patients (local recommendations may apply).
 It is recommended that the conduct of these tests should be recorded in the patient alert card.
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 
 If active tuberculosis is diagnosed, Humira therapy must not be initiated (see section 4.3).
+
 If latent tuberculosis issuspected, a physician with expertise in the treatment of tuberculosis should be consulted.
 In all situations described below, the benefit/risk balance of therapy should be very carefully considered.
 
@@ -44,22 +45,22 @@ Patients should be instructed to seek medical advice if signs/symptoms (e.g., pe
 
 Other opportunistic infections:
 
-There have been reports of serious and severe opportunistic infections associated with Humira therapy, for example Pneumocystis carinii pneumonia, disseminated histoplasmosis, listeriosis and aspergillosis.
+There have been reports of serious and severe opportunistic infections associated with Humira therapy, for example pneumocystis carinii pneumonia, disseminated histoplasmosis, listeriosis and aspergillosis.
 
 If a patient receiving Humira shows prolonged/atypical symptoms/signs of infections or general deterioration, prevalent opportunistic conditions must be considered.
 
 Hepatitis B Reactivation
 
-Reactivation of hepatitis B has occurred in patients who are chronic carriers of this virus when receiving a TNF-antagonist including Humira.
-Some cases have had a fatal outcome.
+Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including Humira, who are chronic carriers of this virus.
+Some cases have had fatal outcome.
 Patients at risk for HBV infection should be evaluated for prior evidence of HBV infection before initiating Humira therapy.
 Carriers of HBV who require treatment with Humira should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy.
-Adequate data from the treatment of patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available.
+Adequate data of treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available.
 In patients who develop HBV reactivation, Humira should be stopped and effective anti-viral therapy with appropriate supportive treatment should be initiated.
 
 Neurological events
 
-TNF-antagonists including Humira have been associated in rare instances with new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disease including multiple sclerosis.
+TNF-antagonists including Humira have been associated in rare cases with new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disease including multiple sclerosis.
 Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central nervous system demyelinating disorders.
 
 Allergic reactions
@@ -68,15 +69,15 @@ Serious allergic adverse reactions have not been reported with subcutaneous admi
 Non-serious allergic reactions associated with Humira were uncommon during clinical trials.
 In postmarketing, serious allergic reactions including anaphylaxis have been reported very rarely following Humira administration.
 If an anaphylactic reaction or other serious allergic reaction occurs, administration of Humira should be discontinued immediately and appropriate therapy initiated.
+
 The needle cover of the syringe contains natural rubber (latex).
 This may cause severe allergic reactions in patients sensitive to latex.
 
 Immunosuppression
 
-In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B- NK-cells, monocyte/macrophages, and neutrophils.
+In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-and B cells and NK-cells, monocyte/macrophages, and neutrophils.
 
 Malignancies and lymphoproliferative disorders
-
 In the controlled portions of clinical trials of TNF-antagonists, more cases of malignancies including lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients.
 However, the occurrence was rare.
 Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
@@ -87,7 +88,7 @@ This rare type of T-cell lymphoma has a very aggressive disease course and is us
 Some of these hepatosplenic T-cell lymphomas with Humira have occurred in young adult patients on concomitant treatment with azathioprine or 6-mercaptopurine used for Crohn’s disease.
 A risk for the development of hepatosplenic T-cell lymphoma in patients treated with Humira cannot be excluded (see sections 4.8).
 
-No studies have been conducted that include patients with a history of malignancy or in whom treatment with Humira is continued following development of malignancy.
+No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving Humira.
 Thus additional caution should be exercised in considering Humira treatment of these patients (see section 4.8).
 
 All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.
@@ -98,7 +99,7 @@ Therefore, caution should be exercised when using any TNF-antagonist in COPD pat
 
 Haematologic reactions
 
-Rare reports of pancytopenia including aplastic anaemia have been reported with TNF antagonists.
+Rare reports of pancytopenia including aplastic anaemia have been reported with TNF blocking agents.
 Adverse events of the haematologic system, including medically significant cytopoenia (e.g. thrombocytopaenia, leucopaenia) have been infrequently reported with Humira.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor) while on Humira.
 Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.
@@ -106,10 +107,7 @@ Discontinuation of Humira therapy should be considered in patients with confirme
 Vaccinations
 Similar antibody responses to the standard 23-valent pneumococcal vaccine and the influenza trivalent virus vaccination were observed in a study in 226 adult subjects with rheumatoid arthritis who were treated with adalimumab or placebo.
 No data are available on the secondary transmission of infection by live vaccines in patients receiving Humira.
-It is recommended that polyarticular juvenile idiopathic arthritis patients, if possible, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating Humira therapy.
-
 Patients on Humira may receive concurrent vaccinations, except for live vaccines.
-
 Congestive heart failure
 
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to congestive heart failure have been observed.
@@ -153,18 +151,12 @@ Available data suggest that Humira does not worsen or cause strictures.
 
 In all situations decribed below, the benefit/risk balance of therapy should be very carefully considered.
 
-No studies have been conducted that include patients with a history of malignancy or in whom treatment with Humira is continued following development o malignancy Thus additional caution should be exercised in considering Humira treatment of these patients (see section 4.8).
-
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
 If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
-
-There have been reports of serious and severe opportunistic infections associated with Humira therapy, for example p Pneumocystis carinii neumonia, disseminated histoplasmosis, listeriosis and aspergillosis.
-
-Rare reports of pancytopenia including aplastic anaemia have been reported with TNF atagonists.
 
 See section 4.5).
 
 [Humira 40 mg solution for injection in pre-filled pen]
 
-Rare reports of pancytopenia including aplastic anaemia have been reported with TNFantagonists.
+(all sentences already above)
