@@ -3,7 +3,6 @@
 The following undesirable effects were considered to have at least a possible or probable causal relationship to VELCADE by the investigators during the conduct of 5 non-comparative Phase II studies and 1 comparative phase III trial VELCADE vs dexamethasone in 663 patients with relapsed or refractory multiple myeloma, of whom 331 received VELCADE as single agent.
 The safety database comprises data from patients with multiple myeloma or B-cell lymphocytic leukemia (CLL).
 Patients were treated with VELCADE as a single agent, or in combination with dexamethasone.
-
 Adverse drug reactions are listed below by system organ class and frequency.
 Frequencies are defined as: Very common (≥1/10); common (≥1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data) including isolated reports.
 
@@ -79,6 +78,57 @@ Common: weight decreased, blood lactate dehydrogenase increased.
 Uncommon: alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, blood alkaline phosphatase increased, blood creatinine increased, blood urea increased, gamma-glutamyltransferase increased, blood amylase increased, liver function tests abnormal, red blood cell count decreased, white blood cell count decreased, blood bicarbonate decreased, heart rate irregular, C-reactive protein increased, blood phosphate decreased, weight increased.
 Injury, poisoning and procedural complications
 Uncommon: catheter related complications, post procedural pain, post procedural haemorrhage, burns.
+
+Summary of safety data in patients with previously untreated multiple myeloma:
+
+The following table describes safety data from 340 patients with previously untreated multiple myeloma who received VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective phase 3 study.
+
+Overall, the safety profile of patients treated with VELCADE in monotherapy was similar to that observed in patients treated with VELCADE in combination with melphalan and prednisone.
+
+Treatment Emergent Drug-Related Adverse Events reported in ≥ 10% of patients treated with VELCADE in combination with melphalan and prednisone
+-------------- Vc-MP -------------- ---------------- MP ---------------
+
+(n=340) (n=337)
+MedDRA System Organ Class Total Toxicity Grade, n (%) Total Toxicity Grade, n (%)
+Preferred Term n (%) 3 ≥4 n (%) 3 ≥4
+
+Blood and Lymphatic System
+Disorders
+
+Thrombocytopenia 164 ( 48) 60 ( 18) 57 ( 17) 140 ( 42) 48 ( 14) 39 ( 12)
+Neutropenia 160 ( 47) 101 ( 30) 33 ( 10) 143 ( 42) 77 ( 23) 42 ( 12)
+Anaemia 109 ( 32) 41 ( 12) 4 ( 1) 156 ( 46) 61 ( 18) 18 ( 5)
+Leukopenia 108 ( 32) 64 ( 19) 8 ( 2) 93 ( 28) 53 ( 16) 11 ( 3)
+Lymphopenia 78 ( 23) 46 ( 14) 17 ( 5) 51 ( 15) 26 ( 8) 7 ( 2)
+
+Gastrointestinal Disorders
+
+Nausea 134 ( 39) 10 ( 3) 0 70 ( 21) 1 ( <1) 0
+Diarrhoea 119 ( 35) 19 ( 6) 2 ( 1) 20 ( 6) 1 ( <1) 0
+Vomiting 87 ( 26) 13 ( 4) 0 41 ( 12) 2 ( 1) 0
+Constipation 77 ( 23) 2 ( 1) 0 14 ( 4) 0 0
+Abdominal Pain Upper 34 ( 10) 1 ( <1) 0 20 ( 6) 0 0
+
+Nervous System Disorders
+
+Peripheral Neuropathy 156 ( 46) 42 ( 12) 2 ( 1) 4 ( 1) 0 0
+Neuralgia 117 ( 34) 27 ( 8) 2 ( 1) 1 ( <1) 0 0
+Paraesthesia 42 ( 12) 6 ( 2) 0 4 ( 1) 0 0
+
+| MedDRA System Organ Class Preferred Term | -------------- Vc-MP -------------- (n=340) Total Toxicity Grade, n (%) n (%) 3 ≥4 | ---------------- MP --------------- (n=337) Total Toxicity Grade, n (%) n (%) 3 ≥4 |
+| --- | --- | --- |
+| General Disorders and Administration Site Conditions Fatigue Asthenia Pyrexia Infections and Infestations Herpes Zoster Metabolism and Nutrition Disorders Anorexia Skin and Subcutaneous Tissue Disorders Rash Psychiatric Disorders Insomnia | 85 ( 25) 19 ( 6) 2 ( 1) 54 ( 16) 18 ( 5) 0 53 ( 16) 4 ( 1) 0 | 48 ( 14) 4 ( 1) 0 23 ( 7) 3 ( 1) 0 19 ( 6) 1 ( <1) 1 ( <1) |
+|  | 39 ( 11) 11 ( 3) 0 | 9 ( 3) 4 ( 1) 0 |
+|  | 64 ( 19) 6 ( 2) 0 | 19 ( 6) 0 0 |
+|  | 38 ( 11) 2 ( 1) 0 | 7 ( 2) 0 0 |
+|  | 35 ( 10) 1 ( <1) 0 | 21 ( 6) 0 0 |
+
+Herpes zoster virus reactivation
+
+In the phase 3 study in patients with previously untreated multiple myeloma, 27% of patients received prophylactic antivirals in the VcMP arm.
+In this study, herpes zoster reactivation was more common in patients treated with VcMP compared with MP (11% vs 3% respectively).
+Three (3%) of the 91 patients in the VcMP treatment group who received prophylactic anti-virals developed herpes zoster reactivation.
+
 Post Marketing Experience
 
 Clinically significant adverse reactions are listed if they have been reported during post approval use of VELCADE and may or may not have been reported in clinical trials.
@@ -102,9 +152,7 @@ Ophthalmic herpes
 
 Cardiac disorders
 
-Cardiac tamponade, pericarditis, cardiac and cardiopulmonary arrest, ventricular arrhythmias, atrioventricular block complete, atrial fibrillation, tachycardia, sinus and ventricular tachycardia
-
-Respiratory, thoracic and mediastinal disorders (see section 4.4)
+Cardiac tamponade, pericarditis, cardiac and cardiopulmonary arrest, ventricular arrhythmias, atrioventricular block complete, atrial fibrillation, tachycardia, sinus and ventricular tachycardia Respiratory, thoracic and mediastinal disorders (see section 4.4)
 
 Pneumonitis, pneumonia, interstitial pneumonia, Acute Respiratory Distress Syndrome (ARDS), acute diffuse infiltrative pulmonary disease, pulmonary hypertension, respiratory failure, pulmonary alveolar haemorrhage, acute pulmonary oedema, pulmonary oedema, pulmonary embolism, peripheral embolism
 

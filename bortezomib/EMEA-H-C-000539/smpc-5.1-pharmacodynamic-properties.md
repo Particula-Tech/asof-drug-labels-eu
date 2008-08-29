@@ -27,10 +27,78 @@ Bortezomib causes reduction of tumour growth in vivo in many preclinical tumour 
 
 Clinical Trials
 
-The safety and efficacy of VELCADE were evaluated in 2 studies at the recommended dose of 1.3 mg/m2: a phase III randomized, comparative study, versus Dexamethasone (Dex), of 669 patients with relapsed or refractory multiple myeloma who had received 1-3 prior lines of therapy, and a phase II single-arm study of 202 patients with relapsed and refractory multiple myeloma, who had received at least 2 prior lines of treatment and who were progressing on their most recent treatment.
-(See Tables 2 3 and 4).
+Randomized, Open-Label Clinical Study in Patients with Previously Untreated Multiple Myeloma:
 
-Table 2: Dosing regimens in Phase II and Phase III studies
+A prospective phase 3, international, randomized (1:1), open-label clinical study of 682 patients was conducted to determine whether VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) resulted in improvement in time to progression (TTP) when compared to melphalan (9 mg/m2) and prednisone (60 mg/m2) in patients with previously untreated multiple myeloma.
+Treatment was administered for a maximum of 9 cycles (approximately 54 weeks) and was discontinued early for disease progression or unacceptable toxicity.
+Baseline demographics and patient characteristics are summarized in Table 4.
+
+Table 4: Summary of Baseline Patient and Disease Characteristics in the VISTA Study
+
+VMP MP
+Patient Characteristics N=344 N=338
+Median age in years (range) 71.0 (57, 90) 71.0 (48, 91)
+Gender: male/female 51% / 49% 49% / 51%
+Race: Caucasian/asian/black/other 88% / 10% / 1% / 1% 87% / 11% / 2% / 0%
+Karnofsky performance status score ≤70 35% 33%
+Hemoglobin <100 g/L 37% 36%
+Platelet count <75 x 109/L <1% 1%
+
+Disease Characteristics
+
+Type of myeloma (%): IgG/IgA/Light chain 64% / 24% / 8% 62% / 26% / 8%
+Median β2-microglobulin (mg/L) 4.2 4.3
+Median albumin (g/L) 33.0 33.0
+Creatinine clearance ≤30 mL/min [n (%)] 20 (6%) 16 (5%)
+
+At the time of a pre-specified interim analysis, the primary endpoint, time to progression, was met and patients in the MP arm were offered VcMP treatment.
+Survival continued to be followed after the interim analysis.
+Median follow-up was 16.3 months.
+Efficacy results are presented in Table 5:
+
+Table 5- Summary of Efficacy Analyses in the VISTA study
+
+| Efficacy Endpoint | VMP n=344 | MP n=338 |
+| --- | --- | --- |
+| Time to Progression – Events n (%) | 101 (29) | 152 (45) |
+| Mediana (95% CI) | 20.7 mo (17.6, 24,7) | 15.0 mo (14.1, 17.9) |
+| Hazard ratiob (95% CI) | 0.54 (0.42, 0.70) |  |
+| p-value c | 0.000002 |  |
+| Progression-free Survival Events n (%) | 135 (39) | 190 (56) |
+| Mediana (95% CI) | 18.3 mo (16.6, 21.7) | 14.0 mo (11.1, 15.0) |
+| Hazard ratiob (95% CI) | 0.61 (0.49, 0.76) |  |
+| p-value c | 0.00001 |  |
+| Overall Survival Events (deaths) n (%) | 45 (13) | 76 (23) |
+| Hazard ratiob (95% CI) | 0.61 (0.42, 0.88) |  |
+| p-value c | 0.00782 |  |
+| Response Rate populatione n = 668 | n=337 | n=331 |
+| CRf n (%) | 102 (30) | 12 (4) |
+| PRf n (%) | 136 (40) | 103 (31) |
+| nCR n (%) | 5 (1) | 0 |
+| CR + PRf n (%) | 238 (71) | 115 (35) |
+| p-valued | <10-10 |  |
+| Reduction in Serum M-protein populationg n=667 | n=336 | n=331 |
+| >=90% n (%) | 151 (45) | 34 (10) |
+| Time to First Response in CR + PR |  |  |
+| Median | 1.4 mo | 4.2 mo |
+| Mediana Response Duration |  |  |
+| CRf | 24.0 mo | 12.8 mo |
+| CR + PRf | 19.9 mo | 13.1 mo |
+| Time to Next Therapy Events n (%) | 73 (21) | 127 (38) |
+| Mediana (95% CI) | NE (26.1, NE) | 20.8 mo (18.3, 28.5) |
+| Hazard ratiob (95% CI) | 0.52 (0.39, 0.70) |  |
+| p-value c | 0.000009 |  |
+
+a Kaplan-Meier estimate.
+b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: beta2-microglobulin, albumin, and region.
+A hazard ratio less than 1 indicates an advantage for VMP c p-value based on the stratified log-rank test adjusted for stratification factors: beta2-microglobulin, albumin, and region d p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors e Response population includes patients who had measurable disease at baseline f EBMT criteria g All randomized patients with secretory disease
+NE: Not estimable
+
+Clinical Studies in Patients with Relapsed or Refractory Multiple Myeloma
+
+The safety and efficacy of VELCADE were evaluated in 2 studies at the recommended dose of 1.3 mg/m2: a phase III randomized, comparative study, versus Dexamethasone (Dex), of 669 patients with relapsed or refractory multiple myeloma who had received 1-3 prior lines of therapy, and a phase II single-arm study of 202 patients with relapsed and refractory multiple myeloma, who had received at least 2 prior lines of treatment and who were progressing on their most recent treatment.
+(See Tables 6, 7 and 8).
+Table 6: Dosing regimens in Phase II and Phase III studies
 
 | Phase/arm | Drug Schedule | Dose | Regimen |
 | --- | --- | --- | --- |
@@ -42,7 +110,7 @@ Table 2: Dosing regimens in Phase II and Phase III studies
 *a) is the initial treatment, a) and b) represent a full course of treatment
 **An extension study authorised patients benefiting from treatment to continue receiving VELCADE ***If after 2 or 4 cycles of VELCADE, the patients had progressive disease or stable disease, respectively, they could receive dexamethasone
 
-Table 3: Patient characteristics in Phase II and Phase III studies
+Table 7: Patient characteristics in Phase II and Phase III studies
 
 |  | Phase II VELCADE | Phase III VELCADE | Phase III Dex |
 | --- | --- | --- | --- |
@@ -65,7 +133,7 @@ Table 3: Patient characteristics in Phase II and Phase III studies
 
 *Including steroids, alkylating agents, anthracyclines, thalidomide and stem cell transplants
 
-Table 4: Patient exposure to treatment with VELCADE during phase 2 and 3 studies
+Table 8: Patient exposure to treatment with VELCADE during phase 2 and 3 studies
 
 |  | Phase II VELCADE | Phase III VELCADE | Phase III Dex |
 | --- | --- | --- | --- |
@@ -74,8 +142,7 @@ Table 4: Patient exposure to treatment with VELCADE during phase 2 and 3 studies
 
 *Patients could continue on treatment after completing 8 cycles, in case of benefit
 NA = not applicable
-
-In the phase III study, treatment with VELCADE led to a significantly longer time to progression, a significantly prolonged survival and a significantly higher response rate, compared to treatment with dexamethasone (see Table 5), in all patients as well as in patients who have received 1 prior line of therapy.
+In the phase III study, treatment with VELCADE led to a significantly longer time to progression, a significantly prolonged survival and a significantly higher response rate, compared to treatment with dexamethasone (see Table 9), in all patients as well as in patients who have received 1 prior line of therapy.
 As a result of a preplanned interim analysis, the Dexamethasone arm was halted at the recommendation of the data monitoring committee and all patients randomised to dexamethasone were then offered VELCADE, regardless of disease status.
 Due to this early crossover, the median duration of follow-up for surviving patients is 8.3 months.
 Both in patients who were refractory to their last prior therapy and those who were not refractory, overall survival was significantly longer and response rate was significantly higher on the VELCADE arm.
@@ -83,12 +150,13 @@ Both in patients who were refractory to their last prior therapy and those who w
 Of the 669 patients enrolled, 245 (37%) were 65 years of age or older.
 Response parameters as well as TTP remained significantly better for VELCADE independently of age.
 Regardless of β2-microglobulin levels at baseline, all efficacy parameters (time to progression and overall survival, as well as response rate) were significantly improved on the VELCADE arm.
+
 In the refractory population of the Phase II study, responses were determined by an independent review committee and the response criteria were those of the European Bone Marrow Transplant Group.
 The median survival of all patients enrolled was 17 months (range <1 to 36+ months).
 This survival was greater than the six-to-nine month median survival anticipated by consultant clinical investigators for a similar patient population.
 By multivariate analysis, the response rate was independent of myeloma type, performance status, chromosome 13 deletion status, or the number, or type of previous therapies; patients who had received 2 to 3 prior therapeutic regimens had a response rate of 32% (10/32) and patients who received greater than 7 prior therapeutic regimens had a response rate of 31% (21/67).
 
-Table 5: Summary of Disease Outcomes from the Phase III and Phase II studies
+Table 9: Summary of Disease Outcomes from the Phase III and Phase II studies
 
 |  | Phase III |  | Phase III |  | Phase III |  | Phase II |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -108,8 +176,7 @@ a Intent to Treat (ITT) population b p-value from the stratified log-rank test; 
 d p-value from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors; analysis by line of therapy excludes stratification for therapeutic history
 *CR+PR+MR **CR=CR, (IF-); nCR=CR (IF+)
 NA = not applicable, NE = not estimated
-
-In the phase II study, patients who did not obtain an optimal response to therapy with VELCADE alone were able to receive high-dose dexamethasone in conjunction with VELCADE (see Table 2).
+In the phase II study, patients who did not obtain an optimal response to therapy with VELCADE alone were able to receive high-dose dexamethasone in conjunction with VELCADE (see Table 6).
 The protocol allowed patients to receive dexamethasone if they had had a less than optimal response to VELCADE alone.
 A total of 74 evaluable patients were administered dexamethasone in combination with VELCADE.
 Eighteen percent of patients achieved, or had an improved response (MR (11%) or PR (7%)) with combination treatment.

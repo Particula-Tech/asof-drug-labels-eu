@@ -28,10 +28,11 @@ The incidence of peripheral neuropathy increases early in the treatment and has 
 It is recommended that patients be carefully monitored for symptoms of neuropathy such as a burning sensation, hyperesthesia, hypoesthesia, paraesthesia, discomfort, neuropathic pain or weakness.
 Patients experiencing new or worsening peripheral neuropathy should undergo neurological evaluation and may require the dose and schedule of VELCADE to be modified (see section 4.2).
 Neuropathy has been managed with supportive care and other therapies.
-Improvement in, or resolution of, peripheral neuropathy was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy in phase III and 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in phase II studies, respectively.
+Improvement in, or resolution of, peripheral neuropathy was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy in the single agent phase III multiple myeloma study and 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in phase II studies, respectively.
 
 In addition to peripheral neuropathy, there may be a contribution of autonomic neuropathy to some adverse reactions such as postural hypotension and severe constipation with ileus.
 Information on autonomic neuropathy and its contribution to these undesirable effects is limited.
+
 Seizures
 
 Seizures have been uncommonly reported in patients without previous history of seizures or epilepsy.
@@ -54,7 +55,7 @@ Patients should be instructed to seek medical advice if they experience symptoms
 Heart failure
 
 Acute development or exacerbation of congestive heart failure, and/or new onset of decreased left ventricular ejection fraction has been reported during bortezomib treatment.
-In a phase III randomized, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
+In a single agent phase III randomized, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
 Fluid retention may be a predisposing factor for signs and symptoms of heart failure.
 Patients with risk factors for or existing heart disease should be closely monitored.
 
@@ -70,13 +71,13 @@ A pretreatment chest radiograph is recommended to determine if any additional di
 
 In the event of new or worsening pulmonary symptoms (e.g. cough, dyspnoea), a prompt diagnostic evaluation should be performed and patients treated appropriately.
 The benefit/risk ratio should be considered prior to continuing VELCADE therapy.
-
 In a clinical trial, two patients given high-dose cytarabine (2 g/m2 per day) by continuous infusion over 24 hours with daunorubicin and VELCADE for relapsed acute myelogenous leukemia died of ARDS early in the course of therapy.
 Therefore, this specific regimen with concomitant administration with high-dose cytarabine (2 g/m2 per day) by continuous infusion over 24 hours is not recommended.
 
 Renal Impairment
 Renal complications are frequent in patients with multiple myeloma.
 Such patients should be monitored closely.
+
 Hepatic Impairment
 
 Patients with hepatic impairment should be treated with extreme caution and a dose reduction should be considered (see sections 4.2 and 4.3).

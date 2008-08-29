@@ -8,7 +8,6 @@ Fertility studies were not performed but evaluation of reproductive tissues has 
 In the 6-month rat study, degenerative effects in both the testes and the ovary have been observed.
 It is, therefore, likely that bortezomib could have a potential effect on either male or female fertility.
 Peri- and postnatal development studies were not conducted.
-
 In multi-cycle general toxicity studies conducted in the rat and monkey the principal target organs included the gastrointestinal tract resulting in vomiting and/or diarrhea, hematopoietic and lymphatic tissues resulting in peripheral blood cytopenias and lymphoid tissue atrophy and hematopoietic bone marrow hypocellularity, peripheral neuropathy (observed in monkeys, mice and dogs) involving sensory nerve axons, and mild changes in the kidneys.
 All these target organs have shown partial to full recovery following discontinuation of treatment.
 
