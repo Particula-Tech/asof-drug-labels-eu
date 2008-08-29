@@ -1,0 +1,43 @@
+# 4.6 Pregnancy and lactation
+
+Pregnancy
+Risk related to epilepsy and antiepileptic medicinal products in general
+For all anti-epileptic drugs, it has been shown that in the offspring of women treated with epilepsy, the prevalence of malformations is two to three times greater than the rate of approximately 3% in the general population.
+In the treated population, an increase in malformations has been noted with polytherapy, however, the extent to which the treatment and/or the illness is responsible has not been elucidated.
+Moreover, effective anti-epileptic therapy must not be interrupted, since the aggravation of the illness is detrimental to both the mother and the foetus.
+
+Risk related to lacosamide
+There are no adequate data from the use of lacosamide in pregnant women.
+Studies in animals did not indicate any teratogenic effects in rats or rabbits, but embyrotoxicity was observed in rats and rabbits at maternal toxic doses (see section 5.3).
+The potential risk for humans is unknown.
+Lacosamide should not be used during pregnancy unless clearly necessary (if the benefit to the mother clearly outweighs the potential risk to the foetus).
+If women decide to become pregnant, the use of this product should be carefully re-evaluated.
+
+Lactation
+It is unknown whether lacosamide is excreted in human breast milk.
+Animal studies have shown excretion of lacosamide in breast milk.
+For precautionary measures, breast-feeding should be discontinued during treatment with lacosamide.
+
+[Vimpat 100 mg film-coated tablets]
+
+(all sentences already above)
+
+[Vimpat 150 mg film-coated tablets]
+
+(all sentences already above)
+
+[Vimpat 200 mg film-coated tablets]
+
+(all sentences already above)
+
+[Vimpat 50 mg film-coated tablets (SmPC 5)]
+
+(all sentences already above)
+
+[Vimpat 15 mg/ml syrup]
+
+Studies in animals did not indicate any teratogenic effects in rats or rabbits, but embroytoxicity was observed in rats and rabbits at maternal toxic doses (see section 5.3).
+
+[Vimpat 10 mg/ml solution for infusion]
+
+Studies in animals did not indicate any teratogenic effects in rats or rabbits, but embryotoxicity was observed in rats and rabbits at maternal toxic doses (see section 5.3).
