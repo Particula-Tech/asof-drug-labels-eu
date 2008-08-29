@@ -9,7 +9,6 @@ Neutralising the biological activity of VEGF regresses the vascularisation of tu
 Pharmacodynamic effects
 Administration of bevacizumab or its parental murine antibody to xenotransplant models of cancer in nude mice resulted in extensive anti-tumour activity in human cancers, including colon, breast, pancreas and prostate.
 Metastatic disease progression was inhibited and microvascular permeability was reduced.
-
 Clinical efficacy
 
 Metastatic carcinoma of the colon or rectum (mCRC)
@@ -36,12 +35,11 @@ The overall mean age was 59.4 years; 56.6% of patients had an ECOG performance s
 15.5% had received prior radiotherapy and 28.4% prior chemotherapy.
 
 The primary efficacy variable of the trial was overall survival.
-The addition of Avastin to IFL resulted in statistically significant increases in overall survival, progression-free survival and overall response rate (see Table 2).
+The addition of Avastin to IFL resulted in statistically significant increases in overall survival, progression-free survival and overall response rate (see Table 3).
 The clinical benefit, as measured by overall survival, was seen in all pre-specified patient subgroups, including those defined by age, sex, performance status, location of primary tumour, number of organs involved and duration of metastatic disease.
 
-The efficacy results of Avastin in combination with IFL-chemotherapy are displayed in Table 2.
-
-Table 2 Efficacy results for study AVF2107g
+The efficacy results of Avastin in combination with IFL-chemotherapy are displayed in Table 3.
+Table 3 Efficacy results for study AVF2107g
 
 |  | AVF2107g |  |
 | --- | --- | --- |
@@ -61,7 +59,7 @@ Table 2 Efficacy results for study AVF2107g
 a 5 mg/kg every 2 weeks.
 b Relative to control arm.
 
-Among the 110 patients randomised to Arm 3 (5-FU/FA + Avastin) prior to discontinuation of this arm, the median overall survival was 18.3 months and the median progression free survival was 8.8months.
+Among the 110 patients randomised to Arm 3 (5-FU/FA + Avastin) prior to discontinuation of this arm, the median overall survival was 18.3 months and the median progression free survival was 8.8 months.
 
 AVF2192g: This was a phase II randomised, double-blind, active-controlled clinical trial evaluating the efficacy and safety of Avastin in combination with 5-FU/FA as first-line treatment for metastatic colorectal cancer in patients who were not optimal candidates for first-line irinotecan treatment.
 One hundred and five patients were randomised to 5-FU/FA + placebo arm and 104 patients to 5-FU/FA + Avastin (5 mg/kg every 2 weeks) arm.
@@ -76,12 +74,11 @@ Seventy-one patients were randomised to receive bolus 5-FU/FA or
 A third group of 33 patients received bolus 5-FU/FA + Avastin (10 mg/kg every 2 weeks).
 Patients were treated until disease progression.
 The primary endpoints of the trial were objective response rate and progression-free survival.
-The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, longer progression-free survival, and a trend in longer survival, compared with 5-FU/FA chemotherapy alone (see Table 3).
+The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher objective response rates, longer progression-free survival, and a trend in longer survival, compared with 5-FU/FA chemotherapy alone (see Table 4).
 These efficacy data are consistent with the results from study AVF2107g.
 
-The efficacy data from studies AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 3.
-
-Table 3: Efficacy results for studies AVF0780g and AVF2192g
+The efficacy data from studies AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 4.
+Table 4: Efficacy results for studies AVF0780g and AVF2192g
 
 |  | AVF0780g |  |  | AVF2192g |  |
 | --- | --- | --- | --- | --- | --- |
@@ -115,7 +112,7 @@ The study contained two parts: an initial unblinded 2-arm part (Part I) in which
 In Part II, treatment assignment was double-blind with respect to Avastin.
 
 Approximately 350 patients were randomised into each of the 4 study arms in the Part II of the trial.
-Table 4 Treatment Regimens in Study N016966 (mCRC)
+Table 5 Treatment Regimens in Study N016966 (mCRC)
 
 |  | Treatment | Starting Dose | Schedule |
 | --- | --- | --- | --- |
@@ -132,10 +129,10 @@ Both co-primary objectives were met:
 i) Non-inferiority of the XELOX-containing arms compared with the
 FOLFOX-4-containing arms in the overall comparison was demonstrated in terms of progression-free survival and overall survival in the eligible per-protocol population.
 
-ii) Superiority of the Avastin-containing arms versus the chemotherapy alone arms in the overall comparison was demonstrated in terms of progression-free survival in the ITT population (Table 5)
+ii) Superiority of the Avastin-containing arms versus the chemotherapy alone arms in the overall comparison was demonstrated in terms of progression-free survival in the ITT population (Table 6)
 
-Secondary PFS analyses, based on ‘on-treatment’-based response assessments, confirmed the significantly superior clinical benefit for patients treated with Avastin (analyses shown in Table 5), consistent with the statistically significant benefit observed in the pooled analysis.
-Table 5 Key efficacy results for the superiority analysis
+Secondary PFS analyses, based on ‘on-treatment’-based response assessments, confirmed the significantly superior clinical benefit for patients treated with Avastin (analyses shown in Table 6), consistent with the statistically significant benefit observed in the pooled analysis.
+Table 6 Key efficacy results for the superiority analysis
 (ITT population, Study NO16966)
 
 | Endpoint (months) | FOLFOX-4 or XELOX + Placebo (n=701) | FOLFOX-4 or XELOX + Bevacizumab (n=699) | P Value |
@@ -159,14 +156,14 @@ The median overall survival was 20.3 months in placebo and 21.2 months in bevaci
 
 ECOG E3200
 This was a phase III randomised, active-controlled, open-label study investigating Avastin 10 mg/kg in combination with leucovorin with 5-fluorouracil bolus and then 5-fluorouracil infusional, with IV oxaliplatin (FOLFOX-4), administered on a 2-weekly schedule in previously-treated patients (second line) with advanced colorectal cancer.
-In the chemotherapy arms, the FOLFOX-4 regimen used the same doses and schedule as shown in Table 4 for Study NO16966.
+In the chemotherapy arms, the FOLFOX-4 regimen used the same doses and schedule as shown in Table 5 for Study NO16966.
 
 The primary efficacy parameter of the trial was overall survival, defined as the time from randomization to death from any cause.
 Eight hundred and twenty-nine patients were randomised (292 FOLFOX-4, 293 Avastin +_FOLFOX-4 and 244 Avastin monotherapy).
 The addition of Avastin to FOLFOX-4 resulted in a statistically significant prolongation of survival.
 Statistically significant improvements in progression-free survival and objective response rate were also observed (see
-Table 6).
-Table 6 Efficacy Results for Study E3200
+Table 7).
+Table 7 Efficacy Results for Study E3200
 
 |  | E3200 |  |
 | --- | --- | --- |
@@ -205,8 +202,8 @@ In situations where early discontinuation of chemotherapy was required, treatmen
 The patient characteristics were similar across the study arms.
 The primary endpoint of this trial was progression free survival (PFS), based on study investigators’ assessment of disease progression.
 In addition, an independent review of the primary endpoint was also conducted.
-The results of this study are presented in Table 7.
-Table 7 Study E2100 Efficacy Results:
+The results of this study are presented in Table 8.
+Table 8 Study E2100 Efficacy Results:
 
 | Progression-free survival |  |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -247,9 +244,9 @@ After completion of six cycles of carboplatin-paclitaxel chemotherapy or upon pr
 
 During the study, of the patients who received trial treatment, 32.2% (136/422) of patients received 7-12 administrations of Avastin and 21.1% (89/422) of patients received 13 or more administrations of Avastin.
 The primary endpoint was duration of survival.
-Results are presented in Table 8.
+Results are presented in Table 9.
 
-Table 8 Efficacy results for study E4599
+Table 9 Efficacy results for study E4599
 
 |  | Arm 1 | Arm 2 |
 | --- | --- | --- |
@@ -273,8 +270,8 @@ Patients were randomised to platinum-based chemotherapy, cisplatin 80 mg/m2 i.v.
 In the Avastin-containing arms, patients could receive Avastin as a single-agent every 3 weeks until disease progression or unacceptable toxicity.
 Study results show that 94% (277 / 296) of eligible patients went on to receive single agent bevacizumab at cycle 7.
 
-The efficacy results are presented in Table 9.
-Table 9 Efficacy results for study BO17704
+The efficacy results are presented in Table 10.
+Table 10 Efficacy results for study BO17704
 
 |  | Cisplatin/Gemcitabine + placebo | Cisplatin/Gemcitabine + Avastin 7.5 mg/kg q 3 weeks | Cisplatin/Gemcitabine + Avastin 15 mg/kg q 3 weeks |
 | --- | --- | --- | --- |
@@ -298,9 +295,9 @@ At the data cut-off, 505 progression events had occurred, 111 patients remained 
 Ninety seven (97) patients in the IFN alfa-2a arm and 131 patients in the Avastin arm reduced the dose of IFN alfa-2a from 9 MIU to either 6 or 3 MIU three times a week as pre-specified in the protocol.
 Dose-reduction of IFN alfa-2a did not appear to affect the efficacy of the combination of Avastin and IFN alfa-2a based on PFS event free rates over time, as shown by a sub-group analysis.
 The 131 patients in the Avastin + IFN alfa-2a arm who reduced and maintained the IFN alfa-2a dose at 6 or 3 MIU during the study, exhibited at 6, 12 and 18 months PFS event free rates of 73, 52 and 21% respectively, as compared to 61, 43 and 17% in the total population of patients receiving Avastin + IFN alfa-2a.
-The addition of Avastin to IFN alfa-2a significantly increased PFS and objective tumour response rate (Table 10).
+The addition of Avastin to IFN alfa-2a significantly increased PFS and objective tumour response rate (Table 11).
 The overall survival (OS) data were not mature at the time of the interim analysis.
-Table 10 Efficacy Results for Study BO17705
+Table 11 Efficacy Results for Study BO17705
 
 |  | BO17705 |
 | --- | --- |

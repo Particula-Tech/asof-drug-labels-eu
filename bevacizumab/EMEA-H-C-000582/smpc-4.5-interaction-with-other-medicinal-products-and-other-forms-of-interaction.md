@@ -17,4 +17,14 @@ The potential effect of bevacizumab on the pharmacokinetics of cisplatin and gem
 Study results demonstrated no significant effect of bevacizumab on the pharmacokinetics of cisplatin.
 Due to high inter-patient variability and limited sampling, the results from that study do not allow firm conclusions to be drawn on the impact of bevacizumab on gemcitabine pharmacokinetics.
 
+Combination of bevacizumab and sunitinib malate
+
+In two clinical studies of metastatic renal cell carcinoma, microangiopathic haemolytic anaemia (MAHA) was reported in 7 of 19 patients treated with bevacizumab (10 mg/kg every two weeks) and sunitinib malate (50 mg daily) combination.
+
+MAHA is a haemolytic disorder which can present with red cell fragmentation, anaemia, and thrombocytopenia.
+In addition, hypertension (including hypertensive crisis), elevated creatinine, and neurological symptoms were observed in some of these patients.
+All of these findings were reversible upon discontinuation of bevacizumab and sunitinib malate (see Hypertension, Proteinuria, RPLS in section 4.4 Special warnings and precautions for use).
+
+Radiotherapy
+
 The safety and efficacy of concomitant administration of radiotherapy and Avastin has not been established.
