@@ -28,12 +28,14 @@ Colchicine/indometacin/hydrochlorothiazide/warfarin
 Febuxostat can be co-administered with colchicine or indomethacin with no dose adjustment of febuxostat or the co-administered active substance being necessary.
 
 No dose adjustment is necessary for febuxostat when administered with hydrochlorothiazide.
+
 No dose adjustment is necessary for warfarin when administered with febuxostat.
 After initiation of febuxostat therapy, monitoring of anticoagulant activity should be considered in patients receiving warfarin or similar agents.
 
 Desipramine/CYP2D6 substrates.
 Febuxostat was shown to be a weak inhibitor of CYP2D6 in vitro.
-In a study in healthy subjects, 120 mg ADENURIC QD resulted in a mean 22% increase in AUC of desipramine, a CYP2D6 substrate indicating a potential weak inhibitory effect of febuxostat on the CYP2D6 enzyme in vivo.
+In a study in healthy subjects,
+120 mg ADENURIC QD resulted in a mean 22% increase in AUC of desipramine, a CYP2D6 substrate indicating a potential weak inhibitory effect of febuxostat on the CYP2D6 enzyme in vivo.
 Thus, co-administration of febuxostat with other CYP2D6 substrates is not expected to require any dose adjustment for those compounds.
 
 Antacids

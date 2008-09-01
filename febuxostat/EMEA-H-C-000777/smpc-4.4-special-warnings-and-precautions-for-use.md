@@ -24,6 +24,7 @@ Febuxostat should be used with caution in patients concomitantly treated with th
 Liver disorders
 During the phase 3 clinical studies, mild liver function test abnormalities were observed in patients treated with febuxostat (3.5%).
 Liver function test is recommended prior to the initiation of therapy with febuxostat and periodically thereafter based on clinical judgement (see section 5.1).
+
 Thyroid disorders
 Increased TSH values (>5.5 µIU/ml) were observed in patients on long-term treatment with febuxostat (5.0%) in the long term open label extension studies.
 Caution is required when febuxostat is used in patients with alteration of thyroid function (see section 5.1).
