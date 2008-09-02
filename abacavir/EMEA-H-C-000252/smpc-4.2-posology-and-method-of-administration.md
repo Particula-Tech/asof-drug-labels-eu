@@ -4,7 +4,11 @@ Ziagen should be prescribed by physicians experienced in the management of HIV i
 
 Ziagen can be taken with or without food.
 
-Ziagen is available as an oral solution for use in children over three months of age and weighing less than 14 kg and for those patients for whom the tablets are inappropriate.
+To ensure administration of the entire dose, the tablet(s) should ideally be swallowed without crushing.
+
+Ziagen is also available as an oral solution for use in children over three months of age and weighing less than 14 kg and for those patients for whom the tablets are inappropriate.
+
+Alternatively, for patients who are unable to swallow tablets, the tablet(s) may be crushed and added to a small amount of semi-solid food or liquid, all of which should be consumed immediately (see section 5.2).
 
 Adults and adolescents (over 12 years of age): the recommended dose of Ziagen is 600 mg daily.
 This may be administered as either 300 mg (one tablet) twice daily or 600 mg (two tablets) once daily (see sections 4.4 and 5.1).

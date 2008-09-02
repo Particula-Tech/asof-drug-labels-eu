@@ -12,6 +12,9 @@ After a 600 mg abacavir tablet dose, the mean (CV) abacavir Cmax was approximate
 Food delayed absorption and decreased Cmax but did not affect overall plasma concentrations (AUC).
 Therefore Ziagen can be taken with or without food.
 
+Administration of crushed tablets with a small amount of semi-solid food or liquid would not be expected to have an impact on the pharmaceutical quality, and would therefore not be expected to alter the clinical effect.
+This conclusion is based on the physiochemical and pharmacokinetic data, assuming that the patient crushes and transfers 100% of the tablet and ingests immediately.
+
 Distribution: following intravenous administration, the apparent volume of distribution was about 0.8 l/kg, indicating that abacavir penetrates freely into body tissues.
 
 Studies in HIV infected patients have shown good penetration of abacavir into the cerebrospinal fluid (CSF), with a CSF to plasma AUC ratio of between 30 to 44%.
@@ -29,7 +32,6 @@ Following multiple oral doses of abacavir 300 mg twice a day there is no signifi
 Elimination of abacavir is via hepatic metabolism with subsequent excretion of metabolites primarily in the urine.
 The metabolites and unchanged abacavir account for about 83% of the administered abacavir dose in the urine.
 The remainder is eliminated in the faeces.
-
 Intracellular pharmacokinetics
 
 In a study of 20 HIV-infected patients receiving abacavir 300 mg twice daily, with only one 300 mg dose taken prior to the 24 hour sampling period, the geometric mean terminal carbovir-TP intracellular half-life at steady-state was 20.6 hours, compared to the geometric mean abacavir plasma half-life in this study of 2.6 hours.

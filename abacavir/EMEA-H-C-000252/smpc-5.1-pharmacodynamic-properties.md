@@ -31,7 +31,6 @@ The inclusion of zidovudine in the regimen has been found to reduce the frequenc
 2.Includes three non-virological failures and four unconfirmed virological failures.
 3.
 Number of subjects with ≥1 Thymidine Analogue Mutations (TAMs).
-
 TAMs might be selected when thymidine analogs are associated with abacavir.
 In a meta-analysis of six clinical trials, TAMs were not selected by regimens containing abacavir without zidovudine (0/127), but were selected by regimens containing abacavir and the thymidine analogue zidovudine (22/86, 26%).
 
@@ -63,12 +62,12 @@ Cross-resistance between abacavir and antiretrovirals from other classes (e.g. P
 Clinical Experience
 
 The demonstration of the benefit of Ziagen is mainly based on results of studies performed in adult treatment-naïve patients using a regimen of Ziagen 300 mg twice daily in combination with zidovudine and lamivudine.
-
 Twice daily (300 mg) administration:
 
 - Therapy naïve adults
 
 In adults treated with abacavir in combination with lamivudine and zidovudine the proportion of patients with undetectable viral load (<400 copies/ml) was approximately 70% (intention to treat analysis at 48 weeks) with corresponding rise in CD4 cells.
+
 One randomised, double blind, placebo controlled clinical study in adults has compared the combination of abacavir, lamivudine and zidovudine to the combination of indinavir, lamivudine and zidovudine.
 Due to the high proportion of premature discontinuation (42% of patients discontinued randomised treatment by week 48), no definitive conclusion can be drawn regarding the equivalence between the treatment regimens at week 48.
 Although a similar antiviral effect was observed between the abacavir and indinavir containing regimens in terms of proportion of patients with undetectable viral load (≤400 copies/ml; intention to treat analysis (ITT), 47% versus 49%; as treated analysis (AT), 86% versus 94% for abacavir and indinavir combinations respectively), results favoured the indinavir combination, particularly in the subset of patients with high viral load (>100,000 copies/ml at baseline; ITT, 46% versus 55%; AT, 84% versus 93% for abacavir and indinavir respectively).

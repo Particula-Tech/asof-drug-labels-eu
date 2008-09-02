@@ -7,11 +7,11 @@ In clinical studies approximately 5% of subjects receiving abacavir develop a hy
 Studies have shown that carriage of the HLA-B*5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir.
 Based on the prospective study CNA106030 (PREDICT-1), use of pre-therapy screening for the HLA-B*5701 allele and subsequently avoiding abacavir in patients with this allele significantly reduced the incidence of abacavir hypersensitivity reactions.
 In populations similar to that enrolled in the PREDICT-1 study, it is estimated that 48% to 61% of patients with the HLA-B*5701 allele will develop a hypersensitivity reaction during the course of abacavir treatment compared with 0% to 4% of patients who do not have the HLA-B*5701 allele.
-
 These results are consistent with those of prior retrospective studies.
 
 As a consequence, before initiating treatment with abacavir, screening for carriage of the HLA-B*5701 allele should be performed in any HIV-infected patient, irrespective of racial origin.
 Abacavir should not be used in patients known to carry the HLA-B*5701 allele, unless no other therapeutic option is available based on the treatment history and resistance testing (see section 4.1).
+
 In any patient treated with abacavir, the clinical diagnosis of suspected hypersensitivity reaction must remain the basis of clinical decision-making.
 It is noteworthy that among patients with a clinically suspected hypersensitivity reaction, a proportion did not carry HLA-B*5701.
 Therefore, even in the absence of HLA-B*5701 allele, it is important to permanently discontinue abacavir and not rechallenge with abacavir if a hypersensitivity reaction cannot be ruled out on clinical grounds, due to the potential for a severe or even fatal reaction.
@@ -82,11 +82,11 @@ Early symptoms (symptomatic hyperlactatemia) include benign digestive symptoms (
 Lactic acidosis has a high mortality and may be associated with pancreatitis, liver failure, or renal failure.
 
 Lactic acidosis generally occurred after a few or several months of treatment.
-
 Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactatemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
 
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
 Patients co-infected with hepatitis C and treated with alpha interferon and ribavirin may constitute a special risk.
+
 Patients at increased risk should be followed closely.
 
 Mitochondrial dysfunction: nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
@@ -122,7 +122,6 @@ In case of concomitant antiviral therapy for hepatitis B or C, please refer also
 
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
-
 A pharmacokinetic study has been performed in patients with mild hepatic impairment.
 However, a definitive recommendation on dose reduction is not possible due to substantial variability of drug exposure in this patient population (see section 5.2).
 The clinical safety data available with abacavir in hepatically impaired patients is very limited.
