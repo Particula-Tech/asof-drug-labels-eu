@@ -5,7 +5,6 @@ Instructions for use:
 1.
 Inspect the TYSABRI vial for particles prior to dilution and administration.
 If particles are observed and/or the liquid in the vial is not colourless, clear to slightly opalescent, the vial must not be used.
-
 2.
 Use aseptic technique when preparing TYSABRI solution for intravenous (IV) infusion.
 

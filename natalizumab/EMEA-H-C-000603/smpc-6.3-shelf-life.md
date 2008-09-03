@@ -2,7 +2,7 @@
 
 Concentrate
 
-2 years.
+4 years
 
 Diluted solution
 

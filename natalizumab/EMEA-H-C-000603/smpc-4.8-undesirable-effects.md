@@ -6,7 +6,7 @@ Adverse drug reactions reported with natalizumab with an incidence of 0.5% great
 The reactions are reported as MedDRA preferred terms under the MedDRA primary system organ class.
 Frequencies were defined as follows:
 
-Common (� 1/100 to < 1/10), uncommon (� 1/1,000 to < 1/100).
+Common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 

@@ -79,6 +79,7 @@ Patients should be monitored as appropriate for impaired liver function, and be 
 In cases of significant liver injury TYSABRI should be discontinued.
 
 Stopping TYSABRI therapy
+
 If a decision is made to stop treatment with natalizumab, the physician needs to be aware that natalizumab remains in the blood, and has pharmacodynamic effects (e.g increased lymphocyte counts) for approximately 12 weeks following the last dose.
 Starting other therapies during this interval will result in a concomitant exposure to natalizumab.
 For drugs such as interferon and glatiramer acetate, concomitant exposure of this duration was not associated with safety risks in clinical trials.
