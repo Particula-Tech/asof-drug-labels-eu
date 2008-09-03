@@ -59,23 +59,29 @@ c Patients experienced ear ache and ear pain.
 In general, the adverse event profile in children with pre-existing bronchial asthma was qualitatively similar to that of otherwise healthy children.
 Further post marketing surveillance data on selected serious adverse drug reactions:
 
-Immune system disorders:
+Immune system disorder
 Frequency not known: hypersensitivity reactions, including anaphylactic/anaphylactoid reactions.
 
-Psychiatric disorders and nervous system disorders:
+Psychiatric disorders and nervous system disorders
 Frequency not known: convulsions and psychiatric events such as depressed level of consciousness, abnormal behavior, hallucinations and delirium.
 In rare cases, the delirium resulted in accidental injury.
 The symptoms were mainly reported in children and adolescents.
 Convulsions and psychiatric symptoms have also been reported in patients with influenza not taking Tamiflu.
 
-Gastrointestinal disorders:
+Eye disorders
+Frequency not known: visual disturbance.
+
+Cardiac disorders
+Frequency not known: cardiac arrhythmia.
+
+Gastrointestinal disorders
 Frequency not known: gastrointestinal bleedings and hemorrhagic colitis.
 
-Hepato-biliary disorders:
+Hepato-biliary disorders
 Frequency not known: hepato-biliary system disorders, including hepatitis and elevated liver enzymes in patients with influenza-like illness.
 These cases include fatal fulminant hepatitis/hepatic failure.
 
-Skin and subcutaneous tissue disorders:
+Skin and subcutaneous tissue disorders
 Frequency not known: severe skin reactions, including Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme and angioneurotic oedema.
 
 Additional information on special populations:
@@ -101,6 +107,8 @@ Most Frequent Adverse Drug Reactions (≥ 1 % in the oseltamivir group in the tr
 | Disorders of the ear and labyrinth Common: Ear disorderc Tympanic membrane disorder | 2 % 1 % 1 % 1 % |  | 0 % 0 % | 0 % 0 % |
 | Skin and subcutaneous tissue disorders Common: Dermatitis | 1 % 2 % |  | < 1 % | 0 % |
 
+Immune system disorders
+
 [Tamiflu 75 mg hard capsule.]
 
 (all sentences already above)
@@ -118,10 +126,9 @@ Most Frequent Adverse Drug Reactions (≥ 1 % in the oseltamivir group in the tr
 |  | < 1 % 0 % | 0 % 0 % |
 | Disorders of the ear and labyrinth Common: Vertigo | 1 % 1 % | < 1 % < 1 % |
 | Respiratory, thoracic and mediastinal disorders Common: Cough Rhinorrhoea | 1 % 1 % < 1 % 0 % | 6 % 6 % 2 % 1 % |
-| Gastrointestinal disorders Very Common: |  |  |
 |  | Treatment | Prevention |
 |  | Oseltamivir Placebo 75 mg bid (n = 1057) (n = 1050) | Oseltamivir Placebo 75 mg od (n = 1480) (n = 1434) |
-| Nauseab,c Common: Vomitingc Abdominal pain Diarrhoea Dyspepsia | 11 % 7 % | 8 % 4 % |
+| Gastrointestinal disorders Very Common: Nauseab,c Common: Vomitingc Abdominal pain Diarrhoea Dyspepsia | 11 % 7 % | 8 % 4 % |
 |  | 8 % 3 % 2 % 2 % 6 % 8 % 1 % 1 % | 2 % 1 % 2 % 2 % 3 % 3 % 2 % 2 % |
 | Skin and subcutaneous tissue disorders Uncommon: Dermatitisa Rasha Urticariaa Eczemaa | < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % 0 % | 1 % 1 % < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % |
 | General disorders Common: Dizziness Fatigue Pain | 2 % 3 % 1 % 1 % < 1 % < 1 % | 2 % 2 % 8 % 8 % 4 % 3 % |
@@ -135,9 +142,9 @@ b .Subjects who experienced nausea alone; excludes subjects who experienced naus
 |  | Oseltamivir 2 mg/kg bid (n = 515) | Placebo (n = 517) | Oseltamivir 30 to 75 mgb (n = 158) | Oseltamivir 30 to 75 mgb (n = 99) |
 | Infections and infestations Common: Pneumonia Sinusitis Bronchitis Otitis media | 2 % 3 % 2 % 3 % 2 % 2 % 9 % 11 % |  | 0 % 0 % 2 % 1 % | 0 % 0 % 0 % 2 % |
 | Disorders of the blood and lymphatic system Common: Lymphadenopathy | 1 % 2 % |  | < 1 % | 0 % |
-| Respiratory, thoracic and mediastinal disorders Common: Asthma (incl. aggravated) Epistaxis | 4 % 4 % 3 % 3 % |  | 0 % 1 % | 1 % 1 % |
 |  | Treatment |  | Treatment | Preventiona |
 |  | Oseltamivir 2 mg/kg bid (n = 515) | Placebo (n = 517) | Oseltamivir 30 to 75 mgb (n = 158) | Oseltamivir 30 to 75 mgb (n = 99) |
+| Respiratory, thoracic and mediastinal disorders Common: Asthma (incl. aggravated) Epistaxis | 4 % 4 % 3 % 3 % |  | 0 % 1 % | 1 % 1 % |
 | Gastrointestinal disorder Very Common: Vomiting Diarrhoea Common: Nausea Abdominal pain | 15 % 9 % 10 % 11 % |  | 20 % 3 % | 10 % 1 % |
 |  | 3 % 4 % 5 % 4 % |  | 6 % 2 % | 4 % 1 % |
 | Disorders of the eye Common: Conjunctivitis | 1 % < 1 % |  | 0 % | 0 % |

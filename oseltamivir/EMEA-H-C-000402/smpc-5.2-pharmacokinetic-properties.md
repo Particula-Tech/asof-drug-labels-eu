@@ -24,6 +24,7 @@ Peak plasma concentrations of oseltamivir carboxylate decline with a half-life o
 The active metabolite is eliminated entirely by renal excretion.
 Renal clearance (18.8 l/h) exceeds glomerular filtration rate (7.5 l/h) indicating that tubular secretion occurs in addition to glomerular filtration.
 Less than 20 % of an oral radiolabelled dose is eliminated in faeces.
+
 Renal impairment
 Administration of 100 mg oseltamivir phosphate twice daily for 5 days to patients with various degrees of renal impairment showed that exposure to oseltamivir carboxylate is inversely proportional to declining renal function.
 For dosing, see section 4.2.

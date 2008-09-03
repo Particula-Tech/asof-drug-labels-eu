@@ -13,8 +13,8 @@ Prevention of influenza
 
 Tamiflu is not a substitute for influenza vaccination.
 
-The use of antivirals for the treatment and prevention of influenza should be determined on the basis of official recommendations,.
-Decisions regarding the use of antivirals for treatment and prophylaxis should takeing into consideration what is known about the characteristics of the circulating influenza viruses variability of epidemiology and the impact of the disease in different geographical areas and patient populations.
+The use of antivirals for the treatment and prevention of influenza should be determined on the basis of official recommendations.
+Decisions regarding the use of antivirals for treatment and prophylaxis should take into consideration what is known about the characteristics of the circulating influenza viruses and the impact of the disease in different geographical areas and patient populations.
 
 [Tamiflu 45 mg hard capsule.]
 
