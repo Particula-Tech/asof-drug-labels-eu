@@ -38,14 +38,12 @@ In patients receiving concomitant antihypertensive medicines, tadalafil 20 mg ma
 Analysis of phase 3 clinical trial data showed no difference in adverse events in patients taking tadalafil with or without antihypertensive medicines.
 However, appropriate clinical advice should be given to patients regarding a possible decrease in blood pressure when they are treated with antihypertensive medicines.
 
-In subjects receiving concomitant tadalafil (20 mg) and doxazosin (8 mg daily), an alpha (1)adrenergic receptor blocker, there was an augmentation of the blood-pressure-lowering effect of doxazosin.
-This effect was still present at 12 hours postdose and had generally disappeared at 24 hours.
-The number of subjects with potentially clinically significant standing-blood-pressure decreases was greater for the combination.
-Some subjects experienced dizziness but no cases of syncope were reported.
-Lower doses of doxazosin have not been studied.
-Therefore, the combination of tadalafil and alpha blockers is not recommended.
-In a single study in 18 healthy volunteers, tadalafil (10 mg and 20 mg) had no clinically significant effect on blood pressure changes due to tamsulosin, a selective alpha (1A)- adrenergic receptor blocking agent.
-It is not known how this extrapolates to other alpha (1A)- adrenergic receptor blocking agents.
+The co-administration of doxazosin (4 and 8 mg daily) and tadalafil (5 mg daily dose and 20 mg as a single dose) increases the blood pressure-lowering effect of this alpha-blocker in a significant manner.
+This effect lasts at least twelve hours and may be symptomatic, including syncope.
+Therefore this combination is not recommended (see section 4.4).
+In interaction studies performed in a limited number of healthy volunteers, these effects were not reported with alfuzosin or tamsulosin.
+However, caution should be exercised when using tadalafil in patients treated with any alpha-blockers, and notably in the elderly.
+Treatments should be initiated at minimal dosage and progressively adjusted.
 
 Alcohol concentrations (mean maximum blood concentration 0.08 %) were not affected by co-administration with tadalafil (10 mg or 20 mg).
 In addition, no changes in tadalafil concentrations were seen 3 hours after co-administration with alcohol.

@@ -27,8 +27,8 @@ Agents for the treatment of erectile dysfunction, including CIALIS, should be us
 The evaluation of erectile dysfunction should include a determination of potential underlying causes and the identification of appropriate treatment following an appropriate medical assessment.
 It is not known if CIALIS is effective in patients who have undergone pelvic surgery or radical non-nerve-sparing prostatectomy.
 
-In patients who are taking alpha1 blockers, such as doxazosin, concomitant administration of CIALIS may lead to symptomatic hypotension in some patients (see section 4.5).
-Therefore, the combination of tadalafil and alpha blockers is not recommended.
+In patients who are taking alpha1 blockers concomitant administration of CIALIS may lead to symptomatic hypotension in some patients (see section 4.5).
+The combination of tadalafil and doxazosin is not recommended.
 
 Caution should be exercised when prescribing CIALIS to patients using potent CYP3A4 inhibitors (ritonavir, saquinavir, ketoconazole, itraconazole, and erythromycin) as increased tadalafil exposure (AUC) has been observed if the medicines are combined (see section 4.5).
 
