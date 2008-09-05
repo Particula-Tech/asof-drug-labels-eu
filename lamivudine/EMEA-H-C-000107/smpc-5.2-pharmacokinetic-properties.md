@@ -11,6 +11,9 @@ The 150 mg tablet is bioequivalent and dose proportional to the 300 mg tablet wi
 Co-administration of lamivudine with food results in a delay of tmax and a lower C max (decreased by 47%).
 However, the extent (based on the AUC) of lamivudine absorbed is not influenced.
 
+Administration of crushed tablets with a small amount of semi-solid food or liquid would not be expected to have an impact on the pharmaceutical quality, and would therefore not be expected to alter the clinical effect.
+This conclusion is based on the physiochemical and pharmacokinetic data assuming that the patient crushes and transfers 100% of the tablet and ingests immediately.
+
 Co-administration of zidovudine results in a 13% increase in zidovudine exposure and a 28 % increase in peak plasma levels.
 This is not considered to be of significance to patient safety and therefore no dosage adjustments are necessary.
 
@@ -29,13 +32,13 @@ In 60 healthy adult volunteers, Epivir 300 mg once daily has been demonstrated t
 
 Lamivudine is predominately cleared unchanged by renal excretion.
 The likelihood of metabolic interactions of lamivudine with other medicinal products is low due to the small extent of hepatic metabolism (5-10%) and low plasma protein binding.
-
 Elimination: Studies in patients with renal impairment show lamivudine elimination is affected by renal dysfunction.
 A recommended dosage regimen for patients with creatinine clearance below 50 ml/min is shown in the dosage section (see section 4.2).
 
 An interaction with trimethoprim, a constituent of co-trimoxazole, causes a 40% increase in lamivudine exposure at therapeutic doses.
 This does not require dose adjustment unless the patient also has renal impairment (see sections 4.5 and 4.2).
 Administration of co-trimoxazole with lamivudine in patients with renal impairment should be carefully assessed.
+
 Pharmacokinetics in children: In general, lamivudine pharmacokinetics in paediatric patients is similar to adults.
 However, absolute bioavailability (approximately 55-65%) was reduced in paediatric patients below 12 years of age.
 In addition, systemic clearance values were greater in younger paediatric patients and decreased with age, approaching adult values around 12 years of age.

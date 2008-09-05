@@ -3,6 +3,10 @@
 The therapy should be initiated by a physician experienced in the management of HIV infection.
 Epivir may be administered with or without food.
 
+To ensure administration of the entire dose, the tablet(s) should ideally be swallowed without crushing.
+For patients who are unable to swallow tablets, lamivudine is available as an oral solution.
+Alternatively, the tablets may be crushed and added to a small amount of semi-solid food or liquid, all of which should be consumed immediately (see section 5.2).
+
 Adults and adolescents (over 12 years of age): the recommended dose of Epivir is 300 mg daily.
 This may be administered as either 150 mg twice daily or 300 mg once daily (see section 4.4).
 The 300 mg tablet is only suitable for the once a day regimen.
@@ -20,8 +24,8 @@ For children weighing at least 30 kg: the adult dosage of 150 mg twice daily sho
 For children weighing between 21 kg to 30 kg: the recommended oral dose of Epivir (150 mg) is one-half tablet taken in the morning and one whole tablet taken in the evening.
 
 For children weighing 14 to 21 kg: the recommended oral dose of Epivir (150 mg) is one half of a scored tablet taken twice daily.
-
 Epivir is also available as an oral solution for children over three months of age and who weigh less than 14 kg or for patients who are unable to swallow tablets.
+
 Less than three months of age: the limited data available are insufficient to propose specific dosage recommendations (see section 5.2).
 
 Renal impairment: Lamivudine concentrations are increased in patients with moderate - severe renal impairment due to decreased clearance.
@@ -82,4 +86,4 @@ Dosing recommendations – Children from 3 months to 12 years:
 
 [Epivir 300 mg film-coated tablets]
 
-Epivir is also available as an oral solution.
+(all sentences already above)

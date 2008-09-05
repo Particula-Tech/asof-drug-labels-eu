@@ -16,10 +16,10 @@ Very rare: peripheral neuropathy (or paraesthesia)
 
 Respiratory, thoracic and mediastinal disorders
 Common: Cough, nasal symptoms
-
 Gastrointestinal disorders
 Common: Nausea, vomiting, abdominal pain or cramps, diarrhoea
 Rare: Pancreatitis. elevations in serum amylase.
+
 Hepatobiliary disorders
 Uncommon: Transient elevations in liver enzymes (AST, ALT).
 Rare: Hepatitis
