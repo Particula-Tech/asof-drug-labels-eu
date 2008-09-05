@@ -110,7 +110,6 @@ For the primary endpoint, DFS, the hazard ratio translates into an absolute bene
 Immunogenicity
 Nine hundred and three patients treated with Herceptin, alone or in combination with chemotherapy, have been evaluated for antibody production.
 Human anti-trastuzumab antibodies were detected in one patient, who had no allergic manifestations.
-
 Sites of progression
 After Herceptin and paclitaxel therapy for metastatic breast cancer in patients in the pivotal trial the following sites of disease progression were found:
 

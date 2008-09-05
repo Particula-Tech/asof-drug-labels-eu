@@ -40,7 +40,10 @@ Nervous: dizziness, paraesthesia, somnolence, hypertonia, peripheral neuropathy,
 Psychiatric anxiety, depression, insomnia,
 
 disorders
-Respiratory: asthma, cough increased, dyspnoea, epistaxis, lung disorders, pharyngitis, rhinitis, sinusitis
+
+Respiratory: asthma, cough increased, dyspnoea, epistaxis, lung disorders, pharyngitis, rhinitis,
+
+sinusitis
 
 Urogenital: urinary tract infection
 Skin and pruritus, sweating, nail disorder, dry skin, alopecia, acne, maculopapular rash
@@ -113,17 +116,19 @@ Table 3 Adverse Events Reported at 1 year in ≥ 1% of Patients, by Study Treatm
 | --- | --- | --- | --- |
 |  | Total Pts with at least one AE Total number of AEs | 792 (46) 2251 | 1179 (70) 5248 |
 | Musculoskeletal and connective tissue disorders | arthralgia* back pain* pain in extremity myalgia* bone pain shoulder pain chest wall pain muscle spasms* musculoskeletal pain | 98 (6) 59 (3) 45 (3) 17 (<1) 26 (2) 29 (2) 24 (1) 3 (<1) 11 (<1) | 137 (8) 91 (5) 60 (4) 63 (4) 49 (3) 30 (2) 26 (2) 45 (3) 17 (1) |
-| Infections and infestations | nasopharyngitis* influenza* upper respiratory tract infection* urinary tract infection rhinitis sinusitis cystitis pharyngitis bronchitis herpes zoster | 43 (3) 9 (<1) 20 (1) 13 (<1) 6 (<1) 5 (<1) 11 (<1) 9 (<1) 9 (<1) 9 (<1) | 135 (8) 69 (4) 46 (3) 39 (2) 36 (2) 26 (2) 19 (1) 20 (1) 18 (1) 17 (1) |
-| General disorders and administration site conditions | fatigue* oedema peripheral pyrexia* asthenia* chills* chest pain* influenza illness oedema chest discomfort | 44 (3) 38 (2) 6 (<1) 30 (2) - 22 (1) 3 (<1) 7 (<1) 2 (<1) | 128 (8) 79 (5) 100 (6) 75 (4) 85 (5) 45 (3) 40 (2) 18 (1) 20 (1) |
-| Gastrointestinal disorders | diarrhoea* nausea* vomiting* abdominal pain constipation abdominal pain upper | 16 (<1) 19 (1) 10 (<1) 16 (<1) 17 (<1) 15 (<1) | 123 (7) 108 (6) 58 (3) 40 (2) 33 (2) 29 (2) |
+| Infections and infestations | nasopharyngitis* influenza* | 43 (3) 9 (<1) | 135 (8) 69 (4) |
 |  | Total Pts with at least one AE Total number of AEs | 792 (46) 2251 | 1179 (70) 5248 |
-|  | dyspepsia gastritis stomatitis | 9 (<1) 11 (<1) 1 (<1) | 30 (2) 20 (1) 26 (2) |
+|  | upper respiratory tract infection* urinary tract infection rhinitis sinusitis cystitis pharyngitis bronchitis herpes zoster | 20 (1) 13 (<1) 6 (<1) 5 (<1) 11 (<1) 9 (<1) 9 (<1) 9 (<1) | 46 (3) 39 (2) 36 (2) 26 (2) 19 (1) 20 (1) 18 (1) 17 (1) |
+| General disorders and administration site conditions | fatigue* oedema peripheral pyrexia* asthenia* chills* chest pain* influenza illness oedema chest discomfort | 44 (3) 38 (2) 6 (<1) 30 (2) - 22 (1) 3 (<1) 7 (<1) 2 (<1) | 128 (8) 79 (5) 100 (6) 75 (4) 85 (5) 45 (3) 40 (2) 18 (1) 20 (1) |
+| Gastrointestinal disorders | diarrhoea* nausea* vomiting* abdominal pain constipation abdominal pain upper dyspepsia gastritis stomatitis | 16 (<1) 19 (1) 10 (<1) 16 (<1) 17 (<1) 15 (<1) 9 (<1) 11 (<1) 1 (<1) | 123 (7) 108 (6) 58 (3) 40 (2) 33 (2) 29 (2) 30 (2) 20 (1) 26 (2) |
 | Nervous system disorders | headache* dizziness* paraesthesia vertigo | 49 (3) 29 (2) 11 (<1) 7 (<1) | 161 (10) 60 (4) 29 (2) 25 (1) |
 | Vascular disorders | hot flush hypertension* lymphoedema | 84 (5) 35 (2) 40 (2) | 98 (6) 64 (4) 42 (3) |
 | Skin and subcutaneous tissue | rash* pruritus nail disorder* onychorrhexis erythema | 10 (<1) 10 (<1) - 1 (<1) 7 (<1) | 70 (4) 40 (2) 43 (3) 36 (2) 24 (1) |
 | Respiratory, thoracic and mediastinal disorders | cough* dyspnoea pharyngolaryngeal pain dyspnoea exertional rhinorrhoea epistaxis | 34 (2) 26 (2) 8 (<1) 15 (<1) 5 (<1) 1 (<1) | 81 (5) 56 (3) 32 (2) 21 (1) 24 (1) 24 (1) |
 | Reproductive system and breast disorders | breast pain | 19 (1) | 24 (1) |
-| Psychiatric | insomnia depression anxiety | 31 (2) 34 (2) 19 (1) | 58 (3) 51 (3) 39 (2) |
+| Psychiatric | insomnia | 31 (2) | 58 (3) |
+|  | Total Pts with at least one AE Total number of AEs | 792 (46) 2251 | 1179 (70) 5248 |
+|  | depression anxiety | 34 (2) 19 (1) | 51 (3) 39 (2) |
 | Cardiac disorders | palpitations* cardiac failure congestive tachycardia | 12 (<1) 5 (<1) 5 (<1) | 48 (3) 30 (2) 20 (1) |
 | Investigations | ejection fraction decreased* weight increased | 11 (<1) 17 (<1) | 58 (3) 29 (2) |
 | Renal and urinary disorders | dysuria | 2 (<1) | 17 (1) |
@@ -171,6 +176,7 @@ Reduced ejection fraction and signs and symptoms of heart failure, such as dyspn
 (see 4.4).
 
 The incidence of cardiac adverse events from retrospective analysis of data from the combination therapy study (Herceptin plus paclitaxel versus paclitaxel alone and the Herceptin monotherapy study is shown in the following table:
+
 Cardiac Adverse Event Incidence; n,% [95 %-confidence limits]
 
 |  | Herceptin plus paclitaxel N=91 | paclitaxel N=95 | Herceptin N=213 |
