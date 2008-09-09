@@ -11,7 +11,7 @@ The washout period is up to 24 weeks (95 % confidence interval, 18-24 weeks)
 Steady State Concentration
 Steady state pharmacokinetics should be reached by approximately 20 weeks ( 95 % confidence interval, 18 – 24 weeks ).
 In a population pharmacokinetic assessment of Phase I, II and III clinical trials in metastatic breast cancer, the estimated mean AUC was 578 mg day/L and the estimated mean peak and trough concentrations were 110 mg/L and 66 mg/L, respectively.
-In patients with early breast cancer administered Herceptin at a loading dose of 8 mg/kg followed every three weeks by 6 mg/kg, steady state trough concentrations of 63 ng/mL were achieved by cycle 13 (week 37).
+In patients with early breast cancer administered Herceptin at a loading dose of 8 mg/kg followed every three weeks by 6 mg/kg, steady state trough concentrations of 63 mg/L were achieved by cycle 13 (week 37).
 The concentrations were comparable to those reported previously in patients with metastatic breast cancer.
 
 Clearance

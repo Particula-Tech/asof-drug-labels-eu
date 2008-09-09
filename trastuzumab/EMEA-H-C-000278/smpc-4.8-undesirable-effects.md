@@ -61,11 +61,11 @@ Table 1 Common Non-haematological Adverse Events Reported in ≥ 10% of Patients
 | General disorders and administration site conditions | asthenia oedema peripheral fatigue mucosal inflammation pyrexia pain lethargy chest pain influenza like illness rigors | 45 40 24 23 29 12 7 11 12 11 | 41 35 21 22 15 9 11 5 2 1 |
 | Skin and subcutaneous tissue disorders | alopecia nail disorder rash erythema | 67 17 24 23 | 54 21 12 11 |
 | Gastrointestinal disorders | nausea diarrhoea vomiting constipation stomatitis abdominal pain dyspepsia | 43 43 29 27 20 12 14 | 41 36 22 23 14 12 5 |
-| Nervous system disorders | paraesthesia headache dysgeusia hypoaesthesia | 32 21 14 11 | 21 18 12 5 |
+| Nervous system disorders | paraesthesia headache | 32 21 | 21 18 |
+|  | dysgeusia hypoaesthesia | 14 11 | 12 5 |
 | Blood and lymphatic system disorders | febrile neutropenia1 / neutropenic sepsis | 23 | 17 |
 | Musculoskeletal and connective tissue disorders | myalgia arthralgia pain in extremity back pain bone pain | 27 27 16 10 14 | 26 20 16 14 6 |
-| Respiratory, thoracic and mediastinal | cough dyspnoea | 13 14 | 16 15 |
-| disorders | pharyngolaryngeal pain epistaxis rhinorrhoea | 16 18 12 | 9 5 1 |
+| Respiratory, thoracic and mediastinal disorders | cough dyspnoea pharyngolaryngeal pain epistaxis rhinorrhoea | 13 14 16 18 12 | 16 15 9 5 1 |
 | Infections and infestations | nasopharyngitis | 15 | 6 |
 | Eye disorders | lacrimation increased conjunctivitis | 21 12 | 10 7 |
 | Vascular disorders | lymphoedema | 11 | 6 |
@@ -81,7 +81,7 @@ In a further randomised clinical trial (BO16216), patients with HER2 positive an
 In this trial, there was no change in the safety profile compared with previous trials in the metastatic population.
 The following table displays adverse events which were reported in ≥ 10% of patients, by study treatment:
 
-Table 1 Summary of Adverse Events with an Incidence Rate of at Least
+Table 2 Summary of Adverse Events with an Incidence Rate of at Least
 
 10 % by Trial Treatment
 
@@ -108,7 +108,7 @@ There was an increased incidence of SAEs (23% vs. 6%) and Grade 3/4 AEs (25% vs.
 EBC
 
 The HERA trial is a randomised, open label study in patients with HER2-positive early breast cancer (see section 5.1 Pharmacodynamic properties).
-Table 2 displays adverse events which were reported at 1 year in ≥ 1% of patients, by study treatment.
+Table 3 displays adverse events which were reported at 1 year in ≥ 1% of patients, by study treatment.
 
 Table 3 Adverse Events Reported at 1 year in ≥ 1% of Patients, by Study Treatment
 
@@ -201,7 +201,7 @@ Summary of Patients with an LVEF Decrease by at least an Absolute 15% from Basel
 | Symptomatic CHF | 1 (<1%) | 0a |
 | Confirmed LVEF drops of ≥ 15% from Baseline and below 50% | 1 (<1%) | 0b |
 | At least one LVEF drop of ≥ 15% from baseline and below 50% | 6 (5.8%) | 0c |
-| a One patient experienced symptomatic CHF after cross over to Herceptin-containing regimen following progression b Two patients experienced confirmed LVEF drops after cross over to Herceptin-containing regimen following progression c Four patients experienced confirmed LVEF drops after cross over to Herceptin-containing regimen following progression |  |  |
+| a One patient experienced symptomatic CHF after cross over to Herceptin-containing regimen following progression b Two patients experienced confirmed LVEF drops after cross over to Herceptin-containing regimen following progression c Four patients experienced one LVEF drops after cross over to Herceptin-containing regimen following progression |  |  |
 
 In the HERA trial, NYHA class III-IV heart failure was observed in 0.6 % of patients in the one-year arm.
 Asymptomatic or mildly symptomatic NYHA class I – II events were observed in 3.0% of patients in the Herceptin arm compared to 0.5% of patients in the observation arm.

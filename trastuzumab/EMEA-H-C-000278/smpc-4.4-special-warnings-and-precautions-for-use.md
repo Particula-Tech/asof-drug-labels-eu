@@ -1,7 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
 HER2 testing must be performed in a specialised laboratory which can ensure adequate validation of the testing procedures (see 5.1).
-
 Currently no data from clinical trials are available on Herceptin re-treatment of patients with previous exposure to Herceptin in the adjuvant setting.
 
 The use of Herceptin is associated with cardiotoxicity.

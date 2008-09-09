@@ -31,18 +31,21 @@ There were no restrictions on the relative timing of Herceptin and anastrozole a
 Duration of treatment
 Herceptin should be administered until progression of disease.
 
-EBC 3-weekly schedule:
+MBC 3-weekly schedule:
 
-In the HERA trial, Herceptin was initiated after completions of standard chemotherapy (most commonly, anthracycline-containing regimens or anthracyclines plus a taxane).
+Alternatively the following loading and subsequent doses are recommended for monotherapy and in combination with paclitaxel, docetaxel or an aromatase inhibitor.
 
 Initial loading dose of 8 mg/kg body weight, followed by 6 mg/kg body weight 3 weeks later and then 6 mg/kg repeated at 3-weekly intervals administered as infusions over approximately 90 minutes.
 
-Patients with early breast cancer should be treated for 1 year or until disease recurrence.
+Duration of treatment
+Herceptin should be administered until progression of disease.
 
-If the patient misses a dose of Herceptin by one week or less, then the usual dose of Herceptin (6 mg/kg) should be given as soon as possible (do not wait until the next planned cycle).
-Subsequent maintenance Herceptin doses of 6 mg/kg should then be given every 3 weeks, according to the previous schedule.
-If the patient misses a dose of Herceptin by more than one week, a re-loading dose of Herceptin should be given (8 mg/kg over approximately 90 minutes).
-Subsequent maintenance Herceptin doses of 6 mg/kg should then be given every 3 weeks from that point.
+EBC 3-weekly schedule:
+
+In the HERA trial, Herceptin was initiated after completions of standard chemotherapy (most commonly, anthracycline-containing regimens or anthracyclines plus a taxane).
+Initial loading dose of 8 mg/kg body weight, followed by 6 mg/kg body weight 3 weeks later and then 6 mg/kg repeated at 3-weekly intervals administered as infusions over approximately 90 minutes.
+
+Patients with early breast cancer should be treated for 1 year or until disease recurrence.
 
 EBC weekly schedule:
 
@@ -58,6 +61,13 @@ Dose reduction
 No reductions in the dose of Herceptin were made during clinical trials.
 Patients may continue Herceptin therapy during periods of reversible, chemotherapy-induced myelosuppression but they should be monitored carefully for complications of neutropenia during this time.
 Refer to the Summary of Product Characteristics for paclitaxel, docetaxel or aromatase inhibitor for information on dose reduction or delays.
+
+Missed doses during 3-weekly schedule
+If the patient misses a dose of Herceptin by one week or less, then the usual dose of Herceptin (6 mg/kg) should be given as soon as possible (do not wait until the next planned cycle).
+Subsequent maintenance Herceptin doses of 6 mg/kg should then be given every 3 weeks, according to the previous schedule.
+
+If the patient misses a dose of Herceptin by more than one week, a re-loading dose of Herceptin should be given (8 mg/kg over approximately 90 minutes).
+Subsequent maintenance Herceptin doses of 6 mg/kg should then be given every 3 weeks from that point.
 
 Special patient populations
 Clinical data show that the disposition of Herceptin is not altered based on age or serum creatinine (see 5.2).

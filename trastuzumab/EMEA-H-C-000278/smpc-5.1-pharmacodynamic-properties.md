@@ -61,7 +61,7 @@ In this trial, 87 % of patients entered had disease that was IHC3+, and 95 % of 
 
 Efficacy
 
-MBC
+Weekly dosing in MBC
 
 The efficacy results from the monotherapy and combination therapy studies are summarised in the following table:
 
@@ -90,7 +90,26 @@ For the other parameters the improvements seen for the combination were for over
 For time to response and duration of response no difference could be recorded between the arms.
 The median overall survival was extended by 4.6 months for patients in the combination arm.
 The difference was not statistically significant, however more than half of the patients in the anastrozole alone arm crossed over to a Herceptin containing regimen after progression of disease.
-EBC
+
+3-weekly dosing in MBC
+
+The efficacy results from the non-comparative monotherapy and combination therapy studies are summarised in the following table:
+
+| Parameter | Monotherapy |  | Combination Therapy |  |
+| --- | --- | --- | --- | --- |
+|  | Herceptin1 N=105 | Herceptin2 N=72 | Herceptin plus paclitaxel3 N=32 | Herceptin plus Docetaxel4 N=110 |
+| Response rate (95%CI) | 24% (15 - 35) | 27% (14 - 43) | 59% (41-76) | 73% (63-81) |
+| Median duration of response (months) (range) | 10.1 (2.8-35.6) | 7.9 (2.1-18.8) | 10.5 (1.8-21) | 13.4 (2.1-55.1) |
+| Median TTP (months) (95%CI) | 3.4 (2.8-4.1) | 7.7 (4.2-8.3) | 12.2 (6.2-ne) | 13.6 (11-16) |
+| Median Survival (months) (95%CI) | ne | ne | ne | 47.3 (32-ne) |
+
+TTP = time to progression; "ne" indicates that it could not be estimated or it was not yet reached.
+1.
+Study WO16229: loading dose 8 mg/kg, followed by 6 mg/kg 3 weekly schedule 2.
+Study MO16982: loading dose 6mg/kg weekly x 3; followed by 6mg/kg 3-weekly schedule 3.
+BO15935
+4.
+MO16419EBC
 
 Early breast cancer is defined as non-metastatic primary invasive carcinoma of the breast.
 Early breast cancer in the HERA trial was limited to operable, primary, invasive adenocarcinoma of the breast, with axillary nodes positive or axillary nodes negative if tumours at least 1 cm in diameter.
