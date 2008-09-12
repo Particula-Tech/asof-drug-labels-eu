@@ -63,6 +63,7 @@ Because these events have been reported voluntarily from a population of unknown
 
 Metabolism and nutrition disorders:
 Rare: lactic acidosis
+Not known: hypokalaemia
 
 Respiratory, thoracic and mediastinal disorders:
 Very rare: dyspnoea
@@ -73,16 +74,20 @@ Rare: pancreatitis
 Hepatobiliary disorders:
 Rare: increased transaminases
 Very rare: hepatitis
+Not known: hepatic steatosis
 
 Skin and subcutaneous tissue disorders:
 Rare: rash
-
 Musculoskeletal and connective tissue disorders:
-Not known: myopathy, osteomalacia (both associated with proximal renal tubulopathy)
+Not known: rhabdomyolysis, osteomalacia (manifested as bone pain and infrequently contributing to fractures), muscular weakness, myopathy
+
 Renal and urinary disorders:
-Rare: renal failure, acute renal failure, proximal tubulopathy (including Fanconi syndrome), increased creatinine
+Rare: acute renal failure, renal failure, proximal renal tubulopathy (including Fanconi syndrome), increased creatinine
 Very rare: acute tubular necrosis
 Not known: nephritis (including acute interstitial nephritis), nephrogenic diabetes insipidus
 
 General disorders and administration site conditions:
 Very rare: asthenia
+
+The following adverse reactions, listed under the body system headings above, may occur as a consequence of proximal renal tubulopathy: rhabdomyolysis, osteomalacia (manifested as bone pain and infrequently contributing to fractures), hypokalaemia, muscular weakness, myopathy and hypophosphataemia.
+These events are not considered to be causally associated with tenofovir disoproxil fumarate therapy in the absence of proximal renal tubulopathy.

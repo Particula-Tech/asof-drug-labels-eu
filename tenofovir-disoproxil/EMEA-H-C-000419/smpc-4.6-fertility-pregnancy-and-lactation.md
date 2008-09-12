@@ -13,5 +13,4 @@ Lactation
 In animal studies it has been shown that tenofovir is excreted into milk.
 It is not known whether tenofovir is excreted in human milk.
 Therefore, it is recommended that mothers being treated with tenofovir disoproxil fumarate do not breast-feed their infants.
-
 As a general rule, it is recommended that HIV and HBV infected women do not breast-feed their infants in order to avoid transmission of HIV and HBV to the infant.

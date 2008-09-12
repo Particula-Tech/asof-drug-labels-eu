@@ -20,6 +20,7 @@ Tenofovir disoproxil fumarate should be avoided in antiretroviral experienced pa
 
 Clinical studies in treatment-experienced patients have assessed the anti-HIV activity of tenofovir disoproxil 245 mg (as fumarate) against strains of HIV-1 with resistance to nucleoside inhibitors.
 The results indicate that patients whose HIV expressed 3 or more thymidine-analogue associated mutations (TAMs) that included either the M41L or L210W reverse transcriptase mutation showed reduced response to tenofovir disoproxil 245 mg (as fumarate) therapy.
+
 Clinical results: The effects of tenofovir disoproxil fumarate in treatment-experienced and treatment-naïve HIV-1 infected adults have been demonstrated in trials of 48 weeks duration in treatment-experienced HIV-1 infected adults.
 
 In study GS-99-907, 550 treatment-experienced patients were treated with placebo or tenofovir disoproxil 245 mg (as fumarate) for 24 weeks.
@@ -43,12 +44,12 @@ At 144 weeks, the proportion of patients with HIV-1 RNA below 400 copies/ml and 
 The average change from baseline for HIV-1 RNA and CD4 count at 48 weeks of treatment was similar in both treatment groups (-3.09 and -3.09 log10 copies/ml; +169 and 167 cells/mm3 in the tenofovir disoproxil 245 mg (as fumarate) and stavudine groups, respectively).
 At 144 weeks of treatment, the average change from baseline remained similar in both treatment groups (-3.07 and -3.03 log10 copies/ml; +263 and +283 cells/mm3 in the tenofovir disoproxil 245 mg (as fumarate) and stavudine groups, respectively).
 A consistent response to treatment with tenofovir disoproxil 245 mg (as fumarate) was seen regardless of baseline HIV-1 RNA and CD4 count.
-
 The K65R mutation occurred in a slightly higher percentage of patients in the tenofovir disoproxil fumarate group than the active control group (2.7% versus 0.7%).
 Efavirenz or lamivudine resistance either preceded or was coincident with the development of K65R in all cases.
 Eight patients had HIV that expressed K65R in the tenofovir disoproxil 245 mg (as fumarate) arm, 7 of these occurred during the first 48 weeks of treatment and the last one at week 96.
 No further K65R development was observed up to week 144.
 From both the genotypic and phenotypic analyses there was no evidence for other pathways of resistance to tenofovir.
+
 Data pertaining to HBV:
 HBV antiviral activity in vitro: The in vitro antiviral activity of tenofovir against HBV was assessed in the HepG2 2.2.15 cell line.
 The EC50 values for tenofovir were in the range of 0.14 to 1.5 µmol/l, with CC50 (50% cytotoxicity concentration) values > 100 µmol/l.

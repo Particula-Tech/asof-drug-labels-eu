@@ -33,7 +33,8 @@ In patients at risk for renal impairment, including patients who have previously
 Patients with creatinine clearance < 50 ml/min, including haemodialysis patients: There are limited data on the safety and efficacy of tenofovir disoproxil fumarate in patients with impaired renal function.
 Therefore, tenofovir disoproxil fumarate should only be used if the potential benefits of treatment are considered to outweigh the potential risks.
 In patients with severe renal impairment (creatinine clearance < 30 ml/min) use of tenofovir is not recommended.
-If no alternative treatment is available, the dosing interval must be adjusted and renal function should be closely monitored (see sections 4.2 and 5.2).
+If no alternative treatment is available, the dosing interval must be adjusted and renal function should be closely monitored
+(see sections 4.2 and 5.2).
 
 If serum phosphate is < 1.5 mg/dl (0.48 mmol/l) or creatinine clearance is decreased to < 50 ml/min in any patient receiving tenofovir disoproxil fumarate, renal function should be re-evaluated within one week, including measurements of blood glucose, blood potassium and urine glucose concentrations (see section 4.8, proximal tubulopathy).
 Consideration should also be given to interrupting treatment with tenofovir disoproxil fumarate in patients with creatinine clearance decreased to < 50 ml/min or decreases in serum phosphate to < 1.0 mg/dl (0.32 mmol/l).
@@ -50,6 +51,8 @@ Bone effects: In HIV infected patients, in a 144-week controlled clinical study 
 Decreases in bone mineral density of spine and changes in bone biomarkers from baseline were significantly greater in the tenofovir disoproxil fumarate treatment group at 144 weeks.
 Decreases in bone mineral density of hip were significantly greater in this group until 96 weeks.
 However, there was no increased risk of fractures or evidence for clinically relevant bone abnormalities over 144 weeks.
+
+Bone abnormalities (infrequently contributing to fractures) may be associated with proximal renal tubulopathy (see section 4.8).
 If bone abnormalities are suspected then appropriate consultation should be obtained.
 
 Liver disease: The safety of tenofovir in patients with decompensated liver disease is being studied.
@@ -116,7 +119,7 @@ These findings do not affect current national recommendations to use antiretrovi
 
 Immune Reactivation Syndrome: In HIV infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
-Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
+Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis jiroveci pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
 Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
