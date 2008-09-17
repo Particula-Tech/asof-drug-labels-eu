@@ -5,6 +5,7 @@ Packs of 1, 2, 5 and 10 vials are available.
 
 10 ml solution in a vial (type 1 colourless glass) with a flanged cap (aluminium), (type 1, laminate of polyisoprene and bromobutyl rubber) a stopper and atear-off cap (polypropylene).
 Packs of 1 vial are available.
+
 Not all pack sizes may be marketed.
 
 [Lantus 100 Units/ml solution for injection in a cartridge.]

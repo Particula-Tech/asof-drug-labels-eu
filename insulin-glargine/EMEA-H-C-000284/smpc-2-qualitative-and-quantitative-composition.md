@@ -4,7 +4,7 @@ Each ml contains 100 Units insulin glargine (equivalent to 3.64 mg).
 
 Each vial contains 5 ml of solution for injection, equivalent to 500 Units, or 10 ml of solution for injection, equivalent to 1000 Units.
 
-Insulin glargine is produced by recombinant DNA technology in Escherichia coli .
+Insulin glargine is produced by recombinant DNA technology in Escherichia coli.
 
 For a full list of excipients, see section 6.1.
 

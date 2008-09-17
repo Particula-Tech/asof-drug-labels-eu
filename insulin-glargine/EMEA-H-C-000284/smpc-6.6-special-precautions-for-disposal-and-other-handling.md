@@ -36,6 +36,7 @@ Before first use, the pen must be stored at room temperature for 1 to 2 hours.
 Empty pens must never be reused and must be properly discarded.
 
 To prevent the possible transmission of disease, each pen must be used by one patient only.
+
 Handling of the pen
 The Instructions for Use included in the Package Leaflet must be read carefully before using OptiSet.
 
@@ -63,7 +64,6 @@ If OptiSet is in cool storage, it should be taken out 1 to 2 hours before inject
 Cold insulin is more painful to inject.
 
 The used OptiSet must be discarded as required by your local authorities.
-
 Maintenance
 
 OptiSet has to be protected from dust and dirt.
@@ -83,6 +83,7 @@ Check the Insulin
 After removing the pen cap, the label on the pen and the insulin reservoir should be checked to make sure it contains the correct insulin.
 The appearance of insulin should also be checked: the insulin solution must be clear, colourless, with no solid particles visible, and must have a water-like consistency.
 Do not use this OptiSet if the insulin is cloudy, coloured or has particles.
+
 Step 2.
 Attach the needle
 
@@ -121,7 +122,6 @@ The dose can be set in steps of 2 units, from a minimum of 2 units to a maximum 
 If a dose greater than 40 units is required, it should be given as two or more injections.
 
 Check if you have enough insulin for the dose.
-
 The residual insulin scale on the transparent insulin reservoir shows approximately how much insulin remains in the OptiSet.
 This scale must not be used to set the insulin dose.
 If the black plunger is at the beginning of the coloured bar, then there are approximately 40 units of insulin available.
@@ -141,6 +141,7 @@ The injection button allows checking the actual loaded dose.
 The injection button must be held out under tension during this check.
 The last thick line visible on the injection button shows the amount of insulin loaded.
 When the injection button is held out only the top part of this thick line can be seen.
+
 Step 6.
 Inject the dose
 
