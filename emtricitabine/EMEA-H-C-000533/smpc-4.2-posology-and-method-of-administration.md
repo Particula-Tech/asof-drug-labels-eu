@@ -34,7 +34,7 @@ Please refer to the Summary of Product Characteristics for Emtriva 10 mg/ml oral
 |  | ≥ 50 | 30-49 | 15-29 | < 15 (functionally anephric, requiring intermittent haemodialysis)* |
 | Recommended dose interval for 200 mg hard capsules | One 200 mg hard capsule every 24 hours | One 200 mg hard capsule every 48 hours | One 200 mg hard capsule every 72 hours | One 200 mg hard capsule every 96 hours |
 
-* Assumes a 3h haemodialysis session three times a week commencing at least 12h after administration of the last dose of emtricitabine.
+* Assumes a 3 h haemodialysis session three times a week commencing at least 12 h after administration of the last dose of emtricitabine.
 
 Patients with end-stage renal disease (ESRD) managed with other forms of dialysis such as ambulatory peritoneal dialysis have not been studied and no dose recommendations can be made.
 
@@ -69,5 +69,3 @@ Patients with renal insufficiency can also be managed by administration of Emtri
 | --- | --- | --- | --- | --- |
 |  | ≥ 50 | 30-49 | 15-29 | < 15 (functionally anephric, requiring intermittent haemodialysis)* |
 | Recommended dose of Emtriva 10 mg/ml oral solution every 24 hours | 240 mg (24 ml) | 120 mg (12 ml) | 80 mg (8 ml) | 60 mg (6 ml) |
-
-Patients with end-stage renal disease (ESRD) managed with other forms of dialysis such as ambulatory peritoneal dialysis have not been studied and no dose recommendation can be made.

@@ -8,7 +8,7 @@ Please also refer to the Summaries of Product Characteristics of the other antir
 
 Patients receiving emtricitabine or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with HIV associated diseases.
 
-Patients should be advised that antiretroviral therapies, including emtricitabine,have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
+Patients should be advised that antiretroviral therapies, including emtricitabine, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be used.
 Patients should also be informed that emtricitabine is not a cure for HIV infection.
 
@@ -76,8 +76,6 @@ Osteonecrosis: Although the etiology is considered to be multifactorial (includi
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 [Emtriva 10 mg/ml oral solution]
-
-Patients should be advised that antiretroviral therapies, including emtricitabine have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 
 The safety and efficacy of the reduced doses provided in section 4.2 are based on single dose pharmacokinetic data and modelling and have not been clinically evaluated.
 Therefore, clinical response to treatment and renal function should be closely monitored in patients treated with a reduced dose of emtricitabine (see sections 4.2 and 5.2).

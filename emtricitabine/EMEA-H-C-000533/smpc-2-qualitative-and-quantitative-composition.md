@@ -10,4 +10,4 @@ Each ml of Emtriva oral solution contains 10 mg emtricitabine.
 
 Excipient(s):
 
-Each dose (24ml) contains 36 mg methyl parahydroxybenzoate (E218), 3.6 mg propyl parahydroxybenzoate (E216), 1.2 mg Sunset Yellow (E110) and has a sodium content of 254 mg.
+Each dose (24 ml) contains 36 mg methyl parahydroxybenzoate (E218), 3.6 mg propyl parahydroxybenzoate (E216), 1.2 mg Sunset Yellow (E110) and has a sodium content of 254 mg.

@@ -1,6 +1,7 @@
 # 6.5 Nature and contents of container
 
 White high-density polyethylene (HDPE) bottle fitted with a child-resistant closure, containing 30 hard capsules.
+
 Blisters made of polychlorotrifluorethylene (PCTFE) / polyethylene (PE) / polyvinylchloride (PVC) / aluminium.
 Each blister pack contains 30 hard capsules.
 
