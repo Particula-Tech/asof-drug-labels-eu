@@ -14,6 +14,6 @@ EU/1/03/262/003
 EU/1/03/262/004
 EU/1/03/262/005
 
-[EMEND 125 mg hard capsule]
+[EMEND 125 mg hard capsules (SmPC 4)]
 
 EU/1/03/262/006

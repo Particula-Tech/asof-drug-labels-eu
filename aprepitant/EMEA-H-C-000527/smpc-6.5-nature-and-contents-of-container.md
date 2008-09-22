@@ -18,6 +18,6 @@ Aluminium blister containing two 80 mg capsules.
 Aluminium blister containing one 125 mg capsule.
 5 Aluminium blisters each containing one 125 mg capsule.
 
-[EMEND 125 mg hard capsule]
+[EMEND 125 mg hard capsules (SmPC 4)]
 
 Aluminium blister containing one 125 mg capsule and two 80 mg capsules.

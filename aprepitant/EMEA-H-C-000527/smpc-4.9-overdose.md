@@ -1,6 +1,6 @@
 # 4.9 Overdose
 
-No specific information is available on the treatment of overdosage with EMEND.
+No specific information is available on the treatment of overdose with EMEND.
 
 Drowsiness and headache were reported in one patient who ingested 1,440 mg of aprepitant.
 

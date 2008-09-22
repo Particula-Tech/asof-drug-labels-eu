@@ -1,4 +1,4 @@
-# 5.3 Preclinical safety data
+# 5.3 Pre-clinical safety data
 
 Pre-clinical data reveal no special hazard for humans based on conventional studies of single and repeated dose toxicity, genotoxicity, carcinogenic potential, and toxicity to reproduction.
 It should be noted that systemic exposure in male rats was lower than the therapeutic exposure in humans at 40 mg.
@@ -15,6 +15,6 @@ In particular, although no adverse effects were noted in reproduction studies at
 
 (all sentences already above)
 
-[EMEND 125 mg hard capsule]
+[EMEND 125 mg hard capsules (SmPC 4)]
 
 (all sentences already above)
