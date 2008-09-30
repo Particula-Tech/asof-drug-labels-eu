@@ -1,0 +1,16 @@
+{
+  "active_substance": "rivaroxaban",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000944",
+  "eu_number": "EU/1/08/472",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2008-09-30",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xarelto",
+  "molecule": "rivaroxaban",
+  "molecule_name": "RIVAROXABAN",
+  "name": "Xarelto",
+  "register_name": "Xarelto",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h472.htm"
+}
