@@ -75,8 +75,7 @@ Additional adverse reactions reported during post-marketing are described below 
 Gastrointestinal: colitis including cytomegalovirus colitis, (≥1/100 to <1/10), pancreatitis, (≥1/100 to <1/10) and intestinal villous atrophy.
 
 Disorders related to immunosuppression: serious life-threatening infections including meningitis, endocarditis, tuberculosis and atypical mycobacterial infection.
-Cases of Progressive Multifocal Leukoencephalopathy (PML), sometimes fatal, have been reported in CellCept treated patients.
-The reported cases generally had risk factors for PML, including immunosuppressant therapies and impairment of immune function.
+Cases of BK virus associated nephropathy, as well as cases of JC virus associated progressive multifocal leucoencephalopathy (PML), have been reported in patients treated with immunosuppressants, including CellCept.
 Agranulocytosis (≥1/1000 to <1/100) and neutropenia have been reported; therefore, regular monitoring of patients taking CellCept is advised (see section 4.4).
 There have been reports of aplastic anaemia and bone marrow depression in patients treated with CellCept, some of which have been fatal.
 
@@ -91,7 +90,6 @@ The adverse reaction profile associated with the administration of CellCept 500 
 The following data refer to the safety experience of oral CellCept in renal transplant patients.
 Data in hepatic transplant patients are based on i.v. dosing of CellCept for up to 14 days followed by oral dosing.
 Adverse reactions, probably or possibly related to CellCept, reported in ≥1/10 and in ≥1/100 to <1/10 of patients treated with CellCept in the controlled clinical trials of renal (2 g data) and hepatic transplant patients are listed in the following table.
-
 Adverse Reactions, Probably or Possibly Related to CellCept, Reported in Patients Treated with CellCept in Renal and Hepatic Clinical Trials when Used in Combination with Ciclosporin and Corticosteroids
 
 | System organ class |  | Adverse drug reactions |
@@ -120,8 +118,8 @@ Adverse Reactions, Probably or Possibly Related to CellCept, Reported in Patient
 |  | Common | Hepatitis |
 | Skin and subcutaneous tissue disorders | Very common | - |
 |  | Common | Rash, acne, alopecia, |
-| Musculoskeletal and connective | Very common | - |
-| Tissue disorders | Common | Arthralgia |
+| Musculoskeletal and connective Tissue disorders | Very common | - |
+|  | Common | Arthralgia |
 | Renal and urinary disorders | Very common | - |
 |  | Common | Renal impairment |
 | General disorders and administration site conditions | Very common | - |
