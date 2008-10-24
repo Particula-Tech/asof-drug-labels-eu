@@ -19,9 +19,9 @@ No antagonism was observed between darunavir and any of those antiretrovirals.
 Resistance
 In vitro selection of darunavir-resistant virus from wild type HIV-1 was lengthy (> 3 years).
 The selected viruses were unable to grow in the presence of darunavir concentrations above 400 nM.
-Viruses selected in these conditions and showing decreased susceptibility to darunavir (range: 23 - 50-fold) harboured 2 to 4 amino acid substitutions in the protease gene.
+Viruses selected in these conditions and showing decreased susceptibility to darunavir (range: 23-50-fold) harboured 2 to 4 amino acid substitutions in the protease gene.
 Identification of determinants of decreased susceptibility to darunavir in those viruses is under investigation.
-In vitro selection of darunavir resistant HIV-1 (range: 53 - 641-fold change in EC50 values [FC]) from 9 HIV-1 strains harbouring multiple PI Resistance-Associated Mutations (RAMs) showed that a minimum of 8 darunavir in vitro selected mutations were required in the HIV-1 protease to render a virus resistant (FC > 10) to darunavir.
+In vitro selection of darunavir resistant HIV-1 (range: 53-641-fold change in EC50 values [FC]) from 9 HIV-1 strains harbouring multiple PI Resistance-Associated Mutations (RAMs) showed that a minimum of 8 darunavir in vitro selected mutations were required in the HIV-1 protease to render a virus resistant (FC > 10) to darunavir.
 In a pooled analysis of the POWER 1, 2 and 3 (see Clinical experience subsection) and DUET 1 and 2 (TMC125-C206 and TMC125-C216) trials the amino acid substitutions identified that developed on PREZISTA co-administered with ritonavir (600/100 mg b.i.d.) in ≥ 20% of the isolates from subjects who experienced virologic failure by rebound were V32I, I54L and L89V.
 Amino acid substitutions that developed in 10 to 20% of the isolates were V11I, I13V, L33F, I50V and F53L.
 Amino acid substitutions that developed in 5 to 10% of isolates were L10F, I15V, M36L, K43T, M46I, I47V, A71I, G73S, T74P, L76V, V82I and I84V.
@@ -67,7 +67,6 @@ Out of the 206 subjects who responded with complete viral suppression (< 50 copi
 Baseline genotype or phenotype and virologic outcome
 In a pooled analysis of the 600/100 mg b.i.d. groups of the POWER and DUET trials, the presence at baseline of 3 or more of mutations V11I, V32I, L33F, I47V, I50V, I54L or M, T74P, L76V, I84V or L89V was associated with a decreased virologic response to PREZISTA co-administered with 100 mg ritonavir.
 The presence of these individual mutations was associated with a median of 13 to 15 PI resistance associated mutations of the IAS-USA list of mutations.
-
 Response (HIV-1 RNA < 50 copies/ml at week 24) to PREZISTA co-administered with ritonavir (600/100 mg b.i.d.) by baseline genotype* and by use of enfuvirtide (ENF): As treated analysis of the POWER and DUET trials.
 
 | Number of mutations at baseline* | All subjects % n/N | Subjects with no/non-naïve use of ENF % n/N | Subjects with naïve use of ENF % n/N |

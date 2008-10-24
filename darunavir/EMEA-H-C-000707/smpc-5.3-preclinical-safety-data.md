@@ -9,14 +9,14 @@ In the rat, the combination of darunavir with ritonavir lead to a small increase
 In the dog, no major toxicity findings or target organs were identified up to exposures equivalent to clinical exposure at the recommended dose.
 
 In a study conducted in rats, the number of corpora lutea and implantations were decreased in the presence of maternal toxicity.
-Otherwise, there were no effects on mating or fertility with darunavir treatment up to 1000 mg/kg/day and exposure levels below (AUC - 0.5 fold) of that in human at the clinically recommended dose.
+Otherwise, there were no effects on mating or fertility with darunavir treatment up to 1000 mg/kg/day and exposure levels below (AUC-0.5 fold) of that in human at the clinically recommended dose.
 Up to same dose levels, there was no teratogenicity with darunavir in rats and rabbits when treated alone nor in mice when treated in combination with ritonavir.
 The exposure levels were lower than those with the recommended clinical dose in humans.
 In a pre- and postnatal development assessment in rats, darunavir with and without ritonavir, caused a transient reduction in body weight gain of the offspring pre-weaning and there was a slight delay in the opening of eyes and ears.
 Darunavir in combination with ritonavir caused a reduction in the number of pups that exhibited the startle response on day 15 of lactation and a reduced pup survival during lactation.
 These effects may be secondary to pup exposure to the active substance via the milk and/or maternal toxicity.
 No post weaning functions were affected with darunavir alone or in combination with ritonavir.
-In juvenile rats receiving darunavir up to days 23 - 26, increased mortality was observed with convulsions in some animals.
+In juvenile rats receiving darunavir up to days 23-26, increased mortality was observed with convulsions in some animals.
 Exposure in plasma, liver and brain was considerably higher than in adult rats after comparable doses in mg/kg between days 5 and 11 of age.
 After day 23 of life, the exposure was comparable to that in adult rats.
 The increased exposure was likely at least partly due to immaturity of the drug-metabolising enzymes in juvenile animals.
