@@ -76,14 +76,13 @@ atazanavir, dosed significantly alter the
 Atazanavir concentrations were greatly decreased when co-administered with didanosine (buffered tablets) and stavudine.
 The mechanism of interaction is a reduced solubility of atazanavir with increasing pH related to the presence of anti-acid agent in didanosine buffered tablets.
 No significant effect on didanosine and stavudine concentrations was observed.
-Didanosine (enteric coated
 
-Didanosine (with ↓0.66 ↓0.62 ↑1.25
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
 
+Didanosine (enteric coated Didanosine (with ↓0.66 ↓0.62 ↑1.25
 capsules) 400 mg single dose food) (0.59, 0.73) (0.52, 0.74) (0.92, 1.69)
 
 (atazanavir 300 mg QD with
@@ -193,14 +192,14 @@ used cautiously with
 Itraconazole Itraconazole, like ketoconazole, is a potent inhibitor as well as a REYATAZ/ritonavir.
 substrate of CYP3A4. High doses of
 
-ketoconazole and Based on data obtained with other boosted PIs and ketoconazole, where itraconazole (>200
+ketoconazole and
 
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
 
-ketoconazole AUC showed a 3-fold increase, REYATAZ/ritonavir is mg/day) are not
+Based on data obtained with other boosted PIs and ketoconazole, where itraconazole (>200 ketoconazole AUC showed a 3-fold increase, REYATAZ/ritonavir is mg/day) are not
 
 expected to increase ketoconazole or itraconazole concentrations. recommended.
 Voriconazole Co-administration of REYATAZ/ritonavir and voriconazole has not Co-administration of
@@ -242,14 +241,16 @@ inhibition No dose adjustment is
 
 needed for REYATAZ/ritonavir.
 
-Rifampicin Based on literature data, rifampicin decreases plasma concentrations and The co-administration of
+Rifampicin Rifampicin is a strong CYP3A4 inducer and has been shown to cause a 72% The combination of
+decrease in atazanavir AUC which can result in virological failure and rifampicin and
 
-AUC of most protease inhibitors by about 90%.
-This may result in loss of REYATAZ/ritonavir
+resistance development.
+During attempts to overcome the decreased exposure REYATAZ with
 
-therapeutic effect and development of resistance. The mechanism of with rifampicin is
+by increasing the dose of REYATAZ or other protease inhibitors with concomitant low-dose
+ritonavir, a high frequency of liver reactions was seen. ritonavir is
 
-interaction between rifampicin and atazanavir is CYP3A4 induction contraindicated
+contraindicated
 (see section 4.3).
 ACID REDUCING AGENTS
 H2-Receptor antagonists
@@ -267,13 +268,14 @@ The antagonist, all as a mechanism of interaction is decreased solubility of ata
 
 gastric pH increases with H2 blockers. food. Reductions in
 
-atazanavir concentrations may be avoided by temporal separation of REYATAZ and an H2-receptor antagonist as follows: REYATAZ 300 mg with ritonavir 100 mg once daily with food, 2 hours before and at least 10 hours following the administration of an H2-receptor antagonist.
+atazanavir concentrations may be avoided by temporal separation of REYATAZ and an H2-receptor antagonist as follows: REYATAZ 300 mg with ritonavir 100 mg once daily with food, 2 hours before and at least 10 hours
 
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
 
+following the administration of an H2-receptor antagonist.
 Proton pump inhibitors
 
 Omeprazole 40 mg QD Co-administration of
@@ -348,17 +350,15 @@ Amiodarone, Concentrations of these antiarrhythmics may be increased when Cautio
 Systemic lidocaine, co-administered with REYATAZ/ritonavir. The mechanism of and therapeutic
 Quinidine amiodarone or systemic lidocaine/atazanavir interaction is CYP3A concentration
 inhibition. Quinidine has a narrow therapeutic window and is monitoring is
-contraindicated due to potential inhibition of CYP3A by recommended when
-REYATAZ/ritonavir. available. The
-
-concomitant use of
-
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
 
-quinidine is contraindicated
+contraindicated due to potential inhibition of CYP3A by recommended when
+REYATAZ/ritonavir. available. The
+
+concomitant use of quinidine is contraindicated
 (see section 4.3).
 Calcium channel blockers
 
@@ -423,15 +423,15 @@ HERBAL PRODUCTS
 St. John’s wort (Hypericum Concomitant use of St. John's wort with REYATAZ/ritonavir may be Co-administration of
 
 perforatum): expected to result in significant reduction in plasma levels of atazanavir. REYATAZ/ritonavir
+Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
+products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
+
+co-administration
 
 This effect may be due to an induction of CYP3A4.
 There is a risk of with products loss of therapeutic effect and development of resistance (see section containing St. John's
 
 4.3). wort is contraindicated.
-Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
-products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
-
-co-administration
 
 HORMONAL CONTRACEPTIVES
 
@@ -494,14 +494,14 @@ Data from concomitant use of 4.3), whereas caution parenteral midazolam with oth
 3-4 fold increase in midazolam plasma levels. co-administration of
 
 REYATAZ/ritonavir and parenteral midazolam.
-If REYATAZ is co-administered with parenteral midazolam, it should be done in an
+If REYATAZ is
 
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
 
-intensive care unit (ICU) or similar setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation.
+co-administered with parenteral midazolam, it should be done in an intensive care unit (ICU) or similar setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation.
 Dosage adjustment for midazolam should be considered, especially if more than a single dose of midazolam is administered.
 
 [REYATAZ 150 mg hard capsules]
@@ -518,35 +518,20 @@ Dosage adjustment for midazolam should be considered, especially if more than a 
 
 [REYATAZ 50 mg/1.5 g oral powder]
 
-↓0.13 ↓0.11 ↓0.16
-
-single dose) atazanavir, (0.08, 0.21) (0.06, 0.18) (0.10, 0.27) REYATAZ/ritonavir
-administration co-administration of
-with ddI+d4T REYATAZ/ritonavir
-
-Didanosine (enteric coated Didanosine (with ↓0.66 ↓0.62 ↑1.25
-
-reduction can be made;
-
-14-OH ↓0.30 ↓0.28 ↓0.38
-
-clarithromycin (0.26, 0.34) (0.24, 0.33) (0.34, 0.42) therefore, caution should be exercised if
-
 ketoconazole and Based on data obtained with other boosted PIs and ketoconazole, where itraconazole (>200 ketoconazole AUC showed a 3-fold increase, REYATAZ/ritonavir is mg/day) are not
 
-The antagonist, all as a
+Famotidine 40 mg BID No dosage adjustment
+atazanavir ↓ 0.82 ↓0.86 ↓0.72
 
-mechanism of interaction is decreased solubility of atazanavir as intra- single daily dose with
+atazanavir concentrations may be avoided by temporal separation of REYATAZ and an H2-receptor antagonist as follows: REYATAZ 300 mg with ritonavir 100 mg once daily with food, 2 hours before and at least 10 hours following the administration of an H2-receptor antagonist.
 
-concomitant use of quinidine is contraindicated
+irinotecan, patients should be closely
+
+monitored for adverse events related to irinotecan.
 
 There needed and ECG was an increase in the maximum PR interval compared to atazanavir monitoring.
 alone.
 
 verapamil is co-administered with REYATAZ/ritonavir.
-
-Moreover, in case of withdrawal of glucocorticoids, progressive dose reduction may have to
-
-be performed over a longer period.
 
 If REYATAZ is co-administered with parenteral midazolam, it should be done in an intensive care unit (ICU) or similar setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation.
