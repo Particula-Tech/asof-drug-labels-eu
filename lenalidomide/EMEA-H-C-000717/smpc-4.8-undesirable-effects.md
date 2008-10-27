@@ -16,7 +16,8 @@ The most frequently observed adverse reactions which occurred significantly more
 The adverse reactions observed in patients treated with lenalidomide/dexamethasone are listed below by system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Frequencies are defined as: very common (≥ 1/10); common
-(≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000), very rare (< 1/10,000 including isolated reports).
+(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000), very rare
+(< 1/10,000 including isolated reports).
 In the majority of cases, there was no significant difference in the incidence of specific adverse events between the two treatment arms.
 Only those adverse reactions marked with * occurred significantly more frequently in the lenalidomide/dexamethasone arm compared to the placebo/dexamethasone arm.
 
@@ -40,7 +41,6 @@ Very Common: Neutropenia*, thrombocytopenia*, anaemia*
 Common: Febrile neutropenia, pancytopenia, leucopenia*, lymphopenia*
 
 Uncommon: Granulocytopenia, haemolytic anaemia, autoimmune haemolytic anaemia, haemolysis, hypercoagulation, coagulopathy, monocytopenia, leucocytosis, lymphadenopathy
-
 Nervous system disorders
 
 Common: Cerebrovascular accident, syncope, peripheral neuropathy, neuropathy, peripheral
@@ -88,7 +88,6 @@ Common: Face oedema, dry skin, pruritus*, erythema, folliculitis, skin hyperpigm
 
 exanthema, increased sweating, night sweats, alopecia
 Uncommon: Erythema nodosum, urticaria, eczema, erythrosis, erythematous rash, pruritic rash, papular rash, hyperkeratosis, contusion, skin fissures, acne, dermatitis acneiforme, lichen sclerosus, decubitus ulcer, pigmentation lip, prurigo, rosacea, photosensitivity reaction, seborroeic dermatitis, skin burning sensation, skin desquamation, skin discolouration
-
 Musculoskeletal and connective tissue disorders
 Very Common: Muscle cramp*, muscle weakness
 
@@ -96,6 +95,7 @@ Common: Steroid myopathy, myopathy, myalgia, arthralgia, back pain, bone pain, p
 
 limb, chest wall pain, peripheral swelling
 Uncommon: Osteonecrosis, muscle atrophy, amyotrophy, pain in foot, muscle spasms, musculoskeletal pain, night cramps, groin pain, pain in jaw, neck pain, spondylitis, joint stiffness, joint swelling, musculoskeletal stiffness, limb discomfort, toe deformities, local swelling
+
 Endocrine disorders
 
 Common: Cushingoid-like symptoms
@@ -138,7 +138,6 @@ Uncommon: Hyperpyrexia, chest pain, chest tightness, pain, difficulty in walking
 
 Immune system disorders
 Uncommon: Acquired hypogammaglobulinaemia
-
 Hepatobiliary disorders
 Uncommon: Abnormal liver function tests, increased alanine aminotransferase, increased aspartate aminotransferase, increased blood bilirubin
 

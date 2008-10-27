@@ -1,9 +1,9 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Celgene Europe Limited
-Morgan House
-Madeira Walk
+Riverside House
+Riverside Walk
 Windsor
 Berkshire
-SL4 1EP
+SL4 1NA
 United Kingdom

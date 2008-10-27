@@ -4,9 +4,13 @@ Erythropoietic agents, or other agents that may increase the risk of thrombosis,
 
 Oral contraceptives
 No interaction study has been performed with oral contraceptives.
-Dexamethasone is known to be a weak to moderate inducer of CYP3A4 and is likely to also affect other enzymes as well as transporters.
+Lenalidomide is not an enzyme inducer.
+In an in vitro study with human hepatocytes, lenalidomide, at various concentrations tested did not induce CYP1A2, CYP2B6, CYP2C9, CYP2C19 and CYP3A4/5.
+Therefore, induction leading to reduced efficacy of drugs, including hormonal contraceptives, is not expected if lenalidomide is administered alone.
+However, dexamethasone is known to be a weak to moderate inducer of CYP3A4 and is likely to also affect other enzymes as well as transporters.
 It may not be excluded that the efficacy of oral contraceptives may be reduced during treatment.
 Effective measures to avoid pregnancy must be taken (see sections 4.4 and 4.6).
+
 Results from human in vitro metabolism studies indicate that lenalidomide is not metabolised by cytochrome P450 enzymes suggesting that administration of lenalidomide with drugs that inhibit cytochrome P450 enzymes is not likely to result in metabolic drug interactions in man.
 In vitro studies indicate that lenalidomide has no inhibitory effect on CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1 or CYP3A.
 
