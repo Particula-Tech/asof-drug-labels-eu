@@ -20,7 +20,6 @@ Viral escape from maraviroc can occur via 2 routes: the selection of virus which
 In vitro:
 HIV-1 variants with reduced susceptibility to maraviroc have been selected in vitro, following serial passage of two CCR5-tropic viruses (0 laboratory strains, 2 clinical isolates).
 The maraviroc-resistant viruses remained CCR5-tropic and there was no conversion from a CCR5-tropic virus to a CXCR4-using virus.
-
 Phenotypic resistance: concentration response curves for the maraviroc-resistant viruses were characterized phenotypically by curves that did not reach 100% inhibition in assays using serial dilutions of maraviroc.
 Traditional IC50/IC90 fold-change was not a useful parameter to measure phenotypic resistance, as those values were sometimes unchanged despite significantly reduced sensitivity.
 
@@ -56,9 +55,9 @@ Phenotypic resistance: in patients with CCR5-tropic virus at time of treatment f
 In the remaining 21 patients, there was no evidence of virus with reduced sensitivity as identified by exploratory virology analyses on a representative group.
 A clinically-validated cut-off value for reduced virological response has not yet been established.
 Therefore, continued use of maraviroc after treatment failure can not be generally recommended regardless of the viral tropism seen.
-
 Genotypic resistance: the resistance profile of virus from treatment-experienced subjects has not yet been fully characterized.
 Specific mutations associated with reduced susceptibility to maraviroc have been identified in viruses from 5 patients but for each patient there were a unique pattern of mutations.
+
 Clinical Results
 
 Studies in CCR5-tropic Treatment-Experienced Patients:
