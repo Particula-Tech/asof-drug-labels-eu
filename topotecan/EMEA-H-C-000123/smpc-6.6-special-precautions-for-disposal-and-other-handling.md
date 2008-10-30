@@ -1,7 +1,7 @@
 # 6.6 Special precautions for disposal and other handling
 
 HYCAMTIN 1 mg vials must be reconstituted with 1.1 ml water for injections.
-Since HYCAMTIN contains a 10 % overage, the reconstituted solution is pale yellow in colour and provides 1 mg per ml of topotecan.
+Since HYCAMTIN contains a 10 % overage, the clear, reconstituted solution is yellow to yellow-green in colour and provides 1 mg per ml of topotecan.
 Further dilution of the appropriate volume of the reconstituted solution with either 0.9 % w/v sodium chloride intravenous infusion or 5 % w/v glucose intravenous infusion is required to a final concentration of between 25 and 50 microgram/ml.
 
 The normal procedures for proper handling and disposal of anticancer medicinal products should be adopted, namely:
@@ -15,7 +15,7 @@ Liquid waste may be flushed with large amounts of water.
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 
 HYCAMTIN 4 mg vials must be reconstituted with 4 ml water for injections.
-The reconstituted solution is pale yellow in colour and provides 1 mg per ml of topotecan.
+The clear, reconstituted solution is yellow to yellow-green in colour and provides 1 mg per ml of topotecan.
 
 [HYCAMTIN 0.25 mg hard capsules]
 

@@ -2,7 +2,7 @@
 
 Powder for concentrate for solution for infusion.
 
-White powder.
+Light yellow to greenish powder.
 
 [HYCAMTIN 4 mg powder for concentrate for solution for infusion]
 

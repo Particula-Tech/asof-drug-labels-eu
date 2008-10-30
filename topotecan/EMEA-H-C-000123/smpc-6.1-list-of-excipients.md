@@ -21,8 +21,11 @@ Titanium dioxide (E171)
 
 Sealing band:
 
-Black ink: comprising black iron oxide (E172), shellac, anhydrous ethanol – see leaflet for further information, propylene glycol, isopropyl alcohol, butanol, concentrated ammonia solution and potassium hydroxide.
+Black ink comprising:
+black iron oxide (E172) shellac anhydrous ethanol – see leaflet for further information propylene glycol isopropyl alcohol butanol concentrated ammonia solution potassium hydroxide
 
 [HYCAMTIN 1 mg hard capsules]
 
 Titanium dioxide (E171), red iron oxide (E172)
+
+black iron oxide (E172) shellac anhydrous ethanol – see leaflet for further information, propylene glycol isopropyl alcohol butanol concentrated ammonia solution potassium hydroxide

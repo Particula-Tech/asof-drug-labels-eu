@@ -12,8 +12,8 @@
 
 [HYCAMTIN 0.25 mg hard capsules]
 
-EU/0/00/000/000
+EU/1/96/027/006
 
 [HYCAMTIN 1 mg hard capsules]
 
-(all sentences already above)
+EU/1/96/027/007
