@@ -76,7 +76,7 @@ PML usually leads to severe disability or death (see section 4.4).
 In pivotal clinical trials, two cases, including one fatality, occurred in MS patients who were being treated with concomitant interferon beta-1a therapy for more than 2 years.
 In another trial, one patient with Crohn’s disease, who had a long history of treatment with immunosuppressants and associated lymphopenia also developed PML and died.
 
-Although each case of PML occurred in patients either with concomitant use of immune modulating drugs or with evidence of immunosuppression, it remains possible that the risk of PML is associated with natalizumab alone.
+PML has been reported in post-marketing experience in patients treated with TYSABRI monotherapy.
 
 Hepatic Events
 

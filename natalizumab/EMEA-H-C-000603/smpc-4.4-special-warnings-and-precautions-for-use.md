@@ -6,17 +6,19 @@ Use of TYSABRI has been associated with an increased risk of PML.
 
 Before initiation of treatment with TYSABRI, a recent (usually within 3 months) Magnetic Resonance Image should be available.
 Patients must be monitored at regular intervals for any new or worsening neurological symptoms or signs that may be suggestive of PML.
-If new neurological symptoms occur, further dosing is to be suspended until PML has been excluded.
+
+If PML is suspected, further dosing must be suspended until PML has been excluded.
+
 The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction, and if so, whether these symptoms are typical of MS or possibly suggestive of PML.
-If they are suggestive of PML, or if any doubt exists, further evaluation, including MRI scan (compared with pre-treatment MRI), CSF testing for JC Viral DNA and repeat neurological assessments, should be considered.
-Once the clinician has excluded PML, dosing of natalizumab may resume.
+If any doubt exists, further evaluation, including MRI scan preferably with contrast (compared with pre-treatment MRI), CSF testing for JC Viral DNA and repeat neurological assessments, should be considered as described in the Physician Information and Management Guidelines (see educational guidance).
+Once the clinician has excluded PML (if necessary, by repeating clinical, imaging and/or laboratory investigations if clinical suspicion remains), dosing of natalizumab may resume.
 
 The physician should be particularly alert to symptoms suggestive of PML that the patient may not notice (e.g. cognitive or psychiatric symptoms).
 Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
 
 If a patient develops PML the dosing of TYSABRI must be permanently discontinued.
 
-Following reconstitution of the immune system in immunocompromised patients with PML, stabilisation or improved outcome has been seen.
+Following reconstitution of the immune system in immunocompromised patients with PML, stabilisation or improved outcome has been seen (see section 5.2).
 It remains unknown if early detection of PML and suspension of TYSABRI therapy may lead to similar stabilisation or improved outcome.
 
 Other Opportunistic Infections
@@ -31,9 +33,10 @@ If a patient receiving TYSABRI develops an opportunistic infection, dosing of TY
 
 Educational guidance
 
+All physicians who intend to prescribe TYSABRI must ensure they are familiar with the Physician Information and Management Guidelines.
+
 Physicians must discuss the benefits and risks of TYSABRI therapy with the patient and provide them with a Patient Alert Card.
 Patients should be instructed that if they develop any infection then they should inform their physician that they are being treated with TYSABRI.
-
 Physicians should counsel patients on the importance of uninterrupted dosing, particularly in the early months of treatment (see hypersensitivity).
 
 Hypersensitivity
