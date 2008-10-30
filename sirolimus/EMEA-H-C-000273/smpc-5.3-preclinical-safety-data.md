@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 Adverse reactions not observed in clinical studies, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use were as follows: pancreatic islet cell vacuolation, testicular tubular degeneration, gastrointestinal ulceration, bone fractures and calluses, hepatic haematopoiesis, and pulmonary phospholipidosis.
+
 Sirolimus was not mutagenic in the in vitro bacterial reverse mutation assays, the Chinese Hamster Ovary cell chromosomal aberration assay, the mouse lymphoma cell forward mutation assay, or the in vivo mouse micronucleus assay.
 
 Carcinogenicity studies conducted in mouse and rat showed increased incidences of lymphomas (male and female mouse), hepatocellular adenoma and carcinoma (male mouse) and granulocytic leukaemia (female mouse).

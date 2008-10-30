@@ -25,7 +25,8 @@ Thereafter, the difference between the two groups was not significant.
 
 The mean calculated glomerular filtration rate (GFR) at 12, 24, 36, 48 and 60 months was significantly higher for patients receiving Rapamune following ciclosporin elimination than for those in the Rapamune with ciclosporin therapy group.
 Based upon the analysis of data from 36 months and beyond, which showed a growing difference in graft survival and renal function, as well as significantly lower blood pressure in the ciclosporin elimination group, it was decided to discontinue subjects from the Rapamune with ciclosporin group.
-By 60 months, the incidence of non-skin malignancies was significantly higher in the cohort who continued ciclosporin as compared with the cohort who had ciclosporin withdrawn (8.4% vs. 3.8%, respectively).
+By 60 months, the incidence of non-skin malignancies was significantly higher in the cohort who continued ciclosporin as compared with the cohort who had ciclosporin withdrawn
+(8.4% vs. 3.8%, respectively).
 For skin carcinoma, the median time to first occurrence was significantly delayed.
 
 The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients (6-120 months after transplantation) was assessed in a randomised, multicentre, controlled trial, stratified by calculated GFR at baseline (20-40 mL/min vs >40 mL/min).
@@ -46,14 +47,18 @@ In two multi-centre clinical studies, de novo renal transplant patients treated 
 Renal function was not better in the treatment arms with de novo Rapamune without a calcineurin inhibitor.
 An abbreviated dosing schedule of daclizumab was used in one of the studies.
 
+Rapamune was assessed in a 36-month controlled clinical trial enrolling renal transplant patients <18 years of age considered at high-immunologic risk, defined as having a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy.
+Subjects were to receive Rapamune (sirolimus target concentrations of 5 to 15 ng/mL) in combination with a calcineurin inhibitor and corticosteroids or to receive calcineurin-inhibitor-based immunosuppression without Rapamune.
+The Rapamune group failed to demonstrate superiority to the control group in terms of the first occurrence of biopsy confirmed acute rejection, graft loss, or death.
+One death occurred in each group.
+The use of Rapamune in combination with calcineurin inhibitors and corticosteroids was associated with an increased risk of deterioration of renal function, serum lipid abnormalities (including but not limited to increased serum triglycerides and total cholesterol), and urinary tract infections (see section 4.8).
+
+An unacceptably high frequency of PTLD was seen in a paediatric clinical transplant study when full dose Rapamune was administered to children and adolescents in addition to full dose calcineurin inhibitors with basiliximab and corticosteroids (see section 4.8).
+
 [Rapamune 1 mg coated tablets.]
 
-Ciclosporin was not withdrawn in patients experiencing Banff Grade 3 acute rejection episodes, who were dialysis-dependent, who had a serum creatinine > 400 μmol/l, or who had inadequate renal function to support ciclosporin withdrawal.
+(all sentences already above)
 
 [Rapamune 2 mg coated tablets.]
 
-(all sentences already above)
-
-[Rapamune 5 mg coated tablets.]
-
-(all sentences already above)
+By 60 months, the incidence of non-skin malignancies was significantly higher in the cohort who continued ciclosporin as compared with the cohort who had ciclosporin withdrawn (8.4% vs. 3.8%, respectively).

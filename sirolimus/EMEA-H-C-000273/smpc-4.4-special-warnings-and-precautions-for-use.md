@@ -20,6 +20,10 @@ Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketocon
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression (see section 4.8).
 Oversuppression of the immune system can also increase susceptibility to infection including opportunistic infections, fatal infections, and sepsis.
 
+Patients treated with immunosuppressants, including Rapamune, are at increased risk for opportunistic infections (bacterial, fungal, viral and protozoal).
+Among these conditions are BK virus associated nephropathy and JC virus associated progressive multifocal leukoencephalopathy (PML).
+These infections are often related to a high total immunosuppressive burden and may lead to serious or fatal conditions that physicians should consider in the differential diagnosis in immunosuppressed patients with deteriorating renal function or neurological symptoms.
+
 The safety and efficacy of Rapamune as immunosuppressive therapy have not been established in liver or lung transplant patients, and therefore, such use is not recommended.
 
 In two clinical studies in de novo liver transplant patients the use of sirolimus plus ciclosporin or tacrolimus was associated with an increase in hepatic artery thrombosis, mostly leading to graft loss or death.
@@ -49,6 +53,7 @@ Similarly the risk/benefit of continued Rapamune therapy should be re-evaluated 
 
 In clinical trials, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates was well tolerated.
 During Rapamune therapy, patients administered an HMG-CoA reductase inhibitor and/or fibrate, should be monitored for the possible development of rhabdomyolysis and other adverse effects as described in the respective Summary of Product Characteristics of these agents.
+
 Renal function should be monitored during concomitant administration of Rapamune and ciclosporin.
 Appropriate adjustment of the immunosuppression regimen should be considered in patients with elevated serum creatinine levels.
 Caution should be exercised when co-administering other agents that are known to have a deleterious effect on renal function.
@@ -70,13 +75,12 @@ The concomitant use of Rapamune with a calcineurin inhibitor may increase the ri
 
 There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults), in patients receiving Rapamune.
 
+Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, exfoliative dermatitis, and hypersensitivity vasculitis, have been associated with the administration of sirolimus
+(see section 4.8).
+
 Sirolimus tablets contain sucrose and lactose.
 In those patients with a history of sucrase insufficiency, isomaltase insufficiency, fructose intolerance, glucose malabsorption, galactose malabsorption, galactose intolerance (e.g., galactosemia), or Lapp lactase deficiency, a careful risk/benefit assessment should be performed prior to prescribing sirolimus tablets.
 
 [Rapamune 2 mg coated tablets.]
 
 (all sentences already above)
-
-[Rapamune 5 mg coated tablets.]
-
-Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (section 4.5).

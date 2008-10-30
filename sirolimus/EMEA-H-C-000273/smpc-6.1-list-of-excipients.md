@@ -21,14 +21,9 @@ Titanium dioxide
 Poloxamer 188 α-tocopherol
 Povidone
 Carnauba wax:
-Red opacode S-1-15038 (shellac glaze ~45% in SD-45 alcohol, red iron oxide (E172), isopropyl alcohol, propylene glycol, ammonium hydroxide, simethicone emulsion 30%).
+Red opacode S-1-15095 (shellac glaze ~45% in ethanol, red iron oxide (E172), isopropyl alcohol, n-butyl alcohol, propylene glycol, ammonium hydroxide, simethicone).
 
 [Rapamune 2 mg coated tablets.]
 
 Brown iron oxide (E172)
 Yellow iron oxide (E172)
-Red opacode S-1-15095 (shellac glaze ~45% in ethanol, red iron oxide (E172), isopropyl alcohol, n-butyl alcohol, propylene glycol, ammonium hydroxide, simethicone).
-
-[Rapamune 5 mg coated tablets.]
-
-(all sentences already above)

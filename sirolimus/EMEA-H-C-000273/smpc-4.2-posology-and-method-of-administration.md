@@ -1,6 +1,7 @@
 # 4.2 Posology and method of administration
 
 Rapamune is for oral use only.
+
 Treatment should be initiated by and remain under the guidance of an appropriately qualified specialist in transplantation.
 
 Use in adults
@@ -16,8 +17,8 @@ In such patients, when clinically appropriate, Rapamune should be discontinued a
 Use in black recipients: There is limited information indicating that black renal transplant recipients (predominantly African-American) require higher doses and trough levels of sirolimus to achieve the same efficacy as observed in non-black patients.
 Currently, the efficacy and safety data are too limited to allow specific recommendations for use of sirolimus in black recipients.
 
-Use in children and adolescents(<18 years): There is insufficient experience to recommend the use of sirolimus in children and adolescents.
-Limited pharmacokinetic information is available in children (see section 5.2).
+Use in children and adolescents (<18 years): The available data on safety and efficacy are not sufficient to recommend the use of Rapamune in children and adolescents less than 18 years of age (see sections 4.8 and 5.1).
+Limited pharmacokinetic information is available in children and adolescents (see section 5.2).
 
 Use in elderly patients (> 65 years): Clinical studies of Rapamune did not include a sufficient number of patients >65 years of age to determine whether they will respond differently than younger patients.
 Sirolimus trough concentration data in 35 renal transplant patients >65 years of age were similar to those in the adult population (n=822) from 18 to 65 years of age.
@@ -67,11 +68,10 @@ Other considerations for use: Ciclosporin (microemulsion) and other medicinal or
 
 Bioavailability has not been determined for tablets after they have been crushed, chewed or split and therefore this cannot be recommended.
 
-Use in children and adolescents (<18 years): There is insufficient experience to recommend the use of sirolimus in children and adolescents.
-
 Use in elderly patients (> 65 years): Clinical studies with Rapamune oral solution did not include a sufficient number of patients > 65 years of age to determine whether they will respond differently than younger patients.
 Sirolimus trough concentration data in 35 renal transplant patients > 65 years of age were similar to those in the adult population (n = 822) from 18 to 65 years of age.
-Rapamune tablets administered to 12 renal transplant patients > 65 years of age also gave similar results to adult patients (n = 167) 18 to 65 years of age.
+Rapamune tablets administered to 12 renal transplant patients > 65 years of age also gave similar results to adult patients
+(n = 167) 18 to 65 years of age.
 
 To minimize variability, Rapamune should be taken at the same time in relation to ciclosporin, 4 hours after the ciclosporin dose, and consistently either with or without food (see section 5.2).
 Optimally, adjustments in Rapamune dosage should be based on more than a single trough level obtained > 5 days after a previous dosing change.
@@ -83,7 +83,3 @@ Adjustments to the targeted range should be made according to the assay being ut
 [Rapamune 2 mg coated tablets.]
 
 The recommended ranges 24-hour trough concentration for sirolimus are based on chromatographic methods.
-
-[Rapamune 5 mg coated tablets.]
-
-(all sentences already above)

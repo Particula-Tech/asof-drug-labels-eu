@@ -30,6 +30,13 @@ In paediatric patients on dialysis (30% to 50% reduction in glomerular filtratio
 (287 ml/h/kg).
 There was a large variability for individuals within the age groups.
 
+Sirolimus concentrations were measured in concentration-controlled trials of paediatric renal-transplant patients who were also receiving ciclosporin and corticosteroids.
+The target for trough concentrations was 10-20 ng/mL.
+At steady state, 8 children aged 6-11 years received mean ± SD doses of 1.75 ± 0.71 mg/day (0.064 ± 0.018 mg/kg, 1.65 ± 0.43 mg/m2) while 14 adolescents aged 12-18 years received mean ± SD doses of 2.79 ± 1.25 mg/day (0.053 ± 0.0150 mg/kg, 1.86 ± 0.61 mg/m2).
+The younger children had a higher weight-normalized Cl/F (214 mL/h/kg) compared with the adolescents (136 mL/h/kg).
+These data indicate that younger children might require higher bodyweight-adjusted doses than adolescents and adults to achieve similar target concentrations.
+However, the development of such special dosing recommendations for children requires more data to be definitely confirmed.
+
 In mild and moderate hepatically impaired patients (Child-Pugh classification A or B), mean values for sirolimus AUC and t1/2 were increased 61% and 43%, respectively, and CL/F was decreased 33% compared to normal healthy subjects.
 In severe hepatically impaired patients (Child-Pugh classification C), mean values for sirolimus AUC and t1/2 were increased 210% and 170% respectively, and CL/F was decreased by 67% compared to normal healthy subjects.
 The longer half-lives observed in hepatically impaired patients delay reaching steady state.
@@ -72,8 +79,4 @@ Therefore, the sirolimus dose was approximately 4-fold higher to account for bot
 
 [Rapamune 2 mg coated tablets.]
 
-In severe hepatically impaired patients (Child-Pugh classification C), mean values for sirolimus AUC and t1/2 were increased 210% and 170% respectively, and CL/F was decreased by 67% compared to normal healthy subjects.The longer half-lives observed in hepatically impaired patients delay reaching steady state.
-
-[Rapamune 5 mg coated tablets.]
-
-The corresponding results for the oral solution in the same clinical trial were Cmin,ss 5.40 ± 2.50 ng/ml, Cmax,ss 14.4 ±5.3 ng/ml, tmax,ss 2.12 ± 0.84 h, AUCτ,ss 194 ±78 ng•h/ml, CL/F/W 173 ± 50 ml/h/kg.
+(all sentences already above)

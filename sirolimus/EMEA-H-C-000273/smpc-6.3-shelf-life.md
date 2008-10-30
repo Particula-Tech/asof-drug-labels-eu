@@ -15,7 +15,3 @@ After dilution, (see section 6.6) the preparation should be used immediately.
 [Rapamune 2 mg coated tablets.]
 
 23 months.
-
-[Rapamune 5 mg coated tablets.]
-
-(all sentences already above)

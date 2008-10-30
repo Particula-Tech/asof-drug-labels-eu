@@ -11,7 +11,3 @@ White coloured, triangular-shaped coated tablet marked “RAPAMUNE 1 mg” on on
 [Rapamune 2 mg coated tablets.]
 
 Yellow to beige coloured, triangular-shaped coated tablet marked “RAPAMUNE 2 mg” on one side.
-
-[Rapamune 5 mg coated tablets.]
-
-Tan coloured triangular-shaped coated tablet marked “RAPAMUNE 5 mg” on one side.

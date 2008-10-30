@@ -15,8 +15,4 @@ No special requirements.
 
 [Rapamune 2 mg coated tablets.]
 
-Any unused product or waste material whould be disposed of in accordance with local requirements.
-
-[Rapamune 5 mg coated tablets.]
-
-Any unused product or waste material should be disposed of in accrodance with local requirements.
+Any unused product or waste material would be disposed of in accordance with local requirements.

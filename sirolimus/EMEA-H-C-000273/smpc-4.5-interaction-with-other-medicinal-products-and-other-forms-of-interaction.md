@@ -13,10 +13,10 @@ The effect of CsA was also reflected by increases in sirolimus Cmax and tmax.
 When given 2 hours before CsA administration, sirolimus Cmax and AUC were not affected.
 Single-dose sirolimus did not affect the pharmacokinetics of ciclosporin (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart.
 It is recommended that Rapamune be administered 4 hours after ciclosporin (microemulsion).
-
 Rifampicin (CYP3A4 inducer): Administration of multiple doses of rifampicin decreased sirolimus whole blood concentrations following a single 10 mg dose of Rapamune oral solution.
 Rifampicin increased the clearance of sirolimus by approximately 5.5-fold and decreased AUC and Cmax by approximately 82% and 71%, respectively.
 Co-administration of sirolimus and rifampicin is not recommended (see section 4.4).
+
 Ketoconazole (CYP3A4 inhibitor): Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.4-fold, 1.4-fold, and 10.9-fold, respectively.
 Co-administration of sirolimus and ketoconazole is not recommended (see section 4.4).
 
@@ -50,8 +50,8 @@ Although sirolimus inhibits human liver microsomal cytochrome P450 CYP2C9, CYP2C
 Inhibitors of P-gp may decrease the efflux of sirolimus from intestinal cells and increase sirolimus levels.
 
 Grapefruit juice affects CYP3A4 mediated metabolism and should therefore be avoided.
-Pharmacokinetic interactions may be observed with gastrointestinal prokinetic agents such as cisapride and metoclopramide.
 
+Pharmacokinetic interactions may be observed with gastrointestinal prokinetic agents such as cisapride and metoclopramide.
 No clinically significant pharmacokinetic interaction was observed between sirolimus and any of the following substances: acyclovir, atorvastatin, digoxin, glibenclamide, methylprednisolone, nifedipine, prednisolone, and trimethoprim/sulphamethoxazole.
 
 [Rapamune 1 mg coated tablets.]
@@ -67,7 +67,3 @@ Inducers of CYP3A4 may increase the metabolism of sirolimus and decrease sirolim
 [Rapamune 2 mg coated tablets.]
 
 Moderate and weak inhibitorsof CYP3A4 may decrease the metabolism of sirolimus and increase sirolimus blood levels (e.g. calcium channel blockers: nicardipine; antifungal agents: clotrimazole, fluconazole; antibiotics: troleandomycin; other substances: bromocriptine, cimetidine, danazol, protease inhibitors).
-
-[Rapamune 5 mg coated tablets.]
-
-(all sentences already above)
