@@ -13,7 +13,7 @@ Given as single agent, the recommended starting dose for Xeloda in the adjuvant 
 Adjuvant treatment in patients with stage III colon cancer is recommended for a total of 6 months.
 Combination therapy
 Colorectal and gastric cancer
-In combination treatment, the starting dose of Xeloda should be reduced to 800 – 1000 mg/m2 when administered twice daily for 14 days followed by a 7-day rest period, or to 625 mg/m2 twice daily when administered continuously (see section 5.1).
+In combination treatment, the recommended starting dose of Xeloda should be reduced to 800 – 1000 mg/m2 when administered twice daily for 14 days followed by a 7-day rest period, or to 625 mg/m2 twice daily when administered continuously (see section 5.1).
 The inclusion of biological agents in a combination regimen has no effect on the starting dose of Xeloda.
 Premedication to maintain adequate hydration and anti-emesis according to the cisplatin summary of product characteristics should be started prior to cisplatin administration for patients receiving the Xeloda plus cisplatin combination.
 
@@ -64,7 +64,6 @@ For those toxicities considered by the treating physician to be unlikely to beco
 Patients taking Xeloda should be informed of the need to interrupt treatment immediately if moderate or severe toxicity occurs.
 Doses of Xeloda omitted for toxicity are not replaced.
 The following are the recommended dose modifications for toxicity:
-
 Table 3 Xeloda Dose Reduction Schedule (3-weekly Cycle or Continuous Treatment)
 
 | Toxicity grades* | Dose changes within a treatment cycle | Dose adjustment for next cycle/dose (% of starting dose) |
@@ -86,7 +85,7 @@ Table 3 Xeloda Dose Reduction Schedule (3-weekly Cycle or Continuous Treatment)
 *According to the National Cancer Institute of Canada Clinical Trial Group (NCIC CTG) Common Toxicity Criteria (version 1) or the Common Terminology Criteria for Adverse Events (CTCAE) of the Cancer Therapy Evaluation Program, US National Cancer Institute, version 3.0.
 For hand-foot syndrome and hyperbilirubinemia, see section 4.4.
 
-Haematology: Patients with baseline neutrophil counts of <1.5 x 109/L and/or thrombocyte counts of <100 x 109/L should not be treated with the Xeloda.
+Haematology: Patients with baseline neutrophil counts of <1.5 x 109/L and/or thrombocyte counts of <100 x 109/L should not be treated with Xeloda.
 If unscheduled laboratory assessments during a treatment cycle show that the neutrophil count drops below 1.0 x 109/L or that the platelet count drops below 75 x 109/L, treatment with Xeloda should be interrupted.
 
 Dose modifications for toxicity when Xeloda is used as a 3 weekly cycle in combination with other agents:
@@ -99,7 +98,6 @@ During a treatment cycle for those toxicities considered by the treating physici
 If the other agent(s) have to be discontinued permanently, Xeloda treatment can be resumed when the requirements for restarting Xeloda are met.
 
 This advice is applicable to all indications and to all special populations.
-
 Dose modifications for toxicity when Xeloda is used continuously in combination with other agents: Dose modifications for toxicity when Xeloda is used continuously in combination with other agents should be made according to Table 3 above for Xeloda and according to the appropriate summary of product characteristics for the other agent(s).
 
 Posology adjustments for special populations:
@@ -125,9 +123,12 @@ When Xeloda was used in combination with other agents, elderly patients (≥65 y
 Careful monitoring of patients ≥60 years of age is advisable.
 
 - In combination with docetaxel: an increased incidence of grade 3 or 4 treatment-related adverse reactions and treatment-related serious adverse reactions were observed in patients 60 years of age or more (see section 5.1).
-  For patients 60 years of age or more treated with the combination of Xeloda plus docetaxel, a starting dose reduction of Xeloda to 75% (950 mg/m2 twice daily) is recommended.
-  If no toxicity is observed in patients ≥60 years of age treated with a reduced Xeloda starting dose in combination with docetaxel, the dose of Xeloda may be cautiously escalated to 1250 mg/m2 twice daily.
-- In combination with irinotecan: for patients 65 years of age or more treated with the combination of Xeloda with irinotecan, a starting dose reduction of Xeloda to 800 mg/m2 twice daily is recommended.
+  For patients 60 years of age or more , a starting dose reduction of Xeloda to 75% (950 mg/m2 twice daily) is recommended.
+  If no toxicity is observed in patients
+
+≥60 years of age treated with a reduced Xeloda starting dose in combination with docetaxel, the dose of Xeloda may be cautiously escalated to 1250 mg/m2 twice daily.
+
+- In combination with irinotecan: for patients 65 years of age or more, a starting dose reduction of Xeloda to 800 mg/m2 twice daily is recommended.
 
 [Xeloda 500 mg film-coated tablets.]
 
@@ -139,3 +140,5 @@ Dose modifications for toxicity when Xeloda is used continuously in combination 
 
 In patients with moderate renal impairment at baseline, a dose reduction to 75% for a starting dose of 1250mg/m2 is recommended.
 In patients with moderate renal impairment at baseline, no dose reduction is required for a starting dose of 1000mg/m2.
+
+  For patients 60 years of age or more, a starting dose reduction of Xeloda to 75% (950 mg/m2 twice daily) is recommended.

@@ -4,7 +4,6 @@ Dose limiting toxicities include diarrhoea, abdominal pain, nausea, stomatitis a
 Most adverse reactions are reversible and do not require permanent discontinuation of therapy, although doses may need to be withheld or reduced.
 
 Diarrhoea.
-Xeloda can induce the occurrence of diarrhoea, which has been observed in 50% of patients.
 Patients with severe diarrhoea should be carefully monitored and given fluid and electrolyte replacement if they become dehydrated.
 Standard antidiarrhoeal treatments (e.g. loperamide) may be used.
 NCIC CTC grade 2 diarrhoea is defined as an increase of 4 to 6 stools/day or nocturnal stools, grade 3 diarrhoea as an increase of 7 to 9 stools/day or incontinence and malabsorption.
@@ -41,7 +40,6 @@ Caution must be exercised in patients with central or peripheral nervous system 
 
 Diabetes mellitus or electrolyte disturbances.
 Caution must be exercised in patients with diabetes mellitus or electrolyte disturbances, as these may be aggravated during Xeloda treatment.
-
 Coumarin-derivative anticoagulation.
 In a drug interaction study with single-dose warfarin administration, there was a significant increase in the mean AUC (+57%) of S-warfarin.
 These results suggest an interaction, probably due to an inhibition of the cytochrome P450 2C9 isoenzyme system by capecitabine.
@@ -52,10 +50,10 @@ In the absence of safety and efficacy data in patients with hepatic impairment, 
 Administration of Xeloda should be interrupted if treatment-related elevations in bilirubin of >3.0 x ULN or treatment-related elevations in hepatic aminotransferases (ALT, AST) of >2.5 x ULN occur.
 Treatment with Xeloda monotherapy may be resumed when bilirubin decreases to ≤3.0 x ULN or hepatic aminotransferases decrease to
 ≤ 2.5 x ULN.
-For combination treatment with Xeloda and docetaxel, see also section 4.2.
 
 Renal impairment.
 The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 ml/min) is increased compared to the overall population (see section 4.2 and 4.3).
+
 As this medicinal product contains anhydrous lactose as an excipient, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 [Xeloda 500 mg film-coated tablets.]
