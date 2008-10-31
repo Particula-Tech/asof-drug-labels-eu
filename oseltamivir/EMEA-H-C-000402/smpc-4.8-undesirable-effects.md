@@ -63,10 +63,13 @@ Immune system disorder
 Frequency not known: hypersensitivity reactions, including anaphylactic/anaphylactoid reactions.
 
 Psychiatric disorders and nervous system disorders
-Frequency not known: convulsions and psychiatric events such as depressed level of consciousness, abnormal behavior, hallucinations and delirium.
-In rare cases, the delirium resulted in accidental injury.
-The symptoms were mainly reported in children and adolescents.
-Convulsions and psychiatric symptoms have also been reported in patients with influenza not taking Tamiflu.
+Frequency not known: influenza can be associated with a variety of neurologic and behavioural symptoms which can include events such as hallucinations, delirium, and abnormal behaviour, in some cases resulting in fatal outcomes.
+These events may occur in the setting of encephalitis or encephalopathy but can occur without obvious severe disease.
+
+In patients with influenza who were receiving Tamiflu, there have been postmarketing reports of convulsions and delirium (including symptoms such as altered level of consciousness, confusion, abnormal behaviour, delusions, hallucinations, agitation, anxiety, nightmares), in a very few cases resulting in accidental injury or fatal outcomes.
+These events were reported primarily among pediatric and adolescent patients and often had an abrupt onset and rapid resolution.
+The contribution of Tamiflu to those events is unknown.
+Such neuropsychiatric events have also been reported in patients with influenza who were not taking Tamiflu.
 
 Eye disorders
 Frequency not known: visual disturbance.
