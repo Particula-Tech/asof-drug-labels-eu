@@ -20,6 +20,7 @@ Viral escape from maraviroc can occur via 2 routes: the selection of virus which
 In vitro:
 HIV-1 variants with reduced susceptibility to maraviroc have been selected in vitro, following serial passage of two CCR5-tropic viruses (0 laboratory strains, 2 clinical isolates).
 The maraviroc-resistant viruses remained CCR5-tropic and there was no conversion from a CCR5-tropic virus to a CXCR4-using virus.
+
 Phenotypic resistance: concentration response curves for the maraviroc-resistant viruses were characterized phenotypically by curves that did not reach 100% inhibition in assays using serial dilutions of maraviroc.
 Traditional IC50/IC90 fold-change was not a useful parameter to measure phenotypic resistance, as those values were sometimes unchanged despite significantly reduced sensitivity.
 
@@ -51,12 +52,13 @@ At time of failure with CXCR4-using virus, the resistance pattern to other antir
 Hence, in the selection of a treatment regimen, it should be assumed that viruses forming part of the previously undetected CXCR4 -using population (i.e. minor viral population) harbours the same resistance pattern as the CCR5-tropic population.
 
 Failure with CCR5-tropic virus:
-Phenotypic resistance: in patients with CCR5-tropic virus at time of treatment failure with CELSENTRI, 15 out of 36 patients had virus with reduced sensitivity to maraviroc.
-In the remaining 21 patients, there was no evidence of virus with reduced sensitivity as identified by exploratory virology analyses on a representative group.
-A clinically-validated cut-off value for reduced virological response has not yet been established.
-Therefore, continued use of maraviroc after treatment failure can not be generally recommended regardless of the viral tropism seen.
-Genotypic resistance: the resistance profile of virus from treatment-experienced subjects has not yet been fully characterized.
-Specific mutations associated with reduced susceptibility to maraviroc have been identified in viruses from 5 patients but for each patient there were a unique pattern of mutations.
+Phenotypic resistance: in patients with CCR5-tropic virus at time of treatment failure with CELSENTRI, 22 out of 58 patients had virus with reduced sensitivity to maraviroc.
+In the remaining 36 patients, there was no evidence of virus with reduced sensitivity as identified by exploratory virology analyses on a representative group.
+The latter group had markers correlating to low compliance (low and variable drug levels and often a calculated high residual sensitivity score of the OBT).
+In patients failing therapy with R5-virus only, maraviroc might be considered still active if the maximal percentage inhibition (MPI) value is ≥95% (Phenosense Entry assay).
+Residual activity in vivo for viruses with MPI-values <95% has not been determined.
+
+Genotypic resistance: Key mutations (V3-loop) can presently not be suggested due to the high variability of the V3-sequence, and the low number of samples analysed.
 
 Clinical Results
 
@@ -87,6 +89,7 @@ Limited numbers of patients from ethnicities other than Caucasian were included 
 
 The mean increase in CD4+ cell count from baseline in patients who failed with a change in tropism result to dual/mixed tropic or CXCR4, in the CELSENTRI 300 mg twice daily + OBT
 (+56 cells/mm3) group was greater than that seen in patients failing OBT alone (+13.8 cells/mm3) regardless of tropism.
+
 Table 7.
 Outcomes of randomised treatment at week 48 (pooled studies MOTIVATE 1 and MOTIVATE 2)
 
