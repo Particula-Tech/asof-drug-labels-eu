@@ -27,6 +27,10 @@ Each pen contains 3 ml of solution for injection, equivalent to 300 IU insulin.
 
 (all sentences already above)
 
+[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
+
+(all sentences already above)
+
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
 Each vial contains 5 ml of suspension for injection, equivalent to 500 IU insulin.
@@ -45,7 +49,11 @@ Each cartridge contains 3 ml of suspension for injection, equivalent to 300 IU i
 
 Each pen contains 3 ml of suspension for injection, equivalent to 300 IU insulin.
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
+
+(all sentences already above)
+
+[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
 
 (all sentences already above)
 
@@ -65,7 +73,11 @@ Insuman Comb 15 is a biphasic isophane insulin suspension consisting of 15% diss
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
+
+(all sentences already above)
+
+[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
 
 (all sentences already above)
 
@@ -85,7 +97,11 @@ Insuman Comb 25 is a biphasic isophane insulin suspension consisting of 25% diss
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
+
+(all sentences already above)
+
+[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
 
 (all sentences already above)
 
@@ -105,9 +121,13 @@ Each ml contains 100 IU insulin human (equivalent to 3,5 mg).
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 29)]
 
 Each cartridge contains 3 ml suspension for injection, equivalent to 300 IU insulin.
+
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 30)]
+
+(all sentences already above)
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 

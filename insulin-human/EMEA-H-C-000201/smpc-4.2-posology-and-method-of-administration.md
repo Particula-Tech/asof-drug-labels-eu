@@ -80,6 +80,13 @@ Before using OptiSet, the Instructions for Use included in the Package Leaflet m
 
 Insuman Rapid in cartridges for OptiClik has been developed for use with OptiClik only.
 
+[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
+
+SoloStar delivers insulin in doses from 1 to 80 units in steps of 1 unit.
+Each pen contains multiple doses.
+
+Before using SoloStar, the Instructions for Use included in the Package Leaflet must be read carefully.
+
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
 Insuman Basal is injected subcutaneously 45 to 60 minutes before a meal.
@@ -105,9 +112,13 @@ Insuman Basal in cartridges has been developed for use in the OptiPen series.
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
 
 Insuman Basal in cartridges for OptiClik has been developed for use with OptiClik only.
+
+[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
+
+(all sentences already above)
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
@@ -132,9 +143,13 @@ Insuman Comb 15 in cartridges has been developed for use in the OptiPen series.
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
 
 Insuman Comb 15 in cartridges for OptiClik has been developed for use with OptiClik only.
+
+[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
+
+(all sentences already above)
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
@@ -159,9 +174,13 @@ Insuman Comb 25 in cartridges has been developed for use in the OptiPen series.
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
 
 Insuman Comb 25 in cartridges for OptiClik has been developed for use with OptiClik only.
+
+[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
+
+(all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
@@ -186,9 +205,13 @@ Insuman Comb 50 in cartridges has been developed for use in the OptiPen series.
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 29)]
 
 Insuman Comb 50 in cartridges for OptiClik has been developed for use with OptiClik only.
+
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 30)]
+
+(all sentences already above)
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 

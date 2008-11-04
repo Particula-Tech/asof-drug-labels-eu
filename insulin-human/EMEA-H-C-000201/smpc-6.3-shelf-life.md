@@ -22,9 +22,13 @@ The pen cap must be put back on the pen after each injection in order to protect
 
 Shelf life after first use of the pen:
 The pen in-use or carried as a spare may be stored for a maximum of 4 weeks not above 25°C away from direct heat or direct light.
-Pens in-usemust not be stored in the refrigerator.
+Pens in-use must not be stored in the refrigerator.
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+
+(all sentences already above)
+
+[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
 
 (all sentences already above)
 
@@ -42,9 +46,13 @@ Pens in-usemust not be stored in the refrigerator.
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
 
-Pens in-use must not be stored in the refrigerator.
+(all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
+
+(all sentences already above)
+
+[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
 
 (all sentences already above)
 
@@ -64,7 +72,11 @@ Pens in-use must not be stored in the refrigerator.
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
+
+(all sentences already above)
+
+[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
 
 (all sentences already above)
 
@@ -82,11 +94,15 @@ Pens in-use must not be stored in the refrigerator.
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
 
-The pen in-use or carried as a spare may be stored for a maximum of 4 weeks not above 25°C away from direct heat or direct ligh.
+(all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
 
 (all sentences already above)
+
+[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
+
+The pen in-use or carried as a spare may be stored for a maximum of 4 weeks not above 25°C away from direct heat or direct ligh.
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
@@ -94,7 +110,7 @@ The pen in-use or carried as a spare may be stored for a maximum of 4 weeks not 
 
 [Insuman Comb 50 40 IU/ml suspension for injection in a vial]
 
-The product may be stored for a maximum of 4 weeks not above 25°C away direct heat or direct light.
+(all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
 
@@ -104,7 +120,11 @@ The product may be stored for a maximum of 4 weeks not above 25°C away direct h
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 29)]
+
+(all sentences already above)
+
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 30)]
 
 (all sentences already above)
 

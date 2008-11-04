@@ -31,6 +31,10 @@ In-use pens:
 
 (all sentences already above)
 
+[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
+
+(all sentences already above)
+
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
 Do not put Insuman Basal next to the freezer compartment or a freezer pack.
@@ -47,7 +51,11 @@ Do not put Insuman Basal next to the freezer compartment or a freezer pack.
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
+
+(all sentences already above)
+
+[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
 
 (all sentences already above)
 
@@ -67,7 +75,11 @@ Do not put Insuman Comb 15 next to the freezer compartment or a freezer pack.
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
+
+(all sentences already above)
+
+[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
 
 (all sentences already above)
 
@@ -87,7 +99,11 @@ Do not put Insuman Comb 25 next to the freezer compartment or a freezer pack.
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
+
+(all sentences already above)
+
+[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
 
 (all sentences already above)
 
@@ -107,7 +123,11 @@ Do not put Insuman Comb 50 next to the freezer compartment or a freezer pack.
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 29)]
+
+(all sentences already above)
+
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 30)]
 
 (all sentences already above)
 

@@ -100,6 +100,7 @@ Check the Insulin
 After removing the pen cap, the label on the pen and the insulin reservoir should be checked to make sure it contains the correct insulin.
 The appearance of insulin should also be checked: the insulin solution must be clear, colourless, with no solid particles visible, and must have a water-like consistency.
 Do not use this OptiSet if insulin is cloudy, coloured or has particles.
+
 Step 2.
 Attach the needle
 
@@ -121,7 +122,7 @@ Never turn the dosage selector after injection button has been pulled out.
 The outer and inner needle caps should be removed.
 Keep the outer cap to remove the used needle.
 
-While holding the pen with the needle pointing upwards, the insulin reservoir should be tapped with the finger so that any air bubbles rise up towards the needle
+While holding the pen with the needle pointing upwards, the insulin reservoir should be tapped with the finger so that any air bubbles rise up towards the needle.
 
 Then the injection button should be pressed all the way in.
 
@@ -130,7 +131,6 @@ If no insulin appears at the needle tip, step 3 should be repeated two more time
 If still no insulin comes out, change the needle, as it might be blocked and try again.
 If no insulin comes out after changing the needle, the OptiSet may be damaged.
 Do not use this OptiSet.
-
 Step 4.
 Select the dose
 
@@ -158,13 +158,14 @@ The injection button allows checking the actual loaded dose.
 The injection button must be held out under tension during this check.
 The last thick line visible on the injection button shows the amount of insulin loaded.
 When the injection button is held out only the top part of this thick line can be seen.
+
 Step 6.
 Inject the dose
 
 The patient should be informed on the injection technique by his health care professional.
 The needle should be inserted into the skin.
 
-The injection button should be pressed all the way in completely.
+The injection button should be pressed all the way in.
 A clicking sound can be heard, which will stop when the injection button has been pressed in completely.
 Then the injection button should be held down 10 seconds before withdrawing the needle from the skin.
 This ensures that the full dose of insulin has been delivered.
@@ -173,7 +174,7 @@ Step 7.
 Remove and discard the needle
 
 The needle should be removed after each injection and discarded.
-This will help prevent contamination and/or infection as well as entry of air into the insulin reservoir and leakage of insulin, which can cause inaccurate dosing.
+This helps prevent contamination and/or infection as well as entry of air into the insulin reservoir and leakage of insulin, which can cause inaccurate dosing.
 Needles must not be reused.
 
 The pen cap should be replaced on the pen.
@@ -186,9 +187,79 @@ If OptiClik is damaged or not working properly (due to mechanical defects) it ha
 
 Insuman Rapid cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
 
+[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
+
+The Instructions for Use included in the Package Leaflet must be read carefully before using SoloStar.
+
+Important information for use of SoloStar:
+
+- Before each use, a new needle must always be carefully attached and a safety test must be performed.
+  Only use needles that are compatible for use with SoloStar.
+- Special caution must be taken to avoid accidental needle injury and transmission of infection.
+- Never use SoloStar if it is damaged or if you are not sure that it is working properly.
+- Always have a spare SoloStar in case your SoloStar is lost or damaged.
+
+Please check section 6.4 for instructions on how to store SoloStar.
+
+If SoloStar is in cool storage, it should be taken out 1 to 2 hours before injection to allow it to warm up.
+
+The used SoloStar must be discarded as required by your local authorities.
+
+SoloStar has to be protected from dust and dirt.
+
+You can clean the outside of your SoloStar by wiping it with a damp cloth.
+
+SoloStar is designed to work accurately and safely.
+Avoid situations where SoloStar might be damaged.
+If you are concerned that your SoloStar may be damaged, use a new one.
+
+The label on the pen should be checked to make sure it contains the correct insulin.
+Insuman SoloStar is white with a colour on the injection button.
+The injection button colour will vary based on the formulation of Insuman insulin used.
+
+After removing the pen cap, the appearance of the insulin should also be checked:
+
+- The insulin solution (Insuman Rapid) must be clear, colourless, with no solid particles visible, and must have a water-like consistency.
+  Do not use this SoloStar if insulin is cloudy, coloured or has particles.
+- The insulin suspensions (Insuman Basal or Insuman mixtures) should be mixed by turning SoloStar up and down at least 10 times to resuspend the insulin.
+  The pen should be turned gently to avoid foaming in the cartridge.
+  After mixing, the insulin suspensions must have an evenly milky-white appearance.
+
+Only needles that are compatible for use with SoloStar should be used.
+
+A new sterile needle will be always used for each injection.
+After removing the cap, the needle should be carefully attached straight onto the pen.
+
+Prior to each injection, a safety test has to be performed to ensure that pen and needle work properly and to remove air bubbles.
+
+Select a dose of 2 units.
+
+While holding the pen with the needle pointing upwards, the insulin reservoir should be tapped gently with the finger so that any air bubbles rise up towards the needle.
+
+Then the injection button should be pressed in completely.
+
+If no insulin appears at the needle tip, step 3 should be repeated until insulin appears at the needle tip.
+
+The dose can be set in steps of 1 unit, from a minimum of 1 unit to a maximum of 80 units.
+If you need a dose greater than 80 units, you should give it as two or more injections.
+
+The dose window must show “0” following the safety test.
+The dose can then be selected.
+
+The injection button should be pressed in completely.
+Then the injection button should be held down 10 seconds before withdrawing the needle.
+This ensures that the full dose of insulin has been injected.
+
+The needle should always be removed after each injection and discarded.
+This helps prevent contamination and/or infection, entry of air into the insulin reservoir and leakage of insulin.
+Needles mut not be reused.
+
+Special caution must be taken when removing and disposing of the needle.
+Follow recommended safety measures for removal and disposal of needles (e.g. a one handed capping technique) in order to reduce the risk of accidental needle injury and transmission of infectious diseases.
+
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
-Immediately before withdrawal from the vial into the injection syringe, the insulin must be resuspended.
+Immediately before withdrawal from the vial into the injection syringe, the insulin must be re-suspended.
 This is best done by rolling the vial at an oblique angle between the palms of the hands.
 Do not shake the vial vigorously as this may lead to changes in the suspension (giving the vial a frosted appearance; see below) and cause frothing.
 
@@ -224,8 +295,6 @@ These changes sometimes give the cartridge a frosted appearance.
 In such cases, a new cartridge yielding a uniform suspension must be used.
 It is also necessary to change to a new cartridge if the insulin requirement changes substantially.
 
-Mixing of insulin
-
 Insuman Basal cartridges are not designed to allow any other insulin to be mixed in the cartridge.
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
@@ -243,13 +312,13 @@ Check and mix the Insulin
 The insulin should be mixed by turning OptiSet slowly up and down at least 10 times.
 The appearance of the insulin should be checked: the insulin suspension must have an evenly milky white appearance.
 
-The injection button should be pressed all the way in.
-
-This helps prevent contamination and/or infection as well as entry of air into the insulin reservoir and leakage of insulin, which can cause inaccurate dosing.
-
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 10)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
 
 Insuman Basal cartridges for Opticlik are not designed to allow any other insulin to be mixed in the cartridge for Opticlik.
+
+[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
+
+(all sentences already above)
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
@@ -282,13 +351,13 @@ Before first use, Insuman Comb 15 must be kept at room temperature for 1 to 2 ho
 
 Insuman Comb 15 must not be mixed with any other insulin or with insulin analogues.
 
-The outer and inner needle caps should be removed.Keep the outer cap to remove the used needle.
-
-This helps prevent contamination and/or infection as well as entry of air into the insulin reservoir and leakage of insulin, which can cause inaccurate dosing, Needles must not be reused.
-
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 15)]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
 
 Insuman Comb 15 cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
+
+[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
+
+(all sentences already above)
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
@@ -317,11 +386,13 @@ Before first use, Insuman Comb 25 must be kept at room temperature for 1 to 2 ho
 
 Insuman Comb 25 must not be mixed with any other insulin or with insulin analogues.
 
-If no insulin appears at the needle tip, step 3 should be repeated until insulin appears at the needle tip.
-
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 20)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
 
 Insuman Comb 25 cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
+
+[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
+
+(all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
@@ -350,9 +421,13 @@ Before first use, Insuman Comb 50 must be kept at room temperature for 1 to 2 ho
 
 Insuman Comb 50 must not be mixed with any other insulin or with insulin analogues.
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 25)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 29)]
 
 Insuman Comb 50 cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
+
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 30)]
+
+(all sentences already above)
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
