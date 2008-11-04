@@ -104,7 +104,7 @@ Table 6: Dosing regimens in Phase II and Phase III studies
 | --- | --- | --- | --- |
 | II | VELCADE: Day 1,4,8,11, (rest Day 12-21) | 1.3 mg/m2 (IV bolus) | Q3 weeks x 8cycles (extension**) |
 | III | VELCADE* a) Days 1,4,8,11, (Rest Day 12-21) b) Days 1,8,15,22 | 1.3 mg/m2 (IV bolus) | a) Q3weeks x 8, then b) Q5 weeks x 3 |
-| III | DEXAMETHASONE a) Days 1–4, 9–12, 17–20 b) Days 1–4 | 40 mg (PO) | a) Q5 week x 4 b) Q4 week x 5 |
+| III | DEXAMETHASONE a) Days 1–4, 9–12, 17–20Days 1–4 | 40 mg (PO) | a) Q5 week x 4 b) Q4 week x 5 |
 | II | Add DEXAMETHASONE*** | 20 mg (PO) (Days 1,2,4,5,8,9, 11,12) | Q3 weeks |
 
 *a) is the initial treatment, a) and b) represent a full course of treatment
@@ -138,7 +138,7 @@ Table 8: Patient exposure to treatment with VELCADE during phase 2 and 3 studies
 |  | Phase II VELCADE | Phase III VELCADE | Phase III Dex |
 | --- | --- | --- | --- |
 | Received at least 1 dose | N= 202 | N=331 | N= 332 |
-| Completed 4 cycles a) all initial cycles (number) b) full course (number) c) extension * | 62% 27% (8 cycles ) NA N= 63 pts (median 7 cycles) or total median 14 cycles (range 7-32) | 69% 29 % (8 cycles) 9% (11 cycles) NA | 36 % (4 cycles) 5 % (9 cycles) NA |
+| Completed 4 cycles a) all initial cycles (number) b) full course (number) c) extension * | 27% (8 cycles) NA N= 63 pts (median 7 cycles) or total median 14 cycles (range 7-32) | 69% 29 % (8 cycles) 9% (11 cycles) NA | 36 % (4 cycles) 5 % (9 cycles) NA |
 
 *Patients could continue on treatment after completing 8 cycles, in case of benefit
 NA = not applicable
@@ -187,5 +187,5 @@ Eighteen percent of patients achieved, or had an improved response (MR (11%) or 
 | --- | --- | --- | --- |
 | II | VELCADE: Day 1,4,8,11, (rest Day 12-21) | 1.3 mg/m2 (IV bolus) | Q3 weeks x 8cycles (extension**) |
 | III | VELCADE* a) Days 1,4,8,11, (Rest Day 12-21) b) Days 1,8,15,22 | 1.3 mg/m2 (IV bolus) | a) Q3weeks x 8, then b) Q5 weeks x 3 |
-| III | DEXAMETHASONE c) Days 1–4, 9–12, 17–20 d) Days 1–4 | 40 mg (PO) | a) Q5 week x 4 b) Q4 week x 5 |
+| III | DEXAMETHASONE c) Days 1–4, 9–12, 17–20Days 1–4 | 40 mg (PO) | a) Q5 week x 4 b) Q4 week x 5 |
 | II | Add DEXAMETHASONE*** | 20 mg (PO) (Days 1,2,4,5,8,9, 11,12) | Q3 weeks |
