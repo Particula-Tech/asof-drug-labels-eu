@@ -1,23 +1,18 @@
 # 6.5 Nature and contents of container
 
-14 tablets
-28 tablets
-56 tablets
-98 tablets
+Aluminium/aluminium blisters (PA/Al/PVC/Al or PA/PA/Al/PVC/Al).
+One blister contains 7 tablets.
 
-Not all pack sizes may be marketed
+Pack sizes: Blister with 14, 28, 56, or 98 tablets.
 
-Polyamide/aluminium/PVC blisters
+Not all pack sizes may be marketed.
 
 [Micardis 40 mg tablets]
 
-30 tablets
-84 tablets
-90 tablets
+Aluminium/aluminium blisters (PA/Al/PVC/Al or PA/PA/Al/PVC/Al).One blister contains 7 or 10 tablets.
 
-28 x 1 tablets
-Polyamide/aluminium/PVC perforated unit dose blisters
+Pack sizes: Blister with 14, 28, 30, 56, 84, 90, or 98 tablets or perforated unit dose blisters with 28 x 1 tablets.
 
 [Micardis 80 mg tablets]
 
-(all sentences already above)
+One blister contains 7 or 10 tablets.

@@ -1,3 +1,3 @@
 # 4.1 Therapeutic indications
 
-Treatment of essential hypertension.
+Treatment of essential hypertension in adults.

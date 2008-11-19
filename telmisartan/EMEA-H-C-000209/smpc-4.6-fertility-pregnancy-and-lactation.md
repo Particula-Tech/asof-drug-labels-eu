@@ -3,7 +3,7 @@
 The use of angiotensin II receptor antagonists is not recommended during the first trimester of pregnancy (see section 4.4).
 The use of angiotensin II receptor antagonists is contraindicated during the second and third trimester of pregnancy (see sections 4.3 and 4.4).
 
-Pregnancy (see section 4.3)
+Pregnancy (see section 4.3 and 4.4):
 There are no adequate data from the use of Micardis in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 Epidemiological evidence regarding the risk of teratogenicity following exposure to ACE inhibitors during the first trimester of pregnancy has not been conclusive; however a small increase in risk cannot be excluded.
@@ -15,5 +15,5 @@ Angiotensin II receptor antagonist therapy exposure during the second and third 
 Should exposure to angiotensin II receptor antagonists have occurred from the second trimester of pregnancy, ultrasound check of renal function and skull is recommended.
 Infants whose mothers have taken angiotensin II receptor antagonists should be closely observed for hypotension (see also sections 4.3 and 4.4).
 
-Lactation (see section 4.3)
+Lactation (see section 4.3):
 Telmisartan is contraindicated during lactation since it is not known whether it is excreted in human milk.

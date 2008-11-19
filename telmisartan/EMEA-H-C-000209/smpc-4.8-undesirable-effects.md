@@ -1,58 +1,111 @@
 # 4.8 Undesirable effects
 
-The overall incidence of adverse events reported with telmisartan (41.4%) was usually comparable to placebo (43.9%) in placebo controlled trials.
+The overall incidence of adverse events reported with telmisartan (41.4 %) was usually comparable to placebo (43.9 %) in placebo controlled trials.
 The incidence of adverse events was not dose related and showed no correlation with gender, age or race of the patients.
 
 The adverse drug reactions listed below have been accumulated from all clinical trials including 5788 hypertensive patients treated with telmisartan.
 
-Adverse reactions have been ranked under headings of frequency using the following convention: very common (≥ 1/10); common (≥ 1/100, <1/10); uncommon (≥ 1/1,000, <1/100);
-rare (≥ 1/10,000, <1/1,000); very rare (< 1/10,000)
+Adverse reactions have been ranked under headings of frequency using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100);
+rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Infections and infestations:
-Common: Symptoms of infection (e.g. urinary tract infection including cystitis), upper respiratory tract infection including pharyngitis and sinusitis
+Infections and infestations
 
-Psychiatric disorders:
-Uncommon: Anxiety
+Rare: Upper respiratory tract infection including pharyngitis and sinusitis
+Not known: Urinary tract infection including cystitis
 
-Eye disorders:
-Uncommon: Visual disturbance
+Blood and the lymphatic system disorders
 
-Ear and labyrinth disorders:
+Rare: Anaemia, thrombocytopenia
+Not known: Eosinophilia
+
+Immune system disorders
+
+Not known: Hypersensitivity, anaphylactic reaction
+
+Metabolism and nutrition disorders
+
+Uncommon: Hyperkalaemia
+
+Psychiatric disorders
+
+Rare: Anxiety, depression
+
+Nervous system disorders
+
+Uncommon: Syncope, insomnia
+
+Eye disorders
+
+Rare: Abnormal vision
+
+Ear and labyrinth disorders
+
 Uncommon: Vertigo
 
-Gastrointestinal disorders:
+Cardiac disorders
 
-Common: Abdominal pain, diarrhoea, dyspepsia
+Rare: Tachycardia
+Not known: Bradycardia
 
-Uncommon: Dry mouth, flatulence
+Vascular disorders
 
-Rare: Stomach discomfort
+Uncommon: Hypotension
+Rare: Orthostatic hypotension
 
-Skin and subcutaneous tissue disorders:
+Respiratory, thoracic and mediastinal disorders
 
-Common: Eczema
+Uncommon: Dyspnoea
 
-Uncommon: Hyperhidrosis
+Gastrointestinal disorders
 
-Musculoskeletal and connective tissue disorders:
+Uncommon: Abdominal pain, diarrhoea, dry mouth, dyspepsia, flatulence
+Rare: Stomach upset, vomiting
 
-Common: Arthralgia, back pain (e.g.sciatica), muscle spasms or pain in extremity,
+Hepato-biliary disorders
 
-myalgia
-Uncommon: Tendonitis
+Rare: Hepatic function abnormal/liver disorder
 
-General disorders and administration site conditions:
+Skin and subcutaneous tissue disorders
 
-Common: Chest pain, influenza-like illness
+Uncommon: Hyperhidrosis, pruritus
+Rare: Erythema, angioedema, urticaria
+Not known: Drug eruption, toxic skin eruption, rash, eczema
 
-In addition, since the introduction of telmisartan in the market, cases of erythema, pruritus, syncope , insomnia, depression, vomiting, hypotension (including orthostatic hypotension), bradycardia, tachycardia, hepatic function abnormal, liver disorder, renal impairment including acute renal failure (see section 4.4), hyperkalaemia, dyspnoea, anaemia, eosinophilia, thrombocytopenia, asthenia and lack of efficacy have been reported.
-The frequency of these effects is unknown.
+Muscoloskeletal and connective tissue disorders
 
-As with other angiotensin II antagonists isolated cases of angioneurotic oedema, urticaria and other related events have been reported.
+Uncommon: Myalgia
+Rare: Arthralgia, back pain (e.g. sciatica), muscle cramps, pain in limb,
 
-Laboratory findings
-Infrequently, a haemoglobin decrease or a blood uric acid increase have been observed which occur more often during treatment with telmisartan than with placebo.
-Increase in creatinine or hepatic enzyme increase have been observed during treatment with telmisartan but these changes in laboratory findings occurred with a frequency similar to or lower than placebo.
-In addition, since the introduction of telmisartan in the market, cases with blood creatine phosphokinase increased (CPK) have been reported.
+weakness
+
+Not known: Tendonitis
+
+Renal and urinary disorders
+
+Uncommon: Renal impairment including acute renal failure
+
+General disorders and administration site conditions
+
+Uncommon: Chest pain
+Rare: Influenza-like illness
+Not known: Drug ineffective
+
+Investigations
+
+Rare: Blood uric acid increased, blood creatinine increased, hepatic
+
+enzyme increased, blood creatine phosphokinase increased
+
+Not known: Haemoglobin decreased
+
+[Micardis 40 mg tablets]
+
+Rare: Upper respiratory tract infection including pharyngitis and
+
+sinusitis ),
+
+[Micardis 80 mg tablets]
+
+sinusitis

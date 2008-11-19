@@ -1,3 +1,7 @@
 # 6.1 List of excipients
 
-Povidone (K25), meglumine, sodium hydroxide, sorbitol (E420), magnesium stearate
+Povidone (K25)
+Meglumine
+Sodium hydroxide
+Sorbitol (E420)
+Magnesium stearate.

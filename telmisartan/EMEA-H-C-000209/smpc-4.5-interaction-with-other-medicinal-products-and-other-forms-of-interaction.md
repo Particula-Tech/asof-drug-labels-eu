@@ -2,49 +2,59 @@
 
 Interaction studies have only been performed in adults.
 
-Medicinal products or therapeutic class of medicinal products that may provoke hyperkalaemia: salt substitutes containing potassium, potassium-sparing diuretics, ACE inhibitors, angiotensin II receptors antagonists, non steroidal anti-inflammatory drugs (including selective COX-2 inhibitors), heparin, immunosuppressor (cyclosporin or tacrolimus), trimethoprim.
+As with others medicinal products acting on the renin-angiotensin-aldosterone system, telmisartan may provoke hyperkalaemia (see section 4.4).
+The risk may increase in case of treatment combination with other medicinal products that may also provoke hyperkalaemia (salt substitutes containing potassium, potassium-sparing diuretics, ACE inhibitors, angiotensin II receptor antagonists, non steroidal anti-inflammatory medicinal products (NSAIDs, including selective COX-2 inhibitors), heparin, immunosuppressives (cyclosporin or tacrolimus), and trimethoprim).
 
 The occurrence of hyperkalaemia depends on associated risk factors.
 The risk is increased in case of the above-mentioned treatment combinations.
-The risk is particularly high in combination with potassium sparing-diuretics and when associated with salt substitutes containing potassium whereas combination with ACE inhibitors or NSAIDS, for example, is at lesser risk provided that precautions for use are strictly followed.
+The risk is particularly high in combination with potassium sparing-diuretics, and when combined with salt substitutes containing potassium.
+A combination with ACE inhibitors or NSAIDs, for example, presents a lesser risk provided that precautions for use are strictly followed.
 
 Concomitant use not recommended
 
 Potassium sparing diuretics or potassium supplements:
-AIIA attenuate diuretic induced potassium loss.
-Potassium sparing diuretics e.g. spirinolactone, eplerenone, triamterene, or amiloride, potassium supplements, or potassium-containing salt substitutes may lead to significant increase in serum potassium.
-If concomitant use is indicated because of documented hypokalaemia they should be used with caution and with frequent monitoring of serum potassium.
+Angiotensin II receptor antagonists such as telmisartan, attenuate diuretic induced potassium loss.
+Potassium sparing diuretics e.g. spirinolactone, eplerenone, triamterene, or amiloride, potassium supplements, or potassium-containing salt substitutes may lead to a significant increase in serum potassium.
+If concomitant use is indicated because of documented hypokalaemia, they should be used with caution and with frequent monitoring of serum potassium.
 
 Lithium:
-Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors and, rarely, with angiotensin II antagonists.
+Reversible increases in serum lithium concentrations and toxicity have been reported during concomitant administration of lithium with angiotensin converting enzyme inhibitors, and with angiotensin II receptor antagonists, including telmisartan.
 If use of the combination proves necessary, careful monitoring of serum lithium levels is recommended.
+
 Concomitant use requiring caution
 
 Non-steroidal anti-inflammatory medicinal products:
-NSAIDs (ie acetylsalicylic acid at anti-inflammatory dosage regimens, COX-2 inhibitors and non-selective NSAIDs) may reduce the antihypertensive effect of angiotensin II antagonists.
-In some patients with compromised renal function (eg dehydrated patients or elderly patients with compromised renal function) the co-administration of angiotensin II antagonists and agents that inhibit cyclo-oxygenase may result in further deterioration of renal function, including possible acute renal failure, which is usually reversible.
+NSAIDs (i.e. acetylsalicylic acid at anti-inflammatory dosage regimens, COX-2 inhibitors and non-selective NSAIDs) may reduce the antihypertensive effect of angiotensin II receptor antagonists.
+In some patients with compromised renal function (e.g. dehydrated patients or elderly patients with compromised renal function), the co-administration of angiotensin II receptor antagonists and agents that inhibit cyclo-oxygenase may result in further deterioration of renal function, including possible acute renal failure, which is usually reversible.
 Therefore, the combination should be administered with caution, especially in the elderly.
 Patients should be adequately hydrated and consideration should be given to monitoring of renal function after initiation of concomitant therapy and periodically thereafter.
 
+In one study the co-administration of telmisartan and ramipril led to an increase of up to 2.5 fold in the AUC0-24 and Cmax of ramipril and ramiprilat.
+The clinical relevance of this observation is not known.
+
 Diuretics (thiazide or loop diuretics):
-Prior treatment with high dose diuretics may result in volume depletion and in a risk of hypotension when initiating therapy with telmisartan.
+Prior treatment with high dose diuretics such as furosemide (loop diuretic) and hydrochlorothiazide (thiazide diuretic) may result in volume depletion, and in a risk of hypotension when initiating therapy with telmisartan.
 
-Concomitant use to be taken into account
+To be taken into account with concomitant use
 
-Other antihypertensive agents
+Other antihypertensive agents:
 The blood pressure lowering effect of telmisartan can be increased by concomitant use of other antihypertensive medicinal products.
 
-Based on their pharmacological properties it can be expected that the following drugs may potentiate the hypotensive effects of all antihypertensives including telmisartan: Baclofen, amifostine.
-Furthermore, orthostatic hypotension may be aggravated by alcohol, barbiturates, narcotics or antidepressants.
+Based on their pharmacological properties it can be expected that the following medicinal products may potentiate the hypotensive effects of all antihypertensives including telmisartan: Baclofen, amifostine.
+Furthermore, orthostatic hypotension may be aggravated by alcohol, barbiturates, narcotics, or antidepressants.
 
 Corticosteroïds (systemic route):
 Reduction of the antihypertensive effect.
 
 [Micardis 40 mg tablets]
 
-The risk is particularly high in combination with potassium sparing-diuretics and when associated with salt substitutes containing potassium whereas combination with ACE inhibitors or NSAIDS , for example, is at lesser risk provided that precautions for use are strictly followed.
+As with others drugs acting on the renin-angiotensin-aldosterone system, telmisartan may provoke hyperkalaemia (see section 4.4).
 
 If concomitant use is indicated because of documented hypokalemia they should be used with caution and with frequent monitoring of serum potassium.
+
+Prior treatment with high dose diuretics such as furosemide (loop diuretic) and hydrochlorothiazide (thiazide diuretic) may result in volume depletion and in a risk of hypotension when initiating therapy with telmisartan.
+
+Furthermore, orthostatic hypotension may be aggravated by alcohol, barbiturates, narcotics or antidepressants.
 
 [Micardis 80 mg tablets]
 
