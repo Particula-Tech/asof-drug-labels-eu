@@ -1,17 +1,21 @@
 # 4.8 Undesirable effects
 
 Clinical trial data
+
 Pivotal clinical trial data
+
 The safety profile from pivotal clinical trials at the recommended doses of nelarabine in adults
 (1,500 mg/m2) and children (650 mg/m2) is based on data from 103 adults and 84 paediatric patients respectively.
 The most frequently occurring adverse events were fatigue; gastrointestinal disorders; haematological disorders; respiratory disorders; nervous system disorders; and pyrexia.
 Neurotoxicity is the dose limiting toxicity associated with nelarabine therapy (see section 4.4).
+
 The following convention has been utilised for the classification of frequency: Very common (≥1/10), Common (≥1/100 to <1/10), Uncommon (≥1/1,000 to <1/100), Rare (≥1/10,000 to <1/1,000) and Very rare (<1/10,000), not known (cannot be estimated from the available data)
 
 | MedDRA Preferred Term(s) | Adults (1,500 mg/m2) N=103 (%) | Children (650 mg/m2) N=84 (%) |
 | --- | --- | --- |
 | Infections and infestations |  |  |
-| Infection (including but not limited to; sepsis, bacteraemia, pneumonia, fungal infection) | Very common: 40 (39) | Very common: 13 (15) |
+|  | Very common: 40 (39) | Very common: 13 (15) |
+| Infection (including but not limited to; sepsis, bacteraemia, pneumonia, fungal infection) |  |  |
 | There was a single additional report of biopsy confirmed progressive multifocal leukoencephalopathy in the adult population. There have been reports of sometimes fatal opportunistic infections in patients receiving nelarabine therapy. |  |  |
 | Neoplasms benign and malignant (including cysts and polyps) |  |  |
 | Tumour lysis syndrome (see also Data from compassionate use programme and non-pivotal studies) | Common: 1 (1) | N/A |
@@ -30,8 +34,7 @@ The following convention has been utilised for the classification of frequency: 
 | Psychiatric disorders |  |  |
 | Confusional state | Common: 8 (8) | Common: 2 (2) |
 | Nervous system disorders |  |  |
-|  | Common: 1 (1) | Common: 5 (6) |
-| Seizures (including convulsions, grand mal convulsions, status epilepticus) |  |  |
+| Seizures (including convulsions, grand mal convulsions, status epilepticus) | Common: 1 (1) | Common: 5 (6) |
 | Amnesia | Common: 3 (3) | N/A |
 | Somnolence | Very common: 24 (23) | Common: 6 (7) |
 | Peripheral neurological disorders (sensory and motor) | Very common: 22 (21) | Very common: 10 (12) |
@@ -82,7 +85,10 @@ The following convention has been utilised for the classification of frequency: 
 | Asthenia | Very common: 18 (17) | Common: 5 (6) |
 
 Data from NCI studies/compassionate use programme and phase I studies
+
 In addition to the adverse reactions seen in the pivotal clinical trials, there are also data from 875 patients from NCI studies/compassionate use programme (694 patients) and Phase I (181 patients) studies of nelarabine.
 The following additional adverse reactions were seen:
+
 Neoplasms benign and malignant (including cysts and polyps)
+
 Tumour lysis syndrome – 7 cases (see sections 4.2 and 4.4)

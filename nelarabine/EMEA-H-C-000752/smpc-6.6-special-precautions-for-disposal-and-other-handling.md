@@ -1,4 +1,4 @@
-# 6.6 Special precautions for disposal and other handling
+# 6.6 Special precautions for disposal
 
 The normal procedures for proper handling and disposal of anti-tumour medicinal products should be adopted, namely:
 
