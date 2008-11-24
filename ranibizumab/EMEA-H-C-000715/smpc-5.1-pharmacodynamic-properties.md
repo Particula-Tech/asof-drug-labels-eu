@@ -142,7 +142,7 @@ Sham (n=63)
 
 LUCENTIS 0.5 mg (n=61)
 
-Preliminary data from an open study (PROTECT), in which the safety of the same-day administration of verteporfin PDT and Lucentis 0.5 mg was evaluated, shows that the incidence of intraocular inflammation following the initial combination treatment was low (two of 32 patients, 6.3%).
+Data from an open label study (PROTECT) in 32 patients followed for 9 months in which the safety of same-day administration of verteporfin PDT and Lucentis 0.5 mg was evaluated showed that the incidence of intraocular inflammation following the initial treatment was 6.3% (2 of 32 patients).
 
 In both the MARINA and ANCHOR studies, the improvement in visual acuity seen with Lucentis 0.5 mg at 12 months translated into patient-reported benefits as measured on the three subscales of the National Eye Institute Visual Function Questionnaire (VFQ-25) which were pre-specified secondary efficacy endpoints (near activities, distance activities, and vision-specific dependency).
 In study MARINA, the differences versus sham treatment had further increased at 24 months (p<0.0001 for all three subscales).
