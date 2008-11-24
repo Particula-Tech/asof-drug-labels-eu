@@ -22,7 +22,6 @@ The frequencies of ADRs reported with MabThera alone or in combination with chem
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100).
 The ADRs identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under “unknown”.
-
 Table 1 ADRs reported in clinical trials or during postmarketing surveillance in patients with NHL disease treated with MabThera monotherapy/maintenance or in combination with chemotherapy
 
 | System Organ Class | Very Common | Common | Uncommon | Unknown |
@@ -131,6 +130,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 The most frequent adverse reactions considered due to receipt of 2x1000 mg MabThera in Phase II and III studies were acute infusion reactions.
 Infusion reactions occurred in 15 % patients following the first infusion of rituximab and 5 % in placebo patients.
 Infusion reactions decreased to 2 % following the second infusion in both rituximab and placebo groups.
+
 Table 2 Summary of Adverse Drug Reactions Occurring in Patients with Rheumatoid Arthritis receiving MabThera during Phase II and III Clinical Studies
 
 |  | Pooled Phase II Study Population |  | Phase III Study Population |  |
@@ -140,6 +140,7 @@ Table 2 Summary of Adverse Drug Reactions Occurring in Patients with Rheumatoid 
 | Gastrointestinal Disorders |  | dyspepsia |  | dyspepsia |
 | Infections and Infestations | any Infection | urinary tract infections | any infection, upper respiratory tract infection |  |
 | Metabolism and Nutritional Disorders |  |  |  | hypercholesterolemi a |
+|  | Very Common | Common | Very Common | Common |
 | Musculo skeletal disorders |  | arthralgia / musculoskeletal pain |  | arthralgia / musculoskeletal pain, osteoarthritis |
 | Nervous System disorders |  | migraine |  | paraesthesia |
 | † This table include all events with an incidence difference of ≥ 2 % for rituximab compared to placebo * Reactions occurring during or within 24 hours of infusion |  |  |  |  |
@@ -170,6 +171,9 @@ The rate of infection was approximately 0.9 per patient year in MabThera treated
 The infections consisted mostly of upper respiratory tract infections and urinary tract infections.
 The incidence of clinically significant infection, some of which were fatal, was 0.05 per patient year in MabThera treated patients.
 
+Cases of Progressive Multifocal Leukoencephalopathy with fatal outcome have been reported following use of MabThera for the treatment of autoimmune diseases.
+This includes Rheumatoid Arthritis and off-label autoimmune diseases, including Systemic Lupus Erythematosus (SLE) and Vasculitis.
+All the reported cases had multiple risk factors for PML, including either the underlying disease and or long-term immunosuppressive therapy or chemotherapy.
 Malignancies
 The clinical data, particularly the number of repeated courses, are too limited to assess the potential incidence of malignancies following exposure to rituximab, although present data do not seem to suggest any increased risk.
 Long-term safety evaluations are ongoing.
@@ -187,6 +191,7 @@ In placebo controlled studies, serious cardiac events were reported equally in M
 | Gastrointestinal Disorders |  | dyspepsia |  | dyspepsia |
 | Infections and Infestations | any Infection | urinary tract infections | any infection, upper respiratory tract infection |  |
 | Metabolism and Nutritional Disorders |  |  |  | hypercholesterolemi a |
+|  | Very Common | Common | Very Common | Common |
 | Musculo skeletal disorders |  | arthralgia / musculoskeletal pain |  | arthralgia / musculoskeletal pain, osteoarthritis |
 | Nervous System disorders |  | migraine |  | paraesthesia |
 | † This table include all events with an incidence difference of ≥ 2 % for rituximab compared to placebo * Reactions occurring during or within 24 hours of infusion |  |  |  |  |

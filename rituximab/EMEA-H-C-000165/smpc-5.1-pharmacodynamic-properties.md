@@ -20,6 +20,7 @@ In rheumatoid arthritis patients, immediate depletion of B cells in the peripher
 Peripheral blood B cell counts begin to increase from week 24 and evidence for repopulation is observed in the majority of patients by week 40, whether MabThera was administered as monotherapy or in combination with methotrexate.
 
 Clinical Experience in Non-Hodgkin’s lymphoma
+
 Follicular non-Hodgkin's lymphoma
 
 Monotherapy
@@ -90,7 +91,6 @@ MabThera maintenance treatment consisted of a single infusion of MabThera at 375
 
 The final efficacy analysis included all patients randomized to both parts of the study.
 After a median observation time of 31 months for patients randomised to the induction phase, R-CHOP significantly improved the outcome of patients with relapsed/refractory follicular NHL when compared to CHOP (see Table 4).
-
 Table 4 Induction phase: overview of efficacy results for CHOP vs R-CHOP (31 months median observation time)
 
 | CHOP | R-CHOP | p-value |
@@ -110,6 +110,7 @@ Using a cox regression analysis, the risk of experiencing progressive disease or
 Kaplan-Meier estimated progression-free rates at 12 months were 78 % in the MabThera maintenance group vs 57 % in the observation group.
 An analysis of overall survival confirmed the significant benefit of MabThera maintenance over observation (p=0.0039 log-rank test).
 MabThera maintenance treatment reduced the risk of death by 56 % (95 % CI; 22 %-75 %).
+
 Table 5 Maintenance phase: overview of efficacy results MabThera vs. observation (28 months median observation time)
 
 | Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
@@ -119,6 +120,10 @@ Table 5 Maintenance phase: overview of efficacy results MabThera vs. observation
 | Overall Survival | NR | NR | 0.0039 | 56 % |
 | Time to new lymphoma treatment | 20.1 | 38.8 | < 0.0001 | 50 % |
 | Disease-free survivala | 16.5 | 53.7 | 0.0003 | 67 % |
+
+| Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
+| --- | --- | --- | --- | --- |
+|  | Observation (N = 167) | MabThera (N=167) | Log-Rank p value |  |
 | Subgroup Analysis PFS CHOP R-CHOP CR PR | 11.6 22.1 14.3 14.3 | 37.5 51.9 52.8 37.8 | < 0.0001 0.0071 0.0008 < 0.0001 | 71 % 46 % 64 % 54 % |
 | OS CHOP R-CHOP | NR NR | NR NR | 0.0348 0.0482 | 55 % 56 % |
 

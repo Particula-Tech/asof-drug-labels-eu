@@ -1,5 +1,22 @@
 # 4.4 Special warnings and precautions for use
 
+Progressive Multifocal Leukoencephalopathy
+
+Use of MabThera maybe associated with an increased risk of Progressive Multifocal Leukoencephalopathy (PML).
+Patients must be monitored at regular intervals for any new or worsening neurological symptoms or signs that may be suggestive of PML.
+If PML is suspected, further dosing must be suspended until PML has been excluded.
+The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction, and if so, whether these symptoms are possibly suggestive of PML.
+Consultation with a Neurologist should be considered as clinically indicated.
+If any doubt exists, further evaluation, including MRI scan preferably with contrast, CSF testing for JC Viral DNA and repeat neurological assessments, should be considered.
+
+The physician should be particularly alert to symptoms suggestive of PML that the patient may not notice (e.g. cognitive, neurological or psychiatric symptoms).
+Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
+
+If a patient develops PML the dosing of MabThera must be permanently discontinued.
+
+Following reconstitution of the immune system in immunocompromised patients with PML, stabilisation or improved outcome has been seen.
+It remains unknown if early detection of PML and suspension of MabThera therapy may lead to similar stabilisation or improved outcome.
+
 Non-Hogkin’s lymphoma
 
 Patients with a high tumour burden or with a high number (≥25 x 109/l) of circulating malignant cells, who may be at higher risk of especially severe cytokine release syndrome, should only be treated with extreme caution and when other therapeutic alternatives have been exhausted.
@@ -42,8 +59,6 @@ Patients with a history of hepatitis B infection should be carefully monitored f
 
 Very rare cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported during post-marketing use of MabThera in NHL (see section 4.8).
 The majority of patients had received rituximab in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
-Physicians treating patients with non-Hodgkin’s lymphoma should consider PML in the differential diagnosis of patients reporting neurological symptoms and consultation with a Neurologist should be considered as clinically indicated.
-
 The safety of immunization with any vaccine, particularly live viral vaccines, following MabThera therapy has not been studied.
 The ability to generate a primary or anamnestic humoral response to any vaccine has also not been studied.
 
@@ -76,6 +91,8 @@ Physicians should exercise caution when considering the use of MabThera in patie
 Patients reporting signs and symptoms of infection following MabThera therapy should be promptly evaluated and treated appropriately.
 Before giving a subsequent course of MabThera treatment, patients should be re-evaluated for any potential risk for infections.
 
+Very rare cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported following use of MabThera for the treatment of rheumatoid arthritis and autoimmune diseases including Systemic Lupus Erythematosus (SLE) and Vasculitis.
+These cases involved patients with multiple risk factors for PML, including the underlying disease and long-term immunosuppressive therapy or chemotherapy.
 In patients with non-Hodgkin’s lymphoma receiving rituximab in combination with cytotoxic chemotherapy, very rare cases of hepatitis B reactivation have been reported (see non-Hodgkin’s lymphoma).
 
 Immunization
@@ -93,13 +110,3 @@ Patients should be closely observed for signs of infection if biologic agents an
 Malignancy
 Immunomodulatory drugs may increase the risk of malignancy.
 On the basis of limited experience with MabThera in rheumatoid arthritis patients (see section 4.8) a possible risk for the development of solid tumours cannot be excluded at this time, although present data do not seem to suggest any increased risk.
-
-Spontaneous reporting
-Cases of fatal Progressive Multifocal Leukoencephalopathy have been reported following off-label use of MabThera for the treatment of certain autoimmune diseases, including Systemic Lupus Erythematosus (SLE) and Vasculitis.
-The patients with autoimmune diseases had a history of prior or concurrent immunosuppressive therapy and were diagnosed with PML within 12 months of their last infusion of MabThera.
-No cases of PML have been reported in patients with rheumatoid arthritis.
-PML has also been reported in patients with autoimmune disease not treated with MabThera.
-The reported cases had multiple risk factors for PML, including the underlying disease and long-term immunosuppressive therapy.
-Physicians treating patients with autoimmune diseases should consider PML in the differential diagnosis of patients reporting neurological symptoms and consultation with a Neurologist should be considered as clinically indicated.
-
-The efficacy and safety of MabThera for the treatment of autoimmune diseases other than rheumatoid arthritis has not been established.
