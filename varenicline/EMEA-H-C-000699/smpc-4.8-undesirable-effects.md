@@ -97,3 +97,4 @@ Uncommon Blood pressure increased, electrocardiogram ST segment depression,
 electrocardiogram T wave amplitude decreased, heart rate increased, liver function test abnormal, platelet count decreased, weight increased, semen abnormal, C-reactive protein increased, blood calcium decreased
 
 Post-marketing cases of myocardial infarction, depression and suicidal ideation have been reported in patients taking varenicline (see section 4.4).
+There have also been reports of hypersensitivity reactions, such as angioedema and facial swelling.

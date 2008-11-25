@@ -23,13 +23,13 @@ Warfarin: Varenicline did not alter the pharmacokinetics of warfarin.
 Prothrombin time (INR) was not affected by varenicline.
 Smoking cessation itself may result in changes to warfarin pharmacokinetics (see section 4.4).
 
+Alcohol: There is limited clinical data on any potential interaction between alcohol and varenicline.
+
 Use with other therapies for smoking cessation:
 
 Bupropion: Varenicline did not alter the steady-state pharmacokinetics of bupropion.
 
 Nicotine replacement therapy (NRT): When varenicline and transdermal NRT were co-administered to smokers for 12 days, there was a statistically significant decrease in average systolic blood pressure (mean 2.6 mmHg) measured on the final day of the study.
 In this study, the incidence of nausea, headache, vomiting, dizziness, dyspepsia, and fatigue was greater for the combination than for NRT alone.
-
-Alcohol: There is limited clinical data on any potential interaction between alcohol and varenicline.
 
 Safety and efficacy of CHAMPIX in combination with other smoking cessation therapies have not been studied.
