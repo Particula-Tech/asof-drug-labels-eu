@@ -1,9 +1,9 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 BIOGEN IDEC LIMITED
-5 Roxborough Way
-Foundation Park
+Innovation House
+70 Norden Road
 Maidenhead
 Berkshire
-SL6 3UD
+SL6 4AY
 United Kingdom
