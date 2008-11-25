@@ -48,6 +48,7 @@ This difference is not clinically relevant.
 Renal impairment
 Results from a mass balance study with 14C-darunavir with ritonavir showed that approximately 7.7% of the administered dose of darunavir is excreted in the urine unchanged.
 Although darunavir has not been studied in patients with renal impairment, population pharmacokinetic analysis showed that the pharmacokinetics of darunavir were not significantly affected in HIV infected patients with moderate renal impairment (CrCl between 30-60 ml/min, n=20) (see sections 4.2 and 4.4).
+
 Hepatic impairment
 Darunavir is primarily metabolised and eliminated by the liver.
 In a multiple dose study with PREZISTA co-administered with ritonavir (600/100 mg) twice daily, it was demonstrated that the total plasma concentrations of darunavir in subjects with mild (Child-Pugh Class A, n=8) and moderate (Child-Pugh Class B, n=8) hepatic impairment were comparable with those in healthy subjects.

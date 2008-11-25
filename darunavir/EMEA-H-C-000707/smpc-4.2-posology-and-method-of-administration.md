@@ -17,8 +17,8 @@ No dose adjustment is recommended in patients with mild (Child-Pugh Class A) or 
 No pharmacokinetic data are available in patients with severe hepatic impairment.
 Severe hepatic impairment could result in an increase of darunavir exposure and a worsening of its safety profile.
 Therefore, PREZISTA should not be used in patients with severe hepatic impairment (Child-Pugh Class C) (see sections 4.3, 4.4 and 5.2).
-Renal impairment: No dose adjustment is required in patients with renal impairment (see sections 4.4 and 5.2).
 
+Renal impairment: No dose adjustment is required in patients with renal impairment (see sections 4.4 and 5.2).
 In case a dose of PREZISTA and/or ritonavir was missed within 6 hours of the time it is usually taken, patients should be instructed to take the prescribed dose of PREZISTA and ritonavir with food as soon as possible.
 If this was noticed later than 6 hours of the time it is usually taken, the missed dose should not be taken and the patient should resume the usual dosing schedule.
 This guidance is based on the 15 hour half-life of darunavir in the presence of ritonavir and the recommended dosing interval of approximately 12 hours.

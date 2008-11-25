@@ -11,6 +11,7 @@ Elderly: As limited information is available on the use of PREZISTA in patients 
 Darunavir binds predominantly to α1-acid glycoprotein.
 This protein binding is concentration dependent indicative for saturation of binding.
 Therefore, protein displacement of medicinal products highly bound to α1-acid glycoprotein cannot be ruled out.
+
 Darunavir contains a sulphonamide moiety.
 PREZISTA should be used with caution in patients with a known sulphonamide allergy.
 During the clinical development program, severe skin rash, including erythema multiforme and Stevens-Johnson Syndrome, has been reported.
@@ -56,7 +57,6 @@ Lipid disorders should be managed as clinically appropriate (see section 4.8).
 Osteonecrosis
 Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
-
 Immune reactivation syndrome
 In HIV infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first weeks or months of initiation of CART.
