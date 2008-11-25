@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antineoplastic agents - Other alkylating agents, ATC code L01A X03
+Pharmacotherapeutic group: Antineoplastic agents - Other alkylating agents, ATC code: L01A X03
 
 Temozolomide is a triazene, which undergoes rapid chemical conversion at physiologic pH to the active compound MTIC.
 The cytotoxicity of MTIC is thought to be due primarily to alkylation at the O6 position of guanine with additional alkylation also occurring at the N7 position.
@@ -55,23 +55,3 @@ In 43 patients stable disease was reported.
 The 6-month event-free survival for the ITT population was 44 % with a median event-free survival of 4.6 months, which was similar to the results for the progression-free survival.
 For the eligible histology population, the efficacy results were similar.
 Achieving a radiological objective response or maintaining progression-free status was strongly associated with maintained or improved quality of life.
-
-[Temodal 20 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 100 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 140 mg hard capsules]
-
-Pharmacotherapeutic group: Antineoplastic agents - Other alkylating agents, ATC code: L01A X03
-
-[Temodal 180 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 250 mg hard capsules]
-
-(all sentences already above)

@@ -16,7 +16,7 @@ Temodal is contraindicated in women who are pregnant (see section 4.6).
 
 [Temodal 140 mg hard capsules]
 
-Hypersensitivity to the active substance or to any of the excipients or to dacarbazine (DTIC).
+Hypersensitivity to the active substance, or to any of the excipients or to dacarbazine (DTIC).
 
 [Temodal 180 mg hard capsules]
 

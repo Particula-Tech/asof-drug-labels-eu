@@ -6,8 +6,8 @@ If lymphopenia occurs, they are to continue the prophylaxis until recovery of ly
 
 There may be a higher occurrence of PCP when Temodal is administered during a longer dosing regimen.
 However, all patients receiving Temodal, particularly patients receiving steroids, should be observed closely for the development of PCP, regardless of the regimen.
-Very rare cases of myelodysplastic syndrome and secondary malignancies, including myeloid leukaemia, have also been observed.
 
+Very rare cases of myelodysplastic syndrome and secondary malignancies, including myeloid leukaemia, have also been observed.
 Anti-emetic therapy: Nausea and vomiting are very commonly associated with Temodal, and guidelines are provided:
 
 Patients with newly diagnosed glioblastoma multiforme:

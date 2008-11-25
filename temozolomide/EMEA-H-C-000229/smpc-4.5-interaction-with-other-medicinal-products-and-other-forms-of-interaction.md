@@ -7,6 +7,7 @@ As it cannot be excluded that the change in Cmax is clinically significant, Temo
 
 Based on an analysis of population pharmacokinetics observed in Phase II trials, co-administration of dexamethasone, prochlorperazine, phenytoin, carbamazepine, ondansetron, H2 receptor antagonists, or phenobarbital did not alter the clearance of temozolomide.
 Co-administration with valproic acid was associated with a small but statistically significant decrease in clearance of temozolomide.
+
 No studies have been conducted to determine the effect of temozolomide on the metabolism or elimination of other medicinal products.
 However, since temozolomide does not require hepatic metabolism and exhibits low protein binding, it is unlikely that it would affect the pharmacokinetics of other medicinal products.
 
