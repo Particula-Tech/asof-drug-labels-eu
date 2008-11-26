@@ -47,6 +47,7 @@ Infusion site reactions were generally mild and consisted of hyper pigmentation,
 Fluid retention includes events such as peripheral oedema and less frequently pleural effusion, pericardial effusion, ascites and weight gain.
 The peripheral oedema usually starts at the lower extremities and may become generalised with a weight gain of 3 kg or more.
 Fluid retention is cumulative in incidence and severity (see section 4.4).
+
 Immune system disorders
 
 Hypersensitivity reactions have generally occurred within a few minutes following the start of the infusion of docetaxel and were usually mild to moderate.
@@ -99,11 +100,11 @@ Musculoskeletal and Myalgia (severe: 1.4%) Arthralgia
 connective tissue
 disorders
 Metabolism and Anorexia
-nutrition disorders
 MedDRA System Very common adverse Common adverse Uncommon adverse
 Organ classes reactions reactions reactions
 ≥ 10% of patients ≥ 1 to < 10% of ≥ 0.1 to < 1% of
 patients patients
+nutrition disorders
 Infections and Infections (G3/4: 5.7%; Infection associated
 infestations including sepsis and with G4 neutropenia
 pneumonia, fatal in (G3/4: 4.6%)
@@ -606,7 +607,7 @@ Vascular disorders Venous disorder
 General disorders and Lethargy (G3/4: 4.0%);
 administration site Pyrexia (G3/4: 3.6%);
 conditions Fluid retention (G3/4:
-1.2);
+1.2%);
 Oedema (G3/4: 1.2%)
 Immune system Hypersensitivity
 disorders
@@ -643,6 +644,7 @@ Rare cases of ileus and intestinal obstruction have been reported.
 Skin and subcutaneous tissue disorders
 Very rare cases of cutaneous lupus erythematosus and bullous eruptions such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, have been reported with docetaxel.
 In some cases concomitant factors may have contributed to the development of these effects.
+Sclerodermal-like changes usually preceded by peripheral lymphedema have been reported with docetaxel.
 
 Neoplasms benign, malignant and unspecified (incl cysts and polyps)
 Very rare cases of acute myeloid leukaemia and myelodysplastic syndrome have been reported in association with docetaxel when used in combination with other chemotherapy agents and/or radiotherapy.
@@ -659,3 +661,7 @@ Immune system disorders
 Some cases of anaphylactic shock, sometimes fatal, have been reported.
 Hepatobiliary disorders
 Very rare cases of hepatitis, sometimes fatal primarily in patients with pre-existing liver disorders, have been reported.
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+In some cases concomitant factors may have contributed to the development of these effects.Sclerodermal-like changes usually proceded by peripheral lymphedema have been reported with docetaxel.

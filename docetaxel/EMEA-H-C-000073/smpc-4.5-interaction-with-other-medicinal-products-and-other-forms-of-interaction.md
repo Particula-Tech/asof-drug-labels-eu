@@ -1,7 +1,5 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-There have been no formal clinical studies to evaluate the interactions of docetaxel with other medicinal products.
-
 In vitro studies have shown that the metabolism of docetaxel may be modified by the concomitant administration of compounds which induce, inhibit or are metabolised by (and thus may inhibit the enzyme competitively) cytochrome P450-3A such as ciclosporine, terfenadine, ketoconazole, erythromycin and troleandomycin.
 As a result, caution should be exercised when treating patients with these medicinal products as concomitant therapy since there is a potential for a significant interaction.
 
@@ -17,3 +15,7 @@ When combined to docetaxel, the clearance of carboplatin was about 50% higher th
 Docetaxel pharmacokinetics in the presence of prednisone was studied in patients with metastatic prostate cancer.
 Docetaxel is metabolised by CYP3A4 and prednisone is known to induce CYP3A4.
 No statistically significant effect of prednisone on the pharmacokinetics of docetaxel was observed.
+
+Docetaxel should be administered with caution in patients concomitantly receiving potent CYP3A4 inhibitors (e.g. protease inhibitors like ritonavir, azole antifungals like ketoconazole or itraconazole).
+A drug interaction study performed in patients receiving ketoconazole and docetaxel showed that the clearance of docetaxel was reduced by half by ketoconazole, probably because the metabolism of docetaxel involves CYP3A4 as a major (single) metabolic pathway.
+Reduced tolerance of docetaxel may occur, even at lower doses.
