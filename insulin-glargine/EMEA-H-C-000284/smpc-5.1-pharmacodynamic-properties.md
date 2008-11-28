@@ -19,6 +19,7 @@ In clinical pharmacology studies, intravenous insulin glargine and human insulin
 As with all insulins, the time course of action of insulin glargine may be affected by physical activity and other variables.
 
 In euglycaemic clamp studies in healthy subjects or in patients with type 1 diabetes, the onset of action of subcutaneous insulin glargine was slower than with human NPH insulin, its effect profile was smooth and peakless, and the duration of its effect was prolonged.
+
 The following graph shows the results from a study in patients:
 
 Activity Profile in Patients with Type 1 Diabetes
@@ -46,7 +47,6 @@ period
 
 The longer duration of action of insulin glargine is directly related to its slower rate of absorption and supports once daily administration.
 The time course of action of insulin and insulin analogues such as insulin glargine may vary considerably in different individuals or within the same individual.
-
 In a clinical study, symptoms of hypoglycaemia or counter-regulatory hormone responses were similar after intravenous insulin glargine and human insulin both in healthy volunteers and patients with type 1 diabetes.
 
 Effects of Lantus (once daily) on diabetic retinopathy were evaluated in an open-label 5-year NPH-controlled study (NPH given bid) in 1024 type 2 diabetic patients in which progression of retinopathy by 3 or more steps on the Early Treatment Diabetic Retinopathy Study (ETDRS) scale was investigated by fundus photography.

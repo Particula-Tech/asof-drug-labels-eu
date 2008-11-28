@@ -114,7 +114,6 @@ If no insulin appears at the needle tip, step 3 should be repeated two more time
 If still no insulin comes out, change the needle, as it might be blocked and try again.
 If no insulin comes out after changing the needle, the OptiSet may be damaged.
 Do not use this OptiSet.
-
 Step 4.
 Select the dose
 
@@ -122,6 +121,7 @@ The dose can be set in steps of 2 units, from a minimum of 2 units to a maximum 
 If a dose greater than 40 units is required, it should be given as two or more injections.
 
 Check if you have enough insulin for the dose.
+
 The residual insulin scale on the transparent insulin reservoir shows approximately how much insulin remains in the OptiSet.
 This scale must not be used to set the insulin dose.
 If the black plunger is at the beginning of the coloured bar, then there are approximately 40 units of insulin available.
@@ -148,7 +148,7 @@ Inject the dose
 The patient should be informed on the injection technique by his health care professional.
 The needle should be inserted into the skin.
 
-The injection button should be pressed all the way in .
+The injection button should be pressed all the way in.
 A clicking sound can be heard, which will stop when the injection button has been pressed.in completely.
 Then the injection button should be held down 10 seconds before withdrawing the needle from the skin.
 This ensures that the full dose of insulin has been delivered.

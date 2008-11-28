@@ -13,21 +13,6 @@ It is essential for patients with pre-existing or gestational diabetes to mainta
 Insulin requirements may decrease during the first trimester and generally increase during the second and third trimesters.
 Immediately after delivery, insulin requirements decline rapidly (increased risk of hypoglycaemia).
 Careful monitoring of glucose control is essential.
+
 Lactation
 Lactating women may require adjustments in insulin dose and diet.
-
-[Lantus 100 Units/ml solution for injection in a cartridge.]
-
-(all sentences already above)
-
-[Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
-
-(all sentences already above)
-
-[Lantus 100 Units/ml solution for injection in a pre-filled pen]
-
-For insulin glargin no clinical data on exposed pregnancies from controlled clinical trials are available.
-
-[Lantus 100 Units/ml solution for injection in a pre-filled pen (SmPC 5)]
-
-(all sentences already above)

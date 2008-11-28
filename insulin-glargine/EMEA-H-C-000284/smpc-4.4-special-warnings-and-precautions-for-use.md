@@ -9,8 +9,8 @@ Due to limited experience the efficacy and safety of Lantus could not be assesse
 
 In patients with renal impairment, insulin requirements may be diminished due to reduced insulin metabolism.
 In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
-In patients with severe hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
 
+In patients with severe hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
 In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic episodes, the patient's adherence to the prescribed treatment regimen, injection sites and proper injection technique and all other relevant factors must be reviewed before dose adjustment is considered.
 
 Switching a patient to another type or brand of insulin should be done under strict medical supervision and may require change in dose.
@@ -77,6 +77,7 @@ Patients with type 1 diabetes must continue to consume at least a small amount o
 [Lantus 100 Units/ml solution for injection in a pre-filled pen]
 
 Handling of the pen
+
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully.
 OptiSet has to be used as recommended in these Instructions for Use (see section 6.6).
 

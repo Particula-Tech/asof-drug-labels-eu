@@ -28,6 +28,7 @@ In rare cases, the presence of such insulin antibodies may necessitate adjustmen
 Nervous system disorders
 
 Very rare: Dysgeusia
+
 Eyes disorders
 
 Rare: Visual impairment
@@ -68,6 +69,7 @@ No clinical study safety data are available in patients below 6 years of age.
 
 [Lantus 100 Units/ml solution for injection in a cartridge.]
 
+In general, the safety profile for patients ≤ 18 years of age is similar to the safety profile for patients >18 years.
 The adverse event reports received from Post Marketing Surveillance included relatively more frequent injection site reactions (injection site pain, injection site reaction) and skin reactions (rash, urticaria) in patients ≤18 years of age than in patients > 18 years.
 
 [Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]

@@ -12,8 +12,8 @@ In patients with type 2 diabetes mellitus, Lantus can also be given together wit
 
 Children
 
-In children efficacy and safety of Lantus have only been demonstrated when given in the evening.
-Due to limited experience the efficacy and safety of Lantus have not been demonstrated in children below the age of 6 years.
+In children, efficacy and safety of Lantus have only been demonstrated when given in the evening.
+Due to limited experience, the efficacy and safety of Lantus have not been demonstrated in children below the age of 6 years.
 
 Transition from other insulins to Lantus
 
@@ -47,8 +47,7 @@ Due to limited experience the efficacy and safety of Lantus could not be assesse
 
 [Lantus 100 Units/ml solution for injection in a cartridge.]
 
-In children, efficacy and safety of Lantus have only been demonstrated when given in the evening.
-Due to limited experience, the efficacy and safety of Lantus have not been demonstrated in children below the age of 6 years.
+(all sentences already above)
 
 [Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
 
