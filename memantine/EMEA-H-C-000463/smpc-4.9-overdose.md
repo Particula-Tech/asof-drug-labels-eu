@@ -16,6 +16,7 @@ The patient experienced central nervous system symptoms such as restlessness, ps
 Treatment: In the event of overdose, treatment should be symptomatic.
 No specific antidote for intoxication or overdose is available.
 Standard clinical procedures to remove active substance material, e.g. gastric lavage, carbo medicinalis (interruption of potential entero-hepatic recirculation), acidification of urine, forced diuresis should be used as appropriate.
+
 In case of signs and symptoms of general central nervous system (CNS) overstimulation, careful symptomatic clinical treatment should be considered.
 
 [Ebixa 10 mg/g oral drops, solution.]

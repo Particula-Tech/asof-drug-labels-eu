@@ -11,8 +11,10 @@ EU/1/02/219/013
 
 [Ebixa 5 mg film-coated tablets.]
 
-(all sentences already above)
+EU/1/02/219/022
+EU/1/02/219/036
 
 [Ebixa 20 mg film-coated tablets.]
 
-(all sentences already above)
+EU/1/02/219/023-035
+EU/1/02/219/037-049

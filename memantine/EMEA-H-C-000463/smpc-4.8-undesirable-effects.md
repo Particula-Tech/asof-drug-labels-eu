@@ -7,6 +7,7 @@ The following Adverse Reactions listed in the Table below have been accumulated 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Adverse reactions are ranked according to system organ class, using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
+Cardiac disorders Uncommon Cardiac failure
 Nervous system disorders Common Dizziness
 
 Uncommon Gait abnormal

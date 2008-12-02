@@ -9,7 +9,8 @@ Date of latest renewal: 15/05/2007
 
 [Ebixa 5 mg film-coated tablets.]
 
-Date of first authorisation: Date of latest renewal:
+Date of first authorisation: 08/05/2008
+Date of latest renewal:
 
 [Ebixa 20 mg film-coated tablets.]
 
