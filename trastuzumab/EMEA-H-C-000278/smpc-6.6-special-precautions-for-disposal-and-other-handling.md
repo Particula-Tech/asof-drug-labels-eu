@@ -36,4 +36,4 @@ The bag should be gently inverted to mix the solution in order to avoid foaming.
 Parenteral solutions should be inspected visually for particulates and discoloration prior to administration.
 Once the infusion is prepared it should be administered immediately.
 If diluted aseptically, it may be stored for 24 hours (do not store above 30°C).
-No incompatibilities between Herceptin and polyvinylchloride or polyethylene bags have been observed.
+No incompatibilities between Herceptin and polyvinylchloride, polyethylene or polypropylene bags have been observed.
