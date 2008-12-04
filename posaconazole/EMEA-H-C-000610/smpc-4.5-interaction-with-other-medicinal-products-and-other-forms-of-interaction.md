@@ -35,6 +35,7 @@ Co-administration of posaconazole and ergot alkaloids is contraindicated (see se
 
 HMG-CoA reductase inhibitors metabolised through CYP3A4 (e.g. simvastatin, lovastatin, and atorvastatin): Posaconazole may substantially increase plasma levels of HMG-CoA reductase inhibitors that are metabolised by CYP3A4.
 Treatment with these HMG-CoA reductase inhibitors should be discontinued during treatment with posaconazole as increased levels have been associated with rhabdomyolysis (see section 4.3).
+
 Vinca alkaloids: Posaconazole may increase the plasma concentration of vinca alkaloids (e.g. vincristine and vinblastine), which may lead to neurotoxicity.
 Therefore, concomitant use of posaconazole and vinca alkaloids should be avoided unless the benefit to the patient outweighs the risk.
 If co-administered, then it is recommended that dose adjustment of vinca alkaloids be considered.
@@ -67,6 +68,7 @@ Following co-administration of oral posaconazole (400 mg twice daily) with ataza
 Following co-administration of oral posaconazole (400 mg twice daily) with atazanavir and ritonavir (300/100 mg once daily) for 7 days in healthy subjects Cmax and AUC of atazanavir increased by an average of 1.5-fold and 2.5-fold (range 0.9 to 4.1-fold), respectively.
 The addition of posaconazole to therapy with atazanavir or with atazanavir plus ritonavir was associated with increases in plasma bilirubin levels.
 Frequent monitoring for adverse events and toxicity related to antiretroviral agents that are substrates of CYP3A4 is recommended during co-administration with posaconazole.
+
 Midazolam and other benzodiazepines metabolised by CYP3A4: In a study in healthy volunteers posaconazole (200 mg once daily for 10 days) increased the exposure (AUC) of IV midazolam
 (0.05 mg/kg) by 83 %.
 In another study in healthy volunteers, repeat dose administration of oral posaconazole (200 mg twice daily for 7 days) increased the Cmax and AUC of IV midazolam (0.4 mg single dose) by an average of 1.3- and 4.6-fold (range 1.7 to 6.4-fold), respectively; Posaconazole 400 mg twice daily for 7 days increased the IV midazolam Cmax and AUC by 1.6 and 6.2-fold (range 1.6 to 7.6-fold), respectively.

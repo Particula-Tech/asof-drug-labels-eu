@@ -5,7 +5,6 @@ ATC code: J02A C04.
 
 Mechanism of action
 Posaconazole inhibits the enzyme lanosterol 14α-demethylase (CYP51), which catalyses an essential step in ergosterol biosynthesis.
-
 Microbiology
 Posaconazole has been shown in vitro to be active against the following microorganisms: Aspergillus species (Aspergillus fumigatus, A. flavus, A. terreus, A. nidulans, A. niger, A. ustus), Candida species
 (Candida albicans, C. glabrata, C. krusei, C. parapsilosis, C. tropicalis, C. dubliniensis, C. famata, C. inconspicua, C. lipolytica, C. norvegensis, C. pseudotropicalis), Coccidioides immitis, Fonsecaea pedrosoi, and species of Fusarium, Rhizomucor, Mucor, and Rhizopus.
@@ -32,6 +31,7 @@ Most of the cases of aspergillosis were considered to be refractory to prior the
 
 As shown in Table 3, a successful response (complete or partial resolution) at the end of treatment was seen in 42 % of posaconazole-treated patients compared to 26 % of the external group.
 However, this was not a prospective, randomised controlled study and so all comparisons with the external control group should be viewed with caution.
+
 Table 3.
 Overall efficacy of posaconazole at the end of treatment for invasive aspergillosis in comparison to an external control group
 
@@ -44,6 +44,7 @@ Overall efficacy of posaconazole at the end of treatment for invasive aspergillo
 | A. terreus | 4/14 (29 %) | 2/13 (15 %) |
 | A. niger | 3/5 (60 %) | 2/7 (29 %) |
 
+1 Includes other less common species or species unknown
 Fusarium spp.: 11 of 24 patients who had proven or probable fusariosis were successfully treated with posaconazole 800 mg/day in divided doses for a median of 124 days and up to 212 days.
 Among eighteen patients who were intolerant or had infections refractory to amphotericin B or itraconazole, seven patients were classed as responders.
 
@@ -75,9 +76,7 @@ Two randomised, controlled prophylaxis studies were conducted among patients at 
 
 Study 316 was a randomised, double-blind trial of posaconazole oral suspension (200 mg three times a day) versus fluconazole capsules (400 mg once daily) in allogeneic hematopoietic stem cell transplant recipients with graft-versus-host disease (GVHD).
 The primary efficacy endpoint was the incidence of proven/probable IFIs at 16 weeks post-randomization as determined by an independent, blinded external expert panel.
-A key secondary endpoint was the incidence of proven/probable IFIs during the
-
-1 Includes other less common species or species unknown on-treatment period (first dose to last dose of study medicinal product + 7 days).
+A key secondary endpoint was the incidence of proven/probable IFIs during the on-treatment period (first dose to last dose of study medicinal product + 7 days).
 The majority (377/600, [63 %]) of patients included had Acute Grade 2 or 3 or chronic extensive (195/600,
 [32.5 %]) GVHD at study start.
 The mean duration of therapy was 80 days for posaconazole and 77 days for fluconazole.
@@ -87,7 +86,6 @@ The primary efficacy endpoint was the incidence of proven/probable IFIs as deter
 A key secondary endpoint was the incidence of proven/probable IFIs at 100 days post-randomization.
 New diagnosis of acute myelogenous leukemia was the most common underlying condition (435/602, [72 %]).
 The mean duration of therapy was 29 days for posaconazole and 25 days for fluconazole/itraconazole.
-
 In both prophylaxis studies, aspergillosis was the most common breakthrough infection.
 See Table 5 and 6 for results from both studies.
 There were fewer breakthrough Aspergillus infections in patients receiving posaconazole prophylaxis when compared to control patients.
@@ -128,11 +126,11 @@ a: FLU/ITZ (1899); FLU (316).
 b: In 1899 this was the period from randomization to last dose of study medicinal product plus 7 days; in 316 it was the period from first dose to last dose of study medicinal product plus 7 days.
 c: In 1899, this was the period from randomization to 100 days post-randomization; in 316 it was the period from the baseline day to 111 days post-baseline.
 d: All randomized e: All treated
+
 In Study 1899, a significant decrease in all cause mortality in favour of posaconazole was observed [POS 49/304 (16 %) vs. FLU/ITZ 67/298 (22 %) p= 0.048].
 Based on Kaplan-Meier estimates, the probability of survival up to day 100 after randomization, was significantly higher for posaconazole recipients; this survival benefit was demonstrated when the analysis considered all causes of death (P= 0.0354) as well as IFI-related deaths (P = 0.0209).
 
 In Study 316, overall mortality was similar (POS, 25 %; FLU, 28 %); however, the proportion of IFI-related deaths was significantly lower in the POS group (4/301) compared with the FLU group (12/299; P= 0.0413).
-
 Use in paediatric patients
 Sixteen patients 8-17 years of age were treated with 800 mg/day in a study for invasive fungal infections.
 Based on the available data in 16 of these paediatric patients, the safety profile appears to be similar to patients ≥ 18 years of age.
