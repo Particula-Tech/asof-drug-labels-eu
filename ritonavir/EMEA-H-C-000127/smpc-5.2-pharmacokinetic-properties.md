@@ -28,6 +28,7 @@ Note: ritonavir was dosed after a meal for all listed regimens.
 
 Effects of food on oral absorption:
 Ingestion of ritonavir with food results in higher ritonavir exposure than ingestion in the fasted state.
+
 Distribution:
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20 - 40 l after a single 600 mg dose.
 The protein binding of ritonavir in human plasma is approximately 98 - 99% and is constant over the concentration range of 1.0 – 100 μg /ml.

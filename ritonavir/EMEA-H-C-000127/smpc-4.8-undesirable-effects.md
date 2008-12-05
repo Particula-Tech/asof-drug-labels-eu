@@ -49,8 +49,8 @@ Hepatic transaminase elevations exceeding five times the upper limit or normal, 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
-
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+
 Pancreatitis has been observed in patients receiving ritonavir therapy, including those who developed hypertriglyceridemia.
 In some cases fatalities have been observed.
 Patients with advanced HIV disease may be at risk of elevated triglycerides and pancreatitis (see section 4.4).
