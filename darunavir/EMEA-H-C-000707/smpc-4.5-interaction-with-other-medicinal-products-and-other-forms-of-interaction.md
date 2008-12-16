@@ -22,7 +22,7 @@ Co-administration of darunavir and ritonavir and other medicinal products that i
 These interactions are described in the interaction tables below.
 
 Interaction table
-Interactions between darunavir/ritonavir and protease inhibitors, antiretroviral agents other than protease inhibitors and other non-antiretroviral medicinal products are listed in the tables below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”, twice daily as “b.i.d.” and once daily as “q.d.”).
+Interactions between darunavir/ritonavir and protease inhibitors, antiretroviral agents other than protease inhibitors and other non-antiretroviral medicinal products are listed in the tables below (increase is indicated as “↑”, decrease as “↓”, no change as “↔”, not determined as “ND”, twice daily as “b.i.d.” and once daily as “q.d.”).
 
 Interactions – Darunavir/ritonavir with Protease Inhibitors
 The efficacy and safety of the use of PREZISTA with 100 mg ritonavir and any other PI (e.g. (fos)amprenavir, nelfinavir and tipranavir) has not been established in HIV patients.
@@ -77,6 +77,14 @@ Darunavir ↓ 13% ↓ 31% Efavirenz decreases the plasma concentrations of darun
 Darunavir/ritonavir increases the plasma concentrations of efavirenz as a result of CYP3A4 inhibition.
 Clinical monitoring for central nervous system toxicity associated with increased exposure to efavirenz may be indicated when PREZISTA co-administered with 100 mg ritonavir is given in combination with efavirenz.
 
+Etravirine 100 b.i.d.* 600/100 b.i.d. Etravirine ↓ 37% ↓ 49%
+Darunavir ↔ ↔
+
+* dose used in drug-interaction study.
+For recommended dose see paragraph below.
+There was a 37% decrease in etravirine exposure in the presence of darunavir/ritonavir and no relevant change in exposure to darunavir.
+Therefore, PREZISTA co-administered with low dose ritonavir can be co-administered with etravirine 200 mg b.i.d. without dose adjustments.
+
 Nevirapine 200 b.i.d. 400/100 b.i.d. Nevirapine ↑ 27% ↑ 47%
 Darunavir ↔ ↔
 
@@ -103,6 +111,12 @@ Darunavir ↔ ↔
 Didanosine was administered on an empty stomach 2 hours prior to administration of darunavir/ritonavir.
 Systemic exposure to darunavir co-administered with low dose ritonavir, with or without didanosine was comparable.
 The combination of PREZISTA co-administered with 100 mg ritonavir and didanosine can be used without dose adjustments.
+
+Maraviroc 150 b.i.d. 600/100 b.i.d. Maraviroc ↑ 305% ND
+Darunavir ↔ ND
+
+The maraviroc dose should be 150 mg twice daily when co-administered with PREZISTA with low dose ritonavir.
+Darunavir/ritonavir concentrations were consistent with historical data.
 
 Interactions – Darunavir/ritonavir with Non-antiretroviral co-administered Medicinal Products
 

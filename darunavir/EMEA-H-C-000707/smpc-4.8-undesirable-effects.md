@@ -38,7 +38,6 @@ Frequencies are defined as common (≥ 1/100 to < 1/10) and uncommon (≥ 1/1000
 | Psychiatric disorders | depression, confusional state, disorientation, anxiety, altered mood, insomnia, sleep disorder, abnormal dreams | uncommon |
 
 Severe cases of skin rash, including erythema multiforme and Stevens-Johnson Syndrome (both rare) have been reported in ongoing clinical trials with PREZISTA co-administered with 100 mg ritonavir.
-
 Treatment emergent laboratory abnormalities (at least grade 3), observed in the de novo patients and reported (combined grade 3 and 4) in greater than or equal to 2% of subjects are summarised below.
 
 | Laboratory parameter | Grade 3 | Grade 4 |

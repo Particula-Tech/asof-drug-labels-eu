@@ -34,6 +34,7 @@ Darunavir has a < 10-fold decreased susceptibility against 90% of 3309 clinical 
 Clinical experience
 Efficacy of PREZISTA co-administered with 100 mg ritonavir in treatment-naïve patients
 There are no data on the efficacy of darunavir co-administered with 100 mg ritonavir in treatment-naïve HIV-1 infected patients.
+
 Efficacy of PREZISTA co-administered with 100 mg ritonavir in treatment-experienced patients
 The evidence of efficacy of PREZISTA co-administered with ritonavir (600/100 mg b.i.d.) in treatment-experienced patients is based on the 48 weeks analysis of the Phase III trial TITAN in treatment-experienced lopinavir naïve patients and on the analyses of 96 weeks data from the
 Phase IIb trials POWER 1, 2 and 3 in patients with high level of PI resistance.
@@ -64,20 +65,18 @@ Entry criteria were the same as and baseline characteristics were comparable to 
 
 The table below shows the efficacy data of the 48-week analyses on the recommended 600 mg dose of PREZISTA co-administered with 100 mg ritonavir b.i.d. from the pooled POWER 1 and POWER 2 trials as well as from the POWER 3 trial.
 
-|  | POWER 1 and POWER 2 pooled data | POWER 3 |
-| --- | --- | --- |
-| Outcomes at 48 weeks |  |  |
-
-| Baseline characteristics |  |  |  |  |
-| --- | --- | --- | --- | --- |
-| Mean plasma HIV-1 RNA | 4.61 log10 copies/ml (PREZISTA/ritonavir) 4.49 log10 copies/ml (control) |  |  | 4.58 log10 copies/ml |
-| Median CD4+ cell count | 153 x 106 cells/l (PREZISTA/ritonavir) 163 x 106 cells/l (control) |  |  | 120 x 106 cells/l |
-| Outcomes | PREZISTA/ritonavir 600/100 mg b.i.d. n=131 | Control n=124 | Treatment difference | PREZISTA/ritonavir 600/100 mg b.i.d. n=334 |
-| HIV-1 RNA log10 mean change from baseline (log10 copies/ml)a | -1.69 | -0.37 | 1.32 (1.58; 1.05)d | -1.62 |
-| CD4+ cell count mean change from baseline (x 106/l)b | 103 | 17 | 86 (57; 114)d | 105 |
-| HIV RNA > 1 log10 below baselinec | 81 (61.8%) | 20 (16.1%) | 45.7% (35.0%; 56.4%)d | 196 (58.7%) |
-| HIV RNA < 400 copies/mlc | 72 (55.0%) | 18 (14.5%) | 40.4% (29.8%; 51.1%)d | 183 (54.8%) |
-| HIV RNA < 50 copies/mlc | 59 (45.0%) | 14 (11.3%) | 33.7% (23.4%; 44.1%)d | 155 (46.4%) |
+|  |  | POWER 1 and POWER 2 pooled data |  |  |  | POWER 3 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Outcomes at 48 weeks |  |  |  |  |  |  |
+| Baseline characteristics |  |  |  |  |  |  |
+| Mean plasma HIV-1 RNA | 4.61 log10 copies/ml (PREZISTA/ritonavir) 4.49 log10 copies/ml (control) |  |  |  | 4.58 log10 copies/ml |  |
+| Median CD4+ cell count | 153 x 106 cells/l (PREZISTA/ritonavir) 163 x 106 cells/l (control) |  |  |  | 120 x 106 cells/l |  |
+| Outcomes | PREZISTA/ritonavir 600/100 mg b.i.d. n=131 |  | Control n=124 | Treatment difference | PREZISTA/ritonavir 600/100 mg b.i.d. n=334 |  |
+| HIV-1 RNA log10 mean change from baseline (log10 copies/ml)a | -1.69 |  | -0.37 | 1.32 (1.58; 1.05)d | -1.62 |  |
+| CD4+ cell count mean change from baseline (x 106/l)b | 103 |  | 17 | 86 (57; 114)d | 105 |  |
+| HIV RNA > 1 log10 below baselinec | 81 (61.8%) |  | 20 (16.1%) | 45.7% (35.0%; 56.4%)d | 196 (58.7%) |  |
+| HIV RNA < 400 copies/mlc | 72 (55.0%) |  | 18 (14.5%) | 40.4% (29.8%; 51.1%)d | 183 (54.8%) |  |
+| HIV RNA < 50 copies/mlc | 59 (45.0%) |  | 14 (11.3%) | 33.7% (23.4%; 44.1%)d | 155 (46.4%) |  |
 
 a Non-completer is failure imputation: patients who discontinued prematurely are imputed with a change equal to 0 b Last Observation Carried Forward imputation c Imputations according to the TLOVR algorithm d 95% confidence intervals.
 
@@ -93,13 +92,9 @@ In early treatment-experienced patients (TITAN) three or more of these mutations
 
 Response (HIV-1 RNA < 50 copies/ml at week 24) to PREZISTA co-administered with ritonavir (600/100 mg b.i.d.) by baseline genotype* and by use of enfuvirtide (ENF): As treated analysis of the POWER and DUET trials.
 
-Number of mutations at All subjects Subjects with Subjects with naïve use
-baseline* no/non-naïve use of ENF of ENF
-% % %
-n/N n/N n/N
-
-| All ranges | 45% 455/1014 | 39% 290/741 | 60% 165/273 |
+| Number of mutations at baseline* | All subjects % n/N | Subjects with no/non-naïve use of ENF % n/N | Subjects with naïve use of ENF % n/N |
 | --- | --- | --- | --- |
+| All ranges | 45% 455/1014 | 39% 290/741 | 60% 165/273 |
 | 0-2 | 54% 359/660 | 50% 238/477 | 66% 121/183 |
 | 3 | 39% 67/172 | 29% 35/120 | 62% 32/52 |
 | ≥ 4 | 12% 20/171 | 7% 10/135 | 28% 10/36 |
@@ -116,7 +111,3 @@ Response (HIV-1 RNA < 50 copies/ml at week 24) to PREZISTA co-administered with 
 | ≤ 10 | 55% 364/659 | 51% 244/477 | 66% 120/182 |
 | 10-40 | 29% 59/203 | 17% 25/147 | 61% 34/56 |
 | > 40 | 8% 9/118 | 5% 5/94 | 17% 4/24 |
-
-This medicinal product has been authorised under a so-called “conditional approval” scheme.
-This means that further evidence on this medicinal product is awaited.
-The European Medicines Agency (EMEA) will review new information on the product every year and this SPC will be updated as necessary.
