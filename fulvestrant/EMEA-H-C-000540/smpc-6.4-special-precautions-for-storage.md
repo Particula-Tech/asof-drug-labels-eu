@@ -1,4 +1,4 @@
 # 6.4 Special precautions for storage
 
-Store at 2 °C-8 °C (in a refrigerator)
-Store in the original package in order to protect from light.
+Store in a refrigerator (2°C - 8°C).
+Store the pre-filled syringe in the original package in order to protect from light.

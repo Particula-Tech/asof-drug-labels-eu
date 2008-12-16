@@ -1,5 +1,4 @@
 # 6.5 Nature and contents of container
 
-One 5 ml clear neutral glass (Type 1) pre-filled syringe with polystyrene plunger rod.
-The syringe has a nominal content of 5 ml solution and is fitted with a tamper evident closure.
+One clear type 1 glass pre-filled syringe with polystyrene plunger rod, fitted with a tamper-evident closure, containing 5 ml solution for injection.
 A safety needle (SafetyGlide) for connection to the barrel is also provided.

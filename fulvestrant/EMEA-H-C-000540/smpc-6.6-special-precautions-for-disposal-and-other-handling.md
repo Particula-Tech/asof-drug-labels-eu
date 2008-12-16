@@ -1,5 +1,6 @@
-# 6.6 Instructions for use and handling and disposal
+# 6.6 Special precautions for disposal and other handling
 
+Instructions for administration
 Remove glass syringe barrel from tray and check that it is not damaged.
 Peel open the safety needle (SafetyGlide) outer packaging.
 (For safety needle instructions see below).
@@ -13,14 +14,11 @@ Immediately activate needle protection device upon withdrawal of the needle from
 
 Visually confirm that the lever arm has fully advanced and the needle tip is covered.
 If unable to activate the safety needle, discard immediately into an approved sharps collector.
-
 SafetyGlide Information from Becton Dickinson
-
 WARNING: - Do not autoclave safety needle before use.
 Hands must remain behind the needle at all times during use and disposal.
 
 Directions for Use of safety needle
-
 Peel apart packaging of the safety needle, break the seal of the white plastic cover on the syringe Luer connector and attach the safety needle to the Luer Lock of the syringe by twisting.
 
 Transport filled syringe to point of administration.
@@ -39,4 +37,6 @@ Activation of the protective mechanism may cause minimal splatter of fluid that 
 
 For greatest safety, use a one-handed technique and activate away from self and others.
 
-After single use, discard in an approved sharps collector in accordance with applicable regulations and institutional policy.
+Disposal
+Pre-filled syringes are for single use only.
+Any unused product or waste material should be disposed of in accordance with local requirements.

@@ -1,7 +1,6 @@
 # 4.3 Contraindications
 
-Faslodex is contraindicated in:
+Hypersensitivity to the active substance, or to any of the other excipients.
 
-- patients with known hypersensitivity to the active substance or to any of the excipients
-- pregnancy and in breast-feeding (see 4.6)
-- severe hepatic impairment
+Pregnancy and lactation (see section 4.6)
+Severe hepatic impairment (see sections 4.4 and 5.2).
