@@ -2,13 +2,16 @@
 
 EU/1/06/356/001
 EU/1/06/356/002
+EU/1/06/356/007
 
 [EXJADE 250 mg dispersible tablets]
 
 EU/1/06/356/003
 EU/1/06/356/004
+EU/1/06/356/008
 
 [EXJADE 500 mg dispersible tablets]
 
 EU/1/06/356/005
 EU/1/06/356/006
+EU/1/06/356/009

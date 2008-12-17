@@ -18,7 +18,6 @@ As with other iron chelator treatment, high-frequency hearing loss and lenticula
 
 Adverse reactions are ranked below using the following convention: very common (≥1/10); common (≥1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (<1/10,000); not known (cannot be estimated form the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-
 Table 1
 
 Nervous system disorders

@@ -37,7 +37,7 @@ Hepatic function:
 Liver function test elevations have been observed in patients treated with EXJADE.
 Postmarketing cases of hepatic failure, sometimes fatal, have been reported in patients treated with EXJADE.
 Most reports of hepatic failure involved patients with significant morbidities including pre-existing liver cirrhosis.
-However, the role of EXJADE as a contributing or aggravating factor cannot be excluded (see Section 4.8).
+However, the role of EXJADE as a contributing or aggravating factor cannot be excluded (see section 4.8).
 
 It is recommended that serum transaminases, bilirubin and alkaline phosphatase be checked before the initiation of treatment, every 2 weeks during the first month and monthly thereafter.
 If there is a persistent and progressive increase in serum transaminase levels that cannot be attributed to other causes, EXJADE should be interrupted.
@@ -49,7 +49,7 @@ Treatment has been initiated only in patients with baseline liver transaminase l
 Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children and adolescents, receiving EXJADE.
 Multiple ulcers have been observed in some patients (see section 4.8).
 Physicians and patients should remain alert for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy and promptly initiate additional evaluation and treatment if a serious gastrointestinal adverse event is suspected.
-Caution should be exercised in patients who are taking EXJADE in combination with drugs that have known ulcerogenic potential, such as NSAIDs, corticosteroids, or oral bisphosphonates and in patients receiving anticoagulants (see Section 4.5 Interaction with other medicinal products and other forms of interaction).
+Caution should be exercised in patients who are taking EXJADE in combination with substances that have known ulcerogenic potential, such as NSAIDs, corticosteroids, or oral bisphosphonates and in patients receiving anticoagulants (see section 4.5).
 
 Skin rashes may appear during EXJADE treatment.
 The rashes resolve spontaneously in most cases.
@@ -71,11 +71,11 @@ The results should also be noted in the provided patient’s booklet.
 
 In the 1-year clinical studies growth and sexual development of paediatric patients treated with EXJADE were not affected.
 However, as a general precautionary measure in the management of paediatric patients with transfusional iron overload, body weight, height and sexual development should be monitored at regular intervals (every 12 months).
-
 Cardiac dysfunction is a known complication of severe iron overload.
 Cardiac function should be monitored in patients with severe iron overload during long-term treatment with EXJADE.
 
 The tablets contain lactose (1.1 mg lactose for each mg of deferasirox).
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency, glucose-galactose malabsorption or severe lactase deficiency should not take this medicine.
 
-The concomitant use of deferasirox with aluminium-containing antacid preparations is not recommended (see section 4.5).
+The concomitant use of deferasirox with aluminium-containing antacid preparations is not recommended.
+Caution should be exercised when deferasirox is combined with strong UDP-glucuronosyl transferase (UGT) inducers, or CYP2C8 substrates (see section 4.5).
