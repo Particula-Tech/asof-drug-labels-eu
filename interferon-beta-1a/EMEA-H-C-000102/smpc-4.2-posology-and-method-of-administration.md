@@ -26,3 +26,7 @@ Treatment should be discontinued if the patient develops chronic progressive MS.
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
 Adults: The recommended dosage for the treatment of relapsing MS is 30 micrograms (0.5 ml solution), administered by intramuscular (IM) injection once a week (see section 6.6).
+
+At the initiation of treatment, patients may either be started on a full dose of 30 micrograms (0.5 ml solution) or on approximately half the dose once a week to help them to adjust to treatment and thereafter increased to the full dose of 30 micrograms (0.5 ml solution).
+In order to obtain adequate efficacy, a dose of 30 micrograms (0.5 ml solution) once a week should be reached and maintained after the initial titration period.
+A manual titration device to enable delivery of approximately half the dose is available for patients initiating AVONEX treatment.

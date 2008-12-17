@@ -11,7 +11,9 @@ The formulation does not contain a preservative.
 Each vial of AVONEX contains a single dose only.
 Discard the unused portion of any vial.
 
-Any unused product or waste material should be disposed of in accordance with local requirements.
+Any unused product or waste material should be disposed of in accordance with local
+
+requirements.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
