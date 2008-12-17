@@ -15,6 +15,7 @@ No dose reductions will be made, but delay or discontinuation of temozolomide ad
 The temozolomide dose can be continued throughout the 42 day concomitant period (up to 49 days) if all of the following conditions are met: absolute neutrophil count ≥ 1.5 x 109/l, thrombocyte count ≥ 100 x 109/l, Common Toxicity Criteria (CTC) non-haematological toxicity ≤ Grade 1 (except for alopecia, nausea and vomiting).
 During treatment a complete blood count should be obtained weekly.
 Temozolomide administration should be interrupted or discontinued during concomitant phase according to the haematological and non-haematological toxicity criteria as noted in Table 1.
+
 Table 1.
 Temozolomide dosing interruption or discontinuation during concomitant radiotherapy and temozolomide (TMZ)
 
@@ -63,7 +64,6 @@ b: TMZ is to be discontinued if:
 - the same Grade 3 non-haematological toxicity (except for alopecia, nausea, vomiting) recurs after dose reduction.
 
 Recurrent or progressive malignant glioma:
-
 Adult patients
 A treatment cycle comprises 28 days.
 In patients previously untreated with chemotherapy, Temodal is administered orally at a dose of 200 mg/m2 once daily for the first 5 days followed by a 23 day treatment interruption (total of 28 days).

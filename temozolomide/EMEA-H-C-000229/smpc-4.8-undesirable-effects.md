@@ -10,9 +10,12 @@ Table 4 provides treatment emergent adverse events in patients with newly diagno
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| Table 4: Temodal and radiotherapy: Treatment-emergent events during concomitant and monotherapy treatment Very Common (≥ 1/10); Common (≥ 1/100, < 1/10); Uncommon (≥ 1/1,000, < 1/100) CIOMS III |  |  |
-| --- | --- | --- |
+Table 4: Temodal and radiotherapy:
+Treatment-emergent events during concomitant and monotherapy treatment
+Very Common (≥ 1/10); Common (≥ 1/100, < 1/10); Uncommon (≥ 1/1,000, < 1/100) CIOMS III
+
 | Body System | TMZ + concomitant radiotherapy n=288* | TMZ monotherapy n=224 |
+| --- | --- | --- |
 | Infections and infestations Common: | Infection, herpes simplex, wound infection, pharyngitis, candidiasis oral | Infection, candidiasis oral |
 | Uncommon: |  | Herpes simplex, Herpes zoster, influenza–like symptoms |
 | Blood and lymphatic system disorders Common: | Neutropenia, thrombocytopenia, lymphopenia, leukopenia | Febril neutropenia, thrombocytopenia, anaemia, leukopenia |
@@ -43,10 +46,9 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Uncommon: | Skin exfoliation, photosensitivity reaction, pigmentation abnormal | Erythema, pigmentation abnormal, sweating increased |
 | Musculoskeletal and connective tissue disorders Common: | Muscle weakness, arthralgia | Muscle weakness, arthralgia, musculoskeletal pain, myalgia |
 | Uncommon: | Myopathy, back pain, musculoskeletal pain, myalgia | Myopathy, back pain |
-| Renal and urinary disorders Common: | Micturition frequency, urinary incontinence | Urinary incontinence |
-| Uncommon: |  | Dysuria |
-| Reproductive |  |  |
-| system and breast disorders Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
+| Renal and urinary disorders Common: | Micturition frequency, urinary | Urinary incontinence |
+| Uncommon: | incontinence | Dysuria |
+| Reproductive system and breast disorders Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
 | General disorders and administration site conditions Very Common: | Fatigue | Fatigue |
 | Common: | Allergic reaction, fever, radiation injury, face oedema, pain, taste perversion | Allergic reaction, fever, radiation injury, pain, taste perversion |
 | Uncommon: | Asthenia, flushing, hot flushes, condition aggravated, rigors, tongue discolouration, parosmia, thirst | Asthenia, face oedema, pain, condition aggravated, rigors, tooth disorder, taste perversion |
@@ -101,9 +103,8 @@ Cases of interstitial pneumonitis/pneumonitis have been reported very rarely.
 
 [Temodal 20 mg hard capsules]
 
-| Table 4: Temodal and radiotherapy: Treatment-emergent events during concomitant and monotherapy treatment Very Common (≥ 1/10); Common (≥ 1/100, < 1/10); Uncommon (≥ 1/1,000, < 1/100) CIOMS III |  |  |
-| --- | --- | --- |
 | Body System | TMZ + concomitant radiotherapy n=288* | TMZ monotherapy n=224 |
+| --- | --- | --- |
 | Infections and infestations Common: | Infection, herpes simplex, wound infection, pharyngitis, candidiasis oral | Infection, candidiasis oral |
 | Uncommon: |  | Herpes simplex, Herpes zoster, influenza–like symptoms |
 | Blood and lymphatic system disorders Common: | Neutropenia, thrombocytopenia, lymphopenia, leukopenia | Febril neutropenia, thrombocytopenia, anaemia, leukopenia |
@@ -119,8 +120,7 @@ Cases of interstitial pneumonitis/pneumonitis have been reported very rarely.
 | Uncommon: | Status epilepticus, extrapyramidal disorder, hemiparesis, ataxia, cognition impaired, dysphasia, gait abnormal, hyperesthesia, hypoesthesia, neurological disorder (NOS), peripheral neuropathy | Hemiplegia, ataxia, coordination abnormal, gait abnormal, hyperesthesia, sensory disturbance |
 | Eye disorders Common: | Vision blurred | Visual field defect, vision blurred, diplopia |
 | Uncommon: | Hemianopia, visual acuity reduced, vision disorder, visual field defect, eye pain | Visual acuity reduced, eye pain, eyes dry |
-| Ear and labyrinth |  |  |
-| disorders Common: | Hearing impairment | Hearing impairment, tinnitus |
+| Ear and labyrinth disorders Common: | Hearing impairment | Hearing impairment, tinnitus |
 | Uncommon: | Otitis media, tinnitus, hyperacusis, earache | Deafness, vertigo, earache |
 | Cardiac disorders Uncommon: | Palpitation |  |
 | Vascular disorders Common: | Haemorrhage, oedema, oedema leg | Haemorrhage, deep venous thrombosis, oedema leg |
@@ -137,8 +137,7 @@ Cases of interstitial pneumonitis/pneumonitis have been reported very rarely.
 | Uncommon: | Myopathy, back pain, musculoskeletal pain, myalgia | Myopathy, back pain |
 | Renal and urinary disorders Common: | Micturition frequency, urinary incontinence | Urinary incontinence |
 | Uncommon: |  | Dysuria |
-| Reproductive system and breast disorders |  |  |
-| Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
+| Reproductive system and breast disorders Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
 | General disorders and administration site conditions Very Common: | Fatigue | Fatigue |
 | Common: | Allergic reaction, fever, radiation injury, face oedema, pain, taste perversion | Allergic reaction, fever, radiation injury, pain, taste perversion |
 | Uncommon: | Asthenia, flushing, hot flushes, condition aggravated, rigors, tongue discolouration, parosmia, thirst | Asthenia, face oedema, pain, condition aggravated, rigors, tooth disorder, taste perversion |
@@ -147,6 +146,10 @@ Cases of interstitial pneumonitis/pneumonitis have been reported very rarely.
 
 [Temodal 100 mg hard capsules]
 
+(all sentences already above)
+
+[Temodal 140 mg hard capsules]
+
 | Table 4: Temodal and radiotherapy: Treatment-emergent events during concomitant and monotherapy treatment Very Common (≥ 1/10); Common (≥ 1/100, < 1/10); Uncommon (≥ 1/1,000, < 1/100) CIOMS III |  |  |
 | --- | --- | --- |
 | Body System | TMZ + concomitant radiotherapy n=288* | TMZ monotherapy n=224 |
@@ -165,8 +168,7 @@ Cases of interstitial pneumonitis/pneumonitis have been reported very rarely.
 | Uncommon: | Status epilepticus, extrapyramidal disorder, hemiparesis, ataxia, cognition impaired, dysphasia, gait abnormal, hyperesthesia, hypoesthesia, neurological disorder (NOS), peripheral neuropathy | Hemiplegia, ataxia, coordination abnormal, gait abnormal, hyperesthesia, sensory disturbance |
 | Eye disorders Common: | Vision blurred | Visual field defect, vision blurred, diplopia |
 | Uncommon: | Hemianopia, visual acuity reduced, vision disorder, visual field defect, eye pain | Visual acuity reduced, eye pain, eyes dry |
-| Ear and labyrinth |  |  |
-| disorders Common: | Hearing impairment | Hearing impairment, tinnitus |
+| Ear and labyrinth disorders Common: | Hearing impairment | Hearing impairment, tinnitus |
 | Uncommon: | Otitis media, tinnitus, hyperacusis, earache | Deafness, vertigo, earache |
 | Cardiac disorders Uncommon: | Palpitation |  |
 | Vascular disorders Common: | Haemorrhage, oedema, oedema leg | Haemorrhage, deep venous thrombosis, oedema leg |
@@ -183,17 +185,12 @@ Cases of interstitial pneumonitis/pneumonitis have been reported very rarely.
 | Uncommon: | Myopathy, back pain, musculoskeletal pain, myalgia | Myopathy, back pain |
 | Renal and urinary disorders Common: | Micturition frequency, urinary incontinence | Urinary incontinence |
 | Uncommon: |  | Dysuria |
-| Reproductive system and breast |  |  |
-| disorders Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
+| Reproductive system and breast disorders Uncommon: | Impotence | Vaginal haemorrhage, menorrhagia, amenorrhea, vaginitis, breast pain |
 | General disorders and administration site conditions Very Common: | Fatigue | Fatigue |
 | Common: | Allergic reaction, fever, radiation injury, face oedema, pain, taste perversion | Allergic reaction, fever, radiation injury, pain, taste perversion |
 | Uncommon: | Asthenia, flushing, hot flushes, condition aggravated, rigors, tongue discolouration, parosmia, thirst | Asthenia, face oedema, pain, condition aggravated, rigors, tooth disorder, taste perversion |
 | Investigations Common: | ALT increased | ALT increased |
 | Uncommon: | Hepatic enzymes increased, Gamma GT increased, AST increased |  |
-
-[Temodal 140 mg hard capsules]
-
-(all sentences already above)
 
 [Temodal 180 mg hard capsules]
 
