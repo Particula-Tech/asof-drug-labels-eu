@@ -1,0 +1,16 @@
+{
+  "active_substance": "azacitidine",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000978",
+  "eu_number": "EU/1/08/488",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2008-12-17",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vidaza",
+  "molecule": "azacitidine",
+  "molecule_name": "AZACITIDINE",
+  "name": "Vidaza",
+  "register_name": "Vidaza",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h488.htm"
+}
