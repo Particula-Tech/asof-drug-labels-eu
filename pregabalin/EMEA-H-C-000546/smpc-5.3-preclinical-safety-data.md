@@ -6,7 +6,7 @@ An increased incidence of retinal atrophy commonly observed in aged albino rats 
 
 Pregabalin was not teratogenic in mice, rats or rabbits.
 Foetal toxicity in rats and rabbits occurred only at exposures sufficiently above human exposure.
-In prenatal/postnatal toxicity studies, pregabalin induced offspring developmental toxicity in rats at exposures >2 times the maximum recommended human exposure.
+In prenatal/postnatal toxicity studies, pregabalin induced offspring developmental toxicity in rats at exposures > 2 times the maximum recommended human exposure.
 
 Pregabalin is not genotoxic based on results of a battery of in vitro and in vivo tests.
 
@@ -21,5 +21,35 @@ In juvenile rats the types of toxicity do not differ qualitatively from those ob
 However, juvenile rats are more sensitive.
 At therapeutic exposures, there was evidence of CNS clinical signs of hyperactivity and bruxism and some changes in growth (transient body weight gain suppression).
 Effects on the oestrus cycle were observed at 5-fold the human therapeutic exposure.
-Reduced acoustic startle response was observed in juvenile rats 1-2 weeks after exposure at >2 times the human therapeutic exposure.
+Reduced acoustic startle response was observed in juvenile rats 1-2 weeks after exposure at > 2 times the human therapeutic exposure.
 Nine weeks after exposure, this effect was no longer observable.
+
+[LYRICA 50 mg hard capsules.]
+
+In prenatal/postnatal toxicity studies, pregabalin induced offspring developmental toxicity in rats at exposures >2 times the maximum recommended human exposure.
+
+Reduced acoustic startle response was observed in juvenile rats 1-2 weeks after exposure at >2 times the human therapeutic exposure.
+
+[LYRICA 75 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 100 mg hard capsules.]
+
+(all sentences already above)
+
+[LYRICA 150 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 200 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 225 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 300 mg hard capsules]
+
+(all sentences already above)

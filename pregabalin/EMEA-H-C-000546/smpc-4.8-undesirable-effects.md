@@ -6,7 +6,8 @@ Adverse reactions were usually mild to moderate in intensity.
 In all controlled studies, the discontinuation rate due to adverse reactions was 13% for patients receiving pregabalin and 7% for patients receiving placebo.
 The most common adverse reactions resulting in discontinuation from pregabalin treatment groups were dizziness and somnolence.
 
-In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (> 1/10), common (> 1/100, < 1/10), uncommon (>1/1000, <1/100) and rare (<1/1000)).
+In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (> 1/10), common (> 1/100,
+< 1/10), uncommon (> 1/1000, < 1/100) and rare (< 1/1000)).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 The adverse reactions listed may also be associated with the underlying disease and / or concomitant medications.
@@ -65,7 +66,7 @@ Rare Peripheral vision loss, oscillopsia, altered visual depth perception,
 
 photopsia, eye irritation, mydriasis, strabismus, visual brightness
 
-Unknown frequency Keratitis
+Unknown frequency Vision loss, keratitis
 
 Ear and labyrinth disorders
 
@@ -106,7 +107,7 @@ Skin and subcutaneous tissue disorders
 
 Uncommon Rash papular, sweating
 Rare Urticaria, cold sweat
-Unknown frequency Stevens Johnson syndrome,Pruritus
+Unknown frequency Stevens Johnson syndrome, pruritus
 
 Musculoskeletal and connective tissue disorders
 
@@ -145,7 +146,9 @@ increased, aspartate aminotransferase increased, platelet count decreased
 
 Rare Blood glucose increased, blood potassium decreased, white blood
 
-cell count decreased, blood creatinine increased, weight decreased After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+cell count decreased, blood creatinine increased, weight decreased
+
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
 The following events have been mentioned: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating and dizziness.
 The patient should be informed about this at the start of the treatment.
 
@@ -153,17 +156,9 @@ Concerning discontinuation of long-term treatment of pregabalin there are no dat
 
 [LYRICA 50 mg hard capsules.]
 
-Unknown frequency Stevens Johnson syndrome, Pruritus
-
 Rare Anasarca,pyrexia, rigors, pain exacerbated,
 
-cell count decreased, blood creatinine increased, weight decreased
-
-After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
-
 [LYRICA 75 mg hard capsules]
-
-Unknown frequency Hypersensitivity,angioedema, allergic reaction
 
 The following events have been mentioned: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating, and dizziness.
 
@@ -184,5 +179,7 @@ The following events have been mentioned: insomnia, headache, nausea, diarrhoea,
 (all sentences already above)
 
 [LYRICA 300 mg hard capsules]
+
+In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (> 1/10), common (> 1/100, < 1/10), uncommon (>1/1000, <1/100) and rare (<1/1000)).
 
 The following events have been: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating and dizziness.
