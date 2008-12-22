@@ -38,7 +38,7 @@ Male patients taking lenalidomide must meet the following conditions:
 
 The prescriber must ensure that for women of childbearing potential:
 
-- The patient complies with the conditions for Pregnancy Prevention Programme, including confirmation that she has an adequate level of understanding
+- The patient complies with the conditions of the Pregnancy Prevention Programme, including confirmation that she has an adequate level of understanding
 - The patient has acknowledged the aforementioned conditions.
 
 Contraception
@@ -63,7 +63,6 @@ Implants and levonorgestrel-releasing intrauterine systems are associated with a
 Prophylactic antibiotics should be considered particularly in patients with neutropenia.
 
 Copper-releasing intrauterine devices are generally not recommended due to the potential risks of infection at the time of insertion and menstrual blood loss which may compromise patients with neutropenia or thrombocytopenia.
-
 Pregnancy testing
 According to local practice, medically supervised pregnancy tests with a minimum sensitivity of 25 mIU/ml must be performed for women of childbearing potential as outlined below.
 This requirement includes women of childbearing potential who practice absolute and continuous abstinence.
@@ -102,7 +101,6 @@ Patients and physicians are advised to be observant for the signs and symptoms o
 Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, arm or leg swelling.
 Prophylactic antithrombotic medicines, such as low molecular weight heparins or warfarin, should be recommended, especially in patients with additional thrombotic risk factors.
 The decision to take antithrombotic prophylactic measures should be made after careful assessment of an individual patient’s underlying risk factors.
-
 Neutropenia and thrombocytopenia
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated patients compared with 0.6% in placebo/dexamethasone-treated patients; see section 4.8).
 Grade 4 febrile neutropenia episodes were observed infrequently (0.6% in lenalidomide/dexamethasone-treated patients compared to 0.0% in placebo/dexamethasone treated patients; see section 4.8).

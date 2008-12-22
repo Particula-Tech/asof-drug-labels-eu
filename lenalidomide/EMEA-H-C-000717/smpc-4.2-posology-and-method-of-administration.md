@@ -43,7 +43,7 @@ For each subsequent drop below < 0.5 x 109/l Interrupt lenalidomide treatment
 
 Return to ≥ 0.5 x 109/l Resume lenalidomide at next lower dose
 
-level (Dose Level 2 or 3) once daily.
+level (Dose Level 1, 2 or 3) once daily.
 Do not dose below 5 mg once daily.
 
 In case of neutropenia, the physician should consider the use of growth factors in patient management.
@@ -61,17 +61,17 @@ Because elderly patients are more likely to have decreased renal function, care 
 
 Use in patients with impaired renal function
 Lenalidomide is substantially excreted by the kidney, therefore care should be taken in dose selection and monitoring of renal function is advised.
-
-The following dose adjustments are recommended at the start of therapy for patients with impaired renal function.
+No dose adjustments are required for patients with mild renal impairment.
+The following dose adjustments are recommended at the start of therapy for patients with moderate or severe impaired renal function or end stage renal disease.
 
 | Renal Function (CLcr) | Dose Adjustment |
 | --- | --- |
-| Mild renal impairment (CLcr ≥ 50 ml/min) | 25 mg once daily (Full Dose) |
 | Moderate renal impairment (30 ≤ CLcr < 50 ml/min) | 10 mg once daily* |
-| Severe renal impairment (CLcr < 30 ml/min, not requiring dialysis) | 15 mg every other day |
-| End Stage Renal Disease (ESRD) (CLcr < 30 ml/min, requiring dialysis) | 15 mg, 3 times a week following each dialysis |
+| Severe renal impairment (CLcr < 30 ml/min, not requiring dialysis) | 15 mg every other day** |
+| End Stage Renal Disease (ESRD) (CLcr < 30 ml/min, requiring dialysis) | 5 mg once daily. On dialysis days, the dose should be administered following dialysis |
 
 * The dose may be escalated to 15 mg once daily after 2 cycles if patient is not responding to treatment and is tolerating the treatment.
+** The dose may be escalated to 10 mg once daily if the patient is tolerating the treatment.
 
 Use in patients with impaired hepatic function
 Lenalidomide has not formally been studied in patients with impaired hepatic function and there are no specific dose recommendations.

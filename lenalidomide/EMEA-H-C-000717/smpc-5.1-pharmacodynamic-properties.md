@@ -10,7 +10,6 @@ Clinical trials
 The efficacy and safety of lenalidomide were evaluated in two Phase III multi-centre, randomised, double-blind, placebo-controlled, parallel-group controlled studies (MM-009 and MM-010) of lenalidomide plus dexamethasone therapy versus dexamethasone alone in previously treated patients with multiple myeloma.
 Out of 353 patients in the MM-009 and MM-010 studies who received lenalidomide/dexamethasone, 45.6% were aged 65 or over.
 Of the 704 patients evaluated in the MM-009 and MM-010 studies, 44.6% were aged 65 or over.
-
 In both studies, patients in the lenalidomide/dexamethasone (len/dex) group took 25 mg of lenalidomide orally once daily on Days 1 to 21 and a matching placebo capsule once daily on Days 22 to 28 of each 28-day cycle.
 Patients in the placebo/dexamethasone (placebo/dex) group took 1 placebo capsule on Days 1 to 28 of each 28-day cycle.
 Patients in both treatment groups took 40 mg of dexamethasone orally once daily on Days 1 to 4, 9 to 12, and 17 to 20 of each 28-day cycle for the first 4 cycles of therapy.
@@ -18,6 +17,7 @@ The dose of dexamethasone was reduced to 40 mg orally once daily on
 Days 1 to 4 of each 28-day cycle after the first 4 cycles of therapy.
 In both studies, treatment was to continue until disease progression.
 In both studies, dose adjustments were allowed based on clinical and laboratory finding.
+
 The primary efficacy endpoint in both studies was time to progression (TTP).
 In total, 353 patients were evaluated in the MM-009 study; 177 in the lenalidomide/dexamethasone group and 176 in the placebo/dexamethasone group and, in total, 351 patients were evaluated in the MM-010 study; 176 in the lenalidomide/dexamethasone group and 175 in the placebo/dexamethasone group.
 

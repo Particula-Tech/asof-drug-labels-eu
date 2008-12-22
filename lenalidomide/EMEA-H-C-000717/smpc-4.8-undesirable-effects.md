@@ -34,13 +34,13 @@ Uncommon: Congestive cardiac failure, pulmonary oedema, heart valve insufficienc
 
 Congenital, familial and genetic disorders
 Uncommon: Chromosome abnormality
-
 Blood and lymphatic system disorders
 Very Common: Neutropenia*, thrombocytopenia*, anaemia*
 
 Common: Febrile neutropenia, pancytopenia, leucopenia*, lymphopenia*
 
 Uncommon: Granulocytopenia, haemolytic anaemia, autoimmune haemolytic anaemia, haemolysis, hypercoagulation, coagulopathy, monocytopenia, leucocytosis, lymphadenopathy
+
 Nervous system disorders
 
 Common: Cerebrovascular accident, syncope, peripheral neuropathy, neuropathy, peripheral
@@ -80,7 +80,6 @@ Renal and urinary disorders
 Common: Renal failure
 
 Uncommon: Acute renal failure, urinary frequency, renal tubular necrosis, cystitis, haematuria, urinary retention, dysuria, acquired Fanconi Syndrome, urinary incontinence, polyuria, increased blood urea, increased blood creatinine, nocturia
-
 Skin and subcutaneous tissue disorders
 Very common: Rash*
 
@@ -88,6 +87,7 @@ Common: Face oedema, dry skin, pruritus*, erythema, folliculitis, skin hyperpigm
 
 exanthema, increased sweating, night sweats, alopecia
 Uncommon: Erythema nodosum, urticaria, eczema, erythrosis, erythematous rash, pruritic rash, papular rash, hyperkeratosis, contusion, skin fissures, acne, dermatitis acneiforme, lichen sclerosus, decubitus ulcer, pigmentation lip, prurigo, rosacea, photosensitivity reaction, seborroeic dermatitis, skin burning sensation, skin desquamation, skin discolouration
+
 Musculoskeletal and connective tissue disorders
 Very Common: Muscle cramp*, muscle weakness
 
@@ -128,7 +128,6 @@ Common: Deep vein thrombosis*, limb venous thrombosis, hypotension*, hypertensio
 
 orthostatic hypotension, flushing
 Uncommon: Circulatory collapse, thrombosis, ischaemia, peripheral ischaemia, intermittent claudication, phlebitis, pallor, petechiae, haematoma, postphlebitic syndrome, thrombophlebitis, superficial thrombophlebitis
-
 General disorders and administration site conditions
 Very Common: Fatigue*, asthenia*, peripheral oedema
 
@@ -138,6 +137,7 @@ Uncommon: Hyperpyrexia, chest pain, chest tightness, pain, difficulty in walking
 
 Immune system disorders
 Uncommon: Acquired hypogammaglobulinaemia
+
 Hepatobiliary disorders
 Uncommon: Abnormal liver function tests, increased alanine aminotransferase, increased aspartate aminotransferase, increased blood bilirubin
 
