@@ -50,4 +50,5 @@ Common (≥1/100 to < 1/10); Uncommon (≥ 1/ 1000 to < 1/100); Rare (≥ 1/ 10,
 | Miscellaneous: | Uncommon: Positive Clostridium difficile toxin |  |
 | Post Marketing Experience: |  |  |
 | Immune system disorder: | Anaphylaxis including anaphylactoid reactions |  |
+| Psychiatric disorders: | Altered mental status |  |
 | Nervous system disorders: | Hallucinations |  |
