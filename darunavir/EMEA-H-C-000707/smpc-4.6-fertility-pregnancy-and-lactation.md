@@ -7,7 +7,7 @@ PREZISTA co-administered with 100 mg ritonavir should be used during pregnancy o
 
 Lactation
 It is not known whether darunavir is excreted in human milk.
-Studies in rats have demonstrated that darunavir is excreted in milk and at high levels (1000 mg/kg/day) resulted in toxicity.
+Studies in rats have demonstrated that darunavir is excreted in milk and at high levels (1,000 mg/kg/day) resulted in toxicity.
 Because of both the potential for HIV transmission and the potential for adverse events in nursing infants, mothers should be instructed not to breast-feed under any circumstances if they are receiving PREZISTA.
 
 Fertility

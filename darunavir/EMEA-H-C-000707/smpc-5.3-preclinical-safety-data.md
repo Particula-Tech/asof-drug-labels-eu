@@ -9,7 +9,7 @@ In the rat, the combination of darunavir with ritonavir lead to a small increase
 In the dog, no major toxicity findings or target organs were identified up to exposures equivalent to clinical exposure at the recommended dose.
 
 In a study conducted in rats, the number of corpora lutea and implantations were decreased in the presence of maternal toxicity.
-Otherwise, there were no effects on mating or fertility with darunavir treatment up to 1000 mg/kg/day and exposure levels below (AUC-0.5 fold) of that in human at the clinically recommended dose.
+Otherwise, there were no effects on mating or fertility with darunavir treatment up to 1,000 mg/kg/day and exposure levels below (AUC-0.5 fold) of that in human at the clinically recommended dose.
 Up to same dose levels, there was no teratogenicity with darunavir in rats and rabbits when treated alone nor in mice when treated in combination with ritonavir.
 The exposure levels were lower than those with the recommended clinical dose in humans.
 In a pre- and postnatal development assessment in rats, darunavir with and without ritonavir, caused a transient reduction in body weight gain of the offspring pre-weaning and there was a slight delay in the opening of eyes and ears.
@@ -20,11 +20,11 @@ In juvenile rats receiving darunavir up to days 23-26, increased mortality was o
 Exposure in plasma, liver and brain was considerably higher than in adult rats after comparable doses in mg/kg between days 5 and 11 of age.
 After day 23 of life, the exposure was comparable to that in adult rats.
 The increased exposure was likely at least partly due to immaturity of the drug-metabolising enzymes in juvenile animals.
-No treatment related mortalities were noted in juvenile rats dosed at 1000 mg/kg darunavir (single dose) on day 26 of age or at 500 mg/kg (repeated dose) from day 23 to 50 of age, and the exposures and toxicity profile were comparable to those observed in adult rats.
+No treatment related mortalities were noted in juvenile rats dosed at 1,000 mg/kg darunavir (single dose) on day 26 of age or at 500 mg/kg (repeated dose) from day 23 to 50 of age, and the exposures and toxicity profile were comparable to those observed in adult rats.
 In humans, the activity of drug-metabolising enzymes approaches adult values by 1 to 3 years of age.
 
 Darunavir was evaluated for carcinogenic potential by oral gavage administration to mice and rats up to 104 weeks.
-Daily doses of 150, 450 and 1000 mg/kg were administered to mice and doses of 50, 150 and 500 mg/kg were administered to rats.
+Daily doses of 150, 450 and 1,000 mg/kg were administered to mice and doses of 50, 150 and 500 mg/kg were administered to rats.
 Dose-related increases in the incidences of hepatocellular adenomas and carcinomas were observed in males and females of both species.
 Thyroid follicular cell adenomas were noted in male rats.
 Administration of darunavir did not cause a statistically significant increase in the incidence of any other benign or malignant neoplasm in mice or rats.
