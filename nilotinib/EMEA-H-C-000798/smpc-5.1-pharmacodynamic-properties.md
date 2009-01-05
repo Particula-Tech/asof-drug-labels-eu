@@ -40,9 +40,7 @@ The highest prior imatinib dose was ≥600 mg/day in 75% of all patients, with 4
 
 Table 6 CML disease history characteristics
 
-Chronic phase Accelerated phase
-
-|  | (n=320) | (n=119) |
+|  | Chronic phase (n=320) | Accelerated phase (n=119) |
 | --- | --- | --- |
 | Median time since diagnosis in months (range) | 57 (5–275) | 71 (2–298) |
 | Imatinib Resistant Intolerant without MCyR | 226 (71%) 94 (29%) | 96 (81%) 23 (19%) |
@@ -54,7 +52,6 @@ Chronic phase Accelerated phase
 The primary endpoint in the CP patients was major cytogenetic response (MCyR), defined as elimination (CCyR, complete cytogenetic response) or significant reduction to <35% Ph+ metaphases (partial cytogenetic response) of Ph+ haematopoietic cells.
 Complete haematological response (CHR) in CP patients was evaluated as a secondary endpoint.
 The primary endpoint in the AP patients was overall confirmed haematological response (HR), defined as either a complete haematological response, no evidence of leukaemia or return to chronic phase.
-
 The MCyR rate in 320 CP patients was 49%.
 Most responders achieved their MCyR rapidly within 3 months (median 2.8 months) of starting Tasigna treatment and these were sustained (median duration has not been reached).
 Among 156 patients with MCyR 43 patients (27.6%) lost their MCyR.

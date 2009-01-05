@@ -10,7 +10,6 @@ The most frequent non-haematological drug-related adverse events were rash, prur
 Most of these adverse events were mild to moderate in severity.
 Constipation, diarrhoea, bone pain, arthralgia, muscle spasms and peripheral oedema were observed less commonly and have been of mild to moderate severity.
 Discontinuation for adverse events regardless of causality was observed in 16% of CP and 14% of AP patients.
-
 Treatment emergent haematological toxicities included thrombocytopenia (27%), neutropenia (15%) and anaemia (13%).
 Pleural and pericardial effusions as well as complications of fluid retention occurred in <1% of patients receiving Tasigna.
 Congestive heart failure was observed in 1% of patients.
@@ -22,22 +21,44 @@ No episodes of torsade de pointes (transient or sustained) were observed.
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients in Tasigna clinical studies are shown in Table 2.
 These are ranked under heading of frequency using the following convention: very common (≥1/10) or common (≥1/100 to <1/10).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
 Table 2 Adverse reactions (≥5% of all patients, n=438)
 
-| System organ class | Frequency | Adverse reaction | All grades % | Grade 3-4 % | Chronic phase Grade 3-4 % | Accelerated phase Grade 3-4 % |
-| --- | --- | --- | --- | --- | --- | --- |
-| Nervous system disorders | Very common | Headache | 15 | 1 | 2 | <1 |
-| Gastrointestinal disorders | Very common Very common Very common Common Common | Nausea Constipation Diarrhoea Vomiting Abdominal pain | 19 11 10 9 5 | <1 0 2 <1 <1 | <1 0 2 <1 <1 | <1 0 <1 0 <1 |
-| Skin and subcutaneous tissue disorders | Very common Very common Common | Rash Pruritus Alopecia | 26 22 7 | 1 <1 0 | <1 <1 0 | 0 0 0 |
-| Musculoskeletal and connective tissue disorders | Common Common Common Common | Myalgia Arthralgia Muscle spasms Bone pain | 8 6 6 6 | <1 <1 0 <1 | <1 <1 0 <1 | <1 0 0 0 |
-| Metabolism and nutrition disorders | Common | Anorexia | 5 | 0 | 0 | 0 |
-| General disorders and administration site conditions | Very common Common Common | Fatigue Asthenia Oedema peripheral | 16 6 5 | <1 0 0 | <1 0 0 | <1 0 0 |
+System organ Frequency Adverse All grades Grade Chronic Accelerated
+class reaction 3-4 phase phase
+
+Grade Grade 3-4 3-4
+
+% % % %
+Nervous system Very common Headache 15 1 2 <1
+
+disorders
+
+Gastrointestinal Very common Nausea 19 <1 <1 <1
+disorders Very common Constipation 11 0 0 0
+Very common Diarrhoea 10 2 2 <1
+Common Vomiting 9 <1 <1 0
+Common Abdominal pain 5 <1 <1 <1
+Skin and Very common Rash 26 1 <1 0
+subcutaneous Very common Pruritus 22 <1 <1 0
+tissue disorders Common Alopecia 7 0 0 0
+Musculoskeletal Common Myalgia 8 <1 <1 <1
+and connective Common Arthralgia 6 <1 <1 0
+tissue disorders Common Muscle spasms 6 0 0 0
+Common Bone pain 6 <1 <1 0
+Metabolism and Common Anorexia 5 0 0 0
+
+nutrition disorders
+
+General Very common Fatigue 16 <1 <1 <1
+disorders and Common Asthenia 6 0 0 0
+administration Common Oedema 5 0 0 0
+site conditions peripheral
 
 Additional data from clinical trials
 The following adverse reactions were reported in patients in the Tasigna clinical studies at a frequency of less than 5% (common is ≥1/100 to <1/10; uncommon is >1/1,000 to <1/100; single events are captured as frequency not known [cannot be estimated from the available data]).
 For laboratory abnormalities, very common events (≥1/10) not included in Table 2 are also reported.
 These adverse reactions are included based on clinical relevance and ranked in order of decreasing seriousness within each category.
-
 Investigations:
 Very common: lipase increased.
 Common: blood amylase increased, alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatinine phosphokinase increased, blood glucose increased, weight decreased, weight increased.
@@ -79,7 +100,6 @@ Not known: gastrointestinal ulcer perforation, retroperitoneal haemorrhage, haem
 Renal and urinary disorders:
 Uncommon: dysuria, micturition urgency, nocturia, pollakiuria.
 Not known: renal failure, haematuria, urinary incontinence.
-
 Skin and subcutaneous tissue disorders:
 Common: night sweats, eczema, urticaria, erythema, hyperhidrosis, dry skin.
 Uncommon: exfoliative rash, ecchymosis, swelling face.
@@ -125,7 +145,6 @@ Uncommon: depression, anxiety.
 Not known: disorientation, confusional state.
 
 Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values are presented in Table 3.
-
 Table 3 Grade 3-4 laboratory abnormalities
 
 |  | CML-CP n=318 % | CML-AP n=120 % |

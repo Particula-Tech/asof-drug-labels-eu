@@ -26,6 +26,7 @@ Other medicinal products for anticoagulation should be considered.
 
 Anti-arrhythmic medicinal products and other substances that may prolong QT
 Nilotinib should be used with caution in patients who have or may develop prolongation of QT, including those patients taking anti-arrhythmic medicinal products such as amiodarone, disopyramide, procainamide, quinidine and sotalol or other medicinal products that may lead to QT prolongation such as chloroquine, halofantrine, clarithromycin, haloperidol and methadone (see section 4.4).
+
 Other interactions that may affect serum concentrations
 The absorption of Tasigna is increased if it is taken with food, resulting in higher serum concentration (see sections 4.2, 4.4 and 5.2).
 Grapefruit juice and other foods that are known to inhibit CYP3A4 should be avoided.

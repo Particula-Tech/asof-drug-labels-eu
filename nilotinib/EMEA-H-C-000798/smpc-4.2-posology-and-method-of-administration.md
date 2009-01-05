@@ -14,15 +14,9 @@ Tasigna may be given with hydroxyurea or anagrelide if clinically indicated.
 
 Dose adjustments or modifications
 Tasigna may need to be temporarily withheld and/or dose reduced for haematological toxicities (neutropenia, thrombocytopenia) that are not related to underlying leukaemia (see Table 1).
-
 Table 1 Dose adjustments for neutropenia and thrombocytopenia
 
-Chronic phase CML ANC* <1.0 x 109/l and/or platelet 1. Stop Tasigna, and monitor blood counts.
-at 400 mg twice counts <50 x 109/l 2. Resume within 2 weeks at prior dose if ANC
-daily >1.0 x 109/l and/or platelets >50 x 109/l.
-3. If blood counts remain low, a dose reduction
-
-|  |  | to 400 mg once daily may be required. |
+| Chronic phase CML at 400 mg twice daily | ANC* <1.0 x 109/l and/or platelet counts <50 x 109/l | 1. Stop Tasigna, and monitor blood counts. 2. Resume within 2 weeks at prior dose if ANC >1.0 x 109/l and/or platelets >50 x 109/l. 3. If blood counts remain low, a dose reduction to 400 mg once daily may be required. |
 | --- | --- | --- |
 | Accelerated phase CML at 400 mg twice daily | ANC* <0.5 x 109/l and/or platelet counts <10 x 109/l | 1. Stop Tasigna, and monitor blood counts. 2. Resume within 2 weeks at prior dose if ANC >1.0 x 109/l and/or platelets >20 x 109/l. 3. If blood counts remain low, a dose reduction to 400 mg once daily may be required. |
 

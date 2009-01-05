@@ -48,6 +48,7 @@ The bioavailability of nilotinib is increased by food.
 Tasigna should not be taken in conjunction with food (see sections 4.2 and 4.5) and should be taken 2 hours after a meal.
 No food should be consumed for at least one hour after the dose is taken.
 Grapefruit juice and other foods that are known to inhibit CYP3A4 should be avoided.
+
 Hepatic impairment
 Tasigna has not been investigated in patients with hepatic impairment.
 Clinical studies have excluded patients with alanine transaminase (ALT) and/or aspartate transaminase (AST) >2.5 (or >5, if related to disease) times the upper limit of the normal range and/or total bilirubin >1.5 times the upper limit of the normal range.
