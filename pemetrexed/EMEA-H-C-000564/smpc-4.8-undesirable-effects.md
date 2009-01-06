@@ -43,7 +43,7 @@ Disorders
 Common Taste 7.7 0.0*** 6.1 0.0***
 disturbance
 Renal and Very Creatinine 10.7 0.6 9.8 1.2
-urinary Common elevation
+Urinary Common elevation
 Disorders
 Creatinine 16.1 0.6 17.8 1.8
 clearance
@@ -94,16 +94,16 @@ Disorders elevation
 SGOT (AST) 6.8 1.1 0.7 0.0
 elevation
 Skin and Sub- Very Rash/ 14.0 0.0 6.2 0.0
-cutaneous tissue Common desquamation
-disorders Common Pruritus 6.8 0.4 1.8 0.0
+cutaneous Common desquamation
+Tissue Disorders Common Pruritus 6.8 0.4 1.8 0.0
 Alopecia 6.4 0.4** 37.7 2.2**
 
 *Refer to National Cancer Institute CTC version 2 for each grade of toxicity.
 **According to National Cancer Institute CTC (v2.0; NCI 1998), alopecia should only be reported as Grade 1 or 2.
 
-Very common - ≥ 10 %; Common is normally defined as - ≥ 1 % and < 10 %.
+Very common ≥ 10 %; Common is normally defined as ≥ 1 % and < 10 %.
 For the purpose of this table a cut off of 5 % was used for inclusion of all events where the reporter considered a possible relationship to pemetrexed.
-Clinically relevant CTC toxicities that were reported in - ≥ 1 % and < 5 % (common) of the patients that were randomly assigned to pemetrexed include: infection without neutropenia, febrile neutropenia, allergic reaction/hypersensitivity, increased creatinine, motor neuropathy, sensory neuropathy, erythema multiforme, and abdominal pain.
+Clinically relevant CTC toxicities that were reported in ≥ 1 % and < 5 % (common) of the patients that were randomly assigned to pemetrexed include: infection without neutropenia, febrile neutropenia, allergic reaction/hypersensitivity, increased creatinine, motor neuropathy, sensory neuropathy, erythema multiforme, and abdominal pain.
 Clinically relevant CTC toxicities that were reported in < 1 % (uncommon) of the patients that were randomly assigned to pemetrexed include supraventricular arrhythmias.
 
 Clinically relevant Grade 3 and Grade 4 laboratory toxicities were similar between integrated Phase 2 results from three single agent pemetrexed studies (n = 164) and the Phase 3 single agent pemetrexed study described above, with the exception of neutropenia (12.8 % versus 5.3 %, respectively) and alanine transaminase elevation (15.2 % versus 1.9 %, respectively).
@@ -119,43 +119,44 @@ Grades 3 - 4 Grades 3 - 4
 Toxicity Toxicity Toxicity Toxicity
 (%) (%) (%) (%)
 Blood and Very Hemoglobin 33.0* 5.6* 45.7* 9.9*
-lymphatic Common decreased
-system Neutrophils/ 29.0* 15.1* 38.4* 26.7*
-disorders Granulocytes
+Lymphatic Common decreased
+System Neutrophils/ 29.0* 15.1* 38.4* 26.7*
+Disorders Granulocytes
 decreased
 Leukocytes 17.8 4.8* 20.6 7.6*
 decreased
 Platelets 10.1* 4.1* 26.6* 12.7*
 decreased
 Gastrointestinal Very Nausea 56.1 7.2* 53.4 3.9*
-disorders Common Vomiting 39.7 6.1 35.5 6.1
+Disorders Common Vomiting 39.7 6.1 35.5 6.1
 Anorexia 26.6 2.4* 24.2 0.7*
 Constipation 21.0 0.8 19.5 0.4
 Stomatitis/ 13.5 0.8 12.4 0.1
 pharyngitis
-Diarrhea without 12.4 1.3 12.8 1.6
+Diarrhoea without 12.4 1.3 12.8 1.6
 colostomy
 Common Dyspepsia/ 5.2 0.1 5.9 0.0
 heartburn
 General Very Fatigue 42.7 6.7 44.9 4.9
-disorders and Common
-administration
-site conditions
+Disorders and Common
+Administration
+Site Conditions
 Nervous Common Neuropathy- 8.5* 0.0* 12.4* 0.6*
-system sensory
-disorders Taste disturbance 8.1 0.0*** 8.9 0.0***
+System sensory
+Disorders Taste disturbance 8.1 0.0*** 8.9 0.0***
 Renal and Very Creatinine 10.1* 0.8 6.9* 0.5
-urinary Common elevation
-disorders
+Urinary Common elevation
+Disorders
 Skin and Very Alopecia 11.9* 0*** 21.4* 0.5***
-subcutaneous Common
-tissue disorders Common Rash/desquamation 6.6 0.1 8.0 0.5
+Subcutaneous Common
+Tissue Common Rash/desquamation 6.6 0.1 8.0 0.5
+Disorders
 
 *P-values <0.05 comparing pemetrexed/cisplatin to gemcitabine/cisplatin, using Fisher Exact test. **Refer to National Cancer Institute CTC (v2.0; NCI 1998) for each Grade of Toxicity. ***According to National Cancer Institute CTC (v2.0; NCI 1998), taste disturbance and alopecia should only be reported as Grade 1 or 2.
 
-Very common - ≥10%; common is normally defined as ≥ 1 % and < 10 %.
+Very common ≥ 10%; common is normally defined as ≥ 1 % and < 10 %.
 For the purpose of this table, a cut-off of 5% was used for inclusion of all events where the reporter considered a possible relationship to pemetrexed and cisplatin).
-Clinically relevant toxicity that was reported in ≥1% and ≤5% (common) of the patients that were randomly assigned to receive cisplatin and pemetrexed include: AST increase, ALT increase, infection, febrile neutropenia, renal failure, pyrexia, dehydration, conjunctivitis, and creatinine clearance decrease.
+Clinically relevant toxicity that was reported in ≥ 1% and ≤ 5% (common) of the patients that were randomly assigned to receive cisplatin and pemetrexed include: AST increase, ALT increase, infection, febrile neutropenia, renal failure, pyrexia, dehydration, conjunctivitis, and creatinine clearance decrease.
 Clinically relevant toxicity that was reported in <1% (uncommon) of the patients that were randomly assigned to receive cisplatin and pemetrexed include: GGT increase, chest pain, arrhythmia, and motor neuropathy.
 Clinically relevant toxicities with respect to gender were similar to the overall population in patients receiving pemetrexed plus cisplatin.
 
@@ -168,19 +169,22 @@ Pancytopenia has been uncommonly reported during clinical trials with pemetrexed
 
 In clinical trials, cases of colitis (including intestinal and rectal bleeding, sometimes fatal, intestinal perforation, intestinal necrosis and typhlitis) have been reported uncommonly in patients treated with pemetrexed.
 
-In clinical trials, cases of interstitial pneumonitis with respiratory insufficiency, sometimes fatal, have been reported uncommonly in patients treated with pemetrexed..
+In clinical trials, cases of interstitial pneumonitis with respiratory insufficiency, sometimes fatal, have been reported uncommonly in patients treated with pemetrexed.
+
+Uncommon cases of oedema have been reported in patients treated with pemetrexed.
 
 During post marketing surveillance, the following adverse reactions have been reported in patients treated with pemetrexed:
 
 Cases of acute renal failure have been reported with pemetrexed alone or in association with other chemotherapeutic agents (see section 4.4).
 Cases of radiation pneumonitis have been reported in patients treated with radiation either prior, during or subsequent to their pemetrexed therapy (see section 4.4).
-Cases of radiation recall have been reported in patient who have received radiotherapy previously (see section 4.4)
+Cases of radiation recall have been reported in patients who have received radiotherapy previously (see section 4.4)
+Cases of peripheral ischemia leading sometimes to extremity necrosis have been reported.
 
 [ALIMTA 500 mg powder for concentrate for solution for infusion]
+
+Clinically relevant CTC toxicities that were reported in ≥ 1 % and < 5 % (common) of the patients that were randomly assigned to receive cisplatin and pemetrexed include: renal failure, infection, pyrexia, febrile neutropenia, increased AST, ALT, and GGT, urticaria and chest pain.
 
 *Refer to National Cancer Institute CTC version 2 for each grade of toxicity. **According to National Cancer Institute CTC (v2.0; NCI 1998), alopecia should only be reported as Grade 1 or 2.
 
 Platelets decreased 10.1* 4.1* 26.6* 12.7*
-urinary Common
-
-Cases of radiation recall have been reported in patients who have received radiotherapy previously (see section 4.4).
+Diarrhea without 12.4 1.3 12.8 1.6

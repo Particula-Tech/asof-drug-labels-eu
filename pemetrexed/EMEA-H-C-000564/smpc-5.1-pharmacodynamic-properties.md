@@ -108,8 +108,8 @@ AC AC
 Survival Time (months) Survival Time (months)
 
 There were no clinically relevant differences observed for the safety profile of ALIMTA plus cisplatin within the histology subgroups.
-Patients treated with ALIMTA and cisplatin required fewer transfusions (16.4% versus 28.9%, p<0.001), red blood cell transfusions (16.1% versus 27.3%, p<.001) and platelet transfusions (1.8% versus 4.5%, p=0.002).
-Patients also required lower administration of erythropoietin/darbopoietin (10.4% versus 18.1%, p<.001), G-CSF/GM-CSF (3.1% versus 6.1%, p=0.004), and iron preparations (4.3% versus 7.0%, p=0.021).
+Patients treated with ALIMTA and cisplatin required fewer transfusions (16.4% versus 28.9%, p<0.001), red blood cell transfusions (16.1% versus 27.3%, p<0.001) and platelet transfusions (1.8% versus 4.5%, p=0.002).
+Patients also required lower administration of erythropoietin/darbopoietin (10.4% versus 18.1%, p<0.001), G-CSF/GM-CSF (3.1% versus 6.1%, p=0.004), and iron preparations (4.3% versus 7.0%, p=0.021).
 
 [ALIMTA 500 mg powder for concentrate for solution for infusion]
 

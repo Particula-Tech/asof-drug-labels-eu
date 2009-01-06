@@ -6,7 +6,7 @@ Patients should be monitored for myelosuppression during therapy and pemetrexed 
 Dose reductions for subsequent cycles are based on nadir ANC, platelet count and maximum non-haematologic toxicity seen from the previous cycle (see section 4.2).
 
 Less toxicity and reduction in Grade 3/4 haematologic and non-haematologic toxicities such as neutropenia, febrile neutropenia and infection with Grade 3/4 neutropenia were reported when pre-treatment with folic acid and vitamin B12 was administered.
-Therefore all patients treated with pemetrexed must be instructed to take folic acid and vitamin B12 as a prophylactic measure to reduce treatment-related toxicity (see section 4.2).
+Therefore, all patients treated with pemetrexed must be instructed to take folic acid and vitamin B12 as a prophylactic measure to reduce treatment-related toxicity (see section 4.2).
 
 Skin reactions have been reported in patients not pre-treated with a corticosteroid.
 Pre-treatment with dexamethasone (or equivalent) can reduce the incidence and severity of skin reactions (see section 4.2).
@@ -15,7 +15,7 @@ An insufficient number of patients has been studied with creatinine clearance of
 Therefore, the use of pemetrexed in patients with creatinine clearance of < 45 ml/min is not recommended (see section 4.2).
 
 Patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 ml/min) should avoid taking non-steroidal anti-inflammatory drugs (NSAIDs) as ibuprofen, and aspirin (> 1.3 g daily) for 2 days before, on the day of, and 2 days following pemetrexed administration (see section 4.5).
-All patients eligible for pemetrexed therapy should avoid taking NSAIDs with long elimination half-lives for at least 5 days prior to, on the day, and at least 2 days following pemetrexed administration (see section 4.5).
+All patients eligible for pemetrexed therapy should avoid taking NSAIDs with long elimination half-lives for at least 5 days prior to, on the day of, and at least 2 days following pemetrexed administration (see section 4.5).
 
 Serious renal events, including acute renal failure, have been reported with pemetrexed alone or in association with other chemotherapeutic agents.
 Many of the patients in whom these occurred had underlying risk factors for the development of renal events including dehydration or pre-existing hypertension or diabetes.
@@ -42,7 +42,3 @@ Cases of radiation pneumonitis have been reported in patients treated with radia
 Particular attention should be paid to these patients and caution exercised with use of other radiosensitising agents.
 
 Cases of radiation recall have been reported in patients who received radiotherapy weeks or years previously.
-
-[ALIMTA 500 mg powder for concentrate for solution for infusion]
-
-Particular attention should be paid to these patients and caution exercised with use of other radiosensiting agents.

@@ -39,7 +39,7 @@ Upon recovery patients should be retreated using the guidelines in Tables 1, 2 a
 | Nadir platelets <50,000 /mm3 regardless of nadir ANC | 75 % of previous dose (both ALIMTA and cisplatin ). |
 | Nadir platelets <50,000/mm3 with bleedinga, regardless of nadir ANC. | 50% of previous dose (both drugs). |
 
-a These criteria meet the National Cancer Institute Common Toxicity Criteria (CTC) (v2.0; NCI 1998) definition of ≥CTC Grade 2 bleeding
+a These criteria meet the National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998) definition of ≥CTC Grade 2 bleeding
 
 If patients develop non-haematologic toxicities ≥ Grade 3 (excluding neurotoxicity), ALIMTA should be withheld until resolution to less than or equal to the patient’s pre-therapy value.
 Treatment should be resumed according to the guidelines in Table 2.
@@ -62,7 +62,7 @@ Patients should discontinue therapy if Grade 3 or 4 neurotoxicity is observed.
 | 0 – 1 | 100 % of previous dose | 100 % of previous dose |
 | 2 | 100 % of previous dose | 50 % of previous dose |
 
-a National Cancer Institute Common Toxicity Criteria (CTC v 2.0; NCI 1998)
+a National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998)
 
 Treatment with ALIMTA should be discontinued if a patient experiences any haematologic or non-haematologic Grade 3 or 4 toxicity after 2 doses reductions or immediately if Grade 3 or 4 neurotoxicity is observed.
 
@@ -71,7 +71,7 @@ No dose reductions other than those recommended for all patients are necessary.
 
 Children and adolescents: ALIMTA is not recommended for use in children below 18 years of age due to insufficient data on safety and efficacy.
 
-Patients with Renal Impairment (Standard Cockcroft and Gault formula or Glomerular Filtration Rate measured Tc99m-DPTA serum clearance method): pemetrexed is primarily eliminated unchanged by renal excretion.
+Patients with Renal Impairment (Standard Cockcroft and Gault formula or Glomerular Filtration Rate measured Tc99m-DPTA serum clearance method): Pemetrexed is primarily eliminated unchanged by renal excretion.
 In clinical studies, patients with creatinine clearance of ≥ 45 ml/min required no dose adjustments other than those recommended for all patients.
 There are insufficient data on the use of pemetrexed in patients with creatinine clearance below 45 ml/min; therefore the use of pemetrexed is not recommended (see section 4.4).
 
@@ -80,12 +80,8 @@ However patients with hepatic impairment such as bilirubin > 1.5 times the upper
 
 [ALIMTA 500 mg powder for concentrate for solution for infusion]
 
-ALIMTA as single agent: In patients treated for non-small cell lung cancer, after prior chemotherapy the recommended dose of ALIMTA is 500 mg/m2 BSA administered as an intravenous infusion over 10 minutes on the first day of each 21-day cycle.
-
 | Table 3 - Dose Modification for ALIMTA (as single agent or in combination) and Cisplatin – Neurotoxicity |  |  |
 | --- | --- | --- |
-| CTC* Grade | Dose of ALIMTA (mg/m2) | Dose for cisplatin (mg/m2) |
+| CTCa Grade | Dose of ALIMTA (mg/m2) | Dose for cisplatin (mg/m2) |
 | 0 – 1 | 100 % of previous dose | 100 % of previous dose |
 | 2 | 100 % of previous dose | 50 % of previous dose |
-
-a National Cancer Institute Common Toxicity Criteria (CTC v2.0; NCI 1998)
