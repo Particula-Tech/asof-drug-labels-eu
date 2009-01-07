@@ -10,7 +10,7 @@ Considerable inter- and intra-individual variability was observed in the pharmac
 The following drug interaction information is based on Geometric Mean values; the effect for an individual patient cannot be predicted precisely.
 
 Effect of raltegravir on the pharmacokinetics of other medicinal products
-In interaction studies, raltegravir did not have a clinically meaningful effect on the pharmacokinetics of tenofovir or midazolam.
+In interaction studies, raltegravir did not have a clinically meaningful effect on the pharmacokinetics of tenofovir, hormonal contraceptives, or midazolam.
 
 Effect of other agents on the pharmacokinetics of raltegravir
 Given that raltegravir is metabolised primarily via UGT1A1, caution should be used when co-administering ISENTRESS with strong inducers of UGT1A1 (e.g., rifampicin).
@@ -20,10 +20,12 @@ The impact of other strong inducers of drug metabolizing enzymes, such as phenyt
 Less potent inducers (e.g., efavirenz, nevirapine, rifabutin, glucocorticoids, St. John's wort, pioglitazone) may be used with the recommended dose of ISENTRESS.
 
 Co-administration of ISENTRESS with medicinal products that are known to be potent UGT1A1 inhibitors (e.g., atazanavir) may increase plasma levels of raltegravir.
+Less potent UGT1A1 inhibitors (e.g., indinavir, saquinavir) may also increase plasma levels of raltegravir, but to a lesser extent compared with atazanavir.
 In addition, tenofovir may increase plasma levels of raltegravir, however, the mechanism for this effect is unknown (see Table 1).
 From the clinical trials, a large proportion of patients used atazanavir and / or tenofovir, both agents that result in increases in raltegravir plasma levels, in the optimised background regimens.
 The safety profile observed in patients who used atazanavir and / or tenofovir was generally similar to the safety profile of patients who did not use these agents.
 Therefore no dose adjustment is required.
+
 In healthy subjects, co-administration of ISENTRESS with omeprazole increases raltegravir plasma levels.
 As the effects of increasing gastric pH on the absorption of raltegravir in HIV-infected patients are uncertain, use ISENTRESS with medicinal products that increase gastric pH (e.g., proton pump inhibitors and H2 antagonists) only if unavoidable.
 
@@ -34,17 +36,18 @@ Pharmacokinetic Interaction Data
 | --- | --- | --- |
 | ANTI-RETROVIRAL |  |  |
 | Protease inhibitors (PI) |  |  |
-| atazanavir /ritonavir (raltegravir 400 mg BID) | raltegravir AUC ↑41% raltegravir C12hr ↑77% raltegravir Cmax ↑24% (UGT1A1 inhibition) | No dose adjustment required for ISENTRESS. |
-| ritonavir (raltegravir 400 mg SD) | raltegravir AUC ↓16% raltegravir C12hr ↓1% raltegravir Cmax ↓24% | No dose adjustment required for ISENTRESS. |
-| tipranavir /ritonavir (raltegravir 400 mg BID) | raltegravir AUC ↓24% raltegravir C12hr ↓55% raltegravir Cmax ↓18% (UGT1A1 induction) | No dose adjustment required for ISENTRESS. |
+| atazanavir /ritonavir (raltegravir 400 mg BID) | raltegravir AUC ↑ 41 % raltegravir C12hr ↑ 77 % raltegravir Cmax ↑ 24 % (UGT1A1 inhibition) | No dose adjustment required for ISENTRESS. |
+| tipranavir /ritonavir (raltegravir 400 mg BID) | raltegravir AUC ↓ 24 % raltegravir C12hr ↓ 55 % raltegravir Cmax ↓ 18 % (UGT1A1 induction) | No dose adjustment required for ISENTRESS. |
 | Non-nucleoside reverse transcriptase inhibitors (NNRTIs) |  |  |
-| efavirenz (raltegravir 400 mg SD) | raltegravir AUC ↓36% raltegravir C12hr ↓21% raltegravir Cmax ↓36% (UGT1A1 induction) | No dose adjustment required for ISENTRESS |
+| efavirenz (raltegravir 400 mg SD) | raltegravir AUC ↓ 36 % raltegravir C12hr ↓ 21 % raltegravir Cmax ↓ 36 % (UGT1A1 induction) | No dose adjustment required for ISENTRESS |
 | Nucleoside/tide reverse transcriptase inhibitors |  |  |
-| tenofovir (raltegravir 400 mg BID) | raltegravir AUC ↑49% raltegravir C12hr ↑3% raltegravir Cmax ↑64% (mechanism of interaction unknown) tenofovir AUC ↓10% tenofovir C12hr ↓13% tenofovir Cmax ↓33% | No dose adjustment required for ISENTRESS or tenofovir disoproxil fumarate. |
+| tenofovir (raltegravir 400 mg BID) | raltegravir AUC ↑ 49 % raltegravir C12hr ↑ 3 % raltegravir Cmax ↑ 64 % (mechanism of interaction unknown) tenofovir AUC ↓ 10 % tenofovir C12hr ↓ 13 % tenofovir Cmax ↓ 23 % | No dose adjustment required for ISENTRESS or tenofovir disoproxil fumarate. |
 | ANTIMICROBIALS |  |  |
 | Antimycobacterial |  |  |
-| rifampicin (raltegravir 400 mg SD) | raltegravir AUC ↓40% raltegravir C12hr ↓61% raltegravir Cmax ↓38% (UGT1A1 induction) | Rifampicin reduces plasma levels of ISENTRESS. If co-administration with rifampicin is unavoidable, a doubling of the dose of ISENTRESS can be considered (see section 4.4). |
+| rifampicin (raltegravir 400 mg SD) | raltegravir AUC ↓ 40 % raltegravir C12hr ↓ 61 % raltegravir Cmax ↓ 38 % (UGT1A1 induction) | Rifampicin reduces plasma levels of ISENTRESS. If co-administration with rifampicin is unavoidable, a doubling of the dose of ISENTRESS can be considered (see section 4.4). |
 | SEDATIVE |  |  |
-| midazolam (raltegravir 400 mg BID) | midazolam AUC ↓8% midazolam Cmax ↑3% | No dosage adjustment required for ISENTRESS or midazolam. These results indicate that raltegravir is not an inducer or inhibitor of CYP3A4, and raltegravir is thus not anticipated to affect the pharmacokinetics of medicinal products which are CYP3A4 substrates. |
+| midazolam (raltegravir 400 mg BID) | midazolam AUC ↓ 8 % midazolam Cmax ↑ 3 % | No dosage adjustment required for ISENTRESS or midazolam. These results indicate that raltegravir is not an inducer or inhibitor of CYP3A4, and raltegravir is thus not anticipated to affect the pharmacokinetics of medicinal products which are CYP3A4 substrates. |
 | ANTIULCER |  |  |
-| omeprazole (raltegravir 400 mg SD) | raltegravir AUC ↑ 321% raltegravir C12 hr ↑ 146% raltegravir Cmax ↑ 415% | Co-administration of proton pump inhibitors or other antiulcer medicinal products may increase plasma levels of raltegravir. Do not use ISENTRESS with medicinal products that increase gastric pH unless this is unavoidable. |
+| omeprazole (raltegravir 400 mg SD) | raltegravir AUC ↑ 212 % raltegravir C12 hr ↑ 46 % raltegravir Cmax ↑ 315 % | Co-administration of proton pump inhibitors or other antiulcer medicinal products may increase plasma levels of raltegravir. Do not use ISENTRESS with medicinal products that increase gastric pH unless this is unavoidable. |
+| HORMONAL CONTRACEPTIVES |  |  |
+| Ethinyl Estradiol Norelgestromin (raltegravir 400 mg BID) | Ehinyl Estradiol AUC ↓ 2 % Ehinyl Estradiol Cmax ↑ 1 % Norelgestromin AUC ↑ 14 % Norelgestromin Cmax ↑ 29 % | No dosage adjustment required for ISENTRESS or hormonal contraceptives (estrogen-and/or progesterone-based) |

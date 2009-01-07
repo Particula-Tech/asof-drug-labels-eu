@@ -11,22 +11,22 @@ There is little to no accumulation in AUC and Cmax and evidence of slight accumu
 
 ISENTRESS may be administered with or without food.
 Raltegravir was administered without regard to food in the pivotal safety and efficacy studies in HIV-infected patients.
-Administration of multiple doses of raltegravir following a moderate-fat meal did not affect raltegravir AUC to a clinically meaningful degree with an increase of 13% relative to fasting.
-Raltegravir C12 hr was 66% higher and Cmax was 5% higher following a moderate-fat meal compared to fasting.
+Administration of multiple doses of raltegravir following a moderate-fat meal did not affect raltegravir AUC to a clinically meaningful degree with an increase of 13 % relative to fasting.
+Raltegravir C12 hr was 66 % higher and Cmax was 5 % higher following a moderate-fat meal compared to fasting.
 Administration of raltegravir following a high-fat meal increased AUC and Cmax by approximately 2-fold and increased C12 hr by 4.1-fold.
-Administration of raltegravir following a low-fat meal decreased AUC and Cmax by 46% and 52%, respectively; C12 hr was essentially unchanged.
+Administration of raltegravir following a low-fat meal decreased AUC and Cmax by 46 % and 52 %, respectively; C12 hr was essentially unchanged.
 Food appears to increase pharmacokinetic variability relative to fasting.
 
 Overall, considerable variability was observed in the pharmacokinetics of raltegravir.
-For observed C12hr in BENCHMRK 1 and 2 the coefficient of variation (CV) for inter-subject variability = 212% and the CV for intra-subject variability = 122%.
+For observed C12hr in BENCHMRK 1 and 2 the coefficient of variation (CV) for inter-subject variability = 212 % and the CV for intra-subject variability = 122 %.
 Sources of variability may include differences in co-administration with food and concomitant medications.
 
 Distribution
-Raltegravir is approximately 83% bound to human plasma protein over the concentration range of 2 to 10 µM.
+Raltegravir is approximately 83 % bound to human plasma protein over the concentration range of 2 to 10 µM.
 Raltegravir readily crossed the placenta in rats, but did not penetrate the brain to any appreciable extent.
 
 Metabolism and excretion
-The apparent terminal half-life of raltegravir is approximately 9 hours, with a shorter �-phase half-life (~1 hour) accounting for much of the AUC.
+The apparent terminal half-life of raltegravir is approximately 9 hours, with a shorter α-phase half-life (~1 hour) accounting for much of the AUC.
 Following administration of an oral dose of radiolabeled raltegravir, approximately 51 and 32 % of the dose was excreted in faeces and urine, respectively.
 In faeces, only raltegravir was present, most of which is likely to be derived from hydrolysis of raltegravir-glucuronide secreted in bile as observed in preclinical species.
 Two components, namely raltegravir and raltegravir-glucuronide, were detected in urine and accounted for approximately 9 and 23 % of the dose, respectively.
@@ -35,7 +35,7 @@ Studies using isoform-selective chemical inhibitors and cDNA-expressed UDP-glucu
 Thus the data indicate that the major mechanism of clearance of raltegravir in humans is UGT1A1-mediated glucuronidation.
 
 UGT1A1 Polymorphism
-In a comparison of 30 subjects with *28/*28 genotype to 27 subjects with wild-type genotype, the geometric mean ratio (90% CI) of AUC was 1.41 (0.96, 2.09) and the geometric mean ratio of C12 hr was 1.91 (1.43, 2.55).
+In a comparison of 30 subjects with *28/*28 genotype to 27 subjects with wild-type genotype, the geometric mean ratio (90 % CI) of AUC was 1.41 (0.96, 2.09) and the geometric mean ratio of C12 hr was 1.91 (1.43, 2.55).
 Dose adjustment is not considered necessary in subjects with reduced UGT1A1 activity due to genetic polymorphism.
 
 Special populations
@@ -53,7 +53,6 @@ Renal impairment
 Renal clearance of unchanged medicinal product is a minor pathway of elimination.
 There were no clinically important pharmacokinetic differences between patients with severe renal insufficiency and healthy subjects (see section 4.2).
 Because the extent to which ISENTRESS may be dialysable is unknown, dosing before a dialysis session should be avoided.
-
 Hepatic impairment
 Raltegravir is eliminated primarily by glucuronidation in the liver.
 There were no clinically important pharmacokinetic differences between patients with moderate hepatic insufficiency and healthy subjects.

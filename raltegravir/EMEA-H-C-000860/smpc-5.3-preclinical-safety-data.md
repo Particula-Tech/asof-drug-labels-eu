@@ -2,6 +2,7 @@
 
 Non-clinical toxicology studies, including conventional studies of safety pharmacology, repeated-dose toxicity, genotoxicity, and developmental toxicity, have been conducted with raltegravir, in mice, rats, dogs and rabbits.
 Effects at exposure levels sufficiently in excess of clinical exposure levels indicate no special hazard for humans.
+
 Mutagenicity
 No evidence of mutagenicity or genotoxicity was observed in in vitro microbial mutagenesis
 (Ames) tests, in vitro alkaline elution assays for DNA breakage and in vitro and in vivo chromosomal aberration studies.

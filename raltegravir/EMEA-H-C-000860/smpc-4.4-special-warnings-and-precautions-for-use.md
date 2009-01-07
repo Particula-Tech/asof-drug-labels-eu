@@ -5,8 +5,8 @@ Appropriate precautions should continue to be employed.
 
 Overall, considerable inter- and intra-subject variability was observed in the pharmacokinetics of raltegravir (see sections 4.5 and 5.2).
 
-Higher response rates were observed in patients with Genotypic Sensitivity Score (GSS)>0.
-Patients with GSS or Phenotypic Sensitivity Score (PSS)=0 had a higher risk of developing resistance to raltegravir (see section 5.1).
+Higher response rates were observed in patients with Genotypic Sensitivity Score (GSS) > 0.
+Patients with GSS or Phenotypic Sensitivity Score (PSS) = 0 had a higher risk of developing resistance to raltegravir (see section 5.1).
 Raltegravir should be used in combination with at least one other active agent to enhance benefit and to reduce the risk of virologic failure and development of resistance to raltegravir.
 
 The safety and efficacy of ISENTRESS have not been established in patients with severe underlying liver disorders.
