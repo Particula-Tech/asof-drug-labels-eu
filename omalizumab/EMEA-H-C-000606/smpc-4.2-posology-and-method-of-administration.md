@@ -5,7 +5,7 @@ Xolair treatment should be initiated by physicians experienced in the diagnosis 
 
 The appropriate dose and dosing frequency of Xolair is determined by baseline IgE (IU/ml), measured before the start of treatment, and body weight (kg).
 Prior to initial dosing, patients should have their IgE level determined by any commercial serum total IgE assay for their dose assignment.
-Based on these measurements 75–375 mg of Xolair in 1 to 3 injections may be needed for each administration.
+Based on these measurements 75-375 mg of Xolair in 1 to 3 injections may be needed for each administration.
 
 Patients with IgE lower than 76 IU/ml were less likely to experience benefit (see section 5.1).
 Prescribing physicians should ensure that patients with IgE below 76 IU/ml have unequivocal in vitro reactivity (RAST) to a perennial allergen before starting therapy.
@@ -13,8 +13,8 @@ Prescribing physicians should ensure that patients with IgE below 76 IU/ml have 
 See Table 1 for a conversion chart and Tables 2 and 3 for the dose determination charts.
 
 Patients whose baseline IgE levels or body weight in kilograms are outside the limits of the dosing table should not be given Xolair.
-
 The maximum recommended dose is 375 mg omalizumab every two weeks.
+
 For subcutaneous administration only.
 Do not administer by the intravenous or intramuscular route.
 
@@ -48,14 +48,14 @@ Body weight (kg)
 Baseline
 IgE >90- >125-
 (IU/ml) >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150
-≥30–100 75 75 75 150 150 150 150 150 300 300
->100–200 150 150 150 300 300 300 300 300
->200–300 150 150 225 300 300
->300–400 225 225 300
->400–500 225 300 ADMINISTRATION EVERY 2 WEEKS
+≥30-100 75 75 75 150 150 150 150 150 300 300
+>100-200 150 150 150 300 300 300 300 300
+>200-300 150 150 225 300 300
+>300-400 225 225 300
+>400-500 225 300 ADMINISTRATION EVERY 2 WEEKS
 SEE TABLE 3
->500–600 300 300
->600–700 300
+>500-600 300 300
+>600-700 300
 
 Table 3: ADMINSTRATION EVERY 2 WEEKS.
 Xolair doses (milligrams per dose) administered by subcutaneous injection every 2 weeks
@@ -64,15 +64,15 @@ Body weight (kg)
 Baseline
 IgE >90- >125-
 (IU/ml) >20-25 >25-30 >30-40 >40-50 >50-60 >60-70 >70-80 >80-90 125 150
-≥30–100 ADMINISTRATION EVERY 4 WEEKS
+≥30-100 ADMINISTRATION EVERY 4 WEEKS
 SEE TABLE 2
->100–200 225 300
->200–300 225 225 225 300 375
->300–400 225 225 225 300 300
->400–500 225 225 300 300 375 375
->500–600 225 300 300 375 DO NOT ADMINISTER – data is
+>100-200 225 300
+>200-300 225 225 225 300 375
+>300-400 225 225 225 300 300
+>400-500 225 225 300 300 375 375
+>500-600 225 300 300 375 DO NOT ADMINISTER – data is
 unavailable for dose
->600–700 225 225 300 375 recommendation
+>600-700 225 225 300 375 recommendation
 
 Treatment duration, monitoring and dose adjustments
 Discontinuation of Xolair treatment generally results in a return to elevated free IgE levels and associated symptoms.

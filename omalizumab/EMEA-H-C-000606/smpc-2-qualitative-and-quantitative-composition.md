@@ -6,7 +6,7 @@ Omalizumab is a humanised monoclonal antibody manufactured by recombinant DNA te
 
 After reconstitution the vial contains 125 mg/ml of omalizumab (75 mg in 0.6 ml).
 
-For excipients, see section 6.1.
+For a full list of excipients, see section 6.1.
 
 [Xolair 150 mg powder and solvent for solution for injection]
 
