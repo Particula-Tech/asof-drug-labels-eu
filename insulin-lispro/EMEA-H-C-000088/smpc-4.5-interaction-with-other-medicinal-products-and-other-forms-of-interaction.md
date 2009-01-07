@@ -36,11 +36,11 @@ The physician should be consulted when using other medications in addition to Hu
 
 Insulin requirements may be reduced in the presence of substances with hypoglycaemic activity, such as oral hypoglycaemics, salicylates (for example, acetylsalicylic acid), sulpha antibiotics, certain antidepressants, (monoamine oxidase inhibitors), certain angiotensin converting enzyme inhibitors (captopril, enalapril), angiotensin II receptor blockers, beta-blockers, octreotide or alcohol.
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
-Mixing Humalog NPL with insulins other than Humalog has not been studied.
+Mixing Humalog BASAL with insulins other than Humalog has not been studied.
 
-The physician should be consulted when using other medications in addition to Humalog NPL.
+The physician should be consulted when using other medications in addition to Humalog BASAL.
 
 [Humalog-Humaject 100 U/ml, solution for injection]
 
@@ -60,9 +60,9 @@ The physician should be consulted when using other medications in addition to Hu
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
-The physician should be consulted when using other medications in addition to Humalog NPL 100 U/ml Pen.
+The physician should be consulted when using other medications in addition to Humalog BASAL 100 U/ml Pen.
 
 [Humalog 100 U/ml KwikPen, solution for injection]
 
@@ -76,6 +76,6 @@ The physician should be consulted when using other medications in addition to Hu
 
 The physician should be consulted when using other medications in addition to Humalog Mix50 KwikPen.
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
-The physician should be consulted when using other medications in addition to Humalog NPL 100 U/ml KwikPen.
+The physician should be consulted when using other medications in addition to Humalog BASAL 100 U/ml KwikPen.

@@ -25,9 +25,9 @@ Humalog Mix50 consists of 50% insulin lispro solution and 50% insulin lispro pro
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
-Humalog NPL consists of insulin lispro protamine suspension.
+Humalog BASAL consists of insulin lispro protamine suspension.
 
 [Humalog-Humaject 100 U/ml, solution for injection]
 
@@ -45,7 +45,7 @@ Humalog NPL consists of insulin lispro protamine suspension.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
 (all sentences already above)
 
@@ -61,6 +61,6 @@ Humalog NPL consists of insulin lispro protamine suspension.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)

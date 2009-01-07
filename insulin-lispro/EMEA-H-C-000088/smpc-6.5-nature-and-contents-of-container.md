@@ -41,10 +41,10 @@ Dimeticone or silicone emulsion may have been used to treat the cartridge plunge
 5 x 3 ml Humalog Mix50 cartridges for a 3 ml pen.
 2 x (5 x 3 ml) Humalog Mix50 cartridges for a 3 ml pen.
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
-5 x 3 ml Humalog NPL cartridges for a 3 ml pen
-2 x (5 x 3 ml) Humalog NPL cartridges for a 3 ml pen
+5 x 3 ml Humalog BASAL cartridges for a 3 ml pen
+2 x (5 x 3 ml) Humalog BASAL cartridges for a 3 ml pen
 
 [Humalog-Humaject 100 U/ml, solution for injection]
 
@@ -76,10 +76,10 @@ The 3 ml cartridges are sealed in a disposable pen injector, called the “Pen�
 5 x 3 ml Humalog Mix50 100 U/ml Pens
 2 x (5 x 3 ml) Humalog Mix50 100 U/ml Pens.
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
-5 x 3 ml Humalog NPL 100 U/ml Pens
-2 x (5 x 3 ml) Humalog NPL 100 U/ml Pens
+5 x 3 ml Humalog BASAL 100 U/ml Pens
+2 x (5 x 3 ml) Humalog BASAL 100 U/ml Pens
 
 [Humalog 100 U/ml KwikPen, solution for injection]
 
@@ -98,7 +98,7 @@ The 3 ml cartridges are sealed in a disposable pen injector, called the “KwikP
 5 x 3 ml Humalog Mix50 100 U/ml KwikPens
 2 x (5 x 3 ml) Humalog Mix50 100 U/ml KwikPens.
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
-5 x 3 ml Humalog NPL 100 U/ml KwikPens
-2 x (5 x 3 ml) Humalog NPL 100 U/ml KwikPens
+5 x 3 ml Humalog BASAL 100 U/ml KwikPens
+2 x (5 x 3 ml) Humalog BASAL 100 U/ml KwikPens

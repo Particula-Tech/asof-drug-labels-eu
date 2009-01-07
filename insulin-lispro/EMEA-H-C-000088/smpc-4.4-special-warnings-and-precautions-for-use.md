@@ -49,9 +49,9 @@ Under no circumstances should Humalog Mix50 be given intravenously.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
-Under no circumstances should Humalog NPL be given intravenously.
+Under no circumstances should Humalog BASAL be given intravenously.
 
 [Humalog-Humaject 100 U/ml, solution for injection]
 
@@ -69,7 +69,7 @@ Under no circumstances should Humalog NPL be given intravenously.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
 (all sentences already above)
 
@@ -85,6 +85,6 @@ Under no circumstances should Humalog NPL be given intravenously.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)

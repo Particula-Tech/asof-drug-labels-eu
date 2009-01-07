@@ -36,7 +36,7 @@ Sustained carbohydrate intake and observation may be necessary because hypoglyca
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
 (all sentences already above)
 
@@ -56,7 +56,7 @@ Sustained carbohydrate intake and observation may be necessary because hypoglyca
 
 Hypoglycaemia may occur as a result of an excess of insulin acitivity relative to food intake and energy expenditure.
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
 (all sentences already above)
 
@@ -72,6 +72,6 @@ Hypoglycaemia may occur as a result of an excess of insulin acitivity relative t
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)

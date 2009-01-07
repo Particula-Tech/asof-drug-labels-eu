@@ -22,7 +22,7 @@ Eli Lilly Nederland B V., Grootslag 1-5, 3991 RA Houten, The Netherlands.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
 (all sentences already above)
 
@@ -42,7 +42,7 @@ Eli Lilly Nederland B V., Grootslag 1-5, 3991 RA Houten, The Netherlands.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
 (all sentences already above)
 
@@ -58,6 +58,6 @@ Eli Lilly Nederland B V., Grootslag 1-5, 3991 RA Houten, The Netherlands.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)

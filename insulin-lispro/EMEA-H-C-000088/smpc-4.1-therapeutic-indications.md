@@ -23,9 +23,9 @@ Humalog Mix50 is indicated for the treatment of patients with diabetes mellitus 
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
-Humalog NPL is indicated for the treatment of patients with diabetes mellitus who require insulin for the maintenance of normal glucose homeostasis.
+Humalog BASAL is indicated for the treatment of patients with diabetes mellitus who require insulin for the maintenance of normal glucose homeostasis.
 
 [Humalog-Humaject 100 U/ml, solution for injection]
 
@@ -43,7 +43,7 @@ Humalog Pen is also indicated for the initial stabilisation of diabetes mellitus
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
 (all sentences already above)
 
@@ -59,6 +59,6 @@ Humalog KwikPen is also indicated for the initial stabilisation of diabetes mell
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)

@@ -26,9 +26,9 @@ Humalog Mix50 is a white sterile suspension.
 
 Humalog Mix50 is a white, sterile suspension.
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
-Humalog NPL is a white, sterile suspension.
+Humalog BASAL is a white, sterile suspension.
 
 [Humalog-Humaject 100 U/ml, solution for injection]
 
@@ -46,7 +46,7 @@ Humalog Pen is a sterile, clear, colourless, aqueous solution.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
 (all sentences already above)
 
@@ -62,6 +62,6 @@ Humalog KwikPen is a sterile, clear, colourless, aqueous solution.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)

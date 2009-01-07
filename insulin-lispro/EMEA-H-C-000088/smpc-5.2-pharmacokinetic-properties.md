@@ -28,9 +28,9 @@ The pharmacokinetics of Humalog Mix50 are representative of the individual pharm
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
-Humalog NPL has a prolonged absorption profile, achieving a maximum insulin concentration approximately 6 hours after dosing.
+Humalog BASAL has a prolonged absorption profile, achieving a maximum insulin concentration approximately 6 hours after dosing.
 When considering the clinical relevance of these kinetics, it is more appropriate to examine the glucose utilisation curves.
 
 [Humalog-Humaject 100 U/ml, solution for injection]
@@ -49,7 +49,7 @@ When considering the clinical relevance of these kinetics, it is more appropriat
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
 When considering the clinical relevance of these kinetics, it is more appropriate to examine the glucose utilisation curves properties.
 
@@ -65,6 +65,6 @@ When considering the clinical relevance of these kinetics, it is more appropriat
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)

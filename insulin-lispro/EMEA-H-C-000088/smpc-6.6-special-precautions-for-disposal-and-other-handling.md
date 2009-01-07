@@ -144,7 +144,6 @@ If not, repeat the above procedure until contents are mixed.
 Cartridges contain a small glass bead to assist mixing.
 
 The cartridges should be examined frequently and should not be used if clumps of material are present or if solid white particles stick to the bottom or wall of the cartridge, giving a frosted appearance.
-
 Humalog Mix25 cartridges are not designed to allow any other insulin to be mixed in the cartridge.
 Cartridges are not designed to be refilled.
 
@@ -169,13 +168,13 @@ Cartridges containing Humalog Mix50 should be rotated in the palms of the hands 
 
 Humalog Mix50 cartridges are not designed to allow any other insulin to be mixed in the cartridge .
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
-Humalog NPL cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
+Humalog BASAL cartridges are to be used with a CE marked pen as recommended in the information provided by the device manufacturer.
 
-Cartridges containing Humalog NPL should be rotated in the palms of the hands ten times and inverted 180° ten times immediately before use to resuspend the insulin until it appears uniformly cloudy or milky.
+Cartridges containing Humalog BASAL should be rotated in the palms of the hands ten times and inverted 180° ten times immediately before use to resuspend the insulin until it appears uniformly cloudy or milky.
 
-Humalog NPL cartridges are not designed to allow any other insulin to be mixed in the cartridge .
+Humalog BASAL cartridges are not designed to allow any other insulin to be mixed in the cartridge .
 
 [Humalog-Humaject 100 U/ml, solution for injection]
 
@@ -301,9 +300,9 @@ A dose greater than the number of units remaining in the cartridge cannot be dia
 
 Inspect the Humalog Mix50 Pen.
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
-Inspect the Humalog NPL 100 U/ml Pen.
+Inspect the Humalog BASAL 100 U/ml Pen.
 
 Pull the needle out and apply gentle pressure over the injection site for several seconds.Do not rub the area.
 
@@ -325,6 +324,6 @@ Handling of the pre-filled pen
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)

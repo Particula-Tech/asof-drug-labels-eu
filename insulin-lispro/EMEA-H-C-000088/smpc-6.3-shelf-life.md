@@ -26,7 +26,7 @@ After first use of the vial , the suspension should be used within 28 days, when
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
 After insertion of the cartridge in a pen, the suspension should be used in 21 days when stored below 30°C.
 
@@ -46,7 +46,7 @@ After first use of the pen, the suspension should be used within 28 days, when s
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
 After first use of the pen, the suspension should be used within 21 days, when stored below 30°C.
 
@@ -62,6 +62,6 @@ After first use of the pen, the suspension should be used within 21 days, when s
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)

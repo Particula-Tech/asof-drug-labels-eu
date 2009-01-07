@@ -29,7 +29,7 @@ Patients with diabetes who are breast-feeding may require adjustments in insulin
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
 (all sentences already above)
 
@@ -49,7 +49,7 @@ Patients with diabetes who are breast-feeding may require adjustments in insulin
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
 (all sentences already above)
 
@@ -65,6 +65,6 @@ Patients with diabetes who are breast-feeding may require adjustments in insulin
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)

@@ -54,17 +54,17 @@ Pharmaco-therapeutic group: ATC Code: A10A D04.
 Humalog Mix25 is a premixed suspension consisting of insulin lispro (fast-acting human insulin analogue) and insulin lispro protamine suspension (intermediate acting human insulin analogue).
 
 The rapid onset and early peak of activity of insulin lispro is observed following the subcutaneous administration of Humalog Mix25.
-NPL has an activity profile that is very similar to that of a basal insulin (NPH) over a period of approximately 15 hours.
+Humalog BASAL has an activity profile that is very similar to that of a basal insulin (NPH) over a period of approximately 15 hours.
 
 Clinical trials in patients with type 1 and type 2 diabetes have demonstrated reduced postprandial hyperglycaemia with Humalog Mix25 compared to human insulin mixture 30/70.
 In one clinical study there was a small (0.38 mmol/l) increase in blood glucose levels at night (3a.m.).
 
-In the figure below the pharmacodynamics of Humalog Mix25 and NPL are illustrated.
+In the figure below the pharmacodynamics of Humalog Mix25 and BASAL are illustrated.
 
 Hypoglycemic Activity
 
 Humalog Mix25
-NPL
+Humalog Basal
 0 4 8 12 16 20 24
 
 Time, hours
@@ -93,20 +93,20 @@ Hypoglycaemic activity
 Humalog Mix50 is a premixed suspension consisting of insulin lispro (fast-acting human insulin analogue) and insulin lispro protamine suspension (intermediate acting human insulin analogue).
 
 The rapid onset and early peak of activity of insulin lispro is observed following the subcutaneous administration of Humalog Mix50.
-In the figure below the pharmacodynamics of Humalog Mix50 and NPL are illustrated.
+In the figure below the pharmacodynamics of Humalog Mix50 and BASAL are illustrated.
 
 Humalog Mix50
+
+0 4 8 1 1 2 2
 
 [Humalog Mix50 100 U/ml suspension for injection in cartridge]
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
 Pharmaco-therapeutic group: Intermediate acting human insulin analogue.
 ATC Code: A10A C04.
-
-Humalog NPL has an activity profile that is very similar to that of a basal insulin (NPH) over a period of approximately 15 hours.
 
 [Humalog-Humaject 100 U/ml, solution for injection]
 
@@ -132,7 +132,7 @@ ATC Code: A10A D04.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
 (all sentences already above)
 
@@ -148,6 +148,6 @@ ATC Code: A10A D04.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)

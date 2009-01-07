@@ -24,9 +24,9 @@ Mixing Humalog Mix50 with other insulins has not been studied.
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml suspension for injection in cartridge]
+[Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
-Mixing Humalog NPL with insulins other than Humalog has not been studied.
+Mixing Humalog BASAL with insulins other than Humalog has not been studied.
 This medicinal product must not be mixed with other medicinal products than Humalog.
 
 [Humalog-Humaject 100 U/ml, solution for injection]
@@ -45,7 +45,7 @@ This medicinal product must not be mixed with other medicinal products than Huma
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml Pen, suspension for injection]
+[Humalog BASAL 100 U/ml Pen, suspension for injection]
 
 (all sentences already above)
 
@@ -61,6 +61,6 @@ This medicinal product must not be mixed with other medicinal products than Huma
 
 (all sentences already above)
 
-[Humalog NPL 100 U/ml KwikPen, suspension for injection]
+[Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
 (all sentences already above)
