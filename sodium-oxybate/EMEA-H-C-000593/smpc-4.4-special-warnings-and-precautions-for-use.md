@@ -14,7 +14,6 @@ Therefore, patients should be warned against the use of alcohol in conjunction w
 
 Patients with porphyria
 Sodium oxybate is considered to be unsafe in patients with porphyria because it has been shown to be porphyrogenic in animals or in-vitro systems.
-
 Respiratory depression
 Sodium oxybate also has the potential to induce respiratory depression.
 Apnoea and respiratory depression have been observed in a fasting healthy subject after a single intake of 4.5g (twice the recommended starting dose).
@@ -44,7 +43,7 @@ The risk of injury or self-harm should be borne in mind in any patient with slee
 Therefore, episodes of sleepwalking should be fully evaluated and appropriate interventions considered.
 
 Sodium intake
-Patients taking sodium oxybate will have an additional daily intake of sodium that ranges from 0.75g (for a 4.5g/day (9ml) Xyrem dose) to 1.6g (for a 9g/day (18ml) Xyrem dose).
+Patients taking sodium oxybate will have an additional daily intake of sodium that ranges from 0.82g (for a 4.5g/day Xyrem dose) to 1.6g (for a 9g/day Xyrem dose).
 A dietary recommendation to reduce sodium intake should be carefully considered in the management of patients with heart failure, hypertension or compromised renal function.
 (see section 4.2).
 
@@ -58,7 +57,6 @@ Therefore, elderly patients should be monitored closely for impaired motor and/o
 
 Childhood and adolescence
 Safety and effectiveness in children and adolescents has not been established, therefore use in patients under 18 years of age is not recommended.
-
 Epileptic patients
 Seizures have been observed in patients treated with sodium oxybate.
 In patients with epilepsy, the safety and efficacy of sodium oxybate has not been established, therefore use is not recommended.

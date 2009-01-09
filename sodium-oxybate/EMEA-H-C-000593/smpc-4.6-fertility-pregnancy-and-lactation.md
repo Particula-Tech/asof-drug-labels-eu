@@ -6,7 +6,6 @@ There are no adequate data on the use of sodium oxybate during the first trimest
 Limited data from pregnant patients during second and third trimester indicate no malformative nor foeto/neonatal toxicity of sodium oxybate.
 
 Sodium oxybate is not recommended during pregnancy.
-
 Lactation
 It is not known whether sodium oxybate is excreted into breast milk.
 Breastfeeding is not recommended when treating with Xyrem.

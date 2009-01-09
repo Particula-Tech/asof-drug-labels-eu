@@ -35,6 +35,7 @@ Gastrointestinal disorders:
 Very common: nausea (the frequency of nausea is higher in women than men)
 Common: vomiting, upper abdominal pain, diarrhoea
 Uncommon: faecal incontinence
+
 Skin and subcutaneous tissue disorders:
 Common: sweating
 Uncommon: rash

@@ -25,7 +25,6 @@ EDS – Excessive daytime sleepiness; ESS – Epworth Sleepiness Scale; MWT – 
 
 Trial 1 enrolled 246 patients with narcolepsy and incorporated a 1 week up-titration period.
 The primary measures of efficacy were changes in excessive daytime sleepiness as measured by the Epworth Sleepiness Scale (ESS), and the change in the overall severity of the patient’s narcolepsy symptoms as assessed by the investigator using the Clinical Global Impressions of Change (CGI-c) measure.
-
 Table 2 Summary of ESS in Trial 1
 
 | Epworth Sleepiness Scale (ESS; range 0-24) |  |  |  |  |
@@ -65,8 +64,7 @@ Table 4 Summary of MWT in Trial 2
 
 Trial 3 enrolled 136 narcoleptic patients with moderate to severe cataplexy (median of 21 cataplexy attacks per week) at baseline.
 The primary efficacy measure in this trial was the frequency of cataplexy attacks.
-
-Table 5Summary of Outcomes in Trial 3
+Table 5 Summary of Outcomes in Trial 3
 
 | Dosage | Number of Subjects | Cataplexy Attacks |  |  |
 | --- | --- | --- | --- | --- |
@@ -75,8 +73,7 @@ Table 5Summary of Outcomes in Trial 3
 | Placebo | 33 | 20.5 | -4 | - |
 | 3.0 g/day | 33 | 20.0 | -7 | 0.5235 |
 | 6.0 g/day | 31 | 23.0 | -10 | 0.0529 |
-
-9.0 g/day 33 23.5 -16 0.0008
+| 9.0 g/day | 33 | 23.5 | -16 | 0.0008 |
 
 Trial 4 enrolled 55 narcoleptic patients who had been taking open-label sodium oxybate for 7 to 44 months.
 Patients were randomised to continued treatment with sodium oxybate at their stable dose or to placebo.
