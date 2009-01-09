@@ -2,18 +2,21 @@
 
 Therapy should be initiated by a physician experienced in the diagnosis and treatment of patients with leukaemia.
 
-The recommended starting dosage of SPRYCEL for chronic phase CML is 100 mg once daily, administered orally, consistently either in the morning or in the evening (see sections 4.4, 4.8 and 5.1).
-The recommended starting dosage of SPRYCEL for accelerated, myeloid or lymphoid blast phase (advanced phase) CML or Ph+ALL is 70 mg twice daily administered orally, one tablet in the morning and one in the evening (see sections 4.8 and 5.1).
+The recommended starting dose for chronic phase CML is 100 mg dasatinib once daily, administered orally, consistently either in the morning or in the evening (see section 4.4).
+
+The recommended starting dose for accelerated, myeloid or lymphoid blast phase (advanced phase) CML or Ph+ALL is 70 mg twice daily administered orally, one tablet in the morning and one in the evening.
+
 Tablets must not be crushed or cut, they must be swallowed whole.
 SPRYCEL can be taken with or without a meal.
-To achieve the recommended dosage, SPRYCEL is available as 20 mg, 50 mg and 70 mg film-coated tablets.
-Dose increase or reduction is recommended based on patient response and tolerability.
 
 Treatment duration: in clinical trials, treatment with SPRYCEL was continued until disease progression or until no longer tolerated by the patient.
 The effect of stopping treatment after the achievement of a complete cytogenetic response (CCyR) has not been investigated.
 
+To achieve the recommended dose, SPRYCEL is available as 20 mg, 50 mg, 70 mg and 100 mg film-coated tablets.
+Dose increase or reduction is recommended based on patient response and tolerability.
 Dose escalation:
-In clinical trials of adult CML and Ph+ ALL patients, dose escalation to 140 mg once daily (chronic phase CML) or 100 mg twice daily (advanced phase CML or Ph+ ALL) was allowed in patients who did not achieve a haematologic or cytogenetic response at the recommended starting dosage.
+In clinical trials of adult CML and Ph+ ALL patients, dose escalation to 140 mg once daily (chronic phase CML) or 100 mg twice daily (advanced phase CML or Ph+ ALL) was allowed in patients who did not achieve a haematologic or cytogenetic response at the recommended starting dose.
+
 Dose adjustment for undesirable effects:
 
 Myelosuppression:
@@ -31,17 +34,16 @@ Table 1: Dose adjustments for neutropenia and thrombocytopenia
 ANC: absolute neutrophil count
 
 Non-haematological adverse reactions:
-If a severe non-haematological adverse reaction develops with SPRYCEL, treatment must be withheld until the event has resolved.
+If a severe non-haematological adverse reaction develops with dasatinib, treatment must be withheld until the event has resolved.
 Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the initial severity of the event.
 
-Paediatric use: SPRYCEL is not recommended for use in children and adolescents below 18 years of age due to a lack of data on safety and efficacy (see section 5.1).
+Paediatric patients: SPRYCEL is not recommended for use in children and adolescents below 18 years of age due to a lack of data on safety and efficacy (see section 5.1).
 
 Elderly patients: no clinically relevant age-related pharmacokinetic differences have been observed in these patients.
 No specific dose recommendation is necessary in the elderly.
-
-Hepatic impairment: no clinical trials were conducted with SPRYCEL in patients with decreased liver function (trials excluded patients with ALT and/or AST > 2.5 times the upper limit of the normal range and/or total bilirubin > 2 times the upper limit of the normal range).
+Hepatic impairment: no clinical trials were conducted with SPRYCEL in patients with moderate to severe hepatic impairment (trials excluded patients with ALT and/or AST > 2.5 times the upper limit of the normal range and/or total bilirubin > 2 times the upper limit of the normal range).
 Since dasatinib is mainly metabolised through the liver, exposure to dasatinib is expected to increase if liver function is impaired.
-SPRYCEL should be used with caution in patients with moderate to severe hepatic impairment (see sections 4.4 and 4.8).
+SPRYCEL should be used with caution in patients with moderate to severe hepatic impairment (see section 4.4).
 
 Renal impairment: no clinical trials were conducted with SPRYCEL in patients with decreased renal function (trials excluded patients with serum creatinine concentration > 1.5 times the upper limit of the normal range).
 Since the renal clearance of dasatinib and its metabolites is < 4%, a decrease in total body clearance is not expected in patients with renal insufficiency.

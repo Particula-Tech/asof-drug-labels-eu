@@ -9,3 +9,7 @@ SPRYCEL 50 mg film-coated tablets
 [SPRYCEL 70 mg film-coated tablets]
 
 SPRYCEL 70 mg film-coated tablets
+
+[SPRYCEL 100 mg film-coated tablets]
+
+SPRYCEL 100 mg film-coated tablets

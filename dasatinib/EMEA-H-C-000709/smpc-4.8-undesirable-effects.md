@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-The data described below reflect exposure to SPRYCEL in 2,182 patients in clinical trials (starting dosage 100 mg once daily, 140 mg once daily, 50 mg twice daily, or 70 mg twice daily).
+The data described below reflect exposure to SPRYCEL in 2,182 patients in clinical trials (starting dose 100 mg once daily, 140 mg once daily, 50 mg twice daily, or 70 mg twice daily).
 Of the 2,182 patients treated, 25% were ≥ 65 years of age, while 5% were ≥ 75 years of age.
 The median duration of therapy was 11 months (range 0.03 -31 months).
 
@@ -32,7 +32,8 @@ Treatment with SPRYCEL is associated with anaemia, neutropenia and thrombocytope
 Their occurrence is more frequent in patients with advanced phase CML or Ph+ ALL than in chronic phase CML (see section 4.4).
 
 In the Phase III dose-optimisation study in patients with chronic phase CML (median duration of treatment approximately 8 months), the incidence of pleural effusion and congestive heart failure/cardiac dysfunction was lower in patients treated with SPRYCEL 100 mg once daily than in those treated with SPRYCEL 70 mg twice daily (Table 2a).
-Myelosuppression was also reported less frequently with the 100 mg once daily (see Laboratory test abnormalities).
+Myelosuppression was also reported less frequently with the 100 mg once daily (see Laboratory test abnormalities below).
+
 Table 2a: Selected Adverse Drug Reactions Reported in Phase III Dose-Optimisation Study: Chronic Phase CML
 100 mg once daily 140 mg once daily 50 mg twice daily 70 mg twice daily
 
@@ -65,7 +66,6 @@ Gastrointestinal 1 1 1 0 4 2 4 2
 bleeding
 
 In the Phase III dose-optimisation study in patients with advanced phase CML and Ph+ ALL, fluid retention (pleural effusion and pericardial effusion) was reported less frequently in patients treated with SPRYCEL 140 mg once daily than in those treated with 70 mg twice daily (Table 2b).
-
 Table 2b: Selected Adverse Drug Reactions Reported in Phase III Dose-Optimisation Study: Advanced Phase CML and Ph+ALL
 
 140 mg once daily 70 mg twice daily
@@ -107,21 +107,23 @@ Table 3: Adverse Drug Reactions (ADR) reported ≥ 5% in clinical trials
 | --- | --- |
 | Nervous system disorders Very common: headache Common: neuropathy (including peripheral neuropathy) | 25 1 6 < 1 |
 | Respiratory, thoracic and mediastinal disorders Very common: pleural effusion, dyspnoea, cough | 25 6 21 4 10 < 1 |
-| Gastrointestinal disorders Very common: diarrhoea, nausea, vomiting, abdominal pain Common: gastrointestinal bleeding, mucosal inflammation (including mucositis/stomatitis), dyspepsia, abdominal distension | 32 4 22 1 13 1 10 1 8 4 7 < 1 5 0 5 0 |
-| Skin and subcutaneous tissue disorders Very common: skin rasha Common: pruritus | 22 1 7 < 1 |
-| Musculoskeletal and connective tissue disorders Very common: musculoskeletal pain Common: arthralgia, myalgia | 14 1 8 1 8 < 1 |
-| Metabolism and nutrition disorders Common: anorexia | 9 < 1 |
-| Infections and infestations Very common: infection (including bacterial, viral, fungal, non-specific) | 10 3 |
-| Vascular disorders Very common: haemorrhageb | 15 2 |
+| Gastrointestinal disorders Very common: diarrhoea, nausea, vomiting, abdominal pain | 32 4 22 1 13 1 10 1 |
 
-General disorders and administration site conditions
+Common: gastrointestinal bleeding, 8 4
 
-Very common: superficial oedemac, 21 < 1
-fatigue, 21 2
-pyrexia 13 1
-Common: pain, 7 < 1
-asthenia, 9 1
-chest pain 5 1
+mucosal inflammation (including
+7 < 1 mucositis/stomatitis),
+
+dyspepsia, 5 0
+abdominal distension 5 0
+
+| Skin and subcutaneous tissue disorders Very common: skin rasha Common: pruritus | 22 7 | 1 < 1 |
+| --- | --- | --- |
+| Musculoskeletal and connective tissue disorders Very common: musculoskeletal pain Common: arthralgia, myalgia | 14 8 8 | 1 1 < 1 |
+| Metabolism and nutrition disorders Common: anorexia | 9 | < 1 |
+| Infections and infestations Very common: infection (including bacterial, viral, fungal, non-specific) | 10 | 3 |
+| Vascular disorders Very common: haemorrhageb | 15 | 2 |
+| General disorders and administration site conditions Very common: superficial oedemac, fatigue, pyrexia Common: pain, asthenia, chest pain | 21 21 13 7 9 5 | < 1 2 1 < 1 1 1 |
 
 a Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, fungal rash, generalised erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalised, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, rash vesicular, skin exfoliation, skin irritation, and urticaria vesiculosa.
 b Excludes gastrointestinal bleeding and CNS bleeding; these ADRs are reported under the gastrointestinal disorders system organ class and the nervous system disorders system organ class, respectively.
@@ -141,7 +143,6 @@ Rare: cor pulmonale, myocarditis, acute coronary syndrome
 Blood and lymphatic system disorders
 Common: pancytopenia
 Rare: aplasia pure red cell
-
 Nervous system disorders
 Common: dizziness, dysgeusia, somnolence
 Uncommon: CNS bleeding, syncope, tremor, amnesia
@@ -159,6 +160,7 @@ Respiratory, thoracic and mediastinal disorders
 Common: pulmonary oedema, lung infiltration, pneumonitis
 Uncommon: bronchospasm, pulmonary hypertenstion, asthma
 Rare: acute respiratory distress syndrome
+
 Gastrointestinal disorders
 Common: colitis (including neutropenic colitis), gastritis, constipation, oral soft tissue disorder Uncommon: pancreatitis, upper gastrointestinal ulcer, oesophagitis, ascites, anal fissure, dysphagia
 
@@ -190,7 +192,6 @@ Vascular disorders
 Common: hypertension, flushing
 Uncommon: hypotension, thrombophlebitis
 Rare: livedo reticularis
-
 General disorders and administration site conditions
 Common: generalised oedema, chills
 Uncommon: malaise
@@ -205,6 +206,7 @@ Rare: cholecystitis
 
 Reproductive system and breast disorders
 Uncommon: gynecomastia, irregular menstruation
+
 Psychiatric disorders
 Common: depression, insomnia
 Uncommon: anxiety, confusional state, affect lability, libido decreased
