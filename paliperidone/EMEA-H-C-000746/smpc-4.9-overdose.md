@@ -1,7 +1,7 @@
 # 4.9 Overdose
 
 In general, expected signs and symptoms are those resulting from an exaggeration of paliperidone’s known pharmacological effects, i.e., drowsiness and sedation, tachycardia and hypotension, QT prolongation, and extrapyramidal symptoms.
-In the case of acute overdosage, the possibility of multiple drug involvement should be considered.
+In the case of acute overdosage, the possibility of multiple medicinal product involvement should be considered.
 
 Consideration should be given to the prolonged-release nature of the product when assessing treatment needs and recovery.
 There is no specific antidote to paliperidone.

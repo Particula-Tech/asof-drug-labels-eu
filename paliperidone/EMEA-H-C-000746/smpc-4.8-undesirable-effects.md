@@ -7,91 +7,79 @@ The ADRs that appeared to be dose-related included weight increased, headache, s
 The following are all ADRs that were reported in INVEGA-treated subjects in clinical trials.
 The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to
 < 1/10), uncommon (≥ 1/1000 to < 1/100), rare (≥ 1/10,000 to < 1/1000), and very rare (< 1/10,000).
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | System Organ Class | Adverse Drug Reaction |  |  |
 | --- | --- | --- | --- |
 |  | Frequency |  |  |
 |  | Very common | Common | Uncommon |
-| Immune system disorders |  |  | Anaphylactic reaction |
-| Metabolism and nutrition disorders |  |  | Increased appetite |
-| Psychiatric disorders |  |  | Nightmare |
-| Nervous system disorders | Headache | Akathisia, Dizziness, Dystonia, Extrapyramidal disorder, Hypertonia, Parkinsonism, Sedation, Somnolence, Tremor | Dizziness postural, Dyskinesia, Grand mal convulsion, Syncope |
-| Eye disorders |  |  | Oculogyration |
-| Cardiac disorders |  | Atrioventricular block first degree, Bradycardia, Bundle branch block, Sinus tachycardia, Tachycardia | Palpitations, Sinus arrhythmia |
-| Vascular disorders |  | Orthostatic hypotension | Hypotension, Ischaemia |
-| Gastrointestinal disorders |  | Abdominal pain upper, Dry mouth, Salivary hypersecretion, Vomiting |  |
-| Musculoskeletal, connective tissue and bone disorders |  |  | Muscle rigidity |
-| Reproductive system and breast disorders |  |  | Amenorrhoea, Breast discharge, Erectile dysfunction, Galactorrhoea, Gynaecomastia, Menstruation irregular |
-| General disorders |  | Asthenia, Fatigue | Oedema |
-| Investigations |  | Weight increased | Electrocardiogram abnormal |
+| Immune system disorders |  |  | anaphylactic reaction |
+| Metabolism and nutrition disorders |  |  | increased appetite |
+| Psychiatric disorders |  |  | nightmare |
+| Nervous system disorders | headache | extrapyramidal disorder, parkinsonism, tremor, hypertonia, dystonia, akathisia, dizziness, sedation, somnolence, | grand mal convulsion, syncope, dyskinesia, dizziness postural |
+| Eye disorders |  |  | oculogyration |
+| Cardiac disorders |  | tachycardia, sinus tachycardia, bundle branch block, atrioventricular block first degree, bradycardia | palpitations, sinus arrhythmia |
+| Vascular disorders |  | orthostatic hypotension | ischaemia, hypotension, |
+| Gastrointestinal disorders |  | vomiting, abdominal pain upper, salivary hypersecretion, dry mouth, |  |
+| Musculoskeletal, connective tissue and bone disorders |  |  | muscle rigidity |
+| Reproductive system and breast disorders |  |  | amenorrhoea, galactorrhoea, erectile dysfunction, gynaecomastia, breast discharge, menstruation irregular |
+| General disorders |  | asthenia, fatigue | oedema |
+| Investigations |  | weight increased | electrocardiogram abnormal |
 
 Paliperidone is an active metabolite of risperidone.
 The following is a list of additional ADRs that have been reported with risperidone.
 
 System Organ Class Adverse Drug Reaction
-Infections and infestations Acarodermatitis, Bronchitis, Bronchopneumonia, Cellulitis,
-Cystitis, Ear infection, Eye infection, Influenza, Localised infection, Nasopharyngitis, Onychomycosis, Otitis media, Otitis media chronic, Pharyngitis, Pneumonia, Respiratory tract infection, Rhinitis, Sinusitis, Tonsillitis, Tracheobronchitis, Upper respiratory tract infection, Urinary tract infection, Viral infection
-Blood and lymphatic Anaemia, Granulocytopenia, Neutropenia, Thrombocytopenia system disorders
-Immune system disorders Drug hypersensitivity, Hypersensitivity
-Endocrine disorders Hyperprolactaemia, Inappropriate antidiuretic hormone secretion
-Metabolism and nutrition Anorexia, Decreased appetite, Diabetic ketoacidosis, Polydipsia disorders
-Psychiatric disorders Agitation, Anorgasmia, Anxiety, Blunted affect, Confusional state,
-Insomnia, Libido decreased, Listless, Mania, Middle insomnia,
-Nervousness, Restlessness, Sleep disorder
-Nervous system disorders Akinesia, Balance disorder, Bradykinesia, Cerebral ischaemia, Cerebrovascular accident, Cerebrovascular disorder, Cogwheel rigidity, Convulsion, Coordination abnormal, Depressed level of consciousness, Diabetic coma, Disturbance in attention, Drooling,
-Dysarthria, Hypersomnia, Hypoaesthesia, Hypokinesia, Lethargy,
-Loss of consciousness, Masked facies, Movement disorder,
-Muscle contractions involuntary, Neuroleptic malignant syndrome, Parkinsonian rest tremor, Speech disorder, Tardive dyskinesia,
-Transit ischaemic attack, Unresponsive to stimuli
+Infections and infestations acarodermatitis, bronchitis, bronchopneumonia, cellulitis, cystitis, ear infection, eye infection, influenza, localised infection, nasopharyngitis, onychomycosis, otitis media, otitis media chronic, pharyngitis, pneumonia, respiratory tract infection, rhinitis, sinusitis, tonsillitis, tracheobronchitis, upper respiratory tract infection, urinary tract infection, viral infection
+Blood and lymphatic anaemia, granulocytopenia, neutropenia, thrombocytopenia system disorders
+Immune system disorders drug hypersensitivity, hypersensitivity
+Endocrine disorders hyperprolactaemia, inappropriate antidiuretic hormone secretion
+Metabolism and nutrition anorexia, decreased appetite, diabetic ketoacidosis, polydipsia disorders
+Psychiatric disorders agitation, anorgasmia, anxiety, blunted affect, confusional state, insomnia, libido decreased, listless, mania, middle insomnia, nervousness, restlessness, sleep disorder
+Nervous system disorders akinesia, balance disorder, bradykinesia, cerebral ischaemia, cerebrovascular accident, cerebrovascular disorder, cogwheel rigidity, convulsion, coordination abnormal, depressed level of consciousness, diabetic coma, disturbance in attention, drooling, dysarthria, hypersomnia, hypoaesthesia, hypokinesia, lethargy, loss of consciousness, masked facies, movement disorder, muscle contractions involuntary, neuroleptic malignant syndrome, parkinsonian rest tremor, speech disorder, tardive dyskinesia, transit ischaemic attack, unresponsive to stimuli
 
-Eye disorders Conjunctivitis, Dry eye, Eye discharge, Eye rolling, Eye swelling,
+Eye disorders conjunctivitis, dry eye, eye discharge, eye rolling, eye swelling,
 
-Eyelid margin crusting, Eyelid oedema, Glaucoma, Lacrimation increased, Ocular hyperaemia, Photophobia, Vision blurred, Visual acuity reduced
+eyelid margin crusting, eyelid oedema, glaucoma, lacrimation increased, ocular hyperaemia, photophobia, vision blurred, visual acuity reduced
 
-Ear and labyrinth Ear pain, Tinnitus
+Ear and labyrinth ear pain, tinnitus
 
 disorders
 
-Cardiac disorders Atrial fibrillation, Atrioventricular block
+Cardiac disorders atrial fibrillation, atrioventricular block
 
-Vascular disorders Flushing
-Respiratory, thoracic and Cough, Dysphonia, Dyspnoea, Epistaxis, Hyperventilation, Nasal mediastinal disorders congestion, Nasal oedema, Pharyngolaryngeal pain, Pneumonia aspiration, Productive cough, Pulmonary congestion, Rales,
-Respiratory disorder, Respiratory tract congestion, Rhinorrhoea,
-Sinus congestion, Sleep apnoea syndrome, Wheezing
-Gastrointestinal disorders Abdominal discomfort, Abdominal pain, Aptyalism, Cheilitis,
-Constipation, Diarrhoea, Dyspepsia, Dysphagia, Faecal incontinence, Faecaloma, Gastritis, Intestinal obstruction, Lip swelling, Nausea, Stomach discomfort
-Hepatobiliary disorders Jaundice
-Skin and subcutaneous Acne, Angioneurotic oedema, Dandruff, Dry skin, Erythema,
+Vascular disorders flushing
+Respiratory, thoracic and cough, dysphonia, dyspnoea, epistaxis, hyperventilation, nasal mediastinal disorders congestion, nasal oedema, pharyngolaryngeal pain, pneumonia aspiration, productive cough, pulmonary congestion, rales, respiratory disorder, respiratory tract congestion, rhinorrhoea, sinus congestion, sleep apnoea syndrome, wheezing
+Gastrointestinal disorders abdominal discomfort, abdominal pain, aptyalism, cheilitis, constipation, diarrhoea, dyspepsia, dysphagia, faecal incontinence, faecaloma, gastritis, intestinal obstruction, lip swelling, nausea, stomach discomfort
+Hepatobiliary disorders jaundice
+Skin and subcutaneous acne, angioneurotic oedema, dandruff, dry skin, erythema,
 
-tissue disorders Hyperkeratosis, Pruritus, Rash, Rash erythematous, Rash
+tissue disorders hyperkeratosis, pruritus, rash, rash erythematous, rash generalised,
 
-generalised, Rash maculo-papular, Rash papular, Seborrhoeic dermatitis, Skin discolouration, Skin disorder, Skin lesion
-Musculoskeletal and Arthralgia, Back pain, Joint stiffness, Muscle spasms, Muscle
+rash maculo-papular, rash papular, seborrhoeic dermatitis, skin discolouration, skin disorder, skin lesion
+Musculoskeletal and arthralgia, back pain, joint stiffness, muscle spasms, muscle
 
-connective tissue twitching, Muscular weakness, Musculoskeletal chest pain,
-disorders Musculoskeletal stiffness, Myalgia, Neck pain, Pain in extremity,
+connective tissue twitching, muscular weakness, musculoskeletal chest pain,
+disorders musculoskeletal stiffness, myalgia, neck pain, pain in extremity,
 
-Posture abnormal, Rhabdomyolysis, Torticollis
+posture abnormal, rhabdomyolysis, torticollis
 
-Renal and urinary Dysuria, Enuresis, Pollakiuria, Urinary incontinence
+Renal and urinary dysuria, enuresis, pollakiuria, urinary incontinence
 
 disorders
-Reproductive system and Breast enlargement, Ejaculation disorder, Ejaculation failure,
+Reproductive system and breast enlargement, ejaculation disorder, ejaculation failure,
 
-breast disorders Menstrual disorder, Priapism, Retrograde ejaculation, Sexual
+breast disorders menstrual disorder, priapism, retrograde ejaculation, sexual
 
-dysfunction, Vaginal discharge
+dysfunction, vaginal discharge
 
-General disorders Adverse drug reaction, Chest discomfort, Chest pain, Chills,
+General disorders adverse drug reaction, chest discomfort, chest pain, chills,
 
-Discomfort, Drug withdrawal syndrome, Face oedema, Feeling abnormal, Gait disturbance, Generalized oedema, Influenza like illness, Malaise, Oedema peripheral, Peripheral coldness, Pitting oedema, Pyrexia, Sluggishness, Thirst
+discomfort, drug withdrawal syndrome, face oedema, feeling abnormal, gait disturbance, generalized oedema, influenza like illness, malaise, oedema peripheral, peripheral coldness, pitting oedema, pyrexia, sluggishness, thirst
 
-Investigations Alanine aminotransferase increased, Aspartate aminotransferase
+Investigations alanine aminotransferase increased, aspartate aminotransferase
 
-increased, Blood creatine phosphokinase increased, Blood glucose increased, Blood pressure decreased, Blood prolactin increased,
-Body temperature decreased, Body temperature increased,
-Electrocardiogram QT prolonged, Eosinophil count increased,
-Haematocrit decreased, Haemoglobin decreased, Heart rate increased, Transaminases increased, White blood cell count decreased
+increased, blood creatine phosphokinase increased, blood glucose increased, blood pressure decreased, blood prolactin increased, body temperature decreased, body temperature increased, electrocardiogram QT prolonged, eosinophil count increased, haematocrit decreased, haemoglobin decreased, heart rate increased, transaminases increased, white blood cell count decreased
 Elderly
 In a study conducted in elderly subjects with schizophrenia, the safety profile was similar to that seen in non-elderly subjects.
 INVEGA has not been studied in elderly patients with dementia.
@@ -101,15 +89,92 @@ Events of Particular interest to the class
 
 Extrapyramidal Symptoms (EPS).
 In clinical trials, there was no difference observed between placebo and the 3 and 6 mg doses of INVEGA.
-Dose-relatedness for EPS was seen with the two higher doses of INVEGA (9 and 12 mg).
+Dose dependence for EPS was seen with the two higher doses of INVEGA (9 and 12 mg).
 EPS included a pooled analysis of the following terms: dyskinesia, dystonia, hyperkinesia, Parkinsonism, and tremor.
 
 Weight Gain.
-In clinical trials, the proportions of subjects meeting a weight gain criterion of ≥ 7% of body weight were compared, revealing a similar incidence of weight gain for INVEGA 3 mg and 6 mg compared with placebo, and a higher incidence of weight gain for INVEGA 9 mg and 12 mg.
+In clinical trials, the proportions of subjects meeting a weight gain criterion of ≥ 7% of body weight were compared, revealing a similar incidence of weight gain for INVEGA 3 mg and 6 mg compared with placebo, and a higher incidence of weight gain for INVEGA 9 mg and 12 mg compared with placebo.
 
 Laboratory Tests: Serum Prolactin.
-In clinical trials, median increases in serum prolactin were observed with INVEGA in 67% of subjects, however, potentially prolactin-related adverse events (e.g., amenorrhoea, galactorrhoea, gynaecomastia) were reported overall in 2% of subjects.
+In clinical trials, median increases in serum prolactin were observed with INVEGA in 67% of subjects.
+Adverse events that may suggest increase in prolactin levels (e.g., amenorrhoea, galactorrhoea, gynaecomastia) were reported overall in 2% of subjects.
 Maximum mean increases of serum prolactin concentrations were generally observed on Day 15 of treatment, but remained above baseline levels at study endpoint.
 
 Class effects
 QT prolongation, ventricular arrythmias (ventricular fibrillation, ventricular tachycardia), sudden unexplained death, cardiac arrest and Torsade de pointes may occur with antipsychotics.
+
+[INVEGA 3 mg prolonged-release tablets]
+
+| System Organ Class | Adverse Drug Reaction |  |  |
+| --- | --- | --- | --- |
+|  | Frequency |  |  |
+|  | Very common | Common | Uncommon |
+| Immune system disorders |  |  | anaphylactic reaction |
+| Metabolism and nutrition disorders |  |  | increased appetite |
+| Psychiatric disorders |  |  | nightmare |
+| Nervous system disorders | headache | extrapyramidal disorder, parkinsonism, tremor, hypertonia, dystonia, akathisia, dizziness, sedation, somnolence, | grand mal convulsion, syncope, dyskinesia,dizziness postural, , |
+| Eye disorders |  |  | oculogyration |
+| Cardiac disorders |  | Tachycardia, sinus tachycardia, bundle branch block,atrioventricular block first degree, bradycardia, | palpitations, sinus arrhythmia |
+| Vascular disorders |  | orthostatic hypotension | ischaemia, hypotension, |
+| Gastrointestinal disorders |  | vomiting, abdominal pain upper, salivary hypersecretion, dry mouth, |  |
+| Musculoskeletal, connective tissue and bone disorders |  |  | muscle rigidity |
+| Reproductive system and breast disorders |  |  | amenorrhoea, galactorrhoea, erectile dysfunction, gynaecomastia, breast discharge, menstruation irregular |
+| General disorders |  | asthenia, fatigue | oedema |
+| Investigations |  | weight increased | electrocardiogram abnormal |
+
+[INVEGA 6 mg prolonged-release tablets]
+
+| System Organ Class | Adverse Drug Reaction |  |  |
+| --- | --- | --- | --- |
+|  | Frequency |  |  |
+|  | Very common | Common | Uncommon |
+| Immune system disorders |  |  | anaphylactic reaction |
+| Metabolism and nutrition disorders |  |  | increased appetite |
+| Psychiatric disorders |  |  | nightmare |
+| Nervous system disorders | headache | extrapyramidal disorder, parkinsonism, tremor, hypertonia, dystonia, akathisia, dizziness, , sedation, somnolence, | grand mal convulsion, syncope, dyskinesia,, dizziness postural, |
+| Eye disorders |  |  | oculogyration |
+| Cardiac disorders |  | tachycardia, sinus tachycardia, bundle branch block, atrioventricular block first degree, bradycardia, | palpitations, sinus arrhythmia |
+| Vascular disorders |  | orthostatic hypotension | ischaemia, hypotension, |
+| Gastrointestinal disorders |  | vomiting, abdominal pain upper, salivary hypersecretion, dry mouth, |  |
+| Musculoskeletal, connective tissue and bone disorders |  |  | muscle rigidity |
+| Reproductive system and breast disorders |  |  | amenorrhoea, galactorrhoea, erectile dysfunction, gynaecomastia, breast discharge, menstruation irregular |
+| General disorders |  | asthenia, fatigue | oedema |
+| Investigations |  | weight increased | electrocardiogram abnormal |
+
+[INVEGA 9 mg prolonged-release tablets]
+
+| System Organ Class | Adverse Drug Reaction |  |  |
+| --- | --- | --- | --- |
+|  | Frequency |  |  |
+|  | Very common | Common | Uncommon |
+| Immune system disorders |  |  | anaphylactic reaction |
+| Metabolism and nutrition disorders |  |  | increased appetite |
+| Psychiatric disorders |  |  | nightmare |
+| Nervous system disorders | headache | extrapyramidal disorder, parkinsonism, tremor, hypertonia, dystonia, akathisia, dizziness, sedation, somnolence, | grand mal convulsion, syncope, dyskinesia, dizziness postural, |
+| Eye disorders |  |  | oculogyration |
+| Cardiac disorders |  | tachycardia, sinus tachycardia, bundle branch block, atrioventricular block first degree, bradycardia, | palpitations, sinus arrhythmia |
+| Vascular disorders |  | orthostatic hypotension | ischaemia, hypotension, |
+| Gastrointestinal disorders |  | vomiting, abdominal pain upper, salivary hypersecretion, dry mouth, |  |
+| Musculoskeletal, connective tissue and bone disorders |  |  | muscle rigidity |
+| Reproductive system and breast disorders |  |  | amenorrhoea, galactorrhoea, erectile dysfunction, gynaecomastia, breast discharge, , menstruation irregular |
+| General disorders |  | asthenia, fatigue | oedema |
+| Investigations |  | weight increased | electrocardiogram abnormal |
+
+[INVEGA 12 mg prolonged-release tablets]
+
+| System Organ Class | Adverse Drug Reaction |  |  |
+| --- | --- | --- | --- |
+|  | Frequency |  |  |
+|  | Very common | Common | Uncommon |
+| Immune system disorders |  |  | anaphylactic reaction |
+| Metabolism and nutrition disorders |  |  | increased appetite |
+| Psychiatric disorders |  |  | nightmare |
+| Nervous system disorders | headache | extrapyramidal disorder, parkinsonism, tremor, hypertonia, dystonia, akathisia, dizziness, sedation, somnolence, | grand mal convulsion, syncope, dyskinesia, dizziness postural |
+| Eye disorders |  |  | oculogyration |
+| Cardiac disorders |  | tachycardia, sinus tachycardia, bundle branch block, atrioventricular block first degree, bradycardia, | palpitations, sinus arrhythmia |
+| Vascular disorders |  | orthostatic hypotension | ischaemia, hypotension, |
+| Gastrointestinal disorders |  | vomiting, abdominal pain upper, salivary hypersecretion, dry mouth, |  |
+| Musculoskeletal, connective tissue and bone disorders |  |  | muscle rigidity |
+| Reproductive system and breast disorders |  |  | amenorrhoea, galactorrhoea, erectile dysfunction, gynaecomastia, breast discharge, menstruation irregular |
+| General disorders |  | asthenia, fatigue | oedema |
+| Investigations |  | weight increased | electrocardiogram abnormal |

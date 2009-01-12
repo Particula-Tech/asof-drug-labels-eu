@@ -10,17 +10,17 @@ Blisters:
 
 - Polyvinyl chloride (PVC) laminated with polychloro-trifluoroethylene (PCTFE)/aluminium push-through layer.
 
-Pack sizes of 28, 30, 49, 56, and 98 prolonged-release tablets.
+Pack sizes of 14, 28, 30, 49, 56, and 98 prolonged-release tablets.
 
 Or
 
 - White polyvinyl chloride (PVC) laminated with polychloro-trifluoroethylene (PCTFE)/aluminium push-through layer.
 
-Pack sizes of 28, 30, 49, 56, and 98 prolonged-release tablets.
+Pack sizes of 14, 28, 30, 49, 56, and 98 prolonged-release tablets.
 Or
 
 - Oriented polyamide (OPA)-aluminium-polyvinyl chloride (PVC)/aluminium push-through layer.
 
-Pack sizes of 28, 49, 56, and 98 prolonged-release tablets.
+Pack sizes of 14, 28, 49, 56, and 98 prolonged-release tablets.
 
 Not all pack sizes may be marketed.

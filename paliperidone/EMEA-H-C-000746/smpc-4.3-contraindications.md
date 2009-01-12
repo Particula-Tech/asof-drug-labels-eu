@@ -1,3 +1,3 @@
 # 4.3 Contraindications
 
-Hypersensitivity to paliperidone, risperidone, or to any of the excipients.
+Hypersensitivity to the active substance, risperidone, or to any of the excipients.

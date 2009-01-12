@@ -21,7 +21,7 @@ In vitro studies have shown that paliperidone is a P-glycoprotein (P-gp) substra
 
 Co-administration of INVEGA once daily with carbamazepine 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state Cmax and AUC of paliperidone.
 This decrease is caused, to a substantial degree, by a 35% increase in renal clearance of paliperidone likely as a result of induction of renal P-gp by carbamazepine.
-A minor decrease in the amount of drug excreted unchanged in the urine suggests that there was little effect on the CYP metabolism or bioavailability of paliperidone during carbamazepine co-administration.
+A minor decrease in the amount of active substance excreted unchanged in the urine suggests that there was little effect on the CYP metabolism or bioavailability of paliperidone during carbamazepine co-administration.
 Larger decreases in plasma concentrations of paliperidone could occur with higher doses of carbamazepine.
 On initiation of carbamazepine, the dose of INVEGA should be re-evaluated and increased if necessary.
 Conversely, on discontinuation of carbamazepine, the dose of INVEGA should be re-evaluated and decreased if necessary.
@@ -32,6 +32,10 @@ Medicinal products affecting gastrointestinal transit time may affect the absorp
 
 Concomitant use of INVEGA with risperidone
 Concomitant use of INVEGA with oral risperidone is not recommended as paliperidone is the active metabolite of risperidone and the combination of the two may lead to additive paliperidone exposure.
+
+[INVEGA 3 mg prolonged-release tablets]
+
+(all sentences already above)
 
 [INVEGA 6 mg prolonged-release tablets]
 

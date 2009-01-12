@@ -1,4 +1,4 @@
-# 4.4 Special warnings and precautions for use
+# 4.4 Special warnings and special precautions for use
 
 QT interval
 As with other antipsychotics, caution should be exercised when INVEGA is prescribed in patients with known cardiovascular disease or family history of QT prolongation, and in concomitant use with other medicines thought to prolong the QT interval.
@@ -68,5 +68,19 @@ Antiemetic effect
 An antiemetic effect was observed in preclinical studies with paliperidone.
 This effect, if it occurs in humans, may mask the signs and symptoms of overdosage with certain medicines or of conditions such as intestinal obstruction, Reye’s syndrome, and brain tumour.
 
+[INVEGA 3 mg prolonged-release tablets]
+
 Lactose content (pertains only to the 3 mg tablets)
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
+[INVEGA 6 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[INVEGA 9 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[INVEGA 12 mg prolonged-release tablets]
+
+(all sentences already above)

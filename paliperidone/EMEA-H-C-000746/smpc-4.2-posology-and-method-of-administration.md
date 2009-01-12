@@ -8,8 +8,9 @@ The patient should be instructed to always take INVEGA in the fasting state or a
 Initial dose titration is not required.
 Some patients may benefit from lower or higher doses within the recommended range of 3 to 12 mg once daily.
 Dosage adjustment, if indicated, should occur only after clinical reassessment.
+When dose increases are indicated, increments of 3 mg/day are recommended and generally should occur at intervals of more than 5 days.
 
-INVEGA must be swallowed whole with the aid of liquids, and must not be chewed, divided, or crushed.
+INVEGA must be swallowed whole with liquid, and must not be chewed, divided, or crushed.
 The active substance is contained within a non absorbable shell designed to release the active substance at a controlled rate.
 The tablet shell, along with insoluble core components, is eliminated from the body; patients should not be concerned if they occasionally notice in their stool something that looks like a tablet.
 
@@ -19,18 +20,17 @@ As INVEGA has not been studied in patients with severe hepatic impairment, cauti
 
 Patients with renal impairment
 For patients with mild renal impairment (creatinine clearance ≥ 50 to < 80 ml/min), the recommended initial dose is 3 mg once daily.
-The dose may be increased based on clinical response and tolerability.
+The dose may be increased to 6 mg once daily based on clinical response and tolerability.
 
-For patients with moderate renal impairment (creatinine clearance ≥ 30 to < 50 ml/min), the recommended dose of INVEGA is 3 mg once daily.
-For patients with severe renal impairment (creatinine clearance ≥ 10 to < 30 ml/min), the recommended initial dose of INVEGA is 3 mg every other day, which may be increased to 3 mg once daily after clinical reassessment.
+For patients with moderate to severe renal impairment (creatinine clearance ≥ 10 to < 50 ml/min), the recommended initial dose of INVEGA is 1.5 mg every day, which may be increased to 3 mg once daily after clinical reassessment.
 As INVEGA has not been studied in patients with creatinine clearance below 10 ml/min, use is not recommended in such patients.
 Elderly
 Dosing recommendations for elderly patients with normal renal function (≥ 80 ml/min) are the same as for adults with normal renal function.
 However, because elderly patients may have diminished renal function, dose adjustments may be required according to their renal function status (see Patients with Renal Impairment above).
 INVEGA should be used with caution in elderly patients with dementia with risk factors for stroke (see section 4.4).
 
-Paediatrics
-Safety and effectiveness of INVEGA in patients < 18 years of age have not been studied.
+Paediatric population
+Safety and efficacy of INVEGA in patients < 18 years of age have not been studied.
 There is no experience in children.
 
 Other special populations

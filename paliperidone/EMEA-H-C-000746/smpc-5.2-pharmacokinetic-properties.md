@@ -1,6 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
-The pharmacokinetics of paliperidone following INVEGA administration are dose proportional within the recommended clinical dose range (3 to 12 mg).
+The pharmacokinetics of paliperidone following INVEGA administration are dose proportional within the available dose range.
 
 Absorption
 Following a single dose, INVEGA exhibits a gradual ascending release rate, allowing the plasma concentrations of paliperidone to steadily rise to reach peak plasma concentration (Cmax) approximately 24 hours after dosing.
@@ -18,8 +18,8 @@ Paliperidone is rapidly distributed.
 The apparent volume of distribution is 487 l. The plasma protein binding of paliperidone is 74%.
 It binds primarily to α1-acid glycoprotein and albumin.
 
-Biotransformation and Elimination
-One week following administration of a single oral dose of 1 mg immediate-release 14C-paliperidone, 59% of the dose was excreted unchanged into urine, indicating that paliperidone is not extensively metabolised in the liver.
+Biotransformation and elimination
+One week following administration of a single oral dose of 1 mg immediate-release 14C-paliperidone, 59% of the dose was excreted unchanged into urine, indicating that paliperidone is not extensively metabolised by the liver.
 Approximately 80% of the administered radioactivity was recovered in urine and 11% in the faeces.
 Four metabolic pathways have been identified in vivo, none of which accounted for more than 6.5% of the dose: dealkylation, hydroxylation, dehydrogenation, and benzisoxazole scission.
 Although in vitro studies suggested a role for CYP2D6 and CYP3A4 in the metabolism of paliperidone, there is no evidence in vivo that these isozymes play a significant role in the metabolism of paliperidone.
@@ -36,7 +36,7 @@ In a study in subjects with moderate hepatic impairment (Child-Pugh class B), th
 No data are available in patients with severe hepatic impairment (Child-Pugh class C).
 Renal Impairment
 Elimination of paliperidone decreased with decreasing renal function.
-Total clearance of paliperidone was reduced in subjects with impaired renal function by 32% in mild (CrCl = 50 to < 80 ml/min), 64% in moderate (CrCl = 30 to < 50 ml/min), and 71% in severe (CrCl = < 30 ml/min) renal impairment.
+Total clearance of paliperidone was reduced in subjects with impaired renal function by 32% in mild (Creatinine Clearance [Cr Cl] = 50 to < 80 ml/min), 64% in moderate (CrCl = 30 to < 50 ml/min), and 71% in severe (CrCl = < 30 ml/min) renal impairment.
 The mean terminal elimination half-life of paliperidone was 24, 40, and 51 hours in subjects with mild, moderate, and severe renal impairment, respectively, compared with 23 hours in subjects with normal renal function (CrCl ≥ 80 ml/min).
 
 Elderly
@@ -54,3 +54,19 @@ Smoking Status
 Based on in vitro studies utilising human liver enzymes, paliperidone is not a substrate for CYP1A2; smoking should, therefore, not have an effect on the pharmacokinetics of paliperidone.
 A population pharmacokinetic analysis showed a slightly lower exposure to paliperidone in smokers compared with non-smokers.
 The difference is unlikely to be of clinical relevance, though.
+
+[INVEGA 3 mg prolonged-release tablets]
+
+Total clearance of paliperidone was reduced in subjects with impaired renal function by 32% in mild (Creatinine Clearance [CrCl] = 50 to < 80 ml/min), 64% in moderate (CrCl = 30 to < 50 ml/min), and 71% in severe (CrCl = < 30 ml/min) renal impairment.
+
+[INVEGA 6 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[INVEGA 9 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[INVEGA 12 mg prolonged-release tablets]
+
+(all sentences already above)
