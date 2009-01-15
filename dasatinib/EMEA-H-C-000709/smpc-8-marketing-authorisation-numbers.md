@@ -18,5 +18,5 @@ EU/1/06/363/003 - 60 film-coated tablets (bottle)
 
 [SPRYCEL 100 mg film-coated tablets]
 
-- 30 x 1 film-coated tablets (unit-dose blisters)
-- 30 film-coated tablets (bottle)
+EU/1/06/363/011 - 30 x 1 film-coated tablets (unit-dose blisters)
+EU/1/06/363/010 - 30 film-coated tablets (bottle)
