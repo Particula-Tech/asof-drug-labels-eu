@@ -1,0 +1,77 @@
+# 4.4 Special warnings and precautions for use
+
+Infections
+RoActemra treatment should not be initiated in patients with active infections (see section 4.3).
+Administration of RoActemra should be interrupted if a patient develops a serious infection until the infection is controlled (see section 4.8).
+Healthcare professionals should exercise caution when considering the use of RoActemra in patients with a history of recurring or chronic infections or with underlying conditions (e.g. diverticulitis, diabetes) which may predispose patients to infections.
+
+Vigilance for the timely detection of serious infection is recommended for patients receiving biological treatments for moderate to severe RA as signs and symptoms of acute inflammation may be lessened, associated with suppression of the acute phase reaction.
+The effects of tocilizumab on C-reactive protein (CRP), neutrophils and signs and symptoms of infection should be considered when evaluating a patient for a potential infection.
+Patients should be instructed to contact their healthcare professional immediately when any symptoms suggesting infection appear, in order to assure rapid evaluation and appropriate treatment.
+
+Tuberculosis
+As recommended for other biological treatments in RA, patients should be screened for latent tuberculosis (TB) infection prior to starting RoActemra therapy.
+Patients with latent TB should be treated with standard anti-mycobacterial therapy before initiating RoActemra.
+
+Complications of diverticulitis
+Events of diverticular perforations as complications of diverticulitis have been reported uncommonly with RoActemra (see section 4.8).
+RoActemra should be used with caution in patients with previous history of intestinal ulceration or diverticulitis.
+Patients presenting with symptoms potentially indicative of complicated diverticulitis, such as abdominal pain, haemorrhage and/or unexplained change in bowel habits with fever should be evaluated promptly for early identification of diverticulitis which can be associated with gastrointestinal perforation.
+
+Hypersensitivity reactions
+Serious hypersensitivity reactions have been reported in association with infusion of RoActemra in approximately 0.3% of patients (see section 4.8).
+Appropriate treatment should be available for immediate use in the event of an anaphylactic reaction during administration of RoActemra.
+Active hepatic disease and hepatic impairment
+Treatment with RoActemra, particularly when administered concomitantly with MTX, may be associated with elevations in hepatic transaminases (see section 4.8).
+Therefore, caution should be exercised when considering treatment of patients with active hepatic disease or hepatic impairment, as the safety of RoActemra in these patients has not been adequately studied (see section 4.2).
+
+Hepatic transaminase elevations
+In clinical trials, transient or intermittent mild and moderate elevations of hepatic transaminases have been reported commonly with RoActemra treatment, without progression to hepatic injury (see section 4.8).
+An increased frequency of these elevations was observed when potentially hepatotoxic drugs (e.g. MTX) were used in combination with RoActemra.
+
+Caution should be exercised when considering initiation of RoActemra treatment in patients with elevated ALT or AST > 1.5 x ULN.
+In patients with baseline ALT or AST > 5 x ULN, treatment is not recommended.
+
+ALT and AST levels should be monitored every 4 to 8 weeks for the first 6 months of treatment followed by every 12 weeks thereafter.
+For recommended modifications based on transaminases see section 4.2.
+For ALT or AST elevations > 3–5 x ULN, confirmed by repeat testing, RoActemra treatment should be interrupted.
+Once the patient’s hepatic transaminases are below 3 x ULN, treatment with RoActemra may recommence at 4 or 8 mg/kg.
+
+Haematological abnormalities
+Decreases in neutrophil and platelet counts have occurred following treatment with tocilizumab 8 mg/kg in combination with MTX (see section 4.8).
+There may be an increased risk of neutropenia in patients who have previously been treated with a TNF antagonist.
+
+Caution should be exercised when considering initiation of RoActemra treatment in patients with a low neutrophil or platelet count (i.e. ANC < 2 x 109/ l or platelet count below 100 x 103/ μl).
+In patients with an ANC < 0.5 x 109/ l or a platelet count < 50 x 103/ μl treatment is not recommended.
+
+Neutrophils and platelets should be monitored 4 to 8 weeks after start of therapy and thereafter according to standard clinical practice.
+For recommended dose modifications based on ANC and platelet counts, see section 4.2.
+
+Lipid parameters
+Elevations in lipid parameters including total cholesterol, low-density lipoprotein (LDL), high-density lipoprotein (HDL) and triglycerides were observed in patients treated with tocilizumab (see section 4.8).
+In the majority of patients, there was no increase in atherogenic indices, and elevations in total cholesterol responded to treatment with lipid lowering agents.
+
+Assessment of lipid parameters should be performed 4 to 8 weeks following initiation of RoActemra therapy.
+Patients should be managed according to local clinical guidelines for management of hyperlipidaemia.
+
+Neurological disorders
+Physicians should be vigilant for symptoms potentially indicative of new-onset central demyelinating disorders.
+The potential for central demyelination with RoActemra is currently unknown.
+
+Malignancy
+The risk of malignancy is increased in patients with RA.
+Immunomodulatory medicinal products may increase the risk of malignancy.
+
+Vaccinations
+Live and live attenuated vaccines should not be given concurrently with RoActemra as clinical safety has not been established.
+Cardiovascular risk
+RA patients have an increased risk for cardiovascular disorders and should have risk factors (e.g. hypertension, hyperlipidaemia) managed as part of usual standard of care.
+
+Combination with TNF antagonists
+There is no experience with the use of RoActemra with TNF antagonists or other biological treatments for RA.
+RoActemra is not recommended for use with other biological agents.
+
+Sodium
+This medicinal product contains 1.17 mmol (or 26.55 mg) sodium per maximum dose of 1200 mg.
+To be taken into consideration by patients on a controlled sodium diet.
+Doses below 1025 mg of this medicinal product contain less than 1 mmol sodium (23 mg), i.e. essentially ‘sodium free’.
