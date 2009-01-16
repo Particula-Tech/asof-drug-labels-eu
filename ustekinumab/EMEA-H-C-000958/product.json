@@ -1,0 +1,16 @@
+{
+  "active_substance": "ustekinumab",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/000958",
+  "eu_number": "EU/1/08/494",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2009-01-16",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/stelara",
+  "molecule": "ustekinumab",
+  "molecule_name": "USTEKINUMAB",
+  "name": "Stelara",
+  "register_name": "Stelara",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h494.htm"
+}
