@@ -1,6 +1,6 @@
 # 3. PHARMACEUTICAL FORM
 
-Hard capsule
+Hard capsule.
 
 The hard capsules have an opaque white body, an opaque green cap, and are imprinted with black ink.
 The cap is imprinted with “Temodal”.

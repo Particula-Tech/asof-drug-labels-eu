@@ -7,6 +7,7 @@ EU/1/98/096/002
 
 EU/1/98/096/003
 EU/1/98/096/004
+EU/1/98/096/XXX
 
 [Temodal 100 mg hard capsules]
 

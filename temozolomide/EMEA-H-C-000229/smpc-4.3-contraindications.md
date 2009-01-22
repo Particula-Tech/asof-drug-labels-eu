@@ -1,25 +1,7 @@
 # 4.3 Contraindications
 
-Hypersensitivity to the active substance, to any of the excipients or to dacarbazine (DTIC).
+Hypersensitivity to the active substanceor to any of the excipients.
 
-Temodal is contraindicated in patients with severe myelosuppression (see section 4.4).
+Hypersensitivity to dacarbazine (DTIC).
 
-[Temodal 20 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 100 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 140 mg hard capsules]
-
-Hypersensitivity to the active substance, or to any of the excipients or to dacarbazine (DTIC).
-
-[Temodal 180 mg hard capsules]
-
-(all sentences already above)
-
-[Temodal 250 mg hard capsules]
-
-(all sentences already above)
+Severe myelosuppression (see section 4.4).
