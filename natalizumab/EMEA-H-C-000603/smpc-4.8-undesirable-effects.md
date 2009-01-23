@@ -40,14 +40,13 @@ Infusion reactions
 In 2-year controlled clinical trials in MS patients, an infusion-related event was defined as an adverse event occurring during the infusion or within 1 hour of the completion of the infusion.
 These occurred in 23.1% of MS patients treated with natalizumab (placebo: 18.7%).
 Events reported more commonly with natalizumab than with placebo included dizziness, nausea, urticaria and rigors.
-See section 4.4.
 
 Hypersensitivity reactions
 
 In 2-year controlled clinical trials in MS patients, hypersensitivity reactions occurred in up to 4% of patients.
 Anaphylactic/anaphylactoid reactions occurred in less than 1% of patients receiving TYSABRI.
-Hypersensitivity reactions usually occurred during the infusion or within the 1-hour period after the completion of the infusion.
-See section 4.4.
+Hypersensitivity reactions usually occurred during the infusion or within the 1-hour period after the completion of the infusion (See section 4.4).
+In post-marketing experience, there have been reports of hypersensitivity reactions which have occurred with one or more of the following associated symptoms: hypotension, hypertension, chest pain, chest discomfort, dyspnoea, angioedema, in addition to more usual symptoms such as rash and urticaria.
 
 Immunogenicity
 
