@@ -15,15 +15,3 @@ Tamiflu is not a substitute for influenza vaccination.
 
 The use of antivirals for the treatment and prevention of influenza should be determined on the basis of official recommendations.
 Decisions regarding the use of antivirals for treatment and prophylaxis should take into consideration what is known about the characteristics of the circulating influenza viruses and the impact of the disease in different geographical areas and patient populations.
-
-[Tamiflu 45 mg hard capsule.]
-
-In patients one year of age or older who present with symptoms typical of influenza, when influenza virus is circulating in the community.
-
-[Tamiflu 75 mg hard capsule.]
-
-(all sentences already above)
-
-[Tamiflu 12 mg/ml powder for oral suspension.]
-
-(all sentences already above)

@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antiviral ATC code: J05AH02
+
 Oseltamivir phosphate is a pro-drug of the active metabolite (oseltamivir carboxylate).
 The active metabolite is a selective inhibitor of influenza virus neuraminidase enzymes, which are glycoproteins found on the virion surface.
 Viral neuraminidase enzyme activity is important both for viral entry into uninfected cells and for the release of recently formed virus particles from infected cells, and for the further spread of infectious virus in the body.
@@ -18,7 +19,7 @@ Reduced sensitivity of viral neuraminidase
 There has been no evidence for emergence of drug resistance associated with the use of Tamiflu in clinical studies conducted to date in post-exposure (7 days), post-exposure within household groups (10 days) and seasonal (42 days) prevention of influenza.
 
 The risk of emergence of influenza viruses with reduced susceptibility or frank resistance to oseltamivir has been examined during Roche-sponsored clinical studies.
-All patients carried oseltamivir-resistant virus transiently, cleared the virus normally and showed no clinical deterioration.
+All patients who were found to carry oseltamivir-resistant virus did so transiently, cleared the virus normally and showed no clinical deterioration.
 
 | Patient Population | Patients with Resistance Mutations (%) |  |
 | --- | --- | --- |

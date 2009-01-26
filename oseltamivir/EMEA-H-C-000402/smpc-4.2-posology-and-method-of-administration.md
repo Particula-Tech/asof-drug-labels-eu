@@ -8,7 +8,12 @@ Tamiflu capsules and Tamiflu suspension are bioequivalent formulations.
 - by administering one 30 mg dose plus one 45 mg dose of suspension.
 
 Adults, adolescents or children (> 40 kg) who are unable to swallow capsules may receive appropriate doses of Tamiflu suspension.
+During situations when commercially manufactured Tamiflu oral suspension is not readily available, adults, adolescents or children who are unable to swallow capsules may receive appropriate doses of Tamiflu (see section 3 in Package Leaflet) by opening capsules and pouring the contents of capsules into a suitable, small amount (1 teaspoon maximum) of sweetened food product such as regular or sugar-free chocolate syrup, honey (only for children two years or older), light brown or table sugar dissolved in water, dessert toppings, sweetened condensed milk, apple sauce or yogurt to mask the bitter taste.
+The mixture should be stirred and the entire contents given to the patient.
+The mixture must be swallowed immediately after its preparation.
+
 Tamiflu is not recommended for use in children less than one year of age due to insufficient data on safety and efficacy (see section 5.3).
+
 Treatment of influenza
 Treatment should be initiated as soon as possible within the first two days of onset of symptoms of influenza.
 
@@ -47,7 +52,6 @@ Children weighing > 40 kg and who are able to swallow capsules may receive preve
 
 Prevention during an influenza epidemic in the community
 The recommended dose for prevention of influenza during a community outbreak is 75 mg oseltamivir once daily for up to 6 weeks.
-
 Special populations
 Hepatic impairment
 No dose adjustment is required either for treatment or for prevention in patients with hepatic dysfunction.
@@ -84,6 +88,8 @@ There is insufficient clinical data available in children with renal impairment 
 (all sentences already above)
 
 [Tamiflu 75 mg hard capsule.]
+
+It is not necessary to administer any undissolved white powder as this is inert material.
 
 For recommended treatment dose of Tamiflu for infants older than 1 year of age and for children 2 to 12 years of age, see SmPC of Tamiflu suspension and Tamiflu 30 and 45 mg capsules.
 

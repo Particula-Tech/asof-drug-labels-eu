@@ -36,7 +36,6 @@ Elderly
 Exposure to the active metabolite at steady state was 25 to 35 % higher in elderly (age 65 to 78 years) compared to adults less than 65 years of age given comparable doses of oseltamivir.
 Half-lives observed in the elderly were similar to those seen in young adults.
 On the basis of drug exposure and tolerability, dosage adjustments are not required for elderly patients unless there is evidence of severe renal impairment (creatinine clearance below 30 ml/min) (see section 4.2).
-
 Children
 The pharmacokinetics of oseltamivir have been evaluated in single-dose pharmacokinetic studies in children aged 1 to 16 years.
 Multiple-dose pharmacokinetics were studied in a small number of children enrolled in a clinical efficacy study.
