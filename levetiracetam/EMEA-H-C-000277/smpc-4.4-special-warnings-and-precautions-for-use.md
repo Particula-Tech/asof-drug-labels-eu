@@ -11,8 +11,12 @@ When Keppra was used to treat primary generalised tonic-clonic seizures in adult
 The administration of Keppra to patients with renal impairment may require dose adjustment.
 In patients with severely impaired hepatic function, assessment of renal function is recommended before dose selection (see section 4.2).
 
-Suicide, suicide attempt and suicidal ideation have been reported in patients treated with levetiracetam.
-Patients should be advised to immediately report any symptoms of depression and/or suicidal ideation to their prescribing physician.
+Suicide, suicide attempt, suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents (including levetiracetam).
+A meta-analysis of randomized placebo-controlled trials of anti-epileptic drugs has shown a small increased risk of suicidal thoughts and behaviour.
+The mechanism of this risk is not known.
+
+Therefore patients should be monitored for signs of depression and/or suicidal ideation and behaviours and appropriate treatment should be considered.
+Patients (and caregivers of patients) should be advised to seek medical advice should signs of depression and/or suicidal ideation or behaviour emerge.
 
 [Keppra 500 mg film-coated tablets.]
 

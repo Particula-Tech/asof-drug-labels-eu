@@ -10,6 +10,7 @@ Due to its complete and linear absorption, plasma levels can be predicted from t
 Therefore there is no need for plasma level monitoring of levetiracetam.
 
 A significant correlation between saliva and plasma concentrations has been shown in adults and children (ratio of saliva/plasma concentrations ranged from 1 to 1.7 for oral tablet formulation and after 4 hours post-dose for oral solution formulation).
+
 Adults and adolescents
 
 Absorption
@@ -49,7 +50,6 @@ The in vitro data and in vivo interaction data on oral contraceptives, digoxin a
 Therefore, the interaction of Keppra with other substances, or vice versa, is unlikely.
 
 Elimination
-
 The plasma half-life in adults was 7±1 hours and did not vary either with dose, route of administration or repeated administration.
 The mean total body clearance was 0.96 ml/min/kg.
 

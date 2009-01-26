@@ -65,7 +65,6 @@ Then CLcr is adjusted for body surface area (BSA) as follows:
 CLcr (ml/min)
 CLcr (ml/min/1.73 m2) = ---------------------------- x 1.73
 BSA subject (m2)
-
 Dosing adjustment for adult patients with impaired renal function
 
 Group Creatinine clearance Dosage and frequency
