@@ -7,6 +7,7 @@ Biotransformation of clopidogrel is necessary to produce inhibition of platelet 
 Clopidogrel also inhibits platelet aggregation induced by other agonists by blocking the amplification of platelet activation by released ADP.
 Clopidogrel acts by irreversibly modifying the platelet ADP receptor.
 Consequently, platelets exposed to clopidogrel are affected for the remainder of their lifespan and recovery of normal platelet function occurs at a rate consistent with platelet turnover.
+
 Repeated doses of 75 mg per day produced substantial inhibition of ADP-induced platelet aggregation from the first day; this increased progressively and reached steady state between Day 3 and Day 7.
 At steady state, the average inhibition level observed with a dose of 75 mg per day was between 40% and 60%.
 Platelet aggregation and bleeding time gradually returned to baseline values, generally within 5 days after treatment was discontinued.
@@ -24,7 +25,7 @@ In the intention to treat analysis, 939 events were observed in the clopidogrel 
 Analysis of total mortality as a secondary endpoint did not show any significant difference between clopidogrel (5.8%) and ASA (6.0%).
 
 In a subgroup analysis by qualifying condition (myocardial infarction, ischaemic stroke, and PAD) the benefit appeared to be strongest (achieving statistical significance at p = 0.003) in patients enrolled due to PAD (especially those who also had a history of myocardial infarction) (RRR = 23.7%; CI: 8.9 to 36.2) and weaker (not significantly different from ASA) in stroke patients (RRR = 7.3%; CI: -5.7 to 18.7 [p=0.258]).
-In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was numerically inferior, but not statistically different from ASA (RRR = - 4.0%; CI: -22.5 to 11.7 [p=0.639]).
+In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was numerically inferior, but not statistically different from ASA (RRR = -4.0%; CI: -22.5 to 11.7 [p=0.639]).
 In addition, a subgroup analysis by age suggested that the benefit of clopidogrel in patients over 75 years was less than that observed in patients ≤75 years.
 
 Since the CAPRIE trial was not powered to evaluate efficacy of individual subgroups, it is not clear whether the differences in relative risk reduction across qualifying conditions are real, or a result of chance.
@@ -37,7 +38,6 @@ Patients were randomised to clopidogrel (300 mg loading dose followed by 75 mg/d
 Patients were treated for up to one year.
 In CURE, 823 (6.6%) patients received concomitant GPIIb/IIIa receptor antagonist therapy.
 Heparins were administered in more than 90% of the patients and the relative rate of bleeding between clopidogrel and placebo was not significantly affected by the concomitant heparin therapy.
-
 The number of patients experiencing the primary endpoint [cardiovascular (CV) death, myocardial infarction (MI), or stroke] was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%-28%; p=0.00009) for the clopidogrel-treated group (17% relative risk reduction when patients were treated conservatively, 29% when they underwent percutaneous transluminal coronary angioplasty (PTCA) with or without stent and 10% when they underwent coronary artery bypass graft (CABG)).
 New cardiovascular events (primary endpoint) were prevented, with relative risk reductions of 22% (CI: 8.6, 33.4), 32% (CI: 12.8, 46.4), 4% (CI: -26.9, 26.7), 6% (CI: -33.5, 34.3) and 14% (CI: -31.6, 44.2), during the 0-1, 1-3, 3-6, 6-9 and 9-12 month study intervals, respectively.
 Thus, beyond 3 months of treatment, the benefit observed in the clopidogrel + ASA group was not further increased, whereas the risk of haemorrhage persisted (see section 4.4).
@@ -68,7 +68,6 @@ A total of 99.7% of patients received fibrinolytics (fibrin specific: 68.7%, non
 
 Fifteen percent (15.0%) of patients in the clopidogrel group and 21.7% in the placebo group reached the primary endpoint, representing an absolute reduction of 6.7% and a 36 % odds reduction in favor of clopidogrel (95% CI: 24, 47%; p < 0.001), mainly related to a reduction in occluded infarct-related arteries.
 This benefit was consistent across all prespecified subgroups including patients’ age and gender, infarct location, and type of fibrinolytic or heparin used.
-
 The 2x2 factorial design COMMIT trial included 45,852 patients presenting within 24 hours of the onset of the symptoms of suspected MI with supporting ECG abnormalities (i.e. ST elevation, ST depression or left bundle-branch block).
 Patients received clopidogrel (75 mg/day, n=22,961) or placebo (n=22,891), in combination with ASA (162 mg/day), for 28 days or until hospital discharge.
 The co-primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death.
