@@ -7,7 +7,7 @@ These were classified as common (between 1% and 10%) or uncommon (between 0.1% a
 
 | System Organ Class | Common ARs (>1/100 to <1/10) | Uncommon ARs (>1/1,000 to <1/100) |
 | --- | --- | --- |
-| Metabolism and nutrition disorders |  | Hyperkalaemia, metabolic disorders, hypocalcaemia, anorexia, hyperglycaemia, appetite decreased |
+| Metabolism and nutrition disorders |  | Hyperkalaemia, metabolic disorders, hypocalcaemia, hypokalaemia, anorexia, hyperglycaemia, appetite decreased |
 | Psychiatric disorders |  | Anxiety, euphoric mood |
 | Nervous system disorders | Headache Dizziness | Somnolence, insomnia, paraesthesia, hypersomnia, peripheral sensory neuropathy |
 | Eye disorders |  | Eye irritation, amblyopia |
@@ -21,6 +21,6 @@ These were classified as common (between 1% and 10%) or uncommon (between 0.1% a
 | Musculoskeletal and connective tissue disorders |  | Arthralgia |
 | Renal and urinary disorders |  | Urinary retention, glycosuria |
 | General disorders and administration site conditions |  | Asthenia, pyrexia, fatigue, feeling hot, influenza like illness |
-| Investigations |  | Elevated transaminases, hypokalaemia, electrocardiogram QT prolonged |
+| Investigations |  | Elevated transaminases, , electrocardiogram QT prolonged |
 
 Very rare cases (<1/10,000) of hypersensitivity reactions and injection site reactions (burning, induration, discomfort and pain) were reported from post-marketing experience.

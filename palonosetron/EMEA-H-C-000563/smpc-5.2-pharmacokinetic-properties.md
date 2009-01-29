@@ -2,7 +2,12 @@
 
 Absorption
 Following intravenous administration, an initial decline in plasma concentrations is followed by slow elimination from the body with a mean terminal elimination half-life of approximately 40 hours.
-Mean maximum plasma concentration (Cmax) and area under the concentration-time curve (AUC0-∞) are generally dose-proportional over the dose range of 0.3–90 µg/kg in healthy subjects and in cancer patients.
+Mean maximum plasma concentration (Cmax) and area under the concentration-time curve (AUC0-∞) are generally dose-proportional over the dose range of 0.3–90 μg/kg in healthy subjects and in cancer patients.
+
+Following intravenous administration of palonosetron 0.25 mg once every other day for 3 doses in 11 testicular cancer patients, the mean (± SD) increase in plasma concentration from Day 1 to Day 5 was 42 ± 34%.
+After intravenous administration of palonosetron 0.25 mg once daily for 3 days in 12 healthy subjects, the mean (± SD) increase in plasma palonosetron concentration from Day 1 to Day 3 was 110 ± 45%.
+
+Pharmacokinetic simulations indicate that the overall exposure (AUC0-∞) of 0.25 mg intravenous palonosetron administered once daily for 3 consecutive days was similar to a single intravenous dose of 0.75 mg, although Cmax of the 0.75 mg single dose was higher.
 
 Distribution
 Palonosetron at the recommended dose is widely distributed in the body with a volume of distribution of approximately 6.9 to 7.9 l/kg.
