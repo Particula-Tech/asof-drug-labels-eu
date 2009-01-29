@@ -13,3 +13,12 @@ Because of both the potential for HIV transmission and the potential for adverse
 Fertility
 No human data on the effect of darunavir on fertility are available.
 There was no effect on mating or fertility with darunavir treatment in rats (see section 5.3).
+
+[PREZISTA 400 mg film-coated tablets]
+
+Breast-feeding
+Because of both the potential for HIV transmission and the potential for adverse reactions in breast-fed infants, mothers should be instructed not to breast-feed under any circumstances if they are receiving PREZISTA.
+
+[PREZISTA 600 mg film-coated tablets]
+
+(all sentences already above)

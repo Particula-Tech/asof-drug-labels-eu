@@ -112,3 +112,47 @@ Response (HIV-1 RNA < 50 copies/ml at week 24) to PREZISTA co-administered with 
 | ≤ 10 | 55% 364/659 | 51% 244/477 | 66% 120/182 |
 | 10-40 | 29% 59/203 | 17% 25/147 | 61% 34/56 |
 | > 40 | 8% 9/118 | 5% 5/94 | 17% 4/24 |
+
+[PREZISTA 400 mg film-coated tablets]
+
+In the 48 week analysis of the ARTEMIS trial (see Clinical experience subsection ART-naïve patients), 9.9% virologic failures were observed in patients receiving PREZISTA/ritonavir 800/100 mg q.d.
+In these virologic failures no developing PI RAMs were identified.
+In 1 virologic failure of the PREZISTA/ritonavir group, 1 developing NRTI RAM at position 184 was identified, which was associated with a decreased susceptibility to emtricitabine included in the background regimen.
+
+In a pooled analysis of the POWER 1, 2 and 3 (see Clinical experience subsection ART-experienced patients) and DUET 1 and 2 (TMC125-C206 and TMC125-C216) trials the amino acid substitutions identified that developed on PREZISTA co-administered with ritonavir (600/100 mg b.i.d.) in ≥ 20% of the isolates from subjects who experienced virologic failure by rebound were V32I, I54L and L89V.
+
+In the virologic failures of the ARTEMIS trial no cross-resistance with other PIs was observed.
+Efficacy of PREZISTA co-administered with 100 mg ritonavir in ART-naïve patients
+The evidence of efficacy of PREZISTA/ritonavir 800/100 mg q.d. is based on the analyses of 48 week data from the ongoing, randomised, controlled, open-label Phase III trial ARTEMIS in antiretroviral treatment-naïve HIV-1 infected patients comparing PREZISTA/ritonavir 800/100 mg q.d. with lopinavir/ritonavir 800/200 mg per day (given as a twice-daily or as a once-daily regimen).
+Both arms used a fixed background regimen consisting of tenofovir disoproxil fumarate 300 mg q.d. and emtricitabine 200 mg q.d.
+
+HIV-1 infected patients who were eligible for this trial had plasma HIV-1 RNA > 5,000 copies/ml.
+Randomisation was stratified by screening plasma viral load and screening CD4+ cell count.
+The mean baseline plasma HIV-1 RNA was 4.86 log10 copies/ml and the median baseline CD4+ cell count was 228 x 106 cells/l (range 4–750 x 106 cells/l).
+
+The table below shows the efficacy data of the 48 week analyses from the ARTEMIS trial:
+
+|  | ARTEMIS |  |  |
+| --- | --- | --- | --- |
+| Outcomes | PREZISTA/rtv 800/100 mg q.d. N=343 | lopinavir/rtv 800/200 mg per day N=346 | treatment difference (95% CI of difference) |
+| HIV-1 RNA < 50 copies/mla | 287 (83.7%) | 271 (78.3%) | 5.3 (-0.5; 11.2)b |
+| HIV-1 RNA < 400 copies/mla | 301 (87.8%) | 295 (85.3%) | 2.5 (-2.6; 7.6)b |
+| mean HIV-1 RNA log change from baseline (log10 copies/ml)c | -2.77 | -2.65 | -0.11d (-0.30; 0.07)b |
+| median CD4+ cell count change from baseline (x 106/l)c | 137 | 141 |  |
+
+a Imputations according to the TLOVR algorithm b Based on normal approximation to the difference in % response c Non-completer is failure imputation: patients who discontinued prematurely are imputed with a change equal to 0 d Difference in means
+
+In the 48 week analysis, the virologic response (HIV-1 RNA < 50 copies/ml) for the PREZISTA/ritonavir arm was 83.7% and for the lopinavir/rtv arm 78.3%.
+Non-inferiority in virologic response, defined as the percentage of subjects with plasma HIV-1 RNA level < 50 copies/ml, was demonstrated (at the pre-defined 12% non-inferiority margin) for both Intent-To-Treat and On Protocol populations.
+
+Efficacy of PREZISTA co-administered with 100 mg ritonavir in ART-experienced patients
+
+[PREZISTA 600 mg film-coated tablets]
+
+|  | TITAN |  |  |
+| --- | --- | --- | --- |
+| Outcomes | PREZISTA/rtv 600/100 mg b.i.d. + OBR N=298 | lopinavir/rtv 400/100 mg b.i.d. + OBR N=297 | Treatment difference (95% CI of difference) |
+| HIV-1 RNA < 400 copies/mla | 228 (76.5%) | 199 (67.0%) | 9.5% (2.3; 16.7)b |
+| HIV-1 RNA < 50 copies/mla | 211 (70.8%) | 179 (60.3%) | 10.5% (2.9; 18.1)b |
+| mean HIV-1 RNA log change from baseline (log10 copies/ml)c | -1.95 | -1.72 | -0.23d (-0.44; -0.02)b |
+| median CD4+ cell count change from baseline (x 106/l)c | 88 | 81 |  |

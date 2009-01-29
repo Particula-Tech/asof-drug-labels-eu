@@ -98,3 +98,106 @@ There have been reports of increased spontaneous bleeding in haemophiliac patien
 
 Patients co-infected with hepatitis B and/or hepatitis C virus
 Among 1,968 treatment-experienced patients receiving PREZISTA co-administered with ritonavir 600/100 mg b.i.d., 236 patients were co-infected with hepatitis B or C. Co-infected patients were more likely to have baseline and treatment emergent hepatic transaminase elevations than those without chronic viral hepatitis (see section 4.4).
+
+[PREZISTA 400 mg film-coated tablets]
+
+The adverse drug reactions are derived from Phase IIb and Phase III trials, in which a total of 1,968 treatment-experienced patients initiated therapy with the recommended dose of PREZISTA
+600 mg with ritonavir 100 mg twice daily.Median exposure to PREZISTA/ritonavir in this group was 37.3 weeks.
+
+| SOC Frequency category | Adverse reaction* All grades | Adverse reaction** Grade 2-4 |
+| --- | --- | --- |
+| Infections and infestations |  |  |
+| uncommon | herpes simplex |  |
+| Blood and lymphatic system disorders |  |  |
+| uncommon | thrombocytopenia, neutropenia, anaemia, increased eosinophil count, leukopenia | thrombocytopenia, neutropenia, anaemia |
+| Immune system disorders |  |  |
+| uncommon | immune reconstitution syndrome | immune reconstitution syndrome |
+| Endocrine disorders |  |  |
+| uncommon | hypothyroidism, increased blood thyroid stimulating hormone |  |
+| Metabolism and nutrition disorders |  |  |
+| common | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy), hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia | hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia |
+| uncommon | diabetes mellitus, gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase | diabetes mellitus, lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy), gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance |
+| Psychiatric disorders |  |  |
+| common | insomnia |  |
+| uncommon | depression, confusional state, disorientation, anxiety, altered mood, sleep disorder, abnormal dreams, nightmare, decreased libido, restlessness | depression, confusional state, disorientation, anxiety, altered mood, insomnia, sleep disorder, abnormal dreams |
+| Nervous system disorders |  |  |
+| common | headache, peripheral neuropathy, dizziness | headache |
+| uncommon | syncope, convulsion, lethargy, paraesthesia, hypoaesthesia, ageusia, dysgeusia, disturbance in attention, memory impairment, somnolence, sleep phase rhythm disturbance | peripheral neuropathy, dizziness, lethargy, paraesthesia, hypoaesthesia, somnolence |
+| Eye disorders |  |  |
+| uncommon | visual disturbance, conjunctival hyperaemia, dry eye | conjunctival hyperaemia |
+| Ear and labyrinth disorders |  |  |
+| uncommon | vertigo | vertigo |
+| Cardiac disorders |  |  |
+| uncommon | acute myocardial infarction, myocardial infarction, angina pectoris, prolonged electrocardiogram QT, sinus bradycardia, tachycardia, palpitations | acute myocardial infarction, myocardial infarction, angina pectoris, prolonged electrocardiogram QT |
+| Vascular disorders |  |  |
+| uncommon | hypertension, flushing | hypertension |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| uncommon | dyspnoea, cough, epistaxis, rhinorrhoea, throat irritation | dyspnoea, cough |
+| Gastrointestinal disorders |  |  |
+| very common | diarrhoea |  |
+| common | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence | vomiting, diarrhoea, nausea, abdominal pain, increased blood amylase |
+| uncommon | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, stomatitis, retching, haematemesis, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia, cheilitis, dry lip, coated tongue | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, retching, dry mouth, abdominal distension, abdominal discomfort, flatulence, dyspepsia, constipation, increased lipase |
+| Hepatobiliary disorders |  |  |
+| common | increased alanine aminotransferase, increased aspartate aminotransferase | increased alanine aminotransferase |
+| uncommon | hepatitis, cytolytic hepatitis, hepatic steatosis, hepatomegaly, increased transaminase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase | hepatitis, cytolytic hepatitis, hepatic steatosis, increased transaminase, increased aspartate aminotransferase, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |
+| Skin and subcutaneous tissue disorders |  |  |
+| common uncommon | rash (including macular, maculopapular, papular, erythematous and pruritic rash), pruritus generalised rash, allergic dermatitis, face oedema, urticaria, dermatitis, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, seborrhoeic dermatitis, skin lesion, xeroderma, dry skin, nail pigmentation | rash (including macular, maculopapular, papular, erythematous and pruritic rash) generalised rash, allergic dermatitis, urticaria, pruritus, hyperhidrosis, night sweats, alopecia |
+| Musculoskeletal and connective tissue disorders |  |  |
+| uncommon | myalgia, muscle spasms, muscular weakness, musculoskeletal stiffness, arthritis, arthralgia, joint stiffness, pain in extremity, osteoporosis, increased blood creatine phosphokinase | myalgia, arthralgia, pain in extremity, osteoporosis, increased blood creatine phosphokinase |
+| Renal and urinary disorders |  |  |
+| uncommon | acute renal failure, renal failure, nephrolithiasis, increased blood creatinine, decreased creatinine renal clearance, proteinuria, bilirubinuria, dysuria, nocturia, pollakiuria | acute renal failure, renal failure, nephrolithiasis, increased blood creatinine, decreased creatinine renal clearance, proteinuria, bilirubinuria |
+| Reproductive system and breast disorders |  |  |
+| uncommon | erectile dysfunction, gynaecomastia | erectile dysfunction, gynaecomastia |
+| General disorders and administration site conditions |  |  |
+| common | asthenia, fatigue | fatigue |
+| uncommon | pyrexia, chest pain, peripheral oedema, malaise, chills, abnormal feeling, feeling hot, irritability, pain, xerosis | pyrexia, chest pain, asthenia, peripheral oedema, malaise |
+
+[PREZISTA 600 mg film-coated tablets]
+
+| SOC Frequency category | Adverse reaction* All grades | Adverse reaction** Grade 2-4 |
+| --- | --- | --- |
+| Infections and infestations |  |  |
+| uncommon | herpes simplex |  |
+| Blood and lymphatic system disorders |  |  |
+| uncommon | thrombocytopenia, neutropenia, anaemia, increased eosinophil count, leukopenia | thrombocytopenia, neutropenia, anaemia |
+| Immune system disorders |  |  |
+| uncommon | immune reconstitution syndrome | immune reconstitution syndrome |
+| Endocrine disorders |  |  |
+| uncommon | hypothyroidism, increased blood thyroid stimulating hormone |  |
+| Metabolism and nutrition disorders |  |  |
+| common | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy), hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia | hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia |
+| uncommon | diabetes mellitus, gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase | diabetes mellitus, lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy), gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance |
+| Psychiatric disorders |  |  |
+| common | insomnia |  |
+| uncommon | depression, confusional state, disorientation, anxiety, altered mood, sleep disorder, abnormal dreams, nightmare, decreased libido, restlessness | depression, confusional state, disorientation, anxiety, altered mood, insomnia, sleep disorder, abnormal dreams |
+| Nervous system disorders |  |  |
+| common uncommon | headache, peripheral neuropathy, dizziness syncope, convulsion, lethargy, paraesthesia, hypoaesthesia, ageusia, dysgeusia, disturbance in attention, memory impairment, somnolence, sleep phase rhythm disturbance | headache peripheral neuropathy, dizziness, lethargy, paraesthesia, hypoaesthesia, somnolence |
+| Eye disorders |  |  |
+| uncommon | visual disturbance, conjunctival hyperaemia, dry eye | conjunctival hyperaemia |
+| Ear and labyrinth disorders |  |  |
+| uncommon | vertigo | vertigo |
+| Cardiac disorders |  |  |
+| uncommon | acute myocardial infarction, myocardial infarction, angina pectoris, prolonged electrocardiogram QT, sinus bradycardia, tachycardia, palpitations | acute myocardial infarction, myocardial infarction, angina pectoris, prolonged electrocardiogram QT |
+| Vascular disorders |  |  |
+| uncommon | hypertension, flushing | hypertension |
+| Respiratory, thoracic and mediastinal disorders |  |  |
+| uncommon | dyspnoea, cough, epistaxis, rhinorrhoea, throat irritation | dyspnoea, cough |
+| Gastrointestinal disorders |  |  |
+| very common | diarrhoea |  |
+| common | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence | vomiting, diarrhoea, nausea, abdominal pain, increased blood amylase |
+| uncommon | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, stomatitis, retching, haematemesis, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia, cheilitis, dry lip, coated tongue | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, retching, dry mouth, abdominal distension, abdominal discomfort, flatulence, dyspepsia, constipation, increased lipase |
+| Hepatobiliary disorders |  |  |
+| common | increased alanine aminotransferase, increased aspartate aminotransferase | increased alanine aminotransferase |
+| uncommon | hepatitis, cytolytic hepatitis, hepatic steatosis, hepatomegaly, increased transaminase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase | hepatitis, cytolytic hepatitis, hepatic steatosis, increased transaminase, increased aspartate aminotransferase, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |
+| Skin and subcutaneous tissue disorders |  |  |
+| common | rash (including macular, maculopapular, papular, erythematous and pruritic rash), pruritus | rash (including macular, maculopapular, papular, erythematous and pruritic rash) |
+| uncommon | generalised rash, allergic dermatitis, face oedema, urticaria, dermatitis, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, seborrhoeic dermatitis, skin lesion, xeroderma, dry skin, nail pigmentation | generalised rash, allergic dermatitis, urticaria, pruritus, hyperhidrosis, night sweats, alopecia |
+| Musculoskeletal and connective tissue disorders |  |  |
+| uncommon | myalgia, muscle spasms, muscular weakness, musculoskeletal stiffness, arthritis, arthralgia, joint stiffness, pain in extremity, osteoporosis, increased blood creatine phosphokinase | myalgia, arthralgia, pain in extremity, osteoporosis, increased blood creatine phosphokinase |
+| Renal and urinary disorders |  |  |
+| uncommon | acute renal failure, renal failure, nephrolithiasis, increased blood creatinine, decreased creatinine renal clearance, proteinuria, bilirubinuria, dysuria, nocturia, pollakiuria | acute renal failure, renal failure, nephrolithiasis, increased blood creatinine, decreased creatinine renal clearance, proteinuria, bilirubinuria |
+| Reproductive system and breast disorders |  |  |
+| uncommon | erectile dysfunction, gynaecomastia | erectile dysfunction, gynaecomastia |
+| General disorders and administration site conditions |  |  |
+| common | asthenia, fatigue | fatigue |
+| uncommon | pyrexia, chest pain, peripheral oedema, malaise, chills, abnormal feeling, feeling hot, irritability, pain, xerosis | pyrexia, chest pain, asthenia, peripheral oedema, malaise |

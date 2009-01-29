@@ -22,3 +22,36 @@ Renal impairment: No dose adjustment is required in patients with renal impairme
 In case a dose of PREZISTA and/or ritonavir was missed within 6 hours of the time it is usually taken, patients should be instructed to take the prescribed dose of PREZISTA and ritonavir with food as soon as possible.
 If this was noticed later than 6 hours of the time it is usually taken, the missed dose should not be taken and the patient should resume the usual dosing schedule.
 This guidance is based on the 15 hour half-life of darunavir in the presence of ritonavir and the recommended dosing interval of approximately 12 hours.
+
+[PREZISTA 400 mg film-coated tablets]
+
+Adults
+ART-naïve patients
+The recommended dosage of PREZISTA is 800 mg once daily (q.d.) taken with ritonavir 100 mg q.d. and with food.
+Patients should be instructed to take PREZISTA with low dose ritonavir within 30 minutes after completion of a meal.
+
+ART-experienced patients
+For dosage recommendations in ART-experienced patients see the Summary of Product Characteristics for PREZISTA 300 mg and 600 mg tablets.
+
+After therapy with PREZISTA has been initiated, patients should be advised not to alter the dosage or discontinue therapy without instruction of their physician.
+
+Children and adolescents
+PREZISTA is not recommended for use in children and adolescents because due to insufficient data on safety, efficacy and pharmacokinetics.
+
+Elderly
+Limited information is available in this population and therefore PREZISTA should be used with caution in this age group (see sections 4.4 and 5.2).
+Hepatic impairment
+Darunavir is metabolised by the hepatic system.
+
+Renal impairment
+No dose adjustment is required in patients with renal impairment (see sections 4.4 and 5.2).
+
+If an 800/100 mg once daily dose of PREZISTA/ritonavir is missed within 12 hours of the time it is usually taken, patients should be instructed to take the prescribed dose of PREZISTA and ritonavir with food as soon as possible.
+If this is noticed later than 12 hours of the time it is usually taken, the missed dose should not be taken and the patient should resume the usual dosing schedule.
+This guidance is based on the 15 hour half-life of darunavir in the presence of ritonavir and the recommended dosing interval of approximately 24 hours.
+
+[PREZISTA 600 mg film-coated tablets]
+
+The recommended dosage of PREZISTA is 600 mg twice daily (b.i.d.) taken with ritonavir 100 mg b.i.d. and with food.
+
+PREZISTA is not recommended for use in children and adolescents due to insufficient data on safety, efficacy and pharmacokinetics.
