@@ -23,5 +23,6 @@ These effects occurred at doses that did not produce maternal toxicity, indicati
 
 In mice, dasatinib induced immunosuppression, which was dose-related and effectively managed by dose reduction and/or changes in dosing schedule.
 Dasatinib had phototoxic potential in an in vitro neutral red uptake phototoxicity assay in mouse fibroblasts.
+Dasatinib was considered to be non-phototoxic in vivo after a single oral administration to female hairless mice at exposures up to 3-fold the human exposure following administration of the recommended therapeutic dose (based on AUC).
 
 No carcinogenesis studies were conducted with dasatinib.
