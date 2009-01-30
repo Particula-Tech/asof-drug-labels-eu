@@ -56,9 +56,9 @@ The incidence and severity of adverse reactions generally increase with increasi
 If treatment is interrupted for more than several days, it should be re-initiated with 4.6 mg/24 h.
 
 Gastrointestinal disorders such as nausea and vomiting are dose-related, and may occur when initiating treatment and/or increasing the dose (see section 4.8).
+
 Patients with Alzheimer’s disease may lose weight whilst taking cholinesterase inhibitors, including rivastigmine.
 The patient’s weight should be monitored during therapy with Exelon transdermal patches.
-
 Care must be taken when prescribing Exelon transdermal patches:
 
 - to patients with sick sinus syndrome or conduction defects (sino-atrial block, atrio-ventricular block) (see section 4.8)

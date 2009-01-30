@@ -68,7 +68,6 @@ The inter-patient variability in a steady-state study in Alzheimer’s dementia 
 A relationship between active substance exposure at steady state (rivastigmine and metabolite NAP226-90) and bodyweight was observed in Alzheimer’s dementia patients.
 Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state concentrations in a patient with a body weight of 35 kg would be approximately doubled, while for a patient with a body weight of 100 kg the concentrations would be approximately halved.
 The effect of bodyweight on active substance exposure suggests special attention to patients with very low body weight during up-titration (see section 4.4).
-
 Exposure (AUC∞) to rivastigmine (and metabolite NAP266-90) was highest when the transdermal patch was applied to the upper back, chest, or upper arm and approximately 20–30% lower when applied to the abdomen or thigh.
 
 There was no relevant accumulation of rivastigmine or the metabolite NAP226-90 in plasma in patients with Alzheimer’s disease, except that plasma levels were higher on the second day of transdermal patch therapy than on the first.

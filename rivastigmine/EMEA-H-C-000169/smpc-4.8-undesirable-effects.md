@@ -6,6 +6,7 @@ Female patients in clinical studies were found to be more susceptible than male 
 The following adverse reactions, listed below in Table 1, have been accumulated in patients with Alzheimer’s dementia treated with Exelon.
 
 Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥1/10); common (≥1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (<1/10,000) and not known (cannot be estimated from the available data).
+
 Table 1
 
 | Infections and infestations Very rare | Urinary infection |
@@ -20,6 +21,8 @@ Table 1
 | Skin and subcutaneous tissue disorders Common Rare | Sweating increased Rashes |
 | General disorders and administration site conditions Common Common Uncommon | Fatigue and asthenia Malaise Accidental fall |
 | Investigations Common | Weight loss |
+
+The following additional adverse reactions have been observed with Exelon transdermal patches: anxiety, delirium, pyrexia (common).
 
 Table 2 shows the adverse reactions reported in patients with dementia associated with Parkinson’s disease treated with Exelon.
 
@@ -58,7 +61,19 @@ Table 3
 
 [Exelon 2 mg/ml oral solution]
 
-(all sentences already above)
+| Psychiatric disorders Common Common Common | Insomnia Anxiety Restlessness |
+| --- | --- |
+| Nervous system disorders Very common Common Common Common Common Common Common Uncommon | Tremor Dizziness Somnolence Headache Worsening of Parkinson’s disease Bradykinesia Dyskinesia Dystonia |
+| Cardiac disorders Common Uncommon Uncommon | Bradycardia Atrial Fibrillation Atrioventricular block |
+| Gastrointestinal disorders Very common Very common Common Common Common | Nausea Vomiting Diarrhoea Abdominal pain and dyspepsia Salivary hypersecretion |
+| Skin and subcutaneous tissue disorders Common | Sweating increased |
+| Musculoskeletal and connective tissue disorders Common | Muscle rigidity |
+| Metabolism and nutritional disorders Common Common | Anorexia Dehydration |
+
+General disorders and administration
+site conditions
+Common Fatigue and asthenia
+Common Gait abnormality
 
 [Exelon 4.6 mg/24 h transdermal patch]
 

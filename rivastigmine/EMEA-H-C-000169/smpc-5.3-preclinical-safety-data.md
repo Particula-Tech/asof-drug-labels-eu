@@ -33,7 +33,6 @@ Oral studies in pregnant rats and rabbits gave no indication of teratogenic pote
 
 Oral and topical repeated-dose toxicity studies in mice, rats, rabbits, dogs and minipigs revealed only effects associated with an exaggerated pharmacological action.
 Oral and topical dosing in animal studies was limited due to the sensitivity of the animal models used.
-
 Rivastigmine was not mutagenic in a standard battery of in vitro and in vivo tests, except in a chromosomal aberration test in human peripheral lymphocytes at a dose exceeding 104 times the foreseen clinical exposure.
 
 No evidence of carcinogenicity was found in oral and topical studies in mice and in an oral study in rats at the maximum tolerated dose.
