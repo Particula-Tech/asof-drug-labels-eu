@@ -3,6 +3,7 @@
 Pharmacotherapeutic group: dopamine agonists, ATC code: N04BC05
 
 Pramipexole is a dopamine agonist that binds with high selectivity and specificity to the D2 subfamily of dopamine receptors of which it has a preferential affinity to D3 receptors, and has full intrinsic activity.
+
 Pramipexole alleviates Parkinsonian motor deficits by stimulation of dopamine receptors in the striatum.
 Animal studies have shown that pramipexole inhibits dopamine synthesis, release, and turnover.
 
@@ -30,7 +31,6 @@ Clinical trials in Restless Legs Syndrome
 The efficacy of SIFROL was evaluated in four placebo-controlled clinical trials in approximately 1000 patients with moderate to very severe idiopathic Restless Legs Syndrome.
 Efficacy was demonstrated in controlled trials in patients treated for up to 12 weeks.
 Maintenance of effect has not been sufficiently tested.
-
 The mean change from baseline in the Restless Legs Syndrome Rating Scale (IRLS) and the Clinical Global Impression-Improvement (CGI-I) were the primary efficacy outcome measures.
 For both primary endpoints statistically significant differences have been observed for the pramipexole dose groups 0.25 mg, 0.5 mg and 0.75 mg in comparison to placebo.
 After 12 weeks of treatment the baseline IRLS score improved from 23.5 to 14.1 points for placebo and from 23.4 to 9.4 points for pramipexole (doses combined).

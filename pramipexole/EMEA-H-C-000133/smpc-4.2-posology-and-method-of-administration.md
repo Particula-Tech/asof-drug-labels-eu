@@ -4,7 +4,6 @@ Parkinson’s disease
 
 The tablets should be taken orally, swallowed with water, and can be taken either with or without food.
 The daily dosage is administered in equally divided doses 3 times a day.
-
 Initial treatment:
 Dosages should be increased gradually from a starting-dose of 0.264 mg of base (0.375 mg of salt) per day and then increased every 5 - 7 days.
 Providing patients do not experience intolerable side-effects, the dosage should be titrated to achieve a maximal therapeutic effect.
@@ -46,10 +45,10 @@ In patients with a creatinine clearance less than 20 ml/min, the daily dose of S
 
 If renal function declines during maintenance therapy, reduce SIFROL daily dose by the same percentage as the decline in creatinine clearance, i.e. if creatinine clearance declines by 30%, then reduce the SIFROL daily dose by 30%.
 The daily dose can be administered in two divided doses if creatinine clearance is between 20 and 50 ml/min, and as a single daily dose if creatinine clearance is less than 20 ml/min.
-
 Dosing in patients with hepatic impairment
 Dose adjustment in patients with hepatic failure is probably not necessary, as approx. 90% of absorbed active substance is excreted through the kidneys.
 However, the potential influence of hepatic insufficiency on SIFROL pharmacokinetics has not been investigated.
+
 Restless Legs Syndrome
 
 The tablets should be taken orally, swallowed with water, and can be taken either with or without food.
