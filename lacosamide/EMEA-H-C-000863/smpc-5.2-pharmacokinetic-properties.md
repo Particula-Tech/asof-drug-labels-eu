@@ -23,6 +23,7 @@ Furthermore an interaction trial with omeprazole (CYP2C19-inhibitor) demonstrate
 No other enzymes have been identified to be involved in the metabolism of lacosamide.
 The plasma concentration of O-desmethyl-lacosamide is approximately 15% of the concentration of lacosamide in plasma.
 This major metabolite has no known pharmacological activity.
+
 Elimination
 Lacosamide is primarily eliminated from the systemic circulation by renal excretion and biotransformation.
 After oral and intravenous administration of radiolabeled lacosamide, approximately 95% of radioactivity administered was recovered in the urine and less than 0.5% in the feces.

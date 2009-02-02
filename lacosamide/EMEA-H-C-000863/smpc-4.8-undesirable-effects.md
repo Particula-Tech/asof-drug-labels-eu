@@ -27,3 +27,39 @@ Adverse reactions associated with PR interval prolongation (e.g. atrioventricula
 In epilepsy patients the incidence rate of reported first degree AV Block is uncommon, 0.7%, 0%, 0.5% and 0% for lacosamide 200 mg, 400 mg, 600 mg or placebo, respectively.
 No second or higher degree AV Block was seen in lacosamide treated patients.
 The incidence rate for syncope is uncommon and did not differ between lacosamide treated epilepsy patients (0.1%) and placebo treated epilepsy patients (0.3%).
+
+[Vimpat 100 mg film-coated tablets]
+
+(all sentences already above)
+
+[Vimpat 150 mg film-coated tablets]
+
+(all sentences already above)
+
+[Vimpat 200 mg film-coated tablets]
+
+(all sentences already above)
+
+[Vimpat 50 mg film-coated tablets (SmPC 5)]
+
+| System organ class | Very common | Common |
+| --- | --- | --- |
+| Psychiatric disorders |  | Depression |
+| Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus |
+| Eye disorders | Diplopia | Vision blurred |
+| Ear and labyrinth disorders |  | Vertigo |
+| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence |
+| Skin and subcutaneous tissue disorders |  | Pruritus |
+| General disorders and administration site |  | Gait disturbance Asthenia |
+
+conditions Fatigue
+Injury, poisoning and Fall
+procedural complications Skin laceration
+
+[Vimpat 15 mg/ml syrup]
+
+(all sentences already above)
+
+[Vimpat 10 mg/ml solution for infusion]
+
+(all sentences already above)

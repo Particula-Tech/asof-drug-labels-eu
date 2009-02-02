@@ -7,6 +7,12 @@ Prolongations in PR interval with lacosamide have been observed in clinical stud
 Lacosamide should be used with caution in patients with known conduction problems or severe cardiac disease such as a history of myocardial infarction or heart failure.
 Caution should especially be exerted when treating elderly patients as they may be at an increased risk of cardiac disorders or when lacosamide is used in combination with products known to be associated with PR prolongation.
 
+Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in several indications.
+A meta-analysis of randomised placebo controlled trials of anti-epileptic drugs has also shown a small increased risk of suicidal ideation and behaviour.
+The mechanism of this risk is not known and the available data do not exclude the possibility of an increased risk for lacosamide.
+Therefore patients should be monitored for signs of suicidal ideation and behaviours and appropriate treatment should be considered.
+Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge.
+
 [Vimpat 100 mg film-coated tablets]
 
 (all sentences already above)

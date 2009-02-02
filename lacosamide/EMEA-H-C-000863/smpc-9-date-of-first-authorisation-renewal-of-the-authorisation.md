@@ -1,3 +1,3 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
-<{DD/MM/YYYY}> <{DD month YYYY}>
+Date of first authorisation: 29 August 2008
