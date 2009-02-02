@@ -41,6 +41,7 @@ Voriconazole is eliminated via hepatic metabolism with less than 2 % of the dose
 
 After administration of a radiolabelled dose of voriconazole, approximately 80 % of the radioactivity is recovered in the urine after multiple intravenous dosing and 83 % in the urine after multiple oral dosing.
 The majority (> 94 %) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
+
 The terminal half-life of voriconazole depends on dose and is approximately 6 hours at 200 mg (orally).
 Because of non-linear pharmacokinetics, the terminal half-life is not useful in the prediction of the accumulation or elimination of voriconazole.
 
@@ -51,7 +52,6 @@ A positive association between mean, maximum or minimum plasma voriconazole conc
 Pharmacokinetic-Pharmacodynamic analyses of clinical trial data identified positive associations between plasma voriconazole concentrations and both liver function test abnormalities and visual disturbances.
 
 Pharmacokinetics in special patient groups
-
 Gender
 In an oral multiple dose study, Cmax and AUCτ for healthy young females were 83 % and 113 % higher, respectively, than in healthy young males (18-45 years).
 In the same study, no significant differences in Cmax and AUCτ were observed between healthy elderly males and healthy elderly females (≥ 65 years).
@@ -76,7 +76,6 @@ Based on the population pharmacokinetic analysis, no dosage adjustment according
 A loading dose is not indicated in paediatric patients.
 Oral bioavailability may, however, be limited in paediatric patients with malabsorption and very low body weight for their age.
 In that case, intravenous voriconazole administration is recommended.
-
 Renal impairment
 In an oral single dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance <20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.
 The plasma protein binding of voriconazole was similar in subjects with different degrees of renal impairment.
@@ -91,36 +90,18 @@ No pharmacokinetic data are available for patients with severe hepatic cirrhosis
 
 [VFEND 200 mg film-coated tablets]
 
-General pharmacokinetic characteristics The pharmacokinetics of voriconazole have been characterised in healthy subjects, special populations and patients.
-
-Absorption Voriconazole is rapidly and almost completely absorbed following oral administration, with maximum plasma concentrations (Cmax) achieved 1-2 hours after dosing.
-
-Distribution The volume of distribution at steady state for voriconazole is estimated to be 4.6 l/kg, suggesting extensive distribution into tissues.
-
-In vitro studies showed that voriconazole is metabolised by the hepatic cytochrome P450 isoenzymes,
-CYP2C19, CYP2C9 and CYP3A4.
-
-Excretion Voriconazole is eliminated via hepatic metabolism with less than 2 % of the dose excreted unchanged in the urine.
+Cerebrospinal fluid samples from eight patients in a compassionate programme showed detectable oriconazole concentrations in all patients.
 
 The majority (>94 %) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
 
-Pharmacokinetic-Pharmacodynamic relationships In 10 therapeutic studies, the median for the average and maximum plasma concentrations in individual subjects across the studies was 2425 ng/ml (inter-quartile range 1193 to 4380 ng/ml) and 3742 ng/ml (inter-quartile range 2027 to 6302 ng/ml), respectively.
-
-Gender In an oral multiple dose study, Cmax and AUCτ for healthy young females were 83 % and 113 % higher, respectively, than in healthy young males (18-45 years).
-
-Elderly In an oral multiple dose study Cmax and AUCτ in healthy elderly males (≥ 65 years) were 61 % and 86 % higher, respectively, than in healthy young males (18-45 years).
-
-Paediatric The recommended oral dose in paediatrics is based on a population pharmacokinetic analysis of data obtained from 47 immunocompromised paediatric patients aged 2 to <12 years old who were evaluated in a pharmacokinetic study examining multiple oral suspension doses of 4 and 6 mg/kg twice daily.
-
-Renal impairment In an oral single dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance < 20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.
-
-Hepatic impairment After an oral single dose (200 mg), AUC was 233 % higher in subjects with mild to moderate hepatic cirrhosis (Child-Pugh A and B) compared with subjects with normal hepatic function.
+In an oral single dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance < 20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.
 
 [VFEND 200 mg powder for solution for infusion]
 
 The majority (> 94%) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
 
-Paediatrics The recommended intravenous dose in paediatric patients is based on a population pharmacokinetic analysis of data pooled from 82 immunocompromised paediatric patients aged 2 to <12 years old who were evaluated in three pharmacokinetic studies (examining single intravenous doses of 3 and 4 mg/kg twice daily, multiple intravenous doses of 3, 4, 6 and 8 mg/kg twice daily and multiple oral suspension doses of 4 and 6 mg/kg twice daily).
+Paediatrics
+The recommended intravenous dose in paediatric patients is based on a population pharmacokinetic analysis of data pooled from 82 immunocompromised paediatric patients aged 2 to <12 years old who were evaluated in three pharmacokinetic studies (examining single intravenous doses of 3 and 4 mg/kg twice daily, multiple intravenous doses of 3, 4, 6 and 8 mg/kg twice daily and multiple oral suspension doses of 4 and 6 mg/kg twice daily).
 The majority of patients received more than one dose level with a maximum duration of dosing of 30 days.
 
 A comparison of the paediatric and adult population pharmacokinetic data indicated that in order to obtain comparable exposures to those obtained in adults following intravenous maintenance doses of 4 mg/kg twice daily, intravenous maintenance doses of 7 mg/kg twice daily are required in paediatric patients.
@@ -129,7 +110,7 @@ In order to obtain comparable exposures to those obtained in adults following in
 
 Based on the population pharmacokinetic analysis, no loading dose or dosage adjustment according to age is warranted in patients aged 2 to <12 years old.
 
-Renal impairment In patients with moderate to severe renal dysfunction (serum creatinine levels > 2.5 mg /dl), accumulation of the intravenous vehicle, SBECD, occurs.
+In patients with moderate to severe renal dysfunction (serum creatinine levels > 2.5 mg /dl), accumulation of the intravenous vehicle, SBECD, occurs.
 
 [VFEND 40 mg/ml powder for oral suspension]
 

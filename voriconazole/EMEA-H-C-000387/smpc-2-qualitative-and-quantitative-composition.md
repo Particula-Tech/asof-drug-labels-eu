@@ -1,7 +1,8 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
 Each tablet contains 50 mg voriconazole.
-Excipient: lactose monohydrate 63.42 mg
+Excipient: lactose monohydrate 63.42 mg.
+
 For a full list of excipients, see section 6.1.
 
 [VFEND 200 mg film-coated tablets]

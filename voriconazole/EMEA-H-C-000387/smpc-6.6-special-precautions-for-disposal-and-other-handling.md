@@ -44,7 +44,6 @@ Required Volumes of 10 mg/ml VFEND Concentrate
 Voriconazole is a single dose unpreserved sterile lyophile.
 Therefore, from a microbiological point of view, the reconstituted solution must be used immediately.
 If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8°C, unless reconstitution has taken place in controlled and validated aseptic conditions.
-
 The reconstituted solution can be diluted with:
 
 9 mg/ml (0.9 %) Sodium Chloride for Infusion
@@ -59,7 +58,6 @@ The compatibility of voriconazole with diluents other than described above or in
 Any remaining suspension should be discarded 14 days after constitution.
 
 Constitution instructions:
-
 1.
 Tap the bottle to release the powder.
 2.
@@ -75,9 +73,7 @@ Press bottle adaptor into the neck of the bottle.
 Replace the cap.
 6.
 Write the date of expiration of the constituted suspension on the bottle label (the shelf-life of the constituted suspension is 14 days).
-
 Instructions for use:
-
 Shake the closed bottle of constituted suspension for approximately 10 seconds before each use.
 
 Once constituted, VFEND oral suspension should only be administered using the oral syringe supplied with each pack.
