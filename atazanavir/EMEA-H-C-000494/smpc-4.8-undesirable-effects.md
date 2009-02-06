@@ -15,8 +15,7 @@ Combination antiretroviral therapy has been associated with metabolic abnormalit
 
 Adult patients
 The following adverse reactions of moderate intensity or greater with at least a possible relationship to regimens containing REYATAZ and one or more NRTIs have also been reported.
-The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10), common (≥ 1/100, < 1/10), uncommon (≥ 1/1,000, < 1/100), rare (≥ 1/10,000, < 1/1,000), or very rare
-(< 1/10,000).
+The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), or very rare (< 1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Cardiac disorders: rare: oedema, palpitation

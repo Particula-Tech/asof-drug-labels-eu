@@ -10,9 +10,8 @@ The use of higher ritonavir doses might alter the safety profile of atazanavir
 Patients with coexisting conditions
 Atazanavir is primarily hepatically metabolised and increased plasma concentrations were observed in patients with hepatic impairment (see sections 4.2 and 4.3).
 The safety and efficacy of REYATAZ has not been established in patients with significant underlying liver disorders.
-Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse events.
-In case of concomitant antiviral therapy for hepatitis B or
-C, please refer also to the relevant Summary of Product Characteristics for these medicinal products
+Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse reactions.
+In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant Summary of Product Characteristics for these medicinal products
 (see section 4.8).
 
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.

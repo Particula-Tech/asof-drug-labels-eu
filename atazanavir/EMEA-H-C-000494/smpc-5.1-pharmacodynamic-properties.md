@@ -25,7 +25,6 @@ In antiretroviral treatment experienced patients, 100 isolates from patients des
 Of the 60 isolates from patients treated with either atazanavir or atazanavir + ritonavir, 18 (30%) displayed the I50L phenotype previously described in naive patients.
 The resistance in antiretroviral treatment experienced patients mainly occurs by accumulation of the primary and secondary resistance substitutions described previously to be involved in protease inhibitor resistance.
 These isolates developed higher levels of resistance to the other protease inhibitors.
-
 Cross-resistance in vitro in viruses resistant to other protease inhibitors
 Atazanavir susceptibility was evaluated in 943 clinical isolates from patients without prior atazanavir exposure and exhibited a wide array of genotypic and phenotypic patterns.
 In vitro, there was a clear trend toward decreased susceptibility to atazanavir as isolates exhibited high resistance levels to multiple protease inhibitors.
