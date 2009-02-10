@@ -11,7 +11,7 @@ In addition, high exposures of entecavir had no relevant adverse effects on γ p
 
 Antiviral activity: entecavir inhibited HBV DNA synthesis (50% reduction, EC50) at a concentration of 0.004 µM in human HepG2 cells transfected with wild-type HBV.
 The median EC50 value for entecavir against LVDr HBV (rtL180M and rtM204V) was 0.026 µM (range 0.010-0.059 µM).
-Recombinant viruses encoding adefovir-resistant mutations at either rtN236T or rtA181V remained fully susceptible to entecavir.
+Recombinant viruses encoding adefovir-resistant substitutions at either rtN236T or rtA181V remained fully susceptible to entecavir.
 
 An analysis of the inhibitory activity of entecavir against a panel of laboratory and clinical HIV-1 isolates using a variety of cells and assay conditions yielded EC50 values ranging from 0.026 to
 > 10 µM; the lower EC50 values were observed when decreased levels of virus were used in the assay.
@@ -22,9 +22,9 @@ In HBV combination assays in cell culture, abacavir, didanosine, lamivudine, sta
 In HIV antiviral assays, entecavir at micromolar concentrations was not antagonistic to the anti-HIV activity in cell culture of these six NRTIs or emtricitabine.
 
 Resistance in cell culture: relative to wild-type HBV, LVDr viruses containing rtM204V and rtL180M substitutions within the reverse transcriptase exhibit 8-fold decreased susceptibility to entecavir.
-Incorporation of additional entecavir resistant amino acid changes rtT184, rtS202 and/or rtM250 decreases entecavir susceptibility in cell culture.
+Incorporation of additional ETVr amino acid changes rtT184, rtS202 or rtM250 decreases entecavir susceptibility in cell culture.
 Substitutions observed in clinical isolates (rtT184A, C, F, G, I, L, M or S; rtS202 C, G or I; and/or rtM250I, L or V) further decreased entecavir susceptibility 16- to 741-fold relative to wild-type virus.
-The entecavir resistant substitutions at residues rtT184, rtS202 and rtM250 alone have only a modest effect on entecavir susceptibility, and have not been observed in the absence of lamivudine resistant substitutions in more than 1000 patient samples sequenced.
+The ETVr substitutions at residues rtT184, rtS202 and rtM250 alone have only a modest effect on entecavir susceptibility, and have not been observed in the absence of LVDr substitutions in more than 1000 patient samples sequenced.
 Resistance is mediated by reduced inhibitor binding to the altered HBV reverse transcriptase, and resistant HBV exhibits reduced replication capacity in cell culture.
 
 Clinical experience: the demonstration of benefit is based on histological, virological, biochemical, and serological responses after 48 weeks of treatment in active-controlled clinical trials of 1,633 adults with chronic hepatitis B infection and evidence of viral replication.
@@ -119,40 +119,50 @@ Therefore, entecavir should not be used in this setting due to the potential for
 
 Patients with decompensated liver disease: a randomised open-label study (048) comparing entecavir 1.0 mg once daily with adefovir 10 mg once daily in patients with hepatic decompensation is ongoing.
 
-Clinical resistance: all patients in clinical trials initially treated with entecavir 0.5 mg (nucleoside-naive) or 1.0 mg (lamivudine-refractory) and with an on-therapy PCR HBV DNA measurement at or after Week 24 were monitored for resistance.
-Genotypic evidence of ETVr substitutions at rtT184, rtS202, and/or rtM250 were identified in < 1% of patients treated with entecavir for up to 144 weeks in nucleoside-naive studies (see table).
+Clinical resistance: patients in clinical trials initially treated with entecavir 0.5 mg (nucleoside-naive) or 1.0 mg (lamivudine-refractory) and with an on-therapy PCR HBV DNA measurement at or after Week 24 were monitored for resistance.
+Through Week 240 in nucleoside-naive studies, genotypic evidence of ETVr substitutions at rtT184, rtS202, or rtM250 was identified in 3 patients treated with entecavir, 2 of whom experienced virologic breakthrough (see table).
 These substitutions were observed only in the presence of LVDr substitutions (rtM204V and rtL180M).
 
-| Emerging Genotypic Entecavir Resistance Through Week 144, Nucleoside-Naive Studies |  |  |  |
-| --- | --- | --- | --- |
-|  | Year 1 | Year 2 | Year 3a |
-| Patients treated and monitored for resistanceb | 663 | 278 | 149 |
-| Emerging genotypic ETVrc | 1 (<1%) | 1 (<1%) | 1 (<1%) |
-| Cumulative probability of emerging genotypic ETVrc | 0.2% | 0.5% | 1.2% |
-| Virologic reboundd due to emerging ETVrc | 1 (<1%) | 0 | 1 (<1%) |
+| Emerging Genotypic Entecavir Resistance Through Year 5, Nucleoside-Naive Studies |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Year 1 | Year 2 | Year 3a | Year 4a | Year 5a |
+| Patients treated and monitored for resistanceb | 663 | 278 | 149 | 121 | 108 |
+| Patients in specific year with: |  |  |  |  |  |
+| - emerging genotypic ETVrc | 1 | 1 | 1 | 0 | 0 |
+| - genotypic ETVrc with virologic breakthroughd | 1 | 0 | 1 | 0 | 0 |
+| Cumulative probability of: |  |  |  |  |  |
+| - emerging genotypic ETVrc | 0.2% | 0.5% | 1.2% | 1.2% | 1.2% |
+| - genotypic ETVrc with virologic breakthroughd | 0.2% | 0.2% | 0.8% | 0.8% | 0.8% |
 
-a Results in Year 3 reflect use of a 1-mg dose of entecavir for 147 of 149 patients and of combination entecavir-lamivudine therapy for a median of 20 weeks (followed by long-term entecavir therapy) for 130 of 149 patients in a rollover study.
-b Includes patients with at least one on-therapy HBV DNA measurement by PCR at or after Week 24 through week 58 (Year 1), after week 58 through week 102 (Year 2), or after week 102 through week 156 (Year 3).
+a Results reflect use of a 1-mg dose of entecavir for 147 of 149 patients in Year 3 and all patients in Years 4 and 5 and of combination entecavir-lamivudine therapy (followed by long-term entecavir therapy) for a median of 20 weeks for 130 of 149 patients in Year 3 and for 1 week for 1 of 121 patients in Year 4 in a rollover study.
+b Includes patients with at least one on-therapy HBV DNA measurement by PCR at or after week 24 through week 58 (Year 1), after week 58 through week 102 (Year 2), after week 102 through week 156 (Year 3), after week 156 through week 204 (Year 4), or after week 204 through week 252 (Year 5).
 c Patients also have LVDr substitutions.
 d ≥1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
 
-ETVr substitutions were observed at baseline in isolates from 10/187 (5%) lamivudine-refractory patients treated with entecavir and monitored for resistance, indicating that prior lamivudine treatment can select these resistance substitutions and that they can exist at a low frequency before entecavir treatment.
-Through Week 144, 3 of the 10 patients experienced virologic rebound (≥ 1 log10 increase above nadir).
-Emerging entecavir resistance in lamivudine-refractory studies through Week 144 is summarized in the table.
+ETVr substitutions (in addition to LVDr substitutions rtM204V/I ± rtL180M) were observed at baseline in isolates from 10/187 (5%) lamivudine-refractory patients treated with entecavir and monitored for resistance, indicating that prior lamivudine treatment can select these resistance substitutions and that they can exist at a low frequency before entecavir treatment.
+Through Week 240, 3 of the 10 patients experienced virologic breakthrough (≥ 1 log10 increase above nadir).
+Emerging entecavir resistance in lamivudine-refractory studies through Week 240 is summarized in the table.
 
-| Emerging Genotypic Entecavir Resistance Through Week 144, Lamivudine-Refractory Studies |  |  |  |
-| --- | --- | --- | --- |
-|  | Year 1 | Year 2 | Year 3a |
-| Patients treated and monitored for resistanceb | 187 | 146 | 80 |
-| Emerging genotypic ETVrc | 11 (6%) | 12 (8%) | 15 (19%) |
-| Cumulative probability of emerging genotypic ETVrc | 6% | 15% | 35% |
-| Virologic rebound d due to emerging ETVrc | 2 (1%) e | 14 (10%)e | 13 (16%)e |
+| Genotypic Entecavir Resistance Through Year 5, Lamivudine-Refractory Studies |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | Year 1 | Year 2 | Year 3a | Year 4 a | Year 5 a |
+| Patients treated and monitored for resistanceb | 187 | 146 | 80 | 52 | 33 |
+| Patients in specific year with: |  |  |  |  |  |
+| - emerging genotypic ETVrc | 11 | 12 | 16 | 6 | 2 |
+| - genotypic ETVrc with virologic breakthroughd | 2e | 14e | 13e | 9e | 1e |
+| Cumulative probability of: |  |  |  |  |  |
+| - emerging genotypic ETVrc | 6.2% | 15% | 36.3% | 46.6% | 51.45% |
+| - genotypic ETVrc with virologic breakthroughd | 1.1%e | 10.7% e | 27% e | 41.3% e | 43.6% e |
 
-a Results in Year 3 reflect use of combination entecavir-lamivudine therapy for a median of 13 weeks (followed by long-term entecavir therapy) for 48 of 80 patients in a rollover study.
-b Includes patients with at least one on-therapy HBV DNA measurement by PCR at or after Week 24 through week 58 (Year 1), after week 58 through week 102 (Year 2), or after week 102 through week 156 (Year 3).
+a Results reflect use of combination entecavir-lamivudine therapy (followed by long-term entecavir therapy) for a median of 13 weeks for 48 of 80 patients in Year 3, a median of 38 weeks for 10 of 52 patients in Year 4, and for 16 weeks for 1 of 33 patients in Year 5 in a rollover study.
+b Includes patients with at least one on-therapy HBV DNA measurement by PCR at or after week 24 through week 58 (Year 1), after week 58 through week 102 (Year 2), after week 102 through week 156 (Year 3), after week 156 through week 204 (Year 4), or after week 204 through week 252 (Year 5).
 c Patients also have LVDr substitutions.
 d ≥1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
-e ETVr emerging in any year; rebound in specified year.
+e ETVr occurring in any year; virologic breakthrough in specified year.
+
+Among lamivudine-refractory patients with baseline HBV DNA <107 log10 copies/ml, 64% (9/14) achieved HBV DNA <300 copies/ml at Week 48.
+These 14 patients had a lower rate of genotypic entecavir resistance (cumulative probability 18.8% through 5 years of follow-up) than the overall study population (see table).
+Also, lamivudine-refractory patients who achieved HBV DNA <104 log10 copies/ml by PCR at Week 24 had a lower rate of resistance than those who did not (5-year cumulative probability 17.6% [n=50] versus 60.5% [n=135], respectively).
 
 [Baraclude 1 mg film-coated tablets]
 
@@ -161,3 +171,5 @@ e ETVr emerging in any year; rebound in specified year.
 [Baraclude 0.05 mg/ml oral solution]
 
 Patients had stable controlled HIV (HIV RNA < 400 copies/ml) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen.HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate.
+
+These substitutions were observed only in the presence of LVDr substitutions (rtM204Vand rtL180M).

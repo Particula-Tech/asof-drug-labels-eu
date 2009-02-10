@@ -6,7 +6,7 @@ Baraclude should be taken orally, once-daily.
 
 Nucleoside naïve patients: the recommended dose is 0.5 mg once daily, with or without food.
 
-Lamivudine-refractory patients (i.e. with evidence of viraemia while on lamivudine or the presence of lamivudine resistance [LVDr] mutations): the recommended dose is 1 mg once daily, which must be taken on an empty stomach (more than 2 hours before or more than 2 hours after a meal) (see section 5.2).
+Lamivudine-refractory patients (i.e. with evidence of viraemia while on lamivudine or the presence of lamivudine resistance [LVDr] mutations) (see sections 4.4 and 5.1): the recommended dose is 1 mg once daily, which must be taken on an empty stomach (more than 2 hours before or more than 2 hours after a meal) (see section 5.2).
 
 Duration of therapy: the optimal duration of treatment is unknown.
 Treatment discontinuation may be considered as follows:

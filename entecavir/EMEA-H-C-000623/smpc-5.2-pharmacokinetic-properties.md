@@ -16,7 +16,6 @@ Protein binding to human serum protein in vitro is ≈ 13%.
 
 Metabolism: entecavir is not a substrate, inhibitor or inducer of the CYP450 enzyme system.
 Following administration of 14C-entecavir, no oxidative or acetylated metabolites and minor amounts of the phase II metabolites, glucuronide and sulfate conjugates, were observed.
-
 Elimination: entecavir is predominantly eliminated by the kidney with urinary recovery of unchanged drug at steady-state of about 75% of the dose.
 Renal clearance is independent of dose and ranges between 360-471 ml/min suggesting that entecavir undergoes both glomerular filtration and net tubular secretion.
 After reaching peak levels, entecavir plasma concentrations decreased in a bi-exponential manner with a terminal elimination half-life of ≈ 128-149 hours.

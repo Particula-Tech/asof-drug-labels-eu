@@ -34,10 +34,11 @@ These patients should be followed closely.
 To differentiate between elevations in aminotransferases due to response to treatment and increases potentially related to lactic acidosis, physicians should ensure that changes in ALT are associated with improvements in other laboratory markers of chronic hepatitis B.
 
 Resistance and specific precaution for lamivudine-refractory patients: mutations in the HBV polymerase that encode lamivudine-resistance substitutions may lead to the subsequent emergence of secondary substitutions, including those associated with entecavir associated resistance (ETVr).
-Virological response should be closely monitored in the lamivudine-refractory population in general and appropriate resistance testing should be performed.
-In a small percentage of patients previously treated with lamivudine, ETVr substitutions at residues rtT184, rtS202 and rtM250 were present at baseline or emerged during entecavir therapy for up to 144 weeks.
-The long term clinical significance of these variants is yet to be fully established (see section 5.1).
-
+In a small percentage of lamivudine-refractory patients, ETVr substitutions at residues rtT184, rtS202 or rtM250 were present at baseline.
+Patients with lamivudine-resistant HBV are at higher risk of developing subsequent entecavir resistance than patients without lamivudine resistance.
+The cumulative probability of emerging genotypic entecavir resistance after 1, 2, 3, 4 and 5 years treatment in the lamivudine-refractory studies was 6%, 15%, 36%, 47% and 51%, respectively.
+Virological response should be frequently monitored in the lamivudine-refractory population and appropriate resistance testing should be performed.
+In patients with a suboptimal virological response after 24 weeks of treatment with entecavir, a modification of treatment should be considered (see sections 4.5 and 5.1).
 Liver transplant recipients: there are limited data on efficacy and safety of entecavir in liver transplant recipients.
 Renal function should be carefully evaluated before and during entecavir therapy in liver transplant recipients receiving cyclosporine or tacrolimus (see section 5.2).
 
@@ -64,6 +65,9 @@ A lactose-free Baraclude oral solution is available for these individuals.
 Lactose: this medicinal product contains 241 mg of lactose in each 1 mg daily dose.
 
 [Baraclude 0.05 mg/ml oral solution]
+
+Resistance and specific precaution for lamivudine-refractory patients: mutations in the HBV polymerase that encode lamivudine-resistance substitutions may lead to the subsequent emergence of secondary substitutions, including those associated with entecavir associated resistance (ETVr). ).
+Patients with lamivudine-resistant HBV are at higher risk of developing subsequent entecavir resistance than patients without lamivudine-resistance .
 
 Maltitol: Baraclude oral solution contains maltitol (13 g maltitol liquid per 20 ml dose).
 Baraclude may have a mild laxative effect.
