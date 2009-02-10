@@ -1,7 +1,8 @@
 # 4.8 Undesirable effects
 
 Since fosaprepitant is converted to aprepitant, those adverse reactions associated with aprepitant are expected to occur with fosaprepitant.
-The safety profile of aprepitant was evaluated in approximately 4900 individuals.
+The safety profile of aprepitant was evaluated in approximately
+4900 individuals.
 Various formulations of fosaprepitant have been administered to a total of 729 individuals including 347 healthy subjects and 149 patients with CINV.
 
 Adverse reactions considered as drug-related by the investigator were reported in approximately 17 % of patients treated with the aprepitant regimen compared with approximately 13 % of patients treated with standard therapy in patients receiving highly emetogenic chemotherapy.
@@ -32,6 +33,7 @@ Uncommon: dream abnormality, cognitive disorder.
 
 Eye disorders:
 Uncommon: conjunctivitis.
+
 Ear and labyrinth disorders:
 Uncommon: tinnitus.
 
@@ -78,6 +80,7 @@ One case of Stevens-Johnson syndrome was reported as a serious adverse event in 
 In addition, infusion site induration and infusion site pain were common adverse reactions in a bioequivalence study in which 66 subjects were dosed with 115 mg of fosaprepitant intravenously.
 
 Additional adverse reactions were observed in patients treated with aprepitant (40 mg) for postoperative nausea and vomiting and a greater incidence than with ondansetron: abdominal pain upper, bowel sounds abnormal, dysarthria, dyspnoea, hypoaesthesia, insomnia, miosis, nausea, sensory disturbance, stomach discomfort, visual acuity reduced, wheezing.
+
 In addition, two serious adverse reactions were reported in postoperative nausea and vomiting (PONV) clinical studies in patients taking a higher dose of aprepitant: one case of constipation, and one case of sub-ileus.
 
 One case of angioedema and urticaria was reported as a serious adverse event in a patient receiving aprepitant in a non-CINV/non-PONV study.

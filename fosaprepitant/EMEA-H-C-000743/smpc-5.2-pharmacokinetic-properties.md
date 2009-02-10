@@ -6,7 +6,7 @@ Plasma concentrations of fosaprepitant are below quantifiable levels within 30 m
 Aprepitant after fosaprepitant administration
 The AUC of aprepitant following 115 mg of fosaprepitant was equivalent to the AUC of 125 mg of oral aprepitant, while Cmax was 2.5-fold higher.
 
-Following a single intravenous dose of fosaprepitant administered as a 15-minute infusion to healthy volunteers the mean AUC0-24hr of aprepitant was 19.8 µg•hr/ml and the mean maximal aprepitant concentration was 3.26 µg/ml.
+Following a single intravenous dose of fosaprepitant administered as a 15-minute infusion to healthy volunteers the mean AUC0-24hr of aprepitant was 19.8 μg•hr/ml and the mean maximal aprepitant concentration was 3.26 μg/ml.
 The mean aprepitant plasma concentrations from 4 hours after dosing (including the concentration at 24 hours postdose) were similar between the 125 mg oral aprepitant dose and the 115 mg intravenous fosaprepitant dose.
 
 Distribution
@@ -15,7 +15,8 @@ The geometric mean apparent volume of distribution at steady state (Vdss) is app
 
 Metabolism
 Fosaprepitant was rapidly converted to aprepitant in in vitro incubations with liver preparations from humans.
-Furthermore, fosaprepitant underwent rapid and nearly complete conversion to aprepitant in S9 preparations from other human tissues including kidney, lung and ileum.
+Furthermore, fosaprepitant underwent rapid and nearly complete conversion to aprepitant in
+S9 preparations from other human tissues including kidney, lung and ileum.
 Thus, it appears that the conversion of fosaprepitant to aprepitant can occur in multiple tissues.
 In humans, fosaprepitant administered intravenously was rapidly converted to aprepitant within 30 minutes following the end of infusion.
 Aprepitant undergoes extensive metabolism.
@@ -24,7 +25,7 @@ Twelve metabolites of aprepitant have been identified in human plasma.
 The metabolism of aprepitant occurs largely via oxidation at the morpholine ring and its side chains and the resultant metabolites were only weakly active.
 In vitro studies using human liver microsomes indicate that aprepitant is metabolised primarily by CYP3A4 and potentially with minor contribution by CYP1A2 and CYP2C19.
 
-All metabolites observed in urine, faeces and plasma following an intravenous 100 mg [14C]- fosaprepitant dose were also observed following an oral dose of [14C]-aprepitant.
+All metabolites observed in urine, faeces and plasma following an intravenous 100 mg [14C]-fosaprepitant dose were also observed following an oral dose of [14C]-aprepitant.
 Upon conversion of 115 mg of fosaprepitant to aprepitant, 18.3 mg of phosphate is liberated from fosaprepitant.
 
 Elimination

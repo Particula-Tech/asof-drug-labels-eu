@@ -18,7 +18,8 @@ Alternative or back-up methods of contraception should be used during treatment 
 Concomitant administration of fosaprepitant with medicinal products that strongly induce CYP3A4 activity (e.g. rifampicin, phenytoin, carbamazepine, phenobarbital) should be avoided as the combination results in reductions of the plasma concentrations of aprepitant (see section 4.5).
 Concomitant administration of fosaprepitant with St. John’s Wort is not recommended.
 
-Concomitant administration of fosaprepitant with medicinal products that inhibit CYP3A4 activity (e.g. ritonavir, ketoconazole, clarithromycin, telithromycin) should be approached cautiously as the combination results in increased plasma concentrations of aprepitant (see section 4.5).
+Concomitant administration of fosaprepitant with medicinal products that inhibit CYP3A4 activity
+(e.g. ritonavir, ketoconazole, clarithromycin, telithromycin) should be approached cautiously as the combination results in increased plasma concentrations of aprepitant (see section 4.5).
 
 IVEMEND should not be given as a bolus injection, but should always be diluted and given as a slow intravenous infusion (see section 4.2).
 IVEMEND should not be administered intramuscularly or subcutaneously.

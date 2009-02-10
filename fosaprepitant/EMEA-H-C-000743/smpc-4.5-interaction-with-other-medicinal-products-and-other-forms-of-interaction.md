@@ -1,9 +1,9 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 When administered intravenously fosaprepitant is rapidly converted to aprepitant.
+
 Drug interactions following administration of fosaprepitant are likely to occur with medicinal products that interact with oral aprepitant.
 The following information was derived from data with oral aprepitant and studies conducted with fosaprepitant and midazolam or diltiazem.
-
 Aprepitant is a substrate, a moderate inhibitor, and an inducer of CYP3A4.
 Aprepitant is also an inducer of CYP2C9.
 During treatment with oral aprepitant, CYP3A4 is inhibited.
@@ -35,7 +35,8 @@ The dose of dexamethasone in clinical chemotherapy induced nausea and vomiting t
 Oral aprepitant, when given as a regimen of 125 mg with dexamethasone co-administered orally as 20 mg on Day 1, and oral aprepitant when given as 80 mg/day with dexamethasone co-administered orally as 8 mg on Days 2 through 5, increased the AUC of dexamethasone, a CYP3A4 substrate, 2.2-fold on Days 1 and 5.
 
 Methylprednisolone: The usual intravenously administered methylprednisolone dose should be reduced approximately 25 %, and the usual oral methylprednisolone dose should be reduced approximately 50 % when co-administered with a regimen of fosaprepitant followed by aprepitant.
-Oral aprepitant, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 and 3, increased the AUC of methylprednisolone, a CYP3A4 substrate, by 1.3-fold on Day 1 and by 2.5-fold on Day 3, when methylprednisolone was co-administered intravenously as 125 mg on Day 1 and orally as 40 mg on Days 2 and 3.
+Oral aprepitant, when given as a regimen of 125 mg on Day 1 and 80 mg/day on Days 2 and 3, increased the AUC of methylprednisolone, a CYP3A4 substrate, by 1.3-fold on Day 1 and by 2.5-fold on Day 3, when methylprednisolone was co-administered intravenously as 125 mg on Day 1 and orally as 40 mg on
+Days 2 and 3.
 
 During continuous treatment with methylprednisolone, the AUC of methylprednisolone may decrease at later time points within 2 weeks following initiation of dosing with oral aprepitant, due to the inducing effect of aprepitant on CYP3A4.
 This effect may be expected to be more pronounced for orally administered methylprednisolone.
@@ -51,9 +52,10 @@ This effect was not considered clinically important.
 
 Oral aprepitant increased the AUC of midazolam 2.3-fold on Day 1 and 3.3-fold on Day 5, when a single oral dose of midazolam 2 mg was co-administered on Days 1 and 5 of a regimen of oral aprepitant 125 mg on Day 1 and 80 mg/day on Days 2 to 5.
 
-In another study with intravenous administration of midazolam, oral aprepitant was given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, and midazolam 2 mg was given intravenously prior to the administration of the 3-day regimen of oral aprepitant and on Days 4, 8, and 15.
-Oral aprepitant increased the AUC of midazolam 25 % on Day 4 and decreased the AUC of midazolam 19 % on
-Day 8 and 4 % on Day 15.
+In another study with intravenous administration of midazolam, oral aprepitant was given as 125 mg on
+Day 1 and 80 mg/day on Days 2 and 3, and midazolam 2 mg was given intravenously prior to the administration of the 3-day regimen of oral aprepitant and on Days 4, 8, and 15.
+Oral aprepitant increased the AUC of midazolam 25 % on Day 4 and decreased the AUC of midazolam 19 % on Day 8 and 4 % on
+Day 15.
 These effects were not considered clinically important.
 
 In a third study with intravenous and oral administration of midazolam, oral aprepitant was given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, together with ondansetron 32 mg Day 1, dexamethasone, 12 mg Day 1 and 8 mg Days 2-4.
@@ -74,7 +76,7 @@ Tolbutamide: Oral aprepitant, when given as 125 mg on Day 1 and 80 mg/day on Day
 
 Oral contraceptives: The efficacy of hormonal contraceptives may be reduced during and for 28 days after administration of oral aprepitant.
 Alternative or back-up methods of contraception should be used during treatment with fosaprepitant or oral aprepitant and for 2 months following the last dose of aprepitant.
-Aprepitant, when given once daily for 14 days as a 100 mg capsule with an oral contraceptive containing 35 µg of ethinyl estradiol and 1 mg of norethindrone, decreased the AUC of ethinyl estradiol by 43 %, and decreased the AUC of norethindrone by 8 %.
+Aprepitant, when given once daily for 14 days as a 100 mg capsule with an oral contraceptive containing 35 μg of ethinyl estradiol and 1 mg of norethindrone, decreased the AUC of ethinyl estradiol by 43 %, and decreased the AUC of norethindrone by 8 %.
 
 In another study, single doses of an oral contraceptive containing ethinyl estradiol and norethindrone were administered on Days 1 through 21 withoral aprepitant, given as a regimen of 125 mg on Day 8 and 80 mg/day on Days 9 and 10 with ondansetron 32 mg intravenously on Day 8 and oral dexamethasone given as 12 mg on Day 8 and 8 mg/day on Days 9, 10, and 11.
 During days 9 through 21 in this study, there was as much as a 64 % decrease in ethinyl estradiol trough concentrations and as much as a 60 % decrease in norethindrone trough concentrations.

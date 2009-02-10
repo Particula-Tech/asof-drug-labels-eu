@@ -58,6 +58,7 @@ There are limited data in patients with moderate hepatic insufficiency and no da
 
 Children and adolescents
 IVEMEND is not recommended for use in children below the age of 18 years of age due to insufficient data on safety and efficacy (see section 5.2).
+
 Method of Administration
 IVEMEND should be administered intravenously and should not be given by the intramuscular or subcutaneous route.
 Intravenous administration occurs preferably through a running intravenous infusion over 15 minutes (see section 6.6).

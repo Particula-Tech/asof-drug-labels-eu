@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antiemetics and antinauseants, ATC code: .[proposed: under application].
+Pharmacotherapeutic group: Antiemetics and antinauseants, ATC code: A04A D12.
 
 Fosaprepitant is the prodrug of aprepitant and when administered intravenously is converted rapidly to aprepitant (see section 5.2).
 The contribution of fosaprepitant to the overall antiemetic effect has not fully been characterized, but a transient contribution during the initial phase cannot be ruled out.
@@ -23,19 +23,29 @@ Regimen Therapy
 COMPOSITE MEASURES (N= 521)† (N= 524)†
 % % % (95 % CI)
 
-| Complete Response (no emesis and no rescue therapy) |  |
-| --- | --- |
-| Overall (0-120 hours) 67.7 47.8 19.9 0-24 hours 86.0 73.2 12.7 25-120 hours 71.5 51.2 20.3 | (14.0, 25.8) (7.9, 17.6) (14.5, 26.1) |
-| INDIVIDUAL MEASURES |  |
-| No Emesis (no emetic episodes regardless of use of rescue therapy) |  |
-| Overall (0-120 hours) 71.9 49.7 22.2 0-24 hours 86.8 74.0 12.7 25-120 hours 76.2 53.5 22.6 | (16.4, 28.0) (8.0, 17.5) (17.0, 28.2) |
-| No Significant Nausea (maximum VAS <25 mm on a scale of 0-100 mm) |  |
-| Overall (0-120 hours) 72.1 64.9 7.2 25-120 hours 74.0 66.9 7.1 | (1.6, 12.8) (1.5, 12.6) |
+Complete Response (no emesis and no rescue therapy)
+
+Overall (0-120 hours) 67.7 47.8 19.9 (14.0, 25.8)
+0-24 hours 86.0 73.2 12.7 (7.9, 17.6)
+25-120 hours 71.5 51.2 20.3 (14.5, 26.1)
+
+INDIVIDUAL MEASURES
+No Emesis (no emetic episodes regardless of use of rescue therapy)
+
+Overall (0-120 hours) 71.9 49.7 22.2 (16.4, 28.0)
+0-24 hours 86.8 74.0 12.7 (8.0, 17.5)
+25-120 hours 76.2 53.5 22.6 (17.0, 28.2)
+
+No Significant Nausea (maximum VAS <25 mm on a scale of 0-100 mm)
+
+Overall (0-120 hours) 72.1 64.9 7.2 (1.6, 12.8)
+25-120 hours 74.0 66.9 7.1 (1.5, 12.6)
 
 * The confidence intervals were calculated with no adjustment for gender and concomitant chemotherapy, which were included in the primary analysis of odds ratios and logistic models.
 † One patient in the Aprepitant Regimen only had data in the acute phase and was excluded from the overall and delayed phase analyses; one patient in the Standard Regimen only had data in the delayed phase and was excluded from the overall and acute phase analyses.
 
-The estimated time to first emesis in the combined analysis is depicted by the Kaplan-Meier plot in Figure 1.
+The estimated time to first emesis in the combined analysis is depicted by the Kaplan-Meier plot in
+Figure 1.
 
 Figure 1
 Percent of Patients Receiving Highly Emetogenic Chemotherapy
@@ -71,7 +81,8 @@ Efficacy was based on evaluation of the composite measure: complete response (de
 A summary of the key study results is shown in Table 2.
 
 Table 2
-Percent of Patients Responding by Treatment Group and Phase —Cycle 1 Moderately Emetogenic Chemotherapy
+Percent of Patients Responding by Treatment Group and Phase —Cycle 1
+Moderately Emetogenic Chemotherapy
 
 Aprepitant Standard Differences*
 
@@ -104,7 +115,8 @@ Overall (0-120 hours) 60.9 55.7 5.3 (-1.3, 11.9)
 The estimated time to first emesis in the study is depicted by the Kaplan-Meier plot in Figure 2.
 
 Figure 2
-Percent of Patients Receiving Moderately Emetogenic Chemotherapy Who Remain Emesis Free Over Time – Cycle 1
+Percent of Patients Receiving Moderately Emetogenic Chemotherapy Who Remain Emesis
+Free Over Time – Cycle 1
 
 100%
 
