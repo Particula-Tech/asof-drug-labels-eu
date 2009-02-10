@@ -9,3 +9,16 @@ Xolair should not be used during pregnancy unless clearly necessary.
 It is not known whether omalizumab is excreted in human breast milk.
 Omalizumab is excreted into non-human primate breast milk and an effect on the suckling child cannot be excluded.
 Nursing mothers should not breast-feed during Xolair therapy.
+
+[Xolair 150 mg powder and solvent for solution for injection]
+
+(all sentences already above)
+
+[Xolair 75 mg solution for injection]
+
+Omalizumab is excreted into non-human primate breast milk and risk to the suckling child cannot be excluded.
+Breast-feeding women should not breast-feed during Xolair therapy.
+
+[Xolair 150 mg solution for injection]
+
+(all sentences already above)

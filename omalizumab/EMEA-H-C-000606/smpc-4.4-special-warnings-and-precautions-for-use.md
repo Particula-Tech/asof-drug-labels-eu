@@ -55,3 +55,25 @@ The overall observed incidence rate of malignancy in the Xolair clinical trial p
 [Xolair 150 mg powder and solvent for solution for injection]
 
 Patients with diabetes mellitus, the glucose-galactose malabsorption syndrome, fructose intolerance or sucrase-isomaltase deficiency should be warned that one 150 mg Xolair dose contains 108 mg of sucrose.
+
+[Xolair 75 mg solution for injection]
+
+Xolair is not indicated for the treatment of these conditions.
+
+Immune system disorders
+
+- Allergic reactions type I
+
+Therefore medicinal products for the treatment of anaphylactic reactions should always be available for immediate use following administration of Xolair.
+
+- Serum Sickness
+
+- Churg-Strauss syndrome and hypereosinophilic syndrome
+
+During clinical trials, there was a numerical imbalance in cancers arising in the Xolair (0.5%;
+25 cancers in 5,015 patients) treatment group compared with the control (0.18%; 5 cancers in 2,854 patients) group.
+Malignancies were uncommon (<1/100) in both the active and the control group.
+
+[Xolair 150 mg solution for injection]
+
+(all sentences already above)

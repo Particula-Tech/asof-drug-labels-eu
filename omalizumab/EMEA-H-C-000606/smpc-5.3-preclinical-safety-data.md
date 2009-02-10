@@ -15,3 +15,17 @@ In reproduction studies in cynomolgus monkeys subcutaneous doses up to 75 mg/kg 
 
 Omalizumb is excreted in milk in cynomolgus monkeys.
 Milk levels of omalizumab were 1.5% of the maternal blood concentration.
+
+[Xolair 150 mg powder and solvent for solution for injection]
+
+(all sentences already above)
+
+[Xolair 75 mg solution for injection]
+
+Chronic administration of high dose levels (up to 250 mg/kg) of omalizumab did not induce toxicologically-significant adverse reactions in non-human primates, with the exception of a dose-related and age-dependent decrease in blood platelets, with a greater sensitivity in juvenile animals.
+
+Omalizumb is excreted in breast milk in cynomolgus monkeys.
+
+[Xolair 150 mg solution for injection]
+
+(all sentences already above)

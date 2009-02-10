@@ -3,7 +3,6 @@
 The lyophilised product takes 15-20 minutes to dissolve, although in some cases it may take longer.
 The fully reconstituted product will appear clear or slightly opaque and may have a few small bubbles or foam around the edge of the vial.
 Because of the viscosity of the reconstituted product care must be taken to WITHDRAW ALL OF THE PRODUCT from the vial before expelling any air or excess solution from the syringe in order to obtain the 0.6 ml.
-
 To prepare Xolair 75 mg vials for subcutaneous administration, please adhere to the following instructions:
 
 1.
@@ -25,6 +24,7 @@ When the product is fully dissolved, there should be no visible gel-like particl
 Small bubbles or foam around the edge of the vial are common.
 The reconstituted product will appear clear or slightly opaque.
 Do not use if solid particles are present.
+
 5.
 Invert the vial for at least 15 seconds in order to allow the solution to drain towards the stopper.
 Using a new 3-ml syringe equipped with a large-bore, 18-gauge needle, insert the needle into the inverted vial.
@@ -53,7 +53,6 @@ Any unused product or waste material should be disposed of in accordance with lo
 [Xolair 150 mg powder and solvent for solution for injection]
 
 Because of the viscosity of the reconstituted product care must be taken to WITHDRAW ALL OF THE PRODUCT from the vial before expelling any air or excess solution from the syringe in order to obtain the 1.2 ml.
-
 To prepare Xolair 150 mg vials for subcutaneous administration, please adhere to the following instructions:
 
 Draw 1.4 ml of water for injections from the ampoule into a syringe equipped with a large-bore 18-gauge needle.
@@ -65,3 +64,24 @@ The vial delivers 1.2 ml (150 mg) of Xolair.
 For a 75 mg dose, draw up 0.6 ml into the syringe and discard the remaining solution.
 
 Xolair 150 mg powder for solution for injection is supplied in a single-use vial and contains no antibacterial preservatives.
+
+[Xolair 75 mg solution for injection]
+
+Warning: Prior to completion of the injection, avoid contact with the device activation clips to keep from prematurely covering the needle with the needle guard.
+
+Using the syringe
+Pull off the needle cap from the syringe and discard it.
+Do not touch the exposed needle.
+Gently pinch the skin at the injection site and insert the needle.
+Holding onto the finger flange, slowly depress the plunger as far as it will go.
+Keep the plunger fully depressed until after you have withdrawn the needle from the injection site.
+If any solution leaks from the injection site, insert the needle further.
+Keeping the plunger fully depressed, carefully lift the needle straight out from the injection site.
+Slowly release the plunger and allow the needle guard to automatically cover the exposed needle.
+
+Disposal instructions
+Dispose of the used syringe immediately in a sharps container.
+
+[Xolair 150 mg solution for injection]
+
+(all sentences already above)

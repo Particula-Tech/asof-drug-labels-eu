@@ -13,3 +13,11 @@ For a full list of excipients, see section 6.1.
 One vial contains 150 mg of omalizumab.
 
 After reconstitution the vial contains 125 mg/ml of omalizumab (150 mg in 1.2 ml).
+
+[Xolair 75 mg solution for injection]
+
+Each pre-filled syringe of 0.5 ml solution contains 75 mg of omalizumab.
+
+[Xolair 150 mg solution for injection]
+
+Each pre-filled syringe of 1 ml solution contains 150 mg of omalizumab.

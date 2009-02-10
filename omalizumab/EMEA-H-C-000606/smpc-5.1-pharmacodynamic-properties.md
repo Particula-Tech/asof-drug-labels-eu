@@ -8,9 +8,9 @@ The antibody is an IgG1 kappa that contains human framework regions with the com
 Omalizumab binds to IgE and prevents binding of IgE to the high-affinity FCεRI receptor, thereby reducing the amount of free IgE that is available to trigger the allergic cascade.
 Treatment of atopic subjects with omalizumab resulted in a marked down-regulation of FCεRI receptors on basophils.
 Furthermore, the in vitro histamine release from basophils isolated from Xolair-treated subjects was reduced by approximately 90% following stimulation with an allergen compared to pre-treatment values.
-
 In clinical studies, serum free IgE levels were reduced in a dose-dependent manner within one hour following the first dose and maintained between doses.
 One year after discontinuation of Xolair dosing, the IgE levels had returned to pre-treatment levels with no observed rebound in IgE levels after drug washout.
+
 Clinical experience
 The efficacy and safety of Xolair were demonstrated in a 28-week double-blind placebo-controlled study (study 1) involving 419 severe allergic asthmatics, ages 12-79 years, who had reduced lung function (FEV1 40-80% predicted) and poor asthma symptom control despite receiving high dose inhaled corticosteroids and a long-acting beta2-agonist.
 Eligible patients had experienced multiple asthma exacerbations requiring systemic corticosteroid treatment or had been hospitalised or attended an emergency room due to a severe asthma exacerbation in the past year despite continuous treatment with high-dose inhaled corticosteroids and a long-acting beta2-agonist.
@@ -34,10 +34,16 @@ Table 5: Results of study 1
 | Severe asthma exacerbations Rate per 28-week period % reduction, p-value for rate ratio | 0.24 0.48 50.1%, p = 0.002 |
 | Emergency visits Rate per 28-week period % reduction, p-value for rate ratio | 0.24 0.43 43.9%, p = 0.038 |
 | Physician’s overall assessment % responders* p-value** | 60.5% 42.8% <0.001 |
-| AQL improvement % of patients ≥0.5 improvement p-value | 60.8% 47.8% 0.008 |
+| AQL improvement |  |
+
+Whole study 1 population
+
+% of patients ≥0.5 improvement 60.8% 47.8%
+p-value 0.008
 
 * marked improvement or complete control
 ** p-value for overall distribution of assessment
+
 Study 2 assessed the efficacy and safety of Xolair in a population of 312 severe allergic asthmatics which matched the population in study 1.
 Treatment with Xolair in this open label study led to a 61% reduction in clinically significant asthma exacerbation rate compared to current asthma therapy alone.
 
@@ -62,3 +68,30 @@ In all five studies a significantly greater proportion of Xolair treated patient
 In a subgroup analysis patients with pre-treatment total IgE ≥76 IU/ml were more likely to experience clinically meaningful benefit to Xolair.
 
 Physicians overall assessment of treatment effectiveness:
+
+[Xolair 75 mg solution for injection]
+
+Omalizumab binds to IgE and prevents binding of IgE to FCεRI (high-affinity IgE receptor), thereby reducing the amount of free IgE that is available to trigger the allergic cascade.
+
+One year after discontinuation of Xolair dosing, the IgE levels had returned to pre-treatment levels with no observed rebound in IgE levels after washout of the medicinal product.
+
+Xolair Placebo
+N=209 N=210
+
+Asthma exacerbations
+
+Rate per 28-week period 0.74 0.92
+% reduction, p-value for rate ratio 19.4%, p = 0.153
+
+| Severe asthma exacerbations Rate per 28-week period % reduction, p-value for rate ratio | 0.24 0.48 50.1%, p = 0.002 |
+| --- | --- |
+| Emergency visits Rate per 28-week period % reduction, p-value for rate ratio | 0.24 0.43 43.9%, p = 0.038 |
+| Physician’s overall assessment % responders* p-value** | 60.5% 42.8% <0.001 |
+
+AQL improvement
+
+The physician was able to take into account PEF (peak expiratory flow), day and night time symptoms, rescue medication use, spirometry and exacerbations.
+
+[Xolair 150 mg solution for injection]
+
+(all sentences already above)

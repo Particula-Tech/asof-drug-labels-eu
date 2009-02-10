@@ -26,12 +26,13 @@ Table 4: Adverse reactions
 | Rare | Parasitic infection |
 | Vascular disorders |  |
 | Uncommon | Postural hypotension, flushing |
-| General disorders and administration site conditions |  |
-| Common Uncommon | Injection site reactions such as pain, erythema, pruritus, swelling Weight increase, fatigue, swelling arms, influenza-like illness |
-| Immune system disorders |  |
 
-Rare Anaphylactic reaction, other serious allergic conditions
-Not known Serum sickness, may include fever and lymphadenopathy
+General disorders and administration site conditions
+
+| Common Uncommon | Injection site reactions such as pain, erythema, pruritus, swelling Weight increase, fatigue, swelling arms, influenza-like illness |
+| --- | --- |
+| Immune system disorders |  |
+| Rare Not known | Anaphylactic reaction, other serious allergic conditions Serum sickness, may include fever and lymphadenopathy |
 
 Immune system disorders
 For further information, see section 4.4.
@@ -47,3 +48,40 @@ No pattern of persistent decrease in platelet counts, as observed in non-human p
 Parasitic infections
 In patients at chronic high risk of helminth infection, a placebo-controlled trial showed a slight numerical increase in infection rate with omalizumab that was not statistically significant.
 The course, severity, and response to treatment of infections was unaltered (see section 4.4).
+
+[Xolair 150 mg powder and solvent for solution for injection]
+
+(all sentences already above)
+
+[Xolair 75 mg solution for injection]
+
+Over 4,400 allergic asthma patients were randomised in controlled efficacy trials with Xolair.
+
+Based on clinical experience, about 16% of patients treated with Xolair are expected to experience adverse events.
+
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+| Blood and lymphatic system disorders |  |
+| --- | --- |
+| Not known | Idiopathic severe thrombocytopenia |
+| Nervous system disorders |  |
+| Common Uncommon | Headache Syncope, paraesthesia, somnolence, dizziness |
+| Respiratory, thoracic and mediastinal disorders |  |
+| Uncommon Rare Not known | Allergic bronchospasm, pharyngitis, coughing Laryngoedema Allergic granulomatous vasculitis (i.e. Churg-Strauss syndrome) |
+| Gastrointestinal disorders |  |
+| Uncommon | Dyspeptic signs and symptoms, diarrhoea, nausea |
+| Skin and subcutaneous tissue disorders |  |
+| Uncommon Rare Not known | Photosensitivity, urticaria, rash, pruritus Angioedema Alopecia |
+| Musculoskeletal and connective tissue disorders |  |
+| Not known | Arthralgia, myalgia, joint swelling |
+| Infections and infestations |  |
+| Rare | Parasitic infection |
+| Vascular disorders Uncommon Postural hypotension, flushing |  |
+| General disorders and administration site conditions |  |
+| Common Uncommon | Injection site reactions such as swelling, erythema, pain, pruritus Influenza-like illness, swelling arms, weight increase, fatigue |
+| Immune system disorders |  |
+| Rare Not known | Anaphylactic reaction, other serious allergic conditions Serum sickness, may include fever and lymphadenopathy |
+
+[Xolair 150 mg solution for injection]
+
+(all sentences already above)

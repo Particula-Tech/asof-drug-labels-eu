@@ -13,8 +13,8 @@ Prescribing physicians should ensure that patients with IgE below 76 IU/ml have 
 See Table 1 for a conversion chart and Tables 2 and 3 for the dose determination charts.
 
 Patients whose baseline IgE levels or body weight in kilograms are outside the limits of the dosing table should not be given Xolair.
-The maximum recommended dose is 375 mg omalizumab every two weeks.
 
+The maximum recommended dose is 375 mg omalizumab every two weeks.
 For subcutaneous administration only.
 Do not administer by the intravenous or intramuscular route.
 
@@ -92,3 +92,33 @@ There are limited data available on the use of Xolair in patients older than 65 
 
 Children (age below 12 years)
 Safety and efficacy in paediatric patients below the age of 12 years have not been established and use of Xolair in such patients is therefore not recommended.
+
+[Xolair 150 mg powder and solvent for solution for injection]
+
+(all sentences already above)
+
+[Xolair 75 mg solution for injection]
+
+Table 1: Conversion from dose to number of syringes, number of injections and total injection volume for each administration
+
+Dose (mg) Number of syringes Number of injections Total injection volume (ml)
+75 mg 150 mg
+
+75 1 0 1 0.5
+150 0 1 1 1.0
+225 1 1 2 1.5
+300 0 2 2 2.0
+375 1 2 3 2.5
+
+Therefore treatment is intended to be administered by a healthcare provider (see section 6.6).
+
+Xolair is not recommended for use in children below age 12 due to insufficient data on safety and efficacy.
+
+Patients with renal or hepatic impairment
+There have been no studies on the effect of impaired renal or hepatic function on the pharmacokinetics of Xolair.
+Because omalizumab clearance at clinical doses is dominated by the reticular endothelial system (RES) it is unlikely to be altered by renal or hepatic impairment.
+While no particular dose adjustment is recommended for these patients, Xolair should be administered with caution (see section 4.4).
+
+[Xolair 150 mg solution for injection]
+
+(all sentences already above)

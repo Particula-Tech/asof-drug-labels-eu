@@ -8,3 +8,17 @@ Polysorbate 20
 
 Solvent:
 Water for injections
+
+[Xolair 150 mg powder and solvent for solution for injection]
+
+(all sentences already above)
+
+[Xolair 75 mg solution for injection]
+
+L-arginine hydrochloride
+L-histidine hydrochloride
+L-histidine
+
+[Xolair 150 mg solution for injection]
+
+(all sentences already above)
