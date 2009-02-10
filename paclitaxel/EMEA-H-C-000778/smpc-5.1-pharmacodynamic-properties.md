@@ -21,10 +21,8 @@ In one study, Abraxane was administered as a 30-minute infusion at a dose of 175
 The second trial utilised a dose of 300 mg/m2 as a 30 minute infusion in 63 patients with metastatic breast cancer.
 Patients were treated without steroid pre-treatment or planned G-CSF support.
 Cycles were administered at 3 week intervals.
-The response rates in all patients were 39.5% (95% CI: 24.9% - 54.2%) and 47.6%
-(95% CI: 35.3% - 60.0%), respectively.
-The median time to disease progression was 5.3 months
-(175 mg/m2; 95% CI: 4.6 – 6.2 months) and 6.1 months (300 mg/m2; 95% CI: 4.2 – 9.8 months).
+The response rates in all patients were 39.5% (95% CI: 24.9%-54.2%) and 47.6% (95% CI: 35.3%-60.0%), respectively.
+The median time to disease progression was 5.3 months (175 mg/m2; 95% CI: 4.6-6.2 months) and 6.1 months (300 mg/m2; 95% CI: 4.2-9.8 months).
 
 Randomised comparative study:
 

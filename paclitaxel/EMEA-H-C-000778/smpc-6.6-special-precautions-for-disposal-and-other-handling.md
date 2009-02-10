@@ -8,6 +8,7 @@ If the suspension contacts the skin, the skin should be washed immediately and t
 If it contacts mucous membranes, the membranes should be flushed thoroughly with water.
 Abraxane should only be prepared and administered by personnel appropriately trained in the handling of cytotoxic agents.
 Pregnant staff should not handle Abraxane.
+
 Reconstitution and administration of the product:
 
 Abraxane is supplied as a sterile lyophilised powder for reconstitution before use.

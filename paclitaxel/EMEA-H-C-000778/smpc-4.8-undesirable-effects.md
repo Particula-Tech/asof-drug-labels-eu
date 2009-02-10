@@ -25,6 +25,7 @@ Table 1 lists adverse reactions associated with the administration of Abraxane t
 The frequency of undesirable effects listed in table 1 is defined using the following convention:
 
 Very common (≥1/10); common (≥ 1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (< 1/10,000).
+
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Table 1: Adverse reactions reported with Abraxane at any dose in clinical trials.
@@ -53,13 +54,12 @@ Table 1: Adverse reactions reported with Abraxane at any dose in clinical trials
 | General disorders and administration site conditions: | Very Common: Fatigue, asthenia, pyrexia. Common: Peripheral oedema, mucosal inflammation, pain, rigors, oedema, weakness, decreased performance status, chest pain, influenza-like illness, malaise, lethargy, hyperpyrexia Uncommon: Chest discomfort, abnormal gait, swelling, injection site reaction |
 | Immune system disorders: | Uncommon1: Hypersensitivity |
 | Hepatobiliary disorders | Uncommon: Hyperbilirubinaemia, hepatomegaly |
-| Reproductive system and breast disorders: | Uncommon: Breast pain |
 
 Table 1: Adverse reactions reported with Abraxane at any dose in clinical trials.
 
-Common: Insomnia, depression, anxiety
-Psychiatric disorders:
-Uncommon: Restlessness
+| Reproductive system and breast disorders: | Uncommon: Breast pain |
+| --- | --- |
+| Psychiatric disorders: | Common: Insomnia, depression, anxiety Uncommon: Restlessness |
 
 1 The frequency of hypersensitivity reactions is calculated based on one definitely related case in a population of 789 patients
 

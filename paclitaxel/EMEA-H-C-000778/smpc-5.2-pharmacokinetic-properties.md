@@ -24,5 +24,6 @@ The effect of renal or hepatic dysfunction on the disposition of paclitaxel has 
 
 In patients with metastatic breast cancer, after a 30 minute infusion of Abraxane at 260 mg/m2, the mean value for cumulative urinary excretion of unchanged active substance accounted for 4% of the total administered dose with less than 1% as the metabolites 6α-hydroxypaclitaxel and 3’-p-hydroxypaclitaxel, indicating extensive non-renal clearance.
 Paclitaxel is principally eliminated by hepatic metabolism and biliary excretion.
+
 Pharmacokinetics of paclitaxel in patients aged over 65 years seems comparable to that in patients less than 65 years.
 However, little information in patients over 75 years is available as only 3 patients over 75 years of age where included in the pharmacokinetic analysis.

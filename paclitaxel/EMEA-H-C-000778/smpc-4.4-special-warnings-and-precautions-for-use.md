@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-Abraxane is an albumin-bound nanoparticle formulation of paclitaxel, which may have substantially different pharmacological properties compared to other formulations of paclitaxel (see sections 5.1 and 5.2)..
+Abraxane is an albumin-bound nanoparticle formulation of paclitaxel, which may have substantially different pharmacological properties compared to other formulations of paclitaxel (see sections 5.1 and 5.2).
 
 Hypersensitivity:
 
