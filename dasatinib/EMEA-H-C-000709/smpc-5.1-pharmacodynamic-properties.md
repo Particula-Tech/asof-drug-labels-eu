@@ -85,24 +85,29 @@ An open-label, single-arm, multicenter study was conducted in patients intoleran
 A total of 174 patients received dasatinib 70 mg twice daily (161 resistant and 13 intolerant to imatinib).
 The median time from diagnosis to start of treatment was 82 months.
 Median duration of treatment on dasatinib was 14 months with 31% of patients treated for > 24 months to date.
-Efficacy results are reported in Table 5.
+The rate of major molecular response (assessed in 41 patients with a CCyR) was 46% at 24 months.
+Further efficacy results are reported in Table 5.
 
 Myeloid Blast Phase CML:
 An open-label, single-arm, multicenter study was conducted in patients intolerant or resistant to imatinib.
 A total of 109 patients received dasatinib 70 mg twice daily (99 resistant and 10 intolerant to imatinib).
 The median time from diagnosis to start of treatment was 48 months.
 Median duration of treatment on dasatinib was 3.5 months with 12% of patients treated for > 24 months to date.
-Efficacy results are reported in Table 5.
+The rate of major molecular response (assessed in 19 patients with a CCyR) was 68% at 24 months.
+Further efficacy results are reported in Table 5.
 
 Clinical trials in Lymphoid Blast Phase CML and Ph+ ALL:
 An open-label, single-arm, multicenter study was conducted in patients with lymphoid blast phase CML or Ph+ ALL who were resistant or intolerant to prior imatinib therapy.
 A total of 48 patients with lymphoid blast CML received dasatinib 70 mg twice daily (42 resistant and 6 intolerant to imatinib).
 The median time from diagnosis to start of treatment was 28 months.
 Median duration of treatment on dasatinib was 3 months with 2% treated for > 24 months to date.
-In addition, 46 patients with Ph+ ALL received dasatinib 70 mg twice daily (44 resistant and 2 intolerant to imatinib).
+The rate of major molecular response (all 22 treated patients with a CCyR) was 50% at 24 months.
+In addition,
+46 patients with Ph+ ALL received dasatinib 70 mg twice daily (44 resistant and 2 intolerant to imatinib).
 The median time from diagnosis to start of treatment was 18 months.
 Median duration of treatment on dasatinib was 3 months with 7% of patients treated for > 24 months to date.
-Efficacy results are reported in Table 5.
+The rate of major molecular response (all 25 treated patients with a CCyR) was 52% at 24 months.
+Further efficacy results are reported in Table 5.
 Of note, major haematologic responses (MaHR) were achieved quickly (most within 35 days of first dasatinib administration for patients with lymphoid blast CML, and within 55 days for patients with Ph+ ALL).
 
 Table 5: Efficacy in Phase II SPRYCEL Single-Arm Clinical Studiesa
@@ -145,7 +150,6 @@ The main secondary endpoint was MCyR by total daily dose level in the imatinib-r
 Other secondary endpoints included duration of MCyR, progression-free survival, and overall survival.
 A total of 670 patients, of whom 498 were imatinib-resistant, were randomised to the dasatinib 100 mg once daily, 140 mg once daily, 50 mg twice daily, or 70 mg twice daily group.
 Median duration of treatment was approximately 8 months (range < 1–15 months).
-
 Response rates are presented in Table 6.
 Efficacy was achieved across all dasatinib treatment groups with the once daily schedule demonstrating comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint (difference in MCyR 2.8%; 95% confidence interval [-6% - 11.6%]).
 The main secondary endpoint of the study also showed comparable efficacy (non-inferiority) between the 100 mg total daily dose and the 140 mg total daily dose (difference in MCyR -0.8%; 95% confidence interval [-9.6% - 8.0%]).

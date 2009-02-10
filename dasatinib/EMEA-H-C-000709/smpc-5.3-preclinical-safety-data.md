@@ -14,9 +14,9 @@ In rats, dasatinib inhibited platelet aggregation in vitro and prolonged cuticle
 
 Dasatinib activity in vitro in hERG and Purkinje fiber assays suggested a potential for prolongation of cardiac ventricular repolarization (QT interval).
 However, in an in vivo single-dose study in conscious telemetered monkeys, there were no changes in QT interval or ECG wave form.
-
 Dasatinib was not mutagenic in in vitro bacterial cell assays (Ames test) and was not genotoxic in an in vivo rat micronucleus study.
 Dasatinib was clastogenic in vitro to dividing Chinese Hamster Ovary (CHO) cells.
+
 Dasatinib did not affect male or female fertility in a conventional rat fertility and early embryonic development study, but induced embryolethality at dose levels approximating human clinical exposures.
 In embryofoetal development studies, dasatinib likewise induced embryolethality with associated decreases in litter size in rats, as well as foetal skeletal alterations in both rats and rabbits.
 These effects occurred at doses that did not produce maternal toxicity, indicating that dasatinib is a selective reproductive toxicant from implantation through the completion of organogenesis.
