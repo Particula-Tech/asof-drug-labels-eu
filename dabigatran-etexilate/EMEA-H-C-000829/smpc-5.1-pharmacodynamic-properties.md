@@ -80,7 +80,7 @@ Table 6: Major bleeding events by treatment in the individual RE-MODEL and the R
 | --- | --- | --- | --- |
 | RE-NOVATE (hip) |  |  |  |
 | Treated patients N | 1146 | 1163 | 1154 |
-| Number of MBE N(%) | 23 (2.0) | 15 (1.3) | 18 (1.8) |
+| Number of MBE N(%) | 23 (2.0) | 15 (1.3) | 18 (1.6) |
 | RE-MODEL (knee) |  |  |  |
 | Treated patients N | 679 | 703 | 694 |
 | Number of MBE N(%) | 10 (1.5) | 9 (1.3) | 9 (1.3) |
