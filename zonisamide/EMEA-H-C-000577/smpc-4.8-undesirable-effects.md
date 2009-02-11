@@ -29,7 +29,7 @@ very rare < 1/10,000 including isolated reports
 | Respiratory, thoracic and mediastinal disorders |  |  |  | Dyspnoea Pneumonia aspiration Respiratory disorder |
 | Gastrointestinal disorders |  | Abdominal pain Constipation Diarrhoea Dyspepsia Nausea | Vomiting | Pancreatitis |
 | Hepatobiliary disorders |  |  | Cholecystitis Cholelithiasis | Hepatocellular damage |
-| Skin and subcutaneous tissue disorders |  | Rash |  | Anhidrosis Erythema multiforme Pruritis Stevens-Johnson syndrome |
+| Skin and subcutaneous tissue disorders |  | Rash |  | Anhidrosis Erythema multiforme Pruritis Stevens-Johnson syndrome Toxic epidermal necrolysis |
 | Musculoskeletal and connective tissue disorders |  |  |  | Rhabdomyolysis |
 | Renal and urinary disorders |  | Nephrolithiasis | Calculus urinary | Hydronephrosis Renal failure Urine abnormality |
 | General disorders and administration site conditions |  | Fatigue Influenza-like illness Pyrexia |  |  |

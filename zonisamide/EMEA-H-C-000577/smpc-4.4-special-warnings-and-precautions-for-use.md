@@ -14,6 +14,13 @@ Serious immune based adverse reactions that are associated with medicinal produc
 
 Cases of agranulocytosis, thrombocytopenia, leukopenia, aplastic anaemia, pancytopenia and leucocytosis have been reported.
 There is inadequate information to assess the relationship, if any, between dose and duration of treatment and these events.
+Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in several indications.
+A meta-analysis of randomised placebo-controlled trials of anti-epileptic drugs has also shown a small increased risk of suicidal ideation and behaviour.
+The mechanism of this risk is not known and the available data do not exclude the possibility of an increased risk for Zonegran.
+
+Therefore patients should be monitored for signs of suicidal ideation and behaviours and appropriate treatment should be considered.
+Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge.
+
 Kidney stones have occurred in patients treated with Zonegran.
 Zonegran should be used with caution in patients who have risk factors for nephrolithiasis, including prior stone formation, a family history of nephrolithiasis and hypercalcuria.
 Such patients may be at increased risk for renal stone formation and associated signs and symptoms such as renal colic, renal pain or flank pain.
@@ -45,11 +52,3 @@ Therefore these patients should be treated with caution.
 Zonegran may cause weight loss.
 A dietary supplement or increased food intake may be considered if the patient is losing weight or is underweight whilst on this medication.
 If substantial undesirable weight loss occurs, discontinuation of Zonegran should be considered.
-
-[Zonegran 50 mg hard capsules.]
-
-Serious immune based adverse reactions that are associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances including aplastic anaemia, which very rarley can be fatal.
-
-[Zonegran 100 mg hard capsules.]
-
-(all sentences already above)

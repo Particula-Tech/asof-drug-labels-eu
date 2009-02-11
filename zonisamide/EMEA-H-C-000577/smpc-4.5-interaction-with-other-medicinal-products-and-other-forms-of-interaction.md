@@ -4,6 +4,7 @@ Effect of Zonegran on cytochrome P450 enzymes
 
 In vitro studies using human liver microsomes show no or little (<25%) inhibition of cytochrome P450 isozymes 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1 or 3A4 at zonisamide levels approximately two-fold or greater than clinically relevant unbound serum concentrations.
 Therefore Zonegran is not expected to affect the pharmacokinetics of other medicinal products via cytochrome P450-mediated mechanisms, as demonstrated for carbamazepine, phenytoin, ethinylestradiol and desipramine in vivo.
+
 Potential for Zonegran to affect other medicinal products
 
 Anti-epileptic drugs
