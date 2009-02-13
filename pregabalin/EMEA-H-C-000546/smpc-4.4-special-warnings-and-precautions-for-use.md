@@ -31,9 +31,17 @@ Pregabalin should be used with caution in these patients.
 Discontinuation of pregabalin may resolve the reaction.
 
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
 In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse events in general, CNS adverse events and especially somnolence was increased.
 This may be attributed to an additive effect due to concomitant medication (e.g. anti-spasticity agents) needed for this condition.
 This should be considered when prescribing pregabalin in this condition.
+
+Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in several indications.
+A meta-analysis of randomised placebo controlled trials of anti-epileptic drugs has also shown a small increased risk of suicidal ideation and behaviour.
+The mechanism of this risk is not known and the available data do not exclude the possibility of an increased risk for pregabalin.
+
+Therefore patients should be monitored for signs of suicidal ideation and behaviours and appropriate treatment should be considered.
+Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge.
 
 [LYRICA 50 mg hard capsules.]
 

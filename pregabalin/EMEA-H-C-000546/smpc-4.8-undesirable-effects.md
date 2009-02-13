@@ -6,8 +6,7 @@ Adverse reactions were usually mild to moderate in intensity.
 In all controlled studies, the discontinuation rate due to adverse reactions was 13% for patients receiving pregabalin and 7% for patients receiving placebo.
 The most common adverse reactions resulting in discontinuation from pregabalin treatment groups were dizziness and somnolence.
 
-In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (> 1/10), common (> 1/100,
-< 1/10), uncommon (> 1/1000, < 1/100) and rare (< 1/1000)).
+In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (> 1/10), common (> 1/100, < 1/10), uncommon (>1/1000, <1/100) and rare (<1/1000)).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 The adverse reactions listed may also be associated with the underlying disease and / or concomitant medications.
@@ -158,6 +157,8 @@ Concerning discontinuation of long-term treatment of pregabalin there are no dat
 
 Rare Anasarca,pyrexia, rigors, pain exacerbated,
 
+cell count decreased, blood creatinine increased, weight decreased After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+
 [LYRICA 75 mg hard capsules]
 
 The following events have been mentioned: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating, and dizziness.
@@ -179,7 +180,5 @@ The following events have been mentioned: insomnia, headache, nausea, diarrhoea,
 (all sentences already above)
 
 [LYRICA 300 mg hard capsules]
-
-In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (> 1/10), common (> 1/100, < 1/10), uncommon (>1/1000, <1/100) and rare (<1/1000)).
 
 The following events have been: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating and dizziness.

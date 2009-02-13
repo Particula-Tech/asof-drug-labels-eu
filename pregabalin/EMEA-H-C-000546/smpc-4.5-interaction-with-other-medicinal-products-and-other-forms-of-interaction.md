@@ -14,31 +14,3 @@ Pregabalin appears to be additive in the impairment of cognitive and gross motor
 
 No specific pharmacodynamic interaction studies were conducted in elderly volunteers.
 Interaction studies have only been performed in adults.
-
-[LYRICA 50 mg hard capsules.]
-
-Since pregabalin is predominantly excreted unchanged in the urine, undergoes negligible metabolism in humans (< 2% of a dose recovered in urine as metabolites), does not inhibit drug metabolism in vitro, and is not bound to plasma proteins, it is unlikely to produce, or be subject to, pharmacokinetic interactions.
-
-[LYRICA 75 mg hard capsules]
-
-(all sentences already above)
-
-[LYRICA 100 mg hard capsules.]
-
-(all sentences already above)
-
-[LYRICA 150 mg hard capsules]
-
-(all sentences already above)
-
-[LYRICA 200 mg hard capsules]
-
-(all sentences already above)
-
-[LYRICA 225 mg hard capsules]
-
-(all sentences already above)
-
-[LYRICA 300 mg hard capsules]
-
-(all sentences already above)

@@ -16,7 +16,6 @@ In preclinical studies, pregabalin has been shown to cross the blood brain barri
 Pregabalin has been shown to cross the placenta in rats and is present in the milk of lactating rats.
 In humans, the apparent volume of distribution of pregabalin following oral administration is approximately 0.56 l/kg.
 Pregabalin is not bound to plasma proteins.
-
 Metabolism:
 
 Pregabalin undergoes negligible metabolism in humans.
@@ -34,7 +33,7 @@ Dosage adjustment in patients with reduced renal function or undergoing haemodia
 Linearity / non-linearity :
 
 Pregabalin pharmacokinetics are linear over the recommended daily dose range.
-Inter-subject pharmacokinetic variability for pregabalin is low (< 20%).
+Inter-subject pharmacokinetic variability for pregabalin is low (<20%).
 Multiple dose pharmacokinetics are predictable from single-dose data.
 Therefore, there is no need for routine monitoring of plasma concentrations of pregabalin.
 
@@ -60,31 +59,3 @@ Elderly (over 65 years of age)
 Pregabalin clearance tends to decrease with increasing age.
 This decrease in pregabalin oral clearance is consistent with decreases in creatinine clearance associated with increasing age.
 Reduction of pregabalin dose may be required in patients who have age related compromised renal function (see section 4.2 Table 1).
-
-[LYRICA 50 mg hard capsules.]
-
-Pregabalin oral bioavailability is estimated to be ≥ 90% and is independent of dose.
-
-[LYRICA 75 mg hard capsules]
-
-Inter-subject pharmacokinetic variability for pregabalin is low (<20%).
-
-[LYRICA 100 mg hard capsules.]
-
-(all sentences already above)
-
-[LYRICA 150 mg hard capsules]
-
-(all sentences already above)
-
-[LYRICA 200 mg hard capsules]
-
-(all sentences already above)
-
-[LYRICA 225 mg hard capsules]
-
-(all sentences already above)
-
-[LYRICA 300 mg hard capsules]
-
-(all sentences already above)

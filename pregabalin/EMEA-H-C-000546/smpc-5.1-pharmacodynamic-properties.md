@@ -23,7 +23,6 @@ In clinical trials up to 12 weeks for both peripheral and central neuropathic pa
 In controlled clinical trials in peripheral neuropathic pain 35% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score.
 For patients not experiencing somnolence, such an improvement was observed in 33% of patients treated with pregabalin and 18% of patients on placebo.
 For patients who experienced somnolence the responder rates were 48% on pregabalin and 16% on placebo.
-
 In the controlled clinical trial in central neuropathic pain 22% of the Pregabalin treated patients and 7% of the patients on placebo had a 50% improvement in pain score.
 
 Epilepsy
@@ -32,6 +31,7 @@ Pregabalin has been studied in 3 controlled clinical studies of 12 week duration
 Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
 
 A reduction in seizure frequency was observed by Week 1.
+
 Generalised Anxiety Disorder
 
 Pregabalin has been studied in 6 controlled studies of 4-6 week duration, an elderly study of 8 week duration and a long-term relapse prevention study with a double blind relapse prevention phase of 6 months duration.
