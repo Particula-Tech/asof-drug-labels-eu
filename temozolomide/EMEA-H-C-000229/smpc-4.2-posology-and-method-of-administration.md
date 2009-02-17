@@ -97,3 +97,51 @@ Temodal hard capsules should be administered in the fasting state.
 The capsules must be swallowed whole with a glass of water and must not be opened or chewed.
 
 If vomiting occurs after the dose is administered, a second dose should not be administered that day.
+
+[Temodal 20 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 100 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 140 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 180 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 250 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 2.5 mg/ml powder for solution for infusion]
+
+Temodal 2.5 mg/ml should only be prescribed by physicians experienced in the oncological treatment of brain tumours.
+
+Temodal 2.5 mg/ml is administered in combination with focal radiotherapy (concomitant phase) followed by up to 6 cycles of temozolomide (TMZ) monotherapy (monotherapy phase).
+
+TMZ is administered at a dose of 75 mg/m2 daily for 42 days concomitant with focal radiotherapy
+(60 Gy administered in 30 fractions).
+No dose reductions are recommended, but delay or discontinuation of TMZ administration should be decided weekly according to haematological and non-haematological toxicity criteria.
+
+In patients previously untreated with chemotherapy, TMZ is administered at a dose of 200 mg/m2 once daily for the first 5 days followed by a 23 day treatment interruption (total of 28 days).
+
+The pharmacokinetics of TMZ were comparable in patients with normal hepatic function and in those with mild or moderate hepatic impairment.
+No data are available on the administration of TMZ in patients with severe hepatic impairment (Child’s Class C) or with renal impairment.
+Based on the pharmacokinetic properties of TMZ, it is unlikely that dose reductions are required in patients with severe hepatic impairment or any degree of renal impairment.
+
+Temodal 2.5 mg/ml powder for solution for infusion must be administered only by intravenous infusion.
+It must not be given by other routes of administration, such as the intrathecal, intramuscular, or subcutaneous route.
+
+The appropriate dose of TMZ should be infused intravenously using a pump over a period of 90 minutes.
+
+As with other similar chemotherapeutic agents, caution is recommended to avoid extravasation.
+Local injection site adverse reactions, which were mostly mild and short-lived were reported in patients receiving Temodal 2.5 mg/ml powder for solution for infusion.
+Preclinical studies did not show permanent tissue damage (see sections 4.8 and 5.3).
+
+Temodal is also available as a hard capsule formulation (oral use).
+Temodal 2.5 mg/ml powder for solution for infusion, given as an intravenous infusion over 90 minutes, is bioequivalent to the hard capsule formulation (see section 5.2).

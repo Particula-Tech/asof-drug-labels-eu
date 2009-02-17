@@ -35,3 +35,10 @@ Excipient: Each hard capsule contains 316.3 mg of anhydrous lactose.
 Each hard capsule contains 250 mg temozolomide.
 
 Excipient: Each hard capsule contains 154.3 mg of anhydrous lactose.
+
+[Temodal 2.5 mg/ml powder for solution for infusion]
+
+Each vial contains 100 mg of temozolomide.
+After reconstitution, 1 ml solution for infusion contains 2.5 mg temozolomide.
+
+Excipient: Each vial contains 2.4 mmol sodium.

@@ -29,3 +29,10 @@ The carton contains 5 or 20 hard capsules, individually sealed in sachets.
 [Temodal 250 mg hard capsules]
 
 (all sentences already above)
+
+[Temodal 2.5 mg/ml powder for solution for infusion]
+
+Clear type I glass vial sealed with bromobutyl rubber stopper and aluminium overseal with peach-coloured flip-off bonnet.
+Each vial contains 100 mg TMZ.
+
+Temodal 2.5 mg/ml is supplied as a pack of 1 vial.

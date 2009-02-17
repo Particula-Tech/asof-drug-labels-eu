@@ -48,8 +48,8 @@ In patients with prior chemotherapy a benefit was indicated in those with a KPS 
 
 Data on time to worsening of neurological status favoured TMZ over procarbazine as did data on time to worsening of performance status (decrease to a KPS of < 70 or a decrease by at least 30 points).
 The median times to progression in these endpoints ranged from 0.7 to 2.1 months longer for TMZ than for procarbazine (log rank p = < 0.01 to 0.03).
-Recurrent anaplastic astrocytoma
 
+Recurrent anaplastic astrocytoma
 In a multicentre, prospective phase II trial evaluating the safety and efficacy of oral TMZ in the treatment of patients with anaplastic astrocytoma at first relapse, the 6 month PFS was 46 %.
 The median PFS was 5.4 months.
 Median overall survival was 14.6 months.
@@ -63,3 +63,29 @@ Paediatric patients
 
 Oral TMZ has been studied in paediatric patients (age 3-18 years) with recurrent brainstem glioma or recurrent high grade astrocytoma, in a regimen administered daily for 5 days every 28 days.
 Tolerance to TMZ is similar to adults.
+
+[Temodal 20 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 100 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 140 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 180 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 250 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 2.5 mg/ml powder for solution for infusion]
+
+Pharmacotherapeutic group: Antineoplastic agents - Other alkylating agents, ATC code: L01A X03 Temozolomide is a triazene, which undergoes rapid chemical conversion at physiologic pH to the active monomethyl triazenoimidazole carboxamide (MTIC).
+
+Figure 1 Kaplan-Meier curves for overall survival (Intent to Treat population)

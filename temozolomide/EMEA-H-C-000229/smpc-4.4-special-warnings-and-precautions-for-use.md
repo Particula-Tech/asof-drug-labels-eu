@@ -52,3 +52,30 @@ Lactose
 
 This medicinal product contains lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
+
+[Temodal 20 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 100 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 140 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 180 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 250 mg hard capsules]
+
+(all sentences already above)
+
+[Temodal 2.5 mg/ml powder for solution for infusion]
+
+Sodium
+
+This medicinal product contains 2.4 mmol sodium per vial.
+This should be taken into consideration by patients on a controlled sodium diet.

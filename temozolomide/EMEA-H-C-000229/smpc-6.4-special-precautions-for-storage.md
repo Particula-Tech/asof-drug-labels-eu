@@ -25,3 +25,9 @@ Sachet presentation
 [Temodal 250 mg hard capsules]
 
 (all sentences already above)
+
+[Temodal 2.5 mg/ml powder for solution for infusion]
+
+Store in a refrigerator (2 °C – 8 °C).
+
+For storage conditions of the reconstituted medicinal product, see section 6.3.

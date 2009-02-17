@@ -21,3 +21,7 @@ Temodal 180 mg hard capsules
 [Temodal 250 mg hard capsules]
 
 Temodal 250 mg hard capsules
+
+[Temodal 2.5 mg/ml powder for solution for infusion]
+
+Temodal 2.5 mg/ml powder for solution for infusion

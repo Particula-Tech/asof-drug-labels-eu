@@ -28,3 +28,11 @@ gelatin, titanium dioxide (E 171), sodium lauril sulfate, yellow iron oxide (E 1
 [Temodal 250 mg hard capsules]
 
 gelatin, titanium dioxide (E 171), sodium lauril sulfate
+
+[Temodal 2.5 mg/ml powder for solution for infusion]
+
+Mannitol (E421)
+Threonine
+Polysorbate 80
+Sodium citrate (for pH adjustment)
+Hydrochloric acid concentrated (for pH adjustment)

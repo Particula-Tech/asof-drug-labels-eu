@@ -36,3 +36,7 @@ pregnancy while they are receiving TMZ.
 [Temodal 250 mg hard capsules]
 
 (all sentences already above)
+
+[Temodal 2.5 mg/ml powder for solution for infusion]
+
+Temodal 2.5 mg/ml should not be administered to pregnant women.
