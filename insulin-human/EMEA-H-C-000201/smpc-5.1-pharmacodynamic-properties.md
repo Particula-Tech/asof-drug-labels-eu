@@ -1,10 +1,9 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antidiabetic agent.
-Insulins and analogues, fast-acting, ATC Code: A10AB01.
-
+Insulins and analogues for injection, fast-acting,
+ATC Code: A10AB01.
 Mode of action
-
 Insulin
 
 - lowers blood glucose and promotes anabolic effects as well as decreasing catabolic effects,
@@ -15,7 +14,6 @@ Insulin
 - enhances the uptake of potassium into cells.
 
 Pharmacodynamic characteristics
-
 Insuman Rapid is an insulin with rapid onset and short duration of action.
 Following subcutaneous injection, onset of action is within 30 minutes, the phase of maximum action is between 1 and 4 hours after injection and the duration of action is 7 to 9 hours.
 
@@ -41,7 +39,7 @@ Following subcutaneous injection, onset of action is within 30 minutes, the phas
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
-Insulins and analogues, intermediate-acting, ATC Code: A10AC01.
+Insulins and analogues for injection, intermediate-acting, ATC Code: A10AC01.
 
 Insuman Basal (an isophane insulin suspension) is an insulin with gradual onset and long duration of action.
 Following subcutaneous injection, onset of action is within 60 minutes, the phase of maximum action is between 3 and 4 hours after injection and the duration of action is 11 to 20 hours.
@@ -68,7 +66,7 @@ Following subcutaneous injection, onset of action is within 60 minutes, the phas
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
-Insulins and analogues, intermediate-acting combined with fast-acting, ATC Code: A10AD01.
+Insulins and analogues for injection, intermediate-acting combined with fast-acting, ATC Code: A10AD01.
 
 Insuman Comb 15 (a biphasic isophane insulin suspension with 15% dissolved insulin) is an insulin with gradual onset and long duration of action.
 Following subcutaneous injection, onset of action is within 30 to 60 minutes, the phase of maximum action is between 2 and 4 hours after injection and the duration of action is 11 to 20 hours.
@@ -118,6 +116,22 @@ Following subcutaneous injection, onset of action is within 30 to 60 minutes, th
 
 (all sentences already above)
 
+[Insuman Comb 30 100 IU/ml suspension for injection in a vial]
+
+Insuman Comb 30 (a biphasic isophane insulin suspension with 30% dissolved insulin) is an insulin with gradual onset and long duration of action.
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
+
+(all sentences already above)
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+
+(all sentences already above)
+
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 Insuman Comb 50 (a biphasic isophane insulin suspension with 50% dissolved insulin) is an insulin with rapid onset and moderately long duration of action.
@@ -135,11 +149,11 @@ Following subcutaneous injection, onset of action is within 30 minutes, the phas
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 29)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 33)]
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 30)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 34)]
 
 (all sentences already above)
 

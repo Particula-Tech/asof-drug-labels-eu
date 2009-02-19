@@ -1,7 +1,6 @@
 # 4.6 Pregnancy and lactation
 
 Pregnancy
-
 For insulin human, no clinical data on exposed pregnancies are available.
 Insulin does not cross the placental barrier.
 Caution should be exercised when prescribing to pregnant women.
@@ -11,9 +10,8 @@ Insulin requirements may decrease during the first trimester and generally incre
 Immediately after delivery, insulin requirements decline rapidly (increased risk of hypoglycaemia).
 Careful monitoring of glucose control is essential.
 Lactation
-
 No effects on the suckling child are anticipated.
-Insuman Rapid can be used during breastfeeding.
+Insuman Rapid can be used during breast-feeding.
 Lactating women may require adjustments in insulin dose and diet.
 
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
@@ -38,7 +36,7 @@ Lactating women may require adjustments in insulin dose and diet.
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
-Insuman Basal can be used during breastfeeding.
+Insuman Basal can be used during breast-feeding.
 
 [Insuman Basal 40 IU/ml suspension for injection in a vial]
 
@@ -62,7 +60,7 @@ Insuman Basal can be used during breastfeeding.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
-Insuman Comb 15 can be used during breastfeeding.
+Insuman Comb 15 can be used during breast-feeding.
 
 [Insuman Comb 15 40 IU/ml suspension for injection in a vial]
 
@@ -86,9 +84,7 @@ Insuman Comb 15 can be used during breastfeeding.
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
-Insulin does not cross the placental barrier.Caution should be exercised when prescribing to pregnant women.
-
-Insuman Comb 25 can be used during breastfeeding.
+Insuman Comb 25 can be used during breast-feeding.
 
 [Insuman Comb 25 40 IU/ml suspension for injection in a vial]
 
@@ -110,9 +106,25 @@ Insuman Comb 25 can be used during breastfeeding.
 
 (all sentences already above)
 
+[Insuman Comb 30 100 IU/ml suspension for injection in a vial]
+
+Insuman Comb 30 can be used during breast-feeding.
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
+
+(all sentences already above)
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+
+(all sentences already above)
+
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
-Insuman Comb 50 can be used during breastfeeding.
+Insuman Comb 50 can be used during breast-feeding.
 
 [Insuman Comb 50 40 IU/ml suspension for injection in a vial]
 
@@ -126,17 +138,17 @@ Insuman Comb 50 can be used during breastfeeding.
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 29)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 33)]
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 30)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 34)]
 
 (all sentences already above)
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
-Insuman Infusat can be used during breastfeeding.
+Insuman Infusat can be used during breast-feeding.
 
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 

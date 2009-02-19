@@ -10,7 +10,7 @@ Prolonged or severe hypoglycaemic episodes may be life-threatening.
 In many patients, the signs and symptoms of neuroglycopenia are preceded by signs of adrenergic counter-regulation.
 Generally, the greater and more rapid the decline in blood glucose, the more marked is the phenomenon of counter-regulation and its symptoms.
 
-The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common (≥1/10); common (≥1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
+The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 

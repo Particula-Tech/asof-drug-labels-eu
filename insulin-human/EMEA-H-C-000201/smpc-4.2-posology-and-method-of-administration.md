@@ -1,10 +1,9 @@
 # 4.2 Posology and method of administration
 
-The desired blood glucose levels, the insulin preparations to be used and the insulin dosage (doses and timings) must be determined individually and adjusted to suit the patient’s diet, physical activity and life-style.
+The desired blood glucose levels, the insulin preparations to be used and the insulin dose regimen (doses and timings) must be determined individually and adjusted to suit the patient’s diet, physical activity and life-style.
 
 Daily doses and timing of administration
-
-There are no fixed rules for insulin dosage.
+There are no fixed rules for insulin dose regimen.
 However, the average insulin requirement is often 0.5 to 1.0 IU per kg body weight per day.
 The basal metabolic requirement is 40% to 60% of the total daily requirement.
 Insuman Rapid is injected subcutaneously 15 to 20 minutes before a meal.
@@ -12,8 +11,7 @@ Insuman Rapid is injected subcutaneously 15 to 20 minutes before a meal.
 In the treatment of severe hyperglycaemia or ketoacidosis in particular, insulin administration is part of a complex therapeutic regimen which includes measures to protect patients from possible severe complications of a relatively rapid lowering of blood glucose.
 This regimen requires close monitoring (metabolic status, acid-base and electrolyte status, vital parameters etc.) in an intensive care unit or similar setting.
 Transfer to Insuman Rapid
-
-Dosage adjustment may be necessary when transferring patients from one insulin preparation to another.
+Dose regimen adjustment may be necessary when transferring patients from one insulin preparation to another.
 This applies, for example, when transferring from:
 
 - an animal insulin (especially a bovine insulin) to human insulin,
@@ -23,7 +21,7 @@ This applies, for example, when transferring from:
 The need to adjust (e.g. reduce) the dose may become evident immediately after transfer.
 Alternatively, it may emerge gradually over a period of several weeks.
 
-Following transfer from an animal insulin to human insulin, dosage reduction may be required in particular in patients who
+Following transfer from an animal insulin to human insulin, dose regimen reduction may be required in particular in patients who
 
 - were previously already controlled on rather low blood glucose levels,
 - have a tendency to hypoglycaemia,
@@ -33,7 +31,6 @@ Close metabolic monitoring is recommended during the transition and in the initi
 In patients who require high insulin doses because of the presence of insulin antibodies, transfer under medical supervision in a hospital or similar setting must be considered.
 
 Secondary dose adjustment
-
 Improved metabolic control may result in increased insulin sensitivity, leading to a reduced insulin requirement.
 Dose adjustment may also be required, for example, if
 
@@ -42,18 +39,16 @@ Dose adjustment may also be required, for example, if
 - other circumstances arise that may promote an increased susceptibility to hypo- or hyperglycaemia (see section 4.4).
 
 Use in specific patient groups
-
 In patients with hepatic or renal impairment as well as in the elderly, insulin requirements may be diminished (see section 4.4).
 
 Administration
-
 Insuman Rapid contains 100 IU of insulin per ml solution.
 Only injection syringes designed for this strength of insulin (100 IU per ml) are to be used.
 The injection syringes must not contain any other medicinal product or residue (e.g. traces of heparin).
 
 Insuman Rapid is administered subcutaneously.
 
-Insulin absorption and hence the blood glucose lowering effect of a dose may vary from one injection area to another (e.g. the abdominal wall compared with the thigh).
+Insulin absorption and hence the blood-glucose-lowering effect of a dose may vary from one injection area to another (e.g. the abdominal wall compared with the thigh).
 Injection sites within an injection area must be rotated from one injection to the next.
 
 Insuman Rapid may also be administered intravenously.
@@ -182,6 +177,29 @@ Insuman Comb 25 in cartridges for OptiClik has been developed for use with OptiC
 
 (all sentences already above)
 
+[Insuman Comb 30 100 IU/ml suspension for injection in a vial]
+
+Insuman Comb 30 is injected subcutaneously 30 to 45 minutes before a meal.
+
+Transfer to Insuman Comb 30
+
+Insuman Comb 30 contains 100 IU of insulin per ml suspension.
+
+Insuman Comb 30 is administered subcutaneously.
+Insuman Comb 30 must never be injected intravenously.
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
+
+Insuman Comb 30 in cartridges has been developed for use in the OptiPen series.
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+
+Insuman Comb 30 in cartridges for OptiClik has been developed for use with OptiClik only.
+
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 Insuman Comb 50 is injected subcutaneously 20 to 30 minutes before a meal.
@@ -205,11 +223,11 @@ Insuman Comb 50 in cartridges has been developed for use in the OptiPen series.
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 29)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 33)]
 
 Insuman Comb 50 in cartridges for OptiClik has been developed for use with OptiClik only.
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 30)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 34)]
 
 (all sentences already above)
 
@@ -219,7 +237,7 @@ Insuman Infusat has been specially designed for use in external portable insulin
 It is specially stabilised to minimise loss of efficacy which may result from mechanical and thermal stress in such pumps.
 Insuman Infusat is therefore also suitable for continuous insulin infusion with other, conventional injection syringe pumps.
 
-The desired blood glucose levels and the insulin dosage must be determined individually and adjusted to suit the patient's diet, physical activity and life-style.
+The desired blood glucose levels and the insulin dose regimen must be determined individually and adjusted to suit the patient's diet, physical activity and life-style.
 
 When used in external portable insulin pumps, part of the daily insulin dose is infused continuously ("basal rate"), and the rest is administered in the form of bolus injections before meals.
 Refer to the operating instructions for detailed information about the infusion pump, its functions and the necessary safety precautions.

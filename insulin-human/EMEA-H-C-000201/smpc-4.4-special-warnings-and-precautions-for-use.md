@@ -12,7 +12,6 @@ In patients with severe hepatic impairment, insulin requirements may be diminish
 In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic episodes, the patient's adherence to the prescribed treatment regimen, injection sites and proper injection technique and all other relevant factors must be reviewed before dose adjustment is considered.
 
 Hypoglycaemia
-
 Hypoglycaemia may occur if the insulin dose is too high in relation to the insulin requirement.
 
 Particular caution should be exercised, and intensified blood glucose monitoring is advisable in patients in whom hypoglycaemic episodes might be of particular clinical relevance, such as in patients with significant stenoses of the coronary arteries or of the blood vessels supplying the brain (risk of cardiac or cerebral complications of hypoglycaemia) as well as in patients with proliferative retinopathy, particularly if not treated with photocoagulation (risk of transient amaurosis following hypoglycaemia).
@@ -33,12 +32,12 @@ These include patients:
 Such situations may result in severe hypoglycaemia (and possibly loss of consciousness) prior to the patient's awareness of hypoglycaemia.
 
 If normal or decreased values for glycated haemoglobin are noted, the possibility of recurrent, unrecognised (especially nocturnal) episodes of hypoglycaemia must be considered.
-Adherence of the patient to the dosage and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
+Adherence of the patient to the dose regimen and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
 Factors increasing the susceptibility to hypoglycaemia require particularly close monitoring and may necessitate dose adjustment.
 These include:
 
 - change in the injection area,
-- improved insulin sensitivity (by, e.g., removal of stress factors),
+- improved insulin sensitivity (e.g. by removal of stress factors),
 - unaccustomed, increased or prolonged physical activity,
 - intercurrent illness (e.g. vomiting, diarrhoea),
 - inadequate food intake,
@@ -48,7 +47,6 @@ These include:
 - concomitant treatment with certain other medicinal products.
 
 Intercurrent illness
-
 Intercurrent illness requires intensified metabolic monitoring.
 In many cases, urine tests for ketones are indicated, and often it is necessary to adjust the insulin dose.
 The insulin requirement is often increased.
@@ -65,7 +63,6 @@ Patients with type 1 diabetes must continue to consume at least a small amount o
 [Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
 
 Handling of the pen
-
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully.
 OptiSet has to be used as recommended in these Instructions for Use (see section 6.6).
 
@@ -156,6 +153,24 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
+[Insuman Comb 30 100 IU/ml suspension for injection in a vial]
+
+Patients hypersensitive to Insuman Comb 30 for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
+
+In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Comb 30, since they may experience immunological cross-reactions.
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
+
+(all sentences already above)
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+
+(all sentences already above)
+
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 Patients hypersensitive to Insuman Comb 50 for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
@@ -174,11 +189,11 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 29)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 33)]
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 30)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 34)]
 
 (all sentences already above)
 
@@ -191,7 +206,6 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 In case of hypoglycaemia, the insulin pump should temporarily be turned off, at least until the patient has recovered complete consciousness.
 
 Insulin pump faults
-
 Hyperglycaemia, ketoacidosis and coma may develop within hours if the pump catheter is obstructed completely.
 Whenever the patient notices a rapid increase in blood glucose which does not respond to a bolus dose, a check must be made for possible catheter obstruction.
 

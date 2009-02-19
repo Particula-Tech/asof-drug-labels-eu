@@ -97,6 +97,22 @@ Care must be taken to ensure that no alcohol or other disinfectants enter the in
 
 (all sentences already above)
 
+[Insuman Comb 30 100 IU/ml suspension for injection in a vial]
+
+(all sentences already above)
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
+
+(all sentences already above)
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
+
+(all sentences already above)
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+
+(all sentences already above)
+
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
@@ -113,11 +129,11 @@ Care must be taken to ensure that no alcohol or other disinfectants enter the in
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 29)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 33)]
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 30)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 34)]
 
 (all sentences already above)
 
