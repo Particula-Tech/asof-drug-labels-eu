@@ -13,15 +13,14 @@ The physician should be particularly alert to symptoms suggestive of PML that th
 Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
 
 If a patient develops PML the dosing of MabThera must be permanently discontinued.
-
 Following reconstitution of the immune system in immunocompromised patients with PML, stabilisation or improved outcome has been seen.
 It remains unknown if early detection of PML and suspension of MabThera therapy may lead to similar stabilisation or improved outcome.
 
-Non-Hogkin’s lymphoma
+Non-Hogkin’s lymphoma and chronic lymphocytic leukaemia
 
-Patients with a high tumour burden or with a high number (≥25 x 109/l) of circulating malignant cells, who may be at higher risk of especially severe cytokine release syndrome, should only be treated with extreme caution and when other therapeutic alternatives have been exhausted.
+Patients with a high tumour burden or with a high number (≥25 x 109/l) of circulating malignant cells such as patients with CLL , who may be at higher risk of especially severe cytokine release syndrome, should only be treated with extreme caution.
 These patients should be very closely monitored throughout the first infusion.
-Consideration should be given to the use of a reduced infusion rate for the first infusion in these patients.
+Consideration should be given to the use of a reduced infusion rate for the first infusion in these patients or a split dosing over two days during the first cycle.
 
 Severe cytokine release syndrome is characterised by severe dyspnea, often accompanied by bronchospasm and hypoxia, in addition to fever, chills, rigors, urticaria, and angioedema.
 This syndrome may be associated with some features of tumour lysis syndrome such as hyperuricaemia, hyperkalaemia, hypocalcaemia, hyperphosphaetemia, acute renal failure, elevated Lactate dehydrogenase (LDH) and may be associated with acute respiratory failure and death.
@@ -48,18 +47,22 @@ Therefore patients with a history of cardiac disease and/or cardiotoxic chemothe
 
 Although MabThera is not myelosuppressive in monotherapy, caution should be exercised when considering treatment of patients with neutrophils < 1.5 x 109/l and/or platelet counts < 75 x 109/l as clinical experience in this population is limited.
 MabThera has been used in 21 patients who underwent autologous bone marrow transplantation and other risk groups with a presumable reduced bone marrow function without inducing myelotoxicity.
-
 Consideration should be given to the need for regular full blood counts, including platelet counts, during monotherapy with MabThera.
 When MabThera is given in combination with CHOP or CVP (cyclophosphamide, vincristine, and prednisone) chemotherapy, regular full blood counts should be performed according to usual medical practice.
+
+Serious infections, including fatalities, can occur during therapy with MabThera (see section 4.8).
+MabThera should not be administered to patients with an active and/or severe infection (eg. tuberculosis, sepsis and opportunistic infections, see section 4.3).
+Physicians should exercise caution when considering the use of MabThera in patients with a history of recurring or chronic infections or with underlying conditions which may further predispose patients to serious infection (see section 4.8).
 
 Very rare cases of hepatitis B reactivation have been reported in subjects receiving rituximab including fulminant hepatitis with fatal outcome.
 The majority of these subjects were also exposed to cytotoxic chemotherapy.
 The reports are confounded by both the underlying disease state and the cytotoxic chemotherapy.
 Patients with a history of hepatitis B infection should be carefully monitored for signs of active hepatitis B infection when rituximab is used in association with cytotoxic chemotherapy.
 
-Very rare cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported during post-marketing use of MabThera in NHL (see section 4.8).
+Very rare cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported during post-marketing use of MabThera in NHL and CLL (see section 4.8).
 The majority of patients had received rituximab in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
-The safety of immunization with any vaccine, particularly live viral vaccines, following MabThera therapy has not been studied.
+
+The safety of immunization with any vaccine, particularly live viral vaccines, following MabThera therapy has not been studied for NHL and CLL patients.
 The ability to generate a primary or anamnestic humoral response to any vaccine has also not been studied.
 
 Rheumatoid arthritis
@@ -93,6 +96,7 @@ Before giving a subsequent course of MabThera treatment, patients should be re-e
 
 Very rare cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported following use of MabThera for the treatment of rheumatoid arthritis and autoimmune diseases including Systemic Lupus Erythematosus (SLE) and Vasculitis.
 These cases involved patients with multiple risk factors for PML, including the underlying disease and long-term immunosuppressive therapy or chemotherapy.
+
 In patients with non-Hodgkin’s lymphoma receiving rituximab in combination with cytotoxic chemotherapy, very rare cases of hepatitis B reactivation have been reported (see non-Hodgkin’s lymphoma).
 
 Immunization
@@ -110,3 +114,7 @@ Patients should be closely observed for signs of infection if biologic agents an
 Malignancy
 Immunomodulatory drugs may increase the risk of malignancy.
 On the basis of limited experience with MabThera in rheumatoid arthritis patients (see section 4.8) a possible risk for the development of solid tumours cannot be excluded at this time, although present data do not seem to suggest any increased risk.
+
+[MabThera 500 mg (10 mg/ml) concentrate for solution for infusion]
+
+Patients with a high tumour burden or with a high number (≥25 x 109/l) of circulating malignant cells such as patients with CLL, who may be at higher risk of especially severe cytokine release syndrome, should only be treated with extreme caution .

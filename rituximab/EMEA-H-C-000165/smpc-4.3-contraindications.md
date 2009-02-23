@@ -1,8 +1,10 @@
 # 4.3 Contraindications
 
-Contraindications for use in non-Hodgkin’s lymphoma
+Contraindications for use in non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia
 
 Hypersensitivity to the active substance or to any of the excipients or to murine proteins.
+
+Active, severe infections (see section 4.4).
 
 Contraindications for use in rheumatoid arthritis
 

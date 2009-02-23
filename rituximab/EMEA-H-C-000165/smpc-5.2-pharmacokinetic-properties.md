@@ -8,7 +8,7 @@ Baseline CD19-positive cell counts and size of measurable tumor lesions contribu
 Patients with higher CD19-positive cell counts or tumor lesions had a higher CL2.
 However, a large component of inter-individual variability remained for CL2 after correction for CD19-positive cell counts and tumor lesion size.
 V1 varied by body surface area (BSA) and CHOP therapy.
-This variability in V1 (27.1% and 19.0%) contributed by the range in BSA (1.53 to 2.32 m2) and concurrent CHOP therapy, respectively, were relatively small.
+This variability in V1 (27.1 % and 19.0 %) contributed by the range in BSA (1.53 to 2.32 m2) and concurrent CHOP therapy, respectively, were relatively small.
 Age, gender and WHO performance status had no effect on the pharmacokinetics of rituximab.
 This analysis suggests that dose adjustment of rituximab with any of the tested covariates is not expected to result in a meaningful reduction in its pharmacokinetic variability.
 
@@ -29,3 +29,7 @@ Following the intravenous administration of 500 and 1000 mg doses of rituximab o
 No pharmacokinetic data are available in patients with hepatic or renal impairment.
 No pharmacokinetic data are available for patients receiving multiple courses of therapy.
 The pharmacokinetic (PK) parameters in the anti-TNF inadequate responder population, following the same dosage regimen (2 x 1000 mg, iv, 2 weeks apart), were similar with a mean maximum serum concentration of 369 μg/mL and a mean terminal half-life of 19.2 days.
+
+[MabThera 500 mg (10 mg/ml) concentrate for solution for infusion]
+
+This variability in V1 (27.1% and 19.0%) contributed by the range in BSA (1.53 to 2.32 m2) and concurrent CHOP therapy, respectively, were relatively small.

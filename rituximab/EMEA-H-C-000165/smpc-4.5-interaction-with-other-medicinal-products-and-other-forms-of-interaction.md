@@ -3,7 +3,6 @@
 Currently, there are limited data on possible drug interactions with MabThera.
 
 Co-administration with methotrexate had no effect on the pharmacokinetics of MabThera in rheumatoid arthritis patients.
-
 Patients with human anti-mouse antibody or human anti-chimeric antibody (HAMA/HACA) titres may have allergic or hypersensitivity reactions when treated with other diagnostic or therapeutic monoclonal antibodies.
 
 In a small cohort of patients with rheumatoid arthritis, 110 patients received subsequent therapy with other DMARDs (including biologicals).

@@ -10,6 +10,10 @@ MabThera monotherapy is indicated for treatment of patients with stage III-IV fo
 
 MabThera is indicated for the treatment of patients with CD20 positive diffuse large B cell non-Hodgkin’s lymphoma in combination with CHOP (cyclophosphamide, doxorubicin, vincristine, prednisolone) chemotherapy.
 
+Chronic lymphocytic leukaemia
+
+MabThera is indicated for first-line treatment of patients with chronic lymphocytic leukaemia (CLL) in combination with chemotherapy.
+
 See section 5.1 for further information.
 
 Rheumatoid arthritis
