@@ -21,25 +21,47 @@ Frequencies are defined as: very common (≥ 1/10); common
 In the majority of cases, there was no significant difference in the incidence of specific adverse events between the two treatment arms.
 Only those adverse reactions marked with * occurred significantly more frequently in the lenalidomide/dexamethasone arm compared to the placebo/dexamethasone arm.
 
-Adverse Drug Reactions (ADRs) observed in patients treated with lenalidomide/dexamethasone:
+The following adverse reactions have been observed in clinical trials and postmarketing experience: Reports from post-marketing experience are marked with †
 
-Investigations
-Uncommon: Prolonged prothrombin time, prolonged activated partial thromboplastin time, increased International Normalised Ratio, increased blood alkaline phosphatase, increased blood lactate dehydrogenase, increased C-Reactive Protein, Cytomegalovirus antibody positive
+Infections and infestations
 
-Cardiac disorders
+Common: Pneumonia*, lower respiratory tract infection, Herpes Zoster, Herpes Simplex,
 
-Common: Atrial fibrillation, palpitations
+urinary tract infection, upper respiratory tract infection, sinusitis, oral candidiasis, oral fungal infection
+Uncommon: Septic shock, meningitis, neutropenic sepsis, sepsis, Escherichia sepsis, Clostridium difficile sepsis, Enterobacter bacteraemia, subacute endocarditis, bronchopneumonia, lobar pneumonia, bacterial pneumonia, pneumococcal pneumonia, Pneumocystis carinii pneumonia, primary atypical pneumonia, acute bronchitis, respiratory tract infection, herpes zoster ophthalmic, post-herpetic neuralgia, prostate infection, sinobronchitis, oesophageal candidiasis, infective bursitis, erysipelas, cellulitis, tooth abscess, chronic sinusitis, furuncle, pustular rash, ear infection, fungal infection, genital candidiasis, candida infection, influenza, tinea, fungal foot infection, anal warts
 
-Uncommon: Congestive cardiac failure, pulmonary oedema, heart valve insufficiency, atrial flutter, arrhythmia, ventricular trigeminy, bradycardia, tachycardia, QT prolongation, sinus tachycardia
-
-Congenital, familial and genetic disorders
-Uncommon: Chromosome abnormality
+Neoplasms benign, malignant and unspecified (including cysts and polyps)
+Uncommon: Basal cell carcinoma, glioblastoma multiforme
 Blood and lymphatic system disorders
-Very Common: Neutropenia*, thrombocytopenia*, anaemia*
+Very Common: Anaemia*, neutropenia*, thrombocytopenia*, haemorrhagic disorder
 
 Common: Febrile neutropenia, pancytopenia, leucopenia*, lymphopenia*
 
 Uncommon: Granulocytopenia, haemolytic anaemia, autoimmune haemolytic anaemia, haemolysis, hypercoagulation, coagulopathy, monocytopenia, leucocytosis, lymphadenopathy
+
+Immune system disorders
+Uncommon: Acquired hypogammaglobulinaemia
+
+Endocrine disorders
+
+Common: Cushingoid-like symptoms
+
+Uncommon: Adrenal suppression, adrenal insufficiency, acquired hypothyroidism, increased and decreased thyroid stimulating hormone, hirsutism
+
+Metabolism and nutrition disorders
+
+Common: Hyperglycaemia, anorexia, hypocalcaemia, hypokalaemia, dehydration,
+
+hypomagnesaemia, fluid retention
+Uncommon: Metabolic acidosis, diabetes mellitus, hyponatraemia, hypercalcaemia, hyperuricaemia, hypoalbuminaemia, cachexia, failure to thrive, gout, hypophosphataemia, hyperphosphataemia, increased appetite
+
+Psychiatric disorders
+Very Common: Insomnia
+
+Common: Confusional state, hallucinations, depression, aggression, agitation, mood
+
+alteration, anxiety, nervousness, irritability, mood swings
+Uncommon: Psychotic disorder, hypomania, delusion, mental status changes, sleep disorder, abnormal dreams, depressed mood, affect lability, listless, loss of libido, nightmare, personality change, panic attack, restlessness.
 
 Nervous system disorders
 
@@ -60,11 +82,23 @@ Common: Vertigo
 
 Uncommon: Deafness, hypoacusia, tinnitus, ear pain, ear pruritus
 
+Cardiac disorders
+
+Common: Atrial fibrillation, palpitations
+
+Uncommon: Congestive cardiac failure, pulmonary oedema, heart valve insufficiency, atrial flutter, arrhythmia, ventricular trigeminy, bradycardia, tachycardia, QT prolongation, sinus tachycardia
+Vascular disorders
+
+Common: Deep vein thrombosis*, limb venous thrombosis, hypotension*, hypertension,
+
+orthostatic hypotension, flushing, ecchymosis
+Uncommon: Circulatory collapse, thrombosis, ischaemia, peripheral ischaemia, intermittent claudication, phlebitis, pallor, petechiae, haematoma, postphlebitic syndrome, thrombophlebitis, superficial thrombophlebitis
+
 Respiratory, thoracic and mediastinal disorders
 
 Common: Pulmonary embolism, dyspnoea*, exertional dyspnoea, bronchitis, cough,
 
-pharyngitis, nasopharyngitis, hoarseness, hiccups
+pharyngitis, nasopharyngitis, hoarseness, hiccups, epistaxis
 Uncommon: Bronchopneumopathy, asthma, respiratory distress, pulmonary congestion, pleuritic pain, nasal congestion, throat secretion increased, laryngitis, sinus congestion, sinus pain, rhinorrhoea, dry throat
 
 Gastrointestinal disorders
@@ -72,21 +106,20 @@ Very Common: Constipation, diarrhoea, nausea, increase and decrease in weight
 
 Common: Vomiting, dyspepsia, upper abdominal pain, gastritis, abdominal distension,
 
-abdominal pain, stomatitis, dry mouth, flatulence
-Uncommon: Gastrointestinal haemorrhage, peptic ulcer haemorrhage, oesophagitis, gastro-oesophageal reflux disease, colitis, caecitis, gastroduodenitis, aptyalism, proctitis, gastroenteritis, oesophageal pain, dysphagia, odynophagia, haemorrhoids, epigastric discomfort, aphthous stomatitis, cheilitis, glossodynia, gingivitis, lip ulceration, tongue ulceration, oral pain, toothache, sensitivity of teeth, gingival bleeding, oral hypoaesthesia, lip pain, coated tongue
+abdominal pain, stomatitis, dry mouth, flatulence, rectal haemorrhage Uncommon: Gingival bleeding, gastrointestinal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage, oesophagitis, gastro-oesophageal reflux disease, colitis, caecitis, gastroduodenitis, aptyalism, proctitis, gastroenteritis, oesophageal pain, dysphagia, odynophagia, epigastric discomfort, aphthous stomatitis, cheilitis, glossodynia, gingivitis, lip ulceration, tongue ulceration, oral pain, toothache, sensitivity of teeth, oral hypoaesthesia, lip pain, coated tongue
 
-Renal and urinary disorders
+Hepatobiliary disorders
+Uncommon: Abnormal liver function tests, increased alanine aminotransferase, increased aspartate aminotransferase, increased blood bilirubin
 
-Common: Renal failure
-
-Uncommon: Acute renal failure, urinary frequency, renal tubular necrosis, cystitis, haematuria, urinary retention, dysuria, acquired Fanconi Syndrome, urinary incontinence, polyuria, increased blood urea, increased blood creatinine, nocturia
 Skin and subcutaneous tissue disorders
 Very common: Rash*
 
 Common: Face oedema, dry skin, pruritus*, erythema, folliculitis, skin hyperpigmentation,
 
 exanthema, increased sweating, night sweats, alopecia
-Uncommon: Erythema nodosum, urticaria, eczema, erythrosis, erythematous rash, pruritic rash, papular rash, hyperkeratosis, contusion, skin fissures, acne, dermatitis acneiforme, lichen sclerosus, decubitus ulcer, pigmentation lip, prurigo, rosacea, photosensitivity reaction, seborroeic dermatitis, skin burning sensation, skin desquamation, skin discolouration
+Uncommon: Erythema nodosum, urticaria, angioedema †, eczema, erythrosis, erythematous rash, pruritic rash, papular rash, hyperkeratosis, skin fissures, acne, dermatitis acneiforme, lichen sclerosus, decubitus ulcer, pigmentation lip, prurigo, rosacea, photosensitivity reaction, seborroeic dermatitis, skin burning sensation, skin desquamation, skin discolouration
+
+Rare: Stevens-Johnson syndrome †, toxic epidermal necrolysis †
 
 Musculoskeletal and connective tissue disorders
 Very Common: Muscle cramp*, muscle weakness
@@ -96,38 +129,18 @@ Common: Steroid myopathy, myopathy, myalgia, arthralgia, back pain, bone pain, p
 limb, chest wall pain, peripheral swelling
 Uncommon: Osteonecrosis, muscle atrophy, amyotrophy, pain in foot, muscle spasms, musculoskeletal pain, night cramps, groin pain, pain in jaw, neck pain, spondylitis, joint stiffness, joint swelling, musculoskeletal stiffness, limb discomfort, toe deformities, local swelling
 
-Endocrine disorders
+Renal and urinary disorders
 
-Common: Cushingoid-like symptoms
+Common: Renal failure, haematuria
 
-Uncommon: Adrenal suppression, adrenal insufficiency, acquired hypothyroidism, increased and decreased thyroid stimulating hormone, hirsutism
+Uncommon: Acute renal failure, urinary frequency, renal tubular necrosis, cystitis, urinary retention, dysuria, acquired Fanconi Syndrome, urinary incontinence, polyuria, increased blood urea, increased blood creatinine, nocturia
+Reproductive system and breast disorders
 
-Metabolism and nutrition disorders
+Common: Erectile dysfunction, gynaecomastia, metrorrhagia, nipple pain
 
-Common: Hyperglycaemia, anorexia, hypocalcaemia, hypokalaemia, dehydration,
+Congenital, familial and genetic disorders
+Uncommon: Chromosome abnormality
 
-hypomagnesaemia, fluid retention
-Uncommon: Metabolic acidosis, diabetes mellitus, hyponatraemia, hypercalcaemia, hyperuricaemia, hypoalbuminaemia, cachexia, failure to thrive, gout, hypophosphataemia, hyperphosphataemia, increased appetite
-
-Infections and infestations
-
-Common: Pneumonia*, lower respiratory tract infection, Herpes Zoster, Herpes Simplex,
-
-urinary tract infection, upper respiratory tract infection, sinusitis, oral candidiasis, oral fungal infection
-Uncommon: Septic shock, meningitis, neutropenic sepsis, sepsis, Escherichia sepsis, Clostridium difficile sepsis, Enterobacter bacteraemia, subacute endocarditis, bronchopneumonia, lobar pneumonia, bacterial pneumonia, pneumococcal pneumonia, Pneumocystis carinii pneumonia, primary atypical pneumonia, acute bronchitis, respiratory tract infection, herpes zoster ophthalmic, post-herpetic neuralgia, prostate infection, sinobronchitis, oesophageal candidiasis, infective bursitis, erysipelas, cellulitis, tooth abscess, chronic sinusitis, furuncle, pustular rash, ear infection, fungal infection, genital candidiasis, candida infection, influenza, tinea, fungal foot infection, anal warts
-
-Injury, poisoning and procedural complications
-Uncommon: Wound complication
-
-Neoplasms benign, malignant and unspecified (including cysts and polyps)
-Uncommon: Basal cell carcinoma, glioblastoma multiforme
-
-Vascular disorders
-
-Common: Deep vein thrombosis*, limb venous thrombosis, hypotension*, hypertension,
-
-orthostatic hypotension, flushing
-Uncommon: Circulatory collapse, thrombosis, ischaemia, peripheral ischaemia, intermittent claudication, phlebitis, pallor, petechiae, haematoma, postphlebitic syndrome, thrombophlebitis, superficial thrombophlebitis
 General disorders and administration site conditions
 Very Common: Fatigue*, asthenia*, peripheral oedema
 
@@ -135,20 +148,14 @@ Common: Pyrexia, rigors, mucosal inflammation, oedema, lethargy, malaise
 
 Uncommon: Hyperpyrexia, chest pain, chest tightness, pain, difficulty in walking, abnormal gait, thirst, chest pressure sensation, feeling cold, feeling jittery, influenza-like illness, submandibular mass, fall, impaired healing
 
-Immune system disorders
-Uncommon: Acquired hypogammaglobulinaemia
+Investigations
+Uncommon: Prolonged prothrombin time, prolonged activated partial thromboplastin time, increased International Normalised Ratio, increased blood alkaline phosphatase, increased blood lactate dehydrogenase, increased C-Reactive Protein, Cytomegalovirus antibody positive
 
-Hepatobiliary disorders
-Uncommon: Abnormal liver function tests, increased alanine aminotransferase, increased aspartate aminotransferase, increased blood bilirubin
+Injury, poisoning and procedural complications
 
-Reproductive system and breast disorders
+Common: Contusion
 
-Common: Erectile dysfunction, gynaecomastia, metrorrhagia, nipple pain
+Uncommon: Wound complication
 
-Psychiatric disorders
-Very Common: Insomnia
-
-Common: Confusional state, hallucinations, depression, aggression, agitation, mood
-
-alteration, anxiety, nervousness, irritability, mood swings
-Uncommon: Psychotic disorder, hypomania, delusion, mental status changes, sleep disorder, abnormal dreams, depressed mood, affect lability, listless, loss of libido, nightmare, personality change, panic attack, restlessness.
+Haemorrhagic disorders
+Haemorrhagic disorders are listed under several system organ classes: Blood and lymphatic system disorders; nervous system disorders (intracranial haemorrhage); respiratory, thoracic and mediastinal disorders (epistaxis); gastrointestinal disorders (gingival bleeding, haemorrhoidal haemorrhage, rectal haemorrhage); renal and urinary disorders (haematuria); Injury, poisoning and procedural complications (contusion) and vascular disorders (ecchymosis).

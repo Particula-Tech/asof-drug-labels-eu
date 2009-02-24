@@ -63,6 +63,7 @@ Implants and levonorgestrel-releasing intrauterine systems are associated with a
 Prophylactic antibiotics should be considered particularly in patients with neutropenia.
 
 Copper-releasing intrauterine devices are generally not recommended due to the potential risks of infection at the time of insertion and menstrual blood loss which may compromise patients with neutropenia or thrombocytopenia.
+
 Pregnancy testing
 According to local practice, medically supervised pregnancy tests with a minimum sensitivity of 25 mIU/ml must be performed for women of childbearing potential as outlined below.
 This requirement includes women of childbearing potential who practice absolute and continuous abstinence.
@@ -101,6 +102,7 @@ Patients and physicians are advised to be observant for the signs and symptoms o
 Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, arm or leg swelling.
 Prophylactic antithrombotic medicines, such as low molecular weight heparins or warfarin, should be recommended, especially in patients with additional thrombotic risk factors.
 The decision to take antithrombotic prophylactic measures should be made after careful assessment of an individual patient’s underlying risk factors.
+
 Neutropenia and thrombocytopenia
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated patients compared with 0.6% in placebo/dexamethasone-treated patients; see section 4.8).
 Grade 4 febrile neutropenia episodes were observed infrequently (0.6% in lenalidomide/dexamethasone-treated patients compared to 0.0% in placebo/dexamethasone treated patients; see section 4.8).
@@ -109,8 +111,8 @@ A dose reduction may be required (see section 4.2).
 In case of neutropenia, the physician should consider the use of growth factors in patient management.
 
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasone-treated patients; see section 4.8).
-Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes.
-A dose reduction may be required (see section 4.2).
+Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes especially in case of concomitant medication susceptible to induce bleeding (see Section 4.8 Haemorrhagic disorders).
+A dose reduction of lenalidomide may be required (see section 4.2).
 
 A complete blood cell count, including white blood cell count with differential count, platelet count, haemoglobin, and haematocrit should be performed at baseline, every week for the first 8 weeks of lenalidomide treatment and monthly thereafter to monitor for cytopenias.
 

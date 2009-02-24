@@ -10,6 +10,7 @@ Clinical trials
 The efficacy and safety of lenalidomide were evaluated in two Phase III multi-centre, randomised, double-blind, placebo-controlled, parallel-group controlled studies (MM-009 and MM-010) of lenalidomide plus dexamethasone therapy versus dexamethasone alone in previously treated patients with multiple myeloma.
 Out of 353 patients in the MM-009 and MM-010 studies who received lenalidomide/dexamethasone, 45.6% were aged 65 or over.
 Of the 704 patients evaluated in the MM-009 and MM-010 studies, 44.6% were aged 65 or over.
+
 In both studies, patients in the lenalidomide/dexamethasone (len/dex) group took 25 mg of lenalidomide orally once daily on Days 1 to 21 and a matching placebo capsule once daily on Days 22 to 28 of each 28-day cycle.
 Patients in the placebo/dexamethasone (placebo/dex) group took 1 placebo capsule on Days 1 to 28 of each 28-day cycle.
 Patients in both treatment groups took 40 mg of dexamethasone orally once daily on Days 1 to 4, 9 to 12, and 17 to 20 of each 28-day cycle for the first 4 cycles of therapy.
@@ -38,7 +39,6 @@ Complete response (CR), partial response (PR) and overall response (OR) rates in
 The overall survival (OS) in the pooled studies at one year after the start of treatment was 82% in patients treated with lenalidomide/dexamethasone versus 75% in patients treated with placebo/dexamethasone, with a median follow-up duration of 98.0 weeks (min: 0.3, max: 163.3).
 Despite the fact that 170 out of the 351 patients randomised to placebo/dexamethasone received treatment with lenalidomide/dexamethasone after the studies were unblinded, the pooled analysis of OS demonstrated a statistically significant survival advantage for lenalidomide/dexamethasone relative to placebo/dexamethasone (hazard ratio = 0.75, 95% CI = [0.59, 0.95], p=0.015).
 Table 1 summarises key efficacy results of the pooled follow-up analyses of studies MM-009 and MM-010.
-
 Table 1: Summary of Results of Efficacy Analyses as of Dates Studies Were Unblinded — Pooled Studies MM-009 and MM-010
 
 | Endpoint | len/dex (N=353) | placebo/dex (N=351) | Hazard ratio/odds ratioa, 95% CI, p-value |
