@@ -32,6 +32,9 @@ Uncommon: Septic shock, meningitis, neutropenic sepsis, sepsis, Escherichia seps
 
 Neoplasms benign, malignant and unspecified (including cysts and polyps)
 Uncommon: Basal cell carcinoma, glioblastoma multiforme
+
+Rare: Tumour lysis syndrome
+
 Blood and lymphatic system disorders
 Very Common: Anaemia*, neutropenia*, thrombocytopenia*, haemorrhagic disorder
 
@@ -41,6 +44,8 @@ Uncommon: Granulocytopenia, haemolytic anaemia, autoimmune haemolytic anaemia, h
 
 Immune system disorders
 Uncommon: Acquired hypogammaglobulinaemia
+
+Rare: Hypersensitivity reaction
 
 Endocrine disorders
 
@@ -69,7 +74,6 @@ Common: Cerebrovascular accident, syncope, peripheral neuropathy, neuropathy, pe
 
 sensory neuropathy, dizziness, ageusia, dysgeusia, paraesthesia, headache, tremor*, hypoaesthesia*, somnolence, memory impairment
 Uncommon: Intracranial haemorrhage, intracranial venous sinus thrombosis, thrombotic stroke, cerebral ischaemia, transient ischaemic attack, leukoencephalopathy, neurotoxicity, polyneuropathy, peripheral motor neuropathy, dysaesthesia, aphonia, dysphonia, disturbance in attention, ataxia, balance impaired, postural dizziness, burning sensation, cervical root pain, dyskinesia, hyperaesthesia, motor dysfunction, myasthenic syndrome, oral paraesthesia, psychomotor hyperactivity, anosmia
-
 Eye disorders
 
 Common: Blurred vision, cataract, reduced visual acuity, lacrimation increased
@@ -87,6 +91,7 @@ Cardiac disorders
 Common: Atrial fibrillation, palpitations
 
 Uncommon: Congestive cardiac failure, pulmonary oedema, heart valve insufficiency, atrial flutter, arrhythmia, ventricular trigeminy, bradycardia, tachycardia, QT prolongation, sinus tachycardia
+
 Vascular disorders
 
 Common: Deep vein thrombosis*, limb venous thrombosis, hypotension*, hypertension,
@@ -134,6 +139,7 @@ Renal and urinary disorders
 Common: Renal failure, haematuria
 
 Uncommon: Acute renal failure, urinary frequency, renal tubular necrosis, cystitis, urinary retention, dysuria, acquired Fanconi Syndrome, urinary incontinence, polyuria, increased blood urea, increased blood creatinine, nocturia
+
 Reproductive system and breast disorders
 
 Common: Erectile dysfunction, gynaecomastia, metrorrhagia, nipple pain

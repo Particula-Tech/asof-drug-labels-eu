@@ -97,7 +97,7 @@ Venous thromboembolism
 The combination of lenalidomide with dexamethasone is associated with an increased risk of deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients with multiple myeloma (see sections 4.5 and 4.8).
 Concomitant administration of erythropoietic agents or previous history of DVT may also increase thrombotic risk in these patients.
 Therefore, erythropoietic agents, or other agents that may increase the risk of thrombosis, such as hormone replacement therapy, should be used with caution in multiple myeloma patients receiving lenalidomide with dexamethasone.
-A haemoglobin concentration above 13 g/dl should lead to discontinuation of erythropoietic agents.
+A haemoglobin concentration above 12 g/dl should lead to discontinuation of erythropoietic agents.
 Patients and physicians are advised to be observant for the signs and symptoms of thromboembolism.
 Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, arm or leg swelling.
 Prophylactic antithrombotic medicines, such as low molecular weight heparins or warfarin, should be recommended, especially in patients with additional thrombotic risk factors.
@@ -111,7 +111,7 @@ A dose reduction may be required (see section 4.2).
 In case of neutropenia, the physician should consider the use of growth factors in patient management.
 
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 3 and grade 4 thrombocytopenia (9.9% and 1.4%, respectively, in lenalidomide/dexamethasone-treated patients compared to 2.3% and 0.0% in placebo/dexamethasone-treated patients; see section 4.8).
-Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes especially in case of concomitant medication susceptible to induce bleeding (see Section 4.8 Haemorrhagic disorders).
+Patients and physicians are advised to be observant for signs and symptoms of bleeding, including petechiae and epistaxes, especially in case of concomitant medication susceptible to induce bleeding (see Section 4.8 Haemorrhagic disorders).
 A dose reduction of lenalidomide may be required (see section 4.2).
 
 A complete blood cell count, including white blood cell count with differential count, platelet count, haemoglobin, and haematocrit should be performed at baseline, every week for the first 8 weeks of lenalidomide treatment and monthly thereafter to monitor for cytopenias.
@@ -135,9 +135,18 @@ Because lenalidomide has anti-neoplastic activity the complications of tumour ly
 The patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
 These patients should be monitored closely and appropriate precautions taken.
 
+Allergic Reactions
+Cases of allergic reaction/hypersensitivity reactions have been reported (see section 4.8).
+Patients who had previous allergic reactions while treated with thalidomide should be monitored closely, as a possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
+
+Severe skin reactions
+Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported.
+Lenalidomide must be discontinued for exfoliative or bullous rash, or if SJS or TEN is suspected, and should not be resumed following discontinuation for these reactions.
+Interruption or discontinuation of lenalidomide should be considered for other forms of skin reaction depending on severity.
+Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide.
+
 Lactose intolerance
 Revlimid capsules contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
-
 Unused capsules
 Patients should be advised never to give this medicinal product to another person and to return any unused capsules to their pharmacist at the end of the treatment.

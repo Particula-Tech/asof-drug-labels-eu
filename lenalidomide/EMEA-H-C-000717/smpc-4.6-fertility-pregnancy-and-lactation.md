@@ -10,7 +10,6 @@ Therefore, a teratogenic effect of lenalidomide is expected and lenalidomide is 
 Women of childbearing potential should use effective method of contraception.
 If pregnancy occurs in a woman treated with lenalidomide, treatment must be stopped and the patient should be referred to a physician specialised or experienced in teratology for evaluation and advice.
 If pregnancy occurs in a partner of a male patient taking lenalidomide, it is recommended to refer the female partner to a physician specialised or experienced in teratology for evaluation and advice.
-
 For male patients taking lenalidomide, there is no clinical data available on the presence of lenalidomide in human semen.
 Therefore male patients taking lenalidomide should use condoms if their partner is of childbearing potential and has no contraception.
 
