@@ -77,7 +77,7 @@ Smoking status: according to the metabolic pathway of aripiprazole no dosage adj
 ABILIFY oral solution may be used as an alternative to ABILIFY tablets for patients who have difficulty swallowing ABILIFY tablets (see section 5.2).
 
 The recommended starting dose for ABILIFY is 10 or 15 mg/day (i.e. 10 or 15 ml solution/day) with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
-A calibrated measuring cup of polypropylene is included in the carton.
+A calibrated measuring cup and a 2 ml calibrated dropper are included in the carton.
 
 ABILIFY is effective in a dose range of 10 to 30 mg/day (i.e. 10 to 30 ml solution/day).
 
