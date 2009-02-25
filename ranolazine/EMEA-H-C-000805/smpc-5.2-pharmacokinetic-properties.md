@@ -1,10 +1,10 @@
 # 5.2 Pharmacokinetic properties
 
-After oral administration of Latixa, peak plasma concentrations (Cmax) are typically observed between 2 and 6 hours.
+After oral administration of Ranexa, peak plasma concentrations (Cmax) are typically observed between 2 and 6 hours.
 Steady state is generally achieved within 3 days of twice-daily dosing.
 
 Absorption: The mean absolute bioavailability of ranolazine after oral administration of immediate-release ranolazine tablets ranged from 35−50%, with large inter-individual variability.
-Latixa exposure increases more than in proportion to dose.
+Ranexa exposure increases more than in proportion to dose.
 There was a 2.5- to 3-fold increase in steady-state AUC as the dose was increased from 500 mg to 1000 mg twice daily.
 In a pharmacokinetic study in healthy volunteers, steady-state Cmax was, on average, approximately 1770 (SD 1040) ng/ml, and steady-state AUC0-12 was, on average, 13,700 (SD 8290) ng x h/ml following a dose of 500 mg twice daily.
 Food does not affect the rate and extent of absorption of ranolazine.

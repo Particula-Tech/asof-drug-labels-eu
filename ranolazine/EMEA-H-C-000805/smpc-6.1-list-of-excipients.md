@@ -14,12 +14,12 @@ Polyethylene glycol
 Polysorbate 80
 Blue #2/Indigo Carmine Aluminium Lake (E132)
 
-[Latixa 500 mg prolonged-release tablets]
+[Ranexa 500 mg prolonged-release tablets]
 
 Additional excipients for 500 mg tablet:
 Yellow #6/Sunset Yellow FCF Aluminium Lake (E110)
 
-[Latixa 750 mg prolonged-release tablets]
+[Ranexa 750 mg prolonged-release tablets]
 
 Additional excipients for 750 mg tablet:
 Glycerol triacetate
