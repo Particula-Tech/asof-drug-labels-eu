@@ -2,21 +2,23 @@
 
 Infections
 
-Patients must be monitored closely for infections, including tuberculosis, before, during and after treatment with Humira.
+Patients taking TNF-blockers are more susceptible to serious infections.
+Patients must therefore be monitored closely for infections, including tuberculosis, before, during and after treatment with Humira.
 Because the elimination of adalimumab may take up to five months, monitoring should be continued throughout this period.
 
 Treatment with Humira should not be initiated in patients with active infections including chronic or localized infections until infections are controlled.
+In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Opportunistic infections).
 
-Patients who develop a new infection while undergoing treatment with Humira should be monitored closely.
-Administration of Humira should be discontinued if a patient develops a new serious infection until infections are controlled.
+Patients who develop a new infection while undergoing treatment with Humira should be monitored closely and undergo a complete diagnostic evaluation.
+Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 Physicians should exercise caution when considering the use of Humira in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medications.
-
-Serious infections, sepsis, tuberculosis and other opportunistic infections, including fatalities, have been reported with Humira.
 
 Serious infections:
 
-In clinical trials an increased risk of serious infections in patients receiving Humira has been shown, and reports from the post-marketing setting support this finding.
-Of particular importance are infections such as pneumonia, pyelonephritis, septic arthritis and septicaemia.
+Serious infections, , including sepsis, due to bacterial, mycobacterial, invasive fungal viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
+
+Other serious infections seen in clinical trials include pneumonia, pyelonephritis, septic arthritis and septicaemia.
+Hospitalisation or fatal outcomes associated with infections have been reported.
 
 Tuberculosis:
 
@@ -24,7 +26,7 @@ There have been reports of tuberculosis in patients receiving Humira.
 It should be noted that in the majority of those reports, tuberculosis was extra-pulmonary, i.e. disseminated.
 
 Before initiation of therapy with Humira, all patients must be evaluated for both active or inactive (latent) tuberculosis infection.
-This evaluation should include a detailed medical history with a personal history of tuberculosis or possible previous exposure to patients with active tuberculosis and previous and/or current immunosuppressive therapy.
+This evaluation should include a detailed medical history of patients with a personal history of tuberculosis or possible previous exposure to patients with active tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests, i.e. tuberculin skin test and chest X-ray, should be performed in all patients (local recommendations may apply).
 It is recommended that the conduct of these tests should be recorded in the patient alert card.
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
@@ -45,24 +47,24 @@ Patients should be instructed to seek medical advice if signs/symptoms (e.g., pe
 
 Other opportunistic infections:
 
-There have been reports of serious and severe opportunistic infections associated with Humira therapy, for example pneumocystis carinii pneumonia, disseminated histoplasmosis, listeriosis and aspergillosis.
+Opportunistic infections, including invasive fungal infections have been observed in patients receiving Humira.
+These infections have not consistently been recognised in patients taking TNF-blockers and this resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 
-If a patient receiving Humira shows prolonged/atypical symptoms/signs of infections or general deterioration, prevalent opportunistic conditions must be considered.
+For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasivie fungal infection should be suspected and administration of Humira should be promptly discontinued and appropriate antifungal therapy should be initiated.
 
 Hepatitis B Reactivation
 
-Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including Humira, who are chronic carriers of this virus.
-Some cases have had fatal outcome.
+Reactivation of hepatitis B has occurred in patients who are chronic carriers of this virus when receiving a TNF-antagonist including Humira.
+Some cases have had a fatal outcome.
 Patients at risk for HBV infection should be evaluated for prior evidence of HBV infection before initiating Humira therapy.
 Carriers of HBV who require treatment with Humira should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy.
-Adequate data of treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available.
+Adequate data from the treatment of patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available.
 In patients who develop HBV reactivation, Humira should be stopped and effective anti-viral therapy with appropriate supportive treatment should be initiated.
 
 Neurological events
 
-TNF-antagonists including Humira have been associated in rare cases with new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disease including multiple sclerosis.
+TNF-antagonists including Humira have been associated in rare instances with new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disease including multiple sclerosis.
 Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central nervous system demyelinating disorders.
-
 Allergic reactions
 
 Serious allergic adverse reactions have not been reported with subcutaneous administration of Humira during clinical trials.
@@ -75,9 +77,10 @@ This may cause severe allergic reactions in patients sensitive to latex.
 
 Immunosuppression
 
-In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-and B cells and NK-cells, monocyte/macrophages, and neutrophils.
+In a study of 64 patients with rheumatoid arthritis that were treated with Humira, there was no evidence of depression of delayed-type hypersensitivity, depression of immunoglobulin levels, or change in enumeration of effector T-, B, - NK-cells, monocyte/macrophages, and neutrophils.
 
 Malignancies and lymphoproliferative disorders
+
 In the controlled portions of clinical trials of TNF-antagonists, more cases of malignancies including lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients.
 However, the occurrence was rare.
 Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
@@ -86,9 +89,9 @@ With the current knowledge, a possible risk for the development of lymphomas or 
 Rare postmarketing cases of hepatosplenic T-cell lymphoma have been identified in patients treated with adalimumab.
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
 Some of these hepatosplenic T-cell lymphomas with Humira have occurred in young adult patients on concomitant treatment with azathioprine or 6-mercaptopurine used for Crohn’s disease.
-A risk for the development of hepatosplenic T-cell lymphoma in patients treated with Humira cannot be excluded (see sections 4.8).
+A risk for the development of hepatosplenic T-cell lymphoma in patients treated with Humira cannot be excluded (see section 4.8).
 
-No studies have been conducted that include patients with a history of malignancy or that continue treatment in patients who develop malignancy while receiving Humira.
+No studies have been conducted that include patients with a history of malignancy or in whom treatment with Humira is continued following development of malignancy.
 Thus additional caution should be exercised in considering Humira treatment of these patients (see section 4.8).
 
 All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.
@@ -99,7 +102,7 @@ Therefore, caution should be exercised when using any TNF-antagonist in COPD pat
 
 Haematologic reactions
 
-Rare reports of pancytopenia including aplastic anaemia have been reported with TNF blocking agents.
+Rare reports of pancytopenia including aplastic anaemia have been reported with TNF antagonists.
 Adverse events of the haematologic system, including medically significant cytopoenia (e.g. thrombocytopaenia, leucopaenia) have been infrequently reported with Humira.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor) while on Humira.
 Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.
@@ -107,7 +110,11 @@ Discontinuation of Humira therapy should be considered in patients with confirme
 Vaccinations
 Similar antibody responses to the standard 23-valent pneumococcal vaccine and the influenza trivalent virus vaccination were observed in a study in 226 adult subjects with rheumatoid arthritis who were treated with adalimumab or placebo.
 No data are available on the secondary transmission of infection by live vaccines in patients receiving Humira.
+
+It is recommended that polyarticular juvenile idiopathic arthritis patients, if possible, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating Humira therapy.
+
 Patients on Humira may receive concurrent vaccinations, except for live vaccines.
+
 Congestive heart failure
 
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to congestive heart failure have been observed.
@@ -129,7 +136,7 @@ Because of the nature of the adverse events seen with the combination of etanerc
 Therefore, the combination of adalimumab and anakinra is not recommended.
 (See section 4.5).
 
-Concurrent administration of TNF-antagonists and abatacept.
+Concurrent administration of TNF-antagonists and abatacept
 
 Concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Humira and abatacept is not recommended.
@@ -141,7 +148,6 @@ There is limited safety experience of surgical procedures in patients treated wi
 The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Humira should be closely monitored for infections, and appropriate actions should be taken.
 There is limited safety experience in patients undergoing arthroplasty while receiving Humira.
-
 Small bowel obstruction
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
@@ -149,14 +155,28 @@ Available data suggest that Humira does not worsen or cause strictures.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-In all situations decribed below, the benefit/risk balance of therapy should be very carefully considered.
+Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infectionis controlled.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
+In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidiomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Opportunistic infections).
+
+Serious infections including sepsis, due to bacterial, mycobacterial, invasive fungal viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
+
 If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
 
-See section 4.5).
+These infections have not consistently been recognised in patients taking TNF-blockers and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
+
+Rare reports of pancytopenia including aplastic anaemia have been reported with TNF atagonists.
 
 [Humira 40 mg solution for injection in pre-filled pen]
 
-(all sentences already above)
+In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidiodomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Opportunistic infections).
+
+Serious infections, including sepsis, due to bacterial, mycobacterial, invasive fungal viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
+
+These infections have not consistently been recognised in patient taking TNF-blockers and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
+
+Rare reports of pancytopenia including aplastic anaemia have been reported with TNFantagonists.
+
+See section 4.5).
