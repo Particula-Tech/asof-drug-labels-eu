@@ -9,8 +9,10 @@ Increased exposure to nilotinib might also be expected with moderate CYP3A4 inhi
 Alternative concomitant medications with no or minimal CYP3A4 inhibition should be considered.
 
 Substances that may decrease nilotinib serum concentrations
-Potent inducers of CYP3A4 activity could increase the metabolism of nilotinib and thereby decrease plasma concentrations of nilotinib.
-The concomitant administration of medicinal products that induce CYP3A4 (e.g. phenytoin, rifampicin, carbamazepine, phenobarbital and St. John’s Wort) is likely to reduce exposure to nilotinib to a clinically relevant extent.
+Rifampicin, a potent CYP3A4 inducer, decreases nilotinib Cmax by 64% and reduces nilotinib AUC by 80%.
+Rifampicin and nilotinib should not be used concomitantly.
+
+The concomitant administration of other medicinal products that induce CYP3A4 (e.g. phenytoin, carbamazepine, phenobarbital and St. John’s Wort) is likewise likely to reduce exposure to nilotinib to a clinically relevant extent.
 In patients for whom CYP3A4 inducers are indicated, alternative agents with less enzyme induction potential should be selected.
 Nilotinib has pH dependent solubility, therefore, absorption of nilotinib might be reduced by substances that suppress gastric acid secretion.
 The concomitant use of antacids, H2 blockers, or proton pump inhibitors with Tasigna is not recommended.

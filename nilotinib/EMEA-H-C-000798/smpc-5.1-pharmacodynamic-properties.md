@@ -52,12 +52,12 @@ Table 6 CML disease history characteristics
 The primary endpoint in the CP patients was major cytogenetic response (MCyR), defined as elimination (CCyR, complete cytogenetic response) or significant reduction to <35% Ph+ metaphases (partial cytogenetic response) of Ph+ haematopoietic cells.
 Complete haematological response (CHR) in CP patients was evaluated as a secondary endpoint.
 The primary endpoint in the AP patients was overall confirmed haematological response (HR), defined as either a complete haematological response, no evidence of leukaemia or return to chronic phase.
+
 The MCyR rate in 320 CP patients was 49%.
 Most responders achieved their MCyR rapidly within 3 months (median 2.8 months) of starting Tasigna treatment and these were sustained (median duration has not been reached).
 Among 156 patients with MCyR 43 patients (27.6%) lost their MCyR.
 Patients with a CHR at baseline achieved a MCyR faster (1 vs. 2.8 months).
 Of CP patients without a baseline CHR, 70% achieved a CHR and median time to CHR was 1 month and median duration of CHR has not been reached.
-
 The overall confirmed HR rate in 119 AP patients was 42%.
 Most responders achieved a HR early with Tasigna treatment (median 1.0 months) and these have been durable (median duration has not been reached).
 No patients have had a loss of CHR.

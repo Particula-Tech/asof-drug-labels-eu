@@ -10,6 +10,7 @@ The most frequent non-haematological drug-related adverse events were rash, prur
 Most of these adverse events were mild to moderate in severity.
 Constipation, diarrhoea, bone pain, arthralgia, muscle spasms and peripheral oedema were observed less commonly and have been of mild to moderate severity.
 Discontinuation for adverse events regardless of causality was observed in 16% of CP and 14% of AP patients.
+
 Treatment emergent haematological toxicities included thrombocytopenia (27%), neutropenia (15%) and anaemia (13%).
 Pleural and pericardial effusions as well as complications of fluid retention occurred in <1% of patients receiving Tasigna.
 Congestive heart failure was observed in 1% of patients.
@@ -100,11 +101,11 @@ Not known: gastrointestinal ulcer perforation, retroperitoneal haemorrhage, haem
 Renal and urinary disorders:
 Uncommon: dysuria, micturition urgency, nocturia, pollakiuria.
 Not known: renal failure, haematuria, urinary incontinence.
+
 Skin and subcutaneous tissue disorders:
 Common: night sweats, eczema, urticaria, erythema, hyperhidrosis, dry skin.
 Uncommon: exfoliative rash, ecchymosis, swelling face.
 Not known: erythema nodosum, skin ulcer, petechiae, photosensitivity.
-
 Musculoskeletal and connective tissue disorders:
 Common: musculoskeletal chest pain, musculoskeletal pain.
 Uncommon: muscular weakness.
@@ -143,8 +144,8 @@ Psychiatric disorders:
 Common: insomnia.
 Uncommon: depression, anxiety.
 Not known: disorientation, confusional state.
-
 Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values are presented in Table 3.
+
 Table 3 Grade 3-4 laboratory abnormalities
 
 |  | CML-CP n=318 % | CML-AP n=120 % |
