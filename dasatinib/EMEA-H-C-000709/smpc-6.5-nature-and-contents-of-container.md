@@ -5,6 +5,7 @@ Alu/Alu blisters (calendar blisters and unit dose blisters) and high-density pol
 Cartons containing 56 film-coated tablets in 4 blisters of 14 film-coated tablets each.
 
 Cartons containing 60 film-coated tablets in perforated unit dose blisters.
+
 Cartons containing one bottle with 60 film-coated tablets.
 
 Not all pack sizes may be marketed.

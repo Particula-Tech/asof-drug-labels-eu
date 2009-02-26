@@ -26,33 +26,33 @@ Their occurrence is more frequent in patients with advanced phase CML or
 Ph+ ALL than in chronic phase CML.
 Complete blood counts should be performed weekly for the first 2 months, and then monthly thereafter, or as clinically indicated.
 Myelosuppression was generally reversible and usually managed by withholding dasatinib temporarily or by dose reduction (see sections 4.2 and 4.8).
-In a Phase III dose-optimisation study in patients with chronic phase CML, grade 3 or 4 myelosuppression was reported more frequently in patients treated with 70 mg twice daily than in patients treated with 100 mg once daily; fluid retention was also reported more frequently in patients treated with twice daily schedule compared to once daily (see section 4.8).
-Therefore, the starting dose of 100 mg once daily is the recommended initial dose for patients with chronic phase CML.
+In a Phase III dose-optimisation study in patients with chronic phase CML, grade 3 or 4 myelosuppression was reported more frequently in patients treated with 70 mg twice daily than in patients treated with 100 mg once daily.
 
 Bleeding: in all clinical studies, severe central nervous system (CNS) haemorrhage occurred in < 1% of patients.
-Eight cases were fatal and 5 of them were associated with Common Toxicity Criteria (CTC) grade 4 thrombocytopenia.
-Severe gastrointestinal haemorrhage occurred in 4% of patients and generally required treatment interruptions and transfusions.
-Other severe haemorrhage occurred in 2% of patients.
-Most bleeding related events were typically associated with severe thrombocytopenia (see section 4.8).
+Nine cases were fatal and 6 of them were associated with Common Toxicity Criteria (CTC) grade 4 thrombocytopenia.
+Grade 3 or 4 gastrointestinal haemorrhage occurred in 4% of patients and generally required treatment interruptions and transfusions.
+Other grade 3 or 4 haemorrhage occurred in 2% of patients.
+Most bleeding related events were typically associated with grade 3 or 4 thrombocytopenia (see section 4.8).
 
-Patients were excluded from participation in SPRYCEL clinical trials if they took medicinal products that inhibit platelet function or anticoagulants.
-In some trials, the use of anticoagulants, acetylsalicylic acid, and non-steroidal anti-inflammatory drugs (NSAIDs) was allowed concurrently with SPRYCEL if the platelet count was > 50,000/mm3.
+Patients were excluded from participation in initial SPRYCEL clinical trials if they took medicinal products that inhibit platelet function or anticoagulants.
+In subsequent trials, the use of anticoagulants, acetylsalicylic acid, and non-steroidal anti-inflammatory drugs (NSAIDs) was allowed concurrently with SPRYCEL if the platelet count was > 50,000-75,000/mm3.
 Caution should be exercised if patients are required to take medicinal products that inhibit platelet function or anticoagulants.
 
 Fluid retention: dasatinib is associated with fluid retention.
-In all clinical studies, severe fluid retention was reported in 9% of patients, including severe pleural and pericardial effusion reported in 6% and 1% of patients, respectively.
-Severe ascites and generalised oedema were each reported in
-< 1% of patients.
-Severe non-cardiogenic pulmonary oedema was reported in 1% of patients.
+In all clinical studies, grade 3 or 4 fluid retention was reported in 10% of patients, including grade 3 or 4 pleural and pericardial effusion reported in 7% and 1% of patients, respectively.
+Grade 3 or 4 ascites and generalised oedema were each reported in < 1% of patients.
+Grade 3 or 4 pulmonary oedema was reported in 1% of patients.
 Patients who develop symptoms suggestive of pleural effusion such as dyspnoea or dry cough should be evaluated by chest X-ray.
 Severe pleural effusion may require thoracocentesis and oxygen therapy.
 Fluid retention events were typically managed by supportive care measures that include diuretics and short courses of steroids.
-While the safety profile of SPRYCEL in the elderly population was similar to that in the younger population, patients aged 65 years and older are more likely to experience fluid retention events and should be monitored closely (see section 4.8).
+While the safety profile of SPRYCEL in the elderly population was similar to that in the younger population, patients aged 65 years and older are more likely to experience fluid retention events and should be monitored closely.
+Fluid retention was reported less frequently in patients treated with once daily schedule compared to twice daily in two Phase III dose-optimisation studies (see section 4.8).
 
 QT Prolongation: in vitro data suggest that dasatinib has the potential to prolong cardiac ventricular repolarization (QT Interval) (see section 5.3).
 In 865 patients with leukaemia treated with dasatinib in Phase II clinical trials, the mean changes from baseline in QTc interval using Fridericia's method (QTcF) were 4 - 6 msec; the upper 95% confidence intervals for all mean changes from baseline were < 7 msec (see section 4.8).
-Of the 2,182 patients who received dasatinib in Phase II/III clinical trials, 18 had QTc prolongation reported as an adverse event.
-Seventeen patients (< 1%) experienced a QTcF > 500 msec.
+Of the 2,182 patients who received dasatinib in clinical trials, 14
+(< 1%) had QTc prolongation reported as an adverse reaction.
+Twenty-one patients (< 1%) experienced a QTcF > 500 msec.
 Dasatinib should be administered with caution to patients who have or may develop prolongation of QTc.
 These include patients with hypokalemia or hypomagnesemia, patients with congenital long QT syndrome, patients taking anti-arrhythmic medicinal products or other medicinal products which lead to QT prolongation, and cumulative high dose anthracycline therapy.
 Hypokalemia or hypomagnesemia should be corrected prior to dasatinib administration.
