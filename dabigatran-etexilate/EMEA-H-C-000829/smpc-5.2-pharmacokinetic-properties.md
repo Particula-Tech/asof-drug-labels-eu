@@ -12,7 +12,6 @@ Peak plasma concentrations are reached at 6 hours following administration in a 
 It was demonstrated in a further study that slow and delayed absorption is usually only present on the day of surgery.
 On subsequent days absorption of dabigatran is rapid with peak plasma concentrations attained 2 hours after medicinal product administration.
 Food does not affect the bioavailability of dabigatran etexilate but delays the time to peak plasma concentrations by 2 hours.
-
 Distribution:
 
 Low (34-35 %) concentration independent binding of dabigatran to human plasma proteins was observed.
@@ -20,6 +19,7 @@ The volume of distribution of dabigtran of 60 – 70 L exceeded the volume of to
 Cmax and the area under the plasma concentration-time curve were dose proportional.
 Plasma concentrations of dabigatran showed a biexponential decline with a mean terminal half-life of 12 - 14 hours in healthy volunteers and 14 – 17 hours in patients undergoing major orthopaedic surgery.
 The half-life was independent of dose.
+
 Metabolism and elimination:
 
 Metabolism and excretion of dabigatran were studied following a single intravenous dose of radiolabeled dabigatran in healthy male subjects.
@@ -52,7 +52,6 @@ Body weight had a minor effect on the plasma clearance of dabigatran resulting i
 
 Gender:
 Active substance exposure in female patients is about 40 % to 50 % higher than in male patients and no dose adjustment is recommended.
-
 Ethnic origin:
 The pharmacokinetics of dabigatran was investigated in Caucasian and Japanese volunteers after single and multiple doses.
 Ethnic origin does not affect the pharmacokinetics of dabigatran in a clinically relevant manner.

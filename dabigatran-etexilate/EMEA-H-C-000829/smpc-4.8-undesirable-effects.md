@@ -6,7 +6,7 @@ Of these 5419 were treated with 150 mg or 220 mg daily of Pradaxa, while 389 rec
 The most commonly reported adverse reactions are bleedings occurring in total in approximately 14 % of patients; the frequency of major bleeds (including wound site bleedings) is less than 2 %.
 The table 1 shows the number (%) of patients experiencing bleeding events during the treatment period in the VTE prevention in the two pivotal clinical trials, according to dose.
 
-Table 1 Bleeding events broken down to major and any bleeding in the pivotal hip and knee study.
+Table 1 Bleeding events broken down to major and any bleeding in the pivotal hip and knee study
 
 |  | Dabigatran etexilate 150 mg N (%) | Dabigatran etexilate 220 mg N (%) | Enoxaparin N (%) |
 | --- | --- | --- | --- |
