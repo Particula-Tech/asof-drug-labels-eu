@@ -11,7 +11,6 @@ Protopic ointment should not be applied to lesions that are considered to be pot
 Emollients should not be applied to the same area within 2 hours of applying Protopic ointment.
 Concomitant use of other topical preparations has not been assessed.
 There is no experience with concomitant use of systemic steroids or immunosuppressive agents.
-
 Protopic ointment has not been evaluated for its efficacy and safety in the treatment of clinically infected atopic dermatitis.
 Before commencing treatment with Protopic ointment, clinical infections at treatment sites should be cleared.
 Patients with atopic dermatitis are predisposed to superficial skin infections.
@@ -43,3 +42,5 @@ The use of Protopic ointment in patients with genetic epidermal barrier defects 
 The safety of Protopic ointment has not been established in patients with generalised erythroderma.
 
 Care should be exercised if applying Protopic to patients with extensive skin involvement over an extended period of time, especially in children (see section 4.2).
+
+The development of any new change different from previous eczema within a treated area should be reviewed by the physician.

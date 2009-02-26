@@ -8,8 +8,8 @@ Alcohol intolerance (facial flushing or skin irritation after consumption of an 
 Patients may be at an increased risk of folliculitis, acne and herpes viral infections.
 
 Adverse reactions with suspected relationship to treatment are listed below by system organ class.
-Frequencies are defined as very common (> 1/10), common (> 1/100, < 1/10) and uncommon
-(> 1/1,000, < 1/100).
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10) and uncommon
+(≥ 1/1,000 to < 1/100).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 General disorders and administration site conditions
@@ -44,4 +44,12 @@ alcoholic beverage)
 The following adverse reactions have been reported during post-marketing experience:
 Skin and subcutaneous tissue disorders: Rosacea
 
+In a study of maintenance treatment (twice weekly treatment) in adults and children with moderate and severe atopic dermatitis the following adverse events were noted to occur more frequently than in the control group: application site impetigo (7.7% in children) and application site infections (6.4% in children and 6.3% in adults).
+
 Post-marketing: cases of malignancies, including cutaneous and other types of lymphoma, and skin cancers, have been reported in patients using tacrolimus ointment (see section 4.4).
+
+[Protopic 0.1% ointment]
+
+Common: Herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes simplex [cold sores], Kaposi’s varicelliform eruption)
+
+Common: Alcohol intolerance (facial flushing or skin irritation after consumption of an alcoholic beverage)

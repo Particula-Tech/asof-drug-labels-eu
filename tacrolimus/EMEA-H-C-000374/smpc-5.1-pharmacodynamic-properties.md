@@ -14,8 +14,8 @@ In patients with atopic dermatitis, improvement of skin lesions during treatment
 Tacrolimus ointment does not affect collagen synthesis in humans.
 
 Results from clinical studies in patients
-The efficacy and safety of Protopic was assessed in more than 13,500 patients treated with tacrolimus ointment in Phase I to Phase III clinical trials.
-Data from four major trials are presented here.
+The efficacy and safety of Protopic was assessed in more than 18,500 patients treated with tacrolimus ointment in Phase I to Phase III clinical trials.
+Data from six major trials are presented here.
 In a six-month multicentre double-blind randomised trial, 0.1% tacrolimus ointment was administered twice-a-day to adults with moderate to severe atopic dermatitis and compared to a topical corticosteroid based regimen (0.1% hydrocortisone butyrate on trunk and extremities, 1% hydrocortisone acetate on face and neck).
 The primary endpoint was the response rate at month 3 defined as the proportion of patients with at least 60% improvement in the mEASI (modified Eczema Area and Severity Index) between baseline and month 3.
 The response rate in the 0.1% tacrolimus group (71.6%) was significantly higher than that in the topical corticosteroid based treatment group (50.8%; p<0.001; Table 1).
@@ -38,6 +38,7 @@ There were no clinically relevant changes in the laboratory values or vital sign
 In the second trial, children aged from 2 to 15 years with moderate to severe atopic dermatitis received twice daily treatment for three weeks of 0.03% tacrolimus ointment, 0.1% tacrolimus ointment or 1% hydrocortisone acetate ointment.
 The primary endpoint was the area-under-the-curve (AUC) of the mEASI as a percentage of baseline averaged over the treatment period.
 The results of this multicentre, double-blind, randomised trial showed that tacrolimus ointment, 0.03% and 0.1%, is significantly more effective (p<0.001 for both) than 1% hydrocortisone acetate ointment (Table 2).
+
 Table 2 Efficacy at week 3
 
 |  | Hydrocortisone acetate 1% (N=185) | Tacrolimus 0.03% (N=189) | Tacrolimus 0.1% (N=186) |
@@ -53,7 +54,6 @@ There were no clinically relevant changes in the laboratory values or vital sign
 
 The purpose of the third multicentre, double-blind, randomised study was the assessment of efficacy and safety of 0.03% tacrolimus ointment applied once or twice a day relative to twice daily administration of 1% hydrocortisone acetate ointment in children with moderate to severe atopic dermatitis.
 Treatment duration was for up to three weeks.
-
 Table 3 Efficacy at week 3
 
 |  | Hydrocortisone acetate 1% Twice daily (N=207) | Tacrolimus 0.03% Once daily (N=207) | Tacrolimus 0.03% Twice daily (N=210) |
@@ -75,3 +75,42 @@ In addition, there was no evidence of loss of efficacy throughout the duration o
 The overall incidence of adverse events tended to decrease as the study progressed for all patients independent of age.
 The three most common adverse events reported were flu-like symptoms (cold, common cold, influenza, upper respiratory infection, etc.), pruritus and skin burning.
 No adverse events previously unreported in shorter duration and/or previous studies were observed in this long-term study.
+
+The efficacy and safety of tacrolimus ointment in maintenance treatment of mild to severe atopic dermatitis was assessed in 524 patients in two Phase III multicentre clinical trials of similar design, one in adult patients (≥ 16 years) and one in paediatric patients (2-15 years).
+In both studies, patients with active disease entered an open-label period (OLP) during which they treated affected lesions with tacrolimus ointment twice daily until improvement had reached a predefined score (Investigator’s Global Assessment [IGA] ≤ 2, i.e. clear, almost clear or mild disease) for a maximum of 6 weeks.
+Thereafter, patients entered a double-blind disease control period (DCP) for up to 12 months.
+Patients were randomised to receive either tacrolimus ointment (0.1% adults; 0.03% children) or vehicle, once a day twice weekly on Mondays and Thursdays.
+If a disease exacerbation occurred, patients were treated with open-label tacrolimus ointment twice daily for a maximum of 6 weeks until the IGA score returned to ≤ 2.
+The primary endpoint in both studies was the number of disease exacerbations requiring a “substantial therapeutic intervention” during the DCP, defined as an exacerbation with an IGA of 3-5 (i.e. moderate, severe and very severe disease) on the first day of the flare, and requiring more than 7 days treatment.
+Both studies showed significant benefit with twice weekly treatment with tacrolimus ointment with regard to the primary and key secondary endpoints over a period of 12 months in a pooled population of patients with mild to severe atopic dermatitis.
+In a subanalysis of a pooled population of patients with moderate to severe atopic dermatitis these differences remained statistically significant (Table 4).
+No adverse events not reported previously were observed in these studies.
+
+Table 4 Efficacy (moderate to severe subpopulation)
+
+Adults, ≥ 16 years Children, 2-15 years
+Tacrolimus 0.1% Vehicle Tacrolimus Vehicle
+Twice weekly Twice weekly 0.03% Twice weekly
+
+|  | (N=80) | (N=73) | Twice weekly (N=78) | (N=75) |
+| --- | --- | --- | --- | --- |
+| Median number of DEs requiring substantial intervention adjusted for time at risk (% of patients without DE requiring substantial intervention) | 1.0 (48.8%) | 5.3 (17.8%) | 1.0 (46.2%) | 2.9 (21.3%) |
+| Median time to first DE requiring substantial intervention | 142 days | 15 days | 217 days | 36 days |
+| Median number of DEs adjusted for time at risk (% of patients without any DE periods) | 1.0 (42.5%) | 6.8 (12.3%) | 1.5 (41.0%) | 3.5 (14.7%) |
+| Median time to first DE | 123 days | 14 days | 146 days | 17 days |
+| Mean (SD) percentage of days of DE exacerbation treatment | 16.1 (23.6) | 39.0 (27.8) | 16.9 (22.1) | 29.9 (26.8) |
+
+DE: disease exacerbation
+P<0.001 in favour of tacrolimus ointment 0.1% (adults) and 0.03% (children) for the primary and key secondary endpoints
+
+[Protopic 0.1% ointment]
+
+|  | Adults, ≥ 16 years |  | Children, 2-15 years |  |
+| --- | --- | --- | --- | --- |
+|  | Tacrolimus 0.1% Twice weekly (N=80) | Vehicle Twice weekly (N=73) | Tacrolimus 0.03% Twice weekly (N=78) | Vehicle Twice weekly (N=75) |
+| Median number of DEs requiring substantial intervention adjusted for time at risk (% of patients without DE requiring substantial intervention) | 1.0 (48.8%) | 5.3 (17.8%) | 1.0 (46.2%) | 2.9 (21.3%) |
+| Median time to first DE requiring substantial intervention | 142 days | 15 days | 217 days | 36 days |
+| Median number of DEs |  |  |  |  |
+| adjusted for time at risk (% of patients without any DE periods) | 1.0 (42.5%) | 6.8 (12.3%) | 1.5 (41.0%) | 3.5 (14.7%) |
+| Median time to first DE | 123 days | 14 days | 146 days | 17 days |
+| Mean (SD) percentage of days of DE exacerbation treatment | 16.1 (23.6) | 39.0 (27.8) | 16.9 (22.1) | 29.9 (26.8) |
