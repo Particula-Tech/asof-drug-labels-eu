@@ -2,7 +2,7 @@
 
 Capsule content:
 Hypromellose.
-Hydroxypropyl methylcellulose acetate succinate
+Hypromellose acetate succinate
 Sucrose
 Sugar spheres
 Talc

@@ -49,14 +49,13 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Reproductive System and Breast Disorders |  |  |  |  |  |
 |  | Erectile dysfunction | Ejaculation disorder Ejaculation delayed Sexual dysfunction Gynaecologica l haemorrhage | Menopausal symptoms |  |  |
 | Psychiatric Disorders |  |  |  |  |  |
-| Insomnia (10.4%) | Agitation Libido decreased Anxiety Orgasm abnormal Abnormal dreams Sleep disorder | Bruxism Disorientation Apathy | Mania Hallucinations Aggression and anger4 |  | Suicidal ideation 5 Suicidal5 behaviour |
+| Insomnia (10.4%) | Agitation Libido decreased Anxiety Orgasm abnormal Abnormal dreams Sleep disorder | Bruxism Disorientation Apathy | Mania Hallucinations Aggression and anger4 |  | Suicidal ideation 5 Suicidal Behaviour 5 |
 
 1 Cases of tinnitus have also been reported after treatment discontinuation.
 2Cases of orthostatic hypotension and syncope have been reported especially at the initiation of treatment.
 3See section 4.4
 4Cases of aggression and anger have been reported particularly early in treatment of after treatment discontinuation.
 5Cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation (see section 4.4)
-
 Discontinuation of duloxetine (particularly when abrupt) commonly leads to withdrawal symptoms.
 Dizziness, sensory disturbances (including paraesthesia), sleep disturbances (including insomnia and intense dreams), fatigue, agitation or anxiety, nausea and/or vomiting, tremor ,headache, irritability, diarrhoea, hyperhydrosis and vertigo are the most commonly reported reactions.
 Generally, for SSRIs and SNRIs, these events are mild to moderate and self-limiting, however, in some patients they may be severe and/or prolonged.
@@ -89,7 +88,8 @@ No clinically significant differences were observed for QT, PR, QRS, or QTcB mea
 | Gastrointestinal Disorders |  |  |  |  |  |
 | Nausea (25.2%) Dry mouth (13.8%) Constipation (10.3%) | Diarrhoea Vomiting Dyspepsia Flatulence | Gastroenteritis Eructation Gastritis Stomatitis | Breath odour Haematochezi a |  | Gastrointesti nal haemorrhage |
 | Renals and Urinary Disorders |  |  |  |  |  |
-|  |  | Urinary Retention Dysuria Urinary hesitation Nocturia Polyuria Urine flow decreased | Urine odour abnormal |  |  |
+|  |  | Urinary Retention Dysuria | Urine odour abnormal |  |  |
+|  |  | Urinary hesitation Nocturia Polyuria Urine flow decreased |  |  |  |
 | Skin and Subcutaneous Tissue Disorders |  |  |  |  |  |
 |  | Sweating increased Rash Night sweats | Urticaria Dermatitis contact Cold sweat Photo-sensitivity reactions Increased tendency to bruise |  |  | Angio-neurotic oedema Stevens-Johnson Syndrome |
 | Muscoskeletal and connective tissue disorders |  |  |  |  |  |
@@ -103,8 +103,7 @@ No clinically significant differences were observed for QT, PR, QRS, or QTcB mea
 | Vascular Disorders |  |  |  |  |  |
 |  | Flushing | Blood pressure increase Peripheral coldness Orthostatic hypotension2 Syncope2 |  |  | Hypertension Hypertensive crisis |
 | General Disorders and Administration Site Conditions |  |  |  |  |  |
-| Fatigue (10.8%) | Abdominal pain Chills | Feeling abnormal Feeling cold Thirst |  |  | Chest pain |
-|  |  | Malaise Feeling hot Gait disturbance |  |  |  |
+| Fatigue (10.8%) | Abdominal pain Chills | Feeling abnormal Feeling cold Thirst Malaise Feeling hot Gait disturbance |  |  | Chest pain |
 | Immune system disorders |  |  |  |  |  |
 |  |  | Hyper-sensitivity disorder | Anaphylactic reaction |  |  |
 | Hepato-biliary disorders |  |  |  |  |  |
@@ -112,8 +111,7 @@ No clinically significant differences were observed for QT, PR, QRS, or QTcB mea
 | Reproductive System and Breast Disorders |  |  |  |  |  |
 |  | Erectile dysfunction | Ejaculation disorder Ejaculation delayed Sexual dysfunction Gynaecologica l haemorrhage | Menopausal symptoms |  |  |
 | Psychiatric Disorders |  |  |  |  |  |
-| Insomnia (10.4%) | Agitation Libido decreased Anxiety Orgasm abnormal Abnormal dreams Sleep disorder | Bruxism Disorientation Apathy | Mania Hallucinations Aggression and anger4 |  | Suicidal ideation 5 Suicidal5 behaviour |
+| Insomnia (10.4%) | Agitation Libido decreased Anxiety Orgasm abnormal Abnormal dreams Sleep disorder | Bruxism Disorientation Apathy | Mania Hallucinations Aggression and anger4 |  | Suicidal ideation 5 Suicidal behaviour 5 |
 
 Dizziness, sensory disturbances (including paraesthesia), sleep disturbances (including insomnia and intense dreams), fatigue, agitation or anxiety, nausea and/or vomiting, tremor, headache, irritability, diarrhoea, hyperhydrosis and vertigo are the most commonly reported reactions.
-
 In the 12 week acute phase of three clinical trials of duloxetine in patients with diabetic neuropathic pain, small but statistically significant increases in fasting blood glucose were observed in duloxetine-treated patients HbA1c was stable in both duloxetine-treated and placebo-treated patients.

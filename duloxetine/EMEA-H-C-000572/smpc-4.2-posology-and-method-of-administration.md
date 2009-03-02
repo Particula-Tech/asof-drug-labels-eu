@@ -26,10 +26,10 @@ Dosages above 60 mg once daily, up to a maximum dose of 120 mg per day administe
 The plasma concentration of duloxetine displays large inter-individual variability (see 5.2).
 Hence, some patients that respond insufficiently to 60 mg may benefit from a higher dose.
 
-The medicinal product response should be evaluated after 2 months’ of treatment.
-Additional response after this time is unlikely (see 5.1).
+Response to treatment should be evaluated after 2 months.
+In patients with inadequate initial response, additional response after this time is unlikely.
 
-The therapeutic benefit should regularly (at least every three months) be reassessed.
+The therapeutic benefit should be reassessed regularly (at least every three months)(see Section 5.1).
 
 Elderly
 Major Depressive Episodes: No dosage adjustment is recommended for elderly patients solely on the basis of age.
@@ -54,6 +54,8 @@ When stopping treatment with CYMBALTA the dose should be gradually reduced over 
 Subsequently, the physician may continue decreasing the dose, but at a more gradual rate.
 
 [CYMBALTA 60 mg hard gastro-resistant capsules]
+
+In patients with inadequate initial response, additional response after this time is unlikely.The therapeutic benefit should be reassessed regularly (at least every three months)(see Section 5.1).
 
 When stopping treatment with CYMBALTA the dose should be gradually reduced over a period of at least one to two weeks in order to reduce the risk of withdrawal reactions (see sections 4.4 and 4.8).
 If intolerable symptoms occur following a decrease in the dose or upon discontinuation of treatment, then resuming the previously prescribed dose may be considered.

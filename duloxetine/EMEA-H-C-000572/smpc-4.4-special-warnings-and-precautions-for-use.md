@@ -55,7 +55,7 @@ If, based on clinical need, a decision to treat is nevertheless taken, the patie
 In addition, long-term safety data in children and adolescents concerning growth, maturation and cognitive and behavioural development are lacking.
 
 Haemorrhage
-There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/norepinephrine reuptake inhibitors (SNRIs).
+There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/ noradrenaline reuptake inhibitors (SNRIs).
 Caution is advised in patients taking anticoagulants and/or medicinal products known to affect platelet function, and in patients with known bleeding tendencies.
 
 Hyponatremia
@@ -99,3 +99,5 @@ Patients with rare hereditary problems of fructose intolerance, glucose-galactos
 [CYMBALTA 60 mg hard gastro-resistant capsules]
 
 Close supervision of patients and in particular those at high risk should accompany medicinal product therapy especially in early treatment and following dose changes.
+
+There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/noradrenaline reuptake inhibitors (SNRIs).

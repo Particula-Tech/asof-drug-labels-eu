@@ -12,8 +12,8 @@ The pain inhibitory action of duloxetine is believed to be a result of potentiat
 
 Major Depressive Episodes:
 CYMBALTA was studied in a clinical programme involving 3,158 patients (1,285 patient-years of exposure) meeting DSM-IV criteria for major depression.
-The efficacy of CYMBALTA at the recommended dose of 60 mg once a day was demonstrated in three out of three randomized, double-blind, placebo-controlled, fixed dose acute studies in adult outpatients with major depressive disorder.
-Overall, CYMBALTA’s efficacy has been demonstrated at daily doses between 60 and 120 mg in a total of five out of seven randomized, double-blind, placebo-controlled, fixed dose acute studies in adult outpatients with major depressive disorder.
+The efficacy of CYMBALTA at the recommended dose of 60 mg once a day was demonstrated in three out of three randomised, double-blind, placebo-controlled, fixed dose acute studies in adult outpatients with major depressive disorder.
+Overall, CYMBALTA’s efficacy has been demonstrated at daily doses between 60 and 120 mg in a total of five out of seven randomised, double-blind, placebo-controlled, fixed dose acute studies in adult outpatients with major depressive disorder.
 
 CYMBALTA demonstrated statistical superiority over placebo as measured by improvement in the 17-item Hamilton Depression Rating Scale (HAM-D) total score (including both the emotional and somatic symptoms of depression).
 Response and remission rates were also statistically significantly higher with CYMBALTA compared with placebo.
@@ -28,7 +28,7 @@ Tolerability of CYMBALTA 60 mg once day in elderly patients was comparable to th
 However, data on elderly patients exposed to the maximum dose (120mg per day) are limited and thus, caution is recommended when treating this population.
 
 Generalised Anxiety Disorder
-CYMBALTA demonstrated statistically significant superiority over placebo in five out of five studies including four randomized, double-blind, placebo-controlled acute studies and a relapse prevention study in adult patients with generalised anxiety disorder.
+CYMBALTA demonstrated statistically significant superiority over placebo in five out of five studies including four randomised, double-blind, placebo-controlled acute studies and a relapse prevention study in adult patients with generalised anxiety disorder.
 
 CYMBALTA demonstrated statistically significant superiority over placebo as measured by improvement in the Hamilton Anxiety Scale (HAM-A) total score and by the Sheehan Disability Scale (SDS) global functional impairment score.
 Response and remission rates were also higher with CYMBALTA compared to placebo.
@@ -53,4 +53,4 @@ For patients not experiencing somnolence, clinical response was observed in 47% 
 Clinical response rates in patients experiencing somnolence were 60% on duloxetine and 30% on placebo.
 Patients not demonstrating a pain reduction of 30% within 60 days of treatment were unlikely to reach this level during further treatment.
 
-Although data from a one-year open label study offer some evidence for longer-term efficacy, no conclusive efficacy data for treatments longer than 12 weeks duration are available from placebo-controlled studies.
+In an open label long-term uncontrolled study, the pain reduction in patients responding to 8-weeks of acute treatment of CYMBALTA 60 mg once daily was maintained for a further 6-months as measured by change on the Brief Pain Inventory(BPI) 24-hour average pain item.

@@ -1,6 +1,6 @@
 # 6.5 Nature and contents of container
 
-Polyvinylchloride (PVC), Polyethylene (PE), and Polychlorotrifluoroethylene (PCTFE) blister sealed with an aluminum foil.
+Polyvinylchloride (PVC), Polyethylene (PE), and Polychlorotrifluoroethylene (PCTFE) blister sealed with an aluminium foil.
 
 CYMBALTA 30 mg is available in packs of 7, 28 and 98 capsules.
 
