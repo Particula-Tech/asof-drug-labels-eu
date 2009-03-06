@@ -36,8 +36,12 @@ Clinical experience shows that host defence against infection is compromised in 
 
 It should be noted that suppression of TNFα may mask symptoms of infection such as fever.
 Early recognition of atypical clinical presentations of serious infections is critical in order to minimize delays in diagnosis and treatment.
+Patients taking TNF-blockers are more susceptible to serious infections.
 Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal infections, and other opportunistic infections have been observed in patients treated with infliximab.
 Some of these infections have been fatal.
+Patients who develop a new infection while undergoing treatment with Remicade, should be monitored closely and undergo a complete diagnostic evaluation.
+Administration of Remicade should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
+For patients who have resided in or traveled to regions where invasive fungal infections such as histoplasmosis, coccidioidomycosis, or blastomycosis are endemic, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
 
 There have been reports of active tuberculosis in patients receiving Remicade.
 It should be noted that in the majority of these reports tuberculosis was extrapulmonary, presenting as either local or disseminated disease.
@@ -73,6 +77,7 @@ Patients at risk for HBV infection should be evaluated for prior evidence of HBV
 Carriers of HBV who require treatment with Remicade should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy.
 Adequate data of treating patients who are carriers of HBV with anti-viral therapy in conjunction with TNF-antagonist therapy to prevent HBV reactivation are not available.
 In patients who develop HBV reactivation, Remicade should be stopped and effective anti-viral therapy with appropriate supportive treatment should be initiated.
+
 Hepatobiliary events
 Very rare cases of jaundice and non-infectious hepatitis, some with features of autoimmune hepatitis, have been observed in the post-marketing experience of Remicade.
 Isolated cases of liver failure resulting in liver transplantation or death have occurred.
@@ -101,18 +106,20 @@ Malignancies and lymphoproliferative disorders
 In the controlled portions of clinical studies of TNF-blocking agents, more cases of malignancies including lymphoma have been observed among patients receiving a TNF blocker compared with control patients.
 During clinical studies of Remicade across all approved indications the incidence of lymphoma in Remicade-treated patients was higher than expected in the general population, but the occurrence of lymphoma was rare.
 Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with longstanding, highly active, inflammatory disease, which complicates the risk estimation.
-
 In an exploratory clinical study evaluating the use of Remicade in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies were reported in Remicade-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Caution should be exercised in considering treatment of patients with increased risk for malignancy due to heavy smoking.
 
 With the current knowledge, a risk for the development of lymphomas or other malignancies in patients treated with a TNF-blocking agent cannot be excluded (see Section 4.8).
 Caution should be exercised when considering TNF-blocking therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop a malignancy.
+
 Caution should also be exercised in patients with psoriasis and a medical history of extensive immunosuppressant therapy or prolonged PUVA treatment.
 
-Rare postmarketing cases of hepatosplenic T-cell lymphoma have been reported in adolescent and young adult patients with Crohn’s disease treated with Remicade.
+Rare postmarketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with TNF-blocking agents including Remicade.
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
-All of these hepatosplenic T-cell lymphomas with Remicade have occurred in patients on concomitant treatment with azathioprine or 6-mercaptopurine.
+All Remicade cases have occurred in patients with Crohn’s disease or ulcerative colitis and the majority were reported in adolescent or young adult males.
+All of these patients had received treatment with azathioprine or 6-mercaptopurine concomitantly with or immediately prior to Remicade.
+The potential risk with the combination of AZA or 6-MP and Remicade should be carefully considered.
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with Remicade cannot be excluded (see sections 4.2 and 4.8).
 
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
@@ -140,6 +147,5 @@ The long half-life of infliximab should be taken into consideration if a surgica
 A patient who requires surgery while on Remicade should be closely monitored for infections, and appropriate actions should be taken.
 
 There is limited safety experience of Remicade treatment in patients who have undergone arthroplasty.
-
 Failure to respond to treatment for Crohn’s disease may indicate the presence of a fixed fibrotic stricture that may require surgical treatment.
 Available data suggest that infliximab does not worsen or cause strictures.

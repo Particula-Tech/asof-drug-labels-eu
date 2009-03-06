@@ -3,7 +3,6 @@
 In clinical studies with infliximab, adverse reactions were observed in approximately 60% of infliximab-treated patients and 40% of placebo-treated patients.
 Infusion-related reactions were the most common adverse reactions reported.
 Infusion-related reactions (dyspnoea, urticaria and headache) were the most common cause for discontinuation.
-
 Table 1 lists the adverse reactions based on experience from clinical studies as well as adverse reactions, some with fatal outcome, reported from post-marketing experience.
 Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
 Because post-marketing events are reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency.
@@ -12,11 +11,12 @@ Within each frequency grouping, undesirable effects are presented in order of de
 
 Table 1
 Undesirable Effects in Clinical Studies and from Post-Marketing Experience
+
 Infections and infestations
 Common: Viral infection (e.g. influenza, herpes virus infection) Uncommon: Sepsis, tuberculosis, abscess, bacterial infection, fungal infection, cellulitis, candidiasis
 Unknown: Opportunistic infections (such as atypical mycobacterial infection, pneumocystosis, histoplasmosis, coccidioidomycosis, cryptococcosis, aspergillosis and listeriosis), hepatitis B reactivation, salmonellosis
 Neoplasms benign, malignant and unspecified (including cysts and polyps)
-Unknown: Hepatosplenic T-cell lymphoma (adolescent and young adult patients with Crohn’s disease), lymphoma (including non-Hodgkin’s lymphoma and Hodgkin’s disease)
+Unknown: Hepatosplenic T-cell lymphoma (primarily in adolescents and young adults with Crohn’s disease and ulcerative colitis), lymphoma (including non-Hodgkin’s lymphoma and Hodgkin’s disease)
 Blood and lymphatic system disorders
 Uncommon: Neutropenia, leukopenia, thrombocytopenia, anaemia, lymphopenia, lymphadenopathy, lymphocytosis
 Unknown: Agranulocytosis, thrombotic thrombocytopenic purpura, pancytopenia, haemolytic anaemia, idiopathic thrombocytopenic purpura
@@ -67,15 +67,14 @@ Uncommon: Vaginitis
 General disorders and administration site conditions
 Common: Infusion-related reaction, chest pain, fatigue, fever Uncommon: Impaired healing, injection site reaction, chills, oedema, pain Rare: Granulomatous lesion
 Investigations
-Uncommon: Autoantibody positive, complement factor abnormal
-
-Infusion-related reactions: An infusion-related reaction was defined in clinical studies as any adverse event occurring during an infusion or within 1 to 2 hours after an infusion.
+Uncommon: Autoantibody positive, complement factor abnormal Infusion-related reactions: An infusion-related reaction was defined in clinical studies as any adverse event occurring during an infusion or within 1 to 2 hours after an infusion.
 In clinical studies, approximately 20% of infliximab-treated patients compared with approximately 10% of placebo-treated patients experienced an infusion-related effect.
 Approximately 3% of patients discontinued treatment due to infusions reactions and all patients recovered with or without medical therapy.
 In a clinical study of patients with rheumatoid arthritis (ASPIRE), sixty six percent of the patients (686 out of 1040) received at least one shortened infusion of 90 minutes or less and 44% of the patients (454 out of 1040) received at least one shortened infusion of 60 minutes or less.
 Of the infliximab-treated patients who received at least one shortened infusion, infusion-related reactions occurred in 15% of patients and serious infusion reactions occurred in 0.4% of patients.
 
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with Remicade administration.
+
 Delayed hypersensitivity: In clinical studies delayed hypersensitivity reactions have been uncommon and have occurred after Remicade-free intervals of less than 1 year.
 In the psoriasis studies, delayed hypersensitivity reactions occurred early in the treatment course.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, with some patients experiencing pruritus, facial, hand or lip edema, dysphagia, urticaria, sore throat and headache.
@@ -102,13 +101,13 @@ Opportunistic infections reported in patients on Remicade have included, but are
 In clinical studies 36% of infliximab-treated patients were treated for infections compared with 25% of placebo-treated patients.
 
 In RA clinical studies, the incidence of serious infections including pneumonia was higher in infliximab plus methotrexate treated patients compared with methotrexate alone especially at doses of 6 mg/kg or greater (see section 4.4).
-
 In postmarketing spontaneous reporting, infections are the most common serious adverse event.
 Some of the cases have resulted in a fatal outcome.
 Nearly 50% of reported deaths have been associated with infection.
 Cases of tuberculosis, sometimes fatal, including miliary tuberculosis and tuberculosis with extrapulmonary location have been reported (see section 4.4).
 
 Malignancies and lymphoproliferative disorders: In clinical studies with infliximab in which 5780 patients were treated, representing 5494 patient years, 5 cases of lymphomas and 26 non-lymphoma malignancies were detected as compared with no lymphomas and 1 non-lymphoma malignancy in 1600 placebo-treated patients representing 941 patient years.
+
 In long-term safety follow-up of clinical studies with infliximab of up to 5 years, representing 6234 patients-years (3210 patients), 5 cases of lymphoma and 38 cases of non-lymphoma malignancies were reported.
 
 From August 1998 to August 2005, 1909 cases of suspected malignancies have been reported from post-marketing, clinical studies and registries (321 in Crohn’s disease patients, 1302 in rheumatoid arthritis patients and 286 in patients with other or unknown indications).
@@ -121,7 +120,7 @@ The median duration of follow-up was 0.8 years (incidence 5.7% [95% CI 2.65% - 1
 There was one reported malignancy amongst 77 control patients (median duration of follow-up 0.8 years; incidence 1.3% [95% CI 0.03% - 7.0%]).
 The majority of the malignancies developed in the lung or head and neck.
 
-Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in adolescent and young adult patients with Crohn’s disease treated with Remicade (see section 4.4).
+Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients with Crohn’s disease and ulcerative colitis treated with Remicade, the majority of whom were adolescent or young adult males (see section 4.4).
 
 Heart failure: In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
 In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
@@ -136,7 +135,6 @@ Elevations of aminotransferases were observed (ALT more common than AST) in a gr
 Most aminotransferase abnormalities were transient; however, a small number of patients experienced more prolonged elevations.
 In general, patients who developed ALT and AST elevations were asymptomatic, and the abnormalities decreased or resolved with either continuation or discontinuation of Remicade, or modification of concomitant therapy.
 In post-marketing surveillance, very rare cases of jaundice and hepatitis, some with features of autoimmune hepatitis, have been reported in patients receiving Remicade (see section 4.4)
-
 Table 2: Proportion of patients with increased ALT activity in Clinical Studies
 
 | Indication | Number of patients3 |  | Median follow-up (wks)4 |  | ≥3 x ULN |  | ≥5 x ULN |  |
@@ -177,13 +175,13 @@ In the 6 mg/kg group, 2 out of 57 patients had a serious infusion reaction, one 
 Immunogenicity
 Antibodies to infliximab developed in 38 % of patients receiving 3 mg/kg compared with 12% of patients receiving 6 mg/kg.
 The antibody titers were notably higher for the 3 mg/kg compared to the 6 mg/kg group.
-
 Infections
 Infections occurred in 68% (41/60) of children receiving 3 mg/kg over 52 weeks, 65% (37/57) of children receiving infliximab 6 mg/kg over 38 weeks and 47% (28/60) of children receiving placebo over 14 weeks.
 
 Paediatric Crohn’s disease patients:
 The following adverse events were reported more commonly in paediatric Crohn’s disease patients in the REACH study (see section 5.1) than in adult Crohn’s disease patients: anaemia (10.7%), blood in stool (9.7%), leukopenia (8.7%), flushing (8.7%), viral infection (7.8%), neutropenia (6.8%), bone fracture (6.8%), bacterial infection (5.8%), and respiratory tract allergic reaction (5.8%).
 Other special considerations are discussed below.
+
 Infusion-related reactions
 Overall, in REACH, 17.5% of randomized patients experienced 1 or more infusion reactions.
 There were no serious infusion reactions, and 2 subjects in REACH had non-serious anaphylactic reactions.
