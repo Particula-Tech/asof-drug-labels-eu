@@ -9,7 +9,6 @@ The overall haematological toxicity is lower in patients treated with topotecan 
 
 Additional adverse events were seen when topotecan was given in combination with cisplatin, however, these events were seen with cisplatin monotherapy and not attributable to topotecan.
 The prescribing information for cisplatin should be consulted for a full list of adverse events associated cisplatin use.
-
 The integrated safety data for topotecan monotherapy are presented below.
 
 Adverse reactions are listed below, by system organ class and absolute frequency (all reported events).
@@ -55,7 +54,6 @@ Common: hyperbilirubinaemia.
 The incidence of adverse events listed above have the potential to occur with a higher frequency in patients who have a poor performance status (see section 4.4).
 
 The frequencies associated with the haematological and non-haematological adverse events listed below represent the adverse event reports considered to be related/possibly related to topotecan therapy.
-
 Haematological
 Neutropenia: Severe (neutrophil count <0.5 x 109/l) during course 1 was seen in 55 % of the patients and with duration ≥ 7 days in 20 % and overall in 77 % of patients (39 % of courses).
 In association with severe neutropenia, fever or infection occurred in 16 % of patients during course 1 and overall in 23 % of patients (6 % of courses).
@@ -117,7 +115,6 @@ Not known: anaphylactic reaction, angioedema, urticaria.
 Uncommon: hyperbilirubinaemia.
 
 Safety data are presented based on an integrated data set of 682 patients with relapsed lung cancer administered 2536 courses of oral topotecan monotherapy (275 patients with relapsed SCLC and 407 with relapsed non-SCLC).
-
 Neutropenia: Severe neutropenia (Grade 4 - neutrophil count <0.5 x 109/l) occurred in 32% of patients in 13% of courses.
 Median time to onset of severe neutropenia was Day 12 with a median duration of 7 days.
 In 34% of courses with severe neutropenia, the duration was >7 days.

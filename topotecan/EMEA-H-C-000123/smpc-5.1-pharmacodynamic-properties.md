@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Other antineoplastic agents : ATC code: L01XX17.
-
 The anti-tumour activity of topotecan involves the inhibition of topoisomerase-I, an enzyme intimately involved in DNA replication as it relieves the torsional strain introduced ahead of the moving replication fork.
 Topotecan inhibits topoisomerase-I by stabilising the covalent complex of enzyme and strand-cleaved DNA which is an intermediate of the catalytic mechanism.
 The cellular sequela of inhibition of topoisomerase-I by topotecan is the induction of protein-associated DNA single-strand breaks.

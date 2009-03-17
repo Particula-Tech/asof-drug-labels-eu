@@ -13,7 +13,6 @@ Ovarian and Small Cell Lung Carcinoma
 Initial dose
 The recommended dose of topotecan is 1.5 mg/m2 body surface area/day administered by intravenous infusion over 30 minutes daily for 5 consecutive days with a 3 week interval between the start of each course.
 If well tolerated, treatment may continue until disease progression (see sections 4.8 and 5.1).
-
 Subsequent doses
 Topotecan should not be re-administered unless the neutrophil count is ≥ 1 x 109/l, the platelet count is ≥ 100 x 109/l, and the haemoglobin level is ≥ 9 g/dl (after transfusion if necessary).
 
@@ -51,7 +50,6 @@ Combination therapy (Cervical carcinoma)
 In clinical studies with topotecan in combination with cisplatin for the treatment of cervical cancer, therapy was only initiated in patients with serum creatinine less than or equal to 1.5 mg/dL.
 If, during topotecan/cisplatin combination therapy serum creatinine exceeds 1.5 mg/dL, it is recommended that the full prescribing information be consulted for any advice on cisplatin dose reduction/continuation.
 If cisplatin is discontinued, there are insufficient data regarding continuing monotherapy with topotecan in patients with cervical cancer.
-
 Paediatrics
 The experience in children is limited, therefore no recommendation for treatment of paediatric patients with HYCAMTIN can be given (see sections 5.1 and 5.2).
 
@@ -68,7 +66,7 @@ HYCAMTIN capsules should only be prescribed and therapy supervised by a physicia
 The recommended dose of HYCAMTIN capsules is 2.3 mg/m2 body surface area/day administered for 5 consecutive days with a 3 week interval between the start of each course.
 
 The capsule(s) must be swallowed whole, and must not be chewed crushed or divided.
-Topotecan capsules may be taken with or without food (see section 5.2).
+Hycamtin capsules may be taken with or without food (see section 5.2).
 
 If dose reduction is chosen for patients who experience severe neutropenia (neutrophil count
 < 0.5 x 109/l) for 7 days or more, or severe neutropenia associated with fever or infection, or who have had treatment delayed due to neutropenia, the dose should be reduced by 0.4 mg/m2/day to 1.9 mg/m2/day (or subsequently down to 1.5 mg/m2/day if necessary).
@@ -95,5 +93,7 @@ However in the two studies administering both oral and intravenous topotecan, pa
 Therapy with HYCAMTIN capsules should only be prescribed and therapy supervised by a physician experienced in the use of chemotherapeutic agents.
 
 .
+
+Topotecan should not be re-administered unless the neutrophil count is ≥ 1 x 109/l, the platelet count is ≥ 100 x 109/l, and the haemoglobin level is ≥ 9 g/dl.
 
 For patients who experience Grade 3 or 4 diarrhoea, the dose should be reduced by 0.4 mg/m2/day for subsequent courses (see section 4.4 Special warnings and precautions for use).
