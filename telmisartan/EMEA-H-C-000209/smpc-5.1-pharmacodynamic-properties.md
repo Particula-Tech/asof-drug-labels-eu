@@ -26,6 +26,7 @@ The antihypertensive effect persists constantly over 24 hours after dosing and i
 This is confirmed by trough to peak ratios consistently above 80 % seen after doses of 40 and 80 mg of telmisartan in placebo controlled clinical studies.
 There is an apparent trend to a dose relationship to a time to recovery of baseline systolic blood pressure (SBP).
 In this respect data concerning diastolic blood pressure (DBP) are inconsistent.
+
 In patients with hypertension telmisartan reduces both systolic and diastolic blood pressure without affecting pulse rate.
 The contribution of the medicinal product's diuretic and natriuretic effect to its hypotensive activity has still to be defined.
 The antihypertensive efficacy of telmisartan is comparable to that of agents representative of other classes of antihypertensive medicinal products (demonstrated in clinical trials comparing telmisartan to amlodipine, atenolol, enalapril, hydrochlorothiazide, and lisinopril).

@@ -33,6 +33,7 @@ Special Populations
 
 Gender effects:
 Differences in plasma concentrations were observed, with Cmax and AUC being approximately 3- and 2-fold higher, respectively, in females compared to males.
+
 Elderly patients:
 The pharmacokinetics of telmisartan do not differ between the elderly and those younger than 65 years.
 

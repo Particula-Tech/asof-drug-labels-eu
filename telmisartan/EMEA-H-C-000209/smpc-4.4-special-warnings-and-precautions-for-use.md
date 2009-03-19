@@ -2,7 +2,7 @@
 
 Pregnancy:
 Angiotensin II receptor antagonists should not be initiated during pregnancy.
-Unless continued angiotensin II receptor antagonist therapy is considered essential, patients planning pregnancy should be changed to alternative anti-hypertensive treatments which have an established safety profile for use in pregnancy.
+Unless continued angiotensin II receptor antagonist therapy is considered essential, patients planning pregnancy should be changed to alternative antihypertensive treatments which have an established safety profile for use in pregnancy.
 When pregnancy is diagnosed, treatment with angiotensin II receptor antagonists should be stopped immediately, and, if appropriate, alternative therapy should be started (see sections 4.3 and 4.6).
 
 Hepatic impairment:
