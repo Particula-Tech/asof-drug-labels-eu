@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-Renal function:
+URenal function:
 
 EXJADE has been studied only in patients with baseline serum creatinine within the age-appropriate normal range.
 
@@ -32,7 +32,7 @@ As needed, additional markers of renal tubular function (e.g. glycosuria in non-
 Dose reduction or interruption may be considered if there are abnormalities in levels of tubular markers and/or if clinically indicated.
 
 If, despite dose reduction and interruption, the serum creatinine remains significantly elevated and there is also persistent abnormality in another marker of renal function (e.g. proteinuria, Fanconi’s Syndrome), the patient should be referred to a renal specialist, and further specialised investigations (such as renal biopsy) may be considered.
-Hepatic function:
+UHepatic function:U
 
 Liver function test elevations have been observed in patients treated with EXJADE.
 Postmarketing cases of hepatic failure, sometimes fatal, have been reported in patients treated with EXJADE.
@@ -63,14 +63,19 @@ Auditory (decreased hearing) and ocular (lens opacities) disturbances have been 
 Auditory and ophthalmic testing (including fundoscopy) is recommended before the start of treatment and at regular intervals thereafter (every 12 months).
 If disturbances are noted during the treatment, dose reduction or interruption may be considered.
 
+There have been post-marketing reports of leukopenia, thrombocytopenia or pancytopenia, or aggravation of these cytopenias in patients treated with EXJADE.
+Most of these patients had pre-existing haematological disorders that are frequently associated with bone marrow failure.
+However, a contributory or aggravating role cannot be excluded.
+Interruption of treatment should be considered in patients who develop unexplained cytopenia.
+
 Monthly monitoring of serum ferritin is recommended in order to assess the patient’s response to therapy (see section 4.2).
 If serum ferritin falls consistently below 500 µg/l, an interruption of treatment should be considered.
-
 The results of the tests for serum creatinine, serum ferritin and serum transaminases should be recorded and regularly assessed for trends.
 The results should also be noted in the provided patient’s booklet.
 
 In the 1-year clinical studies growth and sexual development of paediatric patients treated with EXJADE were not affected.
 However, as a general precautionary measure in the management of paediatric patients with transfusional iron overload, body weight, height and sexual development should be monitored at regular intervals (every 12 months).
+
 Cardiac dysfunction is a known complication of severe iron overload.
 Cardiac function should be monitored in patients with severe iron overload during long-term treatment with EXJADE.
 

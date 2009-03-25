@@ -20,7 +20,7 @@ Therefore, it must not be combined with other iron chelator therapies (see secti
 
 No interaction was observed between EXJADE and digoxin in healthy adult volunteers.
 
-In a healthy volunteer study, the concomitant administration of deferasirox as a moderate CYP2C8 inhibitor (30 mg/kg daily), with repaglinide, a CYP2C8 substrate, given as a single dose of 0.5 mg, increased repaglinide AUC and Cmax about 2.3-fold (90% CI [2.03-2.63]) and 1.6-fold (90% CI [1.42-1.84]), respectively.
+In a healthy volunteer study, the concomitant administration of deferasirox as a moderate CYP2C8 inhibitor (30 mg/kg daily), with repaglinide, a CYP2C8 substrate, given as a single dose of 0.5 mg, increased repaglinide AUC and CBmaxB about 2.3-fold (90% CI [2.03-2.63]) and 1.6-fold (90% CI [1.42-1.84]), respectively.
 Since the interaction has not been established with dosages higher than 0.5 mg for repaglinide, the concomitant use of deferasirox with repaglinide should be avoided.
 If the combination appears necessary, careful clinical and blood glucose monitoring should be performed (see section 4.4).
 An interaction between deferasirox and other CYP2C8 substrates like paclitaxel cannot be excluded (see section 4.4).
@@ -34,7 +34,7 @@ Close clinical monitoring is required when deferasirox is combined with these su
 
 [EXJADE 250 mg dispersible tablets]
 
-In a healthy volunteer study, the concomitant administration of deferasirox as a moderate CYP2C8 inhibitor (30 mg/kg/daily), with repaglinide, a CYP2C8 substrate, given as a single dose of 0.5 mg, increased repaglinide AUC and Cmax about 2.3-fold (90% CI [2.03-2.63]) and 1.6-fold (90% CI [1.42-1.84]), respectively.
+In a healthy volunteer study, the concomitant administration of deferasirox as a moderate CYP2C8 inhibitor (30 mg/kg/daily), with repaglinide, a CYP2C8 substrate, given as a single dose of 0.5 mg, increased repaglinide AUC and CBmaxB about 2.3-fold (90% CI [2.03-2.63]) and 1.6-fold (90% CI [1.42-1.84]), respectively.
 
 [EXJADE 500 mg dispersible tablets]
 

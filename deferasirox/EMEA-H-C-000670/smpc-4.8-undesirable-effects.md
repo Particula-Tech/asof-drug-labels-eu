@@ -9,7 +9,6 @@ These were dose-dependent.
 About two-thirds of the patients showing serum creatinine increase returned below the 33% level without dose adjustment.
 In the remaining third the serum creatinine increase did not always respond to a dose reduction or a dose interruption.
 Indeed, in some cases, only a stabilisation of the serum creatinine values has been observed after dose reduction (see section 4.4).
-
 Gallstones and related biliary disorders were reported in about 2% of patients.
 Elevations of liver transaminases were reported as an adverse drug reaction in 2% of patients.
 Elevations of transaminases greater than 10 times the upper limit of the normal range, suggestive of hepatitis, were uncommon (0.3%).
@@ -18,7 +17,12 @@ As with other iron chelator treatment, high-frequency hearing loss and lenticula
 
 Adverse reactions are ranked below using the following convention: very common (≥1/10); common (≥1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (<1/10,000); not known (cannot be estimated form the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
-Table 1
+
+UTable 1
+
+Blood and lymphatic system disorders
+
+Not known: PancytopeniaP1P, thrombocytopeniaP1P
 
 Nervous system disorders
 
@@ -54,13 +58,13 @@ Very common: Blood creatinine increased
 
 Common: Proteinuria
 Uncommon: Renal tubulopathy (acquired Fanconi’s syndrome), glycosuria
-Not known: Acute renal failure1
+Not known: Acute renal failureP1P
 
 Skin and subcutaneous tissue disorders
 
 Common: Rash, pruritus
 Uncommon: Pigmentation disorder
-Not known: Urticaria1
+Not known: Leukocytoclastic vasculitisP1P, urticariaP1P
 
 General disorders and administration site conditions
 
@@ -68,17 +72,17 @@ Uncommon: Pyrexia, oedema, fatigue
 
 Immune system disorders
 
-Not known: Hypersensitivity reactions (including anaphylaxis and angioedema)1
+Not known: Hypersensitivity reactions (including anaphylaxis and angioedema)P1P
 
 Hepatobiliary disorders
 
 Common: Transaminases increased
 Uncommon: Hepatitis, cholelithiasis
-Not known: Hepatic failure1
+Not known: Hepatic failureP1P
 
 Psychiatric disorders
 
 Uncommon: Anxiety, sleep disorder
 
-1 Adverse reactions reported during postmarketing experience.
+P1P Adverse reactions reported during postmarketing experience.
 These are derived from spontaneous reports for which it is not always possible to reliably establish frequency or a causal relationship to exposure to the medicinal product.
