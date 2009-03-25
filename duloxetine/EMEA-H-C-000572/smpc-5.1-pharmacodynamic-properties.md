@@ -42,7 +42,6 @@ Diabetic Peripheral Neuropathic Pain:
 The efficacy of CYMBALTA as a treatment for diabetic neuropathic pain was established in 2 randomised, 12-week, double-blind, placebo-controlled, fixed dose studies in adults (22 to 88 years) having diabetic neuropathic pain for at least 6 months.
 Patients meeting diagnostic criteria for major depressive disorder were excluded from these trials.
 The primary outcome measure was the weekly mean of 24-hour average pain, which was collected in a daily diary by patients on an 11-point Likert scale.
-
 In both studies, CYMBALTA 60 mg once daily and 60 mg twice daily significantly reduced pain compared with placebo.
 The effect in some patients was apparent in the first week of treatment.
 The difference in mean improvement between the two active treatment arms was not significant.

@@ -1,6 +1,6 @@
 # 4.9 Overdose
 
-Cases of overdoses, alone or in combination with other medicinal products, with duloxetine doses of 4800mg were reported.
+Cases of overdoses, alone or in combination with other medicinal products, with duloxetine doses of 5400mg were reported.
 Some fatalities have occurred, primarily with mixed overdoses, but also with duloxetine alone at a dose of approximately 1000 mg.
 Signs and symptoms of overdose (duloxetine alone or with mixed medicinal products) included somnolence, coma, serotonin syndrome, seizures, , vomiting and tachycardia.
 

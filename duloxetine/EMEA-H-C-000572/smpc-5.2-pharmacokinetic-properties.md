@@ -12,7 +12,7 @@ Duloxetine binds to both albumin and alpha-l acid glycoprotein.
 Protein binding is not affected by renal or hepatic impairment.
 
 Duloxetine is extensively metabolised and the metabolites are excreted principally in urine.
-Both cytochromes P450-2D6 and 1A2 catalyse the formation of the two major metabolites glucuronide conjugate of 4-hydroxy duloxetine and sulphate conjugate of 5-hydroxy 6-methoxy duloxetine.
+Both cytochromes P450-2D6 and 1A2 catalyse the formation of the two major metabolites glucuronide conjugate of 4-hydroxy duloxetine and sulphate conjugate of 5hydroxy,6-methoxy duloxetine.
 Based upon in vitro studies, the circulating metabolites of duloxetine are considered pharmacologically inactive.
 The pharmacokinetics of duloxetine in patients who are poor metabolisers with respect to CYP2D6 has not been specifically investigated.
 Limited data suggest that the plasma levels of duloxetine are higher in these patients.
@@ -30,10 +30,10 @@ As a general recommendation, caution should be exercised when treating the elder
 
 Renal impairment: end stage renal disease (ESRD) patients receiving dialysis had 2-fold higher duloxetine Cmax and AUC values compared with healthy subjects.
 Pharmacokinetic data on duloxetine is limited in patients with mild or moderate renal impairment.
-
 Hepatic impairment: moderate liver disease (Child Pugh Class B) affected the pharmacokinetics of duloxetine.
 Compared with healthy subjects, the apparent plasma clearance of duloxetine was 79% lower, the apparent terminal half-life was 2.3 times longer, and the AUC was 3.7 times higher in patients with moderate liver disease.
 The pharmacokinetics of duloxetine and its metabolites have not been studied in patients with mild or severe hepatic insufficiency.
+
 Nursing mothers: The disposition of duloxetine was studied in 6 lactating women who were at least 12-weeks postpartum.
 Duloxetine is detected in breast milk, and steady-state concentrations in breast milk are about one-fourth those in plasma.
 The amount of duloxetine in breast milk is approximately 7 µg/day while on 40 mg twice daily dosing.
