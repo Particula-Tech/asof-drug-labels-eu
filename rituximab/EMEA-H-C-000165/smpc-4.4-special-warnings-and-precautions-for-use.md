@@ -51,7 +51,7 @@ Consideration should be given to the need for regular full blood counts, includi
 When MabThera is given in combination with CHOP or CVP (cyclophosphamide, vincristine, and prednisone) chemotherapy, regular full blood counts should be performed according to usual medical practice.
 
 Serious infections, including fatalities, can occur during therapy with MabThera (see section 4.8).
-MabThera should not be administered to patients with an active and/or severe infection (eg. tuberculosis, sepsis and opportunistic infections, see section 4.3).
+MabThera should not be administered to patients with an active and/or severe infection (e.g. tuberculosis, sepsis and opportunistic infections, see section 4.3).
 Physicians should exercise caution when considering the use of MabThera in patients with a history of recurring or chronic infections or with underlying conditions which may further predispose patients to serious infection (see section 4.8).
 
 Very rare cases of hepatitis B reactivation have been reported in subjects receiving rituximab including fulminant hepatitis with fatal outcome.
@@ -62,8 +62,13 @@ Patients with a history of hepatitis B infection should be carefully monitored f
 Very rare cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported during post-marketing use of MabThera in NHL and CLL (see section 4.8).
 The majority of patients had received rituximab in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
 
-The safety of immunization with any vaccine, particularly live viral vaccines, following MabThera therapy has not been studied for NHL and CLL patients.
-The ability to generate a primary or anamnestic humoral response to any vaccine has also not been studied.
+The safety of immunization with live viral vaccines, following MabThera therapy has not been studied for NHL and CLL patients and vaccination with live virus vaccines is not recommended.
+Patients treated with MabThera may receive non-live vaccinations.
+However with non-live vaccines response rates may be reduced.
+In a non-randomized study, patients with relapsed low-grade NHL who received MabThera monotherapy when compared to healthy untreated controls had a lower rate of response to vaccination with tetanus recall antigen (16% vs. 81%) and Keyhole Limpet Haemocyanin (KLH) neoantigen (4% vs. 69% when assessed for >2-fold increase in antibody titer).
+For CLL patients similar results are assumable considering similarities between both diseases but that has not been investigated in clinical trials.
+
+Mean pre-therapeutic antibody titers against a panel of antigens (Streptococcus pneumoniae, influenza A, mumps, rubella, varicella) were maintained for at least 6 months after treatment with MabThera.
 
 Rheumatoid arthritis
 
@@ -79,7 +84,6 @@ In most cases, the infusion can be resumed at a 50 % reduction in rate (e.g. fro
 Anaphylactic and other hypersensitivity reactions have been reported following the intravenous administration of proteins, including MabThera, to patients.
 Medicinal products for the treatment of hypersensitivity reactions, e.g., epinephrine (adrenaline), antihistamines and glucocorticoids, should be available for immediate use in the event of an allergic reaction during administration of MabThera.
 The presence of HACA may be associated with worsening infusion or allergic reactions after the second infusion of subsequent courses (see section 5.1).
-
 In clinical studies 10/990 (1 %) patients with rheumatoid arthritis who received a first infusion of MabThera at any dose experienced a serious reaction during the infusion (see section 4.8).
 
 There are no data on the safety of MabThera in patients with moderate heart failure (NYHA class III) or severe, uncontrolled cardiovascular disease.
@@ -89,7 +93,7 @@ Since hypotension may occur during MabThera infusion, consideration should be gi
 
 Infections
 Serious infections, including fatalities, can occur during therapy with MabThera (see section 4.8).
-MabThera should not be administered to patients with an active and/or severe infection (eg. tuberculosis, sepsis and opportunistic infections, see section 4.3) or severely immunocompromised patients (eg. in hypogammaglobulinemia or where levels of CD4 or CD8 are very low).
+MabThera should not be administered to patients with an active and/or severe infection (e.g. tuberculosis, sepsis and opportunistic infections, see section 4.3) or severely immunocompromised patients (e.g. in hypogammaglobulinemia or where levels of CD4 or CD8 are very low).
 Physicians should exercise caution when considering the use of MabThera in patients with a history of recurring or chronic infections or with underlying conditions which may further predispose patients to serious infection (see section 4.8).
 Patients reporting signs and symptoms of infection following MabThera therapy should be promptly evaluated and treated appropriately.
 Before giving a subsequent course of MabThera treatment, patients should be re-evaluated for any potential risk for infections.
@@ -100,16 +104,23 @@ These cases involved patients with multiple risk factors for PML, including the 
 In patients with non-Hodgkin’s lymphoma receiving rituximab in combination with cytotoxic chemotherapy, very rare cases of hepatitis B reactivation have been reported (see non-Hodgkin’s lymphoma).
 
 Immunization
-There are no data concerning the use of vaccines while patients are B cell depleted following MabThera therapy (see section 5.1).
-Physicians should review the vaccination status of patients being considered for treatment with MabThera and follow local/national guidance for adult vaccination against infectious disease.
-Vaccination should be completed at least four weeks prior to first administration of MabThera.
-Live vaccines are not recommended in patients while B cell depleted.
+Physicians should review the patient’s vaccination status and follow current immunization guidelines prior to MabThera therapy.
+Vaccination should be completed at least 4 weeks prior to first administration of MabThera.
 
+The safety of immunization with live viral vaccines following MabThera therapy has not been studied.
+Therefore vaccination with live virus vaccines is not recommended whilst on MabThera or whilst peripherally B cell depleted.
+
+Patients treated with MabThera may receive non-live vaccinations.
+However, response rates to non-live vaccines may be reduced.
+In a randomized study, patients with RA treated with MabThera and methotrexate had comparable response rates to tetanus recall antigen (39% vs. 42%), reduced rates to pneumococcal polysaccharide vaccine (43% vs. 82% to at least 2 pneumococcal antibody serotypes), and KLH neoantigen (47% vs. 93%), when given 6 months after MabThera/Rituxan as compared to patients only receiving methotrexate.
+Should non-live vaccinations be required whilst receiving MabThera therapy, these should be completed at least 4 weeks prior to commencing the next course of MabThera
+
+In the overall experience of MabThera repeat treatment over one year, the proportions of patients with positive antibody titers against S. pneumoniae, influenza, mumps, rubella, varicella and tetanus toxoid were generally similar to the proportions at baseline.
 Concomitant/sequential use of other DMARDs
 The concomitant use of MabThera and antirheumatic therapies other than those specified under the rheumatoid arthritis indication and posology is not recommended.
 
-There are insufficient data from clinical trials to fully assess the safety of sequential use of other DMARDs (including TNF inhibitors) following therapy with MabThera (see section 4.5).
-Patients should be closely observed for signs of infection if biologic agents and/or DMARDs are used following MabThera therapy.
+There are limited data from clinical trials to fully assess the safety of the sequential use of other DMARDs (including TNF inhibitors and other biologics) following MabThera (see section 4.5).
+The available data indicate that the rate of clinically relevant infection is unchanged when such therapies are used in patients previously treated with MabThera, however patients should be closely observed for signs of infection if biologic agents and/or DMARDs are used following MabThera therapy.
 
 Malignancy
 Immunomodulatory drugs may increase the risk of malignancy.

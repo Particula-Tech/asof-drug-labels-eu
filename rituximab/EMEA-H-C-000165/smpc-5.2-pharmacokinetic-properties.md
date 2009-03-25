@@ -14,7 +14,6 @@ This analysis suggests that dose adjustment of rituximab with any of the tested 
 
 Rituximab, administered as an intravenous infusion at a dose of 375 mg/m2 at weekly intervals for 4 doses to 203 patients with NHL naive to rituximab, yielded a mean Cmax following the fourth infusion of 486 µg/mL (range, 77.5 to 996.6 µg/mL).
 Rituximab was detectable in the serum of patients 3 – 6 months after completion of last treatment.
-
 Upon administration of rituximab at a dose of 375 mg/m2 as an intravenous infusion at weekly intervals for 8 doses to 37 patients with NHL, the mean Cmax increased with each successive infusion, spanning from a mean of 243 µg/mL (range, 16 – 582 µg/mL) after the first infusion to 550 µg/mL (range, 171 – 1177 µg/mL) after the eighth infusion.
 
 The pharmacokinetic profile of rituximab when administered as 6 infusions of 375 mg/m2 in combination with 6 cycles of CHOP chemotherapy was similar to that seen with rituximab alone.

@@ -9,7 +9,6 @@ CD20 is found on both normal and malignant B cells, but not on haematopoietic st
 B cells, normal plasma cells or other normal tissue.
 This antigen does not internalise upon antibody binding and is not shed from the cell surface.
 CD20 does not circulate in the plasma as a free antigen and, thus, does not compete for antibody binding.
-
 The Fab domain of rituximab binds to the CD20 antigen on B lymphocytes and the Fc domain can recruit immune effector functions to mediate B cell lysis.
 Possible mechanisms of effector-mediated cell lysis include complement-dependent cytotoxicity (CDC) resulting from C1q binding, and antibody-dependent cellular cytotoxicity (ADCC) mediated by one or more of the Fcγ receptors on the surface of granulocytes, macrophages and NK cells.
 Rituximab binding to CD 20 antigen on B lymphocytes has also been demonstrated to induce cell death via apoptosis.
@@ -64,7 +63,6 @@ The difference between the treatment groups with respect to overall survival sho
 
 Results from three other randomized trials using MabThera in combination with chemotherapy regimen other than CVP (CHOP, MCP, CHVP/Interferon-α) have also demonstrated significant improvements in response rates, time-dependent parameters as well as in overall survival .
 Key results from all four studies are summarized in table 3.
-
 Table 3 Summary of key results from four phase III randomized studies evaluating the benefit of MabThera with different chemotherapy regimens in follicular lymphoma
 
 | Study | Treatment, N | Median FU, months | ORR, % | CR, % | Median TTF/PFS/ EFS mo | OS rates, % |
@@ -88,8 +86,7 @@ MabThera maintenance treatment consisted of a single infusion of MabThera at 375
 
 The final efficacy analysis included all patients randomized to both parts of the study.
 After a median observation time of 31 months for patients randomised to the induction phase, R-CHOP significantly improved the outcome of patients with relapsed/refractory follicular NHL when compared to CHOP (see Table 4).
-
-Table 4 Induction phase: overview of efficacy results for CHOP vs R-CHOP (31 months median observation time)
+Table 4 Induction phase: overview of efficacy results for CHOP vs. R-CHOP (31 months median observation time)
 
 |  | CHOP | R-CHOP | p-value | Risk Reduction1) |
 | --- | --- | --- | --- | --- |
@@ -103,7 +100,7 @@ Abbreviations: NA, not available; ORR: overall response rate; CR: complete respo
 For patients randomized to the maintenance phase of the trial, the median observation time was 28 months from maintenance randomisation.
 Maintenance treatment with MabThera led to a clinically relevant and statistically significant improvement in the primary endpoint, PFS, (time from maintenance randomisation to relapse, disease progression or death) when compared to observation alone (p< 0.0001 log-rank test).The median PFS was 42.2 months in the MabThera maintenance arm compared to 14.3 months in the observation arm.
 Using a cox regression analysis, the risk of experiencing progressive disease or death was reduced by 61 % with MabThera maintenance treatment when compared to observation (95 % CI; 45 %-72 %).
-Kaplan-Meier estimated progression-free rates at 12 months were 78 % in the MabThera maintenance group vs 57 % in the observation group.
+Kaplan-Meier estimated progression-free rates at 12 months were 78 % in the MabThera maintenance group vs. 57 % in the observation group.
 An analysis of overall survival confirmed the significant benefit of MabThera maintenance over observation (p=0.0039 log-rank test).
 MabThera maintenance treatment reduced the risk of death by 56 % (95 % CI; 22 %-75 %).
 
@@ -116,15 +113,13 @@ Table 5 Maintenance phase: overview of efficacy results MabThera vs. observation
 | Overall Survival | NR | NR | 0.0039 | 56 % |
 | Time to new lymphoma treatment | 20.1 | 38.8 | < 0.0001 | 50 % |
 | Disease-free survivala | 16.5 | 53.7 | 0.0003 | 67 % |
-| Subgroup Analysis PFS |  |  |  |  |
-|  | Observation (N = 167) | MabThera (N=167) | Log-Rank p value |  |
-| CHOP R-CHOP CR PR | 11.6 22.1 14.3 14.3 | 37.5 51.9 52.8 37.8 | < 0.0001 0.0071 0.0008 < 0.0001 | 71 % 46 % 64 % 54 % |
+| Subgroup Analysis PFS CHOP R-CHOP CR PR | 11.6 22.1 14.3 14.3 | 37.5 51.9 52.8 37.8 | < 0.0001 0.0071 0.0008 < 0.0001 | 71 % 46 % 64 % 54 % |
 | OS CHOP R-CHOP | NR NR | NR NR | 0.0348 0.0482 | 55 % 56 % |
 
 NR: not reached; a: only applicable to patients achieving a CR
 
 The benefit of MabThera maintenance treatment was confirmed in all subgroups analysed, regardless of induction regimen (CHOP or R-CHOP) or quality of response to induction treatment (CR or PR) (table 5).
-MabThera maintenance treatment significantly prolonged median PFS in patients responding to CHOP induction therapy (median PFS 37.5 months vs 11.6 months, p< 0.0001) as well as in those responding to R-CHOP induction (median PFS 51.9 months vs 22.1 months, p=0.0071).
+MabThera maintenance treatment significantly prolonged median PFS in patients responding to CHOP induction therapy (median PFS 37.5 months vs. 11.6 months, p< 0.0001) as well as in those responding to R-CHOP induction (median PFS 51.9 months vs. 22.1 months, p=0.0071).
 Although subgroups were small, MabThera maintenance treatment provided a significant benefit in terms of overall survival for both patients responding to CHOP and patients responding to R-CHOP, although longer follow-up is required to confirm this observation.
 
 Diffuse large B cell non-Hodgkin’s lymphoma
@@ -144,6 +139,7 @@ The complete response rate after cycle 8 was 76.2 % in the R-CHOP group and 62.4
 The risk of disease progression was reduced by 46 % and the risk of relapse by 51 %.
 In all patients subgroups (gender, age, age adjusted IPI, Ann Arbor stage, ECOG, β2 microglobulin, LDH, albumin, B symptoms, bulky disease, extranodal sites, bone marrow involvement), the risk ratios for event-free survival and overall survival (R-CHOP compared with CHOP) were less than 0.83 and 0.95 respectively.
 R-CHOP was associated with improvements in outcome for both high- and low-risk patients according to age adjusted IPI.
+
 Clinical laboratory findings
 Of 67 patients evaluated for human anti-mouse antibody (HAMA), no responses were noted.
 Of 356 patients evaluated for HACA, 1.1 % (4 patients) were positive.
@@ -174,10 +170,11 @@ Overview of efficacy results for MabThera plus FC vs. FC alone (20.7 months medi
 Response rate and CR rates analysed using Chi-squared Test.
 *: only applicable to patients achieving a CR, nPR, PR; NR: not reached n.a. not applicable
 **: only applicable to patients achieving a CR;
+
 Progression-Free Survival according to Binet stage (ITT)
 
-Progression-free survival (PFS) Numer of patients Hazard Ratio p-value (Wald
-(95% CI) test, not
+Progression-free survival (PFS) Number of Hazard Ratio p-value (Wald
+patients (95% CI) test, not
 FC R-FC adjusted)
 Binet A 22 18 0.13 (0.03; 0.61) 0.0093
 Binet B 257 259 0.45 (0.32; 0.63) <0.0001
@@ -190,7 +187,6 @@ Results from other supportive studies using MabThera in combination with other c
 Clinical Experience in Rheumatoid Arthritis
 
 The efficacy and safety of MabThera in alleviating the symptoms and signs of rheumatoid arthritis was demonstrated in three randomized, controlled, double-blind, multicenter studies.
-
 Study 1 was a double blind comparative study which included 517 patients that had experienced an inadequate response or intolerance to one or more TNF inhibitor therapies.
 Eligible patients had active rheumatoid arthritis for at least 6 months, diagnosed according to the criteria of the American College of Rheumatology (ACR), with swollen joint count (SJC) (8 (66 joint count), and tender joint count (TJC) (8 (68 joint count) and elevated CRP or ESR.
 The primary endpoint was the percent of patients who achieved an ACR20 response at week 24.
@@ -209,6 +205,7 @@ Disease activity outcomes
 In all three studies, rituximab 2 x 1000 mg significantly increased the proportion of patients achieving at least a 20 % improvement in ACR score compared with patients treated with methotrexate alone (Table 7).
 The treatment effect was similar in patients independent of rheumatoid factor status, age, gender, body surface area, race, number of prior treatments or disease status.
 Clinically and statistically significant improvement was also noted on all individual components of the ACR response (tender and swollen joint counts, patient and physician global assessment, disability index scores (HAQ), pain assessment and C-Reactive Proteins (mg/dL).
+
 Table 7 Cross-Study Comparison of ACR Responses at Week 24 (ITT Population)
 
 |  | ACR Response | Placebo+MTX | Rituximab+MTX |
@@ -224,8 +221,7 @@ Table 7 Cross-Study Comparison of ACR Responses at Week 24 (ITT Population)
 MTX – Methotrexate
 
 In study 3, the ACR20 response in patients treated with rituximab alone was 65 % compared with 38 % on methotrexate alone (p=0.025).
-
-Rituximab treated patients had a significantly greater reduction in disease activity score (DAS28) than patients treated with methotrexate alone (Mean change in DAS28 from baseline -1.9 vs -0.4, p<0.0001, respectively).
+Rituximab treated patients had a significantly greater reduction in disease activity score (DAS28) than patients treated with methotrexate alone (Mean change in DAS28 from baseline -1.9 vs. -0.4, p<0.0001, respectively).
 A good to moderate European League Against Rheumatism (EULAR) response was achieved by significantly more rituximab treated patients compared to patients treated with methotrexate alone (Table 9).
 
 Radiographic response
@@ -245,11 +241,11 @@ Table 8 Radiographic mean changes over 56 weeks in Study 1
 | Proportion of patients with no erosive progression over 56 weeks | 52% | 61% p=0.0494 |
 
 Quality of life outcomes
-Significant reductions in disability index (HAQ-DI), fatigue (FACIT-F) (Table 9), and improvement in both the physical and mental health domains of the SF-36 were observed in patients treated with rituximab compared to patients treated with methotrexate alone (SF-36 Physical 5.8 vs 0.9, SF-36 Mental 4.7 vs 1.3, respectively, Study 1).
+Significant reductions in disability index (HAQ-DI), fatigue (FACIT-F) (Table 9), and improvement in both the physical and mental health domains of the SF-36 were observed in patients treated with rituximab compared to patients treated with methotrexate alone (SF-36 Physical 5.8 vs. 0.9, SF-36 Mental 4.7 vs. 1.3, respectively, Study 1).
 
 Table 9 Disease Activity and Quality of Life Outcomes at Week 24 in Study 1
 
-| Week 24 reponse: Change from baseline | Placebo+MTX1 N= 201 mean (SD) | Rituximab+MTX1 N= 298 mean (SD) switch | p-value |
+| Week 24 response: Change from baseline | Placebo+MTX1 N= 201 mean (SD) | Rituximab+MTX1 N= 298 mean (SD) switch | p-value |
 | --- | --- | --- | --- |
 | EULAR Good/moderate | 22% | 65% |  |
 | HAQ2 | -0.1 (0.5) | -0.4 (0.6) | <0.0001 |
@@ -290,21 +286,7 @@ Clinical Experience in Non-Hodgkin’s lymphoma and chronic lymphocytic leukaemi
 
 The ORR was 57 % (95 % Confidence interval (CI); 41 % – 73 %; CR 14 %, PR 43 %) with a projected median TTP for responding patients of 19.4 months (range 5.3 to 38.9 months).
 
-| Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
-| --- | --- | --- | --- | --- |
-|  | Observation (N = 167) | MabThera (N=167) | Log-Rank p value |  |
-| Progression-free survival (PFS) | 14.3 | 42.2 | < 0.0001 | 61 % |
-| Overall Survival | NR | NR | 0.0039 | 56 % |
-| Time to new lymphoma treatment | 20.1 | 38.8 | < 0.0001 | 50 % |
-| Disease-free survivala | 16.5 | 53.7 | 0.0003 | 67 % |
-| Subgroup Analysis PFS CHOP | 11.6 | 37.5 | < 0.0001 | 71 % |
-|  | Observation (N = 167) | MabThera (N=167) | Log-Rank p value |  |
-| R-CHOP CR PR | 22.1 14.3 14.3 | 51.9 52.8 37.8 | 0.0071 0.0008 < 0.0001 | 46 % 64 % 54 % |
-| OS CHOP R-CHOP | NR NR | NR NR | 0.0348 0.0482 | 55 % 56 % |
-
 The primary endpoint of progression-free survival was 40 months in median in the R-FC group and 32 months in the FC group (p < 0.0001, log-rank test).
-
-Overview of efficacy results for MabThera plus FC vs FC alone (20.7 months median observation time)
 
 | Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
 | --- | --- | --- | --- | --- |

@@ -20,7 +20,7 @@ Other serious ADRs reported include hepatitis B reactivation and PML (see sectio
 
 The frequencies of ADRs reported with MabThera alone or in combination with chemotherapy are summarised in the tables below.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100).
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100) and rare (≥ 1/10,000 to < 1/1000).
 The ADRs identified only during post-marketing surveillance, and for which a frequency could not be estimated, are listed under “unknown”.
 
 Table 1 ADRs reported in clinical trials or during postmarketing surveillance in patients with NHL and CLL disease treated with MabThera monotherapy/maintenance or in combination with chemotherapy
@@ -72,13 +72,13 @@ These cases occurred in non-approved indications and the majority of patients we
 Haematologic Adverse Reactions
 In clinical trials with MabThera monotherapy given for 4 weeks, haematological abnormalities occurred in a minority of patients and were usually mild and reversible.
 Severe (grade 3/4) neutropenia was reported in 4.2 %, anaemia in 1.1 % and thrombocytopenia in 1.7 % of the patients.
-During MabThera maintenance treatment for up to 2 years, leucopenia (5 % vs 2 %, grade 3/4) and neutropenia (10 % vs.4 %, grade 3/4) were reported at a higher incidence when compared to observation.
+During MabThera maintenance treatment for up to 2 years, leucopenia (5 % vs. 2 %, grade 3/4) and neutropenia (10 % vs. 4 %, grade 3/4) were reported at a higher incidence when compared to observation.
 The incidence of thrombocytopenia was low ( <1 , grade 3/4%) and was not different between treatment arms.
-In studies with MabThera in combination with chemotherapy, grade 3/4 leucopenia (R-CHOP 88 % vs CHOP 79 %, R-FC 23 % vs FC 12 %), neutropenia (R-CVP 24 % vs CVP 14 %; R-CHOP 97 % vs. CHOP 88 %, R-FC 30 % vs. FC 19 %), pancytopenia (R-FC 3 % vs FC 1 %) were reported higher frequencies when compared to chemotherapy alone.
+In studies with MabThera in combination with chemotherapy, grade 3/4 leucopenia (R-CHOP 88 % vs. CHOP 79 %, R-FC 23 % vs. FC 12 %), neutropenia (R-CVP 24 % vs. CVP 14 %; R-CHOP 97 % vs. CHOP 88 %, R-FC 30 % vs. FC 19 %), pancytopenia (R-FC 3 % vs. FC 1 %) were reported higher frequencies when compared to chemotherapy alone.
 However, the higher incidence of neutropenia in patients treated with MabThera and chemotherapy was not associated with a higher incidence of infections and infestations compared to patients treated with chemotherapy alone and the neutropenia was not prolonged in the MabThera group.
 There were no differences reported for the incidence of thrombocytopenia or anaemia.
 Some cases of late neutropenia occurring more than four weeks after the last infusion of MabThera were reported.
-In the CLL first-line study, Binet stage C patients experienced more adverse events in the R-FC arm compared to the FC arm (R-FC 83% vs FC 71%).
+In the CLL first-line study, Binet stage C patients experienced more adverse events in the R-FC arm compared to the FC arm (R-FC 83% vs. FC 71%).
 
 In studies of MabThera in patients with Waldenstrom’s macroglobulinaemia, transient increases in serum IgM levels have been observed following treatment initiation, which may be associated with hyperviscosity and related symptoms.
 The transient IgM increase usually returned to at least baseline level within 4 months.
@@ -100,8 +100,9 @@ In contrast, three patients (1.5 %) had cerebrovascular events in the CHOP group
 In the CLL first-line study, the overall incidence of grade 3 or 4 nervous system disorders was low (4 % R-FC, 4 % FC).
 
 Gastrointestinal Disorders
-Gastrointestinal perforation in some cases leading to death has been observed in patients receiving MabThera for treatment of non Hodgin lymphoma.
+Gastrointestinal perforation in some cases leading to death has been observed in patients receiving MabThera for treatment of non Hodgkin lymphoma.
 In the majority of these cases, MabThera was administered with chemotherapy.
+
 IgG levels
 In the clinical trial evaluating MabThera maintenance treatment, median IgG levels were below the lower limit of normal (LLN) (< 7 g/L) after induction treatment in both the observation and the MabThera groups.
 In the observation group, the median IgG level subsequently increased to above the LLN, but remained constant in the MabThera group.
@@ -118,11 +119,12 @@ The incidence of ADRs of any grade was similar in these two groups.
 Re-treatment
 The percentage of patients reporting ADRs upon re-treatment with further courses of MabThera was similar to the percentage of patients reporting ADRs upon initial exposure (any grade and grade 3/4 ADRs).
 
-Experience from rheumatoid arthritis clinical trials
+Experience from rheumatoid arthritis
+
+The overall safety profile of MabThera in rheumatoid arthritis is based on data from patients from clinical trials and from post-marketing surveillance.
 
 The clinical efficacy of MabThera, given together with methotrexate was studied in three double blind controlled clinical trials (one phase III two phase II trials) in patients with rheumatoid arthritis.
 More than 1000 patients received at least one treatment course and were followed for periods ranging from 6 months to over 3 years; nearly 600 patients received two or more courses of treatment during the follow up period.
-
 Patients received 2 x 1000 mg of MabThera separated by an interval of two weeks; in addition to methotrexate (10-25 mg/week).
 MabThera infusions were administered after an intravenous infusion of 100 mg methylprednisolone; patients also received treatment with oral prednisone for 15 days.
 ADRs, which occurred with at least a 2 % difference compared to the control arm and more frequently by patients who had received at least one infusion of MabThera than among patients that had received placebo in the phase III trial and the combined population included in phase II studies, are listed in the Table below.
@@ -132,37 +134,29 @@ Within each frequency grouping, undesirable effects are presented in order of de
 The most frequent adverse reactions considered due to receipt of 2x1000 mg MabThera in Phase II and III studies were acute infusion reactions.
 Infusion reactions occurred in 15 % patients following the first infusion of rituximab and 5 % in placebo patients.
 Infusion reactions decreased to 2 % following the second infusion in both rituximab and placebo groups.
-Table 2 Summary of Adverse Drug Reactions Occurring in Patients with Rheumatoid Arthritis receiving MabThera during Phase II and III Clinical Studies
+The safety information collected during post marketing experience reflects the expected adverse reaction profile as seen in clinical trials for MabThera (see section 4.4).
 
-|  | Pooled Phase II Study Population |  | Phase III Study Population |  |
-| --- | --- | --- | --- | --- |
-|  | Very Common | Common | Very Common | Common |
-| Infusion related reactions * |  | hypertension, rash, pruritus, chills, pyrexia, rhinitis, throat irritation |  | hypertension, nausea, rash, pyrexia, pruritus, urticaria, throat irritation, hot flush, hypotension |
-| Gastrointestinal Disorders |  | dyspepsia |  | dyspepsia |
-| Infections and Infestations | any infection | urinary tract infections | any infection, upper respiratory tract infection |  |
-| Metabolism and Nutritional Disorders |  |  |  | hypercholesterolae mia |
-| Musculo skeletal disorders |  | arthralgia / musculoskeletal pain |  | arthralgia / musculoskeletal pain, osteoarthritis |
-| Nervous System disorders |  | migraine |  | paraesthesia |
-| † This table include all events with an incidence difference of ≥ 2 % for rituximab compared to placebo * Reactions occurring during or within 24 hours of infusion |  |  |  |  |
+Table 2 Summary of Adverse Drug Reactions Reported in Clinical Trials or During Postmarketing Surveillance Occurring in Patients with Rheumatoid Arthritis receiving MabThera
 
-The following terms have been reported as adverse events, however, were reported at a similar incidence in the MabThera-arms compared to control arms: lower respiratory tract infections/pneumonia, abdominal pain upper, muscle spasms and asthenia.
+| System Organ Class | Very Common | Common | Uncommon |
+| --- | --- | --- | --- |
+| Infections and Infestations | any infection, upper respiratory tract infection | urinary tract infections |  |
+| Immune System Disorders | *Infusion related reactions (nausea, chills, rhinitis, urticaria hot flush) hypertension, rash, pyrexia, pruritus, throat irritation and hypotension |  | *Infusion related reactions (generalized oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalized pruritis, anaphylaxis, anaphylactoid reaction) |
+| General disorders and administration site conditions |  |  |  |
+| Metabolism and Nutritional Disorders |  | hypercholesterolemia |  |
+| Nervous System disorders |  | Paraesthesia, migraine |  |
+| Gastrointestinal Disorders |  | dyspepsia |  |
+| Musculo skeletal disorders |  | arthralgia / musculoskeletal pain, osteoarthritis |  |
+| *Reactions occurring during or within 24 hours of infusion. See also infusion-related reactions below. Infusion related reactions may occur as a result of hypersensitivity and/or to the mechanism of action. |  |  |  |
 
-In addition to the events tabulated above, medically significant events reported uncommonly in the rituximab treated population and considered potential reactions to treatment include the following:
-
-General Disorders: Generalized oedema
-Respiratory Disorders: Bronchospasm, wheezing, laryngeal oedema
-
-Skin and Subcutaneous Disorders: Angioneurotic oedema, generalized pruritis
-
-Immune system Disorders: Anaphylaxis, anaphylactoid reaction.
+The following terms have been reported as adverse events during clinical trials, however, were reported at a similar incidence in the MabThera-arms compared to control arms: lower respiratory tract infections/pneumonia, abdominal pain upper, muscle spasms and asthenia.
 
 Multiple Courses
 The limited clinical trial data on multiple courses of treatment of RA patients seem to be associated with a similar ADR profile to that observed following first exposure.
 However, worsening of infusion or allergic reactions and failure to B cell deplete following rituximab cannot be excluded in HACA positive patients after repeated exposure to rituximab on the basis of available data.
 The incidence of acute infusion reactions following subsequent treatment courses was generally lower than the incidence following the first infusion of MabThera.
-
-Acute Infusion reactions
-Symptoms suggesting an acute infusion reaction (pruritis, fever, urticaria/rash, chills, pyrexia, rigors, sneezing, angioneurotic edema, throat irritation, cough and bronchospasm, with or without associated hypotension or hypertension) were observed in 79/540 (15 %) patients following their first exposure to MabThera; In a study comparing the effect of glucocorticoid regimen, these events were observed in 5/149 (3 %) of patients following their first rituximab placebo infusion and 42/192 (22 %) of patients receiving their first infusion of 1000 mg rituximab.
+Infusion-related reactions
+Symptoms suggesting an acute infusion reaction (e.g. pruritis, fever, urticaria/rash, chills, pyrexia, rigors, sneezing, angioneurotic edema, throat irritation, cough and bronchospasm, with or without associated hypotension or hypertension) were observed in 79/540 (15 %) patients following their first exposure to MabThera; In a study comparing the effect of glucocorticoid regimen, these events were observed in 5/149 (3 %) of patients following their first rituximab placebo infusion and 42/192 (22 %) of patients receiving their first infusion of 1000 mg rituximab.
 Premedication with intravenous glucocorticoid significantly reduced the incidence and severity of these events.
 Of the patients who received 1000 mg rituximab without premedication with glucocorticoids, 18/65 (28 %) experienced an acute infusion reaction, compared with 24/127 (19 %) in patients given intravenous glucocorticoid premedication, respectively.
 
@@ -206,15 +200,4 @@ In placebo controlled studies, serious cardiac events were reported equally in M
 | Investigations | decreased IgG levels |  |  |  |
 | For each term, the frequency count was based on reactions of all grades (from mild to severe), except for terms marked with "+" where the frequency count was based only on severe (≥ grade 3 NCI common toxicity criteria) reactions. Only the highest frequency observed in the trials is reported 1 see also section infection below 2 see also section haematologic adverse reactions below 3 see also section infusion-related reactions below. Rarely fatal cases reported 4 signs and symptoms of cranial neuropathy. Occurred at various times up to several months after completion of MabThera therapy 5 observed mainly in patients with prior cardiac condition and/or cardiotoxic chemotherapy and were mostly associated with infusion-related reactions 6 includes fatal cases |  |  |  |  |
 
-In studies with MabThera in combination with chemotherapy, grade 3/4 leucopenia (R-CHOP 88 % vs CHOP 79 %, R-FC 23 % vs 12 % FC), neutropenia (R-CVP 24 % vs CVP 14 %; R-CHOP 97 % vs. CHOP 88 %, R-FC 30 % vs. FC 19 %), pancytopenia (R-FC 3 % vs FC 1 %) were reported higher frequencies when compared to chemotherapy alone.
-
-|  | Pooled Phase II Study Population |  | Phase III Study Population |  |
-| --- | --- | --- | --- | --- |
-|  | Very Common | Common | Very Common | Common |
-| Infusion related reaction * |  | hypertension, rash, pruritus, chills, pyrexia, rhinitis, throat irritation |  | hypertension, nausea, rash, pyrexia, pruritus, urticaria, throat irritation, hot flush, hypotension |
-| Gastrointestinal Disorders |  | dyspepsia |  | Dyspepsia |
-| Infections and Infestations | any infection | urinary tract infections | any infection, upper respiratory tract infection |  |
-| Metabolism and Nutritional Disorders |  |  |  | Hypercholesterolaemi a |
-| Musculo skeletal disorders |  | arthralgia / musculoskeletal pain |  | arthralgia / musculoskeletal pain, osteoarthritis |
-| Nervous System disorders |  | migraine |  | Paraesthesia |
-| † This table include all events with an incidence difference of ≥ 2 % for rituximab compared to placebo * Reactions occurring during or within 24 hours of infusion |  |  |  |  |
+In studies with MabThera in combination with chemotherapy, grade 3/4 leucopenia (R-CHOP 88 % vs. CHOP 79 %, R-FC 23 % vs. 12 % FC), neutropenia (R-CVP 24 % vs. CVP 14 %; R-CHOP 97 % vs. CHOP 88 %, R-FC 30 % vs. FC 19 %), pancytopenia (R-FC 3 % vs. FC 1 %) were reported higher frequencies when compared to chemotherapy alone.

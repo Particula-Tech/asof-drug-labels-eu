@@ -11,6 +11,7 @@ No dose reductions of MabThera are recommended.
 When MabThera is given in combination with chemotherapy, standard dose reductions for the chemotherapeutic medicinal products should be applied.
 
 Follicular non-Hodgkin's lymphoma
+
 Combination therapy
 The recommended dose of MabThera in combination with chemotherapy for induction treatment of previously untreated or relapsed/ refractory patients with follicular NHL is: 375 mg/m2 body surface area per cycle, for up to 8 cycles.
 Mabthera should be administered on day 1 of each chemotherapy cycle, after intravenous administration of the glucocorticoid component of the chemotherapy if applicable.
@@ -70,7 +71,7 @@ No dose adjustment is required in elderly patients (aged >65 years).
 Method of Administration
 Premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing chemotherapy for treatment of non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia.
 
-Premedication consisting of an anti-pyretic and an antihistaminic, e.g. paracetamol and diphenhydramine, should always be administered bedore each infusion of MabThera.
+Premedication consisting of an anti-pyretic and an antihistaminic, e.g. paracetamol and diphenhydramine, should always be administered before each infusion of MabThera.
 
 First infusion
 The recommended initial rate for infusion is 50 mg/hr; after the first 30 minutes, it can be escalated in 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
@@ -89,7 +90,3 @@ If the same severe adverse reactions occur for a second time, the decision to st
 
 Mild or moderate infusion-related reactions (section 4.8) usually respond to a reduction in the rate of infusion.
 The infusion rate may be increased upon improvement of symptoms.
-
-[MabThera 500 mg (10 mg/ml) concentrate for solution for infusion]
-
-Premedication consisting of an anti-pyretic and an antihistaminic, e.g. paracetamol and diphenhydramine, should always be administered before each infusion of MabThera.
