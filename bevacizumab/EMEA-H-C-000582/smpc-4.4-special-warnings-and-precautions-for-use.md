@@ -52,11 +52,13 @@ Patients may be at risk of developing venous thromboembolic events, including pu
 Avastin should be discontinued in patients with life-threatening (Grade 4) pulmonary embolism, patients with ≤Grade 3 need to be closely monitored.
 
 Haemorrhage
-The risk of CNS haemorrhage in patients with CNS metastases receiving Avastin could not be fully evaluated, as these patients were excluded from clinical trials.
-Thus, Avastin should not be used in these patients (see sections 4.3 and 4.8).
 
 Patients treated with Avastin have an increased risk of haemorrhage, especially tumour-associated haemorrhage.
 Avastin should be discontinued permanently in patients who experience Grade 3 or 4 bleeding during Avastin therapy (see section 4.8).
+
+Patients with untreated CNS metastases were routinely excluded from clinical trials with Avastin, based on imaging procedures or signs and symptoms.
+Therefore, the risk of CNS haemorrhage in such patients has not been prospectively evaluated in randomised clinical studies (see section 4.8).
+Patients should be monitored for signs and symptoms of CNS bleeding, and Avastin treatment discontinued in case of intracranial bleeding.
 
 There is no information on the safety profile of Avastin in patients with congenital bleeding diathesis, acquired coagulopathy or in patients receiving full dose of anticoagulants for the treatment of thromboembolism prior to starting Avastin treatment, as such patients were excluded from clinical trials.
 Therefore, caution should be exercised before initiating therapy in these patients.

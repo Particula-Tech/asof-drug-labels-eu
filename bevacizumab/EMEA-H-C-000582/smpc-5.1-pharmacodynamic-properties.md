@@ -9,6 +9,7 @@ Neutralising the biological activity of VEGF regresses the vascularisation of tu
 Pharmacodynamic effects
 Administration of bevacizumab or its parental murine antibody to xenotransplant models of cancer in nude mice resulted in extensive anti-tumour activity in human cancers, including colon, breast, pancreas and prostate.
 Metastatic disease progression was inhibited and microvascular permeability was reduced.
+
 Clinical efficacy
 
 Metastatic carcinoma of the colon or rectum (mCRC)
@@ -236,6 +237,7 @@ An overall survival benefit has been demonstrated in study E4599 with a 15 mg/kg
 Study BO17704 has demonstrated that both 7.5 mg/kg/q3wk and 15 mg/kg/q3wk bevacizumab doses increase progression free survival and response rate.
 Due to the short duration of follow-up in study BO17704 no conclusions can be drawn regarding a benefit in overall survival.
 
+E4599
 E4599 was an open-label, randomised, active-controlled, multicentre clinical trial evaluating Avastin as first-line treatment of patients with locally advanced (stage IIIb with malignant pleural effusion), metastatic or recurrent NSCLC other than predominantly squamous cell histology.
 
 Patients were randomized to platinum-based chemotherapy (paclitaxel 200 mg/m2 and carboplatin AUC = 6.0, both by IV infusion) (PC) on day 1 of every 3-week cycle for up to 6 cycles or PC in combination with Avastin at a dose of 15 mg/kg IV infusion day 1 of every 3-week cycle.
@@ -263,12 +265,14 @@ Table 9 Efficacy results for study E4599
 
 In an exploratory analysis, the extent of Avastin benefit on overall survival was less pronounced in the subgroup of patients who did not have adenocarcinoma histology.
 
+BO17704
 Study BO17704 was a randomised, double-blind phase III study of Avastin in addition to cisplatin and gemcitabine versus placebo, cisplatin and gemcitabine in patients with locally advanced (stage IIIb with supraclavicular lymph node metastases or with malignant pleural or pericardial effusion), metastatic or recurrent non-squamous NSCLC, who had not received prior chemotherapy.
-The primary endpoint was progression free survival (PFS).
+The primary endpoint was progression free survival, secondary endpoints for the study included the duration of overall survival.
 
 Patients were randomised to platinum-based chemotherapy, cisplatin 80 mg/m2 i.v. infusion on day 1 and gemcitabine 1250 mg/m2 i.v. infusion on days 1 and 8 of every 3-week cycle for up to 6 cycles (CG) with placebo or CG with Avastin at a dose of 7.5 or 15 mg/kg IV infusion day 1 of every 3-week cycle.
 In the Avastin-containing arms, patients could receive Avastin as a single-agent every 3 weeks until disease progression or unacceptable toxicity.
 Study results show that 94% (277 / 296) of eligible patients went on to receive single agent bevacizumab at cycle 7.
+A high proportion of patients (approximately 62%) went on to receive a variety of non-protocol specified anti-cancer therapies, which may have impacted the analysis of overall survival.
 
 The efficacy results are presented in Table 10.
 Table 10 Efficacy results for study BO17704
@@ -281,6 +285,11 @@ Table 10 Efficacy results for study BO17704
 
 a patients with measurable disease at baseline
 
+| Overall Survival |  |  |  |
+| --- | --- | --- | --- |
+| Median (months) | 13.1 | 13.6 (p = 0.4203) | 13.4 (p = 0.7613) |
+| Hazard ratio |  | 0.93 [0.78; 1.11] | 1.03 [0.86, 1.23] |
+
 Advanced and/or metastatic Renal Cell Cancer (mRCC)
 
 Avastin in Combination with Interferon alfa-2a for the First-Line Treatment of Advance and/ or Metastatic Renal Cell Cancer (BO17705)
@@ -291,12 +300,15 @@ Patients were nephrectomised for primary renal cell carcinoma.
 Avastin 10 mg/kg was given every 2 weeks until disease progression.
 IFN alfa-2a was given up to 52 weeks or until disease progression at a recommend starting dose of 9 MIU three times a week, allowing a dose reduction to 3 MIU three times a week in 2 steps.
 Patients were stratified according to country and Motzer score and the treatment arms were shown to be well balanced for the prognostic factors.
+
 At the data cut-off, 505 progression events had occurred, 111 patients remained on treatment, 287 had discontinued (discontinuations of trial treatment due to AEs were 12% with IFN alfa-2a vs. 28% with IFN alfa-2a +Avastin), and 251 died.
 Ninety seven (97) patients in the IFN alfa-2a arm and 131 patients in the Avastin arm reduced the dose of IFN alfa-2a from 9 MIU to either 6 or 3 MIU three times a week as pre-specified in the protocol.
 Dose-reduction of IFN alfa-2a did not appear to affect the efficacy of the combination of Avastin and IFN alfa-2a based on PFS event free rates over time, as shown by a sub-group analysis.
 The 131 patients in the Avastin + IFN alfa-2a arm who reduced and maintained the IFN alfa-2a dose at 6 or 3 MIU during the study, exhibited at 6, 12 and 18 months PFS event free rates of 73, 52 and 21% respectively, as compared to 61, 43 and 17% in the total population of patients receiving Avastin + IFN alfa-2a.
-The addition of Avastin to IFN alfa-2a significantly increased PFS and objective tumour response rate (Table 11).
-The overall survival (OS) data were not mature at the time of the interim analysis.
+The addition of Avastin to IFN alfa-2a significantly increased PFS and objective tumour response rate.
+Investigator-assessed median PFS was 10.2 months for Avastin plus IFN-alfa-2a, and 5.4 months for placebo plus IFN-alfa-2a (see Table 11).
+An independent review of progression and response assessments confirmed the investigator-assessed PFS and ORR results.
+The overall survival (OS) data were not mature at the time of the final PFS analysis.
 Table 11 Efficacy Results for Study BO17705
 
 |  | BO17705 |

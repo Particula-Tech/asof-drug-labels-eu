@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
 The overall safety profile of Avastin is based on data from over 3,500 patients with various malignancies, predominantly treated with Avastin in combination with chemotherapy in clinical trials.
+
 The most serious adverse drug reactions were:
 
 - Gastrointestinal perforations (see section 4.4).
@@ -30,8 +31,8 @@ Table 1: Very Common and Common Adverse Drug Reactions
 | Metabolism and nutrition disorders |  | Dehydration | Anorexia |
 | Nervous system disorders | Peripheral sensory neuropathy | Cerebrovascular accident Syncope Somnolence Headache | Dysgeusia Headache |
 | Eye disorders |  |  | Eye disorder |
-| Cardiac disorders |  | Cardiac failure congestive Supraventricular tachycardia |  |
 |  | Very common | Common | Very Common |
+| Cardiac disorders |  | Cardiac failure congestive Supraventricular tachycardia |  |
 | Vascular disorders | Hypertension | Thromboembolism (arterial)* Deep vein thrombosis Haemorrhage | Hypertension |
 | Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism Dyspnoea Hypoxia Epistaxis | Dyspnoea Epistaxis Rhinitis |
 | Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal Perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder | Constipation Stomatitis Rectal haemorrhage |
@@ -53,6 +54,7 @@ Fatal outcome was reported in approximately a third of serious cases of gastroin
 
 The presentation of these events varied in type and severity, ranging from free air seen on the plain abdominal X-ray, which resolved without treatment, to intestinal perforation with abdominal abscess and fatal outcome.
 In some cases underlying intra-abdominal inflammation was present, either from gastric ulcer disease, tumour necrosis, diverticulitis, or chemotherapy-associated colitis.
+
 Fistulae (see section 4.4):
 Avastin use has been associated with serious cases of fistulae including events resulting in death.
 
@@ -108,7 +110,11 @@ Major or massive pulmonary haemorrhage/haemoptysis can occur suddenly and up to 
 
 Gastrointestinal haemorrhages, including rectal bleeding and melaena have been reported in colorectal cancer patients, and have been assessed as tumour-associated haemorrhages.
 
-Tumour-associated haemorrhage was also seen rarely in other tumour types and locations, including a case of central nervous system (CNS) bleeding in a patient with hepatoma with occult CNS metastases (see section 4.3) and another patient who developed continuous oozing of blood from a thigh sarcoma with necrosis.
+Tumour-associated haemorrhage was also seen rarely in other tumour types and locations, including cases of central nervous system (CNS) bleeding in patients with CNS metastases (see section 4.4).
+
+The incidence of CNS bleeding in patients with untreated CNS metastases receiving bevacizumab has not been prospectively evaluated in randomised clinical studies.
+In an exploratory retrospective analysis of data from 13 completed randomised trials in patients with various tumour types, 3 patients out of 91 (3.3%) with brain metastases experienced CNS bleeding (all Grade 4) when treated with bevacizumab, compared to 1 case (Grade 5) out of 96 patients (1%) that were not exposed to bevacizumab.
+In two ongoing studies in patients with treated brain metastases, one case of Grade 2 CNS haemorrhage was reported in 83 subjects treated with bevacizumab (1.2%) at the time of interim safety analysis.
 
 Across all clinical trials, mucocutaneous haemorrhage has been seen in 20% - 40% of Avastin-treated patients.
 These were most commonly NCI-CTC Grade 1 epistaxis that lasted less than 5 minutes, resolved without medical intervention and did not require any changes in the Avastin treatment regimen.
@@ -120,7 +126,6 @@ Thromboembolism (see section 4.4):
 
 Arterial thromboembolism:
 An increased incidence of arterial thromboembolic events was observed in patients treated with Avastin across indications, including cerebrovascular accidents, myocardial infarction, transient ischemic attacks, and other arterial thromboembolic events.
-
 In clinical trials, the overall incidence of arterial thromboembolic events ranged up to 3.8% in the Avastin containing arms compared with up to 1.7% in the chemotherapy control arms.
 Fatal outcome was reported in 0.8% of patients receiving Avastin compared to 0.5% in patients receiving chemotherapy alone.
 Cerebrovascular accidents (including transient ischemic attacks) were reported in up to 2.3% of patients treated with Avastin in combination with chemotherapy compared to 0.5% of patients treated with chemotherapy alone.
@@ -154,7 +159,6 @@ In randomised clinical trials, age > 65 years was associated with an increased r
 Other reactions with a higher frequency seen in patients over 65 were grade 3-4 leucopenia and thrombocytopenia; and all grade neutropenia, diarrhoea, nausea, headache and fatigue as compared to those aged ≤ 65 years when treated with Avastin (see sections 4.4 and 4.8 under Thromboembolism).
 
 No increase in the incidence of other reactions, including gastrointestinal perforation, wound healing complications, hypertension, proteinuria, congestive heart failure, and haemorrhage was observed in elderly patients (> 65 years) receiving Avastin as compared to those aged ≤ 65 years treated with Avastin.
-
 Laboratory Abnormalities:
 Decreased neutrophil count, decreased white blood cell count and presence of urine protein may be associated with Avastin treatment.
 
