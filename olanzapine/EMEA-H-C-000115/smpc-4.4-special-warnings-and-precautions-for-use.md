@@ -32,11 +32,14 @@ If a patient develops signs and symptoms indicative of NMS, or presents with une
 Hyperglycaemia and diabetes
 Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been reported rarely, including some fatal cases (see section 4.8).
 In some cases, a prior increase in body weight has been reported which may be a predisposing factor.
-Appropriate clinical monitoring is advisable particularly in diabetic patients and in patients with risk factors for the development of diabetes mellitus for which regular glucose control is recommended.
+Appropriate clinical monitoring is advisable in accordance with utilised antipsychotic guidelines.
+Patients treated with any antipsychotic agents, including ZYPREXA, should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia, and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control.
+Weight should be monitored regularly.
 
 Lipid alterations
 Undesirable alterations in lipids have been observed in olanzapine-treated patients in placebo-controlled clinical trials (see section 4.8).
 Lipid alterations should be managed as clinically appropriate, particularly in dyslipidemic patients and in patients with risk factors for the development of lipids disorders.
+Patients treated with any antipsychotic agents, including ZYPREXA, should be monitored regularly for lipids in accordance with utilised antipsychotic guidelines.
 
 Anticholinergic activity
 While olanzapine demonstrated anticholinergic activity in vitro, experience during the clinical trials revealed a low incidence of related events.
@@ -47,7 +50,6 @@ Transient, asymptomatic elevations of hepatic transaminases, ALT, AST have been 
 Caution should be exercised in patients with elevated ALT and/or AST, in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic medicines.
 In the event of elevated ALT and/or AST during treatment, follow-up should be organised and dose reduction should be considered.
 In cases where hepatitis (including hepatocellular, cholestatic or mixed liver injury) has been diagnosed, olanzapine treatment should be discontinued.
-
 Neutropenia
 Caution should be exercised in patients with low leukocyte and/or neutrophil counts for any reason, in patients receiving medicines known to cause neutropenia, in patients with a history of drug-induced bone marrow depression/toxicity, in patients with bone marrow depression caused by concomitant illness, radiation therapy or chemotherapy and in patients with hypereosinophilic conditions or with myeloproliferative disease.
 Neutropenia has been reported commonly when olanzapine and valproate are used concomitantly (see section 4.8).
@@ -56,11 +58,11 @@ Discontinuation of treatment
 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely (<0.01%) when olanzapine is stopped abruptly.
 
 QT interval
-In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] � 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF<500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
+In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF<500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
 However, as with other antipsychotics, caution should be exercised when olanzapine is prescribed with medicines known to increase QTc interval, especially in the elderly, in patients with congenital long QT syndrome, congestive heart failure, heart hypertrophy, hypokalaemia or hypomagnesaemia.
 
 Thromboembolism
-Temporal association of olanzapine treatment and venous thromboembolism has very rarely (< 0.01%) been reported. .
+Temporal association of olanzapine treatment and venous thromboembolism has very rarely (< 0.01%) been reported.
 A causal relationship between the occurrence of venous thromboembolism and treatment with olanzapine has not been established.
 However, since patients with schizophrenia often present with acquired risk factors for venous thromboembolism all possible risk factors of VTE e.g. immobilisation of patients, should be identified and preventive measures undertaken.
 
@@ -86,16 +88,17 @@ Use in children and adolescents under 18 years of age
 Olanzapine is not indicated for use in the treatment of children and adolescents.
 Studies in patients aged 13-17 years showed various adverse reactions, including weight gain, changes in metabolic parameters and increases in prolactin levels.
 Long-term outcomes associated with these events have not been studied and remain unknown (see sections 4.8 and 5.1).
-
 Lactose
 ZYPREXA tablets contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 [ZYPREXA 5 mg coated tablets]
 
+Patients treated with any antipsychotic agents, including ZYPREXA should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia, and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control.
+
 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely (< 0.01%) when olanzapine is stopped abruptly.
 
-In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] � 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF< 500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
+In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF< 500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
 
 Lactose: ZYPREXA tablets contain lactose.
 
@@ -139,7 +142,7 @@ The safety and efficacy of IM olanzapine has not been evaluated in patients with
 
 While olanzapine demonstrated anticholinergic activity in vitro, experience during oral clinical trials revealed a low incidence of related events.
 
-In clinical trials with oral administration, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] �500 milliseconds [msec] at any time post baseline in patients with baseline QTcF<500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
+In clinical trials with oral administration, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥500 milliseconds [msec] at any time post baseline in patients with baseline QTcF<500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
 In clinical trials with ZYPREXA powder for solution for injection, olanzapine was not associated with a persistent increase in absolute QT or in QTc intervals.
 
 In comparator oral studies of one year or less duration, olanzapine was associated with a statistically significant lower incidence of treatment emergent dyskinesia.

@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antipsychotic, ATC code: N05A H03.
+Pharmacotherapeutic group: diazepines, oxazepines and thiazepines ATC code: N05A H03.
 
 Olanzapine is an antipsychotic, antimanic and mood stabilising agent that demonstrates a broad pharmacologic profile across a number of receptor systems.
 
@@ -38,7 +38,7 @@ There are no data on maintenance of effect and limited data on long term safety 
 
 [ZYPREXA 5 mg coated tablets]
 
-Pharmacotherapeutic group: antipsychotic, ATC code N05A H03.
+Pharmacotherapeutic group: diazepines, oxazepines and thiazepines, ATC code N05A H03.
 
 Olanzapine demonstrated a greater in-vitro affinity for serotonin 5HT2 than dopamine D2 receptors and greater 5 HT2 than D2 activity in vivo, models.
 
@@ -46,7 +46,7 @@ In a multinational, double-blind, comparative study of schizophrenia, schizoaffe
 
 [ZYPREXA 7.5 mg coated tablets]
 
-(all sentences already above)
+Pharmacotherapeutic group:, diazepines, oxazepines and thiazepines, ATC code N05A H03.
 
 [ZYPREXA 10 mg coated tablets.]
 

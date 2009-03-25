@@ -23,7 +23,6 @@ Olanzapine had no teratogenic effects.
 Sedation affected mating performance of male rats.
 Estrous cycles were affected at doses of 1.1 mg/kg (3 times the maximum human dose) and reproduction parameters were influenced in rats given 3 mg/kg (9 times the maximum human dose).
 In the offspring of rats given olanzapine, delays in fetal development and transient decreases in offspring activity levels were seen.
-
 Mutagenicity
 Olanzapine was not mutagenic or clastogenic in a full range of standard tests, which included bacterial mutation tests and in vitro and in vivo mammalian tests.
 

@@ -19,10 +19,10 @@ However, olanzapine (5-20 mg) demonstrated a comparable safety profile in female
 
 In renally impaired patients (creatinine clearance < 10 ml/min) versus healthy subjects, there was no significant difference in mean elimination half-life (37.7 versus 32.4 hr) or clearance (21.2 versus 25.0 l/hr).
 A mass balance study showed that approximately 57 % of radiolabelled olanzapine appeared in urine, principally as metabolites.
-
 In smoking subjects with mild hepatic dysfunction, mean elimination half-life (39.3 hr) was prolonged and clearance (18.0 l/hr) was reduced analogous to non-smoking healthy subjects (48.8 hr and 14.1 l/hr, respectively).
 
 In non-smoking versus smoking subjects (males and females) the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
+
 The plasma clearance of olanzapine is lower in elderly versus young subjects, in females versus males, and in non-smokers versus smokers.
 However, the magnitude of the impact of age, gender, or smoking on olanzapine clearance and half-life is small in comparison to the overall variability between individuals.
 
