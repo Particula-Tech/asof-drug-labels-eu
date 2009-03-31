@@ -1,16 +1,14 @@
 # 4.4 Special warnings and precautions for use
 
-Gastrointestinal
-
+Gastrointestinal toxicity
 Gastrointestinal toxicity, including nausea, diarrhoea, vomiting and constipation are very common with VELCADE treatment.
-Cases of ileus have been reported, therefore patients who experience constipation should be closely monitored.
+Cases of ileus have been uncommonly reported (see section 4.8); therefore patients who experience constipation should be closely monitored.
 
-Haematological
-
+Haematological toxicity
 VELCADE treatment is very commonly associated with haematological toxicities (thrombocytopenia, neutropenia and anaemia).
 The most common haematologic toxicity is transient thrombocytopenia.
 Platelets were lowest at Day 11 of each cycle of VELCADE treatment.
-There was no evidence of cumulative thrombocytopenia, including in the phase II extension study.
+There was no evidence of cumulative thrombocytopenia, including in the Phase II extension study.
 The mean platelet count nadir measured was approximately 40% of baseline.
 In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts <75,000/μl, 90% of 21 patients had a count ≤25,000/μl during the study, including 14% <10,000/μl; in contrast, with a baseline platelet count >75,000/μl, only 14% of 309 patients had a count ≤25×109/l during the study.
 Platelet counts should be monitored prior to each dose of VELCADE.
@@ -19,8 +17,7 @@ Potential benefit of the treatment should be carefully weighed against the risks
 
 Therefore, complete blood counts (CBC) including platelet counts should be frequently monitored throughout treatment with VELCADE.
 
-Peripheral Neuropathy
-
+Peripheral neuropathy
 Treatment with VELCADE is very commonly associated with peripheral neuropathy, which is predominantly sensory.
 However, cases of severe motor neuropathy with or without sensory peripheral neuropathy have been reported.
 The incidence of peripheral neuropathy increases early in the treatment and has been observed to peak during cycle 5.
@@ -28,18 +25,15 @@ The incidence of peripheral neuropathy increases early in the treatment and has 
 It is recommended that patients be carefully monitored for symptoms of neuropathy such as a burning sensation, hyperesthesia, hypoesthesia, paraesthesia, discomfort, neuropathic pain or weakness.
 Patients experiencing new or worsening peripheral neuropathy should undergo neurological evaluation and may require the dose and schedule of VELCADE to be modified (see section 4.2).
 Neuropathy has been managed with supportive care and other therapies.
-Improvement in, or resolution of, peripheral neuropathy was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy in the single agent phase III multiple myeloma study and 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in phase II studies, respectively.
+Improvement in, or resolution of, peripheral neuropathy was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy in the single-agent Phase III multiple myeloma study and 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in Phase II studies, respectively.
 
 In addition to peripheral neuropathy, there may be a contribution of autonomic neuropathy to some adverse reactions such as postural hypotension and severe constipation with ileus.
 Information on autonomic neuropathy and its contribution to these undesirable effects is limited.
-
 Seizures
-
 Seizures have been uncommonly reported in patients without previous history of seizures or epilepsy.
 Special care is required when treating patients with any risk factors for seizures.
 
 Hypotension
-
 VELCADE treatment is commonly associated with orthostatic/postural hypotension.
 Most undesirable effects are mild to moderate in nature and are observed throughout treatment.
 Patients developing orthostatic hypotension on VELCADE did not have evidence of orthostatic hypotension prior to treatment with VELCADE.
@@ -53,64 +47,61 @@ Management of orthostatic/postural hypotension may include adjustment of antihyp
 Patients should be instructed to seek medical advice if they experience symptoms of dizziness, light-headedness or fainting spells.
 
 Heart failure
-
 Acute development or exacerbation of congestive heart failure, and/or new onset of decreased left ventricular ejection fraction has been reported during bortezomib treatment.
-In a single agent phase III randomized, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
+In a single agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
 Fluid retention may be a predisposing factor for signs and symptoms of heart failure.
 Patients with risk factors for or existing heart disease should be closely monitored.
 
-ECG Investigations
-
+ECG investigations
 There have been isolated cases of QT-interval prolongation in clinical studies, causality has not been established.
 
-Pulmonary Disorders
-
-There have been rare reports of acute diffuse infiltrative pulmonary disease of unknown aetiology such as pneumonitis, interstitial pneumonia, lung infiltration, and Acute Respiratory Distress Syndrome (ARDS) in patients receiving VELCADE (see section 4.8).
+Pulmonary disorders
+There have been rare reports of acute diffuse infiltrative pulmonary disease of unknown aetiology such as pneumonitis, interstitial pneumonia, lung infiltration, and acute respiratory distress syndrome (ARDS) in patients receiving VELCADE (see section 4.8).
 Some of these events have been fatal.
-A pretreatment chest radiograph is recommended to determine if any additional diagnostic measures are necessary and to serve as a baseline for potential post-treatment pulmonary changes.
+A pre-treatment chest radiograph is recommended to determine if any additional diagnostic measures are necessary and to serve as a baseline for potential post-treatment pulmonary changes.
 
 In the event of new or worsening pulmonary symptoms (e.g. cough, dyspnoea), a prompt diagnostic evaluation should be performed and patients treated appropriately.
 The benefit/risk ratio should be considered prior to continuing VELCADE therapy.
-In a clinical trial, two patients given high-dose cytarabine (2 g/m2 per day) by continuous infusion over 24 hours with daunorubicin and VELCADE for relapsed acute myelogenous leukemia died of ARDS early in the course of therapy.
+
+In a clinical trial, two patients (out of 2) given high-dose cytarabine (2 g/m2 per day) by continuous infusion over 24 hours with daunorubicin and VELCADE for relapsed acute myelogenous leukaemia died of ARDS early in the course of therapy, and the study was terminated.
 Therefore, this specific regimen with concomitant administration with high-dose cytarabine (2 g/m2 per day) by continuous infusion over 24 hours is not recommended.
 
-Renal Impairment
+Renal impairment
 Renal complications are frequent in patients with multiple myeloma.
-Such patients should be monitored closely.
+Such patients should be monitored closely (see sections 4.2 and 5.2).
 
-Hepatic Impairment
-
-Patients with hepatic impairment should be treated with extreme caution and a dose reduction should be considered (see sections 4.2 and 4.3).
-
-Hepatic Reactions
-
+Hepatic impairment
+Patients with hepatic impairment should be treated with extreme caution and a dose reduction should be considered (see sections 4.2, 4.3 and 5.2).
+Hepatic reactions
 Rare cases of acute liver failure have been reported in patients receiving multiple concomitant medications and with serious underlying medical conditions.
 Other reported hepatic reactions include increases in liver enzymes, hyperbilirubinaemia, and hepatitis.
 Such changes may be reversible upon discontinuation of bortezomib (see section 4.8).
 
 Tumour lysis syndrome
-
 Because bortezomib is a cytotoxic agent and can rapidly kill malignant plasma cells, the complications of tumour lysis syndrome may occur.
 The patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
 These patients should be monitored closely and appropriate precautions taken.
 
 Amyloidosis
-
 The impact of proteasome inhibition by bortezomib on disorders associated with protein accumulation such as amyloidosis is unknown.
 Caution is advised in these patients.
 
-Precautions with certain concomitant medicinal products
-
+Concomitant medicinal products
 Patients should be closely monitored when given bortezomib in combination with potent CYP3A4-inhibitors.
 Caution should be exercised when bortezomib is combined with CYP3A4- or CYP2C19 substrates (see section 4.5).
 
 Normal liver function should be confirmed and caution should be exercised in patients receiving oral hypoglycemics (see section 4.5).
 
 Potentially immunocomplex-mediated reactions
-
-Potentially immunocomplex-mediated reactions, such as serum-sickness –type reaction, polyarthritis with rash and proliferative glomerulonephritis have been reported uncommonly.
+Potentially immunocomplex-mediated reactions, such as serum-sickness-type reaction, polyarthritis with rash and proliferative glomerulonephritis have been reported uncommonly.
 Bortezomib should be discontinued if serious reactions occur.
 
 [VELCADE 3.5 mg powder for solution for injection]
 
+Cases of ileus have been uncommonly reported (see section 4.8), therefore patients who experience constipation should be closely monitored.
+
+In a single-agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
+
 Therefore, this specific regimen with concomitant administration with high-dose cytarabine (2g/m2 per day) by continuous infusion over 24 hours is not recommended.
+
+Such patients should be monitored closely.
