@@ -64,9 +64,9 @@ Impaired renal function including cases of renal failure in patients at risk (se
 
 Skin and subcutaneous tissue disorders:
 Leukocytoclastic vasculitis
-
 Musculoskeletal and connective tissue disorders:
 Arthralgia, myalgia (in some cases associated with increased plasma creatine kinase levels), muscle cramps
+
 Metabolism and nutrition disorders:
 Hyperkalaemia
 

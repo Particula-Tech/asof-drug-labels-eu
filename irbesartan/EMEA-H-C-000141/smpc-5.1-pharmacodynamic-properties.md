@@ -54,6 +54,7 @@ In the female and black subgroups which represented 32% and 26% of the overall s
 As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebo-based regimen.
 An increased incidence of non-fatal MI and stroke was seen in females in the irbesartan-based regimen versus the amlodipine-based regimen, while hospitalization due to heart failure was reduced in the overall population.
 However, no proper explanation for these findings in women has been identified.
+
 The study of the “Effects of Irbesartan on Microalbuminuria in Hypertensive Patients with type 2 Diabetes Mellitus (IRMA 2)” shows that irbesartan 300 mg delays progression to overt proteinuria in patients with microalbuminuria.
 IRMA 2 was a placebo-controlled double blind morbidity study in 590 patients with type 2 diabetes, microalbuminuria (30-300 mg/day) and normal renal function (serum creatinine ≤ 1.5 mg/dl in males and < 1.1 mg/dl in females).
 The study examined the long-term effects (2 years) of Aprovel on the progression to clinical (overt) proteinuria (urinary albumin excretion rate (UAER) > 300 mg/day, and an increase in UAER of at least 30% from baseline).
