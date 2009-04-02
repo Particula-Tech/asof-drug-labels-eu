@@ -14,8 +14,8 @@ Abraxane should not be administered until neutrophil counts recover to >1.5 x 10
 For grade 3 sensory neuropathy withhold treatment until resolution to grade 1 or 2, followed by a dose reduction for all subsequent courses.
 Patients with hepatic impairment:
 
-Insufficient data are currently available to recommend dose modifications in patients with mild to moderate hepatic impairment (see sections 4.4. and 5.2).
-Patients with severe hepatic impairment should not be treated with paclitaxel.
+Insufficient data are currently available to recommend dose modifications in patients with mild to moderate hepatic impairment that ensure acceptable toxicity while maintaining efficacy.
+Patients with severe hepatic impairment should not be treated with paclitaxel (see sections 4.4.and 5.2).
 
 Patients with impaired renal function:
 

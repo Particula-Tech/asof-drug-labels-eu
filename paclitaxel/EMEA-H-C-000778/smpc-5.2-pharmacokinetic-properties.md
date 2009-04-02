@@ -20,7 +20,27 @@ Based on the published literature, in vitro studies of binding to human serum pr
 Based on the published literature, in vitro studies with human liver microsomes and tissue slices show that paclitaxel is metabolised primarily to 6α-hydroxypaclitaxel; and to two minor metabolites, 3’-p-hydroxypaclitaxel and 6α-3’-p-dihydroxypaclitaxel.
 The formation of these hydroxylated metabolites is catalysed by CYP2C8, -3A4, and both -2C8 and -3A4 respectively.
 
-The effect of renal or hepatic dysfunction on the disposition of paclitaxel has not been formally investigated.
+The pharmacokinetic profile of Abraxane administered as a 30 minute infusion was evaluated in 15 out of 30 patients with three levels of hepatic impairment based on serum bilirubin and liver enzyme levels.
+Figure 1 shows the correlation between paclitaxel clearance and and total blood bilirubin as measured just prior to dosing.
+
+Figure 1 Correlation between paclitaxel clearance and total blood bilirubin
+
+35000
+Paclitaxel clearance
+
+(ml/h/m2) 30000
+
+25000
+
+20000
+
+15000
+
+10 20 30 40 50 60 70 80 90
+
+Total bilirubin (µmol/l)
+
+The effect of renal dysfunction on the disposition of paclitaxel has not been formally investigated.
 
 In patients with metastatic breast cancer, after a 30 minute infusion of Abraxane at 260 mg/m2, the mean value for cumulative urinary excretion of unchanged active substance accounted for 4% of the total administered dose with less than 1% as the metabolites 6α-hydroxypaclitaxel and 3’-p-hydroxypaclitaxel, indicating extensive non-renal clearance.
 Paclitaxel is principally eliminated by hepatic metabolism and biliary excretion.

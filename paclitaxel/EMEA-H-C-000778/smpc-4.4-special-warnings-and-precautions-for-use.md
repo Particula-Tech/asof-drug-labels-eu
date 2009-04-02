@@ -20,17 +20,19 @@ The occurrence of grade 1 or 2 sensory neuropathy does not generally require dos
 If grade 3 sensory neuropathy develops, treatment should be withheld until resolution to grade 1 or 2 followed by a dose reduction for all subsequent courses of Abraxane is recommended (see section 4.2).
 Hepatic Impairment:
 
+Because the toxicity of paclitaxel can be increased with hepatic impairment, administration of Abraxane in patients with hepatic impairment should be performed with caution.
 Patients with hepatic impairment may be at increased risk of toxicity, particularly from myelosuppression, and such patients should be closely monitored for development of profound myelosuppression.
-The use of Abraxane has not been formally studied in patients specifically with hepatic impairment.
-Patients with severe hepatic impairment (bilirubin > 5 x ULN or ASL/ALT > 10 x ULN) should not be treated with Abraxane.
+
+Patients with severe hepatic impairment (bilirubin > 5 x ULN or ASL/ALT > 10 x ULN) have not been studied and should not be treated with Abraxane.
 The appropriate dose regimen in patients with less severe hepatic impairment is unknown.
+A dose reduction in patients with bilirubin >2 ULN must beconsidered since paclitaxel clearance is decreased in patients with high bilirubin levels (see section 5.2).
 
 Cardiotoxicity:
 
 While cardiotoxicity unequivocally related to Abraxane has not been demonstrated, cardiac events are not uncommon in the indicated population, especially in patients who have previously received anthracyclines or have underlying cardiac or pulmonary disease.
 Thus patients receiving Abraxane should be vigilantly monitored by physicians for the occurrence of cardiac events.
 
-Sexually active men and women should use effective methods of contraception during treatment and up to six months after treatment for men, and one month after treatment for women (see section 4.6).
+CNS Metastases
 
 The effectiveness and safety of Abraxane in patients with central nervous system (CNS) metastases has not been established.
 CNS metastases are generally not well controlled by systemic chemotherapy.

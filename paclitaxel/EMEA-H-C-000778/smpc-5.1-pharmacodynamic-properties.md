@@ -6,10 +6,9 @@ Paclitaxel is an antimicrotubule agent that promotes the assembly of microtubule
 This stability results in the inhibition of the normal dynamic reorganisation of the microtubule network that is essential for vital interphase and mitotic cellular functions.
 In addition, paclitaxel induces abnormal arrays or “bundles” of microtubules throughout the cell cycle and multiple asters of microtubules during mitosis.
 
-Abraxane contains human serum albumin-paclitaxel nanoparticles.
+Abraxane contains human serum albumin-paclitaxel nanoparticles, where the paclitaxel is present in a non-crystalline, amorphous state.
 Albumin is known to mediate endothelial transcytosis of plasma constituents and in vitro studies demonstrated that the presence of albumin enhances transport of paclitaxel across endothelial cells.
 It is hypothesised that this enhanced transendothelial transport is mediated by the gp-60 albumin receptor, and that there is accumulation of paclitaxel in the area of tumour due to the albumin-binding protein SPARC (secreted protein acidic rich in cysteine).
-
 Breast carcinoma:
 
 Data from 106 patients accrued in two single-arm open-label studies and from 454 patients treated in a randomised Phase III comparative study are available to support the use of Abraxane in metastatic breast cancer.
@@ -44,11 +43,17 @@ Table 2: Results for overall response rate, median time to disease progression, 
 | *Median time to disease progression [95% CI] (weeks) |  |  |  |
 | > 1st-line therapy | 20.9 [15.7, 25.9] (n = 131) | 16.1 [15.0, 19.3] (n = 135) | 0.011b |
 | *Median Progression Free Survival [95% CI] (weeks) |  |  |  |
+
+Table 2: Results for overall response rate, median time to disease progression, and progression-free survival as assessed by the investigator
+
+| Efficacy variable | Abraxane (260 mg/m2) | Solvent-based paclitaxel (175 mg/m2) | p-value |
+| --- | --- | --- | --- |
 | > 1st-line therapy | 20.6 [15.6, 25.9] (n = 131) | 16.1 [15.0, 18.3] (n = 135) | 0.010b |
 | *Survival [95% CI] (weeks) |  |  |  |
 | > 1st-line therapy | 56.4 [45.1, 76.9] (n = 131) | 46.7 [39.0, 55.3] (n = 136) | 0.020b |
 
 *This data is based on Clinical Study Report: CA012-0 Addendum dated Final (23 March-2005) a Chi-squared test b Log-rank test
+
 229 patients treated with Abraxane in the randomized, controlled clinical trial were evaluated for safety.
 Neurotoxictiy to paclitaxel was evaluated through improvement by one grade for patients experiencing grade 3 peripheral neuropathy at any time during therapy.
 The natural course of peripheral neuropathy to resolution to baseline due to cumulative toxicity of Abraxane after
