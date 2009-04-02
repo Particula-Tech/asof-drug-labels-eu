@@ -1,5 +1,5 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Bayer HealthCare AG
-D-51368 Leverkusen
+Bayer Schering Pharma AG
+13342 Berlin
 Germany
