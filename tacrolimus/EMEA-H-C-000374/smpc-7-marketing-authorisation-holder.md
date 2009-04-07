@@ -1,7 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Astellas Pharma GmbH
-Neumarkter Str.
-61
-D-81673 München
-Germany
+Astellas Pharma Europe B.V.
+Elisabethhof 19
+2353 EW Leiderdorp
+Netherlands
