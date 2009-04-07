@@ -5,7 +5,6 @@ At cut-off, 46% of patients in chronic-phase CML (CML-CP) had a duration of expo
 62% of patients in accelerated-phase CML (CML-AP) had a duration of exposure of 3 to 12 months and 10% of patients had a duration of exposure of more than 12 months.
 The dose was 400 mg twice daily.
 The median duration of exposure in days was 245 (1-502) for the CML-CP patients and 138 (2-503) for the CML-AP patients.
-
 The most frequent non-haematological drug-related adverse events were rash, pruritus, nausea, fatigue and headache.
 Most of these adverse events were mild to moderate in severity.
 Constipation, diarrhoea, bone pain, arthralgia, muscle spasms and peripheral oedema were observed less commonly and have been of mild to moderate severity.
@@ -56,10 +55,11 @@ disorders and Common Asthenia 6 0 0 0
 administration Common Oedema 5 0 0 0
 site conditions peripheral
 
-Additional data from clinical trials
+UAdditional data from clinical trials
 The following adverse reactions were reported in patients in the Tasigna clinical studies at a frequency of less than 5% (common is ≥1/100 to <1/10; uncommon is >1/1,000 to <1/100; single events are captured as frequency not known [cannot be estimated from the available data]).
 For laboratory abnormalities, very common events (≥1/10) not included in Table 2 are also reported.
 These adverse reactions are included based on clinical relevance and ranked in order of decreasing seriousness within each category.
+
 Investigations:
 Very common: lipase increased.
 Common: blood amylase increased, alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatinine phosphokinase increased, blood glucose increased, weight decreased, weight increased.
@@ -97,7 +97,6 @@ Gastrointestinal disorders:
 Common: abdominal discomfort, dyspepsia, flatulence.
 Uncommon: pancreatitis, gastrointestinal haemorrhage, melaena, abdominal distension, mouth ulceration, gastroesophageal reflux, stomatitis, dry mouth.
 Not known: gastrointestinal ulcer perforation, retroperitoneal haemorrhage, haematemesis, gastric ulcer, oesophagitis ulcerative, subileus.
-
 Renal and urinary disorders:
 Uncommon: dysuria, micturition urgency, nocturia, pollakiuria.
 Not known: renal failure, haematuria, urinary incontinence.
@@ -106,6 +105,7 @@ Skin and subcutaneous tissue disorders:
 Common: night sweats, eczema, urticaria, erythema, hyperhidrosis, dry skin.
 Uncommon: exfoliative rash, ecchymosis, swelling face.
 Not known: erythema nodosum, skin ulcer, petechiae, photosensitivity.
+
 Musculoskeletal and connective tissue disorders:
 Common: musculoskeletal chest pain, musculoskeletal pain.
 Uncommon: muscular weakness.
@@ -144,8 +144,8 @@ Psychiatric disorders:
 Common: insomnia.
 Uncommon: depression, anxiety.
 Not known: disorientation, confusional state.
-Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values are presented in Table 3.
 
+Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values are presented in Table 3.
 Table 3 Grade 3-4 laboratory abnormalities
 
 |  | CML-CP n=318 % | CML-AP n=120 % |

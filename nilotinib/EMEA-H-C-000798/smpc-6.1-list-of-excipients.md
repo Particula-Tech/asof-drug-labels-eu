@@ -1,18 +1,18 @@
 # 6.1 List of excipients
 
-Capsule content:
+UCapsule contentU:
 Lactose monohydrate
 Crospovidone
 Poloxamer 188
 Silica colloidal, anhydrous/Colloidal silicon dioxide
 Magnesium stearate
 
-Capsule shell:
+UCapsule shellU:
 Gelatin
 Titanium dioxide (E171)
 Yellow iron oxide (E172)
 
-Printing ink:
+UPrinting inkU:
 Shellac
 Red iron oxide (E172)
 Soya lecithin (E322)
