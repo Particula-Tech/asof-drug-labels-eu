@@ -38,7 +38,8 @@ Adolescents: When 22 adolescents aged 12 to 17 years (inclusive) received a sing
 Systemic exposure, as assessed by AUC (0-inf), and renal clearance of varenicline were comparable to adults.
 An increase of 30% in Cmax and a shorter elimination half-life (10.9 hr) were observed in adolescents compared with adults (see section 4.2).
 
-In vitro studies demonstrate that varenicline does not inhibit cytochrome P450 enzymes (IC50> 6,400 ng/ml).
+In vitro studies demonstrate that varenicline does not inhibit cytochrome P450 enzymes
+(IC50 > 6,400 ng/ml).
 The P450 enzymes tested for inhibition were: 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, and 3A4/5.
 Also, in human hepatocytes in vitro, varenicline was shown to not induce the activity of cytochrome P450 enzymes 1A2 and 3A4.
 Therefore, varenicline is unlikely to alter the pharmacokinetics of compounds that are primarily metabolised by cytochrome P450 enzymes.

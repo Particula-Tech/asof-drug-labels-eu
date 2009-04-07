@@ -13,7 +13,7 @@ The efficacy of CHAMPIX in smoking cessation is a result of varenicline's partia
 
 Clinical Efficacy
 
-The efficacy of CHAMPIX in smoking cessation was demonstrated in 3 clinical trials involving chronic cigarette smokers (≥10 cigarettes per day).
+The efficacy of CHAMPIX in smoking cessation was demonstrated in 3 clinical trials involving chronic cigarette smokers (≥ 10 cigarettes per day).
 2619 patients received CHAMPIX 1mg BID (titrated during the first week), 669 patients received bupropion 150 mg BID (also titrated) and 684 patients received placebo.
 
 Comparative Clinical Studies
