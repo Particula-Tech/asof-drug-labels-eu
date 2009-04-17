@@ -47,6 +47,8 @@ The frequency of augmentation after longer use of SIFROL and the appropriate man
 
 When prescribing SIFROL tablets in a patient with Parkinson’s disease with renal impairment a reduced dose is suggested in line with section 4.2.
 
+Furthermore, patients and caregivers should be aware of the fact that other behavioural symptoms of impulse control disorders and compulsions) such as binge eating and compulsive shopping can occur.
+
 Reports in the literature indicate treatment of Restless Legs Syndrome with dopaminergic medicinal products can result in augmentation.
 
 [SIFROL 0.35 mg tablets]
