@@ -1,5 +1,10 @@
 # 4.2 Posology and method of administration
 
+Clinical studies in patients employed infusion of daptomycin over 30 minutes.
+There is no clinical experience in patients with the administration of daptomycin as an injection over 2 minutes.
+This mode of administration was only studied in healthy subjects.
+However, when compared with the same doses given as intravenous infusions over 30 minutes there were no clinically important differences in the pharmacokinetics and safety profile of daptomycin (see also sections 4.8 and 5.2).
+
 Posology
 
 - cSSTI without concurrent Staphylococcus aureus bacteraemia: The recommended dose is 4 mg/kg administered once every 24 hours for 7-14 days or until the infection is resolved (see section 5.1).
@@ -12,6 +17,7 @@ Posology
 
 Renal insufficiency
 Daptomycin is eliminated primarily by the kidney.
+
 Due to limited clinical experience (see table and footnotes below) Cubicin should only be used in patients with any degree of renal insufficiency (Cr Cl < 80 ml/min) when it is considered that the expected clinical benefit outweighs the potential risk.
 The response to treatment and renal function should be closely monitored in all patients with some degree of renal insufficiency (see also sections 4.4 and 5.2).
 
@@ -38,14 +44,12 @@ No data are available in patients with severe hepatic insufficiency (Child-Pugh 
 Elderly patients
 The recommended doses should be used in elderly patients except those with severe renal insufficiency (see above and section 4.4).
 However, there are limited data on the safety and efficacy of daptomycin in patients aged > 65 years and caution should be exercised if Cubicin is given to such patients.
-
-Children and adolescents (< 18 years old)
-Due to the lack of data on safety and efficacy Cubicin is not recommended for use in children and adolescents (< 18 years of age).
-See also section 5.2.
+Children and adolescents
+Cubicin is not recommended for use in children and adolescents below the age of 18 years due to a lack of data on safety and efficacy (see section 5.2).
 
 Method of administration
-Cubicin is given by intravenous infusion (see section 6.6) and administered over a 30 minute period.
+Cubicin is given by intravenous infusion (see section 6.6) and administered over a 30-minute period or by intravenous injection (see section 6.6) and administered over a 2-minute period.
 
-[Cubicin 500 mg powder for concentrate for solution for infusion]
+[Cubicin 500 mg powder for solution for injection or infusion]
 
 The response to treatment and renal function should be closely monitored in all patients with some degree of renal insufficiency) (see also sections 4.4 and 5.2).

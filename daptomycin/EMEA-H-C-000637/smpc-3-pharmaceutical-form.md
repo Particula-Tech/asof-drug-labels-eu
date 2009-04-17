@@ -1,5 +1,5 @@
 # 3. PHARMACEUTICAL FORM
 
-Powder for concentrate for solution for infusion.
+Powder for solution for injection or infusion
 
 A pale yellow to light brown lyophilised powder.

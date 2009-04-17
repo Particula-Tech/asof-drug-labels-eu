@@ -1,7 +1,7 @@
 # 4.6 Pregnancy and lactation
 
 No clinical data on pregnancies are available for daptomycin.
-Animal studies do not indicate direct or indirect harmful effects with respect to fertility, pregnancy, embryonal/fetal development, parturition or postnatal development (see section 5.3).
+Animal studies do not indicate direct or indirect harmful effects with respect to fertility, pregnancy, embryonal/foetal development, parturition or postnatal development (see section 5.3).
 
 Cubicin should not be used during pregnancy unless clearly necessary i.e., only if the potential benefit outweighs the possible risk.
 

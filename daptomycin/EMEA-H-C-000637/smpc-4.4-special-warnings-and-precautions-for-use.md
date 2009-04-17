@@ -12,7 +12,6 @@ Patients with deep-seated infections should receive any required surgical interv
 
 There is insufficient evidence to be able to draw any conclusions regarding the possible clinical efficacy of Cubicin against infections due to enterococci, including Enterococcus faecalis and Enterococcus faecium.
 In addition, dose regimens of daptomycin that might be appropriate for the treatment of enterococcal infections, with or without bacteraemia, have not been identified.
-
 Failures with daptomycin in the treatment of enterococcal infections that were mostly accompanied by bacteraemia have been reported.
 In some instances treatment failure has been associated with the selection of organisms with reduced susceptibility or frank resistance to daptomycin (see section 5.1).
 
@@ -25,16 +24,16 @@ Therefore, it is recommended that:
 - It cannot be ruled out that those patients with CPK greater than 5 times upper limit of normal at baseline may be at increased risk of further increases during daptomycin therapy.
   This should be taken into account when initiating daptomycin therapy and, if daptomycin is given, these patients should be monitored more frequently than once weekly.
 - CPK should be measured more frequently than once weekly in patients who are at higher risk of developing myopathy.
-  These patients include those with severe renal insufficiency (creatinine clearance < 30 ml/min; see also section 4.2) and patients taking other medications known to be associated with myopathy (e.g. HMG-CoA reductase inhibitors, fibrates and ciclosporin).
-- Cubicin should not be administered to patients who are taking other medications associated with myopathy unless it is considered that the benefit to the patient outweighs the risk.
+  These patients include those with severe renal insufficiency (creatinine clearance < 30 ml/min; see also section 4.2) and patients taking other medicinal products known to be associated with myopathy (e.g. HMG-CoA reductase inhibitors, fibrates and ciclosporin).
+- Cubicin should not be administered to patients who are taking other medicinal products associated with myopathy unless it is considered that the benefit to the patient outweighs the risk.
 - Patients should be reviewed regularly while on therapy for any signs or symptoms that might represent myopathy.
 - Any patient that develops unexplained muscle pain, tenderness, weakness or cramps should have CPK levels monitored every 2 days.
   Cubicin should be discontinued in the presence of unexplained muscle symptoms if the CPK level reaches greater than 5 times upper limit of normal.
 
-Peripheral Neuropathy
+Peripheral neuropathy
 Patients who develop signs or symptoms that might represent a peripheral neuropathy during therapy with Cubicin should be investigated and consideration should be given to discontinuation of daptomycin (see sections 4.8 and 5.3).
 
-Renal Insufficiency
+Renal insufficiency
 Renal insufficiency has been reported during treatment with Cubicin.
 Severe renal insufficiency may in itself also pre-dispose to elevations in daptomycin levels which may increase the risk of development of myopathy (see above).
 
@@ -59,6 +58,6 @@ If superinfection occurs during therapy, appropriate measures should be taken.
 Antibiotic-associated colitis and pseudomembranous colitis have been reported with nearly all antibacterial agents and may range in severity from mild to life-threatening.
 Therefore, it is important to consider this diagnosis in patients who present with diarrhoea during or shortly following treatment.
 
-[Cubicin 500 mg powder for concentrate for solution for infusion]
+[Cubicin 500 mg powder for solution for injection or infusion]
 
 In addition, dose regimens for daptomycin that might be appropriate for the treatment of enterococcal infections, with or without bacteraemia, have not been identified.

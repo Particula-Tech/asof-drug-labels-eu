@@ -1,7 +1,8 @@
 # 6.5 Nature and contents of container
 
-Single use 10 ml type 1 clear glass vials with type 1 rubber stoppers and aluminium closures with yellow plastic flip off caps.
+Single use 10 ml type I clear glass vials with type I rubber stoppers and aluminium closures with yellow plastic flip off caps.
+Available in packs containing 1 vial.
 
-[Cubicin 500 mg powder for concentrate for solution for infusion]
+[Cubicin 500 mg powder for solution for injection or infusion]
 
-Single use 10 ml type 1 clear glass vials with type 1 rubber stoppers and aluminium closures with blue plastic flip off caps.
+Single use 10 ml type I clear glass vials with type I rubber stoppers and aluminium closures with blue plastic flip off caps.

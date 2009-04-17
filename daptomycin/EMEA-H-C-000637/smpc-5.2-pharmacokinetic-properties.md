@@ -1,7 +1,10 @@
 # 5.2 Pharmacokinetic properties
 
-Daptomycin pharmacokinetics are generally linear and time-independent at doses of 4 to 12 mg/kg administered as a single daily dose for up to 14 days in healthy volunteers.
+Daptomycin pharmacokinetics are generally linear and time-independent at doses of 4 to 12 mg/kg administered as a single daily dose by 30-minute intravenous infusion for up to 14 days in healthy volunteers.
 Steady-state concentrations are achieved by the third daily dose.
+
+Daptomycin administered as a 2-minute intravenous injection also exhibited dose proportional pharmacokinetics in the approved therapeutic dose range of 4 to 6 mg/kg.
+Comparable exposure (AUC and Cmax) was demonstrated in healthy subjects following administration of daptomycin as a 30-minute intravenous infusion or as a 2-minute intravenous injection.
 
 Animal studies showed that daptomycin is not absorbed to any significant extent after oral administration.
 
@@ -16,12 +19,13 @@ Metabolism
 In vitro studies have demonstrated that there is no or limited liver microsomal mediated metabolism of daptomycin in humans and that CYP450 involvement in daptomycin metabolism is minimal.
 Analysis of plasma samples from subjects who received a 6 mg/kg dose of daptomycin did not show any trace of metabolism, suggesting little to no systemic metabolism.
 
-Furthermore, no metabolites have been observed in plasma following administration of radiolabeled drug to humans based on total radiolabel and microbiologically active concentrations.
+Furthermore, no metabolites have been observed in plasma following administration of radiolabelled drug to humans based on total radiolabel and microbiologically active concentrations.
 Of the four minor metabolites detected in urine, two are Phase I oxidative metabolites present in low concentrations.
 
 Elimination
 Daptomycin is excreted primarily by the kidneys.
 Concomitant administration of probenecid and daptomycin has no effect on daptomycin pharmacokinetics in humans suggesting minimal to no active tubular secretion of daptomycin.
+
 Following intravenous administration, plasma clearance of daptomycin is approximately 7 to 9 ml/h/kg and its renal clearance is 4 to 7 ml/h/kg.
 
 In a mass balance study using radiolabelled material, 78% of the administered dose was recovered from the urine based on total radioactivity, whilst urinary recovery of unchanged daptomycin was approximately 50% of the dose.

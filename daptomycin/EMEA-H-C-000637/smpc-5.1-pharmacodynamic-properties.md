@@ -4,13 +4,13 @@ Pharmacotherapeutic group: Antibacterials for systemic use, Other antibacterials
 
 Mode of action
 Daptomycin is a cyclic lipopeptide natural product that is active against Gram positive bacteria only.
-
 The mechanism of action involves binding (in the presence of calcium ions) to bacterial membranes of both growing and stationary phase cells causing depolarisation and leading to a rapid inhibition of protein, DNA, and RNA synthesis.
 This results in bacterial cell death with negligible cell lysis.
 
 PK/PD relationship
 Daptomycin exhibits rapid, concentration dependent bactericidal activity against sensitive Gram positive organisms in vitro.
 In animal models AUC/MIC and Cmax/MIC correlate with efficacy and predicted bacterial kill in vivo at single doses equivalent to human doses of 4 mg/kg and 6 mg/kg once daily.
+
 Mechanisms of resistance
 Strains with decreased susceptibility to daptomycin have been reported especially during the treatment of patients with difficult-to-treat infections and/or following administration for prolonged periods.
 In particular, there have been reports of treatment failures in patients infected with Staphylococcus aureus, Enterococcus faecalis or Enterococcus faecium, including bacteraemic patients, that have been associated with the selection of organisms with reduced susceptibility or frank resistance to daptomycin during therapy.
