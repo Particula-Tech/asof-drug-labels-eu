@@ -1,7 +1,5 @@
 # 4.2 Posology and method of administration
 
-Oral use.
-
 Schizophrenia:
 The recommended starting dose for ABILIFY is 10 or 15 mg/day with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
 
@@ -17,6 +15,8 @@ The maximum daily dose should not exceed 30 mg.
 Recurrence prevention of manic episodes in Bipolar I Disorder:
 For preventing recurrence of manic episodes in patients who have been receiving aripiprazole, continue therapy at the same dose.
 Adjustments of daily dosage, including dose reduction should be considered on the basis of clinical status.
+
+ABILIFY tablets are for oral use.
 
 Children and adolescents: there is no experience in children and adolescents under 18 years of age.
 
@@ -35,6 +35,7 @@ Gender: no dosage adjustment is required for female patients as compared to male
 
 Smoking status: according to the metabolic pathway of ABILIFY no dosage adjustment is required for smokers (see section 4.5).
 
+Dose adjustments due to interactions:
 When concomitant administration of potent CYP3A4 or CYP2D6 inhibitors with aripiprazole occurs, the aripiprazole dose should be reduced.
 When the CYP3A4 or CYP2D6 inhibitor is withdrawn from the combination therapy, aripiprazole dose should then be increased (see section 4.5).
 
@@ -60,7 +61,9 @@ It can be taken with or without liquid.
 Removal of the intact orodispersible tablet from the mouth is difficult.
 Since the orodispersible tablet is fragile, it should be taken immediately on opening the blister.
 Alternatively, disperse the tablet in water and drink the resulting suspension.
+
 The orodispersible tablets may be used as an alternative to ABILIFY tablets for patients who have difficulty to swallow ABILIFY tablets (see also section 5.2).
+ABILIFY orodispersible tablets are for oral use.
 
 Smoking status: according to the metabolic pathway of aripiprazole no dosage adjustment is required for smokers (see section 4.5).
 
@@ -84,16 +87,11 @@ ABILIFY is effective in a dose range of 10 to 30 mg/day (i.e. 10 to 30 ml soluti
 The recommended starting dose for ABILIFY is 15 mg (i.e. 15 ml solution/day) administered on a once-a-day schedule without regard to meals as monotherapy or combination therapy (see section 5.1).
 The maximum daily dose should not exceed 30 mg (i.e. 30 ml solution/day).
 
+ABILIFY oral solution is for oral use.
+
 Gender: no dosage adjustment is required for female patients as compared to male patients (see sections 4.4 and 5.2).
 
 [ABILIFY 7.5 mg/ml solution for injection]
-
-For intramuscular use.
-
-To enhance absorption and minimise variability, injection into the deltoid or deep within the gluteus maximus muscle, avoiding adipose regions, is recommended.
-
-ABILIFY solution for injection should not be administered intravenously or subcutaneously.
-ABILIFY solution for injection is ready to use and intended for short-term use only (see section 5.1).
 
 The recommended initial dose for aripiprazole solution for injection is 9.75 mg (1.3 ml), administered as a single intramuscular injection.
 The effective dose range of aripiprazole solution for injection is 5.25-15 mg as a single injection.
@@ -103,6 +101,13 @@ A second injection may be administered 2 hours after the first injection, on the
 The maximum daily dose of aripiprazole is 30 mg (including all formulations of aripiprazole).
 
 If continued treatment is indicated with oral aripiprazole, see the Summary of Product Characteristics for ABILIFY tablets, ABILIFY orodispersible tablets, or ABILIFY oral solution.
+
+ABILIFY solution for injection is for intramuscular use.
+
+To enhance absorption and minimise variability, injection into the deltoid or deep within the gluteus maximus muscle, avoiding adipose regions, is recommended.
+
+ABILIFY solution for injection should not be administered intravenously or subcutaneously.
+ABILIFY solution for injection is ready to use and intended for short-term use only (see section 5.1).
 
 Elderly: the effectiveness of ABILIFY solution for injection in patients who are 65 years of age or older has not been established.
 

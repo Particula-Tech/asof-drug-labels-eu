@@ -55,4 +55,4 @@ Excipients: 200 mg fructose per ml
 
 Each ml contains 7.5 mg of aripiprazole.
 
-A vial contains 9.75 mg aripiprazole.
+Each vial contains 9.75 mg aripiprazole.

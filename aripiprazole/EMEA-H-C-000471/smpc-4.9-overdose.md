@@ -1,6 +1,6 @@
 # 4.9 Overdose
 
-In clinical trials and post-marketing experience, accidental or intentional acute overdosage of aripiprazole alone was identified in adult patients with reported estimated doses up to 1,260 mg with no fatalities.
+In clinical trials and post-marketing experience, accidental or intentional acute overdose of aripiprazole alone was identified in adult patients with reported estimated doses up to 1,260 mg with no fatalities.
 The potentially medically important signs and symptoms observed included lethargy, increased blood pressure, somnolence, tachycardia, nausea, vomiting and diarrhoea.
 In addition, reports of accidental overdose with aripiprazole alone (up to 195 mg) in children have been received with no fatalities.
 The potentially medically serious signs and symptoms reported included somnolence, transient loss of consciousness and extrapyramidal symptoms.

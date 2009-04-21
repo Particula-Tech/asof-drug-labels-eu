@@ -18,7 +18,6 @@ At steady state, dehydro-aripiprazole, the active metabolite, represents about 4
 
 Elimination:
 The mean elimination half-lives for aripiprazole are approximately 75 hours in extensive metabolisers of CYP2D6 and approximately 146 hours in poor metabolisers of CYP2D6.
-
 The total body clearance of aripiprazole is 0.7 ml/min/kg, which is primarily hepatic.
 
 Following a single oral dose of [14C]-labelled aripiprazole, approximately 27% of the administered radioactivity was recovered in the urine and approximately 60% in the faeces.
@@ -37,6 +36,7 @@ Population pharmacokinetic evaluation has revealed no evidence of clinically sig
 
 Renal Disease:
 The pharmacokinetic characteristics of aripiprazole and dehydro-aripiprazole were found to be similar in patients with severe renal disease compared to young healthy subjects.
+
 Hepatic Disease:
 A single-dose study in subjects with varying degrees of liver cirrhosis (Child-Pugh Classes A, B, and C) did not reveal a significant effect of hepatic impairment on the pharmacokinetics of aripiprazole and dehydro-aripiprazole, but the study included only 3 patients with Class C liver cirrhosis, which is insufficient to draw conclusions on their metabolic capacity.
 

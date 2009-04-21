@@ -2,9 +2,9 @@
 
 Due to its α1-adrenergic receptor antagonism, aripiprazole has the potential to enhance the effect of certain antihypertensive agents.
 
-Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is taken in combination with alcohol or other CNS medicinal products with overlapping undesirable effects such as sedation (see section 4.8).
+Given the primary CNS effects of aripiprazole, caution should be used when aripiprazole is taken in combination with alcohol or other CNS medicinal products with overlapping adverse reactions such as sedation (see section 4.8).
 
-If aripiprazole is administered concomitantly with medicines known to cause QT prolongation or electrolyte imbalance, caution should be used.
+If aripiprazole is administered concomitantly with medicinal products known to cause QT prolongation or electrolyte imbalance, caution should be used.
 
 Potential for other medicinal products to affect ABILIFY:
 
@@ -35,6 +35,7 @@ Similarly, for dehydro-aripiprazole the geometric means of Cmax and AUC after ca
 ABILIFY dose should be doubled when concomitant administration of ABILIFY occurs with carbamazepine.
 Other potent inducers of CYP3A4 (such as rifampicin, rifabutin, phenytoin, phenobarbital, primidone, efavirenz, nevirapine and St. John's Wort) may be expected to have similar effects and similar dose increases should therefore be applied.
 Upon discontinuation of potent CYP3A4 inducers, the dosage of ABILIFY should be reduced to the recommended dose.
+
 When either valproate or lithium were administered concomitantly with aripiprazole, there was no clinically significant change in aripiprazole concentrations.
 
 Potential for ABILIFY to affect other medicinal products:

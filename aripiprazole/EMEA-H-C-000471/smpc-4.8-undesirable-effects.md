@@ -1,23 +1,23 @@
 # 4.8 Undesirable effects
 
-The following undesirable effects occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*):
-The frequency listed below is defined using the following convention: common (> 1/100, < 1/10) and uncommon (> 1/1,000, < 1/100).
-
-Cardiac disorders
-Uncommon: tachycardia*
-Nervous System disorders
-Common: extrapyramidal disorder, akathisia, tremor, dizziness, somnolence, sedation, headache
-Eye disorders
-Common: blurred vision
-Gastrointestinal disorders
-Common: dyspepsia, vomiting, nausea, constipation, salivary hypersecretion
-Vascular disorders
-Uncommon: orthostatic hypotension*
-General disorders and administration site conditions
-Common: fatigue
+The following adverse reactions occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*):
+The frequency listed below is defined using the following convention: common (> 1/100 to < 1/10) and uncommon (> 1/1,000 to < 1/100).
 Psychiatric disorders
 Common: restlessness, insomnia, anxiety
 Uncommon: depression*
+Nervous system disorders
+Common: extrapyramidal disorder, akathisia, tremor, dizziness, somnolence, sedation, headache
+Eye disorders
+Common: blurred vision
+Cardiac disorders
+Uncommon: tachycardia*
+Vascular disorders
+Uncommon: orthostatic hypotension*
+Gastrointestinal disorders
+Common: dyspepsia, vomiting, nausea, constipation, salivary hypersecretion
+General disorders and administration site conditions
+Common: fatigue
+
 Extrapyramidal symptoms (EPS): Schizophrenia - in a long term 52-week controlled trial, aripiprazole-treated patients had an overall-lower incidence (25.8%) of EPS including parkinsonism, akathisia, dystonia and dyskinesia compared with those treated with haloperidol (57.3%).
 In a long term 26-week placebo-controlled trial, the incidence of EPS was 19% for aripiprazole-treated patients and 13.1% for placebo-treated patients.
 In another long-term 26-week controlled trial, the incidence of EPS was 14.8% for aripiprazole-treated patients and 15.1% for olanzapine-treated patients.
@@ -32,39 +32,17 @@ Comparisons between aripiprazole and placebo in the proportions of patients expe
 Elevations of CPK (Creatine Phosphokinase), generally transient and asymptomatic, were observed in 3.5% of aripiprazole treated patients as compared to 2.0% of patients who received placebo.
 
 Other findings:
-Undesirable effects known to be associated with antipsychotic therapy and also reported during treatment with aripiprazole include neuroleptic malignant syndrome, tardive dyskinesia, seizure, cerebrovascular adverse events and increased mortality in elderly demented patients, hyperglycaemia and diabetes mellitus (see section 4.4).
+Adverse reactions known to be associated with antipsychotic therapy and also reported during treatment with aripiprazole include neuroleptic malignant syndrome, tardive dyskinesia, seizure, cerebrovascular adverse reactions and increased mortality in elderly demented patients, hyperglycaemia and diabetes mellitus (see section 4.4).
 
 Post-Marketing:
-The following adverse events have been reported during post-marketing surveillance.
-The frequency of these events is considered not known (cannot be estimated from the available data).
-
-Investigations: increased Creatine Phosphokinase, blood glucose increased, blood
-
-glucose fluctuation, glycosylated haemoglobin increased
-
-Cardiac disorders: QT prolongation, ventricular arrhythmias, sudden unexplained
-
-death, cardiac arrest, torsades de pointes, bradycardia
+The following adverse reactions have been reported during post-marketing surveillance.
+The frequency of these reactions is considered not known (cannot be estimated from the available data).
 
 Blood and the lymphatic leukopenia, neutropenia, thrombocytopenia
 
 system disorders:
 
-Nervous system disorders: speech disorder, Neuroleptic Malignant Syndrome (NMS), grand mal convulsion
-
-Respiratory, thoracic and oropharyngeal spasm, laryngospasm, aspiration pneumonia
-
-mediastinal disorders:
-
-Gastrointestinal disorders: pancreatitis, dysphagia, abdominal discomfort, stomach discomfort, diarrhoea
-
-Renal and urinary disorders: urinary incontinence, urinary retention
-
-Skin and subcutaneous tissue rash, photosensitivity reaction, alopecia, hyperhidrosis disorders:
-
-Musculoskeletal and rhabdomyolysis, myalgia, stiffness
-
-connective tissue disorders:
+Immune system disorders: allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus, or urticaria)
 
 Endocrine disorders: hyperglycaemia, diabetes mellitus, diabetic ketoacidosis, diabetic
 
@@ -72,24 +50,46 @@ hyperosmolar coma
 
 Metabolism and nutrition weight gain, weight decreased, anorexia, hyponatremia disorders:
 
+Psychiatric disorders: agitation, nervousness; suicide attempt, suicidal ideation, and
+
+completed suicide (see section 4.4)
+
+Nervous system disorders: speech disorder, Neuroleptic Malignant Syndrome (NMS), grand mal convulsion
+
+Cardiac disorders: QT prolongation, ventricular arrhythmias, sudden unexplained
+
+death, cardiac arrest, torsades de pointes, bradycardia
+
 Vascular disorders: syncope, hypertension, thromboembolic events
-General disorders and temperature regulation disorder (e.g. hypothermia, pyrexia), chest
+Respiratory, thoracic and oropharyngeal spasm, laryngospasm, aspiration pneumonia
 
-administration site conditions: pain, peripheral oedema
+mediastinal disorders:
 
-Immune system disorders: allergic reaction (e.g. anaphylactic reaction, angioedema including swollen tongue, tongue oedema, face oedema, pruritus, or urticaria)
+Gastrointestinal disorders: pancreatitis, dysphagia, abdominal discomfort, stomach discomfort, diarrhoea
 
-Hepatobiliary disorders: jaundice, hepatitis, increased Alanine Aminotransferase (ALT),
+Hepato-biliary disorders: jaundice, hepatitis, increased Alanine Aminotransferase (ALT),
 
 increased Aspartate Aminotransferase (AST), increased Gamma Glutamyl Transferase (GGT), increased alkaline phosphatase
+
+Skin and subcutaneous tissue rash, photosensitivity reaction, alopecia, hyperhidrosis disorders:
+
+Musculoskeletal and rhabdomyolysis, myalgia, stiffness
+
+connective tissue disorders:
+
+Renal and urinary disorders: urinary incontinence, urinary retention
 
 Reproductive system and priapism
 
 breast disorders:
 
-Psychiatric disorders: agitation, nervousness; suicide attempt, suicidal ideation, and
+General disorders and temperature regulation disorder (e.g. hypothermia, pyrexia), chest
 
-completed suicide (see section 4.4)
+administration site conditions: pain, peripheral oedema
+
+Investigations: increased Creatine Phosphokinase, blood glucose increased, blood
+
+glucose fluctuation, glycosylated haemoglobin increased
 
 [ABILIFY 10 mg tablets]
 
@@ -121,37 +121,17 @@ completed suicide (see section 4.4)
 
 [ABILIFY 7.5 mg/ml solution for injection]
 
-The following undesirable effects occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*) in clinical trials with aripiprazole solution for injection (see section 5.1):
-The frequency listed below is defined using the following convention: common (≥ 1/100, < 1/10) and uncommon (≥ 1/1,000, < 1/100).
+The following adverse reactions occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*) in clinical trials with aripiprazole solution for injection (see section 5.1):
+The frequency listed below is defined using the following convention: common (≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100).
 
 Common: somnolence, dizziness, headache, akathisia
+Uncommon: orthostatic hypotension*, increased diastolic blood pressure*
 Common: nausea, vomiting
 Uncommon: dry mouth*
-Uncommon: orthostatic hypotension*, increased diastolic blood pressure*
 Uncommon: fatigue*
 
 The following undesirable effects occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*) in clinical trials with oral formulations of aripiprazole (see section 5.1):
 
-|  | Cardiac disorders |
-| --- | --- |
-|  | Uncommon: tachycardia* |
-|  | Nervous system disorders |
-|  | Common: extrapyramidal disorder, akathisia, tremor, dizziness, somnolence, sedation, headache |
-|  | Eye disorders |
-|  | Common: blurred vision |
-| Gastrointestinal disorders Common: dyspepsia, vomiting, nausea, constipation, salivary hypersecretion | Gastrointestinal disorders |
-|  | Common: dyspepsia, vomiting, nausea, constipation, salivary hypersecretion |
-|  | Vascular disorders |
-|  | Uncommon: orthostatic hypotension* |
-|  | General disorders and administration site conditions |
-|  | Common: fatigue |
-| Psychiatric disorders Common: restlessness, insomnia, anxiety Uncommon: depression* | Psychiatric disorders |
-|  | Common: restlessness, insomnia, anxiety |
-
 Metabolism and nutrition weight gain, weight decreased, anorexia, hyponatremia
 
 disorders:
-
-General disorders and temperature regulation disorder (e.g. hypothermia, pyrexia),
-
-administration site conditions: chest pain, peripheral oedema

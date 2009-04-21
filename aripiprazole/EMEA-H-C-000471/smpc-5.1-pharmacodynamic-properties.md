@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: antipsychotics, ATC code: N05AX12
+Pharmacotherapeutic group: other antipsychotics, ATC code: N05AX12
+
 It has been proposed that aripiprazole’s efficacy in schizophrenia and Bipolar I Disorder is mediated through a combination of partial agonism at dopamine D2 and serotonin 5HT1a receptors and antagonism of serotonin 5HT2a receptors.
 Aripiprazole exhibited antagonist properties in animal models of dopaminergic hyperactivity and agonist properties in animal models of dopaminergic hypoactivity.
 Aripiprazole exhibited high binding affinity in vitro for dopamine D2 and D3, serotonin 5HT1a and 5HT2a receptors and moderate affinity for dopamine D4, serotonin 5HT2c and 5HT7, alpha-1 adrenergic and histamine H1 receptors.
@@ -17,7 +18,6 @@ In a haloperidol-controlled trial, the proportion of responder patients maintain
 The overall completion rate was significantly higher for patients on aripiprazole (43%) than for haloperidol (30%).
 Actual scores in rating scales used as secondary endpoints, including PANSS and the Montgomery-Asberg Depression Rating Scale showed a significant improvement over haloperidol.
 In a 26-week, placebo-controlled trial in stabilised patients with chronic schizophrenia, aripiprazole had significantly greater reduction in relapse rate, 34% in aripiprazole group and 57% in placebo.
-
 Weight gain: in clinical trials aripiprazole has not been shown to induce clinically relevant weight gain.
 In a 26-week, olanzapine-controlled, double-blind, multi-national study of schizophrenia which included 314 patients and where the primary end-point was weight gain, significantly less patients had at least 7% weight gain over baseline (i.e. a gain of at least 5.6 kg for a mean baseline weight of
 ~80.5 kg) on aripiprazole (N= 18, or 13% of evaluable patients), compared to olanzapine (N= 45, or 33% of evaluable patients).
@@ -31,6 +31,7 @@ In two 12-week, placebo- and active-controlled monotherapy trials in patients wi
 Aripiprazole also demonstrated a comparable proportion of patients in symptomatic remission from mania as lithium or haloperidol at week 12.
 
 In a 6-week, placebo-controlled trial involving patients with a manic or mixed episode of Bipolar I Disorder, with or without psychotic features, who were partially non-responsive to lithium or valproate monotherapy for 2 weeks at therapeutic serum levels, the addition of aripiprazole as adjunctive therapy resulted in superior efficacy in reduction of manic symptoms than lithium or valproate monotherapy.
+
 In a 26-week, placebo-controlled trial, followed by a 74-week extension, in manic patients who achieved remission on aripiprazole during a stabilization phase prior to randomization, aripiprazole demonstrated superiority over placebo in preventing bipolar recurrence, primarily in preventing recurrence into mania but failed to demonstrate superiority over placebo in preventing recurrence into depression.
 
 [ABILIFY 10 mg tablets]
