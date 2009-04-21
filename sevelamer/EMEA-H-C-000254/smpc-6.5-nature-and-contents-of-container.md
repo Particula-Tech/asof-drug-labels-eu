@@ -10,7 +10,8 @@ Not all pack sizes may be marketed.
 
 [Renagel 800 mg film-coated tablets]
 
-800 mg tablets 1 x 100 tablets
+800 mg tablets 6 x 30 tablets
+1 x 100 tablets
 1 x 180 tablets
 2 x 180 tablets
 3 x 180 tablets
