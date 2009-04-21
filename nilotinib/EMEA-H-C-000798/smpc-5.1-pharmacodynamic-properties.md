@@ -9,13 +9,13 @@ In murine models of CML, as a single agent nilotinib reduces tumour burden and p
 
 Tasigna has little or no effect against the majority of other protein kinases examined, including Src, except for the PDGF, Kit and Ephrin receptor kinases, which it inhibits at concentrations within the range achieved following oral administration at therapeutic doses recommended for the treatment of CML (see Table 4).
 
-Table 4 Kinase profile of nilotinib (phosphorylation ICB50 BnM)
+Table 4 Kinase profile of nilotinib (phosphorylation IC50 nM)
 
 | Bcr-Abl | PDGFR | KIT |
 | --- | --- | --- |
 | 20 | 69 | 210 |
 
-UClinical studies
+Clinical studies
 An open-label, uncontrolled, multicentre Phase II study was conducted to determine the efficacy of Tasigna in patients with imatinib resistant or intolerant CML with separate treatment arms for chronic and accelerated phase disease.
 The study is ongoing.
 Efficacy was based on 320 CP patients and 119 AP patients enrolled.
@@ -44,7 +44,7 @@ Table 6 CML disease history characteristics
 | --- | --- | --- |
 | Median time since diagnosis in months (range) | 57 (5–275) | 71 (2–298) |
 | Imatinib Resistant Intolerant without MCyR | 226 (71%) 94 (29%) | 96 (81%) 23 (19%) |
-| Median time of imatinib treatment in days (25th-75PthP percentiles) | 973 (515-1,485) | 976 (488-1,543) |
+| Median time of imatinib treatment in days (25th-75th percentiles) | 973 (515-1,485) | 976 (488-1,543) |
 | Prior hydroxyurea | 83% | 92% |
 | Prior interferon | 64% | 58% |
 | Prior bone marrow transplant | 8% | 8% |
@@ -58,6 +58,7 @@ Most responders achieved their MCyR rapidly within 3 months (median 2.8 months) 
 Among 156 patients with MCyR 43 patients (27.6%) lost their MCyR.
 Patients with a CHR at baseline achieved a MCyR faster (1 vs. 2.8 months).
 Of CP patients without a baseline CHR, 70% achieved a CHR and median time to CHR was 1 month and median duration of CHR has not been reached.
+
 The overall confirmed HR rate in 119 AP patients was 42%.
 Most responders achieved a HR early with Tasigna treatment (median 1.0 months) and these have been durable (median duration has not been reached).
 No patients have had a loss of CHR.
@@ -70,22 +71,13 @@ Table 7 Response in CML
 | (Best Response Rate) | Chronic Phase |  |  | Accelerated Phase |
 | --- | --- | --- | --- | --- |
 |  | Intolerant (n=94) | Resistant (n=226) | Total (n=320) | Total (n=119) |
-
-Haematological Response (%)
-
-Overall (95%CI) - - - 42 (33-51)
-Complete 86 (74-94) 64 (56-72) 70P1P (63-76) 25
-NEL - - - 7
-Return to CP - - - 10
-
-Cytogenetic Response (%)
-
-Major (95%CI) 52 (42-62) 47 (41-54) 49 (43-54) 27 (19-35)
-Complete 39 32 34 15
-Partial 13 15 14 12
+| Haematological Response (%) |  |  |  |  |
+| Overall (95%CI) Complete NEL Return to CP | - 86 (74-94) - - | - 64 (56-72) - - | - 701 (63-76) - - | 42 (33-51) 25 7 10 |
+| Cytogenetic Response (%) |  |  |  |  |
+| Major (95%CI) Complete Partial | 52 (42-62) 39 13 | 47 (41-54) 32 15 | 49 (43-54) 34 14 | 27 (19-35) 15 12 |
 
 NEL = no evidence of leukaemia/marrow response
-P1P 114 CP patients had a CHR at baseline and were therefore not assessable for complete haematological response
+1 114 CP patients had a CHR at baseline and were therefore not assessable for complete haematological response
 
 Efficacy data in patients with CML-BC are not yet available.
 Separate treatment arms were also included in the Phase II study to investigate Tasigna in a group of CP and AP patients who had been extensively pre-treated with multiple therapies including a tyrosine kinase inhibitor agent in addition to imatinib.

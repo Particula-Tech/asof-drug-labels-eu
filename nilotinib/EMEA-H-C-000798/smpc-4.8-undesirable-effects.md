@@ -55,7 +55,7 @@ disorders and Common Asthenia 6 0 0 0
 administration Common Oedema 5 0 0 0
 site conditions peripheral
 
-UAdditional data from clinical trials
+Additional data from clinical trials
 The following adverse reactions were reported in patients in the Tasigna clinical studies at a frequency of less than 5% (common is ≥1/100 to <1/10; uncommon is >1/1,000 to <1/100; single events are captured as frequency not known [cannot be estimated from the available data]).
 For laboratory abnormalities, very common events (≥1/10) not included in Table 2 are also reported.
 These adverse reactions are included based on clinical relevance and ranked in order of decreasing seriousness within each category.
@@ -144,8 +144,8 @@ Psychiatric disorders:
 Common: insomnia.
 Uncommon: depression, anxiety.
 Not known: disorientation, confusional state.
-
 Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values are presented in Table 3.
+
 Table 3 Grade 3-4 laboratory abnormalities
 
 |  | CML-CP n=318 % | CML-AP n=120 % |
