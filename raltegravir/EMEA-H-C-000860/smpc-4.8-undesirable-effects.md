@@ -11,7 +11,8 @@ In this pooled analysis, the rates of discontinuation of therapy due to adverse 
 Adverse reactions considered by investigators to be causally related to ISENTRESS (alone or in combination with OBT) are listed below by System Organ Class.
 Any term that includes at least one serious adverse reaction is identified with a dagger (†).
 Adverse reactions identified from post-marketing experience are included in italics.
-Frequencies are defined as common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), and not known (cannot be estimated from the available data).
+Frequencies are defined as common (≥ 1/100 to
+< 1/10), uncommon (≥ 1/1,000 to < 1/100), and not known (cannot be estimated from the available data).
 
 | System Organ Class | Frequency | Adverse reactions ISENTRESS (alone or in combination with OBT) |
 | --- | --- | --- |
@@ -21,6 +22,7 @@ Frequencies are defined as common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 t
 | Metabolism and nutrition disorders | uncommon | central obesity, decreased appetite, diabetes mellitus, dyslipidaemia, hypercholesterolaemia, increased appetite |
 | Psychiatric disorders | common | insomnia |
 |  | uncommon | abnormal dreams, anxiety, depression, middle insomnia, sleep disorder |
+|  | not known | suicidal ideation, suicidal behaviour (particularly in patients with a pre-existing history of psychiatric illness) |
 | Nervous system disorders | common | dizziness, headache |
 |  | uncommon | carpal tunnel syndrome, disturbance in attention, dizziness postural, dysgeusia, hypersomnia, hypoaesthesia, lethargy, neuropathy, neuropathy peripheral, paraesthesia, somnolence, tension headache, tremor |
 | Eye disorders | uncommon | visual disturbance |
@@ -50,7 +52,7 @@ The cancers included Kaposi’s sarcoma, lymphoma, squamous cell carcinoma, hepa
 Most patients had other risk factors for cancer including tobacco use, papillomavirus and active hepatitis B virus infection.
 It is unknown if these cancer diagnoses were related to ISENTRESS use (see section 4.4).
 
-Grade 2-4 creatine kinase laboratory abnormalities were observed in subjects treated with ISENTRESS (see Table 2).
+Grade 2-4 creatine kinase laboratory abnormalities were observed in subjects treated with ISENTRESS.
 Myopathy and rhabdomyolysis have been reported; however, the relationship of ISENTRESS to these events is not known.
 Use with caution in patients who have had myopathy or rhabdomyolysis in the past or have any predisposing issues including other medicinal products associated with these conditions (see section 4.4).
 
