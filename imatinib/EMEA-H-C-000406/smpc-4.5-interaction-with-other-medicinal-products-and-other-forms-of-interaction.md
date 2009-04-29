@@ -9,7 +9,7 @@ Active substances that may decrease imatinib plasma concentrations:
 Substances that are inducers of CYP3A4 activity could increase metabolism and decrease imatinib plasma concentrations.
 Co-medications which induce CYP3A4 (e.g. dexamethasone, phenytoin, carbamazepine, rifampicin, phenobarbital, fosphenytoin, primidone or Hypericum perforatum, also known as St. John’s Wort) may significantly reduce exposure to Glivec, potentially increasing the risk of therapeutic failure.
 Pretreatment with multiple doses of rifampicin 600 mg followed by a single 400 mg dose of Glivec resulted in decrease in Cmax and AUC(0-∞) by at least 54% and 74%, of the respective values without rifampicin treatment.
-Similar results were observed in patients with malignant gliomas treated with Glivec while taking enzyme-inducing anti-epileptic drugs (EIAEDs) such as carbamazepine, oxcarbamazepine and phenytoin.
+Similar results were observed in patients with malignant gliomas treated with Glivec while taking enzyme-inducing anti-epileptic drugs (EIAEDs) such as carbamazepine, oxcarbazepine and phenytoin.
 The plasma AUC for imatinib decreased by 73% compared to patients not on EIAEDs.
 Concomitant use of rifampicin or other strong CYP3A4 inducers and imatinib should be avoided.
 
@@ -26,7 +26,6 @@ Dose adjustments do not seem to be necessary when imatinib is co-administrated w
 In patients treated with metoprolol clinical monitoring should be considered.
 
 In vitro, Glivec inhibits paracetamol O-glucuronidation (Ki value of 58.5 micromol/l at therapeutic levels).
-
 Caution should therefore be exercised when using Glivec and paracetamol concomitantly, especially with high doses of paracetamol.
 
 In thyroidectomy patients receiving levothyroxine, the plasma exposure to levothyroxine may be decreased when Glivec is co-administered (see section 4.4).

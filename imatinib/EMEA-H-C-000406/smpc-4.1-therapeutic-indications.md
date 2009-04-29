@@ -11,11 +11,13 @@ Glivec is indicated for the treatment of
 
 The effect of Glivec on the outcome of bone marrow transplantation has not been determined.
 
-Glivec is also indicated for the treatment of
+Glivec is indicated for
 
-- adult patients with Kit (CD 117) positive unresectable and/or metastatic malignant gastrointestinal stromal tumours (GIST).
-- adult patients with unresectable dermatofibrosarcoma protuberans (DFSP) and adult patients with recurrent and/or metastatic DFSP who are not eligible for surgery.
+- the treatment of adult patients with Kit (CD 117) positive unresectable and/or metastatic malignant gastrointestinal stromal tumours (GIST).
+- the adjuvant treatment of adult patients who are at significant risk of relapse following resection of Kit (CD117)-positive GIST.
+  Patients who have a low or very low risk of recurrence should not receive adjuvant treatment.
+- the treatment of adult patients with unresectable dermatofibrosarcoma protuberans (DFSP) and adult patients with recurrent and/or metastatic DFSP who are not eligible for surgery.
 
-In adult and paediatric patients, the effectiveness of Glivec is based on overall haematological and cytogenetic response rates and progression-free survival in CML, on haematological and cytogenetic response rates in Ph+ ALL, MDS/MPD, on haematological response rates in HES/CEL and on objective response rates in adult patients with GIST and DFSP.
+In adult and paediatric patients, the effectiveness of Glivec is based on overall haematological and cytogenetic response rates and progression-free survival in CML, on haematological and cytogenetic response rates in Ph+ ALL, MDS/MPD, on haematological response rates in HES/CEL and on objective response rates in adult patients with unresectable and/or metastatic GIST and DFSP and on recurrence-free survival in adjuvant GIST.
 The experience with Glivec in patients with MDS/MPD associated with PDGFR gene re-arrangements is very limited (see section 5.1).
 Except in newly diagnosed chronic phase CML, there are no controlled trials demonstrating a clinical benefit or increased survival for these diseases.

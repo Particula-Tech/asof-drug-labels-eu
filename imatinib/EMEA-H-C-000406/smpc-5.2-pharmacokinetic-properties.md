@@ -23,9 +23,10 @@ The remaining circulating radioactivity consisted of a number of minor metabolit
 
 The in vitro results showed that CYP3A4 was the major human P450 enzyme catalysing the biotransformation of imatinib.
 Of a panel of potential comedications (acetaminophen, aciclovir, allopurinol, amphotericin, cytarabine, erythromycin, fluconazole, hydroxyurea, norfloxacin, penicillin V) only erythromycin (IC50 50 µM) and fluconazole (IC50 118 µM) showed inhibition of imatinib metabolism which could have clinical relevance.
+
 Imatinib was shown in vitro to be a competitive inhibitor of marker substrates for CYP2C9, CYP2D6 and CYP3A4/5.
-Ki values in human liver microsomes were 27, 7.5 and 7.9 µmol/l, respectively.
-Maximal plasma concentrations of imatinib in patients are 2–4 µmol/l, consequently an inhibition of CYP2D6 and/or CYP3A4/5-mediated metabolism of co-administered drugs is possible.
+Ki values in human liver microsomes were 27, 7.5 and 7.9 μmol/l, respectively.
+Maximal plasma concentrations of imatinib in patients are 2–4 μmol/l, consequently an inhibition of CYP2D6 and/or CYP3A4/5-mediated metabolism of co-administered drugs is possible.
 Imatinib did not interfere with the biotransformation of 5-fluorouracil, but it inhibited paclitaxel metabolism as a result of competitive inhibition of CYP2C8 (Ki = 34.7 µM).
 This Ki value is far higher than the expected plasma levels of imatinib in patients, consequently no interaction is expected upon co-administration of either 5-fluorouracil or paclitaxel and imatinib.
 

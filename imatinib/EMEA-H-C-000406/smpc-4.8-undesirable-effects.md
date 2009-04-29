@@ -7,12 +7,13 @@ In GIST the study drug was discontinued for drug-related adverse reactions in 4%
 
 The adverse reactions were similar in all indications, with two exceptions.
 There was more myelosuppression seen in CML patients than in GIST, which is probably due to the underlying disease.
-In the GIST clinical trial, 7 (5%) patients experienced CTC grade 3/4 GI bleeds (3 patients), intra-tumoural bleeds (3 patients) or both (1 patient).
+In the study in patients with unresectable and/or metastatic GIST, 7 (5%) patients experienced CTC grade 3/4 GI bleeds (3 patients), intra-tumoural bleeds (3 patients) or both (1 patient).
 GI tumour sites may have been the source of the GI bleeds (see section 4.4).
 GI and tumoural bleeding may be serious and sometimes fatal.
 The most commonly reported (≥ 10%) drug-related adverse reactions in both settings were mild nausea, vomiting, diarrhoea, abdominal pain, fatigue, myalgia, muscle cramps and rash.
 Superficial oedemas were a common finding in all studies and were described primarily as periorbital or lower limb oedemas.
 However, these oedemas were rarely severe and may be managed with diuretics, other supportive measures, or by reducing the dose of Glivec.
+
 When imatinib was combined with high dose chemotherapy in Ph+ ALL patients, transient liver toxicity in the form of transaminase elevation and hyperbilirubinaemia were observed.
 
 Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and rapid weight gain with or without superficial oedema may be collectively described as “fluid retention”.
@@ -70,12 +71,12 @@ Table 1 Adverse reactions in clinical studies
 | Very common: | Periorbital oedema, dermatitis/eczema/rash |
 | Common: | Pruritus, face oedema, dry skin, erythema, alopecia, night sweats, photosensitivity reaction |
 | Uncommon: | Rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, dermatitis exfoliative, onychoclasis, folliculitis, petechiae, psoriasis, purpura, skin hyperpigmentation, bullous eruptions |
-| Rare: | Acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome |
+| Rare: | Acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome, acute generalised exanthematous pustulosis (AGEP) |
 | Musculoskeletal and connective tissue disorders |  |
 | Very common: | Muscle spasm and cramps, musculoskeletal pain including myalgia, arthralgia, bone pain6 |
 | Common: | Joint swelling |
 | Uncommon: | Joint and muscle stiffness |
-| Rare: | Muscular weakness, arthritis |
+| Rare: | Muscular weakness, arthritis, rhabdomyolysis/myopathy |
 | Metabolism and nutrition disorders |  |
 | Common: | Anorexia |
 | Uncommon: | Hypokalaemia, increased appetite, hypophosphataemia, decreased appetite, dehydration, gout, hyperuricaemia, hypercalcaemia, hyperglycaemia, hyponatraemia |
@@ -96,6 +97,7 @@ Table 1 Adverse reactions in clinical studies
 | Rare: | Hepatic failure9, hepatic necrosis |
 | Reproductive system and breast disorders |  |
 | Uncommon: | Gynaecomastia, erectile dysfunction, menorrhagia, menstruation irregular, sexual dysfunction, nipple pain, breast enlargement, scrotal oedema |
+| Rare: | Haemorrhagic corpus luteum/haemorrhagic ovarian cyst |
 | Psychiatric disorders |  |
 | Common: | Insomnia |
 | Uncommon: | Depression, libido decreased, anxiety |
@@ -113,7 +115,6 @@ Table 1 Adverse reactions in clinical studies
 The following types of reactions have been reported mainly from post-marketing experience with Glivec.
 This includes spontaneous case reports as well as serious adverse events from ongoing studies, the expanded access programmes, clinical pharmacology studies and exploratory studies in unapproved indications.
 Because these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to imatinib exposure.
-
 Table 2 Adverse reactions from post-marketing reports
 
 | Neoplasm benign, malignant and unspecified (including cysts and polyps) |  |
@@ -140,6 +141,7 @@ Table 2 Adverse reactions from post-marketing reports
 | Not known: | Thrombosis/embolism |
 
 1 Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant conditions.
+
 Laboratory test abnormalities
 Haematology
 In CML, cytopenias, particularly neutropenia and thrombocytopenia, have been a consistent finding in all studies, with the suggestion of a higher frequency at high doses ≥ 750 mg (phase I study).
@@ -152,11 +154,10 @@ These events can usually be managed with either a reduction of the dose or an in
 In paediatric CML patients the most frequent toxicities observed were grade 3 or 4 cytopenias involving neutropenia, thrombocytopenia and anaemia.
 These generally occur within the first several months of therapy.
 
-In patients with GIST, grade 3 and 4 anaemia was reported in 5.4% and 0.7% of patients, respectively, and may have been related to gastrointestinal or intra-tumoural bleeding in at least some of these patients.
+In the study in patients with unresectable and/or metastatic GIST, grade 3 and 4 anaemia was reported in 5.4% and 0.7% of patients, respectively, and may have been related to gastrointestinal or intra-tumoural bleeding in at least some of these patients.
 Grade 3 and 4 neutropenia was seen in 7.5% and 2.7% of patients, respectively, and grade 3 thrombocytopenia in 0.7% of patients.
 No patient developed grade 4 thrombocytopenia.
 The decreases in white blood cell (WBC) and neutrophil counts occurred mainly during the first six weeks of therapy, with values remaining relatively stable thereafter.
-
 Biochemistry
 Severe elevation of transaminases (<5%) or bilirubin (<1%) was seen in CML patients and was usually managed with dose reduction or interruption (the median duration of these episodes was approximately one week).
 Treatment was discontinued permanently because of liver laboratory abnormalities in less than 1% of CML patients.
@@ -207,12 +208,12 @@ There have been cases of cytolytic and cholestatic hepatitis and hepatic failure
 | Very common: | Periorbital oedema, dermatitis/eczema/rash |
 | Common: | Pruritus, face oedema, dry skin, erythema, alopecia, night sweats, photosensitivity reaction |
 | Uncommon: | Rash pustular, contusion, sweating increased, urticaria, ecchymosis, increased tendency to bruise, hypotrichosis, skin hypopigmentation, dermatitis exfoliative, onychoclasis, folliculitis, petechiae, psoriasis, purpura, skin hyperpigmentation, bullous eruptions |
-| Rare: | Acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome |
+| Rare: | Acute febrile neutrophilic dermatosis (Sweet’s syndrome), nail discolouration, angioneurotic oedema, rash vesicular, erythema multiforme, leucocytoclastic vasculitis, Stevens-Johnson syndrome, acute generalised exanthematous pustulosis (AGEP) |
 | Musculoskeletal and connective tissue disorders |  |
 | Very common: | Muscle spasm and cramps, musculoskeletal pain including myalgia, arthralgia, bone pain6 |
 | Common: | Joint swelling |
 | Uncommon: | Joint and muscle stiffness |
-| Rare: | Muscular weakness, arthritis |
+| Rare: | Muscular weakness, arthritis, rhabdomyolysis/myopathy |
 | Metabolism and nutrition disorders |  |
 | Common: | Anorexia |
 | Uncommon: | Hypokalaemia, increased appetite, hypophosphataemia, decreased appetite, dehydration, gout, hyperuricaemia, hypercalcaemia, hyperglycaemia, hyponatraemia |
@@ -233,6 +234,7 @@ There have been cases of cytolytic and cholestatic hepatitis and hepatic failure
 | Rare: | Hepatic failure9, hepatic necrosis |
 | Reproductive system and breast disorders |  |
 | Uncommon: | Gynaecomastia, erectile dysfunction, menorrhagia, menstruation irregular, sexual dysfunction, nipple pain, breast enlargement, scrotal oedema |
+| Rare: | Haemorrhagic corpus luteum/haemorrhagic ovarian cyst |
 | Psychiatric disorders |  |
 | Common: | Insomnia |
 | Uncommon: | Depression, libido decreased, anxiety |
