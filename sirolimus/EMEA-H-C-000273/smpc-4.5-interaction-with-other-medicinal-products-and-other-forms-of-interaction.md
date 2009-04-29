@@ -13,6 +13,7 @@ The effect of CsA was also reflected by increases in sirolimus Cmax and tmax.
 When given 2 hours before CsA administration, sirolimus Cmax and AUC were not affected.
 Single-dose sirolimus did not affect the pharmacokinetics of ciclosporin (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart.
 It is recommended that Rapamune be administered 4 hours after ciclosporin (microemulsion).
+
 Rifampicin (CYP3A4 inducer): Administration of multiple doses of rifampicin decreased sirolimus whole blood concentrations following a single 10 mg dose of Rapamune oral solution.
 Rifampicin increased the clearance of sirolimus by approximately 5.5-fold and decreased AUC and Cmax by approximately 82% and 71%, respectively.
 Co-administration of sirolimus and rifampicin is not recommended (see section 4.4).
@@ -40,7 +41,6 @@ Sirolimus levels should be monitored and appropriate dose reductions of both med
 
 Oral contraceptives: No clinically significant pharmacokinetic interaction was observed between sirolimus and 0.3 mg norgestrel/ 0.03 mg ethinyl estradiol.
 Although the results of a single dose drug interaction study with an oral contraceptive suggest the lack of a pharmacokinetic interaction, the results cannot exclude the possibility of changes in the pharmacokinetics that might affect the efficacy of the oral contraceptive during long term treatment with Rapamune.
-
 Other possible interactions
 Moderate and weak inhibitors of CYP3A4 may decrease the metabolism of sirolimus and increase sirolimus blood levels (e.g. calcium channel blockers: nicardipine; antifungal agents: clotrimazole, fluconazole; antibiotics: troleandomycin; other substances: bromocriptine, cimetidine, danazol, protease inhibitors).
 

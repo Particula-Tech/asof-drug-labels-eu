@@ -10,7 +10,6 @@ Lactose monohydrate
 Macrogol
 Magnesium stearate
 Talc.
-
 Tablet coating:
 Glyceryl monooleate
 Pharmaceutical glaze

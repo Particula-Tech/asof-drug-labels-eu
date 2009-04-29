@@ -28,6 +28,11 @@ The safety and efficacy of Rapamune as immunosuppressive therapy have not been e
 
 In two clinical studies in de novo liver transplant patients the use of sirolimus plus ciclosporin or tacrolimus was associated with an increase in hepatic artery thrombosis, mostly leading to graft loss or death.
 
+A clinical study in liver transplant patients randomised to conversion from a CNI-based regimen to a sirolimus-based regimen versus continuation of a CNI-based regimen 6-144 months post-liver transplantation failed to demonstrate superiority in baseline-adjusted GFR at 12 months (-4.45 mL/min and -3.07 mL/min, respectively).
+The study also failed to demonstrate non-inferiority of the rate of combined graft loss, missing survival data, or death for the sirolimus conversion group compared to the CNI continuation group.
+The rate of death in the sirolimus conversion group was higher than the CNI continuation group, although the rates were not significantly different.
+The rates of premature study discontinuation, adverse events overall (and infections, specifically), and biopsy-proven acute liver graft rejection at 12 months were all significantly greater in the sirolimus conversion group compared to the CNI continuation group.
+
 There have been reports of impaired or delayed wound healing in patients receiving Rapamune, including lymphocele and wound dehiscence.
 Patients with a BMI greater than 30 kg/m2 may be at increased risk of abnormal wound healing based on data from the medical literature.
 
@@ -40,7 +45,6 @@ Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angi
 In rare cases, the concomitant administration of sirolimus and ACE inhibitors has resulted in angioneurotic oedema-type reactions.
 
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
-
 Cases of Pneumocystis carinii pneumonia have been reported in patients not receiving antimicrobial prophylaxis.
 Therefore, antimicrobial prophylaxis for Pneumocystis carinii pneumonia should be administered for the first 12 months following transplantation.
 
