@@ -1,30 +1,24 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Insulin aspart∗ .........................................100 U/ml
+1 ml of the solution contains 100 U of insulin aspart* (equivialent to 3.5mg).
+1 vial contains 10 ml equivalent to 1,000 U.
 
-∗ produced by recombinant DNA technology in Saccharomyces cerevisiae.
-
-One unit of insulin aspart corresponds to 6 nmol, 0.035 mg salt-free anhydrous insulin aspart.
-
-Excipient
-
-Metacresol……………………………1,72 mg/ml
+*Insulin aspart is produced by recombinant DNA technology in Saccharomyces cerevisiae.
 
 For a full list of excipients, see section 6.1.
 
-[NovoRapid Penfill 100 U/ml, solution for injection in a cartridge.]
+[NovoRapid Penfill 100 U/ml solution for injection in cartridge.]
 
-Insulin aspart∗ ...........................................100 U/ml
+1 cartridge contains 3 ml equivalent to 300 U.
 
-[NovoRapid NovoLet 100 U/ml, solution for injection in a pre-filled pen.]
+[NovoRapid NovoLet 100 U/ml solution for injection in pre-filled pen.]
+
+1 pre-filled pen contains 3 ml equivalent to 300 U.
+
+[NovoRapid FlexPen 100 U/ml solution for injection in pre-filled pen.]
 
 (all sentences already above)
 
-[NovoRapid FlexPen 100 U/ml, solution for injection in a pre-filled pen.]
-
-Insulin aspart∗ ...........................................
-100 U/ml
-
-[NovoRapid InnoLet 100 U/ml, solution for injection in a pre-filled pen.]
+[NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
 
 (all sentences already above)

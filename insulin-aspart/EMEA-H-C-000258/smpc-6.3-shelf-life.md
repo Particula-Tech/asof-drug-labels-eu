@@ -1,5 +1,5 @@
 # 6.3 Shelf life
 
-30 months
+30 months.
 
-The in-use shelf life is 4 weeks.
+After first opening: A maximum of 4 weeks when stored below 30°C.
