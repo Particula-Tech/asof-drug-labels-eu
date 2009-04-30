@@ -1,15 +1,11 @@
-# 6.1 List of Excipients
+# 6.1 List of excipients
 
-The transdermal patch is composed of three layers: a backing film, an adhesive/drug layer and a release liner.
-The backing film provides the matrix system with occlusivity and physical integrity and protects the adhesive/drug layer.
-The adhesive/drug layer contains oxybutynin and triacetin.
-The release liner is two overlapped siliconised polyester strips that are peeled off and discarded by the patient prior to applying the patch.
+Backing film
+Clear polyester/ethylene-vinyl acetate (PET/EVA)
 
-Backing Film:
-Polyethylene/ethyl vinyl acetate (PET/EVA), clear
-Middle layer:
+Middle layer
 Triacetin
-Acrylic Copolymer Adhesive Solution containing 2-ethylhexyl acrylate N-vinyl pyrrolidone and hexamethyleneglycol dimethacrylate polymer domains
+Acrylic copolymer adhesive solution containing 2-ethylhexyl acrylate N-vinyl pyrrolidone and hexamethyleneglycol dimethacrylate polymer domains
 
-Release Liner:
-Siliconised Polyester
+Release Liner
+Siliconised polyester

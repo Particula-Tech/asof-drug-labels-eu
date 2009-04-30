@@ -1,4 +1,4 @@
-# 5.3 Preclinical Safety Data
+# 5.3 Preclinical safety data
 
 Pre-clinical data reveal no special hazard for humans based on studies for acute toxicology, repeat dose toxicity, genotoxicity, carcinogenic potential and local toxicity.
 At a concentration of 0.4 mg/kg/day oxybutynin administered subcutaneously, the occurrence of organ anomalies is significantly increased, but is observed only in the presence of maternal toxicity.

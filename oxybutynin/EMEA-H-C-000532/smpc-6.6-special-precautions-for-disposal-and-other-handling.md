@@ -1,4 +1,4 @@
-# 6.6 Instructions for use and handling
+# 6.6 Special precautions for disposal and other handling
 
 Apply immediately upon removal from the protective sachet.
 After use the patch still contains substantial quantities of active ingredients.
