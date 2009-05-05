@@ -16,7 +16,7 @@ Cardiac disorders:
 Common:
 - Bradycardia: 3.3% of patients particularly within the first 2 to 3 months of treatment initiation.
 0.5% of patients experienced a severe bradycardia below or equal to 40 bpm.
-- AV 1st degree block
+- AV 1st degree block (ECG prolonged PQ interval)
 - Ventricular extrasystoles
 Uncommon:
 - Palpitations, supraventricular extrasystoles
