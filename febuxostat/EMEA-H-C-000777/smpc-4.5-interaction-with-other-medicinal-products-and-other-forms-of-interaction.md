@@ -23,7 +23,6 @@ Inducers of glucuronidation
 Potent inducers of UGT enzymes might possibly lead to increased metabolism and decreased efficacy of febuxostat.
 Monitoring of serum uric acid is therefore recommended 1-2 weeks after start of treatment with a potent inducer of glucuronidation.
 Conversely, cessation of treatment of an inducer might lead to increased plasma levels of febuxostat.
-
 Colchicine/indometacin/hydrochlorothiazide/warfarin
 Febuxostat can be co-administered with colchicine or indomethacin with no dose adjustment of febuxostat or the co-administered active substance being necessary.
 
@@ -34,8 +33,7 @@ After initiation of febuxostat therapy, monitoring of anticoagulant activity sho
 
 Desipramine/CYP2D6 substrates.
 Febuxostat was shown to be a weak inhibitor of CYP2D6 in vitro.
-In a study in healthy subjects,
-120 mg ADENURIC QD resulted in a mean 22% increase in AUC of desipramine, a CYP2D6 substrate indicating a potential weak inhibitory effect of febuxostat on the CYP2D6 enzyme in vivo.
+In a study in healthy subjects, 120 mg ADENURIC QD resulted in a mean 22% increase in AUC of desipramine, a CYP2D6 substrate indicating a potential weak inhibitory effect of febuxostat on the CYP2D6 enzyme in vivo.
 Thus, co-administration of febuxostat with other CYP2D6 substrates is not expected to require any dose adjustment for those compounds.
 
 Antacids

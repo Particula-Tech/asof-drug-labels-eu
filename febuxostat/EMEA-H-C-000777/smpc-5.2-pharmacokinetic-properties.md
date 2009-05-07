@@ -21,7 +21,6 @@ Distribution
 The apparent steady state volume of distribution (Vss/F) of febuxostat ranges from 29 to 75 l after oral doses of 10-300 mg.
 The plasma protein binding of febuxostat is approximately 99.2%, (primarily to albumin), and is constant over the concentration range achieved with 80 and 120 mg doses.
 Plasma protein binding of the active metabolites ranges from about 82% to 91%.
-
 Metabolism
 Febuxostat is extensively metabolized by conjugation via uridine diphosphate glucuronosyltransferase (UDPGT) enzyme system and oxidation via the cytochrome P450 (CYP) system.
 Four pharmacologically active hydroxyl metabolites have been identified, of which three occur in plasma of humans.
@@ -36,7 +35,7 @@ In addition to the urinary excretion, approximately 45% of the dose was recovere
 Special populations
 Renal insufficiency
 Following multiple doses of 80 mg of ADENURIC in patients with mild, moderate or severe renal insufficiency, the Cmax of febuxostat did not change, relative to subjects with normal renal function.
-The mean total AUC of febuxostat increased by approximately 1.8-fold from 7.5 µg⋅h/ml in the normal renal function group to 13.2 µg.h/ml in the severe renal dysfunction group.
+The mean total AUC of febuxostat increased by approximately 1.8-fold from 7.5 μg⋅h/ml in the normal renal function group to 13.2 μg.h/ml in the severe renal dysfunction group.
 The Cmax and AUC of active metabolites increased up to 2- and 4-fold, respectively.
 However, no dose adjustment is necessary in patients with mild or moderate renal impairment.
 

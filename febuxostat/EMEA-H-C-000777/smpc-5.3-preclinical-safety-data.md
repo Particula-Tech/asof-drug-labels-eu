@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 Effects in non-clinical studies were generally observed at exposures in excess of the maximum human exposure.
-
 Carcinogenesis, mutagenesis, impairment of fertility
 In male rats, a statistically significant increase in urinary bladder tumours (transitional cell papilloma and carcinoma) was found only in association with xanthine calculi in the high dose group, at approximately 11 times human exposure.
 There was no significant increase in any other tumour type in either male or female mice or rats.
