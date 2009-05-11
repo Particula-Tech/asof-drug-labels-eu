@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-5 years
+7 years
 
 [Tamiflu 45 mg hard capsule.]
 
