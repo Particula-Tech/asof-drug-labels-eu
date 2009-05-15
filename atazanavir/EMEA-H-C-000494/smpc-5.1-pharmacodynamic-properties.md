@@ -142,16 +142,6 @@ REYATAZ + saquinavir was shown to be inferior to lopinavir + ritonavir.
 | --- | --- | --- |
 | All patients | 78 | 76 |
 | Baseline Characteristics |  |  |
-| HIV RNA <100,000 copies/ml | 82 (n=217d) | 81 (n=218) |
+| HIV RNA | 82 (n=217d) | 81 (n=218) |
+| <100,000 copies/ml |  |  |
 | ≥100,000 copies/ml | 74 (n=223) | 72 (n=225) |
-| CD4 count <50 cells/mm3 | 78 (n=58) | 63 (n=48) |
-| 50 to <100 cells/mm3 | 76 (n=45) | 69 (n=29) |
-| 100 to <200 cells/mm3 | 75 (n=106) | 78 (n=134) |
-| ≥200 cells/mm3 | 80 (n=222) | 80 (n=228) |
-| HIV RNA Mean Change from Baseline, log10 copies/ml |  |  |
-| All patients | -3.09 (n=397) | -3.13 (n=379) |
-| CD4 Mean Change from Baseline, cells/mm3 |  |  |
-| All patients | 203 (n=370) | 219 (n=363) |
-| Baseline Characteristics |  |  |
-| HIV RNA <100,000 copies/ml | 179 (n=183) | 194 (n=183) |
-| ≥100,000 copies/ml | 227 (n=187) | 245 (n=180) |

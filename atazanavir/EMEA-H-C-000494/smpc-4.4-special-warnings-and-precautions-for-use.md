@@ -17,11 +17,15 @@ In case of concomitant antiviral therapy for hepatitis B or C, please refer also
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
+No dosage adjustment is needed in patients with renal impairment.
+However, REYATAZ with ritonavir is not recommended in patients undergoing hemodialysis (see sections 4.2 and 5.2).
+
 Dose related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
 Caution should be used with medicinal products known to induce PR prolongations.
 In patients with pre-existing conduction problems (second degree or higher atrioventricular or complex bundle-branch block), REYATAZ should be used with caution and only if the benefits exceed the risk
 (see section 5.1).
 Particular caution should be used when prescribing REYATAZ in association with medicinal products which have the potential to increase the QT interval and/or in patients with pre-existing risk factors (bradycardia, long congenital QT, electrolyte imbalances (see sections 4.8 and 5.3).
+
 There have been reports of increased bleeding, including spontaneous skin haematomas and haemarthroses, in type A and B haemophiliac patients treated with protease inhibitors.
 In some patients additional factor VIII was given.
 In more than half of the reported cases, treatment with protease inhibitors was continued or reintroduced if treatment had been discontinued.

@@ -32,7 +32,12 @@ In HIV-infected adult patients (n=33, combined studies) the mean half-life withi
 Special populations
 
 Impaired renal function: in healthy subjects, the renal elimination of unchanged atazanavir was approximately 7% of the administered dose.
-There are no pharmacokinetic data available on patients with renal insufficiency (see section 4.2); however, the impact of renal impairment on atazanavir elimination is anticipated to be minimal.
+There are no pharmacokinetic data available for
+REYATAZ with ritonavir in patients with renal insufficiency.
+REYATAZ (without ritonavir) has been studied in adult patients with severe renal impairment (n=20), including those on haemodialysis, at multiple doses of 400 mg once daily.
+Although this study presented some limitations (i.e., unbound drug concentrations not studied), results suggested that the atazanavir pharmacokinetic parameters were decreased by 30% to 50% in patients undergoing hemodialysis compared to patients with normal renal function.
+The mechanism of this decrease is unknown.
+(See sections 4.2 and 4.4.)
 
 Impaired hepatic function: atazanavir is metabolised and eliminated primarily by the liver.
 The effects of hepatic impairment on the pharmacokinetics of atazanavir after a 300 mg dose with ritonavir have not been studied.

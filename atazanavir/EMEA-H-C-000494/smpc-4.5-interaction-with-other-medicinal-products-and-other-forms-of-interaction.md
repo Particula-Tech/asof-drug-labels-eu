@@ -2,7 +2,6 @@
 
 When REYATAZ and ritonavir are co-administered, the metabolic drug interaction profile for ritonavir may predominate because ritonavir is a more potent CYP3A4 inhibitor than atazanavir.
 The Summary of Product Characteristics for ritonavir must be consulted before initiation of therapy with REYATAZ and ritonavir.
-
 Atazanavir is metabolised in the liver through CYP3A4.
 It inhibits CYP3A4.
 Therefore, REYATAZ with ritonavir is contraindicated with medicinal products that are substrates of CYP3A4 and have a narrow therapeutic index: astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil, triazolam, orally administered midazolam, and ergot alkaloids, particularly ergotamine and dihydroergotamine
@@ -75,15 +74,13 @@ atazanavir, dosed significantly alter the
 (0.64, 1.67) (0.67, 1.18) (0.61, 1.73)
 (fasted)
 
-Atazanavir concentrations were greatly decreased when co-administered with didanosine (buffered tablets) and stavudine.
-The mechanism of interaction is a reduced solubility of atazanavir with increasing pH related
-
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
 
-to the presence of anti-acid agent in didanosine buffered tablets.
+Atazanavir concentrations were greatly decreased when co-administered with didanosine (buffered tablets) and stavudine.
+The mechanism of interaction is a reduced solubility of atazanavir with increasing pH related to the presence of anti-acid agent in didanosine buffered tablets.
 No significant effect on didanosine and stavudine concentrations was observed.
 
 Didanosine (enteric coated Didanosine (with ↓0.66 ↓0.62 ↑1.25
@@ -188,15 +185,15 @@ The mechanism of the clarithromycin/atazanavir interaction is CYP3A4 inhibition.
 
 Antifungals
 
-Ketoconazole 200 mg QD No significant effect on atazanavir concentrations was observed. Ketoconazole and
-(atazanavir 400 mg QD) itraconazole should be
-
-used cautiously with
-
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
+
+Ketoconazole 200 mg QD No significant effect on atazanavir concentrations was observed. Ketoconazole and
+(atazanavir 400 mg QD) itraconazole should be
+
+used cautiously with
 
 Itraconazole Itraconazole, like ketoconazole, is a potent inhibitor as well as a REYATAZ/ritonavir.
 substrate of CYP3A4. High doses of
@@ -270,14 +267,14 @@ The antagonist, all as a mechanism of interaction is decreased solubility of ata
 
 gastric pH increases with H2 blockers. food. Reductions in
 
-atazanavir concentrations may be avoided by temporal separation of REYATAZ and an H2-receptor antagonist as follows: REYATAZ 300 mg with ritonavir
+atazanavir concentrations may be avoided by temporal separation of REYATAZ and an
 
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
 
-100 mg once daily with food, 2 hours before and at least 10 hours following the administration of an H2-receptor antagonist.
+H2-receptor antagonist as follows: REYATAZ 300 mg with ritonavir 100 mg once daily with food, 2 hours before and at least 10 hours following the administration of an H2-receptor antagonist.
 Proton pump inhibitors
 
 Omeprazole 40 mg QD Co-administration of
@@ -345,15 +342,16 @@ Tacrolimus co-administered with REYATAZ/ritonavir due to CYP3A4 inhibition. ther
 Sirolimus concentration
 
 monitoring of these medicinal products is recommended until plasma levels have been stabilised.
-CARDIOVASCULAR AGENTS
-Antiarrhythmics
 
-Amiodarone, Concentrations of these antiarrhythmics may be increased when Caution is warranted
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
 
+CARDIOVASCULAR AGENTS
+Antiarrhythmics
+
+Amiodarone, Concentrations of these antiarrhythmics may be increased when Caution is warranted
 Systemic lidocaine, co-administered with REYATAZ/ritonavir. The mechanism of and therapeutic
 Quinidine amiodarone or systemic lidocaine/atazanavir interaction is CYP3A concentration
 inhibition. Quinidine has a narrow therapeutic window and is monitoring is
@@ -417,14 +415,13 @@ Sildenafil Sildenafil is metabolised by CYP3A4. Co-administration with Patients 
 REYATAZ/ritonavir may result in increased concentrations of sildenafil warned about these
 
 and an increase in sildenafil-associated adverse events, including possible side effects.
-
-hypotension, visual changes, and priapism.
-The mechanism of the sildenafil/atazanavir interaction is CYP3A4 inhibition.
-
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
+
+hypotension, visual changes, and priapism.
+The mechanism of the sildenafil/atazanavir interaction is CYP3A4 inhibition.
 
 HERBAL PRODUCTS
 St. John’s wort (Hypericum Concomitant use of St. John's wort with REYATAZ/ritonavir may be Co-administration of
@@ -492,18 +489,18 @@ No drug interaction study co-administered with has been performed for the co-adm
 with benzodiazepines. Based on data for other CYP3A4 inhibitors, administered
 
 plasma concentrations of midazolam are expected to be significantly midazolam (see section higher when midazolam is given orally.
-Data from concomitant use of 4.3), whereas caution parenteral midazolam with other protease inhibitors suggest a possible should be used with
-
-3-4 fold increase in midazolam plasma levels. co-administration of
-
-REYATAZ/ritonavir
+Data from concomitant use of 4.3), whereas caution
 
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
 
-and parenteral midazolam.
+parenteral midazolam with other protease inhibitors suggest a possible should be used with
+
+3-4 fold increase in midazolam plasma levels. co-administration of
+
+REYATAZ/ritonavir and parenteral midazolam.
 If REYATAZ is co-administered with parenteral midazolam, it should be done in an intensive care unit (ICU) or similar setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation.
 Dosage adjustment for midazolam should be considered, especially if more than a single dose of midazolam is administered.
 
@@ -521,21 +518,25 @@ Dosage adjustment for midazolam should be considered, especially if more than a 
 
 [REYATAZ 50 mg/1.5 g oral powder]
 
-The mechanism of interaction is a reduced solubility of atazanavir with increasing pH related to the presence of anti-acid agent in didanosine buffered tablets.
+a significant impact on the pharmacokinetics of NRTIs, the co-administration of REYATAZ/ritonavir with these medicinal products is not expected to
+
+significantly alter the exposure of the co-administered drugs.
 
 atazanavir concentrations may be avoided by temporal separation of REYATAZ and an H2-receptor antagonist as follows: REYATAZ 300 mg with ritonavir 100 mg once daily with food, 2 hours before and at least 10 hours following the administration of an H2-receptor antagonist.
 
-irinotecan, patients
+treatment with REYATAZ/ritonavir,
 
-should be closely monitored for adverse events related to irinotecan.
+especially when commencing therapy.
 
 There needed and ECG was an increase in the maximum PR interval compared to atazanavir monitoring.
 alone.
 
 verapamil is co-administered with REYATAZ/ritonavir.
 
-glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (eg,
+glucocorticoid should
 
-beclomethasone).
+be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (eg, beclomethasone).
 
-REYATAZ/ritonavir and parenteral midazolam.
+ritonavir 100 mg QD) norbuprenorphine ↑2.05 ↑1.61 ↑2.01 sedation and cognitive
+
+Data from concomitant use of 4.3), whereas caution parenteral midazolam with other protease inhibitors suggest a possible should be used with

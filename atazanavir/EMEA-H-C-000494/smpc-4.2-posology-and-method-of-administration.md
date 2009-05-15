@@ -11,11 +11,13 @@ REYATAZ with ritonavir must be taken with food
 
 Infants, toddlers, children, and adolescents: the safety and efficacy of REYATAZ in paediatric patients has not been established (see section 5.2).
 
-Patients with renal impairment: no dosage adjustment is needed (see section 5.2).
+Patients with renal impairment: no dosage adjustment is needed.
+REYATAZ with ritonavir is not recommended in patients undergoing haemodialysis (see sections 4.4 and 5.2).
 
 Patients with hepatic impairment: REYATAZ with ritonavir has not been studied in patients with hepatic impairment.
 REYATAZ with ritonavir should be used with caution in patients with mild hepatic impairment.
 REYATAZ should not be used in patients with moderate to severe hepatic impairment (see sections 4.3, 4.4, and 5.2).
+
 Method of administration: for oral administration.
 The capsules should be swallowed whole.
 REYATAZ oral powder is available for patients who are unable to swallow capsules (see Summary of Product Characteristics for REYATAZ oral powder).

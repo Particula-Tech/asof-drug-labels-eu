@@ -4,7 +4,6 @@ REYATAZ has been evaluated for safety in combination therapy with other antiretr
 (1,151 patients, 52 weeks median duration and 152 weeks maximum duration) or REYATAZ 300 mg with ritonavir 100 mg once daily (655 patients, 48 weeks median duration and 101 weeks maximum duration).
 
 Adverse reactions were consistent between patients who received REYATAZ 400 mg once daily and patients who received REYATAZ 300 mg with ritonavir 100 mg once daily, except that jaundice and elevated total bilirubin levels were reported more frequently with REYATAZ plus ritonavir.
-
 Among patients who received REYATAZ 400 mg once daily or REYATAZ 300 mg with ritonavir 100 mg once daily, the only adverse reactions of any severity reported very commonly with at least a possible relationship to regimens containing REYATAZ and one or more NRTIs were nausea (20%), diarrhoea (10%), and jaundice (12%).
 Among patients receiving REYATAZ 300 mg with ritonavir 100 mg, the frequency of jaundice was 17%.
 In the majority of cases, jaundice was reported within a few days to a few months after the initiation of treatment (see section 4.4).
