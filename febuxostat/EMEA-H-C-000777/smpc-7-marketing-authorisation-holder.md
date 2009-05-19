@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Beaufour Ipsen Pharma
-24 rue Erlanger
-75781 Paris Cedex 16
+Ipsen Pharma
+65, quai Georges Gorse
+92100 Boulogne-Billancourt
 France

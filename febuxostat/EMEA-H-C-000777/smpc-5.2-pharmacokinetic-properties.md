@@ -35,7 +35,7 @@ In addition to the urinary excretion, approximately 45% of the dose was recovere
 Special populations
 Renal insufficiency
 Following multiple doses of 80 mg of ADENURIC in patients with mild, moderate or severe renal insufficiency, the Cmax of febuxostat did not change, relative to subjects with normal renal function.
-The mean total AUC of febuxostat increased by approximately 1.8-fold from 7.5 μg⋅h/ml in the normal renal function group to 13.2 μg.h/ml in the severe renal dysfunction group.
+The mean total AUC of febuxostat increased by approximately 1.8-fold from 7.5 µg⋅h/ml in the normal renal function group to 13.2 µg.h/ml in the severe renal dysfunction group.
 The Cmax and AUC of active metabolites increased up to 2- and 4-fold, respectively.
 However, no dose adjustment is necessary in patients with mild or moderate renal impairment.
 

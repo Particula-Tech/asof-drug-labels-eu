@@ -4,7 +4,7 @@ The recommended oral dose of ADENURIC is 80 mg once daily without regard to food
 If serum uric acid is > 6 mg/dl (357 µmol/l) after 2-4 weeks, ADENURIC 120 mg once daily may be considered.
 
 ADENURIC works sufficiently quickly to allow retesting of the serum uric acid after 2 weeks.
-The therapeutic target is to decrease and maintain serum uric acid below 6 mg/dl (357μmol/l).
+The therapeutic target is to decrease and maintain serum uric acid below 6 mg/dl (357µmol/l).
 
 Gout flare prophylaxis of at least 6 months is recommended (see section 4.4).
 
