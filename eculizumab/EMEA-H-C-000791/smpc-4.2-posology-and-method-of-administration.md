@@ -6,13 +6,13 @@ Soliris should be administered by a healthcare professional and under the superv
 
 The dosing regimen consists of a 5-week initial phase followed by a maintenance phase:
 
-- Initial phase: 600 mg of eculizumab via a 25 - 45 minute intravenous infusion every week for the first 4 weeks, followed by 900 mg of eculizumab for the fifth week of the initial phase.
+- Initial phase: 600 mg of Soliris via a 25 - 45 minute intravenous infusion every week for the first 4 weeks, followed by 900 mg of Soliris for the fifth week of the initial phase.
 - Maintenance phase: 900 mg of Soliris administered via a 25 - 45 minute intravenous infusion every 14 ± 2 days (see Section 5.1).
 
 Instructions for preparation of the diluted solutions are described in section 6.6.
-
 Do not administer as an intravenous push or bolus injection.
 Soliris should only be administered via intravenous infusion as described below.
+
 The diluted solution of Soliris should be administered by intravenous infusion over 25 – 45 minutes via gravity feed, a syringe-type pump, or an infusion pump.
 It is not necessary to protect the diluted solution of Soliris from light during administration to the patient.
 
