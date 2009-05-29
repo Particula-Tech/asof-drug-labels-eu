@@ -121,6 +121,10 @@ Insuman Comb 30 is a biphasic isophane insulin suspension consisting of 30% diss
 
 (all sentences already above)
 
+[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
+
+(all sentences already above)
+
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 Insuman Comb 50 is a biphasic isophane insulin suspension consisting of 50% dissolved insulin and 50% crystalline protamine insulin.
@@ -137,11 +141,11 @@ Each ml contains 100 IU insulin human (equivalent to 3,5 mg).
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 33)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
 
 Each cartridge contains 3 ml suspension for injection, equivalent to 300 IU insulin.
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 34)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
 
 (all sentences already above)
 

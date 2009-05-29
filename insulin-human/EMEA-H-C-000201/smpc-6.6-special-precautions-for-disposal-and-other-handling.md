@@ -47,7 +47,6 @@ Insuman Rapid cartridges are not designed to allow any other insulin to be mixed
 [Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
 
 Empty pens must never be re-used and must be properly discarded.
-
 To prevent the possible transmission of disease, each pen must be used by one patient only.
 
 Insuman Rapid must not be mixed with any other insulin or with insulin analogues.
@@ -92,13 +91,13 @@ OptiSet is designed to work accurately and safely.
 It should be handled with care.
 The patient should avoid situations where OptiSet may be damaged.
 If the patient is concerned that the OptiSet may be damaged, he must use a new one.
-
 Step 1.
 Check the Insulin
 
 After removing the pen cap, the label on the pen and the insulin reservoir should be checked to make sure it contains the correct insulin.
 The appearance of insulin should also be checked: the insulin solution must be clear, colourless, with no solid particles visible, and must have a water-like consistency.
 Do not use this OptiSet if insulin is cloudy, coloured or has particles.
+
 Step 2.
 Attach the needle
 
@@ -144,7 +143,6 @@ If the black plunger is at the beginning of the coloured bar, then there are app
 If the black plunger is at the end of the coloured bar, then there are approximately 20 units of insulin available.
 
 The dosage selector should be turned forward until the dose arrow points to the required dose.
-
 Step 5.
 Load the dose
 
@@ -157,6 +155,7 @@ The injection button allows checking the actual loaded dose.
 The injection button must be held out under tension during this check.
 The last thick line visible on the injection button shows the amount of insulin loaded.
 When the injection button is held out only the top part of this thick line can be seen.
+
 Step 6.
 Inject the dose
 
@@ -280,6 +279,7 @@ Insuman Basal must also NOT be mixed with insulins of animal origin or with insu
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
 If the pen malfunctions (see instructions for using the pen), the suspension may be drawn from the cartridge into an injection syringe (suitable for an insulin with 100 IU/ml) and injected.
+
 Before insertion into the pen, Insuman Basal must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 This is best done by gently tilting the cartridge back and forth (at least ten times).
 Each cartridge contains three small metal balls to facilitate quick and thorough mixing of the contents.
@@ -420,6 +420,10 @@ Insuman Comb 30 must not be mixed with any other insulin or with insulin analogu
 
 Insuman Comb 30 cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
 
+[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
+
+(all sentences already above)
+
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 Insuman Comb 50 must not be used if this cannot be achieved, i.e. if the suspension remains clear, for example, or if clumps, particles or flocculation appear in the insulin or stick to the wall or bottom of the vial.
@@ -447,11 +451,11 @@ Before first use, Insuman Comb 50 must be kept at room temperature for 1 to 2 ho
 
 Insuman Comb 50 must not be mixed with any other insulin or with insulin analogues.
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 33)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
 
 Insuman Comb 50 cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 34)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
 
 (all sentences already above)
 

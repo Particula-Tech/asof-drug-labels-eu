@@ -117,6 +117,10 @@ Each cartridge contains 3 balls (stainless steel).
 
 (all sentences already above)
 
+[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
+
+(all sentences already above)
+
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
@@ -133,11 +137,11 @@ Each cartridge contains 3 balls (stainless steel).
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 33)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 34)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
 
 (all sentences already above)
 
@@ -147,6 +151,5 @@ Packs of 3 vials are available.
 
 [Insuman Infusat 100 IU/ml solution for injection in a cartridge]
 
-3.15 ml solution in a cartridge (type 1 colourless glass) with a plunger (fluoropolymer coated rubber
-(type 1, mixture of chlorobutyl and natural rubber)), a flanged cap (aluminium) and a stopper with hole (bromobutyl rubber (type 1), a Luer cone attachment (colourless polyethylene) and a Luer cap (colourless polyethylene).
+3.15 ml solution in a cartridge (type 1 colourless glass) with a plunger (fluoropolymer coated rubber (type 1, mixture of chlorobutyl and natural rubber)), a flanged cap (aluminium) and a stopper with hole (bromobutyl rubber (type 1), a Luer cone attachment (colourless polyethylene) and a Luer cap (colourless polyethylene).
 Packs of 5 cartridges are available.

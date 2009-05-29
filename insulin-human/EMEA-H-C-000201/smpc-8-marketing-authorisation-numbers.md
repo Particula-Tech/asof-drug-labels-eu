@@ -37,7 +37,12 @@ EU/1/97/030/115
 
 [Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
 
-EU/1/97/030/XXX
+EU/1/97/030/140
+EU/1/97/030/141
+EU/1/97/030/142
+EU/1/97/030/143
+EU/1/97/030/144
+EU/1/97/030/145
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
@@ -78,7 +83,12 @@ EU/1/97/030/121
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
 
-(all sentences already above)
+EU/1/97/030/146
+EU/1/97/030/147
+EU/1/97/030/148
+EU/1/97/030/149
+EU/1/97/030/150
+EU/1/97/030/151
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
@@ -119,7 +129,12 @@ EU/1/97/030/127
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
 
-(all sentences already above)
+EU/1/97/030/152
+EU/1/97/030/153
+EU/1/97/030/154
+EU/1/97/030/155
+EU/1/97/030/156
+EU/1/97/030/157
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
@@ -160,23 +175,48 @@ EU/1/97/030/133
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
 
-(all sentences already above)
+EU/1/97/030/158
+EU/1/97/030/159
+EU/1/97/030/160
+EU/1/97/030/161
+EU/1/97/030/162
+EU/1/97/030/163
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a vial]
 
-(all sentences already above)
+EU/1/97/030/170
+EU/1/97/030/171
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
 
-(all sentences already above)
+EU/1/97/030/172
+EU/1/97/030/173
+EU/1/97/030/174
+EU/1/97/030/175
+EU/1/97/030/176
+EU/1/97/030/177
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
 
-(all sentences already above)
+EU/1/97/030/178
+EU/1/97/030/179
+EU/1/97/030/180
+EU/1/97/030/181
+EU/1/97/030/182
+EU/1/97/030/183
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
 
-(all sentences already above)
+EU/1/97/030/184
+EU/1/97/030/185
+EU/1/97/030/186
+EU/1/97/030/187
+EU/1/97/030/188
+EU/1/97/030/189
+
+[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
+
+EU/1/97/030/XXX
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
@@ -206,7 +246,7 @@ EU/1/97/030/104
 EU/1/97/030/109
 EU/1/97/030/084
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 33)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
 
 EU/1/97/030/134
 EU/1/97/030/135
@@ -215,9 +255,14 @@ EU/1/97/030/137
 EU/1/97/030/138
 EU/1/97/030/139
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 34)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
 
-(all sentences already above)
+EU/1/97/030/164
+EU/1/97/030/165
+EU/1/97/030/166
+EU/1/97/030/167
+EU/1/97/030/168
+EU/1/97/030/169
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 
