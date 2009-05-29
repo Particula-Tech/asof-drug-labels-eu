@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: nucleoside reverse transcriptase inhibitors, ATC Code: J05A F06
+Pharmacotherapeutic group: nucleoside reverse transcriptase inhibitors, ATC Code: J05AF06
 
 Mechanism of action: Abacavir is a NRTI.
 It is a potent selective inhibitor of HIV-1 and HIV-2.
@@ -31,6 +31,7 @@ The inclusion of zidovudine in the regimen has been found to reduce the frequenc
 2.Includes three non-virological failures and four unconfirmed virological failures.
 3.
 Number of subjects with ≥1 Thymidine Analogue Mutations (TAMs).
+
 TAMs might be selected when thymidine analogs are associated with abacavir.
 In a meta-analysis of six clinical trials, TAMs were not selected by regimens containing abacavir without zidovudine (0/127), but were selected by regimens containing abacavir and the thymidine analogue zidovudine (22/86, 26%).
 
@@ -62,6 +63,7 @@ Cross-resistance between abacavir and antiretrovirals from other classes (e.g. P
 Clinical Experience
 
 The demonstration of the benefit of Ziagen is mainly based on results of studies performed in adult treatment-naïve patients using a regimen of Ziagen 300 mg twice daily in combination with zidovudine and lamivudine.
+
 Twice daily (300 mg) administration:
 
 - Therapy naïve adults
@@ -132,7 +134,6 @@ In study ESS30008, 260 patients with virologic suppression on a first line thera
 Results indicate that the FDC group was associated with a similar virologic outcome (non-inferior) compared to the abacavir plus lamivudine group, based on proportions of subjects with HIV-1 RNA < 50 copies/ml (90% and 85% respectively, 95% CI -2.7, 13.5).
 
 Additional information:
-
 The safety and efficacy of Ziagen in a number of different multidrug combination regimens is still not completely assessed (particularly in combination with NNRTIs).
 
 Abacavir penetrates the cerebrospinal fluid (CSF) (see section 5.2), and has been shown to reduce HIV-1 RNA levels in the CSF.

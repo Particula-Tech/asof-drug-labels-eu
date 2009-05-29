@@ -12,7 +12,6 @@ Alternatively, for patients who are unable to swallow tablets, the tablet(s) may
 
 Adults and adolescents (over 12 years of age): the recommended dose of Ziagen is 600 mg daily.
 This may be administered as either 300 mg (one tablet) twice daily or 600 mg (two tablets) once daily (see sections 4.4 and 5.1).
-
 Patients changing to the once daily regimen should take 300 mg twice a day and switch to 600 mg once a day the following morning.
 Where an evening once daily regimen is preferred, 300 mg of Ziagen should be taken on the first morning only, followed by 600 mg in the evening.
 When changing back to a twice daily regimen, patients should complete the day's treatment and start 300 mg twice a day the following morning.
@@ -30,15 +29,15 @@ Children weighing > 21 kg to < 30 kg: one half of a Ziagen tablet taken in the m
 
 Children weighing 14 to 21 kg: one half of a Ziagen tablet twice daily.
 
-Children less than three months: the data available on the use of Ziagen in this age group are very limited (see section 5.2).
+Children less than three months: the experience in children aged less than three months is limited (see section 5.2).
 
 Renal impairment: no dosage adjustment of Ziagen is necessary in patients with renal dysfunction.
-However, Ziagen should be avoided in patients with end-stage renal disease (see section 5.2).
+However, Ziagen is not recommended for patients with end-stage renal disease (see section 5.2).
 
 Hepatic impairment: abacavir is primarily metabolised by the liver.
 No dose recommendation can be made in patients with mild hepatic impairment.
-No data are available in patients with moderate hepatic impairment, therefore the use of abacavir is not recommended unless judged necessary.
-In patients with mild and moderate hepatic impairment close monitoring is required, and if feasible, monitoring of abacavir plasma levels is recommended (see section 5.2).
+In patients with moderate hepatic impairment, no data are available, therefore the use of abacavir is not recommended unless judged necessary.
+If abacavir is used in patients with mild or moderate hepatic impairment, then close monitoring is required, and if feasible, monitoring of abacavir plasma levels is recommended (see section 5.2).
 Abacavir is contraindicated in patients with severe hepatic impairment (see section 4.3 and 4.4).
 
 Elderly: no pharmacokinetic data is currently available in patients over 65 years of age.

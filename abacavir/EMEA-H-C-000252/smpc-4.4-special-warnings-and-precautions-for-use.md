@@ -1,12 +1,13 @@
 # 4.4 Special warnings and precautions for use
 
-Hypersensitivity Reaction (see also section 4.8):
+Hypersensitivity reaction (see also section 4.8):
 
 In clinical studies approximately 5% of subjects receiving abacavir develop a hypersensitivity reaction; some of these cases were life-threatening and resulted in a fatal outcome despite taking precautions.
 
 Studies have shown that carriage of the HLA-B*5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir.
 Based on the prospective study CNA106030 (PREDICT-1), use of pre-therapy screening for the HLA-B*5701 allele and subsequently avoiding abacavir in patients with this allele significantly reduced the incidence of abacavir hypersensitivity reactions.
 In populations similar to that enrolled in the PREDICT-1 study, it is estimated that 48% to 61% of patients with the HLA-B*5701 allele will develop a hypersensitivity reaction during the course of abacavir treatment compared with 0% to 4% of patients who do not have the HLA-B*5701 allele.
+
 These results are consistent with those of prior retrospective studies.
 
 As a consequence, before initiating treatment with abacavir, screening for carriage of the HLA-B*5701 allele should be performed in any HIV-infected patient, irrespective of racial origin.
@@ -18,7 +19,7 @@ Therefore, even in the absence of HLA-B*5701 allele, it is important to permanen
 
 Skin patch testing was used as a research tool for the PREDICT-1 study but has no utility in the clinical management of patients and therefore should not be used in the clinical setting.
 
-- Clinical Description
+- Clinical description
 
 Hypersensitivity reactions are characterised by the appearance of symptoms indicating multi-organ system involvement.
 Almost all hypersensitivity reactions will have fever and/or rash as part of the syndrome.
@@ -29,7 +30,7 @@ Other frequently observed signs or symptoms of the hypersensitivity reaction may
 The symptoms related to this hypersensitivity reaction worsen with continued therapy and can be life-threatening.
 These symptoms usually resolve upon discontinuation of Ziagen.
 
-- Clinical Management
+- Clinical management
 
 Hypersensitivity reaction symptoms usually appear within the first six weeks of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 Patients should be monitored closely, especially during the first two months of treatment with Ziagen, with consultation every two weeks.
@@ -37,7 +38,7 @@ Patients should be monitored closely, especially during the first two months of 
 Patients who are diagnosed with a hypersensitivity reaction whilst on therapy MUST discontinue
 Ziagen immediately.
 
-Ziagen, or any other medicinal product containing abacavir (i.e. Kivexa, Trizivir), MUST NEVER be restarted in patients who have stopped therapy due to a hypersensitivity reaction.
+Ziagen, or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir), MUST NEVER be restarted in patients who have stopped therapy due to a hypersensitivity reaction.
 Restarting abacavir following a hypersensitivity reaction results in a prompt return of symptoms within hours.
 This recurrence is usually more severe than on initial presentation, and may include life-threatening hypotension and death.
 
@@ -49,7 +50,7 @@ This is because it is currently difficult to differentiate between rashes induce
 - Management after an interruption of Ziagen therapy
 
 If therapy with Ziagen has been discontinued for any reason and restarting therapy is under consideration, the reason for discontinuation must be established to assess whether the patient had any symptoms of a hypersensitivity reaction.
-If a hypersensitivity reaction cannot be ruled out, Ziagen or any other medicinal product containing abacavir (i.e. Kivexa, Trizivir) must not be restarted.
+If a hypersensitivity reaction cannot be ruled out, Ziagen or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir) must not be restarted.
 
 Hypersensitivity reactions with rapid onset, including life-threatening reactions have occurred after restarting Ziagen in patients who had only one of the key symptoms of hypersensitivity (skin rash, fever, gastrointestinal, respiratory or constitutional symptoms such as lethargy and malaise) prior to stopping Ziagen.
 The most common isolated symptom of a hypersensitivity reaction was a skin rash.
@@ -65,13 +66,11 @@ Prescribers must ensure that patients are fully informed regarding the following
 - patients developing signs or symptoms possibly linked with a hypersensitivity reaction
 MUST CONTACT their doctor IMMEDIATELY.
 
-- patients who are hypersensitive to abacavir should be reminded that they must never take Ziagen or any other medicinal product containing abacavir (i.e. Kivexa, Trizivir)
+- patients who are hypersensitive to abacavir should be reminded that they must never take Ziagen or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir)
 
 - in order to avoid restarting Ziagen, patients who have experienced a hypersensitivity reaction should be asked to return the remaining Ziagen tablets or oral solution to the pharmacy.
 
 - patients who have stopped Ziagen for any reason, and particularly due to possible adverse reactions or illness, must be advised to contact their doctor before restarting.
-
-- patients should be advised of the importance of taking Ziagen regularly.
 
 - each patient should be reminded to read the Package Leaflet included in the Ziagen pack.
 They should be reminded of the importance of removing the Alert Card included in the pack, and keeping it with them at all times.
@@ -91,7 +90,7 @@ Patients at increased risk should be followed closely.
 
 Mitochondrial dysfunction: nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
 There have been reports of mitochondrial dysfunction in HIV-negative infants exposed in utero and/or post-natally to nucleoside analogues.
-The main adverse events reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlactatemia, hyperlipasemia).
+The main adverse reactions reported are haematological disorders (anaemia, neutropenia), metabolic disorders (hyperlactatemia, hyperlipasemia).
 These events are often transitory.
 Some late-onset neurological disorders have been reported (hypertonia, convulsion, abnormal behaviour).
 Whether the neurological disorders are transient or permanent is currently unknown.
@@ -107,21 +106,20 @@ Clinical examination should include evaluation for physical signs of fat redistr
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate (see section 4.8).
 
-Pancreatitis: pancreatitis has been reported, but a causal relationship to Ziagen treatment is uncertain.
+Pancreatitis: pancreatitis has been reported, but a causal relationship to abacavir treatment is uncertain.
 
 Triple nucleoside therapy: in patients with high viral load (>100,000 copies/ml) the choice of a triple combination with abacavir, lamivudine and zidovudine needs special consideration (see section 5.1).
 
 There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when abacavir was combined with tenofovir disoproxil fumarate and lamivudine as a once daily regimen.
 
-Once daily administration (abacavir 600 mg): the benefit of abacavir as a once daily regimen is mainly based on a study performed in combination with efavirenz and lamivudine, in antiretroviral-naïve adult patients (see section 5.1).
-
 Liver disease: the safety and efficacy of Ziagen has not been established in patients with significant underlying liver disorders.
 Ziagen is contraindicated in patients with severe hepatic impairment (see section 4.3).
-Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk of severe and potentially fatal hepatic adverse events.
+Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk of severe and potentially fatal hepatic adverse reactions.
 In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant product information for these medicinal products.
 
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
+
 A pharmacokinetic study has been performed in patients with mild hepatic impairment.
 However, a definitive recommendation on dose reduction is not possible due to substantial variability of drug exposure in this patient population (see section 5.2).
 The clinical safety data available with abacavir in hepatically impaired patients is very limited.
@@ -129,7 +127,6 @@ Due to the potential increases in exposure (AUC) in some patients, close monitor
 No data are available in patients with moderate or severe hepatic impairment.
 Plasma concentrations of abacavir are expected to substantially increase in these patients.
 Therefore, the use of abacavir in patients with moderate hepatic impairment is not recommended unless judged necessary and requires close monitoring of these patients.
-For patients with severe hepatic impairment, Ziagen is contraindicated (see section 4.3).
 
 Renal disease: Ziagen should not be administered to patients with end-stage renal disease (see section 5.2).
 
@@ -138,7 +135,7 @@ Typically, such reactions have been observed within the first few weeks or month
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
-Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Osteonecrosis: Although the aetiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 Opportunistic infections: patients receiving Ziagen or any other antiretroviral therapy may still develop opportunistic infections and other complications of HIV infection.

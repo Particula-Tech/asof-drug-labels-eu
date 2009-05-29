@@ -48,7 +48,7 @@ Consequently, patients should be advised of the importance of taking Ziagen regu
 
 Restarting Ziagen following a hypersensitivity reaction results in a prompt return of symptoms within hours.
 This recurrence of the hypersensitivity reaction was usually more severe than on initial presentation, and may include life-threatening hypotension and death.
-Patients who develop this hypersensitivity reaction must discontinue Ziagen and must never be rechallenged with Ziagen, or any other medicinal product containing abacavir (i.e. Kivexa, Trizivir).
+Patients who develop this hypersensitivity reaction must discontinue Ziagen and must never be rechallenged with Ziagen, or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir).
 
 To avoid a delay in diagnosis and minimise the risk of a life-threatening hypersensitivity reaction, Ziagen must be permanently discontinued if hypersensitivity cannot be ruled out, even when other diagnoses are possible (respiratory diseases, flu-like illness, gastroenteritis or reactions to other medications).
 
@@ -60,6 +60,7 @@ In both cases, if a decision is made to restart Ziagen this must be done in a se
 Each patient must be warned about this hypersensitivity reaction to abacavir.
 
 For many of the other adverse reactions reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV infection or as a result of the disease process.
+
 Many of those listed below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) in patients with abacavir hypersensitivity.
 Therefore, patients with any of these symptoms should be carefully evaluated for the presence of this hypersensitivity reaction.
 If Ziagen has been discontinued in patients due to experiencing any one of these symptoms and a decision is made to restart a medicinal product containing abacavir, this must be done in a setting where medical assistance is readily available (see section 4.4.).
@@ -67,7 +68,7 @@ Very rarely cases of erythema multiforme, Stevens Johnson syndrome or toxic epid
 In such cases medicinal products containing abacavir should be permanently discontinued.
 
 Many of the adverse reactions have not been treatment limiting.
-The following convention has been used for their classification: very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100), rare (>1/10,000, <1/1,000) very rare (<1/10,000).
+The following convention has been used for their classification: very common (>1/10), common (>1/100 to <1/10), uncommon (>1/1,000 to <1/100), rare (>1/10,000 to <1/1,000) very rare (<1/10,000).
 
 Metabolism and nutrition disorders
 Common: anorexia

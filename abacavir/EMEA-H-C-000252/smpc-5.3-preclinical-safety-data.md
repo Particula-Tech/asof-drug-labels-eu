@@ -11,7 +11,6 @@ The majority of these tumours occurred at the highest abacavir dose of 330 mg/kg
 The exception was the preputial gland tumour which occurred at a dose of 110 mg/kg in mice.
 The systemic exposure at the no effect level in mice and rats was equivalent to 3 and 7 times the human systemic exposure during therapy.
 While the carcinogenic potential in humans is unknown, these data suggest that a carcinogenic risk to humans is outweighed by the potential clinical benefit.
-
 In pre-clinical toxicology studies, abacavir treatment was shown to increase liver weights in rats and monkeys.
 The clinical relevance of this is unknown.
 There is no evidence from clinical studies that abacavir is hepatotoxic.

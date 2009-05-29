@@ -32,8 +32,8 @@ Following multiple oral doses of abacavir 300 mg twice a day there is no signifi
 Elimination of abacavir is via hepatic metabolism with subsequent excretion of metabolites primarily in the urine.
 The metabolites and unchanged abacavir account for about 83% of the administered abacavir dose in the urine.
 The remainder is eliminated in the faeces.
-Intracellular pharmacokinetics
 
+Intracellular pharmacokinetics
 In a study of 20 HIV-infected patients receiving abacavir 300 mg twice daily, with only one 300 mg dose taken prior to the 24 hour sampling period, the geometric mean terminal carbovir-TP intracellular half-life at steady-state was 20.6 hours, compared to the geometric mean abacavir plasma half-life in this study of 2.6 hours.
 In a crossover study in 27 HIV-infected patients, intracellular carbovir-TP exposures were higher for the abacavir 600 mg once daily regimen (AUC24,ss + 32 %, Cmax24,ss + 99 % and Ctrough + 18 %) compared to the 300 mg twice daily regimen.
 Overall, these data support the use of abacavir 600 mg once daily for the treatment of HIV infected patients.
