@@ -2,7 +2,7 @@
 
 Gastrointestinal toxicity
 Gastrointestinal toxicity, including nausea, diarrhoea, vomiting and constipation are very common with VELCADE treatment.
-Cases of ileus have been uncommonly reported (see section 4.8); therefore patients who experience constipation should be closely monitored.
+Cases of ileus have been uncommonly reported (see section 4.8) therefore patients who experience constipation should be closely monitored.
 
 Haematological toxicity
 VELCADE treatment is very commonly associated with haematological toxicities (thrombocytopenia, neutropenia and anaemia).
@@ -26,9 +26,9 @@ It is recommended that patients be carefully monitored for symptoms of neuropath
 Patients experiencing new or worsening peripheral neuropathy should undergo neurological evaluation and may require the dose and schedule of VELCADE to be modified (see section 4.2).
 Neuropathy has been managed with supportive care and other therapies.
 Improvement in, or resolution of, peripheral neuropathy was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy in the single-agent Phase III multiple myeloma study and 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in Phase II studies, respectively.
-
 In addition to peripheral neuropathy, there may be a contribution of autonomic neuropathy to some adverse reactions such as postural hypotension and severe constipation with ileus.
 Information on autonomic neuropathy and its contribution to these undesirable effects is limited.
+
 Seizures
 Seizures have been uncommonly reported in patients without previous history of seizures or epilepsy.
 Special care is required when treating patients with any risk factors for seizures.
@@ -69,9 +69,9 @@ Therefore, this specific regimen with concomitant administration with high-dose 
 Renal impairment
 Renal complications are frequent in patients with multiple myeloma.
 Such patients should be monitored closely (see sections 4.2 and 5.2).
-
 Hepatic impairment
 Patients with hepatic impairment should be treated with extreme caution and a dose reduction should be considered (see sections 4.2, 4.3 and 5.2).
+
 Hepatic reactions
 Rare cases of acute liver failure have been reported in patients receiving multiple concomitant medications and with serious underlying medical conditions.
 Other reported hepatic reactions include increases in liver enzymes, hyperbilirubinaemia, and hepatitis.
@@ -103,5 +103,3 @@ Cases of ileus have been uncommonly reported (see section 4.8), therefore patien
 In a single-agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
 
 Therefore, this specific regimen with concomitant administration with high-dose cytarabine (2g/m2 per day) by continuous infusion over 24 hours is not recommended.
-
-Such patients should be monitored closely.

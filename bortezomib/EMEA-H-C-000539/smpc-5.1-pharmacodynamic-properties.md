@@ -17,7 +17,6 @@ Inhibition of the 26S proteasome prevents this targeted proteolysis and affects 
 Bortezomib is highly selective for the proteasome.
 At 10 μM concentrations, bortezomib does not inhibit any of a wide variety of receptors and proteases screened and is more than 1500-fold more selective for the proteasome than for its next preferable enzyme.
 The kinetics of proteasome inhibition were evaluated in vitro, and bortezomib was shown to dissociate from the proteasome with a t½ of 20 minutes, thus demonstrating that proteasome inhibition by bortezomib is reversible.
-
 Bortezomib mediated proteasome inhibition affects cancer cells in a number of ways, including, but not limited to, altering regulatory proteins, which control cell cycle progression and nuclear factor kappa B (NF-kB) activation.
 Inhibition of the proteasome results in cell cycle arrest and apoptosis.
 NF-kB is a transcription factor whose activation is required for many aspects of tumourigenesis, including cell growth and survival, angiogenesis, cell-cell interactions, and metastasis.
@@ -33,14 +32,9 @@ Baseline demographics and patient characteristics are summarized in Table 7.
 
 Table 7: Summary of baseline patient and disease characteristics in the VISTA study
 
-Vc+M+P M+P
-Patient characteristics n=344 n=338
-Median age in years (range) 71.0 (57, 90) 71.0 (48, 91)
-Gender: male/female 51% / 49% 49% / 51%
-Race: caucasian/asian/black/other 88% / 10% / 1% / 1% 87% / 11% / 2% / 0%
-Karnofsky performance status score ≤70 35% 33%
-Hemoglobin <100 g/l 37% 36%
-Platelet count <75 x 109/l <1% 1%
+| Patient characteristics | Vc+M+P n=344 | M+P n=338 |
+| --- | --- | --- |
+| Median age in years (range) Gender: male/female Race: caucasian/asian/black/other Karnofsky performance status score ≤70 Hemoglobin <100 g/l Platelet count <75 x 109/l | 71.0 (57, 90) 51% / 49% 88% / 10% / 1% / 1% 35% 37% <1% | 71.0 (48, 91) 49% / 51% 87% / 11% / 2% / 0% 33% 36% 1% |
 
 Disease Characteristics
 
@@ -52,8 +46,8 @@ Creatinine clearance ≤30 ml/min [n (%)] 20 (6%) 16 (5%)
 At the time of a pre-specified interim analysis, the primary endpoint, time to progression, was met and patients in the M+P arm were offered Vc+M+P treatment.
 Survival continued to be followed after the interim analysis.
 Median follow-up was 16.3 months.
-Efficacy results are presented in Table 7:
-Table 7: Summary of efficacy analyses in the VISTA study
+Efficacy results are presented in Table 8:
+Table8: Summary of efficacy analyses in the VISTA study
 
 | Efficacy endpoint | Vc+M+P n=344 | M+P n=338 |
 | --- | --- | --- |
@@ -88,10 +82,10 @@ Table 7: Summary of efficacy analyses in the VISTA study
 
 a Kaplan-Meier estimate.
 b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: β2-microglobulin, albumin, and region.
-A hazard ratio less than 1 indicates an advantage for VMP c p-value based on the stratified log-rank test adjusted for stratification factors: beta2-microglobulin, albumin, and region d p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors e Response population includes patients who had measurable disease at baseline f EBMT criteria g All randomized patients with secretory disease
+A hazard ratio less than 1 indicates an advantage for VMP c p-value based on the stratified log-rank test adjusted for stratification factors: β2-microglobulin, albumin, and region d p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors e Response population includes patients who had measurable disease at baseline f EBMT criteria g All randomized patients with secretory disease
 NE: Not estimable
 
-Clinical efficacy in relapsed or refractorymultiplemyeloma
+Clinical efficacy in relapsed or refractory multiple myeloma
 The safety and efficacy of VELCADE were evaluated in 2 studies at the recommended dose of 1.3 mg/m2: a Phase III randomized, comparative study, versus dexamethasone (Dex), of 669 patients with relapsed or refractory multiple myeloma who had received 1-3 prior lines of therapy, and a Phase II single-arm study of 202 patients with relapsed and refractory multiple myeloma, who had received at least 2 prior lines of treatment and who were progressing on their most recent treatment.
 (see Tables 9, 10 and 11).
 
@@ -101,7 +95,7 @@ Table 9: Dosing regimens in Phase II and Phase III studies
 | --- | --- | --- | --- |
 | II | Vc: Day 1,4,8,11, (rest Day 12-21) | 1.3 mg/m2 (intravenous bolus) | Q3 weeks x 8cycles (extension**) |
 | III | Vc* a) Days 1,4,8,11, (Rest Day 12-21) b) Days 1,8,15,22 | 1.3 mg/m2 (intravenous bolus) | a) Q3weeks x 8, then b) Q5 weeks x 3 |
-| III | Dex a) Days 1–4, 9–12, 17–20Days 1–4 | 40 mg (oral) | a) Q5 week x 4 b) Q4 week x 5 |
+| III | Dex a) Days 1–4, 9–12, 17–20 b) Days 1–4 | 40 mg (oral) | a) Q5 week x 4 b) Q4 week x 5 |
 | II | Add Dex*** | 20 mg (oral) (Days 1,2,4,5,8,9, 11,12) | Q3 weeks |
 
 *a) is the initial treatment, a) and b) represent a full course of treatment
@@ -134,7 +128,7 @@ Table 11: Patient exposure to treatment with VELCADE during Phase II and III stu
 |  | Phase II Vc | Phase III Vc | Phase III Dex |
 | --- | --- | --- | --- |
 | Received at least 1 dose | n = 202 | n = 331 | n = 332 |
-| Completed 4 cycles a) all initial cycles (number) b) full course (number) c) extension * | 62 % 27 % (8 cycles) NA N= 63 pts (median 7 cycles) or total median 14 cycles (range 7-32) | 69 % 29 % (8 cycles) 9 % (11 cycles) NA | 36 % (4 cycles) 5 % (9 cycles) NA |
+| Completed 4 cycles a) all initial cycles (number) b) full course (number) c) extension * | 62 % 27 % (8 cycles) NA n= 63 pts (median 7 cycles) or total median 14 cycles (range 7-32) | 69 % 29 % (8 cycles) 9 % (11 cycles) NA | 36 % (4 cycles) 5 % (9 cycles) NA |
 
 *Patients could continue on treatment after completing 8 cycles, in case of benefit
 NA = not applicable
@@ -189,7 +183,14 @@ Experiments have demonstrated that bortezomib is cytotoxic to a variety of cance
 
 A prospective Phase III, international, randomized (1:1), open-label clinical study (VISTA) of 682 patients was conducted to determine whether VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) resulted in improvement in time to progression (TTP) when compared to melphalan (9 mg/m2) and prednisone (60 mg/m2) in patients with previously untreated multiple myeloma.
 
-Efficacy results are presented in Table 8:
+Vc+M+P M+P
+Patient Characteristics n=344 n=338
+Median age in years (range) 71.0 (57, 90) 71.0 (48, 91)
+Gender: male/female 51% / 49% 49% / 51%
+Race: Caucasian/asian/black/other 88% / 10% / 1% / 1% 87% / 11% / 2% / 0%
+Karnofsky performance status score ≤70 35% 33%
+Hemoglobin <100 g/l 37% 36%
+Platelet count <75 x 109/l <1% 1%
 
 Table 8: Summary of Efficacy Analyses in the VISTA study
 
@@ -224,16 +225,11 @@ Table 8: Summary of Efficacy Analyses in the VISTA study
 | Hazard ratiob (95% CI) | 0.52 (0.39, 0.70) |  |
 | p-value c | 0.000009 |  |
 
-b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: beta2-microglobulin, albumin, and region.
-A hazard ratio less than 1 indicates an advantage for VMP c p-value based on the stratified log-rank test adjusted for stratification factors: β2-microglobulin, albumin, and region d p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors e Response population includes patients who had measurable disease at baseline f EBMT criteria g All randomized patients with secretory disease
-
-Clinical efficacy in relapsed or refractory multiple myeloma
-
 | Phase/arm | Treatment schedule | Dose | Regimen |
 | --- | --- | --- | --- |
 | II | Vc: Day 1,4,8,11, (rest Day 12-21) | 1.3 mg/m2 (intravenous bolus) | Q3 weeks x 8 cycles (extension**) |
 | III | Vc* a) Days 1,4,8,11, (Rest Day 12-21) b) Days 1,8,15,22 | 1.3 mg/m2 (intravenous bolus) | a) Q3weeks x 8, then b) Q5 weeks x 3 |
-| III | Dex c) Days 1–4, 9–12, 17–20Days 1–4 | 40 mg (oral) | a) Q5 week x 4 b) Q4 week x 5 |
+| III | Dex a) Days 1–4, 9–12, 17–20 b) Days 1–4 | 40 mg (oral) | a) Q5 week x 4 b) Q4 week x 5 |
 | II | Add Dex*** | 20 mg (oral) (Days 1,2,4,5,8,9, 11,12) | Q3 weeks |
 
 |  | Phase II Vc | Phase III Vc | Phase III Dex |

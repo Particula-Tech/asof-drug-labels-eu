@@ -109,7 +109,7 @@ Table 5: Treatment emergent drug-related adverse reactions reported in ≥ 10% o
 
 (n=340) (n=337)
 MedDRA System Organ Class Total Toxicity Grade, n (%) Total Toxicity Grade, n (%)
-Preferred Term n (%) 3 ≥4 n (%) 3 ≥4
+Preferred Term n (%) 3 ≥ 4 n (%) 3 ≥ 4
 
 Infections and Infestations
 
@@ -128,7 +128,7 @@ Metabolism and nutrition disorders
 
 (n=340) (n=337)
 MedDRA System Organ Class Total Toxicity Grade, n (%) Total Toxicity Grade, n (%)
-Preferred Term n (%) 3 ≥4 n (%) 3 ≥4
+Preferred Term n (%) 3 ≥ 4 n (%) 3 ≥ 4
 Anorexia 64 ( 19) 6 ( 2) 0 19 ( 6) 0 0
 
 Psychiatric disorders
@@ -160,9 +160,10 @@ Asthenia 54 ( 16) 18 ( 5) 0 23 ( 7) 3 ( 1) 0
 Pyrexia 53 ( 16) 4 ( 1) 0 19 ( 6) 1 ( <1) 1 ( <1)
 
 Herpes zoster virus reactivation
-In the Phase III study in patients with previously untreated multiple myeloma, 27% of patients received prophylactic antivirals in the Vc+M+P arm.
-In this study, herpes zoster reactivation was more common in patients treated with Vc+M+P compared with M+P (11% vs 3% respectively).
-Three (3%) of the 91 patients in the Vc+M+P treatment group who received prophylactic antivirals developed herpes zoster reactivation.
+Antiviral prophylaxis should be considered in patients being treated with VELCADE.
+In the Phase III study in patients with previously untreated multiple myeloma, the overall incidence of herpes zoster reactivation was more common in patients treated with Vc+M+P compared with M+P (14% vs 4% respectively).
+Antiviral prophylaxis was administered to 26% of the patients in the Vc+M+P arm.
+The incidence of herpes zoster among patients in the Vc+M+P treatment group was 17% for patients not administered antiviral prophylaxis compared to 3% for patients administered antiviral prophylaxis.
 
 Post-marketing experience
 Clinically significant adverse reactions are listed in Table 6, if they have been reported during post approval use of VELCADE and may or may not have been reported in clinical trials.
@@ -187,6 +188,8 @@ Table 6: Adverse reactions from post-marketing reports
 | Not known: | Ischemic colitis |
 | Hepatobiliary disorders |  |
 | Not known: | Liver failure |
+| Skin and subcutaneous tissue disorders |  |
+| Not known: | Stevens-Johnson Syndrome, toxic epidermal necrolysis |
 
 [VELCADE 3.5 mg powder for solution for injection]
 
@@ -195,13 +198,10 @@ The following undesirable effects were considered by the investigators to have a
 Blood and lymphatic system disorders (see section 4.4)
 
 Nervous system disorders(see sections 4.4 and 4.7)
-Musculoskeletal and, connective tissue bone disorders
 
-| MedDRA System Organ Class Preferred Term | -------------- Vc+M+P ------------ ---------------- M+P --------------- (n=340) (n=337) Total Toxicity Grade, n (%) Total Toxicity Grade, n (%) n (%) 3 ≥4 n (%) 3 ≥4 |
-| --- | --- |
-| Infections and Infestations Herpes Zoster Blood and lymphatic system disorders Thrombocytopenia Neutropenia Anaemia Leukopenia Lymphopenia Metabolism and nutrition disorders Anorexia Psychiatric disorders Insomnia Nervous system disorders Peripheral Neuropathy Neuralgia Paraesthesia Gastrointestinal disorders Nausea Diarrhoea Vomiting Constipation Abdominal Pain Upper Skin and subcutaneous tissue disorders Rash General disorders and administration site conditions Fatigue Asthenia Pyrexia | 39 ( 11) 11 ( 3) 0 9 ( 3) 4 ( 1) 0 164 ( 48) 60 ( 18) 57 ( 17) 140 ( 42) 48 ( 14) 39 ( 12) 160 ( 47) 101 ( 30) 33 ( 10) 143 ( 42) 77 ( 23) 42 ( 12) 109 ( 32) 41 ( 12) 4 ( 1) 156 ( 46) 61 ( 18) 18 ( 5) 108 ( 32) 64 ( 19) 8 ( 2) 93 ( 28) 53 ( 16) 11 ( 3) 78 ( 23) 46 ( 14) 17 ( 5) 51 ( 15) 26 ( 8) 7 ( 2) 64 ( 19) 6 ( 2) 0 19 ( 6) 0 0 35 ( 10) 1 ( <1) 0 21 ( 6) 0 0 156 ( 46) 42 ( 12) 2 ( 1) 4 ( 1) 0 0 117 ( 34) 27 ( 8) 2 ( 1) 1 ( <1) 0 0 42 ( 12) 6 ( 2) 0 4 ( 1) 0 0 134 ( 39) 10 ( 3) 0 70 ( 21) 1 ( <1) 0 119 ( 35) 19 ( 6) 2 ( 1) 20 ( 6) 1 ( <1) 0 87 ( 26) 13 ( 4) 0 41 ( 12) 2 ( 1) 0 77 ( 23) 2 ( 1) 0 14 ( 4) 0 0 34 ( 10) 1 ( <1) 0 20 ( 6) 0 0 38 ( 11) 2 ( 1) 0 7 ( 2) 0 0 85 ( 25) 19 ( 6) 2 ( 1) 48 ( 14) 4 ( 1) 0 54 ( 16) 18 ( 5) 0 23 ( 7) 3 ( 1) 0 53 ( 16) 4 ( 1) 0 19 ( 6) 1 ( <1) 1 ( <1) |
-| Herpes zoster virus reactivation |  |
+Preferred Term n (%) 3 ≥4 n (%) 3 ≥4
 
-Three (3%) of the 91 patients in the Vc+M+P treatment group who received prophylactic anti-virals developed herpes zoster reactivation.
+Antiviral prophylaxis was administered to 26% of the patients in the VcMP arm.
+The incidence of herpes zoster among patients in the VcMP treatment group was 17% for patients not administered antiviral prophylaxis compared to 3% for patients administered antiviral prophylaxis.
 
 Post Marketing Experience
