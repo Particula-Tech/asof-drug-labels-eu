@@ -1,6 +1,6 @@
 # 5.3 Preclinical safety data
 
-In short term studies in rats memantine like other NMDA-antagonists have induced neuronal vacuolisation and necrosis (Olney lesions) only after doses leading to very high peak serum concentrations.
+In short term studies in rats, memantine like other NMDA-antagonists have induced neuronal vacuolisation and necrosis (Olney lesions) only after doses leading to very high peak serum concentrations.
 Ataxia and other preclinical signs have preceded the vacuolisation and necrosis.
 As the effects have neither been observed in long term studies in rodents nor in non-rodents, the clinical relevance of these findings is unknown.
 

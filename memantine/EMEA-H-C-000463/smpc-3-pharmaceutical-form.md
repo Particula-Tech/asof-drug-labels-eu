@@ -11,7 +11,6 @@ The solution is clear and colourless to light yellowish.
 
 [Ebixa 5 mg film-coated tablets.]
 
-Film-coated tablet.
 The 5 mg film-coated tablets are white to off-white, oval-oblong film-coated tablets with imprint ‘5’ on one side and imprint ‘MEM’ on the other side.
 The 10 mg film-coated tablets are white to off-white film-coated tablets, centrally tapered oblong, biconvex, with a single breakline on both sides.
 The 15 mg film-coated tablets are orange to grey-orange, oval-oblong film-coated tablets with imprint

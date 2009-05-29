@@ -12,7 +12,7 @@ Also, urine pH may be elevated by states of renal tubulary acidosis (RTA) or sev
 In most clinical trials, patients with recent myocardial infarction, uncompensated congestive heart failure (NYHA III-IV), or uncontrolled hypertension were excluded.
 As a consequence, only limited data are available and patients with these conditions should be closely supervised.
 
-Excipients: The tablets contain lactose monohydrate.
+Excipients: The film-coated tablets contain lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 [Ebixa 10 mg/g oral drops, solution.]

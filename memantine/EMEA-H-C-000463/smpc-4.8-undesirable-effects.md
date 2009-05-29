@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
-In clinical trials in mild to severe dementia, involving 1,784 patients treated with Ebixa and 1,595 patients treated with placebo, the overall incidence rate of adverse reactions with Ebixa did not differ from those with placebo; the adverse events were usually mild to moderate in severity.
-The most frequently occurring adverse events with a higher incidence in the Ebixa group than in the placebo group were dizziness (6.3% vs 5.6%, respectively), headache (5.2% vs 3.9%), constipation (4.6% vs 2.6%), somnolence (3.4% vs 2.2%) and hypertension (4.1% vs 2.8%).
+In clinical trials in mild to severe dementia, involving 1,784 patients treated with Ebixa and 1,595 patients treated with placebo, the overall incidence rate of adverse reactions with Ebixa did not differ from those with placebo; the adverse reactions were usually mild to moderate in severity.
+The most frequently occurring adverse reactions with a higher incidence in the Ebixa group than in the placebo group were dizziness (6.3% vs 5.6%, respectively), headache (5.2% vs 3.9%), constipation (4.6% vs 2.6%), somnolence (3.4% vs 2.2%) and hypertension (4.1% vs 2.8%).
 
 The following Adverse Reactions listed in the Table below have been accumulated in clinical studies with Ebixa and since its introduction in the market.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
@@ -18,7 +18,7 @@ Gastrointestinal disorders Common Constipation
 Uncommon Vomiting
 Not known Pancreatitis2
 
-Infections and infestations Uncommon. Fungal infections
+Infections and infestations Uncommon Fungal infections
 Vascular disorders Common Hypertension
 
 Uncommon Venous thrombosis/thromboembolism

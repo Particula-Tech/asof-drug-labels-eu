@@ -5,14 +5,14 @@ Therapy should only be started if a caregiver is available who will regularly mo
 Diagnosis should be made according to current guidelines.
 
 Ebixa should be administered once a day and should be taken at the same time every day.
-The tablets can be taken with or without food.
+The film-coated tablets can be taken with or without food.
 
 Adults:
 
 Dose titration
 
 The maximum daily dose is 20 mg per day.
-In order to reduce the risk of undesirable effects the maintenance dose is achieved by upward titration of 5 mg per week over the first 3 weeks as follows:
+In order to reduce the risk of undesirable effects, the maintenance dose is achieved by upward titration of 5 mg per week over the first 3 weeks as follows:
 
 Week 1 (day 1-7):
 The patient should take half a 10 mg film-coated tablet (5 mg) per day for 7 days.
@@ -30,7 +30,7 @@ Maintenance dose
 
 The recommended maintenance dose is 20 mg per day.
 
-Elderly: On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (two tablets once a day) as described above.
+Elderly: On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (two 10 mg film-coated tablets once a day) as described above.
 
 Children and adolescents: Ebixa is not recommended for use in children below 18 years due to a lack of data on safety and efficacy.
 
@@ -39,7 +39,7 @@ In patients with moderate renal impairment (creatinine clearance 30 - 49 ml/min)
 If tolerated well after at least 7 days of treatment, the dose could be increased up to 20 mg/day according to standard titration scheme.
 In patients with severe renal impairment (creatinine clearance 5 – 29 ml/min) daily dose should be 10 mg per day.
 
-Hepatic impairment: In patients with mild or moderate hepatic impaired function (Child-Pugh A and Child-Pugh B) no dose adjustment is needed.
+Hepatic impairment: In patients with mild or moderate hepatic impaired function (Child-Pugh A and Child-Pugh B), no dose adjustment is needed.
 No data on the use of memantine in patients with severe hepatic impairment are available.
 Administration of Ebixa is not recommended in patients with severe hepatic impairment.
 
@@ -55,11 +55,9 @@ The patient should take 30 drops (15 mg) per day for 7 days.
 
 The patient should take 40 drops (20 mg) once a day.
 
-Elderly: On the basis of the clinical studies the recommended dose for patients over the age of 65 years is 20 mg per day (40 drops once a day) as described above.
+Elderly: On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (40 drops once a day) as described above.
 
 [Ebixa 5 mg film-coated tablets.]
-
-The film-coated tablets can be taken with or without food.
 
 The recommended starting dose is 5 mg per day which is stepwise increased over the first 4 weeks of treatment reaching the recommended maintenance dose as follows:
 The patient should take one 5 mg film-coated tablet per day (white to off-white, oval-oblong) for 7 days.
