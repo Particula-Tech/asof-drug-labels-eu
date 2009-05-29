@@ -5,7 +5,6 @@ Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibody, ATC code:
 Mechanism of action
 Bevacizumab binds to vascular endothelial growth factor (VEGF), the key driver of vasculogenesis and angiogenesis, and thereby inhibits the binding of VEGF to its receptors, Flt-1 (VEGFR-1) and KDR (VEGFR-2), on the surface of endothelial cells.
 Neutralising the biological activity of VEGF regresses the vascularisation of tumours, normalises remaining tumour vasculature, and inhibits the formation of new tumour vasculature, thereby inhibiting tumour growth.
-
 Pharmacodynamic effects
 Administration of bevacizumab or its parental murine antibody to xenotransplant models of cancer in nude mice resulted in extensive anti-tumour activity in human cancers, including colon, breast, pancreas and prostate.
 Metastatic disease progression was inhibited and microvascular permeability was reduced.
