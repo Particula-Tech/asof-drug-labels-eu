@@ -9,7 +9,7 @@ Co-administration of pregabalin with the oral contraceptives norethisterone and/
 
 Pregabalin may potentiate the effects of ethanol and lorazepam.
 In controlled clinical trials, multiple oral doses of pregabalin co-administered with oxycodone, lorazepam, or ethanol did not result in clinically important effects on respiration.
-In the postmarketing experience, there are reports of respiratory failure and coma in patients taking pregabalin and other CNS depressant medications.
+In the postmarketing experience, there are reports of respiratory failure and coma in patients taking pregabalin and other CNS depressant medicinal products.
 Pregabalin appears to be additive in the impairment of cognitive and gross motor function caused by oxycodone.
 
 No specific pharmacodynamic interaction studies were conducted in elderly volunteers.

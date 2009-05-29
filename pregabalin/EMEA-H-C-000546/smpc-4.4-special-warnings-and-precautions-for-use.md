@@ -1,13 +1,13 @@
 # 4.4 Special warnings and precautions for use
 
-In accordance with current clinical practice, some diabetic patients who gain weight on pregabalin treatment may need to adjust hypoglycaemic medications.
+In accordance with current clinical practice, some diabetic patients who gain weight on pregabalin treatment may need to adjust hypoglycaemic medicinal products.
 
 There have been reports in the postmarketing experience of hypersensitivity reactions, including cases of angioedema.
 Pregabalin should be discontinued immediately if symptoms of angioedema, such as facial, perioral, or upper airway swelling occur.
 
 Pregabalin treatment has been associated with dizziness and somnolence, which could increase the occurrence of accidental injury (fall) in the elderly population.
 There have also been post-marketing reports of loss of consciousness, confusion and mental impairment.
-Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of the medication.
+Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of the medicinal product.
 
 In controlled studies, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing.
 In the clinical studies where ophthalmologic testing was conducted, the incidence of visual acuity reduction and visual field changes was greater in pregabalin-treated patients than in placebo-treated patients; the incidence of fundoscopic changes was greater in placebo-treated patients (see section 5.1).
@@ -15,7 +15,7 @@ In the clinical studies where ophthalmologic testing was conducted, the incidenc
 In the post-marketing experience, visual adverse reactions have also been reported, including loss of vision, visual blurring or other changes of visual acuity, many of which were transient.
 Discontinuation of pregabalin may result in resolution or improvement of these visual symptoms.
 
-Cases of renal failure have been reported and discontinuation of pregabalin did show reversibility of this adverse effect.
+Cases of renal failure have been reported and in some cases discontinuation of pregabalin did show reversibility of this adverse reaction.
 
 There are insufficient data for the withdrawal of concomitant antiepileptic medicinal products, once seizure control with pregabalin in the add-on situation has been reached, in order to reach monotherapy on pregabalin.
 
@@ -23,17 +23,14 @@ After discontinuation of short-term and long-term treatment with pregabalin with
 The following events have been mentioned: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating and dizziness.
 The patient should be informed about this at the start of the treatment.
 
-Concerning discontinuation of long-term treatment of pregabalin there are no data of the incidence and severity of withdrawal symptoms in relation to duration of use and dosage of pregabalin.
+Concerning discontinuation of long-term treatment of pregabalin there are no data of the incidence and severity of withdrawal symptoms in relation to duration of use and dose of pregabalin.
 
 There have been post-marketing reports of congestive heart failure in some patients receiving pregabalin.
 These reactions are mostly seen in elderly cardiovascular compromised patients during pregabalin treatment for a neuropathic indication.
 Pregabalin should be used with caution in these patients.
 Discontinuation of pregabalin may resolve the reaction.
-
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
-
-In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse events in general, CNS adverse events and especially somnolence was increased.
-This may be attributed to an additive effect due to concomitant medication (e.g. anti-spasticity agents) needed for this condition.
+In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, central nervous system adverse reactions and especially somnolence was increased.
+This may be attributed to an additive effect due to concomitant medicinal products (e.g. anti-spasticity agents) needed for this condition.
 This should be considered when prescribing pregabalin in this condition.
 
 Suicidal ideation and behaviour have been reported in patients treated with anti-epileptic agents in several indications.
@@ -43,9 +40,12 @@ The mechanism of this risk is not known and the available data do not exclude th
 Therefore patients should be monitored for signs of suicidal ideation and behaviours and appropriate treatment should be considered.
 Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge.
 
+Lyrica contains lactose monohydrate.
+Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
 [LYRICA 50 mg hard capsules.]
 
-(all sentences already above)
+Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of themedicinal products.
 
 [LYRICA 75 mg hard capsules]
 
@@ -53,7 +53,7 @@ Patients (and caregivers of patients) should be advised to seek medical advice s
 
 [LYRICA 100 mg hard capsules.]
 
-There have been post-marketing reports of congestive heart failure in some patients receiving pregabalin These reactions are mostly seen in elderly cardiovascular compromised patients during pregabalin treatment for a neuropathic indication.
+(all sentences already above)
 
 [LYRICA 150 mg hard capsules]
 
@@ -61,7 +61,7 @@ There have been post-marketing reports of congestive heart failure in some patie
 
 [LYRICA 200 mg hard capsules]
 
-(all sentences already above)
+There have been post-marketing reports of congestive heart failure in some patients receiving pregabalin These reactions are mostly seen in elderly cardiovascular compromised patients during pregabalin treatment for a neuropathic indication.
 
 [LYRICA 225 mg hard capsules]
 

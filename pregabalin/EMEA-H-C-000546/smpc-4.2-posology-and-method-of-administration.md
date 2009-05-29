@@ -6,23 +6,23 @@ Lyrica may be taken with or without food.
 
 Neuropathic pain
 
-Pregabalin treatment can be started at a dose of 150 mg per day.
-Based on individual patient response and tolerability, the dosage may be increased to 300 mg per day after an interval of 3 to 7 days, and if needed, to a maximum dose of 600 mg per day after an additional 7-day interval.
+Pregabalin treatment can be started at a dose of 150 mg per day given as two or three divided doses.
+Based on individual patient response and tolerability, the dose may be increased to 300 mg per day after an interval of 3 to 7 days, and if needed, to a maximum dose of 600 mg per day after an additional 7-day interval.
 
 Epilepsy
 
-Pregabalin treatment can be started with a dose of 150 mg per day.
-Based on individual patient response and tolerability, the dosage may be increased to 300 mg per day after 1 week.
-The maximum dosage of 600 mg per day may be achieved after an additional week.
+Pregabalin treatment can be started with a dose of 150 mg per day given as two or three divided doses.
+Based on individual patient response and tolerability, the dose may be increased to 300 mg per day after 1 week.
+The maximum dose of 600 mg per day may be achieved after an additional week.
 Generalised Anxiety Disorder
 
 The dose range is 150 to 600 mg per day given as two or three divided doses.
 The need for treatment should be reassessed regularly.
 
 Pregabalin treatment can be started with a dose of 150 mg per day.
-Based on individual patient response and tolerability, the dosage may be increased to 300 mg per day after 1 week.
-Following an additional week the dosage may be increased to 450 mg per day.
-The maximum dosage of 600 mg per day may be achieved after an additional week.
+Based on individual patient response and tolerability, the dose may be increased to 300 mg per day after 1 week.
+Following an additional week the dose may be increased to 450 mg per day.
+The maximum dose of 600 mg per day may be achieved after an additional week.
 
 Discontinuation of pregabalin
 
@@ -31,7 +31,7 @@ In accordance with current clinical practice, if pregabalin has to be discontinu
 Patients with renal impairment
 
 Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug.
-As pregabalin clearance is directly proportional to creatinine clearance (see section 5.2), dosage reduction in patients with compromised renal function must be individualised according to creatinine clearance (CLcr), as indicated in Table 1 determined using the following formula:
+As pregabalin clearance is directly proportional to creatinine clearance (see section 5.2), dose reduction in patients with compromised renal function must be individualised according to creatinine clearance (CLcr), as indicated in Table 1 determined using the following formula:
 
 CLcr(ml/min) = ⎡⎢1.23×[140 - age (years)] x weight (kg)⎤⎥ ( x 0.85 for female patients)
 
@@ -42,9 +42,9 @@ For patients receiving haemodialysis, the pregabalin daily dose should be adjust
 In addition to the daily dose, a supplementary dose should be given immediately following every 4-hour haemodialysis treatment (see Table 1).
 
 Table 1.
-Pregabalin dosage adjustment based on renal function
+Pregabalin dose adjustment based on renal function
 
-| Creatinine Clearance (CLcr) (mL/min) | Total Pregabalin Daily dose * |  | Dose Regimen |
+| Creatinine clearance (CLcr) (mL/min) | Total pregabalin daily dose * |  | Dose regimen |
 | --- | --- | --- | --- |
 |  | Starting dose (mg/day) | Maximum dose (mg/day) |  |
 | ≥ 60 | 150 | 600 | BID or TID |
@@ -61,7 +61,7 @@ BID = Two divided doses
 
 Use in patients with hepatic impairment
 
-No dosage adjustment is required for patients with hepatic impairment (see section 5.2).
+No dose adjustment is required for patients with hepatic impairment (see section 5.2).
 Use in children and adolescents
 
 Lyrica is not recommended for use in children below the age of 12 years and adolescents (12 - 17 years of age) due to insufficient data on safety and efficacy (see section 5.3).
@@ -88,7 +88,7 @@ In accordance with current clinical practice, if pregabalin has to be discontinu
 
 [LYRICA 200 mg hard capsules]
 
-(all sentences already above)
+CLcr(ml/min) = ⎡⎢1.23× [140 - age (years)] x weight (kg)⎤⎥ ( x 0.85 for female patients)
 
 [LYRICA 225 mg hard capsules]
 
@@ -96,4 +96,4 @@ In accordance with current clinical practice, if pregabalin has to be discontinu
 
 [LYRICA 300 mg hard capsules]
 
-The maximum dosage of 600 mg per day may be achieved after an additional week (see section 4.8).
+The maximum dose of 600 mg per day may be achieved after an additional week (see section 4.8).

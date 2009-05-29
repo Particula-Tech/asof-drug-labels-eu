@@ -28,7 +28,7 @@ Elimination:
 Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug.
 Pregabalin mean elimination half-life is 6.3 hours.
 Pregabalin plasma clearance and renal clearance are directly proportional to creatinine clearance (see section 5.2 Renal impairment).
-Dosage adjustment in patients with reduced renal function or undergoing haemodialysis is necessary (see Section 4.2 Table 1).
+Dose adjustment in patients with reduced renal function or undergoing haemodialysis is necessary (see Section 4.2 Table 1).
 
 Linearity / non-linearity :
 
@@ -47,7 +47,7 @@ Renal impairment
 
 Pregabalin clearance is directly proportional to creatinine clearance.
 In addition, pregabalin is effectively removed from plasma by haemodialysis (following a 4 hour haemodialysis treatment plasma pregabalin concentrations are reduced by approximately 50%).
-Because renal elimination is the major elimination pathway, dosage reduction in patients with renal impairment and dosage supplementation following haemodialysis is necessary (see section 4.2 Table 1).
+Because renal elimination is the major elimination pathway, dose reduction in patients with renal impairment and dose supplementation following haemodialysis is necessary (see section 4.2 Table 1).
 
 Hepatic impairment
 

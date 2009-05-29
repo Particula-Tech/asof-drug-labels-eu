@@ -23,6 +23,7 @@ In clinical trials up to 12 weeks for both peripheral and central neuropathic pa
 In controlled clinical trials in peripheral neuropathic pain 35% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score.
 For patients not experiencing somnolence, such an improvement was observed in 33% of patients treated with pregabalin and 18% of patients on placebo.
 For patients who experienced somnolence the responder rates were 48% on pregabalin and 16% on placebo.
+
 In the controlled clinical trial in central neuropathic pain 22% of the Pregabalin treated patients and 7% of the patients on placebo had a 50% improvement in pain score.
 
 Epilepsy
