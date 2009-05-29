@@ -16,6 +16,7 @@ MPA is metabolised principally by glucuronyl transferase to form the phenolic gl
 A negligible amount of substance is excreted as MPA (< 1 % of dose) in the urine.
 Orally administered radiolabelled mycophenolate mofetil results in complete recovery of the administered dose with 93 % of the administered dose recovered in the urine and 6 % recovered in the faeces.
 Most (about 87 %) of the administered dose is excreted in the urine as MPAG.
+
 At clinically encountered concentrations, MPA and MPAG are not removed by haemodialysis.
 However, at high MPAG plasma concentrations (> 100µg/ml), small amounts of MPAG are removed.
 

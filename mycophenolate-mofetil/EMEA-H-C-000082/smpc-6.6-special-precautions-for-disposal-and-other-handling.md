@@ -28,7 +28,6 @@ The final concentration of the solution is 6 mg/ml mycophenolate mofetil.
 
 b. Inspect the infusion solution for particulate matter or discoloration.
 Discard the infusion solution if particulate matter or discoloration is observed.
-
 If the infusion solution is not prepared immediately prior to administration, the commencement of administration of the infusion solution should be within 3 hours from reconstitution and dilution of the medicinal product.
 Keep solutions at 15 – 30° C.
 

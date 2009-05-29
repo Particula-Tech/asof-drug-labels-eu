@@ -13,6 +13,11 @@ Patients receiving CellCept should be monitored for neutropenia, which may be re
 Patients taking CellCept should have complete blood counts weekly during the first month, twice monthly for the second and third months of treatment, then monthly through the first year.
 If neutropenia develops (absolute neutrophil count < 1.3 x 103/µl), it may be appropriate to interrupt or discontinue CellCept.
 
+Cases of pure red cell aplasia (PRCA) have been reported in patients treated with CellCept in combination with other immunosuppressants.
+The mechanism for mycophenolate mofetil induced PRCA is unknown.
+PRCA may resolve with dose reduction or cessation of CellCept therapy.
+Changes to CellCept therapy should only be undertaken under appropriate supervision in transplant recipients in order to minimise the risk of graft rejection (see section 4.8).
+
 Patients should be advised that during treatment with CellCept, vaccinations may be less effective and the use of live attenuated vaccines should be avoided (see section 4.5).
 Influenza vaccination may be of value.
 Prescribers should refer to national guidelines for influenza vaccination.

@@ -10,8 +10,8 @@ Antacids with magnesium and aluminium hydroxides: absorption of mycophenolate mo
 
 Cholestyramine: following single dose administration of 1.5 g of mycophenolate mofetil to normal healthy subjects pre-treated with 4 g TID of cholestyramine for 4 days, there was a 40 % reduction in the AUC of MPA (see section 4.4 and section 5.2).
 Caution should be used during concomitant administration because of the potential to reduce efficacy of CellCept.
-
 Medicinal products that interfere with enterohepatic circulation: caution should be used with medicinal products that interfere with enterohepatic circulation because of their potential to reduce the efficacy of CellCept.
+
 Ciclosporin A: ciclosporin A (CsA) pharmacokinetics are unaffected by mycophenolate mofetil.
 In contrast, if concomitant ciclosporin treatment is stopped, an increase in MPA AUC of around 30% should be expected.
 
@@ -34,6 +34,12 @@ Trimethoprim/sulfamethoxazole: no effect on the bioavailability of MPA was obser
 
 Norfloxacin and metronidazole: in healthy volunteers, no significant interaction was observed when CellCept was concomitantly administered with norfloxacin and metronidazole separately.
 However, norfloxacin and metronidazole combined reduced the MPA exposure by approximately 30 % following a single dose of CellCept.
+
+Ciprofloxacin and amoxicillin plus clavulanic acid: Reductions in pre-dose (trough) MPA concentrations of about 50% have been reported in renal transplant recipients in the days immediately following commencement of oral ciprofloxacin or amoxicillin plus clavulanic acid.
+This effect tended to diminish with continued antibiotic use and to cease within a few days of their discontinuation.
+The change in predose level may not accurately represent changes in overall MPA exposure.
+Therefore, a change in the dose of CellCept should not normally be necessary in the absence of clinical evidence of graft dysfunction.
+However, close clinical monitoring should be performed during the combination and shortly after antibiotic treatment.
 
 Tacrolimus: in hepatic transplant patients initiated on CellCept and tacrolimus, the AUC and Cmax of MPA, the active metabolite of CellCept, were not significantly affected by coadministration with tacrolimus.
 In, contrast, there was an increase of approximately 20 % in tacrolimus AUC when multiple doses of CellCept (1.5 g BID) were administered to patients taking tacrolimus.
