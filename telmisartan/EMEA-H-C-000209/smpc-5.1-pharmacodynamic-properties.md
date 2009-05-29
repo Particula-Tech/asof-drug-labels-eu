@@ -35,6 +35,9 @@ Upon abrupt cessation of treatment with telmisartan, blood pressure gradually re
 
 The incidence of dry cough was significantly lower in patients treated with telmisartan than in those given angiotensin converting enzyme inhibitors in clinical trials directly comparing the two antihypertensive treatments.
 
+In the "Prevention Regimen For Effectively avoiding Second Strokes" (PRoFESS) trial in patients 50 years and older, who recently experienced stroke, an increased incidence of sepsis was noted for telmisartan compared with placebo, 0.70 % vs. 0.49 % [RR 1.43 (95 % confidence interval 1.00 - 2.06)]; the incidence of fatal sepsis cases was increased for patients taking telmisartan (0.33 %) vs. patients taking placebo (0.16 %) [RR 2.07 (95 % confidence interval 1.14 - 3.76)].
+The observed increased occurrence rate of sepsis associated with the use of telmisartan may be either a chance finding or related to a mechanism not currently known.
+
 Beneficial effects of telmisartan on mortality and cardiovascular morbidity are currently unknown.
 
 [Micardis 40 mg tablets]

@@ -7,7 +7,6 @@ These pharmacologically-mediated undesirable effects, known from preclinical stu
 
 In both species, increased plasma renin activity and hypertrophy/hyperplasia of the renal juxtaglomerular cells were observed.
 These changes, also a class effect of angiotensin converting enzyme inhibitors and other angiotensin II receptor antagonists, do not appear to have clinical significance.
-
 There is no evidence of a teratogenic effect, but animal studies indicated some hazardous potential of telmisartan to the postnatal development of the offspring such as lower body weight, delayed eye opening, and higher mortality.
 
 There was no evidence of mutagenicity and relevant clastogenic activity in in vitro studies and no evidence of carcinogenicity in rats and mice.

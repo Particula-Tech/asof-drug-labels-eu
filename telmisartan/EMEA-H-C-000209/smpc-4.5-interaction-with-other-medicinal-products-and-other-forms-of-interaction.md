@@ -2,7 +2,7 @@
 
 Interaction studies have only been performed in adults.
 
-As with others medicinal products acting on the renin-angiotensin-aldosterone system, telmisartan may provoke hyperkalaemia (see section 4.4).
+As with other medicinal products acting on the renin-angiotensin-aldosterone system, telmisartan may provoke hyperkalaemia (see section 4.4).
 The risk may increase in case of treatment combination with other medicinal products that may also provoke hyperkalaemia (salt substitutes containing potassium, potassium-sparing diuretics, ACE inhibitors, angiotensin II receptor antagonists, non steroidal anti-inflammatory medicinal products (NSAIDs, including selective COX-2 inhibitors), heparin, immunosuppressives (cyclosporin or tacrolimus), and trimethoprim).
 
 The occurrence of hyperkalaemia depends on associated risk factors.
@@ -46,8 +46,6 @@ Corticosteroïds (systemic route):
 Reduction of the antihypertensive effect.
 
 [Micardis 40 mg tablets]
-
-As with others drugs acting on the renin-angiotensin-aldosterone system, telmisartan may provoke hyperkalaemia (see section 4.4).
 
 If concomitant use is indicated because of documented hypokalemia they should be used with caution and with frequent monitoring of serum potassium.
 

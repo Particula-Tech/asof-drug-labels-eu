@@ -3,7 +3,7 @@
 The overall incidence of adverse events reported with telmisartan (41.4 %) was usually comparable to placebo (43.9 %) in placebo controlled trials.
 The incidence of adverse events was not dose related and showed no correlation with gender, age or race of the patients.
 
-The adverse drug reactions listed below have been accumulated from all clinical trials including 5788 hypertensive patients treated with telmisartan.
+The adverse drug reactions listed below have been accumulated from all clinical trials in patients treated with telmisartan for hypertension or in patients 50 years or older at high risk of cardiovascular events.
 
 Adverse reactions have been ranked under headings of frequency using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100);
 rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
@@ -13,8 +13,9 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 Infections and infestations
 
 Rare: Upper respiratory tract infection including pharyngitis and sinusitis
-Not known: Urinary tract infection including cystitis
+Not known: Urinary tract infection including cystitis, sepsis including fatal
 
+outcome*
 Blood and the lymphatic system disorders
 
 Rare: Anaemia, thrombocytopenia
@@ -99,6 +100,9 @@ Rare: Blood uric acid increased, blood creatinine increased, hepatic
 enzyme increased, blood creatine phosphokinase increased
 
 Not known: Haemoglobin decreased
+
+*In the PRoFESS trial, an increased incidence of sepsis was observed with telmisartan compared with placebo.
+The event may be a chance finding or related to a mechanism currently not known (see section 5.1).
 
 [Micardis 40 mg tablets]
 
