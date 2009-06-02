@@ -4,13 +4,13 @@ Absorption
 Following oral administration of a 100-mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours post-dose, mean plasma AUC of sitagliptin was 8.52 μM•hr, Cmax was 950 nM.
 The absolute bioavailability of sitagliptin is approximately 87 %.
 Since coadministration of a high-fat meal with Januvia had no effect on the pharmacokinetics, Januvia may be administered with or without food.
+
 Plasma AUC of sitagliptin increased in a dose-proportional manner.
 Dose-proportionality was not established for Cmax and C24hr (Cmax increased in a greater than dose-proportional manner and C24hr increased in a less than dose-proportional manner).
 
 Distribution
 The mean volume of distribution at steady state following a single 100-mg intravenous dose of sitagliptin to healthy subjects is approximately 198 liters.
 The fraction of sitagliptin reversibly bound to plasma proteins is low (38 %).
-
 Metabolism
 Sitagliptin is primarily eliminated unchanged in urine, and metabolism is a minor pathway.
 Approximately 79 % of sitagliptin is excreted unchanged in the urine.
@@ -54,7 +54,6 @@ Hepatic insufficiency
 No dosage adjustment for Januvia is necessary for patients with mild or moderate hepatic insufficiency (Child-Pugh score ≤ 9).
 There is no clinical experience in patients with severe hepatic insufficiency (Child-Pugh score > 9).
 However, because sitagliptin is primarily renally eliminated, severe hepatic insufficiency is not expected to affect the pharmacokinetics of sitagliptin.
-
 Elderly
 No dosage adjustment is required based on age.
 Age did not have a clinically meaningful impact on the pharmacokinetics of sitagliptin based on a population pharmacokinetic analysis of Phase I and Phase II data.

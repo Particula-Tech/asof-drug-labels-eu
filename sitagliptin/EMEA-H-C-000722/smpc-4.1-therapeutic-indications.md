@@ -9,3 +9,4 @@ For patients with type 2 diabetes mellitus, Januvia is indicated:
 For patients with type 2 diabetes mellitus in whom use of a PPARγ agonist (i.e. a thiazolidinedione) is appropriate, Januvia is indicated:
 
 - in combination with the PPARγ agonist when diet and exercise plus the PPARγ agonist alone do not provide adequate glycaemic control.
+- in combination with the PPARγ agonist and metformin when diet and exercise plus dual therapy with these agents do not provide adequate glycaemic control.
