@@ -107,7 +107,6 @@ In adults moderately exposed to antiretroviral therapy the addition of abacavir 
 
 In heavily NRTI pretreated patients the efficacy of abacavir is very low.
 The degree of benefit as part of a new combination regimen will depend on the nature and duration of prior therapy which may have selected for HIV-1 variants with cross-resistance to abacavir.
-
 Once daily (600 mg) administration:
 
 - Therapy naïve adults
@@ -134,6 +133,7 @@ In study ESS30008, 260 patients with virologic suppression on a first line thera
 Results indicate that the FDC group was associated with a similar virologic outcome (non-inferior) compared to the abacavir plus lamivudine group, based on proportions of subjects with HIV-1 RNA < 50 copies/ml (90% and 85% respectively, 95% CI -2.7, 13.5).
 
 Additional information:
+
 The safety and efficacy of Ziagen in a number of different multidrug combination regimens is still not completely assessed (particularly in combination with NNRTIs).
 
 Abacavir penetrates the cerebrospinal fluid (CSF) (see section 5.2), and has been shown to reduce HIV-1 RNA levels in the CSF.

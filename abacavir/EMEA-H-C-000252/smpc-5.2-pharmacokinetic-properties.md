@@ -3,7 +3,6 @@
 Absorption: abacavir is rapidly and well absorbed following oral administration.
 The absolute bioavailability of oral abacavir in adults is about 83%.
 Following oral administration, the mean time (tmax) to maximal serum concentrations of abacavir is about 1.5 hours for the tablet formulation and about 1.0 hour for the solution formulation.
-
 At therapeutic dosages a dosage of 300 mg twice daily, the mean (CV) steady state Cmax and Cmin of abacavir are approximately 3.00 μg/ml (30%) and 0.01 µg/ml (99%), respectively.
 The mean (CV) AUC over a dosing interval of 12 hours was 6.02 μg.h/ml (29%), equivalent to a daily AUC of approximately 12.0 μg.h/ml.
 The Cmax value for the oral solution is slightly higher than the tablet.
@@ -34,6 +33,7 @@ The metabolites and unchanged abacavir account for about 83% of the administered
 The remainder is eliminated in the faeces.
 
 Intracellular pharmacokinetics
+
 In a study of 20 HIV-infected patients receiving abacavir 300 mg twice daily, with only one 300 mg dose taken prior to the 24 hour sampling period, the geometric mean terminal carbovir-TP intracellular half-life at steady-state was 20.6 hours, compared to the geometric mean abacavir plasma half-life in this study of 2.6 hours.
 In a crossover study in 27 HIV-infected patients, intracellular carbovir-TP exposures were higher for the abacavir 600 mg once daily regimen (AUC24,ss + 32 %, Cmax24,ss + 99 % and Ctrough + 18 %) compared to the 300 mg twice daily regimen.
 Overall, these data support the use of abacavir 600 mg once daily for the treatment of HIV infected patients.

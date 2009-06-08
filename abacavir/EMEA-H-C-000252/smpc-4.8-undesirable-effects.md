@@ -58,7 +58,6 @@ Moreover, on very rare occasions hypersensitivity reactions have been reported i
 In both cases, if a decision is made to restart Ziagen this must be done in a setting where medical assistance is readily available.
 
 Each patient must be warned about this hypersensitivity reaction to abacavir.
-
 For many of the other adverse reactions reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV infection or as a result of the disease process.
 
 Many of those listed below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) in patients with abacavir hypersensitivity.

@@ -144,6 +144,13 @@ Therefore patients should remain under close clinical observation by physicians 
 Transmission: patients should be advised that current antiretroviral therapy, including Ziagen, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be taken.
 
+Myocardial Infarction: Observational studies have shown an association between myocardial infarction and the use of abacavir.
+Those studied were mainly antiretroviral experienced patients.
+Data from clinical trials showed limited numbers of myocardial infarction and could not exclude a small increase in risk.
+Overall the available data from observational cohorts and from randomised trials show some inconsistency so can neither confirm nor refute a causal relationship between abacavir treatment and the risk of myocardial infarction.
+To date, there is no established biological mechanism to explain a potential increase in risk.
+When prescribing Ziagen, action should be taken to try to minimize all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia).
+
 [Ziagen 20 mg/ml oral solution]
 
 Excipients: Ziagen oral solution contains 340 mg/ml of sorbitol.
@@ -153,3 +160,5 @@ Sorbitol can have a mild laxative effect.
 The calorific value of sorbitol is 2.6 kcal/g.
 
 Ziagen oral solution also contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).
+
+Mycoardial Infarction: Observational studies have shown an association between myocardial infarction and the use of abacavir.
