@@ -6,8 +6,7 @@ In healthy subjects, the AUC of atazanavir from the capsules and oral powder wer
 
 Absorption: in HIV-infected patients (n=33, combined studies), multiple dosing of REYATAZ 300 mg once daily with ritonavir 100 mg once daily with food produced a geometric mean (CV%) for atazanavir, Cmax of 4466 (42%) ng/ml, with time to Cmax of approximately 2.5 hours.
 The geometric mean (CV%) for atazanavir Cmin and AUC was 654 (76%) ng/ml and 44185 (51%) ng•h/ml, respectively.
-
-Food effect: co-administration of REYATAZ and ritonavir with food optimizes the bioavailability of atazanavir.
+Food effect: co-administration of REYATAZ and ritonavir with food optimises the bioavailability of atazanavir.
 Co-administration of a single 300-mg dose of REYATAZ and 100-mg dose of ritonavir with a light meal resulted in a 33% increase in the AUC and a 40% increase in both the Cmax and the 24-hour concentration of atazanavir relative to the fasting state.
 Co-administration with a high-fat meal did not affect the AUC of atazanavir relative to fasting conditions and the Cmax was within 11% of fasting values.
 The 24-hour concentration following a high fat meal was increased by approximately 33% due to delayed absorption; the median Tmax increased from 2.0 to 5.0 hours.
@@ -24,6 +23,7 @@ Metabolites are then excreted in the bile as either free or glucuronidated metab
 Additional minor metabolic pathways consist of N-dealkylation and hydrolysis.
 Two minor metabolites of atazanavir in plasma have been characterised.
 Neither metabolite demonstrated in vitro antiviral activity.
+
 Elimination: following a single 400-mg dose of 14C-atazanavir, 79% and 13% of the total radioactivity was recovered in the faeces and urine, respectively.
 Unchanged drug accounted for approximately 20% and 7% of the administered dose in the faeces and urine, respectively.
 Mean urinary excretion of unchanged drug was 7% following 2 weeks of dosing at 800 mg once daily.
@@ -35,7 +35,7 @@ Impaired renal function: in healthy subjects, the renal elimination of unchanged
 There are no pharmacokinetic data available for
 REYATAZ with ritonavir in patients with renal insufficiency.
 REYATAZ (without ritonavir) has been studied in adult patients with severe renal impairment (n=20), including those on haemodialysis, at multiple doses of 400 mg once daily.
-Although this study presented some limitations (i.e., unbound drug concentrations not studied), results suggested that the atazanavir pharmacokinetic parameters were decreased by 30% to 50% in patients undergoing hemodialysis compared to patients with normal renal function.
+Although this study presented some limitations (i.e., unbound drug concentrations not studied), results suggested that the atazanavir pharmacokinetic parameters were decreased by 30% to 50% in patients undergoing haemodialysis compared to patients with normal renal function.
 The mechanism of this decrease is unknown.
 (See sections 4.2 and 4.4.)
 
@@ -66,5 +66,7 @@ There are insufficient data at this time to recommend a dose (see section 4.2).
 [REYATAZ 50 mg/1.5 g oral powder]
 
 Co-administration of a single 300 mg dose of REYATAZ and 100 mg dose of ritonavir with a light meal resulted in a 33% increase in the AUC and a 40% increase in both the Cmax and the 24-hour concentration of atazanavir relative to the fasting state.
+
+There are no pharmacokinetic data available on patients with renal insufficiency (see section 4.2); however, the impact of renal impairment on atazanavir elimination is anticipated to be minimal.
 
 Concentrations of atazanavir with or without ritonavir are expected to be increased in patients with moderately or severely impaired hepatic function (see sections 4.2, 4.3 and 4.4).

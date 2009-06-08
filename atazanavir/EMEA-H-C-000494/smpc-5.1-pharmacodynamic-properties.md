@@ -5,122 +5,131 @@ Pharmacotherapeutic group: protease inhibitor, ATC code: J05AE08
 Mechanism of action: atazanavir is an azapeptide HIV-1 protease inhibitor (PI).
 The compound selectively inhibits the virus-specific processing of viral Gag-Pol proteins in HIV-1 infected cells, thus preventing formation of mature virions and infection of other cells.
 
-Antiviral activity in vitro: atazanavir exhibits anti-HIV-1 activity (EC50 of 2 to 5 nM) in the absence of human serum against a variety of laboratory and clinical HIV isolates.
-Atazanavir has activity against HIV-1 Group M subtype viruses A, B, C, D, AE, AG, F, G, and J isolates in cell culture.
-Atazanavir has activity against HIV-2 isolates (EC50 of 1.9 to 32 nM).
-Combinations of atazanavir with stavudine, didanosine, lamivudine, zidovudine, nelfinavir, indinavir, ritonavir, saquinavir, amprenavir, did not result in antagonistic anti-HIV activity or enhanced cytotoxic effects at the highest concentrations used for antiviral evaluation.
+Antiviral activity in vitro: atazanavir exhibits anti-HIV-1 (including all clades tested) and anti-HIV-2 activity in cell culture.
 
 Resistance
 Antiretroviral treatment naive patients
-In antiretroviral treatment naive patients, the I50L substitution, sometimes in combination with an
-A71V change, is the signature resistance substitution for atazanavir.
-An atazanavir resistance phenotype is expressed in all recombinant viral clones containing the I50L substitution in a variety of genetic backgrounds.
-Resistance levels ranged from 3.5- to 29-fold.
-There was no evidence of cross-resistance between atazanavir and amprenavir, with the presence of the I50L and I50V substitutions yielding selective resistance to atazanavir and amprenavir, respectively.
-The N88S substitution has been rarely observed in patients with virologic failure on atazanavir treatment.
-While it may contribute to decreased susceptibility to atazanavir when it occurs with other protease substitutions, in clinical studies N88S by itself does not lead to phenotypic resistance to atazanavir or have a consistent impact on clinical efficacy.
+In clinical trials of antiretroviral treatment naive patients treated with unboosted atazanavir, the I50L substitution, sometimes in combination with an A71V change, is the signature resistance substitution for atazanavir.
+Resistance levels to atazanavir ranged from 3.5- to 29-fold without evidence of phenotypic cross resistance to other PIs.
+In clinical trials of antiretroviral treatment naive patients treated with boosted atazanavir, the I50L substitution did not emerge in any patient without baseline PI substitutions.
+The N88S substitution has been rarely observed in patients with virologic failure on atazanavir (with or without ritonavir).
+While it may contribute to decreased susceptibility to atazanavir when it occurs with other protease substitutions, in clinical studies N88S by itself does not always lead to phenotypic resistance to atazanavir or have a consistent impact on clinical efficacy.
+
+Table 2.
+De novo substitutions in treatment naive patients failing therapy with atazanavir + ritonavir (Study 138, 96 weeks)
+
+| Frequency | de novo PI substitution (n=26)a |
+| --- | --- |
+| >20% 10-20% | none none |
+
+a Number of patients with paired genotypes classified as virological failures (HIV RNA ≥ 400 copies/ml).
+
+The M184I/V substitution emerged in 5/26 REYATAZ/ritonavir and 7/26 lopinavir/ritonavir virologic failure patients, respectively.
 
 Antiretroviral treatment experienced patients
-In antiretroviral treatment experienced patients, 100 isolates from patients designated as virological failures on therapy that included either atazanavir, atazanavir + ritonavir, or atazanavir + saquinavir were determined to have developed resistance to atazanavir.
+In antiretroviral treatment experienced patients from Studies 009, 043, and 045, 100 isolates from patients designated as virological failures on therapy that included either atazanavir, atazanavir + ritonavir, or atazanavir + saquinavir were determined to have developed resistance to atazanavir.
 Of the 60 isolates from patients treated with either atazanavir or atazanavir + ritonavir, 18 (30%) displayed the I50L phenotype previously described in naive patients.
-The resistance in antiretroviral treatment experienced patients mainly occurs by accumulation of the primary and secondary resistance substitutions described previously to be involved in protease inhibitor resistance.
-These isolates developed higher levels of resistance to the other protease inhibitors.
-Cross-resistance in vitro in viruses resistant to other protease inhibitors
-Atazanavir susceptibility was evaluated in 943 clinical isolates from patients without prior atazanavir exposure and exhibited a wide array of genotypic and phenotypic patterns.
-In vitro, there was a clear trend toward decreased susceptibility to atazanavir as isolates exhibited high resistance levels to multiple protease inhibitors.
-In general, susceptibility to atazanavir was retained (83% of isolates displayed < 2.5 fold change in EC50) among isolates resistant to no more than 2 protease inhibitors.
-Eighteen percent of isolates had 4 or more of the following 6 substitutions considered critical substitutions for protease inhibitors: positions L10, M46, I54, V82, I84, and L90.
-These isolates expressed a median fold change in EC50 relative to wildtype of 12.0 for atazanavir.
-Therefore, viral isolates having at least 4 of these specific mutations would be considered resistant for atazanavir.
+Table 3.
+De novo substitutions in treatment experienced patients failing therapy with atazanavir
++ ritonavir (Study 045, 48 weeks)
+
+| Frequency | de novo PI substitution (n=35)a,b |
+| --- | --- |
+| >20% 10-20% | M36, M46, I54, A71, V82 L10, I15, K20, V32, E35, S37, F53, I62, G73, I84, L90 |
+
+a Number of patients with paired genotypes classified as virological failures (HIV RNA ≥ 400 copies/ml).
+b Ten patients had baseline phenotypic resistance to atazanavir + ritonavir (fold change [FC]>5.2).
+FC susceptibility in cell culture relative to the wild-type reference was assayed using PhenoSenseTM (Monogram Biosciences, South San Francisco, California, USA)
+
+None of the de novo substitutions (see Table 3) are specific to atazanavir and may reflect re-emergence of archived resistance on atazanavir + ritonavir in Study 045 treatment-experienced population.
+
+The resistance in antiretroviral treatment experienced patients mainly occurs by accumulation of the major and minor resistance substitutions described previously to be involved in protease inhibitor resistance.
 
 Clinical results
 In antiretroviral naive patients
-Study 138 is an international randomised, open-label, multicenter, prospective trial of
-883 antiretroviral treatment naïve patients comparing REYATAZ/ritonavir (300 mg/100 mg once daily) to lopinavir/ritonavir (400 mg/100 mg twice daily), each in combination with fixed dose tenofovir/emtricitabine (300 mg/200 mg tablets once daily).
-The mean baseline CD4 cell count was 214 cells/mm3 (range: 2 to 810 cells/ mm3) and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/ml (range: 2.6 to 5.88 log10 copies/ml).
-The REYATAZ/ritonavir arm has similar (non-inferior) antiviral efficacy compared to the lopinavir/ritonavir arm, as assessed by the proportion of patients with HIV RNA < 50 copies/ml at week 48: 78% of patients on REYATAZ/ritonavir compared to 76% on lopinavir/ritonavir (difference estimate of ATV/RTV-LPV/RTV: 1.7% [95% CI, -3.8%, 7.1%] according to the Confirmed Virologic Response (CVR) Non-Completer = Failure (NC = F) definition of response.
-In a per protocol analysis which excluded non-completers (i.e. patients who discontinued before the week 48 HIV RNA assessment) and patients with major protocol deviations, the proportion of patients with HIV RNA < 50 copies/ml at week 48 was 86% (338/392) for REYATAZ/ritonavir and 89%
-(332/372) for lopinavir/ritonavir (difference estimate of ATV/RTV-LPV/RTV: -3% [95% CI, -7.6%, 1.5%].
+Study 138 is an international randomised, open-label, multicenter, prospective trial of treatment naïve patients comparing REYATAZ/ritonavir (300 mg/100 mg once daily) to lopinavir/ritonavir
+(400 mg/100 mg twice daily), each in combination with fixed dose tenofovir/emtricitabine
+(300 mg/200 mg tablets once daily).
+The REYATAZ/ritonavir arm showed similar (non-inferior) antiviral efficacy compared to the lopinavir/ritonavir arm, as assessed by the proportion of patients with HIV RNA < 50 copies/ml at week 48 (Table 4).
+Analyses of data through 96 weeks of treatment demonstrated durability of antiviral activity (Table 4).
+Table 4: Efficacy Outcomes in Study 138 a
 
-Table 2: Efficacy Outcomes at Week 48 (Study 138) for the CVR (NC=F) analysis REYATAZ/ritonavira lopinavir/ritonavirb
+| Parameter | REYATAZ/ritonavirb (300 mg/100 mg once daily) n=440 |  | Lopinavir/ritonavirc (400 mg/100 mg twice daily) n=443 |  |
+| --- | --- | --- | --- | --- |
+|  | Week 48 | Week 96 | Week 48 | Week 96 |
+| HIV RNA <50 copies/ml, % |  |  |  |  |
+| All patientsd | 78 | 74 | 76 | 68 |
+| Difference estimate [95% CI]d | Week 48: 1.7% [-3.8%, 7.1%] Week 96: 6.1% [0.3%, 12.0%] |  |  |  |
+| Per protocol analysise | 86 (n=392f) | 91 (n=352) | 89 (n=372) | 89 (n=331) |
+| Difference estimatee [95% CI] | Week 48: -3% [-7.6%, 1.5%] Week 96: 2.2% [-2.3%, 6.7%] |  |  |  |
+| HIV RNA <50 copies/ml, % by Baseline Characteristicd |  |  |  |  |
+| HIV RNA <100,000 copies/ml | 82 (n=217) | 75 (n=217) | 81 (n=218) | 70 (n=218) |
+| ≥100,000 copies/ml | 74 (n=223) | 74 (n=223) | 72 (n=225) | 66 (n=225) |
+| CD4 count <50 cells/mm3 | 78 (n=58) | 78 (n=58) | 63 (n=48) | 58 (n=48) |
+| 50 to <100 cells/mm3 | 76 (n=45) | 71 (n=45) | 69 (n=29) | 69 (n=29) |
+| 100 to <200 cells/mm3 | 75 (n=106) | 71 (n=106) | 78 (n=134) | 70 (n=134) |
+| ≥ 200 cells/mm3 | 80 (n=222) | 76 (n=222) | 80 (n=228) | 69 (n=228) |
+| HIV RNA Mean Change from Baseline, log10 copies/ml |  |  |  |  |
+| All patients | -3.09 (n=397) | -3.21 (n=360) | -3.13 (n=379) | -3.19 (n=340) |
+| CD4 Mean Change from Baseline, cells/mm3 |  |  |  |  |
+| All patients | 203 (n=370) | 268 (n=336) | 219 (n=363) | 290 (n=317) |
+| CD4 Mean Change from Baseline, cells/mm3 by Baseline Characteristic |  |  |  |  |
+| HIV RNA <100,000 copies/ml | 179 (n=183) | 243 (n=163) | 194 (n=183) | 267 (n=152) |
+| ≥100,000 copies/ml | 227 (n=187) | 291 (n=173) | 245 (n=180) | 310 (n=165) |
 
-(300 mg/100 mg (400 mg/100 mg
-once daily) twice daily)
-Parameter n=440 n=443
-
-| HIV RNA <50 copies/ml, % c |  |  |
-| --- | --- | --- |
-| All patients | 78 | 76 |
-| Baseline Characteristics |  |  |
-| HIV RNA <100,000 copies/ml | 82 (n=217d) | 81 (n=218) |
-| ≥100,000 copies/ml | 74 (n=223) | 72 (n=225) |
-
-| CD4 count <50 cells/mm3 | 78 (n=58) | 63 (n=48) |
-| --- | --- | --- |
-| 50 to <100 cells/mm3 | 76 (n=45) | 69 (n=29) |
-| 100 to <200 cells/mm3 | 75 (n=106) | 78 (n=134) |
-| ≥200 cells/mm3 | 80 (n=222) | 80 (n=228) |
-| HIV RNA Mean Change from Baseline, log10 copies/ml |  |  |
-| All patients | -3.09 (n=397) | -3.13 (n=379) |
-| CD4 Mean Change from Baseline, cells/mm3 |  |  |
-| All patients | 203 (n=370) | 219 (n=363) |
-| Baseline Characteristics |  |  |
-| HIV RNA <100,000 copies/ml | 179 (n=183) | 194 (n=183) |
-| ≥100,000 copies/ml | 227 (n=187) | 245 (n=180) |
-
-a REYATAZ/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
-b Lopinavir/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
-c Intent-to-treat analysis, with missing values considered as failures.
-d Number of patients evaluable.
+a Mean baseline CD4 cell count was 214 cells/mm3 (range 2 to 810 cells/mm3) and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/ml (range 2.6 to 5.88 log10 copies/ml) b REYATAZ/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
+c Lopinavir/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
+d Intent-to-treat analysis, with missing values considered as failures.
+e Per protocol analysis: Excluding non-completers and patients with major protocol deviations.
+f Number of patients evaluable.
 
 In antiretroviral experienced patients
-Study 045 is a randomised, multicenter trial comparing REYATAZ (300 mg once daily) with ritonavir
-(100 mg once daily) to REYATAZ (400 mg once daily) with saquinavir soft gelatine capsules
-(1,200 mg once daily), and to lopinavir + ritonavir (400/100 mg fixed dose combination twice daily), each in combination with tenofovir (see sections 4.5 and 4.8) and one NRTI, in 347 (of
-358 randomised) patients with virologic failure on two or more prior regimens containing at least one
-PI, NRTI, and NNRTI.
-For randomised patients, the mean time of prior antiretroviral exposure was 138 weeks for PIs, 281 weeks for NRTIs, and 85 weeks for NNRTIs.
-At baseline, 34% of patients were receiving a PI and 60% were receiving an NNRTI.
-Fifteen of 120 (13%) patients in the
-REYATAZ + ritonavir treatment arm and 17 of 123 (14%) patients in the lopinavir + ritonavir arm had four or more of the PI substitutions L10, M46, I54, V82, I84, and L90.
+Study 045 is a randomised, multicenter trial comparing REYATAZ/ritonavir (300/100 mg once daily) and REYATAZ/saquinavir (400/1,200 mg once daily), to lopinavir + ritonavir (400/100 mg fixed dose combination twice daily), each in combination with tenofovir (see sections 4.5 and 4.8) and one NRTI, in patients with virologic failure on two or more prior regimens containing at least one PI, NRTI, and NNRTI.
+For randomised patients, the mean time of prior antiretroviral exposure was 138 weeks for
+PIs, 281 weeks for NRTIs, and 85 weeks for NNRTIs.
+At baseline, 34% of patients were receiving a
+PI and 60% were receiving an NNRTI.
+Fifteen of 120 (13%) patients in the REYATAZ + ritonavir treatment arm and 17 of 123 (14%) patients in the lopinavir + ritonavir arm had four or more of the PI substitutions L10, M46, I54, V82, I84, and L90.
 Thirty-two percent of patients in the study had a viral strain with fewer than two NRTI substitutions.
-The mean baseline
-CD4 cell count was 337 cells/mm3 (range: 14 to 1,543 cells/mm3) and the mean baseline plasma
-HIV-1 RNA level was 4.4 log10 copies/ml (range: 2.6 to 5.88 log10 copies/ml).
-The population included in this study was moderately pretreated.
 
-The primary endpoint was the time-averaged difference in change from baseline in HIV RNA through 48 weeks.
+The primary endpoint was the time-averaged difference in change from baseline in HIV RNA through 48 weeks (Table 5).
+Table 5: Efficacy Outcomes at Week 48a and at Week 96 (Study 045)
 
-Through 48 weeks of treatment, the decreases from baseline in HIV RNA levels (primary endpoint) were 1.93 log10 copies/ml for REYATAZ + ritonavir and 1.87 log10 copies/ml for lopinavir + ritonavir.
-REYATAZ + ritonavir was similar (non-inferior) to lopinavir + ritonavir on this efficacy measure (time-averaged difference of 0.13, 97.5% confidence interval [-0.12, 0.39]).
+| Parameter | ATV/RTVb (300 mg/ 100 mg once daily) n=120 |  | LPV/RTVc (400 mg/ 100 mg twice daily) n=123 |  | Time-averaged difference ATV/RTV-LPV/RTV [97.5% CId] |  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Week 48 | Week 96 | Week 48 | Week 96 | Week 48 | Week 96 |
+| HIV RNA Mean Change from Baseline, log10 copies/ml |  |  |  |  |  |  |
+| All patients | -1.93 (n=90 e) | -2.29 (n=64) | -1.87 (n=99) | -2.08 (n=65) | 0.13 [-0.12, 0.39] | 0.14 [-0.13, 0.41] |
+| HIV RNA <50 copies/ml, %f (responder/evaluable) |  |  |  |  |  |  |
+| All patients | 36 (43/120) | 32 (38/120) | 42 (52/123 | 35 (41/118) | NA | NA |
+| HIV RNA <50 copies/ml by select baseline PI substitutions,f, g % (responder/evaluable) |  |  |  |  |  |  |
+| 0-2 | 44 (28/63) | 41 (26/63) | 56 (32/57) | 48 (26/54) | NA | NA |
+| 3 | 18 (2/11) | 9 (1/11) | 38 (6/16) | 33 (5/15) | NA | NA |
+| ≥4 | 27 (12/45) | 24 (11/45) | 28 (14/50) | 20 (10/49) | NA | NA |
+| CD4 Mean Change from Baseline, cells/mm3 |  |  |  |  |  |  |
+| All patients | 110 (n=83) | 122 (n=60) | 121 (n=94) | 154 (n=60) | NA | NA |
+
+a The mean baseline CD4 cell count was 337 cells/mm3 (range: 14 to 1,543 cells/mm3) and the mean baseline plasma HIV-1
+RNA level was 4.4 log10 copies/ml (range: 2.6 to 5.88 log10 copies/ml).
+b ATV/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
+c LPV/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
+d Confidence interval.
+e Number of patients evaluable.
+f Intent-to-treat analysis, with missing values considered as failures.
+Responders on LPV/RTV who completed treatment before Week 96 are excluded from Week 96 analysis.
+The proportion of patients with HIV RNA < 400 copies/ml were 53% and 43% for ATV/RTV and 54% and 46% for LPV/RTV at weeks 48 and 96 respectively.
+g Select substitutions include any change at positions L10, K20, L24, V32, L33, M36, M46, G48, I50, I54, L63, A71, G73,
+V82, I84, and L90 (0-2, 3, 4 or more) at baseline.
+NA = not applicable.
+
+Through 48 weeks of treatment, the mean changes from baseline in HIV RNA levels for REYATAZ + ritonavir and lopinavir + ritonavir were similar (non-inferior).
 Consistent results were obtained with the last observation carried forward method of analysis (time-averaged difference of 0.11, 97.5% confidence interval [-0.15, 0.36]).
-The proportions of patients with HIV RNA
-< 400 copies/ml in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 53% and 54%, respectively, by intent-to-treat analysis, with missing values considered as failures.
-The proportions of patients with HIV RNA < 50 copies/ml in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 36% and 42%, respectively.
 By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA < 400 copies/ml (< 50 copies/ml) in the REYATAZ + ritonavir arm and the lopinavir + ritonavir arm were 55% (40%) and 56% (46%), respectively.
-The mean increases from baseline in CD4 cell count were 110 cells/mm3 and 121 cells/mm3 in the REYATAZ + ritonavir and lopinavir + ritonavir arms, respectively.
 
-Analyses of data through 96 weeks of treatment demonstrated durability of antiviral activity.
-Mean
-HIV RNA changes from baseline at Week 96 (-2.29 log10 copies/ml for REYATAZ + ritonavir and
--2.08 log10 copies/ml for lopinavir + ritonavir, time-averaged difference of 0.14, 97.5% confidence interval [-0.13, 0.41]) met criteria for non-inferiority based on observed cases.
+Through 96 weeks of treatment, mean HIV RNA changes from baseline for REYATAZ + ritonavir and lopinavir + ritonavir met criteria for non-inferiority based on observed cases.
 Consistent results were obtained with the last observation carried forward method of analysis.
-The proportions of patients with
-HIV RNA <400 copies/ml (<50 copies/ml) for REYATAZ + ritonavir were 43% (32%) and for lopinavir + ritonavir were 46% (35%).
-Patients completing treatment while in response after 48 weeks were censored.
-By as-treated analysis, excluding missing values, the proportions of patients with HIV
-RNA <400 copies/ml (<50 copies/ml) for REYATAZ + ritonavir were 84% (72%) and for lopinavir + ritonavir were 82% (72%).
+By as-treated analysis, excluding missing values, the proportions of patients with HIV RNA <400 copies/ml (<50 copies/ml) for REYATAZ + ritonavir were 84% (72%) and for lopinavir + ritonavir were 82% (72%).
 It is important to note that at time of the 96-week analysis, 48 % of patients overall remained on study.
-
-Through 48 weeks of treatment, two types of analyses were performed based on baseline genotypic mutations.
-The first consisted in assessing the HIV RNA change from baseline in the subgroup of patients with < or ≥ of 4 of the following set of mutations: 10, 20, 24, 32, 33, 36, 46, 48, 50, 54, 63,
-71, 73, 82, 84 and 90.
-The second consisted in assessing the HIV RNA change from baseline in the subgroup of patients with
-< or ≥ of 4 of the following more specific set of mutations: 10, 46, 54, 82, 84, 90.
-In the analysis performed for patients with ≥ 4 protease gene mutations among the following set of mutations 10, 20,
-24, 32, 33, 36, 46, 48, 50, 54, 63, 71, 73, 82, 84 and 90, the results significantly favoured the lopinavir
-+ ritonavir arm.
-There were too few patients with ≥ 4 of the second more specific set of mutations (i.e. 10, 46, 54, 82, 84, 90) to assess the comparability of the REYATAZ + ritonavir and lopinavir + ritonavir regimens, but reduced virologic activity may be anticipated among patients with this resistance profile.
 
 REYATAZ + saquinavir was shown to be inferior to lopinavir + ritonavir.
 
@@ -138,10 +147,12 @@ REYATAZ + saquinavir was shown to be inferior to lopinavir + ritonavir.
 
 [REYATAZ 50 mg/1.5 g oral powder]
 
-| HIV RNA <50 copies/ml, % c |  |  |
-| --- | --- | --- |
-| All patients | 78 | 76 |
-| Baseline Characteristics |  |  |
-| HIV RNA | 82 (n=217d) | 81 (n=218) |
-| <100,000 copies/ml |  |  |
-| ≥100,000 copies/ml | 74 (n=223) | 72 (n=225) |
+Frequency de novo PI substitution (n=26)a
+>20% none
+10-20% none
+
+Frequency de novo PI substitution (n=35)a,b
+>20% M36, M46, I54, A71, V82
+10-20% L10, I15, K20, V32, E35, S37, F53, I62, G73, I84, L90
+
+a Mean baseline CD4 cell count was 214 cells/mm3 (range 2 to 810 cells/mm3 and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/ml (range 2.6 to 5.88 log10 copies/ml) b REYATAZ/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).

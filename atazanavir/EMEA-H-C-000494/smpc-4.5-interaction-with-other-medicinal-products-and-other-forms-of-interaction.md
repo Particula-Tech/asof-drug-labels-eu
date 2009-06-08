@@ -39,7 +39,7 @@ infected patients pharmacokinetics.
 The mechanism of interaction between atazanavir and ritonavir is
 CYP3A4 inhibition.
 
-Indinavir Indinavir is associated with indirect unconjugated hyperbilirubinaemia Coadministration of
+Indinavir Indinavir is associated with indirect unconjugated hyperbilirubinaemia Co-administration of
 due to inhibition of UGT. REYATAZ/ritonavir
 
 and indinavir is not recommended (see section 4.4).
@@ -228,7 +228,7 @@ Rifabutin 150 mg QD A rifabutin dose
 (atazanavir 400 mg QD) atazanavir reduction of up to 75%
 
 (0.98, 1.34) (1.14, 1.59) (0.68, 1.87)
-(eg, 150 mg every
+(e.g., 150 mg every
 
 Rifabutin 150 mg QD ↑2.10 ↑1.18 ↑3.43 other day or 3 times
 (atazanavir 600 mg QD) rifabutin (1.57, 2.79) (0.94, 1.48) (1.98, 5.96) per week) is
@@ -281,7 +281,7 @@ Omeprazole 40 mg QD Co-administration of
 
 atazanavir (am): 2
 
-(atazanavir 400 mg QD with 0.39 0.44 0.35 REYATAZ/ritonavir
+(atazanavir 400 mg QD with ↓0.39 ↓0.44 ↓0.35 REYATAZ/ritonavir
 
 hr after
 
@@ -293,7 +293,7 @@ If the
 Omeprazole 20 mg QD combination of
 (atazanavir 400 mg QD with atazanavir (am): 1 ↓0.70* ↓0.69* ↓0.69* REYATAZ/ritonavir
 ritonavir 100 mg QD) hr after (0.57, 0.86) (0.58, 0.83) (0.54, 0.88) with a proton pump
-omeprazaole inhibitor is judged
+omeprazole inhibitor is judged
 
 * When compared to atazanavir 300 mg QD with ritonavir 100 mg QD unavoidable, close clinical monitoring is
 
@@ -379,7 +379,8 @@ desacetyl- ↑2.65 ↑2.72 ↑2.21 by 50% is
 diltiazem (2.45, 2.87) (2.44, 3.03) (2.02, 2.42) recommended, with
 
 subsequent titration as No significant effect on atazanavir concentrations was observed.
-There needed and ECG was an increase in the maximum PR interval compared to atazanavir monitoring alone.
+There needed and ECG was an increase in the maximum PR interval compared to atazanavir monitoring.
+alone.
 Co-administration of diltiazem and REYATAZ/ritonavir has not been studied.
 The mechanism of diltiazem/atazanavir interaction is
 CYP3A4 inhibition.
@@ -388,7 +389,7 @@ Verapamil Serum concentrations of verapamil may be increased by Caution should b
 REYATAZ/ritonavir due to CYP3A4 inhibition. exercised when
 . verapamil is
 
-co-administered with REYATAZ/ritonavir
+co-administered with REYATAZ/ritonavir.
 CORTICOSTEROIDS
 
 Fluticasone propionate The fluticasone propionate plasma levels increased significantly, Co-administration of
@@ -400,12 +401,12 @@ capsules BID) when fluticasone propionate is inhaled. Systemic corticosteroid ef
 including Cushing’s syndrome and adrenal suppression have been recommended unless
 reported in patients receiving ritonavir and inhaled or intranasally the potential benefit of
 
-administered fluticasone propionate; this could also occur with other treatment outweighs corticosteroids metabolized via the P450 3A pathway, eg, budesonide. the risk of systemic The effects of high fluticasone systemic exposure on ritonavir plasma corticosteroid effects
+administered fluticasone propionate; this could also occur with other treatment outweighs corticosteroids metabolized via the P450 3A pathway, e.g., budesonide. the risk of systemic The effects of high fluticasone systemic exposure on ritonavir plasma corticosteroid effects
 
 levels are yet unknown. The mechanism of interaction is CYP3A4 (see section 4.4). A
 inhibition. dose reduction of the
 
-glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (eg, beclomethasone).
+glucocorticoid should be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (e.g., beclomethasone).
 Moreover, in case of withdrawal of glucocorticoids, progressive dose reduction may have to be performed over a longer period.
 ERECTILE DYSUNCTION
 PDE5 Inhibitors
@@ -473,7 +474,7 @@ Given No dosage adjustment
 
 dose that low dose ritonavir (100 mg twice daily) has been shown to have no is necessary if
 (atazanavir 400 mg QD) significant effect on methadone concentrations, no interaction is methadone is
-expected if methadone is co-administered with REYATAZ and coadministered with
+expected if methadone is co-administered with REYATAZ and co-administered with
 ritonavir, based on these data. REYATAZ and
 
 ritonavir.
@@ -528,14 +529,11 @@ treatment with REYATAZ/ritonavir,
 
 especially when commencing therapy.
 
-There needed and ECG was an increase in the maximum PR interval compared to atazanavir monitoring.
-alone.
-
 verapamil is co-administered with REYATAZ/ritonavir.
 
 glucocorticoid should
 
-be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (eg, beclomethasone).
+be considered with close monitoring of local and systemic effects or a switch to a glucocorticoid, which is not a substrate for CYP3A4 (e.g., beclomethasone).
 
 ritonavir 100 mg QD) norbuprenorphine ↑2.05 ↑1.61 ↑2.01 sedation and cognitive
 

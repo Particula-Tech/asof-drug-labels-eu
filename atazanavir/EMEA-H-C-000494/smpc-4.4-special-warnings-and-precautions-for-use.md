@@ -18,7 +18,7 @@ Patients with pre-existing liver dysfunction, including chronic active hepatitis
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
 No dosage adjustment is needed in patients with renal impairment.
-However, REYATAZ with ritonavir is not recommended in patients undergoing hemodialysis (see sections 4.2 and 5.2).
+However, REYATAZ with ritonavir is not recommended in patients undergoing haemodialysis (see sections 4.2 and 5.2).
 
 Dose related asymptomatic prolongations in PR interval with REYATAZ have been observed in clinical studies.
 Caution should be used with medicinal products known to induce PR prolongations.
@@ -70,7 +70,6 @@ Combinations of REYATAZ and indinavir have not been studied and co-administratio
 Nephrolithiasis
 Nephrolithiasis has been reported in patients receiving REYATAZ (see section 4.8).
 If signs or symptoms of nephrolithiasis occur, temporary interruption or discontinuation of treatment may be considered.
-
 Immune reactivation syndrome
 In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
@@ -85,7 +84,7 @@ Interactions with other medicinal products
 Co-administration of REYATAZ with simvastatin or lovastatin is not recommended (see section 4.5).
 
 Co-administration of REYATAZ with nevirapine or efavirenz is not recommended (see section 4.5).
-If the coadministration of REYATAZ with an NNRTI is required, an increase in the dose of both REYATAZ and ritonavir to 400 mg and 200 mg, respectively, in combination with efavirenz could be considered with close clinical monitoring.
+If the co-administration of REYATAZ with an NNRTI is required, an increase in the dose of both REYATAZ and ritonavir to 400 mg and 200 mg, respectively, in combination with efavirenz could be considered with close clinical monitoring.
 
 Atazanavir is metabolised principally by CYP3A4.
 Co-administration of REYATAZ with ritonavir and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
