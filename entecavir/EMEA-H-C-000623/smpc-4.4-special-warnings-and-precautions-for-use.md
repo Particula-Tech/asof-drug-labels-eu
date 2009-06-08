@@ -39,11 +39,11 @@ Patients with lamivudine-resistant HBV are at higher risk of developing subseque
 The cumulative probability of emerging genotypic entecavir resistance after 1, 2, 3, 4 and 5 years treatment in the lamivudine-refractory studies was 6%, 15%, 36%, 47% and 51%, respectively.
 Virological response should be frequently monitored in the lamivudine-refractory population and appropriate resistance testing should be performed.
 In patients with a suboptimal virological response after 24 weeks of treatment with entecavir, a modification of treatment should be considered (see sections 4.5 and 5.1).
+
 Liver transplant recipients: there are limited data on efficacy and safety of entecavir in liver transplant recipients.
 Renal function should be carefully evaluated before and during entecavir therapy in liver transplant recipients receiving cyclosporine or tacrolimus (see section 5.2).
 
 Co-infection with hepatitis C or D: there are no data on the efficacy of entecavir in patients co-infected with hepatitis C or D virus.
-
 Human immunodeficiency virus (HIV)/HBV co-infected patients not receiving concomitant antiretroviral therapy: entecavir has not been evaluated in HIV/HBV co-infected patients not concurrently receiving effective HIV treatment.
 Emergence of HIV resistance has been observed when entecavir was used to treat chronic hepatitis B infection in patients with HIV infection not receiving highly active antiretroviral therapy (HAART) (see section 5.1).
 Therefore, therapy with entecavir should not be used for HIV/HBV co-infected patients who are not receiving HAART.

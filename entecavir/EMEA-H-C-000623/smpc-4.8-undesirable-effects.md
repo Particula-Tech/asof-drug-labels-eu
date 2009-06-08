@@ -42,6 +42,7 @@ Psychiatric disorders: common: insomnia
 Laboratory test abnormalities: 2% of patients had ALT elevations both > 10 times ULN and > 2 times baseline, 4% had ALT elevations > 3 times baseline, and < 1% had ALT elevations > 2 times baseline together with total bilirubin > 2 times ULN and > 2 times baseline.
 Amylase levels > 3 times baseline occurred in 2% of patients, lipase levels > 3 times baseline in 18% and platelets < 50,000/mm3 in
 < 1%.
+
 Treatment beyond 48 weeks: continued treatment with entecavir for a median duration of 96 weeks did not reveal any new safety signals.
 
 Exacerbations during treatment: in studies with nucleoside naive patients, on treatment ALT elevations > 10 times ULN and > 2 times baseline occurred in 2% of entecavir treated patients vs 4% of lamivudine treated patients.
