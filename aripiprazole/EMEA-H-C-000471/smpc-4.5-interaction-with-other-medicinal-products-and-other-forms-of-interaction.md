@@ -44,7 +44,7 @@ In clinical studies, 10-30 mg/day doses of aripiprazole had no significant effec
 Additionally, aripiprazole and dehydro-aripiprazole did not show potential for altering CYP1A2-mediated metabolism in vitro.
 Thus, aripiprazole is unlikely to cause clinically important medicinal product interactions mediated by these enzymes.
 
-When aripiprazole was administered concomitantly with either valproate or lithium, there was no clinically important change in valproate or lithium concentrations.
+When aripiprazole was administered concomitantly with either valproate, lithium or lamotrigine, there was no clinically important change in valproate, lithium or lamotrigine concentrations.
 
 [ABILIFY 10 mg tablets]
 

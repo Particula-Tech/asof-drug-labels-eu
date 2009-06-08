@@ -18,9 +18,15 @@ In a haloperidol-controlled trial, the proportion of responder patients maintain
 The overall completion rate was significantly higher for patients on aripiprazole (43%) than for haloperidol (30%).
 Actual scores in rating scales used as secondary endpoints, including PANSS and the Montgomery-Asberg Depression Rating Scale showed a significant improvement over haloperidol.
 In a 26-week, placebo-controlled trial in stabilised patients with chronic schizophrenia, aripiprazole had significantly greater reduction in relapse rate, 34% in aripiprazole group and 57% in placebo.
+
 Weight gain: in clinical trials aripiprazole has not been shown to induce clinically relevant weight gain.
 In a 26-week, olanzapine-controlled, double-blind, multi-national study of schizophrenia which included 314 patients and where the primary end-point was weight gain, significantly less patients had at least 7% weight gain over baseline (i.e. a gain of at least 5.6 kg for a mean baseline weight of
 ~80.5 kg) on aripiprazole (N= 18, or 13% of evaluable patients), compared to olanzapine (N= 45, or 33% of evaluable patients).
+Lipid parameters: in a pooled analysis on lipid parameters from placebo controlled clinical trials in adults, aripiprazole has not been shown to induce clinically relevant alterations in levels of total cholesterol, triglycerides, HDL and LDL.
+-Total cholesterol: incidence of changes in levels from normal (<5.18 mmol/l) to high (≥ 6.22 mmol/l) was 2.5% for aripiprazole and 2.8% for placebo and mean change from baseline was -0.15 mmol/l (95% CI: -0.182, -0.115) for aripiprazole and -0.11 mmol/l (95% CI: -0.148, -0.066) for placebo. -Fasting triglycerides: incidence of changes in levels from normal (<1.69 mmol/l) to high (≥ 2.26 mmol/l) was 7.4% for aripiprazole and 7.0% for placebo and mean change from baseline was -0.11 mmol/l (95% CI: -0.182, -0.046) for aripiprazole and -0.07 mmol/l (95% CI: -0.148, 0.007) for placebo.
+-HDL: incidence of changes in levels from normal (≥ 1.04 mmol/l) to low (<1.04 mmol/l) was 11.4% for aripiprazole and 12.5% for placebo and mean change from baseline was -0.03 mmol/l
+(95% CI: -0.046, -0.017) for aripiprazole and -0.04 mmol/l (95% CI: -0.056, -0.022) for placebo. -Fasting LDL: incidence of changes in levels from normal (<2.59 mmol/l) to high (≥ 4.14 mmol/l) was 0.6% for aripiprazole and 0.7% for placebo and mean change from baseline was -0.09 mmol/l
+(95% CI: -0.139, -0.047) for aripiprazole and -0.06 mmol/l (95% CI: -0.116, -0.012) for placebo.
 
 Manic episodes in Bipolar I Disorder:
 In two 3-week, flexible-dose, placebo-controlled monotherapy trials involving patients with a manic or mixed episode of Bipolar I Disorder, aripiprazole demonstrated superior efficacy to placebo in reduction of manic symptoms over 3 weeks.
@@ -79,5 +85,8 @@ In a 26-week, placebo-controlled trial in stabilised patients with chronic schiz
 
 Weight gain: in clinical trials oral aripiprazole has not been shown to induce clinically relevant weight gain.
 ~80.5 kg) on oral aripiprazole (N= 18, or 13% of evaluable patients), compared to oral olanzapine (N= 45, or 33% of evaluable patients).
+
+-Total cholesterol: incidence of changes in levels from normal (<5.18 mmol/l) to high (≥ 6.22 mmol/l) was 2.5% for aripiprazole and 2.8% for placebo and mean change from baseline was -0.15 mmol/l (95% CI: -0.182, -0.115) for aripiprazole and -0.11 mmol/l (95% CI: -0.148, -0.066) for placebo. -Fasting triglycerides: incidence of changes in levels from normal (<1.69 mmol/l) to high (≥ 2.26 mmol/l) was 7.4% for aripiprazole and 7.0% for placebo and mean change from baseline was -0.11 mmol/l
+(95% CI: -0.182, -0.046) for aripiprazole and -0.07 mmol/l (95% CI: -0.148, 0.007) for placebo. -HDL: incidence of changes in levels from normal (≥ 1.04 mmol/l) to low (<1.04 mmol/l) was 11.4% for aripiprazole and 12.5% for placebo and mean change from baseline was -0.03 mmol/l
 
 Manic episodes in Bipolar I Disorder with oral aripiprazole:

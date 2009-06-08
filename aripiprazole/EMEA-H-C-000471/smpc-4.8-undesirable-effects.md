@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 The following adverse reactions occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*):
-The frequency listed below is defined using the following convention: common (> 1/100 to < 1/10) and uncommon (> 1/1,000 to < 1/100).
+The frequency listed below is defined using the following convention: common (≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100).
 Psychiatric disorders
 Common: restlessness, insomnia, anxiety
 Uncommon: depression*
@@ -28,7 +28,7 @@ In the long term 26-week maintenance phase of a placebo-controlled trial, the in
 In placebo-controlled trials, the incidence of akathisia in bipolar patients was 12.1% with aripiprazole and 3.2% with placebo.
 In schizophrenia patients the incidence of akathisia was 6.2% with aripiprazole and 3.0% with placebo.
 
-Comparisons between aripiprazole and placebo in the proportions of patients experiencing potentially clinically significant changes in routine laboratory parameters revealed no medically important differences.
+Comparisons between aripiprazole and placebo in the proportions of patients experiencing potentially clinically significant changes in routine laboratory and lipid parameters (see section 5.1) revealed no medically important differences.
 Elevations of CPK (Creatine Phosphokinase), generally transient and asymptomatic, were observed in 3.5% of aripiprazole treated patients as compared to 2.0% of patients who received placebo.
 
 Other findings:
@@ -47,7 +47,6 @@ Immune system disorders: allergic reaction (e.g. anaphylactic reaction, angioede
 Endocrine disorders: hyperglycaemia, diabetes mellitus, diabetic ketoacidosis, diabetic
 
 hyperosmolar coma
-
 Metabolism and nutrition weight gain, weight decreased, anorexia, hyponatremia disorders:
 
 Psychiatric disorders: agitation, nervousness; suicide attempt, suicidal ideation, and
@@ -122,7 +121,6 @@ glucose fluctuation, glycosylated haemoglobin increased
 [ABILIFY 7.5 mg/ml solution for injection]
 
 The following adverse reactions occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*) in clinical trials with aripiprazole solution for injection (see section 5.1):
-The frequency listed below is defined using the following convention: common (≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100).
 
 Common: somnolence, dizziness, headache, akathisia
 Uncommon: orthostatic hypotension*, increased diastolic blood pressure*

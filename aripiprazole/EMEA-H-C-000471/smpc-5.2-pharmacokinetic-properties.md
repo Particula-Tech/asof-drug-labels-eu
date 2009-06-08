@@ -9,7 +9,6 @@ There is no effect of a high fat meal on the pharmacokinetics of aripiprazole.
 Distribution:
 Aripiprazole is widely distributed throughout the body with an apparent volume of distribution of 4.9 l/kg, indicating extensive extravascular distribution.
 At therapeutic concentrations, aripiprazole and dehydro-aripiprazole are greater than 99% bound to serum proteins, binding primarily to albumin.
-
 Metabolism:
 Aripiprazole is extensively metabolised by the liver primarily by three biotransformation pathways: dehydrogenation, hydroxylation, and N-dealkylation.
 Based on in vitro studies, CYP3A4 and CYP2D6 enzymes are responsible for dehydrogenation and hydroxylation of aripiprazole, and N-dealkylation is catalysed by CYP3A4.
@@ -18,6 +17,7 @@ At steady state, dehydro-aripiprazole, the active metabolite, represents about 4
 
 Elimination:
 The mean elimination half-lives for aripiprazole are approximately 75 hours in extensive metabolisers of CYP2D6 and approximately 146 hours in poor metabolisers of CYP2D6.
+
 The total body clearance of aripiprazole is 0.7 ml/min/kg, which is primarily hepatic.
 
 Following a single oral dose of [14C]-labelled aripiprazole, approximately 27% of the administered radioactivity was recovered in the urine and approximately 60% in the faeces.
