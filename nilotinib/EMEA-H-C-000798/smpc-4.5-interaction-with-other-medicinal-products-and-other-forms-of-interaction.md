@@ -1,13 +1,16 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 Substances that may increase nilotinib serum concentrations
-Nilotinib is mainly metabolised in the liver and is also a substrate for the multi-drug efflux pump, P-glycoprotein (Pgp).
-Therefore, absorption and subsequent elimination of systemically absorbed nilotinib may be influenced by substances that affect CYP3A4 and/or Pgp.
+Nilotinib is mainly metabolised in the liver and is also a substrate for the multi-drug efflux pump, P-glycoprotein (P-gp).
+Therefore, absorption and subsequent elimination of systemically absorbed nilotinib may be influenced by substances that affect CYP3A4 and/or P-gp.
+Concomitant administration of nilotinib with imatinib (a substrate and moderator of P-gp and CYP3A4), had a slight inhibitory effect on CYP3A4 and/or P-gp.
+The AUC of imatinib was increased by 18% to 39%, and the AUC of nilotinib was increased by 18% to 40%.
+These changes are unlikely to be clinically important.
+
 The exposure to nilotinib in healthy subjects was increased 3-fold when co-administered with the strong CYP3A4 inhibitor ketoconazole.
 Concomitant treatment with strong CYP3A4 inhibitors, including ketoconazole, itraconazole, voriconazole, ritonavir, moxifloxacin, clarithromycin, and telithromycin, should therefore be avoided (see sections 4.2 and 4.4).
 Increased exposure to nilotinib might also be expected with moderate CYP3A4 inhibitors.
 Alternative concomitant medications with no or minimal CYP3A4 inhibition should be considered.
-
 Substances that may decrease nilotinib serum concentrations
 Rifampicin, a potent CYP3A4 inducer, decreases nilotinib Cmax by 64% and reduces nilotinib AUC by 80%.
 Rifampicin and nilotinib should not be used concomitantly.
@@ -16,6 +19,7 @@ The concomitant administration of other medicinal products that induce CYP3A4 (e
 In patients for whom CYP3A4 inducers are indicated, alternative agents with less enzyme induction potential should be selected.
 Nilotinib has pH dependent solubility, therefore, absorption of nilotinib might be reduced by substances that suppress gastric acid secretion.
 The concomitant use of antacids, H2 blockers, or proton pump inhibitors with Tasigna is not recommended.
+
 Substances that may have their systemic concentration altered by nilotinib
 Nilotinib is a relatively strong inhibitor of CYP3A4, CYP2C8, CYP2C9, CYP2D6 and UGT1A1 in vitro, potentially increasing the concentrations of substances eliminated by these enzymes.
 The clinical relevance of these potential interactions has not been studied but caution is advised especially with concomitant use of nilotinib and medicinal products with a narrow therapeutic index.

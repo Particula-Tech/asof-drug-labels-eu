@@ -5,6 +5,7 @@ At cut-off, 46% of patients in chronic-phase CML (CML-CP) had a duration of expo
 62% of patients in accelerated-phase CML (CML-AP) had a duration of exposure of 3 to 12 months and 10% of patients had a duration of exposure of more than 12 months.
 The dose was 400 mg twice daily.
 The median duration of exposure in days was 245 (1-502) for the CML-CP patients and 138 (2-503) for the CML-AP patients.
+
 The most frequent non-haematological drug-related adverse events were rash, pruritus, nausea, fatigue and headache.
 Most of these adverse events were mild to moderate in severity.
 Constipation, diarrhoea, bone pain, arthralgia, muscle spasms and peripheral oedema were observed less commonly and have been of mild to moderate severity.
@@ -21,7 +22,6 @@ No episodes of torsade de pointes (transient or sustained) were observed.
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients in Tasigna clinical studies are shown in Table 2.
 These are ranked under heading of frequency using the following convention: very common (≥1/10) or common (≥1/100 to <1/10).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
 Table 2 Adverse reactions (≥5% of all patients, n=438)
 
 System organ Frequency Adverse All grades Grade Chronic Accelerated
@@ -65,7 +65,6 @@ Very common: lipase increased.
 Common: blood amylase increased, alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatinine phosphokinase increased, blood glucose increased, weight decreased, weight increased.
 Uncommon: blood lactate dehydrogenase increased, blood glucose decreased, blood creatinine increased, blood urea increased.
 Not known: troponin increased, blood potassium decreased, blood bilirubin unconjugated increased.
-
 Cardiac disorders:
 Common: palpitations, electrocardiogram QT prolonged.
 Uncommon: cardiac failure, angina pectoris, atrial fibrillation, pericardial effusion, coronary artery disease, cardiomegaly, cardiac murmur, bradycardia.
@@ -97,6 +96,7 @@ Gastrointestinal disorders:
 Common: abdominal discomfort, dyspepsia, flatulence.
 Uncommon: pancreatitis, gastrointestinal haemorrhage, melaena, abdominal distension, mouth ulceration, gastroesophageal reflux, stomatitis, dry mouth.
 Not known: gastrointestinal ulcer perforation, retroperitoneal haemorrhage, haematemesis, gastric ulcer, oesophagitis ulcerative, subileus.
+
 Renal and urinary disorders:
 Uncommon: dysuria, micturition urgency, nocturia, pollakiuria.
 Not known: renal failure, haematuria, urinary incontinence.
@@ -114,7 +114,6 @@ Not known: arthritis, joint swelling.
 Endocrine disorders:
 Uncommon: hyperthyroidism.
 Not known: hypothyroidism, thyroiditis.
-
 Metabolism and nutrition disorders:
 Common: hypomagnesaemia, hyperkalaemia, hyperglycaemia.
 Uncommon: hypokalaemia, hyponatraemia, hypocalcaemia, hypophosphataemia, dehydration, decreased appetite, increased appetite.
@@ -144,6 +143,7 @@ Psychiatric disorders:
 Common: insomnia.
 Uncommon: depression, anxiety.
 Not known: disorientation, confusional state.
+
 Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values are presented in Table 3.
 
 Table 3 Grade 3-4 laboratory abnormalities

@@ -11,9 +11,9 @@ No food should be consumed for 2 hours before the dose is taken and no food shou
 
 Tasigna may be given in combination with haematopoietic growth factors such as erythropoietin or granulocyte colony-stimulating factor (G-CSF) if clinically indicated.
 Tasigna may be given with hydroxyurea or anagrelide if clinically indicated.
+
 Dose adjustments or modifications
 Tasigna may need to be temporarily withheld and/or dose reduced for haematological toxicities (neutropenia, thrombocytopenia) that are not related to underlying leukaemia (see Table 1).
-
 Table 1 Dose adjustments for neutropenia and thrombocytopenia
 
 | Chronic phase CML at 400 mg twice daily | ANC* <1.0 x 109/l and/or platelet counts <50 x 109/l | 1. Stop Tasigna, and monitor blood counts. 2. Resume within 2 weeks at prior dose if ANC >1.0 x 109/l and/or platelets >50 x 109/l. 3. If blood counts remain low, a dose reduction to 400 mg once daily may be required. |

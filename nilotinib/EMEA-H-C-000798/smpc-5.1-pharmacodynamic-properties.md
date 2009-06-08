@@ -63,7 +63,6 @@ The overall confirmed HR rate in 119 AP patients was 42%.
 Most responders achieved a HR early with Tasigna treatment (median 1.0 months) and these have been durable (median duration has not been reached).
 No patients have had a loss of CHR.
 The MCyR rate was 27% with a median time to response of 2.0 months.
-
 The rates of response for the two treatment arms are reported in Table 7.
 
 Table 7 Response in CML

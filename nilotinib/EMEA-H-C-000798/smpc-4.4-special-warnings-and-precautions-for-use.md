@@ -61,6 +61,10 @@ Serum lipase
 Elevation in serum lipase has been observed.
 Caution is recommended in patients with previous history of pancreatitis.
 
+Total gastrectomy
+The bioavailability of nilotinib might be reduced in patients with total gastrectomy (see section 5.2).
+More frequent follow-up of these patients should be considered.
+
 Lactose
 Tasigna capsules contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
