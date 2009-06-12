@@ -1,0 +1,16 @@
+{
+  "active_substance": "pantoprazole",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/001013",
+  "eu_number": "EU/1/09/517",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2009-06-11",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pantozol-control",
+  "molecule": "pantoprazole",
+  "molecule_name": "PANTOPRAZOLE",
+  "name": "Pantozol Control",
+  "register_name": "PANTOZOL Control",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h517.htm"
+}
