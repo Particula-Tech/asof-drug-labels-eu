@@ -6,6 +6,7 @@ Microcrystalline cellulose
 Colloidal anhydrous silica
 Talc
 Magnesium stearate
+
 Tablet coat:
 Methacrylic acid - ethyl acrylate copolymer (1:1)
 Sodium lauryl sulphate

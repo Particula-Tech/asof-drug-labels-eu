@@ -12,6 +12,7 @@ Biotransformation: In man, about 80% of the circulating memantine-related materi
 Main human metabolites are N-3,5-dimethyl-gludantan, the isomeric mixture of 4-and 6-hydroxy-memantine, and 1-nitroso-3,5-dimethyl-adamantane.
 None of these metabolites exhibit NMDA-antagonistic activity.
 No cytochrome P 450 catalysed metabolism has been detected in vitro.
+
 In a study using orally administered 14C-memantine, a mean of 84% of the dose was recovered within 20 days, more than 99% being excreted renally.
 
 Elimination: Memantine is eliminated in a monoexponential manner with a terminal t½ of 60 to 100 hours.

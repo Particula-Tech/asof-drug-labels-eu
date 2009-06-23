@@ -7,32 +7,32 @@ The following Adverse Reactions listed in the Table below have been accumulated 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Adverse reactions are ranked according to system organ class, using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
-Cardiac disorders Uncommon Cardiac failure
-Nervous system disorders Common Dizziness
-
-Uncommon Gait abnormal
-
-Very rare Seizures
-Gastrointestinal disorders Common Constipation
-
-Uncommon Vomiting
-Not known Pancreatitis2
-
 Infections and infestations Uncommon Fungal infections
-Vascular disorders Common Hypertension
-
-Uncommon Venous thrombosis/thromboembolism
-
-General disorders and administration Common Headache
-
-site conditions
-Uncommon Fatigue
-
 Psychiatric disorders Common Somnolence
-
 Uncommon Confusion
 Uncommon Hallucinations1
 Not known Psychotic reactions2
+Nervous system disorders Common Dizziness
+Uncommon Gait abnormal
+Very rare Seizures
+Cardiac disorders Uncommon Cardiac failure
+Vascular disorders Common Hypertension
+Uncommon Venous
+
+thrombosis/thromboembolism
+
+Respiratory, thoracic and mediastinal Common Dyspnoea
+
+disorders
+
+Gastrointestinal disorders Common Constipation
+Uncommon Vomiting
+Not known Pancreatitis2
+General disorders and administration Common Headache
+
+site conditions
+
+Uncommon Fatigue
 
 1 Hallucinations have mainly been observed in patients with severe Alzheimer´s disease.
 2 Isolated cases reported in post-marketing experience.
@@ -50,4 +50,4 @@ Adverse reactions are ranked according to system organ class, using the followin
 
 [Ebixa 20 mg film-coated tablets.]
 
-(all sentences already above)
+Uncommon Venous thrombosis/thromboembolism
