@@ -21,7 +21,7 @@ Exposure in plasma, liver and brain was considerably higher than in adult rats a
 After day 23 of life, the exposure was comparable to that in adult rats.
 The increased exposure was likely at least partly due to immaturity of the drug-metabolising enzymes in juvenile animals.
 No treatment related mortalities were noted in juvenile rats dosed at 1,000 mg/kg darunavir (single dose) on day 26 of age or at 500 mg/kg (repeated dose) from day 23 to 50 of age, and the exposures and toxicity profile were comparable to those observed in adult rats.
-In humans, the activity of drug-metabolising enzymes approaches adult values by 1 to 3 years of age.
+Due to uncertainties regarding the rate of development of the human blood brain barrier and liver enzymes, PREZISTA with low dose ritonavir should not be used in paediatric patients below 3 years of age.
 
 Darunavir was evaluated for carcinogenic potential by oral gavage administration to mice and rats up to 104 weeks.
 Daily doses of 150, 450 and 1,000 mg/kg were administered to mice and doses of 50, 150 and 500 mg/kg were administered to rats.
@@ -33,3 +33,19 @@ Repeated administration of darunavir to rats caused hepatic microsomal enzyme in
 At the highest tested doses, the systemic exposures (based on AUC) to darunavir were between 0.4- and 0.7-fold (mice) and 0.7- and 1-fold (rats), relative to those observed in humans at the recommended therapeutic doses.
 After 2 years administration of darunavir at exposures at or below the human exposure, kidney changes were observed in mice (nephrosis) and rats (chronic progressive nephropathy).
 Darunavir was not mutagenic or genotoxic in a battery of in vitro and in vivo assays including bacterial reverse mutation (Ames), chromosomal aberration in human lymphocytes and in vivo micronucleus test in mice.
+
+[PREZISTA 150 mg film-coated tablets]
+
+(all sentences already above)
+
+[PREZISTA 300 mg film-coated tablets]
+
+(all sentences already above)
+
+[PREZISTA 400 mg film-coated tablets]
+
+In humans, the activity of drug-metabolising enzymes approaches adult values by 1 to 3 years of age.
+
+[PREZISTA 600 mg film-coated tablets]
+
+(all sentences already above)

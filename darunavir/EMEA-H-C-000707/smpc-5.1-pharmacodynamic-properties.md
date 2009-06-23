@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antiviral for systemic use, ATC code: J05AE10.
-
 Mechanism of action
 Darunavir is an inhibitor of the dimerisation and of the catalytic activity of the HIV-1 protease
 (KD of 4.5 x 10-12M).
@@ -32,6 +31,7 @@ Cross-resistance
 Darunavir has a < 10-fold decreased susceptibility against 90% of 3,309 clinical isolates resistant to amprenavir, atazanavir, indinavir, lopinavir, nelfinavir, ritonavir, saquinavir and/or tipranavir showing that viruses resistant to most PIs remain susceptible to darunavir.
 
 Clinical experience
+Adult patients
 Efficacy of PREZISTA co-administered with 100 mg ritonavir in treatment-naïve patients
 There are no data on the efficacy of darunavir co-administered with 100 mg ritonavir in treatment-naïve HIV-1 infected patients.
 
@@ -45,10 +45,9 @@ The mean baseline plasma HIV-1 RNA was 4.33 log10 copies/ml and the median basel
 
 The table below shows the efficacy data of the 48 week analysis from the TITAN trial.
 
-TITAN
-
-| Outcomes | PREZISTA/rtv 600/100 mg b.i.d. + OBR N=298 | lopinavir/rtv 400/100 mg b.i.d. + OBR N=297 | Treatment difference (95% CI of difference) |
+|  | TITAN |  |  |
 | --- | --- | --- | --- |
+| Outcomes | PREZISTA/rtv 600/100 mg b.i.d. + OBR N=298 | lopinavir/rtv 400/100 mg b.i.d. + OBR N=297 | Treatment difference (95% CI of difference) |
 | HIV-1 RNA < 400 copies/mla | 228 (76.5%) | 199 (67.0%) | 9.5% (2.3; 16.7)b |
 | HIV-1 RNA < 50 copies/mla | 211 (70.8%) | 179 (60.3%) | 10.5% (2.9; 18.1)b |
 | mean HIV-1 RNA log change from baseline (log10 copies/ml)c | -1.95 | -1.72 | -0.23d (-0.44; -0.02)b |
@@ -59,18 +58,21 @@ a Imputations according to the TLOVR algorithm b Based on a normal approximation
 Non-inferiority in virologic response, defined as the percentage of subjects with plasma HIV-1 RNA level < 400 copies/ml, was demonstrated (at the chosen 12% non-inferiority margin) for both Intent-To-Treat and On Protocol populations.
 
 POWER 1 and POWER 2 are randomised, controlled trials consisting of an initial dose-finding part and a second long-term part in which all patients randomised to PREZISTA co-administered with 100 mg ritonavir received the recommended dose of 600/100 mg b.i.d.
-HIV-1 infected patients who were eligible for these trials had previously failed more than 1 PI containing regimen.PREZISTA co-administered with 100 mg ritonavir plus an optimised background regimen (OBR) was compared to a control group receiving an investigator-selected PI(s) regimen plus an OBR.
+HIV-1 infected patients who were eligible for these trials had previously failed more than 1 PI containing regimen.
+PREZISTA co-administered with 100 mg ritonavir plus an optimised background regimen (OBR) was compared to a control group receiving an investigator-selected PI(s) regimen plus an OBR.
 The OBR consisted of at least 2 NRTIs with or without enfuvirtide (ENF).
 POWER 3: additional data on the efficacy of PREZISTA co-administered with ritonavir 600/100 mg b.i.d. with OBR have been obtained in similar treatment-experienced patients participating in the non-randomised trial TMC114-C215.
 Entry criteria were the same as and baseline characteristics were comparable to those of POWER 1 and POWER 2.
 
 The table below shows the efficacy data of the 48-week analyses on the recommended 600 mg dose of PREZISTA co-administered with 100 mg ritonavir b.i.d. from the pooled POWER 1 and POWER 2 trials as well as from the POWER 3 trial.
 
-|  | POWER 1 and POWER 2 pooled data |  |  | POWER 3 |
-| --- | --- | --- | --- | --- |
-| Outcomes at 48 weeks |  |  |  |  |
-| Baseline characteristics |  |  |  |  |
+|  | POWER 1 and POWER 2 pooled data | POWER 3 |
+| --- | --- | --- |
+| Outcomes at 48 weeks |  |  |
+| Baseline characteristics |  |  |
+
 | Mean plasma HIV-1 RNA | 4.61 log10 copies/ml (PREZISTA/ritonavir) 4.49 log10 copies/ml (control) |  |  | 4.58 log10 copies/ml |
+| --- | --- | --- | --- | --- |
 | Median CD4+ cell count | 153 x 106 cells/l (PREZISTA/ritonavir) 163 x 106 cells/l (control) |  |  | 120 x 106 cells/l |
 | Outcomes | PREZISTA/ritonavir 600/100 mg b.i.d. n=131 | Control n=124 | Treatment difference | PREZISTA/ritonavir 600/100 mg b.i.d. n=334 |
 | HIV-1 RNA log10 mean change from baseline (log10 copies/ml)a | -1.69 | -0.37 | 1.32 (1.58; 1.05)d | -1.62 |
@@ -113,6 +115,37 @@ Response (HIV-1 RNA < 50 copies/ml at week 24) to PREZISTA co-administered with 
 | 10-40 | 29% 59/203 | 17% 25/147 | 61% 34/56 |
 | > 40 | 8% 9/118 | 5% 5/94 | 17% 4/24 |
 
+Children from the age of 6 years and adolescents
+DELPHI is an open-label, Phase II trial evaluating the pharmacokinetics, safety, tolerability, and efficacy of PREZISTA with low dose ritonavir in 80 ART-experienced HIV-1 infected paediatric patients aged 6 to 17 years and weighing at least 20 kg.
+These patients received PREZISTA/ritonavir in combination with other antiretroviral agents (see section 4.2 for dosage recommendations per body weight).
+Virologic response was defined as a decrease in plasma HIV-1 RNA viral load of at least 1.0 log10 versus baseline.
+In the study, patients who were at risk of discontinuing therapy due to intolerance of ritonavir oral solution (e.g. taste aversion) were allowed to switch to the capsule formulation.
+Of the 44 patients taking ritonavir oral solution, 27 switched to the 100 mg capsule formulation and exceeded the weight-based ritonavir dose without changes in observed safety.
+
+| DELPHI |  |
+| --- | --- |
+| Baseline disease characteristics |  |
+| Mean plasma HIV-1 RNA | 4.64 log10 copies/ml |
+| Median CD4+ cell count | 330 x 106 cells/l (range: 6 to 1,505 x 106 cells/l) |
+| Outcomes at week 48 | PREZISTA/ritonavir N=80 |
+| HIV-1 RNA ≥ 1 log10 below baselinea | 52 (65.0%) |
+| HIV-1 RNA < 50 copies/mla | 38 (47.5%) |
+| HIV-1 RNA < 400 copies/mla | 47 (58.8%) |
+| HIV-1 RNA log10 mean change from baselineb | -1.81 |
+| CD4+ cell count mean change from baselineb | 147 |
+
+a Imputations according to the TLOVR algorithm.
+b Non-completer is failure imputation: patients who discontinued prematurely are imputed with a change equal to 0.
+According to the TLOVR non-virologic failure censored algorithm 24 (30.0%) subjects experienced virological failure, of which 17 (21.3%) subjects were rebounders and 7 (8.8%) subjects were non-responders.
+
+[PREZISTA 150 mg film-coated tablets]
+
+(all sentences already above)
+
+[PREZISTA 300 mg film-coated tablets]
+
+(all sentences already above)
+
 [PREZISTA 400 mg film-coated tablets]
 
 In the 48 week analysis of the ARTEMIS trial (see Clinical experience subsection ART-naïve patients), 9.9% virologic failures were observed in patients receiving PREZISTA/ritonavir 800/100 mg q.d.
@@ -147,12 +180,28 @@ Non-inferiority in virologic response, defined as the percentage of subjects wit
 
 Efficacy of PREZISTA co-administered with 100 mg ritonavir in ART-experienced patients
 
-[PREZISTA 600 mg film-coated tablets]
+TITAN
 
-|  | TITAN |  |  |
-| --- | --- | --- | --- |
 | Outcomes | PREZISTA/rtv 600/100 mg b.i.d. + OBR N=298 | lopinavir/rtv 400/100 mg b.i.d. + OBR N=297 | Treatment difference (95% CI of difference) |
+| --- | --- | --- | --- |
 | HIV-1 RNA < 400 copies/mla | 228 (76.5%) | 199 (67.0%) | 9.5% (2.3; 16.7)b |
 | HIV-1 RNA < 50 copies/mla | 211 (70.8%) | 179 (60.3%) | 10.5% (2.9; 18.1)b |
 | mean HIV-1 RNA log change from baseline (log10 copies/ml)c | -1.95 | -1.72 | -0.23d (-0.44; -0.02)b |
 | median CD4+ cell count change from baseline (x 106/l)c | 88 | 81 |  |
+
+|  | POWER 1 and POWER 2 pooled data |  |  | POWER 3 |
+| --- | --- | --- | --- | --- |
+| Outcomes at 48 weeks |  |  |  |  |
+| Baseline characteristics |  |  |  |  |
+| Mean plasma HIV-1 RNA | 4.61 log10 copies/ml (PREZISTA/ritonavir) 4.49 log10 copies/ml (control) |  |  | 4.58 log10 copies/ml |
+| Median CD4+ cell count | 153 x 106 cells/l (PREZISTA/ritonavir) 163 x 106 cells/l (control) |  |  | 120 x 106 cells/l |
+| Outcomes | PREZISTA/ritonavir 600/100 mg b.i.d. n=131 | Control n=124 | Treatment difference | PREZISTA/ritonavir 600/100 mg b.i.d. n=334 |
+| HIV-1 RNA log10 mean change from baseline (log10 copies/ml)a | -1.69 | -0.37 | 1.32 (1.58; 1.05)d | -1.62 |
+| CD4+ cell count mean change from baseline (x 106/l)b | 103 | 17 | 86 (57; 114)d | 105 |
+| HIV RNA > 1 log10 below baselinec | 81 (61.8%) | 20 (16.1%) | 45.7% (35.0%; 56.4%)d | 196 (58.7%) |
+| HIV RNA < 400 copies/mlc | 72 (55.0%) | 18 (14.5%) | 40.4% (29.8%; 51.1%)d | 183 (54.8%) |
+| HIV RNA < 50 copies/mlc | 59 (45.0%) | 14 (11.3%) | 33.7% (23.4%; 44.1%)d | 155 (46.4%) |
+
+[PREZISTA 600 mg film-coated tablets]
+
+(all sentences already above)

@@ -3,8 +3,10 @@
 Patients should be advised that current antiretroviral therapy does not cure HIV and has not been proven to prevent the transmission of HIV to others through blood or sexual contact.
 Appropriate precautions should continue to be employed.
 
-PREZISTA should only be used in combination with 100 mg of ritonavir as a pharmacokinetic enhancer (see section 5.2).
+PREZISTA should only be used in combination with low dose ritonavir as a pharmacokinetic enhancer (see section 5.2).
 Increasing the dose of ritonavir from that recommended in section 4.2 did not significantly affect darunavir concentrations and is not recommended.
+
+PREZISTA is not recommended for use in children below 6 years of age or less than 20 kg body weight (see sections 4.2 and 5.3).
 
 Elderly: As limited information is available on the use of PREZISTA in patients aged 65 and over, caution should be exercised in the administration of PREZISTA in elderly patients, reflecting the greater frequency of decreased hepatic function and of concomitant disease or other therapy (see sections 4.2 and 5.2).
 
@@ -65,11 +67,26 @@ In HIV infected patients with severe immune deficiency at the time of institutio
 Typically, such reactions have been observed within the first weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections and pneumonia caused by Pneumocystis jiroveci (formerly known as Pneumocystis carinii).
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-In addition, reactivation of herpes simplex and herpes zoster has been observed in clinical studies with PREZISTA co-administered with 100 mg ritonavir.
-
+In addition, reactivation of herpes simplex and herpes zoster has been observed in clinical studies with PREZISTA co-administered with low dose ritonavir.
 Interactions with medicinal products
 Several of the interaction studies have been performed at lower than recommended doses of darunavir.
 The effects on co-administered medicinal products may thus be underestimated and clinical monitoring of safety may be indicated.
 For full information on interactions with other medicinal products see section 4.5.
 
+[PREZISTA 150 mg film-coated tablets]
+
+(all sentences already above)
+
+[PREZISTA 300 mg film-coated tablets]
+
 PREZISTA tablets contain sunset yellow FCF (E110) which may cause an allergic reaction.
+
+[PREZISTA 400 mg film-coated tablets]
+
+PREZISTA should only be used in combination with 100 mg of ritonavir as a pharmacokinetic enhancer (see section 5.2).
+
+In addition, reactivation of herpes simplex and herpes zoster has been observed in clinical studies with PREZISTA co-administered with 100 mg ritonavir.
+
+[PREZISTA 600 mg film-coated tablets]
+
+(all sentences already above)

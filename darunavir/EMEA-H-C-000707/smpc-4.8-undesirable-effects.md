@@ -1,6 +1,9 @@
 # 4.8 Undesirable effects
 
-The adverse drug reactions are derived from Phase IIb and Phase III trials, in which a total of 1,968 treatment-experienced patients initiated therapy with the recommended dose of PREZISTA 600 mg with ritonavir 100 mg twice daily.Median exposure to PREZISTA/ritonavir in this group was 37.3 weeks.
+Adult patients
+The adverse drug reactions are derived from Phase IIb and Phase III trials, in which a total of 1,968 treatment-experienced patients initiated therapy with the recommended dose of PREZISTA
+600 mg with ritonavir 100 mg twice daily.
+Median exposure to PREZISTA/ritonavir in this group was 37.3 weeks.
 Thirty percent of these patients experienced at least one adverse drug reaction of at least grade 2 severity.
 The most frequent (≥ 2%) of those were diarrhoea (3.9%), hypertriglyceridaemia (3.8%), rash (2.8%), nausea (2.6%), hypercholesterolaemia (2.5%) and headache (2.0%).
 2.6% of the patients discontinued treatment due to adverse reactions.
@@ -26,9 +29,9 @@ Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10) 
 | common | insomnia |  |
 | uncommon | depression, confusional state, disorientation, anxiety, altered mood, sleep disorder, abnormal dreams, nightmare, decreased libido, restlessness | depression, confusional state, disorientation, anxiety, altered mood, insomnia, sleep disorder, abnormal dreams |
 | Nervous system disorders |  |  |
-| common | headache, peripheral neuropathy, dizziness | headache |
-| uncommon | syncope, convulsion, lethargy, paraesthesia, hypoaesthesia, ageusia, dysgeusia, disturbance in attention, memory impairment, somnolence, sleep phase rhythm disturbance | peripheral neuropathy, dizziness, lethargy, paraesthesia, hypoaesthesia, somnolence |
-| Eye disorders uncommon | visual disturbance, conjunctival hyperaemia, dry eye | conjunctival hyperaemia |
+| common uncommon | headache, peripheral neuropathy, dizziness syncope, convulsion, lethargy, paraesthesia, hypoaesthesia, ageusia, dysgeusia, disturbance in attention, memory impairment, somnolence, sleep phase rhythm disturbance | headache peripheral neuropathy, dizziness, lethargy, paraesthesia, hypoaesthesia, somnolence |
+| Eye disorders |  |  |
+| uncommon | visual disturbance, conjunctival hyperaemia, dry eye | conjunctival hyperaemia |
 | Ear and labyrinth disorders |  |  |
 | uncommon | vertigo | vertigo |
 | Cardiac disorders |  |  |
@@ -85,6 +88,7 @@ Very common: diarrhoea, nausea.
 Common: hypertriglyceridaemia, hypercholesterolaemia, anorexia, insomnia, headache, dizziness, dysgeusia, vomiting, abdominal pain, abdominal discomfort, abdominal distension, flatulence, increased alanine aminotransferase, rash (including maculopapular, papular rash), alopecia, dry skin, pruritus, fatigue.
 Uncommon: upper respiratory tract infection, diabetes mellitus, hyperlipidaemia, abnormal dreams, hypoaesthesia, disturbance in attention, somnolence, dyspepsia, eructation, increased aspartate aminotransferase, allergic dermatitis, urticaria, dermatitis, night sweats, myalgia, muscle spasms, asthenia.
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump) (see section 4.4).
+
 Combination antiretroviral therapy has also been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 Increased CPK, myalgia, myositis and rarely, rhabdomyolysis have been reported with the use of protease inhibitors, particularly in combination with NRTIs.
@@ -96,13 +100,22 @@ In HIV infected patients with severe immune deficiency at the time of initiation
 
 There have been reports of increased spontaneous bleeding in haemophiliac patients receiving antiretroviral protease inhibitors (see section 4.4).
 
+Children and adolescents
+The safety assessment in children and adolescents is based on the safety data from the Phase II trial DELPHI in which 80 ART-experienced HIV-1 infected paediatric patients aged from 6 to 17 years and weighing at least 20 kg received PREZISTA with low dose ritonavir in combination with other antiretroviral agents (see section 5.1).
+Overall, the safety profile in these 80 children and adolescents was similar to that observed in the adult population.
+
 Patients co-infected with hepatitis B and/or hepatitis C virus
 Among 1,968 treatment-experienced patients receiving PREZISTA co-administered with ritonavir 600/100 mg b.i.d., 236 patients were co-infected with hepatitis B or C. Co-infected patients were more likely to have baseline and treatment emergent hepatic transaminase elevations than those without chronic viral hepatitis (see section 4.4).
 
-[PREZISTA 400 mg film-coated tablets]
+[PREZISTA 150 mg film-coated tablets]
 
-The adverse drug reactions are derived from Phase IIb and Phase III trials, in which a total of 1,968 treatment-experienced patients initiated therapy with the recommended dose of PREZISTA
-600 mg with ritonavir 100 mg twice daily.Median exposure to PREZISTA/ritonavir in this group was 37.3 weeks.
+(all sentences already above)
+
+[PREZISTA 300 mg film-coated tablets]
+
+(all sentences already above)
+
+[PREZISTA 400 mg film-coated tablets]
 
 | SOC Frequency category | Adverse reaction* All grades | Adverse reaction** Grade 2-4 |
 | --- | --- | --- |
@@ -120,8 +133,7 @@ The adverse drug reactions are derived from Phase IIb and Phase III trials, in w
 | Psychiatric disorders |  |  |
 | common | insomnia |  |
 | uncommon | depression, confusional state, disorientation, anxiety, altered mood, sleep disorder, abnormal dreams, nightmare, decreased libido, restlessness | depression, confusional state, disorientation, anxiety, altered mood, insomnia, sleep disorder, abnormal dreams |
-| Nervous system disorders |  |  |
-| common | headache, peripheral neuropathy, dizziness | headache |
+| Nervous system disorders common | headache, peripheral neuropathy, dizziness | headache |
 | uncommon | syncope, convulsion, lethargy, paraesthesia, hypoaesthesia, ageusia, dysgeusia, disturbance in attention, memory impairment, somnolence, sleep phase rhythm disturbance | peripheral neuropathy, dizziness, lethargy, paraesthesia, hypoaesthesia, somnolence |
 | Eye disorders |  |  |
 | uncommon | visual disturbance, conjunctival hyperaemia, dry eye | conjunctival hyperaemia |
@@ -164,18 +176,18 @@ The adverse drug reactions are derived from Phase IIb and Phase III trials, in w
 | uncommon | immune reconstitution syndrome | immune reconstitution syndrome |
 | Endocrine disorders |  |  |
 | uncommon | hypothyroidism, increased blood thyroid stimulating hormone |  |
-| Metabolism and nutrition disorders |  |  |
-| common | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy), hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia | hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia |
+| Metabolism and nutrition disorders common | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy), hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia | hypertriglyceridaemia, hypercholesterolaemia, hyperlipidaemia |
 | uncommon | diabetes mellitus, gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase | diabetes mellitus, lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy), gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia, insulin resistance |
 | Psychiatric disorders |  |  |
 | common | insomnia |  |
 | uncommon | depression, confusional state, disorientation, anxiety, altered mood, sleep disorder, abnormal dreams, nightmare, decreased libido, restlessness | depression, confusional state, disorientation, anxiety, altered mood, insomnia, sleep disorder, abnormal dreams |
 | Nervous system disorders |  |  |
-| common uncommon | headache, peripheral neuropathy, dizziness syncope, convulsion, lethargy, paraesthesia, hypoaesthesia, ageusia, dysgeusia, disturbance in attention, memory impairment, somnolence, sleep phase rhythm disturbance | headache peripheral neuropathy, dizziness, lethargy, paraesthesia, hypoaesthesia, somnolence |
+| common | headache, peripheral neuropathy, dizziness | headache |
+| uncommon | syncope, convulsion, lethargy, paraesthesia, hypoaesthesia, ageusia, dysgeusia, disturbance in attention, memory impairment, somnolence, sleep phase rhythm disturbance | peripheral neuropathy, dizziness, lethargy, paraesthesia, hypoaesthesia, somnolence |
 | Eye disorders |  |  |
 | uncommon | visual disturbance, conjunctival hyperaemia, dry eye | conjunctival hyperaemia |
 | Ear and labyrinth disorders |  |  |
-| uncommon | vertigo | vertigo |
+| uncommon | Vertigo | vertigo |
 | Cardiac disorders |  |  |
 | uncommon | acute myocardial infarction, myocardial infarction, angina pectoris, prolonged electrocardiogram QT, sinus bradycardia, tachycardia, palpitations | acute myocardial infarction, myocardial infarction, angina pectoris, prolonged electrocardiogram QT |
 | Vascular disorders |  |  |
@@ -184,8 +196,7 @@ The adverse drug reactions are derived from Phase IIb and Phase III trials, in w
 | uncommon | dyspnoea, cough, epistaxis, rhinorrhoea, throat irritation | dyspnoea, cough |
 | Gastrointestinal disorders |  |  |
 | very common | diarrhoea |  |
-| common | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence | vomiting, diarrhoea, nausea, abdominal pain, increased blood amylase |
-| uncommon | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, stomatitis, retching, haematemesis, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia, cheilitis, dry lip, coated tongue | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, retching, dry mouth, abdominal distension, abdominal discomfort, flatulence, dyspepsia, constipation, increased lipase |
+| common uncommon | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, stomatitis, retching, haematemesis, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia, cheilitis, dry lip, coated tongue | vomiting, diarrhoea, nausea, abdominal pain, increased blood amylase pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, retching, dry mouth, abdominal distension, abdominal discomfort, flatulence, dyspepsia, constipation, increased lipase |
 | Hepatobiliary disorders |  |  |
 | common | increased alanine aminotransferase, increased aspartate aminotransferase | increased alanine aminotransferase |
 | uncommon | hepatitis, cytolytic hepatitis, hepatic steatosis, hepatomegaly, increased transaminase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase | hepatitis, cytolytic hepatitis, hepatic steatosis, increased transaminase, increased aspartate aminotransferase, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |

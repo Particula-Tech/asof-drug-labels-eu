@@ -35,7 +35,8 @@ The intravenous clearance of darunavir alone (150 mg) and in the presence of low
 
 Special Populations
 Paediatrics
-There are no pharmacokinetic data available in children and adolescents.
+The pharmacokinetics of darunavir in combination with ritonavir in 74 treatment-experienced paediatric patients, aged 6 to 17 years and weighing at least 20 kg, showed that the administered weight-based doses of PREZISTA/ritonavir resulted in darunavir exposure comparable to that in adults receiving PREZISTA/ritonavir 600/100 mg b.i.d.
+(see section 4.2).
 
 Elderly
 Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (n=12, age ≥ 65) (see section 4.4).
@@ -56,7 +57,17 @@ However, unbound darunavir concentrations were approximately 55% (Child-Pugh Cla
 The clinical relevance of this increase is unknown therefore, PREZISTA should be used with caution.
 The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not been studied (see sections 4.2, 4.3 and 4.4).
 
+[PREZISTA 150 mg film-coated tablets]
+
+(all sentences already above)
+
+[PREZISTA 300 mg film-coated tablets]
+
+(all sentences already above)
+
 [PREZISTA 400 mg film-coated tablets]
+
+There are no pharmacokinetic data available in children and adolescents.
 
 Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (see section 4.4).
 
