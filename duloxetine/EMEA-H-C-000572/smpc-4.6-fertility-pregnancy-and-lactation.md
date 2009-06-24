@@ -9,7 +9,7 @@ CYMBALTA should be used in pregnancy only if the potential benefit justifies the
 Women should be advised to notify their physician if they become pregnant, or intend to become pregnant, during therapy.
 
 Breast feeding
-Duloxetine is very weakly excreted into human milk based on a study of 6 lactating patients, who did not breast feed their children .
+Duloxetine is very weakly excreted into human milk based on a study of 6 lactating patients, who did not breast feed their children.
 The estimated daily infant dose on a mg/kg basis is approximately 0.14% of the maternal dose (see section 5.2).
 As the safety of duloxetine in infants is not known, the use of CYMBALTA while breast-feeding is not recommended.
 

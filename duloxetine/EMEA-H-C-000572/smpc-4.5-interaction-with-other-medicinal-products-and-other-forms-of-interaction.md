@@ -3,7 +3,7 @@
 CNS medicinal products: the risk of using duloxetine in combination with other CNS-active medicinal products has not been systematically evaluated, except in the cases described in this section.
 Consequently, caution is advised when CYMBALTA is taken in combination with other centrally acting medicinal products and substances including alcohol and sedative medicinal products (e.g. benzodiazepines, morphinomimetics, antipsychotics, phenobarbital, sedative antihistamines).
 
-Monoamine Oxidase Inhibitors (MAOIs): due to the risk of serotonin syndrome, CYMBALTA should not be used in combination with nonselective irreversible monoamine oxidase inhibitors (MAOIs), or within at least 14 days of discontinuing treatment with an MAOI.
+Monoamine Oxidase Inhibitors (MAOIs): due to the risk of serotonin syndrome, duloxetine should not be used in combination with nonselective irreversible monoamine oxidase inhibitors (MAOIs), or within at least 14 days of discontinuing treatment with an MAOI.
 Based on the half-life of duloxetine, at least 5 days should be allowed after stopping CYMBALTA before starting an MAOI (see section 4.3).
 
 For selective, reversible MAOIs, like moclobemide, the risk of serotonin syndrome is lower.
@@ -18,7 +18,6 @@ Medicinal products metabolised by CYP2D6: Duloxetine is a moderate inhibitor of 
 When duloxetine was administered at a dose of 60 mg twice daily with a single dose of desipramine, a CYP2D6 substrate, the AUC of desipramine increased 3-fold.
 The co-administration of duloxetine (40 mg twice daily) increases steady state AUC of tolterodine (2 mg twice daily) by 71 %, but does not affect the pharmacokinetics of its active 5-hydroxyl metabolite and no dosage adjustment is recommended.
 Caution is advised if CYMBALTA is co-administered with medicinal products that are predominantly metabolised by CYP2D6 (risperidone, tricyclic antidepressants [TCAs] such as nortriptyline, amitriptyline, and imipramine) particularly if they have a narrow therapeutic index (such as flecainide, propafenone and metoprolol).
-
 Oral contraceptives and other steroidal agents: results of in vitro studies demonstrate that duloxetine does not induce the catalytic activity of CYP3A.
 Specific in vivo drug interaction studies have not been performed.
 

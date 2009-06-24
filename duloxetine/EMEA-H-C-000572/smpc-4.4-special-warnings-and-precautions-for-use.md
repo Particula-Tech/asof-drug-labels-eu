@@ -26,7 +26,7 @@ Caution should be exercised when using CYMBALTA in combination with antidepressa
 In particular the combination with selective reversible MAOIs is not recommended.
 
 St John’s wort
-Undesirable effects may be more common during concomitant use of CYMBALTA and herbal preparations containing St John’s wort (Hypericum perforatum).
+Adverse reactions may be more common during concomitant use of CYMBALTA and herbal preparations containing St John’s wort (Hypericum perforatum).
 
 Suicide
 Major Depressive Episodes and Generalised Anxiety Disorder
@@ -42,7 +42,6 @@ A meta-analysis of placebo-controlled clinical trials of antidepressant medicina
 Cases of suicidal thoughts and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation (see section 4.8).
 Close supervision of patients and in particular those at high risk should accompany drug therapy especially in early treatment and following dose changes.
 Patients, (and caregivers of patients) should be alerted about the need to monitor for any clinical worsening, suicidal behaviour or thoughts and unusual changes in behaviour and to seek medical advice immediately if these symptoms present.
-
 Diabetic Peripheral Neuropathic Pain
 As with other medicinal products with similar pharmacological action (antidepressants), isolated cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.
 Concerning risk factors for suicidality in depression, see above.
@@ -56,13 +55,13 @@ If, based on clinical need, a decision to treat is nevertheless taken, the patie
 In addition, long-term safety data in children and adolescents concerning growth, maturation and cognitive and behavioural development are lacking.
 
 Haemorrhage
-There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/norepinephrine reuptake inhibitors (SNRIs).
+There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/ noradrenaline reuptake inhibitors (SNRIs).
 Caution is advised in patients taking anticoagulants and/or medicinal products known to affect platelet function, and in patients with known bleeding tendencies.
 
-Hyponatremia
-Hyponatremia has been reported rarely, predominantly in the elderly, when administering CYMBALTA.
-Caution is required in patients at increased risk for hyponatremia; such as elderly, cirrhotic, or dehydrated patients or patients treated with diuretics.
-Hyponatremia may be due to a syndrome of inappropriate anti-diuretic hormone secretion (SIADH).
+Hyponatraemia
+Hyponatraemia has been reported rarely, predominantly in the elderly, when administering CYMBALTA.
+Caution is required in patients at increased risk for hyponatraemia; such as elderly, cirrhotic, or dehydrated patients or patients treated with diuretics.
+Hyponatraemia may be due to a syndrome of inappropriate anti-diuretic hormone secretion (SIADH).
 
 Discontinuation of treatment
 Withdrawal symptoms when treatment is discontinued are common, particularly if discontinuation is abrupt (see section 4.8).
@@ -73,10 +72,11 @@ Generally these symptoms are mild to moderate, however, in some patients they ma
 They usually occur within the first few days of discontinuing treatment, but there have been very rare reports of such symptoms in patients who have inadvertently missed a dose.
 Generally these symptoms are self-limiting and usually resolve within 2 weeks, though in some individuals they may be prolonged (2-3 months or more).
 It is therefore advised that duloxetine should be gradually tapered when discontinuing treatment over a period of no less than 2 weeks, according to the patient’s needs (see section 4.2).
+
 Elderly
-Major Depressive Episodes: Data on the use of CYMBALTA 120mg in elderly patients with major depressive disorders are limited.
+Data on the use of CYMBALTA 120mg in elderly patients with major depressive disorders are limited.
 Therefore, caution should be exercised when treating the elderly with the maximum dosage (see sections 4.2 and 5.2).
-Generalised Anxiety Disorder: Data on the use of CYMBALTA in elderly patients with generalised anxiety disorder are limited.
+Data on the use of CYMBALTA in elderly patients with generalised anxiety disorder are limited.
 
 Akathisia/psychomotor restlessness
 The use of duloxetine has been associated with the development of akathisia, characterised by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.

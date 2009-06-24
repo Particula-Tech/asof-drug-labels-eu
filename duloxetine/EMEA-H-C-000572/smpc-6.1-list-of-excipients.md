@@ -12,22 +12,22 @@ Triethyl citrate.
 Capsule shell:
 30 mg:
 Gelatin
-Sodium Lauryl Sulfate
-Titanium Dioxide (E171)
-Indigo Carmine (E132)
-Edible Green Ink
+Sodium lauryl sulfate
+Titanium dioxide (E171)
+Indigo carmine (E132)
+Edible green ink
 
-Edible Green Ink contains:
-Black Iron Oxide-Synthetic (E172)
-Yellow Iron Oxide- Synthetic (E172)
+Edible green ink contains:
+Black iron oxide-synthetic (E172)
+Yellow iron oxide- synthetic (E172)
 Propylene glycol
 Shellac.
 
 [CYMBALTA 60 mg hard gastro-resistant capsules]
 
 60 mg:
-Yellow Iron Oxide (E172)
-Edible White Ink
+Yellow iron oxide (E172)
+Edible white ink
 
-Edible White Ink contains:
+Edible white ink contains:
 Povidone.
