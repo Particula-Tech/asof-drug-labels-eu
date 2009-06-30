@@ -1,0 +1,39 @@
+# 4.5 Interaction with other medicinal products and other forms of interaction
+
+In vitro, liraglutide has shown very low potential to be involved in pharmacokinetic interactions with other active substances related to cytochrome P450 and plasma protein binding.
+The small delay of gastric emptying with liraglutide may influence absorption of concomitantly administered oral medicinal products.
+Interaction studies did not show any clinically relevant delay of absorption.
+Few patients treated with liraglutide reported at least one episode of severe diarrhoea.
+Diarrhoea may affect the absorption of concomitant oral medicinal products.
+
+Paracetamol
+Liraglutide did not change the overall exposure of paracetamol following a single dose of 1000 mg.
+Paracetamol Cmax was decreased by 31% and median tmax was delayed up to 15 min. No dose adjustment for concomitant use of paracetamol is required.
+
+Atorvastatin
+Liraglutide did not change the overall exposure of atorvastatin to a clinical relevant degree following single dose administration of atorvastatin 40 mg.
+Therefore, no dose adjustment of atorvastatin is required when given with liraglutide.
+Atorvastatin Cmax was decreased by 38% and median tmax was delayed from 1 h to 3 h with liraglutide.
+
+Griseofulvin
+Liraglutide did not change the overall exposure of griseofulvin following administration of a single dose of griseofulvin 500 mg.
+Griseofulvin Cmax increased by 37% while median tmax did not change.
+Dose adjustments of griseofulvin and other compounds with low solubility and high permeability are not required.
+
+Lisinopril and digoxin
+Single dose administration of lisinopril 20 mg or digoxin 1 mg with liraglutide showed a reduction of lisinopril and digoxin AUC by 15% and 16%, respectively; Cmax decreased by 27% and 31%, respectively.
+Lisinopril median tmax was delayed from 6 h to 8 h with liraglutide; whereas digoxin median tmax was delayed from 1 h to 1.5 h. No adjustment of lisinopril or digoxin dose is required based on these results.
+
+Oral contraceptives
+Liraglutide lowered ethinyloestradiol and levonorgestrel Cmax by 12 and 13%, respectively, following administration of a single dose of an oral contraceptive product.
+Tmax was delayed by 1.5 h with liraglutide for both compounds.
+There was no clinically relevant effect on the overall exposure of either ethinyloestradiol or levonorgestrel.
+The contraceptive effect is therefore anticipated to be unaffected when co-administered with liraglutide.
+
+Warfarin
+No interaction study has been performed.
+A clinically relevant interaction with active substances with poor solubility or with narrow therapeutic index such as warfarin cannot be excluded.
+Upon initiation of liraglutide treatment in patients on warfarin more frequent monitoring of INR (International Normalised Ratio) is recommended.
+
+Insulin
+Combination of liraglutide with insulin has not been evaluated and is therefore not recommended.

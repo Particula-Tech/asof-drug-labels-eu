@@ -1,0 +1,91 @@
+# 4.8 Undesirable effects
+
+In five large long-term clinical trials over 2500 patients have received treatment with Victoza alone or in combination with metformin, a sulphonylurea (with or without metformin) or metformin plus rosiglitazone.
+
+Frequencies are defined as: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
+The most frequently reported adverse reactions during clinical trials were gastrointestinal disorders: nausea and diarrhoea were very common, whereas vomiting, constipation, abdominal pain, and dyspepsia were common.
+At the beginning of Victoza therapy, these gastrointestinal adverse reactions may occur more frequently.
+These reactions usually diminish within a few days or weeks on continued treatment.
+Headache and nasopharyngitis were also common.
+Furthermore, hypoglycaemia was common, and very common when Victoza is used in combination with a sulphonylurea.
+Major hypoglycaemia has primarily been observed when combined with a sulphonylurea.
+
+Table 1 lists related adverse reactions identified from Phase III combination-studies with Victoza.
+The table presents adverse reactions that occurred with a frequency >5% if the frequency was higher among Victoza-treated patients than patients treated with comparator.
+The table also includes adverse reactions with a frequency ≥2% if the frequency was >2 times the frequency for comparator-treated subjects.
+
+Table 1 Adverse reactions identified from long-term controlled phase III studies
+
+| Adverse reaction | Frequency of adverse reaction by treatment group |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Liraglutide with metformin | Liraglutide with glimepiride | Liraglutide with metformin and glimepiride | Liraglutide with metformin and rosiglitazone |
+| Infections and infestations |  |  |  |  |
+| Nasopharyngitis |  | Common |  | Common |
+| Bronchitis |  |  | Common |  |
+| Metabolism and nutrition disorders |  |  |  |  |
+| Hypoglycaemia |  | Common | Very common | Common |
+| Anorexia | Common | Common | Common | Common |
+| Appetite decreased | Common |  |  | Common |
+| Nervous system disorders |  |  |  |  |
+| Headache | Very common |  | Common | Common |
+| Dizziness | Common |  |  |  |
+| Gastrointestinal disorders |  |  |  |  |
+| Nausea | Very common | Common | Very common | Very common |
+| Diarrhoea | Very common | Common | Very common | Very common |
+| Vomiting | Common | Common | Common | Very common |
+| Dyspepsia | Common | Common | Common | Common |
+| Abdominal pain upper |  |  | Common |  |
+| Constipation |  | Common | Common | Common |
+| Gastritis | Common |  |  |  |
+| Flatulence |  |  |  | Common |
+| Abdominal distension |  |  |  | Common |
+| Gastroesophageal reflux disease |  |  |  | Common |
+| Abdominal discomfort |  | Common |  |  |
+| Toothache |  |  | Common |  |
+| Gastroenteritis viral |  |  |  | Common |
+| General disorders and administration site conditions |  |  |  |  |
+| Fatigue |  |  |  | Common |
+| Pyrexia |  |  |  | Common |
+
+In a clinical trial with Victoza as monotherapy rates of hypoglycaemia reported with Victoza were lower than rates reported for patients treated with active comparator (glimepiride).
+The most frequently reported adverse events were gastrointestinal and infections and infestations.
+
+Hypoglycaemia
+Most episodes of confirmed hypoglycaemia in clinical studies were minor.
+No episodes of major hypoglycaemia were observed in the study with Victoza used as monotherapy.
+Major hypoglycaemia may occur uncommonly and has primarily been observed when Victoza is combined with a sulphonylurea (0.02 events/subject year).
+Very few episodes (0.001 events/subject year) were observed with administration of Victoza in combination with oral antidiabetics other than sulphonylureas.
+
+Gastrointestinal adverse reactions
+When combining Victoza with metformin, 20.7% of patients reported at least one episode of nausea, and 12.6% of patients reported at least one episode of diarrhoea.
+When combining Victoza with a sulphonylurea, 9.1% of patients reported at least one episode of nausea and 7.9% of patients reported at least one episode of diarrhoea.
+Most episodes were mild to moderate and occurred in a dose-dependent fashion.
+With continued therapy, the frequency and severity decreased in most patients who initially experienced nausea.
+
+Patients >70 years may experience more gastrointestinal effects when treated with liraglutide.
+Patients with mild renal impairment (creatinine clearance ≤60-90 ml/min) may experience more gastrointestinal effects when treated with liraglutide.
+
+Withdrawal
+The incidence of withdrawal due to adverse reactions was 7.8% for Victoza-treated patients and 3.4% for comparator-treated patients in the long-term controlled trials (26 weeks or longer).
+The most frequent adverse reactions leading to withdrawal for Victoza-treated patients were nausea (2.8% of patients) and vomiting (1.5%).
+
+Immunogenicity
+Consistent with the potentially immunogenic properties of medicinal products containing proteins or peptides, patients may develop anti-liraglutide antibodies following treatment with Victoza.
+On average, 8.6% of patients developed antibodies.
+Antibody formation has not been associated with reduced efficacy of Victoza.
+
+Few cases (0.05%) of angioedema have been reported during all long-term clinical trials with Victoza.
+
+Injection site reactions
+Injection site reaction has been reported in approximately 2% of subjects receiving Victoza in long-term (26 weeks or longer) controlled trials.
+These reactions have usually been mild and did not lead to discontinuation of Victoza.
+
+Pancreatitis
+Few cases (<0.2%) of acute pancreatitis have been reported during long-term clinical trials with Victoza.
+A causal relationship between Victoza and pancreatitis can neither be established nor excluded.
+
+Thyroid events
+The overall rates of thyroid adverse events in all intermediate and long-term trials are 33.5, 30.0 and 21.7 events per 1000 subject years of exposure for total liraglutide, placebo and total comparators; 5.4, 2.1 and 0.8 events, respectively concern serious thyroid adverse events.
+In liraglutide-treated patients, thyroid neoplasms, increased blood calcitonin and goiters are the most frequently thyroid adverse events and were reported in 0.5%, 1% and 0.8% of patients respectively.

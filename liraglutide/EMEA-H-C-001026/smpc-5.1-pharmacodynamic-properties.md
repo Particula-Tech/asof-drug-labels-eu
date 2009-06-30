@@ -1,0 +1,140 @@
+# 5.1 Pharmacodynamic properties
+
+Pharmacotherapeutic group: Other blood glucose lowering drugs, excl. insulins.
+ATC code: A10BX07
+
+Mechanism of action
+Liraglutide is a GLP-1 analogue with 97% sequence homology to human GLP-1 that binds to and activates the GLP-1 receptor.
+The GLP-1 receptor is the target for native GLP-1, an endogenous incretin hormone that potentiates glucose-dependent insulin secretion from the pancreatic beta cells.
+Unlike native GLP-1, liraglutide has a pharmacokinetic and pharmacodynamic profile in humans suitable for once daily administration.
+Following subcutaneous administration, the protracted action profile is based on three mechanisms: self-association, which results in slow absorption; binding to albumin; and higher enzymatic stability towards the dipeptidyl peptidase IV (DPP-IV) and neutral endopeptidase (NEP) enzymes, resulting in a long plasma half-life.
+
+Liraglutide action is mediated via a specific interaction with GLP-1 receptors, leading to an increase in cyclic adenosine monophosphate (cAMP).
+Liraglutide stimulates insulin secretion in a glucose-dependent manner.
+Simultaneously, liraglutide lowers inappropriately high glucagon secretion, also in a glucose-dependent manner.
+Thus, when blood glucose is high, insulin secretion is stimulated and glucagon secretion is inhibited.
+Conversely, during hypoglycaemia liraglutide diminishes insulin secretion and does not impair glucagon secretion.
+The mechanism of blood glucose lowering also involves a minor delay in gastric emptying.
+Liraglutide reduces body weight and body fat mass through mechanisms involving reduced hunger and lowered energy intake.
+
+Pharmacodynamic effects
+Liraglutide has 24-hour duration of action and improves glycaemic control by lowering fasting and postprandial blood glucose in patients with type 2 diabetes mellitus.
+
+Clinical efficacy
+Five double-blind, randomised, controlled clinical trials were conducted to evaluate the effects of Victoza on glycaemic control.
+Treatment with Victoza produced clinically and statistically significant improvements in glycosylated haemoglobin A1c (HbA1c), fasting plasma glucose and post-prandial glucose compared with placebo.
+
+These studies included 3,978 exposed patients with type 2 diabetes (2,501 subjects treated with Victoza), 53.7% men and 46.3% women, 797 subjects (508 treated with Victoza) were ≥65 years of age and 113 subjects (66 treated with Victoza) were ≥75 years of age.
+
+There was an additional open-label randomised controlled study comparing liraglutide with exenatide.
+
+Glycaemic control
+Victoza in combination therapy, for 26 weeks, with metformin, glimepiride or metformin and rosiglitazone resulted in statistically significant (p<0.0001) and sustained reductions in HbA1c compared with patients receiving placebo (Tables 2 and 3).
+
+Table 2 Results of two 26 week trials.
+Victoza in combination with metformin and Victoza in combination with glimepiride.
+
+Metformin 1.8 mg liraglutide 1.2 mg liraglutide placebo Glimepiride2
+add-on therapy + metformin3 + metformin3 + metformin3 + metformin3
+N 242 240 121 242
+
+Mean HbA1c (%)
+
+Baseline 8.4 8.3 8.4 8.4
+Change from baseline -1.00 -0.97 0.09 -0.98
+
+Patients (%) achieving
+HbA1c <7%
+
+All patients 42.4 35.3 10.8 36.3
+Previous OAD 66.3 52.8 22.5 56.0
+
+monotherapy
+Mean body weight (kg)
+
+Baseline 88.0 88.5 91.0 89.0
+Change from baseline -2.79 -2.58 -1.51 0.95
+Glimepiride 1.8 mg liraglutide 1.2 mg liraglutide Placebo rosiglitazone1
+add-on therapy + glimepiride2 + glimepiride2 + glimepiride2 + glimepiride2
+N 234 228 114 231
+
+Mean HbA1c (%)
+
+Baseline 8.5 8.5 8.4 8.4
+Change from baseline -1.13 -1.08 0.23 -0.44
+
+Patients (%) achieving
+HbA1c <7%
+
+All patients 41.6 34.5 7.5 21.9
+55.9 57.4 11.8 36.1
+
+Previous OAD monotherapy
+Mean body weight (kg)
+
+Baseline 83.0 80.0 81.9 80.6
+Change from baseline -0.23 0.32 -0.10 2.11
+
+1 Rosiglitazone 4 mg/day; 2 glimepiride 4 mg/day; 3 metformin 2000 mg/day
+
+Table 3 Results of two 26 week trials.
+Victoza in combination with metformin + rosiglitazone and Victoza in combination with glimepiride + metformin.
+
+| Metformin + rosiglitazone add-on therapy N Mean HbA1c (%) Baseline Change from baseline Patients (%) achieving HbA1c <7% All patients Mean body weight (kg) Baseline Change from baseline | 1.8 mg liraglutide + metformin2 + rosiglitazone3 178 | 1.2mg liraglutide + metformin2 + rosiglitazone3 177 | placebo + metformin2 + rosiglitazone3 175 | N/A |
+| --- | --- | --- | --- | --- |
+|  | 8.56 -1.48 | 8.48 -1.48 | 8.42 -0.54 |  |
+|  | 53.7 | 57.5 | 28.1 |  |
+|  | 94.9 -2.02 | 95.3 -1.02 | 98.5 0.60 |  |
+| Metformin + glimepiride add-on therapy | 1.8 mg liraglutide + metformin2 + glimepiride4 | N/A | Placebo + metformin2 + glimepiride4 | insulin glargin e1 + metformin2 + glimepiride4 |
+
+N 230 114 232
+
+Mean HbA1c (%)
+
+Baseline 8.3 8.3 8.1
+Change from baseline -1.33 -0.24 -1.09
+
+Patients (%) achieving
+HbA1c <7%
+
+All patients 53.1 15.3 45.8
+
+Mean body weight (kg)
+
+Baseline 85.8 85.4 85.2
+Change from baseline -1.81 -0.42 1.62
+
+1 The dosing of insulin glargine was open-labelled and was applied according to the following titration guideline.
+Titration of the insulin glargine dose was managed by the patient after instruction by the investigator.
+Guideline for titration of insulin glargine
+
+| Self-measured FPG | Increase in insulin glargine dose (IU) |
+| --- | --- |
+| ≤5.5 mmol/l (≤100 mg/dl) Target | No adjustment |
+| >5.5 and <6.7 mmol/l (>100 and <120 mg/dl) | 0 – 2 IUa |
+| ≥6.7 mmol/l (≥120 mg/dl) | 2 IU |
+
+a According to the individualised recommendation by the investigator at the previous visit for example depending on whether subject has experienced hypoglycaemia.
+
+2 Metformin 2000 mg/day; 3 rosiglitazone 4 mg twice daily; 4 glimepiride 4 mg/day.
+
+Proportion of patients achieving reductions in HbA1c
+Victoza in combination with metformin, glimepiride, or metformin and rosiglitazone resulted in a statistically significant (p≤0.0001) greater proportion of patients achieving an HbA1c≤6.5% at 26 weeks compared with patients receiving these agents alone.
+Fasting plasma glucose
+Treatment with Victoza alone or in combination with one or two oral antidiabetic drugs resulted in a reduction in fasting plasma glucose of 13-43.5 mg/dl (0.72-2.42 mmol/l).
+This reduction was observed within the first two weeks of treatment.
+
+Post-prandial glucose
+Victoza reduces post-prandial glucose across all three daily meals by 31-49 mg/dl (1.68-2.71 mmol/l).
+
+Beta-cell function
+Clinical studies with Victoza indicate improved beta-cell function based on measures such as the homeostasis model assessment for beta-cell function (HOMA-B) and the proinsulin to insulin ratio.
+Improved first and second phase insulin secretion after 52 weeks treatment with Victoza was demonstrated in a subset of patients with type 2 diabetes (N=29).
+
+Body weight
+Victoza in combination with metformin, metformin and glimepiride or metformin and rosiglitazone was associated with sustained weight reduction over the duration of studies in a range from 1.0 kg to 2.8 kg.
+
+Larger weight reduction was observed with increasing body mass index (BMI) at baseline.
+
+Blood pressure
+Over the duration of the studies Victoza decreased the systolic blood pressure on average of 2.3 to 6.7 mmHg from baseline and compared to active comparator the decrease was 1.9 to 4.5 mmHg
