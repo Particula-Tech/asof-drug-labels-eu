@@ -40,10 +40,6 @@ Sustained carbohydrate intake and observation may be necessary because hypoglyca
 
 (all sentences already above)
 
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-(all sentences already above)
-
 [Humalog Pen 100 U/ml, solution for injection]
 
 (all sentences already above)

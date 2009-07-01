@@ -29,10 +29,6 @@ Mixing Humalog Mix50 with other insulins has not been studied.
 Mixing Humalog BASAL with insulins other than Humalog has not been studied.
 This medicinal product must not be mixed with other medicinal products than Humalog.
 
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-(all sentences already above)
-
 [Humalog Pen 100 U/ml, solution for injection]
 
 (all sentences already above)

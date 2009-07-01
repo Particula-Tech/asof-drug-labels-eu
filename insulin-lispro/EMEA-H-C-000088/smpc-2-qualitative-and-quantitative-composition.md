@@ -29,10 +29,6 @@ Humalog Mix50 consists of 50% insulin lispro solution and 50% insulin lispro pro
 
 Humalog BASAL consists of insulin lispro protamine suspension.
 
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-(all sentences already above)
-
 [Humalog Pen 100 U/ml, solution for injection]
 
 (all sentences already above)

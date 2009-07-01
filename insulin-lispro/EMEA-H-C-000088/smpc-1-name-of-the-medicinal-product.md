@@ -26,10 +26,6 @@ Humalog Mix50 100 U/ml suspension for injection in cartridge
 
 Humalog BASAL 100 U/ml suspension for injection in cartridge
 
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-Humalog-Humaject 100 U/ml, solution for injection
-
 [Humalog Pen 100 U/ml, solution for injection]
 
 Humalog Pen 100 U/ml, solution for injection

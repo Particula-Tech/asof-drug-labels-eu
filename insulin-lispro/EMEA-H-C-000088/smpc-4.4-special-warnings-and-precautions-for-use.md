@@ -53,10 +53,6 @@ Under no circumstances should Humalog Mix50 be given intravenously.
 
 Under no circumstances should Humalog BASAL be given intravenously.
 
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-(all sentences already above)
-
 [Humalog Pen 100 U/ml, solution for injection]
 
 (all sentences already above)

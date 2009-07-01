@@ -36,10 +36,6 @@ Phenol [1.00 mg/ml]
 
 (all sentences already above)
 
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-(all sentences already above)
-
 [Humalog Pen 100 U/ml, solution for injection]
 
 (all sentences already above)

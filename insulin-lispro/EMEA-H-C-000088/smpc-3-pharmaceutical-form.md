@@ -30,10 +30,6 @@ Humalog Mix50 is a white, sterile suspension.
 
 Humalog BASAL is a white, sterile suspension.
 
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-Humalog-Humaject is a sterile, clear, colourless, aqueous solution.
-
 [Humalog Pen 100 U/ml, solution for injection]
 
 Humalog Pen is a sterile, clear, colourless, aqueous solution.

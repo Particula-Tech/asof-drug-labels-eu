@@ -27,10 +27,6 @@ Humalog Mix50 is indicated for the treatment of patients with diabetes mellitus 
 
 Humalog BASAL is indicated for the treatment of patients with diabetes mellitus who require insulin for the maintenance of normal glucose homeostasis.
 
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-Humalog-Humaject is also indicated for the initial stabilisation of diabetes mellitus.
-
 [Humalog Pen 100 U/ml, solution for injection]
 
 Humalog Pen is also indicated for the initial stabilisation of diabetes mellitus.

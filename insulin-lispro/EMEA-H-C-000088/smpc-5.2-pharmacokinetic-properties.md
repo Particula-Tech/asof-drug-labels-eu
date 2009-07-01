@@ -33,10 +33,6 @@ The pharmacokinetics of Humalog Mix50 are representative of the individual pharm
 Humalog BASAL has a prolonged absorption profile, achieving a maximum insulin concentration approximately 6 hours after dosing.
 When considering the clinical relevance of these kinetics, it is more appropriate to examine the glucose utilisation curves.
 
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-(all sentences already above)
-
 [Humalog Pen 100 U/ml, solution for injection]
 
 (all sentences already above)

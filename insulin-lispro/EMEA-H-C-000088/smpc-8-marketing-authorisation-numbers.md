@@ -32,10 +32,6 @@ EU/1/96/007/025 2 x (5 x 3 ml) Humalog Mix50 cartridges for a 3 ml pen
 EU/1/96/007/010 5 x 3 ml Humalog BASAL cartridges for a 3 ml pen
 EU/1/96/007/029 2 x (5 x 3 ml) Humalog BASAL cartridges for a 3 ml pen
 
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-EU/1/96/007/011
-
 [Humalog Pen 100 U/ml, solution for injection]
 
 EU/1/96/007/015 5 x 3 ml Pens

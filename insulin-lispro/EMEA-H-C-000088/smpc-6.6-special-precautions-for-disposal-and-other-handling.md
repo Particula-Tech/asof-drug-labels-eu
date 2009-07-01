@@ -58,7 +58,6 @@ Now inject air into the Humalog vial in the same manner, but do not withdraw the
 
 4.
 Turn the vial and syringe upside down.
-
 5.
 Making sure the tip of the needle is in the Humalog, withdraw the correct dose of Humalog into the syringe.
 
@@ -66,6 +65,7 @@ Making sure the tip of the needle is in the Humalog, withdraw the correct dose o
 Before removing the needle from the vial, check the syringe for air bubbles that reduce the amount of Humalog in it.
 If bubbles are present, hold the syringe straight up and tap its side until the bubbles float to the top.
 Push them out with the plunger and withdraw the correct dose.
+
 7.
 Remove the needle from the vial of Humalog and insert it into the vial of the longer-acting insulin.
 Turn the vial and syringe upside down.
@@ -144,6 +144,7 @@ If not, repeat the above procedure until contents are mixed.
 Cartridges contain a small glass bead to assist mixing.
 
 The cartridges should be examined frequently and should not be used if clumps of material are present or if solid white particles stick to the bottom or wall of the cartridge, giving a frosted appearance.
+
 Humalog Mix25 cartridges are not designed to allow any other insulin to be mixed in the cartridge.
 Cartridges are not designed to be refilled.
 
@@ -176,77 +177,17 @@ Cartridges containing Humalog BASAL should be rotated in the palms of the hands 
 
 Humalog BASAL cartridges are not designed to allow any other insulin to be mixed in the cartridge .
 
-[Humalog-Humaject 100 U/ml, solution for injection]
+[Humalog Pen 100 U/ml, solution for injection]
 
 Instructions for use and handling a) Preparing a dose
-
-Inspect the Humalog-Humaject solution.
-
-Do not use Humalog-Humaject if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
-
-Reset the pen.
-
-Before dialling each dose, the star (*) must appear in the dose window.
-To reset the pen, hold the white cylinder and turn the clear plastic barrel in the direction of the reset arrows.
-Turn until the star (*) appears in the dose window.
-(Do not use the white dose knob to reset the star(*).)
-
-Put on the Needle.
-
-Wipe the rubber seal with alcohol.
-Remove the paper tab from the needle.
-Screw the capped needle onto the pen until it is tight.
-
-Clear any Air Bubbles.
-
-(a) Turn the dose knob in the direction of the arrow until “2” shows in the dose window.
-You will hear one click.
-
-(b) Hold the pen upright.
-Remove the outer needle cap and cover.
-
-(c) Depress the dose knob to remove any large air bubbles.
-A small drop of insulin should appear at the tip of the needle.
-If insulin does not appear, reset the pen so the star (*) appears in the dose window and repeat steps a and c above.
-
-(d) Replace the outer needle cap.
-
-Reset the pen so the star (*) appears in the dose window.
-
-Setting the Dose
-
-Before dialling a dose, always check for the star (*) in the window as before.
-To set the dose, hold the clear plastic barrel and turn the dose knob in the direction of the arrow.
-Turn until the dose appears in the window.
-The pen will click once for each 2 units dialled (1 click = 2 units).
-This knob can be turned back and forth to adjust the dose.
-
-(b) Injecting a dose
-
-Press the knob down with the thumb (until you hear or feel a click); wait 5 seconds.
-
-Immediately after an injection, use the outer needle cap to unscrew the needle.
-Remove the needle from the pen.
-This will ensure sterility, and prevent leakage, re-entry of air, and potential needle clogs.
-Do not reuse the needle.
-Dispose of the needle in a responsible manner.
-Needles and pens must not be shared.
-
-The pre-filled pen can be used until it is empty.
-Please properly discard or recycle.
-
-Replace the cap on the pen.
-
-10.
-
-(c) Mixing insulins
-
-[Humalog Pen 100 U/ml, solution for injection]
 
 Inspect the Humalog Pen solution.
 
 Do not use Humalog Pen if it appears cloudy, thickened, or slightly coloured or if solid particles are visible.
 
+Put on the needle.
+
+Wipe the rubber seal with alcohol.
 Remove the paper tab from the capped needle.
 Screw the capped needle clockwise onto the pen until it is tight.
 Hold the pen with needle pointing up and remove the outer needle cap and inner needle cover.
@@ -269,6 +210,8 @@ If insulin does not appear, repeat the procedure until insulin appears.
 (e) Always prime the pen (check the insulin flow) before each injection.
 Failure to prime the pen may result in an inaccurate dose.
 
+Setting the Dose.
+
 (a) Turn the dose knob clockwise until the arrow appears in the dose window and a notch is felt or visually aligned.
 
 (b) Pull the dose knob out (in the direction of the arrow) until a “0” appears in the dose window.
@@ -277,24 +220,41 @@ Failure to prime the pen may result in an inaccurate dose.
 If too high a dose is dialled, turn the dose knob backward (anti-clockwise) until the correct dose appears in the window.
 A dose greater than the number of units remaining in the cartridge cannot be dialed.
 
+(b) Injecting a dose
+
 Press the injection button down with the thumb (until you hear or feel a click); wait 5 seconds.
 
+Immediately after an injection, use the outer needle cap to unscrew the needle.
+Remove the needle from the pen.
 This will ensure sterility, and prevent leakage, reentry of air, and potential needle clogs.
+Do not reuse the needle.
+Dispose of the needle in a responsible manner.
+Needles and pens must not be shared.
 
 The prefilled pen can be used until it is empty.
+Please properly discard or recycle.
+
+Replace the cap on the pen.
+
+10.
 
 11.
 The injection button should be fully depressed before using the pen again.
 
+(c) Mixing insulins
+
 [Humalog Mix25 100 U/ml Pen, suspension for injection]
 
 Inspect the Humalog Mix25 100 U/ml Pen.
-
 The Pen should be rotated in the palms of the hands ten times and inverted 180° ten times immediately before use to resuspend the insulin until it appears uniformly cloudy or milky.
 
 Priming Pen (check insulin flow).
 
 A dose greater than the number of units remaining in the cartridge cannot be dialled.
+
+This will ensure sterility, and prevent leakage, re-entry of air, and potential needle clogs.
+
+The pre-filled pen can be used until it is empty.
 
 [Humalog Mix50 100 U/ml Pen, suspension for injection]
 

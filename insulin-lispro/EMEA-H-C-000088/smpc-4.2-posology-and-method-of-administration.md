@@ -91,13 +91,6 @@ When administered subcutaneously care should be taken when injecting Humalog BAS
 Humalog BASAL has an activity profile that is very similar to that of a basal insulin (NPH) over a period of approximately 15 hours.
 As with all insulin preparations, the duration of action of Humalog BASAL is dependent on dose, site of injection, blood supply, temperature, and physical activity.
 
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-When administered subcutaneously care should be taken when injecting Humalog-Humaject to ensure that a blood vessel has not been entered.
-
-Humalog-Humaject takes effect rapidly and has a shorter duration of activity (2 to 5 hours) given subcutaneously as compared with regular insulin.
-The faster onset of action compared to soluble human insulin is maintained regardless of injection site As with all insulin preparations, the duration of action of Humalog-Humaject is dependent on dose, site of injection, blood supply, temperature, and physical activity.
-
 [Humalog Pen 100 U/ml, solution for injection]
 
 When administered subcutaneously care should be taken when injecting Humalog Pen to ensure that a blood vessel has not been entered.

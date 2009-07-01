@@ -65,6 +65,7 @@ Hypoglycemic Activity
 
 Humalog Mix25
 Humalog Basal
+
 0 4 8 12 16 20 24
 
 Time, hours
@@ -108,12 +109,6 @@ Humalog Mix50
 Pharmaco-therapeutic group: Intermediate acting human insulin analogue.
 ATC Code: A10A C04.
 
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-ATC code: A10A BO4
-
-Insulin lispro
-
 [Humalog Pen 100 U/ml, solution for injection]
 
 Pharmacotherapeutic group : Fast-acting human insulin analogue, ATC code: A10A B04
@@ -121,6 +116,7 @@ Pharmacotherapeutic group : Fast-acting human insulin analogue, ATC code: A10A B
 Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allowing it to be given closer to a meal (within zero to 15 minutes of the meal) when compared to regular insulin
 (30 to 45 minutes before).
 
+Insulin lispro
 Hypoglycemic
 
 [Humalog Mix25 100 U/ml Pen, suspension for injection]

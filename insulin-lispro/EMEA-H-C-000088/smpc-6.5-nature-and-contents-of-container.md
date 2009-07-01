@@ -46,16 +46,9 @@ Dimeticone or silicone emulsion may have been used to treat the cartridge plunge
 5 x 3 ml Humalog BASAL cartridges for a 3 ml pen
 2 x (5 x 3 ml) Humalog BASAL cartridges for a 3 ml pen
 
-[Humalog-Humaject 100 U/ml, solution for injection]
-
-The solution is contained in type I flint glass cartridges, sealed with butyl or halobutyl disc seals and plunger heads and are secured with aluminium seals.
-The 3 ml cartridges are sealed in a prefilled/disposable pen injector, the HumaJect pen.
-Needles are not supplied.
-
-5 X 3 ml Humalog-Humaject pens
-
 [Humalog Pen 100 U/ml, solution for injection]
 
+The solution is contained in type I flint glass cartridges, sealed with butyl or halobutyl disc seals and plunger heads and are secured with aluminium seals.
 Dimeticone or silicone emulsion may be used to treat the cartridge plunger, and/or the glass cartridge.
 The 3 ml cartridges are sealed in a disposable pen injector.
 Needles are not included.
