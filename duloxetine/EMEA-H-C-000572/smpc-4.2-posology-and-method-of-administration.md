@@ -37,7 +37,7 @@ No dosage adjustment is recommended for elderly patients solely on the basis of 
 However, as with any medicine, caution should be exercised when treating the elderly, especially with CYMBALTA 120 mg per day for major depressive episodes, for which data are limited (see sections 4.4 and 5.2).
 
 Children and adolescents
-Duloxetine is not recommended for use in children due to insufficient data on safety and efficacy (see section 4.4).
+Duloxetine is not recommended for use in children and adolescents due to insufficient data on safety and efficacy (see section 4.4).
 
 Hepatic impairment
 CYMBALTA must not be used in patients with liver disease resulting in hepatic impairment (see sections 4.3 and 5.2).

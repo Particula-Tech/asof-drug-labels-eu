@@ -32,7 +32,6 @@ As a general recommendation, caution should be exercised when treating the elder
 
 Renal impairment: end stage renal disease (ESRD) patients receiving dialysis had 2-fold higher duloxetine Cmax and AUC values compared with healthy subjects.
 Pharmacokinetic data on duloxetine is limited in patients with mild or moderate renal impairment.
-
 Hepatic impairment: moderate liver disease (Child Pugh Class B) affected the pharmacokinetics of duloxetine.
 Compared with healthy subjects, the apparent plasma clearance of duloxetine was 79% lower, the apparent terminal half-life was 2.3 times longer, and the AUC was 3.7 times higher in patients with moderate liver disease.
 The pharmacokinetics of duloxetine and its metabolites have not been studied in patients with mild or severe hepatic insufficiency.

@@ -21,8 +21,9 @@ Caution is advised if CYMBALTA is co-administered with medicinal products that a
 Oral contraceptives and other steroidal agents: results of in vitro studies demonstrate that duloxetine does not induce the catalytic activity of CYP3A.
 Specific in vivo drug interaction studies have not been performed.
 
-Anticoagulants and antiplatelet agents: Caution should be exercised when duloxetine is combined with oral anticoagulants or antiplatelet agents due to a potential increased risk of bleeding.
-Furthermore, increases in INR values have been reported when duloxetine was co-administered with warfarin.
+Anticoagulants and antiplatelet agents: Caution should be exercised when duloxetine is combined with oral anticoagulants or antiplatelet agents due to a potential increased risk of bleeding attributable to a pharmacodynamic interaction.
+Furthermore, increases in INR values have been reported when duloxetine was co-administered to patients treated with warfarin.
+However, concomitant administration of duloxetine with warfarin under steady state conditions, in healthy volunteers, as part of a clinical pharmacology study, did not result in a clinically significant change in INR from baseline or in the pharmacokinetics of R- or S-warfarin.
 
 Effects of other medicinal products on duloxetine
 Antacids and H2 antagonists: co-administration of duloxetine with aluminium- and magnesium-containing antacids or duloxetine with famotidine had no significant effect on the rate or extent of duloxetine absorption after administration of a 40 mg oral dose.
