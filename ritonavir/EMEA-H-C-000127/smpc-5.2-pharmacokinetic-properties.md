@@ -33,7 +33,6 @@ Distribution:
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20 - 40 l after a single 600 mg dose.
 The protein binding of ritonavir in human plasma is approximately 98 - 99% and is constant over the concentration range of 1.0 – 100 μg /ml.
 Ritonavir binds to both human alpha 1-acid glycoprotein (AAG) and human serum albumin (HSA) with comparable affinities.
-
 Tissue distribution studies with 14C-labelled ritonavir in rats showed the liver, adrenals, pancreas, kidneys and thyroid to have the highest concentrations of ritonavir.
 Tissue to plasma ratios of approximately 1 measured in rat lymph nodes suggests that ritonavir distributes into lymphatic tissues.
 Ritonavir penetrates minimally into the brain.

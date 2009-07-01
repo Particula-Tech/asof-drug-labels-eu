@@ -124,8 +124,11 @@ Doses of ritonavir lower than 200 mg twice daily should not be used as they migh
 Fosamprenavir: Co-administration of fosamprenavir with ritonavir in doses greater than 100 mg twice daily has not been clinically evaluated.
 The use of higher ritonavir doses might alter the safety profile of the combination and therefore is not recommended.
 
-Atazanavir: Co-administration of atazanavir with ritonavir in doses greater than 100 mg once daily has not been clinically evaluated.
-The use of higher ritonavir doses might alter the safety profile of atazanavir (cardiac effects, hyperbilirubinemia) and therefore is not recommended.
+Atazanavir: Co-administration of atazanavir with ritonavir at doses greater than 100 mg once daily has not been clinically evaluated.
+The use of higher ritonavir doses may alter the safety profile of atazanavir (cardiac effects, hyperbilirubinemia) and therefore is not recommended.
+Only when atazanavir with ritonavir is co-administered with efavirenz, a dose increase of ritonavir to 200mg once daily could be considered.
+In this instance, close clinical monitoring is warranted.
+Refer to the Reyataz Summary of Product Characteristics for further details.
 
 [Norvir 100 mg soft capsules]
 

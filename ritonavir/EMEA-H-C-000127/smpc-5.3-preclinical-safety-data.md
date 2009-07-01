@@ -9,6 +9,7 @@ All thyroid changes were reversible upon discontinuation of ritonavir.
 Clinical investigation in humans has revealed no clinically significant alteration in thyroid function tests.
 Renal changes including tubular degeneration, chronic inflammation and proteinurea were noted in rats and are felt to be attributable to species-specific spontaneous disease.
 Furthermore, no clinically significant renal abnormalities were noted in clinical trials.
+
 Developmental toxicity observed in rats (embryolethality, decreased foetal body weight and ossification delays and visceral changes, including delayed testicular descent) occurred mainly at a maternally toxic dosage.
 Developmental toxicity in rabbits (embryolethality, decreased litter size and decreased foetal weights) occurred at a maternally toxic dosage.
 

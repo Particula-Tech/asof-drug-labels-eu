@@ -14,7 +14,7 @@ Atazanavir 300 mg daily with ritonavir 100 mg daily
 Fosamprenavir 700 mg twice daily with ritonavir 100 mg twice daily
 Lopinavir 400 mg co-formulated with ritonavir 100 mg twice daily
 Saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily
-Tipranvir 500 mg twice daily with ritonavir 200 mg twice daily
+Tipranavir 500 mg twice daily with ritonavir 200 mg twice daily
 Darunavir 600 mg twice daily with ritonavir 100 mg twice daily
 
 Paediatric use: Lopinavir co-formulated with ritonavir is recommended for children 2 years of age and older.
