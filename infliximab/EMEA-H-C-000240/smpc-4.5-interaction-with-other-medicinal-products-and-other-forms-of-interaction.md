@@ -4,9 +4,6 @@ In rheumatoid arthritis, psoriatic arthritis and Crohn's disease patients, there
 However, the results are uncertain due to limitations in the methods used for serum analyses of infliximab and antibodies against infliximab.
 
 Corticosteroids do not appear to affect the pharmacokinetics of infliximab to a clinically relevant extent.
+The combination of Remicade and anakinra or abatacept is not recommended (see section 4.4).
 
-The combination of Remicade and anakinra is not recommended (see section 4.4 - "Concurrent administration of TNF-alpha inhibitor and anakinra”).
-
-Nothing is known regarding possible interactions between infliximab and other active substances.
-
-It is recommended that live vaccines not be given concurrently with Remicade (see section 4.4 - “Vaccinations”).
+It is recommended that live vaccines not be given concurrently with Remicade (see section 4.4).

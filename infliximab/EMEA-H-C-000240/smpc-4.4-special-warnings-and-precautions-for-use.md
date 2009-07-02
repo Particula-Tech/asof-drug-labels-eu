@@ -14,12 +14,11 @@ Concomitant administration of immunomodulators has been associated with lower in
 The effect of concomitant immunomodulator therapy was more profound in episodically treated patients than in patients given maintenance therapy.
 Patients who discontinue immunosuppressants prior to or during Remicade treatment are at greater risk of developing these antibodies.
 Antibodies to infliximab cannot always be detected in serum samples.
-If serious reactions occur, symptomatic treatment must be given and further Remicade infusions must not be administered (see section 4.8: "Immunogenicity").
+If serious reactions occur, symptomatic treatment must be given and further Remicade infusions must not be administered (see section 4.8).
 
 In clinical studies, delayed hypersensitivity reactions have been reported.
 Available data suggest an increased risk for delayed hypersensitivity with increasing Remicade-free interval.
-Advise patients to seek immediate medical advice if they experience any delayed adverse event (see section 4.8:
-“Delayed hypersensitivity”).
+Patients should be advised to seek immediate medical advice if they experience any delayed adverse event (see section 4.8).
 If patients are re-treated after a prolonged period, they must be closely monitored for signs and symptoms of delayed hypersensitivity.
 
 Infections
@@ -36,12 +35,13 @@ Clinical experience shows that host defence against infection is compromised in 
 
 It should be noted that suppression of TNFα may mask symptoms of infection such as fever.
 Early recognition of atypical clinical presentations of serious infections is critical in order to minimize delays in diagnosis and treatment.
+
 Patients taking TNF-blockers are more susceptible to serious infections.
 Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal infections, and other opportunistic infections have been observed in patients treated with infliximab.
 Some of these infections have been fatal.
 Patients who develop a new infection while undergoing treatment with Remicade, should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Remicade should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
-For patients who have resided in or traveled to regions where invasive fungal infections such as histoplasmosis, coccidioidomycosis, or blastomycosis are endemic, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
+For patients who have resided in or travelled to regions where invasive fungal infections such as histoplasmosis, coccidioidomycosis, or blastomycosis are endemic, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
 
 There have been reports of active tuberculosis in patients receiving Remicade.
 It should be noted that in the majority of these reports tuberculosis was extrapulmonary, presenting as either local or disseminated disease.
@@ -70,8 +70,8 @@ All patients should be informed to seek medical advice if signs/symptoms suggest
 
 Patients with fistulising Crohn’s disease with acute suppurative fistulas must not initiate Remicade therapy until a source for possible infection, specifically abscess, has been excluded (see section 4.3).
 
-Hepatitis B Reactivation
-Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including Remicade, who are chronic carriers of this virus.
+Hepatitis B (HBV) reactivation
+Reactivation of hepatitis B has occurred in patients receiving a TNF-antagonist including infliximab, who are chronic carriers of this virus.
 Some cases have had fatal outcome.
 Patients at risk for HBV infection should be evaluated for prior evidence of HBV infection before initiating Remicade therapy.
 Carriers of HBV who require treatment with Remicade should be closely monitored for signs and symptoms of active HBV infection throughout therapy and for several months following termination of therapy.
@@ -89,6 +89,10 @@ Serious infections were seen in clinical studies with concurrent use of anakinra
 Because of the nature of the adverse events seen with combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNFα-blocking agents.
 Therefore, the combination of Remicade and anakinra is not recommended.
 
+Concurrent administration of TNF-alpha inhibitor and abatacept
+In clinical studies concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
+The combination of Remicade and abatacept is not recommended.
+
 Vaccinations
 No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
 It is recommended that live vaccines not be given concurrently.
@@ -96,7 +100,7 @@ It is recommended that paediatric Crohn’s disease patients, if possible, be br
 
 Autoimmune processes
 The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.
-If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Remicade and is positive for antibodies against double-stranded DNA, further treatment with Remicade must not be given (see section 4.8: “Anti-nuclear antibodies (ANA)/Double-stranded DNA (dsDNA) antibodies”).
+If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Remicade and is positive for antibodies against double-stranded DNA, further treatment with Remicade must not be given (see section 4.8).
 
 Neurological events
 Infliximab and other agents that inhibit TNFα have been associated in rare cases with optic neuritis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis, and peripheral demyelinating disorders, including Guillain-Barré syndrome.
@@ -106,19 +110,20 @@ Malignancies and lymphoproliferative disorders
 In the controlled portions of clinical studies of TNF-blocking agents, more cases of malignancies including lymphoma have been observed among patients receiving a TNF blocker compared with control patients.
 During clinical studies of Remicade across all approved indications the incidence of lymphoma in Remicade-treated patients was higher than expected in the general population, but the occurrence of lymphoma was rare.
 Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with longstanding, highly active, inflammatory disease, which complicates the risk estimation.
+
 In an exploratory clinical study evaluating the use of Remicade in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies were reported in Remicade-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Caution should be exercised in considering treatment of patients with increased risk for malignancy due to heavy smoking.
 
-With the current knowledge, a risk for the development of lymphomas or other malignancies in patients treated with a TNF-blocking agent cannot be excluded (see Section 4.8).
+With the current knowledge, a risk for the development of lymphomas or other malignancies in patients treated with a TNF-blocking agent cannot be excluded (see section 4.8).
 Caution should be exercised when considering TNF-blocking therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop a malignancy.
 
 Caution should also be exercised in patients with psoriasis and a medical history of extensive immunosuppressant therapy or prolonged PUVA treatment.
 
-Rare postmarketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with TNF-blocking agents including Remicade.
+Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with TNF-blocking agents including infliximab.
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
 All Remicade cases have occurred in patients with Crohn’s disease or ulcerative colitis and the majority were reported in adolescent or young adult males.
-All of these patients had received treatment with azathioprine or 6-mercaptopurine concomitantly with or immediately prior to Remicade.
+All of these patients had received treatment with AZA or 6-MP concomitantly with or immediately prior to Remicade.
 The potential risk with the combination of AZA or 6-MP and Remicade should be carefully considered.
 A risk for the development for hepatosplenic T-cell lymphoma in patients treated with Remicade cannot be excluded (see sections 4.2 and 4.8).
 
@@ -132,20 +137,10 @@ Heart failure
 Remicade should be used with caution in patients with mild heart failure (NYHA class I/II).
 Patients should be closely monitored and Remicade must not be continued in patients who develop new or worsening symptoms of heart failure (see sections 4.3 and 4.8).
 
-Paediatrics
-Due to insufficient data on safety and efficacy, Remicade is not recommended for use in children ≤ 17 years, except in Crohn’s disease.
-Remicade has not been studied in patients with Crohn’s disease below the age of 6 years.
-
 Others
-The pharmacokinetics of infliximab in elderly patients has not been studied.
-Studies have not been performed in patients with liver or renal disease (see section 5.2).
-
-There are insufficient preclinical data to draw conclusions on the effects of infliximab on fertility and general reproductive function (see section 5.3).
-
-There is limited safety experience of surgical procedures in Remicade treated patients.
+There is limited safety experience of Remicade treatment in patients who have undergone surgical procedures, including arthroplasty.
 The long half-life of infliximab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Remicade should be closely monitored for infections, and appropriate actions should be taken.
 
-There is limited safety experience of Remicade treatment in patients who have undergone arthroplasty.
 Failure to respond to treatment for Crohn’s disease may indicate the presence of a fixed fibrotic stricture that may require surgical treatment.
 Available data suggest that infliximab does not worsen or cause strictures.

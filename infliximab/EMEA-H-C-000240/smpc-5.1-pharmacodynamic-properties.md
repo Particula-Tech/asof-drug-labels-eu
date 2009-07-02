@@ -1,8 +1,10 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Selective immunosuppressive agents, ATC code: L04AB02.
+Pharmacotherapeutic group: tumour necrosis factor alpha (TNFα) inhibitors, ATC code: L04AB02.
 
-Pharmacodynamic properties: Infliximab is a chimeric human-murine monoclonal antibody that binds with high affinity to both soluble and transmembrane forms of TNFα but not to lymphotoxin α (TNFß).
+Pharmacodynamic properties
+
+Infliximab is a chimeric human-murine monoclonal antibody that binds with high affinity to both soluble and transmembrane forms of TNFα but not to lymphotoxin α (TNFß).
 Infliximab inhibits the functional activity of TNFα in a wide variety of in vitro bioassays.
 Infliximab prevented disease in transgenic mice that develop polyarthritis as a result of constitutive expression of human TNFα and when administered after disease onset, it allowed eroded joints to heal.
 In vivo, infliximab rapidly forms stable complexes with human TNFα, a process that parallels the loss of TNFα bioactivity.
@@ -21,6 +23,7 @@ Peripheral blood mononuclear cells (PBMC) from infliximab-treated patients showe
 Analysis of lamina propria mononuclear cells obtained by biopsy of the intestinal mucosa showed that infliximab treatment caused a reduction in the number of cells capable of expressing TNFα and interferonγ.
 Additional histological studies provided evidence that treatment with infliximab reduces the infiltration of inflammatory cells into affected areas of the intestine and the presence of inflammation markers at these sites.
 Endoscopic studies of intestinal mucosa have shown evidence of mucosal healing in infliximab treated patients.
+
 Clinical Efficacy
 
 Rheumatoid arthritis
@@ -44,6 +47,7 @@ A reduction in the rate of the progression of structural joint damage (erosions 
 
 The effects observed at 54 weeks were maintained through 102 weeks.
 Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group cannot be defined.
+
 Table 3
 Effects on ACR20, Structural Joint Damage and Physical Function at week 54, ATTRACT
 
@@ -56,7 +60,7 @@ Concurrent use of stable doses of oral corticosteroids (≤ 10 mg/day) and/or NS
 b: all infliximab doses given in combination with methotrexate and folate with some on corticosteroids and/or NSAIDs c: p < 0.001, for each infliximab treatment group vs. control d: greater values indicate more joint damage.
 e: HAQ = Health Assessment Questionnaire; greater values indicate less disability.
 
-The ASPIRE study evaluated responses at 54 weeks in 1004 methotrexate naive patients with early
+The ASPIRE study evaluated responses at 54 weeks in 1,004 methotrexate naive patients with early
 (≤3 years disease duration, median 0.6 years) active rheumatoid arthritis (median swollen and tender joint count of 19 and 31, respectively).
 All patients received methotrexate (optimised to 20 mg/wk by week 8) and either placebo, 3 mg/kg or 6 mg/kg infliximab at weeks 0, 2, and 6 and every 8 weeks thereafter.
 Results from week 54 are shown in Table 4.
@@ -67,24 +71,13 @@ In ASPIRE, more than 90% of patients had at least two evaluable X-rays.
 Reduction in the rate of progression of structural damage was observed at weeks 30 and 54 in the infliximab + methotrexate groups compared to methotrexate alone.
 Table 4
 Effects on ACRn, Structural Joint Damage and Physical Function at week 54, ASPIRE
-Infliximab + MTX
-Placebo + MTX 3 mg/kg 6 mg/kg Combined
 
-Subjects randomised 282 359 363 722
-
-Percentage ACR improvement
-
-Mean ± SDa 24.8 ± 59.7 37.3 ± 52.8 42.0 ± 47.3 39.6 ± 50.1
-
-Change from baseline in total van der
-Heijde modified Sharp scoreb
-
-Mean ± SDa 3.70 ± 9.61 0.42 ± 5.82 0.51 ± 5.55 0.46 ± 5.68
-Median 0.43 0.00 0.00 0.00
-
-Improvement from baseline in HAQ averaged over time from week 30 to week 54c
-
-Mean ± SDd 0.68 ± 0.63 0.80 ± 0.65 0.88 ± 0.65 0.84 ± 0.65
+|  | Infliximab + MTX Placebo + MTX 3 mg/kg 6 mg/kg | Combined |
+| --- | --- | --- |
+| Subjects randomised Percentage ACR improvement Mean ± SDa Change from baseline in total van der Heijde modified Sharp scoreb Mean ± SDa Median Improvement from baseline in HAQ averaged over time from week 30 to week 54c Mean ± SDd | 282 359 363 | 722 |
+|  | 24.8 ± 59.7 37.3 ± 52.8 42.0 ± 47.3 | 39.6 ± 50.1 |
+|  | 3.70 ± 9.61 0.42 ± 5.82 0.51 ± 5.55 0.43 0.00 0.00 | 0.46 ± 5.68 0.00 |
+|  | 0.68 ± 0.63 0.80 ± 0.65 0.88 ± 0.65 | 0.84 ± 0.65 |
 
 a: p < 0.001, for each infliximab treatment group vs. control b: greater values indicate more joint damage.
 c: HAQ = Health Assessment Questionnaire; greater values indicate less disability.
@@ -127,12 +120,39 @@ There was no difference between groups in the number of late responders thereaft
 The co-primary endpoints were the proportion of patients in clinical remission (CDAI<150) at week 30 and time to loss of response through week 54.
 Corticosteroid tapering was permitted after week 6.
 
-Table 5: Effects on response and remission rate, data from ACCENT I (Week-2 responders)
+Table 5: Effects on response and remission rate, data from ACCENT I (Week-2 responders) ACCENT I (Week-2 responders)
+% of Patients
 
-|  | ACCENT I (Week-2 responders) % of Patients Placebo Infliximab Infliximab Maintenance Maintenance Maintenance (n=110) 5 mg/kg 10 mg/kg (n=113) (n=112) (p value) (p value) |
-| --- | --- |
-| Median time to loss of response through week 54 Week 30 Clinical Responsea Clinical Remission Steroid-Free Remission | 19 weeks 38 weeks >54 weeks (0.002) (<0.001) 27.3 51.3 59.1 (<0.001) (<0.001) 20.9 38.9 45.5 (0.003) (<0.001) 10.7 (6/56) 31.0 (18/58) 36.8 (21/57) (0.008) (0.001) |
-| Week 54 Clinical Responsea Clinical Remission Sustained Steroid-Free Remissionb | 15.5 38.1 47.7 (<0.001) (<0.001) 13.6 28.3 38.4 (0.007) (<0.001) 17.9 (10/56) 28.6 (16/56) 5.7 (3/53) (0.075) (0.002) |
+Placebo Infliximab Infliximab
+
+Maintenance Maintenance Maintenance
+
+(n=110) 5 mg/kg 10 mg/kg
+(n=113) (n=112)
+(p value) (p value)
+Median time to loss of response 19 weeks 38 weeks >54 weeks
+through week 54 (0.002) (<0.001)
+
+Week 30
+
+Clinical Responsea 27.3 51.3 59.1
+(<0.001) (<0.001)
+Clinical Remission 20.9 38.9 45.5
+(0.003) (<0.001)
+Steroid-Free Remission 10.7 (6/56) 31.0 (18/58) 36.8 (21/57)
+(0.008) (0.001)
+
+Week 54
+
+Clinical Responsea 15.5 38.1 47.7
+(<0.001) (<0.001)
+Clinical Remission 13.6 28.3 38.4
+(0.007) (<0.001)
+Sustained Steroid-Free Remissionb 17.9 (10/56) 28.6 (16/56)
+
+5.7 (3/53)
+
+(0.075) (0.002)
 
 a: Reduction in CDAI ≥25% and ≥70 points.
 b: CDAI<150 at both Week 30 and 54 and not receiving corticosteroids in the 3 months prior to Week 54 among patients who were receiving corticosteroids at baseline.
@@ -141,7 +161,6 @@ Beginning at week 14, patients who had responded to treatment, but subsequently 
 Eighty-nine percent (50/56) of patients who lost clinical response on infliximab 5 mg/kg maintenance therapy after week 14 responded to treatment with infliximab 10 mg/kg.
 
 Improvements in quality of life measures, a reduction in disease-related hospitalizations and corticosteroid use were seen in the infliximab maintenance groups compared with the placebo maintenance group at weeks 30 and 54.
-
 Induction treatment in fistulising active Crohn’s disease
 The efficacy was assessed in a randomised, double-blinded, placebo-controlled study in 94 patients with fistulising Crohn’s disease who had fistulae that were of at least 3 months’ duration.
 Thirty-one of these patients were treated with infliximab 5 mg/kg.
@@ -185,7 +204,7 @@ Furthermore, a reduction in corticosteroid use and improvements in quality of li
 
 Paediatric Crohn’s disease (6 to17 years)
 
-In the REACH study, 112 patients (6 to 17 years, median age 13.0 years) with moderate to severe, active Crohn’s disease (median PCDAI of 40) and an inadequate response to conventional therapies were to receive 5 mg/kg infliximab at weeks 0, 2, and 6.
+In the REACH study, 112 patients (6 to 17 years, median age 13.0 years) with moderate to severe, active Crohn’s disease (median paediatric CDAI of 40) and an inadequate response to conventional therapies were to receive 5 mg/kg infliximab at weeks 0, 2, and 6.
 All patients were required to be on a stable dose of 6-MP, AZA or MTX (35% were also receiving corticosteroids at baseline).
 Patients assessed by the investigator to be in clinical response at week 10 were randomized and received 5 mg/kg infliximab at either q8 weeks or q12 weeks as a maintenance treatment regimen.
 If response was lost during maintenance treatment, crossing over to a higher dose (10 mg/kg) and/or shorter dosing interval (q8 weeks) was allowed.
@@ -200,7 +219,7 @@ Of the 22 subjects that had fistulas at baseline, 63.6% (14/22), 59.1% (13/22) a
 
 In addition, statistically and clinically significant improvements in quality of life and height, as well as a significant reduction in corticosteroid use, were observed versus baseline.
 
-Ulcerative Colitis
+Ulcerative colitis
 
 The safety and efficacy of Remicade were assessed in two (ACT 1 and ACT 2) randomized, double-blind, placebo-controlled clinical studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore � 2) with an inadequate response to conventional therapies [oral corticosteroids, aminosalicylates and/or immunomodulators (6-MP, AZA)].
 Concomitant stable doses of oral aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted.
@@ -209,30 +228,10 @@ Corticosteroid taper was permitted after week 8.
 Table 7
 Effects on clinical response, clinical remission and mucosal healing at Weeks 8 and 30.
 Combined data from ACT 1 & 2.
-Infliximab
 
-Placebo 5 mg/kg 10 mg/kg Combined
-Subjects randomized 244 242 242 484
-
-Percentage of subjects in clinical response and in sustained clinical response
-
-Clinical response at Week 8a 33.2% 66.9% 65.3% 66.1%
-Clinical response at Week 30a 27.9% 49.6% 55.4% 52.5%
-
-Sustained response
-(clinical response at both
-
-Week 8 and Week 30)a 19.3% 45.0% 49.6% 47.3%
-
-Percentage of subjects in clinical remission and sustained remission
-
-Clinical remission at Week 8a 10.2% 36.4% 29.8% 33.1%
-Clinical remission at Week 30a 13.1% 29.8% 36.4% 33.1%
-
-Sustained remission
-(in remission at both
-
-Week 8 and Week 30)a 5.3% 19.0% 24.4% 21.7%
+| Infliximab Placebo 5 mg/kg 10 mg/kg Subjects randomized 244 242 242 Percentage of subjects in clinical response and in sustained clinical response Clinical response at Week 8a 33.2% 66.9% 65.3% Clinical response at Week 30a 27.9% 49.6% 55.4% Sustained response (clinical response at both Week 8 and Week 30)a 19.3% 45.0% 49.6% | Combined 484 66.1% 52.5% 47.3% |
+| --- | --- |
+| Percentage of subjects in clinical remission and sustained remission Clinical remission at Week 8a 10.2% 36.4% 29.8% Clinical remission at Week 30a 13.1% 29.8% 36.4% Sustained remission (in remission at both Week 8 and Week 30)a 5.3% 19.0% 24.4% | 33.1% 33.1% 21.7% |
 
 Percentage of subjects with mucosal healing
 
@@ -249,8 +248,8 @@ The proportions of patients in sustained response and sustained remission at wee
 A greater proportion of patients in the combined infliximab treatment group were able to discontinue corticosteroids while remaining in clinical remission compared to the placebo treatment group at both week 30 (22.3% vs. 7.2%, p < 0.001, pooled ACT 1 & ACT 2 data) and week 54 (21.0% vs. 8.9%, p=0.022, ACT1 data).
 
 The pooled data analysis from the ACT 1 and ACT 2 studies and their extensions, analysed from baseline through 54 weeks, demonstrated a reduction of ulcerative colitis related hospitalisations and surgical procedures with infliximab treatment.
-The number of UC-related hospitalisations was significantly lower in the 5 and 10 mg/kg infliximab treatment groups than in the placebo group (mean number of hospitalisations per 100 subject-years: 21 and 19 vs 40 in the placebo group; p=0.019 and p=0.007, respectively).
-The number of UC-related surgical procedures was also lower in the 5 and 10 mg/kg infliximab treatment groups than in the placebo group (mean number of surgical procedures per 100 subject-years: 22 and 19 vs 34; p=0.145 and p=0.022, respectively).
+The number of ulcerative colitis-related hospitalisations was significantly lower in the 5 and 10 mg/kg infliximab treatment groups than in the placebo group (mean number of hospitalisations per 100 subject-years: 21 and 19 vs 40 in the placebo group; p=0.019 and p=0.007, respectively).
+The number of ulcerative colitis-related surgical procedures was also lower in the 5 and 10 mg/kg infliximab treatment groups than in the placebo group (mean number of surgical procedures per 100 subject-years: 22 and 19 vs 34; p=0.145 and p=0.022, respectively).
 
 The proportion of subjects who underwent colectomy at any time within 54 weeks following the first infusion of study agent were collected and pooled from the ACT 1 and ACT 2 studies and their extensions.
 Fewer subjects underwent colectomy in the 5 mg/kg infliximab group (28/242 or 11.6% [N.S.]) and the 10 mg/kg infliximab group (18/242 or 7.4% [p=0.011]) than in the placebo group (36/244; 14.8%).
@@ -286,7 +285,7 @@ BASDAI 50 responders.
 
 In both studies, physical function and quality of life as measured by the BASFI and the physical component score of the SF-36 were also improved significantly.
 
-Psoriatic Arthritis
+Psoriatic arthritis
 
 Efficacy and safety were assessed in two multicenter, double-blind, placebo-controlled studies in patients with active psoriatic arthritis.
 
@@ -353,6 +352,7 @@ Psoriasis
 The efficacy of infliximab was assessed in two multicenter, randomised, double blind studies: SPIRIT and EXPRESS.
 Patients in both studies had plaque psoriasis (Body Surface Area [BSA] ≥10% and Psoriasis Area and Severity Index [PASI] score ≥12).
 The primary endpoint in both studies was the percent of patients who achieved ≥ 75% improvement in PASI from baseline at week 10.
+
 SPIRIT evaluated the efficacy of infliximab induction therapy in 249 patients with plaque psoriasis that had previously received PUVA or systemic therapy.
 Patients received either 3 or 5 mg/kg infliximab or placebo infusions at weeks 0, 2 and 6.
 Patients with a PGA score ≥3 were eligible to receive an additional infusion of the same treatment at week 26.

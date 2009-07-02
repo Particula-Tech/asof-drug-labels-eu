@@ -36,8 +36,8 @@ No physical biochemical compatibility studies have been conducted to evaluate th
 Do not infuse Remicade concomitantly in the same intravenous line with other agents.
 
 6.
-Visually inspect parenteral medicinal products for particulate matter or discolouration prior to administration.
+Visually inspect Remicade for particulate matter or discolouration prior to administration.
 Do not use if visibly opaque particles, discolouration or foreign particles are observed.
 
 7.
-Any unused product or waste material; should be disposed of in accordance with local requirements.
+Any unused product or waste material should be disposed of in accordance with local requirements.
