@@ -160,6 +160,47 @@ Clinically relevant toxicity that was reported in ≥ 1% and ≤ 5% (common) of 
 Clinically relevant toxicity that was reported in <1% (uncommon) of the patients that were randomly assigned to receive cisplatin and pemetrexed include: GGT increase, chest pain, arrhythmia, and motor neuropathy.
 Clinically relevant toxicities with respect to gender were similar to the overall population in patients receiving pemetrexed plus cisplatin.
 
+The table below provides the frequency and severity of undesirable effects considered possibly related to study drug that have been reported in >5% of 441 patients randomly assigned to receive single agent pemetrexed and 222 patients randomly assigned to receive placebo in the single-agent maintenance pemetrexed study (Study JMEN).
+All patients were diagnosed with Stage IIIB or IV NSCLC and had received prior platinum-based chemotherapy.
+Patients in both study arms were fully supplemented with folic acid and vitamin B12.
+
+Pemetrexed Placebo
+(N = 441) (N = 222)
+All Grade All Grade
+System Organ Grades 3/4 Grades 3/4
+Class Frequencya Eventb (%) (%) (%) (%)
+Blood and Very Common Hemoglobin 15.2 2.7 5.4 0.5
+Lymphatic Common Leukocytes 6.1 1.6 1.4 0.5
+System Disorders Neutrophils 5.9 2.9 0.0 0.0
+Gastrointestinal Very Common Nausea 18.8 0.9 5.4 0.5
+Disorders Anorexia 18.6 1.8 5.0 0.0
+Common Vomiting 8.6 0.2 1.4 0.0
+Mucositis/stomatiti 7.0 0.7 1.8 0.0
+s
+Common Diarrhoea 5.2 0.5 2.7 0.0
+General Very Common Fatigue 24.5 5.0 10.4 0.5
+Hepatobiliary Common ALT (SGPT) 9.5 0.2 3.6 0.0
+Disorders AST (SGOT) 8.2 0.0 3.6 0.0
+Infections and
+Infestations Common Infection 5.2 1.6 1.8 0.0
+Skin and
+Subcutaneous
+Tissue Disorders Very Common Rash/desquamation 10.0 0.0 3.2 0.0
+Nervous System Neuropathy-
+Disorders Common sensory 8.8 0.7 4.1 0.0
+
+Abbreviations: ALT = alanine transaminase; AST = aspartate transaminase; CTCAE = Common Terminology Criteria for Adverse Event; NCI = National Cancer Institute; SGOT = serum glutamic oxaloacectic transaminase; SGPT = serum glutamic pyruvic transaminase.
+a Definition of frequency terms: Very common - ≥ 10%; Common - > 5% and < 10%.
+For the purpose of this table, a cutoff of 5% was used for inclusion of all events where the reporter considered a possible relationship to pemetrexed.
+b Refer to NCI CTCAE Criteria (Version 3.0; NCI 2003) for each grade of toxicity
+
+Clinically relevant CTC toxicity of any grade that was reported in ≥1% and ≤5% (common) of the patients that were randomly assigned to pemetrexed include: decreased platelets, decreased creatinine clearance, constipation, edema, alopecia, increased creatinine, pruritis/itching, fever (in the absence of neutropenia), ocular surface disease (including conjunctivitis), increased lacrimation, and decreased glomerular filtration rate.
+
+Clinically relevant CTC toxicity that was reported in <1% (uncommon) of the patients that were randomly assigned to pemetrexed include: febrile neutropenia, allergic reaction/hypersensitivity, motor neuropathy, erythema multiforme, renal failure, and supraventricular arrhythmia.
+The incidence of adverse reactions was evaluated for patients who received ≤ 6 cycles of pemetrexed, and compared to patients who received > 6 cycles of pemetrexed.
+Increases in adverse reactions (all grades) were observed with longer exposure; however, no statistically significant differences in
+Grade 3/4 adverse reactions were seen.
+
 Serious cardiovascular and cerebrovascular events, including myocardial infarction, angina pectoris, cerebrovascular accident and transient ischaemic attack have been uncommonly reported during clinical studies with pemetrexed, usually when given in combination with another cytotoxic agent.
 Most of the patients in whom these events have been observed had pre-existing cardiovascular risk factors.
 

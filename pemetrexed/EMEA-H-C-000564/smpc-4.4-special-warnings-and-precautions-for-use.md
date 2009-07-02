@@ -28,9 +28,9 @@ Therefore, patients should receive adequate antiemetic treatment and appropriate
 
 Serious cardiovascular events, including myocardial infarction and cerebrovascular events have been uncommonly reported during clinical studies with pemetrexed, usually when given in combination with another cytotoxic agent.
 Most of the patients in whom these events have been observed had pre-existing cardiovascular risk factors (see section 4.8).
-
 Immunodepressed status is common in cancer patients.
 As a result, concomitant use of live attenuated vaccines (except yellow fever which is contraindicated) is not recommended (see section 4.3 and 4.5).
+
 Pemetrexed can have genetically damaging effects.
 Sexually mature males are advised not to father a child during the treatment and up to 6 months thereafter.
 Contraceptive measures or abstinence are recommended.

@@ -13,6 +13,8 @@ Polyglutamated metabolites have an increased intracellular half-life resulting i
 
 Clinical Efficacy:
 
+Mesothelioma:
+
 EMPHACIS, a multicentre, randomised, single-blind phase 3 study of ALIMTA plus cisplatin versus cisplatin in chemonaive patients with malignant pleural mesothelioma, has shown that patients treated with ALIMTA and cisplatin had a clinically meaningful 2.8-month median survival advantage over patients receiving cisplatin alone.
 
 During the study, low-dose folic acid and vitamin B12 supplementation was introduced to patients’ therapy to reduce toxicity.
@@ -36,7 +38,6 @@ Efficacy of ALIMTA plus Cisplatin vs. Cisplatin in Malignant Pleural Mesotheliom
 | Fisher’s exact p-value* | < 0.001 |  | < 0.001 |  |
 
 Abbreviation: CI = confidence interval
-
 * p-value refers to comparison between arms.
 ** In the ALIMTA/cisplatin arm, randomized and treated (N = 225) and fully supplemented (N = 167)
 
@@ -48,7 +49,10 @@ There are limited data in patients with malignant pleural mesothelioma treated w
 ALIMTA at a dose of 500 mg/m2 was studied as a single-agent in 64 chemonaive patients with malignant pleural mesothelioma.
 The overall response rate was 14.1 %.
 
+NSCLC, Second-Line Treatment:
+
 A multicentre, randomised, open label phase 3 study of ALIMTA versus docetaxel in patients with locally advanced or metastatic NSCLC after prior chemotherapy has shown median survival times of 8.3 months for patients treated with ALIMTA (Intent To Treat population n = 283) and 7.9 months for patients treated with docetaxel (ITT n = 288).
+Prior chemotherapy did not include ALIMTA.
 An analysis of the impact of NSCLC histology on the treatment effect on overall survival was in favour of ALIMTA versus docetaxel for other than predominantly squamous histologies (n=399, 9.3 versus 8.0 months, adjusted HR = 0.78; 95% CI =0 .61-1.00, p =0.047) and was in favour of docetaxel for squamous cell carcinoma histology (n=172, 6.2 versus 7.4 months, adjusted HR = 1.56; 95% CI =1.08-2.26, p =0.018).
 There were no clinically relevant differences observed for the safety profile of ALIMTA within the histology subgroups.
 
@@ -64,6 +68,8 @@ Efficacy of ALIMTA vs docetaxel in NSCLC - ITT Population
 | Response (n: qualified for response) � Response rate (%) (95 % CI) � Stable disease (%) | (n = 264) 9.1 (5.9 - 13.2) 45.8 | (n = 274) 8.8 (5.7 - 12.8) 46.4 |
 
 Abbreviations: CI = confidence interval; HR = hazard ratio; ITT = intent to treat; n = total population size.
+NSCLC, First-Line Treatment:
+
 A multicentre, randomised, open-label, Phase 3 study of ALIMTA plus cisplatin versus gemcitabine plus cisplatin in chemonaive patients with locally advanced or metastatic (Stage IIIb or IV) non-small cell lung cancer (NSCLC) showed that ALIMTA plus cisplatin (Intent-To-Treat [ITT] population n = 862) met its primary endpoint and showed similar clinical efficacy as gemcitabine plus cisplatin (ITT n = 863) in overall survival (adjusted hazard ratio 0.94; 95% CI 0.84-1.05).
 All patients included in this study had an ECOG performance status 0 or 1.
 The primary efficacy analysis was based on the ITT population.
@@ -110,6 +116,48 @@ Survival Time (months) Survival Time (months)
 There were no clinically relevant differences observed for the safety profile of ALIMTA plus cisplatin within the histology subgroups.
 Patients treated with ALIMTA and cisplatin required fewer transfusions (16.4% versus 28.9%, p<0.001), red blood cell transfusions (16.1% versus 27.3%, p<0.001) and platelet transfusions (1.8% versus 4.5%, p=0.002).
 Patients also required lower administration of erythropoietin/darbopoietin (10.4% versus 18.1%, p<0.001), G-CSF/GM-CSF (3.1% versus 6.1%, p=0.004), and iron preparations (4.3% versus 7.0%, p=0.021).
+
+NSCLC, Maintenance Treatment:
+
+A multicentre, randomised, double-blind, placebo-controlled Phase 3 study (JMEN), compared the efficacy and safety of maintenance treatment with ALIMTA plus best supportive care (BSC) (n = 441) with that of placebo plus BSC (n= 222) in patients with locally advanced (Stage IIIB) or metastatic (Stage IV) Non Small Cell Lung Cancer (NSCLC) who did not progress after 4 cycles of first line doublet therapy containing Cisplatin or Carboplatin in combination with Gemcitabine, Paclitaxel, or Docetaxel.
+First line doublet therapy containing ALIMTA was not included.
+All patients included in this study had an ECOG performance status 0 or 1.
+Patients received maintenance treatment until disease progression.
+Efficacy and safety were measured from the time of randomisation after completion of first line (induction) therapy.
+Patients received a median of 5 cycles of maintenance treatment with ALIMTA and 3.5 cycles of placebo.
+A total of 213 patients (48.3%) completed
+≥ 6 cycles and a total of 103 patients (23.4%) completed ≥ 10 cycles of treatment with ALIMTA.
+
+The study met its primary endpoint and showed a statistically significant improvement in PFS in the ALIMTA arm over the placebo arm (n = 581, independently reviewed population; median of 4.0 months and 2.0 months, respectively) (hazard ratio = 0.60, 95% CI: 0.49-0.73, p < 0.00001).
+The independent review of patient scans confirmed the findings of the investigator assessment of PFS.
+The median OS for the overall population (n = 663) was 13.4 months for the ALIMTA arm and 10.6 months for the placebo arm, hazard ratio = 0.79 (95% CI: 0.65 to 0.95; p = 0.01192).
+
+Consistent with other ALIMTA studies, a difference in efficacy according to NSCLC histology was observed in JMEN.
+For patients with NSCLC other than predominantly squamous cell histology (n= 430, independently reviewed population) median PFS was 4.4 months for the ALIMTA arm and 1.8 months for the placebo arm, hazard ratio = 0.47, 95% CI: 0.37-0.60, p= 0.00001.
+The median OS for patients with NSCLC other than predominantly squamous cell histology (n = 481) was 15.5 months for the ALIMTA arm and 10.3 months for the placebo arm (hazard ratio = 0.70, 95% CI: 0.56-0.88, p=0.002).
+Including the induction phase the median OS for patients with NSCLC other than predominantly squamous cell histology was 18.6 months for the ALIMTA arm and 13.6 months for the placebo arm (hazard ratio =0.71, 95% CI: 0.56-0.88, p=0.002).
+The PFS and OS results in patients with squamous cell histology suggested no advantage for ALIMTA over placebo.
+
+There were no clinically relevant differences observed for the safety profile of ALIMTA within the histology subgroups.
+
+Kaplan Meier Plots of Progression-Free Survival (PFS) and Overall Survival ALIMTA versus Placebo in Patients with NSCLC other than Predominantly Squamous Cell Histology:
+
+Progression-Free Survival Overall Survival
+1.0 1.0
+Pemetrexed
+0.9 Pemetrexed 0.9
+Placebo
+0.8 Placebo 0.8
+0.7 0.7
+0.6 0.6
+0.5 0.5
+0.4 0.4
+0.3 0.3
+0.2 0.2
+0.1 0.1
+0.0 0.0
+0 6 12 18 0 6 12 18 24 30 36 42
+PFS Time (months) Survival Time (months)
 
 [ALIMTA 500 mg powder for concentrate for solution for infusion]
 
