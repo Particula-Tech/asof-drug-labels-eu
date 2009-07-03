@@ -28,7 +28,6 @@ Further treatment with Remicade must not be given if a patient develops a seriou
 
 Caution should be exercised when considering the use of Remicade in patients with chronic infection or a history of recurrent infections, including concomitant immunosuppressive therapy.
 Patients should be advised of and avoid exposure to potential risk factors for infection as appropriate.
-
 Tumour necrosis factor alpha (TNFα) mediates inflammation and modulates cellular immune responses.
 Experimental data show that TNFα is essential for the clearing of intracellular infections.
 Clinical experience shows that host defence against infection is compromised in some patients treated with infliximab.
@@ -141,6 +140,5 @@ Others
 There is limited safety experience of Remicade treatment in patients who have undergone surgical procedures, including arthroplasty.
 The long half-life of infliximab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Remicade should be closely monitored for infections, and appropriate actions should be taken.
-
 Failure to respond to treatment for Crohn’s disease may indicate the presence of a fixed fibrotic stricture that may require surgical treatment.
 Available data suggest that infliximab does not worsen or cause strictures.

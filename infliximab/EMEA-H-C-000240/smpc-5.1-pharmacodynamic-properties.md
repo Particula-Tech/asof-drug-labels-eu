@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: tumour necrosis factor alpha (TNFα) inhibitors, ATC code: L04AB02.
-
 Pharmacodynamic properties
 
 Infliximab is a chimeric human-murine monoclonal antibody that binds with high affinity to both soluble and transmembrane forms of TNFα but not to lymphotoxin α (TNFß).
@@ -43,11 +42,11 @@ Patients received placebo, 3 mg/kg or 10 mg/kg infliximab at weeks 0, 2 and 6, a
 All patients were on stable methotrexate doses (median 15 mg/wk) for 6 months prior to enrolment and were to remain on stable doses throughout the study.
 Results from week 54 (ACR20, total van der Heijde-modified Sharp score and HAQ) are shown in Table 3.
 Higher degrees of clinical response (ACR50 and ACR70) were observed in all infliximab groups at 30 and 54 weeks compared with methotrexate alone.
+
 A reduction in the rate of the progression of structural joint damage (erosions and joint space narrowing) was observed in all infliximab groups at 54 weeks (Table 3).
 
 The effects observed at 54 weeks were maintained through 102 weeks.
 Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group cannot be defined.
-
 Table 3
 Effects on ACR20, Structural Joint Damage and Physical Function at week 54, ATTRACT
 
@@ -101,7 +100,8 @@ The primary endpoint was the proportion of patients who experienced a clinical r
 Patients who responded at week 4 were followed to week 12.
 Secondary endpoints included the proportion of patients in clinical remission at week 4 (CDAI < 150) and clinical response over time.
 
-At week 4, following administration of a single dose, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (16%) of the placebo-treated patients (p < 0.001).
+At week 4, following administration of a single dose, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (16%) of the placebo-treated patients
+(p < 0.001).
 Also at week 4, 13/27 (48%) of infliximab-treated patients achieved a clinical remission (CDAI < 150) vs. 1/25 (4%) of placebo-treated patients.
 A response was observed within 2 weeks, with a maximum response at 4 weeks.
 At the last observation at 12 weeks, 13/27 (48%) of infliximab-treated patients were still responding.
@@ -161,6 +161,7 @@ Beginning at week 14, patients who had responded to treatment, but subsequently 
 Eighty-nine percent (50/56) of patients who lost clinical response on infliximab 5 mg/kg maintenance therapy after week 14 responded to treatment with infliximab 10 mg/kg.
 
 Improvements in quality of life measures, a reduction in disease-related hospitalizations and corticosteroid use were seen in the infliximab maintenance groups compared with the placebo maintenance group at weeks 30 and 54.
+
 Induction treatment in fistulising active Crohn’s disease
 The efficacy was assessed in a randomised, double-blinded, placebo-controlled study in 94 patients with fistulising Crohn’s disease who had fistulae that were of at least 3 months’ duration.
 Thirty-one of these patients were treated with infliximab 5 mg/kg.
@@ -352,7 +353,6 @@ Psoriasis
 The efficacy of infliximab was assessed in two multicenter, randomised, double blind studies: SPIRIT and EXPRESS.
 Patients in both studies had plaque psoriasis (Body Surface Area [BSA] ≥10% and Psoriasis Area and Severity Index [PASI] score ≥12).
 The primary endpoint in both studies was the percent of patients who achieved ≥ 75% improvement in PASI from baseline at week 10.
-
 SPIRIT evaluated the efficacy of infliximab induction therapy in 249 patients with plaque psoriasis that had previously received PUVA or systemic therapy.
 Patients received either 3 or 5 mg/kg infliximab or placebo infusions at weeks 0, 2 and 6.
 Patients with a PGA score ≥3 were eligible to receive an additional infusion of the same treatment at week 26.
@@ -368,48 +368,16 @@ Prior therapy with PUVA, methotrexate, cyclosporin, or acitretin had been receiv
 Key results are presented in Table 9.
 In infliximab treated subjects, significant PASI 50 responses were apparent at the first visit (week 2) and PASI 75 responses by the second visit (week 6).
 Efficacy was similar in the subgroup of patients that were exposed to previous systemic therapies compared to the overall study population.
-
 Table 9
 Summary of PASI response, PGA response and percent of patients with all nails cleared at Weeks 10, 24 and 50.
 EXPRESS.
-Placebo →
-Infliximab
 
-5 mg/kg Infliximab
-(at week 24) 5 mg/kg
-
-Week 10
-
-N 77 301
-≥ 90% improvement 1 (1.3%) 172 (57.1%)a
-≥ 75% improvement 2 (2.6%) 242 (80.4%)a
-≥ 50% improvement 6 (7.8%) 274 (91.0%)
-PGA of cleared (0) or minimal (1) 3 (3.9%) 242 (82.9%)ab
-PGA of cleared (0), minimal (1), or mild (2) 14 (18.2%) 275 (94.2%)ab
-
-Week 24
-
-N 77 276
-≥ 90% improvement 1 (1.3%) 161 (58.3%)a
-≥ 75% improvement 3 (3.9%) 227 (82.2%)a
-≥ 50% improvement 5 (6.5%) 248 (89.9%)
-PGA of cleared (0) or minimal (1) 2 (2.6%) 203 (73.6%)a
-PGA of cleared (0), minimal (1), or mild (2) 15 (19.5%) 246 (89.1%)a
-
-Week 50
-
-N 68 281
-≥ 90% improvement 34 (50.0%) 127 (45.2%)
-≥ 75% improvement 52 (76.5%) 170 (60.5%)
-≥ 50% improvement 61 (89.7%) 193 (68.7%)
-PGA of cleared (0) or minimal (1) 46 (67.6%) 149 (53.0%)
-PGA of cleared (0), minimal (1), or mild (2) 59 (86.8%) 189 (67.3%)
-
-All nails cleared c
-
-Week 10 1/65(1.5%) 16/235 (6.8% )
-Week 24 3/65 (4.6%) 58/223 (26,0%) a
-Week 50 27/64 (42.2%) 92/226 (40.7%)
+|  | Placebo → Infliximab 5 mg/kg (at week 24) | Infliximab 5 mg/kg |
+| --- | --- | --- |
+| Week 10 N ≥ 90% improvement ≥ 75% improvement ≥ 50% improvement PGA of cleared (0) or minimal (1) PGA of cleared (0), minimal (1), or mild (2) Week 24 N ≥ 90% improvement ≥ 75% improvement ≥ 50% improvement PGA of cleared (0) or minimal (1) PGA of cleared (0), minimal (1), or mild (2) Week 50 N ≥ 90% improvement ≥ 75% improvement ≥ 50% improvement PGA of cleared (0) or minimal (1) PGA of cleared (0), minimal (1), or mild (2) All nails cleared c Week 10 Week 24 Week 50 | 77 1 (1.3%) 2 (2.6%) 6 (7.8%) 3 (3.9%) 14 (18.2%) | 301 172 (57.1%)a 242 (80.4%)a 274 (91.0%) 242 (82.9%)ab 275 (94.2%)ab |
+|  | 77 1 (1.3%) 3 (3.9%) 5 (6.5%) 2 (2.6%) 15 (19.5%) | 276 161 (58.3%)a 227 (82.2%)a 248 (89.9%) 203 (73.6%)a 246 (89.1%)a |
+|  | 68 34 (50.0%) 52 (76.5%) 61 (89.7%) 46 (67.6%) 59 (86.8%) | 281 127 (45.2%) 170 (60.5%) 193 (68.7%) 149 (53.0%) 189 (67.3%) |
+|  | 1/65(1.5%) 3/65 (4.6%) 27/64 (42.2%) | 16/235 (6.8% ) 58/223 (26,0%) a 92/226 (40.7%) |
 
 a: p < 0.001, for each infliximab treatment group vs. control b: n = 292 c: Analysis was based on subjects with nail psoriasis at baseline (81.8% of subjects).
 Mean baseline NAPSI scores were 4.6 and 4.3 in infliximab and placebo group.

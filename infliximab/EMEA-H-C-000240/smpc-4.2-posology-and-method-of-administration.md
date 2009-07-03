@@ -79,16 +79,22 @@ The safety and efficacy of re-administration after a Remicade-free interval of m
 This applies to both Crohn’s disease patients and rheumatoid arthritis patients.
 
 Re-administration for ulcerative colitis
-The safety and efficacy of re-administration, other than every 8 weeks, has not been established.
+The safety and efficacy of re-administration, other than every 8 weeks, has not been established (see sections 4.4 and 4.8).
 
 Re-administration for ankylosing spondylitis
-The safety and efficacy of re-administration, other than every 6 to 8 weeks, has not been established.
+The safety and efficacy of re-administration, other than every 6 to 8 weeks, has not been established (see sections 4.4 and 4.8).
 
 Re-administration for psoriatic arthritis
-The safety and efficacy of re-administration, other than every 8 weeks, has not been established.
+The safety and efficacy of re-administration, other than every 8 weeks, has not been established (see sections 4.4 and 4.8).
 
 Re-administration for psoriasis
 Limited experience from re-treatment with one single Remicade dose in psoriasis after an interval of 20 weeks suggests reduced efficacy and a higher incidence of mild to moderate infusion reactions when compared to the initial induction regimen (see section 5.1).
+
+Limited experience from re-treatment following disease flare by a re-induction regimen suggests a higher incidence of infusion reactions, including serious ones, when compared to 8-weekly maintenance treatment (see section 4.8).
+
+Re-administration across indications
+In case maintenance therapy is interrupted, and there is a need to restart treatment, use of a re-induction regimen is not recommended (see section 4.8).
+In this situation, Remicade should be re-initiated as a single dose followed by the maintenance dose recommendations described above.
 
 Elderly patients (≥ 65 years)
 
@@ -104,7 +110,6 @@ Some patients may require a shorter dosing interval to maintain clinical benefit
 Available data do not support further infliximab treatment in paediatric patients not responding within the first 10 weeks of treatment (see section 5.1).
 
 Remicade has not been studied in patients with Crohn’s disease below the age of 6 years.
-
 Due to insufficient data on safety and efficacy, Remicade is not recommended for use in any other paediatric indication (see section 4.8: “juvenile rheumatoid arthritis”).
 
 Impaired renal and/or hepatic function
