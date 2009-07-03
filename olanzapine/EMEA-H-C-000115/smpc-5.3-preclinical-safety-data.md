@@ -56,9 +56,9 @@ Clinical signs included sedation, ataxia, tremors, increased heart rate, laboure
 
 Reversible neutropenia, thrombocytopenia, or anaemia developed in a few dogs treated with 8 or 10 mg/kg/day (total olanzapine exposure [AUC] is 12- to 15-fold greater than that of a man given a 12-mg dose).
 In cytopenic dogs, there were no undesirable effects on progenitor and proliferating cells in the bone marrow.
-
 Oestrous cycles were affected at doses of 1.1 mg/kg (3 times the maximum human dose) and reproduction parameters were influenced in rats given 3 mg/kg (9 times the maximum human dose).
 In the offspring of rats given olanzapine, delays in foetal development and transient decreases in offspring activity levels were seen.
+
 Olanzapine was not mutagenic or clastogenic in a full range of standard tests, which included bacterial mutation tests and in vitro and oral in vivo mammalian tests.
 
 Based on the results of oral studies in mice and rats, it was concluded that olanzapine is not carcinogenic.

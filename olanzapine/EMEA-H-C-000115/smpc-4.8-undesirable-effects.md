@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Adults
-The most frequently (seen in ≥ 1% of patients ) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic transaminases (see section 4.4), rash, asthenia, fatigue and oedema.
+The most frequently (seen in ≥ 1% of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic transaminases (see section 4.4), rash, asthenia, fatigue and oedema.
 
 The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
@@ -19,7 +19,7 @@ The frequency terms listed are defined as follows: Very common (≥10%), common 
 | Nervous system disorders |  |  |  |
 | Somnolence | Dizziness Akathisia6 Parkinsonism6 Dyskinesia6 |  | Seizures where in most cases a history of seizures or risk factors for seizures were reported Neuroleptic malignant syndrome (see section 4.4) Dystonia (including oculogyration) Tardive dyskinesia Discontinuation symptoms7 |
 | Cardiac disorders |  |  |  |
-|  |  | Bradycardia QTc prolongation (see section 4.4) | Ventricular tachycardia/fibrillation, sudden death (see section 4.4) |
+|  |  | Bradycardia QTc prolongation (see section 4.4) | Ventricular tachycardia/fibrillatio n, sudden death (see section 4.4) |
 | Vascular disorders |  |  |  |
 |  | Orthostatic hypotension |  | Thromboembolism (including pulmonary embolism and deep vein thrombosis) |
 | Gastrointestinal disorders |  |  |  |
@@ -40,8 +40,9 @@ The frequency terms listed are defined as follows: Very common (≥10%), common 
 | Elevated plasma prolactin levels8 |  | High creatine phosphokinase Increased total bilirubin | Increased alkaline phosphatase |
 
 1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories.
-Weight gain ≥ 7% of baseline body weight was very common and ≥ 15% of baseline body weight was common.
-Patients gaining ≥ 25% of their baseline body weight with long-term exposure were very common.
+Following short term treatment (median duration 47 days), weight gain ≥ 7% of baseline body weight was very common (22.2 %), ≥ 15 % was common (4.2 %) and ≥ 25 % was uncommon (0.8 %).
+Patients gaining ≥ 7 %, ≥ 15 % and ≥ 25 % of their baseline body weight with long-term exposure (at least 48 weeks) were very common (64.4 %, 31.7 % and 12.3 % respectively).
+
 2 Mean increases in fasting lipid values (total cholesterol, LDL cholesterol, and triglycerides) were greater in patients without evidence of lipid dysregulation at baseline.
 
 3 Observed for fasting normal levels at baseline (< 5.17 mmol/l) which increased to high
@@ -67,7 +68,7 @@ In most patients, levels returned to normal ranges without cessation of treatmen
 
 Long-term exposure (at least 48 weeks)
 The proportion of patients who had adverse, clinically significant changes in weight gain, glucose, total/LDL/HDL cholesterol or triglycerides increased over time.
-In adult patients who completed 9-12 months of therapy, the rate of increase in mean blood glucose slowed after approximately 4-6 months.
+In adult patients who completed 9-12 months of therapy, the rate of increase in mean blood glucose slowed after approximately 6 months.
 
 Additional information on special populations
 In clinical trials in elderly patients with dementia, olanzapine treatment was associated with a higher incidence of death and cerebrovascular adverse reactions compared to placebo (see also section 4.4).
@@ -106,9 +107,8 @@ Very common: Elevations of hepatic transaminases (ALT/AST; see section 4.4).
 Investigations
 Very common: Decreased total bilirubin, increased GGT, elevated plasma prolactin levels12.
 
-9 Weight gain ≥ 7% of baseline body weight (kg) was very common and ≥ 15% of baseline body weight was common.
-With long-term exposure (at least 24 weeks), approximately half of adolescent patients gained ≥ 15% and almost a third gained ≥ 25% of their baseline body weight.
-Among adolescent patients, mean weight gain was greatest in patients who were overweight or obese at baseline.
+9 Following short term treatment (median duration 22 days), weight gain ≥ 7 % of baseline body weight (kg) was very common (40.6 %), ≥ 15 % of baseline body weight was common (7.1 %) and ≥ 25 % was common (2.5 %).
+With long-term exposure (at least 24 weeks), 89.4 % gained ≥ 7 %, 55.3 % gained ≥ 15 % and 29.1 % gained ≥ 25% of their baseline body weight.
 
 10 Observed for fasting normal levels at baseline (< 1.016 mmol/l) which increased to high
 (≥ 1.467 mmol/l) and changes in fasting triglycerides from borderline at baseline (≥ 1.016 mmol/l -
@@ -122,16 +122,21 @@ Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.3
 
 [ZYPREXA 5 mg coated tablets]
 
-The most frequently (seen in ≥ 1% of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic transaminases (see section 4.4), rash, asthenia, fatigue and oedema.
+Following short term treatment (median duration 47 days), weight gain ≥ 7% of baseline body weight was very common (22.2%), ≥ 15 % was common (4.2 %) and ≥ 25 % was uncommon (0.8 %)..
 
 Changes in total fasting cholesterol levels from borderline at baseline (≥ 5.17- < 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
 
 (≥ 10%) of tremor, dry mouth, increased appetite, and weight gain.
 Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥ 7% from baseline body weight in 39.9% of patients.
 
+9 Following short term treatment (median duration 22 days), weight gain ≥ 7 % of baseline body weight (kg) was very common (40.6 %), ≥ 15 % of baseline body weight was common (7.1 %) and ≥ 25 % was common (2.5%).
+With long-term exposure (at least 24 weeks), 89.4 % gained ≥ 7 %, 55.3 % gained ≥ 15 % and 29.1 % gained ≥ 25 % of their baseline body weight.
+
 [ZYPREXA 7.5 mg coated tablets]
 
-(all sentences already above)
+Following short term treatment (median duration 47 days), weight gain ≥ 7 % of baseline body weight was very common (22.2 %), ≥ 15 % was common (4.2 %) and ≥ 25 % was uncommon (0.8 %).
+
+9 Following short term treatment (median duration 22 days), weight gain ≥ 7% of baseline body weight (kg) was very common (40.6 %), ≥ 15 % of baseline body weight was common (7.1 %) and ≥ 25 % was common (2.5 %).
 
 [ZYPREXA 10 mg coated tablets.]
 
@@ -139,7 +144,9 @@ Long-term olanzapine treatment (up to 12 months) for recurrence prevention in pa
 
 [ZYPREXA 15 mg coated tablets]
 
-(all sentences already above)
+Following short term treatment (median duration 47 days), weight gain ≥ 7 % of baseline body weight was very common (22.2 %), ≥ 15% was common (4.2 %) and ≥ 25 % was uncommon (0.8 %).
+
+9 Following short term treatment (median duration 22 days), weight gain ≥ 7 % of baseline body weight (kg) was very common (40.6 %), ≥ 15% of baseline body weight was common (7.1 %) and ≥ 25 % was common (2.5 %).
 
 [ZYPREXA 20 mg coated tablets]
 

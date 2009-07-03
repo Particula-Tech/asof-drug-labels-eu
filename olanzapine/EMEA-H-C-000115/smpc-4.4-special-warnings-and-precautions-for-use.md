@@ -26,7 +26,7 @@ Neuroleptic Malignant Syndrome (NMS)
 NMS is a potentially life-threatening condition associated with antipsychotic medicinal product.
 Rare cases reported as NMS have also been received in association with olanzapine.
 Clinical manifestations of NMS are hyperpyrexia, muscle rigidity, altered mental status, and evidence of autonomic instability (irregular pulse or blood pressure, tachycardia, diaphoresis, and cardiac dysrhythmia).
-Additional signs may include elevated creatinine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
+Additional signs may include elevated creatine phosphokinase, myoglobinuria (rhabdomyolysis), and acute renal failure.
 If a patient develops signs and symptoms indicative of NMS, or presents with unexplained high fever without additional clinical manifestations of NMS, all antipsychotic medicines, including olanzapine must be discontinued.
 
 Hyperglycaemia and diabetes
@@ -94,17 +94,13 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 [ZYPREXA 5 mg coated tablets]
 
-Patients treated with any antipsychotic agents, including ZYPREXA should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia, and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control.
-
 Acute symptoms such as sweating, insomnia, tremor, anxiety, nausea, or vomiting have been reported very rarely (< 0.01%) when olanzapine is stopped abruptly.
 
 In clinical trials, clinically meaningful QTc prolongations (Fridericia QT correction [QTcF] ≥ 500 milliseconds [msec] at any time post baseline in patients with baseline QTcF< 500 msec) were uncommon (0.1% to 1%) in patients treated with olanzapine, with no significant differences in associated cardiac events compared to placebo.
 
-Lactose: ZYPREXA tablets contain lactose.
-
 [ZYPREXA 7.5 mg coated tablets]
 
-In cases where hepatitis (including hepatocellular, cholestatic or mixed liver injury) has been diagnosed, olanzapine treatment, should be discontinued.
+(all sentences already above)
 
 [ZYPREXA 10 mg coated tablets.]
 
