@@ -5,10 +5,10 @@ Aripiprazole is well absorbed, with peak plasma concentrations occurring within 
 Aripiprazole undergoes minimal pre-systemic metabolism.
 The absolute oral bioavailability of the tablet formulation is 87%.
 There is no effect of a high fat meal on the pharmacokinetics of aripiprazole.
-
 Distribution:
 Aripiprazole is widely distributed throughout the body with an apparent volume of distribution of 4.9 l/kg, indicating extensive extravascular distribution.
 At therapeutic concentrations, aripiprazole and dehydro-aripiprazole are greater than 99% bound to serum proteins, binding primarily to albumin.
+
 Metabolism:
 Aripiprazole is extensively metabolised by the liver primarily by three biotransformation pathways: dehydrogenation, hydroxylation, and N-dealkylation.
 Based on in vitro studies, CYP3A4 and CYP2D6 enzymes are responsible for dehydrogenation and hydroxylation of aripiprazole, and N-dealkylation is catalysed by CYP3A4.
