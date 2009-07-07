@@ -27,6 +27,18 @@ Such patients may be at increased risk for renal stone formation and associated 
 In addition, patients taking other medications associated with nephrolithiasis may be at increased risk.
 Increasing fluid intake and urine output may help reduce the risk of stone formation, particularly in those with predisposing risk factors.
 
+Hyperchloraemic, non-anion gap, metabolic acidosis (i.e. decreased serum bicarbonate below the normal reference range in the absence of chronic respiratory alkalosis) is associated with Zonegran treatment.
+This metabolic acidosis is caused by renal bicarbonate loss due to the inhibitory effect of zonisamide on carbonic anhydrase.
+Such electrolyte imbalance has been observed with the use of Zonegran in placebo-controlled clinical trials and in the post-marketing period.
+Generally, zonisamide-induced metabolic acidosis occurs early in treatment although cases can occur at any time during treatment.
+The amounts by which bicarbonate is decreased are usually small – moderate (average decrease of approximately 3.5 mEq/ L at daily doses of 300 mg in adults); rarely patients can experience more severe decreases.
+Conditions or therapies that predispose to acidosis (such as renal disease, severe respiratory disorders, status epilepticus, diarrhoea, surgery, ketogenic diet, or drugs) may be additive to the bicarbonate lowering effects of zonisamide.
+
+The risk of zonisamide induced metabolic acidosis appears to be more frequent and severe in younger patients.
+Appropriate evaluation and monitoring of serum bicarbonate levels should be carried out in patients taking zonisamide who have underlying conditions which might increase the risk of acidosis, in patients who are at an increased risk of adverse consequences of metabolic acidosis and in patients with symptoms suggestive of metabolic acidosis.
+If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing Zonegran (by gradual discontinuation or reduction of a therapeutic dose).
+If the decision is made to continue patients on Zonegran in the face of persistent acidosis, alkali treatment should be considered.
+
 Zonegran should be used with caution in patients being treated concomitantly with carbonic anhydrase inhibitors such as topiramate, as there are insufficient data to rule out a pharmacodynamic interaction (see Section 4.5).
 
 Cases of decreased sweating and elevated body temperature have been reported mainly in paediatric patients.

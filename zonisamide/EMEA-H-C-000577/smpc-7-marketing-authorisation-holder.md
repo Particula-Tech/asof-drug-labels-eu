@@ -1,7 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Eisai Limited
-3 Shortlands
-London
-W6 8EE
+European Knowledge Centre
+Mosquito Way
+Hatfield, Hertfordshire, AL10 9SN
 United Kingdom

@@ -22,7 +22,7 @@ very rare < 1/10,000 including isolated reports
 | Infections and infestation |  |  | Pneumonia Urinary tract infection |  |
 | Blood and lymphatic system disorders |  | Ecchymosis |  | Agranulocytosis Aplastic anaemia Leucocytosis Leucopoenia Lymphadenopathy Pancytopenia, Thrombocytopenia |
 | Immune system disorders |  | Hypersensitivity |  |  |
-| Metabolism and nutrition disorders | Anorexia |  | Hypokalaemia | Metabolic acidosis |
+| Metabolism and nutrition disorders | Anorexia |  | Hypokalaemia | Metabolic acidosis Renal tubular acidosis |
 | Psychiatric Disorders | Agitation Irritability Confusional state Depression | Affect lability Anxiety Insomnia Psychotic disorder | Anger Aggression Suicidal ideation Suicide attempt | Hallucination |
 | Nervous system disorders | Ataxia Dizziness Memory impairment Somnolence | Bradyphrenia Disturbance in attention Nystagmus Paraesthesia Speech disorder Tremor | Convulsion | Amnesia Coma Grand mal seizure Myasthenic syndrome Neuroleptic malignant syndrome Status epilepticus |
 | Eye disorders | Diplopia |  |  |  |

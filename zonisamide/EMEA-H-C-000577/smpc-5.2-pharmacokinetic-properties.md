@@ -13,7 +13,6 @@ Steady state was achieved within 13 days.
 Slightly greater than expected accumulation occurs relative to single dosing.
 
 Distribution
-
 Zonisamide is 40 - 50 % bound to human plasma proteins, with in vitro studies showing that this is unaffected by the presence of various antiepileptic medicinal products (i.e., phenytoin, phenobarbitone, carbamazepine, and sodium valproate).
 The apparent volume of distribution is about 1.1 – 1.7 l/kg in adults indicating that zonisamide is extensively distributed to tissues.
 Erythrocyte/plasma ratios are about 15 at low concentrations and about 3 at higher concentrations.
