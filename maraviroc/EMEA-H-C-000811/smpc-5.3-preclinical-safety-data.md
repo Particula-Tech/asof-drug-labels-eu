@@ -2,6 +2,7 @@
 
 Primary pharmacological activity (CCR5 receptor affinity) was present in the monkey (100% receptor occupancy) and limited in the mouse, rat, rabbit and dog.
 In mice and human beings that lack CCR5 receptors through genetic deletion, no significant adverse consequences have been reported.
+
 In vitro and in vivo studies showed that maraviroc has a potential to increase QTc interval at supratherapeutic doses with no evidence of arrhythmia.
 
 Repeated dose toxicity studies in rats identified the liver as the primary target organ for toxicity (increases in transaminases, bile duct hyperplasia, necrosis).

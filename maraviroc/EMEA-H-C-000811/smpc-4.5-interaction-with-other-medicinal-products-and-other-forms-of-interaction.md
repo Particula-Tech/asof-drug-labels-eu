@@ -16,7 +16,6 @@ As both passive and active processes are involved, there is the potential for co
 However, co-administration of CELSENTRI with tenofovir (substrate for renal elimination) and Cotrimoxazole (contains trimethoprim, a renal cation transport inhibitor), showed no effect on the pharmacokinetics of maraviroc.
 In addition, co-administration of CELSENTRI with lamivudine/zidovudine showed no effect of maraviroc on lamivudine (primarily renally cleared) or zidovudine (non-P450 metabolism and renal clearance) pharmacokinetics.
 In vitro results indicate that maraviroc could inhibit P-glycoprotein in the gut and may thus affect bioavailability of certain drugs.
-
 Table 2.
 Interactions and dose recommendations with other medical products
 
@@ -39,8 +38,8 @@ Interactions and dose recommendations with other medical products
 | Darunavir/ritonavir 600 mg/100 mg BID (maraviroc 150 mg BID) | Maraviroc AUC12 ↑ 4.05 (2.10, 21.2) Maraviroc Cmax: ↑ 2.29 (0.74, 17.8) Darunavir/ritonavir concentrations were consistent with historical data. |  |
 | Nelfinavir | Limited data are available for co-administration with nelfinavir. Nelfinavir is a potent CYP3A4 inhibitor and would be expected to increase maraviroc concentrations. |  |
 | Indinavir | Limited data are available for co-administration with indinavir. Indinavir is a potent CYP3A4 inhibitor. Population PK analysis in phase 3 studies suggests dose reduction of maraviroc when coadministered with indinavir gives appropriate maraviroc exposure. |  |
-| Fosamprenavir/ritonavir | Fosamprenavir is considered to be a moderate CYP3A4 inhibitor. Population PK studies suggest that a dose adjustment of maraviroc is not required. | CELSENTRI 300 mg twice daily and tipranavir/ritonavir or fosamprenavir/ritonavir can be co-administered without dose |
-| Tipranavir/ritonavir 500 mg/200 mg BID (maraviroc 150 mg BID) | Maraviroc AUC12 ↔ 1.02 (0.65, 1.87) Maraviroc Cmax: ↔ 0.86 (0.37, 3.20) Tipranavir/ritonavir concentrations were consistent with historical data. | adjustment. |
+| Fosamprenavir/ritonavir | Fosamprenavir is considered to be a moderate CYP3A4 inhibitor. Population PK studies suggest that a dose adjustment of maraviroc is not required. | CELSENTRI 300 mg twice daily and tipranavir/ritonavir or fosamprenavir/ritonavir can be co-administered without dose adjustment. |
+| Tipranavir/ritonavir 500 mg/200 mg BID (maraviroc 150 mg BID) | Maraviroc AUC12 ↔ 1.02 (0.65, 1.87) Maraviroc Cmax: ↔ 0.86 (0.37, 3.20) Tipranavir/ritonavir concentrations were consistent with historical data. |  |
 | NNRTI + PI |  |  |
 | Efavirenz 600 mg QD + lopinavir/ritonavir 400mg/100 mg BID (maraviroc 300 mg BID) | Maraviroc AUC12: ↑ 2.53 (1.71, 3.15) Maraviroc Cmax: ↑ 1.25 (0.87, 2.82) Efavirenz, lopinavir/ritonavir concentrations not measured, no effect expected. | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with efavirenz in the presence of a PI (except fosamprenavir/ritonavir where the dose should be 300 mg twice daily). |
 | Efavirenz 600 mg QD + saquinavir/ritonavir 1000 mg/100 mg BID (maraviroc 100 mg BID) | Maraviroc AUC12: ↑ 5.00 (3.04, 6.31) Maraviroc Cmax: ↑ 2.26 (0.68, 4.09) Efavirenz, saquinavir/ritonavir concentrations not measured, no effect expected. |  |

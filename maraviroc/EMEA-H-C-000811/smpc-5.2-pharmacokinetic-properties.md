@@ -12,6 +12,7 @@ Therefore, CELSENTRI can be taken with or without food at the recommended doses 
 
 Distribution: maraviroc is bound (approximately 76%) to human plasma proteins, and shows moderate affinity for albumin and alpha-1 acid glycoprotein.
 The volume of distribution of maraviroc is approximately 194 L.
+
 Metabolism: studies in humans and in vitro studies using human liver microsomes and expressed enzymes have demonstrated that maraviroc is principally metabolized by the cytochrome P450 system to metabolites that are essentially inactive against HIV-1.
 In vitro studies indicate that CYP3A4 is the major enzyme responsible for maraviroc metabolism.
 In vitro studies also indicate that polymorphic enzymes CYP2C9, CYP2D6 and CYP2C19 do not contribute significantly to the metabolism of maraviroc.
@@ -34,7 +35,6 @@ Elderly: population analysis of the Phase 1/2a and Phase 3 studies (16-65 years 
 Renal impairment: the pharmacokinetics of maraviroc have not been studied in patients with renal impairment.
 However, renal clearance contributes less than 25% of maraviroc total clearance in the absence of CYP3A4 inhibitors, therefore the impact of renal impairment on maraviroc elimination should be minimal.
 In the presence of metabolic inhibitors, renal clearance may account for up to 70% of total clearance of maraviroc and hence renal impairment may result in increased maraviroc exposures in this case (see sections 4.2 and 4.4).
-
 Hepatic impairment: maraviroc is primarily metabolized and eliminated by the liver.
 A study compared the pharmacokinetics of a single 300 mg dose of CELSENTRI in patients with mild (Child-Pugh Class A, n=8), and moderate (Child-Pugh Class B, n=8) hepatic impairment compared to healthy subjects (n=8).
 Geometric mean ratios for Cmax and AUClast were 11% and 25% higher respectively for subjects with mild hepatic impairment, and 32% and 46% higher respectively for subjects with moderate hepatic impairment compared to subjects with normal hepatic function.
