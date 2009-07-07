@@ -67,6 +67,4 @@ There are insufficient data at this time to recommend a dose (see section 4.2).
 
 Co-administration of a single 300 mg dose of REYATAZ and 100 mg dose of ritonavir with a light meal resulted in a 33% increase in the AUC and a 40% increase in both the Cmax and the 24-hour concentration of atazanavir relative to the fasting state.
 
-There are no pharmacokinetic data available on patients with renal insufficiency (see section 4.2); however, the impact of renal impairment on atazanavir elimination is anticipated to be minimal.
-
 Concentrations of atazanavir with or without ritonavir are expected to be increased in patients with moderately or severely impaired hepatic function (see sections 4.2, 4.3 and 4.4).

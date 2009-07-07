@@ -101,6 +101,8 @@ The absorption of atazanavir may be reduced in situations where gastric pH is in
 Co-administration of REYATAZ with proton pump inhibitors is not recommended (see section 4.5).
 If the combination of REYATAZ with a proton pump inhibitor is judged unavoidable, close clinical monitoring is recommended in combination with an increase in the dose of REYATAZ to 400 mg with 100 mg of ritonavir; doses of proton pump inhibitors comparable to omeprazole 20 mg should not be exceeded.
 
+Co-administration of REYATAZ/ritonavir in combination with tenofovir and an H2-receptor antagonist should be avoided (see section 4.5).
+
 Lactose
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 

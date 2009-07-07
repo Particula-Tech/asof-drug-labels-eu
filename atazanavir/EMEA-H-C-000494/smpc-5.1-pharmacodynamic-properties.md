@@ -18,9 +18,9 @@ While it may contribute to decreased susceptibility to atazanavir when it occurs
 Table 2.
 De novo substitutions in treatment naive patients failing therapy with atazanavir + ritonavir (Study 138, 96 weeks)
 
-| Frequency | de novo PI substitution (n=26)a |
-| --- | --- |
-| >20% 10-20% | none none |
+Frequency de novo PI substitution (n=26)a
+>20% none
+10-20% none
 
 a Number of patients with paired genotypes classified as virological failures (HIV RNA ≥ 400 copies/ml).
 
@@ -29,13 +29,14 @@ The M184I/V substitution emerged in 5/26 REYATAZ/ritonavir and 7/26 lopinavir/ri
 Antiretroviral treatment experienced patients
 In antiretroviral treatment experienced patients from Studies 009, 043, and 045, 100 isolates from patients designated as virological failures on therapy that included either atazanavir, atazanavir + ritonavir, or atazanavir + saquinavir were determined to have developed resistance to atazanavir.
 Of the 60 isolates from patients treated with either atazanavir or atazanavir + ritonavir, 18 (30%) displayed the I50L phenotype previously described in naive patients.
+
 Table 3.
 De novo substitutions in treatment experienced patients failing therapy with atazanavir
 + ritonavir (Study 045, 48 weeks)
 
-| Frequency | de novo PI substitution (n=35)a,b |
-| --- | --- |
-| >20% 10-20% | M36, M46, I54, A71, V82 L10, I15, K20, V32, E35, S37, F53, I62, G73, I84, L90 |
+Frequency de novo PI substitution (n=35)a,b
+>20% M36, M46, I54, A71, V82
+10-20% L10, I15, K20, V32, E35, S37, F53, I62, G73, I84, L90
 
 a Number of patients with paired genotypes classified as virological failures (HIV RNA ≥ 400 copies/ml).
 b Ten patients had baseline phenotypic resistance to atazanavir + ritonavir (fold change [FC]>5.2).
@@ -146,13 +147,5 @@ REYATAZ + saquinavir was shown to be inferior to lopinavir + ritonavir.
 (all sentences already above)
 
 [REYATAZ 50 mg/1.5 g oral powder]
-
-Frequency de novo PI substitution (n=26)a
->20% none
-10-20% none
-
-Frequency de novo PI substitution (n=35)a,b
->20% M36, M46, I54, A71, V82
-10-20% L10, I15, K20, V32, E35, S37, F53, I62, G73, I84, L90
 
 a Mean baseline CD4 cell count was 214 cells/mm3 (range 2 to 810 cells/mm3 and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/ml (range 2.6 to 5.88 log10 copies/ml) b REYATAZ/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
