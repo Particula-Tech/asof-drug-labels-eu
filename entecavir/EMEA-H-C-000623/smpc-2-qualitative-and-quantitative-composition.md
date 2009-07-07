@@ -16,6 +16,6 @@ Excipients: each tablet contains 241 mg lactose.
 
 Each ml oral solution contains 0.05 mg entecavir (as monohydrate).
 
-Excipient: 650 mg maltitol liquid/ml
-2 mg methylhydroxybenzoate/ml
-0.28 mg propylhydroxybenzoate/ml
+Excipient: 380 mg maltitol/ml
+1.5 mg methylhydroxybenzoate/ml
+0.18 mg propylhydroxybenzoate/ml

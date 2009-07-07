@@ -69,9 +69,7 @@ Lactose: this medicinal product contains 241 mg of lactose in each 1 mg daily do
 Resistance and specific precaution for lamivudine-refractory patients: mutations in the HBV polymerase that encode lamivudine-resistance substitutions may lead to the subsequent emergence of secondary substitutions, including those associated with entecavir associated resistance (ETVr). ).
 Patients with lamivudine-resistant HBV are at higher risk of developing subsequent entecavir resistance than patients without lamivudine-resistance .
 
-Maltitol: Baraclude oral solution contains maltitol (13 g maltitol liquid per 20 ml dose).
-Baraclude may have a mild laxative effect.
-Calorific value 2.3 kcal/g maltitol.
+Maltitol: Baraclude oral solution contains maltitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
 Baraclude tablets do not contain maltitol and can be taken by patients with fructose intolerance.
 

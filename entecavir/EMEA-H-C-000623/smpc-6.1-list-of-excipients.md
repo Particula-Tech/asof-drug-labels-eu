@@ -19,7 +19,7 @@ Iron oxide red
 
 [Baraclude 0.05 mg/ml oral solution]
 
-Maltitol liquid (E965)
+Maltitol (E965)
 Sodium citrate
 Citric acid, anhydrous
 Methylhydroxybenzoate (E218)
