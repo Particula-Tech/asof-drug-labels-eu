@@ -57,8 +57,9 @@ Parkinson’s disease and dementia with Lewy bodies
 Physicians should weigh the risks versus the benefits when prescribing antipsychotic medicinal products, including INVEGA, to patients with Parkinson’s Disease or Dementia with Lewy Bodies (DLB) since both groups may be at increased risk of Neuroleptic Malignant Syndrome as well as having an increased sensitivity to antipsychotics.
 Manifestation of this increased sensitivity can include confusion, obtundation, postural instability with frequent falls, in addition to extrapyramidal symptoms.
 Priapism
-Medicines with alpha-adrenergic blocking effects have been reported to induce priapism.
-Although no cases of priapism have been reported in clinical trials with INVEGA, paliperidone shares this pharmacologic activity and, therefore, may be associated with this risk.
+Antipsychotic drugs (including risperidone) with α-adrenergic blocking effects have been reported to induce priapism.
+During post-marketing surveillance priapism has also been reported with paliperidone, which is the active metabolite of risperidone.
+Patients should be informed to seek urgent medical care in case that priapism has not been resolved within 3-4 hours.
 
 Body temperature regulation
 Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic medicines.

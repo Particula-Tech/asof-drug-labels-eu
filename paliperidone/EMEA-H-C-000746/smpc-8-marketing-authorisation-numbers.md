@@ -1,5 +1,7 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
+EU/1/07/395/077-095
+
 [INVEGA 3 mg prolonged-release tablets]
 
 EU/1/07/395/001-005

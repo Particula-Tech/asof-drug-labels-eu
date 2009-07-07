@@ -4,31 +4,29 @@ The most frequently reported adverse drug reactions (ADRs) reported in clinical 
 
 The ADRs that appeared to be dose-related included weight increased, headache, salivary hypersecretion, vomiting, dyskinesia, akathisia, dystonia, extrapyramidal disorder, hypertonia, and Parkinsonism.
 
-The following are all ADRs that were reported in INVEGA-treated subjects in clinical trials.
-The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to
-< 1/10), uncommon (≥ 1/1000 to < 1/100), rare (≥ 1/10,000 to < 1/1000), and very rare (< 1/10,000).
+The following are all ADRs that were reported in clinical trials and postmarketing.
+The following terms and frequencies are applied: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1000 to < 1/100), rare (≥ 1/10,000 to < 1/1000), very rare (< 1/10,000) and not known (cannot be estimated from the available clinical trial data).
+
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-| System Organ Class | Adverse Drug Reaction |  |  |
-| --- | --- | --- | --- |
-|  | Frequency |  |  |
-|  | Very common | Common | Uncommon |
-| Immune system disorders |  |  | anaphylactic reaction |
-| Metabolism and nutrition disorders |  |  | increased appetite |
-| Psychiatric disorders |  |  | nightmare |
-| Nervous system disorders | headache | extrapyramidal disorder, parkinsonism, tremor, hypertonia, dystonia, akathisia, dizziness, sedation, somnolence, | grand mal convulsion, syncope, dyskinesia, dizziness postural |
-| Eye disorders |  |  | oculogyration |
-| Cardiac disorders |  | tachycardia, sinus tachycardia, bundle branch block, atrioventricular block first degree, bradycardia | palpitations, sinus arrhythmia |
-| Vascular disorders |  | orthostatic hypotension | ischaemia, hypotension, |
-| Gastrointestinal disorders |  | vomiting, abdominal pain upper, salivary hypersecretion, dry mouth, |  |
-| Musculoskeletal, connective tissue and bone disorders |  |  | muscle rigidity |
-| Reproductive system and breast disorders |  |  | amenorrhoea, galactorrhoea, erectile dysfunction, gynaecomastia, breast discharge, menstruation irregular |
-| General disorders |  | asthenia, fatigue | oedema |
-| Investigations |  | weight increased | electrocardiogram abnormal |
+| System Organ Class | Adverse Drug Reaction Frequency |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Very common | Common | Uncommon | Not Known |
+| Immune system disorders |  |  | anaphylactic reaction |  |
+| Metabolism and nutrition disorders |  |  | increased appetite |  |
+| Psychiatric disorders |  |  | nightmare |  |
+| Nervous system disorders | headache | extrapyramidal disorder, parkinsonism, tremor, hypertonia, dystonia, akathisia, dizziness, sedation, somnolence, | grand mal convulsion, syncope, dyskinesia, dizziness postural |  |
+| Eye disorders |  |  | oculogyration |  |
+| Cardiac disorders |  | tachycardia, sinus tachycardia, bundle branch block, atrioventricular block first degree, bradycardia | palpitations, sinus arrhythmia |  |
+| Vascular disorders |  | orthostatic hypotension | ischaemia, hypotension, |  |
+| Gastrointestinal disorders |  | vomiting, abdominal pain upper, salivary hypersecretion, dry mouth, |  |  |
+| Musculoskeletal , connective tissue and bone disorders |  |  | muscle rigidity |  |
+| Reproductive system and breast disorders |  |  | amenorrhoea, galactorrhoea, erectile dysfunction, gynaecomastia, breast discharge, menstruation irregular | priapism |
+| General disorders |  | asthenia, fatigue | oedema |  |
+| Investigations |  | weight increased | electrocardiogram abnormal |  |
 
 Paliperidone is an active metabolite of risperidone.
 The following is a list of additional ADRs that have been reported with risperidone.
-
 System Organ Class Adverse Drug Reaction
 Infections and infestations acarodermatitis, bronchitis, bronchopneumonia, cellulitis, cystitis, ear infection, eye infection, influenza, localised infection, nasopharyngitis, onychomycosis, otitis media, otitis media chronic, pharyngitis, pneumonia, respiratory tract infection, rhinitis, sinusitis, tonsillitis, tracheobronchitis, upper respiratory tract infection, urinary tract infection, viral infection
 Blood and lymphatic anaemia, granulocytopenia, neutropenia, thrombocytopenia system disorders
@@ -69,9 +67,9 @@ Renal and urinary dysuria, enuresis, pollakiuria, urinary incontinence
 disorders
 Reproductive system and breast enlargement, ejaculation disorder, ejaculation failure,
 
-breast disorders menstrual disorder, priapism, retrograde ejaculation, sexual
+breast disorders menstrual disorder, retrograde ejaculation, sexual dysfunction,
 
-dysfunction, vaginal discharge
+vaginal discharge
 
 General disorders adverse drug reaction, chest discomfort, chest pain, chills,
 
@@ -80,6 +78,7 @@ discomfort, drug withdrawal syndrome, face oedema, feeling abnormal, gait distur
 Investigations alanine aminotransferase increased, aspartate aminotransferase
 
 increased, blood creatine phosphokinase increased, blood glucose increased, blood pressure decreased, blood prolactin increased, body temperature decreased, body temperature increased, electrocardiogram QT prolonged, eosinophil count increased, haematocrit decreased, haemoglobin decreased, heart rate increased, transaminases increased, white blood cell count decreased
+
 Elderly
 In a study conducted in elderly subjects with schizophrenia, the safety profile was similar to that seen in non-elderly subjects.
 INVEGA has not been studied in elderly patients with dementia.
@@ -105,76 +104,30 @@ QT prolongation, ventricular arrythmias (ventricular fibrillation, ventricular t
 
 [INVEGA 3 mg prolonged-release tablets]
 
-| System Organ Class | Adverse Drug Reaction |  |  |
-| --- | --- | --- | --- |
-|  | Frequency |  |  |
-|  | Very common | Common | Uncommon |
-| Immune system disorders |  |  | anaphylactic reaction |
-| Metabolism and nutrition disorders |  |  | increased appetite |
-| Psychiatric disorders |  |  | nightmare |
-| Nervous system disorders | headache | extrapyramidal disorder, parkinsonism, tremor, hypertonia, dystonia, akathisia, dizziness, sedation, somnolence, | grand mal convulsion, syncope, dyskinesia,dizziness postural, , |
-| Eye disorders |  |  | oculogyration |
-| Cardiac disorders |  | Tachycardia, sinus tachycardia, bundle branch block,atrioventricular block first degree, bradycardia, | palpitations, sinus arrhythmia |
-| Vascular disorders |  | orthostatic hypotension | ischaemia, hypotension, |
-| Gastrointestinal disorders |  | vomiting, abdominal pain upper, salivary hypersecretion, dry mouth, |  |
-| Musculoskeletal, connective tissue and bone disorders |  |  | muscle rigidity |
-| Reproductive system and breast disorders |  |  | amenorrhoea, galactorrhoea, erectile dysfunction, gynaecomastia, breast discharge, menstruation irregular |
-| General disorders |  | asthenia, fatigue | oedema |
-| Investigations |  | weight increased | electrocardiogram abnormal |
+| System Organ Class | Adverse Drug Reaction Frequency |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Very common | Common | Uncommon | Not Known |
+| Immune system disorders |  |  | anaphylactic reaction |  |
+| Metabolism and nutrition disorders |  |  | increased appetite |  |
+| Psychiatric disorders |  |  | nightmare |  |
+| Nervous system disorders | headache | extrapyramidal disorder, parkinsonism, tremor, hypertonia, dystonia, akathisia, dizziness, sedation, somnolence, | grand mal convulsion, syncope, dyskinesia, dizziness postural |  |
+| Eye disorders |  |  | oculogyration |  |
+| Cardiac disorders |  | tachycardia, sinus tachycardia, bundle branch block, atrioventricular block first degree, bradycardia | palpitations, sinus arrhythmia |  |
+| Vascular disorders |  | orthostatic hypotension | ischaemia, hypotension, |  |
+| Gastrointestinal disorders |  | vomiting, abdominal pain upper, salivary hypersecretion, dry mouth, |  |  |
+| Musculoskeletal, connective tissue and bone disorders |  |  | muscle rigidity |  |
+| Reproductive system and breast disorders |  |  | amenorrhoea, galactorrhoea, erectile dysfunction, gynaecomastia, breast discharge, menstruation irregular | priapism |
+| General disorders |  | asthenia, fatigue | oedema |  |
+| Investigations |  | weight increased | electrocardiogram abnormal |  |
 
 [INVEGA 6 mg prolonged-release tablets]
 
-| System Organ Class | Adverse Drug Reaction |  |  |
-| --- | --- | --- | --- |
-|  | Frequency |  |  |
-|  | Very common | Common | Uncommon |
-| Immune system disorders |  |  | anaphylactic reaction |
-| Metabolism and nutrition disorders |  |  | increased appetite |
-| Psychiatric disorders |  |  | nightmare |
-| Nervous system disorders | headache | extrapyramidal disorder, parkinsonism, tremor, hypertonia, dystonia, akathisia, dizziness, , sedation, somnolence, | grand mal convulsion, syncope, dyskinesia,, dizziness postural, |
-| Eye disorders |  |  | oculogyration |
-| Cardiac disorders |  | tachycardia, sinus tachycardia, bundle branch block, atrioventricular block first degree, bradycardia, | palpitations, sinus arrhythmia |
-| Vascular disorders |  | orthostatic hypotension | ischaemia, hypotension, |
-| Gastrointestinal disorders |  | vomiting, abdominal pain upper, salivary hypersecretion, dry mouth, |  |
-| Musculoskeletal, connective tissue and bone disorders |  |  | muscle rigidity |
-| Reproductive system and breast disorders |  |  | amenorrhoea, galactorrhoea, erectile dysfunction, gynaecomastia, breast discharge, menstruation irregular |
-| General disorders |  | asthenia, fatigue | oedema |
-| Investigations |  | weight increased | electrocardiogram abnormal |
+(all sentences already above)
 
 [INVEGA 9 mg prolonged-release tablets]
 
-| System Organ Class | Adverse Drug Reaction |  |  |
-| --- | --- | --- | --- |
-|  | Frequency |  |  |
-|  | Very common | Common | Uncommon |
-| Immune system disorders |  |  | anaphylactic reaction |
-| Metabolism and nutrition disorders |  |  | increased appetite |
-| Psychiatric disorders |  |  | nightmare |
-| Nervous system disorders | headache | extrapyramidal disorder, parkinsonism, tremor, hypertonia, dystonia, akathisia, dizziness, sedation, somnolence, | grand mal convulsion, syncope, dyskinesia, dizziness postural, |
-| Eye disorders |  |  | oculogyration |
-| Cardiac disorders |  | tachycardia, sinus tachycardia, bundle branch block, atrioventricular block first degree, bradycardia, | palpitations, sinus arrhythmia |
-| Vascular disorders |  | orthostatic hypotension | ischaemia, hypotension, |
-| Gastrointestinal disorders |  | vomiting, abdominal pain upper, salivary hypersecretion, dry mouth, |  |
-| Musculoskeletal, connective tissue and bone disorders |  |  | muscle rigidity |
-| Reproductive system and breast disorders |  |  | amenorrhoea, galactorrhoea, erectile dysfunction, gynaecomastia, breast discharge, , menstruation irregular |
-| General disorders |  | asthenia, fatigue | oedema |
-| Investigations |  | weight increased | electrocardiogram abnormal |
+(all sentences already above)
 
 [INVEGA 12 mg prolonged-release tablets]
 
-| System Organ Class | Adverse Drug Reaction |  |  |
-| --- | --- | --- | --- |
-|  | Frequency |  |  |
-|  | Very common | Common | Uncommon |
-| Immune system disorders |  |  | anaphylactic reaction |
-| Metabolism and nutrition disorders |  |  | increased appetite |
-| Psychiatric disorders |  |  | nightmare |
-| Nervous system disorders | headache | extrapyramidal disorder, parkinsonism, tremor, hypertonia, dystonia, akathisia, dizziness, sedation, somnolence, | grand mal convulsion, syncope, dyskinesia, dizziness postural |
-| Eye disorders |  |  | oculogyration |
-| Cardiac disorders |  | tachycardia, sinus tachycardia, bundle branch block, atrioventricular block first degree, bradycardia, | palpitations, sinus arrhythmia |
-| Vascular disorders |  | orthostatic hypotension | ischaemia, hypotension, |
-| Gastrointestinal disorders |  | vomiting, abdominal pain upper, salivary hypersecretion, dry mouth, |  |
-| Musculoskeletal, connective tissue and bone disorders |  |  | muscle rigidity |
-| Reproductive system and breast disorders |  |  | amenorrhoea, galactorrhoea, erectile dysfunction, gynaecomastia, breast discharge, menstruation irregular |
-| General disorders |  | asthenia, fatigue | oedema |
-| Investigations |  | weight increased | electrocardiogram abnormal |
+(all sentences already above)
