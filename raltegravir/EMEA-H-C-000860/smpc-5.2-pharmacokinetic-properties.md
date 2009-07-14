@@ -53,6 +53,7 @@ Renal impairment
 Renal clearance of unchanged medicinal product is a minor pathway of elimination.
 There were no clinically important pharmacokinetic differences between patients with severe renal insufficiency and healthy subjects (see section 4.2).
 Because the extent to which ISENTRESS may be dialysable is unknown, dosing before a dialysis session should be avoided.
+
 Hepatic impairment
 Raltegravir is eliminated primarily by glucuronidation in the liver.
 There were no clinically important pharmacokinetic differences between patients with moderate hepatic insufficiency and healthy subjects.

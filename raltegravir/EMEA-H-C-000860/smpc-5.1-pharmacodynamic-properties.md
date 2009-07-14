@@ -83,7 +83,3 @@ Long-term efficacy data of ISENTRESS 400 mg b.i.d. in treatment-experienced pati
 At week 24, 71 % of patients receiving ISENTRESS 400 mg b.i.d. maintained HIV RNA < 400 copies/ml and 56 % also maintained HIV RNA < 50 copies/ml.
 Through 48 weeks of treatment, 64 % receiving ISENTRESS 400 mg b.i.d. maintained HIV RNA < 400 copies/ml and 46 % also maintained HIV RNA
 < 50 copies/ml.
-
-This medicinal product has been authorised under a so-called “conditional approval” scheme.
-This means that further evidence on this medicinal product is awaited.
-The European Medicines Agency (EMEA) will review new information on the product every year and this SPC will be updated as necessary.
