@@ -26,7 +26,6 @@ Efficacy results are provided in Table 2.
 In a second study including solid tumours other than breast or prostate cancer, Zometa 4 mg significantly reduced the proportion of patients with an SRE, delayed the median time to first SRE by > 2 months, and reduced the skeletal morbidity rate.
 Multiple event analysis showed 30.7% risk reduction in developing SREs in the Zometa group compared with placebo.
 Efficacy results are provided in Table 3.
-
 Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -43,35 +42,27 @@ Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 | p-value | 0.002 |  | NA |  | NA |  |
 
 * Includes vertebral and non-vertebral fractures
-** Accounts for all skeletal events, the total number as well as time to each event during the trial
-NR Not Reached
+** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
 NA Not Applicable
 
 Table 3: Efficacy results (solid tumours other than breast or prostate cancer)
 
-|  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Zometa 4 mg | Placebo | Zometa 4 mg | Placebo | Zometa 4 mg | Placebo |
-| N | 257 | 250 | 257 | 250 | 257 | 250 |
-| Proportion of patients with SREs (%) | 39 | 48 | 16 | 22 | 29 | 34 |
-| p-value | 0.039 |  | 0.064 |  | 0.173 |  |
-| Median time to SRE | 236 | 155 | NR | NR | 424 | 307 |
-
-(days)
-p-value 0.009 0.020 0.079
-Skeletal morbidity 1.74 2.71 0.39 0.63 1.24 1.89
-rate
-p-value 0.012 0.066 0.099
-Risk reduction of 30.7 - NA NA NA NA
-suffering from
-multiple events** (%)
-p-value 0.003 NA NA
+|  | Any SRE (+TIH) |  |  | Fractures* |  |  | Radiation therapy to bone |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  | Zometa 4 mg |  | Placebo | Zometa 4 mg | Placebo |  | Zometa 4 mg | Placebo |
+| N | 257 |  | 250 | 257 | 250 |  | 257 | 250 |
+| Proportion of patients with SREs (%) | 39 |  | 48 | 16 | 22 |  | 29 | 34 |
+| p-value | 0.039 |  |  | 0.064 |  |  | 0.173 |  |
+| Median time to SRE (days) | 236 |  | 155 | NR | NR |  | 424 | 307 |
+| p-value | 0.009 |  |  | 0.020 |  |  | 0.079 |  |
+| Skeletal morbidity rate | 1.74 | 2.71 |  | 0.39 |  | 0.63 | 1.24 | 1.89 |
+| p-value | 0.012 |  |  | 0.066 |  |  | 0.099 |  |
+| Risk reduction of suffering from multiple events** (%) | 30.7 | - |  | NA |  | NA | NA | NA |
+| p-value | 0.003 |  |  | NA |  |  | NA |  |
 
 * Includes vertebral and non-vertebral fractures
-** Accounts for all skeletal events, the total number as well as time to each event during the trial
-NR Not Reached
+** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
 NA Not Applicable
-
 In a third phase III randomised, double-blind trial, 4 mg Zometa or 90 mg pamidronate every 3 to 4 weeks were compared in patients with multiple myeloma or breast cancer with at least one bone lesion.
 The results demonstrated that Zometa 4 mg showed comparable efficacy to 90 mg pamidronate in the prevention of SREs.
 The multiple event analysis revealed a significant risk reduction of 16% in patients treated with Zometa 4 mg in comparison with patients receiving pamidronate.
@@ -93,8 +84,7 @@ Table 4: Efficacy results (breast cancer and multiple myeloma patients)
 | p-value | 0.030 |  | NA |  | NA |  |
 
 * Includes vertebral and non-vertebral fractures
-** Accounts for all skeletal events, the total number as well as time to each event during the trial
-NR Not Reached
+** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
 NA Not Applicable
 
 Zometa was also studied in a double-blind, randomised, placebo-controlled trial in 228 patients with documented bone metastases from breast cancer to evaluate the effect of Zometa on the skeletal related event (SRE) rate ratio, calculated as the total number of SRE events (excluding hypercalcaemia and adjusted for prior fracture), divided by the total risk period.
@@ -105,9 +95,9 @@ The SRE rate (events/person year) was 0.628 for Zometa and 1.096 for placebo.
 The proportion of patients with at least one SRE (excluding hypercalcaemia) was 29.8% in the Zometa-treated group versus 49.6% in the placebo group (p=0.003).
 Median time to onset of the first SRE was not reached in the Zometa-treated arm at the end of the study and was significantly prolonged compared to placebo (p=0.007).
 Zometa reduced the risk of SREs by 41% in a multiple event analysis (risk ratio=0.59, p=0.019) compared with placebo.
+
 In the Zometa-treated group, statistically significant improvement in pain scores (using the Brief Pain Inventory, BPI) was seen at 4 weeks and at every subsequent time point during the study, when compared to placebo (Figure 1).
 The pain score for Zometa was consistently below baseline and pain reduction was accompanied by a trend in reduced analgesics score.
-
 Figure 1.
 Mean changes from baseline in BPI scores.
 Statistically significant differences are marked (*p<0.05) for between treatment comparisons (Zometa vs. Placebo)
@@ -127,36 +117,17 @@ The following response rates were observed:
 
 Table 5: Proportion of complete responders by day in the combined TIH studies
 
-|  | Day 4 | Day 7 | Day 10 |
-| --- | --- | --- | --- |
-| Zometa 4 mg (N=86) | 45.3% (p=0.104) | 82.6% (p=0.005)* | 88.4% (p=0.002)* |
-| Zometa 8 mg (N=90) | 55.6% (p=0.021)* | 83.3% (p=0.010)* | 86.7% (p=0.015)* |
-| Pamidronate 90 mg (N=99) | 33.3% | 63.6% | 69.7% |
-| *p-values compared to pamidronate. |  |  |  |
+Day 4 Day 7 Day 10
+Zometa 4 mg (N=86) 45.3% (p=0.104) 82.6% (p=0.005)* 88.4% (p=0.002)*
+Zometa 8 mg (N=90) 55.6% (p=0.021)* 83.3% (p=0.010)* 86.7% (p=0.015)*
+Pamidronate 90 mg (N=99) 33.3% 63.6% 69.7%
+*p-values compared to pamidronate.
 
 Median time to normocalcaemia was 4 days.
 Median time to relapse (re-increase of albumin-corrected serum calcium ≥ 2.9 mmol/l) was 30 to 40 days for patients treated with Zometa versus 17 days for those treated with pamidronate 90 mg (p-values: 0.001 for 4 mg and 0.007 for 8 mg).
 There were no statistically significant differences between the two Zometa doses.
+
 In clinical trials 69 patients who relapsed or were refractory to initial treatment (Zometa 4 mg, 8 mg or pamidronate 90 mg) were retreated with Zometa 8 mg.
 The response rate in these patients was about 52%.
 Since those patients were retreated with the 8 mg dose only, there are no data available allowing comparison with the 4 mg dose.
-
 In clinical trials performed in patients with tumour-induced hypercalcaemia (TIH), the overall safety profile amongst all three treatment groups (zoledronic acid 4 and 8 mg and pamidronate 90 mg) was similar in types and severity.
-
-[Zometa 4 mg/5 ml concentrate for solution for infusion]
-
-|  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Zometa 4 mg | Placebo | Zometa 4 mg | Placebo | Zometa 4 mg | Placebo |
-| N | 257 | 250 | 257 | 250 | 257 | 250 |
-| Proportion of patients | 39 | 48 | 16 | 22 | 29 | 34 |
-
-| with SREs (%) |  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| p-value | 0.039 |  |  | 0.064 |  |  | 0.173 |  |
-| Median time to SRE (days) | 236 |  | 155 | NR | NR |  | 424 | 307 |
-| p-value | 0.009 |  |  | 0.020 |  |  | 0.079 |  |
-| Skeletal morbidity rate | 1.74 | 2.71 |  | 0.39 |  | 0.63 | 1.24 | 1.89 |
-| p-value | 0.012 |  |  | 0.066 |  |  | 0.099 |  |
-| Risk reduction of suffering from multiple events** (%) | 30.7 | - |  | NA |  | NA | NA | NA |
-| p-value | 0.003 |  |  | NA |  |  | NA |  |

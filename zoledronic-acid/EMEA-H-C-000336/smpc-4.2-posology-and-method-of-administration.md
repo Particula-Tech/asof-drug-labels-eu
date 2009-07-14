@@ -2,6 +2,8 @@
 
 Zometa must only be used by clinicians experienced in the administration of intravenous bisphosphonates.
 
+Zometa reconstituted solution must not be mixed with calcium or other divalent cation-containing infusion solutions such as lactated Ringer’s solution, and should be administered as a single intravenous solution in a separate infusion line.
+
 Prevention of skeletal related events in patients with advanced malignancies involving bone
 Adults and elderly
 The recommended dose in the prevention of skeletal related events in patients with advanced malignancies involving bone is 4 mg reconstituted and further diluted Zometa solution for infusion (diluted with 100 ml 0.9% w/v sodium chloride or 5% w/v glucose solution), given in no less than a 15-minute intravenous infusion every 3 to 4 weeks.
@@ -12,21 +14,20 @@ Treatment of TIH
 Adults and elderly
 The recommended dose in hypercalcaemia (albumin-corrected serum calcium ≥ 12.0 mg/dl or 3.0 mmol/l) is 4 mg reconstituted and further diluted Zometa solution for infusion (diluted with 100 ml sterile 0.9% w/v sodium chloride or 5% w/v glucose solution), given as a single intravenous infusion in no less than 15 minutes.
 Patients must be maintained well hydrated prior to and following administration of Zometa.
-
 Renal impairment
 TIH:
 Zometa treatment in TIH patients who also have severe renal impairment should be considered only after evaluating the risks and benefits of treatment.
-In the clinical studies, patients with serum creatinine
-> 400 µmol/l or > 4.5 mg/dl were excluded.
+In the clinical studies, patients with serum creatinine > 400 µmol/l or > 4.5 mg/dl were excluded.
 No dose adjustment is necessary in TIH patients with serum creatinine < 400 µmol/l or < 4.5 mg/dl (see section 4.4).
 
 Prevention of skeletal related events in patients with advanced malignancies involving bone:
-When initiating treatment with Zometa in patients with multiple myeloma or metastatic bone lesions from solid tumours, serum creatinine and creatinine clearance (CrCl) should be determined.
-CrCl is calculated from serum creatinine using the Cockcroft-Gault formula.
-Zometa is not recommended for patients presenting with severe renal impairment prior to initiation of therapy, which is defined for this population as CrCl < 30 ml/min.
-In clinical trials with Zometa, patients with serum creatinine > 265 µmol/l or > 3.0 mg/dl were excluded.
+When initiating treatment with Zometa in patients with multiple myeloma or metastatic bone lesions from solid tumours, serum creatinine and creatinine clearance (CLcr) should be determined.
+CLcr is calculated from serum creatinine using the Cockcroft-Gault formula.
+Zometa is not recommended for patients presenting with severe renal impairment prior to initiation of therapy, which is defined for this population as CLcr < 30 ml/min.
+In clinical trials with Zometa, patients with serum creatinine
+> 265 µmol/l or > 3.0 mg/dl were excluded.
 
-In patients with bone metastases presenting with mild to moderate renal impairment prior to initiation of therapy, which is defined for this population as CrCl 30–60 ml/min, the following Zometa dose is recommended (see also section 4.4):
+In patients with bone metastases presenting with mild to moderate renal impairment prior to initiation of therapy, which is defined for this population as CLcr 30–60 ml/min, the following Zometa dose is recommended (see also section 4.4):
 
 Baseline Creatinine Clearance (ml/min) Zometa Recommended Dose*
 > 60 4.0 mg
@@ -34,7 +35,7 @@ Baseline Creatinine Clearance (ml/min) Zometa Recommended Dose*
 40–49 3.3 mg*
 30–39 3.0 mg*
 
-*Doses have been calculated assuming target AUC of 0.66 (mg•hr/l) (CrCl=75 ml/min).
+*Doses have been calculated assuming target AUC of 0.66 (mg•hr/l) (CLcr=75 ml/min).
 The reduced doses for patients with renal impairment are expected to achieve the same AUC as that seen in patients with creatinine clearance of 75 ml/min.
 
 Following initiation of therapy, serum creatinine should be measured prior to each dose of Zometa and treatment should be withheld if renal function has deteriorated.
@@ -61,6 +62,8 @@ The use of Zometa in paediatric patients has not been studied.
 Zometa should not be used in that patient population until further data becomes available.
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
+
+Zometa concentrate must not be mixed with calcium or other divalent cation-containing infusion solutions such as lactated Ringer’s solution, and should be administered as a single intravenous solution in a separate infusion line.
 
 The recommended dose in the prevention of skeletal related events in patients with advanced malignancies involving bone is 4 mg zoledronic acid.
 The concentrate must be further diluted with 100 ml sterile 0.9% w/v sodium chloride or 5% w/v glucose solution and given in no less than a 15-minute intravenous infusion every 3 to 4 weeks.

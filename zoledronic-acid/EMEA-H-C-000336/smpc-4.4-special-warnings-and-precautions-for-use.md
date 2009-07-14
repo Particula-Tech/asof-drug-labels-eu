@@ -27,12 +27,10 @@ Upon initiation of treatment in patients with bone metastases with mild to moder
 In patients who show evidence of renal deterioration during treatment, Zometa should be withheld.
 Zometa should only be resumed when serum creatinine returns to within 10% of baseline (see section 4.2).
 
-In view of the potential impact of bisphosphonates, including Zometa, on renal function, the lack of clinical safety data in patients with severe renal impairment (in clinical trials defined as serum creatinine
-≥ 400 µmol/l or ≥ 4.5 mg/dl for patients with TIH and ≥ 265 µmol/l or ≥ 3.0 mg/dl for patients with cancer and bone metastases, respectively) at baseline and only limited pharmacokinetic data in patients with severe renal impairment at baseline (creatinine clearance < 30 ml/min), the use of Zometa is not recommended in patients with severe renal impairment.
+In view of the potential impact of bisphosphonates, including Zometa, on renal function, the lack of clinical safety data in patients with severe renal impairment (in clinical trials defined as serum creatinine ≥ 400 µmol/l or ≥ 4.5 mg/dl for patients with TIH and ≥ 265 µmol/l or ≥ 3.0 mg/dl for patients with cancer and bone metastases, respectively) at baseline and only limited pharmacokinetic data in patients with severe renal impairment at baseline (creatinine clearance < 30 ml/min), the use of Zometa is not recommended in patients with severe renal impairment.
 
 Hepatic insufficiency
 As only limited clinical data are available in patients with severe hepatic insufficiency, no specific recommendations can be given for this patient population.
-
 Osteonecrosis of the jaw
 Osteonecrosis of the jaw has been reported in patients, predominantly those with cancer, receiving treatment with bisphosphonates, including Zometa.
 Many of these patients were also receiving chemotherapy and corticosteroids.
@@ -45,6 +43,7 @@ While on treatment, these patients should avoid invasive dental procedures if po
 For patients who develop osteonecrosis of the jaw while on bisphosphonate therapy, dental surgery may exacerbate the condition.
 For patients requiring dental procedures, there are no data available to suggest whether discontinuation of bisphosphonate treatment reduces the risk of osteonecrosis of the jaw.
 Clinical judgement of the treating physician should guide the management plan of each patient based on individual benefit/risk assessment.
+
 Musculoskeletal pain
 In post-marketing experience, severe and occasionally incapacitating bone, joint, and/or muscle pain have been reported in patients taking bisphosphonates.
 However, such reports have been infrequent.
