@@ -18,11 +18,11 @@ As with other iron chelator treatment, high-frequency hearing loss and lenticula
 Adverse reactions are ranked below using the following convention: very common (≥1/10); common (≥1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (<1/10,000); not known (cannot be estimated form the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-UTable 1
+Table 1
 
 Blood and lymphatic system disorders
 
-Not known: PancytopeniaP1P, thrombocytopeniaP1P
+Not known: Pancytopenia1, thrombocytopenia1
 
 Nervous system disorders
 
@@ -58,13 +58,13 @@ Very common: Blood creatinine increased
 
 Common: Proteinuria
 Uncommon: Renal tubulopathy (acquired Fanconi’s syndrome), glycosuria
-Not known: Acute renal failureP1P
+Not known: Acute renal failure1
 
 Skin and subcutaneous tissue disorders
 
 Common: Rash, pruritus
 Uncommon: Pigmentation disorder
-Not known: Leukocytoclastic vasculitisP1P, urticariaP1P
+Not known: Leukocytoclastic vasculitis1, urticaria1
 
 General disorders and administration site conditions
 
@@ -72,17 +72,17 @@ Uncommon: Pyrexia, oedema, fatigue
 
 Immune system disorders
 
-Not known: Hypersensitivity reactions (including anaphylaxis and angioedema)P1P
+Not known: Hypersensitivity reactions (including anaphylaxis and angioedema)1
 
 Hepatobiliary disorders
 
 Common: Transaminases increased
 Uncommon: Hepatitis, cholelithiasis
-Not known: Hepatic failureP1P
+Not known: Hepatic failure1
 
 Psychiatric disorders
 
 Uncommon: Anxiety, sleep disorder
 
-P1P Adverse reactions reported during postmarketing experience.
+1 Adverse reactions reported during postmarketing experience.
 These are derived from spontaneous reports for which it is not always possible to reliably establish frequency or a causal relationship to exposure to the medicinal product.

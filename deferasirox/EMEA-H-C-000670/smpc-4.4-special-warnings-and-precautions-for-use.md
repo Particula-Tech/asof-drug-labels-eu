@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-URenal function:
+Renal function:
 
 EXJADE has been studied only in patients with baseline serum creatinine within the age-appropriate normal range.
 
@@ -9,6 +9,7 @@ These were dose-dependent.
 About two-thirds of the patients showing serum creatinine increase returned below the 33% level without dose adjustment.
 In the remaining third the serum creatinine increase did not always respond to a dose reduction or a dose interruption.
 Cases of acute renal failure have been reported following post-marketing use of EXJADE (see section 4.8).
+In some post-marketing cases, renal function deterioration has led to renal failure requiring temporary or permanent dialysis.
 
 The causes of the rises in serum creatinine have not been elucidated.
 Particular attention should therefore be paid to monitoring of serum creatinine in patients who are receiving high doses of EXJADE and/or low rates of transfusion (<7 ml/kg/month of packed red blood cells or <2 units/month for an adult).
@@ -32,7 +33,7 @@ As needed, additional markers of renal tubular function (e.g. glycosuria in non-
 Dose reduction or interruption may be considered if there are abnormalities in levels of tubular markers and/or if clinically indicated.
 
 If, despite dose reduction and interruption, the serum creatinine remains significantly elevated and there is also persistent abnormality in another marker of renal function (e.g. proteinuria, Fanconi’s Syndrome), the patient should be referred to a renal specialist, and further specialised investigations (such as renal biopsy) may be considered.
-UHepatic function:U
+Hepatic function:
 
 Liver function test elevations have been observed in patients treated with EXJADE.
 Postmarketing cases of hepatic failure, sometimes fatal, have been reported in patients treated with EXJADE.
