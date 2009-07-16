@@ -21,7 +21,6 @@ Analysis of plasma samples from subjects who received a 6 mg/kg dose of daptomyc
 
 Furthermore, no metabolites have been observed in plasma following administration of radiolabelled drug to humans based on total radiolabel and microbiologically active concentrations.
 Of the four minor metabolites detected in urine, two are Phase I oxidative metabolites present in low concentrations.
-
 Elimination
 Daptomycin is excreted primarily by the kidneys.
 Concomitant administration of probenecid and daptomycin has no effect on daptomycin pharmacokinetics in humans suggesting minimal to no active tubular secretion of daptomycin.

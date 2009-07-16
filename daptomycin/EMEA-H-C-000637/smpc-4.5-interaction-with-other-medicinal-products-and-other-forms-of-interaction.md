@@ -3,7 +3,6 @@
 Daptomycin undergoes little to no Cytochrome P450 (CYP450) mediated metabolism.
 In vitro studies have determined that daptomycin does not inhibit or induce the activities of clinically significant human CYP isoforms (1A2, 2A6, 2C9, 2C19, 2D6, 2E1, 3A4).
 Therefore, no CYP450-related drug interactions are to be expected.
-
 There is limited experience regarding concomitant administration of daptomycin with other medicinal products that may trigger myopathy.
 However, some cases of marked rises in CPK levels and cases of rhabdomyolysis occurred in patients taking one of these medicinal products at the same time as Cubicin.
 It is recommended that other medicinal products associated with myopathy should if possible be temporarily discontinued during treatment with Cubicin unless the benefits of concomitant administration outweigh the risk.

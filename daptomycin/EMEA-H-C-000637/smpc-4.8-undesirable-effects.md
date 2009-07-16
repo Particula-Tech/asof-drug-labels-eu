@@ -5,7 +5,6 @@ Within these trials, 1,221 subjects received a daily dose of 4 mg/kg, of whom 1,
 Adverse reactions (i.e. considered by the investigator to be possibly, probably, or definitely related to the medicinal product) were reported at similar frequencies for Cubicin and comparator regimens.
 
 For subjects who received Cubicin, the adverse reactions that were most frequently reported during therapy plus follow-up were: headache, nausea, vomiting, diarrhoea, fungal infections, rash, infusion site reaction, increased Creatine phosphokinase (CPK) and abnormal liver enzymes; Alanine aminotransferase (ALT), Aspartate aminotransferase (AST), Alkaline phosphatase.
-
 The following adverse reactions were reported during therapy and during follow-up with frequencies corresponding to common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000):
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
