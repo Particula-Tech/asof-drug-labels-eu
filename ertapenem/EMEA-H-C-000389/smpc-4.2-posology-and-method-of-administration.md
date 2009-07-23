@@ -15,8 +15,7 @@ Renal insufficiency:
 INVANZ may be used for the treatment of infections in adult patients with renal insufficiency.
 In patients whose creatinine clearance is > 30 ml/min/1.73 m2, no dosage adjustment is necessary.
 There are inadequate data on the safety and efficacy of ertapenem in patients with advanced renal insufficiency to support a dose recommendation.
-Therefore, ertapenem should not be used in these patients.
-(See section 5.2.)
+Therefore, ertapenem should not be used in these patients (see section 5.2.).
 There are no data in children and adolescents with renal insufficiency.
 
 Patients on haemodialysis:

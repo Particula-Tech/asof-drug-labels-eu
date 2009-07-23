@@ -28,13 +28,13 @@ Breakpoints
 
 The EUCAST MIC breakpoints are as follows:
 
-- Enterobacteriaceae: S≤ 0.5 mg/l and R >1 mg/l
-- Streptococcus A,B,C,G: S ≤0.5 mg/l and R >0.5 mg/l
-- Streptococcus pneumoniae: S ≤0.5 mg/l and R >0.5 mg/l
-- Haemophilus influenzae: S ≤0.5 mg/l and R >0.5 mg/l
-- M. catarrhalis: S ≤0.5 mg/l and R >0.5 mg/l
-- Gram negative anaerobes: S ≤ 1mg/l and R >1 mg/l
-- Non species related breakpoints: S≤ 0.5 mg/l and R >1 mg/l
+- Enterobacteriaceae: S ≤ 0.5 mg/l and R > 1 mg/l
+- Streptococcus A,B,C,G: S ≤ 0.5 mg/l and R > 0.5 mg/l
+- Streptococcus pneumoniae: S ≤ 0.5 mg/l and R > 0.5 mg/l
+- Haemophilus influenzae: S ≤ 0.5 mg/l and R > 0.5 mg/l
+- M. catarrhalis: S ≤ 0.5 mg/l and R > 0.5 mg/l
+- Gram negative anaerobes: S ≤ 1mg/l and R > 1 mg/l
+- Non species related breakpoints: S ≤ 0.5 mg/l and R > 1 mg/l
 
 (NB: Susceptibility of staphylococci to ertapenem is inferred from the methicillin susceptibility)
 
@@ -87,6 +87,7 @@ Pseudomonas aeruginosa
 Stenotrophomonas maltophilia
 Anaerobes:
 Lactobacillus species
+Commonly susceptible species:
 Others:
 Chlamydia species
 Mycoplasma species
@@ -97,6 +98,7 @@ Legionella species
 † The efficacy of INVANZ in the treatment of community acquired pneumonia due to penicillin-resistant Streptococcus pneumoniae has not been established.
 + frequency of acquired resistance > 50 % in some Member States
 # Methicillin-resistant staphylococci (including MRSA) are always resistant to betalactams.
+
 Information from clinical studies
 
 Efficacy in Pediatric Studies

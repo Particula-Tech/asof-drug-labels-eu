@@ -9,11 +9,12 @@ There is no accumulation of ertapenem in adults following multiple intravenous d
 
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 15 mg/kg (up to a maximum dose of 1 g) dose in patients 3 to 23 months of age were
 103.8 micrograms/ml (Cmax) at 0.5 hour postdose (end of infusion), 13.5 micrograms/ml at 6 hour postdose, and 2.5 micrograms/ml at 12 hour postdose.
-
-Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 15 mg/kg ( up to a maximum dose of 1 g) dose in patients 2 to 12 years of age were
+Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 15 mg/kg (up to a maximum dose of 1 g) dose in patients 2 to 12 years of age were
 113.2 micrograms/ml (Cmax) at 0.5 hour postdose (end of infusion), 12.8 micrograms/ml at 6 hour postdose, and 3.0 micrograms/ml at 12 hour postdose.
 
-Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 20 mg/kg (up to a maximum dose of 1 g) dose in patients 13 to 17 years of age were 170.4 micrograms/ml (Cmax) at 0.5 hour postdose (end of infusion), 7.0 micrograms/ml at 12 hour postdose, and 1.1 microgram/ml at 24 hour postdose.
+Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 20 mg/kg (up to a maximum dose of 1 g) dose in patients 13 to 17 years of age were
+170.4 micrograms/ml (Cmax) at 0.5 hour postdose (end of infusion), 7.0 micrograms/ml at 12 hour postdose, and 1.1 microgram/ml at 24 hour postdose.
+
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 1 g dose in three patients 13 to 17 years of age were 155.9 micrograms/ml (Cmax) at 0.5 hour postdose (end of infusion), and 6.2 micrograms/ml at 12 hour postdose.
 
 Distribution
@@ -41,7 +42,6 @@ In-vitro studies in human liver microsomes indicate that ertapenem does not inhi
 Elimination
 Following administration of a 1 g radiolabelled intravenous dose of ertapenem to healthy young adults (23 to 49 years of age), approximately 80 % is recovered in urine and 10 % in faeces.
 Of the 80 % recovered in urine, approximately 38 % is excreted as unchanged ertapenem and approximately 37 % as the ring-opened metabolite.
-
 In healthy young adults (18 to 49 years of age) and patients 13 to 17 years of age given a 1 g intravenous dose, the mean plasma half-life is approximately 4 hours.
 The mean plasma half-life in children 3 months to 12 years of age is approximately 2.5 hours.
 Average concentrations of ertapenem in urine exceed 984 micrograms/ml during the period 0 to 2 hours postdose and exceed
@@ -51,6 +51,7 @@ Special Populations
 
 Gender
 The plasma concentrations of ertapenem are comparable in men and women.
+
 Elderly
 Plasma concentrations following a 1 g and 2 g intravenous dose of ertapenem are slightly higher (approximately 39 % and 22 %, respectively) in healthy elderly adults (≥ 65 years) relative to young adults (< 65 years).
 In the absence of advanced renal insufficiency, no dosage adjustment is necessary in elderly patients.
@@ -58,7 +59,7 @@ In the absence of advanced renal insufficiency, no dosage adjustment is necessar
 Paediatric Patients
 Plasma concentrations of ertapenem are comparable in paediatric patients 13 to 17 years of age and adults following a 1 g once daily intravenous dose.
 
-Following the 20 mg/kg dose (up to a maximum dose of 1 g), the pharmacokinetic parameter values in patients 13 to 17 years of age were generally comparable to those in healthy young adults. .
+Following the 20 mg/kg dose (up to a maximum dose of 1 g), the pharmacokinetic parameter values in patients 13 to 17 years of age were generally comparable to those in healthy young adults.
 To provide an estimate of the pharmacokinetic data if all patients in this age group were to receive a 1 g dose, the pharmacokinetic data were calculated adjusting for a 1 g dose, assuming linearity.
 A comparison of results show that a 1 g once daily dose of ertapenem achieves a pharmacokinetic profile in patients 13 to 17 years of age comparable to that of adults.
 The ratios (13 to 17 years/Adults) for AUC, the end of infusion concentration and the concentration at the midpoint of the dosing interval were 0.99, 1.20, and 0.84, respectively.
@@ -79,6 +80,5 @@ AUCs of total ertapenem and of unbound ertapenem are increased in patients with 
 AUCs of total ertapenem and of unbound ertapenem are increased in patients who require haemodialysis approximately 2.9-fold and 6.0-fold, respectively, between dialysis sessions, compared with healthy subjects.
 Following a single 1 g intravenous dose given immediately prior to a haemodialysis session, approximately 30 % of the dose is recovered in the dialysate.
 There are no data in paediatric patients with renal insufficiency.
-
 There are inadequate data on the safety and efficacy of ertapenem in patients with advanced renal insufficiency and patients who require haemodialysis to support a dose recommendation.
 Therefore, ertapenem should not be used in these patients.
