@@ -27,19 +27,19 @@ Table 1: Very Common and Common Adverse Drug Reactions
 | --- | --- | --- | --- |
 |  | Very common | Common | Very Common |
 | Infections and infestations |  | Sepsis Abscess Infection |  |
-| Blood and the lymphatic systems disorders | Leucopenia Thrombocytopenia Neutropenia | Febrile neutropenia Anaemia |  |
+| Blood and the lymphatic systems disorders | Febrile neutropenia Leucopenia Thrombocytopenia Neutropenia | Anaemia |  |
 | Metabolism and nutrition disorders |  | Dehydration | Anorexia |
 | Nervous system disorders | Peripheral sensory neuropathy | Cerebrovascular accident Syncope Somnolence Headache | Dysgeusia Headache |
-| Eye disorders |  |  | Eye disorder |
 |  | Very common | Common | Very Common |
+| Eye disorders |  |  | Eye disorder Lacrimation increased |
 | Cardiac disorders |  | Cardiac failure congestive Supraventricular tachycardia |  |
 | Vascular disorders | Hypertension | Thromboembolism (arterial)* Deep vein thrombosis Haemorrhage | Hypertension |
 | Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism Dyspnoea Hypoxia Epistaxis | Dyspnoea Epistaxis Rhinitis |
-| Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal Perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder | Constipation Stomatitis Rectal haemorrhage |
+| Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal Perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder Stomatitis | Constipation Stomatitis Rectal haemorrhage |
 | Skin and subcutaneous tissue disorders |  | Palmar-plantar erythrodysaesthesia syndrome | Exfoliative dermatitis Dry skin Skin discolouration |
-| Musculoskeletal, connective tissue and bone disorders |  | Muscular weakness |  |
+| Musculoskeletal, connective tissue and bone disorders |  | Muscular weakness Myalgia | Arthralgia |
 | Renal and urinary disorders |  | Proteinuria Urinary Tract Infection | Proteinuria |
-| General disorders and administration site conditions | Asthenia Fatigue | Pain Lethargy | Pyrexia Asthenia Pain |
+| General disorders and administration site conditions | Asthenia Fatigue | Pain Lethargy Mucosal inflammation | Pyrexia Asthenia Pain Mucosal inflammation |
 
 * Pooled arterial thromboembolic events including cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic events.
 Data are unadjusted for the differential time on treatment.
@@ -51,7 +51,6 @@ Avastin has been associated with serious cases of gastrointestinal perforation o
 
 Gastrointestinal perforation have been reported in clinical trials with an incidence of less than 1% in patients with metastatic breast cancer or non-squamous non-small cell lung cancer, and in up to 2.0% in metastatic colorectal cancer patients.
 Fatal outcome was reported in approximately a third of serious cases of gastrointestinal perforations, which represents between 0.2%-1% of all Avastin treated patients.
-
 The presentation of these events varied in type and severity, ranging from free air seen on the plain abdominal X-ray, which resolved without treatment, to intestinal perforation with abdominal abscess and fatal outcome.
 In some cases underlying intra-abdominal inflammation was present, either from gastric ulcer disease, tumour necrosis, diverticulitis, or chemotherapy-associated colitis.
 
@@ -71,11 +70,11 @@ In clinical trials of metastatic carcinoma of the colon or rectum, there was no 
 An increased incidence of post-operative bleeding or wound healing complication occurring within 60 days of major surgery was observed if the patient was being treated with Avastin at the time of surgery.
 The incidence varied between 10% (4/40) and 20% (3/15).
 
-In locally recurrent and metastatic breast cancer, Grade 3-5 wound healing complications were observed in 1.1% of patients receiving Avastin + paclitaxel and in none of the patients receiving paclitaxel alone.
+In locally recurrent and metastatic breast cancer trials, Grade 3-5 wound healing complications were observed in up to 1.1% of patients receiving Avastin compared with up to 0.9% of patients in the control arms.
 
 Hypertension (see section 4.4):
 An increased incidence of hypertension (all grades) of up to 34% has been observed in Avastin-treated patients in clinical trials compared with up to 14% in those treated with comparator.
-Grade 3 and 4 hypertension (requiring oral anti-hypertensive medication) in patients receiving Avastin ranged from 3.0% to 17.9%.
+Grade 3 and 4 hypertension (requiring oral anti-hypertensive medication) in patients receiving Avastin ranged from 0.4% to 17.9%.
 Grade 4 hypertension (hypertensive crisis) occurred in up to 1.0% of patients treated with Avastin and chemotherapy compared to up to 0.2% of patients treated with the same chemotherapy alone.
 
 Hypertension was generally adequately controlled with oral anti-hypertensives such as angiotensin-converting enzyme inhibitors, diuretics and calcium-channel blockers.
@@ -93,6 +92,7 @@ Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of treated patie
 The proteinuria seen in clinical trials was not associated with renal dysfunction and rarely required permanent discontinuation of therapy.
 Testing for proteinuria is recommended prior to start of Avastin therapy.
 In most clinical studies urine protein levels of ≥ 2g /24 hrs led to the holding of Avastin until recovery to < 2g/24 hrs.
+
 Haemorrhage (see section 4.4):
 In clinical trials across all indications the overall incidence of NCI-CTC Grade 3-5 bleeding events ranged from 0.4% to 5% in Avastin treated patients, compared with up to 2.9% of patients in chemotherapy control group.
 
@@ -116,16 +116,16 @@ The incidence of CNS bleeding in patients with untreated CNS metastases receivin
 In an exploratory retrospective analysis of data from 13 completed randomised trials in patients with various tumour types, 3 patients out of 91 (3.3%) with brain metastases experienced CNS bleeding (all Grade 4) when treated with bevacizumab, compared to 1 case (Grade 5) out of 96 patients (1%) that were not exposed to bevacizumab.
 In two ongoing studies in patients with treated brain metastases, one case of Grade 2 CNS haemorrhage was reported in 83 subjects treated with bevacizumab (1.2%) at the time of interim safety analysis.
 
-Across all clinical trials, mucocutaneous haemorrhage has been seen in 20% - 40% of Avastin-treated patients.
+Across all clinical trials, mucocutaneous haemorrhage has been seen in up to 50% of Avastin-treated patients.
 These were most commonly NCI-CTC Grade 1 epistaxis that lasted less than 5 minutes, resolved without medical intervention and did not require any changes in the Avastin treatment regimen.
 Clinical safety data suggest that the incidence of minor mucocutaneous haemorrhage (e.g. epistaxis) may be dose-dependent.
 
 There have also been less common events of minor mucocutaneous haemorrhage in other locations, such as gingival bleeding or vaginal bleeding.
-
 Thromboembolism (see section 4.4):
 
 Arterial thromboembolism:
 An increased incidence of arterial thromboembolic events was observed in patients treated with Avastin across indications, including cerebrovascular accidents, myocardial infarction, transient ischemic attacks, and other arterial thromboembolic events.
+
 In clinical trials, the overall incidence of arterial thromboembolic events ranged up to 3.8% in the Avastin containing arms compared with up to 1.7% in the chemotherapy control arms.
 Fatal outcome was reported in 0.8% of patients receiving Avastin compared to 0.5% in patients receiving chemotherapy alone.
 Cerebrovascular accidents (including transient ischemic attacks) were reported in up to 2.3% of patients treated with Avastin in combination with chemotherapy compared to 0.5% of patients treated with chemotherapy alone.
@@ -159,6 +159,7 @@ In randomised clinical trials, age > 65 years was associated with an increased r
 Other reactions with a higher frequency seen in patients over 65 were grade 3-4 leucopenia and thrombocytopenia; and all grade neutropenia, diarrhoea, nausea, headache and fatigue as compared to those aged ≤ 65 years when treated with Avastin (see sections 4.4 and 4.8 under Thromboembolism).
 
 No increase in the incidence of other reactions, including gastrointestinal perforation, wound healing complications, hypertension, proteinuria, congestive heart failure, and haemorrhage was observed in elderly patients (> 65 years) receiving Avastin as compared to those aged ≤ 65 years treated with Avastin.
+
 Laboratory Abnormalities:
 Decreased neutrophil count, decreased white blood cell count and presence of urine protein may be associated with Avastin treatment.
 

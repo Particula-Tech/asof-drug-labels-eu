@@ -14,12 +14,12 @@ Do not administer as an intravenous push or bolus.
 
 Instructions for the preparation of Avastin infusions are described in section 6.6.
 Avastin infusions should not be administered or mixed with glucose solutions (see section 6.2).
+Dose reduction for adverse events is not recommended.
+If indicated, therapy should either be permanently discontinued or temporarily suspended as described in section 4.4.
+
 Metastatic carcinoma of the colon or rectum (mCRC)
 
 The recommended dose of Avastin, administered as an intravenous infusion, is either 5 mg/kg or 10 mg/kg of body weight given once every 2 weeks or 7.5 mg/kg or 15 mg/kg of body weight given once every 3 weeks.
-
-Dose reduction for adverse events is not recommended.
-If indicated, therapy should either be permanently discontinued or temporarily suspended as described in section 4.4.
 
 Metastatic breast cancer (mBC)
 

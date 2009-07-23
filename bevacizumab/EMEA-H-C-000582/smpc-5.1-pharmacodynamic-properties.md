@@ -5,6 +5,7 @@ Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibody, ATC code:
 Mechanism of action
 Bevacizumab binds to vascular endothelial growth factor (VEGF), the key driver of vasculogenesis and angiogenesis, and thereby inhibits the binding of VEGF to its receptors, Flt-1 (VEGFR-1) and KDR (VEGFR-2), on the surface of endothelial cells.
 Neutralising the biological activity of VEGF regresses the vascularisation of tumours, normalises remaining tumour vasculature, and inhibits the formation of new tumour vasculature, thereby inhibiting tumour growth.
+
 Pharmacodynamic effects
 Administration of bevacizumab or its parental murine antibody to xenotransplant models of cancer in nude mice resulted in extensive anti-tumour activity in human cancers, including colon, breast, pancreas and prostate.
 Metastatic disease progression was inhibited and microvascular permeability was reduced.
@@ -37,8 +38,8 @@ The overall mean age was 59.4 years; 56.6% of patients had an ECOG performance s
 The primary efficacy variable of the trial was overall survival.
 The addition of Avastin to IFL resulted in statistically significant increases in overall survival, progression-free survival and overall response rate (see Table 3).
 The clinical benefit, as measured by overall survival, was seen in all pre-specified patient subgroups, including those defined by age, sex, performance status, location of primary tumour, number of organs involved and duration of metastatic disease.
-
 The efficacy results of Avastin in combination with IFL-chemotherapy are displayed in Table 3.
+
 Table 3 Efficacy results for study AVF2107g
 
 |  | AVF2107g |  |
@@ -132,8 +133,7 @@ FOLFOX-4-containing arms in the overall comparison was demonstrated in terms of 
 ii) Superiority of the Avastin-containing arms versus the chemotherapy alone arms in the overall comparison was demonstrated in terms of progression-free survival in the ITT population (Table 6)
 
 Secondary PFS analyses, based on ‘on-treatment’-based response assessments, confirmed the significantly superior clinical benefit for patients treated with Avastin (analyses shown in Table 6), consistent with the statistically significant benefit observed in the pooled analysis.
-Table 6 Key efficacy results for the superiority analysis
-(ITT population, Study NO16966)
+Table 6 Key efficacy results for the superiority analysis (ITT population, Study NO16966)
 
 | Endpoint (months) | FOLFOX-4 or XELOX + Placebo (n=701) | FOLFOX-4 or XELOX + Bevacizumab (n=699) | P Value |
 | --- | --- | --- | --- |
@@ -189,6 +189,8 @@ The benefit of Avastin re-treatment in metastatic colorectal cancer patients who
 
 Metastatic breast cancer (mBC)
 
+ECOG E2100
+
 Study E2100 was an open-label, randomised, active controlled, multicentre clinical trial evaluating Avastin in combination with paclitaxel for locally recurrent or metastatic breast cancer in patients who had not previously received chemotherapy for locally recurrent and metastatic disease.
 Patients were randomised to paclitaxel alone (90 mg/m2 IV over 1 hour once weekly for three out of four weeks) or in combination with Avastin (10 mg/kg IV infusion every two weeks).
 Prior hormonal therapy for the treatment of metastatic disease was allowed.
@@ -214,7 +216,7 @@ Table 8 Study E2100 Efficacy Results:
 | p-value | <0.0001 |  | <0.0001 |  |
 | Response rates (for patients with measurable disease) |  |  |  |  |
 |  | Investigator Assessment |  | IRF Assessment |  |
-|  | Paclitaxel (n=243) | Paclitaxel/Avastin (n=229) | Paclitaxel (n=243) | Paclitaxel/Avastin (n=229) |
+|  | Paclitaxel (n=273) | Paclitaxel/Avastin (n=252) | Paclitaxel (n=243) | Paclitaxel/Avastin (n=229) |
 | % pts with objective response | 23.4 | 48.0 | 22.2 | 49.8 |
 | p-value | <0.0001 |  | <0.0001 |  |
 
@@ -229,12 +231,62 @@ Table 8 Study E2100 Efficacy Results:
 
 The clinical benefit of Avastin as measured by PFS was seen in all pre-specified subgroups tested (including disease-free interval, number of metastatic sites, prior receipt of adjuvant chemotherapy and estrogen receptor (ER) status).
 
+BO17708
+
+Study BO17708 was a randomised, double-blind, placebo-controlled, multicentre (phase III) trial to evaluate the efficacy and safety of Avastin in combination with docetaxel compared with docetaxel plus placebo, as first-line treatment for patients with HER2-negative metastatic or locally recurrent breast cancer who have not received prior chemotherapy for their metastatic disease.
+
+Patients were randomised in a 1:1:1 ratio to treatment with either
+
+- placebo + docetaxel 100 mg/m2 every 3 weeks
+- Avastin 7.5 mg/kg + docetaxel 100 mg/m2 every 3 weeks
+- Avastin 15 mg/kg + docetaxel 100 mg/m2 every 3 weeks.
+
+Docetaxel, Avastin or placebo treatment was continued until disease progression/death or unacceptable toxicity.
+Docetaxel treatment was limited to a maximum of 9 cycles.
+The patient and disease characteristics were similar across the three arms.
+
+On documented disease progression, patients from all three treatment arms could enter into a post-study treatment phase during which they received open-label Avastin together with a wide-range of subsequent lines of therapies.
+(The percentage of patients in each arm who received open-label Avastin were: placebo + doc: 42%, Avastin 7.5 + doc: 37% and Avastin 15 + doc: 26%).
+The primary endpoint was progression free survival (PFS), as assessed by investigators.
+For the efficacy endpoints two comparisons were performed:
+
+- Avastin 7.5 mg/kg + docetaxel 100 mg/m2 every 3 weeks versus placebo + docetaxel 100 mg/m2 every 3 weeks
+- Avastin 15 mg/kg + docetaxel 100 mg/m2 every 3 weeks vs placebo + docetaxel 100 mg/m2 every 3 weeks.
+
+The results of this study are presented in Table 9.
+For progression free survival and response rates this includes results from the pre-specified final analysis and results from an exploratory (updated) analysis carried out at the same time as the pre-specified final OS analysis which included an additional 18 months of follow-up.
+Overall survival results presented are those from the pre-specified final analysis for OS.
+At this point approximately 45% of patients across all treatment arms had died.
+Table 9 Efficacy results for study BO17708
+
+| Progression-free survival |  |  |  |
+| --- | --- | --- | --- |
+|  | Docetaxel + Placebo q 3 weeks (n=241) | Docetaxel + Avastin 7.5 mg/kg q 3 weeks (n=248) | Docetaxel + Avastin 15 mg/kg q 3 weeks (n=247) |
+| Median PFS (months) [updated analysis] | 8.0 [8.2] | 8.7 [9.0] | 8.8 [10.1] |
+| Hazard ratio vs placebo arm (95% CI) [updated analysis] |  | 0.79 (0.63; 0.98) [0.86] [(0.72; 1.04)] | 0.72 (0.57; 0.90) [0.77] [(0.64; 0.93)] |
+| P value (log rank test) vs placebo arm [exploratory p value from updated analysis] |  | 0.0318 | 0.0099 |
+|  |  | [0.1163] | [0.0061] |
+| Progression-free survival (sensitivity analysis)* |  |  |  |
+|  | Docetaxel + Placebo q 3 weeks (n=241) | Docetaxel + Avastin 7.5 mg/kg q 3 weeks (n=248) | Docetaxel + Avastin 15 mg/kg q 3 weeks (n=247) |
+| Median PFS (months) [updated analysis] | 8.0 [8.1] | 8.7 [9.0] | 8.8 [10.0] |
+| Hazard ratio vs placebo arm (95% CI) [updated analysis] |  | 0.69 (0.54; 0.89) [0.80] [(0.65; 1.00)] | 0.61 (0.48; 0.78) [0.67] [(0.54; 0.83)] |
+| P value (log rank test) vs placebo arm [exploratory p value from updated analysis] |  | 0.0035 | 0.0001 |
+|  |  | [0.0450] | [0.0002] |
+| Response rates (for patients with measurable disease) |  |  |  |
+|  | Docetaxel + Placebo q 3 weeks (n=207) | Docetaxel + Avastin 7.5 mg/kg q 3 weeks (n=201) | Docetaxel + Avastin 15 mg/kg q 3 weeks (n=206) |
+| % pts with objective response [updated analysis] | 44.4 | 55.2 | 63.1 |
+|  | [46.4] | [55.2] | [64.1] |
+| p-value vs placebo arm [exploratory p value from updated analysis]) |  | 0.0295 [0.0739] | 0.0001 [0.0003] |
+| Overall Survival |  |  |  |
+| HR (95% CI) |  | 1.05 (0.81; 1.36) | 1.03 (0.79; 1.33) |
+| p-value |  | 0.7198 | 0.8528 |
+
+* Stratified analysis which included all progression and death events except those where non-protocol therapy (NPT) was initiated prior to documented progression - those patients were censored at the last tumor assessment prior to the start of NPT.
 Non-small cell lung cancer (NSCLC)
 
 The safety and efficacy of Avastin, in addition to platinum-based chemotherapy, in the first-line treatment of patients with non-squamous non-small cell lung cancer (NSCLC), was investigated in studies E4599 and BO17704.
 An overall survival benefit has been demonstrated in study E4599 with a 15 mg/kg/q3wk dose of bevacizumab.
 Study BO17704 has demonstrated that both 7.5 mg/kg/q3wk and 15 mg/kg/q3wk bevacizumab doses increase progression free survival and response rate.
-Due to the short duration of follow-up in study BO17704 no conclusions can be drawn regarding a benefit in overall survival.
 
 E4599
 E4599 was an open-label, randomised, active-controlled, multicentre clinical trial evaluating Avastin as first-line treatment of patients with locally advanced (stage IIIb with malignant pleural effusion), metastatic or recurrent NSCLC other than predominantly squamous cell histology.
@@ -244,10 +296,11 @@ After completion of six cycles of carboplatin-paclitaxel chemotherapy or upon pr
 878 patients were randomised to the two arms.
 
 During the study, of the patients who received trial treatment, 32.2% (136/422) of patients received 7-12 administrations of Avastin and 21.1% (89/422) of patients received 13 or more administrations of Avastin.
-The primary endpoint was duration of survival.
-Results are presented in Table 9.
 
-Table 9 Efficacy results for study E4599
+The primary endpoint was duration of survival.
+Results are presented in Table 10.
+
+Table 10 Efficacy results for study E4599
 
 |  | Arm 1 | Arm 2 |
 | --- | --- | --- |
@@ -267,14 +320,14 @@ In an exploratory analysis, the extent of Avastin benefit on overall survival wa
 BO17704
 Study BO17704 was a randomised, double-blind phase III study of Avastin in addition to cisplatin and gemcitabine versus placebo, cisplatin and gemcitabine in patients with locally advanced (stage IIIb with supraclavicular lymph node metastases or with malignant pleural or pericardial effusion), metastatic or recurrent non-squamous NSCLC, who had not received prior chemotherapy.
 The primary endpoint was progression free survival, secondary endpoints for the study included the duration of overall survival.
-
 Patients were randomised to platinum-based chemotherapy, cisplatin 80 mg/m2 i.v. infusion on day 1 and gemcitabine 1250 mg/m2 i.v. infusion on days 1 and 8 of every 3-week cycle for up to 6 cycles (CG) with placebo or CG with Avastin at a dose of 7.5 or 15 mg/kg IV infusion day 1 of every 3-week cycle.
 In the Avastin-containing arms, patients could receive Avastin as a single-agent every 3 weeks until disease progression or unacceptable toxicity.
 Study results show that 94% (277 / 296) of eligible patients went on to receive single agent bevacizumab at cycle 7.
 A high proportion of patients (approximately 62%) went on to receive a variety of non-protocol specified anti-cancer therapies, which may have impacted the analysis of overall survival.
 
-The efficacy results are presented in Table 10.
-Table 10 Efficacy results for study BO17704
+The efficacy results are presented in Table 11.
+
+Table 11 Efficacy results for study BO17704
 
 |  | Cisplatin/Gemcitabine + placebo | Cisplatin/Gemcitabine + Avastin 7.5 mg/kg q 3 weeks | Cisplatin/Gemcitabine + Avastin 15 mg/kg q 3 weeks |
 | --- | --- | --- | --- |
@@ -300,15 +353,15 @@ Avastin 10 mg/kg was given every 2 weeks until disease progression.
 IFN alfa-2a was given up to 52 weeks or until disease progression at a recommend starting dose of 9 MIU three times a week, allowing a dose reduction to 3 MIU three times a week in 2 steps.
 Patients were stratified according to country and Motzer score and the treatment arms were shown to be well balanced for the prognostic factors.
 
-At the data cut-off, 505 progression events had occurred, 111 patients remained on treatment, 287 had discontinued (discontinuations of trial treatment due to AEs were 12% with IFN alfa-2a vs. 28% with IFN alfa-2a +Avastin), and 251 died.
-Ninety seven (97) patients in the IFN alfa-2a arm and 131 patients in the Avastin arm reduced the dose of IFN alfa-2a from 9 MIU to either 6 or 3 MIU three times a week as pre-specified in the protocol.
-Dose-reduction of IFN alfa-2a did not appear to affect the efficacy of the combination of Avastin and IFN alfa-2a based on PFS event free rates over time, as shown by a sub-group analysis.
-The 131 patients in the Avastin + IFN alfa-2a arm who reduced and maintained the IFN alfa-2a dose at 6 or 3 MIU during the study, exhibited at 6, 12 and 18 months PFS event free rates of 73, 52 and 21% respectively, as compared to 61, 43 and 17% in the total population of patients receiving Avastin + IFN alfa-2a.
-The addition of Avastin to IFN alfa-2a significantly increased PFS and objective tumour response rate.
-Investigator-assessed median PFS was 10.2 months for Avastin plus IFN-alfa-2a, and 5.4 months for placebo plus IFN-alfa-2a (see Table 11).
-An independent review of progression and response assessments confirmed the investigator-assessed PFS and ORR results.
-The overall survival (OS) data were not mature at the time of the final PFS analysis.
-Table 11 Efficacy Results for Study BO17705
+The primary endpoint was overall survival, with secondary endpoints for the study including progression-free survival.
+The addition of Avastin to IFN-alpha-2a significantly increased PFS and objective tumour response rate.
+These results have been confirmed through an independent radiological review.
+However, the increase in the primary endpoint of overall survival by 2 months was not significant (HR= 0.91).
+A high proportion of patients (approximately 63% IFN/placebo; 55% Avastin/IFN) received a variety of non-specified post-study anti-cancer therapies, including antineoplastic agents, which may have impacted the analysis of overall survival.
+
+The efficacy results are presented in Table 12
+
+Table 12 Efficacy Results for Study BO17705
 
 |  | BO17705 |
 | --- | --- |
@@ -318,6 +371,19 @@ Table 11 Efficacy Results for Study BO17705
 | Objective Response Rate (%) in Patients with Measurable Disease n Response rate | 289 306 12.8% 31.4% (p-value < 0.0001) |
 
 a Interferon alfa-2a 9 MIU 3x/week b Bevacizumab 10 mg/kg q 2 wk
+
+Overall Survival
+Median (months) 21.3 23.3
+Hazard ratio 0.91
+95% CI 0.76, 1.10
+(p-value 0.3360)
+
+An exploratory multivariate Cox regression model using backward selection indicated, that the following baseline prognostic factors were strongly associated with survival independent of treatment: gender ,white blood cell count, platelets, body weight loss in the 6 months prior to study entry, number of metastatic sites, sum of longest diameter of target lesions, Motzer score.
+Adjustment for these baseline factors resulted in a treatment hazard ratio of 0.78 (95% CI [0.63;0.96], p = 0.0219), indicating a 22% reduction in the risk of death for patients in the Avastin+ IFN alfa-2a arm compared to IFN alfa-2a arm.
+
+Ninety seven (97) patients in the IFN alfa-2a arm and 131 patients in the Avastin arm reduced the dose of IFN alfa-2a from 9 MIU to either 6 or 3 MIU three times a week as pre-specified in the protocol.
+Dose-reduction of IFN alfa-2a did not appear to affect the efficacy of the combination of Avastin and IFN alfa-2a based on PFS event free rates over time, as shown by a sub-group analysis.
+The 131 patients in the Avastin + IFN alfa-2a arm who reduced and maintained the IFN alfa-2a dose at 6 or 3 MIU during the study, exhibited at 6, 12 and 18 months PFS event free rates of 73, 52 and 21% respectively, as compared to 61, 43 and 17% in the total population of patients receiving Avastin + IFN alfa-2a.
 
 AVF2938
 

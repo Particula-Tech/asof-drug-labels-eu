@@ -2,9 +2,7 @@
 
 Effect of antineoplastic agents on bevacizumab pharmacokinetics
 
-No clinically relevant pharmacokinetic interaction of co-administered chemotherapy on Avastin disposition has been observed based on the results of a population PK analysis.
-There was no difference in clearance of Avastin in patients treated with single-agent Avastin compared to patients receiving Avastin in combination with the bolus-IFL regimen.
-The effect of other co-administered chemotherapies on Avastin clearance is considered not clinically significant.
+No clinically relevant pharmacokinetic interaction of co-administered chemotherapy on Avastin pharmacokinetics has been observed based on the results of a population PK analysis There was neither statistical significance nor clinically relevant difference in clearance of Avastin in patients receiving Avastin monotherapy compared to patients receiving Avastin in combination with Interferon alpha 2a or other chemotherapies (IFL, 5-FU/LV, carboplatin-paclitaxel, capecitabine doxorubicin or cisplatin/gemcitabine).
 Effect of bevacizumab on the pharmacokinetics of other antineoplastic agents
 
 Results from a dedicated drug-drug interaction study, demonstrated no significant effect of bevacizumab on the pharmacokinetics of irinotecan and its active metabolite SN38.
