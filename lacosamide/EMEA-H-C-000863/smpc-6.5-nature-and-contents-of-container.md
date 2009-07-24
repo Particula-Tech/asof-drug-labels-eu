@@ -28,4 +28,7 @@ The treatmenat initiation pack contains 4 cartons, each carton with 14 tablets o
 
 [Vimpat 10 mg/ml solution for infusion]
 
-1x20 ml colourless type I glass vial with a chlorobutyl rubber closure coated with a fluoropolymer.
+Colourless type I glass vial with a chlorobutyl rubber closure coated with a fluoropolymer.
+Packs of 1x20 ml and 5x20 ml.
+
+Not all packsizes may be marketed
