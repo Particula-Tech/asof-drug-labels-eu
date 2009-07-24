@@ -1,6 +1,8 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each ml contains 5 mg ibuprofen.
-Each 2 ml ampoule contains 10 mg ibuprofen.
+Each ml of the solution contains 5 mg ibuprofen.
+Each ampoule of 2 ml contains 10 mg ibuprofen.
 
-For excipients, see section 6.1.
+Excipients: each ml contains 7.5 mg of sodium.
+
+For a full list of excipients, see section 6.1.

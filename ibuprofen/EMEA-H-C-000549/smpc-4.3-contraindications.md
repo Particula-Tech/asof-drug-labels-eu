@@ -1,10 +1,9 @@
 # 4.3 Contraindications
 
-Pedea is contraindicated in neonates with:
-- life-threatening infection;
-- active bleeding, especially intracranial or gastrointestinal haemorrhage;
-- thrombocytopenia or coagulation defects;
-- significant impairment of renal function;
-- congenital heart disease in which patency of the ductus arteriosus is necessary for satisfactory pulmonary or systemic blood flow (e.g. pulmonary atresia, severe tetralogy of Fallot, severe coarctation of the aorta);
-- known or suspected necrotising enterocolitis;
-- hypersensitivity to ibuprofen or to any of the excipients.
+- Hypersensitivity to the active substance or to any of the excipients;
+- Life-threatening infection;
+- Active bleeding, especially intracranial or gastrointestinal haemorrhage;
+- Thrombocytopenia or coagulation defects;
+- Significant impairment of renal function;
+- Congenital heart disease in which patency of the ductus arteriosus is necessary for satisfactory pulmonary or systemic blood flow (e.g. pulmonary atresia, severe tetralogy of Fallot, severe coarctation of the aorta);
+- Known or suspected necrotising enterocolitis;
