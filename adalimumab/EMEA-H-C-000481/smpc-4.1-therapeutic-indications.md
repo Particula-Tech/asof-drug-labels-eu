@@ -4,8 +4,8 @@ Rheumatoid arthritis
 
 Humira in combination with methotrexate, is indicated for:
 
-- the treatment of moderate to severe, active rheumatoid arthritis in adult patients when the response to disease-modifying anti-rheumatic drugs including methotrexate has been inadequate.
-- the treatment of severe, active and progressive rheumatoid arthritis in adults not previously treated with methotrexate.
+� the treatment of moderate to severe, active rheumatoid arthritis in adult patients when the response to disease-modifying anti-rheumatic drugs including methotrexate has been inadequate.
+� the treatment of severe, active and progressive rheumatoid arthritis in adults not previously treated with methotrexate.
 
 Humira can be given as monotherapy in case of intolerance to methotrexate or when continued treatment with methotrexate is inappropriate.
 

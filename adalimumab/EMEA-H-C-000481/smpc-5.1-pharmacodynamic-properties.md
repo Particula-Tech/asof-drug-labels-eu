@@ -34,7 +34,6 @@ RA study II evaluated 544 patients with moderately to severely active rheumatoid
 ≥ 18 years old and had failed therapy with at least one disease-modifying, anti-rheumatic drugs.
 Doses of 20 or 40 mg of Humira were given by subcutaneous injection every other week with placebo on alternative weeks or every week for 26 weeks; placebo was given every week for the same duration.
 No other disease-modifying anti-rheumatic drugs were allowed.
-
 RA study III evaluated 619 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, and who had an ineffective response to methotrexate at doses of 12.5 to 25 mg, or have been intolerant to 10 mg of methotrexate every week.
 There were three groups in this study.
 The first received placebo injections every week for 52 weeks.
@@ -63,18 +62,12 @@ The results for the 40 mg every other week dose are summarised in Table 3.
 Table 3 ACR Responses in Placebo-Controlled Trials
 (Percent of Patients)
 
-| RA Study Ia** | RA Study IIa** |
-| --- | --- |
-| Placebo/ Humirab/ MTXc MTXc n=63 n=60 | Placebo Humirab n=110 n=113 |
-| 13.3% 65.1% NA NA | 19.1% 46.0% NA NA |
-| 6.7% 52.4% NA NA | 8.2% 22.1% NA NA |
-| 3.3% 23.8% NA NA | 1.8% 12.4% NA NA |
-
-ACR 20
-
-ACR 50
-
-ACR 70
+| Response | RA Study Ia** | RA Study IIa** | RA Study IIIa** |
+| --- | --- | --- | --- |
+|  | Placebo/ Humirab/ MTXc MTXc n=63 n=60 | Placebo Humirab n=110 n=113 | Placebo/ Humirab/ MTXc MTXc n=207 n=200 |
+| ACR 20 6 months 12 months ACR 50 6 months 12 months ACR 70 6 months 12 months | 13.3% 65.1% NA NA | 19.1% 46.0% NA NA | 29.5% 63.3% 24.0% 58.9% |
+|  | 6.7% 52.4% NA NA | 8.2% 22.1% NA NA | 9.5% 39.1% 9.5% 41.5% |
+|  | 3.3% 23.8% NA NA | 1.8% 12.4% NA NA | 2.5% 20.8% 4.5% 23.2% |
 
 a RA study I at 24 weeks, RA study II at 26 weeks , and RA study III at 24 and 52 weeks b 40 mg Humira administered every other week c MTX = methotrexate
 **p < 0.01, Humira versus placebo
@@ -236,9 +229,9 @@ Humira 40 mg every other week was assessed in 393 patients in two randomised, 24
 Seventy-nine (20.1%) patients were treated concomitantly with disease modifying anti-rheumatic drugs, and 37 (9.4%) patients with glucocorticoids.
 The blinded period was followed by an open − label period during which patients received Humira 40 mg every other week subcutaneously for up to an additional 28 weeks.
 Subjects (n = 215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20 received early escape open-label adalimumab 40 mg every other week subcutaneously and were subsequently treated as non-responders in the double-blind statistical analyses.
-
 In the larger AS study I with 315 patients, results showed statistically significant improvement of the signs and symptoms of ankylosing spondylitis in patients treated with Humira compared to placebo.
 Significant response was first observed at Week 2 and maintained through 24 weeks (Table 10).
+
 Table 10–Efficacy Responses in Placebo-Controlled AS Study – Study I
 Reduction of Signs and Symptoms
 
@@ -334,6 +327,7 @@ Quality of Life
 In CD Study I and CD Study II, statistically significant improvement in the disease-specific inflammatory bowel disease questionnaire (IBDQ) total score was achieved at Week 4 in patients randomised to Humira 80/40 mg and 160/80 mg compared to placebo and was seen at Weeks 26 and 56 in CD Study III as well among the adalimumab treatment groups compared to the placebo group.
 
 Psoriasis
+
 The safety and efficacy of Humira were studied in adult patients with chronic plaque psoriasis (≥ 10% BSA involvement and Psoriasis Area and Severity Index (PASI) ≥ 12 or ≥ 10) who were candidates for systemic therapy or phototherapy in randomised, double-blind studies.
 73% of patients enrolled in Psoriasis Studies I and II had received prior systemic therapy or phototherapy.
 

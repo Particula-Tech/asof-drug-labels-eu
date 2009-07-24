@@ -108,6 +108,7 @@ All patients should be advised to seek immediate medical attention if they devel
 Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.
 
 Vaccinations
+
 Similar antibody responses to the standard 23-valent pneumococcal vaccine and the influenza trivalent virus vaccination were observed in a study in 226 adult subjects with rheumatoid arthritis who were treated with adalimumab or placebo.
 No data are available on the secondary transmission of infection by live vaccines in patients receiving Humira.
 
