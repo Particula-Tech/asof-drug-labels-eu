@@ -16,11 +16,11 @@ If Renagel is prescribed as an alternative phosphate binder, Renagel should be g
 Serum phosphate levels should be closely monitored and the dose of Renagel adjusted accordingly with the goal of lowering serum phosphate to 1.76 mmol/l (5.5mg/dl) or less.
 Serum phosphate should be tested every two to three weeks until a stable serum phosphate level is reached and on a regular basis thereafter.
 
-The dose range may vary between 1 and 10 capsules per meal.
+The dose range may vary between 1 and 10 tablets per meal.
 The average actual daily dose used in the chronic phase of a one year clinical study was 7 grams of sevelamer.
 
 Patients should take Renagel with meals and adhere to their prescribed diets.
-The capsules must be swallowed whole.
+The tablets must be swallowed whole.
 
 [Renagel 800 mg film-coated tablets]
 
@@ -33,5 +33,4 @@ Serum phosphate levels should be closely monitored and the dose of Renagel adjus
 
 The dose range may vary between 1 and 5 800 mg tablets per meal.
 
-The tablets must be swallowed whole.
 Do not chew.

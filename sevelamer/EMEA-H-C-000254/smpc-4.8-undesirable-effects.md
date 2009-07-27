@@ -10,7 +10,7 @@ Common (≥1/100 to <1/10): Diarrhoea, dyspepsia, flatulence, upper abdominal pa
 
 Most of these events are commonly observed in patients Stage 5 Chronic Kidney Disease and are not necessarily attributable to Renagel.
 
-Post-marketing experience: In very rare cases, intestinal obstruction and ileus/subileus have been observed in patients during treatment with Renagel.
+Post-marketing experience: During post-approval use of Renagel, cases of pruritus, rash, abdominal pain, intestinal obstruction, ileus/subileus and intestinal perforation have been reported.
 
 [Renagel 800 mg film-coated tablets]
 

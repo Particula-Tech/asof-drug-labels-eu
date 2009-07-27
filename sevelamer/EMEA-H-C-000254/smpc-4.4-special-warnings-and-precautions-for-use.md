@@ -2,7 +2,7 @@
 
 Efficacy and safety of Renagel has not been studied in children or in predialysis patients.
 
-The safety and efficacy of Renagel has not been studied in patients with swallowing disorders, untreated or severe gastroparesis, and retention of gastric contents.
+The safety and efficacy of Renagel has not been studied in patients with swallowing disorders, untreated or severe gastroparesis, diverticulosis, and retention of gastric contents.
 Renagel should only be used in these patients following careful assessment of benefit and risks.
 
 Efficacy and safety of Renagel has not been studied in patients with active inflammatory bowel disease, gastrointestinal motility disorders, abnormal or irregular bowel motion and patients with a history of major gastrointestinal surgery.
@@ -34,9 +34,6 @@ One gram of Renagel contains approximately 180 mg (5.1mEq) chloride.
 Patients with chronic renal failure are predisposed to developing metabolic acidosis.
 Worsening of acidosis has been reported upon switching from other phosphate binders to sevelamer in a number of studies where lower bicarbonate levels in the sevelamer-treated patients compared to patients treated with calcium-based binders were observed.
 Closer monitoring of serum bicarbonate levels is therefore recommended.
-Very rare cases of hypothyroidism have been reported in patients co-administered Renagel and Levothyroxine.
-Closer monitoring of TSH levels is therefore recommended in patients receiving both medicinal products.
-
 Patients taking anti-arrhythmic medications for the control of arrhythmias and anti-seizure medications for the control of seizure disorders were excluded from clinical trials.
 Caution should be exercised when prescribing Renagel to patients also taking these medications.
 
