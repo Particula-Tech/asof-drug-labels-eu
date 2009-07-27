@@ -31,7 +31,6 @@ Table 5 Duration of exposure with Tasigna
 
 Resistance to imatinib included failure to achieve a complete haematological response (by 3 months), cytogenetic response (by 6 months) or major cytogenetic response (by 12 months) or progression of disease after a previous cytogenetic or haematological response.
 Imatinib intolerance included patients who discontinued imatinib because of toxicity and were not in major cytogenetic response at time of study entry.
-
 Overall, 73% of patients were imatinib-resistant, while 27% were imatinib-intolerant.
 The majority of patients had a long history of CML that included extensive prior treatment with other antineoplastic agents, including imatinib, hydroxyurea, interferon, and some had even failed organ transplant
 (Table 6).
@@ -63,8 +62,8 @@ The overall confirmed HR rate in 119 AP patients was 42%.
 Most responders achieved a HR early with Tasigna treatment (median 1.0 months) and these have been durable (median duration has not been reached).
 No patients have had a loss of CHR.
 The MCyR rate was 27% with a median time to response of 2.0 months.
-The rates of response for the two treatment arms are reported in Table 7.
 
+The rates of response for the two treatment arms are reported in Table 7.
 Table 7 Response in CML
 
 | (Best Response Rate) | Chronic Phase |  |  | Accelerated Phase |

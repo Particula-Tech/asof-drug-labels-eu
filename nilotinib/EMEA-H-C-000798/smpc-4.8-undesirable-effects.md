@@ -11,7 +11,7 @@ Most of these adverse events were mild to moderate in severity.
 Constipation, diarrhoea, bone pain, arthralgia, muscle spasms and peripheral oedema were observed less commonly and have been of mild to moderate severity.
 Discontinuation for adverse events regardless of causality was observed in 16% of CP and 14% of AP patients.
 
-Treatment emergent haematological toxicities included thrombocytopenia (27%), neutropenia (15%) and anaemia (13%).
+Treatment emergent haematological toxicities include myelosuppression: thrombocytopenia (27%), neutropenia (15%) and anaemia (13%).
 Pleural and pericardial effusions as well as complications of fluid retention occurred in <1% of patients receiving Tasigna.
 Congestive heart failure was observed in 1% of patients.
 Gastrointestinal and CNS haemorrhage were reported in 3% and 1% of patients, respectively.
@@ -152,6 +152,7 @@ Table 3 Grade 3-4 laboratory abnormalities
 | --- | --- | --- |
 |  | Grade 3-4 | Grade 3-4 |
 | Haematological parameters |  |  |
+| Myelosuppression |  |  |
 | - Neutropenia | 28% | 37% |
 | - Thrombocytopenia | 28% | 37% |
 | - Anaemia | 8% | 23% |
