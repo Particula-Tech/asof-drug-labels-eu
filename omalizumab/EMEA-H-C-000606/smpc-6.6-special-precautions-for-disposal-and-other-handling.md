@@ -74,7 +74,6 @@ Pull off the needle cap from the syringe and discard it.
 Do not touch the exposed needle.
 Gently pinch the skin at the injection site and insert the needle.
 Holding onto the finger flange, slowly depress the plunger as far as it will go.
-Keep the plunger fully depressed until after you have withdrawn the needle from the injection site.
 If any solution leaks from the injection site, insert the needle further.
 Keeping the plunger fully depressed, carefully lift the needle straight out from the injection site.
 Slowly release the plunger and allow the needle guard to automatically cover the exposed needle.
