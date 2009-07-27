@@ -5,6 +5,7 @@ Keep away from the cooling element.
 Do not freeze.
 
 Keep the vial in the outer carton in order to protect from light.
+
 After first opening or carried as a spare: Do not refrigerate.
 Store below 30°C.
 

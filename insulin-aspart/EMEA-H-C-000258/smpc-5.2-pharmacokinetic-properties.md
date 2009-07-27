@@ -17,6 +17,7 @@ However, Cmax differed between the age groups, stressing the importance of the i
 Elderly
 The relative differences in pharmacokinetic properties between insulin aspart and soluble human insulin in elderly subjects (65-83 years, mean age 70 years) with type 2 diabetes were similar to those observed in healthy subjects and in younger subjects with diabetes.
 A decreased absorption rate was observed in elderly subjects, resulting in a later tmax (82 (interquartile range: 60-120) minutes), whereas Cmax was similar to that observed in younger subjects with type 2 diabetes and slightly lower than in subjects with type 1 diabetes.
+
 Hepatic impairment
 A single dose pharmacokinetic study of insulin aspart was performed in 24 subjects with hepatic function ranging from normal to severely impaired.
 In subjects with hepatic impairment absorption rate was decreased and more variable, resulting in delayed tmax from about 50 min in subjects with normal hepatic function to about 85 min in subjects with moderate and severe hepatic impairment.

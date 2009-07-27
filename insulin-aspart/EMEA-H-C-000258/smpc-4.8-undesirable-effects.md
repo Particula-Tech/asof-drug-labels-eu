@@ -7,9 +7,9 @@ Severe hypoglycaemia may lead to unconsciousness and/or convulsions and may resu
 
 In clinical trials and during marketed use the frequency varies with patient population and dose regimens therefore no specific frequency can be presented.
 During clinical trials the overall rates of hypoglycaemia did not differ between patients treated with insulin aspart compared to human insulin.
-
 Adverse reactions listed below are classified according to frequency and System Organ Class.
 Frequency categories are defined according to the following convention: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to ≤1/100); rare (≥1/10,000 to ≤1/1,000); very rare (≤1/10,000), not known (cannot be estimated fromthe available data).
+
 Nervous system disorders Rare - Peripheral neuropathy
 
 Fast improvement in blood glucose control may be associated with a condition termed “acute painful neuropathy”, which is usually reversible.

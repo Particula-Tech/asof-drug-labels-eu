@@ -5,6 +5,8 @@ Usually the first symptoms of hyperglycaemia develop gradually over a period of 
 They include thirst, increased frequency of urination, nausea, vomiting, drowsiness, flushed dry skin, dry mouth, loss of appetite as well as acetone odour of breath.
 In type 1 diabetes, untreated hyperglycaemic events eventually lead to diabetic ketoacidosis, which is potentially lethal.
 
+Before travelling between different time zones the patient should seek the doctor’s advice since this may mean that the patient has to take the insulin and meals at different times.
+
 Hypoglycaemia
 
 Omission of a meal or unplanned strenuous physical exercise may lead to hypoglycaemia.
