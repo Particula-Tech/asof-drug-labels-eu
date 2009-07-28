@@ -27,5 +27,8 @@ Following a single oral dose of [14C]-labelled dasatinib, approximately 89% of t
 Unchanged dasatinib accounted for 0.1% and 19% of the dose in urine and faeces, respectively, with the remainder of the dose as metabolites.
 
 Hepatic and renal impairment:
+The effect of hepatic impairment on the single-dose pharmacokinetics of dasatinib was assessed in 8 moderately hepatic-impaired subjects who received a 50 mg dose and 5 severely hepatic-impaired subjects who received a 20 mg dose compared to matched healthy subjects who received a 70 mg dose of dasatinib.
+The mean Cmax and AUC of dasatinib adjusted for the 70 mg dose was decreased by 47% and 8%, respectively, in subjects with moderate hepatic impairment compared to subjects with normal hepatic function.
+In severely hepatic-impaired subjects, the mean Cmax and AUC adjusted for the 70 mg dose was decreased by 43% and 28%, respectively, compared to subjects with normal hepatic function (see sections 4.2 and 4.4).
+
 Dasatinib and its metabolites are minimally excreted via the kidney.
-Exposure to dasatinib may be expected to increase if liver function is impaired (see section 4.4).

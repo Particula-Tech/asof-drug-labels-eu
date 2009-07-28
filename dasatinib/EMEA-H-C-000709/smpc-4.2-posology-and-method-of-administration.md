@@ -42,9 +42,7 @@ Paediatric patients: SPRYCEL is not recommended for use in children and adolesce
 Elderly patients: no clinically relevant age-related pharmacokinetic differences have been observed in these patients.
 No specific dose recommendation is necessary in the elderly.
 
-Hepatic impairment: no clinical trials were conducted with SPRYCEL in patients with moderate to severe hepatic impairment (trials excluded patients with ALT and/or AST > 2.5 times the upper limit of the normal range and/or total bilirubin > 2 times the upper limit of the normal range).
-Since dasatinib is mainly metabolised through the liver, exposure to dasatinib is expected to increase if liver function is impaired.
-SPRYCEL should be used with caution in patients with moderate to severe hepatic impairment (see section 4.4).
-
+Hepatic impairment: patients with mild, moderate or severe hepatic impairment may receive the recommended starting dose.
+However, SPRYCEL should be used with caution in patients with hepatic impairment (see sections 4.4 and 5.2).
 Renal impairment: no clinical trials were conducted with SPRYCEL in patients with decreased renal function (trials excluded patients with serum creatinine concentration > 1.5 times the upper limit of the normal range).
 Since the renal clearance of dasatinib and its metabolites is < 4%, a decrease in total body clearance is not expected in patients with renal insufficiency.

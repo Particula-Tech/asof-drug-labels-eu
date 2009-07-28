@@ -17,8 +17,8 @@ The concomitant use of dasatinib and a histamine-2 (H2) antagonist (e.g. famotid
 Thus, H2 antagonists and proton pump inhibitors are not recommended and aluminium hydroxide/magnesium hydroxide products should be administered up to 2 hours prior to, or 2 hours following the administration of dasatinib (see section 4.5).
 
 Special populations
-There are currently no data available from clinical trials with SPRYCEL in patients with moderate to severe liver impairment.
-Caution is recommended when administering SPRYCEL to patients with moderate to severe hepatic impairment (see section 4.2).
+Based on the findings from a single-dose pharmacokinetic study, patients with mild, moderate or severe hepatic impairment may receive the recommended starting dose (see sections 4.2 and 5.2).
+Due to the limitations of this clinical study, caution is recommended when administering SPRYCEL to patients with hepatic impairment (see section 4.2).
 
 Important adverse reactions
 Myelosuppression: treatment with dasatinib is associated with anaemia, neutropenia and thrombocytopenia.
@@ -27,12 +27,12 @@ Ph+ ALL than in chronic phase CML.
 Complete blood counts should be performed weekly for the first 2 months, and then monthly thereafter, or as clinically indicated.
 Myelosuppression was generally reversible and usually managed by withholding dasatinib temporarily or by dose reduction (see sections 4.2 and 4.8).
 In a Phase III dose-optimisation study in patients with chronic phase CML, grade 3 or 4 myelosuppression was reported more frequently in patients treated with 70 mg twice daily than in patients treated with 100 mg once daily.
-
 Bleeding: in all clinical studies, severe central nervous system (CNS) haemorrhage occurred in < 1% of patients.
 Nine cases were fatal and 6 of them were associated with Common Toxicity Criteria (CTC) grade 4 thrombocytopenia.
 Grade 3 or 4 gastrointestinal haemorrhage occurred in 4% of patients and generally required treatment interruptions and transfusions.
 Other grade 3 or 4 haemorrhage occurred in 2% of patients.
 Most bleeding related events were typically associated with grade 3 or 4 thrombocytopenia (see section 4.8).
+Additionally, in vitro and in vivo platelet assays suggest that SPRYCEL treatment reversibly affects platelet activation.
 
 Patients were excluded from participation in initial SPRYCEL clinical trials if they took medicinal products that inhibit platelet function or anticoagulants.
 In subsequent trials, the use of anticoagulants, acetylsalicylic acid, and non-steroidal anti-inflammatory drugs (NSAIDs) was allowed concurrently with SPRYCEL if the platelet count was > 50,000-75,000/mm3.

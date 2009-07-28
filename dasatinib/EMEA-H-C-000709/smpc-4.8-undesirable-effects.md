@@ -30,13 +30,113 @@ Nine cases were fatal and 6 of them were associated with CTC grade 4 thrombocyto
 Grade 3 or 4 gastrointestinal haemorrhage occurred in 4% of patients and generally required treatment interruption and transfusions.
 Other grade 3 or 4 haemorrhage occurred in 2% of patients.
 Most bleeding related events were typically associated with grade 3 or 4 thrombocytopenia.
+Additionally, in vitro and in vivo platelet assays suggest that SPRYCEL treatment reversibly affects platelet activation (see section 4.4).
 Treatment with SPRYCEL is associated with anaemia, neutropenia and thrombocytopenia.
 Their occurrence is more frequent in patients with advanced phase CML or Ph+ ALL than in chronic phase CML (see section 4.4).
 
-In the Phase III dose-optimisation study in patients with chronic phase CML (median duration of treatment of 22 months), the incidence of pleural effusion and congestive heart failure/cardiac dysfunction was lower in patients treated with SPRYCEL 100 mg once daily than in those treated with SPRYCEL 70 mg twice daily (Table 2a).
+In clinical trials, it was recommended that treatment with imatinib be discontinued at least 7 days before starting treatment with SPRYCEL.
+
+The following adverse reactions, excluding laboratory abnormalities, were reported in patients in SPRYCEL clinical trials (Table 2).
+These reactions are presented by system organ class and by frequency.
+Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000).
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
+Table 2: Tabulated Summary of Adverse Reactions
+
+Infections and infestations
+Very common infection (including bacterial, viral, fungal, non-specific)
+Common sepsis (including fatal outcome), pneumonia (including bacterial, viral, and fungal),
+upper respiratory tract infection/inflammation, herpes viral infection, enterocolitis
+infection
+Neoplasms benign, malignant and unspecified (including cysts and polyps)
+Uncommon tumour lysis syndrome
+Blood and lymphatic system disorders
+Common febrile neutropenia, pancytopenia
+Rare aplasia pure red cell
+Immune System Disorders
+Uncommon hypersensitivity (including erythema nodosum)
+Metabolism and nutrition disorders
+Common anorexia, appetite disturbances, hyperuricaemia
+Psychiatric disorders
+Common depression, insomnia
+Uncommon anxiety, confusional state, affect lability, libido decreased
+Nervous system disorders
+Very common headache
+Common neuropathy (including peripheral neuropathy), dizziness, dysgeusia, somnolence
+Uncommon CNS bleedinga, syncope, tremor, amnesia
+Rare cerebrovascular accident, transient ischaemic attack, convulsion
+Eye disorders
+Common visual disorder (including visual disturbance, vision blurred, and visual acuity
+reduced), dry eye
+Uncommon conjunctivitis
+Ear and labyrinth disorders
+Common tinnitus
+Uncommon vertigo
+Cardiac disorders
+Common congestive heart failure/cardiac dysfunctionb, pericardial effusion, arrhythmia
+(including tachycardia), palpitations
+Uncommon myocardial infarction, electrocardiogram QT prolonged, pericarditis, ventricular
+arrhythmia (including ventricular tachycardia), angina pectoris, cardiomegaly
+Rare cor pulmonale, myocarditis, acute coronary syndrome
+Vascular disorders
+Very common haemorrhagec
+Common hypertension, flushing
+Uncommon hypotension, thrombophlebitis
+Rare livedo reticularis
+Respiratory, thoracic and mediastinal disorders
+Very common pleural effusion, dyspnoea, cough
+Common pulmonary oedema, pulmonary hypertension, lung infiltration, pneumonitis
+Uncommon bronchospasm, asthma
+Rare acute respiratory distress syndrome
+Gastrointestinal disorders
+Very common diarrhoea, vomiting, nausea, abdominal pain
+Common gastrointestinal bleeding, colitis (including neutropenic colitis), gastritis, mucosal
+inflammation (including mucositis/stomatitis), dyspepsia, abdominal distension,
+constipation, oral soft tissue disorder
+Uncommon pancreatitis, upper gastrointestinal ulcer, oesophagitis, ascites, anal fissure, dysphagia
+Hepatobiliary disorders
+Uncommon hepatitis, cholestasis
+Rare cholecystitis
+Skin and subcutaneous tissue disorders
+Very common skin rashd
+Common alopecia, dermatitis (including eczema), pruritus, acne, dry skin, urticaria,
+hyperhidrosis
+Uncommon acute febrile neutrophilic dermatosis, photosensitivity, pigmentation disorder,
+panniculitis, skin ulcer, bullous conditions, nail disorder, palmar-plantar
+erythrodysesthesia syndrome
+Musculoskeletal and connective tissue disorders
+Very common musculoskeletal pain
+Common arthralgia, myalgia, muscle inflammation, muscular weakness, musculoskeletal
+stiffness
+Uncommon rhabdomyolysis
+Rare tendonitis
+Renal and urinary disorders
+Uncommon renal failure, urinary frequency, proteinuria
+Reproductive system and breast disorders
+Uncommon gynecomastia, irregular menstruation
+General disorders and administration site conditions
+Very common fluid retention, fatigue, superficial oedemae, pyrexia
+Common asthenia, pain, chest pain, generalised oedema, chills
+Uncommon malaise, temperature intolerance
+Investigations
+Common weight decreased, weight increased
+Uncommon blood creatine phosphokinase increased
+Injury, poisoning, and procedural complications
+Common contusion
+
+a Includes cerebral haematoma, cerebral haemorrhage, extradural haematoma, haemorrhage intracranial, haemorrhagic stroke, subarachnoid haemorrhage, subdural haematoma, and subdural haemorrhage.
+
+b Includes ventricular dysfunction, cardiac failure, cardiac failure congestive, cardiomyopathy, congestive cardiomyopathy, diastolic dysfunction, ejection fraction decreased and ventricular failure.
+
+c Excludes gastrointestinal bleeding and CNS bleeding; these ADRs are reported under the gastrointestinal disorders system organ class and the nervous system disorders system organ class, respectively.
+
+d Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, fungal rash, generalised erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalised, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, rash vesicular, skin exfoliation, skin irritation and urticaria vesiculosa.
+
+e Includes auricular swelling, conjunctival oedema, eye oedema, eye swelling, eyelid oedema, face oedema, gravitational oedema, lip oedema, localised oedema, macular oedema, oedema genital, oedema mouth, oedema peripheral, orbital oedema, penile oedema, periorbital oedema, pitting oedema, scrotal oedema, swelling face and tongue oedema.
+In the Phase III dose-optimisation study in patients with chronic phase CML (median duration of treatment of 22 months), the incidence of pleural effusion and congestive heart failure/cardiac dysfunction was lower in patients treated with SPRYCEL 100 mg once daily than in those treated with SPRYCEL 70 mg twice daily (Table 3a).
 Myelosuppression was also reported less frequently with the 100 mg once daily (see Laboratory test abnormalities below).
 
-Table 2a: Selected Adverse Drug Reactions Reported in Phase III Dose-Optimisation Study: Chronic Phase CML
+Table 3a: Selected Adverse Drug Reactions Reported in Phase III Dose-Optimisation Study: Chronic Phase CML
 100 mg once daily 140 mg once daily 50 mg twice daily 70 mg twice daily
 
 n = 165 n = 163 n = 167 n = 167
@@ -68,8 +168,8 @@ Gastrointestinal 2 1 2 0 5 3 4 2
 bleeding
 
 In the Phase III dose-optimisation study in patients with advanced phase CML and Ph+ ALL (median duration of treatment of 14 months for accelerated phase CML, 3 months for myeloid blast CML,
-4 months for lymphoid blast CML and 3 months for Ph+ ALL), fluid retention (pleural effusion and pericardial effusion) was reported less frequently in patients treated with SPRYCEL 140 mg once daily than in those treated with 70 mg twice daily (Table 2b).
-Table 2b: Selected Adverse Drug Reactions Reported in Phase III Dose-Optimisation Study: Advanced Phase CML and Ph+ ALL
+4 months for lymphoid blast CML and 3 months for Ph+ ALL), fluid retention (pleural effusion and pericardial effusion) was reported less frequently in patients treated with SPRYCEL 140 mg once daily than in those treated with 70 mg twice daily (Table 3b).
+Table 3b: Selected Adverse Drug Reactions Reported in Phase III Dose-Optimisation Study: Advanced Phase CML and Ph+ ALL
 
 140 mg once daily 70 mg twice daily
 n = 304 n = 305
@@ -93,114 +193,13 @@ Haemorrhage
 
 Gastrointestinal bleeding 8 6 12 6
 
-In clinical trials, it was recommended that treatment with imatinib be discontinued at least 7 days before starting treatment with SPRYCEL.
-
-Adverse reactions:
-The following adverse reactions, excluding laboratory abnormalities, were reported in patients in SPRYCEL clinical trials.
-These reactions are presented by system organ class and by frequency.
-Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000).
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
-Investigations
-Common: weight decreased, weight increased
-Uncommon: blood creatine phosphokinase increased
-
-Cardiac disorders
-Common: congestive heart failure/cardiac dysfunctiona, pericardial effusion, arrhythmia (including tachycardia), palpitations
-Uncommon: myocardial infarction, electrocardiogram QT prolonged, pericarditis, ventricular arrhythmia (including ventricular tachycardia), angina pectoris, cardiomegaly
-Rare: cor pulmonale, myocarditis, acute coronary syndrome
-
-Blood and lymphatic system disorders
-Common: febrile neutropenia, pancytopenia
-Rare: aplasia pure red cell
-
-Nervous system disorders
-Very common: headache
-Common: neuropathy (including peripheral neuropathy), dizziness, dysgeusia, somnolence Uncommon: CNS bleeding, syncope, tremor, amnesia
-Rare: cerebrovascular accident, transient ischaemic attack, convulsion
-
-Eye disorders
-Common: visual disorder (including visual disturbance, vision blurred, and visual acuity reduced), dry eye
-Uncommon: conjunctivitis
-Ear and labyrinth disorders
-Common: tinnitus
-Uncommon: vertigo
-
-Respiratory, thoracic and mediastinal disorders
-Very common: pleural effusion, dyspnoea, cough
-Common: pulmonary oedema, pulmonary hypertension, lung infiltration, pneumonitis
-Uncommon: bronchospasm, asthma
-Rare: acute respiratory distress syndrome
-
-Gastrointestinal disorders
-Very common: diarrhoea, vomiting, nausea, abdominal pain
-Common: gastrointestinal bleeding, colitis (including neutropenic colitis), gastritis, mucosal inflammation (including mucositis/stomatitis), dyspepsia, abdominal distension, constipation, oral soft tissue disorder
-Uncommon: pancreatitis, upper gastrointestinal ulcer, oesophagitis, ascites, anal fissure, dysphagia
-
-Renal and urinary disorders
-Uncommon: renal failure, urinary frequency, proteinuria
-
-Skin and subcutaneous tissue disorders
-Very common: skin rashb
-Common: alopecia, dermatitis (including eczema), pruritus, acne, dry skin, urticaria, hyperhidrosis Uncommon: acute febrile neutrophilic dermatosis, photosensitivity, pigmentation disorder, panniculitis, skin ulcer, bullous conditions, nail disorder, palmar-plantar erythrodysesthesia syndrome
-
-Musculoskeletal and connective tissue disorders
-Very common: musculoskeletal pain
-Common: arthralgia, myalgia, muscle inflammation, muscular weakness, musculoskeletal stiffness Uncommon: rhabdomyolysis
-Rare: tendonitis
-
-Metabolism and nutrition disorders
-Common: anorexia, appetite disturbances, hyperuricaemia
-
-Infections and infestations
-Very common: infection (including bacterial, viral, fungal, non-specific)
-Common: sepsis (including fatal outcome), pneumonia (including bacterial, viral, and fungal), upper respiratory tract infection/inflammation, herpes viral infection, enterocolitis infection
-
-Injury, poisoning, and procedural complications
-Common: contusion
-
-Neoplasms benign, malignant and unspecified (including cysts and polyps)
-Uncommon: tumour lysis syndrome
-
-Vascular disorders
-Very common: haemorrhagec
-Common: hypertension, flushing
-Uncommon: hypotension, thrombophlebitis
-Rare: livedo reticularis
-
-General disorders and administration site conditions
-Very common: fatigue, superficial oedemad, pyrexia
-Common: asthenia, pain, chest pain, generalised oedema, chills
-Uncommon: malaise, temperature intolerance
-Immune System Disorders
-Uncommon: hypersensitivity (including erythema nodosum)
-
-Hepatobiliary disorders
-Uncommon: hepatitis, cholestasis
-Rare: cholecystitis
-
-Reproductive system and breast disorders
-Uncommon: gynecomastia, irregular menstruation
-
-Psychiatric disorders
-Common: depression, insomnia
-Uncommon: anxiety, confusional state, affect lability, libido decreased
-
-a Includes ventricular dysfunction, cardiac failure, cardiac failure congestive, cardiomyopathy, congestive cardiomyopathy, diastolic dysfunction, ejection fraction decreased and ventricular failure.
-
-b Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, fungal rash, generalised erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalised, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, rash vesicular, skin exfoliation, skin irritation and urticaria vesiculosa.
-
-c Excludes gastrointestinal bleeding and CNS bleeding; these ADRs are reported under the gastrointestinal disorders system organ class and the nervous system disorders system organ class, respectively.
-
-d Includes auricular swelling, conjunctival oedema, eye oedema, eye swelling, eyelid oedema, face oedema, gravitational oedema, lip oedema, localised oedema, macular oedema, oedema genital, oedema mouth, oedema peripheral, orbital oedema, penile oedema, periorbital oedema, pitting oedema, scrotal oedema, swelling face and tongue oedema.
-
 Laboratory test abnormalities:
 Haematology:
 In CML, cytopenias (thrombocytopenia, neutropenia, and anaemia) were a consistent finding.
 However, the occurrence of cytopenias was also clearly dependent on the stage of the disease.
-The frequency of grade 3 and 4 haematological abnormalities is presented in Table 3.
+The frequency of grade 3 and 4 haematological abnormalities is presented in Table 4.
 
-Table 3: CTC Grades 3/4 Haematological Laboratory Abnormalities in
+Table 4: CTC Grades 3/4 Haematological Laboratory Abnormalities in
 
 Clinical Studies
 Lymphoid
@@ -223,6 +222,7 @@ In the Phase III dose-optimisation study in patients with chronic phase CML, the
 
 In patients who experienced grade 3 or 4 myelosuppression, recovery generally occurred following brief dose interruptions and/or reductions and permanent discontinuation of treatment occurred in 5% of patients.
 Most patients continued treatment without further evidence of myelosuppression.
+
 Biochemistry:
 Grade 3 or 4 elevations of transaminases or bilirubin were reported in < 1% of patients with chronic phase CML but elevations were reported with an increased frequency of 1 to 7% of patients with advanced phase CML and Ph+ ALL.
 It was usually managed with dose reduction or interruption.

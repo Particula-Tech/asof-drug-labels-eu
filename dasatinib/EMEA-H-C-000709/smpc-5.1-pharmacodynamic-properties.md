@@ -11,10 +11,10 @@ These non-clinical studies show that dasatinib can overcome imatinib resistance 
 Additionally, dasatinib inhibits SRC family kinases at subnanomolar concentrations.
 
 In vivo, in separate experiments using murine models of CML, dasatinib prevented the progression of chronic CML to blast phase and prolonged the survival of mice bearing patient-derived CML cell lines grown at various sites, including the central nervous system.
+
 Clinical trials:
 In the Phase I study, haematologic and cytogenetic responses were observed in all phases of CML and in Ph+ ALL in the first 84 patients treated and followed for up to 27 months.
 Responses were durable across all phases of CML and Ph+ ALL.
-
 A total of 2,182 patients were evaluated in clinical trials; of these 25% were ≥ 65 years of age and 5% were ≥ 75 years of age.
 Safety and efficacy of dasatinib have not yet been studied in paediatric patients.
 
@@ -51,10 +51,10 @@ The proportion of patients who maintained MCyR for 18 months was 90% (95% CI: [8
 
 Based on the Kaplan-Meier estimates, the proportion of patients who had progression-free survival (PFS) for 1 year was 91% (95% CI: [85%-97%]) for dasatinib and 73% (95% CI: [54%-91%]) for imatinib.
 The proportion of patients who had PFS at 2 years was 86% (95% CI: [78%-93%]) for dasatinib and 65% (95% CI: [43%-87%]) for imatinib.
+
 A total of 43% of the patients in the dasatinib arm, and 82% in the imatinib arm had treatment failure, defined as disease progression or cross-over to the other treatment (lack of response, study drug intolerance, etc.).
 
 The rate of major molecular response (defined as BCR-ABL/control transcripts ≤ 0.1% by RQ-PCR in peripheral blood samples) prior to crossover was 29% for dasatinib and 12% for imatinib.
-
 2- An open-label, single-arm, multicenter study was conducted in patients resistant or intolerant to imatinib (i.e. patients who experienced significant toxicity during treatment with imatinib that precluded further treatment).
 A total of 387 patients received dasatinib 70 mg twice daily (288 resistant and 99 intolerant).
 The median time from diagnosis to start of treatment was 61 months.
@@ -63,7 +63,7 @@ Most resistant patients (72%) had received > 600 mg imatinib.
 In addition to imatinib, 35% of patients had received prior cytotoxic chemotherapy, 65% had received prior interferon, and 10% had received a prior stem cell transplant.
 Thirty-eight percent of patients had baseline mutations known to confer imatinib resistance.
 Median duration of treatment on dasatinib was 24 months with 51% of patients treated for > 24 months to date.
-Efficacy results are reported in Table 4.
+Efficacy results are reported in Table 5.
 MCyR was achieved in 55% of imatinib-resistant patients and 82% of imatinib-intolerant patients.
 With a minimum of 24 months follow-up, 21 of the 240 patients who had achieved a MCyR had progressed and the median duration of MCyR had not been reached.
 
@@ -86,7 +86,7 @@ A total of 174 patients received dasatinib 70 mg twice daily (161 resistant and 
 The median time from diagnosis to start of treatment was 82 months.
 Median duration of treatment on dasatinib was 14 months with 31% of patients treated for > 24 months to date.
 The rate of major molecular response (assessed in 41 patients with a CCyR) was 46% at 24 months.
-Further efficacy results are reported in Table 4.
+Further efficacy results are reported in Table 5.
 
 Myeloid Blast Phase CML:
 An open-label, single-arm, multicenter study was conducted in patients intolerant or resistant to imatinib.
@@ -94,7 +94,8 @@ A total of 109 patients received dasatinib 70 mg twice daily (99 resistant and 1
 The median time from diagnosis to start of treatment was 48 months.
 Median duration of treatment on dasatinib was 3.5 months with 12% of patients treated for > 24 months to date.
 The rate of major molecular response (assessed in 19 patients with a CCyR) was 68% at 24 months.
-Further efficacy results are reported in Table 4.
+Further efficacy results are reported in Table 5.
+
 Clinical trials in Lymphoid Blast Phase CML and Ph+ ALL:
 An open-label, single-arm, multicenter study was conducted in patients with lymphoid blast phase CML or Ph+ ALL who were resistant or intolerant to prior imatinib therapy.
 A total of 48 patients with lymphoid blast CML received dasatinib 70 mg twice daily (42 resistant and 6 intolerant to imatinib).
@@ -106,10 +107,10 @@ In addition,
 The median time from diagnosis to start of treatment was 18 months.
 Median duration of treatment on dasatinib was 3 months with 7% of patients treated for > 24 months to date.
 The rate of major molecular response (all 25 treated patients with a CCyR) was 52% at 24 months.
-Further efficacy results are reported in Table 4.
+Further efficacy results are reported in Table 5.
 Of note, major haematologic responses (MaHR) were achieved quickly (most within 35 days of first dasatinib administration for patients with lymphoid blast CML, and within 55 days for patients with Ph+ ALL).
 
-Table 4: Efficacy in Phase II SPRYCEL Single-Arm Clinical Studiesa
+Table 5: Efficacy in Phase II SPRYCEL Single-Arm Clinical Studiesa
 
 Myeloid Lymphoid
 
@@ -141,6 +142,7 @@ MCyR (0%-35%) combines both complete and partial responses.
 n/a = not applicable CI = confidence interval ULN = upper limit normal range.
 
 The outcome of patients with bone marrow transplantation after dasatinib treatment has not been fully evaluated.
+
 Phase III Clinical Trials
 Two randomised, open-label studies were conducted to evaluate the efficacy of dasatinib administered once daily compared with dasatinib administered twice daily.
 Results described below are based on a minimum of 24 months follow-up after the start of dasatinib therapy.
@@ -153,9 +155,9 @@ Median duration of treatment was 22 months (range < 1-31 months).
 
 Efficacy was achieved across all dasatinib treatment groups with the once daily schedule demonstrating comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint (difference in MCyR 1.9%; 95% confidence interval [-6.8% - 10.6%]).
 The main secondary endpoint of the study also showed comparable efficacy (non-inferiority) between the 100 mg total daily dose and the 140 mg total daily dose (difference in MCyR -0.2%; 95% confidence interval [-8.9% - 8.5%]).
-Efficacy results are presented in Table 5.
+Efficacy results are presented in Table 6.
 
-Table 5: Efficacy of SPRYCEL in Phase III Dose-Optimisation Study: Chronic Phase CML
+Table 6: Efficacy of SPRYCEL in Phase III Dose-Optimisation Study: Chronic Phase CML
 100 mg once daily 50 mg twice daily 140 mg once daily 70 mg twice daily
 
 All Patients n = 167 n = 168 n = 167 n = 168
@@ -198,6 +200,7 @@ CHR (chronic CML): WBC ≤ institutional ULN, platelets < 450,000/mm3, no blasts
 MCyR (0%-35%) combines both complete and partial responses.
 c Major molecular response criteria: Defined as BCR-ABL/control transcripts ≤ 0.1% by RQ-PCR in peripheral blood samples.
 Molecular response was evaluated in a subset of assessed patients who had a CCyR.
+
 Based on the Kaplan-Meier estimates, the proportion of patients treated with dasatinib 100 mg once daily who maintained MCyR for 18 months was 93% (95% CI: [88%-98%]) and 88% (95% CI: [81%- 95%]) for patients treated with 70 mg of dasatinib twice daily.
 
 Efficacy was also assessed in patients who were intolerant to imatinib.
@@ -211,9 +214,9 @@ A total of 611 patients were randomised to either the dasatinib 140 mg once dail
 Median duration of treatment was approximately 6 months (range 0.03-31 months).
 
 The once daily schedule demonstrated comparable efficacy (non-inferiority) to the twice daily schedule on the primary efficacy endpoint (difference in MaHR 0.8%; 95% confidence interval [-7.1% - 8.7%]).
-Response rates are presented in Table 6.
+Response rates are presented in Table 7.
 
-Table 6: Efficacy of SPRYCEL in Phase III Dose-Optimisation Study: Advanced Phase CML and Ph+ ALL
+Table 7: Efficacy of SPRYCEL in Phase III Dose-Optimisation Study: Advanced Phase CML and Ph+ ALL
 
 | 140 mg Once Daily | 70 mg Twice Daily |
 | --- | --- |
@@ -223,8 +226,7 @@ Table 6: Efficacy of SPRYCEL in Phase III Dose-Optimisation Study: Advanced Phas
 
 a Hematologic response criteria (all responses confirmed after 4 weeks): Major hematologic response (MaHR) = complete hematologic response (CHR) + no evidence of leukemia (NEL).
 CHR: WBC ≤ institutional ULN, ANC ≥ 1,000/mm3, platelets ≥ 100,000/mm3, no blasts or promyelocytes in peripheral blood, bone marrow blasts ≤ 5%, < 5% myelocytes plus metamyelocytes in peripheral blood, basophils in peripheral blood < 20%, and no extramedullary involvement.
-NEL: same criteria as for CHR but ANC ≥ 500/mm3 and < 1,000/mm3, or platelets ≥ 20,000/mm3 and ≤ 100,000/mm3.
-b MCyR combines both complete (0% Ph+ metaphases) and partial (> 0%-35%) responses.
+NEL: same criteria as for CHR but ANC ≥ 500/mm3 and < 1,000/mm3, or platelets ≥ 20,000/mm3 and ≤ 100,000/mm3. b MCyR combines both complete (0% Ph+ metaphases) and partial (> 0%-35%) responses.
 CI = confidence interval ULN = upper limit of normal range.
 
 The median duration of MaHR in patients with accelerated phase CML was not reached for either group; the median PFS was 25 months and 26 months for the 140 mg once daily group and the 70 mg twice daily group, respectively; and the median overall survival was not reached for the 140 mg once daily group and 31 months for the 70 mg twice daily group.
