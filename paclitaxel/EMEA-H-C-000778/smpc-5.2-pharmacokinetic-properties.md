@@ -1,7 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 The pharmacokinetics of total paclitaxel following 30- and 180-minute infusions of Abraxane at dose levels of 80 to 375 mg/m2 were determined in clinical studies.
-The drug exposure (AUC) increased linearly from 2653 to 16736 ng.hr/ml following dosing from 80 to 300 mg/m2.
+The paclitaxel exposure (AUC) increased linearly from 2653 to 16736 ng.hr/ml following dosing from 80 to 300 mg/m2.
 
 Following intravenous administration of Abraxane to patients with metastatic breast cancer at the recommended clinical dose of 260 mg/m2, paclitaxel plasma concentrations declined in a multiphasic manner.
 The mean Cmax of paclitaxel, which occurred at the end of the infusion, was 18.7 µg/ml.
@@ -14,8 +14,14 @@ The clearance of paclitaxel with Abraxane was larger (43%) than that following a
 Differences in Cmax and Cmax corrected for dose reflected differences in total dose and rate of infusion.
 There were no differences in terminal half-lives.
 
-The protein binding of paclitaxel following Abraxane administration is estimated at about 90%.
-Based on the published literature, in vitro studies of binding to human serum proteins, using paclitaxel at concentrations ranging from 0.03 to 1.2 µM, indicate that about 87% of paclitaxel is bound; the presence of ranitidine, dexamethasone, or diphenhydramine did not affect protein binding of paclitaxel.
+In a repeat dose study with 12 patients receiving Abraxane administered intravenously at the approved dose, intrapatient variability in systemic paclitaxel exposure (AUCinf) was 19% (range = 3.21%- 27.70%).
+There was no evidence for accumulation of paclitaxel with multiple treatment courses.
+
+The protein binding of paclitaxel following Abraxane was evaluated by ultrafiltration.
+The fraction of free paclitaxel was significantly higher with Abraxane (6.2%) than with solvent-based paclitaxel (2.3%).
+This resulted in significantly higher exposure to unbound paclitaxel with Abraxane compared with solvent-based paclitaxel, even though the total exposure is comparable.
+This is possibly due to paclitaxel not being trapped in Cremophor EL micelles as with solvent-based paclitaxel.
+Based on the published literature, in vitro studies of binding to human serum proteins, (using paclitaxel at 6µM) the presence of ranitidine, dexamethasone, or diphenhydramine did not affect protein binding of paclitaxel.
 
 Based on the published literature, in vitro studies with human liver microsomes and tissue slices show that paclitaxel is metabolised primarily to 6α-hydroxypaclitaxel; and to two minor metabolites, 3’-p-hydroxypaclitaxel and 6α-3’-p-dihydroxypaclitaxel.
 The formation of these hydroxylated metabolites is catalysed by CYP2C8, -3A4, and both -2C8 and -3A4 respectively.

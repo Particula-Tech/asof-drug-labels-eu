@@ -9,12 +9,13 @@ In addition, paclitaxel induces abnormal arrays or “bundles” of microtubules
 Abraxane contains human serum albumin-paclitaxel nanoparticles, where the paclitaxel is present in a non-crystalline, amorphous state.
 Albumin is known to mediate endothelial transcytosis of plasma constituents and in vitro studies demonstrated that the presence of albumin enhances transport of paclitaxel across endothelial cells.
 It is hypothesised that this enhanced transendothelial transport is mediated by the gp-60 albumin receptor, and that there is accumulation of paclitaxel in the area of tumour due to the albumin-binding protein SPARC (secreted protein acidic rich in cysteine).
+
 Breast carcinoma:
 
 Data from 106 patients accrued in two single-arm open-label studies and from 454 patients treated in a randomised Phase III comparative study are available to support the use of Abraxane in metastatic breast cancer.
 This information is presented below.
 
-Single-arm open-label studies
+Single-arm open-label studies:
 
 In one study, Abraxane was administered as a 30-minute infusion at a dose of 175 mg/m2 to 43 patients with metastatic breast cancer.
 The second trial utilised a dose of 300 mg/m2 as a 30 minute infusion in 63 patients with metastatic breast cancer.

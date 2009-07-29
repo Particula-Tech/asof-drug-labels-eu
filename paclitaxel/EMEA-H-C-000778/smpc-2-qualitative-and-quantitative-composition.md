@@ -1,8 +1,8 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each vial contains 100 mg of paclitaxel.
+Each vial contains 100 mg of paclitaxel (as paclitaxel albumin).
 
-After reconstitution, each ml of suspension contains 5 mg of paclitaxel.
+After reconstitution, each ml of suspension contains 5 mg of paclitaxel (as paclitaxel albumin).
 
 Excipients
 

@@ -23,7 +23,7 @@ Studies in patients with impaired renal function have not been performed and ins
 
 Paediatric patients:
 
-Abraxane is not recommended for use in children below age 18 years due to insufficient data on safety and efficacy.
+Abraxane is not recommended for use in children and adolescents below age 18 years due to insufficient data on safety and efficacy.
 
 Elderly patients:
 
