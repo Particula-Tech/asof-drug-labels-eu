@@ -37,15 +37,24 @@ constipation Common
 upper abdominal
 Uncommon
 pain
+Adverse Frequency of adverse reaction by treatment regimen
+Reaction
+Sitagliptin Sitagliptin Sitagliptin Sitagliptin Sitagliptin
+with with a with a with a PPARγ with a
+Metformin1 Sulfonylurea2 Sulfonylurea Agent PPARγ Agent
+and (pioglitazone)4 (rosiglitazone)
+Metformin3 and
+Metformin5
 vomiting Common
-
-| Adverse Reaction | Frequency of adverse reaction by treatment regimen |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Sitagliptin with Metformin1 | Sitagliptin with a Sulfonylurea2 | Sitagliptin with a Sulfonylurea and Metformin3 | Sitagliptin with a PPARγ Agent (pioglitazone)4 | Sitagliptin with a PPARγ Agent (rosiglitazone) and Metformin5 |
-| Metabolism and nutrition disorders |  |  |  |  |  |
-| hypoglycaemia* |  | Very common | Very common | Common | Common |
-| General disorders |  |  |  |  |  |
-| peripheral oedema |  |  |  | Common | Common† |
+Metabolism and
+nutrition
+disorders
+Very common Very
+hypoglycaemia* Common Common
+common
+General
+disorders
+peripheral oedema Common Common†
 
 * In clinical trials of Januvia as monotherapy and sitagliptin as part of combination therapy with metformin and/or a PPARγ agent, rates of hypoglycaemia reported with sitagliptin were similar to rates in patients taking placebo.
 † Observed in the 54-week analysis.
@@ -70,6 +79,9 @@ In addition, in monotherapy studies of up to 24 weeks in duration of sitagliptin
 
 In addition to the drug-related adverse experiences described above, adverse experiences reported regardless of causal relationship to medication and occurring in at least 5 % and more commonly in patients treated with Januvia included upper respiratory tract infection and nasopharyngitis.
 Additional adverse experiences reported regardless of causal relationship to medication that occurred more frequently in patients treated with Januvia (not reaching the 5 % level, but occurring with an incidence of > 0.5 % higher with Januvia than that in the control group) included osteoarthritis and pain in extremity.
+
+In an additional 24-week study of sitagliptin 100 mg once daily compared to metformin, the incidence of adverse reactions considered as drug-related in patients treated with sitagliptin compared to metformin was 5.9 % and 16.7 %, respectively, primarily due to a higher incidence of gastrointestinal adverse reactions in the metformin group.
+In this study 0.6 % of patients treated with sitagliptin and 2.3 % of patients treated with metformin were discontinued due to adverse experiences considered as drug-related.
 
 In a 24-week study of initial combination therapy with sitagliptin and metformin administered twice daily (sitagliptin/metformin 50 mg/500 mg or 50 mg/1000 mg), the overall incidence of adverse reactions considered as drug-related in patients treated with the combination of sitagliptin and metformin compared to patients treated with placebo was 14.0 % and 9.7 %, respectively.
 The overall incidence of adverse reactions considered as drug-related in patients treated with the combination of sitagliptin and metformin was comparable to metformin alone (14.0 % each) and greater than sitagliptin alone (6.7 %), with the differences relative to sitagliptin alone primarily due to gastrointestinal adverse reactions.

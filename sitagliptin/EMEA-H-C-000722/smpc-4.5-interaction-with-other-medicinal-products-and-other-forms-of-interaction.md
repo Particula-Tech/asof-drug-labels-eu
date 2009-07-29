@@ -2,6 +2,7 @@
 
 Effects of other medicinal products on sitagliptin
 Clinical data described below suggest that the risk for clinically meaningful interactions by co-administered medicinal products is low.
+
 Metformin: Co-administration of multiple twice-daily doses of 1000 mg metformin with 50 mg sitagliptin did not meaningfully alter the pharmacokinetics of sitagliptin in patients with type 2 diabetes.
 
 Cyclosporine: A study was conducted to assess the effect of cyclosporine, a potent inhibitor of p-glycoprotein, on the pharmacokinetics of sitagliptin.

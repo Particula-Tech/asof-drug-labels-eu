@@ -11,6 +11,7 @@ Dose-proportionality was not established for Cmax and C24hr (Cmax increased in a
 Distribution
 The mean volume of distribution at steady state following a single 100-mg intravenous dose of sitagliptin to healthy subjects is approximately 198 liters.
 The fraction of sitagliptin reversibly bound to plasma proteins is low (38 %).
+
 Metabolism
 Sitagliptin is primarily eliminated unchanged in urine, and metabolism is a minor pathway.
 Approximately 79 % of sitagliptin is excreted unchanged in the urine.
@@ -38,7 +39,6 @@ In a clinical study sitagliptin had a small effect on plasma digoxin concentrati
 
 Characteristics in patients
 The pharmacokinetics of sitagliptin were generally similar in healthy subjects and in patients with type 2 diabetes.
-
 Renal insufficiency
 A single-dose, open-label study was conducted to evaluate the pharmacokinetics of a reduced dose of sitagliptin (50-mg) in patients with varying degrees of chronic renal insufficiency compared to normal healthy control subjects.
 The study included patients with renal insufficiency classified on the basis of creatinine clearance as mild (50 to < 80 ml/min), moderate (30 to < 50 ml/min), and severe
@@ -54,6 +54,7 @@ Hepatic insufficiency
 No dosage adjustment for Januvia is necessary for patients with mild or moderate hepatic insufficiency (Child-Pugh score ≤ 9).
 There is no clinical experience in patients with severe hepatic insufficiency (Child-Pugh score > 9).
 However, because sitagliptin is primarily renally eliminated, severe hepatic insufficiency is not expected to affect the pharmacokinetics of sitagliptin.
+
 Elderly
 No dosage adjustment is required based on age.
 Age did not have a clinically meaningful impact on the pharmacokinetics of sitagliptin based on a population pharmacokinetic analysis of Phase I and Phase II data.

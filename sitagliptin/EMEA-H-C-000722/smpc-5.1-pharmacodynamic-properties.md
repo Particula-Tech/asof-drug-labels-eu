@@ -26,12 +26,12 @@ Co-administration of sitagliptin and metformin had an additive effect on active 
 Sitagliptin, but not metformin, increased active GIP concentrations.
 
 Overall, sitagliptin improved glycaemic control when given as monotherapy, when used in combination with metformin (initial or add-on therapy), in combination with a sulphonylurea (with or without metformin), in combination with a thiazolidinedione, and in combination with a thiazolidinedione and metformin, as measured by clinically relevant reductions in HbA1c from baseline at study endpoint (see Table 2).
-
 Two studies were conducted to evaluate the efficacy and safety of Januvia monotherapy.
 Treatment with sitagliptin at 100 mg once daily as monotherapy provided significant improvements in HbA1c, fasting plasma glucose (FPG), and 2-hour post-prandial glucose (2-hour PPG), compared to placebo in two studies, one of 18- and one of 24-weeks duration.
 Improvement of surrogate markers of beta cell function, including HOMA-β (Homeostasis Model Assessment-β), proinsulin to insulin ratio, and measures of beta cell responsiveness from the frequently-sampled meal tolerance test were observed.
 The observed incidence of hypoglycaemia in patients treated with Januvia was similar to placebo.
 Body weight did not increase from baseline with sitagliptin therapy in either study, compared to a small reduction in patients given placebo.
+
 In a study in patients with type 2 diabetes and chronic renal insufficiency (creatinine clearance
 < 50 ml/min), the safety and tolerability of reduced doses of sitagliptin were investigated and generally similar to placebo.
 In addition, the reductions in HbA1c and FPG with sitagliptin compared to placebo were generally similar to those observed in other monotherapy studies in patients with normal renal function (see section 5.2).
@@ -76,6 +76,13 @@ HbA1c results in placebo-controlled monotherapy and combination therapy studies*
 ‡ p<0.001 compared to placebo or placebo + combination treatment.
 § HbA1c (%) at week 18.
 � HbA1c (%) at week 24.
+
+A 24-week active (metformin)-controlled study was designed to evaluate the efficacy and safety of sitagliptin 100 mg once daily (N=528) compared to metformin (N=522) in patients with inadequate glycaemic control on diet and exercise and who were not on anti-hyperglycaemic therapy (off therapy for at least 4 months).
+The mean dose of metformin was approximately 1900 mg per day.
+The reduction in HbA1c from mean baseline values of 7.2 % was -0.38 % for sitagliptin and -0.55 % for metformin.
+The overall incidence of gastrointestinal adverse reactions considered as drug-related in patients treated with sitagliptin was 2.7 % compared with 12.6 % in patients treated with metformin.
+The incidence of hypoglycaemia was not significantly different between the treatment groups (sitagliptin, 1.3 %; metformin, 1.9 %).
+Body weight decreased from baseline in both groups (sitagliptin, -0.6 kg; metformin -1.9 kg).
 
 In a study comparing the efficacy and safety of the addition of Januvia 100 mg once daily or glipizide (a sulphonylurea agent) in patients with inadequate glycaemic control on metformin monotherapy, sitagliptin was similar to glipizide in reducing HbA1c.
 The mean glipizide dose used in the comparator group was 10 mg per day with approximately 40 % of patients requiring a glipizide dose of
