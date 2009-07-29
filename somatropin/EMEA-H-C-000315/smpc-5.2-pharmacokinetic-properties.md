@@ -5,6 +5,7 @@ General characteristics
 The pharmacokinetic properties of NutropinAq have only been investigated in healthy adult males.
 
 Absorption: The absolute bioavailability of recombinant human growth hormone after subcutaneous administration is about 80%.
+
 Distribution: Animal studies with somatropin showed that growth hormone localises to highly perfused organs, particularly the liver and kidney.
 The volume of distribution at steady state for somatropin in healthy adult males is about 50 ml/kg bodyweight, approximating the serum volume.
 

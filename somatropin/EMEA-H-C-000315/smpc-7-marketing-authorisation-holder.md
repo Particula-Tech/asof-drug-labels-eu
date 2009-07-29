@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-IPSEN Ltd.
-190 Bath Road
-Slough, Berkshire
-SL1 3XE, United Kingdom
+Ipsen Pharma
+65 quai Georges Gorse
+92100 Boulogne-Billancourt
+France
