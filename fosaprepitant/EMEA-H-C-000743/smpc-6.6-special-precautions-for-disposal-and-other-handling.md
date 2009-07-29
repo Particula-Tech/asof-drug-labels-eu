@@ -23,4 +23,4 @@ The medicinal product must not be reconstituted or mixed with solutions for whic
 
 The appearance of the reconstituted solution is the same as the appearance of the diluent.
 
-The medicinal product should be inspected visually for particulate matter and discoloration before administration.
+The reconstituted product should be inspected visually for particulate matter and discoloration before administration.
