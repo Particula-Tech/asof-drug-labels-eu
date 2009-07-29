@@ -19,7 +19,7 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 Concomitant use of other N-methyl-D-aspartate(NMDA)-antagonists such as amantadine, ketamine or dextromethorphan should be avoided.
 
-Excipients: The oral drops contain sorbitol.
+Excipients: The oral solution contains sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
 
 [Ebixa 5 mg film-coated tablets.]

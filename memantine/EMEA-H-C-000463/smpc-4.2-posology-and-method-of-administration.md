@@ -45,17 +45,25 @@ Administration of Ebixa is not recommended in patients with severe hepatic impai
 
 [Ebixa 10 mg/g oral drops, solution.]
 
-The drops can be taken with or without food.
+Ebixa should be taken once daily at the same time each day.
+The solution can be taken with or without food.
+The solution must not be poured or pumped into the mouth directly from the bottle or the pump, but should be dosed onto a spoon or into a glass of water using the pump.
 
-The patient should take 10 drops (5 mg) per day for 7 days.
+For detailed instructions on the preparation and handling of the product see section 6.6.
 
-The patient should take 20 drops (10 mg) per day for 7 days.
+The maximum daily dose is 20 mg once daily.
 
-The patient should take 30 drops (15 mg) per day for 7 days.
+The patient should take 0.5 ml solution (5 mg) equivalent to one downward stroke per day for 7 days.
 
-The patient should take 40 drops (20 mg) once a day.
+The patient should take 1 ml solution (10 mg) equivalent to two downward strokes per day for 7 days.
 
-Elderly: On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (40 drops once a day) as described above.
+The patient should take 1.5 ml solution (15 mg) equivalent to three downward strokes per day for 7 days.
+The patient should take 2 ml solution (20 mg) equivalent to four downward strokes once a day.
+
+Elderly: On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (2 ml solution, equivalent to four downward strokes) as described above.
+
+In patients with moderate renal impairment (creatinine clearance 30 - 49 ml/min) daily dose should be 10 mg (1 ml solution, equivalent to two downward strokes).
+In patients with severe renal impairment (creatinine clearance 5 – 29 ml/min) daily dose should be 10 mg (1 ml solution, equivalent to two downward strokes) per day.
 
 [Ebixa 5 mg film-coated tablets.]
 

@@ -6,6 +6,8 @@ This medicinal product does not require any special storage conditions.
 
 Do not store above 30ºC.
 
+The bottle with the mounted pump may only be kept and transported in a vertical position.
+
 [Ebixa 5 mg film-coated tablets.]
 
 (all sentences already above)

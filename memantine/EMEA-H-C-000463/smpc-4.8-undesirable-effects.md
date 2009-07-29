@@ -50,4 +50,4 @@ Adverse reactions are ranked according to system organ class, using the followin
 
 [Ebixa 20 mg film-coated tablets.]
 
-Uncommon Venous thrombosis/thromboembolism
+(all sentences already above)

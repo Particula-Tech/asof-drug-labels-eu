@@ -8,7 +8,7 @@ Not all pack sizes may be marketed.
 
 [Ebixa 10 mg/g oral drops, solution.]
 
-Brown glass bottles (Hydrolytic Class III) with dropper containing either 20, 50, 100 g or 10 x 50 g solution.
+Brown glass bottles (Hydrolytic Class III) containing either 20, 50, 100 g or 10 x 50 g solution.
 
 [Ebixa 5 mg film-coated tablets.]
 

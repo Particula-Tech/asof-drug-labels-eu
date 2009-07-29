@@ -8,10 +8,9 @@ For a full list of excipients, see section 6.1.
 
 [Ebixa 10 mg/g oral drops, solution.]
 
-1 g of solution contains 10 mg of memantine hydrochloride equivalent to 8.31 mg memantine.
-One drop of solution is equivalent to 0.5 mg memantine hydrochloride.
+Each activation of the pump (one downward stroke) delivers 0.5 ml (0.5g) of solution containing 5 mg of memantine hydrochloride equivalent to 4.16 mg of memantine
 
-Excipients: 1 g of solution contains 100 mg sorbitol E420 and 0.5 mg potassium, see section 4.4.
+Excipients: Each one gram of solution contains 100 mg sorbitol (E420) and 0.5 mg potassium, see section 4.4.
 
 [Ebixa 5 mg film-coated tablets.]
 
