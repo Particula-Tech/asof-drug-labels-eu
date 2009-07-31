@@ -15,15 +15,14 @@ Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); u
 | System Organ Class | Adverse reaction | Frequency |
 | --- | --- | --- |
 | Investigations | ALT increased | common |
-| Cardiac disorders | Bradycardia | uncommon |
+| Cardiac disorders | bradycardia | uncommon |
 | Nervous system disorders | dysarthria, hypoaesthesia, sensory disturbance | uncommon |
 | Eye disorders | miosis, visual acuity reduced | uncommon |
 | Respiratory, thoracic and mediastinal disorders | dyspnoea, wheezing | uncommon |
 | Gastrointestinal disorders | abdominal pain upper, bowel sounds abnormal, dry mouth, nausea, stomach discomfort | uncommon |
-| Psychiatric disorders | Insomnia | uncommon |
+| Psychiatric disorders | insomnia | uncommon |
 
 In addition, two serious reactions were reported in clinical studies in postoperative nausea and vomiting (PONV) in patients taking a higher dose of aprepitant: one case of constipation, and one case of sub-ileus.
-
 Additional adverse reactions were observed in patients treated with the aprepitant (125 mg/80 mg) regimen for chemotherapy induced nausea and vomiting and at a greater incidence than with standard therapy: abdominal pain, acid reflux, acne, alkaline phosphatase increased, anaemia, anorexia, anxiety, AST increased, asthaenia/fatigue, candidiasis, chest discomfort, cognitive disorder, conjunctivitis, constipation, cough, diarrhoea, disorientation, dizziness, dream abnormality, dysgeusia, dyspepsia, dysuria, enterocolitis, epigastric discomfort, eructation, euphoria, febrile neutropenia, flatulence, flushing, gastroesophageal reflux disease, headache, hiccups, hot flush, hyperglycaemia, hyperhidrosis, hyponatraemia, lethargy, microscopic haematuria, muscle cramp, myalgia, nausea*, obstipation, oedema, oily skin, perforating duodenal ulcer, pharyngitis, photosensitivity, pollakiuria, polydipsia, polyuria, postnasal drip, pruritus, rash, skin lesion, sneezing, staphylococcal infection, stomatitis, thirst, throat irritation, tinnitus, vomiting*, weight decreased, weight gain.
 *Nausea and vomiting were efficacy parameters in the first 5 days of post-chemotherapy treatment and were reported as reactions only thereafter.
 
@@ -52,26 +51,26 @@ The following adverse reactions were observed in patients treated with the aprep
 | --- | --- | --- |
 | Investigations | ALT increased, AST increased | common |
 |  | alkaline phosphatase increased, hyperglycaemia, microscopic haematuria, hyponatraemia, weight decreased | uncommon |
-| Cardiac disorders | bradycardia | Uncommon |
-| Blood and lymphatic system disorders | febrile neutropenia, anaemia | Uncommon |
+| Cardiac disorders | bradycardia | uncommon |
+| Blood and lymphatic system disorders | febrile neutropenia, anaemia | uncommon |
 | Nervous system disorders | headache, dizziness | common |
 |  | dream abnormality, cognitive disorder | uncommon |
-| Eye disorders | conjunctivitis | Uncommon |
-| Ear and labyrinth disorders | tinnitus | Uncommon |
+| Eye disorders | conjunctivitis | uncommon |
+| Ear and labyrinth disorders | tinnitus | uncommon |
 | Respiratory, thoracic and mediastinal disorders | hiccups | common |
 |  | pharyngitis, sneezing, cough, postnasal drip, throat irritation | uncommon |
 | Gastrointestinal disorders | constipation, diarrhoea, dyspepsia, eructation | common |
 |  | perforating duodenal ulcer, nausea*, vomiting*, acid reflux, dysgeusia, epigastric discomfort, obstipation, gastroesophageal reflux disease, abdominal pain, dry mouth, enterocolitis, flatulence, stomatitis | uncommon |
-| Renal and urinary disorders | polyuria, dysuria, pollakiuria | Uncommon |
-| Skin and subcutaneous tissue disorders | rash, acne, photosensitivity, hyperhidrosis, oily skin, pruritus, skin lesion | Uncommon |
-| Musculoskeletal and connective tissue disorders | muscle cramp, myalgia | Uncommon |
+| Renal and urinary disorders | polyuria, dysuria, pollakiuria | uncommon |
+| Skin and subcutaneous tissue disorders | rash, acne, photosensitivity, hyperhidrosis, oily skin, pruritus, skin lesion | uncommon |
+| Musculoskeletal and connective tissue disorders | muscle cramp, myalgia | uncommon |
 | Metabolism and nutrition disorders | anorexia | common |
 |  | weight gain, polydipsia | uncommon |
-| Infection and infestations | candidiasis, staphylococcal infection | Uncommon |
-| Vascular disorders | flushing/hot flush | Uncommon |
+| Infection and infestations | candidiasis, staphylococcal infection | uncommon |
+| Vascular disorders | flushing/hot flush | uncommon |
 | General disorders and administration site conditions | asthaenia/fatigue | common |
 |  | oedema, chest discomfort, lethargy, thirst | uncommon |
-| Psychiatric disorders | disorientation, euphoria, anxiety | Uncommon |
+| Psychiatric disorders | disorientation, euphoria, anxiety | uncommon |
 
 *Nausea and vomiting were efficacy parameters in the first 5 days of post-chemotherapy treatment and were reported as adverse reactions only thereafter.
 

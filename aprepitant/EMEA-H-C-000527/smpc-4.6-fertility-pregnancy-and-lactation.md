@@ -3,6 +3,7 @@
 In animal studies there was no indication of direct or indirect harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development (see section 5.3).
 The potential effects on reproduction of alterations in neurokinin regulation are unknown.
 EMEND should not be used during pregnancy unless clearly necessary.
+
 Aprepitant is excreted in the milk of lactating rats.
 It is not known whether aprepitant is excreted in human milk; therefore, breast-feeding is not recommended during treatment with EMEND.
 

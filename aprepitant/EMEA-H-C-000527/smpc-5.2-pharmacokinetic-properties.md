@@ -10,7 +10,7 @@ The mean peak plasma concentration (Cmax) of aprepitant occurred at approximatel
 Following oral administration of a single 40 mg dose of EMEND in the fasted state, the AUC0-∞ (mean ± SD) was 8.0 ± 2.1 microgram x h/ml and the Cmax was 0.7 ± 0.24 microgram/ml.
 The median tmax was 3.0 hours.
 
-Concomitant intake of a 40 mg dose with a standard breakfast decreased the aprepitant Cmax by 18% but did not affect AUC.
+Concomitant intake of a 40 mg dose with a standard breakfast decreased the aprepitant Cmax by 18 % but did not affect AUC.
 This is not considered to be clinically important.
 
 Distribution
@@ -28,6 +28,7 @@ Elimination
 Aprepitant is not excreted unchanged in urine.
 Metabolites are excreted in urine and via biliary excretion in faeces.
 Following a single intravenously administered 100 mg dose of [14C]-fosaprepitant, a prodrug for aprepitant to healthy subjects, 57 % of the radioactivity was recovered in urine and 45 % in faeces.
+
 The plasma clearance of aprepitant is dose-dependent, decreasing with increased dose and ranged from approximately 60 to 72 ml/min in the therapeutic dose range.
 The terminal half-life is approximately 9 hours after administration of a single 40 mg dose.
 
@@ -81,9 +82,7 @@ Relationship between concentration and effect
 
 [EMEND 125 mg hard capsules]
 
-Gender: Following oral administration of a single 125 mg dose ofaprepitant, the Cmax for aprepitant is 16 % higher in females as compared with males.
-
-Hepatic impairment: Mild hepatic impairment(Child-Pugh class A) does not affect the pharmacokinetics of aprepitant to a clinically relevant extent.
+(all sentences already above)
 
 [EMEND 125 mg hard capsules (SmPC 4)]
 
