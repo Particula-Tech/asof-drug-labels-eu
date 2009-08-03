@@ -23,8 +23,7 @@ In HIV antiviral assays, entecavir at micromolar concentrations was not antagoni
 
 Resistance in cell culture: relative to wild-type HBV, LVDr viruses containing rtM204V and rtL180M substitutions within the reverse transcriptase exhibit 8-fold decreased susceptibility to entecavir.
 Incorporation of additional ETVr amino acid changes rtT184, rtS202 or rtM250 decreases entecavir susceptibility in cell culture.
-Substitutions observed in clinical isolates (rtT184A, C, F, G,
-I, L, M or S; rtS202 C, G or I; and/or rtM250I, L or V) further decreased entecavir susceptibility 16- to 741-fold relative to wild-type virus.
+Substitutions observed in clinical isolates (rtT184A, C, F, G, I, L, M or S; rtS202 C, G or I; and/or rtM250I, L or V) further decreased entecavir susceptibility 16- to 741-fold relative to wild-type virus.
 The ETVr substitutions at residues rtT184, rtS202 and rtM250 alone have only a modest effect on entecavir susceptibility, and have not been observed in the absence of LVDr substitutions in more than 1000 patient samples sequenced.
 Resistance is mediated by reduced inhibitor binding to the altered HBV reverse transcriptase, and resistant HBV exhibits reduced replication capacity in cell culture.
 
@@ -99,10 +98,10 @@ By 48 weeks of post-treatment follow-up, a substantial number of HBeAg negative 
 Liver biopsy results: 57 patients from the pivotal nucleoside-naive studies 022 (HBeAg positive) and 027 (HBeAg negative) who enrolled in a long-term rollover study were evaluated for long-term liver histology outcomes.
 The entecavir dosage was 0.5 mg daily in the pivotal studies (mean exposure 85 weeks) and 1 mg daily in the rollover study (mean exposure 177 weeks), and 51 patients in the rollover study initially also received lamivudine (median duration 29 weeks).
 Of these patients, 55/57 (96%) had histological improvement as previously defined (see above), and 50/57 (88%) had a
-≥ 1-point decrease in Ishak fibrosis score.
-For patients with baseline Ishak fibrosis score ≥ 2, 25/43 (58%) had a ≥ 2-point decrease.
-All (10/10) patients with advanced fibrosis or cirrhosis at baseline (Ishak fibrosis score of 4, 5 or 6) had a ≥ 1 point decrease (median decrease from baseline was 1.5 points).
-At the time of the long-term biopsy, all patients had HBV DNA < 300 copies/ml and 49/57 (86%) had serum ALT ≤ 1 x ULN.
+≥1-point decrease in Ishak fibrosis score.
+For patients with baseline Ishak fibrosis score ≥2, 25/43 (58%) had a ≥2-point decrease.
+All (10/10) patients with advanced fibrosis or cirrhosis at baseline (Ishak fibrosis score of 4, 5 or 6) had a ≥1 point decrease (median decrease from baseline was 1.5 points).
+At the time of the long-term biopsy, all patients had HBV DNA < 300 copies/ml and 49/57 (86%) had serum ALT ≤1 x ULN.
 All 57 patients remained positive for HBsAg.
 
 Lamivudine-refractory:
@@ -146,7 +145,7 @@ These substitutions were observed only in the presence of LVDr substitutions (rt
 a Results reflect use of a 1-mg dose of entecavir for 147 of 149 patients in Year 3 and all patients in Years 4 and 5 and of combination entecavir-lamivudine therapy (followed by long-term entecavir therapy) for a median of 20 weeks for 130 of 149 patients in Year 3 and for 1 week for 1 of 121 patients in Year 4 in a rollover study.
 b Includes patients with at least one on-therapy HBV DNA measurement by PCR at or after week 24 through week 58 (Year 1), after week 58 through week 102 (Year 2), after week 102 through week 156 (Year 3), after week 156 through week 204 (Year 4), or after week 204 through week 252 (Year 5).
 c Patients also have LVDr substitutions.
-d ≥ 1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
+d ≥1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
 
 ETVr substitutions (in addition to LVDr substitutions rtM204V/I ± rtL180M) were observed at baseline in isolates from 10/187 (5%) lamivudine-refractory patients treated with entecavir and monitored for resistance, indicating that prior lamivudine treatment can select these resistance substitutions and that they can exist at a low frequency before entecavir treatment.
 Through Week 240, 3 of the 10 patients experienced virologic breakthrough (≥ 1 log10 increase above nadir).
@@ -166,12 +165,12 @@ Emerging entecavir resistance in lamivudine-refractory studies through Week 240 
 a Results reflect use of combination entecavir-lamivudine therapy (followed by long-term entecavir therapy) for a median of 13 weeks for 48 of 80 patients in Year 3, a median of 38 weeks for 10 of 52 patients in Year 4, and for 16 weeks for 1 of 33 patients in Year 5 in a rollover study.
 b Includes patients with at least one on-therapy HBV DNA measurement by PCR at or after week 24 through week 58 (Year 1), after week 58 through week 102 (Year 2), after week 102 through week 156 (Year 3), after week 156 through week 204 (Year 4), or after week 204 through week 252 (Year 5).
 c Patients also have LVDr substitutions.
-d ≥ 1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
+d ≥1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
 e ETVr occurring in any year; virologic breakthrough in specified year.
 
-Among lamivudine-refractory patients with baseline HBV DNA < 107 log10 copies/ml, 64% (9/14) achieved HBV DNA < 300 copies/ml at Week 48.
+Among lamivudine-refractory patients with baseline HBV DNA <107 log10 copies/ml, 64% (9/14) achieved HBV DNA <300 copies/ml at Week 48.
 These 14 patients had a lower rate of genotypic entecavir resistance (cumulative probability 18.8% through 5 years of follow-up) than the overall study population (see table).
-Also, lamivudine-refractory patients who achieved HBV DNA < 104 log10 copies/ml by PCR at Week 24 had a lower rate of resistance than those who did not (5-year cumulative probability 17.6% [n= 50] versus 60.5% [n= 135], respectively).
+Also, lamivudine-refractory patients who achieved HBV DNA <104 log10 copies/ml by PCR at Week 24 had a lower rate of resistance than those who did not (5-year cumulative probability 17.6% [n=50] versus 60.5% [n=135], respectively).
 
 [Baraclude 1 mg film-coated tablets]
 
@@ -179,13 +178,6 @@ Also, lamivudine-refractory patients who achieved HBV DNA < 104 log10 copies/ml 
 
 [Baraclude 0.05 mg/ml oral solution]
 
-Substitutions observed in clinical isolates (rtT184A, C, F, G, I, L, M or S; rtS202 C, G or I; and/or rtM250I, L or V) further decreased entecavir susceptibility 16- to 741-fold relative to wild-type virus.
-
 Patients had stable controlled HIV (HIV RNA < 400 copies/ml) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen.HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate.
 
 These substitutions were observed only in the presence of LVDr substitutions (rtM204Vand rtL180M).
-
-d ≥1 log10 increase above nadir in HBV DNA by PCR, confirmed with successive measurements or at the end of the windowed time point.
-
-Among lamivudine-refractory patients with baseline HBV DNA <107 log10 copies/ml, 64% (9/14) achieved HBV DNA <300 copies/ml at Week 48.
-Also, lamivudine-refractory patients who achieved HBV DNA <104 log10 copies/ml by PCR at Week 24 had a lower rate of resistance than those who did not (5-year cumulative probability 17.6% [n=50] versus 60.5% [n=135], respectively).
