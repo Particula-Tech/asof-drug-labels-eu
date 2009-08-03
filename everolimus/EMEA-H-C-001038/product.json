@@ -1,0 +1,16 @@
+{
+  "active_substance": "everolimus",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/001038",
+  "eu_number": "EU/1/09/538",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2009-08-02",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/afinitor",
+  "molecule": "everolimus",
+  "molecule_name": "EVEROLIMUS",
+  "name": "Afinitor",
+  "register_name": "Afinitor",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h538.htm"
+}
