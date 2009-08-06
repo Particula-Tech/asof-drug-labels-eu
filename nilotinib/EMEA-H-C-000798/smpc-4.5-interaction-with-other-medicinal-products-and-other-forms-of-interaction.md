@@ -8,7 +8,7 @@ The AUC of imatinib was increased by 18% to 39%, and the AUC of nilotinib was in
 These changes are unlikely to be clinically important.
 
 The exposure to nilotinib in healthy subjects was increased 3-fold when co-administered with the strong CYP3A4 inhibitor ketoconazole.
-Concomitant treatment with strong CYP3A4 inhibitors, including ketoconazole, itraconazole, voriconazole, ritonavir, moxifloxacin, clarithromycin, and telithromycin, should therefore be avoided (see sections 4.2 and 4.4).
+Concomitant treatment with strong CYP3A4 inhibitors, including ketoconazole, itraconazole, voriconazole, ritonavir, clarithromycin, and telithromycin, should therefore be avoided (see sections 4.2 and 4.4).
 Increased exposure to nilotinib might also be expected with moderate CYP3A4 inhibitors.
 Alternative concomitant medications with no or minimal CYP3A4 inhibition should be considered.
 Substances that may decrease nilotinib serum concentrations
@@ -30,7 +30,7 @@ Since warfarin is metabolised by CYP2C9 and CYP3A4 it should be given with cauti
 Other medicinal products for anticoagulation should be considered.
 
 Anti-arrhythmic medicinal products and other substances that may prolong QT
-Nilotinib should be used with caution in patients who have or may develop prolongation of QT, including those patients taking anti-arrhythmic medicinal products such as amiodarone, disopyramide, procainamide, quinidine and sotalol or other medicinal products that may lead to QT prolongation such as chloroquine, halofantrine, clarithromycin, haloperidol and methadone (see section 4.4).
+Nilotinib should be used with caution in patients who have or may develop prolongation of QT, including those patients taking anti-arrhythmic medicinal products such as amiodarone, disopyramide, procainamide, quinidine and sotalol or other medicinal products that may lead to QT prolongation such as chloroquine, halofantrine, clarithromycin, haloperidol, methadone and moxifloxacin (see section 4.4).
 
 Other interactions that may affect serum concentrations
 The absorption of Tasigna is increased if it is taken with food, resulting in higher serum concentration (see sections 4.2, 4.4 and 5.2).

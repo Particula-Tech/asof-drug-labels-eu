@@ -31,6 +31,7 @@ Table 5 Duration of exposure with Tasigna
 
 Resistance to imatinib included failure to achieve a complete haematological response (by 3 months), cytogenetic response (by 6 months) or major cytogenetic response (by 12 months) or progression of disease after a previous cytogenetic or haematological response.
 Imatinib intolerance included patients who discontinued imatinib because of toxicity and were not in major cytogenetic response at time of study entry.
+
 Overall, 73% of patients were imatinib-resistant, while 27% were imatinib-intolerant.
 The majority of patients had a long history of CML that included extensive prior treatment with other antineoplastic agents, including imatinib, hydroxyurea, interferon, and some had even failed organ transplant
 (Table 6).

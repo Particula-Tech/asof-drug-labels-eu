@@ -55,7 +55,6 @@ disorders and Common Asthenia 6 0 0 0
 administration Common Oedema 5 0 0 0
 site conditions peripheral
 
-Additional data from clinical trials
 The following adverse reactions were reported in patients in the Tasigna clinical studies at a frequency of less than 5% (common is ≥1/100 to <1/10; uncommon is >1/1,000 to <1/100; single events are captured as frequency not known [cannot be estimated from the available data]).
 For laboratory abnormalities, very common events (≥1/10) not included in Table 2 are also reported.
 These adverse reactions are included based on clinical relevance and ranked in order of decreasing seriousness within each category.
@@ -65,6 +64,7 @@ Very common: lipase increased.
 Common: blood amylase increased, alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatinine phosphokinase increased, blood glucose increased, weight decreased, weight increased.
 Uncommon: blood lactate dehydrogenase increased, blood glucose decreased, blood creatinine increased, blood urea increased.
 Not known: troponin increased, blood potassium decreased, blood bilirubin unconjugated increased.
+
 Cardiac disorders:
 Common: palpitations, electrocardiogram QT prolonged.
 Uncommon: cardiac failure, angina pectoris, atrial fibrillation, pericardial effusion, coronary artery disease, cardiomegaly, cardiac murmur, bradycardia.
@@ -114,6 +114,7 @@ Not known: arthritis, joint swelling.
 Endocrine disorders:
 Uncommon: hyperthyroidism.
 Not known: hypothyroidism, thyroiditis.
+
 Metabolism and nutrition disorders:
 Common: hypomagnesaemia, hyperkalaemia, hyperglycaemia.
 Uncommon: hypokalaemia, hyponatraemia, hypocalcaemia, hypophosphataemia, dehydration, decreased appetite, increased appetite.
@@ -163,3 +164,6 @@ Table 3 Grade 3-4 laboratory abnormalities
 | - Elevated SGPT (ALT) | 4% | 2% |
 | - Hypophosphataemia | 10% | 10% |
 | - Elevated bilirubin (total) | 9% | 10% |
+
+Sudden death
+Uncommon cases (0.1 to 1%) of sudden deaths have been reported in Tasigna clinical trials and/or compassionate use programs in patients with a past medical history of cardiac disease or significant cardiac risk factors (see section 4.4).
