@@ -27,7 +27,6 @@ The size of the lesion did not significantly affect the results.
 In general, patients with poor visual acuity (<20/200) at the onset of treatment experienced a benefit of treatment.
 However, neovascular AMD that has evolved into lesions characterised by subretinal fibrosis and advanced geographic atrophy is not likely to respond to Lucentis.
 Detailed results are shown in the tables below.
-
 Table 1 Outcomes at month 12 and month 24 in study FVF2598g (MARINA)
 
 | Outcome measure | Month | Sham (n=238) | Lucentis 0.5 mg (n=240) |

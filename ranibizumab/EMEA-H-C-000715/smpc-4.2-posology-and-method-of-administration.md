@@ -17,8 +17,8 @@ Before treatment, the patient should be instructed to self-administer antimicrob
 The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required).
 The patient’s medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure (see section 4.4).
 The periocular skin, eyelid and ocular surface should be disinfected and adequate anaesthesia and a broad-spectrum topical microbicide should be administered prior to the injection.
-
 For information on preparation of Lucentis, see section 6.6.
+
 The injection needle should be inserted 3.5-4.0 mm posterior to the limbus into the vitreous cavity, avoiding the horizontal meridian and aiming towards the centre of the globe.
 The injection volume of 0.05 ml is then delivered; a different scleral site should be used for subsequent injections.
 

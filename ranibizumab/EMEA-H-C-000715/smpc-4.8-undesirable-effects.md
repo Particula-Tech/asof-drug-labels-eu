@@ -5,14 +5,12 @@ A total of 1,315 patients constituted the safety population in the three phase I
 Serious adverse events related to the injection procedure included endophthalmitis, rhegmatogenous retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.4).
 
 Other serious ocular events observed among Lucentis-treated patients included intraocular inflammation and increased intraocular pressure (see section 4.4).
-
 The adverse events listed below occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with Lucentis 0.5 mg than in those receiving control treatment (sham or verteporfin PDT) in the three controlled phase III studies FVF2598g (MARINA), FVF2587g (ANCHOR) and FVF3192g (PIER).
 These were therefore considered potential adverse drug reactions.
 The safety data described below also include all adverse events (in at least 0.5 percentage points of patients) suspected to be at least potentially related to the injection procedure or medicinal product in the 440 patients of the combined 0.5 mg treatment groups.
 
 The adverse events are listed by system organ class and frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
 Investigations
 
 Very common Intraocular pressure increased
