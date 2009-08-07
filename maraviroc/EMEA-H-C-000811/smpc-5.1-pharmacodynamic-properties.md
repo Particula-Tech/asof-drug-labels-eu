@@ -20,6 +20,7 @@ Viral escape from maraviroc can occur via 2 routes: the selection of virus which
 In vitro:
 HIV-1 variants with reduced susceptibility to maraviroc have been selected in vitro, following serial passage of two CCR5-tropic viruses (0 laboratory strains, 2 clinical isolates).
 The maraviroc-resistant viruses remained CCR5-tropic and there was no conversion from a CCR5-tropic virus to a CXCR4-using virus.
+
 Phenotypic resistance: concentration response curves for the maraviroc-resistant viruses were characterized phenotypically by curves that did not reach 100% inhibition in assays using serial dilutions of maraviroc.
 Traditional IC50/IC90 fold-change was not a useful parameter to measure phenotypic resistance, as those values were sometimes unchanged despite significantly reduced sensitivity.
 
@@ -44,7 +45,6 @@ CXCR4-using virus was detected at failure in approximately 60% of subjects who f
 To investigate the likely origin of the on-treatment CXCR4-using virus, a detailed clonal analysis was conducted on virus from 20 representative subjects (16 subjects from the CELSENTRI arms and 4 subjects from the OBT alone arm) in whom CXCR4-using virus was detected at treatment failure.
 This analysis indicated that CXCR4-virus emerged from a pre-existing CXCR4-using reservoir not detected at baseline, rather than from mutation of CCR5-tropic virus present at baseline.
 An analysis of tropism following failure of CELSENTRI therapy with CXCR4-using virus in patients with CCR5 virus at baseline, demonstrated that the virus population reverted back to CCR5 tropism in 33 of 36 patients with more than 35 days of follow-up.
-
 At time of failure with CXCR4-using virus, the resistance pattern to other antiretrovirals appears similar to that of the CCR5-tropic population at baseline, based on available data.
 Hence, in the selection of a treatment regimen, it should be assumed that viruses forming part of the previously undetected CXCR4 -using population (i.e. minor viral population) harbours the same resistance pattern as the CCR5-tropic population.
 
@@ -56,6 +56,7 @@ In patients failing therapy with R5-virus only, maraviroc might be considered st
 Residual activity in vivo for viruses with MPI-values <95% has not been determined.
 
 Genotypic resistance: Key mutations (V3-loop) can presently not be suggested due to the high variability of the V3-sequence, and the low number of samples analysed.
+
 Clinical Results
 
 Studies in CCR5-tropic Treatment-Experienced Patients:
@@ -85,6 +86,7 @@ Limited numbers of patients from ethnicities other than Caucasian were included 
 
 The mean increase in CD4+ cell count from baseline in patients who failed with a change in tropism result to dual/mixed tropic or CXCR4, in the CELSENTRI 300 mg twice daily + OBT
 (+56 cells/mm3) group was greater than that seen in patients failing OBT alone (+13.8 cells/mm3) regardless of tropism.
+
 Table 7.
 Outcomes of randomised treatment at week 48 (pooled studies MOTIVATE 1 and MOTIVATE 2)
 
