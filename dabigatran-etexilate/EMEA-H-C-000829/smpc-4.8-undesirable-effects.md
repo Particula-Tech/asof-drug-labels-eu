@@ -8,7 +8,7 @@ Although rare in frequency in clinical trials, major or severe bleeding may occu
 
 The table 1 shows the number (%) of patients experiencing bleeding events during the treatment period in the VTE prevention in the two pivotal clinical trials, according to dose.
 
-Table 1 Bleeding events broken down to major and any bleeding in the pivotal hip and knee study
+Table 1 Bleeding events broken down to major and any bleeding in the pivotal hip and knee study.
 
 |  | Dabigatran etexilate 150 mg N (%) | Dabigatran etexilate 220 mg N (%) | Enoxaparin N (%) |
 | --- | --- | --- | --- |
@@ -46,7 +46,8 @@ Table 2 shows the adverse reactions ranked under headings of SOC and frequency u
 |  | Uncommon |  |  |
 | Alaninine aminotransferase increased | 18 (0.7) | 7 (0.3) | 28 (0.9) |
 | Aspartate aminotransferase increased | 9 (0.3) | 5 (0.2) | 15 (0.5) |
-| Hepatic function abnormal/ Liver function Test abnormal | 6 (0.2) | 10 (0.4) | 7 (0.2) |
+| Hepatic function abnormal/ | 6 (0.2) | 10 (0.4) | 7 (0.2) |
+| Liver function Test abnormal |  |  |  |
 | Hepatic enzyme increased | 4 (0.2) | 5 (0.2) | 11 (0.4) |
 | Hyperbilirubinaemia | 4 (0.1) | 3 (0.1) | 4 (0.1) |
 | Transaminases increased | 0 (0.0) | 2 (0.1) | 1 (0.0) |
@@ -85,9 +86,6 @@ Beyond the reported ALT findings the following laboratory chemistry data had bee
 
 Table 3: ALT findings the following laboratory chemistry
 
-Dabigatran etexilate Dabigatran etexilate Enoxaparin
-150 mg 220 mg
-N (%) N (%) N (%)
-Total rates of Alaninine 68 (2.5) 58 (2.2) 95 (3.5)
-aminotransferase increased 3 x
-ULN
+|  | Dabigatran etexilate 150 mg N (%) | Dabigatran etexilate 220 mg N (%) | Enoxaparin N (%) |
+| --- | --- | --- | --- |
+| Total rates of Alaninine aminotransferase increased 3 x ULN | 68 (2.5) | 58 (2.2) | 95 (3.5) |

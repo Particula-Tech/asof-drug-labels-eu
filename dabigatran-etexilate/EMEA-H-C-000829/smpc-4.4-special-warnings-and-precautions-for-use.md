@@ -21,8 +21,8 @@ Agents that may enhance the risk of haemorrhage should not be administered conco
 Patients at high surgical mortality risk and with intrinsic risk factors for thromboembolic events:
 
 There are limited efficacy and safety data for dabigatran available in these patients and therefore they should be treated with caution.
-Spinal anaesthesia/epidural anaesthesia/lumbar puncture:
 
+Spinal anaesthesia/epidural anaesthesia/lumbar puncture:
 In patients undergoing major orthopaedic surgery, epidural or spinal haematomas that may result in long-term or permanent paralysis cannot be excluded with the concurrent use of dabigatran and spinal/epidural anaesthesia or spinal puncture.
 The risk of these rare events may be higher with postoperative use of indwelling epidural catheters or the concomitant use of other medicinal products affecting haemostasis.
 

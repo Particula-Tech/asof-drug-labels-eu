@@ -24,7 +24,6 @@ Clinical trials in Venous Thromboembolism (VTE) prophylaxis following major join
 In 2 large randomized, parallel group, double-blind, dose–confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
 In the RE-MODEL trial (knee replacement) treatment was for 6 – 10 days and in the RE-NOVATE trial (hip replacement) for 28 – 35 days.
 Totals of 2076 patients (knee) and 3494 (hip) were treated respectively.
-
 Composite of total VTE (including PE, proximal and distal DVT, whatever symptomatic or asymptomatic detected by routine venography) and all-cause mortality constituted the primary end-point for both studies.
 Composite of major VTE (including PE and proximal DVT, whatever symptomatic or asymptomatic detected by routine venography) and VTE-related mortality constituted a secondary end-point and is considered of better clinical relevance.
 Results of both studies showed that the antithrombotic effect of Pradaxa 220 mg and 150 mg were statistically non-inferior to that of enoxaparin on total VTE and all-cause mortality.

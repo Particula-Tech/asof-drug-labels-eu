@@ -12,6 +12,7 @@ Peak plasma concentrations are reached at 6 hours following administration in a 
 It was demonstrated in a further study that slow and delayed absorption is usually only present on the day of surgery.
 On subsequent days absorption of dabigatran is rapid with peak plasma concentrations attained 2 hours after medicinal product administration.
 Food does not affect the bioavailability of dabigatran etexilate but delays the time to peak plasma concentrations by 2 hours.
+
 Distribution:
 
 Low (34-35 %) concentration independent binding of dabigatran to human plasma proteins was observed.
@@ -52,11 +53,11 @@ Body weight had a minor effect on the plasma clearance of dabigatran resulting i
 
 Gender:
 Active substance exposure in female patients is about 40 % to 50 % higher than in male patients and no dose adjustment is recommended.
+
 Ethnic origin:
 The pharmacokinetics of dabigatran was investigated in Caucasian and Japanese volunteers after single and multiple doses.
 Ethnic origin does not affect the pharmacokinetics of dabigatran in a clinically relevant manner.
 No pharmacokinetic data in black patients are available.
-
 Pharmacokinetic interactions:
 In vitro interaction studies did not show any inhibition or induction of the principal isoenzymes of cytochrome P450.
 This has been confirmed by in vivo studies with healthy volunteers, who did not show any interaction between this treatment and the following active substances: atorvastatin (CYP3A4), digoxin (P-glycoprotein transporter interaction) and diclofenac (CYP2C9).
