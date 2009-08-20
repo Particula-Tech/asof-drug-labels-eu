@@ -63,6 +63,7 @@ Use in patients with hepatic impairment
 
 No dose adjustment is required for patients with hepatic impairment (see section 5.2).
 Use in children and adolescents
+
 Lyrica is not recommended for use in children below the age of 12 years and adolescents (12 - 17 years of age) due to insufficient data on safety and efficacy (see section 5.3).
 
 Use in the elderly (over 65 years of age)

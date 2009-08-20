@@ -1,9 +1,9 @@
 # 4.8 Undesirable effects
 
-The pregabalin clinical programme involved over 9000 patients who were exposed to pregabalin, of whom over 5000 were in double-blind placebo controlled trials.
+The pregabalin clinical programme involved over 8900 patients who were exposed to pregabalin, of whom over 5600 were in double-blind placebo controlled trials.
 The most commonly reported adverse reactions were dizziness and somnolence.
 Adverse reactions were usually mild to moderate in intensity.
-In all controlled studies, the discontinuation rate due to adverse reactions was 13% for patients receiving pregabalin and 7% for patients receiving placebo.
+In all controlled studies, the discontinuation rate due to adverse reactions was 12% for patients receiving pregabalin and 5% for patients receiving placebo.
 The most common adverse reactions resulting in discontinuation from pregabalin treatment groups were dizziness and somnolence.
 
 In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
@@ -19,7 +19,7 @@ Body System Adverse drug reactions
 
 Infections and Infestations
 
-Rare Nasopharyngitis
+Uncommon Nasopharyngitis
 
 Blood and lymphatic system disorders
 
@@ -32,15 +32,17 @@ Frequency not known Hypersensitivity, angioedema, allergic reaction
 Metabolism and nutrition disorders
 
 Common Appetite increased
-Uncommon Anorexia
-Rare Hypoglycaemia
+Uncommon Anorexia, hypoglycaemia
 
 Psychiatric disorders
 
-Common Euphoric mood, confusion, irritability, libido decreased
+Common Euphoric mood, confusion, irritability, libido decreased,
+
+disorientation, insomnia
+
 Uncommon Hallucination, panic attack, restlessness, agitation, depression,
 
-depressed mood, mood swings, depersonalisation, insomnia exacerbated, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy
+depressed mood, mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy
 
 Rare Disinhibition, elevated mood
 
@@ -49,7 +51,7 @@ Nervous system disorders
 Very Common Dizziness, somnolence
 Common Ataxia, coordination abnormal, tremor, dysarthria, memory
 
-impairment, disturbance in attention, paraesthesia
+impairment, disturbance in attention, paraesthesia, sedation, balance disorder, lethargy
 
 Uncommon Syncope, stupor, myoclonus, psychomotor hyperactivity, ageusia,
 
@@ -74,21 +76,18 @@ Frequency not known Vision loss, keratitis
 Ear and labyrinth disorders
 
 Common Vertigo
-Rare Hyperacusis
+Uncommon Hyperacusis
 
 Cardiac disorders
 
-Uncommon Tachycardia
-Rare Atrioventricular block first degree, sinus tachycardia, sinus
-
-bradycardia, sinus arrhythmia
-
+Uncommon Tachycardia, atrioventricular block first degree
+Rare Sinus tachycardia, sinus bradycardia, sinus arrhythmia
 Frequency not known Congestive heart failure, QT prolongation
 
 Vascular disorders
 
-Uncommon Flushing, hot flushes
-Rare Hypotension, hypertension, peripheral coldness
+Uncommon Flushing, hot flushes, hypotension, hypertension
+Rare Peripheral coldness
 
 Respiratory, thoracic and mediastinal disorders
 
@@ -135,9 +134,9 @@ Rare Amenorrhoea, breast discharge, breast pain, dysmenorrhoea,
 hypertrophy breast
 General disorders and administration site conditions
 
-Common Gait abnormal, feeling drunk, fatigue, oedema peripheral, oedema,
-Uncommon Fallchest tightness, asthenia, thirst
-Rare Generalised oedema, pyrexia, rigors, pain
+Common Gait abnormal, feeling drunk, fatigue, oedema peripheral, oedema
+Uncommon Fall, chest tightness, asthenia, thirst, pain, feeling abnormal, chills
+Rare Generalised oedema, pyrexia
 Frequency not known Face oedema
 
 Investigations
@@ -161,8 +160,7 @@ Concerning discontinuation of long-term treatment of pregabalin there are no dat
 
 In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥1/10); common (≥1/100 to ≤1/10); uncommon (≥1/1,000 to ≤1/100); rare (≥1/10,000 to ≤1/1,000); very rare (≤1/10,000), not known (cannot be estimated from the available data).
 
-Uncommon Fall, chest tightness, asthenia, thirst
-Rare Generalised oedema,pyrexia, rigors, pain,
+Rare Generalised oedema,pyrexia
 
 [LYRICA 75 mg hard capsules]
 
