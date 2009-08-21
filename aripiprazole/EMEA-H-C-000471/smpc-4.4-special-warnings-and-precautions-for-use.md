@@ -11,7 +11,6 @@ increased risk of suicidality with aripiprazole compared to other antipsychotics
 bipolar disorder.
 
 Cardiovascular disorders: Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischaemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medicinal products) or hypertension, including accelerated or malignant.
-
 Conduction abnormalities: In clinical trials of aripiprazole, the incidence of QT prolongation was comparable to placebo.
 As with other antipsychotics, aripiprazole should be used with caution in patients with a family history of QT prolongation.
 
@@ -47,7 +46,6 @@ Precise risk estimates for hyperglycaemia-related adverse reactions in patients 
 Patients treated with any antipsychotic agents, including ABILIFY, should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control.
 
 Hypersensitivity: as with other medicinal products, hypersensitivity reactions, characterised by allergic symptoms, may occur with aripiprazole (see section 4.8).
-
 Weight gain: weight gain is commonly seen in schizophrenic and bipolar mania patients due to co-morbidities, use of antipsychotics known to cause weight gain, poorly managed life-style, and might lead to severe complications.
 Weight gain has been reported post-marketing among patients prescribed ABILIFY.
 When seen, it is usually in those with significant risk factors such as history of diabetes, thyroid disorder or pituitary adenoma.
@@ -55,6 +53,7 @@ In clinical trials aripiprazole has not been shown to induce clinically relevant
 
 Dysphagia: oesophageal dysmotility and aspiration have been associated with antipsychotic treatment, including ABILIFY.
 Aripiprazole and other antipsychotic active substances should be used cautiously in patients at risk for aspiration pneumonia.
+
 Lactose: ABILIFY tablets contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
@@ -72,9 +71,11 @@ Patients with rare hereditary problems of galactose intolerance, the lapp lactas
 
 [ABILIFY 10 mg orodispersible tablets]
 
-The occurrence of suicidal behaviour is inherent in psychotic illnesses and mood disorders and in
-some cases has been reported early after initiation or switch of antipsychotic therapy, including
-treatment with aripiprazole (see section 4.8). Close supervision of high-risk patients should
+| The occurrence of suicidal behaviour is inherent in psychotic illnesses |  | and mood disorders | and in |
+| --- | --- | --- | --- |
+| some cases has been reported early after initiation or switch of antipsychotic therapy, including |  |  |  |
+| treatment with aripiprazole (see section 4.8). Close supervision of high-risk patients should |  |  |  |
+| accompany antipsychotic therapy. | Results of an epidemiological study found that there was no |  |  |
 
 Phenylketonurics: ABILIFY orodispersible tablets contain aspartame, a source of phenylalanine which may be harmful for people with phenylketonuria.
 

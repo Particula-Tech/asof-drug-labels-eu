@@ -1,24 +1,29 @@
 # 4.2 Posology and method of administration
 
-Schizophrenia:
-The recommended starting dose for ABILIFY is 10 or 15 mg/day with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
+Adults:
+Schizophrenia: the recommended starting dose for ABILIFY is 10 or 15 mg/day with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
 
 ABILIFY is effective in a dose range of 10 to 30 mg/day.
 Enhanced efficacy at doses higher than a daily dose of 15 mg has not been demonstrated although individual patients may benefit from a higher dose.
 The maximum daily dose should not exceed 30 mg.
 
-Manic episodes:
-The recommended starting dose for ABILIFY is 15 mg administered on a once-a-day schedule without regard to meals as monotherapy or combination therapy (see section 5.1).
+Manic episodes: the recommended starting dose for ABILIFY is 15 mg administered on a once-a-day schedule without regard to meals as monotherapy or combination therapy (see section 5.1).
 Some patients may benefit from a higher dose.
 The maximum daily dose should not exceed 30 mg.
 
-Recurrence prevention of manic episodes in Bipolar I Disorder:
-For preventing recurrence of manic episodes in patients who have been receiving aripiprazole, continue therapy at the same dose.
+Recurrence prevention of manic episodes in Bipolar I Disorder: for preventing recurrence of manic episodes in patients who have been receiving aripiprazole, continue therapy at the same dose.
 Adjustments of daily dosage, including dose reduction should be considered on the basis of clinical status.
 
-ABILIFY tablets are for oral use.
+Paediatric patients:
+Schizophrenia in adolescents 15 years and older: the recommended dose for ABILIFY is 10 mg/day administered on a once-a-day schedule without regard to meals.
+Treatment should be initiated at 2 mg (using ABILIFY oral solution 1 mg/ml) for 2 days, titrated to 5 mg for 2 additional days to reach the recommended daily dose of 10 mg.
+When appropriate, subsequent dose increases should be administered in 5 mg increments without exceeding the maximum daily dose of 30 mg (see section 5.1).
+ABILIFY is effective in a dose range of 10 to 30 mg/day.
+Enhanced efficacy at doses higher than a daily dose of 10 mg has not been demonstrated in adolescents although individual patients may benefit from a higher dose.
 
-Children and adolescents: there is no experience in children and adolescents under 18 years of age.
+ABILIFY is not recommended for use in patients below 15 years of age due to insufficient data on safety and efficacy (see sections 4.8 and 5.1).
+
+ABILIFY tablets are for oral use.
 
 Patients with hepatic impairment: no dosage adjustment is required for patients with mild to moderate hepatic impairment.
 In patients with severe hepatic impairment, the data available are insufficient to establish recommendations.
@@ -63,6 +68,7 @@ Since the orodispersible tablet is fragile, it should be taken immediately on op
 Alternatively, disperse the tablet in water and drink the resulting suspension.
 
 The orodispersible tablets may be used as an alternative to ABILIFY tablets for patients who have difficulty to swallow ABILIFY tablets (see also section 5.2).
+
 ABILIFY orodispersible tablets are for oral use.
 
 Smoking status: according to the metabolic pathway of aripiprazole no dosage adjustment is required for smokers (see section 4.5).
@@ -79,12 +85,12 @@ Smoking status: according to the metabolic pathway of aripiprazole no dosage adj
 
 ABILIFY oral solution may be used as an alternative to ABILIFY tablets for patients who have difficulty swallowing ABILIFY tablets (see section 5.2).
 
-The recommended starting dose for ABILIFY is 10 or 15 mg/day (i.e. 10 or 15 ml solution/day) with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
+Schizophrenia: the recommended starting dose for ABILIFY is 10 or 15 mg/day (i.e. 10 or 15 ml solution/day) with a maintenance dose of 15 mg/day administered on a once-a-day schedule without regard to meals.
 A calibrated measuring cup and a 2 ml calibrated dropper are included in the carton.
 
 ABILIFY is effective in a dose range of 10 to 30 mg/day (i.e. 10 to 30 ml solution/day).
 
-The recommended starting dose for ABILIFY is 15 mg (i.e. 15 ml solution/day) administered on a once-a-day schedule without regard to meals as monotherapy or combination therapy (see section 5.1).
+Manic episodes: the recommended starting dose for ABILIFY is 15 mg (i.e. 15 ml solution/day) administered on a once-a-day schedule without regard to meals as monotherapy or combination therapy (see section 5.1).
 The maximum daily dose should not exceed 30 mg (i.e. 30 ml solution/day).
 
 ABILIFY oral solution is for oral use.
@@ -108,6 +114,8 @@ To enhance absorption and minimise variability, injection into the deltoid or de
 
 ABILIFY solution for injection should not be administered intravenously or subcutaneously.
 ABILIFY solution for injection is ready to use and intended for short-term use only (see section 5.1).
+
+Paediatric patients: there is no experience in children and adolescents under 18 years of age.
 
 Elderly: the effectiveness of ABILIFY solution for injection in patients who are 65 years of age or older has not been established.
 

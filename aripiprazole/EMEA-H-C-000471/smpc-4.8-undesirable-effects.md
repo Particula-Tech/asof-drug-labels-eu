@@ -1,9 +1,9 @@
 # 4.8 Undesirable effects
 
 The most commonly reported adverse reactions in placebo-controlled trials are headache, insomnia, and nausea each occurring in more than 10% of patients treated with oral aripiprazole.
-
 The following adverse reactions occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*):
 The frequency listed below is defined using the following convention: common (≥ 1/100 to < 1/10) and uncommon (≥ 1/1,000 to < 1/100).
+
 Psychiatric disorders
 Common: restlessness, insomnia, anxiety
 Uncommon: depression*
@@ -40,6 +40,9 @@ Elevations of CPK (Creatine Phosphokinase), generally transient and asymptomatic
 
 Other findings:
 Adverse reactions known to be associated with antipsychotic therapy and also reported during treatment with aripiprazole include neuroleptic malignant syndrome, tardive dyskinesia, seizure, cerebrovascular adverse reactions and increased mortality in elderly demented patients, hyperglycaemia and diabetes mellitus (see section 4.4).
+Paediatric patients:
+In a short-term placebo-controlled clinical trial involving 302 adolescents (13-17 years) with schizophrenia, the frequency and type of undesirable effects were similar to those in adults except for the following events that were reported more frequently in adolescents receiving aripiprazole than in adults receiving aripiprazole (and more frequently than placebo): somnolence/sedation and extrapyramidal disorder were reported very commonly (≥ 1/10), and dry mouth, increased appetite, and orthostatic hypotension were reported commonly (≥ 1/100, < 1/10).
+The safety profile in a 26-week open-label extension trial was similar to that observed in the short-term, placebo-controlled trial.
 
 Post-Marketing:
 The following adverse reactions have been reported during post-marketing surveillance.
@@ -139,6 +142,8 @@ Uncommon: dry mouth*
 Uncommon: fatigue*
 
 The following undesirable effects occurred more often (≥ 1/100) than placebo, or were identified as possibly medically relevant adverse reactions (*) in clinical trials with oral formulations of aripiprazole (see section 5.1):
+
+In a short-term placebo-controlled clinical trial involving 302 adolescents (13-17 years) with schizophrenia, the frequency and type of undesirable effects were similar to those in adults except for the following events that were reported more frequently in adolescents receiving oral aripiprazole than in adults receiving oral aripiprazole (and more frequently than placebo): somnolence/sedation and extrapyramidal disorder were reported very commonly (≥ 1/10), and dry mouth, increased appetite, and orthostatic hypotension were reported commonly (≥ 1/100, < 1/10).
 
 Metabolism and nutrition weight gain, weight decreased, anorexia, hyponatremia
 
