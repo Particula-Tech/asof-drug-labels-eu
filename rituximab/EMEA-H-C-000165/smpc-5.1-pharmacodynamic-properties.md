@@ -9,6 +9,7 @@ CD20 is found on both normal and malignant B cells, but not on haematopoietic st
 B cells, normal plasma cells or other normal tissue.
 This antigen does not internalise upon antibody binding and is not shed from the cell surface.
 CD20 does not circulate in the plasma as a free antigen and, thus, does not compete for antibody binding.
+
 The Fab domain of rituximab binds to the CD20 antigen on B lymphocytes and the Fc domain can recruit immune effector functions to mediate B cell lysis.
 Possible mechanisms of effector-mediated cell lysis include complement-dependent cytotoxicity (CDC) resulting from C1q binding, and antibody-dependent cellular cytotoxicity (ADCC) mediated by one or more of the Fcγ receptors on the surface of granulocytes, macrophages and NK cells.
 Rituximab binding to CD 20 antigen on B lymphocytes has also been demonstrated to induce cell death via apoptosis.
@@ -17,7 +18,6 @@ Peripheral B cell counts declined below normal following completion of the first
 In patients treated for hematological malignancies, B cell repletion began within 6 months of treatment returning to normal levels between 9 and 12 months after completion of therapy.
 In rheumatoid arthritis patients, immediate depletion of B cells in the peripheral blood was observed following two infusions of 1000 mg MabThera separated by a 14 day interval.
 Peripheral blood B cell counts begin to increase from week 24 and evidence for repopulation is observed in the majority of patients by week 40, whether MabThera was administered as monotherapy or in combination with methotrexate.
-
 Clinical Experience in Non-Hodgkin’s lymphoma and in chronic lymphocytic leukaemia
 
 Follicular non-Hodgkin's lymphoma
@@ -36,7 +36,7 @@ This finding was not supported by a stepwise logistic regression analysis in whi
 
 Initial treatment, weekly for 8 doses
 In a multi-centre, single-arm study, 37 patients with relapsed or chemoresistant, low grade or follicular B cell NHL received 375 mg/m2 of MabThera as intravenous infusion weekly for eight doses.
-The ORR was 57 % (95% Confidence interval (CI); 41 % – 73 %; CR 14 %, PR 43 %) with a projected median TTP for responding patients of 19.4 months (range 5.3 to 38.9 months).
+The ORR was 57 % (95 % Confidence interval (CI); 41 % – 73 %; CR 14 %, PR 43 %) with a projected median TTP for responding patients of 19.4 months (range 5.3 to 38.9 months).
 
 Initial treatment, bulky disease, weekly for 4 doses
 In pooled data from three studies, 39 patients with relapsed or chemoresistant, bulky disease (single lesion ≥ 10 cm in diameter), low grade or follicular B cell NHL received 375 mg/m2 of MabThera as intravenous infusion weekly for four doses.
@@ -59,10 +59,11 @@ The proportion of patients with a tumour response (CR, CRu, PR) was significantl
 Treatment with R-CVP significantly prolonged the time to disease progression or death compared to CVP, 33.6 months and 14.7 months, respectively (p
 < 0.0001, log-rank test).
 The median duration of response was 37.7 months in the R-CVP group and was 13.5 months in the CVP group (p < 0.0001, log-rank test).
-The difference between the treatment groups with respect to overall survival showed a significant clinical difference (p=0.029, log-rank test stratified by center): survival rates at 53 months were 80.9 % for patients in the R-CVP group compared to 71.1 % for patients in the CVP group
+The difference between the treatment groups with respect to overall survival showed a significant clinical difference (p=0.029, log-rank test stratified by center): survival rates at 53 months were 80.9 % for patients in the R-CVP group compared to 71.1 % for patients in the CVP group.
 
 Results from three other randomized trials using MabThera in combination with chemotherapy regimen other than CVP (CHOP, MCP, CHVP/Interferon-α) have also demonstrated significant improvements in response rates, time-dependent parameters as well as in overall survival .
 Key results from all four studies are summarized in table 3.
+
 Table 3 Summary of key results from four phase III randomized studies evaluating the benefit of MabThera with different chemotherapy regimens in follicular lymphoma
 
 | Study | Treatment, N | Median FU, months | ORR, % | CR, % | Median TTF/PFS/ EFS mo | OS rates, % |
@@ -86,6 +87,7 @@ MabThera maintenance treatment consisted of a single infusion of MabThera at 375
 
 The final efficacy analysis included all patients randomized to both parts of the study.
 After a median observation time of 31 months for patients randomised to the induction phase, R-CHOP significantly improved the outcome of patients with relapsed/refractory follicular NHL when compared to CHOP (see Table 4).
+
 Table 4 Induction phase: overview of efficacy results for CHOP vs. R-CHOP (31 months median observation time)
 
 |  | CHOP | R-CHOP | p-value | Risk Reduction1) |
@@ -117,7 +119,6 @@ Table 5 Maintenance phase: overview of efficacy results MabThera vs. observation
 | OS CHOP R-CHOP | NR NR | NR NR | 0.0348 0.0482 | 55 % 56 % |
 
 NR: not reached; a: only applicable to patients achieving a CR
-
 The benefit of MabThera maintenance treatment was confirmed in all subgroups analysed, regardless of induction regimen (CHOP or R-CHOP) or quality of response to induction treatment (CR or PR) (table 5).
 MabThera maintenance treatment significantly prolonged median PFS in patients responding to CHOP induction therapy (median PFS 37.5 months vs. 11.6 months, p< 0.0001) as well as in those responding to R-CHOP induction (median PFS 51.9 months vs. 22.1 months, p=0.0071).
 Although subgroups were small, MabThera maintenance treatment provided a significant benefit in terms of overall survival for both patients responding to CHOP and patients responding to R-CHOP, although longer follow-up is required to confirm this observation.
@@ -146,15 +147,15 @@ Of 356 patients evaluated for HACA, 1.1 % (4 patients) were positive.
 
 Chronic lymphocytic leukaemia
 
-In an open-label randomized trial, a total of 817 previously untreated patients with CLL were randomized to receive either FC chemotherapy (fludarabine 25 mg/m2, cyclophosphamide 250 mg/m2, days 1-3) every 4 weeks for 6 cycles or MabThera in combination with FC (R-FC).
+In two open-label randomized trials, a total of 817 previously untreated patients and 552 patients with relapsed/refractory CLL were randomized to receive either FC chemotherapy (fludarabine 25 mg/m2, cyclophosphamide 250 mg/m2, days 1-3) every 4 weeks for 6 cycles or MabThera in combination with FC (R-FC).
 MabThera was administered at a dosage of 375 mg/m2 during the first cycle one day prior to chemotherapy and at a dosage of 500 mg/m2 on day 1 of each subsequent treatment cycle.
-A total of 810 patients (403 R-FC, 407 FC) were analyzed for efficacy (Table 6).
-The primary endpoint of progression-free survival was 40 months median in the R-FC group and 32 months in the FC group (p < 0.0001, log-rank test).
+Patients were excluded from the study in relapsed/refractory CLL if they had previously been treated with monoclonal antibodies or if they were refractory (defined as failure to achieve a partial remission for at least 6 months) to fludarabine or any nucleoside analogue.
+A total of 810 patients (403 R-FC, 407 FC) for the first-line study (Table 6a and Table 6b) and 552 patients (276 R-FC, 276 FC) for the relapsed/refractory study (Table 7) were analyzed for efficacy.
+In the first-line study, the median progression-free survival (primary endpoint) was 40 months in the R-FC group and 32 months in the FC group (p < 0.0001, log-rank test).
 The analysis of overall survival showed an improved survival in favour of the R-FC arm (p=0.0427, log-rank test), however longer follow-up is needed to confirm this observation.
 The benefit in terms of PFS was consistently observed in most patient subgroups analyzed according to disease risk at baseline.
 
-Table 6 First-line treatment of chronic lymphocytic leukaemia
-
+Table 6a First-line treatment of chronic lymphocytic leukaemia
 Overview of efficacy results for MabThera plus FC vs. FC alone (20.7 months median observation time)
 
 | Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
@@ -171,6 +172,7 @@ Response rate and CR rates analysed using Chi-squared Test.
 *: only applicable to patients achieving a CR, nPR, PR; NR: not reached n.a. not applicable
 **: only applicable to patients achieving a CR;
 
+Table 6b First-line treatment of chronic lymphocytic leukaemia
 Progression-Free Survival according to Binet stage (ITT)
 
 Progression-free survival (PFS) Number of Hazard Ratio p-value (Wald
@@ -182,31 +184,52 @@ Binet C 126 125 0.88 (0.58; 1.33) 0.5406
 
 CI: Confidence Interval
 
-Results from other supportive studies using MabThera in combination with other chemotherapy regimens (including CHOP, FCM, PC, PCM) for the treatment of CLL patients have also demonstrated high overall response rates with promising PFS rates without adding relevant toxicity to the treatment.
+In the relapsed/refractory study, the median progression-free survival (primary endpoint) was 30.6 months in the R-FC group and 20.6 months in the FC group (p=0.0002, log-rank test).
+The benefit in terms of PFS was observed in almost all patient subgroups analyzed according to disease risk at baseline.
+A slight but not significant improvement in overall survival was reported in the R-FC compared to the FC arm.
+Table 7 Treatment of relapsed/refractory chronic lymphocytic leukaemia - overview of efficacy results for MabThera plus FC vs. FC alone (25.3 months median observation time)
+
+| Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
+| --- | --- | --- | --- | --- |
+|  | FC (N = 276) | R-FC (N=276) | Log-Rank p value |  |
+| Progression-free survival (PFS) | 20.6 | 30.6 | 0.0002 | 35% |
+| Overall Survival | 51.9 | NR | 0.2874 | 17% |
+| Event Free Survival | 19.3 | 28.7 | 0.0002 | 36% |
+| Response rate (CR, nPR, or PR) | 58.0% | 69.9% | 0.0034 | n.a. |
+| CR rates | 13.0% | 24.3% | 0.0007 | n.a. |
+| Duration of response * Disease free survival (DFS)** Time to new CLL treatment | 27.6 42.2 34.2 | 39.6 39.6 NR | 0.0252 0.8842 0.0024 | 31% -6% 35% |
+
+Response rate and CR rates analysed using Chi-squared Test.
+*: only applicable to patients achieving a CR, nPR, PR; NR: not reached n.a. not applicable
+**: only applicable to patients achieving a CR;
+
+Results from other supportive studies using MabThera in combination with other chemotherapy regimens (including CHOP, FCM, PC, PCM, bendamustine and cladribine) for the treatment of previously untreated and/or relapsed/refractory CLL patients have also demonstrated high overall response rates with benefit in terms of PFS rates, albeit with modestly higher toxicity (especially myelotoxicity).
+These studies support the use of MabThera with any chemotherapy.
+Data in approximately 180 patients pre-treated with MabThera have demonstrated clinical benefit (including CR) and are supportive for MabThera re-treatment.
 
 Clinical Experience in Rheumatoid Arthritis
 
 The efficacy and safety of MabThera in alleviating the symptoms and signs of rheumatoid arthritis was demonstrated in three randomized, controlled, double-blind, multicenter studies.
+
 Study 1 was a double blind comparative study which included 517 patients that had experienced an inadequate response or intolerance to one or more TNF inhibitor therapies.
-Eligible patients had active rheumatoid arthritis for at least 6 months, diagnosed according to the criteria of the American College of Rheumatology (ACR), with swollen joint count (SJC) (8 (66 joint count), and tender joint count (TJC) (8 (68 joint count) and elevated CRP or ESR.
+Eligible patients had active rheumatoid arthritis for at least 6 months, diagnosed according to the criteria of the American College of Rheumatology (ACR), with swollen joint count (SJC) (8 (66 joint count)), and tender joint count (TJC) (8 (68 joint count)) and elevated CRP or ESR.
 The primary endpoint was the percent of patients who achieved an ACR20 response at week 24.
 Patients received two 1000 mg intravenous infusions of MabThera, each following an intravenous infusion of 100 mg methylprednisone and separated by an interval of 15 days.
 All patients received concomitant oral methotrexate (10-25 mg/week) and 60 mg oral prednisone on days 2-7 and 30 mg on days 8-14 following the first infusion.
 Patients were followed beyond week 24 for long term endpoints, including radiographic assessment at 56 weeks.
-During this time 81 % of patients, from the original placebo group received rituximab between weeks 24 an 56, under an open label extension study protocol.
+During this time, 81 % of patients, from the original placebo group received rituximab between weeks 24 an 56, under an open label extension study protocol.
 
 Study 2 was a randomized, double-blind, double-dummy, controlled, 3 x 3 multifactorial study which compared two different dose levels of rituximab given with or without one of two peri infusional corticosteroid regimens in combination with weekly methotrexate in patients with active rheumatoid arthritis which had not responded to treatment with 1 to 5 other DMARDs.
-
 Study 3 was a double-blind, double-dummy, controlled study evaluating rituximab monotherapy, and rituximab in combination with either cyclophosphamide or methotrexate in patients with active rheumatoid arthritis which had not responded to one or more prior DMARDs
 
 The comparator group in all three studies was weekly methotrexate (10-25 mg weekly).
 
 Disease activity outcomes
-In all three studies, rituximab 2 x 1000 mg significantly increased the proportion of patients achieving at least a 20 % improvement in ACR score compared with patients treated with methotrexate alone (Table 7).
+In all three studies, rituximab 2 x 1000 mg significantly increased the proportion of patients achieving at least a 20 % improvement in ACR score compared with patients treated with methotrexate alone (Table 8).
 The treatment effect was similar in patients independent of rheumatoid factor status, age, gender, body surface area, race, number of prior treatments or disease status.
 Clinically and statistically significant improvement was also noted on all individual components of the ACR response (tender and swollen joint counts, patient and physician global assessment, disability index scores (HAQ), pain assessment and C-Reactive Proteins (mg/dL).
 
-Table 7 Cross-Study Comparison of ACR Responses at Week 24 (ITT Population)
+Table 8 Cross-Study Comparison of ACR Responses at Week 24 (ITT Population)
 
 |  | ACR Response | Placebo+MTX | Rituximab+MTX |
 | --- | --- | --- | --- |
@@ -221,16 +244,16 @@ Table 7 Cross-Study Comparison of ACR Responses at Week 24 (ITT Population)
 MTX – Methotrexate
 
 In study 3, the ACR20 response in patients treated with rituximab alone was 65 % compared with 38 % on methotrexate alone (p=0.025).
+
 Rituximab treated patients had a significantly greater reduction in disease activity score (DAS28) than patients treated with methotrexate alone (Mean change in DAS28 from baseline -1.9 vs. -0.4, p<0.0001, respectively).
-A good to moderate European League Against Rheumatism (EULAR) response was achieved by significantly more rituximab treated patients compared to patients treated with methotrexate alone (Table 9).
+A good to moderate European League Against Rheumatism (EULAR) response was achieved by significantly more rituximab treated patients compared to patients treated with methotrexate alone (Table 10).
 
 Radiographic response
 In Study 1, conducted in patients with inadequate response or intolerance to one or more TNF inhibitor therapies, structural joint damage was assessed radiographically and expressed as change in modified total Sharp score and its components, the erosion score and joint space narrowing score.
 Patients originally receiving rituximab/MTX demonstrated significantly less radiographic progression than patients originally receiving methotrexate alone at 56 weeks.
 Of the patients originally receiving methotrexate alone, 81 % received rituximab either as rescue between weeks 16-24 or in the extension trial, before week 56.
-A higher proportion of patients receiving the original rituximab/MTX treatment also had no erosive progression over 56 weeks (Table 8).
-
-Table 8 Radiographic mean changes over 56 weeks in Study 1
+A higher proportion of patients receiving the original rituximab/MTX treatment also had no erosive progression over 56 weeks (Table 9).
+Table 9 Radiographic mean changes over 56 weeks in Study 1
 
 |  | Placebo+MTX | Rituximab +MTX 2 × 1g |
 | --- | --- | --- |
@@ -241,9 +264,9 @@ Table 8 Radiographic mean changes over 56 weeks in Study 1
 | Proportion of patients with no erosive progression over 56 weeks | 52% | 61% p=0.0494 |
 
 Quality of life outcomes
-Significant reductions in disability index (HAQ-DI), fatigue (FACIT-F) (Table 9), and improvement in both the physical and mental health domains of the SF-36 were observed in patients treated with rituximab compared to patients treated with methotrexate alone (SF-36 Physical 5.8 vs. 0.9, SF-36 Mental 4.7 vs. 1.3, respectively, Study 1).
+Significant reductions in disability index (HAQ-DI), fatigue (FACIT-F) (Table 10), and improvement in both the physical and mental health domains of the SF-36 were observed in patients treated with rituximab compared to patients treated with methotrexate alone (SF-36 Physical 5.8 vs. 0.9, SF-36 Mental 4.7 vs. 1.3, respectively, Study 1).
 
-Table 9 Disease Activity and Quality of Life Outcomes at Week 24 in Study 1
+Table 10 Disease Activity and Quality of Life Outcomes at Week 24 in Study 1
 
 | Week 24 response: Change from baseline | Placebo+MTX1 N= 201 mean (SD) | Rituximab+MTX1 N= 298 mean (SD) switch | p-value |
 | --- | --- | --- | --- |
@@ -282,18 +305,6 @@ Mean change in DAS28 from original baseline: first course -2.18, second course -
 
 [MabThera 500 mg (10 mg/ml) concentrate for solution for infusion]
 
-Clinical Experience in Non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia
+Results from other supportive studies using MabThera in combination with other chemotherapy regimens (including CHOP, FCM, PC, PCM, bendamustine and cladribine) for the treatment of previously untreated and/or relapsed/refractory CLL patients have also demonstrated high overall response rates with benefit in terms of PFS rates, albeit with modestly higher toxicity (expecially myelotoxicity), These studies support the use of MabThera with any chemotherapy.
 
-The ORR was 57 % (95 % Confidence interval (CI); 41 % – 73 %; CR 14 %, PR 43 %) with a projected median TTP for responding patients of 19.4 months (range 5.3 to 38.9 months).
-
-The primary endpoint of progression-free survival was 40 months in median in the R-FC group and 32 months in the FC group (p < 0.0001, log-rank test).
-
-| Efficacy Parameter | Kaplan-Meier Estimate of Median Time to Event (Months) |  |  | Risk Reduction |
-| --- | --- | --- | --- | --- |
-|  | FC (N = 407) | R-FC (N=403) | Log-Rank p value |  |
-| Progression-free survival (PFS) | 32.2 | 39.8 | <0.0001 | 44% |
-| Overall Survival | NR | NR | 0.0427 | 36% |
-| Event Free Survival | 31.1 | 39.8 | <0.0001 | 45% |
-| Response rate (CR, nPR, or PR) | 72.7% | 86.1% | <0.0001 | n.a. |
-| CR rates | 17.2% | 36.0% | <0.0001 | n.a. |
-| Duration of response* Disease free survival (DFS)** Time to new lymphoma treatment | 34.7 NR. NR. | 40.2 NR NR | 0.0040 0.7882 0.0052 | 39% 7% 35% |
+During this time 81 % of patients, from the original placebo group received rituximab between weeks 24 an 56, under an open label extension study protocol.

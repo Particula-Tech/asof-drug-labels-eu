@@ -9,7 +9,3 @@ Since the medicinal product does not contain any anti-microbial preservative or 
 Parenteral medicinal products should be inspected visually for particulate matter and discoloration prior to administration.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
-
-[MabThera 500 mg (10 mg/ml) concentrate for solution for infusion]
-
-Aseptically withdraw the necessary amount of MabThera, and dilute to a calculated concentration of 1 to 4 mg/ml rituximab into an infusion bag containing sterile, pyrogen-free sodium chloride 9 mg/ml (0.9%) solution for injection or 5 % D-Glucose in water.

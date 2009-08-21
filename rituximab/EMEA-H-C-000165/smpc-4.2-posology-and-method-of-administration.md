@@ -11,7 +11,6 @@ No dose reductions of MabThera are recommended.
 When MabThera is given in combination with chemotherapy, standard dose reductions for the chemotherapeutic medicinal products should be applied.
 
 Follicular non-Hodgkin's lymphoma
-
 Combination therapy
 The recommended dose of MabThera in combination with chemotherapy for induction treatment of previously untreated or relapsed/ refractory patients with follicular NHL is: 375 mg/m2 body surface area per cycle, for up to 8 cycles.
 Mabthera should be administered on day 1 of each chemotherapy cycle, after intravenous administration of the glucocorticoid component of the chemotherapy if applicable.
@@ -33,7 +32,8 @@ Chronic lymphocytic leukaemia
 
 Prophylaxis with adequate hydration and administration of uricostatics starting 48 hours prior to start of therapy is recommended for CLL patients to reduce the risk of tumour lysis syndrome.
 For CLL patients whose lymphocyte counts are > 25 x 109/L it is recommended to administer prednisone/prednisolone 100 mg intravenous shortly before infusion with MabThera to decrease the rate and severity of acute infusion reactions and/or cytokine release syndrome.
-The recommended dosage of MabThera in combination with chemotherapy is 375 mg/m2 body surface area administered on day 1 of the first treatment cycle followed by 500 mg/m2 body surface area administered on day 1 of each subsequent cycle for 6 cycles in total.
+
+The recommended dosage of MabThera in combination with chemotherapy for previously untreated and relapsed/refractory patients is 375 mg/m2 body surface area administered on day 0 of the first treatment cycle followed by 500 mg/m2 body surface area administered on day 1 of each subsequent cycle for 6 cycles in total.
 The chemotherapy should be given after MabThera infusion.
 
 Rheumatoid arthritis
@@ -72,9 +72,9 @@ Method of Administration
 Premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing chemotherapy for treatment of non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia.
 
 Premedication consisting of an anti-pyretic and an antihistaminic, e.g. paracetamol and diphenhydramine, should always be administered before each infusion of MabThera.
-
 First infusion
 The recommended initial rate for infusion is 50 mg/hr; after the first 30 minutes, it can be escalated in 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
+
 Subsequent infusions
 Subsequent doses of MabThera can be infused at an initial rate of 100 mg/hr, and increased by 100 mg/hr increments at 30 minutes intervals, to a maximum of 400 mg/hr.
 

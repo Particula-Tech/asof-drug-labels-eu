@@ -6,4 +6,4 @@ Packs of 2 vials.
 [MabThera 500 mg (10 mg/ml) concentrate for solution for infusion]
 
 Clear Type I glass vials with butyl rubber stopper containing 500 mg of rituximab in 50 ml.
-Packs of 1 vials.
+Pack of 1 vial.
