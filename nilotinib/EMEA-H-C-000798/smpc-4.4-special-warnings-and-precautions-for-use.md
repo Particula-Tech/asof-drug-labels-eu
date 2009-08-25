@@ -44,9 +44,6 @@ If transient interruption of treatment with Tasigna is not possible, close monit
 Concomitant use of Tasigna with medicinal products that are potent inducers of CYP3A4 (e.g. phenytoin, rifampicin, carbamazepine, phenobarbital and St. John’s Wort) is likely to reduce exposure to nilotinib to a clinically relevant extent.
 Therefore, in patients receiving Tasigna, coadministration of alternative therapeutic agents with less potential for CYP3A4 induction should be selected (see section 4.5).
 
-Suppression of gastric acid secretion might result in lower exposure to nilotinib.
-Therefore, concomitant use of antacids, H2 blockers, or proton pump inhibitors with Tasigna is not recommended (see section 4.5).
-
 Food effect
 The bioavailability of nilotinib is increased by food.
 Tasigna should not be taken in conjunction with food (see sections 4.2 and 4.5) and should be taken 2 hours after a meal.

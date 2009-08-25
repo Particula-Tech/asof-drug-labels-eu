@@ -11,14 +11,16 @@ The exposure to nilotinib in healthy subjects was increased 3-fold when co-admin
 Concomitant treatment with strong CYP3A4 inhibitors, including ketoconazole, itraconazole, voriconazole, ritonavir, clarithromycin, and telithromycin, should therefore be avoided (see sections 4.2 and 4.4).
 Increased exposure to nilotinib might also be expected with moderate CYP3A4 inhibitors.
 Alternative concomitant medications with no or minimal CYP3A4 inhibition should be considered.
+
 Substances that may decrease nilotinib serum concentrations
 Rifampicin, a potent CYP3A4 inducer, decreases nilotinib Cmax by 64% and reduces nilotinib AUC by 80%.
 Rifampicin and nilotinib should not be used concomitantly.
-
 The concomitant administration of other medicinal products that induce CYP3A4 (e.g. phenytoin, carbamazepine, phenobarbital and St. John’s Wort) is likewise likely to reduce exposure to nilotinib to a clinically relevant extent.
 In patients for whom CYP3A4 inducers are indicated, alternative agents with less enzyme induction potential should be selected.
-Nilotinib has pH dependent solubility, therefore, absorption of nilotinib might be reduced by substances that suppress gastric acid secretion.
-The concomitant use of antacids, H2 blockers, or proton pump inhibitors with Tasigna is not recommended.
+
+Nilotinib has pH dependent solubility, with lower solubility at higher pH.
+In healthy subjects receiving esomeprazole at 40 mg once daily for 5 days, gastric pH was markedly increased, but nilotinib absorption was only decreased modestly (27% decrease in Cmax and 34% decrease in AUC0-∞).
+Tasigna may be used concurrently with esomeprazole or other proton pump inhibitors as needed.
 
 Substances that may have their systemic concentration altered by nilotinib
 Nilotinib is a relatively strong inhibitor of CYP3A4, CYP2C8, CYP2C9, CYP2D6 and UGT1A1 in vitro, potentially increasing the concentrations of substances eliminated by these enzymes.

@@ -22,7 +22,6 @@ Efficacy was based on 320 CP patients and 119 AP patients enrolled.
 Median duration of treatment was 341 days for CP patients and 202 days for AP patients (see Table 5).
 Tasigna was administered on a continuous basis (twice daily 2 hours after a meal and with no food for at least one hour after administration) unless there was evidence of inadequate response or disease progression.
 Dose escalation to 600 mg twice daily was allowed.
-
 Table 5 Duration of exposure with Tasigna
 
 |  | Chronic phase n=320 | Accelerated phase n=119 |
@@ -63,8 +62,8 @@ The overall confirmed HR rate in 119 AP patients was 42%.
 Most responders achieved a HR early with Tasigna treatment (median 1.0 months) and these have been durable (median duration has not been reached).
 No patients have had a loss of CHR.
 The MCyR rate was 27% with a median time to response of 2.0 months.
-
 The rates of response for the two treatment arms are reported in Table 7.
+
 Table 7 Response in CML
 
 | (Best Response Rate) | Chronic Phase |  |  | Accelerated Phase |

@@ -64,7 +64,6 @@ Very common: lipase increased.
 Common: blood amylase increased, alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatinine phosphokinase increased, blood glucose increased, weight decreased, weight increased.
 Uncommon: blood lactate dehydrogenase increased, blood glucose decreased, blood creatinine increased, blood urea increased.
 Not known: troponin increased, blood potassium decreased, blood bilirubin unconjugated increased.
-
 Cardiac disorders:
 Common: palpitations, electrocardiogram QT prolonged.
 Uncommon: cardiac failure, angina pectoris, atrial fibrillation, pericardial effusion, coronary artery disease, cardiomegaly, cardiac murmur, bradycardia.
@@ -114,7 +113,6 @@ Not known: arthritis, joint swelling.
 Endocrine disorders:
 Uncommon: hyperthyroidism.
 Not known: hypothyroidism, thyroiditis.
-
 Metabolism and nutrition disorders:
 Common: hypomagnesaemia, hyperkalaemia, hyperglycaemia.
 Uncommon: hypokalaemia, hyponatraemia, hypocalcaemia, hypophosphataemia, dehydration, decreased appetite, increased appetite.
