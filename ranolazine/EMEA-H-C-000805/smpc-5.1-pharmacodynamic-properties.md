@@ -14,7 +14,6 @@ These effects do not depend upon changes in heart rate, blood pressure, or vasod
 Pharmacodynamic effects
 
 Haemodynamic effects: Minimal decreases in mean heart rate (< 2 beats per minute) and mean systolic blood pressure (< 3 mm Hg) were observed in patients treated with ranolazine either alone or in combination with other antianginal medicinal products in controlled studies.
-
 Electrocardiographic effects: Dose and plasma concentration-related increases in the QTc interval (about 6 msec at 1000 mg twice daily), reductions in T wave amplitude, and in some cases notched
 T waves, have been observed in patients treated with Ranexa.
 These effects of ranolazine on the surface electrocardiogram are believed to result from inhibition of the fast-rectifying potassium current, which prolongs the ventricular action potential, and from inhibition of the late sodium current, which shortens the ventricular action potential.
