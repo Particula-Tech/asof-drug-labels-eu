@@ -2,11 +2,13 @@
 
 Pharmacotherapeutic group: platelet aggregation inhibitors excl. heparin, ATC Code: B01AC-04.
 
-Clopidogrel selectively inhibits the binding of adenosine diphosphate (ADP) to its platelet receptor, and the subsequent ADP-mediated activation of the GPIIb/IIIa complex, thereby inhibiting platelet aggregation.
-Biotransformation of clopidogrel is necessary to produce inhibition of platelet aggregation.
-Clopidogrel also inhibits platelet aggregation induced by other agonists by blocking the amplification of platelet activation by released ADP.
-Clopidogrel acts by irreversibly modifying the platelet ADP receptor.
-Consequently, platelets exposed to clopidogrel are affected for the remainder of their lifespan and recovery of normal platelet function occurs at a rate consistent with platelet turnover.
+Clopidogrel is a prodrug, one of whose metabolites is an inhibitor of platelet aggregation.
+Clopidogrel must be metabolised by CYP450 enzymes to produce the active metabolite that inhibits platelet aggregation.
+The active metabolite of clopidogrel selectively inhibits the binding of adenosine diphosphate (ADP) to its platelet P2Y12 receptor and the subsequent ADP-mediated activation of the glycoprotein GPIIb/IIIa complex, thereby inhibiting platelet aggregation.
+Due to the irreversible binding, platelets exposed are affected for the remainder of their lifespan (approximately 7-10 days) and recovery of normal platelet function occurs at a rate consistent with platelet turnover.
+Platelet aggregation induced by agonists other than ADP is also inhibited by blocking the amplification of platelet activation by released ADP.
+
+Because the active metabolite is formed by CYP450 enzymes, some of which are polymorphic or subject to inhibition by other drugs, not all patients will have adequate platelet inhibition.
 
 Repeated doses of 75 mg per day produced substantial inhibition of ADP-induced platelet aggregation from the first day; this increased progressively and reached steady state between Day 3 and Day 7.
 At steady state, the average inhibition level observed with a dose of 75 mg per day was between 40% and 60%.
@@ -38,6 +40,7 @@ Patients were randomised to clopidogrel (300 mg loading dose followed by 75 mg/d
 Patients were treated for up to one year.
 In CURE, 823 (6.6%) patients received concomitant GPIIb/IIIa receptor antagonist therapy.
 Heparins were administered in more than 90% of the patients and the relative rate of bleeding between clopidogrel and placebo was not significantly affected by the concomitant heparin therapy.
+
 The number of patients experiencing the primary endpoint [cardiovascular (CV) death, myocardial infarction (MI), or stroke] was 582 (9.3%) in the clopidogrel-treated group and 719 (11.4%) in the placebo-treated group, a 20% relative risk reduction (95% CI of 10%-28%; p=0.00009) for the clopidogrel-treated group (17% relative risk reduction when patients were treated conservatively, 29% when they underwent percutaneous transluminal coronary angioplasty (PTCA) with or without stent and 10% when they underwent coronary artery bypass graft (CABG)).
 New cardiovascular events (primary endpoint) were prevented, with relative risk reductions of 22% (CI: 8.6, 33.4), 32% (CI: 12.8, 46.4), 4% (CI: -26.9, 26.7), 6% (CI: -33.5, 34.3) and 14% (CI: -31.6, 44.2), during the 0-1, 1-3, 3-6, 6-9 and 9-12 month study intervals, respectively.
 Thus, beyond 3 months of treatment, the benefit observed in the clopidogrel + ASA group was not further increased, whereas the risk of haemorrhage persisted (see section 4.4).
@@ -68,6 +71,7 @@ A total of 99.7% of patients received fibrinolytics (fibrin specific: 68.7%, non
 
 Fifteen percent (15.0%) of patients in the clopidogrel group and 21.7% in the placebo group reached the primary endpoint, representing an absolute reduction of 6.7% and a 36 % odds reduction in favor of clopidogrel (95% CI: 24, 47%; p < 0.001), mainly related to a reduction in occluded infarct-related arteries.
 This benefit was consistent across all prespecified subgroups including patients’ age and gender, infarct location, and type of fibrinolytic or heparin used.
+
 The 2x2 factorial design COMMIT trial included 45,852 patients presenting within 24 hours of the onset of the symptoms of suspected MI with supporting ECG abnormalities (i.e. ST elevation, ST depression or left bundle-branch block).
 Patients received clopidogrel (75 mg/day, n=22,961) or placebo (n=22,891), in combination with ASA (162 mg/day), for 28 days or until hospital discharge.
 The co-primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death.

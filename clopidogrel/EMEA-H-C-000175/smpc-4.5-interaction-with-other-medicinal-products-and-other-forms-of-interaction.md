@@ -17,12 +17,22 @@ Therefore, concomitant use should be undertaken with caution (see section 4.4).
 
 Thrombolytics: the safety of the concomitant administration of clopidogrel, fibrin or non-fibrin specific thrombolytic agents and heparins was assessed in patients with acute myocardial infarction.
 The incidence of clinically significant bleeding was similar to that observed when thrombolytic agents and heparin are co-administered with ASA (see section 4.8)
-
-Non-Steroidal Anti-Inflammatory Drugs (NSAIDs): in a clinical study conducted in healthy volunteers, the concomitant administration of clopidogrel and naproxen increased occult gastrointestinal blood loss.
+NSAIDs: in a clinical study conducted in healthy volunteers, the concomitant administration of clopidogrel and naproxen increased occult gastrointestinal blood loss.
 However, due to the lack of interaction studies with other NSAIDs it is presently unclear whether there is an increased risk of gastrointestinal bleeding with all NSAIDs.
 Consequently, NSAIDs including Cox-2 inhibitors and clopidogrel should be co-administered with caution (see section 4.4).
 
-Other concomitant therapy: a number of other clinical studies have been conducted with clopidogrel and other concomitant medicinal products to investigate the potential for pharmacodynamic and pharmacokinetic interactions.
+Other concomitant therapy:
+Since clopidogrel is metabolised to its active metabolite partly by CYP2C19, use of drugs that inhibit the activity of this enzyme would be expected to result in reduced drug levels of the active metabolite of clopidogrel and a reduction in clinical efficacy.
+Concomitant use of drugs that inhibit CYP2C19 should be discouraged (see sections 4.4 and 5.2).
+
+Drugs that inhibit CYP2C19 include omeprazole and esomeprazole, fluvoxamine, fluoxetine, moclobemide, voriconazole, fluconazole, ticlopidine, ciprofloxacin, cimetidine, carbamazepine, oxcarbazepine and chloramphenicol.
+
+Proton Pump Inhibitors:
+Although the evidence of CYP2C19 inhibition varies within the class of Proton Pump Inhibitors, clinical studies suggest an interaction between clopidogrel and possibly all members of this class.
+Therefore, concomitant use of Proton Pump Inhibitors should be avoided unless absolutely necessary.
+There is no evidence that other drugs that reduce stomach acid such as H2 blockers or antacids interfere with antiplatelet activity of clopidogrel.
+
+A number of other clinical studies have been conducted with clopidogrel and other concomitant medicinal products to investigate the potential for pharmacodynamic and pharmacokinetic interactions.
 No clinically significant pharmacodynamic interactions were observed when clopidogrel was co-administered with atenolol, nifedipine, or both atenolol and nifedipine.
 Furthermore, the pharmacodynamic activity of clopidogrel was not significantly influenced by the co-administration of phenobarbital, cimetidine, or oestrogen.
 
@@ -37,5 +47,7 @@ Apart from the specific medicinal product interaction information described abov
 However, patients entered into clinical trials with clopidogrel received a variety of concomitant medicinal products including diuretics, beta blockers, ACEI, calcium antagonists, cholesterol lowering agents, coronary vasodilators, antidiabetic agents (including insulin), antiepileptic agents, and GPIIb/IIIa antagonists without evidence of clinically significant adverse interactions.
 
 [Iscover 300 mg film-coated tablets]
+
+Furthermore, the pharmacodynamic activity of clopidogrel was not significantly influenced by the co-administration of phenobarbital, cimetidine or oestrogen.
 
 However, patients entered into clinical trials with clopidogrel received a variety of concomitant medicinal products including diuretics, beta blockers, ACEI, calcium antagonists, cholesterol lowering agents, coronary vasodilators, antidiabetic agents (including insulin), antiepileptic agents and GPIIb/IIIa antagonists without evidence of clinically significant adverse interactions.

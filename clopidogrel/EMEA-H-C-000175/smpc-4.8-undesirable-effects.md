@@ -25,6 +25,9 @@ Adverse reactions that occurred either during clinical studies or that were spon
 Their frequency is defined using the following conventions: common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
 Within each system organ class, adverse drug reactions are presented in order of decreasing seriousness.
 
+System Organ Common Uncommon Rare Very rare
+Class
+
 | System Organ Class | Common | Uncommon | Rare | Very rare |
 | --- | --- | --- | --- | --- |
 | Blood and the lymphatic system disorders |  | Thrombocytopenia, leucopenia, eosinophilia | Neutropenia, including severe neutropenia | Thrombotic thrombocytopenic purpura (TTP) (see section 4.4), aplastic anaemia, pancytopenia, agranulocytosis, severe thrombocytopenia, granulocytopenia, anaemia |

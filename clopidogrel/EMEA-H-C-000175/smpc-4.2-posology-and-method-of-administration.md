@@ -14,6 +14,11 @@ Clinical trial data support use up to 12 months, and the maximum benefit was see
   For patients over 75 years of age clopidogrel should be initiated without a loading dose.
   Combined therapy should be started as early as possible after symptoms start and continued for at least four weeks.
   The benefit of the combination of clopidogrel with ASA beyond four weeks has not been studied in this setting (see section 5.1).
+- Pharmacogenetics
+
+CYP2C19 poor metaboliser status is associated with diminished response to clopidogrel.
+The optimal dose regimen for poor metabolisers has yet to be determined (see section 5.2).
+
 - Paediatric patients
 
 The safety and efficacy of clopidogrel in children and adolescents have not yet been established.

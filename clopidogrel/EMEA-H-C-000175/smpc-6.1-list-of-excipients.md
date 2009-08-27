@@ -13,4 +13,6 @@ Lactose
 Triacetin (E1518)
 Titanium dioxide (E171)
 Red iron oxide (E172)
+
+Polishing agent:
 Carnauba wax
