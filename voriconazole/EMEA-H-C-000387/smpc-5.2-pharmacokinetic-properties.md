@@ -38,7 +38,6 @@ This metabolite has minimal antifungal activity and does not contribute to the o
 
 Excretion
 Voriconazole is eliminated via hepatic metabolism with less than 2 % of the dose excreted unchanged in the urine.
-
 After administration of a radiolabelled dose of voriconazole, approximately 80 % of the radioactivity is recovered in the urine after multiple intravenous dosing and 83 % in the urine after multiple oral dosing.
 The majority (> 94 %) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
 

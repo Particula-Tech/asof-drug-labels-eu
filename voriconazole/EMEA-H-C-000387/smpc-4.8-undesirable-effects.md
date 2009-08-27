@@ -111,7 +111,7 @@ This includes cases of jaundice, and rare cases of hepatitis and hepatic failure
 
 Paediatric Use
 The safety of voriconazole was investigated in 245 paediatric patients aged 2 to <12 years who were treated with voriconazole in pharmacokinetic studies (87 paediatric patients) and in compassionate use programs (158 paediatric patients).
-The adverse event profile of these 245 paediatric patients was similar to that in adults.
+The adverse event profile of these 245 paediatric patients was similar to that in adults, although post-marketing data suggest there might be a higher occurrence of skin reactions (esp. erythema) in the paediatric population compared to adults.
 In the 22 patients less than 2 years old who received voriconazole in a compassionate use programme, the following adverse events (for which a relationship to voriconazole could not be excluded) were reported: photosensitivity reaction (1), arrhythmia (1), pancreatitis (1), blood bilirubin increased (1), hepatic enzymes increased (1), rash (1) and papilloedema (1).
 There have been post-marketing reports of pancreatitis in paediatric patients.
 
