@@ -7,10 +7,6 @@ After proper training in injection technique, patients may self-inject with Humi
 
 During treatment with Humira, other concomitant therapies (e.g., corticosteroids and/or immunomodulatory agents) should be optimised.
 
-Dose Interruption
-
-Available data suggest that re-introduction of Humira after discontinuation for 70 days or longer resulted in the same magnitudes of clinical response and similar safety profile as before dose interruption.
-
 Adults
 
 Rheumatoid arthritis
@@ -22,6 +18,12 @@ Glucocorticoids, salicylates, nonsteroidal anti-inflammatory drugs, or analgesic
 Regarding combination with disease modifying anti-rheumatic drugs other than methotrexate see sections 4.4 and 5.1.
 
 In monotherapy, some patients who experience a decrease in their response may benefit from an increase in dose intensity to 40 mg adalimumab every week.
+
+Dose Interruption
+
+There may be a need for dose interruption, for instance before surgery or if a serious infection occurs.
+Available data suggest that re-introduction of Humira after discontinuation for 70 days or longer resulted in the same magnitudes of clinical response and similar safety profile as before dose interruption.
+
 Psoriatic arthritis and ankylosing spondylitis
 
 The recommended dose of Humira for patients with psoriatic arthritis or ankylosing spondylitis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
@@ -54,7 +56,6 @@ Continued therapy beyond 16 weeks should be carefully reconsidered in a patient 
 Elderly patients
 
 No dose adjustment is required.
-
 Children and adolescents (aged 13 to 17 years)
 
 Polyarticular Juvenile Idiopathic Arthritis
@@ -63,6 +64,7 @@ The recommended dose of Humira for patients with polyarticular juvenile idiopath
 
 Available data suggest that clinical response is usually achieved within 12 weeks of treatment.
 Continued therapy should be carefully reconsidered in a patient not responding within this time period.
+
 Impaired renal and/or hepatic function
 
 Humira has not been studied in these patient populations.

@@ -9,14 +9,13 @@ Because the elimination of adalimumab may take up to five months, monitoring sho
 Treatment with Humira should not be initiated in patients with active infections including chronic or localized infections until infections are controlled.
 In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Opportunistic infections).
 
-Patients who develop a new infection while undergoing treatment with Humira should be monitored closely and undergo a complete diagnostic evaluation.
+Patients who develop a new infection while undergoing treatment with Humira, should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 Physicians should exercise caution when considering the use of Humira in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medications.
 
 Serious infections:
 
-Serious infections, , including sepsis, due to bacterial, mycobacterial, invasive fungal viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
-
+Serious infections, , including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
 Other serious infections seen in clinical trials include pneumonia, pyelonephritis, septic arthritis and septicaemia.
 Hospitalisation or fatal outcomes associated with infections have been reported.
 
@@ -25,7 +24,7 @@ Tuberculosis:
 There have been reports of tuberculosis in patients receiving Humira.
 It should be noted that in the majority of those reports, tuberculosis was extra-pulmonary, i.e. disseminated.
 
-Before initiation of therapy with Humira, all patients must be evaluated for both active or inactive (latent) tuberculosis infection.
+Before initiation of therapy with Humira, all patients must be evaluated for both, active or inactive (latent) tuberculosis infection.
 This evaluation should include a detailed medical history of patients with a personal history of tuberculosis or possible previous exposure to patients with active tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests, i.e. tuberculin skin test and chest X-ray, should be performed in all patients (local recommendations may apply).
 It is recommended that the conduct of these tests should be recorded in the patient alert card.
@@ -33,7 +32,7 @@ Prescribers are reminded of the risk of false negative tuberculin skin test resu
 
 If active tuberculosis is diagnosed, Humira therapy must not be initiated (see section 4.3).
 
-If latent tuberculosis issuspected, a physician with expertise in the treatment of tuberculosis should be consulted.
+If latent tuberculos is issuspected, a physician with expertise in the treatment of tuberculosis should be consulted.
 In all situations described below, the benefit/risk balance of therapy should be very carefully considered.
 
 If inactive (‘latent’) tuberculosis is diagnosed, appropriate treatment for latent tuberculosis must be started with anti-tuberculosis prophylaxis therapy before the initiation of Humira, and in accordance with local recommendations.
@@ -65,6 +64,7 @@ Neurological events
 
 TNF-antagonists including Humira have been associated in rare instances with new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disease including multiple sclerosis.
 Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central nervous system demyelinating disorders.
+
 Allergic reactions
 
 Serious allergic adverse reactions have not been reported with subcutaneous administration of Humira during clinical trials.
@@ -136,12 +136,11 @@ Serious infections were seen in clinical studies with concurrent use of anakinra
 Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNF-antagonists.
 Therefore, the combination of adalimumab and anakinra is not recommended.
 (See section 4.5).
-
 Concurrent administration of TNF-antagonists and abatacept
 
 Concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Humira and abatacept is not recommended.
-(See Section 4.5).
+(See section 4.5).
 
 Surgery
 
@@ -149,6 +148,7 @@ There is limited safety experience of surgical procedures in patients treated wi
 The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Humira should be closely monitored for infections, and appropriate actions should be taken.
 There is limited safety experience in patients undergoing arthroplasty while receiving Humira.
+
 Small bowel obstruction
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
@@ -156,15 +156,16 @@ Available data suggest that Humira does not worsen or cause strictures.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
+Patients who develop a new infection while undergoing treatment with Humira should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infectionis controlled.
+
+If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
 In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidiomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Opportunistic infections).
 
-Serious infections including sepsis, due to bacterial, mycobacterial, invasive fungal viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
-
-If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
+Serious infections including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
 
 These infections have not consistently been recognised in patients taking TNF-blockers and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 
@@ -174,7 +175,7 @@ Rare reports of pancytopenia including aplastic anaemia have been reported with 
 
 In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidiodomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Opportunistic infections).
 
-Serious infections, including sepsis, due to bacterial, mycobacterial, invasive fungal viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
+Serious infections, including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
 
 These infections have not consistently been recognised in patient taking TNF-blockers and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 

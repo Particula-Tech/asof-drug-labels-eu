@@ -2,7 +2,6 @@
 
 Pharmacotherapeutic group: Selective immunosuppressive agents.
 ATC code: L04AB04
-
 Mechanism of action
 
 Adalimumab binds specifically to TNF and neutralizes the biological function of TNF by blocking its interaction with the p55 and p75 cell surface TNF receptors.
@@ -11,7 +10,7 @@ Adalimumab also modulates biological responses that are induced or regulated by 
 
 Pharmacodynamic effects
 
-After treatment with Humira, a rapid decrease in levels of acute phase reactants of inflammation (C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR)) and serum cytokines (IL-6) was observed compared to baseline in patients with rheumatoid arthritis.
+After treatment with Humira, a rapid decrease in levels of acute phase reactants of inflammation (C-reactive protein (CRP) and erythrocyte sedimentation rate (ESR)) and serum cytokines (IL-6) was observed, compared to baseline in patients with rheumatoid arthritis.
 Serum levels of matrix metalloproteinases (MMP-1 and MMP-3) that produce tissue remodelling responsible for cartilage destruction were also decreased after Humira administration.
 Patients treated with Humira usually experienced improvement in haematological signs of chronic inflammation.
 
@@ -34,6 +33,7 @@ RA study II evaluated 544 patients with moderately to severely active rheumatoid
 ≥ 18 years old and had failed therapy with at least one disease-modifying, anti-rheumatic drugs.
 Doses of 20 or 40 mg of Humira were given by subcutaneous injection every other week with placebo on alternative weeks or every week for 26 weeks; placebo was given every week for the same duration.
 No other disease-modifying anti-rheumatic drugs were allowed.
+
 RA study III evaluated 619 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old, and who had an ineffective response to methotrexate at doses of 12.5 to 25 mg, or have been intolerant to 10 mg of methotrexate every week.
 There were three groups in this study.
 The first received placebo injections every week for 52 weeks.
@@ -45,7 +45,6 @@ RA study IV primarily assessed safety in 636 patients with moderately to severel
 Patients were permitted to be either disease-modifying, anti-rheumatic drug-naïve or to remain on their pre-existing rheumatologic therapy provided that therapy was stable for a minimum of 28 days.
 These therapies include methotrexate, leflunomide, hydroxychloroquine, sulfasalazine and/or gold salts.
 Patients were randomised to 40 mg of Humira or placebo every other week for 24 weeks.
-
 RA study V evaluated 799 methotrexate-naïve, adult patients with moderate to severely active early rheumatoid arthritis (mean disease duration less than 9 months).
 This study evaluated the efficacy of Humira 40 mg every other week/methotrexate combination therapy, Humira 40 mg every other week monotherapy and methotrexate monotherapy in reducing the signs and symptoms and rate of progression of joint damage in rheumatoid arthritis for 104 weeks.
 
@@ -81,7 +80,6 @@ Among those, 86, 72, and 41 patients had ACR 20/50/70 response, respectively at 
 In RA study IV, the ACR 20 response of patients treated with Humira plus standard of care was statistically significantly better than patients treated with placebo plus standard of care (p < 0.001).
 
 In RA studies I-IV, Humira-treated patients achieved statistically significant ACR 20 and 50 responses compared to placebo as early as one to two weeks after initiation of treatment.
-
 In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at Week 52 and responses were sustained at Week 104 (see Table 4).
 
 Table 4 ACR Responses in RA Study V
@@ -229,9 +227,9 @@ Humira 40 mg every other week was assessed in 393 patients in two randomised, 24
 Seventy-nine (20.1%) patients were treated concomitantly with disease modifying anti-rheumatic drugs, and 37 (9.4%) patients with glucocorticoids.
 The blinded period was followed by an open − label period during which patients received Humira 40 mg every other week subcutaneously for up to an additional 28 weeks.
 Subjects (n = 215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20 received early escape open-label adalimumab 40 mg every other week subcutaneously and were subsequently treated as non-responders in the double-blind statistical analyses.
+
 In the larger AS study I with 315 patients, results showed statistically significant improvement of the signs and symptoms of ankylosing spondylitis in patients treated with Humira compared to placebo.
 Significant response was first observed at Week 2 and maintained through 24 weeks (Table 10).
-
 Table 10–Efficacy Responses in Placebo-Controlled AS Study – Study I
 Reduction of Signs and Symptoms
 
