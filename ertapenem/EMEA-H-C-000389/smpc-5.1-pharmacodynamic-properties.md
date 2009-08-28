@@ -39,6 +39,7 @@ The EUCAST MIC breakpoints are as follows:
 (NB: Susceptibility of staphylococci to ertapenem is inferred from the methicillin susceptibility)
 
 The prescribers are informed that local MIC breakpoints, if available, should be consulted.
+
 Microbiological Susceptibility
 
 The prevalence of acquired resistance may vary geographically and with time for selected species and local information on resistance is desirable, particularly when treating severe infections.
@@ -87,7 +88,6 @@ Pseudomonas aeruginosa
 Stenotrophomonas maltophilia
 Anaerobes:
 Lactobacillus species
-Commonly susceptible species:
 Others:
 Chlamydia species
 Mycoplasma species
@@ -116,4 +116,7 @@ The proportion of patients with a favorable clinical response assessment at post
 | Intraabdominal Infections (IAI) | 2 to 12 years | 28/34 | 82.4 | 7/9 | 77.8 |
 |  | 13 to 17 years | 15/16 | 93.8 | 4/6 | 66.7 |
 | Acute Pelvic Infections (API) | 13 to 17 years | 25/25 | 100.0 | 8/8 | 100.0 |
-| † . This includes 9 patients in the ertapenem group (7 CAP and 2 IAI), 2 patients in the ceftriaxone group (2 CAP), and 1 patient with IAI in the ticarcillin/clavulanate group with secondary bacteremia at entry into the study. |  |  |  |  |  |
+
+† .
+This includes 9 patients in the ertapenem group (7 CAP and 2 IAI), 2 patients in the ceftriaxone group
+(2 CAP), and 1 patient with IAI in the ticarcillin/clavulanate group with secondary bacteremia at entry into the study.
