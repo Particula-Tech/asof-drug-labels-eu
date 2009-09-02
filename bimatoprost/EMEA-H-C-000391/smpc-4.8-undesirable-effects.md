@@ -7,30 +7,20 @@ Less than 9% of patients discontinued due to any adverse event in the first year
 The following undesirable effects definitely, probably or possibly related to treatment were reported during clinical trials with LUMIGAN.
 Most were ocular, mild to moderate, and none was serious:
 
-With each frequency grouping, undesirable effects are presented in order of decreasing seriousness
+Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000) and not known (cannot be estimated from available data) undesirable effects are presented according to System Organ Class in Table 1.
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Infections and infestations
-Uncommon (≥1/1000 to <1/100): infection (primarily colds and upper respiratory tract infections)
-
-Nervous system disorders
-Common (≥1/100 to <1/10): headache
-Uncommon (≥1/1000 to <1/100): dizziness
-
-Eye disorders
-Very common (≥1/10): conjunctival hyperaemia, growth of eyelashes, ocular pruritus
-
-Common (≥1/100 to <1/10): allergic conjunctivitis, asthenopia, blepharitis, cataract, conjunctival oedema, corneal erosion, eye discharge, eyelash darkening, eye pain, foreign body sensation, increased iris pigmentation, ocular burning, ocular dryness, ocular irritation, photophobia, superficial punctate keratitis, tearing, visual disturbance and worsening of visual acuity
-
-Uncommon (≥1/1000 to <1/100): blepharospasm, cystoid macular oedema, eyelid retraction, iritis, retinal haemorrhage, uveitis.
-
-Vascular disorders
-Common (≥1/100 to <1/10): hypertension
-
-Skin and subcutaneous tissue disorders
-Common (≥1/100 to <1/10): eyelid erythema, eyelid pruritus, pigmentation of periocular skin Uncommon (≥1/1000 to <1/100): eyelid oedema, hirsutism.
-
-General disorders and administration site conditions
-Uncommon (≥1/1000 to <1/100): asthenia, peripheral oedema
-
-Investigations
-Common (≥1/100 to < 1/10): liver function test abnormal
+| System Organ class | Frequency | Undesirable effect |
+| --- | --- | --- |
+| Nervous system disorders | common | headache |
+|  | uncommon | dizziness |
+| Eye disorders | very common | conjunctival hyperaemia, ocular pruritus, growth of eyelashes |
+|  | common | superficial punctate keratitis, corneal erosion, ocular burning, ocular irritation, allergic conjunctivitis, blepharitis, worsening of visual acuity, asthenopia, conjunctival oedema, foreign body sensation, ocular dryness, eye pain, photophobia, tearing, eye discharge, visual disturbance, increased iris pigmentation, eyelash darkening. |
+|  | uncommon | retinal haemorrhage, uveitis, cystoid macular oedema, iritis, blepharospasm, eyelid retraction |
+|  | not known | enophthalmos |
+| Vascular disorders | common | hypertension |
+| Gastrointestinal disorders | uncommon | nausea |
+| Skin and subcutaneous tissue disorders | common | eyelid erythema, eyelid pruritus, pigmentation of periocular skin |
+|  | uncommon | eyelid oedema, hirsutism. |
+| General disorders and administration site conditions | uncommon | asthenia |
+| Investigations | common | liver function test abnormal |
