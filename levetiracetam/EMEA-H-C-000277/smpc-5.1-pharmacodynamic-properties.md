@@ -22,15 +22,25 @@ In man, an activity in both partial and generalised epilepsy conditions (epilept
 
 Clinical experience
 
-Adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults and children from 4 years of age with epilepsy:
+Adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults, adolescents, children and infants from 1 month of age with epilepsy:
 
 In adults, levetiracetam efficacy has been demonstrated in 3 double-blind, placebo-controlled studies at 1000 mg, 2000 mg, or 3000 mg/day, given in 2 divided doses, with a treatment duration of up to 18 weeks.
 In a pooled analysis, the percentage of patients who achieved 50% or greater reduction from baseline in the partial onset seizure frequency per week at stable dose (12/14 weeks) was of 27.7%, 31.6% and 41.3% for patients on 1000, 2000 or 3000 mg levetiracetam respectively and of 12.6% for patients on placebo.
 
-In pediatric patients (4 to 16 years of age), levetiracetam efficacy was established in a double-blind, placebo-controlled study, which included 198 patients and had a treatment duration of 14 weeks.
+In paediatric patients (4 to 16 years of age), levetiracetam efficacy was established in a double-blind, placebo-controlled study, which included 198 patients and had a treatment duration of 14 weeks.
 In this study, the patients received levetiracetam as a fixed dose of 60 mg/kg/day (with twice a day dosing).
 44.6% of the levetiracetam treated patients and 19.6% of the patients on placebo had a 50% or greater reduction from baseline in the partial onset seizure frequency per week.
 With continued long-term treatment, 11.4% of the patients were seizure-free for at least 6 months and 7.2% were seizure-free for at least 1 year.
+
+In paediatric patients (1 month to less than 4 years of age), levetiracetam efficacy was established in a double-blind, placebo-controlled study, which included 116 patients and had a treatment duration of 5 days.
+In this study, patients were prescribed 20 mg/kg, 25 mg/kg, 40 mg/kg or 50 mg/kg daily dose of oral solution based on their age titration schedule.
+A dose of 20 mg/kg/day titrating to 40 mg/kg/day for infants one month to less than six month and a dose of 25 mg/kg/day titrating to 50 mg/kg/day for infants and children 6 month to less than 4 years old, was use in this study.
+The total daily dose was administered b.i.d.
+The primary measure of effectiveness was the responder rate (percent of patients with ≥ 50% reduction from baseline in average daily partial onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG.
+The efficacy analysis consisted of 109 patients who had at least 24 hours of video EEG in both baseline and evaluation periods.
+43.6% of the levetiracetam treated patients and 19.6% of the patients on placebo were considered as responders.
+The results are consistent across age group.
+With continued long-term treatment, 8.6% of the patients were seizure-free for at least 6 months and 7.8% were seizure-free for at least 1 year.
 
 Monotherapy in the treatment of partial onset seizures with or without secondary generalisation in patients from 16 years of age with newly diagnosed epilepsy.
 
@@ -39,7 +49,6 @@ The patients had to present with unprovoked partial seizures or with generalized
 The patients were randomized to carbamazepine CR 400 – 1200 mg/day or levetiracetam 1000 - 3000 mg/day, the duration of the treatment was up to 121 weeks depending on the response.
 Six-month seizure freedom was achieved in 73.0% of levetiracetam-treated patients and 72.8% of carbamazepine-CR treated patients; the adjusted absolute difference between treatments was 0.2% (95% CI: -7.8 8.2).
 More than half of the subjects remained seizure free for 12 months (56.6% and 58.5% of subjects on levetiracetam and on carbamazepine CR respectively).
-
 In a study reflecting clinical practice, the concomitant antiepileptic medication could be withdrawn in a limited number of patients who responded to levetiracetam adjunctive therapy (36 adult patients out of 69).
 
 Adjunctive therapy in the treatment of myoclonic seizures in adults and adolescents from 12 years of age with Juvenile Myoclonic Epilepsy.
@@ -59,6 +68,8 @@ With continued long-term treatment, 47.4% of the patients were free of tonic-clo
 
 [Keppra 500 mg film-coated tablets.]
 
+Adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults ,adolescents, children and infants from 1 month of age with epilepsy:
+
 Levetiracetam efficacy was established in a 24-week double-blind, placebo-controlled study, which included adults, adolescents and a limited number of children suffering from idiopathic generalized epilepsy with primary generalized tonic-clonic (PGTC) seizures in different syndromes (juvenile myoclonic epilepsy, juvenile absence epilepsy, childhood absence epilepsy, or epilepsy with Grand Mal seizures on awakening).
 
 [Keppra 750 mg film-coated tablets.]
@@ -77,3 +88,5 @@ Levetiracetam efficacy was established in a 24-week double-blind, placebo-contro
 
 In addition, it partially reverses the reductions in GABA- and glycine-gated currents induced by zinc and β-carbolines.
 Levetiracetam and related analogues show a rank order of affinity for binding to the synaptic vesicle protein 2A which correlates with the potency of their anti-seizure protection in the mouse audiogenic model of epilepsy.
+
+Adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults, adolescents and children from 4 years of age with epilepsy:

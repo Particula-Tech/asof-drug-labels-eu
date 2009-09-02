@@ -26,9 +26,11 @@ See Table 1 for the recommended preparation and administration of Keppra concent
 Table 1.
 Preparation and administration of Keppra concentrate
 
-| Dose | Withdrawal Volume | Volume of Diluent | Infusion Time | Frequency of administration | Total Daily Dose |
-| --- | --- | --- | --- | --- | --- |
+Dose Withdrawal Volume Volume of Infusion Frequency of Total Daily
+Diluent Time administration Dose
+
 | 250 mg | 2.5 ml (half 5 ml vial) | 100 ml | 15 minutes | Twice daily | 500 mg/day |
+| --- | --- | --- | --- | --- | --- |
 | 500 mg | 5 ml (one 5 ml vial) | 100 ml | 15 minutes | Twice daily | 1000 mg/day |
 | 1000 mg | 10 ml (two 5 ml vials) | 100 ml | 15 minutes | Twice daily | 2000 mg/day |
 | 1500 mg | 15 ml (three 5 ml vials) | 100 ml | 15 minutes | Twice daily | 3000 mg/day |

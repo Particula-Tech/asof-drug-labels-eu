@@ -17,7 +17,7 @@
 [Keppra 100 mg/ml oral solution.]
 
 Finished product: 2 years.
-After first opening: 2 months
+After first opening: 4 months
 
 [Keppra 100 mg/ml concentrate for solution for infusion.]
 

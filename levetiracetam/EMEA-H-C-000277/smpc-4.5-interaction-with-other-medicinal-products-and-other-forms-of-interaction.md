@@ -4,7 +4,7 @@ Pre-marketing data from clinical studies conducted in adults indicate that Keppr
 
 As in adults, there is no evidence of clinically significant medicinal product interactions in paediatric patients receiving up to 60 mg/kg/day levetiracetam.
 A retrospective assessment of pharmacokinetic interactions in children and adolescents with epilepsy (4 to 17 years) confirmed that adjunctive therapy with orally administered levetiracetam did not influence the steady-state serum concentrations of concomitantly administered carbamazepine and valproate.
-However, data suggested a 22% higher levetiracetam clearance in children taking enzyme-inducing antiepileptic medicinal products.
+However, data suggested a 20% higher levetiracetam clearance in children taking enzyme-inducing antiepileptic medicinal products.
 Dosage adjustment is not required.
 
 Probenecid (500 mg four times daily), a renal tubular secretion blocking agent, has been shown to inhibit the renal clearance of the primary metabolite but not of levetiracetam.

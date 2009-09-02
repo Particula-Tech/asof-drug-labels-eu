@@ -19,7 +19,7 @@ Each film-coated tablet contains 1,000 mg levetiracetam.
 [Keppra 100 mg/ml oral solution.]
 
 Each ml contains 100 mg levetiracetam
-Excipients: methyl parahydroxybenzoate (E218), propyl parahydroxybenzoate (E216) and 300 mg maltitol.
+Excipients: methyl parahydroxybenzoate (E218), propyl parahydroxybenzoate (E216) and 300 mg maltitol liquid.
 
 [Keppra 100 mg/ml concentrate for solution for infusion.]
 

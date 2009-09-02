@@ -37,7 +37,7 @@ Methyl parahydroxybenzoate (E218)
 Propyl parahydroxybenzoate (E216)
 Ammonium glycyrrhizate
 Glycerol (E422)
-Maltitol (E965)
+Maltitol liquid (E965)
 Acesulfame potassium (E950)
 Grape flavour
 Purified water

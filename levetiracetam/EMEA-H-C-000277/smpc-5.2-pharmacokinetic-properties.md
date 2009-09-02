@@ -50,6 +50,7 @@ The in vitro data and in vivo interaction data on oral contraceptives, digoxin a
 Therefore, the interaction of Keppra with other substances, or vice versa, is unlikely.
 
 Elimination
+
 The plasma half-life in adults was 7±1 hours and did not vary either with dose, route of administration or repeated administration.
 The mean total body clearance was 0.96 ml/min/kg.
 
@@ -65,7 +66,6 @@ In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
 This is related to the decrease in renal function in this population (see section 4.2).
 
 Children (4 to 12 years)
-
 Following single oral dose administration (20 mg/kg) to epileptic children (6 to 12 years), the half-life of levetiracetam was 6.0 hours.
 The apparent body weight adjusted clearance was approximately 30 % higher than in epileptic adults.
 
@@ -80,6 +80,12 @@ Infants and children (1 month to 4 years)
 Following single dose administration (20 mg/kg) of a 100 mg/ml oral solution to epileptic children
 (1 month to 4 years), levetiracetam was rapidly absorbed and peak plasma concentrations were observed approximately 1 hour after dosing.
 The pharmacokinetic results indicated that half-life was shorter (5.3 h) than for adults (7.2 h) and apparent clearance was faster (1.5 ml/min/kg) than for adults (0.96 ml/min/kg).
+
+In the population pharmacokinetic analysis conducted in patients from 1 month to 16 years of age, body weight was significantly correlated to apparent clearance (clearance increased with an increase in body weight) and apparent volume of distribution.
+Age also had an influence on both parameters.
+This effect was pronounced for the younger infants, and subsided as age increased, to become negligible around 4 years of age.
+
+In both population pharmacokinetic analyses, there was about a 20% increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED.
 
 Renal impairment
 
