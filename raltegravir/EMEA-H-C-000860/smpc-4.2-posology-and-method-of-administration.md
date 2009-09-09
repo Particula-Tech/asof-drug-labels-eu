@@ -2,6 +2,7 @@
 
 Therapy should be initiated by a physician experienced in the management of HIV infection.
 ISENTRESS should be used in combination with other active anti-retroviral therapies (ARTs) (see sections 4.4 and 5.1).
+The use of raltegravir in previously ART-naïve patients is based on a study in which it was co-administered with two NRTIs (see sections 4.4 and 5.1).
 
 Posology
 Adults
