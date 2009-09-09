@@ -24,7 +24,6 @@ Peak plasma concentrations of oseltamivir carboxylate decline with a half-life o
 The active metabolite is eliminated entirely by renal excretion.
 Renal clearance (18.8 l/h) exceeds glomerular filtration rate (7.5 l/h) indicating that tubular secretion occurs in addition to glomerular filtration.
 Less than 20 % of an oral radiolabelled dose is eliminated in faeces.
-
 Renal impairment
 Administration of 100 mg oseltamivir phosphate twice daily for 5 days to patients with various degrees of renal impairment showed that exposure to oseltamivir carboxylate is inversely proportional to declining renal function.
 For dosing, see section 4.2.
@@ -36,9 +35,24 @@ Elderly
 Exposure to the active metabolite at steady state was 25 to 35 % higher in elderly (age 65 to 78 years) compared to adults less than 65 years of age given comparable doses of oseltamivir.
 Half-lives observed in the elderly were similar to those seen in young adults.
 On the basis of drug exposure and tolerability, dosage adjustments are not required for elderly patients unless there is evidence of severe renal impairment (creatinine clearance below 30 ml/min) (see section 4.2).
+
 Children
-The pharmacokinetics of oseltamivir have been evaluated in single-dose pharmacokinetic studies in children aged 1 to 16 years.
+Children 1 year of age and older: The pharmacokinetics of oseltamivir have been evaluated in single-dose pharmacokinetic studies in children aged 1 to 16 years.
 Multiple-dose pharmacokinetics were studied in a small number of children enrolled in a clinical efficacy study.
 Younger children cleared both the pro-drug and its active metabolite faster than adults, resulting in a lower exposure for a given mg/kg dose.
 Doses of 2 mg/kg give oseltamivir carboxylate exposures comparable to those achieved in adults receiving a single 75 mg dose (approximately 1 mg/kg).
 The pharmacokinetics of oseltamivir in children over 12 years of age are similar to those in adults.
+
+Children 6 to 12 months of age: Limited exposure data from children 6 to 12 months of age from a pharmacodynamic, pharmacokinetic and safety study in influenza-infected children less than 2 years of age, suggest that for most children 6 to 12 months of age, the exposure following 3 mg/kg dosing is similar to the exposures seen in older children and adults using the approved dose.
+
+[Tamiflu 45 mg hard capsule.]
+
+Children one year of age and older: The pharmacokinetics of oseltamivir have been evaluated in single-dose pharmacokinetic studies in children aged 1 to 16 years.
+
+[Tamiflu 75 mg hard capsule.]
+
+ChildrenChildren 1 year of age and older: The pharmacokinetics of oseltamivir have been evaluated in single-dose pharmacokinetic studies in children aged 1 to 16 years.
+
+[Tamiflu 12 mg/ml powder for oral suspension.]
+
+(all sentences already above)
