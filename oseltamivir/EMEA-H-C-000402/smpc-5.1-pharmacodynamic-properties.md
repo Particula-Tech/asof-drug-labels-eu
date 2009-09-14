@@ -9,6 +9,7 @@ Viral neuraminidase enzyme activity is important both for viral entry into uninf
 Oseltamivir carboxylate inhibits influenza A and B neuraminidases in vitro.
 Oseltamivir phosphate inhibits influenza virus infection and replication in vitro.
 Oseltamivir given orally inhibits influenza A and B virus replication and pathogenicity in vivo in animal models of influenza infection at antiviral exposures similar to that achieved in man with 75 mg twice daily.
+
 Antiviral activity of oseltamivir was supported for influenza A and B by experimental challenge studies in healthy volunteers.
 
 Neuraminidase enzyme IC50 values for oseltamivir for clinically isolated influenza A ranged from 0.1 nM to 1.3 nM, and for influenza B was 2.6 nM.
@@ -48,6 +49,7 @@ In a pooled analysis of all influenza-positive adults and adolescents
 (N = 2413) enrolled into treatment studies, oseltamivir 75 mg twice daily for 5 days reduced the median duration of influenza illness by approximately one day from 5.2 days (95 % CI 4.9 – 5.5 days) in the placebo group to 4.2 days (95 % CI 4.0 – 4.4 days; p ≤ 0.0001).
 
 The proportion of subjects who developed specified lower respiratory tract complications (mainly bronchitis) treated with antibiotics was reduced from 12.7 % (135/1063) in the placebo group to 8.6 % (116/1350) in the oseltamivir treated population (p = 0.0012).
+
 Treatment of influenza in high risk populations: The median duration of influenza illness in elderly subjects (≥ 65 years) and in subjects with chronic cardiac and/or respiratory disease receiving oseltamivir 75 mg twice daily for 5 days was not reduced significantly.
 The total duration of fever was reduced by one day in the groups treated with oseltamivir.
 In the influenza-positive elderly, oseltamivir significantly reduced the incidence of specified lower respiratory tract complications (mainly bronchitis) treated with antibiotics from 19 % (52/268) in the placebo group to 12 % (29/250) in the oseltamivir treated population (p = 0.0156).

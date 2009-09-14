@@ -23,11 +23,11 @@ Most Frequent Adverse Drug Reactions (≥ 1 % in the oseltamivir group) in Studi
 |  | 1 % 1 % | 1 % 1 % |
 |  | < 1 % 0 % | 0 % 0 % |
 | Disorders of the ear and labyrinth Common: Vertigo | 1 % 1 % | < 1 % < 1 % |
-|  | Treatment | Prevention |
-|  | Oseltamivir Placebo 75 mg bid (n = 1057) (n = 1050) | Oseltamivir Placebo 75 mg od (n = 1480) (n = 1434) |
 | Respiratory, thoracic and mediastinal disorders Common: Cough Rhinorrhoea | 1 % 1 % < 1 % 0 % | 6 % 6 % 2 % 1 % |
 | Gastrointestinal disorders Very Common: Nauseab,c Common: Vomitingc Abdominal pain Diarrhoea Dyspepsia | 11 % 7 % | 8 % 4 % |
 |  | 8 % 3 % 2 % 2 % 6 % 8 % 1 % 1 % | 2 % 1 % 2 % 2 % 3 % 3 % 2 % 2 % |
+|  | Treatment | Prevention |
+|  | Oseltamivir Placebo 75 mg bid (n = 1057) (n = 1050) | Oseltamivir Placebo 75 mg od (n = 1480) (n = 1434) |
 | Skin and subcutaneous tissue disorders Uncommon: Dermatitisa Rasha Urticariaa Eczemaa | < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % 0 % | 1 % 1 % < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % |
 | General disorders Common: Dizziness Fatigue Pain | 2 % 3 % 1 % 1 % < 1 % < 1 % | 2 % 2 % 8 % 8 % 4 % 3 % |
 
@@ -47,12 +47,12 @@ Most Frequent Adverse Drug Reactions (≥ 1 % in the oseltamivir group in the tr
 |  | Treatment | Treatment | Preventiona |
 |  | Oseltamivir Placebo 2 mg/kg bid (n = 515) (n = 517) | Oseltamivir 30 to 75 mgb (n = 158) | Oseltamivir 30 to 75 mgb (n = 99) |
 | Infections and infestations Common: Pneumonia Sinusitis Bronchitis Otitis media | 2 % 3 % 2 % 3 % 2 % 2 % 9 % 11 % | 0 % 0 % 2 % 1 % | 0 % 0 % 0 % 2 % |
-|  | Treatment | Treatment | Preventiona |
-|  | Oseltamivir Placebo 2 mg/kg bid (n = 515) (n = 517) | Oseltamivir 30 to 75 mgb (n = 158) | Oseltamivir 30 to 75 mgb (n = 99) |
 | Disorders of the blood and lymphatic system Common: Lymphadenopathy | 1 % 2 % | < 1 % | 0 % |
 | Respiratory, thoracic and mediastinal disorders Common: Asthma (incl. aggravated) Epistaxis | 4 % 4 % 3 % 3 % | 0 % 1 % | 1 % 1 % |
-| Gastrointestinal disorder Very Common: Vomiting Diarrhoea Common: Nausea Abdominal pain | 15 % 9 % 10 % 11 % | 20 % 3 % | 10 % 1 % |
-|  | 3 % 4 % 5 % 4 % | 6 % 2 % | 4 % 1 % |
+| Gastrointestinal disorder Very Common: Vomiting Diarrhoea | 15 % 9 % 10 % 11 % | 20 % 3 % | 10 % 1 % |
+|  | Treatment | Treatment | Preventiona |
+|  | Oseltamivir Placebo 2 mg/kg bid (n = 515) (n = 517) | Oseltamivir 30 to 75 mgb (n = 158) | Oseltamivir 30 to 75 mgb (n = 99) |
+| Common: Nausea Abdominal pain | 3 % 4 % 5 % 4 % | 6 % 2 % | 4 % 1 % |
 | Disorders of the eye Common: Conjunctivitis | 1 % < 1 % | 0 % | 0 % |
 | Disorders of the ear and labyrinth Common: Ear disorderc Tympanic membrane disorder | 2 % 1 % 1 % 1 % | 0 % 0 % | 0 % 0 % |
 | Skin and subcutaneous tissue disorders Common: Dermatitis | 1 % 2 % | < 1 % | 0 % |
@@ -76,6 +76,7 @@ In patients with influenza who were receiving Tamiflu, there have been postmarke
 These events were reported primarily among pediatric and adolescent patients and often had an abrupt onset and rapid resolution.
 The contribution of Tamiflu to those events is unknown.
 Such neuropsychiatric events have also been reported in patients with influenza who were not taking Tamiflu.
+
 Eye disorders
 Frequency not known: visual disturbance.
 
@@ -88,7 +89,6 @@ Frequency not known: gastrointestinal bleedings and hemorrhagic colitis.
 Hepato-biliary disorders
 Frequency not known: hepato-biliary system disorders, including hepatitis and elevated liver enzymes in patients with influenza-like illness.
 These cases include fatal fulminant hepatitis/hepatic failure.
-
 Skin and subcutaneous tissue disorders
 Frequency not known: severe skin reactions, including Stevens-Johnson syndrome, toxic epidermal necrolysis, erythema multiforme and angioneurotic oedema.
 
@@ -98,28 +98,7 @@ There were no clinically relevant differences in the safety population of the el
 
 The adverse event profile in adolescents and patients with chronic cardiac and/or respiratory disease was qualitatively similar to those of healthy young adults.
 
-Safety information available on oseltamivir administered for treatment of influenza in children less than one year of age from prospective and retrospective observational trials (comprising together more than 2400 children of that age class), epidemiological databases research and postmarketing reports suggest that the safety profile in children less than one year of age is similar to the established safety profile of children aged one year and older.
-
 [Tamiflu 45 mg hard capsule.]
-
-| System Organ Class (SOC) Frequency Category Adverse Drug Reaction | Percentage of Patients Experiencing the ADR |  |
-| --- | --- | --- |
-|  | Treatment | Prevention |
-|  | Oseltamivir Placebo 75 mg bid (n = 1057) (n = 1050) | Oseltamivir Placebo 75 mg od (n = 1480) (n = 1434) |
-| Infections and infestations Common: Bronchitis Bronchitis acute Upper respiratory tract infections | 4 % 5 % 1 % 1 % 0 % 0 % | 1 % 1 % 0 % < 1 % 8 % 8 % |
-| Psychiatric disorders Uncommon: Hallucinationa | < 1 % 0 % | < 1 % 0 % |
-| Nervous system disorders Very Common: Headache Common: Insomnia Uncommon: Convulsiona | 2 % 2 % | 20 % 18 % |
-|  | 1 % 1 % | 1 % 1 % |
-|  | < 1 % 0 % | 0 % 0 % |
-| Disorders of the ear and labyrinth Common: Vertigo | 1 % 1 % | < 1 % < 1 % |
-| Respiratory, thoracic and |  |  |
-|  | Treatment | Prevention |
-|  | Oseltamivir Placebo 75 mg bid (n = 1057) (n = 1050) | Oseltamivir Placebo 75 mg od (n = 1480) (n = 1434) |
-| mediastinal disorders Common: Cough Rhinorrhoea | 1 % 1 % < 1 % 0 % | 6 % 6 % 2 % 1 % |
-| Gastrointestinal disorders Very Common: Nauseab,c Common: Vomitingc Abdominal pain Diarrhoea Dyspepsia | 11 % 7 % | 8 % 4 % |
-|  | 8 % 3 % 2 % 2 % 6 % 8 % 1 % 1 % | 2 % 1 % 2 % 2 % 3 % 3 % 2 % 2 % |
-| Skin and subcutaneous tissue disorders Uncommon: Dermatitisa Rasha Urticariaa Eczemaa | < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % 0 % | 1 % 1 % < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % |
-| General disorders Common: Dizziness Fatigue Pain | 2 % 3 % 1 % 1 % < 1 % < 1 % | 2 % 2 % 8 % 8 % 4 % 3 % |
 
 Most Frequent Adverse Drug Reactions (≥ 1 % in the oseltamivir group in the treatment studies and ≥ 10 in the oseltamivir group in the prophylaxis study) in Children
 
@@ -128,13 +107,12 @@ Most Frequent Adverse Drug Reactions (≥ 1 % in the oseltamivir group in the tr
 |  | Treatment |  | Treatment | Preventiona |
 |  | Oseltamivir 2 mg/kg bid (n = 515) | Placebo (n = 517) | Oseltamivir 30 to 75 mgb (n = 158) | Oseltamivir 30 to 75 mgb (n = 99) |
 | Infections and infestations Common: Pneumonia Sinusitis Bronchitis Otitis media | 2 % 3 % 2 % 3 % 2 % 2 % 9 % 11 % |  | 0 % 0 % 2 % 1 % | 0 % 0 % 0 % 2 % |
-| Disorders of the blood and lymphatic system Common: |  |  |  |  |
+| Disorders of the blood and lymphatic system Common: Lymphadenopathy | 1 % 2 % |  | < 1 % | 0 % |
+| Respiratory, thoracic and mediastinal disorders Common: Asthma (incl. aggravated) Epistaxis | 4 % 4 % 3 % 3 % |  | 0 % 1 % | 1 % 1 % |
+| Gastrointestinal disorder Very Common: Vomiting Diarrhoea | 15 % 9 % 10 % 11 % |  | 20 % 3 % | 10 % 1 % |
 |  | Treatment |  | Treatment | Preventiona |
 |  | Oseltamivir 2 mg/kg bid (n = 515) | Placebo (n = 517) | Oseltamivir 30 to 75 mgb (n = 158) | Oseltamivir 30 to 75 mgb (n = 99) |
-| Lymphadenopathy | 1 % 2 % |  | < 1 % | 0 % |
-| Respiratory, thoracic and mediastinal disorders Common: Asthma (incl. aggravated) Epistaxis | 4 % 4 % 3 % 3 % |  | 0 % 1 % | 1 % 1 % |
-| Gastrointestinal disorder Very Common: Vomiting Diarrhoea Common: Nausea Abdominal pain | 15 % 9 % 10 % 11 % |  | 20 % 3 % | 10 % 1 % |
-|  | 3 % 4 % 5 % 4 % |  | 6 % 2 % | 4 % 1 % |
+| Common: Nausea Abdominal pain | 3 % 4 % 5 % 4 % |  | 6 % 2 % | 4 % 1 % |
 | Disorders of the eye Common: Conjunctivitis | 1 % < 1 % |  | 0 % | 0 % |
 | Disorders of the ear and labyrinth Common: Ear disorderc Tympanic membrane disorder | 2 % 1 % 1 % 1 % |  | 0 % 0 % | 0 % 0 % |
 | Skin and subcutaneous tissue disorders Common: Dermatitis | 1 % 2 % |  | < 1 % | 0 % |
@@ -154,12 +132,11 @@ Immune system disorders
 |  | < 1 % 0 % | 0 % 0 % |
 | Disorders of the ear and labyrinth Common: Vertigo | 1 % 1 % | < 1 % < 1 % |
 | Respiratory, thoracic and mediastinal disorders Common: Cough Rhinorrhoea | 1 % 1 % < 1 % 0 % | 6 % 6 % 2 % 1 % |
-| Gastrointestinal disorders |  |  |
-|  | Treatment | Prevention |
-|  | Oseltamivir Placebo 75 mg bid (n = 1057) (n = 1050) | Oseltamivir Placebo 75 mg od (n = 1480) (n = 1434) |
-| Very Common: Nauseab,c Common: Vomitingc Abdominal pain Diarrhoea Dyspepsia | 11 % 7 % | 8 % 4 % |
+| Gastrointestinal disorders Very Common: Nauseab,c Common: Vomitingc Abdominal pain Diarrhoea Dyspepsia | 11 % 7 % | 8 % 4 % |
 |  | 8 % 3 % 2 % 2 % 6 % 8 % 1 % 1 % | 2 % 1 % 2 % 2 % 3 % 3 % 2 % 2 % |
 | Skin and subcutaneous tissue disorders Uncommon: Dermatitisa Rasha Urticariaa Eczemaa | < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % 0 % | 1 % 1 % < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % |
+|  | Treatment | Prevention |
+|  | Oseltamivir Placebo 75 mg bid (n = 1057) (n = 1050) | Oseltamivir Placebo 75 mg od (n = 1480) (n = 1434) |
 | General disorders Common: Dizziness Fatigue Pain | 2 % 3 % 1 % 1 % < 1 % < 1 % | 2 % 2 % 8 % 8 % 4 % 3 % |
 
 | System Organ Class (SOC) Frequency Category Adverse Drug Reaction | Percentage of Patients Experiencing the ADR |  |  |  |
@@ -168,13 +145,12 @@ Immune system disorders
 |  | Oseltamivir 2 mg/kg bid (n = 515) | Placebo (n = 517) | Oseltamivir 30 to 75 mgb (n = 158) | Oseltamivir 30 to 75 mgb (n = 99) |
 | Infections and infestations Common: Pneumonia Sinusitis Bronchitis Otitis media | 2 % 3 % 2 % 3 % 2 % 2 % 9 % 11 % |  | 0 % 0 % 2 % 1 % | 0 % 0 % 0 % 2 % |
 | Disorders of the blood and lymphatic system Common: Lymphadenopathy | 1 % 2 % |  | < 1 % | 0 % |
-| Respiratory, thoracic and mediastinal disorders Common: Asthma (incl. aggravated) | 4 % 4 % |  | 0 % | 1 % |
-|  | Treatment |  | Treatment | Preventiona |
-|  | Oseltamivir 2 mg/kg bid (n = 515) | Placebo (n = 517) | Oseltamivir 30 to 75 mgb (n = 158) | Oseltamivir 30 to 75 mgb (n = 99) |
-| Epistaxis | 3 % 3 % |  | 1 % | 1 % |
+| Respiratory, thoracic and mediastinal disorders Common: Asthma (incl. aggravated) Epistaxis | 4 % 4 % 3 % 3 % |  | 0 % 1 % | 1 % 1 % |
 | Gastrointestinal disorder Very Common: Vomiting Diarrhoea Common: Nausea Abdominal pain | 15 % 9 % 10 % 11 % |  | 20 % 3 % | 10 % 1 % |
 |  | 3 % 4 % 5 % 4 % |  | 6 % 2 % | 4 % 1 % |
 | Disorders of the eye Common: Conjunctivitis | 1 % < 1 % |  | 0 % | 0 % |
+|  | Treatment |  | Treatment | Preventiona |
+|  | Oseltamivir 2 mg/kg bid (n = 515) | Placebo (n = 517) | Oseltamivir 30 to 75 mgb (n = 158) | Oseltamivir 30 to 75 mgb (n = 99) |
 | Disorders of the ear and labyrinth Common: Ear disorderc Tympanic membrane disorder | 2 % 1 % 1 % 1 % |  | 0 % 0 % | 0 % 0 % |
 | Skin and subcutaneous tissue disorders Common: Dermatitis | 1 % 2 % |  | < 1 % | 0 % |
 
@@ -186,13 +162,13 @@ Immune system disorders
 |  | Oseltamivir Placebo 75 mg bid (n = 1057) (n = 1050) | Oseltamivir Placebo 75 mg od (n = 1480) (n = 1434) |
 | Infections and infestations Common: Bronchitis Bronchitis acute Upper respiratory tract infections | 4 % 5 % 1 % 1 % 0 % 0 % | 1 % 1 % 0 % < 1 % 8 % 8 % |
 | Psychiatric disorders Uncommon: Hallucinationa | < 1 % 0 % | < 1 % 0 % |
-|  | Treatment | Prevention |
-|  | Oseltamivir Placebo 75 mg bid (n = 1057) (n = 1050) | Oseltamivir Placebo 75 mg od (n = 1480) (n = 1434) |
 | Nervous system disorders Very Common: Headache Common: Insomnia Uncommon: Convulsiona | 2 % 2 % | 20 % 18 % |
 |  | 1 % 1 % | 1 % 1 % |
 |  | < 1 % 0 % | 0 % 0 % |
 | Disorders of the ear and labyrinth Common: Vertigo | 1 % 1 % | < 1 % < 1 % |
 | Respiratory, thoracic and mediastinal disorders Common: Cough Rhinorrhoea | 1 % 1 % < 1 % 0 % | 6 % 6 % 2 % 1 % |
+|  | Treatment | Prevention |
+|  | Oseltamivir Placebo 75 mg bid (n = 1057) (n = 1050) | Oseltamivir Placebo 75 mg od (n = 1480) (n = 1434) |
 | Gastrointestinal disorders Very Common: Nauseab,c Common: Vomitingc Abdominal pain Diarrhoea Dyspepsia | 11 % 7 % | 8 % 4 % |
 |  | 8 % 3 % 2 % 2 % 6 % 8 % 1 % 1 % | 2 % 1 % 2 % 2 % 3 % 3 % 2 % 2 % |
 | Skin and subcutaneous tissue disorders Uncommon: Dermatitisa Rasha Urticariaa Eczemaa | < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % 0 % | 1 % 1 % < 1 % < 1 % < 1 % < 1 % < 1 % < 1 % |
@@ -207,11 +183,11 @@ b .Subjects who experienced nausea alone; excludes subjects who experienced naus
 |  | Oseltamivir 2 mg/kg bid (n = 515) | Placebo (n = 517) | Oseltamivir 30 to 75 mgb (n = 158) | Oseltamivir 30 to 75 mgb (n = 99) |
 | Infections and infestations Common: Pneumonia Sinusitis Bronchitis Otitis media | 2 % 3 % 2 % 3 % 2 % 2 % 9 % 11 % |  | 0 % 0 % 2 % 1 % | 0 % 0 % 0 % 2 % |
 | Disorders of the blood and lymphatic system Common: Lymphadenopathy | 1 % 2 % |  | < 1 % | 0 % |
+|  | Treatment |  | Treatment | Preventiona |
+|  | Oseltamivir 2 mg/kg bid (n = 515) | Placebo (n = 517) | Oseltamivir 30 to 75 mgb (n = 158) | Oseltamivir 30 to 75 mgb (n = 99) |
 | Respiratory, thoracic and mediastinal disorders Common: Asthma (incl. aggravated) Epistaxis | 4 % 4 % 3 % 3 % |  | 0 % 1 % | 1 % 1 % |
 | Gastrointestinal disorder Very Common: Vomiting Diarrhoea Common: Nausea Abdominal pain | 15 % 9 % 10 % 11 % |  | 20 % 3 % | 10 % 1 % |
 |  | 3 % 4 % 5 % 4 % |  | 6 % 2 % | 4 % 1 % |
 | Disorders of the eye Common: Conjunctivitis | 1 % < 1 % |  | 0 % | 0 % |
 | Disorders of the ear and labyrinth Common: Ear disorderc Tympanic membrane disorder | 2 % 1 % 1 % 1 % |  | 0 % 0 % | 0 % 0 % |
 | Skin and subcutaneous tissue disorders Common: Dermatitis | 1 % 2 % |  | < 1 % | 0 % |
-
-Safety information available on oseltamivir administered for treatment of influenza in children less than one year of age from prospective and retrospective observational trials (comprising together more than 2400 children of that age class), epidemiological databases research and postmarketing reports suggest that the safety profile in t children less than one year of age is similar to the established safety profile of children aged one year and older.
