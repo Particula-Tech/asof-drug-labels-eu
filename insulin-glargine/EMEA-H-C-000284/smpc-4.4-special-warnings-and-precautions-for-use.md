@@ -50,7 +50,7 @@ Factors increasing the susceptibility to hypoglycaemia require particularly clos
 These include:
 
 - change in the injection area,
-- improved insulin sensitivity (by, e.g., removal of stress factors),
+- improved insulin sensitivity (e.g., by removal of stress factors),
 - unaccustomed, increased or prolonged physical activity,
 - intercurrent illness (e.g. vomiting, diarrhoea),
 - inadequate food intake,

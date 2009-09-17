@@ -7,7 +7,7 @@ See section 5.1 (Pharmacodynamics).
 Lantus contains insulin glargine an insulin analogue with a prolonged duration of action.
 It should be administered once daily at any time but at the same time each day.
 
-The dosage and timing of dose of Lantus should be individually adjusted.
+The Lantus dose regimen (dose and timing) should be individually adjusted.
 In patients with type 2 diabetes mellitus, Lantus can also be given together with orally active antidiabetic medicinal products.
 
 Children
@@ -24,7 +24,7 @@ As with other insulin analogues, patients with high insulin doses because of ant
 
 Close metabolic monitoring is recommended during the transition and in the initial weeks thereafter.
 
-With improved metabolic control and resulting increase in insulin sensitivity a further adjustment in dosage regimen may become necessary.
+With improved metabolic control and resulting increase in insulin sensitivity a further adjustment in dose regimen may become necessary.
 Dose adjustment may also be required, for example, if the patient's weight or life-style changes, change of timing of insulin dose or other circumstances arise that increase susceptibility to hypo-or hyperglycaemia (see section 4.4).
 
 Administration
@@ -47,7 +47,7 @@ Due to limited experience the efficacy and safety of Lantus could not be assesse
 
 [Lantus 100 Units/ml solution for injection in a cartridge.]
 
-(all sentences already above)
+With improved metabolic control and resulting increase in insulin sensitivity a further adjustment in dosage regimen may become necessary.
 
 [Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
 
