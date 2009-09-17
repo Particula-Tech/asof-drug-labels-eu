@@ -37,10 +37,10 @@ Common: visual disturbance
 Gastrointestinal disorders
 
 Uncommon: flatulence
+
 Investigations
 
 Common: weight increased
-
 Musculoskeletal system and connective tissue disorders
 
 Common: arthralgia
@@ -144,10 +144,10 @@ POST-MARKETING DATA
 
 Eye disorders
 Macular oedema: not known
-
 Oedema was reported in 6 – 9 % of patients treated with pioglitazone over one year in controlled clinical trials.
 The oedema rates for comparator groups (sulphonylurea, metformin) were 2 – 5 %.
 The reports of oedema were generally mild to moderate and usually did not require discontinuation of treatment.
+
 In active comparator controlled trials mean weight increase with pioglitazone given as monotherapy was 2 – 3 kg over one year.
 This is similar to that seen in a sulphonylurea active comparator group.
 In combination trials pioglitazone added to metformin resulted in mean weight increase over one year of 1.5 kg and added to a sulphonylurea of 2.8 kg.

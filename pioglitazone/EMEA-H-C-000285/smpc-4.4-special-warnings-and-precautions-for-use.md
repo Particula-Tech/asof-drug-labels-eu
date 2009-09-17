@@ -5,7 +5,7 @@ Fluid retention and cardiac failure:
 Pioglitazone can cause fluid retention, which may exacerbate or precipitate heart failure.
 When treating patients who have at least one risk factor for development of congestive heart failure (e.g. prior myocardial infarction or symptomatic coronary artery disease), physicians should start with the lowest available dose and increase the dose gradually.
 Patients should be observed for signs and symptoms of heart failure, weight gain or oedema particularly those with reduced cardiac reserve.
-There have been cases of cardiac failure reported from the market when pioglitazone was used in combination with insulinor in patients with a history of cardiac failure; patients should be observed for signs and symptoms of heart failure, weight gain and oedema when pioglitazone is used in combination with insulin.
+There have been cases of cardiac failure reported from the market when pioglitazone was used in combination with insulin or in patients with a history of cardiac failure; patients should be observed for signs and symptoms of heart failure, weight gain and oedema when pioglitazone is used in combination with insulin.
 Since insulin and pioglitazone are associated with fluid retention, concomitant administration may increase the risk of oedema.
 Pioglitazone should be discontinued if any deterioration in cardiac status occurs.
 
@@ -52,9 +52,9 @@ It is unclear whether or not there is a direct association between pioglitazone 
 Others:
 
 An increased incidence in bone fractures in women was seen in a pooled analysis of adverse event reports of bone fracture from randomised, controlled, double blind clinical trials in over 8100 pioglitazone and 7400 comparator treated patients, on treatment for up to 3.5 years.
+
 Fractures were observed in 2.6% of women taking pioglitazone compared to 1.7% of women treated with a comparator.
 No increase in fracture rates was observed in men treated with pioglitazone (1.3%) versus comparator (1.5%).
-
 The fracture incidence calculated was 1.9 fractures per 100 patient years in women treated with pioglitazone and 1.1 fractures per 100 patient years in women treated with a comparator.
 The observed excess risk of fractures for women in this dataset on pioglitazone is therefore 0.8 fractures per 100 patient years of use.
 
