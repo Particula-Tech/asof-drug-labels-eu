@@ -25,7 +25,6 @@ Should any evidence of infection develop concurrently with the neutropenia, the 
 In the event of severe neutropenia or agranulocytosis:
 Follow the guidelines above and administer appropriate therapy such as granulocyte colony stimulating factor, beginning the same day that the event is identified; administer daily until the condition resolves.
 Provide protective isolation and if clinically indicated, admit patient to the hospital.
-
 Limited information is available regarding rechallenge.
 Therefore, in the event of neutropenia, rechallenge is not recommended.
 In the event of agranulocytosis, a rechallenge is contraindicated.
@@ -36,7 +35,7 @@ No animal studies to evaluate the potential effects of deferiprone on fertility 
 
 Serum ferritin concentration/plasma Zn2+ concentration
 It is recommended that serum ferritin concentrations, or other indicators of body iron load, be monitored every two to three months to assess the long-term effectiveness of the chelation regimen in controlling the body iron load.
-Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 μg/l.
+Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 µg/l.
 
 Monitoring of plasma Zn2+ concentration, and supplementation in case of a deficiency, is recommended.
 
@@ -59,7 +58,7 @@ Patients should be informed that their urine may show a reddish/brown discolorat
 
 Chronic overdose and neurological disorders
 Neurological disorders have been observed in children treated with 2.5 to 3 times the recommended dose for several years.
-Prescribers are reminded that the use of doses above 100 mg/kg/day are not recommended (see sections 4.2, 4.8 and 4.9).
+Prescribers are reminded that the use of doses above 100 mg/kg/day are not recommended (see sections 4.8 and 4.9).
 
 [Ferriprox 100 mg/ml oral solution]
 

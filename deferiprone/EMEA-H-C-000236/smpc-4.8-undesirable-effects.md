@@ -14,21 +14,21 @@ Increased levels of serum liver enzymes have been reported in patients taking de
 In the majority of these patients, the increase was asymptomatic and transient, and returned to baseline without discontinuation or decreasing the dose of deferiprone (see section 4.4).
 
 Some patients experienced progression of fibrosis associated with an increase in iron overload or hepatitis C.
+
 Low plasma zinc levels have been associated with deferiprone, in a minority of patients.
 The levels normalised with oral zinc supplementation.
 
 Neurological disorders (such as cerebellar symptoms, diplopia, lateral nystagmus, psychomotor slowdown, hand movements and axial hypotonia) have been observed in children who had been voluntarily prescribed more than 2.5 times the maximum recommended dose of 100 mg/kg/day for several years.
-The neurological disorders progressively regressed after deferiprone discontinuation (see sections 4.2, 4.4 and 4.9).
-
+The neurological disorders progressively regressed after deferiprone discontinuation (see sections 4.4 and 4.9).
 Adverse reaction frequencies: Very common (≥1/10), Common (≥1/100 to <1/10), Uncommon (≥1/1,000 to <1/100).
 
-| SYSTEM ORGAN CLASS | VERY COMMON (≥1/10) | COMMON (≥1/100 to <1/10) | UNCOMMON (≥1/1,000 to <1/100) |
-| --- | --- | --- | --- |
-| Investigations |  | Increased liver enzymes |  |
-| Blood and lymphatic system disorders |  | Neutropenia Agranulocytosis |  |
-| Nervous system disorders |  | Headache |  |
-| Gastrointestinal disorders | Nausea Abdominal Pain Vomiting | Diarrhoea |  |
-| Renal and urinary disorders | Chromaturia |  |  |
-| Musculoskeletal and connective tissue disorders |  | Arthralgia |  |
-| Metabolism and nutrition disorders |  | Increased Appetite |  |
-| General disorders and administration site conditions |  | Fatigue |  |
+| SYSTEM ORGAN CLASS | VERY COMMON (≥1/10) | COMMON (≥1/100 to <1/10) |
+| --- | --- | --- |
+| Blood and lymphatic system disorders |  | Neutropenia Agranulocytosis |
+| Metabolism and nutrition disorders |  | Increased Appetite |
+| Nervous system disorders |  | Headache |
+| Gastrointestinal disorders | Nausea Abdominal Pain Vomiting | Diarrhoea |
+| Musculoskeletal and connective tissue disorders |  | Arthralgia |
+| Renal and urinary disorders | Chromaturia |  |
+| General disorders and administration site conditions |  | Fatigue |
+| Investigations |  | Increased liver enzymes |

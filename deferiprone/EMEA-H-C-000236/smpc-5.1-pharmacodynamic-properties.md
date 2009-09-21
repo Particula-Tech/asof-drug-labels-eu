@@ -6,6 +6,7 @@ The active substance is deferiprone (3-hydroxy-1,2-dimethylpyridin-4-one), a bid
 
 Clinical studies have demonstrated that deferiprone is effective in promoting iron excretion and that a dose of 25 mg/kg three times per day can prevent the progression of iron accumulation as assessed by serum ferritin, in patients with transfusion-dependent thalassaemia.
 However, chelation therapy may not necessarily protect against iron-induced organ damage.
+
 Deferiprone has been investigated in 247 patients in two phase III trials and a compassionate use programme.
 Serum ferritin was chosen as the primary efficacy criterion in the studies.
 In one study of two-year duration deferiprone was compared to deferoxamine.
