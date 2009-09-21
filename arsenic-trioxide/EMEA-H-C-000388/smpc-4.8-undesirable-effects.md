@@ -11,26 +11,24 @@ In general, treatment-emergent adverse events tended to decrease over time, perh
 Patients tended to tolerate consolidation and maintenance treatment with less toxicity than in induction.
 This is probably due to the confounding of adverse events by the uncontrolled disease process early on in the treatment course and the myriad concomitant medicinal products required to control symptoms and morbidity.
 
-The table below lists the related grade 3 and 4 adverse drug reactions for the 107 patients treated with TRISENOX in clinical trials.
+The table below lists the related grade 3 and 4 adverse drug reactions for the 107 patients treated with TRISENOX in clinical trials (frequencies defined as: common ≥1/100 to <1/10, uncommon ≥ 1/1,000 to < 1/100).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| System Organ Class | Common* | Uncommon** |
+| System Organ Class | Common | Uncommon |
 | --- | --- | --- |
 | Blood and lymphatic system disorders | Neutropenia Thrombocytopenia | Febrile neutropenia Leucocytosis Leucopenia |
-| Metabolism and nutrition disorders | Hyperglycaemia Hypokalaemia | Hypermagnesaemia Hypernatraemia Ketoacidosis |
+| Metabolism and nutrition | Hyperglycaemia | Hypermagnesaemia |
+| disorders | Hypokalaemia | Hypernatraemia Ketoacidosis |
 | Nervous system disorders | Paraesthesia |  |
 | Cardiac disorders |  | Pericardial effusion Tachycardia |
 | Vascular disorders |  | Vasculitis |
 | Respiratory, thoracic and mediastinal disorders | Pleuritic pain Dyspnoea | Pulmonary alveolar haemorrhage Pleural effusion Hypoxia |
 | Gastrointestinal disorders |  | Diarrhoea |
-| Skin & subcutaneous tissue disorders |  | Pruritus Erythema |
-| Musculoskeletal, connective tissue and bone disorders | Bone pain Arthralgia | Myalgia |
+| Skin and subcutaneous tissue disorders |  | Pruritus Erythema |
+| Musculoskeletal and connective tissue disorders | Bone pain Arthralgia | Myalgia |
 | General disorders and administration site conditions | Pyrexia Fatigue | Chest pain Pain |
 | Investigations | ECG QT prolonged ALT increased Aspartate amino transferase increased | Hyperbilirubinaemia Hypomagnesaemia |
-
-*Common >1/100 and <1/10
-**Uncommon >1/1,000 and <1/100
 
 During TRISENOX treatment, 13 of the 52 patients in the APL studies had one or more symptoms of APL differentiation syndrome, characterised by fever, dyspnoea, weight gain, pulmonary infiltrates and pleural or pericardial effusions, with or without leukocytosis (see Section 4.4).
 Twenty-seven patients had leukocytosis (WBC ≥ 10 x 103/μl) during induction, 4 of whom had values above 100,000/μl.
@@ -51,23 +49,24 @@ She went onto consolidation without further evidence of QT prolongation.
 Peripheral neuropathy, characterised by paresthesia/dysesthesia, is a common and well known effect of environmental arsenic.
 Only 2 patients discontinued treatment early due to this adverse event and one went on to receive additional TRISENOX on a subsequent protocol.
 Forty-four percent of patients experienced symptoms that could be associated with neuropathy; most were mild to moderate and were reversible upon cessation of treatment with TRISENOX.
+The following adverse events have been identified during the post-approval use of TRISENOX and have been included following consideration of the observed frequency, seriousness and possible causal relationship to TRISENOX.
+They are listed below by system organ class and frequency (frequencies are defined as: uncommon (≥1/1,000 to <1/100), not known (cannot be estimated from the available data).
 
-The following adverse events have been identified during the post-approval use of Trisenox and have been included following consideration of the observed frequency, seriousness and possible causal relationship to Trisenox.
-All occurred with a frequency of Uncommon (>1/1,000 and <1/100).
+| System Organ Class | Uncommon | Not known |
+| --- | --- | --- |
+| Infection and Infestations | Sepsis Pneumonia Herpes zoster |  |
+| Blood and Lymphatics System Disorders | Anaemia | Pancytopenia |
+| Metabolism and Nutrition Disorders | Dehydration Fluid retention |  |
+| Psychiatric Disorders | Confusional state |  |
+| Nervous System Disorders | Convulsions Dizziness |  |
+| Eye Disorders | Vision blurred |  |
+| Cardiac Disorders | Cardiac failure Ventricular tachycardia Ventricular extrasystoles |  |
+| Vascular Disorders | Hypotension |  |
+| Respiratory, Thoracic and Mediastinal Disorders | Pneumonitis | Differentiation syndrome |
+| Gastrointestinal Disorders | Vomiting Abdominal pain |  |
+| Skin and Subcutaneous Disorders | Face oedema Rash |  |
+| Renal and Urinary Disorders | Renal failure |  |
+| General Disorders and Administration Site Conditions | Oedema Chills |  |
+| Investigations | Blood creatinine increased Weight increased |  |
 
-| System Organ Class | Uncommon |
-| --- | --- |
-| Infection and Infestations | Sepsis Pneumonia Herpes zoster |
-| Blood and Lymphatics System Disorders | Anaemia |
-| Metabolism and Nutrition Disorders | Dehydration Fluid retention |
-| Psychiatric Disorders | Confusional state |
-| Nervous System Disorders | Convulsions Dizziness |
-| Eye Disorders | Vision blurred |
-| Cardiac Disorders | Cardiac failure Ventricular tachycardia Ventricular extrasystoles |
-| Vascular Disorders | Hypotension |
-| Respiratory, Thoracic and Mediastinal Disorders | Pneumonitis |
-| Gastrointestinal Disorders | Vomiting Abdominal pain |
-| Skin and Subcutaneous Disorders | Face oedema Rash |
-| Renal and Urinary Disorders | Renal failure |
-| General Disorders and Administration Site Conditions | Oedema Chills |
-| Investigations | Blood creatinine increased Weight increased |
+In post marketing experience, a differentiation syndrome, like retinoic acid syndrome, has also been reported for the treatment of malignancies other than APL with TRISENOX.

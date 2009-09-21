@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Other antineoplastic agents, ATC code: L01XX27
-
 TRISENOX has been authorised under “Exceptional Circumstances”.
 This means that due to the rarity of the disease, it has not been possible to obtain complete information on this medicinal product.
 The European Medicines Agency (EMEA) will review any new information which may become available every year and this SPC will be updated as necessary.
@@ -39,13 +38,13 @@ Time to CR (Median) 54 days 59 days
 The single institution study included 2 paediatric patients (< 18 years old), both of whom achieved CR.
 The multicentre trial included 5 paediatric patients (< 18 years old), 3 of whom achieved CR.
 No children of less than 5 years of age were treated.
+
 In a follow-up treatment after consolidation, 7 patients in the single institution study and 18 patients in the multicentre study received further maintenance therapy with TRISENOX.
 Three patients from the single institution study and 15 patients from the multicentre study had stem cell transplants after completing TRISENOX.
 The Kaplan-Meier median CR duration for the single institution study is 14 months and has not been reached for the multicentre study.
 At last follow-up, 6 of 12 patients in the single institution study were alive with a median follow-up time of 28 months (range 25 to 29).
 In the multicentre study 27 of 40 patients were alive with a median follow-up time of 16 months (range 9 to 25).
 Kaplan-Meier estimates of 18-month survival for each study are shown below.
-
 100%
 
 80%
@@ -66,6 +65,7 @@ Multicenter Study 40 13 66%
 Months
 
 Cytogenetic confirmation of conversion to a normal genotype and Reverse Transcriptase - Polymerase Chain Reaction (RT-PCR) detection of PML/RARα conversion to normal are shown in the table below.
+
 Cytogenetics after TRISENOX therapy
 
 |  | Single Centre Pilot Trial N with CR = 11 | Multicentre Trial N with CR = 34 |

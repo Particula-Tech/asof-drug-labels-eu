@@ -9,7 +9,7 @@ At the first signs that could suggest the syndrome (unexplained fever, dyspnoea 
 The majority of patients do not require termination of TRISENOX therapy during treatment of the APL differentiation syndrome.
 It is recommended that chemotherapy not be added to treatment with steroids since there is no experience with administration of both steroids and chemotherapy during treatment of the leukocyte activation syndrome due to TRISENOX.
 Post-marketing experience suggests that a similar syndrome may occur in patients with other types of malignancy.
-Monitoring and management for these patients should be as described above .
+Monitoring and management for these patients should be as described above.
 
 Electrocardiogram (ECG) Abnormalities: Arsenic trioxide can cause QT interval prolongation and complete atrioventricular block.
 QT prolongation can lead to a torsade de pointes-type ventricular arrhythmia, which can be fatal.
@@ -36,12 +36,17 @@ Patients who experience a recurrence of toxicity must be removed from treatment.
 
 Laboratory tests: The patient’s electrolyte and glycaemia levels, as well as haematologic, hepatic, renal and coagulation parameter tests must be monitored at least twice weekly, and more frequently for clinically unstable patients during the induction phase and at least weekly during the consolidation phase.
 
-Patients with renal or hepatic impairment: Safety and effectiveness of TRISENOX in patients with renal and hepatic impairment have not been studied.
-Particular caution is needed in patients with renal failure receiving TRISENOX, as renal excretion is the main route of elimination of arsenic.
+Patients with renal impairment:
+Since limited data are available across all renal impairment groups, caution is advised in the use of TRISENOX in patients with renal impairment.
+The experience in patients with severe renal impairment is insufficient to determine if dose adjustment is required.
+The use of TRISENOX in patients on dialysis has not been studied.
+
+Patients with hepatic impairment:
+Since limited data are available across all hepatic impairment groups, caution is advised in the use of TRISENOX in patients with hepatic impairment.
+The experience in patients with severe hepatic impairment is insufficient to determine if dose adjustment is required..
 
 Elderly patients: There is limited clinical data on the use of TRISENOX in the elderly population.
-Elderly patients have a greater risk of reduced renal function.
-Because renal excretion is the main route of elimination of arsenic, particular caution is needed in these patients.
+Caution is needed in these patients.
 
 Hyperleukocytosis: Treatment with TRISENOX has been associated with the development of hyperleukocytosis (≥ 10 x 103/μl) in some patients.
 There did not appear to be a relationship between baseline white blood cell (WBC) counts and development of hyperleukocytosis nor did there appear to be a correlation between baseline WBC count and peak WBC counts.
