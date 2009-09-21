@@ -2,20 +2,20 @@
 
 There are a number of known interactions between non selective MAO inhibitors and other medicinal products.
 
-Rasagiline should not be administered along with other MAO inhibitors as there may be a risk of non-selective MAO inhibition that may lead to hypertensive crises (see section 4.3).
+Rasagiline must not be administered along with other MAO inhibitors (including medicinal and natural products without prescription e.g. St. John's Wort) as there may be a risk of non-selective MAO inhibition that may lead to hypertensive crises (see section 4.3).
 
 Serious adverse reactions have been reported with the concomitant use of pethidine and MAO inhibitors as well as with another selective MAO-B inhibitor.
 The concomitant administration of rasagiline and pethidine is contraindicated (see section 4.3).
 
 The concomitant use of rasagiline and fluoxetine or fluvoxamine should be avoided (see section 4.4).
 
-With MAO inhibitors as well as with another selective MAO-B inhibitor there have been reports of drug interactions with the concomitant use of sympathomimetic medicinal products.
-Therefore, in view of the MAO inhibitory activity of rasagiline concomitant administration of rasagiline and sympathomimetics such as those present in nasal and oral decongestants or cold medications, containing ephedrine or pseudoephedrine, is not recommended (see section 4.4).
+With MAO inhibitors as well as with another selective MAO-B inhibitor there have been reports of medicinal product interactions with the concomitant use of sympathomimetic medicinal products.
+Therefore, in view of the MAO inhibitory activity of rasagiline concomitant administration of rasagiline and sympathomimetics such as those present in nasal and oral decongestants or cold medicinal products, containing ephedrine or pseudoephedrine, is not recommended (see section 4.4).
 
-There have been reports of drug interactions with the concomitant use of dextromethorphan and non selective MAO inhibitors.
+There have been reports of medicinal product interactions with the concomitant use of dextromethorphan and non selective MAO inhibitors.
 Therefore, in view of the MAO inhibitory activity of rasagiline the concomitant administration of rasagiline and dextromethorphan is not recommended (see section 4.4).
 
-Serious adverse reactions have been reported with the concomitant use of selective serotonin reuptake inhibitors (SSRIs), tricyclic, tetracylic antidepressants and MAO inhibitors as well as with another selective MAO-B inhibitor.
+Serious adverse reactions have been reported with the concomitant use of selective serotonin reuptake inhibitors (SSRIs), tricyclic, tetracyclic antidepressants and MAO inhibitors as well as with another selective MAO-B inhibitor.
 Therefore, in view of the MAO inhibitory activity of rasagiline, antidepressants should be administered with caution.
 
 In Parkinson's disease patients receiving chronic levodopa treatment as adjunct therapy there was no clinically significant effect of levodopa treatment on rasagiline clearance.

@@ -1,5 +1,3 @@
 # 6.4 Special precautions for storage
 
 Do not store above 25ºC.
-
-Store in the original package.

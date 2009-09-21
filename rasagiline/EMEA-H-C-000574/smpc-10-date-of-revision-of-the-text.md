@@ -1,3 +1,3 @@
 # 10. DATE OF REVISION OF THE TEXT
 
-04/2007
+Detailed information on this product is available on the website of the European Medicines Agency (EMEA) http://www.emea.europa.eu

@@ -5,7 +5,7 @@ The absolute bioavailability of a single rasagiline dose is about 36%.
 Food does not affect the Tmax of rasagiline, although Cmax and exposure (AUC) are decreased by approximately 60% and 20%, respectively, when the medicinal product is taken with a high fat meal.
 Because AUC is not substantially affected, rasagiline can be administered with or without food.
 
-Distribution: The mean volume of distribution following a single intraveneous dose of rasagiline is 243 l. Plasma protein binding following a single oral dose of 14C-labelled rasagiline is approximately 60 to 70%.
+Distribution: The mean volume of distribution following a single intravenous dose of rasagiline is 243 l. Plasma protein binding following a single oral dose of 14C-labelled rasagiline is approximately 60 to 70%.
 
 Metabolism: Rasagiline undergoes almost complete biotransformation in the liver prior to excretion.
 The metabolism of rasagiline proceeds through two main pathways: N-dealkylation and/or hydroxylation to yield: 1-Aminoindan, 3-hydroxy-N-propargyl-1 aminoindan and 3-hydroxy-1-aminoindan.
