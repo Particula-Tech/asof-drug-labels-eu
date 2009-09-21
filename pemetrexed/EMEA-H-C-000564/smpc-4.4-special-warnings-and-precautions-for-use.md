@@ -14,7 +14,7 @@ Pre-treatment with dexamethasone (or equivalent) can reduce the incidence and se
 An insufficient number of patients has been studied with creatinine clearance of below 45 ml/min.
 Therefore, the use of pemetrexed in patients with creatinine clearance of < 45 ml/min is not recommended (see section 4.2).
 
-Patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 ml/min) should avoid taking non-steroidal anti-inflammatory drugs (NSAIDs) as ibuprofen, and aspirin (> 1.3 g daily) for 2 days before, on the day of, and 2 days following pemetrexed administration (see section 4.5).
+Patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 ml/min) should avoid taking non-steroidal anti-inflammatory drugs (NSAIDs) such as ibuprofen, and aspirin (> 1.3 g daily) for 2 days before, on the day of, and 2 days following pemetrexed administration (see section 4.5).
 All patients eligible for pemetrexed therapy should avoid taking NSAIDs with long elimination half-lives for at least 5 days prior to, on the day of, and at least 2 days following pemetrexed administration (see section 4.5).
 
 Serious renal events, including acute renal failure, have been reported with pemetrexed alone or in association with other chemotherapeutic agents.
@@ -29,7 +29,7 @@ Therefore, patients should receive adequate antiemetic treatment and appropriate
 Serious cardiovascular events, including myocardial infarction and cerebrovascular events have been uncommonly reported during clinical studies with pemetrexed, usually when given in combination with another cytotoxic agent.
 Most of the patients in whom these events have been observed had pre-existing cardiovascular risk factors (see section 4.8).
 Immunodepressed status is common in cancer patients.
-As a result, concomitant use of live attenuated vaccines (except yellow fever which is contraindicated) is not recommended (see section 4.3 and 4.5).
+As a result, concomitant use of live attenuated vaccines is not recommended (see section 4.3 and 4.5).
 
 Pemetrexed can have genetically damaging effects.
 Sexually mature males are advised not to father a child during the treatment and up to 6 months thereafter.
@@ -42,3 +42,8 @@ Cases of radiation pneumonitis have been reported in patients treated with radia
 Particular attention should be paid to these patients and caution exercised with use of other radiosensitising agents.
 
 Cases of radiation recall have been reported in patients who received radiotherapy weeks or years previously.
+
+[ALIMTA 500 mg powder for concentrate for solution for infusion]
+
+This medicinal product contains approximately 54 mg of sodium per vial.
+To be taken into consideration by patients on a controlled sodium diet.

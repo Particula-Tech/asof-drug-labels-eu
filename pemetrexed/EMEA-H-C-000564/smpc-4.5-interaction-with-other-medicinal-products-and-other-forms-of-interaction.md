@@ -9,11 +9,11 @@ Concomitant administration of substances that are also tubularly secreted (e.g. 
 Caution should be made when these drugs are combined with pemetrexed.
 If necessary, creatinine clearance should be closely monitored.
 
-In patients with normal renal function (creatinine clearance > 80 ml/min), high doses of non-steroidal anti-inflammatory drugs (NSAIDs, such as ibuprofen > 1600 mg/day) and aspirin at higher dosage
+In patients with normal renal function (creatinine clearance > 80 ml/min), high doses of non-steroidal anti-inflammatory drugs (NSAIDs, such as ibuprofen > 1600 mg/day) and aspirin at higher dose
 (> 1.3 g daily) may decrease pemetrexed elimination and, consequently, increase the occurrence of pemetrexed adverse events.
-Therefore, caution should be made when administering higher doses of NSAIDs or aspirin at higher dosage, concurrently with pemetrexed to patients with normal function (creatinine clearance > 80 ml/min).
-In patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 ml/min), the concomitant administration of pemetrexed with NSAIDs (e.g. ibuprofen) or aspirin at higher dosage should be avoided for 2 days before, on the day of, and 2 days following pemetrexed administration (see section 4.4).
-In the absence of data regarding potential interaction with NSAIDs having longer half-lives as piroxicam or rofecoxib, the concomitant administration with pemetrexed should be avoided for at least 5 days prior to, on the day of, and at least 2 days following pemetrexed administration (see section 4.4).
+Therefore, caution should be made when administering higher doses of NSAIDs or aspirin at higher dose, concurrently with pemetrexed to patients with normal function (creatinine clearance > 80 ml/min).
+In patients with mild to moderate renal insufficiency (creatinine clearance from 45 to 79 ml/min), the concomitant administration of pemetrexed with NSAIDs (e.g. ibuprofen) or aspirin at higher dose should be avoided for 2 days before, on the day of, and 2 days following pemetrexed administration (see section 4.4).
+In the absence of data regarding potential interaction with NSAIDs having longer half-lives such as piroxicam or rofecoxib, the concomitant administration with pemetrexed should be avoided for at least 5 days prior to, on the day of, and at least 2 days following pemetrexed administration (see section 4.4).
 
 Pemetrexed undergoes limited hepatic metabolism.
 Results from in vitro studies with human liver microsomes indicated that pemetrexed would not be predicted to cause clinically significant inhibition of the metabolic clearance of drugs metabolised by CYP3A, CYP2D6, CYP2C9, and CYP1A2.
