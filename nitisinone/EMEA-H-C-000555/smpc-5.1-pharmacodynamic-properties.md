@@ -28,10 +28,6 @@ or diagnosis Nitisinone treatment Dietary control *
 Treatment with nitisinone was also found to result in reduced risk for the development of hepatocellular carcinoma (2.3 to 3.7-fold) compared to historical data on treatment with dietary restriction alone.
 It was found that the early initiation of treatment resulted in a further reduced risk for the development of hepatocellular carcinoma (13.5-fold when initiated prior to the age of 12 months).
 
-This medicinal product has been authorised under “Exceptional Circumstances”.
-This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product.
-The European Medicines Agency (EMEA) will review any new information which may become available every year and this SPC will be updated as necessary.
-
 [Orfadin 5 mg hard capsules.]
 
 *From Figure 1,Van Spronsen et al., 1994.
