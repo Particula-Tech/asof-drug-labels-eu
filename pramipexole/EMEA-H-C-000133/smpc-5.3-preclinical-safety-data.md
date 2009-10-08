@@ -2,7 +2,7 @@
 
 Repeated dose toxicity studies showed that pramipexole exerted functional effects, mainly involving the CNS and female reproductive system, and probably resulting from an exaggerated pharmacodynamic effect of pramipexole.
 
-Decreases in diastolic and systolic pressure and heart rate were noted in the minipig, and a tendency to an hypotensive effect was discerned in the monkey.
+Decreases in diastolic and systolic pressure and heart rate were noted in the minipig, and a tendency to a hypotensive effect was discerned in the monkey.
 
 The potential effects of pramipexole on reproductive function have been investigated in rats and rabbits.
 Pramipexole was not teratogenic in rats and rabbits but was embryotoxic in the rat at maternally toxic doses.
