@@ -88,6 +88,9 @@ Hypersensitivity: Hypersensitivity reactions, including angioneurotic oedema and
 
 Congenital disorders: see further details in section 4.6.
 
+Respiratory, thoracic and mediastinal disorders:
+There have been isolated reports of interstitial lung disease and pulmonary fibrosis in patients treated with CellCept in combination with other immunosuppressants, some of which have been fatal.
+
 [CellCept 500 mg powder for concentrate for solution for infusion.]
 
 The adverse reaction profile associated with the administration of CellCept 500 mg powder for concentrate for solution for infusion has been shown to be similar to that observed after oral administration.
