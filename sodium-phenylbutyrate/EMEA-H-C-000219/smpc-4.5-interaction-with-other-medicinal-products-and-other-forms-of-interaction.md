@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Concurrent administration of probenicid may affect renal excretion of the conjugation product of sodium phenylbutyrate.
+Concurrent administration of probenecid may affect renal excretion of the conjugation product of sodium phenylbutyrate.
 
 There have been published reports of hyperammonaemia being induced by haloperidol and by valproate.
 Corticosteroids may cause the breakdown of body protein and thus increase plasma ammonia levels.

@@ -1,6 +1,7 @@
 # 4.9 Overdose
 
-One case of overdose occurred in a 5-month old infant with an accidental single dose of 10 g (1370 mg/kg).
+One case of overdose occurred in a 5-month old infant with an accidental single dose of 10 g
+(1370 mg/kg).
 The patient developed diarrhoea, irritability and metabolic acidosis with hypokalaemia.
 The patient recovered within 48 hours after symptomatic treatment.
 

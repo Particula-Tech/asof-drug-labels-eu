@@ -13,6 +13,8 @@ Even on therapy, acute hyperammonaemic encephalopathy may occur in a number of p
 
 AMMONAPS is not recommended for the management of acute hyperammonaemia, which is a medical emergency.
 
+In children unable to swallow tablets, it is recommended to use AMMONAPS granules instead.
+
 [AMMONAPS 940 mg/g granules]
 
 AMMONAPS granules contain 124 mg (5.4 mmol) of sodium per gram of sodium phenylbutyrate, corresponding to 2.5 g (108 mmol) of sodium per 20 g of sodium phenylbutyrate, which is the maximum daily dose.

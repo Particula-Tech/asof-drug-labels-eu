@@ -27,11 +27,10 @@ In the majority of patients with urea cycle disorders or haemoglobinopathies rec
 In patients with impaired hepatic function the conversion of phenylacetate to phenylacetylglutamine may be relatively slower.
 Three cirrhotic patients (out of 6) who received repeated oral administration of sodium phenylbutyrate (20 g/day in three doses) showed sustained plasma levels of phenylacetate on the third day that were five times higher than those achieved after the first dose.
 
-In normal volunteers gender differences were found in the pharmacokinetic parameters of phenylbutyrate and phenylacetate (AUC and Cmax about 30-50 % greater in females), but not phenylacetylglutamine.
+In normal volunteers gender differences were found in the pharmacokinetic parameters of phenylbutyrate and phenylacetate (AUC and Cmax about 30 - 50 % greater in females), but not phenylacetylglutamine.
 This may be due to the lipophilicity of sodium phenylbutyrate and consequent differences in volume of distribution.
-
 Excretion
-Approximately 80-100 % of the medicinal product is excreted by the kidneys within 24 hours as the conjugated product, phenylacetylglutamine.
+Approximately 80 - 100 % of the medicinal product is excreted by the kidneys within 24 hours as the conjugated product, phenylacetylglutamine.
 
 [AMMONAPS 940 mg/g granules]
 
