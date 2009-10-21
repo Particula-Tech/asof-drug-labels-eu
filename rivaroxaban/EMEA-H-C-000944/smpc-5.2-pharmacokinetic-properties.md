@@ -9,7 +9,6 @@ Rivaroxaban pharmacokinetics are approximately linear up to about 15 mg once dai
 At higher doses rivaroxaban displays dissolution limited absorption with decreased bioavailability and decreased absorption rate with increased dose.
 This is more marked in fasting state than in fed state.
 Variability in rivaroxaban pharmacokinetics is moderate with inter-individual variability (CV %) ranging from 30 % to 40 %, apart from the day of surgery and the following day when variability in exposure is high (70 %).
-
 Distribution
 Plasma protein binding in humans is high at approximately 92 % to 95 %, with serum albumin being the main binding component.
 The volume of distribution is moderate with Vss being approximately 50 litres.
@@ -58,6 +57,7 @@ There are no data in patients with creatinine clearance < 15 ml/min.
 Due to the high plasma protein binding rivaroxaban is not expected to be dialysable.
 Use is not recommended in patients with creatinine clearance < 15 ml/min.
 Xarelto is to be used with caution in patients with creatinine clearance 15 - 29 ml/min (see section 4.4).
+
 Pharmacokinetic/pharmacodynamic relationship
 The Pharmacokinetic/pharmacodynamic (PK/PD) relationship between rivaroxaban plasma concentration and several PD endpoints (Factor Xa inhibition, PT, aPTT, Heptest) has been evaluated after administration of a wide range of doses (5 - 30 mg bid).
 Rivaroxaban 10 mg od results in a steady state Cmax of about 125 µg/l.
