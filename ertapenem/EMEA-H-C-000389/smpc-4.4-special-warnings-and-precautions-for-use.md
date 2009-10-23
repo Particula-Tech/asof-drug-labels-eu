@@ -18,6 +18,8 @@ Medicinal products that inhibit peristalsis should not be given.
 Seizures have been reported during clinical investigation in adult patients treated with ertapenem sodium (1 g once a day) during therapy or in the 14-day follow-up period.
 Seizures occurred most commonly in elderly patients and those with pre-existing CNS disorders (e.g., brain lesions or history of seizures) and/or compromised renal function.
 Similar observations have been made in the post-marketing environment.
+The concomitant use of ertapenem and valproic acid/sodium valproate is not recommended (see section 4.5).
+
 The efficacy of INVANZ in the treatment of community acquired pneumonia due to penicillin-resistant Streptococcus pneumoniae has not been established.
 
 There is relatively little experience with ertapenem in children less than two years of age.
