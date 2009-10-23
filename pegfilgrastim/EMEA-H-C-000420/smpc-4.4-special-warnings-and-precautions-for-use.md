@@ -34,8 +34,8 @@ Therefore, physicians should exercise caution when administering Neulasta in pat
 White blood cell counts of 100 x 109/l or greater have been observed in less than 1% of patients receiving Neulasta.
 No adverse events directly attributable to this degree of leukocytosis have been reported.
 Such elevation in white blood cells is transient, typically seen 24 to 48 hours after administration and is consistent with the pharmacodynamic effects of Neulasta.
-
 The safety and efficacy of Neulasta for the mobilisation of blood progenitor cells in patients or healthy donors has not been adequately evaluated.
+
 The needle cover of the pre-filled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions.
 
 Increased haematopoietic activity of the bone marrow in response to growth factor therapy has been associated with transient positive bone imaging findings.
@@ -45,9 +45,3 @@ Neulasta contains sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
 
 Neulasta contains less than 1 mmol (23 mg) sodium per 6 mg dose, i.e. essentially ‘sodium-free’.
-
-[Neulasta 6 mg solution for injection in a pre-filled pen.]
-
-(< 1/10,000 cases of splenic rupture, including some fatal cases, have been reported following administration of pegfilgrastim.
-
-The needle cover of the pre-filled pen contains dry natural rubber (a derivative of latex), which may cause allergic reactions.

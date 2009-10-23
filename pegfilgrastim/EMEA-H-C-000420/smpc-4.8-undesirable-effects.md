@@ -1,8 +1,8 @@
 # 4.8 Undesirable effects
 
 In randomised clinical studies in patients with malignancy receiving Neulasta after cytotoxic chemotherapy, most adverse events were caused by the underlying malignancy or cytotoxic chemotherapy.
-
 The most frequently reported and very common study-drug related undesirable effect was bone pain Bone pain was generally of mild-to-moderate severity, transient and could be controlled in most patients with standard analgesics.
+
 Allergic-type reactions, including anaphylaxis, skin rash, urticaria, angioedema, dyspnoea, hypotension, injection site reactions, erythaema and flushing, occurring on initial or subsequent treatment have been reported with Neulasta.
 In some cases, symptoms have recurred with rechallenge, suggesting a causal relationship.
 If a serious allergic reaction occurs, appropriate therapy should be administered, with close patient follow-up over several days.
@@ -28,3 +28,8 @@ Very rare (< 1/10,000) elevations in liver function tests (LFTs) for ALT (alanin
 These elevations are transient and return to baseline.
 
 Isolated cases of sickle cell crises have been reported in patients with sickle cell disease (see section 4.4).
+
+Paediatric Patients
+
+A higher frequency of serious adverse events in younger children aged 0-5 years (92%) has been observed compared to older children aged 6-11 and 12-21 years respectively (80% and 67%) and adults.
+The most common adverse study medicinal product reaction was bone pain (see section 5.1 and 5.2).
