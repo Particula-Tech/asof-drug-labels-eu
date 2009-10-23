@@ -36,9 +36,10 @@ Lipid disorders should be managed as clinically appropriate (see section 4.8).
 
 Pancreatitis: Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur.
 Patients who exhibit these signs or symptoms should be evaluated and Norvir therapy should be discontinued if a diagnosis of pancreatitis is made (see section 4.8).
+
 Immune Reactivation Syndrome: in HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymtomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
-Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis carinii pneumonia.
+Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jiroveci pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
 Liver disease: Ritonavir should not be given to patients with decompensated liver disease.
@@ -67,6 +68,7 @@ Patients should be advised to seek medical advice if they experience joint aches
 PR interval prolongation: ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects.
 Rare reports of 2nd or 3rd degree atrioventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving drugs known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
 Norvir should be used with caution in such patients (see section 5.1).
+
 Interactions with other medicinal products
 
 Ritonavir dosed as an antiretroviral agent
@@ -75,8 +77,9 @@ The following Warnings and Precautions should be considered when ritonavir is us
 When ritonavir is used as a pharmacokinetic enhancer at the 100 mg and 200 mg level it cannot be assumed that the following warnings and precautions will also apply.
 When ritonavir is used as a pharmacokinetic enhancer, full details on the warnings and precautions relevant to that particular PI must be considered, therefore the Summary of Product Characteristics, section 4.4, for the particular PI must be consulted to determine if the information below is applicable.
 
-PDE5 inhibitors: Particular caution should be used when prescribing sildenafil, tadalafil or vardenafil in patients receiving ritonavir.
+PDE5 inhibitors: Particular caution should be used when prescribing sildenafil, tadalafil or vardenafil for the treatment of erectile dysfunction in patients receiving ritonavir.
 Co-administration of ritonavir with these medicinal products is expected to substantially increase their concentrations and may result in associated adverse events such as hypotension and prolonged erection (see section 4.5).
+Concomitant use of sildenafil with ritonavir is contraindicated in pulmonary arterial hypertension patients (see section 4.3).
 
 HMG-CoA reductase inhibitors: The HMG-CoA reductase inhibitors simvastatin and lovastatin are highly dependent on CYP3A for metabolism, thus concomitant use of ritonavir with simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
 Caution must also be exercised and reduced doses should be considered if ritonavir is used concurrently with atorvastatin, which is metabolised to a lesser extent by CYP3A.
@@ -103,6 +106,7 @@ Trazodone is a CYP3A4 substrate and co-administration of ritonavir is expected t
 Adverse events of nausea, dizziness, hypotension and syncope have been observed in single dose interaction studies in healthy volunteers (see section 4.5)
 
 Ritonavir dosed as a pharmacokinetic enhancer
+
 The interaction profiles of HIV-protease inhibitors, co-administered with low dose ritonavir, are dependant on the specific co-administered protease inhibitor.
 
 For a description of the mechanisms and potential mechanisms contributing to the interaction profile of the PIs, see section 4.5.

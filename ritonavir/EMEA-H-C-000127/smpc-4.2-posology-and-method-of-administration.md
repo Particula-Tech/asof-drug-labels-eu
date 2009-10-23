@@ -17,7 +17,7 @@ Saquinavir 1000 mg twice daily with ritonavir 100 mg twice daily
 Tipranavir 500 mg twice daily with ritonavir 200 mg twice daily
 Darunavir 600 mg twice daily with ritonavir 100 mg twice daily
 
-Paediatric use: Lopinavir co-formulated with ritonavir is recommended for children 2 years of age and older.
+Paediatric use: Ritonavir is recommended for children 2 years of age and older.
 For further dosage recommendations, refer to the product information of other Protease Inhibitors approved for co-administered with ritonavir.
 Renal impairment: As ritonavir is primarily metabolised by the liver, ritonavir may be appropriate for use with caution as a pharmacokinetic enhancer in patients with renal insufficiency depending on the specific protease inhibitor with which it is co-administered.
 However, since the renal clearance of ritonavir is negligible, the decrease in the total body clearance is not expected in patients with renal impairment.
