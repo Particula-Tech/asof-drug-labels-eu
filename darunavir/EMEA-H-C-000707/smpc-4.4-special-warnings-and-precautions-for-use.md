@@ -83,9 +83,7 @@ PREZISTA tablets contain sunset yellow FCF (E110) which may cause an allergic re
 
 [PREZISTA 400 mg film-coated tablets]
 
-PREZISTA should only be used in combination with 100 mg of ritonavir as a pharmacokinetic enhancer (see section 5.2).
-
-In addition, reactivation of herpes simplex and herpes zoster has been observed in clinical studies with PREZISTA co-administered with 100 mg ritonavir.
+(all sentences already above)
 
 [PREZISTA 600 mg film-coated tablets]
 

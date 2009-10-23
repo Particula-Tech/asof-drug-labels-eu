@@ -70,16 +70,13 @@ For children weighing less than 40 kg, please also refer to the PREZISTA Summary
 
 [PREZISTA 400 mg film-coated tablets]
 
-PREZISTA must always be given orally with 100 mg ritonavir as a pharmacokinetic enhancer and in combination with other antiretroviral medicinal products.
-
 The recommended dosage of PREZISTA is 800 mg once daily (q.d.) taken with ritonavir 100 mg q.d. and with food.
 Patients should be instructed to take PREZISTA with low dose ritonavir within 30 minutes after completion of a meal.
 
 For dosage recommendations in ART-experienced patients see the Summary of Product Characteristics for PREZISTA 300 mg and 600 mg tablets.
 
-PREZISTA is not recommended for use in children and adolescents because due to insufficient data on safety, efficacy and pharmacokinetics.
-
-Therefore, PREZISTA should not be used in patients with severe hepatic impairment (Child-Pugh Class C) (see sections 4.3, 4.4 and 5.2).
+PREZISTA is not indicated for ART-naïve children and adolescents.
+For dosage recommendations in ART-experienced children and adolescents see the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg and 600 mg tablets.
 
 If an 800/100 mg once daily dose of PREZISTA/ritonavir is missed within 12 hours of the time it is usually taken, patients should be instructed to take the prescribed dose of PREZISTA and ritonavir with food as soon as possible.
 If this is noticed later than 12 hours of the time it is usually taken, the missed dose should not be taken and the patient should resume the usual dosing schedule.
@@ -90,4 +87,3 @@ This guidance is based on the 15 hour half-life of darunavir in the presence of 
 PREZISTA 600 mg tablets are not indicated for ART-naïve patients.
 
 The recommended dose of PREZISTA with low dose ritonavir for paediatric patients is based on body weight and should not exceed the recommended adult dose (600/100 mg b.i.d.).
-For children weighing less than 40 kg, please refer to the PREZISTA Summary of Product Characteristics of the 75 mg and 150 mg tablets.

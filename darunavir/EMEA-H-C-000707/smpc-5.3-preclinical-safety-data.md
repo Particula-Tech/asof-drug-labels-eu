@@ -33,19 +33,3 @@ Repeated administration of darunavir to rats caused hepatic microsomal enzyme in
 At the highest tested doses, the systemic exposures (based on AUC) to darunavir were between 0.4- and 0.7-fold (mice) and 0.7- and 1-fold (rats), relative to those observed in humans at the recommended therapeutic doses.
 After 2 years administration of darunavir at exposures at or below the human exposure, kidney changes were observed in mice (nephrosis) and rats (chronic progressive nephropathy).
 Darunavir was not mutagenic or genotoxic in a battery of in vitro and in vivo assays including bacterial reverse mutation (Ames), chromosomal aberration in human lymphocytes and in vivo micronucleus test in mice.
-
-[PREZISTA 150 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 300 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 400 mg film-coated tablets]
-
-In humans, the activity of drug-metabolising enzymes approaches adult values by 1 to 3 years of age.
-
-[PREZISTA 600 mg film-coated tablets]
-
-(all sentences already above)

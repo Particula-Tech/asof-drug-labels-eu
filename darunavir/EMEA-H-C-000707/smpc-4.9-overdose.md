@@ -7,19 +7,3 @@ Treatment of overdose with PREZISTA consists of general supportive measures incl
 If indicated, elimination of unabsorbed active substance is to be achieved by emesis or gastric lavage.
 Administration of activated charcoal may also be used to aid in removal of unabsorbed active substance.
 Since darunavir is highly protein bound, dialysis is unlikely to be beneficial in significant removal of the active substance.
-
-[PREZISTA 150 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 300 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 400 mg film-coated tablets]
-
-Human experience of acute overdose with PREZISTA co-administered with 100 mg ritonavir is limited.
-
-[PREZISTA 600 mg film-coated tablets]
-
-(all sentences already above)

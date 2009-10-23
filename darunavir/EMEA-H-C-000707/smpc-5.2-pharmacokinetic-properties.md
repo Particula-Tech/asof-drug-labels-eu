@@ -67,8 +67,6 @@ The effect of severe hepatic impairment on the pharmacokinetics of darunavir has
 
 [PREZISTA 400 mg film-coated tablets]
 
-There are no pharmacokinetic data available in children and adolescents.
-
 Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (see section 4.4).
 
 Population pharmacokinetic analysis showed a slightly higher darunavir exposure in HIV infected females compared to males.

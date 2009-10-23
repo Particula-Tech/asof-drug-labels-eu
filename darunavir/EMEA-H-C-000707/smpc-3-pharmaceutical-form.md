@@ -1,11 +1,11 @@
 # 3. PHARMACEUTICAL FORM
 
 Film-coated tablet.
-White caplet-shaped tablet, debossed with “75” on one side and “TMC” on the other side.
+White caplet shaped tablet, debossed with “75” on one side and “TMC” on the other side.
 
 [PREZISTA 150 mg film-coated tablets]
 
-White oval-shaped tablet, debossed with “150” on one side and “TMC” on the other side.
+White oval shaped tablet, debossed with “150” on one side and “TMC” on the other side.
 
 [PREZISTA 300 mg film-coated tablets]
 

@@ -1,10 +1,10 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
-EU/0/00/000/000
+EU/1/06/380/005
 
 [PREZISTA 150 mg film-coated tablets]
 
-(all sentences already above)
+EU/1/06/380/004
 
 [PREZISTA 300 mg film-coated tablets]
 

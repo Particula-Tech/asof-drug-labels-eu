@@ -13,19 +13,3 @@ Because of both the potential for HIV transmission and the potential for adverse
 Fertility
 No human data on the effect of darunavir on fertility are available.
 There was no effect on mating or fertility with darunavir treatment in rats (see section 5.3).
-
-[PREZISTA 150 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 300 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 400 mg film-coated tablets]
-
-PREZISTA co-administered with 100 mg ritonavir should be used during pregnancy only if the potential benefit justifies the potential risk.
-
-[PREZISTA 600 mg film-coated tablets]
-
-(all sentences already above)
