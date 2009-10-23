@@ -9,7 +9,6 @@ Plasma concentrations of both pro-drug and active metabolite are proportional to
 Distribution
 The mean volume of distribution at steady state of the oseltamivir carboxylate is approximately 23 litres in humans, a volume equivalent to extracellular body fluid.
 Since neuraminidase activity is extracellular, oseltamivir carboxylate distributes to all sites of influenza virus spread.
-
 The binding of the oseltamivir carboxylate to human plasma protein is negligible (approximately 3 %).
 
 Metabolism
@@ -36,9 +35,29 @@ Elderly
 Exposure to the active metabolite at steady state was 25 to 35 % higher in elderly (age 65 to 78 years) compared to adults less than 65 years of age given comparable doses of oseltamivir.
 Half-lives observed in the elderly were similar to those seen in young adults.
 On the basis of drug exposure and tolerability, dosage adjustments are not required for elderly patients unless there is evidence of severe renal impairment (creatinine clearance below 30 ml/min) (see section 4.2).
+
 Children
-The pharmacokinetics of oseltamivir have been evaluated in single-dose pharmacokinetic studies in children aged 1 to 16 years.
+Children 1 year of age and older: The pharmacokinetics of oseltamivir have been evaluated in single-dose pharmacokinetic studies in children aged 1 to 16 years.
 Multiple-dose pharmacokinetics were studied in a small number of children enrolled in a clinical efficacy study.
 Younger children cleared both the pro-drug and its active metabolite faster than adults, resulting in a lower exposure for a given mg/kg dose.
 Doses of 2 mg/kg give oseltamivir carboxylate exposures comparable to those achieved in adults receiving a single 75 mg dose (approximately 1 mg/kg).
 The pharmacokinetics of oseltamivir in children over 12 years of age are similar to those in adults.
+
+Infants below 12 months of age: Limited pharmacokinetic and safety data are available for infants less than 2 years of age.
+Pharmacokinetic modeling was undertaken using these data in addition to data from studies in adults and children older than 1 year of age.
+The results demonstrate that doses of 3 mg/kg twice daily for infants aged 3 to 12 months and 2.5 mg/kg twice daily for infants aged between 1 and 3 months provide exposures similar to those shown to be clinically efficacious in adults and children > 1 year of age (see sections 4.1 and 4.2).
+There are currently no data available in infants less than 1 month of age using Tamiflu.
+
+[Tamiflu 45 mg hard capsule.]
+
+Children one year of age and older: The pharmacokinetics of oseltamivir have been evaluated in single-dose pharmacokinetic studies in children aged 1 to 16 years.
+
+There are currently no data available in patients less than 1 month of age using Tamiflu.
+
+[Tamiflu 75 mg hard capsule.]
+
+(all sentences already above)
+
+[Tamiflu 12 mg/ml powder for oral suspension.]
+
+(all sentences already above)
