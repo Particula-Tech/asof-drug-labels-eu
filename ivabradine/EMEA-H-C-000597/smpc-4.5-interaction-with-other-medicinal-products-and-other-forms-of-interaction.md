@@ -34,6 +34,7 @@ Therefore the intake of grapefruit juice should be restricted during the treatme
 The concomitant use of CYP3A4 inducing medicinal products may require an adjustment of the dose of ivabradine.
 The combination of ivabradine 10 mg twice daily with St John’s Wort was shown to reduce ivabradine AUC by half.
 The intake of St John’s Wort should be restricted during the treatment with ivabradine.
+
 Other concomitant use
 Specific drug-drug interaction studies have shown no clinically significant effect of the following medicinal products on pharmacokinetics and pharmacodynamics of ivabradine: proton pump inhibitors (omeprazole, lansoprazole), sildenafil, HMG CoA reductase inhibitors (simvastatin), dihydropyridine calcium channel blockers (amlodipine, lacidipine), digoxin and warfarin.
 In addition there was no clinically significant effect of ivabradine on the pharmacokinetics of simvastatin, amlodipine, lacidipine, on the pharmacokinetics and pharmacodynamics of digoxin, warfarin and on the pharmacodynamics of aspirin.

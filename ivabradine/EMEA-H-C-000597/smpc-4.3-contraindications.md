@@ -8,7 +8,7 @@
 - Severe hepatic insufficiency
 - Sick sinus syndrome
 - Sino-atrial block
-- Heart failure patients with NYHA functional classification III-IV due to a lack of data
+- Heart failure patients with NYHA functional classification III-IV
 - Pacemaker dependent
 - Unstable angina
 - AV-block of 3rd degree

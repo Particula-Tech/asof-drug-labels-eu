@@ -13,15 +13,14 @@ Ivabradine is not recommended in patients with AV-block of 2nd degree.
 Use in patients with a low heart rate
 Ivabradine must not be initiated in patients with a pre-treatment resting heart rate below 60 beats per minute (see section 4.3).
 If, during treatment, resting heart rate decreases persistently below 50 bpm or the patient experiences symptoms related to bradycardia such as dizziness, fatigue or hypotension, the dose must be titrated downward or treatment discontinued if heart rate below 50 bpm or symptoms of bradycardia persist (see section 4.2).
-Combination with other antianginal therapies
+Combination with calcium channel blockers
 Concomitant use of ivabradine with heart rate reducing calcium channel blockers such as verapamil or diltiazem is not recommended (see section 4.5).
 No safety issue has been raised on the combination of ivabradine with nitrates and dihydropyridine calcium channel blockers such as amlodipine.
 Additional efficacy of ivabradine in combination with dihydropyridine calcium channel blockers has not been established (see section 5.1).
 
 Chronic heart failure
 Heart failure must be appropriately controlled before considering ivabradine treatment.
-The use of ivabradine is contra-indicated in heart failure patients with NYHA functional classification III-IV, due to a lack of data on clinical efficacy and safety (see section 4.3).
-Caution is needed in patients with asymptomatic left ventricular dysfunction, as well as in heart failure patients with NYHA functional classification II due to a limited number of patients studied.
+The use of ivabradine is contra-indicated in heart failure patients with NYHA functional classification III-IV and should be used with caution in heart failure patients with NYHA functional classification I-II (see section 4.3).
 
 Stroke
 The use of ivabradine is not recommended immediately after a stroke since no data is available in these situations.

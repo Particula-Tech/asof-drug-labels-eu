@@ -17,8 +17,8 @@ Ivabradine does not influence intracardiac conduction, contractility (no negativ
 - in clinical electrophysiology studies, ivabradine had no effect on atrioventricular or intraventricular conduction times or corrected QT intervals;
 - in patients with left ventricular dysfunction (left ventricular ejection fraction (LVEF) between 30 and 45%), ivabradine did not have any deleterious influence on LVEF.
 
-The antianginal and anti-ischaemic efficacy of Procoralan was studied in four double-blind randomised trials (two versus placebo, and one each versus atenolol and amlodipine).
-These trials included a total of 3,222 patients with chronic stable angina pectoris, of whom 2,168 received ivabradine.
+The antianginal and anti-ischaemic efficacy of Procoralan was studied in five double-blind randomised trials (three versus placebo, and one each versus atenolol and amlodipine).
+These trials included a total of 4,111 patients with chronic stable angina pectoris, of whom 2,617 received ivabradine.
 
 Ivabradine 5 mg twice daily was shown to be effective on exercise test parameters within 3 to 4 weeks of treatment.
 Efficacy was confirmed with 7.5 mg twice daily.
@@ -26,6 +26,8 @@ In particular, the additional benefit over 5 mg twice daily was established in a
 In this study, the antianginal and anti-ischaemic benefits of ivabradine were confirmed in patients aged 65 years or more.
 The efficacy of 5 and 7.5 mg twice daily was consistent across studies on exercise test parameters (total exercise duration, time to limiting angina, time to angina onset and time to 1mm ST segment depression) and was associated with a decrease of about 70% in the rate of angina attacks.
 The twice-daily dosing regimen of ivabradine gave uniform efficacy over 24 hours.
+
+In a 889-patients randomised placebo-controlled study, ivabradine given on top of atenolol 50 mg o.d. showed additional efficacy on all ETT parameters at the trough of drug activity (12 hours after oral intake).
 
 In a 725-patients randomised placebo-controlled study, ivabradine did not show additional efficacy on top of amlodipine at the trough of drug activity (12 hours after oral intake) while an additional efficacy was shown at peak (3-4 hours after oral intake).
 
@@ -36,5 +38,9 @@ The effects on blood pressure and peripheral vascular resistance were minor and 
 
 A sustained reduction of heart rate was demonstrated in patients treated with ivabradine for at least one year (n = 713).
 No influence on glucose or lipid metabolism was observed.
-
 The antianginal and anti-ischaemic efficacy of ivabradine was preserved in diabetic patients (n = 457) with a similar safety profile as compared to the overall population.
+
+A large outcome study, BEAUTIFUL, was performed in 10917 patients with coronary artery disease and left ventricular dysfunction (LVEF<40%) on top of optimal background therapy with 86.9% of patients receiving beta-blockers.
+The main efficacy criterion was the composite of cardiovascular death, hospitalization for acute MI or hospitalization for new onset or worsening heart failure.
+The study showed no difference in the rate of the primary composite outcome in the ivabradine group by comparison to the placebo group (relative risk ivabradine:placebo 1.00, p=0.945).
+In a post-hoc subgroup of patients with symptomatic angina at randomisation (n=1507), no safety signal was identified regarding cardiovascular death, hospitalization for acute MI or heart failure (ivabradine 12.0% versus placebo 15.5%, p=0.05).

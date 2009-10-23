@@ -1,3 +1,6 @@
 # 4.1 Therapeutic indications
 
-Symptomatic treatment of chronic stable angina pectoris in patients with normal sinus rhythm, who have a contra-indication or intolerance for beta-blockers.
+Symptomatic treatment of chronic stable angina pectoris in coronary artery disease patients with normal sinus rhythm.
+Ivabradine is indicated :
+- in patients unable to tolerate or with a contra-indication to the use of beta-blockers
+- or in combination with beta-blockers in patients inadequately controlled with an optimal beta-blocker dose and whose heart rate is > 60 bpm.

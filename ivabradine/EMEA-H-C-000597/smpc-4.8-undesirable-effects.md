@@ -4,7 +4,7 @@ Procoralan has been studied in clinical trials involving nearly 5,000 participan
 Approximately 2,900 patients have been treated with ivabradine in phase II-III studies.
 The most common undesirable effects with ivabradine are dose dependent and related to the pharmacological effect of the medicinal product.
 
-The following adverse effects or events have been reported during clinical trials and are ranked using the following frequency: very common (>1/10); common (>1/100, <1/10); uncommon (>1/1000, <1/100); rare (>1/10000, <1/1000); very rare (<1/10000); not known (cannot be estimated from the available data).
+The following adverse effects or events have been reported during clinical trials and are ranked using the following frequency: very common (≥1/10); common (≥1/100, <1/10); uncommon (≥1/1000, <1/100); rare (≥1/10000, <1/1000); very rare (<1/10000); not known (cannot be estimated from the available data).
 
 Investigations:
 Uncommon:
@@ -18,9 +18,9 @@ Common:
 0.5% of patients experienced a severe bradycardia below or equal to 40 bpm.
 - AV 1st degree block (ECG prolonged PQ interval)
 - Ventricular extrasystoles
+
 Uncommon:
 - Palpitations, supraventricular extrasystoles
-
 The following events reported during clinical trials were of similar incidence than comparators and/or possibly related to the underlying disease: sinus arrhythmia, unstable angina, angina pectoris aggravated, atrial fibrillation, myocardial ischaemia, myocardial infarction and ventricular tachycardia.
 
 Eye disorders:

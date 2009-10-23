@@ -16,6 +16,7 @@ Renal insufficiency
 No dose adjustment is required in patients with renal insufficiency and creatinine clearance above 15 ml/min (see section 5.2).
 No data are available in patients with creatinine clearance below 15 ml/min.
 Ivabradine should therefore be used with precaution in this population.
+
 Hepatic impairment
 No dose adjustment is required in patients with mild hepatic impairment.
 Caution should be exercised when using ivabradine in patients with moderate hepatic impairment.
