@@ -11,6 +11,7 @@ In an interaction study based on data from 17 patients, assessing the effect of 
 Patients should be closely monitored when given bortezomib in combination with CYP2C19 inhibitors (e.g. fluoxetine).
 
 In the absence of interaction studies investigating the effect of CYP3A4 inducers on the pharmacokinetics of bortezomib, patients should be closely monitored when given bortezomib in combination with potent CYP3A4 inducers (e.g. rifampicin).
+
 An interaction study assessing the effect of melphalan-prednisone on bortezomib showed a 17% increase in mean bortezomib AUC based on data from 21 patients.
 This is not considered clinically relevant.
 

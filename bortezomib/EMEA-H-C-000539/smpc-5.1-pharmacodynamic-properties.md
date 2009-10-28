@@ -25,6 +25,9 @@ In myeloma, bortezomib affects the ability of myeloma cells to interact with the
 Experiments have demonstrated that bortezomib is cytotoxic to a variety of cancer cell types and that cancer cells are more sensitive to the pro-apoptotic effects of proteasome inhibition than normal cells.
 Bortezomib causes reduction of tumour growth in vivo in many preclinical tumour models, including multiple myeloma.
 
+Data from in vitro, ex-vivo, and animal models with bortezomib suggest that it increases osteoblast differentiation and activity and inhibits osteoclast function.
+These effects have been observed in patients with multiple myeloma affected by an advanced osteolytic disease and treated with bortezomib.
+
 Clinical efficacy in previously untreated multiple myeloma
 A prospective Phase III, international, randomised (1:1), open-label clinical study (VISTA) of 682 patients was conducted to determine whether VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) resulted in improvement in time to progression (TTP) when compared to melphalan (9 mg/m2) and prednisone (60 mg/m2) in patients with previously untreated multiple myeloma.
 Treatment was administered for a maximum of 9 cycles (approximately 54 weeks) and was discontinued early for disease progression or unacceptable toxicity.
@@ -46,7 +49,7 @@ Creatinine clearance ≤30 ml/min [n (%)] 20 (6%) 16 (5%)
 At the time of a pre-specified interim analysis, the primary endpoint, time to progression, was met and patients in the M+P arm were offered Vc+M+P treatment.
 Survival continued to be followed after the interim analysis.
 Median follow-up was 16.3 months.
-Efficacy results are presented in Table 8:
+Efficacy results are presented in Table 8
 Table8: Summary of efficacy analyses in the VISTA study
 
 | Efficacy endpoint | Vc+M+P n=344 | M+P n=338 |
@@ -109,7 +112,7 @@ Table 10: Patient characteristics in Phase II and Phase III studies
 | Male % | 60 | 56 | 60 |
 | Median age, yrs (range) | 59 (34-84) | 61 (33-84) | 61 (27-86) |
 | Caucasian | 81 % | 90 % | 88 % |
-| Karnofsky PS >80% | 80 | 87 % | 84 % |
+| Karnofsky PS >80% | 80 % | 87 % | 84 % |
 | Platelets < 75,000/μl | 21 % | 6 % | 4 % |
 | Hemoglobin < 100g/l | 44 % | 32 % | 28 % |
 | Median Creatinine Clearance, ml/min (range) | 74 (14-221) | 73.3 (15.6-170.7) | 73.3 (15.3-261.1) |
@@ -162,6 +165,7 @@ Table 12: Summary of disease outcomes from the Phase III and Phase II studies
 | CR+ nCR + PR | 121 (38) b | 56 (18) b | 57 (45) d | 29 (26) d | 64 (34) b | 27 (13) b | (27)** |
 | CR + nCR+ PR+MR | 146 (46) | 108 (35) | 66 (52) | 45 (41) | 80 (43) | 63 (31) | (35)** |
 | Median duration | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
+|  | All patients |  | 1 Prior line of therapy |  | >1 Prior line of therapy |  | ≥2 prior lines |
 | Days (months) |  |  |  |  |  |  |  |
 | Time to response CR + PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |
 
@@ -238,7 +242,7 @@ Table 8: Summary of Efficacy Analyses in the VISTA study
 | Male % | 60 | 56 | 60 |
 | Median age, yrs (range) | 59 (34-84) | 61 (33-84) | 61 (27-86) |
 | Caucasian | 81 % | 90 % | 88 % |
-| Karnofsky PS >80% | 80 | 87 % | 84 % |
+| Karnofsky PS >80% | 80 % | 87 % | 84 % |
 | Platelets < 75,000/μl | 21 % | 6 % | 4 % |
 | Hemoglobin < 100g/l | 44 % | 32 % | 28 % |
 | Median Creatinine Clearance, ml/min (range) | 74 (14-221) | 73.3 (15.6-170.7) | 73.3 (15.3-261.1) |

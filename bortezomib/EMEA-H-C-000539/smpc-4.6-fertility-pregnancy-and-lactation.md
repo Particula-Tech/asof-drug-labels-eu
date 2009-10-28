@@ -1,7 +1,6 @@
 # 4.6 Pregnancy and lactation
 
 The teratogenic potential of bortezomib has not been fully investigated.
-
 In non-clinical studies, bortezomib had no effects on embryonal/foetal development in rats and rabbits at the highest maternally tolerated doses.
 Animal studies to determine the effects of bortezomib on parturition and post-natal development were not conducted (see section 5.3).
 VELCADE should not be used during pregnancy unless clearly necessary.

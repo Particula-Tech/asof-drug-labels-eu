@@ -1,7 +1,6 @@
 # 6.3 Shelf life
 
 3 years
-
 Reconstituted solution:
 The reconstituted solution should be used immediately after preparation.
 If the reconstituted solution is not used immediately, in-use storage times and conditions prior to use are the responsibility of the user.
