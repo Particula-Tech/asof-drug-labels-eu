@@ -9,6 +9,7 @@ In twelve-month neurotoxicity studies in dogs and monkeys, no functional effects
 
 Pulmonary phospholipidosis resulting in dilatation and obstruction of the alveoli was observed in the 2-year study in rats.
 These findings are not necessarily indicative of a potential for functional changes in humans.
+
 No effects on electrocardiograms, including QT and QTc intervals, were seen in a repeat dose safety pharmacology study in monkeys at systemic exposures 4.6-fold greater than the exposures obtained at therapeutic doses in humans.
 Echocardiography revealed no indication of cardiac decompensation in a repeat dose safety pharmacology study in rats at a systemic exposure 1.4-fold greater than that achieved therapeutically.
 Increased systolic and arterial blood pressures (up to 29 mm-Hg) were seen in rats and monkeys at systemic exposures 1.4-fold and 4.6-fold greater, respectively, than those achieved with therapeutic doses.

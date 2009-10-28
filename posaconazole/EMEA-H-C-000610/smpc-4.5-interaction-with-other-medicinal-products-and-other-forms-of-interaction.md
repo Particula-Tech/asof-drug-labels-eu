@@ -3,6 +3,7 @@
 Effects of other medicinal products on posaconazole:
 Posaconazole is metabolised via UDP glucuronidation (phase 2 enzymes) and is a substrate for p-glycoprotein (P-gp) efflux in vitro.
 Therefore, inhibitors (e.g. verapamil, ciclosporin, quinidine, clarithromycin, erythromycin, etc.) or inducers (e.g. rifampicin, rifabutin, certain anticonvulsants, etc.) of these clearance pathways may increase or decrease posaconazole plasma concentrations, respectively.
+
 Rifabutin (300 mg once a day) decreased the Cmax (maximum plasma concentration) and AUC (area under the plasma concentration time curve) of posaconazole to 57 % and 51 %, respectively.
 Concomitant use of posaconazole and rifabutin and similar inducers (e.g. rifampicin) should be avoided unless the benefit to the patient outweighs the risk.
 See also below regarding the effect of posaconazole on rifabutin plasma levels.
@@ -14,8 +15,9 @@ Phenytoin (200 mg once a day) decreased the Cmax and AUC of posaconazole by 41 %
 Concomitant use of posaconazole and phenytoin and similar inducers (e.g. carbamazepine, phenobarbital, primidone) should be avoided unless the benefit to the patient outweighs the risk.
 
 H2 receptor antagonists and proton pump inhibitors: Posaconazole plasma concentrations (Cmax and AUC) were reduced by 39 % when posaconazole was administered with cimetidine (400 mg twice a day) due to reduced absorption possibly secondary to a decrease in gastric acid production.
-Concomitant use of posaconazole and cimetidine should be avoided unless the benefit to the patient outweighs the risk.
-The effect of other H2 receptor antagonists (e.g. famotidine, ranitidine) and proton pump inhibitors (e.g. omeprazole) that may suppress gastric acidity for several hours on plasma levels of posaconazole has not been studied but a reduction in bioavailability may occur so that co-administration should be avoided if possible.
+Co-administration of posaconazole with H2 receptor antagonists should be avoided if possible.
+Similarly, administration of 400 mg posaconazole with esomeprazole (40 mg daily) decreased mean Cmax and AUC by 46 % and 32 %, respectively, compared to dosing with 400 mg posaconazole alone.
+Co-administration of posaconazole with proton pump inhibitors should be avoided if possible.
 
 Effects of posaconazole on other medicinal products:
 Posaconazole is a potent inhibitor of CYP3A4.

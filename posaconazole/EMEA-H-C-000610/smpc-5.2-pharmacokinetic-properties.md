@@ -5,12 +5,11 @@ Posaconazole is absorbed with a median tmax of 3 hours (fed patients).
 The pharmacokinetics of posaconazole are linear following single and multiple dose administration of up to 800 mg when taken with a high fat meal.
 No further increases in exposure were observed when doses above 800 mg daily were administered to patients and healthy volunteers.
 In the fasting state, AUC increased less than in proportion to dose above 200 mg.
-In healthy volunteers under fasting conditions, dividing the total daily dose (800 mg) into 200 mg four times daily compared to 400 mg twice daily, was shown to increase posaconazole exposure by 58 % over 48 hours.
+In healthy volunteers under fasting conditions, dividing the total daily dose (800 mg) into 200 mg four times daily compared to 400 mg twice daily, was shown to increase posaconazole exposure by 2.6-fold.
 
 Effect of food on oral absorption in healthy volunteers
-The AUC of posaconazole is about 2.6 times greater when administered with a non-fat meal or nutritional supplement (14 grams fat) and 4 times greater when administered with a high-fat meal
-(~ 50 grams fat) relative to the fasted state.
-Posaconazole should be administered with food or a nutritional supplement (see section 4.2).
+The absorption of posaconazole was significantly increased when posaconazole 400 mg (QD) was administered during and immediately after the consumption of a high fat meal (~ 50 grams fat) compared to administration before a meal, with Cmax and AUC increasing by approximately 330 % and 360 %, respectively.
+The AUC of posaconazole is: 4 times greater when administered with a high-fat meal (~ 50 grams fat) and about 2.6 times greater when administered during a non-fat meal or nutritional supplement (14 grams fat) relative to the fasted state (see sections 4.2 and 4.5).
 
 Distribution
 Posaconazole is slowly absorbed and slowly eliminated with a large apparent volume of distribution (1,774 litres) and is highly protein bound (> 98 %), predominantly to serum albumin.
@@ -49,7 +48,8 @@ In subjects with severe renal impairment (n=6, Cl cr < 20 ml/min/1.73 m2), the A
 However, as posaconazole is not significantly renally eliminated, an effect of severe renal impairment on the pharmacokinetics of posaconazole is not expected and no dose adjustment is recommended.
 Posaconazole is not removed by haemodialysis.
 
-Hepatic impairment
-In a study with small number of subjects (n=12) who had hepatic impairment, there was an increase in exposure associated with prolongation of half-life in hepatic impaired patients (26.6, 35.3, and 46.1 hours for the mild, moderate and severe groups, respectively compared to 22.1 hours in subjects with normal hepatic function).
-An approximately 2-fold increase in steady-state AUC is estimated in patients with severe hepatic impairment.
-Due to the limited pharmacokinetic data in patients with hepatic impairment, posaconazole should be used with caution in patients with severe hepatic impairment since the prolonged half-life that may occur will lead to increased exposure.
+Hepatic insufficiency
+After a single oral dose of 400 mg posaconazole to patients with mild (Child-Pugh Class A), moderate (Child-Pugh Class B) or severe (Child-Pugh Class C) hepatic insufficiency (six per group), the mean AUC was 1.3 to 1.6-fold higher compared to that for matched control subjects with normal hepatic function.
+Unbound concentrations were not determined and it cannot be excluded that there is a larger increase in unbound posaconazole exposure than the observed 60 % increase in total AUC.
+The elimination half-life (t1/2) was prolonged from approximately 27 hours up to ~43 hours in respective groups.
+No dose adjustment is recommended for patients with mild to severe hepatic insufficiency but caution is advised due to the potential for higher plasma exposure.

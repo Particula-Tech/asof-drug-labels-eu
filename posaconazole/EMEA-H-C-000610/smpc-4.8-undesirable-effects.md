@@ -2,6 +2,7 @@
 
 The safety of posaconazole has been assessed in > 2,400 patients and healthy volunteers enrolled in clinical trials and from post-marketing experience.
 The most frequently reported serious related adverse events included nausea, vomiting, diarrhoea, pyrexia, and increased bilirubin.
+
 Table 2.
 Treatment-related adverse events (TRAE) by body system and frequency
 Common (≥1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000)

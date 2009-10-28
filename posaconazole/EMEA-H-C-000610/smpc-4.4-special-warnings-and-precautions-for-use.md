@@ -6,8 +6,7 @@ Caution should be used when prescribing Noxafil to patients with hypersensitivit
 Hepatic toxicity: Hepatic reactions (e.g. mild to moderate elevations in ALT, AST, alkaline phosphatase, total bilirubin and/or clinical hepatitis) have been reported during treatment with posaconazole.
 Elevated liver function tests were generally reversible on discontinuation of therapy and in some instances these tests normalised without interruption of therapy.
 Rarely, more severe hepatic reactions with fatal outcomes have been reported.
-Posaconazole should be used with caution in patients with severe hepatic impairment.
-In these patients, the prolonged elimination half-life may lead to increased exposure.
+Posaconazole should be used with caution in patients with hepatic insufficiency due to limited clinical experience and the possibility that posaconazole plasma levels may be higher in these patients (see section 5.2).
 
 Monitoring of hepatic function: Patients who develop abnormal liver function tests during Noxafil therapy must be routinely monitored for the development of more severe hepatic injury.
 Patient management should include laboratory evaluation of hepatic function (particularly liver function tests and bilirubin).
