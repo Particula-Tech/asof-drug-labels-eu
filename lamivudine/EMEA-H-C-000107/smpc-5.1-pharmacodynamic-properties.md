@@ -23,7 +23,7 @@ Therefore, maintaining lamivudine therapy despite emergence of M184V mutation sh
 Cross-resistance conferred by the M184V RT is limited within the nucleoside inhibitor class of antiretroviral agents.
 Zidovudine and stavudine maintain their antiretroviral activities against lamivudine-resistant HIV-1.
 Abacavir maintains its antiretroviral activities against lamivudine-resistant HIV-1 harbouring only the M184V mutation.
-The M184V RT mutant shows a <4-fold decrease in susceptibility to didanosine and zalcitabine; the clinical significance of these findings is unknown.
+The M184V RT mutant shows a <4-fold decrease in susceptibility to didanosine; the clinical significance of these findings is unknown.
 In vitro susceptibility testing has not been standardised and results may vary according to methodological factors.
 
 Lamivudine demonstrates low cytotoxicity to peripheral blood lymphocytes, to established lymphocyte and monocyte-macrophage cell lines, and to a variety of bone marrow progenitor cells in vitro.
@@ -40,9 +40,9 @@ Lamivudine has been widely used as a component of antiretroviral combination the
 Multiple drug antiretroviral therapy containing lamivudine has been shown to be effective in antiretrovirally-naive patients as well as in patients presenting with viruses containing the M184V mutations.
 
 The relationship between in vitro susceptibility of HIV to lamivudine and clinical response to lamivudine-containing therapy remains under investigation.
-
 Lamivudine at a dose of 100 mg once daily has also been shown to be effective for the treatment of adult patients with chronic HBV infection (for details of clinical studies, see the prescribing information for Zeffix).
 However, for the treatment of HIV infection only a 300 mg daily dose of lamivudine (in combination with other antiretroviral agents) has been shown to be efficacious.
+
 Lamivudine has not been specifically investigated in HIV patients co-infected with HBV.
 
 Once daily dosing (300 mg once a day): a clinical study has demonstrated the non inferiority between Epivir once a day and Epivir twice a day containing regimens.

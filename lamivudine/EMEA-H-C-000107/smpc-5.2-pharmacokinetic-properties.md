@@ -29,9 +29,9 @@ The true extent of penetration or relationship with any clinical efficacy is unk
 
 Metabolism: The active moiety, intracellular lamivudine triphosphate, has a prolonged terminal half-life in the cell (16 to 19 hours) compared to the plasma lamivudine half-life (5 to 7 hours).
 In 60 healthy adult volunteers, Epivir 300 mg once daily has been demonstrated to be pharmacokinetically equivalent at steady-state to Epivir 150 mg twice daily with respect to intracellular triphosphate AUC24 and Cmax.
-
 Lamivudine is predominately cleared unchanged by renal excretion.
 The likelihood of metabolic interactions of lamivudine with other medicinal products is low due to the small extent of hepatic metabolism (5-10%) and low plasma protein binding.
+
 Elimination: Studies in patients with renal impairment show lamivudine elimination is affected by renal dysfunction.
 A recommended dosage regimen for patients with creatinine clearance below 50 ml/min is shown in the dosage section (see section 4.2).
 

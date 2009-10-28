@@ -19,11 +19,12 @@ Children (under 12 years of age):
 
 Since an accurate dosing can not be achieved with this formulation, dosing according to weight bands is recommended for Epivir tablets.
 This dosing regimen for paediatric patients weighing 14-30 kg is based primarily on pharmacokinetic modelling, with supporting data from clinical studies.
+
 For children weighing at least 30 kg: the adult dosage of 150 mg twice daily should be taken.
 
 For children weighing between 21 kg to 30 kg: the recommended oral dose of Epivir (150 mg) is one-half tablet taken in the morning and one whole tablet taken in the evening.
-
 For children weighing 14 to 21 kg: the recommended oral dose of Epivir (150 mg) is one half of a scored tablet taken twice daily.
+
 Epivir is also available as an oral solution for children over three months of age and who weigh less than 14 kg or for patients who are unable to swallow tablets.
 
 Less than three months of age: the limited data available are insufficient to propose specific dosage recommendations (see section 5.2).
@@ -31,7 +32,7 @@ Less than three months of age: the limited data available are insufficient to pr
 Renal impairment: Lamivudine concentrations are increased in patients with moderate - severe renal impairment due to decreased clearance.
 The dose should therefore be adjusted, using oral solution presentation of Epivir for patients whose creatinine clearance falls below 30 ml/min (see tables).
 
-Dosing recommendations – Adults and adolescents weighing at least 30 kg::
+Dosing recommendations – Adults and adolescents weighing at least 30 kg:
 
 | Creatinine clearance (ml/min) | First dose | Maintenance dose |
 | --- | --- | --- |

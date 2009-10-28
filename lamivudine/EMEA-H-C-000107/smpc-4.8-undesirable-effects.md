@@ -13,9 +13,9 @@ Very rare: Pure red cell aplasia
 Nervous system disorders
 Common: Headache, insomnia
 Very rare: peripheral neuropathy (or paraesthesia)
-
 Respiratory, thoracic and mediastinal disorders
 Common: Cough, nasal symptoms
+
 Gastrointestinal disorders
 Common: Nausea, vomiting, abdominal pain or cramps, diarrhoea
 Rare: Pancreatitis. elevations in serum amylase.
