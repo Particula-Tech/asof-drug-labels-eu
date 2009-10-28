@@ -17,7 +17,6 @@ The concentration-dependent non-linear clearance plays a major role at low tocil
 Once the non-linear clearance pathway is saturated, at higher tocilizumab concentrations, clearance is mainly determined by the linear clearance.
 The t1/2 of tocilizumab was concentration-dependent.
 At steady-state following a dose of 8 mg/kg every 4 weeks, the effective t1/2 decreased with decreasing concentrations within a dosing interval from 14 days to 8 days.
-
 Linearity
 Pharmacokinetic parameters of tocilizumab did not change with time.
 A more than dose-proportional increase in the AUC and Cmin was observed for doses of 4 and 8 mg/kg every 4 weeks.

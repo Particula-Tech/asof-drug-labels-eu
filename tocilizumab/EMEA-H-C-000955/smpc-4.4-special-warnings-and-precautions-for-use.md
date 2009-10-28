@@ -35,7 +35,6 @@ In patients with baseline ALT or AST > 5 x ULN, treatment is not recommended.
 ALT and AST levels should be monitored every 4 to 8 weeks for the first 6 months of treatment followed by every 12 weeks thereafter.
 For recommended modifications based on transaminases see section 4.2.
 For ALT or AST elevations > 3–5 x ULN, confirmed by repeat testing, RoActemra treatment should be interrupted.
-Once the patient’s hepatic transaminases are below 3 x ULN, treatment with RoActemra may recommence at 4 or 8 mg/kg.
 
 Haematological abnormalities
 Decreases in neutrophil and platelet counts have occurred following treatment with tocilizumab 8 mg/kg in combination with MTX (see section 4.8).
