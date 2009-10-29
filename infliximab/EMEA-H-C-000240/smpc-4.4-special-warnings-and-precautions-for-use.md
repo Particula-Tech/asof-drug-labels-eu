@@ -37,15 +37,13 @@ Early recognition of atypical clinical presentations of serious infections is cr
 
 Patients taking TNF-blockers are more susceptible to serious infections.
 Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal infections, and other opportunistic infections have been observed in patients treated with infliximab.
-Some of these infections have been fatal.
+Some of these infections have been fatal; the most frequently reported opportunistic infections with a mortality rate of > 5% include pneumocystosis, candidiasis, listeriosis and aspergillosis.
 Patients who develop a new infection while undergoing treatment with Remicade, should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Remicade should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 For patients who have resided in or travelled to regions where invasive fungal infections such as histoplasmosis, coccidioidomycosis, or blastomycosis are endemic, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
 
 There have been reports of active tuberculosis in patients receiving Remicade.
 It should be noted that in the majority of these reports tuberculosis was extrapulmonary, presenting as either local or disseminated disease.
-
-Opportunistic infections reported in patients on Remicade have included, but are not limited to pneumocystosis, histoplasmosis, cytomegalovirus infection, atypical mycobacterial infections, listeriosis and aspergillosis.
 
 In clinical studies, infections have been reported more frequently in paediatric patient populations than in adult patient populations (see section 4.8).
 
@@ -66,7 +64,6 @@ In patients who have several or significant risk factors for tuberculosis and ha
 
 Use of anti-tuberculosis therapy should also be considered before the initiation of Remicade in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
 All patients should be informed to seek medical advice if signs/symptoms suggestive of tuberculosis (e.g. persistent cough, wasting/weight loss, low-grade fever) appear during or after Remicade treatment.
-
 Patients with fistulising Crohn’s disease with acute suppurative fistulas must not initiate Remicade therapy until a source for possible infection, specifically abscess, has been excluded (see section 4.3).
 
 Hepatitis B (HBV) reactivation
@@ -140,5 +137,6 @@ Others
 There is limited safety experience of Remicade treatment in patients who have undergone surgical procedures, including arthroplasty.
 The long half-life of infliximab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Remicade should be closely monitored for infections, and appropriate actions should be taken.
+
 Failure to respond to treatment for Crohn’s disease may indicate the presence of a fixed fibrotic stricture that may require surgical treatment.
 Available data suggest that infliximab does not worsen or cause strictures.

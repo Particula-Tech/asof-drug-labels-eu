@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: tumour necrosis factor alpha (TNFα) inhibitors, ATC code: L04AB02.
+
 Pharmacodynamic properties
 
 Infliximab is a chimeric human-murine monoclonal antibody that binds with high affinity to both soluble and transmembrane forms of TNFα but not to lymphotoxin α (TNFß).

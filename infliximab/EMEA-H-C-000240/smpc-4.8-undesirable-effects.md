@@ -3,6 +3,7 @@
 In clinical studies with infliximab, adverse reactions were observed in approximately 60% of infliximab-treated patients and 40% of placebo-treated patients.
 Infusion-related reactions were the most common adverse reactions reported.
 Infusion-related reactions (dyspnoea, urticaria and headache) were the most common cause for discontinuation.
+
 Table 1 lists the adverse reactions based on experience from clinical studies as well as adverse reactions, some with fatal outcome, reported from post-marketing experience.
 Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
 Because post-marketing events are reported voluntarily from a population of uncertain size, it is not possible to estimate their frequency.
@@ -14,8 +15,8 @@ Undesirable effects in clinical studies and from post-marketing experience
 
 Infections and infestations
 Common: Viral infection (e.g. influenza, herpes virus infection).
-Uncommon: Sepsis, tuberculosis, abscess, bacterial infection, fungal infection, cellulitis, candidiasis.
-Not known: Opportunistic infections (such as atypical mycobacterial infection, pneumocystosis, histoplasmosis, coccidioidomycosis, cryptococcosis, aspergillosis and listeriosis), hepatitis B reactivation, salmonellosis.
+Uncommon: Tuberculosis, bacterial infections (e.g. sepsis, cellulitis, abscess), fungal infections (e.g. candidiasis).
+Not known: Opportunistic infections (such as invasive fungal infections [pneumocystosis, histoplasmosis, aspergillosis, coccidioidomycosis, cryptococcosis, blastomycosis], bacterial infections [atypical mycobacterial, listeriosis, salmonellosis], and viral infections [cytomegalovirus]), hepatitis B reactivation.
 Neoplasms benign, malignant and unspecified (including cysts and polyps)
 Not known: Hepatosplenic T-cell lymphoma (primarily in adolescents and young adults with Crohn’s disease and ulcerative colitis), lymphoma (including non-Hodgkin’s lymphoma and Hodgkin’s disease).
 Blood and lymphatic system disorders
@@ -34,10 +35,11 @@ Rare: Meningitis.
 Not known: Peripheral demyelinating disorders (such as Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy and multifocal motor neuropathy), central nervous system demyelinating disorders (such as optic neuritis), transverse myelitis, seizure, neuropathy, hypoaesthesia, paraesthesia.
 Eye disorders
 Uncommon: Endophthalmitis, keratitis, conjunctivitis, periorbital oedema, hordeolum.
+Not known Transient visual loss occurring during or within two hours of infusion.
 Cardiac disorders
 Uncommon: Cardiac failure aggravated, arrhythmia, syncope, bradycardia, cyanosis, palpitation.
 Rare: Tachycardia.
-Not known: Cardiac failure, pericardial effusion.
+Not known: Myocardial ischaemia/myocardial infarction occurring during or within two hours of infusion, cardiac failure, pericardial effusion.
 Vascular disorders
 Common: Flushing.
 Uncommon: Hypotension, peripheral ischaemia, hypertension, thrombophlebitis, haematoma, ecchymosis, petechia, vasospasm, hot flush.
@@ -80,6 +82,7 @@ In a clinical study of patients with rheumatoid arthritis (ASPIRE), sixty six pe
 Of the infliximab-treated patients who received at least one shortened infusion, infusion-related reactions occurred in 15% of patients and serious infusion reactions occurred in 0.4% of patients.
 
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with Remicade administration.
+Exceedingly rare cases of transient visual loss and myocardial ischaemia/infarction occurring during or within 2 hours of Remicade infusion have also been reported.
 
 Infusion reactions following re-administration of Remicade: A clinical study in patients with moderate to severe psoriasis was designed to assess the efficacy and safety of long-term maintenance therapy versus re-treatment with an induction regimen of Remicade (maximum of four infusions at 0, 2, 6 and 14 weeks) following disease flare.
 Patients did not receive any concomitant immunosuppressant therapy.
@@ -107,9 +110,9 @@ The antibody incidence was 2-3 fold higher for patients treated episodically.
 Due to methodological limitations, a negative assay did not exclude the presence of antibodies to infliximab.
 Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy.
 In psoriasis patients treated with infliximab as a maintenance regimen in the absence of concomitant immunomodulators, approximately 28% developed antibodies to infliximab (see section 4.4: "Infusion reactions and hypersensitivity").
+
 Infections: Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal infections, and other opportunistic infections have been observed in patients receiving Remicade.
-Some of these infections have been fatal.
-Opportunistic infections reported in patients on Remicade have included, but are not limited to pneumocystosis, histoplasmosis, cytomegalovirus infection, atypical mycobacterial infections, listeriosis and aspergillosis (see section 4.4).
+Some of these infections have been fatal; the most frequently reported opportunistic infections with a mortality rate of > 5% include pneumocystosis, candidiasis, listeriosis and aspergillosis (see section 4.4).
 
 In clinical studies 36% of infliximab-treated patients were treated for infections compared with 25% of placebo-treated patients.
 
@@ -142,6 +145,7 @@ At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 m
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking Remicade.
 There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
 Some of these patients have been under 50 years of age.
+
 Hepatobiliary events: In clinical studies, mild or moderate elevations of ALT and AST have been observed in patients receiving Remicade without progression to severe hepatic injury.
 Elevations of ALT ≥5 x Upper Limit of Normal (ULN) have been observed (see Table 2).
 Elevations of aminotransferases were observed (ALT more common than AST) in a greater proportion of patients receiving Remicade than in controls, both when Remicade was given as monotherapy and when it was used in combination with other immunosuppressive agents.
@@ -180,6 +184,7 @@ Paediatric population
 Juvenile rheumatoid arthritis patients:
 Remicade was studied in a clinical study in 120 patients (age range: 4-17 years old) with active juvenile rheumatoid arthritis despite methotrexate.
 Patients received 3 or 6 mg/kg infliximab as a 3-dose induction regimen (weeks 0, 2, 6 or weeks 14, 16, 20 respectively) followed by maintenance therapy every 8 weeks, in combination with methotrexate.
+
 Infusion reactions
 Infusion reactions occurred in 35 % of patients with juvenile rheumatoid arthritis receiving 3 mg/kg compared with 17.5% of patients receiving 6 mg/kg.
 In the 3 mg/kg Remicade group, 4 out of 60 patients had a serious infusion reaction and 3 patients reported a possible anaphylactic reaction (2 of which were among the serious infusion reactions).
