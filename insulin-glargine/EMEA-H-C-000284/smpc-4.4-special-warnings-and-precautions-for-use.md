@@ -13,7 +13,8 @@ In the elderly, progressive deterioration of renal function may lead to a steady
 In patients with severe hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
 In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic episodes, the patient's adherence to the prescribed treatment regimen, injection sites and proper injection technique and all other relevant factors must be reviewed before dose adjustment is considered.
 
-Switching a patient to another type or brand of insulin should be done under strict medical supervision and may require change in dose.
+Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
+Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting, etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dosage.
 
 Insulin administration may cause insulin antibodies to form.
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.

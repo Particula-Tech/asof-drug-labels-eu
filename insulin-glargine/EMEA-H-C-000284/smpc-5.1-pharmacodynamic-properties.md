@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antidiabetic agent.
-Insulins and analogues for injection, long-acting.
+Pharmacotherapeutic group: Insulins and analogues for injection, long-acting.
 ATC Code: A10A E04.
 
 Insulin glargine is a human insulin analogue designed to have a low solubility at neutral pH.
