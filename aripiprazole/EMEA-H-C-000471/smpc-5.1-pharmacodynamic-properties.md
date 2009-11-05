@@ -8,7 +8,6 @@ Aripiprazole exhibited high binding affinity in vitro for dopamine D2 and D3, se
 Aripiprazole also exhibited moderate binding affinity for the serotonin reuptake site and no appreciable affinity for muscarinic receptors.
 Interaction with receptors other than dopamine and serotonin subtypes may explain some of the other clinical effects of aripiprazole.
 Aripiprazole doses ranging from 0.5 to 30 mg administered once a day to healthy subjects for 2 weeks produced a dose-dependent reduction in the binding of 11C-raclopride, a D2/D3 receptor ligand, to the caudate and putamen detected by positron emission tomography.
-
 Further information on clinical trials:
 Schizophrenia in adults:
 In three short-term (4 to 6 weeks) placebo-controlled trials involving 1,228 schizophrenic adult patients, presenting with positive or negative symptoms, aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
@@ -87,6 +86,7 @@ In three short-term (4 to 6 weeks) placebo-controlled trials involving 1,228 sch
 In a haloperidol-controlled trial, the proportion of responder patients maintaining response to medicinal product at 52-weeks was similar in both groups (oral aripiprazole 77% and haloperidol 73%).
 The overall completion rate was significantly higher for patients on oral aripiprazole (43%) than for oral haloperidol (30%).
 In a 26-week, placebo-controlled trial in stabilised patients with chronic schizophrenia, oral aripiprazole had significantly greater reduction in relapse rate, 34% in oral aripiprazole group and 57% in placebo.
+
 Schizophrenia in adolescents with oral aripiprazole:
 
 In clinical trials oral aripiprazole has not been shown to induce clinically relevant weight gain.

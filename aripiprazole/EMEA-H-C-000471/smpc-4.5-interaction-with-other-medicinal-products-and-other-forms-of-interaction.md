@@ -24,8 +24,8 @@ In CYP2D6 poor metabolisers, concomitant use of potent inhibitors of CYP3A4 may 
 When considering concomitant administration of ketoconazole or other potent CYP3A4 inhibitors with ABILIFY, potential benefits should outweigh the potential risks to the patient.
 When concomitant administration of ketoconozole with ABILIFY occurs, ABILIFY dose should be reduced to approximately one-half of its prescribed dose.
 Other potent inhibitors of CYP3A4, such as itraconazole and HIV protease inhibitors, may be expected to have similar effects and similar dose reductions should therefore be applied.
-
 Upon discontinuation of the CYP2D6 or 3A4 inhibitor, the dosage of ABILIFY should be increased to the level prior to the initiation of the concomitant therapy.
+
 When weak inhibitors of CYP3A4 (e.g., diltiazem or escitalopram) or CYP2D6 are used concomitantly with ABILIFY, modest increases in aripiprazole concentrations might be expected.
 
 Following concomitant administration of carbamazepine, a potent inducer of CYP3A4, the geometric means of Cmax and AUC for aripiprazole were 68% and 73% lower, respectively, compared to when aripiprazole (30 mg) was administered alone.

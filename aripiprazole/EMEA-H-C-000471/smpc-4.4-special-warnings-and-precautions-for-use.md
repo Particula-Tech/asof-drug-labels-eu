@@ -11,6 +11,9 @@ increased risk of suicidality with aripiprazole compared to other antipsychotics
 bipolar disorder.
 
 Cardiovascular disorders: Aripiprazole should be used with caution in patients with known cardiovascular disease (history of myocardial infarction or ischaemic heart disease, heart failure, or conduction abnormalities), cerebrovascular disease, conditions which would predispose patients to hypotension (dehydration, hypovolemia, and treatment with antihypertensive medicinal products) or hypertension, including accelerated or malignant.
+Cases of venous thromboembolism (VTE) have been reported with antipsychotic drugs.
+Since patients treated with antipsychotics often present with acquired risk factors for VTE, all possible risk factors for VTE should be identified before and during treatment with ABILIFY and preventive measures undertaken.
+
 Conduction abnormalities: In clinical trials of aripiprazole, the incidence of QT prolongation was comparable to placebo.
 As with other antipsychotics, aripiprazole should be used with caution in patients with a family history of QT prolongation.
 
@@ -44,8 +47,8 @@ Risk factors that may predispose patients to severe complications include obesit
 In clinical trials with aripiprazole, there were no significant differences in the incidence rates of hyperglycaemia-related adverse reactions (including diabetes) or in abnormal glycaemia laboratory values compared to placebo.
 Precise risk estimates for hyperglycaemia-related adverse reactions in patients treated with ABILIFY and with other atypical antipsychotic agents are not available to allow direct comparisons.
 Patients treated with any antipsychotic agents, including ABILIFY, should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control.
-
 Hypersensitivity: as with other medicinal products, hypersensitivity reactions, characterised by allergic symptoms, may occur with aripiprazole (see section 4.8).
+
 Weight gain: weight gain is commonly seen in schizophrenic and bipolar mania patients due to co-morbidities, use of antipsychotics known to cause weight gain, poorly managed life-style, and might lead to severe complications.
 Weight gain has been reported post-marketing among patients prescribed ABILIFY.
 When seen, it is usually in those with significant risk factors such as history of diabetes, thyroid disorder or pituitary adenoma.
