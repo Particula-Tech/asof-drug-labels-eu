@@ -13,8 +13,10 @@ Therefore there is a need to start therapy shortly after a tropism test.
 
 Background resistance to other classes of antiretrovirals have been shown to be similar in previously undetected CXCR4-tropic virus of the minor viral population, as that found in CCR5-tropic virus.
 
+CELSENTRI is not recommended to be used in treatment naïve patients based on the results of a clinical study in this population (see section 5.1).
 Dose adjustment: physicians should ensure that appropriate dose adjustment of CELSENTRI is made when CELSENTRI is co-administered with CYP3A4 inhibitors and/or inducers since maraviroc concentrations and its therapeutic effects may be affected (see sections 4.2 and 4.5).
 Please also refer to the respective Summary of Product Characteristics of the other antiretroviral medicinal products used in the combination.
+
 Information for patients: patients should be advised that antiretroviral therapies including CELSENTRI have not been shown to prevent the risk of transmission of HIV to others through sexual contact or contamination with blood.
 They should continue to use appropriate precautions.
 Patients should also be informed that CELSENTRI is not a cure for HIV-1 infection.
@@ -42,9 +44,9 @@ A case of possible CELSENTRI-induced hepatotoxicity with allergic features has b
 In addition, an increase in hepatic adverse reactions with CELSENTRI was observed during studies of treatment-experienced subjects with HIV infection, although there was no overall increase in ACTG Grade 3/4 liver function test abnormalities (see section 4.8).
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, can have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 Discontinuation of CELSENTRI should be considered in any patient with signs or symptoms of acute hepatitis, in particular if drug-related hypersensitivity is suspected or with increased liver transaminases combined with rash or other systemic symptoms of potential hypersensitivity (e.g. pruritic rash, eosinophila or elevated IgE).
-
 Since there are very limited data in patients with hepatitis B/C co-infection, special caution should be exercised when treating these patients with CELSENTRI.
 In case of concomitant antiviral therapy for hepatitis B and/or C, please refer also to the relevant product information for these medicinal products.
+
 There is limited experience in patients with reduced hepatic function, therefore CELSENTRI should be used with caution in this population (see sections 4.2 and 5.2).
 
 Renal impairment: the safety and efficacy of CELSENTRI have not been specifically studied in patients with renal impairment, therefore CELSENTRI should be used with caution in this population.
@@ -53,7 +55,7 @@ In the absence of metabolic inhibitors, renal clearance accounts for less than 2
 
 In the presence of metabolic inhibitors, renal clearance may account for up to 70% of total clearance of maraviroc, hence renal impairment may result in increased maraviroc exposures in this case.
 Therefore, CELSENTRI should be used with caution in patients with renal impairment (CLcr <
-80 ml/min) who are also taking potent CYP3A4 inhibitors.
+80 mL/min) who are also taking potent CYP3A4 inhibitors.
 Table 1 provides dose interval adjustment guidelines based on simulations of increasing renal impairment in patients being coadministered potent CYP3A4 inhibitors.
 The safety and efficacy of these dose interval adjustments have not been clinically evaluated.
 Therefore, clinical response to treatment should be closely monitored in these patients (see sections 4.2 and 5.2).

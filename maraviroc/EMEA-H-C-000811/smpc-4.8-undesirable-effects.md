@@ -52,6 +52,7 @@ In HIV infected patients with severe immune deficiency at the time of initiation
 
 Laboratory abnormalities
 Table 5 shows the incidence ≥1% of Grade 3-4 Abnormalities (ACTG Criteria) based on the maximum shift in laboratory test values without regard to baseline values.
+
 Table 5: Incidence ≥1% of grade 3-4 abnormalities (ACTG criteria) based on maximum shift in laboratory test values without regard to baseline studies MOTIVATE 1 and MOTIVATE 2 (pooled analysis, up to 48 weeks)
 
 | Laboratory parameter | Limit | Celsentri 300 mg twice daily + OBT N =421* (%) | OBT alone N =207* (%) |

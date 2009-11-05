@@ -16,7 +16,6 @@ The volume of distribution of maraviroc is approximately 194 L.
 Metabolism: studies in humans and in vitro studies using human liver microsomes and expressed enzymes have demonstrated that maraviroc is principally metabolized by the cytochrome P450 system to metabolites that are essentially inactive against HIV-1.
 In vitro studies indicate that CYP3A4 is the major enzyme responsible for maraviroc metabolism.
 In vitro studies also indicate that polymorphic enzymes CYP2C9, CYP2D6 and CYP2C19 do not contribute significantly to the metabolism of maraviroc.
-
 Maraviroc is the major circulating component (approximately 42% radioactivity) following a single oral dose of 300 mg.
 The most significant circulating metabolite in humans is a secondary amine (approximately 22% radioactivity) formed by N-dealkylation.
 This polar metabolite has no significant pharmacological activity.

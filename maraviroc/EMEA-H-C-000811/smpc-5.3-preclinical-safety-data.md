@@ -19,7 +19,7 @@ Maraviroc did not impair mating or fertility of male or female rats, and did not
 The exposure at this dose level corresponded to 39-fold the estimated free clinical AUC for a 300 mg twice daily dose.
 
 Embryofoetal development studies were conducted in rats and rabbits at doses up to 39- and 34-fold the estimated free clinical AUC for a 300 mg twice daily dose.
-In rabbit, ,7 foetuses had external anomalies at maternally toxic doses and 1 foetus at the mid dose of 75 mg/kg.
+In rabbit, 7 foetuses had external anomalies at maternally toxic doses and 1 foetus at the mid dose of 75 mg/kg.
 
 Pre- and post-natal developmental studies were performed in rats at doses up to 27-fold the estimated free clinical AUC for a 300 mg twice daily dose.
 A slight increase in motor activity in high-dose male rats at both weaning and as adults was noted, while no effects were seen in females.

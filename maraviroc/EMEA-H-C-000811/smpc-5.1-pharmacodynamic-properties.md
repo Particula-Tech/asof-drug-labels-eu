@@ -34,17 +34,14 @@ HIV-1 clinical isolates resistant to nucleoside analogue reverse transcriptase i
 Maraviroc-resistant viruses that emerged in vitro remained sensitive to the fusion inhibitor enfuvirtide and the protease inhibitor saquinavir.
 
 In vivo:
-Treatment naïve patients
-The resistance profile in treatment-naïve patients has not been characterized.
-
 Treatment experienced patients
 In the pivotal studies (MOTIVATE 1 and MOTIVATE 2), 7.6% of patients had a change in tropism result from CCR5-tropic to CXCR4-tropic or dual/mixed-tropic between screening and baseline (a period of 4-6 weeks).
-
 Failure with CXCR4-using virus:
 CXCR4-using virus was detected at failure in approximately 60% of subjects who failed treatment on CELSENTRI, as compared to 6% of subjects who experienced treatment failure in the OBT alone arm.
 To investigate the likely origin of the on-treatment CXCR4-using virus, a detailed clonal analysis was conducted on virus from 20 representative subjects (16 subjects from the CELSENTRI arms and 4 subjects from the OBT alone arm) in whom CXCR4-using virus was detected at treatment failure.
 This analysis indicated that CXCR4-virus emerged from a pre-existing CXCR4-using reservoir not detected at baseline, rather than from mutation of CCR5-tropic virus present at baseline.
 An analysis of tropism following failure of CELSENTRI therapy with CXCR4-using virus in patients with CCR5 virus at baseline, demonstrated that the virus population reverted back to CCR5 tropism in 33 of 36 patients with more than 35 days of follow-up.
+
 At time of failure with CXCR4-using virus, the resistance pattern to other antiretrovirals appears similar to that of the CCR5-tropic population at baseline, based on available data.
 Hence, in the selection of a treatment regimen, it should be assumed that viruses forming part of the previously undetected CXCR4 -using population (i.e. minor viral population) harbours the same resistance pattern as the CCR5-tropic population.
 
@@ -71,7 +68,8 @@ Table 6: Demographic and baseline characteristics of patients in studies MOTIVAT
 | Demographic and Baseline Characteristics | CELSENTRI 300 mg twice daily + OBT | OBT alone |
 | --- | --- | --- |
 |  | N = 426 | N = 209 |
-| Age (years) (Range, years) | 46.3 21-73 | 45.7 29-72 |
+| Age (years) | 46.3 | 45.7 |
+| (Range, years) | 21-73 | 29-72 |
 | Male Sex | 89.7% | 88.5% |
 | Race (White/Black/Other) | 85.2% / 12% / 2.8% | 85.2% / 12.4% / 2.4% |
 | Mean Baseline HIV-1 RNA (log10 copies/mL) | 4.85 | 4.86 |
@@ -93,8 +91,8 @@ Outcomes of randomised treatment at week 48 (pooled studies MOTIVATE 1 and MOTIV
 | Outcomes | CELSENTRI 300 mg twice daily + OBT N=426 | OBT alone N=209 | Treatment Difference1 (Confidence Interval2) |
 | --- | --- | --- | --- |
 | HIV-1 RNA Change from baseline (log10 copies/mL) | -1.84 | -0.78 | -1.05 (-1.33, -0.78) |
-| Proportion of patients with HIV RNA <400 copies/ml | 56.1% | 22.5% | Odds ratio: 4.76 (3.24, 7.00) |
-| Proportion of patients with HIV RNA <50 copies/ml | 45.5% | 16.7% | Odds ratio: 4.49 (2.96, 6.83) |
+| Proportion of patients with HIV RNA <400 copies/mL | 56.1% | 22.5% | Odds ratio: 4.76 (3.24, 7.00) |
+| Proportion of patients with HIV RNA <50 copies/mL | 45.5% | 16.7% | Odds ratio: 4.49 (2.96, 6.83) |
 | CD4+ cell count Change from baseline (cells/mm3 ) | 124.07 | 60.93 | 63.13 (44.28, 81.99) |
 
 1 p-values < 0.0001
@@ -106,12 +104,12 @@ This subgroup had a high degree of bad prognostic markers, i.e. extensive resist
 However, a significant treatment benefit for CELSENTRI compared to OBT alone was still demonstrated (see Table 8).
 
 Table 8.
-Proportion of patients achieving <50 copies/ml at Week 48 by subgroup (pooled Studies MOTIVATE 1 and MOTIVATE 2, ITT)
+Proportion of patients achieving <50 copies/mL at Week 48 by subgroup (pooled Studies MOTIVATE 1 and MOTIVATE 2, ITT)
 
-| Subgroups | HIV-1 RNA <50 copies/ml |  |
+| Subgroups | HIV-1 RNA <50 copies/mL |  |
 | --- | --- | --- |
 |  | CELSENTRI 300 mg twice daily + OBT N=426 | OBT alone N=209 |
-| Baseline HIV-1 RNA: <5.0 log10 copies/ml ≥5.0 log10 copies/ml | 58.4% 34.7% | 26.0% 9.5% |
+| Baseline HIV-1 RNA: <5.0 log10 copies/mL ≥5.0 log10 copies/mL | 58.4% 34.7% | 26.0% 9.5% |
 | Baseline CD4+ (cells/uL): <50 50-100 101-200 201-350 ≥ 350 | 16.5 36.4 56.7 57.8 72.9 | 2.6 12.0 21.8 21.0 38.5 |
 | Number of active ARVs in OBT1,2: 0 1 2 ≥3 | 32.7% 44.5% 58.2% 62% | 2.0% 7.4% 31.7% 38.6% |
 
@@ -121,3 +119,9 @@ Proportion of patients achieving <50 copies/ml at Week 48 by subgroup (pooled St
 Studies in Non-CCR5-tropic Treatment-Experienced Patients:
 Study A4001029 was an exploratory study in patients infected with dual/mixed or CXCR4 tropic HIV-1 with a similar design as the studies MOTIVATE 1 and MOTIVATE 2.
 In this study, neither superiority nor non-inferiority to OBT alone were demonstrated although there was no adverse outcome on viral load or CD4+ cell count
+
+Studies in Treatment Naïve Patients
+An ongoing randomised, double-blinded study (MERIT), is exploring CELSENTRI versus efavirenz, both in combination with zidovudine/lamivudine (n=721, 1:1).
+After 48 weeks of treatment, CELSENTRI did not reach non-inferiority to efavirenz for the endpoint of HIV-1 RNA < 50 copies/mL (65.3 vs. 69.3 % respectively, lower confidence bound -11.9%).
+More patients treated with CELSENTRI discontinued due to lack of efficacy (43 vs.15) and among patients with lack of efficacy, the proportion acquiring NRTI resistance (mainly lamivudine) was higher in the CELSENTRI arm.
+Fewer patients discontinued CELSENTRI due to adverse events (15 vs.49).

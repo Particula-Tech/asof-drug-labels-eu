@@ -22,7 +22,7 @@ Renal impairment: dosage adjustment is only recommended in patients with renal i
 - protease inhibitors (except tipranavir/ritonavir)
 - ketoconazole, itraconazole, clarithromycin, telithromycin.
 
-CELSENTRI should be used with caution in patients with renal impairment (CLcr < 80ml/min) who are taking potent CYP3A4 inhibitors (see sections 4.4 and 5.2).
+CELSENTRI should be used with caution in patients with renal impairment (CLcr < 80mL/min) who are taking potent CYP3A4 inhibitors (see sections 4.4 and 5.2).
 Table 1 below provides dose interval adjustment guidelines based on simulations of increasing renal impairment in patients being coadministered potent CYP3A4 inhibitors.
 The safety and efficacy of these dose interval adjustments have not been clinically evaluated.
 Therefore, clinical response to treatment should be closely monitored in these patients.
@@ -30,9 +30,9 @@ Therefore, clinical response to treatment should be closely monitored in these p
 Table 1.
 Dose interval adjustments based on simulations of increasing renal impairment (for dose recommendations, see Section 4.5 Table 2)
 
-| Recommended CELSENTRI dose interval | Creatinine clearance (CLcr) (ml/min) |  |  |
+| Recommended CELSENTRI dose interval | Creatinine clearance (CLcr) (mL/min) |  |  |
 | --- | --- | --- | --- |
-|  | 50- 80 ml/min | <50 – 30 ml/min | <30 ml/min |
+|  | 50- 80 mL/min | <50 – 30 mL/min | <30 mL/min |
 | Without potent CYP3A4 inhibitors or co-administered with tipranavir/ritonavir | No dose interval adjustment required |  |  |
 | If coadministered with potent CYP3A4 inhibitors, e.g. lopinavir/ritonavir, darunavir/ritonavir, atazanavir/ritonavir, ketoconazole (see also section 4.5) | Every 24 hours |  |  |
 | If coadministered with saquinavir/ritonavir | Every 24 hours | Every 48 hours | Every 72 hours |

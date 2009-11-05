@@ -16,7 +16,6 @@ As both passive and active processes are involved, there is the potential for co
 However, co-administration of CELSENTRI with tenofovir (substrate for renal elimination) and Cotrimoxazole (contains trimethoprim, a renal cation transport inhibitor), showed no effect on the pharmacokinetics of maraviroc.
 In addition, co-administration of CELSENTRI with lamivudine/zidovudine showed no effect of maraviroc on lamivudine (primarily renally cleared) or zidovudine (non-P450 metabolism and renal clearance) pharmacokinetics.
 In vitro results indicate that maraviroc could inhibit P-glycoprotein in the gut and may thus affect bioavailability of certain drugs.
-
 Table 2.
 Interactions and dose recommendations with other medical products
 
@@ -35,9 +34,9 @@ Interactions and dose recommendations with other medical products
 | Etravirine 200 mg BID (maraviroc 300 mg BID) | Maraviroc AUC12: ↓ 0.47 Maraviroc Cmax: ↓ 0.40 Etravirine AUC12: ↔ 1.06 Etravirine Cmax: ↔ 1.05 Etravirine C12: ↔ 1.08 | Etravirine is only approved for use with boosted protease inhibitors. For combination with etravirine + PI, see below. |
 | Nevirapine 200 mg BID (maraviroc 300 mg Single Dose) | Maraviroc AUC12: ↔ compared to historical controls Maraviroc Cmax: ↑ compared to historical controls Nevirapine concentrations not measured, no effect is expected. | Comparison to exposure in historical controls suggests that CELSENTRI 300 mg twice daily and nevirapine can be co-administered without dose adjustment. |
 | PIs |  |  |
-| Atazanavir 400 mg QD (maraviroc 300 mg BID) | Maraviroc AUC12 ↑ 3.57 Maraviroc Cmax: ↑ 2.09 Atazanavir concentrations not measured, no effect is expected. | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir or fosamprenavir/ritonavir where the dose should be 300 mg BID. Maraviroc does not significantly affect PI drug levels. |
+| Atazanavir 400 mg QD (maraviroc 300 mg BID) | Maraviroc AUC12 ↑ 3.57 Maraviroc Cmax: ↑ 2.09 Atazanavir concentrations not measured, no effect is expected. | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir or fosamprenavir/ritonavir where the dose should be 300 mg BID. Maraviroc does not significantly |
 | Atazanavir/ritonavir 300 mg/100 mg QD (maraviroc 300 mg BID) | Maraviroc AUC12 ↑ 4.88 Maraviroc Cmax: ↑ 2.67 Atazanavir/ritonavir concentrations not measured, no effect is expected. |  |
-| Lopinavir/ritonavir 400 mg/100 mg BID (maraviroc 300 mg BID) | Maraviroc AUC12 ↑ 3.95 Maraviroc Cmax: ↑ 1.97 Lopinavir/ritonavir concentrations not measured, no effect is expected. |  |
+| Lopinavir/ritonavir 400 mg/100 mg BID (maraviroc 300 mg BID) | Maraviroc AUC12 ↑ 3.95 Maraviroc Cmax: ↑ 1.97 Lopinavir/ritonavir concentrations not measured, no effect is expected. | affect PI drug levels. |
 | Saquinavir/ritonavir 1000 mg/100 mg BID (maraviroc 100 mg BID) | Maraviroc AUC12 ↑ 9.77 Maraviroc Cmax: ↑ 4.78 Saquinavir/ritonavir concentrations not measured, no effect is expected. |  |
 | Darunavir/ritonavir 600 mg/100 mg BID (maraviroc 150 mg BID) | Maraviroc AUC12 ↑ 4.05 Maraviroc Cmax: ↑ 2.29 Darunavir/ritonavir concentrations were consistent with historical data. |  |
 | Nelfinavir | Limited data are available for co-administration with nelfinavir. Nelfinavir is a potent CYP3A4 inhibitor and would be expected to increase maraviroc concentrations. |  |
@@ -50,9 +49,7 @@ Interactions and dose recommendations with other medical products
 | Efavirenz and atazanavir/ritonavir or darunavir/ritonavir | Not studied. Based on the extent of inhibition by atazanavir/ritonavir or darunavir/ritonavir in the absence of efavirenz, an increased exposure is expected. |  |
 | Etravirine and darunavir/ritonavir (maraviroc 150 mg BID) | Maraviroc AUC12: ↑ 3.10 Maraviroc Cmax: ↑ 1.77 Etravirine AUC12: ↔ 1.00 Etravirine Cmax: ↔ 1.08 Etravirine C12: ↓ 0.81 Darunavir AUC12: ↓ 0.86 Darunavir Cmax: ↔ 0.96 Darunavir C12: ↓ 0.77 Ritonavir AUC12: ↔ 0.93 Ritonavir Cmax: ↔ 1.02 Ritonavir C12: ↓ 0.74 | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered etravirine in the presence of a PI (except fosamprenavir/ritonavir where the dose should be 300 mg twice daily). |
 | Etravirine and lopinavir/ritonavir, saquinavir/ritonavir or atazanavir/ritonavir | Not studied. Based on the extent of inhibition by lopinavir/ritonavir, saquinavir/ritonavir or atazanavir/ritonavir in the absence of etravirine, an increased exposure is expected. |  |
-
 | Antibiotics |  |  |
-| --- | --- | --- |
 | Sulphamethoxazole/ Trimethoprim 800 mg/160 mg BID (maraviroc 300 mg BID) | Maraviroc AUC12: ↔ 1.11 Maraviroc Cmax: ↔ 1.19 Sulphamethoxazole/trimethoprim concentrations not measured, no effect expected. | CELSENTRI 300 mg twice daily and sulphamethoxazole/trimethoprim can be co-administered without dose adjustment. |
 | Rifampicin 600 mg QD (maraviroc 100 mg BID) | Maraviroc AUC: ↓ 0.37 Maraviroc Cmax: ↓ 0.34 Rifampicin concentrations not measured, no effect expected. | CELSENTRI dose should be increased to 600 mg twice daily when co-administered with rifampicin in the absence of a potent CYP3A4 inhibitor. This dose adjustment has not been studied in HIV patients. See also section 4.4. |
 | Rifampicin + efavirenz | Combination with two inducers has not been studied. There may be a risk of suboptimal levels with risk of loss of virologic response and resistance development. | Concomitant use of CELSENTRI and rifampicin + efavirenz is not recommended. |
@@ -67,9 +64,7 @@ Interactions and dose recommendations with other medical products
 | DRUG ABUSE |  |  |
 | Methadone | Not studied, no interaction expected. | CELSENTRI 300 mg twice daily and methadone can be coadministered without dose adjustment. |
 | Buprenorphine | Not studied, no interaction expected. | CELSENTRI 300 mg twice daily and buprenorphine can be coadministered without dose adjustment. |
-
 | LIPID LOWERING MEDICINAL PRODUCTS |  |  |
-| --- | --- | --- |
 | Statins | Not studied, no interaction expected. | CELSENTRI 300 mg twice daily and statins can be coadministered without dose adjustment. |
 | ORAL CONTRACEPTIVES |  |  |
 | Ethinylestradiol 30 mcg QD (maraviroc 100 mg BID) | Ethinylestradiol. AUCt: ↔ 1.00 Ethinylestradiol. Cmax: ↔ 0.99 Maraviroc concentrations not measured, no interaction expected. | CELSENTRI 300 mg twice daily. and ethinylestradiol can be co-administered without dose adjustment. |
@@ -97,9 +92,9 @@ Interactions and dose recommendations with other medical products
 | Etravirine 200 mg BID (maraviroc 300 mg BID) | Maraviroc AUC12: ↓ 0.47 Maraviroc Cmax: ↓ 0.40 Etravirine AUC12: ↔ 1.06 Etravirine Cmax: ↔ 1.05 Etravirine C12: ↔ 1.08 | Etravirine is only approved for use with boosted protease inhibitors. For combination with etravirine + PI, see below. |
 | Nevirapine 200 mg BID (maraviroc 300 mg Single Dose) | Maraviroc AUC12: ↔ compared to historical controls Maraviroc Cmax: ↑ compared to historical controls Nevirapine concentrations not measured, no effect is expected. | Comparison to exposure in historical controls suggests that CELSENTRI 300 mg twice daily and nevirapine can be co-administered without dose adjustment. |
 | PIs |  |  |
-| Atazanavir 400 mg QD (maraviroc 300 mg BID) | Maraviroc AUC12 ↑ 3.57 Maraviroc Cmax: ↑ 2.09 Atazanavir concentrations not measured, no effect is expected. | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir or fosamprenavir/ritonavir where the dose should be 300 mg BID. Maraviroc does not significantly affect PI drug levels. |
+| Atazanavir 400 mg QD (maraviroc 300 mg BID) | Maraviroc AUC12 ↑ 3.57 Maraviroc Cmax: ↑ 2.09 Atazanavir concentrations not measured, no effect is expected. | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with a PI; except in combination with tipranavir/ritonavir or fosamprenavir/ritonavir where the dose should be 300 mg BID. Maraviroc does not significantly |
 | Atazanavir/ritonavir 300 mg/100 mg QD (maraviroc 300 mg BID) | Maraviroc AUC12 ↑ 4.88 Maraviroc Cmax: ↑ 2.67 Atazanavir/ritonavir concentrations not measured, no effect is expected. |  |
-| Lopinavir/ritonavir 400 mg/100 mg BID (maraviroc 300 mg BID) | Maraviroc AUC12 ↑ 3.95 Maraviroc Cmax: ↑ 1.97 Lopinavir/ritonavir concentrations not measured, no effect is expected. |  |
+| Lopinavir/ritonavir 400 mg/100 mg BID (maraviroc 300 mg BID) | Maraviroc AUC12 ↑ 3.95 Maraviroc Cmax: ↑ 1.97 Lopinavir/ritonavir concentrations not measured, no effect is expected. | affect PI drug levels. |
 | Saquinavir/ritonavir 1000 mg/100 mg BID (maraviroc 100 mg BID) | Maraviroc AUC12 ↑ 9.77 Maraviroc Cmax: ↑ 4.78 Saquinavir/ritonavir concentrations not measured, no effect is expected. |  |
 | Darunavir/ritonavir 600 mg/100 mg BID (maraviroc 150 mg BID) | Maraviroc AUC12 ↑ 4.05 Maraviroc Cmax: ↑ 2.29 Darunavir/ritonavir concentrations were consistent with historical data. |  |
 | Nelfinavir | Limited data are available for co-administration with nelfinavir. Nelfinavir is a potent CYP3A4 inhibitor and would be expected to increase maraviroc concentrations. |  |
@@ -114,8 +109,7 @@ Interactions and dose recommendations with other medical products
 | Etravirine and lopinavir/ritonavir, saquinavir/ritonavir or atazanavir/ritonavir | Not studied. Based on the extent of inhibition by lopinavir/ritonavir, saquinavir/ritonavir or atazanavir/ritonavir in the absence of etravirine, an increased exposure is expected. |  |
 | Antibiotics |  |  |
 | Sulphamethoxazole/ Trimethoprim 800 mg/160 mg BID (maraviroc 300 mg BID) | Maraviroc AUC12: ↔ 1.11 Maraviroc Cmax: ↔ 1.19 Sulphamethoxazole/trimethoprim concentrations not measured, no effect expected. | CELSENTRI 300 mg twice daily and sulphamethoxazole/ trimethoprim can be co-administered without dose adjustment. |
-| Rifampicin 600 mg QD (maraviroc 100 mg BID) | Maraviroc AUC: ↓ 0.37 Maraviroc Cmax: ↓ 0.34 Rifampicin concentrations not measured, no effect expected. | CELSENTRI dose should be increased to 600 mg twice daily when co-administered with rifampicin in the absence of a potent CYP3A4 inhibitor. This dose adjustment has not been studied in |
-|  |  | HIV patients. See also section 4.4. |
+| Rifampicin 600 mg QD (maraviroc 100 mg BID) | Maraviroc AUC: ↓ 0.37 Maraviroc Cmax: ↓ 0.34 Rifampicin concentrations not measured, no effect expected. | CELSENTRI dose should be increased to 600 mg twice daily when co-administered with rifampicin in the absence of a potent CYP3A4 inhibitor. This dose adjustment has not been studied in HIV patients. See also section 4.4. |
 | Rifampicin + efavirenz | Combination with two inducers has not been studied. There may be a risk of suboptimal levels with risk of loss of virologic response and resistance development. | Concomitant use of CELSENTRI and rifampicin + efavirenz is not recommended. |
 | Rifabutin + PI | Not studied. Rifabutin is considered to be a weaker inducer than rifampicin. When combining rifabutin with protease inhibitors that are potent inhibitors of CYP3A4 a net inhibitory effect on maraviroc is expected. | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with rifabutin in the presence of a PI (except tipranavir/ritonavir or fosamprenavir/ritonavir where the dose should be 300 mg twice daily) . See also section 4.4. |
 | Clarithromycin, Telithromycin | Not studied, but both are potent CYP3A4 inhibitors and would be expected to increase maraviroc concentrations. | CELSENTRI dose should be decreased to 150 mg twice daily when co-administered with clarithromycin and telithromycin. |
@@ -135,7 +129,6 @@ Interactions and dose recommendations with other medical products
 | Levonorgestrel 150 mcg QD (maraviroc 100 mg BID) | Levonorgestrel. AUC12: ↔ 0.98 Levonorgestrel. Cmax: ↔ 1.01 Maraviroc concentrations not measured, no interaction expected. | CELSENTRI 300 mg twice daily and levonorgestrel can be co-administered without dose adjustment. |
 | SEDATIVES |  |  |
 | Benzodiazepines |  |  |
-| Midazolam 7.5 mg Single | Midazolam. AUC: ↔ 1.18 | CELSENTRI 300 mg twice daily |
-| Dose (maraviroc 300 mg BID) | Midazolam. Cmax: ↔ 1.21 Maraviroc concentrations not measured, no interaction expected. | and midazolam can be co-administered without dose adjustment. |
+| Midazolam 7.5 mg Single Dose (maraviroc 300 mg BID) | Midazolam. AUC: ↔ 1.18 Midazolam. Cmax: ↔ 1.21 Maraviroc concentrations not measured, no interaction expected. | CELSENTRI 300 mg twice daily and midazolam can be co-administered without dose adjustment. |
 | HERBAL PRODUCTS |  |  |
 | St John’s Wort | Coadministration of maraviroc with St. John's wort is expected to substantially decrease maraviroc concentrations and may result in suboptimal levels and lead to loss of virologic response and possible resistance to maraviroc. | Concomitant use of maraviroc and St. John's wort (Hypericum Perforatum) or products containing St. John's wort is not recommended. |
