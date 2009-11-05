@@ -101,6 +101,7 @@ Maximum mean increases of serum prolactin concentrations were generally observed
 
 Class effects
 QT prolongation, ventricular arrythmias (ventricular fibrillation, ventricular tachycardia), sudden unexplained death, cardiac arrest and Torsade de pointes may occur with antipsychotics.
+Cases of venous thromboembolism, including cases of pulmonary embolism and cases of deep vein thrombosis have been reported with antipsychotic drugs- Frequency unknown
 
 [INVEGA 3 mg prolonged-release tablets]
 

@@ -65,6 +65,10 @@ Body temperature regulation
 Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic medicines.
 Appropriate care is advised when prescribing INVEGA to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
 
+Venous Thromboembolism
+Cases of venous thromboembolism (VTE) have been reported with antipsychotic drugs.
+Since patients treated with antipsychotics often present with acquired risk factors for VTE, all possible risk factors for VTE should be identified before and during treatment with INVEGA and preventive measures undertaken.
+
 Antiemetic effect
 An antiemetic effect was observed in preclinical studies with paliperidone.
 This effect, if it occurs in humans, may mask the signs and symptoms of overdosage with certain medicines or of conditions such as intestinal obstruction, Reye’s syndrome, and brain tumour.

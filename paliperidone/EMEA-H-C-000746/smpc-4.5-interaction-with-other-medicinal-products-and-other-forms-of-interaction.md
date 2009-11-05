@@ -18,7 +18,6 @@ Potential for other medicines to affect INVEGA
 In vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, but there are no indications in vitro nor in vivo that these isozymes play a significant role in the metabolism of paliperidone.
 Concomitant administration of INVEGA with paroxetine, a potent CYP2D6 inhibitor, showed no clinically significant effect on the pharmacokinetics of paliperidone.
 In vitro studies have shown that paliperidone is a P-glycoprotein (P-gp) substrate.
-
 Co-administration of INVEGA once daily with carbamazepine 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state Cmax and AUC of paliperidone.
 This decrease is caused, to a substantial degree, by a 35% increase in renal clearance of paliperidone likely as a result of induction of renal P-gp by carbamazepine.
 A minor decrease in the amount of active substance excreted unchanged in the urine suggests that there was little effect on the CYP metabolism or bioavailability of paliperidone during carbamazepine co-administration.
