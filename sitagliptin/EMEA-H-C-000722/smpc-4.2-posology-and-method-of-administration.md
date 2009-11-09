@@ -1,10 +1,11 @@
 # 4.2 Posology and method of administration
 
 The dose of Januvia is 100 mg once daily.
-When sitagliptin is used in combination with metformin and/or a PPARγ agonist, the dosage of metformin and/or PPARγ agonist should be maintained, and sitagliptin administered concomitantly.
+When Januvia is used in combination with metformin and/or a PPARγ agonist, the dosage of metformin and/or PPARγ agonist should be maintained, and Januvia administered concomitantly.
 
-When Januvia is used in combination with a sulphonylurea, a lower dose of the sulphonylurea may be considered to reduce the risk of hypoglycaemia.
+When Januvia is used in combination with a sulphonylurea or with insulin, a lower dose of the sulphonylurea or insulin may be considered to reduce the risk of hypoglycaemia.
 (See section 4.4.)
+
 If a dose of Januvia is missed, it should be taken as soon as the patient remembers.
 A double dose should not be taken on the same day.
 

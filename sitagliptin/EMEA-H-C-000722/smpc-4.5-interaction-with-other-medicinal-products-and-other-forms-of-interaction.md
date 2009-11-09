@@ -5,8 +5,8 @@ Clinical data described below suggest that the risk for clinically meaningful in
 
 Metformin: Co-administration of multiple twice-daily doses of 1000 mg metformin with 50 mg sitagliptin did not meaningfully alter the pharmacokinetics of sitagliptin in patients with type 2 diabetes.
 
-Cyclosporine: A study was conducted to assess the effect of cyclosporine, a potent inhibitor of p-glycoprotein, on the pharmacokinetics of sitagliptin.
-Coadministration of a single 100 mg oral dose of sitagliptin and a single 600 mg oral dose of cyclosporine increased the AUC and Cmax of sitagliptin by approximately 29 % and 68 %, respectively.
+Ciclosporin: A study was conducted to assess the effect of ciclosporin, a potent inhibitor of p-glycoprotein, on the pharmacokinetics of sitagliptin.
+Coadministration of a single 100 mg oral dose of sitagliptin and a single 600 mg oral dose of ciclosporin increased the AUC and Cmax of sitagliptin by approximately 29 % and 68 %, respectively.
 These changes in sitagliptin pharmacokinetics were not considered to be clinically meaningful.
 The renal clearance of sitagliptin was not meaningfully altered.
 Therefore, meaningful interactions would not be expected with other p-glycoprotein inhibitors.
