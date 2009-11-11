@@ -216,7 +216,12 @@ EU/1/97/030/189
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
 
-EU/1/97/030/XXX
+EU/1/97/030/190
+EU/1/97/030/191
+EU/1/97/030/192
+EU/1/97/030/193
+EU/1/97/030/194
+EU/1/97/030/195
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 

@@ -1,8 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antidiabetic agent.
-Insulins and analogues for injection, fast-acting,
-ATC Code: A10AB01.
+Pharmacotherapeutic group: Insulins and analogues for injection, fast-acting, ATC Code: A10AB01.
 Mode of action
 Insulin
 
@@ -39,7 +37,7 @@ Following subcutaneous injection, onset of action is within 30 minutes, the phas
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
-Insulins and analogues for injection, intermediate-acting, ATC Code: A10AC01.
+Pharmacotherapeutic group: Insulins and analogues for injection, intermediate-acting, ATC Code: A10AC01.
 
 Insuman Basal (an isophane insulin suspension) is an insulin with gradual onset and long duration of action.
 Following subcutaneous injection, onset of action is within 60 minutes, the phase of maximum action is between 3 and 4 hours after injection and the duration of action is 11 to 20 hours.
@@ -66,7 +64,7 @@ Following subcutaneous injection, onset of action is within 60 minutes, the phas
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
-Insulins and analogues for injection, intermediate-acting combined with fast-acting, ATC Code: A10AD01.
+Pharmacotherapeutic group: Insulins and analogues for injection, intermediate-acting combined with fast-acting, ATC Code: A10AD01.
 
 Insuman Comb 15 (a biphasic isophane insulin suspension with 15% dissolved insulin) is an insulin with gradual onset and long duration of action.
 Following subcutaneous injection, onset of action is within 30 to 60 minutes, the phase of maximum action is between 2 and 4 hours after injection and the duration of action is 11 to 20 hours.

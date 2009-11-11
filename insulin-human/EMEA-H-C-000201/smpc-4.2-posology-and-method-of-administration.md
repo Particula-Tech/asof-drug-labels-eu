@@ -10,25 +10,6 @@ Insuman Rapid is injected subcutaneously 15 to 20 minutes before a meal.
 
 In the treatment of severe hyperglycaemia or ketoacidosis in particular, insulin administration is part of a complex therapeutic regimen which includes measures to protect patients from possible severe complications of a relatively rapid lowering of blood glucose.
 This regimen requires close monitoring (metabolic status, acid-base and electrolyte status, vital parameters etc.) in an intensive care unit or similar setting.
-Transfer to Insuman Rapid
-Dose regimen adjustment may be necessary when transferring patients from one insulin preparation to another.
-This applies, for example, when transferring from:
-
-- an animal insulin (especially a bovine insulin) to human insulin,
-- one human insulin preparation to another,
-- a regimen with only regular insulin to one with a longer-acting insulin.
-
-The need to adjust (e.g. reduce) the dose may become evident immediately after transfer.
-Alternatively, it may emerge gradually over a period of several weeks.
-
-Following transfer from an animal insulin to human insulin, dose regimen reduction may be required in particular in patients who
-
-- were previously already controlled on rather low blood glucose levels,
-- have a tendency to hypoglycaemia,
-- previously required high insulin doses due to the presence of insulin antibodies.
-
-Close metabolic monitoring is recommended during the transition and in the initial weeks thereafter.
-In patients who require high insulin doses because of the presence of insulin antibodies, transfer under medical supervision in a hospital or similar setting must be considered.
 
 Secondary dose adjustment
 Improved metabolic control may result in increased insulin sensitivity, leading to a reduced insulin requirement.
@@ -86,8 +67,6 @@ Before using SoloStar, the Instructions for Use included in the Package Leaflet 
 
 Insuman Basal is injected subcutaneously 45 to 60 minutes before a meal.
 
-Transfer to Insuman Basal
-
 Insuman Basal contains 100 IU of insulin per ml suspension.
 
 Insuman Basal is administered subcutaneously.
@@ -119,8 +98,6 @@ Insuman Basal in cartridges for OptiClik has been developed for use with OptiCli
 
 Insuman Comb 15 is injected subcutaneously 30 to 45 minutes before a meal.
 
-Transfer to Insuman Comb 15
-
 Insuman Comb 15 contains 100 IU of insulin per ml suspension.
 
 Insuman Comb 15 is administered subcutaneously.
@@ -149,8 +126,6 @@ Insuman Comb 15 in cartridges for OptiClik has been developed for use with OptiC
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
 Insuman Comb 25 is injected subcutaneously 30 to 45 minutes before a meal.
-
-Transfer to Insuman Comb 25
 
 Insuman Comb 25 contains 100 IU of insulin per ml suspension.
 
@@ -181,8 +156,6 @@ Insuman Comb 25 in cartridges for OptiClik has been developed for use with OptiC
 
 Insuman Comb 30 is injected subcutaneously 30 to 45 minutes before a meal.
 
-Transfer to Insuman Comb 30
-
 Insuman Comb 30 contains 100 IU of insulin per ml suspension.
 
 Insuman Comb 30 is administered subcutaneously.
@@ -208,8 +181,6 @@ Insuman Comb 30 in cartridges for OptiClik has been developed for use with OptiC
 
 Insuman Comb 50 is injected subcutaneously 20 to 30 minutes before a meal.
 
-Transfer to Insuman Comb 50
-
 Insuman Comb 50 contains 100 IU of insulin per ml suspension.
 
 Insuman Comb 50 is administered subcutaneously.
@@ -220,6 +191,9 @@ Insuman Comb 50 must never be injected intravenously.
 Insuman Comb 50 contains 40 IU of insulin per ml suspension.
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
+
+Close metabolic monitoring is recommended during the transition and in the initial weeks thereafter.
+In patients who require high insulin doses because of the presence of insulin antibodies, transfer under medical supervision in a hospital or similar setting must be considered.
 
 Insuman Comb 50 in cartridges has been developed for use in the OptiPen series.
 
@@ -247,7 +221,6 @@ When used in external portable insulin pumps, part of the daily insulin dose is 
 Refer to the operating instructions for detailed information about the infusion pump, its functions and the necessary safety precautions.
 
 Consequently, about 40% to 60% of the daily dose is administered at a basal rate, and the rest is given as bolus injections before meals.
-Transfer to Insuman Infusat
 
 Insuman Infusat may be infused by the subcutaneous route.
 It is designed for use in the Hoechst Infusor and H-Tron insulin pumps.

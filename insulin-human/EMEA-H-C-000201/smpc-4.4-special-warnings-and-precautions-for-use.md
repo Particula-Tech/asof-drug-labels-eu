@@ -10,6 +10,22 @@ In the elderly, progressive deterioration of renal function may lead to a steady
 In patients with severe hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
 
 In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic episodes, the patient's adherence to the prescribed treatment regimen, injection sites and proper injection technique and all other relevant factors must be reviewed before dose adjustment is considered.
+Transfer to Insuman Rapid
+
+Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
+Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting,etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dosage.
+
+The need to adjust (e.g. reduce) the dose may become evident immediately after transfer.
+Alternatively, it may emerge gradually over a period of several weeks.
+
+Following transfer from an animal insulin to human insulin, dose regimen reduction may be required in particular in patients who
+
+- were previously already controlled on rather low blood glucose levels,
+- have a tendency to hypoglycaemia,
+- previously required high insulin doses due to the presence of insulin antibodies.
+
+Close metabolic monitoring is recommended during the transition and in the initial weeks thereafter.
+In patients who require high insulin doses because of the presence of insulin antibodies, transfer under medical supervision in a hospital or similar setting must be considered.
 
 Hypoglycaemia
 Hypoglycaemia may occur if the insulin dose is too high in relation to the insulin requirement.
@@ -81,6 +97,8 @@ Patients hypersensitive to Insuman Basal for whom no better tolerated preparatio
 
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Basal, since they may experience immunological cross-reactions.
 
+Transfer to Insuman Basal
+
 [Insuman Basal 40 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
@@ -106,6 +124,8 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 Patients hypersensitive to Insuman Comb 15 for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
 
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Comb 15, since they may experience immunological cross-reactions.
+
+Transfer to Insuman Comb 15
 
 [Insuman Comb 15 40 IU/ml suspension for injection in a vial]
 
@@ -133,6 +153,8 @@ Patients hypersensitive to Insuman Comb 25 for whom no better tolerated preparat
 
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Comb 25, since they may experience immunological cross-reactions.
 
+Transfer to Insuman Comb 25
+
 [Insuman Comb 25 40 IU/ml suspension for injection in a vial]
 
 (all sentences already above)
@@ -159,6 +181,8 @@ Patients hypersensitive to Insuman Comb 30 for whom no better tolerated preparat
 
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Comb 30, since they may experience immunological cross-reactions.
 
+Transfer to Insuman Comb 30
+
 [Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
 
 (all sentences already above)
@@ -180,6 +204,8 @@ In patients with an allergy to animal insulin intradermal skin testing is recomm
 Patients hypersensitive to Insuman Comb 50 for whom no better tolerated preparation is available must only continue treatment under close medical supervision and – where necessary – in conjunction with anti-allergic treatment.
 
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Comb 50, since they may experience immunological cross-reactions.
+
+Transfer to Insuman Comb 50
 
 [Insuman Comb 50 40 IU/ml suspension for injection in a vial]
 
@@ -208,6 +234,8 @@ Patients hypersensitive to Insuman Infusat for whom no better tolerated preparat
 In patients with an allergy to animal insulin intradermal skin testing is recommended prior to a transfer to Insuman Infusat, since they may experience immunological cross-reactions.
 
 In case of hypoglycaemia, the insulin pump should temporarily be turned off, at least until the patient has recovered complete consciousness.
+
+Transfer to Insuman Infusat
 
 Insulin pump faults
 Hyperglycaemia, ketoacidosis and coma may develop within hours if the pump catheter is obstructed completely.
