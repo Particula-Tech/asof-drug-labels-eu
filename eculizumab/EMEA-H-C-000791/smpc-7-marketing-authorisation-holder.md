@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Alexion Europe SAS
-54-56 avenue Hoche
-75008 Paris
+25 Boulevard de l’Amiral Bruix
+75016 Paris
 FRANCE
