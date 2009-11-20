@@ -4,7 +4,7 @@ EU/1/04/296/001
 EU/1/04/296/006
 EU/1/04/296/009
 
-[CYMBALTA 60 mg hard gastro-resistant capsules]
+[Cymbalta 60 mg hard gastro-resistant capsules]
 
 EU/1/04/296/002
 EU/1/04/296/003

@@ -16,14 +16,13 @@ Sodium lauryl sulfate
 Titanium dioxide (E171)
 Indigo carmine (E132)
 Edible green ink
-
 Edible green ink contains:
 Black iron oxide-synthetic (E172)
 Yellow iron oxide- synthetic (E172)
 Propylene glycol
 Shellac.
 
-[CYMBALTA 60 mg hard gastro-resistant capsules]
+[Cymbalta 60 mg hard gastro-resistant capsules]
 
 60 mg:
 Yellow iron oxide (E172)
