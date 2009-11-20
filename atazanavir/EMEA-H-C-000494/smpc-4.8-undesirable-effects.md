@@ -70,7 +70,6 @@ In HIV-infected patients with severe immune deficiency at the time of initiation
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).
-
 Laboratory abnormalities
 The most frequently reported laboratory abnormality in patients receiving regimens containing
 REYATAZ and one or more NRTIs was elevated total bilirubin reported predominantly as elevated indirect [unconjugated] bilirubin (87% Grade 1, 2, 3, or 4).

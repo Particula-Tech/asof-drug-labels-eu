@@ -7,6 +7,7 @@ REYATAZ should be used during pregnancy only if the potential benefit justifies 
 
 It is not known whether REYATAZ administered to the mother during pregnancy will exacerbate physiological hyperbilirubinaemia and lead to kernicterus in neonates and infants.
 In the prepartum period, additional monitoring and alternative therapy to REYATAZ should be considered.
+
 It is not known whether atazanavir is excreted in human milk.
 Studies in rats have demonstrated that atazanavir is excreted in the milk.
 It is therefore recommended that mothers being treated with

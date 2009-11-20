@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: protease inhibitor, ATC code: J05AE08
-
 Mechanism of action: atazanavir is an azapeptide HIV-1 protease inhibitor (PI).
 The compound selectively inhibits the virus-specific processing of viral Gag-Pol proteins in HIV-1 infected cells, thus preventing formation of mature virions and infection of other cells.
 
@@ -53,6 +52,7 @@ Study 138 is an international randomised, open-label, multicenter, prospective t
 (300 mg/200 mg tablets once daily).
 The REYATAZ/ritonavir arm showed similar (non-inferior) antiviral efficacy compared to the lopinavir/ritonavir arm, as assessed by the proportion of patients with HIV RNA < 50 copies/ml at week 48 (Table 4).
 Analyses of data through 96 weeks of treatment demonstrated durability of antiviral activity (Table 4).
+
 Table 4: Efficacy Outcomes in Study 138 a
 
 | Parameter | REYATAZ/ritonavirb (300 mg/100 mg once daily) n=440 |  | Lopinavir/ritonavirc (400 mg/100 mg twice daily) n=443 |  |
@@ -147,5 +147,13 @@ REYATAZ + saquinavir was shown to be inferior to lopinavir + ritonavir.
 (all sentences already above)
 
 [REYATAZ 50 mg/1.5 g oral powder]
+
+| Frequency | de novo PI substitution (n=26)a |
+| --- | --- |
+| >20% 10-20% | none none |
+
+| Frequency | de novo PI substitution (n=35)a,b |
+| --- | --- |
+| >20% 10-20% | M36, M46, I54, A71, V82 L10, I15, K20, V32, E35, S37, F53, I62, G73, I84, L90 |
 
 a Mean baseline CD4 cell count was 214 cells/mm3 (range 2 to 810 cells/mm3 and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/ml (range 2.6 to 5.88 log10 copies/ml) b REYATAZ/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).

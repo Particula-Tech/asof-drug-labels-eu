@@ -89,8 +89,6 @@ If the co-administration of REYATAZ with an NNRTI is required, an increase in th
 Atazanavir is metabolised principally by CYP3A4.
 Co-administration of REYATAZ with ritonavir and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
 
-The concomitant use of REYATAZ and oral contraceptives should be avoided (see section 4.5).
-
 Co-administration of voriconazole and REYATAZ with ritonavir is not recommended unless an assessment of the benefit/risk justifies the use of voriconazole (see section 4.5).
 
 Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression

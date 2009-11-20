@@ -2,7 +2,6 @@
 
 When REYATAZ and ritonavir are co-administered, the metabolic drug interaction profile for ritonavir may predominate because ritonavir is a more potent CYP3A4 inhibitor than atazanavir.
 The Summary of Product Characteristics for ritonavir must be consulted before initiation of therapy with REYATAZ and ritonavir.
-
 Atazanavir is metabolised in the liver through CYP3A4.
 It inhibits CYP3A4.
 Therefore, REYATAZ with ritonavir is contraindicated with medicinal products that are substrates of CYP3A4 and have a narrow therapeutic index: astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil, triazolam, orally administered midazolam, and ergot alkaloids, particularly ergotamine and dihydroergotamine
@@ -59,31 +58,23 @@ expected to significantly alter the exposure of abacavir.
 Didanosine (buffered tablets) Didanosine should be
 200 mg/stavudine 40 mg, both taken at the fasted state
 single dose (atazanavir 400 mg 2 hours after
-single dose) REYATAZ/ritonavir
+single dose) atazanavir, REYATAZ/ritonavir
+simultaneous taken with food. The
+administration ↓0.13 ↓0.11 ↓0.16 co-administration of
 
-taken with food.
-The
+with ddI+d4T (0.08, 0.21) (0.06, 0.18) (0.10, 0.27) REYATAZ/ritonavir
 
-↓0.13 ↓0.11 ↓0.16 co-administration of
+(fasted) with stavudine is not
 
-atazanavir, (0.08, 0.21) (0.06, 0.18) (0.10, 0.27) REYATAZ/ritonavir
+expected to significantly alter the
 
-simultaneous with stavudine is not
-
-administration with ddI+d4T
-
-(fasted) 6
+atazanavir, dosed ↔1.03 ↑1.12 ↔1.03 exposure of stavudine.
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
 
-expected to
-
-atazanavir, dosed significantly alter the
-1 hr after ddI+d4T ↔1.03 ↑1.12 ↔1.03 exposure of stavudine.
-
-(0.64, 1.67) (0.67, 1.18) (0.61, 1.73)
+1 hr after ddI+d4T (0.64, 1.67) (0.67, 1.18) (0.61, 1.73)
 (fasted)
 Atazanavir concentrations were greatly decreased when co-administered with didanosine (buffered tablets) and stavudine.
 The mechanism of interaction is a reduced solubility of atazanavir with increasing pH related to the presence of anti-acid agent in didanosine buffered tablets.
@@ -185,13 +176,14 @@ clarithromycin ↓0.30 ↓0.28 ↓0.38 therefore, caution
 ↑1.28 ↔1.06 ↑1.91 REYATAZ/ritonavir is
 atazanavir (1.16, 1.43) (0.93, 1.20) (1.66, 2.21) co-administered with
 A dose reduction of clarithromycin may result in subtherapeutic clarithromycin.
+
+concentrations of 14-OH clarithromycin.
+The mechanism of the clarithromycin/atazanavir interaction is CYP3A4 inhibition.
+
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
-
-concentrations of 14-OH clarithromycin.
-The mechanism of the clarithromycin/atazanavir interaction is CYP3A4 inhibition.
 
 Antifungals
 
@@ -268,15 +260,17 @@ the recommended dose 300/100 mg QD REYATAZ 300
 - famotidine 40 mg BID atazanavir (0.68, 0.86) (0.67, 0.88) (0.69, 0.92) co-administered, a
 In Healthy volunteers with atazanavir/ritonavir at an dose equivalent to
 increased dose of 400/100 mg QD famotidine 20 mg BID
+- famotidine 40 mg BID atazanavir ↔1.03 ↔1.02 ↓0.86 should not be
+
+(0.86, 1.22) (0.87, 1.18) (0.68, 1.08) exceeded.
+If a higher
+
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
 
-- famotidine 40 mg BID atazanavir ↔1.03 ↔1.02 ↓0.86 should not be
-
-(0.86, 1.22) (0.87, 1.18) (0.68, 1.08) exceeded.
-If a higher dose of an H2-receptor antagonist is required (eg, famotidine 40 mg BID or equivalent) an increase of the REYATAZ/ritonavir dose from 300/100 mg to 400/100 mg can be considered.
+dose of an H2-receptor antagonist is required (eg, famotidine 40 mg BID or equivalent) an increase of the REYATAZ/ritonavir dose from 300/100 mg to 400/100 mg can be considered.
 With Tenofovir 300 mg QD
 
 In HIV-infected patients with atazanavir/ritonavir at For patients who are
@@ -348,13 +342,13 @@ products, are administered with REYATAZ/ritonavir. 2 hours before or 1
 hour after antacids or buffered medicinal products.
 ANTICOAGULANTS
 
+Warfarin Co-administration with REYATAZ/ritonavir has the potential to It is recommended that
+produce a decrease or, less often, an increase in INR (International the INR be monitored
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
 
-Warfarin Co-administration with REYATAZ/ritonavir has the potential to It is recommended that
-produce a decrease or, less often, an increase in INR (International the INR be monitored
 Normalised Ratio). carefully during
 
 treatment with REYATAZ/ritonavir, especially when commencing therapy.
@@ -425,14 +419,12 @@ capsules BID) when fluticasone propionate is inhaled. Systemic corticosteroid ef
 including Cushing’s syndrome and adrenal suppression have been recommended unless
 reported in patients receiving ritonavir and inhaled or intranasally the potential benefit of
 
-administered fluticasone propionate; this could also occur with other treatment outweighs
+administered fluticasone propionate; this could also occur with other treatment outweighs corticosteroids metabolized via the P450 3A pathway, e.g., budesonide. the risk of systemic The effects of high fluticasone systemic exposure on ritonavir plasma corticosteroid effects
 
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
-
-corticosteroids metabolized via the P450 3A pathway, e.g., budesonide. the risk of systemic The effects of high fluticasone systemic exposure on ritonavir plasma corticosteroid effects
 
 levels are yet unknown. The mechanism of interaction is CYP3A4 (see section 4.4). A
 inhibition. dose reduction of the
@@ -463,33 +455,42 @@ There is a risk of with products loss of therapeutic effect and development of r
 
 HORMONAL CONTRACEPTIVES
 
-Ethinyloestradiol 35 μg + The co-administration
-norethindrone (atazanavir 400 of
-mg QD) The concentration of oral contraceptives was increased due to UGT REYATAZ/ritonavir
-inhibition. In contrast, ritonavir may decrease ethinyloestradiol and oral contraceptives
+Ethinyloestradiol 25 μg + ↓0.81 ↓0.84 ↓0.63 If an oral contraceptive
 
-concentrations.
-The effects of co-administration of oral contraceptives should be avoided
+ethinyloestradiol
 
-and REYATAZ/ritonavir have not been studied. (see section 4.4).
+norgestimate (atazanavir 300 (0.75, 0.87) (0.74, 0.95) (0.55, 0.71) is administered with
+mg QD with ritonavir 100 mg ↑1.85 ↑1.68 ↑2.02 REYATAZ/ritonavir, it
+QD) norgestimate (1.67, 2.05) (1.51, 1.88) (1.77, 2.31) is recommended that
+While the concentration of ethinyloestradiol was increased with the oral contraceptive
 
-Alternate reliable methods of contraception should be considered.
+atazanavir given alone, due to both UGT and CYP3A4 inhibition by contain at least 30 μg
+
+atazanavir, the net effect of atazanavir/ritonavir is a decrease in of ethinyloestradiol
+ethinyloestradiol levels because of the inducing effect of ritonavir. and that the patient be
+
+reminded of strict The increase in progestin exposure may lead to related side-effects (e.g. compliance with this
+
+insulin resistance, dyslipidemia, acne and spotting), thus possibly contraceptive dosing
+affecting the compliance. regimen. Co-
+
+administration of REYATAZ/ritonavir with other hormonal contraceptives or oral contraceptives containing progestogens other than norgestimate has not been studied, and therefore should be avoided.
+An alternate reliable method of contraception is recommended.
 LIPID LOWERING AGENTS
 HMG-CoA reductase inhibitors
 
 Simvastatin Simvastatin and lovastatin are highly dependent on CYP3A4 for their Co-administration of
 Lovastatin metabolism and co-administration with REYATAZ/ritonavir may result simvastatin or
 in increased concentrations. lovastatin with
-
-REYATAZ/ritonavir is not recommended due to an increased risk of myopathy including rhabdomyolysis.
-The use of another HMG-CoA reductase inhibitor which does not undergo metabolism by CYP3A such as pravastatin or fluvastatin is recommended.
-
-Atorvastatin The risk of myopathy including rhabdomyolysis may also be increased Caution should be
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
 co-administration
 
+REYATAZ/ritonavir is not recommended due to an increased risk of myopathy including rhabdomyolysis.
+The use of another HMG-CoA reductase inhibitor which does not undergo metabolism by CYP3A such as pravastatin or fluvastatin is recommended.
+
+Atorvastatin The risk of myopathy including rhabdomyolysis may also be increased Caution should be
 with atorvastatin, which is also metabolised by CYP3A4. exercised.
 
 OPIOIDS
@@ -532,38 +533,37 @@ Dosage adjustment for midazolam should be considered, especially if more than a 
 
 [REYATAZ 150 mg hard capsules]
 
-(fasted) 27
+(all sentences already above)
 
 [REYATAZ 200 mg hard capsules]
 
-(fasted) 48
+(all sentences already above)
 
 [REYATAZ 300 mg hard capsules]
 
-(fasted) 69
+(all sentences already above)
 
 [REYATAZ 50 mg/1.5 g oral powder]
 
-a significant impact on the pharmacokinetics of NRTIs, the co-administration of
+a significant impact on the pharmacokinetics of NRTIs, the co-administration of REYATAZ/ritonavir with these medicinal products is not expected to
 
-REYATAZ/ritonavir with these medicinal products is not expected to significantly alter the exposure of the co-administered drugs.
+significantly alter the exposure of the co-administered drugs.
 
-single dose) atazanavir, REYATAZ/ritonavir
-simultaneous taken with food. The
-administration ↓0.13 ↓0.11 ↓0.16 co-administration of
+expected to
 
-with ddI+d4T (0.08, 0.21) (0.06, 0.18) (0.10, 0.27) REYATAZ/ritonavir
+atazanavir, dosed significantly alter the
+1 hr after ddI+d4T ↔1.03 ↑1.12 ↔1.03 exposure of stavudine.
 
-(fasted) with stavudine is not
+(0.64, 1.67) (0.67, 1.18) (0.61, 1.73)
 
-subsequent titration as
-
-No significant effect on atazanavir concentrations was observed.
+If a higher dose of an H2-receptor antagonist is required (eg, famotidine 40 mg BID or equivalent) an increase of the REYATAZ/ritonavir dose from 300/100 mg to 400/100 mg can be considered.
 
 verapamil is co-administered with REYATAZ/ritonavir.
 
-administered fluticasone propionate; this could also occur with other treatment outweighs corticosteroids metabolized via the P450 3A pathway, e.g., budesonide. the risk of systemic The effects of high fluticasone systemic exposure on ritonavir plasma corticosteroid effects
+administration of
 
-Dosage adjustment for midazolam should be considered, especially if more than a single
+REYATAZ/ritonavir with other hormonal contraceptives or oral contraceptives containing progestogens other than norgestimate has not been studied, and therefore should be avoided.
 
-dose of midazolam is administered.
+If REYATAZ is co-administered with parenteral midazolam,
+
+it should be done in an intensive care unit (ICU) or similar setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation.
