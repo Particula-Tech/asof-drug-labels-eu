@@ -8,6 +8,7 @@ Therefore, there is little potential for interactions with antiretroviral PIs an
 Clinical studies have shown that there are no clinically significant interactions between abacavir, zidovudine, and lamivudine.
 
 Potent enzymatic inducers such as rifampicin, phenobarbital and phenytoin may via their action on UDP-glucuronyltransferases slightly decrease the plasma concentrations of abacavir.
+
 Ethanol: the metabolism of abacavir is altered by concomitant ethanol resulting in an increase in AUC of abacavir of about 41%.
 These findings are not considered clinically significant.
 Abacavir has no effect on the metabolism of ethanol.

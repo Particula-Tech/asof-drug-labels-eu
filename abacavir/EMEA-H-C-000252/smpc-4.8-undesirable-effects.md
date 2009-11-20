@@ -2,10 +2,10 @@
 
 Hypersensitivity (see also section 4.4):
 
-In clinical studies, approximately 5% of subjects receiving abacavir developed a hypersensitivity reaction.
+In a clinical study, 3.4 % of subjects with a negative HLA-B*5701 status receiving abacavir developed a hypersensitivity reaction.
 In clinical studies with abacavir 600 mg once daily the reported rate of hypersensitivity remained within the range recorded for abacavir 300 mg twice daily.
 
-Some of these hypersensitivity reactions were life-threatening and resulted in fatal outcome despite taking precautions.
+Some hypersensitivity reactions were life-threatening and resulted in fatal outcome despite taking precautions.
 This reaction is characterised by the appearance of symptoms indicating multi-organ/body-system involvement.
 
 Almost all patients developing hypersensitivity reactions will have fever and/or rash (usually maculopapular or urticarial) as part of the syndrome, however reactions have occurred without rash or fever.
@@ -47,8 +47,8 @@ It is likely that intermittent therapy may increase the risk of developing sensi
 Consequently, patients should be advised of the importance of taking Ziagen regularly.
 
 Restarting Ziagen following a hypersensitivity reaction results in a prompt return of symptoms within hours.
-This recurrence of the hypersensitivity reaction was usually more severe than on initial presentation, and may include life-threatening hypotension and death.
-Patients who develop this hypersensitivity reaction must discontinue Ziagen and must never be rechallenged with Ziagen, or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir).
+This recurrence of the hypersensitivity reaction is usually more severe than on initial presentation, and may include life-threatening hypotension and death.
+Regardless of their HLA-B*5701 status, patients who develop this hypersensitivity reaction must discontinue Ziagen and must never be rechallenged with Ziagen, or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir).
 
 To avoid a delay in diagnosis and minimise the risk of a life-threatening hypersensitivity reaction, Ziagen must be permanently discontinued if hypersensitivity cannot be ruled out, even when other diagnoses are possible (respiratory diseases, flu-like illness, gastroenteritis or reactions to other medications).
 
@@ -58,6 +58,7 @@ Moreover, on very rare occasions hypersensitivity reactions have been reported i
 In both cases, if a decision is made to restart Ziagen this must be done in a setting where medical assistance is readily available.
 
 Each patient must be warned about this hypersensitivity reaction to abacavir.
+
 For many of the other adverse reactions reported, it is unclear whether they are related to Ziagen, to the wide range of medicinal products used in the management of HIV infection or as a result of the disease process.
 
 Many of those listed below occur commonly (nausea, vomiting, diarrhoea, fever, lethargy, rash) in patients with abacavir hypersensitivity.
@@ -87,7 +88,6 @@ General disorders and administration site conditions
 Common: fever, lethargy, fatigue
 
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see section 4.4).
-
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
@@ -101,6 +101,8 @@ Laboratory abnormalities
 In controlled clinical studies laboratory abnormalities related to Ziagen treatment were uncommon, with no differences in incidence observed between Ziagen treated patients and the control arms.
 
 [Ziagen 20 mg/ml oral solution]
+
+In a clinical study, 3.4 % of submects with a negative HLA-B*5701 status receiving abacavir developed a hypersensitivity reaction.
 
 Respiratory tract Dyspnoea, cough, sore throat, adult respiratory distress syndrome,
 

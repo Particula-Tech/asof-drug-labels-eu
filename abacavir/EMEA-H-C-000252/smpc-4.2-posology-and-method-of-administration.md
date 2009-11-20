@@ -9,9 +9,9 @@ To ensure administration of the entire dose, the tablet(s) should ideally be swa
 Ziagen is also available as an oral solution for use in children over three months of age and weighing less than 14 kg and for those patients for whom the tablets are inappropriate.
 
 Alternatively, for patients who are unable to swallow tablets, the tablet(s) may be crushed and added to a small amount of semi-solid food or liquid, all of which should be consumed immediately (see section 5.2).
-
 Adults and adolescents (over 12 years of age): the recommended dose of Ziagen is 600 mg daily.
 This may be administered as either 300 mg (one tablet) twice daily or 600 mg (two tablets) once daily (see sections 4.4 and 5.1).
+
 Patients changing to the once daily regimen should take 300 mg twice a day and switch to 600 mg once a day the following morning.
 Where an evening once daily regimen is preferred, 300 mg of Ziagen should be taken on the first morning only, followed by 600 mg in the evening.
 When changing back to a twice daily regimen, patients should complete the day's treatment and start 300 mg twice a day the following morning.
@@ -50,7 +50,6 @@ This may be administered as either 300 mg (15 ml) twice daily or 600 mg (30 ml) 
 Patients changing to the once daily regimen should take 300 mg (15 ml) twice a day and switch to 600 mg (30 ml) once a day the following morning.
 Where an evening once daily regimen is preferred, 300 mg (15 ml) of Ziagen should be taken on the first morning only, followed by 600 mg (30 ml) in the evening.
 When changing back to a twice daily regimen, patients should complete the day's treatment and start 300 mg (15 ml) twice a day the following morning.
-
 Children from three months to 12 years: the recommended dose is 8 mg/kg twice daily up to a maximum of 600 mg (30 ml) daily.
 
 Ziagen is also available as a tablet formulation.

@@ -2,7 +2,7 @@
 
 Hypersensitivity reaction (see also section 4.8):
 
-In clinical studies approximately 5% of subjects receiving abacavir develop a hypersensitivity reaction; some of these cases were life-threatening and resulted in a fatal outcome despite taking precautions.
+In a clinical study, 3.4 % of subjects with a negative HLA-B*5701 status receiving abacavir developed a hypersensitivity reaction.
 
 Studies have shown that carriage of the HLA-B*5701 allele is associated with a significantly increased risk of a hypersensitivity reaction to abacavir.
 Based on the prospective study CNA106030 (PREDICT-1), use of pre-therapy screening for the HLA-B*5701 allele and subsequently avoiding abacavir in patients with this allele significantly reduced the incidence of abacavir hypersensitivity reactions.
@@ -11,6 +11,7 @@ In populations similar to that enrolled in the PREDICT-1 study, it is estimated 
 These results are consistent with those of prior retrospective studies.
 
 As a consequence, before initiating treatment with abacavir, screening for carriage of the HLA-B*5701 allele should be performed in any HIV-infected patient, irrespective of racial origin.
+Screening is also recommended prior to re-initiation of abacavir in patients of unknown HLA-B*5701 status who have previously tolerated abacavir (see “Management after an interruption of Ziagen therapy”).
 Abacavir should not be used in patients known to carry the HLA-B*5701 allele, unless no other therapeutic option is available based on the treatment history and resistance testing (see section 4.1).
 
 In any patient treated with abacavir, the clinical diagnosis of suspected hypersensitivity reaction must remain the basis of clinical decision-making.
@@ -35,13 +36,11 @@ These symptoms usually resolve upon discontinuation of Ziagen.
 Hypersensitivity reaction symptoms usually appear within the first six weeks of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 Patients should be monitored closely, especially during the first two months of treatment with Ziagen, with consultation every two weeks.
 
-Patients who are diagnosed with a hypersensitivity reaction whilst on therapy MUST discontinue
-Ziagen immediately.
+Regardless of their HLA-B*5701 status, patients who are diagnosed with a hypersensitivity reaction whilst on therapy MUST discontinue Ziagen immediately.
 
 Ziagen, or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir), MUST NEVER be restarted in patients who have stopped therapy due to a hypersensitivity reaction.
 Restarting abacavir following a hypersensitivity reaction results in a prompt return of symptoms within hours.
 This recurrence is usually more severe than on initial presentation, and may include life-threatening hypotension and death.
-
 To avoid a delay in diagnosis and minimise the risk of a life-threatening hypersensitivity reaction, Ziagen must be permanently discontinued if hypersensitivity cannot be ruled out, even when other diagnoses are possible (respiratory diseases, flu-like illness, gastroenteritis or reactions to other medications).
 
 Special care is needed for those patients simultaneously starting treatment with Ziagen and other medicinal products known to induce skin toxicity (such as non-nucleoside reverse transcriptase inhibitors - NNRTIs).
@@ -49,29 +48,32 @@ This is because it is currently difficult to differentiate between rashes induce
 
 - Management after an interruption of Ziagen therapy
 
-If therapy with Ziagen has been discontinued for any reason and restarting therapy is under consideration, the reason for discontinuation must be established to assess whether the patient had any symptoms of a hypersensitivity reaction.
+Regardless of a patient’s HLA-B*5701 status, if therapy with Ziagen has been discontinued for any reason and restarting therapy is under consideration, the reason for discontinuation must be established to assess whether the patient had any symptoms of a hypersensitivity reaction.
 If a hypersensitivity reaction cannot be ruled out, Ziagen or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir) must not be restarted.
 
 Hypersensitivity reactions with rapid onset, including life-threatening reactions have occurred after restarting Ziagen in patients who had only one of the key symptoms of hypersensitivity (skin rash, fever, gastrointestinal, respiratory or constitutional symptoms such as lethargy and malaise) prior to stopping Ziagen.
 The most common isolated symptom of a hypersensitivity reaction was a skin rash.
-Moreover, on very rare occasions hypersensitivity reactions have been reported in patients who have restarted therapy, and who had no preceding symptoms of a hypersensitivity reaction.
+Moreover, on very rare occasions hypersensitivity reactions have been reported in patients who have restarted therapy, and who had no preceding symptoms of a hypersensitivity reaction (i.e. patients previously considered to be abacavir tolerant).
 In both cases, if a decision is made to restart Ziagen this must be done in a setting where medical assistance is readily available.
+
+Screening for carriage of the HLA B*5701 allele is recommended prior to re-initiation of abacavir in patients of unknown HLA-B*5701 status who have previously tolerated abacavir.
+Re-initiation of abacavir in such patients who test positive for the HLA B*5701 allele is not recommended and should be considered only under exceptional circumstances where potential benefit outweighs the risk and with close medical supervision.
 
 - Essential patient information
 
 Prescribers must ensure that patients are fully informed regarding the following information on the hypersensitivity reaction:
 
-- patients must be made aware of the possibility of a hypersensitivity reaction to abacavir that may result in a life-threatening reaction or death.
+- patients must be made aware of the possibility of a hypersensitivity reaction to abacavir that may result in a life-threatening reaction or death and that the risk of a hypersensitivity reaction is increased if they are HLA-B*5701 positive.
 
-- patients developing signs or symptoms possibly linked with a hypersensitivity reaction
-MUST CONTACT their doctor IMMEDIATELY.
+- patients must also be informed that a HLA-B*5701 negative patient can also experience an abacavir hypersensitivity reaction.
+Therefore, ANY patient who develops signs or symptoms consistent with a possible hypersensitivity reaction to abacavir MUST CONTACT THEIR
+DOCTOR IMMEDIATELY.
 
-- patients who are hypersensitive to abacavir should be reminded that they must never take Ziagen or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir)
+- patients who are hypersensitive to abacavir should be reminded that they must never take Ziagen or any other medicinal product containing abacavir (e.g. Kivexa, Trizivir) again, regardless of their HLA-B*5701 status.
 
 - in order to avoid restarting Ziagen, patients who have experienced a hypersensitivity reaction should be asked to return the remaining Ziagen tablets or oral solution to the pharmacy.
 
 - patients who have stopped Ziagen for any reason, and particularly due to possible adverse reactions or illness, must be advised to contact their doctor before restarting.
-
 - each patient should be reminded to read the Package Leaflet included in the Ziagen pack.
 They should be reminded of the importance of removing the Alert Card included in the pack, and keeping it with them at all times.
 
@@ -81,6 +83,7 @@ Early symptoms (symptomatic hyperlactatemia) include benign digestive symptoms (
 Lactic acidosis has a high mortality and may be associated with pancreatitis, liver failure, or renal failure.
 
 Lactic acidosis generally occurred after a few or several months of treatment.
+
 Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactatemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
 
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
@@ -109,7 +112,6 @@ Lipid disorders should be managed as clinically appropriate (see section 4.8).
 Pancreatitis: pancreatitis has been reported, but a causal relationship to abacavir treatment is uncertain.
 
 Triple nucleoside therapy: in patients with high viral load (>100,000 copies/ml) the choice of a triple combination with abacavir, lamivudine and zidovudine needs special consideration (see section 5.1).
-
 There have been reports of a high rate of virological failure and of emergence of resistance at an early stage when abacavir was combined with tenofovir disoproxil fumarate and lamivudine as a once daily regimen.
 
 Liver disease: the safety and efficacy of Ziagen has not been established in patients with significant underlying liver disorders.
@@ -152,6 +154,8 @@ To date, there is no established biological mechanism to explain a potential inc
 When prescribing Ziagen, action should be taken to try to minimize all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia).
 
 [Ziagen 20 mg/ml oral solution]
+
+Therefore, ANY patient who develops signs or symptoms consistent with a possible hypersensitivity reaction to abacavir MUST CONTACT THEIR DOCTOR IMMEDIATELY.
 
 Excipients: Ziagen oral solution contains 340 mg/ml of sorbitol.
 When taken according to the dosage recommendations each 15 ml dose contains approximately 5 g of sorbitol.
