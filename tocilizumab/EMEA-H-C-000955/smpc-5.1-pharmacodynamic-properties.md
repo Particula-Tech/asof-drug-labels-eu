@@ -75,7 +75,7 @@ ACR responses in placebo-/MTX-/DMARDs-controlled studies (% patients)
 | 52 |  |  | 36%*** | 10% |  |  |  |  |  |  |
 | ACR 70 |  |  |  |  |  |  |  |  |  |  |
 | 24 | 28%** | 15% | 13%*** | 2% | 22%** * | 2% | 21%*** | 3% | 12%** | 1% |
-| 52 |  |  | 20%*** 4% |  |  |  |  |  |  |  |
+| 52 |  |  | 20%*** | 4% |  |  |  |  |  |  |
 
 TCZ - Tocilizumab
 MTX - Methotrexate

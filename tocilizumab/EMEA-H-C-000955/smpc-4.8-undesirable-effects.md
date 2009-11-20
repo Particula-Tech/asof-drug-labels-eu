@@ -42,8 +42,9 @@ Reported serious infections included pneumonia, cellulitis, herpes zoster, gastr
 Serious infections were rarely fatal.
 Cases of opportunistic infections have been reported.
 
-Complications of diverticulitis
-During the six month controlled trials, complications of diverticulitis including generalised purulent peritonitis, lower gastrointestinal perforation, fistulae and abscess have been reported uncommonly with tocilizumab therapy.
+Gastrointestinal Perforation
+During the six month controlled clinical trials, gastrointestinal perforation has been reported uncommonly (in 0.1% of patients) with tocilizumab therapy.
+Reports of gastrointestinal perforation on tocilizumab were primarily reported as complications of diverticulitis including generalized purulent peritonitis, lower GI perforation, fistula and abscess.
 
 Infusion reactions
 Adverse events associated with infusion (selected events occurring during or within 24 hours of infusion) were reported by 6.9% of patients in the tocilizumab 8 mg/kg plus DMARD group and 5.1% of patients in the placebo plus DMARD group.
