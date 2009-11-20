@@ -11,7 +11,7 @@ Mounting the dosing pump on the bottle:
 
 The dosing pump has to be removed from the plastic bag (fig.
 2) and placed on top of the bottle, sliding the plastic dip tube carefully into the bottle.
-Then the dosing pump needs to be held onto the neck of the bottle and screwed clockwise until it is firmly attached (fig 3).
+Then the dosing pump needs to be hold onto the neck of the bottle and screwed clockwise until it is firmly attached (fig 3).
 For the intended use the dosing pump is only screwed on once when starting the use, and should never be unscrewed.
 
 Use of the dosing pump for dispensing:
@@ -34,7 +34,7 @@ The next time the dosing pump head is pushed downwards completely, it dispenses 
 Correct use of the dosing pump:
 
 The bottle should be placed on a flat, horizontal surface, for example a table top, and only use it in a vertical position.
-A glass with a little water or a spoon should be held below the nozzle and the dosing pump head has to be pushed down in a firm but calm and steady manner (not too slowly) right down to the stop (fig.
+A glass with a little water or a spoon should be hold below the nozzle and the dosing pump head has to be pushed down in a firm but calm and steady manner (not too slowly) right down to the stop (fig.
 7, fig. 8).
 
 The dosing pump head can then be released and is ready for the next downward stroke.

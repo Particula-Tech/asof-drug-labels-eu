@@ -6,7 +6,7 @@ EU/1/02/219/014-021
 
 [Ebixa 10 mg/g oral drops, solution.]
 
-EU/1/02/219/004-006
+EU/1/02/219/005-006
 EU/1/02/219/013
 
 [Ebixa 5 mg film-coated tablets.]

@@ -22,7 +22,6 @@ The patient should take one 10 mg film-coated tablet (10 mg) per day for 7 days.
 
 Week 3 (day 15-21):
 The patient should take one and a half 10 mg film-coated tablet (15 mg) per day for 7 days.
-
 From Week 4 on:
 The patient should take two 10 mg film-coated tablets (20 mg) per day.
 
