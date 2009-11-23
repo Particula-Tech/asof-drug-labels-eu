@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 There is insufficient information on the use of posaconazole in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).

@@ -3,6 +3,7 @@
 Treatment should be initiated by a physician experienced in the management of fungal infections or in the supportive care in the high risk patients for which posaconazole is indicated as prophylaxis.
 
 Recommended dosage is shown in Table 1.
+
 Table 1.
 Recommended dose according to indication
 

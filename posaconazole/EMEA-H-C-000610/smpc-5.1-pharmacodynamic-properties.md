@@ -31,6 +31,7 @@ Most of the cases of aspergillosis were considered to be refractory to prior the
 
 As shown in Table 3, a successful response (complete or partial resolution) at the end of treatment was seen in 42 % of posaconazole-treated patients compared to 26 % of the external group.
 However, this was not a prospective, randomised controlled study and so all comparisons with the external control group should be viewed with caution.
+
 Table 3.
 Overall efficacy of posaconazole at the end of treatment for invasive aspergillosis in comparison to an external control group
 
@@ -43,6 +44,7 @@ Overall efficacy of posaconazole at the end of treatment for invasive aspergillo
 | A. terreus | 4/14 (29 %) | 2/13 (15 %) |
 | A. niger | 3/5 (60 %) | 2/7 (29 %) |
 
+1 Includes other less common species or species unknown
 Fusarium spp.: 11 of 24 patients who had proven or probable fusariosis were successfully treated with posaconazole 800 mg/day in divided doses for a median of 124 days and up to 212 days.
 Among eighteen patients who were intolerant or had infections refractory to amphotericin B or itraconazole, seven patients were classed as responders.
 
@@ -74,9 +76,7 @@ Two randomised, controlled prophylaxis studies were conducted among patients at 
 
 Study 316 was a randomised, double-blind trial of posaconazole oral suspension (200 mg three times a day) versus fluconazole capsules (400 mg once daily) in allogeneic hematopoietic stem cell transplant recipients with graft-versus-host disease (GVHD).
 The primary efficacy endpoint was the incidence of proven/probable IFIs at 16 weeks post-randomization as determined by an independent, blinded external expert panel.
-A key secondary endpoint was the incidence of proven/probable IFIs during the
-
-1 Includes other less common species or species unknown on-treatment period (first dose to last dose of study medicinal product + 7 days).
+A key secondary endpoint was the incidence of proven/probable IFIs during the on-treatment period (first dose to last dose of study medicinal product + 7 days).
 The majority (377/600, [63 %]) of patients included had Acute Grade 2 or 3 or chronic extensive (195/600,
 [32.5 %]) GVHD at study start.
 The mean duration of therapy was 80 days for posaconazole and 77 days for fluconazole.
@@ -86,7 +86,6 @@ The primary efficacy endpoint was the incidence of proven/probable IFIs as deter
 A key secondary endpoint was the incidence of proven/probable IFIs at 100 days post-randomization.
 New diagnosis of acute myelogenous leukemia was the most common underlying condition (435/602, [72 %]).
 The mean duration of therapy was 29 days for posaconazole and 25 days for fluconazole/itraconazole.
-
 In both prophylaxis studies, aspergillosis was the most common breakthrough infection.
 See Table 5 and 6 for results from both studies.
 There were fewer breakthrough Aspergillus infections in patients receiving posaconazole prophylaxis when compared to control patients.
@@ -109,6 +108,7 @@ a: FLU/ITZ (1899); FLU (316).
 b: In 1899 this was the period from randomization to last dose of study medicinal product plus 7 days; in 316 it was the period from first dose to last dose of study medicinal product plus 7 days.
 c: In 1899, this was the period from randomization to 100 days post-randomization; in 316 it was the period from the baseline day to 111 days post-baseline.
 d: All randomized e: All treated
+
 Table 6.
 Results from clinical studies in prophylaxis of Invasive Fungal Infections.
 
