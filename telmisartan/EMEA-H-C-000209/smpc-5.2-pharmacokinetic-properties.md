@@ -10,6 +10,7 @@ Linearity/non-linearity:
 The small reduction in AUC is not expected to cause a reduction in the therapeutic efficacy.
 There is no linear relationship between doses and plasma levels.
 Cmax and to a lesser extent AUC increase disproportionately at doses above 40 mg.
+
 Distribution:
 Telmisartan is largely bound to plasma protein (>99.5 %), mainly albumin and alpha-1 acid glycoprotein.
 The mean steady state apparent volume of distribution (Vdss) is approximately 500 l.

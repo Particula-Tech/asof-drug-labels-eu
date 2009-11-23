@@ -21,8 +21,7 @@ Intravascular hypovolaemia:
 Symptomatic hypotension, especially after the first dose of Micardis, may occur in patients who are volume and/or sodium depleted by vigorous diuretic therapy, dietary salt restriction, diarrhoea, or vomiting.
 Such conditions should be corrected before the administration of Micardis.
 Volume and/or sodium depletion should be corrected prior to administration of Micardis.
-
-Dual blockade of the renin-angiotensin-aldosterone system: As a consequence of inhibiting the renin-angiotensin-aldosterone system, hypotension and changes in renal function (including acute renal failure) have been reported in susceptible individuals, especially if combining medicinal products that affect this system.
+Dual blockade of the renin-angiotensin-aldosterone system: As a consequence of inhibiting the renin-angiotensin-aldosterone system, hypotension, syncope, hyperkalaemia, and changes in renal function (including acute renal failure) have been reported in susceptible individuals, especially if combining medicinal products that affect this system.
 Dual blockade of the renin-angiotensin-aldosterone system (e.g. by adding an ACE-inhibitor to an angiotensin II receptor antagonist) is therefore not recommended in patients with already controlled blood pressure and should be limited to individually defined cases with close monitoring of renal function.
 
 Other conditions with stimulation of the renin-angiotensin-aldosterone system:
@@ -31,6 +30,7 @@ In patients whose vascular tone and renal function depend predominantly on the a
 Primary aldosteronism:
 Patients with primary aldosteronism generally will not respond to antihypertensive medicinal products acting through inhibition of the renin-angiotensin system.
 Therefore, the use of telmisartan is not recommended.
+
 Aortic and mitral valve stenosis, obstructive hypertrophic cardiomyopathy:
 As with other vasodilators, special caution is indicated in patients suffering from aortic or mitral stenosis, or obstructive hypertrophic cardiomyopathy.
 
@@ -54,6 +54,5 @@ Patients with rare hereditary problems of fructose intolerance should not take M
 
 Ethnic differences:
 As observed for angiotensin converting enzyme inhibitors, telmisartan and the other angiotensin II receptor antagonists are apparently less effective in lowering blood pressure in black people than in non-blacks, possibly because of higher prevalence of low-renin states in the black hypertensive population.
-
 Other:
 As with any antihypertensive agent, excessive reduction of blood pressure in patients with ischaemic cardiopathy or ischaemic cardiovascular disease could result in a myocardial infarction or stroke.

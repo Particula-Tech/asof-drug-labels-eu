@@ -1,6 +1,7 @@
 # 4.6 Pregnancy and lactation
 
 Pregnancy:
+
 The use of angiotensin II receptor antagonists is not recommended during the first trimester of pregnancy (see section 4.4).
 The use of angiotensin II receptor antagonists is contraindicated during the second and third trimesters of pregnancy (see sections 4.3 and 4.4).
 

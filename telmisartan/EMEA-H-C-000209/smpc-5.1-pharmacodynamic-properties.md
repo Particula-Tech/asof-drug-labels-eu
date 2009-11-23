@@ -19,6 +19,8 @@ In human, an 80 mg dose of telmisartan almost completely inhibits the angiotensi
 The inhibitory effect is maintained over 24 hours and still measurable up to 48 hours.
 
 Clinical efficacy and safety:
+
+Treatment of essential hypertension
 After the first dose of telmisartan, the antihypertensive activity gradually becomes evident within 3 hours.
 The maximum reduction in blood pressure is generally attained 4 to 8 weeks after the start of treatment and is sustained during long-term therapy.
 
@@ -35,10 +37,32 @@ Upon abrupt cessation of treatment with telmisartan, blood pressure gradually re
 
 The incidence of dry cough was significantly lower in patients treated with telmisartan than in those given angiotensin converting enzyme inhibitors in clinical trials directly comparing the two antihypertensive treatments.
 
+Cardiovascular prevention
+ONTARGET (ONgoing Telmisartan Alone and in Combination with Ramipril Global Endpoint Trial) compared the effects of telmisartan, ramipril and the combination of telmisartan and ramipril on cardiovascular outcomes in 25620 patients aged 55 years or older with a history of coronary artery disease, stroke, TIA, peripheral arterial disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage (e.g. retinopathy, left ventricular hypertrophy, macro- or microalbuminuria), which is a population at risk for cardiovascular events.
+Patients were randomized to one of the three following treatment groups: telmisartan 80 mg (n = 8542), ramipril 10 mg (n = 8576), or the combination of telmisartan 80 mg plus ramipril 10 mg (n = 8502), and followed for a mean observation time of 4.5 years.
+
+Telmisartan showed a similar effect to ramipril in reducing the primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalization for congestive heart failure.
+The incidence of the primary endpoint was similar in the telmisartan (16.7 %) and ramipril (16.5 %) groups.
+The hazard ratio for telmisartan vs. ramipril was 1.01 (97.5 % CI 0.93 - 1.10, p (non-inferiority) = 0.0019 at a margin of 1.13).
+The all-cause mortality rate was 11.6 % and 11.8 % among telmisartan and ramipril treated patients, respectively.
+
+Telmisartan was found to be similarly effective to ramipril in the pre-specified secondary endpoint of cardiovascular death, non-fatal myocardial infarction, and non-fatal stroke [0.99 (97.5 % CI 0.90 - 1.08), p (non-inferiority) = 0.0004], the primary endpoint in the reference study HOPE (The Heart Outcomes Prevention Evaluation Study), which had investigated the effect of ramipril vs. placebo.
+
+TRANSCEND randomized ACE-I intolerant patients with otherwise similar inclusion criteria as ONTARGET to telmisartan 80 mg (n=2954) or placebo (n=2972), both given on top of standard care.
+The mean duration of follow up was 4 years and 8 months.
+No statistically significant difference in the incidence of the primary composite endpoint (cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalization for congestive heart failure) was found [15.7 % in the telmisartan and 17.0 % in the placebo groups with a hazard ratio of 0.92 (95 % CI 0.81 - 1.05, p = 0.22)].
+There was evidence for a benefit of telmisartan compared to placebo in the pre-specified secondary composite endpoint of cardiovascular death, non-fatal myocardial infarction, and non-fatal stroke [0.87 (95 % CI 0.76 - 1.00, p = 0.048)].
+There was no evidence for benefit on cardiovascular mortality (hazard ratio 1.03, 95 % CI 0.85 - 1.24).
+
+Cough and angioedema were less frequently reported in patients treated with telmisartan than in patients treated with ramipril, whereas hypotension was more frequently reported with telmisartan.
+
+Combining telmisartan with ramipril did not add further benefit over ramipril or telmisartan alone.
+CV mortality and all cause mortality were numerically higher with the combination.
+In addition, there was a significantly higher incidence of hyperkalaemia, renal failure, hypotension and syncope in the combination arm.
+Therefore the use of a combination of telmisartan and ramipril is not recommended in this population.
+
 In the "Prevention Regimen For Effectively avoiding Second Strokes" (PRoFESS) trial in patients 50 years and older, who recently experienced stroke, an increased incidence of sepsis was noted for telmisartan compared with placebo, 0.70 % vs. 0.49 % [RR 1.43 (95 % confidence interval 1.00 - 2.06)]; the incidence of fatal sepsis cases was increased for patients taking telmisartan (0.33 %) vs. patients taking placebo (0.16 %) [RR 2.07 (95 % confidence interval 1.14 - 3.76)].
 The observed increased occurrence rate of sepsis associated with the use of telmisartan may be either a chance finding or related to a mechanism not currently known.
-
-Beneficial effects of telmisartan on mortality and cardiovascular morbidity are currently unknown.
 
 [Micardis 40 mg tablets]
 

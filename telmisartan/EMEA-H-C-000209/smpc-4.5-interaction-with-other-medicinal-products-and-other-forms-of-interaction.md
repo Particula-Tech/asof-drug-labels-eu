@@ -9,6 +9,7 @@ The occurrence of hyperkalaemia depends on associated risk factors.
 The risk is increased in case of the above-mentioned treatment combinations.
 The risk is particularly high in combination with potassium sparing-diuretics, and when combined with salt substitutes containing potassium.
 A combination with ACE inhibitors or NSAIDs, for example, presents a lesser risk provided that precautions for use are strictly followed.
+
 Concomitant use not recommended
 
 Potassium sparing diuretics or potassium supplements:
@@ -33,7 +34,6 @@ The clinical relevance of this observation is not known.
 
 Diuretics (thiazide or loop diuretics):
 Prior treatment with high dose diuretics such as furosemide (loop diuretic) and hydrochlorothiazide (thiazide diuretic) may result in volume depletion, and in a risk of hypotension when initiating therapy with telmisartan.
-
 To be taken into account with concomitant use
 
 Other antihypertensive agents:
