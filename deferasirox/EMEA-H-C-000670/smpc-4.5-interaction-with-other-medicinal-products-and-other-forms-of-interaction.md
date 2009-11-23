@@ -5,7 +5,6 @@ Although deferasirox has a lower affinity for aluminium than for iron, it is not
 
 The bioavailability of deferasirox was increased to a variable extent when taken along with food.
 EXJADE must therefore be taken on an empty stomach at least 30 minutes before food, preferably at the same time each day (see sections 4.2 and 5.2).
-
 Deferasirox metabolism depends on UGT enzymes.
 In a healthy volunteer study, the concomitant administration of EXJADE (single dose of 30 mg/kg) and the potent UGT inducer, rifampicin, (repeated dose of 600 mg/day) resulted in a decrease of deferasirox exposure by 44% (90% CI: 37% - 51%).
 Therefore, the concomitant use of EXJADE with potent UGT inducers (e.g. rifampicin, carbamazepine, phenytoin, phenobarbital, ritonavir) may result in a decrease in EXJADE efficacy (see section 4.4).

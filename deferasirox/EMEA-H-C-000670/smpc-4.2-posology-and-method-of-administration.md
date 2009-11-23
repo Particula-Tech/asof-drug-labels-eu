@@ -10,6 +10,7 @@ Starting dose
 The recommended initial daily dose of EXJADE is 20 mg/kg body weight.
 
 An initial daily dose of 30 mg/kg may be considered for patients who require reduction of elevated body iron levels and who are also receiving more than 14 ml/kg/month of packed red blood cells (approximately >4 units/month for an adult).
+
 An initial daily dose of 10 mg/kg may be considered for patients who do not require reduction of body iron levels and who are also receiving less than 7 ml/kg/month of packed red blood cells (approximately <2 units/month for an adult).
 The patient’s response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1).
 
@@ -19,7 +20,14 @@ When this results in a daily dose less than 20 mg/kg body weight, the patient’
 Maintenance dose
 It is recommended that serum ferritin be monitored every month and that the dose of EXJADE be adjusted, if necessary, every 3 to 6 months based on the trends in serum ferritin.
 Dose adjustments may be made in steps of 5 to 10 mg/kg and are to be tailored to the individual patient’s response and therapeutic goals (maintenance or reduction of iron burden).
-Doses above 30 mg/kg are not recommended because there is only limited experience with doses above this level.
+In patients not adequately controlled with doses of 30 mg/kg (e.g. serum ferritin levels persistently above 2,500 µg/l and not showing a decreasing trend over time), doses of up to 40 mg/kg may be considered.
+The availability of long-term efficacy and safety data with EXJADE used at doses above 30 mg/kg is currently limited (264 patients followed for an average of 1 year after dose escalation).
+If only very poor haemosiderosis control is achieved at doses up to 30 mg/kg, a further increase (to a maximum of 40 mg/kg) may not achieve satisfactory control, and alternative treatment options may be considered.
+If no satisfactory control is achieved at doses above 30 mg/kg, treatment at such doses should not be maintained and alternative treatment options should be considered whenever possible.
+Doses above 40 mg/kg are not recommended because there is only limited experience with doses above this level.
+
+In patients treated with doses greater than 30 mg/kg, dose reductions in steps of 5 to 10 mg/kg should be considered when control has been achieved (e.g. serum ferritin levels persistently below 2,500 µg/l and showing a decreasing trend over time).
+In patients whose serum ferritin level has reached the target (usually between 500 and 1,000 µg/l), dose reductions in steps of 5 to 10 mg/kg should be considered to maintain serum ferritin levels within the target range.
 If serum ferritin falls consistently below 500 µg/l, an interruption of treatment should be considered (see section 4.4).
 
 Preparation
@@ -30,6 +38,7 @@ The tablets must not be chewed or swallowed whole (see also section 6.2).
 
 Elderly patients (≥65 years of age)
 The dosing recommendations for elderly patients are the same as described above.
+In clinical trials, elderly patients experienced a higher frequency of adverse reactions than younger patients (in particular, diarrhoea) and should be monitored closely for adverse events that may require a dose adjustment.
 
 Paediatric patients (2 to 17 years of age)
 The dosing recommendations for paediatric patients are the same as for adult patients.
@@ -40,8 +49,7 @@ However, the initial dose should be the same as in adults, followed by individua
 
 Patients with renal impairment
 EXJADE has not been studied in patients with renal impairment and is contraindicated in patients with estimated creatinine clearance <60 ml/min (see sections 4.3 and 4.4).
-
 Patients with hepatic impairment
 EXJADE has not been studied in patients with hepatic impairment and must be used with caution in such patients.
 The initial dosing recommendations for patients with hepatic impairment are the same as described above.
-Hepatic function in all patients should be monitored before treatment then every month (see section 4.4).
+Hepatic function in all patients should be monitored before treatment, every 2 weeks during the first month and then every month (see section 4.4).
