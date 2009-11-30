@@ -205,3 +205,24 @@ Antiviral prophylaxis was administered to 26% of the patients in the VcMP arm.
 The incidence of herpes zoster among patients in the VcMP treatment group was 17% for patients not administered antiviral prophylaxis compared to 3% for patients administered antiviral prophylaxis.
 
 Post Marketing Experience
+
+| Infections and infestations |  |
+| --- | --- |
+| Not known: | Herpes meningoencephalitis, septic shock |
+| Immune system disorders |  |
+| Not known: | Angioedema |
+| Nervous system disorders |  |
+| Not known: | Encephalopathy, autonomic neuropathy |
+| Eye disorders |  |
+| Not known: | Ophthalmic herpes |
+| Cardiac disorders |  |
+| Not known: | Cardiac tamponade, pericarditis, cardiac and cardiopulmonary arrest, ventricular arrhythmias, atrio-ventricular block complete, atrial fibrillation, tachycardia, sinus and ventricular tachycardia |
+| Respiratory, thoracic and mediastinal disorders (see section 4.4) |  |
+| Not known: | Pneumonitis, pneumonia, interstitial pneumonia, Acute Respiratory Distress Syndrome (ARDS), acute diffuse infiltrative pulmonary disease, pulmonary hypertension, respiratory failure, pulmonary alveolar haemorrhage, acute pulmonary oedema, pulmonary oedema, pulmonary embolism, peripheral embolism |
+| Gastrointestinal disorders |  |
+| Not known: | Ischemic colitis |
+| Hepatobiliary disorders |  |
+| Not known: | Liver failure |
+| Skin and subcutaneous tissue disorders |  |
+
+Not known: Stevens-Johnson Syndrome, toxic epidermal necrolysis
