@@ -10,7 +10,6 @@ Therefore, varenicline can effectively block nicotine's ability to fully activat
 Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1μM, except to 5-HT3 receptors: Ki=350 nM).
 
 The efficacy of CHAMPIX in smoking cessation is a result of varenicline's partial agonist activity at the α4β2 nicotinic receptor where its binding produces an effect sufficient to alleviate symptoms of craving and withdrawal (agonist activity), while simultaneously resulting in a reduction of the rewarding and reinforcing effects of smoking by preventing nicotine binding to α4β2 receptors (antagonist activity).
-
 Clinical Efficacy
 
 The efficacy of CHAMPIX in smoking cessation was demonstrated in 3 clinical trials involving chronic cigarette smokers (≥ 10 cigarettes per day).
@@ -49,7 +48,6 @@ Patients who stopped smoking by Week 12 were then randomized to receive either C
 
 The primary study endpoint was the CO-confirmed continuous abstinence rate from week 13 through week 24 in the double-blind treatment phase.
 A key secondary endpoint was the continuous abstinence (CA) rate for week 13 through week 52.
-
 This study showed the benefit of an additional 12-week treatment with CHAMPIX 1 mg twice daily for the maintenance of smoking cessation compared to placebo.
 The odds of maintaining abstinence at week 24, following an additional 12 weeks of treatment with CHAMPIX, were 2.47 times those for placebo (p<0.0001).
 Superiority to placebo for CA was maintained through week 52 (Odds Ratio=1.35, p=0.0126).
