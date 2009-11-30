@@ -30,3 +30,17 @@ The combined administration of docetaxel, cisplatin and 5-fluorouracil in 12 pat
 
 The effect of prednisone on the pharmacokinetics of docetaxel administered with standard dexamethasone premedication has been studied in 42 patients.
 No effect of prednisone on the pharmacokinetics of docetaxel was observed.
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+(all sentences already above)
+
+[TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
+
+The pharmacokinetics of docetaxel, doxorubicin and cyclophosphamide were not influenced by their co-administration.
+
+The combined administration of docetaxel, cisplatin and 5-fluorouracil in 12 patients with solid tumours had no influence on the pharmacokinetics of each individual medicinal product.
+
+[TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
+
+(all sentences already above)

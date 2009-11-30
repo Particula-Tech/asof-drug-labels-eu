@@ -105,6 +105,7 @@ Efficacy results are summarized in the following table:
 TTP = time to progression; “ne” indicates that it could not be estimated or it was not yet reached.
 1Full analysis set (intent-to-treat)
 2 Estimated median survival
+
 TAXOTERE in combination with capecitabine
 
 Data from one multicenter, randomised, controlled phase III clinical trial support the use of docetaxel in combination with capecitabine for treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy, including an anthracycline.
@@ -129,6 +130,7 @@ The overall response rate was 6.8% in the evaluable patients, and the median dur
 TAXOTERE in combination with platinum agents in chemotherapy-naïve patients
 
 In a phase III trial, 1218 patients with unresectable stage IIIB or IV NSCLC, with KPS of 70% or greater, and who did not receive previous chemotherapy for this condition, were randomised to either docetaxel (T) 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin (Cis) 75 mg/m2 over 30-60 minutes every 3 weeks, docetaxel 75 mg/m2 as a 1 hour infusion in combination with carboplatin (AUC 6 mg/ml.min) over 30-60 minutes every 3 weeks, or vinorelbine (V) 25 mg/m2 administered over 6-10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks.
+
 Survival data, median time to progression and response rates for two arms of the study are illustrated in the following table:
 
 |  | TCis n = 408 | VCis n = 404 | Statistical Analysis |
@@ -138,7 +140,6 @@ Survival data, median time to progression and response rates for two arms of the
 | Overall Response Rate (%): | 31.6 | 24.5 | Treatment difference: 7.1% [95% CI: 0.7; 13.5] |
 
 *: Corrected for multiple comparisons and adjusted for stratification factors (stage of disease and region of treatment), based on evaluable patient population.
-
 Secondary end-points included change of pain, global rating of quality of life by EuroQoL-5D, Lung Cancer Symptom Scale, and changes in Karnosfky performance status.
 Results on these end-points were supportive of the primary end-points results.
 
@@ -185,6 +186,7 @@ Time to progression (TTP) was the primary endpoint.
 The risk reduction of progression was 32.1% and was associated with a significantly longer TTP (p = 0.0004) in favor of the TCF arm.
 Overall survival was also significantly longer (p = 0.0201) in favor of the TCF arm with a risk reduction of mortality of 22.7%.
 Efficacy results are summarized in the following table:
+
 Efficacy of docetaxel in the treatment of patients with gastric adenocarcinoma
 
 | Endpoint | TCF n = 221 | CF n = 224 |
@@ -248,7 +250,6 @@ A Hazard ratio of less than 1 favors docetaxel + cisplatin + 5-FU
 
 Quality of life parameters
 Patients treated with TPF experienced significantly less deterioration of their Global health score compared to those treated with PF (p = 0.01, using the EORTC QLQ-C30 scale).
-
 Clinical benefit parameters
 The performance status scale, for head and neck (PSS-HN) subscales designed to measure understandability of speech, ability to eat in public, and normalcy of diet, was significantly in favor of TPF as compared to PF.
 Median time to first deterioration of WHO performance status was significantly longer in the TPF arm compared to PF.
@@ -293,3 +294,65 @@ A Hazard ratio of less than 1 favors docetaxel + cisplatin + fluorouracil
 **un-adjusted log-rank test, not adjusted for multiple comparisons
 ***Chi square test, not adjusted for multiple comparisons
 NA-not applicable
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+(all sentences already above)
+
+[TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
+
+Pharmacotherapeutic group: Taxanes, ATC Code: L01CD02
+
+Data from a multicenter open label randomized study support the use of docetaxel for the adjuvant treatment of patients with operable node-positive breast cancer and KPS ≥ 80%, between 18 and 70 years of age.
+
+One large randomized phase III study, involving 429 previously untreated patients with metastatic disease, has been performed with doxorubicin (50 mg/m²) in combination with docetaxel (75 mg/m²) (AT arm) versus doxorubicin (60 mg/m²) in combination with cyclophosphamide (600 mg/m²)
+(AC arm).
+
+In this study, AT arm showed a higher incidence of severe neutropenia (90% versus 68.6%), febrile neutropenia (33.3% versus 10%), infection (8% versus 2.4%), diarrhoea (7.5% versus 1.4%), asthenia (8.5% versus 2.4%), and pain (2.8% versus 0%) than AC arm.
+On the other hand, AC arm showed a higher incidence of severe anaemia (15.8% versus 8.5%) than AT arm, and, in addition, a higher incidence of severe cardiac toxicity: congestive heart failure (3.8% versus 2.8%), absolute LVEF decrease ≥ 20% (13.1% versus 6.1%), absolute LVEF decrease ≥ 30% (6.2% versus 1.1%).
+
+Docetaxel in combination with trastuzumab was studied for the treatment of patients with metastatic breast cancer whose tumours overexpress HER2, and who previously had not received chemotherapy for metastatic disease.
+The main test method used to determine HER2 positivity in this pivotal study was immunohistochemistry (IHC).
+In this study, 87% of patients had disease that was IHC 3+, and 95% of patients entered had disease that was IHC 3+ and/or FISH positive.
+
+Data from one multicenter, randomised, controlled phase III clinical study support the use of docetaxel in combination with capecitabine for treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy, including an anthracycline.
+In this study, 255 patients were randomised to treatment with docetaxel (75 mg/m2 as a 1 hour intravenous infusion every 3 weeks) and capecitabine (1250 mg/m2 twice daily for 2 weeks followed by 1-week rest period).
+
+There was less use of morphinic analgesic (p < 0.01), non-morphinic analgesics (p < 0.01), other disease-related medicinal products (p = 0.06) and radiotherapy (p < 0.01) in patients treated with docetaxel at 75 mg/m² compared to those with BSC.
+
+In a phase III study, 1218 patients with unresectable stage IIIB or IV NSCLC, with KPS of 70% or greater, and who did not receive previous chemotherapy for this condition, were randomised to either docetaxel (T) 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin (Cis) 75 mg/m2 over 30-60 minutes every 3 weeks (TCis), docetaxel 75 mg/m2 as a 1 hour infusion in combination with carboplatin (AUC 6 mg/ml.min) over 30-60 minutes every 3 weeks, or vinorelbine (V) 25 mg/m2 administered over 6-10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks (VCis).
+
+The safety and efficacy of docetaxel in combination with prednisone or prednisolone in patients with hormone refractory metastatic prostate cancer were evaluated in a randomized multicenter phase III study.
+
+| Endpoint | Docetaxel every 3 weeks | Docetaxel every week | Mitoxantrone every 3 weeks |
+| --- | --- | --- | --- |
+| Number of patients Median survival (months) 95% CI Hazard ratio 95% CI p-value†* | 335 18.9 (17.0-21.2) 0.761 (0.619-0.936) 0.0094 | 334 17.4 (15.7-19.0) 0.912 (0.747-1.113) 0.3624 | 337 16.5 (14.4-18.6) -- -- -- |
+| Number of patients PSA** response rate (%) 95% CI p-value* | 291 45.4 (39.5-51.3) 0.0005 | 282 47.9 (41.9-53.9) <0.0001 | 300 31.7 (26.4-37.3) -- |
+| Number of patients Pain response rate (%) 95% CI p-value* | 153 34.6 (27.1-42.7) 0.0107 | 154 31.2 (24.0-39.1) 0.0798 | 157 21.7 (15.5-28.9) -- |
+| Number of patients Tumour response rate (%) 95% CI p-value* | 141 12.1 (7.2-18.6) 0.1112 | 134 8.2 (4.2-14.2) 0.5853 | 137 6.6 (3.0-12.1) -- |
+
+A multicenter, open-label, randomized study was conducted to evaluate the safety and efficacy of docetaxel for the treatment of patients with metastatic gastric adenocarcinoma, including adenocarcinoma of the gastroesophageal junction, who had not received prior chemotherapy for metastatic disease.
+
+The safety and efficacy of docetaxel in the induction treatment of patients with squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a phase III, multicenter, open-label, randomized study (TAX323).
+
+*Cox model (adjustment for Primary tumour site, T and N clinical stages and PSWHO)
+**Logrank test
+
+The safety and efficacy of docetaxel in the induction treatment of patients with locally advanced squamous cell carcinoma of the head and neck (SCCHN) was evaluated in a randomized, multicenter open-label, phase III study (TAX324).
+Patients on the docetaxel arm received docetaxel (T) 75 mg/m² by intravenous infusion on day 1 followed by cisplatin (P)
+100 mg/m² administered as a 30-minute to three-hour intravenous infusion, followed by the continuous intravenous infusion of 5-fluorouracil (F) 1000 mg/m²/day from day 1 to day 4.
+
+| Endpoint | Docetaxel + Cis + 5-FU n = 255 | Cis + 5-FU n = 246 |
+| --- | --- | --- |
+| Median overall survival (months) (95% CI) Hazard ratio: (95% CI) *p-value | 70.6 (49.0-NA) | 30.1 (20.9-51.5) |
+|  | 0.70 (0.54-0.90) 0.0058 |  |
+| Median PFS (months) (95% CI) Hazard ratio: (95% CI) **p-value | 35.5 (19.3-NA) | 13.1 (10.6 - 20.2) |
+|  | 0.71 (0.56 - 0.90) 0.004 |  |
+| Best overall response (CR + PR) to chemotherapy (%) (95% CI) ***p-value | 71.8 (65.8-77.2) | 64.2 (57.9-70.2) |
+|  | 0.070 |  |
+| Best overall response (CR + PR) to study treatment [chemotherapy +/- chemoradiotherapy] (%) (95%CI) ***p-value | 76.5 (70.8-81.5) | 71.5 (65.5-77.1) |
+|  | 0.209 |  |
+
+[TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
+
+(all sentences already above)

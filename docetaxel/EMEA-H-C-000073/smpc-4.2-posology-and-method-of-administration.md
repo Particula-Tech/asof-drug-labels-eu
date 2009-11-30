@@ -106,7 +106,7 @@ Recommended dose modifications for toxicities in patients treated with docetaxel
 For cisplatin and 5-fluorouracil dose adjustments, see the corresponding summary of product characteristics.
 
 In the pivotal SCCHN trials patients who experienced complicated neutropenia (including prolonged neutropenia, febrile neutropenia, or infection), it was recommended to use G-CSF to provide prophylactic coverage (eg, day 6-15) in all subsequent cycles.
-Special populations:
+Special populations
 
 Patients with hepatic impairment
 Based on pharmacokinetic data with docetaxel at 100 mg/m² as single agent, patients who have both elevations of transaminase (ALT and/or AST) greater than 1.5 times the upper limit of the normal range (ULN) and alkaline phosphatase greater than 2.5 times the ULN, the recommended dose of docetaxel is 75 mg/m2 (see sections 4.4 and 5.2).
@@ -120,3 +120,49 @@ The experience in children is limited.
 Elderly
 Based on a population pharmacokinetic analysis, there are no special instructions for use in the elderly.
 In combination with capecitabine, for patients 60 years of age or more, a starting dose reduction of capecitabine to 75% is recommended (see capecitabine summary of product characteristics).
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+(all sentences already above)
+
+[TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
+
+Prophylactic G-CSF may be used to mitigate the risk of haematological toxicities.
+
+In the pivotal study the initial docetaxel infusion was started the day following the first dose of trastuzumab.
+
+In combination with capecitabine, the recommended dose of docetaxel is 75 mg/m2 every three weeks, combined with capecitabine at 1250 mg/m2 twice daily (within 30 minutes after a meal) for 2 weeks followed by a 1-week rest period.
+
+The recommended dose of docetaxel is 75 mg/m2 as a 1-hour infusion, followed by cisplatin 75 mg/m2, as a 1- to 3-hour infusion (both on day 1 only), followed by 5-fluorouracil 750 mg/m2 per day given as a 24-hour continuous infusion for 5 days, starting at the end of the cisplatin infusion.
+Prophylactic G-CSF should be used to mitigate the risk of haematological toxicities (see also Dose adjustments during treatment).
+
+For the induction treatment of patients with locally advanced (technically unresectable, low probability of surgical cure, and aiming at organ preservation) squamous cell carcinoma of the head and neck (SCCHN), the recommended dose of docetaxel is 75 mg/m2 as a 1 hour intravenous infusion on day 1, followed by cisplatin 100 mg/m2 administered as a 30-minute to 3-hour infusion, followed by 5-fluorouracil 1000 mg/m2/day as a continuous infusion from day 1 to day 4.
+
+In patients who experienced either febrile neutropenia, neutrophil count < 500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or severe peripheral neuropathy during docetaxel therapy, the dose of docetaxel should be reduced from 100 mg/m2 to 75 mg/m2 and/or from 75 to 60 mg/m².
+In the pivotal study in patients who received adjuvant therapy for breast cancer and who experienced complicated neutropenia (including prolonged neutropenia, febrile neutropenia, or infection), it was recommended to use G-CSF to provide prophylactic coverage (e.g., day 4 to 11) in all subsequent cycles.
+
+For patients who are dosed initially at docetaxel 75 mg/m2 in combination with cisplatin and whose nadir of platelet count during the previous course of therapy is < 25,000 cells/mm3, or in patients who experience febrile neutropenia, or in patients with serious non-haematologic toxicities, the docetaxel dose in subsequent cycles should be reduced to 65 mg/m2.
+
+- For patients developing the second appearance of Grade 2 toxicity, or the first appearance of
+
+Grade 3 toxicity, at any time during the treatment cycle, delay treatment until resolved to Grade 0-1 and then resume treatment with docetaxel 55 mg/m².
+
+Discontinue treatment if these toxicities persist (see section 4.4).
+
+| Toxicity | Dose adjustment |
+| --- | --- |
+| Diarrhoea grade 3 | First episode: reduce 5-FU dose by 20%. Second episode: then reduce docetaxel dose by 20%. |
+| Diarrhoea grade 4 | First episode: reduce docetaxel and 5-FU doses by 20%. Second episode: discontinue treatment. |
+| Stomatitis/mucositis grade 3 | First episode: reduce 5-FU dose by 20%. Second episode: stop 5-FU only, at all subsequent cycles. Third episode: reduce docetaxel dose by 20%. |
+| Stomatitis/mucositis grade 4 | First episode: stop 5-FU only, at all subsequent cycles. Second episode: reduce docetaxel dose by 20%. |
+
+In the pivotal SCCHN studies patients who experienced complicated neutropenia (including prolonged neutropenia, febrile neutropenia, or infection), it was recommended to use G-CSF to provide prophylactic coverage (eg, day 6-15) in all subsequent cycles.
+
+In combination with cisplatin and 5-fluorouracil for the treatment of patients with gastric adenocarcinoma, the pivotal clinical study excluded patients with ALT and/or AST > 1.5 × ULN associated with alkaline phosphatase > 2.5 × ULN, and bilirubin > 1 x ULN; for these patients, no dose-reductions can be recommended and docetaxel should not be used unless strictly indicated.
+
+Paediatric population
+TAXOTERE is not recommended for use in children due to insufficient data on safety and/or efficacy.
+
+[TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
+
+(all sentences already above)

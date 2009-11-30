@@ -82,3 +82,32 @@ Among the 300 (221 patients in the phase III part of the study and 79 patients i
 The incidence of serious adverse events was higher in the elderly patients compared to younger patients.
 The incidence of the following adverse events (all grades): lethargy, stomatitis, neutropenic infection occurred at rates ≥ 10% higher in patients who were 65 years of age or older compared to younger patients.
 Elderly patients treated with TCF should be closely monitored.
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+(all sentences already above)
+
+[TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
+
+In combination with cisplatin and 5-fluorouracil for the treatment of patients with gastric adenocarcinoma, the pivotal clinical study excluded patients with ALT and/or AST > 1.5 × ULN associated with alkaline phosphatase > 2.5 × ULN, and bilirubin > 1 x ULN; for these patients, no dose-reductions can be recommended and docetaxel should not be used unless strictly indicated.
+
+Symptoms such as early abdominal pain and tenderness, fever, diarrhoea, with or without neutropenia, may be early manifestations of serious gastrointestinal toxicity and should be evaluated and treated promptly.
+
+Leukaemia
+In the docetaxel, doxorubicin and cyclophosphamide (TAC) treated patients, the risk of delayed myelodysplasia or myeloid leukaemia requires haematological follow-up.
+
+The incidence of related fever, diarrhoea, anorexia, and peripheral oedema occurred at rates ≥ 10% higher in patients who were 75 years of age or greater versus less than 65 years.
+
+Excipients
+
+This medicinal product contains 50 vol % ethanol (alcohol), i.e. up to 0.395 g (0.5 ml) per vial, equivalent to 10 ml of beer or 4 ml wine per vial.
+Harmful for those suffering from alcoholism.
+To be taken into account in pregnant or breast-feeding women, children and high-risk groups such as patients with liver disease, or epilepsy.
+
+The amount of alcohol in this medicinal product may alter the effects of other medicinal products.
+
+The amount of alcohol in this medicinal product may impair the patients ability to drive or use machines.
+
+[TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
+
+This medicinal product contains 50 vol % ethanol (alcohol), i.e. up to 1.58 g (2 ml) per vial, equivalent to 40 ml of beer or 17 ml wine per vial.

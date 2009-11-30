@@ -40,3 +40,37 @@ The TAXOTERE infusion solution should be used within 4 hours and should be asept
 As with all parenteral products, TAXOTERE premix solution and infusion solution should be visually inspected prior to use, solutions containing a precipitate should be discarded.
 
 Any unused product or waste material should be disposed of in accordance with local requirements.
+
+[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+
+(all sentences already above)
+
+[TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
+
+If TAXOTERE concentrate or infusion solution should come into contact with skin, wash immediately and thoroughly with soap and water.
+If TAXOTERE concentrate or infusion solution should come into contact with mucous membranes, wash immediately and thoroughly with water.
+
+Preparation of the infusion solution
+DO NOT use other docetaxel medicinal products consisting of 2 vials (concentrate and solvent) with this medicinal product (TAXOTERE 20 mg/1 ml concentrate for solution for infusion, which contains only 1 vial).
+
+TAXOTERE 20 mg/1 ml concentrate for solution for infusion requires NO prior dilution with a solvent and is ready to add to the infusion solution.
+
+Each vial is of single use and should be used immediately.
+
+If the vials are stored under refrigeration, allow the required number of boxes of TAXOTERE concentrate for solution for infusion to stand below 25°C for 5 minutes before use.
+More than one vial of TAXOTERE concentrate for solution for infusion may be necessary to obtain the required dose for the patient.
+Aseptically withdraw the required amount of TAXOTERE concentrate for solution for infusion using a calibrated syringe.
+
+In TAXOTERE 20 mg /1 ml vial the concentration of docetaxel is 20 mg/ml.
+The required volume of TAXOTERE concentrate for solution for infusion must be injected into a 250 ml infusion bag or bottle containing either 5% glucose solution or sodium chloride 9 mg/ml (0.9%) solution for injection.
+
+The infusion bag solution should be used within 4 hours below 25°C including the one hour infusion to the patient.
+As with all parenteral products, TAXOTERE infusion solution should be visually inspected prior to use, solutions containing a precipitate should be discarded.
+
+[TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
+
+DO NOT use other docetaxel medicinal products consisting of 2 vials (concentrate and solvent) with this medicinal product (TAXOTERE 80 mg/4 ml concentrate for solution for infusion, which contains only 1 vial).
+
+TAXOTERE 80 mg/4 ml concentrate for solution for infusion requires NO prior dilution with a solvent and is ready to add to the infusion solution.
+
+In TAXOTERE 80mg /4 ml vial the concentration of docetaxel is 20 mg/ml.

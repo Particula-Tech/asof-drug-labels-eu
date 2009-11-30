@@ -36,3 +36,15 @@ This overfill ensures that after dilution with the entire contents of the accomp
 
 Solvent vial contains 6 ml of a 13% w/w solution of ethanol 95% in water for injections (fill volume: 7.33 ml).
 80 mg concentrate for solution for infusion vial ensures a premix concentration of 10 mg/ml docetaxel.
+
+[TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
+
+7 ml clear glass (type I) vial with a green aluminium seal and a green plastic flip-off cap containing 1 ml of concentrate.
+
+Each box contains one vial.
+
+Not all pack sizes may be marketed.
+
+[TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
+
+7 ml clear glass (type I) vial with a red aluminium seal and a magenta plastic flip-off cap containing 4 ml of concentrate.
