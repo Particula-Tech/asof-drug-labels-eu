@@ -64,4 +64,10 @@ CA wk 13-52 44.0% 37.1% 6.9% 1.35
 
 (1.4%,12.5%) (1.07, 1.70)
 
-There is currently limited clinical experience with the use of CHAMPIX among black people to determine clincial efficacy.
+There is currently limited clinical experience with the use of CHAMPIX among black people to determine clinical efficacy.
+
+Subjects with Cardiovascular Disease
+The efficacy and safety of varenicline has been evaluated in cardiovascular compromised smokers.
+Efficacy and safety was similar to that observed in studies with non-cardiovascular compromised smokers.
+The 4 week CQR for varenicline and placebo was 47.3% and 14.3%, respectively and the CA Wk 9-52 was 19.8% (varenicline) vs 7.4% (placebo).
+There was a low incidence of cardiovascular events in both the varenicline and placebo treatment groups.

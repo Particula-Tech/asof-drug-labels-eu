@@ -9,7 +9,6 @@ Silica, Colloidal Anhydrous
 Magnesium Stearate
 
 Film Coating
-
 Hypromellose
 Titanium Dioxide (E171)
 Macrogols
