@@ -1,14 +1,14 @@
 # 6.1 List of excipients
 
-Each tablet contains:
+Tablet core:
 Silica, colloidal anhydrous
 Stearic acid
 
-The tablet coating contains:
+Film-coating:
 Hypromellose
 Diacetylated monoglycerides
 
-The printing ink contains:
+Printing ink:
 Iron oxide black (E172)
 Propylene glycol
 Hypromellose

@@ -1,17 +1,17 @@
 # 6.5 Nature and contents of container
 
-High density polyethylene bottles, with a child resistant polypropylene cap and an induction seal.
+HDPE bottles, with a child resistant polypropylene cap and a foil induction seal.
 Package sizes are:
-400 mg tablets 1 x 360 tablets
-2 x 360 tablets
-3 x 360 tablets
+1 bottle of 360 tablets
+2 bottles of 360 tablets
+3 bottles of 360 tablets
 
 Not all pack sizes may be marketed.
 
 [Renagel 800 mg film-coated tablets]
 
-800 mg tablets 6 x 30 tablets
-1 x 100 tablets
-1 x 180 tablets
-2 x 180 tablets
-3 x 180 tablets
+6 bottles of 30 tablets
+1bottle of 100 tablets
+1 bottle of 180 tablets
+2 bottles of 180 tablets
+3 bottles of 180 tablets
