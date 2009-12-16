@@ -67,13 +67,13 @@ Common: Confusional state, hallucinations, depression, aggression, agitation, mo
 
 alteration, anxiety, nervousness, irritability, mood swings
 Uncommon: Psychotic disorder, hypomania, delusion, mental status changes, sleep disorder, abnormal dreams, depressed mood, affect lability, listless, loss of libido, nightmare, personality change, panic attack, restlessness.
-
 Nervous system disorders
 
 Common: Cerebrovascular accident, syncope, peripheral neuropathy, neuropathy, peripheral
 
 sensory neuropathy, dizziness, ageusia, dysgeusia, paraesthesia, headache, tremor*, hypoaesthesia*, somnolence, memory impairment
 Uncommon: Intracranial haemorrhage, intracranial venous sinus thrombosis, thrombotic stroke, cerebral ischaemia, transient ischaemic attack, leukoencephalopathy, neurotoxicity, polyneuropathy, peripheral motor neuropathy, dysaesthesia, aphonia, dysphonia, disturbance in attention, ataxia, balance impaired, postural dizziness, burning sensation, cervical root pain, dyskinesia, hyperaesthesia, motor dysfunction, myasthenic syndrome, oral paraesthesia, psychomotor hyperactivity, anosmia
+
 Eye disorders
 
 Common: Blurred vision, cataract, reduced visual acuity, lacrimation increased
@@ -115,7 +115,6 @@ abdominal pain, stomatitis, dry mouth, flatulence, rectal haemorrhage Uncommon: 
 
 Hepatobiliary disorders
 Uncommon: Abnormal liver function tests, increased alanine aminotransferase, increased aspartate aminotransferase, increased blood bilirubin
-
 Skin and subcutaneous tissue disorders
 Very common: Rash*
 

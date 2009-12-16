@@ -14,6 +14,8 @@ In plasma, the relative exposures of the S- and R- enantiomers of lenalidomide a
 Distribution
 In vitro (14C)-lenalidomide binding to plasma proteins was low with mean plasma protein binding at 22.7% and 29.2% in multiple myeloma patients and healthy volunteers, respectively.
 
+Lenalidomide is present in human semen (< 0.01% of the dose) after administration of 25 mg/day and the drug is undetectable in semen of a healthy subject 3 days after stopping the drug (see section 4.4).
+
 Metabolism and excretion
 In vitro studies indicate that lenalidomide has no inhibitory effect on CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A.
 

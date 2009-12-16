@@ -30,11 +30,11 @@ For women of childbearing potential, lenalidomide is contraindicated unless all 
 - She understands the need and accepts to undergo pregnancy testing every 4 weeks except in case of confirmed tubal sterilisation
 - She acknowledges that she understands the hazards and necessary precautions associated with the use of lenalidomide.
 
-For male patients taking lenalidomide, there is no clinical data available on the presence of lenalidomide in human semen.
-Male patients taking lenalidomide must meet the following conditions:
+For male patients taking lenalidomide, pharmacokinetic data has demonstrated that lenalidomide is present in human semen at extremely low levels during treatment and is undetectable in human semen 3 days after stopping the drug in the healthy subject (see section 5.2).
+As a precaution, all male patients taking lenalidomide must meet the following conditions:
 
-- Understand the expected teratogenic risk if engaged in sexual activity with a woman of childbearing potential
-- Understand the need for the use of a condom if engaged in sexual activity with a woman of childbearing potential.
+- Understand the expected teratogenic risk if engaged in sexual activity with a pregnant woman or a woman of childbearing potential
+- Understand the need for the use of a condom if engaged in sexual activity with a pregnant woman or a woman of childbearing potential.
 
 The prescriber must ensure that for women of childbearing potential:
 
@@ -79,13 +79,13 @@ A medically supervised pregnancy test should be repeated every 4 weeks, includin
 These pregnancy tests should be performed on the day of the prescribing visit or in the 3 days prior to the visit to the prescriber.
 
 Men
-It is not known whether lenalidomide is present in semen.
-Therefore all male patients should use condoms throughout treatment duration, during dose interruption and for 1 week after cessation of treatment if their partner is of childbearing potential and has no contraception.
+Lenalidomide is present in human semen at extremely low levels during treatment and is undetectable in human semen 3 days after stopping the drug in the healthy subject (see section 5.2).
+As a precaution, and taking into account special populations with prolonged elimination time such as renal impairment, all male patients taking lenalidomide should use condoms throughout treatment duration, during dose interruption and for 1 week after cessation of treatment if their partner is pregnant or of childbearing potential and has no contraception.
 
 Additional precautions
 Patients should be instructed never to give this medicinal product to another person and to return any unused capsules to their pharmacist at the end of treatment.
 
-Patients should not donate blood or semen during therapy or for 1 week following discontinuation of lenalidomide.
+Patients should not donate blood during therapy or for 1 week following discontinuation of lenalidomide.
 
 Educational materials
 In order to assist patients in avoiding foetal exposure to lenalidomide, the Marketing Authorisation Holder will provide educational material to health care professionals to reinforce the warnings about the expected teratogenicity of lenalidomide, to provide advice on contraception before therapy is started, and to provide guidance on the need for pregnancy testing.
@@ -144,9 +144,9 @@ Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been re
 Lenalidomide must be discontinued for exfoliative or bullous rash, or if SJS or TEN is suspected, and should not be resumed following discontinuation for these reactions.
 Interruption or discontinuation of lenalidomide should be considered for other forms of skin reaction depending on severity.
 Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide.
-
 Lactose intolerance
 Revlimid capsules contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
 Unused capsules
 Patients should be advised never to give this medicinal product to another person and to return any unused capsules to their pharmacist at the end of the treatment.
