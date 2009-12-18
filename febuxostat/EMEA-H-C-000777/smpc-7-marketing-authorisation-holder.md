@@ -1,6 +1,5 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Ipsen Pharma
-65, quai Georges Gorse
-92100 Boulogne-Billancourt
-France
+Menarini International Operations Luxembourg S.A.
+1, Avenue de la Gare, L-1611 Luxembourg
+Luxembourg
