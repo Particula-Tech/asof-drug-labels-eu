@@ -12,11 +12,11 @@ Due to this difference in bioavailability, 240 mg emtricitabine administered as 
 Therefore, children who weigh at least 33 kg may take either one 200 mg hard capsule daily or the oral solution up to a maximum dose of 240 mg (24 ml), once daily.
 
 Administration of Emtriva 200 mg hard capsules with a high-fat meal or administration of Emtriva 10 mg/ml oral solution with a low-fat or high-fat meal did not affect systemic exposure (AUC0-∞) of emtricitabine; therefore Emtriva 200 mg hard capsules and Emtriva 10 mg/ml oral solution may be administered with or without food.
+
 Distribution: In vitro binding of emtricitabine to human plasma proteins was < 4% and independent of concentration over the range of 0.02-200 µg/ml.
 The mean plasma to blood concentration ratio was approximately 1.0 and the mean semen to plasma concentration ratio was approximately 4.0.
 
 The apparent volume of distribution after intravenous administration of emtricitabine was 1.4±0.3 l/kg, indicating that emtricitabine is widely distributed throughout the body to both intracellular and extracellular fluid spaces.
-
 Biotransformation: There is limited metabolism of emtricitabine.
 The biotransformation of emtricitabine includes oxidation of the thiol moiety to form the 3'-sulphoxide diastereomers (approximately 9% of dose) and conjugation with glucuronic acid to form 2'-O-glucuronide (approximately 4% of dose).
 
@@ -35,7 +35,8 @@ Intracellular pharmacokinetics: In a clinical study, the intracellular half-life
 Intracellular triphosphate levels increased with dose, but reached a plateau at doses of 200 mg or greater.
 
 Adults with renal insufficiency: Pharmacokinetic parameters were determined following administration of a single dose of 200 mg emtricitabine hard capsules to 30 non-HIV infected subjects with varying degrees of renal insufficiency.
-Subjects were grouped according to baseline creatinine clearance (> 80 ml/min as normal function; 50-80 ml/min as mild impairment; 30-49 ml/min as moderate impairment; < 30 ml/min as severe impairment; < 15 ml/min as functionally anephric requiring haemodialysis).
+Subjects were grouped according to baseline creatinine clearance
+(> 80 ml/min as normal function; 50-80 ml/min as mild impairment; 30-49 ml/min as moderate impairment; < 30 ml/min as severe impairment; < 15 ml/min as functionally anephric requiring haemodialysis).
 
 The systemic emtricitabine exposure (mean ± standard deviation) increased from 11.8±2.9 µg·h/ml in subjects with normal renal function to 19.9±1.1, 25.0±5.7 and 34.0±2.1 µg·h/ml, in patients with mild, moderate and severe renal impairment, respectively.
 
@@ -46,6 +47,7 @@ In general, emtricitabine pharmacokinetics in HBV infected subjects were similar
 HIV infected subjects.
 
 Age, gender and ethnicity: In general, the pharmacokinetics of emtricitabine in infants, children and adolescents (aged 4 months up to 18 years) are similar to those seen in adults.
+
 The mean AUC in 77 infants, children and adolescents receiving 6 mg/kg emtricitabine once daily as oral solution or 200 mg emtricitabine as hard capsules once daily was similar to the mean AUC of 10.0 µg·h/ml in 20 adults receiving 200 mg hard capsules once daily.
 
 In an open-label, non-comparative study, pharmacokinetic data were obtained from 20 neonates of HIV infected mothers who received two 4-day courses of emtricitabine oral solution between the first week of life and 3 months of age at a dose level of 3 mg/kg once daily.
