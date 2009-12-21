@@ -12,7 +12,7 @@ EU/1/04/307/009
 EU/1/04/307/003
 EU/1/04/307/012
 
-[Zonegran 100 mg hard capsules.]
+[Zonegran 100 mg hard capsules]
 
 EU/1/04/307/006
 EU/1/04/307/004

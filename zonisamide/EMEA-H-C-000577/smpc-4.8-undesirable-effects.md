@@ -4,7 +4,7 @@ Zonegran has been administered to over 1,200 patients in clinical studies, more 
 In addition there has been extensive post-marketing experience with zonisamide in Japan since 1989 and in the USA since 2000.
 
 It should be noted that Zonegran is a benzisoxazole derivative, which contains a sulphonamide group.
-Serious immune based adverse reactions that are associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances including aplastic anaemia, which very rarely can be fatal (see Section 4.4).
+Serious immune based adverse reactions that are associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances including aplastic anaemia, which very rarely can be fatal (see section 4.4).
 
 The most common adverse reactions in controlled adjunctive-therapy studies were somnolence, dizziness and anorexia.
 Adverse reactions associated with Zonegran obtained from clinical studies and post-marketing surveillance are tabulated below.
@@ -16,6 +16,7 @@ common ≥ 1/100 < 1/10
 uncommon ≥ 1/1,000 < 1/100
 rare ≥ 1/10,000 < 1/1,000
 very rare < 1/10,000 including isolated reports
+not known cannot be estimated from the available data
 
 | System Organ Class (MedDRA terminology) | Very Common | Common | Uncommon | Very Rare |
 | --- | --- | --- | --- | --- |

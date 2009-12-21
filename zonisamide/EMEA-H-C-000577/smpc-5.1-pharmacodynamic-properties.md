@@ -1,6 +1,10 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Anti-epileptics, ATC code: N03A X15
+Pharmacotherapeutic group: Antiepileptics, other antiepileptics, ATC code: N03AX15
+
+Zonisamide is a benzisoxazole derivative.
+It is an anti-epileptic medicine with weak carbonic anhydrase activity in-vitro.
+It is chemically unrelated to other anti-epileptic agents.
 
 Efficacy has been demonstrated with Zonegran in 4 double-blind, placebo-controlled studies of periods of up to 24 weeks with either once or twice daily dosing.
 These studies show that the median reduction in partial seizure frequency is related to Zonegran dose with sustained efficacy at doses of 300-500 mg per day.
@@ -11,3 +15,11 @@ Unlike phenytoin and carbamazepine however, zonisamide acts preferentially on se
 
 The mechanism of action of zonisamide is not fully elucidated, but it appears to act on voltage-sensitive sodium and calcium channels, thereby disrupting synchronised neuronal firing, reducing the spread of seizure discharges and disrupting subsequent epileptic activity.
 Zonisamide also has a modulatory effect on GABA-mediated neuronal inhibition.
+
+[Zonegran 50 mg hard capsules.]
+
+Pharmacotherapeutic group: Anti-epileptics, other antiepileptics, ATC code: N03AX15
+
+[Zonegran 100 mg hard capsules]
+
+(all sentences already above)
