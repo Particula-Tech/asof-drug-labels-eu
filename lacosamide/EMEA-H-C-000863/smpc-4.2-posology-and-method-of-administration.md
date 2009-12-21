@@ -19,7 +19,6 @@ Use in patients with hepatic impairment
 No dose adjustment is needed for patients with mild to moderate hepatic impairment.
 The dose titration in these patients should be performed with caution considering co-existing renal impairment.
 The pharmacokinetics of lacosamide has not been evaluated in severely hepatic impaired patients (see section 5.2).
-
 Use in elderly (over 65 years of age)
 No dose reduction is necessary in elderly patients.
 The experience with lacosamide in elderly patients with epilepsy is limited.
