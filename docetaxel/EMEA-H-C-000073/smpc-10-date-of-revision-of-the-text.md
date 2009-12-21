@@ -1,6 +1,6 @@
 # 10. DATE OF REVISION OF THE TEXT
 
-[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+[TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
 (all sentences already above)
 

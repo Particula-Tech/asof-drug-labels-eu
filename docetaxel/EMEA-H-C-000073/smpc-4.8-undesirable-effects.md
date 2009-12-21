@@ -14,18 +14,26 @@ The adverse reactions considered to be possibly or probably related to the admin
 
 These reactions were described using the NCI Common Toxicity Criteria (grade 3 = G3;
 grade 3-4 = G3/4; grade 4 = G4) and the COSTART terms.
-Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100, < 1/10); uncommon (≥ 1/1,000, < 1/100); rare (≥ 1/10,000, < 1/1,000); very rare (< 1/10,000).
+Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to
+< 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
+
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-The most commonly reported adverse reactions of docetaxel alone are: neutropenia (which was reversible and not cumulative; the median day to nadir was 7 days and the median duration of severe neutropenia (< 500 cells/mm3) was 7 days), anemia, alopecia, nausea, vomiting, stomatitis, diarrhea and asthenia.
+The most commonly reported adverse reactions of docetaxel alone are: neutropenia (which was reversible and not cumulative; the median day to nadir was 7 days and the median duration of severe neutropenia (< 500 cells/mm3) was 7 days), anaemia, alopecia, nausea, vomiting, stomatitis, diarrhoea and asthenia.
 The severity of adverse events of docetaxel may be increased when docetaxel is given in combination with other chemotherapeutic agents.
 
 For combination with trastuzumab, adverse events (all grades) reported in ≥ 10% are displayed.
 There was an increased incidence of SAEs (40% vs. 31%) and Grade 4 AEs (34% vs. 23%) in the trastuzumab combination arm compared to docetaxel monotherapy.
 
-For combination with capecitabine, the most frequent treatment-related undesirable effects (≥ 5%) reported in a phase III trial in breast cancer patients failing anthracycline treatment are presented (see capecitabine summary of product characteristics).
+For combination with capecitabine, the most frequent treatment-related undesirable effects (≥ 5%) reported in a phase III study in breast cancer patients failing anthracycline treatment are presented (see capecitabine summary of product characteristics).
 
 The following adverse reactions are frequently observed with docetaxel:
+
+Immune system disorders
+
+Hypersensitivity reactions have generally occurred within a few minutes following the start of the infusion of docetaxel and were usually mild to moderate.
+The most frequently reported symptoms were flushing, rash with or without pruritus, chest tightness, back pain, dyspnoea and fever or chills.
+Severe reactions were characterised by hypotension and/or bronchospasm or generalized rash/erythema (see section 4.4).
 
 Nervous system disorders
 
@@ -48,77 +56,23 @@ Fluid retention includes events such as peripheral oedema and less frequently pl
 The peripheral oedema usually starts at the lower extremities and may become generalised with a weight gain of 3 kg or more.
 Fluid retention is cumulative in incidence and severity (see section 4.4).
 
-Immune system disorders
-
-Hypersensitivity reactions have generally occurred within a few minutes following the start of the infusion of docetaxel and were usually mild to moderate.
-The most frequently reported symptoms were flushing, rash with or without pruritus, chest tightness, back pain, dyspnoea and fever or chills.
-Severe reactions were characterised by hypotension and/or bronchospasm or generalized rash/erythema (see section 4.4).
-
 TAXOTERE 100 mg/m² single agent
 
-MedDRA System Very common adverse Common adverse Uncommon adverse
-Organ classes reactions reactions reactions
-≥ 10% of patients ≥ 1 to < 10% of ≥ 0.1 to < 1% of
-patients patients
-Investigations G3/4 Blood bilirubin
-increased (< 5%);
-G3/4 Blood alkaline
-phosphatase increased
-(< 4%);
-G3/4 AST increased
-(< 3%);
-G3/4 ALT increased
-(< 2%)
-Cardiac disorders Arrhythmia (G3/4: Cardiac failure
-0.7%)
-Blood and lymphatic Neutropenia (G4: Thrombocytopenia (G4:
-system disorders 76.4%); 0.2%)
-Anaemia (G3/4: 8.9%);
-Febrile neutropenia
-Nervous system Peripheral sensory
-disorders neuropathy (G3: 4.1%);
-Peripheral motor
-neuropathy (G3/4: 4%);
-Dysgeusia (severe:
-0.07%)
-Respiratory, thoracic Dyspnoea (severe:
-and mediastinal 2.7%)
-disorders
-Gastrointestinal Stomatitis (G3/4: Constipation (severe: Oesophagitis (severe:
-disorders 5.3%); 0.2%); 0.4%)
-Diarrhoea (G3/4: 4%); Abdominal pain
-Nausea (G3/4: 4%); (severe: 1%);
-Vomiting (G3/4: 3%) Gastrointestinal
-haemorrhage (severe:
-0.3%)
-Skin and subcutaneous Alopecia;
-tissue disorders Skin reaction (G3/4:
-5.9%);
-Nail disorders (severe:
-2.6%)
-Musculoskeletal and Myalgia (severe: 1.4%) Arthralgia
-connective tissue
-disorders
-Metabolism and Anorexia
-MedDRA System Very common adverse Common adverse Uncommon adverse
-Organ classes reactions reactions reactions
-≥ 10% of patients ≥ 1 to < 10% of ≥ 0.1 to < 1% of
-patients patients
-nutrition disorders
-Infections and Infections (G3/4: 5.7%; Infection associated
-infestations including sepsis and with G4 neutropenia
-pneumonia, fatal in (G3/4: 4.6%)
-1.7%)
-Vascular disorders Hypotension;
-Hypertension;
-Haemorrhage
-General disorders and Fluid retention (severe: Infusion site reaction;
-administration site 6.5%); Non-cardiac chest pain
-conditions Asthenia (severe: (severe: 0.4%)
-11.2%);
-Pain
-Immune system Hypersensitivity (G3/4:
-disorders 5.3%)
+| MedDRA system organ classes | Very common adverse reactions | Common adverse reactions | Uncommon adverse reactions |
+| --- | --- | --- | --- |
+| Infections and infestations | Infections (G3/4: 5.7%; including sepsis and pneumonia, fatal in 1.7%) | Infection associated with G4 neutropenia (G3/4: 4.6%) |  |
+| Blood and lymphatic system disorders | Neutropenia (G4: 76.4%); Anaemia (G3/4: 8.9%); Febrile neutropenia | Thrombocytopenia (G4: 0.2%) |  |
+| Immune system disorders | Hypersensitivity (G3/4: 5.3%) |  |  |
+| Metabolism and nutrition disorders | Anorexia |  |  |
+| Nervous system disorders | Peripheral sensory neuropathy (G3: 4.1%); Peripheral motor neuropathy (G3/4: 4%); Dysgeusia (severe: 0.07%) |  |  |
+| Cardiac disorders |  | Arrhythmia (G3/4: 0.7%) | Cardiac failure |
+| Vascular disorders |  | Hypotension; Hypertension; Haemorrhage |  |
+| Respiratory, thoracic and mediastinal disorders | Dyspnoea (severe: 2.7%) |  |  |
+| Gastrointestinal disorders | Stomatitis (G3/4: 5.3%); Diarrhoea (G3/4: 4%); Nausea (G3/4: 4%); Vomiting (G3/4: 3%) | Constipation (severe: 0.2%); Abdominal pain (severe: 1%); Gastrointestinal haemorrhage (severe: 0.3%) | Oesophagitis (severe: 0.4%) |
+| Skin and subcutaneous tissue disorders | Alopecia; Skin reaction (G3/4: 5.9%); Nail disorders (severe: 2.6%) |  |  |
+| Musculoskeletal and connective tissue disorders | Myalgia (severe: 1.4%) | Arthralgia |  |
+| General disorders and administration site conditions | Fluid retention (severe: 6.5%); Asthenia (severe: 11.2%); Pain | Infusion site reaction; Non-cardiac chest pain (severe: 0.4%) |  |
+| Investigations |  | G3/4 Blood bilirubin increased (< 5%); G3/4 Blood alkaline phosphatase increased (< 4%); G3/4 AST increased (< 3%); G3/4 ALT increased (< 2%) |  |
 
 Blood and lymphatic system disorders
 Rare: bleeding episodes associated with grade 3/4 thrombocytopenia.
@@ -136,56 +90,55 @@ The median cumulative dose to treatment discontinuation was more than 1,000 mg/m
 The onset of moderate and severe retention is delayed (median cumulative dose: 818.9 mg/m2) in patients with premedication compared with patients without premedication (median cumulative dose: 489.7 mg/m2); however, it has been reported in some patients during the early courses of therapy.
 TAXOTERE 75 mg/m² single agent
 
-MedDRA System Organ Very common adverse Common adverse reactions
-classes reactions ≥ 1 to < 10% of patients
-≥ 10% of patients
-Investigations G3/4 Blood bilirubin increased
-(< 2%)
-Cardiac disorders Arrhythmia (no severe)
+MedDRA system organ classes Very common adverse Common adverse reactions
+reactions
+Infections and infestations Infections (G3/4: 5%)
 Blood and lymphatic system Neutropenia (G4: 54.2%); Febrile neutropenia
 disorders Anaemia (G3/4: 10.8%);
 Thrombocytopenia (G4: 1.7%)
+Immune system disorders Hypersensitivity (no severe)
+Metabolism and nutrition Anorexia
+disorders
 Nervous system disorders Peripheral sensory neuropathy Peripheral motor neuropathy
 (G3/4: 0.8%) (G3/4: 2.5%)
+Cardiac disorders Arrhythmia (no severe)
+Vascular disorders Hypotension
 Gastrointestinal disorders Nausea (G3/4: 3.3%); Constipation
 Stomatitis (G3/4: 1.7%);
 Vomiting (G3/4: 0.8%);
-Diarrhea (G3/4: 1.7%)
+Diarrhoea (G3/4: 1.7%)
 Skin and subcutaneous tissue Alopecia; Nail disorders (severe: 0.8%)
 disorders Skin reaction (G3/4: 0.8%)
 Musculoskeletal and connective Myalgia
 tissue disorders
-Metabolism and nutrition Anorexia
-disorders
-Infections and infestations Infections (G3/4: 5%)
-Vascular disorders Hypotension
 General disorders and Asthenia (severe: 12.4%);
 administration site conditions Fluid retention (severe: 0.8%);
 Pain
-Immune system disorders Hypersensitivity (no severe)
+Investigations G3/4 Blood bilirubin increased
+(< 2%)
 
 TAXOTERE 75 mg/m² in combination with doxorubicin
 
-MedDRA System Very common adverse Common adverse Uncommon adverse
-Organ classes reactions reactions reactions
-≥ 10% of patients ≥ 1 to < 10% of ≥ 0.1 to < 1% of
-patients patients
-Investigations G3/4 Blood bilirubin G3/4 AST increased
-increased (< 2.5%); (< 1%);
-G3/4 Blood alkaline G3/4 ALT increased
-phosphatase increased (< 1%)
-(< 2.5%)
-Cardiac disorders Cardiac failure;
-Arrhythmia (no severe)
+MedDRA system Very common adverse Common adverse Uncommon adverse
+organ classes reactions reactions reactions
+Infections and Infection (G3/4: 7.8%)
+infestations
 Blood and lymphatic Neutropenia (G4:
 system disorders 91.7%);
 Anaemia (G3/4: 9.4%);
 Febrile neutropenia;
 Thrombocytopenia (G4:
 0.8%)
+Immune system Hypersensitivity (G3/4:
+disorders 1.2%)
+Metabolism and Anorexia
+nutrition disorders
 Nervous system Peripheral sensory Peripheral motor
 disorders neuropathy (G3: 0.4%) neuropathy (G3/4:
 0.4%)
+Cardiac disorders Cardiac failure;
+Arrhythmia (no severe)
+Vascular disorders Hypotension
 Gastrointestinal Nausea (G3/4: 5%);
 disorders Stomatitis (G3/4:
 7.8%);
@@ -200,41 +153,40 @@ severe)
 Musculoskeletal and Myalgia
 connective tissue
 disorders
-Metabolism and Anorexia
-nutrition disorders
-Infections and Infection (G3/4: 7.8%)
-infestations
-Vascular disorders Hypotension
 General disorders and Asthenia (severe: Infusion site reaction
 administration site 8.1%);
 conditions Fluid retention (severe:
 1.2%);
 Pain
-Immune system Hypersensitivity (G3/4:
-disorders 1.2%)
+Investigations G3/4 Blood bilirubin G3/4 AST increased
+increased (< 2.5%); (< 1%);
+G3/4 Blood alkaline G3/4 ALT increased
+phosphatase increased (< 1%)
+(< 2.5%)
 
 TAXOTERE 75 mg/m² in combination with cisplatin
 
-MedDRA System Very common adverse Common adverse Uncommon adverse
-Organ classes reactions reactions reactions
-≥ 10% of patients ≥ 1 to < 10% of ≥ 0.1 to < 1% of
-patients patients
-Investigations G3/4 Blood bilirubin G3/4 AST increased
-increased (2.1%); (0.5%);
-G3/4 ALT increased G3/4 Blood alkaline
-(1.3%) phosphatase increased
-(0.3%)
-Cardiac disorders Arrhythmia (G3/4: Cardiac failure
-0.7%)
+MedDRA system Very common adverse Common adverse Uncommon adverse
+organ classes reactions reactions reactions
+Infections and Infection (G3/4: 5.7%)
+infestations
 Blood and lymphatic Neutropenia (G4: Febrile neutropenia
 system disorders 51.5%);
 Anaemia (G3/4: 6.9%);
 Thrombocytopenia (G4:
 0.5%)
+Immune system Hypersensitivity (G3/4:
+disorders 2.5%)
+Metabolism and Anorexia
+nutrition disorders
 Nervous system Peripheral sensory
 disorders neuropathy (G3: 3.7%);
 Peripheral motor
 neuropathy (G3/4: 2%)
+Cardiac disorders Arrhythmia (G3/4: Cardiac failure
+0.7%)
+Vascular disorders Hypotension (G3/4:
+0.7%)
 Gastrointestinal Nausea (G3/4: 9.6%); Constipation
 disorders Vomiting (G3/4: 7.6%);
 Diarrhoea (G3/4: 6.4%);
@@ -247,36 +199,35 @@ Skin reaction (G3/4:
 Musculoskeletal and Myalgia (severe: 0.5%)
 connective tissue
 disorders
-Metabolism and Anorexia
-nutrition disorders
-Infections and Infection (G3/4: 5.7%)
-infestations
-Vascular disorders Hypotension (G3/4:
-0.7%)
 General disorders and Asthenia (severe: Infusion site reaction;
 administration site 9.9%); Pain
 conditions Fluid retention (severe:
 0.7%);
 Fever (G3/4: 1.2%)
-Immune system Hypersensitivity (G3/4:
-disorders 2.5%)
+Investigations G3/4 Blood bilirubin G3/4 AST increased
+increased (2.1%); (0.5%);
+G3/4 ALT increased G3/4 Blood alkaline
+(1.3%) phosphatase increased
+(0.3%)
 
 TAXOTERE 100 mg/m² in combination with trastuzumab
 
-MedDRA System Organ Very common adverse Common adverse reactions
-classes reactions ≥ 1 to < 10% of patients
-≥ 10% of patients
-Investigations Weight increased
-Cardiac disorders Cardiac failure
+MedDRA system organ classes Very common adverse Common adverse reactions
+reactions
 Blood and lymphatic system Neutropenia (G3/4: 32%);
 disorders Febrile neutropenia (includes
 neutropenia associated with
 fever and antibiotic use) or
 neutropenic sepsis
+Metabolism and nutrition Anorexia
+disorders
+Psychiatric disorders Insomnia
 Nervous system disorders Paresthesia; Headache;
 Dysgeusia; Hypoaesthesia
 Eye disorders Lacrimation increased;
 Conjunctivitis
+Cardiac disorders Cardiac failure
+Vascular disorders Lymphoedema
 Respiratory, thoracic and Epistaxis; Pharyngolaryngeal
 mediastinal disorders pain; Nasopharyngitis;
 Dyspnoea;
@@ -288,14 +239,11 @@ Skin and subcutaneous tissue Alopecia; Erythema; Rash; Nail
 disorders disorders
 Musculoskeletal and connective Myalgia; Arthralgia; Pain in
 tissue disorders extremity; Bone pain; Back pain
-Metabolism and nutrition Anorexia
-disorders
-Vascular disorders Lymphoedema
 General disorders and Asthenia; Oedema peripheral; Lethargy
 administration site conditions Pyrexia; Fatigue; Mucosal
 inflammation; Pain; Influenza
 like illness; Chest pain; Chills
-Psychiatric disorders Insomnia
+Investigations Weight increased
 
 Cardiac disorders
 Symptomatic cardiac failure was reported in 2.2% of the patients who received docetaxel plus trastuzumab compared to 0% of patients given docetaxel alone.
@@ -307,14 +255,13 @@ Note that this is likely to be an underestimate since docetaxel alone at a dose 
 The incidence of febrile neutropenia/neutropenic sepsis was also increased in patients treated with Herceptin plus docetaxel (23% versus 17% for patients treated with docetaxel alone).
 TAXOTERE 75 mg/m² in combination with capecitabine
 
-MedDRA System Organ Very common adverse Common adverse reactions
-classes reactions ≥ 1 to < 10% of patients
-≥ 10% of patients
-Investigations Weight decreased;
-G3/4 Blood bilirubin increased
-(9%)
+MedDRA system organ classes Very common adverse Common adverse reactions
+reactions
+Infections and infestations Oral candidiasis (G3/4: < 1%)
 Blood and lymphatic system Neutropenia (G3/4: 63%); Thrombocytopenia (G3/4: 3%)
 disorders Anaemia (G3/4: 10%)
+Metabolism and nutrition Anorexia (G3/4: 1%); Dehydration (G3/4: 2%)
+disorders Decreased appetite
 Nervous system disorders Dysgeusia (G3/4: < 1%); Dizziness;
 Paraesthesia (G3/4: < 1%) Headache (G3/4: < 1%);
 Neuropathy peripheral
@@ -336,29 +283,32 @@ Nail disorders (G3/4: 2%) Nail discolouration;
 Onycholysis (G3/4: 1%)
 Musculoskeletal and connective Myalgia (G3/4: 2%); Pain in extremity (G3/4: < 1%);
 tissue disorders Arthralgia (G3/4: 1%) Back pain (G3/4: 1%)
-Metabolism and nutrition Anorexia (G3/4: 1%); Dehydration (G3/4: 2%)
-disorders Decreased appetite
-Infections and infestations Oral candidiasis (G3/4: < 1%)
 General disorders and Asthenia (G3/4: 3%); Lethargy;
 administration site conditions Pyrexia (G3/4: 1%); Pain
 Fatigue/weakness (G3/4: 5%);
 Oedema peripheral (G3/4: 1%)
+Investigations Weight decreased;
+G3/4 Blood bilirubin increased
+(9%)
 
 TAXOTERE 75 mg/m² in combination with prednisone or prednisolone
 
-MedDRA System Organ Very common adverse Common adverse reactions
-classes reactions ≥ 1 to < 10% of patients
-≥ 10% of patients
-Cardiac disorders Cardiac left ventricular function
-decrease (G3/4: 0.3%)
+MedDRA system organ classes Very common adverse Common adverse reactions
+reactions
+Infections and infestations Infection (G3/4: 3.3%)
 Blood and lymphatic system Neutropenia (G3/4: 32%); Thrombocytopenia (G3/4:
 disorders Anaemia (G3/4: 4.9%) 0.6%);
 Febrile neutropenia
+Immune system disorders Hypersensitivity (G3/4: 0.6%)
+Metabolism and nutrition Anorexia (G3/4: 0.6%)
+disorders
 Nervous system disorders Peripheral sensory neuropathy Peripheral motor neuropathy
 (G3/4: 1.2%); (G3/4: 0%)
 Dysgeusia (G3/4: 0%)
 Eye disorders Lacrimation increased (G3/4:
 0.6%)
+Cardiac disorders Cardiac left ventricular function
+decrease (G3/4: 0.3%)
 Respiratory, thoracic and Epistaxis (G3/4: 0%);
 mediastinal disorders Dyspnoea (G3/4: 0.6%);
 Cough (G3/4: 0%)
@@ -371,33 +321,32 @@ Skin and subcutaneous tissue Alopecia; Exfoliative rash (G3/4: 0.3%)
 disorders Nail disorders (no severe)
 Musculoskeletal and connective Arthralgia (G3/4: 0.3%);
 bone disorders Myalgia (G3/4: 0.3%)
-Metabolism and nutrition Anorexia (G3/4: 0.6%)
-disorders
-Infections and infestations Infection (G3/4: 3.3%)
 General disorders and Fatigue (G3/4: 3.9%);
 administration site conditions Fluid retention (severe: 0.6%)
-Immune system disorders Hypersensitivity (G3/4: 0.6%)
 
 TAXOTERE 75 mg/m² in combination with doxorubicin and cyclophosphamide
 
-MedDRA System Very common adverse Common adverse Uncommon adverse
-Organ classes reactions reactions reactions
-≥ 10% of patients ≥ 1 to < 10% of ≥ 0.1 to < 1% of
-patients patients
-Investigations Weight increased or
-decreased (G3/4: 0.3%)
-Cardiac disorders Arrhythmia (G3/4:
-0.1%); Congestive heart
-failure
+MedDRA system Very common adverse Common adverse Uncommon adverse
+organ classes reactions reactions reactions
+Infections and Infection (G3/4: 3.2%);
+infestations Neutropenic infection.
+There were no septic
+deaths.
 Blood and lymphatic Anaemia (G3/4: 4.3%);
 system disorders Neutropenia (G3/4:
 65.5%);
 Thrombocytopenia
 (G3/4: 2.0%);
 Febrile neutropenia
+Immune system Hypersensitivity (G3/4:
+disorders 1.1%)
+Metabolism and Anorexia (G3/4: 2.2%)
+nutrition disorders
 Nervous system Dysgeusia (G3/4: Peripheral motor Syncope (G3/4: 0%)
 disorders 0.7%); neuropathy (G3/4: 0%);
 Peripheral sensory Neurocortical (G3/4:
+MedDRA system Very common adverse Common adverse Uncommon adverse
+organ classes reactions reactions reactions
 neuropathy (G3/4: 0%) 0.3%);
 Neurocerebellar (G3/4:
 0.1%)
@@ -405,6 +354,12 @@ Eye disorders Lacrimation disorder
 (G3/4: 0.1%);
 Conjunctivitis (G3/4:
 0.3%)
+Cardiac disorders Arrhythmia (G3/4:
+0.1%);
+Congestive heart failure
+Vascular disorders Vasodilatation (G3/4: Hypotension (G3/4: Phlebitis (G3/4: 0%);
+0.9%) 0%) Lymphoedema (G3/4:
+0%)
 Respiratory, thoracic Cough (G3/4: 0%)
 and mediastinal
 disorders
@@ -423,27 +378,14 @@ Nail disorders (G3/4:
 Musculoskeletal and Myalgia (G3/4: 0.8%);
 connective tissue Arthralgia (G3/4: 0.4%)
 disorders
-Metabolism and Anorexia (G3/4: 2.2%)
-nutrition disorders
-Infections and Infection (G3/4: 3.2%);
-infestations Neutropenic infection.
-There were no septic
-deaths.
-Vascular disorders Vasodilatation (G3/4: Hypotension (G3/4: Phlebitis (G3/4: 0%);
-0.9%) 0%) Lymphoedema (G3/4:
-0%)
-MedDRA System Very common adverse Common adverse Uncommon adverse
-Organ classes reactions reactions reactions
-≥ 10% of patients ≥ 1 to < 10% of ≥ 0.1 to < 1% of
-patients patients
+Reproductive system Amenorrhoea
+and breast disorders
 General disorders and Asthenia (G3/4: 11%);
 administration site Fever (G3/4: 1.2%);
 conditions Oedema peripheral
 (G3/4: 0.4%)
-Immune system Hypersensitivity (G3/4:
-disorders 1.1%)
-Reproductive system Amenorrhoea
-and breast disorders
+Investigations Weight increased or
+decreased (G3/4: 0.3%)
 
 Cardiac disorders
 Congestive Heart Failure (CHF) (2.3% at 70 months median follow-up) has also been reported.
@@ -454,29 +396,33 @@ Peripheral sensory neuropathy was observed to be ongoing at the median follow-up
 
 Skin and subcutaneous tissue disorders
 Alopecia was observed to be ongoing at the median follow-up time of 55 months in 22 patients out of the 687 patients with alopecia at the end of the chemotherapy.
-
 General disorders and administration site conditions
 Oedema peripheral was observed to be ongoing at the median follow-up time of 55 months in 18 patients out of the 112 patients with oedema peripheral at the end of the chemotherapy.
 
 Reproductive system and breast disorders
 Amenorrhoea was observed to be ongoing at the median follow-up time of 55 months in 133 patients out of the 233 patients with amenorrhoea at the end of the chemotherapy.
+
 TAXOTERE 75 mg/m² in combination with cisplatin and 5-fluorouracil for gastric adenocarcinoma cancer
 
-MedDRA System Organ Very common adverse Common adverse reactions
-classes reactions ≥ 1 to < 10% of patients
-≥ 10% of patients
-Cardiac disorders Arrhythmia (G3/4: 1.0%)
+MedDRA system organ classes Very common adverse Common adverse reactions
+reactions
+Infections and infestations Neutropenic infection;
+Infection (G3/4: 11.7%)
 Blood and lymphatic system Anaemia (G3/4: 20.9%);
 disorders Neutropenia (G3/4: 83.2%);
 Thrombocytopenia (G3/4:
 8.8%);
 Febrile neutropenia
+Immune system disorders Hypersensitivity (G3/4: 1.7%)
+Metabolism and nutrition Anorexia (G3/4: 11.7%)
+disorders
 Nervous system disorders Peripheral sensory neuropathy Dizziness (G3/4: 2.3%);
 (G3/4: 8.7%) Peripheral motor neuropathy
 (G3/4: 1.3%)
 Eye disorders Lacrimation increased (G3/4:
 0%)
 Ear and labyrinth disorders Hearing impaired (G3/4: 0%)
+Cardiac disorders Arrhythmia (G3/4: 1.0%)
 Gastrointestinal disorders Diarrhoea (G3/4: 19.7%); Constipation (G3/4: 1.0%);
 Nausea (G3/4: 16%); Gastrointestinal pain (G3/4:
 Stomatitis (G3/4: 23.7%); 1.0%);
@@ -485,15 +431,10 @@ hagia (G3/4: 0.7%)
 Skin and subcutaneous tissue Alopecia (G3/4: 4.0%) Rash pruritus (G3/4: 0.7%);
 disorders Nail disorders (G3/4: 0.7%);
 Skin exfoliation (G3/4: 0%)
-Metabolism and nutrition Anorexia (G3/4: 11.7%)
-disorders
-Infections and infestations Neutropenic infection;
-Infection (G3/4: 11.7%)
 General disorders and Lethargy (G3/4: 19.0%);
 administration site conditions Fever (G3/4: 2.3%);
 Fluid retention (severe/life-
 threatening: 1%)
-Immune system disorders Hypersensitivity (G3/4: 1.7%)
 
 Blood and lymphatic system disorders
 Febrile neutropenia and neutropenic infection occurred in 17.2% and 13.5% of patients respectively, regardless of G-CSF use.
@@ -503,18 +444,23 @@ TAXOTERE 75 mg/m² in combination with cisplatin and 5-fluorouracil for Head and
 
 - Induction chemotherapy followed by radiotherapy (TAX 323)
 
-MedDRA System Very common adverse Common adverse Uncommon
-Organ classes reactions reactions adverse reactions
-≥ 10% of patients ≥ 1 to < 10% of patients ≥ 0.1 to < 1% of
-patients
-Investigations Weight increased
-Cardiac disorders Myocardial ischemia Arrhythmia (G3/4:
-(G3/4:1.7%) 0.6%)
+MedDRA ystem organ Very common adverse Common adverse Uncommon adverse
+classes reactions reactions reactions
+Infections and Infection (G3/4: 6.3%);
+infestations Neutropenic infection
+Neoplasms benign, Cancer pain (G3/4:
+malignant and 0.6%)
+unspecified (incl cysts
+and polyps)
 Blood and lymphatic Neutropenia (G3/4: Febrile neutropenia
 system disorders 76.3%);
-Anemia (G3/4: 9.2%);
+Anaemia (G3/4: 9.2%);
 Thrombocytopenia
 (G3/4: 5.2%)
+Immune system Hypersensitivity (no
+disorders severe)
+Metabolism and Anorexia (G3/4: 0.6%)
+nutrition disorders
 Nervous system Dysgeusia/Parosmia; Dizziness
 disorders Peripheral sensory
 neuropathy (G3/4:
@@ -523,13 +469,19 @@ Eye disorders Lacrimation increased;
 Conjunctivitis
 Ear and labyrinth Hearing impaired
 disorders
+Cardiac disorders Myocardial ischemia Arrhythmia (G3/4:
+(G3/4:1.7%) 0.6%)
+Vascular disorders Venous disorder (G3/4:
+0.6%)
 Gastrointestinal Nausea (G3/4: 0.6%); Constipation;
 disorders Stomatitis (G3/4: Esophagitis/dysphagia/
-4.0%); odynophagia (G3/4: 0.6%);
-Diarrhea (G3/4: 2.9%); Abdominal pain;
-Vomiting (G3/4: 0.6%) Dyspepsia;
+4.0%); odynophagia (G3/4:
+Diarrhoea (G3/4: 2.9%); 0.6%);
+Vomiting (G3/4: 0.6%) Abdominal pain;
+Dyspepsia;
 Gastrointestinal
-haemorrhage (G3/4: 0.6%)
+haemorrhage (G3/4:
+0.6%)
 Skin and subcutaneous Alopecia (G3/4: 10.9%) Rash pruritic;
 tissue disorders Dry skin;
 Skin exfoliative (G3/4:
@@ -537,38 +489,33 @@ Skin exfoliative (G3/4:
 Musculoskeletal and Myalgia (G3/4: 0.6%)
 connective tissue
 disorders
-Metabolism and Anorexia (G3/4: 0.6%)
-nutrition disorders
-Infections and Infection (G3/4: 6.3%);
-infestations Neutropenic infection
-Neoplasms benign, Cancer pain (G3/4: 0.6%)
-malignant and
-unspecified (incl cysts
-and polyps)
-Vascular disorders Venous disorder (G3/4:
-0.6%)
 General disorders and Lethargy (G3/4: 3.4%);
 administration site Pyrexia (G3/4: 0.6%);
 conditions Fluid retention;
 Oedema
-Immune system Hypersensitivity (no severe)
-disorders
+Investigations Weight increased
 
 - Induction chemotherapy followed by chemoradiotherapy (TAX 324)
 
-MedDRA System Very common adverse Common adverse Uncommon adverse
-Organ classes reactions reactions reactions
-≥ 10% of patients ≥ 1 to < 10% of ≥ 0.1 to < 1% of
-patients patients
-Investigations Weight decreased Weight increased
-Cardiac disorders Arrhythmia (G3/4: Ischemia myocardial
-2.0%)
+MedDRA system Very common adverse Common adverse Uncommon adverse
+organ classes reactions reactions reactions
+Infections and Infection (G3/4: 3.6%) Neutropenic infection
+infestations
+Neoplasms benign, Cancer pain (G3/4:
+malignant and 1.2%)
+unspecified (incl cysts
+and polyps)
 Blood and lymphatic Neutropenia (G3/4:
 system disorders 83.5%);
-Anemia (G3/4: 12.4%);
+Anaemia (G3/4:
+12.4%);
 Thrombocytopenia
 (G3/4: 4.0%);
 Febrile neutropenia
+Immune system Hypersensitivity
+disorders
+Metabolism and Anorexia (G3/4:
+nutrition disorders 12.0%)
 Nervous system Dysgeusia/Parosmia Dizziness (G3/4:
 disorders (G3/4: 0.4%); 2.0%);
 Peripheral sensory Peripheral motor
@@ -577,47 +524,44 @@ neuropathy (G3/4: neuropathy (G3/4:
 Eye disorders Lacrimation increased Conjunctivitis
 Ear and labyrinth Hearing impaired
 disorders (G3/4: 1.2%)
+Cardiac disorders Arrhythmia (G3/4: Ischemia myocardial
+2.0%)
+Vascular disorders Venous disorder
 Gastrointestinal Nausea (G3/4: 13.9%); Dyspepsia (G3/4:
 disorders Stomatitis (G3/4: 0.8%);
 20.7%); Gastrointestinal pain
 Vomiting (G3/4: (G3/4: 1.2%);
 8.4%); Gastrointestinal
-Diarrhea (G3/4: 6.8%); haemorrhage (G3/4:
-Esophagitis/dysphagia/ 0.4%)
+Diarrhoea (G3/4: haemorrhage (G3/4:
+6.8%); 0.4%)
+Esophagitis/dysphagia/
 odynophagia (G3/4:
 12.0%);
 Constipation (G3/4:
 0.4%)
-Skin and subcutaneous Alopecia (G3/4: 4.0%); Dry skin;
+Skin and subcutaneous Alopecia (G3/4: 4.0%); Dry skin ;
 tissue disorders Rash pruritic Desquamation
 Musculoskeletal, Myalgia (G3/4: 0.4%)
 connective tissue bone
 disorders
-Metabolism and Anorexia (G3/4:
-nutrition disorders 12.0%)
-Infections and Infection (G3/4: Neutropenic infection
-infestations 3.6%)
-Neoplasms benign, Cancer pain (G3/4:
-malignant and 1.2%)
-unspecified (incl cysts
-and polyps)
-Vascular disorders Venous disorder
 General disorders and Lethargy (G3/4: 4.0%);
 administration site Pyrexia (G3/4: 3.6%);
 conditions Fluid retention (G3/4:
 1.2%);
 Oedema (G3/4: 1.2%)
-Immune system Hypersensitivity
-disorders
+Investigations Weight decreased Weight increased
 
 Post-marketing experience
 
-Cardiac disorders
-Rare cases of myocardial infarction have been reported.
+Neoplasms benign, malignant and unspecified (incl cysts and polyps)
+Very rare cases of acute myeloid leukaemia and myelodysplastic syndrome have been reported in association with docetaxel when used in combination with other chemotherapy agents and/or radiotherapy.
 
 Blood and lymphatic system disorders
-Bone marrow suppression and other hematologic adverse reactions have been reported.
+Bone marrow suppression and other haematologic adverse reactions have been reported.
 Disseminated intravascular coagulation (DIC), often in association with sepsis or multiorgan failure, has been reported.
+
+Immune system disorders
+Some cases of anaphylactic shock, sometimes fatal, have been reported.
 
 Nervous system disorders
 Rare cases of convulsion or transient loss of consciousness have been observed with docetaxel administration.
@@ -631,6 +575,12 @@ Cases of lacrimation with or without conjunctivitis, as cases of lacrimal duct o
 Ear and labyrinth disorders
 Rare cases of ototoxicity, hearing impaired and/or hearing loss have been reported.
 
+Cardiac disorders
+Rare cases of myocardial infarction have been reported.
+
+Vascular disorders
+Venous thromboembolic events have rarely been reported.
+
 Respiratory, thoracic and mediastinal disorders
 Acute respiratory distress syndrome, interstitial pneumonia and pulmonary fibrosis have rarely been reported.
 Rare cases of radiation pneumonitis have been reported in patients receiving concomitant radiotherapy.
@@ -639,54 +589,63 @@ Gastrointestinal disorders
 Rare occurrences of dehydration as a consequence of gastrointestinal events, gastrointestinal perforation, colitis ischaemic, colitis and neutropenic enterocolitis have been reported.
 Rare cases of ileus and intestinal obstruction have been reported.
 
+Hepatobiliary disorders
+Very rare cases of hepatitis, sometimes fatal primarily in patients with pre-existing liver disorders, have been reported.
+
 Skin and subcutaneous tissue disorders
 Very rare cases of cutaneous lupus erythematosus and bullous eruptions such as erythema multiforme, Stevens-Johnson syndrome, toxic epidermal necrolysis, have been reported with docetaxel.
 In some cases concomitant factors may have contributed to the development of these effects.
-Sclerodermal-like changes usually preceded by peripheral lymphedema have been reported with docetaxel.
-
-Neoplasms benign, malignant and unspecified (incl cysts and polyps)
-Very rare cases of acute myeloid leukaemia and myelodysplastic syndrome have been reported in association with docetaxel when used in combination with other chemotherapy agents and/or radiotherapy.
-
-Vascular disorders
-Venous thromboembolic events have rarely been reported.
-
+Sclerodermal-like changes usually preceded by peripheral lymphoedema have been reported with docetaxel.
 General disorders and administration site conditions
 Radiation recall phenomena have rarely been reported.
 Fluid retention has not been accompanied by acute episodes of oliguria or hypotension.
 Dehydration and pulmonary oedema have rarely been reported.
 
-Immune system disorders
-Some cases of anaphylactic shock, sometimes fatal, have been reported.
-Hepatobiliary disorders
-Very rare cases of hepatitis, sometimes fatal primarily in patients with pre-existing liver disorders, have been reported.
-
-[TAXOTERE 80 mg concentrate and solvent for solution for infusion]
+[TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
 (all sentences already above)
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
-Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to
-< 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
-
-The most commonly reported adverse reactions of docetaxel alone are: neutropenia (which was reversible and not cumulative; the median day to nadir was 7 days and the median duration of severe neutropenia (< 500 cells/mm3) was 7 days), anaemia, alopecia, nausea, vomiting, stomatitis, diarrhoea and asthenia.
-
-For combination with capecitabine, the most frequent treatment-related undesirable effects (≥ 5%) reported in a phase III study in breast cancer patients failing anthracycline treatment are presented (see capecitabine summary of product characteristics).
-
-MedDRA system organ classes Very common adverse Common adverse reactions
-reactions
-Diarrhoea (G3/4: 1.7%)
-
-Congestive heart failure
-
-malignant and 0.6%)
-Anaemia (G3/4: 9.2%);
-Immune system Hypersensitivity (no
-disorders severe)
-4.0%); odynophagia (G3/4:
-Diarrhoea (G3/4: 2.9%); 0.6%);
-Vomiting (G3/4: 0.6%) Abdominal pain;
-haemorrhage (G3/4:
+Infections and Infections (G3/4: 5.7%; Infection associated
+infestations including sepsis and with G4 neutropenia
+pneumonia, fatal in (G3/4: 4.6%)
+1.7%)
+Blood and lymphatic Neutropenia (G4: Thrombocytopenia (G4:
+system disorders 76.4%); 0.2%)
+Anaemia (G3/4: 8.9%);
+disorders 5.3%)
+disorders neuropathy (G3: 4.1%);
+neuropathy (G3/4: 4%);
+Dysgeusia (severe:
+0.07%)
+Hypertension;
+Haemorrhage
+Respiratory, thoracic Dyspnoea (severe:
+and mediastinal 2.7%)
+Gastrointestinal Stomatitis (G3/4: Constipation (severe: Oesophagitis (severe:
+disorders 5.3%); 0.2%); 0.4%)
+Diarrhoea (G3/4: 4%); Abdominal pain
+Nausea (G3/4: 4%); (severe: 1%);
+Vomiting (G3/4: 3%) Gastrointestinal
+haemorrhage (severe:
+tissue disorders Skin reaction (G3/4:
+5.9%);
+Nail disorders (severe:
+2.6%)
+Musculoskeletal and Myalgia (severe: 1.4%) Arthralgia
+General disorders and Fluid retention (severe: Infusion site reaction;
+administration site 6.5%); Non-cardiac chest pain
+conditions Asthenia (severe: (severe: 0.4%)
+11.2%);
+Investigations G3/4 Blood bilirubin
+increased (< 5%);
+G3/4 Blood alkaline
+phosphatase increased
+(< 4%);
+G3/4 AST increased
+(< 3%);
+G3/4 ALT increased
 
 | MedDRA system organ classes | Very common adverse reactions | Common adverse reactions | Uncommon adverse reactions |
 | --- | --- | --- | --- |
@@ -705,10 +664,6 @@ haemorrhage (G3/4:
 | Musculoskeletal, connective tissue bone disorders |  | Myalgia (G3/4: 0.4%) |  |
 | General disorders and administration site conditions | Lethargy (G3/4: 4.0%); Pyrexia (G3/4: 3.6%); Fluid retention (G3/4: 1.2%); Oedema (G3/4: 1.2%) |  |  |
 | Investigations | Weight decreased |  | Weight increased |
-
-Bone marrow suppression and other haematologic adverse reactions have been reported.
-
-Sclerodermal-like changes usually preceded by peripheral lymphoedema have been reported with docetaxel.
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
