@@ -1,7 +1,6 @@
 # 6.5 Nature and contents of container
 
-Single-use vial (Type I glass) with a butyl rubber stopper containing 100 mg of bevacizumab in 4 ml of concentrate for solution for infusion.
-Single-use vial (Type I glass) with a butyl rubber stopper containing 400 mg of bevacizumab in 16 ml of concentrate for solution for infusion.
+4 ml solution in a vial (Type I glass) with a stopper (butyl rubber) containing 100 mg of bevacizumab.
+16 ml solution in a vial (Type I glass) with a stopper (butyl rubber) containing 400 mg of bevacizumab.
 
-Pack of 1 vial containing 4 ml.
-Pack of 1 vial containing 16 ml.
+Pack of 1 vial.
