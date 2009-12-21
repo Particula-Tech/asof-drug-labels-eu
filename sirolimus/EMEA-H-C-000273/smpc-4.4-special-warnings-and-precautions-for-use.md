@@ -17,9 +17,9 @@ In patients with severe hepatic impairment, reduction in maintenance dose by one
 Since half-life is prolonged in these patients, therapeutic drug monitoring after a loading dose or a change of dose should be performed for a prolonged period of time until stable concentrations are reached (see sections 4.2 and 5.2).
 
 Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (see section 4.5).
+
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression (see section 4.8).
 Oversuppression of the immune system can also increase susceptibility to infection including opportunistic infections, fatal infections, and sepsis.
-
 Patients treated with immunosuppressants, including Rapamune, are at increased risk for opportunistic infections (bacterial, fungal, viral and protozoal).
 Among these conditions are BK virus associated nephropathy and JC virus associated progressive multifocal leukoencephalopathy (PML).
 These infections are often related to a high total immunosuppressive burden and may lead to serious or fatal conditions that physicians should consider in the differential diagnosis in immunosuppressed patients with deteriorating renal function or neurological symptoms.
@@ -45,6 +45,7 @@ Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angi
 In rare cases, the concomitant administration of sirolimus and ACE inhibitors has resulted in angioneurotic oedema-type reactions.
 
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
+
 Cases of Pneumocystis carinii pneumonia have been reported in patients not receiving antimicrobial prophylaxis.
 Therefore, antimicrobial prophylaxis for Pneumocystis carinii pneumonia should be administered for the first 12 months following transplantation.
 
@@ -78,9 +79,6 @@ The concomitant use of Rapamune with a calcineurin inhibitor may increase the ri
 [Rapamune 1 mg coated tablets.]
 
 There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults), in patients receiving Rapamune.
-
-Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, exfoliative dermatitis, and hypersensitivity vasculitis, have been associated with the administration of sirolimus
-(see section 4.8).
 
 Sirolimus tablets contain sucrose and lactose.
 In those patients with a history of sucrase insufficiency, isomaltase insufficiency, fructose intolerance, glucose malabsorption, galactose malabsorption, galactose intolerance (e.g., galactosemia), or Lapp lactase deficiency, a careful risk/benefit assessment should be performed prior to prescribing sirolimus tablets.

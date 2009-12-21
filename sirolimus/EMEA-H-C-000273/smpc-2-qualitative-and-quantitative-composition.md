@@ -3,6 +3,7 @@
 Each ml contains 1 mg sirolimus.
 
 Excipients:
+
 For a full list of excipients, see section 6.1.
 
 [Rapamune 1 mg coated tablets.]

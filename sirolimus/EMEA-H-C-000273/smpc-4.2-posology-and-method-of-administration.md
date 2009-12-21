@@ -70,11 +70,11 @@ Bioavailability has not been determined for tablets after they have been crushed
 
 Use in elderly patients (> 65 years): Clinical studies with Rapamune oral solution did not include a sufficient number of patients > 65 years of age to determine whether they will respond differently than younger patients.
 Sirolimus trough concentration data in 35 renal transplant patients > 65 years of age were similar to those in the adult population (n = 822) from 18 to 65 years of age.
-Rapamune tablets administered to 12 renal transplant patients > 65 years of age also gave similar results to adult patients
-(n = 167) 18 to 65 years of age.
+Rapamune tablets administered to 12 renal transplant patients > 65 years of age also gave similar results to adult patients (n = 167) 18 to 65 years of age.
 
 To minimize variability, Rapamune should be taken at the same time in relation to ciclosporin, 4 hours after the ciclosporin dose, and consistently either with or without food (see section 5.2).
-Optimally, adjustments in Rapamune dosage should be based on more than a single trough level obtained > 5 days after a previous dosing change.
+Optimally, adjustments in Rapamune dosage should be based on more than a single trough level obtained
+> 5 days after a previous dosing change.
 Patients can be switched from the solution to the tablet formulation on a mg per mg basis.
 It is recommended that a trough concentration be taken 1 or 2 weeks after switching formulations or tablet strength to confirm that the trough concentration is within the recommended target range.
 

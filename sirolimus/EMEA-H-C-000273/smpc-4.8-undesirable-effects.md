@@ -51,14 +51,11 @@ dermatitis, and
 hypersensitivity
 vasculitis
 (see section 4.4)
-Metabolism and Hypokalaemia
-nutrition Hypophosphataemia
+Metabolism Hypokalaemia Diabetes melitus
+and nutrition Hypophosphataemia
 disorders Hypercholesterolaemia
 Hyperglycaemia
 Hypertriglyceridaemia
-System Organ Very common Common Uncommon Rare
-Class (≥1/10) (≥1/100 to <1/10) (≥1/1000 to (≥1/10000 to
-<1/100) <1/1000)
 Nervous system Headache
 disorders
 Cardiac Tachycardia Pericardial effusion
@@ -67,6 +64,9 @@ haemodynamically
 significant
 effusions in
 children and adults)
+System Organ Very common Common Uncommon Rare
+Class (≥1/10) (≥1/100 to <1/10) (≥1/1000 to (≥1/10000 to
+<1/100) <1/1000)
 Vascular Lymphocele Deep vein Pulmonary Lymphoedema
 disorders Hypertension thrombosis embolism
 Respiratory, Pneumonitis Pulmonary Alveolar
@@ -74,7 +74,7 @@ thoracic, and Pleural effusion haemorrhage proteinosis
 mediastinal Epistaxis
 disorders
 Gastrointestinal Abdominal pain Stomatitis Pancreatitis
-disorders Diarrhoea
+disorders Diarrhoea Ascites
 Constipation
 Nausea
 Hepatobiliary Liver function tests
@@ -102,6 +102,7 @@ increased
 Immunosuppression increases the susceptibility to the development of lymphoma and other malignancies, particularly of the skin (see section 4.4).
 
 Cases of BK virus associated nephropathy, as well as cases of JC virus associated progressive multifocal leukoencephalopathy (PML), have been reported in patients treated with immunosuppressants, including Rapamune.
+
 Hepatotoxicity has been reported, the risk may increase as the trough sirolimus level increases.
 There have been rare reports of fatal hepatic necrosis with elevated trough sirolimus levels.
 
@@ -110,7 +111,6 @@ In some cases, the interstitial lung disease has resolved upon discontinuation o
 The risk may be increased as the trough sirolimus level increases.
 
 Impaired healing following transplant surgery has been reported, including fascial dehiscence, incisional hernia, and anastomotic disruption (e.g. wound, vascular, airway, ureteral, biliary).
-
 Impairments of sperm parameters have been observed among some patients treated with Rapamune.
 These effects have been reversible upon discontinuation of Rapamune in most cases (see section 5.3).
 
@@ -120,7 +120,9 @@ The concomitant use of sirolimus with a calcineurin inhibitor may increase the r
 
 Focal segmental glomerulosclerosis has been reported.
 
-In an ongoing study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/mL) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 mL/min (see section 5.1).
+There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults) in patients receiving Rapamune.
+
+In an ongoing study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 – 20 ng/mL) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 mL/min (see section 5.1).
 There was a higher rate of serious adverse events including pneumonia, acute rejection, graft loss and death in this sirolimus treatment arm (n=60, median time post-transplant 36 months).
 
 Paediatric population
@@ -140,10 +142,13 @@ There is insufficient experience to recommend the use of Rapamune in children an
 
 The most commonly reported adverse drug reactions (occuring in >10% of patients) are thrombocytopenia, anaemia, pyrexia, hypertension, hypokalaemia, hypophosphataemia, urinary tract infection, hypercholesterolaemia, hyperglycaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, pain, constipation, nausea, headache, increased blood creatinine, and increased blood lactate dehydrogenase (LDH).
 
+Metabolism Hypokalaemia Diabetes mellitus
+
 Hepatoxicity has been reported.
 The risk may increase as the trough sirolimus level increases.
 Rare reports of fatal hepatic necrosis have been reported with elevated trough sirolimus levels.
 
 [Rapamune 2 mg coated tablets.]
 
-(all sentences already above)
+Metabolism and Hypokalaemia Diabetes mellitus
+nutrition Hypophosphataemia

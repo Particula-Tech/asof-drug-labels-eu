@@ -14,8 +14,7 @@ In animals, sirolimus has a direct effect on T and B cell activation suppressing
 Clinical Trials
 Patients at low to moderate immunological risk were studied in the phase 3 ciclosporin elimination-Rapamune maintenance trial, which included patients receiving a renal allograft from a cadaveric or living donor.
 In addition, re-transplant recipients whose previous grafts survived for at least 6 months after transplantation were included.
-Ciclosporin was not withdrawn in patients experiencing Banff Grade 3 acute rejection episodes, who were dialysis-dependent, who had a serum creatinine
-> 400 μmol/l, or who had inadequate renal function to support ciclosporin withdrawal.
+Ciclosporin was not withdrawn in patients experiencing Banff Grade 3 acute rejection episodes, who were dialysis-dependent, who had a serum creatinine > 400 μmol/l, or who had inadequate renal function to support ciclosporin withdrawal.
 Patients at high immunological risk of graft loss were not studied in sufficient number in the ciclosporin elimination-Rapamune maintenance trials and are not recommended for this treatment regimen.
 
 At 12, 24 and 36 months, graft and patient survival were similar for both groups.
@@ -25,8 +24,7 @@ Thereafter, the difference between the two groups was not significant.
 
 The mean calculated glomerular filtration rate (GFR) at 12, 24, 36, 48 and 60 months was significantly higher for patients receiving Rapamune following ciclosporin elimination than for those in the Rapamune with ciclosporin therapy group.
 Based upon the analysis of data from 36 months and beyond, which showed a growing difference in graft survival and renal function, as well as significantly lower blood pressure in the ciclosporin elimination group, it was decided to discontinue subjects from the Rapamune with ciclosporin group.
-By 60 months, the incidence of non-skin malignancies was significantly higher in the cohort who continued ciclosporin as compared with the cohort who had ciclosporin withdrawn
-(8.4% vs. 3.8%, respectively).
+By 60 months, the incidence of non-skin malignancies was significantly higher in the cohort who continued ciclosporin as compared with the cohort who had ciclosporin withdrawn (8.4% vs. 3.8%, respectively).
 For skin carcinoma, the median time to first occurrence was significantly delayed.
 
 The safety and efficacy of conversion from calcineurin inhibitors to Rapamune in maintenance renal transplant patients (6-120 months after transplantation) was assessed in a randomised, multicentre, controlled trial, stratified by calculated GFR at baseline (20-40 mL/min vs >40 mL/min).
@@ -55,10 +53,4 @@ The use of Rapamune in combination with calcineurin inhibitors and corticosteroi
 
 An unacceptably high frequency of PTLD was seen in a paediatric clinical transplant study when full dose Rapamune was administered to children and adolescents in addition to full dose calcineurin inhibitors with basiliximab and corticosteroids (see section 4.8).
 
-[Rapamune 1 mg coated tablets.]
-
-(all sentences already above)
-
-[Rapamune 2 mg coated tablets.]
-
-By 60 months, the incidence of non-skin malignancies was significantly higher in the cohort who continued ciclosporin as compared with the cohort who had ciclosporin withdrawn (8.4% vs. 3.8%, respectively).
+In a retrospective review of hepatic veno-occlusive disease (VOD) in patients who underwent myeloablative stem cell transplantation using cyclosphophamide and total body irradiation, an increased incidence of hepatic VOD was observed in patients treated with Rapamune, especially with concomitant use of methotrexate.

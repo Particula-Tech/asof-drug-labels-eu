@@ -26,13 +26,13 @@ It is recommended that Rapamune be taken consistently either with or without foo
 The use of orange juice and water to dilute Rapamune were equivalent with respect to Cmax, and AUC.
 Grapefruit juice affects CYP3A4 mediated metabolism and must therefore be avoided.
 
-In paediatric patients on dialysis (30% to 50% reduction in glomerular filtration rate) within age ranges of 5 to 11 years and 12 to 18 years, the mean weight-normalised CL/F was larger for younger paediatric patients (580 ml/h/kg) than for older paediatric patients (450 ml/h/kg) as compared with adults
-(287 ml/h/kg).
+In paediatric patients on dialysis (30% to 50% reduction in glomerular filtration rate) within age ranges of 5 to 11 years and 12 to 18 years, the mean weight-normalised CL/F was larger for younger paediatric patients (580 ml/h/kg) than for older paediatric patients (450 ml/h/kg) as compared with adults (287 ml/h/kg).
 There was a large variability for individuals within the age groups.
 
 Sirolimus concentrations were measured in concentration-controlled trials of paediatric renal-transplant patients who were also receiving ciclosporin and corticosteroids.
 The target for trough concentrations was 10-20 ng/mL.
-At steady state, 8 children aged 6-11 years received mean ± SD doses of 1.75 ± 0.71 mg/day (0.064 ± 0.018 mg/kg, 1.65 ± 0.43 mg/m2) while 14 adolescents aged 12-18 years received mean ± SD doses of 2.79 ± 1.25 mg/day (0.053 ± 0.0150 mg/kg, 1.86 ± 0.61 mg/m2).
+At steady state, 8 children aged 6-11 years received mean ± SD doses of 1.75 ± 0.71 mg/day (0.064 ± 0.018 mg/kg, 1.65 ± 0.43 mg/m2) while 14 adolescents aged 12-18 years received mean ± SD doses of 2.79 ± 1.25 mg/day (0.053 ± 0.0150 mg/kg, 1.86 ±
+0.61 mg/m2).
 The younger children had a higher weight-normalized Cl/F (214 mL/h/kg) compared with the adolescents (136 mL/h/kg).
 These data indicate that younger children might require higher bodyweight-adjusted doses than adolescents and adults to achieve similar target concentrations.
 However, the development of such special dosing recommendations for children requires more data to be definitely confirmed.
@@ -47,7 +47,6 @@ The pharmacokinetics of sirolimus were similar in various populations with renal
 
 Much of the general pharmacokinetic information was obtained using the oral solution, which is summarised first.
 Information directly related to the tablet formulation is summarised specifically in the Oral Tablet section.
-
 Oral solution
 The terminal half-life in stable renal transplant patients after multiple oral doses was 62 ± 16 h. The effective half-life, however, is shorter and mean steady-state concentrations were achieved after 5 to 7 days.
 
