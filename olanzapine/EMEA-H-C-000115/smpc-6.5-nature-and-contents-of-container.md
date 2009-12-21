@@ -14,7 +14,7 @@ Not all pack sizes may be marketed.
 
 [ZYPREXA 10 mg coated tablets.]
 
-Cold-formed aluminium blister strips in cartons of 7, 28, 35, 56 or 70 tablets per carton.
+(all sentences already above)
 
 [ZYPREXA 15 mg coated tablets]
 

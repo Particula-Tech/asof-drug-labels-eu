@@ -12,7 +12,7 @@ The clinical consequences are likely to be limited, but clinical monitoring is r
 
 Inhibition of CYP1A2
 Fluvoxamine, a specific CYP1A2 inhibitor, has been shown to significantly inhibit the metabolism of olanzapine.
-The mean increase in olanzapine Cmax following fluvoxamine was 54 % in female non-smokers and 77 % male smokers.
+The mean increase in olanzapine Cmax following fluvoxamine was 54 % in female non-smokers and 77 % in male smokers.
 The mean increase in olanzapine AUC was 52 % and 108 % respectively.
 A lower starting dose of olanzapine should be considered in patients who are using fluvoxamine or any other CYP1A2 inhibitors, such as ciprofloxacin.
 A decrease in the dose of olanzapine should be considered if treatment with an inhibitor of CYP1A2 is initiated.
@@ -34,7 +34,6 @@ Therapeutic monitoring of valproate plasma levels did not indicate that valproat
 
 General CNS activity
 Caution should be exercised in patients who consume alcohol or receive medicinal products that can cause central nervous system depression.
-
 The concomitant use of olanzapine with anti-Parkinsonian medicinal products in patients with Parkinson's disease and dementia is not recommended (see section 4.4).
 
 QTc interval

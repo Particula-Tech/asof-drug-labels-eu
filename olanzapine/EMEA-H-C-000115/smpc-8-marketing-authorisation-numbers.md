@@ -21,7 +21,6 @@ EU/1/96/022/031 - ZYPREXA – 7.5 mg - coated tablets - 70 tablets, per box.
 
 [ZYPREXA 10 mg coated tablets.]
 
-EU/1/96/022/008 - ZYPREXA - 10 mg - coated tablets - 7 tablets, per box.
 EU/1/96/022/009 - ZYPREXA - 10 mg - coated tablets - 28 tablets, per box.
 EU/1/96/022/010 - ZYPREXA - 10 mg - coated tablets - 56 tablets, per box.
 EU/1/96/022/026 - ZYPREXA - 10 mg - coated tablets - 35 tablets, per box.
@@ -43,5 +42,7 @@ EU/1/96/022/034 - ZYPREXA - 20 mg - coated tablets - 70 tablets, per box.
 
 [ZYPREXA 10 mg powder for solution for injection]
 
-EU/1/96/022/016 – ZYPREXA - Powder for solution for injection. 1 vial
-EU/1/96/022/017 – ZYPREXA - Powder for solution for injection. 10 vials
+EU/1/96/022/016 – ZYPREXA - Powder for solution for injection.
+1 vial
+EU/1/96/022/017 – ZYPREXA - Powder for solution for injection.
+10 vials

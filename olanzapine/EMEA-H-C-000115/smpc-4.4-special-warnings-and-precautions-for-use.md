@@ -84,10 +84,15 @@ Postural hypotension
 Postural hypotension was infrequently observed in the elderly in olanzapine clinical trials.
 As with other antipsychotics, it is recommended that blood pressure is measured periodically in patients over 65 years.
 
+Sudden cardiac death
+In postmarketing reports with olanzapine, the event of sudden cardiac death has been reported in patients with olanzapine.
+In a retrospective observational cohort study, the risk of presumed sudden cardiac death in patients treated with olanzapine was approximately twice the risk in patients not using antipsychotics.
+In the study, the risk of olanzapine was comparable to the risk of atypical antipsychotics included in a pooled analysis.
 Use in children and adolescents under 18 years of age
 Olanzapine is not indicated for use in the treatment of children and adolescents.
 Studies in patients aged 13-17 years showed various adverse reactions, including weight gain, changes in metabolic parameters and increases in prolactin levels.
 Long-term outcomes associated with these events have not been studied and remain unknown (see sections 4.8 and 5.1).
+
 Lactose
 ZYPREXA tablets contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.

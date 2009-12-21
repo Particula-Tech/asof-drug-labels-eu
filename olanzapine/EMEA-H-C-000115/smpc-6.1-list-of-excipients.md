@@ -9,7 +9,7 @@ Magnesium stearate
 
 Tablet coat
 Hypromellose
-Color mixture white (hypromellose, titanium dioxide E171, macrogol, polysorbate 80)
+Colour mixture white (hypromellose, titanium dioxide E171, macrogol, polysorbate 80)
 Carnauba wax
 Edible blue ink (shellac, macrogol, propylene glycol, indigo carmine E132)
 
