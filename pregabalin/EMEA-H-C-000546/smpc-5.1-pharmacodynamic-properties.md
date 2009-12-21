@@ -19,7 +19,6 @@ Pregabalin has been studied in 10 controlled clinical studies of up to 13 weeks 
 Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
 
 In clinical trials up to 12 weeks for both peripheral and central neuropathic pain, a reduction in pain was seen by week 1 and was maintained throughout the treatment period.
-
 In controlled clinical trials in peripheral neuropathic pain 35% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score.
 For patients not experiencing somnolence, such an improvement was observed in 33% of patients treated with pregabalin and 18% of patients on placebo.
 For patients who experienced somnolence the responder rates were 48% on pregabalin and 16% on placebo.

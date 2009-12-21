@@ -29,6 +29,7 @@ There have been post-marketing reports of congestive heart failure in some patie
 These reactions are mostly seen in elderly cardiovascular compromised patients during pregabalin treatment for a neuropathic indication.
 Pregabalin should be used with caution in these patients.
 Discontinuation of pregabalin may resolve the reaction.
+
 In the treatment of central neuropathic pain due to spinal cord injury the incidence of adverse reactions in general, central nervous system adverse reactions and especially somnolence was increased.
 This may be attributed to an additive effect due to concomitant medicinal products (e.g. anti-spasticity agents) needed for this condition.
 This should be considered when prescribing pregabalin in this condition.

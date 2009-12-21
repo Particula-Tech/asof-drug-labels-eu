@@ -45,6 +45,7 @@ Uncommon Hallucination, panic attack, restlessness, agitation, depression,
 depressed mood, mood swings, depersonalisation, word finding difficulty, abnormal dreams, libido increased, anorgasmia, apathy
 
 Rare Disinhibition, elevated mood
+Frequency not known Aggression
 
 Nervous system disorders
 
@@ -58,7 +59,7 @@ Uncommon Syncope, stupor, myoclonus, psychomotor hyperactivity, ageusia,
 dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, speech disorder, hyporeflexia, hypoaesthesia, amnesia, hyperaesthesia, burning sensation
 
 Rare Hypokinesia, parosmia, dysgraphia
-Frequency not known Loss of consciousness, mental impairment, headache
+Frequency not known Loss of consciousness, mental impairment, headache, malaise
 
 Eye disorders
 
