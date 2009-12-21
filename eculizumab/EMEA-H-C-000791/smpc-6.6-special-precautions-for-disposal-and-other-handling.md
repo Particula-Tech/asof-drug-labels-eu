@@ -8,7 +8,6 @@ Prior to administration, the Soliris solution should be visually inspected for p
 
 Instructions:
 Reconstitution and dilution should be performed in accordance with good practices rules, particularly for the respect of asepsis.
-
 Withdraw the total amount of Soliris from the vial(s) using a sterile syringe.
 
 Transfer the recommended dose to an infusion bag.

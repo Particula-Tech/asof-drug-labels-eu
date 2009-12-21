@@ -73,9 +73,8 @@ Table 3: Efficacy Outcomes in C04-001 and C04-002
 | Transfusion Avoidance during treatment (%) | 0 | 51 | < 0.001 | 51 |  | < 0.001 |
 | LDH levels at end of study (median, U/L) | 2,167 | 239 | < 0.001 | 269 |  | < 0.001 |
 | LDH AUC at end of study (median, U/L x Day) | 411,822 | 58,587 | < 0.001 | -632,264 |  | < 0.001 |
-| Free Hemoglobin at end of study | 62 | 5 | < 0.001 | 5 |  | < 0.001 |
+| Free Hemoglobin at end of study (median, mg/dL) | 62 | 5 | < 0.001 | 5 |  | < 0.001 |
 
-(median, mg/dL)
 FACIT-Fatigue (effect size) 1.12 < 0.001 1.14 < 0.001
 
 * Results from study C04-002 refer to pre- versus post-treatment comparisons.

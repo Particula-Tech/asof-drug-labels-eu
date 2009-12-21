@@ -17,7 +17,8 @@ Table 1: Adverse Reactions Reported in 195 patients included in PNH Studies
 | Cardiac disorders |  |  | Palpitation |
 | Ear and labyrinth disorders |  |  | Tinnitus, Vertigo |
 | Endocrine disorders |  |  | Basedow’s disease |
-| Eye disorders |  |  | Conjunctival irritation, Vision blurred |
+| Eye disorders |  |  | Conjunctival irritation, |
+|  |  |  | Vision blurred |
 | Gastrointestinal disorders |  | Abdominal pain, Constipation, Diarrhea, Dyspepsia, Nausea, Vomiting | Abdominal distension, Gastrooesophagal reflux disease, Gingival pain |
 | General disorders and administration site condition |  | Chest discomfort, Chills, Fatigue, Infusion related reaction, Oedema, Pyrexia | Chest pain, Influenza like illness, Infusion site paraesthesia |
 | Hepatobiliary disorders |  |  | Jaundice |
@@ -29,8 +30,8 @@ Table 1: Adverse Reactions Reported in 195 patients included in PNH Studies
 | Neoplasms benign, malignant and unspecified |  |  | Malignant melanoma, Myelodysplastic syndrome |
 | Nervous system disorders | Headache | Dizziness, Dysgeusia, Paraesthesia | Syncope |
 | Psychiatric disorders |  |  | Abnormal dreams, Anxiety, Depression Insomnia, Mood swings, Sleep disorder |
+| Renal and urinary |  | Dysuria | Renal impairment |
 
-Renal and urinary Dysuria Renal impairment
 disorders
 Reproductive system Spontaneous penile erection Menstrual disorder
 and breast disorders
