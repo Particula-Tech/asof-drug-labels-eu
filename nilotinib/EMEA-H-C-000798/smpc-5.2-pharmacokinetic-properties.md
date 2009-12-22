@@ -16,6 +16,7 @@ Main metabolic pathways identified in healthy subjects are oxidation and hydroxy
 Nilotinib is the main circulating component in the serum.
 None of the metabolites contribute significantly to the pharmacological activity of nilotinib.
 Nilotinib is primarily metabolised by CYP3A4, with possible minor contribution from CYP2C8.
+
 Elimination
 After a single dose of radiolabelled nilotinib in healthy subjects, more than 90% of the dose was eliminated within 7 days, mainly in faeces (94% of the dose).
 Parent drug accounted for 69% of the dose.

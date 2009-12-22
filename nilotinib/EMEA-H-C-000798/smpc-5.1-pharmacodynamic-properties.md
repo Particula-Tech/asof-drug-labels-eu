@@ -6,7 +6,6 @@ Tasigna is a potent inhibitor of the Abl tyrosine kinase activity of the Bcr-Abl
 The substance binds with high affinity to the ATP-binding site in such a manner that it is a potent inhibitor of wild-type Bcr-Abl and maintains activity against 32/33 imatinib-resistant mutant forms of Bcr-Abl.
 As a consequence of this biochemical activity, nilotinib selectively inhibits the proliferation and induces apoptosis in cell lines and in primary Philadelphia-chromosome positive leukaemia cells from CML patients.
 In murine models of CML, as a single agent nilotinib reduces tumour burden and prolongs survival following oral administration.
-
 Tasigna has little or no effect against the majority of other protein kinases examined, including Src, except for the PDGF, Kit and Ephrin receptor kinases, which it inhibits at concentrations within the range achieved following oral administration at therapeutic doses recommended for the treatment of CML (see Table 4).
 
 Table 4 Kinase profile of nilotinib (phosphorylation IC50 nM)
@@ -22,6 +21,7 @@ Efficacy was based on 320 CP patients and 119 AP patients enrolled.
 Median duration of treatment was 341 days for CP patients and 202 days for AP patients (see Table 5).
 Tasigna was administered on a continuous basis (twice daily 2 hours after a meal and with no food for at least one hour after administration) unless there was evidence of inadequate response or disease progression.
 Dose escalation to 600 mg twice daily was allowed.
+
 Table 5 Duration of exposure with Tasigna
 
 |  | Chronic phase n=320 | Accelerated phase n=119 |
@@ -62,6 +62,7 @@ The overall confirmed HR rate in 119 AP patients was 42%.
 Most responders achieved a HR early with Tasigna treatment (median 1.0 months) and these have been durable (median duration has not been reached).
 No patients have had a loss of CHR.
 The MCyR rate was 27% with a median time to response of 2.0 months.
+
 The rates of response for the two treatment arms are reported in Table 7.
 
 Table 7 Response in CML

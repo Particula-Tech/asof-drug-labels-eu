@@ -18,10 +18,10 @@ Gastrointestinal and CNS haemorrhage were reported in 3% and 1% of patients, res
 
 QTcF exceeding 500 msec was observed in <1% of patients.
 No episodes of torsade de pointes (transient or sustained) were observed.
-
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients in Tasigna clinical studies are shown in Table 2.
 These are ranked under heading of frequency using the following convention: very common (≥1/10) or common (≥1/100 to <1/10).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
 Table 2 Adverse reactions (≥5% of all patients, n=438)
 
 System organ Frequency Adverse All grades Grade Chronic Accelerated
@@ -64,6 +64,7 @@ Very common: lipase increased.
 Common: blood amylase increased, alanine aminotransferase increased, aspartate aminotransferase increased, blood bilirubin increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatinine phosphokinase increased, blood glucose increased, weight decreased, weight increased.
 Uncommon: blood lactate dehydrogenase increased, blood glucose decreased, blood creatinine increased, blood urea increased.
 Not known: troponin increased, blood potassium decreased, blood bilirubin unconjugated increased.
+
 Cardiac disorders:
 Common: palpitations, electrocardiogram QT prolonged.
 Uncommon: cardiac failure, angina pectoris, atrial fibrillation, pericardial effusion, coronary artery disease, cardiomegaly, cardiac murmur, bradycardia.
@@ -109,10 +110,10 @@ Musculoskeletal and connective tissue disorders:
 Common: musculoskeletal chest pain, musculoskeletal pain.
 Uncommon: muscular weakness.
 Not known: arthritis, joint swelling.
-
 Endocrine disorders:
 Uncommon: hyperthyroidism.
 Not known: hypothyroidism, thyroiditis.
+
 Metabolism and nutrition disorders:
 Common: hypomagnesaemia, hyperkalaemia, hyperglycaemia.
 Uncommon: hypokalaemia, hyponatraemia, hypocalcaemia, hypophosphataemia, dehydration, decreased appetite, increased appetite.
@@ -142,7 +143,6 @@ Psychiatric disorders:
 Common: insomnia.
 Uncommon: depression, anxiety.
 Not known: disorientation, confusional state.
-
 Clinically relevant or severe abnormalities of routine haematological or biochemistry laboratory values are presented in Table 3.
 
 Table 3 Grade 3-4 laboratory abnormalities

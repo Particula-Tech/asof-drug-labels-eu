@@ -41,6 +41,7 @@ Interactions with other medicinal products
 The administration of Tasigna with agents that are strong CYP3A4 inhibitors (including, but not limited to, ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir) should be avoided.
 Should treatment with any of these agents be required, it is recommended that therapy with Tasigna be interrupted if possible (see section 4.5).
 If transient interruption of treatment with Tasigna is not possible, close monitoring of the individual for prolongation of the QT interval is indicated (see sections 4.2, 4.5 and 5.2).
+
 Concomitant use of Tasigna with medicinal products that are potent inducers of CYP3A4 (e.g. phenytoin, rifampicin, carbamazepine, phenobarbital and St. John’s Wort) is likely to reduce exposure to nilotinib to a clinically relevant extent.
 Therefore, in patients receiving Tasigna, coadministration of alternative therapeutic agents with less potential for CYP3A4 induction should be selected (see section 4.5).
 
