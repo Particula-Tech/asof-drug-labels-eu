@@ -1,6 +1,6 @@
 # 4.8 Undesirable effects
 
-The safety data described below reflect exposure to ustekinumab in 3 studies of 2,266 patients, including 1,970 exposed for at least 6 months and 1,285 exposed for at least 1 year, and 373 for at least 18 months.
+The safety data described below reflect exposure to ustekinumab in 3 studies of 2,266 patients, including 1,970 exposed for at least 6 months, 1,285 exposed for at least 1 year, and 373 exposed for at least 18 months.
 
 The following serious adverse reactions were reported:
 
@@ -11,7 +11,9 @@ The most common adverse reactions (> 10%) in controlled and uncontrolled portion
 Most were considered to be mild and did not necessitate discontinuation of study treatment.
 
 Table 1 provides a summary of adverse reactions from psoriasis clinical studies.
-The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to <1/10), Uncommon (≥ 1/1,000 to <1/100), Rare (≥ 1/10,000 to <1/1,000), Very rare (< 1/10,000), not known (cannot be estimated from the available data).
+The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common
+(≥ 1/10), Common (≥ 1/100 to < 1/10), Uncommon (≥ 1/1,000 to < 1/100), Rare (≥ 1/10,000 to
+< 1/1,000), Very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 1 Summary of adverse reactions in psoriasis clinical studies
@@ -35,6 +37,7 @@ Musculoskeletal and connective Common: Back pain, myalgia tissue disorders
 General disorders and Common: Fatigue, injection site erythema
 
 administration site conditions Uncommon: Injection site reactions (including pain, swelling, pruritus, induration, haemorrhage, bruising and irritation)
+
 Infections
 In controlled studies of psoriasis patients, the rates of infection or serious infection were similar between ustekinumab-treated patients and those treated with placebo.
 In the placebo-controlled period of clinical studies of psoriasis patients, the rate of infection was 1.39 per patient-year of follow-up in ustekinumab-treated patients, and 1.21 in placebo-treated patients.

@@ -5,7 +5,6 @@ The median time to reach the maximum serum concentration (tmax) was 8.5 days aft
 The median tmax values of ustekinumab following a single subcutaneous administration of either 45 mg or 90 mg in patients with psoriasis were comparable to those observed in healthy subjects.
 
 The absolute bioavailability of ustekinumab following a single subcutaneous administration was estimated to be 57.2% in patients with psoriasis.
-
 Distribution
 Median volume of distribution during the terminal phase (Vz) following a single intravenous administration to patients with psoriasis ranged from 57 to 83 ml/kg.
 

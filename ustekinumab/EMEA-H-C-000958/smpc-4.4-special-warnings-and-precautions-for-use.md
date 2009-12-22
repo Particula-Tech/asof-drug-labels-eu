@@ -24,6 +24,7 @@ Thus, caution should be exercised when considering the use of STELARA in these p
 
 Hypersensitivity reactions
 If an anaphylactic or other serious allergic reaction occurs, administration of STELARA should be discontinued immediately and appropriate therapy instituted (see section 4.8).
+
 Vaccinations
 It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with STELARA.
 Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines.
@@ -38,7 +39,7 @@ Caution should be exercised when considering concomitant use of other immunosupp
 
 Special populations
 Children and adolescents (< 18 years)
-STELARA is not recommended for use in children below age 18 due to a lack of data on safety and efficacy.
+STELARA is not recommended for use in children and adolescents below age 18 due to a lack of data on safety and efficacy.
 
 Elderly patients (≥ 65 years)
 No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients.

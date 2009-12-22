@@ -1,1 +1,7 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/08/494/001
+
+[STELARA 90 mg solution for injection]
+
+EU/1/08/494/002

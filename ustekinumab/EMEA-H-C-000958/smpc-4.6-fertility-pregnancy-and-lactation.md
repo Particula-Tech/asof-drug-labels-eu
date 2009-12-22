@@ -5,6 +5,7 @@ There are no adequate data from the use of ustekinumab in pregnant women.
 Animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonic/foetal development, parturition or postnatal development (see section 5.3).
 As a precautionary measure, it is preferable to avoid the use of STELARA in pregnancy.
 Women of childbearing potential should use effective methods of contraception during treatment and up to 15 weeks after treatment.
+
 Lactation
 It is unknown whether ustekinumab is excreted in human breast milk.
 Animal studies have shown excretion of ustekinumab at low levels in breast milk.
