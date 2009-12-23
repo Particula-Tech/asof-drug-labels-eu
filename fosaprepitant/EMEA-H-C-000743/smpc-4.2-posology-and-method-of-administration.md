@@ -29,7 +29,7 @@ Moderately Emetogenic Chemotherapy Regimen
 |  | Day 1 | Day 2 | Day 3 |
 | --- | --- | --- | --- |
 | IVEMEND | 115 mg intravenously | none | none |
-| Aprepitant | None | 80 mg PO | 80 mg PO |
+| Aprepitant | none | 80 mg PO | 80 mg PO |
 | Dexamethasone | 12 mg PO | none | none |
 | Ondansetron | 2 x 8 mg PO | none | none |
 
