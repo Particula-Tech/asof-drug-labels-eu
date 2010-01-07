@@ -1,3 +1,5 @@
 # 8. MARKETING AUTHORISATION NUMBER
 
+[LUMIGAN 0.3 mg/ml eye drops, solution]
+
 EU/1/02/205/001-002

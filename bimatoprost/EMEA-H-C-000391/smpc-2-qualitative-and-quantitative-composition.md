@@ -1,7 +1,14 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-One ml of solution contains 0.3 mg bimatoprost.
+One ml of solution contains 0.1 mg bimatoprost.
 
-Excipient: benzalkonium chloride 0.05 mg/ml.
+Excipient:
+One ml of solution contains 0.2 mg benzalkonium chloride.
 
 For a full list of excipients, see section 6.1.
+
+[LUMIGAN 0.3 mg/ml eye drops, solution]
+
+One ml of solution contains 0.3 mg bimatoprost.
+
+One ml of solution contains 0.05 mg benzalkonium chloride.
