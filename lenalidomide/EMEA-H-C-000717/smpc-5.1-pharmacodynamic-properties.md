@@ -26,28 +26,67 @@ In both studies, the baseline demographic and disease-related characteristics we
 Both patient populations presented a median age of 63 years, with a comparable male to female ratio.
 The ECOG performance status was comparable between both groups, as was the number and type of prior therapies.
 
-Pre-planned interim analyses of both studies showed that lenalidomide/dexamethasone was statistically significantly superior (p < 0.00001) to dexamethasone alone for the primary efficacy endpoint, TTP.
-Complete response (CR) and overall response (OR) rates in the lenalidomide/dexamethasone arm were also significantly higher than the dexamethasone/placebo arm in both studies.
+Pre-planned interim analyses of both studies showed that lenalidomide/dexamethasone was statistically significantly superior (p < 0.00001) to dexamethasone alone for the primary efficacy endpoint, TTP (median follow-up duration of 98.0 weeks).
+Complete response and overall response rates in the lenalidomide/dexamethasone arm were also significantly higher than the dexamethasone/placebo arm in both studies.
 Results of these analyses subsequently led to an unblinding in both studies, in order to allow patients in the placebo/dexamethasone group to receive treatment with the lenalidomide/dexamethasone combination.
 
-Table 1 summarises response rates based on the best response assessments for studies MM-009 and MM-010.
+An extended follow-up efficacy analysis was conducted with a median follow-up of 130.7 weeks.
+Table 1 summarises the results of the follow-up efficacy analyses – pooled studies MM-009 and MM-010.
 
-In a pooled follow-up analysis of studies MM-009 and MM-010 (N = 704), the median TTP was 48.3 weeks (95% CI: 41.1, 60.1) in patients treated with lenalidomide/dexamethasone (n = 353) versus 20.1 weeks (95% CI: 19.9, 20.7) in patients treated with placebo/dexamethasone (n = 351).
-The median time of progression free survival (PFS) was 47.3 weeks (95% CI: 36.9, 58.4) in patients treated with lenalidomide/dexamethasone versus 20.1 weeks (95% CI: 18.1, 20.3) in patients treated with placebo/dexamethasone.
-The median duration of treatment was 28.1 weeks (min: 0.1, max: 110.7).
-Complete response (CR), partial response (PR) and overall response (OR) rates in the lenalidomide/dexamethasone arm were significantly higher than in the dexamethasone/placebo arm in both studies.
-The overall survival (OS) in the pooled studies at one year after the start of treatment was 82% in patients treated with lenalidomide/dexamethasone versus 75% in patients treated with placebo/dexamethasone, with a median follow-up duration of 98.0 weeks (min: 0.3, max: 163.3).
-Despite the fact that 170 out of the 351 patients randomised to placebo/dexamethasone received treatment with lenalidomide/dexamethasone after the studies were unblinded, the pooled analysis of OS demonstrated a statistically significant survival advantage for lenalidomide/dexamethasone relative to placebo/dexamethasone (hazard ratio = 0.75, 95% CI = [0.59, 0.95], p=0.015).
-Table 1 summarises key efficacy results of the pooled follow-up analyses of studies MM-009 and MM-010.
+In this pooled extended follow-up analysis, the median TTP was 60.1 weeks (95% CI: 44.3, 73.1) in patients treated with lenalidomide/dexamethasone (N = 353) versus 20.1 weeks (95% CI: 17.7, 20.3) in patients treated with placebo/dexamethasone (N = 351).
+The median progression free survival was 48.1 weeks (95% CI: 36.4, 62.1) in patients treated with lenalidomide/dexamethasone versus 20.0 weeks (95% CI: 16.1, 20.1) in patients treated with placebo/dexamethasone.
+The median duration of treatment was 44.0 weeks (min: 0.1, max: 254.9) for lenalidomide/dexamethasone and 23.1 weeks (min: 0.3, max: 238.1) for placebo/dexamethasone.
+Complete response (CR), partial response (PR) and overall response (CR+PR) rates in the lenalidomide/dexamethasone arm remain significantly higher than in the dexamethasone/placebo arm in both studies.
+The median overall survival in the extended follow-up analysis of the pooled studies is 164.3 weeks (95% CI: 145.1, 192.6) in patients treated with lenalidomide/dexamethasone versus 136.4 weeks (95% CI: 113.1, 161.7) in patients treated with placebo/dexamethasone.
+Despite the fact that 170 out of the 351 patients randomised to placebo/dexamethasone received lenalidomide after disease progression or after the studies were unblinded, the pooled analysis of overall survival demonstrated a statistically significant survival advantage for lenalidomide/dexamethasone relative to placebo/dexamethasone (hazard ratio = 0.833, 95% CI = [0.687, 1.009], p=0.045).
 
-Table 1: Summary of Results of Efficacy Analyses as of Dates Studies Were Unblinded — Pooled Studies MM-009 and MM-010
+Table 1: Summary of Results of Efficacy Analyses as of cut-off date for extended follow-up — Pooled Studies MM-009 and MM-010 (cut-offs 23 July 2008 and 2 March 2008, respectively)
 
-| Endpoint | len/dex (N=353) | placebo/dex (N=351) | Hazard ratio/odds ratioa, 95% CI, p-value |
+| Endpoint | len/dex (N=353) | placebo/dex (N=351) |  |
 | --- | --- | --- | --- |
-| Median Time To Progression [weeks] [95% CI] | 48.3 [41.1, 60.1] | 20.1 [19.9, 20.7] | 0.35 [0.29, 0.43] p < 0.001 b |
-| Overall Response [n, %] Complete Response [n, %] Partial Response [n, %] | 214 (60.6) 53 (15.0) 161 (45.6) | 77 (21.9) 7 (2.0) 70 (19.9) | 0.18 [0.13, 0.25], p < 0.001 c 0.12 [0.05,0.26], p < 0.001 c 0.30 [0.21, 0.42], p < 0.001 c |
-| Median Progression Free Survival [weeks] [95% CI] | 47.3 [36.9, 58.4] | 20.1 [18.1, 20.3] | 0.38 [0.32, 0.46] p < 0.001 b |
-| 1-year Overall Survival rate | 82% | 75% | 0.75 [0.59, 0.95] p = 0.015 b |
+| Time to Event |  |  | Hazard ratio [95% CI], p-value a |
+| Time To Progression Median [95% CI], weeks | 60.1 [44.3, 73.1] | 20.1 [17.7, 20.3] | 0.350 [0. 287, 0. 426] , p < 0.001 |
+| Progression Free Survival Median [95% CI], weeks | 48.1 [36. 4, 62.1] | 20.0 [16.1, 20.1] | 0.393 [0.326, 0.473] p < 0.001 |
+| Overall Survival Median [95% CI], weeks 1-year Overall Survival rate | 164.3 [145.1, 192.6] 82% | 136.4 [113.1, 161.7] 75% | 0.833 [0.687, , 1.009] p = 0.045 |
+| Response rate |  |  | Odds ratio [95% CI], p-value b |
+| Overall Response [n, %] Complete Response [n, %] | 212 (60.1) 58 (16.4) | 75 (21.4) 11 (3.1) | 5.53 [3.97, 7.71], p < 0.001 6.08 [3.13, 11.80], p < 0.001 |
 
-a: Hazard ratio is for TTP, PFS and OS, odds ratio is for response rates.
-A value below 1 in combination with a P value below 0.025 indicates superiority of len/dex over placebo/dex b: One-tailed log rank test c: One tailed continuity-corrected chi-square test
+a: Two-tailed log rank test comparing survival curves between treatment groups.
+b: Two-tailed continuity-corrected chi-square test.
+
+[Revlimid 10 mg hard capsules]
+
+| Endpoint | len/dex (N=353) | placebo/dex(N =351) |  |
+| --- | --- | --- | --- |
+| Time to Event |  |  | Hazard ratio [95% CI], p-value a |
+| Time To Progression Median [95% CI], weeks | 60.1 [44.3, 73.1] | 20.1 [17.7, 20.3] | 0.350 [0.287, 0.426], p < 0.001 |
+| Progression Free Survival Median [95% CI], weeks | 48.1 [36.4, 62.1] | 20.0 [16.1, 20.1] | 0.393 [0.326, 0.473] p < 0.001 b |
+| Overall Survival Median [95% CI], weeks 1-year Overall Survival rate | 164.3 [145.1, 192.6] 82% | 136.4 [113.1, 161.7] 75% | 0.833 [0. 687, 1.009] p = 0.045 |
+| Response rate |  |  | Odds ratio [95% CI], p-value b |
+| Overall Response [n, %] Complete Response [n, %] | 212 (60.1) 58 (16.4) | 75 (21.4) 11 (3.1) | 5.53 [3.97, 7.71], p < 0.001 6.08 [3.13, 11.80], p < 0.001 |
+
+[Revlimid 15 mg hard capsules]
+
+The median duration of treatment was 44.0 weeks (min: 0.1, max: 254.9) for lenalidomide/dexamethasone and 23.1 weeks (min: 0.3, max: 238.1) for placebo/dexamethasone ).
+
+| Endpoint | len/dex (N=353) | placebo/dex (N=351) |  |
+| --- | --- | --- | --- |
+| Time to Event |  |  | Hazard ratio [95% CI], p-value a |
+| Time To Progression Median [95% CI], weeks | 60.1 [44.3, 73.1] | 20.1 [17.7, 20.3] | 0.350 [0.287, 0.426], p < 0.001 |
+| Progression Free Survival Median [95% CI], weeks | 48.1 [36. 4, 62.1] | 20.0 [16.1, 20.1] | 0.393 [0.326, 0.473] p < 0.001 b |
+| Overall Survival Median [95% CI], weeks 1-year Overall Survival rate | 164.3 [145.1, 192.6] 82% | 136.4 [113.1, 161.7] 75% | 0.833 [0. 687, 1.009] p = 0.045 |
+| Response rate |  |  | Odds ratio [95% CI], p-value b |
+| Overall Response [n, %] Complete Response [n, %] | 212 (60.1) 58 (16.4) | 75 (21.4) 11 (3.1) | 5.53 [3.97, 7.71], p < 0.001 6.08 [3.13, 11.80], p < 0.001 |
+
+[Revlimid 25 mg hard capsules]
+
+The median duration of treatment was 44.0 weeks (min: 0.1, max: 254.9) for lenalidomide/dexamethasone and 23.1 weeks (min: 0.3, max: 238.1) for placebo/dexamethasone).
+
+| Endpoint | len/dex (N=353) | placebo/dex (N=351) |  |
+| --- | --- | --- | --- |
+| Time to Event |  |  | Hazard ratio [95% CI], p-value a |
+| Time To Progression Median [95% CI], weeks | 60.1 [44.3, 73.1] | 20.1 [17.7, 20.3] | 0.350 [0.287, 0c.426], p < 0.001 |
+| Progression Free Survival Median [95% CI], weeks | 48.1 [36. 4, 62.1] | 20.0 [16.1, 20.1] | 0.393 [0.326, 0.473] p < 0.001 |
+| Overall Survival Median [95% CI], weeks 1-year Overall Survival rate | 164.3 [145.1, 192.6] 82% | 136.4 [113.1, 161.7] 75% | 0.833 [0. 687, 1.009] p = 0.045 |
+| Response rate |  |  | Odds ratio [95% CI], p-value b |
+| Overall Response [n, %] Complete Response [n, %] | 212 (60.1) 58 (16.4) | 75 (21.4) 11 (3.1) | 5.53 [3.97, 7.71], p < 0.001 6.08 [3.13, 11.80], p < 0.001 |
