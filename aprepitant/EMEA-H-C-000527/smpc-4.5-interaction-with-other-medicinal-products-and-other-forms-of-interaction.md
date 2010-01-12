@@ -24,7 +24,6 @@ Therefore, no dose adjustment is recommended.
 
 Midazolam: The AUC of orally administrated midazolam increased by 1.2-fold when a single dose of 40 mg aprepitant was co-administered with a single oral dose of 2 mg midazolam; this effect was not considered clinically important.
 
-.
 Induction
 As a mild inducer of CYP2C9, CYP3A4 and glucuronidation, aprepitant can decrease plasma concentrations of substrates eliminated by these routes.
 The induction is transient with a maximum effect reached after 3-5 days.
@@ -41,7 +40,6 @@ Alternative or back-up methods of contraception should be used during treatment 
 Effect of other active substances on the pharmacokinetics of aprepitant
 CYP3A4 inhibitors
 Concomitant administration of EMEND with active substances that inhibit CYP3A4 activity (e.g., ketoconazole, itraconazole, voriconazole, posaconazole, clarithromycin, telithromycin, nefazodone, and protease inhibitors) should be approached cautiously, as the combination is expected to result in increased plasma concentrations of aprepitant (see section 4.4).
-
 CYP3A4 inducers
 Concomitant administration of EMEND with active substances that strongly induce CYP3A4 activity (e.g. rifampicin, phenytoin, carbamazepine, phenobarbital) should be avoided as the combination results in reductions of the plasma concentrations of aprepitant that may result in decreased efficacy.
 Concomitant administration of EMEND with herbal preparations containing St. John’s Wort (Hypericum perforatum) is not recommended.
@@ -76,7 +74,7 @@ Because the effect of EMEND on the pharmacokinetics of orally administered CYP3A
 Caution is advised and additional monitoring may be appropriate in patients receiving such agents orally (see section 4.4).
 
 Immunosuppressants:
-During the 3-day CINV regimen, a transient moderate increase followed by a mild decrease in exposure of immunosuppressants metabolised by CYP3A4 (e.g. cyclosporine, tacrolimus, everolimus and sirolimus) is expected.
+During the 3 day CINV regimen, a transient moderate increase followed by a mild decrease in exposure of immunosuppressants metabolised by CYP3A4 (e.g. cyclosporine, tacrolimus, everolimus and sirolimus) is expected.
 Given the short duration of the 3-day regimen and the time-dependent limited changes in exposure, dose reduction of the immunosuppressants is not recommended during the 3 days of co-administration with EMEND.
 
 Midazolam: The potential effects of increased plasma concentrations of midazolam or other benzodiazepines metabolised via CYP3A4 (alprazolam, triazolam) should be considered when co-administering these agents with EMEND (125 mg/80 mg).
@@ -123,4 +121,6 @@ The dose of dexamethasone in chemotherapy induced nausea and vomiting clinical t
 
 [EMEND 125 mg hard capsules (SmPC 4)]
 
-(all sentences already above)
+In another study with intravenous administration of midazolam, EMEND was given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, an
+
+d 2 mg midazolam was given intravenously prior to the administration of the 3-day regimen of EMEND and on Days 4, 8, and 15.

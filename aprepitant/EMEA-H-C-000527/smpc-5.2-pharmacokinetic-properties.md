@@ -10,7 +10,7 @@ The mean peak plasma concentration (Cmax) of aprepitant occurred at approximatel
 Following oral administration of a single 40 mg dose of EMEND in the fasted state, the AUC0-∞ (mean ± SD) was 8.0 ± 2.1 microgram x h/ml and the Cmax was 0.7 ± 0.24 microgram/ml.
 The median tmax was 3.0 hours.
 
-Concomitant intake of a 40 mg dose with a standard breakfast decreased the aprepitant Cmax by 18 % but did not affect AUC.
+Concomitant intake of a 40 mg dose with a standard breakfast decreased the aprepitant Cmax by 18% but did not affect AUC.
 This is not considered to be clinically important.
 
 Distribution
@@ -68,7 +68,6 @@ This increase is not considered clinically relevant.
 
 The pharmacokinetics of aprepitant is non-linear across the clinical dose range.
 In healthy young adults, the increase in AUC0-∞ was 26 % greater than dose proportional between 80 mg and 125 mg single doses administered in the fed state.
-
 Following oral administration of a single 125 mg dose of EMEND on Day 1 and 80 mg once daily on Days 2 and 3, the AUC0-24hr (mean±SD) was 19.6±2.5 microgram x h/ml and 21.2±6.3 microgram x h/ml on Days 1 and 3, respectively.
 Cmax was 1.6±0.36 microgram/ml and 1.4±0.22 microgram/ml on Days 1 and 3, respectively.
 
@@ -82,10 +81,10 @@ Relationship between concentration and effect
 
 [EMEND 125 mg hard capsules]
 
-(all sentences already above)
+Gender: Following oral administration of a single 125 mg dose ofaprepitant, the Cmax for aprepitant is 16 % higher in females as compared with males.
+
+Hepatic impairment: Mild hepatic impairment(Child-Pugh class A) does not affect the pharmacokinetics of aprepitant to a clinically relevant extent.
 
 [EMEND 125 mg hard capsules (SmPC 4)]
 
 In healthy young adults, aprepitant accounts for approximately 19 % of the radioactivity in plasma over 72 hours following a single intravenous administration 100-mg dose of [14C]-fosaprepitant, a prodrug for aprepitant, indicating a substantial presence of metabolites in the plasma.
-
-No dose adjustment for EMEND is necessary for patients with renal impairmentor for patients with ESRD undergoing haemodialysis.

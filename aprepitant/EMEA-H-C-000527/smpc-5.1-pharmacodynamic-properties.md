@@ -114,21 +114,42 @@ Overall (0-120 hours) 60.9 55.7 5.3 (-1.3, 11.9)
 
 * The confidence intervals were calculated with no adjustment for age category (<55 years, ≥55 years) and investigator group, which were included in the primary analysis of odds ratios and logistic models.
 † One patient in the Aprepitant Regimen only had data in the acute phase and was excluded from the overall and delayed phase analyses.
-The estimated time to first emesis in the study is depicted by the Kaplan-Meier plot in Figure 2.
-
-Figure 2
-Percent of Patients Receiving Moderately Emetogenic Chemotherapy
-
-100%
-
-Aprepitant Regimen (N=432)
-Standard Therapy (N=424)
 
 In the same clinical study, 744 patients continued into the Multiple-Cycle extension for up to 3 additional cycles of chemotherapy.
 
+In a second multicenter, randomized, double-blind, parallel-group, clinical study, the aprepitant regimen was compared with standard therapy in 848 patients (652 females, 196 males) receiving a chemotherapy regimen that included any IV dose of oxaliplatin, carboplatin, epirubicin, idarubicin, ifosfamide, irinotecan, daunorubicin, doxorubicin; cyclophosphamide IV (<1500 mg/m2); or cytarabine IV (>1 g/m2).
+Patients receiving the aprepitant regimen were receiving chemotherapy for a variety of tumor types including 52 % with breast cancer, 21 % with gastrointestinal cancers including colorectal cancer, 13 % with lung cancer and 6 % with gynecological cancers.
+The aprepitant regimen in combination with an ondansetron/dexamethasone regimen (see section 4.2) was compared with standard therapy (placebo in combination with ondansetron 8 mg orally (twice on Day 1, and every 12 hours on Days 2 and 3) plus dexamethasone 20 mg orally on Day 1).
+Efficacy was based on the evaluation of the following primary and key secondary endpoints: No Vomiting in the overall period (0 to 120 hours post-chemotherapy), evaluation of safety and tolerability of the aprepitant regimen for CINV, and complete response (defined as no vomiting and no use of rescue therapy) in the overall period (0 to 120 hours post-chemotherapy).
+Additionally, No Significant Nausea in the overall period (0 to 120 hours post-chemotherapy) was evaluated as an exploratory endpoint, and in the acute and delayed phases as a post-hoc analysis.
+
+A summary of the key study results is shown in Table 3.
+
+Table 3
+
+Percent of Patients Responding by TreatmentGroup and Phase for Study 2 – Cycle 1 Moderately Emetogenic Chemotherapy
+
+(N= 425) † (N= 406)
+
+| Complete Response (no emesis and no rescue therapy) |  |
+| --- | --- |
+| Overall (0-120 hours) 68.7 56.3 12.4 0-24 hours 89.2 80.3 8.9 25-120 hours 70.8 60.9 9.9 | (5.9, 18.9) (4.0, 13.8) (3.5, 16.3) |
+| No Emesis (no emetic episodes regardless of use of rescue therapy) |  |
+| Overall (0-120 hours) 76.2 62.1 14.1 0-24 hours 92.0 83.7 8.3 25-120 hours 77.9 66.8 11.1 | (7.9, 20.3) (3.9, 12.7) (5.1, 17.1) |
+| No Significant Nausea (maximum VAS <25 mm on a scale of 0-100 mm) |  |
+
+Overall (0-120 hours) 73.6 66.4 7.2 (1.0, 13.4)
+0-24 hours 90.9 86.3 4.6 (0.2, 9.0)
+25-120 hours 74.9 69.5 5.4 (-0.7, 11.5)
+
+*The confidence intervals were calculated with no adjustment for gender and region, which were included in the primary analysis using logistic models.
+
+The benefit of aprepitant combination therapy in the full study population was mainly driven by the results observed in patients with poor control with the standard regimen such as in women, even though the results were numerically better regardless of age, tumour type or gender.
+Complete response to the aprepitant regimen and standard therapy, respectively, was reached in 209/324 (65 %) and 161/320 (50 %) in women and 83/101 (82 %) and 68/87 (78 %) of men.
+
 [EMEND 125 mg hard capsules]
 
-(all sentences already above)
+Patients receiving the aprepitant regimen were receiving chemotherapy for a variety of tumor types including 52% with breast cancer, 21% with gastrointestinal cancers including colorectal cancer, 13% with lung cancer and 6% with gynecological cancers.
 
 [EMEND 125 mg hard capsules (SmPC 4)]
 
