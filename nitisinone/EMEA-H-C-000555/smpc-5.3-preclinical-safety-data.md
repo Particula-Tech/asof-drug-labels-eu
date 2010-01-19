@@ -7,13 +7,5 @@ A pre and postnatal development study in the mouse showed statistically signific
 In rats, exposure via milk resulted in reduced mean pup weight and corneal lesions.
 
 No mutagenic but a weak clastogenic activity was observed in in vitro studies.
-There was no evidence of in vivo genotoxicity (mouse micronucleus assay and mouse liver UDS assay).
+There was no evidence of in vivo genotoxicity (mouse micronucleus assay and mouse liver unscheduled DNA synthesis assay).
 Carcinogenicity studies have not been performed.
-
-[Orfadin 5 mg hard capsules.]
-
-In the rabbit, nitisinone induced a dose-related increase in malformations (umbilical hernia and gastroschisis) from a dose level of 2.5-fold higher than the maximum recommended human dose (2 mg/kg/day).
-
-[Orfadin 10 mg hard capsules.]
-
-(all sentences already above)

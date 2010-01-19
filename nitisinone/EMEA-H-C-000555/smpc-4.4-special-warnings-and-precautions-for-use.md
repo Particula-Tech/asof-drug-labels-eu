@@ -1,6 +1,6 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
-Dietary restriction in relation to visual disorders
+Monitoring of plasma tyrosine levels
 It is recommended that a slit-lamp examination of the eyes is performed before initiation of nitisinone treatment.
 A patient displaying visual disorders during treatment with nitisinone should without delay be examined by an ophthalmologist.
 It should be established that the patient is adhering to his dietary regimen and the plasma tyrosine concentration should be measured.
