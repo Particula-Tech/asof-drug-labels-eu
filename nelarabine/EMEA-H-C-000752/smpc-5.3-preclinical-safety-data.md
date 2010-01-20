@@ -18,5 +18,6 @@ Cleft palate was seen in rabbits given a dose approximately 2-fold the adult hum
 Maternal body weight gain and fetal body weights were reduced in rabbits given a dose approximately 2-fold the adult human dose.
 
 Fertility
+
 No studies have been conducted in animals to assess the effects of nelarabine on fertility.
 However, no undesirable effects were seen in the testes or ovaries of monkeys given nelarabine intravenously at doses up to approximately 32% of the adult human dose on a mg/m2 basis for 30 consecutive days.

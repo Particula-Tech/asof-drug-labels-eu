@@ -6,9 +6,9 @@ These events have included altered mental states including severe somnolence, ce
 There have also been reports of events associated with demyelination, and ascending peripheral neuropathies similar in appearance to Guillain-Barré Syndrome.
 Full recovery from these events has not always occurred with cessation of nelarabine.
 Therefore, close monitoring for neurological events is strongly recommended, and nelarabine must be discontinued at the first sign of neurological events of NCI CTCAE Grade 2 or greater.
+
 Neurotoxicity is the dose-limiting toxicity of nelarabine.
 It is advised that patients undergoing therapy with nelarabine be closely observed for signs and symptoms of neurological toxicity.
-
 Common signs and symptoms of nelarabine-related neurotoxicity include somnolence, confusion, convulsions, ataxia, paraesthesias, and hypoesthesia.
 Severe neurological toxicity can manifest as coma, status epilepticus, demyelination, or ascending neuropathy similar in appearance to Guillain-Barré syndrome (see section 4.8).
 

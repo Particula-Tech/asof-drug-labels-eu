@@ -14,8 +14,7 @@ The following convention has been utilised for the classification of frequency: 
 | MedDRA Preferred Term(s) | Adults (1,500 mg/m2) N=103 (%) | Children (650 mg/m2) N=84 (%) |
 | --- | --- | --- |
 | Infections and infestations |  |  |
-|  | Very common: 40 (39) | Very common: 13 (15) |
-| Infection (including but not limited to; sepsis, bacteraemia, pneumonia, fungal infection) |  |  |
+| Infection (including but not limited to; sepsis, bacteraemia, pneumonia, fungal infection) | Very common: 40 (39) | Very common: 13 (15) |
 | There was a single additional report of biopsy confirmed progressive multifocal leukoencephalopathy in the adult population. There have been reports of sometimes fatal opportunistic infections in patients receiving nelarabine therapy. |  |  |
 | Neoplasms benign and malignant (including cysts and polyps) |  |  |
 | Tumour lysis syndrome (see also Data from compassionate use programme and non-pivotal studies) | Common: 1 (1) | N/A |

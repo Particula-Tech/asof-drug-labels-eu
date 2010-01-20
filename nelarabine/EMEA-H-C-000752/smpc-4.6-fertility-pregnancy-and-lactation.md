@@ -1,7 +1,6 @@
 # 4.6 Pregnancy and lactation
 
 There are no adequate data from the use of nelarabine in pregnant women.
-
 Studies in animals have shown reproductive toxicity including malformations (see section 5.3).
 The potential risk in humans is unknown, however, exposure during pregnancy will likely lead to anomalies and malformations of the foetus.
 
