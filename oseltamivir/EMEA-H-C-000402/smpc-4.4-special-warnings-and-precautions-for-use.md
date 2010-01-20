@@ -10,6 +10,9 @@ The safety and efficacy of oseltamivir in either treatment or prevention of infl
 Efficacy of oseltamivir in the treatment of subjects with chronic cardiac disease and/or respiratory disease has not been established.
 No difference in the incidence of complications was observed between the treatment and placebo groups in this population (see section 5.1).
 
+No data allowing a dose recommendation for premature children (< 37 weeks post-menstrual age*) are currently available.
+* Time between first day of last normal menstrual period and day of assessment, gestational age plus post-natal age.
+
 Tamiflu is not a substitute for influenza vaccination.
 Use of Tamiflu must not affect the evaluation of individuals for annual influenza vaccination.
 The protection against influenza lasts only as long as Tamiflu is administered.

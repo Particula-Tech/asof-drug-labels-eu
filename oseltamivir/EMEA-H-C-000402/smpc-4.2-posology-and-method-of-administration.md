@@ -41,10 +41,14 @@ The following weight-adjusted dosing regimens are recommended for treatment of i
 
 Administration of Tamiflu to infants less than one year of age should be based upon the judgment of the physician after considering the potential benefit of treatment versus any potential risk to the infant.
 
+These age-based dosing recommendations are not intended for premature infants, i.e. those with a postmenstrual age less than 37 weeks.
+Insufficient data are available for these patients, in whom different dosing may be required due to the immaturity of physiological functions
 Prevention of influenza
 Post-exposure prevention
 � For adolescents (13 to 17 years of age) and adults: The recommended dose for prevention of influenza following close contact with an infected individual is 75 mg oseltamivir once daily for 10 days.
-Therapy should begin as soon as possible within two days of exposure to an infected individual. � For infants older than 1 year of age and for children 2 to 12 years of age: Tamiflu 30 mg and 45 mg capsules and oral suspension are available.
+Therapy should begin as soon as possible within two days of exposure to an infected individual.
+
+� For infants older than 1 year of age and for children 2 to 12 years of age: Tamiflu 30 mg and 45 mg capsules and oral suspension are available.
 
 The recommended post-exposure prevention dose of Tamiflu is:
 
@@ -71,6 +75,9 @@ The following weight-adjusted dosing prophylaxis regimens are recommended for in
 
 Administration of Tamiflu to infants less than one year of age should be based upon the judgment of the physician after considering the potential benefit of prophylaxis versus any potential risk to the infant.
 
+These age-based dosing recommendations are not intended for premature infants, i.e. those with a postmenstrual age less than 37 weeks.
+Insufficient data are available for these patients, in whom different dosing may be required due to the immaturity of physiological functions
+
 Prevention during an influenza epidemic in the community
 The recommended dose for prevention of influenza during a community outbreak is 75 mg oseltamivir once daily for up to 6 weeks.
 
@@ -81,11 +88,11 @@ During situations when commercially manufactured Tamiflu powder for oral suspens
 Pharmacy compounding
 � Adults and children greater than 1 year who are unable to swallow intact capsules
 This procedure describes the preparation of a 15 mg/ml solution that will provide one patient with enough medication for a 5-day course of treatment or a 10-day course of prophylaxis.
-
 The pharmacist may compound a suspension (15 mg/ml) from Tamiflu 30 mg, 45 mg or 75 mg capsules using water containing 0.1% w/v sodium benzoate added as a preservative.
 
 First, calculate the Total Volume needed to be compounded and dispensed to provide a 5-day course of treatment or a 10=day course of prophylaxis for the patient.
 The Total Volume required is determined by the weight of the patient according to the recommendation in the table below:
+
 Volume of Compounded Suspension (15 mg/ml) Prepared Based Upon the Patient’s Weight
 
 | Body Weight (kg) | Total Volume to Compound per Patient Weight (ml) |
@@ -136,6 +143,7 @@ Instruct the parent or caregiver that after the patient has completed the full c
 It is recommended that this information be provided by affixing an ancillary label to the bottle or adding a statement to the pharmacy label instructions.
 11.
 Place an appropriate expiration date label according to storage condition (see below).
+
 Storage of the pharmacy-compounded suspension (15 mg/ml)
 Room temperature storage conditions: Stable for 3 weeks (21 days) when stored at room temperature
 “do not store above 25 °C”.
@@ -298,7 +306,7 @@ For recommended treatment dose of Tamiflu for infants older than 1 year of age a
 
 Children weighing > 40 kg and who are able to swallow capsules may receive treatment with the adult dosage of 75 mg capsules twice daily for 5 days as an alternative to the recommended dose of Tamiflu suspension or Tamiflu 30 mg and 45 mg capsules.
 
-Therapy should begin as soon as possible within two days of exposure to an infected individual.
+Therapy should begin as soon as possible within two days of exposure to an infected individual. � For infants older than 1 year of age and for children 2 to 12 years of age: Tamiflu 30 mg and 45 mg capsules and oral suspension are available.
 
 For recommended post-exposure prevention dose of Tamiflu for infants older than 1 year of age and for children of 2 to 12 years of age, see SmPC of Tamiflu suspension and Tamiflu 30 mg and 45 mg capsules.
 
