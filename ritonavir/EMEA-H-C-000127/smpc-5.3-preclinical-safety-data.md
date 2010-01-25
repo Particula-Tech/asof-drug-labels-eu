@@ -16,3 +16,11 @@ Developmental toxicity in rabbits (embryolethality, decreased litter size and de
 Ritonavir was not found to be mutagenic or clastogenic in a battery of in vitro and in vivo assays including the Ames bacterial reverse mutation assay using S. typhimurium and E. coli, the mouse lymphoma assay, the mouse micronucleus test and chromosomal aberration assays in human lymphocytes.
 
 Long term carcinogenicity studies of ritonavir in mice and rats revealed tumourigenic potential specific for these species, but are regarded as of no relevance for humans.
+
+[Norvir 100 mg soft capsules]
+
+(all sentences already above)
+
+[Norvir 100 mg film-coated tablets]
+
+However, clinical trials revealed no evidence of medicinal product-induced ocular changes in humans.

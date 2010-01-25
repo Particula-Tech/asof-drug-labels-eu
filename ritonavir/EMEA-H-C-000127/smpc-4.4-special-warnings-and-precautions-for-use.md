@@ -41,7 +41,6 @@ Immune Reactivation Syndrome: in HIV-infected patients with severe immune defici
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jiroveci pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
-
 Liver disease: Ritonavir should not be given to patients with decompensated liver disease.
 For patients with stable severe hepatic impairment (Child Pugh Grade C) without decompensation see section 4.2.
 Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse events.
@@ -115,7 +114,6 @@ Please also review the Summary of Product Characteristics for the particular boo
 Saquinavir: Doses of ritonavir higher than 100 mg twice daily should not be used.
 Higher doses of ritonavir have been shown to be associated with an increased incidence of adverse events.
 Co-administration of saquinavir and ritonavir has led to severe adverse events, mainly diabetic ketoacidosis and liver disorders, especially in patients with pre-existing liver disease.
-
 Saquinavir/ritonavir should not be given together with rifampicin, due to the risk of severe hepatotoxicity (presenting as increased hepatic transaminases) if the three medicines are given together (see section 4.5).
 
 Tipranavir: co-administered with 200 mg of ritonavir has been associated with reports of clinical hepatitis and hepatic decompensation including some fatalities.
@@ -139,3 +137,20 @@ This medicinal product contains small amounts of ethanol (alcohol), less than 10
 The following Warnings and Precautions should be considered when ritonavir is used as a antiretroviral agent.
 
 In patients who are already taking digoxin when ritonavir is introduced, the digoxin dose should be reduced to one-half of the patients’ normal dose and patients need to be followed more closely than usual for several weeks after initiating co-administration of ritonavir and digoxin.
+
+[Norvir 100 mg film-coated tablets]
+
+The relatively high frequency of diarrhoea during treatment with ritonavir may compromise the absorption and efficacy (due to decreased compliance) of ritonavir or other concurrent medicinal products.
+
+A higher risk of lipodystrophy has been associated with individual factors such as older age, and with medicinal product related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
+
+Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse reactions.
+
+Rare reports of 2nd or 3rd degree atrioventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving medicinal products known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
+
+Co-administration of ritonavir with these medicinal products is expected to substantially increase their concentrations and may result in associated adverse reactions such as hypotension and prolonged erection (see section 4.5).
+
+Adverse reactions of nausea, dizziness, hypotension and syncope have been observed in single dose interaction studies in healthy volunteers (see section 4.5)
+
+Higher doses of ritonavir have been shown to be associated with an increased incidence of adverse reactions.
+Co-administration of saquinavir and ritonavir has led to severe adverse reactions, mainly diabetic ketoacidosis and liver disorders, especially in patients with pre-existing liver disease.

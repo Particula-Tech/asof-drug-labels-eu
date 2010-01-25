@@ -93,3 +93,31 @@ Dosage conversion from oral solution to soft capsules for children
 The safety and efficacy of ritonavir in children under the age of 2 have not been established.
 
 The renal clearance of ritonavir is negligible, therefore, a decrease in the total body clearance is not expected in patients with renal impairment.
+
+[Norvir 100 mg film-coated tablets]
+
+Ritonavir film-coated tablets are administered orally and should be ingested with food (see section 5.2).
+
+Norvir film-coated tablets should be swallowed whole and not chewed, broken or crushed.
+
+For further dosage recommendations, refer to the product information of other Protease Inhibitors approved for co-administration with ritonavir.
+Norvir is not recommended in children below 2 years of age due to lack of data on safety and efficacy.
+
+Hepatic impairment: Ritonavir should not be given as a pharmacokinetic enhancer to patients with decompensated liver disease, (see section 4.3).
+
+Adult use: The recommended dose of Norvir film-coated tablets is 600 mg (6 tablets) twice daily (total of 1200 mg per day) by mouth.
+
+Treatment should be initiated at 300 mg (3 tablets) twice daily for a period of three days and increased by 100 mg (1 tablet) twice daily increments up to 600 mg twice daily over a period of no longer than 14 days.
+
+For older children it may be feasible to substitute tablets for the maintenance dose of the oral solution.
+
+Dosage conversion from oral solution to tablets for children
+
+| Oral solution dose | Tablet dose |
+| --- | --- |
+| 175 mg (2.2 ml) twice daily | 200 mg in the morning and 200 mg in the evening |
+| 350 mg (4.4 ml) twice daily | 400 mg in the morning and 300 mg in the evening |
+| 437.5 mg (5.5 ml) twice daily | 500 mg in the morning and 400 mg in the evening |
+| 525 mg (6.6 ml) twice daily | 500 mg in the morning and 500 mg in the evening |
+
+Elderly: Pharmacokinetic data indicated that no dose adjustment is necessary for elderly patients (see section 5.2).
