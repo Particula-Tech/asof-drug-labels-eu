@@ -9,7 +9,10 @@ Standard hypercalcaemia-related metabolic parameters, such as serum levels of ca
 If hypocalcaemia, hypophosphataemia, or hypomagnesaemia occurs, short-term supplemental therapy may be necessary.
 Untreated hypercalcaemia patients generally have some degree of renal function impairment, therefore careful renal function monitoring should be considered.
 
-The safety and efficacy of Zometa in paediatric patients have not been established.
+Zometa contains the same active substance as found in Aclasta (zoledronic acid).
+Patients being treated with Zometa should not be treated with Aclasta concomitantly.
+
+The safety and efficacy of Zometa in paediatric patients have not been established (see section 5.1).
 
 Renal insufficiency
 Patients with TIH with evidence of deterioration in renal function should be appropriately evaluated with consideration given as to whether the potential benefit of treatment with Zometa outweighs the possible risk.
@@ -28,9 +31,9 @@ In patients who show evidence of renal deterioration during treatment, Zometa sh
 Zometa should only be resumed when serum creatinine returns to within 10% of baseline (see section 4.2).
 
 In view of the potential impact of bisphosphonates, including Zometa, on renal function, the lack of clinical safety data in patients with severe renal impairment (in clinical trials defined as serum creatinine ≥ 400 µmol/l or ≥ 4.5 mg/dl for patients with TIH and ≥ 265 µmol/l or ≥ 3.0 mg/dl for patients with cancer and bone metastases, respectively) at baseline and only limited pharmacokinetic data in patients with severe renal impairment at baseline (creatinine clearance < 30 ml/min), the use of Zometa is not recommended in patients with severe renal impairment.
-
 Hepatic insufficiency
 As only limited clinical data are available in patients with severe hepatic insufficiency, no specific recommendations can be given for this patient population.
+
 Osteonecrosis of the jaw
 Osteonecrosis of the jaw has been reported in patients, predominantly those with cancer, receiving treatment with bisphosphonates, including Zometa.
 Many of these patients were also receiving chemotherapy and corticosteroids.

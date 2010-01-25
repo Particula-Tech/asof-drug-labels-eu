@@ -20,13 +20,12 @@ As with other bisphosphonates, cases of conjunctivitis in approximately 1% have 
 
 There have been some reports of impaired renal function (2.3%), although the aetiology appears to be multifactorial in many cases.
 
-Based on pooled analysis of placebo controlled studies, severe anaemia (Hb < 8.0 g/dl) was reported in 5.2% of patients receiving Zometa 4 mg versus 4.2% on placebo.
-
-The following adverse drug reactions, listed in Table 1, have been accumulated from clinical studies following predominantly chronic treatment with zoledronic acid:
+Based on pooled analysis of placebo-controlled studies, severe anaemia (Hb < 8.0 g/dl) was reported in 5.2% of patients receiving Zometa 4 mg versus 4.2% on placebo.
+The following adverse reactions, listed in Table 1, have been accumulated from clinical studies following predominantly chronic treatment with zoledronic acid:
 
 Table 1
 
-Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥1/10), common (≥1/100, <1/10), uncommon (≥1/1,000, <1/100), rare (≥1/10,000, <1/1,000), very rare (<1/10,000), including isolated reports.
+Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥1/10), common (≥1/100, <1/10), uncommon (≥1/1,000, <1/100), rare (≥1/10,000, <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Blood and lymphatic system disorders
 
@@ -66,7 +65,7 @@ Skin and subcutaneous tissue disorders
 Uncommon: Pruritus, rash (including erythematous and
 
 macular rash), increased sweating
-Musculoskeletal, connective tissue and bone disorders
+Musculoskeletal and connective tissue disorders
 
 Common: Bone pain, myalgia, arthralgia, generalised
 
@@ -74,7 +73,7 @@ pain
 
 Uncommon: Muscle cramps
 
-Cardiovascular disorders
+Cardiac disorders
 
 Uncommon: Hypertension, hypotension
 Rare: Bradycardia
@@ -98,7 +97,7 @@ rigors, malaise and flushing)
 Uncommon: Asthenia, peripheral oedema, injection site
 
 reactions (including pain, irritation, swelling, induration), chest pain, weight increase
-Laboratory abnormalities
+Investigations
 
 Very common: Hypophosphataemia
 Common: Blood creatinine and blood urea increased,
@@ -119,11 +118,9 @@ Cases of osteonecrosis (primarily of the jaws) have been reported, predominantly
 Many of these patients had signs of local infection including osteomyelitis, and the majority of the reports refer to cancer patients following tooth extractions or other dental surgeries.
 Osteonecrosis of the jaws has multiple documented risk factors including a diagnosis of cancer, concomitant therapies (e.g. chemotherapy, radiotherapy, corticosteroids) and co-morbid conditions (e.g. anaemia, coagulopathies, infection, pre-existing oral disease).
 Although causality has not been determined, it is prudent to avoid dental surgery as recovery may be prolonged (see section 4.4).
+
 In very rare cases, the following events have been reported: hypotension leading to syncope or circulatory collapse, primarily in patients with underlying risk factors, atrial fibrillation, somnolence, bronchoconstriction, anaphylactic reaction/shock, urticaria, scleritis and orbital inflammation.
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is difficult to assess causality and to estimate event incidence rates.
 
-[Zometa 4 mg/5 ml concentrate for solution for infusion]
-
-Based on pooled analysis of placebo-controlled studies, severe anaemia (Hb < 8.0 g/dl) was reported in 5.2% of patients receiving Zometa 4 mg versus 4.2% on placebo.
-
-In one 3 year, randomised, double-blind controlled trial that evaluated the efficacy and safety of zoledronic acid 5 mg once yearly vs. placebo in the treatment of postmenopausal osteoporosis (PMO), the overall incidence of atrial fibrillation was 2.5% (96 out of 3,862) and 1.9% (75 out of 3,852) in patients receiving zoledronic acid 5 mg and placebo, respectively.
+Paediatric population
+Safety findings in the paediatric population are summarised in section 5.1.

@@ -1,7 +1,4 @@
 # 4.3 Contraindications
 
-Zometa powder for solution for infusion is contraindicated in breast-feeding women and in patients with clinically significant hypersensitivity to zoledronic acid, other bisphosphonates or any of the excipients in the formulation of Zometa.
-
-[Zometa 4 mg/5 ml concentrate for solution for infusion]
-
-Zometa concentrate is contraindicated in breast-feeding women and in patients with clinically significant hypersensitivity to zoledronic acid, other bisphosphonates or any of the excipients in the formulation of Zometa.
+- Hypersensitivity to the active substance, to other bisphosphonates or to any of the excipients in the formulation of Zometa
+- Breast-feeding (see section 4.6)

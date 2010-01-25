@@ -11,7 +11,6 @@ Over the first 24 hours, 39 ± 16% of the administered dose is recovered in the 
 From the bone tissue it is released very slowly back into the systemic circulation and eliminated via the kidney.
 The total body clearance is 5.04 ± 2.5 l/h, independent of dose, and unaffected by gender, age, race, and body weight.
 Increasing the infusion time from 5 to 15 minutes caused a 30% decrease in zoledronic acid concentration at the end of the infusion, but had no effect on the area under the plasma concentration versus time curve.
-
 The interpatient variability in pharmacokinetic parameters for zoledronic acid was high, as seen with other bisphosphonates.
 
 No pharmacokinetic data for zoledronic acid are available in patients with hypercalcaemia or in patients with hepatic insufficiency.
@@ -22,3 +21,8 @@ Population analysis showed that for a patient with creatinine clearance of 20 ml
 Only limited pharmacokinetic data are available in patients with severe renal insufficiency (creatinine clearance < 30 ml/min).
 
 Zoledronic acid shows no affinity for the cellular components of blood and plasma protein binding is low (approximately 56%) and independent of the concentration of zoledronic acid.
+
+Special populations
+Paediatric patients
+Limited pharmacokinetic data in children with severe osteogenesis imperfecta suggest that zoledronic acid pharmacokinetics in children aged 3 to 17 years are similar to those in adults at a similar mg/kg dose level.
+Age, body weight, gender and creatinine clearance appear to have no effect on zoledronic acid systemic exposure.

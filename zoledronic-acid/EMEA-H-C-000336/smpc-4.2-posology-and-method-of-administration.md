@@ -58,8 +58,8 @@ For information on the reconstitution and dilution of Zometa, see section 6.6.
 The withdrawn amount of reconstituted solution must be diluted in 100 ml of sterile 0.9% w/v sodium chloride solution or 5% w/v glucose solution.
 The dose must be given as a single intravenous infusion over no less than 15 minutes.
 
-The use of Zometa in paediatric patients has not been studied.
-Zometa should not be used in that patient population until further data becomes available.
+The use of Zometa in paediatric patients has been studied in 2 clinical trials in the treatment of severe osteogenesis imperfecta (see section 5.1).
+Zometa should not be used in the paediatric population because safety and efficacy in children have not been established (see sections 4.4 and 5.1).
 
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 

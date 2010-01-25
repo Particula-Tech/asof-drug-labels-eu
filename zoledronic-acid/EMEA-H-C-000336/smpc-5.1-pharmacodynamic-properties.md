@@ -4,7 +4,6 @@ Pharmacotherapeutic group: Bisphosphonate, ATC code: M05 BA 08
 
 Zoledronic acid belongs to the class of bisphosphonates and acts primarily on bone.
 It is an inhibitor of osteoclastic bone resorption.
-
 The selective action of bisphosphonates on bone is based on their high affinity for mineralised bone, but the precise molecular mechanism leading to the inhibition of osteoclastic activity is still unclear.
 In long-term animal studies, zoledronic acid inhibits bone resorption without adversely affecting the formation, mineralisation or mechanical properties of bone.
 
@@ -26,6 +25,7 @@ Efficacy results are provided in Table 2.
 In a second study including solid tumours other than breast or prostate cancer, Zometa 4 mg significantly reduced the proportion of patients with an SRE, delayed the median time to first SRE by > 2 months, and reduced the skeletal morbidity rate.
 Multiple event analysis showed 30.7% risk reduction in developing SREs in the Zometa group compared with placebo.
 Efficacy results are provided in Table 3.
+
 Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -44,7 +44,6 @@ Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 * Includes vertebral and non-vertebral fractures
 ** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
 NA Not Applicable
-
 Table 3: Efficacy results (solid tumours other than breast or prostate cancer)
 
 |  | Any SRE (+TIH) |  |  | Fractures* |  |  | Radiation therapy to bone |  |
@@ -63,11 +62,11 @@ Table 3: Efficacy results (solid tumours other than breast or prostate cancer)
 * Includes vertebral and non-vertebral fractures
 ** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
 NA Not Applicable
+
 In a third phase III randomised, double-blind trial, 4 mg Zometa or 90 mg pamidronate every 3 to 4 weeks were compared in patients with multiple myeloma or breast cancer with at least one bone lesion.
 The results demonstrated that Zometa 4 mg showed comparable efficacy to 90 mg pamidronate in the prevention of SREs.
 The multiple event analysis revealed a significant risk reduction of 16% in patients treated with Zometa 4 mg in comparison with patients receiving pamidronate.
 Efficacy results are provided in Table 4.
-
 Table 4: Efficacy results (breast cancer and multiple myeloma patients)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -131,3 +130,61 @@ In clinical trials 69 patients who relapsed or were refractory to initial treatm
 The response rate in these patients was about 52%.
 Since those patients were retreated with the 8 mg dose only, there are no data available allowing comparison with the 4 mg dose.
 In clinical trials performed in patients with tumour-induced hypercalcaemia (TIH), the overall safety profile amongst all three treatment groups (zoledronic acid 4 and 8 mg and pamidronate 90 mg) was similar in types and severity.
+
+Paediatric population
+
+Clinical trial results in the treatment of severe osteogenesis imperfecta in paediatric patients aged 1 to 17 years
+The effects of intravenous zoledronic acid in the treatment of paediatric patients (age 1 to 17 years) with severe osteogenesis imperfecta (types I, III and IV) were compared to intravenous pamidronate in one international, multicentre, randomised, open-label study with 74 and 76 patients in each treatment group, respectively.
+The study treatment period was 12 months preceded by a 4- to 9-week screening period during which vitamin D and elemental calcium supplements were taken for at least 2 weeks.
+In the clinical programme patients aged 1 to < 3 years received 0.025 mg/kg zoledronic acid (up to a maximum single dose of 0.35 mg) every 3 months and patients aged 3 to 17 years received 0.05 mg/kg zoledronic acid (up to a maximum single dose of 0.83 mg) every 3 months.
+An extension study was conducted in order to examine the long-term general and renal safety of once yearly or twice yearly zoledronic acid over the 12-month extension treatment period in children who had completed one year of treatment with either zoledronic acid or pamidronate in the core study.
+
+The primary endpoint of the study was the percent change from baseline in lumbar spine bone mineral density (BMD) after 12 months of treatment.
+Estimated treatment effects on BMD were similar, but the trial design was not sufficiently robust to establish non-inferior efficacy for Zometa.
+In particular there was no clear evidence of efficacy on incidence of fracture or on pain.
+Fracture adverse events of long bones in the lower extremities were reported in approximately 24% (femur) and 14% (tibia) of zoledronic acid-treated patients vs 12% and 5% of pamidronate-treated patients with severe osteogenesis imperfecta, regardless of disease type and causality but overall incidence of fractures was comparable for the zoledronic acid and pamidronate-treated patients: 43% (32/74) vs 41% (31/76).
+Interpretation of the risk of fracture is confounded by the fact that fractures are common events in patients with severe osteogenesis imperfecta as part of the disease process.
+
+The type of adverse reactions observed in this population were similar to those previously seen in adults with advanced malignancies involving the bone (see section 4.8).
+The adverse reactions ranked under headings of frequency, are presented in Table 6.
+The following conventional classification is used: very common (≥1/10), common (≥1/100, <1/10), uncommon (≥1/1,000, <1/100), rare
+(≥1/10,000, <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
+Table 6: Adverse reactions observed in paediatric patients with severe osteogenesis imperfecta1
+
+Nervous system disorders
+
+Common: Headache
+
+Cardiac disorders
+
+Common: Tachycardia
+
+Respiratory, thoracic and mediastinal disorders
+
+Common: Nasopharyngitis
+
+Gastrointestinal disorders
+
+Very common: Vomiting, nausea
+Common: Abdominal pain
+
+Musculoskeletal and connective tissue disorders
+
+Common: Pain in extremities, arthralgia, musculoskeletal
+
+pain
+General disorders and administration site conditions
+
+Very common: Pyrexia, fatigue
+Common: Acute phase reaction, pain
+
+Investigations
+
+Very common: Hypocalcaemia
+Common: Hypophosphataemia
+
+1 Adverse events occurring with frequencies < 5% were medically assessed and it was shown that these cases are consistent with the well established safety profile of Zometa (see section 4.8)
+
+In paediatric patients with severe osteogenesis imperfecta, zoledronic acid seems to be associated with more pronounced risks for acute phase reaction, hypocalcaemia and unexplained tachycardia, in comparison to pamidronate, but this difference declined after subsequent infusions.
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Zometa in all subsets of the paediatric population in the treatment of tumour-induced hypercalcaemia and prevention of skeletal-related events in patients with advanced malignancies involving bone (see section 4.2 for information on paediatric use).
