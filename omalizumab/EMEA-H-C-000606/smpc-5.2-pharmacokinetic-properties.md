@@ -21,21 +21,9 @@ In asthma patients the omalizumab serum elimination half-life averaged 26 days, 
 In addition, doubling of body weight approximately doubled apparent clearance.
 
 Characteristics in patient populations
-Age, Race/Ethnicity, Gender
+Age, Race/Ethnicity, Gender, Body Mass Index
 The population pharmacokinetics of Xolair were analysed to evaluate the effects of demographic characteristics.
-Analyses of these limited data suggest that no dose adjustments are necessary for age (12-76 years), race, ethnicity or gender (see section 4.2).
+Analyses of these limited data suggest that no dose adjustments are necessary for age (6-76 years), race/ethnicity, gender or Body Mass Index (see section 4.2).
 
 Renal and hepatic impairment
 There are no pharmacokinetic or pharmacodynamic data in patients with renal or hepatic impairment (see sections 4.2 and 4.4).
-
-[Xolair 150 mg powder and solvent for solution for injection]
-
-There are no pharmacokinetic or pharmacodynamic data in patients with renal or hepatic impairment (see section s 4.2 and 4.4).
-
-[Xolair 75 mg solution for injection]
-
-(all sentences already above)
-
-[Xolair 150 mg solution for injection]
-
-(all sentences already above)

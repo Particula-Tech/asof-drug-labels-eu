@@ -13,7 +13,6 @@ Abrupt discontinuation of systemic or inhaled corticosteroids after initiation o
 Decreases in corticosteroids should be performed under the direct supervision of a physician and may need to be performed gradually.
 
 Patients with diabetes mellitus, the glucose-galactose malabsorption syndrome, fructose intolerance or sucrase-isomaltase deficiency should be warned that one 75 mg Xolair dose contains 54 mg of sucrose.
-
 Immune system disorders
 
 - Allergic reactions type I
@@ -52,7 +51,6 @@ In patients at chronic high risk of helminth infection, a placebo-controlled tri
 The helminth infection rate in the overall clinical programme, which was not designed to detect such infections, was less than 1 in 1,000 patients.
 However, caution may be warranted in patients at high risk of helminth infection, in particular when travelling to areas where helminthic infections are endemic.
 If patients do not respond to recommended anti-helminth treatment, discontinuation of Xolair should be considered.
-
 Malignancies
 During clinical trials in adults and adolescents 12 years of age and older, there was a numerical imbalance in cancers arising in the Xolair (0.5%; 25 cancers in 5,015 patients) treatment group compared with the control (0.18%; 5 cancers in 2,854 patients) group.
 Malignancies were uncommon (<1/100) in both the active and the control group.
@@ -62,8 +60,6 @@ The overall observed incidence rate of malignancy in the Xolair clinical trial p
 [Xolair 150 mg powder and solvent for solution for injection]
 
 Patients with diabetes mellitus, the glucose-galactose malabsorption syndrome, fructose intolerance or sucrase-isomaltase deficiency should be warned that one 150 mg Xolair dose contains 108 mg of sucrose.
-
-Maglignancies were uncommon (<1/100) in both the active and the control group.
 
 [Xolair 75 mg solution for injection]
 

@@ -3,6 +3,7 @@
 The lyophilised product takes 15-20 minutes to dissolve, although in some cases it may take longer.
 The fully reconstituted product will appear clear or slightly opaque and may have a few small bubbles or foam around the edge of the vial.
 Because of the viscosity of the reconstituted product care must be taken to WITHDRAW ALL OF THE PRODUCT from the vial before expelling any air or excess solution from the syringe in order to obtain the 0.6 ml.
+
 To prepare Xolair 75 mg vials for subcutaneous administration, please adhere to the following instructions:
 
 1.
@@ -47,12 +48,12 @@ The injections are administered subcutaneously in the deltoid region of the arm 
 Xolair 75 mg powder for solution for injection is supplied in a single-use vial and contains no antibacterial preservatives.
 
 From a microbiological point of view, the product should be used immediately after reconstitution (see section 6.3).
-
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
 [Xolair 150 mg powder and solvent for solution for injection]
 
 Because of the viscosity of the reconstituted product care must be taken to WITHDRAW ALL OF THE PRODUCT from the vial before expelling any air or excess solution from the syringe in order to obtain the 1.2 ml.
+
 To prepare Xolair 150 mg vials for subcutaneous administration, please adhere to the following instructions:
 
 Draw 1.4 ml of water for injections from the ampoule into a syringe equipped with a large-bore 18-gauge needle.

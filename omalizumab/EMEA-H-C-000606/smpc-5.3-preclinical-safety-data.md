@@ -10,7 +10,6 @@ The serum concentration required to attain a 50% drop in platelets from baseline
 In addition, acute haemorrhage and inflammation were observed at injection sites in cynomolgus monkeys.
 
 Formal carcinogenicity studies have not been conducted with omalizumab.
-
 In reproduction studies in cynomolgus monkeys subcutaneous doses up to 75 mg/kg (about 12-fold exposure ratio based on 28-day AUC values at 75 mg/kg versus the clinical maximum dose) did not elicit maternal toxicity, embryotoxicity or teratogenicity when administered throughout organogenesis and did not elicit adverse effects on foetal or neonatal growth when administered throughout late gestation, delivery and nursing.
 
 Omalizumab is excreted in milk in cynomolgus monkeys.
@@ -18,11 +17,11 @@ Milk levels of omalizumab were 1.5% of the maternal blood concentration.
 
 [Xolair 150 mg powder and solvent for solution for injection]
 
-Omalizumb is excreted in milk in cynomolgus monkeys.
+(all sentences already above)
 
 [Xolair 75 mg solution for injection]
 
-Omalizumb is excreted in breast milk in cynomolgus monkeys.
+Omalizumab is excreted in breast milk in cynomolgus monkeys.
 
 [Xolair 150 mg solution for injection]
 

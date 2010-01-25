@@ -19,7 +19,6 @@ The efficacy and safety of Xolair were demonstrated in a 28-week double-blind pl
 Eligible patients had experienced multiple asthma exacerbations requiring systemic corticosteroid treatment or had been hospitalised or attended an emergency room due to a severe asthma exacerbation in the past year despite continuous treatment with high-dose inhaled corticosteroids and a long-acting beta2-agonist.
 Subcutaneous Xolair or placebo were administered as add-on therapy to >1,000 micrograms beclomethasone dipropionate (or equivalent) plus a long-acting beta2-agonist.
 Oral corticosteroid, theophylline and leukotriene-modifier maintenance therapies were allowed (22%, 27%, and 35% of patients, respectively).
-
 The rate of asthma exacerbations requiring treatment with bursts of systemic corticosteroids was the primary endpoint.
 Omalizumab reduced the rate of asthma exacerbations by 19% (p = 0.153).
 Further evaluations which did show statistical significance (p<0.05) in favour of Xolair included reductions in severe exacerbations (where patient’s lung function was reduced to below 60% of personal best and requiring systemic corticosteroids) and asthma-related emergency visits (comprised of hospitalisations, emergency room, and unscheduled doctor visits), and improvements in Physician’s overall assessment of treatment effectiveness, Asthma-related Quality of Life (AQL), asthma symptoms and lung function.
@@ -27,9 +26,9 @@ Further evaluations which did show statistical significance (p<0.05) in favour o
 In a subgroup analysis, patients with pre-treatment total IgE ≥76 IU/ml were more likely to experience clinically meaningful benefit to Xolair.
 In these patients in study 1 Xolair reduced the rate of asthma exacerbations by 40% (p = 0.002).
 In addition more patients had clinically meaningful responses in the total IgE ≥76 IU/ml population across the Xolair severe asthma programme.
-Table 7 includes results in the study 1 population.
+Table 5 includes results in the study 1 population.
 
-Table 7: Results of study 1
+Table 5: Results of study 1
 
 |  | Whole study 1 population Xolair Placebo N=209 N=210 |
 | --- | --- |
@@ -54,8 +53,8 @@ Most patients were inadequately controlled but were receiving less concomitant a
 Studies 3-5 used exacerbation as primary endpoint, whereas study 6 primarily evaluated inhaled corticosteroid sparing.
 
 In studies 3, 4 and 5 patients treated with Xolair had respective reductions in asthma exacerbation rates of 37.5% (p = 0.027), 40.3% (p<0.001) and 57.6% (p<0.001) compared to placebo.
-
 In study 6, significantly more severe allergic asthma patients on Xolair were able to reduce their fluticasone dose to ≤500 micrograms/day without deterioration of asthma control (60.3%) compared to the placebo group (45.8%, p<0.05).
+
 Quality of life scores were measured using the Juniper Asthma-related Quality of Life Questionnaire.
 For all six studies there was a statistically significant improvement from baseline in quality of life scores for Xolair patients versus the placebo or control group.
 
@@ -67,12 +66,12 @@ In all five studies a significantly greater proportion of Xolair treated patient
 Children 6 to <12 years of age
 The primary support for safety and efficacy of Xolair in the group aged 6 to <12 years comes from one randomised, double-blind, placebo-controlled, multi-centre trial (study 7).
 
-Study 7 was a placebo-controlled trial which included a specific subgroup (N=235) of patients as defined in the present indication, who were treated with high-dose inhaled corticosteroids
+Study 7 was a placebo-controlled trial which included a specific subgroup (n=235) of patients as defined in the present indication, who were treated with high-dose inhaled corticosteroids
 (≥500 µg/day fluticasone equivalent) plus long-acting beta agonist.
 
 A clinically significant exacerbation was defined as a worsening of asthma symptoms as judged clinically by the investigator, requiring doubling of the baseline inhaled corticosteroid dose for at least 3 days and/or treatment with rescue systemic (oral or intravenous) corticosteroids for at least 3 days.
 
-In the specific subgroup of patients on high-dose inhaled corticosteroids, the omalizumab group had a statistically significantly lower rate of clinically significant asthma exacerbations than the placebo group.
+In the specific subgroup of patients on high dose inhaled corticosteroids, the omalizumab group had a statistically significantly lower rate of clinically significant asthma exacerbations than the placebo group.
 At 24 weeks, the difference in rates between treatment groups represented a 34% (rate ratio 0.662, p = 0.047) decrease relative to placebo for omalizumab patients.
 In the second double-blind 28-week treatment period the difference in rates between treatment groups represented a 63% (rate ratio 0.37, p<0.001) decrease relative to placebo for omalizumab patients.
 
@@ -84,8 +83,6 @@ For the global evaluation of treatment effectiveness at the end of the 52-week d
 [Xolair 150 mg powder and solvent for solution for injection]
 
 In a subgroup analysis patients with pre-treatment total IgE ≥76 IU/ml were more likely to experience clinically meaningful benefit to Xolair.
-
-Physicians overall assessment of treatment effectiveness:
 
 [Xolair 75 mg solution for injection]
 
