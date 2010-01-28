@@ -58,9 +58,11 @@ The recommended 24-hour trough concentration ranges for sirolimus are based on c
 Several assay methodologies have been used to measure the whole blood concentrations of sirolimus.
 Currently in clinical practice, sirolimus whole blood concentration are being measured by both chromatographic and immunoassay methodologies.
 The concentration values obtained by these different methodologies are not interchangeable.
-When using a proprietary immunoassay system, always refer to the manufacturer’s information to correlate values to a reference chromatographic assay.
 All sirolimus concentrations reported in this Summary of Product Characteristics were either measured using chromatographic methods or have been converted to chromatographic method equivalents.
 Adjustments to the targeted range should be made according to the assay being utilised to determine the sirolimus trough concentrations.
+Since results are assay and laboratory dependent, and the results may change over time, adjustment to the targeted therapeutic range must be made with a detailed knowledge of the site-specific assay used.
+
+Physicians should therefore remain continuously informed by responsible representatives for their local laboratory on the performance of the locally used method for concentration determination of sirolimus.
 
 Other considerations for use: Ciclosporin (microemulsion) and other medicinal or non-medicinal products may interact with sirolimus (see section 4.5).
 
@@ -78,8 +80,6 @@ Optimally, adjustments in Rapamune dosage should be based on more than a single 
 Patients can be switched from the solution to the tablet formulation on a mg per mg basis.
 It is recommended that a trough concentration be taken 1 or 2 weeks after switching formulations or tablet strength to confirm that the trough concentration is within the recommended target range.
 
-Adjustments to the targeted range should be made according to the assay being utilized to determine the sirolimus trough concentrations.
-
 [Rapamune 2 mg coated tablets.]
 
-The recommended ranges 24-hour trough concentration for sirolimus are based on chromatographic methods.
+(all sentences already above)
