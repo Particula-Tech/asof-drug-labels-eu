@@ -28,7 +28,6 @@ Plasma concentrations increase in a dose-related manner.
 Plasma clearance, volume of distribution and half-life are independent of dose.
 
 Special populations
-
 Analysis of population-based pharmacokinetics of TMZ revealed that plasma TMZ clearance was independent of age, renal function or tobacco use.
 In a separate pharmacokinetic study, plasma pharmacokinetic profiles in patients with mild to moderate hepatic impairment were similar to those observed in patients with normal hepatic function.
 

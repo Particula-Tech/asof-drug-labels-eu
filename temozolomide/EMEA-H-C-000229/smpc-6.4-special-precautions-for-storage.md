@@ -1,14 +1,18 @@
 # 6.4 Special precautions for storage
 
+Bottle presentation
+
 Do not store above 30 °C.
 Store in the original bottle in order to protect from moisture.
 Keep the bottle tightly closed.
 
+Sachet presentation
+
+Do not store above 30 °C.
+
 [Temodal 20 mg hard capsules]
 
-Bottle presentation
-
-Sachet presentation
+(all sentences already above)
 
 [Temodal 100 mg hard capsules]
 

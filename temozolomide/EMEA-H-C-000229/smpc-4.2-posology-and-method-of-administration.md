@@ -138,7 +138,6 @@ Temodal 2.5 mg/ml powder for solution for infusion must be administered only by 
 It must not be given by other routes of administration, such as the intrathecal, intramuscular, or subcutaneous route.
 
 The appropriate dose of TMZ should be infused intravenously using a pump over a period of 90 minutes.
-
 As with other similar chemotherapeutic agents, caution is recommended to avoid extravasation.
 Local injection site adverse reactions, which were mostly mild and short-lived were reported in patients receiving Temodal 2.5 mg/ml powder for solution for infusion.
 Preclinical studies did not show permanent tissue damage (see sections 4.8 and 5.3).

@@ -45,4 +45,5 @@ The pump tubing should be attached to the bag, the tubing purged and then capped
 Temodal 2.5 mg/ml must be administered by intravenous infustion only over a period of 90 minutes.
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products or infused simultaneously through the same intravenous line.
+
 This medicinal product is for single use only.

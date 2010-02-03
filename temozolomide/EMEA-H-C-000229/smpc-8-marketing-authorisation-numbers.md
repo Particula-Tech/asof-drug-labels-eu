@@ -2,6 +2,8 @@
 
 EU/1/98/096/001
 EU/1/98/096/002
+EU/1/98/096/024
+EU/1/98/096/025
 
 [Temodal 20 mg hard capsules]
 
@@ -40,4 +42,4 @@ EU/1/98/096/022
 
 [Temodal 2.5 mg/ml powder for solution for infusion]
 
-EU/1/98/096/XXX
+EU/1/98/096/023
