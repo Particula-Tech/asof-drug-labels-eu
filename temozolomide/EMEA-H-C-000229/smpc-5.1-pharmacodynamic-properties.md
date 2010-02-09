@@ -19,13 +19,13 @@ The hazard ratio (HR) for overall survival was 1.59 (95 % CI for HR=1.33 -1.91) 
 The estimated probability of surviving 2 years or more (26 % vs 10 %) is higher for the RT + TMZ arm.
 The addition of concomitant TMZ to RT, followed by TMZ monotherapy in the treatment of patients with newly-diagnosed glioblastoma multiforme demonstrated a statistically significant improvement in overall survival (OS) compared with RT alone (Figure 1).
 
-H R (95% C .I.) = 1.59 (1.33 – 1.91) log-rank p-value < .0001
+HR (95% C.I.) = 1.59 (1.33 – 1.91) log-rank p-value < .0001
 
 26%
-RT+TM Z
+R T+TM Z
 
 10%
-R T O nly
+RT O nly
 12.1 14.6
 
 Figure 1 Kaplan-Meier curves for overall survival (intent-to-treat population)
