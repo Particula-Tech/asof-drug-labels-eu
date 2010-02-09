@@ -27,8 +27,7 @@ The pharmacokinetic parameters based on pharmacokinetic modelling in typical eld
 | --- | --- | --- | --- | --- |
 | Adult (40 years) | Normal CrCL: 100 ml/min | 88 (25.0 %) | 11.4 (22.9 %) | 1.8 (32.9 %) |
 | Adult (40 years) | Mild renal impairment CrCL: 50 ml/min | 71 (23.6 %) | 11.4 (23.0 %) | 2.2 (33.3 %) |
-| Adult (40 years) | Moderate renal impairment CrCL: | 28 (24.4 %) | 11.4 (23.5 %) | 5.2 (32.9 %) |
-|  | 30 ml/min |  |  |  |
+| Adult (40 years) | Moderate renal impairment CrCL: 30 ml/min | 28 (24.4 %) | 11.4 (23.5 %) | 5.2 (32.9 %) |
 | Elderly (75 years) | Normal CrCL: 80 ml/min | 80 (24.0 %) | 13.5 (24.4 %) | 2.4 (34.9 %) |
 | Elderly (75 years) | Mild renal impairment CrCL: 50 ml/min | 72 (24.5 %) | 13.2 (24.2 %) | 2.6 (34.6 %) |
 | Elderly (75 years) | Moderate renal impairment CrCL: 30 ml/min | 28 (24.7 %) | 13.4 (23.8 %) | 6.1 (36.5 %) |

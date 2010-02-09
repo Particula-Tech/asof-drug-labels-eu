@@ -56,9 +56,10 @@ The time to recovery from succinylcholine-induced neuromuscular blockade (1 mg/k
 
 Time (minutes) from administration of rocuronium and sugammadex or succinylcholine to recovery of the T1 10 %
 
-| Neuromuscular blocking agent | Treatment regimen |  |
-| --- | --- | --- |
+Neuromuscular blocking agent Treatment regimen
+
 |  | Rocuronium and sugammadex (16 mg/kg) | Succinylcholine (1 mg/kg) |
+| --- | --- | --- |
 | N Median (minutes) Range | 55 4.2 3.5-7.7 | 55 7.1 3.7-10.5 |
 
 In a pooled analysis the following recovery times for 16 mg/kg sugammadex after 1.2 mg/kg rocuronium bromide were reported:
