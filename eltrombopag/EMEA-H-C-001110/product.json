@@ -1,0 +1,16 @@
+{
+  "active_substance": "eltrombopag",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/001110",
+  "eu_number": "EU/1/10/612",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2010-03-11",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/revolade",
+  "molecule": "eltrombopag",
+  "molecule_name": "ELTROMBOPAG",
+  "name": "Revolade",
+  "register_name": "Revolade",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h612.htm"
+}
