@@ -4,7 +4,7 @@ Infections
 Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections.
 In clinial studies, serious bacterial, fungal, and viral infections have been observed in patients receiving STELARA (see section 4.8).
 
-Caution should be exercised when considering the use of STELARA in patients with a chronic infection or a history of recurrent infection (see section 4.3).
+Caution should be exercised when considering the use of STELARA in patients with a chronic infection or a history of recurrent infection (see section 4.3 for clinically important, active infection).
 
 Prior to initiating treatment with STELARA, patients should be evaluated for tuberculosis infection.
 STELARA must not be given to patients with active tuberculosis (see section 4.3).
@@ -38,12 +38,19 @@ The safety and efficacy of STELARA in combination with other immunosuppressants,
 Caution should be exercised when considering concomitant use of other immunosuppressants and STELARA or when transitioning from other immunosuppressive biologics (see section 4.5).
 
 Special populations
-Children and adolescents (< 18 years)
-STELARA is not recommended for use in children and adolescents below age 18 due to a lack of data on safety and efficacy.
-
 Elderly patients (≥ 65 years)
 No overall differences in efficacy or safety in patients age 65 and older who received STELARA were observed compared to younger patients.
 Because there is a higher incidence of infections in the elderly population in general, caution should be used in treating the elderly.
 
-Hepatic and renal impairment
-Specific studies have not been conducted in patients with hepatic and renal impairment (see section 4.2).
+[STELARA 90 mg solution for injection]
+
+(all sentences already above)
+
+[STELARA 45 mg solution for injection in pre-filled syringe.]
+
+Latex sensitivity
+The needle cover on the syringe in the pre-filled syringe is manufactured from dry natural rubber (a derivative of latex), which may cause allergic reactions in individuals sensitive to latex.
+
+[STELARA 90 mg solution for injection in pre-filled syringe.]
+
+(all sentences already above)

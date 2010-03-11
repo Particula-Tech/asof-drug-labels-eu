@@ -15,7 +15,7 @@ However, 90 mg resulted in greater efficacy.
 Table 2)
 
 Elderly patients (≥ 65 years)
-No dose adjustment is needed for elderly patients.
+No dose adjustment is needed for elderly patients (see section 4.4).
 
 Children and adolescents (< 18 years)
 STELARA is not recommended for use in children and adolescents below age 18 due to a lack of data on safety and efficacy.

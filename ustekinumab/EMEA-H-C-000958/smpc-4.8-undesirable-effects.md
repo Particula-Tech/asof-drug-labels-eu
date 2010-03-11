@@ -44,7 +44,6 @@ In the placebo-controlled period of clinical studies of psoriasis patients, the 
 Serious infections occurred in 0.01 per patient-year of follow-up in ustekinumab-treated patients (5 serious infections in 407 patient-years of follow-up) and 0.02 in placebo-treated patients (3 serious infections in 177 patient-years of follow-up) (see section 4.4).
 
 In the controlled and non-controlled portions of psoriasis clinical studies, the rate of infection was 1.24 per patient-year of follow-up in ustekinumab-treated patients, and the incidence of serious infections was 0.01 per patient-year of follow-up in ustekinumab-treated patients (24 serious infections in 2,251 patient-years of follow-up) and serious infections reported included cellulitis, diverticulitis, osteomyelitis, viral infections, gastroenteritis, pneumonia, and urinary tract infections.
-
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
 Malignancies

@@ -5,8 +5,22 @@ The solution should be visually inspected for particulate matter or discoloratio
 The solution is clear to slightly opalescent, colourless to light yellow and may contain a few small translucent or white particles of protein.
 This appearance is not unusual for proteinaceous solutions.
 The product should not be used if the solution is discoloured or cloudy, or if foreign particulate matter is present.
-Before administration, STELARA should be allowed to reach a comfortable temparature for injection (approximately half an hour).
+Before administration, STELARA should be allowed to reach room temperature (approximately half an hour).
 Detailed instructions for use are provided in the package leaflet.
 
 STELARA does not contain preservatives; therefore any unused product remaining in the vial and the syringe should not be used.
 Any unused product or waste material should be disposed of in accordance with local requirements.
+
+[STELARA 90 mg solution for injection]
+
+(all sentences already above)
+
+[STELARA 45 mg solution for injection in pre-filled syringe.]
+
+The solution in the STELARA pre-filled syringe should not be shaken.
+
+STELARA does not contain preservatives; therefore any unused product remaining in the syringe should not be used.
+
+[STELARA 90 mg solution for injection in pre-filled syringe.]
+
+(all sentences already above)

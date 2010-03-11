@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Interleukin inhibitors, ATC code: L04AC05.
+Pharmacotherapeutic group: Immunosuppressants, interleukin inhibitors, ATC code: L04AC05.
+
 Mechanism of action
 Ustekinumab is a fully human IgG1κ monoclonal antibody that binds with high affinity and specificity to the p40 protein subunit of the human cytokines IL-12 and IL-23.
 Ustekinumab inhibits the activity of human IL-12 and IL-23 by preventing these cytokines from binding to their IL-12Rβ1 receptor protein expressed on the surface of immune cells.
