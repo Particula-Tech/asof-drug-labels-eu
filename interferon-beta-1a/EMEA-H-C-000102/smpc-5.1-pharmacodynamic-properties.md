@@ -13,7 +13,6 @@ Interferon beta is produced by various cell types including fibroblasts and macr
 Natural interferon beta and AVONEX (interferon beta-1a) are glycosylated and have a single N-linked complex carbohydrate moiety.
 Glycosylation of other proteins is known to affect their stability, activity, biodistribution, and half-life in blood.
 However, the effects of interferon beta that are dependent on glycosylation are not fully defined.
-
 AVONEX exerts its biological effects by binding to specific receptors on the surface of human cells.
 This binding initiates a complex cascade of intracellular events that leads to the expression of numerous interferon-induced gene products and markers.
 These include MHC Class I, Mx protein,
@@ -43,6 +42,9 @@ In a post-hoc analysis, those patients with a baseline MRI with at least one Gd-
 However, the impact of early treatment with AVONEX is unknown even in this high-risk subgroup as the study was mainly designed to assess the time to the second event rather than the long term evolution of the disease.
 Furthermore, for the time-being there is no well established definition of a high risk patient although a more conservative approach is to accept at least nine T2 hyperintense lesions on the initial scan and at least one new T2 or one new Gd-enhancing lesion on a follow-up scan taken at least three months after the initial scan.
 In any case, treatment should only be considered for patients classified at high risk.
+
+Paediatric population: Limited data of the efficacy/safety of AVONEX 15 micrograms IM once per week (n=8) as compared to no treatment (n=8) with follow up for 4 years showed results in line to those seen in adults, although the EDSS scores increased in the treated group over the 4 year follow-up thus indicating disease progression.
+No direct comparison with the dose currently recommended in adults is available.
 
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 

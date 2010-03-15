@@ -62,3 +62,5 @@ Within each frequency grouping, undesirable effects are presented in order of de
 2The frequency of occurrence is higher at the beginning of treatment.
 
 3A syncope episode may occur after AVONEX injection, it is normally a single episode that usually appears at the beginning of the treatment and does not recur with subsequent injections.
+
+Paediatric population: Limited published data suggest that the safety profile in adolescents from 12 to 16 years of age receiving AVONEX 30 micrograms IM once per week is similar to that seen in adults.
