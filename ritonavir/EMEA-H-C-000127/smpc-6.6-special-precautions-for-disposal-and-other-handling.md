@@ -10,7 +10,3 @@ The device must be dry prior to use
 [Norvir 100 mg soft capsules]
 
 No special requirements.
-
-[Norvir 100 mg film-coated tablets]
-
-(all sentences already above)

@@ -5,7 +5,3 @@
 [Norvir 100 mg soft capsules]
 
 2 years
-
-[Norvir 100 mg film-coated tablets]
-
-(all sentences already above)

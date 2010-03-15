@@ -16,7 +16,3 @@ Each soft capsule contains 100 mg ritonavir.
 Excipients (per soft capsule):
 Alcohol (12%w/w)
 Castor Oil Polyoxyl 35
-
-[Norvir 100 mg film-coated tablets]
-
-Each film-coated tablet contains 100 mg ritonavir.

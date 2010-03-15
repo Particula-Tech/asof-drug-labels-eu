@@ -1,6 +1,10 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Abbott Laboratories Limited
-Queenborough
-Kent ME11 5EL
+Abbott House,
+Vanwall Business Park,
+Vanwall Road,
+Maidenhead,
+Berkshire,
+SL6 4XE
 United Kingdom
