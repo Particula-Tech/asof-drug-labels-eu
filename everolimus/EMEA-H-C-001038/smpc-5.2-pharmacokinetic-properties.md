@@ -36,7 +36,6 @@ After administration of everolimus in patients with advanced solid tumours, stea
 Steady-state was achieved within two weeks.
 Cmax is dose-proportional between 5 and 10 mg. tmax occurs at 1 to 2 hours post-dose.
 There was a significant correlation between AUC0-τ and pre-dose trough concentration at steady-state.
-
 Special populations
 Hepatic impairment
 The average AUC of everolimus in 8 subjects with moderate hepatic impairment (Child-Pugh class B) was twice that found in 8 subjects with normal hepatic function.

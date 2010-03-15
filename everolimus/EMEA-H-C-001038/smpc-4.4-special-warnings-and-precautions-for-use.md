@@ -22,9 +22,9 @@ Physicians and patients should be aware of the increased risk of infection with 
 
 Pre-existing infections should be treated appropriately and have resolved fully before starting treatment with Afinitor.
 If a diagnosis of invasive systemic fungal infection is made, Afinitor treatment should be promptly and permanently discontinued and the patient treated with appropriate antifungal therapy.
+
 Hypersensitivity reactions
 Hypersensitivity reactions manifested by symptoms including, but not limited to, anaphylaxis, dyspnoea, flushing, chest pain or angioedema (e.g. swelling of the airways or tongue, with or without respiratory impairment) have been observed with everolimus (see section 4.3).
-
 Oral ulceration
 Mouth ulcers, stomatitis and oral mucositis have been observed in patients treated with Afinitor (see section 4.8).
 In such cases topical treatments are recommended, but alcohol- or peroxide-containing mouthwashes should be avoided as they may exacerbate the condition.
