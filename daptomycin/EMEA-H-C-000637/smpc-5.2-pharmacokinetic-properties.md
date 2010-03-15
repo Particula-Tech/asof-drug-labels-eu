@@ -14,13 +14,13 @@ Tissue distribution studies in animals have shown that daptomycin preferentially
 
 Daptomycin is reversibly bound to human plasma proteins in a concentration independent manner.
 In healthy volunteers and patients treated with daptomycin, protein binding averaged about 90% including subjects with renal insufficiency.
-
 Metabolism
 In vitro studies have demonstrated that there is no or limited liver microsomal mediated metabolism of daptomycin in humans and that CYP450 involvement in daptomycin metabolism is minimal.
 Analysis of plasma samples from subjects who received a 6 mg/kg dose of daptomycin did not show any trace of metabolism, suggesting little to no systemic metabolism.
 
 Furthermore, no metabolites have been observed in plasma following administration of radiolabelled drug to humans based on total radiolabel and microbiologically active concentrations.
 Of the four minor metabolites detected in urine, two are Phase I oxidative metabolites present in low concentrations.
+
 Elimination
 Daptomycin is excreted primarily by the kidneys.
 Concomitant administration of probenecid and daptomycin has no effect on daptomycin pharmacokinetics in humans suggesting minimal to no active tubular secretion of daptomycin.
@@ -52,7 +52,6 @@ Renal insufficiency
 Following administration of a single 4 mg/kg or 6 mg/kg dose of daptomycin to subjects with various degrees of renal insufficiency, daptomycin clearance (CL) was reduced and systemic exposure (AUC) was increased.
 In subjects with severe renal insufficiency (CLcr < 30 ml/min) and end-stage renal disease, exposure (AUC) and elimination half life were increased between 2-3-fold relative to healthy subjects.
 See section 4.2 regarding the need for dose adjustment.
-
 Hepatic insufficiency
 The pharmacokinetics of daptomycin is not altered in subjects with moderate hepatic insufficiency (Child-Pugh B classification of hepatic insufficiency) compared with healthy volunteers matched for gender, age and weight following a single 4 mg/kg dose.
 No dosage adjustment is necessary when administering daptomycin in patients with moderate hepatic insufficiency.

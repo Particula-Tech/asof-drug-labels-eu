@@ -5,7 +5,6 @@ Preparation of the solution for infusion requires an additional dilution step as
 
 Cubicin given as 30-minute intravenous infusion
 A 50 mg/ml concentration of Cubicin for infusion is obtained by reconstituting the lyophilised product with 7 ml of sodium chloride 9 mg/ml (0.9%) solution for injection, or water for injections.
-
 The lyophilised product takes approximately 15 minutes to dissolve.
 The fully reconstituted product will appear clear and may have a few small bubbles or foam around the edge of the vial.
 

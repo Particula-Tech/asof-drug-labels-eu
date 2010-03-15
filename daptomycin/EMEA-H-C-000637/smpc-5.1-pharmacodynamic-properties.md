@@ -4,6 +4,7 @@ Pharmacotherapeutic group: Antibacterials for systemic use, Other antibacterials
 
 Mode of action
 Daptomycin is a cyclic lipopeptide natural product that is active against Gram positive bacteria only.
+
 The mechanism of action involves binding (in the presence of calcium ions) to bacterial membranes of both growing and stationary phase cells causing depolarisation and leading to a rapid inhibition of protein, DNA, and RNA synthesis.
 This results in bacterial cell death with negligible cell lysis.
 
@@ -37,7 +38,6 @@ Peptostreptococcus spp
 Inherently resistant organisms
 Gram negative organisms
 * denotes species against which it is considered that activity has been satisfactorily demonstrated in clinical studies.
-
 Information from clinical trials
 In two clinical trials in complicated skin and soft tissues infections, 36% of patients treated with Cubicin met the criteria for systemic inflammatory response syndrome (SIRS).
 The most common type of infection treated was wound infection (38% of patients), while 21% had major abscesses.
