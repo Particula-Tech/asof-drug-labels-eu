@@ -1,6 +1,8 @@
 # 6.3 Shelf life
 
-2 years.
+Powder vial: 2 years.
+
+Solvent: 4 years.
 
 After reconstitution, immediate use of Cayston is recommended.
 If not used immediately, the reconstituted solution must be stored at 2°C - 8°C and used within 8 hours.
