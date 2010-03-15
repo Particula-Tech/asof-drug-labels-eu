@@ -180,8 +180,8 @@ Volume of Compounded Suspension (10 mg/ml) Prepared Based Upon the Patient’s W
 
 | Body Weight (kg) | Total Volume to Compound per Patient Weight (ml) |
 | --- | --- |
-| Up to 7 kg | 30 ml |
-| 7 to 12 kg | 45 ml |
+| ≤ 7 kg | 30 ml |
+| > 7 to 12 kg | 45 ml |
 
 Second, determine the number of capsules and the amount of vehicle (water containing 0.1% w/v sodium benzoate added as a preservative) that is needed to prepare the Total Volume (calculated from the table above: 30 ml, 45 ml) of compounded suspension (10 mg/ml) as shown in the table below:
 Number of Capsules and Amount of Vehicle Needed to Prepare the Total Volume of a Compounded Suspension (10 mg/ml)
@@ -296,9 +296,12 @@ No dose adjustment is required, unless there is evidence of severe renal impairm
 Children
 There is insufficient clinical data available in children with renal impairment to be able to make any dosing recommendation.
 
+Immunocompromised patients
+Longer duration of seasonal prophylaxis up to 12 weeks has been evaluated in immunocompromised subjects (see sections 4.4, 4.8 and 5.1).
+
 [Tamiflu 45 mg hard capsule.]
 
-(all sentences already above)
+TLonger duration of seasonal prophylaxis up to 12 weeks has been evaluated in immunocompromised subjects (see sections 4.4, 4.8 and 5.1).
 
 [Tamiflu 75 mg hard capsule.]
 

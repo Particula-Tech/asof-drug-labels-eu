@@ -16,7 +16,8 @@ Neuraminidase enzyme IC50 values for oseltamivir for clinically isolated influen
 Higher IC50 values for influenza B, up to a median of 8.5 nM, have been observed in published trials.
 
 Reduced sensitivity of viral neuraminidase
-There has been no evidence for emergence of drug resistance associated with the use of Tamiflu in clinical studies conducted to date in post-exposure (7 days), post-exposure within household groups (10 days) and seasonal (42 days) prevention of influenza.
+There has been no evidence for emergence of drug resistance associated with the use of Tamiflu in clinical studies conducted to date in post-exposure (7 days), post-exposure within household groups (10 days) and seasonal (42 days) prevention of influenza in immunocompetent subjects.
+There was no resistance observed during a 12-week prophylaxis study in immunocompromised subjects.
 
 The risk of emergence of influenza viruses with reduced susceptibility or frank resistance to oseltamivir has been examined during Roche-sponsored clinical studies.
 All patients who were found to carry oseltamivir-resistant virus did so transiently, cleared the virus normally and showed no clinical deterioration.
@@ -29,7 +30,7 @@ All patients who were found to carry oseltamivir-resistant virus did so transien
 
 * Full genotyping was not performed in all studies.
 
-The rate of emergence of resistance may be higher in the youngest age groups, and in immunosupressed patients.
+The rate of emergence of resistance may be higher in the youngest age groups, and in immunocompromised patients.
 Oseltamivir-resistant viruses isolated from oseltamivir-treated patients and oseltamivir-resistant laboratory strains of influenza viruses have been found to contain mutations in N1 and N2 neuraminidases.
 Resistance mutations tend to be viral sub-type specific (including those found in H5N1 variants).
 
@@ -62,6 +63,8 @@ Oseltamivir reduced the incidence of acute otitis media from 26.5 % (53/200) in 
 A second study was completed in 334 asthmatic children aged 6 to 12 years old of which 53.6 % were influenza-positive.
 In the oseltamivir treated group, the median duration of illness was not reduced significantly.
 By day 6 (the last day of treatment) FEV1 had increased by 10.8 % in the oseltamivir treated group compared to 4.7 % on placebo (p = 0.0148) in this population.
+The European Medicines Agency has deferred the obligation to submit the results of studies with Tamiflu in one or more subsets of the paediatric population in influenza.
+See section 4.2 for information on paediatric use.
 
 Treatment of influenza B infection: Overall, 15 % of the influenza-positive population were infected by influenza B, proportions ranging from 1 to 33 % in individual studies.
 The median duration of illness in influenza B infected subjects did not differ significantly between the treatment groups in individual studies.
@@ -72,6 +75,7 @@ Prevention of influenza
 The efficacy of oseltamivir in preventing naturally occurring influenza illness has been demonstrated in a post-exposure prevention study in households and two seasonal prevention studies.
 The primary efficacy parameter for all of these studies was the incidence of laboratory-confirmed influenza.
 The virulence of influenza epidemics is not predictable and varies within a region and from season to season, therefore the number needed to treat (NNT) in order to prevent one case of influenza illness varies.
+
 Post-exposure prevention: In a study in contacts (12.6 % vaccinated against influenza) of an index case of influenza, oseltamivir 75 mg once daily was started within 2 days of onset of symptoms in the index case and continued for seven days.
 Influenza was confirmed in 163 out of 377 index cases.
 Oseltamivir significantly reduced the incidence of clinical influenza illness occurring in the contacts of confirmed influenza cases from 24/200 (12 %) in the placebo group to 2/205 (1 %) in the oseltamivir group (92 % reduction [95 % CI 6 – 16; p ≤ 0.0001]).
@@ -90,6 +94,11 @@ Prevention during an influenza epidemic in the community: In a pooled analysis o
 The NNT in this study was 28 (95 % CI 24 – 50).
 A study in elderly residents of nursing homes, where 80 % of participants received vaccine in the season of the study, oseltamivir 75 mg once daily given for 6 weeks significantly reduced the incidence of clinical influenza illness from 12/272 (4.4 %) in the placebo group to 1/276 (0.4 %) in the oseltamivir group (92 % reduction [95 % CI 1.5 – 6.6; p = 0.0015]).
 The NNT in this study was 25 (95 % CI 23 – 62).
+
+Prophylaxis of influenza in immunocompromised patients: A double-blind, placebo-controlled, randomised study was conducted for seasonal prophylaxis of influenza in 475 immunocompromised subjects (388 subjects with solid organ transplantation [195 placebo; 193 oseltamivir], 87 subjects with hemopoetic stem cell transplantation [43 placebo; 44 oseltamivir], no subject with other immunosuppressant conditions), including 18 children 1 to 12 years of age.
+The primary endpoint in this study was the incidence of laboratory-confirmed clinical influenza as determined by viral culture and/or a four-fold rise in HAI antibodies.
+The incidence of laboratory-confirmed clinical influenza was 2.9 % (7/238) in the placebo group and 2.1 % (5/237) in the oseltamivir group (95 % CI -2.3 % –
+4.1 %; p = 0.772).
 
 Specific studies have not been conducted to assess of the reduction in the risk of complications.
 

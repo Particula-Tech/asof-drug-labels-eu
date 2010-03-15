@@ -18,6 +18,7 @@ A potential for skin sensitisation to oseltamivir was observed in a "maximisatio
 Approximately 50 % of the animals treated with the unformulated active ingredient showed erythema after challenging the induced animals.
 Reversible irritancy of rabbits' eyes was detected.
 
-Whereas very high oral single doses of oseltamivir phosphate had no effect in adult rats, such doses resulted in toxicity in juvenile 7-day-old rat pups, including death.
+Whereas very high oral single doses of oseltamivir phosphate salt, up to the highest dose tested
+(1310 mg/kg), had no adverse effects in adult rats, such doses resulted in toxicity in juvenile 7-day-old rat pups, including death.
 These effects were seen at doses of 657 mg/kg and higher.
 At 500 mg/kg, no adverse effects were seen, including upon chronic treatment (500 mg/kg/day administered from 7 to 21 days post partum).
