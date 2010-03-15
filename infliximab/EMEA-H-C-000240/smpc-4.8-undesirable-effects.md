@@ -16,7 +16,7 @@ Undesirable effects in clinical studies and from post-marketing experience
 Infections and infestations
 Common: Viral infection (e.g. influenza, herpes virus infection).
 Uncommon: Tuberculosis, bacterial infections (e.g. sepsis, cellulitis, abscess), fungal infections (e.g. candidiasis).
-Not known: Opportunistic infections (such as invasive fungal infections [pneumocystosis, histoplasmosis, aspergillosis, coccidioidomycosis, cryptococcosis, blastomycosis], bacterial infections [atypical mycobacterial, listeriosis, salmonellosis], and viral infections [cytomegalovirus]), hepatitis B reactivation.
+Not known: Opportunistic infections (such as invasive fungal infections [pneumocystosis, histoplasmosis, aspergillosis, coccidioidomycosis, cryptococcosis, blastomycosis], bacterial infections [atypical mycobacterial, listeriosis, salmonellosis], and viral infections [cytomegalovirus]), parasitic infections, hepatitis B reactivation.
 Neoplasms benign, malignant and unspecified (including cysts and polyps)
 Not known: Hepatosplenic T-cell lymphoma (primarily in adolescents and young adults with Crohn’s disease and ulcerative colitis), lymphoma (including non-Hodgkin’s lymphoma and Hodgkin’s disease).
 Blood and lymphatic system disorders
@@ -75,6 +75,7 @@ Uncommon: Impaired healing, injection site reaction, chills, oedema, pain.
 Rare: Granulomatous lesion.
 Investigations
 Uncommon: Autoantibody positive, complement factor abnormal.
+
 Infusion-related reactions: An infusion-related reaction was defined in clinical studies as any adverse event occurring during an infusion or within 1 to 2 hours after an infusion.
 In clinical studies, approximately 20% of infliximab-treated patients compared with approximately 10% of placebo-treated patients experienced an infusion-related effect.
 Approximately 3% of patients discontinued treatment due to infusions reactions and all patients recovered with or without medical therapy.
@@ -140,7 +141,8 @@ The majority of the malignancies developed in the lung or head and neck.
 Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients with Crohn’s disease and ulcerative colitis treated with Remicade, the majority of whom were adolescent or young adult males (see section 4.4).
 
 Heart failure: In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
-In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
+In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction
+≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
 At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking Remicade.
 There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
@@ -180,7 +182,6 @@ Reports of lupus and lupus-like syndromes, however, remain uncommon.
 Additional information on special populations
 
 Paediatric population
-
 Juvenile rheumatoid arthritis patients:
 Remicade was studied in a clinical study in 120 patients (age range: 4-17 years old) with active juvenile rheumatoid arthritis despite methotrexate.
 Patients received 3 or 6 mg/kg infliximab as a 3-dose induction regimen (weeks 0, 2, 6 or weeks 14, 16, 20 respectively) followed by maintenance therapy every 8 weeks, in combination with methotrexate.

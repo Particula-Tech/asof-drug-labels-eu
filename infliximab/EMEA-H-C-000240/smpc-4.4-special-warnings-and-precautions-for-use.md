@@ -33,7 +33,7 @@ Experimental data show that TNFα is essential for the clearing of intracellular
 Clinical experience shows that host defence against infection is compromised in some patients treated with infliximab.
 
 It should be noted that suppression of TNFα may mask symptoms of infection such as fever.
-Early recognition of atypical clinical presentations of serious infections is critical in order to minimize delays in diagnosis and treatment.
+Early recognition of atypical clinical presentations of serious infections and of typical clinical presentation of rare and unusual infections is critical in order to minimize delays in diagnosis and treatment.
 
 Patients taking TNF-blockers are more susceptible to serious infections.
 Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal infections, and other opportunistic infections have been observed in patients treated with infliximab.

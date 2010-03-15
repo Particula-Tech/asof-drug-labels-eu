@@ -49,11 +49,30 @@ A reduction in the rate of the progression of structural joint damage (erosions 
 The effects observed at 54 weeks were maintained through 102 weeks.
 Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group cannot be defined.
 Table 3
-Effects on ACR20, Structural Joint Damage and Physical Function at week 54, ATTRACT
+Effects on ACR20, Structural Joint Damage and Physical Function at week 54, ATTRACT infliximabb
+3 mg/kg 3 mg/kg 10 mg/kg 10 mg/kg All Controla q 8 wks q 4 wks q 8 wks q 4 wks infliximabb
 
-| infliximabb 3 mg/kg 3 mg/kg Controla q 8 wks q 4 wks | 10 mg/kg q 8 wks | 10 mg/kg q 4 wks | All infliximabb |
-| --- | --- | --- | --- |
-| Patients with ACR20 response/ 15/88 36/86 41/86 Patients evaluated (%)c (17%) (42%) (48%) Total scored (van der Heijde-modified Sharp score) Change from baseline (Mean ± SDc ) 7.0 ± 10.3 1.3 ± 6.0 1.6 ± 8.5 Medianc 4.0 0.5 0.1 (Interquartile range) (0.5,9.7) (-1.5,3.0) (-2.5,3.0) Patients with no deterioration/patients 13/64 34/71 35/71 evaluated (%)c (20%) (48%) (49%) HAQ change from baseline over timee 87 86 85 (patients evaluated) Mean ± SDc 0.2 ± 0.3 0.4 ± 0.3 0.5 ± 0.4 | 51/87 (59%) 0.2 ± 3.6 0.5 (-1.5,2.0) 37/77 (48%) 87 0.5 ± 0.5 | 48/81 (59%) -0.7 ± 3.8 -0.5 (-3.0,1.5) 44/66 (67%) 81 0.4 ± 0.4 | 176/340 (52%) 0.6 ± 5.9 0.0 (-1.8,2.0) 150/285 (53%) 339 0.4 ± 0.4 |
+Patients with ACR20 response/ 15/88 36/86 41/86 51/87 48/81 176/340
+Patients evaluated (%)c (17%) (42%) (48%) (59%) (59%) (52%)
+
+Total scored (van der Heijde-modified
+Sharp score)
+Change from baseline (Mean ± SDc ) 7.0 ± 10.3 1.3 ± 6.0 1.6 ± 8.5 0.2 ± 3.6 -0.7 ± 3.8 0.6 ± 5.9
+
+Medianc 4.0 0.5 0.1 0.5 -0.5 0.0
+(Interquartile range) (0.5,9.7) (-1.5,3.0) (-2.5,3.0) (-1.5,2.0) (-3.0,1.5) (-1.8,2.0)
+
+Patients with no deterioration/patients 13/64 34/71 35/71 37/77 44/66 150/285
+
+evaluated (%)c (20%) (48%) (49%) (48%) (67%) (53%)
+
+HAQ change from baseline over timee
+
+87 86 85 87 81 339
+
+(patients evaluated)
+
+Mean ± SDc 0.2 ± 0.3 0.4 ± 0.3 0.5 ± 0.4 0.5 ± 0.5 0.4 ± 0.4 0.4 ± 0.4
 
 a: control = All patients had active RA despite treatment with stable methotrexate doses for 6 months prior to enrolment and were to remain on stable doses throughout the study.
 Concurrent use of stable doses of oral corticosteroids (≤ 10 mg/day) and/or NSAIDs was permitted, and folate supplementation was given.
@@ -71,13 +90,24 @@ In ASPIRE, more than 90% of patients had at least two evaluable X-rays.
 Reduction in the rate of progression of structural damage was observed at weeks 30 and 54 in the infliximab + methotrexate groups compared to methotrexate alone.
 Table 4
 Effects on ACRn, Structural Joint Damage and Physical Function at week 54, ASPIRE
+Infliximab + MTX
+Placebo + MTX 3 mg/kg 6 mg/kg Combined
 
-|  | Infliximab + MTX Placebo + MTX 3 mg/kg 6 mg/kg | Combined |
-| --- | --- | --- |
-| Subjects randomised Percentage ACR improvement Mean ± SDa Change from baseline in total van der Heijde modified Sharp scoreb Mean ± SDa Median Improvement from baseline in HAQ averaged over time from week 30 to week 54c Mean ± SDd | 282 359 363 | 722 |
-|  | 24.8 ± 59.7 37.3 ± 52.8 42.0 ± 47.3 | 39.6 ± 50.1 |
-|  | 3.70 ± 9.61 0.42 ± 5.82 0.51 ± 5.55 0.43 0.00 0.00 | 0.46 ± 5.68 0.00 |
-|  | 0.68 ± 0.63 0.80 ± 0.65 0.88 ± 0.65 | 0.84 ± 0.65 |
+Subjects randomised 282 359 363 722
+
+Percentage ACR improvement
+
+Mean ± SDa 24.8 ± 59.7 37.3 ± 52.8 42.0 ± 47.3 39.6 ± 50.1
+
+Change from baseline in total van der
+Heijde modified Sharp scoreb
+
+Mean ± SDa 3.70 ± 9.61 0.42 ± 5.82 0.51 ± 5.55 0.46 ± 5.68
+Median 0.43 0.00 0.00 0.00
+
+Improvement from baseline in HAQ averaged over time from week 30 to week 54c
+
+Mean ± SDd 0.68 ± 0.63 0.80 ± 0.65 0.88 ± 0.65 0.84 ± 0.65
 
 a: p < 0.001, for each infliximab treatment group vs. control b: greater values indicate more joint damage.
 c: HAQ = Health Assessment Questionnaire; greater values indicate less disability.
@@ -121,7 +151,8 @@ There was no difference between groups in the number of late responders thereaft
 The co-primary endpoints were the proportion of patients in clinical remission (CDAI<150) at week 30 and time to loss of response through week 54.
 Corticosteroid tapering was permitted after week 6.
 
-Table 5: Effects on response and remission rate, data from ACCENT I (Week-2 responders) ACCENT I (Week-2 responders)
+Table 5: Effects on response and remission rate, data from ACCENT I (Week-2 responders)
+ACCENT I (Week-2 responders)
 % of Patients
 
 Placebo Infliximab Infliximab
@@ -234,11 +265,7 @@ Combined data from ACT 1 & 2.
 | Infliximab Placebo 5 mg/kg 10 mg/kg Subjects randomized 244 242 242 Percentage of subjects in clinical response and in sustained clinical response Clinical response at Week 8a 33.2% 66.9% 65.3% Clinical response at Week 30a 27.9% 49.6% 55.4% Sustained response (clinical response at both Week 8 and Week 30)a 19.3% 45.0% 49.6% | Combined 484 66.1% 52.5% 47.3% |
 | --- | --- |
 | Percentage of subjects in clinical remission and sustained remission Clinical remission at Week 8a 10.2% 36.4% 29.8% Clinical remission at Week 30a 13.1% 29.8% 36.4% Sustained remission (in remission at both Week 8 and Week 30)a 5.3% 19.0% 24.4% | 33.1% 33.1% 21.7% |
-
-Percentage of subjects with mucosal healing
-
-Mucosal healing at Week 8a 32.4% 61.2% 60.3% 60.7%
-Mucosal healing at Week 30a 27.5% 48.3% 52.9% 50.6%
+| Percentage of subjects with mucosal healing Mucosal healing at Week 8a 32.4% 61.2% 60.3% Mucosal healing at Week 30a 27.5% 48.3% 52.9% | 60.7% 50.6% |
 
 a: p < 0.001, for each infliximab treatment group vs. placebo
 
