@@ -2,6 +2,7 @@
 
 Pharmacotherapeutic group: selective immunosuppressant agents.
 ATC code: L04A A10.
+
 Sirolimus inhibits T cell activation induced by most stimuli, by blocking calcium dependent and calcium independent intracellular signal transduction.
 Studies demonstrated that its effects are mediated by a mechanism that is different from that of ciclosporin, tacrolimus, and other immunosuppressive agents.
 Experimental evidence suggests that sirolimus binds to the specific cytosolic protein FKPB-12 and that the FKPB 12-sirolimus complex inhibits the activation of the mammalian Target Of Rapamycin (mTOR), a critical kinase for cell cycle progression.
@@ -35,6 +36,7 @@ The rates of acute rejection, graft loss, and death were similar at 1 and 2 year
 Treatment emergent adverse events occurred more frequently during the first 6 months after Rapamune conversion.
 In the stratum with baseline calculated GFR >40 mL/min, the mean and median urinary protein to creatinine ratios were significantly higher in the Rapamune conversion group as compared to those of the calcineurin inhibitors continuation group at 24 months (see section 4.4).
 New onset nephrosis (nephrotic syndrome) was also reported (see section 4.8).
+
 At 2 years, the rate of non-melanoma skin malignancies was significantly lower in the Rapamune conversion group as compared to the calcineurin inhibitors continuation group (1.8% and 6.9%).
 In a subset of the study patients with a baseline GFR >40 mL/min and normal urinary protein excretion, calculated GFR was higher at 1 and 2 years in patients converted to Rapamune than for the corresponding subset of calcineurin inhibitor continuation patients.
 The rates of acute rejection, graft loss, and death were similar, but urinary protein excretion was increased in the Rapamune treatment arm of this subset.

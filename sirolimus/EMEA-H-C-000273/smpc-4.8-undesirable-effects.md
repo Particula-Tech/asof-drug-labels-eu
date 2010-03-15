@@ -13,27 +13,22 @@ Most patients were on immunosuppressive regimens which included Rapamune in comb
 System Organ Very common Common Uncommon Rare
 Class (≥1/10) (≥1/100 to <1/10) (≥1/1000 to (≥1/10000 to
 <1/100) <1/1000)
-Infections and Urinary tract infection Sepsis
-infestations Pneumonia
+Infections and Urinary tract Sepsis
+infestations infection Pneumonia
 Pyelonephritis
 Herpes simplex
-System Organ Very common Common Uncommon Rare
-Class (≥1/10) (≥1/100 to <1/10) (≥1/1000 to (≥1/10000 to
-<1/100) <1/1000)
 Fungal, viral, and
 bacterial infections
 (such as
 mycobacterial
-infections,
-including
-tuberculosis,
-Epstein-Barr virus,
-CMV, and Herpes
-zoster)
-Neoplasms Skin Cancer Lymphoma / post
-benign, transplant
-malignant and lymphoproliferative
-unspecified disorder
+infections, including
+tuberculosis, Epstein-
+Barr virus, CMV, and
+Herpes zoster)
+Neoplasms Skin Cancer Lymphoma /
+benign, post transplant
+malignant and lymphoproliferat
+unspecified ive disorder
 (including cysts
 and polyps)
 Blood and Thrombocytopenia Thrombotic Pancytopenia
@@ -54,28 +49,33 @@ dermatitis, and
 hypersensitivity
 vasculitis
 (see section 4.4)
-Metabolism and Hypokalaemia Diabetes melitus
-nutrition Hypophosphataemia
-disorders Hypercholesterolaemia
+Metabolism Hypokalaemia Diabetes melitus
+and nutrition Hypophosphataemi
+disorders a
+Hypercholesterolae
+mia
 Hyperglycaemia
-Hypertriglyceridaemia
+Hypertriglyceridae
+mia
 Nervous system Headache
 disorders
-Cardiac Tachycardia Pericardial effusion
-disorders (including
-haemodynamically
-significant
+Cardiac Tachycardia Pericardial
+disorders effusion
+(including
+haemodynamical
+ly significant
 effusions in
-children and adults)
-Vascular Lymphocele Deep vein Pulmonary Lymphoedema
-disorders Hypertension thrombosis embolism
+children and
+adults)
+System Organ Very common Common Uncommon Rare
+Class (≥1/10) (≥1/100 to <1/10) (≥1/1000 to (≥1/10000 to
+<1/100) <1/1000)
+Vascular Lymphocele Deep vein thrombosis Pulmonary Lymphoedema
+disorders Hypertension embolism
 Respiratory, Pneumonitis Pulmonary Alveolar
 thoracic, and Pleural effusion haemorrhage proteinosis
 mediastinal Epistaxis
 disorders
-System Organ Very common Common Uncommon Rare
-Class (≥1/10) (≥1/100 to <1/10) (≥1/1000 to (≥1/10000 to
-<1/100) <1/1000)
 Gastrointestinal Abdominal pain Stomatitis Pancreatitis
 disorders Diarrhoea Ascites
 Constipation
@@ -114,18 +114,17 @@ In some cases, the interstitial lung disease has resolved upon discontinuation o
 The risk may be increased as the trough sirolimus level increases.
 
 Impaired healing following transplant surgery has been reported, including fascial dehiscence, incisional hernia, and anastomotic disruption (e.g. wound, vascular, airway, ureteral, biliary).
-
 Impairments of sperm parameters have been observed among some patients treated with Rapamune.
 These effects have been reversible upon discontinuation of Rapamune in most cases (see section 5.3).
-
 In patients with delayed graft function, sirolimus may delay recovery of renal function.
 
 The concomitant use of sirolimus with a calcineurin inhibitor may increase the risk of calcineurin inhibitor-induced HUS/TTP/TMA.
+
 Focal segmental glomerulosclerosis has been reported.
 
 There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults) in patients receiving Rapamune.
 
-In an ongoing study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/mL) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 mL/min (see section 5.1).
+In an ongoing study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 – 20 ng/mL) in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 mL/min (see section 5.1).
 There was a higher rate of serious adverse events including pneumonia, acute rejection, graft loss and death in this sirolimus treatment arm (n=60, median time post-transplant 36 months).
 
 Paediatric population
@@ -145,8 +144,28 @@ There is insufficient experience to recommend the use of Rapamune in children an
 
 The most commonly reported adverse drug reactions (occuring in >10% of patients) are thrombocytopenia, anaemia, pyrexia, hypertension, hypokalaemia, hypophosphataemia, urinary tract infection, hypercholesterolaemia, hyperglycaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, pain, constipation, nausea, headache, increased blood creatinine, and increased blood lactate dehydrogenase (LDH).
 
+Infections and Urinary tract infection Sepsis
+infestations Pneumonia
+infections,
+tuberculosis,
+Epstein-Barr virus,
+CMV, and Herpes
+zoster)
+Neoplasms Skin Cancer Lymphoma / post
+benign, transplant
+malignant and lymphoproliferative
+unspecified disorder
 Metabolism Hypokalaemia Diabetes mellitus
 and nutrition Hypophosphataemia
+disorders Hypercholesterolaemia
+Hypertriglyceridaemia
+Cardiac Tachycardia Pericardial effusion
+disorders (including
+haemodynamically
+significant
+children and adults)
+Vascular Lymphocele Deep vein Pulmonary Lymphoedema
+disorders Hypertension thrombosis embolism
 
 Hepatoxicity has been reported.
 The risk may increase as the trough sirolimus level increases.
@@ -154,4 +173,4 @@ Rare reports of fatal hepatic necrosis have been reported with elevated trough s
 
 [Rapamune 2 mg coated tablets.]
 
-Metabolism and Hypokalaemia Diabetes mellitus
+(all sentences already above)

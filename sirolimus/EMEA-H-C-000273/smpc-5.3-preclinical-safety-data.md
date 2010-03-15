@@ -3,6 +3,7 @@
 Adverse reactions not observed in clinical studies, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use were as follows: pancreatic islet cell vacuolation, testicular tubular degeneration, gastrointestinal ulceration, bone fractures and calluses, hepatic haematopoiesis, and pulmonary phospholipidosis.
 
 Sirolimus was not mutagenic in the in vitro bacterial reverse mutation assays, the Chinese Hamster Ovary cell chromosomal aberration assay, the mouse lymphoma cell forward mutation assay, or the in vivo mouse micronucleus assay.
+
 Carcinogenicity studies conducted in mouse and rat showed increased incidences of lymphomas (male and female mouse), hepatocellular adenoma and carcinoma (male mouse) and granulocytic leukaemia (female mouse).
 It is known that malignancies (lymphoma) secondary to the chronic use of immunosuppressive agents can occur and have been reported in patients in rare instances.
 In mouse, chronic ulcerative skin lesions were increased.

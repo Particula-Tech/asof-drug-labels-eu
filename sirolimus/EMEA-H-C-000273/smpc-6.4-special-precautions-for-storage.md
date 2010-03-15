@@ -8,7 +8,8 @@ If necessary, the patient may store the bottles at room temperatures up to 25°C
 [Rapamune 1 mg coated tablets.]
 
 Keep the blister in the outer carton in order to protect from light.
+Do not store above 25ºC.
 
 [Rapamune 2 mg coated tablets.]
 
-Do not store above 25ºC.
+(all sentences already above)
