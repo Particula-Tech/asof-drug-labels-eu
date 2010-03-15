@@ -78,7 +78,7 @@ Renal and urinary disorders
 Very common: Blood creatinine increased
 
 Common: Proteinuria
-Uncommon: Renal tubulopathy acquired Fanconi’s syndrome), glycosuria (
+Uncommon: Renal tubulopathy (acquired Fanconi’s syndrome), glycosuria
 Not known: Acute renal failure1
 
 General disorders and administration site conditions
