@@ -11,8 +11,7 @@ The most common adverse reactions (> 10%) in controlled and uncontrolled portion
 Most were considered to be mild and did not necessitate discontinuation of study treatment.
 
 Table 1 provides a summary of adverse reactions from psoriasis clinical studies.
-The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common
-(≥ 1/10), Common (≥ 1/100 to < 1/10), Uncommon (≥ 1/1,000 to < 1/100), Rare (≥ 1/10,000 to
+The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to < 1/10), Uncommon (≥ 1/1,000 to < 1/100), Rare (≥ 1/10,000 to
 < 1/1,000), Very rare (< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 

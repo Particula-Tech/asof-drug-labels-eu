@@ -24,7 +24,7 @@ The systemic exposure of ustekinumab (Cmax and AUC) increased in an approximatel
 Single dose vs. multiple doses
 Serum concentration-time profiles of ustekinumab were generally predictable after single or multiple subcutaneous dose administrations.
 Steady-state serum concentrations of ustekinumab were achieved by Week 28 after initial subcutaneous doses at Weeks 0 and 4 followed by doses every 12 weeks.
-The median steady-state trough concentration ranged from 0.21 µg/ml to 0.26 µg/ml (45 mg) and from 0.47 µg/ml to 0.49 µg/ml (90 mg).
+The median steady-state trough concentration ranged from 0.21 μg/ml to 0.26 μg/ml (45 mg) and from 0.47 μg/ml to 0.49 μg/ml (90 mg).
 There was no apparent accumulation in serum ustekinumab concentration over time when given subcutaneously every 12 weeks.
 
 Impact of weight on pharmacokinetics
