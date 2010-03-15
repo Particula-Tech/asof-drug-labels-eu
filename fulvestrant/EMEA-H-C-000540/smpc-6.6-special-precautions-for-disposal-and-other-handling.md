@@ -1,41 +1,34 @@
 # 6.6 Special precautions for disposal and other handling
 
 Instructions for administration
-Remove glass syringe barrel from tray and check that it is not damaged.
-Peel open the safety needle (SafetyGlide) outer packaging.
-(For safety needle instructions see below).
-Break the seal of the white plastic cover on the syringe Luer connector to remove the cover with the attached rubber tip cap (see Figure 1).
-Twist to lock the needle to the Luer connector.
-Remove needle sheath.
-Parenteral solutions must be inspected visually for particulate matter and discolouration prior to administration.
-Remove excess gas from the syringe (a small gas bubble may remain).
-Administer intramuscularly slowly into the buttock.
-Immediately activate needle protection device upon withdrawal of the needle from patient by pushing lever arm completely forward until needle tip is fully covered (see Figure 2).
-
-Visually confirm that the lever arm has fully advanced and the needle tip is covered.
-If unable to activate the safety needle, discard immediately into an approved sharps collector.
-SafetyGlide Information from Becton Dickinson
-WARNING: - Do not autoclave safety needle before use.
+Warning - Do not autoclave safety needle (BD SafetyGlide Shielding Hypodermic Needle) before use.
 Hands must remain behind the needle at all times during use and disposal.
+For each of the two syringes:
 
-Directions for Use of safety needle
-Peel apart packaging of the safety needle, break the seal of the white plastic cover on the syringe Luer connector and attach the safety needle to the Luer Lock of the syringe by twisting.
+- Remove glass syringe barrel from tray and check that it is Figure 1 not damaged.
+- Break the seal of the white plastic cover on the syringe
 
-Transport filled syringe to point of administration.
+Luer connector Luer-Lok to remove the cover with the attached rubber tip cap (see Figure 1).
 
-Pull shield straight off needle to avoid damaging needle point.
+- Peel open the safety needle (BD SafetyGlide) outer Figure 2
 
-Administer injection following package instruction.
-For user convenience, the needle ‘bevel up’ position is orientated to the lever arm, as shown in Figure 3.
+packaging.
+Attach the safety needle to the Luer-Lok (see
+Figure 2)
 
-Immediately activate needle protection device upon withdrawal from patient by pushing lever arm completely forward until needle tip is fully covered (Figure 2).
+- Twist until firmly seated.
+- Twist to lock the needle to the Luer connector.
+- Pull shield straight off needle to avoid damaging needle point.
+- Transport filled syringe to point of administration.
+- Remove needle sheath.
+- Parenteral solutions must be inspected visually for particulate matter and discolouration prior to administration.
+- Expel excess gas from the syringe.
+- Administer intramuscularly slowly (1-2 minutes/injection) Figure 3 into the buttock.
+  For user convenience, the needle bevel- up position is oriented to the lever arm (see Figure 3).
+- After injection, immediately apply a single-finger stroke to Figure 4 the activation assisted lever arm to activate the shielding mechanism (see Figure 4).
 
-Visually confirm that the lever arm has fully advanced and the needle tip is covered.
-If unable to activate, discard immediately into an approved sharps collector.
-
-Activation of the protective mechanism may cause minimal splatter of fluid that may remain on the needle after injection.
-
-For greatest safety, use a one-handed technique and activate away from self and others.
+NOTE: Activate away from self and others.
+Listen for click and visually confirm needle tip is fully covered.
 
 Disposal
 Pre-filled syringes are for single use only.

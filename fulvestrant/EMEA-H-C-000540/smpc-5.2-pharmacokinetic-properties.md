@@ -1,11 +1,11 @@
 # 5.2 Pharmacokinetic properties
 
 Absorption
-After administration of Faslodex long-acting as an intramuscular injection, fulvestrant is slowly absorbed and maximum plasma concentrations (Cmax) are reached after about 7 days.
-Absorption continues for over one month, and monthly administration results in an approximate 2-fold accumulation.
-Steady-state levels are reached after about 6 monthly injections, with the major part of the accumulation achieved after 3-4 doses.
-At steady state, fulvestrant plasma concentrations are maintained within a relatively narrow range with approximately 2- to 3-fold difference between maximum and trough concentrations.
-After intramuscular administration, the exposure is approximately dose-proportional in the dose range 50 to 250 mg.
+After administration of Faslodex long-acting intramuscular injection, fulvestrant is slowly absorbed and maximum plasma concentrations (Cmax) are reached after about 5 days.
+Administration of Faslodex 500 mg regimen achieves exposure levels at, or close to, steady state within the first month of dosing (mean [CV]: AUC 475 [33.4%] ng.days/ml, Cmax 25.1 [35.1%] ng/ml, Cmin
+16.3 [25.9%] ng/ml, respectively).
+At steady state, fulvestrant plasma concentrations are maintained within a relatively narrow range with up to an approximately 3-fold difference between maximum and trough concentrations.
+After intramuscular administration, the exposure is approximately dose-proportional in the dose range 50 to 500 mg.
 
 Distribution
 Fulvestrant is subject to extensive and rapid distribution.

@@ -6,6 +6,7 @@ Studies in animals have shown reproductive toxicity including an increased incid
 Patients of child-bearing potential should be advised to use effective contraception while on treatment.
 If pregnancy occurs while taking Faslodex, the patient must be informed of the potential hazard to the foetus and potential risk for loss of pregnancy.
 
+Breast-feeding must be discontinued during treatment with Faslodex.
 Fulvestrant is excreted in milk in lactating rats.
 It is not known whether fulvestrant is excreted in human milk.
-Considering the potential for serious adverse reactions due to fulvestrant in breast-fed infants, lactation is contraindicated (see section 4.3).
+Considering the potential for serious adverse reactions due to fulvestrant in breast-fed infants, use during lactation is contraindicated (see section 4.3).

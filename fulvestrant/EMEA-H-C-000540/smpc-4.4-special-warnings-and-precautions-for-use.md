@@ -2,7 +2,7 @@
 
 Faslodex should be used with caution in patients with mild to moderate hepatic impairment (see sections 4.2, 4.3 and 5.2).
 
-Faslodex should be used with caution in patients with severe renal impairment (creatinine clearance less than 30 ml/min)
+Faslodex should be used with caution in patients with severe renal impairment (creatinine clearance less than 30 ml/min).
 
 Due to the intramuscular route of administration, Faslodex should be used with caution if treating patients with bleeding diatheses, thrombocytopenia or those taking anticoagulant treatment.
 
