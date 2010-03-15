@@ -4,6 +4,7 @@ Capsule contents:
 Crospovidone
 Lactose monohydrate
 Magnesium stearate
+
 Capsule shells:
 Gelatine
 Indigocarmin (E132)

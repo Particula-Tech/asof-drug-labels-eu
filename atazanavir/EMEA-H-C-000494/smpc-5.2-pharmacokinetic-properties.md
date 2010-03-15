@@ -47,6 +47,7 @@ Age/Gender: a study of the pharmacokinetics of atazanavir was performed in 59 he
 There were no clinically important pharmacokinetic differences based on age or gender.
 
 Race: a population pharmacokinetic analysis of samples from Phase II clinical trials indicated no effect of race on the pharmacokinetics of atazanavir.
+
 Infants, toddlers, children, and adolescents: the pharmacokinetics of atazanavir is being studied after multiple doses in paediatric patients, stratified by age.
 There are insufficient data at this time to recommend a dose (see section 4.2).
 

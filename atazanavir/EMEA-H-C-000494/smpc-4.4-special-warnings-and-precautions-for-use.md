@@ -3,9 +3,12 @@
 Patients should be advised that current antiretroviral therapy has not been proven to prevent the risk of transmission of HIV to others through blood or sexual contact.
 Appropriate precautions should continue to be employed.
 
-Co-administration of REYATAZ with ritonavir in doses greater than 100 mg once daily has not been clinically evaluated.
-The use of higher ritonavir doses might alter the safety profile of atazanavir
+Co-administration of REYATAZ with ritonavir at doses greater than 100 mg once daily has not been clinically evaluated.
+The use of higher ritonavir doses may alter the safety profile of atazanavir
 (cardiac effects, hyperbilirubinaemia) and therefore is not recommended.
+Only when atazanavir with ritonavir is co-administered with efavirenz, a dose increase of ritonavir to 200 mg once daily could be considered.
+In this instance, close clinical monitoring is warranted (see Interaction with other
+Medicinal Products below).
 
 Patients with coexisting conditions
 Atazanavir is primarily hepatically metabolised and increased plasma concentrations were observed in patients with hepatic impairment (see sections 4.2 and 4.3).
@@ -66,10 +69,10 @@ Dose reduction of atazanavir is not recommended because it may result in a loss 
 Indinavir is also associated with indirect (unconjugated) hyperbilirubinaemia due to inhibition of
 UGT.
 Combinations of REYATAZ and indinavir have not been studied and co-administration of these medicinal products is not recommended (see section 4.5).
-
 Nephrolithiasis
 Nephrolithiasis has been reported in patients receiving REYATAZ (see section 4.8).
 If signs or symptoms of nephrolithiasis occur, temporary interruption or discontinuation of treatment may be considered.
+
 Immune reactivation syndrome
 In HIV-infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
