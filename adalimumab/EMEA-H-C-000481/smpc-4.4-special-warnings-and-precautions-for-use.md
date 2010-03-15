@@ -16,6 +16,7 @@ Physicians should exercise caution when considering the use of Humira in patient
 Serious infections:
 
 Serious infections, , including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
+
 Other serious infections seen in clinical trials include pneumonia, pyelonephritis, septic arthritis and septicaemia.
 Hospitalisation or fatal outcomes associated with infections have been reported.
 
@@ -64,7 +65,6 @@ Neurological events
 
 TNF-antagonists including Humira have been associated in rare instances with new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disease including multiple sclerosis.
 Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central nervous system demyelinating disorders.
-
 Allergic reactions
 
 Serious allergic adverse reactions have not been reported with subcutaneous administration of Humira during clinical trials.
@@ -136,6 +136,7 @@ Serious infections were seen in clinical studies with concurrent use of anakinra
 Because of the nature of the adverse events seen with the combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNF-antagonists.
 Therefore, the combination of adalimumab and anakinra is not recommended.
 (See section 4.5).
+
 Concurrent administration of TNF-antagonists and abatacept
 
 Concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
@@ -148,7 +149,6 @@ There is limited safety experience of surgical procedures in patients treated wi
 The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Humira should be closely monitored for infections, and appropriate actions should be taken.
 There is limited safety experience in patients undergoing arthroplasty while receiving Humira.
-
 Small bowel obstruction
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
