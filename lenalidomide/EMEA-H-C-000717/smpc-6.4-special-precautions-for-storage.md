@@ -1,3 +1,3 @@
 # 6.4 Special precautions for storage
 
-Do not store above 25 C
+This medicinal product does not require any special storage conditions.
