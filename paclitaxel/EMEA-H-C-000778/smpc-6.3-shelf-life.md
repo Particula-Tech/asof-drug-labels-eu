@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-Unopened vials: 2years
+Unopened vials: 3 years
 
 Stability of reconstituted suspension in the vial:
 
