@@ -6,10 +6,6 @@ Non-clinical studies conducted with desloratadine and loratadine demonstrated th
 Non-clinical data with desloratadine reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, and toxicity to reproduction.
 The lack of carcinogenic potential was demonstrated in studies conducted with desloratadine and loratadine.
 
-[Azomyr 0.5 mg/ml syrup]
-
-(all sentences already above)
-
 [Azomyr 5 mg oral lyophilisate]
 
 No significant local irritant effect was observed when the rapidly-dissolving form was tested in a hamster cheek pouch mucous membrane irritation assay.

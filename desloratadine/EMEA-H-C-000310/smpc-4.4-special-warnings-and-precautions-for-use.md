@@ -6,20 +6,6 @@ In the case of severe renal insufficiency, Azomyr should be used with caution (s
 
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
-[Azomyr 0.5 mg/ml syrup]
-
-Efficacy and safety of Azomyr syrup in children under 1 year of age have not been established.
-In children below 2 years of age, the diagnosis of allergic rhinitis is particularly difficult to distinguish from other forms of rhinitis.
-The absence of upper respiratory tract infection or structural abnormalities, as well as patient history, physical examinations, and appropriate laboratory and skin tests should be considered.
-
-Approximately 6 % of adults and children 2- to 11-year old are phenotypic poor metabolisers of desloratadine and exhibit a higher exposure (see section 5.2).
-The safety of Azomyr syrup in children 2- to 11-years of age who are poor metabolisers is the same as in children who are normal metabolisers.
-The effects of Azomyr syrup in poor metabolisers < 2 years of age have not been studied.
-
-This medicinal product contains sucrose and sorbitol; thus, patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
-
-This medicinal product contains the colouring agent E110 which may cause allergic reactions.
-
 [Azomyr 5 mg oral lyophilisate]
 
 In the case of severe renal insufficiency, Azomyr should be used with caution.
@@ -43,6 +29,10 @@ This product contains 2.9 mg of phenylalanine per 5 mg dose of Azomyr orodispers
 
 Efficacy and safety of Azomyr oral solution in children under 1 year of age have not been established.
 
+In children below 2 years of age, the diagnosis of allergic rhinitis is particularly difficult to distinguish from other forms of rhinitis.
+The absence of upper respiratory tract infection or structural abnormalities, as well as patient history, physical examinations, and appropriate laboratory and skin tests should be considered.
+
+Approximately 6 % of adults and children 2- to 11-year old are phenotypic poor metabolisers of desloratadine and exhibit a higher exposure (see section 5.2).
 The safety of desloratadine in children 2- to 11-years of age who are poor metabolisers is the same as in children who are normal metabolisers.
 The effects of desloratadine in poor metabolisers < 2 years of age have not been studied.
 

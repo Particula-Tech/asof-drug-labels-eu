@@ -41,28 +41,6 @@ As with other antihistamine trials in chronic idiopathic urticaria, the minority
 An improvement in pruritus of more than 50 % was observed in 55 % of patients treated with desloratadine compared with 19 % of patients treated with placebo.
 Treatment with Azomyr also significantly reduced interference with sleep and daytime function, as measured by a four-point scale used to assess these variables.
 
-[Azomyr 0.5 mg/ml syrup]
-
-Efficacy of Azomyr syrup has not been investigated in separate paediatric trials.
-Safety of Azomyr syrup was demonstrated in three paediatric trials.
-Children, 1-11 years of age, who were candidates for antihistamine therapy received a daily desloratadine dose of 1.25 mg (1 through 5 years of age) or 2.5 mg (6 through 11 years of age).
-Treatment was well tolerated as documented by clinical laboratory tests, vital signs, and ECG interval data, including QTc.
-When given at the recommended doses, the plasma concentrations of desloratadine (see section 5.2) were comparable in the paediatric and adult populations.
-Thus, since the course of allergic rhinitis/chronic idiopathic urticaria and the profile of desloratadine are similar in adults and paediatric patients, desloratadine efficacy data in adults can be extrapolated to the paediatric population.
-
-In a multiple dose clinical trial, in adults and adolescents, in which up to 20 mg of desloratadine was administered daily for 14 days, no statistically or clinically relevant cardiovascular effect was observed.
-In a clinical pharmacology trial, in adults and adolescents, in which desloratadine was administered to adults at a dose of 45 mg daily (nine times the clinical dose) for ten days, no prolongation of QTc interval was seen.
-In controlled clinical trials, at the recommended dose of 5 mg daily for adults and adolescents, there was no excess incidence of somnolence as compared to placebo.
-Azomyr tablets given at a single daily dose of 7.5 mg to adults and adolescents did not affect psychomotor performance in clinical trials.
-
-In clinical pharmacology trials in adults, co-administration with alcohol did not increase the alcohol-induced impairment in performance or increase in sleepiness.
-
-Efficacy of Azomyr syrup has not been investigated in paediatric trials in children less than 12 years of age.
-
-In adult and adolescent patients with allergic rhinitis, Azomyr tablets were effective in relieving symptoms such as sneezing, nasal discharge and itching, as well as ocular itching, tearing and redness, and itching of palate.
-
-Azomyr tablets were effective in alleviating the burden of seasonal allergic rhinitis as shown by the total score of the rhino-conjunctivitis quality of life questionnaire.
-
 [Azomyr 5 mg oral lyophilisate]
 
 In two single-dose trials, Azomyr oral lyophilisate was well tolerated as documented by clinical laboratory findings, physical examinations, vital signs, and ECG interval data.
@@ -95,3 +73,21 @@ In a multiple-dose clinical trial, in which up to 20 mg of desloratadine was adm
 
 Efficacy of Azomyr oral solution has not been investigated in separate paediatric trials.
 However, the safety of Azomyr syrup, which contains the same concentration of desloratadine, was demonstrated in three paediatric trials.
+Children, 1-11 years of age, who were candidates for antihistamine therapy received a daily desloratadine dose of 1.25 mg (1 through 5 years of age) or 2.5 mg (6 through 11 years of age).
+Treatment was well tolerated as documented by clinical laboratory tests, vital signs, and ECG interval data, including QTc.
+When given at the recommended doses, the plasma concentrations of desloratadine (see section 5.2) were comparable in the paediatric and adult populations.
+Thus, since the course of allergic rhinitis/chronic idiopathic urticaria and the profile of desloratadine are similar in adults and paediatric patients, desloratadine efficacy data in adults can be extrapolated to the paediatric population.
+
+In a multiple dose clinical trial, in adults and adolescents, in which up to 20 mg of desloratadine was administered daily for 14 days, no statistically or clinically relevant cardiovascular effect was observed.
+In a clinical pharmacology trial, in adults and adolescents, in which desloratadine was administered to adults at a dose of 45 mg daily (nine times the clinical dose) for ten days, no prolongation of QTc interval was seen.
+
+In controlled clinical trials, at the recommended dose of 5 mg daily for adults and adolescents, there was no excess incidence of somnolence as compared to placebo.
+Azomyr tablets given at a single daily dose of 7.5 mg to adults and adolescents did not affect psychomotor performance in clinical trials.
+
+In clinical pharmacology trials in adults, co-administration with alcohol did not increase the alcohol-induced impairment in performance or increase in sleepiness.
+
+Efficacy of Azomyr syrup has not been investigated in paediatric trials in children less than 12 years of age.
+
+In adult and adolescent patients with allergic rhinitis, Azomyr tablets were effective in relieving symptoms such as sneezing, nasal discharge and itching, as well as ocular itching, tearing and redness, and itching of palate.
+
+Azomyr tablets were effective in alleviating the burden of seasonal allergic rhinitis as shown by the total score of the rhino-conjunctivitis quality of life questionnaire.

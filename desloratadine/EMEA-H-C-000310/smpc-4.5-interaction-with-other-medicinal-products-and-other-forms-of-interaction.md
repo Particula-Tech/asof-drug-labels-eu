@@ -4,15 +4,11 @@ No clinically relevant interactions were observed in clinical trials with deslor
 
 In a clinical pharmacology trial Azomyr taken concomitantly with alcohol did not potentiate the performance impairing effects of alcohol (see section 5.1).
 
-[Azomyr 0.5 mg/ml syrup]
+[Azomyr 5 mg oral lyophilisate]
 
 No clinically relevant interactions were observed in clinical trials with Azomyr tablets in which erythromycin or ketoconazole were co-administered (see section 5.1).
 
 In a clinical pharmacology trial, Azomyr tablets taken concomitantly with alcohol did not potentiate the performance impairing effects of alcohol (see section 5.1).
-
-[Azomyr 5 mg oral lyophilisate]
-
-(all sentences already above)
 
 [Azomyr 2.5 mg orodispersible tablets]
 

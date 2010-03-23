@@ -3,10 +3,6 @@
 Do not store above 30°C.
 Store in the original package.
 
-[Azomyr 0.5 mg/ml syrup]
-
-(all sentences already above)
-
 [Azomyr 5 mg oral lyophilisate]
 
 (all sentences already above)
