@@ -8,6 +8,7 @@ Aripiprazole exhibited high binding affinity in vitro for dopamine D2 and D3, se
 Aripiprazole also exhibited moderate binding affinity for the serotonin reuptake site and no appreciable affinity for muscarinic receptors.
 Interaction with receptors other than dopamine and serotonin subtypes may explain some of the other clinical effects of aripiprazole.
 Aripiprazole doses ranging from 0.5 to 30 mg administered once a day to healthy subjects for 2 weeks produced a dose-dependent reduction in the binding of 11C-raclopride, a D2/D3 receptor ligand, to the caudate and putamen detected by positron emission tomography.
+
 Further information on clinical trials:
 Schizophrenia in adults:
 In three short-term (4 to 6 weeks) placebo-controlled trials involving 1,228 schizophrenic adult patients, presenting with positive or negative symptoms, aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
@@ -18,8 +19,8 @@ The overall completion rate was significantly higher for patients on aripiprazol
 Actual scores in rating scales used as secondary endpoints, including PANSS and the Montgomery-Asberg Depression Rating Scale showed a significant improvement over haloperidol.
 In a 26-week, placebo-controlled trial in stabilised patients with chronic schizophrenia, aripiprazole had significantly greater reduction in relapse rate, 34% in aripiprazole group and 57% in placebo.
 
-Schizophrenia in adolescents:
-In a 6-week placebo-controlled trial involving 302 schizophrenic adolescent patients (13-17 years), presenting with positive or negative symptoms, aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
+Paediatric population:
+Schizophrenia in adolescents: in a 6-week placebo-controlled trial involving 302 schizophrenic adolescent patients (13-17 years), presenting with positive or negative symptoms, aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
 In a sub-analysis of the adolescent patients between the ages of 15 to 17 years, representing 74% of the total enrolled population, maintenance of effect was observed over the 26-week open-label extension trial.
 
 Weight gain:
@@ -37,6 +38,7 @@ Manic episodes in Bipolar I Disorder:
 In two 3-week, flexible-dose, placebo-controlled monotherapy trials involving patients with a manic or mixed episode of Bipolar I Disorder, aripiprazole demonstrated superior efficacy to placebo in reduction of manic symptoms over 3 weeks.
 These trials included patients with or without psychotic features and with or without a rapid-cycling course.
 In one 3-week, fixed-dose, placebo-controlled monotherapy trial involving patients with a manic or mixed episode of Bipolar I Disorder, aripiprazole failed to demonstrate superior efficacy to placebo.
+
 In two 12-week, placebo- and active-controlled monotherapy trials in patients with a manic or mixed episode of Bipolar I Disorder, with or without psychotic features, aripiprazole demonstrated superior efficacy to placebo at week 3 and a maintenance of effect comparable to lithium or haloperidol at week 12.
 Aripiprazole also demonstrated a comparable proportion of patients in symptomatic remission from mania as lithium or haloperidol at week 12.
 
@@ -87,7 +89,7 @@ In a haloperidol-controlled trial, the proportion of responder patients maintain
 The overall completion rate was significantly higher for patients on oral aripiprazole (43%) than for oral haloperidol (30%).
 In a 26-week, placebo-controlled trial in stabilised patients with chronic schizophrenia, oral aripiprazole had significantly greater reduction in relapse rate, 34% in oral aripiprazole group and 57% in placebo.
 
-Schizophrenia in adolescents with oral aripiprazole:
+Schizophrenia in adolescents with oral aripiprazole: in a 6-week placebo-controlled trial involving 302 schizophrenic adolescent patients (13-17 years), presenting with positive or negative symptoms, aripiprazole was associated with statistically significantly greater improvements in psychotic symptoms compared to placebo.
 
 In clinical trials oral aripiprazole has not been shown to induce clinically relevant weight gain.
 In a 26-week, olanzapine-controlled, double-blind, multi-national study of schizophrenia which included 314 patients and where the primary end-point was weight gain, significantly less patients had at least 7% weight gain over baseline (i.e. a gain of at least 5.6 kg for a mean baseline weight of ~80.5 kg) on oral aripiprazole (N= 18, or 13% of evaluable patients), compared to oral olanzapine (N= 45, or 33% of evaluable patients).

@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 There are no adequate and well-controlled trials of aripiprazole in pregnant women.
 Congenital anomalies have been reported; however, causal relationship with aripiprazole could not be established.
