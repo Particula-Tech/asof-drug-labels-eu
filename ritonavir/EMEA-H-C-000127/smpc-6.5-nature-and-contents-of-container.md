@@ -13,3 +13,11 @@ Two pack sizes are available for Norvir soft capsules:
 − 4 bottles of 84 capsules (336 capsules)
 
 Not all pack sizes may be marketed.
+
+[Norvir 100 mg film-coated tablets]
+
+Norvir tablets are supplied in white high density polyethylene (HDPE) bottles closed with polypropylene caps.
+
+Two pack sizes are available for Norvir tablets:
+− 1 bottle of 30 tablets
+− 1 bottle of 60 tablets

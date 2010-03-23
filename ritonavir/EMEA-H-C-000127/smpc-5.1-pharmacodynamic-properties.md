@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmaco-therapeutic group: antiviral for systemic use, ATC code: J05A E03
+Pharmaco-therapeutic group: antiviral for systemic use, protease inhibitors ATC code: J05AE03
 
 Ritonavir dosed as a pharmacokinetic enhancer
 
@@ -14,6 +14,7 @@ Ritonavir dosed as an antiretroviral agent
 Ritonavir is an orally active peptidomimetic inhibitor of the HIV-1 and HIV-2 aspartyl proteases.
 Inhibition of HIV protease renders the enzyme incapable of processing the gag-pol polyprotein precursor which leads to the production of HIV particles with immature morphology that are unable to initiate new rounds of infection.
 Ritonavir has selective affinity for the HIV protease and has little inhibitory activity against human aspartyl proteases.
+
 Ritonavir was the first protease inhibitor (approved in 1996) for which efficacy was proven in a study with clinical endpoints.
 However, due to ritonavir’s metabolic inhibitory properties its use as a pharmacokinetic enhancer of other protease inhibitors is the prevalent use of ritonavir in clinical practice (see section 4.2).
 
@@ -27,7 +28,6 @@ No subject experienced an increase in QTcF of ≥ 60 msec from baseline or a QTc
 Modest prolongation of the PR interval was also noted in subjects receiving ritonavir in the same study on Day 3.
 The mean changes from baseline in PR interval ranged from 11.0 to 24.0 msec in the 12 hour interval post dose.
 Maximum PR interval was 252 msec and no second or third degree heart block was observed (see section 4.4).
-
 Resistance
 
 Ritonavir-resistant isolates of HIV-1 have been selected in vitro and isolated from patients treated with therapeutic doses of ritonavir.
@@ -52,6 +52,7 @@ In a study completed in 1996 recruiting less advanced HIV-1 infected patients (C
 The mean average change from baseline over 48 weeks for HIV RNA levels was -0.88 log10 in the ritonavir group versus -0.66 log10 in the ritonavir + zidovudine group versus -0.42 log10 in the zidovudine group.
 
 The continuation of ritonavir therapy should be evaluated by viral load because of the possibility of the emergence of resistance as described under section 4.1 Therapeutic indications.
+
 Paediatric Use
 
 In an open label trial completed in 1998 in HIV infected, clinically stable children there was a significant difference (p = 0.03) in the detectable RNA levels in favour of a triple regimen (ritonavir, zidovudine and lamivudine) following 48 weeks treatment.
@@ -65,4 +66,8 @@ In intent to treat analyses, 50% and 57% of patients in the 350 and 450 mg/m2 do
 
 [Norvir 100 mg soft capsules]
 
-Pharmacotherapeutic group: antiviral for systemic use, ATC code: J05A E03
+Pharmacotherapeutic group: antiviral for systemic use protease inhibitors, ATC code: J05AE03
+
+[Norvir 100 mg film-coated tablets]
+
+Pharmacotherapeutic group: antivirals for systemic use, protease inhibitors ATC code: J05AE03

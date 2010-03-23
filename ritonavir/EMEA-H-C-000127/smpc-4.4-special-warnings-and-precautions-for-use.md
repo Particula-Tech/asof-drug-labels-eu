@@ -11,7 +11,7 @@ When ritonavir is used as a pharmacokinetic enhancer with other PIs, full detail
 Ritonavir dosed as an antiretroviral agent or as a pharmacokinetic enhancer
 
 Patients with chronic diarrhoea or malabsorption: Extra monitoring is recommended when diarrhoea occurs.
-The relatively high frequency of diarrhoea during treatment with ritonavir may compromise the absorption and efficacy (due to decreased compliance) of ritonavir or other concurrent medications.
+The relatively high frequency of diarrhoea during treatment with ritonavir may compromise the absorption and efficacy (due to decreased compliance) of ritonavir or other concurrent medicinal products.
 Serious persistent vomiting and/or diarrhoea associated with ritonavir use might also compromise renal function.
 It is advisable to monitor renal function in patients with renal function impairment.
 
@@ -29,10 +29,11 @@ Lipodystrophy: Combination antiretroviral therapy has been associated with redis
 The long-term consequences of these events are currently unknown.
 Knowledge about the mechanism is incomplete.
 A connection between visceral lipomatosis and PIs and lipoatrophy and nucleoside reverse transcriptase inhibitors (NRTIs) has been hypothesised.
-A higher risk of lipodystrophy has been associated with individual factors such as older age, and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
+A higher risk of lipodystrophy has been associated with individual factors such as older age, and with medicinal product related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
 Clinical examination should include evaluation for physical signs of fat redistribution.
 Consideration should be given to measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate (see section 4.8).
+
 Pancreatitis: Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur.
 Patients who exhibit these signs or symptoms should be evaluated and Norvir therapy should be discontinued if a diagnosis of pancreatitis is made (see section 4.8).
 
@@ -43,7 +44,7 @@ Any inflammatory symptoms should be evaluated and treatment instituted when nece
 
 Liver disease: Ritonavir should not be given to patients with decompensated liver disease.
 For patients with stable severe hepatic impairment (Child Pugh Grade C) without decompensation see section 4.2.
-Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse events.
+Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse reactions.
 In case of concomitant antiviral therapy for hepatitis B or C, please refer to the relevant product information for these medicinal products.
 
 Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
@@ -65,7 +66,7 @@ Osteonecrosis: Although the etiology is considered to be multifactorial (includi
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 PR interval prolongation: ritonavir has been shown to cause modest asymptomatic prolongation of the PR interval in some healthy adult subjects.
-Rare reports of 2nd or 3rd degree atrioventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving drugs known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
+Rare reports of 2nd or 3rd degree atrioventricular block in patients with underlying structural heart disease and pre-existing conduction system abnormalities or in patients receiving medicinal products known to prolong the PR interval (such as verapamil or atazanavir) have been reported in patients receiving ritonavir.
 Norvir should be used with caution in such patients (see section 5.1).
 Interactions with other medicinal products
 
@@ -76,7 +77,7 @@ When ritonavir is used as a pharmacokinetic enhancer at the 100 mg and 200 mg le
 When ritonavir is used as a pharmacokinetic enhancer, full details on the warnings and precautions relevant to that particular PI must be considered, therefore the Summary of Product Characteristics, section 4.4, for the particular PI must be consulted to determine if the information below is applicable.
 
 PDE5 inhibitors: Particular caution should be used when prescribing sildenafil, tadalafil or vardenafil for the treatment of erectile dysfunction in patients receiving ritonavir.
-Co-administration of ritonavir with these medicinal products is expected to substantially increase their concentrations and may result in associated adverse events such as hypotension and prolonged erection (see section 4.5).
+Co-administration of ritonavir with these medicinal products is expected to substantially increase their concentrations and may result in associated adverse reactions such as hypotension and prolonged erection (see section 4.5).
 Concomitant use of sildenafil with ritonavir is contraindicated in pulmonary arterial hypertension patients (see section 4.3).
 
 HMG-CoA reductase inhibitors: The HMG-CoA reductase inhibitors simvastatin and lovastatin are highly dependent on CYP3A for metabolism, thus concomitant use of ritonavir with simvastatin or lovastatin is not recommended due to an increased risk of myopathy including rhabdomyolysis.
@@ -100,7 +101,7 @@ Ethinyl estradiol: Barrier or other non-hormonal methods of contraception should
 Glucocorticoids: Concomitant use of ritonavir and fluticasone or other glucocorticoids that are metabolised by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression (see section 4.5).
 Trazodone: Particular caution should be used when prescribing ritonavir in patients using trazodone.
 Trazodone is a CYP3A4 substrate and co-administration of ritonavir is expected to increase trazodone levels.
-Adverse events of nausea, dizziness, hypotension and syncope have been observed in single dose interaction studies in healthy volunteers (see section 4.5)
+Adverse reactions of nausea, dizziness, hypotension and syncope have been observed in single dose interaction studies in healthy volunteers (see section 4.5)
 
 Ritonavir dosed as a pharmacokinetic enhancer
 
@@ -110,8 +111,8 @@ For a description of the mechanisms and potential mechanisms contributing to the
 Please also review the Summary of Product Characteristics for the particular boosted PI.
 
 Saquinavir: Doses of ritonavir higher than 100 mg twice daily should not be used.
-Higher doses of ritonavir have been shown to be associated with an increased incidence of adverse events.
-Co-administration of saquinavir and ritonavir has led to severe adverse events, mainly diabetic ketoacidosis and liver disorders, especially in patients with pre-existing liver disease.
+Higher doses of ritonavir have been shown to be associated with an increased incidence of adverse reactions.
+Co-administration of saquinavir and ritonavir has led to severe adverse reactions, mainly diabetic ketoacidosis and liver disorders, especially in patients with pre-existing liver disease.
 
 Saquinavir/ritonavir should not be given together with rifampicin, due to the risk of severe hepatotoxicity (presenting as increased hepatic transaminases) if the three medicines are given together (see section 4.5).
 
@@ -136,3 +137,7 @@ This medicinal product contains small amounts of ethanol (alcohol), less than 10
 The following Warnings and Precautions should be considered when ritonavir is used as a antiretroviral agent.
 
 In patients who are already taking digoxin when ritonavir is introduced, the digoxin dose should be reduced to one-half of the patients’ normal dose and patients need to be followed more closely than usual for several weeks after initiating co-administration of ritonavir and digoxin.
+
+[Norvir 100 mg film-coated tablets]
+
+(all sentences already above)

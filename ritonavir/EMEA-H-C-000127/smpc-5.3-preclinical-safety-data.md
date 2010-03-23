@@ -4,7 +4,7 @@ Repeated dose toxicity studies in animals identified major target organs as the 
 Hepatic changes involved hepatocellular, biliary and phagocytic elements and were accompanied by increases in hepatic enzymes.
 Hyperplasia of the retinal pigment epithelium (RPE) and retinal degeneration have been seen in all of the rodent studies conducted with ritonavir, but have not been seen in dogs.
 Ultrastructural evidence suggests that these retinal changes may be secondary to phospholipidosis.
-However, clinical trials revealed no evidence of drug-induced ocular changes in humans.
+However, clinical trials revealed no evidence of medicinal product-induced ocular changes in humans.
 All thyroid changes were reversible upon discontinuation of ritonavir.
 Clinical investigation in humans has revealed no clinically significant alteration in thyroid function tests.
 Renal changes including tubular degeneration, chronic inflammation and proteinurea were noted in rats and are felt to be attributable to species-specific spontaneous disease.

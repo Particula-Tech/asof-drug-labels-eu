@@ -2,32 +2,34 @@
 
 Ritonavir dosed as a pharmacokinetic enhancer
 
-Adverse events associated with the use of ritonavir as a pharmacokinetic enhancer are dependent on the specific co-administered PI.
-For information on adverse events refer to the SPC of the specific co-administered PI.
+Adverse reactions associated with the use of ritonavir as a pharmacokinetic enhancer are dependent on the specific co-administered PI.
+For information on adverse reactions refer to the SPC of the specific co-administered PI.
 
 Ritonavir dosed as an antiretroviral agent
 
-In the original clinical studies (Phase II/III), adverse events with possible, probable or unknown relationship to ritonavir were reported in ≥ 2% of 1033 patients.
+In the original clinical studies (Phase II/III), adverse reactions with possible, probable or unknown relationship to ritonavir were reported in ≥ 2% of 1033 patients.
 
 The following adverse reactions of moderate to severe intensity with possible or probable relationship to ritonavir have been reported.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness: very common (> 1/10); common (> 1/100 to < 1/10); uncommon
-(> 1/1000 to < 1/100); rare( > 1/10,000 to < 1/1,000).
+(> 1/1000 to < 1/100); rare(> 1/10,000 to < 1/1,000): not known (cannot be estimated from the available data).
 
-| Undesirable Effects in Clinical Studies and Post-marketing in Adult Patients |  |  |
+Events noted as having a frequency not known were identified via post-marketing surveillance
+
+| Undesirable effects in clinical studies and post-marketing in adult patients |  |  |
 | --- | --- | --- |
-| Immune system disorders | Common | Allergic reactions including urticaria, mild skin eruptions, bronchospasm and angioedema |
-|  | Rare | Anaphylaxis and Stevens Johnson syndrome |
 | Blood and lymphatic system disorders | Common | Decreased WBC, decreased haemoglobin, decreased neutrophils, increased eosinophils |
 |  | Uncommon | Increased WBC, increased neutrophils and increased prothrombin time |
-|  | Unknown frequency | Thrombocytopenia |
+|  | Not known | Thrombocytopenia |
+| Immune system disorders | Common | Allergic reactions including urticaria, mild skin eruptions, bronchospasm and angioedema |
+|  | Rare | Anaphylaxis and Stevens Johnson syndrome |
 | Metabolic and nutritional disorders | Uncommon | Dehydration, diabetes mellitus |
 |  | Rare | Hyperglycaemia |
-|  | Unknown frequency | Hypertriglyceridaemia, hypercholesterolaemia, hyperuricaemia |
+|  | Not known | Hypertriglyceridaemia, hypercholesterolaemia, hyperuricaemia |
 | Nervous system disorders | Very common | Taste perversion, circumoral and peripheral paresthesia, headache |
 |  | Common | Dizziness, paraesthesia, hyperaesthesia, somnolence, insomnia, anxiety |
-|  | Unknown frequency | Seizure, syncope |
+|  | Not known | Seizure, syncope |
 | Vascular disorders | Common | Vasodilation |
-|  | Unknown frequency | Orthostatic hypotension |
+|  | Not known | Orthostatic hypotension |
 | Respiratory, thoracic and mediastinal disorders | Common | Pharyngitis, cough increased |
 | Gastrointestinal disorders | Very common | Abdominal pain, nausea, diarrhoea, vomiting |
 |  | Common | Dyspepsia, anorexia, local throat irritation, flatulence, dry mouth, eructation, mouth ulcer |
@@ -35,18 +37,17 @@ Within each frequency grouping, undesirable effects are presented in order of de
 | Skin and subcutaneous tissue disorders | Common | Rash, pruritus, sweating, lipodystrophy |
 | Musculosketal and connective tissue disorders | Common | Increased CPK, myalgia |
 |  | Uncommon | Myositis, rhabdomyolysis |
-| Renal and urinary disorders | Unknown frequency | Acute renal failure |
-| Reproductive system and breast disorders | Unknown frequency | Menorrhagia |
+| Renal and urinary disorders | Not known | Acute renal failure |
+| Reproductive system and breast disorders | Not known | Menorrhagia |
 | General disorders and administration site conditions | Very common | Asthenia |
 |  | Common | Fever, pain weight loss |
 | Investigations | Common | Increased GGT, increased CPK, increased triglycerides, increased SGPT, increased SGOT, increased amylase, increased uric acid, decreased potassium, decreased free and total thyroxin |
 |  | Uncommon | Increased glucose, decreased total calcium, increased magnesium, increased bilirubin, increased alkaline phosphatase |
 
-Events noted as having Unknown frequency were identified via post-marketing surveillance.
-
 Hepatic transaminase elevations exceeding five times the upper limit or normal, clinical hepatitis, and jaundice have occurred in patients receiving ritonavir alone or in combination with other antiretrovirals.
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
+
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
 
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
@@ -60,4 +61,10 @@ The frequency of this is unknown (see section 4.4).
 
 [Norvir 100 mg soft capsules]
 
-(> 1/1000 to < 1/100); rare (> 1/10,000 to < 1/1,000).
+(> 1/1000 to < 1/100); rare (> 1/10,000 to < 1/1,000); not known (cannot be estimated from the available data).
+
+Events noted as having frequency not known were identified via post-marketing surveillance.
+
+[Norvir 100 mg film-coated tablets]
+
+(all sentences already above)
