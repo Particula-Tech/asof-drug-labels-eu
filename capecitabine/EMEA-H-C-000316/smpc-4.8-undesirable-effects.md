@@ -27,19 +27,18 @@ Table 4 Summary of related ADRs reported in patients treated with Xeloda monothe
 | Infections and infestations | - | Herpes viral infection, Nasopharyngitis, Lower respiratory tract infection | Sepsis, Urinary tract infection, Cellulitis, Tonsillitis, Pharyngitis, Oral candidiasis, Influenza, Gastroenteritis, Fungal infection, Infection, Tooth abscess |
 | Neoplasm benign, malignant and unspecified | - | - | Lipoma |
 | Blood and lymphatic system disorders | - | Neutropenia, Anaemia | Febrile neutropenia, Pancytopenia, Granulocytopenia, Thrombocytopenia, Leucopenia, Haemolytic anaemia, International Normalised Ratio (INR) increased/Prothrombin time prolonged |
-|  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant |
 | Immune system disorders | - | - | Hypersensitivity |
 | Metabolism and nutrition disorders | Anorexia | Dehydration, Decreased appetite, Weight decreased | Diabetes, Hypokalaemia, Appetite disorder, Malnutrition, Hypertriglyceridaemia, |
 | Psychiatric disorders | - | Insomnia, Depression | Confusional state, Panic attack, Depressed mood, Libido decreased |
 | Nervous system disorders | - | Headache, Lethargy Dizziness, Parasthesia Dysgeusia | Aphasia, Memory impairment, Ataxia, Syncope, Balance disorder, Sensory disorder, Neuropathy peripheral |
 | Eye disorders | - | Lacrimation increased, Conjunctivitis, Eye irritation | Visual acuity reduced, Diplopia |
 | Ear and labyrinth disorders | - | - | Vertigo, Ear pain |
+|  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant |
 | Cardiac disorders | - | - | Angina unstable, Angina pectoris, Myocardial ischaemia, Atrial fibrillation, Arrhythmia, Tachycardia, Sinus tachycardia, Palpitations |
 | Vascular disorders | - | Thrombophlebitis | Deep vein thrombosis, Hypertension, Petechiae, Hypotension, Hot flush, Peripheral coldness |
 | Respiratory, thoracic and mediastinal disorders | - | Dyspnoea, Epistaxis, Cough, Rhinorrhea | Pulmonary embolism, Pneumothorax, Haemoptysis, Asthma, Dyspnoea exertional |
 | Gastrointestinal disorders | Diarrhoea, Vomiting, Nausea, Stomatitis, Abdominal pain | Gastrointestinal haemorrhage, Constipation, Upper abdominal pain, Dyspepsia, Flatulence, Dry mouth | Intestinal obstruction, Ascites, Enteritis, Gastritis, Dysphagia, Abdominal pain lower, Oesophagitis, Abdominal discomfort, Gastrooesophageal reflux disease, Colitis, Blood in stool |
 | Hepatobiliary Disorders | - | Hyperbilirubinemia , Liver function test abnormalities | Jaundice |
-|  | All grades | All grades | Severe and/or Life-threatening (grade 3-4) or considered medically relevant |
 | Skin and subcutaneous tissue disorders | Palmar-plantar erythrodysaesthesia syndrome | Rash, Alopecia, Erythema, Dry skin, Pruritus, Skin hyper-pigmentation, Rash macular, Skin desquamation, Dermatitis, Pigmentation disorder, Nail disorder | Skin ulcer, Rash, Urticaria, Photosensitivity reaction, Palmar erythema, Swelling face, Purpura |
 | Muskuloskeletal and connective tissue disorders | - | Pain in extremity, Back pain, Arthralgia | Joint swelling, Bone pain, Facial pain, Musculoskeletal stiffness, Muscular weakness |
 | Renal and urinary disorders | - | - | Hydronephrosis, Urinary incontinence, Haematuria, Nocturia, Blood creatinine increased |
@@ -48,7 +47,7 @@ Table 4 Summary of related ADRs reported in patients treated with Xeloda monothe
 | Injury, poisoning and procedural complications | - | - | Blister, Overdose |
 
 Xeloda in combination therapy:
-Table 5 lists ADRs associated with the use of Xeloda in combination with different chemotherapy regimens in multiple indications based on safety data from over 1400 patients.
+Table 5 lists ADRs associated with the use of Xeloda in combination with different chemotherapy regimens in multiple indications based on safety data from over 3000 patients.
 ADRs are added to the appropriate frequency grouping (Very common or Common) according to the highest incidence seen in any of the major clinical trials and are only added when they were seen in addition to those seen with Xeloda monotherapy or seen at a higher frequency grouping compared to Xeloda monotherapy (see Table 4).
 Uncommon ADRs reported for Xeloda in combination therapy are consistent with the ADRs reported for Xeloda monotherapy or reported for monotherapy with the combination agent (in literature and/or respective summary of product characteristics).
 
@@ -59,29 +58,31 @@ Table 5 Summary of related ADRs reported in patients treated with Xeloda in comb
 | Body System | Very common | Common |
 | --- | --- | --- |
 |  | All grades | All grades |
-| Infections and infestations | - | Herpes zoster, Urinary tract infection, Oral candidiasis, Upper respiratory tract infection , Rhinitis, Influenza, +Infection |
-|  | All grades | All grades |
+| Infections and infestations | - | Herpes zoster, Urinary tract infection, Oral candidiasis, Upper respiratory tract infection , Rhinitis, Influenza, +Infection, Oral herpes |
 | Blood and lymphatic system disorders | +Neutropenia, +Leucopenia, +Anaemia, +Neutropenic fever, Thrombocytopenia | Bone marrow depression, +Febrile Neutropenia |
 | Immune system disorders | - | Hypersensitivity |
 | Metabolism and nutrition disorders | Appetite decreased | Hypokalaemia, Hyponatremia, Hypomagnesaemia, Hypocalcaemia, Hyperglycaemia |
 | Psychiatric disorders | - | Sleep disorder, Anxiety |
-| Nervous system disorders | Taste disturbance, Paraesthesia and dysaesthesia, Peripheral neuropathy, Dysgeusia, Headache | Neurotoxicity, Tremor, Neuralgia, Hypersensitivity reaction |
-| Eye disorders | Lacrimation increased | Visual disorders, Dry eye |
+| Nervous system disorders | Taste disturbance, Paraesthesia and dysaesthesia, Peripheral neuropathy, Peripheral sensory neuropathy, Dysgeusia, Headache | Neurotoxicity, Tremor, Neuralgia, Hypersensitivity reaction, Hypoaesthesia |
+| Eye disorders | Lacrimation increased | Visual disorders, Dry eye, Eye pain, Visual impairment, Vision blurred |
 | Ear and labyrinth disorders | - | Tinnitus, Hypoacusis |
 | Cardiac disorders | - | Atrial fibrillation, Cardiac ischemia/infarction |
-| Vascular disorders | Lower limb oedema, Hypertension, +Embolism and thrombosis | Flushing, Hypotension, Hypertensive crisis |
+| Vascular disorders | Lower limb oedema, Hypertension, +Embolism and thrombosis | Flushing, Hypotension, Hypertensive crisis, Hot flush, Phlebitis |
 | Respiratory, thoracic and mediastinal system disorders | Sore throat, Dysaesthesia pharynx | Hiccups, Pharyngolaryngeal pain, Dysphonia |
-| Gastrointestinal disorders | Constipation, Dyspepsia | Upper gastrointestinal haemorrhage, Mouth ulceration, Gastritis, Abdominal distension, Gastroesophageal reflux disease, Oral pain, Dysphagia, Rectal haemorrhage, Abdominal pain lower |
+| Gastrointestinal disorders | Constipation, Dyspepsia | Upper gastrointestinal haemorrhage, Mouth ulceration, Gastritis, Abdominal distension, Gastroesophageal reflux disease, Oral pain, Dysphagia, Rectal haemorrhage, Abdominal pain lower, Oral dysaesthesia, Paraesthesia oral, Hypoaesthesia |
+|  | All grades | All grades |
+|  |  | oral, Abdominal discomfort |
 | Hepatobiliary disorders | - | Hepatic function abnormal |
 | Skin and subcutaneous tissue disorders | Alopecia, Nail disorder | Hyperhidrosis, Rash erythematous, Urticaria, Night sweats |
 | Musculoskeletal and connective tissue disorders | Myalgia, Arthralgia, Pain in extremity | Pain in jaw , Muscle spasms, Trismus, Muscular weakness |
-| Renal and urinary disorder | - | Haematuria, Proteinuria, Creatinine renal clearance decreased |
-| General disorders and administration site conditions | Pyrexia, Weakness, +Lethargy | Mucosal inflammation, Pain in limb, Pain, Temperature intolerance, Chills, Chest pain, Influenza-like illness, +Fever |
+| Renal and urinary disorder | - | Haematuria, Proteinuria, Creatinine renal clearance decreased, Dysuria |
+| General disorders and administration site conditions | Pyrexia, Weakness, +Lethargy, Temperature intolerance | Mucosal inflammation, Pain in limb, Pain, Chills, Chest pain, Influenza-like illness, +Fever, Infusion related reaction, Injection site reaction, Infusion site pain, Injection site pain |
 | Injury, poisoning and procedural complications | - | Contusion |
 
 + For each term, the frequency count was based on ADRs of all grades.
 For terms marked with a “+”, the frequency count was based on grade 3-4 ADRs.
 ADRs are added according to the highest incidence seen in any of the major combination trials.
+
 Post-Marketing Experience:
 The following additional serious adverse reactions have been identified during post-marketing exposure:
 
@@ -94,13 +95,12 @@ Hand-foot syndrome (see section 4.4):
 For the capecitabine dose of 1250 mg/m2 twice daily on days 1 to 14 every 3 weeks, a frequency of 53% to 60% of all-grades HFS was observed in capecitabine monotherapy trials (comprising studies in adjuvant therapy in colon cancer, treatment of metastatic colorectal cancer, and treatment of breast cancer) and a frequency of 63% was observed in the capecitabine/docetaxel arm for the treatment of metastatic breast cancer.
 For the capecitabine dose of 1000 mg/m2 twice daily on days 1 to 14 every 3 weeks, a frequency of 22% to 30% of all-grade HFS was observed in capecitabine combination therapy
 
-A meta-analysis of 13 clinical trials with data from over 3800 patients treated with capecitabine monotherapy or capecitabine in combination with different chemotherapy regimens in multiple indications (colon, colorectal, gastric and breast cancer) showed that HFS (all grades) occurred in 1788 (47%) patients after a median time of 155 [95% CI 135, 187] days after starting treatment with capecitabine.
+A meta-analysis of 14 clinical trials with data from over 4700 patients treated with capecitabine monotherapy or capecitabine in combination with different chemotherapy regimens in multiple indications (colon, colorectal, gastric and breast cancer) showed that HFS (all grades) occurred in 2066 (43%) patients after a median time of 239 [95% CI 201, 288] days after starting treatment with capecitabine.
 In all studies combined, the following covariates were statistically significantly associated with an increased risk of developing HFS: increasing capecitabine starting dose (gram), decreasing cumulative capecitabine dose (0.1*kg), increasing relative dose intensity in the first six weeks, increasing duration of study treatment (weeks), increasing age (by 10 year increments), female gender, and good ECOG performance status at baseline (0 versus ≥1).
 
 Diarrhoea (see section 4.4):
 Xeloda can induce the occurrence of diarrhoea, which has been observed in up to 50% of patients.
-
-The results of a meta-analysis of 13 clinical trials with data from over 3800 patients treated with capecitabine showed that in all studies combined, the following covariates were statistically significantly associated with an increased risk of developing diarrhea: increasing capecitabine starting dose (gram), increasing duration of study treatment (weeks), increasing age (by 10 year increments), and female gender.
+The results of a meta-analysis of 14 clinical trials with data from over 4700 patients treated with capecitabine showed that in all studies combined, the following covariates were statistically significantly associated with an increased risk of developing diarrhea: increasing capecitabine starting dose (gram), increasing duration of study treatment (weeks), increasing age (by 10 year increments), and female gender.
 The following covariates were statistically significantly associated with a decreased risk of developing diarrhea: increasing cumulative capecitabine dose (0.1*kg) and increasing relative dose intensity in the first six weeks.
 
 Cardiotoxicity (see section 4.4) :
@@ -115,10 +115,10 @@ Elderly patients (see section 4.2):
 An analysis of safety data in patients ≥60 years of age treated with Xeloda monotherapy and an analysis of patients treated with Xeloda plus docetaxel combination therapy showed an increase in the incidence of treatment-related grade 3 and 4 adverse reactions and treatment-related serious adverse reactions compared to patients <60 years of age.
 Patients ≥60 years of age treated with Xeloda plus docetaxel also had more early withdrawals from treatment due to adverse reactions compared to patients <60 years of age.
 
-The results of a meta-analysis of 13 clinical trials with data from over 3800 patients treated with capecitabine showed that in all studies combined, increasing age (by 10 year increments) was statistically significantly associated with an increased risk of developing HFS and diarrhea and with a decreased risk of developing neutropenia.
+The results of a meta-analysis of 14 clinical trials with data from over 4700 patients treated with capecitabine showed that in all studies combined, increasing age (by 10 year increments) was statistically significantly associated with an increased risk of developing HFS and diarrhea and with a decreased risk of developing neutropenia.
 
 Gender
-The results of a meta-analysis of 13 clinical trials with data from over 3800 patients treated with capecitabine showed that in all studies combined, female gender was statistically significantly associated with an increased risk of developing HFS and diarrhea and with a decreased risk of developing neutropenia.
+The results of a meta-analysis of 14 clinical trials with data from over 4700 patients treated with capecitabine showed that in all studies combined, female gender was statistically significantly associated with an increased risk of developing HFS and diarrhea and with a decreased risk of developing neutropenia.
 
 Patients with renal impairment (see section 4.2, 4.4, and 5.2):
 An analysis of safety data in patients treated with Xeloda monotherapy (colorectal cancer) with baseline renal impairment showed an increase in the incidence of treatment-related grade 3 and 4 adverse reactions compared to patients with normal renal function (36% in patients without renal impairment n=268, vs. 41% in mild n=257 and 54% in moderate n=59, respectively) (see section 5.2).
@@ -132,22 +132,22 @@ Patients with moderately impaired renal function show an increased rate of dose 
 | Infections and infestations | - | Herpes, viral infection, Nasopharyngitis, Lower respiratory tract infection | Sepsis, Urinary tract infection, Cellulitis, Tonsillitis, Pharyngitis, Oral candidiasis, Influenza, Gastroenteritis, Fungal infection, Infection, Tooth abscess |
 | Neoplasm benign, malignant and unspecified | - | - | Lipoma |
 | Blood and lymphatic system disorders | - | Neutropenia, Anaemia | Febrile neutropenia, Pancytopenia, Granulocytopenia, Thrombocytopenia, Leucopenia, Haemolytic anaemia, International Normalised Ratio (INR) increased/Prothrombin time prolonged |
-|  | All grades | All grades | Severe and/or Lifethreatening (grade 3-4) or considered medically relevant |
 | Immune system disorders | - | - | Hypersensitivity |
 | Metabolism and nutrition disorders | Anorexia | Dehydration, Decreased appetite, Weight decreased | Diabetes, Hypokalaemia, Appetite disorder, Malnutrition, Hypertriglyceridaemia, |
 | Psychiatric disorders | - | Insomnia, Depression | Confusional state, Panic attack, Depressed mood, Libido decreased |
 | Nervous system disorders | - | Headache, Lethargy, Dizziness, Parasthesia, Dysgeusia | Aphasia, Memory impairment, Ataxia, Syncope, Balance disorder, Sensory disorder, Neuropathy peripheral |
 | Eye disorders | - | Lacrimation increased, Conjunctivitis, Eye irritation | Visual acuity reduced, Diplopia |
+|  | All grades | All grades | Severe and/or Lifethreatening (grade 3-4) or considered medically relevant |
 | Ear and labyrinth disorders | - | - | Vertigo, Ear pain |
 | Cardiac disorders | - | - | Angina unstable, Angina pectoris, Myocardial ischaemia, Atrial fibrillation, Arrhythmia, Tachycardia, Sinus tachycardia, Palpitations |
 | Vascular disorders | - | Thrombophlebitis | Deep vein thrombosis, Hypertension, Petechiae, Hypotension, Hot flush, Peripheral coldness |
 | Respiratory, thoracic and mediastinal disorders | - | Dyspnoea, Epistaxis, Cough, Rhinorrhea | Pulmonary embolism, Pneumothorax, Haemoptysis, Asthma, Dyspnoea exertional |
 | Gastrointestinal disorders | Diarrhoea, Vomiting, Nausea, Stomatitis, Abdominal pain | Gastrointestinal haemorrhage, Constipation, Upper abdominal pain, Dyspepsia, Flatulence, Dry mouth | Intestinal obstruction, Ascites, Enteritis, Gastritis, Dysphagia, Abdominal pain lower, Oesophagitis, Abdominal discomfort, Gastrooesophageal reflux disease, Colitis, Blood in stool |
 | Hepatobiliary Disorders | - | Hyperbilirubinemia, Liver function test abnormalities | Jaundice |
-|  | All grades | All grades | Severe and/or Lifethreatening (grade 3-4) or considered medically relevant |
 | Skin and subcutaneous tissue disorders | Palmar-plantar erythrodysaesthesia syndrome | Rash, Alopecia, Erythema, Dry skin, Pruritus, Skin hyper-pigmentation, Rash macular, Skin desquamation, Dermatitis, Pigmentation disorder, Nail disorder | Skin ulcer, Rash, Urticaria, Photosensitivity reaction, Palmar erythema, Swelling face, Purpura |
 | Muskuloskeletal and connective tissue disorders | - | Pain in extremity, Back pain, Arthralgia | Joint swelling, Bone pain, Facial pain, Musculoskeletal stiffness, Muscular weakness, |
 | Renal and urinary disorders | - | - | Hydronephrosis, Urinary incontinence, Haematuria, Nocturia, Blood creatinine increased |
+|  | All grades | All grades | Severe and/or Lifethreatening (grade 3-4) or considered medically relevant |
 | Reproductive system and breast disorders | - | - | Vaginal haemorrhage |
 | General disorders and administration site conditions | Fatigue, Asthenia | Pyrexia, Lethargy, Oedema peripheral, Malaise, Chest pain | Oedema, Chills, Influenza like illness, Rigors, Body temperature increased |
 | Injury, poisoning and procedural complications | - | - | Blister, Overdose |
@@ -155,22 +155,22 @@ Patients with moderately impaired renal function show an increased rate of dose 
 | Body System | Very common | Common |
 | --- | --- | --- |
 |  | All grades | All grades |
-| Infections and infestations | - | Herpes zoster, Urinary tract infection, Oral candidiasis, Upper respiratory tract infection, Rhinitis, Influenza, +Infection |
+| Infections and infestations | - | Herpes zoster, Urinary tract infection, Oral candidiasis, Upper respiratory tract infection, Rhinitis, Influenza, +Infection, Oral herpes |
 | Blood and lymphatic system disorders | +Neutropenia, +Leucopenia, +Anaemia, +Neutropenic fever, Thrombocytopenia | Bone marrow depression, +Febrile Neutropenia |
 | Immune system disorders | - | Hypersensitivity |
 | Metabolism and nutrition disorders | Appetite decreased | Hypokalaemia, Hyponatremia, Hypomagnesaemia, Hypocalcaemia, Hyperglycaemia |
 | Psychiatric disorders | - | Sleep disorder, Anxiety |
-| Nervous system disorders | Taste disturbance, Paraesthesia and dysaesthesia, Peripheral neuropathy, Dysgeusia, Headache | Neurotoxicity, Tremor, Neuralgia, Hypersensitivity reaction |
-| Eye disorders | Lacrimation increased | Visual disorders, Dry eye |
+| Nervous system disorders | Taste disturbance, Paraesthesia and dysaesthesia, Peripheral neuropathy, Peripheral sensory neuropathy, Dysgeusia, Headache | Neurotoxicity, Tremor, Neuralgia, Hypersensitivity reaction, Hypoaesthesia |
+|  | All grades | All grades |
+| Eye disorders | Lacrimation increased | Visual disorders, Dry eye, Eye pain, Visual impairment, Vision blurred |
 | Ear and labyrinth disorders | - | Tinnitus, Hypoacusis |
 | Cardiac disorders | - | Atrial fibrillation, Cardiac ischemia/infarction |
-| Vascular disorders | Lower limb oedema, Hypertension, +Embolism and thrombosis | Flushing, Hypotension, Hypertensive crisis |
+| Vascular disorders | Lower limb oedema, Hypertension, +Embolism and thrombosis | Flushing, Hypotension, Hypertensive crisis, Hot flush, Phlebitis |
 | Respiratory, thoracic and mediastinal system disorders | Sore throat, Dysaesthesia pharynx | Hiccups, Pharyngolaryngeal pain, Dysphonia |
-| Gastrointestinal disorders | Constipation, Dyspepsia | Upper gastrointestinal haemorrhage, Mouth ulceration, Gastritis, Abdominal distension, Gastroesophageal reflux disease, Oral pain, Dysphagia, Rectal haemorrhage, Abdominal pain lower |
+| Gastrointestinal disorders | Constipation, Dyspepsia | Upper gastrointestinal haemorrhage, Mouth ulceration, Gastritis, Abdominal distension, Gastroesophageal reflux disease, Oral pain, Dysphagia, Rectal haemorrhage, Abdominal pain lower, Oral dysaesthesia, Paraesthesia oral, Hypoaesthesia oral, Abdominal discomfort |
 | Hepatobiliary disorders | - | Hepatic function abnormal |
 | Skin and subcutaneous tissue disorders | Alopecia, Nail disorder | Hyperhidrosis, Rash erythematous, Urticaria, Night sweats |
 | Musculoskeletal and connective tissue disorders | Myalgia, Arthralgia, Pain in extremity | Pain in jaw , Muscle spasms, Trismus, Muscular weakness |
-| Renal and urinary disorder | - | Haematuria, Proteinuria, Creatinine renal clearance decreased |
-| General disorders and administration site conditions | Pyrexia, Weakness, +Lethargy | Mucosal inflammation, Pain in limb, Pain, Temperature intolerance, Chills, Chest pain, Influenza-like illness, +Fever |
-|  | All grades | All grades |
+| Renal and urinary disorder | - | Haematuria, Proteinuria, Creatinine renal clearance decreased, Dysuria |
+| General disorders and administration site conditions | Pyrexia, Weakness, +Lethargy, Temperature intolerance | Mucosal inflammation, Pain in limb, Pain, Chills, Chest pain, Influenza-like illness, +Fever, Infusion related reaction, Injection site reaction, Infusion site pain, Injection site pain |
 | Injury, poisoning and procedural complications | - | Contusion |

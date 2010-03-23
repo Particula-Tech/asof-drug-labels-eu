@@ -15,6 +15,7 @@ Patients taking phenytoin concomitantly with Xeloda should be regularly monitore
 
 Folinic acid: a combination study with Xeloda and folinic acid indicated that folinic acid has no major effect on the pharmacokinetics of Xeloda and its metabolites.
 However, folinic acid has an effect on the pharmacodynamics of Xeloda and its toxicity may be enhanced by folinic acid: the maximum tolerated dose (MTD) of Xeloda alone using the intermittent regimen is 3000 mg/m2 per day whereas it is only 2000 mg/m2 per day when Xeloda was combined with folinic acid (30 mg orally bid).
+
 Sorivudine and analogues: a clinically significant drug-drug interaction between sorivudine and 5-FU, resulting from the inhibition of dihydropyrimidine dehydrogenase by sorivudine, has been described.
 This interaction, which leads to increased fluoropyrimidine toxicity, is potentially fatal.
 Therefore, Xeloda must not be administered concomitantly with sorivudine or its chemically related analogues, such as brivudine (see section 4.3).
@@ -29,7 +30,6 @@ Concomitant use of allopurinol with Xeloda should be avoided.
 Interaction with cytochrome P-450: For potential interactions with isozymes 1A2, 2C9 and 3A4, see interactions with coumarin-derivative anticoagulation.
 
 Interferon alpha: the MTD of Xeloda was 2000 mg/m2 per day when combined with interferon alpha-2a (3 MIU/m2 per day) compared to 3000 mg/m2 per day when Xeloda was used alone.
-
 Radiotherapy: the MTD of Xeloda alone using the intermittent regimen is 3000 mg/m2 per day, whereas, when combined with radiotherapy for rectal cancer, the MTD of Xeloda is 2000 mg/m2 per day using either a continuous schedule or given daily Monday through Friday during a 6-week course of radiotherapy.
 
 Oxaliplatin: no clinically significant differences in exposure to capecitabine or its metabolites, free platinum or total platinum occurred when capecitabine was administered in combination with oxaliplatin or in combination with oxaliplatin and bevacizumab.

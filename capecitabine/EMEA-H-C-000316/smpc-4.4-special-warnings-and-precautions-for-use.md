@@ -9,7 +9,6 @@ Standard antidiarrhoeal treatments (e.g. loperamide) may be used.
 NCIC CTC grade 2 diarrhoea is defined as an increase of 4 to 6 stools/day or nocturnal stools, grade 3 diarrhoea as an increase of 7 to 9 stools/day or incontinence and malabsorption.
 Grade 4 diarrhoea is an increase of ≥10 stools/day or grossly bloody diarrhoea or the need for parenteral support.
 Dose reduction should be applied as necessary (see section 4.2).
-
 Dehydration.
 Dehydration should be prevented or corrected at the onset.
 Patients with anorexia, asthenia, nausea, vomiting or diarrhoea may rapidly become dehydrated.
@@ -40,6 +39,7 @@ Caution must be exercised in patients with central or peripheral nervous system 
 
 Diabetes mellitus or electrolyte disturbances.
 Caution must be exercised in patients with diabetes mellitus or electrolyte disturbances, as these may be aggravated during Xeloda treatment.
+
 Coumarin-derivative anticoagulation.
 In a drug interaction study with single-dose warfarin administration, there was a significant increase in the mean AUC (+57%) of S-warfarin.
 These results suggest an interaction, probably due to an inhibition of the cytochrome P450 2C9 isoenzyme system by capecitabine.
@@ -53,7 +53,6 @@ Treatment with Xeloda monotherapy may be resumed when bilirubin decreases to ≤
 
 Renal impairment.
 The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 ml/min) is increased compared to the overall population (see section 4.2 and 4.3).
-
 As this medicinal product contains anhydrous lactose as an excipient, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 [Xeloda 500 mg film-coated tablets.]

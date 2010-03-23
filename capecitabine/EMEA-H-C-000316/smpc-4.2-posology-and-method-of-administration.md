@@ -12,10 +12,12 @@ Colon, colorectal and breast cancer
 Given as single agent, the recommended starting dose for Xeloda in the adjuvant treatment of colon cancer, in the treatment of metastatic colorectal cancer or of locally advanced or metastatic breast cancer is 1250 mg/m2 administered twice daily (morning and evening; equivalent to 2500 mg/m2 total daily dose) for 14 days followed by a 7-day rest period.
 Adjuvant treatment in patients with stage III colon cancer is recommended for a total of 6 months.
 Combination therapy
-Colorectal and gastric cancer
+Colon, colorectal and gastric cancer
 In combination treatment, the recommended starting dose of Xeloda should be reduced to 800 – 1000 mg/m2 when administered twice daily for 14 days followed by a 7-day rest period, or to 625 mg/m2 twice daily when administered continuously (see section 5.1).
 The inclusion of biological agents in a combination regimen has no effect on the starting dose of Xeloda.
 Premedication to maintain adequate hydration and anti-emesis according to the cisplatin summary of product characteristics should be started prior to cisplatin administration for patients receiving the Xeloda plus cisplatin combination.
+Premedication with antiemetics according to the oxaliplatin summary of product characteristics is recommended for patients receiving the Xeloda plus oxaliplatin combination.
+Adjuvant treatment in patients with stage III colon cancer is recommended for a duration of 6 months.
 
 Breast cancer
 In combination with docetaxel, the recommended starting dose of Xeloda in the treatment of metastatic breast cancer is 1250 mg/m2 twice daily for 14 days followed by a 7-day rest period, combined with docetaxel at 75 mg/m2 as a 1 hour intravenous infusion every 3 weeks.
@@ -64,6 +66,7 @@ For those toxicities considered by the treating physician to be unlikely to beco
 Patients taking Xeloda should be informed of the need to interrupt treatment immediately if moderate or severe toxicity occurs.
 Doses of Xeloda omitted for toxicity are not replaced.
 The following are the recommended dose modifications for toxicity:
+
 Table 3 Xeloda Dose Reduction Schedule (3-weekly Cycle or Continuous Treatment)
 
 | Toxicity grades* | Dose changes within a treatment cycle | Dose adjustment for next cycle/dose (% of starting dose) |
@@ -98,6 +101,7 @@ During a treatment cycle for those toxicities considered by the treating physici
 If the other agent(s) have to be discontinued permanently, Xeloda treatment can be resumed when the requirements for restarting Xeloda are met.
 
 This advice is applicable to all indications and to all special populations.
+
 Dose modifications for toxicity when Xeloda is used continuously in combination with other agents: Dose modifications for toxicity when Xeloda is used continuously in combination with other agents should be made according to Table 3 above for Xeloda and according to the appropriate summary of product characteristics for the other agent(s).
 
 Posology adjustments for special populations:
