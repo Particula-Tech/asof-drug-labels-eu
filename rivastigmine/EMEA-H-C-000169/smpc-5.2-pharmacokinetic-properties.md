@@ -16,7 +16,6 @@ Rivastigmine is rapidly and extensively metabolised (half-life in plasma approxi
 In vitro, this metabolite shows minimal inhibition of acetylcholinesterase (<10%).
 Based on evidence from in vitro and animal studies the major cytochrome P450 isoenzymes are minimally involved in rivastigmine metabolism.
 Total plasma clearance of rivastigmine was approximately 130 l/h after a 0.2 mg intravenous dose and decreased to 70 l/h after a 2.7 mg intravenous dose.
-
 Excretion
 Unchanged rivastigmine is not found in the urine; renal excretion of the metabolites is the major route of elimination.
 Following administration of 14C-rivastigmine, renal elimination was rapid and essentially complete (>90%) within 24 hours.
@@ -68,6 +67,7 @@ The inter-patient variability in a steady-state study in Alzheimer’s dementia 
 A relationship between active substance exposure at steady state (rivastigmine and metabolite NAP226-90) and bodyweight was observed in Alzheimer’s dementia patients.
 Compared to a patient with a body weight of 65 kg, the rivastigmine steady-state concentrations in a patient with a body weight of 35 kg would be approximately doubled, while for a patient with a body weight of 100 kg the concentrations would be approximately halved.
 The effect of bodyweight on active substance exposure suggests special attention to patients with very low body weight during up-titration (see section 4.4).
+
 Exposure (AUC∞) to rivastigmine (and metabolite NAP266-90) was highest when the transdermal patch was applied to the upper back, chest, or upper arm and approximately 20–30% lower when applied to the abdomen or thigh.
 
 There was no relevant accumulation of rivastigmine or the metabolite NAP226-90 in plasma in patients with Alzheimer’s disease, except that plasma levels were higher on the second day of transdermal patch therapy than on the first.

@@ -82,7 +82,6 @@ After a minimum of four weeks of treatment and if well tolerated according to th
 Treatment should be temporarily interrupted if gastrointestinal adverse reactions are observed until these adverse reactions resolve.
 Transdermal patch treatment can be resumed at the same dose if treatment is not interrupted for more than several days.
 Otherwise treatment should be re-initiated with 4.6 mg/24 h.
-
 Switching from capsules or oral solution to transdermal patches
 Based on comparable exposure between oral and transdermal rivastigmine (see section 5.2), patients treated with Exelon capsules or oral solution can be switched to Exelon transdermal patches as follows:
 

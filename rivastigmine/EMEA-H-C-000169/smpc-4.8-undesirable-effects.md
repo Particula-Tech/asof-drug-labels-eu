@@ -2,7 +2,6 @@
 
 The most commonly reported adverse reactions are gastrointestinal, including nausea (38%) and vomiting (23%), especially during titration.
 Female patients in clinical studies were found to be more susceptible than male patients to gastrointestinal adverse reactions and weight loss.
-
 The following adverse reactions, listed below in Table 1, have been accumulated in patients with Alzheimer’s dementia treated with Exelon.
 
 Adverse reactions are ranked under headings of frequency, the most frequent first, using the following convention: Very common (≥1/10); common (≥1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); very rare (<1/10,000) and not known (cannot be estimated from the available data).
@@ -61,19 +60,7 @@ Table 3
 
 [Exelon 2 mg/ml oral solution]
 
-| Psychiatric disorders Common Common Common | Insomnia Anxiety Restlessness |
-| --- | --- |
-| Nervous system disorders Very common Common Common Common Common Common Common Uncommon | Tremor Dizziness Somnolence Headache Worsening of Parkinson’s disease Bradykinesia Dyskinesia Dystonia |
-| Cardiac disorders Common Uncommon Uncommon | Bradycardia Atrial Fibrillation Atrioventricular block |
-| Gastrointestinal disorders Very common Very common Common Common Common | Nausea Vomiting Diarrhoea Abdominal pain and dyspepsia Salivary hypersecretion |
-| Skin and subcutaneous tissue disorders Common | Sweating increased |
-| Musculoskeletal and connective tissue disorders Common | Muscle rigidity |
-| Metabolism and nutritional disorders Common Common | Anorexia Dehydration |
-
-General disorders and administration
-site conditions
-Common Fatigue and asthenia
-Common Gait abnormality
+(all sentences already above)
 
 [Exelon 4.6 mg/24 h transdermal patch]
 
@@ -119,7 +106,6 @@ General disorders and administration site conditions
 Common: Application site skin reactions (e.g. application site erythema,
 
 application site pruritus, application site oedema, application site dermatitis, application site irritation), asthenic conditions (e.g. fatigue, asthenia), pyrexia, weight decreased
-
 When doses higher than 9.5 mg/24 h were used in the above-mentioned study, dizziness, insomnia, agitation, decreased appetite, atrial fibrillation and cardiac failure were observed more frequently than with 9.5 mg/24 h or placebo, suggesting a dose effect relationship.
 However, these events did not occur at a higher frequency with Exelon 9.5 mg/24 h transdermal patches than with placebo.
 
