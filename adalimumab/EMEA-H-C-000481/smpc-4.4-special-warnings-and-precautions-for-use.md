@@ -33,7 +33,7 @@ Prescribers are reminded of the risk of false negative tuberculin skin test resu
 
 If active tuberculosis is diagnosed, Humira therapy must not be initiated (see section 4.3).
 
-If latent tuberculos is issuspected, a physician with expertise in the treatment of tuberculosis should be consulted.
+If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
 In all situations described below, the benefit/risk balance of therapy should be very carefully considered.
 
 If inactive (‘latent’) tuberculosis is diagnosed, appropriate treatment for latent tuberculosis must be started with anti-tuberculosis prophylaxis therapy before the initiation of Humira, and in accordance with local recommendations.
@@ -50,7 +50,8 @@ Other opportunistic infections:
 Opportunistic infections, including invasive fungal infections have been observed in patients receiving Humira.
 These infections have not consistently been recognised in patients taking TNF-blockers and this resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 
-For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasivie fungal infection should be suspected and administration of Humira should be promptly discontinued and appropriate antifungal therapy should be initiated.
+For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Humira should be promptly discontinued.
+Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
 Hepatitis B Reactivation
 
@@ -83,8 +84,13 @@ Malignancies and lymphoproliferative disorders
 
 In the controlled portions of clinical trials of TNF-antagonists, more cases of malignancies including lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients.
 However, the occurrence was rare.
-Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
-With the current knowledge, a possible risk for the development of lymphomas or other malignancies in patients treated with a TNF-antagonist cannot be excluded.
+In the post marketing setting, cases of leukemia have been reported in patients treated with a TNF-antagonist..
+There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation. .With the current knowledge, a possible risk for the development of lymphomas, leukemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
+
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤ 18 years of age), including adalimumab in the post marketing setting.
+Approximately half the cases were lymphomas.
+The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression.
+A risk for the development of malignancies in children and adolescents treated with TNF-blockers cannot be excluded.
 
 Rare postmarketing cases of hepatosplenic T-cell lymphoma have been identified in patients treated with adalimumab.
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.
@@ -95,11 +101,9 @@ No studies have been conducted that include patients with a history of malignanc
 Thus additional caution should be exercised in considering Humira treatment of these patients (see section 4.8).
 
 All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.
-
 In an exploratory clinical trial evaluating the use of another anti-TNF agent, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with increased risk for malignancy due to heavy smoking.
-
 Haematologic reactions
 
 Rare reports of pancytopenia including aplastic anaemia have been reported with TNF antagonists.
@@ -142,13 +146,13 @@ Concurrent administration of TNF-antagonists and abatacept
 Concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Humira and abatacept is not recommended.
 (See section 4.5).
-
 Surgery
 
 There is limited safety experience of surgical procedures in patients treated with Humira.
 The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Humira should be closely monitored for infections, and appropriate actions should be taken.
 There is limited safety experience in patients undergoing arthroplasty while receiving Humira.
+
 Small bowel obstruction
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
@@ -156,29 +160,27 @@ Available data suggest that Humira does not worsen or cause strictures.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-Patients who develop a new infection while undergoing treatment with Humira should be monitored closely and undergo a complete diagnostic evaluation.
-Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infectionis controlled.
+There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis aptients with long-standing highly active, inflammatory disease, which omplcated the risk estimation.
+With the current knowledge, a possible risk for the development of lymphomas, leukemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 
-If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
+All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.In an exploratory clinical trial evaluating the use of another anti-TNF agent, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
-In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidiomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Opportunistic infections).
+Patients who develop a new infection while undergoing treatment with Humira should be monitored closely and undergo a complete diagnostic evaluation.
 
 Serious infections including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
 
 These infections have not consistently been recognised in patients taking TNF-blockers and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 
-Rare reports of pancytopenia including aplastic anaemia have been reported with TNF atagonists.
+There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
 
 [Humira 40 mg solution for injection in pre-filled pen]
-
-In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidiodomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Opportunistic infections).
 
 Serious infections, including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
 
 These infections have not consistently been recognised in patient taking TNF-blockers and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 
-Rare reports of pancytopenia including aplastic anaemia have been reported with TNFantagonists.
+For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Humira should be promptly discontinued, Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
 See section 4.5).

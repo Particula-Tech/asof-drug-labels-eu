@@ -72,7 +72,7 @@ No dose recommendations can be made.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-Children and adolescents (aged 13 to 17 years) Polyarticular Juvenile Idiopathic Arthritis
+(all sentences already above)
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
