@@ -12,7 +12,6 @@ The most serious adverse reactions were:
 - Grade 4 neutropenia (see section 4.4).
 
 The most frequently observed adverse reactions which occurred significantly more frequently in the lenalidomide/dexamethasone group compared to the placebo/dexamethasone group were neutropenia (39.4%), fatigue (27.2%), asthenia (17.6%), constipation (23.5%), muscle cramp (20.1%), thrombocytopenia (18.4%), anaemia (17.0%), diarrhoea (14.2%) and rash (10.2%).
-
 The adverse reactions observed in patients treated with lenalidomide/dexamethasone are listed below by system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Frequencies are defined as: very common (≥ 1/10); common
@@ -59,7 +58,6 @@ Common: Hyperglycaemia, anorexia, hypocalcaemia, hypokalaemia, dehydration,
 
 hypomagnesaemia, fluid retention
 Uncommon: Metabolic acidosis, diabetes mellitus, hyponatraemia, hypercalcaemia, hyperuricaemia, hypoalbuminaemia, cachexia, failure to thrive, gout, hypophosphataemia, hyperphosphataemia, increased appetite
-
 Psychiatric disorders
 Very Common: Insomnia
 
@@ -67,6 +65,7 @@ Common: Confusional state, hallucinations, depression, aggression, agitation, mo
 
 alteration, anxiety, nervousness, irritability, mood swings
 Uncommon: Psychotic disorder, hypomania, delusion, mental status changes, sleep disorder, abnormal dreams, depressed mood, affect lability, listless, loss of libido, nightmare, personality change, panic attack, restlessness.
+
 Nervous system disorders
 
 Common: Cerebrovascular accident, syncope, peripheral neuropathy, neuropathy, peripheral
@@ -88,7 +87,7 @@ Uncommon: Deafness, hypoacusia, tinnitus, ear pain, ear pruritus
 
 Cardiac disorders
 
-Common: Atrial fibrillation, palpitations
+Common: Atrial fibrillation, palpitations, myocardial infarction†
 
 Uncommon: Congestive cardiac failure, pulmonary oedema, heart valve insufficiency, atrial flutter, arrhythmia, ventricular trigeminy, bradycardia, tachycardia, QT prolongation, sinus tachycardia
 
@@ -115,6 +114,7 @@ abdominal pain, stomatitis, dry mouth, flatulence, rectal haemorrhage Uncommon: 
 
 Hepatobiliary disorders
 Uncommon: Abnormal liver function tests, increased alanine aminotransferase, increased aspartate aminotransferase, increased blood bilirubin
+
 Skin and subcutaneous tissue disorders
 Very common: Rash*
 
@@ -161,6 +161,5 @@ Injury, poisoning and procedural complications
 Common: Contusion
 
 Uncommon: Wound complication
-
 Haemorrhagic disorders
 Haemorrhagic disorders are listed under several system organ classes: Blood and lymphatic system disorders; nervous system disorders (intracranial haemorrhage); respiratory, thoracic and mediastinal disorders (epistaxis); gastrointestinal disorders (gingival bleeding, haemorrhoidal haemorrhage, rectal haemorrhage); renal and urinary disorders (haematuria); Injury, poisoning and procedural complications (contusion) and vascular disorders (ecchymosis).

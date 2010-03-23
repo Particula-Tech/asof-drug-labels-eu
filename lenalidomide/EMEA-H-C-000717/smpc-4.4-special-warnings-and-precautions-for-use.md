@@ -63,7 +63,6 @@ Implants and levonorgestrel-releasing intrauterine systems are associated with a
 Prophylactic antibiotics should be considered particularly in patients with neutropenia.
 
 Copper-releasing intrauterine devices are generally not recommended due to the potential risks of infection at the time of insertion and menstrual blood loss which may compromise patients with neutropenia or thrombocytopenia.
-
 Pregnancy testing
 According to local practice, medically supervised pregnancy tests with a minimum sensitivity of 25 mIU/ml must be performed for women of childbearing potential as outlined below.
 This requirement includes women of childbearing potential who practice absolute and continuous abstinence.
@@ -93,6 +92,8 @@ Full patient information about the expected teratogenic risk and the strict preg
 
 Other special warnings and precautions for use
 
+Cardiovascular disorders
+
 Venous thromboembolism
 The combination of lenalidomide with dexamethasone is associated with an increased risk of deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients with multiple myeloma (see sections 4.5 and 4.8).
 Concomitant administration of erythropoietic agents or previous history of DVT may also increase thrombotic risk in these patients.
@@ -102,6 +103,10 @@ Patients and physicians are advised to be observant for the signs and symptoms o
 Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, arm or leg swelling.
 Prophylactic antithrombotic medicines, such as low molecular weight heparins or warfarin, should be recommended, especially in patients with additional thrombotic risk factors.
 The decision to take antithrombotic prophylactic measures should be made after careful assessment of an individual patient’s underlying risk factors.
+
+Myocardial Infarction
+Myocardial infarction has been reported in patients receiving lenalidomide, particularly in those with known risk factors.
+Consequently, patients with known risk factors should be closely monitored, and action should be taken to try to minimize all modifiable risk factors (eg. smoking, hypertension, and hyperlipidaemia).
 
 Neutropenia and thrombocytopenia
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated patients compared with 0.6% in placebo/dexamethasone-treated patients; see section 4.8).
@@ -138,12 +143,12 @@ These patients should be monitored closely and appropriate precautions taken.
 Allergic Reactions
 Cases of allergic reaction/hypersensitivity reactions have been reported (see section 4.8).
 Patients who had previous allergic reactions while treated with thalidomide should be monitored closely, as a possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
-
 Severe skin reactions
 Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported.
 Lenalidomide must be discontinued for exfoliative or bullous rash, or if SJS or TEN is suspected, and should not be resumed following discontinuation for these reactions.
 Interruption or discontinuation of lenalidomide should be considered for other forms of skin reaction depending on severity.
 Patients with a history of severe rash associated with thalidomide treatment should not receive lenalidomide.
+
 Lactose intolerance
 Revlimid capsules contain lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
