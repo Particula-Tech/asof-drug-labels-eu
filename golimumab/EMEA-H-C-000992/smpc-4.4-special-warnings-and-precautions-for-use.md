@@ -19,10 +19,10 @@ Tuberculosis
 There have been reports of tuberculosis in patients receiving Simponi.
 It should be noted that in the majority of these reports, tuberculosis was extrapulmonary presenting as either local or disseminated disease.
 
-Before starting treatment with Simponi, all patients must be evaluated for both active and inactive (‘latent’) tuberculosis.
+Before starting treatment with Simponi, all patients must be evaluated for both active and inactive („latent‟) tuberculosis.
 This evaluation should include a detailed medical history with personal history of tuberculosis or possible previous contact with tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests, i.e. tuberculin skin or blood test and chest X-ray, should be performed in all patients (local recommendations may apply).
-It is recommended that the conduct of these tests should be recorded in the patient’s alert card.
+It is recommended that the conduct of these tests should be recorded in the patient‟s alert card.
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 
 If active tuberculosis is diagnosed, Simponi therapy must not be initiated (see section 4.3).
@@ -30,7 +30,7 @@ If active tuberculosis is diagnosed, Simponi therapy must not be initiated (see 
 If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
 In all situations described below, the benefit/risk balance of Simponi therapy should be very carefully considered.
 
-If inactive (‘latent’) tuberculosis is diagnosed, treatment for latent tuberculosis must be started with anti-tuberculosis therapy before the initiation of Simponi, and in accordance with local recommendations.
+If inactive („latent‟) tuberculosis is diagnosed, treatment for latent tuberculosis must be started with anti-tuberculosis therapy before the initiation of Simponi, and in accordance with local recommendations.
 
 In patients who have several or significant risk factors for tuberculosis and have a negative test for latent tuberculosis, anti-tuberculosis therapy should be considered before the initiation of Simponi.
 Use of anti-tuberculosis therapy should also be considered before the initiation of Simponi in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
@@ -47,13 +47,20 @@ In patients who develop HBV reactivation, Simponi should be stopped and effectiv
 
 Malignancies and lymphoproliferative disorders
 The potential role of TNF-blocking therapy in the development of malignancies is not known.
-With the current knowledge, a possible risk for the development of lymphomas or other malignancies in patients treated with a TNF-antagonist cannot be excluded.
+With the current knowledge, a possible risk for the development of lymphomas, leukaemia or other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 Caution should be exercised when considering TNF-blocking therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop malignancy.
 
-Lymphoma
+Paediatric malignancy
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤ 18 years of age) in the post marketing setting.
+Approximately half the cases were lymphomas.
+The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression.
+A risk for the development of malignancies in children and adolescents treated with TNF-blockers cannot be excluded.
+
+Lymphoma and leukaemia
 In the controlled portions of clinical trials of all the TNF-blocking agents including Simponi, more cases of lymphoma have been observed among patients receiving anti-TNF treatment compared with control patients.
 During the Simponi Phase IIb and Phase III clinical trials, the incidence of lymphoma in Simponi-treated patients was higher than expected in the general population.
-Patients with rheumatoid arthritis and other chronic inflammatory diseases, particularly patients with highly active disease and/or chronic exposure to immunosuppressant therapies, may be at higher risk (up to several fold) than the general population for the development of lymphoma, even in the absence of TNF-blocking therapy.
+In the post-marketing setting, cases of leukaemia have been reported in patients treated with a TNF-antagonist.
+There is an increased background risk for lymphoma and leukaemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates risk estimation.
 
 Malignancies other than lymphoma
 In the controlled portions of the Simponi Phase IIb and Phase III clinical trials in RA, PsA, and AS, the incidence of non-lymphoma malignancies (excluding non-melanoma skin cancer) was similar between the Simponi and the control groups.
@@ -74,6 +81,7 @@ Patients should be closely monitored and Simponi must be discontinued in patient
 Neurological events
 Use of TNF-blocking agents, including Simponi, has been associated in rare cases with new-onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis.
 In patients with pre-existing or recent onset of demyelinating disorders, the benefits and risks of anti-TNF treatment should be carefully considered before initiation of Simponi therapy.
+
 Surgery
 There is limited safety experience of Simponi treatment in patients who have undergone surgical procedures, including artheroplasty.
 The long half-life should be taken into consideration if a surgical procedure is planned.
@@ -81,9 +89,10 @@ A patient who requires surgery while on Simponi should be closely monitored for 
 
 Immunosuppression
 The possibility exists for TNF-blocking agents, including Simponi, to affect host defences against infections and malignancies since TNF mediates inflammation and modulates cellular immune responses.
+
 Autoimmune processes
 The relative deficiency of TNFα caused by anti-TNF therapy may result in the initiation of an autoimmune process.
-If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Simponi and is positive for antibodies against double-stranded DNA, treatment with Simponi should be discontinued (see section 4.8:).
+If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Simponi and is positive for antibodies against double-stranded DNA, treatment with Simponi should be discontinued (see section 4.8).
 
 Haematologic reactions
 There have been post-marketing reports of pancytopenia, leukopenia, neutropenia, aplastic anemia, and thrombocytopenia in patients receiving TNF-blockers.
@@ -92,13 +101,16 @@ All patients should be advised to seek immediate medical attention if they devel
 Discontinuation of Simponi therapy should be considered in patients with confirmed significant haematologic abnormalities.
 
 Concurrent administration of TNF-antagonists and anakinra
-Serious infections were seen in clinical studies with concurrent use of anakinra and another TNF-blocking agent, etanercept, with no added clinical benefit.
+Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNF-blocking agent, etanercept, with no added clinical benefit.
 Because of the nature of the adverse events seen with this combination therapy, similar toxicities may also result from the combination of anakinra and other TNF-blocking agents.
 The combination of Simponi and anakinra is not recommended.
 
 Concurrent administration of TNF-antagonists and abatacept
 In clinical studies concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Simponi and abatacept is not recommended.
+
+Switching between biological DMARDs
+When switching from one biologic to another, patients should be monitored for signs of infection.
 
 Vaccinations
 Patients treated with Simponi may receive concurrent vaccinations, except for live vaccines (see section 4.5).
@@ -128,10 +140,6 @@ Patients with rare hereditary problems of fructose intolerance should not take S
 
 [Simponi 50 mg solution for injection in pre-filled syringe.]
 
-If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Simponi and is positive for antibodies against double-stranded DNA, treatment with Simponi should be discontinued (see section 4.8).
-
 Hematologic reactions
-
-If an anaphylactic reaction or other serious allergic reactions occur, administration of Simponi should be discontinued immediately and appropriate therapy initiated.
 
 The needle cover on the syringe in the pre-filled syringe is manufactured from dry natural rubber containing latex, and may cause allergic reactions in individuals sensitive to latex.

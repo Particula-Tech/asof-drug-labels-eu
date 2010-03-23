@@ -37,7 +37,4 @@ Missed dose
 If a patient forgets to inject Simponi on the planned date, the forgotten dose should be injected as soon as the patient remembers.
 Patients should be instructed not to inject a double dose to make up for the forgotten dose.
 
-The next dose should be administered based on the following guidance:
-
-- if the dose is less than 2 weeks late, the patient should inject his/her forgotten dose and stay on his/her original monthly schedule.
-- if the dose is more than 2 weeks late, the patient should inject his/her forgotten dose and a new once-monthly schedule should be established from the date of this injection.
+The next dose should be administered based on the following guidance: • if the dose is less than 2 weeks late, the patient should inject his/her forgotten dose and stay on his/her original monthly schedule. • if the dose is more than 2 weeks late, the patient should inject his/her forgotten dose and a new once-monthly schedule should be established from the date of this injection.

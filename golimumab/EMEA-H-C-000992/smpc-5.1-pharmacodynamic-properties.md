@@ -16,7 +16,7 @@ These changes were observed at the first assessment (week 4) after the initial S
 Clinical efficacy
 
 Rheumatoid arthritis
-The efficacy of Simponi was demonstrated in two multi-centre, randomised, double-blind, placebo-controlled studies in over 900 patients ≥18 years of age with moderately to severely active RA diagnosed according to American College of Rheumatology (ACR) criteria for at least 3 months prior to screening.
+The efficacy of Simponi was demonstrated in two multi-centre, randomised, double-blind, placebo-controlled studies in 889 patients ≥18 years of age with moderately to severely active RA diagnosed according to American College of Rheumatology (ACR) criteria for at least 3 months prior to screening.
 Patients had at least 4 swollen and 4 tender joints.
 Simponi or placebo were subcutaneously administered every 4 weeks.
 Placebo-controlled efficacy data were collected and analysed through week 24.
@@ -24,7 +24,7 @@ Placebo-controlled efficacy data were collected and analysed through week 24.
 GO-FORWARD evaluated 444 patients who had active RA despite a stable dose of at least 15 mg/week of MTX and who had not been previously treated with an anti-TNF agent.
 Patients were randomised to receive placebo + MTX, Simponi 50 mg + MTX, Simponi 100 mg + MTX or Simponi 100 mg + placebo.
 
-GO-AFTER evaluated 461 patients who were previously treated with one or more of the anti-TNF agents adalimumab, etanercept, or infliximab.
+GO-AFTER evaluated 445 patients who were previously treated with one or more of the anti-TNF agents adalimumab, etanercept, or infliximab.
 Patients were randomised to receive placebo, Simponi 50 mg, or Simponi 100 mg.
 Patients were allowed to continue concomitant DMARD therapy with MTX, sulfasalazine (SSZ), and/or hydroxychloroquine (HCQ) during the study.
 The stated reasons for discontinuation of prior anti TNF therapies were lack of efficacy (58%), intolerance (13%), and/or reasons other than safety or efficacy (29%, mostly for financial reasons).
@@ -43,21 +43,28 @@ In GO-AFTER, the percentage of patients achieving an ACR 20 response was greater
 Table 2
 Key efficacy outcomes from GO-FORWARD and GO-AFTER.
 
-|  | GO-FORWARD Active RA despite MTX |  | GO-AFTER Active RA, previously treated with one or more anti-TNF agent(s) |  |
-| --- | --- | --- | --- | --- |
-|  | Placebo + MTX | Simponi 50 mg + MTX | Placebo | Simponi 50 mg |
-| Na | 133 | 89 | 155 | 153 |
-| Responders, % of patients |  |  |  |  |
-| ACR 20 |  |  |  |  |
-| Week 14 | 33% | 55%* | 18% | 35%* |
-| Week 24 | 28% | 60%* | 17% | 34%* |
-| ACR 50 |  |  |  |  |
-| Week 14 | 10% | 35%* | 7% | 16% p=0.006 |
-| Week 24 | 14% | 37%* | 5% | 18%* |
-| ACR 70 |  |  |  |  |
-| Week 14 | 4% | 14% p=0.008 | 2% | 11% p=0.002 |
-| Week 24 | 5% | 20%* | 3% | 12% p=0.004 |
-| a N reflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint. * p ≤ 0.001 |  |  |  |  |
+GO-FORWARD GO-AFTER
+Active RA despite MTX Active RA, previously
+treated with one or more
+anti-TNF agent(s)
+Simponi
+Placebo 50 mg
++ + Simponi
+MTX MTX Placebo 50 mg
+Na 133 89 150 147
+Responders, % of patients
+ACR 20
+Week 14 33% 55%* 18% 35%*
+Week 24 28% 60%* 16% 31% p=0.002
+ACR 50
+Week 14 10% 35%* 7% 15% p=0.021
+Week 24 14% 37%* 4% 16%*
+ACR 70
+Week 14 4% 14% p=0.008 2% 10% p=0.005
+Week 24 5% 20%* 2% 9% p=0.009
+a N reflects randomised patients; actual number of patients
+evaluable for each endpoint may vary by timepoint.
+* p ≤ 0.001
 
 In GO-FORWARD and GO-AFTER, clinically meaningful and statistically significant responses in Disease Activity Scale (DAS)28 were observed at each prespecified time point, at week 14 and at week 24 ( p ≤ 0.001).
 
@@ -84,23 +91,30 @@ In general, no clinically meaningful differences in measures of efficacy were ob
 Table 3
 Key efficacy outcomes from GO-REVEAL
 
-|  | Placebo | Simponi 50 mg* |
-| --- | --- | --- |
-| Na | 113 | 146 |
-| Responders, % of patients |  |  |
-| ACR 20 |  |  |
-| Week 14 | 9 % | 51 % |
-| Week 24 | 12 % | 52 % |
-| ACR 50 |  |  |
-| Week 14 | 2 % | 30 % |
-| Week 24 | 4 % | 32 % |
-| ACR 70 |  |  |
-| Week 14 | 1 % | 12 % |
-| Week 24 | 1 % | 19 % |
-| PASIb 75c |  |  |
-| Week 14 | 3 % | 40 % |
-| Week 24 | 1 % | 56 % |
-| * p < 0.05 for all comparisons; p-value calculations are based on comparisons of median values for continuous variables a N reflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint b Psoriasis Area and Severity Index c Based on the subset of patients with ≥ 3% BSA involvement at baseline, 79 patients (69.9%) in the placebo group and 109 (74.3%) in the Simponi 50mg group. |  |  |
+Simponi
+Placebo 50 mg*
+Na 113 146
+Responders, % of patients
+ACR 20
+Week 14 9 % 51 %
+Week 24 12 % 52 %
+ACR 50
+Week 14 2 % 30 %
+Week 24 4 % 32 %
+ACR 70
+Week 14 1 % 12 %
+Week 24 1 % 19 %
+PASIb 75c
+Week 14 3 % 40 %
+Week 24 1 % 56 %
+* p < 0.05 for all comparisons; p-value calculations are based on comparisons
+of median values for continuous variables
+a N reflects randomised patients; actual number of patients evaluable for each
+endpoint may vary by timepoint
+b Psoriasis Area and Severity Index
+c Based on the subset of patients with ≥ 3% BSA involvement at baseline, 79
+patients (69.9%) in the placebo group and 109 (74.3%) in the Simponi 50 mg
+group.
 
 Statistically significant responses in DAS28 were also observed at weeks 14 and 24 (p < 0.05).
 Improvements in key measures of disease activity were observed at the first assessment (Week 4) after the initial Simponi administration and were maintained through Week 24.
@@ -113,7 +127,7 @@ Improvements in parameters of peripheral activity characteristic of psoriatic ar
 Simponi treatment resulted in significant improvement in physical function as assessed by HAQ, as well as significant improvements in health-related quality of life as measured by the physical and mental component summary scores of the SF-36.
 
 Ankylosing spondylitis
-The safety and efficacy of Simponi were evaluated in a multi-centre, randomised, double-blind, placebo-controlled study (GO-RAISE) in 356 adult patients with active ankylosing spondylitis (defined as a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥4 and a VAS for total back pain of ≥ 4, on a scale of 0 to 10 cm).
+The safety and efficacy of Simponi were evaluated in a multi-centre, randomised, double-blind, placebo-controlled study (GO-RAISE) in 356 adult patients with active ankylosing spondylitis (defined as a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥4 and a VAS for total back pain of ≥ 4, ).
 Patients enrolled in this study had active disease despite current or previous NSAID or DMARD therapy and had not previously been treated with anti-TNF therapy.
 Simponi or placebo were administered subcutaneously every 4 weeks.
 Patients were randomly assigned to placebo, Simponi 50 mg and Simponi 100 mg and were allowed to continue concomitant DMARD therapy (MTX, SSZ and/or HCQ).
@@ -126,20 +140,22 @@ In general, no clinically meaningful differences in measures of efficacy were ob
 Table 4
 Key efficacy outcomes from GO-RAISE.
 
-|  | Placebo | Simponi 50 mg* |
-| --- | --- | --- |
-| Na | 78 | 138 |
-| Responders, % of patients |  |  |
-| ASAS 20 |  |  |
-| Week 14 | 22% | 59% |
-| Week 24 | 23% | 56% |
-| ASAS 40 |  |  |
-| Week 14 | 15% | 45% |
-| Week 24 | 15% | 44% |
-| ASAS 5/6 |  |  |
-| Week 14 | 8% | 50% |
-| Week 24 | 13% | 49% |
-| * p ≤ 0.001 for all comparisons a N reflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint |  |  |
+Simponi
+Placebo 50 mg*
+Na 78 138
+Responders, % of patients
+ASAS 20
+Week 14 22% 59%
+Week 24 23% 56%
+ASAS 40
+Week 14 15% 45%
+Week 24 15% 44%
+ASAS 5/6
+Week 14 8% 50%
+Week 24 13% 49%
+* p ≤ 0.001 for all comparisons
+a N reflects randomised patients; actual number of patients evaluable for each endpoint
+may vary by timepoint
 
 Statistically significant responses in BASDAI 50, 70 and 90 (p ≤ 0.017) were also seen at weeks 14 and 24.
 Improvements in key measures of disease activity were observed at the first assessment (Week 4) after the initial Simponi administration and were maintained through week 24.
@@ -158,34 +174,9 @@ In patients not given concomitant MTX, the incidence was 8.9% (37/417), compared
 
 The presence of antibodies to golimumab may increase the risk of injection site reactions (see section 4.4).
 The small number of patients positive for antibodies to golimumab limits the ability to draw definitive conclusions regarding the relationship between antibodies to golimumab and clinical efficacy or safety measures.
-
 Because immunogenicity analyses are product- and assay-specific, comparison of antibody rates with those from other products is not appropriate.
 
 [Simponi 50 mg solution for injection in pre-filled syringe.]
 
-The efficacy of Simponi was demonstrated in two multi-centre, randomised, double-blind, placebo-controlled studies in over 900patients ≥18 years of age with moderately to severely active RA diagnosed according to American College of Rheumatology (ACR) criteria for at least 3 months prior to screening.
-
 Approximately forty-eight percent of patients continued on stable doses of methotrexate
 (≤25 mg/week).
-
-|  | Placebo | Simponi 50 mg* |
-| --- | --- | --- |
-| Na | 113 | 146 |
-| Responders, % of patients |  |  |
-| ACR 20 |  |  |
-| Week 14 | 9 % | 51 % |
-| Week 24 | 12 % | 52 % |
-| ACR 50 |  |  |
-| Week 14 | 2 % | 30 % |
-| Week 24 | 4 % | 32 % |
-| ACR 70 |  |  |
-| Week 14 | 1 % | 12 % |
-| Week 24 | 1 % | 19 % |
-| PASIb 75c |  |  |
-| Week 14 | 3 % | 40 % |
-| Week 24 | 1 % | 56 % |
-| * p < 0.05 for all comparisons; p-value calculations are based on comparisons of median values for continuous variables a N reflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint b Psoriasis Area and Severity Index c Based on the subset of patients with ≥ 3% BSA involvement at baseline, 79 patients (69.9%) in the placebo group and 109 (74.3%) in the Simponi 50 mg group. |  |  |
-
-Across the Phase 3 RA, PsA and AS studies through week 24, antibodies to golimumab, nearly all neutralizing in vitro, were detected in 4.3% (57/1322) of golimumab treated patients.
-
-The presence of antibodies to golimumab may increase the risk of injection site reactions, however, the small number of patients positive for antibodies to golimumab limits the ability to draw definitive conclusions regarding the relationship between antibodies to golimumab and clinical efficacy or safety measures (see section 4.4).

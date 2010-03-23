@@ -1,6 +1,7 @@
 # 4.8 Undesirable effects
 
 Safety data from Phase IIb and Phase III clinical trials are available from 2578 golimumab-treated patients including 1600 with RA, 394 with PsA, 353 with AS, 231 with severe persistent asthma and 751 patients receiving placebo or active comparator.
+
 Adverse drug reactions (ADRs) observed in clinical studies with golimumab are summarised in Table 1.
 Within the designated system organ classes, the adverse drug reactions are listed under headings of frequency and using the following convention: Very common (≥ 1/10); Common
 (≥ 1/100 to < 1/10); Uncommon (≥ 1/1,000 to < 1/100); Rare (≥ 1/10,000 to < 1/1,000); Very rare
@@ -17,6 +18,7 @@ Rare: Hepatitis B reactivation
 Neoplasms, benign, malignant and unspecified
 Uncommon: Neoplasms (such as skin cancer, squamous cell carcinoma and melanocytic naevus)
 Rare: Lymphoma
+Not known: leukaemia*
 Blood and lymphatic system disorders
 Common: Anemia
 Uncommon: Leukopenia, thrombocytopenia,
@@ -39,7 +41,7 @@ Cardiac disorders
 Uncommon: Congestive heart failure (new onset or worsening), arrhythmia, ischemic coronary artery disorders
 Vascular disorders
 Common: Hypertension
-Uncommon: Thrombosis (such as deep venous and aortic), Raynaud’s phenomenon, flushing
+Uncommon: Thrombosis (such as deep venous and aortic), Raynaud‟s phenomenon, flushing
 Respiratory, thoracic and mediastinal disorders
 Uncommon: Asthma and related symptoms (such as wheezing and bronchial hyperactivity)
 Rare: Interstitial lung disease
@@ -49,7 +51,7 @@ Common: Alanine aminotransferase increased, aspartate aminotransferase increased
 Uncommon: Cholelithiasis, hepatic disorders
 Skin and subcutaneous tissue disorders
 Common: Alopecia, dermatitis, pruritus, rash
-Uncommon: Psoriasis (new onset and pustular), urticaria
+Uncommon: Psoriasis (new onset or worsening of pre-existing psoriasis, palmar/plantar and pustular), urticaria
 Musculoskeletal and connective tissue disorders
 Rare: Lupus-like syndrome
 Renal and urinary disorders
@@ -100,7 +102,6 @@ During the placebo-controlled portion of the study, the incidence (95% CI) of al
 In this study, the incidence (95% CI) per 100 subject-years of follow-up in golimumab-treated subjects was 0.40 (0.01, 2.20) for lymphoma, 0.79 (0.10, 2.86) for non-melanoma skin cancers, and 1.99 (0.64, 4.63) for other malignancies.
 For placebo subjects, the incidence (95% CI) per 100 subject-years of follow-up of these malignancies was 0.00 (0.00, 2.94).
 The significance of this finding is unknown.
-
 Liver enzyme elevations
 In controlled Phase III trials through week 16, mild ALT elevations (> 1 and < 3 x upper limit of normal (ULN)) occurred in similar proportions of golimumab and control patients in the RA and PsA studies (22.1% to 27.4% of patients); in the AS study, more golimumab-treated patients (25.6%) than control patients (3.9 %) had mild ALT elevations.
 Through 1 year of follow-up the incidence of mild ALT elevations was similar in golimumab-treated and control patients in RA and PsA studies.
@@ -118,7 +119,7 @@ Injection site reactions
 In controlled Phase III trials through week 16 in RA, PsA and AS, 5.8% of golimumab-treated patients had injection site reactions compared with 2.2% in control patients.
 The presence of antibodies to golimumab may increase the risk of injection site reactions.
 The majority of the injection site reactions were mild and moderate and the most frequent manifestation was injection site erythema.
-Injection site reactions generally did not necessisate discontinuation of the medicinal product.
+Injection site reactions generally did not necessitate discontinuation of the medicinal product.
 
 In controlled phase IIb and III trials in RA, PsA, AS and severe persistent asthma, no patients treated with golimumab developed anaphylactic reactions.
 
