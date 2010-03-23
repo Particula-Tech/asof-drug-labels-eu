@@ -18,6 +18,7 @@ Peripheral B cell counts declined below normal following completion of the first
 In patients treated for hematological malignancies, B cell repletion began within 6 months of treatment returning to normal levels between 9 and 12 months after completion of therapy.
 In rheumatoid arthritis patients, immediate depletion of B cells in the peripheral blood was observed following two infusions of 1000 mg MabThera separated by a 14 day interval.
 Peripheral blood B cell counts begin to increase from week 24 and evidence for repopulation is observed in the majority of patients by week 40, whether MabThera was administered as monotherapy or in combination with methotrexate.
+
 Clinical Experience in Non-Hodgkin’s lymphoma and in chronic lymphocytic leukaemia
 
 Follicular non-Hodgkin's lymphoma
@@ -84,7 +85,6 @@ In a prospective, open label, international, multi-centre, phase III trial, 465 
 The two treatment groups were well balanced with regard to baseline characteristics and disease status.
 A total of 334 patients achieving a complete or partial remission following induction therapy were randomised in a second step to MabThera maintenance therapy (n=167) or observation (n=167).
 MabThera maintenance treatment consisted of a single infusion of MabThera at 375 mg/m2 body surface area given every 3 months until disease progression or for a maximum period of two years.
-
 The final efficacy analysis included all patients randomized to both parts of the study.
 After a median observation time of 31 months for patients randomised to the induction phase, R-CHOP significantly improved the outcome of patients with relapsed/refractory follicular NHL when compared to CHOP (see Table 4).
 
@@ -119,6 +119,7 @@ Table 5 Maintenance phase: overview of efficacy results MabThera vs. observation
 | OS CHOP R-CHOP | NR NR | NR NR | 0.0348 0.0482 | 55 % 56 % |
 
 NR: not reached; a: only applicable to patients achieving a CR
+
 The benefit of MabThera maintenance treatment was confirmed in all subgroups analysed, regardless of induction regimen (CHOP or R-CHOP) or quality of response to induction treatment (CR or PR) (table 5).
 MabThera maintenance treatment significantly prolonged median PFS in patients responding to CHOP induction therapy (median PFS 37.5 months vs. 11.6 months, p< 0.0001) as well as in those responding to R-CHOP induction (median PFS 51.9 months vs. 22.1 months, p=0.0071).
 Although subgroups were small, MabThera maintenance treatment provided a significant benefit in terms of overall survival for both patients responding to CHOP and patients responding to R-CHOP, although longer follow-up is required to confirm this observation.

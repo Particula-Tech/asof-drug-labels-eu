@@ -38,6 +38,8 @@ The chemotherapy should be given after MabThera infusion.
 
 Rheumatoid arthritis
 
+Patients treated with MabThera must be given the patient alert card.
+
 A course of MabThera consists of two 1000 mg intravenous infusions.
 The recommended dosage of MabThera is 1000 mg by intravenous infusion followed by a second 1000 mg intravenous infusion two weeks later.
 
@@ -70,8 +72,8 @@ No dose adjustment is required in elderly patients (aged >65 years).
 
 Method of Administration
 Premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing chemotherapy for treatment of non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia.
-
 Premedication consisting of an anti-pyretic and an antihistaminic, e.g. paracetamol and diphenhydramine, should always be administered before each infusion of MabThera.
+
 First infusion
 The recommended initial rate for infusion is 50 mg/hr; after the first 30 minutes, it can be escalated in 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
 

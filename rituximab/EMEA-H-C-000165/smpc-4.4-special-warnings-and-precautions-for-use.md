@@ -8,7 +8,6 @@ If PML is suspected, further dosing must be suspended until PML has been exclude
 The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction, and if so, whether these symptoms are possibly suggestive of PML.
 Consultation with a Neurologist should be considered as clinically indicated.
 If any doubt exists, further evaluation, including MRI scan preferably with contrast, CSF testing for JC Viral DNA and repeat neurological assessments, should be considered.
-
 The physician should be particularly alert to symptoms suggestive of PML that the patient may not notice (e.g. cognitive, neurological or psychiatric symptoms).
 Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
 
@@ -45,7 +44,6 @@ Since hypotension may occur during MabThera infusion, consideration should be gi
 
 Angina pectoris, or cardiac arrhythmias such as atrial flutter and fibrillation heart failure or myocardial infarction have occurred in patients treated with MabThera.
 Therefore patients with a history of cardiac disease and/or cardiotoxic chemotherapy should be monitored closely.
-
 Although MabThera is not myelosuppressive in monotherapy, caution should be exercised when considering treatment of patients with neutrophils < 1.5 x 109/l and/or platelet counts < 75 x 109/l as clinical experience in this population is limited.
 MabThera has been used in 21 patients who underwent autologous bone marrow transplantation and other risk groups with a presumable reduced bone marrow function without inducing myelotoxicity.
 
@@ -83,6 +81,7 @@ Most infusion events reported were mild to moderate in severity.
 The proportion of affected patients decreases with subsequent infusions.
 The reactions reported were usually reversible with a reduction in rate, or interruption, of MabThera infusion and administration of an anti-pyretic, an antihistamine, and, occasionally, oxygen, intravenous saline or bronchodilators, and glucocorticoids if required.
 In most cases, the infusion can be resumed at a 50 % reduction in rate (e.g. from 100 mg/h to 50 mg/h) when symptoms have completely resolved.
+
 Anaphylactic and other hypersensitivity reactions have been reported following the intravenous administration of proteins, including MabThera, to patients.
 Medicinal products for the treatment of hypersensitivity reactions, e.g., epinephrine (adrenaline), antihistamines and glucocorticoids, should be available for immediate use in the event of an allergic reaction during administration of MabThera.
 The presence of HACA may be associated with worsening infusion or allergic reactions after the second infusion of subsequent courses (see section 5.1).
@@ -102,7 +101,6 @@ Patients reporting signs and symptoms of infection following MabThera therapy sh
 Before giving a subsequent course of MabThera treatment, patients should be re-evaluated for any potential risk for infections.
 
 Very rare cases of Progressive Multifocal Leukoencephalopathy (PML) have been reported following use of MabThera for the treatment of rheumatoid arthritis and autoimmune diseases including Systemic Lupus Erythematosus (SLE) and Vasculitis.
-These cases involved patients with multiple risk factors for PML, including the underlying disease and long-term immunosuppressive therapy or chemotherapy.
 
 In patients with non-Hodgkin’s lymphoma receiving rituximab in combination with cytotoxic chemotherapy, very rare cases of hepatitis B reactivation have been reported (see non-Hodgkin’s lymphoma).
 
