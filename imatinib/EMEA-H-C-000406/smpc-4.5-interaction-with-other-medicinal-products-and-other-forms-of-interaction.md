@@ -17,7 +17,6 @@ Active substances that may have their plasma concentration altered by Glivec
 Imatinib increases the mean Cmax and AUC of simvastatin (CYP3A4 substrate) 2- and 3.5-fold, respectively, indicating an inhibition of the CYP3A4 by imatinib.
 Therefore, caution is recommended when administering Glivec with CYP3A4 substrates with a narrow therapeutic window (e.g. cyclosporin or pimozide).
 Glivec may increase plasma concentration of other CYP3A4 metabolised drugs (e.g. triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, i.e. statins, etc.).
-
 Because warfarin is metabolised by CYP2C9, patients who require anticoagulation should receive low-molecular-weight or standard heparin.
 
 In vitro Glivec inhibits the cytochrome P450 isoenzyme CYP2D6 activity at concentrations similar to those that affect CYP3A4 activity.
@@ -26,6 +25,7 @@ Dose adjustments do not seem to be necessary when imatinib is co-administrated w
 In patients treated with metoprolol clinical monitoring should be considered.
 
 In vitro, Glivec inhibits paracetamol O-glucuronidation (Ki value of 58.5 micromol/l at therapeutic levels).
+
 Caution should therefore be exercised when using Glivec and paracetamol concomitantly, especially with high doses of paracetamol.
 
 In thyroidectomy patients receiving levothyroxine, the plasma exposure to levothyroxine may be decreased when Glivec is co-administered (see section 4.4).

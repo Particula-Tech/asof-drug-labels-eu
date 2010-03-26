@@ -38,7 +38,6 @@ Plasma pharmacokinetics
 Following oral administration in healthy volunteers, the t½ was approximately 18 h, suggesting that once-daily dosing is appropriate.
 The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25–1,000 mg imatinib after oral administration.
 There was no change in the kinetics of imatinib on repeated dosing, and accumulation was 1.5–2.5-fold at steady state when dosed once daily.
-
 Pharmacokinetics in GIST patients
 In patients with GIST steady-state exposure was 1.5-fold higher than that observed for CML patients for the same dosage (400 mg daily).
 Based on preliminary population pharmacokinetic analysis in GIST patients, there were three variables (albumin, WBC and bilirubin) found to have a statistically significant relationship with imatinib pharmacokinetics.
