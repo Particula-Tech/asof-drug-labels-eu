@@ -16,6 +16,7 @@ The volume of distribution of maraviroc is approximately 194 L.
 Metabolism: studies in humans and in vitro studies using human liver microsomes and expressed enzymes have demonstrated that maraviroc is principally metabolized by the cytochrome P450 system to metabolites that are essentially inactive against HIV-1.
 In vitro studies indicate that CYP3A4 is the major enzyme responsible for maraviroc metabolism.
 In vitro studies also indicate that polymorphic enzymes CYP2C9, CYP2D6 and CYP2C19 do not contribute significantly to the metabolism of maraviroc.
+
 Maraviroc is the major circulating component (approximately 42% radioactivity) following a single oral dose of 300 mg.
 The most significant circulating metabolite in humans is a secondary amine (approximately 22% radioactivity) formed by N-dealkylation.
 This polar metabolite has no significant pharmacological activity.
@@ -31,9 +32,20 @@ Children: the pharmacokinetics of maraviroc in paediatric patients have not been
 
 Elderly: population analysis of the Phase 1/2a and Phase 3 studies (16-65 years of age) has been conducted and no effect of age has been observed (see section 4.2).
 
-Renal impairment: the pharmacokinetics of maraviroc have not been studied in patients with renal impairment.
-However, renal clearance contributes less than 25% of maraviroc total clearance in the absence of CYP3A4 inhibitors, therefore the impact of renal impairment on maraviroc elimination should be minimal.
-In the presence of metabolic inhibitors, renal clearance may account for up to 70% of total clearance of maraviroc and hence renal impairment may result in increased maraviroc exposures in this case (see sections 4.2 and 4.4).
+Renal impairment: a study compared the pharmacokinetics of a single 300 mg dose of CELSENTRI in subjects with severe renal impairment (CLcr < 30 mL/min, n=6) and end stage renal disease (ESRD) to healthy volunteers (n=6).
+The geometric mean AUCinf (CV%) for CELSENTRI was as follows: healthy volunteers (normal renal function) 1348.4 ng·h/mL (61%); severe renal function 4367.7 ng·h/mL (52%); ESRD (dosing after dialysis) 2677.4 ng·h/mL (40%); and ESRD (dosing before dialysis) 2805.5 ng·h/mL (45%).
+The C max (CV%) was 335.6 ng/mL (87%) in healthy volunteers (normal renal function); 801.2 ng/mL (56%) in severe renal function; 576.7 ng/mL (51%) in ESRD (dosing after dialysis) and 478.5 ng/mL (38%) in ESRD (dosing before dialysis).
+Dialysis had a minimal effect on exposure in subjects with ESRD.
+Exposures observed in subjects with severe renal impairment and ESRD were within the range observed in single CELSENTRI 300 mg dose studies in healthy volunteers with normal renal function.
+Therefore, no dose adjustment is necessary in patients with renal impairment receiving CELSENTRI without a potent CYP3A4 inhibitor (see sections 4.2, 4.4 and 4.5).
+
+In addition, the study compared the pharmacokinetics of multiple dose CELSENTRI in combination with saquinavir/ritonavir 1000/100 mg BID (a potent CYP3A4 inhibitor) for 7 days in subjects with mild renal impairment (CLcr >50 and ≤80 mL/min, n=6) and moderate renal impairment (CLcr ≥30 and ≤50 mL/min, n=6) to healthy volunteers (n=6).
+Subjects received 150 mg of CELSENTRI at different dose frequencies (healthy volunteers – every 12 hours; mild renal impairment – every 24 hours; moderate renal impairment – every 48 hours).
+The average concentration (Cavg) of CELSENTRI over 24 hours was 445.1 ng/mL, 338.3 ng/mL, and 223.7 ng/mL for subjects with normal renal function, mild renal impairment, and moderate renal impairment, respectively.
+The Cavg of CELSENTRI from 24-48 hours for subjects with moderate renal impairment was low (Cavg: 32.8 ng/mL).
+Therefore, dosing frequencies of longer than 24 hours in subjects with renal impairment may result in inadequate exposures between 24-48 hours.
+
+Dose adjustment is necessary in patients with renal impairment receiving CELSENTRI with potent CYP3A4 inhibitors (see sections 4.2 and 4.4 and 4.5).
 
 Hepatic impairment: maraviroc is primarily metabolized and eliminated by the liver.
 A study compared the pharmacokinetics of a single 300 mg dose of CELSENTRI in patients with mild (Child-Pugh Class A, n=8), and moderate (Child-Pugh Class B, n=8) hepatic impairment compared to healthy subjects (n=8).
