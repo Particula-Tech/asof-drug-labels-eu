@@ -105,7 +105,8 @@ In patients with pre-existing or recent onset of demyelinating disorders, the be
 Malignancies and lymphoproliferative disorders
 In the controlled portions of clinical studies of TNF-blocking agents, more cases of malignancies including lymphoma have been observed among patients receiving a TNF blocker compared with control patients.
 During clinical studies of Remicade across all approved indications the incidence of lymphoma in Remicade-treated patients was higher than expected in the general population, but the occurrence of lymphoma was rare.
-Furthermore, there is an increased background lymphoma risk in rheumatoid arthritis patients with longstanding, highly active, inflammatory disease, which complicates the risk estimation.
+In the post-marketing setting, cases of leukaemia have been reported in patients treated with a TNF-antagonist.
+There is an increased background risk for lymphoma and leukaemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates risk estimation.
 
 In an exploratory clinical study evaluating the use of Remicade in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies were reported in Remicade-treated patients compared with control patients.
 All patients had a history of heavy smoking.
@@ -115,6 +116,11 @@ With the current knowledge, a risk for the development of lymphomas or other mal
 Caution should be exercised when considering TNF-blocking therapy for patients with a history of malignancy or when considering continuing treatment in patients who develop a malignancy.
 
 Caution should also be exercised in patients with psoriasis and a medical history of extensive immunosuppressant therapy or prolonged PUVA treatment.
+
+Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤ 18 years of age), including Remicade in the post-marketing setting.
+Approximately half the cases were lymphomas.
+The other cases represented a variety of different malignancies and included rare malignancies usually associated with immunosuppression.
+A risk for the development of malignancies in children and adolescents treated with TNF-blockers cannot be excluded.
 
 Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients treated with TNF-blocking agents including infliximab.
 This rare type of T-cell lymphoma has a very aggressive disease course and is usually fatal.

@@ -30,7 +30,6 @@ Rheumatoid arthritis
 
 The efficacy of infliximab was assessed in two multicentre, randomised, double-blind, pivotal clinical studies: ATTRACT and ASPIRE.
 In both studies concurrent use of stable doses of folic acid, oral corticosteroids (≤ 10 mg/day) and/or non-steroidal anti-inflammatory drugs (NSAIDs) was permitted.
-
 The primary endpoints were the reduction of signs and symptoms as assessed by the American College of Rheumatology criteria (ACR20 for ATTRACT, landmark ACR-N for ASPIRE), the prevention of structural joint damage, and the improvement in physical function.
 A reduction in signs and symptoms was defined to be at least a 20% improvement (ACR20) in both tender and swollen joint counts, and in 3 of the following 5 criteria: (1) evaluator’s global assessment, (2) patient’s global assessment, (3) functional/disability measure, (4) visual analogue pain scale and (5) erythrocyte sedimentation rate or C-reactive protein.
 ACR-N uses the same criteria as the ACR20, calculated by taking the lowest percent improvement in swollen joint count, tender joint count, and the median of the remaining 5 components of the ACR response.
@@ -48,6 +47,7 @@ A reduction in the rate of the progression of structural joint damage (erosions 
 
 The effects observed at 54 weeks were maintained through 102 weeks.
 Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group cannot be defined.
+
 Table 3
 Effects on ACR20, Structural Joint Damage and Physical Function at week 54, ATTRACT infliximabb
 3 mg/kg 3 mg/kg 10 mg/kg 10 mg/kg All Controla q 8 wks q 4 wks q 8 wks q 4 wks infliximabb
@@ -90,24 +90,13 @@ In ASPIRE, more than 90% of patients had at least two evaluable X-rays.
 Reduction in the rate of progression of structural damage was observed at weeks 30 and 54 in the infliximab + methotrexate groups compared to methotrexate alone.
 Table 4
 Effects on ACRn, Structural Joint Damage and Physical Function at week 54, ASPIRE
-Infliximab + MTX
-Placebo + MTX 3 mg/kg 6 mg/kg Combined
 
-Subjects randomised 282 359 363 722
-
-Percentage ACR improvement
-
-Mean ± SDa 24.8 ± 59.7 37.3 ± 52.8 42.0 ± 47.3 39.6 ± 50.1
-
-Change from baseline in total van der
-Heijde modified Sharp scoreb
-
-Mean ± SDa 3.70 ± 9.61 0.42 ± 5.82 0.51 ± 5.55 0.46 ± 5.68
-Median 0.43 0.00 0.00 0.00
-
-Improvement from baseline in HAQ averaged over time from week 30 to week 54c
-
-Mean ± SDd 0.68 ± 0.63 0.80 ± 0.65 0.88 ± 0.65 0.84 ± 0.65
+|  | Infliximab + MTX Placebo + MTX 3 mg/kg 6 mg/kg | Combined |
+| --- | --- | --- |
+| Subjects randomised Percentage ACR improvement Mean ± SDa Change from baseline in total van der Heijde modified Sharp scoreb Mean ± SDa Median Improvement from baseline in HAQ averaged over time from week 30 to week 54c Mean ± SDd | 282 359 363 | 722 |
+|  | 24.8 ± 59.7 37.3 ± 52.8 42.0 ± 47.3 | 39.6 ± 50.1 |
+|  | 3.70 ± 9.61 0.42 ± 5.82 0.51 ± 5.55 0.43 0.00 0.00 | 0.46 ± 5.68 0.00 |
+|  | 0.68 ± 0.63 0.80 ± 0.65 0.88 ± 0.65 | 0.84 ± 0.65 |
 
 a: p < 0.001, for each infliximab treatment group vs. control b: greater values indicate more joint damage.
 c: HAQ = Health Assessment Questionnaire; greater values indicate less disability.
@@ -131,8 +120,7 @@ The primary endpoint was the proportion of patients who experienced a clinical r
 Patients who responded at week 4 were followed to week 12.
 Secondary endpoints included the proportion of patients in clinical remission at week 4 (CDAI < 150) and clinical response over time.
 
-At week 4, following administration of a single dose, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (16%) of the placebo-treated patients
-(p < 0.001).
+At week 4, following administration of a single dose, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (16%) of the placebo-treated patients (p < 0.001).
 Also at week 4, 13/27 (48%) of infliximab-treated patients achieved a clinical remission (CDAI < 150) vs. 1/25 (4%) of placebo-treated patients.
 A response was observed within 2 weeks, with a maximum response at 4 weeks.
 At the last observation at 12 weeks, 13/27 (48%) of infliximab-treated patients were still responding.
@@ -151,8 +139,7 @@ There was no difference between groups in the number of late responders thereaft
 The co-primary endpoints were the proportion of patients in clinical remission (CDAI<150) at week 30 and time to loss of response through week 54.
 Corticosteroid tapering was permitted after week 6.
 
-Table 5: Effects on response and remission rate, data from ACCENT I (Week-2 responders)
-ACCENT I (Week-2 responders)
+Table 5: Effects on response and remission rate, data from ACCENT I (Week-2 responders) ACCENT I (Week-2 responders)
 % of Patients
 
 Placebo Infliximab Infliximab
@@ -265,7 +252,11 @@ Combined data from ACT 1 & 2.
 | Infliximab Placebo 5 mg/kg 10 mg/kg Subjects randomized 244 242 242 Percentage of subjects in clinical response and in sustained clinical response Clinical response at Week 8a 33.2% 66.9% 65.3% Clinical response at Week 30a 27.9% 49.6% 55.4% Sustained response (clinical response at both Week 8 and Week 30)a 19.3% 45.0% 49.6% | Combined 484 66.1% 52.5% 47.3% |
 | --- | --- |
 | Percentage of subjects in clinical remission and sustained remission Clinical remission at Week 8a 10.2% 36.4% 29.8% Clinical remission at Week 30a 13.1% 29.8% 36.4% Sustained remission (in remission at both Week 8 and Week 30)a 5.3% 19.0% 24.4% | 33.1% 33.1% 21.7% |
-| Percentage of subjects with mucosal healing Mucosal healing at Week 8a 32.4% 61.2% 60.3% Mucosal healing at Week 30a 27.5% 48.3% 52.9% | 60.7% 50.6% |
+
+Percentage of subjects with mucosal healing
+
+Mucosal healing at Week 8a 32.4% 61.2% 60.3% 60.7%
+Mucosal healing at Week 30a 27.5% 48.3% 52.9% 50.6%
 
 a: p < 0.001, for each infliximab treatment group vs. placebo
 
