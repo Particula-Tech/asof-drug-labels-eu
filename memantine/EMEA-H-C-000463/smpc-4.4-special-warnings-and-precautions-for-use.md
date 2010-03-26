@@ -12,9 +12,6 @@ Also, urine pH may be elevated by states of renal tubulary acidosis (RTA) or sev
 In most clinical trials, patients with recent myocardial infarction, uncompensated congestive heart failure (NYHA III-IV), or uncontrolled hypertension were excluded.
 As a consequence, only limited data are available and patients with these conditions should be closely supervised.
 
-Excipients: The film-coated tablets contain lactose monohydrate.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
-
 [Ebixa 10 mg/g oral drops, solution.]
 
 Concomitant use of other N-methyl-D-aspartate(NMDA)-antagonists such as amantadine, ketamine or dextromethorphan should be avoided.
@@ -24,7 +21,7 @@ Patients with rare hereditary problems of fructose intolerance should not take t
 
 [Ebixa 5 mg film-coated tablets.]
 
-Excipients: The 10 mg film-coated tablets contain lactose monohydrate.
+(all sentences already above)
 
 [Ebixa 20 mg film-coated tablets.]
 

@@ -22,9 +22,9 @@ The patient should take one 10 mg film-coated tablet (10 mg) per day for 7 days.
 
 Week 3 (day 15-21):
 The patient should take one and a half 10 mg film-coated tablet (15 mg) per day for 7 days.
+
 From Week 4 on:
 The patient should take two 10 mg film-coated tablets (20 mg) per day.
-
 Maintenance dose
 
 The recommended maintenance dose is 20 mg per day.
@@ -69,12 +69,12 @@ In patients with severe renal impairment (creatinine clearance 5 – 29 ml/min) 
 The recommended starting dose is 5 mg per day which is stepwise increased over the first 4 weeks of treatment reaching the recommended maintenance dose as follows:
 The patient should take one 5 mg film-coated tablet per day (white to off-white, oval-oblong) for 7 days.
 
-The patient should take one 10 mg film-coated tablet per day (white to off-white, centrally tapered oblong, biconvex, with a single breakline on both sides) for 7 days.
+The patient should take one 10 mg film-coated tablet per day (pale yellow to yellow, oval shaped) for 7 days.
 
-The patient should take one 15 mg film-coated tablet per day (grey-orange, oval-oblong film) for 7 days.
+The patient should take one 15 mg film-coated tablet per day (grey-orange, oval-oblong) for 7 days.
 
 Week 4 (day 22-28):
-The patient should take one 20 mg film-coated tablet per day (grey-red, oval-oblong film) for 7 days.
+The patient should take one 20 mg film-coated tablet per day (grey-red, oval-oblong) for 7 days.
 
 Elderly: On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (20 mg once a day) as described above.
 

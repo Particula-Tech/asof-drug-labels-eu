@@ -2,7 +2,6 @@
 
 Absorption: Memantine has an absolute bioavailability of approximately 100%. tmax is between 3 and 8 hours.
 There is no indication that food influences the absorption of memantine.
-
 Distribution: Daily doses of 20 mg lead to steady-state plasma concentrations of memantine ranging from 70 to 150 ng/ml (0.5 - 1 µmol) with large interindividual variations.
 When daily doses of 5 to 30 mg were administered, a mean cerebrospinal fluid (CSF)/serum ratio of 0.52 was calculated.
 The volume of distribution is around 10 l/kg.

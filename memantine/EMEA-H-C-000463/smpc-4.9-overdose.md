@@ -8,7 +8,6 @@ In the overdose cases below 140 mg or unknown dose the patients revealed symptom
 In the most extreme case of overdose, the patient survived the oral intake of a total of 2000 mg memantine with effects on the central nervous system (coma for 10 days, and later diplopia and agitation).
 The patient received symptomatic treatment and plasmapheresis.
 The patient recovered without permanent sequelae.
-
 In another case of a large overdose, the patient also survived and recovered.
 The patient had received 400 mg memantine orally.
 The patient experienced central nervous system symptoms such as restlessness, psychosis, visual hallucinations, proconvulsiveness, somnolence, stupor, and unconsciousness.

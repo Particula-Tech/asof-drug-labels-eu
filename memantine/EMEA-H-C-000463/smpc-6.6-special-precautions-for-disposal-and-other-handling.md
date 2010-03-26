@@ -13,7 +13,6 @@ The dosing pump has to be removed from the plastic bag (fig.
 2) and placed on top of the bottle, sliding the plastic dip tube carefully into the bottle.
 Then the dosing pump needs to be hold onto the neck of the bottle and screwed clockwise until it is firmly attached (fig 3).
 For the intended use the dosing pump is only screwed on once when starting the use, and should never be unscrewed.
-
 Use of the dosing pump for dispensing:
 
 The dosing pump head has two positions and is easy to turn – anticlockwise (unlocked position) and clockwise (locked position).
