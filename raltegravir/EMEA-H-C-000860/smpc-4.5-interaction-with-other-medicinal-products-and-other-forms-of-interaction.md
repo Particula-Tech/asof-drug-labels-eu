@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-In vitro studies indicated that raltegravir is not a substrate of cytochrome P450 (CYP) enzymes, does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A, does not induce CYP3A4 and does not inhibit P-glycoprotein-mediated transport.
+In vitro studies indicate that raltegravir is not a substrate of cytochrome P450 (CYP) enzymes, does not inhibit CYP1A2, CYP2B6, CYP2C8, CYP2C9, CYP2C19, CYP2D6 or CYP3A, does not induce CYP3A4 and does not inhibit P-glycoprotein-mediated transport.
 Based on these data, ISENTRESS is not expected to affect the pharmacokinetics of medicinal products that are substrates of these enzymes or P-glycoprotein.
 
 Based on in vitro and in vivo studies, raltegravir is eliminated mainly by metabolism via a UGT1A1-mediated glucuronidation pathway.

@@ -18,9 +18,8 @@ Administration of raltegravir following a low-fat meal decreased AUC and Cmax by
 Food appears to increase pharmacokinetic variability relative to fasting.
 
 Overall, considerable variability was observed in the pharmacokinetics of raltegravir.
-For observed C12hr in BENCHMRK 1 and 2 the coefficient of variation (CV) for inter-subject variability = 212 % and the CV for intra-subject variability = 122 %.
+For observed C12 hr in BENCHMRK 1 and 2 the coefficient of variation (CV) for inter-subject variability = 212 % and the CV for intra-subject variability = 122 %.
 Sources of variability may include differences in co-administration with food and concomitant medications.
-
 Distribution
 Raltegravir is approximately 83 % bound to human plasma protein over the concentration range of 2 to 10 µM.
 Raltegravir readily crossed the placenta in rats, but did not penetrate the brain to any appreciable extent.
@@ -33,6 +32,7 @@ Two components, namely raltegravir and raltegravir-glucuronide, were detected in
 The major circulating entity was raltegravir and represented approximately 70 % of the total radioactivity; the remaining radioactivity in plasma was accounted for by raltegravir-glucuronide.
 Studies using isoform-selective chemical inhibitors and cDNA-expressed UDP-glucuronosyltransferases (UGT) show that UGT1A1 is the main enzyme responsible for the formation of raltegravir-glucuronide.
 Thus the data indicate that the major mechanism of clearance of raltegravir in humans is UGT1A1-mediated glucuronidation.
+
 UGT1A1 Polymorphism
 In a comparison of 30 subjects with *28/*28 genotype to 27 subjects with wild-type genotype, the geometric mean ratio (90 % CI) of AUC was 1.41 (0.96, 2.09) and the geometric mean ratio of C12 hr was 1.91 (1.43, 2.55).
 Dose adjustment is not considered necessary in subjects with reduced UGT1A1 activity due to genetic polymorphism.

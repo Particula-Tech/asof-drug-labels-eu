@@ -36,5 +36,7 @@ However, if co-administration with rifampicin is unavoidable, a doubling of the 
 Myopathy and rhabdomyolysis have been reported; however, the relationship of ISENTRESS to these events is not known.
 Use with caution in patients who have had myopathy or rhabdomyolysis in the past or have any predisposing issues including other medicinal products associated with these conditions (see section 4.8).
 
+Rash occurred more commonly in treatment-experienced patients receiving regimens containing ISENTRESS + darunavir compared to patients receiving ISENTRESS without darunavir or darunavir without ISENTRESS (see section 4.8).
+
 ISENTRESS contains lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
