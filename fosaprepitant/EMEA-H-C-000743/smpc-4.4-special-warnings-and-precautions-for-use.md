@@ -20,6 +20,10 @@ Concomitant administration of fosaprepitant with herbal preparations containing 
 
 Concomitant administration of fosaprepitant with active substances that inhibit CYP3A4 activity (e.g., ketoconazole, itraconazole, voriconazole, posaconazole, clarithromycin, telithromycin, nefazodone, and protease inhibitors) should be approached cautiously as the combination is expected to result in increased plasma concentrations of aprepitant (see section 4.5).
 
+Isolated reports of immediate hypersensitivity reactions including flushing, erythema, and dyspnea have occurred during infusion of fosaprepitant.
+These hypersensitivity reactions have generally responded to discontinuation of the infusion and administration of appropriate therapy.
+It is not recommended to reinitiate the infusion in patients who experience hypersensitivity reactions.
+
 IVEMEND should not be given as a bolus injection, but should always be diluted and given as a slow intravenous infusion (see section 4.2).
 IVEMEND should not be administered intramuscularly or subcutaneously.
 Mild injection site thrombosis has been observed at higher doses (see section 4.9).

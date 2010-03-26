@@ -1,9 +1,11 @@
 # 4.8 Undesirable effects
 
 Since fosaprepitant is converted to aprepitant, those adverse reactions associated with aprepitant are expected to occur with fosaprepitant.
-The safety profile of aprepitant was evaluated in approximately 5300 individuals.
-Various formulations of fosaprepitant have been administered to a total of 1030 individuals including 347 healthy subjects and 450 patients with CINV.
+The safety profile of fosaprepitant was evaluated in approximately 1100 individuals.
+The safety profile of aprepitant was evaluated in approximately 6100 individuals.
+Various formulations of fosaprepitant have been administered to a total of 2183 individuals including 371 healthy subjects and 1579 patients with CINV.
 
+Oral aprepitant
 Adverse reactions considered as drug-related by the investigator were reported in approximately 17 % of patients treated with the aprepitant regimen compared with approximately 13 % of patients treated with standard therapy in patients receiving highly emetogenic chemotherapy (HEC).
 Aprepitant was discontinued due to adverse reactions in 0.6 % of patients treated with the aprepitant regimen compared with 0.4 % of patients treated with standard therapy.
 In a combined analysis of 2 clinical studies of patients receiving moderately emetogenic chemotherapy (MEC), clinical adverse reactions were reported in approximately 14 % of patients treated with the aprepitant regimen compared with approximately 15 % of patients treated with standard therapy.
@@ -13,7 +15,6 @@ The most common adverse reactions reported at a greater incidence in patients tr
 The most common adverse reaction reported at a greater incidence in patients treated with the aprepitant regimen than with standard therapy in patients receiving moderately emetogenic chemotherapy was fatigue (1.4 % versus 0.9 %).
 
 The following adverse reactions were observed in either HEC or MEC studies in patients treated with the aprepitant regimen and at a greater incidence than with standard therapy:
-
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 | System Organ Class | Adverse reaction | Frequency |
@@ -44,17 +45,34 @@ Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); u
 *Nausea and vomiting were efficacy parameters in the first 5 days of post-chemotherapy treatment and were reported as adverse reactions only thereafter.
 
 The adverse reactions profiles in the Multiple-Cycle extension of HEC and MEC studies for up to 6 additional cycles of chemotherapy were generally similar to those observed in Cycle 1.
+In an additional active-controlled clinical study in 1169 patients receiving aprepitant and highly emetogenic chemotherapy, the adverse reactions profile was generally similar to that seen in the other HEC studies with aprepitant.
 
 Additional adverse reactions were observed in patients treated with aprepitant (40 mg) for postoperative nausea and vomiting and a greater incidence than with ondansetron: abdominal pain upper, bowel sounds abnormal, dysarthria, dyspnoea, hypoaesthesia, insomnia, miosis, nausea, sensory disturbance, stomach discomfort, visual acuity reduced, wheezing.
 
 In addition, two serious adverse reactions were reported in clinical studies in postoperative nausea and vomiting (PONV) in patients taking a higher dose of aprepitant: one case of constipation, and one case of sub-ileus.
 
 One case of Stevens-Johnson syndrome was reported as a serious adverse event in a patient receiving aprepitant with cancer chemotherapy.
-In addition, infusion site induration and infusion site pain were common adverse reactions in a bioequivalence study in which 66 subjects were dosed with 115 mg of fosaprepitant intravenously.
 
 One case of angioedema and urticaria was reported as a serious adverse event in a patient receiving aprepitant in a non-CINV/non-PONV study.
 
+IVEMEND (fosaprepitant)
+In an active-controlled clinical study in patients receiving highly emetogenic chemotherapy, safety was evaluated for 1143 patients receiving the 1-day regimen of fosaprepitant 150 mg compared to 1169 patients receiving the 3-day regimen of aprepitant.
+The safety profile was generally similar to that seen in the aprepitant table above.
+
+The following are clinically important adverse reactions reported in patients receiving fosaprepitant that have not been reported with aprepitant as described above.
+Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000), not known (cannot be estimated from the available data).
+
+| System Organ Class | Adverse reaction | Frequency |
+| --- | --- | --- |
+| Investigations | blood pressure increased | uncommon |
+| Nervous system disorders | somnolence | uncommon |
+| Skin and subcutaneous tissue disorders | erythema | uncommon |
+| Vascular disorders | flushing, thrombophlebitis (predominantly, infusion-site thrombophlebitis) | uncommon |
+| General disorders and administration site conditions | infusion site erythema, infusion site pain, infusion site pruritus, infusion site induration | uncommon |
+
 Post-marketing experience
-During post-marketing experience with aprepitant the following side effects have been reported (frequency not known):
+During post-marketing experience, the following side effects have been reported (frequency not known):
 Skin and subcutaneous tissue disorders: pruritus, rash, urticaria
 Immune system disorders: hypersensitivity reactions including anaphylactic reactions
+
+Immediate hypersensitivity reactions have been observed during the infusion of fosaprepitant which may include the following: flushing, erythema, dyspnea (see section 4.4).

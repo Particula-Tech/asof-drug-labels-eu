@@ -69,7 +69,6 @@ The effect is maintained for a few days, thereafter slowly declines and is clini
 Mild induction of glucuronidation is also seen with 80 mg oral aprepitant given for 7 days.
 Data are lacking regarding effects on CYP2C8 and CYP2C19.
 Caution is advised when warfarin, acenocoumarol, tolbutamide, phenytoin or other active substances that are known to be metabolised by CYP2C9 are administered during this time period.
-
 Warfarin: In patients on chronic warfarin therapy, the prothrombin time (INR) should be monitored closely during treatment with fosaprepitant or aprepitant and for 2 weeks following each 3-day regimen for chemotherapy induced nausea and vomiting (see section 4.4).
 When a single 125 mg dose of oral aprepitant was administered on Day 1 and 80 mg/day on Days 2 and 3 to healthy subjects who were stabilised on chronic warfarin therapy, there was no effect of oral aprepitant on the plasma AUC of R(+) or S(-) warfarin determined on Day 3; however, there was a 34 % decrease in S(-) warfarin (a CYP2C9 substrate) trough concentration accompanied by a 14 % decrease in INR 5 days after completion of dosing with oral aprepitant.
 
