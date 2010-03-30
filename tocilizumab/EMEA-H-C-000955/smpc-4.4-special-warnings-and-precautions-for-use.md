@@ -43,6 +43,9 @@ There may be an increased risk of neutropenia in patients who have previously be
 Caution should be exercised when considering initiation of RoActemra treatment in patients with a low neutrophil or platelet count (i.e. ANC < 2 x 109/ l or platelet count below 100 x 103/ μl).
 In patients with an ANC < 0.5 x 109/ l or a platelet count < 50 x 103/ μl treatment is not recommended.
 
+Severe neutropenia may be associated with an increased risk of serious infections, although there has been no clear association between decreases in neutrophils and the occurrence of serious infections in clinical trials with RoActemra to date.
+(EMEA/H/C/955/II/008)
+
 Neutrophils and platelets should be monitored 4 to 8 weeks after start of therapy and thereafter according to standard clinical practice.
 For recommended dose modifications based on ANC and platelet counts, see section 4.2.
 
@@ -60,9 +63,9 @@ The potential for central demyelination with RoActemra is currently unknown.
 Malignancy
 The risk of malignancy is increased in patients with RA.
 Immunomodulatory medicinal products may increase the risk of malignancy.
-
 Vaccinations
 Live and live attenuated vaccines should not be given concurrently with RoActemra as clinical safety has not been established.
+
 Cardiovascular risk
 RA patients have an increased risk for cardiovascular disorders and should have risk factors (e.g. hypertension, hyperlipidaemia) managed as part of usual standard of care.
 
