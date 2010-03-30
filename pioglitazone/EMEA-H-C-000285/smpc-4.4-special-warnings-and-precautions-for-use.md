@@ -13,6 +13,7 @@ A cardiovascular outcome study of pioglitazone has been performed in patients un
 Pioglitazone or placebo was added to existing antidiabetic and cardiovascular therapy for up to 3.5 years.
 This study showed an increase in reports of heart failure, however this did not lead to an increase in mortality in this study.
 Caution should be exercised in patients over 75 years because of the limited experience in this patient group.
+
 Monitoring of liver function:
 
 There have been rare reports of hepatocellular dysfunction during post-marketing experience (see section 4.8).
@@ -55,9 +56,9 @@ An increased incidence in bone fractures in women was seen in a pooled analysis 
 
 Fractures were observed in 2.6% of women taking pioglitazone compared to 1.7% of women treated with a comparator.
 No increase in fracture rates was observed in men treated with pioglitazone (1.3%) versus comparator (1.5%).
+
 The fracture incidence calculated was 1.9 fractures per 100 patient years in women treated with pioglitazone and 1.1 fractures per 100 patient years in women treated with a comparator.
 The observed excess risk of fractures for women in this dataset on pioglitazone is therefore 0.8 fractures per 100 patient years of use.
-
 In the 3.5 year cardiovascular risk PROactive study, 44/870 (5.1%; 1.0 fractures per 100 patient years) of pioglitazone-treated female patients experienced fractures compared to 23/905 (2.5%; 0.5 fractures per 100 patient years) of female patients treated with comparator.
 No increase in fracture rates was observed in men treated with pioglitazone (1.7%) versus comparator (2.1%).
 

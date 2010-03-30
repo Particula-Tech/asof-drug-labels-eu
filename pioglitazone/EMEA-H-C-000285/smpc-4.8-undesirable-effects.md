@@ -5,6 +5,7 @@ Frequencies are defined as: very common >1/10; common > 1/100, < 1/10; uncommon 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 PIOGLITAZONE MONOTHERAPY
+
 Eye disorders
 
 Common: visual disturbance
@@ -26,6 +27,7 @@ Common: hypoaesthesia
 Uncommon: insomnia
 
 PIOGLITAZONE IN COMBINATION THERAPY WITH METFORMIN
+
 Blood and lymphatic system disorders
 
 Common: anaemia
@@ -41,10 +43,10 @@ Uncommon: flatulence
 Investigations
 
 Common: weight increased
+
 Musculoskeletal system and connective tissue disorders
 
 Common: arthralgia
-
 Nervous system disorders
 
 Common: headache
@@ -58,6 +60,7 @@ Reproductive system and breast disorders
 Common: erectile dysfunction
 
 PIOGLITAZONE IN COMBINATION THERAPY WITH SULPHONYLUREA
+
 Ear and labyrinth disorders
 
 Uncommon: vertigo
@@ -93,10 +96,10 @@ Uncommon: headache
 Renal and urinary disorders
 
 Uncommon: glycosuria, proteinuria
+
 Skin and subcutaneous tissue disorders
 
 Uncommon: sweating
-
 PIOGLITAZONE IN TRIPLE ORAL COMBINATION THERAPY WITH METFORMIN AND SULPHONYLUREA
 
 Investigations
@@ -112,6 +115,7 @@ Musculoskeletal and connective tissue disorders
 Common: arthralgia
 
 PIOGLITAZONE IN COMBINATION THERAPY WITH INSULIN
+
 Metabolism and nutrition disorders
 
 Common: hypoglycaemia
@@ -143,11 +147,12 @@ Common: heart failure
 POST-MARKETING DATA
 
 Eye disorders
+
 Macular oedema: not known
+
 Oedema was reported in 6 – 9 % of patients treated with pioglitazone over one year in controlled clinical trials.
 The oedema rates for comparator groups (sulphonylurea, metformin) were 2 – 5 %.
 The reports of oedema were generally mild to moderate and usually did not require discontinuation of treatment.
-
 In active comparator controlled trials mean weight increase with pioglitazone given as monotherapy was 2 – 3 kg over one year.
 This is similar to that seen in a sulphonylurea active comparator group.
 In combination trials pioglitazone added to metformin resulted in mean weight increase over one year of 1.5 kg and added to a sulphonylurea of 2.8 kg.
