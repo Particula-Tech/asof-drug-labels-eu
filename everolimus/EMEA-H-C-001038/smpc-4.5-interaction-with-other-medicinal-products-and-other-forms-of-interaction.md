@@ -34,6 +34,7 @@ Table 1 Effects of other active substances on everolimus
 | Grapefruit juice or other food affecting CYP3A4/PgP | Not studied. Increased exposure expected (the effect varies widely). | Combination should be avoided. |
 | Potent CYP3A4 inducers |  |  |
 | Rifampicin | AUC ↓63% (range 0-80%) Cmax ↓58% (range 10-70%) | Avoid the use of concomitant potent CYP3A4 inducers. If patients require co-administration of a potent CYP3A4 inducer, an Afinitor dose increase from 10 mg daily up to 20 mg daily should be considered using 5 mg increments applied on Day 4 and 8 following start of the inducer. This dose of Afinitor is predicted to adjust the AUC to the range observed without inducers. However, there are no clinical data with this dose adjustment. If treatment with the inducer is discontinued, the Afinitor dose should be returned to the dose used prior to initiation of the co-administration. |
+| Corticosteroids (e.g. dexamethasone, prednisone, prednisolone) | Not studied. Decreased exposure expected. |  |
 | Carbamazepine, phenobarbital, phenytoin | Not studied. Decreased exposure expected. |  |
 | Efavirenz, nevirapine | Not studied. Decreased exposure expected. |  |
 | St John’s Wort (Hypericum perforatum) | Not studied. Large decrease in exposure expected. | Preparations containing St John’s Wort should not be used during treatment with everolimus |

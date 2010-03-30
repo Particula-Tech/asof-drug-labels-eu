@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 Fertility
 Based on non-clinical findings, male fertility may be compromised by treatment with everolimus (see section 5.3).

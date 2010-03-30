@@ -15,16 +15,18 @@ For cases where symptoms of non-infectious pneumonitis are severe, Afinitor ther
 Therapy with Afinitor may be re-initiated at 5 mg daily depending on the individual clinical circumstances.
 
 Infections
-Afinitor has immunosuppressive properties and may predispose patients to infections, especially infections with opportunistic pathogens (see section 4.8).
-Localised and systemic infections, including pneumonia, other bacterial infections and invasive fungal infections, such as aspergillosis or candidiasis, have been described in patients taking Afinitor.
-Some of these infections have been severe (e.g. leading to respiratory failure) and occasionally fatal.
-Physicians and patients should be aware of the increased risk of infection with Afinitor, be vigilant for symptoms and signs of infection, and institute appropriate treatment promptly.
+Afinitor has immunosuppressive properties and may predispose patients to bacterial, fungal, viral or protozoan infections, including infections with opportunistic pathogens (see section 4.8).
+Localised and systemic infections, including pneumonia, other bacterial infections, invasive fungal infections such as aspergillosis or candidiasis, and viral infections including reactivation of hepatitis B virus, have been described in patients taking Afinitor.
+Some of these infections have been severe (e.g. leading to respiratory or hepatic failure) and occasionally fatal.
 
-Pre-existing infections should be treated appropriately and have resolved fully before starting treatment with Afinitor.
+Physicians and patients should be aware of the increased risk of infection with Afinitor.
+Pre-existing infections should be treated appropriately and should have resolved fully before starting treatment with Afinitor.
+While taking Afinitor, be vigilant for symptoms and signs of infection; if a diagnosis of infection is made, institute appropriate treatment promptly and consider interruption or discontinuation of Afinitor.
+
 If a diagnosis of invasive systemic fungal infection is made, Afinitor treatment should be promptly and permanently discontinued and the patient treated with appropriate antifungal therapy.
-
 Hypersensitivity reactions
 Hypersensitivity reactions manifested by symptoms including, but not limited to, anaphylaxis, dyspnoea, flushing, chest pain or angioedema (e.g. swelling of the airways or tongue, with or without respiratory impairment) have been observed with everolimus (see section 4.3).
+
 Oral ulceration
 Mouth ulcers, stomatitis and oral mucositis have been observed in patients treated with Afinitor (see section 4.8).
 In such cases topical treatments are recommended, but alcohol- or peroxide-containing mouthwashes should be avoided as they may exacerbate the condition.
@@ -37,7 +39,6 @@ Monitoring of renal function, including measurement of blood urea nitrogen (BUN)
 
 Blood glucose and lipids
 Hyperglycaemia, hyperlipidaemia and hypertrigylceridaemia have been reported in clinical trials (see section 4.8).
-The majority of cases of hyperglycaemia occurred in patients who had an abnormal fasting glucose level before taking Afinitor.
 Monitoring of fasting serum glucose is recommended prior to the start of Afinitor therapy and periodically thereafter.
 When possible optimal glycaemic control should be achieved before starting a patient on Afinitor.
 

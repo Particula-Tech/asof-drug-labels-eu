@@ -83,3 +83,6 @@ Investigations
 Common Weight decreased
 
 a Includes all events within the ‘infections and infestations’ system organ class (such as pneumonia, sepsis, and opportunistic infections [e.g. aspergillosis and candidiasis (see also section 4.4)]) b Frequency based on determination of abnormal laboratory value (as part of routine laboratory assessment) c Includes pneumonitis, interstitial lung disease, lung infiltration, pulmonary alveolar haemorrhage, pulmonary toxicity, and alveolitis d Includes stomatitis and aphthous stomatitis, and mouth and tongue ulceration
+Information from further clinical studies
+In clinical studies, everolimus has been associated with serious cases of hepatitis B reactivation, including fatal outcome.
+Reactivation of infection is an expected event during periods of immunosuppression.
