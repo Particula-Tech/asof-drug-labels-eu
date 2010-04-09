@@ -55,10 +55,10 @@ It is recommended that the dosing interval for tenofovir disoproxil 245 mg (as f
 
 The pharmacokinetics of tenofovir in non-haemodialysis patients with creatinine clearance
 < 10 ml/min and in patients with ESRD managed by peritoneal or other forms of dialysis have not been studied.
-
 Hepatic impairment
 A single 245 mg dose of tenofovir disoproxil was administered to non-HIV, non-HBV infected patients with varying degrees of hepatic impairment defined according to Child-Pugh-Turcotte (CPT) classification.
 Tenofovir pharmacokinetics were not substantially altered in subjects with hepatic impairment suggesting that no dose adjustment is required in these subjects.
 The mean (%CV) tenofovir Cmax and AUC0-∞ values were 223 (34.8%) ng/ml and 2,050 (50.8%) ng·h/ml, respectively, in normal subjects compared with 289 (46.0%) ng/ml and 2,310 (43.5%) ng·h/ml in subjects with moderate hepatic impairment, and 305 (24.8%) ng/ml and 2,740 (44.0%) ng·h/ml in subjects with severe hepatic impairment.
+
 Intracellular pharmacokinetics
 In non-proliferating human peripheral blood mononuclear cells (PBMCs) the half-life of tenofovir diphosphate was found to be approximately 50 hours, whereas the half-life in phytohaemagglutinin-stimulated PBMCs was found to be approximately 10 hours.

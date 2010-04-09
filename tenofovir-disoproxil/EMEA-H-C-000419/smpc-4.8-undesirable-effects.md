@@ -51,7 +51,7 @@ Common: ALT increase
 General disorders and administration site conditions:
 Common: fatigue
 
-Treatment beyond 48 weeks: Continued treatment with tenofovir disoproxil fumarate for 96 weeks, in studies GS-US-174-0102 and GS-US-174-0103, did not reveal any new adverse reactions and no change in the tolerability profile (nature or severity of adverse events).
+Treatment beyond 48 weeks: Continued treatment with tenofovir disoproxil fumarate for 144 weeks, in studies GS-US-174-0102 and GS-US-174-0103, did not reveal any new adverse reactions and no change in the tolerability profile (nature or severity of adverse events).
 
 Exacerbations during treatment: In studies with nucleoside-naïve patients, on-treatment ALT elevations > 10 times ULN (upper limit of normal) and > 2 times baseline occurred in 2.6% of tenofovir disoproxil fumarate-treated patients versus 1.9% of adefovir dipivoxil-treated patients.
 Among tenofovir disoproxil fumarate-treated patients, on-treatment ALT elevations had a median time to onset of 8 weeks, resolved with continued treatment, and, in a majority of cases, were associated with a ≥ 2 log10 copies/ml reduction in viral load that preceded or coincided with the ALT elevation.
