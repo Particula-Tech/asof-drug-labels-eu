@@ -44,7 +44,6 @@ Caution should be exercised when considering initiation of RoActemra treatment i
 In patients with an ANC < 0.5 x 109/ l or a platelet count < 50 x 103/ μl treatment is not recommended.
 
 Severe neutropenia may be associated with an increased risk of serious infections, although there has been no clear association between decreases in neutrophils and the occurrence of serious infections in clinical trials with RoActemra to date.
-(EMEA/H/C/955/II/008)
 
 Neutrophils and platelets should be monitored 4 to 8 weeks after start of therapy and thereafter according to standard clinical practice.
 For recommended dose modifications based on ANC and platelet counts, see section 4.2.
