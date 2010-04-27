@@ -13,3 +13,7 @@ TAXOTERE 20 mg/1 ml concentrate for solution for infusion
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
 TAXOTERE 80 mg/4 ml concentrate for solution for infusion
+
+[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
+
+TAXOTERE 160 mg/8 ml concentrate for solution for infusion.

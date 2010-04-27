@@ -104,3 +104,7 @@ The amount of alcohol in this medicinal product may impair the patients ability 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
 This medicinal product contains 50 vol % ethanol (alcohol), i.e. up to 1.58 g (2 ml) per vial, equivalent to 40 ml of beer or 17 ml wine per vial.
+
+[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
+
+This medicinal product contains 50 vol % ethanol (alcohol), i.e. up to 3.16 g (4 ml) per vial, equivalent to 80 ml of beer or 33 ml wine per vial.

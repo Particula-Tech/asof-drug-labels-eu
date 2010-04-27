@@ -10,10 +10,14 @@ The solvent is a colourless solution.
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
-Concentrate for solution for infusion (steril concentrate).
+Concentrate for solution for infusion (sterile concentrate).
 
 The concentrate is a pale yellow to brownish-yellow solution.
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
+
+(all sentences already above)
+
+[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 
 (all sentences already above)

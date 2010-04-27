@@ -131,3 +131,7 @@ TAXOTERE is not recommended for use in children due to insufficient data on safe
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
 (all sentences already above)
+
+[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
+
+(all sentences already above)

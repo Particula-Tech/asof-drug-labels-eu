@@ -25,3 +25,9 @@ Each vial of concentrate contains 0.5 ml of ethanol anhydrous (395 mg).
 One vial of 4 ml of concentrate contains 80 mg of docetaxel.
 
 Each vial of concentrate contains 2 ml of ethanol anhydrous (1.58 g).
+
+[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
+
+One vial of 8 ml of concentrate contains 160 mg of docetaxel.
+
+Each vial of concentrate contains 4 ml of ethanol anhydrous (3.16 g).

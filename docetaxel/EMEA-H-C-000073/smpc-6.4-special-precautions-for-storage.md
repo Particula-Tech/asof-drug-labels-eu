@@ -15,3 +15,7 @@ Do not store above 25°C.
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
 (all sentences already above)
+
+[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
+
+(all sentences already above)

@@ -11,15 +11,27 @@
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
-Vial
+Unopened vial
 
-After opening
+After opening of the vial
 Each vial is for single use and should be used immediately after opening.
 If not used immediately, in-use storage times and conditions are the responsibility of the user.
 Once added to the infusion bag
-From microbiological point of view the medicinal product should be used immediately.
-If not used immediately, in-use storage times and conditions are the responsibility of the user and would normally not be longer than 4 hours below 25°C including the one hour infusion to the patient.
+From a microbiological point of view, reconstitution/dilution must take place in controlled and aseptic conditions and the medicinal product should be used immediately.
+
+Once added as recommended into the infusion bag, the docetaxel infusion solution, if stored below 25°C, is stable for 6 hours.
+It should be used within 6 hours (including the one hour infusion IV administration).
+
+In addition, physical and chemical in-use stability of the infusion solution prepared as recommended has been demonstrated in non-PVC bags up to 48 hours when stored between 2 to 8°C.
+
+Docetaxel infusion solution is supersaturated, therefore may crystallize over time.
+If crystals appear, the solution must no longer be used and shall be discarded.
+.
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
+
+(all sentences already above)
+
+[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 
 (all sentences already above)

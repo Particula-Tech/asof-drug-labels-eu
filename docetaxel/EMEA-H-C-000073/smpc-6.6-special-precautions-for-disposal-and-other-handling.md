@@ -62,9 +62,9 @@ More than one vial of TAXOTERE concentrate for solution for infusion may be nece
 Aseptically withdraw the required amount of TAXOTERE concentrate for solution for infusion using a calibrated syringe.
 
 In TAXOTERE 20 mg /1 ml vial the concentration of docetaxel is 20 mg/ml.
-The required volume of TAXOTERE concentrate for solution for infusion must be injected into a 250 ml infusion bag or bottle containing either 5% glucose solution or sodium chloride 9 mg/ml (0.9%) solution for injection.
+The required volume of TAXOTERE concentrate for solution for infusion must be injected via a single injection (one shot) into a 250 ml infusion bag or bottle containing either 5% glucose solution or sodium chloride 9 mg/ml (0.9%) solution for infusion.
 
-The infusion bag solution should be used within 4 hours below 25°C including the one hour infusion to the patient.
+The infusion bag solution should be used within 6 hours below 25°C including the one hour infusion to the patient.
 As with all parenteral products, TAXOTERE infusion solution should be visually inspected prior to use, solutions containing a precipitate should be discarded.
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
@@ -73,4 +73,12 @@ DO NOT use other docetaxel medicinal products consisting of 2 vials (concentrate
 
 TAXOTERE 80 mg/4 ml concentrate for solution for infusion requires NO prior dilution with a solvent and is ready to add to the infusion solution.
 
-In TAXOTERE 80mg /4 ml vial the concentration of docetaxel is 20 mg/ml.
+In TAXOTERE 80 mg /4 ml vial the concentration of docetaxel is 20 mg/ml.
+
+[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
+
+DO NOT use other docetaxel medicinal products consisting of 2 vials (concentrate and solvent) with this medicinal product (TAXOTERE 160 mg/8 ml concentrate for solution for infusion, which contains only 1 vial).
+
+TAXOTERE 160 mg/8 ml concentrate for solution for infusion requires NO prior dilution with a solvent and is ready to add to the infusion solution.
+
+In TAXOTERE 160 mg/8 ml vial the concentration of docetaxel is 20 mg/ml.

@@ -330,3 +330,7 @@ There was less use of morphinic analgesic (p < 0.01), non-morphinic analgesics (
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
 (all sentences already above)
+
+[TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
+
+(all sentences already above)
