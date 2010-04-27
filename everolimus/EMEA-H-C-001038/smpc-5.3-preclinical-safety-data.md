@@ -15,6 +15,5 @@ In rats, everolimus caused embryo/foetotoxicity at systemic exposure below the t
 This was manifested as mortality and reduced foetal weight.
 The incidence of skeletal variations and malformations (e.g. sternal cleft) was increased at 0.3 and 0.9 mg/kg.
 In rabbits, embryotoxicity was evident in an increase in late resorptions.
-
 Genotoxicity studies covering relevant genotoxicity endpoints showed no evidence of clastogenic or mutagenic activity.
 Administration of everolimus for up to 2 years did not indicate any oncogenic potential in mice and rats up to the highest doses, corresponding respectively to 4.3 and 0.2 times the estimated clinical exposure.

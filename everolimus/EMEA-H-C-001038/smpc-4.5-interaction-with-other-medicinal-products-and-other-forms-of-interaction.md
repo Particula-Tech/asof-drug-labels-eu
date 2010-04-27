@@ -42,7 +42,6 @@ Table 1 Effects of other active substances on everolimus
 Agents whose plasma concentration may be altered by everolimus
 Based on in vitro results, the systemic concentrations obtained after oral daily doses of 10 mg make inhibition of PgP, CYP3A4 and CYP2D6 unlikely.
 However, inhibition of CYP3A4 and PgP in the gut cannot be excluded; hence everolimus may affect the bioavailability of co-administered drugs which are CYP3A4 and/or PgP substrates.
-
 Vaccinations
 The immune response to vaccination may be affected and, therefore, vaccination may be less effective during treatment with Afinitor.
 The use of live vaccines should be avoided during treatment with Afinitor (see section 4.4).

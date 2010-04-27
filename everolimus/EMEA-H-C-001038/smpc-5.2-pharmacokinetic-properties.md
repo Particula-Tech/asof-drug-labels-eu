@@ -30,12 +30,12 @@ The mean elimination half-life of everolimus is approximately 30 hours.
 No specific excretion studies have been undertaken in cancer patients; however, data are available from the studies in transplant patients.
 Following the administration of a single dose of radiolabelled everolimus in conjunction with ciclosporin, 80% of the radioactivity was recovered from the faeces, while 5% was excreted in the urine.
 The parent substance was not detected in urine or faeces.
-
 Steady-state pharmacokinetics
 After administration of everolimus in patients with advanced solid tumours, steady-state AUC0-τ was dose-proportional over the range of 5 to 10 mg daily dose.
 Steady-state was achieved within two weeks.
 Cmax is dose-proportional between 5 and 10 mg. tmax occurs at 1 to 2 hours post-dose.
 There was a significant correlation between AUC0-τ and pre-dose trough concentration at steady-state.
+
 Special populations
 Hepatic impairment
 The average AUC of everolimus in 8 subjects with moderate hepatic impairment (Child-Pugh class B) was twice that found in 8 subjects with normal hepatic function.

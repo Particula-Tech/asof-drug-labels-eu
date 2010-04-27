@@ -21,8 +21,8 @@ The Independent Data Monitoring Committee recommended termination of this trial 
 
 In total, 416 patients were randomised 2:1 to receive Afinitor (n=277) or placebo (n=139).
 Demographics were well balanced (pooled median age [61 years; range 27-85], 78% male, 88% Caucasian, number of prior VEGFR-TKI therapies [1-74%, 2-26%]).
-
 Afinitor was superior to placebo for the primary endpoint of progression-free survival, with a statistically significant 67% reduction in the risk of progression or death (see Table 3 and Figure 1).
+
 Table 3 Progression-free survival results
 
 | Population | n | Afinitor n=277 | Placebo n=139 | Hazard ratio (95%CI) | p-value |
@@ -60,9 +60,9 @@ Afinitor
 Placebo
 
 Six-month PFS rates were 36% for Afinitor therapy compared with 9% for placebo.
-
 Confirmed objective tumour responses were observed in 5 patients (2%) receiving Afinitor, while none were observed in patients receiving placebo.
 Therefore, the progression-free survival advantage primarily reflects the population with disease stabilisation (corresponding to 67% of the Afinitor treatment group).
+
 No statistically significant treatment-related difference in overall survival was noted (hazard ratio 0.87; confidence interval: 0.65-1.17; p=0.177).
 Crossover to open-label Afinitor following disease progression for patients allocated to placebo confounded the detection of any treatment-related difference in overall survival.
 
