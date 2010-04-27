@@ -47,6 +47,13 @@ Caution is advised when treating patients with a history of syncope receiving me
 Management of orthostatic/postural hypotension may include adjustment of antihypertensive medicinal products, rehydration or administration of mineralocorticosteroids and/or sympathomimetics.
 Patients should be instructed to seek medical advice if they experience symptoms of dizziness, light-headedness or fainting spells.
 
+Reversible Posterior Leukoencephalopathy Syndrome (RPLS)
+There have been reports of RPLS in patients receiving VELCADE.
+RPLS is a rare, reversible, rapidly evolving neurological condition, which can present with seizure, hypertension, headache, lethargy, confusion, blindness, and other visual and neurological disturbances.
+Brain imaging, preferably MRI (Magnetic Resonance Imaging), is used to confirm the diagnosis.
+In patients developing RPLS, discontinue VELCADE.
+The safety of reinitiating VELCADE therapy in patients previously experiencing RPLS is not known.
+
 Heart failure
 Acute development or exacerbation of congestive heart failure, and/or new onset of decreased left ventricular ejection fraction has been reported during bortezomib treatment.
 In a single agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
@@ -70,7 +77,6 @@ Therefore, this specific regimen with concomitant administration with high-dose 
 Renal impairment
 Renal complications are frequent in patients with multiple myeloma.
 Such patients should be monitored closely (see sections 4.2 and 5.2).
-
 Hepatic impairment
 Patients with hepatic impairment should be treated with extreme caution and a dose reduction should be considered (see sections 4.2, 4.3 and 5.2).
 Hepatic reactions
@@ -100,6 +106,12 @@ Bortezomib should be discontinued if serious reactions occur.
 [VELCADE 3.5 mg powder for solution for injection]
 
 Cases of ileus have been uncommonly reported (see section 4.8), therefore patients who experience constipation should be closely monitored.
+
+RPLS is a rare, reversible, rapidly evolving neurological condition which can present with seizure, hypertension, headache, lethargy, confusion, blindness, and other visual and neurological disturbances.
+Brain imaging, preferably
+MRI (Magnetic Resonance Imaging), is used to confirm the diagnosis.
+In patients developing
+RPLS, discontinue VELCADE.
 
 In a single-agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
 

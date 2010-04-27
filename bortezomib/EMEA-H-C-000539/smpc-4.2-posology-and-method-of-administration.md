@@ -44,6 +44,7 @@ Hepatic impairment
 VELCADE has not been studied in patients with impaired hepatic function.
 Significant hepatic impairment may have an impact on the elimination of bortezomib and may increase the likelihood of interactions with other active substances.
 Patients with impaired liver function should be treated with extreme caution and a dose reduction should be considered (see sections 4.3 and 4.4).
+
 Posology for combination therapy
 VELCADE (bortezomib) is administered in combination with oral melphalan and oral prednisone for nine 6-week treatment cycles as shown in Table 2.
 In Cycles 1-4, VELCADE is administered twice weekly (days 1, 4, 8, 11, 22, 25, 29 and 32).

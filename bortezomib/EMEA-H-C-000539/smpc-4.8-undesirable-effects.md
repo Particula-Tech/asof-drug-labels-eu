@@ -6,8 +6,8 @@ Patients were treated with VELCADE as a single agent, or in combination with dex
 
 Adverse reactions are listed below by system organ class and frequency grouping.
 Frequencies are defined as: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
-
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+
 Table 4: Adverse reactions in patients with relapsed/refractory multiple myeloma
 Infections and infestations
 Very common: herpes zoster (including disseminated).
@@ -73,7 +73,7 @@ Uncommon: hepatitis, hepatic haemorrhage, hypoproteinaemia, hyperbilirubinaemia.
 Skin and subcutaneous tissue disorders
 Very common: rash.
 Common: periorbital oedema, urticaria, rash pruritic, pruritus, erythema, sweating increased, dry skin, eczema.
-Uncommon: vasculitic rash, rash erythematous, photosensitivity reaction, contusion, pruritus generalised, rash macular, rash papular, psoriasis, rash generalized, eyelid oedema, face oedema, dermatitis, alopecia, nail disorder, skin discolouration, dermatitis atopic, hair texture abnormal, heat rash, night sweats, pressure sore, ichthyosis, skin nodule.
+Uncommon: rash erythematous, photosensitivity reaction, contusion, pruritus generalised, rash macular, rash papular, psoriasis, rash generalized, eyelid oedema, face oedema, dermatitis, alopecia, nail disorder, skin discolouration, dermatitis atopic, hair texture abnormal, heat rash, night sweats, pressure sore, ichthyosis, skin nodule.
 
 Musculoskeletal, connective tissue and bone disorders
 Very common: myalgia.
@@ -177,7 +177,7 @@ Table 6: Adverse reactions from post-marketing reports
 | Immune system disorders |  |
 | Not known: | Angioedema |
 | Nervous system disorders |  |
-| Not known: | Encephalopathy, autonomic neuropathy |
+| Not known: | Encephalopathy, autonomic neuropathy, reversible posterior leukoencephalopathy syndrome (see section 4.4) |
 | Eye disorders |  |
 | Not known: | Ophthalmic herpes |
 | Cardiac disorders |  |
@@ -189,7 +189,7 @@ Table 6: Adverse reactions from post-marketing reports
 | Hepatobiliary disorders |  |
 | Not known: | Liver failure |
 | Skin and subcutaneous tissue disorders |  |
-| Not known: | Stevens-Johnson Syndrome, toxic epidermal necrolysis |
+| Not known: | Stevens-Johnson Syndrome, toxic epidermal necrolysis, acute febrile neutrophilic dermatosis (Sweet’s syndrome), vasculitic rash (including leukocytoclastic vasculitis) |
 
 [VELCADE 3.5 mg powder for solution for injection]
 
@@ -205,24 +205,3 @@ Antiviral prophylaxis was administered to 26% of the patients in the VcMP arm.
 The incidence of herpes zoster among patients in the VcMP treatment group was 17% for patients not administered antiviral prophylaxis compared to 3% for patients administered antiviral prophylaxis.
 
 Post Marketing Experience
-
-| Infections and infestations |  |
-| --- | --- |
-| Not known: | Herpes meningoencephalitis, septic shock |
-| Immune system disorders |  |
-| Not known: | Angioedema |
-| Nervous system disorders |  |
-| Not known: | Encephalopathy, autonomic neuropathy |
-| Eye disorders |  |
-| Not known: | Ophthalmic herpes |
-| Cardiac disorders |  |
-| Not known: | Cardiac tamponade, pericarditis, cardiac and cardiopulmonary arrest, ventricular arrhythmias, atrio-ventricular block complete, atrial fibrillation, tachycardia, sinus and ventricular tachycardia |
-| Respiratory, thoracic and mediastinal disorders (see section 4.4) |  |
-| Not known: | Pneumonitis, pneumonia, interstitial pneumonia, Acute Respiratory Distress Syndrome (ARDS), acute diffuse infiltrative pulmonary disease, pulmonary hypertension, respiratory failure, pulmonary alveolar haemorrhage, acute pulmonary oedema, pulmonary oedema, pulmonary embolism, peripheral embolism |
-| Gastrointestinal disorders |  |
-| Not known: | Ischemic colitis |
-| Hepatobiliary disorders |  |
-| Not known: | Liver failure |
-| Skin and subcutaneous tissue disorders |  |
-
-Not known: Stevens-Johnson Syndrome, toxic epidermal necrolysis
