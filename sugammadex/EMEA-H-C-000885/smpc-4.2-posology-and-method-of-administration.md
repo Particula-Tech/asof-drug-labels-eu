@@ -2,7 +2,7 @@
 
 Sugammadex should only be administered by, or under the supervision of an anaesthetist.
 The use of an appropriate neuromuscular monitoring technique is recommended to monitor the recovery of neuromuscular blockade.
-As is normal post-anesthetic practice following neuromuscular blockade it is recommended to monitor the patient in the immediate post-operative period for untoward events including re-occurrence of blockade (see section 4.4).
+As is normal post-anaesthetic practice following neuromuscular blockade it is recommended to monitor the patient in the immediate post-operative period for untoward events including re-occurrence of blockade (see section 4.4).
 When certain medicinal products that may cause displacement interactions are administered parenterally within a period of 6 hours of sugammadex, the patient should be monitored for signs of re-occurrence of blockade (see section 4.4 and 4.5).
 The recommended dose of sugammadex depends on the level of neuromuscular blockade to be reversed.
 The recommended dose does not depend on the anaesthetic regimen.

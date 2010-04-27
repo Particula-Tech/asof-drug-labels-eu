@@ -37,7 +37,7 @@ As a result re-occurrence of blockade might be observed.
 In this situation the patient must be ventilated.
 Administration of the medicinal product which caused displacement should be stopped in case of an infusion.
 In situations when potential displacement interactions can be anticipated, patients should be carefully monitored for signs of re-occurrence of blockade (approximately up to 15 minutes) after parenteral administration of another medicinal product occurring within a period of 6 hours after sugammadex administration.
-Displacement interactions are at present only expected for a few drugs substances (toremifene, flucloxacillin and fusidic acid, see section 4.5).
+Displacement interactions are at present only expected for a few drugs substances (toremifene and fusidic acid, see section 4.5).
 
 Light anaesthesia:
 When neuromuscular blockade was reversed intentionally in the middle of anaesthesia in clinical trials, signs of light anaesthesia were noted occasionally (movement, coughing, grimacing and suckling of the tracheal tube).
@@ -66,7 +66,8 @@ A dose of 23 mg sodium is considered essentially ‘sodium-free’.
 If more than 2.4 ml solution needs to be administered, this should be taken into consideration by patients on a controlled sodium diet.
 
 QTc-interval prolongation:
-Two thorough QTc trials (N=146), both in conscious volunteers, demonstrated that sugammadex alone or in combination with rocuronium or vecuronium is not associated with QTc interval prolongation.The one-sided 95 % upper confidence limits for the QTc difference to placebo were well below the 10 ms margin for each of the 12-13 evaluated timepoints in both studies.
+Two thorough QTc trials (N=146), both in conscious volunteers, demonstrated that sugammadex alone or in combination with rocuronium or vecuronium is not associated with QTc interval prolongation.
+The one-sided 95% upper confidence limits for the QTc difference to placebo were well below the 10 ms margin for each of the 12-13 evaluated timepoints in both studies.
 In the clinical program, a few cases of QTc prolongation were reported (QTc> 500 msec or QTc increases> 60 msec) in clinical trials in which patients received sugammadex in combination with sevoflurane or propofol.
 During anaesthesia several medicinal products with the potential to prolong QTc (e.g. sevoflurane) are administered.
 The routine precautions for treating arrhythmia should be taken into consideration.

@@ -20,7 +20,7 @@ In sugammadex treated subjects a few cases of awareness were reported.
 The relation to sugammadex is uncertain.
 
 Re-occurrence of blockade:
-In the data-base of pooled phase I-III studies with a placebo group, the incidence of re-occurrence of blockade as measured with neuromuscular monitoring was 2 % after sugammadex and 0 % in the placebo group.
+In the data-base of pooled phase I-III studies with a placebo group, the incidence of re-occurrence of blockade as measured with neuromuscular monitoring was 2% after sugammadex and 0% in the placebo group.
 Virtually all of these cases were from dose-finding studies in which a sub-optimal dose (less than 2 mg/kg) was administered (see section 4.4).
 
 Additional information on special populations
