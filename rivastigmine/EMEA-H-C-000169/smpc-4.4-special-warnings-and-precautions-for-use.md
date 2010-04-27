@@ -12,10 +12,10 @@ These adverse reactions occur more commonly in women.
 Patients with Alzheimer’s disease may lose weight.
 Cholinesterase inhibitors, including rivastigmine, have been associated with weight loss in these patients.
 During therapy patient’s weight should be monitored.
-
 In case of severe vomiting associated with rivastigmine treatment, appropriate dose adjustments as recommended in section 4.2 must be made.
 Some cases of severe vomiting were associated with oesophageal rupture (see section 4.8).
 Such events appeared to occur particularly after dose increments or high doses of rivastigmine.
+
 Care must be taken when using rivastigmine in patients with sick sinus syndrome or conduction defects (sino-atrial block, atrio-ventricular block) (see section 4.8).
 
 Rivastigmine may cause increased gastric acid secretions.

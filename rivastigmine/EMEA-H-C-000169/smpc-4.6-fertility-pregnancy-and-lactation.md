@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 For rivastigmine no clinical data on exposed pregnancies are available.
 No effects on fertility or embryofoetal development were observed in rats and rabbits, except at doses related to maternal toxicity.

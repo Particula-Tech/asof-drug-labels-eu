@@ -17,10 +17,10 @@ Subsequent increases to 4.5 mg and then 6 mg twice a day should also be based on
 
 If adverse reactions (e.g. nausea, vomiting, abdominal pain or loss of appetite), weight decrease or worsening of extrapyramidal symptoms (e.g. tremor) in patients with dementia associated with Parkinson’s disease are observed during treatment, these may respond to omitting one or more doses.
 If adverse reactions persist, the daily dose should be temporarily reduced to the previous well-tolerated dose or the treatment may be discontinued.
-
 Maintenance dose
 The effective dose is 3 to 6 mg twice a day; to achieve maximum therapeutic benefit patients should be maintained on their highest well tolerated dose.
 The recommended maximum daily dose is 6 mg twice a day.
+
 Maintenance treatment can be continued for as long as a therapeutic benefit for the patient exists.
 Therefore, the clinical benefit of rivastigmine should be reassessed on a regular basis, especially for patients treated at doses less than 3 mg twice a day.
 If after 3 months of maintenance dose treatment the patient’s rate of decline in dementia symptoms is not altered favourably, the treatment should be discontinued.
@@ -106,7 +106,8 @@ The transdermal patch should be pressed down firmly until the edges stick well.
 It can be used in everyday situations, including bathing and during hot weather.
 
 The transdermal patch should be replaced by a new one after 24 hours.
-Only one transdermal patch should be worn at a time.
+Only one transdermal patch should be worn at a time (see section 4.9).
+The transdermal patch should not be cut into pieces.
 Patients and caregivers should be instructed accordingly.
 
 Renal impairment: No dose adjustment is necessary for patients with renal impairment (see section 5.2).
