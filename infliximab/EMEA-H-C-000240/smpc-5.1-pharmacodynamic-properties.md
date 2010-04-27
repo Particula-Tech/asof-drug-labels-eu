@@ -30,6 +30,7 @@ Rheumatoid arthritis
 
 The efficacy of infliximab was assessed in two multicentre, randomised, double-blind, pivotal clinical studies: ATTRACT and ASPIRE.
 In both studies concurrent use of stable doses of folic acid, oral corticosteroids (≤ 10 mg/day) and/or non-steroidal anti-inflammatory drugs (NSAIDs) was permitted.
+
 The primary endpoints were the reduction of signs and symptoms as assessed by the American College of Rheumatology criteria (ACR20 for ATTRACT, landmark ACR-N for ASPIRE), the prevention of structural joint damage, and the improvement in physical function.
 A reduction in signs and symptoms was defined to be at least a 20% improvement (ACR20) in both tender and swollen joint counts, and in 3 of the following 5 criteria: (1) evaluator’s global assessment, (2) patient’s global assessment, (3) functional/disability measure, (4) visual analogue pain scale and (5) erythrocyte sedimentation rate or C-reactive protein.
 ACR-N uses the same criteria as the ACR20, calculated by taking the lowest percent improvement in swollen joint count, tender joint count, and the median of the remaining 5 components of the ACR response.
@@ -241,7 +242,7 @@ In addition, statistically and clinically significant improvements in quality of
 
 Ulcerative colitis
 
-The safety and efficacy of Remicade were assessed in two (ACT 1 and ACT 2) randomized, double-blind, placebo-controlled clinical studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore � 2) with an inadequate response to conventional therapies [oral corticosteroids, aminosalicylates and/or immunomodulators (6-MP, AZA)].
+The safety and efficacy of Remicade were assessed in two (ACT 1 and ACT 2) randomized, double-blind, placebo-controlled clinical studies in adult patients with moderately to severely active ulcerative colitis (Mayo score 6 to 12; Endoscopy subscore ≥ 2) with an inadequate response to conventional therapies [oral corticosteroids, aminosalicylates and/or immunomodulators (6-MP, AZA)].
 Concomitant stable doses of oral aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted.
 In both studies, patients were randomized to receive either placebo, 5 mg/kg Remicade, or 10 mg/kg Remicade at weeks 0, 2, 6, 14 and 22, and in ACT 1 at weeks 30, 38 and 46.
 Corticosteroid taper was permitted after week 8.

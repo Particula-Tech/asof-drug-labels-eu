@@ -97,7 +97,6 @@ In all cases, Remicade treatment was discontinued and/or other treatment institu
 Delayed hypersensitivity: In clinical studies delayed hypersensitivity reactions have been uncommon and have occurred after Remicade-free intervals of less than 1 year.
 In the psoriasis studies, delayed hypersensitivity reactions occurred early in the treatment course.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, with some patients experiencing pruritus, facial, hand or lip oedema, dysphagia, urticaria, sore throat and headache.
-
 There are insufficient data on the incidence of delayed hypersensitivity reactions after Remicade-free intervals of more than 1 year but limited data from clinical studies suggest an increased risk for delayed hypersensitivity with increasing Remicade-free interval.
 
 In a 1-year clinical study with repeated infusions in patients with Crohn's disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
@@ -113,7 +112,7 @@ Due to methodological limitations, a negative assay did not exclude the presence
 Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy.
 In psoriasis patients treated with infliximab as a maintenance regimen in the absence of concomitant immunomodulators, approximately 28% developed antibodies to infliximab (see section 4.4: "Infusion reactions and hypersensitivity").
 
-Infections: Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal infections, and other opportunistic infections have been observed in patients receiving Remicade.
+Infections: Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal, viral, and other opportunistic infections have been observed in patients receiving Remicade.
 Some of these infections have been fatal; the most frequently reported opportunistic infections with a mortality rate of > 5% include pneumocystosis, candidiasis, listeriosis and aspergillosis (see section 4.4).
 
 In clinical studies 36% of infliximab-treated patients were treated for infections compared with 25% of placebo-treated patients.
@@ -132,7 +131,6 @@ In long-term safety follow-up of clinical studies with infliximab of up to 5 yea
 From August 1998 to August 2005, 1,909 cases of suspected malignancies have been reported from post-marketing, clinical studies and registries (321 in Crohn’s disease patients, 1,302 in rheumatoid arthritis patients and 286 in patients with other or unknown indications).
 Among those there were 347 lymphoma cases.
 During this period, the estimated exposure is 1,909,941 patient years since first exposure (see section 4.4).
-
 In an exploratory clinical study involving patients with moderate to severe COPD who were either current smokers or ex-smokers, 157 patients were treated with Remicade at doses similar to those used in rheumatoid arthritis and Crohn’s disease.
 Nine of these patients developed malignancies, including 1 lymphoma.
 The median duration of follow-up was 0.8 years (incidence 5.7% [95% CI 2.65% - 10.6%].
@@ -140,6 +138,7 @@ There was one reported malignancy amongst 77 control patients (median duration o
 The majority of the malignancies developed in the lung or head and neck.
 
 Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients with Crohn’s disease and ulcerative colitis treated with Remicade, the majority of whom were adolescent or young adult males (see section 4.4).
+
 Heart failure: In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
 In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
 At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.

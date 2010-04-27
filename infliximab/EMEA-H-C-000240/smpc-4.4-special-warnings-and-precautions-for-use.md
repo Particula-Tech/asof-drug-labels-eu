@@ -36,7 +36,7 @@ It should be noted that suppression of TNFα may mask symptoms of infection such
 Early recognition of atypical clinical presentations of serious infections and of typical clinical presentation of rare and unusual infections is critical in order to minimize delays in diagnosis and treatment.
 
 Patients taking TNF-blockers are more susceptible to serious infections.
-Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal infections, and other opportunistic infections have been observed in patients treated with infliximab.
+Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal, viral, and other opportunistic infections have been observed in patients treated with infliximab.
 Some of these infections have been fatal; the most frequently reported opportunistic infections with a mortality rate of > 5% include pneumocystosis, candidiasis, listeriosis and aspergillosis.
 Patients who develop a new infection while undergoing treatment with Remicade, should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Remicade should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
@@ -81,13 +81,16 @@ Patients with symptoms or signs of liver dysfunction should be evaluated for evi
 If jaundice and/or ALT elevations ≥ 5 times the upper limit of normal develop(s), Remicade should be discontinued, and a thorough investigation of the abnormality should be undertaken.
 
 Concurrent administration of TNF-alpha inhibitor and anakinra
-Serious infections were seen in clinical studies with concurrent use of anakinra and another TNFα-blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
+Serious infections and neutropenia were seen in clinical studies with concurrent use of anakinra and another TNFα-blocking agent, etanercept, with no added clinical benefit compared to etanercept alone.
 Because of the nature of the adverse events seen with combination of etanercept and anakinra therapy, similar toxicities may also result from the combination of anakinra and other TNFα-blocking agents.
 Therefore, the combination of Remicade and anakinra is not recommended.
 
 Concurrent administration of TNF-alpha inhibitor and abatacept
 In clinical studies concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Remicade and abatacept is not recommended.
+
+Switching between biological DMARDS
+When switching from one biologic to another, patients should continue to be monitored for signs of infection.
 
 Vaccinations
 No data are available on the response to vaccination with live vaccines or on the secondary transmission of infection by live vaccines in patients receiving anti-TNF therapy.
@@ -138,6 +141,11 @@ Since the possibility of increased risk of cancer development in patients with n
 Heart failure
 Remicade should be used with caution in patients with mild heart failure (NYHA class I/II).
 Patients should be closely monitored and Remicade must not be continued in patients who develop new or worsening symptoms of heart failure (see sections 4.3 and 4.8).
+
+Haematologic reactions
+There have been reports of pancytopenia, leucopenia, neutropenia, and thrombocytopenia in patients receiving TNF-blockers, including Remicade.
+All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor).
+Discontinuation of Remicade therapy should be considered in patients with confirmed significant haematologic abnormalities.
 
 Others
 There is limited safety experience of Remicade treatment in patients who have undergone surgical procedures, including arthroplasty.
