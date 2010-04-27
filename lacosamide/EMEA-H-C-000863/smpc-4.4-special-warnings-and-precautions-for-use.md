@@ -31,11 +31,12 @@ Patients (and caregivers of patients) should be advised to seek medical advice s
 
 [Vimpat 15 mg/ml syrup]
 
-Vimpat syrup contains sodium propylhydroxybenzoate (E217) and sodium methylhydroxybenzoate (E219), which may cause allergic reactions (possibly delayed).
+Vimpat syrup contains sodium methylhydroxybenzoate (E219), which may cause allergic reactions (possibly delayed).
 It contains 3.7 g sorbitol (E420) per dose (200 mg lacosamide), corresponding to a calorific value of 9.7 kcal.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
 The syrup contains aspartame (E951), a source of phenylalanine, which may be harmful for people with phenylketonuria.
-It contains 1.06 mmol (or 25.2 mg) sodium per dose (200 mg lacosamide).
+It contains 1.13 mmol (or 26.01 mg) sodium per dose
+(200 mg lacosamide).
 To be taken into consideration for patients on a controlled sodium diet.
 
 [Vimpat 10 mg/ml solution for infusion]

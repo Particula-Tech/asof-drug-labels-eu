@@ -49,8 +49,8 @@ The incidence rate for syncope is uncommon and did not differ between lacosamide
 | Eye disorders | Diplopia | Vision blurred |
 | Ear and labyrinth disorders |  | Vertigo |
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence |
+| Skin and subcutaneous |  | Pruritus |
 
-Skin and subcutaneous Pruritus
 tissue disorders
 General disorders and Gait disturbance
 administration site Asthenia
