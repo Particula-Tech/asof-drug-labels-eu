@@ -41,6 +41,7 @@ The first received placebo injections every week for 52 weeks.
 The second received 20 mg of Humira every week for 52 weeks.
 The third group received 40 mg of Humira every other week with placebo injections on alternate weeks.
 Thereafter, patients enrolled in an open-label extension phase in which 40 mg of Humira was administered every other week up to 60 months.
+
 RA study IV primarily assessed safety in 636 patients with moderately to severely active rheumatoid arthritis who were ≥ 18 years old.
 Patients were permitted to be either disease-modifying, anti-rheumatic drug-naïve or to remain on their pre-existing rheumatologic therapy provided that therapy was stable for a minimum of 28 days.
 These therapies include methotrexate, leflunomide, hydroxychloroquine, sulfasalazine and/or gold salts.
@@ -53,7 +54,6 @@ The primary end point in RA studies I, II and III and the secondary endpoint in 
 The primary endpoint in RA study V was the percent of patients who achieved an ACR 50 response at Week 52.
 RA studies III and V had an additional primary endpoint at 52 weeks of retardation of disease progression (as detected by X-ray results).
 RA study III also had a primary endpoint of changes in quality of life.
-
 ACR response
 
 The percent of Humira-treated patients achieving ACR 20, 50 and 70 responses was consistent across RA studies I, II and III.
@@ -77,12 +77,12 @@ In RA study III, these improvements were maintained throughout 52 weeks.
 In addition, ACR response rates were maintained in the majority of patients followed in the open-label extension phase to Week 104.
 There were 114 out of 207 patients who continued on Humira 40 mg every other week for 60 months.
 Among those, 86, 72, and 41 patients had ACR 20/50/70 response, respectively at Month 60.
+
 In RA study IV, the ACR 20 response of patients treated with Humira plus standard of care was statistically significantly better than patients treated with placebo plus standard of care (p < 0.001).
 
 In RA studies I-IV, Humira-treated patients achieved statistically significant ACR 20 and 50 responses compared to placebo as early as one to two weeks after initiation of treatment.
 
 In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at Week 52 and responses were sustained at Week 104 (see Table 4).
-
 Table 4 ACR Responses in RA Study V
 (percent of patients)
 
@@ -299,6 +299,7 @@ In CD Study III, at Week 4, 58% (499/854) of patients were in clinical response 
 Of those in clinical response at Week 4, 48% had been previously exposed to other anti-TNF therapy.
 Maintenance of remission and response rates are presented in Table 12.
 Clinical remission results remained relatively constant irrespective of previous TNF antagonist exposure.
+
 Table 12
 Maintenance of Clinical Remission and Response
 (Percent of Patients)
@@ -343,7 +344,6 @@ Patients receiving MTX who achieved a ≥PASI 50 response at Week 8 and/or 12 di
 Across all treatment groups, the mean baseline PASI score was 19.7 and the baseline PGA score ranged from “mild” (<1%) to “moderate” (48%) to “severe” (46%) to “very severe” (6%).
 
 In Psoriasis Studies I and II, a primary endpoint was the proportion of patients who achieved a PASI 75 response from baseline at Week 16 (see Tables 13 and 14).
-
 Table 13
 Ps Study I (REVEAL)
 Efficacy - Results at 16 Weeks
@@ -372,6 +372,7 @@ Significant improvements at Week 16 from baseline compared to placebo (Studies I
 In Study I, improvements in the physical and mental component summary scores of the SF-36 were also significant compared to placebo.
 
 In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50 and were evaluated at 12 weeks after dose escalation, 59/243 (24.3%) of patients regained PASI 75 response.
+
 Immunogenicity
 
 Formation of anti-adalimumab antibodies is associated with increased clearance and reduced efficacy of adalimumab.
@@ -380,7 +381,6 @@ There is no apparent correlation between the presence of anti-adalimumab antibod
 Patients in RA Studies I, II and III were tested at multiple time points for anti-adalimumab antibodies during the 6 to 12 month period.
 In the pivotal trials, anti-adalimumab antibodies were identified in 58/1053 (5.5%) patients treated with adalimumab, compared to 2/370 (0.5%) on placebo.
 In patients not given concomitant methotrexate, the incidence was 12.4%, compared to 0.6% when adalimumab was used as add-on to methotrexate.
-
 In patients with polyarticular juvenile idiopathic arthritis, adalimumab antibodies were identified in 27/171 subjects (15.8%) treated with adalimumab.
 In patients not given concomitant methotrexate, the incidence was 22/86 (25.6%), compared to 5/85 (5.9%) when adalimumab was used as add-on to methotrexate.
 

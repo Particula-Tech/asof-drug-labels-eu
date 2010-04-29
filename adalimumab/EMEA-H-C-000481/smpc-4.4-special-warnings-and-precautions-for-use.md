@@ -107,7 +107,7 @@ Therefore, caution should be exercised when using any TNF-antagonist in COPD pat
 Haematologic reactions
 
 Rare reports of pancytopenia including aplastic anaemia have been reported with TNF antagonists.
-Adverse events of the haematologic system, including medically significant cytopoenia (e.g. thrombocytopaenia, leucopaenia) have been infrequently reported with Humira.
+Adverse events of the haematologic system, including medically significant cytopoenia (e.g. thrombocytopaenia, leucopaenia) have been reported with Humira.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor) while on Humira.
 Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.
 

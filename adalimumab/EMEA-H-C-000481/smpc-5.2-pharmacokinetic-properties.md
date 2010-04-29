@@ -10,12 +10,12 @@ Following subcutaneous administration of 40 mg of Humira every other week in adu
 The serum adalimumab trough levels at steady-state increased roughly proportionally with dose following 20, 40 and 80 mg subcutaneous dosing every other week and every week.
 
 Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) the mean trough steady-state (values measured from Week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 µg/mL (102 %CV) Humira monotherapy and 10.9 ± 5.2 µg/mL (47.7% CV) with concomitant methotrexate.
+
 In patients with Crohn’s disease, the loading dose of 80 mg Humira on Week 0 followed by 40 mg Humira on Week 2 achieves serum adalimumab trough concentrations of approximately 5.5 μg/ml during the induction period.
 A loading dose of 160 mg Humira on Week 0 followed by 80 mg Humira on Week 2 achieves serum adalimumab trough concentrations of approximately 12 μg/ml during the induction period.
 Mean steady-state trough levels of approximately 7 μg/ml were observed in Crohn’s disease patients who received a maintenance dose of 40 mg Humira every other week.
 
 In patients with psoriasis, the mean steady-state trough concentration was 5 μg/mL during adalimumab 40 mg every other week monotherapy treatment.
-
 Population pharmacokinetic analyses with data from over 1300 RA patients revealed a trend toward higher apparent clearance of adalimumab with increasing body weight.
 After adjustment for weight differences, gender and age appeared to have a minimal effect on adalimumab clearance.
 The serum levels of free adalimumab (not bound to anti-adalimumab antibodies, AAA) were observed to be lower in patients with measurable AAA.
