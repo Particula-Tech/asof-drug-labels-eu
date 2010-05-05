@@ -28,7 +28,7 @@ Complete blood counts should be performed weekly for the first 2 months, and the
 Myelosuppression was generally reversible and usually managed by withholding dasatinib temporarily or by dose reduction (see sections 4.2 and 4.8).
 In a Phase III dose-optimisation study in patients with chronic phase CML, grade 3 or 4 myelosuppression was reported more frequently in patients treated with 70 mg twice daily than in patients treated with 100 mg once daily.
 Bleeding: in all clinical studies, severe central nervous system (CNS) haemorrhage occurred in < 1% of patients.
-Nine cases were fatal and 6 of them were associated with Common Toxicity Criteria (CTC) grade 4 thrombocytopenia.
+Eight cases were fatal and 6 of them were associated with Common Toxicity Criteria (CTC) grade 4 thrombocytopenia.
 Grade 3 or 4 gastrointestinal haemorrhage occurred in 4% of patients and generally required treatment interruptions and transfusions.
 Other grade 3 or 4 haemorrhage occurred in 2% of patients.
 Most bleeding related events were typically associated with grade 3 or 4 thrombocytopenia (see section 4.8).
@@ -45,17 +45,17 @@ Grade 3 or 4 pulmonary oedema was reported in 1% of patients.
 Patients who develop symptoms suggestive of pleural effusion such as dyspnoea or dry cough should be evaluated by chest X-ray.
 Severe pleural effusion may require thoracocentesis and oxygen therapy.
 Fluid retention events were typically managed by supportive care measures that include diuretics and short courses of steroids.
-While the safety profile of SPRYCEL in the elderly population was similar to that in the younger population, patients aged 65 years and older are more likely to experience fluid retention events and should be monitored closely.
+While the safety profile of SPRYCEL in the elderly population was similar to that in the younger population, patients aged 65 years and older are more likely to experience fluid retention events and dyspnoea and should be monitored closely.
 Fluid retention was reported less frequently in patients treated with once daily schedule compared to twice daily in two Phase III dose-optimisation studies (see section 4.8).
 
-QT Prolongation: in vitro data suggest that dasatinib has the potential to prolong cardiac ventricular repolarization (QT Interval) (see section 5.3).
+QT Prolongation: in vitro data suggest that dasatinib has the potential to prolong cardiac ventricular repolarisation (QT Interval) (see section 5.3).
 In 865 patients with leukaemia treated with dasatinib in Phase II clinical trials, the mean changes from baseline in QTc interval using Fridericia's method (QTcF) were 4 - 6 msec; the upper 95% confidence intervals for all mean changes from baseline were < 7 msec (see section 4.8).
 Of the 2,182 patients who received dasatinib in clinical trials, 14
 (< 1%) had QTc prolongation reported as an adverse reaction.
-Twenty-one patients (< 1%) experienced a QTcF > 500 msec.
+Twenty-one patients (1%) experienced a QTcF > 500 msec.
 Dasatinib should be administered with caution to patients who have or may develop prolongation of QTc.
-These include patients with hypokalemia or hypomagnesemia, patients with congenital long QT syndrome, patients taking anti-arrhythmic medicinal products or other medicinal products which lead to QT prolongation, and cumulative high dose anthracycline therapy.
-Hypokalemia or hypomagnesemia should be corrected prior to dasatinib administration.
+These include patients with hypokalaemia or hypomagnesemia, patients with congenital long QT syndrome, patients taking anti-arrhythmic medicinal products or other medicinal products which lead to QT prolongation, and cumulative high dose anthracycline therapy.
+Hypokalaemia or hypomagnesemia should be corrected prior to dasatinib administration.
 
 Patients with uncontrolled or significant cardiovascular disease were not included in the clinical studies.
 

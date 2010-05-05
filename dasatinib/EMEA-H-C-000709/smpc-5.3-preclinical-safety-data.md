@@ -7,12 +7,11 @@ Gastrointestinal toxicity was dose-limiting in rats and monkeys, as the intestin
 In rats, minimal to mild decreases in erythrocyte parameters were accompanied by bone marrow changes; similar changes occurred in monkeys at a lower incidence.
 Lymphoid toxicity in rats consisted of lymphoid depletion of the lymph nodes, spleen, and thymus, and decreased lymphoid organ weights.
 Changes in the gastrointestinal, haematopoietic and lymphoid systems were reversible following cessation of treatment.
-
-Renal changes in monkeys treated for up to 9 months were limited to an increase in background kidney mineralization.
+Renal changes in monkeys treated for up to 9 months were limited to an increase in background kidney mineralisation.
 Cutaneous haemorrhage was observed in an acute, single-dose oral study in monkeys but was not observed in repeat-dose studies in either monkeys or rats.
 In rats, dasatinib inhibited platelet aggregation in vitro and prolonged cuticle bleeding time in vivo, but did not invoke spontaneous haemorrhage.
 
-Dasatinib activity in vitro in hERG and Purkinje fiber assays suggested a potential for prolongation of cardiac ventricular repolarization (QT interval).
+Dasatinib activity in vitro in hERG and Purkinje fiber assays suggested a potential for prolongation of cardiac ventricular repolarisation (QT interval).
 However, in an in vivo single-dose study in conscious telemetered monkeys, there were no changes in QT interval or ECG wave form.
 
 Dasatinib was not mutagenic in in vitro bacterial cell assays (Ames test) and was not genotoxic in an in vivo rat micronucleus study.
