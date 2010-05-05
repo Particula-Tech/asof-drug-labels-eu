@@ -98,3 +98,46 @@ The effect of palonosetron on QTc interval was evaluated in a double blind, rand
 The objective was to evaluate the ECG effects of IV administered palonosetron at single doses of 0.25, 0.75 or 2.25 mg in 221 healthy subjects.
 The study demonstrated no effect on QT/QTc interval duration as well as any other ECG interval at doses up to 2.25 mg.
 No clinically significant changes were shown on heart rate, atrioventricular (AV) conduction and cardiac repolarisation.
+
+[Aloxi 500 micrograms soft capsules]
+
+Pharmacotherapeutic group: Antiemetics and antinauseants, Serotonin (5HT3) antagonists, ATC code: A04AA05
+
+In a multicentre, randomised, double-blind active control clinical trial of 635 patients set to receive moderately emetogenic cancer chemotherapy.
+A single-dose of 250 mcg, 500 mcg, or 750 mcg oral palonosetron capsules given one hour prior to moderately emetogenic chemotherapy was compared to a single-dose of 250 mcg intravenous Aloxi given 30 minutes prior to chemotherapy.
+Patients were randomised to either dexamethasone or placebo in addition to their assigned treatment.
+The majority of patients in the study were women (73 %), white (69 %), and naïve to previous chemotherapy
+(59 %).
+Efficacy was based on demonstrating non-inferiority of oral palonosetron doses compared to the approved intravenous formulation.
+Non-inferiority criteria were met if the lower bound of the two-sided 98.3 % confidence interval for the difference in complete response rates of oral palonosetron dose minus approved intravenous formulation was larger than -15 %.
+The non-inferiority margin was 15 %.
+
+As shown in Table 1, oral Aloxi capsules 500 micrograms demonstrated non-inferiority to the active comparator during the 0 to 24 hour and 0 to 120 hour time intervals; however, for the 24 to 120 hour time period, non-inferiority was not shown.
+
+Although comparative efficacy of palonosetron in multiple cycles has not been demonstrated in controlled clinical trials, 217 patients were enrolled in a multicentre, open label safety study and were treated with palonosetron capsules 750 micrograms for up to 4 cycles of chemotherapy in a total of 654 chemotherapy cycles.
+Approximately 74 % of patients also received single dose oral or intravenous dexamethasone 30 minutes before chemotherapy.
+Complete Response was not formally evaluated for the repeat cycle application.
+However, in general the antiemetic effect for the 0-24 hour interval was similar throughout the consecutively repeated cycles and the overall safety was maintained during all cycles.
+Table 1: Proportion of patientsa responding by treatment group and phase
+
+|  | Aloxi Oral 500 micrograms (n=160) | Aloxi Intravenous 250 micrograms (n=162) | Delta |  |
+| --- | --- | --- | --- | --- |
+|  | % | % | % |  |
+| Complete Response (No Emesis and No Rescue Medication) 98.3 % CIb |  |  |  |  |
+| 0-24 hours | 76.3 | 70.4 | 5.9 | [-6.5 %, 18.2 %] |
+| 24-120 hours | 62.5 | 65.4 | -2.9 | [-16.3 %, 10.5 %] |
+| 0-120 hours | 58.8 | 59.3 | -0.5 | [-14.2 %, 13.2 %] |
+| Complete Control (Complete Response and No More Than Mild Nausea) p-valuec |  |  |  |  |
+| 0-24 hours | 74.4 | 68.5 | 5.9 | NS |
+| 24-120 hours | 56.3 | 62.3 | -6.0 | NS |
+| 0-120 hours | 52.5 | 56.2 | -3.7 | NS |
+| No Nausea (Likert Scale) p-valuec |  |  |  |  |
+| 0-24 hours | 58.8 | 57.4 | 1.4 | NS |
+| 24-120 hours | 49.4 | 47.5 | 1.9 | NS |
+| 0-120 hours | 45.6 | 42.6 | 3.0 | NS |
+
+a Intent-to-treat cohort b The study was designed to show non-inferiority.
+A lower bound greater that -15 % demonstrates non-inferiority between Aloxi oral and comparator Aloxi intravenous c Chi-square test.
+Significance levels at alpha 0.0167 (adjusted for multiple comparisons).
+
+No clinically significant changes were shown on heart rate, atrioventricular (AV) conduction and cardiac repolarization.

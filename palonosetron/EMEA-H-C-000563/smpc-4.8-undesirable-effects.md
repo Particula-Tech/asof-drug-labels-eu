@@ -28,3 +28,20 @@ Within each frequency grouping, adverse reactions are presented below in order o
 
 ° From post-marketing experience
 * Includes the following: burning, induration, discomfort and pain
+
+[Aloxi 500 micrograms soft capsules]
+
+In clinical studies at a dose of 500 micrograms (total 161 patients) the most frequently observed adverse reaction, at least possibly related to Aloxi, was headache (3.7 %).
+
+| System Organ Class | Common ARs | Uncommon ARs |
+| --- | --- | --- |
+| Psychiatric disorders |  | Insomnia |
+| Nervous system disorders | Headache |  |
+| Eye disorders |  | Eye swelling |
+| Cardiac disorders |  | Atrioventricular block first degree, atrioventricular block second degree |
+| Respiratory, thoracic and mediastinal disorders |  | Dyspnoea |
+| Gastrointestinal disorders |  | Constipation, nausea |
+| Musculoskeletal and connective tissue disorders |  | Myalgia |
+| Investigations |  | Blood bilirubin increased |
+
+In post marketing very rare cases (<1/10,000) of hypersensitivity reactions occurred with palonosetron solution for injection for intravenous use.

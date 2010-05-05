@@ -17,3 +17,7 @@ Palonosetron has been administered safely with corticosteroids.
 
 Other medicinal products
 Palonosetron has been administered safely with analgesics, antiemetic/antinauseants, antispasmodics and anticholinergic medicinal products.
+
+[Aloxi 500 micrograms soft capsules]
+
+Chemotherapeutic medicinal products

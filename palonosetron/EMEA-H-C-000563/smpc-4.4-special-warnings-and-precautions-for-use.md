@@ -10,3 +10,14 @@ However, as for other 5-HT3 antagonists, caution should be exercised in the conc
 Aloxi should not be used to prevent or treat nausea and vomiting in the days following chemotherapy if not associated with another chemotherapy administration.
 
 This medicinal product contains less than 1 mmol sodium (23 mg) per vial, i.e. essentially ‘sodium-free’.
+
+[Aloxi 500 micrograms soft capsules]
+
+At all dose levels tested, palonosetron did not induce clinically relevant prolongation of the QT corrected (QTc) interval.
+A specific thorough QT/QTc study was conducted in healthy volunteers for definitive data demonstrating the effect of palonosetron on QT/QTc.
+(see section 5.1).
+
+Aloxi contains sorbitol.
+Patients with rare hereditary problems of fructose intolerance should not take this medicinal product.
+Aloxi capsules may also contain a trace of lecithin derived from soya.
+Therefore, patients with known hypersensitivity to peanut or soya, should be monitored closely for signs of an allergic reaction.

@@ -9,3 +9,8 @@ Therefore, palonosetron should not be used in pregnant women unless it is consid
 As there are no data concerning palonosetron excretion in breast milk, breast-feeding should be discontinued during therapy.
 
 There are no data concerning the effect of palonosetron on fertility.
+
+[Aloxi 500 micrograms soft capsules]
+
+For Palonosetron, no clinical data on exposed pregnancies are available.
+There is no experience of palonosetron in human pregnancy so palonosetron should not be used in pregnant women unless it is considered essential by the physician.

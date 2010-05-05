@@ -10,3 +10,7 @@ Only limited data from animal studies are available regarding the placental tran
 Palonosetron is not mutagenic.
 High doses of palonosetron (each dose causing at least 30 times the human therapeutic exposure) applied daily for two years caused an increased rate of liver tumours, endocrine neoplasms (in thyroid, pituitary, pancreas, adrenal medulla) and skin tumours in rats but not in mice.
 The underlying mechanisms are not fully understood, but because of the high doses employed and since Aloxi is intended for single application in humans, these findings are not considered relevant for clinical use.
+
+[Aloxi 500 micrograms soft capsules]
+
+High doses of palonosetron (each dose causing at least 15 times the human therapeutic exposure) applied daily for two years caused an increased rate of liver tumours, endocrine neoplasms (in thyroid, pituitary, pancreas, adrenal medulla) and skin tumours in rats but not in mice.

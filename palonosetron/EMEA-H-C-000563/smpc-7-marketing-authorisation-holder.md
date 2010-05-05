@@ -5,3 +5,7 @@ Damastown
 Mulhuddart
 Dublin 15
 Ireland
+
+[Aloxi 500 micrograms soft capsules]
+
+Helsinn Birex Pharmaceuticals Limited.

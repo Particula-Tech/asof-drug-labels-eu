@@ -29,3 +29,14 @@ No data are available for patients with end stage renal disease undergoing haemo
 
 Method of administration
 For intravenous use.
+
+[Aloxi 500 micrograms soft capsules]
+
+Aloxi should be used only before chemotherapy administration.This medicinal product should be administered by a healthcare professional under appropriate medical supervision.
+
+500 micrograms palonosetron administered orally approximately one hour before the start of chemotherapy.
+
+Aloxi is not recommended for use in paediatric population (below the age of 18) due to insufficient data.
+
+For oral use.
+Aloxi can be taken with or without food.

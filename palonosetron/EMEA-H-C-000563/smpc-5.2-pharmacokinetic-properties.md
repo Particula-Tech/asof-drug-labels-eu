@@ -47,3 +47,29 @@ No pharmacokinetic data in haemodialysis patients are available.
 Hepatic impairment
 Hepatic impairment does not significantly affect total body clearance of palonosetron compared to the healthy subjects.
 While the terminal elimination half-life and mean systemic exposure of palonosetron is increased in the subjects with severe hepatic impairment, this does not warrant dose reduction.
+
+[Aloxi 500 micrograms soft capsules]
+
+Following oral administration, palonosetron is well absorbed with its absolute bioavailability reaching 97 %.
+After single oral doses using buffered solution mean maximum palonosetron concentrations (Cmax) and area under the concentration-time curve (AUC0-∞) were dose proportional over the dose range of 3.0 to 80 µg/kg in healthy subjects.
+
+In 36 healthy male and female subjects given a single oral dose of palonosetron capsules 500 micrograms, maximum plasma palonosetron concentration (Cmax) was 0.81 ± 0.17 ng/ml (mean ± SD) and time to maximum concentration (Tmax) was 5.1 ± 1.7 hours.
+In female subjects (n=18), the mean AUC was 35 % higher and the mean Cmax was 26 % higher than in male subjects (n=18).
+In 12 cancer patients given a single oral dose of palonosetron capsules 500 micrograms one hour prior to chemotherapy, Cmax was 0.93 ± 0.34 ng/ml and Tmax was 5.1 ± 5.9 hours.
+The AUC was 30 % higher in cancer patients than in healthy subjects.
+
+A high fat meal did not affect the Cmax and AUC of oral palonosetron.
+Therefore, Aloxi capsules may be taken without regard to meals.
+
+Following administration of a single oral 750 micrograms dose of [14C]-palonosetron to six healthy subjects, 85 % to 93 % of the total radioactivity was excreted in urine, and 5 % to 8 % was eliminated in feces.
+The amount of unchanged palonosetron excreted in the urine represented approximately 40 % of the administered dose.
+In healthy subjects given palonosetron capsules 500 micrograms, the terminal elimination half-life (t½) of palonosetron was 37 ± 12 hours (mean ± SD), and in cancer patients, t½ was 48 ± 19 hours.
+After a single-dose of approximately 0.75 mg intravenous palonosetron, the total body clearance of palonosetron in healthy subjects was 160 ± 35 ml/h/kg (mean ± SD) and renal clearance was 66.5 ± 18.2 ml/h/kg.
+
+No dose adjustment is necessary in elderly patients.
+
+No dose adjustment is necessary based on gender.
+
+Paediatric patients
+
+No dose adjustment is necessary in patients with renal insufficiency.
