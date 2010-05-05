@@ -12,6 +12,7 @@ The adverse reactions are listed by system organ class (SOC) and frequency.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10) and uncommon (≥1/1000 to <1/100).
 The adverse reactions and laboratory abnormalities presented below are not exposure adjusted.
+
 The following table presents adverse reactions occurring at a numerically higher rate among patients receiving CELSENTRI 300 mg twice daily + OBT than patients on OBT alone with an incidence of ≥1%.
 
 Table 3.
@@ -48,6 +49,7 @@ Clinically important adverse reactions occurring in less than 1% of adult patien
 | Psychiatric disorders | Hallucination | uncommon |
 
 In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
+
 Laboratory abnormalities
 Table 5 shows the incidence ≥1% of Grade 3-4 Abnormalities (ACTG Criteria) based on the maximum shift in laboratory test values without regard to baseline values.
 

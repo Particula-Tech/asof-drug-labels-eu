@@ -22,27 +22,19 @@ Renal impairment: dosage adjustment is only recommended in patients with renal i
 - protease inhibitors (except tipranavir/ritonavir)
 - ketoconazole, itraconazole, clarithromycin, telithromycin.
 
-CELSENTRI should be used with caution in patients with severe renal impairment (CLcr < 30mL/min) who are receiving potent CYP3A4 inhibitors (see sections 4.4 and 5.2).
-
-The dose and dosing interval for CELSENTRI should be modified in renally impaired patients (CLcr <80 mL/min), including patients with end stage renal disease (ESRD) requiring dialysis (Table 1 below).
-These dosing recommendations are based on data from a renal impairment study (see section 5.2) in addition to modelling of pharmacokinetic data in subjects with varying degrees of renal impairment.
+CELSENTRI should be used with caution in patients with renal impairment (CLcr < 80mL/min) who are taking potent CYP3A4 inhibitors (see sections 4.4 and 5.2).
+Table 1 below provides dose interval adjustment guidelines based on simulations of increasing renal impairment in patients being coadministered potent CYP3A4 inhibitors.
+The safety and efficacy of these dose interval adjustments have not been clinically evaluated.
+Therefore, clinical response to treatment should be closely monitored in these patients.
 
 Table 1.
-Dose and interval adjustments for patients with renal impairment
+Dose interval adjustments based on simulations of increasing renal impairment (for dose recommendations, see Section 4.5 Table 2)
 
-| Recommended CELSENTRI dose interval | Creatinine clearance <80 mL/min |
-| --- | --- |
-| If administered without potent CYP3A4 inhibitors or if co-administered with tipranavir/ritonavir | No dose interval adjustment required |
-| If coadministered with fosamprenavir/ritonavir | CELSENTRI 150 mg every 12 hours |
-| If coadministered with potent CYP3A4 inhibitors, e.g. saquinavir/ritonavir, lopinavir/ritonavir, darunavir/ritonavir, atazanavir/ritonavir, ketoconazole | CELSENTRI 150 mg every 24 hours |
+| Recommended CELSENTRI dose interval | Creatinine clearance (CLcr) (mL/min) |  |  |
+| --- | --- | --- | --- |
+|  | 50- 80 mL/min | <50 – 30 mL/min | <30 mL/min |
+| Without potent CYP3A4 inhibitors or co-administered with tipranavir/ritonavir | No dose interval adjustment required |  |  |
+| If coadministered with potent CYP3A4 inhibitors, e.g. lopinavir/ritonavir, darunavir/ritonavir, atazanavir/ritonavir, ketoconazole (see also section 4.5) | Every 24 hours |  |  |
+| If coadministered with saquinavir/ritonavir | Every 24 hours | Every 48 hours | Every 72 hours |
 
 Hepatic impairment: limited data are available in patients with hepatic impairment, therefore CELSENTRI should be used with caution in this population (see sections 4.4 and 5.2).
-
-[CELSENTRI 300 mg film-coated tablets.]
-
-Dose interval adjustments for patients with renal impairment
-
-| Recommended CELSENTRI dose interval If administered without potent CYP3A4 inhibitors or if co-administered with tipranavir/ritonavir | Creatinine clearance <80 mL/min No dose interval adjustment required |
-| --- | --- |
-| If coadministered with fosamprenavir/ritonavir | CELSENTRI 150 mg every 12 hours |
-| If coadministered with potent CYP3A4 inhibitors, e.g. saquinavir/ritonavir, lopinavir/ritonavir, darunavir/ritonavir, atazanavir/ritonavir, ketoconazole | CELSENTRI 150 mg every 24 hours |

@@ -1,8 +1,8 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Pfizer Limited
-Ramsgate Road
-Sandwich
-Kent
-CT13 9NJ
+ViiV Healthcare UK Ltd
+980 Great West Road
+Brentford
+Middlesex
+TW8 9GS
 United Kingdom
