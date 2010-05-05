@@ -1,19 +1,19 @@
 # 1. NAME OF THE MEDICINAL PRODUCT
 
-Lantus 100 Units/ml solution for injection in a vial
+Lantus 100 units/ml solution for injection in a vial
 
-[Lantus 100 Units/ml solution for injection in a cartridge.]
+[Lantus 100 units/ml solution for injection in a cartridge.]
 
-Lantus 100 Units/ml solution for injection in a cartridge.
+Lantus 100 units/ml solution for injection in a cartridge.
 
-[Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
+[Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
 
-(all sentences already above)
+Lantus 100 units/ml solution for injection in a cartridge for OptiClik.
 
-[Lantus 100 Units/ml solution for injection in a pre-filled pen]
+[Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
 
-Lantus 100 Units/ml solution for injection in a pre-filled pen
+Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen
 
-[Lantus 100 Units/ml solution for injection in a pre-filled pen (SmPC 5)]
+[Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
 
-(all sentences already above)
+Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen

@@ -3,8 +3,10 @@
 Inspect the vial before use.
 It must only be used if the solution is clear, colourless, with no solid particles visible, and if it is of water-like consistency.
 Since Lantus is a solution, it does not require resuspension before use.
+Lantus must not be mixed with any other insulin or diluted.
+Mixing or diluting can change its time/action profile and mixing can cause precipitation.
 
-[Lantus 100 Units/ml solution for injection in a cartridge.]
+[Lantus 100 units/ml solution for injection in a cartridge.]
 
 Insulin pen
 The cartridges are to be used in conjunction with an insulin pen such as OptiPen and other pens suitable for Lantus cartridges, and as recommended in the information provided by the device manufacturer.
@@ -13,7 +15,7 @@ The manufacturer’s instructions for using the pen must be followed carefully f
 
 If the insulin pen is damaged or not working properly (due to mechanical defects) it has to be discarded, and a new insulin pen has to be used.
 
-If the pen malfunctions (see instructions for using the pen), the solution may be drawn from the cartridge into a syringe (suitable for an insulin with 100 Units/ml) and injected.
+If the pen malfunctions (see instructions for using the pen), the solution may be drawn from the cartridge into a syringe (suitable for an insulin with 100 units/ml) and injected.
 
 Cartridge
 Before insertion into the pen, the cartridge must be stored at room temperature for 1 to 2 hours.
@@ -21,7 +23,7 @@ Inspect the cartridge before use.
 Air bubbles must be removed from the cartridge before injection (see instructions for using the pen).
 Empty cartridges must not be refilled.
 
-[Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
+[Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
 
 The cartridges for OptiClik are to be used in conjunction with OptiClik only and as recommended in the information provided by the device manufacturer.
 
@@ -29,11 +31,12 @@ If OptiClik is damaged or not working properly (due to mechanical defects) it ha
 
 It must only be used if the cartridge is intact and the solution is clear, colourless, with no solid particles visible, and if it is of water-like consistency.
 
-[Lantus 100 Units/ml solution for injection in a pre-filled pen]
+[Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
 
 Before first use, the pen must be stored at room temperature for 1 to 2 hours.
 
 Empty pens must never be reused and must be properly discarded.
+
 To prevent the possible transmission of disease, each pen must be used by one patient only.
 
 Handling of the pen
@@ -76,6 +79,7 @@ OptiSet is designed to work accurately and safely.
 It should be handled with care.
 The patient should avoid situations where OptiSet may be damaged.
 If the patient is concerned that the OptiSet may be damaged, he must use a new one.
+
 Step 1.
 Check the Insulin
 
@@ -105,7 +109,6 @@ The outer and inner needle caps should be removed.
 The outer cap should be kept to remove the used needle.
 
 While holding the pen with the needle pointing upwards, the insulin reservoir should be tapped with the finger so that any air bubbles rise up towards the needle.
-
 Then the injection button should be pressed all the way in.
 
 If insulin has been expelled through the needle tip, then the pen and the needle are working properly.
@@ -128,6 +131,7 @@ If the black plunger is at the beginning of the coloured bar, then there are app
 If the black plunger is at the end of the coloured bar, then there are approximately 20 units of insulin available.
 
 The dosage selector should be turned forward until the dose arrow points to the required dose.
+
 Step 5.
 Load the dose
 
@@ -161,7 +165,7 @@ Needles must not be reused.
 
 The pen cap should be replaced on the pen.
 
-[Lantus 100 Units/ml solution for injection in a pre-filled pen (SmPC 5)]
+[Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
 
 The patient should be advised to read the instructions for use included in the package leaflet carefully before using SoloStar.
 
@@ -174,7 +178,6 @@ Important information for use of SoloStar:
 - The patient must always have a spare SoloStar available in case the SoloStar is lost or damaged.
 
 Please check section 6.4 of this SPC for instructions on how to store SoloStar.
-
 If SoloStar is in cool storage, it should be taken out 1 to 2 hours before injection to allow it to warm up.
 
 The used SoloStar must be discarded as required by your local authorities.

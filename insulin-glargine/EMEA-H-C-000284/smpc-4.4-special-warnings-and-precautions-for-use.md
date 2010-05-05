@@ -2,23 +2,14 @@
 
 Lantus is not the insulin of choice for the treatment of diabetic ketoacidosis.
 Instead, regular insulin administered intravenously is recommended in such cases.
-
-Safety and efficacy of Lantus have been established in adolescents and children of 6 years and above.
-
-Due to limited experience the efficacy and safety of Lantus could not be assessed in children below 6 years of age, in patients with impaired liver function or in patients with moderate/severe renal impairment (see section 4.2).
-
-In patients with renal impairment, insulin requirements may be diminished due to reduced insulin metabolism.
-In the elderly, progressive deterioration of renal function may lead to a steady decrease in insulin requirements.
-
-In patients with severe hepatic impairment, insulin requirements may be diminished due to reduced capacity for gluconeogenesis and reduced insulin metabolism.
 In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic episodes, the patient's adherence to the prescribed treatment regimen, injection sites and proper injection technique and all other relevant factors must be reviewed before dose adjustment is considered.
 
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
-Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting, etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dosage.
+Changes in strength, brand (manufacturer), type (regular, NPH, lente, long-acting, etc.), origin (animal, human, human insulin analogue) and/or method of manufacture may result in the need for a change in dose.
 
 Insulin administration may cause insulin antibodies to form.
 In rare cases, the presence of such insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
-(See section 4.8)
+(see section 4.8)
 
 Hypoglycaemia
 
@@ -46,7 +37,7 @@ The prolonged effect of subcutaneous insulin glargine may delay recovery from hy
 
 If normal or decreased values for glycated haemoglobin are noted, the possibility of recurrent, unrecognised (especially nocturnal) episodes of hypoglycaemia must be considered.
 
-Adherence of the patient to the dosage and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
+Adherence of the patient to the dose and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
 Factors increasing the susceptibility to hypoglycaemia require particularly close monitoring and may necessitate dose adjustment.
 These include:
 
@@ -67,22 +58,22 @@ In many cases urine tests for ketones are indicated, and often it is necessary t
 The insulin requirement is often increased.
 Patients with type 1 diabetes must continue to consume at least a small amount of carbohydrates on a regular basis, even if they are able to eat only little or no food, or are vomiting etc. and they must never omit insulin entirely.
 
-[Lantus 100 Units/ml solution for injection in a cartridge.]
+[Lantus 100 units/ml solution for injection in a cartridge.]
 
 (all sentences already above)
 
-[Lantus 100 Units/ml solution for injection in a cartridge. (SmPC 3)]
+[Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Lantus 100 Units/ml solution for injection in a pre-filled pen]
+[Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
 
 Handling of the pen
 
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully.
 OptiSet has to be used as recommended in these Instructions for Use (see section 6.6).
 
-[Lantus 100 Units/ml solution for injection in a pre-filled pen (SmPC 5)]
+[Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
 
 Before using SoloStar, the Instructions for Use included in the Package Leaflet must be read carefully.
 SoloStar has to be used as recommended in these Instructions for Use (see section 6.6).

@@ -2,9 +2,9 @@
 
 A number of substances affect glucose metabolism and may require dose adjustment of insulin glargine.
 
-Substances that may enhance the blood-glucose-lowering effect and increase susceptibility to hypoglycaemia include oral antidiabetic agents, angiotensin converting enzyme (ACE) inhibitors, disopyramide, fibrates, fluoxetine, monoamine oxidase (MAO) inhibitors, pentoxifylline, propoxyphene, salicylates and sulfonamide antibiotics.
+Substances that may enhance the blood-glucose-lowering effect and increase susceptibility to hypoglycaemia include oral antidiabetic medicinal products, angiotensin converting enzyme (ACE) inhibitors, disopyramide, fibrates, fluoxetine, monoamine oxidase (MAO) inhibitors, pentoxifylline, propoxyphene, salicylates and sulfonamide antibiotics.
 
-Substances that may reduce the blood-glucose-lowering effect include corticosteroids, danazol, diazoxide, diuretics, glucagon, isoniazid, oestrogens and progestogens, phenothiazine derivatives, somatropin, sympathomimetic agents (e.g. epinephrine [adrenaline], salbutamol, terbutaline), thyroid hormones, atypical antipsychotic medicinal products (e.g. clozapine and olanzapine) and protease inhibitors.
+Substances that may reduce the blood-glucose-lowering effect include corticosteroids, danazol, diazoxide, diuretics, glucagon, isoniazid, oestrogens and progestogens, phenothiazine derivatives, somatropin, sympathomimetic medicinal products (e.g. epinephrine [adrenaline], salbutamol, terbutaline), thyroid hormones, atypical antipsychotic medicinal products (e.g. clozapine and olanzapine) and protease inhibitors.
 
 Beta-blockers, clonidine, lithium salts or alcohol may either potentiate or weaken the blood-glucose-lowering effect of insulin.
 Pentamidine may cause hypoglycaemia, which may sometimes be followed by hyperglycaemia.
