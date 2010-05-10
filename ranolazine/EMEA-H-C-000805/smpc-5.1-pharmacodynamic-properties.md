@@ -24,7 +24,7 @@ The slope is higher in patients with clinically significant hepatic impairment.
 In a large outcome study (MERLIN-TIMI 36) in 6,560 patients with UA/NSTEMI ACS, there was no difference between Ranexa and placebo in the risk of all-cause mortality (relative risk ranolazine:placebo 0.99), sudden cardiac death (relative risk ranolazine:placebo 0.87), or the frequency of symptomatic documented arrhythmias (3.0% versus 3.1%).
 
 No proarrhythmic effects were observed in 3,162 patients treated with Ranexa based on 7-day Holter monitoring in the MERLIN-TIMI 36 study.
-There was a significantly lower incidence of arrhythmias in patients treated with Ranexa (74%) versus placebo (83%), including ventricular tachycardia
+There was a significantly lower incidence of arrhythmias in patients treated with Ranexa (80%) versus placebo (87%), including ventricular tachycardia
 ≥ 8 beats (5% versus 8%).
 
 Clinical efficacy: Clinical studies have demonstrated the efficacy and safety of Ranexa in the treatment of patients with chronic angina, either alone or when the benefit from other antianginal medicinal products was sub-optimal.

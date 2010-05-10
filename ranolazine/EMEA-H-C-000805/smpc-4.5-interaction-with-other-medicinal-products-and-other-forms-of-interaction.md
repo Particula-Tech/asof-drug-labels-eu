@@ -14,7 +14,7 @@ Careful dose titration of Ranexa is recommended in patients treated with diltiaz
 Down-titration of Ranexa may be required (see sections 4.2 and 4.4).
 
 Ranolazine is a substrate for P-gp.
-Inhibitors of P-gp (e.g. ciclosporin, quinidine, verapamil) increase plasma levels of ranolazine.
+Inhibitors of P-gp (e.g. ciclosporin, verapamil) increase plasma levels of ranolazine.
 Verapamil (120 mg three times daily) increases ranolazine steady-state concentrations 2.2-fold.
 Careful dose titration of Ranexa is recommended in patients treated with P-gp inhibitors.
 Down-titration of Ranexa may be required (see sections 4.2 and 4.4).
@@ -33,7 +33,8 @@ Ranolazine is a moderate to potent inhibitor of P-gp and a mild inhibitor of CYP
 Tissue distribution of drugs which are transported by P-gp may be increased.
 
 Available data suggest that ranolazine is a mild inhibitor of CYP2D6.
-The exposure of CYP2D6 substrates (e.g. tricyclic antidepressants and antipsychotics) may be increased during co-administration of Ranexa, and lower doses of these medicinal products may be required.
+Ranexa 750 mg twice daily increased plasma concentrations of metoprolol by 1.8-fold.
+Therefore the exposure to metoprolol or other CYP2D6 substrates (e.g. propafenone and flecainide or, to a lesser extent, tricyclic antidepressants and antipsychotics) may be increased during co-administration with Ranexa, and lower doses of these medicinal products may be required.
 The potential for inhibition of CYP2B6 has not been evaluated.
 Caution is advised during co-administration with CYP2B6 substrates (e.g. bupropion, efavirenz, cyclophosphamide).
 
@@ -45,3 +46,11 @@ Ranexa 1000 mg twice daily increased plasma concentrations of simvastatin lacton
 
 There is a theoretical risk that concomitant treatment of ranolazine with other drugs known to prolong the QTc interval may give rise to a pharmacodynamic interaction and increase the possible risk of ventricular arrhythmias.
 Examples of such drugs include certain antihistamines (e.g. terfenadine, astemizole, mizolastine), certain antiarrhythmics (e.g. quinidine, disopyramide, procainamide), erythromycin, and tricyclic antidepressants (e.g. imipramine, doxepin, amitriptyline).
+
+[Ranexa 500 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[Ranexa 750 mg prolonged-release tablets]
+
+Therefore the exposure to metoprolol or other CYP2D6 substrates (e.g. propafenone and flecainide or, to a lesser extent,. tricyclic antidepressants and antipsychotics) may be increased during co-administration with Ranexa, and lower doses of these medicinal products may be required.

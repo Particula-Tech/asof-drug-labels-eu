@@ -10,14 +10,18 @@ Sodium hydroxide
 Titanium dioxide
 
 Additional excipients for 375 mg tablet:
-Polyethylene glycol
+Macrogol
 Polysorbate 80
 Blue #2/Indigo Carmine Aluminium Lake (E132)
 
 [Ranexa 500 mg prolonged-release tablets]
 
 Additional excipients for 500 mg tablet:
-Yellow #6/Sunset Yellow FCF Aluminium Lake (E110)
+
+Polyvinyl alcohol-part hydrolyzed
+Iron oxide yellow (E172)
+Iron oxide red (E172)
+Talc
 
 [Ranexa 750 mg prolonged-release tablets]
 

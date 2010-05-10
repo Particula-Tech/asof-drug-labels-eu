@@ -29,7 +29,7 @@ Renal impairment: Renal function decreases with age and it is therefore importan
 
 [Ranexa 500 mg prolonged-release tablets]
 
-Azo colouring agent E110: This medicinal product contains the azo colouring agent E110 which may cause allergic reactions.
+(all sentences already above)
 
 [Ranexa 750 mg prolonged-release tablets]
 

@@ -6,7 +6,6 @@ For a full list of excipients see section 6.1.
 [Ranexa 500 mg prolonged-release tablets]
 
 Each tablet contains 500 mg of ranolazine.
-Excipient: Each tablet contains 0.12 mg azo colouring agent E110.
 
 [Ranexa 750 mg prolonged-release tablets]
 
