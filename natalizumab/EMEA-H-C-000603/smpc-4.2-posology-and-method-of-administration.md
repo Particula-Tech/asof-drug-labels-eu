@@ -1,8 +1,9 @@
 # 4.2 Posology and method of administration
 
-TYSABRI therapy is to be initiated and supervised by specialised physicians experienced in the diagnosis and treatment of neurological conditions, in centres with timely access to MRI.
+TYSABRI therapy is to be initiated and continuously supervised by specialised physicians experienced in the diagnosis and treatment of neurological conditions, in centres with timely access to MRI.
 
-Patients treated with TYSABRI must be given the patient alert card.
+Patients treated with TYSABRI must be given the patient alert card and be informed about the risks of Tysabri (see also patient information leaflet).
+After 2 years of treatment, patients should be re-informed about the risks of Tysabri, especially the increased risk of PML, and should be instructed together with their caregivers on early signs and symptoms of PML.
 
 Resources for the management of hypersensitivity reactions and access to MRI should be available.
 
@@ -19,7 +20,7 @@ Therefore the physician must confirm that such patients are not immunocompromise
 
 Continued therapy must be carefully reconsidered in patients who show no evidence of therapeutic benefit beyond 6 months.
 
-Data on the safety and efficacy of natalizumab beyond 2 years are not available.
+Data on the safety and efficacy of natalizumab at 2 years were generated from controlled, double–blind studies.
 Continued therapy beyond this time should be considered only following a reassessment of the potential for benefit and risk.
 
 Adults

@@ -2,10 +2,14 @@
 
 Progressive Multifocal Leukoencephalopathy (PML)
 
-Use of TYSABRI has been associated with an increased risk of PML.
+Use of TYSABRI has been associated with an increased risk of PML which may be fatal or result in severe disability.
+The risk of PML appears to increase with treatment duration, especially beyond 2 years.
+There is limited experience in patients who received more than 3 years of Tysabri treatment therefore the risk of PML in these patients cannot currently be estimated.
+Due to this increased risk of developing PML, the benefits and risks of Tysabri treatment should be individually reconsidered by the specialist physician and the patient.
+The patient should be re-informed about the risks of Tysabri after 2 years especially the increased risk of PML, and should be instructed together with their caregivers on early signs and symptoms of PML.
 
-Before initiation of treatment with TYSABRI, a recent (usually within 3 months) Magnetic Resonance Image should be available.
-Patients must be monitored at regular intervals for any new or worsening neurological symptoms or signs that may be suggestive of PML.
+Before initiation of treatment with TYSABRI, a recent (usually within 3 months) Magnetic Resonance Image (MRI) should be available as a reference, and be repeated on a yearly routine basis to update this reference.
+Patients must be monitored at regular intervals throughout treatment for any new or worsening neurological symptoms or signs that may be suggestive of PML.
 
 If PML is suspected, further dosing must be suspended until PML has been excluded.
 
@@ -18,8 +22,12 @@ Patients should also be advised to inform their partner or caregivers about thei
 
 If a patient develops PML the dosing of TYSABRI must be permanently discontinued.
 
-Following reconstitution of the immune system in immunocompromised patients with PML, stabilisation or improved outcome has been seen (see section 5.2).
-It remains unknown if early detection of PML and suspension of TYSABRI therapy may lead to similar stabilisation or improved outcome.
+Following reconstitution of the immune system in immunocompromised patients with PML improved outcome has been seen.
+
+PML and IRIS (Immune Reconstitution Inflammatory Syndrome)
+IRIS occurs in almost all TYSABRI PML patients after withdrawal or removal of TYSABRI, e.g. by plasma exchange (see section 5.2).
+IRIS is thought to result from the restoration of immune function in patients with PML, which can lead to serious neurological complications and may be fatal.
+Monitoring for development of IRIS, which has occurred within days to several weeks after plasma exchange in TYSABRI treated patients with PML, and appropriate treatment of the associated inflammation during recovery from PML should be undertaken (see the Physician Information and Management Guidelines for further information).
 
 Other Opportunistic Infections
 
@@ -37,6 +45,7 @@ All physicians who intend to prescribe TYSABRI must ensure they are familiar wit
 
 Physicians must discuss the benefits and risks of TYSABRI therapy with the patient and provide them with a Patient Alert Card.
 Patients should be instructed that if they develop any infection then they should inform their physician that they are being treated with TYSABRI.
+
 Physicians should counsel patients on the importance of uninterrupted dosing, particularly in the early months of treatment (see hypersensitivity).
 
 Hypersensitivity
@@ -57,7 +66,6 @@ Concurrent or prior treatment with immunosuppressants
 
 The safety and efficacy of TYSABRI in combination with other immunosuppressive and antineoplastic therapies have not been fully established.
 Concurrent use of these agents with TYSABRI may increase the risk of infections, including opportunistic infections, and is contraindicated (see section 4.3).
-
 Patients with a treatment history of immunosuppressant medications, including cyclophosphamide and mitoxantrone, may experience prolonged immunosuppression and therefore may be at increased risk for PML.
 Care should be taken with patients who have previously received immunosuppressants to allow sufficient time for immune function recovery to occur.
 Physicians must evaluate each individual case to determine whether there is evidence of an immunocompromised state prior to commencing treatment with TYSABRI (see section 4.3).

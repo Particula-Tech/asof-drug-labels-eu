@@ -6,11 +6,10 @@ Adverse drug reactions reported with natalizumab with an incidence of 0.5% great
 The reactions are reported as MedDRA preferred terms under the MedDRA primary system organ class.
 Frequencies were defined as follows:
 
-Common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
+Common (� 1/100 to < 1/10), uncommon (� 1/1,000 to < 1/100).
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-1 An adverse event judged related to therapy by the investigating physician.
 Nervous system disorders
 Common Headache
 Dizziness
@@ -35,6 +34,7 @@ Immune system disorders
 Common Urticaria
 Uncommon Hypersensitivity
 
+1 An adverse event judged related to therapy by the investigating physician.
 Infusion reactions
 
 In 2-year controlled clinical trials in MS patients, an infusion-related event was defined as an adverse event occurring during the infusion or within 1 hour of the completion of the infusion.
@@ -58,6 +58,7 @@ Additional infusion-related reactions associated with persistent antibodies incl
 
 If, after approximately 6 months of therapy, persistent antibodies are suspected, either due to reduced efficacy or due to occurrence of infusion-related events, they may be detected and confirmed with a subsequent test 6 weeks after the first positive test.
 Given that efficacy may be reduced or the incidence of hypersensitivity or infusion-related reactions may be increased in a patient with persistent antibodies, treatment should be discontinued in patients who develop persistent antibodies.
+
 Infections, including PML and opportunistic infections
 
 In 2-year controlled clinical trials in MS patients, the rate of infection was approximately 1.5 per patient-year in both natalizumab- and placebo-treated patients.
@@ -76,7 +77,6 @@ In pivotal clinical trials, two cases, including one fatality, occurred in MS pa
 In another trial, one patient with Crohn’s disease, who had a long history of treatment with immunosuppressants and associated lymphopenia also developed PML and died.
 
 PML has been reported in post-marketing experience in patients treated with TYSABRI monotherapy.
-
 Hepatic Events
 
 Spontaneous cases of serious liver injuries, increased liver enzymes, hyperbilirubinaemia have been reported during the post marketing phase (see section 4.4).
