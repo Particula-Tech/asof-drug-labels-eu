@@ -1,0 +1,7 @@
+# 1. NAME OF THE MEDICINAL PRODUCT
+
+Prolia 60 mg solution for injection in a pre-filled syringe
+
+[Prolia 60 mg solution for injection]
+
+Prolia 60 mg solution for injection
