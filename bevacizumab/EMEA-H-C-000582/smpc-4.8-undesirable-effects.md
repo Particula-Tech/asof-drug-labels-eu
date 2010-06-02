@@ -27,9 +27,9 @@ Table 1 Very common and common adverse reactions
 |  | Very common | Common | Very common |
 | Infections and infestations |  | Sepsis Abscess Infection |  |
 | Blood and the lymphatic systems disorders | Febrile neutropenia Leucopenia Thrombocytopenia Neutropenia | Anaemia |  |
+|  | Very common | Common | Very common |
 | Metabolism and nutrition disorders |  | Dehydration | Anorexia |
 | Nervous system disorders | Peripheral sensory neuropathy | Cerebrovascular accident Syncope Somnolence Headache | Dysgeusia Headache |
-|  | Very common | Common | Very common |
 | Eye disorders |  |  | Eye disorder Lacrimation increased |
 | Cardiac disorders |  | Cardiac failure congestive Supraventricular tachycardia |  |
 | Vascular disorders | Hypertension | Thromboembolism (arterial)* Deep vein thrombosis Haemorrhage | Hypertension |
@@ -47,7 +47,6 @@ Further information on selected serious adverse reactions
 
 Gastrointestinal perforations (see section 4.4)
 Avastin has been associated with serious cases of gastrointestinal perforation.
-
 Gastrointestinal perforation have been reported in clinical trials with an incidence of less than 1% in patients with metastatic breast cancer or non-squamous non-small cell lung cancer, and in up to 2.0% in metastatic colorectal cancer patients.
 Fatal outcome was reported in approximately a third of serious cases of gastrointestinal perforations, which represents between 0.2%-1% of all Avastin treated patients.
 
@@ -86,7 +85,6 @@ The risk of Avastin-associated hypertension did not correlate with the patients�
 
 Proteinuria (see section 4.4)
 In clinical trials, proteinuria has been reported within the range of 0.7% to 38% of patients receiving Avastin.
-
 Proteinuria ranged in severity from clinically asymptomatic, transient, trace proteinuria to nephrotic syndrome, with the great majority as Grade 1 proteinuria.
 Grade 3 proteinuria was reported in< 3% of treated patients: however, in patients treated for advanced and/or metastatic renal cell carcinoma this was up to 7%.
 Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of treated patients.
@@ -120,12 +118,12 @@ In two ongoing trials in patients with treated brain metastases, one case of Gra
 Across all clinical trials, mucocutaneous haemorrhage has been seen in up to 50% of Avastin-treated patients.
 These were most commonly NCI-CTC Grade 1 epistaxis that lasted less than 5 minutes, resolved without medical intervention and did not require any changes in the Avastin treatment regimen.
 Clinical safety data suggest that the incidence of minor mucocutaneous haemorrhage (e.g. epistaxis) may be dose-dependent.
-
 There have also been less common events of minor mucocutaneous haemorrhage in other locations, such as gingival bleeding or vaginal bleeding.
 
 Thromboembolism (see section 4.4)
 
 Arterial thromboembolism: An increased incidence of arterial thromboembolic events was observed in patients treated with Avastin across indications, including cerebrovascular accidents, myocardial infarction, transient ischemic attacks, and other arterial thromboembolic events.
+
 In clinical trials, the overall incidence of arterial thromboembolic events ranged up to 3.8% in the Avastin containing arms compared with up to 1.7% in the chemotherapy control arms.
 Fatal outcome was reported in 0.8% of patients receiving Avastin compared to 0.5% in patients receiving chemotherapy alone.
 Cerebrovascular accidents (including transient ischemic attacks) were reported in up to 2.3% of patients treated with Avastin in combination with chemotherapy compared to 0.5% of patients treated with chemotherapy alone.
@@ -153,11 +151,14 @@ In most clinical trials of Avastin, patients with pre-existing CHF of NYHA (New 
 
 Prior anthracyclines exposure and/or prior radiation to the chest wall may be possible risk factors for the development of CHF.
 
+Hypersensitivity reactions/infusion reactions (see section 4.4 and Post-marketing experience below) In some clinical trials anaphylactic and anaphylactoid-type reactions were reported more frequently in patients receiving Avastin in combination with chemotherapy than with chemotherapy alone.
+The incidence of these reactions in some clinical trials of Avastin is common (up to 5% in bevacizumab-treated patients).
 Elderly patients
 In randomised clinical trials, age > 65 years was associated with an increased risk of developing arterial thromboembolic events, including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs).
 Other reactions with a higher frequency seen in patients over 65 were grade 3-4 leucopenia and thrombocytopenia; and all grade neutropenia, diarrhoea, nausea, headache and fatigue as compared to those aged ≤ 65 years when treated with Avastin (see sections 4.4 and 4.8 under Thromboembolism).
 
 No increase in the incidence of other reactions, including gastrointestinal perforation, wound healing complications, hypertension, proteinuria, congestive heart failure, and haemorrhage was observed in elderly patients (> 65 years) receiving Avastin as compared to those aged ≤ 65 years treated with Avastin.
+
 Laboratory abnormalities
 Decreased neutrophil count, decreased white blood cell count and presence of urine protein may be associated with Avastin treatment.
 
@@ -172,5 +173,6 @@ Table 2 Adverse reactions reported in post-marketing setting
 | Nervous system disorders | Hypertensive encephalopathy (very rare) (see also section 4.4 Special warnings and precautions for use, and Hypertension in section 4.8 Undesirable Effects) Reversible posterior leukoencephalopathy syndrome (rare) (see also section 4.4 Special warnings and precautions for use) |
 | Vascular disorders | Renal thrombotic microangiopathy, clinically manifested as proteinuria (frequency not known). For further information on proteinuria see section 4.4 Special warnings and precautions for use, and Proteinuria in section 4.8 Undesirable Effects. |
 | Respiratory, thoracic and mediastinal disorders | Nasal septum perforation (not known) Pulmonary hypertension (not known) Dysphonia (common) |
+| Immune system disorders | Hypersensitivity reactions and infusion reactions (not known); with the following possible co-manifestations: dyspnoea/difficulty breathing, flushing/redness/rash, hypotension or hypertension, oxygen desaturation, chest pain, rigors and nausea/vomiting (see also section 4.4 and Hypersensitivity reactions/infusion reactions above) |
 
 * if specified, the frequency has been derived from clinical trial data

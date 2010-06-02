@@ -41,6 +41,7 @@ The addition of Avastin to IFL resulted in statistically significant increases i
 The clinical benefit, as measured by overall survival, was seen in all pre-specified patient subgroups, including those defined by age, sex, performance status, location of primary tumour, number of organs involved and duration of metastatic disease.
 
 The efficacy results of Avastin in combination with IFL-chemotherapy are displayed in Table 3.
+
 Table 3 Efficacy results for trial AVF2107g
 
 |  | AVF2107g |  |
@@ -81,6 +82,7 @@ The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher ob
 These efficacy data are consistent with the results from trial AVF2107g.
 
 The efficacy data from trials AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 4.
+
 Table 4 Efficacy results for trials AVF0780g and AVF2192g
 
 |  | AVF0780g |  |  | AVF2192g |  |
@@ -115,6 +117,7 @@ The trial contained two parts: an initial unblinded 2-arm part (Part I) in which
 In Part II, treatment assignment was double-blind with respect to Avastin.
 
 Approximately 350 patients were randomised into each of the 4 trial arms in the Part II of the trial.
+
 Table 5 Treatment regimens in trial N016966 (mCRC)
 
 |  | Treatment | Starting dose | Schedule |
