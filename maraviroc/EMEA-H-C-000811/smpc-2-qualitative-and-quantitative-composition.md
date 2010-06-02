@@ -4,7 +4,6 @@ Each film-coated tablet contains 150 mg of maraviroc.
 
 Excipients
 Each 150 mg film-coated tablet contains 0.84 mg of soya lecithin.
-
 For a full list of excipients, see section 6.1.
 
 [CELSENTRI 300 mg film-coated tablets.]

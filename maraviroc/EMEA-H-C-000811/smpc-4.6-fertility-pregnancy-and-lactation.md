@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 No meaningful clinical data on exposure during pregnancy are available.
 Studies in rats and rabbits showed reproductive toxicity at high exposures.
