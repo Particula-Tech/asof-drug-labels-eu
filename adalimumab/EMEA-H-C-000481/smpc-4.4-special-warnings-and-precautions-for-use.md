@@ -3,6 +3,7 @@
 Infections
 
 Patients taking TNF-blockers are more susceptible to serious infections.
+Impaired lung function may increase the risk for developing infections.
 Patients must therefore be monitored closely for infections, including tuberculosis, before, during and after treatment with Humira.
 Because the elimination of adalimumab may take up to five months, monitoring should be continued throughout this period.
 
@@ -84,7 +85,7 @@ Malignancies and lymphoproliferative disorders
 
 In the controlled portions of clinical trials of TNF-antagonists, more cases of malignancies including lymphoma have been observed among patients receiving a TNF-antagonist compared with control patients.
 However, the occurrence was rare.
-In the post marketing setting, cases of leukemia have been reported in patients treated with a TNF-antagonist..
+In the post marketing setting, cases of leukemia have been reported in patients treated with a TNF-antagonist.
 There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation. .With the current knowledge, a possible risk for the development of lymphomas, leukemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 
 Malignancies, some fatal, have been reported among children, adolescents and young adults (up to 22 years of age) treated with TNF-blocking agents (initiation of therapy ≤ 18 years of age), including adalimumab in the post marketing setting.
@@ -146,6 +147,7 @@ Concurrent administration of TNF-antagonists and abatacept
 Concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Humira and abatacept is not recommended.
 (See section 4.5).
+
 Surgery
 
 There is limited safety experience of surgical procedures in patients treated with Humira.
@@ -157,6 +159,12 @@ Small bowel obstruction
 
 Failure to respond to treatment for Crohn’s disease may indicate the presence of fixed fibrotic stricture that may require surgical treatment.
 Available data suggest that Humira does not worsen or cause strictures.
+
+Elderly Population
+
+The frequency of serious infections among HUMIRA treated subjects over 65 years of age (3.9%) was higher than for those under 65 years of age (1.4%).
+Some of those had a fatal outcome.
+Particular attention regarding the risk for infection should be paid when treating the elderly.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 

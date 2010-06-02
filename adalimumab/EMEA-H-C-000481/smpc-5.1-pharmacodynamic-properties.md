@@ -81,8 +81,8 @@ Among those, 86, 72, and 41 patients had ACR 20/50/70 response, respectively at 
 In RA study IV, the ACR 20 response of patients treated with Humira plus standard of care was statistically significantly better than patients treated with placebo plus standard of care (p < 0.001).
 
 In RA studies I-IV, Humira-treated patients achieved statistically significant ACR 20 and 50 responses compared to placebo as early as one to two weeks after initiation of treatment.
-
 In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at Week 52 and responses were sustained at Week 104 (see Table 4).
+
 Table 4 ACR Responses in RA Study V
 (percent of patients)
 
@@ -167,6 +167,7 @@ Distribution of patients by age and adalimumab dose received during the OL LI ph
 Patients demonstrating a Pediatric ACR 30 response at Week 16 were eligible to be randomised into the double blind (DB) phase and received either Humira 24 mg/m2 up to a maximum of 40 mg, or placebo every other week for an additional 32 weeks or until disease flare.
 Disease flare criteria were defined as a worsening of ≥ 30% from baseline in ≥ 3 of 6 Pediatric ACR core criteria, ≥ 2 active joints, and improvement of > 30% in no more than 1 of the 6 criteria.
 After 32 weeks or at disease flare, patients were eligible to enrol into the open label extension phase
+
 Table 8
 Ped ACR Responses in the JIA study
 
@@ -194,6 +195,7 @@ PsA study II with 12- week duration, treated 100 patients who had an inadequate 
 Upon completion of both studies, 383 patients enrolled in an open-label extension study, in which 40 mg Humira was administered eow.
 
 There is insufficient evidence of the efficacy of Humira in patients with ankylosing spondylitis-like psoriatic arthropathy due to the small number of patients studied.
+
 Table 9 ACR Response in Placebo-Controlled Psoriatic Arthritis Studies
 (Percent of Patients)
 
@@ -214,7 +216,6 @@ ACR responses were maintained in the open-label extension study for up to 136 we
 Radiographic changes were assessed in the psoriatic arthritis studies.
 Radiographs of hands, wrists, and feet were obtained at baseline and Week 24 during the double-blind period when patients were on Humira or placebo and at Week 48 when all patients were on open-label Humira.
 A modified Total Sharp Score (mTSS), which included distal interphalangeal joints (i.e., not identical to the TSS used for rheumatoid arthritis), was used.
-
 Humira treatment reduced the rate of progression of peripheral joint damage compared with placebo treatment as measured by change from baseline in mTSS (mean ± SD) 0.8 ± 2.5 in the placebo group (at Week 24) compared with 0.0 ± 1.9; (p< 0.001) in the Humira group (at Week 48).
 
 In subjects treated with Humira with no radiographic progression from baseline to Week 48 (n=102), 84% continued to show no radiographic progression through 144 weeks of treatment.
@@ -231,6 +232,7 @@ Subjects (n = 215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20
 
 In the larger AS study I with 315 patients, results showed statistically significant improvement of the signs and symptoms of ankylosing spondylitis in patients treated with Humira compared to placebo.
 Significant response was first observed at Week 2 and maintained through 24 weeks (Table 10).
+
 Table 10–Efficacy Responses in Placebo-Controlled AS Study – Study I
 Reduction of Signs and Symptoms
 
@@ -254,7 +256,6 @@ Reduction of Signs and Symptoms
 | Week 24 | 15% | 42%*** |
 
 ***,** Statistically significant at p < 0.001, < 0.01 for all comparisons between Humira and placebo at Weeks 2, 12 and 24 a ASsessments in Ankylosing Spondylitis b Bath Ankylosing Spondylitis Disease Activity Index
-
 Humira treated patients had significantly greater improvement at Week 12 which was maintained through Week 24 in both the SF36 and Ankylosing Spondylitis Quality of Life Questionnaire (ASQoL).
 
 Similar trends (not all statistically significant) were seen in the smaller randomised, double − blind, placebo controlled AS study II of 82 adult patients with active ankylosing spondylitis.
@@ -294,7 +295,6 @@ All p-values are pairwise comparisons of proportions for Humira versus placebo
 ** p < 0.01
 
 Similar remission rates were observed for the 160/80 mg and 80/40 mg induction regimens by Week 8 and adverse events were more frequently noted in the 160/80 mg group.
-
 In CD Study III, at Week 4, 58% (499/854) of patients were in clinical response and were assessed in the primary analysis.
 Of those in clinical response at Week 4, 48% had been previously exposed to other anti-TNF therapy.
 Maintenance of remission and response rates are presented in Table 12.
@@ -344,6 +344,7 @@ Patients receiving MTX who achieved a ≥PASI 50 response at Week 8 and/or 12 di
 Across all treatment groups, the mean baseline PASI score was 19.7 and the baseline PGA score ranged from “mild” (<1%) to “moderate” (48%) to “severe” (46%) to “very severe” (6%).
 
 In Psoriasis Studies I and II, a primary endpoint was the proportion of patients who achieved a PASI 75 response from baseline at Week 16 (see Tables 13 and 14).
+
 Table 13
 Ps Study I (REVEAL)
 Efficacy - Results at 16 Weeks
@@ -370,7 +371,6 @@ Of the patients who lost adequate response after re-randomization to placebo who
 
 Significant improvements at Week 16 from baseline compared to placebo (Studies I and II) and MTX (Study II) were demonstrated in the DLQI (Dermatology Life Quality Index).
 In Study I, improvements in the physical and mental component summary scores of the SF-36 were also significant compared to placebo.
-
 In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50 and were evaluated at 12 weeks after dose escalation, 59/243 (24.3%) of patients regained PASI 75 response.
 
 Immunogenicity
@@ -381,6 +381,7 @@ There is no apparent correlation between the presence of anti-adalimumab antibod
 Patients in RA Studies I, II and III were tested at multiple time points for anti-adalimumab antibodies during the 6 to 12 month period.
 In the pivotal trials, anti-adalimumab antibodies were identified in 58/1053 (5.5%) patients treated with adalimumab, compared to 2/370 (0.5%) on placebo.
 In patients not given concomitant methotrexate, the incidence was 12.4%, compared to 0.6% when adalimumab was used as add-on to methotrexate.
+
 In patients with polyarticular juvenile idiopathic arthritis, adalimumab antibodies were identified in 27/171 subjects (15.8%) treated with adalimumab.
 In patients not given concomitant methotrexate, the incidence was 22/86 (25.6%), compared to 5/85 (5.9%) when adalimumab was used as add-on to methotrexate.
 
