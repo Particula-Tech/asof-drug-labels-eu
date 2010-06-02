@@ -5,7 +5,6 @@ Pharmacotherapeutic group: Taxanes, ATC Code: L01CD01
 Paclitaxel is an antimicrotubule agent that promotes the assembly of microtubules from tubulin dimers and stabilises microtubules by preventing depolymerisation.
 This stability results in the inhibition of the normal dynamic reorganisation of the microtubule network that is essential for vital interphase and mitotic cellular functions.
 In addition, paclitaxel induces abnormal arrays or “bundles” of microtubules throughout the cell cycle and multiple asters of microtubules during mitosis.
-
 Abraxane contains human serum albumin-paclitaxel nanoparticles, where the paclitaxel is present in a non-crystalline, amorphous state.
 Albumin is known to mediate endothelial transcytosis of plasma constituents and in vitro studies demonstrated that the presence of albumin enhances transport of paclitaxel across endothelial cells.
 It is hypothesised that this enhanced transendothelial transport is mediated by the gp-60 albumin receptor, and that there is accumulation of paclitaxel in the area of tumour due to the albumin-binding protein SPARC (secreted protein acidic rich in cysteine).
@@ -41,14 +40,14 @@ Table 2: Results for overall response rate, median time to disease progression, 
 | --- | --- | --- | --- |
 | Response rate [95% CI] (%) |  |  |  |
 | > 1st-line therapy | 26.5 [18.98, 34.05] (n = 132) | 13.2 [7.54, 18.93] (n = 136) | 0.006a |
-| *Median time to disease progression [95% CI] (weeks) |  |  |  |
-| > 1st-line therapy | 20.9 [15.7, 25.9] (n = 131) | 16.1 [15.0, 19.3] (n = 135) | 0.011b |
-| *Median Progression Free Survival [95% CI] (weeks) |  |  |  |
 
 Table 2: Results for overall response rate, median time to disease progression, and progression-free survival as assessed by the investigator
 
 | Efficacy variable | Abraxane (260 mg/m2) | Solvent-based paclitaxel (175 mg/m2) | p-value |
 | --- | --- | --- | --- |
+| *Median time to disease progression [95% CI] (weeks) |  |  |  |
+| > 1st-line therapy | 20.9 [15.7, 25.9] (n = 131) | 16.1 [15.0, 19.3] (n = 135) | 0.011b |
+| *Median Progression Free Survival [95% CI] (weeks) |  |  |  |
 | > 1st-line therapy | 20.6 [15.6, 25.9] (n = 131) | 16.1 [15.0, 18.3] (n = 135) | 0.010b |
 | *Survival [95% CI] (weeks) |  |  |  |
 | > 1st-line therapy | 56.4 [45.1, 76.9] (n = 131) | 46.7 [39.0, 55.3] (n = 136) | 0.020b |

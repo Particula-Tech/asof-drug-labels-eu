@@ -18,6 +18,7 @@ Skin and subcutaneous tissue disorders: Alopecia was observed in 90% of the pati
 Musculoskeletal and connective tissue disorders: Arthralgia occurred in 32% of patients on Abraxane and was severe in 6% of cases.
 Myalgia occurred in 24% of patients on Abraxane and was severe in 7% of cases.
 The symptoms were usually transient, typically occurred three days after Abraxane administration and resolved within a week.
+
 General disorders and administration site conditions: Asthenia/Fatigue was reported in 40% of the patients.
 
 Table 1 lists adverse reactions associated with the administration of Abraxane to patients from studies in which Abraxane has been administered as a single agent at any dose in any indication (N = 789).
@@ -33,31 +34,31 @@ Table 1: Adverse reactions reported with Abraxane at any dose in clinical studie
 | Infections and infestations | Common: Infection, urinary tract infection, folliculitis, upper respiratory tract infection, candidiasis, sinusitis Uncommon: Oral candidiasis, nasopharyngitis, cellulitis, herpes simplex, viral infection, pneumonia, catheter-related infection, fungal infection, herpes zoster, injection site infection |
 | --- | --- |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | Uncommon: Metastatic pain, tumour necrosis |
-| Blood and lymphatic system disorders | Very Common: Neutropenia, anaemia, leukopenia, thrombocytopenia, lymphopenia, bone marrow suppression Common: Febrile neutropenia |
+| Blood and lymphatic system disorders | Very Common: Neutropenia, anaemia, leukopenia, thrombocytopenia, lymphopenia, bone marrow suppression Common: Febrile neutropenia Rare: Pancytopenia |
 | Immune system disorders | Uncommon1: Hypersensitivity Rare: Severe hypersensitivity |
 | Metabolism and nutrition disorders | Very common: Anorexia Common: Dehydration, decreased appetite, hypokalaemia Uncommon: Hypophosphataemia, fluid retention, hypoalbuminaemia, polydipsia, hyperglycaemia, hypocalcaemia, hypoglycaemia, hyponatraemia |
 | Psychiatric disorders | Common: Insomnia, depression, anxiety Uncommon: Restlessness |
 | Nervous system disorders | Very Common: Peripheral neuropathy, neuropathy, hypoaesthesia, paraesthesia. Common: Peripheral sensory neuropathy, headache, dysgeusia, dizziness, peripheral motor neuropathy, ataxia, sensory disturbance, somnolence. Uncommon: Polyneuropathy, areflexia, dyskinesia, hyporeflexia, neuralgia, sensory loss, syncope, postural dizziness, neuropathic pain, tremor |
-| Eye disorders | Common: Increased lacrimation, blurred vision, dry eye, keratoconjunctivitis sicca, madarosis Uncommon: Eye irritation, eye pain, abnormal vision, reduced visual acuity, conjunctivitis, visual disturbance, eye pruritus, keratitis |
 
 Table 1: Adverse reactions reported with Abraxane at any dose in clinical studies.
 
-| Ear and labyrinth disorders | Common: Vertigo Uncommon: Ear pain, tinnitus |
+| Eye disorders | Common: Increased lacrimation, blurred vision, dry eye, keratoconjunctivitis sicca, madarosis Uncommon: Eye irritation, eye pain, abnormal vision, reduced visual acuity, conjunctivitis, visual disturbance, eye pruritus, keratitis |
 | --- | --- |
-| Cardiac disorders | Common: Tachycardia, arrhythmia, supraventricular tachycardia Rare: bradycardia, cardiac arrest |
+| Ear and labyrinth disorders | Common: Vertigo Uncommon: Ear pain, tinnitus |
+| Cardiac disorders | Common: Tachycardia, arrhythmia, supraventricular tachycardia Rare: bradycardia, cardiac arrest, left ventricular dysfunction, congestive heart failure |
 | Vascular disorders | Common: Flushing, hot flushes, hypertension, lymphoedema Uncommon: Hypotension, peripheral coldness, orthostatic hypotension Rare: Thrombosis |
 | Respiratory, thoracic and mediastinal disorders | Common: Dyspnoea, epistaxis, pharyngolaryngeal pain, cough, rhinitis, rhinorrhoea Uncommon: Productive cough, exertional dyspnoea, sinus congestion, decreased breath sounds, pleural effusion, allergic rhinitis, hoarseness, nasal congestion, nasal dryness, wheezing, pulmonary emboli, pulmonary thromboembolism Rare: Interstitial pneumonitis |
 | Gastrointestinal disorders | Very Common: Nausea, diarrhoea, vomiting, constipation, stomatitis Common: Abdominal pain, abdominal distension, upper abdominal pain, dyspepsia, gastrooesophageal reflux disease, oral hypoaesthesia Uncommon: Dysphagia, flatulence, glossodynia, dry mouth, gingival pain, loose stools, oesophagitis, lower abdominal pain, mouth ulceration, oral pain, rectal haemorrhage |
 | Hepatobiliary disorders | Uncommon: Hepatomegaly |
 | Skin and subcutaneous tissue disorders | Very Common: Alopecia, rash Common: Nail disorder, pruritus, dry skin, erythema, nail pigmentation/discolouration, skin hyperpigmentation, onycholysis, nail changes Uncommon: Nail bed tenderness, urticaria, skin pain, photosensitivity reaction, pigmentation disorder, pruritic rash, skin disorder, hyperhidrosis, onychomadesis, erythematous rash, generalised rash, dermatitis, night sweats, maculo-papular rash, vitiligo, hypotrichosis, nail discomfort, generalized pruritus, macular rash, papular rash, skin lesion, swollen face |
 | Musculoskeletal and connective tissue disorders | Very Common: Arthralgia, myalgia. Common: Pain in extremity, bone pain, back pain, muscle cramps, limb pain Uncommon: Chest wall pain, muscular weakness, neck pain, groin pain, muscle spasms, musculoskeletal pain, flank pain, limb discomfort, muscle weakness |
-| Renal and urinary disorders | Uncommon: Dysuria, pollakiuria, haematuria, nocturia, polyuria, urinary incontinence |
-| Reproductive system and breast disorders | Uncommon: Breast pain |
 
 Table 1: Adverse reactions reported with Abraxane at any dose in clinical studies.
 
-| General disorders and administration site conditions | Very Common: Fatigue, asthenia, pyrexia. Common: Peripheral oedema, mucosal inflammation, pain, rigors, oedema, weakness, decreased performance status, chest pain, influenza-like illness, malaise, lethargy, hyperpyrexia Uncommon: Chest discomfort, abnormal gait, swelling, injection site reaction |
+| Renal and urinary disorders | Uncommon: Dysuria, pollakiuria, haematuria, nocturia, polyuria, urinary incontinence |
 | --- | --- |
+| Reproductive system and breast disorders | Uncommon: Breast pain |
+| General disorders and administration site conditions | Very Common: Fatigue, asthenia, pyrexia. Common: Peripheral oedema, mucosal inflammation, pain, rigors, oedema, weakness, decreased performance status, chest pain, influenza-like illness, malaise, lethargy, hyperpyrexia Uncommon: Chest discomfort, abnormal gait, swelling, injection site reaction |
 | Investigations | Common: Decreased weight, increased alanine aminotransferase, increased aspartate aminotransferase, decreased haematocrit, decreased red blood cell count, increased body temperature, increased gamma-glutamyltransferase, increased blood alkaline phosphatase Uncommon: Increased blood pressure, increased weight, increased blood lactate dehydrogenase, increased blood creatinine, increased blood glucose, increased blood phosphorus, decreased blood potassium, increased bilirubin |
 | Injury, poisoning and procedural complications | Uncommon: Contusion Rare: Radiation recall phenomenon, radiation pneumonitis |
 

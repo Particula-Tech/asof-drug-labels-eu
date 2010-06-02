@@ -13,7 +13,6 @@ In a study in patients with advanced solid tumours, the pharmacokinetic characte
 The clearance of paclitaxel with Abraxane was larger (43%) than that following a solvent-based paclitaxel injection and its volume of distribution was also higher (53%).
 Differences in Cmax and Cmax corrected for dose reflected differences in total dose and rate of infusion.
 There were no differences in terminal half-lives.
-
 In a repeat dose study with 12 patients receiving Abraxane administered intravenously at the approved dose, intrapatient variability in systemic paclitaxel exposure (AUCinf) was 19% (range = 3.21%- 27.70%).
 There was no evidence for accumulation of paclitaxel with multiple treatment courses.
 
@@ -27,7 +26,7 @@ Based on the published literature, in vitro studies with human liver microsomes 
 The formation of these hydroxylated metabolites is catalysed by CYP2C8, -3A4, and both -2C8 and -3A4 respectively.
 
 The pharmacokinetic profile of Abraxane administered as a 30 minute infusion was evaluated in 15 out of 30 patients with three levels of hepatic impairment based on serum bilirubin and liver enzyme levels.
-Figure 1 shows the correlation between paclitaxel clearance and and total blood bilirubin as measured just prior to dosing.
+Figure 1 shows the correlation between paclitaxel clearance and total blood bilirubin as measured just prior to dosing.
 
 Figure 1 Correlation between paclitaxel clearance and total blood bilirubin
 

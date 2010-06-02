@@ -26,12 +26,12 @@ Patients with hepatic impairment may be at increased risk of toxicity, particula
 
 Patients with severe hepatic impairment (bilirubin > 5 x ULN or AST/ALT > 10 x ULN) have not been studied and should not be treated with Abraxane.
 The appropriate dose regimen in patients with less severe hepatic impairment is unknown.
-A dose reduction in patients with bilirubin >2 ULN must beconsidered since paclitaxel clearance is decreased in patients with high bilirubin levels (see section 5.2).
+A dose reduction in patients with bilirubin >2 ULN must be considered since paclitaxel clearance is decreased in patients with high bilirubin levels (see section 5.2).
 
 Cardiotoxicity:
 
-While cardiotoxicity unequivocally related to Abraxane has not been demonstrated, cardiac events are not uncommon in the indicated population, especially in patients who have previously received anthracyclines or have underlying cardiac or pulmonary disease.
-Thus patients receiving Abraxane should be vigilantly monitored by physicians for the occurrence of cardiac events.
+Rare reports of congestive heart failure and left ventricular dysfunction have been observed among individuals receiving Abraxane.
+Most of the individuals were previously exposed to cardiotoxic drugs, such as anthracyclines, or had underlying cardiac history.Thus patients receiving Abraxane should be vigilantly monitored by physicians for the occurrence of cardiac events.
 
 CNS metastases:
 
