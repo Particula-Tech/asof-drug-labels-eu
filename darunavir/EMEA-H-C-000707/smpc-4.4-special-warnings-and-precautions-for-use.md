@@ -6,30 +6,40 @@ Appropriate precautions should continue to be employed.
 PREZISTA should only be used in combination with low dose ritonavir as a pharmacokinetic enhancer (see section 5.2).
 Increasing the dose of ritonavir from that recommended in section 4.2 did not significantly affect darunavir concentrations and is not recommended.
 
-PREZISTA is not recommended for use in children below 6 years of age or less than 20 kg body weight (see sections 4.2 and 5.3).
-
-Elderly: As limited information is available on the use of PREZISTA in patients aged 65 and over, caution should be exercised in the administration of PREZISTA in elderly patients, reflecting the greater frequency of decreased hepatic function and of concomitant disease or other therapy (see sections 4.2 and 5.2).
-
 Darunavir binds predominantly to α1-acid glycoprotein.
 This protein binding is concentration dependent indicative for saturation of binding.
-Therefore, protein displacement of medicinal products highly bound to α1-acid glycoprotein cannot be ruled out.
+Therefore, protein displacement of medicinal products highly bound to α1-acid glycoprotein cannot be ruled out (see section 4.5).
 
-Severe skin rash, which may be accompanied with fever and/or elevations of transaminases, has occurred in 0.5% of patients treated with PREZISTA.
-Erythema multiforme and Stevens-Johnson Syndrome have been rarely (< 0.1%) observed.
-Treatment with PREZISTA should be discontinued if such a condition develops.
+Paediatric population
+PREZISTA is not recommended for use in children below 6 years of age or less than 20 kg body weight (see sections 4.2 and 5.3).
+
+Elderly
+As limited information is available on the use of PREZISTA in patients aged 65 and over, caution should be exercised in the administration of PREZISTA in elderly patients, reflecting the greater frequency of decreased hepatic function and of concomitant disease or other therapy (see sections 4.2 and 5.2).
+
+Severe skin reactions
+During the clinical development program (N=3,063), severe skin reactions, which may be accompanied with fever and/or elevations of transaminases, have been reported in 0.4% of patients.
+Stevens-Johnson Syndrome has been rarely (< 0.1%) reported, and during post-marketing experience toxic epidermal necrolysis has been reported.
+Discontinue PREZISTA/rtv immediately if signs or symptoms of severe skin reactions develop.
+These can include but are not limited to severe rash or rash accompanied with fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, hepatitis and/or eosinophilia.
 
 Darunavir contains a sulphonamide moiety.
 PREZISTA should be used with caution in patients with a known sulphonamide allergy.
+
+Hepatotoxicity
+Drug-induced hepatitis (e.g. acute hepatitis, cytolytic hepatitis) has been reported with PREZISTA/rtv.
+During the clinical development program (N=3,063), hepatitis was reported in 0.5% of patients receiving combination antiretroviral therapy with PREZISTA/rtv.
+Patients with pre-existing liver dysfunction, including chronic active hepatitis B or C, have an increased risk for liver function abnormalities including severe and potentially fatal hepatic adverse events.
+In case of concomitant antiviral therapy for hepatitis B or C, please refer to the relevant product information for these medicinal products.
+
+Appropriate laboratory testing should be conducted prior to initiating therapy with PREZISTA/rtv and patients should be monitored during treatment.
+Increased AST/ALT monitoring should be considered in patients with underlying chronic hepatitis, cirrhosis, or in patients who have pre-treatment elevations of transaminases, especially during the first several months of PREZISTA/rtv treatment.
+
+If there is evidence of new or worsening liver dysfunction (including clinically significant elevation of liver enzymes and/or symptoms such as fatigue, anorexia, nausea, jaundice, dark urine, liver tenderness, hepatomegaly) in patients using PREZISTA/rtv, interruption or discontinuation of treatment should be considered promptly.
 
 Patients with coexisting conditions
 Hepatic impairment
 The safety and efficacy of PREZISTA have not been established in patients with severe underlying liver disorders and PREZISTA is therefore contraindicated in patients with severe hepatic impairment.
 Due to an increase in the unbound darunavir plasma concentrations, PREZISTA should be used with caution in patients with mild or moderate hepatic impairment (see sections 4.2, 4.3 and 5.2).
-
-Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk for severe and potentially fatal hepatic adverse events.
-In case of concomitant antiviral therapy for hepatitis B or C, please refer to the relevant product information for these medicinal products.
-Patients with pre-existing liver dysfunction including chronic hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
-If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment should be considered.
 
 Renal impairment
 No special precautions or dose adjustments are required in patients with renal impairment.
@@ -68,6 +78,7 @@ Typically, such reactions have been observed within the first weeks or months of
 Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections and pneumonia caused by Pneumocystis jiroveci (formerly known as Pneumocystis carinii).
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 In addition, reactivation of herpes simplex and herpes zoster has been observed in clinical studies with PREZISTA co-administered with low dose ritonavir.
+
 Interactions with medicinal products
 Several of the interaction studies have been performed at lower than recommended doses of darunavir.
 The effects on co-administered medicinal products may thus be underestimated and clinical monitoring of safety may be indicated.

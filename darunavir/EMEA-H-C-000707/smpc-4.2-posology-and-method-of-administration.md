@@ -16,7 +16,7 @@ PREZISTA 75 mg tablets are not indicated for ART-naïve patients.
 For dosage recommendations in ART-naïve patients see the Summary of Product Characteristics for PREZISTA 400 mg tablets.
 
 After therapy with PREZISTA has been initiated, patients should be advised not to alter the dosage or discontinue therapy without instruction of their physician.
-Children and adolescents
+Paediatric population
 ART-experienced paediatric patients (6 to 17 years of age and weighing at least 20 kg)
 
 | Recommended dose for treatment-experienced paediatric patients (6 to 17 years of age) for PREZISTA tablets and ritonavir |  |

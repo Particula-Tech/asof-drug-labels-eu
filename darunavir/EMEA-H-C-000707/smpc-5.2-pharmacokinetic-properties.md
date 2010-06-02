@@ -34,7 +34,7 @@ The terminal elimination half-life of darunavir was approximately 15 hours when 
 The intravenous clearance of darunavir alone (150 mg) and in the presence of low dose ritonavir was 32.8 l/h and 5.9 l/h, respectively.
 
 Special Populations
-Paediatrics
+Paediatric population
 The pharmacokinetics of darunavir in combination with ritonavir in 74 treatment-experienced paediatric patients, aged 6 to 17 years and weighing at least 20 kg, showed that the administered weight-based doses of PREZISTA/ritonavir resulted in darunavir exposure comparable to that in adults receiving PREZISTA/ritonavir 600/100 mg b.i.d.
 (see section 4.2).
 

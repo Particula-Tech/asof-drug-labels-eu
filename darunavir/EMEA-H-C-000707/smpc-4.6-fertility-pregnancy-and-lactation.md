@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
 There are no adequate and well controlled studies with darunavir in pregnant women.
