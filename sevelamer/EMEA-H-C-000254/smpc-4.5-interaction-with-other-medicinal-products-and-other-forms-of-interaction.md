@@ -16,7 +16,7 @@ The possibility of an interaction cannot be excluded and a close monitoring of b
 
 In interaction studies in healthy volunteers, Renagel had no effect on the bioavailability of digoxin, warfarin, enalapril or metoprolol.
 
-Renagel is no absorbed and may affect the bioavailbility of other medicinal products.
+Renagel is not absorbed and may affect the bioavailbility of other medicinal products.
 When administering any medicinal product where a reduction in the bioavailability could have a clinically significant effect on safety or efficacy, the medicinal product should be administered at least one hour before or three hours after Renagel, or the physician should consider monitoring blood levels.
 
 [Renagel 800 mg film-coated tablets]
