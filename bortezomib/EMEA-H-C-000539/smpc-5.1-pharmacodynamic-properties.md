@@ -47,14 +47,16 @@ Median albumin (g/l) 33.0 33.0
 Creatinine clearance ≤30 ml/min [n (%)] 20 (6%) 16 (5%)
 
 At the time of a pre-specified interim analysis, the primary endpoint, time to progression, was met and patients in the M+P arm were offered Vc+M+P treatment.
-Survival continued to be followed after the interim analysis.
 Median follow-up was 16.3 months.
+A survival update was performed with a median duration of follow-up of 36.7 months.
+A statistically significant survival benefit in favour of the Vc+M+P treatment group was observed (HR=0.65; p=0.00084) despite subsequent therapies including VELCADE-based regimens.
+While the median survival in M+P treatment group has now been estimated at 43.1 months, the median survival on the Vc+M+P treatment group has not been reached.
 Efficacy results are presented in Table 8
-Table8: Summary of efficacy analyses in the VISTA study
+Table 8: Updated efficacy results following pre-planned interim analysis in the VISTA study
 
 | Efficacy endpoint | Vc+M+P n=344 | M+P n=338 |
 | --- | --- | --- |
-| Time to progression – Events n (%) | 101 (29) | 152 (45) |
+| Time to progression Events n (%) | 101 (29) | 152 (45) |
 | Mediana (95% CI) | 20.7 mo (17.6, 24,7) | 15.0 mo (14.1, 17.9) |
 | Hazard ratiob (95% CI) | 0.54 (0.42, 0.70) |  |
 | p-value c | 0.000002 |  |
@@ -62,9 +64,10 @@ Table8: Summary of efficacy analyses in the VISTA study
 | Mediana (95% CI) | 18.3 mo (16.6, 21.7) | 14.0 mo (11.1, 15.0) |
 | Hazard ratiob (95% CI) | 0.61 (0.49, 0.76) |  |
 | p-value c | 0.00001 |  |
-| Overall survival Events (deaths) n (%) | 45 (13) | 76 (23) |
-| Hazard ratiob (95% CI) | 0.61 (0.42, 0.88) |  |
-| p-value c | 0.00782 |  |
+| Overall survival* Events (deaths) n (%) | 109 (32) | 148 (44) |
+| Mediana (95% CI) | NR (46.2, NR ) | 43.1 mo (34.8, NR) |
+| Hazard ratiob (95% CI) | 0.65 (0.51, 0.84) |  |
+| p-value c | 0.00084 |  |
 | Response rate populatione n = 668 | n=337 | n=331 |
 | CRf n (%) | 102 (30) | 12 (4) |
 | PRf n (%) | 136 (40) | 103 (31) |
@@ -85,8 +88,10 @@ Table8: Summary of efficacy analyses in the VISTA study
 
 a Kaplan-Meier estimate.
 b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: β2-microglobulin, albumin, and region.
-A hazard ratio less than 1 indicates an advantage for VMP c p-value based on the stratified log-rank test adjusted for stratification factors: β2-microglobulin, albumin, and region d p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors e Response population includes patients who had measurable disease at baseline f EBMT criteria g All randomized patients with secretory disease
-NE: Not estimable
+A hazard ratio less than 1 indicates an advantage for VMP c Nominal p-value based on the stratified log-rank test adjusted for stratification factors: β2-microglobulin, albumin, and region d p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors e Response population includes patients who had measurable disease at baseline f EBMT criteria g All randomized patients with secretory disease
+* Survival update based on a median duration of follow-up at 36.7 months
+NE: not estimable
+NR: not reached mo: months
 
 Clinical efficacy in relapsed or refractory multiple myeloma
 The safety and efficacy of VELCADE were evaluated in 2 studies at the recommended dose of 1.3 mg/m2: a Phase III randomized, comparative study, versus dexamethasone (Dex), of 669 patients with relapsed or refractory multiple myeloma who had received 1-3 prior lines of therapy, and a Phase II single-arm study of 202 patients with relapsed and refractory multiple myeloma, who had received at least 2 prior lines of treatment and who were progressing on their most recent treatment.
@@ -123,9 +128,11 @@ Table 10: Patient characteristics in Phase II and Phase III studies
 | Chromosome 13 abnormalities | 15 % | 25.7 % | 25.0 % |
 | Median β2-microglobulin (mg/l) | 3.5 | 3.7 | 3.6 |
 | Median number prior treatment lines* (range) | 6 (2-15) | 2 (1-7) | 2 (1-8) |
-| 1 prior line > 1 prior line | 0 | n =132 (40 %) n = 186 (60 %) | n = 119 (35 %) n = 194 (65 %) |
+| 1 prior line | 0 | n =132 (40 %) | n = 119 (35 %) |
+| > 1 prior line |  | n = 186 (60 %) | n = 194 (65 %) |
 
 *Including steroids, alkylating agents, anthracyclines, thalidomide and stem cell transplants
+
 Table 11: Patient exposure to treatment with VELCADE during Phase II and III studies
 
 |  | Phase II Vc | Phase III Vc | Phase III Dex |
@@ -150,7 +157,6 @@ The median survival of all patients enrolled was 17 months (range <1 to 36+ mont
 This survival was greater than the six-to-nine month median survival anticipated by consultant clinical investigators for a similar patient population.
 By multivariate analysis, the response rate was independent of myeloma type, performance status, chromosome 13 deletion status, or the number or type of previous therapies.
 Patients who had received 2 to 3 prior therapeutic regimens had a response rate of 32% (10/32) and patients who received greater than 7 prior therapeutic regimens had a response rate of 31% (21/67).
-
 Table 12: Summary of disease outcomes from the Phase III and Phase II studies
 
 |  | Phase III |  | Phase III |  | Phase III |  | Phase II |
@@ -164,9 +170,7 @@ Table 12: Summary of disease outcomes from the Phase III and Phase II studies
 | CR + nCR | 41 (13) b | 5 (2) b | 16 (13) | 4 (4) | 25 (13) | 1 (<1) | (10)** |
 | CR+ nCR + PR | 121 (38) b | 56 (18) b | 57 (45) d | 29 (26) d | 64 (34) b | 27 (13) b | (27)** |
 | CR + nCR+ PR+MR | 146 (46) | 108 (35) | 66 (52) | 45 (41) | 80 (43) | 63 (31) | (35)** |
-| Median duration | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
-|  | All patients |  | 1 Prior line of therapy |  | >1 Prior line of therapy |  | ≥2 prior lines |
-| Days (months) |  |  |  |  |  |  |  |
+| Median duration Days (months) | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
 | Time to response CR + PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |
 
 a Intent to Treat (ITT) population b p-value from the stratified log-rank test; analysis by line of therapy excludes stratification for therapeutic history; p<0.0001 c Response population includes patients who had measurable disease at baseline and received at least 1 dose of study drug.
@@ -187,17 +191,6 @@ Experiments have demonstrated that bortezomib is cytotoxic to a variety of cance
 
 A prospective Phase III, international, randomized (1:1), open-label clinical study (VISTA) of 682 patients was conducted to determine whether VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) resulted in improvement in time to progression (TTP) when compared to melphalan (9 mg/m2) and prednisone (60 mg/m2) in patients with previously untreated multiple myeloma.
 
-Vc+M+P M+P
-Patient Characteristics n=344 n=338
-Median age in years (range) 71.0 (57, 90) 71.0 (48, 91)
-Gender: male/female 51% / 49% 49% / 51%
-Race: Caucasian/asian/black/other 88% / 10% / 1% / 1% 87% / 11% / 2% / 0%
-Karnofsky performance status score ≤70 35% 33%
-Hemoglobin <100 g/l 37% 36%
-Platelet count <75 x 109/l <1% 1%
-
-Table 8: Summary of Efficacy Analyses in the VISTA study
-
 | Efficacy endpoint | Vc+M+P n=344 | M+P n=338 |
 | --- | --- | --- |
 | Time to progression Events n (%) | 101 (29) | 152 (45) |
@@ -208,9 +201,10 @@ Table 8: Summary of Efficacy Analyses in the VISTA study
 | Mediana (95% CI) | 18.3 mo (16.6, 21.7) | 14.0 mo (11.1, 15.0) |
 | Hazard ratiob (95% CI) | 0.61 (0.49, 0.76) |  |
 | p-value c | 0.00001 |  |
-| Overall survival Events (deaths) n (%) | 45 (13) | 76 (23) |
-| Hazard ratiob (95% CI) | 0.61 (0.42, 0.88) |  |
-| p-value c | 0.00782 |  |
+| Overall survival* Events (deaths) n (%) | 109(32) | 148 (44) |
+| Mediana (95% CI) | NR (46.2, NR ) | 43.1 mo (34.8, NR) |
+| Hazard ratiob (95% CI) | 0.65 (0.51, 0.84) |  |
+| p-value c | 0.00084 |  |
 | Response rate populatione n = 668 | n=337 | n=331 |
 | CRf n (%) | 102 (30) | 12 (4) |
 | PRf n (%) | 136 (40) | 103 (31) |

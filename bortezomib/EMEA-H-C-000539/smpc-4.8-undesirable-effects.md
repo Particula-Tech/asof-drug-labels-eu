@@ -6,8 +6,8 @@ Patients were treated with VELCADE as a single agent, or in combination with dex
 
 Adverse reactions are listed below by system organ class and frequency grouping.
 Frequencies are defined as: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
+Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Table 4: Adverse reactions in patients with relapsed/refractory multiple myeloma
 Infections and infestations
 Very common: herpes zoster (including disseminated).

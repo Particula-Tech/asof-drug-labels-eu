@@ -108,10 +108,6 @@ Bortezomib should be discontinued if serious reactions occur.
 Cases of ileus have been uncommonly reported (see section 4.8), therefore patients who experience constipation should be closely monitored.
 
 RPLS is a rare, reversible, rapidly evolving neurological condition which can present with seizure, hypertension, headache, lethargy, confusion, blindness, and other visual and neurological disturbances.
-Brain imaging, preferably
-MRI (Magnetic Resonance Imaging), is used to confirm the diagnosis.
-In patients developing
-RPLS, discontinue VELCADE.
 
 In a single-agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
 
