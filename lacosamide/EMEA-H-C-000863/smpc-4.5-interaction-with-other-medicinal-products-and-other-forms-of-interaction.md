@@ -16,7 +16,6 @@ The CYP2C19 inhibitor omeprazole (40 mg q.d.) did not give rise to a clinically 
 Thus moderate inhibitors of CYP2C19 are unlikely to affect systemic lacosamide exposure to a clinically relevant extent.
 Strong enzyme inducers such as rifampicin or St John´s wort (Hypericum perforatum) may moderately reduce the systemic exposure of lacosamide.
 Therefore, starting or ending treatment with these enzyme inducers should be done with caution.
-
 Antiepileptic drugs
 In interaction trials lacosamide did not significantly affect the plasma concentrations of carbamazepine and valproic acid.
 Lacosamide plasma concentrations were not affected by carbamazepine and by valproic acid.
