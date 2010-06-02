@@ -9,6 +9,24 @@ Re-occurrence of blockade:
 In clinical trials re-occurrence of blockade was reported mainly when sub-optimal doses (in dose finding studies) were administered.
 In order to prevent re-occurrence of neuromuscular blockade, the recommended doses for routine or immediate reversal (see section 4.2) should be used.
 
+Effect on hemostasis:
+In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex prolonged by 17-22% the activated partial thromboplastin time (aPTT) and prothrombin time (PT).
+In all cases, this slight prolongation was of short duration (< than 30 minutes).
+Based on the clinical data-base (n=1738) there was no clinically relevant effect of sugammadex alone or in combination with anticoagulants on the incidence of peri- or post-operative bleeding complications.
+
+In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation) was noted with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban and dabigatran.
+In patients receiving routine post-operative prophylactic anticoagulation this pharmacodynamic interaction is not clinically relevant.
+Caution should be exercised when considering the use of sugammadex in patients receiving therapeutic anticoagulation for a pre-existing or co-morbid condition.
+
+An increased risk of bleeding can not be excluded in patients:
+
+- with hereditary vitamin K dependent clotting factor deficiencies;
+- with pre-existing coagulopathies;
+- on coumarin derivates and at an INR above 3.5;
+- using anticoagulants who receive a dose of 16 mg/kg sugammadex.
+
+If there is a medical need to give sugammadex to these patients the anaesthesiologist needs to decide if the benefits outweigh the possible risk of bleeding complications taking into consideration the patients history of bleeding episodes and type of surgery scheduled.
+If sugammadex is administered to these patients monitoring of hemostasis and coagulation parameters is recommended.
 Waiting times for re-administration with neuromuscular blocking agents after reversal with sugammadex:
 If re-administration of rocuronium or vecuronium is required a waiting time of 24 hours is recommended.
 If neuromuscular blockade is required before the recommended waiting time has passed, a nonsteroidal neuromuscular blocking agent should be used.
@@ -49,7 +67,6 @@ Patients with severe hepatic impairment should be treated with great caution.
 
 Use in Intensive Care Unit (ICU):
 Sugammadex has not been investigated in patients receiving rocuronium or vecuronium in the ICU setting.
-
 Use for reversal of neuromuscular blocking agents other than rocuronium or vecuronium: Sugammadex should not be used to reverse block induced by nonsteroidal neuromuscular blocking agents such as succinylcholine or benzylisoquinolinium compounds.
 Sugammadex should not be used for reversal of neuromuscular blockade induced by steroidal neuromuscular blocking agents other than rocuronium or vecuronium, since there are no efficacy and safety data for these situations.
 Limited data are available for reversal of pancuronium induced blockade, but it is advised not to use sugammadex in this situation.

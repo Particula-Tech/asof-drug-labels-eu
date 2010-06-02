@@ -23,9 +23,13 @@ If sugammadex is administered at the same day as an oral contraceptive is taken 
 In the case of non-oral hormonal contraceptives, the patient must use an additional non hormonal contraceptive method for the next 7 days and refer to the advice in the package leaflet of the product.
 
 Interference with laboratory tests:
-In general sugammadex does not interfere with laboratory tests, with the possible exception of the serum progesterone assay and some coagulation parameters (activated partial thromboplastin time prothrombin time, prothrombin time (international normalized ratio)).
-This interference was observed in plasma samples spiked with a concentration of sugammadex in the same range as obtained for Cmax after a dose of 16 mg/kg.
-The clinical relevance of these findings is uncertain as this has not been studied in patients.
+In general sugammadex does not interfere with laboratory tests, with the possible exception of the serum progesterone assay.
+Interference with this test is observed at sugammadex plasma concentrations of 100 μg/ml (peak plasma level following 8 mg/kg bolus injection).
+
+In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex prolonged by 17-22% the activated partial thromboplastin time (aPTT) and prothrombin time (PT).
+In all cases, this slight prolongation was of short duration (< than 30 minutes).
+In in vitro experiments a pharmacodynamic interaction (aPTT and PT prolongation) was noted with vitamin K antagonists, unfractionated heparin, low molecular weight heparinoids, rivaroxaban and dabigatran (see section 4.4).
+
 Paediatric population
 
 No formal interaction studies have been performed.

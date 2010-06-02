@@ -6,7 +6,6 @@ Mechanism of action:
 Sugammadex is a modified gamma cyclodextrin which is a Selective Relaxant Binding Agent.
 It forms a complex with the neuromuscular blocking agents rocuronium or vecuronium in plasma and thereby reduces the amount of neuromuscular blocking agent available to bind to nicotinic receptors in the neuromuscular junction.
 This results in the reversal of neuromuscular blockade induced by rocuronium or vecuronium.
-
 Pharmacodynamic effects:
 Sugammadex has been administered in doses ranging from 0.5 mg/kg to 16 mg/kg in dose response studies of rocuronium induced blockade (0.6, 0.9, 1.0 and 1.2 mg/kg rocuronium bromide with and without maintenance doses) and vecuronium induced blockade (0.1 mg/kg vecuronium bromide with or without maintenance doses) at different time points/depths of blockade.
 In these studies a clear dose-response relationship was observed.
@@ -25,11 +24,7 @@ Time (minutes) from administration of sugammadex or neostigmine at deep neuromus
 | --- | --- | --- |
 |  | Sugammadex (4 mg/kg) | Neostigmine (70 mcg/kg) |
 | Rocuronium N Median (minutes) Range | 37 2.7 1.2-16.1 | 37 49.0 13.3-145.7 |
-| Vecuronium |  |  |
-
-N 47 36
-Median (minutes) 3.3 49.9
-Range 1.4-68.4 46.0-312.7
+| Vecuronium N Median (minutes) Range | 47 3.3 1.4-68.4 | 36 49.9 46.0-312.7 |
 
 Routine reversal – moderate neuromuscular blockade:
 In another pivotal study patients were randomly assigned to the rocuronium or vecuronium group.
@@ -66,6 +61,7 @@ Time (minutes) from administration of rocuronium and sugammadex or succinylcholi
 | N Median (minutes) Range | 55 4.2 3.5-7.7 | 55 7.1 3.7-10.5 |
 
 In a pooled analysis the following recovery times for 16 mg/kg sugammadex after 1.2 mg/kg rocuronium bromide were reported:
+
 Time (minutes) from administration of sugammadex at 3 minutes after rocuronium to recovery of the T4/T1 ratio to 0.9, 0.8 or 0.7
 
 |  | T4/T1 to 0.9 | T4/T1 to 0.8 | T4/T1 to 0.7 |
