@@ -4,7 +4,9 @@ Treatment should be initiated by healthcare professionals experienced in the dia
 Patients treated with RoActemra should be given the Patient Alert Card.
 
 Posology
-The recommended posology is 8 mg/kg body weight, but no lower than 480 mg, given once every four weeks.
+The recommended posology is 8 mg/kg body weight, given once every four weeks.
+
+For individuals whose body weight is more than 100 kg, doses exceeding 800 mg per infusion are not recommended (see Section 5.2).
 
 Doses above 1.2 g have not been evaluated in clinical studies (see section 5.1).
 Dose adjustments due to laboratory abnormalities (see section 4.4).
@@ -36,6 +38,7 @@ Special populations
 Paediatric patients: RoActemra is not recommended for use in children below 18 years of age due to insufficient data on safety and efficacy.
 
 Elderly patients: No dose adjustment is required in patients aged 65 years and older.
+
 Renal impairment: No dose adjustment is required in patients with mild renal impairment.
 RoActemra has not been studied in patients with moderate to severe renal impairment (see section 5.2).
 Renal function should be monitored closely in these patients.

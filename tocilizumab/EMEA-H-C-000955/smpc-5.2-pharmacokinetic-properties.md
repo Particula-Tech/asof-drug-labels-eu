@@ -5,7 +5,11 @@ The pharmacokinetics of tocilizumab were determined using a population pharmacok
 The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg tocilizumab given every 4 weeks: steady-state area under curve (AUC) = 35000 ± 15500 h µg/ml, trough concentration (Cmin) = 9.74 ± 10.5 μg/ml and maximum concentration (Cmax) = 183 ± 85.6 µg/ml, and. the accumulation ratios for AUC and Cmax were small, 1.22 and 1.06, respectively.
 The accumulation ratio was higher for Cmin (2.35), which was expected based on the non-linear clearance contribution at lower concentrations.
 Steady-state was reached following the first administration for Cmax and after 8 and 20 weeks for AUC and Cmin, respectively.
-
+Tocilizumab AUC, Cmin and Cmax increased with increase of body weight.
+At body weight ≥ 100 kg, the predicted mean (± SD) steady-state AUC, Cmin and Cmax of tocilizumab were 55500 ± 14100 μg•h/mL, 19.0 ± 12.0 μg/mL, and 269 ± 57 μg/mL, respectively, which are higher than mean exposure values for the patient population (AUC =
+35000 ± 15500 h µg/ml, Cmin = 9.74 ± 10.5 μg/ml and Cmax = 183 ± 85.6 µg/ml).
+The dose-response curve for tocilizumab flattens at higher exposure, resulting in smaller efficacy gains for each incremental increase in tocilizumab concentration such that clinically meaningful increases in efficacy were not demonstrated in patients treated with > 800 mg of tocilizumab.
+Therefore, tocilizumab doses exceeding 800 mg per infusion are not recommended (see section 4.2).
 Distribution
 In RA patients the central volume of distribution was 3.5 l, the peripheral volume of distribution was 2.9 l resulting in a volume of distribution at steady state of 6.4 l.
 
@@ -17,6 +21,7 @@ The concentration-dependent non-linear clearance plays a major role at low tocil
 Once the non-linear clearance pathway is saturated, at higher tocilizumab concentrations, clearance is mainly determined by the linear clearance.
 The t1/2 of tocilizumab was concentration-dependent.
 At steady-state following a dose of 8 mg/kg every 4 weeks, the effective t1/2 decreased with decreasing concentrations within a dosing interval from 14 days to 8 days.
+
 Linearity
 Pharmacokinetic parameters of tocilizumab did not change with time.
 A more than dose-proportional increase in the AUC and Cmin was observed for doses of 4 and 8 mg/kg every 4 weeks.

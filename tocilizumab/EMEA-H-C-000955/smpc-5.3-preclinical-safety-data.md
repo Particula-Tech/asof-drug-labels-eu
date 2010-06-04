@@ -2,7 +2,7 @@
 
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity and genotoxicity.
 
-Carcinogenicity and fertility studies were not performed with tocilizumab due to the lack of appropriate models for an antibody with no reactivity to rodent IL-6 receptors.
+Carcinogenicity studies were not performed because IgG1 monoclonal antibodies are not deemed to have intrinsic carcinogenic potential.
 
 Available non-clinical data demonstrated the effect of IL-6 on malignant progression and apoptosis resistance to various cancer types.
 This data does not suggest a relevant risk for cancer initiation and progression under tocilizumab treatment.

@@ -13,17 +13,20 @@ Tuberculosis
 As recommended for other biological treatments in RA, patients should be screened for latent tuberculosis (TB) infection prior to starting RoActemra therapy.
 Patients with latent TB should be treated with standard anti-mycobacterial therapy before initiating RoActemra.
 
+Viral reactivation
+Viral reactivation (e.g. hepatitis B virus) has been reported with biologic therapies for rheumatoid arthritis.
+In clinical studies with tocilizumab, patients who screened positive for hepatitis were excluded.
+
 Complications of diverticulitis
 Events of diverticular perforations as complications of diverticulitis have been reported uncommonly with RoActemra (see section 4.8).
 RoActemra should be used with caution in patients with previous history of intestinal ulceration or diverticulitis.
 Patients presenting with symptoms potentially indicative of complicated diverticulitis, such as abdominal pain, haemorrhage and/or unexplained change in bowel habits with fever should be evaluated promptly for early identification of diverticulitis which can be associated with gastrointestinal perforation.
-
 Hypersensitivity reactions
 Serious hypersensitivity reactions have been reported in association with infusion of RoActemra in approximately 0.3% of patients (see section 4.8).
 Appropriate treatment should be available for immediate use in the event of an anaphylactic reaction during administration of RoActemra.
+
 Active hepatic disease and hepatic impairment
-Treatment with RoActemra, particularly when administered concomitantly with MTX, may be associated with elevations in hepatic transaminases (see section 4.8).
-Therefore, caution should be exercised when considering treatment of patients with active hepatic disease or hepatic impairment, as the safety of RoActemra in these patients has not been adequately studied (see section 4.2).
+Treatment with RoActemra, particularly when administered concomitantly with MTX, may be associated with elevations in hepatic transaminases, therefore, caution should be exercised when considering treatment of patients with active hepatic disease or hepatic impairment (see sections 4.2 and 4.8).
 
 Hepatic transaminase elevations
 In clinical trials, transient or intermittent mild and moderate elevations of hepatic transaminases have been reported commonly with RoActemra treatment, without progression to hepatic injury (see section 4.8).
@@ -58,10 +61,10 @@ Patients should be managed according to local clinical guidelines for management
 Neurological disorders
 Physicians should be vigilant for symptoms potentially indicative of new-onset central demyelinating disorders.
 The potential for central demyelination with RoActemra is currently unknown.
-
 Malignancy
 The risk of malignancy is increased in patients with RA.
 Immunomodulatory medicinal products may increase the risk of malignancy.
+
 Vaccinations
 Live and live attenuated vaccines should not be given concurrently with RoActemra as clinical safety has not been established.
 
