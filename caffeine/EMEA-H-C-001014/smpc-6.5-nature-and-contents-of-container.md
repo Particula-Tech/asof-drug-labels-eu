@@ -2,3 +2,7 @@
 
 Type I clear glass 3 ml ampoule
 Pack size of 10 ampoules.
+
+[Nymusa 20 mg/ml solution for infusion and oral solution (SmPC 2)]
+
+Type I clear glass 1 ml ampoule
