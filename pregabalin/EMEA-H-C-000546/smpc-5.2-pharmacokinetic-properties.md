@@ -60,3 +60,35 @@ Elderly (over 65 years of age)
 Pregabalin clearance tends to decrease with increasing age.
 This decrease in pregabalin oral clearance is consistent with decreases in creatinine clearance associated with increasing age.
 Reduction of pregabalin dose may be required in patients who have age related compromised renal function (see section 4.2 Table 1).
+
+[LYRICA 50 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 75 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 100 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 150 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 200 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 225 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 300 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 20 mg/ml oral solution]
+
+Biotransformation:

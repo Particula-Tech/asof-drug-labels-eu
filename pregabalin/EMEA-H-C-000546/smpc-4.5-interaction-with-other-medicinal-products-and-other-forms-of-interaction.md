@@ -14,3 +14,40 @@ Pregabalin appears to be additive in the impairment of cognitive and gross motor
 
 No specific pharmacodynamic interaction studies were conducted in elderly volunteers.
 Interaction studies have only been performed in adults.
+
+[LYRICA 50 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 75 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 100 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 150 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 200 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 225 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 300 mg hard capsules]
+
+(all sentences already above)
+
+[LYRICA 20 mg/ml oral solution]
+
+In vivo studies and population pharmacokinetic analysis
+Oral contraceptives, norethisterone and/or ethinyl oestradiol
+
+Ethanol, lorazepam, oxycodone
+
+Interactions and the elderly

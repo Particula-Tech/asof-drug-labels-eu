@@ -44,7 +44,7 @@ Patients (and caregivers of patients) should be advised to seek medical advice s
 Lyrica contains lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
-[LYRICA 50 mg hard capsules.]
+[LYRICA 50 mg hard capsules]
 
 Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of themedicinal products.
 
@@ -52,7 +52,7 @@ Therefore, patients should be advised to exercise caution until they are familia
 
 (all sentences already above)
 
-[LYRICA 100 mg hard capsules.]
+[LYRICA 100 mg hard capsules]
 
 (all sentences already above)
 
@@ -71,3 +71,29 @@ There have been post-marketing reports of congestive heart failure in some patie
 [LYRICA 300 mg hard capsules]
 
 (all sentences already above)
+
+[LYRICA 20 mg/ml oral solution]
+
+Diabetic patients
+
+Hypersensitivity reactions
+
+Dizziness, somnolence, loss of consciousness, confusion and mental impairment
+
+Vision-related effects
+In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing.
+
+Renal failure
+Withdrawal of concomitant antiepileptic medicinal products
+
+Withdrawal symptoms
+
+Congestive heart failure
+
+Treatment of central neuropathic pain due to spinal cord injury
+
+Suicidal ideation and behaviour
+A meta-analysis of randomised placebo controlled studies of anti-epileptic drugs has also shown a small increased risk of suicidal ideation and behaviour.
+
+Excipients which may cause allergic reactions
+LYRICA oral solution contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).

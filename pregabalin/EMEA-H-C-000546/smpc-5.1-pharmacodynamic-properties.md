@@ -46,7 +46,7 @@ In these patients, visual acuity was reduced in 6.5% of patients treated with pr
 Visual field changes were detected in 12.4% of pregabalin-treated, and 11.7% of placebo-treated patients.
 Funduscopic changes were observed in 1.7% of pregabalin-treated and 2.1% of placebo-treated patients.
 
-[LYRICA 50 mg hard capsules.]
+[LYRICA 50 mg hard capsules]
 
 Efficacy has been shown in studies in diabetic neuropathy,post herpetic neuralgia and spinal cord injury.
 
@@ -54,7 +54,7 @@ Efficacy has been shown in studies in diabetic neuropathy,post herpetic neuralgi
 
 (all sentences already above)
 
-[LYRICA 100 mg hard capsules.]
+[LYRICA 100 mg hard capsules]
 
 (all sentences already above)
 
@@ -73,3 +73,17 @@ Efficacy has been shown in studies in diabetic neuropathy,post herpetic neuralgi
 [LYRICA 300 mg hard capsules]
 
 (all sentences already above)
+
+[LYRICA 20 mg/ml oral solution]
+
+Pharmacotherapeutic group: Antiepileptics, other antiepileptics ATC code: N03AX16
+
+Efficacy has been shown in trials in diabetic neuropathy, post herpetic neuralgia and spinal cord injury.
+
+Pregabalin has been studied in 10 controlled clinical trials of up to 13 weeks with twice a day dosing (BID) and up to 8 weeks with three times a day (TID) dosing.
+
+Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with either twice a day dosing (BID) or three times a day (TID) dosing.
+
+Pregabalin has been studied in 6 controlled trials of 4-6 week duration, an elderly study of 8 week duration and a long-term relapse prevention study with a double blind relapse prevention phase of 6 months duration.
+
+In controlled trials, a higher proportion of patients treated with pregabalin reported blurred vision than did patients treated with placebo which resolved in a majority of cases with continued dosing.

@@ -157,7 +157,7 @@ The patient should be informed about this at the start of the treatment.
 
 Concerning discontinuation of long-term treatment of pregabalin there are no data of the incidence and severity of withdrawal symptoms in relation to duration of use and dose of pregabalin.
 
-[LYRICA 50 mg hard capsules.]
+[LYRICA 50 mg hard capsules]
 
 In the table below all adverse reactions, which occurred at an incidence greater than placebo and in more than one patient, are listed by class and frequency (very common (≥1/10); common (≥1/100 to ≤1/10); uncommon (≥1/1,000 to ≤1/100); rare (≥1/10,000 to ≤1/1,000); very rare (≤1/10,000), not known (cannot be estimated from the available data).
 
@@ -167,7 +167,7 @@ Rare Generalised oedema,pyrexia
 
 The following reactions have been mentioned: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating, and dizziness.
 
-[LYRICA 100 mg hard capsules.]
+[LYRICA 100 mg hard capsules]
 
 (all sentences already above)
 
@@ -186,3 +186,11 @@ Common Vomiting, , dry mouth, constipation, flatulence
 [LYRICA 300 mg hard capsules]
 
 The following reactions have been: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating and dizziness.
+
+[LYRICA 20 mg/ml oral solution]
+
+The adverse reactions listed may also be associated with the underlying disease and / or concomitant medicinal products.
+
+System Organ Class Adverse drug reactions
+
+Frequency not know Aggression
