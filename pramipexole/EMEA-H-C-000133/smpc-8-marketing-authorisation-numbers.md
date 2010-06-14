@@ -20,20 +20,28 @@ EU/1/97/050/009-010
 
 [SIFROL 0.26 mg prolonged-release tablets]
 
-EU/1/97/050/XXX
+EU/1/97/050/013-015
 
 [SIFROL 0.52 mg prolonged-release tablets]
 
-(all sentences already above)
+EU/1/97/050/016-018
 
 [SIFROL 1.05 mg prolonged-release tablets]
 
-(all sentences already above)
+EU/1/97/050/019-021
+
+[SIFROL 1.57 mg prolonged-release tablets]
+
+EU/1/97/050/XXX
 
 [SIFROL 2.1 mg prolonged-release tablets]
 
-(all sentences already above)
+EU/1/97/050/022-024
+
+[SIFROL 2.62 mg prolonged-release tablets]
+
+EU/1/97/051/XXX
 
 [SIFROL 3.15 mg prolonged-release tablets]
 
-(all sentences already above)
+EU/1/97/050/025-027

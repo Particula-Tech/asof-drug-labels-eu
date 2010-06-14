@@ -30,9 +30,17 @@ SIFROL 0.52 mg prolonged-release tablets
 
 SIFROL 1.05 mg prolonged-release tablets
 
+[SIFROL 1.57 mg prolonged-release tablets]
+
+SIFROL 1.57 mg prolonged-release tablets
+
 [SIFROL 2.1 mg prolonged-release tablets]
 
 SIFROL 2.1 mg prolonged-release tablets
+
+[SIFROL 2.62 mg prolonged-release tablets]
+
+SIFROL 2.62 mg prolonged-release tablets
 
 [SIFROL 3.15 mg prolonged-release tablets]
 

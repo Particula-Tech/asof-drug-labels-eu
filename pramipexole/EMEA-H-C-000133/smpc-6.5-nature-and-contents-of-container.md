@@ -35,7 +35,15 @@ Cartons containing 1, 3 or 10 blister strips (10, 30 or 100 prolonged-release ta
 
 (all sentences already above)
 
+[SIFROL 1.57 mg prolonged-release tablets]
+
+(all sentences already above)
+
 [SIFROL 2.1 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[SIFROL 2.62 mg prolonged-release tablets]
 
 (all sentences already above)
 

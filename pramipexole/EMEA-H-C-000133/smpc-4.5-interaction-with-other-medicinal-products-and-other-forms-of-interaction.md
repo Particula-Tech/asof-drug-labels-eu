@@ -10,6 +10,7 @@ Inhibitors/competitors of active renal elimination pathway
 Cimetidine reduced the renal clearance of pramipexole by approximately 34%, presumably by inhibition of the cationic secretory transport system of the renal tubules.
 Therefore, medicinal products that are inhibitors of this active renal elimination pathway or are eliminated by this pathway, such as cimetidine, amantadine, and mexiletine, may interact with pramipexole resulting in reduced clearance of either or both medicinal products.
 Reduction of the pramipexole dose should be considered when these medicinal products are administered concomitantly with SIFROL.
+
 Combination with levodopa
 When SIFROL is given in combination with levodopa, it is recommended that the dose of levodopa is reduced and the dose of other anti-parkinsonian medicinal products is kept constant while increasing the dose of SIFROL.
 
@@ -46,7 +47,15 @@ Because of possible additive effects, caution should be advised when patients ar
 
 (all sentences already above)
 
+[SIFROL 1.57 mg prolonged-release tablets]
+
+(all sentences already above)
+
 [SIFROL 2.1 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[SIFROL 2.62 mg prolonged-release tablets]
 
 (all sentences already above)
 

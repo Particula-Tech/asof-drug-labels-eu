@@ -9,7 +9,6 @@ Patients should be informed that (mostly visual) hallucinations can occur.
 Dyskinesia
 In advanced Parkinson’s disease, in combination treatment with levodopa, dyskinesia can occur during the initial titration of SIFROL.
 If they occur, the dose of levodopa should be decreased.
-
 Sudden onset of sleep and somnolence
 Pramipexole has been associated with somnolence and episodes of sudden sleep onset, particularly in patients with Parkinson’s disease.
 Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported uncommonly.
@@ -42,3 +41,47 @@ Reports in the literature indicate that treatment of Restless Legs Syndrome with
 Augmentation refers to the earlier onset of symptoms in the evening (or even the afternoon), increase in symptoms, and spread of symptoms to involve other extremities.
 The controlled trials of SIFROL in patients with Restless Legs Syndrome were generally not of sufficient duration to adequately capture augmentation phenomena.
 The frequency of augmentation after longer use of SIFROL and the appropriate management of these events have not been evaluated in controlled clinical trials.
+
+[SIFROL 0.18 mg tablets]
+
+(all sentences already above)
+
+[SIFROL 0.35 mg tablets]
+
+(all sentences already above)
+
+[SIFROL 0.7 mg tablets]
+
+(all sentences already above)
+
+[SIFROL 1.1 mg tablets]
+
+(all sentences already above)
+
+[SIFROL 0.26 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[SIFROL 0.52 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[SIFROL 1.05 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[SIFROL 1.57 mg prolonged-release tablets]
+
+Because of possible additive effects, caution should be advised when patients are taking other sedating medicinal products or alcohol in combination with pramipexole (see sections 4.5, 4.7 and 4.8).
+
+[SIFROL 2.1 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[SIFROL 2.62 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[SIFROL 3.15 mg prolonged-release tablets]
+
+(all sentences already above)

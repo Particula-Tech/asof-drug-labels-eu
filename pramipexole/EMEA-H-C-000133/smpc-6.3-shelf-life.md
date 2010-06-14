@@ -30,7 +30,15 @@
 
 (all sentences already above)
 
+[SIFROL 1.57 mg prolonged-release tablets]
+
+(all sentences already above)
+
 [SIFROL 2.1 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[SIFROL 2.62 mg prolonged-release tablets]
 
 (all sentences already above)
 

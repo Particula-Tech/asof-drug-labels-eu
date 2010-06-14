@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: dopamine agonists, ATC code: N04BC05.
+Pharmacotherapeutic group: anti-Parkinson drugs, dopamine agonists, ATC code: N04BC05.
 
 Pramipexole is a dopamine agonist that binds with high selectivity and specificity to the D2 subfamily of dopamine receptors of which it has a preferential affinity to D3 receptors, and has full intrinsic activity.
 
@@ -22,11 +22,13 @@ Out of these, approximately 1,000 were in more advanced stages, received concomi
 
 In early and advanced Parkinson’s disease, efficacy of pramipexole in controlled clinical trials was maintained for approximately six months.
 In open continuation trials lasting for more than three years there were no signs of decreasing efficacy.
+
 In a controlled double blind clinical trial of 2 year duration, initial treatment with pramipexole significantly delayed the onset of motor complications, and reduced their occurrence compared to initial treatment with levodopa.
 This delay in motor complications with pramipexole should be balanced against a greater improvement in motor function with levodopa (as measured by the mean change in UPDRS-score).
 The overall incidence of hallucinations and somnolence was generally higher in the escalation phase with the pramipexole group.
 However, there was no significant difference during the maintenance phase.
 These points should be considered when initiating pramipexole treatment in patients with Parkinson’s disease.
+
 Clinical trials in Restless Legs Syndrome
 
 The efficacy of pramipexole was evaluated in four placebo-controlled clinical trials in approximately 1,000 patients with moderate to very severe idiopathic Restless Legs Syndrome.
@@ -60,7 +62,7 @@ In a placebo-controlled polysomnography study over 3 weeks SIFROL significantly 
 
 [SIFROL 0.26 mg prolonged-release tablets]
 
-The safety and efficacy of SIFROL prolonged-release tablets in the treatment of Parkinson's disease was evaluated in a multinational drug development program consisting of three randomized, controlled trials.
+The safety and efficacy of SIFROL prolonged-release tablets in the treatment of Parkinson's disease was evaluated in a multinational drug development program consisting of three randomised, controlled trials.
 Two trials were conducted in patients with early Parkinson's disease and one trial was conducted in patients with advanced Parkinson's disease.
 
 Superiority of SIFROL prolonged-release tablets over placebo was demonstrated after 18 weeks of treatment on both the primary (UPDRS Parts II+III score) and the key secondary (CGI-I and PGI-I responder rates) efficacy endpoints in a double-blind placebo-controlled trial including a total of 539 patients with early Parkinson’s disease.
@@ -83,7 +85,15 @@ Only one patient switched to SIFROL prolonged-release tablets experienced a drug
 
 (all sentences already above)
 
+[SIFROL 1.57 mg prolonged-release tablets]
+
+The safety and efficacy of SIFROL prolonged-release tablets in the treatment of Parkinson's disease was evaluated in a multinational drug development program consisting of three randomized, controlled trials.
+
 [SIFROL 2.1 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[SIFROL 2.62 mg prolonged-release tablets]
 
 (all sentences already above)
 

@@ -40,6 +40,7 @@ The once daily administration of SIFROL prolonged-release tablets causes less fr
 
 The maximum plasma concentrations occur at about 6 hours after administration of SIFROL prolonged-release tablets once daily.
 Steady state of exposure is reached at the latest after 5 days of continuous dosing.
+
 Concomitant administration with food does generally not affect the bioavailability of pramipexole.
 Intake of a high fat meal induced an increase in peak concentration (Cmax) of about 24% after a single dose administration and about 20% after multiple dose administrations and a delay of about 2 hours in time to reach peak concentration in healthy volunteers.
 Total exposure (AUC) was not affected by concomitant food intake.
@@ -58,7 +59,15 @@ However, in Phase III trials in Parkinson’s disease patients no clinically mea
 
 (all sentences already above)
 
+[SIFROL 1.57 mg prolonged-release tablets]
+
+(all sentences already above)
+
 [SIFROL 2.1 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[SIFROL 2.62 mg prolonged-release tablets]
 
 (all sentences already above)
 

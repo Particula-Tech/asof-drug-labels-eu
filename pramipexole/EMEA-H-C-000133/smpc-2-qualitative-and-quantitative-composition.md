@@ -36,9 +36,17 @@ Each prolonged-release tablet contains 0.75 mg pramipexole dihydrochloride monoh
 
 Each prolonged-release tablet contains 1.5 mg pramipexole dihydrochloride monohydrate equivalent to 1.05 mg pramipexole.
 
+[SIFROL 1.57 mg prolonged-release tablets]
+
+Each prolonged-release tablet contains 2.25 mg pramipexole dihydrochloride monohydrate equivalent to 1.57 mg pramipexole.
+
 [SIFROL 2.1 mg prolonged-release tablets]
 
 Each prolonged-release tablet contains 3 mg pramipexole dihydrochloride monohydrate equivalent to 2.1 mg pramipexole.
+
+[SIFROL 2.62 mg prolonged-release tablets]
+
+Each prolonged-release tablet contains 3.75 mg pramipexole dihydrochloride monohydrate equivalent to 2.62 mg pramipexole.
 
 [SIFROL 3.15 mg prolonged-release tablets]
 

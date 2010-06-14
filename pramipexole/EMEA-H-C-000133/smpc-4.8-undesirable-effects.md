@@ -17,7 +17,6 @@ The most commonly (≥ 5%) reported adverse drug reactions in patients with Park
 The incidence of somnolence is increased at doses higher than 1.5 mg pramipexole salt per day (see section 4.2).
 A more frequent adverse drug reaction in combination with levodopa was dyskinesia.
 Hypotension may occur at the beginning of treatment, especially if pramipexole is titrated too fast.
-
 Table 1: Parkinson’s disease
 
 | System Organ Class | Adverse Drug Reaction |
@@ -119,8 +118,6 @@ Based on the analysis of pooled placebo-controlled trials, comprising a total of
 
 The adverse drug reactions reported in the table below are those events that occurred in 0.1% or more of patients treated with pramipexole and were reported significantly more often in patients taking pramipexole than placebo, or where the event was considered clinically relevant.
 
-Within the system organ classes, adverse reactions are listed under headings of frequency (number of patients expected to experience the reaction), using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated form the available data).
-
 | System Organ Class | Adverse Drug Reaction |
 | --- | --- |
 | Infections and infestations |  |
@@ -161,7 +158,15 @@ See also section 4.4.
 
 (all sentences already above)
 
+[SIFROL 1.57 mg prolonged-release tablets]
+
+(all sentences already above)
+
 [SIFROL 2.1 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[SIFROL 2.62 mg prolonged-release tablets]
 
 (all sentences already above)
 

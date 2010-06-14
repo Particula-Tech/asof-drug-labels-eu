@@ -35,9 +35,17 @@ The tablets are white to off-white, of round shape, with bevelled edges, and hav
 
 The tablets are white to off-white, of oval shape, and have a code embossed (one side with the code P3, and one side with the Boehringer Ingelheim company symbol).
 
+[SIFROL 1.57 mg prolonged-release tablets]
+
+The tablets are white to off-white, of oval shape, and have a code embossed (one side with the code P12, and one side with the Boehringer Ingelheim company symbol).
+
 [SIFROL 2.1 mg prolonged-release tablets]
 
 The tablets are white to off-white, of oval shape, and have a code embossed (one side with the code P4, and one side with the Boehringer Ingelheim company symbol).
+
+[SIFROL 2.62 mg prolonged-release tablets]
+
+The tablets are white to off-white, of oval shape, and have a code embossed (one side with the code P13, and one side with the Boehringer Ingelheim company symbol).
 
 [SIFROL 3.15 mg prolonged-release tablets]
 

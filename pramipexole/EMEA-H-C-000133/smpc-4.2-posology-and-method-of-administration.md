@@ -1,8 +1,8 @@
 # 4.2 Posology and method of administration
 
-Parkinson’s disease
+Posology
 
-The tablets should be taken orally, swallowed with water, and can be taken either with or without food.
+Parkinson’s disease
 The daily dose is administered in equally divided doses 3 times a day.
 
 Initial treatment
@@ -22,10 +22,10 @@ However, it should be noted that the incidence of somnolence is increased at dos
 Maintenance treatment
 The individual dose of pramipexole should be in the range of 0.264 mg of base (0.375 mg of salt) to a maximum of 3.3 mg of base (4.5 mg of salt) per day.
 During dose escalation in pivotal studies, efficacy was observed starting at a daily dose of 1.1 mg of base (1.5 mg of salt).
-Further dose adjustments should be done based on the clinical response and the occurrence of undesirable effects.
+Further dose adjustments should be done based on the clinical response and the occurrence of adverse reactions.
 In clinical trials approximately 5% of patients were treated at doses below 1.1 mg of base (1.5 mg of salt).
 In advanced Parkinson’s disease, pramipexole doses higher than 1.1 mg of base (1.5 mg of salt) per day can be useful in patients where a reduction of the levodopa therapy is intended.
-It is recommended that the dose of levodopa is reduced during both the dose escalation and the maintenance treatment with SIFROL, depending on reactions in individual patients.
+It is recommended that the dose of levodopa is reduced during both the dose escalation and the maintenance treatment with SIFROL, depending on reactions in individual patients (see section 4.5).
 
 Treatment discontinuation
 Abrupt discontinuation of dopaminergic therapy can lead to the development of a neuroleptic malignant syndrome.
@@ -54,8 +54,6 @@ However, the potential influence of hepatic insufficiency on SIFROL pharmacokine
 
 Restless Legs Syndrome
 
-The tablets should be taken orally, swallowed with water, and can be taken either with or without food.
-
 The recommended starting dose of SIFROL is 0.088 mg of base (0.125 mg of salt) taken once daily 2-3 hours before bedtime.
 For patients requiring additional symptomatic relief, the dose may be increased every 4-7 days to a maximum of 0.54 mg of base (0.75 mg of salt) per day (as shown in the table below).
 
@@ -83,8 +81,12 @@ The use of SIFROL has not been studied in haemodialysis patients, or in patients
 Dosing in patients with hepatic impairment
 Dose adjustment in patients with hepatic failure is not required, as approx. 90% of absorbed active substance is excreted through the kidneys.
 
-Dosing in children and adolescents
+Paediatric population
 SIFROL is not recommended for use in children and adolescents below 18 years due to a lack of data on safety and efficacy.
+
+Method of administration
+
+The tablets should be taken orally, swallowed with water, and can be taken either with or without food.
 
 [SIFROL 0.18 mg tablets]
 
@@ -105,8 +107,6 @@ SIFROL is not recommended for use in children and adolescents below 18 years due
 [SIFROL 0.26 mg prolonged-release tablets]
 
 SIFROL prolonged-release tablets are a once-a-day oral formulation of pramipexole.
-The tablets should be swallowed whole with water, and must not be chewed, divided or crushed.
-The tablets may be taken either with or without food and should be taken each day at about the same time.
 
 Doses should be increased gradually from a starting dose of 0.26 mg of base (0.375 mg of salt) per day and then increased every 5 - 7 days.
 
@@ -142,6 +142,9 @@ The use of SIFROL tablets should be considered.
 
 If renal function declines during maintenance therapy, the recommendations given above should be followed.
 
+The tablets should be swallowed whole with water, and must not be chewed, divided or crushed.
+The tablets may be taken either with or without food and should be taken each day at about the same time.
+
 [SIFROL 0.52 mg prolonged-release tablets]
 
 (all sentences already above)
@@ -150,7 +153,15 @@ If renal function declines during maintenance therapy, the recommendations given
 
 (all sentences already above)
 
+[SIFROL 1.57 mg prolonged-release tablets]
+
+(all sentences already above)
+
 [SIFROL 2.1 mg prolonged-release tablets]
+
+(all sentences already above)
+
+[SIFROL 2.62 mg prolonged-release tablets]
 
 (all sentences already above)
 
