@@ -8,7 +8,7 @@ Each hard capsule also contains 35 mg lactose monohydrate.
 
 For a full list of excipients, see section 6.1.
 
-[LYRICA 50 mg hard capsules]
+[LYRICA 50 mg hard capsules.]
 
 Each hard capsule contains 50 mg of pregabalin.
 
@@ -20,7 +20,7 @@ Each hard capsule contains 75 mg of pregabalin.
 
 Each hard capsule also contains 8.25 mg lactose monohydrate.
 
-[LYRICA 100 mg hard capsules]
+[LYRICA 100 mg hard capsules.]
 
 Each hard capsule contains 100 mg of pregabalin.
 

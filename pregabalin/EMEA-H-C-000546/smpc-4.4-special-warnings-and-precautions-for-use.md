@@ -20,11 +20,12 @@ Cases of renal failure have been reported and in some cases discontinuation of p
 There are insufficient data for the withdrawal of concomitant antiepileptic medicinal products, once seizure control with pregabalin in the add-on situation has been reached, in order to reach monotherapy on pregabalin.
 
 After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
-The following events have been mentioned: insomnia, headache, nausea, diarrhoea, flu syndrome, nervousness, depression, pain, sweating and dizziness.
+The following events have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, nervousness, depression, pain, convulsion, sweating and dizziness.
 The patient should be informed about this at the start of the treatment.
 
-Concerning discontinuation of long-term treatment of pregabalin there are no data of the incidence and severity of withdrawal symptoms in relation to duration of use and dose of pregabalin.
+Convulsions, including status epilepticus and grand mal convulsions, may occur during pregabalin use or shortly after discontinuing pregabalin.
 
+Concerning discontinuation of long-term treatment of pregabalin there are no data of the incidence and severity of withdrawal symptoms in relation to duration of use and dose of pregabalin.
 There have been post-marketing reports of congestive heart failure in some patients receiving pregabalin.
 These reactions are mostly seen in elderly cardiovascular compromised patients during pregabalin treatment for a neuropathic indication.
 Pregabalin should be used with caution in these patients.
@@ -41,10 +42,18 @@ The mechanism of this risk is not known and the available data do not exclude th
 Therefore patients should be monitored for signs of suicidal ideation and behaviours and appropriate treatment should be considered.
 Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge.
 
+There are post-marketing reports of events related to reduced lower gastrointestinal tract function (e.g., intestinal obstruction, paralytic ileus, constipation) when pregabalin was co-administered with medications that have the potential to produce constipation, such as opioid analgesics.
+When pregabalin and opioids will be used in combination, measures to prevent constipation may be considered (especially in female patients and elderly).
+
+Cases of abuse have been reported.
+Caution should be exercised in patients with a history of substance abuse and the patient should be monitored for symptoms of pregabalin abuse.
+
+Cases of encephalopathy have been reported, mostly in patients with underlying conditions that may precipitate encephalopathy.
+
 Lyrica contains lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
 
-[LYRICA 50 mg hard capsules]
+[LYRICA 50 mg hard capsules.]
 
 Therefore, patients should be advised to exercise caution until they are familiar with the potential effects of themedicinal products.
 
@@ -52,7 +61,7 @@ Therefore, patients should be advised to exercise caution until they are familia
 
 (all sentences already above)
 
-[LYRICA 100 mg hard capsules]
+[LYRICA 100 mg hard capsules.]
 
 (all sentences already above)
 
@@ -95,5 +104,10 @@ Treatment of central neuropathic pain due to spinal cord injury
 Suicidal ideation and behaviour
 A meta-analysis of randomised placebo controlled studies of anti-epileptic drugs has also shown a small increased risk of suicidal ideation and behaviour.
 
+Reduced lower gastrointestinal tract function
+
+Abuse potential
+
+Encephalopathy
 Excipients which may cause allergic reactions
 LYRICA oral solution contains methyl parahydroxybenzoate and propyl parahydroxybenzoate which may cause allergic reactions (possibly delayed).

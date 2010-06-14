@@ -11,11 +11,10 @@ Pregabalin may potentiate the effects of ethanol and lorazepam.
 In controlled clinical trials, multiple oral doses of pregabalin co-administered with oxycodone, lorazepam, or ethanol did not result in clinically important effects on respiration.
 In the postmarketing experience, there are reports of respiratory failure and coma in patients taking pregabalin and other CNS depressant medicinal products.
 Pregabalin appears to be additive in the impairment of cognitive and gross motor function caused by oxycodone.
-
 No specific pharmacodynamic interaction studies were conducted in elderly volunteers.
 Interaction studies have only been performed in adults.
 
-[LYRICA 50 mg hard capsules]
+[LYRICA 50 mg hard capsules.]
 
 (all sentences already above)
 
@@ -23,7 +22,7 @@ Interaction studies have only been performed in adults.
 
 (all sentences already above)
 
-[LYRICA 100 mg hard capsules]
+[LYRICA 100 mg hard capsules.]
 
 (all sentences already above)
 
@@ -46,6 +45,7 @@ Interaction studies have only been performed in adults.
 [LYRICA 20 mg/ml oral solution]
 
 In vivo studies and population pharmacokinetic analysis
+
 Oral contraceptives, norethisterone and/or ethinyl oestradiol
 
 Ethanol, lorazepam, oxycodone

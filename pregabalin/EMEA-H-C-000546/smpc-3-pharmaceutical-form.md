@@ -3,7 +3,7 @@
 Hard capsule
 White, marked “Pfizer” on the cap and “PGN 25” on the body with black ink.
 
-[LYRICA 50 mg hard capsules]
+[LYRICA 50 mg hard capsules.]
 
 White, marked “Pfizer” on the cap and “PGN 50” on the body with black ink.
 The body is also marked with a black band.
@@ -12,7 +12,7 @@ The body is also marked with a black band.
 
 White and orange, marked “Pfizer” on the cap and “PGN 75” on the body with black ink.
 
-[LYRICA 100 mg hard capsules]
+[LYRICA 100 mg hard capsules.]
 
 Orange, marked “Pfizer” on the cap and “PGN 100” on the body with black ink.
 

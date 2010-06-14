@@ -3,7 +3,7 @@
 Date of first authorisation: 06/07/2004
 Date of last renewal: 29/05/2009
 
-[LYRICA 50 mg hard capsules]
+[LYRICA 50 mg hard capsules.]
 
 (all sentences already above)
 
@@ -11,7 +11,7 @@ Date of last renewal: 29/05/2009
 
 (all sentences already above)
 
-[LYRICA 100 mg hard capsules]
+[LYRICA 100 mg hard capsules.]
 
 (all sentences already above)
 

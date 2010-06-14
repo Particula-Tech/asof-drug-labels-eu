@@ -7,7 +7,6 @@ The active substance, pregabalin, is a gamma-aminobutyric acid analogue ((S)-3-(
 Mechanism of action
 
 Pregabalin binds to an auxiliary subunit (α2-δ protein) of voltage-gated calcium channels in the central nervous system, potently displacing [3H]-gabapentin.
-
 Clinical experience
 
 Neuropathic pain
@@ -19,6 +18,7 @@ Pregabalin has been studied in 10 controlled clinical studies of up to 13 weeks 
 Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
 
 In clinical trials up to 12 weeks for both peripheral and central neuropathic pain, a reduction in pain was seen by week 1 and was maintained throughout the treatment period.
+
 In controlled clinical trials in peripheral neuropathic pain 35% of the pregabalin treated patients and 18% of the patients on placebo had a 50% improvement in pain score.
 For patients not experiencing somnolence, such an improvement was observed in 33% of patients treated with pregabalin and 18% of patients on placebo.
 For patients who experienced somnolence the responder rates were 48% on pregabalin and 16% on placebo.
@@ -46,7 +46,7 @@ In these patients, visual acuity was reduced in 6.5% of patients treated with pr
 Visual field changes were detected in 12.4% of pregabalin-treated, and 11.7% of placebo-treated patients.
 Funduscopic changes were observed in 1.7% of pregabalin-treated and 2.1% of placebo-treated patients.
 
-[LYRICA 50 mg hard capsules]
+[LYRICA 50 mg hard capsules.]
 
 Efficacy has been shown in studies in diabetic neuropathy,post herpetic neuralgia and spinal cord injury.
 
@@ -54,7 +54,7 @@ Efficacy has been shown in studies in diabetic neuropathy,post herpetic neuralgi
 
 (all sentences already above)
 
-[LYRICA 100 mg hard capsules]
+[LYRICA 100 mg hard capsules.]
 
 (all sentences already above)
 

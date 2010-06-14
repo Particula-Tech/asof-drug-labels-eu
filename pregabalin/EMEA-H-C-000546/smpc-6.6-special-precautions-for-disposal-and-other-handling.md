@@ -2,7 +2,7 @@
 
 No special requirements.
 
-[LYRICA 50 mg hard capsules]
+[LYRICA 50 mg hard capsules.]
 
 (all sentences already above)
 
@@ -10,7 +10,7 @@ No special requirements.
 
 (all sentences already above)
 
-[LYRICA 100 mg hard capsules]
+[LYRICA 100 mg hard capsules.]
 
 (all sentences already above)
 
