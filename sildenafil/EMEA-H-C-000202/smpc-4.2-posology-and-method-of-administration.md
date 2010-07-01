@@ -17,10 +17,10 @@ The dosing recommendations described in ‘Use in adults’ apply to patients wi
 
 Since sildenafil clearance is reduced in patients with severe renal impairment (creatinine clearance <30 ml/min) a 25 mg dose should be considered.
 Based on efficacy and toleration, the dose may be increased to 50 mg and 100 mg.
-
 Use in patients with impaired hepatic function:
 Since sildenafil clearance is reduced in patients with hepatic impairment (e.g. cirrhosis) a 25 mg dose should be considered.
 Based on efficacy and toleration, the dose may be increased to 50 mg and 100 mg.
+
 Use in children and adolescents:
 VIAGRA is not indicated for individuals below 18 years of age.
 Use in patients using other:

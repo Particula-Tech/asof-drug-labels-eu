@@ -8,7 +8,6 @@ Prior to prescribing sildenafil, physicians should carefully consider whether th
 Patients with increased susceptibility to vasodilators include those with left ventricular outflow obstruction (e.g., aortic stenosis, hypertrophic obstructive cardiomyopathy), or those with the rare syndrome of multiple system atrophy manifesting as severely impaired autonomic control of blood pressure.
 
 VIAGRA potentiates the hypotensive effect of nitrates (see section 4.3).
-
 Serious cardiovascular events, including myocardial infarction, unstable angina, sudden cardiac death, ventricular arrhythmia, cerebrovascular haemorrhage, transient ischaemic attack, hypertension and hypotension have been reported post-marketing in temporal association with the use of VIAGRA.
 Most, but not all, of these patients had pre-existing cardiovascular risk factors.
 Many events were reported to occur during or shortly after sexual intercourse and a few were reported to occur shortly after the use of VIAGRA without sexual activity.

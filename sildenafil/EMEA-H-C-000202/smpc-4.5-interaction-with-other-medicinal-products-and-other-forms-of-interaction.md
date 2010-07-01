@@ -9,15 +9,13 @@ Therefore, inhibitors of these isoenzymes may reduce sildenafil clearance.
 In vivo studies:
 Population pharmacokinetic analysis of clinical trial data indicated a reduction in sildenafil clearance when co-administered with CYP3A4 inhibitors (such as ketoconazole, erythromycin, cimetidine).
 Although no increased incidence of adverse events was observed in these patients, when sildenafil is administered concomitantly with CYP3A4 inhibitors, a starting dose of 25 mg should be considered.
-
 Co-administration of the HIV protease inhibitor ritonavir, which is a highly potent P450 inhibitor, at steady state (500 mg twice daily) with sildenafil (100 mg single dose) resulted in a 300% (4-fold) increase in sildenafil Cmax and a 1,000% (11-fold) increase in sildenafil plasma AUC.
 At 24 hours, the plasma levels of sildenafil were still approximately 200 ng/ml, compared to approximately 5 ng/ml when sildenafil was administered alone.
 This is consistent with ritonavir’s marked effects on a broad range of P450 substrates.
 Sildenafil had no effect on ritonavir pharmacokinetics.
 Based on these pharmacokinetic results co-administration of sildenafil with ritonavir is not advised (see section 4.4) and in any event the maximum dose of sildenafil should under no circumstances exceed 25 mg within 48 hours.
 
-Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state
-(1200 mg three times a day) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
+Co-administration of the HIV protease inhibitor saquinavir, a CYP3A4 inhibitor, at steady state (1200 mg three times a day) with sildenafil (100 mg single dose) resulted in a 140% increase in sildenafil Cmax and a 210% increase in sildenafil AUC.
 Sildenafil had no effect on saquinavir pharmacokinetics (see section 4.2).
 Stronger CYP3A4 inhibitors such as ketoconazole and itraconazole would be expected to have greater effects.
 
@@ -44,7 +42,6 @@ There are no data on the interaction of sildenafil and non-specific phosphodiest
 
 In vivo studies:
 Consistent with its known effects on the nitric oxide/cGMP pathway (see section 5.1), sildenafil was shown to potentiate the hypotensive effects of nitrates, and its co-administration with nitric oxide donors or nitrates in any form is therefore contraindicated (see section 4.3).
-
 Concomitant administration of sildenafil to patients taking alpha-blocker therapy may lead to symptomatic hypotension in a few susceptible individuals.
 This is most likely to occur within 4 hours post sildenafil dosing (see sections 4.2 and 4.4).
 In three specific drug-drug interaction studies, the alpha-blocker doxazosin (4 mg and 8 mg) and sildenafil (25 mg, 50 mg, or 100 mg) were administered simultaneously to patients with benign prostatic hyperplasia (BPH) stabilized on doxazosin therapy.
@@ -54,8 +51,7 @@ These reports included dizziness and light-headedness, but not syncope.
 
 No significant interactions were shown when sildenafil (50 mg) was co-administered with tolbutamide (250 mg) or warfarin (40 mg), both of which are metabolised by CYP2C9.
 
-Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid
-(150 mg).
+Sildenafil (50 mg) did not potentiate the increase in bleeding time caused by acetyl salicylic acid (150 mg).
 
 Sildenafil (50 mg) did not potentiate the hypotensive effects of alcohol in healthy volunteers with mean maximum blood alcohol levels of 80 mg/dl.
 

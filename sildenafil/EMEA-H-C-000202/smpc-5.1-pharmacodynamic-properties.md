@@ -20,7 +20,6 @@ Its effect is more potent on PDE5 than on other known phosphodiesterases.
 There is a 10-fold selectivity over PDE6 which is involved in the phototransduction pathway in the retina.
 At maximum recommended doses, there is an 80-fold selectivity over PDE1, and over 700-fold over PDE2, 3, 4, 7, 8, 9, 10 and 11.
 In particular, sildenafil has greater than 4,000-fold selectivity for PDE5 over PDE3, the cAMP-specific phosphodiesterase isoform involved in the control of cardiac contractility.
-
 Two clinical studies were specifically designed to assess the time window after dosing during which sildenafil could produce an erection in response to sexual stimulation.
 In a penile plethysmography (RigiScan) study of fasted patients, the median time to onset for those who obtained erections of 60% rigidity (sufficient for sexual intercourse) was 25 minutes (range 12-37 minutes) on sildenafil.
 In a separate RigiScan study, sildenafil was still able to produce an erection in response to sexual stimulation 4-5 hours post-dose.

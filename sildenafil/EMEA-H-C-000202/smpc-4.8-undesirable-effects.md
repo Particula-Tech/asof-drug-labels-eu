@@ -2,11 +2,11 @@
 
 The safety profile of VIAGRA is based on 8691 patients who received the recommended dosing regimen in 67 placebo-controlled clinical studies.
 The most commonly reported adverse reactions in clinical studies among sildenafil treated patients were headache, flushing, dyspepsia, visual disorders, nasal congestion, dizziness and visual colour distortion.
-
 Adverse reactions from post-marketing surveillance has been gathered covering an estimated period >9 years.
 Because not all adverse reactions are reported to the Marketing Authorisation Holder and included in the safety database, the frequencies of these reactions cannot be reliably determined.
 
 In the table below all medically important adverse reactions, which occurred in clinical trials at an incidence greater than placebo are listed by system organ class and frequency (very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000).
+
 In addition, the frequency of medically important adverse reactions reported from post-marketing experience is included as not known.
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
@@ -67,10 +67,13 @@ Uncommon Vomiting, Nausea, Dry mouth
 Skin, subcutaneous and soft tissue disorders
 
 Uncommon Skin rash
+Not known Steven Johnson Syndrome (SJS), Toxic Epidermal
 
+Necrolysis (TEN)
 Musculoskeletal and connective tissue disorders
 
 Uncommon Myalgia
+System Organ Class Adverse Reactions
 
 Reproductive system and breast disorders
 
@@ -80,7 +83,6 @@ General disorders and administration site conditions
 
 Uncommon Chest pain, Fatigue
 
-Not known
 Investigations
 
 Uncommon Heart rate increased
