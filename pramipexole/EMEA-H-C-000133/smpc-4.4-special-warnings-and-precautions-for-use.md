@@ -39,8 +39,9 @@ Symptoms suggestive of neuroleptic malignant syndrome have been reported with ab
 Augmentation
 Reports in the literature indicate that treatment of Restless Legs Syndrome with dopaminergic medicinal products can result in augmentation.
 Augmentation refers to the earlier onset of symptoms in the evening (or even the afternoon), increase in symptoms, and spread of symptoms to involve other extremities.
-The controlled trials of SIFROL in patients with Restless Legs Syndrome were generally not of sufficient duration to adequately capture augmentation phenomena.
-The frequency of augmentation after longer use of SIFROL and the appropriate management of these events have not been evaluated in controlled clinical trials.
+Augmentation was specifically investigated in a controlled clinical trial over 26 weeks.
+Augmentation was observed in 11.8% of patients in the pramipexole group (N = 152) and 9.4% of patients in the placebo group (N = 149).
+Kaplan-Meier analysis of time to augmentation showed no significant difference between pramipexole and placebo groups.
 
 [SIFROL 0.18 mg tablets]
 

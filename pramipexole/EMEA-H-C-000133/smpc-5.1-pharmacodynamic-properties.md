@@ -32,9 +32,6 @@ These points should be considered when initiating pramipexole treatment in patie
 Clinical trials in Restless Legs Syndrome
 
 The efficacy of pramipexole was evaluated in four placebo-controlled clinical trials in approximately 1,000 patients with moderate to very severe idiopathic Restless Legs Syndrome.
-Efficacy was demonstrated in controlled trials in patients treated for up to 12 weeks.
-Maintenance of effect has not been sufficiently tested.
-
 The mean change from baseline in the Restless Legs Syndrome Rating Scale (IRLS) and the Clinical Global Impression-Improvement (CGI-I) were the primary efficacy outcome measures.
 For both primary endpoints statistically significant differences have been observed for the pramipexole dose groups 0.25 mg, 0.5 mg and 0.75 mg pramipexole salt in comparison to placebo.
 After 12 weeks of treatment the baseline IRLS score improved from 23.5 to 14.1 points for placebo and from 23.4 to 9.4 points for pramipexole (doses combined).
@@ -43,6 +40,10 @@ CGI-I responder rates (improved, very much improved) were 51.2% and 72.0% for pl
 Efficacy was observed with 0.088 mg of base (0.125 mg of salt) per day after the first week of treatment.
 
 In a placebo-controlled polysomnography study over 3 weeks SIFROL significantly reduced the number of periodic limb movements during time in bed.
+
+Longer term efficacy was evaluated in a placebo-controlled clinical trial.
+After 26 weeks of treatment, there was an adjusted mean reduction in IRLS total score of 13.7 and 11.1 points in the pramipexole and placebo group, respectively, with a statistically significant (p = 0.008) mean treatment difference of -2.6.
+CGI-I responder rates (much improved, very much improved) were 50.3% (80/159) and 68.5% (111/162) for placebo and pramipexole, respectively (p = 0.001), corresponding to a number needed to treat (NNT) of 6 patients (95%CI: 3.5, 13.4).
 
 [SIFROL 0.18 mg tablets]
 

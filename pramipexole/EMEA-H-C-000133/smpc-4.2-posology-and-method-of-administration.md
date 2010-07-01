@@ -66,12 +66,13 @@ For patients requiring additional symptomatic relief, the dose may be increased 
 | 4* | 0.54 | 0.75 |
 | * if needed |  |  |
 
-As long-term efficacy of SIFROL in the treatment of Restless Legs Syndrome has not been sufficiently tested, patient’s response should be evaluated after 3 months treatment and the need for treatment continuation should be reconsidered.
+Patient’s response should be evaluated after 3 months treatment and the need for treatment continuation should be reconsidered.
 If treatment is interrupted for more than a few days it should be re-initiated by dose titration carried out as above.
 
 Treatment discontinuation
 Since the daily dose for the treatment of Restless Legs Syndrome will not exceed 0.54 mg of base (0.75 mg of salt) SIFROL can be discontinued without tapering off.
-Rebound (worsening of symptoms after abrupt discontinuation of treatment) can not be excluded.
+In a 26 week placebo controlled trial, rebound of RLS symptoms (worsening of symptom severity as compared to baseline) was observed in 10% of patients (14 out of 135) after abrupt discontinuation of treatment.
+This effect was found to be similar across all doses.
 
 Dosing in patients with renal impairment
 The elimination of pramipexole is dependent on renal function.
