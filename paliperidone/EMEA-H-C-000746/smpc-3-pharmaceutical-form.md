@@ -2,7 +2,7 @@
 
 Prolonged-release tablet
 
-Trilayer capsule-shaped orange brown tablets printed with “PAL 1.5”
+Trilayer capsule-shaped orange brown tablets printed with “PAL 1.5”.
 
 [INVEGA 3 mg prolonged-release tablets]
 

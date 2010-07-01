@@ -6,9 +6,9 @@ INVEGA contains a racemic mixture of (+)- and (-)-paliperidone.
 
 Mechanism of Action
 Paliperidone is a selective blocking agent of monoamine effects, whose pharmacological properties are different from that of traditional neuroleptics.
-Paliperidone binds strongly to serotonergic 5-HT2- and dopaminergic D2-receptors.
+Paliperidone binds strongly to serotonergic 5-HT2-and dopaminergic D2-receptors.
 Paliperidone also blocks alfa1-adrenergic receptors and blocks, to a lesser extent, H1-histaminergic and alfa2-adrenergic receptors.
-The pharmacological activity of the (+)- and (-)- paliperidone enantiomers are qualitatively and quantitatively similar.
+The pharmacological activity of the (+)- and (-)-paliperidone enantiomers are qualitatively and quantitatively similar.
 
 Paliperidone is not bound to cholinergic receptors.
 Even though paliperidone is a strong D2-antagonist, which is believed to relieve the positive symptoms of schizophrenia, it causes less catalepsy and decreases motor functions to a lesser extent than traditional neuroleptics.
@@ -23,7 +23,6 @@ The primary efficacy endpoint was defined as a decrease in total Positive and Ne
 All tested doses of INVEGA separated from placebo on day 4 (p<0.05).
 Predefined secondary endpoints included the Personal and Social Performance (PSP) scale and the Clinical Global Impression – Severity (CGI-S) scale.
 In all three studies, INVEGA was superior to placebo on PSP and CGI-S.
-
 Positive and Negative Syndrome Scale for Schizophrenia (PANSS) Total Score - Change From Baseline to End Point- LOCF for Studies R076477-SCH-303, R076477-SCH-304, and R076477-SCH-305: Intent-to-Treat Analysis Set
 
 |  | Placebo | 3 mg | 6 mg | 9 mg | 12 mg |
@@ -37,22 +36,7 @@ For all 3 studies, an active control (olanzapine at a dose of 10 mg) was include
 LOCF = last observation carried forward.
 The 1-7 version of the PANSS was used.
 A 15 mg dose was also included in Study R076477-SCH-305, but results are not presented since this is above the maximum recommended daily dose of 12 mg.
+
 In a long-term trial designed to assess the maintenance of effect, INVEGA was significantly more effective than placebo in maintaining symptom control and delaying relapse of schizophrenia.
 After having been treated for an acute episode for 6 weeks and stabilized for an additional 8 weeks with INVEGA (doses ranging from 3 to 15 mg once daily) patients were then randomised in a double-blind manner to either continue on INVEGA or on placebo until they experienced a relapse in schizophrenia symptoms.
 The trial was stopped early for efficacy reasons by showing a significantly longer time to relapse in patients treated with INVEGA compared to placebo (p=0.0053).
-
-[INVEGA 3 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 6 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 9 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 12 mg prolonged-release tablets]
-
-Paliperidone also blocks alfa1-adrenergic receptors and, blocks, to a lesser extent, H1-histaminergic and alfa2-adrenergic receptors.

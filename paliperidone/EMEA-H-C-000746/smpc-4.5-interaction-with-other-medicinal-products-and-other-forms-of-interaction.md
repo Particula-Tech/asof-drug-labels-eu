@@ -12,12 +12,12 @@ If this combination is deemed necessary, particularly in end-stage Parkinson’s
 
 Because of its potential for inducing orthostatic hypotension (see section 4.4), an additive effect may be observed when INVEGA is administered with other therapeutic agents that have this potential, e.g., other antipsychotics, tricyclics.
 
-Caution is advised if paliperidone is combined with other medicines know to lower the seizure threshold (i.e., phenothiazines or butyrophenones, tricyclics or SSRIs, tramadol, mefloquine, etc.).
-
+Caution is advised if paliperidone is combined with other medicines known to lower the seizure threshold (i.e., phenothiazines or butyrophenones, clozapine, tricyclics or SSRIs, tramadol, mefloquine, etc.).
 Potential for other medicines to affect INVEGA
 In vitro studies indicate that CYP2D6 and CYP3A4 may be minimally involved in paliperidone metabolism, but there are no indications in vitro nor in vivo that these isozymes play a significant role in the metabolism of paliperidone.
 Concomitant administration of INVEGA with paroxetine, a potent CYP2D6 inhibitor, showed no clinically significant effect on the pharmacokinetics of paliperidone.
 In vitro studies have shown that paliperidone is a P-glycoprotein (P-gp) substrate.
+
 Co-administration of INVEGA once daily with carbamazepine 200 mg twice daily caused a decrease of approximately 37% in the mean steady-state Cmax and AUC of paliperidone.
 This decrease is caused, to a substantial degree, by a 35% increase in renal clearance of paliperidone likely as a result of induction of renal P-gp by carbamazepine.
 A minor decrease in the amount of active substance excreted unchanged in the urine suggests that there was little effect on the CYP metabolism or bioavailability of paliperidone during carbamazepine co-administration.
@@ -31,27 +31,3 @@ Medicinal products affecting gastrointestinal transit time may affect the absorp
 
 Concomitant use of INVEGA with risperidone
 Concomitant use of INVEGA with oral risperidone is not recommended as paliperidone is the active metabolite of risperidone and the combination of the two may lead to additive paliperidone exposure.
-
-[INVEGA 3 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 6 mg prolonged-release tablets]
-
-Given the primary CNS effects of paliperidone (see section 4.8), INVEGA should be used with caution in combination with other centrally acting medicines e.g. anxiolytics, most antipsychotics, hypnotics, opiates, etc. or alcohol.
-
-Because of its potential for inducing orthostatic hypotension (see section 4.4), an additive effect may be observed when INVEGA is administered with other therapeutic agents that have this potentiale.g. other antipsychotics, tricyclics.
-
-Caution is advised if paliperidone is combined with other medicines know to lower the seizure threshold (i.e. phenothiazines or butyrophenones, tricyclics or SSRIs, tramadol, mefloquine, etc.).
-
-Medicinal products affecting gastrointestinal transit time may affect the absorption of paliperidone, e.g. metoclopramide.
-
-[INVEGA 9 mg prolonged-release tablets]
-
-Because of its potential for inducing orthostatic hypotension (see section 4.4), an additive effect may be observed when INVEGA is administered with other therapeutic agents that have this potential, e.g. other antipsychotics, tricyclics.
-
-Medicinal products affecting gastrointestinal transit time may affect the absorption of paliperidone e.g. metoclopramide.
-
-[INVEGA 12 mg prolonged-release tablets]
-
-Because of its potential for inducing orthostatic hypotension (see section 4.4), an additive effect may be observed when INVEGA is administered with other therapeutic agents that have this potential e.g. other antipsychotics, tricyclics.

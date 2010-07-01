@@ -56,6 +56,7 @@ INVEGA should be used with caution in elderly patients with dementia who have ri
 Parkinson’s disease and dementia with Lewy bodies
 Physicians should weigh the risks versus the benefits when prescribing antipsychotic medicinal products, including INVEGA, to patients with Parkinson’s Disease or Dementia with Lewy Bodies (DLB) since both groups may be at increased risk of Neuroleptic Malignant Syndrome as well as having an increased sensitivity to antipsychotics.
 Manifestation of this increased sensitivity can include confusion, obtundation, postural instability with frequent falls, in addition to extrapyramidal symptoms.
+
 Priapism
 Antipsychotic drugs (including risperidone) with α-adrenergic blocking effects have been reported to induce priapism.
 During post-marketing surveillance priapism has also been reported with paliperidone, which is the active metabolite of risperidone.

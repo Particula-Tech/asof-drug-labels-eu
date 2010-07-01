@@ -12,7 +12,6 @@ The release characteristics of INVEGA result in minimal peak-trough fluctuations
 The absolute oral bioavailability of paliperidone following INVEGA administration is 28% (90% CI of 23%-33%).
 
 Administration of paliperidone prolonged-release tablets with a standard high-fat/high-caloric meal increases Cmax and AUC of paliperidone by up to 50-60% compared with administration in the fasting state.
-
 Distribution
 Paliperidone is rapidly distributed.
 The apparent volume of distribution is 487 l. The plasma protein binding of paliperidone is 74%.
@@ -34,9 +33,11 @@ Hepatic Impairment
 Paliperidone is not extensively metabolized in the liver.
 In a study in subjects with moderate hepatic impairment (Child-Pugh class B), the plasma concentrations of free paliperidone were similar to those of healthy subjects.
 No data are available in patients with severe hepatic impairment (Child-Pugh class C).
+
 Renal Impairment
 Elimination of paliperidone decreased with decreasing renal function.
-Total clearance of paliperidone was reduced in subjects with impaired renal function by 32% in mild (Creatinine Clearance [Cr Cl] = 50 to < 80 ml/min), 64% in moderate (CrCl = 30 to < 50 ml/min), and 71% in severe (CrCl = < 30 ml/min) renal impairment.
+Total clearance of paliperidone was reduced in subjects with impaired renal function by 32% in mild (Creatinine Clearance [Cr Cl] = 50 to < 80 ml/min), 64% in moderate (CrCl = 30 to < 50 ml/min), and 71% in severe (CrCl = <
+30 ml/min) renal impairment.
 The mean terminal elimination half-life of paliperidone was 24, 40, and 51 hours in subjects with mild, moderate, and severe renal impairment, respectively, compared with 23 hours in subjects with normal renal function (CrCl ≥ 80 ml/min).
 
 Elderly
@@ -49,24 +50,7 @@ Population pharmacokinetics analysis revealed no evidence of race-related differ
 Gender
 The apparent clearance of paliperidone following INVEGA administration is approximately 19% lower in women than men.
 This difference is largely explained by differences in lean body mass and creatinine clearance between men and women.
-
 Smoking Status
 Based on in vitro studies utilising human liver enzymes, paliperidone is not a substrate for CYP1A2; smoking should, therefore, not have an effect on the pharmacokinetics of paliperidone.
 A population pharmacokinetic analysis showed a slightly lower exposure to paliperidone in smokers compared with non-smokers.
 The difference is unlikely to be of clinical relevance, though.
-
-[INVEGA 3 mg prolonged-release tablets]
-
-Total clearance of paliperidone was reduced in subjects with impaired renal function by 32% in mild (Creatinine Clearance [CrCl] = 50 to < 80 ml/min), 64% in moderate (CrCl = 30 to < 50 ml/min), and 71% in severe (CrCl = < 30 ml/min) renal impairment.
-
-[INVEGA 6 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 9 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 12 mg prolonged-release tablets]
-
-(all sentences already above)
