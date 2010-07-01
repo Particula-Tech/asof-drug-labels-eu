@@ -13,6 +13,7 @@ The effect of CsA was also reflected by increases in sirolimus Cmax and tmax.
 When given 2 hours before CsA administration, sirolimus Cmax and AUC were not affected.
 Single-dose sirolimus did not affect the pharmacokinetics of ciclosporin (microemulsion) in healthy volunteers when administered simultaneously or 4 hours apart.
 It is recommended that Rapamune be administered 4 hours after ciclosporin (microemulsion).
+
 Rifampicin (CYP3A4 inducer): Administration of multiple doses of rifampicin decreased sirolimus whole blood concentrations following a single 10 mg dose of Rapamune oral solution.
 Rifampicin increased the clearance of sirolimus by approximately 5.5-fold and decreased AUC and Cmax by approximately 82% and 71%, respectively.
 Co-administration of sirolimus and rifampicin is not recommended (see section 4.4).
@@ -45,7 +46,6 @@ Other possible interactions
 Moderate and weak inhibitors of CYP3A4 may decrease the metabolism of sirolimus and increase sirolimus blood levels (e.g. calcium channel blockers: nicardipine; antifungal agents: clotrimazole, fluconazole; antibiotics: troleandomycin; other substances: bromocriptine, cimetidine, danazol, protease inhibitors).
 
 Inducers of CYP3A4 may increase the metabolism of sirolimus and decrease sirolimus blood levels (e.g. St. John's wort (Hypericum perforatum), anticonvulsants: carbamazepine, phenobarbital, phenytoin).
-
 Although sirolimus inhibits human liver microsomal cytochrome P450 CYP2C9, CYP2C19, CYP2D6, and CYP3A4/5 in vitro, the active substance is not expected to inhibit the activity of these isozymes in vivo since the sirolimus concentrations necessary to produce inhibition are much higher than those observed in patients receiving therapeutic doses of Rapamune.
 Inhibitors of P-gp may decrease the efflux of sirolimus from intestinal cells and increase sirolimus levels.
 

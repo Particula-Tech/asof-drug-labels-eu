@@ -17,7 +17,6 @@ In patients with severe hepatic impairment, reduction in maintenance dose by one
 Since half-life is prolonged in these patients, therapeutic drug monitoring after a loading dose or a change of dose should be performed for a prolonged period of time until stable concentrations are reached (see sections 4.2 and 5.2).
 
 Co-administration of sirolimus with strong inhibitors of CYP3A4 (such as ketoconazole, voriconazole, itraconazole, telithromycin or clarithromycin) or inducers of CYP3A4 (such as rifampin, rifabutin) is not recommended (see section 4.5).
-
 Increased susceptibility to infection and the possible development of lymphoma and other malignancies, particularly of the skin, may result from immunosuppression (see section 4.8).
 Oversuppression of the immune system can also increase susceptibility to infection including opportunistic infections, fatal infections, and sepsis.
 Patients treated with immunosuppressants, including Rapamune, are at increased risk for opportunistic infections (bacterial, fungal, viral and protozoal).
@@ -42,7 +41,7 @@ Cases of bronchial anastomotic dehiscence, most fatal, have been reported in de 
 
 Hypersensitivity reactions, including anaphylactic/anaphylactoid reactions, angioedema, exfoliative dermatitis, and hypersensitivity vasculitis, have been associated with the administration of sirolimus (see section 4.8).
 
-In rare cases, the concomitant administration of sirolimus and ACE inhibitors has resulted in angioneurotic oedema-type reactions.
+The concomitant administration of sirolimus and ACE inhibitors has resulted in angioneurotic oedema-type reactions.
 
 As usual for patients with increased risk for skin cancer, exposure to sunlight and UV light should be limited by wearing protective clothing and using a sunscreen with a high protection factor.
 
@@ -50,14 +49,13 @@ Cases of Pneumocystis carinii pneumonia have been reported in patients not recei
 Therefore, antimicrobial prophylaxis for Pneumocystis carinii pneumonia should be administered for the first 12 months following transplantation.
 
 Cytomegalovirus (CMV) prophylaxis is recommended for 3 months after transplantation, particularly for patients at increased risk for CMV disease.
-
 The use of Rapamune in renal transplant patients was associated with increased serum cholesterol and triglycerides that may require treatment.
 Patients administered Rapamune should be monitored for hyperlipidemia using laboratory tests and if hyperlipidemia is detected, subsequent interventions such as diet, exercise, and lipid-lowering agents should be initiated.
 The risk/benefit should be considered in patients with established hyperlipidemia before initiating an immunosuppressive regimen including Rapamune.
 Similarly the risk/benefit of continued Rapamune therapy should be re-evaluated in patients with severe refractory hyperlipidemia.
 
 In clinical trials, the concomitant administration of Rapamune and HMG-CoA reductase inhibitors and/or fibrates was well tolerated.
-During Rapamune therapy, patients administered an HMG-CoA reductase inhibitor and/or fibrate, should be monitored for the possible development of rhabdomyolysis and other adverse effects as described in the respective Summary of Product Characteristics of these agents.
+During Rapamune therapy with or without CsA, patients should be monitored for elevated lipids, and patients administered an HMG-CoA reductase inhibitor and/or fibrate, should be monitored for the possible development of rhabdomyolysis and other adverse effects as described in the respective Summary of Product Characteristics of these agents.
 
 Renal function should be monitored during concomitant administration of Rapamune and ciclosporin.
 Appropriate adjustment of the immunosuppression regimen should be considered in patients with elevated serum creatinine levels.
