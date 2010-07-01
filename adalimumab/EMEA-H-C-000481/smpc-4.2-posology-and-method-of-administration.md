@@ -24,10 +24,10 @@ Dose Interruption
 There may be a need for dose interruption, for instance before surgery or if a serious infection occurs.
 
 Available data suggest that re-introduction of Humira after discontinuation for 70 days or longer resulted in the same magnitudes of clinical response and similar safety profile as before dose interruption.
+
 Psoriatic arthritis and ankylosing spondylitis
 
 The recommended dose of Humira for patients with psoriatic arthritis or ankylosing spondylitis is 40 mg adalimumab administered every other week as a single dose via subcutaneous injection.
-
 For all of the above indications, available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
 Continued therapy should be carefully reconsidered in a patient not responding within this time period.
 
@@ -65,6 +65,7 @@ The recommended dose of Humira for patients with polyarticular juvenile idiopath
 
 Available data suggest that clinical response is usually achieved within 12 weeks of treatment.
 Continued therapy should be carefully reconsidered in a patient not responding within this time period.
+
 Impaired renal and/or hepatic function
 
 Humira has not been studied in these patient populations.

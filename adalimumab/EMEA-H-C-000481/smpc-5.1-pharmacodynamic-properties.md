@@ -15,7 +15,9 @@ After treatment with Humira, a rapid decrease in levels of acute phase reactants
 Serum levels of matrix metalloproteinases (MMP-1 and MMP-3) that produce tissue remodelling responsible for cartilage destruction were also decreased after Humira administration.
 Patients treated with Humira usually experienced improvement in haematological signs of chronic inflammation.
 
-A rapid decrease in CRP levels was also observed in patients with Crohn’s disease.
+In patients with Crohn’s disease, a rapid decrease in CRP levels was also observed, as well as a reduction of the number of cells expressing inflammatory markers in the colon including a significant reduction of expression of TNFα.
+Endoscopic studies in intestinal mucosa have shown evidence of mucosal healing in adalimumab treated patient.
+
 A rapid decrease in CRP levels was also observed in patients with polyarticular juvenile idiopathic arthritis.
 
 Clinical trials
@@ -54,6 +56,7 @@ The primary end point in RA studies I, II and III and the secondary endpoint in 
 The primary endpoint in RA study V was the percent of patients who achieved an ACR 50 response at Week 52.
 RA studies III and V had an additional primary endpoint at 52 weeks of retardation of disease progression (as detected by X-ray results).
 RA study III also had a primary endpoint of changes in quality of life.
+
 ACR response
 
 The percent of Humira-treated patients achieving ACR 20, 50 and 70 responses was consistent across RA studies I, II and III.
@@ -81,8 +84,8 @@ Among those, 86, 72, and 41 patients had ACR 20/50/70 response, respectively at 
 In RA study IV, the ACR 20 response of patients treated with Humira plus standard of care was statistically significantly better than patients treated with placebo plus standard of care (p < 0.001).
 
 In RA studies I-IV, Humira-treated patients achieved statistically significant ACR 20 and 50 responses compared to placebo as early as one to two weeks after initiation of treatment.
-In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at Week 52 and responses were sustained at Week 104 (see Table 4).
 
+In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at Week 52 and responses were sustained at Week 104 (see Table 4).
 Table 4 ACR Responses in RA Study V
 (percent of patients)
 
@@ -110,6 +113,7 @@ Humira/methotrexate patients demonstrated significantly less radiographic progre
 Data from the open-label extension phase indicate that the reduction in rate of progression of structural damage is maintained for 60 months in a subset of patients.
 113/207 of patients originally treated with 40 mg Humira every other week were evaluated radiographically at 5 years.
 Among those, 66 patients showed no progression of structural damage defined by a change in the TSS of zero or less.
+
 Table 5 Radiographic Mean Changes Over 12 Months in RA Study III
 
 |  | Placebo/ MTXa | HUMIRA/MTX 40 mg every other week | Placebo/MTX-HUMIRA/MTX (95% Confidence Intervalb) | p-value |
@@ -119,7 +123,6 @@ Table 5 Radiographic Mean Changes Over 12 Months in RA Study III
 | JSNd score | 1.0 | 0.1 | 0.9 (0.3, 1.4) | 0.002 |
 
 amethotrexate b95% confidence intervals for the differences in change scores between methotrexate and Humira. cBased on rank analysis dJoint Space Narrowing
-
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see Table 6).
 
 Table 6 Radiographic Mean Changes at Week 52 in RA Study V
@@ -141,6 +144,7 @@ Health-related quality of life and physical function was assessed using the disa
 All doses/schedules of Humira in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to Month 6 compared to placebo and in RA study III the same was seen at Week 52.
 Results from the Short Form Health Survey (SF 36) for all doses/schedules of Humira in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose.
 A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
+
 In RA study III, improvement in physical function was maintained through Week 260 (60 months) of open-label treatment.
 Improvement in quality of life was measured up to Week 156 (36 months) and improvement was maintained through that time.
 
@@ -188,7 +192,6 @@ Overall responses were generally better and, fewer patients developed antibodies
 Taking these results into consideration, Humira is recommended for use in combination with MTX and for use as monotherapy in patients for whom MTX use is not appropriate (see section 4.2).
 
 Psoriatic arthritis
-
 Humira, 40 mg every other week, was studied in patients with moderately to severely active psoriatic arthritis in two placebo-controlled studies, PsA studies I and II.
 PsA study I with 24 week duration, treated 313 adult patients who had an inadequate response to non-steroidal anti-inflammatory drug therapy and of these, approximately 50% were taking methotrexate.
 PsA study II with 12- week duration, treated 100 patients who had an inadequate response to DMARD therapy.
@@ -216,6 +219,7 @@ ACR responses were maintained in the open-label extension study for up to 136 we
 Radiographic changes were assessed in the psoriatic arthritis studies.
 Radiographs of hands, wrists, and feet were obtained at baseline and Week 24 during the double-blind period when patients were on Humira or placebo and at Week 48 when all patients were on open-label Humira.
 A modified Total Sharp Score (mTSS), which included distal interphalangeal joints (i.e., not identical to the TSS used for rheumatoid arthritis), was used.
+
 Humira treatment reduced the rate of progression of peripheral joint damage compared with placebo treatment as measured by change from baseline in mTSS (mean ± SD) 0.8 ± 2.5 in the placebo group (at Week 24) compared with 0.0 ± 1.9; (p< 0.001) in the Humira group (at Week 48).
 
 In subjects treated with Humira with no radiographic progression from baseline to Week 48 (n=102), 84% continued to show no radiographic progression through 144 weeks of treatment.
@@ -256,16 +260,16 @@ Reduction of Signs and Symptoms
 | Week 24 | 15% | 42%*** |
 
 ***,** Statistically significant at p < 0.001, < 0.01 for all comparisons between Humira and placebo at Weeks 2, 12 and 24 a ASsessments in Ankylosing Spondylitis b Bath Ankylosing Spondylitis Disease Activity Index
+
 Humira treated patients had significantly greater improvement at Week 12 which was maintained through Week 24 in both the SF36 and Ankylosing Spondylitis Quality of Life Questionnaire (ASQoL).
 
 Similar trends (not all statistically significant) were seen in the smaller randomised, double − blind, placebo controlled AS study II of 82 adult patients with active ankylosing spondylitis.
 
 Crohn’s disease
 
-The safety and efficacy of Humira were assessed in over 1400 patients with moderately to severely active Crohn’s disease (Crohn’s Disease Activity Index (CDAI) ≥ 220 and ≤ 450) in randomised, double-blind, placebo-controlled studies.
-478 of the enrolled patients (32%) were defined as having a severe disease (CDAI score > 300 and concomitant corticosteroid and/or immunosuppressants) corresponding to the population defined in the indication (see section 4.1).
-Concomitant stable doses of aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted and 79% of patients continued to receive at least one of these medications.
-
+The safety and efficacy of Humira were assessed in over 1500 patients with moderately to severely active Crohn’s disease (Crohn’s Disease Activity Index (CDAI) ≥ 220 and ≤ 450) in randomised, double-blind, placebo-controlled studies.
+524 of the enrolled patients (32%) were defined as having a severe disease (CDAI score > 300 and concomitant corticosteroid and/or immunosuppressants) corresponding to the population defined in the indication (see section 4.1).
+Concomitant stable doses of aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted and 80% of patients continued to receive at least one of these medications.
 Induction of clinical remission (defined as CDAI < 150) was evaluated in two studies, CD Study I (CLASSIC I) and CD Study II (GAIN).
 In CD Study I, 299 TNF-antagonist naive patients were randomised to one of four treatment groups; placebo at Weeks 0 and 2, 160 mg Humira at Week 0 and 80 mg at week 2, 80 mg at Week 0 and 40 mg at Week 2, and 40 mg at Week 0 and 20 mg at Week 2.
 In CD Study II, 325 patients who had lost response or were intolerant to infliximab were randomised to receive either 160 mg Humira at Week 0 and 80 mg at Week 2 or placebo at weeks 0 and 2.
@@ -295,11 +299,13 @@ All p-values are pairwise comparisons of proportions for Humira versus placebo
 ** p < 0.01
 
 Similar remission rates were observed for the 160/80 mg and 80/40 mg induction regimens by Week 8 and adverse events were more frequently noted in the 160/80 mg group.
+
 In CD Study III, at Week 4, 58% (499/854) of patients were in clinical response and were assessed in the primary analysis.
 Of those in clinical response at Week 4, 48% had been previously exposed to other anti-TNF therapy.
 Maintenance of remission and response rates are presented in Table 12.
 Clinical remission results remained relatively constant irrespective of previous TNF antagonist exposure.
 
+Disease-related hospitalisation and surgeries were statistically significantly reduced with adalimumab compared with placebo at Week 56.
 Table 12
 Maintenance of Clinical Remission and Response
 (Percent of Patients)
@@ -321,6 +327,10 @@ Maintenance of Clinical Remission and Response
 Among patients who were not in response at Week 4, 43% of Humira maintenance patients responded by Week 12 compared to 30% of placebo maintenance patients.
 These results suggest that some patients who have not responded by Week 4 benefit from continued maintenance therapy through Week 12.
 Therapy continued beyond 12 weeks did not result in significantly more responses (see section 4.2).
+
+117/276 patients from CD study I and 272/777 patients from CD studies II and III were followed through at least 3 years of open-label adalimumab therapy.
+88 and 189 patients, respectively, continued to be in clinical remission.
+Clinical response (CR-100) was maintained in 102 and 233 patients, respectively.
 
 Quality of Life
 
@@ -444,13 +454,13 @@ Subjects (n=215, 54.7%) who failed to achieve ASAS 20 at Weeks 12, or 16 or 20 r
 
 Clinical remission results remained relatively constant irrespective of previous TNF-antagonist exposure.
 
+Disease-related hospitalisations and surgeries were statistically significantly reduced with adalimumab compared with placebo at Week 56.
+
 Ps Study I (REVEAL) - Efficacy Results at 16 Weeks
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
 The primary end point in RA studies I, II and III and the secondary endpoint in RA study IV was the percentage of patients who achieved an ACR 20 response at Week 24 or 26.
-
-.
 
 Humira treatment reduced the rate of progression of peripheral joint damage compared with placebo treatment as measured by change from baseline in mTSS (mean ± SD) 0.8 ± 2.5 in the placebo group (at Week 24) compared with 0.0 ± 1.9 (p< 0.001) in the Humira group (at Week 48)).
 
@@ -483,3 +493,5 @@ Table 10
 Efficacy Responses in Placebo-Controlled AS Study – Study I
 
 CD Study I and CD Study II induction of remission and response rates are presented in Table 9.
+
+Disease-related hospitalisations and surgeries were statistically significantly reduced with adlalimuman compared with placebo at Week 56.
