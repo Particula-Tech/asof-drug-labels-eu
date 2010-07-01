@@ -20,6 +20,8 @@ Breast cancer
 
 TAXOTERE in combination with doxorubicin and cyclophosphamide: adjuvant therapy
 
+Patients with operable node-positive breast cancer (TAX 316)
+
 Data from a multicenter open label randomized study support the use of docetaxel for the adjuvant treatment of patients with operable node-positive breast cancer and KPS ≥ 80%, between 18 and 70 years of age.
 After stratification according to the number of positive lymph nodes (1-3, 4+),
 1491 patients were randomized to receive either docetaxel 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (FAC arm).
@@ -46,6 +48,55 @@ The beneficial effect of TAC was not proven in patients with 4 and more positive
 The effect appears to be less pronounced than in patients with 1-3 positive nodes.
 The benefit/risk ratio was not defined fully in patients with 4 and more positive nodes at this analysis stage.
 
+Patients with operable node-negative breast cancer eligible to receive chemotherapy (GEICAM 9805)
+
+Data from a multicenter open label randomized trial support the use of TAXOTERE for the adjuvant treatment of patients with operable node-negative breast cancer eligible to receive chemotherapy.
+1060 patients were randomized to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (539 patients in TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (521 patients in FAC arm), as adjuvant treatment of operable node-negative breast cancer patients with high risk of relapse according to 1998 St. Gallen criteria (tumour size >2 cm and/or negative ER and PR and/or high histological/nuclear grade (grade 2 to 3) and /or age <35 years).
+Both regimens were administered once every 3 weeks for 6 cycles.
+TAXOTERE was administered as a 1-hour infusion, all other drugs were given intraveinously on day 1 every three weeks.
+Primary prophylactic G-CSF was made mandatory in TAC arm after 230 patients were randomized.
+The incidence of Grade 4 neutropenia, febrile neutropenia and neutropenic infection was decreased in patients who received primary G-CSF prophylaxis (see section 4.8).
+In both arms, after the last cycle of chemotherapy, patients with ER+ and/or PgR+ tumours received tamoxifen 20 mg once a day for up to 5 years.
+Adjuvant radiation therapy was administered according to guidelines in place at participating institutions and was given to 57.3% of patients who received TAC and 51.2% of patients who received FAC.
+
+Median duration of follow-up was 77 months.
+Significantly longer disease-free survival for the TAC arm compared to the FAC arm was demonstrated.
+TAC-treated patients had a 32% reduction in the risk of relapse compared to those treated with FAC (hazard ratio = 0.68, 95% CI (0.49-0.93), p = 0.01).
+Overall survival (OS) was also longer in the TAC arm with TAC-treated patients having a 24% reduction in the risk of death compared to FAC (hazard ratio = 0.76, 95% CI (0.46-1.26, p = 0.29).
+However, the distribution of OS was not significantly different between the 2 groups.
+
+TAC-treated patient subsets according to prospectively defined major prognostic factors were analyzed (see table below):
+Subset Analyses-Adjuvant Therapy in Patients with Node-negative Breast Cancer Study (Intent-to-Treat Analysis)
+
+| Patient subset | Number of patients in TAC group | Disease Free Survival |  |
+| --- | --- | --- | --- |
+|  |  | Hazard ratio* | 95% CI |
+| Overall | 539 | 0.68 | 0.49-0.93 |
+| Age category 1 <50 years ≥50 years | 260 279 | 0.67 0.67 | 0.43-1.05 0.43-1.05 |
+| Age category 2 <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
+| Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
+| Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
+| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
+|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
+| Menopausal status Pre-Menopausal Post-Menopausal | 285 254 | 0.64 0.72 | 0.40-1 0.47-1.12 |
+
+*a hazard ratio (TAC/FAC) of less than 1 indicates that TAC is associated with a longer disease free survival compared to FAC.
+
+Exploratory subgroup analyses for disease-free survival for patients who meet the 2009 St. Gallen chemotherapy criteria – (ITT population) were performed and presented here below
+
+|  | TAC | FAC | Hazard ratio (TAC/FAC) |  |
+| --- | --- | --- | --- | --- |
+| Subgroups | (n=539) | (n=521) | (95% CI) | p-value |
+| Meeting relative indication for chemotherapy a |  |  |  |  |
+| No | 18/214 (8.4%) | 26/227 (11.5%) | 0.796 (0.434 - 1.459) | 0.4593 |
+| Yes | 48/325 (14.8%) | 69/294 (23.5%) | 0.606 (0.42 - 0.877) | 0.0072 |
+
+TAC = docetaxel, doxorubicin and cyclophosphamide
+FAC = 5-fluorouracil, doxorubicin and cyclophospamide
+CI = confidence interval; ER = estrogen receptor
+PR = progesterone receptor a ER/PR-negative or Grade 3 or tumor size >5 cm
+
+The estimated hazard ratio was using Cox proportional hazard model with treatment group as the factor.
 TAXOTERE as single agent
 
 Two randomised phase III comparative studies, involving a total of 326 alkylating or
@@ -84,7 +135,6 @@ In this study, AT arm showed a higher incidence of severe neutropenia (90% versu
 On the other hand, AC arm showed a higher incidence of severe anemia (15.8% versus 8.5%) than AT arm, and, in addition, a higher incidence of severe cardiac toxicity: congestive heart failure (3.8% versus 2.8%), absolute LVEF decrease ≥ 20% (13.1% versus 6.1%), absolute LVEF decrease ≥ 30% (6.2% versus 1.1%).
 Toxic deaths occurred in 1 patient in the AT arm (congestive heart failure) and in 4 patients in the AC arm (1 due to septic shock and 3 due to congestive heart failure).
 In both arms, quality of life measured by the EORTC questionnaire was comparable and stable during treatment and follow-up.
-
 TAXOTERE in combination with trastuzumab
 
 Docetaxel in combination with trastuzumab was studied for the treatment of patients with metastatic breast cancer whose tumours over express HER2, and who previously had not received chemotherapy for metastatic disease.
@@ -106,6 +156,7 @@ Efficacy results are summarized in the following table:
 TTP = time to progression; “ne” indicates that it could not be estimated or it was not yet reached.
 1Full analysis set (intent-to-treat)
 2 Estimated median survival
+
 TAXOTERE in combination with capecitabine
 
 Data from one multicenter, randomised, controlled phase III clinical study support the use of docetaxel in combination with capecitabine for treatment of patients with locally advanced or metastatic breast cancer after failure of cytotoxic chemotherapy, including an anthracycline.
@@ -126,10 +177,10 @@ In a phase III study, in previously treated patients, time to progression (12.3 
 The 1-year survival rate was also significantly longer in docetaxel (40%) versus BSC (16%).
 There was less use of morphinic analgesic (p < 0.01), non-morphinic analgesics (p < 0.01), other disease-related medications (p = 0.06) and radiotherapy (p < 0.01) in patients treated with docetaxel at 75 mg/m² compared to those with BSC.
 The overall response rate was 6.8% in the evaluable patients, and the median duration of response was 26.1 weeks.
-
 TAXOTERE in combination with platinum agents in chemotherapy-naïve patients
 
 In a phase III study, 1218 patients with unresectable stage IIIB or IV NSCLC, with KPS of 70% or greater, and who did not receive previous chemotherapy for this condition, were randomised to either docetaxel (T) 75 mg/m2 as a 1 hour infusion immediately followed by cisplatin (Cis) 75 mg/m2 over 30-60 minutes every 3 weeks (TCis), docetaxel 75 mg/m2 as a 1 hour infusion in combination with carboplatin (AUC 6 mg/ml.min) over 30-60 minutes every 3 weeks, or vinorelbine (V) 25 mg/m2 administered over 6-10 minutes on days 1, 8, 15, 22 followed by cisplatin 100 mg/m2 administered on day 1 of cycles repeated every 4 weeks (VCis).
+
 Survival data, median time to progression and response rates for two arms of the study are illustrated in the following table:
 
 |  | TCis n = 408 | VCis n = 404 | Statistical analysis |
@@ -296,13 +347,32 @@ A hazard ratio of less than 1 favors docetaxel + cisplatin + fluorouracil
 ***Chi square test, not adjusted for multiple comparisons
 NA-not applicable
 
+The European Medicines Agency has waived the obligation to submit the results of studies with TAXOTERE in all subsets of the paediatric population in breast cancer, non-small cell lung cancer, prostated cancer, gastric carcinoma and head and neck cancer, not including type II and III less differentiated nasopharyngeal carcinoma (see section 4.2 for information on paediatric use).
+
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
-(all sentences already above)
+TAXOTERE was administered as a 1-hour infusion, all other drugs were given as intraveinously on day 1 every three weeks.
+
+CI = confidence interval
+ER = estrogen receptor
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
 Pharmacotherapeutic group: Taxanes, ATC Code: L01CD02
+
+1060 patients were randomized to receive either TAXOTERE 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (539 patients in TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (521 patients in FAC arm), as adjuvant treatment of operable node-negative breast cancer patients with high risk of relapse according to 1998 St. Gallen criteria (tumour size >2 cm and/or negative ER and PR and/or high histological/nuclear grade (grade 2 to 3) and /or age <35 years).).
+
+Hazard ratio
+
+TAC FAC (TAC/FAC)
+Subgroups (n=539) (n=521) (95% CI) p-value
+
+Meeting relative indication for chemotherapy a
+
+No 18/214 26/227 0.796 (0.434 - 1.459) 0.4593
+(8.4%) (11.5%)
+Yes 48/325 69/294 0.606 (0.42 - 0.877) 0.0072
+(14.8%) (23.5%)
 
 One large randomized phase III study, involving 429 previously untreated patients with metastatic disease, has been performed with doxorubicin (50 mg/m²) in combination with docetaxel (75 mg/m²) (AT arm) versus doxorubicin (60 mg/m²) in combination with cyclophosphamide (600 mg/m²)
 (AC arm).

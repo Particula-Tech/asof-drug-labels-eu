@@ -16,6 +16,7 @@ Unopened vial
 After opening of the vial
 Each vial is for single use and should be used immediately after opening.
 If not used immediately, in-use storage times and conditions are the responsibility of the user.
+
 Once added to the infusion bag
 From a microbiological point of view, reconstitution/dilution must take place in controlled and aseptic conditions and the medicinal product should be used immediately.
 

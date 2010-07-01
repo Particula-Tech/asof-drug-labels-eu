@@ -11,10 +11,13 @@ Frequent monitoring of complete blood counts should be conducted on all patients
 Patients should be retreated with docetaxel when neutrophils recover to a level ≥ 1,500 cells/mm3 (see section 4.2).
 
 In the case of severe neutropenia (< 500 cells/mm3 for seven days or more) during a course of docetaxel therapy, a reduction in dose for subsequent courses of therapy or the use of appropriate symptomatic measures are recommended (see section 4.2).
-
 In patients treated with docetaxel in combination with cisplatin and 5-fluorouracil (TCF), febrile neutropenia and neutropenic infection occurred at lower rates when patients received prophylactic G-CSF.
 Patients treated with TCF should receive prophylactic G-CSF to mitigate the risk of complicated neutropenia (febrile neutropenia, prolonged neutropenia or neutropenic infection).
 Patients receiving TCF should be closely monitored (see sections 4.2 and 4.8).
+
+In patients treated with docetaxel in combination with doxorubicin and cyclophosphamide (TAC), febrile neutropenia and/or neutropenic infection occurred at lower rates when patients received primary G-CSF prophylaxis.
+Primary G-CSF prophylaxis should be considered in patients who receive adjuvant therapy with TAC for breast cancer to mitigate the risk of complicated neutropenia (febrile neutropenia, prolonged neutropenia or neutropenic infection).
+Patients receiving TAC should be closely monitored (see sections 4.2 and 4.8).
 
 Hypersensitivity reactions
 
@@ -40,7 +43,6 @@ Therefore, the recommended dose of docetaxel in those patients with elevated liv
 For patients with serum bilirubin levels > ULN and/or ALT and AST > 3.5 times the ULN concurrent with serum alkaline phosphatase levels > 6 times the ULN, no dose-reduction can be recommended and docetaxel should not be used unless strictly indicated.
 In combination with cisplatin and 5-fluorouracil for the treatment of patients with gastric adenocarcinoma, the pivotal clinical study excluded patients with ALT and/or AST > 1.5 × ULN associated with alkaline phosphatase > 2.5 × ULN, and bilirubin > 1 x ULN; for these patients, no dose-reductions can be recommended and docetaxel should not be used unless strictly indicated.
 No data are available in patients with hepatic impairment treated by docetaxel in combination in the other indications.
-
 Patients with renal impairment
 
 There are no data available in patients with severely impaired renal function treated with docetaxel.
@@ -74,7 +76,7 @@ In the docetaxel, doxorubicin and cyclophosphamide (TAC) treated patients, the r
 Patients with 4+ nodes
 The benefit/risk ratio for TAC in patients with 4+ nodes was not defined fully at the interim analysis (see section 5.1).
 Elderly
-There are no data available in patients > 70 years of age on docetaxel use in combination with doxorubicin and cyclophosphamide.
+There are limited data available in patients > 70 years of age on docetaxel use in combination with doxorubicin and cyclophosphamide.
 
 Of the 333 patients treated with docetaxel every three weeks in a prostate cancer study, 209 patients were 65 years of age or greater and 68 patients were older than 75 years.
 In patients treated with docetaxel every three weeks, the incidence of related nail changes occurred at a rate ≥ 10% higher in patients who were 65 years of age or greater compared to younger patients.

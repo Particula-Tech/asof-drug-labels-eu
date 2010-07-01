@@ -2,6 +2,7 @@
 
 In vitro studies have shown that the metabolism of docetaxel may be modified by the concomitant administration of compounds which induce, inhibit or are metabolised by (and thus may inhibit the enzyme competitively) cytochrome P450-3A such as ciclosporine, terfenadine, ketoconazole, erythromycin and troleandomycin.
 As a result, caution should be exercised when treating patients with these medicinal products as concomitant therapy since there is a potential for a significant interaction.
+
 Docetaxel is highly protein bound (> 95%).
 Although the possible in vivo interaction of docetaxel with concomitantly administered medicinal product has not been investigated formally, in vitro interactions with tightly protein-bound agents such as erythromycin, diphenhydramine, propranolol, propafenone, phenytoin, salicylate, sulfamethoxazole and sodium valproate did not affect protein binding of docetaxel.
 In addition, dexamethasone did not affect protein binding of docetaxel.

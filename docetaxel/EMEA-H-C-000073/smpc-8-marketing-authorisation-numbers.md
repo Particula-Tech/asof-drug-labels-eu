@@ -16,4 +16,4 @@ EU/1/95/002/004
 
 [TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 
-(all sentences already above)
+EU/1/95/002/005

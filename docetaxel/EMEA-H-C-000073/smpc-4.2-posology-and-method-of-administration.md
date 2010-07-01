@@ -11,7 +11,7 @@ For prostate cancer, given the concurrent use of prednisone or prednisolone the 
 Docetaxel is administered as a one-hour infusion every three weeks.
 
 Breast cancer
-In the adjuvant treatment of operable node-positive breast cancer, the recommended dose of docetaxel is 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 every 3 weeks for 6 cycles (see also Dose adjustments during treatment).
+In the adjuvant treatment of operable node-positive and node-negative breast cancer, the recommended dose of docetaxel is 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 every 3 weeks for 6 cycles (TAC regimen) (see also Dose adjustments during treatment).
 For the treatment of patients with locally advanced or metastatic breast cancer, the recommended dose of docetaxel is 100 mg/m2 in monotherapy.
 In first-line treatment, docetaxel 75 mg/m2 is given in combination therapy with doxorubicin (50 mg/m2).
 
@@ -62,12 +62,9 @@ General
 Docetaxel should be administered when the neutrophil count is ≥ 1,500 cells/mm3.
 In patients who experienced either febrile neutropenia, neutrophil count < 500 cells/mm3 for more than one week, severe or cumulative cutaneous reactions or severe peripheral neuropathy during docetaxel therapy, the dose of docetaxel should be reduced from 100 mg/m2 to 75 mg/m2 and/or from 75 to 60 mg/m².
 If the patient continues to experience these reactions at 60 mg/m², the treatment should be discontinued.
-
 Adjuvant therapy for breast cancer
-In the pivotal study in patients who received adjuvant therapy for breast cancer and who experienced complicated neutropenia (including prolonged neutropenia, febrile neutropenia, or infection), it was recommended to use G-CSF to provide prophylactic coverage (e.g., day 4 to 11) in all subsequent cycles.
-Patients who continued to experience this reaction should remain on G-CSF and have their docetaxel dose reduced to 60 mg/m².
-However, in clinical practice neutropenia could occur earlier.
-Thus the use of G-CSF should be considered function of the neutropenic risk of the patient and current recommendations.
+Primary G-CSF prophylaxis should be considered in patients who receive docetaxel, doxorubicin and cyclophosphamide (TAC) adjuvant therapy for breast cancer.
+Patients who experience febrile neutropenia and/or neutropenic infection should have their docetaxel dose reduced to 60 mg/m² in all subsequent cycles (see sections 4.4 and 4.8).
 Patients who experience Grade 3 or 4 stomatitis should have their dose decreased to 60 mg/m².
 
 In combination with cisplatin
@@ -78,7 +75,10 @@ In combination with capecitabine
 
 - For capecitabine dose modifications, see capecitabine summary of product characteristics.
 - For patients developing the first appearance of Grade 2 toxicity, which persists at the time of the next docetaxel/capecitabine treatment, delay treatment until resolved to Grade 0-1, and resume at 100% of the original dose.
-- For patients developing the second appearance of Grade 2 toxicity, or the first appearance of Grade 3 toxicity, at any time during the treatment cycle, delay treatment until resolved to Grade 0-1 and then resume treatment with docetaxel 55 mg/m².
+- For patients developing the second appearance of Grade 2 toxicity, or the first appearance of
+
+Grade 3 toxicity, at any time during the treatment cycle, delay treatment until resolved to Grade 0-1 and then resume treatment with docetaxel 55 mg/m².
+
 - For any subsequent appearances of toxicities, or any Grade 4 toxicities, discontinue the docetaxel dose.
 
 For trastuzumab dose modifications, see trastuzumab summary of product characteristics.
@@ -110,8 +110,9 @@ For those patients with serum bilirubin > ULN and/or ALT and AST > 3.5 times the
 In combination with cisplatin and 5-fluorouracil for the treatment of patients with gastric adenocarcinoma, the pivotal clinical study excluded patients with ALT and/or AST > 1.5 × ULN associated with alkaline phosphatase > 2.5 × ULN, and bilirubin > 1 x ULN; for these patients, no dose-reductions can be recommended and docetaxel should not be used unless strictly indicated.
 No data are available in patients with hepatic impairment treated by docetaxel in combination in the other indications.
 
-Children and adolescents
-The experience in children is limited.
+Paediatric population
+The safety and efficacy of TAXOTERE in nasopharyngeal carcinoma in children aged 1 month to less than 18 years have not yet been established.
+There is no relevant use of TAXOTERE in the paediatric population in the indications breast cancer, non-small cell lung cancer, prostate cancer, gastric carcinoma and head and neck cancer, not including type II and III less differentiated nasopharyngeal carcinoma.
 
 Elderly
 Based on a population pharmacokinetic analysis, there are no special instructions for use in the elderly.
@@ -124,9 +125,6 @@ In combination with capecitabine, for patients 60 years of age or more, a starti
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
 Discontinue treatment if these toxicities persist (see section 4.4).
-
-Paediatric population
-TAXOTERE is not recommended for use in children due to insufficient data on safety and/or efficacy.
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 

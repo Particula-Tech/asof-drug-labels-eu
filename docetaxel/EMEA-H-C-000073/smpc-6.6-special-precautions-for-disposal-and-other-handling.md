@@ -52,7 +52,6 @@ If TAXOTERE concentrate or infusion solution should come into contact with mucou
 
 Preparation of the infusion solution
 DO NOT use other docetaxel medicinal products consisting of 2 vials (concentrate and solvent) with this medicinal product (TAXOTERE 20 mg/1 ml concentrate for solution for infusion, which contains only 1 vial).
-
 TAXOTERE 20 mg/1 ml concentrate for solution for infusion requires NO prior dilution with a solvent and is ready to add to the infusion solution.
 
 Each vial is of single use and should be used immediately.
@@ -63,6 +62,8 @@ Aseptically withdraw the required amount of TAXOTERE concentrate for solution fo
 
 In TAXOTERE 20 mg /1 ml vial the concentration of docetaxel is 20 mg/ml.
 The required volume of TAXOTERE concentrate for solution for infusion must be injected via a single injection (one shot) into a 250 ml infusion bag or bottle containing either 5% glucose solution or sodium chloride 9 mg/ml (0.9%) solution for infusion.
+
+If a dose greater than 190 mg of docetaxel is required, use a larger volume of the infusion vehicle so that a concentration of 0.74 mg/ml docetaxel is not exceeded.
 
 The infusion bag solution should be used within 6 hours below 25°C including the one hour infusion to the patient.
 As with all parenteral products, TAXOTERE infusion solution should be visually inspected prior to use, solutions containing a precipitate should be discarded.
