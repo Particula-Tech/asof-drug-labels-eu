@@ -18,7 +18,6 @@ The dabigatran trough concentration, measured at the end of the dosing interval 
 Ethnic origin:
 
 More than 99% of efficacy and safety data were generated in Caucasians.
-
 Clinical trials in Venous Thromboembolism (VTE) prophylaxis following major joint replacement surgery:
 
 In 2 large randomized, parallel group, double-blind, dose–confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
@@ -32,6 +31,7 @@ The point estimate for incidence of Major VTE and VTE related mortality for the 
 Better results were seen with the 220mg dose where the point estimate of Major VTE was slightly better than enoxaparin (table 4)."
 
 The clinical studies have been conducted in a patient population with a mean age > 65 years.
+
 There were no differences in the phase 3 clinical studies for efficacy and safety data between men and women.
 
 In the studied patient population of RE-MODEL and RE-NOVATE (5539 patients treated), 51 % suffered from concomitant hypertension, 9 % from concomitant diabetes, 9 % from concomitant coronary artery disease and 20 % had a history of venous insufficiency.
@@ -42,7 +42,6 @@ Data for the major VTE and VTE-related mortality endpoint were homogeneous with 
 Data for the total VTE and all cause mortality endpoint are shown in table 5.
 
 Data for adjudicated major bleeding endpoints are shown in tables 6 below.
-
 Table 4: Analysis of major VTE and VTE-related mortality during the treatment period in the RE-MODEL and the RE-NOVATE orthopeadic surgery studies
 
 | Trial | Dabigatran etexilate 220 mg | Dabigatran etexilate 150 mg | Enoxaparin 40 mg |
@@ -83,3 +82,7 @@ Table 6: Major bleeding events by treatment in the individual RE-MODEL and the R
 | RE-MODEL (knee) |  |  |  |
 | Treated patients N | 679 | 703 | 694 |
 | Number of MBE N(%) | 10 (1.5) | 9 (1.3) | 9 (1.3) |
+
+Paediatric population:
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population in prevention of thromboembolic events in the granted indication.

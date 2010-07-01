@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 Pregnancy:
 
@@ -13,3 +13,7 @@ Lactation:
 
 There are no clinical data of the effect of dabigatran on infants during breast feeding.
 Lactation should be discontinued during treatment with Pradaxa.
+
+Fertility:
+
+No data available.
