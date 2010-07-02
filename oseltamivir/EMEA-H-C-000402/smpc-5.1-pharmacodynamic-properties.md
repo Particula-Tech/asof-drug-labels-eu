@@ -16,10 +16,7 @@ Neuraminidase enzyme IC50 values for oseltamivir for clinically isolated influen
 Higher IC50 values for influenza B, up to a median of 8.5 nM, have been observed in published trials.
 
 Reduced sensitivity of viral neuraminidase
-There has been no evidence for emergence of drug resistance associated with the use of Tamiflu in clinical studies conducted to date in post-exposure (7 days), post-exposure within household groups (10 days) and seasonal (42 days) prevention of influenza in immunocompetent subjects.
-There was no resistance observed during a 12-week prophylaxis study in immunocompromised subjects.
-
-The risk of emergence of influenza viruses with reduced susceptibility or frank resistance to oseltamivir has been examined during Roche-sponsored clinical studies.
+Clinical studies: The risk of emergence of influenza viruses with reduced susceptibility or frank resistance to oseltamivir has been examined during Roche-sponsored clinical studies.
 All patients who were found to carry oseltamivir-resistant virus did so transiently, cleared the virus normally and showed no clinical deterioration.
 
 | Patient Population | Patients with Resistance Mutations (%) |  |
@@ -30,12 +27,19 @@ All patients who were found to carry oseltamivir-resistant virus did so transien
 
 * Full genotyping was not performed in all studies.
 
-The rate of emergence of resistance may be higher in the youngest age groups, and in immunocompromised patients.
-Oseltamivir-resistant viruses isolated from oseltamivir-treated patients and oseltamivir-resistant laboratory strains of influenza viruses have been found to contain mutations in N1 and N2 neuraminidases.
-Resistance mutations tend to be viral sub-type specific (including those found in H5N1 variants).
+There has been no evidence for emergence of drug resistance associated with the use of Tamiflu in clinical studies conducted to date in post-exposure (7 days), post-exposure within household groups (10 days) and seasonal (42 days) prevention of influenza in immunocompetent subjects.
+There was no resistance observed during a 12-week prophylaxis study in immunocompromised subjects.
 
-Naturally occurring mutations in influenza A/H1N1 virus associated with reduced susceptibility to oseltamivir in vitro have been detected in patients who, based on the reported information, have not been exposed to oseltamivir.
-The extent of reduction in susceptibility to oseltamivir and the prevalence of such viruses appears to vary seasonally and geographically.
+Clinical and surveillance data: Natural mutations associated with reduced susceptibility to oseltamivir in vitro have been detected in influenza A and B viruses isolated from patients without exposure to oseltamivir.
+Resistant strains selected during oseltamivir treatment have been isolated from both immunocompetent and immunocompromised patients.
+Immunocompromised patients and young children are at a higher risk of developing oseltamivir-resistant virus during treatment.
+
+Oseltamivir-resistant viruses isolated from oseltamivir-treated patients and oseltamivir-resistant laboratory strains of influenza viruses have been found to contain mutations in N1 and N2 neuraminidases.
+Resistance mutations tend to be viral sub-type specific.
+Since 2007 resistance associated H275Y mutation in seasonal H1N1 strains has become widespread.
+The susceptibility to oseltamivir and the prevalence of such viruses appear to vary seasonally and geographically.
+In 2008, H275Y was found in > 99 % of circulating H1N1 influenza isolates in Europe.
+The 2009 H1N1 influenza (“swine flu”) was almost uniformly susceptible to oseltamivir, with only sporadic reports of resistance in connection with both therapeutic and prophylactic regimens.
 
 Treatment of influenza infection
 Oseltamivir is effective only against illnesses caused by influenza virus.
@@ -63,6 +67,7 @@ Oseltamivir reduced the incidence of acute otitis media from 26.5 % (53/200) in 
 A second study was completed in 334 asthmatic children aged 6 to 12 years old of which 53.6 % were influenza-positive.
 In the oseltamivir treated group, the median duration of illness was not reduced significantly.
 By day 6 (the last day of treatment) FEV1 had increased by 10.8 % in the oseltamivir treated group compared to 4.7 % on placebo (p = 0.0148) in this population.
+
 The European Medicines Agency has deferred the obligation to submit the results of studies with Tamiflu in one or more subsets of the paediatric population in influenza.
 See section 4.2 for information on paediatric use.
 

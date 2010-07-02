@@ -17,7 +17,7 @@ Prevention of influenza
 Tamiflu is not a substitute for influenza vaccination.
 
 The use of antivirals for the treatment and prevention of influenza should be determined on the basis of official recommendations.
-Decisions regarding the use of antivirals for treatment and prophylaxis should take into consideration what is known about the characteristics of the circulating influenza viruses and the impact of the disease in different geographical areas and patient populations.
+Decisions regarding the use of oseltamivir for treatment and prophylaxis should take into consideration what is known about the characteristics of the circulating influenza viruses, available information on influenza drug susceptibility patterns for each season and the impact of the disease in different geographical areas and patient populations (see section 5.1).
 
 Based on limited pharmacokinetic and safety data, Tamiflu can be used in infants below 12 months of age for treatment during a pandemic influenza outbreak.
 The treating physician should take into account the pathogenicity of the circulating strain and the underlying condition of the patient to ensure there is a potential benefit to the child.
