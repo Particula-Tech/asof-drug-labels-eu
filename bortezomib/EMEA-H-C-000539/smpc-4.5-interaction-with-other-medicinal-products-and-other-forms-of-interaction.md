@@ -12,6 +12,5 @@ In the absence of interaction studies investigating the effect of CYP3A4 inducer
 
 An interaction study assessing the effect of melphalan-prednisone on bortezomib showed a 17% increase in mean bortezomib AUC based on data from 21 patients.
 This is not considered clinically relevant.
-
 During clinical trials, hypoglycemia and hyperglycemia were uncommonly and commonly reported in diabetic patients receiving oral hypoglycemics.
 Patients on oral antidiabetic agents receiving VELCADE treatment may require close monitoring of their blood glucose levels and adjustment of the dose of their antidiabetics.

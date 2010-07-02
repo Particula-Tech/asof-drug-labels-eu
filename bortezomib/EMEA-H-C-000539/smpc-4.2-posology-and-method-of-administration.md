@@ -10,12 +10,12 @@ At least 72 hours should elapse between consecutive doses of VELCADE.
 It is recommended that patients with a confirmed complete response receive 2 additional cycles of VELCADE beyond a confirmation.
 It is also recommended that responding patients who do not achieve a complete remission receive a total of 8 cycles of VELCADE therapy.
 Currently there are limited data concerning re-treatment with VELCADE.
-
 Dose adjustments during treatment and re-initiation of treatment for monotherapy
 VELCADE treatment must be withheld at the onset of any Grade 3 non-haematological or any
 Grade 4 haematological toxicities, excluding neuropathy as discussed below (see also section 4.4).
 Once the symptoms of the toxicity have resolved, VELCADE treatment may be re-initiated at a 25% reduced dose (1.3 mg/m2 reduced to 1.0 mg/m2; 1.0 mg/m2 reduced to 0.7 mg/m2).
 If the toxicity is not resolved or if it recurs at the lowest dose, discontinuation of VELCADE must be considered unless the benefit of treatment clearly outweighs the risk.
+
 Patients who experience bortezomib-related neuropathic pain and/or peripheral neuropathy are to be managed as presented in Table 1 (see section 4.4).
 Patients with pre-existing severe neuropathy may be treated with VELCADE only after careful risk/benefit assessment.
 
@@ -30,8 +30,10 @@ Table 1: Recommended* posology modifications for bortezomib-related neuropathy.
 
 *Based on posology modifications in Phase II and III multiple myeloma studies and post-marketing experience.
 
-Paediatric patients
-VELCADE is not intended for use in children below age 18 due to a lack of data on safety and efficacy (see sections 5.1 and 5.2).
+Special populations
+Paediatric population
+The safety and efficacy of VELCADE in children below age 18 have not yet been established (see sections 5.1 and 5.2).
+
 Elderly patients
 There is no evidence to suggest that dose adjustments are necessary in patients over 65 years of age (see section 4.8).
 
@@ -44,6 +46,7 @@ Hepatic impairment
 VELCADE has not been studied in patients with impaired hepatic function.
 Significant hepatic impairment may have an impact on the elimination of bortezomib and may increase the likelihood of interactions with other active substances.
 Patients with impaired liver function should be treated with extreme caution and a dose reduction should be considered (see sections 4.3 and 4.4).
+
 Posology for combination therapy
 VELCADE (bortezomib) is administered in combination with oral melphalan and oral prednisone for nine 6-week treatment cycles as shown in Table 2.
 In Cycles 1-4, VELCADE is administered twice weekly (days 1, 4, 8, 11, 22, 25, 29 and 32).
@@ -56,9 +59,7 @@ Twice weekly VELCADE (cycles 1-4)
 | Week | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- | --- |
 | Vc (1.3 mg/m2) | Day -- -- Day 1 4 | Day Day 8 11 | rest period | Day Day 22 25 | Day Day 29 32 | rest period |
-
-M (9 mg/m2) Day Day Day Day -- -- rest -- -- -- -- rest
-P (60 mg/m2) 1 2 3 4 period period
+| M (9 mg/m2) P (60 mg/m2) | Day Day Day Day 1 2 3 4 | -- -- | rest period | -- -- | -- -- | rest period |
 
 Once weekly VELCADE (cycles 5-9)
 
@@ -96,11 +97,10 @@ The reconstituted solution is administered as a 3-5 second bolus intravenous inj
 
 It is unknown if the pharmacokinetics of bortezomib are influenced in patients with severe renal impairment not undergoing dialysis (CrCL < 20 ml/min/1.73 m2).
 
-Week 1 2 3 4 5 6
-
-| Day -- -- Day 1 4 | Day 8 Day 11 | rest period | Day Day 22 25 | Day Day 29 32 |
-| --- | --- | --- | --- | --- |
-| Day Day Day Day 1 2 3 4 | -- -- | rest period | -- -- | -- -- |
+| Week | 1 | 2 | 3 | 4 | 5 | 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Vc (1.3 mg/m2) | Day -- -- Day 1 4 | Day 8 Day 11 | rest period | Day Day 22 25 | Day Day 29 32 | rest period |
+| M (9 mg/m2) P (60 mg/m2) | Day Day Day Day 1 2 3 4 | -- -- | rest period | -- -- | -- -- | rest period |
 
 Vc = VELCADE; M = melphalan, P=prednisone
 

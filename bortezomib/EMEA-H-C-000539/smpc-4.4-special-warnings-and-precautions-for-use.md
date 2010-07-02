@@ -26,7 +26,6 @@ It is recommended that patients be carefully monitored for symptoms of neuropath
 Patients experiencing new or worsening peripheral neuropathy should undergo neurological evaluation and may require the dose and schedule of VELCADE to be modified (see section 4.2).
 Neuropathy has been managed with supportive care and other therapies.
 Improvement in, or resolution of, peripheral neuropathy was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy in the single-agent Phase III multiple myeloma study and 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in Phase II studies, respectively.
-
 In addition to peripheral neuropathy, there may be a contribution of autonomic neuropathy to some adverse reactions such as postural hypotension and severe constipation with ileus.
 Information on autonomic neuropathy and its contribution to these undesirable effects is limited.
 
@@ -77,6 +76,7 @@ Therefore, this specific regimen with concomitant administration with high-dose 
 Renal impairment
 Renal complications are frequent in patients with multiple myeloma.
 Such patients should be monitored closely (see sections 4.2 and 5.2).
+
 Hepatic impairment
 Patients with hepatic impairment should be treated with extreme caution and a dose reduction should be considered (see sections 4.2, 4.3 and 5.2).
 Hepatic reactions
@@ -88,10 +88,6 @@ Tumour lysis syndrome
 Because bortezomib is a cytotoxic agent and can rapidly kill malignant plasma cells, the complications of tumour lysis syndrome may occur.
 The patients at risk of tumour lysis syndrome are those with high tumour burden prior to treatment.
 These patients should be monitored closely and appropriate precautions taken.
-
-Amyloidosis
-The impact of proteasome inhibition by bortezomib on disorders associated with protein accumulation such as amyloidosis is unknown.
-Caution is advised in these patients.
 
 Concomitant medicinal products
 Patients should be closely monitored when given bortezomib in combination with potent CYP3A4-inhibitors.

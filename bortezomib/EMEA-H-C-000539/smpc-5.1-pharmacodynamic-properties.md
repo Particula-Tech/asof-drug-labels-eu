@@ -3,10 +3,6 @@
 Pharmacotherapeutic group: Other antineoplastic agents,
 ATC code: L01XX32
 
-This medicinal product has been authorised under “Exceptional Circumstances”.
-This means that for scientific reasons it has not been possible to obtain complete information on this medicinal product.
-The European Medicines Agency (EMEA) will review any new information which may become available every year and this SPC will be updated as necessary.
-
 Mechanism of action
 Bortezomib is a proteasome inhibitor.
 It is specifically designed to inhibit the chymotrypsin-like activity of the 26S proteasome in mammalian cells.
@@ -17,6 +13,7 @@ Inhibition of the 26S proteasome prevents this targeted proteolysis and affects 
 Bortezomib is highly selective for the proteasome.
 At 10 μM concentrations, bortezomib does not inhibit any of a wide variety of receptors and proteases screened and is more than 1500-fold more selective for the proteasome than for its next preferable enzyme.
 The kinetics of proteasome inhibition were evaluated in vitro, and bortezomib was shown to dissociate from the proteasome with a t½ of 20 minutes, thus demonstrating that proteasome inhibition by bortezomib is reversible.
+
 Bortezomib mediated proteasome inhibition affects cancer cells in a number of ways, including, but not limited to, altering regulatory proteins, which control cell cycle progression and nuclear factor kappa B (NF-kB) activation.
 Inhibition of the proteasome results in cell cycle arrest and apoptosis.
 NF-kB is a transcription factor whose activation is required for many aspects of tumourigenesis, including cell growth and survival, angiogenesis, cell-cell interactions, and metastasis.
@@ -182,6 +179,20 @@ In the Phase II study, patients who did not obtain an optimal response to therap
 The protocol allowed patients to receive dexamethasone if they had had a less than optimal response to VELCADE alone.
 A total of 74 evaluable patients were administered dexamethasone in combination with VELCADE.
 Eighteen percent of patients achieved, or had an improved response (MR (11%) or PR (7%)) with combination treatment.
+
+Patients with previously treated light-chain (AL) Amyloidosis
+An open label non randomised phase 1/2 study was conducted to determine the safety and efficacy of VELCADE in patients with previously treated light-chain (AL) Amyloidosis.
+No new safety concerns were observed during the study, and in particular VELCADE did not exacerbate target organ damage (heart, kidney and liver).
+In an exploratory efficacy analysis, a 67.3% response rate (including a 28.6% CR rate) as measured by hematologic response (M-protein) was reported in 49 evaluable patients treated with the maximum allowed doses of 1.6 mg/m2 weekly and 1.3 mg/m2 twice-weekly.
+For these dose cohorts, the combined 1-year survival rate was 88.1%.
+
+Paediatric population
+The European Medicines Agency has waived the obligation to submit the results of studies with VELCADE in all subsets of the paediatric population in multiple myeloma.
+(see section 4.2 for information on paediatric use).
+
+This medicinal product has been authorised under “Exceptional Circumstances”.
+This means that for scientific reasons it has not been possible to obtain complete information on this medicinal product.
+The European Medicines Agency (EMA) will review any new information which may become available every year and this SmPC will be updated as necessary.
 
 [VELCADE 3.5 mg powder for solution for injection]
 
