@@ -57,6 +57,7 @@ Therefore, elderly patients should be monitored closely for impaired motor and/o
 
 Childhood and adolescence
 Safety and effectiveness in children and adolescents has not been established, therefore use in patients under 18 years of age is not recommended.
+
 Epileptic patients
 Seizures have been observed in patients treated with sodium oxybate.
 In patients with epilepsy, the safety and efficacy of sodium oxybate has not been established, therefore use is not recommended.
