@@ -52,6 +52,9 @@ Dosing in patients with hepatic impairment
 Dose adjustment in patients with hepatic failure is probably not necessary, as approx. 90% of absorbed active substance is excreted through the kidneys.
 However, the potential influence of hepatic insufficiency on SIFROL pharmacokinetics has not been investigated.
 
+Paediatric population
+The safety and efficacy of SIFROL in children below 18 years has not been established.
+There is no relevant use of SIFROL in the paediatric population in Parkinson’s Disease.
 Restless Legs Syndrome
 
 The recommended starting dose of SIFROL is 0.088 mg of base (0.125 mg of salt) taken once daily 2-3 hours before bedtime.
@@ -84,6 +87,12 @@ Dose adjustment in patients with hepatic failure is not required, as approx. 90%
 
 Paediatric population
 SIFROL is not recommended for use in children and adolescents below 18 years due to a lack of data on safety and efficacy.
+
+Tourette Disorder
+
+Paediatric population
+SIFROL is not recommended for use in children and adolescents below 18 years since the efficacy and safety has not been established in this population.
+SIFROL should not be used in children or adolescents with Tourette Disorder because of a negative benefit-risk balance for this disorder (see section 5.1).
 
 Method of administration
 
@@ -142,6 +151,8 @@ The treatment of patients with a creatinine clearance below 30 ml/min with SIFRO
 The use of SIFROL tablets should be considered.
 
 If renal function declines during maintenance therapy, the recommendations given above should be followed.
+
+There is no relevant use of SIFROL prolonged-release tablets in the paediatric population in Parkinson’s Disease.
 
 The tablets should be swallowed whole with water, and must not be chewed, divided or crushed.
 The tablets may be taken either with or without food and should be taken each day at about the same time.

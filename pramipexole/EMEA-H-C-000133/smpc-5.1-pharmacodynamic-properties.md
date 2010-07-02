@@ -29,6 +29,7 @@ The overall incidence of hallucinations and somnolence was generally higher in t
 However, there was no significant difference during the maintenance phase.
 These points should be considered when initiating pramipexole treatment in patients with Parkinson’s disease.
 
+The European Medicines Agency has waived the obligation to submit the results of studies with SIFROL in all subsets of the paediatric population in Parkinson’s Disease (see section 4.2 for information on paediatric use).
 Clinical trials in Restless Legs Syndrome
 
 The efficacy of pramipexole was evaluated in four placebo-controlled clinical trials in approximately 1,000 patients with moderate to very severe idiopathic Restless Legs Syndrome.
@@ -44,6 +45,17 @@ In a placebo-controlled polysomnography study over 3 weeks SIFROL significantly 
 Longer term efficacy was evaluated in a placebo-controlled clinical trial.
 After 26 weeks of treatment, there was an adjusted mean reduction in IRLS total score of 13.7 and 11.1 points in the pramipexole and placebo group, respectively, with a statistically significant (p = 0.008) mean treatment difference of -2.6.
 CGI-I responder rates (much improved, very much improved) were 50.3% (80/159) and 68.5% (111/162) for placebo and pramipexole, respectively (p = 0.001), corresponding to a number needed to treat (NNT) of 6 patients (95%CI: 3.5, 13.4).
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with SIFROL in one or more subsets of the paediatric population in Restless Legs Syndrome (see section 4.2 for information on paediatric use).
+
+Clinical trial in Tourette Disorder
+
+The efficacy of pramipexole (0.0625-0.5 mg/day) with paediatric patients aged 6-17 years with Tourette Disorder was evaluated in a 6-week, double-blind, randomised, placebo-controlled flexible dose study.
+A total of 63 patients were randomised (43 on pramipexole, 20 on placebo).
+The primary endpoint was change from baseline on the Total Tic Score (TTS) of the Yale Global Tic Severity Scale (YGTSS).
+No difference was observed for pramipexole as compared to placebo for either the primary endpoint or for any of the secondary efficacy endpoints including YGTSS total score, Patient Global Impression of Improvement (PGI-I), Clinical Global Impression of Improvement (CGI-I), or Clinical Global Impressions of Severity of Illness (CGI-S).
+Adverse events occurring in at least 5% of patients in the pramipexole group and more common in the pramipexole-treated patients than in patients on placebo were: headache (27.9%, placebo 25.0%), somnolence (7.0%, placebo 5.0%), nausea (18.6%, placebo 10.0%), vomiting (11.6%, placebo 0.0%), upper abdominal pain (7.0%, placebo 5.0%), orthostatic hypotension (9.3%, placebo 5.0%), myalgia (9.3%, placebo 5.0%), sleep disorder (7.0%, placebo 0.0%), dyspnoea (7.0%, placebo 0.0%) and upper respiratory tract infection (7.0%, placebo 5.0%).
+Other significant adverse events leading to discontinuation of study medication for patients receiving pramipexole were confusional state, speech disorder and aggravated condition (see section 4.2).
 
 [SIFROL 0.18 mg tablets]
 

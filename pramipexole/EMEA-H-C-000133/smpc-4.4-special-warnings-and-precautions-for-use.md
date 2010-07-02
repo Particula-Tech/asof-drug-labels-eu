@@ -9,6 +9,7 @@ Patients should be informed that (mostly visual) hallucinations can occur.
 Dyskinesia
 In advanced Parkinson’s disease, in combination treatment with levodopa, dyskinesia can occur during the initial titration of SIFROL.
 If they occur, the dose of levodopa should be decreased.
+
 Sudden onset of sleep and somnolence
 Pramipexole has been associated with somnolence and episodes of sudden sleep onset, particularly in patients with Parkinson’s disease.
 Sudden onset of sleep during daily activities, in some cases without awareness or warning signs, has been reported uncommonly.

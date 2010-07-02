@@ -5,7 +5,6 @@ The absolute bioavailability is greater than 90% and the maximum plasma concentr
 Concomitant administration with food did not reduce the extent of pramipexole absorption, but the rate of absorption was reduced.
 Pramipexole shows linear kinetics and a small inter-patient variation of plasma levels.
 In humans, the protein binding of pramipexole is very low (< 20%) and the volume of distribution is large (400 l). High brain tissue concentrations were observed in the rat (approx. 8-fold compared to plasma).
-
 Pramipexole is metabolised in man only to a small extent.
 
 Renal excretion of unchanged pramipexole is the major route of elimination.
