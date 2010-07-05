@@ -2,7 +2,6 @@
 
 Patients should be advised that current antiretroviral therapy has not been proven to prevent the risk of transmission of HIV to others through blood or sexual contact.
 Appropriate precautions should continue to be employed.
-
 Co-administration of REYATAZ with ritonavir at doses greater than 100 mg once daily has not been clinically evaluated.
 The use of higher ritonavir doses may alter the safety profile of atazanavir
 (cardiac effects, hyperbilirubinaemia) and therefore is not recommended.
@@ -69,6 +68,7 @@ Dose reduction of atazanavir is not recommended because it may result in a loss 
 Indinavir is also associated with indirect (unconjugated) hyperbilirubinaemia due to inhibition of
 UGT.
 Combinations of REYATAZ and indinavir have not been studied and co-administration of these medicinal products is not recommended (see section 4.5).
+
 Nephrolithiasis
 Nephrolithiasis has been reported in patients receiving REYATAZ (see section 4.8).
 If signs or symptoms of nephrolithiasis occur, temporary interruption or discontinuation of treatment may be considered.
@@ -93,7 +93,6 @@ Atazanavir is metabolised principally by CYP3A4.
 Co-administration of REYATAZ with ritonavir and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
 
 Co-administration of voriconazole and REYATAZ with ritonavir is not recommended unless an assessment of the benefit/risk justifies the use of voriconazole (see section 4.5).
-
 Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression
 (see section 4.5).
 
@@ -106,6 +105,18 @@ Co-administration of REYATAZ/ritonavir in combination with tenofovir and an H2-r
 
 Lactose
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
+Paediatric population
+Safety:
+Asymptomatic PR interval prolongation was more frequent in paediatric patients than adults.
+Asymptomatic first- and second-degree AV block was reported in paediatric patients (see section 4.8).
+Caution should be used with medicinal products known to induce PR prolongations.
+In paediatric patients with pre-existing conduction problems (second degree or higher atrioventricular or complex bundle-branch block), REYATAZ should be used with caution and only if the benefits exceed the risk.
+Cardiac monitoring is recommended based on the presence of clinical findings (e.g., bradycardia).
+
+Efficacy
+Atazanavir/ritonavir is not effective in viral strains harbouring multiple mutations of resistance.
+While in adults no benefit can be expected in patients with ≥4 PI mutations, in treatment experienced children even lower numbers of PI mutations may be predictive of a lack of benefit (see section 5.1).
 
 [REYATAZ 150 mg hard capsules]
 

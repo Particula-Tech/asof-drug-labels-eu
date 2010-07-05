@@ -12,10 +12,9 @@ Other interactions
 Interactions between atazanavir/ritonavir and protease inhibitors, antiretroviral agents other than protease inhibitors, and other non-antiretroviral medicinal products are listed in the tables below
 (increase is indicated as “↑”, decrease as “↓”, no change as “↔”, twice daily as “BID” and once daily as “QD”).
 If available, 90% confidence intervals (CI) are shown in parentheses.
-The studies presented in Table 1 were conducted in healthy subjects unless otherwise noted.
+The studies presented in Table 2 were conducted in healthy subjects unless otherwise noted.
 Of importance, many studies were conducted with unboosted atazanavir, which is not the approved regimen of atazanavir.
-
-Table 1: Interactions between REYATAZ and other medicinal products
+Table 2: Interactions between REYATAZ and other medicinal products
 
 Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
 products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
@@ -59,16 +58,12 @@ expected to significantly alter the exposure of abacavir.
 Didanosine (buffered tablets) Didanosine should be
 200 mg/stavudine 40 mg, both taken at the fasted state
 single dose (atazanavir 400 mg 2 hours after
-↓0.13 ↓0.11 ↓0.16
-Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
-products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
-
-co-administration
-
-single dose) atazanavir, (0.08, 0.21) (0.06, 0.18) (0.10, 0.27) REYATAZ/ritonavir
+single dose) atazanavir, REYATAZ/ritonavir
 simultaneous taken with food. The
-administration co-administration of
-with ddI+d4T REYATAZ/ritonavir
+administration ↓0.13 ↓0.11 ↓0.16 co-administration of
+
+with ddI+d4T (0.08, 0.21) (0.06, 0.18) (0.10, 0.27) REYATAZ/ritonavir
+
 (fasted) with stavudine is not
 
 expected to
@@ -98,11 +93,14 @@ atazanavir
 300 mg QD (atazanavir 300 (0.65, 0.94) (0.70, 1.00) (0.57-1.02)
 
 mg QD with ritonavir 100 mg * In a combined analysis from several clinical studies,
-QD) studies conducted in HIV- atazanavir/ritonavir 300/100 mg co-administered with tenofovir
+QD) studies conducted in HIV- atazanavir/ritonavir 300/100 mg co-administered with tenofovir infected patients
 
-infected patients disoproxil fumarate 300 mg (n=39) was compared to
+Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
+products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
-atazanavir/ritonavir 300/100 mg (n=33).
+co-administration
+
+disoproxil fumarate 300 mg (n=39) was compared to atazanavir/ritonavir 300/100 mg (n=33).
 
 The efficacy of REYATAZ/ritonavir in combination with tenofovir in treatment-experienced patients has been demonstrated in clinical study
 045 and in treatment naive patients in clinical study 138 (see sections
@@ -170,16 +168,10 @@ Clarithromycin 500 mg BID ↑1.94 ↑1.50 ↑2.60 No recommendation
 clarithromycin
 
 (atazanavir 400 mg QD) (1.75, 2.16) (1.32, 1.71) (2.35, 2.88) regarding dose
+14-OH reduction can be made;
+clarithromycin ↓0.30 ↓0.28 ↓0.38 therefore, caution
 
-reduction can be made;
-
-14-OH ↓0.30 ↓0.28 ↓0.38
-Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
-products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
-
-co-administration
-
-clarithromycin (0.26, 0.34) (0.24, 0.33) (0.34, 0.42) therefore, caution should be exercised if
+(0.26, 0.34) (0.24, 0.33) (0.34, 0.42) should be exercised if
 
 ↑1.28 ↔1.06 ↑1.91 REYATAZ/ritonavir is
 atazanavir (1.16, 1.43) (0.93, 1.20) (1.66, 2.21) co-administered with
@@ -188,12 +180,46 @@ A dose reduction of clarithromycin may result in subtherapeutic clarithromycin.
 concentrations of 14-OH clarithromycin.
 The mechanism of the clarithromycin/atazanavir interaction is CYP3A4 inhibition.
 
-| Antifungals |  |  |
-| --- | --- | --- |
-| Ketoconazole 200 mg QD (atazanavir 400 mg QD) Itraconazole | No significant effect on atazanavir concentrations was observed. Itraconazole, like ketoconazole, is a potent inhibitor as well as a substrate of CYP3A4. Based on data obtained with other boosted PIs and ketoconazole, where ketoconazole AUC showed a 3-fold increase, REYATAZ/ritonavir is expected to increase ketoconazole or itraconazole concentrations. | Ketoconazole and itraconazole should be used cautiously with REYATAZ/ritonavir. High doses of ketoconazole and itraconazole (>200 mg/day) are not recommended. |
-| Voriconazole | Co-administration of REYATAZ/ritonavir and voriconazole has not been studied. The effect of co-administration of oral voriconazole and low dose (100 mg) oral ritonavir was investigated in healthy volunteers. Low doses of ritonavir (100 mg BID) decreased the Cmax and AUC of voriconazole (90% CI) by an average of 24% (↓9% to ↓36%) and 39% (↓22% to ↓52%), respectively. Administration of voriconazole resulted in a minor decrease in steady state Cmax and AUC of ritonavir (90% CI) with an average of 24% (↓6% to ↓39%) and 14% (↓26% to ↑1%), respectively. | Co-administration of voriconazole and REYATAZ/ritonavir is not recommended unless an assessment of the benefit/risk to the patient justifies the use of voriconazole (see section 4.4). Patients should be carefully monitored for adverse events and/or loss of efficacy during the co-administration of voriconazole and REYATAZ/ritonavir. |
-| Fluconazole 200 mg QD (atazanavir 300 mg and ritonavir 100 mg QD) | Atazanavir and fluconazole concentrations were not significantly modified when REYATAZ/ritonavir was co-administered with fluconazole. | No dosage adjustments are needed for REYATAZ/ritonavir and fluconazole. |
+Antifungals
 
+Ketoconazole 200 mg QD No significant effect on atazanavir concentrations was observed. Ketoconazole and
+(atazanavir 400 mg QD) itraconazole should be
+
+used cautiously with
+
+Itraconazole Itraconazole, like ketoconazole, is a potent inhibitor as well as a REYATAZ/ritonavir.
+substrate of CYP3A4. High doses of
+
+ketoconazole and Based on data obtained with other boosted PIs and ketoconazole, where itraconazole (>200 ketoconazole AUC showed a 3-fold increase, REYATAZ/ritonavir is mg/day) are not
+
+expected to increase ketoconazole or itraconazole concentrations. recommended.
+Voriconazole Co-administration of REYATAZ/ritonavir and voriconazole has not Co-administration of
+been studied. voriconazole and
+
+REYATAZ/ritonavir is The effect of co-administration of oral voriconazole and low dose (100 not recommended mg) oral ritonavir was investigated in healthy volunteers.
+Low doses of unless an assessment ritonavir (100 mg BID) decreased the Cmax and AUC of voriconazole of the benefit/risk to
+
+Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
+products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
+
+co-administration
+
+(90% CI) by an average of 24% (↓9% to ↓36%) and 39% (↓22% to the patient justifies the
+
+↓52%), respectively. Administration of voriconazole resulted in a use of voriconazole
+
+minor decrease in steady state Cmax and AUC of ritonavir (90% CI) (see section 4.4).
+
+with an average of 24% (↓6% to ↓39%) and 14% (↓26% to ↑1%), Patients should be
+respectively. carefully monitored for
+
+adverse events and/or loss of efficacy during the co-administration of voriconazole and REYATAZ/ritonavir.
+
+Fluconazole 200 mg QD Atazanavir and fluconazole concentrations were not significantly No dosage adjustments
+(atazanavir 300 mg and modified when REYATAZ/ritonavir was co-administered with are needed for
+ritonavir 100 mg QD) fluconazole. REYATAZ/ritonavir
+
+and fluconazole.
 Antimycobacterial
 
 Rifabutin 150 mg twice weekly ↑1.48 ** ↑2.49 ** ↑1.40 ** When given with
@@ -215,14 +241,7 @@ by rifabutin. rifabutin-associated
 
 adverse reactions including neutropenia and uveitis is warranted due to an expected increase in exposure to rifabutin.
 Further dosage reduction of rifabutin to 150 mg twice weekly on set days is recommended for patients in whom the 150 mg dose 3 times per week is not tolerated.
-It should be
-
-Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
-products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
-
-co-administration
-
-kept in mind that the twice weekly dosage of 150 mg may not provide an optimal exposure to rifabutin thus leading to a risk of rifamycin resistance and a treatment failure.
+It should be kept in mind that the twice weekly dosage of 150 mg may not provide an optimal exposure to rifabutin thus leading to a risk of rifamycin resistance and a treatment failure.
 No dose adjustment is needed for REYATAZ/ritonavir.
 
 Rifampicin Rifampicin is a strong CYP3A4 inducer and has been shown to cause a 72% The combination of
@@ -244,8 +263,16 @@ In HIV-infected patients with atazanavir/ritonavir at taking tenofovir, if
 the recommended dose 300/100 mg QD REYATAZ 300
 ↓0.82 ↓0.80 ↔0.99 mg/ritonavir 100 mg
 - famotidine 20 mg BID atazanavir (0.75, 1.01) (0.68, 0.93) (0.84, 1.18) and H2-receptor
+Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
+products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
+
+co-administration
+
 ↓0.77 ↓0.77 ↓0.80 antagonists are
-- famotidine 40 mg BID atazanavir (0.68, 0.86) (0.67, 0.88) (0.69, 0.92) co-administered, a
+- famotidine 40 mg BID atazanavir
+
+(0.68, 0.86) (0.67, 0.88) (0.69, 0.92) co-administered, a
+
 In Healthy volunteers with atazanavir/ritonavir at an dose equivalent to
 increased dose of 400/100 mg QD famotidine 20 mg BID
 - famotidine 40 mg BID atazanavir ↔1.03 ↔1.02 ↓0.86 should not be
@@ -278,16 +305,16 @@ A dose increase of REYATAZ to 400 mg with 100 mg of ritonavir may be considered 
 Proton pump inhibitors
 
 Omeprazole 40 mg QD Co-administration of
-atazanavir (am): 2 ↓0.39 ↓0.44 ↓0.35
-Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
-products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
 
-co-administration
+atazanavir (am): 2
 
-(atazanavir 400 mg QD with hr after (0.35, 0.45) (0.38, 0.51) (0.29, 0.41) REYATAZ/ritonavir
-ritonavir 100 mg QD) omeprazole with proton pump
+(atazanavir 400 mg QD with ↓0.39 ↓0.44 ↓0.35 REYATAZ/ritonavir
 
-inhibitors is not recommended.
+hr after
+
+ritonavir 100 mg QD) (0.35, 0.45) (0.38, 0.51) (0.29, 0.41) with proton pump
+
+omeprazole inhibitors is not recommended.
 If the
 
 Omeprazole 20 mg QD combination of
@@ -320,7 +347,14 @@ Antacids and medicinal Reduced plasma concentrations of atazanavir may be the co
 products containing buffers of increased gastric pH if antacids, including buffered medicinal should be administered
 products, are administered with REYATAZ/ritonavir. 2 hours before or 1
 
-hour after antacids or buffered medicinal products.
+hour after antacids or
+
+Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
+products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
+
+co-administration
+
+buffered medicinal products.
 ANTICOAGULANTS
 
 Warfarin Co-administration with REYATAZ/ritonavir has the potential to It is recommended that
@@ -353,12 +387,6 @@ contraindicated due to potential inhibition of CYP3A by recommended when
 REYATAZ/ritonavir. available. The
 
 concomitant use of quinidine is contraindicated
-
-Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
-products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
-
-co-administration
-
 (see section 4.3).
 Calcium channel blockers
 
@@ -398,6 +426,11 @@ intranasal 50 µg 4 times daily whereas the intrinsic cortisol levels decreased 
 
 for 7 days (ritonavir 100 mg (90% confidence interval 82-89%) Greater effects may be expected and these
 capsules BID) when fluticasone propionate is inhaled. Systemic corticosteroid effects glucocorticoids is not
+Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
+products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
+
+co-administration
+
 including Cushing’s syndrome and adrenal suppression have been recommended unless
 reported in patients receiving ritonavir and inhaled or intranasally the potential benefit of
 
@@ -432,11 +465,6 @@ There is a risk of with products loss of therapeutic effect and development of r
 
 HORMONAL CONTRACEPTIVES
 
-Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
-products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
-
-co-administration
-
 Ethinyloestradiol 25 μg + ↓0.81 ↓0.84 ↓0.63 If an oral contraceptive
 
 ethinyloestradiol
@@ -451,14 +479,19 @@ atazanavir given alone, due to both UGT and CYP3A4 inhibition by contain at leas
 atazanavir, the net effect of atazanavir/ritonavir is a decrease in of ethinyloestradiol
 ethinyloestradiol levels because of the inducing effect of ritonavir. and that the patient be
 
-reminded of strict
-The increase in progestin exposure may lead to related side-effects (e.g. compliance with this
+reminded of strict The increase in progestin exposure may lead to related side-effects (e.g. compliance with this
 
 insulin resistance, dyslipidemia, acne and spotting), thus possibly contraceptive dosing
 affecting the compliance. regimen. Co-
 
 administration of REYATAZ/ritonavir with other hormonal contraceptives or oral contraceptives containing progestogens other than norgestimate has not been studied, and therefore should be avoided.
 An alternate reliable method of contraception is recommended.
+
+Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
+products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
+
+co-administration
+
 LIPID LOWERING AGENTS
 HMG-CoA reductase inhibitors
 
@@ -495,10 +528,6 @@ Benzodiazepines
 
 Midazolam Midazolam and triazolam are extensively metabolized by CYP3A4. REYATAZ/ritonavir
 Triazolam Co-administration with REYATAZ/ritonavir may cause a large increase should not be
-Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
-products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
-
-co-administration
 
 in the concentration of these benzodiazepines.
 No drug interaction study co-administered with has been performed for the co-administration of REYATAZ/ritonavir triazolam or orally
@@ -512,7 +541,14 @@ Data from concomitant use of 4.3), whereas caution parenteral midazolam with oth
 
 REYATAZ/ritonavir and parenteral midazolam.
 If REYATAZ is co-administered with parenteral midazolam, it should be done in an intensive care unit (ICU) or similar setting which ensures close clinical monitoring and appropriate medical management in case of respiratory depression and/or prolonged sedation.
-Dosage adjustment for midazolam should be considered, especially if more than a single dose of midazolam is administered.
+Dosage adjustment for midazolam should be considered, especially
+
+Co-administered medicinal Medicinal AUC Cmax Cmin Recommendations
+products (dose in mg) product assessed (90% CI) (90% CI) (90% CI) concerning
+
+co-administration
+
+if more than a single dose of midazolam is administered.
 
 [REYATAZ 150 mg hard capsules]
 
@@ -528,68 +564,36 @@ Dosage adjustment for midazolam should be considered, especially if more than a 
 
 [REYATAZ 50 mg/1.5 g oral powder]
 
+The studies presented in Table 1 were conducted in healthy subjects unless otherwise noted.
+
+Table 1: Interactions between REYATAZ and other medicinal products
+
 a significant impact on the pharmacokinetics of NRTIs, the
 
 co-administration of REYATAZ/ritonavir with these medicinal products is not expected to significantly alter the exposure of the co-administered drugs.
 
-single dose) atazanavir, REYATAZ/ritonavir
-administration ↓0.13 ↓0.11 ↓0.16 co-administration of
+QD) studies conducted in HIV- atazanavir/ritonavir 300/100 mg co-administered with tenofovir
 
-with ddI+d4T (0.08, 0.21) (0.06, 0.18) (0.10, 0.27) REYATAZ/ritonavir
+infected patients disoproxil fumarate 300 mg (n=39) was compared to
 
-14-OH reduction can be made;
-clarithromycin ↓0.30 ↓0.28 ↓0.38 therefore, caution
-
-(0.26, 0.34) (0.24, 0.33) (0.34, 0.42) should be exercised if
-
-Antifungals
-
-Ketoconazole 200 mg QD No significant effect on atazanavir concentrations was observed. Ketoconazole and
-(atazanavir 400 mg QD) itraconazole should be
-
-used cautiously with
-
-Itraconazole Itraconazole, like ketoconazole, is a potent inhibitor as well as a REYATAZ/ritonavir.
-substrate of CYP3A4. High doses of
-
-ketoconazole and Based on data obtained with other boosted PIs and ketoconazole, where itraconazole (>200 ketoconazole AUC showed a 3-fold increase, REYATAZ/ritonavir is mg/day) are not
-
-expected to increase ketoconazole or itraconazole concentrations. recommended.
-Voriconazole Co-administration of REYATAZ/ritonavir and voriconazole has not Co-administration of
-been studied. voriconazole and
-
-REYATAZ/ritonavir is The effect of co-administration of oral voriconazole and low dose (100 not recommended mg) oral ritonavir was investigated in healthy volunteers.
-Low doses of unless an assessment ritonavir (100 mg BID) decreased the Cmax and AUC of voriconazole of the benefit/risk to
-
-(90% CI) by an average of 24% (↓9% to ↓36%) and 39% (↓22% to the patient justifies the
+atazanavir/ritonavir 300/100 mg (n=33).
 
 ↓52%), respectively.
 Administration of voriconazole resulted in a minor use of voriconazole decrease in steady state Cmax and AUC of ritonavir (90% CI) with an (see section 4.4). average of 24% (↓6% to ↓39%) and 14% (↓26% to ↑1%), respectively.
 Patients should be carefully monitored for adverse events and/or loss of efficacy during the co-administration of voriconazole and REYATAZ/ritonavir.
 
-Fluconazole 200 mg QD Atazanavir and fluconazole concentrations were not significantly No dosage adjustments
-(atazanavir 300 mg and modified when REYATAZ/ritonavir was co-administered with are needed for
-ritonavir 100 mg QD) fluconazole. REYATAZ/ritonavir
-
-and fluconazole.
-
 adverse reactions including neutropenia
 
 and uveitis is warranted due to an expected increase in exposure to rifabutin.
-It should be kept in mind that the twice weekly dosage of 150 mg may not provide an optimal exposure to rifabutin thus leading to a risk of rifamycin resistance and a treatment failure.
 
-atazanavir (am): 2
+- famotidine 40 mg BID atazanavir (0.68, 0.86) (0.67, 0.88) (0.69, 0.92) co-administered, a
 
-(atazanavir 400 mg QD with ↓0.39 ↓0.44 ↓0.35 REYATAZ/ritonavir
-
-hr after
-
-ritonavir 100 mg QD) (0.35, 0.45) (0.38, 0.51) (0.29, 0.41) with proton pump
-
-omeprazole inhibitors is not recommended.
+hour after antacids or buffered medicinal products.
 
 monitoring of these medicinal products is recommended until
 
 plasma levels have been stabilised.
 
 verapamil is co-administered with REYATAZ/ritonavir.
+
+Dosage adjustment for midazolam should be considered, especially if more than a single dose of midazolam is administered.

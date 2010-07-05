@@ -6,6 +6,7 @@ In healthy subjects, the AUC of atazanavir from the capsules and oral powder wer
 
 Absorption: in HIV-infected patients (n=33, combined studies), multiple dosing of REYATAZ 300 mg once daily with ritonavir 100 mg once daily with food produced a geometric mean (CV%) for atazanavir, Cmax of 4466 (42%) ng/ml, with time to Cmax of approximately 2.5 hours.
 The geometric mean (CV%) for atazanavir Cmin and AUC was 654 (76%) ng/ml and 44185 (51%) ng•h/ml, respectively.
+
 Food effect: co-administration of REYATAZ and ritonavir with food optimises the bioavailability of atazanavir.
 Co-administration of a single 300-mg dose of REYATAZ and 100-mg dose of ritonavir with a light meal resulted in a 33% increase in the AUC and a 40% increase in both the Cmax and the 24-hour concentration of atazanavir relative to the fasting state.
 Co-administration with a high-fat meal did not affect the AUC of atazanavir relative to fasting conditions and the Cmax was within 11% of fasting values.
@@ -31,6 +32,13 @@ In HIV-infected adult patients (n=33, combined studies) the mean half-life withi
 
 Special populations
 
+Paediatric patients:The pharmacokinetics of atazanavir in paediatric patients exhibit an increased absorption rate compared to adults.
+There is a slight trend toward a higher clearance in younger children when normalised for body weight.
+As a result, greater peak to trough ratios are observed.
+The geometric mean AUC values in paediatric patients at recommended doses are expected to be similar to those observed in adults, with higher geometric mean Cmax (13-17%) and lower geometric mean Cmin
+(up to 30%) values compared to those in adults.
+The variability of pharmacokinetic parameters in younger children is higher.
+
 Impaired renal function: in healthy subjects, the renal elimination of unchanged atazanavir was approximately 7% of the administered dose.
 There are no pharmacokinetic data available for
 REYATAZ with ritonavir in patients with renal insufficiency.
@@ -47,9 +55,6 @@ Age/Gender: a study of the pharmacokinetics of atazanavir was performed in 59 he
 There were no clinically important pharmacokinetic differences based on age or gender.
 
 Race: a population pharmacokinetic analysis of samples from Phase II clinical trials indicated no effect of race on the pharmacokinetics of atazanavir.
-
-Infants, toddlers, children, and adolescents: the pharmacokinetics of atazanavir is being studied after multiple doses in paediatric patients, stratified by age.
-There are insufficient data at this time to recommend a dose (see section 4.2).
 
 [REYATAZ 150 mg hard capsules]
 
@@ -68,3 +73,6 @@ There are insufficient data at this time to recommend a dose (see section 4.2).
 Co-administration of a single 300 mg dose of REYATAZ and 100 mg dose of ritonavir with a light meal resulted in a 33% increase in the AUC and a 40% increase in both the Cmax and the 24-hour concentration of atazanavir relative to the fasting state.
 
 Concentrations of atazanavir with or without ritonavir are expected to be increased in patients with moderately or severely impaired hepatic function (see sections 4.2, 4.3 and 4.4).
+
+Infants, toddlers, children, and adolescents: the pharmacokinetics of atazanavir is being studied after multiple doses in paediatric patients, stratified by age.
+There are insufficient data at this time to recommend a dose (see section 4.2).

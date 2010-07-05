@@ -15,7 +15,6 @@ Shellac
 Propylene glycol
 Ammonium hydroxide
 Indigocarmin (E132)
-
 White ink containing:
 Shellac
 Titanium dioxide (E171)
