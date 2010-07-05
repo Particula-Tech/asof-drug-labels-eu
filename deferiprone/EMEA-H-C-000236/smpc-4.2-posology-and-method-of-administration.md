@@ -24,8 +24,13 @@ Sample body weights at 10 kg increments are listed.
 
 A total daily dose above 100 mg/kg body weight is not recommended because of the potentially increased risk of adverse reactions (see sections 4.4, 4.8, and 4.9).
 
-Due to the serious nature of agranulocytosis, that can occur with the use of deferiprone, special monitoring is required for all patients.
-Caution must be used when the patients’ absolute neutrophil count (ANC) is low, as well as when treating patients with renal insufficiency or hepatic dysfunction.
+The effect of Ferriprox in decreasing the body iron is directly influenced by the dose and the degree of iron overload.
+After starting Ferriprox therapy, it is recommended that serum ferritin concentrations, or other indicators of body iron load, be monitored every two to three months to assess the long-term effectiveness of the chelation regimen in controlling the body iron load.
+Dose adjustments should be tailored to the individual patient’s response and therapeutic goals (maintenance or reduction of body iron burden).
+Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 μg/l.
+
+Due to the serious nature of agranulocytosis that can occur with the use of deferiprone special monitoring is required for all patients.
+Caution must be used when the patients’ absolute neutrophil count (ANC) is low, and when treating patients with renal insufficiency or hepatic dysfunction.
 (see section 4.4).
 
 Paediatric population

@@ -13,7 +13,7 @@ Suggested management of cases of neutropenia is outlined below.
 It is recommended that such a management protocol be in place prior to initiating any patient on deferiprone treatment.
 
 Treatment with deferiprone should not be initiated if the patient is neutropenic.
-The risk of agranulocytosis and neutropenia is higher, if the baseline absolute neutrophil count (ANC) is less than 1.5x109/l.
+The risk of agranulocytosis and neutropenia is higher if the baseline absolute neutrophil count (ANC) is less than 1.5x109/l.
 
 In the event of neutropenia:
 Instruct the patient to immediately discontinue deferiprone and all other medicinal products with a potential to cause neutropenia.
@@ -25,18 +25,15 @@ Should any evidence of infection develop concurrently with the neutropenia, the 
 In the event of severe neutropenia or agranulocytosis:
 Follow the guidelines above and administer appropriate therapy such as granulocyte colony stimulating factor, beginning the same day that the event is identified; administer daily until the condition resolves.
 Provide protective isolation and if clinically indicated, admit patient to the hospital.
+
 Limited information is available regarding rechallenge.
 Therefore, in the event of neutropenia, rechallenge is not recommended.
-In the event of agranulocytosis, a rechallenge is contraindicated.
+In the event of agranulocytosis, rechallenge is contraindicated.
 
-Carcinogenicity/mutagenicity/effects on fertility
+Carcinogenicity/mutagenicity
 In view of the genotoxicity results, a carcinogenic potential of deferiprone cannot be excluded (see section 5.3).
-No animal studies to evaluate the potential effects of deferiprone on fertility have been reported.
 
-Serum ferritin concentration/plasma Zn2+ concentration
-It is recommended that serum ferritin concentrations, or other indicators of body iron load, be monitored every two to three months to assess the long-term effectiveness of the chelation regimen in controlling the body iron load.
-Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 µg/l.
-
+Plasma Zn2+ concentration
 Monitoring of plasma Zn2+ concentration, and supplementation in case of a deficiency, is recommended.
 
 HIV positive or other immune compromised patients
