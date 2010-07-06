@@ -42,6 +42,7 @@ Therapy should be permanently discontinued in patients who develop Grade 4 prote
 
 Arterial thromboembolism (see section 4.8)
 In five randomised clinical trials, the incidence of arterial thromboembolic events including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs) was higher in patients receiving Avastin in combination with chemotherapy compared to those who received chemotherapy alone.
+
 Patients, receiving Avastin plus chemotherapy, with a history of arterial thromboembolism or age greater than 65 years have an increased risk of developing arterial thromboembolic events during therapy.
 Caution should be taken when treating these patients with Avastin.
 
@@ -57,7 +58,7 @@ Avastin should be discontinued permanently in patients who experience Grade 3 or
 
 Patients with untreated CNS metastases were routinely excluded from clinical trials with Avastin, based on imaging procedures or signs and symptoms.
 Therefore, the risk of CNS haemorrhage in such patients has not been prospectively evaluated in randomised clinical trials (see section 4.8).
-Patients should be monitored for signs and symptoms of CNS bleeding, and Avastin treatment discontinued in case of intracranial bleeding.
+Patients should be monitored for signs and symptoms of CNS bleeding, and Avastin treatment discontinued in cases of intracranial bleeding.
 
 There is no information on the safety profile of Avastin in patients with congenital bleeding diathesis, acquired coagulopathy or in patients receiving full dose of anticoagulants for the treatment of thromboembolism prior to starting Avastin treatment, as such patients were excluded from clinical trials.
 Therefore, caution should be exercised before initiating therapy in these patients.
@@ -74,11 +75,12 @@ Most of the patients who experienced CHF had metastatic breast cancer and had re
 
 Caution should be exercised when treating patients with clinically significant cardiovascular disease or pre-existing congestive heart failure with Avastin.
 
-Neutropenia (see section 4.8)
-Increased rates of severe neutropenia, febrile neutropenia, or infection with severe neutropenia (including some fatalities) have been observed in patients treated with some myelotoxic chemotherapy regimens plus Avastin in comparison to chemotherapy alone.
+Neutropenia and infections (see section 4.8)
+Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe neutropenia (including some fatalities) have been observed in patients treated with some myelotoxic chemotherapy regimens plus Avastin in comparison to chemotherapy alone.
+This has mainly been seen in combination with platinum- or taxane-based therapies in the treatment of NSCLC and mBC.
 
 Hypersensitivity reactions/infusion reactions (see section 4.8)
 Patients may be at risk of developing infusion/hypersensitivity reaction.
 Close observation of the patient during and following the administration of bevacizumab is recommended as expected for any infusion of a therapeutic humanized monoclonal antibody.
 If a reaction occurs, the infusion should be discontinued and appropriate medical therapies should be administered.
-A systemic premedication is not warranted.
+A systematic premedication is not warranted.

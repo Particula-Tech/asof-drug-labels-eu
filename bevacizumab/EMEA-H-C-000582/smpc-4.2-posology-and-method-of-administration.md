@@ -29,23 +29,28 @@ The recommended dose of Avastin is 10 mg/kg of body weight given once every 2 we
 
 Special populations
 
-Children and adolescents: The safety and efficacy in children and adolescents have not been established.
-Avastin is not recommended for use in children and adolescents due to a lack of data on safety and efficacy (see section 5.3).
-
 Elderly: No dose adjustment is required in the elderly.
 
 Renal impairment: The safety and efficacy have not been studied in patients with renal impairment.
 
 Hepatic impairment: The safety and efficacy have not been studied in patients with hepatic impairment.
 
+Paediatric population
+
+The safety and efficacy of bevacizumab in children and adolescents have not been established.
+There is no relevant use of bevacizumab in the paediatric population in the granted indications.
+Currently available data are described in section 5.2 and section 5.3 but no recommendation on a posology can be made.
+
 Method of administration
 
 The initial dose should be delivered over 90 minutes as an intravenous infusion.
 If the first infusion is well tolerated, the second infusion may be administered over 60 minutes.
-If the 60-minute infusion is well tolerated, all subsequent infusions may be administered over 30-minutes.
+If the 60-minute infusion is well tolerated, all subsequent infusions may be administered over 30 minutes.
 
 Do not administer as an intravenous push or bolus.
 
-Instructions for the preparation of Avastin infusions are described in section 6.6.
+Precautions to be taken before handling or administering the medicinal product
+
+For instructions on dilution of the medicinal product before administration, see section 6.6.
 Avastin infusions should not be administered or mixed with glucose solutions.
 This medicinal product must not be mixed with other medicinal products except those mentioned in section 6.6.

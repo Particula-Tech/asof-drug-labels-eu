@@ -9,7 +9,6 @@ Neutralising the biological activity of VEGF regresses the vascularisation of tu
 Pharmacodynamic effects
 Administration of bevacizumab or its parental murine antibody to xenotransplant models of cancer in nude mice resulted in extensive anti-tumour activity in human cancers, including colon, breast, pancreas and prostate.
 Metastatic disease progression was inhibited and microvascular permeability was reduced.
-
 Clinical efficacy
 
 Metastatic carcinoma of the colon or rectum (mCRC)
@@ -30,7 +29,7 @@ AVF2107g
 This was a phase III randomised, double-blind, active-controlled clinical trial evaluating Avastin in combination with IFL as first-line treatment for metastatic carcinoma of the colon or rectum.
 Eight hundred and thirteen patients were randomised to receive IFL + placebo (Arm 1) or
 IFL + Avastin (5 mg/kg every 2 weeks, Arm 2).
-A third group of 110 patients received bolus 5-FU/FA+Avastin (Arm3).
+A third group of 110 patients received bolus 5-FU/FA+Avastin (Arm 3).
 Enrolment in Arm 3 was discontinued, as pre-specified, once safety of Avastin with the IFL regimen was established and considered acceptable.
 All treatments were continued until disease progression.
 The overall mean age was 59.4 years; 56.6% of patients had an ECOG performance status of 0, 43% had a value of 1 and 0.4% had a value of 2.
@@ -41,7 +40,6 @@ The addition of Avastin to IFL resulted in statistically significant increases i
 The clinical benefit, as measured by overall survival, was seen in all pre-specified patient subgroups, including those defined by age, sex, performance status, location of primary tumour, number of organs involved and duration of metastatic disease.
 
 The efficacy results of Avastin in combination with IFL-chemotherapy are displayed in Table 3.
-
 Table 3 Efficacy results for trial AVF2107g
 
 |  | AVF2107g |  |
@@ -82,7 +80,6 @@ The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher ob
 These efficacy data are consistent with the results from trial AVF2107g.
 
 The efficacy data from trials AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 4.
-
 Table 4 Efficacy results for trials AVF0780g and AVF2192g
 
 |  | AVF0780g |  |  | AVF2192g |  |
@@ -117,7 +114,6 @@ The trial contained two parts: an initial unblinded 2-arm part (Part I) in which
 In Part II, treatment assignment was double-blind with respect to Avastin.
 
 Approximately 350 patients were randomised into each of the 4 trial arms in the Part II of the trial.
-
 Table 5 Treatment regimens in trial N016966 (mCRC)
 
 |  | Treatment | Starting dose | Schedule |
@@ -379,7 +375,7 @@ Hazard ratio 0.91
 95% CI 0.76, 1.10
 (p-value 0.3360)
 
-An exploratory multivariate Cox regression model using backward selection indicated, that the following baseline prognostic factors were strongly associated with survival independent of treatment: gender, white blood cell count, platelets, body weight loss in the 6 months prior to trial entry, number of metastatic sites, sum of longest diameter of target lesions, Motzer score.
+An exploratory multivariate Cox regression model using backward selection indicated that the following baseline prognostic factors were strongly associated with survival independent of treatment: gender, white blood cell count, platelets, body weight loss in the 6 months prior to trial entry, number of metastatic sites, sum of longest diameter of target lesions, Motzer score.
 Adjustment for these baseline factors resulted in a treatment hazard ratio of 0.78 (95% CI [0.63;0.96], p = 0.0219), indicating a 22% reduction in the risk of death for patients in the Avastin+ IFN alfa-2a arm compared to IFN alfa-2a arm.
 
 Ninety seven (97) patients in the IFN alfa-2a arm and 131 patients in the Avastin arm reduced the dose of IFN alfa-2a from 9 MIU to either 6 or 3 MIU three times a week as pre-specified in the protocol.
@@ -398,3 +394,6 @@ A total of 116 patients were randomized to receive bevacizumab 3 mg/kg every 2 w
 An interim analysis showed there was a significant prolongation of the time to progression of disease in the 10 mg/kg group as compared with the placebo group (hazard ratio, 2.55; p<0.001).
 There was a small difference, of borderline significance, between the time to progression of disease in the 3 mg/kg group and that in the placebo group (hazard ratio, 1.26; p=0.053).
 Four patients had objective (partial) response, and all of these had received the 10 mg/kg dose bevacizumab; the ORR for the 10 mg/kg dose was 10%.
+
+Paediatric population
+The European Medicines Agency has waived the obligation to submit the results of studies, in all subsets of the paediatric population, in breast carcinoma, adenocarcinoma of the colon and rectum, lung carcinoma (small cell and non-small cell carcinoma) and kidney and renal pelvis carcinoma (excluding nephroblastoma, nephroblastomatosis, clear cell sarcoma, mesoblastic nephroma, renal medullary carcinoma and rhabdoid tumour of the kidney).

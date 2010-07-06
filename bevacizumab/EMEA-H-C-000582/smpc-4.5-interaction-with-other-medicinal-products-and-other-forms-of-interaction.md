@@ -2,7 +2,7 @@
 
 Effect of antineoplastic agents on bevacizumab pharmacokinetics
 No clinically relevant pharmacokinetic interaction of co-administered chemotherapy on Avastin pharmacokinetics has been observed based on the results of a population PK analysis.
-There was neither statistical significance nor clinically relevant difference in clearance of Avastin in patients receiving Avastin monotherapy compared to patients receiving Avastin in combination with interferon alfa-2a or other chemotherapies (IFL, 5-FU/LV, carboplatin-paclitaxel, capecitabine, doxorubicin or cisplatin/gemcitabine).
+There was neither statistical significance nor clinically relevant difference in clearance of Avastin in patients receiving Avastin monotherapy compared to patients receiving Avastin in combination with interferon alfa-2a or other chemotherapies (IFL, 5-FU/LV, carboplatin/paclitaxel, capecitabine, doxorubicin or cisplatin/gemcitabine).
 
 Effect of bevacizumab on the pharmacokinetics of other antineoplastic agents
 Results from a dedicated drug-drug interaction trial, demonstrated no significant effect of bevacizumab on the pharmacokinetics of irinotecan and its active metabolite SN38.
@@ -20,7 +20,7 @@ In two clinical trials of metastatic renal cell carcinoma, microangiopathic haem
 
 MAHA is a haemolytic disorder which can present with red cell fragmentation, anaemia, and thrombocytopenia.
 In addition, hypertension (including hypertensive crisis), elevated creatinine, and neurological symptoms were observed in some of these patients.
-All of these findings were reversible upon discontinuation of bevacizumab and sunitinib malate (see Hypertension, Proteinuria, RPLS in section 4.4 Special warnings and precautions for use).
+All of these findings were reversible upon discontinuation of bevacizumab and sunitinib malate (see Hypertension, Proteinuria, RPLS in section 4.4).
 
 Radiotherapy
 The safety and efficacy of concomitant administration of radiotherapy and Avastin has not been established.

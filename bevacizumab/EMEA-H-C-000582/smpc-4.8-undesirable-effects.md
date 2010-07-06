@@ -19,7 +19,6 @@ The adverse reactions listed in this table fall into the following categories: V
 Adverse reactions are added to the appropriate category in the table below according to the highest incidence seen in any of the major clinical trials.
 Within each frequency grouping adverse reactions are presented in the order of decreasing seriousness.
 Some of the adverse reactions are reactions commonly seen with chemotherapy, (e.g. palmar-plantar erythrodysaesthesia syndrome with capecitabine and peripheral sensory neuropathy with paclitaxel or oxaliplatin); however, an exacerbation by Avastin therapy can not be excluded.
-
 Table 1 Very common and common adverse reactions
 
 | System organ class (SOC) | NCI-CTC grade 3-5 reactions (≥ 2% difference between the trial arms in at least one clinical trial) |  | All grade reactions (≥ 10% difference between the trial arms in at least one clinical trial) |
@@ -27,7 +26,6 @@ Table 1 Very common and common adverse reactions
 |  | Very common | Common | Very common |
 | Infections and infestations |  | Sepsis Abscess Infection |  |
 | Blood and the lymphatic systems disorders | Febrile neutropenia Leucopenia Thrombocytopenia Neutropenia | Anaemia |  |
-|  | Very common | Common | Very common |
 | Metabolism and nutrition disorders |  | Dehydration | Anorexia |
 | Nervous system disorders | Peripheral sensory neuropathy | Cerebrovascular accident Syncope Somnolence Headache | Dysgeusia Headache |
 | Eye disorders |  |  | Eye disorder Lacrimation increased |
@@ -47,6 +45,7 @@ Further information on selected serious adverse reactions
 
 Gastrointestinal perforations (see section 4.4)
 Avastin has been associated with serious cases of gastrointestinal perforation.
+
 Gastrointestinal perforation have been reported in clinical trials with an incidence of less than 1% in patients with metastatic breast cancer or non-squamous non-small cell lung cancer, and in up to 2.0% in metastatic colorectal cancer patients.
 Fatal outcome was reported in approximately a third of serious cases of gastrointestinal perforations, which represents between 0.2%-1% of all Avastin treated patients.
 
@@ -78,19 +77,19 @@ Grade 4 hypertension (hypertensive crisis) occurred in up to 1.0% of patients tr
 
 Hypertension was generally adequately controlled with oral anti-hypertensives such as angiotensin-converting enzyme inhibitors, diuretics and calcium-channel blockers.
 It rarely resulted in discontinuation of Avastin treatment or hospitalisation.
-
 Very rare cases of hypertensive encephalopathy have been reported, some of which were fatal.
 
 The risk of Avastin-associated hypertension did not correlate with the patients’ baseline characteristics, underlying disease or concomitant therapy.
 
 Proteinuria (see section 4.4)
 In clinical trials, proteinuria has been reported within the range of 0.7% to 38% of patients receiving Avastin.
+
 Proteinuria ranged in severity from clinically asymptomatic, transient, trace proteinuria to nephrotic syndrome, with the great majority as Grade 1 proteinuria.
-Grade 3 proteinuria was reported in< 3% of treated patients: however, in patients treated for advanced and/or metastatic renal cell carcinoma this was up to 7%.
+Grade 3 proteinuria was reported in < 3% of treated patients: however, in patients treated for advanced and/or metastatic renal cell carcinoma this was up to 7%.
 Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of treated patients.
 The proteinuria seen in clinical trials was not associated with renal dysfunction and rarely required permanent discontinuation of therapy.
 Testing for proteinuria is recommended prior to start of Avastin therapy.
-In most clinical trials urine protein levels of ≥ 2g /24 hrs led to the holding of Avastin until recovery to < 2g/24 hrs.
+In most clinical trials urine protein levels of ≥ 2g/24 hrs led to the holding of Avastin until recovery to < 2g/24 hrs.
 
 Haemorrhage (see section 4.4)
 In clinical trials across all indications the overall incidence of NCI-CTC Grade 3-5 bleeding events ranged from 0.4% to 5% in Avastin treated patients, compared with up to 2.9% of patients in chemotherapy control group.
@@ -118,6 +117,7 @@ In two ongoing trials in patients with treated brain metastases, one case of Gra
 Across all clinical trials, mucocutaneous haemorrhage has been seen in up to 50% of Avastin-treated patients.
 These were most commonly NCI-CTC Grade 1 epistaxis that lasted less than 5 minutes, resolved without medical intervention and did not require any changes in the Avastin treatment regimen.
 Clinical safety data suggest that the incidence of minor mucocutaneous haemorrhage (e.g. epistaxis) may be dose-dependent.
+
 There have also been less common events of minor mucocutaneous haemorrhage in other locations, such as gingival bleeding or vaginal bleeding.
 
 Thromboembolism (see section 4.4)
@@ -148,31 +148,34 @@ CHF was reported in up to 3.5% of patients treated with Avastin compared with up
 Most of these patients showed improved symptoms and/or left ventricular function following appropriate medical therapy.
 
 In most clinical trials of Avastin, patients with pre-existing CHF of NYHA (New York Heart Association (NYHA) II-IV were excluded, therefore, no information is available on the risk of CHF in this population.
-
 Prior anthracyclines exposure and/or prior radiation to the chest wall may be possible risk factors for the development of CHF.
 
 Hypersensitivity reactions/infusion reactions (see section 4.4 and Post-marketing experience below) In some clinical trials anaphylactic and anaphylactoid-type reactions were reported more frequently in patients receiving Avastin in combination with chemotherapy than with chemotherapy alone.
 The incidence of these reactions in some clinical trials of Avastin is common (up to 5% in bevacizumab-treated patients).
+
 Elderly patients
 In randomised clinical trials, age > 65 years was associated with an increased risk of developing arterial thromboembolic events, including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs).
 Other reactions with a higher frequency seen in patients over 65 were grade 3-4 leucopenia and thrombocytopenia; and all grade neutropenia, diarrhoea, nausea, headache and fatigue as compared to those aged ≤ 65 years when treated with Avastin (see sections 4.4 and 4.8 under Thromboembolism).
 
 No increase in the incidence of other reactions, including gastrointestinal perforation, wound healing complications, hypertension, proteinuria, congestive heart failure, and haemorrhage was observed in elderly patients (> 65 years) receiving Avastin as compared to those aged ≤ 65 years treated with Avastin.
 
+Paediatric population
+The safety of Avastin in children and adolescents has not been established.
+
 Laboratory abnormalities
 Decreased neutrophil count, decreased white blood cell count and presence of urine protein may be associated with Avastin treatment.
 
 Across clinical trials, the following Grade 3 and 4 laboratory abnormalities occurred in patients treated with Avastin with at least a 2% difference compared to the corresponding control groups: hyperglycaemia, decreased haemoglobin, hypokalaemia, hyponatraemia, decreased white blood cell count, increased international normalised ratio (INR).
-
 Post-marketing experience
 
 Table 2 Adverse reactions reported in post-marketing setting
 
 | System organ class (SOC) | Reactions (frequency*) |
 | --- | --- |
-| Nervous system disorders | Hypertensive encephalopathy (very rare) (see also section 4.4 Special warnings and precautions for use, and Hypertension in section 4.8 Undesirable Effects) Reversible posterior leukoencephalopathy syndrome (rare) (see also section 4.4 Special warnings and precautions for use) |
-| Vascular disorders | Renal thrombotic microangiopathy, clinically manifested as proteinuria (frequency not known). For further information on proteinuria see section 4.4 Special warnings and precautions for use, and Proteinuria in section 4.8 Undesirable Effects. |
+| Nervous system disorders | Hypertensive encephalopathy (very rare) (see also section 4.4 and Hypertension in section 4.8) Reversible posterior leukoencephalopathy syndrome (rare) (see also section 4.4) |
+| Vascular disorders | Renal thrombotic microangiopathy, clinically manifested as proteinuria (not known). For further information on proteinuria see section 4.4 and Proteinuria in section 4.8. |
 | Respiratory, thoracic and mediastinal disorders | Nasal septum perforation (not known) Pulmonary hypertension (not known) Dysphonia (common) |
+| Gastrointestinal disorders | Gastrointestinal ulcer (not known) |
 | Immune system disorders | Hypersensitivity reactions and infusion reactions (not known); with the following possible co-manifestations: dyspnoea/difficulty breathing, flushing/redness/rash, hypotension or hypertension, oxygen desaturation, chest pain, rigors and nausea/vomiting (see also section 4.4 and Hypersensitivity reactions/infusion reactions above) |
 
 * if specified, the frequency has been derived from clinical trial data
