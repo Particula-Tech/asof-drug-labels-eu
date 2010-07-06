@@ -123,7 +123,6 @@ A single dose of 1500 mg levetiracetam diluted in 100 ml of a compatible diluent
 
 The intravenous administration of doses up to 4000 mg diluted in 100 ml of 0.9% sodium chloride infused over 15 minutes and doses up to 2500 mg diluted in 100 ml of 0.9% sodium chloride infused over 5 minutes was evaluated.
 The pharmacokinetic and safety profiles did not identify any safety concerns.
-
 The time independent pharmacokinetic profile of levetiracetam was also confirmed following 1500 mg intravenous infusion for 4 days with b.i.d dosing.
 
 Peak plasma concentration (Cmax) observed in 17 subjects following a single intravenous dose of 1500 mg infused over 15 minutes was 51 ± 19 µg/mL (arithmetic average ± standard deviation).

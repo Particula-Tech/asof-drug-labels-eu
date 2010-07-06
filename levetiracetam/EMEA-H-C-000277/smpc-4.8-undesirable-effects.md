@@ -92,7 +92,7 @@ Common: cough increased
 - Skin and subcutaneous tissue disorders
 
 Common: rash, eczema, pruritus
-Post-marketing experience: alopecia: in several cases, recovery was observed when Keppra was discontinued.
+Post-marketing experience: toxic epidermal necrolysis, Stevens-Johnson syndrome, erythema multiforme and alopecia: in several alopecia cases, recovery was observed when levetiracetam was discontinued.
 
 - Blood and lymphatic system disorders
 
