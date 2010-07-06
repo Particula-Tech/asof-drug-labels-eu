@@ -141,16 +141,111 @@ All patients who developed PTLD were aged <18 years.
 
 There is insufficient experience to recommend the use of Rapamune in children and adolescents (see section 4.2).
 
+[Rapamune 0.5 mg coated tablets]
+
+The most commonly reported adverse reactions (occurring in >10% of patients) are thrombocytopaenia, anaemia, pyrexia, hypertension, hypokalaemia, hypophosphataemia, urinary tract infection, hypercholesterolaemia, hyperglycaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, pain, constipation, nausea, headache, increased blood creatinine, and increased blood lactate dehydrogenase (LDH).
+
+The incidence of any adverse reaction(s) may increase as the trough sirolimus level increases.
+
+The following list of adverse reactions is based on experience from clinical studies and on postmarketing experience.
+
+Within the system organ classes, adverse reactions are listed under headings of frequency (number of patients expected to experience the reaction), using the following categories: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1000 to <1/100); rare (≥1/10,000 to <1/1000); not known (cannot be estimated from the available data).
+
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
+Most patients were on immunosuppressive regimens, which included Rapamune in combination with other immunosuppressive agents.
+
+System Organ
+Class Very common Common Uncommon Rare Not known
+Infections and Urinary tract Sepsis
+infestations infection Pneumonia
+Fungal, viral,
+and bacterial
+infections (such
+as
+Epstein-Barr
+virus, CMV,
+and Herpes
+Neoplasms Skin cancer* Lymphoma*/
+benign, post-
+malignant and transplant
+unspecified lymphoproli-
+(including cysts ferative
+and polyps) disorder
+Blood and Thrombocyto- Thrombotic Pancyto-
+lymphatic paenia Thrombo- paenia
+system disorders Anaemia cytopaenic
+purpura/hae-
+molytic
+uraemic
+syndrome
+Leukopaenia
+Neutropaenia
+Immune system Hypersensitivi-
+disorders ty reactions,
+hypersensitivi-
+ty vasculitis
+(see section
+4.4)
+Metabolism and Hypokalaemia Diabetes
+nutrition Hypophospha- melitus
+disorders taemia
+Hypercholeste-
+rolaemia
+Hypertriglyceri-
+daemia
+Cardiac Tachycardia Pericardial
+disorders effusion
+(including
+haemody-
+namically
+children and
+adults)
+Respiratory, Pneumonitis* Pulmonary Alveolar
+Hepatobiliary Liver function Liver failure*
+disorders tests abnormal
+Renal and Proteinuria Nephrotic Focal
+urinary disorders syndrome segmental
+(see section glomerulo-
+4.4) sclerosis*
+General Oedema Impaired
+disorders and peripheral healing*
+administration Pyrexia Oedema
+site conditions Pain
+dehydrogenase aminotransfe-
+increased rase increased
+increased aminotransfe-
+rase increased
+
+*See section below.
+
+Description of selected adverse reactions
+
+Cases of BK virus-associated nephropathy, as well as cases of JC virus-associated progressive multifocal leukoencephalopathy (PML), have been reported in patients treated with immunosuppressants, including Rapamune.
+
+Hepatoxicity has been reported.
+The risk may increase as the trough sirolimus level increases.
+Rare reports of fatal hepatic necrosis have been reported with elevated trough sirolimus levels.
+
+Impaired healing following transplant surgery has been reported, including fascial dehiscence, incisional hernia, and anastomotic disruption (e.g., wound, vascular, airway, ureteral, biliary).
+
+In an ongoing study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12-20 ng/ml in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 ml/min (see section 5.1).
+There was a higher rate of serious adverse events, including pneumonia, acute rejection, graft loss and death, in this sirolimus treatment arm (n=60, median time post-transplant 36 months).
+
+Controlled clinical studies with posology comparable to that currently indicated for the use of Rapamune in adults have not been conducted in children or adolescents below 18 years of age).
+
+Safety was assessed in a controlled clinical study enrolling renal transplant patients below 18 years of age considered of high immunologic risk, defined as a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy (see section 5.1).
+The use of Rapamune in combination with calcineurin inhibitors and corticosteroids was associated with an increased risk of deterioration of renal function, serum lipid abnormalities (including, but not limited to, increased serum triglycerides and cholesterol), and urinary tract infections.
+
+In another study enrolling renal transplant patients 20 years of age and below that was intended to assess the safety of progressive corticosteroid withdrawal (beginning at six months post-transplantation) from an immunosuppressive regimen initiated at transplantation that included full-dose immunosuppression with both Rapamune and a calcineurin inhibitor in combination with basiliximab induction, of the 274 patients enrolled, 19 (6.9%) were reported to have developed post-transplant lymphoproliferative disorder (PTLD).
+All patients who developed PTLD were aged below 18 years.
+
 [Rapamune 1 mg coated tablets.]
 
 The most commonly reported adverse drug reactions (occuring in >10% of patients) are thrombocytopenia, anaemia, pyrexia, hypertension, hypokalaemia, hypophosphataemia, urinary tract infection, hypercholesterolaemia, hyperglycaemia, hypertriglyceridaemia, abdominal pain, lymphocoele, peripheral oedema, arthralgia, acne, diarrhoea, pain, constipation, nausea, headache, increased blood creatinine, and increased blood lactate dehydrogenase (LDH).
 
 Metabolism Hypokalaemia Diabetes mellitus
 and nutrition Hypophosphataemia
-
-Hepatoxicity has been reported.
-The risk may increase as the trough sirolimus level increases.
-Rare reports of fatal hepatic necrosis have been reported with elevated trough sirolimus levels.
 
 [Rapamune 2 mg coated tablets.]
 

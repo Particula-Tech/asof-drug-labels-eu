@@ -2,6 +2,10 @@
 
 Rapamune 1 mg/ml oral solution.
 
+[Rapamune 0.5 mg coated tablets]
+
+Rapamune 0.5 mg coated tablets
+
 [Rapamune 1 mg coated tablets.]
 
 Rapamune 1 mg coated tablets.

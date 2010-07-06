@@ -54,6 +54,43 @@ Pharmacokinetic interactions may be observed with gastrointestinal prokinetic ag
 
 No clinically significant pharmacokinetic interaction was observed between sirolimus and any of the following substances: acyclovir, atorvastatin, digoxin, glibenclamide, methylprednisolone, nifedipine, prednisolone, and trimethoprim/sulphamethoxazole.
 
+[Rapamune 0.5 mg coated tablets]
+
+Rifampicin (CYP3A4 inducer):
+Administration of multiple doses of rifampicin decreased sirolimus whole blood concentrations following a single 10 mg dose of Rapamune oral solution.
+
+Ketoconazole (CYP3A4 inhibitor):
+Multiple-dose ketoconazole administration significantly affected the rate and extent of absorption and sirolimus exposure from Rapamune oral solution as reflected by increases in sirolimus Cmax, tmax, and AUC of 4.4-fold, 1.4-fold, and 10.9-fold, respectively.
+
+Voriconazole (CYP3A4 inhibitor):
+Co-administration of sirolimus (2 mg single dose) with multiple-dose administration of oral voriconazole (400 mg every 12 hours for 1 day, then 100 mg every 12 hours for 8 days) in healthy subjects has been reported to increase sirolimus Cmax and AUC by an average of 7-fold and 11-fold respectively.
+
+Diltiazem (CYP3A4 inhibitor):
+The simultaneous oral administration of 10 mg of Rapamune oral solution and 120 mg of diltiazem significantly affected the bioavailability of sirolimus.
+
+Verapamil (CYP3A4 inhibitor):
+Multiple-dose administration of verapamil and sirolimus oral solution significantly affected the rate and extent of absorption of both medicinal products.
+Sirolimus levels should be monitored, and appropriate dose reductions of both medicinal products should be considered.
+
+Erythromycin (CYP3A4 inhibitor):
+Multiple-dose administration of erythromycin and sirolimus oral solution significantly increased the rate and extent of absorption of both medicinal products.
+Sirolimus levels should be monitored and appropriate dose reductions of both medicinal products should be considered.
+
+Ciclosporin (CYP3A4 substrate):
+The rate and extent of sirolimus absorption was significantly increased by ciclosporin A (CsA).
+Sirolimus administered concomitantly (5 mg), and at 2 hours (5 mg) and 4 hours (10 mg) after CsA (300 mg), resulted in increased sirolimus AUC by approximately 183%, 141% and 80%, respectively.
+
+Oral contraceptives:
+No clinically significant pharmacokinetic interaction was observed between Rapamune oral solution and 0.3 mg norgestrel/0.03 mg ethinyl estradiol.
+Although the results of a single-dose interaction study with an oral contraceptive suggest the lack of a pharmacokinetic interaction, the results cannot exclude the possibility of changes in the pharmacokinetics that might affect the efficacy of the oral contraceptive during long-term treatment with Rapamune.
+Moderate and weak inhibitors of CYP3A4 may decrease the metabolism of sirolimus and increase sirolimus blood levels (e.g., calcium channel blockers: nicardipine; antifungal agents: clotrimazole, fluconazole; antibiotics: troleandomycin; other substances: bromocriptine, cimetidine, danazol, protease inhibitors).
+
+Inducers of CYP3A4 may increase the metabolism of sirolimus and decrease sirolimus blood levels (e.g., St. John's Wort (Hypericum perforatum), anticonvulsants: carbamazepine, phenobarbital, phenytoin).
+
+Grapefruit juice affects CYP3A4-mediated metabolism, and should therefore be avoided.
+
+Pharmacokinetic interactions may be observed with gastrointestinal prokinetic agents, such as cisapride and metoclopramide.
+
 [Rapamune 1 mg coated tablets.]
 
 Sirolimus is extensively metabolized by the CYP3A4 isozyme in the intestinal wall and liver.

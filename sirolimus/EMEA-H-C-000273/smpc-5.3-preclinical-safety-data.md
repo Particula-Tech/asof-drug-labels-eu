@@ -14,3 +14,20 @@ Partly reversible reductions in sperm counts were reported in a 13-week rat stud
 Reductions in testicular weights and/or histological lesions (e.g. tubular atrophy and tubular giant cells) were observed in rats and in a monkey study.
 In rats, sirolimus caused embryo/foetotoxicity that was manifested as mortality and reduced foetal weights (with associated delays in skeletal ossification).
 (see section 4.6).
+
+[Rapamune 0.5 mg coated tablets]
+
+Adverse reactions not observed in clinical studies, but seen in animals at exposure levels similar to clinical exposure levels and with possible relevance to clinical use, were as follows: pancreatic islet cell vacuolation, testicular tubular degeneration, gastrointestinal ulceration, bone fractures and calluses, hepatic haematopoiesis, and pulmonary phospholipidosis.
+
+In rat, testicular interstitial cell adenomas were likely indicative of a species-dependent response to lutenising hormone levels and are usually considered of limited clinical relevance.
+
+Reductions in testicular weights and/or histological lesions (e.g., tubular atrophy and tubular giant cells) were observed in rats and in a monkey study.
+In rats, sirolimus caused embryo/foetotoxicity that was manifested as mortality and reduced foetal weights (with associated delays in skeletal ossification) (see section 4.6).
+
+[Rapamune 1 mg coated tablets.]
+
+(all sentences already above)
+
+[Rapamune 2 mg coated tablets.]
+
+(all sentences already above)

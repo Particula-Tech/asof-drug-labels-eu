@@ -2,6 +2,10 @@
 
 EU/1/01/171/001
 
+[Rapamune 0.5 mg coated tablets]
+
+(all sentences already above)
+
 [Rapamune 1 mg coated tablets.]
 
 EU/1/01/171/007-8

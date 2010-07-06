@@ -2,6 +2,12 @@
 
 Oral solution.
 
+[Rapamune 0.5 mg coated tablets]
+
+Coated tablet (tablet).
+
+Tan-coloured, triangular-shaped coated tablet marked “RAPAMUNE 0.5 mg” on one side.
+
 [Rapamune 1 mg coated tablets.]
 
 Coated tablet.

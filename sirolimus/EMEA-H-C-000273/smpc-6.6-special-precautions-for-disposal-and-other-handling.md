@@ -9,9 +9,13 @@ No other liquids, including grapefruit juice, should be used for dilution.
 Stir vigorously and drink at once.
 Refill the container with an additional volume (minimum of 120 ml) of water or orange juice, stir vigorously, and drink at once.
 
-[Rapamune 1 mg coated tablets.]
+[Rapamune 0.5 mg coated tablets]
 
 No special requirements.
+
+[Rapamune 1 mg coated tablets.]
+
+(all sentences already above)
 
 [Rapamune 2 mg coated tablets.]
 
