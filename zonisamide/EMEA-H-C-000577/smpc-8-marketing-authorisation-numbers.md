@@ -19,3 +19,19 @@ EU/1/04/307/004
 EU/1/04/307/011
 EU/1/04/307/007
 EU/1/04/307/008
+
+[Zonegran 25 mg orodispersible tablets]
+
+EU/1/04/307/XXX
+
+[Zonegran 50 mg orodispersible tablets]
+
+(all sentences already above)
+
+[Zonegran 100 mg orodispersible tablets]
+
+(all sentences already above)
+
+[Zonegran 300 mg orodispersible tablets]
+
+(all sentences already above)

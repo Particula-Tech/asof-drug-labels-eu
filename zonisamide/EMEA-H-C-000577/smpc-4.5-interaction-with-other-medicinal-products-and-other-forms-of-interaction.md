@@ -43,3 +43,19 @@ Zonegran should be used with caution in patients treated concomitantly with carb
 [Zonegran 100 mg hard capsules]
 
 Effect of Zonegran on cytochrome P450 enzyme
+
+[Zonegran 25 mg orodispersible tablets]
+
+  These effects are unlikely to be of clinical significance when zonisamide is added to existing therapy; however, changes in zonisamide concentrations may occur if concomitant CYP3A4-inducing anti-epileptic or other medicinal products are withdrawn, dose adjusted or introduced, an adjustment of the Zonegran dose may be required.
+
+[Zonegran 50 mg orodispersible tablets]
+
+(all sentences already above)
+
+[Zonegran 100 mg orodispersible tablets]
+
+(all sentences already above)
+
+[Zonegran 300 mg orodispersible tablets]
+
+(all sentences already above)

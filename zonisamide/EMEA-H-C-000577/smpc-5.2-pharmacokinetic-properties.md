@@ -6,6 +6,7 @@ Zonisamide is almost completely absorbed after oral administration, generally re
 The first-pass metabolism is believed to be negligible.
 Absolute bioavailability is estimated to be approximately 100%.
 Oral bioavailability is not affected by food, although peak plasma and serum concentrations may be delayed.
+
 Zonisamide AUC and Cmax values increased almost linearly after single dose over the dose range of 100-800 mg and after multiple doses over the dose range of 100-400 mg once daily.
 The increase at steady state was slightly more than expected on the basis of dose, probably due to the saturable binding of zonisamide to erythrocytes.
 Steady state was achieved within 13 days.
@@ -41,10 +42,34 @@ Patients with an impaired liver function: The pharmacokinetics of zonisamide in 
 
 Elderly: No clinically significant differences were observed in the pharmacokinetics between young (aged 21-40 years) and elderly (65-75 years).
 
-Adolescents (12-18 years): Limited data indicate that pharmacokinetics in adolescents dosed to steady state at 1, 7 or 12 mg/kg daily, in divided doses, are similar to those observed in adults, after adjustment for bodyweight.
-
+Children and Adolescents (5-18 years): Limited data indicate that pharmacokinetics in children and adolescents dosed to steady state at 1, 7 or 12 mg/kg daily, in divided doses, are similar to those observed in adults, after adjustment for bodyweight.
 Other characteristics
 
 No clear Zonegran dose-concentration-response relationship has been defined.
 When comparing the same dose level, subjects of higher total body weight appear to have lower steady-state serum concentrations, but this effect appears to be relatively modest.
 Age (≥ 12 years) and gender, after adjustment for body weight effects, have no apparent effect on zonisamide exposure in epileptic patients during steady-state dosing.
+
+[Zonegran 50 mg hard capsules.]
+
+(all sentences already above)
+
+[Zonegran 100 mg hard capsules]
+
+(all sentences already above)
+
+[Zonegran 25 mg orodispersible tablets]
+
+Zonegran orodispersible tablets are bioequivalent to zonisamide hard capsules, with a similar rate and extent of absorption.
+Zonegran orodispersible tablets may be used as an alternative to Zonegran hard capsules.
+
+[Zonegran 50 mg orodispersible tablets]
+
+(all sentences already above)
+
+[Zonegran 100 mg orodispersible tablets]
+
+(all sentences already above)
+
+[Zonegran 300 mg orodispersible tablets]
+
+(all sentences already above)

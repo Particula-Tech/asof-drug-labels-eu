@@ -12,10 +12,10 @@ The frequencies are arranged according to the following scheme:
 
 very common ≥ 1/10
 
-common ≥ 1/100 < 1/10
-uncommon ≥ 1/1,000 < 1/100
-rare ≥ 1/10,000 < 1/1,000
-very rare < 1/10,000 including isolated reports
+common ≥ 1/100 to < 1/10
+uncommon ≥ 1/1,000 to < 1/100
+rare ≥ 1/10,000 to < 1/1,000
+very rare < 1/10,000
 not known cannot be estimated from the available data
 
 | System Organ Class (MedDRA terminology) | Very Common | Common | Uncommon | Very Rare |
@@ -38,7 +38,6 @@ not known cannot be estimated from the available data
 | Injury, poisoning and procedural complications |  |  |  | Heat stroke |
 
 In addition there have been isolated cases of Sudden Unexplained Death in Epilepsy Patients (SUDEP) receiving Zonegran.
-
 Additional information on special populations:
 
 Review of post-marketing data suggests that patients aged 65 years or older report a higher frequency than the general population of the following events: Stevens-Johnson syndrome (SJS) and Drug Induced Hypersensitivity syndrome (DIHS).

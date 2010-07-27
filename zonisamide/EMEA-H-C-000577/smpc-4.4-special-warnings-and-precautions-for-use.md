@@ -7,7 +7,7 @@ All patients who develop a rash while taking Zonegran must be closely supervised
 
 In accordance with current clinical practice, discontinuation of Zonegran in patients with epilepsy must be accomplished by gradual dose reduction, to reduce the possibility of seizures on withdrawal.
 There are insufficient data for the withdrawal of concomitant antiepileptic medicines once seizure control with Zonegran has been achieved in the add-on situation, in order to reach monotherapy with Zonegran.
-Therefore, withdrawal of concomitant anti-epileptic agents must be undertaken with caution.
+Therefore, withdrawal of concomitant anti-epileptic medicinal products must be undertaken with caution.
 
 Zonegran is a benzisoxazole derivative, which contains a sulphonamide group.
 Serious immune based adverse reactions that are associated with medicinal products containing a sulphonamide group include rash, allergic reaction and major haematological disturbances, including aplastic anaemia, which very rarely can be fatal.
@@ -21,7 +21,7 @@ The mechanism of this risk is not known and the available data do not exclude th
 Therefore patients should be monitored for signs of suicidal ideation and behaviours and appropriate treatment should be considered.
 Patients (and caregivers of patients) should be advised to seek medical advice should signs of suicidal ideation or behaviour emerge.
 
-Kidney stones have occurred in patients treated with Zonegran.
+Kidney stones have occurred in patients treated with zonisamide.
 Zonegran should be used with caution in patients who have risk factors for nephrolithiasis, including prior stone formation, a family history of nephrolithiasis and hypercalcuria.
 Such patients may be at increased risk for renal stone formation and associated signs and symptoms such as renal colic, renal pain or flank pain.
 In addition, patients taking other medications associated with nephrolithiasis may be at increased risk.
@@ -65,10 +65,33 @@ If substantial undesirable weight loss occurs, discontinuation of Zonegran shoul
 
 [Zonegran 50 mg hard capsules.]
 
-Therefore withdrawal of concomitant anti-epileptic agents must be undertaken with caution.
+Therefore withdrawal of concomitant anti-epileptic medicinal products must be undertaken with caution.
 
 The amounts by which bicarbonate is decreased are usually small – moderate (average decrease of approximately 3.5 mEq/l at daily doses of 300mg in adults); rarely patients can experience more severe decreases.
 
 [Zonegran 100 mg hard capsules]
 
-Zonegran 100 mg hard capsules contain a yellow colour called sunset yellow FCF (E110), which may cause allergic reactions.
+Zonegran 100 mg hard capsules contain a yellow colour called sunset yellow FCF (E110), and a red colour called allura red AC (E129), which may cause allergic reactions.
+
+[Zonegran 25 mg orodispersible tablets]
+
+All patients who develop a rash while taking Zonegran must be closely supervised, with additional levels of caution applied to those patients receiving concomitant antiepileptic medicinal products that may independently induce skin rashes.
+
+A meta-analysis of randomised placebo-controlled trials of anti-epileptic medicines has also shown a small increased risk of suicidal ideation and behaviour.
+
+In patients taking Zonegran who develop the clinical signs and symptoms of pancreatitis, pancreatic lipase and amylase levels should be monitored.
+If pancreatitis is evident, in the absence of another obvious cause, discontinuation of Zonegran should be considered and appropriate treatment should be initiated.
+
+Zonegran orodispersible tablets contain a sweetener called aspartame (E951), which is a source of phenylalanine and may be harmful for people with phenylketonuria.
+
+[Zonegran 50 mg orodispersible tablets]
+
+(all sentences already above)
+
+[Zonegran 100 mg orodispersible tablets]
+
+(all sentences already above)
+
+[Zonegran 300 mg orodispersible tablets]
+
+(all sentences already above)
