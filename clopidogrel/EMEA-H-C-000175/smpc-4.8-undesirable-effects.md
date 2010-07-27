@@ -20,9 +20,13 @@ In CLARITY, there was an overall increase in bleeding in the clopidogrel + ASA g
 This was consistent across subgroups of patients defined by baseline characteristics, and type of fibrinolytic or heparin therapy.
 
 In COMMIT, the overall rate of noncerebral major bleeding or cerebral bleeding was low and similar in both groups (0.6% versus 0.5% in the clopidogrel + ASA and the placebo + ASA groups, respectively).
+
 Adverse reactions that occurred either during clinical studies or that were spontaneously reported are presented in the table below.
 Their frequency is defined using the following conventions: common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
 Within each system organ class, adverse drug reactions are presented in order of decreasing seriousness.
+
+System Organ Common Uncommon Rare Very rare
+Class
 
 | System Organ Class | Common | Uncommon | Rare | Very rare |
 | --- | --- | --- | --- | --- |
