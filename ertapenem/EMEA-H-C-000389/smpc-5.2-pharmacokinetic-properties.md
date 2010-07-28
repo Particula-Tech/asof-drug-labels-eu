@@ -9,7 +9,6 @@ There is no accumulation of ertapenem in adults following multiple intravenous d
 
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 15 mg/kg (up to a maximum dose of 1 g) dose in patients 3 to 23 months of age were
 103.8 micrograms/ml (Cmax) at 0.5 hour postdose (end of infusion), 13.5 micrograms/ml at 6 hour postdose, and 2.5 micrograms/ml at 12 hour postdose.
-
 Average plasma concentrations of ertapenem following a single 30 minute intravenous infusion of a 15 mg/kg (up to a maximum dose of 1 g) dose in patients 2 to 12 years of age were
 113.2 micrograms/ml (Cmax) at 0.5 hour postdose (end of infusion), 12.8 micrograms/ml at 6 hour postdose, and 3.0 micrograms/ml at 12 hour postdose.
 
@@ -43,7 +42,6 @@ In-vitro studies in human liver microsomes indicate that ertapenem does not inhi
 Elimination
 Following administration of a 1 g radiolabelled intravenous dose of ertapenem to healthy young adults (23 to 49 years of age), approximately 80 % is recovered in urine and 10 % in faeces.
 Of the 80 % recovered in urine, approximately 38 % is excreted as unchanged ertapenem and approximately 37 % as the ring-opened metabolite.
-
 In healthy young adults (18 to 49 years of age) and patients 13 to 17 years of age given a 1 g intravenous dose, the mean plasma half-life is approximately 4 hours.
 The mean plasma half-life in children 3 months to 12 years of age is approximately 2.5 hours.
 Average concentrations of ertapenem in urine exceed 984 micrograms/ml during the period 0 to 2 hours postdose and exceed

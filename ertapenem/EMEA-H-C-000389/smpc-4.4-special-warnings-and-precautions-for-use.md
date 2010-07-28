@@ -3,7 +3,7 @@
 Serious and occasionally fatal hypersensitivity (anaphylactic) reactions have been reported in patients receiving therapy with beta-lactams.
 These reactions are more likely to occur in individuals with a history of sensitivity to multiple allergens.
 Before initiating therapy with ertapenem, careful inquiry should be made concerning previous hypersensitivity reactions to penicillins, cephalosporins, other beta-lactams and other allergens (see section 4.3).
-If an allergic reaction to ertapenem occurs, discontinue the therapy immediately.
+If an allergic reaction to ertapenem occurs (see section 4.8), discontinue the therapy immediately.
 Serious anaphylactic reactions require immediate emergency treatment.
 
 As with other antibiotics, prolonged use of ertapenem may result in overgrowth of non-susceptible organisms.
