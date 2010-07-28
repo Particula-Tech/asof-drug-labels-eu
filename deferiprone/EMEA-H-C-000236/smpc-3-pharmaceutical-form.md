@@ -11,3 +11,7 @@ The tablet can be divided into equal halves.
 Oral solution.
 
 Clear, reddish orange coloured liquid.
+
+[Ferriprox 1000 mg film-coated tablets]
+
+White to off-white, capsule-shaped, film-coated tablets imprinted “APO” bisect “1000” on one side, plain on the other.

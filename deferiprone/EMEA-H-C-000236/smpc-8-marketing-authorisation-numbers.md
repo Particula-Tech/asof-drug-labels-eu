@@ -6,3 +6,7 @@ EU/1/99/108/001
 
 EU/1/99/108/002
 EU/1/99/108/003
+
+[Ferriprox 1000 mg film-coated tablets]
+
+(all sentences already above)

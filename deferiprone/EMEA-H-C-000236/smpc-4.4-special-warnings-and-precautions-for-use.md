@@ -21,7 +21,6 @@ The patient should be advised to limit contact with other individuals in order t
 Obtain a complete blood cell (CBC) count, with a white blood cell (WBC) count, corrected for the presence of nucleated red blood cells, a neutrophil count, and a platelet count immediately upon diagnosing the event and then repeat daily.
 It is recommended that following recovery from neutropenia, weekly CBC, WBC, neutrophil and platelet counts continue to be obtained for three consecutive weeks, to ensure that the patient recovers fully.
 Should any evidence of infection develop concurrently with the neutropenia, the appropriate cultures and diagnostic procedures should be performed and an appropriate therapeutic regimen instituted.
-
 In the event of severe neutropenia or agranulocytosis:
 Follow the guidelines above and administer appropriate therapy such as granulocyte colony stimulating factor, beginning the same day that the event is identified; administer daily until the condition resolves.
 Provide protective isolation and if clinically indicated, admit patient to the hospital.
@@ -61,3 +60,7 @@ Prescribers are reminded that the use of doses above 100 mg/kg/day are not recom
 
 Excipients
 Ferriprox oral solution contains the colouring agent Sunset Yellow (E110) which may cause allergic reactions.
+
+[Ferriprox 1000 mg film-coated tablets]
+
+(all sentences already above)

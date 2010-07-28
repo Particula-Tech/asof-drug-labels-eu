@@ -10,3 +10,7 @@ Each ml of oral solution contains 100 mg deferiprone (25 g deferiprone in 250 ml
 
 Excipient:
 Each ml of oral solution contains 0.4 mg Sunset Yellow (E110).
+
+[Ferriprox 1000 mg film-coated tablets]
+
+Each tablet contains 1000 mg deferiprone.

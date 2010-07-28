@@ -20,3 +20,11 @@ Artificial cherry flavour
 Peppermint oil
 Sunset Yellow (E110)
 Sucralose (E955)
+
+[Ferriprox 1000 mg film-coated tablets]
+
+Methylcellulose USP A15LV
+Crospovidone
+
+Hypromellose 2910 USP/EP
+Hydroxypropyl cellulose

@@ -29,10 +29,6 @@ After starting Ferriprox therapy, it is recommended that serum ferritin concentr
 Dose adjustments should be tailored to the individual patient’s response and therapeutic goals (maintenance or reduction of body iron burden).
 Interruption of therapy with deferiprone should be considered if serum ferritin measurements fall below 500 μg/l.
 
-Due to the serious nature of agranulocytosis that can occur with the use of deferiprone special monitoring is required for all patients.
-Caution must be used when the patients’ absolute neutrophil count (ANC) is low, and when treating patients with renal insufficiency or hepatic dysfunction.
-(see section 4.4).
-
 Paediatric population
 There are limited data available on the use of deferiprone in children between 6 and 10 years of age, and no data on deferiprone use in children under 6 years of age.
 
@@ -55,3 +51,19 @@ To obtain a dose of about 75 mg/kg/day, use the volume of oral solution suggeste
 | 70 | 5250 | 1750 | 17.5 |
 | 80 | 6000 | 2000 | 20.0 |
 | 90 | 6750 | 2250 | 22.5 |
+
+[Ferriprox 1000 mg film-coated tablets]
+
+| Body weight (kg) | Total daily dose (mg) | Number of 1000 mg tablets* |  |  |
+| --- | --- | --- | --- | --- |
+|  |  | Morning | Midday | Evening |
+| 20 | 1500 | 0.5 | 0.5 | 0.5 |
+| 30 | 2250 | 1.0 | 0.5 | 1.0 |
+| 40 | 3000 | 1.0 | 1.0 | 1.0 |
+| 50 | 3750 | 1.5 | 1.0 | 1.5 |
+| 60 | 4500 | 1.5 | 1.5 | 1.5 |
+| 70 | 5250 | 2.0 | 1.5 | 2.0 |
+| 80 | 6000 | 2.0 | 2.0 | 2.0 |
+| 90 | 6750 | 2.5 | 2.0 | 2.5 |
+
+*number of tablets rounded to nearest half tablet

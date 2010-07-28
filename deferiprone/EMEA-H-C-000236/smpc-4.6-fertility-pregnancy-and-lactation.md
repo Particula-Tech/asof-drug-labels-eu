@@ -11,13 +11,8 @@ These women should be advised to take contraceptive measures and must be advised
 Breastfeeding
 It is not known whether deferiprone is excreted in human milk.
 No prenatal and postnatal reproductive studies have been conducted in animals.
-Deferiprone must not be used by breastfeeding mothers.
-If treatment is unavoidable, breastfeeding must be stopped (see section 4.3).
+Deferiprone must not be used by breast-feeding mothers.
+If treatment is unavoidable, breast-feeding must be stopped (see section 4.3).
 
 Fertility
 No animal studies to evaluate the potential effects of deferiprone on fertility have been reported.
-
-[Ferriprox 100 mg/ml oral solution]
-
-Deferiprone must not be used by breast-feeding mothers.
-If treatment is unavoidable, breast -feeding must be stopped (see section 4.3).
