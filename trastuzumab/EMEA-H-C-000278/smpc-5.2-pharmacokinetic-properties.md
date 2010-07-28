@@ -12,18 +12,18 @@ The washout period is up to 24 weeks (95 % confidence interval, 18-24 weeks)
 
 Steady State
 Steady state pharmacokinetics should be reached by approximately 20 weeks (95 % confidence interval, 18 – 24 weeks ).
-In a population pharmacokinetic assessment of Phase I, II and III clinical trials in metastatic breast cancer, the estimated mean AUC (over a 1-week period) was 578 mg day/L and the estimated mean peak and trough concentrations were 110 mg/L and 66 mg/L, respectively.
-In patients with early breast cancer administered Herceptin at a loading dose of 8 mg/kg followed every three weeks by 6 mg/kg, steady state trough concentrations of 63 mg/L were achieved by cycle 13 (week 37).
+In a population pharmacokinetic assessment of Phase I, II and III clinical trials in metastatic breast cancer, the estimated mean AUC (over a 1-week period) was 578 mg day/l and the estimated mean peak and trough concentrations were 110 mg/l and 66 mg/l, respectively.
+In patients with early breast cancer administered Herceptin at a loading dose of 8 mg/kg followed every three weeks by 6 mg/kg, steady state trough concentrations of 63 mg/l were achieved by cycle 13 (week 37).
 The concentrations were comparable to those reported previously in patients with metastatic breast cancer.
+
 Clearance
 Clearance decreased with increased dose level.
-In clinical trials where a loading dose of 4 mg/kg trastuzumab followed by a subsequent weekly dose of 2 mg/kg was used, the mean clearance was 0.225L/day.
-
+In clinical trials where a loading dose of 4 mg/kg trastuzumab followed by a subsequent weekly dose of 2 mg/kg was used, the mean clearance was 0.225l/day.
 The effects of patient characteristics (such as age or serum creatinine) on the disposition of trastuzumab have been evaluated.
-The data suggest that the disposition of trastuzumab is not altered in any of these groups of patients (see Section 4.2), however, studies were not specifically designed to investigate the impact of renal impairment upon pharmacokinetics.
+The data suggest that the disposition of trastuzumab is not altered in any of these groups of patients (see section 4.2), however, studies were not specifically designed to investigate the impact of renal impairment upon pharmacokinetics.
 
 Volume of Distribution
-In all clinical studies, volume of distribution approximated serum volume, 2.95 L.
+In all clinical studies, volume of distribution approximated serum volume, 2.95 l.
 
 Circulating shed antigen
 Detectable concentrations of the circulating extracellular domain of the HER2 receptor (shed antigen) are found in the serum of some patients with HER2 overexpressing breast cancers.
@@ -33,9 +33,9 @@ However, with weekly dosing, most patients with elevated shed antigen levels ach
 
 Gastric Cancer
 
-Steady State Pharmacokinetics in Advanced Gastric Cancer
+Steady state pharmacokinetics in advanced gastric cancer
 A two compartment population pharmacokinetic method, using data from the Phase III study BO18255, was used to estimate the steady state pharmacokinetics in patients with advanced gastric cancer administered trastuzumab 3-weekly at a loading dose of 8 mg/kg followed by a 3-weekly maintenance dose of 6 mg/kg.
-In this assessment, the typical clearance of trastuzumab was 0.378 L/day and the typical volume of distribution in the central compartment was 3.91 L, with a corresponding median elimination half-life of 14.5 days.
-The median predicted steady-state AUC values (over a period of 3 weeks at steady state) is equal to 1030 mg•day/L, the median steady-state Cmax is equal to 128 mg/L and the median steady-state Cmin values is equal to 23 mg/L.
+In this assessment, the typical clearance of trastuzumab was 0.378 l/day and the typical volume of distribution in the central compartment was 3.91 l, with a corresponding median elimination half-life of 14.5 days.
+The median predicted steady-state AUC values (over a period of 3 weeks at steady state) is equal to 1030 mg•day/l, the median steady-state Cmax is equal to 128 mg/l and the median steady-state Cmin values is equal to 23 mg/l.
 
 There are no data on the level of circulating extracellular domain of the HER2 receptor (shed antigen) in the serum of gastric cancer patients.
