@@ -14,9 +14,9 @@ When 50 mg golimumab was administered subcutaneously to patients with RA, PsA or
 With concomitant use of MTX, treatment with 50 mg golimumab subcutaneous every 4 weeks resulted in a mean (± standard deviation) steady-state trough serum concentration of approximately 0.6 ± 0.4 μg/ml in RA patients with active RA despite MTX therapy, and approximately 0.5 ± 0.4 μg/ml in patients with active PsA and approximately 0.8 ± 0.4 μg/ml in patients with AS.
 
 Patients with RA, PsA or AS who did not receive concomitant MTX had approximately 30% lower steady-state trough concentrations of golimumab than those who received golimumab with MTX.
-Population pharmacokinetic analysis in patients with RA also indicated that concomitant use of MTX could reduce the apparent clearance of golimumab by 17.1%.
-However, concomitant use of NSAIDs, oral corticosteroids or sulfasalazine was not indicated to influence the apparent clearance of golimumab.
+In a limited number of RA patients treated with subcutaneous golimumab over a 6-month period, concomitant use of MTX reduced the apparent clearance of golimumab by approximately 36%.
+However, population pharmacokinetic analysis indicated that concomitant use of NSAIDs, oral corticosteroids or sulfasalazine did not influence the apparent clearance of golimumab.
 
-Population pharmacokinetic analyses showed there was a trend toward higher apparent clearance of golimumab with increasing weight (see section 4.2).
+There was a trend toward higher apparent clearance of golimumab with increasing weight (see section 4.2).
 
 Patients who developed anti-golimumab antibodies generally had low trough steady-state serum concentrations of golimumab (see section 5.1).

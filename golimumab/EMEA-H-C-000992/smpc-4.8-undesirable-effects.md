@@ -41,7 +41,7 @@ Cardiac disorders
 Uncommon: Congestive heart failure (new onset or worsening), arrhythmia, ischemic coronary artery disorders
 Vascular disorders
 Common: Hypertension
-Uncommon: Thrombosis (such as deep venous and aortic), Raynaud‟s phenomenon, flushing
+Uncommon: Thrombosis (such as deep venous and aortic), Raynaud’s phenomenon, flushing
 Respiratory, thoracic and mediastinal disorders
 Uncommon: Asthma and related symptoms (such as wheezing and bronchial hyperactivity)
 Rare: Interstitial lung disease

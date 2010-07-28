@@ -19,10 +19,10 @@ Tuberculosis
 There have been reports of tuberculosis in patients receiving Simponi.
 It should be noted that in the majority of these reports, tuberculosis was extrapulmonary presenting as either local or disseminated disease.
 
-Before starting treatment with Simponi, all patients must be evaluated for both active and inactive („latent‟) tuberculosis.
+Before starting treatment with Simponi, all patients must be evaluated for both active and inactive (‘latent’) tuberculosis.
 This evaluation should include a detailed medical history with personal history of tuberculosis or possible previous contact with tuberculosis and previous and/or current immunosuppressive therapy.
 Appropriate screening tests, i.e. tuberculin skin or blood test and chest X-ray, should be performed in all patients (local recommendations may apply).
-It is recommended that the conduct of these tests should be recorded in the patient‟s alert card.
+It is recommended that the conduct of these tests should be recorded in the patient’s alert card.
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 
 If active tuberculosis is diagnosed, Simponi therapy must not be initiated (see section 4.3).
@@ -30,7 +30,7 @@ If active tuberculosis is diagnosed, Simponi therapy must not be initiated (see 
 If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
 In all situations described below, the benefit/risk balance of Simponi therapy should be very carefully considered.
 
-If inactive („latent‟) tuberculosis is diagnosed, treatment for latent tuberculosis must be started with anti-tuberculosis therapy before the initiation of Simponi, and in accordance with local recommendations.
+If inactive (‘latent’) tuberculosis is diagnosed, treatment for latent tuberculosis must be started with anti-tuberculosis therapy before the initiation of Simponi, and in accordance with local recommendations.
 
 In patients who have several or significant risk factors for tuberculosis and have a negative test for latent tuberculosis, anti-tuberculosis therapy should be considered before the initiation of Simponi.
 Use of anti-tuberculosis therapy should also be considered before the initiation of Simponi in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
