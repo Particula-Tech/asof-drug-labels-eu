@@ -1,7 +1,8 @@
 # 4.2 Posology and method of administration
 
+Posology
 The dose of Januvia is 100 mg once daily.
-When Januvia is used in combination with metformin and/or a PPARγ agonist, the dosage of metformin and/or PPARγ agonist should be maintained, and Januvia administered concomitantly.
+When Januvia is used in combination with metformin and/or a PPARγ agonist, the dose of metformin and/or PPARγ agonist should be maintained, and Januvia administered concomitantly.
 
 When Januvia is used in combination with a sulphonylurea or with insulin, a lower dose of the sulphonylurea or insulin may be considered to reduce the risk of hypoglycaemia.
 (See section 4.4.)
@@ -9,24 +10,26 @@ When Januvia is used in combination with a sulphonylurea or with insulin, a lowe
 If a dose of Januvia is missed, it should be taken as soon as the patient remembers.
 A double dose should not be taken on the same day.
 
-Januvia can be taken with or without food.
+Special populations
+Renal impairment
+For patients with mild renal impairment (creatinine clearance [CrCl] ≥ 50 ml/min), no dose adjustment for Januvia is required.
 
-Patients with renal insufficiency
-For patients with mild renal insufficiency (creatinine clearance [CrCl] ≥ 50 ml/min), no dosage adjustment for Januvia is required.
-
-Clinical study experience with Januvia in patients with moderate or severe renal insufficiency is limited.
+Clinical study experience with Januvia in patients with moderate or severe renal impairment is limited.
 Therefore, use of Januvia is not recommended in this patient population (see section 5.2).
 
-Patients with hepatic insufficiency
-No dosage adjustment is necessary for patients with mild to moderate hepatic insufficiency.
-Januvia has not been studied in patients with severe hepatic insufficiency.
+Hepatic impairment
+No dose adjustment is necessary for patients with mild to moderate hepatic impairment.
+Januvia has not been studied in patients with severe hepatic impairment.
 
 Elderly
-No dosage adjustment is necessary based on age.
+No dose adjustment is necessary based on age.
 Limited safety data is available in patients ≥ 75 years of age and care should be exercised.
 
 Paediatric population
 Januvia is not recommended for use in children below 18 years of age due to a lack of data on its safety and efficacy.
+
+Method of administration
+Januvia can be taken with or without food.
 
 [Januvia 50 mg film-coated tablets]
 
@@ -34,4 +37,4 @@ Januvia is not recommended for use in children below 18 years of age due to a la
 
 [Januvia 100 mg film-coated tablets]
 
-For patients with mild renal insufficiency (creatinine clearance [CrCl] ≥50 ml/min), no dosage adjustment for Januvia is required.
+For patients with mild renal impairment (creatinine clearance [CrCl] ≥50 ml/min), no dose adjustment for Januvia is required.

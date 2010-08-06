@@ -12,34 +12,33 @@ Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100, < 1/10); 
 Table 1.
 The frequency of adverse reactions identified from placebo-controlled clinical studies
 
-| Adverse Reaction | Frequency of adverse reaction by treatment regimen |  |  |  |  |  |
+| Adverse reaction | Frequency of adverse reaction by treatment regimen |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | Sitagliptin with Metformin1 | Sitagliptin with a Sulphonylure a 2 | Sitagliptin with a Sulphonylurea and Metformin3 | Sitagliptin with a PPARγ Agent (pioglitazon e)4 | Sitaglipti n with a PPARγ Agent (rosiglitaz one) and Metformi n5 | Sitaglipti n with Insulin (+/-) Metform in)6 |
+|  | Sitagliptin with Metfo1rmin | Sitagliptin with a Sulphonylure a 2 | Sitagliptin with a Sulphonylure a and Metformin3 | Sitagliptin with a PPARγ Agent (pioglit4a zone) | Sitagliptin with a PPARγ Agent (rosiglitazone ) and Metformin5 | Sitagliptin with Insulin (+/-) Metfo6rmin) |
 | Time-point | 24-week | 24-week | 24-week | 24-week | 18-week | 24-week |
-| Investigations |  |  |  |  |  |  |
-| blood glucose decreased | Uncommon |  |  |  |  |  |
+| Infections and infestations |  |  |  |  |  |  |
+| influenza |  |  |  |  |  | Common |
+|  | Sitagliptin with Metfo1rmin | Sitagliptin with a Sulphonylure a 2 | Sitagliptin with a Sulphonylure a and Metformin3 | Sitagliptin with a PPARγ Agent (pioglit4a zone) | Sitagliptin with a PPARγ Agent (rosiglitazone ) and Metformin5 | Sitagliptin with Insulin (+/-) Metfo6rmin) |
+| Time-point | 24-week | 24-week | 24-week | 24-week | 18-week | 24-week |
+| Metabolism and nutrition disorders |  |  |  |  |  |  |
+| hypoglycaemia* |  | Common | Very common | Common | Common | Common |
 | Nervous system disorders |  |  |  |  |  |  |
 | headache |  |  |  |  | Common | Common |
 | somnolence | Uncommon |  |  |  |  |  |
-|  | Sitagliptin with Metformin1 | Sitagliptin with a Sulphonylure a 2 | Sitagliptin with a Sulphonylurea and Metformin3 | Sitagliptin with a PPARγ Agent (pioglitazon e)4 | Sitaglipti n with a PPARγ Agent (rosiglitaz one) and Metformi n5 | Sitaglipti n with Insulin (+/-) Metform in)6 |
-| Time-point | 24-week | 24-week | 24-week | 24-week | 18-week | 24-week |
 | Gastrointestinal disorders |  |  |  |  |  |  |
 | diarrhoea | Uncommon |  |  |  | Common |  |
-| dry mouth |  |  |  |  |  | Uncomm on |
+| dry mouth |  |  |  |  |  | Uncommon |
 | nausea | Common |  |  |  |  |  |
 | flatulence |  |  |  | Common |  |  |
-| constipation |  |  | Common |  |  | Uncomm on |
+| constipation |  |  | Common |  |  | Uncommon |
 | upper abdominal pain | Uncommon |  |  |  |  |  |
 | vomiting |  |  |  |  | Common |  |
-| Metabolism and nutrition disorders |  |  |  |  |  |  |
-| hypoglycaemi a* |  | Common | Very common | Common | Common | Common |
-| Infections and infestations |  |  |  |  |  |  |
-| influenza |  |  |  |  |  | Common |
-| General disorders |  |  |  |  |  |  |
-| peripheral oedema |  |  |  | Common | Common† |  |
+| General disorders and administration site conditions |  |  |  |  |  |  |
+| peripheral oedema |  |  |  | Common | Common |  |
+| Investigations |  |  |  |  |  |  |
+| blood glucose decreased | Uncommon |  |  |  |  |  |
 
 * In clinical trials of Januvia as monotherapy and sitagliptin as part of combination therapy with metformin and/or a PPARγ agent, rates of hypoglycaemia reported with sitagliptin were similar to rates in patients taking placebo.
-† Observed in the 54-week analysis.
 
 1 In this placebo-controlled 24-week study of sitagliptin 100 mg once daily in combination with metformin, the incidence of adverse reactions considered as drug-related in patients treated with sitagliptin/metformin compared to treatment with placebo/metformin was 9.3 % and 10.1 %, respectively.
 
@@ -76,60 +75,4 @@ This change in laboratory parameters is not considered to be clinically relevant
 No clinically meaningful changes in vital signs or in ECG (including in QTc interval) were observed with Januvia treatment.
 
 Post-marketing Experience:
-During post-marketing experience the following additional side effects have been reported (frequency not known): hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome (see section 4.4); pancreatitis.
-
-[Januvia 50 mg film-coated tablets]
-
-| Adverse Reaction | Frequency of adverse reaction by treatment regimen |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Sitagliptin with Metformin1 | Sitagliptin with a Sulpho2nylurea | Sitagliptin with a Sulphonylure a and Metformin3 | Sitagliptin with a PPARγ Agent (pioglitazo ne)4 | Sitagliptin with a PPARγ Agent (rosiglitazo ne) and Metformin5 | Sitaglipti n with Insulin (+/-) Metformi n)66 |
-| Time-point | 24-week | 24-week | 24-week | 24-week | 18-week | 24-week |
-| Investigations |  |  |  |  |  |  |
-| blood glucose decreased | Uncommon |  |  |  |  |  |
-| Nervous system disorders |  |  |  |  |  |  |
-| headache |  |  |  |  | Common | Common |
-| somnolence | Uncommon |  |  |  |  |  |
-|  | Sitagliptin with Metformin1 | Sitagliptin with a Sulpho2nylurea | Sitagliptin with a Sulphonylure a and Metformin3 | Sitagliptin with a PPARγ Agent (pioglitazo ne)4 | Sitagliptin with a PPARγ Agent (rosiglitazo ne) and Metformin5 | Sitaglipti n with Insulin (+/-) Metformi n)66 |
-| Time-point | 24-week | 24-week | 24-week | 24-week | 18-week | 24-week |
-| Gastrointestinal disorders |  |  |  |  |  |  |
-| diarrhoea | Uncommon |  |  |  | Common |  |
-| dry mouth |  |  |  |  |  | Uncommo n |
-| nausea | Common |  |  |  |  |  |
-| flatulence |  |  |  | Common |  |  |
-| constipation |  |  | Common |  |  | Uncommo n |
-| upper abdominal pain | Uncommon |  |  |  |  |  |
-| vomiting |  |  |  |  | Common |  |
-| Metabolism and nutrition disorders |  |  |  |  |  |  |
-| hypoglycae mia* |  | Common | Very common | Common | Common | Common |
-| Infections and infestations |  |  |  |  |  |  |
-| influenza |  |  |  |  |  | Common |
-| General disorders |  |  |  |  |  |  |
-| peripheral oedema |  |  |  | Common | Common† |  |
-
-[Januvia 100 mg film-coated tablets]
-
-| Adverse Reaction | Frequency of adverse reaction by treatment regimen |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Sitagliptin with Metfo1rmin | Sitagliptin with a Sulphonylur ea 2 | Sitagliptin with a Sulphonylu rea and Metformin3 | Sitagliptin with a PPARγ Agent (pioglitazon e)4 | Sitagliptin with a PPARγ Agent (rosiglitazo ne) and Metformin5 | Sitagliptin with Insulin (+/-) Metfo66rmin) |
-| Time-point | 24-week | 24-week | 24-week | 24-week | 18-week | 24-week |
-| Investigations |  |  |  |  |  |  |
-| blood glucose decreased | Uncommon |  |  |  |  |  |
-| Nervous system disorders |  |  |  |  |  |  |
-| headache |  |  |  |  | Common | Common |
-| somnolence | Uncommon |  |  |  |  |  |
-|  | Sitagliptin with Metfo1rmin | Sitagliptin with a Sulphonylur ea 2 | Sitagliptin with a Sulphonylu rea and Metformin3 | Sitagliptin with a PPARγ Agent (pioglitazon e)4 | Sitagliptin with a PPARγ Agent (rosiglitazo ne) and Metformin5 | Sitagliptin with Insulin (+/-) Metfo66rmin) |
-| Time-point | 24-week | 24-week | 24-week | 24-week | 18-week | 24-week |
-| Gastrointestinal disorders |  |  |  |  |  |  |
-| diarrhoea | Uncommon |  |  |  | Common |  |
-| dry mouth |  |  |  |  |  | Uncommon |
-| nausea | Common |  |  |  |  |  |
-| flatulence |  |  |  | Common |  |  |
-| constipation |  |  | Common |  |  | Uncommon |
-| upper abdominal pain | Uncommon |  |  |  |  |  |
-| vomiting |  |  |  |  | Common |  |
-| Metabolism and nutrition disorders |  |  |  |  |  |  |
-| hypoglycaemi a* |  | Common | Very common | Common | Common | Common |
-| Infections and infestations |  |  |  |  |  |  |
-| influenza |  |  |  |  |  | Common |
-| General disorders |  |  |  |  |  |  |
-| peripheral oedema |  |  |  | Common | Common† |  |
+During post-marketing experience the following additional side effects have been reported (frequency not known): hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome (see section 4.4); pancreatitis; impaired renal function, including acute renal failure (sometimes requiring dialysis).

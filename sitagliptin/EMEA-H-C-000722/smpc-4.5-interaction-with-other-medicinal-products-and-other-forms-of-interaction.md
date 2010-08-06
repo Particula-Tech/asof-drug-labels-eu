@@ -13,11 +13,11 @@ Therefore, meaningful interactions would not be expected with other p-glycoprote
 
 In vitro studies indicated that the primary enzyme responsible for the limited metabolism of sitagliptin is CYP3A4, with contribution from CYP2C8.
 In patients with normal renal function, metabolism, including via CYP3A4, plays only a small role in the clearance of sitagliptin.
-Metabolism may play a more significant role in the elimination of sitagliptin in the setting of severe renal insufficiency or ESRD.
-For this reason, it is possible that potent CYP3A4 inhibitors (i.e. ketoconazole, itraconazole, ritonavir, clarithromycin) could alter the phamacokinetics of sitagliptin in patients with severe renal insufficiency or ESRD.
-The effects of potent CYP3A4 inhibitors in the setting of renal insufficiency has not been assessed in a clinical study.
+Metabolism may play a more significant role in the elimination of sitagliptin in the setting of severe renal impairment or end-stage renal disease (ESRD).
+For this reason, it is possible that potent CYP3A4 inhibitors (i.e. ketoconazole, itraconazole, ritonavir, clarithromycin) could alter the phamacokinetics of sitagliptin in patients with severe renal impairment or ESRD.
+The effects of potent CYP3A4 inhibitors in the setting of renal impairment has not been assessed in a clinical study.
 
-In vitro transport studies showed that sitagliptin is a substrate for p-glycoprotein and OAT3.
+In vitro transport studies showed that sitagliptin is a substrate for p-glycoprotein and organic anion transporter-3 (OAT3).
 OAT3 mediated transport of sitagliptin was inhibited in vitro by probenecid, although the risk of clinically meaningful interactions is considered to be low.
 Concomitant administration of OAT3 inhibitors has not been evaluated in vivo.
 
@@ -29,5 +29,5 @@ Sitagliptin had a small effect on plasma digoxin concentrations, and may be a mi
 
 Digoxin: Sitagliptin had a small effect on plasma digoxin concentrations.
 Following administration of 0.25 mg digoxin concomitantly with 100 mg of Januvia daily for 10 days, the plasma AUC of digoxin was increased on average by 11 %, and the plasma Cmax on average by 18 %.
-No dosage adjustment of digoxin is recommended.
+No dose adjustment of digoxin is recommended.
 However, patients at risk of digoxin toxicity should be monitored for this when sitagliptin and digoxin are administered concomitantly.
