@@ -15,4 +15,4 @@ Deferiprone must not be used by breast-feeding mothers.
 If treatment is unavoidable, breast-feeding must be stopped (see section 4.3).
 
 Fertility
-No animal studies to evaluate the potential effects of deferiprone on fertility have been reported.
+No effects on fertility or early embryonic development were noted in animals (see section 5.3).

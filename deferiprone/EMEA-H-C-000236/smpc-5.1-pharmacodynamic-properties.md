@@ -8,6 +8,7 @@ The active substance is deferiprone (3-hydroxy-1,2-dimethylpyridin-4-one), a bid
 Pharmacodynamic effects
 Clinical studies have demonstrated that Ferriprox is effective in promoting iron excretion and that a dose of 25 mg/kg three times per day can prevent the progression of iron accumulation as assessed by serum ferritin, in patients with transfusion-dependent thalassaemia.
 However, chelation therapy may not necessarily protect against iron-induced organ damage.
+
 Clinical efficacy and safety
 Studies LA16-0102, LA-01 and LA08-9701 compared the efficacy of Ferriprox with that of deferoxamine in controlling serum ferritin in transfusion-dependent thalassemia patients.
 Ferriprox and deferoxamine were equivalent in promoting a net stabilization or reduction of body iron load, despite the continuous transfusional iron administration in those patients (no difference in proportion of patients with a negative trend in serum ferritin between the two treatment groups by regression analysis; p >0.05).

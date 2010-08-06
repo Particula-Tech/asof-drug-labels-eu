@@ -4,7 +4,7 @@ The most common adverse reactions reported during therapy with deferiprone in cl
 The most serious adverse reaction reported in clinical trials with deferiprone was agranulocytosis, defined as an absolute neutrophil count less than 0.5 x 109/l, which occurred in approximately 1% of patients.
 Less severe episodes of neutropenia were reported in approximately 5% of patients.
 
-Adverse reaction frequencies: Very common (≥1/10), Common (≥1/100 to <1/10), Uncommon (≥1/1,000 to <1/100).
+Adverse reaction frequencies: Very common (≥1/10), Common (≥1/100 to <1/10).
 
 | SYSTEM ORGAN CLASS | VERY COMMON (≥1/10) | COMMON (≥1/100 to <1/10) |
 | --- | --- | --- |
