@@ -20,6 +20,7 @@ Herceptin is indicated for the treatment of patients with HER2 positive early br
 Herceptin should only be used in patients with metastatic or early breast cancer whose tumours have either HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay (see sections 4.4 and 5.1).
 Metastatic Gastric Cancer (MGC)
 
-In combination with capecitabine or 5-fluorouracil and cisplatin for the treatment of patients with HER2 positive metastatic adenocarcinoma of the stomach or gastro-esophageal junction who have not received prior anti-cancer treatment for their metastatic disease.
+Herceptin in combination with capecitabine or 5-fluorouracil and cisplatin is indicated for the treatment of patients with HER2 positive metastatic adenocarcinoma of the stomach or gastro-esophageal junction who have not received prior anti-cancer treatment for their metastatic disease.
 
-Herceptin should only be used in patients with metastatic gastric cancer whose tumours have HER2 overexpression as defined by IHC2+ and a confirmatory FISH+ result, or IHC3+, as determined by an accurate and validated assay (see sections 4.4 and 5.1).
+Herceptin should only be used in patients with metastatic gastric cancer whose tumours have HER2 overexpression as defined by IHC2+ and a confirmatory SISH or FISH result, or by an IHC 3+ result.
+Accurate and validated assay methods should be used (see Sections 4.4 and 5.1).

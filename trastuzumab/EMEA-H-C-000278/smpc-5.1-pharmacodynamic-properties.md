@@ -27,7 +27,7 @@ To ensure accurate and reproducible results, the testing must be performed in a 
 
 The recommended scoring system to evaluate the IHC staining patterns is as follows:
 
-| Staining Intensity Score | Staining pattern | HER2 Overexpression AssessmentHER2 overexpression assessment |
+| Score | Staining pattern | HER2 overexpression assessment |
 | --- | --- | --- |
 | 0 | No staining is observed or membrane staining is observed in < 10 % of the tumour cells | Negative |
 | 1+ | A faint/barely perceptible membrane staining is detected in > 10 % of the tumour cells. The cells are only stained in part of their membrane. | Negative |
@@ -43,17 +43,19 @@ Official recommendations on HER2 testing may also apply.
 For any other method that may be used for the assessment of HER2 protein or gene expression, the analyses should only be performed by laboratories that provide adequate state-of-the-art performance of validated methods.
 Such methods must clearly be precise and accurate enough to demonstrate overexpression of HER2 and must be able to distinguish between moderate (congruent with 2+) and strong (congruent with 3+) overexpression of HER2.
 
-Detection of HER2 overexpression or HER2 gene amplification in gastric cancer
+Detection of HER2 over expression or HER2 gene amplification in gastric cancer
 Only an accurate and validated assay should be used to detect HER2 over expression or HER2 gene amplification.
-IHC is recommended as the first testing modality and in cases where HER2 gene amplification status is also required, an ISH technique has to be applied.
-A bright-field technology for ISH is recommended to be able to evaluate tumor histology and morphology in parallel.
+IHC is recommended as the first testing modality and in cases where HER2 gene amplification status is also required, either a silver-enhanced in situ hybridization (SISH) or a FISH technique must be applied.
+SISH technology is however, recommended to allow for the parallel evaluation of tumor histology and morphology.
 To ensure validation of testing procedures and the generation of accurate and reproducible results, HER2 testing must be performed in a laboratory staffed by trained personnel.
 Full instructions on assay performance and results interpretation should be taken from the product information leaflet provided with the HER2 testing assays used.
 
-In ToGA (BO18255) trial, patients whose tumours were either IHC3+ or FISH positive were defined as HER2 positive and thus included in the trial.
-Based on the clinical trial results, the beneficial effects were limited to patients with the highest level of HER2 protein overexpression, defined by a 3+ score by IHC, or a 2+ score by IHC and a positive ISH result.
+In the ToGA (BO18255) trial, patients whose tumours were either IHC3+ or FISH positive were defined as HER2 positive and thus included in the trial.
+Based on the clinical trial results, the beneficial effects were limited to patients with the highest level of HER2 protein overexpression, defined by a 3+ score by IHC, or a 2+ score by IHC and a positive FISH result.
 
-HER2 over expression should be detected using an immunohistochemistry (IHC)-based assessment of fixed tumour blocks; HER2 gene amplification should be detected using in situ hybridisation e.g. FISH or SISH on fixed tumour blocks.
+In a method comparison study (study D008548) a high degree of concordance (>95%) was observed for SISH and FISH techniques for the detection of HER2 gene amplification in gastric cancer patients.
+
+HER2 over expression should be detected using an immunohistochemistry (IHC)-based assessment of fixed tumour blocks; HER2 gene amplification should be detected using in situ hybridisation using either SISH or FISH on fixed tumour blocks.
 
 The recommended scoring system to evaluate the IHC staining patterns is as follows:
 
@@ -64,7 +66,7 @@ The recommended scoring system to evaluate the IHC staining patterns is as follo
 | 2+ | Weak to moderate complete, basolateral or lateral membranous reactivity in ≥ 10 % of tumour cells | Tumour cell cluster with a weak to moderate complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained | Equivocal |
 | 3+ | Strong complete, basolateral or lateral membranous reactivity in ≥ 10 % of tumour cells | Tumour cell cluster with a strong complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained | Positive |
 
-In general, FISH or SISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2.
+In general, SISH or FISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2.
 Clinical efficacy and safety
 
 MBC

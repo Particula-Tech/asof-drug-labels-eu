@@ -1,7 +1,7 @@
 # 4.2 Posology and method of administration
 
 HER2 testing is mandatory prior to initiation of therapy (see sections 4.4 and 5.1).
-Herceptin treatment should only be initiated by a physician experienced in the administration of cytotoxic chemotherapy (see section 4.4).
+Herceptin treatment should only be initiated by a physician experienced in the administraton of cytotoxic chemotherapy (see section 4.4).
 
 MBC
 
