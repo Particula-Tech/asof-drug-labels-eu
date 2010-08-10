@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-3 years.
+4 years.
 
 After dilution in intravenous solutions, TRISENOX is chemically and physically stable for 24 hours at 15-30°C and 48 hours at refrigerated (2-8°C) temperatures.
 From a microbiological point of view, the product must be used immediately.
