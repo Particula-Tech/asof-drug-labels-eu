@@ -10,17 +10,22 @@ The following serious adverse reactions were reported:
 The most common adverse reactions (> 10%) in controlled and uncontrolled portions of the psoriasis clinical studies with ustekinumab were nasopharyngitis and upper respiratory tract infection.
 Most were considered to be mild and did not necessitate discontinuation of study treatment.
 
-Table 1 provides a summary of adverse reactions from psoriasis clinical studies.
-The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common (≥ 1/100 to < 1/10), Uncommon (≥ 1/1,000 to < 1/100), Rare (≥ 1/10,000 to
-< 1/1,000), Very rare (< 1/10,000), not known (cannot be estimated from the available data).
+Table 1 provides a summary of adverse reactions from psoriasis clinical studies as well as adverse reactions reported from post-marketing experience.
+The adverse reactions are classified by System Organ Class and frequency, using the following convention: Very common (≥ 1/10), Common
+(≥ 1/100 to < 1/10), Uncommon (≥ 1/1,000 to < 1/100), Rare (≥ 1/10,000 to < 1/1,000), Very rare
+(< 1/10,000), not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
-Table 1 Summary of adverse reactions in psoriasis clinical studies
+Table 1 Summary of adverse reactions in psoriasis clinical studies and from post-marketing experience
 
 System Organ Class Frequency: Adverse reaction
 Infections and infestations Very common: Upper respiratory tract infection, nasopharyngitis
 
 Common: Cellulitis, viral upper respiratory tract infection
+
+Immune system disorders Common: Hypersensitivity reactions (including rash, urticaria)
+
+Rare: Serious allergic reactions (including anaphylaxis, angioedema)
 
 Psychiatric disorders Common: Depression
 Nervous system disorders Common: Dizziness, headache
@@ -43,6 +48,7 @@ In the placebo-controlled period of clinical studies of psoriasis patients, the 
 Serious infections occurred in 0.01 per patient-year of follow-up in ustekinumab-treated patients (5 serious infections in 407 patient-years of follow-up) and 0.02 in placebo-treated patients (3 serious infections in 177 patient-years of follow-up) (see section 4.4).
 
 In the controlled and non-controlled portions of psoriasis clinical studies, the rate of infection was 1.24 per patient-year of follow-up in ustekinumab-treated patients, and the incidence of serious infections was 0.01 per patient-year of follow-up in ustekinumab-treated patients (24 serious infections in 2,251 patient-years of follow-up) and serious infections reported included cellulitis, diverticulitis, osteomyelitis, viral infections, gastroenteritis, pneumonia, and urinary tract infections.
+
 In clinical studies, patients with latent tuberculosis who were concurrently treated with isoniazid did not develop tuberculosis.
 
 Malignancies

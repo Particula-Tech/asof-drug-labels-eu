@@ -2,7 +2,7 @@
 
 Infections
 Ustekinumab may have the potential to increase the risk of infections and reactivate latent infections.
-In clinial studies, serious bacterial, fungal, and viral infections have been observed in patients receiving STELARA (see section 4.8).
+In clinical studies, serious bacterial, fungal, and viral infections have been observed in patients receiving STELARA (see section 4.8).
 
 Caution should be exercised when considering the use of STELARA in patients with a chronic infection or a history of recurrent infection (see section 4.3 for clinically important, active infection).
 
@@ -23,11 +23,14 @@ No studies have been conducted that include patients with a history of malignanc
 Thus, caution should be exercised when considering the use of STELARA in these patients.
 
 Hypersensitivity reactions
+Serious allergic reactions have been reported in the postmarketing setting, in some cases several days after treatment.
+Anaphylaxis and angioedema have occurred.
 If an anaphylactic or other serious allergic reaction occurs, administration of STELARA should be discontinued immediately and appropriate therapy instituted (see section 4.8).
 
 Vaccinations
 It is recommended that live viral or live bacterial vaccines (such as Bacillus of Calmette and Guérin (BCG)) should not be given concurrently with STELARA.
 Specific studies have not been conducted in patients who had recently received live viral or live bacterial vaccines.
+No data are available on the secondary transmission of infection by live vaccines in patients receiving STELARA.
 Before live viral or live bacterial vaccination, treatment with STELARA should be withheld for at least 15 weeks after the last dose and can be resumed at least 2 weeks after vaccination.
 Prescribers should consult the Summary of Product Characteristics for the specific vaccine for additional information and guidance on concomitant use of immunosuppressive agents post-vaccination.
 
@@ -36,6 +39,10 @@ Patients receiving STELARA may receive concurrent inactivated or non-live vaccin
 Concomitant immunosuppressive therapy
 The safety and efficacy of STELARA in combination with other immunosuppressants, including biologics, or phototherapy have not been evaluated.
 Caution should be exercised when considering concomitant use of other immunosuppressants and STELARA or when transitioning from other immunosuppressive biologics (see section 4.5).
+
+Immunotherapy
+STELARA has not been evaluated in patients who have undergone allergy immunotherapy.
+It is not known whether STELARA may affect allergy immunotherapy.
 
 Special populations
 Elderly patients (≥ 65 years)
