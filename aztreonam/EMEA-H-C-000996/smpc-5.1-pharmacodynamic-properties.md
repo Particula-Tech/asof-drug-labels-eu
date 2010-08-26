@@ -68,4 +68,4 @@ However, due to the uncontrolled nature of the study and concomitant medications
 
 This medicinal product has been authorised under a so-called “conditional approval” scheme.
 This means that further evidence on this medicinal product is awaited.
-The European Medicines Agency (EMEA) will review new information on the product every year and this SPC will be updated as necessary.
+The European Medicines Agency will review new information on the product every year and this SmPC will be updated as necessary.
