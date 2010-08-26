@@ -15,14 +15,14 @@ Food does not affect the bioavailability of dabigatran etexilate but delays the 
 
 The oral bioavailability may be increased by 75 % compared to the reference capsule formulation when the pellets are taken without the HPMC capsule shell.
 Hence, the integrity of the HPMC capsules should always be preserved in clinical use to avoid unintentionally increased bioavailability of dabigatran etexilate.
-Therefore, patients should be advised not to open the capsules and taking the pellets alone (e.g. sprinkled over food or into beverages) (see section 4.2)
+Therefore, patients should be advised not to open the capsules and taking the pellets alone (e.g. sprinkled over food or into beverages) (see section 4.2).
 
 Distribution:
 
 Low (34-35 %) concentration independent binding of dabigatran to human plasma proteins was observed.
 The volume of distribution of dabigtran of 60 – 70 L exceeded the volume of total body water indicating moderate tissue distribution of dabigatran.
 Cmax and the area under the plasma concentration-time curve were dose proportional.
-Plasma concentrations of dabigatran showed a biexponential decline with a mean terminal half-life of 12 - 14 hours in healthy volunteers and 14 – 17 hours in patients undergoing major orthopaedic surgery.
+Plasma concentrations of dabigatran showed a biexponential decline with a mean terminal half-life of 12-14 hours in healthy volunteers and 14 – 17 hours in patients undergoing major orthopaedic surgery.
 The half-life was independent of dose.
 
 Metabolism and elimination:
@@ -30,17 +30,18 @@ Metabolism and elimination:
 Metabolism and excretion of dabigatran were studied following a single intravenous dose of radiolabeled dabigatran in healthy male subjects.
 After an intravenous dose, the dabigatran-derived radioactivity was eliminated primarily in the urine (85 %).
 Faecal excretion accounted for 6 % of the administered dose.
-Recovery of the total radioactivity ranged from 88 - 94 % of the administered dose by 168 hours post dose.
+Recovery of the total radioactivity ranged from 88-94 % of the administered dose by 168 hours post dose.
 Dabigatran is subject to conjugation forming pharmacologically active acylglucuronides.
 Four positional isomers, 1-O, 2-O, 3-O, 4-O-acylglucuronide exist, each accounts for less than 10 % of total dabigatran in plasma.
 Traces of other metabolites were only detectable with highly sensitive analytical methods.
 Dabigatran is eliminated primarily in the unchanged form in the urine, at a rate of approximately 100 ml/min corresponding to the glomerular filtration rate.
+
 Special populations:
 
 Renal insufficiency:
 The exposure (AUC) of dabigatran after the oral administration of Pradaxa is approximately 2.7 fold higher in volunteers with moderate renal insufficiency (CrCL between 30 – 50 ml/min) than in those without renal insufficiency.
 
-In a small number of volunteers with severe renal insufficiency (CrCL 10 - 30 ml/min), the exposure (AUC) to dabigatran was approximately 6 times higher and the half-life approximately 2 times longer than that observed in a population without renal insufficiency (see sections 4.2, 4.3 and 4.4).
+In a small number of volunteers with severe renal insufficiency (CrCL 10-30 ml/min), the exposure (AUC) to dabigatran was approximately 6 times higher and the half-life approximately 2 times longer than that observed in a population without renal insufficiency (see sections 4.2, 4.3 and 4.4).
 
 Elderly patients:
 Specific pharmacokinetic studies with elderly subjects showed an increase of 40 to 60 % in the AUC and of more than 25 % in Cmax compared to young subjects.

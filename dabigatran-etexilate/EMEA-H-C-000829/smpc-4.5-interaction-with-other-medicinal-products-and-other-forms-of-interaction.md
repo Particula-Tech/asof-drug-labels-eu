@@ -6,6 +6,7 @@ Anticoagulants and platelet aggregation agents:
 
 The following treatments are not recommended concomitantly with Pradaxa: unfractionated heparins and heparin derivatives, low molecular weight heparins (LMWH), fondaparinux, desirudin, thrombolytic agents, GPIIb/IIIa receptor antagonists, clopidogrel, ticlopidine, dextran, sulfinpyrazone and vitamin K antagonists.
 It should be noted that unfractionated heparin can be administered at doses necessary to maintain a patent central venous or arterial catheter (see sections 4.2 and 4.4).
+
 Interactions linked to dabigatran etexilate and dabigatran metabolic profile:
 
 Dabigatran etexilate and dabigatran are not metabolised by the cytochrome P450 system and have no in vitro effects on human cytochrome P450 enzymes.
@@ -37,22 +38,23 @@ In patient with moderate renal impairment and concomitantly treated with dabigat
 There was no meaningful interaction observed when verapamil was given 2 hours after dabigatran etexilate (increased of Cmax by about 10 % and AUC by about 20 %).
 This is explained by completed dabigatran absorption after 2 hours (see section 4.4)
 
-Clarithromycin: When clarithromycin (500 mg bid) was administered together with dabigatran etexilate in healthy volunteers, increase of AUC by about 19 % and Cmax by about 15 % was observed without any clinical safety concern.
+Clarithromycin: When clarithromycin (500 mg bid) was administered together with dabigatran etexliate in healthy voluteers, increase of AUC by about 19 % and Cmax by about 15 % was observed without any clinical safety concern.
 However, in patients receiving dabigatran, a clinically relevant interaction cannot be excluded when combined with clarithromycin.
 Therefore, a close monitoring should be exercised when dabigatran etexilate is combined with clarithromycine and particularly in the occurrence of bleeding, notably in patient having a mild to moderate renal function.
+
 P- glycoprotein inhibitors:
 Caution should be exercised with strong P- glycoprotein inhibitors.
 The P- glycoprotein inhibitor quinidine is contraindicated (see section 4.3).
 
-P- glycoprotein inducers:
-Potent P- glycoprotein inducers such as rifampicin or St John’s wort (Hypericum perforatum), may reduce the systemic exposure of dabigatran.
+P-glycoprotein inducers:
+Potent P-glycoprotein inducers such as rifampicin or St John’s wort (Hypericum perforatum), may reduce the systemic exposure of dabigatran.
 Caution is advised when co-administering these medicinal products.
 
 Digoxin: In a study performed with 24 healthy subjects, when Pradaxa was coadministered with digoxin, no changes on digoxin and no clinical relevant changes on dabigatran exposure have been observed.
 
 Gastric pH:
 
-Pantoprazole: When Pradaxa was coadministered with pantoprazole, a decrease in the dabigatran area under the plasma concentration - time curve of approximately 30 % was observed.
+Pantoprazole: When Pradaxa was coadministered with pantoprazole, a decrease in the dabigatran area under the plasma concentration-time curve of approximately 30 % was observed.
 Pantoprazole and other proton-pump inhibitors were co-administered with Pradaxa in clinical trials and no effects on bleeding or efficacy were observed.
 
 Ranitidine: Ranitidine administration together with Pradaxa had no clinically relevant effect on the extent of absorption of dabigatran.

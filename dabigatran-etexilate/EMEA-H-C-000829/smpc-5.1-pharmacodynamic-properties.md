@@ -12,12 +12,13 @@ In-vivo and ex-vivo animal studies have demonstrated antithrombotic efficacy and
 
 There is a clear correlation between plasma dabigatran concentration and degree of anticoagulant effect based on phase II studies.
 
-Steady state (after day 3) dabigatran peak plasma concentration, measured 2 - 4 hours after 220 mg dabigatran etexilate administration, is expected to be around 270 ng/ml, with an expected range of 80 - 460 ng/ml.
+Steady state (after day 3) dabigatran peak plasma concentration, measured 2-4 hours after 220 mg dabigatran etexilate administration, is expected to be around 270 ng/ml, with an expected range of 80-460 ng/ml.
 The dabigatran trough concentration, measured at the end of the dosing interval (24 hours after the last 220 mg dabigatran dose), is expected to be around 40 ng/ml, with expected range of 10-90 ng/ml.
 
 Ethnic origin:
 
 More than 99% of efficacy and safety data were generated in Caucasians.
+
 Clinical trials in Venous Thromboembolism (VTE) prophylaxis following major joint replacement surgery:
 
 In 2 large randomized, parallel group, double-blind, dose–confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
@@ -42,6 +43,7 @@ Data for the major VTE and VTE-related mortality endpoint were homogeneous with 
 Data for the total VTE and all cause mortality endpoint are shown in table 5.
 
 Data for adjudicated major bleeding endpoints are shown in tables 6 below.
+
 Table 4: Analysis of major VTE and VTE-related mortality during the treatment period in the RE-MODEL and the RE-NOVATE orthopeadic surgery studies
 
 | Trial | Dabigatran etexilate 220 mg | Dabigatran etexilate 150 mg | Enoxaparin 40 mg |
@@ -86,3 +88,7 @@ Table 6: Major bleeding events by treatment in the individual RE-MODEL and the R
 Paediatric population:
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population in prevention of thromboembolic events in the granted indication.
+
+[Pradaxa 110 mg hard capsules]
+
+Clinical trials in Venous Thromboembolism (VTE) prophylaxis following major joint replacement surgery: In 2 large randomized, parallel group, double-blind, dose–confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.

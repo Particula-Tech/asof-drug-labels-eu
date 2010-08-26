@@ -61,8 +61,8 @@ Children and adolescents:
 
 There is no experience in children and adolescents.
 Pradaxa is not recommended for use in patients below 18 years due to lack of data on safety and efficacy.
-Concomitant use of Pradaxa with amiodarone or verapamil:
 
+Concomitant use of Pradaxa with amiodarone or verapamil:
 Dosing should be reduced to 150 mg Pradaxa daily in patients who received concomitantly dabigatran etexilate and amiodarone or verapamil (see sections 4.4 and 4.5).
 
 In patients with moderate renal impairment and concomitantly treated with dabigatran etexilate and verapamil, a dose reduction of Pradaxa to 75 mg daily should be considered (see sections 4.4 and 4.5).
@@ -76,4 +76,4 @@ Switching from parenteral anticoagulants treatment to Pradaxa:
 No data are available, therefore it is not recommended to start the administration of Pradaxa before the next scheduled dose of the parenteral anticoagulant would have been due (see section 4.5).
 
 Pradaxa should be swallowed as a whole with water, with or without food.
-Patients should be instructed not to open the capsule as this may increase the risk of bleeding (see section 5.2.)
+Patients should be instructed not to open the capsule as this may increase the risk of bleeding (see section 5.2.).

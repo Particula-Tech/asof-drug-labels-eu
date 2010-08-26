@@ -8,10 +8,16 @@ ALT should be measured as part of the standard pre-operative evaluation.
 
 Haemorrhagic risk:
 
-Close clinical surveillance (looking for signs of bleeding or anaemia) is recommended throughout the treatment period, especially in the following situations that may increase the hemorrhagic risk: diseases associated with an increased risk of bleeding, such as congenital or acquired coagulation disorders, thrombocytopenia or functional platelet defects, active ulcerative gastrointestinal disease, recent biopsy or major trauma, recent intracranial haemorrhage or brain, spinal or ophthalmic surgery, bacterial endocarditis.
+The activated partial thromboplastin time (aPTT) test is widely available and provides an approximate indication of the anticoagulation intensity achieved with dabigatran.
+In patients who are bleeding or at risk of bleeding, the aPTT test may be useful to assist in determining an excess of anticoagulant activity.
+However, the aPTT test has limited sensitivity and is not suitable for precise quantification of anticoagulant effect, especially at high plasma concentrations of dabigatran.
+High aPTT values should be interpreted with caution.
+If required, more sensitive quantitative tests such as calibrated diluted Thrombin Time should be performed.
 
+Close clinical surveillance (looking for signs of bleeding or anaemia) is recommended throughout the treatment period, especially in the following situations that may increase the hemorrhagic risk: diseases associated with an increased risk of bleeding, such as congenital or acquired coagulation disorders, thrombocytopenia or functional platelet defects, active ulcerative gastrointestinal disease, recent biopsy or major trauma, recent intracranial haemorrhage or brain, spinal or ophthalmic surgery, bacterial endocarditis.
 Plasma concentrations of dabigatran might be elevated when co-administered with strong P-gp inhibitors (e.g. verapamil, amiodarone).
 This may increase the risk of bleeding and these patients should be closely clinically monitored (looking for signs of bleeding and anaemia) (see sections 4.2 and 4.5).
+
 Patients with moderate renal impairment have an increased exposure to dabigatran.
 Limited data is available in patients < 50 kg and the elderly (see sections 4.2 and 5.2).
 In these situations, Pradaxa should be used with caution and a close clinical surveillance (looking for signs of bleeding or anemia) is required throughout the treatment period (see section 4.2).
