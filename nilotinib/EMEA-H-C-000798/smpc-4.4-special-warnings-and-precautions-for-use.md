@@ -9,7 +9,7 @@ Myelosuppression was generally reversible and usually managed by withholding Tas
 QT prolongation
 Tasigna has been shown to prolong cardiac ventricular repolarisation as measured by the QT interval on the surface ECG in a concentration-dependent manner.
 
-In the Phase II study in imatinib-resistant and intolerant CML patients in chronic and accelerated phase, the change from baseline in mean time-averaged QTcF interval at steady state was 6 and 8 msec, respectively.
+In the Phase II study in imatinib-resistant and intolerant CML patients in chronic and accelerated phase, the change from baseline in mean time-averaged QTcF interval at steady state was 5 and 8 msec, respectively.
 QTcF of >500 msec was observed in <1% of these patients.
 No episodes of torsade de pointes were observed in clinical studies.
 
