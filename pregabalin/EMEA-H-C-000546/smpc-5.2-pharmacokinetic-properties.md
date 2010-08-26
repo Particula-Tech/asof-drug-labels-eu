@@ -1,6 +1,7 @@
 # 5.2 Pharmacokinetic properties
 
 Pregabalin steady-state pharmacokinetics are similar in healthy volunteers, patients with epilepsy receiving anti-epileptic drugs and patients with chronic pain.
+
 Absorption:
 
 Pregabalin is rapidly absorbed when administered in the fasted state, with peak plasma concentrations occurring within 1 hour following both single and multiple dose administration.
@@ -15,8 +16,7 @@ In preclinical studies, pregabalin has been shown to cross the blood brain barri
 Pregabalin has been shown to cross the placenta in rats and is present in the milk of lactating rats.
 In humans, the apparent volume of distribution of pregabalin following oral administration is approximately 0.56 l/kg.
 Pregabalin is not bound to plasma proteins.
-
-Metabolism:
+Biotransformation:
 
 Pregabalin undergoes negligible metabolism in humans.
 Following a dose of radiolabelled pregabalin, approximately 98% of the radioactivity recovered in the urine was unchanged pregabalin.
@@ -48,6 +48,7 @@ Renal impairment
 Pregabalin clearance is directly proportional to creatinine clearance.
 In addition, pregabalin is effectively removed from plasma by haemodialysis (following a 4 hour haemodialysis treatment plasma pregabalin concentrations are reduced by approximately 50%).
 Because renal elimination is the major elimination pathway, dose reduction in patients with renal impairment and dose supplementation following haemodialysis is necessary (see section 4.2 Table 1).
+
 Hepatic impairment
 
 No specific pharmacokinetic studies were carried out in patients with impaired liver function.
@@ -58,35 +59,3 @@ Elderly (over 65 years of age)
 Pregabalin clearance tends to decrease with increasing age.
 This decrease in pregabalin oral clearance is consistent with decreases in creatinine clearance associated with increasing age.
 Reduction of pregabalin dose may be required in patients who have age related compromised renal function (see section 4.2 Table 1).
-
-[LYRICA 50 mg hard capsules.]
-
-(all sentences already above)
-
-[LYRICA 75 mg hard capsules]
-
-(all sentences already above)
-
-[LYRICA 100 mg hard capsules.]
-
-(all sentences already above)
-
-[LYRICA 150 mg hard capsules]
-
-(all sentences already above)
-
-[LYRICA 200 mg hard capsules]
-
-(all sentences already above)
-
-[LYRICA 225 mg hard capsules]
-
-(all sentences already above)
-
-[LYRICA 300 mg hard capsules]
-
-(all sentences already above)
-
-[LYRICA 20 mg/ml oral solution]
-
-Biotransformation:

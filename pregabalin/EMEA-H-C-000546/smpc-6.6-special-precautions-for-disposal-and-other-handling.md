@@ -1,8 +1,8 @@
-# 6.6 Special precautions for disposal
+# 6.6 Special precautions for disposal and other handling
 
-No special requirements.
+No special requirements for disposal.
 
-[LYRICA 50 mg hard capsules.]
+[LYRICA 50 mg hard capsules]
 
 (all sentences already above)
 
@@ -10,7 +10,7 @@ No special requirements.
 
 (all sentences already above)
 
-[LYRICA 100 mg hard capsules.]
+[LYRICA 100 mg hard capsules]
 
 (all sentences already above)
 
@@ -31,8 +31,6 @@ No special requirements.
 (all sentences already above)
 
 [LYRICA 20 mg/ml oral solution]
-
-No special requirements for disposal.
 
 Method of Administration
 

@@ -2,17 +2,17 @@
 
 LYRICA 25 mg hard capsules
 
-[LYRICA 50 mg hard capsules.]
+[LYRICA 50 mg hard capsules]
 
-LYRICA 50 mg hard capsules.
+LYRICA 50 mg hard capsules
 
 [LYRICA 75 mg hard capsules]
 
 LYRICA 75 mg hard capsules
 
-[LYRICA 100 mg hard capsules.]
+[LYRICA 100 mg hard capsules]
 
-LYRICA 100 mg hard capsules.
+LYRICA 100 mg hard capsules
 
 [LYRICA 150 mg hard capsules]
 

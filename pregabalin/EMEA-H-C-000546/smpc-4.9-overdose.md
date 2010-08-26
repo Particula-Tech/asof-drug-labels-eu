@@ -6,7 +6,7 @@ In the post-marketing experience, the most commonly reported adverse reactions o
 
 Treatment of pregabalin overdose should include general supportive measures and may include haemodialysis if necessary (see section 4.2 Table 1).
 
-[LYRICA 50 mg hard capsules.]
+[LYRICA 50 mg hard capsules]
 
 (all sentences already above)
 
@@ -14,7 +14,7 @@ Treatment of pregabalin overdose should include general supportive measures and 
 
 (all sentences already above)
 
-[LYRICA 100 mg hard capsules.]
+[LYRICA 100 mg hard capsules]
 
 In the post-marketing experience, the most commonly reported adverse raections observed when pregabalin was taken in overdose included somnolence, confusional state, agitation, and restlessness.
 

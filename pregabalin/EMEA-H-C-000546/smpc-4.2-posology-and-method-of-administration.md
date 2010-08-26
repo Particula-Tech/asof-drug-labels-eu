@@ -1,8 +1,7 @@
 # 4.2 Posology and method of administration
 
+Posology
 The dose range is 150 to 600 mg per day given in either two or three divided doses.
-
-Lyrica may be taken with or without food.
 
 Neuropathic pain
 
@@ -26,10 +25,11 @@ The maximum dose of 600 mg per day may be achieved after an additional week.
 
 Discontinuation of pregabalin
 
-In accordance with current clinical practice, if pregabalin has to be discontinued it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see section 4.8).
+In accordance with current clinical practice, if pregabalin has to be discontinued it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see sections 4.4 and 4.8).
+
+Special populations
 
 Patients with renal impairment
-
 Pregabalin is eliminated from the systemic circulation primarily by renal excretion as unchanged drug.
 As pregabalin clearance is directly proportional to creatinine clearance (see section 5.2), dose reduction in patients with compromised renal function must be individualised according to creatinine clearance (CLcr), as indicated in Table 1 determined using the following formula:
 
@@ -60,25 +60,29 @@ BID = Two divided doses
 + Supplementary dose is a single additional dose
 
 Use in patients with hepatic impairment
-
 No dose adjustment is required for patients with hepatic impairment (see section 5.2).
-Use in children and adolescents
-
-Lyrica is not recommended for use in children below the age of 12 years and adolescents (12 - 17 years of age) due to insufficient data on safety and efficacy (see section 5.3).
+Paediatric population
+The safety and efficacy of Lyrica in children below the age of 12 years and in adolescents (12-17 years of age) have not been established.
+No data are available.
 
 Use in the elderly (over 65 years of age)
-
 Elderly patients may require a dose reduction of pregabalin due to a decreased renal function (see patients with renal impairment).
 
-[LYRICA 50 mg hard capsules.]
+Method of administration
+Lyrica may be taken with or without food.
+LYRICA is for oral use only.
 
-In accordance with current clinical practice, if pregabalin has to be discontinued, it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see section 4.8).
+[LYRICA 50 mg hard capsules]
+
+In accordance with current clinical practice, if pregabalin has to be discontinued, it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see sections 4.4 and 4.8).
+
+Lyrica may be taken with or without food/
 
 [LYRICA 75 mg hard capsules]
 
-(all sentences already above)
+Paediatric poulation
 
-[LYRICA 100 mg hard capsules.]
+[LYRICA 100 mg hard capsules]
 
 (all sentences already above)
 
@@ -100,7 +104,6 @@ The maximum dose of 600 mg per day may be achieved after an additional week (see
 
 [LYRICA 20 mg/ml oral solution]
 
-Posology
 The dose range is 150 to 600 mg (7.5 to 30 ml) per day given in either two or three divided doses.
 
 Pregabalin treatment can be started at a dose of 150 mg (7.5 ml) per day given as two or three divided doses.
@@ -115,10 +118,6 @@ The dose range is 150 to 600 mg (7.5 to 30 ml) per day given as two or three div
 Pregabalin treatment can be started with a dose of 150 mg (7.5 ml) per day.
 Following an additional week the dose may be increased to 450 mg (22.5 ml) per day.
 
-In accordance with current clinical practice, if pregabalin has to be discontinued it is recommended this should be done gradually over a minimum of 1 week independent of the indication (see sections 4.4 and 4.8).
-
-Special populations
-
 | Creatinine clearance (CLcr) (ml/min) | Total pregabalin daily dose * |  | Dose regimen |
 | --- | --- | --- | --- |
 |  | Starting dose (mg/day) | Maximum dose (mg/day) |  |
@@ -129,10 +128,5 @@ Special populations
 | Supplementary dose following haemodialysis (mg) |  |  |  |
 |  | 25 (1.25 ml) | 100 (5 ml) | Single dose+ |
 
-Lyrica is not recommended for use in children below the age of 12 years and adolescents
-(12 – 17 years of age) due to insufficient data on safety and efficacy (see section 5.3).
-
-Method of administration
-LYRICA is for oral use only.
 A graduated oral syringe and a Press-In Bottle Adapter (PIBA) are provided with the product.
 See section 6.6 for information on administration.

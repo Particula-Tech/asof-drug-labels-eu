@@ -8,6 +8,10 @@ Pregabalin was not teratogenic in mice, rats or rabbits.
 Foetal toxicity in rats and rabbits occurred only at exposures sufficiently above human exposure.
 In prenatal/postnatal toxicity studies, pregabalin induced offspring developmental toxicity in rats at exposures >2 times the maximum recommended human exposure.
 
+Adverse effects on fertility in male and female rats were only observed at exposures sufficiently in excess of therapeutic exposure.
+Adverse effects on male reproductive organs and sperm parameters were reversible and occurred only at exposures sufficiently in excess of therapeutic exposure or were associated with spontaneous degenerative processes in male reproductive organs in the rat.
+Therefore the effects were considered of little or no clinical relevance.
+
 Pregabalin is not genotoxic based on results of a battery of in vitro and in vivo tests.
 
 Two-year carcinogenicity studies with pregabalin were conducted in rats and mice.

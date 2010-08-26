@@ -4,6 +4,7 @@ Capsule content:
 Lactose monohydrate
 Maize starch
 Talc
+
 Capsule shell:
 Gelatin
 Titanium Dioxide (E171)
@@ -17,7 +18,7 @@ Black Iron Oxide (E172)
 Propylene Glycol
 Potassium Hydroxide
 
-[LYRICA 50 mg hard capsules.]
+[LYRICA 50 mg hard capsules]
 
 (all sentences already above)
 
@@ -25,7 +26,7 @@ Potassium Hydroxide
 
 Red Iron Oxide (E172)
 
-[LYRICA 100 mg hard capsules.]
+[LYRICA 100 mg hard capsules]
 
 (all sentences already above)
 

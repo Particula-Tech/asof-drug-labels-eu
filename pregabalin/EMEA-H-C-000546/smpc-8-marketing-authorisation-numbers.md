@@ -4,7 +4,7 @@ EU/1/04/279/001-005
 EU/1/04/279/026
 EU/1/04/279/036
 
-[LYRICA 50 mg hard capsules.]
+[LYRICA 50 mg hard capsules]
 
 EU/1/04/279/006-010
 EU/1/04/279/037
@@ -16,7 +16,7 @@ EU/1/04/279/027
 EU/1/04/279/030
 EU/1/04/279/038
 
-[LYRICA 100 mg hard capsules.]
+[LYRICA 100 mg hard capsules]
 
 EU/1/04/279/014-016
 EU/1/04/279/39
@@ -47,4 +47,4 @@ EU/04/279/043
 
 [LYRICA 20 mg/ml oral solution]
 
-(all sentences already above)
+EU/1/04/279/044
