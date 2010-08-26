@@ -2,7 +2,7 @@
 
 Each vial contains 350 mg daptomycin.
 
-One ml provides 50 mg of daptomycin after reconstitution with 7 ml of sodium chloride 9 mg/ml (0.9%) solution or water for injections.
+One ml provides 50 mg of daptomycin after reconstitution with 7 ml of sodium chloride 9 mg/ml (0.9%) solution.
 
 For a full list of excipients, see section 6.1.
 
@@ -10,4 +10,4 @@ For a full list of excipients, see section 6.1.
 
 Each vial contains 500 mg daptomycin.
 
-One ml provides 50 mg of daptomycin after reconstitution with 10 ml of sodium chloride 9 mg/ml (0.9%) solution or water for injections.
+One ml provides 50 mg of daptomycin after reconstitution with 10 ml of sodium chloride 9 mg/ml (0.9%) solution.

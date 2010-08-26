@@ -4,7 +4,8 @@ Daptomycin may be administered intravenously as an infusion over 30 minutes or a
 Preparation of the solution for infusion requires an additional dilution step as detailed below.
 
 Cubicin given as 30-minute intravenous infusion
-A 50 mg/ml concentration of Cubicin for infusion is obtained by reconstituting the lyophilised product with 7 ml of sodium chloride 9 mg/ml (0.9%) solution for injection, or water for injections.
+A 50 mg/ml concentration of Cubicin for infusion is obtained by reconstituting the lyophilised product with 7 ml of sodium chloride 9 mg/ml (0.9%) solution for injection.
+
 The lyophilised product takes approximately 15 minutes to dissolve.
 The fully reconstituted product will appear clear and may have a few small bubbles or foam around the edge of the vial.
 
@@ -12,7 +13,7 @@ To prepare Cubicin for intravenous infusion, please adhere to the following inst
 Aseptic technique should be used throughout to reconstitute lyophilised Cubicin.
 1.
 The polypropylene flip off cap should be removed to expose the central portions of the rubber stopper.
-Draw 7 ml of either sodium chloride 9 mg/ml (0.9%) solution for injection or water for injections into a syringe, then slowly inject through the centre of the rubber stopper into the vial pointing the needle towards the wall of the vial.
+Draw 7 ml of sodium chloride 9 mg/ml (0.9%) solution for injection into a syringe, then slowly inject through the centre of the rubber stopper into the vial pointing the needle towards the wall of the vial.
 2.
 The vial should be gently rotated to ensure complete wetting of the product and then allowed to stand for 10 minutes.
 3.
@@ -70,7 +71,6 @@ Replace needle with a new needle for the intravenous injection.
 Expel air, large bubbles, and any excess solution in order to obtain the required dose.
 8.
 The reconstituted solution should then be injected intravenously slowly over 2 minutes as directed in section 4.2.
-
 Cubicin vials are for single-use only.
 
 From a microbiological point of view, the product should be used immediately after reconstitution (see section 6.3).
@@ -79,10 +79,8 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 [Cubicin 500 mg powder for solution for injection or infusion]
 
-A 50 mg/ml concentration of Cubicin for infusion is obtained by reconstituting the lyophilised product with 10 ml of sodium chloride 9 mg/ml (0.9%) solution for injection, or water for injections.
-
-Draw 10 ml of either sodium chloride 9 mg/ml (0.9%) solution for injection or water for injections into a syringe, then slowly inject through the centre of the rubber stopper into the vial pointing the needle towards the wall of the vial.
-
-A 50 mg/ml concentration of Cubicin for injection is obtained by reconstituting the lyophilised product with 10 ml of sodium chloride 9 mg/ml (0.9%) solution for injection.
+A 50 mg/ml concentration of Cubicin for infusion is obtained by reconstituting the lyophilised product with 10 ml of sodium chloride 9 mg/ml (0.9%) solution for injection.
 
 Draw 10 ml of sodium chloride 9 mg/ml (0.9%) solution for injection into a syringe, then slowly inject through the centre of the rubber stopper into the vial pointing the needle towards the wall of the vial.
+
+A 50 mg/ml concentration of Cubicin for injection is obtained by reconstituting the lyophilised product with 10 ml of sodium chloride 9 mg/ml (0.9%) solution for injection.

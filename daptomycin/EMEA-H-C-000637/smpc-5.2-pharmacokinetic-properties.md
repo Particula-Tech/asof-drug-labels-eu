@@ -9,17 +9,21 @@ Comparable exposure (AUC and Cmax) was demonstrated in healthy subjects followin
 Animal studies showed that daptomycin is not absorbed to any significant extent after oral administration.
 
 Distribution
-The steady state volume of distribution of daptomycin was approximately 0.1 l/kg in healthy adult volunteers, consistent with distribution primarily within the extracellular space.
-Tissue distribution studies in animals have shown that daptomycin preferentially distributes into highly vascularised tissues and to a lesser degree penetrates the blood-brain barrier and the placental barrier following single and multiple doses.
+The volume of distribution at steady state of daptomycin in healthy adult subjects was approximately 0.1 l/kg and was independent of dose.
+Tissue distribution studies in rats showed that daptomycin appears to only minimally penetrate the blood-brain barrier and the placental barrier following single and multiple doses.
 
 Daptomycin is reversibly bound to human plasma proteins in a concentration independent manner.
 In healthy volunteers and patients treated with daptomycin, protein binding averaged about 90% including subjects with renal insufficiency.
-Metabolism
-In vitro studies have demonstrated that there is no or limited liver microsomal mediated metabolism of daptomycin in humans and that CYP450 involvement in daptomycin metabolism is minimal.
-Analysis of plasma samples from subjects who received a 6 mg/kg dose of daptomycin did not show any trace of metabolism, suggesting little to no systemic metabolism.
 
-Furthermore, no metabolites have been observed in plasma following administration of radiolabelled drug to humans based on total radiolabel and microbiologically active concentrations.
-Of the four minor metabolites detected in urine, two are Phase I oxidative metabolites present in low concentrations.
+Metabolism
+In in vitro studies, daptomycin was not metabolised by human liver microsomes.
+In vitro studies with human hepatocytes indicate that daptomycin does not inhibit or induce the activities of the following human cytochrome P450 isoforms: 1A2, 2A6, 2C9, 2C19, 2D6, 2E1 and 3A4.
+It is unlikely that daptomycin will inhibit or induce the metabolism of medicinal products metabolised by the P450 system.
+
+After infusion of 14C-daptomycin, the plasma radioactivity was similar to the concentration determined by microbiological assay.
+Inactive metabolites were detected in urine, as determined by the difference in total radioactive concentrations and microbiologically active concentrations.
+In a separate study, no metabolites were observed in plasma, and minor amounts of three oxidative metabolites and one unidentified compound were detected in urine.
+The site of metabolism has not been identified.
 
 Elimination
 Daptomycin is excreted primarily by the kidneys.
@@ -33,13 +37,24 @@ About 5% of the administered radiolabel was excreted in the faeces.
 Special populations
 
 Elderly
+Following administration of a single 4 mg/kg intravenous dose of Cubicin, the mean total clearance of daptomycin decreased approximately 35% and the mean AUC0-∞ increased approximately 58% in elderly subjects (≥ 75 years of age) compared with those in young healthy subjects (18 to 30 years of age).
+There were no differences in Cmax.
+The differences noted are most likely due to the normal reduction in renal function observed in the geriatric population.
+
 No dose adjustment is necessary based on age alone.
 However, renal function should be assessed and the dose should be reduced if there is evidence of severe renal insufficiency.
-
 Children and adolescents (< 18 years of age)
-Pharmacokinetic profiles were obtained following single intravenous administration of daptomycin 4 mg/kg in paediatric patients with proven or suspected Gram-positive infection, divided into three age groups (2-6 years, 7-11 years and 12-17 years).
+The pharmacokinetics of daptomycin after a single 4 mg/kg dose of Cubicin were evaluated in three groups of paediatric patients with proven or suspected Gram-positive infection (2-6 years, 7-11 years and 12-17 years).
 The pharmacokinetics of daptomycin following a single 4 mg/kg dose in adolescents aged 12-17 years are generally similar to those of healthy adult subjects with normal renal function with trends towards lower AUC and Cmax in adolescents.
-In the younger age groups (2-6 years and 7-11 years), exposure (Cmax and AUC) and elimination half-life for the same mg/kg dose were reduced compared with adolescents.
+In the younger age groups
+(2-6 years and 7-11 years), exposure (Cmax and AUC) and elimination half-life for the same mg/kg dose were reduced compared with adolescents.
+Efficacy was not assessed in this study.
+
+A separate study was conducted to evaluate the pharmacokinetics of daptomycin after a single 8 mg/kg or 10 mg/kg dose of Cubicin as either a 1 or 2 hour infusion in paediatric subjects aged 2 to 6 years, inclusive, with proven or suspected Gram-positive infection who were receiving standard antibiotic therapy.
+
+The mean exposure (AUC0-∞) was approximately 429 and 550 μg*hr/ml after the administration of 8 and 10 mg/kg single doses, respectively, similar to the exposure seen in adults at the 4 mg/kg dose at steady state (495 μg*hr/ml).
+The pharmacokinetics of daptomycin appears to be linear in the dose range studied.
+The half life, clearance and volume of distribution were similar at both dose levels.
 
 Obesity
 Relative to non-obese subjects daptomycin systemic exposure measured by AUC is increased by about 28% in moderately obese subjects (Body Mass Index of 25-40 kg/m2) and by 42% in extremely obese subjects (Body Mass Index of > 40 kg/m2).
@@ -49,9 +64,12 @@ Gender
 No clinically significant gender-related differences in daptomycin pharmacokinetics have been observed.
 
 Renal insufficiency
-Following administration of a single 4 mg/kg or 6 mg/kg dose of daptomycin to subjects with various degrees of renal insufficiency, daptomycin clearance (CL) was reduced and systemic exposure (AUC) was increased.
-In subjects with severe renal insufficiency (CLcr < 30 ml/min) and end-stage renal disease, exposure (AUC) and elimination half life were increased between 2-3-fold relative to healthy subjects.
-See section 4.2 regarding the need for dose adjustment.
+Following administration of a single 4 mg/kg or 6 mg/kg dose of daptomycin to subjects with various degrees of renal insufficiency, daptomycin clearance (CL) decreased and systemic exposure (AUC) increased as renal function (creatinine clearance) decreased.
+
+Based on pharmacokinetic data and modelling, the daptomycin AUC during the first day after administration of a 6 mg/kg dose to patients on HD or CAPD was 2-fold higher than that observed in patients with normal renal function who received the same dose.
+On the second day after administration of a 6 mg/kg dose to HD and CAPD patients the daptomcyin AUC was approximately 1.3-fold higher than that observed after a second 6 mg/kg dose in patients with normal renal function.
+On this basis, it is recommended that patients on HD or CAPD receive daptomycin once every 48 hours at the dose recommended for the type of infection being treated (see section 4.2).
+
 Hepatic insufficiency
 The pharmacokinetics of daptomycin is not altered in subjects with moderate hepatic insufficiency (Child-Pugh B classification of hepatic insufficiency) compared with healthy volunteers matched for gender, age and weight following a single 4 mg/kg dose.
 No dosage adjustment is necessary when administering daptomycin in patients with moderate hepatic insufficiency.

@@ -4,82 +4,69 @@ In clinical studies, 2,011 subjects received Cubicin.
 Within these trials, 1,221 subjects received a daily dose of 4 mg/kg, of whom 1,108 were patients and 113 were healthy volunteers; 460 subjects received a daily dose of 6 mg/kg, of whom 304 were patients and 156 were healthy volunteers.
 Adverse reactions (i.e. considered by the investigator to be possibly, probably, or definitely related to the medicinal product) were reported at similar frequencies for Cubicin and comparator regimens.
 
-For subjects who received Cubicin, the adverse reactions that were most frequently reported during therapy plus follow-up were: headache, nausea, vomiting, diarrhoea, fungal infections, rash, infusion site reaction, increased Creatine phosphokinase (CPK) and abnormal liver enzymes; Alanine aminotransferase (ALT), Aspartate aminotransferase (AST), Alkaline phosphatase.
-
 The following adverse reactions were reported during therapy and during follow-up with frequencies corresponding to common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000):
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Infections and infestations
-Common: Fungal infections
-Uncommon: Urinary tract infection
+Table 1 Adverse reactions from clinical studies and post-marketing reports
 
-Blood and lymphatic system disorders
-Uncommon: Thrombocythaemia, anaemia, eosinophilia
+System organ class Frequency Adverse reactions
 
-Metabolism and nutrition disorders
-Uncommon: Anorexia, hyperglycaemia
+Infections and infestations Common: Fungal infections, urinary tract infection, candida infection
+Uncommon: Fungaemia
+Not known*: Clostridium difficile-associated diarrhoea
+Blood and lymphatic system Common: Anaemia
 
-Psychiatric disorders
-Uncommon: Anxiety, insomnia
+disorders Uncommon: Thrombocythaemia, eosinophilia, international
 
-Nervous system disorders
-Common: Headache
-Uncommon: Dizziness, paraesthesiae, taste disorder
+normalised ratio (INR) increased
 
-Cardiac disorders
-Uncommon: Supraventricular tachycardia, extrasystole
+Rare: Prothrombin time (PT) prolonged
 
-Vascular disorders
-Uncommon: Flushes, hypertension, hypotension
+Immune system disorders Not known*: Hypersensitivity, manifested by isolated spontaneous reports including, but not limited to pulmonary eosinophilia, vesicobullous rash with mucous membrane involvement and sensation of oropharyngeal swelling
+Not known*: Anaphylaxis
+Not known*: Infusion reactions including the following symptoms: tachycardia, wheezing, pyrexia, rigors, systemic flushing, vertigo, syncope and metallic taste Metabolism and nutrition Uncommon: Decreased appetite, hyperglycaemia, electrolyte
 
-Gastrointestinal disorders
-Common: Nausea, vomiting, diarrhoea
-Uncommon: Constipation, abdominal pain, dyspepsia, glossitis
+disorders imbalance
+Psychiatric disorders Common: Anxiety, insomnia
 
-Hepatobiliary disorders
-Uncommon: Jaundice
+Nervous system disorders Common: Dizziness, headache
+Uncommon: Paraesthesia, taste disorder, tremor
+Not known*: Peripheral neuropathy
+Ear and labyrinth disorders Uncommon: Vertigo
 
-Skin and subcutaneous tissue disorders
-Common: Rash
-Uncommon: Pruritis, urticaria
+Cardiac disorders Uncommon: Supraventricular tachycardia, extrasystole
+Vascular disorders Common: Hypertension, hypotension
 
-Musculoskeletal, connective tissue and bone disorders
-Uncommon: Myositis, muscle weakness, muscle pain, arthralgia
-Renal and urinary disorders
-Uncommon: Renal insufficiency, including renal impairment and renal failure
+Uncommon: Flushes
+Gastrointestinal disorders Common: Gastrointestinal and abdominal pain, nausea, vomiting, constipation, diarrhoea, flatulence, bloating and distension
+Uncommon: Dyspepsia, glossitis
 
-Reproductive system and breast disorders
-Uncommon: Vaginitis
+Hepatobiliary disorders Common: Liver function tests abnormal1 (increased alanine
 
-General disorders and administration site conditions
-Common: Infusion site reactions
-Uncommon: Pyrexia, weakness, fatigue, pain
+aminotransferase (ALT), aspartate aminotransferase (AST) or alkaline phosphatase (ALP))
 
-Investigations
-Common: Liver function tests abnormal (increased AST, ALT and alkaline phosphatase), increased CPK
-Uncommon: Electrolyte imbalance, increased serum creatinine, increased myoglobin, Lactic dehydrogenase (LDH) increased
+Rare: Jaundice
 
+Skin and subcutaneous tissue Common: Rash, pruritus
+
+disorders Uncommon: Urticaria
+Musculoskeletal and Common: Limb pain, serum creatine phosphokinase (CPK)1
+connective tissue disorders increased
+
+Uncommon: Myositis, increased myoglobin, muscular weakness, muscle pain, arthralgia, serum lactate dehydrogenase (LDH) increased
+Not known*: Rhabdomyolysis2
+Renal and urinary disorders Uncommon: Renal insufficiency, including renal impairment and renal failure, serum creatinine increased Reproductive system and Uncommon: Vaginitis breast disorders
+
+General disorders and Common: Infusion site reactions, pyrexia, asthenia
+
+administration site conditions Uncommon: Fatigue, pain
+* Based on post-marketing reports.
+Since these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency or establish a causal relationship to exposure to the medicinal product.
+1 In some cases of myopathy involving raised CPK and muscle symptoms, the patients also presented with elevated transaminases.
+These transaminase increases were likely to be related to the skeletal muscle effects.
+The majority of transaminase elevations were of Grade 1-3 toxicity and resolved upon discontinuation of treatment.
+2 When clinical information on the patients was available to make a judgement, approximately 50% of the cases occurred in patients with pre-existing renal insufficiency, or in those receiving concomitant medicinal products known to cause rhabdomyolysis.
 The safety data for the administration of daptomycin via 2-minute intravenous injection are derived from two pharmacokinetic studies in healthy volunteers.
 Based on these study results, both methods of daptomycin administration, the 2-minute intravenous injection and the 30-minute intravenous infusion, had a similar safety and tolerability profile.
 There was no relevant difference in local tolerability or in the nature and frequency of adverse reactions.
-
-Post-marketing
-Adverse reactions that have been reported during post-marketing and that are not listed above are:
-
-Immune system disorders
-Hypersensitivity, manifested by isolated spontaneous reports including, but not limited to; pulmonary eosinophilia, vesicobullous rash with mucous membrane involvement and sensation of oropharyngeal swelling.
-Anaphylaxis
-Infusion reactions including the following symptoms: tachycardia, wheezing, pyrexia, rigors, systemic flushing, vertigo, syncope and metallic taste.
-
-Musculoskeletal, connective tissue and bone disorders
-Rhabdomyolysis
-When clinical information on the patients was available to make a judgement, approximately 50% of the cases occurred in patients with pre-existing renal insufficiency, or in those receiving concomitant medicinal products known to cause rhabdomyolysis.
-
-Nervous system disorders
-Peripheral neuropathy
-
-Investigations
-In some cases of myopathy involving raised CPK and muscle symptoms, the patients also presented with elevated transaminases.
-These transaminase increases were likely to be related to the skeletal muscle effects.
-The majority of transaminase elevations were of Grade 1-3 toxicity and resolved upon discontinuation of treatment.
