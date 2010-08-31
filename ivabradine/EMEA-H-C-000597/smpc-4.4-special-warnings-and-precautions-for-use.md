@@ -6,13 +6,13 @@ Cardiac arrhythmias
 Ivabradine is not effective in the treatment or prevention of cardiac arrhythmias and likely loses its efficacy when a tachyarrhythmia occurs (eg. ventricular or supraventricular tachycardia).
 Ivabradine is therefore not recommended in patients with atrial fibrillation or other cardiac arrhythmias that interfere with sinus node function.
 It is recommended to regularly clinically monitor ivabradine treated patients for the occurrence of atrial fibrillation (sustained or paroxysmal), which should also include ECG monitoring if clinically indicated (e.g. in case of exacerbated angina, palpitations, irregular pulse).
-
 Use in patients with AV-block of 2nd degree
 Ivabradine is not recommended in patients with AV-block of 2nd degree.
 
 Use in patients with a low heart rate
 Ivabradine must not be initiated in patients with a pre-treatment resting heart rate below 60 beats per minute (see section 4.3).
 If, during treatment, resting heart rate decreases persistently below 50 bpm or the patient experiences symptoms related to bradycardia such as dizziness, fatigue or hypotension, the dose must be titrated downward or treatment discontinued if heart rate below 50 bpm or symptoms of bradycardia persist (see section 4.2).
+
 Combination with calcium channel blockers
 Concomitant use of ivabradine with heart rate reducing calcium channel blockers such as verapamil or diltiazem is not recommended (see section 4.5).
 No safety issue has been raised on the combination of ivabradine with nitrates and dihydropyridine calcium channel blockers such as amlodipine.
@@ -44,12 +44,5 @@ However, in the absence of extensive data, non urgent DC-cardioversion should be
 Use in patients with congenital QT syndrome or treated with QT prolonging medicinal products
 The use of ivabradine in patients with congenital QT syndrome or treated with QT prolonging medicinal products should be avoided (see section 4.5).
 If the combination appears necessary, close cardiac monitoring is needed.
-
-Use in patients with moderate hepatic insufficiency
-Caution should be exercised when using ivabradine in patients with moderate hepatic insufficiency (see section 4.2).
-
-Use in patients with severe renal insufficiency
-Caution should be exercised when using ivabradine in patients with severe renal insufficiency (creatinine clearance < 15 ml/min) (see section 4.2).
-
 Excipients
 Since tablets contain lactose, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

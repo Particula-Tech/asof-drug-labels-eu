@@ -5,7 +5,7 @@ Pharmacodynamic interactions
 Concomitant use not recommended
 QT prolonging medicinal products
 - Cardiovascular QT prolonging medicinal products (e.g. quinidine, disopyramide, bepridil, sotalol, ibutilide, amiodarone).
-- Non cardiovascular QT prolonging medicinal products (e.g. pimozide, ziprasidone, sertindole, mefloquine, halofantrine, pentamidine, cisapride, erythromycin IV).
+- Non cardiovascular QT prolonging medicinal products (e.g. pimozide, ziprasidone, sertindole, mefloquine, halofantrine, pentamidine, cisapride, intravenous erythromycin).
 The concomitant use of cardiovascular and non cardiovascular QT prolonging medicinal products with ivabradine should be avoided since QT prolongation may be exacerbated by heart rate reduction.
 If the combination appears necessary, close cardiac monitoring is needed (see section 4.4).
 
@@ -38,4 +38,7 @@ The intake of St John’s Wort should be restricted during the treatment with iv
 Other concomitant use
 Specific drug-drug interaction studies have shown no clinically significant effect of the following medicinal products on pharmacokinetics and pharmacodynamics of ivabradine: proton pump inhibitors (omeprazole, lansoprazole), sildenafil, HMG CoA reductase inhibitors (simvastatin), dihydropyridine calcium channel blockers (amlodipine, lacidipine), digoxin and warfarin.
 In addition there was no clinically significant effect of ivabradine on the pharmacokinetics of simvastatin, amlodipine, lacidipine, on the pharmacokinetics and pharmacodynamics of digoxin, warfarin and on the pharmacodynamics of aspirin.
-In pivotal phase III clinical trials the following medicinal products were not restricted and therefore were routinely combined with ivabradine with no evidence of safety concerns: angiotensin converting enzyme inhibitors, angiotensin II antagonists, diuretics, short and long acting nitrates, HMG CoA reductase inhibitors, fibrates, proton pump inhibitors, oral antidiabetics, aspirin and other anti-platelet agents.
+In pivotal phase III clinical trials the following medicinal products were not restricted and therefore were routinely combined with ivabradine with no evidence of safety concerns: angiotensin converting enzyme inhibitors, angiotensin II antagonists, diuretics, short and long acting nitrates, HMG CoA reductase inhibitors, fibrates, proton pump inhibitors, oral antidiabetics, aspirin and other anti-platelet medicinal products.
+
+Paediatric population
+Interaction studies have only been performed in adults.

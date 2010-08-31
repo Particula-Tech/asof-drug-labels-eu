@@ -27,7 +27,6 @@ Ivabradine is eliminated with a main half-life of 2 hours (70-75% of the AUC) in
 The total clearance is about 400 ml/min and the renal clearance is about 70 ml/min.
 Excretion of metabolites occurs to a similar extent via faeces and urine.
 About 4% of an oral dose is excreted unchanged in urine.
-
 Linearity/non linearity
 The kinetics of ivabradine is linear over an oral dose range of 0.5 – 24 mg.
 

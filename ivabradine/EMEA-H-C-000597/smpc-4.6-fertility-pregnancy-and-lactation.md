@@ -1,9 +1,15 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
-There are no adequate data concerning the use of ivabradine in pregnant women.
-Animal reproduction studies have shown embryotoxic and teratogenic effects (see section 5.3).
+Pregnancy
+There are no or limited amount of data from the use of ivabradine in pregnant women.
+Studies in animals have shown reproductive toxicity.
+These studies have shown embryotoxic and teratogenic effects (see section 5.3).
 The potential risk for humans is unknown.
-Therefore, ivabradine is contra-indicated during pregnancy.
+Therefore, ivabradine is contra-indicated during pregnancy (see section 4.3).
 
+Breastfeeding
 Animal studies indicate that ivabradine is excreted in milk.
-Therefore, ivabradine is contra-indicated in breast-feeding women.
+Therefore, ivabradine is contra-indicated during breast-feeding (see section 4.3).
+
+Fertility
+Studies in rats have shown no effect on fertility in males and females (see section 5.3).
