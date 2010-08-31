@@ -33,7 +33,7 @@ Caution should be used when co-administering ISENTRESS with strong inducers of u
 Rifampicin reduces plasma levels of raltegravir; the impact on the efficacy of raltegravir is unknown.
 However, if co-administration with rifampicin is unavoidable, a doubling of the dose of ISENTRESS can be considered (see section 4.5).
 
-Myopathy and rhabdomyolysis have been reported; however, the relationship of ISENTRESS to these events is not known.
+Myopathy and rhabdomyolysis have been reported.
 Use with caution in patients who have had myopathy or rhabdomyolysis in the past or have any predisposing issues including other medicinal products associated with these conditions (see section 4.8).
 
 Rash occurred more commonly in treatment-experienced patients receiving regimens containing ISENTRESS + darunavir compared to patients receiving ISENTRESS without darunavir or darunavir without ISENTRESS (see section 4.8).

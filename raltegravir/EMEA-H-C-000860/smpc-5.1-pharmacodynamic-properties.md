@@ -7,6 +7,7 @@ Raltegravir is an integrase strand transfer inhibitor active against the Human I
 Raltegravir inhibits the catalytic activity of integrase, an HIV-encoded enzyme that is required for viral replication.
 Inhibition of integrase prevents the covalent insertion, or integration, of the HIV genome into the host cell genome.
 HIV genomes that fail to integrate cannot direct the production of new infectious viral particles, so inhibiting integration prevents propagation of the viral infection.
+
 Antiviral activity in vitro
 Raltegravir at concentrations of 31 ± 20 nM resulted in 95 % inhibition (IC95) of HIV-1 replication (relative to an untreated virus-infected culture) in human T-lymphoid cell cultures infected with the cell-line adapted HIV-1 variant H9IIIB.
 In addition, raltegravir inhibited viral replication in cultures of mitogen-activated human peripheral blood mononuclear cells infected with diverse, primary clinical isolates of HIV-1, including isolates from 5 non-B subtypes, and isolates resistant to reverse transcriptase inhibitors and protease inhibitors.
@@ -41,37 +42,12 @@ Table 2.
 Table 2
 Efficacy Outcome at Weeks 48 and 96
 
-BENCHMRK 1 and 2 Pooled 48 Weeks 96 Weeks
-
-ISENTRESS Placebo + OBT ISENTRESS Placebo +
-
-Parameter 400 mg twice (N = 237) 400 mg twice OBT
-daily + OBT daily + OBT (N = 237)
-(N = 462) (N = 462)
-
-Percent HIV-RNA < 400 copies/ml (95 %
-CI)
-
-All patients† 72 (68, 76) 37 (31, 44) 62 (57, 66) 28 (23, 34)
-
-Baseline Characteristic‡
-
-HIV-RNA > 100,000 copies/ml 62 (53, 69) 17 (9, 27) 53 (45, 61) 15 (8, 25)
-≤ 100,000 copies/ml 82 (77, 86) 49 (41, 58) 74 (69, 79) 39 (31, 47)
-CD4-count ≤ 50 cells/mm3 61 (53, 69) 21 (13, 32) 51 (42, 60) 14 (7, 24)
-> 50 and 80 (73, 85) 44 (33, 55) 70 (62, 77) 36 (25, 48)
-
-≤ 200 cells/mm3
-
-> 200 cells/mm3 83 (76, 89) 51 (39, 63) 78 (70, 85) 42 (30, 55)
-
-Sensitivity score (GSS) §
-
-0 52 (42, 61) 8 (3, 17) 46 (36, 56) 5 (1, 13)
-
-1 81 (75, 87) 40 (30, 51) 76 (69, 83) 31 (22, 42)
-
-2 and above 84 (77, 89) 65 (52, 76) 71 (63, 78) 56 (43, 69)
+| BENCHMRK 1 and 2 Pooled Parameter | 48 Weeks ISENTRESS Placebo + 400 mg twice O daily + OBT B (N = 462) T (N = 237) | 96 Weeks ISENTRESS Placebo + OBT 400 mg (N = 237) twice daily + OBT (N = 462) |
+| --- | --- | --- |
+| Percent HIV-RNA < 400 copies/ml (95 % CI) All patients† Baseline Characteristic‡ HIV-RNA > 100,000 copies/ml ≤ 100,000 copies/ml CD4-count ≤ 50 cells/mm3 > 50 and ≤ 200 cells/mm3 > 200 cells/mm3 Sensitivity score (GSS) § 0 1 2 and above | 72 (68, 76) 37 (31, 44) | 62 (57, 66) 28 (23, 34) |
+|  | 62 (53, 69) 17 (9, 27) 82 (77, 86) 49 (41, 58) 61 (53, 69) 21 (13, 32) 80 (73, 85) 44 (33, 55) | 53 (45, 61) 15 (8, 25) 74 (69, 79) 39 (31, 47) 51 (42, 60) 14 (7, 24) 70 (62, 77) 36 (25, 48) |
+|  | 83 (76, 89) 51 (39, 63) | 78 (70, 85) 42 (30, 55) |
+|  | 52 (42, 61) 8 (3, 17) 81 (75, 87) 40 (30, 51) 84 (77, 89) 65 (52, 76) | 46 (36, 56) 5 (1, 13) 76 (69, 83) 31 (22, 42) 71 (63, 78) 56 (43, 69) |
 
 Percent HIV-RNA < 50 copies/ml (95 %
 CI)
@@ -79,9 +55,18 @@ CI)
 All patients† 62 (57, 67) 33 (27, 39) 57 (52, 62) 26 (21, 32)
 
 Baseline Characteristic‡
+HIV-RNA > 100,000 copies/ml 48 (40, 56) 16 (8, 26) 47 (39, 55) 13 (7, 23) ≤ 100,000 copies/ml 73 (68, 78) 43 (35, 52) 70 (64, 75) 36 (28, 45)
 
-HIV-RNA > 100,000 copies/ml 48 (40, 56) 16 (8, 26) 47 (39, 55) 13 (7, 23)
-≤ 100,000 copies/ml 73 (68, 78) 43 (35, 52) 70 (64, 75) 36 (28, 45)
+BENCHMRK 1 and 2 Pooled 48 Weeks 96 Weeks
+
+ISENTRESS Placebo + ISENTRESS Placebo + OBT
+
+Parameter 400 mg twice O 400 mg (N = 237)
+daily + OBT B twice daily +
+(N = 462) T OBT
+
+(N = 237) (N = 462)
+
 CD4-count ≤ 50 cells/mm3 50 (41, 58) 20 (12, 31) 50 (41, 58) 13 (6, 22)
 > 50 and 67 (59, 74) 39 (28, 50) 65 (57, 72) 32 (22, 44)
 
@@ -90,9 +75,8 @@ CD4-count ≤ 50 cells/mm3 50 (41, 58) 20 (12, 31) 50 (41, 58) 13 (6, 22)
 > 200 cells/mm3 76 (68, 83) 44 (32, 56) 71 (62, 78) 41 (29, 53)
 
 Sensitivity score (GSS) §
+0 45 (35, 54) 3 (0, 11) 41 (32, 51) 5 (1, 13) 1 67 (59, 74) 37 (27, 48) 72 (64, 79) 28 (19, 39)
 
-0 45 (35, 54) 3 (0, 11) 41 (32, 51) 5 (1, 13)
-1 67 (59, 74) 37 (27, 48) 72 (64, 79) 28 (19, 39)
 2 and above 75 (68, 82) 59 (46, 71) 65 (56, 72) 53 (40, 66)
 
 Mean CD4 Cell Change (95 % CI), cells/mm3
@@ -101,16 +85,14 @@ All patients‡ 109 ( 98, 121) 45 ( 32, 57) 123 (110, 49 (35, 63)
 
 137)
 Baseline Characteristic‡
+HIV-RNA > 100,000 copies/ml 126 ( 107, 36 ( 17, 55) 140 (115, 40 (16, 65)
 
-HIV-RNA > 100,000 copies/ml 126 ( 107, 144) 36 ( 17, 55) 140 (115, 40 (16, 65)
-
-165)
+144) 165)
 
 ≤ 100,000 copies/ml 100 ( 86, 115) 49 ( 33, 65) 114 (98, 131) 53 (36, 70)
-CD4-count ≤ 50 cells/mm3 121 ( 100, 142) 33 ( 18, 48) 130 (104, 42 (17, 67)
 
-156)
-
+CD4-count ≤ 50 cells/mm3 121 ( 100, 33 ( 18, 48) 130 (104, 42 (17, 67)
+142) 156)
 > 50 and 104 ( 88, 119) 47 ( 28, 66) 123 (103, 56 (34, 79)
 ≤ 200 cells/mm3 144)
 > 200 cells/mm3 104 ( 80, 129) 54 ( 24, 84) 117 (90, 143) 48 (23, 73)
@@ -118,9 +100,8 @@ CD4-count ≤ 50 cells/mm3 121 ( 100, 142) 33 ( 18, 48) 130 (104, 42 (17, 67)
 Sensitivity score (GSS) §
 0 81 ( 55, 106) 11 ( 4, 26) 97 (70, 124) 15 (-0, 31) 1 113 ( 96, 130) 44 ( 24, 63) 132 (111, 45 (24, 66) 154)
 
-2 and above 125 ( 105, 144) 76 ( 48, 103) 134 (108, 90 (57, 123)
-
-159)
+2 and above 125 ( 105, 76 ( 48, 103) 134 (108, 90 (57, 123)
+144) 159)
 
 † Non-completer is failure imputation: patients who discontinued prematurely are imputed as failure thereafter.
 Percent of patients with response and associated 95 % confidence interval (CI) are reported.
@@ -164,17 +145,11 @@ Efficacy Outcome at Weeks 48 and 96
 | Percent HIV-RNA < 50 copies/ml (95 % CI) All patients† Baseline Characteristic‡ HIV-RNA > 100,000 copies/ml ≤ 100,000 copies/ml CD4-count ≤ 50 cells/mm3 > 50 and ≤ 200 cells/mm3 > 200 cells/mm3 Viral Subtype Clade B Non-Clade B | 86 (81, 90) 82 (77, 86) | 81 (76, 86) 79 (73, 83) |
 |  | 91 (85, 95) 89 (83, 94) 93 (86, 97) 89 (82, 94) 84 (64, 95) 86 (67, 96) 89 (81, 95) 86 (77, 92) | 89 (83, 94) 90 (84, 95) 91 (84, 96) 89 (82, 94) 80 (59, 93) 86 (68, 96) 89 (81, 95) 86 (77, 92) |
 |  | 94 (89, 98) 92 (87, 96) 90 (85, 94) 89 (83, 93) 96 (87, 100) 91 (78, 97) | 93 (87, 96) 93 (87, 97) 89 (83, 93) 90 (84, 93) 95 (85, 99) 88 (75, 96) |
-| Mean CD4 Cell Change (95 % CI), cells/mm3 |  |  |
+
+Mean CD4 Cell Change (95 % CI), cells/mm3
 
 All patients‡ 189 (174, 163 (148, 240 (220, 259) 225 (206, 244)
 204) 178)
-STARTMRK Study 48 Weeks 96 Weeks
-
-ISENTRESS Efavirenz ISENTRESS Efavirenz
-
-Parameter 400 mg twice 600 mg 400 mg twice 600 mg
-daily at bedtime daily at bedtime
-(N = 281) (N = 282) (N = 281) (N = 282)
 
 Baseline Characteristic‡
 HIV-RNA > 100,000 copies/ml 196 (174, 192 (169, 253 (224, 282) 257 (229, 286)
@@ -190,6 +165,13 @@ CD4-count ≤ 50 cells/mm3 170 (122, 152 (123, 222 (164, 280) 223 (178, 269)
 ≤ 200 cells/mm3 217) 198)
 > 200 cells/mm3 190 (168, 157 (134, 229 (200, 258) 219 (192, 247)
 212) 181)
+STARTMRK Study 48 Weeks 96 Weeks
+
+ISENTRESS Efavirenz ISENTRESS Efavirenz
+
+Parameter 400 mg twice 600 mg 400 mg twice 600 mg
+daily at bedtime daily at bedtime
+(N = 281) (N = 282) (N = 281) (N = 282)
 Viral Subtype Clade B 187 (170, 164 (147, 243 (220, 266) 227 (206, 248)
 204) 181)
 Non-Clade B 189 (153, 156 (121, 221 (182, 261) 220 (169, 271)

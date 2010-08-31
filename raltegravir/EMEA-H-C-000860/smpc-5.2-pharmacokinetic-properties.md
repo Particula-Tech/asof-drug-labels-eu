@@ -20,6 +20,7 @@ Food appears to increase pharmacokinetic variability relative to fasting.
 Overall, considerable variability was observed in the pharmacokinetics of raltegravir.
 For observed C12 hr in BENCHMRK 1 and 2 the coefficient of variation (CV) for inter-subject variability = 212 % and the CV for intra-subject variability = 122 %.
 Sources of variability may include differences in co-administration with food and concomitant medications.
+
 Distribution
 Raltegravir is approximately 83 % bound to human plasma protein over the concentration range of 2 to 10 µM.
 Raltegravir readily crossed the placenta in rats, but did not penetrate the brain to any appreciable extent.

@@ -21,11 +21,12 @@ Frequencies are defined as common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 t
 | Infections and infestations | uncommon | genital herpes†, folliculitis, gastroenteritis, herpes simplex, herpes virus infection, herpes zoster, influenza, molluscum contagiosum, nasopharyngitis, upper respiratory tract infection |
 | Neoplasms benign, malignant and unspecified (including cysts and polyps) | uncommon | skin papilloma |
 | Blood and lymphatic system disorders | uncommon | anaemia†, iron deficiency anaemia, lymph node pain, lymphadenopathy, neutropenia |
+|  | uncommon | thrombocytopenia‡‡ |
 | Immune system disorders | uncommon | immune reconstitution syndrome†, drug hypersensitivity, hypersensitivity |
 | Metabolism and nutrition disorders | uncommon | anorexia, cachexia, decreased appetite, diabetes mellitus, dyslipidaemia, hypercholesterolaemia, hyperglycaemia, hyperlipidaemia, hyperphagia, increased appetite, polydipsia |
-| Psychiatric disorders | common | abnormal dreams, insomnia |
+| Psychiatric disorders | Common | abnormal dreams, insomnia |
 |  | uncommon | mental disorder†, suicide attempt†, anxiety, confusional state, depressed mood, depression, major depression, middle insomnia, mood altered, nightmare, panic attack, sleep disorder |
-|  | not known | suicidal ideation, suicidal behaviour (particularly in patients with a pre-existing history of psychiatric illness) |
+|  | uncommon | suicidal ideation ‡‡, suicidal behaviour (particularly in patients with a pre-existing history of psychiatric illness) ‡‡ |
 | Nervous system disorders | common | dizziness, headache |
 |  | uncommon | amnesia, carpal tunnel syndrome, cognitive disorder, disturbance in attention, dizziness postural, dysgeusia, hypersomnia, hypoaesthesia, lethargy, memory impairment, migraine, neuropathy peripheral, paraesthesia, somnolence, tension headache, tremor |
 | Eye disorders | uncommon | visual impairment |
@@ -39,23 +40,26 @@ Frequencies are defined as common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 t
 | Hepato-biliary disorders | uncommon | hepatitis†, hepatic steatosis |
 | Skin and subcutaneous tissue disorders | common | rash‡ |
 |  | uncommon | acne, alopecia, dermatitis acneiforme, dry skin, erythema, facial wasting, hyperhidrosis, lipodystrophy acquired, lipohypertrophy, night sweats, prurigo, pruritus, pruritus generalised, rash macular, rash maculo-papular, rash pruritic, skin lesion, urticaria, xeroderma |
-|  | not known | Stevens Johnson syndrome |
-| Musculoskeletal and connective tissue disorders | uncommon | arthralgia, arthritis, back pain, flank pain, musculoskeletal pain, myalgia, neck pain, osteopenia, pain in extremity, tendonitis |
+|  | uncommon | Stevens Johnson syndrome‡‡ |
+| Musculoskeletal and connective tissue disorders | uncommon uncommon | arthralgia, arthritis, back pain, flank pain, musculoskeletal pain, myalgia, neck pain, osteopenia, pain in extremity, tendonitis rhabdomyolysis‡‡ |
 | Renal and urinary disorders | uncommon | renal failure†, nephritis, nephrolithiasis, nocturia, renal cyst, renal impairment, tubulointerstitial nephritis |
 | Reproductive system and breast disorders | uncommon | erectile dysfunction, gynaecomastia, menopausal symptoms |
 | General disorders and administration site conditions | common | asthenia, fatigue, pyrexia |
 |  | uncommon | chest discomfort, chills, face oedema, fat tissue increased, feeling jittery, malaise, oedema peripheral, pain |
+
+| System Organ Class | Frequency | Adverse reactions ISENTRESS (alone or in combination with other ART) |
+| --- | --- | --- |
 | Investigations | common | alanine aminotransferase increased, atypical lymphocytes, aspartate aminotransferase increased, blood triglycerides increased, lipase increased |
 |  | uncommon | absolute neutrophil count decreased, alkaline phosphatase increased, blood albumin decreased, blood amylase increased, blood bilirubin increased, blood cholesterol increased, blood creatinine increased, blood glucose increased, blood urea nitrogen increased, creatine phosphokinase increased, fasting blood glucose increased, glucose urine present, high density lipoprotein increased, low density lipoprotein decreased, low density lipoprotein increased, platelet count decreased, red blood cells urine positive, waist circumference increased, weight increased, white blood cell count decreased |
 | Injury, poisoning and procedural complications | uncommon | accidental overdose† |
-| † includes at least one serious adverse reaction ‡ In clinical studies of treatment-experienced patients, rash, irrespective of causality, was more commonly observed with regimens containing ISENTRESS + darunavir compared to those containing ISENTRESS without darunavir or darunavir without ISENTRESS. Rash considered by the investigator to be drug-related occurred at similar rates. The exposure-adjusted rates of rash (all causality) were 10.9, 4.2, and 3.8 per 100 patient-years (PYR), respectively; and for drug-related rash were 2.4, 1.1, and 2.3 per 100 PYR, respectively. The rashes observed in clinical studies were mild to moderate in severity and did not result in discontinuation of therapy (see section 4.4). |  |  |
+| † includes at least one serious adverse reaction ‡ In clinical studies of treatment-experienced patients, rash, irrespective of causality, was more commonly observed with regimens containing ISENTRESS + darunavir compared to those containing ISENTRESS without darunavir or darunavir without ISENTRESS. Rash considered by the investigator to be drug-related occurred at similar rates. The exposure-adjusted rates of rash (all causality) were 10.9, 4.2, and 3.8 per 100 patient-years (PYR), respectively; and for drug-related rash were 2.4, 1.1, and 2.3 per 100 PYR, respectively. The rashes observed in clinical studies were mild to moderate in severity and did not result in discontinuation of therapy (see section 4.4). ‡‡ This adverse reaction was identified through post-marketing surveillance but not reported as drug-related in randomised controlled Phase III clinical trials (Protocols 018, 019, and 021). The frequency category of "uncommon" was defined per the Summary of Product Characteristics (SmPC) guidance (rev. 2, Sept 2009) on the basis of an estimated upper bound of the 95% confidence interval for 0 events given the number of subjects treated with ISENTRESS in the Phase III clinical program (n=743). |  |  |
 
 Cancers were reported in treatment-experienced and treatment-naïve patients who initiated ISENTRESS in conjunction with other antiretroviral agents.
 The types and rates of specific cancers were those expected in a highly immunodeficient population.
 The risk of developing cancer in these studies was similar in the groups receiving ISENTRESS and in the groups receiving comparators.
 
 Grade 2-4 creatine kinase laboratory abnormalities were observed in subjects treated with ISENTRESS.
-Myopathy and rhabdomyolysis have been reported; however, the relationship of ISENTRESS to these events is not known.
+Myopathy and rhabdomyolysis have been reported.
 Use with caution in patients who have had myopathy or rhabdomyolysis in the past or have any predisposing issues including other medicinal products associated with these conditions (see section 4.4).
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
