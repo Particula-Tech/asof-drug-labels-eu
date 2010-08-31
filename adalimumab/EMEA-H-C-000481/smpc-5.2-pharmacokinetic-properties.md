@@ -8,6 +8,7 @@ Adalimumab concentrations in the synovial fluid from several rheumatoid arthriti
 
 Following subcutaneous administration of 40 mg of Humira every other week in adult rheumatoid arthritis (RA) patients the mean steady-state trough concentrations were approximately 5 μg/ml (without concomitant methotrexate) and 8 to 9 μg/ml (with concomitant methotrexate), respectively.
 The serum adalimumab trough levels at steady-state increased roughly proportionally with dose following 20, 40 and 80 mg subcutaneous dosing every other week and every week.
+
 Following the administration of 24 mg/m2 (up to a maximum of 40 mg) subcutaneously every other week to patients with polyarticular juvenile idiopathic arthritis (JIA) the mean trough steady-state (values measured from Week 20 to 48) serum adalimumab concentration was 5.6 ± 5.6 µg/mL (102 %CV) Humira monotherapy and 10.9 ± 5.2 µg/mL (47.7% CV) with concomitant methotrexate.
 
 In patients with Crohn’s disease, the loading dose of 80 mg Humira on Week 0 followed by 40 mg Humira on Week 2 achieves serum adalimumab trough concentrations of approximately 5.5 μg/ml during the induction period.

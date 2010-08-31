@@ -16,7 +16,7 @@ Physicians should exercise caution when considering the use of Humira in patient
 
 Serious infections:
 
-Serious infections, , including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
+Serious infections, including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
 
 Other serious infections seen in clinical trials include pneumonia, pyelonephritis, septic arthritis and septicaemia.
 Hospitalisation or fatal outcomes associated with infections have been reported.
@@ -166,14 +166,12 @@ Particular attention regarding the risk for infection should be paid when treati
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis aptients with long-standing highly active, inflammatory disease, which omplcated the risk estimation.
+There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing highly active, inflammatory disease, which complicatesthe risk estimation.
 With the current knowledge, a possible risk for the development of lymphomas, leukemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
 
 All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.In an exploratory clinical trial evaluating the use of another anti-TNF agent, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
-
-Patients who develop a new infection while undergoing treatment with Humira should be monitored closely and undergo a complete diagnostic evaluation.
 
 Serious infections including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
 
@@ -182,8 +180,6 @@ These infections have not consistently been recognised in patients taking TNF-bl
 There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing, highly active, inflammatory disease, which complicates the risk estimation.
 
 [Humira 40 mg solution for injection in pre-filled pen]
-
-Serious infections, including sepsis, due to bacterial, mycobacterial, invasive fungal, parasitic, viral, or other opportunistic infections such as listeriosis, and pneumocystis have been reported in patients receiving Humira.
 
 These infections have not consistently been recognised in patient taking TNF-blockers and this has resulted in delays in appropriate treatment, sometimes resulting in fatal outcomes.
 

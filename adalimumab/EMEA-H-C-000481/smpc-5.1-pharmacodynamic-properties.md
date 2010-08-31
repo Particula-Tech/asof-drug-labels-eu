@@ -190,8 +190,8 @@ Amongst those who responded at Week 16 (n=144), the Pediatric ACR 30/50/70/90 re
 
 Overall responses were generally better and, fewer patients developed antibodies when treated with the combination of Humira and MTX compared to Humira alone.
 Taking these results into consideration, Humira is recommended for use in combination with MTX and for use as monotherapy in patients for whom MTX use is not appropriate (see section 4.2).
-
 Psoriatic arthritis
+
 Humira, 40 mg every other week, was studied in patients with moderately to severely active psoriatic arthritis in two placebo-controlled studies, PsA studies I and II.
 PsA study I with 24 week duration, treated 313 adult patients who had an inadequate response to non-steroidal anti-inflammatory drug therapy and of these, approximately 50% were taking methotrexate.
 PsA study II with 12- week duration, treated 100 patients who had an inadequate response to DMARD therapy.
@@ -226,7 +226,6 @@ In subjects treated with Humira with no radiographic progression from baseline t
 
 Humira treated patients demonstrated statistically significant improvement in physical function as assessed by HAQ and Short Form Health Survey (SF 36) compared to placebo at Week 24.
 Improved physical function continued during the open label extension up to Week 136.
-
 Ankylosing spondylitis
 
 Humira 40 mg every other week was assessed in 393 patients in two randomised, 24 week double − blind, placebo − controlled studies in patients with active ankylosing spondylitis (mean baseline score of disease activity [Bath Ankylosing Spondylitis Disease Activity Index (BASDAI)] was 6.3 in all groups) who have had an inadequate response to conventional therapy.
@@ -264,12 +263,12 @@ Reduction of Signs and Symptoms
 Humira treated patients had significantly greater improvement at Week 12 which was maintained through Week 24 in both the SF36 and Ankylosing Spondylitis Quality of Life Questionnaire (ASQoL).
 
 Similar trends (not all statistically significant) were seen in the smaller randomised, double − blind, placebo controlled AS study II of 82 adult patients with active ankylosing spondylitis.
-
 Crohn’s disease
 
 The safety and efficacy of Humira were assessed in over 1500 patients with moderately to severely active Crohn’s disease (Crohn’s Disease Activity Index (CDAI) ≥ 220 and ≤ 450) in randomised, double-blind, placebo-controlled studies.
 524 of the enrolled patients (32%) were defined as having a severe disease (CDAI score > 300 and concomitant corticosteroid and/or immunosuppressants) corresponding to the population defined in the indication (see section 4.1).
 Concomitant stable doses of aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted and 80% of patients continued to receive at least one of these medications.
+
 Induction of clinical remission (defined as CDAI < 150) was evaluated in two studies, CD Study I (CLASSIC I) and CD Study II (GAIN).
 In CD Study I, 299 TNF-antagonist naive patients were randomised to one of four treatment groups; placebo at Weeks 0 and 2, 160 mg Humira at Week 0 and 80 mg at week 2, 80 mg at Week 0 and 40 mg at Week 2, and 40 mg at Week 0 and 20 mg at Week 2.
 In CD Study II, 325 patients who had lost response or were intolerant to infliximab were randomised to receive either 160 mg Humira at Week 0 and 80 mg at Week 2 or placebo at weeks 0 and 2.
@@ -304,8 +303,8 @@ In CD Study III, at Week 4, 58% (499/854) of patients were in clinical response 
 Of those in clinical response at Week 4, 48% had been previously exposed to other anti-TNF therapy.
 Maintenance of remission and response rates are presented in Table 12.
 Clinical remission results remained relatively constant irrespective of previous TNF antagonist exposure.
-
 Disease-related hospitalisation and surgeries were statistically significantly reduced with adalimumab compared with placebo at Week 56.
+
 Table 12
 Maintenance of Clinical Remission and Response
 (Percent of Patients)
@@ -381,6 +380,7 @@ Of the patients who lost adequate response after re-randomization to placebo who
 
 Significant improvements at Week 16 from baseline compared to placebo (Studies I and II) and MTX (Study II) were demonstrated in the DLQI (Dermatology Life Quality Index).
 In Study I, improvements in the physical and mental component summary scores of the SF-36 were also significant compared to placebo.
+
 In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50 and were evaluated at 12 weeks after dose escalation, 59/243 (24.3%) of patients regained PASI 75 response.
 
 Immunogenicity
@@ -461,6 +461,8 @@ Ps Study I (REVEAL) - Efficacy Results at 16 Weeks
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
 The primary end point in RA studies I, II and III and the secondary endpoint in RA study IV was the percentage of patients who achieved an ACR 20 response at Week 24 or 26.
+
+.
 
 Humira treatment reduced the rate of progression of peripheral joint damage compared with placebo treatment as measured by change from baseline in mTSS (mean ± SD) 0.8 ± 2.5 in the placebo group (at Week 24) compared with 0.0 ± 1.9 (p< 0.001) in the Humira group (at Week 48)).
 
