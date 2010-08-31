@@ -1,3 +1,4 @@
 # 4.7 Effects on ability to drive and use machines
 
-No effects on ability to drive and use machines have been observed.
+Actos has no or negligible effect on the ability to drive and use machines.
+However patients who experience visual disturbance should be cautious when driving or using machines.

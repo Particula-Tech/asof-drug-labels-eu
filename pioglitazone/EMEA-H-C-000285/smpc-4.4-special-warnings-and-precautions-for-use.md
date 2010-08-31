@@ -1,20 +1,21 @@
 # 4.4 Special warnings and precautions for use
 
-Fluid retention and cardiac failure:
+Fluid retention and cardiac failure
 
 Pioglitazone can cause fluid retention, which may exacerbate or precipitate heart failure.
 When treating patients who have at least one risk factor for development of congestive heart failure (e.g. prior myocardial infarction or symptomatic coronary artery disease), physicians should start with the lowest available dose and increase the dose gradually.
 Patients should be observed for signs and symptoms of heart failure, weight gain or oedema particularly those with reduced cardiac reserve.
-There have been cases of cardiac failure reported from the market when pioglitazone was used in combination with insulin or in patients with a history of cardiac failure; patients should be observed for signs and symptoms of heart failure, weight gain and oedema when pioglitazone is used in combination with insulin.
+There have been post-marketing cases of cardiac failure reported when pioglitazone was used in combination with insulin or in patients with a history of cardiac failure.
+Patients should be observed for signs and symptoms of heart failure, weight gain and oedema when pioglitazone is used in combination with insulin.
 Since insulin and pioglitazone are associated with fluid retention, concomitant administration may increase the risk of oedema.
 Pioglitazone should be discontinued if any deterioration in cardiac status occurs.
 
 A cardiovascular outcome study of pioglitazone has been performed in patients under 75 years with type 2 diabetes mellitus and pre-existing major macrovascular disease.
 Pioglitazone or placebo was added to existing antidiabetic and cardiovascular therapy for up to 3.5 years.
 This study showed an increase in reports of heart failure, however this did not lead to an increase in mortality in this study.
-Caution should be exercised in patients over 75 years because of the limited experience in this patient group.
+Caution should be exercised in patients over 75 years because of the limited experience in this patient group in this study.
 
-Monitoring of liver function:
+Monitoring of liver function
 
 There have been rare reports of hepatocellular dysfunction during post-marketing experience (see section 4.8).
 It is recommended, therefore, that patients treated with pioglitazone undergo periodic monitoring of liver enzymes.
@@ -26,39 +27,39 @@ If ALT levels are increased to 3 X upper limit of normal during pioglitazone the
 If ALT levels remain > 3 X the upper limit of normal, therapy should be discontinued.
 If any patient develops symptoms suggesting hepatic dysfunction, which may include unexplained nausea, vomiting, abdominal pain, fatigue, anorexia and/or dark urine, liver enzymes should be checked.
 The decision whether to continue the patient on therapy with pioglitazone should be guided by clinical judgement pending laboratory evaluations.
-If jaundice is observed, drug therapy should be discontinued.
+If jaundice is observed, the medicinal product should be discontinued.
 
-Weight gain:
+Weight gain
 
 In clinical trials with pioglitazone there was evidence of dose related weight gain, which may be due to fat accumulation and in some cases associated with fluid retention.
 In some cases weight increase may be a symptom of cardiac failure, therefore weight should be closely monitored.
 Part of the treatment of diabetes is dietary control.
 Patients should be advised to adhere strictly to a calorie-controlled diet.
 
-Haematology:
+Haematology
 
-There was a small reduction in mean haemoglobin (4 % relative reduction) and haematocrit (4.1 % relative reduction) during therapy with pioglitazone, consistent with haemodilution.
-Similar changes were seen in metformin (haemoglobin 3 - 4 % and haematocrit 3.6 – 4.1 % relative reductions) and to a lesser extent sulphonylurea and insulin (haemoglobin 1 – 2 % and haematocrit 1 – 3.2 % relative reductions) treated patients in comparative controlled trials with pioglitazone.
+There was a small reduction in mean haemoglobin (4% relative reduction) and haematocrit (4.1% relative reduction) during therapy with pioglitazone, consistent with haemodilution.
+Similar changes were seen in metformin (haemoglobin 3-4% and haematocrit 3.6–4.1% relative reductions) and to a lesser extent sulphonylurea and insulin (haemoglobin 1–2% and haematocrit 1–3.2% relative reductions) treated patients in comparative controlled trials with pioglitazone.
 
 Hypoglycaemia
 
 As a consequence of increased insulin sensitivity, patients receiving pioglitazone in dual or triple oral therapy with a sulphonylurea or in dual therapy with insulin may be at risk for dose-related hypoglycaemia, and a reduction in the dose of the sulphonylurea or insulin may be necessary.
 
-Eye disorders:
+Eye disorders
 
 Post-marketing reports of new-onset or worsening diabetic macular oedema with decreased visual acuity have been reported with thiazolidinediones, including pioglitazone.
 Many of these patients reported concurrent peripheral oedema.
 It is unclear whether or not there is a direct association between pioglitazone and macular oedema but prescribers should be alert to the possibility of macular oedema if patients report disturbances in visual acuity; an appropriate ophthalmological referral should be considered.
 
-Others:
+Others
 
-An increased incidence in bone fractures in women was seen in a pooled analysis of adverse event reports of bone fracture from randomised, controlled, double blind clinical trials in over 8100 pioglitazone and 7400 comparator treated patients, on treatment for up to 3.5 years.
-
+An increased incidence in bone fractures in women was seen in a pooled analysis of adverse reactions of bone fracture from randomised, controlled, double blind clinical trials in over 8100 pioglitazone and 7400 comparator treated patients, on treatment for up to 3.5 years.
 Fractures were observed in 2.6% of women taking pioglitazone compared to 1.7% of women treated with a comparator.
 No increase in fracture rates was observed in men treated with pioglitazone (1.3%) versus comparator (1.5%).
 
 The fracture incidence calculated was 1.9 fractures per 100 patient years in women treated with pioglitazone and 1.1 fractures per 100 patient years in women treated with a comparator.
 The observed excess risk of fractures for women in this dataset on pioglitazone is therefore 0.8 fractures per 100 patient years of use.
+
 In the 3.5 year cardiovascular risk PROactive study, 44/870 (5.1%; 1.0 fractures per 100 patient years) of pioglitazone-treated female patients experienced fractures compared to 23/905 (2.5%; 0.5 fractures per 100 patient years) of female patients treated with comparator.
 No increase in fracture rates was observed in men treated with pioglitazone (1.7%) versus comparator (2.1%).
 
@@ -73,3 +74,11 @@ Glycaemic control should be monitored closely.
 Pioglitazone dose adjustment within the recommended posology or changes in diabetic treatment should be considered (see section 4.5).
 
 Actos tablets contain lactose monohydrate and therefore should not be administered to patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption.
+
+[Actos 30 mg tablets]
+
+(all sentences already above)
+
+[Actos 45 mg tablets]
+
+In the 3.5 year cardiovascular risk PROactive study, 44/870 (5.1%; 1.0 fractures per 100 patient years) of pioglitazone-treated female patients experienced fractures compared to 23/905 (2.5%; 0.5fractures per 100 patient years) of female patients treated with comparator.

@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: oral blood glucose lowering drugs; Thiazolidinediones; ATC code: A10 BG 03.
+Pharmacotherapeutic group: Drugs used in diabetes, blood glucose lowering drugs, excl. insulins; ATC code: A10BG03.
 
 Pioglitazone effects may be mediated by a reduction of insulin resistance.
 Pioglitazone appears to act via activation of specific nuclear receptors (peroxisome proliferator activated receptor gamma) leading to increased insulin sensitivity of liver, fat and skeletal muscle cells in animals.
@@ -8,14 +8,14 @@ Treatment with pioglitazone has been shown to reduce hepatic glucose output and 
 
 Fasting and postprandial glycaemic control is improved in patients with type 2 diabetes mellitus.
 The improved glycaemic control is associated with a reduction in both fasting and postprandial plasma insulin concentrations.
-A clinical trial of pioglitazone vs. gliclazide as monotherapy was extended to two years in order to assess time to treatment failure (defined as appearance of HbA1c ≥ 8.0 % after the first six months of therapy).
+A clinical trial of pioglitazone vs. gliclazide as monotherapy was extended to two years in order to assess time to treatment failure (defined as appearance of HbA1c ≥ 8.0% after the first six months of therapy).
 Kaplan-Meier analysis showed shorter time to treatment failure in patients treated with gliclazide, compared with pioglitazone.
-At two years, glycaemic control (defined as HbA1c < 8.0 %) was sustained in 69 % of patients treated with pioglitazone, compared with 50 % of patients on gliclazide.
+At two years, glycaemic control (defined as HbA1c < 8.0%) was sustained in 69% of patients treated with pioglitazone, compared with 50% of patients on gliclazide.
 In a two-year study of combination therapy comparing pioglitazone with gliclazide when added to metformin, glycaemic control measured as mean change from baseline in HbA1c was similar between treatment groups after one year.
 The rate of deterioration of HbA1c during the second year was less with pioglitazone than with gliclazide.
 
 In a placebo controlled trial, patients with inadequate glycaemic control despite a three month insulin optimisation period were randomised to pioglitazone or placebo for 12 months.
-Patients receiving pioglitazone had a mean reduction in HbA1c of 0.45 % compared with those continuing on insulin alone, and a reduction of insulin dose in the pioglitazone treated group.
+Patients receiving pioglitazone had a mean reduction in HbA1c of 0.45% compared with those continuing on insulin alone, and a reduction of insulin dose in the pioglitazone treated group.
 
 HOMA analysis shows that pioglitazone improves beta cell function as well as increasing insulin sensitivity.
 Two-year clinical studies have shown maintenance of this effect.
@@ -39,8 +39,13 @@ Approximately one third of patients were receiving insulin in combination with m
 To be eligible patients had to have had one or more of the following: myocardial infarction, stroke, percutaneous cardiac intervention or coronary artery bypass graft, acute coronary syndrome, coronary artery disease, or peripheral arterial obstructive disease.
 Almost half of the patients had a previous myocardial infarction and approximately 20% had had a stroke.
 Approximately half of the study population had at least two of the cardiovascular history entry criteria.
-Almost all subjects (95%) were receiving cardiovascular medications (beta blockers, ACE inhibitors, angiotensin II antagonists, calcium channel blockers, nitrates, diuretics, aspirin, statins, fibrates).
+Almost all subjects (95%) were receiving cardiovascular medicinal products (beta blockers, ACE inhibitors, angiotensin II antagonists, calcium channel blockers, nitrates, diuretics, aspirin, statins, fibrates).
 
 Although the study failed regarding its primary endpoint, which was a composite of all-cause mortality, non-fatal myocardial infarction, stroke, acute coronary syndrome, major leg amputation, coronary revascularisation and leg revascularisation, the results suggest that there are no long-term cardiovascular concerns regarding use of pioglitazone.
 However, the incidences of oedema, weight gain and heart failure were increased.
 No increase in mortality from heart failure was observed.
+
+Paediatric population
+
+The European Medicines Agency has waived the obligation to submit the results of studies with Actos in all subsets of the paediatric population in Type 2 Diabetes Mellitus.
+See section 4.2 for information on paediatric use.
