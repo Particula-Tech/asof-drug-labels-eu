@@ -3,6 +3,7 @@
 Pharmacotherapeutic group: Preparations inhibiting uric acid production, ATC code: M04AA03
 
 Mechanism of action
+
 Uric acid is the end product of purine metabolism in humans and is generated in the cascade of hypoxanthine → xanthine → uric acid.
 Both steps in the above transformations are catalyzed by xanthine oxidase (XO).
 Febuxostat is a 2-arylthiazole derivative that achieves its therapeutic effect of decreasing serum uric acid by selectively inhibiting XO.
@@ -11,6 +12,7 @@ Febuxostat has been shown to potently inhibit both the oxidized and reduced form
 At therapeutic concentrations febuxostat does not inhibit other enzymes involved in purine or pyrimidine metabolism, namely, guanine deaminase, hypoxanthine guanine phosphoribosyltransferase, orotate phosphoribosyltransferase, orotidine monophosphate decarboxylase or purine nucleoside phosphorylase.
 
 Clinical studies results
+
 The efficacy of ADENURIC was demonstrated in two Phase 3 pivotal studies (APEX study and FACT study described below) that were conducted in 1832 patients with hyperuricemia and gout.
 In each phase 3 pivotal study, ADENURIC demonstrated superior ability to lower and maintain serum uric acid levels compared to allopurinol.
 The primary efficacy endpoint in each study was the proportion of patients whose last 3 monthly serum uric acid levels were < 6.0 mg/dl (357 µmol/l).
@@ -19,8 +21,7 @@ No patients with organ transplant have been included in these studies (see secti
 APEX Study: The Allopurinol and Placebo-Controlled Efficacy Study of Febuxostat (APEX) was a Phase 3, randomized, double-blind, multicenter, 28-week study.
 One thousand and seventy-two (1072) patients were randomized: placebo (n=134), ADENURIC 80 mg QD (n=267), ADENURIC 120 mg QD (n=269), ADENURIC 240 mg QD (n=134) or allopurinol (300 mg QD [n=258] for patients with a baseline serum creatinine ≤1.5 mg/dl or 100 mg QD [n=10] for patients with a baseline serum creatinine >1.5 mg/dl and ≤2.0 mg/dl).
 Two hundred and forty mg febuxostat (2 times the recommended highest dose) was used as a safety evaluation dose.
-
-The APEX study showed statistically significant superiority of both the ADENURIC 80 mg QD and the ADENURIC 120 mg QD treatment arms versus the conventionnally used doses of allopurinol 300mg (n = 258) /100mg (n = 10) treatment arm in reducing the sUA below 6 mg/dl (357 µmol/l) (see Table 2 and Figure 1).
+The APEX study showed statistically significant superiority of both the ADENURIC 80 mg QD and the ADENURIC 120 mg QD treatment arms versus the conventionally used doses of allopurinol 300mg (n = 258) /100mg (n = 10) treatment arm in reducing the sUA below 6 mg/dl (357 µmol/l) (see Table 2 and Figure 1).
 
 FACT Study: The Febuxostat Allopurinol Controlled Trial (FACT) Study was a Phase 3, randomized, double-blind, multicenter, 52-week study.
 Seven hundred sixty (760) patients were randomized: ADENURIC 80 mg QD (n=256), ADENURIC 120 mg QD (n=251), or allopurinol 300 mg QD (n=253).
@@ -85,6 +86,7 @@ In this subgroup ADENURIC achieved the primary efficacy endpoint in 41% (80 mg Q
 
 Clinical Outcomes: proportion of patients requiring treatment for a gout flare and tophi size change
 The proportion of subjects requiring treatment for a gout flare (APEX and FACT Study) was numerically lower in the groups that achieved an average post-baseline serum urate level <6.0 mg/dl, <5.0 mg/dl, or <4.0 mg/dl compared to the group that achieved an average post-baseline serum urate level ≥6.0 mg/dl during the last 32 weeks of the treatment period (Week 20-Week 24 to Week 48 - 52 intervals).
+
 Two years of data from the Phase 3 Open Label Extension study showed that the maintenance of serum urate levels <6 mg/dl (<357 µmol/l) resulted in a decrease in the incidence of gout flares with less than 3 % of subjects requiring treatment for a flare (i.e. more than 97 % of patients did not require treatment for a flare) at Month 16-24.
 This was associated with a reduction of tophus size leading to complete resolution in 54% of subjects at Month 24.
 

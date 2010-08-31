@@ -20,6 +20,7 @@ Febuxostat use is not recommended in patients concomitantly treated with mercapt
 
 Theophylline
 Febuxostat should be used with caution in patients concomitantly treated with theophylline and theophylline levels should be monitored in patients starting febuxostat therapy (see section 4.5).
+
 Liver disorders
 During the phase 3 clinical studies, mild liver function test abnormalities were observed in patients treated with febuxostat (3.5%).
 Liver function test is recommended prior to the initiation of therapy with febuxostat and periodically thereafter based on clinical judgement (see section 5.1).
@@ -30,4 +31,4 @@ Caution is required when febuxostat is used in patients with alteration of thyro
 
 Lactose
 Febuxostat tablets contain lactose.
-Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactase malabsorption should not take this medicine.
+Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
