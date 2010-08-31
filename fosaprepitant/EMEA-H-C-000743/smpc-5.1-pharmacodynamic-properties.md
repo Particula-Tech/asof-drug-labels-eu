@@ -132,3 +132,56 @@ Overall (0-120 hours) 73.6 66.4 7.2 (1.0, 13.4)
 *The confidence intervals were calculated with no adjustment for gender and region, which were included in the primary analysis using logistic models.
 The benefit of aprepitant combination therapy in the full study population was mainly driven by the results observed in patients with poor control with the standard regimen such as in women, even though the results were numerically better regardless of age, tumour type or gender.
 Complete response to the aprepitant regimen and standard therapy, respectively, was reached in 209/324 (65 %) and 161/320 (50 %) in women and 83/101 (82 %) and 68/87 (78 %) of men.
+
+[IVEMEND 150 mg powder for solution for infusion.]
+
+The contribution of fosaprepitant to the overall antiemetic effect has not fully been characterised, but a transient contribution during the initial phase cannot be ruled out.
+
+3-Day regimen of aprepitant
+
+Table 1
+Percent of patients receiving Highly Emetogenic Chemotherapy responding by treatment group and phase — Cycle 1
+
+Percent of patients receiving Highly Emetogenic Chemotherapy who remain emesis free over time – Cycle 1
+
+In a randomised, double-blind study in a total of 866 patients (864 females, 2 males) receiving chemotherapy that included cyclophosphamide 750-1,500 mg/m2; or cyclophosphamide 500-1,500 mg/m2 and doxorubicin (≤60 mg/m2) or epirubicin (≤100 mg/m2), aprepitant in combination with an ondansetron/dexamethasone regimen (see section 4.2) was compared with standard therapy (placebo plus ondansetron 8 mg orally (twice on Day 1, and every 12 hours on Days 2 and 3) plus dexamethasone 20 mg orally on Day 1).
+
+Percent of patients responding by treatment group and phase —Cycle 1
+Moderately Emetogenic Chemotherapy
+
+In a second multicenter, randomized, double-blind, parallel-group, clinical study, the aprepitant regimen was compared with standard therapy in 848 patients (652 females, 196 males) receiving a chemotherapy regimen that included any IV dose of oxaliplatin, carboplatin, epirubicin, idarubicin, ifosfamide, irinotecan, daunorubicin, doxorubicin; cyclophosphamide IV (<1,500 mg/m2); or cytarabine IV (>1 g/m2).
+
+Percent of patients responding by treatment group and phase for Study 2 – Cycle 1 Moderately Emetogenic Chemotherapy
+
+(N= 425) (N= 406)
+
+1-Day regimen of IVEMEND 150 mg
+In a randomized, parallel, double-blind, active-controlled study, IVEMEND 150 mg (N=1,147) was compared with a 3-day aprepitant regimen (N=1,175) in patients receiving a HEC regimen that included cisplatin (≥70 mg/m2).
+The fosaprepitant regimen consisted of fosaprepitant 150 mg on Day 1 in combination with ondansetron 32 mg IV on Day 1 and dexamethasone 12 mg on Day 1, 8 mg on Day 2, and 8 mg twice daily on Days 3 and 4.
+The aprepitant regimen consisted of aprepitant 125 mg on Day 1 and 80 mg/day on Days 2 and 3 in combination with ondansetron 32 mg IV on Day 1 and dexamethasone 12 mg on Day 1 and 8 mg daily on Days 2 through 4.
+Fosaprepitant placebo, aprepitant placebo, and dexamethasone placebo (in the evenings on Days 3 and 4) were used to maintain blinding (see section 4.2).
+
+Efficacy was based on evaluation of the following composite measures: complete response in both the overall and delayed phases and no vomiting in the overall phase.
+IVEMEND 150 mg was shown to be non-inferior to that of the 3-day regimen of aprepitant.
+A summary of the primary and secondary endpoints is shown in Table 4.
+Table 4
+
+| ENDPOINTS* | Fosaprepitant regimen (N =1,106) ** % | Aprepitant regimen (N =1,134) ** % | Difference† (95 % CI) |
+| --- | --- | --- | --- |
+| Complete response‡ |  |  |  |
+| Overall§ | 71.9 | 72.3 | -0.4 (-4.1, 3.3) |
+| Delayed phase§§ | 74.3 | 74.2 | 0.1 (-3.5, 3.7) |
+| No vomiting |  |  |  |
+
+Overall§ 72.9 74.6 -1.7 (-5.3, 2.0)
+
+*Primary endpoint is bolded.
+**N: Number of patients included in the primary analysis of complete response.
+†Difference and confidence interval (CI) were calculated using the method proposed by
+Miettinen and Nurminen and adjusted for Gender.
+‡Complete response = no vomiting and no use of rescue therapy.
+§Overall = 0 to 120 hours post-initiation of cisplatin chemotherapy.
+§§Delayed phase = 25 to 120 hours post-initiation of cisplatin chemotherapy.
+
+Paediatric population
+Studies evaluating the use of fosaprepitant in paediatric patients are on-going (see section 4.2 for information on paediatric use).

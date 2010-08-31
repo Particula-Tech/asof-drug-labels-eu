@@ -8,3 +8,10 @@ No hemolysis was found with the commercial formulation up to a fosaprepitant con
 Carcinogenic potential in rodents was only investigated with orally administered aprepitant.
 However, it should be noted that the value of the toxicity studies carried out with rodents, rabbit and monkey, including the reproduction toxicity studies, are limited since systemic exposures to fosaprepitant and aprepitant were only similar or even lower than therapeutic exposure in humans.
 In the performed safety pharmacology and repeated dose toxicity studies with dogs, fosaprepitant Cmax and aprepitant AUC values were 4-7 times and 60-70 times, respectively, higher than clinical values.
+
+[IVEMEND 150 mg powder for solution for infusion.]
+
+In the performed safety pharmacology and repeated dose toxicity studies with dogs, fosaprepitant Cmax and aprepitant AUC values were up to 3 times and 40 times, respectively, higher than clinical values.
+
+In rabbits, IVEMEND caused initial transient local acute inflammation following paravenous, subcutaneous and intramuscular administration.
+At the end of the follow-up period (post-dose day 8), up to slight local subacute inflammation was noted following paravenous and intramuscular administration and additional up to moderate focal muscle degeneration/necrosis with muscle regeneration following intramuscular administration.

@@ -9,3 +9,14 @@ IVEMEND should not be used during pregnancy unless clearly necessary.
 Aprepitant is excreted in the milk of lactating rats after intravenous administration of fosaprepitant as well as after oral administration of aprepitant.
 It is not known whether aprepitant is excreted in human milk.
 Therefore, breast-feeding is not recommended during treatment with IVEMEND and oral aprepitant.
+
+[IVEMEND 150 mg powder for solution for infusion.]
+
+Pregnancy
+The potential for reproductive toxicities of fosaprepitant and aprepitant have not been fully characterised, since exposure levels above the therapeutic exposure in humans could not be attained in animal studies.
+
+Breast-feeding
+
+Fertility
+The potential for effects of fosaprepitant and aprepitant on fertility have not been fully characterised because exposure levels above the therapeutic exposure in humans could not be attained in animal studies.
+These fertility studies did not indicate direct or indirect harmful effects with respect to mating performance, fertility, embryonic/foetal development, or sperm count and motility (see section 5.3).

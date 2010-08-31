@@ -6,3 +6,7 @@ After reconstitution and dilution, chemical and physical in-use stability has be
 
 From a microbiological point of view, the product should be used immediately.
 If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8°C.
+
+[IVEMEND 150 mg powder for solution for infusion.]
+
+From a microbiological point of view, the medicinal product should be used immediately.

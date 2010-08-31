@@ -28,3 +28,24 @@ IVEMEND should not be given as a bolus injection, but should always be diluted a
 IVEMEND should not be administered intramuscularly or subcutaneously.
 Mild injection site thrombosis has been observed at higher doses (see section 4.9).
 If signs or symptoms of local irritation occur, the injection or infusion should be terminated and restarted in another vein.
+
+[IVEMEND 150 mg powder for solution for infusion.]
+
+Patients with moderate to severe hepatic impairment
+
+CYP3A4 interactions
+IVEMEND should be used with caution in patients receiving concomitant active substances that are metabolised primarily through CYP3A4 and with a narrow therapeutic range, such as cyclosporine, tacrolimus, sirolimus, everolimus, alfentanil, diergotamine, ergotamine, fentanyl, and quinidine (see section 4.5).
+
+Concomitant administration of fosaprepitant with active substances that strongly induce CYP3A4 activity (e.g. rifampicin, phenytoin, carbamazepine, phenobarbital) should be avoided as the combination could result in reductions of the plasma concentrations of aprepitant (see section 4.5).
+
+Co-administration with warfarin (a CYP2C9 substrate)
+In patients on chronic warfarin therapy, the INR should be monitored closely for 2 weeks following the use of fosaprepitant for the prevention of chemotherapy induced nausea and vomiting (see section 4.5).
+
+Co-administration with hormonal contraceptives
+The efficacy of hormonal contraceptives may be reduced during and for 28 days after administration of fosaprepitant.
+Alternative or back-up methods of contraception should be used during treatment with fosaprepitant and for 2 months following the use of fosaprepitant (see section 4.5).
+
+Hypersensitivity reactions
+
+Administration and infusion site reactions
+IVEMEND should not be administered intramuscularly or subcutaneously (see section 5.3).

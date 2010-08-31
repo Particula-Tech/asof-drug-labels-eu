@@ -24,7 +24,7 @@ Twelve metabolites of aprepitant have been identified in human plasma.
 The metabolism of aprepitant occurs largely via oxidation at the morpholine ring and its side chains and the resultant metabolites were only weakly active.
 In vitro studies using human liver microsomes indicate that aprepitant is metabolised primarily by CYP3A4 and potentially with minor contribution by CYP1A2 and CYP2C19.
 
-All metabolites observed in urine, faeces and plasma following an intravenous 100 mg [14C]-fosaprepitant dose were also observed following an oral dose of [14C]-aprepitant.
+All metabolites observed in urine, faeces and plasma following an intravenous 100 mg [14C]- fosaprepitant dose were also observed following an oral dose of [14C]-aprepitant.
 Upon conversion of 115 mg of fosaprepitant to aprepitant, 18.3 mg of phosphate is liberated from fosaprepitant.
 
 Elimination
@@ -58,3 +58,20 @@ Fosaprepitant is a prodrug of aprepitant.
 Positron emission tomography (PET) imaging studies, using a highly specific NK1-receptor tracer, in healthy young men after administration of oral aprepitant have shown that aprepitant penetrates into the brain and occupies NK1 receptors in a dose-and plasma-concentration-dependent manner.
 Aprepitant plasma concentrations achieved with the 3-day regimen of oral aprepitant are predicted to provide greater than 95 % occupancy of brain NK1 receptors.
 The relationship between concentration and effect has not been evaluated after administration of fosaprepitant.
+
+[IVEMEND 150 mg powder for solution for infusion.]
+
+Following a single intravenous 150-mg dose of fosaprepitant administered as a 20-minute infusion to healthy volunteers, the mean AUC0-∞ of aprepitant was 35.0 µg•hr/ml and the mean maximal aprepitant concentration was 4.01 µg/ml.
+
+The geometric mean volume of distribution at steady state (Vdss) of aprepitant estimated from a single 150 mg intravenous dose of fosaprepitant is approximately 82 l in humans.
+
+Biotransformation
+
+Upon conversion of 245.3 mg of fosaprepitant dimeglumine (equivalent to 150 mg fosaprepitant) to aprepitant, 23.9 mg of phosphoric acid and 95.3 mg of meglumine are liberated.
+
+The terminal half-life of aprepitant following a 150 mg intravenous dose of fosaprepitant was approximately 11 hours.
+The geometric mean plasma clearance of aprepitant following a 150 mg intravenous dose of fosaprepitant was approximately 73 ml/min.
+
+Mild hepatic impairment (Child-Pugh class A) does not affect the pharmacokinetics of aprepitant to a clinically relevant extent.
+Conclusions regarding the influence of moderate hepatic impairment (Child-Pugh class B) on aprepitant pharmacokinetics cannot be drawn from available data.
+There are no clinical or pharmacokinetic data in patients with severe hepatic impairment (Child-Pugh class C).
