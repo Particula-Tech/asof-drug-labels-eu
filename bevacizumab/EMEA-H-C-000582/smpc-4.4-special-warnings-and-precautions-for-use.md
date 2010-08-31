@@ -84,3 +84,8 @@ Patients may be at risk of developing infusion/hypersensitivity reaction.
 Close observation of the patient during and following the administration of bevacizumab is recommended as expected for any infusion of a therapeutic humanized monoclonal antibody.
 If a reaction occurs, the infusion should be discontinued and appropriate medical therapies should be administered.
 A systematic premedication is not warranted.
+
+Eye disorders
+Adverse reactions have been reported from unapproved intravitreal use.
+These reactions included infectious endophthalmitis, intraocular inflammation such as sterile endophthalmitis, uveitis and vitritis, retinal detachment, retinal pigment epithelial tear, intraocular pressure increased, intraocular haemorrhage such as vitreous haemorrhage or retinal haemorrhage and conjunctival haemorrhage.
+Some of these appeared as serious adverse reactions.

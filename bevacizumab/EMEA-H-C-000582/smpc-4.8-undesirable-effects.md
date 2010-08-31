@@ -19,6 +19,7 @@ The adverse reactions listed in this table fall into the following categories: V
 Adverse reactions are added to the appropriate category in the table below according to the highest incidence seen in any of the major clinical trials.
 Within each frequency grouping adverse reactions are presented in the order of decreasing seriousness.
 Some of the adverse reactions are reactions commonly seen with chemotherapy, (e.g. palmar-plantar erythrodysaesthesia syndrome with capecitabine and peripheral sensory neuropathy with paclitaxel or oxaliplatin); however, an exacerbation by Avastin therapy can not be excluded.
+
 Table 1 Very common and common adverse reactions
 
 | System organ class (SOC) | NCI-CTC grade 3-5 reactions (≥ 2% difference between the trial arms in at least one clinical trial) |  | All grade reactions (≥ 10% difference between the trial arms in at least one clinical trial) |
@@ -35,7 +36,9 @@ Table 1 Very common and common adverse reactions
 | Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal Perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder Stomatitis | Constipation Stomatitis Rectal haemorrhage |
 | Skin and subcutaneous tissue disorders |  | Palmar-plantar erythrodysaesthesia syndrome | Exfoliative dermatitis Dry skin Skin discolouration |
 | Musculoskeletal, connective tissue and bone disorders |  | Muscular weakness Myalgia | Arthralgia |
-| Renal and urinary disorders |  | Proteinuria Urinary Tract Infection | Proteinuria |
+| Renal and urinary disorders |  | Proteinuria Urinary Tract | Proteinuria |
+|  | Very common | Common | Very common |
+|  |  | Infection |  |
 | General disorders and administration site conditions | Asthenia Fatigue | Pain Lethargy Mucosal inflammation | Pyrexia Asthenia Pain Mucosal inflammation |
 
 * Pooled arterial thromboembolic events including cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic events.
@@ -69,7 +72,6 @@ An increased incidence of post-operative bleeding or wound healing complication 
 The incidence varied between 10% (4/40) and 20% (3/15).
 
 In locally recurrent and metastatic breast cancer trials, Grade 3-5 wound healing complications were observed in up to 1.1% of patients receiving Avastin compared with up to 0.9% of patients in the control arms.
-
 Hypertension (see section 4.4)
 An increased incidence of hypertension (all grades) of up to 34% has been observed in Avastin-treated patients in clinical trials compared with up to 14% in those treated with comparator.
 Grade 3 and 4 hypertension (requiring oral anti-hypertensive medicines) in patients receiving Avastin ranged from 0.4% to 17.9%.
@@ -77,6 +79,7 @@ Grade 4 hypertension (hypertensive crisis) occurred in up to 1.0% of patients tr
 
 Hypertension was generally adequately controlled with oral anti-hypertensives such as angiotensin-converting enzyme inhibitors, diuretics and calcium-channel blockers.
 It rarely resulted in discontinuation of Avastin treatment or hospitalisation.
+
 Very rare cases of hypertensive encephalopathy have been reported, some of which were fatal.
 
 The risk of Avastin-associated hypertension did not correlate with the patients’ baseline characteristics, underlying disease or concomitant therapy.
@@ -105,7 +108,6 @@ Patients with NSCLC of known squamous cell histology or mixed cell type with pre
 In patients with NSCLC excluding predominant squamous histology, all grade events were seen with a frequency of up to 9% when treated with Avastin plus chemotherapy compared with 5% in the patients treated with chemotherapy alone.
 Grade 3-5 events have been observed in up to 2.3% of patients treated with Avastin plus chemotherapy as compared with < 1% with chemotherapy alone.
 Major or massive pulmonary haemorrhage/haemoptysis can occur suddenly and up to two thirds of the serious pulmonary haemorrhages resulted in a fatal outcome.
-
 Gastrointestinal haemorrhages, including rectal bleeding and melaena have been reported in colorectal cancer patients, and have been assessed as tumour-associated haemorrhages.
 
 Tumour-associated haemorrhage was also seen rarely in other tumour types and locations, including cases of central nervous system (CNS) bleeding in patients with CNS metastases (see section 4.4).
@@ -140,7 +142,6 @@ In clinical trials across indications, the overall incidence of venous thromboem
 Grade 3-5 venous thromboembolic events have been reported in up to 7.8% of patients treated with chemotherapy plus bevacizumab compared with up to 4.9% in patients treated with chemotherapy alone.
 
 Patients who have experienced a venous thromboembolic event may be at higher risk for a recurrence if they receive Avastin in combination with chemotherapy versus chemotherapy alone.
-
 Congestive heart failure (CHF)
 In clinical trials with Avastin, congestive heart failure (CHF) was observed in all cancer indications studied to date, but occurred predominantly in patients with metastatic breast cancer.
 In two phase III trials (AVF2119g and E2100) in patients with metastatic breast cancer an increase of CHF Grade 3 or more with Avastin was seen.
@@ -148,6 +149,7 @@ CHF was reported in up to 3.5% of patients treated with Avastin compared with up
 Most of these patients showed improved symptoms and/or left ventricular function following appropriate medical therapy.
 
 In most clinical trials of Avastin, patients with pre-existing CHF of NYHA (New York Heart Association (NYHA) II-IV were excluded, therefore, no information is available on the risk of CHF in this population.
+
 Prior anthracyclines exposure and/or prior radiation to the chest wall may be possible risk factors for the development of CHF.
 
 Hypersensitivity reactions/infusion reactions (see section 4.4 and Post-marketing experience below) In some clinical trials anaphylactic and anaphylactoid-type reactions were reported more frequently in patients receiving Avastin in combination with chemotherapy than with chemotherapy alone.
