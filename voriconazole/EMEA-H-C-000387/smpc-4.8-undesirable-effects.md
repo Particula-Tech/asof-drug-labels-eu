@@ -4,7 +4,8 @@ The safety profile of voriconazole is based on an integrated safety database of 
 This represents a heterogeneous population, containing patients with haematological malignancy, HIV infected patients with oesophageal candidiasis and refractory fungal infections, non-neutropenic patients with candidaemia or aspergillosis and healthy volunteers.
 Five hundred and sixty one patients had a duration of voriconazole therapy of greater than 12 weeks, with 136 patients receiving voriconazole for over 6 months.
 
-In the table below, since the majority of the studies were of an open nature all causality adverse events, by system organ class and frequency (very common ≥1/10, common ≥1/100 and <1/10, uncommon ≥1/1000 and <1/100, rare, ≥1/10 000 and <1/1000 and very rare, <1/10 000) if possibly causally related are listed.
+In the table below, since the majority of the studies were of an open nature all causality adverse events, by system organ class and frequency (very common ≥1/10, common ≥1/100 and <1/10, uncommon ≥1/1000 and <1/100, rare, ≥1/10 000 and <1/1000 and very rare, <1/10 000 if possibly causally related are listed.
+
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 The most commonly reported adverse events were visual disturbances, pyrexia, rash, vomiting, nausea, diarrhoea, headache, peripheral oedema and abdominal pain.
 
@@ -15,70 +16,70 @@ Undesirable effects reported in subjects receiving voriconazole:
 
 | System Organ Class | Adverse drug reactions |
 | --- | --- |
-| Investigations |  |
-| Common | Elevated liver function tests (including ASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), blood creatinine increased |
-| Uncommon | Electrocardiogram QT corrected interval prolonged, blood urea increased, blood cholesterol increased |
-| Cardiac disorders |  |
-| Very common | Oedema peripheral |
-| Uncommon | Ventricular fibrillation, ventricular arrhythmia, syncope, supraventricular arrhythmia, supraventricular tachycardia, tachycardia, bradycardia |
-| Rare | Torsades de pointes, ventricular tachycardia, atrioventricular complete block, bundle branch block, nodal rhythm |
+| Infections and infestation |  |
+| Common | Gastroenteritis, influenza-like illness |
+| Rare | Pseudomembranous colitis |
 | Blood and Lymphatic system disorders |  |
-| Common | Pancytopenia, bone marrow depression, leukopenia, thrombocytopenia, purpura, anaemia |
+| Common | Pancytopenia, bone marrow depression, leukopenia, thrombocytopenia, anaemia, purpura, |
 | Uncommon | Disseminated intravascular coagulation, agranulocytosis, lymphadenopathy, eosinophilia |
+| Immune system disorders |  |
+| Common | Sinusitis |
+| Uncommon | Anaphylactoid reaction, hypersensitivity |
+| Endocrine disorders |  |
+| Uncommon | Adrenal insufficiency |
+| Rare | Hyperthyroidism, hypothyroidism |
+| Metabolism and nutrition system disorders |  |
+| Common | Hypoglycaemia, hypokalaemia |
+| Psychiatric disorders |  |
+| Common | Depression, hallucination, anxiety |
+| Rare | Insomnia |
 | Nervous system disorders |  |
 | Very common | Headache |
 | Common | Dizziness, confusional state, tremor, agitation, paraesthesia |
 | Uncommon | Brain oedema, ataxia, diplopia, vertigo, hypoaesthesia |
-| Rare | Convulsion, encephalopathy, Guillain-Barre syndrome, extrapyramidal symptoms |
+| Rare | Convulsion, encephalopathy, Guillain-Barre syndrome, extrapyramidal symptoms, peripheral neuropathy |
 | Eye disorders |  |
 | Very common | Visual disturbances (including blurred vision (see Section 4.4), chromatopsia and photophobia) |
 | Uncommon | Papilloedema (see Section 4.4), optic nerve disorder (including optic neuritis, see Section 4.4), nystagmus, scleritis, blepharitis |
-| Rare | Retinal haemorrhage, optic atrophy, oculogyration, corneal opacity |
+| Rare | Optic atrophy, retinal haemorrhage, oculogyration, corneal opacity |
 | Ear and labyrinth disorders |  |
 | Rare | Hypoacusis, tinnitus |
+| Cardiac disorders |  |
+| Very common | Oedema peripheral |
+| Uncommon | Ventricular fibrillation, ventricular arrhythmia, syncope, supraventricular arrhythmia, supraventricular tachycardia, tachycardia, bradycardia |
+| Rare | Torsades de pointes, ventricular tachycardia, atrioventricular complete block, bundle branch block, nodal rhythm |
+| Vascular disorders |  |
+| Common | Thrombophlebitis, hypotension, phlebitis |
+| Rare | Lymphangitis |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Common | Acute respiratory distress syndrome, pulmonary oedema, respiratory distress, chest pain |
 | Gastrointestinal disorders |  |
 | Very common | Abdominal pain, nausea, vomiting, diarrhoea |
 | Uncommon | Pancreatitis, peritonitis, duodenitis, gingivitis, glossitis, swollen tongue, dyspepsia, constipation |
 | Rare | Dysgeusia |
-| Renal and urinary disorders |  |
-| Common | Renal failure acute, haematuria |
-| Uncommon | Nephritis, proteinuria |
-| Rare | Renal tubular necrosis |
-| Skin and subcutaneous tissue disorders |  |
-| Very common | Rash |
-| Common | Exfoliative dermatitis, face oedema, photosensitivity reaction, maculo-papular rash, macular rash, papular rash, cheilitis, pruritus, alopecia, erythema |
-| Uncommon | Stevens-Johnson syndrome, angioneurotic oedema, allergic dermatitis, urticaria, drug hypersensitivity, psoriasis |
-| Rare | Toxic epidermal necrolysis, erythema multiforme, discoid lupus erythematosis |
-| Musculoskeletal and connective tissue disorders |  |
-| Common | Back pain |
-| Uncommon | Arthritis |
-| Rare | Hypertonia |
-| Endocrine disorders |  |
-| Uncommon | Adrenal insufficiency |
-| Rare | Hyperthyroidism, hypothyroidism |
-| Metabolism and nutrition system disorders |  |
-| Common | Hypoglycaemia, hypokalaemia |
-| Infections and infestation |  |
-| Common | Gastroenteritis, influenza-like illness |
-| Rare | Pseudomembranous colitis |
-| Vascular disorders |  |
-| Common | Hypotension, thrombophlebitis, phlebitis |
-| Rare | Lymphangitis |
-| General disorders and administrative site conditions |  |
-| Very common | Pyrexia |
-| Common | Injection site reaction / inflammation, chills, asthenia, |
-| Immune system disorders |  |
-| Common | Sinusitis |
-| Uncommon | Anaphylactoid reaction, hypersensitivity |
 | Hepato-biliary disorders |  |
 | Common | Jaundice, cholestatic jaundice |
 | Uncommon | Hepatic failure, hepatitis, hepatomegaly, cholecystitis, cholelithiasis |
 | Rare | Hepatic coma |
-| Psychiatric disorders |  |
-| Common | Depression, anxiety, hallucination |
-| Rare | Insomnia |
+| Skin and subcutaneous tissue disorders |  |
+| Very common | Rash |
+| Common | Exfoliative dermatitis, face oedema, photosensitivity reaction, maculo-papular rash, macular rash, papular rash, cheilitis, pruritus, alopecia, erythema |
+| Uncommon | Stevens-Johnson syndrome, angioneurotic oedema, allergic dermatitis, urticaria, drug hypersensitivity, psoriasis |
+| Rare | Toxic epidermal necrolysis, erythema multiforme, discoid lupus erythematosis, pseudoporphyria |
+| Musculoskeletal and connective tissue disorders |  |
+| Common | Back pain |
+| Uncommon | Arthritis |
+| Rare | Hypertonia |
+| Renal and urinary disorders |  |
+| Common | Renal failure acute, haematuria |
+| Uncommon | Proteinuria, nephritis |
+| Rare | Renal tubular necrosis |
+| General disorders and administrative site conditions |  |
+| Very common | Pyrexia |
+| Common | Injection site reaction / inflammation, chills, asthenia |
+| Investigations |  |
+| Common | Elevated liver function tests (including ASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), blood creatinine increased |
+| Uncommon | Electrocardiogram QT corrected interval prolonged, blood urea increased, blood cholesterol increased |
 
 Visual disturbances
 In clinical trials, voriconazole treatment-related visual disturbances were very common.
@@ -100,7 +101,6 @@ Patients have rarely developed serious cutaneous reactions, including Stevens-Jo
 
 If patients develop a rash they should be monitored closely and VFEND discontinued if lesions progress.
 Photosensitivity reactions have been reported, especially during long-term therapy (see also section 4.4).
-
 Liver Function Tests
 The overall incidence of clinically significant transaminase abnormalities in the voriconazole clinical programme was 13.4 % (200/1493) of subjects treated with voriconazole.
 Liver function test abnormalities may be associated with higher plasma concentrations and/or doses.
@@ -119,149 +119,142 @@ There have been post-marketing reports of pancreatitis in paediatric patients.
 
 | System Organ Class | Adverse drug reactions |
 | --- | --- |
-| Investigations |  |
-| Common | Elevated liver function tests (including ASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), blood creatinine increased |
-| Uncommon | Electrocardiogram QT corrected interval prolonged, blood urea increased, blood cholesterol increased |
-| Cardiac disorders |  |
-| Very common | Oedema peripheral |
-| Uncommon | Ventricular fibrillation, ventricular arrhythmia, syncope, supraventricular arrhythmia, supraventricular tachycardia, tachycardia, bradycardia |
-| Rare | Torsades de pointes, ventricular tachycardia, atrioventricular complete block, bundle branch block, nodal rhythm |
+| Infections and infestation |  |
+| Common | Gastroenteritis, influenza-like illness |
+| Rare | Pseudomembranous colitis |
 | Blood and Lymphatic system disorders |  |
-| Common | Pancytopenia, bone marrow depression, leukopenia, thrombocytopenia, purpura, anaemia |
+| Common | Pancytopenia, bone marrow depression, leukopenia, thrombocytopenia, anaemia, purpura |
 | Uncommon | Disseminated intravascular coagulation, agranulocytosis, lymphadenopathy, eosinophilia |
+| Immune system disorders |  |
+| Common | Sinusitis |
+| Uncommon | Anaphylactoid reaction, hypersensitivity |
+| Endocrine disorders |  |
+| Uncommon | Adrenal insufficiency |
+| Rare | Hyperthyroidism, hypothyroidism |
+| Metabolism and nutrition system disorders |  |
+| Common | Hypoglycaemia, hypokalaemia |
+| Psychiatric disorders |  |
+| Common | Depression, hallucination, anxiety |
+| Rare | Insomnia |
 | Nervous system disorders |  |
 | Very common | Headache |
 | Common | Dizziness, confusional state, tremor, agitation, paraesthesia |
 | Uncommon | Brain oedema, ataxia, diplopia, vertigo, hypoaesthesia |
-| Rare | Convulsion, encephalopathy, Guillain-Barre syndrome, extrapyramidal symptoms |
+| Rare | Convulsion, encephalopathy, Guillain-Barre syndrome, extrapyramidal symptoms, peripheral neuropathy |
 | Eye disorders |  |
 | Very common | Visual disturbances (including blurred vision (see Section 4.4), chromotopsia and photophobia) |
 | Uncommon | Papilloedema (see Section 4.4), optic nerve disorder (including optic neuritis, see Section 4.4), nystagmus, scleritis, blepharitis |
-| Rare | Retinal haemorrhage, optic atrophy, oculogyration, corneal opacity |
+| Rare | Optic atrophy, Retinal haemorrhage, , oculogyration, corneal opacity |
 | Ear and labyrinth disorders |  |
 | Rare | Hypoacusis, tinnitus |
+| Cardiac disorders |  |
+| Very common | Oedema peripheral |
+| Uncommon | Ventricular fibrillation, ventricular arrhythmia, syncope, supraventricular arrhythmia, supraventricular tachycardia, tachycardia, bradycardia |
+| Rare | Torsades de pointes, ventricular tachycardia, atrioventricular complete block, bundle branch block, nodal rhythm |
+| Vascular disorders |  |
+| Common | Thrombophlebitis, Hypotension, phlebitis |
+| Rare | Lymphangitis |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Common | Acute respiratory distress syndrome, pulmonary oedema, respiratory distress, chest pain |
 | Gastrointestinal disorders |  |
 | Very common | Abdominal pain, nausea, vomiting, diarrhoea |
 | Uncommon | Pancreatitis, peritonitis, duodenitis, gingivitis, glossitis, swollen tongue, dyspepsia, constipation |
 | Rare | Dysgeusia |
-| Renal and urinary disorders |  |
-| Common | Renal failure acute, haematuria |
-| Uncommon | Nephritis, proteinuria |
-| Rare | Renal tubular necrosis |
-| Skin and subcutaneous tissue disorders |  |
-| Very common | Rash |
-| Common | Exfoliative dermatitis, face oedema, photosensitivity reaction, maculo-papular rash, macular rash, papular rash, cheilitis, pruritus, alopecia, erythema |
-| Uncommon | Stevens-Johnson syndrome, angioneurotic oedema, allergic dermatitis, urticaria, drug hypersensitivity, psoriasis |
-| Rare | Toxic epidermal necrolysis, erythema multiforme, discoid lupus erythematosis |
-| Musculoskeletal and connective tissue disorders |  |
-| Common | Back pain |
-| Uncommon | Arthritis |
-| Rare | Hypertonia |
-| Endocrine disorders |  |
-| Uncommon | Adrenal insufficiency |
-| Rare | Hyperthyroidism, hypothyroidism |
-| Metabolism and nutrition system disorders |  |
-| Common | Hypoglycaemia, hypokalaemia |
-| Infections and infestation |  |
-| Common | Gastroenteritis, influenza-like illness |
-| Rare | Pseudomembranous colitis |
-| Vascular disorders |  |
-| Common | Hypotension, thrombophlebitis, phlebitis |
-| Rare | Lymphangitis |
-| General disorders and administrative site conditions |  |
-| Very common | Pyrexia |
-| Common | Injection site reaction / inflammation, chills, asthenia, |
-| Immune system disorders |  |
-| Common | Sinusitis |
-| Uncommon | Anaphylactoid reaction, hypersensitivity |
 | Hepato-biliary disorders |  |
 | Common | Jaundice, cholestatic jaundice |
 | Uncommon | Hepatic failure, hepatitis, hepatomegaly, cholecystitis, cholelithiasis |
 | Rare | Hepatic coma |
-| Psychiatric disorders |  |
-| Common | Depression, anxiety, hallucination |
-| Rare | Insomnia |
+| Skin and subcutaneous tissue disorders |  |
+| Very common | Rash |
+| Common | Exfoliative dermatitis, face oedema, photosensitivity reaction, maculo-papular rash, macular rash, papular rash, cheilitis, pruritus, alopecia, erythema |
+| Uncommon | Stevens-Johnson syndrome, angioneurotic oedema, allergic dermatitis, urticaria, drug hypersensitivity, psoriasis |
+| Rare | Toxic epidermal necrolysis, erythema multiforme, discoid lupus erythematosis, pseudoporphyria |
+| Musculoskeletal and connective tissue disorders |  |
+| Common | Back pain |
+| Uncommon | Arthritis |
+| Rare | Hypertonia |
+| Renal and urinary disorders |  |
+| Common | Renal failure acute, haematuria |
+| Uncommon | Proteinuria, nephritis |
+| Rare | Renal tubular necrosis |
+| General disorders and administrative site conditions |  |
+| Very common | Pyrexia |
+| Common | Injection site reaction / inflammation, chills, asthenia |
+| Investigations |  |
+| Common | Elevated liver function tests (including ASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), blood creatinine increased |
+| Uncommon | Electrocardiogram QT corrected interval prolonged, blood urea increased, blood cholesterol increased |
 
 [VFEND 200 mg powder for solution for infusion]
 
 System Organ Class Adverse drug reactions
-Investigations
-Common Elevated liver function tests (including ASAT, ALAT,
-alkaline phosphatase, GGT, LDH, bilirubin), blood creatinine
-increased
-Uncommon Electrocardiogram QT corrected interval prolonged, blood
-urea increased, blood cholesterol increased
-Cardiac disorders
-Very common Oedema peripheral
-Uncommon Ventricular fibrillation, ventricular arrhythmia, syncope,
-supraventricular arrhythmia, supraventricular tachycardia,
-tachycardia, bradycardia
-Rare Torsades de pointes, ventricular tachycardia, atrioventricular
-complete block, bundle branch block, nodal rhythm
+Infections and infestation
+Common Gastroenteritis, influenza-like illness
+Rare Pseudomembranous colitis
 Blood and Lymphatic system disorders
 Common Pancytopenia, bone marrow depression, leukopenia,
-thrombocytopenia, purpura, anaemia
+thrombocytopenia, anaemia, purpura
 Uncommon Disseminated intravascular coagulation, agranulocytosis,
 lymphadenopathy, eosinophilia
-Nervous system disorders
-Very common Headache
-Common Dizziness, confusional state, tremor, agitation, paraesthesia
-Uncommon Brain oedema, ataxia, diplopia, vertigo, hypoaesthesia
-Rare Convulsion, encephalopathy, Guillain-Barre syndrome,
-extrapyramidal symptoms, somnolence during infusion
+Immune system disorders
+Common Sinusitis
+Uncommon Anaphylactoid reaction, hypersensitivity
+Endocrine disorders
+Uncommon Adrenal insufficiency
+Rare Hyperthyroidism, hypothyroidism
+Metabolism and nutrition system disorders
+Common Hypoglycaemia, hypokalaemia
+Psychiatric disorders
 
-| Eye disorders |  |
+| Common | Depression, hallucination, anxiety |
 | --- | --- |
+| Rare | Insomnia |
+| Nervous system disorders |  |
+| Very common | Headache |
+| Common | Dizziness, confusional state, tremor, agitation, paraesthesia |
+| Uncommon | Brain oedema, ataxia, diplopia, vertigo, hypoaesthesia |
+| Rare | Convulsion, encephalopathy, Guillain-Barre syndrome, extrapyramidal symptoms, somnolence during infusion, peripheral neuropathy |
+| Eye disorders |  |
 | Very common | Visual disturbances (including blurred vision (see Section 4.4), chromotopsia and photophobia) |
 | Uncommon | Papilloedema (se Section 4.4), optic nerve disorder (including optic neuritis, see Section 4.4), nystagmus, scleritis, blepharitis |
-| Rare | Retinal haemorrhage, optic atrophy, oculogyration, corneal opacity |
+| Rare | Optic atrophy, Retinal haemorrhage, oculogyration, corneal opacity |
 | Ear and labyrinth disorders |  |
 | Rare | Hypoacusis, tinnitus |
+| Cardiac disorders |  |
+| Very common | Oedema peripheral |
+| Uncommon | Ventricular fibrillation, ventricular arrhythmia, syncope, supraventricular arrhythmia, supraventricular tachycardia, tachycardia, bradycardia |
+| Rare | Torsades de pointes, ventricular tachycardia, atrioventricular complete block, bundle branch block, nodal rhythm |
+| Vascular disorders |  |
+| Common | Thrombophlebitis, Hypotension, phlebitis |
+| Rare | Lymphangitis |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Common | Acute respiratory distress syndrome, pulmonary oedema, respiratory distress, chest pain |
 | Gastrointestinal disorders |  |
 | Very common | Abdominal pain, nausea, vomiting, diarrhoea |
 | Uncommon | Pancreatitis, peritonitis, duodenitis, gingivitis, glossitis, swollen tongue, dyspepsia, constipation |
 | Rare | Dysgeusia |
-| Renal and urinary disorders |  |
-| Common | Renal failure acute, haematuria |
-| Uncommon | Nephritis, proteinuria |
-| Rare | Renal tubular necrosis |
-| Skin and subcutaneous tissue disorders |  |
-| Very common | Rash |
-| Common | Exfoliative dermatitis, face oedema, photosensitivity reaction, maculo-papular rash, macular rash, papular rash, cheilitis, pruritus, alopecia, erythema |
-| Uncommon | Stevens-Johnson syndrome, angioneurotic oedema, allergic dermatitis, urticaria, drug hypersensitivity, psoriasis |
-| Rare | Toxic epidermal necrolysis, erythema multiforme, discoid lupus erythematosis |
-| Musculoskeletal and connective tissue disorders |  |
-| Common | Back pain |
-| Uncommon | Arthritis |
-| Rare | Hypertonia |
-| Endocrine disorders |  |
-| Uncommon | Adrenal insufficiency |
-| Rare | Hyperthyroidism, hypothyroidism |
-| Metabolism and nutrition system disorders |  |
-| Common | Hypoglycaemia, hypokalaemia |
-| Infections and infestation |  |
-| Common | Gastroenteritis, influenza-like illness |
-| Rare | Pseudomembranous colitis |
-| Vascular disorders |  |
-| Common | Hypotension, thrombophlebitis, phlebitis |
-| Rare | Lymphangitis |
-| General disorders and administrative site conditions |  |
-| Very common | Pyrexia |
-| Common | Injection site reaction / inflammation, chills, asthenia, |
-| Immune system disorders |  |
-| Common | Sinusitis |
-| Uncommon | Anaphylactoid reaction, hypersensitivity |
 | Hepato-biliary disorders |  |
 | Common | Jaundice, cholestatic jaundice |
 | Uncommon | Hepatic failure, hepatitis, hepatomegaly, cholecystitis, cholelithiasis |
 | Rare | Hepatic coma |
-| Psychiatric disorders |  |
-| Common | Depression, anxiety, hallucination |
-| Rare | Insomnia |
+| Skin and subcutaneous tissue disorders |  |
+| Very common | Rash |
+| Common | Exfoliative dermatitis, face oedema, photosensitivity reaction, maculo-papular rash, macular rash, papular rash, cheilitis, pruritus, alopecia, erythema |
+| Uncommon | Stevens-Johnson syndrome, angioneurotic oedema, allergic dermatitis, urticaria, drug hypersensitivity, psoriasis |
+| Rare | Toxic epidermal necrolysis, erythema multiforme, discoid lupus erythematosis, pseudoporphyria |
+| Musculoskeletal and connective tissue disorders |  |
+| Common | Back pain |
+| Uncommon | Arthritis |
+| Rare | Hypertonia |
+| Renal and urinary disorders |  |
+| Common | Renal failure acute, haematuria |
+| Uncommon | Proteinuria, nephritis |
+| Rare | Renal tubular necrosis |
+| General disorders and administrative site conditions |  |
+| Very common | Pyrexia |
+| Common | Injection site reaction / inflammation, chills, asthenia, |
+| Investigations |  |
+| Common | Elevated liver function tests (including ASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), blood creatinine increased |
+| Uncommon | Electrocardiogram QT corrected interval prolonged, blood urea increased, blood cholesterol increased |
 
 Infusion-Related Reactions
 During infusion of the intravenous formulation of voriconazole in healthy subjects, anaphylactoid-type reactions, including flushing, fever, sweating, tachycardia, chest tightness, dyspnoea, faintness, nausea, pruritus and rash have occurred.
@@ -269,63 +262,72 @@ Symptoms appeared immediately upon initiating the infusion (see also section 4.4
 
 [VFEND 40 mg/ml powder for oral suspension]
 
-extrapyramidal symptoms
-Eye disorders
-Visual disturbances (including blurred vision (see Section
-Very common
-4.4), chromotopsia and photophobia)
-Uncommon Papilloedema (see Section 4.4), optic nerve disorder
-(including optic neuritis, see Section 4.4), nystagmus,
-scleritis, blepharitis
-Rare Retinal haemorrhage, optic atrophy, oculogyration, corneal
-opacity
-
-| Ear and labyrinth disorders |  |
+| System Organ Class | Adverse drug reactions |
 | --- | --- |
+| Infections and infestation |  |
+| Common | Gastroenteritis, influenza-like illness |
+| Rare | Pseudomembranous colitis |
+| Blood and Lymphatic system disorders |  |
+| Common | Pancytopenia, bone marrow depression, leukopenia, thrombocytopenia, anaemia, purpura |
+| Uncommon | Disseminated intravascular coagulation, agranulocytosis, lymphadenopathy, eosinophilia |
+| Immune system disorders |  |
+| Common | Sinusitis |
+| Uncommon | Anaphylactoid reaction, hypersensitivity |
+| Endocrine disorders |  |
+| Uncommon | Adrenal insufficiency |
+| Rare | Hyperthyroidism, hypothyroidism |
+| Metabolism and nutrition system disorders |  |
+| Common | Hypoglycaemia, hypokalaemia |
+| Psychiatric disorders |  |
+| Common | Depression, hallucination, anxiety |
+| Rare | Insomnia |
+| Nervous system disorders |  |
+| Very common | Headache |
+| Common | Dizziness, confusional state, tremor, agitation, paraesthesia |
+| Uncommon | Brain oedema, ataxia, diplopia, vertigo, hypoaesthesia |
+| Rare | Convulsion, encephalopathy, Guillain-Barre syndrome, extrapyramidal symptoms, peripheral neuropathy |
+| Eye disorders |  |
+| Very common | Visual disturbances (including blurred vision (see Section 4.4), chromotopsia and photophobia) |
+| Uncommon | Papilloedema (see Section 4.4), optic nerve disorder (including optic neuritis, see Section 4.4), nystagmus, scleritis, blepharitis |
+| Rare | Optic atrophy, Retinal haemorrhage, oculogyration, corneal opacity |
+| Ear and labyrinth disorders |  |
 | Rare | Hypoacusis, tinnitus |
+| Cardiac disorders |  |
+| Very common | Oedema peripheral |
+| Uncommon | Ventricular fibrillation, ventricular arrhythmia, syncope, supraventricular arrhythmia, supraventricular tachycardia, tachycardia, bradycardia |
+| Rare | Torsades de pointes, ventricular tachycardia, atrioventricular complete block, bundle branch block, nodal rhythm |
+| Vascular disorders |  |
+| Common | Thrombophlebitis, Hypotension, phlebitis |
+| Rare | Lymphangitis |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Common | Acute respiratory distress syndrome, pulmonary oedema, respiratory distress, chest pain |
 | Gastrointestinal disorders |  |
 | Very common | Abdominal pain, nausea, vomiting, diarrhoea |
 | Uncommon | Pancreatitis, peritonitis, duodenitis, gingivitis, glossitis, swollen tongue, dyspepsia, constipation |
 | Rare | Dysgeusia |
-| Renal and urinary disorders |  |
-| Common | Renal failure acute, haematuria |
-| Uncommon | Nephritis, proteinuria |
-| Rare | Renal tubular necrosis |
-| Skin and subcutaneous tissue disorders |  |
-| Very common | Rash |
-| Common | Exfoliative dermatitis, face oedema, photosensitivity reaction, maculo-papular rash, macular rash, papular rash, cheilitis, pruritus, alopecia, erythema |
-| Uncommon | Stevens-Johnson syndrome, angioneurotic oedema, allergic dermatitis, urticaria, drug hypersensitivity, psoriasis |
-| Rare | Toxic epidermal necrolysis, erythema multiforme, discoid lupus erythematosis |
-| Musculoskeletal and connective tissue disorders |  |
-| Common | Back pain |
-| Uncommon | Arthritis |
-| Rare | Hypertonia |
-| Endocrine disorders |  |
-| Uncommon | Adrenal insufficiency |
-| Rare | Hyperthyroidism, hypothyroidism |
-| Metabolism and nutrition system disorders |  |
-| Common | Hypoglycaemia, hypokalaemia |
-| Infections and infestation |  |
-| Common | Gastroenteritis, influenza-like illness |
-| Rare | Pseudomembranous colitis |
-| Vascular disorders |  |
-| Common | Hypotension, thrombophlebitis, phlebitis |
-| Rare | Lymphangitis |
-| General disorders and administrative site conditions |  |
-| Very common | Pyrexia |
-| Common | Injection site reaction / inflammation, chills, asthenia, |
-| Immune system disorders |  |
-| Common | Sinusitis |
-| Uncommon | Anaphylactoid reaction, hypersensitivity |
 | Hepato-biliary disorders |  |
 | Common | Jaundice, cholestatic jaundice |
 | Uncommon | Hepatic failure, hepatitis, hepatomegaly, cholecystitis, cholelithiasis |
 | Rare | Hepatic coma |
-| Psychiatric disorders |  |
-| Common | Depression, anxiety, hallucination |
-| Rare | Insomnia |
+| Skin and subcutaneous tissue disorders |  |
+| Very common | Rash |
+| Common | Exfoliative dermatitis, face oedema, photosensitivity reaction, maculo-papular rash, macular rash, papular rash, cheilitis, pruritus, alopecia, erythema |
+| Uncommon | Stevens-Johnson syndrome, angioneurotic oedema, allergic dermatitis, urticaria, drug hypersensitivity, psoriasis |
+| Rare | Toxic epidermal necrolysis, erythema multiforme, discoid lupus erythematosis, pseudoporphyria |
+| Musculoskeletal and connective tissue disorders |  |
+| Common | Back pain |
+| Uncommon | Arthritis |
+| Rare | Hypertonia |
+| Renal and urinary disorders |  |
+| Common | Renal failure acute, haematuria |
+| Uncommon | Proteinuria, nephritis |
+| Rare | Renal tubular necrosis |
+| General disorders and administrative site conditions |  |
+| Very common | Pyrexia |
+| Common | Injection site reaction / inflammation, chills, asthenia, |
+| Investigations |  |
+| Common | Elevated liver function tests (including ASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), blood creatinine increased |
+| Uncommon | Electrocardiogram QT corrected interval prolonged, blood urea increased, blood cholesterol increased |
 
 Altered taste perception
 In the combined data from three bioequivalence studies using the powder for oral suspension formulation, treatment related taste perversion was recorded in 12 (14 %) of subjects.

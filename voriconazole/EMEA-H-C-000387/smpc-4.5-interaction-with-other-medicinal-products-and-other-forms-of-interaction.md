@@ -2,6 +2,7 @@
 
 Unless otherwise specified, drug interaction studies have been performed in healthy adult male subjects using multiple dosing to steady state with oral voriconazole at 200 mg twice daily.
 These results are relevant to other populations and routes of administration.
+
 This section addresses the effects of other medicinal products on voriconazole, the effects of voriconazole on other medicinal products and two-way interactions.
 The interactions for the first two sections are presented in the following order: contraindications, those requiring dosage adjustment and careful clinical and/or biological monitoring and finally those that have no significant pharmacokinetic interaction but may be of clinical interest in this therapeutic field.
 
@@ -27,7 +28,6 @@ No dosage adjustment of voriconazole is recommended.
 Ranitidine (increases gastric pH): Ranitidine (150 mg twice daily) had no significant effect on voriconazole Cmax and AUCτ.
 
 Macrolide antibiotics: Erythromycin (CYP3A4 inhibitor; 1 g twice daily) and azithromycin (500 mg once daily) had no significant effect on voriconazole Cmax and AUCτ.
-
 St John’s Wort (CYP450 inducer; P-gp inducer): In a clinical study in healthy volunteers, St John’s Wort exhibited a short initial inhibitory effect followed by induction of voriconazole metabolism.
 After 15 days of treatment with St John’s Wort (300 mg three times daily), plasma exposure following a single 400 mg dose of voriconazole decreased by 40-60%.
 Therefore, concomitant use of voriconazole with St John’s Wort is contraindicated (see section 4.3).
@@ -35,6 +35,7 @@ Therefore, concomitant use of voriconazole with St John’s Wort is contraindica
 Effects of voriconazole on other medicinal products
 Voriconazole inhibits the activity of cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
 Therefore there is potential for voriconazole to increase the plasma levels of substances metabolised by these CYP450 isoenzymes.
+
 Voriconazole should be administered with caution in patients with concomitant medication that is known to prolong QT interval.
 When there is also a potential for voriconazole to increase the plasma levels of substances metabolised by CYP3A4 isoenzymes (certain antihistamines, quinidine, cisapride, pimozide) co-administration is contraindicated (see below and section 4.3).
 
@@ -69,6 +70,7 @@ Oral anticoagulants:
 
 Warfarin (CYP2C9 substrate): Coadministration of voriconazole (300 mg twice daily) with warfarin (30 mg single dose) increased maximum prothrombin time by 93 %.
 Close monitoring of prothrombin time is recommended if warfarin and voriconazole are coadministered.
+
 Other oral anticoagulants e.g. phenprocoumon, acenocoumarol (CYP2C9, CYP3A4 substrates): Although not studied, voriconazole may increase the plasma concentrations of coumarins and therefore may cause an increase in prothrombin time.
 If patients receiving coumarin preparations are treated simultaneously with voriconazole, the prothrombin time should be monitored at close intervals and the dosage of anticoagulants adjusted accordingly.
 
@@ -201,7 +203,6 @@ Oral anticoagulants: Warfarin (CYP2C9 substrate): Coadministration of voriconazo
 
 Therefore, voriconazole is likely to increase the plasma levels of benzodiazepines that are metabolised by CYP3A4 (e.g. midazolam and triazolam) and lead to a prolonged sedative effect.
 
-Rifabutin (CYP450 inducer): Concomitant use of voriconazole and rifabutin should be avoided unless the benefit outweighs the risk.Rifabutin (300 mg once daily) decreased the Cmax and AUCτ of voriconazole at 200 mg twice daily by 69 % and 78 %, respectively.
 At a voriconazole dose of 400 mg twice daily C max and AUCτ were 104 % and 87 % higher, respectively, compared with voriconazole alone at 200 mg twice daily.
 
 If rifabutin coadministration with voriconazole is justified then the maintenance dose of voriconazole may be increased to 5 mg/kg intravenously twice daily or from 200 mg to 350 mg orally, twice daily (100 mg to 200 mg orally, twice daily in patients less than 40kg) (see section 4.2).
@@ -214,12 +215,8 @@ In a separate study in healthy subjects voriconazole dose of 300 mg BID in combi
 
 Rifampicin (CYP450 inducer): Rifampicin (600 mg once daily) decreased the Cmax (maximum plasma concentration) and AUCτ (area under the plasma concentration time curve within a dose interval) of voriconazole by 9 3% and 96 %, respectively.
 
-One outlier subject with raised voriconazole levels was identified in each of the ritonavir interaction studies.Coadministration of voriconazole and ritonavir (400 mg and above twice daily) is contraindicated.
+Coadministration of voriconazole and ritonavir (400 mg and above twice daily) is contraindicated.
 
 Reduction in the dose of alfentanil and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g. fentanyl and sufentanil) should be considered when coadministered with voriconazole (see section 4.4).
 
-Phenytoin (CYP2C9 substrate and potent CYP450 inducer): Concomitant use of voricoazole and phenytoin should be avoided unless the benefit outweighs the risk.
-
 Careful monitoring of full blood counts and adverse reactions to rifabutin (e.g. uveitis) is recommended when rifabutin is coadministered with voriconazole.
-
-In a separate study in healthy subjects, voriconazole dose of 300 mg BID in combination with low dose efavirenz (300 mg once daily) did not lead to sufficient voriconzole exposure.

@@ -44,6 +44,7 @@ Required Volumes of 10 mg/ml VFEND Concentrate
 Voriconazole is a single dose unpreserved sterile lyophile.
 Therefore, from a microbiological point of view, the reconstituted solution must be used immediately.
 If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8°C, unless reconstitution has taken place in controlled and validated aseptic conditions.
+
 The reconstituted solution can be diluted with:
 
 9 mg/ml (0.9 %) Sodium Chloride for Infusion

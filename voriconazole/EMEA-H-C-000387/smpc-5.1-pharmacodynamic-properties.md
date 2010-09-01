@@ -12,7 +12,6 @@ In animal studies there is a correlation between minimum inhibitory concentratio
 By contrast, in clinical studies, there appears to be no correlation between minimum inhibitory concentration values and clinical outcome.
 Furthermore, there does not appear to be a correlation between plasma levels and clinical outcome.
 This is typical of azole antimycotics.
-
 Microbiology
 Clinical efficacy (with partial or complete response, see below under Clinical Experience) has been demonstrated for Aspergillus spp. including A. flavus, A. fumigatus, A. terreus, A. niger, A. nidulans, Candida spp., including C. albicans, C. glabrata, C. krusei, C. parapsilosis and C. tropicalis and limited numbers of C. dubliniensis, C. inconspicua, and C. guilliermondii, Scedosporium spp., including S. apiospermum, S. prolificans and Fusarium spp.
 
@@ -21,6 +20,7 @@ Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladospo
 Trichosporon spp. including T. beigelii infections.
 
 In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2µg/ml.
+
 In vitro activity against the following pathogens has been shown, but the clinical significance is unknown: Curvularia spp. and Sporothrix spp.
 
 Specimens for fungal culture and other relevant laboratory studies (serology, histopathology) should be obtained prior to therapy to isolate and identify causative organisms.
@@ -81,7 +81,6 @@ Of these 7 patients, 3 had eye, 1 had sinus, and 3 had disseminated infection.
 Four additional patients with fusariosis had an infection caused by several organisms; two of them had a successful outcome.
 
 The majority of patients receiving voriconazole treatment of the above mentioned rare infections were intolerant of, or refractory to, prior antifungal therapy.
-
 Duration of treatment
 In clinical trials, 561 patients received voriconazole therapy for greater than 12 weeks, with 136 patients receiving voriconazole for over 6 months.
 
@@ -108,8 +107,6 @@ Voriconazole has in vitro fungicidal activity against Aspergillus spp.
 [VFEND 200 mg powder for solution for infusion]
 
 Other treated fungal infections (with often partial or complete response, see below under Clinical Experience) included isolated cases of Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and Trichosporon spp. including T. beigelii infections.
-
-Succesful outcome in this section is defined as complete or partial response.
 
 | Timepoint | Voriconazole (N=248) | Amphotericin B → fluconazole (N=122) |
 | --- | --- | --- |

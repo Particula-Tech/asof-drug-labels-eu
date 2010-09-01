@@ -23,7 +23,6 @@ Cerebrospinal fluid samples from eight patients in a compassionate programme sho
 
 Metabolism
 In vitro studies showed that voriconazole is metabolised by the hepatic cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
-
 The inter-individual variability of voriconazole pharmacokinetics is high.
 
 In vivo studies indicated that CYP2C19 is significantly involved in the metabolism of voriconazole.
@@ -38,6 +37,7 @@ This metabolite has minimal antifungal activity and does not contribute to the o
 
 Excretion
 Voriconazole is eliminated via hepatic metabolism with less than 2 % of the dose excreted unchanged in the urine.
+
 After administration of a radiolabelled dose of voriconazole, approximately 80 % of the radioactivity is recovered in the urine after multiple intravenous dosing and 83 % in the urine after multiple oral dosing.
 The majority (> 94 %) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
 
@@ -62,7 +62,6 @@ Therefore, no dosage adjustment based on gender is necessary.
 Elderly
 In an oral multiple dose study Cmax and AUCτ in healthy elderly males (≥ 65 years) were 61 % and 86 % higher, respectively, than in healthy young males (18-45 years).
 No significant differences in Cmax and AUCτ were observed between healthy elderly females (≥ 65 years) and healthy young females (18- 45 years).
-
 In the therapeutic studies no dosage adjustment was made on the basis of age.
 A relationship between plasma concentrations and age was observed.
 The safety profile of voriconazole in young and elderly patients was similar and, therefore, no dosage adjustment is necessary for the elderly (see section 4.2).
@@ -75,6 +74,7 @@ Based on the population pharmacokinetic analysis, no dosage adjustment according
 A loading dose is not indicated in paediatric patients.
 Oral bioavailability may, however, be limited in paediatric patients with malabsorption and very low body weight for their age.
 In that case, intravenous voriconazole administration is recommended.
+
 Renal impairment
 In an oral single dose (200 mg) study in subjects with normal renal function and mild (creatinine clearance 41-60 ml/min) to severe (creatinine clearance <20 ml/min) renal impairment, the pharmacokinetics of voriconazole were not significantly affected by renal impairment.
 The plasma protein binding of voriconazole was similar in subjects with different degrees of renal impairment.
@@ -88,8 +88,6 @@ In an oral multiple dose study, AUCτ was similar in subjects with moderate hepa
 No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh C). See dosing and monitoring recommendations under sections 4.2 and 4.4.
 
 [VFEND 200 mg film-coated tablets]
-
-Cerebrospinal fluid samples from eight patients in a compassionate programme showed detectable oriconazole concentrations in all patients.
 
 The majority (>94 %) of the total radioactivity is excreted in the first 96 hours after both oral and intravenous dosing.
 

@@ -33,7 +33,10 @@ Rifabutin may be coadministered with voriconazole if the maintenance dose of vor
 Efavirenz may be coadministered with voriconazole if the maintenance dose of voriconazole is increased to 400 mg every 12 hours and the efavirenz dose is reduced by 50%, i.e. to 300 mg once daily.
 When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored (see sections 4.4 and 4.5).
 
-Treatment duration depends upon patients’ clinical and mycological response.
+Treatment should be as short as possible depending on the patients’ clinical and mycological response.
+
+For long term treatment greater than 6 months, a careful assessment of the benefit-risk balance should be considered.
+See section 4.4 Special warnings and precautions for use (Dermatological adverse events) and section 5.1 Pharmacodynamic properties (Duration of treatment).
 
 Use in the elderly
 No dose adjustment is necessary for elderly patients (see section 5.2).
@@ -47,6 +50,7 @@ A four hour haemodialysis session does not remove a sufficient amount of voricon
 
 Use in patients with hepatic impairment
 No dose adjustment is necessary in patients with acute hepatic injury, manifested by elevated liver function tests (ALAT, ASAT) (but continued monitoring of liver function tests for further elevations is recommended).
+
 It is recommended that the standard loading dose regimens be used but that the maintenance dose be halved in patients with mild to moderate hepatic cirrhosis (Child-Pugh A and B) receiving VFEND (see section 5.2).
 
 VFEND has not been studied in patients with severe chronic hepatic cirrhosis (Child-Pugh C).
@@ -87,7 +91,7 @@ VFEND is also available as 50 mg film-coated tablets, 200 mg powder for solution
 | (first 24 hours) |  |  |  |
 | Maintenance Dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg twice daily | 100 mg twice daily |
 
-A four hour haemodialysis session does not remove sufficient amount of voriconazole to warrant dose adjustement.
+A four hour haemodialysis session does not remove sufficient amount of voriconazole to warrant dose adjustment.
 
 [VFEND 200 mg powder for solution for infusion]
 
@@ -105,7 +109,13 @@ If patients are unable to tolerate treatment at 4 mg/kg twice daily, reduce the 
 
 Rifabutin or phenytoin may be coadministered with voriconazole if the maintenance dose of voriconazole is increased to 5 mg/kg intravenously twice daily, see sections 4.4 and 4.5.
 
-The duration of treatment with the intravenous formulation should be no longer than 6 months (see section 5.3).
+Treatment should be as short as possible depending on the patients’ clinical andmycological response.
+
+The duration of treatment with the intravenous formulation should be no longer than 6 months.
+See section 5.3 (preclinical safety data).
+For voriconazole in general, long term treatment greater than 6 months requires careful assessment of the benefit-risk balance.
+See section 4.4 Special warnings and precautions for use (Dermatological adverse events), section 5.1
+Pharmacodynamic properties (Duration of treatment).
 
 In patients with moderate to severe renal dysfunction (creatinine clearance < 50 ml/min), accumulation of the intravenous vehicle, SBECD, occurs.
 Oral voriconazole should be administered to these patients, unless an assessment of the risk benefit to the patient justifies the use of intravenous voriconazole.
@@ -117,7 +127,7 @@ Patients with severe hepatic impairment must be carefully monitored for drug tox
 
 |  | Intravenous* | Oral** |
 | --- | --- | --- |
-|  | No oral or intraveneous loading dose is recommended |  |
+|  | No oral or intravenous loading dose is recommended |  |
 | Maintenance Dose | 7 mg/kg twice daily | 200 mg twice daily |
 
 If paediatric patients are unable to tolerate an intravenous dose of 7 mg/kg twice daily, a dose reduction from 7 mg/kg to 4 mg/kg twice daily may be considered based on the population pharmacokinetic analysis and previous clinical experience.

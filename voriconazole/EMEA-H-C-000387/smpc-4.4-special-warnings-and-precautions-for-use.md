@@ -28,16 +28,21 @@ Visual adverse events: There have been reports of prolonged visual adverse event
 
 Renal adverse events: Acute renal failure has been observed in severely ill patients undergoing treatment with VFEND.
 Patients being treated with voriconazole are likely to be treated concomitantly with nephrotoxic medications and have concurrent conditions that may result in decreased renal function (see section 4.8).
+
 Monitoring of renal function: Patients should be monitored for the development of abnormal renal function.
 This should include laboratory evaluation, particularly serum creatinine.
 
-Monitoring of pancreatic function: Patients, especially children, with risk factors for acute pancreatitis (e.g. recent chemotherapy, hematopoietic stem cell translplantation (HSCT)), should be monitored closely during Vfend treatment.
+Monitoring of pancreatic function: Patients, especially children, with risk factors for acute pancreatitis (e.g. recent chemotherapy, hematopoietic stem cell transplantation (HSCT)), should be monitored closely during Vfend treatment.
 Monitoring of serum amylase or lipase may be considered in this clinical situation.
 
-Dermatological reactions: Patients have rarely developed exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, during treatment with VFEND.
+Dermatological adverse events: Patients have rarely developed exfoliative cutaneous reactions, such as Stevens-Johnson syndrome, during treatment with VFEND.
 If patients develop a rash they should be monitored closely and VFEND discontinued if lesions progress.
-In addition VFEND has been associated with photosensitivity skin reaction especially during long term therapy.
-It is recommended that patients should be informed to avoid sunlight during the treatment.
+
+In addition VFEND has been associated with phototoxicity and pseudoporphyria.
+It is recommended that patients avoid intense or prolonged exposure to direct sunlight during VFEND treatment and use measures such as protective clothing and sunscreen when appropriate.
+In patients with phototoxicity and additional risk factors, including immunosuppression, squamous cell carcinoma of the skin has been reported during long-term therapy.
+Physicians should therefore consider the need to limit the exposure to VFEND (see Section 4.2 (Posology and method of administration) and Section 5.1 Pharmacodynamic properties (Duration of treatment).
+If a patient develops a skin lesion consistent with squamous cell carcinoma, VFEND discontinuation should be considered.
 
 Paediatric use: Safety and effectiveness in paediatric subjects below the age of two years has not been established (see also sections 4.8 and 5.1).
 Voriconazole is indicated for paediatric patients aged two years or older.
@@ -79,12 +84,20 @@ Efavirenz (CYP450 inducer; CYP3A4 inhibitor and substrate): When voriconazole is
 
 [VFEND 200 mg powder for solution for infusion]
 
+Duration of treatment:
+The duration of treatment with the intravenous formulation should be no longer than 6 months.
+See section 5.3 (Preclinical safety data).
+
   A study has been conducted in healthy volunteers which examined the effect on QT interval of single doses of voriconazole up to four times the usual daily dose.
 
 Infusion-related reactions: Infusion-related reactions, predominantly flushing and nausea, have been observed during administration of the intravenous formulation of voriconazole.
 Depending on the severity of symptoms, consideration should be given to stopping treatment (see section 4.8).
 
 Patient being treated with voriconazole are likely to be treated concomitantly with nephrotoxic medications and have concurrent conditions that may result in decreased renal function (see section 4.8).
+
+Monitoring of pancreatic function: Patients, especially children, with risk factors for acute pancreatitis (e.g. recent chemotherapy, hematopoietic stem cell translplantation (HSCT)), should be monitored closely during Vfend treatment.
+
+Physicians should therefore consider the need to limit the exposure to VFEND (see Section 4.2 Posology and method of administration and section 5.1 Pharmacodynamic properties (Duration of treatment).
 
 As the half-life of alfentanil is prolonged in a four-fold manner when alfentanyl is coadministered with voriconazole, a longer respiratory monitoring period may be necessary.
 
@@ -93,7 +106,8 @@ This should be taken into consideration for patients on a controlled sodium diet
 
 [VFEND 40 mg/ml powder for oral suspension]
 
-In addition VFEND has been associated with photosensitivity skin reaction especially during long-term therapy.
+In addition VFEND has been associated withphototoxicity and pseudoporphyria.
+Physicians should therefore consider the need to limit the exposure to VFEND (see Section 4.2 (Posology and method of administration) and 5.1 Pharmacodynamic properties (Duration of treatment).
 
 Rifabutin (CYP450 inducer): Careful monitoring of full blood counts and adverse reactions to rifabutin (e.g. uveitis) is recommended when rifabutin is coadministered with voriconazole.
 
