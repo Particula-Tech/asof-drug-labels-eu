@@ -1,9 +1,9 @@
 # 6.1 List of excipients
 
 Core:
-Sodium croscarmellose
+Croscarmellose sodium
 Macrogol 6000
-Colloidal anhydrous silica
+Silica colloidal anhydrous
 Magnesium stearate
 
 Film-coating Opadry 85F20694:
@@ -13,23 +13,23 @@ Macrogol 3350
 Talc
 Indigo carmine aluminium lake (E132)
 
-[Keppra 500 mg film-coated tablets.]
+[Keppra 500 mg film-coated tablets]
 
 Film-coating Opadry 85F32004:
 Polyvinyl alcohol-part. hydrolyzed
 Iron oxide yellow (E172)
 
-[Keppra 750 mg film-coated tablets.]
+[Keppra 750 mg film-coated tablets]
 
 Film-coating Opadry 85F23452:
 Sunset yellow FCF aluminium lake (E110)
 Iron oxide red (E172)
 
-[Keppra 1000 mg film-coated tablets.]
+[Keppra 1000 mg film-coated tablets]
 
 Film-coating Opadry 85F18422:
 
-[Keppra 100 mg/ml oral solution.]
+[Keppra 100 mg/ml oral solution]
 
 Sodium citrate
 Citric acid monohydrate
@@ -42,9 +42,9 @@ Acesulfame potassium (E950)
 Grape flavour
 Purified water
 
-[Keppra 100 mg/ml concentrate for solution for infusion.]
+[Keppra 100 mg/ml concentrate for solution for infusion]
 
 Sodium acetate
 Glacial acetic acid
 Sodium chloride
-Water for injection
+Water for injections

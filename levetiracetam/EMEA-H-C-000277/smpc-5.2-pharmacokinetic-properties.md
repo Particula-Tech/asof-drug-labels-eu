@@ -41,7 +41,6 @@ One was obtained by hydroxylation of the pyrrolidone ring (1.6 % of the dose) an
 Other unidentified components accounted only for 0.6 % of the dose.
 
 No enantiomeric interconversion was evidenced in vivo for either levetiracetam or its primary metabolite.
-
 In vitro, levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C9, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1A1 AND UGT1A6]) and epoxide hydroxylase activities.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 In human hepatocytes in culture, levetiracetam had little or no effect on CYP1A2, SULT1E1 or UGT1A1.
@@ -65,10 +64,25 @@ Elderly
 In the elderly, the half-life is increased by about 40 % (10 to 11 hours).
 This is related to the decrease in renal function in this population (see section 4.2).
 
+Renal impairment
+
+The apparent body clearance of both levetiracetam and of its primary metabolite is correlated to the creatinine clearance.
+It is therefore recommended to adjust the maintenance daily dose of Keppra, based on creatinine clearance in patients with moderate and severe renal impairment (see section 4.2).
+
+In anuric end-stage renal disease adult subjects the half-life was approximately 25 and 3.1 hours during interdialytic and intradialytic periods, respectively.
+The fractional removal of levetiracetam was 51 % during a typical 4-hour dialysis session.
+
+Hepatic impairment
+
+In subjects with mild and moderate hepatic impairment, there was no relevant modification of the clearance of levetiracetam.
+In most subjects with severe hepatic impairment, the clearance of levetiracetam was reduced by more than 50 % due to a concomitant renal impairment (see section 4.2).
+
+Peadiatric population
+
 Children (4 to 12 years)
+
 Following single oral dose administration (20 mg/kg) to epileptic children (6 to 12 years), the half-life of levetiracetam was 6.0 hours.
 The apparent body weight adjusted clearance was approximately 30 % higher than in epileptic adults.
-
 Following repeated oral dose administration (20 to 60 mg/kg/day) to epileptic children (4 to 12 years), levetiracetam was rapidly absorbed.
 Peak plasma concentration was observed 0.5 to 1.0 hour after dosing.
 Linear and dose proportional increases were observed for peak plasma concentrations and area under the curve.
@@ -85,44 +99,32 @@ In the population pharmacokinetic analysis conducted in patients from 1 month to
 Age also had an influence on both parameters.
 This effect was pronounced for the younger infants, and subsided as age increased, to become negligible around 4 years of age.
 
-In both population pharmacokinetic analyses, there was about a 20% increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED.
+In both population pharmacokinetic analyses, there was about a 20 % increase of apparent clearance of levetiracetam when it was co-administered with an enzyme-inducing AED.
 
-Renal impairment
-
-The apparent body clearance of both levetiracetam and of its primary metabolite is correlated to the creatinine clearance.
-It is therefore recommended to adjust the maintenance daily dose of Keppra, based on creatinine clearance in patients with moderate and severe renal impairment (see section 4.2).
-
-In anuric end-stage renal disease adult subjects the half-life was approximately 25 and 3.1 hours during interdialytic and intradialytic periods, respectively.
-The fractional removal of levetiracetam was 51 % during a typical 4-hour dialysis session.
-
-Hepatic impairment
-
-In subjects with mild and moderate hepatic impairment, there was no relevant modification of the clearance of levetiracetam.
-In most subjects with severe hepatic impairment, the clearance of levetiracetam was reduced by more than 50 % due to a concomitant renal impairment (see section 4.2).
-
-[Keppra 500 mg film-coated tablets.]
+[Keppra 500 mg film-coated tablets]
 
 In vitro, levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C9, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1A1 and UGT1A6) and epoxide hydroxylase activities.
 
-[Keppra 750 mg film-coated tablets.]
+[Keppra 750 mg film-coated tablets]
 
 (all sentences already above)
 
-[Keppra 1000 mg film-coated tablets.]
+[Keppra 1000 mg film-coated tablets]
 
 Linear and dose proportional increases were observed for peak plasma concentration and area under the curve.
 
-[Keppra 100 mg/ml oral solution.]
+[Keppra 100 mg/ml oral solution]
 
 (all sentences already above)
 
-[Keppra 100 mg/ml concentrate for solution for infusion.]
+[Keppra 100 mg/ml concentrate for solution for infusion]
 
 The pharmacokinetic profile has been characterized following oral administration.
 A single dose of 1500 mg levetiracetam diluted in 100 ml of a compatible diluent and infused intravenously over 15 minutes is bioequivalent to 1500 mg levetiracetam oral intake, given as three 500 mg tablets.
 
-The intravenous administration of doses up to 4000 mg diluted in 100 ml of 0.9% sodium chloride infused over 15 minutes and doses up to 2500 mg diluted in 100 ml of 0.9% sodium chloride infused over 5 minutes was evaluated.
+The intravenous administration of doses up to 4000 mg diluted in 100 ml of 0.9 % sodium chloride infused over 15 minutes and doses up to 2500 mg diluted in 100 ml of 0.9 % sodium chloride infused over 5 minutes was evaluated.
 The pharmacokinetic and safety profiles did not identify any safety concerns.
+
 The time independent pharmacokinetic profile of levetiracetam was also confirmed following 1500 mg intravenous infusion for 4 days with b.i.d dosing.
 
 Peak plasma concentration (Cmax) observed in 17 subjects following a single intravenous dose of 1500 mg infused over 15 minutes was 51 ± 19 µg/mL (arithmetic average ± standard deviation).

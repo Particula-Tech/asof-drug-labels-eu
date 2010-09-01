@@ -1,27 +1,26 @@
-# 6.6 Special precautions for disposal and other handling
+# 6.6 Special precautions for disposal
 
 No special requirements.
 
-[Keppra 500 mg film-coated tablets.]
+[Keppra 500 mg film-coated tablets]
 
 (all sentences already above)
 
-[Keppra 750 mg film-coated tablets.]
+[Keppra 750 mg film-coated tablets]
 
 (all sentences already above)
 
-[Keppra 1000 mg film-coated tablets.]
+[Keppra 1000 mg film-coated tablets]
 
 (all sentences already above)
 
-[Keppra 100 mg/ml oral solution.]
+[Keppra 100 mg/ml oral solution]
 
 (all sentences already above)
 
-[Keppra 100 mg/ml concentrate for solution for infusion.]
+[Keppra 100 mg/ml concentrate for solution for infusion]
 
-One vial of Keppra concentrate contains 500 mg levetiracetam (5 ml concentrate of 100 mg/ml ).
-See Table 1 for the recommended preparation and administration of Keppra concentrate to achieve a total daily dose of 500 mg, 1000 mg, 2000 mg, or 3000 mg in two divided doses.
+See Table 1 for the recommended preparation and administration of Keppra concentrate to achieve a total daily dose of 500 mg, 1,000 mg, 2,000 mg, or 3,000 mg in two divided doses.
 
 Table 1.
 Preparation and administration of Keppra concentrate
@@ -42,4 +41,5 @@ Diluents:
 - Lactated Ringer’s injection
 - Dextrose 5% injection
 
-Product with particulate matter or discoloration should not be used.
+Medicinal product with particulate matter or discoloration should not be used.
+Any unused medicinal product or waste material should be disposed of in accordance with local requirements.
