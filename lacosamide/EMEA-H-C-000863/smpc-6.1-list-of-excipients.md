@@ -4,23 +4,23 @@ Tablet core:
 microcrystalline cellulose hydroxypropylcellulose hydroxypropylcellulose (low substituted) silica, colloidal, anhydrous crospovidone magnesium stearate
 
 Tablet coat:
-polyvinyl alcohol polyethylene glycol 400, 3350 and 8000 talc soya-lecithin hypromellose titanium dioxide (E171) red iron oxide (E172), black iron oxide (E172), indigo carmine aluminium lake (E132)
+polyvinyl alcohol polyethylene glycol 3350 talc titanium dioxide (E171) red iron oxide (E172), black iron oxide (E172), indigo carmine aluminium lake (E132)
 
 [Vimpat 100 mg film-coated tablets]
 
-polyvinyl alcohol polyethylene glycol 400, 3350 and 8000 talc soya-lecithin hypromellose titanium dioxide (E171) yellow iron oxide (E172)
+polyvinyl alcohol polyethylene glycol 3350 talc titanium dioxide (E171) yellow iron oxide (E172)
 
 [Vimpat 150 mg film-coated tablets]
 
-polyvinyl alcohol polyethylene glycol 400, 3350 and 8000 talc soya-lecithin hypromellose titanium dioxide (E171) yellow iron oxide (E172), red iron oxide (E172), black iron oxide (E172)
+polyvinyl alcohol polyethylene glycol 3350 talc titanium dioxide (E171) yellow iron oxide (E172), red iron oxide (E172), black iron oxide (E172)
 
 [Vimpat 200 mg film-coated tablets]
 
-polyvinyl alcohol polyethylene glycol 400, 3350 and 8000 talc soya-lecithin hypromellose titanium dioxide (E171) indigo carmine aluminium lake (E132)
+polyvinyl alcohol polyethylene glycol 3350 talc titanium dioxide (E171) indigo carmine aluminium lake (E132)
 
 [Vimpat 50 mg film-coated tablets (SmPC 5)]
 
-polyvinyl alcohol polyethylene glycol 400, 3350 and 8000 talc soya-lecithin hypromellose titanium dioxide (E171)
+polyvinyl alcohol polyethylene glycol 3350 talc titanium dioxide (E171)
 
 50 mg tablet: red iron oxide (E172), black iron oxide (E172), indigo carmine aluminium lake (E132) 100 mg tablet: yellow iron oxide (E172)
 150 mg tablet: yellow iron oxide (E172), red iron oxide (E172), black iron oxide (E172)

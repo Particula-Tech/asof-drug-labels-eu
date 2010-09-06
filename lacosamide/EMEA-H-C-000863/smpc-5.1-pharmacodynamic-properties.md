@@ -5,8 +5,7 @@ The active substance, lacosamide (R-2-acetamido-N-benzyl-3-methoxypropionamide) 
 
 Mechanism of action
 The precise mechanism by which lacosamide exerts its antiepileptic effect in humans remains to be fully elucidated.
-Two observations that may be of relevance for the observed therapeutic effects are: In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes.
-Further, lacosamide binds to collapsin response mediator protein-2 (CRMP-2), a phosphoprotein which is mainly expressed in the nervous system and is involved in neuronal differentiation and control of axonal outgrowth.
+In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes.
 
 Pharmacodynamic effects
 Lacosamide protected against seizures in a broad range of animal models of partial and primary generalized seizures and delayed kindling development.
@@ -20,3 +19,28 @@ The maximum recommended dose is 400 mg/day.
 These trials, involving 1308 patients with a history of an average of 23 years of partial-onset seizures, were designed to evaluate the efficacy and safety of lacosamide when administered concomitantly with 1-3 antiepileptic drugs in patients with uncontrolled partial-onset seizures with or without secondary generalisation.
 Overall the proportion of subjects with a 50% reduction in seizure frequency was 23%, 34%, and 40% for placebo, lacosamide 200 mg/day and lacosamide 400 mg/day.
 There are insufficient data regarding the withdrawal of concomitant antiepileptic medicinal products to achieve monotherapy with lacosamide.
+
+[Vimpat 100 mg film-coated tablets]
+
+(all sentences already above)
+
+[Vimpat 150 mg film-coated tablets]
+
+(all sentences already above)
+
+[Vimpat 200 mg film-coated tablets]
+
+Two observations that may be of relevance for the observed therapeutic effects are: In vitro electrophysiological studies have shown that lacosamide selectively enhances slow inactivation of voltage-gated sodium channels, resulting in stabilization of hyperexcitable neuronal membranes.
+Further, lacosamide binds to collapsin response mediator protein-2 (CRMP-2), a phosphoprotein which is mainly expressed in the nervous system and is involved in neuronal differentiation and control of axonal outgrowth.
+
+[Vimpat 50 mg film-coated tablets (SmPC 5)]
+
+(all sentences already above)
+
+[Vimpat 15 mg/ml syrup]
+
+(all sentences already above)
+
+[Vimpat 10 mg/ml solution for infusion]
+
+(all sentences already above)

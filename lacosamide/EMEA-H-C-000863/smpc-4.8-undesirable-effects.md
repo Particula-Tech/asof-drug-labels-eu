@@ -52,14 +52,22 @@ The incidence rate for syncope is uncommon and did not differ between lacosamide
 | Psychiatric disorders |  | Depression Confusional state(1) |  |
 | Nervous system disorders | Dizziness Headache | Balance disorder Coordination abnormal Memory impairment Cognitive disorder Somnolence Tremor Nystagmus Hypoesthesia(1) Dysarthria(1) Disturbance in attention(1) |  |
 | Eye disorders | Diplopia | Vision blurred |  |
-| Ear and labyrinth |  | Vertigo |  |
-| disorders |  | Tinnitus(1) |  |
+| Ear and labyrinth disorders |  | Vertigo Tinnitus(1) |  |
 | Cardiac disorders |  |  | Atrioventricular block(2) Bradycardia(2) |
-| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia(1) Dry mouth(1) |  |
-| Skin and subcutaneous tissue disorders |  | Pruritus Rash(2) |  |
-| Musculoskeletal and connective tissue disorders |  | Muscle spasms(1) |  |
-| General disorders and administration site conditions |  | Gait disturbance Asthenia Fatigue Irritability(1) |  |
-| Injury, poisoning and procedural complications |  | Fall Skin laceration |  |
+| Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia(1) |  |
+
+Dry mouth(1)
+Skin and subcutaneous Pruritus
+tissue disorders Rash(2)
+Musculoskeletal and Muscle spasms(1)
+connective tissue
+disorders
+General disorders and Gait disturbance
+administration site Asthenia
+conditions Fatigue
+Irritability(1)
+Injury, poisoning and Fall
+procedural complications Skin laceration
 
 [Vimpat 15 mg/ml syrup]
 
@@ -73,13 +81,6 @@ The incidence rate for syncope is uncommon and did not differ between lacosamide
 | Gastrointestinal disorders | Nausea | Vomiting Constipation Flatulence Dyspepsia(1) Dry mouth(1) |  |
 | Skin and subcutaneous tissue disorders |  | Pruritus Rash(2) |  |
 | Musculoskeletal and connective tissue disorders |  | Muscle spasms(1) |  |
-
-General disorders and Gait disturbance
-administration site Asthenia
-conditions Fatigue
-Irritability(1)
-Injury, poisoning and Fall
-procedural complications Skin laceration
 
 [Vimpat 10 mg/ml solution for infusion]
 

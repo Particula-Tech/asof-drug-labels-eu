@@ -24,7 +24,6 @@ Use in elderly (over 65 years of age)
 No dose reduction is necessary in elderly patients.
 The experience with lacosamide in elderly patients with epilepsy is limited.
 Age associated decreased renal clearance with an increase in AUC levels should be considered in elderly patients (see ‘Use in patients with renal impairment’ above and section 5.2).
-
 Paediatric patients
 Vimpat is not recommended for use in children and adolescents below the age of 16 as there is no data on safety and efficacy in these age groups.
 
