@@ -13,8 +13,13 @@ In a study in patients with advanced solid tumours, the pharmacokinetic characte
 The clearance of paclitaxel with Abraxane was larger (43%) than that following a solvent-based paclitaxel injection and its volume of distribution was also higher (53%).
 Differences in Cmax and Cmax corrected for dose reflected differences in total dose and rate of infusion.
 There were no differences in terminal half-lives.
+
 In a repeat dose study with 12 patients receiving Abraxane administered intravenously at the approved dose, intrapatient variability in systemic paclitaxel exposure (AUCinf) was 19% (range = 3.21%- 27.70%).
 There was no evidence for accumulation of paclitaxel with multiple treatment courses.
+
+An analysis of patient exposure (AUCinf) against bodyweight indicated a trend toward reduced AUC at 260 mg/m2 Abraxane, with decreased body weight.
+Patients weighing 50 kg had paclitaxel AUC approximately 25% lower than those weighing 75 kg.
+The clinical relevance of this finding is uncertain.
 
 The protein binding of paclitaxel following Abraxane was evaluated by ultrafiltration.
 The fraction of free paclitaxel was significantly higher with Abraxane (6.2%) than with solvent-based paclitaxel (2.3%).
@@ -46,7 +51,6 @@ Paclitaxel clearance
 Total bilirubin (µmol/l)
 
 The effect of renal dysfunction on the disposition of paclitaxel has not been formally investigated.
-
 In patients with metastatic breast cancer, after a 30 minute infusion of Abraxane at 260 mg/m2, the mean value for cumulative urinary excretion of unchanged active substance accounted for 4% of the total administered dose with less than 1% as the metabolites 6α-hydroxypaclitaxel and 3’-p-hydroxypaclitaxel, indicating extensive non-renal clearance.
 Paclitaxel is principally eliminated by hepatic metabolism and biliary excretion.
 

@@ -32,4 +32,4 @@ Method of administration
 
 Abraxane should only be administered under the supervision of a qualified oncologist in units specialised in the administration of cytotoxic agents.
 
-The procedure for reconstitution is described in section 6.6.
+For instructions on reconstitution of the medicinal product before administration, see section 6.6.

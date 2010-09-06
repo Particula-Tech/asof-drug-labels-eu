@@ -11,7 +11,7 @@ Paclitaxel is suspected to cause serious birth defects when administered during 
 Studies in animals have shown reproductive toxicity (see section 5.3).
 Abraxane should not be used in pregnancy, and in women of childbearing potential not using effective contraception, unless the clinical condition of the mother requires treatment with paclitaxel.
 
-Lactation:
+Breastfeeding:
 
 It is not known if paclitaxel is excreted in human milk.
 Because of potential serious adverse reactions in breast-feeding infants, Abraxane is contraindicated during lactation.
