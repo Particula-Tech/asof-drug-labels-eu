@@ -9,7 +9,6 @@ The major circulating metabolite is the 10-N-glucuronide, which does not pass th
 Cytochromes P450-CYP1A2 and P450-CYP2D6 contribute to the formation of the N-desmethyl and 2-hydroxymethyl metabolites, both exhibited significantly less in vivo pharmacological activity than olanzapine in animal studies.
 The predominant pharmacologic activity is from the parent olanzapine.
 After oral administration, the mean terminal elimination half-life of olanzapine in healthy subjects varied on the basis of age and gender.
-
 In healthy elderly (65 and over) versus non-elderly subjects, the mean elimination half-life was prolonged (51.8 versus 33.8 hr) and the clearance was reduced (17.5 versus 18.2 l/hr).
 The pharmacokinetic variability observed in the elderly is within the range for the non-elderly.
 In 44 patients with schizophrenia > 65 years of age, dosing from 5 to 20 mg/day was not associated with any distinguishing profile of adverse events.

@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Adults
-The most frequently (seen in ≥ 1% of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic transaminases (see section 4.4), rash, asthenia, fatigue and oedema.
+The most frequently (seen in ≥ 1% of patients) reported adverse reactions associated with the use of olanzapine in clinical trials were somnolence, weight gain, eosinophilia, elevated prolactin, cholesterol, glucose and triglyceride levels (see section 4.4), glucosuria, increased appetite, dizziness, akathisia, parkinsonism (see section 4.4), dyskinesia, orthostatic hypotension, anticholinergic effects, transient asymptomatic elevations of hepatic aminotransferases (see section 4.4), rash, asthenia, fatigue and oedema.
 
 The following table lists the adverse reactions and laboratory investigations observed from spontaneous reporting and in clinical trials.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
@@ -15,8 +15,8 @@ The frequency terms listed are defined as follows: Very common (≥10%), common 
 | Immune system disorders |  |  |  |
 |  |  |  | Allergic reaction |
 | Metabolism and nutrition disorders |  |  |  |
-| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 Elevated triglyceride levels2,5 Glucosuria |  | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) |
-|  | Increased appetite |  | Hypothermia |
+| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 |  | Development or exacerbation of diabetes occasionally associated with |
+|  | Elevated triglyceride levels2,5 Glucosuria Increased appetite |  | ketoacidosis or coma, including some fatal cases (see section 4.4) Hypothermia |
 | Nervous system disorders |  |  |  |
 | Somnolence | Dizziness Akathisia6 Parkinsonism6 Dyskinesia6 |  | Seizures where in most cases a history of seizures or risk factors for seizures were reported Neuroleptic malignant syndrome (see section 4.4) Dystonia (including oculogyration) Tardive dyskinesia Discontinuation symptoms7 |
 | Cardiac disorders |  |  |  |
@@ -26,7 +26,7 @@ The frequency terms listed are defined as follows: Very common (≥10%), common 
 | Gastrointestinal disorders |  |  |  |
 |  | Mild, transient anticholinergic effects including constipation and dry mouth |  | Pancreatitis |
 | Hepato-biliary disorders |  |  |  |
-|  | Transient, asymptomatic elevations of hepatic transaminases (ALT, AST), especially in early treatment (see section 4.4) |  | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) |
+|  | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |  | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) |
 | Skin and subcutaneous tissue disorders |  |  |  |
 |  | Rash | Photosensitivity reaction Alopecia |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |
@@ -37,9 +37,11 @@ The frequency terms listed are defined as follows: Very common (≥10%), common 
 |  |  |  | Priapism |
 | General disorders and administration site conditions |  |  |  |
 |  | Asthenia Fatigue Oedema |  |  |
-| Investigations |  |  |  |
-| Elevated plasma prolactin levels8 |  | High creatine phosphokinase Increased total | Increased alkaline phosphatase |
 
+Investigations
+Elevated plasma High creatine Increased alkaline
+prolactin levels8 phosphokinase phosphatase
+Increased total
 bilirubin
 
 1 Clinically significant weight gain was observed across all baseline Body Mass Index (BMI) categories.
@@ -68,8 +70,6 @@ In the absence of detailed information on the pre-existing history of individual
 
 8 In clinical trials of up to 12 weeks, plasma prolactin concentrations exceeded the upper limit of normal range in approximately 30% of olanzapine treated patients with normal baseline prolactin value.
 In the majority of these patients the elevations were generally mild, and remained below two times the upper limit of normal range.
-In patients with schizophrenia, mean prolactin level changes decreased with continued treatment, whereas mean increases were seen in patients with other diagnoses.
-The mean changes were modest.
 Generally in olanzapine-treated patients potentially associated breast- and menstrual related clinical manifestations (e.g. amenorrhoea, breast enlargement, galactorrhea in females, and gynaecomastia/breast enlargement in males) were uncommon.
 Potentially associated sexual function-related adverse reactions (e.g. erectile dysfunction in males and decreased libido in both genders) were commonly observed.
 
@@ -90,7 +90,7 @@ Speech disorder was also reported commonly.
 During treatment with olanzapine in combination with lithium or divalproex, an increase of ≥ 7% from baseline body weight occurred in 17.4% of patients during acute treatment (up to 6 weeks).
 Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥7% from baseline body weight in 39.9% of patients.
 
-Children and adolescents
+Paediatric population
 Olanzapine is not indicated for the treatment of children and adolescent patients below 18 years.
 Although no clinical studies designed to compare adolescents to adults have been conducted, data from the adolescent trials were compared to those of the adult trials.
 
@@ -110,7 +110,7 @@ Very common: Sedation (including: hypersomnia, lethargy, somnolence).
 Gastrointestinal disorders
 Common: Dry mouth
 Hepato-biliary disorders
-Very common: Elevations of hepatic transaminases (ALT/AST; see section 4.4).
+Very common: Elevations of hepatic aminotransferases (ALT/AST; see section 4.4).
 Investigations
 Very common: Decreased total bilirubin, increased GGT, elevated plasma prolactin levels12.
 
@@ -136,8 +136,8 @@ Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.3
 | Immune system disorders |  |  |  |
 |  |  |  | Allergic reaction |
 | Metabolism and nutrition disorders |  |  |  |
-| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 Elevated triglyceride levels2,5 Glucosuria |  | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) |
-|  | Increased appetite |  | Hypothermia |
+| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 |  | Development or exacerbation of diabetes occasionally associated with |
+|  | Elevated triglyceride levels2,5 Glucosuria Increased appetite |  | ketoacidosis or coma, including some fatal cases (see section 4.4) Hypothermia |
 | Nervous system disorders |  |  |  |
 | Somnolence | Dizziness Akathisia6 Parkinsonism6 Dyskinesia6 |  | Seizures where in most cases a history of seizures or risk factors for seizures were reported Neuroleptic malignant syndrome (see section 4.4) Dystonia (including oculogyration) Tardive dyskinesia Discontinuation symptoms7 |
 | Cardiac disorders |  |  |  |
@@ -147,7 +147,7 @@ Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.3
 | Gastrointestinal disorders |  |  |  |
 |  | Mild, transient anticholinergic effects including constipation and dry mouth |  | Pancreatitis |
 | Hepato-biliary disorders |  |  |  |
-|  | Transient, asymptomatic elevations of hepatic transaminases (ALT, AST), especially in early treatment (see section 4.4) |  | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) |
+|  | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |  | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) |
 | Skin and subcutaneous tissue disorders |  |  |  |
 |  | Rash | Photosensitivity reaction Alopecia |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |
@@ -157,11 +157,10 @@ Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.3
 | Reproductive system and breast disorders |  |  |  |
 |  |  |  | Priapism |
 | General disorders and administration site conditions |  |  |  |
-|  | Asthenia Fatigue Oedema |  |  |
+|  | Asthenia Fatigue |  |  |
+|  | Oedema |  |  |
 | Investigations |  |  |  |
-| Elevated plasma prolactin levels8 |  | High creatine phosphokinase | Increased alkaline phosphatase |
-
-Increased total
+| Elevated plasma prolactin levels8 |  | High creatine phosphokinase Increased total bilirubin | Increased alkaline phosphatase |
 
 Following short term treatment (median duration 47 days), weight gain ≥ 7% of baseline body weight was very common (22.2%), ≥ 15 % was common (4.2 %) and ≥ 25 % was uncommon (0.8 %)..
 
@@ -230,7 +229,7 @@ The frequency terms listed are defined as follows: Very common (≥ 10%), common
 | Gastrointestinal disorders |  |  |  |
 |  | Mild, transient anticholinergic effects including constipation and dry mouth |  | Pancreatitis |
 | Hepato-biliary disorders |  |  |  |
-|  | Transient, asymptomatic elevations of hepatic transaminases (ALT, AST), especially in early treatment (see section 4.4) |  | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) |
+|  | Transient, asymptomatic elevations of hepatic aminotransferases (ALT, AST), especially in early treatment (see section 4.4) |  | Hepatitis (including hepatocellular, cholestatic or mixed liver injury) |
 | Skin and subcutaneous tissue disorders |  |  |  |
 |  | Rash | Photosensitivity reaction Alopecia |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |
@@ -242,4 +241,4 @@ The frequency terms listed are defined as follows: Very common (≥ 10%), common
 | General disorders and administration site conditions |  |  |  |
 |  | Asthenia Fatigue Oedema |  |  |
 | Investigations |  |  |  |
-| Elevated plasma prolactin levels8 |  | High creatine phosphokinase Increased total bilirubin | Increased alkaline phosphatase |
+| Elevated plasma prolactin levels8 |  | High creatine phosphokinase Increased total | Increased alkaline phosphatase |

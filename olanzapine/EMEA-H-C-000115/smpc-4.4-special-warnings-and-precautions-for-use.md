@@ -46,9 +46,8 @@ While olanzapine demonstrated anticholinergic activity in vitro, experience duri
 However, as clinical experience with olanzapine in patients with concomitant illness is limited, caution is advised when prescribing for patients with prostatic hypertrophy, or paralytic ileus and related conditions.
 
 Hepatic function
-Transient, asymptomatic elevations of hepatic transaminases, ALT, AST have been seen commonly, especially in early treatment.
-Caution should be exercised in patients with elevated ALT and/or AST, in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic medicines.
-In the event of elevated ALT and/or AST during treatment, follow-up should be organised and dose reduction should be considered.
+Transient, asymptomatic elevations of hepatic aminotransferases, ALT, AST have been seen commonly, especially in early treatment.
+Caution should be exercised and follow-up organised in patients with elevated ALT and/or AST, in patients with signs and symptoms of hepatic impairment, in patients with pre-existing conditions associated with limited hepatic functional reserve, and in patients who are being treated with potentially hepatotoxic medicines.
 In cases where hepatitis (including hepatocellular, cholestatic or mixed liver injury) has been diagnosed, olanzapine treatment should be discontinued.
 Neutropenia
 Caution should be exercised in patients with low leukocyte and/or neutrophil counts for any reason, in patients receiving medicines known to cause neutropenia, in patients with a history of drug-induced bone marrow depression/toxicity, in patients with bone marrow depression caused by concomitant illness, radiation therapy or chemotherapy and in patients with hypereosinophilic conditions or with myeloproliferative disease.
@@ -88,7 +87,7 @@ Sudden cardiac death
 In postmarketing reports with olanzapine, the event of sudden cardiac death has been reported in patients with olanzapine.
 In a retrospective observational cohort study, the risk of presumed sudden cardiac death in patients treated with olanzapine was approximately twice the risk in patients not using antipsychotics.
 In the study, the risk of olanzapine was comparable to the risk of atypical antipsychotics included in a pooled analysis.
-Use in children and adolescents under 18 years of age
+Paediatric population
 Olanzapine is not indicated for use in the treatment of children and adolescents.
 Studies in patients aged 13-17 years showed various adverse reactions, including weight gain, changes in metabolic parameters and increases in prolactin levels.
 Long-term outcomes associated with these events have not been studied and remain unknown (see sections 4.8 and 5.1).

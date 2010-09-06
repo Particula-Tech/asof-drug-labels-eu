@@ -1,5 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
+Paediatric population
 Interaction studies have only been performed in adults.
 
 Potential interactions affecting olanzapine

@@ -13,8 +13,8 @@ Unlike some other antipsychotic agents, olanzapine increases responding in an â€
 
 In a single oral dose (10 mg) Positron Emission Tomography (PET) study in healthy volunteers, olanzapine produced a higher 5 HT2A than dopamine D2 receptor occupancy.
 In addition, a SPECT imaging study in schizophrenic patients revealed that olanzapine-responsive patients had lower striatal D2 occupancy than some other antipsychotic- and risperidone-responsive patients, while being comparable to clozapine-responsive patients.
-
 In two of two placebo and two of three comparator controlled trials with over 2,900 schizophrenic patients presenting with both positive and negative symptoms, olanzapine was associated with statistically significantly greater improvements in negative as well as positive symptoms.
+
 In a multinational, double-blind, comparative study of schizophrenia, schizoaffective, and related disorders which included 1,481 patients with varying degrees of associated depressive symptoms (baseline mean of 16.6 on the Montgomery-Asberg Depression Rating Scale), a prospective secondary analysis of baseline to endpoint mood score change demonstrated a statistically significant improvement (p= 0.001) favouring olanzapine (-6.0) versus haloperidol (-3.1).
 
 In patients with a manic or mixed episode of bipolar disorder, olanzapine demonstrated superior efficacy to placebo and valproate semisodium (divalproex) in reduction of manic symptoms over 3 weeks.
