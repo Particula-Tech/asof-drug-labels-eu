@@ -6,7 +6,6 @@ ATC code: N06AX21.
 Duloxetine is a combined serotonin (5-HT) and noradrenaline (NA) reuptake inhibitor.
 It weakly inhibits dopamine reuptake with no significant affinity for histaminergic, dopaminergic, cholinergic and adrenergic receptors.
 Duloxetine dose-dependently increases extracellular levels of serotonin and noradrenaline in various brain areas of animals.
-
 Duloxetine normalised pain thresholds in several preclinical models of neuropathic and inflammatory pain and attenuated pain behaviour in a model of persistent pain.
 The pain inhibitory action of duloxetine is believed to be a result of potentiation of descending inhibitory pain pathways within the central nervous system.
 

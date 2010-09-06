@@ -8,7 +8,6 @@ Sugar spheres
 Talc
 Titanium dioxide (E171)
 Triethyl citrate.
-
 Capsule shell:
 30 mg:
 Gelatin
@@ -16,6 +15,7 @@ Sodium lauryl sulfate
 Titanium dioxide (E171)
 Indigo carmine (E132)
 Edible green ink
+
 Edible green ink contains:
 Black iron oxide-synthetic (E172)
 Yellow iron oxide- synthetic (E172)

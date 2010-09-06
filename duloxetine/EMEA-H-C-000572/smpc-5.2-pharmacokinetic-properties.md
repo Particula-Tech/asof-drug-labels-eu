@@ -22,7 +22,6 @@ Limited data suggest that the plasma levels of duloxetine are higher in these pa
 Elimination: The elimination half-life of duloxetine ranges from 8 to 17 hours (mean of 12 hours).
 After an intravenous dose the plasma clearance of duloxetine ranges from 22 l/hr to 46 l/hr (mean of 36 l/hr).
 After an oral dose the apparent plasma clearance of duloxetine ranges from 33 to 261 l/hr (mean 101 l/hr).
-
 Special populations:
 Gender: pharmacokinetic differences have been identified between males and females (apparent plasma clearance is approximately 50% lower in females).
 Based upon the overlap in the range of clearance, gender-based pharmacokinetic differences do not justify the recommendation for using a lower dose for female patients.
