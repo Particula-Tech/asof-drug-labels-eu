@@ -32,8 +32,8 @@ The combination of tadalafil and doxazosin is not recommended.
 
 Caution should be exercised when prescribing CIALIS to patients using potent CYP3A4 inhibitors (ritonavir, saquinavir, ketoconazole, itraconazole, and erythromycin) as increased tadalafil exposure (AUC) has been observed if the medicines are combined (see section 4.5).
 
-The safety and efficacy of combinations of CIALIS and other treatments for erectile dysfunction have not been studied.
-Therefore, the use of such combinations is not recommended.
+The safety and efficacy of combinations of CIALIS and other PDE5 inhibitors or other treatments for erectile dysfunction have not been studied.
+The patients should be informed not to take CIALIS with such combinations.
 
 CIALIS contains lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

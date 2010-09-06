@@ -1,11 +1,14 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs used in erectile dysfunction, ATC Code: G04BE.
+Pharmacotherapeutic group: Drugs used in erectile dysfunction, ATC Code: G04BE08.
 
+Mechanism of action
 Tadalafil is a selective, reversible inhibitor of cyclic guanosine monophosphate (cGMP)-specific phosphodiesterase type 5 (PDE5).
 When sexual stimulation causes the local release of nitric oxide, inhibition of PDE5 by tadalafil produces increased levels of cGMP in the corpus cavernosum.
 This results in smooth muscle relaxation and inflow of blood into the penile tissues, thereby producing an erection.
 Tadalafil has no effect in the absence of sexual stimulation.
+
+Pharmacodynamic effects
 Studies in vitro have shown that tadalafil is a selective inhibitor of PDE5.
 PDE5 is an enzyme found in corpus cavernosum smooth muscle, vascular and visceral smooth muscle, skeletal muscle, platelets, kidney, lung, and cerebellum.
 The effect of tadalafil is more potent on PDE5 than on other phosphodiesterases.
@@ -16,6 +19,7 @@ Additionally, tadalafil is approximately 700-fold more potent for PDE5 than for 
 Tadalafil is also
 > 10,000-fold more potent for PDE5 than for PDE7 through PDE10.
 
+Clinical efficacy and safety
 Three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness to CIALIS on demand.
 Tadalafil demonstrated statistically significant improvement in erectile function and the ability to have successful sexual intercourse up to 36 hours following dosing, as well as patients’ ability to attain and maintain erections for successful intercourse compared to placebo as early as 16 minutes following dosing.
 
@@ -43,7 +47,7 @@ In a 12-week study performed in 186 patients (142 tadalafil, 44 placebo) with er
 
 [CIALIS 10 mg film-coated tablets]
 
-Pharmacotherapeutic group: Drugs used in erectile dysfunction, ATC Code G04BE.
+Pharmacotherapeutic group: Drugs used in erectile dysfunction, ATC Code G04BE08.
 
 Three clinical studies were conducted in 1054 patients in an at-home setting to define the period of responsiveness to CIALIS.
 

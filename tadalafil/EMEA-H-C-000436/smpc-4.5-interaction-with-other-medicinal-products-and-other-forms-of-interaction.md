@@ -27,17 +27,6 @@ Based on the results of a clinical study in which 150 subjects receiving daily d
 Thus, in a patient prescribed any dose of CIALIS (2.5 mg-20 mg), where nitrate administration is deemed medically necessary in a life-threatening situation, at least 48 hours should have elapsed after the last dose of CIALIS before nitrate administration is considered.
 In such circumstances, nitrates should only be administered under close medical supervision with appropriate haemodynamic monitoring.
 
-In clinical pharmacology studies, the potential for tadalafil to augment the hypotensive effects of antihypertensive agents was examined.
-Major classes of antihypertensive agents were studied, including calcium channel blockers (amlodipine), angiotensin converting enzyme (ACE) inhibitors (enalapril), beta-adrenergic receptor blockers (metoprolol), thiazide diuretics (bendrofluazide), and angiotensin II receptor blockers (various types and doses, alone or in combination with thiazides, calcium channel blockers, beta-blockers, and/or alpha-blockers).
-Tadalafil (10 mg except for studies with angiotensin II receptor blockers and amlodipine in which a 20 mg dose was applied) had no clinically significant interaction with any of these classes.
-In another clinical pharmacology study tadalafil (20 mg) was studied in combination with up to 4 classes of antihypertensives.
-In subjects taking multiple antihypertensives, the ambulatory-blood-pressure changes appeared to relate to the degree of blood-pressure control.
-In this regard, study subjects whose blood pressure was well controlled, the reduction was minimal and similar to that seen in healthy subjects.
-In study subjects whose blood pressure was not controlled, the reduction was greater although this reduction was not associated with hypotensive symptoms in the majority of subjects.
-In patients receiving concomitant antihypertensive medicines, tadalafil 20 mg may induce a blood pressure decrease, which (with the exception of alpha blockers -see below-) is, in general, minor and not likely to be clinically relevant.
-Analysis of phase 3 clinical trial data showed no difference in adverse events in patients taking tadalafil with or without antihypertensive medicines.
-However, appropriate clinical advice should be given to patients regarding a possible decrease in blood pressure when they are treated with antihypertensive medicines.
-
 The co-administration of doxazosin (4 and 8 mg daily) and tadalafil (5 mg daily dose and 20 mg as a single dose) increases the blood pressure-lowering effect of this alpha-blocker in a significant manner.
 This effect lasts at least twelve hours and may be symptomatic, including syncope.
 Therefore this combination is not recommended (see section 4.4).
@@ -45,18 +34,29 @@ In interaction studies performed in a limited number of healthy volunteers, thes
 However, caution should be exercised when using tadalafil in patients treated with any alpha-blockers, and notably in the elderly.
 Treatments should be initiated at minimal dosage and progressively adjusted.
 
+In clinical pharmacology studies, the potential for tadalafil to augment the hypotensive effects of antihypertensive agents was examined.
+Major classes of antihypertensive agents were studied, including calcium channel blockers (amlodipine), angiotensin converting enzyme (ACE) inhibitors (enalapril), beta-adrenergic receptor blockers (metoprolol), thiazide diuretics (bendrofluazide), and angiotensin II receptor blockers (various types and doses, alone or in combination with thiazides, calcium channel blockers, beta-blockers, and/or alpha-blockers).
+Tadalafil (10 mg except for studies with angiotensin II receptor blockers and amlodipine in which a 20 mg dose was applied) had no clinically significant interaction with any of these classes.
+In another clinical pharmacology study tadalafil (20 mg) was studied in combination with up to 4 classes of antihypertensives.
+In subjects taking multiple antihypertensives, the ambulatory-blood-pressure changes appeared to relate to the degree of blood-pressure control.
+In this regard, study subjects whose blood pressure was well controlled, the reduction was minimal and similar to that seen in healthy subjects.
+In study subjects whose blood pressure was not controlled, the reduction was greater although this reduction was not associated with hypotensive symptoms in the majority of subjects.
+In patients receiving concomitant antihypertensive medicines, tadalafil 20 mg may induce a blood pressure decrease, which (with the exception of alpha blockers -see above-) is, in general, minor and not likely to be clinically relevant.
+Analysis of phase 3 clinical trial data showed no difference in adverse events in patients taking tadalafil with or without antihypertensive medicines.
+However, appropriate clinical advice should be given to patients regarding a possible decrease in blood pressure when they are treated with antihypertensive medicines.
+
+When tadalafil 10 mg was administered with theophylline (a non-selective phosphodiesterase inhibitor) in a clinical pharmacology study, there was no pharmacokinetic interaction.
+The only pharmacodynamic effect was a small (3.5 bpm) increase in heart rate.
+Although this effect is minor and was of no clinical significance in this study, it should be considered when co-administering these medicines.
+
+Tadalafil has been demonstrated to produce an increase in the oral bioavailability of ethinylestradiol; a similar increase may be expected with oral administration of terbutaline, although the clinical consequence of this is uncertain.
+
 Alcohol concentrations (mean maximum blood concentration 0.08 %) were not affected by co-administration with tadalafil (10 mg or 20 mg).
 In addition, no changes in tadalafil concentrations were seen 3 hours after co-administration with alcohol.
 Alcohol was administered in a manner to maximize the rate of alcohol absorption (overnight fast with no food until 2 hours after alcohol).
 Tadalafil (20 mg) did not augment the mean blood pressure decrease produced by alcohol (0.7 g/kg or approximately 180 ml of 40% alcohol [vodka] in an 80-kg male) but in some subjects, postural dizziness and orthostatic hypotension were observed.
 When tadalafil was administered with lower doses of alcohol (0.6 g/kg), hypotension was not observed and dizziness occurred with similar frequency to alcohol alone.
 The effect of alcohol on cognitive function was not augmented by tadalafil (10 mg).
-
-Tadalafil has been demonstrated to produce an increase in the oral bioavailability of ethinylestradiol; a similar increase may be expected with oral administration of terbutaline, although the clinical consequence of this is uncertain.
-
-When tadalafil 10 mg was administered with theophylline (a non-selective phosphodiesterase inhibitor) in a clinical pharmacology study, there was no pharmacokinetic interaction.
-The only pharmacodynamic effect was a small (3.5 bpm) increase in heart rate.
-Although this effect is minor and was of no clinical significance in this study, it should be considered when co-administering these medicines.
 
 Tadalafil is not expected to cause clinically significant inhibition or induction of the clearance of medicinal products metabolised by CYP450 isoforms.
 Studies have confirmed that tadalafil does not inhibit or induce CYP450 isoforms, including CYP3A4, CYP1A2, CYP2D6, CYP2E1, CYP2C9 and CYP2C19.
