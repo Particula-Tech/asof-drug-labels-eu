@@ -8,8 +8,8 @@ Concomitant use not recommended:
 Viread should not be administered with any other medicinal products containing tenofovir disoproxil fumarate (Truvada or Atripla).
 
 Viread should also not be administered concurrently with adefovir dipivoxil.
-
 Didanosine: Co-administration of tenofovir disoproxil fumarate and didanosine is not recommended (see section 4.4 and Table 1).
+
 Renally eliminated medicinal products: Since tenofovir is primarily eliminated by the kidneys, co-administration of tenofovir disoproxil fumarate with medicinal products that reduce renal function or compete for active tubular secretion via transport proteins hOAT 1, hOAT 3 or MRP 4 (e.g. cidofovir) may increase serum concentrations of tenofovir and/or the co-administered medicinal products.
 
 Use of tenofovir disoproxil fumarate should be avoided with concurrent or recent use of a nephrotoxic medicinal product.

@@ -1,7 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
 Tenofovir disoproxil fumarate is a water soluble ester prodrug which is rapidly converted in vivo to tenofovir and formaldehyde.
-
 Tenofovir is converted intracellularly to tenofovir monophosphate and to the active component, tenofovir diphosphate.
 
 Absorption
@@ -38,7 +37,6 @@ The pharmacokinetics of tenofovir were independent of tenofovir disoproxil fumar
 
 Age and gender
 Limited data on the pharmacokinetics of tenofovir in women indicate no major gender effect.
-
 Pharmacokinetic studies have not been performed in children and adolescents (under 18) or in the elderly (over 65).
 
 Pharmacokinetics have not been specifically studied in different ethnic groups.
@@ -55,6 +53,7 @@ It is recommended that the dosing interval for tenofovir disoproxil 245 mg (as f
 
 The pharmacokinetics of tenofovir in non-haemodialysis patients with creatinine clearance
 < 10 ml/min and in patients with ESRD managed by peritoneal or other forms of dialysis have not been studied.
+
 Hepatic impairment
 A single 245 mg dose of tenofovir disoproxil was administered to non-HIV, non-HBV infected patients with varying degrees of hepatic impairment defined according to Child-Pugh-Turcotte (CPT) classification.
 Tenofovir pharmacokinetics were not substantially altered in subjects with hepatic impairment suggesting that no dose adjustment is required in these subjects.

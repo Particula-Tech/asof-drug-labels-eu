@@ -22,9 +22,9 @@ Co-administration of other medicinal products:
   A decreased dosage of 250 mg didanosine co-administered with tenofovir disoproxil fumarate therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV-1 infection.
 
 Triple therapy with nucleosides/nucleotides: There have been reports of a high rate of virological failure and of emergence of resistance at early stage in HIV patients when tenofovir disoproxil fumarate was combined with lamivudine and abacavir as well as with lamivudine and didanosine as a once daily regimen.
-
 Renal function: Tenofovir is principally eliminated via the kidney.
 Renal failure, renal impairment, elevated creatinine, hypophosphataemia and proximal tubulopathy (including Fanconi syndrome) have been reported with the use of tenofovir disoproxil fumarate in clinical practice (see section 4.8).
+
 Renal safety with tenofovir has only been studied to a very limited degree in patients with impaired renal function (CrCl < 80 ml/min).
 
 It is recommended that creatinine clearance is calculated in all patients prior to initiating therapy with tenofovir disoproxil fumarate and renal function (creatinine clearance and serum phosphate) is also monitored every four weeks during the first year, and then every three months.
@@ -55,14 +55,14 @@ However, there was no increased risk of fractures or evidence for clinically rel
 Bone abnormalities (infrequently contributing to fractures) may be associated with proximal renal tubulopathy (see section 4.8).
 If bone abnormalities are suspected then appropriate consultation should be obtained.
 
-Liver disease: The safety of tenofovir in patients with decompensated liver disease is being studied.
-At present the safety in this patient population has not been thoroughly evaluated.
+Liver disease: Safety and efficacy data are very limited in liver transplant patients.
+There are limited data on the safety and efficacy of tenofovir disoproxil fumarate in HBV infected patients with decompensated liver disease and who have a Child-Pugh-Turcotte (CPT) score > 9.
+These patients may be at higher risk of experiencing serious hepatic or renal adverse reactions.
+Therefore, hepatobiliary and renal parameters should be closely monitored in this patient population.
 
-No safety and efficacy data are available in liver transplant patients.
 Exacerbations of hepatitis:
 Flares on treatment: Spontaneous exacerbations in chronic hepatitis B are relatively common and are characterised by transient increases in serum ALT.
-After initiating antiviral therapy, serum ALT may increase in some patients as serum HBV DNA levels decline (see section 4.8).
-Among tenofovir-treated patients on-treatment exacerbations typically occurred after 4-8 weeks of therapy.
+After initiating antiviral therapy, serum ALT may increase in some patients (see section 4.8).
 In patients with compensated liver disease, these increases in serum ALT are generally not accompanied by an increase in serum bilirubin concentrations or hepatic decompensation.
 Patients with cirrhosis may be at a higher risk for hepatic decompensation following hepatitis exacerbation, and therefore should be monitored closely during therapy.
 
@@ -85,17 +85,16 @@ However, it should be noted that increases of ALT can be part of HBV clearance d
 Lactic acidosis: Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues.
 The preclinical and clinical data suggest that the risk of occurrence of lactic acidosis, a class effect of nucleoside analogues, is low for tenofovir disoproxil fumarate.
 However, as tenofovir is structurally related to nucleoside analogues, this risk cannot be excluded.
-Early symptoms (symptomatic hyperlactatemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
+Early symptoms (symptomatic hyperlactataemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
 Lactic acidosis has a high mortality and may be associated with pancreatitis, liver failure or renal failure.
 Lactic acidosis generally occurred after a few or several months of treatment.
 
-Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactatemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
+Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactataemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
 
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
 Patients co-infected with hepatitis C and treated with alpha interferon and ribavirin may constitute a special risk.
 
 Patients at increased risk should be followed closely.
-
 Lipodystrophy (lipoatrophy/lipomatosis): In HIV infected patients, combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy).
 The long-term consequences of these events are currently unknown.
 Knowledge about the mechanism is incomplete.
@@ -119,7 +118,7 @@ These findings do not affect current national recommendations to use antiretrovi
 
 Immune Reactivation Syndrome: In HIV infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
-Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis jiroveci pneumonia.
+Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis jirovecii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
 Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
