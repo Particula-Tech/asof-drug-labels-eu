@@ -2,7 +2,8 @@
 
 Store in a refrigerator (2°C - 8°C).
 Do not freeze.
-Store in the original package.
+
+For storage conditions of the reconstituted medicinal product, see section 6.3.
 
 [Xolair 150 mg powder and solvent for solution for injection]
 

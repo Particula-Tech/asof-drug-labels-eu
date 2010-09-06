@@ -1,10 +1,10 @@
 # 6.3 Shelf life
 
-4 years
+4 years.
 
-After reconstitution: The chemical and physical stability of the reconstituted product have been demonstrated for 8 hours at 2°C to 8°C and for 4 hours at 30°C.
+After reconstitution: The chemical and physical stability of the reconstituted medicinal product have been demonstrated for 8 hours at 2°C to 8°C and for 4 hours at 30°C.
 
-From a microbiological point of view, the product should be used immediately after reconstitution.
+From a microbiological point of view, the medicinal product should be used immediately after reconstitution.
 If not used immediately, in-use storage times and conditions prior to use are the responsibility of the user and would normally not be longer than 8 hours at 2°C to 8°C or 4 hours at 30°C.
 
 [Xolair 150 mg powder and solvent for solution for injection]
@@ -13,7 +13,7 @@ If not used immediately, in-use storage times and conditions prior to use are th
 
 [Xolair 75 mg solution for injection]
 
-1 year
+1 year.
 
 [Xolair 150 mg solution for injection]
 

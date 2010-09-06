@@ -1,12 +1,12 @@
 # 6.1 List of excipients
 
-Powder:
+Powder
 Sucrose
 Histidine
 Histidine hydrochloride monohydrate
 Polysorbate 20
 
-Solvent:
+Solvent
 Water for injections
 
 [Xolair 150 mg powder and solvent for solution for injection]
