@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Other antineoplastic agents, ATC code: L01XX05.
-
 In nearly all clinical studies conducted in Sickle Cell Syndrome, hydroxycarbamide reduced the frequency of vaso-occlusive episodes by 66% to 80%, in children and in adults.
 The same decrease was observed for the number of hospital admissions and the number of days of hospitalisation in the treated groups.
 The yearly frequency of acute chest syndrome was also reduced by 25 to 33% under hydroxycarbamide in several studies.

@@ -3,6 +3,7 @@
 Absorption: After oral administration of 20 mg/kg of hydroxycarbamide, a rapid absorption is observed with peak plasma levels of about 30 mg/l occurring after 0.75 and 1.2 h in children and adult patients with Sickle Cell Syndrome, respectively.
 The total exposure up to 24 h post-dose is 124 mg*h/l in children and adolescents and 135 mg*h/l in adult patients.
 The oral bioavailability of hydroxycarbamide is almost complete as assessed in indications other than Sickle Cell Syndrome.
+
 Distribution: Hydroxycarbamide distributes rapidly throughout the human body, enters the cerebrospinal fluid, appears in peritoneal fluid and ascites, and concentrates in leukocytes and erythrocytes.
 The estimated volume of distribution of hydroxycarbamide approximates total body water.
 The volume of distribution at steady state adjusted for bioavailability is 0.57 l/kg in patients with Sickle Cell Syndrome (amounting to approximately 72 and 90 l in children and adults, respectively).
