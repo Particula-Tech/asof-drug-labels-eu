@@ -125,9 +125,9 @@ system Neutrophils/ 29.0* 15.1* 38.4* 26.7*
 disorders Granulocytes
 decreased
 Leukocytes 17.8 4.8* 20.6 7.6*
-decreased
+Decreased
 Platelets 10.1* 4.1* 26.6* 12.7*
-decreased
+Decreased
 Nervous Common Neuropathy- 8.5* 0.0* 12.4* 0.6*
 system sensory
 disorders Taste disturbance 8.1 0.0*** 8.9 0.0***
