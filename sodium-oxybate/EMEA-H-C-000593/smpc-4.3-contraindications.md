@@ -1,7 +1,7 @@
 # 4.3 Contraindications
 
-Hypersensitivity to sodium oxybate or to any of the excipients.
+Hypersensitivity to the active substance or to any of the excipients.
 
-Sodium oxybate is contraindicated in patients with succinic semialdehyde dehydrogenase deficiency.
+Patients with succinic semialdehyde dehydrogenase deficiency.
 
-Sodium oxybate is contraindicated in patients being treated with opoids or barbiturates.
+Patients being treated with opioids or barbiturates.

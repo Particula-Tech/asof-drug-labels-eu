@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other Nervous System Drugs, ATC code: N07XX04 hydroxybutyric acid
+Pharmacotherapeutic group: Other nervous system medicinal products, ATC code: N07XX04
 
 Sodium oxybate is a central nervous system depressant which reduces excessive daytime sleepiness and cataplexy in patients with narcolepsy and modifies sleep architecture reducing fragmented nighttime sleep.
 The precise mechanism by which sodium oxybate produces an effect is unknown, however sodium oxybate is thought to act by promoting slow (delta) wave sleep and consolidating night-time sleep.
@@ -12,7 +12,7 @@ The effectiveness of sodium oxybate for the treatment of narcolepsy symptoms was
 In each trial, the daily dose was divided into two equal doses.
 The first dose each night was taken at bedtime and the second dose was taken 2.5 to 4 hours later.
 
-Table 1 Summary of Clinical Trials Performed Using Sodium Oxybate for the Treatment of Narcolepsy
+Table 1 Summary of clinical trials performed using sodium oxybate for the treatment of narcolepsy
 
 | Trial | Primary Efficacy | N= | Secondary Efficacy | Duration | Active treatment and Dose (g/d) |
 | --- | --- | --- | --- | --- | --- |
@@ -49,7 +49,7 @@ Table 3 Summary of CGI-c in Trial 1
 
 Trial 2 compared the effects of orally administered sodium oxybate, modafinil and sodium oxybate + modafinil, with placebo in the treatment of daytime sleepiness in narcolepsy.
 During the 8 week double-blind period, patients took modafinil at their established dose or placebo equivalent.
-The sodium oxybate or placebo equivalent dose was 6g/day for the first 4 weeks and was increased to 9g/day for the remaining 4 weeks.
+The sodium oxybate or placebo equivalent dose was 6 g/day for the first 4 weeks and was increased to 9 g/day for the remaining 4 weeks.
 The primary measure of efficacy was excessive daytime sleepiness as measured by objective response in MWT.
 
 Table 4 Summary of MWT in Trial 2
@@ -64,7 +64,7 @@ Table 4 Summary of MWT in Trial 2
 
 Trial 3 enrolled 136 narcoleptic patients with moderate to severe cataplexy (median of 21 cataplexy attacks per week) at baseline.
 The primary efficacy measure in this trial was the frequency of cataplexy attacks.
-Table 5 Summary of Outcomes in Trial 3
+Table 5 Summary of outcomes in Trial 3
 
 | Dosage | Number of Subjects | Cataplexy Attacks |  |  |
 | --- | --- | --- | --- | --- |

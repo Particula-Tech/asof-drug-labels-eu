@@ -11,5 +11,5 @@ Perinatal mortality was increased and mean pup weight was decreased during the l
 The association of these developmental effects with maternal toxicity could not be established.
 In rabbits, slight foetotoxicity was observed.
 
-Drug discrimination studies show that GHB produces a unique discriminative stimulus that in some respects is similar to that of alcohol, morphine and certain GABA-mimetic drugs.
+Drug discrimination studies show that GHB produces a unique discriminative stimulus that in some respects is similar to that of alcohol, morphine and certain GABA-mimetic medicinal products.
 Self-administration studies in rats, mice and monkeys have produced conflicting results, whereas tolerance to GHB as well as cross-tolerance to alcohol have been clearly demonstrated in rodents.

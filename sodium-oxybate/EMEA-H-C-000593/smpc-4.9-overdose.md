@@ -1,6 +1,6 @@
 # 4.9 Overdose
 
-Information about signs and symptoms associated with overdosage with sodium oxybate is limited.
+Information about signs and symptoms associated with overdose with sodium oxybate is limited.
 Most data derives from the illicit use of GHB.
 Sodium oxybate is the sodium salt of GHB.
 Events associated with withdrawal syndrome have been observed outside the therapeutic range.
@@ -20,5 +20,5 @@ Although gag reflex may be absent in deeply comatose patients, even unconscious 
 
 No reversal of the central depressant effects of sodium oxybate can be expected from flumazenil administration.
 There is insufficient evidence to recommend the use of naloxone in the treatment of overdose with GHB.
-The use of haemodialysis and other forms of extracorporeal drug removal have not been studied in sodium oxybate overdose.
+The use of haemodialysis and other forms of extracorporeal medicinal product removal have not been studied in sodium oxybate overdose.
 However, due to the rapid metabolism of sodium oxybate, these measures are not warranted.

@@ -1,30 +1,31 @@
-# 4.4 Special warnings and special precautions for use
+# 4.4 Special warnings and precautions for use
 
 Xyrem has the potential to induce respiratory depression
 
-Abuse potential and dependance
-The active substance in Xyrem is sodium oxybate, which is as the sodium salt of gamma hydroxybutyrate (GHB), a CNS depressant active substance with well known abuse potential.
-Physicians should evaluate patients for a history of drug abuse and follow such patients closely.
-There have been case reports of dependence after illicit use of GHB at frequent repeated doses (18 to 250 g/day) in excess of the therapeutic dose range.
-Whilst there is no clear evidence of emergence of dependence in patients taking sodium oxybate at therapeutic doses, this possibility cannot be excluded.
-
-CNS depression
-The combined use of alcohol or any CNS depressant drug with sodium oxybate may result in potentiation of the CNS-depressant effects of sodium oxybate.
-Therefore, patients should be warned against the use of alcohol in conjunction with sodium oxybate.
-
-Patients with porphyria
-Sodium oxybate is considered to be unsafe in patients with porphyria because it has been shown to be porphyrogenic in animals or in-vitro systems.
 Respiratory depression
 Sodium oxybate also has the potential to induce respiratory depression.
-Apnoea and respiratory depression have been observed in a fasting healthy subject after a single intake of 4.5g (twice the recommended starting dose).
-Patients should be questioned regarding signs of CNS or respiratory depression.
+Apnoea and respiratory depression have been observed in a fasting healthy subject after a single intake of 4.5 g (twice the recommended starting dose).
+Patients should be questioned regarding signs of Central Nervous System (CNS) or respiratory depression.
 Special caution should be observed in patients with an underlying respiratory disorder.
 Approximately 80% of patients who received sodium oxybate during clinical trials maintained CNS stimulant use.
 Whether this affected respiration during the night is unknown.
 Before increasing the sodium oxybate dose (see section 4.2), prescribers should be aware that sleep apnoea occurs in up to 50% of patients with narcolepsy.
 
+Abuse potential and dependence
+Sodium oxybate, which is as the sodium salt of GHB, is a CNS depressant active substance with well known abuse potential.
+Physicians should evaluate patients for a history of drug abuse and follow such patients closely.
+There have been case reports of dependence after illicit use of GHB at frequent repeated doses (18 to 250 g/day) in excess of the therapeutic dose range.
+Whilst there is no clear evidence of emergence of dependence in patients taking sodium oxybate at therapeutic doses, this possibility cannot be excluded.
+
+CNS depression
+The combined use of alcohol or any CNS depressant medicinal product with sodium oxybate may result in potentiation of the CNS-depressant effects of sodium oxybate.
+Therefore, patients should be warned against the use of alcohol in conjunction with sodium oxybate.
+
+Patients with porphyria
+Sodium oxybate is considered to be unsafe in patients with porphyria because it has been shown to be porphyrogenic in animals or in vitro systems.
+
 Benzodiazepines
-Given the possibility of increasing the risk of respiratory depression, the concomitant use of benzodiazepines and Xyrem should be avoided.
+Given the possibility of increasing the risk of respiratory depression, the concomitant use of benzodiazepines and sodium oxybate should be avoided.
 
 Neuropsychiatric events
 Patients may become confused while being treated with sodium oxybate.
@@ -43,7 +44,7 @@ The risk of injury or self-harm should be borne in mind in any patient with slee
 Therefore, episodes of sleepwalking should be fully evaluated and appropriate interventions considered.
 
 Sodium intake
-Patients taking sodium oxybate will have an additional daily intake of sodium that ranges from 0.82g (for a 4.5g/day Xyrem dose) to 1.6g (for a 9g/day Xyrem dose).
+Patients taking sodium oxybate will have an additional daily intake of sodium that ranges from 0.82 g (for a 4.5 g/day Xyrem dose) to 1.6 g (for a 9 g/day Xyrem dose).
 A dietary recommendation to reduce sodium intake should be carefully considered in the management of patients with heart failure, hypertension or compromised renal function.
 (see section 4.2).
 
@@ -61,7 +62,6 @@ Safety and effectiveness in children and adolescents has not been established, t
 Epileptic patients
 Seizures have been observed in patients treated with sodium oxybate.
 In patients with epilepsy, the safety and efficacy of sodium oxybate has not been established, therefore use is not recommended.
-
 Rebound effects and withdrawal syndrome
 The discontinuation effects of sodium oxybate have not been systematically evaluated in controlled clinical trials.
 In some patients, cataplexy may return at a higher frequency on cessation of sodium oxybate therapy, however this may be due to the normal variability of the disease.
