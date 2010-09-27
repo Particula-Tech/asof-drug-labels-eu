@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-SP Europe
-Rue de Stalle 73
-B – 1180 Bruxelles
+Janssen-Cilag International NV
+Turnhoutseweg 30
+B-2340 Beerse
 Belgium
