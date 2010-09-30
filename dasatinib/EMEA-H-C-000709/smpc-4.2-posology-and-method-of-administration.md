@@ -2,24 +2,23 @@
 
 Therapy should be initiated by a physician experienced in the diagnosis and treatment of patients with leukaemia.
 
+Posology
 The recommended starting dose for chronic phase CML is 100 mg dasatinib once daily, administered orally.
 
 The recommended starting dose for accelerated, myeloid or lymphoid blast phase (advanced phase) CML or Ph+ ALL is 140 mg once daily, administered orally (see section 4.4).
 
-Tablets must not be crushed or cut, they must be swallowed whole.
-SPRYCEL can be taken with or without a meal and should be taken consistently either in the morning or in the evening.
-
-Treatment duration: in clinical trials, treatment with SPRYCEL was continued until disease progression or until no longer tolerated by the patient.
+Treatment duration
+In clinical trials, treatment with SPRYCEL was continued until disease progression or until no longer tolerated by the patient.
 The effect of stopping treatment after the achievement of a complete cytogenetic response (CCyR) has not been investigated.
 
-To achieve the recommended dose, SPRYCEL is available as 20 mg, 50 mg, 70 mg and 100 mg film-coated tablets.
+To achieve the recommended dose, SPRYCEL is available as 20 mg, 50 mg, 70 mg, 80 mg, 100 mg and 140 mg film-coated tablets.
 Dose increase or reduction is recommended based on patient response and tolerability.
-
-Dose escalation:
+Dose escalation
 In clinical trials of adult CML and Ph+ ALL patients, dose escalation to 140 mg once daily (chronic phase CML) or 180 mg once daily (advanced phase CML or Ph+ ALL) was allowed in patients who did not achieve a haematologic or cytogenetic response at the recommended starting dose.
-Dose adjustment for undesirable effects:
 
-Myelosuppression:
+Dose adjustment for undesirable effects
+
+Myelosuppression
 In clinical trials, myelosuppression was managed by dose interruption, dose reduction, or discontinuation of study therapy.
 Platelet transfusion and red cell transfusion were used as appropriate.
 Haematopoietic growth factor has been used in patients with resistant myelosuppression.
@@ -33,16 +32,26 @@ Table 1: Dose adjustments for neutropenia and thrombocytopenia
 
 ANC: absolute neutrophil count
 
-Non-haematological adverse reactions:
+Non-haematological adverse reactions
 If a severe non-haematological adverse reaction develops with dasatinib, treatment must be withheld until the event has resolved.
 Thereafter, treatment can be resumed as appropriate at a reduced dose depending on the initial severity of the event.
 
-Paediatric patients: SPRYCEL is not recommended for use in children and adolescents below 18 years of age due to a lack of data on safety and efficacy (see section 5.1).
-
-Elderly patients: no clinically relevant age-related pharmacokinetic differences have been observed in these patients.
+Paediatric population
+The safety and efficacy of SPRYCEL in children and adolescents below 18 years of age have not been established.
+No data are available (see section 5.1).
+Elderly population
+No clinically relevant age-related pharmacokinetic differences have been observed in these patients.
 No specific dose recommendation is necessary in the elderly.
 
-Hepatic impairment: patients with mild, moderate or severe hepatic impairment may receive the recommended starting dose.
+Hepatic impairment
+Patients with mild, moderate or severe hepatic impairment may receive the recommended starting dose.
 However, SPRYCEL should be used with caution in patients with hepatic impairment (see sections 4.4 and 5.2).
-Renal impairment: no clinical trials were conducted with SPRYCEL in patients with decreased renal function (trials excluded patients with serum creatinine concentration > 1.5 times the upper limit of the normal range).
+
+Renal impairment
+No clinical trials were conducted with SPRYCEL in patients with decreased renal function (trials excluded patients with serum creatinine concentration > 1.5 times the upper limit of the normal range).
 Since the renal clearance of dasatinib and its metabolites is < 4%, a decrease in total body clearance is not expected in patients with renal insufficiency.
+
+Method of administration
+SPRYCEL must be administered orally.
+Tablets must not be crushed or cut in order to minimize the risk of dermal exposure, they must be swallowed whole.
+They can be taken with or without a meal and should be taken consistently either in the morning or in the evening.

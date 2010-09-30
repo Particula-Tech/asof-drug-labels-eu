@@ -18,10 +18,18 @@ Not all pack sizes may be marketed.
 
 (all sentences already above)
 
-[SPRYCEL 100 mg film-coated tablets]
+[SPRYCEL 80 mg film-coated tablets]
 
 Alu/Alu blisters (unit dose blisters) and high-density polyethylene (HDPE) bottle with child resistant closure of polypropylene.
 
 Cartons containing 30 film-coated tablets in perforated unit dose blisters.
 
 Cartons containing one bottle with 30 film-coated tablets.
+
+[SPRYCEL 100 mg film-coated tablets]
+
+(all sentences already above)
+
+[SPRYCEL 140 mg film-coated tablets]
+
+(all sentences already above)

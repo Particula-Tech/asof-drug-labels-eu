@@ -12,6 +12,14 @@ White to off-white, biconvex, oval tablet with "BMS" debossed on one side and "5
 
 White to off-white, biconvex, round tablet with "BMS" debossed on one side and "524" on the other side.
 
+[SPRYCEL 80 mg film-coated tablets]
+
+White to off-white, biconvex, triangular tablet with "BMS 80" debossed on one side and "855" on the other side.
+
 [SPRYCEL 100 mg film-coated tablets]
 
 White to off-white, biconvex, oval tablet with "BMS 100" debossed on one side and "852" on the other side.
+
+[SPRYCEL 140 mg film-coated tablets]
+
+White to off-white, biconvex, round tablet with "BMS 140" debossed on one side and "857" on the other side.

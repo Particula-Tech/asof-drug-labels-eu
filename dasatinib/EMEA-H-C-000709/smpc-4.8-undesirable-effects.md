@@ -15,7 +15,6 @@ In clinical studies of chronic phase CML, 10 of the 215 imatinib-intolerant pati
 
 The most frequently reported adverse reactions were fluid retention (including pleural effusion), diarrhoea, headache, nausea, skin rash, dyspnoea, haemorrhage, fatigue, musculoskeletal pain, infection, vomiting, cough, abdominal pain and pyrexia.
 Drug-related febrile neutropenia was reported in 5% of patients.
-
 Miscellaneous adverse reactions such as pleural effusion, ascites, pulmonary oedema and pericardial effusion with or without superficial oedema may be collectively described as “fluid retention”.
 The use of dasatinib is associated with fluid retention with grade 3 or 4 cases in 10% of patients.
 Grade 3 or 4 pleural and pericardial effusion were reported in 7% and 1% of patients, respectively.
@@ -31,6 +30,7 @@ Grade 3 or 4 gastrointestinal haemorrhage occurred in 4% of patients and general
 Other grade 3 or 4 haemorrhage occurred in 2% of patients.
 Most bleeding related events were typically associated with grade 3 or 4 thrombocytopenia.
 Additionally, in vitro and in vivo platelet assays suggest that SPRYCEL treatment reversibly affects platelet activation (see section 4.4).
+
 Treatment with SPRYCEL is associated with anaemia, neutropenia and thrombocytopenia.
 Their occurrence is more frequent in patients with advanced phase CML or Ph+ ALL than in chronic phase CML (see section 4.4).
 
@@ -41,7 +41,7 @@ These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Table 2: Tabulated Summary of Adverse Reactions in Clinical Trials
+Table 2: Tabulated summary of adverse reactions in clinical trials
 
 Infections and infestations
 Very common infection (including bacterial, viral, fungal, non-specified)
@@ -53,7 +53,7 @@ Uncommon tumour lysis syndrome
 Blood and lymphatic system disorders
 Common febrile neutropenia, pancytopenia
 Rare aplasia pure red cell
-Immune System Disorders
+Immune system disorders
 Uncommon hypersensitivity (including erythema nodosum)
 Metabolism and nutrition disorders
 Common anorexia, appetite disturbances, hyperuricaemia
@@ -133,21 +133,22 @@ c Excludes gastrointestinal bleeding and CNS bleeding; these ADRs are reported u
 d Includes drug eruption, erythema, erythema multiforme, erythrosis, exfoliative rash, generalised erythema, genital rash, heat rash, milia, rash, rash erythematous, rash follicular, rash generalised, rash macular, rash maculo-papular, rash papular, rash pruritic, rash pustular, rash vesicular, skin exfoliation, skin irritation and urticaria vesiculosa.
 
 e Includes auricular swelling, conjunctival oedema, eye oedema, eye swelling, eyelid oedema, face oedema, genital swelling, gravitational oedema, lip oedema, localised oedema, macular oedema, oedema genital, oedema mouth, oedema peripheral, orbital oedema, penile oedema, periorbital oedema, pitting oedema, scrotal oedema, swelling face and tongue oedema.
+
 In the Phase III dose-optimisation study in patients with chronic phase CML (median duration of treatment of 23 months), the incidence of pleural effusion and congestive heart failure/cardiac dysfunction was lower in patients treated with SPRYCEL 100 mg once daily than in those treated with SPRYCEL 70 mg twice daily (Table 3a).
 Myelosuppression was also reported less frequently with the 100 mg once daily (see Laboratory test abnormalities below).
 
-Table 3a: Selected Adverse Drug Reactions Reported in Phase III Dose-Optimisation Study: Chronic Phase CML
+Table 3a: Selected adverse drug reactions reported in phase III dose-optimisation study: Chronic Phase CML
 100 mg once daily 140 mg once dailya 50 mg twice dailya 70 mg twice dailya
 
 n = 165 n = 163 n = 167 n = 167
 
-All Grade All Grade All Grade All Grade Grades 3/4 Grades 3/4 Grades 3/4 Grades 3/4
+All Grade All Grade All Grade All Grade grades 3/4 grades 3/4 grades 3/4 grades 3/4
 
-Preferred Term Percent (%) of Patients
+Preferred term Percent (%) of patients
 Diarrhoea 27 2 30 4 31 2 27 4
-Fluid Retention 34 4 40 7 37 5 40 10
-Superficial Oedema 18 0 17 1 19 0 19 1
-Pleural Effusion 18 2 26 5 24 4 24 5
+Fluid retention 34 4 40 7 37 5 40 10
+Superficial oedema 18 0 17 1 19 0 19 1
+Pleural effusion 18 2 26 5 24 4 24 5
 Generalised 3 0 5 0 0 0 2 0
 
 oedema
@@ -170,16 +171,17 @@ b Includes ventricular dysfunction, cardiac failure, cardiac failure congestive,
 
 In the Phase III dose-optimisation study in patients with advanced phase CML and Ph+ ALL (median duration of treatment of 14 months for accelerated phase CML, 3 months for myeloid blast CML,
 4 months for lymphoid blast CML and 3 months for Ph+ ALL), fluid retention (pleural effusion and pericardial effusion) was reported less frequently in patients treated with SPRYCEL 140 mg once daily than in those treated with 70 mg twice daily (Table 3b).
-Table 3b: Selected Adverse Drug Reactions Reported in Phase III Dose-Optimisation Study: Advanced Phase CML and Ph+ ALL
+
+Table 3b: Selected adverse drug reactions reported in phase III dose-optimisation study: Advanced Phase CML and Ph+ ALL
 
 140 mg once daily 70 mg twice dailya
 n = 304 n = 305
-All Grades Grade 3/4 All Grades Grade 3/4
-Preferred Term Percent (%) of Patients
+All grades Grade 3/4 All grades Grade 3/4
+Preferred term Percent (%) of patients
 Diarrhoea 28 3 29 4
-Fluid Retention 33 7 43 11
+Fluid retention 33 7 43 11
 Superficial oedema 15 < 1 19 1
-Pleural Effusion 20 6 34 7
+Pleural effusion 20 6 34 7
 Generalised oedema 2 0 3 1
 Congestive heart failure/ 1 0 2 1
 
@@ -195,11 +197,11 @@ Gastrointestinal bleeding 8 6 12 6
 a Not a recommended starting dose of SPRYCEL for advanced phase CML and Ph+ ALL (see section 4.2).
 b Includes ventricular dysfunction, cardiac failure, cardiac failure congestive, cardiomyopathy, congestive cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and ventricular failure.
 
-Postmarketing experience:
+Post-marketing experience
 The following adverse reactions have been reported during post-marketing surveillance.
 The frequency of these reactions is considered not known (cannot be estimated from the available data).
 
-Table 4: Tabulated Summary of Adverse Reactions from Post-Marketing Reports
+Table 4: Tabulated summary of adverse reactions from post-marketing reports
 
 Cardiac disorders
 Not known atrial fibrillation/atrial flutter
@@ -210,15 +212,15 @@ Not known interstitial lung disease
 Gastrointestinal disorders
 Not known fatal gastrointestinal haemorrhage
 
-Laboratory test abnormalities:
-Haematology:
+Laboratory test abnormalities
+Haematology
 In CML, cytopenias (thrombocytopenia, neutropenia, and anaemia) were a consistent finding.
 However, the occurrence of cytopenias was also clearly dependent on the stage of the disease.
 The frequency of grade 3 and 4 haematological abnormalities is presented in Table 5.
 
-Table 5: CTC Grades 3/4 Haematological Laboratory Abnormalities in
+Table 5: CTC grades 3/4 haematological laboratory abnormalities in
 
-Clinical Studies
+clinical studies
 Lymphoid
 Blast Phase Myeloid Blast and
 
@@ -226,7 +228,7 @@ Chronic Phase Accelerated Phase Phase Ph+ ALL
 (n= 1,150) (n= 502) (n= 280) (n= 250)
 
 Percent (%) of Patients
-Haematology Parameters
+Haematology parameters
 
 Neutropenia 47 69 80 79
 Thrombocytopenia 41 72 82 78
@@ -239,7 +241,7 @@ In the Phase III dose-optimisation study in patients with chronic phase CML, the
 In patients who experienced grade 3 or 4 myelosuppression, recovery generally occurred following brief dose interruptions and/or reductions and permanent discontinuation of treatment occurred in 5% of patients.
 Most patients continued treatment without further evidence of myelosuppression.
 
-Biochemistry:
+Biochemistry
 Grade 3 or 4 elevations of transaminases or bilirubin were reported in < 1% of patients with chronic phase CML but elevations were reported with an increased frequency of 1 to 7% of patients with advanced phase CML and Ph+ ALL.
 It was usually managed with dose reduction or interruption.
 In the phase III dose-optimisation study in chronic phase CML, grade 3 or 4 elevations of transaminases or bilirubin were reported in ≤ 1% of patients with similar low incidence in the four treatment groups.
@@ -251,7 +253,7 @@ Patients developing grade 3 or 4 hypocalcemia often had recovery with oral calci
 Grade 3 or 4 hypocalcemia, hypokalaemia, and hypophosphatemia were reported in patients with all phases of CML but were reported with an increased frequency in patients with myeloid or lymphoid blast phase CML and Ph+ ALL.
 Grade 3 or 4 elevations in creatinine were reported in < 1% of patients with chronic phase CML and were reported with an increased frequency of 1 to 4% of patients with advanced phase CML.
 
-Electrocardiogram:
+Electrocardiogram
 In 5 Phase II clinical trials in patients with leukaemia, repeated baseline and on-treatment ECGs were obtained at pre-specified time points and read centrally for 865 patients receiving SPRYCEL 70 mg twice daily.
 QT interval was corrected for heart rate by Fridericia's method.
 At all post-dose time points on day 8, the mean changes from baseline in QTcF interval were 4 - 6 msec, with associated upper 95% confidence intervals < 7 msec.
