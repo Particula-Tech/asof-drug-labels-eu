@@ -5,3 +5,5 @@ Accidental overdose was noted in one patient who took 1,200 mg twice a day for 3
 No adverse reactions were noted by the investigator.
 
 Posaconazole is not removed by haemodialysis.
+There is no special treatment available in the case of overdose with posaconazole.
+Supportive care may be considered.

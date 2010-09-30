@@ -14,7 +14,7 @@ The AUC of posaconazole is: 4 times greater when administered with a high-fat me
 Distribution
 Posaconazole is slowly absorbed and slowly eliminated with a large apparent volume of distribution (1,774 litres) and is highly protein bound (> 98 %), predominantly to serum albumin.
 
-Metabolism
+Biotransformation
 Posaconazole does not have any major circulating metabolites and its concentrations are unlikely to be altered by inhibitors of CYP450 enzymes.
 Of the circulating metabolites, the majority are glucuronide conjugates of posaconazole with only minor amounts of oxidative (CYP450 mediated) metabolites observed.
 The excreted metabolites in urine and faeces account for approximately 17 % of the administered radiolabelled dose.
@@ -24,6 +24,7 @@ Posaconazole is slowly eliminated with a mean half-life (t½) of 35 hours (range
 After administration of 14C-posaconazole, radioactivity was predominantly recovered in the faeces (77 % of the radiolabelled dose) with the major component being parent compound (66 % of the radiolabelled dose).
 Renal clearance is a minor elimination pathway, with 14 % of the radiolabelled dose excreted in urine (< 0.2 % of the radiolabelled dose is parent compound).
 Steady-state is attained following 7 to 10 days of multiple-dose administration.
+
 Pharmacokinetics in special populations
 Children (< 18 years)
 Following administration of 800 mg per day of posaconazole as a divided dose for treatment of invasive fungal infections, mean trough plasma concentrations from 12 patients 8 - 17 years of age (776 ng/ml) were similar to concentrations from 194 patients 18 - 64 years of age (817 ng/ml).
@@ -32,7 +33,6 @@ Similarly, in the prophylaxis studies, the mean steady-state posaconazole averag
 
 Gender
 The pharmacokinetics of posaconazole are comparable in men and women.
-
 Elderly (≥ 65 years)
 An increase in Cmax (26 %) and AUC (29 %) was observed in elderly subjects (24 subjects ≥ 65 years of age) relative to younger subjects (24 subjects 18 - 45 years of age).
 However, in clinical efficacy trials, the safety profile of posaconazole between the young and elderly patients was similar.

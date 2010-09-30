@@ -1,6 +1,6 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
-Effects of other medicinal products on posaconazole:
+Effects of other medicinal products on posaconazole
 Posaconazole is metabolised via UDP glucuronidation (phase 2 enzymes) and is a substrate for p-glycoprotein (P-gp) efflux in vitro.
 Therefore, inhibitors (e.g. verapamil, ciclosporin, quinidine, clarithromycin, erythromycin, etc.) or inducers (e.g. rifampicin, rifabutin, certain anticonvulsants, etc.) of these clearance pathways may increase or decrease posaconazole plasma concentrations, respectively.
 
@@ -19,11 +19,19 @@ Co-administration of posaconazole with H2 receptor antagonists should be avoided
 Similarly, administration of 400 mg posaconazole with esomeprazole (40 mg daily) decreased mean Cmax and AUC by 46 % and 32 %, respectively, compared to dosing with 400 mg posaconazole alone.
 Co-administration of posaconazole with proton pump inhibitors should be avoided if possible.
 
-Effects of posaconazole on other medicinal products:
+Food: The absorption of posaconazole is significantly increased by food (see sections 4.2 and 5.2).
+
+Alcohol: There are no data on interaction with posaconazole.
+
+Herbal medicinal products: There are no data on interaction with posaconazole.
+
+Smoking: There are no data on interaction with posaconazole.
+
+Effects of posaconazole on other medicinal products
 Posaconazole is a potent inhibitor of CYP3A4.
 Co-administration of posaconazole with CYP3A4 substrates may result in large increases in exposure to CYP3A4 substrates as exemplified by the effects on tacrolimus, sirolimus, atazanavir and midazolam below.
 Caution is advised during co-administration of posaconazole with CYP3A4 substrates administered intravenously and the dose of the CYP3A4 substrate may need to be reduced.
-If posaconazole is used concomitantly with CYP3A4 substrates that are administered orally, and for which an increase in plasma concentrations may be associated with unacceptable adverse events, plasma concentrations of the CYP3A4 substrate and/or adverse events should be closely monitored and the dose adjusted as needed.
+If posaconazole is used concomitantly with CYP3A4 substrates that are administered orally, and for which an increase in plasma concentrations may be associated with unacceptable adverse reactions, plasma concentrations of the CYP3A4 substrate and/or adverse reactions should be closely monitored and the dose adjusted as needed.
 Several of the interaction studies were conducted in healthy volunteers in whom a higher exposure to posaconazole occurs compared to patients administered the same dose.
 The effect of posaconazole on CYP3A4 substrates in patients might be somewhat lower than that observed in healthy volunteers, and is expected to be variable between patients due to the variable posaconazole exposure in patients.
 The effect of co-administration with posaconazole on plasma levels of CYP3A4 substrates may also be variable within a patient, unless posaconazole is administered in a strictly standardised way with food, given the large food effect on posaconazole exposure (see section 5.2).
@@ -44,17 +52,7 @@ If co-administered, then it is recommended that dose adjustment of vinca alkaloi
 
 Rifabutin: Posaconazole increased the Cmax and AUC of rifabutin by 31 % and 72 %, respectively.
 Concomitant use of posaconazole and rifabutin should be avoided unless the benefit to the patient outweighs the risk (see also above regarding the effect of rifabutin on plasma levels of posaconazole).
-If these medicinal products are co-administered, careful monitoring of full blood counts and adverse events related to increased rifabutin levels (e.g. uveitis) is recommended.
-
-Ciclosporin: In heart transplant patients on stable doses of ciclosporin, posaconazole 200 mg once daily increased ciclosporin concentrations requiring dose reductions.
-Cases of elevated ciclosporin levels resulting in serious adverse events, including nephrotoxicity and one fatal case of leukoencephalopathy, were reported in clinical efficacy studies.
-When initiating treatment with posaconazole in patients already receiving ciclosporin, the dose of ciclosporin should be reduced (e.g. to about three quarters of the current dose).
-Thereafter blood levels of ciclosporin should be monitored carefully during co-administration, and upon discontinuation of posaconazole treatment, and the dose of ciclosporin should be adjusted as necessary.
-
-Tacrolimus: Posaconazole increased Cmax and AUC of tacrolimus (0.05 mg/kg body weight single dose) by 121 % and 358 %, respectively.
-Clinically significant interactions resulting in hospitalisation and/or posaconazole discontinuation were reported in clinical efficacy studies.
-When initiating posaconazole treatment in patients already receiving tacrolimus, the dose of tacrolimus should be reduced (e.g. to about one third of the current dose).
-Thereafter blood levels of tacrolimus should be monitored carefully during co-administration, and upon discontinuation of posaconazole, and the dose of tacrolimus should be adjusted as necessary.
+If these medicinal products are co-administered, careful monitoring of full blood counts and adverse reactions related to increased rifabutin levels (e.g. uveitis) is recommended.
 
 Sirolimus: Repeat dose administration of oral posaconazole (400 mg twice daily for 16 days) increased the Cmax and AUC of sirolimus (2 mg single dose) an average of 6.7-fold and 8.9-fold (range 3.1 to 17.5-fold), respectively, in healthy subjects.
 The effect of posaconazole on sirolimus in patients is unknown, but is expected to be variable due to the variable posaconazole exposure in patients.
@@ -65,11 +63,21 @@ It should be noted that the relationship between sirolimus trough concentration 
 As a result, sirolimus trough concentrations that fall within the usual therapeutic range may result in sub-therapeutic levels.
 Therefore trough concentrations that fall in the upper part of the usual therapeutic range should be targetted and careful attention should be paid to clinical signs and symptoms, laboratory parameters and tissue biopsies.
 
+Ciclosporin: In heart transplant patients on stable doses of ciclosporin, posaconazole 200 mg once daily increased ciclosporin concentrations requiring dose reductions.
+Cases of elevated ciclosporin levels resulting in serious adverse reactions, including nephrotoxicity and one fatal case of leukoencephalopathy, were reported in clinical efficacy studies.
+When initiating treatment with posaconazole in patients already receiving ciclosporin, the dose of ciclosporin should be reduced (e.g. to about three quarters of the current dose).
+Thereafter blood levels of ciclosporin should be monitored carefully during co-administration, and upon discontinuation of posaconazole treatment, and the dose of ciclosporin should be adjusted as necessary.
+
+Tacrolimus: Posaconazole increased Cmax and AUC of tacrolimus (0.05 mg/kg body weight single dose) by 121 % and 358 %, respectively.
+Clinically significant interactions resulting in hospitalisation and/or posaconazole discontinuation were reported in clinical efficacy studies.
+When initiating posaconazole treatment in patients already receiving tacrolimus, the dose of tacrolimus should be reduced (e.g. to about one third of the current dose).
+Thereafter blood levels of tacrolimus should be monitored carefully during co-administration, and upon discontinuation of posaconazole, and the dose of tacrolimus should be adjusted as necessary.
+
 HIV Protease Inhibitors: As HIV protease inhibitors are CYP3A4 substrates, it is expected that posaconazole will increase plasma levels of these antiretroviral agents.
 Following co-administration of oral posaconazole (400 mg twice daily) with atazanavir (300 mg once daily) for 7 days in healthy subjects Cmax and AUC of atazanavir increased by an average of 2.6-fold and 3.7-fold (range 1.2 to 26-fold), respectively.
 Following co-administration of oral posaconazole (400 mg twice daily) with atazanavir and ritonavir (300/100 mg once daily) for 7 days in healthy subjects Cmax and AUC of atazanavir increased by an average of 1.5-fold and 2.5-fold (range 0.9 to 4.1-fold), respectively.
 The addition of posaconazole to therapy with atazanavir or with atazanavir plus ritonavir was associated with increases in plasma bilirubin levels.
-Frequent monitoring for adverse events and toxicity related to antiretroviral agents that are substrates of CYP3A4 is recommended during co-administration with posaconazole.
+Frequent monitoring for adverse reactions and toxicity related to antiretroviral agents that are substrates of CYP3A4 is recommended during co-administration with posaconazole.
 
 Midazolam and other benzodiazepines metabolised by CYP3A4: In a study in healthy volunteers posaconazole (200 mg once daily for 10 days) increased the exposure (AUC) of IV midazolam
 (0.05 mg/kg) by 83 %.
@@ -78,11 +86,10 @@ Both doses of posaconazole increased Cmax and AUC of oral midazolam (2 mg single
 In addition, oral posaconazole (200 mg or 400 mg) prolonged the mean terminal half-life of midazolam from approximately 3-4 hours to 8-10 hours during co-administration.
 Due to the risk of prolonged sedation it is recommended that dose adjustments should be considered when posaconazole is administered concomitantly with any benzodiazepine that is metabolised by CYP3A4 (e.g. midazolam, triazolam, alprazolam).
 
-Calcium channel blockers metabolised through CYP3A4 (e.g. diltiazem, verapamil, nifedipine, nisoldipine): Frequent monitoring for adverse events and toxicity related to calcium channel blockers is recommended during co-administration with posaconazole.
+Calcium channel blockers metabolised through CYP3A4 (e.g. diltiazem, verapamil, nifedipine, nisoldipine): Frequent monitoring for adverse reactions and toxicity related to calcium channel blockers is recommended during co-administration with posaconazole.
 Dose adjustment of calcium channel blockers may be required.
 
 Digoxin: Administration of other azoles has been associated with increases in digoxin levels.
 Therefore, posaconazole may increase plasma concentration of digoxin and digoxin levels need to be monitored when initiating or discontinuing posaconazole treatment.
-
 Sulfonylureas: Glucose concentrations decreased in some healthy volunteers when glipizide was co-administered with posaconazole.
 Monitoring of glucose concentrations is recommended in diabetic patients.

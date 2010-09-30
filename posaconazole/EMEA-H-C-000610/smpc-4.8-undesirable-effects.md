@@ -1,9 +1,10 @@
 # 4.8 Undesirable effects
 
 The safety of posaconazole has been assessed in > 2,400 patients and healthy volunteers enrolled in clinical trials and from post-marketing experience.
-The most frequently reported serious related adverse events included nausea, vomiting, diarrhoea, pyrexia, and increased bilirubin.
+The most frequently reported serious related adverse reactions included nausea, vomiting, diarrhoea, pyrexia, and increased bilirubin.
+Within the organ system classes, adverse reactions are listed under headings of frequency using the following categories: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥ 1/10,000 to <1/1,000); very rare (<1/10,000); not known.
 
-| Table 2. Treatment-related adverse events (TRAE) by body system and frequency Common (≥1/100, <1/10); uncommon (≥1/1,000, <1/100); rare (≥1/10,000, <1/1,000); not known (cannot be estimated from the available data) |  |
+| Table 2. Adverse reactions by body system and frequency |  |
 | --- | --- |
 | Blood and lymphatic system disorders Common: Uncommon: Rare: | neutropenia thrombocytopenia, leukopenia, anaemia, eosinophilia, lymphadenopathy haemolytic uraemic syndrome, thrombotic thrombocytopenic purpura, pancytopenia, coagulopathy, haemorrhage |
 | Immune system disorders Uncommon: Rare: | allergic reaction hypersensitivity reaction |
@@ -17,7 +18,7 @@ The most frequently reported serious related adverse events included nausea, vom
 | Vascular disorders Uncommon: Rare: | hypertension, hypotension pulmonary embolism, deep vein thrombosis |
 | Respiratory, thoracic and mediastinal disorders Rare: | pulmonary hypertension, interstitial pneumonia, pneumonitis |
 | Gastrointestinal disorders Common: Uncommon: Rare: | vomiting, nausea, abdominal pain, diarrhoea, dyspepsia, dry mouth, flatulence pancreatitis gastrointestinal haemorrhage, ileus |
-| Hepatobiliary disorders Common: Uncommon: Rare: | liver function tests raised (ALT increased, AST increased, bilirubin increased, alkaline phosphatase increased, GGT increased) hepatocellular damage*, hepatitis, jaundice, hepatomegaly hepatic failure, hepatitis cholestatic, cholestasis, hepatosplenomegaly, liver tenderness, asterixis |
+| Hepatobiliary disorders Common: Uncommon: Rare: | liver function tests raised (ALT increased, AST increased, bilirubin increased, alkaline phosphatase increased, GGT increased) hepatocellular damage, hepatitis, jaundice, hepatomegaly hepatic failure, hepatitis cholestatic, cholestasis, hepatosplenomegaly, liver tenderness, asterixis |
 | Skin and subcutaneous tissue disorders Common: Uncommon: Rare: | rash mouth ulceration, alopecia Stevens Johnson syndrome, vesicular rash |
 | Musculoskeletal and connective tissue disorders Uncommon: | back pain |
 | Renal and urinary disorders Uncommon: Rare: | acute renal failure, renal failure, blood creatinine increased renal tubular acidosis, interstitial nephritis |
@@ -26,4 +27,6 @@ The most frequently reported serious related adverse events included nausea, vom
 | Investigations Uncommon: | altered medicine levels |
 
 § See section 4.4.
-* During post-marketing surveillance severe hepatic injury with fatal outcome has been reported (see section 4.4).
+
+Hepatobiliary disorders
+During post-marketing surveillance severe hepatic injury with fatal outcome has been reported (see section 4.4).

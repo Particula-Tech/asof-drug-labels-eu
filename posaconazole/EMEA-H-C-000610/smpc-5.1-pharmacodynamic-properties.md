@@ -1,10 +1,11 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antimycotics for systemic use-triazole derivatives,
+Pharmacotherapeutic group: Antimycotics for systemic use, triazole derivatives,
 ATC code: J02A C04.
 
 Mechanism of action
 Posaconazole inhibits the enzyme lanosterol 14α-demethylase (CYP51), which catalyses an essential step in ergosterol biosynthesis.
+
 Microbiology
 Posaconazole has been shown in vitro to be active against the following microorganisms: Aspergillus species (Aspergillus fumigatus, A. flavus, A. terreus, A. nidulans, A. niger, A. ustus), Candida species
 (Candida albicans, C. glabrata, C. krusei, C. parapsilosis, C. tropicalis, C. dubliniensis, C. famata, C. inconspicua, C. lipolytica, C. norvegensis, C. pseudotropicalis), Coccidioides immitis, Fonsecaea pedrosoi, and species of Fusarium, Rhizomucor, Mucor, and Rhizopus.
@@ -13,11 +14,10 @@ The microbiological data suggest that posaconazole is active against Rhizomucor,
 Resistance
 Clinical isolates with decreased susceptibility to posaconazole have been identified.
 The principle mechanism of resistance is the acquisition of substitutions in the target protein, CYP51.
-
 Combination with other antifungal agents
 The use of combination antifungal therapies should not decrease the efficacy of either posaconazole or the other therapies; however, there is currently no clinical evidence that combination therapy will provide an added benefit.
 
-Pharmacokinetic / Pharmacodynamic relationships:
+Pharmacokinetic / Pharmacodynamic relationships
 A correlation between total medicinal product exposure divided by MIC (AUC/MIC) and clinical outcome was observed.
 The critical ratio for subjects with Aspergillus infections was ~200.
 It is particularly important to try to ensure that maximal plasma levels are achieved in patients infected with Aspergillus (see sections 4.2 and 5.2 on recommended dose regimens and the effects of food on absorption).
@@ -44,14 +44,18 @@ Overall efficacy of posaconazole at the end of treatment for invasive aspergillo
 | A. terreus | 4/14 (29 %) | 2/13 (15 %) |
 | A. niger | 3/5 (60 %) | 2/7 (29 %) |
 
-1 Includes other less common species or species unknown
-Fusarium spp.: 11 of 24 patients who had proven or probable fusariosis were successfully treated with posaconazole 800 mg/day in divided doses for a median of 124 days and up to 212 days.
+Fusarium spp.
+11 of 24 patients who had proven or probable fusariosis were successfully treated with posaconazole 800 mg/day in divided doses for a median of 124 days and up to 212 days.
 Among eighteen patients who were intolerant or had infections refractory to amphotericin B or itraconazole, seven patients were classed as responders.
 
-Chromoblastomycosis/Mycetoma: 9 of 11 patients were successfully treated with posaconazole 800 mg/day in divided doses for a median of 268 days and up to 377 days.
+Chromoblastomycosis/Mycetoma
+9 of 11 patients were successfully treated with posaconazole 800 mg/day in divided doses for a median of 268 days and up to 377 days.
 Five of these patients had chromoblastomycosis due to Fonsecaea pedrosoi and 4 had mycetoma, mostly due to Madurella species.
 
-Coccidioidomycosis: 11 of 16 patients were successfully treated (at the end of treatment complete or partial resolution of signs and symptoms present at baseline) with posaconazole 800 mg/day in divided doses for a median of 296 days and up to 460 days.
+Coccidioidomycosis
+
+1 Includes other less common species or species unknown
+11 of 16 patients were successfully treated (at the end of treatment complete or partial resolution of signs and symptoms present at baseline) with posaconazole 800 mg/day in divided doses for a median of 296 days and up to 460 days.
 
 Treatment of azole-susceptible Oropharyngeal Candidiasis (OPC)
 A randomised, evaluator-blind, controlled study was completed in HIV-infected patients with azole-susceptible oropharyngeal candidiasis (most patients studied had C. albicans isolated at baseline).
@@ -86,6 +90,7 @@ The primary efficacy endpoint was the incidence of proven/probable IFIs as deter
 A key secondary endpoint was the incidence of proven/probable IFIs at 100 days post-randomization.
 New diagnosis of acute myelogenous leukemia was the most common underlying condition (435/602, [72 %]).
 The mean duration of therapy was 29 days for posaconazole and 25 days for fluconazole/itraconazole.
+
 In both prophylaxis studies, aspergillosis was the most common breakthrough infection.
 See Table 5 and 6 for results from both studies.
 There were fewer breakthrough Aspergillus infections in patients receiving posaconazole prophylaxis when compared to control patients.
@@ -141,7 +146,6 @@ The safety profile in these patients < 18 years of age appears similar to the sa
 Based on pharmacokinetic data in 10 of these paediatric patients, the pharmacokinetic profile appears to be similar to patients ≥ 18 years of age.
 
 Safety and efficacy in paediatric patients below the age of 18 years have not been established.
-
 Electrocardiogram evaluation
 Multiple, time-matched ECGs collected over a 12 hour period were obtained before and during administration of posaconazole (400 mg twice daily with high fat meals) from 173 healthy male and female volunteers aged 18 to 85 years.
 No clinically relevant changes in the mean QTc (Fridericia) interval from baseline were observed.
