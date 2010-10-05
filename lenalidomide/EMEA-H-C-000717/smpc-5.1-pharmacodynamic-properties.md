@@ -18,13 +18,13 @@ The dose of dexamethasone was reduced to 40 mg orally once daily on
 Days 1 to 4 of each 28-day cycle after the first 4 cycles of therapy.
 In both studies, treatment was to continue until disease progression.
 In both studies, dose adjustments were allowed based on clinical and laboratory finding.
-
 The primary efficacy endpoint in both studies was time to progression (TTP).
 In total, 353 patients were evaluated in the MM-009 study; 177 in the lenalidomide/dexamethasone group and 176 in the placebo/dexamethasone group and, in total, 351 patients were evaluated in the MM-010 study; 176 in the lenalidomide/dexamethasone group and 175 in the placebo/dexamethasone group.
 
 In both studies, the baseline demographic and disease-related characteristics were comparable between the lenalidomide/dexamethasone and placebo/dexamethasone groups.
 Both patient populations presented a median age of 63 years, with a comparable male to female ratio.
 The ECOG performance status was comparable between both groups, as was the number and type of prior therapies.
+
 Pre-planned interim analyses of both studies showed that lenalidomide/dexamethasone was statistically significantly superior (p < 0.00001) to dexamethasone alone for the primary efficacy endpoint, TTP (median follow-up duration of 98.0 weeks).
 Complete response and overall response rates in the lenalidomide/dexamethasone arm were also significantly higher than the dexamethasone/placebo arm in both studies.
 Results of these analyses subsequently led to an unblinding in both studies, in order to allow patients in the placebo/dexamethasone group to receive treatment with the lenalidomide/dexamethasone combination.

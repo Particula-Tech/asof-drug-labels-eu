@@ -15,8 +15,8 @@ The most frequently observed adverse reactions which occurred significantly more
 The adverse reactions observed in patients treated with lenalidomide/dexamethasone are listed below by system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Frequencies are defined as: very common (≥ 1/10); common
-(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000), very rare
-(< 1/10,000 including isolated reports).
+(≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare
+(< 1/10,000 including isolated reports), unknown (cannot be estimated from the available data).
 In the majority of cases, there was no significant difference in the incidence of specific adverse events between the two treatment arms.
 Only those adverse reactions marked with * occurred significantly more frequently in the lenalidomide/dexamethasone arm compared to the placebo/dexamethasone arm.
 
@@ -105,12 +105,16 @@ Common: Pulmonary embolism, dyspnoea*, exertional dyspnoea, bronchitis, cough,
 pharyngitis, nasopharyngitis, hoarseness, hiccups, epistaxis
 Uncommon: Bronchopneumopathy, asthma, respiratory distress, pulmonary congestion, pleuritic pain, nasal congestion, throat secretion increased, laryngitis, sinus congestion, sinus pain, rhinorrhoea, dry throat
 
+Unknown: Interstitial pneumonitis†
+
 Gastrointestinal disorders
 Very Common: Constipation, diarrhoea, nausea, increase and decrease in weight
 
 Common: Vomiting, dyspepsia, upper abdominal pain, gastritis, abdominal distension,
 
 abdominal pain, stomatitis, dry mouth, flatulence, rectal haemorrhage Uncommon: Gingival bleeding, gastrointestinal haemorrhage, haemorrhoidal haemorrhage, peptic ulcer haemorrhage, oesophagitis, gastro-oesophageal reflux disease, colitis, caecitis, gastroduodenitis, aptyalism, proctitis, gastroenteritis, oesophageal pain, dysphagia, odynophagia, epigastric discomfort, aphthous stomatitis, cheilitis, glossodynia, gingivitis, lip ulceration, tongue ulceration, oral pain, toothache, sensitivity of teeth, oral hypoaesthesia, lip pain, coated tongue
+
+Unknown: Pancreatitis†
 
 Hepatobiliary disorders
 Uncommon: Abnormal liver function tests, increased alanine aminotransferase, increased aspartate aminotransferase, increased blood bilirubin
@@ -152,7 +156,6 @@ Very Common: Fatigue*, asthenia*, peripheral oedema
 Common: Pyrexia, rigors, mucosal inflammation, oedema, lethargy, malaise
 
 Uncommon: Hyperpyrexia, chest pain, chest tightness, pain, difficulty in walking, abnormal gait, thirst, chest pressure sensation, feeling cold, feeling jittery, influenza-like illness, submandibular mass, fall, impaired healing
-
 Investigations
 Uncommon: Prolonged prothrombin time, prolonged activated partial thromboplastin time, increased International Normalised Ratio, increased blood alkaline phosphatase, increased blood lactate dehydrogenase, increased C-Reactive Protein, Cytomegalovirus antibody positive
 
@@ -161,5 +164,6 @@ Injury, poisoning and procedural complications
 Common: Contusion
 
 Uncommon: Wound complication
+
 Haemorrhagic disorders
 Haemorrhagic disorders are listed under several system organ classes: Blood and lymphatic system disorders; nervous system disorders (intracranial haemorrhage); respiratory, thoracic and mediastinal disorders (epistaxis); gastrointestinal disorders (gingival bleeding, haemorrhoidal haemorrhage, rectal haemorrhage); renal and urinary disorders (haematuria); Injury, poisoning and procedural complications (contusion) and vascular disorders (ecchymosis).
