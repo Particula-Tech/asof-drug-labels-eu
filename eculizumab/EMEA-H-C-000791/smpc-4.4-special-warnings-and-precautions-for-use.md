@@ -15,7 +15,6 @@ Patients should be informed of these signs and symptoms and steps taken to seek 
 Other Systemic Infections: Due to its mechanism of action, Soliris therapy should be administered with caution to patients with active systemic infections.
 The overall severity and frequency of infections in Soliris treated patients was similar to placebo treated patients in clinical studies, although an increase in the number and severity of infections, particularly due to encapsulated bacteria, cannot be excluded.
 Patients should be provided with information from the Patient Information Leaflet to increase their awareness of potential serious infections and the signs and symptoms of them.
-
 Infusion Reactions: As with all therapeutic proteins, administration of Soliris may result in infusion reactions or immunogenicity that could cause allergic or hypersensitivity reactions (including anaphylaxis), though immune system disorders within 48 hours of Soliris administration did not differ from placebo treatment in PNH and non-PNH studies conducted with Soliris.
 In clinical trials, no PNH patients experienced an infusion reaction which required discontinuation of Soliris.
 Soliris administration should be interrupted in all patients experiencing severe infusion reactions and appropriate medical therapy administered.

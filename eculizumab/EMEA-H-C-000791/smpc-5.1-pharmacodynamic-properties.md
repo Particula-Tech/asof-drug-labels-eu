@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Immunomodulators, ATC code: L04AA25
+
 Soliris is a recombinant humanised monoclonal IgG2/4k antibody that binds to the human C5 complement protein and inhibits the activation of terminal complement.
 The Soliris antibody contains human constant regions and murine complementarity-determining regions grafted onto the human framework light- and heavy-chain variable regions.
 Soliris is composed of two 448 amino acid heavy chains and two 214 amino acid light chains and has a molecular weight of approximately 148kDa.
@@ -38,20 +39,22 @@ Major baseline characteristics were balanced (see table 2).
 In the non-controlled study C04-002 (SHEPHERD), PNH patients with at least one transfusion in the prior 24 months and at least 30,000 platelets/microliter received Soliris over a 52-week period.
 Concomitant medications included anti-thrombotic agents in 63% of the patients and systemic corticosteroids in 40% of the patients.
 Baseline characteristics are shown in Table 2.
+
 Table 2: Patient Demographics and Characteristics in C04-001 and C04-002
 
-|  | C04-001 | C04-002 |
-| --- | --- | --- |
-| Parameter | Placebo Soliris N = 44 N = 43 | Soliris N = 97 |
-| Mean Age (SD) | 38.4 (13.4) 42.1 (15.5) | 41.1 (14.4) |
-| Gender - Female (%) | 29 (65.9) 23 (53.5) | 49 (50.5) |
-| History of Aplastic Anemia or MDS (%) | 12 (27.3) 8 (18.7) | 29 (29.9) |
-| Concomitant Anticoagulants (%) | 20 (45.5) 24 (55.8) | 59 (61) |
-| Concomitant Steroids/Immunosuppressant Treatments (%) | 16 (36.4) 14 (32.6) | 46 (47.4) |
-| Discontinued treatment | 10 2 | 1 |
-| PRBC in previous 12 months (median (Q1,Q3)) | 18.0 (12.0, 17.0 (13.5, 25.0) 24.0) | 8.0 (4.0, 24.0)4 |
-| Mean Hgb level (g/dL) at setpoint (SD) | 7.7 (0.75) 7.8 (0.79) | N/A |
-| Pre-treatment LDH levels (median, U/L) | 2,234.5 2,032.0 | 2,051.0 |
+C04-001 C04-002
+
+| Parameter | Placebo N = 44 | Soliris N = 43 | Soliris N = 97 |
+| --- | --- | --- | --- |
+| Mean Age (SD) | 38.4 (13.4) | 42.1 (15.5) | 41.1 (14.4) |
+| Gender - Female (%) | 29 (65.9) | 23 (53.5) | 49 (50.5) |
+| History of Aplastic Anemia or MDS (%) | 12 (27.3) | 8 (18.7) | 29 (29.9) |
+| Concomitant Anticoagulants (%) | 20 (45.5) | 24 (55.8) | 59 (61) |
+| Concomitant Steroids/Immunosuppressant Treatments (%) | 16 (36.4) | 14 (32.6) | 46 (47.4) |
+| Discontinued treatment | 10 | 2 | 1 |
+| PRBC in previous 12 months (median (Q1,Q3)) | 17.0 (13.5, 25.0) | 18.0 (12.0, 24.0) | 8.0 (4.0, 24.0)4 |
+| Mean Hgb level (g/dL) at setpoint (SD) | 7.7 (0.75) | 7.8 (0.79) | N/A |
+| Pre-treatment LDH levels (median, U/L) | 2,234.5 | 2,032.0 | 2,051.0 |
 
 Free Haemoglobin at baseline (median, mg/dL) 46.2 40.5 34.9
 
@@ -74,11 +77,9 @@ Table 3: Efficacy Outcomes in C04-001 and C04-002
 | LDH levels at end of study (median, U/L) | 2,167 | 239 | < 0.001 | 269 |  | < 0.001 |
 | LDH AUC at end of study (median, U/L x Day) | 411,822 | 58,587 | < 0.001 | -632,264 |  | < 0.001 |
 | Free Hemoglobin at end of study (median, mg/dL) | 62 | 5 | < 0.001 | 5 |  | < 0.001 |
-
-FACIT-Fatigue (effect size) 1.12 < 0.001 1.14 < 0.001
+| FACIT-Fatigue (effect size) |  | 1.12 | < 0.001 | 1.14 |  | < 0.001 |
 
 * Results from study C04-002 refer to pre- versus post-treatment comparisons.
-
 From the 195 patients that originated in C04-001, C04-002 and other initial studies, Soliris-treated PNH patients were enrolled in a long term extension study (E05-001).
 All patients sustained a reduction in intravascular haemolysis over a total Soliris exposure time ranging from 10 to 54 months.
 There were fewer thrombotic events with Soliris treatment than during the same period of time prior to treatment.
