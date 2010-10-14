@@ -19,6 +19,7 @@ Uncommon: ≥ 1/1,000 to < 1/100
 Rare: ≥ 1/10,000 to < 1/1,000
 Very rare: < 1/10,000
 Not known: cannot be estimated from the available data.
+
 Table 1: Treatment-emergent adverse reactions
 
 Common Uncommon Rare Not known*
@@ -30,6 +31,7 @@ ALT increase, AST or without
 increase) concomitant
 increase of
 ALT)
+Common Uncommon Rare Not known*
 Cardiac disorders
 Tachycardia
 Blood and lymphatic system disorders
@@ -74,7 +76,6 @@ fever
 Immune system disorders
 Dermatitis Hypersensi-
 allergic tivity
-Common Uncommon Rare Not known*
 Hepatobiliary disorders
 Hepatic Jaundice
 function
