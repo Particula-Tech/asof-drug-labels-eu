@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
 IgG immunoglobulins are known to cross the placental barrier.
@@ -7,6 +7,7 @@ There are no adequate and well-controlled data from studies in pregnant women, h
 For these reasons MabThera should not be administered to pregnant women unless the possible benefit outweighs the potential risk.
 
 Due to the long retention time of rituximab in B cell depleted patients, women of childbearing potential should use effective contraceptive methods during treatment and for 12 months following MabThera therapy.
+
 Developmental toxicity studies performed in cynomolgus monkeys revealed no evidence of embryotoxicity in utero.
 New born offspring of maternal animals exposed to MabThera were noted to have depleted B cell populations during the post natal phase.
 

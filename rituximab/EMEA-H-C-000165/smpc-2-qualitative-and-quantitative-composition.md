@@ -1,6 +1,6 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
-Each solution contains 10 mg/ml of Rituximab.
+Each ml contains 10 mg of rituximab.
 
 Each single-use vial containing 100 mg of Rituximab.
 
@@ -9,6 +9,6 @@ The antibody is produced by mammalian (Chinese hamster ovary) cell suspension cu
 
 For a full list of excipients, see section 6.1.
 
-[MabThera 500 mg (10 mg/ml) concentrate for solution for infusion]
+[MabThera 500 mg concentrate for solution for infusion]
 
 Each single-use vial containing 500 mg of Rituximab.

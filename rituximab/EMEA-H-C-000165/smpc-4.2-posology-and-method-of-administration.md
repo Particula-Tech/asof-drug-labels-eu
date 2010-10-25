@@ -12,17 +12,22 @@ When MabThera is given in combination with chemotherapy, standard dose reduction
 
 Follicular non-Hodgkin's lymphoma
 Combination therapy
-The recommended dose of MabThera in combination with chemotherapy for induction treatment of previously untreated or relapsed/ refractory patients with follicular NHL is: 375 mg/m2 body surface area per cycle, for up to 8 cycles.
-Mabthera should be administered on day 1 of each chemotherapy cycle, after intravenous administration of the glucocorticoid component of the chemotherapy if applicable.
+The recommended dose of MabThera in combination with chemotherapy for induction treatment of previously untreated or relapsed/ refractory patients with follicular lymphoma is: 375 mg/m2 body surface area per cycle, for up to 8 cycles.
 
-Monotherapy/Maintenance
-The recommended dose of MabThera used as a maintenance treatment for patients with relapsed/refractory follicular NHL who have responded to induction treatment with chemotherapy, with or without MabThera is: 375 mg/m2 body surface area once every 3 months until disease progression or for a maximum period of two years.
+MabThera should be administered on day 1 of each chemotherapy cycle, after intravenous administration of the glucocorticoid component of the chemotherapy if applicable.
 
+Maintenance therapy
+Previously untreated follicular lymphoma
+The recommended dose of MabThera used as a maintenance treatment for patients with previously untreated follicular lymphoma who have responded to induction treatment is: 375 mg/m2 body surface area once every 2 months (starting 2 months after the last dose of induction therapy) until disease progression or for a maximum period of two years.
+
+Relapsed/refractory follicular lymphoma
+The recommended dose of MabThera used as a maintenance treatment for patients with relapsed/refractory follicular lymphoma who have responded to induction treatment is: 375 mg/m2 body surface area once every 3 months (starting 3 months after the last dose of induction therapy) until disease progression or for a maximum period of two years.
+
+Monotherapy
+Relapsed/refractory follicular lymphoma
 The recommended dose of MabThera monotherapy used as induction treatment for adult patients with stage III-IV follicular lymphoma who are chemoresistant or are in their second or subsequent relapse after chemotherapy is: 375 mg/m2 body surface area, administered as an intravenous infusion once weekly for four weeks.
 
-For retreatment with MabThera monotherapy for patients who have responded to previous treatment with MabThera monotherapy for relapsed/refractory follicular NHL, the recommended dose is:
-375 mg/m2 body surface area, administered as an intravenous infusion once weekly for four weeks (see section 5.1).
-
+For retreatment with MabThera monotherapy for patients who have responded to previous treatment with MabThera monotherapy for relapsed/refractory follicular lymphoma, the recommended dose is: 375 mg/m2 body surface area, administered as an intravenous infusion once weekly for four weeks (see section 5.1).
 Diffuse large B cell non-Hodgkin's lymphoma
 MabThera should be used in combination with CHOP chemotherapy.
 The recommended dosage is 375 mg/m2 body surface area, administered on day 1 of each chemotherapy cycle for 8 cycles after intravenous infusion of the glucocorticoid component of CHOP.
@@ -38,23 +43,18 @@ The chemotherapy should be given after MabThera infusion.
 
 Rheumatoid arthritis
 
-Patients treated with MabThera must be given the patient alert card.
+Patients treated with MabThera must be given the patient alert card with each infusion (see Annex IIIA – Labelling).
 
 A course of MabThera consists of two 1000 mg intravenous infusions.
 The recommended dosage of MabThera is 1000 mg by intravenous infusion followed by a second 1000 mg intravenous infusion two weeks later.
 
-Disease activity should be regularly monitored.
-There are limited clinical data on the safety and efficacy of further courses of therapy with MabThera.
-In a small observational cohort, approximately 600 patients with evidence of continued disease activity received 2-5 repeated courses of treatment 6-12 months after the previous course.
-(See sections 4.8 and 5.1).
-Human anti chimeric antibodies (HACA) develop in some patients after the first course of MabThera (see section 5.1).
-The presence of HACA may be associated with the worsening of infusion or allergic reactions after the second infusion of subsequent courses.
-Furthermore, in one case with HACA, failure to deplete B-cells after receipt of further treatment courses has been observed.
-Thus, the benefit/risk balance of therapy with MabThera should be carefully considered before administering subsequent courses of Mabthera.
-If a repeat course of treatment is considered it should not be given at an interval less than 16 weeks.
-Background therapy with glucocorticoids, salicylates, nonsteroidal anti-inflammatory drugs, or analgesics can be continued during treatment with MabThera.
+The need for further courses should be evaluated 24 weeks following the previous course.
+Retreatment should be given at that time if residual disease activity remains, otherwise retreatment should be delayed until disease activity returns.
 
-Rheumatoid arthritis patients should receive treatment with 100 mg intravenous methylprednisolone 30 minutes prior to MabThera to decrease the rate and severity of acute infusion reactions (see method of administration).
+Available data suggest that clinical response is usually achieved within 16 - 24 weeks of an initial treatment course.
+Continued therapy should be carefully reconsidered in patients who show no evidence of therapeutic benefit within this time period.
+
+Patients should receive treatment with 100 mg intravenous methylprednisolone to be completed 30 minutes prior to MabThera infusions to decrease the incidence and severity of infusion related reactions (see method of administration).
 
 First infusion of each course
 The recommended initial rate for infusion is 50 mg/hr; after the first 30 minutes, it can be escalated in 50 mg/hr increments every 30 minutes, to a maximum of 400 mg/hr.
@@ -65,13 +65,13 @@ Subsequent doses of MabThera can be infused at an initial rate of 100 mg/hr, and
 Special populations
 
 Paediatric use
-MabThera is not recommended for use in children and adolescents due to a lack of data on safety and efficacy.
+The safety and efficacy of MabThera in children has not been established.
 
 Elderly
 No dose adjustment is required in elderly patients (aged >65 years).
-
-Method of Administration
+Method of administration
 Premedication with glucocorticoids should be considered if MabThera is not given in combination with glucocorticoid-containing chemotherapy for treatment of non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia.
+
 Premedication consisting of an anti-pyretic and an antihistaminic, e.g. paracetamol and diphenhydramine, should always be administered before each infusion of MabThera.
 
 First infusion
@@ -92,3 +92,9 @@ If the same severe adverse reactions occur for a second time, the decision to st
 
 Mild or moderate infusion-related reactions (section 4.8) usually respond to a reduction in the rate of infusion.
 The infusion rate may be increased upon improvement of symptoms.
+
+[MabThera 500 mg concentrate for solution for infusion]
+
+Previously untreated follicular lymphomaThe recommended dose of MabThera used as a maintenance treatment for patients with previously untreated follicular lymphoma who have responded to induction treatment is: 375 mg/m2 body surface area once every 2 months (starting 2 months after the last dose of induction therapy) until disease progression or for a maximum period of two years.
+
+Patients with MabThera must be given the patient alert card with each infusion (see Annex IIIA – Labelling).
