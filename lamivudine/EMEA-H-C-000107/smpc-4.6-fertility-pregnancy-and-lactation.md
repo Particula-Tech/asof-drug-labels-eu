@@ -12,11 +12,3 @@ There have been reports of mitochondrial dysfunction in infants exposed in utero
 Following oral administration lamivudine was excreted in breast milk at similar concentrations to those found in serum.
 Since lamivudine and the virus pass into breast milk, it is recommended that mothers taking Epivir do not breast-feed their infants.
 It is recommended that HIV infected women do not breast-feed their infants under any circumstances in order to avoid transmission of HIV.
-
-[Epivir 10 mg/ml oral solution]
-
-(all sentences already above)
-
-[Epivir 300 mg film-coated tablets]
-
-Zeffix can be used during pregnancy if clinically needed.

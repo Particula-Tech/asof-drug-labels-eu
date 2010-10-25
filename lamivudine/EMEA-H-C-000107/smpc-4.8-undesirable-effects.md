@@ -3,7 +3,7 @@
 The following adverse reactions have been reported during therapy for HIV disease with Epivir.
 
 The adverse reactions considered at least possibly related to the treatment are listed below by body system, organ class and absolute frequency.
-Frequencies are defined as very common (>1/10), common (>1/100, <1/10), uncommon (>1/1,000, <1/100), rare (>1/10,000, <1/1,000), very rare (<1/10,000).
+Frequencies are defined as very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Blood and lymphatic systems disorders
@@ -26,6 +26,7 @@ Rare: Hepatitis
 
 Skin and subcutaneous tissue disorders
 Common: Rash, alopecia
+Rare: Angioedema
 
 Musculoskeletal and connective tissue disorders
 Common: Arthralgia, muscle disorders
