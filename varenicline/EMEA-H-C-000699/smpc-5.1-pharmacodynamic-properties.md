@@ -71,3 +71,16 @@ The efficacy and safety of varenicline has been evaluated in cardiovascular comp
 Efficacy and safety was similar to that observed in studies with non-cardiovascular compromised smokers.
 The 4 week CQR for varenicline and placebo was 47.3% and 14.3%, respectively and the CA Wk 9-52 was 19.8% (varenicline) vs 7.4% (placebo).
 There was a low incidence of cardiovascular events in both the varenicline and placebo treatment groups.
+
+Subjects with mild-moderate chronic obstructive pulmonary disease (COPD)
+The efficacy and safety of CHAMPIX (1 mg twice daily) for smoking cessation in subjects with mild-moderate COPD was demonstrated in a randomised double-blind placebo-controlled clinical trial.
+In this 52-week duration study, patients received treatment for 12 weeks, followed by a 40-week non-treatment follow-up phase.
+The primary endpoint of the study was the CO-confirmed, 4-week Continuous Quit Rate (4W CQR) from week 9 through week 12 and a key secondary endpoint was the Continuous Abstinence (CA) from Week 9 through Week 52.
+The safety profile of varenicline was comparable to what was reported in other trials in the general population, including pulmonary safety.
+The results for the 4W CQR (weeks 9 through 12) and CA rate (weeks 9 through 52) are shown in the following table:
+
+|  | 4W CQR | CA Wk 9-52 |
+| --- | --- | --- |
+| CHAMPIX, (n = 248) | 42.3% | 18.5% |
+| Placebo, (n = 251) | 8.8% | 5.6% |
+| Odds ratio (CHAMPIX vs Placebo) | 8.40 p<0.0001 | 4.04 p<0.0001 |

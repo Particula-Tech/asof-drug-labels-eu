@@ -79,9 +79,9 @@ Musculoskeletal and connective tissue disorders
 
 Uncommon Joint stiffness, muscle spasms, chest wall pain, costochondritis
 
+Renal and urinary disorders
 System Organ Adverse Drug Reactions
 Class
-Renal and urinary disorders
 
 Uncommon Glycosuria, nocturia, polyuria
 
