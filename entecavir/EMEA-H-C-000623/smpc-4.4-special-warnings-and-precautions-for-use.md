@@ -22,7 +22,6 @@ This observation is based on limited experience in 45 patients with Child-Pugh s
 ≥ 7 at the start of entecavir treatment.
 These patients should be regularly monitored for clinical, virological and serological parameters associated with hepatitis B, liver and renal function and antiviral response during treatment, and if treatment is discontinued, for at least 6 months thereafter.
 Patients experiencing signs of hepatic insufficiency during or post-treatment should be monitored more frequently as appropriate.
-Patients with decompensated cirrhosis may be at higher risk for lactic acidosis.
 
 Lactic acidosis and severe hepatomegaly with steatosis: occurrences of lactic acidosis (in the absence of hypoxaemia), sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues.
 As entecavir is a nucleoside analogue, this risk cannot be excluded.
