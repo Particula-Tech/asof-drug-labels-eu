@@ -3,6 +3,7 @@
 Instructions for administration
 Warning - Do not autoclave safety needle (BD SafetyGlide Shielding Hypodermic Needle) before use.
 Hands must remain behind the needle at all times during use and disposal.
+
 For each of the two syringes:
 
 - Remove glass syringe barrel from tray and check that it is Figure 1 not damaged.
