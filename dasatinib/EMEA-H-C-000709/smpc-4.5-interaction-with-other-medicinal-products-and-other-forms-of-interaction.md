@@ -18,6 +18,7 @@ In patients in whom rifampicin or other CYP3A4 inducers are indicated, alternati
 Histamine-2 antagonists and proton pump inhibitors
 Long-term suppression of gastric acid secretion by H2 antagonists or proton pump inhibitors (e.g. famotidine and omeprazole) is likely to reduce dasatinib exposure.
 In a single-dose study in healthy subjects, the administration of famotidine 10 hours prior to a single dose of SPRYCEL reduced dasatinib exposure by 61%.
+In a study of 14 healthy subjects, administration of a single 100-mg dose of SPRYCEL 22 hours following a 4-day, 40-mg omeprazole dose at steady state reduced the AUC of dasatinib by 43% and the Cmax of dasatinib by 42%.
 The use of antacids should be considered in place of H2 antagonists or proton pump inhibitors in patients receiving SPRYCEL therapy (see section 4.4).
 
 Antacids
