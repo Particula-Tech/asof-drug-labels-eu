@@ -13,6 +13,7 @@ Recommended dose
 The recommended starting dose of lenalidomide is 25 mg orally once daily on days 1-21 of repeated 28-day cycles.
 The recommended dose of dexamethasone is 40 mg orally once daily on days 1-4, 9-12, and 17-20 of each 28-day cycle for the first 4 cycles of therapy and then 40 mg once daily on days 1-4 every 28 days.
 Dosing is continued or modified based upon clinical and laboratory findings (see section 4.4).
+Prescribing physicians should carefully evaluate which dose of dexamethasone to use, taking into account the condition and disease status of the patient.
 
 Lenalidomide treatment must not be started if the Absolute Neutrophil Counts (ANC) < 1.0 x 109/l, and/or platelet counts < 75 x 109/l or, dependent on bone marrow infiltration by plasma cells, platelet counts < 30 x 109/l.
 

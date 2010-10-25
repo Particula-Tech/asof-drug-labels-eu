@@ -21,15 +21,3 @@ In these studies, rabbits were administered 3, 10 and 20 mg/kg/day orally.
 An absence of the intermediate lobe of the lung was observed at 10 and 20 mg/kg/day with dose dependence and displaced kidneys were observed at 20 mg/kg/day.
 Although it was observed at maternotoxic levels they may be attributable to a direct effect.
 Soft tissue and skeletal variations in the foetuses were also observed at 10 and 20 mg/kg/day.
-
-[Revlimid 10 mg hard capsules]
-
-In these studies, rabbits were administered 3, 10 and 20 mg/kg/day orally.An absence of the intermediate lobe of the lung was observed at 10 and 20 mg/kg/day with dose dependence and displaced kidneys were observed at 20 mg/kg/day.
-
-[Revlimid 15 mg hard capsules]
-
-Findingsfrom this study indicate that lenalidomide produced external malformations including non-patent anus and malformations of upper and lower extremities (bent, shortened, malformed, malrotated and/or absent part of the extremities, oligo and/or polydactyly) in the offspring of female monkeys who received the drug during pregnancy.
-
-[Revlimid 25 mg hard capsules]
-
-Developmental toxicity studies were previously conducted in rabbits.In these studies, rabbits were administered 3, 10 and 20 mg/kg/day orally..

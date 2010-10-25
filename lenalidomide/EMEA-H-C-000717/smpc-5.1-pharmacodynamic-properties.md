@@ -18,6 +18,7 @@ The dose of dexamethasone was reduced to 40 mg orally once daily on
 Days 1 to 4 of each 28-day cycle after the first 4 cycles of therapy.
 In both studies, treatment was to continue until disease progression.
 In both studies, dose adjustments were allowed based on clinical and laboratory finding.
+
 The primary efficacy endpoint in both studies was time to progression (TTP).
 In total, 353 patients were evaluated in the MM-009 study; 177 in the lenalidomide/dexamethasone group and 176 in the placebo/dexamethasone group and, in total, 351 patients were evaluated in the MM-010 study; 176 in the lenalidomide/dexamethasone group and 175 in the placebo/dexamethasone group.
 
@@ -44,14 +45,25 @@ Table 1: Summary of Results of Efficacy Analyses as of cut-off date for extended
 | Endpoint | len/dex (N=353) | placebo/dex (N=351) |  |
 | --- | --- | --- | --- |
 | Time to Event |  |  | Hazard ratio [95% CI], p-value a |
-| Time To Progression Median [95% CI], weeks | 60.1 [44.3, 73.1] | 20.1 [17.7, 20.3] | 0.350 [0. 287, 0. 426] , p < 0.001 |
+| Time To Progression Median [95% CI], weeks | 60.1 [44.3, 73.1] | 20.1 [17.7, 20.3] | 0.350 [0.287, 0.426] , p < 0.001 |
 | Progression Free Survival Median [95% CI], weeks | 48.1 [36. 4, 62.1] | 20.0 [16.1, 20.1] | 0.393 [0.326, 0.473] p < 0.001 |
-| Overall Survival Median [95% CI], weeks 1-year Overall Survival rate | 164.3 [145.1, 192.6] 82% | 136.4 [113.1, 161.7] 75% | 0.833 [0.687, , 1.009] p = 0.045 |
+| Overall Survival Median [95% CI], weeks 1-year Overall Survival rate | 164.3 [145.1, 192.6] 82% | 136.4 [113.1, 161.7] 75% | 0.833 [0.687, 1.009] p = 0.045 |
 | Response rate |  |  | Odds ratio [95b% CI], p-value |
 | Overall Response [n, %] Complete Response [n, %] | 212 (60.1) 58 (16.4) | 75 (21.4) 11 (3.1) | 5.53 [3.97, 7.71], p < 0.001 6.08 [3.13, 11.80], p < 0.001 |
 
 a: Two-tailed log rank test comparing survival curves between treatment groups.
 b: Two-tailed continuity-corrected chi-square test.
+Exploratory study
+An open-label, randomized, multicenter, Phase 3 study was conducted in 445 patients with newly diagnosed multiple myeloma; 222 patients were randomized to the lenalidomide/low dose dexamethasone arm, and 223 were randomized to the lenalidomide/standard dose dexamethasone arm.
+Patients randomized to the lenalidomide/standard dose dexamethasone arm received lenalidomide 25 mg/day, Days 1 to 21 every 28 days plus dexamethasone 40 mg/day on Days 1 to 4, 9 to 12, and 17 to 20 every 28 days for the first four cycles.
+Patients randomized to the lenalidomide/low dose dexamethasone arm received lenalidomide 25 mg/day, Days 1 to 21 every 28 days plus low dose dexamethasone – 40 mg/day on Days 1, 8, 15, and 22 every 28 days.
+In the lenalidomide/low dose dexamethasone group, 20 patients (9.1%) underwent at least one dose interruption compared to 65 patients (29.3%) in the lenalidomide/standard dose dexamethasone arm.
+
+In a post-hoc analysis, lower mortality was observed in the lenalidomide/low dose dexamethasone arm 6.8% (15/220) compared to the lenalidomide/standard dose dexamethasone arm 19.3% (43/223), in the newly diagnosed multiple myeloma patient population, with a median follow up of 72.3 weeks.
+
+However with a longer follow-up, the difference in overall survival in favour of low dose dexamethasone tends to decrease.
+
+Considering that the patient population differs from the authorised indication, these results should be interpreted with caution.
 
 [Revlimid 10 mg hard capsules]
 
@@ -60,32 +72,28 @@ b: Two-tailed continuity-corrected chi-square test.
 | Time to Event |  |  | Hazard ratio [95% CI], p-value a |
 | Time To Progression Median [95% CI], weeks | 60.1 [44.3, 73.1] | 20.1 [17.7, 20.3] | 0.350 [0.287, 0.426], p < 0.001 |
 | Progression Free Survival Median [95% CI], weeks | 48.1 [36.4, 62.1] | 20.0 [16.1, 20.1] | 0.393 [0.326, 0.473] p < 0.001 b |
-| Overall Survival Median [95% CI], weeks 1-year Overall Survival rate | 164.3 [145.1, 192.6] 82% | 136.4 [113.1, 161.7] 75% | 0.833 [0. 687, 1.009] p = 0.045 |
+| Overall Survival Median [95% CI], weeks 1-year Overall Survival rate | 164.3 [145.1, 192.6] 82% | 136.4 [113.1, 161.7] 75% | 0.833 [0.687, 1.009] p = 0.045 |
 | Response rate |  |  | Odds ratio [95b% CI], p-value |
 | Overall Response [n, %] Complete Response [n, %] | 212 (60.1) 58 (16.4) | 75 (21.4) 11 (3.1) | 5.53 [3.97, 7.71], p < 0.001 6.08 [3.13, 11.80], p < 0.001 |
 
 [Revlimid 15 mg hard capsules]
-
-The median duration of treatment was 44.0 weeks (min: 0.1, max: 254.9) for lenalidomide/dexamethasone and 23.1 weeks (min: 0.3, max: 238.1) for placebo/dexamethasone ).
 
 | Endpoint | len/dex (N=353) | placebo/dex (N=351) |  |
 | --- | --- | --- | --- |
 | Time to Event |  |  | Hazard ratio [95% CI], p-value a |
 | Time To Progression Median [95% CI], weeks | 60.1 [44.3, 73.1] | 20.1 [17.7, 20.3] | 0.350 [0.287, 0.426], p < 0.001 |
 | Progression Free Survival Median [95% CI], weeks | 48.1 [36. 4, 62.1] | 20.0 [16.1, 20.1] | 0.393 [0.326, 0.473] p < 0.001 b |
-| Overall Survival Median [95% CI], weeks 1-year Overall Survival rate | 164.3 [145.1, 192.6] 82% | 136.4 [113.1, 161.7] 75% | 0.833 [0. 687, 1.009] p = 0.045 |
+| Overall Survival Median [95% CI], weeks 1-year Overall Survival rate | 164.3 [145.1, 192.6] 82% | 136.4 [113.1, 161.7] 75% | 0.833 [0.687, 1.009] p = 0.045 |
 | Response rate |  |  | Odds ratio [95b% CI], p-value |
 | Overall Response [n, %] Complete Response [n, %] | 212 (60.1) 58 (16.4) | 75 (21.4) 11 (3.1) | 5.53 [3.97, 7.71], p < 0.001 6.08 [3.13, 11.80], p < 0.001 |
 
 [Revlimid 25 mg hard capsules]
-
-The median duration of treatment was 44.0 weeks (min: 0.1, max: 254.9) for lenalidomide/dexamethasone and 23.1 weeks (min: 0.3, max: 238.1) for placebo/dexamethasone).
 
 | Endpoint | len/dex (N=353) | placebo/dex (N=351) |  |
 | --- | --- | --- | --- |
 | Time to Event |  |  | Hazard ratio [95% CI], p-value a |
 | Time To Progression Median [95% CI], weeks | 60.1 [44.3, 73.1] | 20.1 [17.7, 20.3] | 0.350 [0.287, 0.c426], p < 0.001 |
 | Progression Free Survival Median [95% CI], weeks | 48.1 [36. 4, 62.1] | 20.0 [16.1, 20.1] | 0.393 [0.326, 0.473] p < 0.001 |
-| Overall Survival Median [95% CI], weeks 1-year Overall Survival rate | 164.3 [145.1, 192.6] 82% | 136.4 [113.1, 161.7] 75% | 0.833 [0. 687, 1.009] p = 0.045 |
+| Overall Survival Median [95% CI], weeks 1-year Overall Survival rate | 164.3 [145.1, 192.6] 82% | 136.4 [113.1, 161.7] 75% | 0.833 [0.687, 1.009] p = 0.045 |
 | Response rate |  |  | Odds ratio [95b% CI], p-value |
 | Overall Response [n, %] Complete Response [n, %] | 212 (60.1) 58 (16.4) | 75 (21.4) 11 (3.1) | 5.53 [3.97, 7.71], p < 0.001 6.08 [3.13, 11.80], p < 0.001 |

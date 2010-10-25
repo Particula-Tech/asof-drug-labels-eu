@@ -156,6 +156,7 @@ Very Common: Fatigue*, asthenia*, peripheral oedema
 Common: Pyrexia, rigors, mucosal inflammation, oedema, lethargy, malaise
 
 Uncommon: Hyperpyrexia, chest pain, chest tightness, pain, difficulty in walking, abnormal gait, thirst, chest pressure sensation, feeling cold, feeling jittery, influenza-like illness, submandibular mass, fall, impaired healing
+
 Investigations
 Uncommon: Prolonged prothrombin time, prolonged activated partial thromboplastin time, increased International Normalised Ratio, increased blood alkaline phosphatase, increased blood lactate dehydrogenase, increased C-Reactive Protein, Cytomegalovirus antibody positive
 
@@ -164,6 +165,5 @@ Injury, poisoning and procedural complications
 Common: Contusion
 
 Uncommon: Wound complication
-
 Haemorrhagic disorders
 Haemorrhagic disorders are listed under several system organ classes: Blood and lymphatic system disorders; nervous system disorders (intracranial haemorrhage); respiratory, thoracic and mediastinal disorders (epistaxis); gastrointestinal disorders (gingival bleeding, haemorrhoidal haemorrhage, rectal haemorrhage); renal and urinary disorders (haematuria); Injury, poisoning and procedural complications (contusion) and vascular disorders (ecchymosis).
