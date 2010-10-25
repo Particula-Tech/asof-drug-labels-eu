@@ -17,7 +17,7 @@ However, due to the risk of haemorrhage, notably with NSAIDs with elimination ha
 
 Transporter interactions:
 
-Amiodarone, verapamil and clarithromycin are inhibitors of the efflux transporter P-glycoprotein and dabigatran etexilate is a substrate of this transporter.
+Amiodarone, verapamiland clarithromycin are inhibitors of the efflux transporter P-glycoprotein and dabigatran etexilate is a substrate of this transporter.
 
 Amiodarone: When Pradaxa was coadministered with a single oral dose of 600 mg amiodarone, the extent and rate of absorption of amiodarone and its active metabolite DEA were essentially unchanged.
 The dabigatran AUC and Cmax were increased by about 60 % and 50 %, respectively.

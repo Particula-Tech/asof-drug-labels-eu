@@ -17,7 +17,7 @@ The dabigatran trough concentration, measured at the end of the dosing interval 
 
 Ethnic origin:
 
-More than 99% of efficacy and safety data were generated in Caucasians.
+More than 99 % of efficacy and safety data were generated in Caucasians.
 
 Clinical trials in Venous Thromboembolism (VTE) prophylaxis following major joint replacement surgery:
 
@@ -29,7 +29,7 @@ Composite of total VTE (including PE, proximal and distal DVT, whatever symptoma
 Composite of major VTE (including PE and proximal DVT, whatever symptomatic or asymptomatic detected by routine venography) and VTE-related mortality constituted a secondary end-point and is considered of better clinical relevance.
 Results of both studies showed that the antithrombotic effect of Pradaxa 220 mg and 150 mg were statistically non-inferior to that of enoxaparin on total VTE and all-cause mortality.
 The point estimate for incidence of Major VTE and VTE related mortality for the 150 mg dose was slightly worse than enoxaparin (table 4).
-Better results were seen with the 220mg dose where the point estimate of Major VTE was slightly better than enoxaparin (table 4)."
+Better results were seen with the 220 mg dose where the point estimate of Major VTE was slightly better than enoxaparin (table 4)."
 
 The clinical studies have been conducted in a patient population with a mean age > 65 years.
 
@@ -52,12 +52,12 @@ Table 4: Analysis of major VTE and VTE-related mortality during the treatment pe
 | N | 909 | 888 | 917 |
 | Incidences (%) | 28 (3.1) | 38 (4.3) | 36 (3.9) |
 | Risk ratio over enoxaparin | 0.78 | 1.09 |  |
-| 95% CI | 0.48, 1.27 | 0.70, 1.70 |  |
+| 95 % CI | 0.48, 1.27 | 0.70, 1.70 |  |
 | RE-MODEL (knee) |  |  |  |
 | N | 506 | 527 | 511 |
 | Incidences (%) | 13 (2.6) | 20 (3.8) | 18 (3.5) |
 | Risk ratio over enoxaparin | 0.73 | 1.08 |  |
-| 95% CI | 0.36, 1.47 | 0.58, 2.01 |  |
+| 95 % CI | 0.36, 1.47 | 0.58, 2.01 |  |
 
 Table 5: Analysis of total VTE and all cause mortality during the treatment period in the RE-NOVATE and the RE-MODEL orthopaedic surgery studies
 
@@ -67,12 +67,12 @@ Table 5: Analysis of total VTE and all cause mortality during the treatment peri
 | N | 880 | 874 | 897 |
 | Incidences (%) | 53 (6.0) | 75 (8.6) | 60 (6.7) |
 | Risk ratio over enoxaparin | 0.9 | 1.28 |  |
-| 95% CI | (0.63, 1.29) | (0.93, 1.78) |  |
+| 95 % CI | (0.63, 1.29) | (0.93, 1.78) |  |
 | RE-MODEL (knee) |  |  |  |
 | N | 503 | 526 | 512 |
 | Incidences (%) | 183 (36.4) | 213 (40.5) | 193 (37.7) |
 | Risk ratio over enoxaparin | 0.97 | 1.07 |  |
-| 95% CI | (0.82, 1.13) | (0.92, 1.25) |  |
+| 95 % CI | (0.82, 1.13) | (0.92, 1.25) |  |
 
 Table 6: Major bleeding events by treatment in the individual RE-MODEL and the RE-NOVATE studies
 
@@ -88,7 +88,3 @@ Table 6: Major bleeding events by treatment in the individual RE-MODEL and the R
 Paediatric population:
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Pradaxa in all subsets of the paediatric population in prevention of thromboembolic events in the granted indication.
-
-[Pradaxa 110 mg hard capsules]
-
-Clinical trials in Venous Thromboembolism (VTE) prophylaxis following major joint replacement surgery: In 2 large randomized, parallel group, double-blind, dose–confirmatory trials, patients undergoing elective major orthopaedic surgery (one for knee replacement surgery and one for hip replacement surgery) received Pradaxa 75 mg or 110 mg within 1-4 hours of surgery followed by 150 mg or 220 mg daily thereafter, haemostasis having been secured, or enoxaparin 40 mg on the day prior to surgery and daily thereafter.
