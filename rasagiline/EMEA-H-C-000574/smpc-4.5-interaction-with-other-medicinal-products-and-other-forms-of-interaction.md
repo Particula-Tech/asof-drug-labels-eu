@@ -8,19 +8,19 @@ Serious adverse reactions have been reported with the concomitant use of pethidi
 The concomitant administration of rasagiline and pethidine is contraindicated (see section 4.3).
 
 With MAO inhibitors there have been reports of medicinal product interactions with the concomitant use of sympathomimetic medicinal products.
-Therefore, in view of the MAO inhibitory activity of rasagiline concomitant administration of rasagiline and sympathomimetics such as those present in nasal and oral decongestants or cold medicinal products, containing ephedrine or pseudoephedrine, is not recommended (see section 4.4).
+Therefore, in view of the MAO inhibitory activity of rasagiline, concomitant administration of rasagiline and sympathomimetics such as those present in nasal and oral decongestants or cold medicinal products, containing ephedrine or pseudoephedrine, is not recommended (see section 4.4).
 
 There have been reports of medicinal product interactions with the concomitant use of dextromethorphan and non selective MAO inhibitors.
-Therefore, in view of the MAO inhibitory activity of rasagiline the concomitant administration of rasagiline and dextromethorphan is not recommended (see section 4.4).
+Therefore, in view of the MAO inhibitory activity of rasagiline, the concomitant administration of rasagiline and dextromethorphan is not recommended (see section 4.4).
 
-The concomitant use of rasagiline and fluoxetine or fluvoxamine should be avoided (see section 4.4.
+The concomitant use of rasagiline and fluoxetine or fluvoxamine should be avoided (see section 4.4).
 
-For concomitant use of rasagiline with selective serotonin reuptake inhibitors (SSRIs)/selective serotonin-norepinephrine reuptake inhibitors (SNRIs) in clinical trials see section 4.8.
+For concomitant use of rasagiline with selective serotonin reuptake inhibitors (SSRIs)/selective serotonin-norepinephrine reuptake inhibitors (SNRIs) in clinical trials, see section 4.8.
 
-Serious adverse reactions have been reported with the concomitant use of SSRIs, SNRIs, tricyclic, tetracyclic antidepressants and MAO inhibitors.
+Serious adverse reactions have been reported with the concomitant use of SSRIs, SNRIs, tricyclic/ tetracyclic antidepressants and MAO inhibitors.
 Therefore, in view of the MAO inhibitory activity of rasagiline, antidepressants should be administered with caution.
 
-In Parkinson's disease patients receiving chronic levodopa treatment as adjunct therapy there was no clinically significant effect of levodopa treatment on rasagiline clearance.
+In Parkinson's disease patients receiving chronic levodopa treatment as adjunct therapy, there was no clinically significant effect of levodopa treatment on rasagiline clearance.
 In vitro metabolism studies have indicated that cytochrome P450 1A2 (CYP1A2) is the major enzyme responsible for the metabolism of rasagiline.
 Co-administration of rasagiline and ciprofloxacin (an inhibitor of CYP1A2) increased the AUC of rasagiline by 83%.
 Co-administration of rasagiline and theophylline (a substrate of CYP1A2) did not affect the pharmacokinetics of either product.

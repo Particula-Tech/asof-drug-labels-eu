@@ -1,5 +1,7 @@
 # 4.2 Posology and method of administration
 
+Posology
+
 Rasagiline is administered orally, at a dose of 1 mg once daily with or without levodopa.
 
 It may be taken with or without food.

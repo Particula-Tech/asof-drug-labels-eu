@@ -6,7 +6,7 @@ At least 14 days should elapse between discontinuation of rasagiline and initiat
 
 The concomitant use of rasagiline and dextromethorphan or sympathomimetics such as those present in nasal and oral decongestants or cold medicinal product containing ephedrine or pseudoephedrine is not recommended (see section 4.5).
 
-During the clinical development program the occurrence of cases of melanoma prompted the consideration of a possible association with rasagiline.
+During the clinical development program, the occurrence of cases of melanoma prompted the consideration of a possible association with rasagiline.
 The data collected suggests that Parkinson’s disease, and not any medicinal products in particular, is associated with a higher risk of skin cancer (not exclusively melanoma).
 Any suspicious skin lesion should be evaluated by a specialist.
 

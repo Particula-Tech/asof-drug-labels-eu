@@ -22,5 +22,4 @@ Characteristics in patients
 
 Patients with hepatic impairment: In subjects with mild hepatic impairment, AUC and Cmax were increased by 80% and 38%, respectively.
 In subjects with moderate hepatic impairment, AUC and Cmax were increased by 568% and 83%, respectively (see section 4.4).
-
 Patients with renal impairment: Rasagiline's pharmacokinetics characteristics in subjects with mild (CLcr 50-80 ml/min) and moderate (CLcr 30-49 ml/min) renal impairment were similar to healthy subjects.

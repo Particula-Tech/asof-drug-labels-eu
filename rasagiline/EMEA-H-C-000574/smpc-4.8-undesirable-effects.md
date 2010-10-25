@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
-In the rasagiline clinical program overall 1,361 patients were treated with rasagiline for 3,076.4 patient years.
-In the double blind placebo controlled studies 529 patients were treated with rasagiline 1 mg/day for 212 patient years and 539 patients received placebo for 213 patient years.
+In the rasagiline clinical program overall, 1,361 patients were treated with rasagiline for 3,076.4 patient years.
+In the double blind placebo controlled studies, 529 patients were treated with rasagiline 1 mg/day for 212 patient years and 539 patients received placebo for 213 patient years.
 Monotherapy
 The list below includes adverse reactions which were reported with a higher incidence in placebo-controlled studies, in patients receiving 1 mg/day rasagiline (rasagiline group n=149, placebo group n=151).
 
@@ -23,7 +23,7 @@ Uncommon: decreased appetite (0.7% vs. 0%)
 Psychiatric disorders
 Common: depression (5.4% vs. 2%), hallucinations (1.3% vs. 0.7%)
 Nervous system disorders
-Very common:, headache (14.1% vs. 11.9%)
+Very common: headache (14.1% vs. 11.9%)
 Uncommon: cerebrovascular accident (0.7% vs. 0%)
 Eye disorders
 Common: conjunctivitis (2.7% vs. 0.7%)
@@ -83,14 +83,14 @@ Injury, poisoning and procedural complications
 Common: fall (4.7% vs. 3.4%)
 
 Parkinson's disease is associated with symptoms of hallucinations and confusion.
-In post marketing experience these symptoms have also been observed in Parkinson's disease patients treated with rasagiline.
+In post marketing experience, these symptoms have also been observed in Parkinson's disease patients treated with rasagiline.
 
-Serious adverse reactions are known to occur with the concomitant use of SSRIs, SNRIs, tricyclic, tetracyclic antidepressants and MAO inhibitors.
+Serious adverse reactions are known to occur with the concomitant use of SSRIs, SNRIs, tricyclic/ tetracyclic antidepressants and MAO inhibitors.
 In the post-marketing period, cases of serotonin syndrome associated with agitation, confusion, rigidity, pyrexia and myoclonus have been reported by patients treated with antidepressants/SNRI concomitantly with rasagiline.
 
 Rasagiline clinical trials did not allow concomitant use of fluoxetine or fluvoxamine with rasagiline, but the following antidepressants and doses were allowed in the rasagiline trials: amitriptyline ≤ 50 mg/daily, trazodone ≤ 100 mg/daily, citalopram ≤ 20 mg/daily, sertraline ≤ 100 mg/daily, and paroxetine ≤ 30 mg/daily.
 There were no cases of serotonin syndrome in the rasagiline clinical program in which 115 patients were exposed concomitantly to rasagiline and tricyclics and 141 patients were exposed to rasagiline and SSRIs/ SNRIs.
-In the post-marketing period, cases of elevated blood pressure, including one report of hypertensive crisis associated with ingestion of unknown amounts of tyramine-rich foods, have been reported in patients taking rasagiline.
+In the post-marketing period, cases of elevated blood pressure, including rare cases of hypertensive crisis associated with ingestion of unknown amounts of tyramine-rich foods, have been reported in patients taking rasagiline.
 
-With MAO inhibitors there have been reports of drug interactions with the concomitant use of sympathomimetic medicinal products.
-In post marketing period there was one case of elevated blood pressure in a patient using the ophthalmic vasoconstrictor tetrahydrozoline hydrochloride while taking rasagiline.
+With MAO inhibitors, there have been reports of drug interactions with the concomitant use of sympathomimetic medicinal products.
+In post marketing period, there was one case of elevated blood pressure in a patient using the ophthalmic vasoconstrictor tetrahydrozoline hydrochloride while taking rasagiline.
