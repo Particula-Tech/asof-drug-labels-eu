@@ -19,10 +19,11 @@ Rheumatoid arthritis
 The efficacy of Simponi was demonstrated in two multi-centre, randomised, double-blind, placebo-controlled studies in 889 patients ≥18 years of age with moderately to severely active RA diagnosed according to American College of Rheumatology (ACR) criteria for at least 3 months prior to screening.
 Patients had at least 4 swollen and 4 tender joints.
 Simponi or placebo were subcutaneously administered every 4 weeks.
-Placebo-controlled efficacy data were collected and analysed through week 24.
 
 GO-FORWARD evaluated 444 patients who had active RA despite a stable dose of at least 15 mg/week of MTX and who had not been previously treated with an anti-TNF agent.
 Patients were randomised to receive placebo + MTX, Simponi 50 mg + MTX, Simponi 100 mg + MTX or Simponi 100 mg + placebo.
+Patients receiving placebo + MTX were switched to Simponi 50 mg + MTX after Week 24.
+At Week 52, patients entered an open label long-term extension.
 
 GO-AFTER evaluated 445 patients who were previously treated with one or more of the anti-TNF agents adalimumab, etanercept, or infliximab.
 Patients were randomised to receive placebo, Simponi 50 mg, or Simponi 100 mg.
@@ -36,10 +37,12 @@ In addition to the primary endpoint(s), additional assessments of the impact of 
 In general, no clinically meaningful differences in measures of efficacy were observed between the Simponi 50 mg and 100 mg dosing regimens with concomitant MTX.
 
 Signs and symptoms
-Key ACR results for the 50 mg dose are shown in table 2 and are described below.
-Responses were observed at the first assessment (Week 4) after the initial Simponi administration and were maintained through week 24.
-
+Key ACR results for the 50 mg dose at week 14 and 24 are shown in table 2 and are described below.
+Responses were observed at the first assessment (Week 4) after the initial Simponi administration .
+Among 89 subjects randomised to 50 mg + MTX, 48 were still on this treatment at week 104.
+Among those, 40, 33 and 24 patients had ACR 20/50/70 response, respectively at week 104.
 In GO-AFTER, the percentage of patients achieving an ACR 20 response was greater for patients receiving Simponi than for patients receiving placebo regardless of the reason reported for discontinuation of one or more prior anti-TNF therapies.
+
 Table 2
 Key efficacy outcomes from GO-FORWARD and GO-AFTER.
 
@@ -60,12 +63,15 @@ Key efficacy outcomes from GO-FORWARD and GO-AFTER.
 | a N reflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint. * p ≤ 0.001 |  |  |  |  |
 
 In GO-FORWARD and GO-AFTER, clinically meaningful and statistically significant responses in Disease Activity Scale (DAS)28 were observed at each prespecified time point, at week 14 and at week 24 ( p ≤ 0.001).
+Among patients who remained on the Simponi treatment to which they were randomised at study start, DAS28 responses were maintained through week 104.
 
 Physical function and health-related quality of life
 Physical function and disability were assessed as a separate endpoint in GO-FORWARD and GO-AFTER using the disability index of the HAQ.
 In these studies, Simponi demonstrated clinically meaningful and statistically significant improvement in HAQ from baseline versus control at week 24.
+Among patients who remained on the Simponi treatment to which they were randomised at study start, improvement in HAQ was maintained through week 104.
 
-In GO-FORWARD clinically meaningful and statistically significant improvements were demonstrated in health-related quality of life as measured by the physical component score of the SF-36 in patients treated with Simponi versus placebo.
+In GO-FORWARD clinically meaningful and statistically significant improvements were demonstrated in health-related quality of life as measured by the physical component score of the SF-36 in patients treated with Simponi versus placebo at Week 24.
+Among patients who remained on the Simponi treatment to which they were randomised at study start, improvement of the SF-36 physical component was maintained through week 104.
 In GO-FORWARD and GO-AFTER, statistically significant improvements were observed in fatigue as measured by functional assessment of chronic illness therapy-fatigue scale (FACIT-F).
 
 Psoriatic arthritis
@@ -78,6 +84,7 @@ Patients were randomly assigned to placebo, Simponi 50 mg, or Simponi 100 mg.
 Approximately forty-eight percent of patients continued on stable doses of methotrexate (≤25 mg/week).
 The primary endpoint was the percentage of patients achieving ACR 20 response at Week 14.
 Placebo-controlled efficacy data were collected and analysed through week 24.
+
 Key results for the 50 mg dose are shown in table 3 and described below.
 In general, no clinically meaningful differences in measures of efficacy were observed between the Simponi 50 mg and 100 mg dosing regimens.
 
@@ -149,15 +156,13 @@ Simponi treatment resulted in significant improvements in physical function as a
 Health-related quality of life as measured by the physical component score of the SF-36 was also improved significantly at weeks 14 and 24.
 
 Immunogenicity:
-Across the Phase 3 RA, PsA and AS studies through week 24, antibodies to golimumab, nearly all neutralising in vitro, were detected in 4.3% (57/1322) of golimumab treated patients.
+Across the Phase 3 RA, PsA and AS studies through week 52, antibodies to golimumab were detected in 5% (105/2115) of golimumab treated patients and, where tested, nearly all antibodies were neutralising in vitro.
 Similar rates were shown across rheumatologic indications.
-Treatment with concomitant MTX resulted in a lower proportion of patients with antibodies to golimumab than patients receiving golimumab without MTX (approximately 2% [14/719] versus 7% [43/603], respectively).
-
-In combined data from the PsA study and 2 RA studies through week 52, antibodies to golimumab were detected in 5.2% (67/1294) of golimumab treated patients.
-In patients not given concomitant MTX, the incidence was 8.9% (37/417), compared to 3.4% (30/877) when golimumab was used with concomitant MTX.
+Treatment with concomitant MTX resulted in a lower proportion of patients with antibodies to golimumab than patients receiving golimumab without MTX (approximately 3% [41/1262] versus 8% [64/853], respectively).
 
 The presence of antibodies to golimumab may increase the risk of injection site reactions (see section 4.4).
 The small number of patients positive for antibodies to golimumab limits the ability to draw definitive conclusions regarding the relationship between antibodies to golimumab and clinical efficacy or safety measures.
+
 Because immunogenicity analyses are product- and assay-specific, comparison of antibody rates with those from other products is not appropriate.
 
 [Simponi 50 mg solution for injection in pre-filled syringe.]
