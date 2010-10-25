@@ -18,7 +18,7 @@ Standard clinical procedures to remove active substance material, e.g. gastric l
 
 In case of signs and symptoms of general central nervous system (CNS) overstimulation, careful symptomatic clinical treatment should be considered.
 
-[Ebixa 10 mg/g oral drops, solution.]
+[Ebixa 5 mg/pump oral solution.]
 
 In the overdose cases below 140 mg or unknown dose the patients revealed symptoms from central nervous system (confusion, drowsiness, somnolence, vertigo, agitation, aggression, hallucination and gait disturbance) and/or of gastrointestinal origin (vomiting and diarrhoea).
 

@@ -42,7 +42,7 @@ Hepatic impairment: In patients with mild or moderate hepatic impaired function 
 No data on the use of memantine in patients with severe hepatic impairment are available.
 Administration of Ebixa is not recommended in patients with severe hepatic impairment.
 
-[Ebixa 10 mg/g oral drops, solution.]
+[Ebixa 5 mg/pump oral solution.]
 
 Ebixa should be taken once daily at the same time each day.
 The solution can be taken with or without food.
@@ -52,17 +52,17 @@ For detailed instructions on the preparation and handling of the product see sec
 
 The maximum daily dose is 20 mg once daily.
 
-The patient should take 0.5 ml solution (5 mg) equivalent to one downward stroke per day for 7 days.
+The patient should take 0.5 ml solution (5 mg) equivalent to one downward pump per day for 7 days.
 
-The patient should take 1 ml solution (10 mg) equivalent to two downward strokes per day for 7 days.
+The patient should take 1 ml solution (10 mg) equivalent to two downward pumps per day for 7 days.
 
-The patient should take 1.5 ml solution (15 mg) equivalent to three downward strokes per day for 7 days.
-The patient should take 2 ml solution (20 mg) equivalent to four downward strokes once a day.
+The patient should take 1.5 ml solution (15 mg) equivalent to three downward pumps per day for 7 days.
+The patient should take 2 ml solution (20 mg) equivalent to four downward pumps once a day.
 
-Elderly: On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (2 ml solution, equivalent to four downward strokes) as described above.
+Elderly: On the basis of the clinical studies, the recommended dose for patients over the age of 65 years is 20 mg per day (2 ml solution, equivalent to four downward pumps) as described above.
 
-In patients with moderate renal impairment (creatinine clearance 30 - 49 ml/min) daily dose should be 10 mg (1 ml solution, equivalent to two downward strokes).
-In patients with severe renal impairment (creatinine clearance 5 – 29 ml/min) daily dose should be 10 mg (1 ml solution, equivalent to two downward strokes) per day.
+In patients with moderate renal impairment (creatinine clearance 30 - 49 ml/min) daily dose should be 10 mg (1 ml solution, equivalent to two downward pumps).
+In patients with severe renal impairment (creatinine clearance 5 – 29 ml/min) daily dose should be 10 mg (1 ml solution, equivalent to two downward pumps) per day.
 
 [Ebixa 5 mg film-coated tablets.]
 

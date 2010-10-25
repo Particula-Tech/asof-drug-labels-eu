@@ -6,9 +6,9 @@ The pack sizes 49 x 1, 56 x1, 98 x 1 and 100 x 1 film-coated tablets are present
 
 Not all pack sizes may be marketed.
 
-[Ebixa 10 mg/g oral drops, solution.]
+[Ebixa 5 mg/pump oral solution.]
 
-Brown glass bottles (Hydrolytic Class III) containing either 50, 100 g or 10 x 50 g solution.
+Brown glass bottles (Hydrolytic Class III) containing either 50 ml, 100 ml or 10 x 50 ml solution.
 
 [Ebixa 5 mg film-coated tablets.]
 

@@ -12,7 +12,7 @@ Also, urine pH may be elevated by states of renal tubulary acidosis (RTA) or sev
 In most clinical trials, patients with recent myocardial infarction, uncompensated congestive heart failure (NYHA III-IV), or uncontrolled hypertension were excluded.
 As a consequence, only limited data are available and patients with these conditions should be closely supervised.
 
-[Ebixa 10 mg/g oral drops, solution.]
+[Ebixa 5 mg/pump oral solution.]
 
 Concomitant use of other N-methyl-D-aspartate(NMDA)-antagonists such as amantadine, ketamine or dextromethorphan should be avoided.
 

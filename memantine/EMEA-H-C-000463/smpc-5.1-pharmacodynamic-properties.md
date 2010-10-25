@@ -18,7 +18,7 @@ In the prospectively defined primary analysis statistical significance was not r
 A meta-analysis of patients with moderate to severe Alzheimer’s disease (MMSE total scores < 20) from the six phase III, placebo-controlled, 6-month studies (including monotherapy studies and studies with patients on a stable dose of acetylcholinesterase inhibitors) showed that there was a statistically significant effect in favour of memantine treatment for the cognitive, global, and functional domains.
 When patients were identified with concurrent worsening in all three domains, results showed a statistically significant effect of memantine in preventing worsening, as twice as many placebo-treated patients as memantine-treated patients showed worsening in all three domains (21% vs. 11%, p<0.0001).
 
-[Ebixa 10 mg/g oral drops, solution.]
+[Ebixa 5 mg/pump oral solution.]
 
 The study showed beneficial effects of memantine treatment in comparison to placebo at 6 months (observed cases analysis for the clinican´s interview based impression of change (CIBIC-plus): p=0.025; Alzheimer´s disease cooperative study – activities of the daily living (ADCS-ADLsev): p=0.003; severe impairment battery (SIB): p=0.002).
 

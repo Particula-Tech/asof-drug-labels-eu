@@ -2,7 +2,7 @@
 
 4 years.
 
-[Ebixa 10 mg/g oral drops, solution.]
+[Ebixa 5 mg/pump oral solution.]
 
 Once opened, the contents of the bottle should be used within 3 months.
 

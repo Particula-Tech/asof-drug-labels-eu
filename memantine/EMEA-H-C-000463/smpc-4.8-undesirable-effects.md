@@ -9,6 +9,7 @@ Within each frequency grouping, undesirable effects are presented in order of de
 Adverse reactions are ranked according to system organ class, using the following convention: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 
 Infections and infestations Uncommon Fungal infections
+Immune system disorders Common Drug hypersensitivity
 Psychiatric disorders Common Somnolence
 Uncommon Confusion
 Uncommon Hallucinations1
@@ -41,7 +42,7 @@ Uncommon Fatigue
 Alzheimer’s disease has been associated with depression, suicidal ideation and suicide.
 In post-marketing experience these events have been reported in patients treated with Ebixa.
 
-[Ebixa 10 mg/g oral drops, solution.]
+[Ebixa 5 mg/pump oral solution.]
 
 Adverse reactions are ranked according to system organ class, using the following convention: very common (≥ 1/10), common (≥1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000), very rare (< 1/10,000), not known (cannot be estimated from the available data).
 

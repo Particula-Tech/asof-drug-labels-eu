@@ -2,7 +2,7 @@
 
 This medicinal product does not require any special storage conditions.
 
-[Ebixa 10 mg/g oral drops, solution.]
+[Ebixa 5 mg/pump oral solution.]
 
 Do not store above 30ºC.
 

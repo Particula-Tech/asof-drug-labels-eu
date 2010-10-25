@@ -5,9 +5,9 @@ Pale yellow to yellow, oval shaped film-coated tablet with breaking line and eng
 
 The tablet can be divided into equal halves.
 
-[Ebixa 10 mg/g oral drops, solution.]
+[Ebixa 5 mg/pump oral solution.]
 
-Oral drops, solution.
+Oral solution.
 The solution is clear and colourless to light yellowish.
 
 [Ebixa 5 mg film-coated tablets.]
