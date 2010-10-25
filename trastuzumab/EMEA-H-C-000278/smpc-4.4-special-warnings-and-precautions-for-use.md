@@ -13,9 +13,9 @@ A careful risk-benefit assessment should be made before deciding to treat with H
 
 Herceptin and anthracyclines should not be used currently in combination except in a well-controlled clinical trial setting with cardiac monitoring.
 Patients who have previously received anthracyclines are also at risk of cardiotoxicity with Herceptin treatment, although the risk is lower than with concurrent use of Herceptin and anthracyclines.
-Because the half-life of Herceptin is approximately 3-4 weeks Herceptin may persist in the circulation for up to 24 weeks after stopping Herceptin treatment.
+Because the half-life of Herceptin is approximately 4-5 weeks Herceptin may persist in the circulation for 20-25 weeks after stopping Herceptin treatment.
 Patients who receive anthracyclines after stopping Herceptin may possibly be at increased risk of cardiotoxicity.
-If possible, physicians should avoid anthracycline-based therapy for up to 24 weeks after stopping Herceptin.
+If possible, physicians should avoid anthracycline-based therapy for up to 25 weeks after stopping Herceptin.
 If anthracyclines are used, the patient’s cardiac function should be monitored carefully (see below)
 
 In EBC, the following patients were excluded from the HERA trial, there are no data about the benefit-risk balance, and therefore treatment can not be recommended in such patients:

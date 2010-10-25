@@ -35,11 +35,11 @@ The recommended scoring system to evaluate the IHC staining patterns is as follo
 | 3+ | Strong complete membrane staining is detected in > 10 % of the tumour cells. | Positive |
 
 In general, FISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2, or if there are more than 4 copies of the HER2 gene per tumour cell if no chromosome 17 control is used.
-
 In general, CISH is considered positive if there are more than 5 copies of the HER2 gene per nucleus in greater than 50 % of tumour cells.
 
 For full instructions on assay performance and interpretation please refer to the package inserts of validated FISH and CISH assays.
 Official recommendations on HER2 testing may also apply.
+
 For any other method that may be used for the assessment of HER2 protein or gene expression, the analyses should only be performed by laboratories that provide adequate state-of-the-art performance of validated methods.
 Such methods must clearly be precise and accurate enough to demonstrate overexpression of HER2 and must be able to distinguish between moderate (congruent with 2+) and strong (congruent with 3+) overexpression of HER2.
 
@@ -56,7 +56,6 @@ Based on the clinical trial results, the beneficial effects were limited to pati
 In a method comparison study (study D008548) a high degree of concordance (>95%) was observed for SISH and FISH techniques for the detection of HER2 gene amplification in gastric cancer patients.
 
 HER2 over expression should be detected using an immunohistochemistry (IHC)-based assessment of fixed tumour blocks; HER2 gene amplification should be detected using in situ hybridisation using either SISH or FISH on fixed tumour blocks.
-
 The recommended scoring system to evaluate the IHC staining patterns is as follows:
 
 | Score | Surgical specimen - staining pattern | Biopsy specimen – staining pattern | HER2 overexpression assessment |
@@ -67,6 +66,7 @@ The recommended scoring system to evaluate the IHC staining patterns is as follo
 | 3+ | Strong complete, basolateral or lateral membranous reactivity in ≥ 10 % of tumour cells | Tumour cell cluster with a strong complete, basolateral or lateral membranous reactivity irrespective of percentage of tumour cells stained | Positive |
 
 In general, SISH or FISH is considered positive if the ratio of the HER2 gene copy number per tumour cell to the chromosome 17 copy number is greater than or equal to 2.
+
 Clinical efficacy and safety
 
 MBC
@@ -87,7 +87,6 @@ This investigative clinical trial assay performed in a central laboratory utilis
 Patients classified as staining 2+ or 3+ were included, while those staining 0 or 1+ were excluded.
 Greater than 70 % of patients enrolled exhibited 3+ overexpression.
 The data suggest that beneficial effects were greater among those patients with higher levels of overexpression of HER2 (3+).
-
 The main test method used to determine HER2 positivity in the pivotal trial of docetaxel, with or without Herceptin, was immunohistochemistry.
 A minority of patients was tested using fluorescence in-situ hybridisation (FISH).
 In this trial, 87 % of patients entered had disease that was IHC3+, and 95 % of patients entered had disease that was IHC3+ and/or FISH-positive.
@@ -149,6 +148,7 @@ Early breast cancer is defined as non-metastatic primary invasive carcinoma of t
 Early breast cancer in the HERA trial was limited to operable, primary, invasive adenocarcinoma of the breast, with axillary nodes positive or axillary nodes negative if tumours at least 1 cm in diameter.
 In the adjuvant setting, Herceptin was investigated in a multicentre, randomised, trial (HERA) designed to compare one year of three-weekly Herceptin treatment versus observation in patients with HER2 positive early breast cancer following surgery, established chemotherapy and radiotherapy (if applicable).
 Patients assigned to receive Herceptin were given an initial loading dose of 8 mg/kg, followed by 6 mg/kg every three weeks for one year.
+
 The efficacy results from the HERA trial are summarized in the following table:
 
 | Parameter | Observation N=1693 | Herceptin 1 Year N = 1693 | P-value vs Observation | Hazard Ratio vs Observation |
@@ -160,7 +160,6 @@ The efficacy results from the HERA trial are summarized in the following table:
 Study BO16348 (HERA): 12 months follow-up
 
 For the primary endpoint, DFS, the hazard ratio translates into an absolute benefit, in terms of a 2-year disease-free survival rate, of 7.6 percentage points (85.8 % vs 78.2 %) in favour of the Herceptin arm.
-
 MGC
 
 Herceptin has been investigated in one randomised, open-label phase III trial ToGA (BO18255) in combination with chemotherapy versus chemotherapy alone.
@@ -200,7 +199,6 @@ The median overall survival for the high HER2 expressing group was 11.8 months v
 For overall survival, the HR was 0.75 (95 % CI 0.51-1.11) in the IHC 2+/FISH+ group and the HR was 0.58 (95 % CI 0.41-0.81) in the IHC 3+/FISH+ group
 
 In an exploratory subgroup analysis performed in the TOGA (BO18255) trial there was no apparent benefit on overall survival with the addition of Herceptin in patients with ECOG PS 2 at baseline [HR 0.96 (95 % CI 0.51-1.79)], non measurable [HR 1.78 (95 % CI 0.87-3.66)] and locally advanced disease [HR 1.20 (95 % CI 0.29-4.97)].
-
 Immunogenicity
 
 903 breast cancer patients treated with Herceptin, alone or in combination with chemotherapy, have been evaluated for antibody production.
