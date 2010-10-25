@@ -29,8 +29,7 @@ It is recommended that the dose of levodopa is reduced during both the dose esca
 
 Treatment discontinuation
 Abrupt discontinuation of dopaminergic therapy can lead to the development of a neuroleptic malignant syndrome.
-Therefore, pramipexole should be tapered off at a rate of 0.54 mg of base
-(0.75 mg of salt) per day until the daily dose has been reduced to 0.54 mg of base (0.75 mg of salt).
+Pramipexole should be tapered off at a rate of 0.54 mg of base (0.75 mg of salt) per day until the daily dose has been reduced to 0.54 mg of base (0.75 mg of salt).
 Thereafter the dose should be reduced by 0.264 mg of base (0.375 mg of salt) per day (see section 4.4).
 
 Dosing in patients with renal impairment
@@ -137,8 +136,11 @@ During dose escalation in pivotal studies, efficacy was observed starting at a d
 In clinical trials approximately 5% of patients were treated at doses below 1.05 mg of base (1.5 mg of salt).
 In advanced Parkinson’s disease, pramipexole doses higher than 1.05 mg of base (1.5 mg of salt) per day can be useful in patients where a reduction of the levodopa therapy is intended.
 
-Therefore, pramipexole should be tapered off at a rate of 0.52 mg of base
-(0.75 mg of salt) per day until the daily dose has been reduced to 0.52 mg of base (0.75 mg of salt).
+Missed dose
+When the intake of a dose is missed, SIFROL prolonged-release tablets should be taken within 12 hours after the regularly scheduled time.
+After 12 hours, the missed dose should be left out and the next dose should be taken on the following day at the next regularly scheduled time.
+
+Pramipexole should be tapered off at a rate of 0.52 mg of base (0.75 mg of salt) per day until the daily dose has been reduced to 0.52 mg of base (0.75 mg of salt).
 Thereafter the dose should be reduced by 0.26 mg of base (0.375 mg of salt) per day (see section 4.4).
 
 The following dose schedule is suggested:

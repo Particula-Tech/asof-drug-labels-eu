@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Expected adverse reactions
-The following adverse reactions are expected under the use of SIFROL: abnormal dreams, amnesia, behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality and pathological gambling; confusion, constipation, delusion, dizziness, dyskinesia, dyspnoea, fatigue, hallucinations, headache, hyperkinesia, hyperphagia, hypotension, insomnia, libido disorders, nausea, paranoia, peripheral oedema, pneumonia, pruritus, rash and other hypersensitivity; restlessness, somnolence, sudden onset of sleep, syncope, visual disturbance including vision blurred and visual acuity reduced, vomiting, weight decrease, weight increase.
+The following adverse reactions are expected under the use of SIFROL: abnormal dreams, amnesia, behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality and pathological gambling; confusion, constipation, delusion, dizziness, dyskinesia, dyspnoea, fatigue, hallucinations, headache, hiccups, hyperkinesia, hyperphagia, hypotension, insomnia, libido disorders, nausea, paranoia, peripheral oedema, pneumonia, pruritus, rash and other hypersensitivity; restlessness, somnolence, sudden onset of sleep, syncope, visual impairment including diplopia, vision blurred and visual acuity reduced, vomiting, weight decrease including decreased appetite, weight increase.
 
 Based on the analysis of pooled placebo-controlled trials, comprising a total of 1,923 patients on pramipexole and 1,354 patients on placebo, adverse drug reactions were frequently reported for both groups.
 63% of patients on pramipexole and 52% of patients on placebo reported at least one adverse drug reaction.
@@ -24,19 +24,18 @@ Table 1: Parkinson’s disease
 | Infections and infestations |  |
 | Uncommon | pneumonia |
 | Psychiatric disorders |  |
-| Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions, confusion, hallucinations, insomnia, restlessness |
-| Uncommon | compulsive shopping, delusion, hypersexuality, libido disorder, paranoia, pathological gambling |
-| Not known | binge eating, hyperphagia |
+| Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions, confusion, hallucinations, insomnia |
+| Uncommon | binge eating, compulsive shopping, delusion, hyperphagia, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
 | Nervous system disorders |  |
 | Very common | dizziness, dyskinesia, somnolence |
-| Common | amnesia, headache |
-| Uncommon | hyperkinesia, sudden onset of sleep, syncope |
+| Common | headache |
+| Uncommon | amnesia, hyperkinesia, sudden onset of sleep, syncope |
 | Eye disorders |  |
-| Common | visual disturbance including vision blurred and visual acuity reduced |
+| Common | visual impairment including diplopia, vision blurred and visual acuity reduced |
 | Vascular disorders |  |
-| Very common | hypotension |
+| Common | hypotension |
 | Respiratory, thoracic, and mediastinal disorders |  |
-| Uncommon | dyspnoea |
+| Uncommon | dyspnoea, hiccups |
 | Gastrointestinal disorders |  |
 | Very common | nausea |
 | Common | constipation, vomiting |
@@ -45,7 +44,7 @@ Table 1: Parkinson’s disease
 | General disorders and administration site conditions |  |
 | Common | fatigue, peripheral oedema |
 | Investigations |  |
-| Common | weight decrease |
+| Common | weight decrease including decreased appetite |
 | Uncommon | weight increase |
 
 Restless Legs Syndrome, most common adverse reactions
@@ -56,21 +55,19 @@ Table 2: Restless Legs Syndrome
 | System Organ Class | Adverse Drug Reaction |
 | --- | --- |
 | Infections and infestations |  |
-| Not known | pneumonia |
+| Uncommon | pneumonia |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, insomnia |
-| Uncommon | confusion, hallucinations, libido disorder, restlessness |
-| Not known | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling; delusion, hyperphagia, paranoia |
+| Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling; confusion, delusion, hallucinations, hyperphagia, libido disorder, paranoia, restlessness |
 | Nervous system disorders |  |
 | Common | dizziness, headache, somnolence |
-| Uncommon | sudden onset of sleep, syncope |
-| Not known | amnesia, dyskinesia, hyperkinesia |
+| Uncommon | amnesia, dyskinesia, hyperkinesia, sudden onset of sleep, syncope |
 | Eye disorders |  |
-| Uncommon | visual disturbance including vision blurred and visual acuity reduced |
+| Uncommon | visual impairment including diplopia, vision blurred and visual acuity reduced |
 | Vascular disorders |  |
 | Uncommon | hypotension |
 | Respiratory, thoracic, and mediastinal disorders |  |
-| Uncommon | dyspnoea |
+| Uncommon | dyspnoea, hiccups |
 | Gastrointestinal disorders |  |
 | Very common | nausea |
 | Common | constipation, vomiting |
@@ -80,7 +77,7 @@ Table 2: Restless Legs Syndrome
 | Common | fatigue |
 | Uncommon | peripheral oedema |
 | Investigations |  |
-| Uncommon | weight decrease, weight increase |
+| Uncommon | weight decrease including decreased appetite, weight increase |
 
 Somnolence
 Pramipexole is commonly associated with somnolence and has been associated uncommonly with excessive daytime somnolence and sudden sleep onset episodes (see also section 4.4).
@@ -97,7 +94,60 @@ Possible independent risk factors for impulse control disorders included dopamin
 
 [SIFROL 0.18 mg tablets]
 
-(all sentences already above)
+| System Organ Class | Adverse Drug Reaction |
+| --- | --- |
+| Infections and infestations |  |
+| Uncommon | pneumonia |
+| Psychiatric disorders |  |
+| Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions, confusion, hallucinations, insomnia |
+| Uncommon | binge eating, compulsive shopping, delusion, hyperphagia, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
+| Nervous system disorders |  |
+| Very common | dizziness, dyskinesia, somnolence |
+| Common | headache |
+| Uncommon | amnesia, hyperkinesia, sudden onset of sleep, syncope |
+| Eye disorders |  |
+| Common | visual impairment including diplopia,vision blurred and visual acuity reduced |
+| Vascular disorders |  |
+| Common | hypotension |
+| Respiratory, thoracic, and mediastinal disorders |  |
+| Uncommon | dyspnoea, hiccups |
+| Gastrointestinal disorders |  |
+| Very common | nausea |
+| Common | constipation, vomiting |
+| Skin and subcutaneous tissue disorders |  |
+| Uncommon | hypersensitivity, pruritus, rash |
+| General disorders and administration site conditions |  |
+| Common | fatigue, peripheral oedema |
+| Investigations |  |
+| Common | weight decrease including decreased appetite |
+| Uncommon | weight increase |
+
+| System Organ Class | Adverse Drug Reaction |
+| --- | --- |
+| Infections and infestations |  |
+| Uncommon | pneumonia |
+| Psychiatric disorders |  |
+| Common | abnormal dreams, insomnia |
+| Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling; confusion, delusion, hallucinations, hyperphagia, libido disorder, paranoia, restlessness |
+| Nervous system disorders |  |
+| Common | dizziness, headache, somnolence |
+| Uncommon | amnesia, dyskinesia, hyperkinesia, sudden onset of sleep, syncope |
+| Eye disorders |  |
+| Uncommon | visual impairment including diplopia,vision blurred and visual acuity reduced |
+| Vascular disorders |  |
+| Uncommon | hypotension |
+| Respiratory, thoracic, and mediastinal disorders |  |
+| Uncommon | dyspnoea, hiccups |
+| Gastrointestinal disorders |  |
+| Very common | nausea |
+| Common | constipation, vomiting |
+| Skin and subcutaneous tissue disorders |  |
+| Uncommon | hypersensitivity, pruritus, rash |
+| General disorders and administration site conditions |  |
+| Common | fatigue |
+| Uncommon | peripheral oedema |
+| Investigations |  |
+| Uncommon | weight decrease including decreased appetite, weight increase |
 
 [SIFROL 0.35 mg tablets]
 
@@ -123,19 +173,18 @@ The adverse drug reactions reported in the table below are those events that occ
 | Infections and infestations |  |
 | Uncommon | pneumonia |
 | Psychiatric disorders |  |
-| Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions; confusion, hallucinations, insomnia, restlessness |
-| Uncommon | compulsive shopping, delusion, hypersexuality, libido disorder, paranoia, pathological gambling |
-| Not known | binge eating, hyperphagia |
+| Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions; confusion, hallucinations, insomnia |
+| Uncommon | binge eating, compulsive shopping, delusion, hyperphagia, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
 | Nervous system disorders |  |
 | Very common | dizziness, dyskinesia, somnolence |
-| Common | amnesia, headache |
-| Uncommon | hyperkinesia, sudden onset of sleep, syncope |
+| Common | headache |
+| Uncommon | amnesia, hyperkinesia, sudden onset of sleep, syncope |
 | Eye disorders |  |
-| Common | visual disturbance including vision blurred and visual acuity reduced |
+| Common | visual impairment including diplopia, vision blurred and visual acuity reduced |
 | Vascular disorders |  |
-| Very common | hypotension |
+| Common | hypotension |
 | Respiratory, thoracic, and mediastinal disorders |  |
-| Uncommon | dyspnoea |
+| Uncommon | dyspnoea, hiccups |
 | Gastrointestinal disorders |  |
 | Very common | nausea |
 | Common | constipation, vomiting |
@@ -144,7 +193,7 @@ The adverse drug reactions reported in the table below are those events that occ
 | General disorders and administration site conditions |  |
 | Common | fatigue, peripheral oedema |
 | Investigations |  |
-| Common | weight decrease |
+| Common | weight decrease including decreased appetite |
 | Uncommon | weight increase |
 
 Patients treated with dopamine agonists for Parkinson’s disease, including SIFROL, especially at high doses, have been reported as exhibiting signs of pathological gambling, increased libido and hypersexuality, generally reversible upon reduction of the dose or treatment discontinuation.
@@ -160,7 +209,33 @@ See also section 4.4.
 
 [SIFROL 1.57 mg prolonged-release tablets]
 
-(all sentences already above)
+| System Organ Class | Adverse Drug Reaction |
+| --- | --- |
+| Infections and infestations |  |
+| Uncommon | pneumonia |
+| Psychiatric disorders |  |
+| Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions; confusion, hallucinations, insomnia |
+| Uncommon | binge eating, compulsive shopping, delusion, hyperphagia, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
+| Nervous system disorders |  |
+| Very common | dizziness, dyskinesia, somnolence |
+| Common | headache |
+| Uncommon | amnesia, hyperkinesia, sudden onset of sleep, syncope |
+| Eye disorders |  |
+| Common | visual impairment including diplopia,vision blurred and visual acuity reduced |
+| Vascular disorders |  |
+| Common | hypotension |
+| Respiratory, thoracic, and mediastinal disorders |  |
+| Uncommon | dyspnoea, hiccups |
+| Gastrointestinal disorders |  |
+| Very common | nausea |
+| Common | constipation, vomiting |
+| Skin and subcutaneous tissue disorders |  |
+| Uncommon | hypersensitivity, pruritus, rash |
+| General disorders and administration site conditions |  |
+| Common | fatigue, peripheral oedema |
+| Investigations |  |
+| Common | weight decrease including decreased appetite |
+| Uncommon | weight increase |
 
 [SIFROL 2.1 mg prolonged-release tablets]
 

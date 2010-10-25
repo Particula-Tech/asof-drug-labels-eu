@@ -8,7 +8,7 @@ There is no pharmacokinetic interaction with selegiline and levodopa.
 
 Inhibitors/competitors of active renal elimination pathway
 Cimetidine reduced the renal clearance of pramipexole by approximately 34%, presumably by inhibition of the cationic secretory transport system of the renal tubules.
-Therefore, medicinal products that are inhibitors of this active renal elimination pathway or are eliminated by this pathway, such as cimetidine, amantadine, and mexiletine, may interact with pramipexole resulting in reduced clearance of either or both medicinal products.
+Therefore, medicinal products that are inhibitors of this active renal elimination pathway or are eliminated by this pathway, such as cimetidine, amantadine, mexiletine, zidovudine, cisplatin, quinine, and procainamide, may interact with pramipexole resulting in reduced clearance of pramipexole.
 Reduction of the pramipexole dose should be considered when these medicinal products are administered concomitantly with SIFROL.
 
 Combination with levodopa
@@ -29,7 +29,7 @@ Co-administration of antipsychotic medicinal products with pramipexole should be
 
 [SIFROL 0.7 mg tablets]
 
-(all sentences already above)
+Therefore, medicinal products that are inhibitors of this active renal elimination pathway or are eliminated by this pathway, such as cimetidine, amantadine, mexiletine, zidovudine, cisplatin, quinine, and procainamide,may interact with pramipexole resulting in reduced clearance of pramipexole.
 
 [SIFROL 1.1 mg tablets]
 

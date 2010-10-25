@@ -16,7 +16,9 @@ However, if its use is unavoidable, breast-feeding should be discontinued.
 
 Fertility
 
-No human or non-clinical fertility data are available.
+No studies on the effect on human fertility have been conducted.
+In animal studies, pramipexole affected oestrous cycles and reduced female fertility as expected for a dopamine agonist.
+However, these studies did not indicate direct or indirect harmful effects with respect to male fertility.
 
 [SIFROL 0.18 mg tablets]
 
