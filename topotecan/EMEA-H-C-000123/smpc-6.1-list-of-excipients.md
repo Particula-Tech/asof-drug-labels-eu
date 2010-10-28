@@ -26,6 +26,4 @@ black iron oxide (E172) shellac anhydrous ethanol – see leaflet for further in
 
 [HYCAMTIN 1 mg hard capsules]
 
-Titanium dioxide (E171), red iron oxide (E172)
-
-black iron oxide (E172) shellac anhydrous ethanol – see leaflet for further information, propylene glycol isopropyl alcohol butanol concentrated ammonia solution potassium hydroxide
+Titanium dioxide (E171) red iron oxide (E172)

@@ -15,6 +15,7 @@ HYCAMTIN 4 mg is available in cartons containing 1 vial and 5 vials.
 White polyvinyl chloride / polychlorotrifluoroethylene blister sealed with aluminium / Polyethylenterephtalate (PET) / paper foil lidding.
 
 The blisters are sealed with a peel-push child resistant opening feature.
+
 Each blister card contains 10 capsules.
 
 [HYCAMTIN 1 mg hard capsules]
