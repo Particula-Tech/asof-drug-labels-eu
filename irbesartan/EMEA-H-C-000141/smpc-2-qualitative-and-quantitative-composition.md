@@ -4,7 +4,7 @@ Each tablet contains 75 mg of irbesartan.
 
 Excipient: 15.37 mg of lactose monohydrate per tablet.
 
-For a full list of excipients, see section 6.1.
+For the full list of excipients, see section 6.1.
 
 [Aprovel 150 mg tablets.]
 

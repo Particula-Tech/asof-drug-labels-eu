@@ -22,11 +22,11 @@ No dosage adjustment is necessary in female patients.
 Irbesartan AUC and Cmax values were also somewhat greater in elderly subjects (≥ 65 years) than those of young subjects (18-40 years).
 However the terminal half-life was not significantly altered.
 No dosage adjustment is necessary in elderly patients.
-
 Irbesartan and its metabolites are eliminated by both biliary and renal pathways.
 After either oral or IV administration of 14C irbesartan, about 20% of the radioactivity is recovered in the urine, and the remainder in the faeces.
 Less than 2% of the dose is excreted in the urine as unchanged irbesartan.
 
+Paediatric population
 The pharmacokinetics of irbesartan were evaluated in 23 hypertensive children after the administration of single and multiple daily doses of irbesartan (2 mg/kg) up to a maximum daily dose of 150 mg for four weeks.
 Of those 23 children, 21 were evaluable for comparison of pharmacokinetics with adults (twelve children over 12 years, nine children between 6 and 12 years).
 Results showed that Cmax, AUC and clearance rates were comparable to those observed in adult patients receiving 150 mg irbesartan daily.
