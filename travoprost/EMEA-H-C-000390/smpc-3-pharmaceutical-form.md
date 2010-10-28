@@ -1,5 +1,5 @@
 # 3. PHARMACEUTICAL FORM
 
-Eye drops, solution .
+Eye drops, solution.
 
 Clear, colourless solution.

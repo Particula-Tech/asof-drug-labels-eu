@@ -5,46 +5,63 @@ No serious ophthalmic or systemic undesirable effects related to TRAVATAN were r
 The most frequently reported treatment-related undesirable effect with TRAVATAN monotherapy was hyperaemia of the eye (22.3%), which included ocular, conjunctival, or scleral hyperaemia.
 Hyperaemia was mild in 83.0% of those patients who experienced it.
 Almost all patients (98%) who experienced hyperaemia did not discontinue therapy as a result of this event.
-In phase III clinical studies ranging from 6 to 12 months in duration, hyperaemia decreased over time.
+In phase
+III clinical studies ranging from 6 to 12 months in duration, hyperaemia decreased over time.
 
+In a post approval long-term clinical study of 5 years duration involving 502 patients,
+TRAVATAN was administered once daily.
+No serious ophthalmic or systemic undesirable effects related to TRAVATAN were reported in the clinical study.
+The most frequently reported treatment-related undesirable effect with TRAVATAN was iris hyperpigmentation (29.5%) (see section 4.4).
+Hyperaemia of the eye assessed as related to the use of TRAVATAN was reported at an incidence of 10.0% with 2% of patients reporting hyperemia of the eye discontinuing study participation due to the undesirable effect.
 The following undesirable effects were assessed to be treatment-related (with TRAVATAN monotherapy) and are classified according to the following convention: very common (≥1/10), common (>1/100 to <1/10), uncommon (>1/1,000 to ≤1/100), rare (>1/10,000 to ≤1/1000), or very rare (≤1/10,000).
 Within each frequency grouping, undesirable effects are presented in decreasing order of seriousness.
-Infections and infestations:
-Uncommon: herpes simplex
 
-Immune system disorders:
-Uncommon: hypersensitivity, seasonal allergy
+System Organ Classification Frequency Preferred Term
+Infections and infestations Uncommon herpes simplex, keratitis herpetic
+Immune system disorders Uncommon hypersensitivity, drug hypersensitivity,
 
-Nervous system disorders:
-Common: headache
-Uncommon: dysgeusia
+seasonal allergy
 
-Eye disorders:
-Very common: conjunctival hyperaemia, ocular hyperaemia
-Common: punctate keratitis, anterior chamber cell, anterior chamber flare, eye pain, photophobia, eye discharge, ocular discomfort, eye irritation, abnormal sensation in eye, foreign body sensation in eyes, visual acuity reduced, vision blurred, dry eye, eye pruritus, lacrimation increased, erythaema of eyelid, eyelid oedema, eyelids pruritis, growth of eyelashes, iris hyperpigmentation, eyelash discolouration Uncommon: corneal erosion, iridocyclitis, iritis, uveitis, visual field defect, keratitis, anterior chamber inflammation, eye swelling, corneal staining, photopsia, blepharitis, conjunctival oedema, conjunctivitis allergic, conjunctival disorder, conjunctivitis, conjunctival follicles, hypoaesthesia eye, ectropion, keratoconjunctivitis sicca, madarosis, cataract, eye allergy, eyelid pain, eyelid disorder, eyelid margin crusting, scleral hyperaemia, asthenopia
+Nervous system disorder Common headache
+Uncommon dysgeusia, dizziness, visual field defect
+Eye disorders Very common conjunctival hyperaemia, ocular hyperaemia, iris
 
-Cardiac disorders:
-Uncommon: heart rate irregular, palpitations, heart rate decreased
+hyperpigmentation
 
-Vascular disorders:
-Uncommon: blood pressure decreased, blood pressure increased, hypotension
+Common punctate keratitis, anterior chamber cell, anterior
 
-Respiratory, thoracic and mediastinal disorders:
-Uncommon: dysponea, asthma, respiratory disorder, pharyngolaryngeal pain, cough, dysphonia, nasal congestion, throat irritation
+chamber flare, eye pain, photophobia, eye discharge, ocular discomfort, eye irritation, abnormal sensation in eye, foreign body sensation in eyes, visual acuity reduced, vision blurred, dry eye, eye pruritus, lacrimation increased, erythema of eyelid, eyelid oedema, eyelids pruritus, growth of eyelashes, eyelash discolouration
 
-Gastrointestinal disorders:
-Uncommon: peptic ulcer reactivated, gastrointestinal disorder, constipation
+Uncommon macular degeneration, corneal erosion, iridocyclitis,
 
-Skin and subcutaneous tissue disorders:
-Common: skin hyperpigmentation (periocular)
-Uncommon: dermatitis allergic, periorbital oedema, dermatitis contact, erythaema, hair colour changes, hair texture abnormal, hypertrichosis
+iritis, uveitis, keratitis, anterior chamber inflammation, eye inflammation, eye swelling, corneal staining, photopsia, blepharitis, conjunctival oedema, corneal epithelium defect, corneal pigmentation, conjunctivitis allergic, conjunctival disorder, conjunctivitis, conjunctival follicles, hypoaesthesia eye, meibomianitis, ectropion, keratoconjunctivitis sicca, sicca syndrome, pigment dispersion syndrome, anterior chamber pigmentation, mydriasis, cataract, eye allergy, eyelid pain, dark circles under eyes, eyelid disorder, eyelid margin crusting, scleral hyperaemia, asthenopia
 
-Musculoskeletal, connective tissue and bone disorders:
-Uncommon: shoulder pain
+Cardiac disorders Uncommon heart rate irregular, palpitations, heart rate decreased
+Vascular disorders Uncommon blood pressure decreased, blood pressure increased,
 
-General disorders and administrative site conditions:
-Uncommon: asthenia, malaise
+hypotension, hypertension
 
+Respiratory, thoracic and Uncommon dyspnoea, asthma, respiratory disorder,
+mediastinal disorders oropharyngeal pain, cough, dysphonia, nasal
+
+congestion, throat irritation
+
+Gastrointestinal disorders Uncommon peptic ulcer reactivated, gastrointestinal disorder,
+
+constipation
+
+Skin and subcutaneous Common skin hyperpigmentation (periocular)
+tissue disorders Uncommon dermatitis allergic, periorbital oedema, dermatitis
+
+contact, erythema, rash, hair colour changes, hair texture abnormal, hypertrichosis, madarosis
+
+Musculoskeletal, connective Uncommon musculoskeletal pain
+
+tissue and bone disorders
+
+General disorders and Uncommon asthenia, malaise
+
+administrative site conditions
 Adverse reactions identified from post-marketing experience that have not been reported previously in clinical trials with TRAVATAN as monotherapy include the following.
 
 Ocular: macular oedema (see also section 4.4)

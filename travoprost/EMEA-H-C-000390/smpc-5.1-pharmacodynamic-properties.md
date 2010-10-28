@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic Group: Ophthalmologicals – antiglaucoma preparations and miotics – prostaglandin analogues
+Pharmacotherapeutic Group: Ophthalmologicals-antiglaucoma preparations and miotics-prostaglandin analogues
 ATC code: S01E E04
 
 Mechanism of action
