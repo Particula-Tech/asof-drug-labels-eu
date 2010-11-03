@@ -18,6 +18,7 @@ Not all pack sizes may be marketed.
 
 Norvir tablets are supplied in white high density polyethylene (HDPE) bottles closed with polypropylene caps.
 
-Two pack sizes are available for Norvir tablets:
+Three pack sizes are available for Norvir tablets:
 − 1 bottle of 30 tablets
 − 1 bottle of 60 tablets
+− 3 bottles of 30 tablets (90 tablets)

@@ -33,7 +33,6 @@ Distribution:
 The apparent volume of distribution (VB/F) of ritonavir is approximately 20 - 40 l after a single 600 mg dose.
 The protein binding of ritonavir in human plasma is approximately 98 - 99% and is constant over the concentration range of 1.0 – 100 μg /ml.
 Ritonavir binds to both human alpha 1-acid glycoprotein (AAG) and human serum albumin (HSA) with comparable affinities.
-
 Tissue distribution studies with 14C-labelled ritonavir in rats showed the liver, adrenals, pancreas, kidneys and thyroid to have the highest concentrations of ritonavir.
 Tissue to plasma ratios of approximately 1 measured in rat lymph nodes suggests that ritonavir distributes into lymphatic tissues.
 Ritonavir penetrates minimally into the brain.
@@ -46,6 +45,7 @@ The isopropylthiazole oxidation metabolite (M-2) is the major metabolite and has
 However, the AUC of the M-2 metabolite was approximately 3% of the AUC of parent compound.
 
 Low doses of ritonavir have shown profound effects on the pharmacokinetics of other protease inhibitors (and other products metabolised by CYP3A4) and other protease inhibitors may influence the pharmacokinetics of ritonavir (see section 4.5).
+
 Elimination:
 Human studies with radiolabelled ritonavir demonstrated that the elimination of ritonavir was primarily via the hepatobiliary system; approximately 86% of radiolabel was recovered from stool, part of which is expected to be unabsorbed ritonavir.
 In these studies renal elimination was not found to be a major route of elimination of ritonavir.

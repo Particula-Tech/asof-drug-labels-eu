@@ -28,6 +28,7 @@ No subject experienced an increase in QTcF of ≥ 60 msec from baseline or a QTc
 Modest prolongation of the PR interval was also noted in subjects receiving ritonavir in the same study on Day 3.
 The mean changes from baseline in PR interval ranged from 11.0 to 24.0 msec in the 12 hour interval post dose.
 Maximum PR interval was 252 msec and no second or third degree heart block was observed (see section 4.4).
+
 Resistance
 
 Ritonavir-resistant isolates of HIV-1 have been selected in vitro and isolated from patients treated with therapeutic doses of ritonavir.
@@ -50,7 +51,6 @@ The most frequently used nucleosides in this study were zidovudine, stavudine, d
 
 In a study completed in 1996 recruiting less advanced HIV-1 infected patients (CD4 200-500 cells/μl) without previous antiretroviral therapy, ritonavir in combination with zidovudine or alone reduced viral load in plasma and increased CD4 count.
 The mean average change from baseline over 48 weeks for HIV RNA levels was -0.88 log10 in the ritonavir group versus -0.66 log10 in the ritonavir + zidovudine group versus -0.42 log10 in the zidovudine group.
-
 The continuation of ritonavir therapy should be evaluated by viral load because of the possibility of the emergence of resistance as described under section 4.1 Therapeutic indications.
 
 Paediatric Use

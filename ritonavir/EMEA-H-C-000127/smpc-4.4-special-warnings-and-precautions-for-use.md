@@ -33,7 +33,6 @@ A higher risk of lipodystrophy has been associated with individual factors such 
 Clinical examination should include evaluation for physical signs of fat redistribution.
 Consideration should be given to measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate (see section 4.8).
-
 Pancreatitis: Pancreatitis should be considered if clinical symptoms (nausea, vomiting, abdominal pain) or abnormalities in laboratory values (such as increased serum lipase or amylase values) suggestive of pancreatitis should occur.
 Patients who exhibit these signs or symptoms should be evaluated and Norvir therapy should be discontinued if a diagnosis of pancreatitis is made (see section 4.8).
 
@@ -99,6 +98,7 @@ Digoxin levels should be monitored more intensively than usual during this perio
 Ethinyl estradiol: Barrier or other non-hormonal methods of contraception should be considered when administering ritonavir at therapeutic or low doses as ritonavir is likely to reduce the effect and change the uterine bleeding profile when co-administered with estradiol-containing contraceptives.
 
 Glucocorticoids: Concomitant use of ritonavir and fluticasone or other glucocorticoids that are metabolised by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression (see section 4.5).
+
 Trazodone: Particular caution should be used when prescribing ritonavir in patients using trazodone.
 Trazodone is a CYP3A4 substrate and co-administration of ritonavir is expected to increase trazodone levels.
 Adverse reactions of nausea, dizziness, hypotension and syncope have been observed in single dose interaction studies in healthy volunteers (see section 4.5)
