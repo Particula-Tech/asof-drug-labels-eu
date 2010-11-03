@@ -24,7 +24,7 @@ In the case of non-oral hormonal contraceptives, the patient must use an additio
 
 Interference with laboratory tests:
 In general sugammadex does not interfere with laboratory tests, with the possible exception of the serum progesterone assay.
-Interference with this test is observed at sugammadex plasma concentrations of 100 μg/ml (peak plasma level following 8 mg/kg bolus injection).
+Interference with this test is observed at sugammadex plasma concentrations of 100 µg/ml (peak plasma level following 8 mg/kg bolus injection).
 
 In a study in volunteers doses of 4 mg/kg and 16 mg/kg of sugammadex prolonged by 17-22% the activated partial thromboplastin time (aPTT) and prothrombin time (PT).
 In all cases, this slight prolongation was of short duration (< than 30 minutes).

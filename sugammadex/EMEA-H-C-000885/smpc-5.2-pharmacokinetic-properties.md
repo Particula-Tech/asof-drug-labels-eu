@@ -49,7 +49,6 @@ The pharmacokinetic (PK) parameters of two typical paediatric patients are summa
 
 Gender:
 No gender differences were observed.
-
 Race:
 In a study in healthy Japanese and Caucasian subjects no clinically relevant differences in pharmacokinetic parameters were observed.
 Limited data does not indicate differences in pharmacokinetic parameters in Black or African Americans.

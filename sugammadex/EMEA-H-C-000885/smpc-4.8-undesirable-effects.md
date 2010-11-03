@@ -2,14 +2,19 @@
 
 The safety of sugammadex has been evaluated based on an integrated safety database of approximately 1700 patients and 120 volunteers.
 The most commonly reported adverse reaction dysgeusia (metal or bitter taste) was mainly seen after doses of 32 mg/kg sugammadex or higher.
-In a few individuals allergic-like reactions (i.e. flushing, erythematous rash) following sugammadex were reported of which one was a confirmed mild allergic reaction.
 
 | Body system | Subject incidence | Undesirable effect |
 | --- | --- | --- |
-| Immune system disorders | Uncommon (≥ 1/1000 to < 1/100) | Allergic reactions (see section 4.4) |
+| Immune system disorders | Uncommon (≥ 1/1000 to < 1/100) | Drug hypersensitivity reactions (see section 4.4) |
 | Injury, poisoning and procedural complications | Common (≥ 1/100 to < 1/10) | Anaesthetic complication (see section 4.4) |
 |  | Uncommon (≥ 1/1000 to < 1/100) | Unwanted awareness during anaesthesia |
 | Nervous system disorders | Very common (≥ 1/10) in volunteers | Dysgeusia |
+
+Drug hypersensitivity reactions:
+Hypersensitivity reactions have occurred in some patients and volunteers.
+In clinical trials these reactions were reported uncommonly and for post-marketing reports the frequency is unknown.
+These reactions varied from isolated skin reactions to serious systemic reactions (i.e. anaphylaxis, anaphylactic shock) and have occurred in patients with no prior exposure to sugammadex.
+Symptoms associated with these reactions can include: flushing, urticaria, erythematous rash, (severe) hypotension, tachycardia and swelling of tongue and pharynx.
 
 Anaesthetic complication:
 Anaesthetic complications, indicative of the restoration of neuromuscular function, include movement of a limb or the body or coughing during the anaesthetic procedure or during surgery, grimacing, or suckling on the endotracheal tube.

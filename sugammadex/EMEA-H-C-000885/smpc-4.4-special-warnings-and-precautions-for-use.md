@@ -74,8 +74,8 @@ Limited data are available for reversal of pancuronium induced blockade, but it 
 Delayed recovery:
 Conditions associated with prolonged circulation time such as cardiovascular disease, old age (see section 4.2 for the time to recovery in elderly), or oedematous state may be associated with longer recovery times.
 
-Allergic reactions:
-Clinicians should be prepared for the possibility of allergic reactions and take the necessary precautions (see section 4.8).
+Drug hypersensitivity reactions:
+Clinicians should be prepared for the possibility of drug hypersensitivity reactions (including anaphylactic reactions) and take the necessary precautions (see section 4.8).
 
 Patients on a controlled sodium diet:
 Each ml solution contains 9.7 mg sodium.

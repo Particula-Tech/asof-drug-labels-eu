@@ -6,6 +6,7 @@ Mechanism of action:
 Sugammadex is a modified gamma cyclodextrin which is a Selective Relaxant Binding Agent.
 It forms a complex with the neuromuscular blocking agents rocuronium or vecuronium in plasma and thereby reduces the amount of neuromuscular blocking agent available to bind to nicotinic receptors in the neuromuscular junction.
 This results in the reversal of neuromuscular blockade induced by rocuronium or vecuronium.
+
 Pharmacodynamic effects:
 Sugammadex has been administered in doses ranging from 0.5 mg/kg to 16 mg/kg in dose response studies of rocuronium induced blockade (0.6, 0.9, 1.0 and 1.2 mg/kg rocuronium bromide with and without maintenance doses) and vecuronium induced blockade (0.1 mg/kg vecuronium bromide with or without maintenance doses) at different time points/depths of blockade.
 In these studies a clear dose-response relationship was observed.
@@ -37,7 +38,11 @@ Time (minutes) from administration of sugammadex or neostigmine at reappearance 
 | --- | --- | --- |
 |  | Sugammadex (2 mg/kg) | Neostigmine (50 mcg/kg) |
 | Rocuronium N Median (minutes) Range | 48 1.4 0.9-5.4 | 48 17.6 3.7-106.9 |
-| Vecuronium N Median (minutes) Range | 48 2.1 1.2-64.2 | 45 18.9 2.9-76.2 |
+
+Vecuronium
+N 48 45
+Median (minutes) 2.1 18.9
+Range 1.2-64.2 2.9-76.2
 
 Reversal by sugammadex of the neuromuscular blockade induced by rocuronium was compared to the reversal by neostigmine of the neuromuscular blockade induced by cis-atracurium.
 At the reappearance of T2 a dose of 2 mg/kg sugammadex or 50 mcg/kg neostigmine was administered.
