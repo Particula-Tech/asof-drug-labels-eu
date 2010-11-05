@@ -26,6 +26,9 @@ Enhanced efficacy at doses higher than a daily dose of 10 mg has not been demons
 
 ABILIFY is not recommended for use in patients below 15 years of age due to insufficient data on safety and efficacy (see sections 4.8 and 5.1).
 
+Irritability associated with autistic disorder: the safety and efficacy of ABILIFY in children and adolescents below 18 years of age have not yet been established.
+Currently available data are described in section 5.1 but no recommendation on a posology can be made.
+
 Patients with hepatic impairment: no dosage adjustment is required for patients with mild to moderate hepatic impairment.
 In patients with severe hepatic impairment, the data available are insufficient to establish recommendations.
 In these patients dosing should be managed cautiously.

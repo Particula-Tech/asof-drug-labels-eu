@@ -38,12 +38,14 @@ An elevated risk of acute dystonia is observed in males and younger age groups.
 
 Comparisons between aripiprazole and placebo in the proportions of patients experiencing potentially clinically significant changes in routine laboratory and lipid parameters (see section 5.1) revealed no medically important differences.
 Elevations of CPK (Creatine Phosphokinase), generally transient and asymptomatic, were observed in 3.5% of aripiprazole treated patients as compared to 2.0% of patients who received placebo.
+
 Other findings:
 Adverse reactions known to be associated with antipsychotic therapy and also reported during treatment with aripiprazole include neuroleptic malignant syndrome, tardive dyskinesia, seizure, cerebrovascular adverse reactions and increased mortality in elderly demented patients, hyperglycaemia and diabetes mellitus (see section 4.4).
 
 Paediatric population:
 In a short-term placebo-controlled clinical trial involving 302 adolescents (13-17 years) with schizophrenia, the frequency and type of undesirable effects were similar to those in adults except for the following events that were reported more frequently in adolescents receiving aripiprazole than in adults receiving aripiprazole (and more frequently than placebo): somnolence/sedation and extrapyramidal disorder were reported very commonly (≥ 1/10), and dry mouth, increased appetite, and orthostatic hypotension were reported commonly (≥ 1/100, < 1/10).
 The safety profile in a 26-week open-label extension trial was similar to that observed in the short-term, placebo-controlled trial.
+In the pooled adolescent schizophrenia population (13-17 years) with exposure up to 2 years, incidence of low serum prolactin levels in females (<3 ng/ml) and males (<2 ng/ml) was 29.5% and 48.3%, respectively.
 
 Post-Marketing:
 The following adverse reactions have been reported during post-marketing surveillance.
