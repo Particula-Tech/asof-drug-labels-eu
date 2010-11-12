@@ -44,6 +44,13 @@ Malignancies
 The overall observed incidence rate of malignancy in adults and in adolescents 12 years of age and older in the Xolair clinical trial programme was comparable to that reported in the general population (see section 4.4).
 
 There were no cases of malignancy with omalizumab in the clinical trials in children 6 to <12 years of age; there was a single case of malignancy in the control group.
+Arterial thromboembolic events (ATE)
+In controlled clinical trials and an ongoing observational study, a numerical imbalance of ATEs was observed.
+ATE included stroke, transient ischaemic attack, myocardial infarction, unstable angina, and cardiovascular death (including death from unknown cause).
+The rate of ATE in patients in the controlled clinical trials was 6.29 for Xolair-treated patients (17/2703 patient years) and 3.42 for control patients (6/1755 patient years).
+In Cox proportional hazards model, Xolair was not associated with ATE risk (hazard ratio 1.86; 95% confidence interval 0.73-4.72).
+In the observational study, the rate of ATE was 5.59 (79/14140 patients years) for Xolair-treated patients and 3.71 (31/8366 patient years) for control patients.In a multivariate analysis controlling for baseline cardiovascular risk factors, Xolair was not associated with ATE risk (hazard ratio 1.11; 95% confidence interval 0.70-1.76).
+
 Platelets
 In clinical trials few patients had platelet counts below the lower limit of the normal laboratory range.
 None of these changes were associated with bleeding episodes or a decrease in haemoglobin.

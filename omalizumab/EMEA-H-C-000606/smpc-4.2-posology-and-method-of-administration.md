@@ -67,7 +67,7 @@ Treatment duration, monitoring and dose adjustments
 Xolair is intended for long-term treatment.
 Clinical trials have demonstrated that it takes at least 12-16 weeks for Xolair treatment to show effectiveness.
 At 16 weeks after commencing Xolair therapy patients should be assessed by their physician for treatment effectiveness before further injections are administered.
-The decision to continue Xolair following the 16-week timepoint, or on subsequent occasions, should be based on whether a marked improvement in overall asthma control is seen (see section 5.1, Physician’s overall assessment of treatment effectiveness).
+The decision to continue Xolair following the 16-week timepoint, or on subsequent occasions, should be based on whether a marked improvement in overall asthma control is seen (see section 5.1, Physician‟s overall assessment of treatment effectiveness).
 
 Discontinuation of Xolair treatment generally results in a return to elevated free IgE levels and associated symptoms.
 Total IgE levels are elevated during treatment and remain elevated for up to one year after the discontinuation of treatment.

@@ -3,7 +3,6 @@
 The lyophilised medicinal product takes 15-20 minutes to dissolve, although in some cases it may take longer.
 The fully reconstituted medicinal product will appear clear or slightly opaque and may have a few small bubbles or foam around the edge of the vial.
 Because of the viscosity of the reconstituted medicinal product care must be taken to withdraw all of the medicinal product from the vial before expelling any air or excess solution from the syringe in order to obtain the 0.6 ml.
-
 To prepare Xolair 75 mg vials for subcutaneous administration, please adhere to the following instructions:
 
 1.
@@ -54,7 +53,6 @@ Any unused medicinal product or waste material should be disposed of in accordan
 [Xolair 150 mg powder and solvent for solution for injection]
 
 Because of the viscosity of the reconstituted medicinal product care must be taken to withdraw all of the medicinal product from the vial before expelling any air or excess solution from the syringe in order to obtain the 1.2 ml.
-
 To prepare Xolair 150 mg vials for subcutaneous administration, please adhere to the following instructions:
 
 Draw 1.4 ml of water for injections from the ampoule into a syringe equipped with a large-bore 18-gauge needle.
@@ -78,7 +76,6 @@ Holding onto the finger flange, slowly depress the plunger as far as it will go.
 If any solution leaks from the injection site, insert the needle further.
 Keeping the plunger fully depressed, carefully lift the needle straight out from the injection site.
 Slowly release the plunger and allow the needle guard to automatically cover the exposed needle.
-
 Disposal instructions
 Dispose of the used syringe immediately in a sharps container.
 

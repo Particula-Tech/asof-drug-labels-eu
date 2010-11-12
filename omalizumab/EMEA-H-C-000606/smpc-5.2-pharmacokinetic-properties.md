@@ -7,7 +7,6 @@ After subcutaneous administration, omalizumab is absorbed with an average absolu
 Following a single subcutaneous dose in adult and adolescent patients with asthma, omalizumab was absorbed slowly, reaching peak serum concentrations after an average of 7-8 days.
 The pharmacokinetics of omalizumab are linear at doses greater than 0.5 mg/kg.
 Following multiple doses of omalizumab, areas under the serum concentration-time curve from Day 0 to Day 14 at steady state were up to 6-fold of those after the first dose.
-
 Distribution
 In vitro, omalizumab forms complexes of limited size with IgE.
 Precipitating complexes and complexes larger than one million Daltons in molecular weight are not observed in vitro or in vivo.
