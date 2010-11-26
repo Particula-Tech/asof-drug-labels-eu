@@ -1,14 +1,13 @@
 # 4.8 Undesirable effects
 
-In 11 large clinical trials of up to 2 years in duration, over 3200 patients have received treatment with Januvia 100 mg per day alone or in combination with metformin, a sulphonylurea (with or without metformin), insulin (with or without metformin), or a PPARγ agent (with or without metformin).
+In 11 large clinical trials of up to 2 years in duration, over 3,200 patients have received treatment with Januvia 100 mg per day alone or in combination with metformin, a sulphonylurea (with or without metformin), insulin (with or without metformin), or a PPARγ agent (with or without metformin).
 In a pooled analysis of 9 of these trials, the rate of discontinuation due to adverse experiences considered drug-related was 0.8 % with 100 mg per day and 1.5 % with other treatments.
 No adverse reactions considered as drug-related were reported in patients treated with sitagliptin occurring in excess
 (> 0.2 % and difference > 1 patient) of that in patients treated with control.
 In an additional combination study with a PPARγ agent (rosiglitazone) and metformin, no patients were discontinued due to adverse experiences considered as drug-related.
 
 Adverse reactions considered as drug-related reported in patients treated with sitagliptin occurring in excess (> 0.2 % and difference > 1 patient) of that in patients treated with placebo are listed below (Table 1) by system organ class and frequency.
-Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100, < 1/10); uncommon (≥ 1/1000, < 1/100); rare (≥ 1/10000, < 1/1000); and very rare (< 1/10000).
-
+Frequencies are defined as: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); and very rare (< 1/10,000).
 Table 1.
 The frequency of adverse reactions identified from placebo-controlled clinical studies
 
@@ -18,8 +17,6 @@ The frequency of adverse reactions identified from placebo-controlled clinical s
 | Time-point | 24-week | 24-week | 24-week | 24-week | 18-week | 24-week |
 | Infections and infestations |  |  |  |  |  |  |
 | influenza |  |  |  |  |  | Common |
-|  | Sitagliptin with Metfo1rmin | Sitagliptin with a Sulphonylure a 2 | Sitagliptin with a Sulphonylure a and Metformin3 | Sitagliptin with a PPARγ Agent (pioglit4a zone) | Sitagliptin with a PPARγ Agent (rosiglitazone ) and Metformin5 | Sitagliptin with Insulin (+/-) Metfo6rmin) |
-| Time-point | 24-week | 24-week | 24-week | 24-week | 18-week | 24-week |
 | Metabolism and nutrition disorders |  |  |  |  |  |  |
 | hypoglycaemia* |  | Common | Very common | Common | Common | Common |
 | Nervous system disorders |  |  |  |  |  |  |
@@ -66,13 +63,14 @@ Additional adverse experiences reported regardless of causal relationship to med
 In an additional 24-week study of sitagliptin 100 mg once daily compared to metformin, the incidence of adverse reactions considered as drug-related in patients treated with sitagliptin compared to metformin was 5.9 % and 16.7 %, respectively, primarily due to a higher incidence of gastrointestinal adverse reactions in the metformin group.
 In this study 0.6 % of patients treated with sitagliptin and 2.3 % of patients treated with metformin were discontinued due to adverse experiences considered as drug-related.
 
-In a 24-week study of initial combination therapy with sitagliptin and metformin administered twice daily (sitagliptin/metformin 50 mg/500 mg or 50 mg/1000 mg), the overall incidence of adverse reactions considered as drug-related in patients treated with the combination of sitagliptin and metformin compared to patients treated with placebo was 14.0 % and 9.7 %, respectively.
+In a 24-week study of initial combination therapy with sitagliptin and metformin administered twice daily (sitagliptin/metformin 50 mg/500 mg or 50 mg/1,000 mg), the overall incidence of adverse reactions considered as drug-related in patients treated with the combination of sitagliptin and metformin compared to patients treated with placebo was 14.0 % and 9.7 %, respectively.
 The overall incidence of adverse reactions considered as drug-related in patients treated with the combination of sitagliptin and metformin was comparable to metformin alone (14.0 % each) and greater than sitagliptin alone (6.7 %), with the differences relative to sitagliptin alone primarily due to gastrointestinal adverse reactions.
-Across clinical studies, a small increase in white blood cell count (approximately 200 cells/microl difference in WBC vs. placebo; mean baseline WBC approximately 6600 cells/microl) was observed due to an increase in neutrophils.
+
+Across clinical studies, a small increase in white blood cell count (approximately 200 cells/microl difference in WBC vs. placebo; mean baseline WBC approximately 6,600 cells/microl) was observed due to an increase in neutrophils.
 This observation was seen in most but not all studies.
 This change in laboratory parameters is not considered to be clinically relevant.
 
 No clinically meaningful changes in vital signs or in ECG (including in QTc interval) were observed with Januvia treatment.
 
 Post-marketing Experience:
-During post-approval use of Januvia as monotherapy and/or in combination with other antihyperglycaemic agents, additional side effects have been reported (frequency not known): hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome (see section 4.4); pancreatitis; impaired renal function, including acute renal failure (sometimes requiring dialysis); vomiting.
+During post-approval use of Januvia as monotherapy and/or in combination with other antihyperglycaemic agents, additional side effects have been reported (frequency not known): hypersensitivity reactions including anaphylaxis, angioedema, rash, urticaria, cutaneous vasculitis, and exfoliative skin conditions including Stevens-Johnson syndrome (see section 4.4); acute pancreatitis, including fatal and non-fatal haemorrhagic and necrotizing pancreatitis (see section 4.4); impaired renal function, including acute renal failure (sometimes requiring dialysis); vomiting.

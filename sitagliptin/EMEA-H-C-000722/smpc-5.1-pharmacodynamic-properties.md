@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Drugs used in diabetes, Dipeptidyl peptidase 4 (DPP-4) inhibitors, ATC code: A10BH01.
+Pharmacotherapeutic group: Medicines used in diabetes, Dipeptidyl peptidase 4 (DPP-4) inhibitors, ATC code: A10BH01.
 
 Januvia is a member of a class of oral anti-hyperglycaemic agents called dipeptidyl peptidase 4 (DPP-4) inhibitors.
 The improvement in glycaemic control observed with this agent may be mediated by enhancing the levels of active incretin hormones.
@@ -45,17 +45,17 @@ In these studies there was a similar incidence of hypoglycaemia reported for pat
 A 24-week placebo-controlled study was designed to evaluate the efficacy and safety of sitagliptin (100 mg once daily) added to glimepiride alone or glimepiride in combination with metformin.
 The addition of sitagliptin to either glimepiride alone or to glimepiride and metformin provided significant improvements in glycaemic parameters.
 Patients treated with sitagliptin had a modest increase in body weight compared to those given placebo.
-
 A 54-week placebo-controlled study was designed to evaluate the efficacy and safety of sitagliptin (100 mg once daily) added to the combination of rosiglitazone and metformin.
 The addition of sitagliptin to rosiglitazone and metformin provided significant improvements in glycaemic parameters at the primary timepoint of Week 18, with improvements sustained through the end of the study.
 Change from baseline in body weight was similar for patients treated with sitagliptin relative to placebo (1.9 vs. 1.3 kg).
-A 24-week placebo-controlled study was designed to evaluate the efficacy and safety of sitagliptin (100 mg once daily) added to insulin (at a stable dose for at least 10 weeks) with or without metformin (at least 1500 mg).
+
+A 24-week placebo-controlled study was designed to evaluate the efficacy and safety of sitagliptin (100 mg once daily) added to insulin (at a stable dose for at least 10 weeks) with or without metformin (at least 1,500 mg).
 In patients taking pre-mixed insulin, the mean daily dose was 70.9 U/day.
 In patients taking non-pre-mixed (intermediate/long-acting) insulin, the mean daily dose was 44.3 U/day.
 The addition of sitagliptin to insulin provided significant improvements in glycaemic parameters.
 There was no meaningful change from baseline in body weight in either group.
 
-In a 24-week placebo-controlled factorial study of initial therapy, sitagliptin 50 mg twice daily in combination with metformin (500 mg or 1000 mg twice daily) provided significant improvements in glycaemic parameters compared with either monotherapy.
+In a 24-week placebo-controlled factorial study of initial therapy, sitagliptin 50 mg twice daily in combination with metformin (500 mg or 1,000 mg twice daily) provided significant improvements in glycaemic parameters compared with either monotherapy.
 The decrease in body weight with the combination of sitagliptin and metformin was similar to that observed with metformin alone or placebo; there was no change from baseline for patients on sitagliptin alone.
 The incidence of hypoglycaemia was similar across treatment groups.
 
@@ -66,28 +66,28 @@ HbA1c results in placebo-controlled monotherapy and combination therapy studies*
 | --- | --- | --- | --- |
 | Monotherapy Studies |  |  |  |
 | Sitagliptin 100 mg once daily§ (N= 193) | 8.0 | -0.5 | -0.6‡ (-0.8, -0.4) |
-| Sitagliptin 100 mg once daily% (N= 229) | 8.0 | -0.6 | -0.8‡ (-1.0, -0.6) |
+| Sitagliptin 100 mg once daily� (N= 229) | 8.0 | -0.6 | -0.8‡ (-1.0, -0.6) |
 | Combination Therapy Studies |  |  |  |
-| Sitagliptin 100 mg once daily added to ongoing metformin therapy% (N=453) | 8.0 | -0.7 | -0.7‡ (-0.8, -0.5) |
-| Sitagliptin 100 mg once daily added to ongoing pioglitazone therapy% (N=163) | 8.1 | -0.9 | -0.7‡ (-0.9, -0.5) |
-| Sitagliptin 100 mg once daily added to ongoing glimepiride therapy% (N=102) | 8.4 | -0.3 | -0.6‡ (-0.8, -0.3) |
-| Sitagliptin 100 mg once daily added to ongoing glimepiride + metformin therapy% (N=115) | 8.3 | -0.6 | -0.9‡ (-1.1, -0.7) |
+| Sitagliptin 100 mg once daily added to ongoing metformin therapy� (N=453) | 8.0 | -0.7 | -0.7‡ (-0.8, -0.5) |
+| Sitagliptin 100 mg once daily added to ongoing pioglitazone therapy� (N=163) | 8.1 | -0.9 | -0.7‡ (-0.9, -0.5) |
+| Sitagliptin 100 mg once daily added to ongoing glimepiride therapy� (N=102) | 8.4 | -0.3 | -0.6‡ (-0.8, -0.3) |
+| Sitagliptin 100 mg once daily added to ongoing glimepiride + metformin therapy� (N=115) | 8.3 | -0.6 | -0.9‡ (-1.1, -0.7) |
 | Sitagliptin 100 mg once daily added to ongoing rosiglitazone + metformin therapy (N=170) Week 18 | 8.8 | -1.0 | -0.7‡ (-0.9, -0.5) |
 | Week 54 | 8.8 | -1.0 | -0.8‡ (-1.0, -0.5) |
-| Initial therapy (twice daily)%: Sitagliptin 50 mg + metformin 500 mg (N=183) | 8.8 | -1.4 | -1.6‡ (-1.8, -1.3) |
-| Initial therapy (twice daily)%: Sitagliptin 50 mg + metformin 1000 mg (N=178) | 8.8 | -1.9 | -2.1‡ (-2.3, -1.8) |
-| Sitagliptin 100 mg once daily added to ongoing insulin (+/- metformin) therapy% (N=305) | 8.7 | -0.6¶ | -0.6‡,¶ (-0.7, -0.4) |
+| Initial therapy (twice daily)�: Sitagliptin 50 mg + metformin 500 mg (N=183) | 8.8 | -1.4 | -1.6‡ (-1.8, -1.3) |
+| Initial therapy (twice daily)�: Sitagliptin 50 mg + metformin 1,000 mg (N=178) | 8.8 | -1.9 | -2.1‡ (-2.3, -1.8) |
+| Sitagliptin 100 mg once daily added to ongoing insulin (+/- metformin) therapy� (N=305) | 8.7 | -0.6¶ | -0.6‡,¶ (-0.7, -0.4) |
 
 * All Patients Treated Population (an intention-to-treat analysis).
 † Least squares means adjusted for prior antihyperglycaemic therapy status and baseline value.
 ‡ p<0.001 compared to placebo or placebo + combination treatment.
 § HbA1c (%) at week 18.
-% HbA1c (%) at week 24.
+� HbA1c (%) at week 24.
 ¶ Least squares mean adjusted for metformin use at Visit 1 (yes/no), insulin use at Visit 1 (pre-mixed vs. non-pre-mixed [intermediate- or long-acting]), and baseline value.
 Treatment by stratum (metformin and insulin use) interactions were not significant (p > 0.10).
 
 A 24-week active (metformin)-controlled study was designed to evaluate the efficacy and safety of sitagliptin 100 mg once daily (N=528) compared to metformin (N=522) in patients with inadequate glycaemic control on diet and exercise and who were not on anti-hyperglycaemic therapy (off therapy for at least 4 months).
-The mean dose of metformin was approximately 1900 mg per day.
+The mean dose of metformin was approximately 1,900 mg per day.
 The reduction in HbA1c from mean baseline values of 7.2 % was -0.43 % for sitagliptin and -0.57 % for metformin (Per Protocol Analysis).
 The overall incidence of gastrointestinal adverse reactions considered as drug-related in patients treated with sitagliptin was 2.7 % compared with 12.6 % in patients treated with metformin.
 The incidence of hypoglycaemia was not significantly different between the treatment groups (sitagliptin, 1.3 %; metformin, 1.9 %).
@@ -109,17 +109,17 @@ The European Medicines Agency has deferred the obligation to submit the results 
 | --- | --- | --- | --- |
 | Monotherapy Studies |  |  |  |
 | Sitagliptin 100 mg once daily§ (N= 193) | 8.0 | -0.5 | -0.6‡ (-0.8, -0.4) |
-| Sitagliptin 100 mg once daily% (N= 229) | 8.0 | -0.6 | -0.8‡ (-1.0, -0.6) |
+| Sitagliptin 100 mg once daily� (N= 229) | 8.0 | -0.6 | -0.8‡ (-1.0, -0.6) |
 | Combination Therapy Studies |  |  |  |
-| Sitagliptin 100 mg once daily added to ongoing metformin therapy% (N=453) | 8.0 | -0.7 | -0.7‡ (-0.8, -0.5) |
-| Sitagliptin 100 mg once daily added to ongoing pioglitazone therapy% (N=163) | 8.1 | -0.9 | -0.7‡ (-0.9, -0.5) |
-| Sitagliptin 100 mg once daily added to ongoing glimepiride therapy% (N=102) | 8.4 | -0.3 | -0.6‡ (-0.8, -0.3) |
-| Sitagliptin 100 mg once daily added to ongoing glimepiride + metformin therapy% (N=115) | 8.3 | -0.6 | -0.9‡ (-1.1, -0.7) |
+| Sitagliptin 100 mg once daily added to ongoing metformin therapy� (N=453) | 8.0 | -0.7 | -0.7‡ (-0.8, -0.5) |
+| Sitagliptin 100 mg once daily added to ongoing pioglitazone therapy� (N=163) | 8.1 | -0.9 | -0.7‡ (-0.9, -0.5) |
+| Sitagliptin 100 mg once daily added to ongoing glimepiride therapy� (N=102) | 8.4 | -0.3 | -0.6‡ (-0.8, -0.3) |
+| Sitagliptin 100 mg once daily added to ongoing glimepiride + metformin therapy� (N=115) | 8.3 | -0.6 | -0.9‡ (-1.1, -0.7) |
 | Sitagliptin 100 mg once daily added to ongoing rosiglitazone + metformin therapy (N=170) Week 18 | 8.8 | -1.0 | -0.7‡ (-0.9, -0.5) |
 | Week 54 | 8.8 | -1.0 | -0.8‡ (-1.0, -0.5 |
-| Initial therapy (twice daily)%: Sitagliptin 50 mg + metformin 500 mg (N=183) | 8.8 | -1.4 | -1.6‡ (-1.8, -1.3) |
-| Initial therapy (twice daily)%: Sitagliptin 50 mg + metformin 1000 mg (N=178) | 8.8 | -1.9 | -2.1‡ (-2.3, -1.8) |
-| Sitagliptin 100 mg once daily added to ongoing insulin (+/- metformin) therapy% (N=305) | 8.7 | -0.6¶ | -0.6‡,¶ (-0.7, -0.4) |
+| Initial therapy (twice daily)�: Sitagliptin 50 mg + metformin 500 mg (N=183) | 8.8 | -1.4 | -1.6‡ (-1.8, -1.3) |
+| Initial therapy (twice daily)�: Sitagliptin 50 mg + metformin 1,000 mg (N=178) | 8.8 | -1.9 | -2.1‡ (-2.3, -1.8) |
+| Sitagliptin 100 mg once daily added to ongoing insulin (+/- metformin) therapy� (N=305) | 8.7 | -0.6¶ | -0.6‡,¶ (-0.7, -0.4) |
 
 In a study comparing the efficacy and safety of the addition of Januvia 100 mg once daily or glipizide (a sulphonylurea agent) in patients with inadequate glycaemic control on metformin monotherapy, sitagliptin was similar to glipizide in reducing HbA1c The mean glipizide dose used in the comparator group was 10 mg per day with approximately 40 % of patients requiring a glipizide dose of
 

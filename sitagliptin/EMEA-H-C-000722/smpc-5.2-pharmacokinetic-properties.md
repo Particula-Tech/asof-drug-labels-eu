@@ -3,10 +3,11 @@
 Absorption
 Following oral administration of a 100-mg dose to healthy subjects, sitagliptin was rapidly absorbed, with peak plasma concentrations (median Tmax) occurring 1 to 4 hours post-dose, mean plasma AUC of sitagliptin was 8.52 μM•hr, Cmax was 950 nM.
 The absolute bioavailability of sitagliptin is approximately 87 %.
-Since coadministration of a high-fat meal with Januvia had no effect on the pharmacokinetics, Januvia may be administered with or without food.
+Since co-administration of a high-fat meal with Januvia had no effect on the pharmacokinetics, Januvia may be administered with or without food.
 
 Plasma AUC of sitagliptin increased in a dose-proportional manner.
 Dose-proportionality was not established for Cmax and C24hr (Cmax increased in a greater than dose-proportional manner and C24hr increased in a less than dose-proportional manner).
+
 Distribution
 The mean volume of distribution at steady state following a single 100-mg intravenous dose of sitagliptin to healthy subjects is approximately 198 liters.
 The fraction of sitagliptin reversibly bound to plasma proteins is low (38 %).
@@ -47,8 +48,8 @@ The study included patients with renal impairment classified on the basis of cre
 Patients with mild renal impairment did not have a clinically meaningful increase in the plasma concentration of sitagliptin as compared to normal healthy control subjects.
 An approximately 2-fold increase in the plasma AUC of sitagliptin was observed in patients with moderate renal impairment, and an approximately 4-fold increase was observed in patients with severe renal impairment and in patients with ESRD on hemodialysis, as compared to normal healthy control subjects.
 Sitagliptin was modestly removed by hemodialysis (13.5 % over a 3- to 4-hour hemodialysis session starting 4 hours postdose).
-Januvia is not recommended for use in patients with moderate or severe renal impairment including those with ESRD since experience in these patients is too limited.
-(See section 4.2.)
+Januvia is not recommended for use in patients with moderate or severe renal impairment including those with ESRD since experience in these patients is too limited (see section 4.2).
+
 Hepatic impairment
 No dose adjustment for Januvia is necessary for patients with mild or moderate hepatic impairment (Child-Pugh score ≤ 9).
 There is no clinical experience in patients with severe hepatic impairment (Child-Pugh score > 9).
@@ -65,3 +66,14 @@ No studies with Januvia have been performed in paediatric patients.
 Other patient characteristics
 No dose adjustment is necessary based on gender, race, or body mass index (BMI).
 These characteristics had no clinically meaningful effect on the pharmacokinetics of sitagliptin based on a composite analysis of Phase I pharmacokinetic data and on a population pharmacokinetic analysis of Phase I and Phase II data.
+
+[Januvia 50 mg film-coated tablets]
+
+Since coadministration of a high-fat meal with Januvia had no effect on the pharmacokinetics, Januvia may be administered with or without food.
+
+Januvia is not recommended for use in patients with moderate or severe renal impairment including those with ESRD since experience in these patients is too limited.
+(See section 4.2.)
+
+[Januvia 100 mg film-coated tablets]
+
+(all sentences already above)

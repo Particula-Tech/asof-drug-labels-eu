@@ -3,10 +3,10 @@
 Effects of other medicinal products on sitagliptin
 Clinical data described below suggest that the risk for clinically meaningful interactions by co-administered medicinal products is low.
 
-Metformin: Co-administration of multiple twice-daily doses of 1000 mg metformin with 50 mg sitagliptin did not meaningfully alter the pharmacokinetics of sitagliptin in patients with type 2 diabetes.
+Metformin: Co-administration of multiple twice-daily doses of 1,000 mg metformin with 50 mg sitagliptin did not meaningfully alter the pharmacokinetics of sitagliptin in patients with type 2 diabetes.
 
 Ciclosporin: A study was conducted to assess the effect of ciclosporin, a potent inhibitor of p-glycoprotein, on the pharmacokinetics of sitagliptin.
-Coadministration of a single 100 mg oral dose of sitagliptin and a single 600 mg oral dose of ciclosporin increased the AUC and Cmax of sitagliptin by approximately 29 % and 68 %, respectively.
+Co-administration of a single 100 mg oral dose of sitagliptin and a single 600 mg oral dose of ciclosporin increased the AUC and Cmax of sitagliptin by approximately 29 % and 68 %, respectively.
 These changes in sitagliptin pharmacokinetics were not considered to be clinically meaningful.
 The renal clearance of sitagliptin was not meaningfully altered.
 Therefore, meaningful interactions would not be expected with other p-glycoprotein inhibitors.
@@ -26,7 +26,6 @@ In vitro data suggest that sitagliptin does not inhibit nor induce CYP450 isoenz
 In clinical studies, sitagliptin did not meaningfully alter the pharmacokinetics of metformin, glyburide, simvastatin, rosiglitazone, warfarin, or oral contraceptives, providing in vivo evidence of a low propensity for causing interactions with substrates of CYP3A4, CYP2C8, CYP2C9, and organic cationic transporter (OCT).
 
 Sitagliptin had a small effect on plasma digoxin concentrations, and may be a mild inhibitor of p-glycoprotein in vivo.
-
 Digoxin: Sitagliptin had a small effect on plasma digoxin concentrations.
 Following administration of 0.25 mg digoxin concomitantly with 100 mg of Januvia daily for 10 days, the plasma AUC of digoxin was increased on average by 11 %, and the plasma Cmax on average by 18 %.
 No dose adjustment of digoxin is recommended.
