@@ -19,9 +19,14 @@ The protection against influenza lasts only as long as Tamiflu is administered.
 Tamiflu should be used for the treatment and prevention of influenza only when reliable epidemiological data indicate that influenza virus is circulating in the community.
 Susceptibility of circulating influenza virus strains to oseltamivir has been shown to be highly variable (see section 5.1).
 Therefore, prescribers should take into account the most recent information available on oseltamivir susceptibility patterns of the currently circulating viruses when deciding whether to use Tamiflu.
+
 Severe renal impairment
 Dose adjustment is recommended for both treatment and prevention in adults with severe renal insufficiency.
 There is insufficient clinical data available in children with renal impairment to be able to make any dosing recommendation.(see sections 4.2 and 5.2).
+
+Neuropsychiatric events have been reported during administration of Tamiflu in patients with influenza, especially in children and adolescents.
+These events are also experienced by patients with influenza without oseltamivir administration.
+Patients should be closely monitored for behavioural changes, and the benefits and risks of continuing treatment should be carefully evaluated for each patient (see section 4.8).
 
 [Tamiflu 45 mg hard capsule.]
 
@@ -37,3 +42,5 @@ There is insufficient clinical data available in children with renal impairment 
 
 This medicinal product contains sorbitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.
+
+Sorbitol can have a mild laxative effect.

@@ -48,7 +48,6 @@ In the pooled treatment study population, which included both influenza-positive
 In the overall treatment population, influenza infection was confirmed in 67 % (range 46 % to 74 %) of the recruited patients.
 Of the elderly subjects, 64 % were influenza-positive and of those with chronic cardiac and/or respiratory disease 62 % were influenza-positive.
 In all phase III treatment studies, patients were recruited only during the period in which influenza was circulating in the local community.
-
 Adults and adolescents 13 years of age and older: Patients were eligible if they reported within 36 hours of onset of symptoms, had fever ≥ 37.8 °C, accompanied by at least one respiratory symptom (cough, nasal symptoms or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue or headache).
 In a pooled analysis of all influenza-positive adults and adolescents
 (N = 2413) enrolled into treatment studies, oseltamivir 75 mg twice daily for 5 days reduced the median duration of influenza illness by approximately one day from 5.2 days (95 % CI 4.9 – 5.5 days) in the placebo group to 4.2 days (95 % CI 4.0 – 4.4 days; p ≤ 0.0001).

@@ -7,7 +7,9 @@ Tamiflu capsules and Tamiflu suspension are bioequivalent formulations.
 - one 30 mg capsule plus one 45 mg capsule or
 - by administering one 30 mg dose plus one 45 mg dose of suspension.
 
-Adults, adolescents or children (> 40 kg) who are unable to swallow capsules may receive appropriate doses of Tamiflu suspension.
+Adults, adolescents or children ( 1 year of age or older) who are unable to swallow capsules may receive appropriate doses of Tamiflu suspension.
+
+For infants below 1 year of age: In the absence of a suitable formulation, a pharmacy compounded preparation should preferentially be used as the syringe provided in the Tamiflu 12 mg/ml powder for oral suspension pack (with mg markings) does not allow for appropriate dose adjustments and commercially available syringes (with ml markings) may lead to unacceptable dosing inaccuracies (see below 4.2).
 
 Treatment of influenza
 Treatment should be initiated as soon as possible within the first two days of onset of symptoms of influenza.
@@ -25,7 +27,8 @@ The following weight-adjusted dosing regimens are recommended for children 1 yea
 | > 23 kg to 40 kg | 60 mg twice daily |
 | > 40 kg | 75 mg twice daily |
 
-Children weighing > 40 kg and who are able to swallow capsules may receive treatment with the adult dosage of 75 mg capsules twice daily for 5 days as an alternative to the recommended dose of Tamiflu suspension.
+Children who are able to swallow capsules may receive treatment with Tamiflu capsules (30 mg,
+45 mg, 75 mg) twice daily for 5 days as an alternative to the recommended dose of Tamiflu suspension.
 
 � For infants below 12 months of age: The recommended treatment dose for infants less than 12 months is between 2 mg/kg twice daily and 3 mg/kg twice daily during a pandemic influenza outbreak.
 This is based upon limited pharmacokinetic data indicating that these doses provide plasma drug exposures in the majority of patients similar to those shown to be clinically efficacious in older children and adults (see section 5.2).
@@ -40,9 +43,9 @@ The following weight-adjusted dosing regimens are recommended for treatment of i
 * There is no data available regarding the administration of Tamiflu to infants less than one month of age.
 
 Administration of Tamiflu to infants less than one year of age should be based upon the judgment of the physician after considering the potential benefit of treatment versus any potential risk to the infant.
-
 These age-based dosing recommendations are not intended for premature infants, i.e. those with a postmenstrual age less than 37 weeks.
 Insufficient data are available for these patients, in whom different dosing may be required due to the immaturity of physiological functions
+
 Prevention of influenza
 Post-exposure prevention
 � For adolescents (13 to 17 years of age) and adults: The recommended dose for prevention of influenza following close contact with an infected individual is 75 mg oseltamivir once daily for 10 days.
@@ -59,7 +62,7 @@ The recommended post-exposure prevention dose of Tamiflu is:
 | > 23 kg to 40 kg | 60 mg once daily |
 | > 40 kg | 75 mg once daily |
 
-Children weighing > 40 kg and who are able to swallow capsules may receive prevention with a 75 mg capsule once daily for 10 days as an alternative to the recommended dose of Tamiflu suspension.
+Children who are able to swallow capsules may receive prevention Tamiflu capsules (30 mg, 45 mg, 75 mg) once daily for 10 days as an alternative to the recommended dose of Tamiflu suspension.
 
 � For infants below 12 months of age: The recommended prophylaxis dose for infants less than 12 months during a pandemic influenza outbreak is half of the daily treatment dose.
 This is based upon clinical data in children > 1 year of age and adults showing that a prophylaxis dose equivalent to half the daily treatment dose is clinically efficacious for the prevention of influenza.
@@ -83,11 +86,13 @@ The recommended dose for prevention of influenza during a community outbreak is 
 
 Extemporaneous formulation
 When Tamiflu powder for oral suspension is not available
-During situations when commercially manufactured Tamiflu powder for oral suspension is not readily available, adults, adolescents or children who are unable to swallow capsules may receive appropriate doses of Tamiflu prepared by a pharmacist or prepared at home by parents or caregivers.
-
+When commercially manufactured Tamiflu powder for oral suspension is not available, patients who are unable to swallow capsules may receive appropriate doses of Tamiflu prepared in a pharmacy or prepared at home.
+For infants below 12 months, the pharmacy preparation should be preferred to home preparation.
+Detailed information on the home preparation can be found in section 3 of the package leaflet of Tamiflu capsules.
 Pharmacy compounding
 � Adults and children greater than 1 year who are unable to swallow intact capsules
 This procedure describes the preparation of a 15 mg/ml solution that will provide one patient with enough medication for a 5-day course of treatment or a 10-day course of prophylaxis.
+
 The pharmacist may compound a suspension (15 mg/ml) from Tamiflu 30 mg, 45 mg or 75 mg capsules using water containing 0.1% w/v sodium benzoate added as a preservative.
 
 First, calculate the Total Volume needed to be compounded and dispensed to provide a 5-day course of treatment or a 10=day course of prophylaxis for the patient.
@@ -184,6 +189,7 @@ Volume of Compounded Suspension (10 mg/ml) Prepared Based Upon the Patient’s W
 | > 7 to 12 kg | 45 ml |
 
 Second, determine the number of capsules and the amount of vehicle (water containing 0.1% w/v sodium benzoate added as a preservative) that is needed to prepare the Total Volume (calculated from the table above: 30 ml, 45 ml) of compounded suspension (10 mg/ml) as shown in the table below:
+
 Number of Capsules and Amount of Vehicle Needed to Prepare the Total Volume of a Compounded Suspension (10 mg/ml)
 
 | Total Volume of Compounded Suspension to be Prepared | Required Number of Tamiflu Capsules (mg of oseltamivir) |  |  | Required Volume of Vehicle |
@@ -229,7 +235,6 @@ Refrigerated storage conditions: Stable for 6 weeks when stored at 2 °C - 8 °C
 
 Place a pharmacy label on the bottle that includes the patient’s name, dosing instructions, use by date, drug name and any other required information to be in compliance with local pharmacy regulations.
 Refer to the table below for the proper dosing instructions.
-
 Dosing Chart for Pharmacy-Compounded Suspension (10 mg/ml) from Tamiflu Capsules for Infants Less Than One Month of Age
 
 | Body Weight (rounded to the nearest 0.5 kg) | Treatment Dose (for 5 days) | Prophylaxis Dose (for 10 days) |
@@ -261,15 +266,22 @@ If possible, mark or highlight the graduation corresponding to the appropriate d
 The appropriate dose must be mixed by the caregiver with an equal quantity of sweet liquid food, such as sugar water, chocolate syrup, cherry syrup, dessert toppings (like caramel or fudge sauce) to mask the bitter taste.
 
 Home preparation
-During situations when commercially manufactured Tamiflu oral suspension is not readily available, adults, adolescents or children who are unable to swallow capsules may receive appropriate doses of Tamiflu (see section 3 in Package Leaflet) by opening capsules and pouring the contents of capsules into a suitable, small amount (1 teaspoon maximum) of sweetened food product such as sugar water, chocolate syrup, cherry syrup, dessert toppings (like caramel or fudge sauce) to mask the bitter taste.
-The mixture should be stirred and the entire contents given to the patient.
+When commercially manufactured Tamiflu oral suspension is not available, a pharmacy preparation from Tamiflu capsules can be used (detailed instructions above in section 4.2).
+If the pharmacy preparation is not available either, Tamiflu doses may be prepared at home.
+The pharmacy preparation is the preferred option in infants below 12 months of age.
+
+When appropriate capsule strengths are available, the dose is given by opening the capsule and mixing its contents with no more than one teaspoon of a suitable sweetened food product.
+The bitter taste can be masked by products such as sugar water, chocolate syrup, cherry syrup, dessert toppings (like caramel or fudge sauce).
+The mixture should be stirred and given entirely to the patient.
 The mixture must be swallowed immediately after its preparation.
+
+When only 75 mg capsules are available, and doses of 30 mg or 45 mg are needed, the preparation involves additional steps.
+Detailed instructions can be found in section 3 in the package leaflet of Tamiflu capsules.
 
 Special populations
 Hepatic impairment
 No dose adjustment is required either for treatment or for prevention in patients with hepatic dysfunction.
 No studies have been carried out in paediatric patients with hepatic disorder.
-
 Renal impairment
 Treatment of influenza: Dose adjustment is recommended for adults with severe renal impairment.
 Recommended doses are detailed in the table below.
@@ -301,19 +313,16 @@ Longer duration of seasonal prophylaxis up to 12 weeks has been evaluated in imm
 
 [Tamiflu 45 mg hard capsule.]
 
+Children who are able to swallow capsules may receive prevention with Tamiflu capsules (30 mg,
+45 mg, 75 mg) once daily for 10 days as an alternative to the recommended dose of Tamiflu suspension.
+
 TLonger duration of seasonal prophylaxis up to 12 weeks has been evaluated in immunocompromised subjects (see sections 4.4, 4.8 and 5.1).
 
 [Tamiflu 75 mg hard capsule.]
 
 For recommended treatment dose of Tamiflu for infants older than 1 year of age and for children 2 to 12 years of age, see SmPC of Tamiflu suspension and Tamiflu 30 and 45 mg capsules.
 
-Children weighing > 40 kg and who are able to swallow capsules may receive treatment with the adult dosage of 75 mg capsules twice daily for 5 days as an alternative to the recommended dose of Tamiflu suspension or Tamiflu 30 mg and 45 mg capsules.
-
-Therapy should begin as soon as possible within two days of exposure to an infected individual. � For infants older than 1 year of age and for children 2 to 12 years of age: Tamiflu 30 mg and 45 mg capsules and oral suspension are available.
-
 For recommended post-exposure prevention dose of Tamiflu for infants older than 1 year of age and for children of 2 to 12 years of age, see SmPC of Tamiflu suspension and Tamiflu 30 mg and 45 mg capsules.
-
-Children weighing > 40 kg and who are able to swallow capsules may receive prevention with a 75 mg capsule once daily for 10 days as an alternative to the recommended dose of Tamiflu suspension or Tamiflu 30 mg and 45 mg capsules.
 
 [Tamiflu 12 mg/ml powder for oral suspension.]
 
@@ -321,14 +330,26 @@ Tamiflu suspension and Tamiflu capsules are bioequivalent formulations.
 
 Adults, adolescents or children (> 40 kg) who are able to swallow capsules may receive appropriate doses of Tamiflu capsules.
 
+For infants below 12 months of age: This formulation is not suitable for dosing in infants less than 12 months of age.
+For details, see sections below.
+
 � For infants older than 1 year of age and for children 2 to 12 years of age: The recommended dose of Tamiflu oral suspension is indicated in the table below.
 Tamiflu 30 mg and 45 mg capsules are available as an alternative to the recommended dose of Tamiflu suspension.
 
 For dosing, an oral dispenser with 30 mg, 45 mg and 60 mg graduations is provided in the box.
-For accurate dosing, the oral dispenser supplied should be used exclusively.
+For accurate dosing, the oral dispenser supplied should be used exclusively (a syringe with ml markings cannot be used).
+
+Children weighing > 40 kg and who are able to swallow capsules may receive treatment with the adult dosage of 75 mg capsules twice daily for 5 days as an alternative to the recommended dose of Tamiflu suspension.
+
+� For infants below 1 year of age: This formulation(Tamiflu 12 mg/ml powder for oral suspension) is unsuitable since the syringe provided in the pack (with mg markings) does not allow for appropriate dose adjustments and the use of syringes with ml markings may lead to unacceptable dosing inaccuracies.
+In the absence of a suitable formulation, the pharmacy compounded preparation should preferentially be used.
+Please refer to the SmPC for the 30 mg.
+45 mg and 75 mg capsules (section 4.2).
 
 � For infants older than 1 year of age and for children 2 to 12 years of age: Tamiflu 30 mg and 45 mg capsules are available as an alternative to the recommended dose of Tamiflu suspension.
 
 It is recommended that Tamiflu powder for oral suspension be constituted by a pharmacist prior to dispensing to the patient (see section 6.6).
 
 Children weighing > 40 kg and who are able to swallow capsules may receive prophylaxis with a 75 mg capsule once daily for 10 days as an alternative to the recommended dose of Tamiflu suspension.
+
+� For infants below below 1 year of age: This formulation (Tamiflu 12 mg/ml powder for oral suspension) is unsuitable since the syringe provided in the pack (with mg markings) does not allow for appropriate dose adjustments and the use of syringes with ml markings may lead to unacceptable dosing inaccuracies.

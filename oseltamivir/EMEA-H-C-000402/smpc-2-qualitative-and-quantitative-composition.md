@@ -18,4 +18,7 @@ After reconstitution, each ml of suspension contains 12 mg oseltamivir.
 One bottle of reconstituted suspension (75 ml) contains 900 mg of active substance (oseltamivir).
 
 A bottle of 30 g Tamiflu powder for oral suspension contains 25.713 g of sorbitol.
-One dose of 45 mg oseltamivir administered twice daily delivers 2.6 g of sorbitol.
+30 mg oseltamivir suspension delivers 0.9 g of sorbitol.
+45 mg oseltamivir suspension delivers 1.3 g of sorbitol.
+60 mg oseltamivir suspension delivers 1.7 g of sorbitol.
+75 mg oseltamivir suspension delivers 2.1 g of sorbitol.
