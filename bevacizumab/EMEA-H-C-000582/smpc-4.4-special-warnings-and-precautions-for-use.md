@@ -26,7 +26,7 @@ Monitoring of blood pressure is generally recommended during therapy.
 
 In most cases hypertension was controlled adequately using standard antihypertensive treatment appropriate for the individual situation of the affected patient.
 The use of diuretics to manage hypertension is not advised in patients who receive a cisplatin-based chemotherapy regimen.
-Avastin should be permanently discontinued, if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.
+Avastin should be permanently discontinued if medically significant hypertension cannot be adequately controlled with antihypertensive therapy, or if the patient develops hypertensive crisis or hypertensive encephalopathy.
 
 Reversible posterior leukoencephalopathy syndrome (RPLS) (see section 4.8)
 There have been rare reports of Avastin-treated patients developing signs and symptoms that are consistent with Reversible Posterior Leukoencephalopathy Syndrome (RPLS), a rare neurologic disorder, which can present with the following signs and symptoms among others: seizures, headache, altered mental status, visual disturbance, or cortical blindness, with or without associated hypertension.
@@ -43,7 +43,7 @@ Therapy should be permanently discontinued in patients who develop Grade 4 prote
 Arterial thromboembolism (see section 4.8)
 In five randomised clinical trials, the incidence of arterial thromboembolic events including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs) was higher in patients receiving Avastin in combination with chemotherapy compared to those who received chemotherapy alone.
 
-Patients, receiving Avastin plus chemotherapy, with a history of arterial thromboembolism or age greater than 65 years have an increased risk of developing arterial thromboembolic events during therapy.
+Patients receiving Avastin plus chemotherapy, with a history of arterial thromboembolism or age greater than 65 years have an increased risk of developing arterial thromboembolic events during therapy.
 Caution should be taken when treating these patients with Avastin.
 
 Therapy should be permanently discontinued in patients who develop arterial thromboembolic events.

@@ -1,7 +1,7 @@
 # 4.6 Fertility, pregnancy and lactation
 
 Women of childbearing potential
-Women of childbearing potential have to use effective contraception during (and up to 6 months) after treatment.
+Women of childbearing potential have to use effective contraception during (and up to 6 months after) treatment.
 
 Pregnancy
 There are no data on the use of Avastin in pregnant women.

@@ -5,9 +5,9 @@ No clinically relevant pharmacokinetic interaction of co-administered chemothera
 There was neither statistical significance nor clinically relevant difference in clearance of Avastin in patients receiving Avastin monotherapy compared to patients receiving Avastin in combination with interferon alfa-2a or other chemotherapies (IFL, 5-FU/LV, carboplatin/paclitaxel, capecitabine, doxorubicin or cisplatin/gemcitabine).
 
 Effect of bevacizumab on the pharmacokinetics of other antineoplastic agents
-Results from a dedicated drug-drug interaction trial, demonstrated no significant effect of bevacizumab on the pharmacokinetics of irinotecan and its active metabolite SN38.
+Results from a dedicated drug-drug interaction trial demonstrated no significant effect of bevacizumab on the pharmacokinetics of irinotecan and its active metabolite SN38.
 
-Results from one trial in metastatic colorectal cancer patients demonstrated no significant effect of bevacizumab on the pharmacokinetic of capecitabine and its metabolites, and on the pharmacokinetics of oxaliplatin, as determined by measurement of free and total platinum.
+Results from one trial in metastatic colorectal cancer patients demonstrated no significant effect of bevacizumab on the pharmacokinetics of capecitabine and its metabolites, and on the pharmacokinetics of oxaliplatin, as determined by measurement of free and total platinum.
 
 Results from one trial in renal cancer patients demonstrated no significant effect of bevacizumab on the pharmacokinetics of interferon alfa-2a.
 
@@ -22,5 +22,7 @@ MAHA is a haemolytic disorder which can present with red cell fragmentation, ana
 In addition, hypertension (including hypertensive crisis), elevated creatinine, and neurological symptoms were observed in some of these patients.
 All of these findings were reversible upon discontinuation of bevacizumab and sunitinib malate (see Hypertension, Proteinuria, RPLS in section 4.4).
 
+Combination with platinum- or taxane-based therapies (see sections 4.4 and 4.8)
+Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe neutropenia (including some fatalities) have been observed mainly in patients treated with platinum-or taxane-based therapies in the treatment of NSCLC and mBC.
 Radiotherapy
 The safety and efficacy of concomitant administration of radiotherapy and Avastin has not been established.
