@@ -3,9 +3,12 @@
 Progressive Multifocal Leukoencephalopathy (PML)
 
 Use of TYSABRI has been associated with an increased risk of PML which may be fatal or result in severe disability.
-The risk of PML appears to increase with treatment duration, especially beyond 2 years.
+The risk of PML increases with treatment duration, especially beyond 2 years.
 There is limited experience in patients who received more than 3 years of Tysabri treatment therefore the risk of PML in these patients cannot currently be estimated.
+The risk of PML is also increased in patients who have been treated with an immunosuppressant prior to receiving TYSABRI.
+This increased risk appears to be independent of TYSABRI treatment duration.
 Due to this increased risk of developing PML, the benefits and risks of Tysabri treatment should be individually reconsidered by the specialist physician and the patient.
+
 The patient should be re-informed about the risks of Tysabri after 2 years especially the increased risk of PML, and should be instructed together with their caregivers on early signs and symptoms of PML.
 
 Before initiation of treatment with TYSABRI, a recent (usually within 3 months) Magnetic Resonance Image (MRI) should be available as a reference, and be repeated on a yearly routine basis to update this reference.
@@ -16,7 +19,6 @@ If PML is suspected, further dosing must be suspended until PML has been exclude
 The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction, and if so, whether these symptoms are typical of MS or possibly suggestive of PML.
 If any doubt exists, further evaluation, including MRI scan preferably with contrast (compared with pre-treatment MRI), CSF testing for JC Viral DNA and repeat neurological assessments, should be considered as described in the Physician Information and Management Guidelines (see educational guidance).
 Once the clinician has excluded PML (if necessary, by repeating clinical, imaging and/or laboratory investigations if clinical suspicion remains), dosing of natalizumab may resume.
-
 The physician should be particularly alert to symptoms suggestive of PML that the patient may not notice (e.g. cognitive or psychiatric symptoms).
 Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
 
@@ -57,7 +59,6 @@ However, the risk of hypersensitivity reactions should be considered for every i
 
 Patients are to be observed during the infusion and for 1 hour after the completion of the infusion (see section 4.8).
 Resources for the management of hypersensitivity reactions should be available.
-
 Discontinue administration of TYSABRI and initiate appropriate therapy at the first symptoms or signs of hypersensitivity.
 
 Patients who have experienced a hypersensitivity reaction must be permanently discontinued from treatment with TYSABRI.
@@ -66,7 +67,8 @@ Concurrent or prior treatment with immunosuppressants
 
 The safety and efficacy of TYSABRI in combination with other immunosuppressive and antineoplastic therapies have not been fully established.
 Concurrent use of these agents with TYSABRI may increase the risk of infections, including opportunistic infections, and is contraindicated (see section 4.3).
-Patients with a treatment history of immunosuppressant medications, including cyclophosphamide and mitoxantrone, may experience prolonged immunosuppression and therefore may be at increased risk for PML.
+
+Patients with a treatment history of immunosuppressant medications are at increased risk for PML.
 Care should be taken with patients who have previously received immunosuppressants to allow sufficient time for immune function recovery to occur.
 Physicians must evaluate each individual case to determine whether there is evidence of an immunocompromised state prior to commencing treatment with TYSABRI (see section 4.3).
 

@@ -8,7 +8,7 @@ These changes were reversible and did not appear to have any adverse toxicologic
 In studies conducted in mice, growth and metastasis of melanoma and lymphoblastic leukaemia tumour cells was not increased by the administration of natalizumab.
 
 No clastogenic or mutagenic effects of natalizumab were observed in the Ames or human chromosomal aberration assays.
-Natalizumab showed no effects on in vitro assays of �4-integrin-positive tumour line proliferation or cytotoxicity.
+Natalizumab showed no effects on in vitro assays of α4-integrin-positive tumour line proliferation or cytotoxicity.
 
 Reductions in female guinea pig fertility were observed in one study at doses in excess of the human dose; natalizumab did not affect male fertility.
 

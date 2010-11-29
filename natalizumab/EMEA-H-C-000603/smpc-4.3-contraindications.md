@@ -1,6 +1,7 @@
 # 4.3 Contraindications
 
 Hypersensitivity to natalizumab or to any of the excipients.
+
 Progressive multifocal leukoencephalopathy (PML).
 
 Patients with increased risk for opportunistic infections, including immunocompromised patients (including those currently receiving immunosuppressive therapies or those immunocompromised by prior therapies, e.g. mitoxantrone or cyclophosphamide, see also sections 4.4 and 4.8).
@@ -9,4 +10,4 @@ Combination with beta-interferons or glatiramer acetate.
 
 Known active malignancies, except for patients with cutaneous basal cell carcinoma.
 
-Children and adolescents.
+Children below the age of 18 years.

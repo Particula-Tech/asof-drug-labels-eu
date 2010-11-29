@@ -2,22 +2,21 @@
 
 Pharmacotherapeutic group: Selective Immunosuppressive Agent, ATC code: L04AA23.
 
-Pharmacodynamic properties
-
-Natalizumab is a selective adhesion-molecule inhibitor and binds to the �4-subunit of human integrins, which is highly expressed on the surface of all leukocytes, with the exception of neutrophils.
-Specifically, natalizumab binds to the �4�1 integrin, blocking the interaction with its cognate receptor, vascular cell adhesion molecule-1 (VCAM-1), and ligands osteopontin, and an alternatively spliced domain of fibronectin, connecting segment-1 (CS-1).
-Natalizumab blocks the interaction of �4�7 integrin with the mucosal addressin cell adhesion molecule-1 (MadCAM-1).
+Pharmacodynamic effects
+Natalizumab is a selective adhesion-molecule inhibitor and binds to the α4-subunit of human integrins, which is highly expressed on the surface of all leukocytes, with the exception of neutrophils.
+Specifically, natalizumab binds to the α4β1 integrin, blocking the interaction with its cognate receptor, vascular cell adhesion molecule-1 (VCAM-1), and ligands osteopontin, and an alternatively spliced domain of fibronectin, connecting segment-1 (CS-1).
+Natalizumab blocks the interaction of α4β7 integrin with the mucosal addressin cell adhesion molecule-1 (MadCAM-1).
 Disruption of these molecular interactions prevents transmigration of mononuclear leukocytes across the endothelium into inflamed parenchymal tissue.
-A further mechanism of action of natalizumab may be to suppress ongoing inflammatory reactions in diseased tissues by inhibiting the interaction of �4-expressing leukocytes with their ligands in the extracellular matrix and on parenchymal cells.
+A further mechanism of action of natalizumab may be to suppress ongoing inflammatory reactions in diseased tissues by inhibiting the interaction of α4-expressing leukocytes with their ligands in the extracellular matrix and on parenchymal cells.
 As such, natalizumab may act to suppress inflammatory activity present at the disease site, and inhibit further recruitment of immune cells into inflamed tissues.
 
 In MS, lesions are believed to occur when activated T-lymphocytes cross the blood-brain barrier (BBB).
 Leukocyte migration across the BBB involves interaction between adhesion molecules on inflammatory cells and endothelial cells of the vessel wall.
-The interaction between �4�1 and its targets is an important component of pathological inflammation in the brain and disruption of these interactions leads to reduced inflammation.
+The interaction between α4β1 and its targets is an important component of pathological inflammation in the brain and disruption of these interactions leads to reduced inflammation.
 Under normal conditions, VCAM-1 is not expressed in the brain parenchyma.
 However, in the presence of pro-inflammatory cytokines, VCAM-1 is upregulated on endothelial cells and possibly on glial cells near the sites of inflammation.
-In the setting of central nervous system (CNS) inflammation in MS, it is the interaction of �4�1 with VCAM-1, CS-1 and osteopontin that mediates the firm adhesion and transmigration of leukocytes into the brain parenchyma and may perpetuate the inflammatory cascade in CNS tissue.
-Blockade of the molecular interactions of �4�1 with its targets reduces inflammatory activity present in the brain in MS and inhibits further recruitment of immune cells into inflamed tissue, thus reducing the formation or enlargement of MS lesions.
+In the setting of central nervous system (CNS) inflammation in MS, it is the interaction of α4β1 with VCAM-1, CS-1 and osteopontin that mediates the firm adhesion and transmigration of leukocytes into the brain parenchyma and may perpetuate the inflammatory cascade in CNS tissue.
+Blockade of the molecular interactions of α4β1 with its targets reduces inflammatory activity present in the brain in MS and inhibits further recruitment of immune cells into inflamed tissue, thus reducing the formation or enlargement of MS lesions.
 
 Clinical efficacy
 
