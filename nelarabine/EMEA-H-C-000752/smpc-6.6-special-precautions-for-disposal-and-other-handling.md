@@ -3,7 +3,6 @@
 The normal procedures for proper handling and disposal of anti-tumour medicinal products should be adopted, namely:
 
 — Staff should be trained in how to handle and transfer the medicinal product.
-
 — Pregnant staff should be excluded from working with this medicinal product.
 
 — Personnel handling this medicinal product during handling/transfer should wear protective clothing including mask, goggles and gloves.

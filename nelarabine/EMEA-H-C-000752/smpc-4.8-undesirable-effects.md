@@ -11,7 +11,10 @@ Neurotoxicity is the dose limiting toxicity associated with nelarabine therapy (
 
 The following convention has been utilised for the classification of frequency: Very common (≥1/10), Common (≥1/100 to <1/10), Uncommon (≥1/1,000 to <1/100), Rare (≥1/10,000 to <1/1,000) and Very rare (<1/10,000), not known (cannot be estimated from the available data)
 
-| MedDRA Preferred Term(s) | Adults (1,500 mg/m2) N=103 (%) | Children (650 mg/m2) N=84 (%) |
+Adverse events(s) Adults (1,500 mg/m2) Children (650 mg/m2)
+N=103 (%) N=84 (%)
+
+| Adverse events(s) | Adults (1,500 mg/m2) N=103 (%) | Children (650 mg/m2) N=84 (%) |
 | --- | --- | --- |
 | Infections and infestations |  |  |
 | Infection (including but not limited to; sepsis, bacteraemia, pneumonia, fungal infection) | Very common: 40 (39) | Very common: 13 (15) |
@@ -53,7 +56,7 @@ The following convention has been utilised for the classification of frequency: 
 | Respiratory, thoracic, and mediastinal disorders |  |  |
 | Pleural effusion | Common: 10 (10) | N/A |
 | Wheezing | Common: 5 (5) | N/A |
-| Dyspnea | Very common: 21 (20) | N/A |
+| Dyspnoea | Very common: 21 (20) | N/A |
 | Cough | Very common: 26 (25) | N/A |
 | Gastrointestinal disorders |  |  |
 | Diarrhoea | Very common: 23 (22) | Common: 2 (2) |

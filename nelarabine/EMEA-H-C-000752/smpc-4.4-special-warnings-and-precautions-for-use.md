@@ -6,9 +6,9 @@ These events have included altered mental states including severe somnolence, ce
 There have also been reports of events associated with demyelination, and ascending peripheral neuropathies similar in appearance to Guillain-Barré Syndrome.
 Full recovery from these events has not always occurred with cessation of nelarabine.
 Therefore, close monitoring for neurological events is strongly recommended, and nelarabine must be discontinued at the first sign of neurological events of NCI CTCAE Grade 2 or greater.
-
 Neurotoxicity is the dose-limiting toxicity of nelarabine.
 It is advised that patients undergoing therapy with nelarabine be closely observed for signs and symptoms of neurological toxicity.
+
 Common signs and symptoms of nelarabine-related neurotoxicity include somnolence, confusion, convulsions, ataxia, paraesthesias, and hypoesthesia.
 Severe neurological toxicity can manifest as coma, status epilepticus, demyelination, or ascending neuropathy similar in appearance to Guillain-Barré syndrome (see section 4.8).
 
@@ -20,8 +20,8 @@ Therefore, immunisations with live organism vaccines are not recommended.
 Leukopenia, thrombocytopenia, anaemia, and neutropenia, (including febrile neutropenia) have been associated with nelarabine therapy.
 Complete blood counts including platelets must be monitored regularly (see sections 4.2 and 4.8).
 
-Patients receiving nelarabine are recommended to receive intravenous hydration according to standard medical practice for the management of hyperuricemia in patients at risk of tumour lysis syndrome.
-For patients at risk of hyperuricemia, the use of allopurinol should be considered.
+Patients receiving nelarabine are recommended to receive intravenous hydration according to standard medical practice for the management of hyperuricaemia in patients at risk of tumour lysis syndrome.
+For patients at risk of hyperuricaemia, the use of allopurinol should be considered.
 
 Elderly
 
@@ -35,5 +35,5 @@ Nelarabine however, is known to be genotoxic to mammalian cells (see section 5.3
 
 Sodium warning
 
-This medicinal product contains 1.725 mg/ml (75 mmol) of sodium.
+This medicinal product contains 1.725 mg/ml (75 micromols) of sodium.
 To be taken into consideration by patients on a controlled sodium diet.
