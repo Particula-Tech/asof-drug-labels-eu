@@ -8,23 +8,29 @@ The following adverse reactions have been reported during clinical trials and ar
 
 | System Organ Class | Frequency | Preferred Term |
 | --- | --- | --- |
+| Blood and lymphatic system disorders | Uncommon | Eosinophilia |
+| Metabolism and nutrition disorders | Uncommon | Hyperuricaemia |
+| Nervous system disorders | Common | Headache, generally during the first month of treatment |
+|  |  | Dizziness, possibly related to bradycardia |
+|  | Not known | Syncope, possibly related to bradycardia |
 | Eye disorders | Very common | Luminous phenomena (phosphenes) |
 |  | Common | Blurred vision |
+| Ear and labyrinth disorders | Uncommon | Vertigo |
 | Cardiac disorders | Common | Bradycardia |
 |  |  | AV 1st degree block (ECG prolonged PQ interval) |
 |  |  | Ventricular extrasystoles |
 |  | Uncommon | Palpitations, supraventricular extrasystoles |
+| Vascular disorders | Not known | Hypotension, possibly related to bradycardia |
+| Respiratory, thoracic and mediastinal disorders | Uncommon | Dyspnoea |
 | Gastrointestinal disorders | Uncommon | Nausea |
 |  |  | Constipation |
 |  |  | Diarrhoea |
-| General disorders and administration site conditions | Common | Headache, generally during the first month of treatment |
-|  |  | Dizziness, possibly related to bradycardia |
-|  | Uncommon | Vertigo |
-|  |  | Dyspnoea |
-|  |  | Muscle cramps |
-| Investigations | Uncommon | Hyperuricaemia |
-|  |  | Eosinophilia |
-|  |  | Elevated creatinine in blood |
+| Skin and subcutaneous tissue disorders | Not known | Rash |
+|  |  | Erythema |
+|  |  | Pruritus |
+| Musculoskeletal and connective tissue disorders | Uncommon | Muscle cramps |
+| General disorders and administration site conditions | Not known | Malaise, possibly related to bradycardia |
+| Investigations | Uncommon | Elevated creatinine in blood |
 
 Luminous phenomena (phosphenes) were reported by 14.5% of patients, described as a transient enhanced brightness in a limited area of the visual field.
 They are usually triggered by sudden variations in light intensity.

@@ -6,6 +6,7 @@ Magnesium stearate (E 470 B)
 Maize starch
 Maltodextrin
 Silica, colloidal anhydrous (E 551)
+
 Film-coating
 Hypromellose (E 464)
 Titanium dioxide (E171)

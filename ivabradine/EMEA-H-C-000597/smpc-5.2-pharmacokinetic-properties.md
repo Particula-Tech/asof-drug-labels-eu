@@ -14,7 +14,6 @@ Distribution
 Ivabradine is approximately 70% plasma protein bound and the volume of distribution at steady-state is close to 100 l in patients.
 The maximum plasma concentration following chronic administration at the recommended dose of 5 mg twice daily is 22 ng/ml (CV=29%).
 The average plasma concentration is 10 ng/ml (CV=38%) at steady-state.
-
 Biotransformation
 Ivabradine is extensively metabolised by the liver and the gut by oxidation through cytochrome P450 3A4 (CYP3A4) only.
 The major active metabolite is the N-desmethylated derivative (S 18982) with an exposure about 40% of that of the parent compound.
@@ -27,6 +26,7 @@ Ivabradine is eliminated with a main half-life of 2 hours (70-75% of the AUC) in
 The total clearance is about 400 ml/min and the renal clearance is about 70 ml/min.
 Excretion of metabolites occurs to a similar extent via faeces and urine.
 About 4% of an oral dose is excreted unchanged in urine.
+
 Linearity/non linearity
 The kinetics of ivabradine is linear over an oral dose range of 0.5 – 24 mg.
 
