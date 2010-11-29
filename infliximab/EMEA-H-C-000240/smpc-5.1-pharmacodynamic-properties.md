@@ -45,7 +45,6 @@ Results from week 54 (ACR20, total van der Heijde-modified Sharp score and HAQ) 
 Higher degrees of clinical response (ACR50 and ACR70) were observed in all infliximab groups at 30 and 54 weeks compared with methotrexate alone.
 
 A reduction in the rate of the progression of structural joint damage (erosions and joint space narrowing) was observed in all infliximab groups at 54 weeks (Table 3).
-
 The effects observed at 54 weeks were maintained through 102 weeks.
 Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group cannot be defined.
 
@@ -91,13 +90,24 @@ In ASPIRE, more than 90% of patients had at least two evaluable X-rays.
 Reduction in the rate of progression of structural damage was observed at weeks 30 and 54 in the infliximab + methotrexate groups compared to methotrexate alone.
 Table 4
 Effects on ACRn, Structural Joint Damage and Physical Function at week 54, ASPIRE
+Infliximab + MTX
+Placebo + MTX 3 mg/kg 6 mg/kg Combined
 
-|  | Infliximab + MTX Placebo + MTX 3 mg/kg 6 mg/kg | Combined |
-| --- | --- | --- |
-| Subjects randomised Percentage ACR improvement Mean ± SDa Change from baseline in total van der Heijde modified Sharp scoreb Mean ± SDa Median Improvement from baseline in HAQ averaged over time from week 30 to week 54c Mean ± SDd | 282 359 363 | 722 |
-|  | 24.8 ± 59.7 37.3 ± 52.8 42.0 ± 47.3 | 39.6 ± 50.1 |
-|  | 3.70 ± 9.61 0.42 ± 5.82 0.51 ± 5.55 0.43 0.00 0.00 | 0.46 ± 5.68 0.00 |
-|  | 0.68 ± 0.63 0.80 ± 0.65 0.88 ± 0.65 | 0.84 ± 0.65 |
+Subjects randomised 282 359 363 722
+
+Percentage ACR improvement
+
+Mean ± SDa 24.8 ± 59.7 37.3 ± 52.8 42.0 ± 47.3 39.6 ± 50.1
+
+Change from baseline in total van der
+Heijde modified Sharp scoreb
+
+Mean ± SDa 3.70 ± 9.61 0.42 ± 5.82 0.51 ± 5.55 0.46 ± 5.68
+Median 0.43 0.00 0.00 0.00
+
+Improvement from baseline in HAQ averaged over time from week 30 to week 54c
+
+Mean ± SDd 0.68 ± 0.63 0.80 ± 0.65 0.88 ± 0.65 0.84 ± 0.65
 
 a: p < 0.001, for each infliximab treatment group vs. control b: greater values indicate more joint damage.
 c: HAQ = Health Assessment Questionnaire; greater values indicate less disability.
@@ -253,11 +263,7 @@ Combined data from ACT 1 & 2.
 | Infliximab Placebo 5 mg/kg 10 mg/kg Subjects randomized 244 242 242 Percentage of subjects in clinical response and in sustained clinical response Clinical response at Week 8a 33.2% 66.9% 65.3% Clinical response at Week 30a 27.9% 49.6% 55.4% Sustained response (clinical response at both Week 8 and Week 30)a 19.3% 45.0% 49.6% | Combined 484 66.1% 52.5% 47.3% |
 | --- | --- |
 | Percentage of subjects in clinical remission and sustained remission Clinical remission at Week 8a 10.2% 36.4% 29.8% Clinical remission at Week 30a 13.1% 29.8% 36.4% Sustained remission (in remission at both Week 8 and Week 30)a 5.3% 19.0% 24.4% | 33.1% 33.1% 21.7% |
-
-Percentage of subjects with mucosal healing
-
-Mucosal healing at Week 8a 32.4% 61.2% 60.3% 60.7%
-Mucosal healing at Week 30a 27.5% 48.3% 52.9% 50.6%
+| Percentage of subjects with mucosal healing Mucosal healing at Week 8a 32.4% 61.2% 60.3% Mucosal healing at Week 30a 27.5% 48.3% 52.9% | 60.7% 50.6% |
 
 a: p < 0.001, for each infliximab treatment group vs. placebo
 

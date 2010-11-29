@@ -101,6 +101,7 @@ Elderly patients (≥ 65 years)
 Specific studies of Remicade in elderly patients have not been conducted.
 No major age-related differences in clearance or volume of distribution were observed in clinical studies.
 No dose adjustment is required (see section 5.2).
+For more information about the safety of Remicade in elderly patients see sections 4.4 and 4.8.
 
 Paediatric population
 
@@ -108,8 +109,8 @@ Crohn’s disease (6 to 17 years)
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 Some patients may require a shorter dosing interval to maintain clinical benefit, while for others a longer dosing interval may be sufficient.
 Available data do not support further infliximab treatment in paediatric patients not responding within the first 10 weeks of treatment (see section 5.1).
-
 Remicade has not been studied in patients with Crohn’s disease below the age of 6 years.
+
 Due to insufficient data on safety and efficacy, Remicade is not recommended for use in any other paediatric indication (see section 4.8: “juvenile rheumatoid arthritis”).
 
 Impaired renal and/or hepatic function

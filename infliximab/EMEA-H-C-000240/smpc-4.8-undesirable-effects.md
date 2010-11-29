@@ -26,6 +26,7 @@ Not known: Agranulocytosis, thrombotic thrombocytopenic purpura, pancytopenia, h
 Immune system disorders
 Common: Serum sickness-like reaction.
 Uncommon: Anaphylactic reaction, lupus-like syndrome, allergic respiratory symptom.
+Rare: Sarcoid-like reaction.
 Not known: Anaphylactic shock, serum sickness, vasculitis.
 Psychiatric disorders
 Uncommon: Depression, amnesia, agitation, confusion, insomnia, somnolence, nervousness, apathy.
@@ -97,6 +98,7 @@ In all cases, Remicade treatment was discontinued and/or other treatment institu
 Delayed hypersensitivity: In clinical studies delayed hypersensitivity reactions have been uncommon and have occurred after Remicade-free intervals of less than 1 year.
 In the psoriasis studies, delayed hypersensitivity reactions occurred early in the treatment course.
 Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, with some patients experiencing pruritus, facial, hand or lip oedema, dysphagia, urticaria, sore throat and headache.
+
 There are insufficient data on the incidence of delayed hypersensitivity reactions after Remicade-free intervals of more than 1 year but limited data from clinical studies suggest an increased risk for delayed hypersensitivity with increasing Remicade-free interval.
 
 In a 1-year clinical study with repeated infusions in patients with Crohn's disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
@@ -131,6 +133,7 @@ In long-term safety follow-up of clinical studies with infliximab of up to 5 yea
 From August 1998 to August 2005, 1,909 cases of suspected malignancies have been reported from post-marketing, clinical studies and registries (321 in Crohn’s disease patients, 1,302 in rheumatoid arthritis patients and 286 in patients with other or unknown indications).
 Among those there were 347 lymphoma cases.
 During this period, the estimated exposure is 1,909,941 patient years since first exposure (see section 4.4).
+
 In an exploratory clinical study involving patients with moderate to severe COPD who were either current smokers or ex-smokers, 157 patients were treated with Remicade at doses similar to those used in rheumatoid arthritis and Crohn’s disease.
 Nine of these patients developed malignancies, including 1 lymphoma.
 The median duration of follow-up was 0.8 years (incidence 5.7% [95% CI 2.65% - 10.6%].
@@ -178,6 +181,10 @@ At the last evaluation, 57% of infliximab-treated patients remained anti-dsDNA p
 Reports of lupus and lupus-like syndromes, however, remain uncommon.
 
 Additional information on special populations
+
+Elderly patients (≥ 65 years)
+In rheumatoid arthritis clinical studies, the incidence of serious infections was greater in infliximab plus methotrexate treated patients 65 years and older (11.3%) than in those under 65 years of age (4.6%).
+In patients treated with methotrexate alone, the incidence of serious infections was 5.2% in patients 65 years and older compared to 2.7% in patients under 65.
 
 Paediatric population
 

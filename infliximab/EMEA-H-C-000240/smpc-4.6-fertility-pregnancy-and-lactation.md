@@ -12,5 +12,6 @@ Women of childbearing potential must use adequate contraception to prevent pregn
 Lactation
 It is not known whether infliximab is excreted in human milk or absorbed systemically after ingestion.
 Because human immunoglobulins are excreted in milk, women must not breast feed for at least 6 months after Remicade treatment.
+
 Fertility
 There are insufficient preclinical data to draw conclusions on the effects of infliximab on fertility and general reproductive function (see section 5.3).
