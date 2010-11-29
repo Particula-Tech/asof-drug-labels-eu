@@ -1,7 +1,5 @@
 # 4.2 Posology and method of administration
 
-For ocular use.
-
 Use in adults, including the elderly population
 The dose is one drop of TRAVATAN in the conjunctival sac of the affected eye(s) once daily.
 Optimal effect is obtained if the dose is administered in the evening.
@@ -18,9 +16,12 @@ When substituting another ophthalmic antiglaucoma agent with TRAVATAN, the other
 
 Paediatric population
 The efficacy and safety of TRAVATAN in patients below the age of 18 years have not been established and its use is not recommended in these patients until further data become available.
+
 Hepatic and renal impairment
 TRAVATAN has been studied in patients with mild to severe hepatic impairment and in patients with mild to severe renal impairment (creatinine clearance as low as 14 ml/min).
 No dosage adjustment is necessary in these patients.
+Method of Administration
+For ocular use.
 
 The patient should remove the protective overwrap immediately prior to initial use.
 To prevent contamination of the dropper tip and solution, care must be taken not to touch the eyelids, surrounding areas or other surfaces with the dropper tip of the bottle.

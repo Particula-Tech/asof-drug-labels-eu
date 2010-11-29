@@ -11,6 +11,7 @@ Following topical ocular administration of TRAVATAN to healthy volunteers, low s
 Peak active free acid plasma concentrations of 25 pg/ml or less were observed between 10 and 30 minutes post-dose.
 Thereafter, plasma levels declined rapidly to below the 10 pg/ml assay quantitation limit before 1 hour post-administration.
 Due to the low plasma concentrations and rapid elimination following topical dosing, the elimination half-life of active free acid in man could not be determined.
+
 Biotransformation
 Metabolism is the major route of elimination of both travoprost and the active free acid.
 The systemic metabolic pathways parallel those of endogenous prostaglandin F2α which are characterised by reduction of the 13-14 double bond, oxidation of the 15-hydroxyl and β-oxidative cleavages of the upper side chain.
