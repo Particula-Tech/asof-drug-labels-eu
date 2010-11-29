@@ -5,7 +5,6 @@ Hypersensitivity to the active substance or to any of the excipients
 Coadministration of the CYP3A4 substrates, terfenadine, astemizole, cisapride, pimozide or quinidine with VFEND is contraindicated since increased plasma concentrations of these medicinal products can lead to QTc prolongation and rare occurrences of torsades de pointes (see section 4.5).
 
 Coadministration of VFEND with rifampicin, carbamazepine and phenobarbital is contraindicated since these medicinal products are likely to decrease plasma voriconazole concentrations significantly (see section 4.5).
-
 Coadministration of VFEND with high dose ritonavir (400 mg and above twice daily) is contraindicated because ritonavir significantly decreases plasma voriconazole concentrations in healthy subjects at this dose.
 (see section 4.5, for lower doses see section 4.4).
 

@@ -18,9 +18,10 @@ For administration, the required volume of the reconstituted concentrate is adde
 
 Required Volumes of 10 mg/ml VFEND Concentrate
 
-| Body Weight (kg) | Volume of VFEND Concentrate (10 mg/ml) required for: |  |  |  |
+Body Volume of VFEND Concentrate (10 mg/ml) required for:
+
+| Weight (kg) | 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) | 7 mg/kg dose (number of vials) |
 | --- | --- | --- | --- | --- |
-|  | 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) | 7 mg/kg dose (number of vials) |
 | 10 | - | 4.0 ml (1) | - | 7.0 ml (1) |
 | 15 | - | 6.0 ml (1) | - | 10.5 ml (1) |
 | 20 | - | 8.0 ml (1) | - | 14.0 ml (1) |

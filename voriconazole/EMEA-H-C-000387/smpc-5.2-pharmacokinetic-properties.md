@@ -23,6 +23,7 @@ Cerebrospinal fluid samples from eight patients in a compassionate programme sho
 
 Metabolism
 In vitro studies showed that voriconazole is metabolised by the hepatic cytochrome P450 isoenzymes, CYP2C19, CYP2C9 and CYP3A4.
+
 The inter-individual variability of voriconazole pharmacokinetics is high.
 
 In vivo studies indicated that CYP2C19 is significantly involved in the metabolism of voriconazole.
@@ -62,6 +63,7 @@ Therefore, no dosage adjustment based on gender is necessary.
 Elderly
 In an oral multiple dose study Cmax and AUCτ in healthy elderly males (≥ 65 years) were 61 % and 86 % higher, respectively, than in healthy young males (18-45 years).
 No significant differences in Cmax and AUCτ were observed between healthy elderly females (≥ 65 years) and healthy young females (18- 45 years).
+
 In the therapeutic studies no dosage adjustment was made on the basis of age.
 A relationship between plasma concentrations and age was observed.
 The safety profile of voriconazole in young and elderly patients was similar and, therefore, no dosage adjustment is necessary for the elderly (see section 4.2).
@@ -83,7 +85,6 @@ See dosing and monitoring recommendations under sections 4.2 and 4.4.
 Hepatic impairment
 After an oral single dose (200 mg), AUC was 233 % higher in subjects with mild to moderate hepatic cirrhosis (Child-Pugh A and B) compared with subjects with normal hepatic function.
 Protein binding of voriconazole was not affected by impaired hepatic function.
-
 In an oral multiple dose study, AUCτ was similar in subjects with moderate hepatic cirrhosis (Child-Pugh B) given a maintenance dose of 100 mg twice daily and subjects with normal hepatic function given 200 mg twice daily.
 No pharmacokinetic data are available for patients with severe hepatic cirrhosis (Child-Pugh C). See dosing and monitoring recommendations under sections 4.2 and 4.4.
 
@@ -106,7 +107,6 @@ The higher intravenous maintenance dose in paediatric patients relative to adult
 In order to obtain comparable exposures to those obtained in adults following intravenous maintenance doses of 3 mg/kg twice daily, intravenous maintenance doses of 4 mg/kg twice daily are required in paediatric patients.
 
 Based on the population pharmacokinetic analysis, no loading dose or dosage adjustment according to age is warranted in patients aged 2 to <12 years old.
-
 In patients with moderate to severe renal dysfunction (serum creatinine levels > 2.5 mg /dl), accumulation of the intravenous vehicle, SBECD, occurs.
 
 [VFEND 40 mg/ml powder for oral suspension]

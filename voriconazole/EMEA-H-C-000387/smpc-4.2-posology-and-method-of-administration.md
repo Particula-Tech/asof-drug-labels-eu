@@ -33,7 +33,7 @@ Rifabutin may be coadministered with voriconazole if the maintenance dose of vor
 Efavirenz may be coadministered with voriconazole if the maintenance dose of voriconazole is increased to 400 mg every 12 hours and the efavirenz dose is reduced by 50%, i.e. to 300 mg once daily.
 When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored (see sections 4.4 and 4.5).
 
-Treatment should be as short as possible depending on the patients’ clinical and mycological response.
+Treatment should be as short as possible depending on the patients’clinical and mycological response.
 
 For long term treatment greater than 6 months, a careful assessment of the benefit-risk balance should be considered.
 See section 4.4 Special warnings and precautions for use (Dermatological adverse events) and section 5.1 Pharmacodynamic properties (Duration of treatment).
@@ -47,7 +47,6 @@ Therefore, no adjustment is necessary for oral dosing for patients with mild to 
 
 Voriconazole is haemodialysed with a clearance of 121 ml/min.
 A four hour haemodialysis session does not remove a sufficient amount of voriconazole to warrant dose adjustment.
-
 Use in patients with hepatic impairment
 No dose adjustment is necessary in patients with acute hepatic injury, manifested by elevated liver function tests (ALAT, ASAT) (but continued monitoring of liver function tests for further elevations is recommended).
 
@@ -109,7 +108,7 @@ If patients are unable to tolerate treatment at 4 mg/kg twice daily, reduce the 
 
 Rifabutin or phenytoin may be coadministered with voriconazole if the maintenance dose of voriconazole is increased to 5 mg/kg intravenously twice daily, see sections 4.4 and 4.5.
 
-Treatment should be as short as possible depending on the patients’ clinical andmycological response.
+Treatment should be as short as possible depending on the patients’clinical andmycological response.
 
 The duration of treatment with the intravenous formulation should be no longer than 6 months.
 See section 5.3 (preclinical safety data).
@@ -147,6 +146,8 @@ VFEND is also available as 50 mg and 200 mg film-coated tablets and 200 mg powde
 | (first 24 hours) |  |  |  |
 | Maintenance Dose | 4 mg/kg twice daily | 200 mg (5 ml) twice daily | 100 mg (2.5 ml) twice daily |
 | (after first 24 hours) |  |  |  |
+
+Treatment should be as short as possible depending on the patients’ clinical and mycological response.
 
 |  | Intravenous* | Oral Suspension** |
 | --- | --- | --- |

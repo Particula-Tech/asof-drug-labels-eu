@@ -42,7 +42,7 @@ In addition VFEND has been associated with phototoxicity and pseudoporphyria.
 It is recommended that patients avoid intense or prolonged exposure to direct sunlight during VFEND treatment and use measures such as protective clothing and sunscreen when appropriate.
 In patients with phototoxicity and additional risk factors, including immunosuppression, squamous cell carcinoma of the skin has been reported during long-term therapy.
 Physicians should therefore consider the need to limit the exposure to VFEND (see Section 4.2 (Posology and method of administration) and Section 5.1 Pharmacodynamic properties (Duration of treatment).
-If a patient develops a skin lesion consistent with squamous cell carcinoma, VFEND discontinuation should be considered.
+If a patient develops a skin lesion consistent with squamous cell carcinoma,VFEND discontinuation should be considered.
 
 Paediatric use: Safety and effectiveness in paediatric subjects below the age of two years has not been established (see also sections 4.8 and 5.1).
 Voriconazole is indicated for paediatric patients aged two years or older.
@@ -74,6 +74,8 @@ Cardiovascular: Some azoles, including voriconazole have been associated with QT
 
 Instances of hepatic reactions were noted to occur primarily in patients with serious underlying medical conditions (predominantly haematological malignancy).
 Transient hepatic reactions, including hepatitis and jaundice, have occurred among patients with no other identifiable risk factors.
+
+If a patient develops a skin lesion consistent with squamous cell carcinoma, VFEND discontinuation should be considered.
 
 Short Acting Opiates (CYP3A4 substrate): Reduction in the dose of alfentanil and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g fentanyl and sufentanil) should be considered when co-administered with voriconazole (see section 4.5).
 As the half-life of alfentanil is prolonged in a four-fold manner in combination with voriconazole, a longer respiratory monitoring period may be necessary).
