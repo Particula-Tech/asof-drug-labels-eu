@@ -2,7 +2,7 @@
 
 Pharmacotherapeutic group: Antibacterials for systemic use, Other antibacterials, ATC code: J01XX09
 
-Mode of action
+Mechanism of action
 Daptomycin is a cyclic lipopeptide natural product that is active against Gram positive bacteria only.
 
 The mechanism of action involves binding (in the presence of calcium ions) to bacterial membranes of both growing and stationary phase cells causing depolarisation and leading to a rapid inhibition of protein, DNA, and RNA synthesis.
@@ -24,6 +24,7 @@ Minimum inhibitory concentration (MIC) breakpoint established by the European Co
 Susceptibility
 The prevalence of resistance may vary geographically and over time for selected species and local information on resistance is desirable, particularly when treating severe infections.
 As necessary, expert advice should be sought when the local prevalence of resistance is such that the utility of the agent in at least some types of infections is questionable.
+
 Commonly Susceptible Species
 Staphylococcus aureus *
 Staphylococcus haemolyticus

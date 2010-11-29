@@ -45,8 +45,9 @@ No data are available in patients with severe hepatic insufficiency (Child-Pugh 
 Elderly patients
 The recommended doses should be used in elderly patients except those with severe renal insufficiency (see above and section 4.4).
 However, there are limited data on the safety and efficacy of daptomycin in patients aged > 65 years and caution should be exercised if Cubicin is given to such patients.
-Children and adolescents
-Cubicin is not recommended for use in children and adolescents below the age of 18 years due to a lack of data on safety and efficacy (see section 5.2).
+Paediatric population
+The safety and efficacy of Cubicin in children and adolescents below the age of 18 have not been established.
+Currently available data are described in section 5.2 but no recommendation on a posology can be made.
 
 Method of administration
 Cubicin is given by intravenous infusion (see section 6.6) and administered over a 30-minute period or by intravenous injection (see section 6.6) and administered over a 2-minute period.

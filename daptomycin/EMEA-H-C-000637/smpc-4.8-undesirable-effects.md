@@ -3,8 +3,8 @@
 In clinical studies, 2,011 subjects received Cubicin.
 Within these trials, 1,221 subjects received a daily dose of 4 mg/kg, of whom 1,108 were patients and 113 were healthy volunteers; 460 subjects received a daily dose of 6 mg/kg, of whom 304 were patients and 156 were healthy volunteers.
 Adverse reactions (i.e. considered by the investigator to be possibly, probably, or definitely related to the medicinal product) were reported at similar frequencies for Cubicin and comparator regimens.
-
-The following adverse reactions were reported during therapy and during follow-up with frequencies corresponding to common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000):
+The following adverse reactions were reported during therapy and during follow-up with frequencies corresponding to very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to
+< 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data):
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
@@ -56,7 +56,11 @@ connective tissue disorders increased
 
 Uncommon: Myositis, increased myoglobin, muscular weakness, muscle pain, arthralgia, serum lactate dehydrogenase (LDH) increased
 Not known*: Rhabdomyolysis2
-Renal and urinary disorders Uncommon: Renal insufficiency, including renal impairment and renal failure, serum creatinine increased Reproductive system and Uncommon: Vaginitis breast disorders
+Renal and urinary disorders Uncommon: Renal insufficiency, including renal impairment and renal failure, serum creatinine increased
+
+Reproductive system and Uncommon: Vaginitis
+
+breast disorders
 
 General disorders and Common: Infusion site reactions, pyrexia, asthenia
 
@@ -67,6 +71,7 @@ Since these reports are from a population of uncertain size and are subject to c
 These transaminase increases were likely to be related to the skeletal muscle effects.
 The majority of transaminase elevations were of Grade 1-3 toxicity and resolved upon discontinuation of treatment.
 2 When clinical information on the patients was available to make a judgement, approximately 50% of the cases occurred in patients with pre-existing renal insufficiency, or in those receiving concomitant medicinal products known to cause rhabdomyolysis.
+
 The safety data for the administration of daptomycin via 2-minute intravenous injection are derived from two pharmacokinetic studies in healthy volunteers.
 Based on these study results, both methods of daptomycin administration, the 2-minute intravenous injection and the 30-minute intravenous infusion, had a similar safety and tolerability profile.
 There was no relevant difference in local tolerability or in the nature and frequency of adverse reactions.
