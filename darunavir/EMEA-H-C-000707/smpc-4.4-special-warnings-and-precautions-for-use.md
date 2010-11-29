@@ -22,6 +22,7 @@ Stevens-Johnson Syndrome has been rarely (< 0.1%) reported, and during post-mark
 Discontinue PREZISTA/rtv immediately if signs or symptoms of severe skin reactions develop.
 These can include but are not limited to severe rash or rash accompanied with fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, hepatitis and/or eosinophilia.
 
+Rash occurred more commonly in treatment-experienced patients receiving regimens containing PREZISTA + raltegravir compared to patients receiving PREZISTA without raltegravir or raltegravir without PREZISTA (see section 4.8).
 Darunavir contains a sulphonamide moiety.
 PREZISTA should be used with caution in patients with a known sulphonamide allergy.
 
@@ -83,6 +84,8 @@ Interactions with medicinal products
 Several of the interaction studies have been performed at lower than recommended doses of darunavir.
 The effects on co-administered medicinal products may thus be underestimated and clinical monitoring of safety may be indicated.
 For full information on interactions with other medicinal products see section 4.5.
+
+Life-threatening and fatal drug interactions have been reported in patients treated with colchicine and strong inhibitors of CYP3A and Pgp (see section 4.5).
 
 [PREZISTA 150 mg film-coated tablets]
 

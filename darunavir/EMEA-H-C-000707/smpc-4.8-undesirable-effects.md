@@ -28,10 +28,10 @@ Adverse reactions in clinical trials and post-marketing in adult patients
 | Endocrine disorders |  |
 | uncommon | hypothyroidism, increased blood thyroid stimulating hormone |
 | Metabolism and nutrition disorders |  |
-| common | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy)1, 2, hypertriglyceridaemia1, 2, hypercholesterolaemia1, 2, hyperlipidaemia1, 2 |
-| uncommon | diabetes mellitus1, 2, gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia1, 2, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
+| common uncommon | lipodystrophy (including lipohypertrophy, lipodystrophy, lipoatrophy)1, 2, hypertriglyceridaemia1, 2, hypercholesterolaemia1, 2, hyperlipidaemia1, 2 diabetes mellitus1, 2, gout, anorexia, decreased appetite, decreased weight, increased weight, hyperglycaemia1, 2, insulin resistance, decreased high density lipoprotein, increased appetite, polydipsia, increased blood lactate dehydrogenase |
 | Psychiatric disorders |  |
-| common uncommon | insomnia depression, confusional state, disorientation, anxiety, altered mood, sleep disorder, abnormal dreams, nightmare, decreased libido, restlessness |
+| common | insomnia |
+| uncommon | depression, confusional state, disorientation, anxiety, altered mood, sleep disorder, abnormal dreams, nightmare, decreased libido, restlessness |
 | Nervous system disorders |  |
 | common | headache, peripheral neuropathy, dizziness |
 | uncommon | syncope, convulsion, lethargy, paraesthesia, hypoaesthesia, ageusia, dysgeusia, disturbance in attention, memory impairment, somnolence, sleep phase rhythm disturbance |
@@ -52,8 +52,7 @@ Adverse reactions in clinical trials and post-marketing in adult patients
 | Hepatobiliary disorders |  |
 | common | increased alanine aminotransferase, increased aspartate aminotransferase |
 | uncommon | hepatitis1, cytolytic hepatitis1, hepatic steatosis, hepatomegaly, increased transaminase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |
-| Skin and subcutaneous tissue disorders |  |
-| common | rash (including macular, maculopapular, papular, erythematous and pruritic rash) 1, 2, pruritus |
+| Skin and subcutaneous tissue disorders common | rash3 (including macular, maculopapular, papular, erythematous and pruritic rash) 1, 2, pruritus |
 | uncommon rare | angioedema, generalised rash1, 2, allergic dermatitis, urticaria, dermatitis, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, seborrhoeic dermatitis, skin lesion, xeroderma, dry skin, nail pigmentation erythema multiforme, Stevens-Johnson syndrome1 |
 | not known | toxic epidermal necrolysis1 |
 | Musculoskeletal and connective tissue disorders |  |
@@ -68,6 +67,10 @@ Adverse reactions in clinical trials and post-marketing in adult patients
 
 1 see section 4.4
 2 see section 4.8 c)
+3 In clinical studies of treatment-experienced patients, rash, irrespective of causality, was more commonly observed with regimens containing PREZISTA + raltegravir compared to those containing PREZISTA without raltegravir or raltegravir without PREZISTA.
+Rash considered by the investigator to be drug-related occurred at similar rates.
+The exposure-adjusted rates of rash (all causality) were 10.9, 4.2, and 3.8 per 100 patient-years (PYR), respectively; and for drug-related rash were 2.4, 1.1, and 2.3 per 100 PYR, respectively.
+The rashes observed in clinical studies were mild to moderate in severity and did not result in discontinuation of therapy (see section 4.4).
 
 The safety profile of PREZISTA/rtv 800/100 mg q.d. in treatment-naïve subjects is similar to that seen with PREZISTA/rtv 600/100 mg b.i.d. in treatment-experienced subjects except for nausea which was observed more frequently in treatment-naïve subjects.
 This was driven by mild intensity nausea.
@@ -115,7 +118,8 @@ Among 1,968 treatment-experienced patients receiving PREZISTA co-administered wi
 | uncommon | herpes simplex |
 | Blood and lymphatic system disorders |  |
 | uncommon | thrombocytopenia, neutropenia, anaemia, increased eosinophil count, leukopenia |
-| Immune system disorders uncommon | immune reconstitution syndrome1, 2, (drug) hypersensitivity |
+| Immune system disorders |  |
+| uncommon | immune reconstitution syndrome1, 2, (drug) hypersensitivity |
 | Endocrine disorders |  |
 | uncommon | hypothyroidism, increased blood thyroid stimulating hormone |
 | Metabolism and nutrition disorders |  |
@@ -131,20 +135,20 @@ Among 1,968 treatment-experienced patients receiving PREZISTA co-administered wi
 | uncommon | visual disturbance, conjunctival hyperaemia, dry eye |
 | Ear and labyrinth disorders |  |
 | uncommon | vertigo |
-| Cardiac disorders |  |
-| uncommon | acute myocardial infarction, myocardial infarction, angina pectoris, prolonged electrocardiogram QT, sinus bradycardia, tachycardia, palpitations |
+| Cardiac disorders uncommon | acute myocardial infarction, myocardial infarction, angina pectoris, prolonged electrocardiogram QT, sinus bradycardia, tachycardia, palpitations |
 | Vascular disorders |  |
 | uncommon | hypertension, flushing |
 | Respiratory, thoracic and mediastinal disorders |  |
 | uncommon | dyspnoea, cough, epistaxis, rhinorrhoea, throat irritation |
 | Gastrointestinal disorders |  |
 | very common | diarrhoea |
-| common uncommon | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, stomatitis, retching, haematemesis, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia, cheilitis, dry lip, coated tongue |
+| common | vomiting, nausea, abdominal pain, increased blood amylase, dyspepsia, abdominal distension, flatulence |
+| uncommon | pancreatitis, gastritis, gastrooesophageal reflux disease, aphthous stomatitis, stomatitis, retching, haematemesis, dry mouth, abdominal discomfort, constipation, increased lipase, eructation, oral dysaesthesia, cheilitis, dry lip, coated tongue |
 | Hepatobiliary disorders |  |
 | common | increased alanine aminotransferase, increased aspartate aminotransferase |
 | uncommon | hepatitis1, cytolytic hepatitis1, hepatic steatosis, hepatomegaly, increased transaminase, increased blood bilirubin, increased blood alkaline phosphatase, increased gamma-glutamyltransferase |
 | Skin and subcutaneous tissue disorders |  |
-| common | rash (including macular, maculopapular, papular, erythematous and pruritic rash) 1, 2, pruritus |
+| common | rash3 (including macular, maculopapular, papular, erythematous and pruritic rash) 1, 2, pruritus |
 | uncommon rare | angioedema, generalised rash1, 2, allergic dermatitis, urticaria, dermatitis, eczema, erythema, hyperhidrosis, night sweats, alopecia, acne, seborrhoeic dermatitis, skin lesion, xeroderma, dry skin, nail pigmentation erythema multiforme, Stevens-Johnson syndrome1 |
 | not known | toxic epidermal necrolysis1 |
 | Musculoskeletal and connective tissue disorders |  |

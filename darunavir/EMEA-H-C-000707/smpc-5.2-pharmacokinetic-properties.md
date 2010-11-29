@@ -56,21 +56,3 @@ In a multiple dose study with PREZISTA co-administered with ritonavir (600/100 m
 However, unbound darunavir concentrations were approximately 55% (Child-Pugh Class A) and 100% (Child-Pugh Class B) higher, respectively.
 The clinical relevance of this increase is unknown therefore, PREZISTA should be used with caution.
 The effect of severe hepatic impairment on the pharmacokinetics of darunavir has not been studied (see sections 4.2, 4.3 and 4.4).
-
-[PREZISTA 150 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 300 mg film-coated tablets]
-
-(all sentences already above)
-
-[PREZISTA 400 mg film-coated tablets]
-
-Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (see section 4.4).
-
-Population pharmacokinetic analysis showed a slightly higher darunavir exposure in HIV infected females compared to males.
-
-[PREZISTA 600 mg film-coated tablets]
-
-(all sentences already above)
