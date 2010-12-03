@@ -1,0 +1,6 @@
+# 7. MARKETING AUTHORISATION HOLDER
+
+AstraZeneca AB
+S-151 85
+Södertälje
+Sweden
