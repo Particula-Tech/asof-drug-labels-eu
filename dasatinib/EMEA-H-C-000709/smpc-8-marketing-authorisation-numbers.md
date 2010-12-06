@@ -18,7 +18,8 @@ EU/1/06/363/003
 
 [SPRYCEL 80 mg film-coated tablets]
 
-(all sentences already above)
+EU/1/06/363/013
+EU/1/06/363/012
 
 [SPRYCEL 100 mg film-coated tablets]
 
@@ -27,4 +28,5 @@ EU/1/06/363/010
 
 [SPRYCEL 140 mg film-coated tablets]
 
-(all sentences already above)
+EU/1/06/363/015
+EU/1/06/363/014

@@ -31,5 +31,5 @@ Active substances that may have their plasma concentrations altered by dasatinib
 Concomitant use of dasatinib and a CYP3A4 substrate may increase exposure to the CYP3A4 substrate.
 In a study in healthy subjects, a single 100 mg dose of dasatinib increased AUC and Cmax exposure to simvastatin, a known CYP3A4 substrate, by 20 and 37% respectively.
 It cannot be excluded that the effect is larger after multiple doses of dasatinib.
-Therefore, CYP3A4 substrates known to have a narrow therapeutic index (e.g. astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil or ergot alkaloids (ergotamine, dihydroergotamine)) should be administered with caution in patients receiving dasatinib (see section 4.4).
+Therefore, CYP3A4 substrates known to have a narrow therapeutic index (e.g. astemizole, terfenadine, cisapride, pimozide, quinidine, bepridil or ergot alkaloids [ergotamine, dihydroergotamine]) should be administered with caution in patients receiving dasatinib (see section 4.4).
 In vitro data indicate a potential risk for interaction with CYP2C8 substrates, such as glitazones.

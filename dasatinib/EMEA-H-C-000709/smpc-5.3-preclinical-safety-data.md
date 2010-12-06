@@ -1,7 +1,6 @@
 # 5.3 Preclinical safety data
 
 The non-clinical safety profile of dasatinib was assessed in a battery of in vitro and in vivo studies in mice, rats, monkeys, and rabbits.
-
 The primary toxicities occurred in the gastrointestinal, haematopoietic, and lymphoid systems.
 Gastrointestinal toxicity was dose-limiting in rats and monkeys, as the intestine was a consistent target organ.
 In rats, minimal to mild decreases in erythrocyte parameters were accompanied by bone marrow changes; similar changes occurred in monkeys at a lower incidence.
