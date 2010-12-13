@@ -6,7 +6,7 @@ The effect on pregnancy and lactation has not been investigated in humans.
 Pramipexole was not teratogenic in rats and rabbits, but was embryotoxic in the rat at maternotoxic doses (see section 5.3).
 SIFROL should not be used during pregnancy unless clearly necessary, i.e. if the potential benefit justifies the potential risk to the foetus.
 
-Brest-feeding
+Breast-feeding
 
 As pramipexole treatment inhibits secretion of prolactin in humans, inhibition of lactation is expected.
 The excretion of pramipexole into breast milk has not been studied in women.
@@ -19,47 +19,3 @@ Fertility
 No studies on the effect on human fertility have been conducted.
 In animal studies, pramipexole affected oestrous cycles and reduced female fertility as expected for a dopamine agonist.
 However, these studies did not indicate direct or indirect harmful effects with respect to male fertility.
-
-[SIFROL 0.18 mg tablets]
-
-Breast-feeding
-
-[SIFROL 0.35 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 0.7 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 1.1 mg tablets]
-
-(all sentences already above)
-
-[SIFROL 0.26 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 0.52 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 1.05 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 1.57 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 2.1 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 2.62 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[SIFROL 3.15 mg prolonged-release tablets]
-
-(all sentences already above)

@@ -33,6 +33,7 @@ The European Medicines Agency has waived the obligation to submit the results of
 Clinical trials in Restless Legs Syndrome
 
 The efficacy of pramipexole was evaluated in four placebo-controlled clinical trials in approximately 1,000 patients with moderate to very severe idiopathic Restless Legs Syndrome.
+
 The mean change from baseline in the Restless Legs Syndrome Rating Scale (IRLS) and the Clinical Global Impression-Improvement (CGI-I) were the primary efficacy outcome measures.
 For both primary endpoints statistically significant differences have been observed for the pramipexole dose groups 0.25 mg, 0.5 mg and 0.75 mg pramipexole salt in comparison to placebo.
 After 12 weeks of treatment the baseline IRLS score improved from 23.5 to 14.1 points for placebo and from 23.4 to 9.4 points for pramipexole (doses combined).
