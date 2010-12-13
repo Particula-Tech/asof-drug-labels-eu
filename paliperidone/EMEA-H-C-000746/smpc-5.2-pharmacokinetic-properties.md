@@ -12,6 +12,7 @@ The release characteristics of INVEGA result in minimal peak-trough fluctuations
 The absolute oral bioavailability of paliperidone following INVEGA administration is 28% (90% CI of 23%-33%).
 
 Administration of paliperidone prolonged-release tablets with a standard high-fat/high-caloric meal increases Cmax and AUC of paliperidone by up to 50-60% compared with administration in the fasting state.
+
 Distribution
 Paliperidone is rapidly distributed.
 The apparent volume of distribution is 487 l. The plasma protein binding of paliperidone is 74%.
@@ -50,6 +51,7 @@ Population pharmacokinetics analysis revealed no evidence of race-related differ
 Gender
 The apparent clearance of paliperidone following INVEGA administration is approximately 19% lower in women than men.
 This difference is largely explained by differences in lean body mass and creatinine clearance between men and women.
+
 Smoking Status
 Based on in vitro studies utilising human liver enzymes, paliperidone is not a substrate for CYP1A2; smoking should, therefore, not have an effect on the pharmacokinetics of paliperidone.
 A population pharmacokinetic analysis showed a slightly lower exposure to paliperidone in smokers compared with non-smokers.

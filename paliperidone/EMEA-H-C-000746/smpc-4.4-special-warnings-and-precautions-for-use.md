@@ -1,10 +1,11 @@
 # 4.4 Special warnings and special precautions for use
 
-QT interval
-As with other antipsychotics, caution should be exercised when INVEGA is prescribed in patients with known cardiovascular disease or family history of QT prolongation, and in concomitant use with other medicines thought to prolong the QT interval.
+Patients with schizoaffective disorder treated with paliperidone should be carefully monitored for a potential switch from manic to depressive symptoms.
 
+QT interval
+Caution should be exercised when INVEGA is prescribed in patients with known cardiovascular disease or family history of QT prolongation, and in concomitant use with other medicines thought to prolong the QT interval.
 Neuroleptic malignant syndrome
-Neuroleptic Malignant Syndrome (NMS), characterised by hyperthermia, muscle rigidity, autonomic instability, altered consciousness, and elevated serum creatine phosphokinase levels has been reported to occur with antipsychotics , including paliperidone.
+Neuroleptic Malignant Syndrome (NMS), characterised by hyperthermia, muscle rigidity, autonomic instability, altered consciousness, and elevated serum creatine phosphokinase levels has been reported to occur with paliperidone.
 Additional clinical signs may include myoglobinuria (rhabdomyolysis) and acute renal failure.
 If a patient develops signs or symptoms indicative of NMS, all antipsychotics, including INVEGA, should be discontinued.
 
@@ -14,7 +15,7 @@ If signs and symptoms of tardive dyskinesia appear, the discontinuation of all a
 
 Hyperglycemia
 Rare cases of glucose related adverse reactions, e.g., increase in blood glucose, have been reported in clinical trials with INVEGA.
-As with other antipsychotics, appropriate clinical monitoring is advisable in diabetic patients and in patients with risk factors for the development of diabetes mellitus.
+Appropriate clinical monitoring is advisable in diabetic patients and in patients with risk factors for the development of diabetes mellitus.
 
 Orthostatic hypotension
 Paliperidone may induce orthostatic hypotension in some patients based on its alpha-blocking activity.
@@ -39,10 +40,9 @@ Paliperidone should not be used in patients with creatinine clearance below 10 m
 
 Hepatic impairment
 No data are available in patients with severe hepatic impairment (Child-Pugh class C). Caution is recommended if paliperidone is used in such patients.
-
 Elderly patients with dementia
 INVEGA has not been studied in elderly patients with dementia.
-Hence, until data demonstrate otherwise the experience from risperidone is considered valid also for paliperidone.
+The experience from risperidone is considered valid also for paliperidone.
 
 Overall mortality
 In a meta-analysis of 17 controlled clinical trials, elderly patients with dementia treated with other atypical antipsychotics, including risperidone, aripiprazole, olanzapine, and quetiapine had an increased risk of mortality compared to placebo.
@@ -54,20 +54,20 @@ The mechanism for this increased risk is not known.
 INVEGA should be used with caution in elderly patients with dementia who have risk factors for stroke.
 
 Parkinson’s disease and dementia with Lewy bodies
-Physicians should weigh the risks versus the benefits when prescribing antipsychotic medicinal products, including INVEGA, to patients with Parkinson’s Disease or Dementia with Lewy Bodies (DLB) since both groups may be at increased risk of Neuroleptic Malignant Syndrome as well as having an increased sensitivity to antipsychotics.
+Physicians should weigh the risks versus the benefits when prescribing INVEGA to patients with Parkinson’s Disease or Dementia with Lewy Bodies (DLB) since both groups may be at increased risk of Neuroleptic Malignant Syndrome as well as having an increased sensitivity to antipsychotics.
 Manifestation of this increased sensitivity can include confusion, obtundation, postural instability with frequent falls, in addition to extrapyramidal symptoms.
 
 Priapism
-Antipsychotic drugs (including risperidone) with α-adrenergic blocking effects have been reported to induce priapism.
-During post-marketing surveillance priapism has also been reported with paliperidone, which is the active metabolite of risperidone.
+Antipsychotic medicinal products (including risperidone) with α-adrenergic blocking effects have been reported to induce priapism.
+During postmarketing surveillance priapism has also been reported with paliperidone, which is the active metabolite of risperidone.
 Patients should be informed to seek urgent medical care in case that priapism has not been resolved within 3-4 hours.
 
 Body temperature regulation
-Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic medicines.
+Disruption of the body’s ability to reduce core body temperature has been attributed to antipsychotic medicinal products.
 Appropriate care is advised when prescribing INVEGA to patients who will be experiencing conditions which may contribute to an elevation in core body temperature, e.g., exercising strenuously, exposure to extreme heat, receiving concomitant medication with anticholinergic activity, or being subject to dehydration.
 
 Venous Thromboembolism
-Cases of venous thromboembolism (VTE) have been reported with antipsychotic drugs.
+Cases of venous thromboembolism (VTE) have been reported with antipsychotic medicinal products.
 Since patients treated with antipsychotics often present with acquired risk factors for VTE, all possible risk factors for VTE should be identified before and during treatment with INVEGA and preventive measures undertaken.
 
 Antiemetic effect
@@ -81,12 +81,12 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 [INVEGA 6 mg prolonged-release tablets]
 
-(all sentences already above)
+Neuroleptic Malignant Syndrome (NMS), characterised by hyperthermia, muscle rigidity, autonomic instability, altered consciousness, and elevated serum creatine phosphokinase levels has been reported to occur paliperidone.
 
 [INVEGA 9 mg prolonged-release tablets]
 
-(all sentences already above)
+Physicians should weigh the risks versus the benefits when prescribing INVEGA, to patients with Parkinson’s Disease or Dementia with Lewy Bodies (DLB) since both groups may be at increased risk of Neuroleptic Malignant Syndrome as well as having an increased sensitivity to antipsychotics.
 
 [INVEGA 12 mg prolonged-release tablets]
 
-(all sentences already above)
+During post-marketing surveillance priapism has also been reported with paliperidone, which is the active metabolite of risperidone.
