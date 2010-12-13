@@ -5,13 +5,13 @@ The median duration of exposure to study treatment was significantly longer (44.
 The difference was accounted for by a lower rate of discontinuation from study treatment due to lower progression of disease in patients exposed to lenalidomide/dexamethasone (39.7%) than in placebo/dexamethasone patients (70.4%).
 
 325 (92%) of the patients in the lenalidomide/dexamethasone group experienced at least one adverse reaction compared to 288 (82%) in the placebo/dexamethasone group.
-
 The most serious adverse reactions were:
 
 - Venous thromboembolism (deep vein thrombosis, pulmonary embolism) (see section 4.4)
 - Grade 4 neutropenia (see section 4.4).
 
 The most frequently observed adverse reactions which occurred significantly more frequently in the lenalidomide/dexamethasone group compared to the placebo/dexamethasone group were neutropenia (39.4%), fatigue (27.2%), asthenia (17.6%), constipation (23.5%), muscle cramp (20.1%), thrombocytopenia (18.4%), anaemia (17.0%), diarrhoea (14.2%) and rash (10.2%).
+
 The adverse reactions observed in patients treated with lenalidomide/dexamethasone are listed below by system organ class and frequency.
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 Frequencies are defined as: very common (≥ 1/10); common
@@ -51,13 +51,13 @@ Endocrine disorders
 Common: Cushingoid-like symptoms
 
 Uncommon: Adrenal suppression, adrenal insufficiency, acquired hypothyroidism, increased and decreased thyroid stimulating hormone, hirsutism
-
 Metabolism and nutrition disorders
 
 Common: Hyperglycaemia, anorexia, hypocalcaemia, hypokalaemia, dehydration,
 
 hypomagnesaemia, fluid retention
 Uncommon: Metabolic acidosis, diabetes mellitus, hyponatraemia, hypercalcaemia, hyperuricaemia, hypoalbuminaemia, cachexia, failure to thrive, gout, hypophosphataemia, hyperphosphataemia, increased appetite
+
 Psychiatric disorders
 Very Common: Insomnia
 
@@ -156,7 +156,6 @@ Very Common: Fatigue*, asthenia*, peripheral oedema
 Common: Pyrexia, rigors, mucosal inflammation, oedema, lethargy, malaise
 
 Uncommon: Hyperpyrexia, chest pain, chest tightness, pain, difficulty in walking, abnormal gait, thirst, chest pressure sensation, feeling cold, feeling jittery, influenza-like illness, submandibular mass, fall, impaired healing
-
 Investigations
 Uncommon: Prolonged prothrombin time, prolonged activated partial thromboplastin time, increased International Normalised Ratio, increased blood alkaline phosphatase, increased blood lactate dehydrogenase, increased C-Reactive Protein, Cytomegalovirus antibody positive
 
@@ -165,5 +164,6 @@ Injury, poisoning and procedural complications
 Common: Contusion
 
 Uncommon: Wound complication
+
 Haemorrhagic disorders
 Haemorrhagic disorders are listed under several system organ classes: Blood and lymphatic system disorders; nervous system disorders (intracranial haemorrhage); respiratory, thoracic and mediastinal disorders (epistaxis); gastrointestinal disorders (gingival bleeding, haemorrhoidal haemorrhage, rectal haemorrhage); renal and urinary disorders (haematuria); Injury, poisoning and procedural complications (contusion) and vascular disorders (ecchymosis).

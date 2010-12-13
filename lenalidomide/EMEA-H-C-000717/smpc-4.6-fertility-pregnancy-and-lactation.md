@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 Pregnancy (see also sections 4.3 and 4.4)
 Lenalidomide is structurally related to thalidomide.

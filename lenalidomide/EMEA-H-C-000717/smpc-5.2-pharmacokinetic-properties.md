@@ -18,7 +18,6 @@ Lenalidomide is present in human semen (< 0.01% of the dose) after administratio
 
 Metabolism and excretion
 In vitro studies indicate that lenalidomide has no inhibitory effect on CYP1A2, CYP2C9, CYP2C19, CYP2D6, CYP2E1, and CYP3A.
-
 A majority of lenalidomide is eliminated unchanged through urinary excretion.
 The contribution of renal excretion to total clearance in subjects with normal renal function was 65-85%.
 The half-life of elimination has been observed to increase with dose, from approximately 3 hours at 5 mg up to approximately 9 hours at doses of 400 mg (the higher dose is believed to provide a better estimate of t½).

@@ -94,19 +94,27 @@ Other special warnings and precautions for use
 
 Cardiovascular disorders
 
-Venous thromboembolism
-The combination of lenalidomide with dexamethasone is associated with an increased risk of deep vein thrombosis (DVT) and pulmonary embolism (PE) in patients with multiple myeloma (see sections 4.5 and 4.8).
-Concomitant administration of erythropoietic agents or previous history of DVT may also increase thrombotic risk in these patients.
-Therefore, erythropoietic agents, or other agents that may increase the risk of thrombosis, such as hormone replacement therapy, should be used with caution in multiple myeloma patients receiving lenalidomide with dexamethasone.
-A haemoglobin concentration above 12 g/dl should lead to discontinuation of erythropoietic agents.
-Patients and physicians are advised to be observant for the signs and symptoms of thromboembolism.
-Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, arm or leg swelling.
-Prophylactic antithrombotic medicines, such as low molecular weight heparins or warfarin, should be recommended, especially in patients with additional thrombotic risk factors.
-The decision to take antithrombotic prophylactic measures should be made after careful assessment of an individual patient’s underlying risk factors.
-
 Myocardial Infarction
 Myocardial infarction has been reported in patients receiving lenalidomide, particularly in those with known risk factors.
-Consequently, patients with known risk factors should be closely monitored, and action should be taken to try to minimize all modifiable risk factors (eg. smoking, hypertension, and hyperlipidaemia).
+Patients with known risk factors – including prior thrombosis – should be closely monitored, and action should be taken to try to minimize all modifiable risk factors (eg. smoking, hypertension, and hyperlipidaemia).
+
+Venous and arterial thromboembolic events
+In patients with multiple myeloma, the combination of lenalidomide with dexamethasone is associated with an increased risk of venous thromboembolism (predominantly deep vein thrombosis and pulmonary embolism) and arterial thromboembolism (predominantly myocardial infarction and cerebrovascular event) – see sections 4.5 and 4.8.
+
+Consequently, patients with known risk factors for thromboembolism – including prior thrombosis – should be closely monitored.
+Action should be taken to try to minimize all modifiable risk factors (e.g. smoking, hypertension, and hyperlipidaemia).
+Concomitant administration of erythropoietic agents or previous history of thromboembolic events may also increase thrombotic risk in these patients.
+Therefore, erythropoietic agents, or other agents that may increase the risk of thrombosis, such as hormone replacement therapy, should be used with caution in multiple myeloma patients receiving lenalidomide with dexamethasone.
+A haemoglobin concentration above 12 g/dl should lead to discontinuation of erythropoietic agents.
+
+Patients and physicians are advised to be observant for the signs and symptoms of thromboembolism.
+Patients should be instructed to seek medical care if they develop symptoms such as shortness of breath, chest pain, arm or leg swelling.
+Prophylactic antithrombotic medicines should be recommended, especially in patients with additional thrombotic risk factors.
+The decision to take antithrombotic prophylactic measures should be made after careful assessment of an individual patient’s underlying risk factors.
+
+If the patient experiences any thromboembolic events, treatment must be discontinued and standard anticoagulation therapy started.
+Once the patient has been stabilised on the anticoagulation treatment and any complications of the thromboembolic event have been managed, the lenalidomide treatment may be restarted at the original dose dependent upon a benefit risk assessment.
+The patient should continue anticoagulation therapy during the course of lenalidomide treatment.
 
 Neutropenia and thrombocytopenia
 The combination of lenalidomide with dexamethasone in multiple myeloma patients is associated with a higher incidence of grade 4 neutropenia (5.1% in lenalidomide/dexamethasone-treated patients compared with 0.6% in placebo/dexamethasone-treated patients; see section 4.8).
@@ -130,7 +138,6 @@ Therefore care should be taken in dose selection and monitoring of renal functio
 
 Thyroid function
 Cases of hypothyroidism have been reported and monitoring of thyroid function should be considered.
-
 Peripheral neuropathy
 Lenalidomide is structurally related to thalidomide, which is known to induce severe peripheral neuropathy.
 At this time, the neurotoxic potential of lenalidomide associated with long-term use cannot be ruled out.
@@ -143,6 +150,7 @@ These patients should be monitored closely and appropriate precautions taken.
 Allergic Reactions
 Cases of allergic reaction/hypersensitivity reactions have been reported (see section 4.8).
 Patients who had previous allergic reactions while treated with thalidomide should be monitored closely, as a possible cross-reaction between lenalidomide and thalidomide has been reported in the literature.
+
 Severe skin reactions
 Stevens-Johnson syndrome (SJS) and toxic epidermal necrolysis (TEN) have been reported.
 Lenalidomide must be discontinued for exfoliative or bullous rash, or if SJS or TEN is suspected, and should not be resumed following discontinuation for these reactions.
