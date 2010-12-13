@@ -12,7 +12,7 @@ There was no evidence of cumulative thrombocytopenia, including in the Phase II 
 The mean platelet count nadir measured was approximately 40% of baseline.
 In patients with advanced myeloma the severity of thrombocytopenia was related to pre-treatment platelet count: for baseline platelet counts <75,000/μl, 90% of 21 patients had a count ≤25,000/μl during the study, including 14% <10,000/μl; in contrast, with a baseline platelet count >75,000/μl, only 14% of 309 patients had a count ≤25×109/l during the study.
 Platelet counts should be monitored prior to each dose of VELCADE.
-Therapy should be held when the platelet count is <25,000/μl and re-initiated at a reduced dose after resolution (see section 4.2).
+VELCADE therapy should be withheld when the platelet count is <25,000/μl or in combination with melphalan and prednisone when the platelet count is ≤ 30,000/μl and re-initiated at a reduced dose after resolution (see section 4.2).
 Potential benefit of the treatment should be carefully weighed against the risks, particularly in case of moderate to severe thrombocytopenia and risk factors for bleeding.
 
 Therefore, complete blood counts (CBC) including platelet counts should be frequently monitored throughout treatment with VELCADE.
@@ -26,6 +26,7 @@ It is recommended that patients be carefully monitored for symptoms of neuropath
 Patients experiencing new or worsening peripheral neuropathy should undergo neurological evaluation and may require the dose and schedule of VELCADE to be modified (see section 4.2).
 Neuropathy has been managed with supportive care and other therapies.
 Improvement in, or resolution of, peripheral neuropathy was reported in 51% of patients with ≥ Grade 2 peripheral neuropathy in the single-agent Phase III multiple myeloma study and 71% of patients with grade 3 or 4 peripheral neuropathy or peripheral neuropathy leading to discontinuation of treatment in Phase II studies, respectively.
+
 In addition to peripheral neuropathy, there may be a contribution of autonomic neuropathy to some adverse reactions such as postural hypotension and severe constipation with ileus.
 Information on autonomic neuropathy and its contribution to these undesirable effects is limited.
 
@@ -72,15 +73,15 @@ The benefit/risk ratio should be considered prior to continuing VELCADE therapy.
 
 In a clinical trial, two patients (out of 2) given high-dose cytarabine (2 g/m2 per day) by continuous infusion over 24 hours with daunorubicin and VELCADE for relapsed acute myelogenous leukaemia died of ARDS early in the course of therapy, and the study was terminated.
 Therefore, this specific regimen with concomitant administration with high-dose cytarabine (2 g/m2 per day) by continuous infusion over 24 hours is not recommended.
-
 Renal impairment
 Renal complications are frequent in patients with multiple myeloma.
-Such patients should be monitored closely (see sections 4.2 and 5.2).
+Patients with renal impairment should be monitored closely (see sections 4.2 and 5.2).
 
 Hepatic impairment
 Patients with hepatic impairment should be treated with extreme caution and a dose reduction should be considered (see sections 4.2, 4.3 and 5.2).
+
 Hepatic reactions
-Rare cases of acute liver failure have been reported in patients receiving multiple concomitant medications and with serious underlying medical conditions.
+Rare cases of hepatic failure have been reported in patients receiving multiple concomitant medications and with serious underlying medical conditions.
 Other reported hepatic reactions include increases in liver enzymes, hyperbilirubinaemia, and hepatitis.
 Such changes may be reversible upon discontinuation of bortezomib (see section 4.8).
 

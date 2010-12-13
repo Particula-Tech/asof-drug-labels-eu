@@ -1,8 +1,12 @@
 # 4.8 Undesirable effects
 
-The following undesirable effects were considered by the investigators to have at least a possible or probable causal relationship to VELCADE during the conduct of 5 non-comparative Phase II studies and 1 comparative Phase III trial VELCADE vs. dexamethasone in 663 patients with relapsed or refractory multiple myeloma, of whom 331 received VELCADE as single agent.
+The most commonly reported adverse reactions during treatment with VELCADE are nausea, diarrhoea, constipation, vomiting, fatigue, pyrexia, thrombocytopenia, anaemia, neutropenia, peripheral neuropathy (including sensory), headache, paraesthesia, decreased appetite, dyspnoea, rash, herpes zoster and myalgia.
+Serious adverse reactions uncommonly reported during treatment with VELCADE include cardiac failure, tumour lysis syndrome, pulmonary hypertension, reversible posterior leukoencephalopathy syndrome (RPLS), acute diffuse infiltrative pulmonary disorders and rarely autonomic neuropathy.
+
+The following undesirable effects in Table 4 were considered by the investigators to have at least a possible or probable causal relationship to VELCADE during the conduct of 5 non-comparative Phase II studies and 1 comparative Phase III trial (VELCADE vs. dexamethasone) in 663 patients with relapsed or refractory multiple myeloma, of whom 331 received VELCADE as single agent.
 The safety database comprises data from patients with multiple myeloma or B-cell lymphocytic leukemia (CLL).
-Patients were treated with VELCADE as a single agent, or in combination with dexamethasone.
+In addition, this table contains adverse reactions from post-marketing reports* with frequency categorization estimated from safety data comprising 2017 patients from clinical trials (including the patients from the 6 studies described above).
+These patients were from company-sponsored trials with VELCADE studied at 1.3 mg/m2 as single chemotherapeutic agent or in combination with dexamethasone for multiple myeloma (1995 patients), or for B cell chronic lymphocytic leukemia (22 patients).
 
 Adverse reactions are listed below by system organ class and frequency grouping.
 Frequencies are defined as: Very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
@@ -12,7 +16,7 @@ Table 4: Adverse reactions in patients with relapsed/refractory multiple myeloma
 Infections and infestations
 Very common: herpes zoster (including disseminated).
 Common: pneumonia, bronchitis, sinusitis, nasopharyngitis, herpes simplex.
-Uncommon: sepsis, bacteraemia, pneumonia pneumococcal, bronchopneumonia, upper and lower respiratory tract infection, catheter related infection, pleural infection, haemophilus infection, cytomegalovirus infection, influenza, infectious mononucleosis, varicella, urinary tract infection, gastroenteritis, candidal infection, fungal infection, post herpetic neuralgia, oral candidiasis, blepharitis, infection.
+Uncommon: septic shock*, sepsis, herpes meningoencephalitis*, bacteraemia, pneumonia pneumococcal, bronchopneumonia, upper and lower respiratory tract infection, catheter related infection, pleural infection, haemophilus infection, cytomegalovirus infection, influenza, infectious mononucleosis, varicella, urinary tract infection, gastroenteritis, candidal infection, fungal infection, post herpetic neuralgia, oral candidiasis, blepharitis, infection.
 
 Neoplasms benign and malignant (including cysts and polyps)
 Uncommon: tumour lysis syndrome (see section 4.4).
@@ -23,7 +27,7 @@ Common: leukopenia, lymphopenia.
 Uncommon: pancytopenia, febrile neutropenia, haemolytic anaemia, thrombocytopenic purpura, lymphadenopathy.
 
 Immune system disorders
-Uncommon: hypersensitivity, immunocomplex mediated hypersensitivity, potentially immunocomplex-mediated reactions, such as serum-sickness-type reaction, polyarthritis with rash and proliferative glomerulonephritis (see section 4.4).
+Uncommon: angioedema*, hypersensitivity, immunocomplex mediated hypersensitivity, potentially immunocomplex-mediated reactions, such as serum-sickness-type reaction, polyarthritis with rash and proliferative glomerulonephritis (see section 4.4).
 
 Endocrine disorders
 Uncommon: inappropriate antidiuretic hormone (ADH) secretion.
@@ -40,18 +44,20 @@ Uncommon: agitation, delirium, hallucinations, restlessness, mood swings, mental
 Nervous system disorders (see sections 4.4 and 4.7)
 Very common: peripheral neuropathy, peripheral sensory neuropathy (see section 4.4), paraesthesia, headache.
 Common: polyneuropathy, peripheral neuropathy aggravated, dizziness (excluding vertigo), dysgeusia, dysaesthesia, hypoaesthesia, tremor.
-Uncommon: paraplegia, intracranial haemorrhage, subarachnoid haemorrhage convulsions (see section 4.4), peripheral motor neuropathy, syncope, paresis, disturbance in attention, increased activity, ageusia, somnolence, migraine, cognitive disorder, jerky movements, dizziness postural, sciatica, mononeuropathy, speech disorder, restless leg syndrome.
-
+Uncommon: encephalopathy*, reversible posterior leukoencephalopathy syndrome* (see section 4.4), paraplegia, intracranial haemorrhage, subarachnoid haemorrhage convulsions (see section 4.4), peripheral motor neuropathy, syncope, paresis, disturbance in attention, increased activity, ageusia, somnolence, migraine, cognitive disorder, jerky movements, dizziness postural, sciatica, mononeuropathy, speech disorder, restless leg syndrome.
+Rare: autonomic neuropathy*
 Eye disorders
 Common: vision blurred (see section 4.7), eye pain.
 Uncommon: eye haemorrhage, vision abnormal, dry eye, conjunctivitis, eye discharge, photophobia, eye irritation, lacrimation increased, conjunctival hyperaemia, eye swelling.
+Rare: herpes zoster ophthalmic*
+
 Ear and labyrinth disorders
 Common: vertigo.
 Uncommon: deafness, tinnitus, hypoacusis, hearing impaired.
 
 Cardiac disorders
-Uncommon: cardiac arrest, cardiogenic shock, myocardial infarction, angina pectoris, angina unstable, development or exacerbation of congestive heart failure (see section 4.4), cardiac failure, ventricular hypokinesia, pulmonary oedema and acute pulmonary oedema, sinus arrest, atrioventricular block complete, tachycardia, sinus tachycardia, supraventricular tachycardia, arrhythmia, atrial fibrillation, palpitations.
-Rare: new onset of decreased left ventricular ejection fraction.
+Uncommon: cardiac tamponade*, cardiopulmonary arrest*, cardiac arrest, cardiogenic shock, myocardial infarction, angina pectoris, angina unstable, development or exacerbation of congestive heart failure (see section 4.4), cardiac failure, ventricular hypokinesia, pulmonary oedema and acute pulmonary oedema, sinus arrest, atrioventricular block complete, tachycardia, sinus tachycardia, supraventricular tachycardia, arrhythmia, atrial fibrillation, palpitations.
+Rare: new onset of decreased left ventricular ejection fraction, pericarditis*, ventricular arrhythmia*, ventricular tachycardia*
 
 Vascular disorders
 Common: hypotension, orthostatic and postural hypotension (see sections 4.4 and 4.7), phlebitis, haematoma, hypertension.
@@ -60,25 +66,28 @@ Uncommon: cerebral hemorrhage, vasculitis, cerebrovascular accident, pulmonary h
 Respiratory, thoracic and mediastinal disorders
 Very common: dyspnoea.
 Common: dyspnoea exertional, epistaxis, cough, rhinorrhoea.
-Uncommon: respiratory arrest, hypoxia, pulmonary congestion, pleural effusion, asthma, respiratory alkalosis, tachypnoea, wheezing, nasal congestion,hoarseness, rhinitis, hyperventilation, orthopnoea, chest wall pain, sinus pain, throat tightness, productive cough.
+Uncommon: respiratory failure*, pneumonitis*, pulmonary embolism*, pulmonary hypertension*, interstitial pneumonia*, acute diffuse infiltrative pulmonary disease*, pulmonary alveolar haemorrhage*, respiratory arrest, hypoxia, pulmonary congestion, pleural effusion, asthma, respiratory alkalosis, tachypnoea, wheezing, nasal congestion,hoarseness, rhinitis, hyperventilation, orthopnoea, chest wall pain, sinus pain, throat tightness, productive cough.
+Rare: acute respiratory distress syndrome (ARDS)*, peripheral embolism*,
 
 Gastrointestinal disorders (see section 4.4)
 Very common: vomiting, diarrhoea, nausea, constipation.
 Common: abdominal pain, stomatitis, dyspepsia, loose stools, abdominal pain upper, flatulence, abdominal distension, hiccups, mouth ulceration, pharyngolaryngeal pain, dry mouth.
-Uncommon: acute pancreatitis, ileus paralytic, antibiotic associated colitis, colitis, haematemesis, diarrhoea haemorrhagic, gastrointestinal haemorrhage, rectal haemorrhage, enteritis, dysphagia, abdominal discomfort, eructation, gastrointestinal motility disorder, oral pain, retching, change in bowel habit, spleen pain, oesophagitis, gastritis, gastro-oesophageal reflux disease, gastrointestinal pain, gingival bleeding, gingival pain, hiatus hernia, irritable bowel syndrome, oral mucosal petechiae, salivary hypersecretion, tongue coated, tongue discolouration, faecal impaction.
+Uncommon: colitis ischaemic*, acute pancreatitis, ileus paralytic, antibiotic associated colitis, colitis, haematemesis, diarrhoea haemorrhagic, gastrointestinal haemorrhage, rectal haemorrhage, enteritis, dysphagia, abdominal discomfort, eructation, gastrointestinal motility disorder, oral pain, retching, change in bowel habit, spleen pain, oesophagitis, gastritis, gastro-oesophageal reflux disease, gastrointestinal pain, gingival bleeding, gingival pain, hiatus hernia, irritable bowel syndrome, oral mucosal petechiae, salivary hypersecretion, tongue coated, tongue discolouration, faecal impaction.
 
 Hepato-biliary disorders (see section 4.4)
 Uncommon: hepatitis, hepatic haemorrhage, hypoproteinaemia, hyperbilirubinaemia.
-
+Rare: hepatic failure*
 Skin and subcutaneous tissue disorders
 Very common: rash.
 Common: periorbital oedema, urticaria, rash pruritic, pruritus, erythema, sweating increased, dry skin, eczema.
-Uncommon: rash erythematous, photosensitivity reaction, contusion, pruritus generalised, rash macular, rash papular, psoriasis, rash generalized, eyelid oedema, face oedema, dermatitis, alopecia, nail disorder, skin discolouration, dermatitis atopic, hair texture abnormal, heat rash, night sweats, pressure sore, ichthyosis, skin nodule.
+Uncommon: Stevens-Johnson Syndrome*, toxic epidermal necrolysis*, rash erythematous, photosensitivity reaction, contusion, pruritus generalised, rash macular, rash papular, psoriasis, rash generalized, eyelid oedema, face oedema, dermatitis, alopecia, nail disorder, skin discolouration, dermatitis atopic, hair texture abnormal, heat rash, night sweats, pressure sore, ichthyosis, skin nodule.
+Rare: acute febrile neutrophilic dermatosis (Sweet’s syndrome)*, vasculitic rash (including leukocytoclastic vasculitis)*
 
 Musculoskeletal, connective tissue and bone disorders
 Very common: myalgia.
 Common: muscle weakness, musculoskeletal pain, pain in limb, muscle cramps, arthralgia, bone pain, back pain, peripheral swelling.
 Uncommon: muscle spasms, muscle twitching or sensation of heaviness, muscle stiffness, joint swelling, joint stiffness, buttock pain, swelling, pain in jaw.
+
 Renal and urinary disorders
 Common: renal impairment, dysuria.
 Uncommon: renal failure acute, renal failure, oliguria, renal colic, haematuria, proteinuria, urinary retention, urinary frequency, difficulty in micturition, loin pain, urinary incontinence, micturition urgency.
@@ -98,12 +107,13 @@ Uncommon: alanine aminotransferase increased, aspartate aminotransferase increas
 Injury and poisoning
 Uncommon: catheter related complications, post procedural pain, post procedural haemorrhage, burns.
 
+*from post-marketing sources
+
 Summary of safety data in patients with previously untreated multiple myeloma:
 
 The following table 5 describes safety data from 340 patients with previously untreated multiple myeloma who received VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective Phase III study.
 
 Overall, the safety profile of patients treated with VELCADE in monotherapy was similar to that observed in patients treated with VELCADE in combination with melphalan and prednisone.
-
 Table 5: Treatment emergent drug-related adverse reactions reported in ≥ 10% of patients treated with VELCADE in combination with melphalan and prednisone
 -------------- Vc+M+P ------------ ---------------- M+P ---------------
 
@@ -124,11 +134,7 @@ Leukopenia 108 ( 32) 64 ( 19) 8 ( 2) 93 ( 28) 53 ( 16) 11 ( 3)
 Lymphopenia 78 ( 23) 46 ( 14) 17 ( 5) 51 ( 15) 26 ( 8) 7 ( 2)
 
 Metabolism and nutrition disorders
--------------- Vc+M+P ------------ ---------------- M+P ---------------
 
-(n=340) (n=337)
-MedDRA System Organ Class Total Toxicity Grade, n (%) Total Toxicity Grade, n (%)
-Preferred Term n (%) 3 ≥ 4 n (%) 3 ≥ 4
 Anorexia 64 ( 19) 6 ( 2) 0 19 ( 6) 0 0
 
 Psychiatric disorders
@@ -165,43 +171,20 @@ In the Phase III study in patients with previously untreated multiple myeloma, t
 Antiviral prophylaxis was administered to 26% of the patients in the Vc+M+P arm.
 The incidence of herpes zoster among patients in the Vc+M+P treatment group was 17% for patients not administered antiviral prophylaxis compared to 3% for patients administered antiviral prophylaxis.
 
-Post-marketing experience
-Clinically significant adverse reactions are listed in Table 6, if they have been reported during post approval use of VELCADE and may or may not have been reported in clinical trials.
-Their frequency is not known.
-
-Table 6: Adverse reactions from post-marketing reports
-
-| Infections and infestations |  |
-| --- | --- |
-| Not known: | Herpes meningoencephalitis, septic shock |
-| Immune system disorders |  |
-| Not known: | Angioedema |
-| Nervous system disorders |  |
-| Not known: | Encephalopathy, autonomic neuropathy, reversible posterior leukoencephalopathy syndrome (see section 4.4) |
-| Eye disorders |  |
-| Not known: | Ophthalmic herpes |
-| Cardiac disorders |  |
-| Not known: | Cardiac tamponade, pericarditis, cardiac and cardiopulmonary arrest, ventricular arrhythmias, atrio-ventricular block complete, atrial fibrillation, tachycardia, sinus and ventricular tachycardia |
-| Respiratory, thoracic and mediastinal disorders (see section 4.4) |  |
-| Not known: | Pneumonitis, pneumonia, interstitial pneumonia, Acute Respiratory Distress Syndrome (ARDS), acute diffuse infiltrative pulmonary disease, pulmonary hypertension, respiratory failure, pulmonary alveolar haemorrhage, acute pulmonary oedema, pulmonary oedema, pulmonary embolism, peripheral embolism |
-| Gastrointestinal disorders |  |
-| Not known: | Ischemic colitis |
-| Hepatobiliary disorders |  |
-| Not known: | Liver failure |
-| Skin and subcutaneous tissue disorders |  |
-| Not known: | Stevens-Johnson Syndrome, toxic epidermal necrolysis, acute febrile neutrophilic dermatosis (Sweet’s syndrome), vasculitic rash (including leukocytoclastic vasculitis) |
-
 [VELCADE 3.5 mg powder for solution for injection]
 
-The following undesirable effects were considered by the investigators to have at least a possible or probable causal relationship to VELCADE during the conduct of 5 non-comparative Phase II studies and 1 comparative Phase III trial VELCADE vs dexamethasone in 663 patients with relapsed or refractory multiple myeloma, of whom 331 received VELCADE as single agent.
+The following undesirable effects in Table 4 were considered by the investigators to have at least a possible or probable causal relationship to VELCADE during the conduct of 5 non-comparative Phase II studies and 1 comparative Phase III trial (VELCADE vs dexamethasone) in 663 patients with relapsed or refractory multiple myeloma, of whom 331 received VELCADE as single agent.
+In addition, this table contains adverse reactions from postmarketing reports* with frequency categorization estimated from safety data comprising 2017 patients from clinical trials (including the patients from the 6 studies described above).
 
 Blood and lymphatic system disorders (see section 4.4)
 
 Nervous system disorders(see sections 4.4 and 4.7)
 
-Preferred Term n (%) 3 ≥4 n (%) 3 ≥4
+*from postmarketing sources
+
+Skin and subcutaneous tissue
+
+disorders
 
 Antiviral prophylaxis was administered to 26% of the patients in the VcMP arm.
 The incidence of herpes zoster among patients in the VcMP treatment group was 17% for patients not administered antiviral prophylaxis compared to 3% for patients administered antiviral prophylaxis.
-
-Post Marketing Experience

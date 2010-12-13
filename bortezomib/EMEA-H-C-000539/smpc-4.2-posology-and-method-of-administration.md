@@ -16,36 +16,36 @@ Grade 4 haematological toxicities, excluding neuropathy as discussed below (see 
 Once the symptoms of the toxicity have resolved, VELCADE treatment may be re-initiated at a 25% reduced dose (1.3 mg/m2 reduced to 1.0 mg/m2; 1.0 mg/m2 reduced to 0.7 mg/m2).
 If the toxicity is not resolved or if it recurs at the lowest dose, discontinuation of VELCADE must be considered unless the benefit of treatment clearly outweighs the risk.
 
+Neuropathic pain and/or peripheral neuropathy
 Patients who experience bortezomib-related neuropathic pain and/or peripheral neuropathy are to be managed as presented in Table 1 (see section 4.4).
 Patients with pre-existing severe neuropathy may be treated with VELCADE only after careful risk/benefit assessment.
-
 Table 1: Recommended* posology modifications for bortezomib-related neuropathy.
 
 | Severity of neuropathy | Posology modification |
 | --- | --- |
-| Grade 1 (paraesthesia, weakness and/or loss of reflexes) with no pain or loss of function | No action |
-| Grade 1 with pain or Grade 2 (interfering with function but not with activities of daily living) | Reduce to 1.0 mg/m2 |
+| Grade 1 (paraesthesia, weakness and/or loss of reflexes) with no pain or loss of function | None |
+| Grade 1 with pain or Grade 2 (interfering with function but not with activities of daily living) | Reduce VELCADE to 1.0 mg/m2 |
 | Grade 2 with pain or Grade 3 (interfering with activities of daily living) | Withhold VELCADE treatment until symptoms of toxicity have resolved. When toxicity resolves re-initiate VELCADE treatment and reduce dose to 0.7 mg/m2 and change treatment schedule to once per week. |
 | Grade 4 (sensory neuropathy which is disabling or motor neuropathy that is life threatening or leads to paralysis) and/or severe autonomic neuropathy | Discontinue VELCADE |
 
 *Based on posology modifications in Phase II and III multiple myeloma studies and post-marketing experience.
 
 Special populations
-Paediatric population
-The safety and efficacy of VELCADE in children below age 18 have not yet been established (see sections 5.1 and 5.2).
-
-Elderly patients
-There is no evidence to suggest that dose adjustments are necessary in patients over 65 years of age (see section 4.8).
+Hepatic impairment
+VELCADE has not been studied in patients with impaired hepatic function.
+Significant hepatic impairment may have an impact on the elimination of bortezomib and may increase the likelihood of interactions with other active substances.
+Patients with impaired liver function should be treated with extreme caution and a dose reduction should be considered (see sections 4.3 and 4.4).
 
 Renal impairment
 The pharmacokinetics of bortezomib are not influenced in patients with mild to moderate renal impairment (Creatinine Clearance (CrCL) > 20 ml/min/1.73 m2); therefore, dose adjustments are not necessary for these patients.
 It is unknown if the pharmacokinetics of bortezomib are influenced in patients with severe renal impairment not undergoing dialysis (CrCL< 20 ml/min/1.73 m2).
 Since dialysis may reduce bortezomib concentrations, VELCADE should be administered after the dialysis procedure (see section 5.2).
 
-Hepatic impairment
-VELCADE has not been studied in patients with impaired hepatic function.
-Significant hepatic impairment may have an impact on the elimination of bortezomib and may increase the likelihood of interactions with other active substances.
-Patients with impaired liver function should be treated with extreme caution and a dose reduction should be considered (see sections 4.3 and 4.4).
+Elderly patients
+There is no evidence to suggest that dose adjustments are necessary in patients over 65 years of age (see section 4.8).
+
+Paediatric population
+The safety and efficacy of VELCADE in children below age 18 have not yet been established (see sections 5.1 and 5.2).
 
 Posology for combination therapy
 VELCADE (bortezomib) is administered in combination with oral melphalan and oral prednisone for nine 6-week treatment cycles as shown in Table 2.
@@ -70,10 +70,7 @@ Once weekly VELCADE (cycles 5-9)
 
 Vc = VELCADE; M = melphalan, P = prednisone
 
-Dose adjustments for combination therapy
-
-Dose modification and re-initiation of therapy when VELCADE is administered in combination with melphalan and prednisone
-
+Dose adjustments during treatment and re-initiation of treatment for combination therapy
 Prior to initiating a new cycle of therapy:
 
 - Platelet counts should be ≥ 70 x 109/l and the absolute neutrophils count should be ≥ 1.0 x 109/l
@@ -89,7 +86,6 @@ Table 3: Posology modifications during subsequent cycles:
 | Grade ≥ 3 non-haematological toxicities | VELCADE therapy should be withheld until symptoms of the toxicity have resolved to Grade 1 or baseline. Then, VELCADE may be reinitiated with one dose level reduction (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). For VELCADE-related neuropathic pain and/or peripheral neuropathy, hold and/or modify VELCADE as outlined in Table 1. |
 
 For additional information concerning melphalan and prednisone, see the corresponding Summary of Product Characteristics.
-
 Method of administration
 The reconstituted solution is administered as a 3-5 second bolus intravenous injection through a peripheral or central intravenous catheter followed by a flush with sodium chloride 9 mg/ml (0.9%) solution for injection.
 
@@ -105,5 +101,3 @@ It is unknown if the pharmacokinetics of bortezomib are influenced in patients w
 Vc = VELCADE; M = melphalan, P=prednisone
 
 - Platelet counts should be ≥70 x 109/l and the absolute neutrophils count should be ≥ 1.0 x 109/l
-
-Table3: Posology modifications during subsequent cycles
