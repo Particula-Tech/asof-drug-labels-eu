@@ -61,8 +61,8 @@ The efficacy of contraceptive steroids may be reduced during co-treatment with d
 
 Implants and levonorgestrel-releasing intrauterine systems are associated with an increased risk of infection at the time of insertion and irregular vaginal bleeding.
 Prophylactic antibiotics should be considered particularly in patients with neutropenia.
-
 Copper-releasing intrauterine devices are generally not recommended due to the potential risks of infection at the time of insertion and menstrual blood loss which may compromise patients with neutropenia or thrombocytopenia.
+
 Pregnancy testing
 According to local practice, medically supervised pregnancy tests with a minimum sensitivity of 25 mIU/ml must be performed for women of childbearing potential as outlined below.
 This requirement includes women of childbearing potential who practice absolute and continuous abstinence.
@@ -97,7 +97,6 @@ Cardiovascular disorders
 Myocardial Infarction
 Myocardial infarction has been reported in patients receiving lenalidomide, particularly in those with known risk factors.
 Patients with known risk factors – including prior thrombosis – should be closely monitored, and action should be taken to try to minimize all modifiable risk factors (eg. smoking, hypertension, and hyperlipidaemia).
-
 Venous and arterial thromboembolic events
 In patients with multiple myeloma, the combination of lenalidomide with dexamethasone is associated with an increased risk of venous thromboembolism (predominantly deep vein thrombosis and pulmonary embolism) and arterial thromboembolism (predominantly myocardial infarction and cerebrovascular event) – see sections 4.5 and 4.8.
 
@@ -135,9 +134,9 @@ Therefore, co-administration of lenalidomide with other myelosuppressive agents 
 Renal impairment
 Lenalidomide is substantially excreted by the kidney.
 Therefore care should be taken in dose selection and monitoring of renal function is advised in patients with renal impairment (see section 4.2).
-
 Thyroid function
 Cases of hypothyroidism have been reported and monitoring of thyroid function should be considered.
+
 Peripheral neuropathy
 Lenalidomide is structurally related to thalidomide, which is known to induce severe peripheral neuropathy.
 At this time, the neurotoxic potential of lenalidomide associated with long-term use cannot be ruled out.

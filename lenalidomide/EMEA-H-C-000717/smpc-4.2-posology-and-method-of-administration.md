@@ -4,7 +4,7 @@ Treatment must be initiated and monitored under the supervision of physicians ex
 
 Administration
 Revlimid capsules should be taken at about the same time each day.
-The capsules should not be broken or chewed.
+The capsules should not be opened, broken or chewed.
 The capsules should be swallowed whole, preferably with water, either with or without food.
 If less than 12 hours has elapsed since missing a dose, the patient can take the dose.
 If more than 12 hours has elapsed since missing a dose at the normal time, the patient should not take the dose, but take the next dose at the normal time on the following day.
@@ -73,6 +73,8 @@ The following dose adjustments are recommended at the start of therapy for patie
 
 * The dose may be escalated to 15 mg once daily after 2 cycles if patient is not responding to treatment and is tolerating the treatment.
 ** The dose may be escalated to 10 mg once daily if the patient is tolerating the treatment
+
+After initiation of lenalidomide therapy, subsequent lenalidomide dose modification in renally impaired patients should be based on individual patient treatment tolerance, as described above.
 
 Use in patients with impaired hepatic function
 Lenalidomide has not formally been studied in patients with impaired hepatic function and there are no specific dose recommendations.
