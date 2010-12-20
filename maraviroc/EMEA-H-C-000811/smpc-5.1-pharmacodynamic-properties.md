@@ -11,8 +11,7 @@ Maraviroc has no antiviral activity in vitro against viruses which can use CXCR4
 The serum adjusted EC90 value in 43 primary HIV-1 clinical isolates was 0.57 (0.06 – 10.7) ng/mL without significant changes between different subtypes tested.
 The antiviral activity of maraviroc against HIV-2 has not been evaluated.
 For details please refer to http://www.ema.europa.eu/htms/human/epar/eparintro.
-
-When used with other antiretroviral medicinal products in cell culture, the combination of maraviroc was not antagonistic with a range of NRTIs ,NNRTIs, PIs or the HIV fusion inhibitor enfuvirtide.
+When used with other antiretroviral medicinal products in cell culture, the combination of maraviroc was not antagonistic with a range of NRTIs, NNRTIs, PIs or the HIV fusion inhibitor enfuvirtide.
 
 Resistance:
 Viral escape from maraviroc can occur via 2 routes: the selection of virus which can use CXCR4 as its entry co-receptor (CXCR4-using virus) or the selection of virus that continues to use exclusively CCR5 (CCR5-tropic virus).
@@ -34,7 +33,7 @@ HIV-1 clinical isolates resistant to nucleoside analogue reverse transcriptase i
 Maraviroc-resistant viruses that emerged in vitro remained sensitive to the fusion inhibitor enfuvirtide and the protease inhibitor saquinavir.
 
 In vivo:
-Treatment experienced patients
+Treatment-experienced patients
 In the pivotal studies (MOTIVATE 1 and MOTIVATE 2), 7.6% of patients had a change in tropism result from CCR5-tropic to CXCR4-tropic or dual/mixed-tropic between screening and baseline (a period of 4-6 weeks).
 
 Failure with CXCR4-using virus:
@@ -45,7 +44,6 @@ An analysis of tropism following failure of CELSENTRI therapy with CXCR4-using v
 
 At time of failure with CXCR4-using virus, the resistance pattern to other antiretrovirals appears similar to that of the CCR5-tropic population at baseline, based on available data.
 Hence, in the selection of a treatment regimen, it should be assumed that viruses forming part of the previously undetected CXCR4 -using population (i.e. minor viral population) harbours the same resistance pattern as the CCR5-tropic population.
-
 Failure with CCR5-tropic virus:
 Phenotypic resistance: in patients with CCR5-tropic virus at time of treatment failure with CELSENTRI, 22 out of 58 patients had virus with reduced sensitivity to maraviroc.
 In the remaining 36 patients, there was no evidence of virus with reduced sensitivity as identified by exploratory virology analyses on a representative group.
@@ -76,17 +74,11 @@ Table 5: Demographic and baseline characteristics of patients in studies MOTIVAT
 | Median Baseline CD4+ Cell Count (cells/mm3) (range, cells/mm3) | 166.8 (2.0-820.0) | 171.3 (1.0-675.0) |
 | Screening Viral Load >100,000 copies/mL | 179 (42.0%) | 84 (40.2%) |
 | Baseline CD4+ Cell Count ≤200 cells/mm3 | 250 (58.7%) | 118 (56.5%) |
-| Number (Percentage) of patients with GSS score: |  |  |
-
-0 102 (23.9%) 51 (24.4%)
-1 138 (32.4%) 53 (25.4%)
-2 80 (18.8%) 41 (19.6%)
-≥3 104 (24.4%) 59 (28.2%)
+| Number (Percentage) of patients with GSS score: 0 1 2 ≥3 | 102 (23.9%) 138 (32.4%) 80 (18.8%) 104 (24.4%) | 51 (24.4%) 53 (25.4%) 41 (19.6%) 59 (28.2%) |
 
 GeneSeq resistance assay
 
 Limited numbers of patients from ethnicities other than Caucasian were included in the pivotal clinical studies, therefore very limited data are available in these patient populations.
-
 The mean increase in CD4+ cell count from baseline in patients who failed with a change in tropism result to dual/mixed tropic or CXCR4, in the CELSENTRI 300 mg twice daily + OBT
 (+56 cells/mm3) group was greater than that seen in patients failing OBT alone (+13.8 cells/mm3) regardless of tropism.
 
@@ -107,6 +99,7 @@ CELSENTRI 300 mg twice daily + OBT was superior to OBT alone across all subgroup
 Patients with very low CD4+ count at baseline (i.e. <50 cells/uL) had a less favourable outcome.
 This subgroup had a high degree of bad prognostic markers, i.e. extensive resistance and high baseline viral loads.
 However, a significant treatment benefit for CELSENTRI compared to OBT alone was still demonstrated (see Table 7).
+
 Table 7.
 Proportion of patients achieving <50 copies/mL at Week 48 by subgroup (pooled Studies MOTIVATE 1 and MOTIVATE 2, ITT)
 
@@ -119,27 +112,12 @@ Proportion of patients achieving <50 copies/mL at Week 48 by subgroup (pooled St
 
 1Discontinuations or virological failures considered as failures.
 2Based on GSS.
-
 Studies in Non-CCR5-tropic Treatment-Experienced Patients:
 Study A4001029 was an exploratory study in patients infected with dual/mixed or CXCR4 tropic HIV-1 with a similar design as the studies MOTIVATE 1 and MOTIVATE 2.
 In this study, neither superiority nor non-inferiority to OBT alone were demonstrated although there was no adverse outcome on viral load or CD4+ cell count
 
-Studies in Treatment Naïve Patients
+Studies in Treatment-Naïve Patients
 An ongoing randomised, double-blinded study (MERIT), is exploring CELSENTRI versus efavirenz, both in combination with zidovudine/lamivudine (n=721, 1:1).
 After 48 weeks of treatment, CELSENTRI did not reach non-inferiority to efavirenz for the endpoint of HIV-1 RNA < 50 copies/mL (65.3 vs. 69.3 % respectively, lower confidence bound -11.9%).
 More patients treated with CELSENTRI discontinued due to lack of efficacy (43 vs.15) and among patients with lack of efficacy, the proportion acquiring NRTI resistance (mainly lamivudine) was higher in the CELSENTRI arm.
-Fewer patients discontinued CELSENTRI due to adverse events (15 vs.49).
-
-[CELSENTRI 300 mg film-coated tablets.]
-
-| Demographic and Baseline Characteristics | CELSENTRI 300 mg twice daily + OBT | OBT alone |
-| --- | --- | --- |
-|  | N = 426 | N = 209 |
-| Age (years) (Range, years) | 46.3 21-73 | 45.7 29-72 |
-| Male Sex | 89.7% | 88.5% |
-| Race (White/Black/Other) | 85.2% / 12% / 2.8% | 85.2% / 12.4% / 2.4% |
-| Mean Baseline HIV-1 RNA (log10 copies/mL) | 4.85 | 4.86 |
-| Median Baseline CD4+ Cell Count (cells/mm3) (range, cells/mm3) | 166.8 (2.0-820.0) | 171.3 (1.0-675.0) |
-| Screening Viral Load >100,000 copies/mL | 179 (42.0%) | 84 (40.2%) |
-| Baseline CD4+ Cell Count ≤200 cells/mm3 | 250 (58.7%) | 118 (56.5%) |
-| Number (Percentage) of patients with GSS score: 0 1 2 ≥3 | 102 (23.9%) 138 (32.4%) 80 (18.8%) 104 (24.4%) | 51 (24.4%) 53 (25.4%) 41 (19.6%) 59 (28.2%) |
+Fewer patients discontinued CELSENTRI due to adverse events (15 vs. 49).

@@ -12,6 +12,7 @@ Therefore, CELSENTRI can be taken with or without food at the recommended doses 
 
 Distribution: maraviroc is bound (approximately 76%) to human plasma proteins, and shows moderate affinity for albumin and alpha-1 acid glycoprotein.
 The volume of distribution of maraviroc is approximately 194 L.
+
 Metabolism: studies in humans and in vitro studies using human liver microsomes and expressed enzymes have demonstrated that maraviroc is principally metabolized by the cytochrome P450 system to metabolites that are essentially inactive against HIV-1.
 In vitro studies indicate that CYP3A4 is the major enzyme responsible for maraviroc metabolism.
 In vitro studies also indicate that polymorphic enzymes CYP2C9, CYP2D6 and CYP2C19 do not contribute significantly to the metabolism of maraviroc.
@@ -28,7 +29,6 @@ The remainder was excreted as metabolites.
 After intravenous administration (30 mg), the half-life of maraviroc was 13.2 h, 22% of the dose was excreted unchanged in the urine and the values of total clearance and renal clearance were 44.0 L/h and 10.17 L/h respectively.
 
 Children: the pharmacokinetics of maraviroc in paediatric patients have not been established (see section 4.2).
-
 Elderly: population analysis of the Phase 1/2a and Phase 3 studies (16-65 years of age) has been conducted and no effect of age has been observed (see section 4.2).
 
 Renal impairment: a study compared the pharmacokinetics of a single 300 mg dose of CELSENTRI in subjects with severe renal impairment (CLcr < 30 mL/min, n=6) and end stage renal disease (ESRD) to healthy volunteers (n=6).
@@ -45,6 +45,7 @@ The Cavg of CELSENTRI from 24-48 hours for subjects with moderate renal impairme
 Therefore, dosing frequencies of longer than 24 hours in subjects with renal impairment may result in inadequate exposures between 24-48 hours.
 
 Dose adjustment is necessary in patients with renal impairment receiving CELSENTRI with potent CYP3A4 inhibitors (see sections 4.2 and 4.4 and 4.5).
+
 Hepatic impairment: maraviroc is primarily metabolized and eliminated by the liver.
 A study compared the pharmacokinetics of a single 300 mg dose of CELSENTRI in patients with mild (Child-Pugh Class A, n=8), and moderate (Child-Pugh Class B, n=8) hepatic impairment compared to healthy subjects (n=8).
 Geometric mean ratios for Cmax and AUClast were 11% and 25% higher respectively for subjects with mild hepatic impairment, and 32% and 46% higher respectively for subjects with moderate hepatic impairment compared to subjects with normal hepatic function.

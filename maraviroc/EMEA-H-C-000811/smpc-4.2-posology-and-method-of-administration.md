@@ -13,8 +13,8 @@ Alternative treatment options should be considered.
 
 Adults: the recommended dose of CELSENTRI is 150 mg, 300 mg or 600 mg twice daily depending on interactions with co-administered antiretroviral therapy and other medicinal products (see Table 2 in Section 4.5).
 CELSENTRI can be taken with or without food.
-
 Children: CELSENTRI is not recommended for use in children due to lack of data on safety, efficacy and pharmacokinetics (see section 5.2).
+
 Elderly: there is limited experience in patients >65 years of age (see section 5.2), therefore CELSENTRI should be used with caution in this population.
 
 Renal impairment: dosage adjustment is only recommended in patients with renal impairment who are receiving potent CYP3A4 inhibitors such as:
@@ -33,7 +33,7 @@ Dose and interval adjustments for patients with renal impairment
 | Recommended CELSENTRI dose interval | Creatinine clearance <80 mL/min |
 | --- | --- |
 | If administered without potent CYP3A4 inhibitors or if co-administered with tipranavir/ritonavir | No dose interval adjustment required |
-| If coadministered with fosamprenavir/ritonavir | CELSENTRI 150 mg every 12 hours |
-| If coadministered with potent CYP3A4 inhibitors, e.g. saquinavir/ritonavir, lopinavir/ritonavir, darunavir/ritonavir, atazanavir/ritonavir, ketoconazole | CELSENTRI 150 mg every 24 hours |
+| If co-administered with fosamprenavir/ritonavir | CELSENTRI 150 mg every 12 hours |
+| If co-administered with potent CYP3A4 inhibitors, e.g. saquinavir/ritonavir, lopinavir/ritonavir, darunavir/ritonavir, atazanavir/ritonavir, ketoconazole | CELSENTRI 150 mg every 24 hours |
 
 Hepatic impairment: limited data are available in patients with hepatic impairment, therefore CELSENTRI should be used with caution in this population (see sections 4.4 and 5.2).

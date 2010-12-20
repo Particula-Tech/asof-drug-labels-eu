@@ -1,6 +1,10 @@
 # 2. QUALITATIVE AND QUANTITATIVE COMPOSITION
 
+2.1 General description
+
 Each film-coated tablet contains 150 mg of maraviroc.
+
+2.2 Qualitative and quantitative composition
 
 Excipients
 Each 150 mg film-coated tablet contains 0.84 mg of soya lecithin.
