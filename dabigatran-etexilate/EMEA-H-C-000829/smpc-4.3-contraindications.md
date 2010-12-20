@@ -6,4 +6,4 @@
 - Organic lesion at risk of bleeding
 - Spontaneous or pharmacological impairment of haemostasis
 - Hepatic impairment or liver disease expected to have any impact on survival
-- Concomitant treatment with quinidine (see section 4.5)
+- Concomitant treatment with systemic ketoconazole (see section 4.5)

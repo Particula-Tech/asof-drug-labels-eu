@@ -29,10 +29,9 @@ Composite of total VTE (including PE, proximal and distal DVT, whatever symptoma
 Composite of major VTE (including PE and proximal DVT, whatever symptomatic or asymptomatic detected by routine venography) and VTE-related mortality constituted a secondary end-point and is considered of better clinical relevance.
 Results of both studies showed that the antithrombotic effect of Pradaxa 220 mg and 150 mg were statistically non-inferior to that of enoxaparin on total VTE and all-cause mortality.
 The point estimate for incidence of Major VTE and VTE related mortality for the 150 mg dose was slightly worse than enoxaparin (table 4).
-Better results were seen with the 220 mg dose where the point estimate of Major VTE was slightly better than enoxaparin (table 4)."
+Better results were seen with the 220 mg dose where the point estimate of Major VTE was slightly better than enoxaparin (table 4).
 
 The clinical studies have been conducted in a patient population with a mean age > 65 years.
-
 There were no differences in the phase 3 clinical studies for efficacy and safety data between men and women.
 
 In the studied patient population of RE-MODEL and RE-NOVATE (5539 patients treated), 51 % suffered from concomitant hypertension, 9 % from concomitant diabetes, 9 % from concomitant coronary artery disease and 20 % had a history of venous insufficiency.

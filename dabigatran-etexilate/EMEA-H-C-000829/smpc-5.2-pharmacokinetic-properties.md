@@ -15,7 +15,7 @@ Food does not affect the bioavailability of dabigatran etexilate but delays the 
 
 The oral bioavailability may be increased by 75 % compared to the reference capsule formulation when the pellets are taken without the HPMC capsule shell.
 Hence, the integrity of the HPMC capsules should always be preserved in clinical use to avoid unintentionally increased bioavailability of dabigatran etexilate.
-Therefore, patients should be advised not to open the capsules and taking the pellets alone (e.g. sprinkled over food or into beverages) (see section 4.2).
+Therefore, patients should be advised not to open the capsules and taking the pellets alone (e.g. sprinkled over food or into beverages) (see section 4.2)
 
 Distribution:
 
@@ -64,6 +64,8 @@ Ethnic origin does not affect the pharmacokinetics of dabigatran in a clinically
 No pharmacokinetic data in black patients are available.
 
 Pharmacokinetic interactions:
+The pro-drug dabigatran etexilate but not dabigatran is a substrate of the efflux transporter P-glycoprotein.
+Therefore co-medications with P-glycoprotein transporter inhibitors (amiodarone, verapamil, clarithromycin, quinidine and ketoconazole) and inducers (rifampicin) had been investigated (see section 4.2, 4.4 and 4.5).
+
 In vitro interaction studies did not show any inhibition or induction of the principal isoenzymes of cytochrome P450.
 This has been confirmed by in vivo studies with healthy volunteers, who did not show any interaction between this treatment and the following active substances: atorvastatin (CYP3A4), digoxin (P-glycoprotein transporter interaction) and diclofenac (CYP2C9).
-Dabigatran exposure in healthy subjects was increased by 60 % in the presence of amiodarone.

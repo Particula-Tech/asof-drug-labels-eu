@@ -62,8 +62,9 @@ Children and adolescents:
 There is no experience in children and adolescents.
 Pradaxa is not recommended for use in patients below 18 years due to lack of data on safety and efficacy.
 
-Concomitant use of Pradaxa with amiodarone or verapamil:
-Dosing should be reduced to 150 mg Pradaxa daily in patients who received concomitantly dabigatran etexilate and amiodarone or verapamil (see sections 4.4 and 4.5).
+Concomitant use of Pradaxa with strong P-glycoprotein inhibitors, i.e. amiodarone, quinidine or verapamil:
+Dosing should be reduced to 150 mg Pradaxa daily in patients who received concomitantly dabigatran etexilate and amiodarone, quinidine or verapamil (see sections 4.4 and 4.5).
+In this situation Pradaxa and these medicinal products should be taken at the same time.
 
 In patients with moderate renal impairment and concomitantly treated with dabigatran etexilate and verapamil, a dose reduction of Pradaxa to 75 mg daily should be considered (see sections 4.4 and 4.5).
 

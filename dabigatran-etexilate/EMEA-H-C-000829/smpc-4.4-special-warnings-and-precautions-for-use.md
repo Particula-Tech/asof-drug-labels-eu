@@ -15,8 +15,9 @@ High aPTT values should be interpreted with caution.
 If required, more sensitive quantitative tests such as calibrated diluted Thrombin Time should be performed.
 
 Close clinical surveillance (looking for signs of bleeding or anaemia) is recommended throughout the treatment period, especially in the following situations that may increase the hemorrhagic risk: diseases associated with an increased risk of bleeding, such as congenital or acquired coagulation disorders, thrombocytopenia or functional platelet defects, active ulcerative gastrointestinal disease, recent biopsy or major trauma, recent intracranial haemorrhage or brain, spinal or ophthalmic surgery, bacterial endocarditis.
-Plasma concentrations of dabigatran might be elevated when co-administered with strong P-gp inhibitors (e.g. verapamil, amiodarone).
-This may increase the risk of bleeding and these patients should be closely clinically monitored (looking for signs of bleeding and anaemia) (see sections 4.2 and 4.5).
+
+Factors, such as decreased renal function (30-50 ml/min CrCL), age ≥ 75 years, or strong P-glycoprotein-inhibitor comedication (e.g. amiodarone, quinidine or verapamil) are associated with increased dabigatran plasma levels.
+The presence of one or more than one of these factors may increase the risk of bleeding and these patients should be closely clinically monitored (looking for signs of bleeding and anaemia) (see sections 4.2, 4.5 and 5.2).
 
 Patients with moderate renal impairment have an increased exposure to dabigatran.
 Limited data is available in patients < 50 kg and the elderly (see sections 4.2 and 5.2).
@@ -25,6 +26,10 @@ In these situations, Pradaxa should be used with caution and a close clinical su
 When severe bleedings occur treatment must be discontinued and the source of bleeding investigated (see section 4.9).
 
 Agents that may enhance the risk of haemorrhage should not be administered concomitantly or should be administered with caution with Pradaxa (see section 4.5).
+
+Interaction with P-glycoprotein inducers:
+The concomitant use of dabigatran etexilate with the strong P-glycoprotein inducer rifampicin reduces dabigatran plasma concentrations.
+Other P-glycoprotein inducers such as St. John`s Wort or carbamazepine are also expected to reduce dabigatran plasma concentrations, and should be avoided (see sections 4.5 and 5.2).
 
 Patients at high surgical mortality risk and with intrinsic risk factors for thromboembolic events:
 
