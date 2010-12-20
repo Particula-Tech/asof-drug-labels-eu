@@ -1,3 +1,8 @@
 # 8. MARKETING AUTHORISATION NUMBER
 
 EU/1/04/306/001
+
+[Aloxi 500 micrograms soft capsules]
+
+EU/1/04/306/002
+EU/1/04/306/003

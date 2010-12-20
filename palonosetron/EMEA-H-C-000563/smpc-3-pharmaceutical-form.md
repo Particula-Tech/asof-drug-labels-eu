@@ -7,4 +7,4 @@ Clear, colourless solution.
 
 Soft capsule.
 
-Light beige, opaque, oval, soft gelatine capsules, imprinted with black logo “ALO”, filled with a clear yellowish solution.
+Light beige, opaque, oval, soft gelatine capsules, imprinted with black logo “AlO”, filled with a clear yellowish solution.

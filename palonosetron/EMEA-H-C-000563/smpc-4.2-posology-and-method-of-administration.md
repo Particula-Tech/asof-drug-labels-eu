@@ -17,13 +17,14 @@ No dose adjustment is necessary for the elderly.
 
 Paediatric population
 
-Aloxi is not recommended for use in paediatric population (below age 18) due to insufficient data.
+The safety and efficacy in children have not been established.
+Currently available data are described in section 5.1 and section 5.2, but no recommendation on posology can be made.
 
 Hepatic impairment
 
 No dose adjustment is necessary for patients with impaired hepatic function.
-
 Renal impairment
+
 No dose adjustment is necessary for patients with impaired renal function.
 No data are available for patients with end stage renal disease undergoing haemodialysis.
 
@@ -35,8 +36,6 @@ For intravenous use.
 Aloxi should be used only before chemotherapy administration.This medicinal product should be administered by a healthcare professional under appropriate medical supervision.
 
 500 micrograms palonosetron administered orally approximately one hour before the start of chemotherapy.
-
-Aloxi is not recommended for use in paediatric population (below the age of 18) due to insufficient data.
 
 For oral use.
 Aloxi can be taken with or without food.

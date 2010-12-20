@@ -12,7 +12,6 @@ Pharmacokinetic simulations indicate that the overall exposure (AUC0-∞) of 0.2
 Distribution
 Palonosetron at the recommended dose is widely distributed in the body with a volume of distribution of approximately 6.9 to 7.9 l/kg.
 Approximately 62 % of palonosetron is bound to plasma proteins.
-
 Biotransformation
 Palonosetron is eliminated by dual route, about 40 % eliminated through the kidney and with approximately 50 % metabolised to form two primary metabolites, which have less than 1 % of the 5HT3 receptor antagonist activity of palonosetron.
 In vitro metabolism studies have shown that CYP2D6 and to a lesser extent, CYP3A4 and CYP1A2 isoenzymes are involved in the metabolism of palonosetron.
@@ -36,7 +35,11 @@ Gender does not affect the pharmacokinetics of palonosetron.
 No dosage adjustment is necessary based on gender.
 
 Paediatric population
-No pharmacokinetic data are available in patients below 18 years of age.
+Across all age groups, (>28 days to 23 months (11 patients), 2 to 11 years (30 patients), and 12 to 17 years of age (29 patients)) of CINV paediatric patients, exposure to palonosetron was generally dose proportional for the 3μg/kg and 10μg/kg dose levels.
+Both clearance and volume of distribution appear to increase with increasing age largely due to the expected increase in body weight among the age groups.
+Mean terminal elimination half-life values ranged from 21-37 hours and did not change with dose or age.
+There was no effect of gender on clearance, volume of distribution or half-life.
+Please see section 4.2 for information on paediatric use.
 
 Renal impairment
 Mild to moderate renal impairment does not significantly affect palonosetron pharmacokinetic parameters.
@@ -71,5 +74,4 @@ No dose adjustment is necessary in elderly patients.
 No dose adjustment is necessary based on gender.
 
 Paediatric patients
-
 No dose adjustment is necessary in patients with renal insufficiency.

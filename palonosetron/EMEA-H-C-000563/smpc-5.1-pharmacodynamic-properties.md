@@ -99,6 +99,21 @@ The objective was to evaluate the ECG effects of IV administered palonosetron at
 The study demonstrated no effect on QT/QTc interval duration as well as any other ECG interval at doses up to 2.25 mg.
 No clinically significant changes were shown on heart rate, atrioventricular (AV) conduction and cardiac repolarisation.
 
+Paediatric population
+Prevention of Chemotherapy Induced Nausea and Vomiting (CINV):
+The safety and efficacy of Palonosetron i.v at single doses of 3µg/kg and 10µg/kg was investigated in a clinical study in 72 patients in the following age groups, >28 days to 23 months (12 patients), 2 to 11 years (31 patients), and 12 to 17 years of age (29 patients), receiving highly or moderately emetogenic chemotherapy.
+No safety concerns were raised at either dose level.
+The primary efficacy variable was the proportion of patients with a complete response (CR, defined as no emetic episode and no rescue medication) during the first 24 hours after the start of chemotherapy administration.
+Efficacy after palonosetron 10 µg/kg compared to palonosetron 3µg/kg was 54.1% and 37.1% respectively.
+Pharmacokinetic information is provided in section 5.2.
+
+Prevention of Post Operative Nausea and Vomiting (PONV):
+The safety and efficacy of Palonosetron i.v at single doses of 1µg/kg and 3µg/kg was compared in a clinical study in 150 patients in the following age groups, >28 days to 23 months (7 patients), 2 to 11 years (96 patients), and 12 to 16 years of age (47 patients) undergoing elective surgery.
+No safety concerns were raised in either treatment group.
+The proportion of patients without emesis during 0-72 hours post-operatively was similar after palonosetron 1 µg/kg or 3 µg/kg (88% vs 84%).
+
+Please see section 4.2 for information on paediatric use.
+
 [Aloxi 500 micrograms soft capsules]
 
 Pharmacotherapeutic group: Antiemetics and antinauseants, Serotonin (5HT3) antagonists, ATC code: A04AA05
