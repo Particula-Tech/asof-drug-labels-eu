@@ -9,6 +9,7 @@ Neutralising the biological activity of VEGF regresses the vascularisation of tu
 Pharmacodynamic effects
 Administration of bevacizumab or its parental murine antibody to xenotransplant models of cancer in nude mice resulted in extensive anti-tumour activity in human cancers, including colon, breast, pancreas and prostate.
 Metastatic disease progression was inhibited and microvascular permeability was reduced.
+
 Clinical efficacy
 
 Metastatic carcinoma of the colon or rectum (mCRC)
@@ -40,6 +41,7 @@ The addition of Avastin to IFL resulted in statistically significant increases i
 The clinical benefit, as measured by overall survival, was seen in all pre-specified patient subgroups, including those defined by age, sex, performance status, location of primary tumour, number of organs involved and duration of metastatic disease.
 
 The efficacy results of Avastin in combination with IFL-chemotherapy are displayed in Table 3.
+
 Table 3 Efficacy results for trial AVF2107g
 
 |  | AVF2107g |  |
@@ -80,6 +82,7 @@ The addition of Avastin 5 mg/kg every two weeks to 5-FU/FA resulted in higher ob
 These efficacy data are consistent with the results from trial AVF2107g.
 
 The efficacy data from trials AVF0780g and AVF2192g investigating Avastin in combination with 5-FU/FA-chemotherapy are summarised in Table 4.
+
 Table 4 Efficacy results for trials AVF0780g and AVF2192g
 
 |  | AVF0780g |  |  | AVF2192g |  |
@@ -241,6 +244,7 @@ Patients were randomised in a 1:1:1 ratio to treatment with either
 Docetaxel, Avastin or placebo treatment was continued until disease progression/death or unacceptable toxicity.
 Docetaxel treatment was limited to a maximum of 9 cycles.
 The patient and disease characteristics were similar across the three arms.
+
 On documented disease progression, patients from all three treatment arms could enter into a post-trial treatment phase during which they received open-label Avastin together with a wide-range of subsequent lines of therapies.
 (The percentage of patients in each arm who received open-label Avastin were: placebo + doc: 42%, Avastin 7.5 + doc: 37% and Avastin 15 + doc: 26%).
 The primary endpoint was progression free survival (PFS), as assessed by investigators.

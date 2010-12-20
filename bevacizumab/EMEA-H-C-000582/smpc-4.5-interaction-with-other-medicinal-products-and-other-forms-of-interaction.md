@@ -24,5 +24,6 @@ All of these findings were reversible upon discontinuation of bevacizumab and su
 
 Combination with platinum- or taxane-based therapies (see sections 4.4 and 4.8)
 Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe neutropenia (including some fatalities) have been observed mainly in patients treated with platinum-or taxane-based therapies in the treatment of NSCLC and mBC.
+
 Radiotherapy
 The safety and efficacy of concomitant administration of radiotherapy and Avastin has not been established.

@@ -9,7 +9,6 @@ The most serious adverse reactions were:
 - Arterial thromboembolism (see section 4.4).
 
 The most frequently observed adverse reactions across clinical trials in patients receiving Avastin were hypertension, fatigue or asthenia, diarrhoea and abdominal pain.
-
 Analyses of the clinical safety data suggest that the occurrence of hypertension and proteinuria with Avastin therapy are likely to be dose-dependent.
 
 Table 1 lists adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications.
@@ -33,12 +32,11 @@ Table 1 Very common and common adverse reactions
 | Cardiac disorders |  | Cardiac failure congestive Supraventricular tachycardia |  |
 | Vascular disorders | Hypertension | Thromboembolism (arterial)* Deep vein thrombosis Haemorrhage | Hypertension |
 | Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism Dyspnoea Hypoxia Epistaxis | Dyspnoea Epistaxis Rhinitis |
+|  | Very common | Common | Very common |
 | Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal Perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder Stomatitis | Constipation Stomatitis Rectal haemorrhage |
 | Skin and subcutaneous tissue disorders |  | Palmar-plantar erythrodysaesthesia syndrome | Exfoliative dermatitis Dry skin Skin discolouration |
 | Musculoskeletal, connective tissue and bone disorders |  | Muscular weakness Myalgia | Arthralgia |
-| Renal and urinary disorders |  | Proteinuria Urinary Tract | Proteinuria |
-|  | Very common | Common | Very common |
-|  |  | Infection |  |
+| Renal and urinary disorders |  | Proteinuria Urinary Tract Infection | Proteinuria |
 | General disorders and administration site conditions | Asthenia Fatigue | Pain Lethargy Mucosal inflammation | Pyrexia Asthenia Pain Mucosal inflammation |
 
 * Pooled arterial thromboembolic events including cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic events.
@@ -61,7 +59,6 @@ Avastin use has been associated with serious cases of fistulae including events 
 In clinical trials, gastrointestinal fistulae have been reported with an incidence of up to 2% in patients with metastatic colorectal cancer, but were also reported less commonly in patients with other types of cancers.
 Uncommon (≥ 0.1% to < 1%) reports of other types of fistulae that involve areas of the body other than the gastrointestinal tract (e.g. bronchopleural, urogenital and biliary fistulae) were observed across various indications.
 Fistulae have also been reported in post-marketing experience.
-
 Events were reported at various time points during treatment ranging from one week to greater than 1 year from initiation of Avastin, with most events occurring within the first 6 months of therapy.
 
 Wound healing (see section 4.4)
@@ -72,6 +69,7 @@ An increased incidence of post-operative bleeding or wound healing complication 
 The incidence varied between 10% (4/40) and 20% (3/15).
 
 In locally recurrent and metastatic breast cancer trials, Grade 3-5 wound healing complications were observed in up to 1.1% of patients receiving Avastin compared with up to 0.9% of patients in the control arms.
+
 Hypertension (see section 4.4)
 An increased incidence of hypertension (all grades) of up to 34% has been observed in Avastin-treated patients in clinical trials compared with up to 14% in those treated with comparator.
 Grade 3 and 4 hypertension (requiring oral anti-hypertensive medicines) in patients receiving Avastin ranged from 0.4% to 17.9%.
@@ -108,6 +106,7 @@ Patients with NSCLC of known squamous cell histology or mixed cell type with pre
 In patients with NSCLC excluding predominant squamous histology, all grade events were seen with a frequency of up to 9% when treated with Avastin plus chemotherapy compared with 5% in the patients treated with chemotherapy alone.
 Grade 3-5 events have been observed in up to 2.3% of patients treated with Avastin plus chemotherapy as compared with < 1% with chemotherapy alone.
 Major or massive pulmonary haemorrhage/haemoptysis can occur suddenly and up to two thirds of the serious pulmonary haemorrhages resulted in a fatal outcome.
+
 Gastrointestinal haemorrhages, including rectal bleeding and melaena have been reported in colorectal cancer patients, and have been assessed as tumour-associated haemorrhages.
 
 Tumour-associated haemorrhage was also seen rarely in other tumour types and locations, including cases of central nervous system (CNS) bleeding in patients with CNS metastases (see section 4.4).
@@ -130,7 +129,6 @@ In clinical trials, the overall incidence of arterial thromboembolic events rang
 Fatal outcome was reported in 0.8% of patients receiving Avastin compared to 0.5% in patients receiving chemotherapy alone.
 Cerebrovascular accidents (including transient ischemic attacks) were reported in up to 2.3% of patients treated with Avastin in combination with chemotherapy compared to 0.5% of patients treated with chemotherapy alone.
 Myocardial infarction was reported in 1.4% of patients treated with Avastin in combination with chemotherapy compared to 0.7% of patients treated with chemotherapy alone.
-
 In one clinical trial, AVF2192g, patients with metastatic colorectal cancer who were not candidates for treatment with irinotecan were included.
 In this trial arterial thromboembolic events were observed in 11% (11/100) of patients compared to 5.8% (6/104) in the chemotherapy control group.
 
@@ -142,6 +140,7 @@ In clinical trials across indications, the overall incidence of venous thromboem
 Grade 3-5 venous thromboembolic events have been reported in up to 7.8% of patients treated with chemotherapy plus bevacizumab compared with up to 4.9% in patients treated with chemotherapy alone.
 
 Patients who have experienced a venous thromboembolic event may be at higher risk for a recurrence if they receive Avastin in combination with chemotherapy versus chemotherapy alone.
+
 Congestive heart failure (CHF)
 In clinical trials with Avastin, congestive heart failure (CHF) was observed in all cancer indications studied to date, but occurred predominantly in patients with metastatic breast cancer.
 In two phase III trials (AVF2119g and E2100) in patients with metastatic breast cancer an increase of CHF Grade 3 or more with Avastin was seen.
@@ -163,11 +162,11 @@ No increase in the incidence of other reactions, including gastrointestinal perf
 
 Paediatric population
 The safety of Avastin in children and adolescents has not been established.
-
 Laboratory abnormalities
 Decreased neutrophil count, decreased white blood cell count and presence of urine protein may be associated with Avastin treatment.
 
 Across clinical trials, the following Grade 3 and 4 laboratory abnormalities occurred in patients treated with Avastin with at least a 2% difference compared to the corresponding control groups: hyperglycaemia, decreased haemoglobin, hypokalaemia, hyponatraemia, decreased white blood cell count, increased international normalised ratio (INR).
+
 Post-marketing experience
 
 Table 2 Adverse reactions reported in post-marketing setting
@@ -179,5 +178,6 @@ Table 2 Adverse reactions reported in post-marketing setting
 | Respiratory, thoracic and mediastinal disorders | Nasal septum perforation (not known) Pulmonary hypertension (not known) Dysphonia (common) |
 | Gastrointestinal disorders | Gastrointestinal ulcer (not known) |
 | Immune system disorders | Hypersensitivity reactions and infusion reactions (not known); with the following possible co-manifestations: dyspnoea/difficulty breathing, flushing/redness/rash, hypotension or hypertension, oxygen desaturation, chest pain, rigors and nausea/vomiting (see also section 4.4 and Hypersensitivity reactions/infusion reactions above) |
+| Osteonecrosis of the jaw | Cases of osteonecrosis of the jaw (ONJ) have been reported in patients treated with Avastin, most of which occurred in patients who had identified risk factors for ONJ, in particular exposure to i.v. bisphosphonates and/or a history of dental disease requiring invasive dental procedures (see also section 4.4) |
 
 * if specified, the frequency has been derived from clinical trial data
