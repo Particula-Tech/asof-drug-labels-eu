@@ -30,10 +30,12 @@ As cardiac adverse events have been reported uncommonly with imatinib, a careful
 Myelodysplastic/myeloproliferative diseases with PDGFR gene re-arrangements could be associated with high eosinophil levels.
 Evaluation by a cardiology specialist, performance of an echocardiogram and determination of serum troponin should therefore be considered in patients with HES/CEL, and in patients with MDS/MPD associated with high eosinophil levels before imatinib is administered.
 If either is abnormal, follow-up with a cardiology specialist and the prophylactic use of systemic steroids (1–2 mg/kg) for one to two weeks concomitantly with imatinib should be considered at the initiation of therapy.
+
 In the study in patients with unresectable and/or metastatic GIST, both gastrointestinal and intra-tumoural haemorrhages were reported (see section 4.8).
 Based on the available data, no predisposing factors (e.g. tumour size, tumour location, coagulation disorders) have been identified that place patients with GIST at a higher risk of either type of haemorrhage.
 Since increased vascularity and propensity for bleeding is a part of the nature and clinical course of GIST, standard practices and procedures for the monitoring and management of haemorrhage in all patients should be applied.
 
+Due to the possible occurrence of tumour lysis syndrome (TLS), correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiation of Glivec (see section 4.8).
 Laboratory tests
 Complete blood counts must be performed regularly during therapy with Glivec.
 Treatment of CML patients with Glivec has been associated with neutropenia or thrombocytopenia.

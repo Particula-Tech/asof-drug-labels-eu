@@ -12,7 +12,6 @@ The effect of prior gastrointestinal surgery on drug absorption has not been inv
 
 Distribution
 At clinically relevant concentrations of imatinib, binding to plasma proteins was approximately 95% on the basis of in vitro experiments, mostly to albumin and alpha-acid-glycoprotein, with little binding to lipoprotein.
-
 Metabolism
 The main circulating metabolite in humans is the N-demethylated piperazine derivative, which shows similar in vitro potency to the parent.
 The plasma AUC for this metabolite was found to be only 16% of the AUC for imatinib.
@@ -38,6 +37,7 @@ Plasma pharmacokinetics
 Following oral administration in healthy volunteers, the t½ was approximately 18 h, suggesting that once-daily dosing is appropriate.
 The increase in mean AUC with increasing dose was linear and dose proportional in the range of 25–1,000 mg imatinib after oral administration.
 There was no change in the kinetics of imatinib on repeated dosing, and accumulation was 1.5–2.5-fold at steady state when dosed once daily.
+
 Pharmacokinetics in GIST patients
 In patients with GIST steady-state exposure was 1.5-fold higher than that observed for CML patients for the same dosage (400 mg daily).
 Based on preliminary population pharmacokinetic analysis in GIST patients, there were three variables (albumin, WBC and bilirubin) found to have a statistically significant relationship with imatinib pharmacokinetics.
@@ -51,7 +51,6 @@ This change is not thought to be clinically significant.
 The effect of bodyweight on the clearance of imatinib is such that for a patient weighing 50 kg the mean clearance is expected to be 8.5 l/h, while for a patient weighing 100 kg the clearance will rise to 11.8 l/h.
 These changes are not considered sufficient to warrant dose adjustment based on kg bodyweight.
 There is no effect of gender on the kinetics of imatinib.
-
 Pharmacokinetics in children
 As in adult patients, imatinib was rapidly absorbed after oral administration in paediatric patients in both phase I and phase II studies.
 Dosing in children at 260 and 340 mg/m2/day achieved the same exposure, respectively, as doses of 400 mg and 600 mg in adult patients.

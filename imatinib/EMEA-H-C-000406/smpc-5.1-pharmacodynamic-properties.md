@@ -4,7 +4,6 @@ Pharmacotherapeutic group: protein-tyrosine kinase inhibitor, ATC code: L01XE01
 
 Imatinib is a protein-tyrosine kinase inhibitor which potently inhibits the Bcr-Abl tyrosine kinase at the in vitro, cellular and in vivo levels.
 The compound selectively inhibits proliferation and induces apoptosis in Bcr-Abl positive cell lines as well as fresh leukaemic cells from Philadelphia chromosome positive CML and acute lymphoblastic leukaemia (ALL) patients.
-
 In vivo the compound shows anti-tumour activity as a single agent in animal models using Bcr-Abl positive tumour cells.
 
 Imatinib is also an inhibitor of the receptor tyrosine kinases for platelet-derived growth factor (PDGF), PDGF-R, and stem cell factor (SCF), c-Kit, and inhibits PDGF- and SCF-mediated cellular events.
@@ -40,7 +39,6 @@ The primary efficacy endpoint of the study is progression-free survival.
 Progression was defined as any of the following events: progression to accelerated phase or blast crisis, death, loss of CHR or MCyR, or in patients not achieving a CHR an increasing WBC despite appropriate therapeutic management.
 Major cytogenetic response, haematological response, molecular response (evaluation of minimal residual disease), time to accelerated phase or blast crisis and survival are main secondary endpoints.
 Response data are shown in Table 3.
-
 Table 3 Response in newly diagnosed CML Study (84-month data)
 
 Glivec IFN+Ara-C
@@ -82,12 +80,12 @@ The estimated rate of patients free of progression to accelerated phase or blast
 The annual rate of progression to accelerated phase or blast crisis decreased with time on therapy and was less than 1% annually in the fourth and fifth years.
 The estimated rate of progression-free survival at 84 months was 81.2% in the Glivec arm and 60.6% in the control arm (p<0.001).
 The yearly rates of progression of any type for Glivec also decreased over time.
+
 A total of 71 (12.8%) and 85 (15.4%) patients died in the Glivec and IFN+Ara-C groups, respectively.
 At 84 months the estimated overall survival is 86.4% (83, 90) vs. 83.3% (80, 87) in the randomised Glivec and the IFN+Ara-C groups, respectively (p=0.073, log-rank test).
 This time-to-event endpoint is strongly affected by the high crossover rate from IFN+Ara-C to Glivec.
 The effect of Glivec treatment on survival in chronic phase, newly diagnosed CML has been further examined in a retrospective analysis of the above reported Glivec data with the primary data from another Phase III study using IFN+Ara-C (n=325) in an identical regimen.
 In this retrospective analysis, the superiority of Glivec over IFN+Ara-C in overall survival was demonstrated (p<0.001); within 42 months, 47 (8.5%) Glivec patients and 63 (19.4%) IFN+Ara-C patients had died.
-
 The degree of cytogenetic response and molecular response had a clear effect on long-term outcomes in patients on Glivec.
 Whereas an estimated 96% (93%) of patients with CCyR (PCyR) at 12 months were free of progression to accelerated phase/blast crisis at 84 months, only 81% of patients without MCyR at 12 months were free of progression to advanced CML at 84 months (p<0.001 overall, p=0.25 between CCyR and PCyR).
 For patients with reduction in Bcr-Abl transcripts of at least 3 logarithms at 12 months, the probability of remaining free from progression to accelerated phase/blast crisis was 99% at 84 months.
@@ -115,6 +113,7 @@ The primary efficacy variable was the rate of haematological response, reported 
 A confirmed haematological response was achieved in 71.5% of patients (Table 4).
 Importantly, 27.7% of patients also achieved a major cytogenetic response, which was complete in 20.4% (confirmed 16%) of patients.
 For the patients treated at 600 mg, the current estimates for median progression-free-survival and overall survival were 22.9 and 42.5 months, respectively.
+
 Myeloid blast crisis: 260 patients with myeloid blast crisis were enrolled.
 95 (37%) had received prior chemotherapy for treatment of either accelerated phase or blast crisis (“pretreated patients”) whereas 165 (63%) had not (“untreated patients”).
 The first 37 patients were started at 400 mg, the protocol was subsequently amended to allow higher dosing and the remaining 223 patients were started at 600 mg.
@@ -123,7 +122,6 @@ The primary efficacy variable was the rate of haematological response, reported 
 In this study, 31% of patients achieved a haematological response (36% in previously untreated patients and 22% in previously treated patients).
 The rate of response was also higher in the patients treated at 600 mg (33%) as compared to the patients treated at 400 mg (16%, p=0.0220).
 The current estimate of the median survival of the previously untreated and treated patients was 7.7 and 4.7 months, respectively.
-
 Lymphoid blast crisis: a limited number of patients were enrolled in phase I studies (n=10).
 The rate of haematological response was 70% with a duration of 2–3 months.
 
@@ -150,7 +148,6 @@ Glivec treatment induces a rapid response in newly diagnosed paediatric CML pati
 The high rate of CHR is accompanied by the development of a complete cytogenetic response (CCyR) of 65% which is comparable to the results observed in adults.
 Additionally, partial cytogenetic response (PCyR) was observed in 16% for a MCyR of 81%.
 The majority of patients who achieved a CCyR developed the CCyR between months 3 and 10 with a median time to response based on the Kaplan-Meier estimate of 5.6 months.
-
 The European Medicines Agency has waived the obligation to submit the results of studies with Glivec in all subsets of the paediatric population in Philadelphia chromosome (bcr-abl translocation)- positive chronic myeloid leukaemia (see section 4.2 for information on paediatric use).
 
 Clinical studies in Ph+ ALL
@@ -166,23 +163,57 @@ The complete molecular response rate was 48% (49 out of 102 evaluable patients).
 Disease-free survival (DFS) and overall survival (OS) constantly exceeded 1 year and were superior to historical control (DFS p<0.001; OS p<0.0001) in two studies (AJP01 and AUS01).
 Table 5 Chemotherapy regimen used in combination with imatinib
 
-| Study ADE10 |  |
-| --- | --- |
-| Prephase | DEX 10 mg/m2 oral, days 1-5; CP 200 mg/m2 i.v., days 3, 4, 5; MTX 12 mg intrathecal, day 1 |
-| Remission induction | DEX 10 mg/m2 oral, days 6-7, 13-16; VCR 1 mg i.v., days 7, 14; IDA 8 mg/m2 i.v. (0.5 h), days 7, 8, 14, 15; CP 500 mg/m2 i.v.(1 h) day 1; Ara-C 60 mg/m2 i.v., days 22-25, 29-32 |
-| Consolidation therapy I, III, V | MTX 500 mg/m2 i.v. (24 h), days 1, 15; 6-MP 25 mg/m2 oral, days 1-20 |
-| Consolidation therapy II, IV | Ara-C 75 mg/m2 i.v. (1 h), days 1-5; VM26 60 mg/m2 i.v. (1 h), days 1-5 |
-| Study AAU02 |  |
-| Induction therapy (de novo Ph+ ALL) | Daunorubicin 30 mg/m2 i.v., days 1-3, 15-16; VCR 2 mg total dose i.v., days 1, 8, 15, 22; CP 750 mg/m2 i.v., days 1, 8; prednisone 60 mg/m2 oral, days 1-7, 15-21; IDA 9 mg/m2 oral, days 1-28; MTX 15 mg intrathecal, days 1, 8, 15, 22; Ara-C 40 mg intrathecal, days 1, 8, 15, 22; methylprednisolone 40 mg intrathecal, days 1, 8, 15, 22 |
-| Consolidation (de novo Ph+ ALL) | Ara-C 1,000 mg/m2/12 h i.v.(3 h), days 1-4; mitoxantrone 10 mg/m2 i.v. days 3-5; MTX 15 mg intrathecal, day 1; methylprednisolone 40 mg intrathecal, day 1 |
-| Study ADE04 |  |
-| Prephase | DEX 10 mg/m2 oral, days 1-5; CP 200 mg/m2 i.v., days 3-5; MTX 15 mg intrathecal, day 1 |
-| Induction therapy I | DEX 10 mg/m2 oral, days 1-5; VCR 2 mg i.v., days 6, 13, 20; daunorubicin 45 mg/m2 i.v., days 6-7, 13-14 |
-| Induction therapy II | CP 1 g/m2 i.v. (1 h), days 26, 46; Ara-C 75 mg/m2 i.v. (1 h), days 28-31, 35-38, 42-45; 6-MP 60 mg/m2 oral, days 26-46 |
-| Consolidation therapy | DEX 10 mg/m2 oral, days 1-5; vindesine 3 mg/m2 i.v., day 1; MTX 1.5 g/m2 i.v. (24 h), day 1; etoposide 250 mg/m2 i.v. (1 h) days 4-5; Ara-C 2x 2 g/m2 i.v. (3 h, q 12 h), day 5 |
-| Study AJP01 |  |
-| Induction therapy | CP 1.2 g/m2 i.v. (3 h), day 1; daunorubicin 60 mg/m2 i.v. (1 h), days 1-3; vincristine 1.3 mg/m2 i.v., days 1, 8, 15, 21; prednisolone 60 mg/m2/day oral |
-| Consolidation therapy | Alternating chemotherapy course: high dose chemotherapy with MTX 1 g/m2 i.v. (24 h), day 1, and Ara-C 2 g/m2 i.v. (q 12 h), days 2-3, for 4 cycles |
+Study ADE10
+
+Prephase DEX 10 mg/m2 oral, days 1-5; CP 200 mg/m2 i.v., days 3, 4, 5; MTX
+
+12 mg intrathecal, day 1
+Remission induction DEX 10 mg/m2 oral, days 6-7, 13-16; VCR 1 mg i.v., days 7, 14; IDA
+8 mg/m2 i.v.
+(0.5 h), days 7, 8, 14, 15; CP 500 mg/m2 i.v.(1 h) day 1; Ara-C 60 mg/m2 i.v., days 22-25, 29-32
+
+Consolidation MTX 500 mg/m2 i.v. (24 h), days 1, 15; 6-MP 25 mg/m2 oral, days 1-20
+
+therapy I, III, V
+
+Consolidation Ara-C 75 mg/m2 i.v. (1 h), days 1-5; VM26 60 mg/m2 i.v. (1 h), days 1-5
+
+therapy II, IV
+Study AAU02
+Induction therapy (de Daunorubicin 30 mg/m2 i.v., days 1-3, 15-16; VCR 2 mg total dose i.v.,
+
+novo Ph+ ALL) days 1, 8, 15, 22; CP 750 mg/m2 i.v., days 1, 8; prednisone 60 mg/m2
+
+oral, days 1-7, 15-21; IDA 9 mg/m2 oral, days 1-28; MTX 15 mg intrathecal, days 1, 8, 15, 22; Ara-C 40 mg intrathecal, days 1, 8, 15, 22; methylprednisolone 40 mg intrathecal, days 1, 8, 15, 22
+Consolidation (de Ara-C 1,000 mg/m2/12 h i.v.(3 h), days 1-4; mitoxantrone 10 mg/m2 i.v.
+
+novo Ph+ ALL) days 3-5; MTX 15 mg intrathecal, day 1; methylprednisolone 40 mg
+
+intrathecal, day 1
+Study ADE04
+
+Prephase DEX 10 mg/m2 oral, days 1-5; CP 200 mg/m2 i.v., days 3-5; MTX 15 mg
+
+intrathecal, day 1
+Induction therapy I DEX 10 mg/m2 oral, days 1-5; VCR 2 mg i.v., days 6, 13, 20; daunorubicin 45 mg/m2 i.v., days 6-7, 13-14
+Induction therapy II CP 1 g/m2 i.v.
+(1 h), days 26, 46; Ara-C 75 mg/m2 i.v.
+(1 h), days 28-31, 35-38, 42-45; 6-MP 60 mg/m2 oral, days 26-46
+
+Consolidation DEX 10 mg/m2 oral, days 1-5; vindesine 3 mg/m2 i.v., day 1; MTX
+therapy 1.5 g/m2 i.v. (24 h), day 1; etoposide 250 mg/m2 i.v. (1 h) days 4-5; Ara-
+
+C 2x 2 g/m2 i.v.
+(3 h, q 12 h), day 5
+Study AJP01
+Induction therapy CP 1.2 g/m2 i.v.
+(3 h), day 1; daunorubicin 60 mg/m2 i.v.
+(1 h), days 1-3; vincristine 1.3 mg/m2 i.v., days 1, 8, 15, 21; prednisolone 60 mg/m2/day oral
+
+Consolidation Alternating chemotherapy course: high dose chemotherapy with MTX
+therapy 1 g/m2 i.v. (24 h), day 1, and Ara-C 2 g/m2 i.v. (q 12 h), days 2-3, for
+
+4 cycles
 
 Maintenance VCR 1.3 g/m2 i.v., day 1; prednisolone 60 mg/m2 oral, days 1-5
 
@@ -202,7 +233,6 @@ per month for 13 months
 All treatment regimens include administration of steroids for CNS prophylaxis.
 Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6-MP: 6-mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.:
 intravenous
-
 Relapsed/refractory Ph+ ALL: When imatinib was used as single agent in patients with relapsed/refractory Ph+ ALL, it resulted, in the 53 out of 411 patients evaluable for response, in a haematological response rate of 30% (9% complete) and a major cytogenetic response rate of 23%.
 (Of note, out of the 411 patients, 353 were treated in an expanded access program without primary response data collected.)
 The median time to progression in the overall population of 411 patients with relapsed/refractory Ph+ ALL ranged from 2.6 to 3.1 months, and median overall survival in the 401 evaluable patients ranged from 4.9 to 9 months.
