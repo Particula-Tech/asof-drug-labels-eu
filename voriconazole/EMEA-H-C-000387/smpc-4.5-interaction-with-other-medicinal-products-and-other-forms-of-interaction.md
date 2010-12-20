@@ -22,12 +22,14 @@ Coadministration of voriconazole and low dose ritonavir (100 mg twice daily) sho
 
 Carbamazepine and phenobarbital (potent CYP450 inducers): Although not studied, carbamazepine or phenobarbital are likely to significantly decrease plasma voriconazole concentrations.
 Coadministration of voriconazole with carbamazepine and phenobarbital is contraindicated (see section 4.3).
+
 Cimetidine (non-specific CYP450 inhibitor and increases gastric pH): Cimetidine (400 mg twice daily) increased voriconazole Cmax and AUCτ by 18 % and 23 %, respectively.
 No dosage adjustment of voriconazole is recommended.
 
 Ranitidine (increases gastric pH): Ranitidine (150 mg twice daily) had no significant effect on voriconazole Cmax and AUCτ.
 
 Macrolide antibiotics: Erythromycin (CYP3A4 inhibitor; 1 g twice daily) and azithromycin (500 mg once daily) had no significant effect on voriconazole Cmax and AUCτ.
+
 St John’s Wort (CYP450 inducer; P-gp inducer): In a clinical study in healthy volunteers, St John’s Wort exhibited a short initial inhibitory effect followed by induction of voriconazole metabolism.
 After 15 days of treatment with St John’s Wort (300 mg three times daily), plasma exposure following a single 400 mg dose of voriconazole decreased by 40-60%.
 Therefore, concomitant use of voriconazole with St John’s Wort is contraindicated (see section 4.3).
@@ -60,6 +62,13 @@ Dose reduction of methadone may be needed.
 
 Short Acting Opiates (CYP3A4 substrate): Steady-state administration of oral voriconazole increased the AUCτ of a single dose of alfentanil by 6-fold.
 Reduction in the dose of alfentanil and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g. fentanyl and sufentanil), should be considered when coadministered with voriconazole (see section 4.4).
+Fentanyl (CYP3A4 substrate): In an independent published study, concomitant use of voriconazole (400 mg every 12 hours on Day 1, then 200 mg every 12 hours on Day 2) with a single intravenous dose of fentanyl (5 µg/kg) resulted in an increase in the mean AUC 0-∞ of fentanyl by 1.34-fold (range 1.12-1.60-fold).
+When voriconazole is co-administered with fentanyl, extended and frequent monitoring of patients for respiratory depression and other fentanyl-associated adverse events is recommended, and fentanyl dosage should be reduced if warranted.
+
+Long Acting Opiates (CYP3A4 substrate): In an independent published study, coadministration of multiple doses of oral voriconazole (400 mg every 12 hours, on Day 1 followed by five doses of 200 mg every 12 hours on Days 2 to 4) with a single 10 mg oral dose of oxycodone on Day 3 resulted in an increase in the mean Cmax and AUC0–∞ of oxycodone by 1.7-fold (range 1.4- to 2.2-fold) and 3.6-fold (range 2.7- to 5.6-fold), respectively.
+The mean elimination half-life of oxycodone was also increased by 2.0-fold (range 1.4- to 2.5-fold).
+A reduction in oxycodone dosage and other long-acting opiates metabolized by CYP3A4 (e.g. hydrocodone) may be needed during voriconazole treatment to avoid opioid related adverse effects.
+Extended and frequent monitoring for adverse effects associated with oxycodone and other long-acting opiates metabolized by CYP3A4 is recommended.
 
 Tacrolimus (CYP3A4 substrate): Voriconazole increased tacrolimus (0.1 mg/kg single dose) Cmax and AUCt (area under the plasma concentration time curve to the last quantifiable measurement) by 117 % and 221 %, respectively.
 When initiating voriconazole in patients already receiving tacrolimus, it is recommended that the tacrolimus dose be reduced to a third of the original dose and tacrolimus level carefully monitored.
@@ -124,13 +133,16 @@ No dosage adjustment of voriconazole is recommended.
 Voriconazole increased omeprazole Cmax and AUCτ by 116 % and 280 %, respectively.
 When initiating voriconazole in patients already receiving omeprazole, it is recommended that the omeprazole dose be halved.
 The metabolism of other proton pump inhibitors which are CYP2C19 substrates may also be inhibited by voriconazole.
-
 Oral Contraceptives: Coadministration of voriconazole and an oral contraceptive (1 mg norethisterone and 0.035 mg ethinylestradiol; once daily) in healthy female subjects resulted in increases in the Cmax and AUCτ of ethinylestradiol (36 % and 61 % respectively) and norethisterone (15 % and 53 % respectively).
 Voriconazole Cmax and AUCτ increased by 14 % and 46 % respectively.
 It is expected that the voriconazole levels will return to standard levels during the pill-free week.
 As the ratio between norethisterone and ethinylestradiol remained similar during interaction with voriconazole, their contraceptive activity would probably not be affected.
 Although no increase in the incidence of hormonal related adverse events was observed in the clinical interaction study, higher estrogen and progestagen levels may cause notably nausea and menstrual disorders.
 Oral contraceptives containing doses other than 1 mg norethisterone and 0.035 mg ethinylestradiol have not been studied.
+
+Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor): Coadministration of oral voriconazole (400 mg every12 hours for 1 day, then 200 mg every 12 hours for 2.5 days) and oral fluconazole (400 mg on day 1, then 200 mg every 24 hours for 4 days) to 8 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively.
+The reduced dose and/or frequency of voriconazole and fluconazole that would eliminate this effect have not been established.
+Monitoring for voriconazole associated adverse events is recommended if voriconazole is used sequentially after fluconazole.
 
 Antiretroviral Agents:
 
@@ -154,7 +166,6 @@ These differences were not considered to be clinically significant.
 When voriconazole is coadministered with efavirenz, voriconazole maintenance dose should be increased to 400 mg twice daily and the efavirenz dose should be reduced by 50 %, i.e. to 300 mg once daily (see section 4.2).
 
 When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored.
-
 Non-nucleoside reverse transcriptase inhibitors (NNRTI) (CYP3A4 substrates, inhibitors or CYP450 inducers): In vitro studies show that the metabolism of voriconazole may be inhibited by delavirdine.
 Although not studied, the metabolism of voriconazole may be induced by nevirapine.
 An in-vivo study showed that voriconazole inhibited the metabolism of efavirenz.
@@ -175,9 +186,13 @@ Methadone (CYP3A4 substrate): In subjects receiving a methadone maintenance dose
 
 Reduction in the dose of alfentanil and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4, (e.g. fentanyl and sufentanil) should be considered when coadministered with voriconazole (see section 4.4).
 
+A reduction in oxycodone dosage and other long-acting opiates metabolized by CYP3A4 (e.g., hydrocodone) may be needed during voriconazole treatment to avoid opioid related adverse effects.
+
 Phenytoin may be coadministered with voriconazole if the maintenance dose of voriconazole is increased to 5 mg /kg intravenously twice daily or from 200 mg to 400 mg orally, twice daily (100 mg to 200 mg orally, twice daily in patients less than 40 kg), see section 4.2.
 
 Oral Contraceptives: Coadministration of voriconazole and an oral contraceptive (1 mg norethisterone and 0.035 mg ethinylestradiol; once daily) in healthy female subjects resulted in increases in the Cmax and AUC of ethinylestradiol (36 % and 61 % respectively) and norethisterone (15 % and 53 % respectively).
+
+Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor): Coadministration of oral voriconazole (400 mg every 12 hours for 1 day, then 200 mg every 12 hours for 2.5 days) and oral fluconazole (400 mg on day 1, then 200 mg every 24 hours for 4 days) to 8 healthy male subjects resulted in an increase in Cmax and AUCτ of voriconazole by an average of 57% (90% CI: 20%, 107%) and 79% (90% CI: 40%, 128%), respectively.
 
 Efavirenz (a non-nucleoside reverse transcriptase inhibitor) (CYP450 inducer; CYP3A4 inhibitor and substrate): Standard doses of voriconazole and standard doses of efavirenz must not be coadministered.
 Steady-state efavirenz (400 mg orally once daily) decreased the steady state Cmax and AUCτ of voriconazole by an average of 61 % and 77 %, respectively, in healthy subjects.
@@ -218,5 +233,7 @@ Rifampicin (CYP450 inducer): Rifampicin (600 mg once daily) decreased the Cmax (
 Coadministration of voriconazole and ritonavir (400 mg and above twice daily) is contraindicated.
 
 Reduction in the dose of alfentanil and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g. fentanyl and sufentanil) should be considered when coadministered with voriconazole (see section 4.4).
+
+Long Acting Opitates (CYP3A4 substrate): In an independent published study, coadministration of multiple doses of oral voriconazole (400 mg every 12 hours, on Day 1 followed by five doses of 200 mg every 12 hours on Days 2 to 4) with a single 10 mg oral dose of oxycodone on Day 3 resulted in an increase in the mean Cmax and AUC0–∞ of oxycodone by 1.7-fold (range 1.4- to 2.2-fold) and 3.6-fold (range 2.7- to 5.6-fold), respectively.
 
 Careful monitoring of full blood counts and adverse reactions to rifabutin (e.g. uveitis) is recommended when rifabutin is coadministered with voriconazole.

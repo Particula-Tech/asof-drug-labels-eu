@@ -11,7 +11,6 @@ The most commonly reported adverse events were visual disturbances, pyrexia, ras
 
 The severity of the adverse events was generally mild to moderate.
 No clinically significant differences were seen when the safety data were analysed by age, race, or gender.
-
 Undesirable effects reported in subjects receiving voriconazole:
 
 | System Organ Class | Adverse drug reactions |
@@ -101,6 +100,7 @@ Patients have rarely developed serious cutaneous reactions, including Stevens-Jo
 
 If patients develop a rash they should be monitored closely and VFEND discontinued if lesions progress.
 Photosensitivity reactions have been reported, especially during long-term therapy (see also section 4.4).
+
 Liver Function Tests
 The overall incidence of clinically significant transaminase abnormalities in the voriconazole clinical programme was 13.4 % (200/1493) of subjects treated with voriconazole.
 Liver function test abnormalities may be associated with higher plasma concentrations and/or doses.
@@ -204,19 +204,25 @@ Rare Hyperthyroidism, hypothyroidism
 Metabolism and nutrition system disorders
 Common Hypoglycaemia, hypokalaemia
 Psychiatric disorders
+Common Depression, hallucination, anxiety
+Rare Insomnia
+Nervous system disorders
+Very common Headache
+Common Dizziness, confusional state, tremor, agitation, paraesthesia
+Uncommon Brain oedema, ataxia, diplopia, vertigo, hypoaesthesia
+Rare Convulsion, encephalopathy, Guillain-Barre syndrome,
+extrapyramidal symptoms, somnolence during infusion,
+peripheral neuropathy
+Eye disorders
+Visual disturbances (including blurred vision (see Section
+Very common
+4.4), chromotopsia and photophobia)
+Uncommon Papilloedema (se Section 4.4), optic nerve disorder (including
+optic neuritis, see Section 4.4), nystagmus, scleritis,
+blepharitis
 
-| Common | Depression, hallucination, anxiety |
-| --- | --- |
-| Rare | Insomnia |
-| Nervous system disorders |  |
-| Very common | Headache |
-| Common | Dizziness, confusional state, tremor, agitation, paraesthesia |
-| Uncommon | Brain oedema, ataxia, diplopia, vertigo, hypoaesthesia |
-| Rare | Convulsion, encephalopathy, Guillain-Barre syndrome, extrapyramidal symptoms, somnolence during infusion, peripheral neuropathy |
-| Eye disorders |  |
-| Very common | Visual disturbances (including blurred vision (see Section 4.4), chromotopsia and photophobia) |
-| Uncommon | Papilloedema (se Section 4.4), optic nerve disorder (including optic neuritis, see Section 4.4), nystagmus, scleritis, blepharitis |
 | Rare | Optic atrophy, Retinal haemorrhage, oculogyration, corneal opacity |
+| --- | --- |
 | Ear and labyrinth disorders |  |
 | Rare | Hypoacusis, tinnitus |
 | Cardiac disorders |  |

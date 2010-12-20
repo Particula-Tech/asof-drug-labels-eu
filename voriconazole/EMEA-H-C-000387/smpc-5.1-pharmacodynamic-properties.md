@@ -40,9 +40,7 @@ EUCAST Breakpoints
 | Candida glabrata2 | Insufficient evidence |  |
 | Candida krusei3 | Insufficient evidence |  |
 | Other Candida spp.4 | Insufficient evidence |  |
-| 1 Strains with MIC values above the Susceptible (S) breakpoint are rare, or not yet reported. The identification and antimicrobial susceptibility tests on any such isolate must be repeated and if the result is confirmed the isolate sent to a reference laboratory. 2 In clinical studies, response to voriconazole in patients with C glabrata infections was 21% lower compared to C. albicans, C. parapsilosis and C. tropicalis. However, this reduced response was not correlated with elevated MICs. 3 In clinical studies, response to voriconazole in C. krusei infections was similar to C. albicans, C. parapsilosis and C. tropicalis. However, as there were only 9 cases available for EUCAST analysis, there is currently insufficient evidence to set clinical breakpoints for C. krusei. |  |  |
-
-4 EUCAST has not determined non-species related breakpoints for voriconazole.
+| 1 Strains with MIC values above the Susceptible (S) breakpoint are rare, or not yet reported. The identification and antimicrobial susceptibility tests on any such isolate must be repeated and if the result is confirmed the isolate sent to a reference laboratory. 2 In clinical studies, response to voriconazole in patients with C glabrata infections was 21% lower compared to C. albicans, C. parapsilosis and C. tropicalis. However, this reduced response was not correlated with elevated MICs. 3 In clinical studies, response to voriconazole in C. krusei infections was similar to C. albicans, C. parapsilosis and C. tropicalis. However, as there were only 9 cases available for EUCAST analysis, there is currently insufficient evidence to set clinical breakpoints for C. krusei. 4 EUCAST has not determined non-species related breakpoints for voriconazole. |  |  |
 
 Clinical Experience
 Successful outcome in this section is defined as complete or partial response.
@@ -53,7 +51,6 @@ A satisfactory global response (complete or partial resolution of all attributab
 The 84-day survival rate for voriconazole was statistically significantly higher than that for the comparator and a clinically and statistically significant benefit was shown in favour of voriconazole for both time to death and time to discontinuation due to toxicity.
 
 This study confirmed findings from an earlier, prospectively designed study where there was a positive outcome in subjects with risk factors for a poor prognosis, including graft versus host disease, and, in particular, cerebral infections (normally associated with almost 100 % mortality).
-
 The studies included cerebral, sinus, pulmonary and disseminated aspergillosis in patients with bone marrow and solid organ transplants, haematological malignancies, cancer and AIDS.
 
 Candidaemia in non-neutropenic patients
@@ -76,9 +73,7 @@ The Investigator’s assessment of successful outcome at each of these time poin
 | EOT | 178 (72 %) | 88 (72 %) |
 | 2 weeks after EOT | 125 (50 %) | 62 (51 %) |
 | 6 weeks after EOT | 104 (42 %) | 55 (45 %) |
-| 12 weeks after | 104 (42 %) | 51 (42 %) |
-
-EOT
+| 12 weeks after EOT | 104 (42 %) | 51 (42 %) |
 
 Serious refractory Candida infections
 The study comprised 55 patients with serious refractory systemic Candida infections (including candidaemia, disseminated and other invasive candidiasis) where prior antifungal treatment, particularly with fluconazole, had been ineffective.
@@ -118,47 +113,12 @@ No subject experienced an interval exceeding the potentially clinically relevant
 
 [VFEND 200 mg film-coated tablets]
 
-| Candida Species | MIC breakpoint (mg/L) |  |
-| --- | --- | --- |
-|  | ≤S (Susceptible) | >R (Resistant) |
-| Candida albicans1 | 0.125 | 0.125 |
-| Candida tropicalis1 | 0.125 | 0.125 |
-| Candida parapsilosis1 | 0.125 | 0.125 |
-| Candida glabrata2 | Insufficient evidence |  |
-| Candida krusei3 | Insufficient evidence |  |
-| Other Candida spp.4 | Insufficient evidence |  |
-| 1 Strains with MIC values above the Susceptible (S) breakpoint are rare, or not yet reported. The identification and antimicrobial susceptibility tests on any such isolate must be repeated and if the result is confirmed the isolate sent to a reference laboratory. 2 In clinical studies, response to voriconazole in patients with C glabrata infections was 21% lower compared to C. albicans, C. parapsilosis and C. tropicalis. However, this reduced response was not correlated with elevated MICs. 3 In clinical studies, response to voriconazole in C. krusei infections was similar to C. albicans, C. parapsilosis and C. tropicalis. However, as there were only 9 cases available for EUCAST analysis, there is currently insufficient evidence to set clinical breakpoints for C. krusei. 4 EUCAST has not determined non-species related breakpoints for voriconazole. |  |  |
-
 Aspergillus infections – efficacy in aspergillosis patients with poor prognosis
 Voriconazole has in vitro fungicidal activity against Aspergillus spp.
-
-| Timepoint | Voriconazole (N=248) | Amphotericin B → fluconazole (N=122) |
-| --- | --- | --- |
-| _ |  |  |
-| EOT | 178 (72 %) | 88 (72 %) |
-| 2 weeks after EOT | 125 (50 %) | 62 (51 %) |
-| 6 weeks after EOT | 104 (42 %) | 55 (45 %) |
-| 12 weeks after EOT | 104 (42 %) | 51 (42 %) |
 
 [VFEND 200 mg powder for solution for infusion]
 
 Other treated fungal infections (with often partial or complete response, see below under Clinical Experience) included isolated cases of Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum, Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus, Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and Trichosporon spp. including T. beigelii infections.
-
-| Candida Species | MIC breakpoint (mg/L) |  |
-| --- | --- | --- |
-|  | ≤S (Susceptible) | >R (Resistant) |
-| Candida albicans1 | 0.125 | 0.125 |
-| Candida tropicalis1 | 0.125 | 0.125 |
-| Candida parapsilosis1 | 0.125 | 0.125 |
-| Candida glabrata2 | Insufficient evidence |  |
-| Candida krusei3 | Insufficient evidence |  |
-| Other Candida spp.4 | Insufficient evidence |  |
-| 1 Strains with MIC values above the Susceptible (S) breakpoint are rare, or not yet reported. The identification and antimicrobial susceptibility tests on any such isolate must be repeated and if the result is confirmed the isolate sent to a reference laboratory. 2 In clinical studies, response to voriconazole in patients with C glabrata infections was 21% lower compared to C. albicans, C. parapsilosis and C. |  |  |
-
-tropicalis.
-However, this reduced response was not correlated with elevated MICs.
-3 In clinical studies, response to voriconazole in C. krusei infections was similar to C. albicans, C. parapsilosis and C. tropicalis.
-However, as there were only 9 cases available for EUCAST analysis, there is currently insufficient evidence to set clinical breakpoints for C. krusei.
 
 | Timepoint | Voriconazole (N=248) | Amphotericin B → fluconazole (N=122) |
 | --- | --- | --- |
@@ -174,19 +134,6 @@ No subject in any group had an increase in QTc of ≥ 60 msec from baseline.
 [VFEND 40 mg/ml powder for oral suspension]
 
 Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladosporium spp., Coccidioides immitis, Conidiobolus coronatus, Cryptococcus neoformans, Exserohilum rostratum,Exophiala spinifera, Fonsecaea pedrosoi, Madurella mycetomatis, Paecilomyces lilacinus,Penicillium spp. including P. marneffei, Phialophora richardsiae, Scopulariopsis brevicaulis and Trichosporon spp. including T. beigelii infections.
-
-| Candida Species | MIC breakpoint (mg/L) |  |
-| --- | --- | --- |
-|  | ≤S (Susceptible) | >R (Resistant) |
-| Candida albicans1 | 0.125 | 0.125 |
-| Candida tropicalis1 | 0.125 | 0.125 |
-| Candida parapsilosis1 | 0.125 | 0.125 |
-| Candida glabrata2 | Insufficient evidence |  |
-| Candida krusei3 | Insufficient evidence |  |
-| Other Candida spp.4 | Insufficient evidence |  |
-| 1 Strains with MIC values above the Susceptible (S) breakpoint are rare, or not yet reported. The identification and antimicrobial susceptibility tests on any such isolate must be repeated and if the result is confirmed the isolate sent to a reference laboratory. 2 In clinical studies, response to voriconazole in patients with C glabrata infections was 21% lower compared to C. albicans, C. parapsilosis and C. tropicalis. However, this reduced response was not correlated with elevated MICs. 3 In clinical studies, response to voriconazole in C. krusei infections was similar to C. albicans, C. parapsilosis and C. tropicalis. However, as there were only 9 cases available for EUCAST analysis, there is currently |  |  |
-
-insufficient evidence to set clinical breakpoints for C. krusei.
 
 A satisfactory global response (complete or partial resolution of all attributable symptoms/signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53 % of voriconazole-treated patients compared to 31 % of patients treated with comparator.
 

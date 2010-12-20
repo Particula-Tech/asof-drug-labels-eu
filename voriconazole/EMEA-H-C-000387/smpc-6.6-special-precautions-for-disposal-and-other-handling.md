@@ -18,10 +18,9 @@ For administration, the required volume of the reconstituted concentrate is adde
 
 Required Volumes of 10 mg/ml VFEND Concentrate
 
-Body Volume of VFEND Concentrate (10 mg/ml) required for:
-
-| Weight (kg) | 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) | 7 mg/kg dose (number of vials) |
+| Body Weight (kg) | Volume of VFEND Concentrate (10 mg/ml) required for: |  |  |  |
 | --- | --- | --- | --- | --- |
+|  | 3 mg/kg dose (number of vials) | 4 mg/kg dose (number of vials) | 6 mg/kg dose (number of vials) | 7 mg/kg dose (number of vials) |
 | 10 | - | 4.0 ml (1) | - | 7.0 ml (1) |
 | 15 | - | 6.0 ml (1) | - | 10.5 ml (1) |
 | 20 | - | 8.0 ml (1) | - | 14.0 ml (1) |
@@ -75,6 +74,7 @@ Press bottle adaptor into the neck of the bottle.
 Replace the cap.
 6.
 Write the date of expiration of the constituted suspension on the bottle label (the shelf-life of the constituted suspension is 14 days).
+
 Instructions for use:
 Shake the closed bottle of constituted suspension for approximately 10 seconds before each use.
 
