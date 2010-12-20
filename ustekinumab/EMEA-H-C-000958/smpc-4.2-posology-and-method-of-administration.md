@@ -14,7 +14,7 @@ However, 90 mg resulted in greater efficacy.
 (see section 5.1,
 Table 2)
 
-Elderly patients (≥ 65 years)
+Elderly patients (≥65 years)
 No dose adjustment is needed for elderly patients (see section 4.4).
 
 Children and adolescents (< 18 years)

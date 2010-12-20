@@ -34,7 +34,7 @@ All patients were followed for up to 52 weeks following first administration of 
 Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept.
 During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at Weeks 0 and 4, or ustekinumab 90 mg at Weeks 0 and 4.
 
-Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area (BSA) ≥ 20, and median Dermatology Life Quality Index (DLQI) range from 10 to 12.
+Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area (BSA) ≥20, and median Dermatology Life Quality Index (DLQI) range from 10 to 12.
 Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA).
 Similar disease severity was also seen in Psoriasis Study 3.
 The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at Week 12 (see Tables 2 and 3).
@@ -50,7 +50,7 @@ Table 2 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoria
 | PASI 75 response N (%) | 8 (3%) | 171 (67%)a | 170 (66%)a | 178 (71%) | 191 (79%) |
 | PASI 90 response N (%) | 5 (2%) | 106 (42%)a | 94 (37%)a | 123 (49%) | 135 (56%) |
 | PGAb of cleared or minimal N (%) | 10 (4%) | 151 (59%)a | 156 (61%)a | 146 (58%) | 160 (66%) |
-| Number of patients ≤ 100 kg | 166 | 168 | 164 | 164 | 153 |
+| Number of patients ≤100 kg | 166 | 168 | 164 | 164 | 153 |
 | PASI 75 response N (%) | 6 (4%) | 124 (74%) | 107 (65%) | 130 (79%) | 124 (81%) |
 | Number of patients > 100 kg | 89 | 87 | 92 | 86 | 90 |
 | PASI 75 response N (%) | 2 (2%) | 47 (54%) | 63 (68%) | 48 (56%) | 67 (74%) |
@@ -60,7 +60,7 @@ Table 2 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoria
 | PASI 75 response N (%) | 15 (4%) | 273 (67%)a | 311 (76%)a | 276 (70%) | 314 (79%) |
 | PASI 90 response N (%) | 3 (1%) | 173 (42%)a | 209 (51%)a | 178 (45%) | 217 (54%) |
 | PGAb of cleared or minimal N (%) | 18 (4%) | 277 (68%)a | 300 (73%)a | 241 (61%) | 279 (70%) |
-| Number of patients ≤ 100 kg | 290 | 297 | 289 | 287 | 280 |
+| Number of patients ≤100 kg | 290 | 297 | 289 | 287 | 280 |
 | PASI 75 response N (%) | 12 (4%) | 218 (73%) | 225 (78%) | 217 (76%) | 226 (81%) |
 | Number of patients > 100 kg | 120 | 112 | 121 | 110 | 119 |
 | PASI 75 response N (%) | 3 (3%) | 55 (49%) | 86 (71%) | 59 (54%) | 88 (74%) |
@@ -82,7 +82,7 @@ week)
 | PASI 75 response N (%) | 197 (57%) | 141 (67%)b | 256 (74%)a |
 | PASI 90 response N (%) | 80 (23%) | 76 (36%)a | 155 (45%)a |
 | PGA of cleared or minimal N (%) | 170 (49%) | 136 (65%)a | 245 (71%)a |
-| Number of patients ≤ 100 kg | 251 | 151 | 244 |
+| Number of patients ≤100 kg | 251 | 151 | 244 |
 | PASI 75 response N (%) | 154 (61%) | 109 (72%) | 189 (77%) |
 | Number of patients > 100 kg | 96 | 58 | 103 |
 | PASI 75 response N (%) | 43 (45%) | 32 (55%) | 67 (65%) |
@@ -96,7 +96,7 @@ At Week 52, 89% of patients re-randomised to maintenance treatment were PASI 75 
 (p < 0.001).
 At week 76, 84% of patients re-randomised to maintenance treatment were PASI 75 responders compared with 19% of patients re-randomised to placebo (treatment withdrawal).
 
-In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥ 50% of PASI improvement 85% regained PASI 75 response within 12 weeks after re-initiating therapy.
+In patients re-randomised to placebo, and who reinitiated their original ustekinumab treatment regimen after loss of ≥50% of PASI improvement 85% regained PASI 75 response within 12 weeks after re-initiating therapy.
 
 In Psoriasis Study 1, at Week 2 and Week 12, significantly greater improvements from baseline were demonstrated in the DLQI in each ustekinumab treatment group compared with placebo.
 The improvement was sustained through Week 28.
@@ -119,7 +119,7 @@ In Psoriasis Study 2, the Hospital Anxiety and Depression Scale (HADS) and Work 
 | PASI 75 response N (%) | 197 (57%) | 141 (67%)b | 256 (74%)a |
 | PASI 90 response N (%) | 80 (23%) | 76 (36%)a | 155 (45%)a |
 | PGA of cleared or minimal N (%) | 170 (49%) | 136 (65%)a | 245 (71%)a |
-| Number of patients ≤ 100 kg | 251 | 151 | 244 |
+| Number of patients ≤100 kg | 251 | 151 | 244 |
 | PASI 75 response N (%) | 154 (61%) | 109 (72%) | 189 (77%) |
 | Number of patients > 100 kg | 96 | 58 | 103 |
 | PASI 75 response N (%) | 43 (45%) | 32 (55%) | 67 (65%) |
