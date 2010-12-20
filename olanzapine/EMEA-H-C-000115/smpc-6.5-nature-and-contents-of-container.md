@@ -1,6 +1,6 @@
 # 6.5 Nature and contents of container
 
-Cold-formed aluminium blister strips in cartons of 28, 35, 56 or 70 tablets per carton.
+Cold-formed aluminium blister strips in cartons of 28, 35, 56, 70 or 98 tablets per carton.
 
 Not all pack sizes may be marketed.
 
