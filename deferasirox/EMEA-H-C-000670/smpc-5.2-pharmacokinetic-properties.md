@@ -36,7 +36,6 @@ Since dosing is individually adjusted according to response this is not expected
 Gender
 Females have a moderately lower apparent clearance (by 17.5%) for deferasirox compared to males.
 Since dosing is individually adjusted according to response this is not expected to have clinical consequences.
-
 Elderly patients
 The pharmacokinetics of deferasirox have not been studied in elderly patients (aged 65 or older).
 

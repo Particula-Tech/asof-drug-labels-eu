@@ -1,5 +1,6 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
 The most frequent reactions reported during chronic treatment with EXJADE in adult and paediatric patients include gastrointestinal disturbances in about 26% of patients (mainly nausea, vomiting, diarrhoea or abdominal pain) and skin rash in about 7% of patients.
 Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years than in older patients.
 These reactions are dose-dependent, mostly mild to moderate, generally transient and mostly resolve even if treatment is continued.
@@ -15,9 +16,10 @@ Elevations of liver transaminases were reported as an adverse drug reaction in 2
 Elevations of transaminases greater than 10 times the upper limit of the normal range, suggestive of hepatitis, were uncommon (0.3%).
 During postmarketing experience, hepatic failure, sometimes fatal, has been reported with EXJADE, especially in patients with pre-existing liver cirrhosis (see section 4.4).
 As with other iron chelator treatment, high-frequency hearing loss and lenticular opacities (early cataracts) have been uncommonly observed in patients treated with EXJADE (see section 4.4).
-
+Tabulated list of adverse reactions
 Adverse reactions are ranked below using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
+
 Table 1
 
 Blood and lymphatic system disorders
@@ -87,3 +89,8 @@ Uncommon: Pyrexia, oedema, fatigue
 
 1 Adverse reactions reported during postmarketing experience.
 These are derived from spontaneous reports for which it is not always possible to reliably establish frequency or a causal relationship to exposure to the medicinal product.
+
+Paediatric population
+Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years than in older patients.
+
+Renal tubulopathy has been mainly reported in children and adolescents with beta-thalassaemia treated with EXJADE.

@@ -19,10 +19,10 @@ It is recommended that serum creatinine be assessed in duplicate before initiati
 Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored weekly in the first month after initiation or modification of therapy with EXJADE, and monthly thereafter.
 Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications.
 Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
-
 For adult patients, the daily dose may be reduced by 10 mg/kg if a rise in serum creatinine by >33% above the average of the pre-treatment measurements and estimated creatinine clearance decreases below the lower limit of the normal range (<90 ml/min) are seen at two consecutive visits, and cannot be attributed to other causes (see section 4.2).
 For paediatric patients, the dose may be reduced by 10 mg/kg if estimated creatinine clearance decreases below the lower limit of the normal range
 (<90 ml/min) and/or serum creatinine levels rise above the age-appropriate upper limit of normal at two consecutive visits.
+
 After a dose reduction, for adult and paediatric patients, treatment should be interrupted if a rise in serum creatinine >33% above the average of the pre-treatment measurements is observed and/or the calculated creatinine clearance falls below the lower limit of the normal range.
 Treatment may be reinitiated depending on the individual clinical circumstances.
 
@@ -52,28 +52,35 @@ As a consequence, treatment with EXJADE is not recommended in these patients.
 
 Caution should be used in elderly patients due to a higher frequency of adverse reactions (in particular, diarrhoea).
 
+Gastrointestinal
 Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children and adolescents, receiving EXJADE.
 Multiple ulcers have been observed in some patients (see section 4.8).
 There have been reports of fatal gastrointestinal haemorrhages, especially in elderly patients who had haematological malignancies and/or low platelet counts.
 Physicians and patients should remain alert for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy and promptly initiate additional evaluation and treatment if a serious gastrointestinal adverse event is suspected.
 Caution should be exercised in patients who are taking EXJADE in combination with substances that have known ulcerogenic potential, such as NSAIDs, corticosteroids, or oral bisphosphonates, in patients receiving anticoagulants and in patients with platelet counts below 50,000/mm3 (50 x 109/l) (see section 4.5).
+
+Skin disorders
 Skin rashes may appear during EXJADE treatment.
 The rashes resolve spontaneously in most cases.
 When interruption of treatment may be necessary, treatment may be reintroduced after resolution of the rash, at a lower dose followed by gradual dose escalation.
 In severe cases this reintroduction could be conducted in combination with a short period of oral steroid administration.
 
+Hypersensitivity reactions
 Cases of serious hypersensitivity reactions (such as anaphylaxis and angioedema) have been reported in patients receiving EXJADE, with the onset of the reaction occurring in the majority of cases within the first month of treatment (see section 4.8).
 If such reactions occur, EXJADE should be discontinued and appropriate medical intervention instituted.
 
+Vision and hearing
 Auditory (decreased hearing) and ocular (lens opacities) disturbances have been reported (see section 4.8).
 Auditory and ophthalmic testing (including fundoscopy) is recommended before the start of treatment and at regular intervals thereafter (every 12 months).
 If disturbances are noted during the treatment, dose reduction or interruption may be considered.
 
+Blood disorders
 There have been post-marketing reports of leukopenia, thrombocytopenia or pancytopenia, or aggravation of these cytopenias in patients treated with EXJADE.
 Most of these patients had pre-existing haematological disorders that are frequently associated with bone marrow failure.
 However, a contributory or aggravating role cannot be excluded.
 Interruption of treatment should be considered in patients who develop unexplained cytopenia.
 
+Other considerations
 Monthly monitoring of serum ferritin is recommended in order to assess the patient’s response to therapy (see section 4.2).
 If serum ferritin falls consistently below 500 µg/l, an interruption of treatment should be considered.
 
@@ -86,8 +93,15 @@ However, as a general precautionary measure in the management of paediatric pati
 Cardiac dysfunction is a known complication of severe iron overload.
 Cardiac function should be monitored in patients with severe iron overload during long-term treatment with EXJADE.
 
-The tablets contain lactose (1.1 mg lactose for each mg of deferasirox).
+Each tablet contains 136 mg lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency, glucose-galactose malabsorption or severe lactase deficiency should not take this medicine.
-
 The concomitant use of deferasirox with aluminium-containing antacid preparations is not recommended.
-Caution should be exercised when deferasirox is combined with strong UDP-glucuronosyl transferase (UGT) inducers, or CYP2C8 substrates (see section 4.5).
+The concomitant use of deferasirox with repaglinide (a CYP2C8 substrate) or with CYP1A2 substrates that have a narrow therapeutic index, such as theophylline, clozapine or tizanidine, is not recommended (see section 4.5).
+
+[EXJADE 250 mg dispersible tablets]
+
+Each tablet contains 272 mg lactose.
+
+[EXJADE 500 mg dispersible tablets]
+
+Each tablet contains 544 mg lactose.
