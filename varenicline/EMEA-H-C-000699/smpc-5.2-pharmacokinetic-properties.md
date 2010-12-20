@@ -15,6 +15,12 @@ Minor metabolites in urine include varenicline N-carbamoylglucuronide and hydrox
 In circulation, varenicline comprises 91% of drug-related material.
 Minor circulating metabolites include varenicline N-carbamoylglucuronide and N-glucosylvarenicline.
 
+In vitro studies demonstrate that varenicline does not inhibit cytochrome P450 enzymes
+(IC50 > 6,400 ng/ml).
+The P450 enzymes tested for inhibition were: 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, and 3A4/5.
+Also, in human hepatocytes in vitro, varenicline was shown to not induce the activity of cytochrome P450 enzymes 1A2 and 3A4.
+Therefore, varenicline is unlikely to alter the pharmacokinetics of compounds that are primarily metabolised by cytochrome P450 enzymes.
+
 Elimination: The elimination half-life of varenicline is approximately 24 hours.
 Renal elimination of varenicline is primarily through glomerular filtration along with active tubular secretion via the organic cationic transporter, OCT2.
 (see section 4.5).
@@ -30,16 +36,10 @@ Renal Insufficiency: Varenicline pharmacokinetics were unchanged in subjects wit
 In patients with moderate renal impairment (estimated creatinine clearance ≥ 30 ml/min and ≤ 50 ml/min), varenicline exposure increased 1.5-fold compared with subjects with normal renal function (estimated creatinine clearance > 80 ml/min).
 In subjects with severe renal impairment (estimated creatinine clearance < 30 ml/min), varenicline exposure was increased 2.1-fold.
 In subjects with end-stage-renal disease (ESRD), varenicline was efficiently removed by haemodialysis (see section 4.2).
-
 Elderly: The pharmacokinetics of varenicline in elderly patients with normal renal function (aged 65-75 years) is similar to that of younger adult subjects (see section 4.2).
 For elderly patients with reduced renal function please refer to section 4.2.
 
+Paediatric population:
 Adolescents: When 22 adolescents aged 12 to 17 years (inclusive) received a single 0.5 mg and 1 mg dose of varenicline the pharmacokinetics of varenicline was approximately dose proportional between the 0.5 mg and 1 mg doses.
 Systemic exposure, as assessed by AUC (0-inf), and renal clearance of varenicline were comparable to adults.
 An increase of 30% in Cmax and a shorter elimination half-life (10.9 hr) were observed in adolescents compared with adults (see section 4.2).
-
-In vitro studies demonstrate that varenicline does not inhibit cytochrome P450 enzymes
-(IC50 > 6,400 ng/ml).
-The P450 enzymes tested for inhibition were: 1A2, 2A6, 2B6, 2C8, 2C9, 2C19, 2D6, 2E1, and 3A4/5.
-Also, in human hepatocytes in vitro, varenicline was shown to not induce the activity of cytochrome P450 enzymes 1A2 and 3A4.
-Therefore, varenicline is unlikely to alter the pharmacokinetics of compounds that are primarily metabolised by cytochrome P450 enzymes.
