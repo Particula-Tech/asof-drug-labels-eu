@@ -23,9 +23,12 @@ Summary of ADRs occurring in patients with RA receiving tocilizumab as monothera
 | Gastrointestinal disorders |  | Abdominal pain, Mouth ulceration, Gastritis | Stomatitis, Gastric ulcer |
 | Skin and subcutaneous tissue disorders |  | Rash, Pruritus, Urticaria |  |
 | Nervous system disorders |  | Headache, Dizziness |  |
-| Investigations |  | Hepatic transaminases increased, Weight increased | Total bilirubin increased |
-| Vascular disorders |  | Hypertension |  |
+| Investigations |  | Hepatic transaminases | Total bilirubin increased |
 
+increased, Weight
+increased
+Vascular Hypertension
+disorders
 Blood and Leukopenia,
 lymphatic system Neutropenia
 disorders
@@ -69,6 +72,8 @@ These events were not treatment limiting.
 The rate of anaphylactic reactions (occurring in a total of 6/3,778 patients, 0.2%) was several fold higher with the 4 mg/kg dose, compared to the 8 mg/kg dose.
 Clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation were reported in a total of 13 out of 3,778 patients (0.3%) treated with tocilizumab during the controlled and open label clinical studies.
 These reactions were generally observed during the second to fifth infusions of tocilizumab (see section 4.4).
+Fatal anaphylaxis has been reported after marketing authorisation during treatment with tocilizumab (see section 4.4).
+
 Immunogenicity
 A total of 2,876 patients have been tested for anti-tocilizumab antibodies in the 6-month controlled clinical trials.
 Of the 46 patients (1.6%) who developed anti-tocilizumab antibodies, 6 had an associated medically significant hypersensitivity reaction, of which 5 led to permanent discontinuation of treatment.
@@ -102,8 +107,8 @@ During the double-blind controlled period and with long-term exposure, the patte
 Lipid parameters
 During the six month controlled trials, increases of lipid parameters such as total cholesterol, triglycerides, LDL cholesterol, and/or HDL cholesterol have been reported commonly.
 Approximately 24% of patients receiving RoActemra in clinical trials experienced sustained elevations in total cholesterol ≥ 6.2 mmol/ l, with 15% experiencing a sustained increase in LDL to ≥ 4.1 mmol/ l. Elevations in lipid parameters responded to treatment with lipid-lowering agents.
-
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of elevations in lipid parameters remained consistent with what was seen in the 6-month controlled trials.
+
 Malignancies
 The clinical data are insufficient to assess the potential incidence of malignancy following exposure to tocilizumab.
 Long-term safety evaluations are ongoing.

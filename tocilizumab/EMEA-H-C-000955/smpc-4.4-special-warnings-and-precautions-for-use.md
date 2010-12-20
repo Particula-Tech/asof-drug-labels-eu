@@ -21,9 +21,12 @@ Complications of diverticulitis
 Events of diverticular perforations as complications of diverticulitis have been reported uncommonly with RoActemra (see section 4.8).
 RoActemra should be used with caution in patients with previous history of intestinal ulceration or diverticulitis.
 Patients presenting with symptoms potentially indicative of complicated diverticulitis, such as abdominal pain, haemorrhage and/or unexplained change in bowel habits with fever should be evaluated promptly for early identification of diverticulitis which can be associated with gastrointestinal perforation.
+
 Hypersensitivity reactions
-Serious hypersensitivity reactions have been reported in association with infusion of RoActemra in approximately 0.3% of patients (see section 4.8).
-Appropriate treatment should be available for immediate use in the event of an anaphylactic reaction during administration of RoActemra.
+Serious hypersensitivity reactions have been reported in association with infusion of RoActemra (see section 4.8).
+Such reactions may be more severe, and potentially fatal in patients who have experienced hypersensitivity reactions during previous infusions even if they have received premedication with steroids and antihistamines.
+Appropriate treatment should be available for immediate use in the event of an anaphylactic reaction during treatment with RoActemra.
+If an anaphylactic reaction or other serious hypersensitivity / serious infusion related reaction occurs, administration of RoActemra should be stopped immediately and RoActemra should be permanently discontinued.
 
 Active hepatic disease and hepatic impairment
 Treatment with RoActemra, particularly when administered concomitantly with MTX, may be associated with elevations in hepatic transaminases, therefore, caution should be exercised when considering treatment of patients with active hepatic disease or hepatic impairment (see sections 4.2 and 4.8).
@@ -57,10 +60,10 @@ In the majority of patients, there was no increase in atherogenic indices, and e
 
 Assessment of lipid parameters should be performed 4 to 8 weeks following initiation of RoActemra therapy.
 Patients should be managed according to local clinical guidelines for management of hyperlipidaemia.
-
 Neurological disorders
 Physicians should be vigilant for symptoms potentially indicative of new-onset central demyelinating disorders.
 The potential for central demyelination with RoActemra is currently unknown.
+
 Malignancy
 The risk of malignancy is increased in patients with RA.
 Immunomodulatory medicinal products may increase the risk of malignancy.

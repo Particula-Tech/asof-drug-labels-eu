@@ -26,7 +26,6 @@ In Study I, tocilizumab was administered intravenously every four weeks as monot
 In Studies II, III and V, tocilizumab was administered intravenously every four weeks in combination with MTX vs. placebo and MTX.
 In Study IV, tocilizumab was administered intravenously every 4 weeks in combination with other DMARDs vs. placebo and other DMARDs.
 The primary endpoint for each of the five studies was the proportion of patients who achieved an ACR 20 response at week 24.
-
 Study I evaluated 673 patients who had not been treated with MTX within six months prior to randomisation and who had not discontinued previous MTX treatment as a result of clinically important toxic effects or lack of response.
 The majority (67%) of patients were MTX-naïve.
 Doses of 8 mg/kg of tocilizumab were given every four weeks as monotherapy.

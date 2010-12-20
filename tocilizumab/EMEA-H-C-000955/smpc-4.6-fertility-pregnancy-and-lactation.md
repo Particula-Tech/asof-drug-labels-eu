@@ -7,6 +7,7 @@ The potential risk for humans is unknown.
 Women of childbearing potential must use effective contraception during and up to 3 months after treatment.
 
 RoActemra should not be used during pregnancy unless clearly necessary.
+
 Lactation
 It is unknown whether tocilizumab is excreted in human breast milk.
 The excretion of tocilizumab in milk has not been studied in animals.
