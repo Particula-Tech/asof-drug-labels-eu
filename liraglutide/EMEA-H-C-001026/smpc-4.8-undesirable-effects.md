@@ -28,6 +28,7 @@ Table 1 Adverse reactions identified from long-term controlled phase III studies
 | Hypoglycaemia |  | Common | Very common | Common |
 | Anorexia | Common | Common | Common | Common |
 | Appetite decreased | Common |  |  | Common |
+|  | Liraglutide with metformin | Liraglutide with glimepiride | Liraglutide with metformin and glimepiride | Liraglutide with metformin and rosiglitazone |
 | Nervous system disorders |  |  |  |  |
 | Headache | Very common |  | Common | Common |
 | Dizziness | Common |  |  |  |
@@ -65,7 +66,7 @@ Most episodes were mild to moderate and occurred in a dose-dependent fashion.
 With continued therapy, the frequency and severity decreased in most patients who initially experienced nausea.
 
 Patients >70 years may experience more gastrointestinal effects when treated with liraglutide.
-Patients with mild renal impairment (creatinine clearance ≤60-90 ml/min) may experience more gastrointestinal effects when treated with liraglutide.
+Patients with mild renal impairment (creatinine clearance 60-90 ml/min) may experience more gastrointestinal effects when treated with liraglutide.
 
 Withdrawal
 The incidence of withdrawal due to adverse reactions was 7.8% for Victoza-treated patients and 3.4% for comparator-treated patients in the long-term controlled trials (26 weeks or longer).
@@ -84,8 +85,8 @@ These reactions have usually been mild and did not lead to discontinuation of Vi
 
 Pancreatitis
 Few cases (<0.2%) of acute pancreatitis have been reported during long-term clinical trials with Victoza.
-A causal relationship between Victoza and pancreatitis can neither be established nor excluded.
 
 Thyroid events
-The overall rates of thyroid adverse events in all intermediate and long-term trials are 33.5, 30.0 and 21.7 events per 1000 subject years of exposure for total liraglutide, placebo and total comparators; 5.4, 2.1 and 0.8 events, respectively concern serious thyroid adverse events.
-In liraglutide-treated patients, thyroid neoplasms, increased blood calcitonin and goiters are the most frequently thyroid adverse events and were reported in 0.5%, 1% and 0.8% of patients respectively.
+The overall rates of thyroid adverse events in all intermediate and long-term trials are 33.5, 30.0 and 21.7 events per 1000 subject years of exposure for total liraglutide, placebo and total comparators; 5.4, 2.1 and 1.2 events, respectively concern serious thyroid adverse events.
+Thyroid neoplasms, increased blood calcitonin and goiters were the most frequently thyroid adverse events.
+The rates per 1000 subject years of exposure were 6.8, 10.9 and 5.4 of liraglutide treated patients in comparison with 6.4, 10.7 and 2.1 of placebo treated and 2.4, 6.0 and 1.8 of total comparator treated patients respectively.

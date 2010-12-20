@@ -23,6 +23,7 @@ Only a minor part of the administered radioactivity was excreted as liraglutide-
 The urine and faeces radioactivity was mainly excreted during the first 6-8 days, and corresponded to three minor metabolites, respectively.
 
 The mean clearance following subcutaneous administration of a single dose liraglutide is approximately 1.2 l/h with an elimination half-life of approximately 13 hours.
+
 Special populations
 
 Elderly: Age had no clinically relevant effect on the pharmacokinetics of liraglutide based on the results from a pharmacokinetic study in healthy subjects and population pharmacokinetic data analysis of patients (18 to 80 years).

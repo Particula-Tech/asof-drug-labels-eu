@@ -8,7 +8,7 @@ There is no experience in patients with congestive heart failure NYHA class III-
 There is limited experience in patients with inflammatory bowel disease and diabetic gastroparesis and Victoza is therefore not recommended in these patients.
 The use of Victoza is associated with transient gastrointestinal adverse reactions, including nausea, vomiting and diarrhoea.
 
-Use of other GLP-1 analogues has been associated with the risk of pancreatitis.
+Use of GLP-1 analogues has been associated with the risk of pancreatitis.
 There have been few reported events of acute pancreatitis.
 Patients should be informed of the characteristic symptom of acute pancreatitis: persistent, severe abdominal pain.
 If pancreatitis is suspected, Victoza and other potentially suspect medicinal products should be discontinued.
@@ -17,3 +17,6 @@ Thyroid adverse events, including increased blood calcitonin, goitre and thyroid
 
 Patients receiving Victoza in combination with a sulphonylurea may have an increased risk of hypoglycaemia (see section 4.8).
 The risk of hypoglycaemia can be lowered by a reduction in the dose of sulphonylurea.
+
+Sign and symptoms of dehydration, including altered renal function have been reported in patients treated with Victoza.
+Patients treated with Victoza should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion

@@ -67,9 +67,9 @@ Patients (%) achieving
 HbA1c <7%
 
 All patients 41.6 34.5 7.5 21.9
-55.9 57.4 11.8 36.1
+Previous OAD 55.9 57.4 11.8 36.1
 
-Previous OAD monotherapy
+monotherapy
 Mean body weight (kg)
 
 Baseline 83.0 80.0 81.9 80.6
@@ -80,13 +80,30 @@ Change from baseline -0.23 0.32 -0.10 2.11
 Table 3 Results of two 26 week trials.
 Victoza in combination with metformin + rosiglitazone and Victoza in combination with glimepiride + metformin.
 
-| Metformin + rosiglitazone add-on therapy N Mean HbA1c (%) Baseline Change from baseline Patients (%) achieving HbA1c <7% All patients Mean body weight (kg) Baseline Change from baseline | 1.8 mg liraglutide + metformin2 + rosiglitazone3 178 | 1.2mg liraglutide + metformin2 + rosiglitazone3 177 | placebo + metformin2 + rosiglitazone3 175 | N/A |
-| --- | --- | --- | --- | --- |
-|  | 8.56 -1.48 | 8.48 -1.48 | 8.42 -0.54 |  |
-|  | 53.7 | 57.5 | 28.1 |  |
-|  | 94.9 -2.02 | 95.3 -1.02 | 98.5 0.60 |  |
-| Metformin + glimepiride add-on therapy | 1.8 mg liraglutide + metformin2 + glimepiride4 | N/A | Placebo + metformin2 + glimepiride4 | insulin glargin e1 + metformin2 + glimepiride4 |
+Metformin + rosiglitazone 1.8 mg liraglutide 1.2mg liraglutide placebo N/A
+add-on therapy + metformin2 + metformin2 + metformin2
 
++ rosiglitazone3 + rosiglitazone3 + rosiglitazone3
+
+N 178 177 175
+
+Mean HbA1c (%)
+
+Baseline 8.56 8.48 8.42
+Change from baseline -1.48 -1.48 -0.54
+
+Patients (%) achieving
+HbA1c <7%
+
+All patients 53.7 57.5 28.1
+
+Mean body weight (kg)
+
+Baseline 94.9 95.3 98.5
+Change from baseline -2.02 -1.02 0.60
+Metformin + glimepiride 1.8 mg liraglutide N/A Placebo insulin glargine1
+add-on therapy + metformin2 + metformin2 + metformin2
++ glimepiride4 + glimepiride4 + glimepiride4
 N 230 114 232
 
 Mean HbA1c (%)
@@ -115,11 +132,11 @@ Guideline for titration of insulin glargine
 | ≥6.7 mmol/l (≥120 mg/dl) | 2 IU |
 
 a According to the individualised recommendation by the investigator at the previous visit for example depending on whether subject has experienced hypoglycaemia.
-
 2 Metformin 2000 mg/day; 3 rosiglitazone 4 mg twice daily; 4 glimepiride 4 mg/day.
 
 Proportion of patients achieving reductions in HbA1c
 Victoza in combination with metformin, glimepiride, or metformin and rosiglitazone resulted in a statistically significant (p≤0.0001) greater proportion of patients achieving an HbA1c≤6.5% at 26 weeks compared with patients receiving these agents alone.
+
 Fasting plasma glucose
 Treatment with Victoza alone or in combination with one or two oral antidiabetic drugs resulted in a reduction in fasting plasma glucose of 13-43.5 mg/dl (0.72-2.42 mmol/l).
 This reduction was observed within the first two weeks of treatment.
