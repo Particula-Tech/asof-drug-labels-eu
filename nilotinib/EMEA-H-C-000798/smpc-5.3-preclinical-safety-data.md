@@ -21,6 +21,12 @@ Embryo-lethality and foetal effects (mainly decreased foetal weights, premature 
 In a pre- and postnatal development study in rats, maternal exposure to nilotinib caused reduced pup body weight with associated changes in physical development parameters as well as reduced mating and fertility indices in the offspring.
 Exposure to nilotinib in females at No-Observed-Adverse-Effect-Levels was generally less or equal to that in humans at 800 mg/day.
 
+In a juvenile development study, nilotinib was administered via oral gavage to juvenile rats from the first week post partum through young adult (day 70 post partum) at doses of 2, 6 and 20 mg/kg/day.
+Besides standard study parameters, evaluations of developmental landmarks, CNS effects, mating and fertility were performed.
+Based on a reduction in body weight in both genders and a delayed preputial separation in males (which may be associated with the reduction in weight), the No-Observed-Effect-Level in juvenile rats was considered to be 6 mg/kg/day.
+The juvenile animals did not exert increased sensitivity to nilotinib relative to adults.
+In addition, the toxicity profile in juvenile rats was comparable to that observed in adult rats.
+
 No effects on sperm count/motility or on fertility were noted in male and female rats up to the highest tested dose, approximately 5 times the recommended dosage for humans.
 
 Nilotinib was shown to absorb light in the UV-B and UV-A range, is distributed into the skin and showed a phototoxic potential in vitro, but no effects have been observed in vivo.

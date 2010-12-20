@@ -1,3 +1,5 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
 
+[Tasigna 200 mg hard capsules]
+
 EU/1/07/422/001-004
