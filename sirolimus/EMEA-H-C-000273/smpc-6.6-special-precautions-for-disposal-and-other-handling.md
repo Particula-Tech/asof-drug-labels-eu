@@ -19,4 +19,4 @@ No special requirements.
 
 [Rapamune 2 mg coated tablets.]
 
-Any unused product or waste material would be disposed of in accordance with local requirements.
+(all sentences already above)

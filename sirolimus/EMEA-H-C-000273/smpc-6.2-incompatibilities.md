@@ -3,7 +3,7 @@
 Rapamune must not be diluted in grapefruit juice or any other liquid other than water or orange juice (see section 6.6).
 
 Rapamune oral solution contains polysorbate-80, which is known to increase the rate of di-(2-ethylhexyl)phthalate (DEHP) extraction from polyvinyl chloride (PVC).
-It is important to follow the instructions to administer Rapamune oral solution at once when a plastic container is used for the dilution and/or administration (see section 6.6).
+It is important to follow the instructions to drink Rapamune oral solution at once when a plastic container is used for the dilution and/or administration (see section 6.6).
 
 [Rapamune 0.5 mg coated tablets]
 

@@ -4,6 +4,7 @@ Store in a refrigerator at 2°C - 8°C.
 Store in the original bottle in order to protect from light.
 
 If necessary, the patient may store the bottles at room temperatures up to 25°C for a short period of time (24 hours).
+For storage conditions of the diluted medicinal product, see section 6.3
 
 [Rapamune 0.5 mg coated tablets]
 
