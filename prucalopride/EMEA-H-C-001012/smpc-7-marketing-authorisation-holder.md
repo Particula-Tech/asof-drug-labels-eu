@@ -4,4 +4,4 @@ Movetis NV
 Veedijk 58
 B-2300 Turnhout
 Belgium
-E-mail: info@movetis.com
+Tel.: 008006683 8470
