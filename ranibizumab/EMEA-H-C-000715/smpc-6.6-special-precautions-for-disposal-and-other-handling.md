@@ -23,6 +23,7 @@ The filter needle should be discarded after withdrawal of the vial contents and 
 
 6.
 Aseptically and firmly assemble the injection needle (provided) onto the syringe.
+
 7.
 Carefully remove the cap from the injection needle without disconnecting the injection needle from the syringe.
 
