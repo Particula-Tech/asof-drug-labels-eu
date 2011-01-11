@@ -1,6 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Gilead Sciences International Limited
-Cambridge
-CB21 6GT
+Rapidscan Pharma Solutions EU Ltd.
+Regent’s Place
+338 Euston Road
+London NW1 3BT
 United Kingdom
