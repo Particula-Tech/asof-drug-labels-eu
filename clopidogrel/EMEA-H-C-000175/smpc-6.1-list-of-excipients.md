@@ -9,7 +9,7 @@ Low substituted hydroxypropylcellulose
 
 Coating:
 Hypromellose (E464)
-Lactose
+Lactose monohydrate
 Triacetin (E1518)
 Titanium dioxide (E171)
 Red iron oxide (E172)

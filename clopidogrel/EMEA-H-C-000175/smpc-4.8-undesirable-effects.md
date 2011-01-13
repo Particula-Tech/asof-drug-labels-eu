@@ -1,32 +1,30 @@
 # 4.8 Undesirable effects
 
-Clopidogrel has been evaluated for safety in more than 42,000 patients who have participated in clinical studies, including over 9,000 patients treated for 1 year or more.
-The clinically relevant adverse reactions observed in the CAPRIE, CURE, CLARITY and COMMIT studies are discussed below.
+Clopidogrel has been evaluated for safety in more than 44,000 patients who have participated in clinical studies, including over 12,000 patients treated for 1 year or more.
 Overall, clopidogrel 75 mg/day was comparable to ASA 325 mg/day in CAPRIE regardless of age, gender and race.
+The clinically relevant adverse reactions observed in the CAPRIE, CURE, CLARITY, COMMIT and ACTIVE-A studies are discussed below.
 In addition to clinical studies experience, adverse reactions have been spontaneously reported.
 
 Bleeding is the most common reaction reported both in clinical studies as well as in post-marketing experience where it was mostly reported during the first month of treatment.
-
 In CAPRIE, in patients treated with either clopidogrel or ASA, the overall incidence of any bleeding was 9.3%.
-The incidence of severe cases was 1.4% for clopidogrel and 1.6% for ASA.
+The incidence of severe cases was similar for clopidogrel and ASA.
 
-In CURE, the major bleeding event rate for clopidogrel+ASA was dose-dependent on ASA (<100mg: 2.6%; 100-200mg: 3.5%; >200mg: 4.9%) as was the major bleeding event rate for placebo+ASA (<100mg: 2.0%; 100-200mg: 2.3%; >200mg: 4.0%).
-The risk of bleeding (life-threatening, major, minor, other) decreased during the course of the trial: 0-1 months (clopidogrel: 9.6%; placebo: 6.6%), 1-3 months (clopidogrel: 4.5%; placebo: 2.3%), 3-6 months (clopidogrel: 3.8%; placebo: 1.6%),
-6-9 months (clopidogrel: 3.2%; placebo: 1.5%), 9-12 months (clopidogrel: 1.9%; placebo: 1.0%).
-There was no excess in major bleeds with clopidogrel + ASA within 7 days after coronary bypass graft surgery in patients who stopped therapy more than five days prior to surgery (4.4% clopidogrel+ASA vs. 5.3% placebo+ASA).
-In patients who remained on therapy within five days of bypass graft surgery, the event rate was 9.6% for clopidogrel+ASA, and 6.3% for placebo+ASA.
+In CURE, there was no excess in major bleeds with clopidogrel plus ASA within 7 days after coronary bypass graft surgery in patients who stopped therapy more than five days prior to surgery .
+In patients who remained on therapy within five days of bypass graft surgery, the event rate was 9.6% for clopidogrel plus ASA, and 6.3% for placebo plus ASA.
 
-In CLARITY, there was an overall increase in bleeding in the clopidogrel + ASA group (17.4%) vs. the placebo + ASA group (12.9%).The incidence of major bleeding was similar between groups (1.3% versus 1.1% for the clopidogrel + ASA and the placebo + ASA groups, respectively).
+In CLARITY, there was an overall increase in bleeding in the clopidogrel plus ASA group vs. the placebo plus ASA group .The incidence of major bleeding was similar between groups .
 This was consistent across subgroups of patients defined by baseline characteristics, and type of fibrinolytic or heparin therapy.
 
-In COMMIT, the overall rate of noncerebral major bleeding or cerebral bleeding was low and similar in both groups (0.6% versus 0.5% in the clopidogrel + ASA and the placebo + ASA groups, respectively).
+In COMMIT, the overall rate of noncerebral major bleeding or cerebral bleeding was low and similar in both groups.
+
+In ACTIVE-A, the rate of major bleeding was greater in the clopidogrel + ASA group than in the placebo + ASA group (6.7% versus 4.3%).
+Major bleeding was mostly of extracranial origin in both groups (5.3% in the clopidogrel + ASA group; 3.5% in the placebo +ASA group), mainly from the gastrointestinal tract (3.5% vs. 1.8%).
+There was an excess of intracranial bleeding in the clopidogrel + ASA treatment group compared to the placebo + ASA group (1.4% versus 0.8%, respectively).
+There was no statistically significant difference in the rates of fatal bleeding (1.1% in the clopidogrel + ASA group and 0.7% in the placebo +ASA group) and haemorrhagic stroke (0.8% and 0.6%, respectively) between groups.
 
 Adverse reactions that occurred either during clinical studies or that were spontaneously reported are presented in the table below.
 Their frequency is defined using the following conventions: common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
-Within each system organ class, adverse drug reactions are presented in order of decreasing seriousness.
-
-System Organ Common Uncommon Rare Very rare
-Class
+Within each system organ class, adverse reactions are presented in order of decreasing seriousness.
 
 | System Organ Class | Common | Uncommon | Rare | Very rare |
 | --- | --- | --- | --- | --- |

@@ -8,13 +8,13 @@ The active metabolite of clopidogrel selectively inhibits the binding of adenosi
 Due to the irreversible binding, platelets exposed are affected for the remainder of their lifespan (approximately 7-10 days) and recovery of normal platelet function occurs at a rate consistent with platelet turnover.
 Platelet aggregation induced by agonists other than ADP is also inhibited by blocking the amplification of platelet activation by released ADP.
 
-Because the active metabolite is formed by CYP450 enzymes, some of which are polymorphic or subject to inhibition by other drugs, not all patients will have adequate platelet inhibition.
+Because the active metabolite is formed by CYP450 enzymes, some of which are polymorphic or subject to inhibition by other medicinal products, not all patients will have adequate platelet inhibition.
 
 Repeated doses of 75 mg per day produced substantial inhibition of ADP-induced platelet aggregation from the first day; this increased progressively and reached steady state between Day 3 and Day 7.
 At steady state, the average inhibition level observed with a dose of 75 mg per day was between 40% and 60%.
 Platelet aggregation and bleeding time gradually returned to baseline values, generally within 5 days after treatment was discontinued.
 
-The safety and efficacy of clopidogrel have been evaluated in 4 double-blind studies involving over 80,000 patients: the CAPRIE study, a comparison of clopidogrel to ASA, and the CURE, CLARITY and COMMIT studies comparing clopidogrel to placebo, both medicinal products given in combination with ASA and other standard therapy.
+The safety and efficacy of clopidogrel have been evaluated in 5 double-blind studies involving over 88,000 patients: the CAPRIE study, a comparison of clopidogrel to ASA, and the CURE, CLARITY, COMMIT and ACTIVE-A studies comparing clopidogrel to placebo, both medicinal products given in combination with ASA and other standard therapy.
 
 Recent myocardial infarction (MI), recent stroke or established peripheral arterial disease
 
@@ -23,10 +23,10 @@ Patients were randomised to clopidogrel 75 mg/day or ASA 325 mg/day, and were fo
 In the myocardial infarction subgroup, most of the patients received ASA for the first few days following the acute myocardial infarction.
 
 Clopidogrel significantly reduced the incidence of new ischaemic events (combined end point of myocardial infarction, ischaemic stroke and vascular death) when compared to ASA.
-In the intention to treat analysis, 939 events were observed in the clopidogrel group and 1,020 events with ASA (relative risk reduction (RRR) 8.7%, [95% CI: 0.2 to 16.4]; p = 0.045), which corresponds, for every 1,000 patients treated for 2 years, to 10 [CI: 0 to 20] additional patients being prevented from experiencing a new ischaemic event.
+In the intention to treat analysis, 939 events were observed in the clopidogrel group and 1,020 events with ASA (relative risk reduction (RRR) 8.7%, [95% CI: 0.2 to 16.4]; p=0.045), which corresponds, for every 1,000 patients treated for 2 years, to 10 [CI: 0 to 20] additional patients being prevented from experiencing a new ischaemic event.
 Analysis of total mortality as a secondary endpoint did not show any significant difference between clopidogrel (5.8%) and ASA (6.0%).
 
-In a subgroup analysis by qualifying condition (myocardial infarction, ischaemic stroke, and PAD) the benefit appeared to be strongest (achieving statistical significance at p = 0.003) in patients enrolled due to PAD (especially those who also had a history of myocardial infarction) (RRR = 23.7%; CI: 8.9 to 36.2) and weaker (not significantly different from ASA) in stroke patients (RRR = 7.3%; CI: -5.7 to 18.7 [p=0.258]).
+In a subgroup analysis by qualifying condition (myocardial infarction, ischaemic stroke, and PAD) the benefit appeared to be strongest (achieving statistical significance at p=0.003) in patients enrolled due to PAD (especially those who also had a history of myocardial infarction) (RRR = 23.7%; CI: 8.9 to 36.2) and weaker (not significantly different from ASA) in stroke patients (RRR = 7.3%; CI: -5.7 to 18.7 [p=0.258]).
 In patients who were enrolled in the trial on the sole basis of a recent myocardial infarction, clopidogrel was numerically inferior, but not statistically different from ASA (RRR = -4.0%; CI: -22.5 to 11.7 [p=0.639]).
 In addition, a subgroup analysis by age suggested that the benefit of clopidogrel in patients over 75 years was less than that observed in patients ≤75 years.
 
@@ -58,7 +58,6 @@ Thus, the results from this subset are in line with the overall trial results.
 
 The benefits observed with clopidogrel were independent of other acute and long-term cardiovascular therapies (such as heparin/LMWH, GPIIb/IIIa antagonists, lipid lowering medicinal products, beta blockers, and ACE-inhibitors).
 The efficacy of clopidogrel was observed independently of the dose of ASA (75-325 mg once daily).
-
 In patients with acute ST-segment elevation MI, safety and efficacy of clopidogrel have been evaluated in 2 randomised, placebo-controlled, double-blind studies, CLARITY and COMMIT.
 
 The CLARITY trial included 3,491 patients presenting within 12 hours of the onset of a ST elevation MI and planned for thrombolytic therapy.
@@ -77,5 +76,34 @@ Patients received clopidogrel (75 mg/day, n=22,961) or placebo (n=22,891), in co
 The co-primary endpoints were death from any cause and the first occurrence of re-infarction, stroke or death.
 The population included 27.8% women, 58.4% patients ≥ 60 years (26% ≥ 70 years) and 54.5% patients who received fibrinolytics.
 
-Clopidogrel significantly reduced the relative risk of death from any cause by 7% (p = 0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p = 0.002), representing an absolute reduction of 0.5% and 0.9%, respectively.
+Clopidogrel significantly reduced the relative risk of death from any cause by 7% (p=0.029), and the relative risk of the combination of re-infarction, stroke or death by 9% (p=0.002), representing an absolute reduction of 0.5% and 0.9%, respectively.
 This benefit was consistent across age, gender and with or without fibrinolytics, and was observed as early as 24 hours.
+
+Atrial fibrillation
+
+The ACTIVE-W and ACTIVE-A studies, separate trials in the ACTIVE program, included patients with atrial fibrillation (AF) who had at least one risk factor for vascular events.
+Based on enrollment criteria, physicians enrolled patients in ACTIVE-W if they were candidates for vitamin K antagonist (VKA) therapy (such as warfarin).
+The ACTIVE-A study included patients who could not receive VKA therapy because they were unable or unwilling to receive the treatment.
+
+The ACTIVE-W study demonstrated that anticoagulant treatment with vitamin K antagonists was more effective than with clopidogrel and ASA.
+
+The ACTIVE-A study (N=7,554) was a multicenter, randomized, double-blind, placebo-controlled study which compared clopidogrel 75 mg/day + ASA (N=3,772) to placebo + ASA (N=3,782).
+The recommended dose for ASA was 75 to 100 mg/day.
+Patients were treated for up to 5 years.
+
+Patients randomized in the ACTIVE program were those presenting with documented AF, i.e., either permanent AF or at least 2 episodes of intermittent AF in the past 6 months, and had at least one of the following risk factors: age ≥75 years or age 55 to 74 years and either diabetes mellitus requiring drug therapy, or documented previous MI or documented coronary artery disease; treated for systemic hypertension; prior stroke, transient ischaemic attack (TIA), or non-CNS systemic embolus; left ventricular dysfunction with left ventricular ejection fraction <45%; or documented peripheral vascular disease.
+The mean CHADS2 score was 2.0 (range 0-6).
+The major exclusion criteria for patients were documented peptic ulcer disease within the previous 6 months; prior intracerebral hemorrhage; significant thrombocytopenia (platelet count < 50 x 109/l); requirement for clopidogrel or oral anticoagulants (OAC); or intolerance to any of the two compounds.
+
+Seventy-three percent (73%) of patients enrolled into the ACTIVE-A study were unable to take VKA due to physician assessment, inability to comply with INR (international normalised ratio) monitoring, predisposition to falling or head trauma, or specific risk of bleeding; for 26% of the patients, the physician’s decision was based on the patient’s unwillingness to take VKA.
+
+The patient population included 41.8 % women.
+The mean age was 71 years, 41.6% of patients were
+≥75 years.
+A total of 23.0% of patients received anti-arrhythmics, 52.1% beta-blockers, 54.6% ACE inhibitors, and 25.4% statins.
+
+The number of patients who reached the primary endpoint (time to first occurrence of stroke, MI, non-CNS systemic embolism or vascular death) was 832 (22.1%) in the group treated with clopidogrel + ASA and 924 (24.4%) in the placebo + ASA group (relative risk reduction of 11.1%; 95% CI of 2.4% to 19.1%; p=0.013), primarily due to a large reduction in the incidence of strokes.
+Strokes occurred in 296 (7.8%) patients receiving clopidogrel + ASA and 408 (10.8%) patients receiving placebo + ASA (relative risk reduction, 28.4%; 95% CI, 16.8% to 38.3%; p=0.00001).
+
+Paediatric population
+The European Medicines Agency has deferred the obligation to submit the results of studies with Iscover in one or more subsets of the paediatric population for the prevention of thromboembolic events (see section 4.2 for information on paediatric use).
