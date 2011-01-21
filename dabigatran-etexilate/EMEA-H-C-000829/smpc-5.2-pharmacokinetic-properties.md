@@ -53,7 +53,7 @@ No change in dabigatran exposure was seen in 12 subjects with moderate hepatic i
 
 Body weight:
 Population pharmacokinetic studies have evaluated the pharmacokinetics of dabigatran in patients of 48 to 120 kg body weight.
-Body weight had a minor effect on the plasma clearance of dabigatran resulting in higher exposure in patients with low body weight (see section 4.2 and 4.4).
+Body weight had a minor effect on the plasma clearance of dabigatran resulting in higher exposure in patients with low body weight (see sections 4.2 and 4.4).
 
 Gender:
 Active substance exposure in female patients is about 40 % to 50 % higher than in male patients and no dose adjustment is recommended.
@@ -65,7 +65,7 @@ No pharmacokinetic data in black patients are available.
 
 Pharmacokinetic interactions:
 The pro-drug dabigatran etexilate but not dabigatran is a substrate of the efflux transporter P-glycoprotein.
-Therefore co-medications with P-glycoprotein transporter inhibitors (amiodarone, verapamil, clarithromycin, quinidine and ketoconazole) and inducers (rifampicin) had been investigated (see section 4.2, 4.4 and 4.5).
+Therefore co-medications with P-glycoprotein transporter inhibitors (amiodarone, verapamil, clarithromycin, quinidine and ketoconazole) and inducers (rifampicin) had been investigated (see sections 4.2, 4.4 and 4.5).
 
 In vitro interaction studies did not show any inhibition or induction of the principal isoenzymes of cytochrome P450.
 This has been confirmed by in vivo studies with healthy volunteers, who did not show any interaction between this treatment and the following active substances: atorvastatin (CYP3A4), digoxin (P-glycoprotein transporter interaction) and diclofenac (CYP2C9).

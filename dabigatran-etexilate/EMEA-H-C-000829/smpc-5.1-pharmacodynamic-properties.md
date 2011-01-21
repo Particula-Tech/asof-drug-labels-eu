@@ -12,8 +12,8 @@ In-vivo and ex-vivo animal studies have demonstrated antithrombotic efficacy and
 
 There is a clear correlation between plasma dabigatran concentration and degree of anticoagulant effect based on phase II studies.
 
-Steady state (after day 3) dabigatran peak plasma concentration, measured 2-4 hours after 220 mg dabigatran etexilate administration, is expected to be around 270 ng/ml, with an expected range of 80-460 ng/ml.
-The dabigatran trough concentration, measured at the end of the dosing interval (24 hours after the last 220 mg dabigatran dose), is expected to be around 40 ng/ml, with expected range of 10-90 ng/ml.
+Steady state (after day 3) geometric mean dabigatran peak plasma concentration, measured around 2 hours after 220 mg dabigatran etexilate administration, was 70.8 ng/ml, with a range of 35.2-162 ng/ml (25th – 75th percentile range).
+The dabigatran geometric mean trough concentration, measured at the end of the dosing interval (i.e. 24 hours after a 220 mg dabigatran dose), was on average 22.0 ng/ml, with a range of 13.0-35.7 ng/ml (25th – 75th percentile range) (see section 4.4).
 
 Ethnic origin:
 

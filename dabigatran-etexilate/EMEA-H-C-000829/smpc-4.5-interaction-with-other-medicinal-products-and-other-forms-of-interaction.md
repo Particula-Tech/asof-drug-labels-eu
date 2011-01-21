@@ -50,7 +50,7 @@ In patient with normal renal function after the surgery, receiving dabigatran et
 In patient with moderate renal impairment and concomitantly treated with dabigatran etexilate and verapamil, a dose reduction of Pradaxa to 75 mg daily should be considered (see sections 4.2 and 4.4).
 
 There was no meaningful interaction observed when verapamil was given 2 hours after dabigatran etexilate (increased of Cmax by about 10 % and AUC by about 20 %).
-This is explained by completed dabigatran absorption after 2 hours (see section 4.4)
+This is explained by completed dabigatran absorption after 2 hours (see section 4.4).
 
 Clarithromycin: When clarithromycin (500 mg bid) was administered together with dabigatran etexliate in healthy voluteers, increase of AUC by about 19 % and Cmax by about 15 % was observed without any clinical safety concern.
 However, in patients receiving dabigatran, a clinically relevant interaction cannot be excluded when combined with clarithromycin.

@@ -18,6 +18,8 @@ If treatment is not started on the day of surgery then treatment should be initi
 Paediatric population
 
 There is no relevant use of Pradaxa in the paediatric population in the indication: primary prevention of venous thromboembolic events in patients who have undergone elective total hip replacement surgery or total knee replacement surgery.
+Pradaxa is not recommended for use in patients below 18 years due to lack of data on safety and efficacy.
+
 Special patient populations:
 
 Renal impairment:
@@ -26,7 +28,7 @@ Treatment with Pradaxa in patients with severe renal impairment (creatinine clea
 
 In patients with moderate renal impairment (creatinine clearance 30-50 ml/min), there is limited clinical experience.
 These patients should be treated with caution.
-The recommended dose is 150 mg taken once daily as 2 capsules of 75 mg (see section 4.4 and 5.1).
+The recommended dose is 150 mg taken once daily as 2 capsules of 75 mg (see sections 4.4 and 5.1).
 
 After knee replacement surgery treatment should be initiated orally within 1 – 4 hours of completed surgery with a single capsule and continuing with 2 capsules once daily thereafter for a total of 10 days.
 
@@ -36,7 +38,7 @@ Elderly:
 
 In elderly patients ( > 75 years) there is limited clinical experience.
 These patients should be treated with caution.
-The recommended dose is 150 mg taken once daily as 2 capsules of 75 mg (see section 4.4 and 5.1).
+The recommended dose is 150 mg taken once daily as 2 capsules of 75 mg (see sections 4.4 and 5.1).
 
 After knee replacement surgery treatment should be initiated orally within 1 – 4 hours of completed surgery with a single capsule and continuing with 2 capsules once daily thereafter for a total of 10 days.
 
@@ -57,11 +59,6 @@ Post-surgical patients with an increased risk for bleeding:
 
 Patients at risk for bleeding or patients at risk of overexposure, notably patients with moderate renal impairment (creatinine clearance 30 – 50 ml/min), should be treated with caution (see sections 4.4 and 5.1).
 
-Children and adolescents:
-
-There is no experience in children and adolescents.
-Pradaxa is not recommended for use in patients below 18 years due to lack of data on safety and efficacy.
-
 Concomitant use of Pradaxa with strong P-glycoprotein inhibitors, i.e. amiodarone, quinidine or verapamil:
 Dosing should be reduced to 150 mg Pradaxa daily in patients who received concomitantly dabigatran etexilate and amiodarone, quinidine or verapamil (see sections 4.4 and 4.5).
 In this situation Pradaxa and these medicinal products should be taken at the same time.
@@ -77,4 +74,4 @@ Switching from parenteral anticoagulants treatment to Pradaxa:
 No data are available, therefore it is not recommended to start the administration of Pradaxa before the next scheduled dose of the parenteral anticoagulant would have been due (see section 4.5).
 
 Pradaxa should be swallowed as a whole with water, with or without food.
-Patients should be instructed not to open the capsule as this may increase the risk of bleeding (see section 5.2.).
+Patients should be instructed not to open the capsule as this may increase the risk of bleeding (see section 5.2).

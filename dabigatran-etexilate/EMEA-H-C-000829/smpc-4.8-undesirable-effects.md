@@ -16,7 +16,7 @@ Table 1 Bleeding events broken down to major and any bleeding in the pivotal hip
 | Major Bleeding | 24 (1.3) | 33 (1.8) | 27 (1.5) |
 | Any bleeding | 258(13.8) | 251(13.8) | 247(13.4) |
 
-Table 2 shows the adverse reactions ranked under headings of SOC and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100, <1/10); uncommon (≥ 1/1,000, <1/100); rare (≥ 1/10,000, <1/1,000); very rare (< 1/10,000).
+Table 2 shows the adverse reactions ranked under headings of SOC and frequency using the following convention: very common (≥ 1/10); common (≥ 1/100, <1/10); uncommon (≥ 1/1,000, <1/100); rare (≥ 1/10,000, <1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 
 | SOC / Preferred Term. | Dabigatran etexilate 150 mg | Dabigatran etexilate 220 mg |
 | --- | --- | --- |
@@ -38,7 +38,7 @@ Table 2 shows the adverse reactions ranked under headings of SOC and frequency u
 | Haematoma | Uncommon | Uncommon |
 | Haemorrhage | Uncommon | Uncommon |
 | Wound haemorrhage | Uncommon | Uncommon |
-| Respiratory and thoracic system disorders |  |  |
+| Respiratory, thoracic and mediastinal disorders |  |  |
 | Epistaxis | Common | Common |
 | Gastrointestinal disorders |  |  |
 | Gastrointestinal haemorrhage | Common | Common |
@@ -87,4 +87,4 @@ Table 3: ALT findings the following laboratory chemistry
 
 |  | Dabigatran etexilate 150 mg N (%) | Dabigatran etexilate 220 mg N (%) | Enoxaparin N (%) |
 | --- | --- | --- | --- |
-| Total rates of Alaninine aminotransferase increased 3 x ULN | 68 (2.5) | 58 (2.2) | 95 (3.5) |
+| Total rates of Alanine aminotransferase increased 3 x ULN | 68 (2.5) | 58 (2.2) | 95 (3.5) |
