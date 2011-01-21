@@ -15,7 +15,6 @@ Effects on peripheral nerves were observed at higher doses than those associated
 Peripheral nerve changes were characterised by minimal to slight axonal degeneration and were frequently accompanied by functional changes.
 Reversal of both the microscopic and functional effects was complete within 6 months post-dose.
 Safety margins for peripheral nerve effects in rats and dogs are 8- and 6-fold, respectively, based on comparison of Cmax values at the No Observed Effect Level (NOEL) with the Cmax achieved on dosing with 30-minute intravenous infusion of 6 mg/kg once daily in patients with normal renal function.
-
 The findings of in vitro and some in vivo studies designed to investigate the mechanism of daptomycin myotoxicity indicate that the plasma membrane of differentiated spontaneously contracting muscle cells is the target of toxicity.
 The specific cell surface component directly targeted has not been identified.
 Mitochondrial loss/damage was also observed; however the role and significance of this finding in the overall pathology are unknown.

@@ -9,22 +9,22 @@ Posology
 
 - cSSTI without concurrent Staphylococcus aureus bacteraemia: Cubicin 4 mg/kg is administered once every 24 hours for 7-14 days or until the infection is resolved (see section 5.1).
 - cSSTI with concurrent Staphylococcus aureus bacteraemia: Cubicin 6 mg/kg is administered once every 24 hours.
-  See below for dose adjustments in patients with renal insufficiency.
+  See below for dose adjustments in patients with renal impairment.
   The duration of therapy may need to be longer than 14 days in accordance with the perceived risk of complications in the individual patient.
 - Known or suspected right-sided infective endocarditis due to Staphylococcus aureus: Cubicin 6 mg/kg is administered once every 24 hours.
-  See below for dose adjustments in patients with renal insufficiency.
+  See below for dose adjustments in patients with renal impairment.
   The duration of therapy should be in accordance with available official recommendations.
 
 Cubicin is administered intravenously in 0.9% sodium chloride (see section 6.6).
 Cubicin should not be used more frequently than once a day.
 
-Renal insufficiency
+Renal impairment
 Daptomycin is eliminated primarily by the kidney.
 
-Due to limited clinical experience (see table and footnotes below) Cubicin should only be used in patients with any degree of renal insufficiency (CrCl < 80 ml/min) when it is considered that the expected clinical benefit outweighs the potential risk.
-The response to treatment, renal function and creatine phosphokinase (CPK) levels should be closely monitored in all patients with any degree of renal insufficiency (see also sections 4.4 and 5.2).
+Due to limited clinical experience (see table and footnotes below) Cubicin should only be used in patients with any degree of renal impairment (CrCl < 80 ml/min) when it is considered that the expected clinical benefit outweighs the potential risk.
+The response to treatment, renal function and creatine phosphokinase (CPK) levels should be closely monitored in all patients with any degree of renal impairment (see also sections 4.4 and 5.2).
 
-Dose adjustments in patients with renal insufficiency by indication and creatinine clearance
+Dose adjustments in patients with renal impairment by indication and creatinine clearance
 
 | Indication for use | Creatinine clearance | Dose recommendation | Comments |
 | --- | --- | --- | --- |
@@ -38,12 +38,12 @@ Dose adjustments in patients with renal insufficiency by indication and creatini
 (2) The same dose adjustments, which are based on pharmacokinetic data in volunteers including PK modelling results, are recommended for patients on haemodialysis (HD) or continuous ambulatory peritoneal dialysis (CAPD).
 Whenever possible, Cubicin should be administered following the completion of dialysis on dialysis days (see section 5.2).
 
-Hepatic insufficiency
-No dose adjustment is necessary when administering Cubicin to patients with mild or moderate hepatic insufficiency (Child-Pugh Class B) (see section 5.2).
-No data are available in patients with severe hepatic insufficiency (Child-Pugh Class C). Therefore caution should be exercised if Cubicin is given to such patients.
+Hepatic impairment
+No dose adjustment is necessary when administering Cubicin to patients with mild or moderate hepatic impairment (Child-Pugh Class B) (see section 5.2).
+No data are available in patients with severe hepatic impairment (Child-Pugh Class C). Therefore caution should be exercised if Cubicin is given to such patients.
 
 Elderly patients
-The recommended doses should be used in elderly patients except those with severe renal insufficiency (see above and section 4.4).
+The recommended doses should be used in elderly patients except those with severe renal impairment (see above and section 4.4).
 However, there are limited data on the safety and efficacy of daptomycin in patients aged > 65 years and caution should be exercised if Cubicin is given to such patients.
 Paediatric population
 The safety and efficacy of Cubicin in children and adolescents below the age of 18 have not been established.

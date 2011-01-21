@@ -28,4 +28,4 @@ Therefore, caution is advised when daptomycin is co-administered with any other 
 During post–marketing surveillance, cases of interference between daptomycin and particular reagents used in some assays of prothrombin time/international normalised ratio (PT/INR) have been reported.
 This interference led to a false prolongation of PT and elevation of INR.
 If unexplained abnormalities of PT/INR are observed in patients taking daptomycin, consideration should be given to a possible in vitro interaction with the laboratory test.
-The possibility of erroneous results may be minimised by drawing samples for PT or INR testing near the time of trough plasma concentrations of daptomycin.
+The possibility of erroneous results may be minimised by drawing samples for PT or INR testing near the time of trough plasma concentrations of daptomycin (see section 4.4).

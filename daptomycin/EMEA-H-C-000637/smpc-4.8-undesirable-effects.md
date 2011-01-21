@@ -14,7 +14,7 @@ System organ class Frequency Adverse reactions
 
 Infections and infestations Common: Fungal infections, urinary tract infection, candida infection
 Uncommon: Fungaemia
-Not known*: Clostridium difficile-associated diarrhoea
+Not known*: Clostridium difficile-associated diarrhoea**
 Blood and lymphatic system Common: Anaemia
 
 disorders Uncommon: Thrombocythaemia, eosinophilia, international
@@ -23,8 +23,8 @@ normalised ratio (INR) increased
 
 Rare: Prothrombin time (PT) prolonged
 
-Immune system disorders Not known*: Hypersensitivity, manifested by isolated spontaneous reports including, but not limited to pulmonary eosinophilia, vesicobullous rash with mucous membrane involvement and sensation of oropharyngeal swelling
-Not known*: Anaphylaxis
+Immune system disorders Not known*: Hypersensitivity**, manifested by isolated spontaneous reports including, but not limited to pulmonary eosinophilia, vesicobullous rash with mucous membrane involvement and sensation of oropharyngeal swelling
+Not known*: Anaphylaxis**
 Not known*: Infusion reactions including the following symptoms: tachycardia, wheezing, pyrexia, rigors, systemic flushing, vertigo, syncope and metallic taste Metabolism and nutrition Uncommon: Decreased appetite, hyperglycaemia, electrolyte
 
 disorders imbalance
@@ -32,17 +32,21 @@ Psychiatric disorders Common: Anxiety, insomnia
 
 Nervous system disorders Common: Dizziness, headache
 Uncommon: Paraesthesia, taste disorder, tremor
-Not known*: Peripheral neuropathy
+Not known*: Peripheral neuropathy**
 Ear and labyrinth disorders Uncommon: Vertigo
 
 Cardiac disorders Uncommon: Supraventricular tachycardia, extrasystole
 Vascular disorders Common: Hypertension, hypotension
 
 Uncommon: Flushes
+
+Respiratory, thoracic and Not known*: Eosinophilic pneumonia1**
+
+mediastinal disorders
 Gastrointestinal disorders Common: Gastrointestinal and abdominal pain, nausea, vomiting, constipation, diarrhoea, flatulence, bloating and distension
 Uncommon: Dyspepsia, glossitis
 
-Hepatobiliary disorders Common: Liver function tests abnormal1 (increased alanine
+Hepatobiliary disorders Common: Liver function tests abnormal2 (increased alanine
 
 aminotransferase (ALT), aspartate aminotransferase (AST) or alkaline phosphatase (ALP))
 
@@ -51,12 +55,12 @@ Rare: Jaundice
 Skin and subcutaneous tissue Common: Rash, pruritus
 
 disorders Uncommon: Urticaria
-Musculoskeletal and Common: Limb pain, serum creatine phosphokinase (CPK)1
+Musculoskeletal and Common: Limb pain, serum creatine phosphokinase (CPK)2
 connective tissue disorders increased
 
 Uncommon: Myositis, increased myoglobin, muscular weakness, muscle pain, arthralgia, serum lactate dehydrogenase (LDH) increased
-Not known*: Rhabdomyolysis2
-Renal and urinary disorders Uncommon: Renal insufficiency, including renal impairment and renal failure, serum creatinine increased
+Not known*: Rhabdomyolysis3 **
+Renal and urinary disorders Uncommon: Renal impairment, including renal failure and renal insufficiency, serum creatinine increased
 
 Reproductive system and Uncommon: Vaginitis
 
@@ -67,10 +71,12 @@ General disorders and Common: Infusion site reactions, pyrexia, asthenia
 administration site conditions Uncommon: Fatigue, pain
 * Based on post-marketing reports.
 Since these reports are from a population of uncertain size and are subject to confounding factors, it is not possible to reliably estimate their frequency or establish a causal relationship to exposure to the medicinal product.
-1 In some cases of myopathy involving raised CPK and muscle symptoms, the patients also presented with elevated transaminases.
+** See section 4.4.
+1 While the exact incidence of eosinophilic pneumonia associated with daptomycin is unknown, to date the reporting rate of spontaneous reports is very low (< 1/10,000).
+2 In some cases of myopathy involving raised CPK and muscle symptoms, the patients also presented with elevated transaminases.
 These transaminase increases were likely to be related to the skeletal muscle effects.
 The majority of transaminase elevations were of Grade 1-3 toxicity and resolved upon discontinuation of treatment.
-2 When clinical information on the patients was available to make a judgement, approximately 50% of the cases occurred in patients with pre-existing renal insufficiency, or in those receiving concomitant medicinal products known to cause rhabdomyolysis.
+3 When clinical information on the patients was available to make a judgement, approximately 50% of the cases occurred in patients with pre-existing renal impairment, or in those receiving concomitant medicinal products known to cause rhabdomyolysis.
 
 The safety data for the administration of daptomycin via 2-minute intravenous injection are derived from two pharmacokinetic studies in healthy volunteers.
 Based on these study results, both methods of daptomycin administration, the 2-minute intravenous injection and the 30-minute intravenous infusion, had a similar safety and tolerability profile.
