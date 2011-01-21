@@ -17,7 +17,7 @@ The efficacy and safety have not been fully evaluated in patients with severe re
 Hepatic impairment
 The recommended dosage in patients with mild hepatic impairment is 80 mg.
 Limited information is available in patients with moderate hepatic impairment.
-The efficacy and safety of febuxostat has not been studied in patients with severe hepatic impairment (Child Pugh Class C).
+The efficacy and safety of febuxostat has not been studied in patients with severe hepatic impairment (Child Pugh Class C ).
 
 Elderly
 No dose adjustment is required in the elderly (see section 5.2).
