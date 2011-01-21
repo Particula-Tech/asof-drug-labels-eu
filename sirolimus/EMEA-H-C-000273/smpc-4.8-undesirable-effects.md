@@ -14,9 +14,9 @@ Most patients were on immunosuppressive regimens, which included Rapamune in com
 
 System Organ Very common Common Uncommon Rare Not known
 Class
-Infections and Urinary tract Sepsis
-infestations infection Pneumonia
-Pyelonephritis
+Infections and Urinary tract Sepsis Clostridium
+infestations infection Pneumonia difficile
+Pyelonephritis enterocolitis
 Herpes simplex
 Fungal, viral,
 and bacterial
@@ -144,7 +144,7 @@ The concomitant use of sirolimus with a calcineurin inhibitor may increase the r
 Focal segmental glomerulosclerosis has been reported.
 There have also been reports of fluid accumulation, including peripheral oedema, lymphoedema, pleural effusion and pericardial effusions (including haemodynamically significant effusions in children and adults) in patients receiving Rapamune.
 
-In an ongoing study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/ml in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 ml/min (see section 5.1).
+In a study evaluating the safety and efficacy of conversion from calcineurin inhibitors to sirolimus (target levels of 12 - 20 ng/ml in maintenance renal transplant patients, enrollment was stopped in the subset of patients (n=90) with a baseline glomerular filtration rate of less than 40 ml/min (see section 5.1).
 There was a higher rate of serious adverse events, including pneumonia, acute rejection, graft loss and death, in this sirolimus treatment arm (n=60, median time post-transplant 36 months).
 
 Paediatric population
