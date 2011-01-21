@@ -9,6 +9,7 @@ There is no effect of a high fat meal on the pharmacokinetics of aripiprazole.
 Distribution:
 Aripiprazole is widely distributed throughout the body with an apparent volume of distribution of 4.9 l/kg, indicating extensive extravascular distribution.
 At therapeutic concentrations, aripiprazole and dehydro-aripiprazole are greater than 99% bound to serum proteins, binding primarily to albumin.
+
 Metabolism:
 Aripiprazole is extensively metabolised by the liver primarily by three biotransformation pathways: dehydrogenation, hydroxylation, and N-dealkylation.
 Based on in vitro studies, CYP3A4 and CYP2D6 enzymes are responsible for dehydrogenation and hydroxylation of aripiprazole, and N-dealkylation is catalysed by CYP3A4.
@@ -36,7 +37,6 @@ There are no differences in the pharmacokinetics of aripiprazole between healthy
 
 Smoking and Race:
 Population pharmacokinetic evaluation has revealed no evidence of clinically significant race-related differences or effects from smoking upon the pharmacokinetics of aripiprazole.
-
 Renal Disease:
 The pharmacokinetic characteristics of aripiprazole and dehydro-aripiprazole were found to be similar in patients with severe renal disease compared to young healthy subjects.
 

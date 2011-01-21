@@ -56,6 +56,14 @@ In a 6-week, placebo-controlled trial involving patients with a manic or mixed e
 
 In a 26-week, placebo-controlled trial, followed by a 74-week extension, in manic patients who achieved remission on aripiprazole during a stabilization phase prior to randomization, aripiprazole demonstrated superiority over placebo in preventing bipolar recurrence, primarily in preventing recurrence into mania but failed to demonstrate superiority over placebo in preventing recurrence into depression.
 
+In a 52-week, placebo-controlled trial, in patients with a current manic or mixed episode of Bipolar I Disorder who achieved sustained remission (Y-MRS and MADRS total scores ≤ 12) on aripiprazole (10 mg/day to 30 mg/day) adjunctive to lithium or valproate for 12 consecutive weeks, adjunctive aripiprazole demonstrated superiority over placebo with a 46% decreased risk (hazard ratio of 0.54) in preventing bipolar recurrence and a 65% decreased risk (hazard ratio of 0.35) in preventing recurrence into mania over adjunctive placebo but failed to demonstrate superiority over placebo in preventing recurrence into depression.
+Adjunctive aripiprazole demonstrated superiority over placebo on the secondary outcome measure, CGI-BP Severity of Illness score (mania).
+In this trial, patients were assigned by investigators with either open-label lithium or valproate monotherapy to determine partial non-response.
+Patients were stabilised for at least 12 consecutive weeks with the combination of aripiprazole and the same mood stabilizer.
+Stabilized patients were then randomised to continue the same mood stabilizer with double-blind aripiprazole or placebo.
+Four mood stabilizer subgroups were assessed in the randomised phase: aripiprazole + lithium; aripiprazole + valproate; placebo + lithium; placebo + valproate.
+The Kaplan-Meier rates for recurrence to any mood episode for the adjunctive treatment arm were 16% in aripiprazole + lithium and 18% in aripiprazole + valproate compared to 45% in placebo + lithium and 19% in placebo + valproate.
+
 [ABILIFY 10 mg tablets]
 
 (all sentences already above)

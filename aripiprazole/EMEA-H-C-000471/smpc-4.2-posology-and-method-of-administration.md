@@ -13,7 +13,7 @@ Manic episodes: the recommended starting dose for ABILIFY is 15 mg administered 
 Some patients may benefit from a higher dose.
 The maximum daily dose should not exceed 30 mg.
 
-Recurrence prevention of manic episodes in Bipolar I Disorder: for preventing recurrence of manic episodes in patients who have been receiving aripiprazole, continue therapy at the same dose.
+Recurrence prevention of manic episodes in Bipolar I Disorder: for preventing recurrence of manic episodes in patients who have been receiving aripiprazole as monotherapy or combination therapy, continue therapy at the same dose.
 Adjustments of daily dosage, including dose reduction should be considered on the basis of clinical status.
 
 Paediatric population:
