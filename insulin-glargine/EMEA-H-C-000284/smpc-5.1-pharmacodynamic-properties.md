@@ -7,7 +7,6 @@ ATC Code: A10A E04.
 Insulin glargine is a human insulin analogue designed to have a low solubility at neutral pH.
 It is completely soluble at the acidic pH of the Lantus injection solution (pH 4).
 After injection into the subcutaneous tissue, the acidic solution is neutralised leading to formation of micro-precipitates from which small amounts of insulin glargine are continuously released, providing a smooth, peakless, predictable concentration/time profile with a prolonged duration of action.
-
 Insulin receptor binding: Insulin glargine is very similar to human insulin with respect to insulin receptor binding kinetics.
 It can, therefore, be considered to mediate the same type of effect via the insulin receptor as insulin.
 
@@ -19,6 +18,7 @@ In clinical pharmacology studies, intravenous insulin glargine and human insulin
 As with all insulins, the time course of action of insulin glargine may be affected by physical activity and other variables.
 
 In euglycaemic clamp studies in healthy subjects or in patients with type 1 diabetes, the onset of action of subcutaneous insulin glargine was slower than with human NPH insulin, its effect profile was smooth and peakless, and the duration of its effect was prolonged.
+
 The following graph shows the results from a study in patients:
 
 Activity Profile in Patients with Type 1 Diabetes
@@ -51,7 +51,6 @@ In a clinical study, symptoms of hypoglycaemia or counter-regulatory hormone res
 
 Effects of insulin glargine (once daily) on diabetic retinopathy were evaluated in an open-label 5 year NPH-controlled study (NPH given bid) in 1024 type 2 diabetic patients in which progression of retinopathy by 3 or more steps on the Early Treatment Diabetic Retinopathy Study (ETDRS) scale was investigated by fundus photography.
 No significant difference was seen in the progression of diabetic retinopathy when insulin glargine was compared to NPH insulin.
-
 Paediatric population
 In a randomised, controlled clinical study, paediatric patients (age range 6 to 15 years) with type 1 diabetes (n = 349) were treated for 28 weeks with a basal-bolus insulin regimen where regular human insulin was used before each meal.
 Insulin glargine was administered once daily at bedtime and NPH human insulin was administered once or twice daily.

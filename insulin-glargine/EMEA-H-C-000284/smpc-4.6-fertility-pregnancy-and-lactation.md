@@ -9,6 +9,7 @@ It is essential for patients with pre-existing or gestational diabetes to mainta
 Insulin requirements may decrease during the first trimester and generally increase during the second and third trimesters.
 Immediately after delivery, insulin requirements decline rapidly (increased risk of hypoglycaemia).
 Careful monitoring of glucose control is essential.
+
 Breastfeeding
 It is unknown whether insulin glargine is excreted in human milk.
 No metabolic effects of ingested insulin glargine on the breastfed newborn/infant are anticipated since insulin glargine as a peptide is digested into aminoacids in the human gastrointestinal tract.

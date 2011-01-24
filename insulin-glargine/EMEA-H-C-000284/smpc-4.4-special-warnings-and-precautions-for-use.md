@@ -2,6 +2,7 @@
 
 Lantus is not the insulin of choice for the treatment of diabetic ketoacidosis.
 Instead, regular insulin administered intravenously is recommended in such cases.
+
 In case of insufficient glucose control or a tendency to hyper- or hypoglycaemic episodes, the patient's adherence to the prescribed treatment regimen, injection sites and proper injection technique and all other relevant factors must be reviewed before dose adjustment is considered.
 
 Transferring a patient to another type or brand of insulin should be done under strict medical supervision.
@@ -36,7 +37,6 @@ Such situations may result in severe hypoglycaemia (and possibly loss of conscio
 The prolonged effect of subcutaneous insulin glargine may delay recovery from hypoglycaemia.
 
 If normal or decreased values for glycated haemoglobin are noted, the possibility of recurrent, unrecognised (especially nocturnal) episodes of hypoglycaemia must be considered.
-
 Adherence of the patient to the dose and dietary regimen, correct insulin administration and awareness of hypoglycaemia symptoms are essential to reduce the risk of hypoglycaemia.
 Factors increasing the susceptibility to hypoglycaemia require particularly close monitoring and may necessitate dose adjustment.
 These include:
@@ -58,9 +58,16 @@ In many cases urine tests for ketones are indicated, and often it is necessary t
 The insulin requirement is often increased.
 Patients with type 1 diabetes must continue to consume at least a small amount of carbohydrates on a regular basis, even if they are able to eat only little or no food, or are vomiting etc. and they must never omit insulin entirely.
 
+Medication errors
+
+Medication errors have been reported in which other insulins, particularly short-acting insulins, have been accidentally administered instead of insulin glargine.
+Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins.
+
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
-(all sentences already above)
+Pens to be used with Lantus cartridges
+
+The Lantus cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen and Autopen 24 and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
 
 [Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
 

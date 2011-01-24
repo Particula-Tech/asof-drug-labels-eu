@@ -3,7 +3,6 @@
 Hypoglycaemia, in general the most frequent adverse reaction of insulin therapy, may occur if the insulin dose is too high in relation to the insulin requirement.
 
 The following related adverse reactions from clinical investigations are listed below by system organ class and in order of decreasing incidence (very common: ≥ 1/10; common: ≥ 1/100 to <1/10; uncommon: ≥ 1/1,000 to < 1/100; rare: ≥ 1/10,000 to < 1/1,000; very rare: < 1/10,000).
-
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 | MedDRA system organ classes | Very common | Common | Uncommon | Rare | Very rare |
@@ -12,7 +11,7 @@ Within each frequency grouping, adverse reactions are presented in order of decr
 | Metabolism and nutrition disorders | Hypoglycaemia |  |  |  |  |
 | Nervous system disorders |  |  |  |  | Dysgeusia |
 | Eyes disorders |  |  |  | Visual impairment Retinopathy |  |
-| Skin and subcutaneous tissue disorders |  | Lipohypertrophy | Lipoatrophy |  |  |
+| Skin and subcutaneous tissue disorders |  | Lipohypertro-phy | Lipoatrophy |  |  |
 | Musculoskeletal and connective tissue disorders |  |  |  |  | Myalgia |
 | General disorders and administration site conditions |  | Injection site reactions |  | Oedema |  |
 
@@ -65,7 +64,15 @@ The following related adverse reactions from clinical investigations are listed 
 
 [Lantus 100 units/ml solution for injection in a cartridge for OptiClik.]
 
-(all sentences already above)
+| MedDRA system organ classes | Very common | Common | Uncommon | Rare | Very rare |
+| --- | --- | --- | --- | --- | --- |
+| Immune system disorders |  |  |  | Allergic reactions |  |
+| Metabolism and nutrition disorders | Hypoglycaemia |  |  |  |  |
+| Nervous system disorders |  |  |  |  | Dysgeusia |
+| Eyes disorders |  |  |  | Visual impairment Retinopathy |  |
+| Skin and subcutaneous tissue disorders |  | Lipohypertro-- phy | Lipoatrophy |  |  |
+| Musculoskeletal and connective tissue disorders |  |  |  |  | Myalgia |
+| General disorders and administration site conditions |  | Injection site reactions |  | Oedema |  |
 
 [Lantus OptiSet 100 units/ml solution for injection in a pre-filled pen]
 
@@ -73,12 +80,4 @@ The following related adverse reactions from clinical investigations are listed 
 
 [Lantus SoloStar 100 units/ml solution for injection in a pre-filled pen]
 
-| MedDRA system organ classes | Very common | Common | Uncommon | Rare | Very rare |
-| --- | --- | --- | --- | --- | --- |
-| Immune system disorders |  |  |  | Allergic reactions |  |
-| Metabolism and nutrition disorders | Hypoglycaemia |  |  |  |  |
-| Nervous ystem disorders |  |  |  |  | Dysgeusia |
-| Eyes disorders |  |  |  | Visual impairment Retinopathy |  |
-| Skin and subcutaneous tissue disorders |  | Lipohypertrophy | Lipoatrophy |  |  |
-| Musculoskeletal and connective tissue disorders |  |  |  |  | Myalgia |
-| General disorders and administration site conditions |  | Injection site reactions |  | Oedema |  |
+(all sentences already above)

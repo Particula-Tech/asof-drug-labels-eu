@@ -5,18 +5,22 @@ It must only be used if the solution is clear, colourless, with no solid particl
 Since Lantus is a solution, it does not require resuspension before use.
 Lantus must not be mixed with any other insulin or diluted.
 Mixing or diluting can change its time/action profile and mixing can cause precipitation.
+Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins.
+(see section 4.4)
 
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
 Insulin pen
-The cartridges are to be used in conjunction with an insulin pen such as OptiPen and other pens suitable for Lantus cartridges, and as recommended in the information provided by the device manufacturer.
+The Lantus cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+Not all of these pens may be marketed in your country.
+
+The pen should be used as recommended in the information provided by the device manufacturer.
 
 The manufacturer’s instructions for using the pen must be followed carefully for loading the cartridge, attaching the needle, and administering the insulin injection.
 
 If the insulin pen is damaged or not working properly (due to mechanical defects) it has to be discarded, and a new insulin pen has to be used.
 
 If the pen malfunctions (see instructions for using the pen), the solution may be drawn from the cartridge into a syringe (suitable for an insulin with 100 units/ml) and injected.
-
 Cartridge
 Before insertion into the pen, the cartridge must be stored at room temperature for 1 to 2 hours.
 Inspect the cartridge before use.
@@ -79,7 +83,6 @@ OptiSet is designed to work accurately and safely.
 It should be handled with care.
 The patient should avoid situations where OptiSet may be damaged.
 If the patient is concerned that the OptiSet may be damaged, he must use a new one.
-
 Step 1.
 Check the Insulin
 
@@ -109,6 +112,7 @@ The outer and inner needle caps should be removed.
 The outer cap should be kept to remove the used needle.
 
 While holding the pen with the needle pointing upwards, the insulin reservoir should be tapped with the finger so that any air bubbles rise up towards the needle.
+
 Then the injection button should be pressed all the way in.
 
 If insulin has been expelled through the needle tip, then the pen and the needle are working properly.
@@ -131,7 +135,6 @@ If the black plunger is at the beginning of the coloured bar, then there are app
 If the black plunger is at the end of the coloured bar, then there are approximately 20 units of insulin available.
 
 The dosage selector should be turned forward until the dose arrow points to the required dose.
-
 Step 5.
 Load the dose
 
@@ -178,6 +181,7 @@ Important information for use of SoloStar:
 - The patient must always have a spare SoloStar available in case the SoloStar is lost or damaged.
 
 Please check section 6.4 of this SPC for instructions on how to store SoloStar.
+
 If SoloStar is in cool storage, it should be taken out 1 to 2 hours before injection to allow it to warm up.
 
 The used SoloStar must be discarded as required by your local authorities.
@@ -199,7 +203,6 @@ A new sterile needle will be always used for each injection.
 After removing the cap, the needle should be carefully attached straight onto the pen.
 
 Prior to each injection a safety test has to be performed to ensure that pen and needle work properly and to remove air bubbles.
-
 A dose of 2 units has to be selected.
 
 While holding the pen with the needle pointing upwards, the insulin reservoir should be tapped gently with the finger so that any air bubbles rise up towards the needle

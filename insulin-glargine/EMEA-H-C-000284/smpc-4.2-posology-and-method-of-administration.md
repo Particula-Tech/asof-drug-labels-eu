@@ -54,8 +54,6 @@ For further details on handling, see section 6.6.
 
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
-PosologyLantus contains insulin glargine, an insulin analogue, and has a prolonged duration of action.
-
 (see section 5.1 ).
 
 Due to limited experience on the efficacy and safety of Lantus in children below the age of 6 years, Lantus should only be used in this age group undercareful medical supervision.
