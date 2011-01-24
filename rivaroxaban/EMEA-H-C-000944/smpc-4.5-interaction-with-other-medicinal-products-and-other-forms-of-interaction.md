@@ -35,6 +35,5 @@ Other concomitant therapies
 No clinically significant pharmacokinetic or pharmacodynamic interactions were observed when rivaroxaban was co-administered with midazolam (substrate of CYP3A4), digoxin (substrate of P-gp) or atorvastatin (substrate of CYP3A4 and P-gp).
 Rivaroxaban neither inhibits nor induces any major CYP isoforms like CYP3A4.
 No clinically relevant interaction with food was observed (see section 4.2).
-
 Laboratory parameters
 Clotting parameters (e.g. PT, aPTT, HepTest) are affected as expected by the mode of action of rivaroxaban (see section 5.1).

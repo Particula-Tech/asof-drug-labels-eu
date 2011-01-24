@@ -24,7 +24,6 @@ Rivaroxaban 10 mg once daily (od) started no sooner than 6 hours post-operativel
 In all three phase III studies (see table 2), rivaroxaban significantly reduced the rate of total VTE (any venographically detected or symptomatic DVT, non fatal PE and death) and major VTE (proximal DVT, non fatal PE and VTE-related death), the pre-specified primary and major secondary efficacy endpoints.
 Furthermore, in all three studies the rate of symptomatic VTE (symptomatic DVT, non-fatal PE, VTE-related death) was lower in rivaroxaban treated patients compared to patients treated with enoxaparin.
 The main safety endpoint, major bleeding, showed comparable rates for patients treated with rivaroxaban 10 mg compared to enoxaparin 40 mg.
-
 Table 2: Efficacy and safety results from phase III clinical studies
 
 |  | RECORD 1 | RECORD 2 | RECORD 3 |
@@ -37,3 +36,8 @@ Table 2: Efficacy and safety results from phase III clinical studies
 | Major bleedings | 6 (0.3 %) 2 (0.1 %) | 1 (0.1 %) 1 (0.1 %) | 7 (0.6 %) 6 (0.5 %) |
 
 The analysis of the pooled results of the phase III trials corroborated the data obtained in the individual studies regarding reduction of total VTE, major VTE and symptomatic VTE with rivaroxaban 10 mg once daily compared to enoxaparin 40 mg once daily.
+
+Paediatric population
+The European Medicines Agency has deferred the obligation to submit the results of studies with Xarelto in one or more subsets of the paediatric population in venous thromboembolism.
+The European Medicines Agency has waived the obligation to submit the results of studies with Xarelto in all subsets of the paediatric population in the prevention of venous thromboembolism (in hospitalised medically ill patients and patients undergoing elective hip and knee replacement surgery) and thromboembolism (in subjects with non-valvular atrial fibrillation and patients with a recent acute coronary syndrome).
+See section 4.2 for information on paediatric use.

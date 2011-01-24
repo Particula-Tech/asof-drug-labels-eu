@@ -1,5 +1,6 @@
 # 4.2 Posology and method of administration
 
+Posology
 The recommended dose is 10 mg rivaroxaban taken orally once daily.
 The initial dose should be taken 6 to 10 hours after surgery, provided that haemostasis has been established.
 
@@ -22,7 +23,7 @@ Xarelto is contraindicated in patients with hepatic disease associated with coag
 Xarelto may be used with caution in cirrhotic patients with moderate hepatic impairment (Child Pugh B) if it is not associated with coagulopathy (see sections 4.4 and 5.2).
 No dose adjustment is necessary in patients with other hepatic diseases.
 
-Patients above 65 years
+Elderly population
 No dose adjustment.
 
 Body weight
@@ -31,5 +32,10 @@ No dose adjustment.
 Gender
 No dose adjustment.
 
-Children and adolescents
-Xarelto is not recommended for use in children or adolescents below 18 years of age due to a lack of data on safety and efficacy.
+Paediatric population
+The safety and efficacy of Xarelto in children 0 to 18 years have not been established.
+No data are available.
+Therefore, Xarelto is not recommended for use in children below 18 years of age.
+
+Method of administration
+For oral use.

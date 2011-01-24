@@ -26,10 +26,12 @@ After intravenous administration of a 1 mg dose the elimination half-life is abo
 After oral administration of a 10 mg dose the elimination becomes absorption rate limited with mean terminal half-lives of 7 to 11 hours.
 
 Special populations
-Gender/Elderly (above 65 years)
+Gender
+There were no clinically relevant differences in pharmacokinetics and pharmacodynamics between male and female patients.
+
+Elderly population
 Elderly patients exhibited higher plasma concentrations than younger patients, with mean AUC values being approximately 1.5 fold higher, mainly due to reduced (apparent) total and renal clearance.
 No dose adjustment is necessary.
-There were no clinically relevant differences in pharmacokinetics and pharmacodynamics between male and female patients.
 
 Different weight categories
 Extremes in body weight (< 50 kg or > 120 kg) had only a small influence on rivaroxaban plasma concentrations (less than 25 %).

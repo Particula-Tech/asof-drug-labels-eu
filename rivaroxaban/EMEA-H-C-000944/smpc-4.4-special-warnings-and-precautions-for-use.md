@@ -16,13 +16,13 @@ Hepatic impairment
 In cirrhotic patients with moderate hepatic impairment (classified as Child Pugh B), rivaroxaban plasma levels may be significantly increased which may lead to an increased bleeding risk.
 Xarelto is contraindicated in patients with hepatic disease associated with coagulopathy and clinically relevant bleeding risk.
 Xarelto may be used with caution in cirrhotic patients with moderate hepatic impairment (Child Pugh B) if it is not associated with coagulopathy (see sections 4.2, 4.3 and 5.2).
-
 Interaction with other medicinal products
 The use of Xarelto is not recommended in patients receiving concomitant systemic treatment with azole-antimycotics (such as ketoconazole, itraconazole, voriconazole and posaconazole) or HIV protease inhibitors (e.g. ritonavir).
 These active substances are strong inhibitors of both CYP3A4 and P-gp and therefore may increase rivaroxaban plasma concentrations to a clinically relevant degree which may lead to an increased bleeding risk (see section 4.5).
 Fluconazole is expected to have less effect on rivaroxaban exposure and can be co-administered with caution.
 
-Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory drugs (NSAIDs), acetylsalicylic acid, platelet aggregation inhibitors or other antithrombotic agents (see section 4.5).
+Care is to be taken if patients are treated concomitantly with medicinal products affecting haemostasis such as non-steroidal anti-inflammatory drugs (NSAIDs), acetylsalicylic acid, platelet aggregation inhibitors or other antithrombotic agents.
+For patients at risk of ulcerative gastrointestinal disease an appropriate prophylactic treatment may be considered (see section 4.5).
 
 Other haemorrhagic risk factors
 Rivaroxaban, like other antithrombotic agents, is to be used with caution in patients with an increased bleeding risk such as:
