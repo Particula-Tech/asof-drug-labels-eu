@@ -20,4 +20,4 @@ The number of CR1 patients remaining leukaemia-free for 3 years was 40% after Ce
 
 This medicinal product has been authorised under “Exceptional circumstances”.
 This means that due to the rarity of the disease it has not been possible to obtain complete information on this medicinal product.
-The European Medicines Agency (EMEA) will review any new information which may become available every year and this SPC will be updated as necessary.
+The European Medicines Agency will review any new information which may become available every year and this SPC will be updated as necessary.

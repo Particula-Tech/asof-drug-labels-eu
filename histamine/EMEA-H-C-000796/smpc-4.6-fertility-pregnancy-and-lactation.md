@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 For Ceplene, no clinical data on exposed pregnancies are available.
 Animal studies showed reproductive toxicity but only at maternotoxic doses, and did not indicate direct harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development (see Section 5.3).

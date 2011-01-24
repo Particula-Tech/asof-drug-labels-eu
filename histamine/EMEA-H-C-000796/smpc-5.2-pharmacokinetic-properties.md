@@ -9,7 +9,6 @@ Histamine is eliminated by metabolism in kidney, liver and other tissues.
 The main enzymes involved in the metabolism of histamine are HNMT (histamine-N-methyltransferase) and DAO (diamine oxidase).
 The metabolites are mainly excreted in urine.
 The mean half-life was 0.75 to 1.5 hours in patients.
-
 There are no significant effects of age or weight on the pharmacokinetic properties of histamine.
 Clearance of Ceplene is almost twice as high in females resulting in considerably lower systemic exposure than in males.
 
