@@ -42,21 +42,6 @@ Table 2.
 Table 2
 Efficacy Outcome at Weeks 48 and 96
 
-| BENCHMRK 1 and 2 Pooled Parameter | 48 Weeks ISENTRESS Placebo + 400 mg twice O daily + OBT B (N = 462) T (N = 237) | 96 Weeks ISENTRESS Placebo + OBT 400 mg (N = 237) twice daily + OBT (N = 462) |
-| --- | --- | --- |
-| Percent HIV-RNA < 400 copies/ml (95 % CI) All patients† Baseline Characteristic‡ HIV-RNA > 100,000 copies/ml ≤ 100,000 copies/ml CD4-count ≤ 50 cells/mm3 > 50 and ≤ 200 cells/mm3 > 200 cells/mm3 Sensitivity score (GSS) § 0 1 2 and above | 72 (68, 76) 37 (31, 44) | 62 (57, 66) 28 (23, 34) |
-|  | 62 (53, 69) 17 (9, 27) 82 (77, 86) 49 (41, 58) 61 (53, 69) 21 (13, 32) 80 (73, 85) 44 (33, 55) | 53 (45, 61) 15 (8, 25) 74 (69, 79) 39 (31, 47) 51 (42, 60) 14 (7, 24) 70 (62, 77) 36 (25, 48) |
-|  | 83 (76, 89) 51 (39, 63) | 78 (70, 85) 42 (30, 55) |
-|  | 52 (42, 61) 8 (3, 17) 81 (75, 87) 40 (30, 51) 84 (77, 89) 65 (52, 76) | 46 (36, 56) 5 (1, 13) 76 (69, 83) 31 (22, 42) 71 (63, 78) 56 (43, 69) |
-
-Percent HIV-RNA < 50 copies/ml (95 %
-CI)
-
-All patients† 62 (57, 67) 33 (27, 39) 57 (52, 62) 26 (21, 32)
-
-Baseline Characteristic‡
-HIV-RNA > 100,000 copies/ml 48 (40, 56) 16 (8, 26) 47 (39, 55) 13 (7, 23) ≤ 100,000 copies/ml 73 (68, 78) 43 (35, 52) 70 (64, 75) 36 (28, 45)
-
 BENCHMRK 1 and 2 Pooled 48 Weeks 96 Weeks
 
 ISENTRESS Placebo + ISENTRESS Placebo + OBT
@@ -66,6 +51,33 @@ daily + OBT B twice daily +
 (N = 462) T OBT
 
 (N = 237) (N = 462)
+Percent HIV-RNA < 400 copies/ml
+(95 % CI)
+
+All patients† 72 (68, 76) 37 (31, 44) 62 (57, 66) 28 (23, 34)
+
+Baseline Characteristic‡
+HIV-RNA > 100,000 copies/ml 62 (53, 69) 17 (9, 27) 53 (45, 61) 15 (8, 25) ≤ 100,000 copies/ml 82 (77, 86) 49 (41, 58) 74 (69, 79) 39 (31, 47)
+
+CD4-count ≤ 50 cells/mm3 61 (53, 69) 21 (13, 32) 51 (42, 60) 14 (7, 24)
+> 50 and 80 (73, 85) 44 (33, 55) 70 (62, 77) 36 (25, 48)
+
+≤ 200 cells/mm3
+
+> 200 cells/mm3 83 (76, 89) 51 (39, 63) 78 (70, 85) 42 (30, 55)
+
+Sensitivity score (GSS) §
+0 52 (42, 61) 8 (3, 17) 46 (36, 56) 5 (1, 13) 1 81 (75, 87) 40 (30, 51) 76 (69, 83) 31 (22, 42)
+
+2 and above 84 (77, 89) 65 (52, 76) 71 (63, 78) 56 (43, 69)
+
+Percent HIV-RNA < 50 copies/ml (95 %
+CI)
+
+All patients† 62 (57, 67) 33 (27, 39) 57 (52, 62) 26 (21, 32)
+
+Baseline Characteristic‡
+HIV-RNA > 100,000 copies/ml 48 (40, 56) 16 (8, 26) 47 (39, 55) 13 (7, 23) ≤ 100,000 copies/ml 73 (68, 78) 43 (35, 52) 70 (64, 75) 36 (28, 45)
 
 CD4-count ≤ 50 cells/mm3 50 (41, 58) 20 (12, 31) 50 (41, 58) 13 (6, 22)
 > 50 and 67 (59, 74) 39 (28, 50) 65 (57, 72) 32 (22, 44)
@@ -123,7 +135,6 @@ Patients with a prior history of virological failure were not excluded and the n
 These studies were terminated after the primary efficacy analysis at Week 24 because they failed to demonstrate non-inferiority of raltegravir versus lopinavir (+) ritonavir.
 In both studies at Week 24, suppression of HIV RNA to less than 50 copies/ml was maintained in 84.4 % of the raltegravir group versus 90.6 % of the lopinavir (+) ritonavir group, (Non-completers = Failure).
 See section 4.4 regarding the need to administer raltegravir with two other active agents.
-
 Treatment-naive patients
 STARTMRK (ongoing multi-centre, randomised, double-blind, active-control trial) evaluates the safety and anti-retroviral activity of ISENTRESS 400 mg twice daily vs. efavirenz 600 mg at bedtime, in a combination with emtricitabine (+) tenofovir, in treatment-naïve HIV-infected patients with HIV RNA > 5,000 copies/ml.
 Randomization was stratified by screening HIV RNA level
