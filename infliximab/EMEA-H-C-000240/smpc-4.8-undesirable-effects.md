@@ -127,7 +127,6 @@ Nearly 50% of reported deaths have been associated with infection.
 Cases of tuberculosis, sometimes fatal, including miliary tuberculosis and tuberculosis with extra-pulmonary location have been reported (see section 4.4).
 
 Malignancies and lymphoproliferative disorders: In clinical studies with infliximab in which 5,780 patients were treated, representing 5,494 patient years, 5 cases of lymphomas and 26 non-lymphoma malignancies were detected as compared with no lymphomas and 1 non-lymphoma malignancy in 1,600 placebo-treated patients representing 941 patient years.
-
 In long-term safety follow-up of clinical studies with infliximab of up to 5 years, representing 6,234 patients-years (3,210 patients), 5 cases of lymphoma and 38 cases of non-lymphoma malignancies were reported.
 
 From August 1998 to August 2005, 1,909 cases of suspected malignancies have been reported from post-marketing, clinical studies and registries (321 in Crohn’s disease patients, 1,302 in rheumatoid arthritis patients and 286 in patients with other or unknown indications).
@@ -143,7 +142,8 @@ The majority of the malignancies developed in the lung or head and neck.
 Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients with Crohn’s disease and ulcerative colitis treated with Remicade, the majority of whom were adolescent or young adult males (see section 4.4).
 
 Heart failure: In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
-In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
+In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction
+≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
 At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking Remicade.
 There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.

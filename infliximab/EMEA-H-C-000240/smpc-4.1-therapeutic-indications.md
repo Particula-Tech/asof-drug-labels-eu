@@ -26,10 +26,8 @@ Remicade is indicated for treatment of severe, active ankylosing spondylitis, in
 Psoriatic arthritis:
 Remicade is indicated for treatment of active and progressive psoriatic arthritis in adult patients when the response to previous DMARD therapy has been inadequate.
 Remicade should be administered
-
 - in combination with methotrexate
 - or alone in patients who show intolerance to methotrexate or for whom methotrexate is contraindicated
-
 Remicade has been shown to improve physical function in patients with psoriatic arthritis, and to reduce the rate of progression of peripheral joint damage as measured by X-ray in patients with polyarticular symmetrical subtypes of the disease (see section 5.1).
 
 Psoriasis:

@@ -131,7 +131,8 @@ The primary endpoint was the proportion of patients who experienced a clinical r
 Patients who responded at week 4 were followed to week 12.
 Secondary endpoints included the proportion of patients in clinical remission at week 4 (CDAI < 150) and clinical response over time.
 
-At week 4, following administration of a single dose, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (16%) of the placebo-treated patients (p < 0.001).
+At week 4, following administration of a single dose, 22/27 (81%) of infliximab-treated patients receiving a 5 mg/kg dose achieved a clinical response vs. 4/25 (16%) of the placebo-treated patients
+(p < 0.001).
 Also at week 4, 13/27 (48%) of infliximab-treated patients achieved a clinical remission (CDAI < 150) vs. 1/25 (4%) of placebo-treated patients.
 A response was observed within 2 weeks, with a maximum response at 4 weeks.
 At the last observation at 12 weeks, 13/27 (48%) of infliximab-treated patients were still responding.
@@ -150,7 +151,8 @@ There was no difference between groups in the number of late responders thereaft
 The co-primary endpoints were the proportion of patients in clinical remission (CDAI<150) at week 30 and time to loss of response through week 54.
 Corticosteroid tapering was permitted after week 6.
 
-Table 5: Effects on response and remission rate, data from ACCENT I (Week-2 responders) ACCENT I (Week-2 responders)
+Table 5: Effects on response and remission rate, data from ACCENT I (Week-2 responders)
+ACCENT I (Week-2 responders)
 % of Patients
 
 Placebo Infliximab Infliximab
