@@ -13,7 +13,7 @@ A careful risk-benefit assessment should be made before deciding to treat with H
 
 Herceptin and anthracyclines should not be used currently in combination except in a well-controlled clinical trial setting with cardiac monitoring.
 Patients who have previously received anthracyclines are also at risk of cardiotoxicity with Herceptin treatment, although the risk is lower than with concurrent use of Herceptin and anthracyclines.
-Because the half-life of Herceptin is approximately 4-5 weeks Herceptin may persist in the circulation for 20-25 weeks after stopping Herceptin treatment.
+Because the half-life of Herceptin is approximately 4-5 weeks Herceptin may persist in the circulation for up to 20-25 weeks after stopping Herceptin treatment.
 Patients who receive anthracyclines after stopping Herceptin may possibly be at increased risk of cardiotoxicity.
 If possible, physicians should avoid anthracycline-based therapy for up to 25 weeks after stopping Herceptin.
 If anthracyclines are used, the patient’s cardiac function should be monitored carefully (see below)
@@ -58,13 +58,14 @@ Therefore, these patients should not be treated with Herceptin (see section 4.3)
 
 Initial improvement followed by clinical deterioration and delayed reactions with rapid clinical deterioration have also been reported.
 Fatalities have occurred within hours and up to one week following infusion.
-On very rare occasions, patients have experienced the onset of infusion symptoms or pulmonary symptoms more than six hours after the start of the Herceptin infusion.
+On very rare occasions, patients have experienced the onset of infusion symptoms and pulmonary symptoms more than six hours after the start of the Herceptin infusion.
 Patients should be warned of the possibility of such a late onset and should be instructed to contact their physician if these symptoms occur.
 
 Pulmonary events
 Severe pulmonary events have been reported with the use of Herceptin in the post-marketing setting (see section 4.8).
 These events have occasionally been fatal.
-In addition, cases of pulmonary infiltrates, acute respiratory distress syndrome, pneumonia, pneumonitis, pleural effusion, respiratory distress, acute pulmonary oedema and respiratory insufficiency have been reported.
+In addition, cases of interstitial lung disease including pulmonary infiltrates, acute respiratory distress syndrome, pneumonia, pneumonitis, pleural effusion, respiratory distress, acute pulmonary oedema and respiratory insufficiency have been reported.
+Risk factors associated with interstitial lung disease include prior or concomitant therapy with other anti-neoplastic therapies known to be associated with it such as taxanes, gemcitabine, vinorelbine and radiation therapy.
 These events may occur as part of an infusion-related reaction or with a delayed onset.
 Patients experiencing dyspnoea at rest due to complications of advanced malignancy and comorbidities may be at increased risk of pulmonary events.
 Therefore, these patients should not be treated with Herceptin (see section 4.3).
