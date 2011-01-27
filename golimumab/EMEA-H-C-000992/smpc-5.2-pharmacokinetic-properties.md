@@ -10,7 +10,7 @@ Terminal half-life value was estimated to be approximately 12 ± 3 days in healt
 Following a single subcutaneous injection of 100 mg, the absorption of golimumab was similar in the upper arm, abdomen, and thigh, with a mean absolute bioavailability of 51%.
 Since golimumab exhibited approximately dose proportional PK following a subcutaneous administration, the absolute bioavailability of the golimumab 50 mg dose is expected to be similar.
 
-When 50 mg golimumab was administered subcutaneously to patients with RA, PsA or AS every 4 weeks, serum concentrations reached steady state by Week 12.
+When 50 mg golimumab was administered subcutaneously to patients with RA, PsA or AS every 4 weeks, serum concentrations reached steady state by week 12.
 With concomitant use of MTX, treatment with 50 mg golimumab subcutaneous every 4 weeks resulted in a mean (± standard deviation) steady-state trough serum concentration of approximately 0.6 ± 0.4 μg/ml in RA patients with active RA despite MTX therapy, and approximately 0.5 ± 0.4 μg/ml in patients with active PsA and approximately 0.8 ± 0.4 μg/ml in patients with AS.
 
 Patients with RA, PsA or AS who did not receive concomitant MTX had approximately 30% lower steady-state trough concentrations of golimumab than those who received golimumab with MTX.
