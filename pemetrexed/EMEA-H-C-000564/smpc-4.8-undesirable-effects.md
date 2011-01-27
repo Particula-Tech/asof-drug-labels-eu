@@ -1,5 +1,12 @@
 # 4.8 Undesirable effects
 
+Summary of the safety profile
+
+The most commonly reported undesirable effects related to pemetrexed, whether used as monotherapy or in combination, are bone marrow suppression manifested as anaemia, neutropenia, leukopenia, thrombocytopenia; and gastrointestinal toxicities, manifested as anorexia, nausea, vomiting, diarrhoea, constipation, pharyngitis, mucositis, and stomatitis.
+Other undesirable effects include renal toxicities, increased transaminases, alopecia, fatigue, dehydration, rash, infection/sepsis and neuropathy.
+Rarely seen events include Stevens-Johnson syndrome and Toxic epidermal necrolysis.
+Tabulated list of adverse reactions
+
 The table below provides the frequency and severity of undesirable effects that have been reported in > 5 % of 168 patients with mesothelioma who were randomised to receive cisplatin and pemetrexed and 163 patients with mesothelioma randomised to receive single agent cisplatin.
 In both treatment arms, these chemonaive patients were fully supplemented with folic acid and vitamin B12.
 
@@ -46,17 +53,15 @@ tissue disorders
 Renal and Very Creatinine 10.7 0.6 9.8 1.2
 urinary common elevation
 disorders
-Creatinine 16.1 0.6 17.8 1.8
-clearance
-decreased**
-General Very Fatigue 47.6 10.1 42.3 9.2
-disorders and common
-administration
-site conditions
+
+|  |  | Creatinine clearance decreased** | 16.1 | 0.6 | 17.8 | 1.8 |
+| --- | --- | --- | --- | --- | --- | --- |
+| General disorders and administration site conditions | Very common | Fatigue | 47.6 | 10.1 | 42.3 | 9.2 |
 
 *Refer to National Cancer Institute CTC version 2 for each grade of toxicity except the term “creatinine clearance decreased”
 ** which is derived from the term “renal/genitourinary other”.
 *** According to National Cancer Institute CTC (v2.0; NCI 1998), taste disturbance and alopecia should only be reported as Grade 1 or 2.
+
 For the purpose of this table a cut off of 5 % was used for inclusion of all events where the reporter considered a possible relationship to pemetrexed and cisplatin.
 
 Clinically relevant CTC toxicities that were reported in ≥ 1 % and < 5 % of the patients that were randomly assigned to receive cisplatin and pemetrexed include: renal failure, infection, pyrexia, febrile neutropenia, increased AST, ALT, and GGT, urticaria and chest pain.
@@ -92,17 +97,18 @@ SGOT (AST) 6.8 1.1 0.7 0.0
 elevation
 Skin and sub- Very Rash/ 14.0 0.0 6.2 0.0
 cutaneous tissue Common desquamation
-disorders Common Pruritus 6.8 0.4 1.8 0.0
-Alopecia 6.4 0.4** 37.7 2.2**
-General Very Fatigue 34.0 5.3 35.9 5.4
-disorders and Common
-administration Common Fever 8.3 0.0 7.6 0.0
-site conditions
+
+| disorders | Common | Pruritus | 6.8 | 0.4 | 1.8 | 0.0 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Alopecia | 6.4 | 0.4** | 37.7 | 2.2** |
+| General disorders and administration site conditions | Very Common | Fatigue | 34.0 | 5.3 | 35.9 | 5.4 |
+|  | Common | Fever | 8.3 | 0.0 | 7.6 | 0.0 |
 
 *Refer to National Cancer Institute CTC version 2 for each grade of toxicity.
 **According to National Cancer Institute CTC (v2.0; NCI 1998), alopecia should only be reported as Grade 1 or 2.
 
 For the purpose of this table a cut off of 5 % was used for inclusion of all events where the reporter considered a possible relationship to pemetrexed.
+
 Clinically relevant CTC toxicities that were reported in ≥ 1 % and < 5 % of the patients that were randomly assigned to pemetrexed include: infection without neutropenia, febrile neutropenia, allergic reaction/hypersensitivity, increased creatinine, motor neuropathy, sensory neuropathy, erythema multiforme, and abdominal pain.
 Clinically relevant CTC toxicities that were reported in < 1 % of the patients that were randomly assigned to pemetrexed include supraventricular arrhythmias.
 
@@ -219,16 +225,32 @@ Uncommon cases of oedema have been reported in patients treated with pemetrexed.
 
 Oesophagitis/ radiation oesophagitis has been uncommonly reported during clinical trials with pemetrexed.
 
+Sepsis, sometimes fatal, has been commonly reported during clinical trials with pemetrexed.
+
 During post marketing surveillance, the following adverse reactions have been reported in patients treated with pemetrexed:
 
-Cases of acute renal failure have been reported with pemetrexed alone or in association with other chemotherapeutic agents (see section 4.4).
-Cases of radiation pneumonitis have been reported in patients treated with radiation either prior, during or subsequent to their pemetrexed therapy (see section 4.4).
-Cases of radiation recall have been reported in patients who have received radiotherapy previously (see section 4.4).
-Cases of peripheral ischaemia leading sometimes to extremity necrosis have been reported.
+Uncommon cases of acute renal failure have been reported with pemetrexed alone or in association with other chemotherapeutic agents (see section 4.4).
+Uncommon cases of radiation pneumonitis have been reported in patients treated with radiation either prior, during or subsequent to their pemetrexed therapy (see section 4.4).
+Rare cases of radiation recall have been reported in patients who have received radiotherapy previously (see section 4.4).
+Uncommon cases of peripheral ischaemia leading sometimes to extremity necrosis have been reported.
+
+Rare cases of bullous conditions have been reported including Stevens-Johnson syndrome and Toxic epidermal necrolysis which in some cases were fatal.
+
+Rarely, haemolytic anaemia has been reported in patients treated with pemetrexed.
 
 [ALIMTA 500 mg powder for concentrate for solution for infusion]
 
-disorders common
+| Renal and urinary disorders | Very common | Creatinine elevation | 10.7 | 0.6 | 9.8 | 1.2 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  |  | Creatinine clearance decreased** | 16.1 | 0.6 | 17.8 | 1.8 |
+| General disorders | Very common | Fatigue | 47.6 | 10.1 | 42.3 | 9.2 |
+
+| Skin and sub-cutaneous tissue disorders | Very common | Rash/ desquamation | 14.0 | 0.0 | 6.2 | 0.0 |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | Common | Pruritus | 6.8 | 0.4 | 1.8 | 0.0 |
+|  |  | Alopecia | 6.4 | 0.4** | 37.7 | 2.2** |
+| General disorders and administration site conditions | Very Common | Fatigue | 34.0 | 5.3 | 35.9 | 5.4 |
+|  | Common | Fever | 8.3 | 0.0 | 7.6 | 0.0 |
 
 Platelets decreased 10.1* 4.1* 26.6* 12.7*
 Diarrhea without 12.4 1.3 12.8 1.6
@@ -236,3 +258,11 @@ Diarrhea without 12.4 1.3 12.8 1.6
 All 3/4 grades 3/4
 lymphatic common
 system disorders Common Leukocytes 6.1 1.6 1.4 0.5
+
+Uncommon Ccases of acute renal failure have been reported with pemetrexed alone or in association with other chemotherapeutic agents (see section 4.4).
+
+Uncommon Ccases of radiation pneumonitis have been reported in patients treated with radiation either prior, during or subsequent to their pemetrexed therapy (see section 4.4).
+
+Rare Ccases of radiation recall have been reported in patients who have received radiotherapy previously (see section 4.4).
+
+Uncommon Ccases of peripheral ischaemia leading sometimes to extremity necrosis have been reported.

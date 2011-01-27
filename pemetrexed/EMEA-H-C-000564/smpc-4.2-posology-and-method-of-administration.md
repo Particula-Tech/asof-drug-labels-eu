@@ -1,5 +1,7 @@
 # 4.2 Posology and method of administration
 
+Posology:
+
 ALIMTA must only be administered under the supervision of a physician qualified in the use of anti-cancer chemotherapy.
 
 ALIMTA in combination with cisplatin
@@ -69,7 +71,8 @@ Treatment with ALIMTA should be discontinued if a patient experiences any haemat
 Elderly: In clinical studies, there has been no indication that patients 65 years of age or older are at increased risk of adverse events compared to patients younger than 65 years old.
 No dose reductions other than those recommended for all patients are necessary.
 
-Children and adolescents: ALIMTA is not recommended for use in children below 18 years of age due to insufficient data on safety and efficacy.
+Paediatric population
+There is no relevant use of ALIMTA in the paediatric population in malignant pleural mesothelioma and non-small cell lung cancer.
 
 Patients with renal impairment: (Standard Cockcroft and Gault formula or Glomerular Filtration Rate measured Tc99m-DPTA serum clearance method): Pemetrexed is primarily eliminated unchanged by renal excretion.
 In clinical studies, patients with creatinine clearance of ≥ 45 ml/min required no dose adjustments other than those recommended for all patients.
@@ -78,7 +81,11 @@ There are insufficient data on the use of pemetrexed in patients with creatinine
 Patients with hepatic impairment: No relationships between AST (SGOT), ALT (SGPT), or total bilirubin and pemetrexed pharmacokinetics were identified.
 However patients with hepatic impairment such as bilirubin > 1.5 times the upper limit of normal and/or transaminase > 3.0 times the upper limit of normal (hepatic metastases absent) or > 5.0 times the upper limit of normal (hepatic metastases present) have not been specifically studied.
 
-The ALIMTA solution must be prepared according to the instructions provided in section 6.6.
+Method of administration:
+For Precautions to be taken before handling or administering ALIMTA, see section 6.6.
+
+ALIMTA should be administered as an intravenous infusion over 10 minutes on the first day of each 21-day cycle.
+For instructions on reconstitution and dilution of ALIMTA before administration, see section 6.6.
 
 [ALIMTA 500 mg powder for concentrate for solution for infusion]
 

@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Folic acid analogues, ATC code: L01BA04
+
 ALIMTA (pemetrexed) is a multi-targeted anti-cancer antifolate agent that exerts its action by disrupting crucial folate-dependent metabolic processes essential for cell replication.
 
 In vitro studies have shown that pemetrexed behaves as a multitargeted antifolate by inhibiting thymidylate synthase (TS), dihydrofolate reductase (DHFR), and glycinamide ribonucleotide formyltransferase (GARFT), which are key folate-dependent enzymes for the de novo biosynthesis of thymidine and purine nucleotides.
@@ -9,6 +10,8 @@ Once in the cell, pemetrexed is rapidly and efficiently converted to polyglutama
 The polyglutamate forms are retained in cells and are even more potent inhibitors of TS and GARFT.
 Polyglutamation is a time- and concentration-dependent process that occurs in tumour cells and, to a lesser extent, in normal tissues.
 Polyglutamated metabolites have an increased intracellular half-life resulting in prolonged drug action in malignant cells.
+
+The European Medicines Agency has waived the obligation to submit the results of studies with ALIMTA in all subsets of the paediatric population in the granted indications (see Section 4.2).
 
 Clinical efficacy:
 
@@ -39,6 +42,7 @@ Efficacy of ALIMTA plus cisplatin vs. cisplatin in malignant pleural mesotheliom
 Abbreviation: CI = confidence interval
 * p-value refers to comparison between arms.
 ** In the ALIMTA/cisplatin arm, randomized and treated (N = 225) and fully supplemented (N = 167)
+
 A statistically significant improvement of the clinically relevant symptoms (pain and dyspnoea) associated with malignant pleural mesothelioma in the ALIMTA/cisplatin arm (212 patients) versus the cisplatin arm alone (218 patients) was demonstrated using the Lung Cancer Symptom Scale.
 Statistically significant differences in pulmonary function tests were also observed.
 The separation between the treatment arms was achieved by improvement in lung function in the ALIMTA/cisplatin arm and deterioration of lung function over time in the control arm.
@@ -68,6 +72,7 @@ Efficacy of ALIMTA vs docetaxel in NSCLC - ITT population
 | Response (n: qualified for response) � Response rate (%) (95 % CI) � Stable disease (%) | (n = 264) 9.1 (5.9 - 13.2) 45.8 | (n = 274) 8.8 (5.7 - 12.8) 46.4 |
 
 Abbreviations: CI = confidence interval; HR = hazard ratio; ITT = intent to treat; n = total population size.
+
 NSCLC, first-line treatment:
 
 A multicentre, randomised, open-label, Phase 3 study of ALIMTA plus cisplatin versus gemcitabine plus cisplatin in chemonaive patients with locally advanced or metastatic (Stage IIIb or IV) non-small cell lung cancer (NSCLC) showed that ALIMTA plus cisplatin (Intent-To-Treat [ITT] population n = 862) met its primary endpoint and showed similar clinical efficacy as gemcitabine plus cisplatin (ITT n = 863) in overall survival (adjusted hazard ratio 0.94; 95% CI = 0.84-1.05).
@@ -164,8 +169,32 @@ PFS Time (months) Survival Time (months)
 
 [ALIMTA 500 mg powder for concentrate for solution for infusion]
 
+|  | Randomized and treated patients |  | Fully supplemented Patients |  |
+| --- | --- | --- | --- | --- |
+| Efficacy parameter | ALIMTA/ cisplatin (N = 226) | Cisplatin (N = 222) | ALIMTA/ cisplatin (N = 168) | Cisplatin (N = 163) |
+| Median overall survival (months) (95 % CI) | 12.1 (10.0 - 14.4) | 9.3 (7.8 - 10.7) | 13.3 (11.4 - 14.9) | 10.0 (8.4 - 11.9) |
+| Log Rank p-value* | 0.020 |  | 0.051 |  |
+| Median time to tumour progression (months) | 5.7 | 3.9 | 6.1 | 3.9 |
+| (95 % CI) | (4.9 – 6.5) | (2.8 - 4.4) | (5.3 - 7.0) | (2.8 - 4.5) |
+| Log Rank p-value* | 0.001 |  | 0.008 |  |
+| Time to treatment failure (months) (95 % CI) | 4.5 (3.9 – 4.9) | 2.7 (2.1 - 2.9) | 4.7 (4.3 - 5.6) | 2.7 (2.2 - 3.1) |
+| Log Rank p-value* | 0.001 |  | 0.001 |  |
+| Overall response rate** (95 % CI) | 41.3 % (34.8 - 48.1) | 16.7 % (12.0 – 22.2) | 45.5 % (37.8 - 53.4) | 19.6 % (13.8 - 26.6) |
+| Fisher’s exact p-value* | < 0.001 |  | < 0.001 |  |
+
 ** In the ALIMTA/cisplatin arm, randomized and treated (N = 225) and fully supplemented
 (N = 167)
+
+|  | ALIMTA | Docetaxel |
+| --- | --- | --- |
+| Survival Time (months) � Median (m) � 95 % CI for median � HR � 95 % CI for HR � Non-inferiority p-value (HR) | (n = 283) (n = 288) 8.3 7.9 (7.0 - 9.4) (6.3 - 9.2) 0.99 (.82 - 1.20) .226 |  |
+| Progression free survival (months) � Median � HR (95 % CI) | (n = 283) (n = 288) 2.9 2.9 0.97 (.82 – 1.16) |  |
+| Time to treatment failure (TTTF – months) � Median | (n = 283) (n = 288) 2.3 2.1 |  |
+
+� HR (95 % CI) 0.84 (.71 - .997)
+Response (n: qualified for response) (n = 264) (n = 274)
+� Response rate (%) (95 % CI) 9.1 (5.9 - 13.2) 8.8 (5.7 - 12.8)
+� Stable disease (%) 45.8 46.4
 
 Efficacy of ALIMTA + cisplatin vs. femcitabine + cisplatin in first-line non-small cell lung cancer – ITT population and histology subgroups.
 
