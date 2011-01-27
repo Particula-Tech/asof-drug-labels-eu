@@ -22,17 +22,17 @@ Limited data suggest that the plasma levels of duloxetine are higher in these pa
 Elimination: The elimination half-life of duloxetine ranges from 8 to 17 hours (mean of 12 hours).
 After an intravenous dose the plasma clearance of duloxetine ranges from 22 l/hr to 46 l/hr (mean of 36 l/hr).
 After an oral dose the apparent plasma clearance of duloxetine ranges from 33 to 261 l/hr (mean 101 l/hr).
-Special populations:
-Gender: pharmacokinetic differences have been identified between males and females (apparent plasma clearance is approximately 50% lower in females).
+Special populations
+Gender: Pharmacokinetic differences have been identified between males and females (apparent plasma clearance is approximately 50% lower in females).
 Based upon the overlap in the range of clearance, gender-based pharmacokinetic differences do not justify the recommendation for using a lower dose for female patients.
 
-Age: pharmacokinetic differences have been identified between younger and elderly females (≥65 years) (AUC increases by about 25% and half-life is about 25% longer in the elderly), although the magnitude of these changes is not sufficient to justify adjustments to the dose.
+Age: Pharmacokinetic differences have been identified between younger and elderly females (≥65 years) (AUC increases by about 25% and half-life is about 25% longer in the elderly), although the magnitude of these changes is not sufficient to justify adjustments to the dose.
 As a general recommendation, caution should be exercised when treating the elderly (see sections 4.2 and 4.4).
 
-Renal impairment: end stage renal disease (ESRD) patients receiving dialysis had 2-fold higher duloxetine Cmax and AUC values compared with healthy subjects.
+Renal impairment: End stage renal disease (ESRD) patients receiving dialysis had 2-fold higher duloxetine Cmax and AUC values compared with healthy subjects.
 Pharmacokinetic data on duloxetine is limited in patients with mild or moderate renal impairment.
 
-Hepatic impairment: moderate liver disease (Child Pugh Class B) affected the pharmacokinetics of duloxetine.
+Hepatic impairment: Moderate liver disease (Child Pugh Class B) affected the pharmacokinetics of duloxetine.
 Compared with healthy subjects, the apparent plasma clearance of duloxetine was 79% lower, the apparent terminal half-life was 2.3 times longer, and the AUC was 3.7 times higher in patients with moderate liver disease.
 The pharmacokinetics of duloxetine and its metabolites have not been studied in patients with mild or severe hepatic insufficiency.
 

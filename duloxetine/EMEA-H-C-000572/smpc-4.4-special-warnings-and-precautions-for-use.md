@@ -29,21 +29,23 @@ St John’s wort
 Adverse reactions may be more common during concomitant use of Cymbalta and herbal preparations containing St John’s wort (Hypericum perforatum).
 
 Suicide
-Major Depressive Disorder and Generalised Anxiety Disorder
-Depression is associated with an increased risk of suicidal thoughts, self harm and suicide (suicide-related events).
+Major Depressive Disorder and Generalised Anxiety Disorder: Depression is associated with an increased risk of suicidal thoughts, self harm and suicide (suicide-related events).
 This risk persists until significant remission occurs.
 As improvement may not occur during the first few weeks or more of treatment, patients should be closely monitored until such improvement occurs.
 It is general clinical experience that the risk of suicide may increase in the early stages of recovery.
+
 Other psychiatric conditions for which Cymbalta is prescribed can also be associated with an increased risk of suicide-related events.
 In addition, these conditions may be co-morbid with major depressive disorder.
 The same precautions observed when treating patients with major depressive disorder should therefore be observed when treating patients with other psychiatric disorders.
 Patients with a history of suicide-related events or those exhibiting a significant degree of suicidal thoughts prior to commencement of treatment are known to be at greater risk of suicidal thoughts or suicidal behaviour, and should receive careful monitoring during treatment.
 A meta-analysis of placebo-controlled clinical trials of antidepressant medicinal products in psychiatric disorders showed an increased risk of suicidal behaviour with antidepressants compared to placebo in patients less than 25 years old.
+
 Cases of suicidal thoughts and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation (see section 4.8).
-Close supervision of patients and in particular those at high risk should accompany drug therapy especially in early treatment and following dose changes.
-Patients, (and caregivers of patients) should be alerted about the need to monitor for any clinical worsening, suicidal behaviour or thoughts and unusual changes in behaviour and to seek medical advice immediately if these symptoms present.
-Diabetic Peripheral Neuropathic Pain
-As with other medicinal products with similar pharmacological action (antidepressants), isolated cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.
+
+Close supervision of patients and in particular those at high risk should accompany medicinal product therapy especially in early treatment and following dose changes.
+Patients (and caregivers of patients) should be alerted about the need to monitor for any clinical worsening, suicidal behaviour or thoughts and unusual changes in behaviour and to seek medical advice immediately if these symptoms present.
+
+Diabetic Peripheral Neuropathic Pain: As with other medicinal products with similar pharmacological action (antidepressants), isolated cases of suicidal ideation and suicidal behaviours have been reported during duloxetine therapy or early after treatment discontinuation.
 Concerning risk factors for suicidality in depression, see above.
 Physicians should encourage patients to report any distressing thoughts or feelings at any time.
 
@@ -55,13 +57,14 @@ If, based on clinical need, a decision to treat is nevertheless taken, the patie
 In addition, long-term safety data in children and adolescents concerning growth, maturation and cognitive and behavioural development are lacking.
 
 Haemorrhage
-There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/ noradrenaline reuptake inhibitors (SNRIs).
+There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/noradrenaline reuptake inhibitors (SNRIs).
 Caution is advised in patients taking anticoagulants and/or medicinal products known to affect platelet function, and in patients with known bleeding tendencies.
 
 Hyponatraemia
-Hyponatraemia has been reported rarely, predominantly in the elderly, when administering Cymbalta.
-Caution is required in patients at increased risk for hyponatraemia; such as elderly, cirrhotic, or dehydrated patients or patients treated with diuretics.
+Hyponatraemia has been reported when administering Cymbalta, including cases with serum sodium lower than 110 mmol/l.
 Hyponatraemia may be due to a syndrome of inappropriate anti-diuretic hormone secretion (SIADH).
+The majority of cases of hyponatraemia were reported in the elderly, especially when coupled with a recent history of, or condition pre-disposing to, altered fluid balance.
+Caution is required in patients at increased risk for hyponatraemia, such as elderly, cirrhotic, or dehydrated patients or patients treated with diuretics.
 
 Discontinuation of treatment
 Withdrawal symptoms when treatment is discontinued are common, particularly if discontinuation is abrupt (see section 4.8).
@@ -82,6 +85,7 @@ Akathisia/psychomotor restlessness
 The use of duloxetine has been associated with the development of akathisia, characterised by a subjectively unpleasant or distressing restlessness and need to move often accompanied by an inability to sit or stand still.
 This is most likely to occur within the first few weeks of treatment.
 In patients who develop these symptoms, increasing the dose may be detrimental.
+
 Medicinal products containing duloxetine
 Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive disorder, generalised anxiety disorder as well as stress urinary incontinence).
 The use of more than one of these products concomitantly should be avoided.
@@ -95,11 +99,3 @@ Duloxetine should be used with caution in patients treated with other medicinal 
 Sucrose
 Cymbalta hard gastro-resistant capsules contain sucrose.
 Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrose-isomaltase insufficiency should not take this medicine.
-
-[Cymbalta 60 mg hard gastro-resistant capsules]
-
-Therefore,in patients with known hypertension and/or other cardiac disease, blood pressure monitoring is recommended, especially during the first month of treatment.
-
-Close supervision of patients and in particular those at high risk should accompany medicinal product therapy especially in early treatment and following dose changes.
-
-There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/noradrenaline reuptake inhibitors (SNRIs).

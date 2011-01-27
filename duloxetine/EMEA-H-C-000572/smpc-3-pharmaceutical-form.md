@@ -1,7 +1,6 @@
 # 3. PHARMACEUTICAL FORM
 
 Hard gastro-resistant capsule.
-
 Opaque white body, imprinted with ‘30 mg’ and an opaque blue cap, imprinted with ‘9543’.
 
 [Cymbalta 60 mg hard gastro-resistant capsules]
