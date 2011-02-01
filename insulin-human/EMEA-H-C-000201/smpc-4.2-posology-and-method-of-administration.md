@@ -44,7 +44,7 @@ Only injection syringes designed for this strength of insulin (40 IU per ml) are
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
-Insuman Rapid in cartridges has been developed for use in the OptiPen series.
+(all sentences already above)
 
 [Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
 
@@ -52,11 +52,11 @@ OptiSet delivers insulin in increments of 2 IU up to a maximum single dose of 40
 
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
 
 Insuman Rapid in cartridges for OptiClik has been developed for use with OptiClik only.
 
-[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
+[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
 
 SoloStar delivers insulin in doses from 1 to 80 units in steps of 1 unit.
 Each pen contains multiple doses.
@@ -80,17 +80,17 @@ Fur further details on handling, see section 6.6.
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
-Insuman Basal in cartridges has been developed for use in the OptiPen series.
+(all sentences already above)
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Basal in cartridges for OptiClik has been developed for use with OptiClik only.
 
-[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
+[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -109,17 +109,17 @@ Insuman Comb 15 contains 40 IU of insulin per ml suspension.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
 
-Insuman Comb 15 in cartridges has been developed for use in the OptiPen series.
+(all sentences already above)
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Comb 15 in cartridges for OptiClik has been developed for use with OptiClik only.
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
+[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -138,17 +138,17 @@ Insuman Comb 25 contains 40 IU of insulin per ml suspension.
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
 
-Insuman Comb 25 in cartridges has been developed for use in the OptiPen series.
+(all sentences already above)
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Comb 25 in cartridges for OptiClik has been developed for use with OptiClik only.
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
+[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -163,17 +163,17 @@ Insuman Comb 30 must never be injected intravenously.
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
 
-Insuman Comb 30 in cartridges has been developed for use in the OptiPen series.
+(all sentences already above)
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Comb 30 in cartridges for OptiClik has been developed for use with OptiClik only.
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
+[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -195,17 +195,15 @@ Insuman Comb 50 contains 40 IU of insulin per ml suspension.
 Close metabolic monitoring is recommended during the transition and in the initial weeks thereafter.
 In patients who require high insulin doses because of the presence of insulin antibodies, transfer under medical supervision in a hospital or similar setting must be considered.
 
-Insuman Comb 50 in cartridges has been developed for use in the OptiPen series.
-
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Comb 50 in cartridges for OptiClik has been developed for use with OptiClik only.
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
+[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 

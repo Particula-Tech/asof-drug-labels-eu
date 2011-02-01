@@ -20,7 +20,6 @@ Uncommon: shock
 Not known: immediate type allergic reactions (hypotension, angioneurotic oedema, bronchospasm, generalised skin reactions), anti-insulin antibodies
 
 Immediate type allergic reactions to insulin or to the excipients may be life-threatening.
-
 Insulin administration may cause anti-insulin antibodies to form.
 In rare cases, the presence of such anti-insulin antibodies may necessitate adjustment of the insulin dose in order to correct a tendency to hyper- or hypoglycaemia.
 
@@ -30,6 +29,7 @@ Common: oedema
 Not known: sodium retention
 
 Insulin may cause sodium retention and oedema, particularly if previously poor metabolic control is improved by intensified insulin therapy.
+
 Eyes disorders
 
 Not known: proliferative retinopathy, diabetic retinopathy, visual impairment

@@ -68,13 +68,18 @@ In many cases, urine tests for ketones are indicated, and often it is necessary 
 The insulin requirement is often increased.
 Patients with type 1 diabetes must continue to consume at least a small amount of carbohydrates on a regular basis, even if they are able to eat only little or no food, or are vomiting etc. and they must never omit insulin entirely.
 
+Medication errors
+Medication errors have been reported in which other Insuman formulations or other insulins have been accidentally administered.
+Insulin label must always be checked before each injection to avoid medication errors between insulin human and other insulins.
+
 [Insuman Rapid 40 IU/ml solution for injection in a vial]
 
 (all sentences already above)
 
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
-(all sentences already above)
+Pens to be used with Insuman Rapid cartridges
+The Insuman Rapid cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen and Autopen 24 and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
 
 [Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.]
 
@@ -82,11 +87,11 @@ Handling of the pen
 Before using OptiSet, the Instructions for Use included in the Package Leaflet must be read carefully.
 OptiSet has to be used as recommended in these Instructions for Use (see section 6.6).
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
+[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
 
 Before using SoloStar, the Instructions for Use included in the Package Leaflet must be read carefully.
 SoloStar has to be used as recommended in these Instructions for Use (see section 6.6).
@@ -105,17 +110,18 @@ Transfer to Insuman Basal
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
-(all sentences already above)
+Pens to be used with Insuman Basal cartridges
+The Insuman Basal cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen and Autopen 24 and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
 
 [Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
+[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -133,17 +139,18 @@ Transfer to Insuman Comb 15
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
 
-(all sentences already above)
+Pens to be used with Insuman Comb 15 cartridges
+The Insuman Comb 15 cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen and Autopen 24 and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
+[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -161,17 +168,18 @@ Transfer to Insuman Comb 25
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
 
-(all sentences already above)
+Pens to be used with Insuman Comb 25 cartridges
+The Insuman Comb 25 cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen and Autopen 24 and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
+[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -185,17 +193,18 @@ Transfer to Insuman Comb 30
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
 
-(all sentences already above)
+Pens to be used with Insuman Comb 30 cartridges
+The Insuman Comb 30 cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen and Autopen 24 and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
+[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -213,17 +222,18 @@ Transfer to Insuman Comb 50
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
 
-(all sentences already above)
+Pens to be used with Insuman Comb 50 cartridges
+The Insuman Comb 50 cartridges should only be used with the following pens: OptiPen, ClikSTAR, Tactipen and Autopen 24 and should not be used with any other reusable pen as the dosing accuracy has only been established with the listed pens.
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
+[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 

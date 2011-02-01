@@ -10,6 +10,8 @@ Insuman Rapid must only be used if the solution is clear, colourless, with no so
 As with all insulin preparations, Insuman Rapid must not be mixed with solutions containing reducing agents such as thioles and sulphites.
 It must also be remembered that neutral regular insulin precipitates out at a pH of approximately 4.5 to 6.5.
 
+Insulin label must always be checked before each injection to avoid medication errors between insulin human and other insulins (see section 4.4).
+
 Mixing of insulins
 Insuman Rapid may be mixed with all Sanofi-Aventis human insulins, but NOT with those designed specifically for use in insulin pumps.
 Insuman Rapid must also NOT be mixed with insulins of animal origin or with insulin analogues.
@@ -27,7 +29,10 @@ Any unused product or waste material should be disposed of in accordance with lo
 [Insuman Rapid 100 IU/ml solution for injection in a cartridge]
 
 Insulin pen
-The cartridges are to be used in conjunction with an insulin pen such as OptiPen and other pens suitable for Insuman cartridges and as recommended in the information provided by the device manufacturer.
+The Insuman Rapid cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+Not all of these pens may be marketed in your country.
+
+The pen should be used as recommended in the information provided by the device manufacturer.
 
 The manufacturer’s instructions for using the pen must be followed carefully for loading the cartridge, attaching the injection needle, and administering the insulin injection.
 
@@ -176,7 +181,7 @@ Needles must not be re-used.
 
 The pen cap should be replaced on the pen.
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
 
 The cartridges for OptiClik are to be used in conjunction OptiClik only and as recommended in the information provided by the device manufacturer.
 
@@ -184,7 +189,7 @@ If OptiClik is damaged or not working properly (due to mechanical defects) it ha
 
 Insuman Rapid cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
 
-[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
+[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
 
 The patient should be advised to read the instructions for use included in the package leaflet carefully before using SoloStar.
 
@@ -278,6 +283,8 @@ Insuman Basal must also NOT be mixed with insulins of animal origin or with insu
 
 [Insuman Basal 100 IU/ml suspension for injection in a cartridge]
 
+The Insuman Basal cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+
 If the pen malfunctions (see instructions for using the pen), the suspension may be drawn from the cartridge into an injection syringe (suitable for an insulin with 100 IU/ml) and injected.
 
 Before insertion into the pen, Insuman Basal must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
@@ -311,11 +318,11 @@ The appearance of the insulin should be checked: the insulin suspension must hav
 
 Needles must not be reused.
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Basal cartridges for Opticlik are not designed to allow any other insulin to be mixed in the cartridge for Opticlik.
 
-[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
+[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -338,6 +345,8 @@ Insuman Comb 15 must also NOT be mixed with insulins of animal origin or with in
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a cartridge]
 
+The Insuman Comb 15 cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+
 Before insertion into the pen, Insuman Comb 15 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
 Insuman Comb 15 must not be used if this cannot be achieved, i.e. if the suspension remains clear, for example, or if clumps, particles or flocculation appear in the insulin or stick to the wall or bottom of the cartridge.
@@ -350,11 +359,11 @@ Before first use, Insuman Comb 15 must be kept at room temperature for 1 to 2 ho
 
 Insuman Comb 15 must not be mixed with any other insulin or with insulin analogues.
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Comb 15 cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
+[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -373,6 +382,8 @@ Insuman Comb 25 must also NOT be mixed with insulins of animal origin or with in
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a cartridge]
 
+The Insuman Comb 25 cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+
 Before insertion into the pen, Insuman Comb 25 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
 Insuman Comb 25 must not be used if this cannot be achieved, i.e. if the suspension remains clear, for example, or if clumps, particles or flocculation appear in the insulin or stick to the wall or bottom of the cartridge.
@@ -385,11 +396,11 @@ Before first use, Insuman Comb 25 must be kept at room temperature for 1 to 2 ho
 
 Insuman Comb 25 must not be mixed with any other insulin or with insulin analogues.
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Comb 25 cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
+[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -404,6 +415,8 @@ Insuman Comb 30 must also NOT be mixed with insulins of animal origin or with in
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a cartridge]
 
+The Insuman Comb 30 cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+
 Before insertion into the pen, Insuman Comb 30 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
 Insuman Comb 30 must not be used if this cannot be achieved, i.e. if the suspension remains clear, for example, or if clumps, particles or flocculation appear in the insulin or stick to the wall or bottom of the cartridge.
@@ -416,11 +429,11 @@ Before first use, Insuman Comb 30 must be kept at room temperature for 1 to 2 ho
 
 Insuman Comb 30 must not be mixed with any other insulin or with insulin analogues.
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Comb 30 cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
+[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
@@ -439,6 +452,8 @@ Insuman Comb 50 must also NOT be mixed with insulins of animal origin or with in
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a cartridge]
 
+The Insuman Comb 50 cartridges are to be used only in conjunction with OptiPen, ClikSTAR, Autopen 24 or Tactipen (see section 4.4).
+
 Before insertion into the pen, Insuman Comb 50 must be kept at room temperature for 1 to 2 hours and then resuspended to check the contents.
 
 Insuman Comb 50 must not be used if this cannot be achieved, i.e. if the suspension remains clear, for example, or if clumps, particles or flocculation appear in the insulin or stick to the wall or bottom of the cartridge.
@@ -451,11 +466,11 @@ Before first use, Insuman Comb 50 must be kept at room temperature for 1 to 2 ho
 
 Insuman Comb 50 must not be mixed with any other insulin or with insulin analogues.
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
 
 Insuman Comb 50 cartridges for OptiClik are not designed to allow any other insulin to be mixed in the cartridge for OptiClik.
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
+[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
 
 (all sentences already above)
 
