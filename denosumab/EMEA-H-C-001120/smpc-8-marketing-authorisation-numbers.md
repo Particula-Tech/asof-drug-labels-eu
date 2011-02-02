@@ -1,1 +1,9 @@
 # 8. MARKETING AUTHORISATION NUMBER(S)
+
+EU/1/10/618/001
+EU/1/10/618/002
+EU/1/10/618/003
+
+[Prolia 60 mg solution for injection]
+
+EU/1/10/618/004
