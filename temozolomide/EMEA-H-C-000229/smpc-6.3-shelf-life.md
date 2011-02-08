@@ -24,7 +24,7 @@
 
 [Temodal 2.5 mg/ml powder for solution for infusion]
 
-Unopened vial: 3 years
+Unopened vial: 4 years
 
 Reconstituted solution: after reconstitution the chemical and physical in-use stability has been demonstrated for 14 hours at 25°C, including infusion time.
 From a microbiological point of view, the product should be used immediately.

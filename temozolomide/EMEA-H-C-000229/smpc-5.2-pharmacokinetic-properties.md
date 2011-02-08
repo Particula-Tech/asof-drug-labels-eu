@@ -35,7 +35,12 @@ Paediatric patients had a higher AUC than adult patients; however, the maximum t
 
 [Temodal 20 mg hard capsules]
 
-(all sentences already above)
+In vivo, the t1/2
+
+- f MTIC was similar to that of TMZ, 1.8 hr.
+
+The major route of C elimination is renal.
+14 Following oral administration, approximately 5 % to 10 % of the dose is recovered unchanged in the urine over 24 hours, and the remainder excreted as temozolomide acid, 5-aminoimidazole-4-carboxamide (AIC) or unidentified polar metabolites.
 
 [Temodal 100 mg hard capsules]
 

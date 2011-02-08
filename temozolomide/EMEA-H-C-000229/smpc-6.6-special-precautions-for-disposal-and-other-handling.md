@@ -11,7 +11,12 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 [Temodal 20 mg hard capsules]
 
-(all sentences already above)
+If a capsule becomes damaged, contact of the powder contents with skin
+
+- r mucous membrane must be avoided.
+  If Temodal comes into contact with skin or mucosa, it should be
+
+washed immediately and thoroughly with soap and water.
 
 [Temodal 100 mg hard capsules]
 
@@ -42,7 +47,7 @@ The solution should be inspected and any vial containing visible particulate mat
 A volume up to 40 ml reconstituted solution should be withdrawn, according to the total prescribed dose and transferred into an empty 250 ml PVC infusion bag.
 Studies with non-PVC bags have not been conducted.
 The pump tubing should be attached to the bag, the tubing purged and then capped.
-Temodal 2.5 mg/ml must be administered by intravenous infustion only over a period of 90 minutes.
+Temodal 2.5 mg/ml must be administered by intravenous infusion only over a period of 90 minutes.
 
 In the absence of compatibility studies, this medicinal product must not be mixed with other medicinal products or infused simultaneously through the same intravenous line.
 
