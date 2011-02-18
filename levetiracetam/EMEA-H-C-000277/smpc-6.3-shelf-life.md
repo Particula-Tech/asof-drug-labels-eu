@@ -16,10 +16,10 @@
 
 [Keppra 100 mg/ml oral solution]
 
-2 years.
-After first opening: 4 months
+After first opening: 7 months
 
 [Keppra 100 mg/ml concentrate for solution for infusion]
 
+2 years.
 From a microbiological point of view, the product should be used immediately after dilution.
 If not used immediately, in-use storage time and conditions prior to use are the responsibility of the user and would normally not be longer than 24 hours at 2 to 8°C, unless dilution has taken place in controlled and validated aseptic conditions.
