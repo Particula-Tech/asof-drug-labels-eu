@@ -19,7 +19,6 @@ Therefore, caution is recommended when administering Glivec with CYP3A4 substrat
 Glivec may increase plasma concentration of other CYP3A4 metabolised drugs (e.g. triazolo-benzodiazepines, dihydropyridine calcium channel blockers, certain HMG-CoA reductase inhibitors, i.e. statins, etc.).
 
 Because warfarin is metabolised by CYP2C9, patients who require anticoagulation should receive low-molecular-weight or standard heparin.
-
 In vitro Glivec inhibits the cytochrome P450 isoenzyme CYP2D6 activity at concentrations similar to those that affect CYP3A4 activity.
 Imatinib at 400 mg twice daily had an inhibitory effect on CYP2D6-mediated metoprolol metabolism, with metoprolol Cmax and AUC being increased by approximately 23% (90%CI [1.16-1.30]).
 Dose adjustments do not seem to be necessary when imatinib is co-administrated with CYP2D6 substrates, however caution is advised for CYP2D6 substrates with a narrow therapeutic window such as metoprolol.

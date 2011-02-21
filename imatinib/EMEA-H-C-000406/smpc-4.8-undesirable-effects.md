@@ -4,6 +4,7 @@ Patients with advanced stages of malignancies may have numerous confounding medi
 
 In clinical trials in CML, drug discontinuation for drug-related adverse reactions was observed in 2.4% of newly diagnosed patients, 4% of patients in late chronic phase after failure of interferon therapy, 4% of patients in accelerated phase after failure of interferon therapy and 5% of blast crisis patients after failure of interferon therapy.
 In GIST the study drug was discontinued for drug-related adverse reactions in 4% of patients.
+
 The adverse reactions were similar in all indications, with two exceptions.
 There was more myelosuppression seen in CML patients than in GIST, which is probably due to the underlying disease.
 In the study in patients with unresectable and/or metastatic GIST, 7 (5%) patients experienced CTC grade 3/4 GI bleeds (3 patients), intra-tumoural bleeds (3 patients) or both (1 patient).
@@ -26,7 +27,6 @@ Frequency categories are defined using the following convention: very common
 (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 Within each frequency grouping, undesirable effects are presented in order of frequency, the most frequent first.
-
 Adverse reactions and their frequencies reported in Table 1 are based on the main registration studies.
 
 Table 1 Adverse reactions in clinical studies
@@ -99,7 +99,9 @@ Table 1 Adverse reactions in clinical studies
 | Very common: | Fluid retention and oedema, fatigue |
 | Common: | Weakness, pyrexia, anasarca, chills, rigors |
 | Uncommon: | Chest pain, malaise |
+
 | Investigations |  |
+| --- | --- |
 | Very common: | Weight increased |
 | Common: | Weight decreased |
 | Uncommon: | Blood creatinine increased, blood creatine phosphokinase increased, blood lactate dehydrogenase increased, blood alkaline phosphatase increased |
@@ -142,6 +144,7 @@ Table 2 Adverse reactions from post-marketing reports
 | Not known: | Toxic epidermal necrolysis |
 | Musculoskeletal and connective tissue disorders |  |
 | Not known: | Avascular necrosis/hip necrosis |
+| Not known: | Growth retardation in children |
 
 1 Fatal cases have been reported in patients with advanced disease, severe infections, severe neutropenia and other serious concomitant conditions.
 

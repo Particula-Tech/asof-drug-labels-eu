@@ -48,3 +48,8 @@ In patients with impaired renal function, imatinib plasma exposure seems to be h
 Patients with renal impairment should be given the minimum starting dose.
 Patients with severe renal impairment should be treated with caution.
 The dose can be reduced if not tolerated (see section 4.2 and 5.2).
+
+Children and adolescents
+There have been case reports of growth retardation occurring in children and pre-adolescents receiving imatinib.
+The long-term effects of prolonged treatment with imatinib on growth in children are unknown.
+Therefore, close monitoring of growth in children under imatinib treatment is recommended (see section 4.8).

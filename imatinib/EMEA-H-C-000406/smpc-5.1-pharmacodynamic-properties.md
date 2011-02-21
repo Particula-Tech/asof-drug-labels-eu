@@ -86,6 +86,7 @@ At 84 months the estimated overall survival is 86.4% (83, 90) vs. 83.3% (80, 87)
 This time-to-event endpoint is strongly affected by the high crossover rate from IFN+Ara-C to Glivec.
 The effect of Glivec treatment on survival in chronic phase, newly diagnosed CML has been further examined in a retrospective analysis of the above reported Glivec data with the primary data from another Phase III study using IFN+Ara-C (n=325) in an identical regimen.
 In this retrospective analysis, the superiority of Glivec over IFN+Ara-C in overall survival was demonstrated (p<0.001); within 42 months, 47 (8.5%) Glivec patients and 63 (19.4%) IFN+Ara-C patients had died.
+
 The degree of cytogenetic response and molecular response had a clear effect on long-term outcomes in patients on Glivec.
 Whereas an estimated 96% (93%) of patients with CCyR (PCyR) at 12 months were free of progression to accelerated phase/blast crisis at 84 months, only 81% of patients without MCyR at 12 months were free of progression to advanced CML at 84 months (p<0.001 overall, p=0.25 between CCyR and PCyR).
 For patients with reduction in Bcr-Abl transcripts of at least 3 logarithms at 12 months, the probability of remaining free from progression to accelerated phase/blast crisis was 99% at 84 months.
@@ -122,6 +123,7 @@ The primary efficacy variable was the rate of haematological response, reported 
 In this study, 31% of patients achieved a haematological response (36% in previously untreated patients and 22% in previously treated patients).
 The rate of response was also higher in the patients treated at 600 mg (33%) as compared to the patients treated at 400 mg (16%, p=0.0220).
 The current estimate of the median survival of the previously untreated and treated patients was 7.7 and 4.7 months, respectively.
+
 Lymphoid blast crisis: a limited number of patients were enrolled in phase I studies (n=10).
 The rate of haematological response was 70% with a duration of 2–3 months.
 
@@ -148,6 +150,7 @@ Glivec treatment induces a rapid response in newly diagnosed paediatric CML pati
 The high rate of CHR is accompanied by the development of a complete cytogenetic response (CCyR) of 65% which is comparable to the results observed in adults.
 Additionally, partial cytogenetic response (PCyR) was observed in 16% for a MCyR of 81%.
 The majority of patients who achieved a CCyR developed the CCyR between months 3 and 10 with a median time to response based on the Kaplan-Meier estimate of 5.6 months.
+
 The European Medicines Agency has waived the obligation to submit the results of studies with Glivec in all subsets of the paediatric population in Philadelphia chromosome (bcr-abl translocation)- positive chronic myeloid leukaemia (see section 4.2 for information on paediatric use).
 
 Clinical studies in Ph+ ALL
