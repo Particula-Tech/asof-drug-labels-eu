@@ -39,7 +39,7 @@ Rare: pancreatitis, erosive duodenitis, oral hypoaesthesia.
 
 Skin and subcutaneous tissue disorders
 Uncommon: pruritus, hyperhydrosis.
-Rare: allergic dermatitis, urticaria, cold sweat, rash.
+Rare: angioedema, allergic dermatitis, urticaria, cold sweat, rash.
 
 Musculoskeletal and connective tissue disorders
 Uncommon: pain in extremity, muscle cramp, joint swelling.
