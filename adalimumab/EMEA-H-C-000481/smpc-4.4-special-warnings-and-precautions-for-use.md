@@ -146,8 +146,8 @@ Concurrent administration of TNF-antagonists and abatacept
 Concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Humira and abatacept is not recommended.
 (See section 4.5).
-Surgery
 
+Surgery
 There is limited safety experience of surgical procedures in patients treated with Humira.
 The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Humira should be closely monitored for infections, and appropriate actions should be taken.
