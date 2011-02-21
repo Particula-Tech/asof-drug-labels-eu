@@ -12,6 +12,7 @@ The mean aprepitant plasma concentrations from 4 hours after dosing (including t
 Distribution
 Aprepitant is highly protein bound, with a mean of 97 %.
 The geometric mean apparent volume of distribution at steady state (Vdss) is approximately 66 l in humans.
+
 Metabolism
 Fosaprepitant was rapidly converted to aprepitant in in vitro incubations with liver preparations from humans.
 Furthermore, fosaprepitant underwent rapid and nearly complete conversion to aprepitant in S9 preparations from other human tissues including kidney, lung and ileum.
@@ -23,7 +24,6 @@ In healthy young adults, aprepitant accounts for approximately 19 % of the radio
 Twelve metabolites of aprepitant have been identified in human plasma.
 The metabolism of aprepitant occurs largely via oxidation at the morpholine ring and its side chains and the resultant metabolites were only weakly active.
 In vitro studies using human liver microsomes indicate that aprepitant is metabolised primarily by CYP3A4 and potentially with minor contribution by CYP1A2 and CYP2C19.
-
 All metabolites observed in urine, faeces and plasma following an intravenous 100 mg [14C]- fosaprepitant dose were also observed following an oral dose of [14C]-aprepitant.
 Upon conversion of 115 mg of fosaprepitant to aprepitant, 18.3 mg of phosphate is liberated from fosaprepitant.
 
@@ -53,6 +53,7 @@ Due to modest decreases in protein binding of aprepitant in patients with renal 
 Haemodialysis conducted 4 or 48 hours after dosing had no significant effect on the pharmacokinetics of aprepitant; less than 0.2 % of the dose was recovered in the dialysate.
 
 No dose adjustment is necessary for patients with renal impairment or for patients with ESRD undergoing haemodialysis.
+
 Relationship between concentration and effect
 Fosaprepitant is a prodrug of aprepitant.
 Positron emission tomography (PET) imaging studies, using a highly specific NK1-receptor tracer, in healthy young men after administration of oral aprepitant have shown that aprepitant penetrates into the brain and occupies NK1 receptors in a dose-and plasma-concentration-dependent manner.

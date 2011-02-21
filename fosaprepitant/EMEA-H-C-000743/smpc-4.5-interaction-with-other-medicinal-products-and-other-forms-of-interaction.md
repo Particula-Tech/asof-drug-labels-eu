@@ -4,7 +4,6 @@ When administered intravenously fosaprepitant is rapidly converted to aprepitant
 
 Drug interactions following administration of fosaprepitant are likely to occur with active substances that interact with oral aprepitant.
 The following information was derived from data with oral aprepitant and studies conducted with fosaprepitant and midazolam or diltiazem.
-
 Aprepitant (125 mg/ 80 mg) is a substrate, a moderate inhibitor, and an inducer of CYP3A4.
 Aprepitant is also an inducer of CYP2C9.
 During treatment with oral aprepitant, CYP3A4 is inhibited.
@@ -70,9 +69,9 @@ The effect is maintained for a few days, thereafter slowly declines and is clini
 Mild induction of glucuronidation is also seen with 80 mg oral aprepitant given for 7 days.
 Data are lacking regarding effects on CYP2C8 and CYP2C19.
 Caution is advised when warfarin, acenocoumarol, tolbutamide, phenytoin or other active substances that are known to be metabolised by CYP2C9 are administered during this time period.
+
 Warfarin: In patients on chronic warfarin therapy, the prothrombin time (INR) should be monitored closely during treatment with fosaprepitant or aprepitant and for 2 weeks following each 3-day regimen for chemotherapy induced nausea and vomiting (see section 4.4).
 When a single 125 mg dose of oral aprepitant was administered on Day 1 and 80 mg/day on Days 2 and 3 to healthy subjects who were stabilised on chronic warfarin therapy, there was no effect of oral aprepitant on the plasma AUC of R(+) or S(-) warfarin determined on Day 3; however, there was a 34 % decrease in S(-) warfarin (a CYP2C9 substrate) trough concentration accompanied by a 14 % decrease in INR 5 days after completion of dosing with oral aprepitant.
-
 Tolbutamide: Oral aprepitant, when given as 125 mg on Day 1 and 80 mg/day on Days 2 and 3, decreased the AUC of tolbutamide (a CYP2C9 substrate) by 23 % on Day 4, 28 % on Day 8, and 15 % on Day 15, when a single dose of tolbutamide 500 mg was administered orally prior to the administration of the 3-day regimen of oral aprepitant and on Days 4, 8, and 15.
 
 Hormonal contraceptives: The efficacy of hormonal contraceptives may be reduced during and for 28 days after administration of oral aprepitant.

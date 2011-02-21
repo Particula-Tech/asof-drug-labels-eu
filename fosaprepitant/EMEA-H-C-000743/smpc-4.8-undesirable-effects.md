@@ -15,6 +15,7 @@ The most common adverse reactions reported at a greater incidence in patients tr
 The most common adverse reaction reported at a greater incidence in patients treated with the aprepitant regimen than with standard therapy in patients receiving moderately emetogenic chemotherapy was fatigue (1.4 % versus 0.9 %).
 
 The following adverse reactions were observed in either HEC or MEC studies in patients treated with the aprepitant regimen and at a greater incidence than with standard therapy:
+
 Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000) and very rare (<1/10,000), not known (cannot be estimated from the available data).
 
 | System Organ Class | Adverse reaction | Frequency |
@@ -47,12 +48,12 @@ Frequencies are defined as: very common (≥1/10); common (≥1/100 to <1/10); u
 The adverse reactions profiles in the Multiple-Cycle extension of HEC and MEC studies for up to 6 additional cycles of chemotherapy were generally similar to those observed in Cycle 1.
 
 In an additional active-controlled clinical study in 1169 patients receiving aprepitant and highly emetogenic chemotherapy, the adverse reactions profile was generally similar to that seen in the other HEC studies with aprepitant.
+
 Additional adverse reactions were observed in patients treated with aprepitant (40 mg) for postoperative nausea and vomiting and a greater incidence than with ondansetron: abdominal pain upper, bowel sounds abnormal, dysarthria, dyspnoea, hypoaesthesia, insomnia, miosis, nausea, sensory disturbance, stomach discomfort, visual acuity reduced, wheezing.
 
 In addition, two serious adverse reactions were reported in clinical studies in postoperative nausea and vomiting (PONV) in patients taking a higher dose of aprepitant: one case of constipation, and one case of sub-ileus.
 
 One case of Stevens-Johnson syndrome was reported as a serious adverse event in a patient receiving aprepitant with cancer chemotherapy.
-
 One case of angioedema and urticaria was reported as a serious adverse event in a patient receiving aprepitant in a non-CINV/non-PONV study.
 
 IVEMEND (fosaprepitant)
