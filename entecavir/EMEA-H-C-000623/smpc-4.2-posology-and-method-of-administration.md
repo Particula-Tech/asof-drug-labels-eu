@@ -12,8 +12,6 @@ Duration of therapy: the optimal duration of treatment is unknown.
 Treatment discontinuation may be considered as follows:
 � In HBeAg positive patients, treatment should be administered at least until HBe seroconversion (HBeAg loss and HBV DNA loss with anti-HBe detection on two consecutive serum samples at least 3-6 months apart) or until HBs seroconversion or there is loss of efficacy (see section 4.4). � In HBeAg negative patients, treatment should be administered at least until HBs seroconversion or there is evidence of loss of efficacy.
 With prolonged treatment for more than 2 years, regular reassessment is recommended to confirm that continuing the selected therapy remains appropriate for the patient.
-Children and adolescents: Baraclude is not recommended for use in children below 18 years due to a lack of data on safety and efficacy.
-
 Elderly: no dosage adjustment based on age is required.
 The dose should be adjusted according to the patient’s renal function (see dosage recommendations in renal impairment and section 5.2).
 
@@ -38,6 +36,9 @@ Therefore, virological response should be closely monitored.
 ** on haemodialysis days, administer entecavir after haemodialysis.
 
 Hepatic impairment: no dose adjustment is required in patients with hepatic impairment.
+
+Paediatric population: the safety and efficacy of Baraclude in children below 18 years of age have not yet been established.
+No data are available.
 
 [Baraclude 1 mg film-coated tablets]
 

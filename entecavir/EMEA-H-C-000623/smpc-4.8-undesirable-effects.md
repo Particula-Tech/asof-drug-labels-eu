@@ -1,49 +1,37 @@
 # 4.8 Undesirable effects
 
-Assessment of adverse reactions is based on four clinical studies in which 1,720 patients with chronic hepatitis B infection received double-blind treatment with entecavir 0.5 mg/day (n = 679), entecavir 1 mg/day (n = 183), or lamivudine (n = 858) for up to 107 weeks.
-The safety profiles of entecavir and lamivudine, including laboratory test abnormalities, were comparable in these studies.
+a. Summary of the safety profile
+In clinical studies in patients with compensated liver disease, the most common adverse reactions of any severity with at least a possible relation to entecavir were headache (9%), fatigue (6%), dizziness (4%) and nausea (3%).
+Exacerbations of hepatitis during and after discontinuation of entecavir therapy have also been reported (see section 4.4 and c. Description of selected adverse reactions).
 
-The most common adverse reactions of any severity with at least a possible relation to entecavir were headache (9%), fatigue (6%), dizziness (4%) and nausea (3%).
+b. Tabulated list of adverse reactions
+Assessment of adverse reactions is based on experience from postmarketing surveillance and four clinical studies in which 1,720 patients with chronic hepatitis B infection and compensated liver disease received double-blind treatment with entecavir (n = 862) or lamivudine (n = 858) for up to 107 weeks (see section 5.1).
+In these studies, the safety profiles, including laboratory abnormalities, were comparable for entecavir 0.5 mg daily (679 nucleoside-naive HBeAg positive or negative patients treated for a median of 53 weeks), entecavir 1 mg daily (183 lamivudine-refractory patients treated for a median of 69 weeks), and lamivudine.
 
 Adverse reactions considered at least possibly related to treatment with entecavir are listed by body system organ class.
-Frequency is defined as very common (≥ 1/10); common (≥ 1/100, < 1/10).
+Frequency is defined as very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-Experience in nucleoside naive patients (HBeAg positive and negative):
-The safety profile is based on treatment exposure to entecavir 0.5 mg once daily for a median of 53 weeks.
-
+Immune system disorders: rare: anaphylactoid reaction
+Psychiatric disorders: common: insomnia
 Nervous system disorders: common: headache, dizziness, somnolence
 Gastrointestinal disorders: common: vomiting, diarrhoea, nausea, dyspepsia
+Hepatobiliary disorders common: increased transaminases
 
-General disorders and administration site
+Skin and subcutaneous tissue disorders: uncommon: rash, alopecia
 
-conditions: common: fatigue
-Psychiatric disorders: common: insomnia
+General disorders and administration site common: fatigue conditions:
 
-Laboratory test abnormalities: 2% of patients had ALT elevations both > 10 times upper limit of the normal range (ULN) and > 2 times baseline, 5% had ALT elevations > 3 times baseline, and < 1% had ALT elevations > 2 times baseline together with total bilirubin > 2 times ULN and > 2 times baseline.
+Cases of lactic acidosis have been reported, often in association with hepatic decompensation, other serious medical conditions or drug exposures (see section 4.4).
+
+Treatment beyond 48 weeks: continued treatment with entecavir for a median duration of 96 weeks did not reveal any new safety signals.
+
+c. Description of selected adverse reactions
+
+Laboratory test abnormalities: In clinical studies with nucleoside-naive patients, 5% had ALT elevations > 3 times baseline, and < 1% had ALT elevations > 2 times baseline together with total bilirubin > 2 times ULN and > 2 times baseline.
 Albumin levels < 2.5 g/dl occurred in < 1% of patients, amylase levels > 3 times baseline in 2%, lipase levels > 3 times baseline in 11% and platelets < 50,000/mm3 in < 1%.
-
-Treatment beyond 48 weeks: continued treatment with entecavir for a median duration of 96 weeks did not reveal any new safety signals.
-
-Experience in lamivudine-refractory patients:
-The safety profile is based on treatment exposure to entecavir 1 mg once daily for a median of 69 weeks.
-
-Nervous system disorders: very common: headache
-
-common: dizziness, somnolence
-
-Gastrointestinal disorders: common: vomiting, diarrhoea, nausea, dyspepsia
-
-General disorders and administration site
-
-conditions: common: fatigue
-Psychiatric disorders: common: insomnia
-
-Laboratory test abnormalities: 2% of patients had ALT elevations both > 10 times ULN and > 2 times baseline, 4% had ALT elevations > 3 times baseline, and < 1% had ALT elevations > 2 times baseline together with total bilirubin > 2 times ULN and > 2 times baseline.
-Amylase levels > 3 times baseline occurred in 2% of patients, lipase levels > 3 times baseline in 18% and platelets < 50,000/mm3 in
-< 1%.
-
-Treatment beyond 48 weeks: continued treatment with entecavir for a median duration of 96 weeks did not reveal any new safety signals.
+In clinical studies with lamivudine-refractory patients, 4% had ALT elevations > 3 times baseline, and < 1% had ALT elevations > 2 times baseline together with total bilirubin > 2 times ULN and > 2 times baseline.
+Amylase levels > 3 times baseline occurred in 2% of patients, lipase levels > 3 times baseline in 18% and platelets < 50,000/mm3 in < 1%.
 
 Exacerbations during treatment: in studies with nucleoside naive patients, on treatment ALT elevations > 10 times ULN and > 2 times baseline occurred in 2% of entecavir treated patients vs 4% of lamivudine treated patients.
 In studies with lamivudine-refractory patients, on treatment ALT elevations > 10 times ULN and > 2 times baseline occurred in 2% of entecavir treated patients vs 11% of lamivudine treated patients.
@@ -58,14 +46,19 @@ In studies in lamivudine-refractory patients, with only limited numbers of patie
 In the clinical trials entecavir treatment was discontinued if patients achieved a prespecified response.
 If treatment is discontinued without regard to treatment response, the rate of post-treatment ALT flares could be higher.
 
+d. Other special populations
+
 Experience in patients co-infected with HIV: the safety profile of entecavir in a limited number of HIV/HBV co-infected patients on lamivudine-containing HAART (highly active antiretroviral therapy) regimens was similar to the safety profile in monoinfected HBV patients (see section 4.4).
 
 Gender/age: there was no apparent difference in the safety profile of entecavir with respect to gender (≈ 25% women in the clinical trials) or age (≈ 5% of patients > 65 years of age).
 
 Decompensated cirrhosis: a higher rate of serious hepatic adverse events has been observed in patients with decompensated cirrhosis compared with rates in patients with compensated liver function.
-This observation is based on limited experience in 45 patients with Child-Pugh score ≥ 7 at the start of entecavir treatment.
+This observation is based on limited experience in 45 patients with Child-Pugh score ≥ 7 at the start of entecavir treatment (see section 4.4).
 
-Postmarketing experience: in addition to the adverse drug reactions identified from clinical trials, the following adverse reactions have been identified during post-approval use of entecavir.
+[Baraclude 1 mg film-coated tablets]
 
-Immune system disorders: frequency not known: anaphylactoid reaction
-Skin and subcutaneous tissue disorders: frequency not known: rash, alopecia
+(all sentences already above)
+
+[Baraclude 0.05 mg/ml oral solution]
+
+Frequency is defined as very common (≥ 1/10); common (≥ 1/100 to 1/10); uncommon (≥ 1/1,000 to < 1/100); rare(≥ 1/10,000 to < 1/1,000).
