@@ -25,3 +25,6 @@ When administered intravenously, tacrolimus has been shown to have a low clearan
 The average total body clearance is approximately 2.25 l/h.
 The hepatic clearance of systemically available tacrolimus could be reduced in subjects with severe hepatic impairment, or in subjects who are co-treated with drugs that are potent inhibitors of CYP3A4.
 Following repeated topical application of the ointment the average half-life of tacrolimus was estimated to be 75 hours for adults and 65 hours for children.
+
+Paediatric population
+The pharmacokinetics of tacrolimus after topical application are similar to those reported in adults, with minimal systemic exposure and no evidence of accumulation (see above).

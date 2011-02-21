@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Other dermatologicals, ATC code: D11AX14
+Pharmacotherapeutic group: Other dermatologicals, ATC code: D11AH01
 
 Mechanism of action and pharmacodynamic effects
 The mechanism of action of tacrolimus in atopic dermatitis is not fully understood.
@@ -13,9 +13,10 @@ Tacrolimus ointment did not reduce skin thickness and did not cause skin atrophy
 In patients with atopic dermatitis, improvement of skin lesions during treatment with tacrolimus ointment was associated with reduced Fc receptor expression on Langerhans cells and a reduction of their hyperstimulatory activity towards T cells.
 Tacrolimus ointment does not affect collagen synthesis in humans.
 
-Results from clinical studies in patients
+Clinical efficacy and safety
 The efficacy and safety of Protopic was assessed in more than 18,500 patients treated with tacrolimus ointment in Phase I to Phase III clinical trials.
 Data from six major trials are presented here.
+
 In a six-month multicentre double-blind randomised trial, 0.1% tacrolimus ointment was administered twice-a-day to adults with moderate to severe atopic dermatitis and compared to a topical corticosteroid based regimen (0.1% hydrocortisone butyrate on trunk and extremities, 1% hydrocortisone acetate on face and neck).
 The primary endpoint was the response rate at month 3 defined as the proportion of patients with at least 60% improvement in the mEASI (modified Eczema Area and Severity Index) between baseline and month 3.
 The response rate in the 0.1% tacrolimus group (71.6%) was significantly higher than that in the topical corticosteroid based treatment group (50.8%; p<0.001; Table 1).
@@ -54,6 +55,7 @@ There were no clinically relevant changes in the laboratory values or vital sign
 
 The purpose of the third multicentre, double-blind, randomised study was the assessment of efficacy and safety of 0.03% tacrolimus ointment applied once or twice a day relative to twice daily administration of 1% hydrocortisone acetate ointment in children with moderate to severe atopic dermatitis.
 Treatment duration was for up to three weeks.
+
 Table 3 Efficacy at week 3
 
 |  | Hydrocortisone acetate 1% Twice daily (N=207) | Tacrolimus 0.03% Once daily (N=207) | Tacrolimus 0.03% Twice daily (N=210) |
@@ -88,20 +90,29 @@ No adverse events not reported previously were observed in these studies.
 
 Table 4 Efficacy (moderate to severe subpopulation)
 
-Adults, ≥ 16 years Children, 2-15 years
-Tacrolimus 0.1% Vehicle Tacrolimus Vehicle
-Twice weekly Twice weekly 0.03% Twice weekly
-
-|  | (N=80) | (N=73) | Twice weekly (N=78) | (N=75) |
+|  | Adults, ≥ 16 years |  | Children, 2-15 years |  |
 | --- | --- | --- | --- | --- |
+|  | Tacrolimus 0.1% Twice weekly (N=80) | Vehicle Twice weekly (N=73) | Tacrolimus 0.03% Twice weekly (N=78) | Vehicle Twice weekly (N=75) |
 | Median number of DEs requiring substantial intervention adjusted for time at risk (% of patients without DE requiring substantial intervention) | 1.0 (48.8%) | 5.3 (17.8%) | 1.0 (46.2%) | 2.9 (21.3%) |
 | Median time to first DE requiring substantial intervention | 142 days | 15 days | 217 days | 36 days |
 | Median number of DEs adjusted for time at risk (% of patients without any DE periods) | 1.0 (42.5%) | 6.8 (12.3%) | 1.5 (41.0%) | 3.5 (14.7%) |
 | Median time to first DE | 123 days | 14 days | 146 days | 17 days |
-| Mean (SD) percentage of days of DE exacerbation treatment | 16.1 (23.6) | 39.0 (27.8) | 16.9 (22.1) | 29.9 (26.8) |
+
+Mean (SD) percentage of 16.1 (23.6) 39.0 (27.8) 16.9 (22.1) 29.9 (26.8)
+days of DE exacerbation
+treatment
 
 DE: disease exacerbation
 P<0.001 in favour of tacrolimus ointment 0.1% (adults) and 0.03% (children) for the primary and key secondary endpoints
+
+A seven-month, double blind, randomised parallel group study of paediatric patients (2-11 years) with moderate to severe atopic dermatitis was performed.
+In one arm patients received Protopic 0.03% ointment (n=121) twice a day for 3 weeks and thereafter once a day until clearance.
+In the comparator arm patients received 1% hydrocortisone acetate ointment (HA) for head and neck and 0.1% hydrocortisone butyrate ointment for trunk and limbs (n=111) twice a day for 2 weeks and subsequently HA twice a day to all affected areas.
+During this period all patients and control subjects (n=44) received a primary immunisation and a rechallenge with a protein-conjugate vaccine against Neisseria menigitidis serogroup C.
+The primary endpoint of this study was the response rate to vaccination, defined as the percentage of patients with a serum bactericidal antibody (SBA) titre ≥ 8 at the week 5 visit.
+Analysis of the response rate at week 5 showed equivalence between the treatment groups (hydrocortisone 98.3%, tacrolimus ointment 95.4%; 7-11 years: 100% in both arms).
+The results in the control group were similar.
+The primary response to vaccination was not affected.
 
 [Protopic 0.1% ointment]
 
@@ -110,7 +121,6 @@ P<0.001 in favour of tacrolimus ointment 0.1% (adults) and 0.03% (children) for 
 |  | Tacrolimus 0.1% Twice weekly (N=80) | Vehicle Twice weekly (N=73) | Tacrolimus 0.03% Twice weekly (N=78) | Vehicle Twice weekly (N=75) |
 | Median number of DEs requiring substantial intervention adjusted for time at risk (% of patients without DE requiring substantial intervention) | 1.0 (48.8%) | 5.3 (17.8%) | 1.0 (46.2%) | 2.9 (21.3%) |
 | Median time to first DE requiring substantial intervention | 142 days | 15 days | 217 days | 36 days |
-| Median number of DEs |  |  |  |  |
-| adjusted for time at risk (% of patients without any DE periods) | 1.0 (42.5%) | 6.8 (12.3%) | 1.5 (41.0%) | 3.5 (14.7%) |
+| Median number of DEs adjusted for time at risk (% of patients without any DE periods) | 1.0 (42.5%) | 6.8 (12.3%) | 1.5 (41.0%) | 3.5 (14.7%) |
 | Median time to first DE | 123 days | 14 days | 146 days | 17 days |
 | Mean (SD) percentage of days of DE exacerbation treatment | 16.1 (23.6) | 39.0 (27.8) | 16.9 (22.1) | 29.9 (26.8) |

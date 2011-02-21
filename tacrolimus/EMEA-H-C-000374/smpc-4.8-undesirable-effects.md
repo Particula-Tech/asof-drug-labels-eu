@@ -44,12 +44,11 @@ alcoholic beverage)
 The following adverse reactions have been reported during post-marketing experience:
 Skin and subcutaneous tissue disorders: Rosacea
 
+Maintenance treatment
 In a study of maintenance treatment (twice weekly treatment) in adults and children with moderate and severe atopic dermatitis the following adverse events were noted to occur more frequently than in the control group: application site impetigo (7.7% in children) and application site infections (6.4% in children and 6.3% in adults).
 
-Post-marketing: cases of malignancies, including cutaneous and other types of lymphoma, and skin cancers, have been reported in patients using tacrolimus ointment (see section 4.4).
+Post-marketing
+Cases of malignancies, including cutaneous and other types of lymphoma, and skin cancers, have been reported in patients using tacrolimus ointment (see section 4.4).
 
-[Protopic 0.1% ointment]
-
-Common: Herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes simplex [cold sores], Kaposi’s varicelliform eruption)
-
-Common: Alcohol intolerance (facial flushing or skin irritation after consumption of an alcoholic beverage)
+Paediatric population
+Frequency, type and severity of adverse reactions in children are similar to those reported in adults.
