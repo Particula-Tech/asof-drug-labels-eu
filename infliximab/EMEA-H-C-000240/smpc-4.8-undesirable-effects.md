@@ -86,7 +86,6 @@ Of the infliximab-treated patients who received at least one shortened infusion,
 
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with Remicade administration.
 Exceedingly rare cases of transient visual loss and myocardial ischaemia/infarction occurring during or within 2 hours of Remicade infusion have also been reported.
-
 Infusion reactions following re-administration of Remicade: A clinical study in patients with moderate to severe psoriasis was designed to assess the efficacy and safety of long-term maintenance therapy versus re-treatment with an induction regimen of Remicade (maximum of four infusions at 0, 2, 6 and 14 weeks) following disease flare.
 Patients did not receive any concomitant immunosuppressant therapy.
 In the re-treatment arm, 4% (8/219) of patients experienced a serious infusion reaction versus < 1% (1/222) on maintenance therapy.
@@ -127,6 +126,7 @@ Nearly 50% of reported deaths have been associated with infection.
 Cases of tuberculosis, sometimes fatal, including miliary tuberculosis and tuberculosis with extra-pulmonary location have been reported (see section 4.4).
 
 Malignancies and lymphoproliferative disorders: In clinical studies with infliximab in which 5,780 patients were treated, representing 5,494 patient years, 5 cases of lymphomas and 26 non-lymphoma malignancies were detected as compared with no lymphomas and 1 non-lymphoma malignancy in 1,600 placebo-treated patients representing 941 patient years.
+
 In long-term safety follow-up of clinical studies with infliximab of up to 5 years, representing 6,234 patients-years (3,210 patients), 5 cases of lymphoma and 38 cases of non-lymphoma malignancies were reported.
 
 From August 1998 to August 2005, 1,909 cases of suspected malignancies have been reported from post-marketing, clinical studies and registries (321 in Crohn’s disease patients, 1,302 in rheumatoid arthritis patients and 286 in patients with other or unknown indications).
@@ -196,7 +196,6 @@ Infusion reactions
 Infusion reactions occurred in 35 % of patients with juvenile rheumatoid arthritis receiving 3 mg/kg compared with 17.5% of patients receiving 6 mg/kg.
 In the 3 mg/kg Remicade group, 4 out of 60 patients had a serious infusion reaction and 3 patients reported a possible anaphylactic reaction (2 of which were among the serious infusion reactions).
 In the 6 mg/kg group, 2 out of 57 patients had a serious infusion reaction, one of whom had a possible anaphylactic reaction.
-
 Immunogenicity
 Antibodies to infliximab developed in 38 % of patients receiving 3 mg/kg compared with 12% of patients receiving 6 mg/kg.
 The antibody titres were notably higher for the 3 mg/kg compared to the 6 mg/kg group.

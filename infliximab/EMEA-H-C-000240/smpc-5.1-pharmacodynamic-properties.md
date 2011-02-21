@@ -45,6 +45,7 @@ Results from week 54 (ACR20, total van der Heijde-modified Sharp score and HAQ) 
 Higher degrees of clinical response (ACR50 and ACR70) were observed in all infliximab groups at 30 and 54 weeks compared with methotrexate alone.
 
 A reduction in the rate of the progression of structural joint damage (erosions and joint space narrowing) was observed in all infliximab groups at 54 weeks (Table 3).
+
 The effects observed at 54 weeks were maintained through 102 weeks.
 Due to a number of treatment withdrawals, the magnitude of the effect difference between infliximab and the methotrexate alone group cannot be defined.
 
@@ -88,6 +89,7 @@ After 54 weeks of treatment, both doses of infliximab + methotrexate resulted in
 
 In ASPIRE, more than 90% of patients had at least two evaluable X-rays.
 Reduction in the rate of progression of structural damage was observed at weeks 30 and 54 in the infliximab + methotrexate groups compared to methotrexate alone.
+
 Table 4
 Effects on ACRn, Structural Joint Damage and Physical Function at week 54, ASPIRE
 Infliximab + MTX
@@ -232,9 +234,9 @@ Beginning at week 22, patients who initially responded to treatment and subseque
 Among patients in the infliximab 5 mg/kg group who crossed over because of loss of fistula response after week 22, 57% (12/21) responded to re-treatment with infliximab 10 mg/kg every 8 weeks.
 
 There was no significant difference between placebo and infliximab for the proportion of patients with sustained closure of all fistulas through week 54, for symptoms such as proctalgia, abscesses and urinary tract infection or for number of newly developed fistulas during treatment.
+
 Maintenance therapy with infliximab every 8 weeks significantly reduced disease-related hospitalisations and surgeries compared with placebo.
 Furthermore, a reduction in corticosteroid use and improvements in quality of life were observed.
-
 Paediatric Crohn’s disease (6 to17 years)
 
 In the REACH study, 112 patients (6 to 17 years, median age 13.0 years) with moderate to severe, active Crohn’s disease (median paediatric CDAI of 40) and an inadequate response to conventional therapies were to receive 5 mg/kg infliximab at weeks 0, 2, and 6.
@@ -258,6 +260,7 @@ The safety and efficacy of Remicade were assessed in two (ACT 1 and ACT 2) rando
 Concomitant stable doses of oral aminosalicylates, corticosteroids, and/or immunomodulatory agents were permitted.
 In both studies, patients were randomized to receive either placebo, 5 mg/kg Remicade, or 10 mg/kg Remicade at weeks 0, 2, 6, 14 and 22, and in ACT 1 at weeks 30, 38 and 46.
 Corticosteroid taper was permitted after week 8.
+
 Table 7
 Effects on clinical response, clinical remission and mucosal healing at Weeks 8 and 30.
 Combined data from ACT 1 & 2.
@@ -265,7 +268,13 @@ Combined data from ACT 1 & 2.
 | Infliximab Placebo 5 mg/kg 10 mg/kg Subjects randomized 244 242 242 Percentage of subjects in clinical response and in sustained clinical response Clinical response at Week 8a 33.2% 66.9% 65.3% Clinical response at Week 30a 27.9% 49.6% 55.4% Sustained response (clinical response at both Week 8 and Week 30)a 19.3% 45.0% 49.6% | Combined 484 66.1% 52.5% 47.3% |
 | --- | --- |
 | Percentage of subjects in clinical remission and sustained remission Clinical remission at Week 8a 10.2% 36.4% 29.8% Clinical remission at Week 30a 13.1% 29.8% 36.4% Sustained remission (in remission at both Week 8 and Week 30)a 5.3% 19.0% 24.4% | 33.1% 33.1% 21.7% |
-| Percentage of subjects with mucosal healing Mucosal healing at Week 8a 32.4% 61.2% 60.3% Mucosal healing at Week 30a 27.5% 48.3% 52.9% | 60.7% 50.6% |
+| Percentage of subjects with mucosal healing |  |
+
+Infliximab
+
+Placebo 5 mg/kg 10 mg/kg Combined
+Mucosal healing at Week 8a 32.4% 61.2% 60.3% 60.7%
+Mucosal healing at Week 30a 27.5% 48.3% 52.9% 50.6%
 
 a: p < 0.001, for each infliximab treatment group vs. placebo
 
@@ -381,6 +390,7 @@ Psoriasis
 The efficacy of infliximab was assessed in two multicenter, randomised, double blind studies: SPIRIT and EXPRESS.
 Patients in both studies had plaque psoriasis (Body Surface Area [BSA] ≥10% and Psoriasis Area and Severity Index [PASI] score ≥12).
 The primary endpoint in both studies was the percent of patients who achieved ≥ 75% improvement in PASI from baseline at week 10.
+
 SPIRIT evaluated the efficacy of infliximab induction therapy in 249 patients with plaque psoriasis that had previously received PUVA or systemic therapy.
 Patients received either 3 or 5 mg/kg infliximab or placebo infusions at weeks 0, 2 and 6.
 Patients with a PGA score ≥3 were eligible to receive an additional infusion of the same treatment at week 26.

@@ -104,8 +104,9 @@ The relative deficiency of TNFα caused by anti-TNF therapy may result in the in
 If a patient develops symptoms suggestive of a lupus-like syndrome following treatment with Remicade and is positive for antibodies against double-stranded DNA, further treatment with Remicade must not be given (see section 4.8).
 
 Neurological events
-Infliximab and other agents that inhibit TNFα have been associated in rare cases with optic neuritis, seizure and new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis, and peripheral demyelinating disorders, including Guillain-Barré syndrome.
-In patients with pre-existing or recent onset of demyelinating disorders, the benefits and risks of Remicade treatment should be carefully considered before initiation of Remicade therapy.
+Use of TNF-blocking agents, including infliximab, has been associated with cases of new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis, and peripheral demyelinating disorders, including Guillain-Barré syndrome.
+In patients with pre-existing or recent onset of demyelinating disorders, the benefits and risks of anti-TNF treatment should be carefully considered before initiation of Remicade therapy.
+Discontinuation of Remicade should be considered if these disorders develop.
 
 Malignancies and lymphoproliferative disorders
 In the controlled portions of clinical studies of TNF-blocking agents, more cases of malignancies including lymphoma have been observed among patients receiving a TNF blocker compared with control patients.
