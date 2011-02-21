@@ -64,8 +64,8 @@ The Cmax occurs earlier after intramuscular compared to oral use (15 to 45 minut
 As with oral use, Cmax and area under the curve after intramuscular use are directly proportional to the dose administered.
 For the same dose of olanzapine administered intramuscularly and orally, the associated area under the curve, half-life, clearance and volume of distribution are similar.
 The metabolic profiles following intramuscular and oral use are similar.
-In non-smoking versus smoking subjects (males and females) administered olanzapine intramuscularly the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
 
+In non-smoking versus smoking subjects (males and females) administered olanzapine intramuscularly the mean elimination half-life was prolonged (38.6 versus 30.4 hr) and the clearance was reduced (18.6 versus 27.7 l/hr).
 Additional pharmacokinetic data following administration of oral olanzapine are described below.
 
 Olanzapine is metabolised in the liver by conjugative and oxidative pathways.

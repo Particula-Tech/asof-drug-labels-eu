@@ -241,4 +241,4 @@ The frequency terms listed are defined as follows: Very common (≥ 10%), common
 | General disorders and administration site conditions |  |  |  |
 |  | Asthenia Fatigue Oedema |  |  |
 | Investigations |  |  |  |
-| Elevated plasma prolactin levels8 |  | High creatine phosphokinase Increased total | Increased alkaline phosphatase |
+| Elevated plasma prolactin levels8 |  | High creatine phosphokinase | Increased alkaline phosphatase |

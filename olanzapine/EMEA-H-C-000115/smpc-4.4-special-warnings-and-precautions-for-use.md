@@ -130,7 +130,7 @@ Concomitant use of benzodiazepines and other medicinal products
 Special caution is necessary in patients who have received treatment with other medicinal products having haemodynamic properties similar to those of intramuscular olanzapine including other antipsychotics (oral and/or intramuscular) and benzodiazepines (see section 4.5).
 Temporal association of treatment with IM olanzapine with hypotension, bradycardia, respiratory depression and death has been very rarely (< 0.01%) reported particularly in patients who have received benzodiazepines and/or other antipsychotics (see section 4.8).
 
-Simultaneous injection of intramuscular olanzapine and parenteral benzodiazepine is not recommended (see sections 4.5 and 6.2).
+Simultaneous injection of intramuscular olanzapine and parenteral benzodiazepine is not recommended due to the potential for excessive sedation, cardiorespiratory depression and in very rare cases, death (see sections 4.5 and 6.2).
 If the patient is considered to need parenteral benzodiazepine treatment, this should not be given until at least one hour after IM olanzapine administration.
 If the patient has received parenteral benzodiazepine, IM olanzapine administration should only be considered after careful evaluation of clinical status and the patient should be closely monitored for excessive sedation and cardiorespiratory depression.
 Hypotension
