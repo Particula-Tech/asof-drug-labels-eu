@@ -13,7 +13,7 @@ The maximum dose frequency is once per day.
 
 Tadalafil 10 and 20 mg is intended for use prior to anticipated sexual activity and it is not recommended for continuous daily use.
 
-In responder patients to on-demand regimen who anticipate a frequent use of CIALIS (i.e., at least twice weekly) a once daily regimen with the lowest doses of CIALIS might be considered suitable, based on patient choice and the physician’s judgement.
+In patients who anticipate a frequent use of CIALIS (i.e., at least twice weekly) a once daily regimen with the lowest doses of CIALIS might be considered suitable, based on patient choice and the physician’s judgement.
 
 In these patients the recommended dose is 5 mg taken once a day at approximately the same time of day.
 The dose may be decreased to 2.5 mg once a day based on individual tolerability.

@@ -34,10 +34,12 @@ Three studies were conducted in men to assess the potential effect on spermatoge
 In two of these studies decreases were observed in sperm count and concentration related to tadalafil treatment of unlikely clinical relevance.
 These effects were not associated with changes in other parameters such as motility, morphology and FSH.
 
-Tadalafil at doses of 2.5, 5, and 10 mg taken once a day has been evaluated in 3 clinical studies involving 853 patients of various ages (range 21-82 years) and ethnicities, with erectile dysfunction of various severities (mild, moderate, severe) and etiologies.
-Most patients in all three studies were responders to previous on-demand treatment with PDE5 inhibitors.
-In the two primary efficacy studies of general populations, the mean per-subject proportion of successful attempts were 57 and 67% on CIALIS 5mg, 50% on CIALIS 2.5mg as compared to 31 and 37% with placebo.
+Tadalafil at doses of 2.5, 5, and 10 mg taken once a day was initially evaluated in 3 clinical studies involving 853 patients of various ages (range 21-82 years) and ethnicities, with erectile dysfunction of various severities (mild, moderate, severe) and etiologies.
+In the two primary efficacy studies of general populations, the mean per-subject proportion of successful intercourse attempts were 57 and 67% on CIALIS 5mg, 50% on CIALIS 2.5mg as compared to 31 and 37% with placebo.
 In the study in patients with erectile dysfunction secondary to diabetes, the mean per-subject proportion of successful attempts were 41 and 46% on CIALIS 5mg and 2.5mg, respectively, as compared to 28% with placebo.
+Most patients in these three studies were responders to previous on-demand treatment with PDE5 inhibitors.
+In a subsequent study, 217 patients who were treatment-naive to PDE5 inhibitors were randomized to CIALIS 5mg once a day vs. placebo.
+The mean per-subject proportion of successful sexual intercourse attempts was 68% for CIALIS patients compared to 52% for patients on placebo.
 
 In a 12-week study performed in 186 patients (142 tadalafil, 44 placebo) with erectile dysfunction secondary to spinal cord injury, tadalafil significantly improved the erectile function leading to a mean per-subject proportion of successful attempts in patients treated with tadalafil 10 or 20 mg (flexible-dose, on demand) of 48% as compared to 17% with placebo.
 
