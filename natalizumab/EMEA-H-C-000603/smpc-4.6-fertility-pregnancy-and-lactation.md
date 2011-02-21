@@ -13,8 +13,9 @@ Natalizumab should not be used during pregnancy unless the clinical condition of
 
 Breastfeeding
 
-It is not known whether TYSABRI is excreted in human milk, but it has been observed in animal studies (see section 5.3).
-Patients receiving TYSABRI should not breastfeed their infants.
+TYSABRI is excreted in human milk.
+The effect of natalizumab on newborn/infants is unknown.
+Breast-feeding should be discontinued during treatment with Tysabri.
 
 Fertility
 

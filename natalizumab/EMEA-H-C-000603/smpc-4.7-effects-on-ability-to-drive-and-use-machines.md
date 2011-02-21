@@ -12,9 +12,9 @@ Frequencies were defined as follows:
 
 Common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
 
+1 An adverse event judged related to therapy by the investigating physician.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-1 An adverse event judged related to therapy by the investigating physician.
 Nervous system disorders
 Common Headache
 Dizziness
@@ -62,6 +62,7 @@ Additional infusion-related reactions associated with persistent antibodies incl
 
 If, after approximately 6 months of therapy, persistent antibodies are suspected, either due to reduced efficacy or due to occurrence of infusion-related events, they may be detected and confirmed with a subsequent test 6 weeks after the first positive test.
 Given that efficacy may be reduced or the incidence of hypersensitivity or infusion-related reactions may be increased in a patient with persistent antibodies, treatment should be discontinued in patients who develop persistent antibodies.
+
 Infections, including PML and opportunistic infections
 
 In 2-year controlled clinical trials in MS patients, the rate of infection was approximately 1.5 per patient-year in both natalizumab- and placebo-treated patients.
