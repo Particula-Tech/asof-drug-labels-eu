@@ -25,7 +25,7 @@ Rare: Pancytopaenia
 Not known: Aplastic anaemia *
 Immune system disorders
 Common: Allergic reactions (bronchospasm, hypersensitivity, urticaria), autoantibody positive
-Rare: Serious systemic hypersensitivity reactions (including anaphylactic reaction)
+Rare: Serious systemic hypersensitivity reactions (including anaphylactic reaction), vasculitis (systemic)
 Endocrine disorders
 Uncommon: Thyroid disorder (such as hypothyroidism, hyperthyroidism and goitre)
 Metabolism and nutrition disorders
@@ -51,8 +51,7 @@ Common: Alanine aminotransferase increased, aspartate aminotransferase increased
 Uncommon: Cholelithiasis, hepatic disorders
 Skin and subcutaneous tissue disorders
 Common: Alopecia, dermatitis, pruritus, rash
-Uncommon: Psoriasis (new onset or worsening of pre-existing psoriasis, palmar/plantar and pustular), urticaria
-Musculoskeletal and connective tissue disorders
+Uncommon: Psoriasis (new onset or worsening of pre-existing psoriasis, palmar/plantar and pustular), urticaria, vasculitis (cutaneous) Musculoskeletal and connective tissue disorders
 Rare: Lupus-like syndrome
 Renal and urinary disorders
 Uncommon: Bladder disorders
