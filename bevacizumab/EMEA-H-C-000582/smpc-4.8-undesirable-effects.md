@@ -96,7 +96,6 @@ Haemorrhage (see section 4.4)
 In clinical trials across all indications the overall incidence of NCI-CTC Grade 3-5 bleeding events ranged from 0.4% to 5% in Avastin treated patients, compared with up to 2.9% of patients in the chemotherapy control group.
 
 The haemorrhagic events that have been observed in clinical trials were predominantly tumour-associated haemorrhage (see below) and minor mucocutaneous haemorrhage (e.g. epistaxis).
-
 Tumour-associated haemorrhage (see section 4.4)
 Major or massive pulmonary haemorrhage/haemoptysis has been observed primarily in trials in patients with non-small cell lung cancer (NSCLC).
 Possible risk factors include squamous cell histology, treatment with antirheumatic/anti-inflammatory substances, treatment with anticoagulants, prior radiotherapy, Avastin therapy, previous medical history of atherosclerosis, central tumour location and cavitation of tumours prior to or during therapy.

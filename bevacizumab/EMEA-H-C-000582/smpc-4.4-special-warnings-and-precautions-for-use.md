@@ -88,7 +88,8 @@ A systematic premedication is not warranted.
 Osteonecrosis of the jaw (see section 4.8)
 Cases of ONJ have been reported in cancer patients treated with Avastin, the majority of whom had received prior or concomitant treatment with i.v. bisphosphonates, for which ONJ is an identified risk.
 Caution should be exercised when Avastin and i.v. bisphosphonates are administered simultaneously or sequentially.
-Invasive dental procedures are also an identified risk factor.A dental examination and appropriate preventive dentistry should be considered prior to starting the treatment with Avastin.
+Invasive dental procedures are also an identified risk factor.
+A dental examination and appropriate preventive dentistry should be considered prior to starting the treatment with Avastin.
 In patients who have previously received or are receiving i.v. bisphosphonates invasive dental procedures should be avoided, if possible.
 
 Eye disorders
