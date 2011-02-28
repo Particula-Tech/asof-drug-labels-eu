@@ -5,13 +5,11 @@ Exposure to darunavir was higher in HIV-1 infected patients than in healthy subj
 The increased exposure to darunavir in HIV-1 infected patients compared to healthy subjects may be explained by the higher concentrations of alpha-1-acid glycoprotein (AAG) in HIV-1 infected patients, resulting in higher darunavir binding to plasma AAG and, therefore, higher plasma concentrations.
 Darunavir is primarily metabolised by CYP3A.
 Ritonavir inhibits CYP3A, thereby increasing the plasma concentrations of darunavir considerably.
-
 Absorption
 Darunavir was rapidly absorbed following oral administration.
 Maximum plasma concentration of darunavir in the presence of low dose ritonavir is generally achieved within 2.5-4.0 hours.
-The absolute oral bioavailability of a single 600 mg dose of darunavir alone was approximately 37% and increased to approximately 82% in the presence of 100 mg b.i.d. ritonavir.
-The overall pharmacokinetic enhancement effect by ritonavir was an approximate 14-fold increase in the systemic exposure of darunavir when a single dose of 600 mg darunavir was given orally in combination with ritonavir at 100 mg b.i.d.
-(see section 4.4).
+The absolute oral bioavailability of a single 600 mg dose of darunavir alone was approximately 37% and increased to approximately 82% in the presence of 100 mg twice daily ritonavir.
+The overall pharmacokinetic enhancement effect by ritonavir was an approximate 14-fold increase in the systemic exposure of darunavir when a single dose of 600 mg darunavir was given orally in combination with ritonavir at 100 mg twice daily (see section 4.4).
 When administered without food, the relative bioavailability of darunavir in the presence of low dose ritonavir is 30% lower as compared to intake with food.
 Therefore, PREZISTA tablets should be taken with ritonavir and with food.
 The type of food does not affect exposure to darunavir.
@@ -35,11 +33,10 @@ The intravenous clearance of darunavir alone (150 mg) and in the presence of low
 
 Special Populations
 Paediatric population
-The pharmacokinetics of darunavir in combination with ritonavir in 74 treatment-experienced paediatric patients, aged 6 to 17 years and weighing at least 20 kg, showed that the administered weight-based doses of PREZISTA/ritonavir resulted in darunavir exposure comparable to that in adults receiving PREZISTA/ritonavir 600/100 mg b.i.d.
-(see section 4.2).
+The pharmacokinetics of darunavir in combination with ritonavir in 74 treatment-experienced paediatric patients, aged 6 to 17 years and weighing at least 20 kg, showed that the administered weight-based doses of PREZISTA/ritonavir resulted in darunavir exposure comparable to that in adults receiving PREZISTA/ritonavir 600/100 mg twice daily (see section 4.2).
 
 Elderly
-Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (n=12, age ≥ 65) (see section 4.4).
+Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (n=12, age ≥65) (see section 4.4).
 However, only limited data were available in patients above the age of 65 year.
 
 Gender

@@ -5,6 +5,7 @@ Hypersensitivity to the active substance or to any of the excipients.
 Patients with severe (Child-Pugh Class C) hepatic impairment.
 
 Combination of rifampicin with PREZISTA with concomitant low dose ritonavir is contraindicated (see section 4.5).
+
 The combination product lopinavir/ritonavir should not be used with PREZISTA because co-administration causes large decreases in darunavir concentrations, which may in turn significantly decrease the darunavir therapeutic effect (see section 4.5).
 
 Herbal preparations containing St John’s wort (Hypericum perforatum) must not be used while taking PREZISTA due to the risk of decreased plasma concentrations and reduced clinical effects of darunavir (see section 4.5).
