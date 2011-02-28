@@ -1,3 +1,5 @@
 # 9. DATE OF FIRST AUTHORISATION/RENEWAL OF THE AUTHORISATION
 
+[Siklos 1000 mg film-coated tablets.]
+
 29/06/2007

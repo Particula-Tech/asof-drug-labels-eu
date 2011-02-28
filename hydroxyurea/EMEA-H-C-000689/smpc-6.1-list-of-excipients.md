@@ -1,5 +1,5 @@
 # 6.1 List of excipients
 
 Sodium stearyl fumarate
-Micro-crystalline cellulose and colloidal anhydrous silica
+Silicified microcrystalline cellulose
 Basic butylated methacrylate copolymer

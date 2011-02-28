@@ -12,7 +12,7 @@ Hydroxycarbamide crosses the placenta barrier and has been demonstrated to be a 
 Teratogenicity was characterised by partially ossified cranial bones, absence of eye sockets, hydrocephaly, bipartite sternebrae, missing lumbar vertebrae.
 Embryotoxicity was characterized by decreased foetal viability, reduced live litter sizes, and developmental delays.
 In the human, according to a retrospective analysis of a cohort of 123 adult patients treated with hydroxycarbamide, twenty-three pregnancies have been reported from 15 women treated with hydroxycarbamide and partners of 3 men treated with hydroxycarbamide.
-Most (61 %) had a normal outcome with regard to term and normal birth.
+Most (61%) had a normal outcome with regard to term and normal birth.
 In the other cases with known evolution, pregnancy had been interrupted either voluntarily or upon medical advice.
 Thus the data on a limited number of exposed pregnancies indicate no adverse effects on pregnancy or on the health of the foetus/newborn.
 

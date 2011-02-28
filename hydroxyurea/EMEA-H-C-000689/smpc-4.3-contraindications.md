@@ -2,8 +2,8 @@
 
 Hypersensitivity to the active substance or to any of the excipients.
 
-Severe hepatic (Child-Pugh classification C) or severe renal impairment (creatinine clearance < 30ml/min).
+Severe hepatic impairment (Child-Pugh classification C) or severe renal impairment (creatinine clearance < 30 ml/min).
 
-Toxic ranges of myelosuppression as described under section 4.2.
+Toxic ranges of myelosuppression as described in section 4.2.
 
-Breast-feeding must be discontinued while taking Siklos (see section 4.6).
+Breast-feeding (see section 4.6).
