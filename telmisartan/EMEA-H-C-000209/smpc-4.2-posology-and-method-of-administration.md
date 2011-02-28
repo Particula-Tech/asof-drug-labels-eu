@@ -11,9 +11,7 @@ Cardiovascular prevention:
 The recommended dose is 80 mg once daily.
 It is not known whether doses lower than 80 mg of telmisartan are effective in reducing cardiovascular morbidity.
 When initiating telmisartan therapy for the reduction of cardiovascular morbidity, close monitoring of blood pressure is recommended, and if appropriate adjustment of medications that lower blood pressure may be necessary.
-
-Telmisartan may be taken with or without food.
-Special patient populations:
+Special populations:
 
 Renal impairment: No posology adjustment is required for patients with mild to moderate renal impairment.
 Limited experience is available in patients with severe renal impairment or haemodialysis.
@@ -24,5 +22,12 @@ Hepatic impairment: In patients with mild to moderate hepatic impairment, the po
 Elderly
 No dose adjustment is necessary for elderly patients.
 
-Paediatric patients
+Paediatric population
 Micardis is not recommended for use in children below 18 years due to a lack of data on safety and efficacy.
+
+Method of administration
+Telmisartan tablets are for once-daily oral administration and should be taken with liquid, with or without food.
+
+Precautions to be taken before handling or administering the medicinal product
+Telmisartan should be kept in the sealed blister due to the hygroscopic property of the tablets.
+Tablets should be taken out of the blister shortly before administration.

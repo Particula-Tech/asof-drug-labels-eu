@@ -1,43 +1,47 @@
 # 4.8 Undesirable effects
 
-The overall incidence of adverse events reported with telmisartan (41.4 %) was usually comparable to placebo (43.9 %) in controlled trials in patients treated for hypertension.
+a. Summary of the safety profile
+
+Serious adverse drug reactions include anaphylactic reaction and angioedema which may occur rarely (less than 1 cases per 1,000 patients), and acute renal failure.
+
+The overall incidence of adverse events reported with telmisartan was usually comparable to placebo (41,4% vs 43.9 %) in controlled trials in patients treated for hypertension.
 The incidence of adverse events was not dose related and showed no correlation with gender, age or race of the patients.
 The safety profile of telmisartan in patients treated for the reduction of cardiovascular morbidity was consistent with that obtained in hypertensive patients.
 
 The adverse drug reactions listed below have been accumulated from controlled clinical trials in patients treated for hypertension and from post-marketing reports.
-The listing also takes into account serious adverse events and adverse events leading to discontinuation reported in three clinical long-term studies including 21642 patients treated with telmisartan for the reduction of cardiovascular morbidity for up to six years.
+The listing also takes into account serious adverse events and adverse events leading to discontinuation reported in three clinical long-term studies including 21,642 patients treated with telmisartan for the reduction of cardiovascular morbidity for up to six years.
+
+b. Tabulated summary of adverse reactions
 
 Adverse reactions have been ranked under headings of frequency using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100);
-rare (≥1/10,000 to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
-
+rare (≥1/10,000 to <1/1,000); very rare (<1/10,000).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Infections and infestations
 
-Uncommon: Upper respiratory tract infection including pharyngitis and
+Uncommon: Urinary tract infection including cystitis, upper respiratory tract
 
-sinusitis, urinary tract infection including cystitis
+infection including pharyngitis and sinusitis
 
-Not known: Sepsis including fatal outcome1
+Rare: Sepsis including fatal outcome1
 
 Blood and the lymphatic system disorders
 
 Uncommon: Anaemia
-Rare: Thrombocytopenia
-Not known: Eosinophilia
+Rare: Eosinophilia, thrombocytopenia
 
 Immune system disorders
 
-Rare: Hypersensitivity
-Not known: Anaphylactic reaction
+Rare: Anaphylactic reaction, hypersensitivity
 
 Metabolism and nutrition disorders
 
 Uncommon: Hyperkalaemia
 
+Rare Hypoglycaemia (in diabetic patients)
 Psychiatric disorders
 
-Uncommon: Depression, insomnia
+Uncommon: Insomnia, depression
 Rare: Anxiety
 
 Nervous system disorders
@@ -68,23 +72,25 @@ Uncommon: Dyspnoea
 Gastrointestinal disorders
 
 Uncommon: Abdominal pain, diarrhoea, dyspepsia, flatulence, vomiting
-Rare: Stomach discomfort, dry mouth
+Rare: Dry mouth, stomach discomfort
 
 Hepato-biliary disorders
 
-Rare: Hepatic function abnormal/liver disorder
+Rare: Hepatic function abnormal/liver disorder3
 
 Skin and subcutaneous tissue disorders
 
-Uncommon: Hyperhidrosis, pruritus, rash
-Rare: Erythema, angioedema, drug eruption, toxic skin eruption, eczema
-Not known: Urticaria
+Uncommon: Pruritus, hyperhidrosis, rash
+Rare: Angioedema, eczema, erythema, urticaria drug eruption, toxic skin
+
+eruption
 
 Muscoloskeletal and connective tissue disorders
 
-Uncommon: Myalgia, back pain (e.g. sciatica), muscle spasms
-Rare: Arthralgia, pain in extremity
-Not known: Tendon pain (tendinitis like symptoms)
+Uncommon: Back pain (e.g. sciatica), muscle spasms, myalgia
+Rare: Arthralgia, pain in extremity, tendon pain (tendinitis like
+
+symptoms)
 
 Renal and urinary disorders
 
@@ -98,28 +104,50 @@ Rare: Influenza-like illness
 Investigations
 
 Uncommon: Blood creatinine increased
-Rare: Blood uric acid increased, hepatic enzyme increased, blood creatine
+Rare: Haemoglobin decreased, blood uric acid increased, hepatic enzyme
 
-phosphokinase increased, haemoglobin decreased
+increased, blood creatine phosphokinase increased
 
-1In the PRoFESS trial, an increased incidence of sepsis was observed with telmisartan compared with placebo.
-The event may be a chance finding or related to a mechanism currently not known (see section 5.1).
-2Reported as common in patients with controlled blood pressure who were treated with telmisartan for the reduction of cardiovascular morbidity on top of standard care.
+1,2,3: for further descriptions, please see section 4.8.c).
+c. Description of selected adverse reactions
+
+1.
+Sepsis
+In the PRoFESS trial, an increased incidence of sepsis was observed with telmisartan compared with placebo.
+The event may be a chance finding or related to a mechanism currently not known (see also section 5.1).
+
+2.
+Hypotension
+This adverse drug reaction was reported as common in patients with controlled blood pressure who were treated with telmisartan for the reduction of cardiovascular morbidity on top of standard care.
+
+3.
+Hepatic function abnormal / liver disorder
+Most cases of hepatic function abnormal / liver disorder from post-marketing experience occurred in Japanese patients.
+Japanese patients are more likely to experience these adverse reactions.
 
 [Micardis 40 mg tablets]
 
-sinusitis ), urinary tract infection including cystitis
+The overall incidence of adverse events reported with telmisartan was usually comparable to placebo (41.4 % vs 43.9 %) in controlled trials in patients treated for hypertension.
 
-Rare: Blood uric acid increased, hepatic enzyme increased, blood
+The listing also takes into account serious adverse events and adverse events leading to discontinuation reported in three clinical long-term studies including 21642 patients treated with telmisartan for the reduction of cardiovascular morbidity for up to six years.
 
-creatine phosphokinase increased, haemoglobin decreased
+infection including pharyngitis and sinusitis )
+
+Rare: Hypoglycaemia (in diabetic patients)
+
+Rare: Angioedema, eczema, erythema, , urticaria, drug eruption, toxic
+
+skin eruption
+
+Rare: Haemoglobin decreased, blood uric acid increased, hepatic
+
+enzyme increased, blood creatine phosphokinase increased
 
 [Micardis 80 mg tablets]
 
-Uncommon: Upper respiratory tract infection including pharyngitis and sinusitis,
+Rare: Angioedema, eczema, erythema, , urticaria, drug eruption, toxic skin
 
-urinary tract infection including cystitis
+Uncommon: Back pain (e.g. sciatica), , muscle spasms, myalgia
+Rare: Arthralgia, pain in extremity, tendor pain (tendinitis like symptoms)
 
-Rare: Erythema, angioedema, ,drug eruption, toxic skin eruption, eczema
-
-2Reported as common in patients with controlled blood pressure who were treated with telmisartan for reduction of cardiovascular morbidity on top of standard care.
+Most cases of hepatic function abnormal / liver disorder from post-marketing experience occurred in patients in Japan, who are more likely to experience these adverse reactions.

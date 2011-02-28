@@ -28,7 +28,6 @@ Plasma concentrations were higher in females than in males, without relevant inf
 After oral (and intravenous) administration, telmisartan is nearly exclusively excreted with the faeces, mainly as unchanged compound.
 Cumulative urinary excretion is <1 % of dose.
 Total plasma clearance (Cltot) is high (approximately 1,000 ml/min) compared with hepatic blood flow (about 1,500 ml/min).
-
 Special Populations
 
 Gender effects:

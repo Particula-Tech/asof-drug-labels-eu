@@ -19,7 +19,6 @@ In human, an 80 mg dose of telmisartan almost completely inhibits the angiotensi
 The inhibitory effect is maintained over 24 hours and still measurable up to 48 hours.
 
 Clinical efficacy and safety:
-
 Treatment of essential hypertension
 After the first dose of telmisartan, the antihypertensive activity gradually becomes evident within 3 hours.
 The maximum reduction in blood pressure is generally attained 4 to 8 weeks after the start of treatment and is sustained during long-term therapy.
@@ -39,6 +38,7 @@ The incidence of dry cough was significantly lower in patients treated with telm
 
 Cardiovascular prevention
 ONTARGET (ONgoing Telmisartan Alone and in Combination with Ramipril Global Endpoint Trial) compared the effects of telmisartan, ramipril and the combination of telmisartan and ramipril on cardiovascular outcomes in 25620 patients aged 55 years or older with a history of coronary artery disease, stroke, TIA, peripheral arterial disease, or type 2 diabetes mellitus accompanied by evidence of end-organ damage (e.g. retinopathy, left ventricular hypertrophy, macro- or microalbuminuria), which is a population at risk for cardiovascular events.
+
 Patients were randomized to one of the three following treatment groups: telmisartan 80 mg (n = 8542), ramipril 10 mg (n = 8576), or the combination of telmisartan 80 mg plus ramipril 10 mg (n = 8502), and followed for a mean observation time of 4.5 years.
 
 Telmisartan showed a similar effect to ramipril in reducing the primary composite endpoint of cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalization for congestive heart failure.
