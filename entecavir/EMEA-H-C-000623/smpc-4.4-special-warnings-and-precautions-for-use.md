@@ -8,8 +8,9 @@ Exacerbations of hepatitis: spontaneous exacerbations in chronic hepatitis B are
 After initiating antiviral therapy, serum ALT may increase in some patients as serum HBV DNA levels decline (see section 4.8).
 Among entecavir-treated patients on-treatment exacerbations had a median time of onset of 4-5 weeks.
 In patients with compensated liver disease, these increases in serum ALT are generally not accompanied by an increase in serum bilirubin concentrations or hepatic decompensation.
-Patients with cirrhosis may be at a higher risk for hepatic decompensation following hepatitis exacerbation, and therefore should be monitored closely during therapy.
-Acute exacerbation of hepatitis has also been reported in patients who have discontinued hepatitis B therapy.
+Patients with advanced liver disease or cirrhosis may be at a higher risk for hepatic decompensation following hepatitis exacerbation, and therefore should be monitored closely during therapy.
+
+Acute exacerbation of hepatitis has also been reported in patients who have discontinued hepatitis B therapy (see section 4.2).
 Post-treatment exacerbations are usually associated with rising HBV DNA, and the majority appears to be self-limited.
 However, severe exacerbations, including fatalities, have been reported.
 
@@ -17,12 +18,9 @@ Among entecavir-treated nucleoside naive patients, post-treatment exacerbations 
 Hepatic function should be monitored at repeated intervals with both clinical and laboratory follow-up for at least 6 months after discontinuation of hepatitis B therapy.
 If appropriate, resumption of hepatitis B therapy may be warranted.
 
-Patients with decompensated cirrhosis: a higher rate of serious hepatic adverse events has been observed in patients with decompensated cirrhosis compared with rates in patients with compensated liver function.
-This observation is based on limited experience in 45 patients with Child-Pugh score
-≥ 7 at the start of entecavir treatment.
-These patients should be regularly monitored for clinical, virological and serological parameters associated with hepatitis B, liver and renal function and antiviral response during treatment, and if treatment is discontinued, for at least 6 months thereafter.
-Patients experiencing signs of hepatic insufficiency during or post-treatment should be monitored more frequently as appropriate.
-Patients with decompensated cirrhosis may be at higher risk for lactic acidosis.
+Patients with decompensated liver disease: a higher rate of serious hepatic adverse events (regardless of causality) has been observed in patients with decompensated liver disease, in particular in those with Child-Turcotte-Pugh (CTP) class C disease, compared with rates in patients with compensated liver function.
+Also, patients with decompensated liver disease may be at higher risk for lactic acidosis and for specific renal adverse events such as hepatorenal syndrome.
+Therefore, clinical and laboratory parameters should be closely monitored in this patient population (see also sections 4.8 and 5.1).
 
 Lactic acidosis and severe hepatomegaly with steatosis: occurrences of lactic acidosis (in the absence of hypoxaemia), sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues.
 As entecavir is a nucleoside analogue, this risk cannot be excluded.
@@ -40,11 +38,14 @@ Patients with lamivudine-resistant HBV are at higher risk of developing subseque
 The cumulative probability of emerging genotypic entecavir resistance after 1, 2, 3, 4 and 5 years treatment in the lamivudine-refractory studies was 6%, 15%, 36%, 47% and 51%, respectively.
 Virological response should be frequently monitored in the lamivudine-refractory population and appropriate resistance testing should be performed.
 In patients with a suboptimal virological response after 24 weeks of treatment with entecavir, a modification of treatment should be considered (see sections 4.5 and 5.1).
+Pre-existing lamivudine-resistant HBV is associated with an increased risk for subsequent entecavir resistance regardless of the degree of liver disease; in patients with decompensated liver disease, virologic breakthrough may be associated with serious clinical complications of the underlying liver disease.
+Therefore, in patients with both decompensated liver disease and lamivudine-resistant HBV, combination use of entecavir plus a second antiviral agent (which does not share cross-resistance with either lamivudine or entecavir) should be considered in preference to entecavir monotherapy.
 
 Liver transplant recipients: there are limited data on efficacy and safety of entecavir in liver transplant recipients.
 Renal function should be carefully evaluated before and during entecavir therapy in liver transplant recipients receiving cyclosporine or tacrolimus (see section 5.2).
 
 Co-infection with hepatitis C or D: there are no data on the efficacy of entecavir in patients co-infected with hepatitis C or D virus.
+
 Human immunodeficiency virus (HIV)/HBV co-infected patients not receiving concomitant antiretroviral therapy: entecavir has not been evaluated in HIV/HBV co-infected patients not concurrently receiving effective HIV treatment.
 Emergence of HIV resistance has been observed when entecavir was used to treat chronic hepatitis B infection in patients with HIV infection not receiving highly active antiretroviral therapy (HAART) (see section 5.1).
 Therefore, therapy with entecavir should not be used for HIV/HBV co-infected patients who are not receiving HAART.
@@ -67,8 +68,7 @@ Lactose: this medicinal product contains 241 mg of lactose in each 1 mg daily do
 
 [Baraclude 0.05 mg/ml oral solution]
 
-Resistance and specific precaution for lamivudine-refractory patients: mutations in the HBV polymerase that encode lamivudine-resistance substitutions may lead to the subsequent emergence of secondary substitutions, including those associated with entecavir associated resistance (ETVr). ).
-Patients with lamivudine-resistant HBV are at higher risk of developing subsequent entecavir resistance than patients without lamivudine-resistance .
+Patients with lamivudine-resistant HBV are at higher risk of developing subsequent entecavir resistance than patients without lamivudine-resistance.
 
 Maltitol: Baraclude oral solution contains maltitol.
 Patients with rare hereditary problems of fructose intolerance should not take this medicine.

@@ -28,8 +28,9 @@ Treatment beyond 48 weeks: continued treatment with entecavir for a median durat
 
 c. Description of selected adverse reactions
 
-Laboratory test abnormalities: In clinical studies with nucleoside-naive patients, 5% had ALT elevations > 3 times baseline, and < 1% had ALT elevations > 2 times baseline together with total bilirubin > 2 times ULN and > 2 times baseline.
+Laboratory test abnormalities: In clinical studies with nucleoside-naive patients, 5% had ALT elevations > 3 times baseline, and < 1% had ALT elevations > 2 times baseline together with total bilirubin > 2 times upper limit of normal (ULN) and > 2 times baseline.
 Albumin levels < 2.5 g/dl occurred in < 1% of patients, amylase levels > 3 times baseline in 2%, lipase levels > 3 times baseline in 11% and platelets < 50,000/mm3 in < 1%.
+
 In clinical studies with lamivudine-refractory patients, 4% had ALT elevations > 3 times baseline, and < 1% had ALT elevations > 2 times baseline together with total bilirubin > 2 times ULN and > 2 times baseline.
 Amylase levels > 3 times baseline occurred in 2% of patients, lipase levels > 3 times baseline in 18% and platelets < 50,000/mm3 in < 1%.
 
@@ -45,15 +46,21 @@ In studies in lamivudine-refractory patients, with only limited numbers of patie
 
 In the clinical trials entecavir treatment was discontinued if patients achieved a prespecified response.
 If treatment is discontinued without regard to treatment response, the rate of post-treatment ALT flares could be higher.
-
 d. Other special populations
+
+Experience in patients with decompensated liver disease: the safety profile of entecavir in patients with decompensated liver disease was assessed in a randomized open-label comparative study in which patients received treatment with entecavir 1 mg/day (n = 102) or adefovir dipivoxil 10 mg/day (n = 89) (study 048).
+Relative to the adverse reactions noted in section b. Tabulated list of adverse reactions, one additional adverse reaction [decrease in blood bicarbonate (2%)] was observed in entecavir-treated patients through week 48.
+The on-study cumulative death rate was 23% (23/102), and causes of death were generally liver-related, as expected in this population.
+The on-study cumulative rate of hepatocellular carcinoma (HCC) was 12% (12/102).
+Serious adverse events were generally liver-related, with an on-study cumulative frequency of 69%.
+Patients with high baseline CTP score were at higher risk of developing serious adverse events (see section 4.4).
+
+Laboratory test abnormalities: through week 48 among entecavir-treated patients with decompensated liver disease, none had ALT elevations both > 10 times ULN and > 2 times baseline, and 1% of patients had ALT elevations > 2 times baseline together with total bilirubin > 2 times ULN and > 2 times baseline.
+Albumin levels < 2.5 g/dl occurred in 30% of patients, lipase levels > 3 times baseline in 10% and platelets < 50,000/mm3 in 20%.
 
 Experience in patients co-infected with HIV: the safety profile of entecavir in a limited number of HIV/HBV co-infected patients on lamivudine-containing HAART (highly active antiretroviral therapy) regimens was similar to the safety profile in monoinfected HBV patients (see section 4.4).
 
 Gender/age: there was no apparent difference in the safety profile of entecavir with respect to gender (≈ 25% women in the clinical trials) or age (≈ 5% of patients > 65 years of age).
-
-Decompensated cirrhosis: a higher rate of serious hepatic adverse events has been observed in patients with decompensated cirrhosis compared with rates in patients with compensated liver function.
-This observation is based on limited experience in 45 patients with Child-Pugh score ≥ 7 at the start of entecavir treatment (see section 4.4).
 
 [Baraclude 1 mg film-coated tablets]
 

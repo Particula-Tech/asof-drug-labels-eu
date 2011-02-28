@@ -2,6 +2,7 @@
 
 Pharmacotherapeutic group: nucleoside and nucleotide reverse transcriptase inhibitors
 ATC code: J05AF10
+
 Mechanism of action: entecavir, a guanosine nucleoside analogue with activity against HBV polymerase, is efficiently phosphorylated to the active triphosphate (TP) form, which has an intracellular half-life of 15 hours.
 By competing with the natural substrate deoxyguanosine TP, entecavir-TP functionally inhibits the 3 activities of the viral polymerase: (1) priming of the HBV polymerase, (2) reverse transcription of the negative strand DNA from the pregenomic messenger RNA, and (3) synthesis of the positive strand HBV DNA.
 The entecavir-TP Ki for HBV DNA polymerase is 0.0012 μM.
@@ -26,9 +27,11 @@ Substitutions observed in clinical isolates (rtT184A, C, F, G, I, L, M or S; rtS
 The ETVr substitutions at residues rtT184, rtS202 and rtM250 alone have only a modest effect on entecavir susceptibility, and have not been observed in the absence of LVDr substitutions in more than 1000 patient samples sequenced.
 Resistance is mediated by reduced inhibitor binding to the altered HBV reverse transcriptase, and resistant HBV exhibits reduced replication capacity in cell culture.
 
-Clinical experience: the demonstration of benefit is based on histological, virological, biochemical, and serological responses after 48 weeks of treatment in active-controlled clinical trials of 1,633 adults with chronic hepatitis B infection and evidence of viral replication.
+Clinical experience: the demonstration of benefit is based on histological, virological, biochemical, and serological responses after 48 weeks of treatment in active-controlled clinical trials of 1,633 adults with chronic hepatitis B infection, evidence of viral replication and compensated liver disease.
+The safety and efficacy of entecavir were also evaluated in an active-controlled clinical trial of 191 HBV-infected patients with decompensated liver disease and in a clinical trial of 68 patients co-infected with HBV and HIV.
 
-In all studies, histological improvement was defined as a ≥ 2-point decrease in Knodell necroinflammatory score from baseline with no worsening of the Knodell fibrosis score.
+In studies in patients with compensated liver disease, histological improvement was defined as a
+≥ 2-point decrease in Knodell necro-inflammatory score from baseline with no worsening of the Knodell fibrosis score.
 Responses for patients with baseline Knodell Fibrosis Scores of 4 (cirrhosis) were comparable to overall responses on all efficacy outcome measures (all patients had compensated liver disease).
 High baseline Knodell necroinflammatory scores (> 10) were associated with greater histological improvement in nucleoside-naive patients.
 Baseline ALT levels ≥ 2 times ULN and baseline HBV DNA ≤ 9.0 log10 copies/ml were both associated with higher rates of virologic response (Week 48 HBV DNA < 400 copies/ml) in nucleoside-naive HBeAg-positive patients.
@@ -52,7 +55,7 @@ Results at 48 weeks of randomised, double blind studies comparing entecavir (ETV
 
 *p value vs lamivudine < 0.05 a patients with evaluable baseline histology (baseline Knodell Necroinflammatory Score ≥ 2) b a primary endpoint c Roche Cobas Amplicor PCR assay (LLOQ = 300 copies/ml)
 
-Experience in lamivudine-refractory patients:
+Experience in lamivudine-refractory patients with compensated liver disease:
 In a randomised, double-blind study in HBeAg positive lamivudine-refractory patients (026), with 85% of patients presenting LVDr mutations at baseline, patients receiving lamivudine at study entry either switched to entecavir 1 mg once daily, with neither a washout nor an overlap period (n = 141), or continued on lamivudine 100 mg once daily (n = 145).
 Results at 48 weeks are presented in the table.
 
@@ -110,6 +113,40 @@ For the 77 patients who continued entecavir treatment beyond 52 weeks (median 96
 Age/gender:
 There was no apparent difference in efficacy for entecavir based on gender (≈ 25% women in the clinical trials) or age (≈ 5% of patients > 65 years of age).
 Special populations
+Patients with decompensated liver disease: in study 048, 191 patients with HBeAg positive or negative chronic HBV infection and evidence of hepatic decompensation, defined as a CTP score of 7 or higher, received entecavir 1 mg once daily or adefovir dipivoxil 10 mg once daily.
+Patients were either HBV-treatment-naïve or pretreated (excluding pretreatment with entecavir, adefovir dipivoxil, or tenofovir disoproxil fumarate).
+At baseline, patients had a mean CTP score of 8.59 and 26% of patients were CTP class C. The mean baseline Model for End Stage Liver Disease (MELD) score was 16.23.
+Mean serum HBV DNA by PCR was 7.83 log10 copies/ml and mean serum ALT was 100 U/l; 54% of patients were HBeAg positive, and 35% of patients had LVDr substitutions at baseline.
+Entecavir was superior to adefovir dipivoxil on the primary efficacy endpoint of mean change from baseline in serum HBV DNA by PCR at week 24.
+Results for selected study endpoints at weeks 24 and 48 are shown in the table.
+
+|  | Week 24 |  | Week 48 |  |
+| --- | --- | --- | --- | --- |
+|  | ETV 1 mg once daily | Adefovir Dipivoxil 10 mg once daily | ETV 1 mg once daily | Adefovir Dipivoxil 10 mg once daily |
+| n | 100 | 91 | 100 | 91 |
+| HBV DNAa |  |  |  |  |
+| Proportion undetectable (<300 copies/ml)b | 49%* | 16% | 57%* | 20% |
+| Mean change from baseline (log10 copies/ml)c | -4.48* | -3.40 | -4.66 | -3.90 |
+| Stable or improved CTP scoreb,d | 66% | 71% | 61% | 67% |
+| MELD score Mean change from baselinec,e | -2.0 | -0.9 | -2.6 | -1.7 |
+| HBsAg lossb | 1% | 0 | 5% | 0 |
+| Normalization of:f |  |  |  |  |
+| ALT (≤1 X ULN)b | 46/78 (59%)* | 28/71 (39%) | 49/78 (63%)* | 33/71 (46%) |
+| Albumin (≥1 X LLN)b | 20/82 (24%) | 14/69 (20%) | 32/82 (39%) | 20/69 (29%) |
+| Bilirubin (≤1 X ULN)b | 12/75 (16%) | 10/65 (15%) | 15/75 (20%) | 18/65 (28%) |
+| Prothrombin time (≤1 X ULN)b | 9/95 (9%) | 6/82 (7%) | 8/95 (8%) | 7/82 (9%) |
+
+a Roche COBAS Amplicor PCR assay (LLOQ = 300 copies/ml).
+b NC=F (noncompleter=failure), meaning treatment discontinuations before the analysis week, including reasons such as death, lack of efficacy, adverse event, noncompliance/loss-to-follow-up, are counted as failures (e.g., HBV
+DNA ≥ 300 copies/ml) c NC=M (noncompleters=missing) dDefined as decrease or no change from baseline in CTP score.
+e Baseline mean MELD score was 17.1 for ETV and 15.3 for adefovir dipivoxil.
+f Denominator is patients with abnormal values at baseline.
+*p<0.05
+ULN=upper limit of normal, LLN=lower limit of normal.
+
+The time to onset of HCC or death (whichever occurred first) was comparable in the two treatment groups; on-study cumulative death rates were 23% (23/102) and 33% (29/89) for patients treated with entecavir and adefovir dipivoxil, respectively, and on-study cumulative rates of HCC were 12% (12/102) and 20% (18/89) for entecavir and adefovir dipivoxil, respectively.
+For patients with LVDr substitutions at baseline, the percentage of patients with HBV DNA
+<300 copies/ml was 44% for entecavir and 20% for adefovir at week 24 and 50% for entecavir and 17% for adefovir at week 48.
 HIV/HBV co-infected patients receiving concomitant HAART: study 038 included 67 HBeAg positive and 1 HBeAg negative patients co-infected with HIV.
 Patients had stable controlled HIV (HIV RNA < 400 copies/ml) with recurrence of HBV viraemia on a lamivudine-containing HAART regimen.
 HAART regimens did not include emtricitabine or tenofovir disoproxil fumarate.
@@ -124,7 +161,7 @@ Reductions in HIV RNA have been reported in HIV/HBV co-infected patients receivi
 In some cases, selection of HIV variant M184V has been observed, which has implications for the selection of HAART regimens that the patient may take in the future.
 Therefore, entecavir should not be used in this setting due to the potential for development of HIV resistance (see section 4.4).
 
-Patients with decompensated liver disease: a randomised open-label study (048) comparing entecavir 1.0 mg once daily with adefovir 10 mg once daily in patients with hepatic decompensation is ongoing.
+Paediatric population: the European Medicines Agency has deferred the obligation to submit the results of studies with Baraclude in one or more subsets of the paediatric population with chronic hepatitis B (see section 4.2 for information on paediatric use).
 
 Clinical resistance: patients in clinical trials initially treated with entecavir 0.5 mg (nucleoside-naive) or 1.0 mg (lamivudine-refractory) and with an on-therapy PCR HBV DNA measurement at or after Week 24 were monitored for resistance.
 Through Week 240 in nucleoside-naive studies, genotypic evidence of ETVr substitutions at rtT184, rtS202, or rtM250 was identified in 3 patients treated with entecavir, 2 of whom experienced virologic breakthrough (see table).

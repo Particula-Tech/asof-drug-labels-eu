@@ -4,14 +4,25 @@ Therapy should be initiated by a physician experienced in the management of chro
 
 Baraclude should be taken orally, once-daily.
 
+Compensated liver disease
+
 Nucleoside naïve patients: the recommended dose is 0.5 mg once daily, with or without food.
 
 Lamivudine-refractory patients (i.e. with evidence of viraemia while on lamivudine or the presence of lamivudine resistance [LVDr] mutations) (see sections 4.4 and 5.1): the recommended dose is 1 mg once daily, which must be taken on an empty stomach (more than 2 hours before or more than 2 hours after a meal) (see section 5.2).
 
-Duration of therapy: the optimal duration of treatment is unknown.
+Decompensated liver disease
+
+The recommended dose for patients with decompensated liver disease is 1 mg once daily, which must be taken on an empty stomach (more than 2 hours before or more than 2 hours after a meal) (see section 5.2).
+For patients with lamivudine-refractory hepatitis B, see sections 4.4 and 5.1.
+
+Duration of therapy
+The optimal duration of treatment is unknown.
 Treatment discontinuation may be considered as follows:
-� In HBeAg positive patients, treatment should be administered at least until HBe seroconversion (HBeAg loss and HBV DNA loss with anti-HBe detection on two consecutive serum samples at least 3-6 months apart) or until HBs seroconversion or there is loss of efficacy (see section 4.4). � In HBeAg negative patients, treatment should be administered at least until HBs seroconversion or there is evidence of loss of efficacy.
+▪• In HBeAg positive patients, treatment should be administered at least until HBe seroconversion (HBeAg loss and HBV DNA loss with anti-HBe detection on two consecutive serum samples at least 3-6 months apart) or until HBs seroconversion or there is loss of efficacy (see section 4.4). ▪• In HBeAg negative patients, treatment should be administered at least until HBs seroconversion or there is evidence of loss of efficacy.
 With prolonged treatment for more than 2 years, regular reassessment is recommended to confirm that continuing the selected therapy remains appropriate for the patient.
+
+In patients with decompensated liver disease or cirrhosis, treatment cessation is not recommended.
+
 Elderly: no dosage adjustment based on age is required.
 The dose should be adjusted according to the patient’s renal function (see dosage recommendations in renal impairment and section 5.2).
 
@@ -26,7 +37,7 @@ Therefore, virological response should be closely monitored.
 
 | Creatinine clearance (ml/min) | Baraclude dosage* |  |
 | --- | --- | --- |
-|  | Nucleoside naïve patients | Lamivudine-refractory |
+|  | Nucleoside naïve patients | Lamivudine-refractory or decompensated liver disease |
 | ≥ 50 | 0.5 mg once daily | 1 mg once daily |
 | 30 - 49 | 0.25 mg once daily* OR 0.5 mg every 48 hours | 0.5 mg once daily |
 | 10 - 29 | 0.15 mg once daily* OR 0.5 mg every 72 hours | 0.3 mg once daily* OR 0.5 mg every 48 hours |
@@ -50,7 +61,7 @@ It is recommended that the dosing spoon be rinsed with water after each daily do
 
 | Creatinine clearance (ml/min) | Baraclude dosage |  |
 | --- | --- | --- |
-|  | Nucleoside naïve patients | Lamivudine-refractory |
+|  | Nucleoside naïve patients | Lamivudine-refractory or decompensated liver disease |
 | ≥ 50 | 0.5 mg once daily | 1 mg once daily |
 | 30 - 49 | 0.25 mg once daily OR 0.5 mg every 48 hours | 0.5 mg once daily |
 | 10 - 29 | 0.15 mg once daily OR 0.5 mg every 72 hours | 0.3 mg once daily OR 0.5 mg every 48 hours |
