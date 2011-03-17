@@ -1,0 +1,3 @@
+# 1. NAME OF THE MEDICINAL PRODUCT
+
+GILENYA 0.5 mg hard capsules
