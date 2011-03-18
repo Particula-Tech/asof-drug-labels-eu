@@ -8,8 +8,7 @@ Patients must therefore be monitored closely for infections, including tuberculo
 Because the elimination of adalimumab may take up to five months, monitoring should be continued throughout this period.
 
 Treatment with Humira should not be initiated in patients with active infections including chronic or localized infections until infections are controlled.
-In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Opportunistic infections).
-
+In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Other opportunistic infections).
 Patients who develop a new infection while undergoing treatment with Humira, should be monitored closely and undergo a complete diagnostic evaluation.
 Administration of Humira should be discontinued if a patient develops a new serious infection or sepsis, and appropriate antimicrobial or antifungal therapy should be initiated until the infection is controlled.
 Physicians should exercise caution when considering the use of Humira in patients with a history of recurring infection or with underlying conditions which may predispose patients to infections, including the use of concomitant immunosuppressive medications.
@@ -33,6 +32,7 @@ It is recommended that the conduct of these tests should be recorded in the pati
 Prescribers are reminded of the risk of false negative tuberculin skin test results, especially in patients who are severely ill or immunocompromised.
 
 If active tuberculosis is diagnosed, Humira therapy must not be initiated (see section 4.3).
+
 If latent tuberculosis is suspected, a physician with expertise in the treatment of tuberculosis should be consulted.
 In all situations described below, the benefit/risk balance of therapy should be very carefully considered.
 
@@ -44,7 +44,6 @@ Use of anti-tuberculosis therapy should also be considered before the initiation
 Some patients who have previously received treatment for latent or active tuberculosis have developed active tuberculosis while being treated with Humira.
 
 Patients should be instructed to seek medical advice if signs/symptoms (e.g., persistent cough, wasting/weight loss, low grade fever) suggestive of a tuberculosis infection occur during or after therapy with Humira.
-
 Other opportunistic infections:
 
 Opportunistic infections, including invasive fungal infections have been observed in patients receiving Humira.
@@ -53,7 +52,7 @@ These infections have not consistently been recognised in patients taking TNF-bl
 For patients who develop the signs and symptoms such as fever, malaise, weight loss, sweats, cough, dyspnea, and/or pulmonary infiltrates or other serious systemic illness with or without concomitant shock an invasive fungal infection should be suspected and administration of Humira should be promptly discontinued.
 Diagnosis and administration of empiric antifungal therapy in these patients should be made in consultation with a physician with expertise in the care of patients with invasive fungal infections.
 
-Hepatitis B Reactivation
+Hepatitis B reactivation
 
 Reactivation of hepatitis B has occurred in patients who are chronic carriers of this virus when receiving a TNF-antagonist including Humira.
 Some cases have had a fatal outcome.
@@ -66,6 +65,7 @@ Neurological events
 
 TNF-antagonists including Humira have been associated in rare instances with new onset or exacerbation of clinical symptoms and/or radiographic evidence of demyelinating disease including multiple sclerosis.
 Prescribers should exercise caution in considering the use of Humira in patients with pre-existing or recent-onset central nervous system demyelinating disorders.
+
 Allergic reactions
 
 Serious allergic adverse reactions have not been reported with subcutaneous administration of Humira during clinical trials.
@@ -101,12 +101,14 @@ No studies have been conducted that include patients with a history of malignanc
 Thus additional caution should be exercised in considering Humira treatment of these patients (see section 4.8).
 
 All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.
+
 In an exploratory clinical trial evaluating the use of another anti-TNF agent, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with increased risk for malignancy due to heavy smoking.
+
 Haematologic reactions
 
-Rare reports of pancytopenia including aplastic anaemia have been reported with TNF antagonists.
+Rare reports of pancytopaenia including aplastic anaemia have been reported with TNF antagonists.
 Adverse events of the haematologic system, including medically significant cytopoenia (e.g. thrombocytopaenia, leucopaenia) have been reported with Humira.
 All patients should be advised to seek immediate medical attention if they develop signs and symptoms suggestive of blood dyscrasias (e.g. persistent fever, bruising, bleeding, pallor) while on Humira.
 Discontinuation of Humira therapy should be considered in patients with confirmed significant haematologic abnormalities.
@@ -119,7 +121,6 @@ No data are available on the secondary transmission of infection by live vaccine
 It is recommended that polyarticular juvenile idiopathic arthritis patients, if possible, be brought up to date with all immunisations in agreement with current immunisation guidelines prior to initiating Humira therapy.
 
 Patients on Humira may receive concurrent vaccinations, except for live vaccines.
-
 Congestive heart failure
 
 In a clinical trial with another TNF-antagonist worsening congestive heart failure and increased mortality due to congestive heart failure have been observed.
@@ -148,6 +149,7 @@ The combination of Humira and abatacept is not recommended.
 (See section 4.5).
 
 Surgery
+
 There is limited safety experience of surgical procedures in patients treated with Humira.
 The long half-life of adalimumab should be taken into consideration if a surgical procedure is planned.
 A patient who requires surgery while on Humira should be closely monitored for infections, and appropriate actions should be taken.
@@ -166,8 +168,12 @@ Particular attention regarding the risk for infection should be paid when treati
 
 [Humira 40 mg solution for injection in pre-filled syringe]
 
-There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing highly active, inflammatory disease, which complicates the risk estimation.
+In patients who have been exposed to tuberculosis and patients who have travelled in areas of high risk of tuberculosis or endemic mycoses, such as histoplasmosis, coccidioidomycosis, or blastomycosis, the risk and benefits of treatment with Humira should be considered prior to initiating therapy (see Opportunistic infections).
+
+There is an increased background risk for lymphoma and leukemia in rheumatoid arthritis patients with long-standing highly active, inflammatory disease, which complicatesthe risk estimation.
 With the current knowledge, a possible risk for the development of lymphomas, leukemia, and other malignancies in patients treated with a TNF-antagonist cannot be excluded.
+
+All patients, and in particular patients with a medical history of extensive immunosuppressant therapy or psoriasis patients with a history of PUVA treatment should be examined for the presence of non-melanoma skin cancer prior to and during treatment with Humira.In an exploratory clinical trial evaluating the use of another anti-TNF agent, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
