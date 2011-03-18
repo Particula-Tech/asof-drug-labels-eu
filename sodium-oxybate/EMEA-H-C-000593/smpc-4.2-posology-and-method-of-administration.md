@@ -36,7 +36,7 @@ Therefore the use of sodium oxybate in children and adolescents in not recommend
 Method of administration
 Xyrem should be taken orally upon getting into bed and again between 2.5 to 4 hours later.
 It is recommended that both doses of Xyrem should be made up at the same time upon retiring to bed.
-Xyrem is provided for use with a graduated 10 ml measuring syringe and two 90 ml dosing cups with child resistant caps.
+Xyrem is provided for use with a graduated measuring syringe and two 90 ml dosing cups with child resistant caps.
 Each measured dose of Xyrem must be dispensed into the dosing cup and diluted with 60 ml of water prior to ingestion.
 Because food significantly reduces the bioavailability of sodium oxybate, patients should eat at least several (2-3) hours before taking the first dose of Xyrem at bedtime.
 Patients should always observe the same timing of dosing in relation to meals
