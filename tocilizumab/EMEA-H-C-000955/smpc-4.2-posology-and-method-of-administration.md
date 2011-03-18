@@ -21,6 +21,8 @@ Dose adjustments due to laboratory abnormalities (see section 4.4).
 
 - Low absolute neutrophil count (ANC)
 
+In patients not previously treated with RoActemra, initiation is not recommended in patients with an absolute neutrophil count (ANC) below 2 x 109/l.
+
 | Laboratory Value (cells x 109/ l ) | Action |
 | --- | --- |
 | ANC > 1 | Maintain dose |
@@ -38,7 +40,6 @@ Special populations
 Paediatric patients: RoActemra is not recommended for use in children below 18 years of age due to insufficient data on safety and efficacy.
 
 Elderly patients: No dose adjustment is required in patients aged 65 years and older.
-
 Renal impairment: No dose adjustment is required in patients with mild renal impairment.
 RoActemra has not been studied in patients with moderate to severe renal impairment (see section 5.2).
 Renal function should be monitored closely in these patients.

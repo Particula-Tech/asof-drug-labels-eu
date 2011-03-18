@@ -1,7 +1,6 @@
 # 5.2 Pharmacokinetic properties
 
 The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on a database composed of 1,793 RA patients treated with a one-hour infusion of 4 and 8 mg/kg tocilizumab every 4 weeks for 24 weeks.
-
 The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg tocilizumab given every 4 weeks: steady-state area under curve (AUC) = 35000 ± 15500 h µg/ml, trough concentration (Cmin) = 9.74 ± 10.5 μg/ml and maximum concentration (Cmax) = 183 ± 85.6 µg/ml, and. the accumulation ratios for AUC and Cmax were small, 1.22 and 1.06, respectively.
 The accumulation ratio was higher for Cmin (2.35), which was expected based on the non-linear clearance contribution at lower concentrations.
 Steady-state was reached following the first administration for Cmax and after 8 and 20 weeks for AUC and Cmin, respectively.
@@ -10,6 +9,7 @@ At body weight ≥ 100 kg, the predicted mean (± SD) steady-state AUC, Cmin and
 35000 ± 15500 h µg/ml, Cmin = 9.74 ± 10.5 μg/ml and Cmax = 183 ± 85.6 µg/ml).
 The dose-response curve for tocilizumab flattens at higher exposure, resulting in smaller efficacy gains for each incremental increase in tocilizumab concentration such that clinically meaningful increases in efficacy were not demonstrated in patients treated with > 800 mg of tocilizumab.
 Therefore, tocilizumab doses exceeding 800 mg per infusion are not recommended (see section 4.2).
+
 Distribution
 In RA patients the central volume of distribution was 3.5 l, the peripheral volume of distribution was 2.9 l resulting in a volume of distribution at steady state of 6.4 l.
 

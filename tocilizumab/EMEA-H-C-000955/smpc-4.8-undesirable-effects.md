@@ -13,7 +13,6 @@ The most commonly reported ADRs (occurring in ≥ 5% of patients treated with to
 The ADRs listed in Table 1 are presented by system organ class and frequency categories, defined using the following convention: very common (≥ 1/10); common (≥ 1/100 to < 1/10) or uncommon
 (≥ 1/1,000 to < 1/100).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-
 Table 1.
 Summary of ADRs occurring in patients with RA receiving tocilizumab as monotherapy or in combination with MTX or other DMARDs in the double-blind controlled period
 
@@ -23,30 +22,17 @@ Summary of ADRs occurring in patients with RA receiving tocilizumab as monothera
 | Gastrointestinal disorders |  | Abdominal pain, Mouth ulceration, Gastritis | Stomatitis, Gastric ulcer |
 | Skin and subcutaneous tissue disorders |  | Rash, Pruritus, Urticaria |  |
 | Nervous system disorders |  | Headache, Dizziness |  |
-| Investigations |  | Hepatic transaminases | Total bilirubin increased |
+| Investigations |  | Hepatic transaminases increased, Weight increased, Total bilirubin increased* |  |
+| Vascular disorders |  | Hypertension |  |
+| Blood and lymphatic system disorders |  | Leukopenia, Neutropenia |  |
+| Metabolism and nutrition disorders | Hypercholesterolae mia* |  | Hypertriglyceridaemia |
+| General disorders and administration site conditions |  | Peripheral oedema Hypersensitivity reactions |  |
+| Eye disorders |  | Conjunctivitis |  |
+| Respiratory, thoracic and mediastinal disorders |  | Cough, Dyspnoea |  |
+| Renal disorders |  |  | Nephrolithiasis |
+| Endocrine disorders |  |  | Hypothyroidism |
 
-increased, Weight
-increased
-Vascular Hypertension
-disorders
-Blood and Leukopenia,
-lymphatic system Neutropenia
-disorders
-Metabolism and Hypercholesterolaemia Hypertriglyceridaemia
-nutrition
-disorders
-General disorders Peripheral oedema
-and Hypersensitivity
-administration reactions
-site conditions
-Eye disorders Conjunctivitis
-Respiratory, Cough, Dyspnoea
-thoracic and
-mediastinal
-disorders
-Renal disorders Nephrolithiasis
-Endocrine Hypothyroidism
-disorders
+* Includes elevations collected as part of routine laboratory monitoring (see text below)
 
 Infections
 In the 6-month controlled studies the rate of all infections reported with tocilizumab 8 mg/kg plus DMARD treatment was 127 events per 100 patient years compared to 112 events per 100 patient years in the placebo plus DMARD group.
@@ -56,7 +42,7 @@ In 6-month controlled clinical studies, the rate of serious infections with toci
 In the monotherapy study the rate of serious infections was 3.6 events per 100 patient years of exposure in the tocilizumab group and 1.5 events per 100 patient years of exposure in the MTX group.
 
 In the long-term exposure population, the overall rate of serious infections (bacterial, viral and fungal) was 4.7 events per 100 patient years.
-Reported serious infections, some with fatal outcome, included pneumonia, cellulitis, herpes zoster, gastroenteritis, diverticulitis, sepsis and bacterial arthritis.
+Reported serious infections, some with fatal outcome, included active tuberculosis, which may present with intrapulmonary or extrapulmonary disease, invasive pulmonary infections, including candidiasis, aspergillosis, coccidioidomycosis and pneumocystis jirovecii, pneumonia, cellulitis, herpes zoster, gastroenteritis, diverticulitis, sepsis and bacterial arthritis.
 Cases of opportunistic infections have been reported.
 
 Gastrointestinal Perforation
@@ -84,7 +70,8 @@ Neutrophils
 In the 6-month controlled trials decreases in neutrophil counts below 1 x 109/ l occurred in 3.4% of patients on tocilizumab 8 mg/kg plus DMARDs compared to < 0.1% of patients on placebo plus DMARDs.
 Approximately half of the patients who developed an ANC < 1 x 109/ l did so within 8 weeks after starting therapy.
 Decreases below 0.5 x 109/ l were reported in 0.3% patients receiving tocilizumab 8 mg/kg plus DMARDs.
-There was no clear association between decreases in neutrophils and the occurrence of serious infections.
+Infections with neutropenia have been reported.
+It is not clear if the infections were related to neutropenia.
 
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of decreases in neutrophil counts remained consistent with what was seen in the 6-month controlled clinical trials.
 
@@ -94,19 +81,22 @@ These decreases occurred without associated bleeding events.
 
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of decreases in platelet counts remained consistent with what was seen in the 6-month controlled clinical trials.
 
+Very rare reports of pancytopenia have occurred in the post marketing setting.
 Hepatic transaminase elevations
 During the 6-month controlled trials transient elevations in ALT/AST > 3 x ULN were observed in 2.1% of patients on tocilizumab 8 mg/kg compared to 4.9% of patients on MTX and in 6.5% of patients who received 8 mg/kg tocilizumab plus DMARDs compared to 1.5% of patients on placebo plus DMARDs.
 
 The addition of potentially hepatotoxic drugs (e.g. MTX) to tocilizumab monotherapy resulted in increased frequency of these elevations.
 Elevations of ALT/AST > 5 x ULN were observed in 0.7% of tocilizumab monotherapy patients and 1.4% of tocilizumab plus DMARD patients, the majority of whom were discontinued permanently from tocilizumab treatment.
 These elevations were not associated with clinically relevant increase in direct bilirubin, nor were they associated with clinical evidence of hepatitis or hepatic impairment.
-The incidence of indirect bilirubin greater than the upper limit of normal is 6.2% in patients treated with 8 mg/kg tocilizumab.
+During the double-blind controlled period, the incidence of indirect bilirubin greater than the upper limit of normal, collected as a routine laboratory parameter, is 6.2% in patients treated with 8 mg/kg tocilizumab + DMARD.
+A total of 5.8% of patients experienced an elevation of indirect bilirubin of > 1 to 2 x ULN and 0.4% had an elevation of > 2 x ULN.
 
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of elevation in ALT/AST remained consistent with what was seen in the 6-month controlled clinical trials.
 
 Lipid parameters
 During the six month controlled trials, increases of lipid parameters such as total cholesterol, triglycerides, LDL cholesterol, and/or HDL cholesterol have been reported commonly.
-Approximately 24% of patients receiving RoActemra in clinical trials experienced sustained elevations in total cholesterol ≥ 6.2 mmol/ l, with 15% experiencing a sustained increase in LDL to ≥ 4.1 mmol/ l. Elevations in lipid parameters responded to treatment with lipid-lowering agents.
+With routine laboratory monitoring it was seen that approximately 24% of patients receiving RoActemra in clinical trials experienced sustained elevations in total cholesterol ≥ 6.2 mmol/ l, with 15% experiencing a sustained increase in LDL to ≥ 4.1 mmol/ l. Elevations in lipid parameters responded to treatment with lipid-lowering agents.
+
 During the double-blind controlled period and with long-term exposure, the pattern and incidence of elevations in lipid parameters remained consistent with what was seen in the 6-month controlled trials.
 
 Malignancies

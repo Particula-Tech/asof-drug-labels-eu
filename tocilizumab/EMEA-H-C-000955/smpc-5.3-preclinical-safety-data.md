@@ -3,7 +3,6 @@
 Non-clinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity and genotoxicity.
 
 Carcinogenicity studies were not performed because IgG1 monoclonal antibodies are not deemed to have intrinsic carcinogenic potential.
-
 Available non-clinical data demonstrated the effect of IL-6 on malignant progression and apoptosis resistance to various cancer types.
 This data does not suggest a relevant risk for cancer initiation and progression under tocilizumab treatment.
 Additionally, proliferative lesions were not observed in a 6-month chronic toxicity study in cynomolgus monkeys or in IL-6 deficient mice.

@@ -26,6 +26,7 @@ In Study I, tocilizumab was administered intravenously every four weeks as monot
 In Studies II, III and V, tocilizumab was administered intravenously every four weeks in combination with MTX vs. placebo and MTX.
 In Study IV, tocilizumab was administered intravenously every 4 weeks in combination with other DMARDs vs. placebo and other DMARDs.
 The primary endpoint for each of the five studies was the proportion of patients who achieved an ACR 20 response at week 24.
+
 Study I evaluated 673 patients who had not been treated with MTX within six months prior to randomisation and who had not discontinued previous MTX treatment as a result of clinically important toxic effects or lack of response.
 The majority (67%) of patients were MTX-naïve.
 Doses of 8 mg/kg of tocilizumab were given every four weeks as monotherapy.
@@ -47,7 +48,6 @@ Doses of 8 mg/kg tocilizumab or placebo were given every four weeks in combinati
 Study V evaluated 499 patients who had an inadequate clinical response or were intolerant to one or more TNF antagonist therapies.
 The TNF antagonist therapy was discontinued prior to randomisation.
 Doses of 4 or 8 mg/kg tocilizumab or placebo were given every four weeks in combination with stable MTX (10 mg to 25 mg weekly).
-
 Clinical response
 In all studies, patients treated with tocilizumab 8 mg/kg had statistically significant higher ACR 20, 50, 70 response rates at 6 months compared to control (Table 2).
 In study I, superiority of tocilizumab 8 mg/kg was demonstrated against the active comparator MTX.
@@ -65,6 +65,7 @@ In study II, 65% of patients achieved a DAS28 < 2.6 at week 104 compared to 48% 
 
 In a pooled analysis of studies II, III and IV, the proportion of patients achieving an ACR 20, 50 and 70 response was significantly higher (59% vs. 50%, 37% vs. 27%, 18% vs. 11%, respectively) in the tocilizumab 8 mg/kg plus DMARD vs. the tocilizumab 4 mg/kg plus DMARD group (p< 0.03).
 Similarly the proportion of patients achieving a DAS 28 remission (DAS28 < 2.6) was significantly higher (31% vs. 16% respectively) in patients receiving tocilizumab 8 mg/kg plus DMARD than in patients receiving tocilizumab 4 mg/kg plus DMARD (p< 0.0001).
+
 Table 2.
 ACR responses in placebo-/MTX-/DMARDs-controlled studies (% patients)
 
@@ -101,6 +102,7 @@ Inhibition of joint structural damage was shown with significantly less radiogra
 
 In the open-label extension of Study II the inhibition of progression of structural joint damage in tocilizumab plus MTX-treated patients was maintained in the second year of treatment.
 The mean change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients randomised to tocilizumab 8 mg/kg plus MTX (p<0.0001) compared with patients who were randomised to placebo plus MTX.
+
 Table 3.
 Radiographic mean changes over 52 weeks in Study II
 
