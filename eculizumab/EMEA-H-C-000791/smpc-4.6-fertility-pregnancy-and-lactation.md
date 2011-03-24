@@ -1,7 +1,6 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, Pregnancy and lactation
 
 Pregnancy:
-
 For Soliris, no clinical data on exposed pregnancies are available.
 
 Animal reproduction studies have not been conducted with eculizumab (see section 5.3).

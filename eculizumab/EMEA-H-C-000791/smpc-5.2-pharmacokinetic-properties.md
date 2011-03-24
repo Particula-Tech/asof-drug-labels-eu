@@ -10,7 +10,6 @@ Elimination: No specific studies have been performed to evaluate the hepatic, re
 In normal kidneys, antibodies are not excreted and are excluded from filtration by their size.
 
 Pharmacokinetic Parameters:
-
 In 40 patients with PNH, a 1-compartmental model was used to estimate pharmacokinetic parameters after multiple doses.
 Mean clearance was 0.31 ± 0.12 ml/hr/kg, mean volume of distribution was 110.3 ± 17.9 ml/kg, and mean elimination half-live was 11.3 ± 3.4 days.
 Based on these data, the onset of steady state is predicted to be approximately 49 – 56 days.

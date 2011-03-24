@@ -10,6 +10,7 @@ Instructions:
 Reconstitution and dilution should be performed in accordance with good practices rules, particularly for the respect of asepsis.
 
 Withdraw the total amount of Soliris from the vial(s) using a sterile syringe.
+
 Transfer the recommended dose to an infusion bag.
 
 Dilute Soliris to a final concentration of 5 mg/ml by addition to the infusion bag using 0.9% sodium chloride, 0.45% sodium chloride, or 5% Dextrose in water, as the diluent.

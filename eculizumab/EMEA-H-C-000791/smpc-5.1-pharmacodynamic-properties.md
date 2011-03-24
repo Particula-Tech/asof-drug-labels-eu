@@ -17,10 +17,9 @@ Eculizumab preserves the early components of complement activation that are esse
 
 Administration of Soliris results in a rapid and sustained reduction in terminal complement activity.
 Eculizumab serum concentrations of approximately 35 microgram/ml are sufficient for essentially complete inhibition of terminal complement-mediated intravascular haemolysis in most PNH patients.
-
 Administration of Soliris resulted in a rapid and sustained reduction in complement-mediated haemolytic activity.
 
-Clinical Studies
+Clinical efficacy and safety
 
 The safety and efficacy of Soliris in PNH patients with haemolysis were assessed in a randomized, double-blind, placebo-controlled 26 week study (C04-001); PNH patients were also treated with Soliris in a single arm 52 week study (C04-002); and in a long term extension study (E05-001).
 Patients received meningococcal vaccination prior to receipt of Soliris.
@@ -43,19 +42,25 @@ Baseline characteristics are shown in Table 2.
 Table 2: Patient Demographics and Characteristics in C04-001 and C04-002
 
 C04-001 C04-002
+Parameter Placebo Soliris Soliris
+N = 44 N = 43 N = 97
+Mean Age (SD) 38.4 (13.4) 42.1 (15.5) 41.1 (14.4)
+Gender - Female (%) 29 (65.9) 23 (53.5) 49 (50.5)
+History of Aplastic Anemia or MDS (%) 12 (27.3) 8 (18.7) 29 (29.9)
+Concomitant Anticoagulants (%) 20 (45.5) 24 (55.8) 59 (61)
 
-| Parameter | Placebo N = 44 | Soliris N = 43 | Soliris N = 97 |
-| --- | --- | --- | --- |
-| Mean Age (SD) | 38.4 (13.4) | 42.1 (15.5) | 41.1 (14.4) |
-| Gender - Female (%) | 29 (65.9) | 23 (53.5) | 49 (50.5) |
-| History of Aplastic Anemia or MDS (%) | 12 (27.3) | 8 (18.7) | 29 (29.9) |
-| Concomitant Anticoagulants (%) | 20 (45.5) | 24 (55.8) | 59 (61) |
-| Concomitant Steroids/Immunosuppressant Treatments (%) | 16 (36.4) | 14 (32.6) | 46 (47.4) |
-| Discontinued treatment | 10 | 2 | 1 |
-| PRBC in previous 12 months (median (Q1,Q3)) | 17.0 (13.5, 25.0) | 18.0 (12.0, 24.0) | 8.0 (4.0, 24.0)4 |
-| Mean Hgb level (g/dL) at setpoint (SD) | 7.7 (0.75) | 7.8 (0.79) | N/A |
-| Pre-treatment LDH levels (median, U/L) | 2,234.5 | 2,032.0 | 2,051.0 |
+Concomitant Steroids/Immunosuppressant
 
+16 (36.4) 14 (32.6) 46 (47.4)
+
+Treatments (%)
+
+Discontinued treatment 10 2 1
+
+PRBC in previous 12 months (median (Q1,Q3)) 17.0 (13.5, 25.0) 18.0 (12.0, 8.0 (4.0, 24.0)4 24.0)
+
+Mean Hgb level (g/dL) at setpoint (SD) 7.7 (0.75) 7.8 (0.79) N/A
+Pre-treatment LDH levels (median, U/L) 2,234.5 2,032.0 2,051.0
 Free Haemoglobin at baseline (median, mg/dL) 46.2 40.5 34.9
 
 In TRIUMPH, study patients treated with Soliris had significantly reduced (p< 0.001) haemolysis resulting in improvements in anaemia as indicated by increased haemoglobin stabilization and reduced need for RBC transfusions compared to placebo treated patients (see table 3).
@@ -80,6 +85,7 @@ Table 3: Efficacy Outcomes in C04-001 and C04-002
 | FACIT-Fatigue (effect size) |  | 1.12 | < 0.001 | 1.14 |  | < 0.001 |
 
 * Results from study C04-002 refer to pre- versus post-treatment comparisons.
+
 From the 195 patients that originated in C04-001, C04-002 and other initial studies, Soliris-treated PNH patients were enrolled in a long term extension study (E05-001).
 All patients sustained a reduction in intravascular haemolysis over a total Soliris exposure time ranging from 10 to 54 months.
 There were fewer thrombotic events with Soliris treatment than during the same period of time prior to treatment.
