@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-Powder vial: 2 years.
+Powder vial: 3 years.
 
 Solvent: 4 years.
 
