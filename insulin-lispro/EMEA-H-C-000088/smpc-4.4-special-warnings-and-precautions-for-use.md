@@ -27,6 +27,12 @@ A consequence of the pharmacodynamics of rapid-acting insulin analogues is that 
 Humalog should only be used in children in preference to soluble insulin when a fast action of insulin might be beneficial.
 For example, in the timing of the injections in relation to meals.
 
+Combination of Humalog with pioglitazone:
+Cases of cardiac failure have been reported when pioglitazone was used in combination with insulin, especially in patients with risk factors for development of cardiac heart failure.
+This should be kept in mind if treatment with the combination of pioglitazone and Humalog is considered.
+If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema.
+Pioglitazone should be discontinued if any deterioration in cardiac symptoms occurs.
+
 [Humalog 100 U/ml, solution for injection in cartridge]
 
 If the 40 U/ml vial is the product normally prescribed, do not take insulin from a 100 U/ml cartridge using a 40 U/ml syringe.
@@ -37,6 +43,9 @@ Under no circumstances should Humalog Mix25 be given intravenously.
 
 Administration of insulin lispro to children below 12 years of age should be considered only in case of an expected benefit when compared to regular insulin.
 
+Combination of Humalog Mix25 with pioglitazone:
+This should be kept in mind if treatment with the combination of pioglitazone and Humalog Mix25 is considered.
+
 [Humalog Mix25 100 U/ml suspension for injection in cartridge]
 
 (all sentences already above)
@@ -45,6 +54,9 @@ Administration of insulin lispro to children below 12 years of age should be con
 
 Under no circumstances should Humalog Mix50 be given intravenously.
 
+Combination of Humalog Mix50 with pioglitazone:
+This should be kept in mind if treatment with the combination of pioglitazone and Humalog Mix50 is considered.
+
 [Humalog Mix50 100 U/ml suspension for injection in cartridge]
 
 (all sentences already above)
@@ -52,6 +64,9 @@ Under no circumstances should Humalog Mix50 be given intravenously.
 [Humalog BASAL 100 U/ml suspension for injection in cartridge]
 
 Under no circumstances should Humalog BASAL be given intravenously.
+
+Combination of Humalog BASAL with pioglitazone:
+This should be kept in mind if treatment with the combination of pioglitazone and Humalog BASAL is considered.
 
 [Humalog Pen 100 U/ml, solution for injection]
 

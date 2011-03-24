@@ -10,6 +10,7 @@ Within muscle tissue this includes increasing glycogen, fatty acid, glycerol and
 
 Insulin lispro has a rapid onset of action (approximately 15 minutes), thus allowing it to be given closer to a meal (within zero to 15 minutes of the meal) when compared to regular insulin (30 to 45 minutes before).
 Insulin lispro takes effect rapidly and has a shorter duration of activity (2 to 5 hours) when compared to regular insulin.
+
 Clinical trials in patients with type 1 and type 2 diabetes have demonstrated reduced postprandial hyperglycaemia with insulin lispro compared to soluble human insulin.
 
 As with all insulin preparations, the time course of insulin lispro action may vary in different individuals or at different times in the same individual and is dependent on dose, site of injection, blood supply, temperature and physical activity.
@@ -41,7 +42,6 @@ In some studies, reduction of nocturnal hypoglycaemia was associated with increa
 
 The glucodynamic response to insulin lispro is not affected by renal or hepatic function impairment.
 Glucodynamic differences between insulin lispro and soluble human insulin, as measured during a glucose clamp procedure, were maintained over a wide range of renal function.
-
 Insulin lispro has been shown to be equipotent to human insulin on a molar basis but its effect is more rapid and of a shorter duration.
 
 [Humalog 100 U/ml, solution for injection in cartridge]
@@ -60,7 +60,6 @@ Clinical trials in patients with type 1 and type 2 diabetes have demonstrated re
 In one clinical study there was a small (0.38 mmol/l) increase in blood glucose levels at night (3a.m.).
 
 In the figure below the pharmacodynamics of Humalog Mix25 and BASAL are illustrated.
-
 Hypoglycemic Activity
 
 Humalog Mix25
