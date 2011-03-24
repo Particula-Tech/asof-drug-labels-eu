@@ -86,7 +86,7 @@ Proteinuria (see section 4.4)
 In clinical trials, proteinuria has been reported within the range of 0.7% to 38% of patients receiving Avastin.
 
 Proteinuria ranged in severity from clinically asymptomatic, transient, trace proteinuria to nephrotic syndrome, with the great majority as Grade 1 proteinuria.
-Grade 3 proteinuria was reported in < 3% of treated patients: however, in patients treated for advanced and/or metastatic renal cell carcinoma this was up to 7%.
+Grade 3 proteinuria was reported in < 3% of treated patients: however, in patients treated for advanced and/or metastatic renal cell carcinoma this was up to 7% in patients having minimal to no proteinuria at baseline.
 Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of treated patients.
 The proteinuria seen in clinical trials was not associated with renal dysfunction and rarely required permanent discontinuation of therapy.
 Testing for proteinuria is recommended prior to start of Avastin therapy.
@@ -128,7 +128,7 @@ In clinical trials, the overall incidence of arterial thromboembolic events rang
 Fatal outcome was reported in 0.8% of patients receiving Avastin compared to 0.5% in patients receiving chemotherapy alone.
 Cerebrovascular accidents (including transient ischemic attacks) were reported in up to 2.3% of patients treated with Avastin in combination with chemotherapy compared to 0.5% of patients treated with chemotherapy alone.
 Myocardial infarction was reported in 1.4% of patients treated with Avastin in combination with chemotherapy compared to 0.7% of patients treated with chemotherapy alone.
-In one clinical trial, AVF2192g, patients with metastatic colorectal cancer who were not candidates for treatment with irinotecan were included.
+In one clinical trial evaluating Avastin in combination with 5-fluorouracil/folinic acid, AVF2192g, patients with metastatic colorectal cancer who were not candidates for treatment with irinotecan were included.
 In this trial arterial thromboembolic events were observed in 11% (11/100) of patients compared to 5.8% (6/104) in the chemotherapy control group.
 
 Venous thromboembolism: The incidence of venous thromboembolic events in clinical trials was similar in patients receiving Avastin in combination with chemotherapy compared to those receiving the control chemotherapy alone.

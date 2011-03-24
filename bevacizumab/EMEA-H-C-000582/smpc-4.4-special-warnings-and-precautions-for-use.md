@@ -36,12 +36,12 @@ The safety of reinitiating Avastin therapy in patients previously experiencing R
 
 Proteinuria (see section 4.8)
 Patients with a history of hypertension may be at increased risk for the development of proteinuria when treated with Avastin.
-There is evidence suggesting that Grade 1 [US National Cancer Institute-Common Toxicity Criteria (NCI-CTC) version 2.0] proteinuria may be related to the dose.
+There is evidence suggesting that all Grade [US National Cancer Institute-Common Toxicity Criteria (NCI-CTC) version 3.0] proteinuria may be related to the dose.
 Monitoring of proteinuria by dipstick urinalysis is recommended prior to starting and during therapy.
 Therapy should be permanently discontinued in patients who develop Grade 4 proteinuria (nephrotic syndrome).
 
 Arterial thromboembolism (see section 4.8)
-In five randomised clinical trials, the incidence of arterial thromboembolic events including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs) was higher in patients receiving Avastin in combination with chemotherapy compared to those who received chemotherapy alone.
+In clinical trials, the incidence of arterial thromboembolic events including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs) was higher in patients receiving Avastin in combination with chemotherapy compared to those who received chemotherapy alone.
 
 Patients receiving Avastin plus chemotherapy, with a history of arterial thromboembolism or age greater than 65 years have an increased risk of developing arterial thromboembolic events during therapy.
 Caution should be taken when treating these patients with Avastin.
