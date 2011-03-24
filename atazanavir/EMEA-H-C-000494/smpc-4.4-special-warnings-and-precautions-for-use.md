@@ -2,6 +2,7 @@
 
 Patients should be advised that current antiretroviral therapy has not been proven to prevent the risk of transmission of HIV to others through blood or sexual contact.
 Appropriate precautions should continue to be employed.
+
 Co-administration of REYATAZ with ritonavir at doses greater than 100 mg once daily has not been clinically evaluated.
 The use of higher ritonavir doses may alter the safety profile of atazanavir
 (cardiac effects, hyperbilirubinaemia) and therefore is not recommended.
@@ -42,9 +43,7 @@ Knowledge about the mechanism is incomplete.
 A connection between visceral lipomatosis and protease inhibitors and lipoatrophy and nucleoside reverse transcriptase inhibitors has been hypothesised.
 A higher risk of lipodystrophy has been associated with individual factors such as older age, and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
 Clinical examination should include evaluation for physical signs of fat redistribution.
-
-Combination antiretroviral therapy (CART), including REYATAZ (with or without ritonavir)-based
-CART, is associated with dyslipidaemia.
+Combination antiretroviral therapy (CART), including REYATAZ (with or without ritonavir)-based CART, is associated with dyslipidaemia.
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate
 (see section 4.8).
@@ -92,9 +91,17 @@ If the co-administration of REYATAZ with an NNRTI is required, an increase in th
 Atazanavir is metabolised principally by CYP3A4.
 Co-administration of REYATAZ with ritonavir and medicinal products that induce CYP3A4 is not recommended (see sections 4.3 and 4.5).
 
+PDE5 inhibitors used for the treatment of erectile dysfunction: particular caution should be used when prescribing PDE5-inhibitors (sildenafil, tadalafil, or vardenafil) for the treatment of erectile dysfunction in patients receiving REYATAZ with concomitant low-dose ritonavir.
+Co-administration of REYATAZ with these medicinal products is expected to substantially increase their concentrations and may result in PDE5-associated adverse events such as hypotension, visual changes and priapism
+(see section 4.5).
+
 Co-administration of voriconazole and REYATAZ with ritonavir is not recommended unless an assessment of the benefit/risk justifies the use of voriconazole (see section 4.5).
+
 Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression
 (see section 4.5).
+
+Concomitant use of salmeterol and REYATAZ/ritonavir may result in increased cardiovascular adverse events associated with salmeterol.
+Co-administration of salmeterol and REYATAZ is not recommended (see section 4.5).
 
 The absorption of atazanavir may be reduced in situations where gastric pH is increased irrespective of cause.
 

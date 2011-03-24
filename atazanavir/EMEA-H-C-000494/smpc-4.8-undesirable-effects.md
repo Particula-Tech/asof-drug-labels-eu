@@ -10,8 +10,8 @@ Among patients receiving REYATAZ 300 mg with ritonavir 100 mg, the frequency of 
 In the majority of cases, jaundice was reported within a few days to a few months after the initiation of treatment (see section 4.4).
 
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy, and dorsocervical fat accumulation (buffalo hump).
-
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia, and hyperlactataemia (see sections 4.4 and 5.1).
+
 Adult patients
 The following adverse reactions of moderate intensity or greater with at least a possible relationship to regimens containing REYATAZ and one or more NRTIs have also been reported.
 The frequency of adverse reactions listed below is defined using the following convention: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000), or very rare (< 1/10,000).
@@ -64,6 +64,7 @@ Reproductive system and breast uncommon: gynaecomastia disorders:
 Psychiatric disorders: uncommon: depression, disorientation, anxiety, insomnia,
 
 sleep disorder, abnormal dream
+
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
