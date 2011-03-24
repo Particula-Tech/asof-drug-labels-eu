@@ -9,7 +9,6 @@ Tenofovir diphosphate has an intracellular half-life of 10 hours in activated an
 Tenofovir diphosphate inhibits HIV-1 reverse transcriptase and the HBV polymerase by direct binding competition with the natural deoxyribonucleotide substrate and, after incorporation into DNA, by DNA chain termination.
 Tenofovir diphosphate is a weak inhibitor of cellular polymerases α, β, and γ.
 At concentrations of up to 300 µmol/l, tenofovir has also shown no effect on the synthesis of mitochondrial DNA or the production of lactic acid in in vitro assays.
-
 Data pertaining to HIV:
 HIV antiviral activity in vitro: The concentration of tenofovir required for 50% inhibition (EC50) of the wild-type laboratory strain HIV-1IIIB is 1-6 µmol/l in lymphoid cell lines and 1.1 µmol/l against primary HIV-1 subtype B isolates in PBMCs.
 Tenofovir is also active against HIV-1 subtypes A, C, D, E, F, G, and O and against HIVBaL in primary monocyte/macrophage cells.
@@ -17,6 +16,7 @@ Tenofovir shows activity in vitro against HIV-2, with an EC50 of 4.9 µmol/l in 
 
 Resistance: Strains of HIV-1 with reduced susceptibility to tenofovir and a K65R mutation in reverse transcriptase have been selected in vitro and in some patients (see Clinical results).
 Tenofovir disoproxil fumarate should be avoided in antiretroviral experienced patients with strains harbouring the K65R mutation (see section 4.4).
+
 Clinical studies in treatment-experienced patients have assessed the anti-HIV activity of tenofovir disoproxil 245 mg (as fumarate) against strains of HIV-1 with resistance to nucleoside inhibitors.
 The results indicate that patients whose HIV expressed 3 or more thymidine-analogue associated mutations (TAMs) that included either the M41L or L210W reverse transcriptase mutation showed reduced response to tenofovir disoproxil 245 mg (as fumarate) therapy.
 
@@ -39,7 +39,6 @@ Forty-three percent of patients had baseline viral loads > 100,000 copies/ml and
 
 By intent to treat analysis (Missing data and switch in antiretroviral therapy (ART) considered as failure), the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml at 48 weeks of treatment was 80% and 76% respectively in the tenofovir disoproxil 245 mg (as fumarate) arm, compared to 84% and 80% in the stavudine arm.
 At 144 weeks, the proportion of patients with HIV-1 RNA below 400 copies/ml and 50 copies/ml was 71% and 68% respectively in the tenofovir disoproxil 245 mg (as fumarate) arm, compared to 64% and 63% in the stavudine arm.
-
 The average change from baseline for HIV-1 RNA and CD4 count at 48 weeks of treatment was similar in both treatment groups (-3.09 and -3.09 log10 copies/ml; +169 and 167 cells/mm3 in the tenofovir disoproxil 245 mg (as fumarate) and stavudine groups, respectively).
 At 144 weeks of treatment, the average change from baseline remained similar in both treatment groups (-3.07 and -3.03 log10 copies/ml; +263 and +283 cells/mm3 in the tenofovir disoproxil 245 mg (as fumarate) and stavudine groups, respectively).
 A consistent response to treatment with tenofovir disoproxil 245 mg (as fumarate) was seen regardless of baseline HIV-1 RNA and CD4 count.
@@ -70,8 +69,8 @@ Study GS-US-174-0103 was conducted in 266 (randomised and treated) HBeAg positiv
 In both of these studies tenofovir disoproxil fumarate was significantly superior to adefovir dipivoxil for the primary efficacy endpoint of complete response (defined as HBV DNA levels < 400 copies/ml and Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis).
 Treatment with tenofovir disoproxil 245 mg (as fumarate) was also associated with significantly greater proportions of patients with HBV DNA < 400 copies/ml, when compared to adefovir dipivoxil 10 mg treatment.
 Both treatments produced similar results with regard to histological response (defined as Knodell necroinflammatory score improvement of at least 2 points without worsening in Knodell fibrosis) at week 48 (see Table 3 below).
-
 In study GS-US-174-0103 a significantly greater proportion of patients in the tenofovir disoproxil fumarate group than in the adefovir dipivoxil group had normalised ALT and achieved HBsAg loss at week 48 (see Table 3 below).
+
 Table 3: Efficacy parameters in compensated HBeAg positive and HBeAg negative patients at week 48
 
 |  | Study 174-0102 (HBeAg negative) |  | Study 174-0103 (HBeAg positive) |  |
@@ -116,7 +115,6 @@ a Based upon Long Term Evaluation algorithm (LTE Analysis) - Patients who discon
 Experience in patients with HIV co-infection and prior lamivudine experience: In a randomised, 48-week double-blind, controlled study of tenofovir disoproxil 245 mg (as fumarate) in patients co-infected with HIV-1 and chronic hepatitis B with prior lamivudine experience (study ACTG 5127), the mean serum HBV DNA levels at baseline in patients randomised to the tenofovir arm were 9.45 log10 copies/ml (n = 27).
 Treatment with tenofovir disoproxil 245 mg (as fumarate) was associated with a mean change in serum HBV DNA from baseline, in the patients for whom there was 48-week data, of -5.74 log10 copies/ml (n = 18).
 In addition, 61% of patients had normal ALT at week 48.
-
 Experience in patients with persistent viral replication: The efficacy and safety of tenofovir disoproxil 245 mg (as fumarate) or tenofovir disoproxil 245 mg (as fumarate) plus 200 mg emtricitabine has been evaluated in a randomised, double-blind study (study GS-US-174-0106), in HBeAg positive and HBeAg negative patients who had persistent viraemia (HBV DNA ≥ 1,000 copies/ml) while receiving adefovir dipivoxil 10 mg for more than 24 weeks.
 At baseline, 57% of patients randomised to tenofovir disoproxil fumarate versus 60% of patients randomised to emtricitabine plus tenofovir disoproxil fumarate treatment group had previously been treated with lamivudine.
 Overall at week 24, treatment with tenofovir disoproxil fumarate resulted in 66% (35/53) of patients with HBV DNA
@@ -157,3 +155,21 @@ HBV DNA > 400 copies/ml at week 48 (n = 39), week 96 (n = 24) and week 144 (n = 
 In study GS-US-174-0108, 45 patients (including 9 patients with lamivudine and/or adefovir dipivoxil resistance mutations at baseline) received tenofovir disoproxil fumarate for up to 48 weeks.
 Genotypic data from paired baseline and on treatment HBV isolates were available for 6/8 patients with HBV DNA > 400 copies/ml.
 No amino acid substitutions associated with resistance to tenofovir disoproxil fumarate were identified in these isolates.
+
+Paediatric population: In study GS-US-104-0321, 87 HIV-1 infected treatment-experienced patients 12 to < 18 years of age were treated with tenofovir disoproxil fumarate (n = 45) or placebo (n = 42) in combination with an optimised background regimen (OBR) for 48 weeks.
+The mean baseline
+CD4 cell count was 374 cells/mm3 and the mean baseline plasma HIV-1 RNA was 4.6 log10 copies/ml.
+The primary efficacy endpoint was time-weighted average change from baseline through week 24 (DAVG24) in plasma HIV-1 RNA.
+No additional benefit over OBR was observed with the addition of tenofovir disoproxil fumarate compared to placebo (DAVG24 -1.58 log10 copies/ml versus
+-1.55 log10 copies/ml respectively, p = 0.55).
+K65R developed in 1 subject in the tenofovir disoproxil fumarate group.
+
+In patients who received treatment with tenofovir disoproxil fumarate or placebo, mean lumbar spine BMD Z-score was -1.004 and -0.809, and mean total body BMD Z-score was -0.866 and -0.584, respectively, at baseline.
+Mean changes at week 48 (end of double-blind phase) were -0.215 and -0.165 in lumbar spine BMD Z-score, and -0.254 and -0.179 in total body BMD Z-score for the tenofovir disoproxil fumarate and placebo groups, respectively.
+The mean rate of BMD gain was less in the tenofovir disoproxil fumarate group compared to the placebo group.
+At week 48, six adolescents in the tenofovir disoproxil fumarate group and one adolescent in the placebo group had significant lumbar spine BMD loss (defined as > 4% loss).
+Among 28 patients receiving 96 weeks of treatment with tenofovir disoproxil fumarate, BMD Z-scores declined by -0.341 for lumbar spine and -0.458 for total body.
+
+The efficacy and safety data derived from this study do not support the use of Viread in adolescents.
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with tenofovir disoproxil fumarate in one or more subsets of the paediatric population in HIV and chronic hepatitis B (see section 4.2 for information on paediatric use).
