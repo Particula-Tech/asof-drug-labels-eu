@@ -37,7 +37,7 @@ Table 1 Effects of other active substances on everolimus
 | Corticosteroids (e.g. dexamethasone, prednisone, prednisolone) | Not studied. Decreased exposure expected. |  |
 | Carbamazepine, phenobarbital, phenytoin | Not studied. Decreased exposure expected. |  |
 | Efavirenz, nevirapine | Not studied. Decreased exposure expected. |  |
-| St John’s Wort (Hypericum perforatum) | Not studied. Large decrease in exposure expected. | Preparations containing St John’s Wort should not be used during treatment with everolimus |
+| St John’s Wort (Hypericum perforatum) | Not studied. Large decrease in exposure expected. | Preparations containing St John‟s Wort should not be used during treatment with everolimus |
 
 Agents whose plasma concentration may be altered by everolimus
 Based on in vitro results, the systemic concentrations obtained after oral daily doses of 10 mg make inhibition of PgP, CYP3A4 and CYP2D6 unlikely.
