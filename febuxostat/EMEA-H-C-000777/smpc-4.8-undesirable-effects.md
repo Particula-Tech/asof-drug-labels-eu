@@ -25,7 +25,7 @@ Table 1: Treatment related adverse reactions in combined phase 3 randomized cont
 
 | Blood and lymphatic system disorders | Rare Pancytopenia |
 | --- | --- |
-| Metabolism and nutrition disorders | Common*** Gout flares Uncommon Decrease appetite Rare Weight increase/decrease, increase appetite, anorexia, hyperlipidemia |
+| Metabolism and nutrition disorders | Common** Gout flares Uncommon Decrease appetite Rare Weight increase/decrease, increase appetite, anorexia, hyperlipidemia |
 | Psychiatric disorders | Uncommon Libido decreased, insomnia Rare Nervousness |
 | Nervous system disorders | Common Headache Uncommon Dizziness, paraesthesia, somnolence, altered taste, hypoaesthesia |
 | Ear and labyrinth disorders | Rare Tinnitus |
@@ -34,17 +34,15 @@ Table 1: Treatment related adverse reactions in combined phase 3 randomized cont
 | Respiratory system disorders | Uncommon Dyspnoea, upper respiratory tract infection |
 | Gastrointestinal disorders | Common Diarrhoea*, nausea Uncommon: Abdominal pain, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort Rare Pancreatitis, mouth ulceration |
 | Hepato-biliary disorders | Common Liver function abnormalities* |
-| Skin and subcutaneous tissue disorders | Common Rash** Uncommon Dermatitis, urticaria, pruritus Rare Alopecia, hyperhidrosis |
-| Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, myalgia, musculoskeletal pain, muscle weakness, muscle spasm |
-|  | Rare Arthritis, joint stiffness, musculoskeletal stiffness |
+| Skin and subcutaneous tissue disorders | Common Rash Uncommon Dermatitis, urticaria, pruritus Rare Alopecia, hyperhidrosis |
+| Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, myalgia, musculoskeletal pain, muscle weakness, muscle spasm Rare Arthritis, joint stiffness, musculoskeletal stiffness |
 | Renal and urinary disorders | Uncommon Nephrolithiasis, haematuria, pollakiuria, renal failure Rare Micturition urgency |
 | Reproductive system and breast disorder | Rare Erectile dysfunction |
 | General disorders and administration site conditions | Uncommon Fatigue, oedema, chest pain, chest discomfort Rare Thirst |
 | Investigations | Uncommon Blood amylase increase, platelet count decrease, blood creatinine increase, haemoglobin decrease, blood urea increase, blood triglycerides increase, blood cholesterol increase, haematocritic decrease, blood lactate dehydrogenase increased Rare Blood glucose increase, activated partial thromboplastin time prolonged, red blood cell count decrease, blood alkaline phosphatase increase |
 
 * Treatment-emergent non-infective diarrhoea and abnormal liver function tests in the combined Phase III studies are more frequent in patients concomitantly treated with colchicine.
-** No serious rashes or severe hypersensitivity reactions were noted in the clinical studies.
-*** See section 5.1 for incidences of gout flares in the individual Phase 3 randomized controlled studies.
+** See section 5.1 for incidences of gout flares in the individual Phase 3 randomized controlled studies.
 
 Long-term open label extension studies
 In the long-term open label extension studies (1143 patients), the number of patients treated with febuxostat 40 mg/80 mg/120 mg up to 1 year was 909, up to 2 years was 781, up to 3 years was 348, and up to 4 and 5 years was 60.
@@ -54,6 +52,11 @@ The most commonly reported treatment-related events (investigator assessment) ar
 The following treatment-related events were reported more than once in the total febuxostat treatment group and were reported as uncommon in patients taking febuxostat 40 mg/80 mg/120 mg in long-term extension studies (up to 5 years, >2,660 Patient-years of exposure).
 These treatment-related events were either not reported or reported at a lower frequency for these doses, in the combined Phase 3 studies: abdominal distension, cholelithiasis, bronchitis, weight increase, blood creatine increase, diabetes mellitus, hyperlipidaemia, arthritis, muscle tightness, hyposmia, hemiparesis, cough, skin discolouration, skin lesion, bursitis, proteinuria, petechiae, erectile dysfunction, blood potassium increase, blood TSH increase, lymphocyte count decreased, WBC decrease.
 
+Adverse reactions from spontaneous reporting
+There have been post-marketing reports of rare serious rashes, generalised skin rashes and severe hypersensitivity reactions.
+In most cases, these reactions occurred during the first month of therapy with febuxostat.
+Some of these patients, but not all, reported previous hypersensitivity to allopurinol.
+
 [ADENURIC 120 mg film-coated tablets]
 
 In randomised controlled phase 3 clinical studies, >2,500 patients have been treated with 40 mg to 120 mg (1513 subject enrolled in a 26-week study (CONFIRMS), 536 subjects enrolled in a 28-week study (APEX) and 507 subjects enrolled in a 52-weeks study (FACT)).
@@ -62,7 +65,7 @@ The most commonly reported ADRs (investigator assessment) are liver function abn
 
 | Blood and lymphatic system disorders | Rare Pancytopenia |
 | --- | --- |
-| Metabolism and nutrition disorders | Common*** Gout flares Uncommon Decrease appetite Rare Weight increase/decrease, increase appetite, anorexia, hyperlipidemia |
+| Metabolism and nutrition disorders | Common** Gout flares Uncommon Decrease appetite Rare Weight increase/decrease, increase appetite, anorexia, hyperlipidemia |
 | Psychiatric disorders | Uncommon Libido decreased, insomnia Rare Nervousness |
 | Nervous system disorders | Common Headache Uncommon Dizziness, paraesthesia, somnolence, altered taste, hypoaesthesia |
 | Ear and labyrinth disorders | Rare Tinnitus |
@@ -71,9 +74,8 @@ The most commonly reported ADRs (investigator assessment) are liver function abn
 | Respiratory system disorders | Uncommon Dyspnoea, upper respiratory tract infection |
 | Gastrointestinal disorders | Common Diarrhoea*, nausea Uncommon: Abdominal pain, gastro-oesophageal reflux disease, vomiting, dry mouth, dyspepsia, constipation, frequent stools, flatulence, gastrointestinal discomfort Rare Pancreatitis, mouth ulceration |
 | Hepato-biliary disorders | Common Liver function abnormalities* |
-| Skin and subcutaneous tissue disorders | Common Rash** Uncommon Dermatitis, urticaria, pruritus Rare Alopecia, hyperhidrosis |
-| Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, myalgia, musculoskeletal pain, muscle weakness, muscle spasm |
-|  | Rare Arthritis, joint stiffness, musculoskeletal stiffness |
+| Skin and subcutaneous tissue disorders | Common Rash Uncommon Dermatitis, urticaria, pruritus Rare Alopecia, hyperhidrosis |
+| Musculoskeletal and connective tissue disorders | Uncommon Arthralgia, myalgia, musculoskeletal pain, muscle weakness, muscle spasm Rare Arthritis, joint stiffness, musculoskeletal stiffness |
 | Renal and urinary disorders | Uncommon Nephrolithiasis, haematuria, pollakiuria, renal failure Rare Micturition urgency |
 | Reproductive system and breast disorder | Rare Erectile dysfunction |
 | General disorders and administration site conditions | Uncommon Fatigue, oedema, chest pain, chest discomfort Rare Thirst |

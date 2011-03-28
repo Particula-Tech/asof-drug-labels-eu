@@ -23,7 +23,7 @@ Febuxostat should be used with caution in patients concomitantly treated with th
 
 Liver disorders
 During the combined phase 3 clinical studies, mild liver function test abnormalities were observed in patients treated with febuxostat (5.0%).
-Liver function test is recommended prior to the initiation of therapy with febuxostat and periodically thereafter based on clinical judgment (see section 5.1).
+Liver function test is recommended prior to the initiation of therapy with febuxostat and periodically thereafter based on clinical judgement (see section 5.1).
 
 Thyroid disorders
 Increased TSH values (>5.5 µIU/ml) were observed in patients on long-term treatment with febuxostat (5.5%) in the long term open label extension studies.
@@ -36,5 +36,3 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 [ADENURIC 120 mg film-coated tablets]
 
 As with other urate lowering medicinal products, gout flares may occur during initiation of treatment due to changing serum uric acid levels resulting in mobilization of urate from tissue deposits (see sections 4.8 and 5.1).
-
-Liver function test is recommended prior to the initiation of therapy with febuxostat and periodically thereafter based on clinical judgement (see section 5.1).

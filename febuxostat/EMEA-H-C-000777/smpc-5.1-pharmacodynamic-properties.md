@@ -74,6 +74,7 @@ BL=baseline SEM=standard error of the mean
 Note: 509 patients received allopurinol 300 mg QD; 10 patients with serum creatinine >1.5 and < 2.0 mg/dl were dosed with 100 mg QD.
 (10 patients out of 268 in APEX study).
 240 mg febuxostat was used to evaluate the safety of febuxostat at twice the recommended highest dose.
+
 CONFIRMS Study: The CONFIRMS study was a Phase 3, randomized, controlled, 26-week study to evaluate the safety and efficacy of febuxostat 40 mg and 80 mg, in comparison with allopurinol 300 mg or 200 mg, in patients with gout and hyperuricaemia.
 Two thousand and two hundred-sixty nine (2269) patients were randomized: ADENURIC 40 mg QD (n=757), ADENURIC 80 mg QD (n=756), or allopurinol 300/200 mg QD (n=756).
 At least 65% of the patients had mild-moderate renal impairment (with creatinine clearance of 30-89 mL/min).
@@ -106,7 +107,6 @@ After the 8-week prophylaxis period, the incidences of flares increased and grad
 Gout flares during the last 4 weeks of the study (Weeks 49-52) were observed in 6-8% (febuxostat 80 mg, 120 mg) and 11% (allopurinol 300 mg) of subjects.
 
 The proportion of subjects requiring treatment for a gout flare (APEX and FACT Study) was numerically lower in the groups that achieved an average post-baseline serum urate level <6.0 mg/dl, <5.0 mg/dl, or <4.0 mg/dl compared to the group that achieved an average post-baseline serum urate level ≥6.0 mg/dl during the last 32 weeks of the treatment period (Week 20-Week 24 to Week 49 - 52 intervals).
-
 During the CONFIRMS study, the percentages of patients who required treatment for gout flares (Day 1 through Month 6) were 31% and 25% for the febuxostat 80 mg and allopurinol groups, respectively.
 No difference in the proportion of patients requiring treatment for gout flares was observed between the febuxostat 80 mg and 40 mg groups.
 
