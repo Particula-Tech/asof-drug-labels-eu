@@ -1,6 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 A number of medicinal products are known to interact with the glucose metabolism.
+
 The following substances may reduce the patient's insulin requirements:
 Oral antidiabetic medicinal products, monoamine oxidase inhibitors (MAOI), beta-blockers, angiotensin converting enzyme (ACE) inhibitors, salicylates, anabolic steroids and sulphonamides.
 

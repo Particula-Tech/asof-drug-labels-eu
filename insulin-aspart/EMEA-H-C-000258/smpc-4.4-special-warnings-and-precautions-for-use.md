@@ -38,6 +38,13 @@ Continuous rotation of the injection site within a given area may help to reduce
 Reactions usually resolve in a few days to a few weeks.
 On rare occasions, injection site reactions may require discontinuation of NovoRapid.
 
+Combination of NovoRapid with pioglitazone
+
+Cases of cardiac failure have been reported when pioglitazone was used in combination with insulin, especially in patients with risk factors for development of cardiac heart failure.
+This should be kept in mind if treatment with the combination of pioglitazone and NovoRapid is considered.
+If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema.
+Pioglitazone should be discontinued if any deterioration in cardiac symptoms occurs.
+
 [NovoRapid Penfill 100 U/ml solution for injection in cartridge.]
 
 (all sentences already above)

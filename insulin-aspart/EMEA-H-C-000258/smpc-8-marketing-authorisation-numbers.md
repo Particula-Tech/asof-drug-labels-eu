@@ -19,6 +19,8 @@ EU/1/99/119/007
 EU/1/99/119/009
 EU/1/99/119/010
 EU/1/99/119/011
+EU/1/99/119/017
+EU/1/99/119/018
 
 [NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
 

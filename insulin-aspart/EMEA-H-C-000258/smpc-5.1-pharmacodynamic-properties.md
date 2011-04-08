@@ -15,7 +15,6 @@ Fig. I. Blood glucose concentrations following a single pre-meal dose of NovoRap
 When NovoRapid is injected subcutaneously, the onset of action will occur within 10 to 20 minutes of injection.
 The maximum effect is exerted between 1 and 3 hours after injection.
 The duration of action is 3 to 5 hours.
-
 Adults
 Clinical trials in patients with type 1 diabetes have demonstrated a lower postprandial blood glucose with NovoRapid compared to soluble human insulin (Fig.
 I). In two long-term open label trials in patients with type 1 diabetes comprising 1070 and 884 patients, respectively, NovoRapid reduced glycosylated haemoglobin by 0.12 [95% C.I.

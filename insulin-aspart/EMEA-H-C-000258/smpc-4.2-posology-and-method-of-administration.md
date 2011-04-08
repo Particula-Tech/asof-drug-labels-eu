@@ -66,7 +66,7 @@ Monitoring of blood glucose is necessary during insulin infusion.
 [NovoRapid Penfill 100 U/ml solution for injection in cartridge.]
 
 Administration with an insulin delivery system:
-NovoRapid Penfill is designed to be used with Novo Nordisk insulin delivery systems and NovoFine needles.
+NovoRapid Penfill is designed to be used with Novo Nordisk insulin delivery systems and NovoFine or NovoTwist needles.
 NovoRapid Penfill is accompanied by a package leaflet with detailed instruction for use to be followed.
 
 [NovoRapid NovoLet 100 U/ml solution for injection in pre-filled pen.]

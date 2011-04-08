@@ -13,7 +13,6 @@ Children and adolescent
 The pharmacokinetic and pharmacodynamic properties of NovoRapid were investigated in children (6–12 years) and adolescents (13–17 years) with type 1 diabetes.
 Insulin aspart was rapidly absorbed in both age groups, with similar tmax as in adults.
 However, Cmax differed between the age groups, stressing the importance of the individual titration of NovoRapid.
-
 Elderly
 The relative differences in pharmacokinetic properties between insulin aspart and soluble human insulin in elderly subjects (65-83 years, mean age 70 years) with type 2 diabetes were similar to those observed in healthy subjects and in younger subjects with diabetes.
 A decreased absorption rate was observed in elderly subjects, resulting in a later tmax (82 (interquartile range: 60-120) minutes), whereas Cmax was similar to that observed in younger subjects with type 2 diabetes and slightly lower than in subjects with type 1 diabetes.
