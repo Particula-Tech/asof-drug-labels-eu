@@ -29,7 +29,7 @@ These elevations are transient and return to baseline.
 
 Isolated cases of sickle cell crises have been reported in patients with sickle cell disease (see section 4.4).
 
-Paediatric Patients
+UPaediatric Patients
 
 A higher frequency of serious adverse events in younger children aged 0-5 years (92%) has been observed compared to older children aged 6-11 and 12-21 years respectively (80% and 67%) and adults.
 The most common adverse study medicinal product reaction was bone pain (see section 5.1 and 5.2).

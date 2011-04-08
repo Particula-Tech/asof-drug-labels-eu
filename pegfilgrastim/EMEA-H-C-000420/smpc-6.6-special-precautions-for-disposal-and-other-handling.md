@@ -7,11 +7,3 @@ Excessive shaking may aggregate pegfilgrastim, rendering it biologically inactiv
 
 Allow the pre-filled syringe to reach room temperature before injecting.
 Any unused product or waste material should be disposed of in accordance with local requirements.
-
-[Neulasta 6 mg solution for injection in a pre-filled pen.]
-
-The carton contains a package leaflet with the full instructions for use and handling.
-
-Each pen may only be used once.
-
-Allow the pre-filled pen to reach room temperature before injecting.

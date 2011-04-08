@@ -14,7 +14,3 @@ Excipients:
 Excipients known to have a recognised action: sorbitol E420, sodium acetate (see section 4.4).
 
 For a full list of excipients, see section 6.1.
-
-[Neulasta 6 mg solution for injection in a pre-filled pen.]
-
-Each pre-filled pen contains 6 mg of pegfilgrastim* in 0.6 ml solution for injection.
