@@ -50,14 +50,13 @@ If there is evidence of exacerbations of liver disease in such patients, interru
 
 Patients co-infected with hepatitis B virus (HBV): Emtricitabine is active in vitro against HBV.
 However, limited data are available on the efficacy and safety of emtricitabine (as a 200 mg hard capsule once daily) in patients who are co-infected with HIV and HBV.
-The use of emtricitabine in patients with chronic HBV induces the same mutation pattern in the YMDD motif observed with lamivudine therapy.
+The use of emtricitabine in patient with chronic HBV induces the same mutation pattern in the YMDD motif observed with lamivudine therapy.
 The YMDD mutation confers resistance to both emtricitabine and lamivudine.
 
 Patients co-infected with HIV and HBV should be closely monitored with both clinical and laboratory follow-up for at least several months after stopping treatment with emtricitabine for evidence of exacerbations of hepatitis.
 Such exacerbations have been seen following discontinuation of emtricitabine treatment in HBV infected patients without concomitant HIV infection and have been detected primarily by serum alanine aminotransferase (ALT) elevations in addition to re-emergence of HBV DNA.
 In some of these patients, HBV reactivation was associated with more severe liver disease, including decompensation and liver failure.
 There is insufficient evidence to determine whether re-initiation of emtricitabine alters the course of post-treatment exacerbations of hepatitis.
-In patients with advanced liver disease or cirrhosis, treatment discontinuation is not recommended since post-treatment exacerbations of hepatitis may lead to hepatic decompensation.
 
 Mitochondrial dysfunction: Nucleoside and nucleotide analogues have been demonstrated in vitro and in vivo to cause a variable degree of mitochondrial damage.
 There have been reports of mitochondrial dysfunction in HIV negative infants exposed in utero and/or postnatally to nucleoside analogues.
@@ -70,7 +69,7 @@ These findings do not affect current national recommendations to use antiretrovi
 
 Immune Reactivation Syndrome: In HIV infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
-Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis jirovecii pneumonia.
+Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis carinii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
 Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
