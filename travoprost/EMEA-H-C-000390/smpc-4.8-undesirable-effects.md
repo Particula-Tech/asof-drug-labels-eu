@@ -26,11 +26,11 @@ Nervous system disorder Common headache
 
 Uncommon dysgeusia, dizziness, visual field defect
 
-Eye disorders Very common conjunctival hyperaemia, ocular hyperaemia, iris
+Eye disorders Very common ocular hyperaemia, iris hyperpigmentation
 
-hyperpigmentation
-Common punctate keratitis, anterior chamber cell, anterior chamber flare, eye pain, photophobia, eye discharge, ocular discomfort, eye irritation, abnormal sensation in eye, foreign body sensation in eyes, visual acuity reduced, vision blurred, dry eye, eye pruritus, lacrimation increased, erythema of eyelid, eyelid oedema, eyelids pruritus, growth of eyelashes, eyelash discolouration
-Uncommon macular degeneration, corneal erosion, iridocyclitis, iritis, uveitis, keratitis, anterior chamber inflammation, eye inflammation, eye swelling, corneal staining, photopsia, blepharitis, conjunctival oedema, corneal epithelium defect, halo vision, corneal pigmentation, conjunctivitis allergic, conjunctival disorder, conjunctivitis, conjunctival follicles, hypoaesthesia eye, meibomianitis, ectropion, keratoconjunctivitis sicca, sicca syndrome, pigment dispersion syndrome, anterior chamber pigmentation, mydriasis, cataract, eye allergy, eyelid pain, dark circles under eyes, eyelid disorder, eyelid margin crusting, scleral hyperaemia, asthenopia
+Common punctate keratitis, anterior chamber inflammation, eye pain, photophobia, eye discharge, ocular discomfort, visual acuity reduced, vision blurred, dry eye, eye pruritus, lacrimation increased, erythema of eyelid, eyelid oedema, growth of eyelashes, eyelash discolouration
+
+Uncommon corneal erosion, uveitis, keratitis, eye inflammation, photopsia, blepharitis, conjunctival oedema, halo vision, conjunctivitis, conjunctival follicles, hypoaesthesia eye, meibomianitis, ectropion, anterior chamber pigmentation, mydriasis, cataract, eyelid margin crusting, asthenopia
 
 Cardiac disorders Uncommon heart rate irregular, palpitations, heart rate
 
@@ -75,11 +75,11 @@ Nervous system disorders Uncommon headache
 Eye disorders Very common ocular hyperaemia
 Common punctate keratitis, eye pain, photophobia,
 
-eye irritation, foreign body sensation in eyes, dry eye, eye pruritus, conjunctival hyperaemia
+ocular discomfort, dry eye, eye pruritus.
 
 Uncommon visual acuity reduced, lacrimation increased,
 
-eyelids pruritus, erythema of eyelid, eyelid margin crusting
+erythema of eyelid, eyelid margin crusting
 
 Gastrointestinal disorders Uncommon dry mouth
 Skin and subcutaneous tissue Common skin hyperpigmentation, skin
