@@ -1,6 +1,7 @@
 # 5.3 Preclinical safety data
 
 The toxicity of NutropinAq has been tested in rats and monkeys and no findings of toxicological relevance were revealed.
+Carcinogenecity, mutagenicity and reproduction studies have not been conducted with NutropinAq.
 
 Due to its hormonal activity, somatropin may exert a promotional effect on tumour growth in tumour-bearing subjects.
 To date, this has not been confirmed in patients.

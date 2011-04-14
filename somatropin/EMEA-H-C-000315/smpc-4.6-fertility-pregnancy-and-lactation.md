@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 For NutropinAq, no clinical data on exposed pregnancies are available.
 Thus, the risk for humans is unknown.

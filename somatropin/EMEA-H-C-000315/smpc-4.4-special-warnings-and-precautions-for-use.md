@@ -9,11 +9,12 @@ Childhood-onset: Patients who have had growth hormone deficiency as a child shou
 
 In patients with previous malignant disease, special attention should be given to signs and symptoms of relapse.
 
-Patients with a history of an intracranial lesion should be examined frequently for progression or recurrence of the lesion.
+Patients with pre-existing tumours or growth hormone deficiency secondary to an intracranial lesion should be examined routinely for progression or recurrence of the underlying disease process.
+In childhood cancer survivors, an increased risk of a second neoplasm has been reported in patients treated with somatropin after their first neoplasm.
+Intracranial tumours, in particular meningiomas, in patients treated with radiation to the head for their first neoplasm, were the most common of these second neoplasms.
 
 NutropinAq is not indicated for the long-term treatment of paediatric patients who have growth failure due to genetically confirmed Prader-Willi syndrome, unless they also have a diagnosis of growth hormone deficiency.
 There have been reports of sleep apnoea and sudden death after initiating therapy with growth hormone in paediatric patients with Prader-Willi syndrome who had one or more of the following risk factors: severe obesity, history of upper airway obstruction or sleep apnoea, or unidentified respiratory infection.
-
 The effects of growth hormone on recovery were studied in two placebo-controlled clinical trials involving 522 adult patients who were critically ill due to complications following open-heart or abdominal surgery, multiple accidental traumas, or who were having acute respiratory failure.
 Mortality was higher (41.9 % vs. 19.3 %) among growth hormone treated patients (doses 5.3 - 8 mg/day) compared to those receiving placebo.
 
@@ -31,6 +32,7 @@ However, growth hormone treatment has not been shown to increase the incidence o
 Because somatropin may reduce insulin sensitivity, patients should be monitored for evidence of glucose intolerance.
 For patients with diabetes mellitus, the insulin dose may require adjustment after NutropinAq therapy is instituted.
 Patients with diabetes or glucose intolerance should be monitored closely during somatropin therapy.
+Somatropin therapy is not indicated in diabetic patients with active proliferative or severe non-proliferative retinopathy.
 
 Intracranial hypertension with papilloedema, visual changes, headache, nausea and/or vomiting has been reported in a small number of patients treated with somatropin.
 Symptoms usually occur within the first eight weeks of the initiation of NutropinAq therapy.
@@ -46,3 +48,10 @@ Since somatropin therapy following renal transplantation has not been adequately
 Concomitant treatment with glucocorticoids inhibits the growth-promoting effects of NutropinAq.
 Patients with ACTH deficiency should have their glucocorticoid replacement therapy carefully adjusted to avoid any inhibitory effect on growth.
 The use of NutropinAq in patients with chronic renal insufficiency receiving glucocorticoid therapy has not been evaluated.
+
+Leukaemia has been reported in a small number of growth hormone deficient patients treated with growth hormone.
+A causal relationship to somatropin therapy has not been established.
+
+Pancreatitis in children
+Children treated with somatropin have an increased risk of developing pancreatitis compared to adults treated with somatropin.
+Although rare, pancreatitis should be considered in somatropin-treated children who develop abdominal pain.

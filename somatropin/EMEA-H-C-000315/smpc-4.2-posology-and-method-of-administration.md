@@ -4,7 +4,7 @@ Diagnosis and therapy with somatropin should be initiated and monitored by physi
 
 The NutropinAq dosage and administration schedule should be individualised for each patient.
 
-Dosage
+Posology
 
 Growth failure in children due to inadequate growth hormone secretion:
 0.025 - 0.035 mg/kg bodyweight given as a daily subcutaneous injection.
@@ -25,7 +25,7 @@ The recommended final dose seldom exceeds 1.0 mg/day.
 In general, the lowest efficacious dose should be administered.
 In older or overweight patients, lower doses may be necessary.
 
-Administration
+Method of administration
 
 The solution for injection should be administered subcutaneously each day.
 The site of injection should be changed.
