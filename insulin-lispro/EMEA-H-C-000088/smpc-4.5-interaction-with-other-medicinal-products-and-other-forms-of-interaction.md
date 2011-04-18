@@ -4,7 +4,7 @@ Insulin requirements may be increased by medicinal products with hyperglycaemic 
 
 Insulin requirements may be reduced in the presence of medicinal products with hypoglycaemic activity, such as oral hypoglycaemics, salicylates (for example, acetylsalicylic acid), sulpha antibiotics, certain antidepressants (monoamine oxidase inhibitors, selective serotonin reuptake inhibitors), certain angiotensin converting enzyme inhibitors (captopril, enalapril), angiotensin II receptor blockers, beta-blockers, octreotide or alcohol.
 
-The physician should be consulted when using other medications in addition to Humalog.
+The physician should be consulted when using other medications in addition to Humalog (see section 4.4).
 
 [Humalog 100 U/ml, solution for injection in cartridge]
 
@@ -15,9 +15,10 @@ The physician should be consulted when using other medications in addition to Hu
 Insulin requirements may be increased by substances with hyperglycaemic activity, such as oral contraceptives, corticosteroids, or thyroid replacement therapy, danazol, beta2 stimulants (such as ritodrine, salbutamol, terbutaline).
 
 Insulin requirements may be reduced in the presence of substances with hypoglycaemic activity, such as oral hypoglycaemics, salicylates (for example, acetylsalicylic acid), sulphate antibiotics, certain antidepressants (monoamine oxidase inhibitors, selective serotonin reuptake inhibitors), certain angiotensin converting enzyme inhibitors (captopril, enalapril), angiotensin II receptor blockers, beta-blockers, octreotide or alcohol.
+
 Mixing Humalog Mix25 with other insulins has not been studied.
 
-The physician should be consulted when using other medications in addition to Humalog Mix25.
+The physician should be consulted when using other medications in addition to Humalog Mix25 (see section 4.4).
 
 [Humalog Mix25 100 U/ml suspension for injection in cartridge]
 
@@ -26,9 +27,10 @@ Insulin requirements may be reduced in the presence of substances with hypoglyca
 [Humalog Mix50 100 U/ml suspension for injection in vial]
 
 Insulin requirements may be reduced in the presence of substances with hypoglycaemic activity, such as oral hypoglycaemics, salicylates (for example, acetylsalicylic acid), sulphate antibiotics, certain antidepressants (monoamine oxidase inhibitors, selective serotonin reuptake inhibitors), certain angiotensin converting enzyme inhibitors (captopril, enalapril), angiotensin II receptor blockers, beta-blockers, octreotide, or alcohol.
+
 Mixing Humalog Mix50 with other insulins has not been studied.
 
-The physician should be consulted when using other medications in addition to Humalog Mix50.
+The physician should be consulted when using other medications in addition to Humalog Mix50 (see section 4.4).
 
 [Humalog Mix50 100 U/ml suspension for injection in cartridge]
 
@@ -38,13 +40,13 @@ Insulin requirements may be reduced in the presence of substances with hypoglyca
 
 Mixing Humalog BASAL with insulins other than Humalog has not been studied.
 
-The physician should be consulted when using other medications in addition to Humalog BASAL.
+The physician should be consulted when using other medications in addition to Humalog BASAL (see section 4.4).
 
 [Humalog Pen 100 U/ml, solution for injection]
 
 Insulin requirements may be reduced in the presence of medicinal products with hypoglycaemic activity, such as oral hypoglycemics, salicylates (for example, acetylsalicylic acid), sulpha antibiotics, certain antidepressants (monoamine oxidase inhibitors, selective serotonin reuptake inhibitors), certain angiotensin converting enzyme inhibitors (captopril, enalapril), angiotensin II receptor blockers, beta-blockers, octreotide or alcohol.
 
-The physician should be consulted when using other medications in addition to Humalog Pen.
+The physician should be consulted when using other medications in addition to Humalog Pen (see section 4.4).
 
 [Humalog Mix25 100 U/ml Pen, suspension for injection]
 
@@ -56,20 +58,20 @@ The physician should be consulted when using other medications in addition to Hu
 
 [Humalog BASAL 100 U/ml Pen, suspension for injection]
 
-The physician should be consulted when using other medications in addition to Humalog BASAL 100 U/ml Pen.
+The physician should be consulted when using other medications in addition to Humalog BASAL 100 U/ml Pen (see section 4.4).
 
 [Humalog 100 U/ml KwikPen, solution for injection]
 
-The physician should be consulted when using other medications in addition to Humalog KwikPen.
+The physician should be consulted when using other medications in addition to Humalog KwikPen (see section 4.4).
 
 [Humalog Mix25 100 U/ml KwikPen, suspension for injection]
 
-The physician should be consulted when using other medications in addition to Humalog Mix25 KwikPen.
+The physician should be consulted when using other medications in addition to Humalog Mix25 KwikPen (see section 4.4).
 
 [Humalog Mix50 100 U/ml KwikPen, suspension for injection]
 
-The physician should be consulted when using other medications in addition to Humalog Mix50 KwikPen.
+The physician should be consulted when using other medications in addition to Humalog Mix50 KwikPen (see section 4.4).
 
 [Humalog BASAL 100 U/ml KwikPen, suspension for injection]
 
-The physician should be consulted when using other medications in addition to Humalog BASAL 100 U/ml KwikPen.
+The physician should be consulted when using other medications in addition to Humalog BASAL 100 U/ml KwikPen (see section 4.4).

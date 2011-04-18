@@ -34,7 +34,6 @@ Hold the vial and syringe firmly in one hand.
 
 6.
 Making sure the tip of the needle is in the Humalog, withdraw the correct dose into the syringe.
-
 7.
 Before removing the needle from the vial, check the syringe for air bubbles that reduce the amount of Humalog in it.
 If bubbles are present, hold the syringe straight up and tap its side until the bubbles float to the top.
@@ -44,6 +43,7 @@ Push them out with the plunger and withdraw the correct dose.
 Remove the needle from the vial and lay the syringe down so that the needle does not touch anything.
 
 ii) Mixing Humalog with longer-acting Human Insulins (see section 6.2)
+
 1.
 Humalog should be mixed with longer-acting human insulins only on the advice of a doctor.
 
@@ -209,12 +209,12 @@ If insulin does not appear, repeat the procedure until insulin appears.
 
 (e) Always prime the pen (check the insulin flow) before each injection.
 Failure to prime the pen may result in an inaccurate dose.
-
 Setting the Dose.
 
 (a) Turn the dose knob clockwise until the arrow appears in the dose window and a notch is felt or visually aligned.
 
 (b) Pull the dose knob out (in the direction of the arrow) until a “0” appears in the dose window.
+
 (c) Turn the dose knob clockwise until the dose appears in the dose window.
 If too high a dose is dialled, turn the dose knob backward (anti-clockwise) until the correct dose appears in the window.
 A dose greater than the number of units remaining in the cartridge cannot be dialed.

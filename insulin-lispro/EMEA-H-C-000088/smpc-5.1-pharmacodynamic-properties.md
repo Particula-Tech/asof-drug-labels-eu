@@ -2,7 +2,6 @@
 
 Pharmacotherapeutic group : Fast-acting human insulin analogue.
 ATC code: A10A B04
-
 The primary activity of insulin lispro is the regulation of glucose metabolism.
 
 In addition, insulins have several anabolic and anti-catabolic actions on a variety of different tissues.
@@ -42,6 +41,7 @@ In some studies, reduction of nocturnal hypoglycaemia was associated with increa
 
 The glucodynamic response to insulin lispro is not affected by renal or hepatic function impairment.
 Glucodynamic differences between insulin lispro and soluble human insulin, as measured during a glucose clamp procedure, were maintained over a wide range of renal function.
+
 Insulin lispro has been shown to be equipotent to human insulin on a molar basis but its effect is more rapid and of a shorter duration.
 
 [Humalog 100 U/ml, solution for injection in cartridge]
@@ -94,7 +94,6 @@ Humalog Mix50 is a premixed suspension consisting of insulin lispro (fast-acting
 
 The rapid onset and early peak of activity of insulin lispro is observed following the subcutaneous administration of Humalog Mix50.
 In the figure below the pharmacodynamics of Humalog Mix50 and BASAL are illustrated.
-
 Humalog Mix50
 
 0 4 8 1 1 2 2

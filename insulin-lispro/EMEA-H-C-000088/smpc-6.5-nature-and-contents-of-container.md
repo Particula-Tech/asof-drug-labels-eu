@@ -1,4 +1,4 @@
-# 6.5 Nature and contents of container
+# 6.5 Nature and contents of container and special equipment for use, administration or implantation
 
 The solution is contained in type I flint glass vials, sealed with butyl or halobutyl stoppers and secured with aluminium seals.
 Dimeticone or silicone emulsion may be used to treat the vial stoppers.

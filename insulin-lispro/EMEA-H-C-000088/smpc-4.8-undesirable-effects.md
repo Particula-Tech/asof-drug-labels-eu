@@ -13,3 +13,5 @@ It may cause a rash over the whole body, shortness of breath, wheezing, reductio
 Severe cases of generalised allergy may be life-threatening.
 
 Lipodystrophy at the injection site is uncommon (1/1,000 to <1/100).
+
+Cases of oedema have been reported with insulin therapy, particularly if previous poor metabolic control is improved by intensified insulin therapy.

@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 Data on a large number of exposed pregnancies do not indicate any adverse effect of insulin lispro on pregnancy or on the health of the foetus/newborn.
 

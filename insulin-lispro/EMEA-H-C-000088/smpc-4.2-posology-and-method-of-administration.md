@@ -19,8 +19,8 @@ This rapid onset of activity allows a Humalog injection (or, in the case of admi
 The time course of action of any insulin may vary considerably in different individuals or at different times in the same individual.
 The faster onset of action compared to soluble human insulin is maintained regardless of injection site.
 As with all insulin preparations, the duration of action of Humalog is dependent on dose, site of injection, blood supply, temperature, and physical activity.
-
 Humalog can be used in conjunction with a longer-acting human insulin or oral sulphonylurea agents, on the advice of a physician.
+
 Use of Humalog in an insulin infusion pump:
 Only certain CE-marked insulin infusion pumps may be used to infuse insulin lispro.
 Before infusing insulin lispro, the manufacturers instructions should be studied to ascertain the suitability or otherwise for the particular pump.

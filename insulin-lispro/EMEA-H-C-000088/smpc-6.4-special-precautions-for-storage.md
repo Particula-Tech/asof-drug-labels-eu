@@ -2,6 +2,7 @@
 
 Do not freeze.
 Do not expose to excessive heat or direct sunlight.
+
 Unopened vials
 Store in a refrigerator (2°C - 8°C).
 
