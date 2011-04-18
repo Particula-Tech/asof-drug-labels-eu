@@ -2,14 +2,17 @@
 
 Pregnancy
 Animal studies have shown no evidence of teratogenicity but embryolethality was seen in both rat and rabbit studies (see section 5.3).
-There are no adequate data on the use of sodium oxybate during the first trimester of pregnancy.
+
+Data from a limited number of pregnant women exposed in the first trimester indicate a possible increased risk of spontaneous abortions.
+To date no other relevant epidemiological data are available.
 Limited data from pregnant patients during second and third trimester indicate no malformative nor foeto/neonatal toxicity of sodium oxybate.
 
 Sodium oxybate is not recommended during pregnancy.
 
 Breastfeeding
-It is not known whether sodium oxybate is excreted into breast milk.
-Breastfeeding is not recommended when treating with sodium oxybate.
+It is not known whether sodium oxybate and/or its metabolites are excreted into breast milk.
+Breastfeeding is not recommended during treatment with sodium oxybate.
+
 Fertility
 There is no clinical data available on the effect of sodium oxybate on fertility.
-No effect on fertility parameters in the rat were observed (see section 5.3)
+No effect on fertility parameters in the rat were observed (see section 5.3).

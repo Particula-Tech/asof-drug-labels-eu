@@ -4,46 +4,51 @@ The most commonly reported adverse reactions are dizziness, nausea, and headache
 
 Frequency estimate: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1000 to < 1/100); rare (≥ 1/10,000 to < 1/1000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 
-Within each frequency grouping, adverse events are presented in order of decreasing seriousness
-
+Within each frequency grouping, adverse events are presented in order of decreasing seriousness.
 Immune system disorders:
-Not known (cannot be estimated from the available data): hypersensitivity
+Uncommon : hypersensitivity
 
 Metabolism and nutrition disorders:
-Common: anorexia
+Common: anorexia, decreased appetite
 
 Psychiatric disorders:
-Common: depression, cataplexy, anxiety, abnormal dreams, confusion, disorientation, nightmares, sleepwalking, sleep disorder, insomnia, middle insomnia, nervousness
+Common: depression, cataplexy, anxiety, abnormal dreams, confusional state, disorientation, nightmares, sleepwalking, sleep disorder, insomnia, middle insomnia, nervousness
 Uncommon: suicide attempt, psychosis, paranoia, hallucination, abnormal thinking, agitation, initial insomnia
 Not known (cannot be estimated from the available data): suicidal ideation
 
 Nervous system disorders:
 Very common: dizziness, headache
-Common: sleep paralysis, somnolence, tremor, balance disorder, disturbance in attention, hypoaesthesia, paraesthesia, sedation
+Common: sleep paralysis, somnolence, tremor, balance disorder, disturbance in attention, hypoaesthesia, paraesthesia, sedation, dysgeusia
 Uncommon: myoclonus, amnesia, restless legs syndrome
 Not known (cannot be estimated from the available data): convulsion
 
+Ear and labyrinth disorders:
+Common: vertigo
+
 Eye disorders:
 Common: blurred vision
+
+Cardiac disorders:
+Common: palpitations
 
 Vascular disorders:
 Common: hypertension
 
 Respiratory, thoracic and mediastinal disorders:
-Common: dyspnoea, snoring
-Not known (cannot be estimated from the available data): respiratory depression
+Common: dyspnoea, snoring, nasal congestion
+Not known (cannot be estimated from the available data): respiratory depression, sleep apnoea
+
 Gastrointestinal disorders:
 Very common: nausea (the frequency of nausea is higher in women than men)
-Common: vomiting, diarrhoea, upper abdominal pain,
+Common: vomiting, diarrhoea, abdominal pain upper,
 Uncommon: faecal incontinence
 
 Skin and subcutaneous tissue disorders:
-Common: sweating
-Uncommon: rash
+Common: hyperhidrosis, rash
 Not known (cannot be estimated from the available data): urticaria
 
 Musculoskeletal, connective tissue and bone disorders:
-Common: arthralgia, muscle cramps
+Common: arthralgia, muscle, spasms, back pain
 
 Renal and urinary disorders:
 Common: enuresis nocturna, urinary incontinence
@@ -51,8 +56,10 @@ Common: enuresis nocturna, urinary incontinence
 General disorders and administration site conditions:
 Common: asthenia, fatigue, feeling drunk, oedema peripheral
 
+Infections and infestations:
+Common: nasopharyngitis, sinusitis
 Investigations:
-Uncommon: blood pressure increased, weight decreased
+Common: blood pressure increased, weight decreased
 
 Injury, poisoning and procedural complications
 Common: fall

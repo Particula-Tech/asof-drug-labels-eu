@@ -1,10 +1,10 @@
 # 5.2 Pharmacokinetic properties
 
-Sodium oxybate is rapidly but incompletely absorbed after oral administration; absorption is delayed and decreased by a high fat meal.
+Sodium oxybate is rapidly and almost completely absorbed after oral administration; absorption is delayed and decreased by a high fat meal.
 It is eliminated mainly by metabolism with a half-life of 0.5 to 1 hour.
 Pharmacokinetics are nonlinear with the area under the plasma concentration curve (AUC) versus time curve increasing 3.8-fold as dose is doubled from 4.5 g to 9 g. The pharmacokinetics are not altered with repeat dosing.
 
-Absorption: Sodium oxybate is absorbed rapidly following oral administration with an absolute bioavailability of about 25 %.
+Absorption: Sodium oxybate is absorbed rapidly following oral administration with an absolute bioavailability of about 88 %.
 The average peak plasma concentrations (1st and 2nd peak) following administration of a 9 g daily dose divided into two equivalent doses given four hours apart were 78 and 142 μg/ml, respectively.
 The average time to peak plasma concentration (Tmax) ranged from 0.5 to 2 hours in eight pharmacokinetic studies.
 Following oral administration, the plasma levels of sodium oxybate increase more than proportionally with increasing dose.
@@ -29,7 +29,8 @@ Faecal excretion is negligible.
 
 Special populations:
 
-Elderly patients: The pharmacokinetics of sodium oxybate in patients greater than the age of 65 years have not been studied.
+Elderly patients:.
+In a limited number of patients greater than the age of 65 years the pharmacokinetics of sodium oxybate was not different compared to patients younger than 65 years of age.
 
 Paediatric patients: The pharmacokinetics of sodium oxybate in paediatric patients under the age of 18 years have not been studied.
 
