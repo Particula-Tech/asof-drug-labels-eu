@@ -16,7 +16,11 @@ Patients who have previously received anthracyclines are also at risk of cardiot
 Because the half-life of Herceptin is approximately 4-5 weeks Herceptin may persist in the circulation for up to 20-25 weeks after stopping Herceptin treatment.
 Patients who receive anthracyclines after stopping Herceptin may possibly be at increased risk of cardiotoxicity.
 If possible, physicians should avoid anthracycline-based therapy for up to 25 weeks after stopping Herceptin.
-If anthracyclines are used, the patient’s cardiac function should be monitored carefully (see below)
+If anthracyclines are used, the patient’s cardiac function should be monitored carefully.
+
+In patients with EBC an increase in the incidence of symptomatic and asymptomatic cardiac events was observed when Herceptin was administered after anthracycline-containing chemotherapy compared to administration with a non-anthracycline regimen of docetaxel and carboplatin and was more marked when Herceptin was administered concurrently with taxanes than when administered sequentially to taxanes.
+Regardless of the regimen used, most symptomatic cardiac events occurred within the first 18 months.
+In one of the 3 pivotal studies conducted in which a median follow-up of 5.5 years was available (BCIRG006) a continuous increase in the cumulative rate of symptomatic cardiac or LVEF events was observed in patients who were administered Herceptin concurrently with a taxane following anthracycline therapy up to 2.37% compared to approximately 1% in the two comparator arms (anthracycline plus cyclophosphamide followed by taxane and taxane, carboplatin and Herceptin).
 
 In EBC, the following patients were excluded from the HERA trial, there are no data about the benefit-risk balance, and therefore treatment can not be recommended in such patients:
 
@@ -30,10 +34,12 @@ In EBC, the following patients were excluded from the HERA trial, there are no d
 Formal cardiological assessment should be considered in patients in whom there are cardiovascular concerns following baseline screening.
 Cardiac function should be further monitored during treatment (e.g. every 12 weeks).
 Monitoring may help to identify patients who develop cardiac dysfunction.
-For early breast cancer patients, cardiac assessment, as performed at baseline, should be repeated every 3 months during treatment and at 6, 12 and 24 months following cessation of treatment.
+For early breast cancer patients, cardiac assessment, as performed at baseline, should be repeated every 3 months during treatment and every 6 months following discontinuation of treatment until 24 months from the last administration.
+In patients who receive anthracycline containing chemotherapy further monitoring is recommended, and should occur yearly up to 5 years from the last administration, or longer if a continuous decrease of LVEF is observed.
 Patients who develop asymptomatic cardiac dysfunction may benefit from more frequent monitoring (e.g. every 6-8 weeks).
 If patients have a continued decrease in left ventricular function, but remain asymptomatic, the physician should consider discontinuing therapy if no clinical benefit of Herceptin therapy has been seen.
 Caution should be exercised in treating patients with symptomatic heart failure, a history of hypertension or documented coronary artery disease, and in early breast cancer, in those patients with a left ventricular ejection fraction (LVEF) of 55 % or less.
+
 If LVEF drops 10 ejection fraction (EF) points from baseline AND to below 50 %, treatment should be suspended and a repeat LVEF assessment performed within approximately 3 weeks.
 If LVEF has not improved, or declined further, discontinuation of Herceptin should be strongly considered, unless the benefits for the individual patient are deemed to outweigh the risks.
 All such patients should be referred for assessment by a cardiologist and followed up.
@@ -42,7 +48,7 @@ If symptomatic cardiac failure develops during Herceptin therapy, it should be t
 Discontinuation of Herceptin therapy should be strongly considered in patients who develop clinically significant heart failure unless the benefits for an individual patient are deemed to outweigh the risks.
 
 The safety of continuation or resumption of Herceptin in patients who experience cardiotoxicity has not been prospectively studied.
-However, most patients who developed heart failure in the pivotal (H0648g, H0649g, M77001, BO16216, BO16348, BO18255) trials improved with standard medical treatment.
+However, most patients who developed heart failure in the pivotal (H0648g, H0649g, M77001, BO16216, BO16348, BO18255, NSABP B31, NCCTG N9831, BCIRG 006) trials improved with standard medical treatment.
 This included diuretics, cardiac glycosides, beta-blockers and/or angiotensin-converting enzyme inhibitors.
 The majority of patients with cardiac symptoms and evidence of a clinical benefit of Herceptin treatment continued on therapy without additional clinical cardiac events.
 
@@ -60,7 +66,6 @@ Initial improvement followed by clinical deterioration and delayed reactions wit
 Fatalities have occurred within hours and up to one week following infusion.
 On very rare occasions, patients have experienced the onset of infusion symptoms and pulmonary symptoms more than six hours after the start of the Herceptin infusion.
 Patients should be warned of the possibility of such a late onset and should be instructed to contact their physician if these symptoms occur.
-
 Pulmonary events
 Severe pulmonary events have been reported with the use of Herceptin in the post-marketing setting (see section 4.8).
 These events have occasionally been fatal.

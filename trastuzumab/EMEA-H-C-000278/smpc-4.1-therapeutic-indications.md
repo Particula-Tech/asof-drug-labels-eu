@@ -15,9 +15,15 @@ Herceptin is indicated for the treatment of patients with HER2 positive metastat
 
 Early Breast Cancer (EBC)
 
-Herceptin is indicated for the treatment of patients with HER2 positive early breast cancer following surgery, chemotherapy (neoadjuvant or adjuvant) and radiotherapy (if applicable) (see section 5.1).
+Herceptin is indicated for the treatment of patients with HER2 positive early breast cancer:
+
+following surgery, chemotherapy (neoadjuvant or adjuvant) and radiotherapy (if applicable) (see section 5.1).
+
+- following adjuvant chemotherapy with doxorubicin and cyclophosphamide, in combination with paclitaxel or docetaxel.
+- in combination with adjuvant chemotherapy consisting of docetaxel and carboplatin.
 
 Herceptin should only be used in patients with metastatic or early breast cancer whose tumours have either HER2 overexpression or HER2 gene amplification as determined by an accurate and validated assay (see sections 4.4 and 5.1).
+
 Metastatic Gastric Cancer (MGC)
 
 Herceptin in combination with capecitabine or 5-fluorouracil and cisplatin is indicated for the treatment of patients with HER2 positive metastatic adenocarcinoma of the stomach or gastro-esophageal junction who have not received prior anti-cancer treatment for their metastatic disease.

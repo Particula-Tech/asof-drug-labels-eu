@@ -39,7 +39,6 @@ Once the infusion is prepared it should be administered immediately.
 If diluted aseptically, it may be stored for 24 hours (do not store above 30°C).
 
 Parenteral medicinal products should be inspected visually for particulate matter and discoloration prior to administration.
-
 Herceptin is for single-use only, as the product contains no preservatives.
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
