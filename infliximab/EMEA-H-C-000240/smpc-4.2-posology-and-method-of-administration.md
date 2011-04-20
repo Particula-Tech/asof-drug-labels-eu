@@ -22,14 +22,13 @@ In carefully selected patients with rheumatoid arthritis who have tolerated 3 in
 Shortened infusions at doses > 6 mg/kg have not been studied.
 
 Remicade must be given concomitantly with methotrexate.
-
 Available data suggest that the clinical response is usually achieved within 12 weeks of treatment.
 If a patient has an inadequate response or loses response after this period, consideration may be given to increase the dose step-wise by approximately 1.5 mg/kg, up to a maximum of 7.5 mg/kg every 8 weeks.
 Alternatively, administration of 3 mg/kg as often as every 4 weeks may be considered.
 If adequate response is achieved, patients should be continued on the selected dose or dose frequency.
 Continued therapy should be carefully reconsidered in patients who show no evidence of therapeutic benefit within the first 12 weeks of treatment or after dose adjustment.
 
-Severe, active Crohn’s disease
+Moderately to severely active Crohn’s disease
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by an additional 5 mg/kg infusion 2 weeks after the first infusion.
 If a patient does not respond after 2 doses, no additional treatment with infliximab should be given.
 Available data do not support further infliximab treatment, in patients not responding within 6 weeks of the initial infusion.
@@ -65,9 +64,9 @@ Continued therapy should be carefully reconsidered in patients who show no evide
 Ankylosing spondylitis
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 6 to 8 weeks.
 If a patient does not respond by 6 weeks (i.e. after 2 doses), no additional treatment with infliximab should be given.
-
 Psoriatic arthritis
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
+
 Psoriasis
 5 mg/kg given as an intravenous infusion over a 2-hour period followed by additional 5 mg/kg infusion doses at 2 and 6 weeks after the first infusion, then every 8 weeks thereafter.
 If a patient shows no response after 14 weeks (i.e. after 4 doses), no additional treatment with infliximab should be given.
@@ -111,6 +110,7 @@ Some patients may require a shorter dosing interval to maintain clinical benefit
 Available data do not support further infliximab treatment in paediatric patients not responding within the first 10 weeks of treatment (see section 5.1).
 
 Remicade has not been studied in patients with Crohn’s disease below the age of 6 years.
+
 Due to insufficient data on safety and efficacy, Remicade is not recommended for use in any other paediatric indication (see section 4.8: “juvenile rheumatoid arthritis”).
 
 Impaired renal and/or hepatic function

@@ -83,9 +83,12 @@ In clinical studies, approximately 20% of infliximab-treated patients compared w
 Approximately 3% of patients discontinued treatment due to infusions reactions and all patients recovered with or without medical therapy.
 In a clinical study of patients with rheumatoid arthritis (ASPIRE), sixty six percent of the patients (686 out of 1,040) received at least one shortened infusion of 90 minutes or less and 44% of the patients (454 out of 1,040) received at least one shortened infusion of 60 minutes or less.
 Of the infliximab-treated patients who received at least one shortened infusion, infusion-related reactions occurred in 15% of patients and serious infusion reactions occurred in 0.4% of patients.
+In a clinical study of patients with Crohn’s disease (SONIC), infusion-related reactions occurred in 16.6% (27/163) of patients receiving infliximab monotherapy, 5% (9/179) of patients receiving infliximab in combination with AZA, and 5.6% (9/161) of patients receiving AZA monotherapy.
+One serious infusion reaction (<1%) occurred in a patient on infliximab monotherapy.
 
 In post-marketing experience, cases of anaphylactic-like reactions, including laryngeal/pharyngeal oedema and severe bronchospasm, and seizure have been associated with Remicade administration.
 Exceedingly rare cases of transient visual loss and myocardial ischaemia/infarction occurring during or within 2 hours of Remicade infusion have also been reported.
+
 Infusion reactions following re-administration of Remicade: A clinical study in patients with moderate to severe psoriasis was designed to assess the efficacy and safety of long-term maintenance therapy versus re-treatment with an induction regimen of Remicade (maximum of four infusions at 0, 2, 6 and 14 weeks) following disease flare.
 Patients did not receive any concomitant immunosuppressant therapy.
 In the re-treatment arm, 4% (8/219) of patients experienced a serious infusion reaction versus < 1% (1/222) on maintenance therapy.
@@ -107,7 +110,7 @@ Use of concomitant immunosuppressant agents appeared to reduce the frequency of 
 In clinical studies using single and multiple infliximab doses ranging from 1 to 20 mg/kg, antibodies to infliximab were detected in 14% of patients with any immunosuppressant therapy, and in 24% of patients without immunosuppressant therapy.
 In rheumatoid arthritis patients who received the recommended repeated treatment dose regimens with methotrexate, 8% of patients developed antibodies to infliximab.
 In psoriatic arthritis patients who received 5 mg/kg with and without methotrexate, antibodies occurred overall in 15% of patients (antibodies occurred in 4% of patients receiving methotrexate and in 26% of patients not receiving methotrexate at baseline).
-Of Crohn's disease patients who received maintenance treatment, approximately 6-13% developed antibodies to infliximab.
+In Crohn's disease patients who received maintenance treatment, antibodies to infliximab occurred overall in 3.3% of patients receiving immunosuppressants and in 13.3% of patients not receiving immunosuppressants.
 The antibody incidence was 2-3 fold higher for patients treated episodically.
 Due to methodological limitations, a negative assay did not exclude the presence of antibodies to infliximab.
 Some patients who developed high titres of antibodies to infliximab had evidence of reduced efficacy.
@@ -115,7 +118,6 @@ In psoriasis patients treated with infliximab as a maintenance regimen in the ab
 
 Infections: Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal, viral, and other opportunistic infections have been observed in patients receiving Remicade.
 Some of these infections have been fatal; the most frequently reported opportunistic infections with a mortality rate of > 5% include pneumocystosis, candidiasis, listeriosis and aspergillosis (see section 4.4).
-
 In clinical studies 36% of infliximab-treated patients were treated for infections compared with 25% of placebo-treated patients.
 
 In rheumatoid arthritis clinical studies, the incidence of serious infections including pneumonia was higher in infliximab plus methotrexate treated patients compared with methotrexate alone especially at doses of 6 mg/kg or greater (see section 4.4).
@@ -142,8 +144,7 @@ The majority of the malignancies developed in the lung or head and neck.
 Rare post-marketing cases of hepatosplenic T-cell lymphoma have been reported in patients with Crohn’s disease and ulcerative colitis treated with Remicade, the majority of whom were adolescent or young adult males (see section 4.4).
 
 Heart failure: In a phase II study aimed at evaluating Remicade in congestive heart failure (CHF), higher incidence of mortality due to worsening of heart failure were seen in patients treated with Remicade, especially those treated with the higher dose of 10 mg/kg (i.e. twice the maximum approved dose).
-In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction
-≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
+In this study 150 patients with NYHA Class III-IV CHF (left ventricular ejection fraction ≤35%) were treated with 3 infusions of Remicade 5 mg/kg, 10 mg/kg, or placebo over 6 weeks.
 At 38 weeks, 9 of 101 patients treated with Remicade (2 at 5 mg/kg and 7 at 10 mg/kg) died compared to one death among the 49 patients on placebo.
 There have been post-marketing reports of worsening heart failure, with and without identifiable precipitating factors, in patients taking Remicade.
 There have also been rare post-marketing reports of new onset heart failure, including heart failure in patients without known pre-existing cardiovascular disease.
@@ -162,7 +163,7 @@ Table 2: Proportion of patients with increased ALT activity in clinical studies
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 |  | placebo | infliximab | placebo | infliximab | placebo | infliximab | placebo | infliximab |
 | Rheumatoid arthritis1 | 375 | 1,087 | 58.1 | 58.3 | 3.2% | 3.9% | 0.8% | 0.9% |
-| Crohn’s disease2 | 173 | 703 | 54.1 | 54.1 | 3.5% | 5.1% | 0.0% | 1.7% |
+| Crohn’s disease2 | 324 | 1034 | 53.7 | 54.0 | 2.2% | 4.9% | 0.0% | 1.5% |
 | Paediatric Crohn’s disease | N/A | 139 | N/A | 53.0 | N/A | 4.4% | N/A | 1.5% |
 | Ulcerative colitis | 242 | 482 | 30.1 | 30.8 | 1.2% | 2.5% | 0.4% | 0.6% |
 | Ankylosing spondylitis | 76 | 275 | 24.1 | 101.9 | 0.0% | 9.5% | 0.0% | 3.6% |
@@ -172,6 +173,7 @@ Table 2: Proportion of patients with increased ALT activity in clinical studies
 1 Placebo patients received methotrexate while infliximab patients received both infliximab and methotrexate.
 2 Placebo patients in the 2 Phase III studies in Crohn’s disease, ACCENT I and ACCENT II, received an initial dose of 5 mg/kg infliximab at study start and were on placebo in the maintenance phase.
 Patients who were randomized to the placebo maintenance group and then later crossed over to infliximab are included in the infliximab group in the ALT analysis.
+In the Phase IIIb trial in Crohn’s disease, SONIC, placebo patients received AZA 2.5 mg/kg/day as active control in addition to placebo infliximab infusions.
 3 Number of patients evaluated for ALT.
 4 Median follow-up is based on patients treated.
 
@@ -196,6 +198,7 @@ Infusion reactions
 Infusion reactions occurred in 35 % of patients with juvenile rheumatoid arthritis receiving 3 mg/kg compared with 17.5% of patients receiving 6 mg/kg.
 In the 3 mg/kg Remicade group, 4 out of 60 patients had a serious infusion reaction and 3 patients reported a possible anaphylactic reaction (2 of which were among the serious infusion reactions).
 In the 6 mg/kg group, 2 out of 57 patients had a serious infusion reaction, one of whom had a possible anaphylactic reaction.
+
 Immunogenicity
 Antibodies to infliximab developed in 38 % of patients receiving 3 mg/kg compared with 12% of patients receiving 6 mg/kg.
 The antibody titres were notably higher for the 3 mg/kg compared to the 6 mg/kg group.

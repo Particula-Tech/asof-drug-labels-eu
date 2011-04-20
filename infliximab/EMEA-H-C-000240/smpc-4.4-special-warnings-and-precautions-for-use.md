@@ -25,9 +25,9 @@ Infections
 Patients must be monitored closely for infections including tuberculosis before, during and after treatment with Remicade.
 Because the elimination of infliximab may take up to six months, monitoring should be continued throughout this period.
 Further treatment with Remicade must not be given if a patient develops a serious infection or sepsis.
-
 Caution should be exercised when considering the use of Remicade in patients with chronic infection or a history of recurrent infections, including concomitant immunosuppressive therapy.
 Patients should be advised of and avoid exposure to potential risk factors for infection as appropriate.
+
 Tumour necrosis factor alpha (TNFα) mediates inflammation and modulates cellular immune responses.
 Experimental data show that TNFα is essential for the clearing of intracellular infections.
 Clinical experience shows that host defence against infection is compromised in some patients treated with infliximab.
@@ -61,9 +61,9 @@ In all situations described below, the benefit/risk balance of Remicade therapy 
 If inactive (‘latent’) tuberculosis is diagnosed, treatment for latent tuberculosis must be started with anti-tuberculosis therapy before the initiation of Remicade, and in accordance with local recommendations.
 
 In patients who have several or significant risk factors for tuberculosis and have a negative test for latent tuberculosis, anti-tuberculosis therapy should be considered before the initiation of Remicade.
-
 Use of anti-tuberculosis therapy should also be considered before the initiation of Remicade in patients with a past history of latent or active tuberculosis in whom an adequate course of treatment cannot be confirmed.
 All patients should be informed to seek medical advice if signs/symptoms suggestive of tuberculosis (e.g. persistent cough, wasting/weight loss, low-grade fever) appear during or after Remicade treatment.
+
 Patients with fistulising Crohn’s disease with acute suppurative fistulas must not initiate Remicade therapy until a source for possible infection, specifically abscess, has been excluded (see section 4.3).
 
 Hepatitis B (HBV) reactivation
@@ -138,7 +138,6 @@ A risk for the development for hepatosplenic T-cell lymphoma in patients treated
 All patients with ulcerative colitis who are at increased risk for dysplasia or colon carcinoma (for example, patients with long-standing ulcerative colitis or primary sclerosing cholangitis), or who had a prior history of dysplasia or colon carcinoma should be screened for dysplasia at regular intervals before therapy and throughout their disease course.
 This evaluation should include colonoscopy and biopsies per local recommendations.
 With current data it is not known if infliximab treatment influences the risk for developing dysplasia or colon cancer (see section 4.8).
-
 Since the possibility of increased risk of cancer development in patients with newly diagnosed dysplasia treated with Remicade is not established, the risk and benefits to the individual patients must be carefully reviewed and consideration should be given to discontinuation of therapy.
 
 Heart failure

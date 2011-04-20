@@ -11,7 +11,7 @@ In these patient populations, a reduction in the rate of the progression of join
 Adult Crohn’s disease:
 Remicade is indicated for:
 
-- treatment of severe, active Crohn’s disease, in adult patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
+- treatment of moderately to severely active Crohn’s disease, in adult patients who have not responded despite a full and adequate course of therapy with a corticosteroid and/or an immunosuppressant; or who are intolerant to or have medical contraindications for such therapies.
 - treatment of fistulising, active Crohn’s disease, in adult patients who have not responded despite a full and adequate course of therapy with conventional treatment (including antibiotics, drainage and immunosuppressive therapy).
 
 Paediatric Crohn’s disease:
@@ -20,6 +20,7 @@ Remicade has been studied only in combination with conventional immunosuppressiv
 
 Ulcerative colitis:
 Remicade is indicated for treatment of moderately to severely active ulcerative colitis in adult patients who have had an inadequate response to conventional therapy including corticosteroids and 6-mercaptopurine (6-MP) or azathioprine (AZA), or who are intolerant to or have medical contraindications for such therapies.
+
 Ankylosing spondylitis:
 Remicade is indicated for treatment of severe, active ankylosing spondylitis, in adult patients who have responded inadequately to conventional therapy.
 
