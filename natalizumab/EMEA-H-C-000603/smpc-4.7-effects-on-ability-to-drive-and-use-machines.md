@@ -6,37 +6,50 @@ Based on the pharmacological mechanism of action of natalizumab, the use of TYSA
 
 In placebo-controlled trials in 1,617 MS patients treated with natalizumab for up to 2 years (placebo: 1,135), adverse events leading to discontinuation of therapy occurred in 5.8% of patients treated with natalizumab (placebo: 4.8%).
 Over the 2-year duration of the studies, 43.5% of patients treated with natalizumab reported adverse drug reactions (placebo: 39.6%)1.
-Adverse drug reactions reported with natalizumab with an incidence of 0.5% greater than reported with placebo are shown below.
+Adverse drug reactions reported with
+
+1 An adverse event judged related to therapy by the investigating physician.
+natalizumab with an incidence of 0.5% greater than reported with placebo are shown below.
 The reactions are reported as MedDRA preferred terms under the MedDRA primary system organ class.
 Frequencies were defined as follows:
 
 Common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
 
-1 An adverse event judged related to therapy by the investigating physician.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Nervous system disorders
+
 Common Headache
+
 Dizziness
 
 Gastrointestinal disorders
+
 Common Vomiting
+
 Nausea
 
 Musculoskeletal and connective tissue disorders
+
 Common Arthralgia
 
 Infections and infestations
+
 Common Urinary tract infection
+
 Nasopharyngitis
 
 General disorders and administration site conditions
+
 Common Rigors
+
 Pyrexia
 Fatigue
 
 Immune system disorders
+
 Common Urticaria
+
 Uncommon Hypersensitivity
 
 Infusion reactions

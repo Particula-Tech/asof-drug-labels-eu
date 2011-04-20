@@ -1,3 +1,8 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
 See section 4.3.
+
+Immunisations
+
+In a randomised, open label study of 60 patients with relapsing MS there was no significant difference in the humoral immune response to a recall antigen (tetanus toxoid) and only slightly slower and reduced humoral immune response to a neoantigen (keyhole limpet haemocyanin) was observed in patients who were treated with TYSABRI for 6 months compared to an untreated control group.
+Live vaccines have not been studied.

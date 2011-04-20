@@ -8,8 +8,9 @@ If particles are observed and/or the liquid in the vial is not colourless, clear
 
 2.
 Use aseptic technique when preparing TYSABRI solution for intravenous (IV) infusion.
+Remove
 
-Remove flip-off cap from the vial.
+flip-off cap from the vial.
 Insert the syringe needle into the vial through the centre of the rubber stopper and remove 15 ml concentrate for solution for infusion.
 
 3.

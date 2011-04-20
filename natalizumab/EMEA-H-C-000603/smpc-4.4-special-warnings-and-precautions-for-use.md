@@ -19,7 +19,6 @@ If PML is suspected, further dosing must be suspended until PML has been exclude
 The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction, and if so, whether these symptoms are typical of MS or possibly suggestive of PML.
 If any doubt exists, further evaluation, including MRI scan preferably with contrast (compared with pre-treatment MRI), CSF testing for JC Viral DNA and repeat neurological assessments, should be considered as described in the Physician Information and Management Guidelines (see educational guidance).
 Once the clinician has excluded PML (if necessary, by repeating clinical, imaging and/or laboratory investigations if clinical suspicion remains), dosing of natalizumab may resume.
-
 The physician should be particularly alert to symptoms suggestive of PML that the patient may not notice (e.g. cognitive or psychiatric symptoms).
 Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
 
@@ -57,7 +56,6 @@ Hypersensitivity reactions have been associated with TYSABRI, including serious 
 These reactions usually occurred during the infusion or up to 1 hour after completion of the infusion.
 The risk for hypersensitivity was greatest with early infusions and in patients re-exposed to TYSABRI following an initial short exposure (one or two infusions) and extended period (three months or more) without treatment.
 However, the risk of hypersensitivity reactions should be considered for every infusion administered.
-
 Patients are to be observed during the infusion and for 1 hour after the completion of the infusion (see section 4.8).
 Resources for the management of hypersensitivity reactions should be available.
 
