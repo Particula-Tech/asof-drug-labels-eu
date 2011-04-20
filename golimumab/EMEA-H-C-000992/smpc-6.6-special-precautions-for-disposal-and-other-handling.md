@@ -9,6 +9,7 @@ The solution is clear to slightly opalescent, colourless to light yellow and may
 This appearance is not unusual for solutions containing protein.
 
 Comprehensive instructions for the preparation and administration of Simponi in a pre-filled pen are given in the package leaflet.
+
 Any unused product or waste material should be disposed of in accordance with local requirements.
 
 [Simponi 50 mg solution for injection in pre-filled syringe.]

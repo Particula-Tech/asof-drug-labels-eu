@@ -8,6 +8,7 @@ Golimumab is a human monoclonal antibody that forms high affinity, stable comple
 Pharmacodynamic effects
 The binding of human TNF by golimumab was shown to neutralise TNF-α -induced cell-surface expression of the adhesion molecules E-selectin, vascular cell adhesion molecule (VCAM)-1 and intercellular adhesion molecule (ICAM)-1 by human endothelial cells.
 In vitro, TNF-induced secretion of interleukin (IL)-6, IL-8 and granulocyte-macrophage colony stimulating factor (GM-CSF) by human endothelial cells was also inhibited by golimumab.
+
 Improvement in C-reactive protein (CRP) levels were observed relative to placebo groups and treatment with Simponi resulted in significant reductions from baseline in serum levels of IL-6, ICAM-1, matrix-metalloproteinase (MMP)-3 and vascular endothelial growth factor (VEGF) compared to control treatment.
 In addition, levels of TNF-α were reduced in RA and AS patients and levels of IL-8 were reduced in PsA patients.
 These changes were observed at the first assessment (week 4) after the initial Simponi administration and were generally maintained through week 24.
@@ -46,8 +47,8 @@ Responses were observed at the first assessment (week 4) after the initial Simpo
 
 In GO-FORWARD, among 89 subjects randomised to Simponi 50 mg + MTX, 48 were still on this treatment at week 104.
 Among those, 40, 33 and 24 patients had ACR 20/50/70 response, respectively at week 104.
-In GO-AFTER, the percentage of patients achieving an ACR 20 response was greater for patients receiving Simponi than for patients receiving placebo regardless of the reason reported for discontinuation of one or more prior anti-TNF therapies.
 
+In GO-AFTER, the percentage of patients achieving an ACR 20 response was greater for patients receiving Simponi than for patients receiving placebo regardless of the reason reported for discontinuation of one or more prior anti-TNF therapies.
 Table 2
 Key efficacy outcomes from the controlled portions of GO-FORWARD, GO-AFTER and GO-BEFORE.
 
@@ -86,7 +87,6 @@ Among those, 85, 66 and 53 patients had ACR 20/50/70 response, respectively, at 
 Radiographic Response:
 In GO-BEFORE the change from baseline in the vdH-S score, a composite score of structural damage that radiographically measures the number and size of joint erosions and the degree of joint space narrowing in hands/wrists and feet, was used to assess the degree of structural damage.
 Key results for the Simponi 50 mg dose at week 52 are presented in Table 3.
-
 The number of patients with no new erosions or a change from baseline in total vdH-S Score ≤ 0 was significantly higher in the Simponi treatment group than in the control group (p = 0.003).
 The radiographic effects observed at week 52 were maintained through week 104.
 
@@ -126,7 +126,6 @@ Patients were randomly assigned to placebo, Simponi 50 mg, or Simponi 100 mg.
 Approximately forty-eight percent of patients continued on stable doses of methotrexate (≤25 mg/week).
 The primary endpoint was the percentage of patients achieving ACR 20 response at week 14.
 Placebo-controlled efficacy data were collected and analysed through week 24.
-
 Key results for the 50 mg dose are shown in Table 4 and described below.
 In general, no clinically meaningful differences in measures of efficacy were observed between the Simponi 50 mg and 100 mg dosing regimens.
 
@@ -206,6 +205,7 @@ The presence of antibodies to golimumab may increase the risk of injection site 
 The small number of patients positive for antibodies to golimumab limits the ability to draw definitive conclusions regarding the relationship between antibodies to golimumab and clinical efficacy or safety measures.
 
 Because immunogenicity analyses are product- and assay-specific, comparison of antibody rates with those from other products is not appropriate.
+
 Paediatric population
 The European Medicines Agency has waived the obligation to conduct studies with Simponi in all subsets of the paediatric population in ankylosing spondylitis and rheumatoid arthritis (see section 4.2 for information on paediatric use).
 

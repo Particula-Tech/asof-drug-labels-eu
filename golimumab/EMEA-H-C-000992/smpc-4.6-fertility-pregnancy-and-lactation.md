@@ -9,6 +9,11 @@ Due to its inhibition of TNF, golimumab administered during pregnancy could affe
 Studies in animals do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal development, parturition or postnatal development (see section 5.3).
 The use of golimumab in pregnant women is not recommended; golimumab should be given to a pregnant woman only if clearly needed.
 
+Golimumab crosses the placenta.
+Following treatment with a TNF-blocking monoclonal antibody during pregnancy, the antibody has been detected for up to 6 months in the serum of the infant born by the treated woman.
+Consequently, these infants may be at increased risk of infection.
+Administration of live vaccines to infants exposed to golimumab in utero is not recommended for 6 months following the mother’s last golimumab injection during pregnancy (see sections 4.4 and 4.5).
+
 Breastfeeding
 It is not known whether golimumab is excreted in human milk or absorbed systemically after ingestion.
 Golimumab was shown to pass over to breast milk in monkeys, and because human immunoglobulins are excreted in milk, women must not breast feed during and for at least 6 months after golimumab treatment.

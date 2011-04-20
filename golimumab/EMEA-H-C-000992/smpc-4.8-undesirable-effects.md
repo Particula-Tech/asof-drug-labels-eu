@@ -78,7 +78,6 @@ Serious infections observed in golimumab-treated patients included tuberculosis,
 Some of these infections have been fatal.
 The incidence per patient year (95% CI) of serious infections through 1 year of follow up was 0.05 events (0.04, 0.06) for golimumab-treated patients and 0.06 events (0.04, 0.09) for control patients (see section 4.4).
 In the controlled and uncontrolled portions of the Phase II RA and the Phase III RA, PsA, and AS trials with a mean follow-up of 1.6 years, a greater incidence of TB was observed in the golimumab 100 mg treatment group compared with the golimumab 50 mg group.
-
 Malignancies
 
 Lymphoma
@@ -111,6 +110,7 @@ Liver enzyme elevations
 In controlled Phase III trials through week 16, mild ALT elevations (> 1 and < 3 x upper limit of normal (ULN)) occurred in similar proportions of golimumab and control patients in the RA and PsA studies (22.1% to 27.4% of patients); in the AS study, more golimumab-treated patients (25.6%) than control patients (3.9 %) had mild ALT elevations.
 Through 1 year of follow-up the incidence of mild ALT elevations was similar in golimumab-treated and control patients in RA and PsA studies.
 In the AS population, the incidence of mild ALT elevations was higher in golimumab-treated patients than in control patients.
+
 In the RA and AS studies through week 16, ALT elevations ≥ 5 x ULN were uncommon and seen in more golimumab-treated patients (0.4% to 0.9%) than control patients (0.0%).
 This trend was not observed in the PsA population.
 Through 1 year of follow-up, the incidence of ALT elevations ≥5 x ULN was similar in both golimumab-treated and control patients in the Phase III RA, PsA and AS studies.

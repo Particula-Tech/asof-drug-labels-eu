@@ -117,7 +117,7 @@ Switching between biological DMARDs
 When switching from one biologic to another, patients should be monitored for signs of infection.
 
 Vaccinations
-Patients treated with Simponi may receive concurrent vaccinations, except for live vaccines (see section 4.5).
+Patients treated with Simponi may receive concurrent vaccinations, except for live vaccines (see sections 4.5 and 4.6).
 No data are available on the response to vaccination, risk of infection or transmission of infection with the administration of live vaccines to patients receiving Simponi.
 
 Allergic reactions
