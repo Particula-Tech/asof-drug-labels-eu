@@ -14,11 +14,11 @@ Plasma aldosterone levels are decreased by telmisartan.
 Telmisartan does not inhibit human plasma renin or block ion channels.
 Telmisartan does not inhibit angiotensin converting enzyme (kininase II), the enzyme which also degrades bradykinin.
 Therefore it is not expected to potentiate bradykinin-mediated adverse effects.
-
 In human, an 80 mg dose of telmisartan almost completely inhibits the angiotensin II evoked blood pressure increase.
 The inhibitory effect is maintained over 24 hours and still measurable up to 48 hours.
 
 Clinical efficacy and safety:
+
 Treatment of essential hypertension
 After the first dose of telmisartan, the antihypertensive activity gradually becomes evident within 3 hours.
 The maximum reduction in blood pressure is generally attained 4 to 8 weeks after the start of treatment and is sustained during long-term therapy.
@@ -47,7 +47,6 @@ The hazard ratio for telmisartan vs. ramipril was 1.01 (97.5 % CI 0.93 - 1.10, p
 The all-cause mortality rate was 11.6 % and 11.8 % among telmisartan and ramipril treated patients, respectively.
 
 Telmisartan was found to be similarly effective to ramipril in the pre-specified secondary endpoint of cardiovascular death, non-fatal myocardial infarction, and non-fatal stroke [0.99 (97.5 % CI 0.90 - 1.08), p (non-inferiority) = 0.0004], the primary endpoint in the reference study HOPE (The Heart Outcomes Prevention Evaluation Study), which had investigated the effect of ramipril vs. placebo.
-
 TRANSCEND randomized ACE-I intolerant patients with otherwise similar inclusion criteria as ONTARGET to telmisartan 80 mg (n=2954) or placebo (n=2972), both given on top of standard care.
 The mean duration of follow up was 4 years and 8 months.
 No statistically significant difference in the incidence of the primary composite endpoint (cardiovascular death, non-fatal myocardial infarction, non-fatal stroke, or hospitalization for congestive heart failure) was found [15.7 % in the telmisartan and 17.0 % in the placebo groups with a hazard ratio of 0.92 (95 % CI 0.81 - 1.05, p = 0.22)].

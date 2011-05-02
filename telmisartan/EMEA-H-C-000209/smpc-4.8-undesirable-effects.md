@@ -39,6 +39,7 @@ Metabolism and nutrition disorders
 Uncommon: Hyperkalaemia
 
 Rare Hypoglycaemia (in diabetic patients)
+
 Psychiatric disorders
 
 Uncommon: Insomnia, depression
@@ -81,9 +82,9 @@ Rare: Hepatic function abnormal/liver disorder3
 Skin and subcutaneous tissue disorders
 
 Uncommon: Pruritus, hyperhidrosis, rash
-Rare: Angioedema, eczema, erythema, urticaria drug eruption, toxic skin
+Rare: Angioedema (also with fatal outcome), eczema, erythema, urticaria,
 
-eruption
+drug eruption, toxic skin eruption
 
 Muscoloskeletal and connective tissue disorders
 
@@ -109,6 +110,7 @@ Rare: Haemoglobin decreased, blood uric acid increased, hepatic enzyme
 increased, blood creatine phosphokinase increased
 
 1,2,3: for further descriptions, please see section 4.8.c).
+
 c. Description of selected adverse reactions
 
 1.
@@ -135,17 +137,15 @@ infection including pharyngitis and sinusitis )
 
 Rare: Hypoglycaemia (in diabetic patients)
 
-Rare: Angioedema, eczema, erythema, , urticaria, drug eruption, toxic
+Rare: Angioedema (also with fatal outcome), eczema, erythema, ,
 
-skin eruption
+urticaria, drug eruption, toxic skin eruption
 
 Rare: Haemoglobin decreased, blood uric acid increased, hepatic
 
-enzyme increased, blood creatine phosphokinase increased
+enzyme increased, blood creatine phosphokinase increased 1,2,3: for further descriptions, please see section 4.8.c).
 
 [Micardis 80 mg tablets]
-
-Rare: Angioedema, eczema, erythema, , urticaria, drug eruption, toxic skin
 
 Uncommon: Back pain (e.g. sciatica), , muscle spasms, myalgia
 Rare: Arthralgia, pain in extremity, tendor pain (tendinitis like symptoms)
