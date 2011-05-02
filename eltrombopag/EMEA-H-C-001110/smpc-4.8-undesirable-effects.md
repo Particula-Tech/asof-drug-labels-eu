@@ -38,6 +38,7 @@ Metabolism and nutrition disorders
 Uncommon Anorexia, Hypokalaemia, Decreased appetite, Increased appetite, Gout,
 
 Hypocalcaemia, Blood uric acid increased
+
 Psychiatric disorders
 
 Common Insomnia
@@ -79,13 +80,13 @@ Respiratory, thoracic and mediastinal disorders
 Uncommon Epistaxis, Pulmonary embolism, Pulmonary infarction, Cough, Nasal
 
 discomfort, Oropharyngeal blistering, Oropharyngeal pain, Sinus disorder, Sleep apnoea syndrome
-
 Gastrointestinal disorders
 
 Common Nausea, Diarrhoea, Constipation, Abdominal pain upper
 Uncommon Abdominal discomfort, Abdominal distension, Dry mouth, Dyspepsia,
 
 Vomiting, Abdominal pain, Gingival bleeding, Glossodynia, Haemorrhoids, Mouth haemorrhage, Abdominal tenderness, Faeces discoloured, Flatulence, Food poisoning, Frequent bowel movements, Haematemesis, Oral discomfort
+
 Hepatobiliary disorders
 
 Common Alanine aminotransferase increased*, Aspartate aminotransferase increased*,
@@ -135,8 +136,10 @@ Thromboembolic events (TEEs)
 
 In 3 controlled and 2 uncontrolled clinical studies, among adult chronic ITP patients receiving eltrombopag (n = 446), 17 subjects experienced a total of 19 TEEs, which included (in descending order of occurrence) deep vein thrombosis (n = 6), pulmonary embolism (n = 6), acute myocardial infarction (n = 2), cerebral infarction (n = 2), embolism (n = 1) (see section 4.4).
 
-In a placebo-controlled study, following 2 weeks treatment in preparation for invasive procedures, 6 of 261 patients with chronic liver disease experienced 7 thromboembolic events of the portal venous system.
-One additional patient developed a myocardial infarction 20 days after the last dose of study medication, which remains blinded.
+In a placebo-controlled study (n = 288, Safety population), following 2 weeks treatment in preparation for invasive procedures, 6 of 143 (4 %) adult patients with chronic liver disease receiving eltrombopag experienced 7 TEEs of the portal venous system and 2 of 145 (1 %) subjects in the placebo group experienced 3 TEEs.
+Five of the 6 patients treated with eltrombopag experienced the TEE at a platelet count > 200,000/µl.
+
+No specific risk factors were identified in those subjects who experienced a TEE with the exception of platelet counts ≥ 200,000/µl (see section 4.4).
 
 Thrombocytopenia following discontinuation of treatment
 

@@ -34,7 +34,6 @@ In a human radiolabel study, eltrombopag accounted for approximately 64 % of pla
 Minor metabolites due to glucuronidation and oxidation were also detected.
 In vitro studies suggest that CYP1A2 and CYP2C8 are responsible for oxidative metabolism of eltrombopag.
 Uridine diphosphoglucuronyl transferase UGT1A1 and UGT1A3 are responsible for glucuronidation, and bacteria in the lower gastrointestinal tract may be responsible for the cleavage pathway.
-
 Elimination
 
 Absorbed eltrombopag is extensively metabolised.
@@ -42,6 +41,7 @@ The predominant route of eltrombopag excretion is via faeces (59 %) with 31 % of
 Unchanged parent compound (eltrombopag) is not detected in urine.
 Unchanged eltrombopag excreted in faeces accounts for approximately 20 % of the dose.
 The plasma elimination half-life of eltrombopag is approximately 21-32 hours.
+
 Pharmacokinetic interactions
 
 Based on a human study with radiolabelled eltrombopag, glucuronidation plays a minor role in the metabolism of eltrombopag.
@@ -77,7 +77,11 @@ The pharmacokinetics of eltrombopag has been studied after administration of elt
 Following the administration of a single 50 mg dose, the AUC0-∞ of eltrombopag was 41 % higher in subjects with mild hepatic impairment and 80 % to 93 % higher in subjects with moderate to severe hepatic impairment compared with healthy volunteers.
 There was substantial variability and significant overlap in exposures between patients with hepatic impairment and healthy volunteers.
 Unbound eltrombopag (active) concentrations for this highly protein bound medicinal product were not measured.
-Therefore, eltrombopag should not be used in patients with moderate to severe hepatic impairment (Child-Pugh score ≥ 7) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see sections 4.2 and 4.4).
+The influence of hepatic impairment on the pharmacokinetics of eltrombopag following repeat administration was evaluated using a population pharmacokinetic analysis in 28 healthy adults and 79 patients with chronic liver disease (37 mild hepatic impairment, 40 with moderate hepatic impairment, and 2 with severe hepatic impairment).
+Based on estimates from the population pharmacokinetic analysis, patients with hepatic impairment had higher plasma eltrombopag AUC(0-τ) values as compared to healthy volunteers, and AUC(0-τ) increased with increasing Child-Pugh score.
+Compared to healthy volunteers, patients with mild hepatic impairment had approximately 87 % to 110 % higher plasma eltrombopag AUC(0-τ) values and patients with moderate hepatic impairment had approximately 141 % to 240 % higher plasma eltrombopag AUC(0-τ) values.
+Therefore, eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see sections 4.2 and 4.4).
+
 Race
 
 The influence of East Asian ethnicity on the pharmacokinetics of eltrombopag was evaluated using a population pharmacokinetic analysis in 111 healthy adults (31 East Asians) and 88 patients with ITP (18 East Asians).

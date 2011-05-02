@@ -15,6 +15,7 @@ OATP1B1 and BCRP substrates
 Concomitant administration of eltrombopag and OATP1B1 (e.g. methotrexate) and BCRP (e.g. topotecan and methotrexate) substrates should be undertaken with caution.
 
 Cytochrome P450 substrates
+
 In studies utilizing human liver microsomes, eltrombopag (up to 100 μM) showed no in vitro inhibition of the CYP450 enzymes 1A2, 2A6, 2C19, 2D6, 2E1, 3A4/5, and 4A9/11 and was an inhibitor of CYP2C8 and CYP2C9 as measured using paclitaxel and diclofenac as the probe substrates.
 Administration of eltrombopag 75 mg once daily for 7 days to 24 healthy male subjects did not inhibit or induce the metabolism of probe substrates for 1A2 (caffeine), 2C19 (omeprazole), 2C9 (flurbiprofen), or 3A4 (midazolam) in humans.
 No clinically significant interactions are expected when eltrombopag and CYP450 substrates are co-administered.

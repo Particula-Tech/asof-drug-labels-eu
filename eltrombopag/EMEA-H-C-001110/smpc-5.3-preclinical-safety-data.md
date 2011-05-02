@@ -15,7 +15,6 @@ Effects were less severe at lower doses and were characterized by a spectrum of 
 The exposure at the lowest dose was 1.2 times the human clinical exposure based on AUC.
 Renal effects were not observed in rats after 28 weeks or in dogs after 52 weeks at exposures 4 and 2 times respectively, the human clinical exposure based on AUC.
 The clinical relevance of these findings is unknown.
-
 Hepatocyte degeneration and/or necrosis, often accompanied by increased serum liver enzymes, was observed in mice, rats and dogs at doses that were associated with morbidity and mortality or were poorly tolerated.
 No hepatic effects were observed after chronic dosing in rats (28 weeks) or dogs
 (52 weeks) at exposures up to 4 or 2 times, respectively, the human clinical exposure based on AUC.
@@ -25,6 +24,7 @@ There were no effects of note on red cell mass or reticulocyte counts after dosi
 
 Endosteal hyperostosis was observed in a 28 week toxicity study in rats at a non-tolerated dose of 60 mg/kg/day (6 times maximum human clinical exposure based on AUC).
 There were no bone changes observed in mice or rats after lifetime exposure (2 years) at 4 times maximum human clinical exposure based on AUC.
+
 Eltrombopag was not carcinogenic in mice at doses up to 75 mg/kg/day or in rats at doses up to 40 mg/kg/day (exposures up to 4 times the human clinical exposure based on AUC).
 Eltrombopag was not mutagenic or clastogenic in a bacterial mutation assay or in two in vivo assays in rats (micronucleus and unscheduled DNA synthesis, 10 times the human clinical exposure based on Cmax).
 In the in vitro mouse lymphoma assay, eltrombopag was marginally positive (< 3-fold increase in mutation frequency).

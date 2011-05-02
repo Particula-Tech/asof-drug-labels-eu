@@ -24,19 +24,23 @@ Eltrombopag should be discontinued if ALT levels increase (≥ 3X the upper limi
 - accompanied by clinical symptoms of liver injury or evidence for hepatic decompensation
 
 Exercise caution when administering eltrombopag to patients with hepatic disease.
+Use a lower starting dose of eltrombopag and monitor closely when administering eltrombopag to patients with hepatic impairment (see section 4.2).
 
 Thrombotic/Thromboembolic complications
 
 Thrombotic/Thromboembolic complications may occur in patients with ITP.
 Platelet counts above the normal range present a theoretical risk of thrombotic/thromboembolic complications.
-In eltrombopag clinical trials thromboembolic events were observed at low and normal platelet counts.
+In eltrombopag clinical trials in ITP thromboembolic events were observed at low and normal platelet counts.
 Caution should be used when administering eltrombopag to patients with known risk factors for thromboembolism including but not limited to inherited (e.g. Factor V Leiden) or acquired risk factors (e.g. ATIII deficiency, antiphospholipid syndrome), advanced age, patients with prolonged periods of immobilisation, malignancies, contraceptives and hormone replacement therapy, surgery/trauma, obesity and smoking.
 Platelet counts should be closely monitored and consideration given to reducing the dose or discontinuing eltrombopag treatment if the platelet count exceeds the target levels (see section 4.2).
-The risk-benefit balance should be considered in patients at risk of thromboembolic events of any aetiology.
+The risk-benefit balance should be considered in patients at risk of thromboembolic events (TEEs) of any aetiology.
 
-The risk of thromboembolic events (TEEs) has been found to be increased in patients with chronic liver disease treated with 75 mg eltrombopag once daily for two weeks in preparation for invasive procedures.
-Therefore, eltrombopag should not be used in patients with moderate to severe hepatic impairment (Child-Pugh score ≥ 7) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see sections 4.2 and 4.8).
+The risk of TEEs has been found to be increased in patients with chronic liver disease (CLD) treated with 75 mg eltrombopag once daily for two weeks in preparation for invasive procedures.
+Six of 143 (4%) adult patients with CLD receiving eltrombopag experienced TEEs (all of the portal venous system) and two of 145 (1 %) subjects in the placebo group experienced TEEs (one in the portal venous system and one myocardial infarction).
+Five of the 6 patients treated with eltrombopag experienced the thrombotic complication at a platelet count > 200,000/µl and within 30 days of the last dose of eltrombopag.
 
+Eltrombopag should not be used in patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis.
+When treatment is considered appropriate exercise caution when administering eltrombopag to ITP patients with hepatic impairment (see sections 4.2 and 4.8).
 Bleeding following discontinuation of eltrombopag
 
 Thrombocytopenia is likely to reoccur upon discontinuation of treatment with eltrombopag.
@@ -45,6 +49,7 @@ This risk is increased if eltrombopag treatment is discontinued in the presence 
 It is recommended that, if treatment with eltrombopag is discontinued, ITP treatment be restarted according to current treatment guidelines.
 Additional medical management may include cessation of anticoagulant and/or anti-platelet therapy, reversal of anticoagulation, or platelet support.
 Platelet counts must be monitored weekly for 4 weeks following discontinuation of eltrombopag.
+
 Bone marrow reticulin formation and risk of bone marrow fibrosis
 
 Eltrombopag may increase the risk for development or progression of reticulin fibers within the bone marrow.
@@ -70,3 +75,7 @@ Routine monitoring of patients for cataracts is recommended.
 Loss of response to eltrombopag
 
 A loss of response or failure to maintain a platelet response with eltrombopag treatment within the recommended dosing range should prompt a search for causative factors, including an increased bone marrow reticulin.
+
+[Revolade 50 mg film-coated tablets]
+
+Six of 143 (4 %) adult patients with CLD receiving eltrombopag experienced TEEs (all of the portal venous system) and two of 145 (1 %) subjects in the placebo group experienced TEEs (one in the portal venous system and one myocardial infarction).

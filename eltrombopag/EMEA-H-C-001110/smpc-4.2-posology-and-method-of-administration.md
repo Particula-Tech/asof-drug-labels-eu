@@ -53,11 +53,12 @@ No dose adjustment is necessary in patients with renal impairment.
 Patients with impaired renal function should use eltrombopag with caution and close monitoring, for example by testing serum creatinine and/or performing urine analysis (see section 5.2).
 Hepatic impairment
 
-Eltrombopag should not be used in patients with moderate to severe hepatic impairment (Child-Pugh score ≥ 7) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see section 4.4).
+Eltrombopag should not be used in ITP patients with hepatic impairment (Child-Pugh score ≥ 5) unless the expected benefit outweighs the identified risk of portal venous thrombosis (see section 4.4).
 
-If the use of eltrombopag is deemed necessary, the starting dose must be 25 mg once daily.
+If the use of eltrombopag is deemed necessary for ITP patients with hepatic impairment the starting dose must be 25 mg once daily.
+After initiating the dose of eltrombopag in patients with hepatic impairment wait 3 weeks before increasing the dose.
 
-The risk of thromboembolic events (TEEs) has been found to be increased in patients with chronic liver disease treated with 75 mg eltrombopag once daily for two weeks in preparation for invasive procedures (see sections 4.4 and 4.8).
+The risk of thromboembolic events (TEEs) has been found to be increased in thrombocytopenic patients (platelet count < 50,000/µl) with chronic liver disease (CLD), without concomitant ITP, treated with 75 mg eltrombopag once daily for two weeks in preparation for invasive procedures (see sections 4.4 and 4.8).
 
 Paediatric population
 

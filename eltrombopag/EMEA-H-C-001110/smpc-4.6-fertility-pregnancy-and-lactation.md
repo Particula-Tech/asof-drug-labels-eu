@@ -5,6 +5,7 @@ Pregnancy
 There are no or limited amount of data from the use of eltrombopag in pregnant women.
 Studies in animals have shown reproductive toxicity (see section 5.3).
 The potential risk for humans is unknown.
+
 Revolade is not recommended during pregnancy and in women of childbearing potential not using contraception.
 
 Breast-feeding
