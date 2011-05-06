@@ -1,6 +1,6 @@
 # 6.3 Shelf life
 
-3 years.
+4 years.
 
 [Vimpat 100 mg film-coated tablets]
 
@@ -20,6 +20,7 @@
 
 [Vimpat 15 mg/ml syrup]
 
+3 years
 After first opening: 4 weeks.
 
 [Vimpat 10 mg/ml solution for infusion]

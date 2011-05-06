@@ -11,7 +11,7 @@ Distribution
 The volume of distribution is approximately 0.6 L/kg.
 Lacosamide is less than 15% bound to plasma proteins.
 
-Metabolism
+Biotransformation
 95% of the dose is excreted in the urine as drug and metabolites.
 The metabolism of lacosamide has not been completely characterised.
 The major compounds excreted in urine are unchanged lacosamide (approximately 40% of the dose) and its O-desmethyl metabolite less than 30%.
@@ -30,7 +30,9 @@ The elimination half-life of the unchanged drug is approximately 13 hours.
 The pharmacokinetics is dose-proportional and constant over time, with low intra- and inter-subject variability.
 Following twice daily dosing, steady state plasma concentrations are achieved after a 3 day period.
 The plasma concentration increases with an accumulation factor of approximately 2.
+
 Pharmacokinetics in special patient groups
+
 Gender
 Clinical trials indicate that gender does not have a clinically significant influence on the plasma concentrations of lacosamide.
 
@@ -48,7 +50,6 @@ Subjects with moderate hepatic impairment (Child-Pugh B) showed higher plasma co
 The higher exposure was partly due to a reduced renal function in the studied subjects.
 The decrease in non-renal clearance in the patients of the study was estimated to give a 20% increase in the AUC of lacosamide.
 The pharmacokinetics of lacosamide has not been evaluated in severe hepatic impairment (see section 4.2).
-
 Elderly (over 65 years of age)
 In a study in elderly men and women including 4 patients >75 years of age, AUC was about 30 and 50% increased compared to young men, respectively.
 This is partly related to lower body weight.

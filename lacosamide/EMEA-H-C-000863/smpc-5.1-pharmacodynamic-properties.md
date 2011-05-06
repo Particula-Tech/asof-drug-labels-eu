@@ -11,7 +11,7 @@ Pharmacodynamic effects
 Lacosamide protected against seizures in a broad range of animal models of partial and primary generalized seizures and delayed kindling development.
 In non-clinical experiments lacosamide in combination with levetiracetam, carbamazepine, phenytoin, valproate, lamotrigine, topiramate or gabapentin showed synergistic or additive anticonvulsant effects.
 
-Clinical experience
+Clinical efficacy and safety
 The efficacy of Vimpat as adjunctive therapy at recommended doses (200 mg/day, 400 mg/day) was established in 3 multicenter, randomized, placebo-controlled clinical trials with a 12-week maintenance period.
 Vimpat 600 mg/day was also shown to be effective in controlled adjunctive therapy trials, although the efficacy was similar to 400 mg/day and patients were less likely to tolerate this dose because of CNS- and gastrointestinal-related adverse reactions.
 Thus, the 600 mg/day dose is not recommended.

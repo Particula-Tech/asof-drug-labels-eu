@@ -1,5 +1,6 @@
 # 4.2 Posology and method of administration
 
+Posology
 Vimpat must be taken twice a day.
 The recommended starting dose is 50 mg twice a day which should be increased to an initial therapeutic dose of 100 mg twice a day after one week.
 Depending on response and tolerability, the maintenance dose can be further increased by 50 mg twice a day every week, to a maximum recommended daily dose of 400 mg (200 mg twice a day).
@@ -7,7 +8,8 @@ Vimpat may be taken with or without food.
 
 In accordance with current clinical practice, if Vimpat has to be discontinued, it is recommended this be done gradually (e.g. taper the daily dose by 200 mg/week).
 
-Use in patients with renal impairment
+Special population
+Renal impairment
 No dose adjustment is necessary in mildly and moderately renally impaired patients (CLCR
 >30 ml/min).
 A maximum dose of 250 mg/day is recommended for patients with severe renal impairment (CLCR ≤30 ml/min) and in patients with endstage renal disease.
@@ -15,16 +17,17 @@ For patients requiring haemodialysis a supplement of up to 50% of the divided da
 Treatment of patients with end-stage renal disease should be made with caution as there is little clinical experience and accumulation of a metabolite (with no known pharmacological activity).
 In all patients with renal impairment, the dose titration should be performed with caution (see section 5.2).
 
-Use in patients with hepatic impairment
+Hepatic impairment
 No dose adjustment is needed for patients with mild to moderate hepatic impairment.
 The dose titration in these patients should be performed with caution considering co-existing renal impairment.
 The pharmacokinetics of lacosamide has not been evaluated in severely hepatic impaired patients (see section 5.2).
 
-Use in elderly (over 65 years of age)
+Elderly (over 65 years of age)
 No dose reduction is necessary in elderly patients.
 The experience with lacosamide in elderly patients with epilepsy is limited.
 Age associated decreased renal clearance with an increase in AUC levels should be considered in elderly patients (see ‘Use in patients with renal impairment’ above and section 5.2).
-Paediatric patients
+
+Paediatric population
 Vimpat is not recommended for use in children and adolescents below the age of 16 as there is no data on safety and efficacy in these age groups.
 
 [Vimpat 100 mg film-coated tablets]

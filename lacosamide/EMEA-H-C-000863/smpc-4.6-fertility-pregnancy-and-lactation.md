@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 Pregnancy
 Risk related to epilepsy and antiepileptic medicinal products in general
@@ -13,7 +13,7 @@ The potential risk for humans is unknown.
 Lacosamide should not be used during pregnancy unless clearly necessary (if the benefit to the mother clearly outweighs the potential risk to the foetus).
 If women decide to become pregnant, the use of this product should be carefully re-evaluated.
 
-Lactation
+Breastfeeding
 It is unknown whether lacosamide is excreted in human breast milk.
 Animal studies have shown excretion of lacosamide in breast milk.
 For precautionary measures, breast-feeding should be discontinued during treatment with lacosamide.
