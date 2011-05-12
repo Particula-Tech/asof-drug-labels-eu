@@ -2,7 +2,7 @@
 
 Therapy should be initiated by a physician experienced in the management of chronic hepatitis B infection.
 
-Baraclude should be taken orally, once-daily.
+Posology
 
 Compensated liver disease
 
@@ -50,6 +50,10 @@ Hepatic impairment: no dose adjustment is required in patients with hepatic impa
 
 Paediatric population: the safety and efficacy of Baraclude in children below 18 years of age have not yet been established.
 No data are available.
+
+Method of administration
+
+Baraclude should be taken orally.
 
 [Baraclude 1 mg film-coated tablets]
 

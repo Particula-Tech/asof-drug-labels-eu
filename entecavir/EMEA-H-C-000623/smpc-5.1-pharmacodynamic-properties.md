@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: nucleoside and nucleotide reverse transcriptase inhibitors
+Pharmacotherapeutic group: antivirals for systemic use, nucleoside and nucleotide reverse transcriptase inhibitors
 ATC code: J05AF10
 
 Mechanism of action: entecavir, a guanosine nucleoside analogue with activity against HBV polymerase, is efficiently phosphorylated to the active triphosphate (TP) form, which has an intracellular half-life of 15 hours.
