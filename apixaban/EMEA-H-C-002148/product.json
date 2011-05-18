@@ -1,0 +1,16 @@
+{
+  "active_substance": "apixaban",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002148",
+  "eu_number": "EU/1/11/691",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2011-05-18",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/eliquis",
+  "molecule": "apixaban",
+  "molecule_name": "APIXABAN",
+  "name": "Eliquis",
+  "register_name": "Eliquis",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h691.htm"
+}

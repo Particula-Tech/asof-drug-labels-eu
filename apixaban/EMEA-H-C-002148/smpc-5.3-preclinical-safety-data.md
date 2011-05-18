@@ -1,0 +1,9 @@
+# 5.3 Preclinical safety data
+
+Preclinical data reveal no special hazard for humans based on conventional studies of safety pharmacology, repeated dose toxicity, genotoxicity, carcinogenic potential, fertility and embryo-foetal development.
+In the offspring of pregnant rats treated with apixaban there were decreases in mating and fertility.
+These effects were minimal and observed only at exposures considered sufficiently in excess of the maximum human exposure indicating little relevance to clinical use.
+
+The major observed effects in the repeated dose toxicity studies were those related to the pharmacodynamic action of apixaban on blood coagulation parameters.
+In the toxicity studies little to no increase of bleeding tendency was found.
+However, since this may be due to a lower sensitivity of the non-clinical species compared to humans, this result should be interpreted with caution when extrapolating to humans.
