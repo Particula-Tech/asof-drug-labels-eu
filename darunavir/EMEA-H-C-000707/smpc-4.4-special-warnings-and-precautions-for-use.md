@@ -15,9 +15,9 @@ Therefore, protein displacement of medicinal products highly bound to α1-acid g
 
 ART-experienced patients – once daily dosing
 PREZISTA/rtv 800/100 mg once daily in ART-experienced patients should not be used in patients with one or more darunavir resistance associated mutations (DRV-RAMs) or HIV-1 RNA
-≥100,000 copies/ml or CD4+ cell count < 100 cells x 106/l (see section 4.2).
+≥ 100,000 copies/ml or CD4+ cell count < 100 cells x 106/l (see section 4.2).
 The efficacy and safety of PREZISTA/rtv 800/100 mg once daily in combination with optimised background regimen (OBR) for the treatment of HIV-1 infection in ART-experienced adults with no darunavir resistance associated mutations (DRV-RAMs) was evaluated in one trial with a duration of 48 weeks.
-Combinations with OBRs other than ≥2 NRTIs have not been studied in this population.
+Combinations with OBRs other than ≥ 2 NRTIs have not been studied in this population.
 Limited data is available in patients with HIV-1 clades other than B (see section 5.1).
 
 Paediatric population

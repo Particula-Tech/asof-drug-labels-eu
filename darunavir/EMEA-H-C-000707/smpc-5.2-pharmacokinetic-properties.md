@@ -36,7 +36,7 @@ Paediatric population
 The pharmacokinetics of darunavir in combination with ritonavir in 74 treatment-experienced paediatric patients, aged 6 to 17 years and weighing at least 20 kg, showed that the administered weight-based doses of PREZISTA/ritonavir resulted in darunavir exposure comparable to that in adults receiving PREZISTA/ritonavir 600/100 mg twice daily (see section 4.2).
 
 Elderly
-Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (n=12, age ≥65) (see section 4.4).
+Population pharmacokinetic analysis in HIV infected patients showed that darunavir pharmacokinetics are not considerably different in the age range (18 to 75 years) evaluated in HIV infected patients (n=12, age ≥ 65) (see section 4.4).
 However, only limited data were available in patients above the age of 65 year.
 
 Gender

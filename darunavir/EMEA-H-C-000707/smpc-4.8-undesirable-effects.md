@@ -8,10 +8,12 @@ The total mean treatment duration for subjects was 48.58 weeks.
 For treatment-naïve patients, see the information below the table.
 The most frequent adverse reactions reported in clinical trials and as spontaneous reports are diarrhoea, immune reconstitution syndrome, nausea, pyrexia and rash.
 The most frequent serious reactions are diarrhoea, hepatitis, immune reconstitution syndrome, pyrexia and rash.
+
 b. Tabulated summary of adverse reactions
 Adverse reactions are listed by system organ class (SOC) and frequency category.
 Within each frequency category, adverse reactions are presented in order of decreasing seriousness.
-Frequency categories are defined as follows: very common (≥1/10), common (≥1/100 to < 1/10), uncommon (≥1/1,000 to < 1/100), rare (≥1/10,000 to < 1/1,000) and not known (frequency cannot be estimated from the available data).
+Frequency categories are defined as follows: very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon
+(≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and not known (frequency cannot be estimated from the available data).
 
 Adverse reactions in clinical trials and post-marketing in adult patients
 
@@ -36,9 +38,9 @@ Adverse reactions in clinical trials and post-marketing in adult patients
 | uncommon | syncope, convulsion, lethargy, paraesthesia, hypoaesthesia, ageusia, dysgeusia, disturbance in attention, memory impairment, somnolence, sleep phase rhythm disturbance |
 | Eye disorders |  |
 | uncommon | visual disturbance, conjunctival hyperaemia, dry eye |
-| Ear and labyrinth disorders |  |
-| uncommon | vertigo |
-| Cardiac disorders uncommon | acute myocardial infarction, myocardial infarction, angina pectoris, prolonged electrocardiogram QT, sinus bradycardia, tachycardia, palpitations |
+| Ear and labyrinth disorders uncommon | vertigo |
+| Cardiac disorders |  |
+| uncommon | acute myocardial infarction, myocardial infarction, angina pectoris, prolonged electrocardiogram QT, sinus bradycardia, tachycardia, palpitations |
 | Vascular disorders |  |
 | uncommon | hypertension, flushing |
 | Respiratory, thoracic and mediastinal disorders |  |
@@ -66,8 +68,7 @@ Adverse reactions in clinical trials and post-marketing in adult patients
 
 1 see section 4.4
 2 see section 4.8 c)
-3
-In clinical studies of treatment-experienced patients, rash, irrespective of causality, was more commonly observed with regimens containing PREZISTA + raltegravir compared to those containing PREZISTA without raltegravir or raltegravir without PREZISTA.
+3 In clinical studies of treatment-experienced patients, rash, irrespective of causality, was more commonly observed with regimens containing PREZISTA + raltegravir compared to those containing PREZISTA without raltegravir or raltegravir without PREZISTA.
 Rash considered by the investigator to be drug-related occurred at similar rates.
 The exposure-adjusted rates of rash (all causality) were 10.9, 4.2, and 3.8 per 100 patient-years (PYR), respectively; and for drug-related rash were 2.4, 1.1, and 2.3 per 100 PYR, respectively.
 The rashes observed in clinical studies were mild to moderate in severity and did not result in discontinuation of therapy (see section 4.4).
