@@ -16,11 +16,7 @@ Serum ALT and HBV DNA levels should be followed regularly after treatment discon
 - In HBeAg negative patients without cirrhosis, treatment should be administered at least until HBs seroconversion or there is evidence of loss of efficacy.
   With prolonged treatment for more than 2 years, regular reassessment is recommended to confirm that continuing the selected therapy remains appropriate for the patient.
 
-Paediatric population: Viread is not recommended for use in children.
-
-The clinical data available in HIV-1 infected adolescents are inadequate to support the use of tenofovir disoproxil fumarate in this population (see sections 4.4 and 5.1) and no data are currently available in younger children.
-
-No data are currently available in paediatric patients infected with chronic hepatitis B.
+Paediatric patients: Viread is not recommended for use in children below the age of 18 years due to insufficient data on safety and efficacy (see section 5.2).
 
 Elderly: No data are available on which to make a dose recommendation for patients over the age of 65 years (see section 4.4).
 
@@ -41,10 +37,10 @@ If no alternative treatment is available, prolonged dose intervals may be used a
 Severe renal impairment: 245 mg tenofovir disoproxil (as fumarate) may be administered every 72-96 hours (dosing twice a week).
 
 Haemodialysis patients: 245 mg tenofovir disoproxil (as fumarate) may be administered every 7 days following completion of a haemodialysis session*.
+
 These dose adjustments have not been confirmed in clinical studies.
 Simulations suggest that the prolonged dose interval is not optimal and could result in increased toxicity and possibly inadequate response.
 Therefore clinical response to treatment and renal function should be closely monitored (see sections 4.4 and 5.2).
-
 * Generally, once weekly dosing assuming three haemodialysis sessions per week, each of approximately 4 hours duration or after 12 hours cumulative haemodialysis.
 
 No dosing recommendations can be given for non-haemodialysis patients with creatinine clearance

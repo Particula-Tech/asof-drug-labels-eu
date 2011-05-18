@@ -1,6 +1,6 @@
 # 4.4 Special warnings and precautions for use
 
-General: Tenofovir disoproxil fumarate has not been studied in patients under the age of 12 or in patients over the age of 65.
+General: Tenofovir disoproxil fumarate has not been studied in patients under the age of 18 or in patients over the age of 65.
 Elderly patients are more likely to have decreased renal function, therefore caution should be exercised when treating elderly patients with tenofovir disoproxil fumarate (see below).
 
 HIV antibody testing should be offered to all HBV infected patients before initiating tenofovir disoproxil fumarate therapy (see below Co-infection with HIV-1 and hepatitis B).
@@ -22,7 +22,6 @@ Co-administration of other medicinal products:
   A decreased dosage of 250 mg didanosine co-administered with tenofovir disoproxil fumarate therapy has been associated with reports of high rates of virological failure within several tested combinations for the treatment of HIV-1 infection.
 
 Triple therapy with nucleosides/nucleotides: There have been reports of a high rate of virological failure and of emergence of resistance at early stage in HIV patients when tenofovir disoproxil fumarate was combined with lamivudine and abacavir as well as with lamivudine and didanosine as a once daily regimen.
-
 Renal function: Tenofovir is principally eliminated via the kidney.
 Renal failure, renal impairment, elevated creatinine, hypophosphataemia and proximal tubulopathy (including Fanconi syndrome) have been reported with the use of tenofovir disoproxil fumarate in clinical practice (see section 4.8).
 
@@ -48,19 +47,15 @@ These renal transport proteins may be responsible for tubular secretion and in p
 Consequently, the pharmacokinetics of these medicinal products which are secreted by the same renal pathway including transport proteins hOAT 1 and 3 or MRP 4 might be modified if they are co-administered.
 Unless clearly necessary, concomitant use of these medicinal products which are secreted by the same renal pathway is not recommended, but if such use is unavoidable, renal function should be monitored weekly (see section 4.5).
 
-Bone effects: In HIV infected patients, in a 144-week controlled clinical study that compared tenofovir disoproxil fumarate with stavudine in combination with lamivudine and efavirenz in antiretroviral-naïve patients, small decreases in bone mineral density (BMD) of the hip and spine were observed in both treatment groups.
-Decreases in BMD of spine and changes in bone biomarkers from baseline were significantly greater in the tenofovir disoproxil fumarate treatment group at 144 weeks.
-Decreases in BMD of hip were significantly greater in this group until 96 weeks.
+Bone effects: In HIV infected patients, in a 144-week controlled clinical study that compared tenofovir disoproxil fumarate with stavudine in combination with lamivudine and efavirenz in antiretroviral-naïve patients, small decreases in bone mineral density of the hip and spine were observed in both treatment groups.
+Decreases in bone mineral density of spine and changes in bone biomarkers from baseline were significantly greater in the tenofovir disoproxil fumarate treatment group at 144 weeks.
+Decreases in bone mineral density of hip were significantly greater in this group until 96 weeks.
 However, there was no increased risk of fractures or evidence for clinically relevant bone abnormalities over 144 weeks.
 
 Bone abnormalities (infrequently contributing to fractures) may be associated with proximal renal tubulopathy (see section 4.8).
-If bone abnormalities are suspected or detected then appropriate consultation should be obtained.
-
-Paediatric population: Viread may cause a reduction in BMD.
-The effects of tenofovir disoproxil fumarate-associated changes in BMD on long-term bone health and future fracture risk are currently unknown (see section 5.1).
+If bone abnormalities are suspected then appropriate consultation should be obtained.
 
 Liver disease: Safety and efficacy data are very limited in liver transplant patients.
-
 There are limited data on the safety and efficacy of tenofovir disoproxil fumarate in HBV infected patients with decompensated liver disease and who have a Child-Pugh-Turcotte (CPT) score > 9.
 These patients may be at higher risk of experiencing serious hepatic or renal adverse reactions.
 Therefore, hepatobiliary and renal parameters should be closely monitored in this patient population.
@@ -95,11 +90,11 @@ Lactic acidosis has a high mortality and may be associated with pancreatitis, li
 Lactic acidosis generally occurred after a few or several months of treatment.
 
 Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactataemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
+
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
 Patients co-infected with hepatitis C and treated with alpha interferon and ribavirin may constitute a special risk.
 
 Patients at increased risk should be followed closely.
-
 Lipodystrophy (lipoatrophy/lipomatosis): In HIV infected patients, combination antiretroviral therapy has been associated with the redistribution of body fat (lipodystrophy).
 The long-term consequences of these events are currently unknown.
 Knowledge about the mechanism is incomplete.

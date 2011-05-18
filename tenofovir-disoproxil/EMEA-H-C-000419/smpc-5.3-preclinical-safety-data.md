@@ -1,9 +1,9 @@
 # 5.3 Preclinical safety data
 
 Preclinical studies conducted in rats, dogs and monkeys revealed target organ effects in gastrointestinal tract, kidney, bone and a decrease in serum phosphate concentration.
-Bone toxicity was diagnosed as osteomalacia (monkeys) and reduced BMD (rats and dogs).
-The bone toxicity in young adult rats and dogs occurred at exposures ≥ 5-fold the exposure in paediatric or adult patients; bone toxicity occurred in juvenile infected monkeys at very high exposures following subcutaneous dosing (≥ 40-fold the exposure in patients).
-Findings in the rat and monkey studies indicated that there was a substance-related decrease in intestinal absorption of phosphate with potential secondary reduction in BMD.
+Bone toxicity was diagnosed as osteomalacia (monkeys) and reduced bone mineral density (rats and dogs).
+Findings in the rat and monkey studies indicated that there was a substance-related decrease in intestinal absorption of phosphate with potential secondary reduction in bone mineral density.
+However, no conclusion could be drawn on the mechanism(s) underlying these toxicities.
 
 Reproductive studies were conducted in rats and rabbits.
 There were no effects on mating or fertility parameters or on any pregnancy or foetal parameter.
