@@ -1,4 +1,4 @@
 # 4.1 Therapeutic indications
 
-Treatment of essential hypertension.
-Treatment of renal disease in patients with hypertension and type 2 diabetes mellitus as part of an antihypertensive medicinal product regimen (see section 5.1).
+Aprovel is indicated in adults for the treatment of essential hypertension.
+It is also indicated for the treatment of renal disease in adult patients with hypertension and type 2 diabetes mellitus as part of an antihypertensive medicinal product regimen (see section 5.1).

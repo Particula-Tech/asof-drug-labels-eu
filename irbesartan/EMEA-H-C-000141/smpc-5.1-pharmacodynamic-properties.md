@@ -31,6 +31,7 @@ As is the case with other medicinal products that affect the renin-angiotensin s
 When irbesartan is administered concomitantly with a low dose of hydrochlorothiazide (e.g. 12.5 mg daily), the antihypertensive response in black patients approaches that of white patients.
 There is no clinically important effect on serum uric acid or urinary uric acid secretion.
 
+Paediatric population
 Reduction of blood pressure with 0.5 mg/kg (low), 1.5 mg/kg (medium) and 4.5 mg/kg (high) target titrated doses of irbesartan was evaluated in 318 hypertensive or at risk (diabetic, family history of hypertension) children and adolescents aged 6 to 16 years over a three week period.
 At the end of the three weeks the mean reduction from baseline in the primary efficacy variable, trough seated systolic blood pressure (SeSBP) was 11.7 mmHg (low dose), 9.3 mmHg (medium dose), 13.2 mmHg (high dose).
 No significant difference was apparent between these doses.
@@ -48,7 +49,6 @@ Irbesartan significantly reduced the relative risk in the primary combined endpo
 Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine
 (p = 0.006)].
 When the individual components of the primary endpoint were analysed, no effect in all cause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
-
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect.
 In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it.
 As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebo-based regimen.
