@@ -52,11 +52,12 @@ Table 5: Efficacy results in newly diagnosed patients with Chronic Phase CML
 SPRYCEL imatinib p-value
 n= 259 n= 260
 
-|  | Response rate (95% CI) |  |
-| --- | --- | --- |
-| Cytogenetic response within 12 months a cCCyR | 76.8% (71.2–81.8) 66.2% (60.1–71.9) | p< 0.007* |
-| b CCyR | 85.3% (80.4-89.4) 73.5% (67.7-78.7) | ⎯ |
-| c Major Molecular Response | 52.1% (45.9–58.3) 33.8% (28.1–39.9) | p< 0.00003* |
+Response rate (95% CI)
+Cytogenetic response within 12 months
+
+cCCyRa 76.8% (71.2–81.8) 66.2% (60.1–71.9) p< 0.007*
+CCyRb 85.3% (80.4-89.4) 73.5% (67.7-78.7) 
+Major Molecular Responsec 52.1% (45.9–58.3) 33.8% (28.1–39.9) p< 0.00003*
 
 Hazard Ratio (99.99% CI)
 
@@ -172,11 +173,11 @@ Myeloid Lymphoid
 Chronic Accelerated Blast Blast Ph+ ALL
 (n= 387) (n= 174) (n= 109) (n= 48) (n= 46)
 
-| Haematologic response rateb (%) |  |  |  |
+| b Haematologic response rate (%) |  |  |  |
 | --- | --- | --- | --- |
 | MaHR (95% CI) n/a 64% (57-72) CHR (95% CI) 91% (88-94) 50% (42-58) NEL (95% CI) n/a 14% (10-21) Duration of MaHR (%; Kaplan-Meier estimates) 1 Year n/a 79% (71-87) 2 Year n/a 60% (50-70) | 33% (24-43) 26% (18-35) 7% (3-14) | 35% (22-51) 29% (17-44) 6% (1-17) | 41% (27-57) 35% (21-50) 7% (1-18) |
 |  | 71% (55-87) 41% (21-60) | 29% (3-56) 10% (0-28) | 32% (8-56) 24% (2-47) |
-| Cytogenetic responsec (%) |  |  |  |
+| c Cytogenetic response (%) |  |  |  |
 | MCyR (95% CI) 62% (57-67) 40% (33-48) CCyR (95% CI) 54% (48-59) 33% (26-41) | 34% (25-44) 27% (19-36) | 52% (37-67) 46% (31-61) | 57% (41-71) 54% (39-69) |
 | Survival (%; Kaplan-Meier estimates) |  |  |  |
 | Progression-Free 1 Year 91% (88-94) 64% (57-72) 2 Year 80% (75-84) 46% (38-54) | 35% (25-45) 20% (11-29) | 14% (3-25) 5% (0-13) | 21% (9-34) 12% (2-23) |
