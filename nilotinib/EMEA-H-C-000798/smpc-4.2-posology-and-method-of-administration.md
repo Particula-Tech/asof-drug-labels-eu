@@ -9,6 +9,7 @@ For a dose of 400 mg once daily (see dose adjustments below), 200 mg capsules ar
 
 Dose adjustments or modifications
 Tasigna may need to be temporarily withheld and/or dose reduced for haematological toxicities (neutropenia, thrombocytopenia) that are not related to the underlying leukaemia (see Table 1).
+
 Table 1 Dose adjustments for neutropenia and thrombocytopenia
 
 Newly diagnosed ANC* <1.0 x 109/l and/or platelet 1. Treatment with Tasigna must be
@@ -23,7 +24,6 @@ reduction to 400 mg once daily may
 be required.
 
 *ANC = absolute neutrophil count
-
 If clinically significant moderate or severe non-haematological toxicity develops, dosing should be interrupted, and may be resumed at 400 mg once daily once the toxicity has resolved.
 If clinically appropriate, re-escalation of the dose to 300 mg twice daily should be considered.
 
@@ -58,6 +58,7 @@ Method of administration
 Tasigna should be taken twice daily approximately 12 hours apart and must not be taken with food.
 The capsules should be swallowed whole with water.
 No food should be consumed for 2 hours before the dose is taken and for at least one hour after.
+
 If a dose is missed the patient should not take an additional dose, but take the usual prescribed next dose.
 
 For patients who are unable to swallow capsules, the content of each capsule may be dispersed in one teaspoon of apple sauce (puréed apple) and should be taken immediately.

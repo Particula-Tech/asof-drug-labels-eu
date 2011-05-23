@@ -6,7 +6,6 @@ Therefore, absorption and subsequent elimination of systemically absorbed niloti
 Concomitant administration of nilotinib with imatinib (a substrate and moderator of P-gp and CYP3A4), had a slight inhibitory effect on CYP3A4 and/or P-gp.
 The AUC of imatinib was increased by 18% to 39%, and the AUC of nilotinib was increased by 18% to 40%.
 These changes are unlikely to be clinically important.
-
 The exposure to nilotinib in healthy subjects was increased 3-fold when co-administered with the strong CYP3A4 inhibitor ketoconazole.
 Concomitant treatment with strong CYP3A4 inhibitors, including ketoconazole, itraconazole, voriconazole, ritonavir, clarithromycin, and telithromycin, should therefore be avoided (see sections 4.2 and 4.4).
 Increased exposure to nilotinib might also be expected with moderate CYP3A4 inhibitors.

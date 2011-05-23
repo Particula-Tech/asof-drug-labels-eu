@@ -19,7 +19,6 @@ QTcF increase from baseline exceeding 60 msec was observed <1% of patients.
 No sudden deaths or episodes of torsade de pointes (transient or sustained) have been observed.
 No decrease from baseline in mean left ventricular ejection fraction (LVEF) was observed at any time during treatment.
 No patient had a LVEF of <45% during treatment nor an absolute reduction in LVEF of more than 15%.
-
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients treated with 300 mg of nilotinib twice daily in the randomised Phase III study are shown in Table 2.
 These are ranked under heading of frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
@@ -63,12 +62,12 @@ Blood and lymphatic system disorders:
 Common: lymphopenia.
 Uncommon: pancytopenia.
 Not known: febrile neutropenia.
+
 Immune system disorders:
 Not known: hypersensitivity.
 
 Endocrine disorders:
 Not known: hyperparathyroidism secondary.
-
 Metabolism and nutrition disorders:
 Common: hypokalaemia, diabetes mellitus, hypercholesterolaemia, hyperlipidaemia, hyperglycaemia, hypophosphataemia, anorexia.
 Uncommon: hyperkalaemia, hypocalcaemia, decreased appetite.
@@ -114,11 +113,11 @@ Hepatobiliary disorders:
 Common: hepatic function abnormal.
 Uncommon: hepatitis, jaundice.
 Not known: hepatotoxicity.
+
 Skin and subcutaneous tissue disorders:
 Common: erythema, hyperhidrosis, contusion, acne, dermatitis, night sweats.
 Uncommon: drug eruption, skin pain.
 Not known: eczema, urticaria, blister, dermal cyst, sebaceous hyperplasia, swelling face, skin atrophy, skin hypertrophy, skin exfoliation, skin hyperpigmentation, skin discolouration.
-
 Musculoskeletal and connective tissue disorders:
 Common: bone pain, pain in extremity, back pain.
 Uncommon: muscular pain, pain.
@@ -159,9 +158,16 @@ Table 3 Grade 3-4 laboratory abnormalities
 | - Hypophosphataemia | 5 |
 | - Elevated bilirubin (total) | 4 |
 
+Postmarketing experience
+The following adverse reactions have been derived from spontaneous case reports, literature cases, expanded access programmes, and clinical studies other than the global registration trials.
+Since these reactions are reported from a population of uncertain size, it is not always possible to reliably estimate their frequency or establish a causal relationship to nilotinib exposure.
+
+Frequency rare: Cases of tumour lysis syndrome have been reported in patients treated with Tasigna.
+
 [Tasigna 200 mg hard capsules]
 
 The data described below reflect exposure to Tasigna in a total of 717 patients from a randomised Phase III study in newly diagnosed patients with CML in chronic phase treated at the recommended dose of 300 mg twice daily (n=279) and from an open-label multicentre Phase II study in patients with imatinib-resistant or intolerant CML in chronic phase (n=318) and accelerated phase (n=120) treated at the recommended dose of 400 mg twice daily.
+
 Newly diagnosed CML in chronic phase
 At data cut-off in the Phase III study, 64% of the patients had a duration of exposure of more than 12 months and 16.5% of patients had a duration of exposure of more than 18 months; the median duration of exposure was 14 months.
 
@@ -181,7 +187,6 @@ Gastrointestinal and CNS haemorrhage were reported in 1% and <1% of patients, re
 
 QTcF exceeding 500 msec was observed in <1% of patients.
 No episodes of torsade de pointes (transient or sustained) were observed.
-
 Most frequently reported adverse reactions in Tasigna clinical studies
 Non-haematological adverse reactions (excluding laboratory abnormalities) that are reported in at least 5% of the patients in Tasigna clinical studies are shown in Table 2.
 These are ranked under heading of frequency using the following convention: very common (≥1/10), common (≥1/100 to <1/10), uncommon (≥1/1,000 to <1/100), rare (≥1/10,000 to <1/1,000), very rare (<1/10,000); not known [cannot be estimated from the available data].
@@ -238,12 +243,12 @@ Not known: disorientation, confusional state, amnesia, dysphoria.
 Common: dizziness, hypoaesthesia, paraesthesia.
 Uncommon: intracranial haemorrhage, migraine, loss of consciousness (including syncope), tremor, disturbance in attention, hyperaesthesia.
 Not known: brain oedema, optic neuritis, peripheral neuropathy, lethargy, dysaesthesia.
-
 Common: eye haemorrhage, periorbital oedema, eye pruritus, conjunctivitis, dry eye.
 Uncommon: visual impairment, vision blurred, visual acuity reduced, eyelid oedema, photopsia, eye irritation.
 Not known: papilloedema, chorioretinopathy, diplopia, photophobia, eye swelling, blepharitis, eye pain, conjunctival haemorrhage, conjunctivitis allergic, conjunctival hyperaemia, ocular hyperaemia, ocular surface disease, scleral hyperaemia.
 
 Not known: hearing impaired, ear pain, tinnitus.
+
 Common: angina pectoris, arrhythmia (including atroventricular block, cardiac flutter, extrasystoles, tachycardia, atrial fibrillation, bradycardia), palpitations, electrocardiogram QT prolonged.
 Uncommon: cardiac failure, pericardial effusion, coronary artery disease, cardiac murmur, cyanosis.
 Not known: myocardial infarction, ventricular dysfunction, pericarditis, ejection fraction decreased.
@@ -268,7 +273,6 @@ Not known: erythema nodosum, skin ulcer, palmar-plantar erythrodysaesthesia synd
 Common: musculoskeletal chest pain, musculoskeletal pain, pain in extremity, back pain.
 Uncommon: flank pain, musculoskeletal stiffness, pain, muscular weakness, joint swelling.
 Not known: arthritis.
-
 Common: pollakiuria.
 Uncommon: dysuria, micturition urgency, nocturia.
 Not known: renal failure, haematuria, urinary incontinence, chromaturia.
@@ -279,6 +283,7 @@ Not known: breast induration, menorrhagia, nipple swelling.
 Common: chest pain, pain (including neck pain and back pain), pyrexia, chest discomfort, malaise.
 Uncommon: face oedema, gravitational oedema, influenza-like illness, chills.
 Not known: feeling hot, localised oedema.
+
 Common: platelet count decreased, blood amylase increased, blood alkaline phosphatase increased, gamma-glutamyltransferase increased, blood creatinine phosphokinase increased, weight decreased, weight increased.
 Uncommon: haemoglobin decreased, neutrophil count decreased, blood lactate dehydrogenase increased, blood glucose decreased, blood urea increased, blood phosphorus decreased.
 Not known: blood insulin increased, very low density lipoprotein increased, blood parathyroid hormone increased, blood potassium increased, blood pressure increased, white blood cell count decreased.

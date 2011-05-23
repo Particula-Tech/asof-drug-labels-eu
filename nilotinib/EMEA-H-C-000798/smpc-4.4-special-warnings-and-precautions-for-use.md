@@ -30,6 +30,7 @@ Tasigna should be used with caution in patients who have or who are at significa
 
 Close monitoring for an effect on the QTc interval is advisable and a baseline ECG is recommended prior to initiating therapy with Tasigna and as clinically indicated.
 Hypokalaemia or hypomagnesaemia must be corrected prior to Tasigna administration and should be monitored periodically during therapy.
+
 Sudden death
 Uncommon cases (0.1 to 1%) of sudden deaths have been reported in patients with imatinib-resistant or intolerant CML in chronic phase or accelerated phase with a past medical history of cardiac disease or significant cardiac risk factors.
 Co-morbidities in addition to the underlying malignancy were also frequently present as were concomitant medicinal products.
@@ -40,7 +41,6 @@ Interactions with other medicinal products
 The administration of Tasigna with agents that are strong CYP3A4 inhibitors (including, but not limited to, ketoconazole, itraconazole, voriconazole, clarithromycin, telithromycin, ritonavir) should be avoided.
 Should treatment with any of these agents be required, it is recommended that therapy with Tasigna be interrupted if possible (see section 4.5).
 If transient interruption of treatment is not possible, close monitoring of the individual for prolongation of the QT interval is indicated (see sections 4.2, 4.5 and 5.2).
-
 Concomitant use of Tasigna with medicinal products that are potent inducers of CYP3A4 (e.g. phenytoin, rifampicin, carbamazepine, phenobarbital and St. John’s Wort) is likely to reduce exposure to nilotinib to a clinically relevant extent.
 Therefore, in patients receiving Tasigna, co-administration of alternative therapeutic agents with less potential for CYP3A4 induction should be selected (see section 4.5).
 
@@ -68,6 +68,9 @@ In case lipase elevations are accompanied by abdominal symptoms, Tasigna should 
 Total gastrectomy
 The bioavailability of nilotinib might be reduced in patients with total gastrectomy (see section 5.2).
 More frequent follow-up of these patients should be considered.
+
+Tumour lysis syndrome
+Due to possible occurrence of tumour lysis syndrome (TLS) correction of clinically significant dehydration and treatment of high uric acid levels are recommended prior to initiating therapy with Tasigna (see section 4.8).
 
 Lactose
 Tasigna capsules contain lactose.

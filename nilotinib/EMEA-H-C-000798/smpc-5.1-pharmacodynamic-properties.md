@@ -30,7 +30,6 @@ The time point for the primary data analysis was when all 846 patients completed
 The median time on treatment was 14 months.
 More than 60% of all patients had received treatment for longer than 12 months.
 The median actual dose intensity was 592 mg/day for nilotinib 300 mg twice daily, 779 mg/day for nilotinib 400 mg twice daily and 400 mg/day for imatinib 400 mg once daily.
-
 The primary efficacy endpoint was major molecular response (MMR) at 12 months.
 MMR was defined as ≤0.1% Bcr-Abl/Abl % by international scale measured by RQ-PCR, which corresponds to a ≥3 log reduction of Bcr-Abl transcript from standardised baseline.
 The MMR rate at 12 months was statistically significantly higher for nilotinib 300 mg twice daily compared to imatinib 400 mg once daily (44.3% versus 22.3%, p<0.0001).
@@ -92,7 +91,6 @@ Efficacy was based on 321 CP patients and 137 AP patients enrolled.
 Median duration of treatment was 561 days for CP patients and 264 days for AP patients (see Table 7).
 Tasigna was administered on a continuous basis (twice daily 2 hours after a meal and with no food for at least one hour after administration) unless there was evidence of inadequate response or disease progression.
 The dose was 400 mg twice daily and dose escalation to 600 mg twice daily was allowed.
-
 Table 7 Duration of exposure with Tasigna
 
 |  | Chronic phase n=321 | Accelerated phase n=137 |
@@ -101,6 +99,7 @@ Table 7 Duration of exposure with Tasigna
 
 Resistance to imatinib included failure to achieve a complete haematological response (by 3 months), cytogenetic response (by 6 months) or major cytogenetic response (by 12 months) or progression of disease after a previous cytogenetic or haematological response.
 Imatinib intolerance included patients who discontinued imatinib because of toxicity and were not in major cytogenetic response at time of study entry.
+
 Overall, 73% of patients were imatinib-resistant, while 27% were imatinib-intolerant.
 The majority of patients had a long history of CML that included extensive prior treatment with other antineoplastic agents, including imatinib, hydroxyurea, interferon, and some had even failed organ transplant
 (Table 8).
@@ -136,7 +135,6 @@ Median duration of CCyR has not been reached.
 Patients with a CHR at baseline achieved a MCyR faster (1.9 vs. 2.8 months).
 Of CP patients without a baseline CHR, 70% achieved a CHR, median time to CHR was 1 month and median duration of CHR was 32.8 months.
 The estimated 24-month overall survival rate in CML-CP patients was 87%.
-
 Accelerated Phase
 The overall confirmed HR rate in 137 AP patients was 50%.
 Most responders achieved a HR early with Tasigna treatment (median 1.0 months) and these have been durable (median duration of confirmed HR was 24.2 months).
@@ -145,6 +143,7 @@ MCyR rate was 30% with a median time to response of 2.8 months.
 Of the patients who achieved MCyR, 63% (95% CI: 45% - 80%) were maintaining response at 24 months.
 Median duration of MCyR was 32.7 months.
 The estimated 24-month overall survival rate in CML-AP patients was 70%.
+
 The rates of response for the two treatment arms are reported in Table 9.
 
 Table 9 Response in CML
