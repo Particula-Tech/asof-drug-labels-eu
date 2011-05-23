@@ -7,11 +7,14 @@ Dose titration: Adverse reactions (e.g. hypertension and hallucinations in patie
 They may respond to a dose reduction.
 In other cases, Exelon has been discontinued (see section 4.8).
 
-Gastrointestinal disorders such as nausea and vomiting may occur particularly when initiating treatment and/or increasing the dose.
+Gastrointestinal disorders such as nausea, vomiting and diarrhoea are dose-related, and may occur particularly when initiating treatment and/or increasing the dose (see section 4.8).
 These adverse reactions occur more commonly in women.
+Patients who show signs or symptoms of dehydration resulting from prolonged vomiting or diarrhoea can be managed with intravenous fluids and dose reduction or discontinuation if recognised and treated promptly.
+Dehydration can be associated with serious outcomes.
 Patients with Alzheimer’s disease may lose weight.
 Cholinesterase inhibitors, including rivastigmine, have been associated with weight loss in these patients.
 During therapy patient’s weight should be monitored.
+
 In case of severe vomiting associated with rivastigmine treatment, appropriate dose adjustments as recommended in section 4.2 must be made.
 Some cases of severe vomiting were associated with oesophageal rupture (see section 4.8).
 Such events appeared to occur particularly after dose increments or high doses of rivastigmine.
@@ -32,6 +35,13 @@ Like other cholinomimetics, rivastigmine may exacerbate or induce extrapyramidal
 Worsening (including bradykinesia, dyskinesia, gait abnormality) and an increased incidence or severity of tremor have been observed in patients with dementia associated with Parkinson’s disease (see section 4.8).
 These events led to the discontinuation of rivastigmine in some cases (e.g. discontinuations due to tremor 1.7% on rivastigmine vs 0% on placebo).
 Clinical monitoring is recommended for these adverse reactions.
+
+Special populations
+Patients with clinically significant renal or hepatic impairment might experience more adverse reactions (see sections 4.2 and 5.2).
+Patients with severe hepatic impairment have not been studied.
+However, Exelon may be used in this patient population and close monitoring is necessary.
+
+Patients with body weight below 50 kg may experience more adverse reactions and may be more likely to discontinue due to adverse reactions.
 
 [Exelon 3.0 mg hard capsules]
 
@@ -55,7 +65,8 @@ Benzoic acid is a mild irritant to the skin, eyes and mucous membrane.
 The incidence and severity of adverse reactions generally increase with increasing doses, particularly at dose changes.
 If treatment is interrupted for more than several days, it should be re-initiated with 4.6 mg/24 h.
 
-Gastrointestinal disorders such as nausea and vomiting are dose-related, and may occur when initiating treatment and/or increasing the dose (see section 4.8).
+Gastrointestinal disorders such as nausea, vomiting and diarrhoea are dose-related, and may occur when initiating treatment and/or increasing the dose (see section 4.8).
+
 Patients with Alzheimer’s disease may lose weight whilst taking cholinesterase inhibitors, including rivastigmine.
 The patient’s weight should be monitored during therapy with Exelon transdermal patches.
 
@@ -70,9 +81,6 @@ Rivastigmine may exacerbate or induce extrapyramidal symptoms.
 
 Contact with the eyes should be avoided after handling Exelon transdermal patches (see section 5.3).
 
-Special populations:
-
-- Patients with body weight below 50 kg may experience more adverse reactions and may be more likely to discontinue due to adverse reactions.
 - Hepatic impairment: Patients with clinically significant hepatic impairment might experience more adverse reactions (see section 5.2).
 
 [Exelon 9.5 mg/24 h transdermal patch]

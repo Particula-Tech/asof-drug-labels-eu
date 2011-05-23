@@ -37,9 +37,9 @@ If treatment is interrupted for more than several days, it should be re-initiate
 Dose titration should then be carried out as described above.
 
 Renal and hepatic impairment
-Due to increased exposure in moderate renal and mild to moderate hepatic impairment, dosing recommendations to titrate according to individual tolerability should be closely followed (see section 5.2).
-
-Patients with severe liver impairment have not been studied (see section 4.3).
+No dose adjustment is necessary for patients with mild to moderate renal or hepatic impairment.
+However, due to increased exposure in these populations dosing recommendations to titrate according to individual tolerability should be closely followed as patients with clinically significant renal or hepatic impairment might experience more adverse reactions (see sections 4.4 and 5.2).
+Patients with severe hepatic impairment have not been studied (see section 4.4).
 
 Children
 Rivastigmine is not recommended for use in children.

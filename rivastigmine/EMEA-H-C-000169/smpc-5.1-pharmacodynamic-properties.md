@@ -16,6 +16,7 @@ The efficacy of rivastigmine has been established through the use of three indep
 These include the ADAS-Cog (a performance based measure of cognition), the CIBIC-Plus (a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the PDS (a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities relating to finances, etc.).
 
 The patients studied had an MMSE (Mini-Mental State Examination) score of 10–24.
+
 The results for clinically relevant responders pooled from two flexible dose studies out of the three pivotal 26-week multicentre studies in patients with mild-to-moderately severe Alzheimer’s Dementia, are provided in Table 4 below.
 Clinically relevant improvement in these studies was defined a priori as at least 4-point improvement on the ADAS-Cog, improvement on the CIBIC-Plus, or at least a 10% improvement on the PDS.
 
@@ -23,7 +24,6 @@ In addition, a post-hoc definition of response is provided in the same table.
 The secondary definition of response required a 4-point or greater improvement on the ADAS-Cog, no worsening on the CIBIC-Plus, and no worsening on the PDS.
 The mean actual daily dose for responders in the 6–12 mg group, corresponding to this definition, was 9.3 mg.
 It is important to note that the scales used in this indication vary and direct comparisons of results for different therapeutic agents are not valid.
-
 Table 4
 
 |  | Patients with Clinically Significant Response (%) |  |  |  |
@@ -36,6 +36,7 @@ Table 4
 | At least 4 points improvement on ADAS-Cog with no worsening on CIBIC-Plus and PDS | 10* | 6 | 12** | 6 |
 
 *p<0.05, **p<0.01, ***p<0.001
+
 Clinical studies in dementia associated with Parkinson’s disease
 The efficacy of rivastigmine in dementia associated with Parkinson’s disease has been demonstrated in a 24-week multicentre, double-blind, placebo-controlled core study and its 24-week open-label extension phase.
 Patients involved in this study had an MMSE (Mini-Mental State Examination) score of 10–24.
@@ -94,7 +95,6 @@ ITT: Intent-To-Treat; RDO: Retrieved Drop Outs
 [Exelon 4.6 mg/24 h transdermal patch]
 
 Thus, rivastigmine may have an ameliorative effect on cholinergic-mediated cognitive deficits in dementia associated with Alzheimer’s disease.
-
 In patients with Alzheimer’s disease, inhibition of AChE in CSF by oral rivastigmine was dose-dependent up to 6 mg given twice daily, the highest dose tested.
 Inhibition of butyrylcholinesterase activity in CSF of 14 Alzheimer patients treated by oral rivastigmine was similar to that of AChE.
 
@@ -103,6 +103,7 @@ Patients involved in this study had an MMSE (Mini-Mental State Examination) scor
 Efficacy was established by the use of independent, domain-specific assessment tools which were applied at regular intervals during the 24-week treatment period.
 These include the ADAS-Cog (a performance-based measure of cognition) and the ADCS-CGIC (a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the ADCS-ADL (a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities related to finances).
 The 24-week results for the three assessment tools are summarised in Table 2.
+
 Table 2
 
 | ITT-LOCF population | Exelon transdermal patches 9.5 mg/24 h N = 251 | Exelon capsules 12 mg/day N = 256 | Placebo N = 282 |
@@ -118,7 +119,6 @@ Negative ADAS-Cog changes indicate improvement.
 Positive ADCS-ADL changes indicate improvement.
 2 Based on CMH test (van Elteren test) blocking for country.
 ADCS-CGIC scores <4 indicate improvement.
-
 The results for clinically relevant responders from the 24-week study are provided in Table 3.
 Clinically relevant improvement was defined a priori as at least 4-point improvement on the ADAS-Cog, no worsening on the ADCS-CGIC, and no worsening on the ADCS-ADL.
 

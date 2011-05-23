@@ -1,9 +1,6 @@
 # 4.3 Contraindications
 
-The use of this medicinal product is contraindicated in patients with
-
-- hypersensitivity to the active substance, other carbamate derivatives or to any of the excipients used in the formulation,
-- severe liver impairment, as it has not been studied in this population.
+The use of this medicinal product is contraindicated in patients with hypersensitivity to the active substance, other carbamate derivatives or to any of the excipients used in the formulation.
 
 [Exelon 3.0 mg hard capsules]
 

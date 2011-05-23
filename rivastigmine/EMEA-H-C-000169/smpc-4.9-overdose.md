@@ -37,6 +37,7 @@ Most cases of accidental overdose of oral rivastigmine have not been associated 
 Ingestion of 46 mg of oral rivastigmine occurred in one case; following conservative management the patient fully recovered within 24 hours.
 Overdose with Exelon transdermal patch resulting from misuse/dosing errors (application of multiple patches at a time) has been reported in the post-marketing setting.
 The typical symptoms reported among these cases are similar to those seen with cases of overdose associated with Exelon oral formulations.
+
 As rivastigmine has a plasma half-life of about 3.4 hours and a duration of acetylcholinesterase inhibition of about 9 hours, it is recommended that in cases of asymptomatic overdose all Exelon transdermal patches should be removed immediately and no further transdermal patch should be applied for the next 24 hours.
 
 [Exelon 9.5 mg/24 h transdermal patch]
