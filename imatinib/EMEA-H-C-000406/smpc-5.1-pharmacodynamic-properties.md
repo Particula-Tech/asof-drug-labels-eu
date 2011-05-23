@@ -140,8 +140,7 @@ Table 4 Response in adult CML studies
 
 Paediatric patients: A total of 26 paediatric patients of age < 18 years with either chronic phase CML (n=11) or CML in blast crisis or Ph+ acute leukaemias (n=15) were enrolled in a dose-escalation phase I trial.
 This was a population of heavily pretreated patients, as 46% had received prior BMT and 73% a prior multi-agent chemotherapy.
-Patients were treated at doses of Glivec of 260 mg/m2/day (n=5),
-340 mg/m2/day (n=9), 440 mg/m2/day (n=7) and 570 mg/m2/day (n=5).
+Patients were treated at doses of Glivec of 260 mg/m2/day (n=5), 340 mg/m2/day (n=9), 440 mg/m2/day (n=7) and 570 mg/m2/day (n=5).
 Out of 9 patients with chronic phase CML and cytogenetic data available, 4 (44%) and 3 (33%) achieved a complete and partial cytogenetic response, respectively, for a rate of MCyR of 77%.
 
 A total of 51 paediatric patients with newly diagnosed and untreated CML in chronic phase have been enrolled in an open-label, multicentre, single-arm phase II trial.
@@ -164,6 +163,7 @@ The results observed in a population of 211 newly diagnosed Ph+ ALL patients in 
 Imatinib in combination with chemotherapy induction (see Table 5) resulted in a complete haematological response rate of 93% (147 out of 158 evaluable patients) and in a major cytogenetic response rate of 90% (19 out of 21 evaluable patients).
 The complete molecular response rate was 48% (49 out of 102 evaluable patients).
 Disease-free survival (DFS) and overall survival (OS) constantly exceeded 1 year and were superior to historical control (DFS p<0.001; OS p<0.0001) in two studies (AJP01 and AUS01).
+
 Table 5 Chemotherapy regimen used in combination with imatinib
 
 Study ADE10
@@ -236,6 +236,7 @@ per month for 13 months
 All treatment regimens include administration of steroids for CNS prophylaxis.
 Ara-C: cytosine arabinoside; CP: cyclophosphamide; DEX: dexamethasone; MTX: methotrexate; 6-MP: 6-mercaptopurine VM26: Teniposide; VCR: vincristine; IDA: idarubicine; i.v.:
 intravenous
+
 Relapsed/refractory Ph+ ALL: When imatinib was used as single agent in patients with relapsed/refractory Ph+ ALL, it resulted, in the 53 out of 411 patients evaluable for response, in a haematological response rate of 30% (9% complete) and a major cytogenetic response rate of 23%.
 (Of note, out of the 411 patients, 353 were treated in an expanded access program without primary response data collected.)
 The median time to progression in the overall population of 411 patients with relapsed/refractory Ph+ ALL ranged from 2.6 to 3.1 months, and median overall survival in the 401 evaluable patients ranged from 4.9 to 9 months.
@@ -322,9 +323,8 @@ The primary endpoint of the study was recurrence-free survival (RFS), defined as
 Glivec significantly prolonged RFS, with 75% of patients being recurrence-free at 38 months in the Glivec group vs. 20 months in the placebo group (95% CIs, [30 - non-estimable]; [14 - non-estimable], respectively); (hazard ratio = 0.398 [0.259-0.610], p<0.0001).
 At one year the overall RFS was significantly better for Glivec (97.7%) vs. placebo (82.3%), (p<0.0001).
 The risk of recurrence was thus reduced by approximately 89% as compared with placebo (hazard ratio = 0.113 [0.049-0.264]).
-
 The risk of recurrence in patients after surgery of their primary GIST was retrospectively assessed based on the following prognostic factors: tumour size, mitotic index, tumour location.
-Mitotic index data were available for 556 of the 773 intention-to-treat (ITT) population.
+Mitotic index data were available for 556 of the 713 intention-to-treat (ITT) population.
 The results of subgroup analyses according to the United States National Institutes of Health (NIH) and the Armed Forces Institute of Pathology (AFIP) risk classifications are shown in Table 7.
 No benefit was observed in the low and very low risk groups.
 No overall survival benefit has been observed.

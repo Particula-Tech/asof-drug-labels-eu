@@ -9,9 +9,9 @@ Mean absolute bioavailability for the capsule formulation is 98%.
 There was high between-patient variability in plasma imatinib AUC levels after an oral dose.
 When given with a high-fat meal, the rate of absorption of imatinib was minimally reduced (11% decrease in Cmax and prolongation of tmax by 1.5 h), with a small reduction in AUC (7.4%) compared to fasting conditions.
 The effect of prior gastrointestinal surgery on drug absorption has not been investigated.
-
 Distribution
 At clinically relevant concentrations of imatinib, binding to plasma proteins was approximately 95% on the basis of in vitro experiments, mostly to albumin and alpha-acid-glycoprotein, with little binding to lipoprotein.
+
 Metabolism
 The main circulating metabolite in humans is the N-demethylated piperazine derivative, which shows similar in vitro potency to the parent.
 The plasma AUC for this metabolite was found to be only 16% of the AUC for imatinib.
@@ -44,13 +44,13 @@ Based on preliminary population pharmacokinetic analysis in GIST patients, there
 Decreased values of albumin caused a reduced clearance (CL/f); and higher levels of WBC led to a reduction of CL/f.
 However, these associations are not sufficiently pronounced to warrant dose adjustment.
 In this patient population, the presence of hepatic metastases could potentially lead to hepatic insufficiency and reduced metabolism.
-
 Population pharmacokinetics
 Based on population pharmacokinetic analysis in CML patients, there was a small effect of age on the volume of distribution (12% increase in patients > 65 years old).
 This change is not thought to be clinically significant.
 The effect of bodyweight on the clearance of imatinib is such that for a patient weighing 50 kg the mean clearance is expected to be 8.5 l/h, while for a patient weighing 100 kg the clearance will rise to 11.8 l/h.
 These changes are not considered sufficient to warrant dose adjustment based on kg bodyweight.
 There is no effect of gender on the kinetics of imatinib.
+
 Pharmacokinetics in children
 As in adult patients, imatinib was rapidly absorbed after oral administration in paediatric patients in both phase I and phase II studies.
 Dosing in children at 260 and 340 mg/m2/day achieved the same exposure, respectively, as doses of 400 mg and 600 mg in adult patients.

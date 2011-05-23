@@ -33,6 +33,7 @@ There is no experience with the treatment of children below 2 years of age.
 
 Dose increases from 340 mg/m2 daily to 570 mg/m2 daily (not to exceed the total dose of 800 mg) may be considered in children in the absence of severe adverse drug reaction and severe non-leukaemia-related neutropenia or thrombocytopenia in the following circumstances: disease progression (at any time); failure to achieve a satisfactory haematological response after at least 3 months of treatment; failure to achieve a cytogenetic response after 12 months of treatment; or loss of a previously achieved haematological and/or cytogenetic response.
 Patients should be monitored closely following dose escalation given the potential for an increased incidence of adverse reactions at higher dosages.
+
 Posology for Ph+ ALL
 The recommended dose of Glivec is 600 mg/day for patients with Ph+ ALL.
 Haematological experts in the management of this disease should supervise the therapy throughout all phases of care.
@@ -75,11 +76,11 @@ Dose adjustment for adverse reactions
 Non-haematological adverse reactions
 If a severe non-haematological adverse reaction develops with Glivec use, treatment must be withheld until the event has resolved.
 Thereafter, treatment can be resumed as appropriate depending on the initial severity of the event.
-
 If elevations in bilirubin > 3 x institutional upper limit of normal (IULN) or in liver transaminases
 > 5 x IULN occur, Glivec should be withheld until bilirubin levels have returned to < 1.5 x IULN and transaminase levels to < 2.5 x IULN.
 Treatment with Glivec may then be continued at a reduced daily dose.
 In adults the dose should be reduced from 400 to 300 mg or from 600 to 400 mg, or from 800 mg to 600 mg, and in children from 340 to 260 mg/m2/day.
+
 Haematological adverse reactions
 Dose reduction or treatment interruption for severe neutropenia and thrombocytopenia are recommended as indicated in the table below.
 
