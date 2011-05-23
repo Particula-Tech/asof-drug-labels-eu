@@ -22,12 +22,14 @@ However, no adjustment in the recommended daily dose for adults should be requir
 Renal insufficiency: Emtricitabine is eliminated by renal excretion and exposure to emtricitabine was significantly increased in patients with renal insufficiency (see section 5.2).
 Dose or dose interval adjustment is required in all patients with creatinine clearance < 50 ml/min (see section 4.4).
 
-The table below provides dose interval adjustment guidelines for the 200 mg hard capsules according to the degree of renal insufficiency.
+Table 1 below provides dose interval adjustment guidelines for the 200 mg hard capsules according to the degree of renal insufficiency.
 The safety and efficacy of these dose interval adjustment guidelines have not been clinically evaluated.
 Therefore, clinical response to treatment and renal function should be closely monitored in these patients (see section 4.4).
 
 Patients with renal insufficiency can also be managed by administration of Emtriva 10 mg/ml oral solution to provide a reduced daily dose of emtricitabine.
 Please refer to the Summary of Product Characteristics for Emtriva 10 mg/ml oral solution.
+
+Table 1: Dose interval guidelines for 200 mg hard capsules adjusted according to creatinine clearance
 
 |  | Creatinine Clearance (CLcr) (ml/min) |  |  |  |
 | --- | --- | --- | --- | --- |
@@ -60,10 +62,12 @@ Emtriva 200 mg hard capsules are available for adults, adolescents and children 
 Please refer to the Summary of Product Characteristics for Emtriva 200 mg hard capsules.
 Due to a difference in the bioavailability of emtricitabine between the hard capsule and oral solution presentations, 240 mg emtricitabine administered as the oral solution (24 ml) should provide similar plasma levels to those observed after administration of one 200 mg emtricitabine hard capsule (see section 5.2).
 
-The table below provides daily doses of Emtriva 10 mg/ml oral solution according to the degree of renal insufficiency.
+Table 1 below provides daily doses of Emtriva 10 mg/ml oral solution according to the degree of renal insufficiency.
 The safety and efficacy of these doses have not been clinically evaluated.
 
 Patients with renal insufficiency can also be managed by administration of Emtriva 200 mg hard capsules at modified dose intervals.
+
+Table 1: Daily doses of Emtriva 10 mg/ml oral solution adjusted according to creatinine clearance
 
 |  | Creatinine Clearance (CLcr) (ml/min) |  |  |  |
 | --- | --- | --- | --- | --- |
