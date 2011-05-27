@@ -58,6 +58,7 @@ Thus, the results from this subset are in line with the overall trial results.
 
 The benefits observed with clopidogrel were independent of other acute and long-term cardiovascular therapies (such as heparin/LMWH, GPIIb/IIIa antagonists, lipid lowering medicinal products, beta blockers, and ACE-inhibitors).
 The efficacy of clopidogrel was observed independently of the dose of ASA (75-325 mg once daily).
+
 In patients with acute ST-segment elevation MI, safety and efficacy of clopidogrel have been evaluated in 2 randomised, placebo-controlled, double-blind studies, CLARITY and COMMIT.
 
 The CLARITY trial included 3,491 patients presenting within 12 hours of the onset of a ST elevation MI and planned for thrombolytic therapy.
@@ -86,13 +87,13 @@ Based on enrollment criteria, physicians enrolled patients in ACTIVE-W if they w
 The ACTIVE-A study included patients who could not receive VKA therapy because they were unable or unwilling to receive the treatment.
 
 The ACTIVE-W study demonstrated that anticoagulant treatment with vitamin K antagonists was more effective than with clopidogrel and ASA.
-
 The ACTIVE-A study (N=7,554) was a multicenter, randomized, double-blind, placebo-controlled study which compared clopidogrel 75 mg/day + ASA (N=3,772) to placebo + ASA (N=3,782).
 The recommended dose for ASA was 75 to 100 mg/day.
 Patients were treated for up to 5 years.
 
 Patients randomized in the ACTIVE program were those presenting with documented AF, i.e., either permanent AF or at least 2 episodes of intermittent AF in the past 6 months, and had at least one of the following risk factors: age ≥75 years or age 55 to 74 years and either diabetes mellitus requiring drug therapy, or documented previous MI or documented coronary artery disease; treated for systemic hypertension; prior stroke, transient ischaemic attack (TIA), or non-CNS systemic embolus; left ventricular dysfunction with left ventricular ejection fraction <45%; or documented peripheral vascular disease.
 The mean CHADS2 score was 2.0 (range 0-6).
+
 The major exclusion criteria for patients were documented peptic ulcer disease within the previous 6 months; prior intracerebral hemorrhage; significant thrombocytopenia (platelet count < 50 x 109/l); requirement for clopidogrel or oral anticoagulants (OAC); or intolerance to any of the two compounds.
 
 Seventy-three percent (73%) of patients enrolled into the ACTIVE-A study were unable to take VKA due to physician assessment, inability to comply with INR (international normalised ratio) monitoring, predisposition to falling or head trauma, or specific risk of bleeding; for 26% of the patients, the physician’s decision was based on the patient’s unwillingness to take VKA.
@@ -106,4 +107,16 @@ The number of patients who reached the primary endpoint (time to first occurrenc
 Strokes occurred in 296 (7.8%) patients receiving clopidogrel + ASA and 408 (10.8%) patients receiving placebo + ASA (relative risk reduction, 28.4%; 95% CI, 16.8% to 38.3%; p=0.00001).
 
 Paediatric population
-The European Medicines Agency has deferred the obligation to submit the results of studies with Iscover in one or more subsets of the paediatric population for the prevention of thromboembolic events (see section 4.2 for information on paediatric use).
+In a dose escalation study of 86 neonates or infants up to 24 months of age at risk for thrombosis (PICOLO), clopidogrel was evaluated at consecutive doses of 0.01, 0.1 and 0.2 mg/kg in neonates and infants and 0.15 mg/kg only in neonates.
+The dose of 0.2 mg/kg achieved the mean percent inhibition of 49.3% (5 µM ADP-induced platelet aggregation) which was comparable to that of adults taking Iscover 75 mg/day.
+
+In a randomised, double-blind, parallel-group study (CLARINET), 906 paediatric patients (neonates and infants) with cyanotic congenital heart disease palliated with a systemic-to-pulmonary arterial shunt were randomised to receive clopidogrel 0.2 mg/kg (n=467) or placebo (n=439) along with concomitant background therapy up to the time of second stage surgery.
+The mean time between shunt palliation and first administration of study medicinal product was 20 days.
+Approximately 88% of patients received concomitant ASA (range of 1 to 23 mg/kg/day).
+There was no significant difference between groups in the primary composite endpoint of death, shunt thrombosis or cardiac-related intervention prior to 120 days of age following an event considered of thrombotic nature (89 [19.1%] for the clopidogrel group and 90 [20.5%] for the placebo group) (see section 4.2).
+Bleeding was the most frequently reported adverse reaction in both clopidogrel and placebo groups; however, there was no significant difference in the bleeding rate between groups.
+In the long-term safety follow-up of this study, 26 patients with the shunt still in place at one year of age received clopidogrel up to 18 months of age.
+No new safety concerns were noted during this long-term follow-up.
+
+The CLARINET and the PICOLO trials were conducted using a constituted solution of clopidogrel.
+In a relative bioavailability study in adults, the constituted solution of clopidogrel showed a similar extent and slightly higher rate of absorption of the main circulating (inactive) metabolite compared to the authorised tablet.

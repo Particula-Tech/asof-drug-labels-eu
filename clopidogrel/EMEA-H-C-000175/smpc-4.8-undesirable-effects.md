@@ -6,6 +6,7 @@ The clinically relevant adverse reactions observed in the CAPRIE, CURE, CLARITY,
 In addition to clinical studies experience, adverse reactions have been spontaneously reported.
 
 Bleeding is the most common reaction reported both in clinical studies as well as in post-marketing experience where it was mostly reported during the first month of treatment.
+
 In CAPRIE, in patients treated with either clopidogrel or ASA, the overall incidence of any bleeding was 9.3%.
 The incidence of severe cases was similar for clopidogrel and ASA.
 
