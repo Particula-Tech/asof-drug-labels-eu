@@ -19,8 +19,8 @@ The overall rate of febrile neutropenia was 9% of patients treated with pegfilgr
 
 In a placebo-controlled, double blind study in patients with breast cancer the effect of pegfilgrastim on the incidence of febrile neutropenia was evaluated following administration of a chemotherapy regimen associated with a febrile neutropenia rate of 10-20% (docetaxel 100 mg/m2 every 3 weeks for 4 cycles).
 Nine hundred and twenty eight patients were randomised to receive either a single dose of pegfilgrastim or placebo approximately 24 hours (Day 2) after chemotherapy in each cycle.
-The incidence of febrile neutropenia was lower for patients randomised to receive pegfilgrastim compared with placebo (1% versus 17%, p<0.001).
-The incidence of hospitalisations and IV anti-infective use associated with a clinical diagnosis of febrile neutropenia was lower in the pegfilgrastim group compared with placebo (1% versus 14%, p<0.001; and 2% versus 10%, p<0.001)
+The incidence of febrile neutropenia was lower for patients randomised to receive pegfilgrastim compared with placebo (1% versus 17%, p < 0.001).
+The incidence of hospitalisations and IV anti-infective use associated with a clinical diagnosis of febrile neutropenia was lower in the pegfilgrastim group compared with placebo (1% versus 14%, p < 0.001; and 2% versus 10%, p < 0.001).
 
 A small (n = 83), Phase II, randomised, double-blind study in patients receiving chemotherapy for de novo acute myeloid leukaemia compared pegfilgrastim (single dose of 6 mg) with filgrastim, administered during induction chemotherapy.
 Median time to recovery from severe neutropenia was estimated as 22 days in both treatment groups.

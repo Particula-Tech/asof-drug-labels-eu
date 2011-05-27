@@ -11,29 +11,38 @@ Particular care should be taken to distinguish the diagnosis of blast transforma
 The safety and efficacy of Neulasta administration in de novo AML patients aged < 55 years with cytogenetics t(15;17) have not been established.
 
 The safety and efficacy of Neulasta have not been investigated in patients receiving high dose chemotherapy.
+Neulasta should not be used to increase the dose of cytotoxic chemotherapy beyond established dosage regimens.
 
-Rare (≥ 1/10,000 to < 1/1,000) pulmonary adverse effects, in particular interstitial pneumonia, have been reported after G-CSF administration.
-Patients with a recent history of pulmonary infiltrates or pneumonia may be at higher risk.
+Uncommon (≥1/1000 to < 1/100) pulmonary adverse effects, in particular interstitial pneumonia, have been reported after G-CSF administration.
+Patients with a recent history of pulmonary infiltrates or pneumonia may be at higher risk (see section 4.8).
 
 The onset of pulmonary signs such as cough, fever, and dyspnoea in association with radiological signs of pulmonary infiltrates, and deterioration in pulmonary function along with increased neutrophil count may be preliminary signs of Adult Respiratory Distress Syndrome (ARDS).
-In such circumstances Neulasta should be discontinued at the discretion of the physician and the appropriate treatment given.
+In such circumstances Neulasta should be discontinued at the discretion of the physician and the appropriate treatment given (see section 4.8).
 
-Common (≥ 1/100 to < 1/10) but generally asymptomatic cases of splenomegaly and very rare
-(< 1/10,000) cases of splenic rupture, including some fatal cases, have been reported following administration of pegfilgrastim.
+Uncommon (≥ 1/1000 to < 1/100) but generally asymptomatic cases of splenomegaly and uncommon (≥ 1/1000 to < 1/100) cases of splenic rupture, including some fatal cases, have been reported following administration of pegfilgrastim (see section 4.8).
 Therefore, spleen size should be carefully monitored (e.g. clinical examination, ultrasound).
 A diagnosis of splenic rupture should be considered in patients reporting left upper abdominal pain or shoulder tip pain.
 
 Treatment with Neulasta alone does not preclude thrombocytopenia and anaemia because full dose myelosuppressive chemotherapy is maintained on the prescribed schedule.
 Regular monitoring of platelet count and haematocrit is recommended.
+Special care should be taken when administering single or combination chemotherapeutic agents which are known to cause severe thrombocytopenia.
 
-Neulasta should not be used to increase the dose of cytotoxic chemotherapy beyond established dosage regimens.
+Sickle cell crises have been associated with the use of pegfilgrastim in patients with sickle cell disease
 
-Sickle cell crises have been associated with the use of pegfilgrastim in patients with sickle cell disease.
-Therefore, physicians should exercise caution when administering Neulasta in patients with sickle cell disease, should monitor appropriate clinical parameters and laboratory status and be attentive to the possible association of Neulasta with splenic enlargement and vaso-occlusive crisis.
+(see section 4.8). Therefore, physicians should exercise caution when administering Neulasta in
+patients with sickle cell disease, should monitor appropriate clinical parameters and laboratory status
+and be attentive to the possible association of Neulasta with splenic enlargement and vaso-occlusive
+crisis.
 
-White blood cell counts of 100 x 109/l or greater have been observed in less than 1% of patients receiving Neulasta.
+White blood cell (WBC) counts of 100 x 109/l or greater have been observed in less than 1% of patients receiving Neulasta.
 No adverse events directly attributable to this degree of leukocytosis have been reported.
 Such elevation in white blood cells is transient, typically seen 24 to 48 hours after administration and is consistent with the pharmacodynamic effects of Neulasta.
+Consistent with the clinical effects of Neulasta and the potential for leukocytosis, a WBC count should be performed at regular intervals during therapy.
+If leukocyte counts exceed 50 x 109/l after the expected nadir, Neulasta should be discontinued immediately.
+
+If a serious allergic reaction occurs, appropriate therapy should be administered, with close patient follow-up over several days.
+Neulasta should be permanently discontinued in patients who experience a serious allergic reaction (see section 4.8).
+
 The safety and efficacy of Neulasta for the mobilisation of blood progenitor cells in patients or healthy donors has not been adequately evaluated.
 
 The needle cover of the pre-filled syringe contains dry natural rubber (a derivative of latex), which may cause allergic reactions.
