@@ -7,8 +7,9 @@ Proper aseptic injection techniques must always be used when administering Lucen
 In addition, patients should be monitored during the week following the injection to permit early treatment if an infection occurs.
 Patients should be instructed to report any symptoms suggestive of endophthalmitis or any of the above mentioned events without delay.
 
-Increases in intraocular pressure have been seen within 60 minutes of injection of Lucentis (see section 4.8).
-Both intraocular pressure and the perfusion of the optic nerve head must therefore be monitored and managed appropriately.
+Transient increases in intraocular pressure (IOP) have been seen within 60 minutes of injection of Lucentis.
+Sustained IOP increases have also been identified (see section 4.8).
+Both intraocular pressure and the perfusion of the optic nerve head must be monitored and managed appropriately.
 
 The safety and efficacy of Lucentis therapy administered to both eyes concurrently have not been studied.
 If bilateral treatment is performed at the same time this could lead to an increased systemic exposure, which could increase the risk of systemic adverse events.
@@ -36,5 +37,8 @@ There is only limited experience in the treatment of subjects with DME due to ty
 Lucentis has not been studied in patients who have previously received intravitreal injections, in patients with active systemic infections, proliferative diabetic retinopathy, or in patients with concurrent eye conditions such as retinal detachment or macular hole.
 There is also no experience of treatment with Lucentis in diabetic patients with an HbA1c over 12% and uncontrolled hypertension.
 
-There are no data on safety in the treatment of DME patients with prior history of stroke or transient ischaemic attacks.
+There are limited data on safety in the treatment of DME and macular oedema due to RVO patients with prior history of stroke or transient ischaemic attacks.
 Since there is a potential risk of arterial thromboembolic events following intravitreal use of VEGF (vascular endothelial growth factor) inhibitors caution should be exercised when treating such patients (see section 4.8).
+
+There is limited experience with treatment of patients with prior episodes of RVO and of patients with ischaemic branch RVO (BRVO) and central RVO (CRVO).
+In patients with RVO presenting with clinical signs of irreversible ischaemic visual function loss, treatment is not recommended.

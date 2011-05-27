@@ -12,19 +12,20 @@ Lucentis treatment is initiated with a loading phase of one injection per month 
 If the patient experiences a loss of greater than 5 letters in visual acuity (ETDRS or one Snellen line equivalent), Lucentis should be administered.
 The interval between two doses should not be shorter than 1 month.
 
-Treatment of visual impairment due to DME
-In visual impairment due to DME, the recommended dose for Lucentis is 0.5 mg given as a single intravitreal injection.
+Treatment of visual impairment due to either DME or macular oedema secondary to RVO (see also section 5.1)
+The recommended dose for Lucentis is 0.5 mg given as a single intravitreal injection.
 This corresponds to an injection volume of 0.05 ml.
 
-Treatment is given monthly and continued until maximum visual acuity is achieved i.e the patient‟s visual acuity is stable for three consecutive monthly assessments performed while on ranibizumab treatment.
-Consequently, if there is no improvement in visual acuity over the course of three injections, continued treatment is not recommended.
+Treatment is given monthly and continued until maximum visual acuity is achieved i.e the patient’s visual acuity is stable for three consecutive monthly assessments performed while on ranibizumab treatment.
+If there is no improvement in visual acuity over the course of the first three injections, continued treatment is not recommended.
 
 Thereafter patients should be monitored monthly for visual acuity.
-Treatment is resumed when monitoring indicates loss of visual acuity due to DME.
+
+Treatment is resumed when monitoring indicates loss of visual acuity due to DME or to macular oedema secondary to RVO.
 Monthly injections should then be administered until stable visual acuity is reached again for three consecutive monthly assessments (implying a minimum of two injections).
 The interval between two doses should not be shorter than 1 month.
 
-Lucentis and laser photocoagulation in DME
+Lucentis and laser photocoagulation in DME and in macular oedema secondary to BRVO
 There is some experience of Lucentis administered concomitantly with laser photocoagulation (see section 5.1).
 When given on the same day, Lucentis should be administered at least 30 minutes after laser photocoagulation.
 Lucentis can be administered in patients who have received previous laser photocoagulation.
@@ -35,7 +36,7 @@ As with all medicinal products for parenteral use, Lucentis should be inspected 
 Before treatment, the patient should be instructed to self-administer antimicrobial drops (four times daily for 3 days before and following each injection).
 
 The injection procedure should be carried out under aseptic conditions, which includes the use of surgical hand disinfection, sterile gloves, a sterile drape and a sterile eyelid speculum (or equivalent) and the availability of sterile paracentesis (if required).
-The patient‟s medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure (see section 4.4).
+The patient’s medical history for hypersensitivity reactions should be carefully evaluated prior to performing the intravitreal procedure (see section 4.4).
 The periocular skin, eyelid and ocular surface should be disinfected and adequate anaesthesia and a broad-spectrum topical microbicide should be administered prior to the injection.
 
 For information on preparation of Lucentis, see section 6.6.
