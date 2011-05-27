@@ -34,3 +34,7 @@ The use of various assays to detect serum antibodies to interferons limits the a
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
 Recent clinical studies with patients treated up to three years with AVONEX suggest that approximately 5% to 8% develop neutralising antibodies.
+
+[AVONEX 30 micrograms/0.5ml solution for injection, in pre-filled pen.]
+
+(all sentences already above)

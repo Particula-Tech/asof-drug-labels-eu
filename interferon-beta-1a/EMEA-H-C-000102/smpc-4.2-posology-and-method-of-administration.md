@@ -3,6 +3,7 @@
 Treatment should be initiated under supervision of a physician experienced in the treatment of the disease.
 
 Adults: The recommended dosage for the treatment of relapsing MS is 30 micrograms (1 ml solution), administered by intramuscular (IM) injection once a week (see section 6.6).
+
 No additional benefit has been shown by administering a higher dose (60 micrograms) once a week.
 Paediatric population: The safety and efficacy of AVONEX in adolescents aged 12 to 16 years have not yet been established.
 Currently available data are described in section 4.8 and 5.1 but no recommendation on a posology can be made.
@@ -31,3 +32,15 @@ Adults: The recommended dosage for the treatment of relapsing MS is 30 microgram
 At the initiation of treatment, patients may either be started on a full dose of 30 micrograms (0.5 ml solution) or on approximately half the dose once a week to help them to adjust to treatment and thereafter increased to the full dose of 30 micrograms (0.5 ml solution).
 In order to obtain adequate efficacy, a dose of 30 micrograms (0.5 ml solution) once a week should be reached and maintained after the initial titration period.
 A manual titration device to enable delivery of approximately half the dose is available for patients initiating AVONEX treatment.
+
+[AVONEX 30 micrograms/0.5ml solution for injection, in pre-filled pen.]
+
+A manual titration device to enable delivery of approximately half the dose is available for patients initiating AVONEX treatment with AVONEX pre-filled syringe.
+Once a full dose is achieved patients may begin using AVONEX PEN.
+
+AVONEX PEN is a pre-filled pen, intended for single use, and should only be used following adequate training.
+
+The recommended intramuscular injection site using the AVONEX PEN is the upper, outer thigh muscle.
+The injection site should be varied each week.
+
+For administration of AVONEX via the AVONEX PEN, the instructions in the package leaflet should be followed.

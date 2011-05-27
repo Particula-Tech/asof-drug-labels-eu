@@ -13,6 +13,7 @@ Interferon beta is produced by various cell types including fibroblasts and macr
 Natural interferon beta and AVONEX (interferon beta-1a) are glycosylated and have a single N-linked complex carbohydrate moiety.
 Glycosylation of other proteins is known to affect their stability, activity, biodistribution, and half-life in blood.
 However, the effects of interferon beta that are dependent on glycosylation are not fully defined.
+
 AVONEX exerts its biological effects by binding to specific receptors on the surface of human cells.
 This binding initiates a complex cascade of intracellular events that leads to the expression of numerous interferon-induced gene products and markers.
 These include MHC Class I, Mx protein,
@@ -55,3 +56,7 @@ Three major forms of interferons have been distinguished: alpha, beta, and gamma
 Interferons alpha and beta are classified as Type I interferons, and interferon gamma is a Type II interferon.
 
 However, the impact of early treatment with AVONEX is unknown even in this high-risk subgroup as the study was mainly designed to assess the time to the second event rather than the long-term evolution of the disease.
+
+[AVONEX 30 micrograms/0.5ml solution for injection, in pre-filled pen.]
+
+(all sentences already above)

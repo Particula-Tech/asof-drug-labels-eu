@@ -11,3 +11,7 @@ AVONEX should be discontinued in patients who develop progressive MS.
 [AVONEX 30 micrograms/0.5 ml solution for injection.]
 
   In clinical trials, this was characterised by two or more acute exacerbations (relapses) in the previous three-years without evidence of continuous progression between relapses; AVONEX slows the progression of disability and decreases the frequency of relapses.
+
+[AVONEX 30 micrograms/0.5ml solution for injection, in pre-filled pen.]
+
+(all sentences already above)
