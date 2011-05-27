@@ -18,5 +18,4 @@ In a limited number of RA patients treated with subcutaneous golimumab over a 6-
 However, population pharmacokinetic analysis indicated that concomitant use of NSAIDs, oral corticosteroids or sulfasalazine did not influence the apparent clearance of golimumab.
 
 There was a trend toward higher apparent clearance of golimumab with increasing weight (see section 4.2).
-
 Patients who developed anti-golimumab antibodies generally had low trough steady-state serum concentrations of golimumab (see section 5.1).

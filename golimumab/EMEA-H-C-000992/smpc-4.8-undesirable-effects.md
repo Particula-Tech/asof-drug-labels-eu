@@ -16,8 +16,7 @@ Uncommon: Septic shock, sepsis, tuberculosis, lower respiratory tract infection 
 Rare: Hepatitis B reactivation
 Neoplasms, benign, malignant and unspecified
 Uncommon: Neoplasms (such as skin cancer, squamous cell carcinoma and melanocytic naevus)
-Rare: Lymphoma
-Not known: Leukaemia*
+Rare: Lymphoma, leukaemia
 Blood and lymphatic system disorders
 Common: Anaemia
 Uncommon: Leucopaenia, thrombocytopenia
@@ -25,8 +24,7 @@ Rare: Pancytopaenia
 Not known: Aplastic anaemia *
 Immune system disorders
 Common: Allergic reactions (bronchospasm, hypersensitivity, urticaria), autoantibody positive
-Rare: Serious systemic hypersensitivity reactions (including anaphylactic reaction), vasculitis (systemic)
-Endocrine disorders
+Rare: Serious systemic hypersensitivity reactions (including anaphylactic reaction), vasculitis (systemic), sarcoidosis Endocrine disorders
 Uncommon: Thyroid disorder (such as hypothyroidism, hyperthyroidism and goitre)
 Metabolism and nutrition disorders
 Uncommon: Blood glucose increased, lipids increased
@@ -78,6 +76,7 @@ Serious infections observed in golimumab-treated patients included tuberculosis,
 Some of these infections have been fatal.
 The incidence per patient year (95% CI) of serious infections through 1 year of follow up was 0.05 events (0.04, 0.06) for golimumab-treated patients and 0.06 events (0.04, 0.09) for control patients (see section 4.4).
 In the controlled and uncontrolled portions of the Phase II RA and the Phase III RA, PsA, and AS trials with a mean follow-up of 1.6 years, a greater incidence of TB was observed in the golimumab 100 mg treatment group compared with the golimumab 50 mg group.
+
 Malignancies
 
 Lymphoma
@@ -105,6 +104,10 @@ During the placebo-controlled portion of the study, the incidence (95% CI) of al
 In this study, the incidence (95% CI) per 100 subject-years of follow-up in golimumab-treated subjects was 0.40 (0.01, 2.20) for lymphoma, 0.79 (0.10, 2.86) for non-melanoma skin cancers, and 1.99 (0.64, 4.63) for other malignancies.
 For placebo subjects, the incidence (95% CI) per 100 subject-years of follow-up of these malignancies was 0.00 (0.00, 2.94).
 The significance of this finding is unknown.
+
+Neurological events
+In the controlled and uncontrolled portions of the Phase II RA and the Phase III RA, PsA, and AS trials with a mean follow-up of 2.6 years, a greater incidence of demyelination was observed in the golimumab 100 mg treatment group compared with the golimumab 50 mg group.
+See section 4.4.
 
 Liver enzyme elevations
 In controlled Phase III trials through week 16, mild ALT elevations (> 1 and < 3 x upper limit of normal (ULN)) occurred in similar proportions of golimumab and control patients in the RA and PsA studies (22.1% to 27.4% of patients); in the AS study, more golimumab-treated patients (25.6%) than control patients (3.9 %) had mild ALT elevations.

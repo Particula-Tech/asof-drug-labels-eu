@@ -123,11 +123,13 @@ Patients with each sub-type of psoriatic arthritis were enrolled, including poly
 Previous treatment with an anti-TNF agent was not allowed.
 Simponi or placebo were administered subcutaneously every 4 weeks.
 Patients were randomly assigned to placebo, Simponi 50 mg, or Simponi 100 mg.
-Approximately forty-eight percent of patients continued on stable doses of methotrexate (≤25 mg/week).
-The primary endpoint was the percentage of patients achieving ACR 20 response at week 14.
-Placebo-controlled efficacy data were collected and analysed through week 24.
-Key results for the 50 mg dose are shown in Table 4 and described below.
+Patients receiving placebo were switched to Simponi 50 mg after week 24.
+Patients entered an open label long-term extension at Week 52.Approximately forty-eight percent of patients continued on stable doses of methotrexate (≤25 mg/week).
+The co-primary endpoints were the percentage of patients achieving ACR 20 response at Week 14 and change from baseline in total PsA modified vdH-S score at Week 24.
 In general, no clinically meaningful differences in measures of efficacy were observed between the Simponi 50 mg and 100 mg dosing regimens.
+
+Signs and symptoms
+Key results for the 50 mg dose at weeks 14 and 24 are shown in table 4 and described below.
 
 Table 4
 Key efficacy outcomes from GO-REVEAL
@@ -148,17 +150,27 @@ Key efficacy outcomes from GO-REVEAL
 | PASIb 75c |  |  |
 | Week 14 | 3 % | 40 % |
 | Week 24 | 1 % | 56 % |
-| * p < 0.05 for all comparisons; p-value calculations are based on comparisons of median values for continuous variables a n reflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint b Psoriasis Area and Severity Index c Based on the subset of patients with ≥ 3% BSA involvement at baseline, 79 patients (69.9%) in the placebo group and 109 (74.3%) in the Simponi 50 mg group. |  |  |
+| * p < 0.05 for all comparisons; a n reflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint b Psoriasis Area and Severity Index c Based on the subset of patients with ≥ 3% BSA involvement at baseline, 79 patients (69.9%) in the placebo group and 109 (74.3%) in the Simponi 50 mg group. |  |  |
 
-Statistically significant responses in DAS28 were also observed at weeks 14 and 24 (p < 0.05).
-Improvements in key measures of disease activity were observed at the first assessment (week 4) after the initial Simponi administration and were maintained through week 24.
+Responses were observed at the first assessment (week 4) after the initial Simponi administration.
 Similar ACR 20 responses at week 14 were observed in patients with polyarticular arthritis with no rheumatoid nodules and asymmetric peripheral arthritis PsA subtypes.
 The number of patients with other PsA subtypes was too small to allow meaningful assessment.
 Responses observed in the Simponi treated groups were similar in patients receiving and not receiving concomitant MTX.
+Among 146 patients randomised to Simponi 50 mg, 70 were still on this treatment at week 104.
+Of these 70 patients, 64, 46 and 31 patients had an ACR 20/50/70 response, respectively.
 
-Improvements in parameters of peripheral activity characteristic of psoriatic arthritis (e.g. number of swollen joints, number of painful/tender joints, dactylitis and enthesitis) were seen in the Simponi-treated patients.
+Statistically significant responses in DAS28 were also observed at weeks 14 and 24 (p < 0.05).
 
+At Week 24 improvements in parameters of peripheral activity characteristic of psoriatic arthritis (e.g. number of swollen joints, number of painful/tender joints, dactylitis and enthesitis) were seen in the Simponi-treated patients.
 Simponi treatment resulted in significant improvement in physical function as assessed by HAQ, as well as significant improvements in health-related quality of life as measured by the physical and mental component summary scores of the SF-36.
+Among patients who remained on the Simponi treatment to which they were randomised at study start, DAS28 and HAQ responses were maintained through week 104.
+
+Radiographic Response:
+Structural damage in both hands and feet was assessed radiographically by the change from baseline in the vdH-S score, modified for PsA by addition of hand distal interphalangeal (DIP) joints.
+
+Simponi 50 mg treatment reduced the rate of progression of peripheral joint damage compared with placebo treatment at week 24 as measured by change from baseline in total modified vdH-S Score (mean + SD score was 0.27 + 1.3 in the placebo group compared with -0.16 + 1.3 in the Simponi group; p= 0.011).
+Out of 146 patients who were randomized to Simponi 50 mg, 52 week X-ray data were available for 126 patients, of whom 77% showed no progression compared to baseline.
+At week 104, X-ray data were available for 114 patients, and 77% showed no progression from baseline.
 
 Ankylosing spondylitis
 The safety and efficacy of Simponi were evaluated in a multi-centre, randomised, double-blind, placebo-controlled study (GO-RAISE) in 356 adult patients with active ankylosing spondylitis (defined as a Bath Ankylosing Spondylitis Disease Activity Index (BASDAI) ≥4 and a VAS for total back pain of ≥ 4, on a scale of 0 to 10 cm).
@@ -231,6 +243,3 @@ The European Medicines Agency has deferred the obligation to submit the results 
 | Week 24 | 5% | 20%* | 2% | 9% p=0.009 | 16% | 24% |
 | Week 52 | NA | NA | NA | NA | 22% | 28% |
 | a nreflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint. * p ≤ 0.001 NA: Not Applicable |  |  |  |  |  |  |
-
-Approximately forty-eight percent of patients continued on stable doses of methotrexate
-(≤25 mg/week).

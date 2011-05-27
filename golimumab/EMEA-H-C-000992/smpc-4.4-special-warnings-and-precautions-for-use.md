@@ -70,6 +70,7 @@ In the controlled portions of the Simponi Phase IIb and Phase III clinical trial
 
 In an exploratory clinical trial evaluating the use of Simponi in patients with severe persistent asthma, more malignancies were reported in patients treated with Simponi compared with control patients (see section 4.8).
 The significance of this finding is unknown.
+
 In an exploratory clinical trial evaluating the use of another anti-TNF agent, infliximab, in patients with moderate to severe chronic obstructive pulmonary disease (COPD), more malignancies, mostly in the lung or head and neck, were reported in infliximab-treated patients compared with control patients.
 All patients had a history of heavy smoking.
 Therefore, caution should be exercised when using any TNF-antagonist in COPD patients, as well as in patients with an increased risk of malignancy due to heavy smoking.
@@ -84,7 +85,7 @@ Patients should be closely monitored and Simponi must be discontinued in patient
 Neurological events
 Use of TNF-blocking agents, including Simponi, has been associated with cases of new onset or exacerbation of clinical symptoms and/or radiographic evidence of central nervous system demyelinating disorders, including multiple sclerosis and peripheral demyelinating disorders.
 In patients with pre-existing or recent onset of demyelinating disorders, the benefits and risks of anti-TNF treatment should be carefully considered before initiation of Simponi therapy.
-Discontinuation of Simponi should be considered if these disorders develop.
+Discontinuation of Simponi should be considered if these disorders develop (see section 4.8).
 
 Surgery
 There is limited safety experience of Simponi treatment in patients who have undergone surgical procedures, including arthroplasty.
@@ -112,7 +113,6 @@ The combination of Simponi and anakinra is not recommended.
 Concurrent administration of TNF-antagonists and abatacept
 In clinical studies concurrent administration of TNF-antagonists and abatacept has been associated with an increased risk of infections including serious infections compared to TNF-antagonists alone, without increased clinical benefit.
 The combination of Simponi and abatacept is not recommended.
-
 Switching between biological DMARDs
 When switching from one biologic to another, patients should be monitored for signs of infection.
 

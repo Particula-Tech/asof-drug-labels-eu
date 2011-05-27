@@ -2,7 +2,6 @@
 
 Women of childbearing potential
 Women of childbearing potential must use adequate contraception to prevent pregnancy and continue its use for at least 6 months after the last golimumab treatment.
-
 Pregnancy
 There are no adequate data on the use of golimumab in pregnant women.
 Due to its inhibition of TNF, golimumab administered during pregnancy could affect normal immune responses in the newborn.
