@@ -77,7 +77,9 @@ CIOMS III
 | Cardiac disorders Common |  |  | Cardiovascular disorder |
 | Vascular disorders Common |  |  | Vasodilatation |
 | Respiratory, thoracic and mediastinal disorders Common |  |  | Dyspnoea, increased cough |
-| Gastrointestinal disorders Very Common Common Uncommon | Constipation, diarrhoea, nausea, stomatitis, vomiting Abdominal pain, dyspepsia, mouth ulceration | Nausea, stomatitis, vomiting, abdominal pain, diarrhoea Constipation, dyspepsia, mouth ulceration | Mouth ulceration, esophagitis, nausea and vomiting, gastritis, dysphagia, dry mouth, flatulence, gingivitis, taste perversion |
+| Gastrointestinal disorders Very Common | Constipation, diarrhoea, nausea, stomatitis, vomiting |  |  |
+| Common | Abdominal pain, dyspepsia, mouth ulceration | Nausea, stomatitis, vomiting, abdominal pain, diarrhoea | Mouth ulceration, esophagitis, nausea and vomiting, gastritis, dysphagia, dry mouth, flatulence, gingivitis, |
+| Uncommon |  | Constipation, dyspepsia, mouth ulceration | taste perversion |
 | Skin and subcutaneous tissue disorders Very Common | PPE*, alopecia, rash | PPE* |  |
 | Common | Dry skin, skin discolouration | Alopecia, rash | Vesiculobullous rash, pruritus, exfoliative dermatitis, skin disorder, maculopapular rash, sweating, acne, skin ulcer |
 | Musculoskeletal and connective tissue disorders Common |  |  | Back pain, myalgia |
