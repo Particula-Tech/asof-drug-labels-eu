@@ -98,7 +98,6 @@ Digoxin levels should be monitored more intensively than usual during this perio
 Ethinyl estradiol: Barrier or other non-hormonal methods of contraception should be considered when administering ritonavir at therapeutic or low doses as ritonavir is likely to reduce the effect and change the uterine bleeding profile when co-administered with estradiol-containing contraceptives.
 
 Glucocorticoids: Concomitant use of ritonavir and fluticasone or other glucocorticoids that are metabolised by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing’s syndrome and adrenal suppression (see section 4.5).
-
 Trazodone: Particular caution should be used when prescribing ritonavir in patients using trazodone.
 Trazodone is a CYP3A4 substrate and co-administration of ritonavir is expected to increase trazodone levels.
 Adverse reactions of nausea, dizziness, hypotension and syncope have been observed in single dose interaction studies in healthy volunteers (see section 4.5)
@@ -132,9 +131,9 @@ Refer to the Reyataz Summary of Product Characteristics for further details.
 
 [Norvir 100 mg soft capsules]
 
-This medicinal product contains small amounts of ethanol (alcohol), less than 100 mg per maximum dose of 600 mg.
+Ritonavir soft capsules contain castor oil polyoxyl which may cause stomach upset and diarrhoea.
 
-The following Warnings and Precautions should be considered when ritonavir is used as a antiretroviral agent.
+This medicinal product contains small amounts of ethanol (alcohol), less than 100 mg per maximum dose of 600 mg.
 
 In patients who are already taking digoxin when ritonavir is introduced, the digoxin dose should be reduced to one-half of the patients’ normal dose and patients need to be followed more closely than usual for several weeks after initiating co-administration of ritonavir and digoxin.
 

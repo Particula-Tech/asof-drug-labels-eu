@@ -71,7 +71,7 @@ Across dose groups, ritonavir oral clearance (CL/F/m2) declined with age with me
 
 [Norvir 100 mg soft capsules]
 
-The isopropylthiazole oxidation metabolite (M-2) is the major metabolite and has antiviral activity similar to that of parent compound However, the AUC of the M-2 metabolite was approximately 3% of the AUC of parent compound.
+(all sentences already above)
 
 [Norvir 100 mg film-coated tablets]
 
