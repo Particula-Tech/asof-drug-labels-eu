@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Active substances used in nicotine dependence, ATC code: N07BA03
+Pharmacotherapeutic group: OTHER NERVOUS SYSTEM DRUGS; Drugs used in nicotine, dependence ATC code: N07BA03
 
 Mechanism of action
 Varenicline binds with high affinity and selectivity at the α4β2 neuronal nicotinic acetylcholine receptors, where it acts as a partial agonist - a compound that has both agonist activity, with lower intrinsic efficacy than nicotine, and antagonist activities in the presence of nicotine.
@@ -77,7 +77,7 @@ Subjects with Cardiovascular Disease
 The efficacy and safety of varenicline has been evaluated in cardiovascular compromised smokers.
 Efficacy and safety was similar to that observed in studies with non-cardiovascular compromised smokers.
 The 4 week CQR for varenicline and placebo was 47.3% and 14.3%, respectively and the CA week 9-52 was 19.8% (varenicline) vs 7.4% (placebo).
-There was a low incidence of cardiovascular events in both the varenicline and placebo treatment groups.
+There was a low incidence of cardiovascular reactions in both the varenicline and placebo treatment groups.
 
 Subjects with mild-moderate chronic obstructive pulmonary disease (COPD)
 The efficacy and safety of CHAMPIX (1 mg twice daily) for smoking cessation in subjects with mild-moderate COPD was demonstrated in a randomised double-blind placebo-controlled clinical trial.
@@ -95,3 +95,9 @@ The results for the 4W CQR (weeks 9 through 12) and CA rate (weeks 9 through 52)
 [CHAMPIX 1 mg film-coated tablets]
 
 The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5, 95% CI: 27.0% – 42.0%) and the CA week 9-24 was 35.2% (varenicline) vs 12.7% (placebo) (difference=22.5%, 95% CI: 15.8% - 29.1%).
+
+[CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
+
+Pharmacotherapeutic group: OTHER NERVOUS SYSTEM DRUGS; Drugs used in nicotine , dependence ATC code: N07BA03
+
+Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1�M, except to 5-HT3 receptors: Ki=350 nM).

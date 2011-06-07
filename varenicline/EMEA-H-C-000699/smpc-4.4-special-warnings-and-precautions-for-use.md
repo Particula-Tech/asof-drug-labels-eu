@@ -5,7 +5,7 @@ Physiological changes resulting from smoking cessation, with or without treatmen
 As smoking induces CYP1A2, smoking cessation may result in an increase of plasma levels of CYP1A2 substrates.
 
 Neuropsychiatric symptoms
-Changes in behaviour or thinking, anxiety, psychosis, mood swings, aggressive behaviour, depression, suicidal ideation and behaviour and suicide attempts have been reported in patients attempting to quit smoking with Champix in the post-marketing experience.
+Changes in behaviour or thinking, anxiety, psychosis, mood swings, aggressive behaviour, depression, suicidal ideation and behaviour and suicide attempts have been reported in patients attempting to quit smoking with CHAMPIX in the post-marketing experience.
 Not all patients had stopped smoking at the time of onset of symptoms and not all patients had known pre-existing psychiatric illness.
 Clinicians should be aware of the possible emergence of significant depressive symptomatology in patients undergoing a smoking cessation attempt, and should advise patients accordingly.
 Champix should be discontinued immediately if agitation, depressed mood or changes in behaviour or thinking that are of concern for the doctor, the patient, family or caregivers are observed, or if the patient develops suicidal ideation or suicidal behaviour.
@@ -38,5 +38,8 @@ As these skin reactions can be life threatening, patients should discontinue tre
 [CHAMPIX 1 mg film-coated tablets]
 
 In many post-marketing cases, resolution of symptoms after discontinuation of varenicline was reported, although in some cases the symptoms persisted; therefore, ongoing follow up should be provided until symptoms resolve.
-
 In addition, smoking cessation, with or without pharmacotherapy, has been associated with the exacerbation of underlying psychiatric illness (e.g. depression).
+
+[CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
+
+(all sentences already above)
