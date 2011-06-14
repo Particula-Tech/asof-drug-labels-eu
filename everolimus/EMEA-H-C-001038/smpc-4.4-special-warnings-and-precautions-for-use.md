@@ -32,10 +32,14 @@ Mouth ulcers, stomatitis and oral mucositis have been observed in patients treat
 In such cases topical treatments are recommended, but alcohol- or peroxide-containing mouthwashes should be avoided as they may exacerbate the condition.
 Antifungal agents should not be used unless fungal infection has been diagnosed (see section 4.5).
 
+Renal failure events
+Cases of renal failure (including acute renal failure), some with a fatal outcome, have been observed in patients treated with Afinitor (see section 4.8).
+Renal function of patients should be monitored particularly where patients have additional risk factors that may further impair renal function.
+
 Laboratory tests and monitoring
 Renal function
-Elevations of serum creatinine, usually mild, have been reported in clinical trials (see section 4.8).
-Monitoring of renal function, including measurement of blood urea nitrogen (BUN) or serum creatinine, is recommended prior to the start of Afinitor therapy and periodically thereafter.
+Elevations of serum creatinine, usually mild, and proteinuria have been reported in clinical trials (see section 4.8).
+Monitoring of renal function, including measurement of blood urea nitrogen (BUN), urinary protein or serum creatinine, is recommended prior to the start of Afinitor therapy and periodically thereafter.
 
 Blood glucose and lipids
 Hyperglycaemia, hyperlipidaemia and hypertrigylceridaemia have been reported in clinical trials (see section 4.8).
@@ -62,7 +66,6 @@ The use of live vaccines should be avoided during treatment with Afinitor (see s
 
 Lactose
 Patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
-
 Wound healing complications
 Impaired wound healing is a class effect of rapamycin derivatives, including Afinitor.
 Caution should therefore be exercised with the use of Afinitor in the peri-surgical period.

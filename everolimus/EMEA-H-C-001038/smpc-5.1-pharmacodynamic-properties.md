@@ -13,7 +13,6 @@ Clinical efficacy and safety
 A phase III, international, multicentre, randomised, double-blind study comparing everolimus 10 mg/day and placebo, both in conjunction with best supportive care, was conducted in patients with metastatic renal cell carcinoma whose disease had progressed on or after treatment with VEGFR-TKI (vascular endothelial growth factor receptor tyrosine kinase inhibitor) therapy (sunitinib, sorafenib, or both sunitinib and sorafenib).
 Prior therapy with bevacizumab and interferon-α was also permitted.
 Patients were stratified according to Memorial Sloan-Kettering Cancer Center (MSKCC) prognostic score (favourable- vs. intermediate- vs. poor-risk groups) and prior anticancer therapy (1 vs. 2 prior VEGFR-TKIs).
-
 Progression-free survival, documented using RECIST (Response Evaluation Criteria in Solid Tumours) and assessed via a blinded, independent central review, was the primary endpoint.
 Secondary endpoints included safety, objective tumour response rate, overall survival, disease-related symptoms, and quality of life.
 After documented radiological progression, patients could be unblinded by the investigator: those randomised to placebo were then able to receive open-label everolimus 10 mg/day.
@@ -21,6 +20,7 @@ The Independent Data Monitoring Committee recommended termination of this trial 
 
 In total, 416 patients were randomised 2:1 to receive Afinitor (n=277) or placebo (n=139).
 Demographics were well balanced (pooled median age [61 years; range 27-85], 78% male, 88% Caucasian, number of prior VEGFR-TKI therapies [1-74%, 2-26%]).
+
 Afinitor was superior to placebo for the primary endpoint of progression-free survival, with a statistically significant 67% reduction in the risk of progression or death (see Table 3 and Figure 1).
 
 Table 3 Progression-free survival results
@@ -38,7 +38,6 @@ Table 3 Progression-free survival results
 | Poor risk | 61 | 3.6 (1.9-4.6) | 1.8 (1.8-3.6) | 0.44 (0.22-0.85) | 0.007 |
 
 a Stratified log-rank test
-
 Figure 1 KaplanMeier progression-free survival curves
 
 Censoring Times
@@ -60,6 +59,7 @@ Afinitor
 Placebo
 
 Six-month PFS rates were 36% for Afinitor therapy compared with 9% for placebo.
+
 Confirmed objective tumour responses were observed in 5 patients (2%) receiving Afinitor, while none were observed in patients receiving placebo.
 Therefore, the progression-free survival advantage primarily reflects the population with disease stabilisation (corresponding to 67% of the Afinitor treatment group).
 
