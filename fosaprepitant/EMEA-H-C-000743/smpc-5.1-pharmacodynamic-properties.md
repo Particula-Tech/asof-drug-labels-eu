@@ -147,6 +147,7 @@ Fosaprepitant placebo, aprepitant placebo, and dexamethasone placebo (in the eve
 Efficacy was based on evaluation of the following composite measures: complete response in both the overall and delayed phases and no vomiting in the overall phase.
 IVEMEND 150 mg was shown to be non-inferior to that of the 3-day regimen of aprepitant.
 A summary of the primary and secondary endpoints is shown in Table 4.
+
 Table 4
 
 ENDPOINTS* Fosaprepitant Aprepitant Difference†

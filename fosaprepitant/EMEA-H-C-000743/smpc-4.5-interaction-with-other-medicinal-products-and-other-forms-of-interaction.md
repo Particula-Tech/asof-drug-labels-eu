@@ -151,8 +151,7 @@ Interaction studies with fosaprepitant 150 mg and 5-HT3 antagonists have not bee
 Therefore, there is no evidence of interaction with the use of IVEMEND 150 mg and 5-HT3 antagonists.
 
 Effect of other medicinal products on the pharmacokinetics of aprepitant resulting from administration of fosaprepitant 150 mg
-Concomitant administration of fosaprepitant with active substances that inhibit CYP3A4 activity
-(e.g., ketoconazole, itraconazole, voriconazole, posaconazole, clarithromycin, telithromycin, nefazodone, and protease inhibitors) should be approached cautiously, as the combination is expected to result in several-fold increased plasma concentrations of aprepitant (see section 4.4).
+Concomitant administration of fosaprepitant with active substances that inhibit CYP3A4 activity (e.g., ketoconazole, itraconazole, voriconazole, posaconazole, clarithromycin, telithromycin, nefazodone, and protease inhibitors) should be approached cautiously, as the combination is expected to result in several-fold increased plasma concentrations of aprepitant (see section 4.4).
 Ketoconazole increased the terminal half-life of oral aprepitant about 3-fold.
 
 Concomitant administration of fosaprepitant with active substances that strongly induce CYP3A4 activity (e.g. rifampicin, phenytoin, carbamazepine, phenobarbital) should be avoided as the combination could result in reductions of the plasma concentrations of aprepitant that may result in decreased efficacy.
