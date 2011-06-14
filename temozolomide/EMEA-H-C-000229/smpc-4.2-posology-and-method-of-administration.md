@@ -57,12 +57,7 @@ The dose should be reduced or administration discontinued according to Table 3.
 | Absolute neutrophil count | < 1.0 x 109/l | See footnote b |
 | Thrombocyte count | < 50 x 109/l | See footnote b |
 | CTC non-haematological Toxicity (except for alopecia, nausea, vomiting) | CTC Grade 3 | CTC Grade 4b |
-
-a: TMZ dose levels are listed in Table 2.
-b: TMZ is to be discontinued if:
-
-- dose level -1 (100 mg/m2) still results in unacceptable toxicity
-- the same Grade 3 non-haematological toxicity (except for alopecia, nausea, vomiting) recurs after dose reduction.
+| a: TMZ dose levels are listed in Table 2. b: TMZ is to be discontinued if: • dose level -1 (100 mg/m2) still results in unacceptable toxicity • the same Grade 3 non-haematological toxicity (except for alopecia, nausea, vomiting) recurs after dose reduction. |  |  |
 
 Adult and paediatric patients 3 years of age or older with recurrent or progressive malignant glioma:
 
@@ -72,7 +67,7 @@ In patients previously treated with chemotherapy, the initial dose is 150 mg/m2 
 
 Special populations
 
-Paediatric patients
+Paediatric population
 
 In patients 3 years of age or older, TMZ is only to be used in recurrent or progressive malignant glioma.
 There is no clinical experience with use of TMZ in children under the age of 3 years.
@@ -100,7 +95,18 @@ If vomiting occurs after the dose is administered, a second dose should not be a
 
 [Temodal 20 mg hard capsules]
 
-(all sentences already above)
+| Table 3. TMZ dose reduction or discontinuation during monotherapy treatment |  |  |
+| --- | --- | --- |
+| Toxicity | Reduce TMZ by 1 dose levela | Discontinue TMZ |
+| Absolute neutrophil count | < 1.0 x 109/l | See footnote b |
+| Thrombocyte count | < 50 x 109/l | See footnote b |
+| CTC non-haematological Toxicity (except for alopecia, nausea, vomiting) | CTC Grade 3 | CTC Grade 4b |
+
+a: TMZ dose levels are listed in Table 2.
+b: TMZ is to be discontinued if:
+
+- dose level -1 (100 mg/m2) still results in unacceptable toxicity
+- the same Grade 3 non-haematological toxicity (except for alopecia, nausea, vomiting) recurs after dose reduction.
 
 [Temodal 100 mg hard capsules]
 

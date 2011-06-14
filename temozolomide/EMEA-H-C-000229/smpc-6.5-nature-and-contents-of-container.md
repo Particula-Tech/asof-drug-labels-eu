@@ -2,9 +2,8 @@
 
 Bottle presentation
 
-Type I amber glass bottles with polypropylene child-resistant closures containing 5 -or 20 hard capsules.
+Type I amber glass bottles with polypropylene child-resistant closures containing 5 or 20 hard capsules.
 The carton contains one bottle.
-
 Sachet presentation
 
 Sachets are composed of linear low density polyethylene (innermost layer), aluminium and polyethylene terephthalate.

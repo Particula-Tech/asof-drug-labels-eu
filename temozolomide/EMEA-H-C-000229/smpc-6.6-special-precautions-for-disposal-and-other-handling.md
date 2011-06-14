@@ -11,12 +11,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 [Temodal 20 mg hard capsules]
 
-If a capsule becomes damaged, contact of the powder contents with skin
-
-- r mucous membrane must be avoided.
-  If Temodal comes into contact with skin or mucosa, it should be
-
-washed immediately and thoroughly with soap and water.
+(all sentences already above)
 
 [Temodal 100 mg hard capsules]
 

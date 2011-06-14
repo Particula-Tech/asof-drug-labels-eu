@@ -138,6 +138,7 @@ Very rare cases of MDS and secondary malignancies, including myeloid leukaemia h
 Prolonged pancytopenia, which may result in aplastic anaemia has been reported very rarely.
 Cases of toxic epidermal necrolysis and Stevens-Johnson syndrome have been reported very rarely.
 Cases of interstitial pneumonitis/pneumonitis have been reported very rarely.
+There have been reported cases of hepatotoxicity including elevations of liver enzymes, hyperbilirubinemia, cholestasis and hepatitis.
 
 [Temodal 20 mg hard capsules]
 
@@ -164,33 +165,6 @@ Cases of interstitial pneumonitis/pneumonitis have been reported very rarely.
 Clinical trial experience with hard capsules
 
 Most haematological adverse reactions were reported commonly or very commonly in both indications (Tables 4 and 5); the frequency of grade 3-4 laboratory findings is presented after each table.
-
-| Table 5. Adverse reactions in patients with recurrent or progressive malignant glioma |  |
-| --- | --- |
-| Infections and infestations |  |
-| Rare: | Opportunistic infections, including PCP |
-| Blood and lymphatic system disorders |  |
-| Very common: | Neutropenia or lymphopenia (grade 3-4), thrombocytopenia (grade 3-4) |
-| Uncommon: | Pancytopenia, anaemia (grade 3-4), leukopenia |
-| Metabolism and nutrition disorders |  |
-| Very common: | Anorexia |
-| Common: | Weight decrease |
-| Nervous system disorders |  |
-| Very common: | Headache |
-| Common: | Somnolence, dizziness, paresthesia |
-| Respiratory, thoracic and mediastinal disorders |  |
-| Common: | Dyspnoea |
-| Gastrointestinal disorders |  |
-| Very common: | Vomiting, nausea, constipation |
-| Common: | Diarrhoea, abdominal pain, dyspepsia |
-| Skin and subcutaneous tissue disorders |  |
-| Common: | Rash, pruritus, alopecia |
-| Very rare: | Erythema multiforme, erythroderma, urticaria, exanthema |
-| General disorders and administration site conditions |  |
-| Very common: | Fatigue |
-| Common: | Fever, asthenia, rigors, malaise, pain, taste perversion |
-
-Very rare: Allergic reactions, including anaphylaxis, angioedema
 
 There were higher rates of Grade 4 neutropenia (ANC < 0.5 x 109/l), 12 % vs 5 %, and thrombocytopenia (< 20 x 109/l), 9 % vs 3 %, in women vs men in the first cycle of therapy.
 
