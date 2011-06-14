@@ -55,7 +55,6 @@ Patients with severe organ impairment should be carefully monitored for adverse 
 No specific modification to the starting dose is recommended in patients with renal impairment (e.g. baseline serum creatinine or blood urea nitrogen [BUN] ≥ 2-fold above upper limit of normal [ULN] or serum bicarbonate less than 20 mmol/l) prior to starting treatment; subsequent dose modifications should be based on haematology and renal laboratory values.
 If unexplained reductions in serum bicarbonate levels to less than 20 mmol/l occur, the dose should be reduced by 50 % on the next cycle.
 If unexplained elevations in serum creatinine or BUN to ≥ 2-fold above baseline values and above ULN occur, the next cycle should be delayed until values return to normal or baseline and the dose should be reduced by 50 % on the next treatment cycle (see section 4.4).
-
 Hepatic impairment: No formal studies have been conducted in patients with hepatic impairment (see section 4.4).
 Patients with severe hepatic organ impairment should be carefully monitored for adverse events.
 No specific modification to the starting dose is recommended for patients with hepatic impairment prior to starting treatment; subsequent dose modifications should be based on haematology laboratory values.
@@ -67,12 +66,14 @@ Because elderly patients are more likely to have decreased renal function, it ma
 Children and adolescents: Vidaza is not recommended for use in children below 18 years due to insufficient data on safety and efficacy.
 
 Laboratory tests
-Liver function tests and serum creatinine should be determined prior to initiation of therapy and prior to each treatment cycle.
+Liver function tests, serum creatinine and serum bicarbonate should be determined prior to initiation of therapy and prior to each treatment cycle.
 Complete blood counts should be performed prior to initiation of therapy and as needed to monitor response and toxicity, but at a minimum, prior to each treatment cycle.
 
 Method of administration
 Reconstituted Vidaza should be injected subcutaneously into the upper arm, thigh or abdomen.
 Injection sites should be rotated.
 New injections should be given at least 2.5 cm from the previous site and never into areas where the site is tender, bruised, red, or hardened.
+
+After reconstitution, the suspension should not be filtered.
 
 Detailed instructions for the reconstitution and administration procedure for Vidaza are provided in section 6.6.

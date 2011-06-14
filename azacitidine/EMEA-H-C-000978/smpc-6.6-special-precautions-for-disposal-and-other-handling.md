@@ -5,8 +5,11 @@ Vidaza is a cytotoxic medicinal product and, as with other potentially toxic com
 Procedures for proper handling and disposal of anticancer medicinal products should be applied.
 If reconstituted azacitidine comes into contact with the skin, immediately and thoroughly wash with soap and water.
 If it comes into contact with mucous membranes, flush thoroughly with water.
-
 Reconstitution procedure
+Vidaza should be reconstituted with water for injections.
+The shelf life of the reconstituted medicinal product can be extended by reconstituting with refrigerated (2°C to 8°C) water for injections.
+Details on storage of the reconstituted product are provided below.
+
 1.
 The following supplies should be assembled:
 
@@ -22,6 +25,8 @@ Following removal of the syringe and needle, the vial should be vigorously shake
 After reconstitution each ml of suspension will contain 25 mg of azacitidine (100 mg/4 ml).
 The reconstituted product is a homogeneous, cloudy suspension, free of agglomerates.
 The product should be discarded if it contains large particles or agglomerates.
+Do not filter the suspension after reconstitution since this could remove the active substance.
+It must be taken into account that filters are present in some adaptors, spikes and closed systems; therefore such systems should not be used for administration of the drug after reconstitution.
 5.
 The rubber top should be cleaned and a new syringe with needle inserted.
 The vial should then be turned upside down, making sure the needle tip is below the level of the liquid.
@@ -39,10 +44,17 @@ The temperature of the suspension at the time of injection should be approximate
 To re-suspend, vigorously roll the syringe between the palms until a uniform, cloudy suspension is achieved.
 The product should be discarded if it contains large particles or agglomerates.
 
-The Vidaza suspension should be prepared immediately before use and the reconstituted suspension should be administered within 45 minutes.
+Storage of the reconstituted product
+For immediate use:
+The Vidaza suspension may be prepared immediately before use and the reconstituted suspension should be administered within 45 minutes.
 If elapsed time is greater than 45 minutes, the reconstituted suspension should be discarded appropriately and a new dose prepared.
-Alternatively, if the product needs to be reconstituted in advance of the administration, it must be placed in a refrigerator (2°C to 8°C) immediately after reconstitution, and kept in the refrigerator for a maximum of 8 hours.
+
+For later use:
+When reconstituting using water for injections that has not been refrigerated, the reconstituted suspension must be placed in a refrigerator (2°C to 8°C) immediately after reconstitution, and kept in the refrigerator for a maximum of 8 hours.
 If the elapsed time in the refrigerator is greater than 8 hours, the suspension should be discarded appropriately and a new dose prepared.
+
+When reconstituting using refrigerated (2°C to 8°C) water for injections, the reconstituted suspension must be placed in a refrigerator (2°C to 8°C) immediately after reconstitution, and kept in the refrigerator for a maximum of 22 hours.
+If the elapsed time in the refrigerator is greater than 22 hours, the suspension should be discarded appropriately and a new dose prepared.
 The syringe filled with reconstituted suspension should be allowed up to 30 minutes prior to administration to reach a temperature of approximately 20°C-25°C.
 If the elapsed time is longer than 30 minutes, the suspension should be discarded appropriately and a new dose prepared.
 
