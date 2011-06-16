@@ -12,21 +12,23 @@ Patients who experience and retain improved vision should not be retreated.
 Patients who experience a deterioration in vision, which is not slowed by OZURDEX, should not be retreated.
 
 There is only very limited information on repeat dosing intervals less than 6 months (see section 5.1).
-There is currently no experience of repeat administrations beyond 2 implants in Retinal Vein Occlusion.
+There is currently no experience of repeat administrations in posterior segment non-infectious uveitis or beyond 2 implants in Retinal Vein Occlusion.
 
 Patients should be monitored following the injection to permit early treatment if an infection or increased intraocular pressure occurs (see section 4.4).
 
 Special populations
 Elderly (≥65 years old)
 No dose adjustment is required for elderly patients.
-
 Renal impairment
 OZURDEX has not been studied in patients with renal impairment however no special considerations are needed in this population.
+
 Hepatic impairment
 OZURDEX has not been studied in patients with hepatic impairment, however no special considerations are needed in this population.
 
 Paediatric population
 There is no relevant use of OZURDEX in the paediatric population in macular oedema following either Branch Retinal Vein Occlusion (BRVO) or Central Retinal Vein Occlusion (CRVO).
+The safety and efficacy of OZURDEX in uveitis in the paediatric population have not been established.
+No data are available.
 
 Method of administration
 Single-use intravitreal implant in applicator for intravitreal use only.
