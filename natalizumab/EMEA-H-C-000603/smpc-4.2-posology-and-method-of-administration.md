@@ -25,6 +25,8 @@ Adults
 
 TYSABRI 300 mg is administered by intravenous infusion once every 4 weeks.
 
+After 2 years patients should be re-informed about the risk factors for PML, like duration of treatment, immunosuppressant use prior to receiving TYSABRI and the presence of anti-JCV antibodies (see Section 4.4.).
+
 Elderly
 
 TYSABRI is not recommended for use in patients aged over 65 due to a lack of data in this population.
@@ -40,8 +42,8 @@ Studies have not been conducted to examine the effects of renal or hepatic impai
 The mechanism for elimination and results from population pharmacokinetics suggest that dose adjustment would not be necessary in patients with renal or hepatic impairment.
 
 Method of Administration
-
 For instructions on dilution of the medicinal product before administration, see section 6.6.
+
 After dilution (see section 6.6), the infusion is to be administered over approximately 1 hour and patients are to be observed during the infusion and for 1 hour after the completion of the infusion for signs and symptoms of hypersensitivity reactions.
 
 TYSABRI must not be administered as a bolus injection.

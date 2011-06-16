@@ -5,12 +5,8 @@ Based on the pharmacological mechanism of action of natalizumab, the use of TYSA
 4.8 Undesirable effect
 
 In placebo-controlled trials in 1,617 MS patients treated with natalizumab for up to 2 years (placebo: 1,135), adverse events leading to discontinuation of therapy occurred in 5.8% of patients treated with natalizumab (placebo: 4.8%).
-Over the 2-year duration of the studies, 43.5% of patients treated with natalizumab reported adverse drug reactions (placebo: 39.6%)1.
-Adverse drug reactions reported with
-
-1 An adverse event judged related to therapy by the investigating physician.
-natalizumab with an incidence of 0.5% greater than reported with placebo are shown below.
-The reactions are reported as MedDRA preferred terms under the MedDRA primary system organ class.
+Over the 2-year duration of the studies, 43.5% of patients treated with natalizumab reported adverse reactions (placebo: 39.6%)1.
+Adverse drug reactions reported with natalizumab with an incidence of 0.5% greater than reported with placebo are shown below.The reactions are reported as MedDRA preferred terms under the MedDRA primary system organ class.
 Frequencies were defined as follows:
 
 Common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
@@ -18,9 +14,7 @@ Common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
 Nervous system disorders
-
 Common Headache
-
 Dizziness
 
 Gastrointestinal disorders
@@ -54,6 +48,7 @@ Uncommon Hypersensitivity
 
 Infusion reactions
 
+1 An adverse event judged related to therapy by the investigating physician.
 In 2-year controlled clinical trials in MS patients, an infusion-related event was defined as an adverse event occurring during the infusion or within 1 hour of the completion of the infusion.
 These occurred in 23.1% of MS patients treated with natalizumab (placebo: 18.7%).
 Events reported more commonly with natalizumab than with placebo included dizziness, nausea, urticaria and rigors.
@@ -86,17 +81,13 @@ In clinical trials, herpes infections (Varicella-Zoster virus, Herpes-simplex vi
 In post marketing experience, there have been reports of serious cases, including one fatal case of herpes encephalitis.
 See section 4.4.
 
-The majority of patients did not interrupt natalizumab therapy during infections and recovery occurred with appropriate treatment.
-
-In clinical trials, cases of PML have been reported.
-PML usually leads to severe disability or death (see section 4.4).
+The majority of patients did not interrupt natalizumab therapy during infections and recovery occurred with appropriate treatment.In clinical trials, cases ofPML have been reported PML usually leads to severe disability or death (see section 4.4).
 In pivotal clinical trials, two cases, including one fatality, occurred in MS patients who were being treated with concomitant interferon beta-1a therapy for more than 2 years.
 In another trial, one patient with Crohn’s disease, who had a long history of treatment with immunosuppressants and associated lymphopenia also developed PML and died.
 
 PML has been reported in post-marketing experience in patients treated with TYSABRI monotherapy.
 
 Hepatic Events
-
 Spontaneous cases of serious liver injuries, increased liver enzymes, hyperbilirubinaemia have been reported during the post marketing phase (see section 4.4).
 
 Malignancies

@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Selective Immunosuppressive Agent, ATC code: L04AA23.
+Pharmacotherapeutic group: Selective Immunosuppressive Agent, ATC code: L04AA23
 
 Pharmacodynamic effects
 

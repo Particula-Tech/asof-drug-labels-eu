@@ -2,23 +2,34 @@
 
 Progressive Multifocal Leukoencephalopathy (PML)
 
-Use of TYSABRI has been associated with an increased risk of PML which may be fatal or result in severe disability.
-The risk of PML increases with treatment duration, especially beyond 2 years.
-There is limited experience in patients who received more than 3 years of Tysabri treatment therefore the risk of PML in these patients cannot currently be estimated.
-The risk of PML is also increased in patients who have been treated with an immunosuppressant prior to receiving TYSABRI.
-This increased risk appears to be independent of TYSABRI treatment duration.
-Due to this increased risk of developing PML, the benefits and risks of Tysabri treatment should be individually reconsidered by the specialist physician and the patient.
+Use of TYSABRI has been associated with an increased risk of PML, an opportunistic infection caused by JC virus, which may be fatal or result in severe disability.
+Due to this increased risk of developing PML, the benefits and risks of TYSABRI treatment should be individually reconsidered by the specialist physician and the patient.
 
-The patient should be re-informed about the risks of Tysabri after 2 years especially the increased risk of PML, and should be instructed together with their caregivers on early signs and symptoms of PML.
+Patients should be instructed together with their caregivers on early signs and symptoms of PML.
 
-Before initiation of treatment with TYSABRI, a recent (usually within 3 months) Magnetic Resonance Image (MRI) should be available as a reference, and be repeated on a yearly routine basis to update this reference.
-Patients must be monitored at regular intervals throughout treatment for any new or worsening neurological symptoms or signs that may be suggestive of PML.
+Each of the following independent risk factors is associated with an increased risk of PML.
+
+- Treatment duration, especially beyond 2 years.
+  There is limited experience in patients who have received more than 4 years of TYSABRI treatment therefore the risk of PML in these patients cannot currently be estimated.
+- Immunosuppressant use prior to receiving TYSABRI.
+- The presence of anti-JCV antibodies.
+
+Anti-JCV antibody status identifies different levels of risk for PML in TYSABRI treated patients.
+Patients who are anti-JCV antibody positive are at an increased risk of developing PML compared to patients who are anti-JCV antibody negative.
+Patients who have all three risk factors for PML (i.e., have received more than 2 years of TYSABRI therapy, and have received prior immunosuppressant therapy and are anti-JCV antibody positive) have the highest risk of PML at approximately 9 in 1,000 patients treated.
+Patients should be informed about this increased risk for developing PML before continuation of treatment after 2 years.
+
+For risk stratification prior or during the treatment with TYSABRI anti-JCV antibody testing may provide supportive information.
+Before initiation of treatment with TYSABRI, a recent (usually within 3 months) Magnetic Resonance Image (MRI should be available as a reference, and be repeated on a yearly routine basis to update this reference.
+Patients must be monitored at regular intervals throughout.
+After 2 years the patient should be re-informed about the risk of PML with TYSABRI.
 
 If PML is suspected, further dosing must be suspended until PML has been excluded.
 
 The clinician should evaluate the patient to determine if the symptoms are indicative of neurological dysfunction, and if so, whether these symptoms are typical of MS or possibly suggestive of PML.
 If any doubt exists, further evaluation, including MRI scan preferably with contrast (compared with pre-treatment MRI), CSF testing for JC Viral DNA and repeat neurological assessments, should be considered as described in the Physician Information and Management Guidelines (see educational guidance).
 Once the clinician has excluded PML (if necessary, by repeating clinical, imaging and/or laboratory investigations if clinical suspicion remains), dosing of natalizumab may resume.
+
 The physician should be particularly alert to symptoms suggestive of PML that the patient may not notice (e.g. cognitive or psychiatric symptoms).
 Patients should also be advised to inform their partner or caregivers about their treatment, since they may notice symptoms that the patient is not aware of.
 
@@ -44,7 +55,6 @@ If a patient receiving TYSABRI develops an opportunistic infection, dosing of TY
 Educational guidance
 
 All physicians who intend to prescribe TYSABRI must ensure they are familiar with the Physician Information and Management Guidelines.
-
 Physicians must discuss the benefits and risks of TYSABRI therapy with the patient and provide them with a Patient Alert Card.
 Patients should be instructed that if they develop any infection then they should inform their physician that they are being treated with TYSABRI.
 
@@ -56,6 +66,7 @@ Hypersensitivity reactions have been associated with TYSABRI, including serious 
 These reactions usually occurred during the infusion or up to 1 hour after completion of the infusion.
 The risk for hypersensitivity was greatest with early infusions and in patients re-exposed to TYSABRI following an initial short exposure (one or two infusions) and extended period (three months or more) without treatment.
 However, the risk of hypersensitivity reactions should be considered for every infusion administered.
+
 Patients are to be observed during the infusion and for 1 hour after the completion of the infusion (see section 4.8).
 Resources for the management of hypersensitivity reactions should be available.
 
@@ -81,7 +92,6 @@ Disease exacerbations or infusion related events may indicate the development of
 In these cases the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after 6 weeks, treatment should be discontinued, as persistent antibodies are associated with a substantial decrease in efficacy of TYSABRI and an increased incidence of hypersensitivity reactions (see section 4.8).
 
 Since patients who have received an initial short exposure to TYSABRI and then had an extended period without treatment are more at risk for hypersensitivity upon redosing, the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after 6 weeks treatment should not be resumed.
-
 Hepatic Events
 
 Spontaneous serious adverse reactions of liver injury have been reported during the post marketing phase.
