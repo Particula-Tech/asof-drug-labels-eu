@@ -52,16 +52,15 @@ Nervous system disorders
 Very Common Dizziness, somnolence
 Common Ataxia, coordination abnormal, tremor, dysarthria, memory
 
-impairment, disturbance in attention, paraesthesia, sedation, balance disorder, lethargy
+impairment, disturbance in attention, paraesthesia, sedation, balance disorder, lethargy, headache
 
 Uncommon Syncope, stupor, myoclonus, psychomotor hyperactivity, ageusia,
 
 dyskinesia, dizziness postural, intention tremor, nystagmus, cognitive disorder, speech disorder, hyporeflexia, hypoaesthesia, amnesia, hyperaesthesia, burning sensation
 
 Rare Hypokinesia, parosmia, dysgraphia
-Frequency not known Loss of consciousness, mental impairment, convulsions, headache,
+Frequency not known Loss of consciousness, mental impairment, convulsions, malaise
 
-malaise
 Eye disorders
 
 Common Vision blurred, diplopia
@@ -150,9 +149,7 @@ increased, aspartate aminotransferase increased, platelet count decreased
 
 Rare Blood glucose increased, blood potassium decreased, white blood
 
-cell count decreased, blood creatinine increased, weight decreased
-
-After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
+cell count decreased, blood creatinine increased, weight decreased After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
 The following reactions have been mentioned: insomnia, headache, nausea, anxiety, diarrhoea, flu syndrome, convulsions, nervousness, depression, pain, hyperhidrosis and dizziness.
 The patient should be informed about this at the start of the treatment.
 
@@ -170,7 +167,9 @@ The following reactions have been mentioned: insomnia, headache, nausea, anxiety
 
 [LYRICA 100 mg hard capsules]
 
-(all sentences already above)
+cell count decreased, blood creatinine increased, weight decreased
+
+After discontinuation of short-term and long-term treatment with pregabalin withdrawal symptoms have been observed in some patients.
 
 [LYRICA 150 mg hard capsules]
 
