@@ -11,7 +11,6 @@ Caution should be exercised when administering Xolair in these patient populatio
 
 Abrupt discontinuation of systemic or inhaled corticosteroids after initiation of Xolair therapy is not recommended.
 Decreases in corticosteroids should be performed under the direct supervision of a physician and may need to be performed gradually.
-
 Immune system disorders
 
 - Allergic reactions type I
@@ -23,7 +22,7 @@ Patients should be informed that such reactions are possible and prompt medical 
 
 Anaphylactic reactions were rare in clinical trials (see section 4.8).
 
-Antibodies to omalizumab have been detected in a low number of patients in clinical trials.
+Antibodies to omalizumab have been detected in a low number of patients in clinical trials (see section 4.8).
 The clinical relevance of anti-Xolair antibodies is not well understood.
 
 - Serum sickness

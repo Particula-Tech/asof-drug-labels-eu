@@ -2,8 +2,8 @@
 
 Powder
 Sucrose
-Histidine
-Histidine hydrochloride monohydrate
+L-histidine
+L-histidine hydrochloride monohydrate
 Polysorbate 20
 
 Solvent
@@ -17,7 +17,6 @@ Water for injections
 
 L-arginine hydrochloride
 L-histidine hydrochloride
-L-histidine
 
 [Xolair 150 mg solution for injection]
 

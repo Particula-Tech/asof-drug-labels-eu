@@ -18,7 +18,7 @@ Table 4: Adverse reactions
 | Blood and lymphatic system disorders |  |
 | Not known | Idiopathic severe thrombocytopenia |
 | Immune system disorders |  |
-| Rare Not known | Anaphylactic reaction, other serious allergic conditions Serum sickness, may include fever and lymphadenopathy |
+| Rare Not known | Anaphylactic reaction, other serious allergic conditions, anti-therapeutic antibody development Serum sickness, may include fever and lymphadenopathy |
 | Nervous system disorders |  |
 | Common Uncommon | Headache* Syncope, paraesthesia, somnolence, dizziness |
 | Vascular disorders |  |
@@ -69,7 +69,7 @@ The course, severity, and response to treatment of infections were unaltered (se
 | Blood and lymphatic system disorders |  |
 | Not known | Idiopathic severe thrombocytopenia |
 | Immune system disorders |  |
-| Rare Not known | Anaphylactic reaction, other serious allergic conditions Serum sickness, may include fever and lymphadenopathy |
+| Rare Not known | Anaphylactic reaction, other serious allergic conditions, anti-therapeutic antibody development Serum sickness, may include fever and lymphadenopathy |
 | Nervous system disorders |  |
 | Common Uncommon | Headache* Syncope, paraesthesia, somnolence, dizziness |
 | Vascular disorders |  |

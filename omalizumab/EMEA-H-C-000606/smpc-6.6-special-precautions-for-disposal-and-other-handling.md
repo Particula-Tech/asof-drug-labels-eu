@@ -76,6 +76,7 @@ Holding onto the finger flange, slowly depress the plunger as far as it will go.
 If any solution leaks from the injection site, insert the needle further.
 Keeping the plunger fully depressed, carefully lift the needle straight out from the injection site.
 Slowly release the plunger and allow the needle guard to automatically cover the exposed needle.
+
 Disposal instructions
 Dispose of the used syringe immediately in a sharps container.
 

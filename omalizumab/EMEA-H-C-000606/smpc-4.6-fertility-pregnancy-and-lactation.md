@@ -14,4 +14,5 @@ Women should not breast-feed during Xolair therapy.
 
 Fertility
 There are no human fertility data for omalizumab.
-In non-clinical studies, no impairment of fertility and no genotoxicity have been observed (see section 5.3).
+In specifically-designed non-clinical fertility studies, including mating studies, no impairment of male or female fertility was observed following repeated dosing with omalizumab at dose levels up to 75 mg/kg.
+Furthermore, no genotoxic effects were observed in separate non-clinical genotoxicity studies (see section 5.3).
