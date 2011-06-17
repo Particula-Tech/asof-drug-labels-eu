@@ -29,8 +29,8 @@ At 500 mg twice daily, subjects lacking CYP2D6 activity (poor metabolisers, PM) 
 The corresponding difference at the 1000 mg twice-daily dose was 25%.
 
 Special populations
-The influence of various factors on the pharmacokinetics of ranolazine was assessed in a population pharmacokinetic evaluation in 928 angina patients and healthy subjects.
 
+The influence of various factors on the pharmacokinetics of ranolazine was assessed in a population pharmacokinetic evaluation in 928 angina patients and healthy subjects.
 Gender effects: Gender had no clinically relevant effect on pharmacokinetic parameters.
 
 Elderly patients: Age alone had no clinically relevant effect on pharmacokinetic parameters.

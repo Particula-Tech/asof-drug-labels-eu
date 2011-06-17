@@ -10,7 +10,7 @@ Metabolism and nutrition disorders
 Uncommon: anorexia, decreased appetite, dehydration.
 
 Psychiatric disorders
-Uncommon: anxiety, insomnia.
+Uncommon: anxiety, insomnia, confusional state, hallucination.
 Rare: disorientation.
 
 Nervous system disorders
