@@ -55,8 +55,8 @@ Table 6 Treatment Regimens in Study NO16966 (mCRC)
 | --- | --- | --- | --- |
 | FOLFOX-4 or FOLFOX-4 + Bevacizumab | Oxaliplatin Leucovorin 5-Fluorouracil | 85 mg/m2 IV 2 hr 200 mg/m2 IV 2 hr 400 mg/m2 IV bolus, followed by 600 mg/ m2 IV 22 hr | Oxaliplatin on Day 1, every 2 weeks Leucovorin on Days 1 and 2, every 2 weeks 5-fluorouracil IV bolus/infusion, each on Days 1 and 2, every 2 weeks |
 |  | Placebo or Bevacizumab | 5 mg/kg IV 30-90 mins | Day 1, prior to FOLFOX-4, every 2 weeks |
-| XELOX or XELOX+ Bevacizumab | Oxaliplatin Capecitabine | 130 mg/m2 IV 2 hr 1000 mg/m2 oral twice daily | Oxaliplatin on Day 1, every 3 weeks Capecitabine oral twice daily for 2 weeks (followed by 1 week off-treatment) |
-|  | Placebo or Bevacizumab | 7.5 mg/kg IV 30-90 mins | Day 1, prior to XELOX, every 3 weeks |
+| XELOX or XELOX+ | Oxaliplatin Capecitabine | 130 mg/m2 IV 2 hr 1000 mg/m2 oral twice daily | Oxaliplatin on Day 1, every 3 weeks Capecitabine oral twice daily for 2 weeks (followed by 1 week off-treatment) |
+| Bevacizumab | Placebo or Bevacizumab | 7.5 mg/kg IV 30-90 mins | Day 1, prior to XELOX, every 3 weeks |
 | 5-Fluorouracil: IV bolus injection immediately after leucovorin |  |  |  |
 
 Non-inferiority of the XELOX-containing arms compared with the FOLFOX-4-containing arms in the overall comparison was demonstrated in terms of progression-free survival in the eligible patient population and the intent-to-treat population (see Table 7).
@@ -183,7 +183,6 @@ Median survival was 442 days (Xeloda + docetaxel) vs. 352 days (docetaxel alone)
 The overall objective response rates in the all-randomised population (investigator assessment) were 41.6% (Xeloda + docetaxel) vs. 29.7% (docetaxel alone); p = 0.0058.
 Time to progressive disease was superior in the Xeloda + docetaxel combination arm (p<0.0001).
 The median time to progression was 186 days (Xeloda + docetaxel) vs. 128 days (docetaxel alone).
-
 Monotherapy with Xeloda after failure of taxanes, anthracycline containing chemotherapy, and for whom anthracycline therapy is not indicated
 Data from two multicentre phase II clinical trials support the use of Xeloda monotherapy for treatment of patients after failure of taxanes and an anthracycline-containing chemotherapy regimen or for whom further anthracycline therapy is not indicated.
 In these trials, a total of 236 patients were treated with Xeloda (1250 mg/m2 twice daily for 2 weeks followed by 1-week rest period).
@@ -198,6 +197,14 @@ A meta-analysis of 14 clinical trials with data from over 4700 patients treated 
 [Xeloda 500 mg film-coated tablets.]
 
 In the all-randomised population, Xeloda was shown to be superior to 5FU/LV for disease-free survival (hazard ratio 0.849; 95% CI 0.739 - 0.976;, p = 0.0212), as well as for overall survival (hazard ratio 0.828; 95% CI 0.705 - 0.971; p = 0.0203).
+
+|  | Treatment | Starting Dose | Schedule |
+| --- | --- | --- | --- |
+| FOLFOX-4 or FOLFOX-4 + Bevacizumab | Oxaliplatin Leucovorin 5-Fluorouracil | 85 mg/m2 IV 2 hr 200 mg/m2 IV 2 hr 400 mg/m2 IV bolus, followed by 600 mg/ m2 IV 22 hr | Oxaliplatin on Day 1, every 2 weeks Leucovorin on Days 1 and 2, every 2 weeks 5-fluorouracil IV bolus/infusion, each on Days 1 and 2, every 2 weeks |
+|  | Placebo or Bevacizumab | 5 mg/kg IV 30-90 mins | Day 1, prior to FOLFOX-4, every 2 weeks |
+| XELOX or XELOX+ Bevacizumab | Oxaliplatin Capecitabine | 130 mg/m2 IV 2 hr 1000 mg/m2 oral twice daily | Oxaliplatin on Day 1, every 3 weeks Capecitabine oral twice daily for 2 weeks (followed by 1 week off-treatment) |
+|  | Placebo or Bevacizumab | 7.5 mg/kg IV 30-90 mins | Day 1, prior to XELOX, every 3 weeks |
+| 5-Fluorouracil: IV bolus injection immediately after leucovorin |  |  |  |
 
 In this treatment subgroup comparison, XELOX plus bevacizumab was similar compared to FOLFOX-4 plus bevacizumab in terms of progression-free survival (hazard ratio 1.01; 97.5% CI 0.84 - 1.22]).
 

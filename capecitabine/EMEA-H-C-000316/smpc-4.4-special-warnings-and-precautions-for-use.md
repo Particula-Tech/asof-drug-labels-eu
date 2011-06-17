@@ -25,9 +25,9 @@ Following grade 3 hand-foot syndrome, subsequent doses of Xeloda should be decre
 When Xeloda and cisplatin are used in combination, the use of vitamin B6 (pyridoxine) is not advised for symptomatic or secondary prophylactic treatment of hand–foot syndrome, because of published reports that it may decrease the efficacy of cisplatin.
 
 Cardiotoxicity.
-Cardiotoxicity has been associated with fluoropyrimidine therapy, including myocardial infarction, angina, dysrhythmias, cardiogenic shock, sudden death and electrocardiographic changes.
+Cardiotoxicity has been associated with fluoropyrimidine therapy, including myocardial infarction, angina, dysrhythmias, cardiogenic shock, sudden death and electrocardiographic changes (including very rare cases of QT prolongation).
 These adverse reactions may be more common in patients with a prior history of coronary artery disease.
-Cardiac arrhythmias, angina pectoris, myocardial infarction, heart failure and cardiomyopathy have been reported in patients receiving Xeloda.
+Cardiac arrhythmias (including ventricular fibrillation, torsade de pointes, and bradycardia), angina pectoris, myocardial infarction, heart failure and cardiomyopathy have been reported in patients receiving Xeloda.
 Caution must be exercised in patients with history of significant cardiac disease, arrhythmias and angina pectoris (See section 4.8).
 
 Hypo- or hypercalcaemia.
@@ -50,9 +50,9 @@ In the absence of safety and efficacy data in patients with hepatic impairment, 
 Administration of Xeloda should be interrupted if treatment-related elevations in bilirubin of >3.0 x ULN or treatment-related elevations in hepatic aminotransferases (ALT, AST) of >2.5 x ULN occur.
 Treatment with Xeloda monotherapy may be resumed when bilirubin decreases to ≤3.0 x ULN or hepatic aminotransferases decrease to
 ≤ 2.5 x ULN.
-
 Renal impairment.
 The incidence of grade 3 or 4 adverse reactions in patients with moderate renal impairment (creatinine clearance 30-50 ml/min) is increased compared to the overall population (see section 4.2 and 4.3).
+
 As this medicinal product contains anhydrous lactose as an excipient, patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicine.
 
 [Xeloda 500 mg film-coated tablets.]
