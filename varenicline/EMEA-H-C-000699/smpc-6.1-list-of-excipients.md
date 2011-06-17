@@ -24,4 +24,5 @@ Indigo Carmine Aluminium Lake E132
 0.5mg and 1 mg Tablets
 
 0.5mg Tablet
+
 1mg Tablet

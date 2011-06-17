@@ -33,10 +33,12 @@ Uncommon Anorexia, decreased appetite, polydipsia
 Psychiatric disorders
 Very common Abnormal dreams, insomnia
 
-Uncommon Panic reaction, bradyphrenia, thinking abnormal, mood swings
-Not Known Suicidal ideation, depression, psychosis, hallucinations, anxiety,
+Uncommon Panic reaction, bradyphrenia, thinking abnormal, mood swings,
 
-aggressive and irrational behaviour
+depression*, anxiety*, hallucinations*
+
+Not Known Suicidal ideation, psychosis, aggressive and irrational behaviour
+
 Nervous system disorders
 Very common Headache
 
@@ -62,8 +64,9 @@ Respiratory, thoracic and mediastinal disorders
 
 Uncommon Dyspnoea, cough, hoarseness, pharyngolaryngeal pain, throat irritation,
 
+respiratory tract congestion, sinus congestion, post nasal drip,
 System Organ Adverse Drug Reactions
-Class respiratory tract congestion, sinus congestion, post nasal drip, rhinorrhoea, snoring
+Class rhinorrhoea, snoring
 Gastrointestinal disorders
 Very common Nausea
 
@@ -103,6 +106,7 @@ Investigations
 Uncommon Blood pressure increased, electrocardiogram ST segment depression,
 
 electrocardiogram T wave amplitude decreased, heart rate increased, liver function test abnormal, platelet count decreased, weight increased, semen abnormal, C-reactive protein increased, blood calcium decreased
+* frequencies are estimated from a post-marketing, observational cohort study
 
 [CHAMPIX 1 mg film-coated tablets]
 
@@ -110,4 +114,4 @@ respiratory tract congestion, sinus congestion, post nasal drip, rhinorrhoea, sn
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
-Class myopia, lacrimation increased
+(all sentences already above)

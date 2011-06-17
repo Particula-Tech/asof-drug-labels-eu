@@ -7,7 +7,7 @@ Varenicline binds with high affinity and selectivity at the α4β2 neuronal nico
 Electrophysiology studies in vitro and neurochemical studies in vivo have shown that varenicline binds to the α4β2 neuronal nicotinic acetylcholine receptors and stimulates receptor-mediated activity, but at a significantly lower level than nicotine.
 Nicotine competes for the same human α4β2 nAChR binding site for which varenicline has higher affinity.
 Therefore, varenicline can effectively block nicotine's ability to fully activate α4β2 receptors and the mesolimbic dopamine system, the neuronal mechanism underlying reinforcement and reward experienced upon smoking.
-Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1μM, except to 5-HT3 receptors: Ki=350 nM).
+Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1µM, except to 5-HT3 receptors: Ki=350 nM).
 
 Pharmacodynamic effects
 The efficacy of CHAMPIX in smoking cessation is a result of varenicline's partial agonist activity at the α4β2 nicotinic receptor where its binding produces an effect sufficient to alleviate symptoms of craving and withdrawal (agonist activity), while simultaneously resulting in a reduction of the rewarding and reinforcing effects of smoking by preventing nicotine binding to α4β2 receptors (antagonist activity).
@@ -40,7 +40,6 @@ Patient reported craving, withdrawal and reinforcing effects of smoking
 Across both Studies 1 and 2 during active treatment, craving and withdrawal were significantly reduced in patients randomized to CHAMPIX in comparison with placebo.
 CHAMPIX also significantly reduced reinforcing effects of smoking that can perpetuate smoking behaviour in patients who smoke during treatment compared with placebo.
 The effect of varenicline on craving, withdrawal and reinforcing effects of smoking were not measured during the non-treatment long-term follow-up phase.
-
 Maintenance of Abstinence Study
 The third study assessed the benefit of an additional 12 weeks of CHAMPIX therapy on the maintenance of abstinence.
 Patients in this study (n=1,927) received open-label CHAMPIX 1 mg twice daily for 12 weeks.
@@ -96,8 +95,15 @@ The results for the 4W CQR (weeks 9 through 12) and CA rate (weeks 9 through 52)
 
 The 4 week (week 9-12) CQR for varenicline and placebo was 53.9% and 19.4%, respectively (difference=34.5, 95% CI: 27.0% – 42.0%) and the CA week 9-24 was 35.2% (varenicline) vs 12.7% (placebo) (difference=22.5%, 95% CI: 15.8% - 29.1%).
 
+|  | 4W CQR | CA Wk 9-52 |
+| --- | --- | --- |
+| CHAMPIX, (n = 248) | 42.3% | 18.5% |
+| Placebo, (n = 251) | 8.8% | 5.6% |
+
+Odds ratio 8.40 4.04
+(CHAMPIX vs Placebo) p<0.0001 p<0.0001
+
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
 Pharmacotherapeutic group: OTHER NERVOUS SYSTEM DRUGS; Drugs used in nicotine , dependence ATC code: N07BA03
-
 Varenicline is highly selective and binds more potently to the α4β2 receptor subtype (Ki=0.15 nM) than to other common nicotinic receptors (α3β4 Ki=84 nM, α7 Ki= 620 nM, α1βγδ Ki= 3,400 nM), or to non-nicotinic receptors and transporters (Ki > 1�M, except to 5-HT3 receptors: Ki=350 nM).

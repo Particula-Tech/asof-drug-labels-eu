@@ -28,6 +28,7 @@ Renal elimination of varenicline is primarily through glomerular filtration alon
 Linearity/Non linearity: Varenicline exhibits linear kinetics when given as single (0.1 to 3 mg) or repeated 1 to 3 mg/day) doses.
 
 Pharmacokinetics in special patient populations: There are no clinically meaningful differences in varenicline pharmacokinetics due to age, race, gender, smoking status, or use of concomitant medicinal products, as demonstrated in specific pharmacokinetic studies and in population pharmacokinetic analyses.
+
 Patients with hepatic impairment: Due to the absence of significant hepatic metabolism, varenicline pharmacokinetics should be unaffected in patients with hepatic impairment.
 (see section 4.2).
 

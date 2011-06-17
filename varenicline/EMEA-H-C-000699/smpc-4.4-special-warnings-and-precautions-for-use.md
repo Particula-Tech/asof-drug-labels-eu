@@ -38,6 +38,7 @@ As these skin reactions can be life threatening, patients should discontinue tre
 [CHAMPIX 1 mg film-coated tablets]
 
 In many post-marketing cases, resolution of symptoms after discontinuation of varenicline was reported, although in some cases the symptoms persisted; therefore, ongoing follow up should be provided until symptoms resolve.
+
 In addition, smoking cessation, with or without pharmacotherapy, has been associated with the exacerbation of underlying psychiatric illness (e.g. depression).
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
