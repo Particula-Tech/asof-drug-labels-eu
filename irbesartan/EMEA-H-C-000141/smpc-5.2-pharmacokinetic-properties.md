@@ -22,6 +22,7 @@ No dosage adjustment is necessary in female patients.
 Irbesartan AUC and Cmax values were also somewhat greater in elderly subjects (≥ 65 years) than those of young subjects (18-40 years).
 However the terminal half-life was not significantly altered.
 No dosage adjustment is necessary in elderly patients.
+
 Irbesartan and its metabolites are eliminated by both biliary and renal pathways.
 After either oral or IV administration of 14C irbesartan, about 20% of the radioactivity is recovered in the urine, and the remainder in the faeces.
 Less than 2% of the dose is excreted in the urine as unchanged irbesartan.

@@ -18,3 +18,10 @@ Infants whose mothers have taken AIIRAs should be closely observed for hypotensi
 Breast-feeding:
 
 Because no information is available regarding the use of Aprovel during breast-feeding, Aprovel is not recommended and alternative treatments with better established safety profiles during breast-feeding are preferable, especially while nursing a newborn or preterm infant.
+
+It is unknown whether irbesartan or its metabolites are excreted in human milk.
+Available pharmacodynamic/toxicological data in rats have shown excretion of irbesartan or its metabolites in milk (for details see 5.3).
+
+Fertility
+
+Irbesartan had no effect upon fertility of treated rats and their offspring up to the dose levels inducing the first signs of parental toxicity (see section 5.3).

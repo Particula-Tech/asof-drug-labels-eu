@@ -8,6 +8,7 @@ In diabetic hypertensive patients with microalbuminuria and normal renal functio
 
 The following table presents the adverse drug reactions that were reported in placebo-controlled trials in which 1,965 hypertensive patients received irbesartan.
 Terms marked with a star (*) refer to the adverse reactions that were additionally reported in > 2% of diabetic hypertensive patients with chronic renal insufficiency and overt proteinuria and in excess of placebo.
+
 The frequency of adverse reactions listed below is defined using the following convention:
 very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare
 (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000).
@@ -43,7 +44,6 @@ Gastrointestinal disorders:
 Common: nausea/vomiting
 Uncommon: diarrhoea, dyspepsia/heartburn
 Not known: dysgeusia
-
 Hepatobiliary disorders:
 Uncommon: jaundice
 Not known: hepatitis, abnormal liver function
@@ -60,6 +60,7 @@ Not known: impaired renal function including cases of renal failure in patients 
 
 Reproductive system and breast disorders:
 Uncommon: sexual dysfunction
+
 General disorders and administration site conditions:
 Common: fatigue
 Uncommon: chest pain

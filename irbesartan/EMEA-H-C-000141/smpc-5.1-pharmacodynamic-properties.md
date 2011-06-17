@@ -37,7 +37,6 @@ At the end of the three weeks the mean reduction from baseline in the primary ef
 No significant difference was apparent between these doses.
 Adjusted mean change of trough seated diastolic blood pressure (SeDBP) was as follows: 3.8 mmHg (low dose), 3.2 mmHg (medium dose), 5.6 mmHg (high dose).
 Over a subsequent two week period where patients were re-randomized to either active medicinal product or placebo, patients on placebo had increases of 2.4 and 2.0 mmHg in SeSBP and SeDBP compared to +0.1 and -0.3 mmHg changes respectively in those on all doses of irbesartan (see section 4.2).
-
 Hypertension and type 2 diabetes with renal disease
 The “Irbesartan Diabetic Nephropathy Trial (IDNT)” shows that irbesartan decreases the progression of renal disease in patients with chronic renal insufficiency and overt proteinuria.
 IDNT was a double blind, controlled, morbidity and mortality trial comparing Aprovel, amlodipine and placebo.
@@ -49,6 +48,7 @@ Irbesartan significantly reduced the relative risk in the primary combined endpo
 Approximately 33% of patients in the irbesartan group reached the primary renal composite endpoint compared to 39% and 41% in the placebo and amlodipine groups [20% relative risk reduction versus placebo (p = 0.024) and 23% relative risk reduction compared to amlodipine
 (p = 0.006)].
 When the individual components of the primary endpoint were analysed, no effect in all cause mortality was observed, while a positive trend in the reduction in ESRD and a significant reduction in doubling of serum creatinine were observed.
+
 Subgroups consisting of gender, race, age, duration of diabetes, baseline blood pressure, serum creatinine, and albumin excretion rate were assessed for treatment effect.
 In the female and black subgroups which represented 32% and 26% of the overall study population respectively, a renal benefit was not evident, although the confidence intervals do not exclude it.
 As for the secondary endpoint of fatal and non-fatal cardiovascular events, there was no difference among the three groups in the overall population, although an increased incidence of non-fatal MI was seen for women and a decreased incidence of non-fatal MI was seen in males in the irbesartan group versus the placebo-based regimen.
