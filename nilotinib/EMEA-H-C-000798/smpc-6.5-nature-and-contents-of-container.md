@@ -13,5 +13,5 @@ Not all pack sizes may be marketed.
 
 PVC/PVDC/Al and PA/Al/PVC/Al blisters.
 
-- The weekly pack contains 28 capsules.
-- The monthly pack contains 112 capsules (4 individual weekly wallets, each containing 28 capsules).
+- The weekly pack contains 28 capsules in a wallet or in 7 daily blisters, each containing 4 capsules.
+- The monthly pack contains 112 capsules (4 individual weekly wallets or cartons, each containing 28 capsules).
