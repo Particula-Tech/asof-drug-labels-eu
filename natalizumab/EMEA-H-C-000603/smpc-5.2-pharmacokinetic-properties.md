@@ -16,6 +16,6 @@ The presence of persistent anti-natalizumab antibodies increased natalizumab cle
 The pharmacokinetics of natalizumab in paediatric MS patients or in patients with renal or hepatic insufficiency has not been studied.
 
 The effect of plasma exchange on natalizumab clearance and pharmacodynamics was evaluated in a study of 12 MS patients.
-Estimates of the total drug removal after 3 plasma exchanges (over a 5-8 day interval) was approximately 70-80%.
-This compares to approximately 40% seen in earlier studies in which measurements occurred after drug discontinuation over a similar period of observation.
+Estimates of the total natalizumab removal after 3 plasma exchanges (over a 5-8 day interval) was approximately 70-80%.
+This compares to approximately 40% seen in earlier studies in which measurements occurred after natalizumab discontinuation over a similar period of observation.
 The impact of plasma exchange on the restitution of lymphocyte migration and ultimately its clinical usefulness is unknown.

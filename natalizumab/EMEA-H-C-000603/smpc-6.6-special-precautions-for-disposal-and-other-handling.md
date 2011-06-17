@@ -21,12 +21,12 @@ Do not shake.
 4.
 TYSABRI must not be mixed with other medicinal products or diluents.
 
-5 Visually inspect the diluted product for particles or discolouration prior to administration.
+5 Visually inspect the diluted medicinal product for particles or discolouration prior to administration.
 Do not use if it is discoloured or if foreign particles are seen.
 
 6.
-The diluted product is to be used as soon as possible and within 8 hours of dilution.
-If the diluted product is stored at 2˚C - 8˚C (do not freeze), allow the solution to warm to room temperature prior to infusion.
+The diluted medicinal product is to be used as soon as possible and within 8 hours of dilution.
+If the diluted medicinal product is stored at 2˚C - 8˚C (do not freeze), allow the solution to warm to room temperature prior to infusion.
 
 7.
 The diluted solution is to be infused intravenously over 1 hour at a rate of approximately 2 ml/minute.
@@ -38,4 +38,4 @@ After the infusion is complete, flush the intravenous line with sodium chloride 
 Each vial is for single–use only.
 
 10.
-Any unused product or waste material must be disposed of in accordance with local requirements.
+Any unused medicinal product or waste material must be disposed of in accordance with local requirements.

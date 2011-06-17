@@ -20,7 +20,8 @@ Patients who have all three risk factors for PML (i.e., have received more than 
 Patients should be informed about this increased risk for developing PML before continuation of treatment after 2 years.
 
 For risk stratification prior or during the treatment with TYSABRI anti-JCV antibody testing may provide supportive information.
-Before initiation of treatment with TYSABRI, a recent (usually within 3 months) Magnetic Resonance Image (MRI should be available as a reference, and be repeated on a yearly routine basis to update this reference.
+
+Before initiation of treatment with TYSABRI, a recent (usually within 3 months) MRI should be available as a reference, and be repeated on a yearly routine basis to update this reference.
 Patients must be monitored at regular intervals throughout.
 After 2 years the patient should be re-informed about the risk of PML with TYSABRI.
 
@@ -51,10 +52,10 @@ Prescribers should be aware of the possibility that other opportunistic infectio
 If an opportunistic infection is suspected, dosing with TYSABRI is to be suspended until such infections can be excluded through further evaluations.
 
 If a patient receiving TYSABRI develops an opportunistic infection, dosing of TYSABRI must be permanently discontinued.
-
 Educational guidance
 
 All physicians who intend to prescribe TYSABRI must ensure they are familiar with the Physician Information and Management Guidelines.
+
 Physicians must discuss the benefits and risks of TYSABRI therapy with the patient and provide them with a Patient Alert Card.
 Patients should be instructed that if they develop any infection then they should inform their physician that they are being treated with TYSABRI.
 
@@ -92,6 +93,7 @@ Disease exacerbations or infusion related events may indicate the development of
 In these cases the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after 6 weeks, treatment should be discontinued, as persistent antibodies are associated with a substantial decrease in efficacy of TYSABRI and an increased incidence of hypersensitivity reactions (see section 4.8).
 
 Since patients who have received an initial short exposure to TYSABRI and then had an extended period without treatment are more at risk for hypersensitivity upon redosing, the presence of antibodies should be evaluated and if these remain positive in a confirmatory test after 6 weeks treatment should not be resumed.
+
 Hepatic Events
 
 Spontaneous serious adverse reactions of liver injury have been reported during the post marketing phase.
@@ -105,8 +107,14 @@ Stopping TYSABRI therapy
 
 If a decision is made to stop treatment with natalizumab, the physician needs to be aware that natalizumab remains in the blood, and has pharmacodynamic effects (e.g increased lymphocyte counts) for approximately 12 weeks following the last dose.
 Starting other therapies during this interval will result in a concomitant exposure to natalizumab.
-For drugs such as interferon and glatiramer acetate, concomitant exposure of this duration was not associated with safety risks in clinical trials.
+For medicinal products such as interferon and glatiramer acetate, concomitant exposure of this duration was not associated with safety risks in clinical trials.
 No data are available in MS patients regarding concomitant exposure with immunosuppressant medication.
-Use of these medicines soon after the discontinuation of natalizumab may lead to an additive immunosuppressive effect.
+Use of these medicinal products soon after the discontinuation of natalizumab may lead to an additive immunosuppressive effect.
 This should be carefully considered on a case-by-case basis, and a wash-out period of natalizumab might be appropriate.
 Short courses of steroids used to treat relapses were not associated with increased infections in clinical trials.
+
+Sodium content in TYSABRI
+
+TYSABRI contains 2.3 mmol (or 52 mg) sodium per vial of medicinal product.
+When diluted in 100 ml sodium chloride 9 mg/ml (0.9%) this medicinal product contains 17.7 mmol (or 406 mg) sodium per dose.
+To be taken into consideration by patients on a controlled sodium diet.

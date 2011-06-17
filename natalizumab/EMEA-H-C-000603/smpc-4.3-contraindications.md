@@ -10,4 +10,4 @@ Combination with beta-interferons or glatiramer acetate.
 
 Known active malignancies, except for patients with cutaneous basal cell carcinoma.
 
-Children below the age of 18 years.
+Children and adolescents below the age of 18 years.
