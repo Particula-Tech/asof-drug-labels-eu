@@ -6,5 +6,4 @@ However, the results are uncertain due to limitations in the methods used for se
 Corticosteroids do not appear to affect the pharmacokinetics of infliximab to a clinically relevant extent.
 
 The combination of Remicade and anakinra or abatacept is not recommended (see section 4.4).
-
 It is recommended that live vaccines not be given concurrently with Remicade (see section 4.4).

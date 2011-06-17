@@ -77,12 +77,18 @@ Uncommon: Impaired healing, injection site reaction, chills, oedema, pain.
 Rare: Granulomatous lesion.
 Investigations
 Uncommon: Autoantibody positive, complement factor abnormal.
+Infusion-related reactions: An infusion-related reaction was defined in clinical studies as any adverse event occurring during an infusion or within 1 hour after an infusion.
+In phase 3 clinical studies, 18% of infliximab-treated patients compared with 5% of placebo-treated patients experienced an infusion-related reaction.
+Overall, a higher proportion of patients receiving infliximab monotherapy experienced an infusion-related reaction compared to patients receiving infliximab with concomitant immunomodulators.
+Approximately 3% of patients discontinued treatment due to infusion-related reactions and all patients recovered with or without medical therapy.
+Of infliximab-treated patients who had an infusion reaction during the induction period, through week 6, 27% experienced an infusion reaction during the maintenance period, week 7 through week 54.
+Of patients who did not have an infusion reaction during the induction period, 9% experienced an infusion reaction during the maintenance period.
 
-Infusion-related reactions: An infusion-related reaction was defined in clinical studies as any adverse event occurring during an infusion or within 1 to 2 hours after an infusion.
-In clinical studies, approximately 20% of infliximab-treated patients compared with approximately 10% of placebo-treated patients experienced an infusion-related effect.
-Approximately 3% of patients discontinued treatment due to infusions reactions and all patients recovered with or without medical therapy.
-In a clinical study of patients with rheumatoid arthritis (ASPIRE), sixty six percent of the patients (686 out of 1,040) received at least one shortened infusion of 90 minutes or less and 44% of the patients (454 out of 1,040) received at least one shortened infusion of 60 minutes or less.
+In a clinical study of patients with rheumatoid arthritis (ASPIRE), infusions were to be administered over 2 hours for the first 3 infusions.
+The duration of subsequent infusions could be shortened to not less than 40 minutes in patients who did not experience serious infusion reactions.
+In this trial, sixty six percent of the patients (686 out of 1,040) received at least one shortened infusion of 90 minutes or less and 44% of the patients (454 out of 1,040) received at least one shortened infusion of 60 minutes or less.
 Of the infliximab-treated patients who received at least one shortened infusion, infusion-related reactions occurred in 15% of patients and serious infusion reactions occurred in 0.4% of patients.
+
 In a clinical study of patients with Crohn’s disease (SONIC), infusion-related reactions occurred in 16.6% (27/163) of patients receiving infliximab monotherapy, 5% (9/179) of patients receiving infliximab in combination with AZA, and 5.6% (9/161) of patients receiving AZA monotherapy.
 One serious infusion reaction (<1%) occurred in a patient on infliximab monotherapy.
 
@@ -104,7 +110,6 @@ Signs and symptoms included myalgia and/or arthralgia with fever and/or rash, wi
 There are insufficient data on the incidence of delayed hypersensitivity reactions after Remicade-free intervals of more than 1 year but limited data from clinical studies suggest an increased risk for delayed hypersensitivity with increasing Remicade-free interval.
 
 In a 1-year clinical study with repeated infusions in patients with Crohn's disease (ACCENT I study), the incidence of serum sickness-like reactions was 2.4%.
-
 Immunogenicity: Patients who developed antibodies to infliximab were more likely (approximately 2-3 fold) to develop infusion-related reactions.
 Use of concomitant immunosuppressant agents appeared to reduce the frequency of infusion-related reactions.
 In clinical studies using single and multiple infliximab doses ranging from 1 to 20 mg/kg, antibodies to infliximab were detected in 14% of patients with any immunosuppressant therapy, and in 24% of patients without immunosuppressant therapy.
@@ -118,6 +123,7 @@ In psoriasis patients treated with infliximab as a maintenance regimen in the ab
 
 Infections: Tuberculosis, bacterial infections, including sepsis and pneumonia, invasive fungal, viral, and other opportunistic infections have been observed in patients receiving Remicade.
 Some of these infections have been fatal; the most frequently reported opportunistic infections with a mortality rate of > 5% include pneumocystosis, candidiasis, listeriosis and aspergillosis (see section 4.4).
+
 In clinical studies 36% of infliximab-treated patients were treated for infections compared with 25% of placebo-treated patients.
 
 In rheumatoid arthritis clinical studies, the incidence of serious infections including pneumonia was higher in infliximab plus methotrexate treated patients compared with methotrexate alone especially at doses of 6 mg/kg or greater (see section 4.4).
@@ -213,7 +219,6 @@ Other special considerations are discussed below.
 Infusion-related reactions
 Overall, in REACH, 17.5% of randomized patients experienced 1 or more infusion reactions.
 There were no serious infusion reactions, and 2 subjects in REACH had non-serious anaphylactic reactions.
-
 Immunogenicity
 Antibodies to infliximab were detected in 3 (2.9%) paediatric patients.
 
