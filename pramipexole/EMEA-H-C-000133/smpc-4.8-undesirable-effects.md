@@ -1,7 +1,7 @@
 # 4.8 Undesirable effects
 
 Expected adverse reactions
-The following adverse reactions are expected under the use of SIFROL: abnormal dreams, amnesia, behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality and pathological gambling; confusion, constipation, delusion, dizziness, dyskinesia, dyspnoea, fatigue, hallucinations, headache, hiccups, hyperkinesia, hyperphagia, hypotension, insomnia, libido disorders, nausea, paranoia, peripheral oedema, pneumonia, pruritus, rash and other hypersensitivity; restlessness, somnolence, sudden onset of sleep, syncope, visual impairment including diplopia, vision blurred and visual acuity reduced, vomiting, weight decrease including decreased appetite, weight increase.
+The following adverse reactions are expected under the use of SIFROL: abnormal dreams, amnesia, behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality and pathological gambling; cardiac failure, confusion, constipation, delusion, dizziness, dyskinesia, dyspnoea, fatigue, hallucinations, headache, hiccups, hyperkinesia, hyperphagia, hypotension, insomnia, libido disorders, nausea, paranoia, peripheral oedema, pneumonia, pruritus, rash and other hypersensitivity; restlessness, somnolence, sudden onset of sleep, syncope, visual impairment including diplopia, vision blurred and visual acuity reduced, vomiting, weight decrease including decreased appetite, weight increase.
 
 Based on the analysis of pooled placebo-controlled trials, comprising a total of 1,923 patients on pramipexole and 1,354 patients on placebo, adverse drug reactions were frequently reported for both groups.
 63% of patients on pramipexole and 52% of patients on placebo reported at least one adverse drug reaction.
@@ -10,7 +10,7 @@ Tables 1 and 2 display the frequency of adverse drug reactions from placebo-cont
 The adverse drug reactions reported in these tables are those events that occurred in 0.1% or more of patients treated with pramipexole and were reported significantly more often in patients taking pramipexole than placebo, or where the event was considered clinically relevant.
 The majority of adverse drug reactions were mild to moderate, they usually start early in therapy and most tended to disappear even as therapy was continued.
 
-Within the system organ classes, adverse reactions are listed under headings of frequency (number of patients expected to experience the reaction), using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
+Within the system organ classes, adverse reactions are listed under headings of frequency (number of patients expected to experience the reaction), using the following categories: very common (≥ 1/10); common (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000).
 
 Parkinson’s disease, most common adverse reactions
 The most commonly (≥ 5%) reported adverse drug reactions in patients with Parkinson’s disease more frequent with pramipexole treatment than with placebo were nausea, dyskinesia, hypotension, dizziness, somnolence, insomnia, constipation, hallucination, headache and fatigue.
@@ -25,13 +25,15 @@ Table 1: Parkinson’s disease
 | Uncommon | pneumonia |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions, confusion, hallucinations, insomnia |
-| Uncommon | binge eating, compulsive shopping, delusion, hyperphagia, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
+| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
 | Nervous system disorders |  |
 | Very common | dizziness, dyskinesia, somnolence |
 | Common | headache |
 | Uncommon | amnesia, hyperkinesia, sudden onset of sleep, syncope |
 | Eye disorders |  |
 | Common | visual impairment including diplopia, vision blurred and visual acuity reduced |
+| Cardiac disorders |  |
+| Uncommon | cardiac failure1 |
 | Vascular disorders |  |
 | Common | hypotension |
 | Respiratory, thoracic, and mediastinal disorders |  |
@@ -47,6 +49,10 @@ Table 1: Parkinson’s disease
 | Common | weight decrease including decreased appetite |
 | Uncommon | weight increase |
 
+1 This side effect has been observed in post-marketing experience.
+With 95 % certainty, the frequency category is not greater than uncommon, but might be lower.
+A precise frequency estimation is not possible as the side effect did not occur in a clinical trial database of 2,762 patients with Parkinson’s Disease treated with pramipexole.
+
 Restless Legs Syndrome, most common adverse reactions
 The most commonly (≥ 5%) reported adverse drug reactions in patients with Restless Legs Syndrome treated with pramipexole were nausea, headache, dizziness and fatigue.
 Nausea and fatigue were more often reported in female patients treated with SIFROL (20.8% and 10.5%, respectively) compared to males (6.7% and 7.3%, respectively).
@@ -55,15 +61,17 @@ Table 2: Restless Legs Syndrome
 | System Organ Class | Adverse Drug Reaction |
 | --- | --- |
 | Infections and infestations |  |
-| Uncommon | pneumonia |
+| Uncommon | pneumonia1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, insomnia |
-| Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling; confusion, delusion, hallucinations, hyperphagia, libido disorder, paranoia, restlessness |
+| Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling1; confusion, delusion1, hallucinations, hyperphagia1, libido disorder, paranoia1, restlessness |
 | Nervous system disorders |  |
 | Common | dizziness, headache, somnolence |
-| Uncommon | amnesia, dyskinesia, hyperkinesia, sudden onset of sleep, syncope |
+| Uncommon | amnesia1, dyskinesia, hyperkinesia1, sudden onset of sleep, syncope |
 | Eye disorders |  |
 | Uncommon | visual impairment including diplopia, vision blurred and visual acuity reduced |
+| Cardiac disorders |  |
+| Uncommon | cardiac failure1 |
 | Vascular disorders |  |
 | Uncommon | hypotension |
 | Respiratory, thoracic, and mediastinal disorders |  |
@@ -79,6 +87,10 @@ Table 2: Restless Legs Syndrome
 | Investigations |  |
 | Uncommon | weight decrease including decreased appetite, weight increase |
 
+1 This side effect has been observed in post-marketing experience.
+With 95 % certainty, the frequency category is not greater than uncommon, but might be lower.
+A precise frequency estimation is not possible as the side effect did not occur in a clinical trial database of 1,395 patients with Restless Legs Syndrome treated with pramipexole.
+
 Somnolence
 Pramipexole is commonly associated with somnolence and has been associated uncommonly with excessive daytime somnolence and sudden sleep onset episodes (see also section 4.4).
 
@@ -92,6 +104,10 @@ In a cross-sectional, retrospective screening and case-control study including 3
 Manifestations observed include pathological gambling, compulsive shopping, binge eating, and compulsive sexual behaviour (hypersexuality).
 Possible independent risk factors for impulse control disorders included dopaminergic treatments and higher doses of dopaminergic treatment, younger age ( ≤ 65 years), not being married and self-reported family history of gambling behaviours.
 
+Cardiac failure
+In clinical studies and post-marketing experience cardiac failure has been reported in patients with pramipexole.
+In a pharmacoepidemiological study pramipexole use was associated with an increased risk of cardiac failure compared with non-use of pramipexole (observed risk ratio 1.86; 95% CI, 1.21-2.85).
+
 [SIFROL 0.18 mg tablets]
 
 | System Organ Class | Adverse Drug Reaction |
@@ -100,13 +116,15 @@ Possible independent risk factors for impulse control disorders included dopamin
 | Uncommon | pneumonia |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions, confusion, hallucinations, insomnia |
-| Uncommon | binge eating, compulsive shopping, delusion, hyperphagia, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
+| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
 | Nervous system disorders |  |
 | Very common | dizziness, dyskinesia, somnolence |
 | Common | headache |
 | Uncommon | amnesia, hyperkinesia, sudden onset of sleep, syncope |
 | Eye disorders |  |
 | Common | visual impairment including diplopia,vision blurred and visual acuity reduced |
+| Cardiac disorders |  |
+| Uncommon | cardiac failure1 |
 | Vascular disorders |  |
 | Common | hypotension |
 | Respiratory, thoracic, and mediastinal disorders |  |
@@ -125,15 +143,17 @@ Possible independent risk factors for impulse control disorders included dopamin
 | System Organ Class | Adverse Drug Reaction |
 | --- | --- |
 | Infections and infestations |  |
-| Uncommon | pneumonia |
+| Uncommon | pneumonia1 |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, insomnia |
-| Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling; confusion, delusion, hallucinations, hyperphagia, libido disorder, paranoia, restlessness |
+| Uncommon | behavioural symptoms of impulse control disorders and compulsions such as binge eating, compulsive shopping, hypersexuality, and pathological gambling1; confusion, delusion1, hallucinations, hyperphagia1, libido disorder, paranoia1, restlessness |
 | Nervous system disorders |  |
 | Common | dizziness, headache, somnolence |
-| Uncommon | amnesia, dyskinesia, hyperkinesia, sudden onset of sleep, syncope |
+| Uncommon | amnesia1, dyskinesia, hyperkinesia1, sudden onset of sleep, syncope |
 | Eye disorders |  |
 | Uncommon | visual impairment including diplopia,vision blurred and visual acuity reduced |
+| Cardiac disorders |  |
+| Uncommon | cardiac failure1 |
 | Vascular disorders |  |
 | Uncommon | hypotension |
 | Respiratory, thoracic, and mediastinal disorders |  |
@@ -174,13 +194,15 @@ The adverse drug reactions reported in the table below are those events that occ
 | Uncommon | pneumonia |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions; confusion, hallucinations, insomnia |
-| Uncommon | binge eating, compulsive shopping, delusion, hyperphagia, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
+| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
 | Nervous system disorders |  |
 | Very common | dizziness, dyskinesia, somnolence |
 | Common | headache |
 | Uncommon | amnesia, hyperkinesia, sudden onset of sleep, syncope |
 | Eye disorders |  |
 | Common | visual impairment including diplopia, vision blurred and visual acuity reduced |
+| Cardiac disorders |  |
+| Uncommon | cardiac failure1 |
 | Vascular disorders |  |
 | Common | hypotension |
 | Respiratory, thoracic, and mediastinal disorders |  |
@@ -215,13 +237,15 @@ See also section 4.4.
 | Uncommon | pneumonia |
 | Psychiatric disorders |  |
 | Common | abnormal dreams, behavioural symptoms of impulse control disorders and compulsions; confusion, hallucinations, insomnia |
-| Uncommon | binge eating, compulsive shopping, delusion, hyperphagia, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
+| Uncommon | binge eating1, compulsive shopping, delusion, hyperphagia1, hypersexuality, libido disorder, paranoia, pathological gambling, restlessness |
 | Nervous system disorders |  |
 | Very common | dizziness, dyskinesia, somnolence |
 | Common | headache |
 | Uncommon | amnesia, hyperkinesia, sudden onset of sleep, syncope |
 | Eye disorders |  |
 | Common | visual impairment including diplopia,vision blurred and visual acuity reduced |
+| Cardiac disorders |  |
+| Uncommon | cardiac failure1 |
 | Vascular disorders |  |
 | Common | hypotension |
 | Respiratory, thoracic, and mediastinal disorders |  |

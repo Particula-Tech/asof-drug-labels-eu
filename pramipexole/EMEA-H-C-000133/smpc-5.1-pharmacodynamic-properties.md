@@ -30,6 +30,7 @@ However, there was no significant difference during the maintenance phase.
 These points should be considered when initiating pramipexole treatment in patients with Parkinson’s disease.
 
 The European Medicines Agency has waived the obligation to submit the results of studies with SIFROL in all subsets of the paediatric population in Parkinson’s Disease (see section 4.2 for information on paediatric use).
+
 Clinical trials in Restless Legs Syndrome
 
 The efficacy of pramipexole was evaluated in four placebo-controlled clinical trials in approximately 1,000 patients with moderate to very severe idiopathic Restless Legs Syndrome.

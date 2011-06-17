@@ -46,7 +46,6 @@ Intake of a high fat meal induced an increase in peak concentration (Cmax) of ab
 Total exposure (AUC) was not affected by concomitant food intake.
 The increase in Cmax is not considered clinically relevant.
 In the Phase III studies that established safety and efficacy of SIFROL prolonged-release tablets, patients were instructed to take study medication without regard to food intake.
-
 While body weight has no impact on the AUC, it was found to influence the volume of distribution and therefore the peak concentrations Cmax.
 A decreased body weight by 30 kg results in an increase in Cmax of 45%.
 However, in Phase III trials in Parkinson’s disease patients no clinically meaningful influence of body weight on the therapeutic effect and tolerability of SIFROL prolonged-release tablets was detected.
