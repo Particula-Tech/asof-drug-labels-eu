@@ -2,7 +2,7 @@
 
 Pregnancy
 Reproduction studies have been conducted in cynomolgus monkeys at doses up to 25 times that of the weekly human maintenance dose of 2 mg/kg Herceptin and have revealed no evidence of impaired fertility or harm to the foetus.
-Placental transfer of trastuzumab during the early ( days 20–50 of gestation) and late (days 120–150 of gestation) foetal development period was observed.
+Placental transfer of trastuzumab during the early (days 20–50 of gestation) and late (days 120–150 of gestation) foetal development period was observed.
 It is not known whether Herceptin can affect reproductive capacity.
 As animal reproduction studies are not always predictive of human response, Herceptin should be avoided during pregnancy unless the potential benefit for the mother outweighs the potential risk to the foetus.
 

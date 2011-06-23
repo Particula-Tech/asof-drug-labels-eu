@@ -4,7 +4,7 @@ Pharmacotherapeutic group: Antineoplastic agents, monoclonal antibodies, ATC cod
 
 Trastuzumab is a recombinant humanised IgG1 monoclonal antibody against the human epidermal growth factor receptor 2 (HER2).
 Overexpression of HER2 is observed in 20 %-30 % of primary breast cancers.
-Studies of HER2-positivity rates in gastric cancer (GC) using immunohistochemistry (IHC) and fluorescence in situ hybridization (FISH) or chromogenic in situ hybridization (CISH) have shown that there is a broad variation of HER2-positivity ranging from 6.8 % to 34.0% for IHC and 7.1 % to 42.6 % for FISH.
+Studies of HER2-positivity rates in gastric cancer (GC) using immunohistochemistry (IHC) and fluorescence in situ hybridization (FISH) or chromogenic in situ hybridization (CISH) have shown that there is a broad variation of HER2-positivity ranging from 6.8 % to 34.0 % for IHC and 7.1 % to 42.6 % for FISH.
 Studies indicate that breast cancer patients whose tumours overexpress HER2 have a shortened disease-free survival compared to patients whose tumours do not overexpress HER2.
 The extracellular domain of the receptor (ECD, p105) can be shed into the blood stream and measured in serum samples.
 
@@ -110,7 +110,7 @@ Study H0649g: IHC3+ patient subset
 2.
 Study H0648g: IHC3+ patient subset
 3.
-Study M77001: Full analysis set (intent-to-treat) , 24 months results
+Study M77001: Full analysis set (intent-to-treat), 24 months results
 
 Combination treatment with Herceptin and anastrozole
 Herceptin has been studied in combination with anastrozole for first line treatment of metastatic breast cancer in HER2 overexpressing, hormone-receptor (i.e. estrogen-receptor (ER) and/or progesterone-receptor (PR)) positive postmenopausal patients.
@@ -119,13 +119,12 @@ For the other parameters the improvements seen for the combination were for over
 For time to response and duration of response no difference could be recorded between the arms.
 The median overall survival was extended by 4.6 months for patients in the combination arm.
 The difference was not statistically significant, however more than half of the patients in the anastrozole alone arm crossed over to a Herceptin containing regimen after progression of disease.
-
 Three -weekly dosing in MBC
 The efficacy results from the non-comparative monotherapy and combination therapy studies are summarised in the following table:
 
 | Parameter | Monotherapy |  | Combination Therapy |  |
 | --- | --- | --- | --- | --- |
-|  | Herceptin1 N=105 | Herceptin2 N=72 | Herceptin plus paclitaxel3 N=32 | Herceptin plus Docetaxel4 N=110 |
+|  | Herceptin1 N=105 | Herceptin2 N=72 | Herceptin plus paclitaxel3 N=32 | Herceptin plus docetaxel4 N=110 |
 | Response rate (95 %CI) | 24 % (15 - 35) | 27 % (14 - 43) | 59 % (41-76) | 73 % (63-81) |
 | Median duration of response (months) (range) | 10.1 (2.8-35.6) | 7.9 (2.1-18.8) | 10.5 (1.8-21) | 13.4 (2.1-55.1) |
 | Median TTP (months) (95 %CI) | 3.4 (2.8-4.1) | 7.7 (4.2-8.3) | 12.2 (6.2-ne) | 13.6 (11-16) |
@@ -146,21 +145,21 @@ More patients treated with Herceptin and paclitaxel progressed in the central ne
 EBC
 
 Early breast cancer is defined as non-metastatic primary invasive carcinoma of the breast.
-In the adjuvant setting, Herceptin was investigated in 4 large multicentre, randomised, trials:
+In the adjuvant setting, Herceptin was investigated in 4 large multicentre, randomised, trials.
 
-- The HERA study was designed to compare one year of three-weekly Herceptin treatment versus
+- The HERA study was designed to compare one year of three-weekly Herceptin treatment
 
-observation in patients with HER2 positive early breast cancer following surgery, established chemotherapy and radiotherapy (if applicable).
+versus observation in patients with HER2 positive early breast cancer following surgery, established chemotherapy and radiotherapy (if applicable).
 Patients assigned to receive Herceptin were given an initial loading dose of 8 mg/kg, followed by 6 mg/kg every three weeks for one year.
 
-- The NCCTG N9831 and NSABP B31 studies that comprise the joint analysis were designed to investigate the clinical utility of combining Herceptin treatment with paclitaxel following AC chemotherapy, additionally the NCCTG N9831 study also investigated adding Herceptin sequentially to AC→P chemotherapy in patients with HER2 positive early breast cancer following surgery.
+- The NCCTG N9831 and NSABP B-31 studies that comprise the joint analysis were designed to investigate the clinical utility of combining Herceptin treatment with paclitaxel following AC chemotherapy, additionally the NCCTG N9831 study also investigated adding Herceptin sequentially to AC→P chemotherapy in patients with HER2 positive early breast cancer following surgery.
 - The BCIRG 006 study was designed to investigate combining Herceptin treatment with docetaxel either following AC chemotherapy or in combination with docetaxel and carboplatin in patients with HER2 positive early breast cancer following surgery.
 
 Early breast cancer in the HERA trial was limited to operable, primary, invasive adenocarcinoma of the breast, with axillary nodes positive or axillary nodes negative if tumors at least 1 cm in diameter.
 
-In the joint analysis of the NCCTG N9831 and NSAPB B31 studies, early breast cancer was limited to women with operable breast cancer at high risk, defined as HER2-positive and axillary lymph node positive or HER2 positive and lymph node negative with high risk features (tumor size > 1 cm and ER negative or tumor size > 2 cm, regardless of hormonal status).
-
+In the joint analysis of the NCCTG N9831 and NSABP B-31 studies, early breast cancer was limited to women with operable breast cancer at high risk, defined as HER2-positive and axillary lymph node positive or HER2 positive and lymph node negative with high risk features (tumor size > 1 cm and ER negative or tumor size > 2 cm, regardless of hormonal status).
 In the BCIRG 006 study HER2 positive, early breast cancer was defined as either lymph node positive or high risk node negative patients with no (pN0) lymph node involvement, and at least 1 of the following factors: tumour size greater than 2 cm, estrogen receptor and progesterone receptor negative, histological and/or nuclear grade 2-3, or age < 35 years).
+
 The efficacy results from the HERA trial are summarized in the following table:
 
 | Parameter | Observation N=1693 | Herceptin 1 Year N = 1693 | P-value vs Observation | Hazard Ratio vs Observation |
@@ -173,7 +172,7 @@ Study BO16348 (HERA): 12 months follow-up
 
 For the primary endpoint, DFS, the hazard ratio translates into an absolute benefit, in terms of a 2-year disease-free survival rate, of 7.6 percentage points (85.8 % vs 78.2 %) in favour of the Herceptin arm.
 
-In the NCCTG N9831 and NSAPB B31 studies Herceptin was administered in combination with paclitaxel, following AC chemotherapy.
+In the NCCTG N9831 and NSABP B-31 studies Herceptin was administered in combination with paclitaxel, following AC chemotherapy.
 
 Doxorubicin and cyclophosphamide were administered concurrently as follows:
 
@@ -189,7 +188,7 @@ or
 - intravenous paclitaxel - 175 mg/m2 as a continuous i.v. infusion, given every 3 weeks for 4 cycles (day 1 of each cycle).
 
 The efficacy results from the joint analysis of the NCCTG 9831 and NSABP B-31 trials are summarized in the table below.
-The median duration of follow up was 1.8 years for the patients in the AC→P arm and 2.0 years fro patients in the AC→PH arm.
+The median duration of follow up was 1.8 years for the patients in the AC→P arm and 2.0 years for patients in the AC→PH arm.
 
 | Parameter | AC→P (n=1697) | AC→PH (n=1672) | Hazard Ratio vs AC→P (95% CI) p-value |
 | --- | --- | --- | --- |
@@ -198,6 +197,7 @@ The median duration of follow up was 1.8 years for the patients in the AC→P ar
 | Death (OS event): No. patients with event | 92 | 62 | 0.67 (0.48, 0.92) p=0.014 |
 
 A: doxorubicin; C: cyclophosphamide; P: paclitaxel; H: trastuzumab
+
 For the primary endpoint, DFS, the addition of Herceptin to paclitaxel chemotherapy resulted in a 52% decrease in the risk of disease recurrence.
 The hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 11.8 percentage points (87.2 % vs 75.4 %) in favour of the AC→PH (Herceptin) arm.
 At the time of a safety update after a median of 3.5-3.8 years follow up, an analysis of DFS reconfirms the magnitude of the benefit shown in the definitive analysis of DFS.
@@ -222,7 +222,6 @@ Herceptin was administered weekly with chemotherapy and 3 weekly thereafter for 
 
 The efficacy results from the BCIRG 006 are summarized in the tables below.
 The median duration of follow up was 2.9 years in the AC→D arm and 3.0 years in each of the AC→DH and DCarbH arms.
-
 Overview of Efficacy Analyses BCIRG 006 AC→D versus AC→DH
 
 | Parameter | AC→D (n=1073) | AC→DH (n=1074) | Hazard Ratio vs AC→D (95% CI) p-value |
@@ -232,6 +231,7 @@ Overview of Efficacy Analyses BCIRG 006 AC→D versus AC→DH
 | Death (OS event) No. patients with event | 80 | 49 | 0.58 (0.40, 0.83) p=0.0024 |
 
 AC→D = doxorubicin plus cyclophosphamide, followed by docetaxel; AC→DH = doxorubicin plus cyclophosphamide, followed by docetaxel plus trastuzumab; CI = confidence interval
+
 Overview of Efficacy Analyses BCIRG 006 AC→D versus DCarbH
 
 | Parameter | AC→D (n=1073) | DCarbH (n=1074) | Hazard Ratio vs AC→D (95% CI) |
@@ -244,10 +244,8 @@ AC→D = doxorubicin plus cyclophosphamide, followed by docetaxel; DCarbH = doce
 
 In the BCIRG 006 study for the primary endpoint, DFS, the hazard ratio translates into an absolute benefit, in terms of 3-year disease-free survival rate estimates of 5.8 percentage points (86.7 % vs 80.9 %) in favour of the AC→DH (Herceptin) arm and 4.6 percentage points (85.5 % vs 80.9 %) in favour of the DCarbH (Herceptin) arm compared to AC→D.
 
-In study BCIRG 006, 213/1075 patients in the DCarbH (TCH) arm , 221/1074 patients in the
-AC→DH (AC→TH) arm, and 217/1073 in the AC→D (AC→T) arm had a Karnofsky performance status ≤90 (either 80 or 90).
+In study BCIRG 006, 213/1075 patients in the DCarbH (TCH) arm, 221/1074 patients in the AC→DH (AC→TH) arm, and 217/1073 in the AC→D (AC→T) arm had a Karnofsky performance status ≤90 (either 80 or 90).
 No disease-free survival (DFS) benefit was noticed in this subgroup of patients (hazard ratio = 1.16, 95% CI [0.73, 1.83] for DCarbH (TCH) vs AC→D (AC→T); hazard ratio 0.97, 95% CI [0.60, 1.55] for AC→DH (AC→TH) vs AC→D).
-
 In addition a post-hoc exploratory analysis was performed on the data sets from the joint analysis (JA) NSABP B-31/NCCTG N9831 and BCIRG006 clinical studies combining DFS events and symptomatic cardiac events and summarised in the following table:
 
 |  | AC→PH (vs. AC→P) (NSABP B-31 and NCCTG N9831) | AC→DH (vs. AC→D) (BCIRG 006) | DCarbH (vs. AC→D) (BCIRG 006) |
@@ -260,6 +258,7 @@ A: doxorubicin; C: cyclophosphamide; P: paclitaxel; D: docetaxel; Carb: carbopla
 MGC
 
 Herceptin has been investigated in one randomised, open-label phase III trial ToGA (BO18255) in combination with chemotherapy versus chemotherapy alone.
+
 Chemotherapy was administered as follows:
 
 - capecitabine - 1000 mg/m2 orally twice daily for 14 days every 3 weeks for 6 cycles (evening of day 1 to morning of day 15 of each cycle)
@@ -284,7 +283,6 @@ The efficacy results from study BO18225 are summarized in the following table:
 
 FP + H: Fluoropyrimidine/cisplatin + Herceptin
 FP: Fluoropyrimidine/cisplatin a Odds ratio
-
 Patients were recruited to the trial who were previously untreated for HER2-positive inoperable locally advanced or recurrent and/or metastatic adenocarcinoma of the stomach or gastro-oesophageal junction not amenable to curative therapy.
 The primary endpoint was overall survival which was defined as the time from the date of randomization to the date of death from any cause.
 At the time of the analysis a total of 349 randomized patients had died: 182 patients (62.8 %) in the control arm and 167 patients (56.8 %) in the treatment arm.
@@ -292,7 +290,7 @@ The majority of the deaths were due to events related to the underlying cancer.
 
 Post-hoc subgroup analyses indicate that positive treatment effects are limited to targeting tumours with higher levels of HER2 protein (IHC 2+/FISH+ or IHC 3+).
 The median overall survival for the high HER2 expressing group was 11.8 months versus 16 months, HR 0.65 (95 % CI 0.51-0.83) and the median progression free survival was 5.5 months versus 7.6 months, HR 0.64 (95 % CI 0.51-0.79) for FP versus FP + H, respectively.
-For overall survival, the HR was 0.75 (95 % CI 0.51-1.11) in the IHC 2+/FISH+ group and the HR was 0.58 (95 % CI 0.41-0.81) in the IHC 3+/FISH+ group
+For overall survival, the HR was 0.75 (95 % CI 0.51-1.11) in the IHC 2+/FISH+ group and the HR was 0.58 (95 % CI 0.41-0.81) in the IHC 3+/FISH+ group.
 
 In an exploratory subgroup analysis performed in the TOGA (BO18255) trial there was no apparent benefit on overall survival with the addition of Herceptin in patients with ECOG PS 2 at baseline [HR 0.96 (95 % CI 0.51-1.79)], non measurable [HR 1.78 (95 % CI 0.87-3.66)] and locally advanced disease [HR 1.20 (95 % CI 0.29-4.97)].
 
@@ -302,6 +300,7 @@ Immunogenicity
 Human anti-trastuzumab antibodies were detected in one patient, who had no allergic manifestations.
 
 There are no immunogenicity data available for Herceptin in gastric cancer.
+
 Paediatric population
 
 The European Medicines Agency has waived the obligation to submit the results of studies with Herceptin in all subsets of the paediatric population in Breast and Gastric cancer.

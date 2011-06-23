@@ -10,7 +10,6 @@ Herceptin should be carefully handled during reconstitution.
 Causing excessive foaming during reconstitution or shaking the reconstituted solution may result in problems with the amount of Herceptin that can be withdrawn from the vial.
 
 The reconstituted solution should not be frozen.
-
 Instructions for reconstitution:
 1) Using a sterile syringe, slowly inject 7.2 ml of water for injections in the vial containing the lyophilised Herceptin, directing the stream into the lyophilised cake.
 2) Swirl the vial gently to aid reconstitution.
@@ -39,6 +38,7 @@ Once the infusion is prepared it should be administered immediately.
 If diluted aseptically, it may be stored for 24 hours (do not store above 30°C).
 
 Parenteral medicinal products should be inspected visually for particulate matter and discoloration prior to administration.
+
 Herceptin is for single-use only, as the product contains no preservatives.
 Any unused product or waste material should be disposed of in accordance with local requirements.
 

@@ -34,7 +34,7 @@ In EBC, the following patients were excluded from the HERA trial, there are no d
 Formal cardiological assessment should be considered in patients in whom there are cardiovascular concerns following baseline screening.
 Cardiac function should be further monitored during treatment (e.g. every 12 weeks).
 Monitoring may help to identify patients who develop cardiac dysfunction.
-For early breast cancer patients, cardiac assessment, as performed at baseline, should be repeated every 3 months during treatment and every 6 months following discontinuation of treatment until 24 months from the last administration.
+For early breast cancer patients, cardiac assessment, as performed at baseline, should be repeated every 3 months during treatment every 6 months following discontinuation of treatment until 24 months from the last administration.
 In patients who receive anthracycline containing chemotherapy further monitoring is recommended, and should occur yearly up to 5 years from the last administration, or longer if a continuous decrease of LVEF is observed.
 Patients who develop asymptomatic cardiac dysfunction may benefit from more frequent monitoring (e.g. every 6-8 weeks).
 If patients have a continued decrease in left ventricular function, but remain asymptomatic, the physician should consider discontinuing therapy if no clinical benefit of Herceptin therapy has been seen.
@@ -48,7 +48,7 @@ If symptomatic cardiac failure develops during Herceptin therapy, it should be t
 Discontinuation of Herceptin therapy should be strongly considered in patients who develop clinically significant heart failure unless the benefits for an individual patient are deemed to outweigh the risks.
 
 The safety of continuation or resumption of Herceptin in patients who experience cardiotoxicity has not been prospectively studied.
-However, most patients who developed heart failure in the pivotal (H0648g, H0649g, M77001, BO16216, BO16348, BO18255, NSABP B31, NCCTG N9831, BCIRG 006) trials improved with standard medical treatment.
+However, most patients who developed heart failure in the pivotal (H0648g, H0649g, M77001, BO16216, BO16348, BO18255, NSABP B-31, NCCTG N9831, BCIRG 006) trials improved with standard medical treatment.
 This included diuretics, cardiac glycosides, beta-blockers and/or angiotensin-converting enzyme inhibitors.
 The majority of patients with cardiac symptoms and evidence of a clinical benefit of Herceptin treatment continued on therapy without additional clinical cardiac events.
 

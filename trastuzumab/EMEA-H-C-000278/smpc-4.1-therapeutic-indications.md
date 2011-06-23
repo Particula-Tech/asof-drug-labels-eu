@@ -15,10 +15,9 @@ Herceptin is indicated for the treatment of patients with HER2 positive metastat
 
 Early Breast Cancer (EBC)
 
-Herceptin is indicated for the treatment of patients with HER2 positive early breast cancer:
+Herceptin is indicated for the treatment of patients with HER2 positive early breast cancer.
 
-following surgery, chemotherapy (neoadjuvant or adjuvant) and radiotherapy (if applicable) (see section 5.1).
-
+- following surgery, chemotherapy (neoadjuvant or adjuvant) and radiotherapy (if applicable) (see section 5.1).
 - following adjuvant chemotherapy with doxorubicin and cyclophosphamide, in combination with paclitaxel or docetaxel.
 - in combination with adjuvant chemotherapy consisting of docetaxel and carboplatin.
 

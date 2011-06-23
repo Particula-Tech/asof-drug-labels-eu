@@ -33,7 +33,7 @@ MGC
 
 Three-weekly schedule
 The recommended initial loading dose is 8 mg/kg body weight.
-The recommended maintenance dose at three-weekly intervals is 6 mg/kg body weight, beginning three weeks after the loading dose..
+The recommended maintenance dose at three-weekly intervals is 6 mg/kg body weight, beginning three weeks after the loading dose.
 
 Breast Cancer (MBC and EBC) and Gastric Cancer (MGC)
 
