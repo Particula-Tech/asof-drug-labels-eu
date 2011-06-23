@@ -15,7 +15,8 @@ There is no experience with concomitant use of systemic steroids or immunosuppre
 Protopic ointment has not been evaluated for its efficacy and safety in the treatment of clinically infected atopic dermatitis.
 Before commencing treatment with Protopic ointment, clinical infections at treatment sites should be cleared.
 Patients with atopic dermatitis are predisposed to superficial skin infections.
-Treatment with Protopic may be associated with an increased risk of herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes simplex [cold sores], Kaposi’s varicelliform eruption).
+Treatment with Protopic may be associated with an increased risk of folliculitis and herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes simplex [cold sores],
+Kaposi’s varicelliform eruption) (see section 4.8).
 In the presence of these infections, the balance of risks and benefits associated with Protopic use should be evaluated.
 The potential for local immunosuppression (possibly resulting in infections or cutaneous malignancies) in the long term (i.e. over a period of years) is unknown (see section 5.1).
 
@@ -39,8 +40,10 @@ As with any topical medicinal product, patients should wash their hands after ap
 
 Tacrolimus is extensively metabolised in the liver and although blood concentrations are low following topical therapy, the ointment should be used with caution in patients with hepatic failure (see section 5.2).
 
-The use of Protopic ointment in patients with genetic epidermal barrier defects such as Netherton’s syndrome is not recommended due to the potential for permanently increased systemic absorption of tacrolimus.
-The safety of Protopic ointment has not been established in patients with generalised erythroderma.
+The use of tacrolimus ointment is not recommended in patients with a skin barrier defect, such as Netherton’s syndrome, lamellar ichthyosis, generalized erythroderma or cutaneous Graft Versus Host Disease.
+These skin conditions may increase systemic absorption of tacrolimus.
+Oral use of tacrolimus is also not recommended to treat these skin conditions.
+Post-marketing cases of increased tacrolimus blood level have been reported in these conditions.
 
 Care should be exercised if applying Protopic to patients with extensive skin involvement over an extended period of time, especially in children (see section 4.2).
 

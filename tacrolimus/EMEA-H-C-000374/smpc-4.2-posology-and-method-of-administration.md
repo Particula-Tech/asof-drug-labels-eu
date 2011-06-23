@@ -2,19 +2,17 @@
 
 Protopic treatment should be initiated by physicians with experience in the diagnosis and treatment of atopic dermatitis.
 
-Protopic can be used for short-term and intermittent long-term treatment.
-Treatment should not be continuous.
-
 Protopic is available in two strengths, Protopic 0.03% and Protopic 0.1% ointment.
 
 Posology
 
 Flare treatment
+Protopic can be used for short-term and intermittent long-term treatment.
+Treatment should not be continuous on a long-term basis.
 Protopic treatment should begin at the first appearance of signs and symptoms.
 Each affected region of the skin should be treated with Protopic until lesions are cleared, almost cleared or mildly affected.
 Thereafter, patients are considered suitable for maintenance treatment (see below).
 At the first signs of recurrence (flares) of the disease symptoms, treatment should be re-initiated.
-
 Adults and adolescents (16 years of age and above)
 Treatment should be started with Protopic 0.1% twice a day and treatment should be continued until clearance of the lesion.
 If symptoms recur, twice daily treatment with Protopic 0.1% should be restarted.
@@ -64,6 +62,8 @@ Protopic ointment should not be applied under occlusion because this method of a
 
 [Protopic 0.1% ointment]
 
-Only Protopic 0.03% ointment should be used in children from the age of 2 to 16 years.
+Protopic is available in two strengths, Protopic 0.03 % and Protopic 0.1 % ointment.
+
+Only Protopic 0.03 % ointment should be used in children from the age of 2 to 16 years.
 
 Adult patients (16 years of age and above) should use Protopic 0.1% ointment.

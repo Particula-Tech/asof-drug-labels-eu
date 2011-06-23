@@ -12,37 +12,16 @@ Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10) 
 (≥ 1/1,000 to < 1/100).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-General disorders and administration site conditions
-Very common: Application site burning, application site pruritus
+| System Organ Class | Very Common ≥1/10 | Common ≥1/100, <1/10 | Uncommon ≥1/1000, <1/100 | Not known (cannot be estimated from the available data) |
+| --- | --- | --- | --- | --- |
+| Infections and infestations |  | Local skin infection regardless of specific aetiology including but not limited to: Eczema herpeticum, Folliculitis, Herpes simplex, Herpes virus infection, Kaposi’s varicelliform eruption* |  |  |
+| Metabolism and nutrition disorders |  | Alcohol intolerance (facial flushing or skin irritation after consumption of an alcoholic beverage) |  |  |
+| Nervous system disorders |  | Paraesthesias and dysaesthesias (hyperaesthesia, burning sensation) |  |  |
+| Skin and subcutaneous tissue disorders |  | Pruritus | Acne* | Rosacea* |
+| General disorders and administration site conditions | Application site burning, Application site pruritus | Application site warmth, Application site erythema, Application site pain, Application site irritation, Application site paraesthesia, Application site rash |  | Application site oedema* |
+| Investigations |  |  |  | Drug level increased* (see section 4.4) |
 
-Common: Application site warmth, application site erythema, application site pain,
-
-application site irritation, application site paraesthesia, application site rash
-
-Infections and infestations
-
-Common: Herpes viral infections (herpes simplex dermatitis [eczema herpeticum], herpes
-
-simplex [cold sores], Kaposi’s varicelliform eruption)
-
-Skin and subcutaneous tissue disorders
-
-Common: Folliculitis, pruritus
-
-Uncommon: Acne
-
-Nervous system disorders
-
-Common: Paraesthesias and dysaesthesias (hyperaesthesia, burning sensation)
-
-Metabolism and nutrition disorders
-
-Common: Alcohol intolerance (facial flushing or skin irritation after consumption of an
-
-alcoholic beverage)
-
-The following adverse reactions have been reported during post-marketing experience:
-Skin and subcutaneous tissue disorders: Rosacea
+* The adverse reaction has been reported during post-marketing experience
 
 Maintenance treatment
 In a study of maintenance treatment (twice weekly treatment) in adults and children with moderate and severe atopic dermatitis the following adverse events were noted to occur more frequently than in the control group: application site impetigo (7.7% in children) and application site infections (6.4% in children and 6.3% in adults).

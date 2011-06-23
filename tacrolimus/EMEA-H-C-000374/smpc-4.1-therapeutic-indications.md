@@ -14,4 +14,4 @@ Treatment of moderate to severe atopic dermatitis for the prevention of flares a
 
 [Protopic 0.1% ointment]
 
-Protopic 0.1% ointment is indicated in adults and adolescents (16 years of age and above)
+Protopic 0.1 % ointment is indicated in adults and adolescents (16 years of age and above)
