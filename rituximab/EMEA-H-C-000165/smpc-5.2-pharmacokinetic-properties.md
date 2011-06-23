@@ -18,6 +18,7 @@ Rituximab was detectable in the serum of patients 3 – 6 months after completio
 Upon administration of rituximab at a dose of 375 mg/m2 as an intravenous infusion at weekly intervals for 8 doses to 37 patients with NHL, the mean Cmax increased with each successive infusion, spanning from a mean of 243 µg/ml (range, 16 – 582 µg/ml) after the first infusion to 550 µg/ml (range, 171 – 1177 µg/ml) after the eighth infusion.
 
 The pharmacokinetic profile of rituximab when administered as 6 infusions of 375 mg/m2 in combination with 6 cycles of CHOP chemotherapy was similar to that seen with rituximab alone.
+
 Chronic lymphocytic leukaemia
 
 Rituximab was administered as an IV infusion at a first-cycle dose of 375 mg/m2 increased to 500 mg/m2 each cycle for 5 doses in combination with fludarabine and cyclophosphamide in CLL patients.

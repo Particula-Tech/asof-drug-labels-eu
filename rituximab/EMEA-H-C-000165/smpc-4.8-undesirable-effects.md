@@ -4,7 +4,6 @@ Experience from non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia
 
 The overall safety profile of MabThera in non-Hodgkin’s lymphoma and chronic lymphocytic leukaemia is based on data from patients from clinical trials and from post-marketing surveillance.
 These patients were treated either with MabThera monotherapy (as induction treatment or maintenance treatment following induction treatment) or in combination with chemotherapy.
-
 The most frequently observed adverse drug reactions (ADRs) in patients receiving MabThera were infusion-related reactions which occurred in the majority of patients during the first infusion.
 The incidence of infusion-related symptoms decreases substantially with subsequent infusions and is less than 1 % after eight doses of MabThera.
 
@@ -60,6 +59,7 @@ The incidence of infusion-related symptoms decreased substantially with subseque
 
 Infections
 MabThera induces B-cell depletion in about 70-80% of patients, but was associated with decreased serum immunoglobulins only in a minority of patients.
+
 Localized candida infections as well as Herpes zoster was reported at a higher incidence in the MabThera-containing arm of randomized studies.
 Severe infections were reported in about 4% of patients treated with MabThera monotherapy.
 Higher frequencies of infections overall, including grade 3 or 4 infections, were observed during MabThera maintenance treatment up to 2 years when compared to observation.There was no cumulative toxicity in terms of infections reported over a 2-year treatment period.
@@ -123,7 +123,6 @@ The proportion of patients with IgG levels below the LLN was about 60% in the Ma
 Patient subpopulations - MabThera monotherapy
 Elderly patients (≥ 65 years):
 The incidence of ADRs of all grades and grade 3 /4 ADR was similar in elderly patients compared to younger patients (<65 years).
-
 Bulky disease
 There was a higher incidence of grade 3/4 ADRs in patients with bulky disease than in patients without bulky disease (25.6 % vs. 15.4 %).
 The incidence of ADRs of any grade was similar in these two groups.
@@ -132,6 +131,7 @@ Re-treatment
 The percentage of patients reporting ADRs upon re-treatment with further courses of MabThera was similar to the percentage of patients reporting ADRs upon initial exposure (any grade and grade 3/4 ADRs).
 
 Patient subpopulations - MabThera combination therapy
+
 Elderly patients (≥ 65 years)
 The incidence of grade 3/4 blood and lymphatic adverse events was higher in elderly patients compared to younger patients (<65 years), with previously untreated or relapsed/refractory CLL.
 
@@ -153,46 +153,24 @@ The most frequent adverse reaction considered due to receipt of MabThera were in
 The overall incidence of IRRs in clinical trials was 23% with the first infusion and decreased with subsequent infusions.
 Serious IRRs were uncommon (0.5% of patients) and were predominantly seen during the initial course.
 In addition to adverse reactions seen in RA clinical trials for rituximab, progressive multifocal leukoencephalopathy (PML) (see section 4.4) and serum sickness-like reaction have been reported during post marketing experience.
-
 Table 2 Summary of adverse drug reactions reported in clinical trials or during postmarketing surveillance occurring in patients with rheumatoid arthritis receiving MabThera
 
 | System Organ Class | Very Common | Common | Uncommon | Very rare |
 | --- | --- | --- | --- | --- |
 | Infections and Infestations | upper respiratory tract infection, urinary tract infections | Bronchitis, sinusitis, gastroenteritis, tinea pedis |  | PML, reactivation of hepatitis B |
 | Blood and lymphatic system disorders |  |  |  | Serum sickness-like reaction |
-| Immune System Disorders | *Infusion related reactions (hypertension, nausea, rash, pyrexia, pruritis, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, peripheral oedema, erythema) |  | *Infusion related reactions (generalized oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalized pruritis, anaphylaxis, anaphylactoid |  |
+| Immune System Disorders | *Infusion related reactions (hypertension, nausea, rash, pyrexia, pruritis, urticaria, throat irritation, hot flush, hypotension, rhinitis, rigors, tachycardia, fatigue, oropharyngeal pain, peripheral oedema, erythema) |  | *Infusion related reactions (generalized oedema, bronchospasm, wheezing, laryngeal oedema, angioneurotic oedema, generalized pruritis, anaphylaxis, anaphylactoid reaction) |  |
 | General disorders and administration site conditions |  |  |  |  |
-
-System Organ Uncommon Very rare
-Very Common Common
-Class
-reaction)
-Metabolism and hypercholesterolemia
-Nutritional
-Disorders
-Nervous System headache paraesthesia,
-disorders migraine, dizziness,
-sciatica
-Skin and alopecia
-Subcutaneous
-Tissue Disorders
-Psychiatric depression, anxiety
-Disorders
-Gastrointestinal Dyspepsia,
-Disorders diarrhoea, gastro-
-oesophageal reflux,
-mouth ulceration,
-upper abdominal
-pain
-Musculo skeletal arthralgia /
-disorders musculoskeletal pain,
-osteoarthritis ,
-bursitis
+| Metabolism and Nutritional Disorders |  | hypercholesterolemia |  |  |
+| Nervous System disorders | headache | paraesthesia, migraine, dizziness, sciatica |  |  |
+| Skin and Subcutaneous Tissue Disorders |  | alopecia |  |  |
+| Psychiatric Disorders |  | depression, anxiety |  |  |
+| Gastrointestinal Disorders |  | Dyspepsia, diarrhoea, gastro-oesophageal reflux, mouth ulceration, upper abdominal pain |  |  |
+| Musculo skeletal disorders |  | arthralgia / musculoskeletal pain, osteoarthritis , bursitis |  |  |
 
 *Reactions occurring during or within 24 hours of infusion.
 See also infusion-related reactions below.
 Infusion related reactions may occur as a result of hypersensitivity and/or to the mechanism of action.
-
 Multiple courses
 Multiple courses of treatment are associated with a similar ADR profile to that observed following first exposure.
 The rate of all ADRs following first MabThera exposure was highest during the first 6 months and declined thereafter.
@@ -251,13 +229,11 @@ The most frequent adverse reactions considered due to receipt of MabThera infusi
 | Metabolism and Nutritional Disorders |  | hypercholesterolemia |  |  |
 | Nervous System disorders | headache | paraesthesia, migraine, dizziness, sciatica |  |  |
 | Skin and Subcutaneous Tissue Disorders |  | alopecia |  |  |
-| Psychiatric |  | depression, anxiety |  |  |
-| Disorders |  |  |  |  |
+| Psychiatric Disorders |  | depression, anxiety |  |  |
 | Gastrointestinal Disorders |  | dyspepsia, diarrhoea, gastro-oesophageal reflux, mouth ulceration, upper abdominal pain |  |  |
 | Musculo skeletal disorders |  | arthralgia / musculoskeletal pain, osteoarthritis, bursitis |  |  |
 
 This is mostly accounted for by infusion-related reactions (most frequent during the first treatment course), RA exacerbation and infections all of which were more frequent in the first 6 months of treatment.
-
 The incidence of IRRs decline with subsequent infusions.
 
 The incidence of infections that were serious or required IV antibiotics, was approximately 4 per 100 patient years.

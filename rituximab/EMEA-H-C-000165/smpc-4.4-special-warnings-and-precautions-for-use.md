@@ -1,6 +1,7 @@
 # 4.4 Special warnings and precautions for use
 
 Progressive multifocal leukoencephalopathy
+
 All patients treated with MabThera for rheumatoid arthritis must be given the patient alert card with each infusion (see end of Annex IIIA - Labelling).
 The alert card contains important safety information for patients regarding potential increased risk of infections, including progressive multifocal leukoencephalopathy (PML).
 
@@ -36,7 +37,6 @@ Patients with a history of pulmonary insufficiency or those with pulmonary tumou
 Patients who develop severe cytokine release syndrome should have their infusion interrupted immediately (see section 4.2) and should receive aggressive symptomatic treatment.
 Since initial improvement of clinical symptoms may be followed by deterioration, these patients should be closely monitored until tumour lysis syndrome and pulmonary infiltration have been resolved or ruled out.
 Further treatment of patients after complete resolution of signs and symptoms has rarely resulted in repeated severe cytokine release syndrome.
-
 Infusion related adverse reactions of all kinds have been observed in 77% of patients treated with MabThera (including cytokine release syndrome accompanied by hypotension and bronchospasm in 10 % of patients) see section 4.8.
 These symptoms are usually reversible with interruption of MabThera infusion and administration of an anti-pyretic, an antihistaminic, and, occasionally, oxygen, intravenous saline or bronchodilators, and glucocorticoids if required.
 Please see cytokine release syndrome above for severe reactions.
@@ -72,9 +72,9 @@ The majority of these subjects were also exposed to cytotoxic chemotherapy.
 Limited information from one study in relapsed/refractory CLL patients suggest that MabThera treatment may also worsen the outcome of primary hepatitis B infections.
 Hepatitis B virus (HBV) screening should be considered for high risk patients before initiation of treatment with MabThera.
 Carriers of hepatitis B and patients with a history of hepatitis B should be closely monitored for clinical and laboratory signs of active HBV infection during and for several months (up to seven) following MabThera therapy.
-
 Very rare cases of progressive multifocal leukoencephalopathy (PML) have been reported during post-marketing use of MabThera in NHL and CLL (see section 4.8).
 The majority of patients had received rituximab in combination with chemotherapy or as part of a hematopoietic stem cell transplant.
+
 The safety of immunization with live viral vaccines, following MabThera therapy has not been studied for NHL and CLL patients and vaccination with live virus vaccines is not recommended.
 Patients treated with MabThera may receive non-live vaccinations.
 However with non-live vaccines response rates may be reduced.
@@ -110,6 +110,7 @@ Serious infections, including fatalities, can occur during therapy with MabThera
 MabThera should not be administered to patients with an active, severe infection (e.g. tuberculosis, sepsis and opportunistic infections, see section 4.3) or severely immunocompromised patients (e.g. where levels of CD4 or CD8 are very low).
 Physicians should exercise caution when considering the use of MabThera in patients with a history of recurring or chronic infections or with underlying conditions which may further predispose patients to serious infection, e.g. hypogammaglobulinaemia (see section 4.8).
 It is recommended that immunoglobulin levels are determined prior to initiating treatment with MabThera.
+
 Patients reporting signs and symptoms of infection following MabThera therapy should be promptly evaluated and treated appropriately.
 Before giving a subsequent course of MabThera treatment, patients should be re-evaluated for any potential risk for infections.
 
