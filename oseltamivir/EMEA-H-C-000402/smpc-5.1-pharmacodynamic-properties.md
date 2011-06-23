@@ -48,6 +48,7 @@ In the pooled treatment study population, which included both influenza-positive
 In the overall treatment population, influenza infection was confirmed in 67 % (range 46 % to 74 %) of the recruited patients.
 Of the elderly subjects, 64 % were influenza-positive and of those with chronic cardiac and/or respiratory disease 62 % were influenza-positive.
 In all phase III treatment studies, patients were recruited only during the period in which influenza was circulating in the local community.
+
 Adults and adolescents 13 years of age and older: Patients were eligible if they reported within 36 hours of onset of symptoms, had fever ≥ 37.8 °C, accompanied by at least one respiratory symptom (cough, nasal symptoms or sore throat) and at least one systemic symptom (myalgia, chills/sweats, malaise, fatigue or headache).
 In a pooled analysis of all influenza-positive adults and adolescents
 (N = 2413) enrolled into treatment studies, oseltamivir 75 mg twice daily for 5 days reduced the median duration of influenza illness by approximately one day from 5.2 days (95 % CI 4.9 – 5.5 days) in the placebo group to 4.2 days (95 % CI 4.0 – 4.4 days; p ≤ 0.0001).
@@ -69,7 +70,6 @@ By day 6 (the last day of treatment) FEV1 had increased by 10.8 % in the oseltam
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Tamiflu in one or more subsets of the paediatric population in influenza.
 See section 4.2 for information on paediatric use.
-
 Treatment of influenza B infection: Overall, 15 % of the influenza-positive population were infected by influenza B, proportions ranging from 1 to 33 % in individual studies.
 The median duration of illness in influenza B infected subjects did not differ significantly between the treatment groups in individual studies.
 Data from 504 influenza B infected subjects were pooled across all studies for analysis.
@@ -98,7 +98,6 @@ Prevention during an influenza epidemic in the community: In a pooled analysis o
 The NNT in this study was 28 (95 % CI 24 – 50).
 A study in elderly residents of nursing homes, where 80 % of participants received vaccine in the season of the study, oseltamivir 75 mg once daily given for 6 weeks significantly reduced the incidence of clinical influenza illness from 12/272 (4.4 %) in the placebo group to 1/276 (0.4 %) in the oseltamivir group (92 % reduction [95 % CI 1.5 – 6.6; p = 0.0015]).
 The NNT in this study was 25 (95 % CI 23 – 62).
-
 Prophylaxis of influenza in immunocompromised patients: A double-blind, placebo-controlled, randomised study was conducted for seasonal prophylaxis of influenza in 475 immunocompromised subjects (388 subjects with solid organ transplantation [195 placebo; 193 oseltamivir], 87 subjects with hemopoetic stem cell transplantation [43 placebo; 44 oseltamivir], no subject with other immunosuppressant conditions), including 18 children 1 to 12 years of age.
 The primary endpoint in this study was the incidence of laboratory-confirmed clinical influenza as determined by viral culture and/or a four-fold rise in HAI antibodies.
 The incidence of laboratory-confirmed clinical influenza was 2.9 % (7/238) in the placebo group and 2.1 % (5/237) in the oseltamivir group (95 % CI -2.3 % –

@@ -7,7 +7,6 @@ Special instructions for use, handling and disposal of extemporaneous formulatio
 
 Extemporaneous formulation
 When commercially manufactured Tamiflu powder for oral suspension is not available, patients who are unable to swallow capsules may receive appropriate doses of Tamiflu prepared in a pharmacy or prepared at home.
-
 For infants below 12 months, the pharmacy preparation should be preferred to home preparation.
 Detailed information on the pharmacy preparation can be found in section 4.2 and on the home preparation can be found in section 3 of the package leaflet of Tamiflu capsules.
 

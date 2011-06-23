@@ -283,24 +283,34 @@ Hepatic impairment
 No dose adjustment is required either for treatment or for prevention in patients with hepatic dysfunction.
 No studies have been carried out in paediatric patients with hepatic disorder.
 Renal impairment
-Treatment of influenza: Dose adjustment is recommended for adults with severe renal impairment.
+Treatment of influenza: Dose adjustment is recommended for adults with moderate or severe renal impairment.
 Recommended doses are detailed in the table below.
 
 | Creatinine clearance | Recommended dose for treatment |
 | --- | --- |
-| > 30 (ml/min) | 75 mg twice daily |
-| > 10 to ≤ 30 (ml/min) | 75 mg once daily, or 30 mg suspension twice daily, or 30 mg capsules twice daily |
-| ≤ 10 (ml/min) | Not recommended |
-| dialysis patients | Not recommended |
+| > 60 (ml/min) | 75 mg twice daily |
+| > 30 to 60 (ml/min) | 30 mg (suspension or capsules) twice daily |
+| > 10 to 30 (ml/min) | 30 mg (suspension or capsules) once daily |
+| ≤ 10 (ml/min) | Not recommended (no data available) |
+| Hemodialysis patients | 30 mg after each hemodialysis session |
+| Peritoneal dialysis patients* | 30 mg (suspension or capsules) single dose |
 
-Prevention of influenza: Dose adjustment is recommended for adults with severe renal impairment as detailed in the table below.
+* Data derived from studies in continuous ambulatory peritoneal dialysis (CAPD) patients; the clearance of oseltamivir carboxylate is expected to be higher when automated peritoneal dialysis (APD) mode is used.
+Treatment mode can be switched from APD to CAPD if considered necessary by a nephrologist.
+
+Prevention of influenza: Dose adjustment is recommended for adults with moderate or severe renal impairment as detailed in the table below.
 
 | Creatinine clearance | Recommended dose for prevention |
 | --- | --- |
-| > 30 (ml/min) | 75 mg once daily |
-| > 10 to ≤ 30 (ml/min) | 75 mg every second day, or 30 mg suspension once daily, or 30 mg capsules once daily |
-| ≤ 10 (ml/min) | Not recommended |
-| dialysis patients | Not recommended |
+| > 60 (ml/min) | 75 mg once daily |
+| > 30 to 60 (ml/min) | 30 mg (suspension or capsules) once daily |
+| > 10 to 30 (ml/min) | 30 mg (suspension or capsules) every second day |
+| ≤ 10 (ml/min) | Not recommended (no data available) |
+| Hemodialysis patients | 30 mg after every second hemodialysis session |
+| Peritoneal dialysis patients* | 30 mg (suspension or capsules) once weekly |
+
+* Data derived from studies in continuous ambulatory peritoneal dialysis (CAPD) patients; the clearance of oseltamivir carboxylate is expected to be higher when automated peritoneal dialysis (APD) mode is used.
+Treatment mode can be switched from APD to CAPD if considered necessary by a nephrologist.
 
 Elderly
 No dose adjustment is required, unless there is evidence of severe renal impairment.
@@ -315,6 +325,15 @@ Longer duration of seasonal prophylaxis up to 12 weeks has been evaluated in imm
 
 Children who are able to swallow capsules may receive prevention with Tamiflu capsules (30 mg,
 45 mg, 75 mg) once daily for 10 days as an alternative to the recommended dose of Tamiflu suspension.
+
+| Creatinine clearance | Recommended dose for prevention |
+| --- | --- |
+| > 60 (ml/min) | 75 mg once daily |
+| > 30 to60 (ml/min) | 30 mg (suspension or capsules) once daily |
+| > 10 to 30 (ml/min) | 30 mg (suspension or capsules) every second day |
+| ≤ 10 (ml/min) | Not recommended (no data available) |
+| Hemodialysis patients | 30 mg after every second hemodialysis session |
+| Peritoneal dialysis patients* | 30 mg (suspension or capsules) once weekly |
 
 TLonger duration of seasonal prophylaxis up to 12 weeks has been evaluated in immunocompromised subjects (see sections 4.4, 4.8 and 5.1).
 

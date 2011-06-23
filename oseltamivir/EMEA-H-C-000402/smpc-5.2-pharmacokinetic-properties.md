@@ -43,6 +43,7 @@ Multiple-dose pharmacokinetics were studied in a small number of children enroll
 Younger children cleared both the pro-drug and its active metabolite faster than adults, resulting in a lower exposure for a given mg/kg dose.
 Doses of 2 mg/kg give oseltamivir carboxylate exposures comparable to those achieved in adults receiving a single 75 mg dose (approximately 1 mg/kg).
 The pharmacokinetics of oseltamivir in children over 12 years of age are similar to those in adults.
+
 Infants below 12 months of age: Limited pharmacokinetic and safety data are available for infants less than 2 years of age.
 Pharmacokinetic modeling was undertaken using these data in addition to data from studies in adults and children older than 1 year of age.
 The results demonstrate that doses of 3 mg/kg twice daily for infants aged 3 to 12 months and 2.5 mg/kg twice daily for infants aged between 1 and 3 months provide exposures similar to those shown to be clinically efficacious in adults and children > 1 year of age (see sections 4.1 and 4.2).
@@ -51,6 +52,7 @@ There are currently no data available in infants less than 1 month of age using 
 [Tamiflu 45 mg hard capsule.]
 
 Children one year of age and older: The pharmacokinetics of oseltamivir have been evaluated in single-dose pharmacokinetic studies in children aged 1 to 16 years.
+
 There are currently no data available in patients less than 1 month of age using Tamiflu.
 
 [Tamiflu 75 mg hard capsule.]
