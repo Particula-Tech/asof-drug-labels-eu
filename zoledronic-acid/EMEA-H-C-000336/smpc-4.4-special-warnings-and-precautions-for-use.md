@@ -54,3 +54,13 @@ This category of drugs includes Zometa (zoledronic acid).
 The time to onset of symptoms varied from one day to several months after starting treatment.
 Most patients had relief of symptoms after stopping treatment.
 A subset had recurrence of symptoms when rechallenged with the same drug or another bisphosphonate.
+
+Atypical fractures of the femur
+Atypical subtrochanteric and diaphyseal femoral fractures have been reported with bisphosphonate therapy, primarily in patients receiving long-term treatment for osteoporosis.
+These transverse or short oblique fractures can occur anywhere along the femur from just below the lesser trochanter to just above the supracondylar flare.
+These fractures occur after minimal or no trauma and some patients experience thigh or groin pain, often associated with imaging features of stress fractures, weeks to months before presenting with a completed femoral fracture.
+Fractures are often bilateral; therefore the contralateral femur should be examined in bisphosphonate-treated patients who have sustained a femoral shaft fracture.
+Poor healing of these fractures has also been reported.
+Discontinuation of bisphosphonate therapy in patients suspected to have an atypical femur fracture should be considered pending evaluation of the patient, based on an individual benefit risk assessment.
+
+During bisphosphonate treatment patients should be advised to report any thigh, hip or groin pain and any patient presenting with such symptoms should be evaluated for an incomplete femur fracture.

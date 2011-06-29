@@ -4,6 +4,7 @@ Pharmacotherapeutic group: Bisphosphonate, ATC code: M05 BA 08
 
 Zoledronic acid belongs to the class of bisphosphonates and acts primarily on bone.
 It is an inhibitor of osteoclastic bone resorption.
+
 The selective action of bisphosphonates on bone is based on their high affinity for mineralised bone, but the precise molecular mechanism leading to the inhibition of osteoclastic activity is still unclear.
 In long-term animal studies, zoledronic acid inhibits bone resorption without adversely affecting the formation, mineralisation or mechanical properties of bone.
 
@@ -25,7 +26,6 @@ Efficacy results are provided in Table 2.
 In a second study including solid tumours other than breast or prostate cancer, Zometa 4 mg significantly reduced the proportion of patients with an SRE, delayed the median time to first SRE by > 2 months, and reduced the skeletal morbidity rate.
 Multiple event analysis showed 30.7% risk reduction in developing SREs in the Zometa group compared with placebo.
 Efficacy results are provided in Table 3.
-
 Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -44,6 +44,7 @@ Table 2: Efficacy results (prostate cancer patients receiving hormonal therapy)
 * Includes vertebral and non-vertebral fractures
 ** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
 NA Not Applicable
+
 Table 3: Efficacy results (solid tumours other than breast or prostate cancer)
 
 |  | Any SRE (+TIH) |  |  | Fractures* |  |  | Radiation therapy to bone |  |
@@ -62,11 +63,11 @@ Table 3: Efficacy results (solid tumours other than breast or prostate cancer)
 * Includes vertebral and non-vertebral fractures
 ** Accounts for all skeletal events, the total number as well as time to each event during the trial NR Not Reached
 NA Not Applicable
-
 In a third phase III randomised, double-blind trial, 4 mg Zometa or 90 mg pamidronate every 3 to 4 weeks were compared in patients with multiple myeloma or breast cancer with at least one bone lesion.
 The results demonstrated that Zometa 4 mg showed comparable efficacy to 90 mg pamidronate in the prevention of SREs.
 The multiple event analysis revealed a significant risk reduction of 16% in patients treated with Zometa 4 mg in comparison with patients receiving pamidronate.
 Efficacy results are provided in Table 4.
+
 Table 4: Efficacy results (breast cancer and multiple myeloma patients)
 
 |  | Any SRE (+TIH) |  | Fractures* |  | Radiation therapy to bone |  |
@@ -94,15 +95,15 @@ The SRE rate (events/person year) was 0.628 for Zometa and 1.096 for placebo.
 The proportion of patients with at least one SRE (excluding hypercalcaemia) was 29.8% in the Zometa-treated group versus 49.6% in the placebo group (p=0.003).
 Median time to onset of the first SRE was not reached in the Zometa-treated arm at the end of the study and was significantly prolonged compared to placebo (p=0.007).
 Zometa reduced the risk of SREs by 41% in a multiple event analysis (risk ratio=0.59, p=0.019) compared with placebo.
-
 In the Zometa-treated group, statistically significant improvement in pain scores (using the Brief Pain Inventory, BPI) was seen at 4 weeks and at every subsequent time point during the study, when compared to placebo (Figure 1).
 The pain score for Zometa was consistently below baseline and pain reduction was accompanied by a trend in reduced analgesics score.
+
 Figure 1.
 Mean changes from baseline in BPI scores.
 Statistically significant differences are marked (*p<0.05) for between treatment comparisons (Zometa vs. Placebo)
 
 Placebo ∆
-Zometa �
+Zometa ◻
 
 Time on study (weeks)
 
@@ -116,19 +117,20 @@ The following response rates were observed:
 
 Table 5: Proportion of complete responders by day in the combined TIH studies
 
-Day 4 Day 7 Day 10
-Zometa 4 mg (N=86) 45.3% (p=0.104) 82.6% (p=0.005)* 88.4% (p=0.002)*
-Zometa 8 mg (N=90) 55.6% (p=0.021)* 83.3% (p=0.010)* 86.7% (p=0.015)*
-Pamidronate 90 mg (N=99) 33.3% 63.6% 69.7%
-*p-values compared to pamidronate.
+|  | Day 4 | Day 7 | Day 10 |
+| --- | --- | --- | --- |
+| Zometa 4 mg (N=86) | 45.3% (p=0.104) | 82.6% (p=0.005)* | 88.4% (p=0.002)* |
+| Zometa 8 mg (N=90) | 55.6% (p=0.021)* | 83.3% (p=0.010)* | 86.7% (p=0.015)* |
+| Pamidronate 90 mg (N=99) | 33.3% | 63.6% | 69.7% |
+| *p-values compared to pamidronate. |  |  |  |
 
 Median time to normocalcaemia was 4 days.
 Median time to relapse (re-increase of albumin-corrected serum calcium ≥ 2.9 mmol/l) was 30 to 40 days for patients treated with Zometa versus 17 days for those treated with pamidronate 90 mg (p-values: 0.001 for 4 mg and 0.007 for 8 mg).
 There were no statistically significant differences between the two Zometa doses.
-
 In clinical trials 69 patients who relapsed or were refractory to initial treatment (Zometa 4 mg, 8 mg or pamidronate 90 mg) were retreated with Zometa 8 mg.
 The response rate in these patients was about 52%.
 Since those patients were retreated with the 8 mg dose only, there are no data available allowing comparison with the 4 mg dose.
+
 In clinical trials performed in patients with tumour-induced hypercalcaemia (TIH), the overall safety profile amongst all three treatment groups (zoledronic acid 4 and 8 mg and pamidronate 90 mg) was similar in types and severity.
 
 Paediatric population
@@ -144,11 +146,11 @@ Estimated treatment effects on BMD were similar, but the trial design was not su
 In particular there was no clear evidence of efficacy on incidence of fracture or on pain.
 Fracture adverse events of long bones in the lower extremities were reported in approximately 24% (femur) and 14% (tibia) of zoledronic acid-treated patients vs 12% and 5% of pamidronate-treated patients with severe osteogenesis imperfecta, regardless of disease type and causality but overall incidence of fractures was comparable for the zoledronic acid and pamidronate-treated patients: 43% (32/74) vs 41% (31/76).
 Interpretation of the risk of fracture is confounded by the fact that fractures are common events in patients with severe osteogenesis imperfecta as part of the disease process.
-
 The type of adverse reactions observed in this population were similar to those previously seen in adults with advanced malignancies involving the bone (see section 4.8).
 The adverse reactions ranked under headings of frequency, are presented in Table 6.
 The following conventional classification is used: very common (≥1/10), common (≥1/100, <1/10), uncommon (≥1/1,000, <1/100), rare
 (≥1/10,000, <1/1,000), very rare (<1/10,000), not known (cannot be estimated from the available data).
+
 Table 6: Adverse reactions observed in paediatric patients with severe osteogenesis imperfecta1
 
 Nervous system disorders

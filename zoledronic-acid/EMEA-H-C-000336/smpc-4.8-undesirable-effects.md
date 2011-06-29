@@ -119,7 +119,10 @@ Many of these patients had signs of local infection including osteomyelitis, and
 Osteonecrosis of the jaws has multiple documented risk factors including a diagnosis of cancer, concomitant therapies (e.g. chemotherapy, radiotherapy, corticosteroids) and co-morbid conditions (e.g. anaemia, coagulopathies, infection, pre-existing oral disease).
 Although causality has not been determined, it is prudent to avoid dental surgery as recovery may be prolonged (see section 4.4).
 
+During post-marketing experience the following reactions have been reported (frequency rare): Atypical subtrochanteric and diaphyseal femoral fractures (bisphopsphonate class adverse reaction).
+
 In very rare cases, the following events have been reported: hypotension leading to syncope or circulatory collapse, primarily in patients with underlying risk factors, atrial fibrillation, somnolence, bronchoconstriction, anaphylactic reaction/shock, urticaria, scleritis and orbital inflammation.
+
 Because these reports are from a population of uncertain size and are subject to confounding factors, it is difficult to assess causality and to estimate event incidence rates.
 
 Paediatric population
