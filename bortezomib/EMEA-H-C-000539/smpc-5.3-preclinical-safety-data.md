@@ -11,7 +11,6 @@ Peri- and postnatal development studies were not conducted.
 
 In multi-cycle general toxicity studies conducted in the rat and monkey, the principal target organs included the gastrointestinal tract, resulting in vomiting and/or diarrhoea; haematopoietic and lymphatic tissues, resulting in peripheral blood cytopenias, lymphoid tissue atrophy and haematopoietic bone marrow hypocellularity; peripheral neuropathy (observed in monkeys, mice and dogs) involving sensory nerve axons; and mild changes in the kidneys.
 All these target organs have shown partial to full recovery following discontinuation of treatment.
-
 Based on animal studies, the penetration of bortezomib through the blood-brain barrier appears to be limited, if any and the relevance to humans is unknown.
 
 Cardiovascular safety pharmacology studies in monkeys and dogs show that intravenous doses approximately two to three times the recommended clinical dose on a mg/m2 basis are associated with increases in heart rate, decreases in contractility, hypotension and death.

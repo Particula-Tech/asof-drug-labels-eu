@@ -2,7 +2,8 @@
 
 Gastrointestinal toxicity
 Gastrointestinal toxicity, including nausea, diarrhoea, vomiting and constipation are very common with VELCADE treatment.
-Cases of ileus have been uncommonly reported (see section 4.8) therefore patients who experience constipation should be closely monitored.
+Cases of ileus have been uncommonly reported (see section 4.8).
+Therefore, patients who experience constipation should be closely monitored.
 
 Haematological toxicity
 VELCADE treatment is very commonly associated with haematological toxicities (thrombocytopenia, neutropenia and anaemia).
@@ -53,7 +54,6 @@ RPLS is a rare, reversible, rapidly evolving neurological condition, which can p
 Brain imaging, preferably MRI (Magnetic Resonance Imaging), is used to confirm the diagnosis.
 In patients developing RPLS, discontinue VELCADE.
 The safety of reinitiating VELCADE therapy in patients previously experiencing RPLS is not known.
-
 Heart failure
 Acute development or exacerbation of congestive heart failure, and/or new onset of decreased left ventricular ejection fraction has been reported during bortezomib treatment.
 In a single agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
@@ -73,12 +73,14 @@ The benefit/risk ratio should be considered prior to continuing VELCADE therapy.
 
 In a clinical trial, two patients (out of 2) given high-dose cytarabine (2 g/m2 per day) by continuous infusion over 24 hours with daunorubicin and VELCADE for relapsed acute myelogenous leukaemia died of ARDS early in the course of therapy, and the study was terminated.
 Therefore, this specific regimen with concomitant administration with high-dose cytarabine (2 g/m2 per day) by continuous infusion over 24 hours is not recommended.
+
 Renal impairment
 Renal complications are frequent in patients with multiple myeloma.
 Patients with renal impairment should be monitored closely (see sections 4.2 and 5.2).
 
 Hepatic impairment
-Patients with hepatic impairment should be treated with extreme caution and a dose reduction should be considered (see sections 4.2, 4.3 and 5.2).
+Bortezomib is metabolized by liver enzymes.
+Bortezomib exposure is increased in patients with moderate or severe hepatic impairment; these patients should be treated with VELCADE at reduced doses and closely monitored for toxicities (see sections 4.2 and 5.2).
 
 Hepatic reactions
 Rare cases of hepatic failure have been reported in patients receiving multiple concomitant medications and with serious underlying medical conditions.
@@ -95,14 +97,11 @@ Patients should be closely monitored when given bortezomib in combination with p
 Caution should be exercised when bortezomib is combined with CYP3A4- or CYP2C19 substrates (see section 4.5).
 
 Normal liver function should be confirmed and caution should be exercised in patients receiving oral hypoglycemics (see section 4.5).
-
 Potentially immunocomplex-mediated reactions
 Potentially immunocomplex-mediated reactions, such as serum-sickness-type reaction, polyarthritis with rash and proliferative glomerulonephritis have been reported uncommonly.
 Bortezomib should be discontinued if serious reactions occur.
 
 [VELCADE 3.5 mg powder for solution for injection]
-
-Cases of ileus have been uncommonly reported (see section 4.8), therefore patients who experience constipation should be closely monitored.
 
 RPLS is a rare, reversible, rapidly evolving neurological condition which can present with seizure, hypertension, headache, lethargy, confusion, blindness, and other visual and neurological disturbances.
 

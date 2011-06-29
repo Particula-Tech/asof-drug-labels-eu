@@ -8,7 +8,6 @@ The mean distribution volume (Vd) of bortezomib ranged from 1659 l to 3294 l fol
 This suggests that bortezomib distributes widely to peripheral tissues.
 Over a bortezomib concentration range of 0.01 to 1.0 μg/ml, the in vitro protein binding averaged 82.9% in human plasma.
 The fraction of bortezomib bound to plasma proteins was not concentration- dependent.
-
 Metabolism
 In vitro studies with human liver microsomes and human cDNA-expressed cytochrome P450 isozymes indicate that bortezomib is primarily oxidatively metabolized via cytochrome P450 enzymes, 3A4, 2C19, and 1A2.
 The major metabolic pathway is deboronation to form two deboronated metabolites that subsequently undergo hydroxylation to several metabolites.
@@ -21,8 +20,11 @@ Mean total body clearances were 102 and 112 l/h following the first dose for dos
 
 Special populations
 Hepatic impairment
-Formal studies in patients with severely impaired hepatic function have not been conducted to date (see section 4.4).
-In the absence of data VELCADE is contraindicated in patients with severe liver impairment (see section 4.3).
+The effect of hepatic impairment on the pharmacokinetics of bortezomib was assessed in a phase I study during the first treatment cycle, including 61 patients primarily with solid tumors and varying degrees of hepatic impairment at bortezomib doses ranging from 0.5 to 1.3 mg/m2.
+
+When compared to patients with normal hepatic function, mild hepatic impairment did not alter dose-normalized bortezomib AUC.
+However, the dose-normalized mean AUC values were increased by approximately 60% in patients with moderate or severe hepatic impairment.
+A lower starting dose is recommended in patients with moderate or severe hepatic impairment, and those patients should be closely monitored (see section 4.2 Table 2).
 
 Renal impairment
 A pharmacokinetic study was conducted in patients with various degrees of renal impairment who were classified according to their creatinine clearance values (CrCL) into the following groups: Normal (CrCL ≥ 60 ml/min/1.73 m2, n=12), Mild (CrCL = 40-59 ml/min/1.73 m2, n = 10), Moderate (CrCL = 20-39 ml/min/1.73 m2, n = 9), and Severe (CrCL < 20 ml/min/1.73 m2, n = 3).

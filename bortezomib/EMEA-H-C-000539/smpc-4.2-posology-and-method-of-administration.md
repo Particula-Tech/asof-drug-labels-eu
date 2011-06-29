@@ -10,15 +10,16 @@ At least 72 hours should elapse between consecutive doses of VELCADE.
 It is recommended that patients with a confirmed complete response receive 2 additional cycles of VELCADE beyond a confirmation.
 It is also recommended that responding patients who do not achieve a complete remission receive a total of 8 cycles of VELCADE therapy.
 Currently there are limited data concerning re-treatment with VELCADE.
+
 Dose adjustments during treatment and re-initiation of treatment for monotherapy
 VELCADE treatment must be withheld at the onset of any Grade 3 non-haematological or any
 Grade 4 haematological toxicities, excluding neuropathy as discussed below (see also section 4.4).
 Once the symptoms of the toxicity have resolved, VELCADE treatment may be re-initiated at a 25% reduced dose (1.3 mg/m2 reduced to 1.0 mg/m2; 1.0 mg/m2 reduced to 0.7 mg/m2).
 If the toxicity is not resolved or if it recurs at the lowest dose, discontinuation of VELCADE must be considered unless the benefit of treatment clearly outweighs the risk.
-
 Neuropathic pain and/or peripheral neuropathy
 Patients who experience bortezomib-related neuropathic pain and/or peripheral neuropathy are to be managed as presented in Table 1 (see section 4.4).
 Patients with pre-existing severe neuropathy may be treated with VELCADE only after careful risk/benefit assessment.
+
 Table 1: Recommended* posology modifications for bortezomib-related neuropathy.
 
 | Severity of neuropathy | Posology modification |
@@ -32,9 +33,22 @@ Table 1: Recommended* posology modifications for bortezomib-related neuropathy.
 
 Special populations
 Hepatic impairment
-VELCADE has not been studied in patients with impaired hepatic function.
-Significant hepatic impairment may have an impact on the elimination of bortezomib and may increase the likelihood of interactions with other active substances.
-Patients with impaired liver function should be treated with extreme caution and a dose reduction should be considered (see sections 4.3 and 4.4).
+Patients with mild hepatic impairment do not require a dose adjustment and should be treated per the recommended dose.
+Patients with moderate or severe hepatic impairment should be started on VELCADE at a reduced dose of 0.7 mg/m2 per injection during the first treatment cycle, and a subsequent dose escalation to 1.0 mg/m2 or further dose reduction to 0.5 mg/m2 may be considered based on patient tolerability.
+(see Table 2, sections 4.4 and 5.2).
+
+Table 2: Recommended Starting Dose Modification for VELCADE in Patients with Hepatic Impairment
+
+| Grade of hepatic impairment* | Bilirubin Level | SGOT (AST) Levels | Modification of Starting Dose |
+| --- | --- | --- | --- |
+| Mild | ≤1.0x ULN | > ULN | None |
+|  | > 1.0x−1.5x ULN | Any | None |
+| Moderate | > 1.5x−3x ULN | Any | Reduce VELCADE to 0.7 mg/m2 in the first treatment cycle. Consider dose escalation to 1.0 mg/m2 or further dose reduction to 0.5 mg/m2 in subsequent cycles based on patient tolerability. |
+| Severe | > 3x ULN | Any |  |
+
+Abbreviations: SGOT = serum glutamic oxaloacetic transaminase;
+AST = aspartate aminotransferase; ULN = upper limit of the normal range.
+*Based on NCI Organ Dysfunction Working Group classification for categorising hepatic impairment (mild, moderate, severe).
 
 Renal impairment
 The pharmacokinetics of bortezomib are not influenced in patients with mild to moderate renal impairment (Creatinine Clearance (CrCL) > 20 ml/min/1.73 m2); therefore, dose adjustments are not necessary for these patients.
@@ -48,12 +62,12 @@ Paediatric population
 The safety and efficacy of VELCADE in children below age 18 have not yet been established (see sections 5.1 and 5.2).
 
 Posology for combination therapy
-VELCADE (bortezomib) is administered in combination with oral melphalan and oral prednisone for nine 6-week treatment cycles as shown in Table 2.
+VELCADE (bortezomib) is administered in combination with oral melphalan and oral prednisone for nine 6-week treatment cycles as shown in Table 3.
 In Cycles 1-4, VELCADE is administered twice weekly (days 1, 4, 8, 11, 22, 25, 29 and 32).
 In Cycles 5-9, VELCADE is administered once weekly (days 1, 8, 22 and 29).
 Melphalan and prednisone should both be given orally on days 1, 2, 3 and 4 of the first week of each cycle.
 
-Table 2: Recommended posology for VELCADE in combination with melphalan and prednisone for patients with previously untreated multiple myeloma
+Table 3: Recommended posology for VELCADE in combination with melphalan and prednisone for patients with previously untreated multiple myeloma
 Twice weekly VELCADE (cycles 1-4)
 
 | Week | 1 | 2 | 3 | 4 | 5 | 6 |
@@ -76,7 +90,7 @@ Prior to initiating a new cycle of therapy:
 - Platelet counts should be ≥ 70 x 109/l and the absolute neutrophils count should be ≥ 1.0 x 109/l
 - Non-haematological toxicities should have resolved to Grade 1 or baseline
 
-Table 3: Posology modifications during subsequent cycles:
+Table 4: Posology modifications during subsequent cycles:
 
 | Toxicity | Posology modification or delay |
 | --- | --- |
@@ -86,12 +100,22 @@ Table 3: Posology modifications during subsequent cycles:
 | Grade ≥ 3 non-haematological toxicities | VELCADE therapy should be withheld until symptoms of the toxicity have resolved to Grade 1 or baseline. Then, VELCADE may be reinitiated with one dose level reduction (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). For VELCADE-related neuropathic pain and/or peripheral neuropathy, hold and/or modify VELCADE as outlined in Table 1. |
 
 For additional information concerning melphalan and prednisone, see the corresponding Summary of Product Characteristics.
+
 Method of administration
 The reconstituted solution is administered as a 3-5 second bolus intravenous injection through a peripheral or central intravenous catheter followed by a flush with sodium chloride 9 mg/ml (0.9%) solution for injection.
 
 [VELCADE 3.5 mg powder for solution for injection]
 
+| Grade of hepatic impairment* | Bilirubin Level | SGOT (AST) Levels | Modification of Starting Dose |
+| --- | --- | --- | --- |
+| Mild | ≤ 1.0x ULN | > ULN | None |
+|  | > 1.0x−1.5x ULN | Any | None |
+| Moderate | > 1.5x−3x ULN | Any | Reduce VELCADE to 0.7 mg/m2 in the first treatment cycle. Consider dose escalation to 1.0 mg/m2 or further dose reduction to 0.5 mg/m2 in subsequent cycles based on patient tolerability. |
+| Severe | > 3x ULN | Any |  |
+
 It is unknown if the pharmacokinetics of bortezomib are influenced in patients with severe renal impairment not undergoing dialysis (CrCL < 20 ml/min/1.73 m2).
+
+Table3: Recommended Posology for VELCADE in combination with melphalan and prednisone for patients with previously untreated multiple myeloma
 
 | Week | 1 | 2 | 3 | 4 | 5 | 6 |
 | --- | --- | --- | --- | --- | --- | --- |
