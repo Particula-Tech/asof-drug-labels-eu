@@ -4,6 +4,7 @@ Treatment with Siklos requires close clinical monitoring.
 The haematological status of the patient, as well as renal and hepatic functions should be determined prior to, and repeatedly during treatment.
 During treatment with Siklos, blood counts must be monitored every two weeks at treatment initiation (i.e. for the first two months) and if the daily dose of hydroxycarbamide is up to 35 mg/kg b.w.
 Patients who are stable on lower doses should be monitored every 2 months.
+
 Treatment with Siklos should be discontinued if bone marrow function is markedly depressed.
 Neutropenia is generally the first and most common manifestation of haematological suppression.
 Thrombocytopenia and anaemia occur less frequently, and are rarely seen without a preceding neutropenia.
