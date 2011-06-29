@@ -27,6 +27,7 @@ Bevacizumab clearance was approximately 30% faster in patients with low levels o
 Pharmacokinetics in special populations
 The population pharmacokinetics were analysed to evaluate the effects of demographic characteristics.
 The results showed no significant difference in the pharmacokinetics of bevacizumab in relation to age.
+
 Renal impairment: No trials have been conducted to investigate the pharmacokinetics of bevacizumab in renally impaired patients since the kidneys are not a major organ for bevacizumab metabolism or excretion.
 
 Hepatic impairment: No trials have been conducted to investigate the pharmacokinetics of bevacizumab in patients with hepatic impairment since the liver is not a major organ for bevacizumab metabolism or excretion.

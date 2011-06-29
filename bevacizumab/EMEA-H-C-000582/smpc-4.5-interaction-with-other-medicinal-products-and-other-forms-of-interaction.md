@@ -10,7 +10,6 @@ Results from a dedicated drug-drug interaction trial demonstrated no significant
 Results from one trial in metastatic colorectal cancer patients demonstrated no significant effect of bevacizumab on the pharmacokinetics of capecitabine and its metabolites, and on the pharmacokinetics of oxaliplatin, as determined by measurement of free and total platinum.
 
 Results from one trial in renal cancer patients demonstrated no significant effect of bevacizumab on the pharmacokinetics of interferon alfa-2a.
-
 The potential effect of bevacizumab on the pharmacokinetics of cisplatin and gemcitabine was investigated in non-squamous NSCLC patients.
 Trial results demonstrated no significant effect of bevacizumab on the pharmacokinetics of cisplatin.
 Due to high inter-patient variability and limited sampling, the results from that trial do not allow firm conclusions to be drawn on the impact of bevacizumab on gemcitabine pharmacokinetics.

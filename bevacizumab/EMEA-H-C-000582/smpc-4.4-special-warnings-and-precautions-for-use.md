@@ -70,10 +70,14 @@ Patients with recent pulmonary haemorrhage/ haemoptysis (> 2.5 ml of red blood) 
 
 Congestive heart failure (CHF) (see section 4.8)
 Events consistent with CHF were reported in clinical trials.
-The symptoms ranged from asymptomatic declines in left ventricular ejection fraction to symptomatic CHF, requiring treatment or hospitalisation.
-Most of the patients who experienced CHF had metastatic breast cancer and had received previous treatment with anthracyclines, prior radiotherapy to the left chest wall or other risk factors for CHF, such as pre-existing coronary heart disease or concomitant cardiotoxic therapy.
+The findings ranged from asymptomatic declines in left ventricular ejection fraction to symptomatic CHF, requiring treatment or hospitalisation.
+Caution should be exercised when treating patients with clinically significant cardiovascular disease such as pre-existing coronary artery disease, or congestive heart failure with Avastin.
 
-Caution should be exercised when treating patients with clinically significant cardiovascular disease or pre-existing congestive heart failure with Avastin.
+Most of the patients who experienced CHF had metastatic breast cancer and had received previous treatment with anthracyclines, prior radiotherapy to the left chest wall or other risk factors for CHF were present.
+
+In patients in AVF3694g who received treatment with anthracyclines and who had not received anthracyclines before, no increased incidence of all grade CHF was observed in the anthracycline + bevacizumab group compared to the treatment with anthracyclines only.
+CHF grade 3 or higher events were somewhat more frequent among patients receiving bevacizumab in combination with chemotherapy than in patients receiving chemotherapy alone.
+This is consistent with results in patients in other studies of metastatic breast cancer who did not receive concurrent anthracycline treatment (see section 4.8).
 
 Neutropenia and infections (see section 4.8)
 Increased rates of severe neutropenia, febrile neutropenia, or infection with or without severe neutropenia (including some fatalities) have been observed in patients treated with some myelotoxic chemotherapy regimens plus Avastin in comparison to chemotherapy alone.

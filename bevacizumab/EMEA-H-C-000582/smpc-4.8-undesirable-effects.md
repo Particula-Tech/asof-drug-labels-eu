@@ -9,6 +9,7 @@ The most serious adverse reactions were:
 - Arterial thromboembolism (see section 4.4).
 
 The most frequently observed adverse reactions across clinical trials in patients receiving Avastin were hypertension, fatigue or asthenia, diarrhoea and abdominal pain.
+
 Analyses of the clinical safety data suggest that the occurrence of hypertension and proteinuria with Avastin therapy are likely to be dose-dependent.
 
 Table 1 lists adverse reactions associated with the use of Avastin in combination with different chemotherapy regimens in multiple indications.
@@ -29,10 +30,10 @@ Table 1 Very common and common adverse reactions
 | Metabolism and nutrition disorders |  | Dehydration | Anorexia |
 | Nervous system disorders | Peripheral sensory neuropathy | Cerebrovascular accident Syncope Somnolence Headache | Dysgeusia Headache |
 | Eye disorders |  |  | Eye disorder Lacrimation increased |
+|  | Very common | Common | Very common |
 | Cardiac disorders |  | Cardiac failure congestive Supraventricular tachycardia |  |
 | Vascular disorders | Hypertension | Thromboembolism (arterial)* Deep vein thrombosis Haemorrhage | Hypertension |
 | Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism Dyspnoea Hypoxia Epistaxis | Dyspnoea Epistaxis Rhinitis |
-|  | Very common | Common | Very common |
 | Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal Perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder Stomatitis | Constipation Stomatitis Rectal haemorrhage |
 | Skin and subcutaneous tissue disorders |  | Palmar-plantar erythrodysaesthesia syndrome | Exfoliative dermatitis Dry skin Skin discolouration |
 | Musculoskeletal, connective tissue and bone disorders |  | Muscular weakness Myalgia | Arthralgia |
@@ -52,13 +53,13 @@ Fatal outcome was reported in approximately a third of serious cases of gastroin
 
 The presentation of these events varied in type and severity, ranging from free air seen on the plain abdominal X-ray, which resolved without treatment, to intestinal perforation with abdominal abscess and fatal outcome.
 In some cases underlying intra-abdominal inflammation was present, either from gastric ulcer disease, tumour necrosis, diverticulitis, or chemotherapy-associated colitis.
-
 Fistulae (see section 4.4)
 Avastin use has been associated with serious cases of fistulae including events resulting in death.
 
 In clinical trials, gastrointestinal fistulae have been reported with an incidence of up to 2% in patients with metastatic colorectal cancer, but were also reported less commonly in patients with other types of cancers.
 Uncommon (≥ 0.1% to < 1%) reports of other types of fistulae that involve areas of the body other than the gastrointestinal tract (e.g. bronchopleural, urogenital and biliary fistulae) were observed across various indications.
 Fistulae have also been reported in post-marketing experience.
+
 Events were reported at various time points during treatment ranging from one week to greater than 1 year from initiation of Avastin, with most events occurring within the first 6 months of therapy.
 
 Wound healing (see section 4.4)
@@ -91,11 +92,11 @@ Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of treated patie
 The proteinuria seen in clinical trials was not associated with renal dysfunction and rarely required permanent discontinuation of therapy.
 Testing for proteinuria is recommended prior to start of Avastin therapy.
 In most clinical trials urine protein levels of ≥ 2g/24 hrs led to the holding of Avastin until recovery to < 2g/24 hrs.
-
 Haemorrhage (see section 4.4)
 In clinical trials across all indications the overall incidence of NCI-CTC Grade 3-5 bleeding events ranged from 0.4% to 5% in Avastin treated patients, compared with up to 2.9% of patients in the chemotherapy control group.
 
 The haemorrhagic events that have been observed in clinical trials were predominantly tumour-associated haemorrhage (see below) and minor mucocutaneous haemorrhage (e.g. epistaxis).
+
 Tumour-associated haemorrhage (see section 4.4)
 Major or massive pulmonary haemorrhage/haemoptysis has been observed primarily in trials in patients with non-small cell lung cancer (NSCLC).
 Possible risk factors include squamous cell histology, treatment with antirheumatic/anti-inflammatory substances, treatment with anticoagulants, prior radiotherapy, Avastin therapy, previous medical history of atherosclerosis, central tumour location and cavitation of tumours prior to or during therapy.
@@ -128,6 +129,7 @@ In clinical trials, the overall incidence of arterial thromboembolic events rang
 Fatal outcome was reported in 0.8% of patients receiving Avastin compared to 0.5% in patients receiving chemotherapy alone.
 Cerebrovascular accidents (including transient ischemic attacks) were reported in up to 2.3% of patients treated with Avastin in combination with chemotherapy compared to 0.5% of patients treated with chemotherapy alone.
 Myocardial infarction was reported in 1.4% of patients treated with Avastin in combination with chemotherapy compared to 0.7% of patients treated with chemotherapy alone.
+
 In one clinical trial evaluating Avastin in combination with 5-fluorouracil/folinic acid, AVF2192g, patients with metastatic colorectal cancer who were not candidates for treatment with irinotecan were included.
 In this trial arterial thromboembolic events were observed in 11% (11/100) of patients compared to 5.8% (6/104) in the chemotherapy control group.
 
@@ -142,9 +144,11 @@ Patients who have experienced a venous thromboembolic event may be at higher ris
 
 Congestive heart failure (CHF)
 In clinical trials with Avastin, congestive heart failure (CHF) was observed in all cancer indications studied to date, but occurred predominantly in patients with metastatic breast cancer.
-In two phase III trials (AVF2119g and E2100) in patients with metastatic breast cancer an increase of CHF Grade 3 or more with Avastin was seen.
-CHF was reported in up to 3.5% of patients treated with Avastin compared with up to 0.9% in the control arms.
-Most of these patients showed improved symptoms and/or left ventricular function following appropriate medical therapy.
+In four phase III trials (AVF2119g, E2100, BO17708 and AVF3694g) in patients with metastatic breast cancer CHF Grade 3 or higher was reported in up to 3.5% of patients treated with Avastin in combination with chemotherapy compared with up to 0.9% in the control arms.
+For patients in study AVF3694g who received anthracyclines concomitantly with bevacizumab, the incidences of grade 3 or higher CHF for the respective bevacizumab and control arms were similar to those in the other studies in metastatic breast cancer: 2.9% in the anthracycline + bevacizumab arm and 0% in the anthracycline + placebo arm.
+In addition, in study AVF3694g the incidences of all grade CHF were similar between the anthracycline + Avastin (6.2%) and the anthracycline + placebo arms (6.0%).
+
+Most patients who developed CHF during mBC trials showed improved symptoms and/or left ventricular function following appropriate medical therapy.
 
 In most clinical trials of Avastin, patients with pre-existing CHF of NYHA (New York Heart Association) II-IV were excluded, therefore, no information is available on the risk of CHF in this population.
 
@@ -152,7 +156,6 @@ Prior anthracyclines exposure and/or prior radiation to the chest wall may be po
 
 Hypersensitivity reactions/infusion reactions (see section 4.4 and Post-marketing experience below) In some clinical trials anaphylactic and anaphylactoid-type reactions were reported more frequently in patients receiving Avastin in combination with chemotherapy than with chemotherapy alone.
 The incidence of these reactions in some clinical trials of Avastin is common (up to 5% in bevacizumab-treated patients).
-
 Elderly patients
 In randomised clinical trials, age > 65 years was associated with an increased risk of developing arterial thromboembolic events, including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs).
 Other reactions with a higher frequency seen in patients over 65 were grade 3-4 leucopenia and thrombocytopenia; and all grade neutropenia, diarrhoea, nausea, headache and fatigue as compared to those aged ≤ 65 years when treated with Avastin (see sections 4.4 and 4.8 under Thromboembolism).
@@ -161,6 +164,7 @@ No increase in the incidence of other reactions, including gastrointestinal perf
 
 Paediatric population
 The safety of Avastin in children and adolescents has not been established.
+
 Laboratory abnormalities
 Decreased neutrophil count, decreased white blood cell count and presence of urine protein may be associated with Avastin treatment.
 
@@ -177,6 +181,11 @@ Table 2 Adverse reactions reported in post-marketing setting
 | Respiratory, thoracic and mediastinal disorders | Nasal septum perforation (not known) Pulmonary hypertension (not known) Dysphonia (common) |
 | Gastrointestinal disorders | Gastrointestinal ulcer (not known) |
 | Immune system disorders | Hypersensitivity reactions and infusion reactions (not known); with the following possible co-manifestations: dyspnoea/difficulty breathing, flushing/redness/rash, hypotension or hypertension, oxygen desaturation, chest pain, rigors and nausea/vomiting (see also section 4.4 and Hypersensitivity reactions/infusion reactions above) |
-| Osteonecrosis of the jaw | Cases of osteonecrosis of the jaw (ONJ) have been reported in patients treated with Avastin, most of which occurred in patients who had identified risk factors for ONJ, in particular exposure to i.v. bisphosphonates and/or a history of dental disease requiring invasive dental procedures (see also section 4.4) |
+| Osteonecrosis of the | Cases of osteonecrosis of the jaw (ONJ) have been reported in patients |
+
+jaw treated with Avastin, most of which occurred in patients who had
+identified risk factors for ONJ, in particular exposure to i.v.
+bisphosphonates and/or a history of dental disease requiring invasive
+dental procedures (see also section 4.4)
 
 * if specified, the frequency has been derived from clinical trial data

@@ -6,10 +6,10 @@ It is recommended that treatment be continued until progression of the underlyin
 
 Dose reduction for adverse events is not recommended.
 If indicated, therapy should either be permanently discontinued or temporarily suspended as described in section 4.4.
-
 Metastatic carcinoma of the colon or rectum (mCRC)
 
 The recommended dose of Avastin, administered as an intravenous infusion, is either 5 mg/kg or 10 mg/kg of body weight given once every 2 weeks or 7.5 mg/kg or 15 mg/kg of body weight given once every 3 weeks.
+
 Metastatic breast cancer (mBC)
 
 The recommended dose of Avastin is 10 mg/kg of body weight given once every 2 weeks or 15 mg/kg of body weight given once every 3 weeks as an intravenous infusion.
