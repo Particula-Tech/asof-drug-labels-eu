@@ -34,7 +34,8 @@ Preparation and administration of Keppra concentrate
 
 This medicinal product is for single use only, any unused solution should be discarded.
 
-Keppra concentrate was found to be physically compatible and chemically stable when mixed with the following diluents for at least 24 hours and stored in PVC bags at controlled room temperature 15-25°C.
+Keppra concentrate was found to be physically compatible and chemically stable when mixed with the following diluents for at least 24 hours and stored in PVC bags at controlled room temperature 15-25 °C.
+
 Diluents:
 
 - Sodium chloride (0.9%) injection

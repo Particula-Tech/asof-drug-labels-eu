@@ -3,7 +3,7 @@
 Discontinuation
 In accordance with current clinical practice, if Keppra has to be discontinued it is recommended to withdraw it gradually (e.g. in adults and adolescents weighing more than 50 kg: 500 mg decreases twice daily every two to four weeks; in infants older than 6 months, children and adolescents weighting less than 50 kg: dose decrease should not exceed 10 mg/kg twice daily every two weeks; in infants (less than 6 months): dose decrease should not exceed 7 mg/kg twice daily every two weeks).
 
-Renal insuffiency
+Renal insufficiency
 The administration of Keppra to patients with renal impairment may require dose adjustment.
 In patients with severely impaired hepatic function, assessment of renal function is recommended before dose selection (see section 4.2).
 
@@ -16,7 +16,8 @@ Therefore, patients should be monitored for signs of depression and/or suicidal 
 Patients (and caregivers of patients) should be advised to seek medical advice should signs of depression and/or suicidal ideation or behaviour emerge.
 
 Paediatric population
-The tablet formulation is not adapted for use in infants under the age of 6 months.
+The tablet formulation is not adapted for use in infants and children under the age of 6 years.
+
 Available data in children did not suggest impact on growth and puberty.
 However, long term effects on learning, intelligence, growth, endocrine function, puberty and childbearing potential in children remain unknown.
 
@@ -25,7 +26,7 @@ Only 35 infants aged less than 1 year with partial onset seizures have been expo
 
 [Keppra 500 mg film-coated tablets]
 
-Renal insufficiency
+(all sentences already above)
 
 [Keppra 750 mg film-coated tablets]
 

@@ -14,12 +14,12 @@ A study conducted in adults and adolescents with myoclonic seizures (12 to 65 ye
 The most commonly reported adverse reactions were headache and somnolence.
 The incidence of adverse reactions in patients with myoclonic seizures was lower than that in adult patients with partial onset seizures
 (33.3 % versus 46.4 %).
-
 A study conducted in adults and children (4 to 65 years) with idiopathic generalised epilepsy with primary generalised tonic-clonic seizures showed that 39.2 % of the patients in the Keppra group and 29.8 % of the patients in the placebo group experienced adverse reactions that were judged to be related to treatment.
 The most commonly reported adverse reaction was fatigue.
 
 An increase in seizure frequency of more than 25 % was reported in 14 % of levetiracetam treated adult and paediatric patients (4 to 16 years of age) with partial onset seizures, whereas it was reported in 26 % and 21 % of placebo treated adult and paediatric patients, respectively.
 When Keppra was used to treat primary generalised tonic-clonic seizures in adults and adolescents with idiopathic generalised epilepsy, there was no effect on the frequency of absences.
+
 Tabulated list of adverse reactions
 
 Adverse reactions reported in clinical studies (adults, adolescents, children and infants > 1 month) and from post-marketing experience are listed in the following table per System Organ Class and per frequency.
@@ -49,7 +49,7 @@ Not known: abnormal behaviour, anger, anxiety, confusion, hallucination, psychot
 
 Very common: somnolence
 Common: amnesia, ataxia, convulsion, dizziness, headache, hyperkinesia, tremor, balance disorder, disturbance in attention, memory impairment.
-Not known: paraesthesia
+Not known: paraesthesia, choreoathetosis, dyskinesia
 
 - Eye disorders
 
@@ -99,7 +99,7 @@ Paediatric population
 A study conducted in paediatric patients (4 to 16 years) with partial onset seizures showed that 55.4 % of the patients in the Keppra group and 40.2 % of the patients in the placebo group experienced adverse reactions.
 Serious adverse reactions were experienced in none of the patients in the Keppra group and 1.0 % of the patients in the placebo group.
 The most commonly reported adverse reactions were somnolence, hostility, nervousness, emotional lability, agitation, anorexia, asthenia and headache in the paediatric population.
-Safety results in paediatric patients were consistent with the safety profile of levetiracetam in adults except for behavioural and psychiatric adverse reaction which were more common in children than in adults (38.6 % versus 18.6 %).
+Safety results in paediatric patients were consistent with the safety profile of levetiracetam in adults except for behavioural and psychiatric adverse reactions which were more common in children than in adults (38.6 % versus 18.6 %).
 However, the relative risk was similar in children as compared to adults.
 
 A study conducted in paediatric patients (1 month to less than 4 years) with partial onset seizures showed that 21.7 % of the patients in the Keppra group and 7.1 % of the patients in the placebo group experienced adverse reactions.
@@ -109,34 +109,20 @@ Safety results in paediatric patients were consistent with the safety profile of
 
 A double-blind, placebo-controlled paediatric safety study with a non-inferiority design has assessed the cognitive and neuropsychological effects of Keppra in children 4 to 16 years of age with partial onset seizures.
 It was concluded that Keppra was not different (non inferior) from placebo with regard to the change from baseline of the Leiter-R Attention and Memory, Memory Screen Composite score in the per-protocol population.
-Results related to behavioral and emotional functioning indicated a worsening in Keppra treated patients on aggressive behavior as measured in a standardised and systematic way using a validated instrument (CBCL – Achenbach Child Behavior Checklist).
-However subjects, who took Keppra in the long-term open label follow-up study, did not experience a worsening, on average, in their behavioural and emotional functioning; in particular measures of aggressive behavior were not worse than baseline.
+Results related to behavioural and emotional functioning indicated a worsening in Keppra treated patients on aggressive behaviour as measured in a standardised and systematic way using a validated instrument (CBCL – Achenbach Child Behavior Checklist).
+However subjects, who took Keppra in the long-term open label follow-up study, did not experience a worsening, on average, in their behavioural and emotional functioning; in particular measures of aggressive behaviour were not worse than baseline.
 
 [Keppra 500 mg film-coated tablets]
 
-Adverse reactions reported in clinical studies (adults, adolescents, children and infants> 1 month) and from post-marketing experience are listed in the following table per System Organ Class and per frequency.
-
 Common: agitation, depression, emotional lability /mood swings, hostility/aggression, insomnia, nervousness/irritability, personality disorders, thinking abnormal
 
-Safety results in paediatric patients were consistent with the safety profile of levetiracetam in adults except for behavioural and psychiatric adverse reactions which were more common in children than in adults (38.6 % versus 18.6 %).
-
-A study conducted in paediatric patients (1 month to less than 4 years) with partial onset seizures showed that 21.7 % of the patients in the Keppra group and 7.1 % of the patients in the placebo group experienced adverse reactionsundesirable effects.
-
 [Keppra 750 mg film-coated tablets]
-
-Tabulated lis of adverse reactions
-
-In several cases of alopecia, recovery was observed when levetiracetm was discontinued.
-
-The most commonly reported adverser reactions were somnolence, hostility, nervousness, emotional lability, agitation, anorexia, asthenia and headache in the paediatric population.
 
 No serious undesirable effects were experienced in patients in the Keppra or placebo group.
 
 [Keppra 1000 mg film-coated tablets]
 
-A study conducted in adults and adolescents with myoclonic seizures (12 to 65 years) showed that 33.3 % of the patients in the Keppra group and 30.0 % of the patients in the placebo group experienced adverse reactionss that were judged to be related to treatment.
-
-For clinical trials, the frequency is defined as follows: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000to <1/1,000); very rare (<1/10,000), not known (cannot be estimated from the available data).
+(all sentences already above)
 
 [Keppra 100 mg/ml oral solution]
 
@@ -148,9 +134,4 @@ Adverse reactions that resulted from Keppra intravenous use are similar to those
 The most frequently reported adverse reactions were dizziness, somnolence, headache and postural dizziness.
 Since there was limited exposure for Keppra intravenous use and since oral and intravenous formulations are bioequivalent, the safety information of Keppra intravenous will rely on Keppra oral use.
 
-A study conducted in adults and children (4 to 65 years) with idiopathic generalised epilepsy with primary generalised tonic-clonic seizures showed that 39.2 % of the patients in the Keppra group and 29.8 % of the patients in the placebo group experienced undesirable effects that were judged to be related to treatment.
-
-Tabulated tlist of adverse reactions
-Advers reactions reported in clinical studies (adults, adolescents and children) and from post-marketing experience are listed in the following table per System Organ Class and per frequency.
-
-Results related to behavioral and emotional functioning indicated a worsening in Keppra treated patients on aggressive behavior as measured in a standardized and systematic way using a validated instrument (CBCL – Achenbach Child Behavior Checklist).
+Adverse reactions reported in clinical studies (adults, adolescents and children) and from post-marketing experience are listed in the following table per System Organ Class and per frequency.

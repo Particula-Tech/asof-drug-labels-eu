@@ -23,7 +23,7 @@ In man, an activity in both partial and generalised epilepsy conditions (epilept
 
 Clinical efficacy and safety
 
-Adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults, adolescents, children and infants from 1 month of age with epilepsy:
+Adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults, adolescents, children and infants from 1 month of age with epilepsy.
 
 In adults, levetiracetam efficacy has been demonstrated in 3 double-blind, placebo-controlled studies at 1000 mg, 2000 mg, or 3000 mg/day, given in 2 divided doses, with a treatment duration of up to 18 weeks.
 In a pooled analysis, the percentage of patients who achieved 50 % or greater reduction from baseline in the partial onset seizure frequency per week at stable dose (12/14 weeks) was of 27.7 %, 31.6 % and 41.3 % for patients on 1000, 2000 or 3000 mg levetiracetam respectively and of 12.6 % for patients on placebo.
@@ -37,7 +37,7 @@ With continued long-term treatment, 11.4 % of the patients were seizure-free for
 
 In paediatric patients (1 month to less than 4 years of age), levetiracetam efficacy was established in a double-blind, placebo-controlled study, which included 116 patients and had a treatment duration of 5 days.
 In this study, patients were prescribed 20 mg/kg, 25 mg/kg, 40 mg/kg or 50 mg/kg daily dose of oral solution based on their age titration schedule.
-A dose of 20 mg/kg/day titrating to 40 mg/kg/day for infants one month to less than six month and a dose of 25 mg/kg/day titrating to 50 mg/kg/day for infants and children 6 month to less than 4 years old, was use in this study.
+A dose of 20 mg/kg/day titrating to 40 mg/kg/day for infants one month to less than six months and a dose of 25 mg/kg/day titrating to 50 mg/kg/day for infants and children 6 months to less than 4 years old, was use in this study.
 The total daily dose was administered b.i.d.
 The primary measure of effectiveness was the responder rate (percent of patients with ≥ 50 % reduction from baseline in average daily partial onset seizure frequency) assessed by a blinded central reader using a 48-hour video EEG.
 The efficacy analysis consisted of 109 patients who had at least 24 hours of video EEG in both baseline and evaluation periods.
@@ -96,4 +96,4 @@ Six-month seizure freedom was achieved in 73.0 % of levetiracetam-treated patien
 In addition, it partially reverses the reductions in GABA- and glycine-gated currents induced by zinc and β-carbolines.
 Levetiracetam and related analogues show a rank order of affinity for binding to the synaptic vesicle protein 2A which correlates with the potency of their anti-seizure protection in the mouse audiogenic model of epilepsy.
 
-Adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults, adolescents and children from 4 years of age with epilepsy:
+Adjunctive therapy in the treatment of partial onset seizures with or without secondary generalisation in adults, adolescents and children from 4 years of age with epilepsy.

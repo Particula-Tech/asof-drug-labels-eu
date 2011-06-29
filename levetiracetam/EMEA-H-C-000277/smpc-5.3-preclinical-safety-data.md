@@ -10,7 +10,6 @@ Two embryo-fetal development (EFD) studies were performed in rats at 400, 1200 a
 At 3600 mg/kg/day, in only one of the 2 EFD studies, there was a slight decrease in fetal weight associated with a marginal increase in skeletal variations/minor anomalies.
 There was no effect on embryomortality and no increased incidence of malformations.
 The NOAEL (No Observed Adverse Effect Level) was 3600 mg/kg/day for pregnant female rats (x 12 the MRHD on a mg/m2 basis) and 1200 mg/kg/day for fetuses.
-
 Four embryo-fetal development studies were performed in rabbits covering doses of 200, 600, 800, 1200 and 1800 mg/kg/day.
 The dose level of 1800 mg/kg/day induced a marked maternal toxicity and a decrease in fetal weight associated with increased incidence of fetuses with cardiovascular/skeletal anomalies.
 The NOAEL was <200 mg/kg/day for the dams and 200 mg/kg/day for the fetuses (equal to the MRHD on a mg/m2 basis).
