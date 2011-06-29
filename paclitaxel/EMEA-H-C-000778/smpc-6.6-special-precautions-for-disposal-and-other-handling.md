@@ -9,10 +9,13 @@ If it contacts mucous membranes, the membranes should be flushed thoroughly with
 Abraxane should only be prepared and administered by personnel appropriately trained in the handling of cytotoxic agents.
 Pregnant staff should not handle Abraxane.
 
+Given the possibility of extravasation, it is advisable to closely monitor the infusion site for possible infiltration during drug administration.
+Limiting the infusion of Abraxane to 30 minutes, as directed, reduces the likelihood of infusion-related reactions.
+
 Reconstitution and administration of the product:
 
 Abraxane is supplied as a sterile lyophilised powder for reconstitution before use.
-After reconstitution, each ml of suspension contains 5 mg of paclitaxel.
+After reconstitution, each ml of suspension contains 5 mg of paclitaxel (as paclitaxel albumin).
 
 Using a sterile syringe, 20 ml of sodium chloride 9 mg/ml (0.9%) solution for infusion should slowly be injected into a vial of Abraxane over a minimum of 1 minute.
 The solution should be directed onto the inside wall of the vial.

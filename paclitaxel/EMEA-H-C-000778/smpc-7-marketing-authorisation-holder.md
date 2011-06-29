@@ -1,8 +1,9 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Celgene Europe Limited
-Riverside House
-Riverside Walk
-Windsor
-SL4 1NA
+1 Longwalk Road
+Stockley Park
+Uxbridge
+Middlesex
+UB11 1DB
 United Kingdom

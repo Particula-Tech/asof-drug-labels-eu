@@ -32,7 +32,6 @@ The formation of these hydroxylated metabolites is catalysed by CYP2C8, -3A4, an
 
 The pharmacokinetic profile of Abraxane administered as a 30 minute infusion was evaluated in 15 out of 30 patients with three levels of hepatic impairment based on serum bilirubin and liver enzyme levels.
 Figure 1 shows the correlation between paclitaxel clearance and total blood bilirubin as measured just prior to dosing.
-
 Figure 1 Correlation between paclitaxel clearance and total blood bilirubin
 
 35000
@@ -51,6 +50,7 @@ Paclitaxel clearance
 Total bilirubin (µmol/l)
 
 The effect of renal dysfunction on the disposition of paclitaxel has not been formally investigated.
+
 In patients with metastatic breast cancer, after a 30 minute infusion of Abraxane at 260 mg/m2, the mean value for cumulative urinary excretion of unchanged active substance accounted for 4% of the total administered dose with less than 1% as the metabolites 6α-hydroxypaclitaxel and 3’-p-hydroxypaclitaxel, indicating extensive non-renal clearance.
 Paclitaxel is principally eliminated by hepatic metabolism and biliary excretion.
 

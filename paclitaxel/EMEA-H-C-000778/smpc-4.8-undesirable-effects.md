@@ -50,19 +50,20 @@ Table 1: Adverse reactions reported with Abraxane at any dose in clinical studie
 | Respiratory, thoracic and mediastinal disorders | Common: Dyspnoea, epistaxis, pharyngolaryngeal pain, cough, rhinitis, rhinorrhoea Uncommon: Productive cough, exertional dyspnoea, sinus congestion, decreased breath sounds, pleural effusion, allergic rhinitis, hoarseness, nasal congestion, nasal dryness, wheezing, pulmonary emboli, pulmonary thromboembolism Rare: Interstitial pneumonitis |
 | Gastrointestinal disorders | Very Common: Nausea, diarrhoea, vomiting, constipation, stomatitis Common: Abdominal pain, abdominal distension, upper abdominal pain, dyspepsia, gastrooesophageal reflux disease, oral hypoaesthesia Uncommon: Dysphagia, flatulence, glossodynia, dry mouth, gingival pain, loose stools, oesophagitis, lower abdominal pain, mouth ulceration, oral pain, rectal haemorrhage |
 | Hepatobiliary disorders | Uncommon: Hepatomegaly |
-| Skin and subcutaneous tissue disorders | Very Common: Alopecia, rash Common: Nail disorder, pruritus, dry skin, erythema, nail pigmentation/discolouration, skin hyperpigmentation, onycholysis, nail changes Uncommon: Nail bed tenderness, urticaria, skin pain, photosensitivity reaction, pigmentation disorder, pruritic rash, skin disorder, hyperhidrosis, onychomadesis, erythematous rash, generalised rash, dermatitis, night sweats, maculo-papular rash, vitiligo, hypotrichosis, nail discomfort, generalized pruritus, macular rash, papular rash, skin lesion, swollen face |
-| Musculoskeletal and connective tissue disorders | Very Common: Arthralgia, myalgia. Common: Pain in extremity, bone pain, back pain, muscle cramps, limb pain Uncommon: Chest wall pain, muscular weakness, neck pain, groin pain, muscle spasms, musculoskeletal pain, flank pain, limb discomfort, muscle weakness |
+| Skin and subcutaneous tissue disorders | Very Common: Alopecia, rash Common: Nail disorder, pruritus, dry skin, erythema, nail pigmentation/discolouration, skin hyperpigmentation, onycholysis, nail changes Uncommon: Nail bed tenderness, urticaria, skin pain, photosensitivity reaction, pigmentation disorder, pruritic rash, skin disorder, hyperhidrosis, onychomadesis, erythematous rash, generalised rash, dermatitis, night sweats, maculo-papular rash, vitiligo, hypotrichosis, nail discomfort, generalized pruritus, macular rash, papular rash, skin lesion, swollen face Very rare: Stevens-Johnson syndrome2, toxic epidermal necrolysis2 |
 
 Table 1: Adverse reactions reported with Abraxane at any dose in clinical studies.
 
-| Renal and urinary disorders | Uncommon: Dysuria, pollakiuria, haematuria, nocturia, polyuria, urinary incontinence |
+| Musculoskeletal and connective tissue disorders | Very Common: Arthralgia, myalgia. Common: Pain in extremity, bone pain, back pain, muscle cramps, limb pain Uncommon: Chest wall pain, muscular weakness, neck pain, groin pain, muscle spasms, musculoskeletal pain, flank pain, limb discomfort, muscle weakness |
 | --- | --- |
+| Renal and urinary disorders | Uncommon: Dysuria, pollakiuria, haematuria, nocturia, polyuria, urinary incontinence |
 | Reproductive system and breast disorders | Uncommon: Breast pain |
-| General disorders and administration site conditions | Very Common: Fatigue, asthenia, pyrexia. Common: Peripheral oedema, mucosal inflammation, pain, rigors, oedema, weakness, decreased performance status, chest pain, influenza-like illness, malaise, lethargy, hyperpyrexia Uncommon: Chest discomfort, abnormal gait, swelling, injection site reaction |
+| General disorders and administration site conditions | Very Common: Fatigue, asthenia, pyrexia. Common: Peripheral oedema, mucosal inflammation, pain, rigors, oedema, weakness, decreased performance status, chest pain, influenza-like illness, malaise, lethargy, hyperpyrexia Uncommon: Chest discomfort, abnormal gait, swelling, injection site reaction Rare: Extravasation |
 | Investigations | Common: Decreased weight, increased alanine aminotransferase, increased aspartate aminotransferase, decreased haematocrit, decreased red blood cell count, increased body temperature, increased gamma-glutamyltransferase, increased blood alkaline phosphatase Uncommon: Increased blood pressure, increased weight, increased blood lactate dehydrogenase, increased blood creatinine, increased blood glucose, increased blood phosphorus, decreased blood potassium, increased bilirubin |
 | Injury, poisoning and procedural complications | Uncommon: Contusion Rare: Radiation recall phenomenon, radiation pneumonitis |
 
 1 The frequency of hypersensitivity reactions is calculated based on one definitely related case in a population of 789 patients
+2 As reported in the postmarketing surveillance of Abraxane.
 
 Post-marketing experience:
 
