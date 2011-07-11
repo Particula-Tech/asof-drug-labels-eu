@@ -23,3 +23,7 @@ Pack sizes of 1 (with or without needles), 5 (without needles) and 10 (without n
 [NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
 
 Pack sizes of 1, 5 and 10 pre-filled pens.
+
+[NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
+
+Pack sizes of 1 (with or without needles), 5 (without needles) and a multipack with 2 x 5 (without needles) pre-filled pens of 3 ml.

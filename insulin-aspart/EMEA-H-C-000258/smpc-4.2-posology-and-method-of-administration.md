@@ -86,6 +86,14 @@ NovoRapid FlexPen is colour coded and accompanied by a package leaflet with deta
 [NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
 
 Administration with InnoLet:
-NovoRapid InnoLet are pre-filled pens designed to be used with NovoFine needles.
+NovoRapid InnoLet is a pre-filled pen designed to be used with NovoFine or NovoTwist disposable needles up to a length of 8 mm.
 InnoLet delivers 1-50 units in increments of 1 unit.
+The patient should be advised not to use any counterfeit needles.
 NovoRapid InnoLet is accompanied by a package leaflet with detailed instruction for use to be followed.
+
+[NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
+
+Administration with FlexTouch:
+NovoRapid FlexTouch are pre-filled pens designed to be used with NovoFine or NovoTwist disposable needles up to a length of 8 mm.
+FlexTouch delivers 1-80 units in increments of 1 unit.
+NovoRapid FlexTouch is colour coded and accompanied by a package leaflet with detailed instruction for use to be followed.

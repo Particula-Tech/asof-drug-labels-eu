@@ -26,3 +26,7 @@ Keep the cap on FlexPen in order to protect from light.
 [NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
 
 Keep the cap on InnoLet in order to protect from light.
+
+[NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
+
+Keep the cap on FlexTouch Pen in order to protect from light.

@@ -22,3 +22,7 @@ For a full list of excipients, see section 6.1.
 [NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
 
 (all sentences already above)
+
+[NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
+
+(all sentences already above)

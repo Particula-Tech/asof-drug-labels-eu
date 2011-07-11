@@ -28,3 +28,7 @@ There are no restrictions on treatment with NovoRapid duringbreast-feeding.
 [NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
 
 (all sentences already above)
+
+[NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
+
+(all sentences already above)

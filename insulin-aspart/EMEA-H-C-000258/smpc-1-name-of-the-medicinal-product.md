@@ -17,3 +17,7 @@ NovoRapid FlexPen 100 U/ml solution for injection in pre-filled pen.
 [NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
 
 NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.
+
+[NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
+
+NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.

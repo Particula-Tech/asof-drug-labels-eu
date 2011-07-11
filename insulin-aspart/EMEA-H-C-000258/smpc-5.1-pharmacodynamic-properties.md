@@ -53,3 +53,7 @@ Insulin aspart is equipotent to soluble human insulin on a molar basis.
 [NovoRapid InnoLet 100 U/ml solution for injection in pre-filled pen.]
 
 Pharmacotherapeutic group: Insulins and analogues for injection, fast-actin: ATC code A10AB05.
+
+[NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
+
+(all sentences already above)

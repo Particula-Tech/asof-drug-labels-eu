@@ -27,3 +27,7 @@ EU/1/99/119/018
 EU/1/99/119/012
 EU/1/99/119/013
 EU/1/99/119/014
+
+[NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
+
+(all sentences already above)

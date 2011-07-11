@@ -34,3 +34,9 @@ In case of emergency in current NovoRapid users (hospitalisation or insulin pen 
 NovoRapid InnoLet is for use by one person only.
 
 In case of emergency in current NovoRapid users (hospitalisation or insulin pen malfunction), NovoRapid can be withdrawn with an U100 insulin syringe from an InnoLet.
+
+[NovoRapid FlexTouch 100 U/ml solution for injection in pre-filled pen.]
+
+NovoRapid FlexTouch is for use by one person only.
+
+In case of emergency in current NovoRapid users (hospitalisation or insulin pen malfunction), NovoRapid can be withdrawn with an U100 insulin syringe from a FlexTouch Pen.
