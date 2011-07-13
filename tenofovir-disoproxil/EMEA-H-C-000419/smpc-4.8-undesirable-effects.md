@@ -21,11 +21,9 @@ Acute exacerbation of hepatitis has been reported in patients on treatment as we
 b. Tabulated summary of adverse reactions
 Assessment of adverse reactions for tenofovir disoproxil fumarate is based on safety data from clinical studies and post-marketing experience.
 All adverse reactions are presented in Table 2.
-
 HIV-1 clinical studies: Assessment of adverse reactions from HIV-1 clinical study data is based on experience in two studies in 653 treatment-experienced patients receiving treatment with tenofovir disoproxil fumarate (n = 443) or placebo (n = 210) in combination with other antiretroviral medicinal products for 24 weeks and also in a double-blind comparative controlled study in which 600 treatment-naïve patients received treatment with tenofovir disoproxil 245 mg (as fumarate) (n = 299) or stavudine (n = 301) in combination with lamivudine and efavirenz for 144 weeks.
 
-Hepatitis B clinical studies: Assessment of adverse reactions from HBV clinical study data is primarily based on experience in two double-blind comparative controlled studies in which 641 patients with chronic hepatitis B and compensated liver disease received treatment with tenofovir disoproxil 245 mg (as fumarate) daily (n = 426) or adefovir dipivoxil 10 mg daily (n = 215) for 48 weeks.
-Continued treatment with tenofovir disoproxil fumarate for up to 144 weeks in these studies did not reveal any new adverse reactions and no change in the tolerability profile (nature or severity of adverse events).
+Hepatitis B clinical studies: Assessment of adverse reactions from HBV clinical study data is primarily based on experience in two double-blind comparative controlled studies in which 641 patients with chronic hepatitis B and compensated liver disease received treatment with tenofovir disoproxil 245 mg (as fumarate) daily (n = 426) or adefovir dipivoxil 10 mg daily (n = 215) for 48 weeks The adverse reactions observed with continued treatment for 192 weeks were consistent with the safety profile of tenofovir disoproxil fumarate.
 
 Patients with decompensated liver disease: The safety profile of tenofovir disoproxil fumarate in patients with decompensated liver disease was assessed in a double-blind active controlled study (GS-US-174-0108) in which patients received treatment with tenofovir disoproxil fumarate (n = 45) or emtricitabine plus tenofovir disoproxil fumarate (n = 45) or entecavir (n = 22) for 48 weeks.
 
@@ -100,17 +98,16 @@ The frequency of this is unknown (see section 4.4).
 
 Lactic acidosis and severe hepatomegaly with steatosis: Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues.
 Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactataemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels (see section 4.4).
-
 Hepatitis B:
 Exacerbations of hepatitis during treatment: In studies with nucleoside-naïve patients, on-treatment ALT elevations > 10 times ULN (upper limit of normal) and > 2 times baseline occurred in 2.6% of tenofovir disoproxil fumarate-treated patients.
 ALT elevations had a median time to onset of 8 weeks, resolved with continued treatment, and, in a majority of cases, were associated with a
 ≥ 2 log10 copies/ml reduction in viral load that preceded or coincided with the ALT elevation.
 Periodic monitoring of hepatic function is recommended during treatment (see section 4.4).
+
 Exacerbations of hepatitis after discontinuation of treatment: In HBV infected patients, clinical and laboratory evidence of exacerbations of hepatitis have occurred after discontinuation of HBV therapy (see section 4.4).
 
 d. Paediatric population
-Insufficient safety data are available for children below 18 years of age.
-Viread is not recommended in this population (see section 4.2).
+Assessment of adverse reactions is based on one randomised trial (study GS-US-104-0321) in 87 HIV-1 infected adolescent patients (aged 12 to < 18 years) who received treatment with tenofovir disoproxil fumarate (n = 45) or placebo (n = 42) in combination with other antiretroviral agents for 48 weeks (see section 5.1).
 
 e. Other special population(s)
 Elderly: Tenofovir disoproxil fumarate has not been studied in patients over the age of 65.
