@@ -1,0 +1,16 @@
+{
+  "active_substance": "belimumab",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002015",
+  "eu_number": "EU/1/11/700",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2011-07-13",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/benlysta",
+  "molecule": "belimumab",
+  "molecule_name": "BELIMUMAB",
+  "name": "Benlysta",
+  "register_name": "Benlysta",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h700.htm"
+}
