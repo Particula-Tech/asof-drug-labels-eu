@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group:Immunosuppressants, other immunosuppressants, ATC code: L04AX05
+Pharmacotherapeutic group: Immunosuppressants, other immunosuppressants, ATC code: L04AX05
 
 The mechanism of action of pirfenidone has not been fully established.
 However, existing data suggest that pirfenidone exerts both antifibrotic and anti-inflammatory properties in a variety of in vitro systems and animal models of pulmonary fibrosis (bleomycin- and transplant-induced fibrosis).

@@ -17,10 +17,8 @@ If a patient exhibits an aminotransferase elevation to ≤5 x ULN accompanied by
 If a patient exhibits an aminotransferase elevation to >5 x ULN, Esbriet should be discontinued and the patient should not be rechallenged.
 
 Hepatic impairment
-In subjects with moderate hepatic impairment (ie.
-Child-Pugh Class B), Esbriet exposure was increased by 60%.
-Esbriet should be used with caution in patients with pre-existing mild to moderate hepatic impairment (ie.
-Child-Pugh Class A and B) given the potential for increased Esbriet exposure.
+In subjects with moderate hepatic impairment (i.e. Child-Pugh Class B), Esbriet exposure was increased by 60%.
+Esbriet should be used with caution in patients with pre-existing mild to moderate hepatic impairment (i.e. Child-Pugh Class A and B) given the potential for increased Esbriet exposure.
 Patients should be monitored closely for signs of toxicity especially if they are concomitantly taking a known CYP1A2 inhibitor (see sections 4.5 and 5.2).
 Esbriet has not been studied in individuals with severe hepatic impairment and Esbriet should not be used in patients with severe hepatic impairment.
 

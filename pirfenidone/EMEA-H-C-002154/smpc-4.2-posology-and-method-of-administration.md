@@ -37,8 +37,7 @@ Elderly
 No dose adjustment is necessary in patients 65 years and older (see section 5.2).
 
 Hepatic impairment
-No dose adjustment is necessary in patients with mild to moderate hepatic impairment (ie.
-Child-Pugh Class A and B). However, since plasma levels of pirfenidone may be increased in some individuals with mild to moderate hepatic impairment, caution should be used with Esbriet treatment in this population.
+No dose adjustment is necessary in patients with mild to moderate hepatic impairment (i.e. Child-Pugh Class A and B). However, since plasma levels of pirfenidone may be increased in some individuals with mild to moderate hepatic impairment, caution should be used with Esbriet treatment in this population.
 Patients should be monitored closely for signs of toxicity especially if they are concomitantly taking a known CYP1A2 inhibitor (see sections 4.5 and 5.2).
 Esbriet has not been studied in patients with severe hepatic impairment or end stage liver disease, and it should not be used in patients with these conditions (see sections 4.3, 4.4 and 5.2).
 It is recommended to monitor liver function during treatment, and dose adjustments may be necessary in the event of elevations (see sections 4.4 and 5.2).
