@@ -1,0 +1,16 @@
+{
+  "active_substance": "tobramycin",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002155",
+  "eu_number": "EU/1/10/652",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2011-07-20",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tobi-podhaler",
+  "molecule": "tobramycin",
+  "molecule_name": "TOBRAMYCIN",
+  "name": "Tobi Podhaler",
+  "register_name": "TOBI Podhaler",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h652.htm"
+}
