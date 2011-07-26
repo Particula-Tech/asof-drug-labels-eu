@@ -15,7 +15,7 @@ Remicade is indicated for:
 - treatment of fistulising, active Crohn’s disease, in adult patients who have not responded despite a full and adequate course of therapy with conventional treatment (including antibiotics, drainage and immunosuppressive therapy).
 
 Paediatric Crohn’s disease:
-Remicade is indicated for treatment of severe, active Crohn’s disease, in paediatric patients aged 6 to 17 years, who have not responded to conventional therapy including a corticosteroid, an immunomodulator and primary nutrition therapy; or who are intolerant to or have contraindications for such therapies.
+Remicade is indicated for treatment of severe, active Crohn’s disease, in children and adolescents aged 6 to 17 years, who have not responded to conventional therapy including a corticosteroid, an immunomodulator and primary nutrition therapy; or who are intolerant to or have contraindications for such therapies.
 Remicade has been studied only in combination with conventional immunosuppressive therapy.
 
 Ulcerative colitis:
