@@ -57,8 +57,8 @@ If, based on clinical need, a decision to treat is nevertheless taken, the patie
 In addition, long-term safety data in children and adolescents concerning growth, maturation and cognitive and behavioural development are lacking.
 
 Haemorrhage
-There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/noradrenaline reuptake inhibitors (SNRIs).
-Caution is advised in patients taking anticoagulants and/or medicinal products known to affect platelet function, and in patients with known bleeding tendencies.
+There have been reports of bleeding abnormalities, such as ecchymoses, purpura and gastrointestinal haemorrhage with selective serotonin reuptake inhibitors (SSRIs) and serotonin/noradrenaline reuptake inhibitors (SNRIs), including duloxetine.
+Caution is advised in patients taking anticoagulants and/or medicinal products known to affect platelet function (e.g. NSAIDs or acetylsalicylic acid (ASA)), and in patients with known bleeding tendencies.
 
 Hyponatraemia
 Hyponatraemia has been reported when administering Cymbalta, including cases with serum sodium lower than 110 mmol/l.
@@ -87,7 +87,7 @@ This is most likely to occur within the first few weeks of treatment.
 In patients who develop these symptoms, increasing the dose may be detrimental.
 
 Medicinal products containing duloxetine
-Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive disorder, generalised anxiety disorder as well as stress urinary incontinence).
+Duloxetine is used under different trademarks in several indications (treatment of diabetic neuropathic pain, major depressive disorder, generalised anxiety disorder and stress urinary incontinence).
 The use of more than one of these products concomitantly should be avoided.
 
 Hepatitis/increased liver enzymes

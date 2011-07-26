@@ -11,7 +11,6 @@ Duloxetine dose-dependently increases extracellular levels of serotonin and nora
 Pharmacodynamic effects
 Duloxetine normalised pain thresholds in several preclinical models of neuropathic and inflammatory pain and attenuated pain behaviour in a model of persistent pain.
 The pain inhibitory action of duloxetine is believed to be a result of potentiation of descending inhibitory pain pathways within the central nervous system.
-
 Clinical efficacy and safety
 Major Depressive Disorder: Cymbalta was studied in a clinical programme involving 3,158 patients (1,285 patient-years of exposure) meeting DSM-IV criteria for major depression.
 The efficacy of Cymbalta at the recommended dose of 60 mg once a day was demonstrated in three out of three randomised, double-blind, placebo-controlled, fixed dose acute studies in adult outpatients with major depressive disorder.

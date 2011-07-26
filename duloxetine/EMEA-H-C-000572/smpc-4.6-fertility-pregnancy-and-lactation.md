@@ -12,6 +12,7 @@ Although no studies have investigated the association of PPHN to SNRI treatment,
 As with other serotonergic medicinal products, discontinuation symptoms may occur in the neonate after maternal duloxetine use near term.
 Discontinuation symptoms seen with duloxetine may include hypotonia, tremor, jitteriness, feeding difficulty, respiratory distress and seizures.
 The majority of cases have occurred either at birth or within a few days of birth.
+
 Cymbalta should be used in pregnancy only if the potential benefit justifies the potential risk to the foetus.
 Women should be advised to notify their physician if they become pregnant, or intend to become pregnant, during therapy.
 

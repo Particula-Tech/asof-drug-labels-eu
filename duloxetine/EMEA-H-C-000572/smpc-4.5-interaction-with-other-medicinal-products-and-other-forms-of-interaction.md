@@ -11,7 +11,7 @@ Fluvoxamine (100 mg once daily), a potent inhibitor of CYP1A2, decreased the app
 Therefore Cymbalta should not be administered in combination with potent inhibitors of CYP1A2 like fluvoxamine (see section 4.3).
 
 CNS medicinal products: The risk of using duloxetine in combination with other CNS-active medicinal products has not been systematically evaluated, except in the cases described in this section.
-Consequently, caution is advised when Cymbalta is taken in combination with other centrally acting medicinal products and substances including alcohol and sedative medicinal products (e.g. benzodiazepines, morphinomimetics, antipsychotics, phenobarbital, sedative antihistamines).
+Consequently, caution is advised when Cymbalta is taken in combination with other centrally acting medicinal products or substances, including alcohol and sedative medicinal products (e.g. benzodiazepines, morphinomimetics, antipsychotics, phenobarbital, sedative antihistamines).
 
 Serotonin syndrome: In rare cases, serotonin syndrome has been reported in patients using SSRIs (e.g. paroxetine, fluoxetine) concomitantly with serotonergic medicinal products.
 Caution is advisable if Cymbalta is used concomitantly with serotonergic antidepressants like SSRIs, tricyclics like clomipramine or amitriptyline, St John’s wort (Hypericum perforatum), venlafaxine or triptans, tramadol, pethidine and tryptophan.
