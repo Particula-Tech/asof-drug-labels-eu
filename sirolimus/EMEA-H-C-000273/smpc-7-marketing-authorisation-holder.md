@@ -1,7 +1,7 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Wyeth Europa Ltd.
-Huntercombe Lane South
-Taplow, Maidenhead
-Berkshire, SL6 0PH
+Pfizer Limited
+Ramsgate Road
+Sandwich
+Kent, CT13 9NJ
 United Kingdom

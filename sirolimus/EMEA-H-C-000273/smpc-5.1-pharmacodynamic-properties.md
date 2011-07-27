@@ -45,7 +45,7 @@ In two multi-centre clinical studies, de novo renal transplant patients treated 
 Renal function was not better in the treatment arms with de novo sirolimus without a calcineurin inhibitor.
 An abbreviated dosing schedule of daclizumab was used in one of the studies.
 
-Paediatic Ppopulation
+Paediatic population
 
 Rapamune was assessed in a 36-month controlled clinical study enrolling renal transplant patients below 18 years of age considered at high-immunologic risk, defined as having a history of one or more acute allograft rejection episodes and/or the presence of chronic allograft nephropathy on a renal biopsy.
 Subjects were to receive Rapamune (sirolimus target concentrations of 5 to 15 ng/ml) in combination with a calcineurin inhibitor and corticosteroids or to receive calcineurin-inhibitor-based immunosuppression without Rapamune.
