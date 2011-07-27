@@ -17,7 +17,7 @@ ART-experienced patients
 
 The use of 75 mg tablets to achieve the recommended dose is appropriate when there is a possibility of hypersensitivity to specific colouring agents, or difficulty in swallowing the 300 mg or 600 mg tablets.
 
-- For ART-experienced adults with no darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥ 100 cells x 106/l, a dose regimen of 800 mg once daily with ritonavir 100 mg once daily taken with food may be used (see the Summary of Product Characteristics for PREZISTA 400 mg tablets).
+- For ART-experienced adults with no darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l, a dose regimen of 800 mg once daily with ritonavir 100 mg once daily taken with food may be used (see the Summary of Product Characteristics for PREZISTA 400 mg tablets).
 
 * DRV-RAMs: V11I, V32I, L33F, I47V, I50V, I54M, I54L, T74P, L76V, I84V and L89V
 
@@ -30,9 +30,9 @@ ART-experienced paediatric patients (6 to 17 years of age and weighing at least 
 | Recommended dose for treatment-experienced paediatric patients (6 to 17 years of age) for PREZISTA tablets and ritonavir |  |
 | --- | --- |
 | Body weight (kg) | Dose |
-| ≥ 20 kg–< 30 kg | 375 mg PREZISTA/50 mg ritonavir twice daily |
-| ≥ 30 kg–< 40 kg | 450 mg PREZISTA/60 mg ritonavir twice daily |
-| ≥ 40 kg | 600 mg PREZISTA/100 mg ritonavir twice daily |
+| ≥20 kg–< 30 kg | 375 mg PREZISTA/50 mg ritonavir twice daily |
+| ≥30 kg–< 40 kg | 450 mg PREZISTA/60 mg ritonavir twice daily |
+| ≥40 kg | 600 mg PREZISTA/100 mg ritonavir twice daily |
 
 The recommended dose of PREZISTA with low dose ritonavir should not exceed the recommended adult dose (600/100 mg twice daily).
 
@@ -81,7 +81,7 @@ The recommended dose regimen is 800 mg once daily with ritonavir 100 mg once dai
 
 The recommended dose regimens are as follows:
 
-- In ART-experienced patients with no darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥ 100 cells x 106/l (see section 4.1) a regimen of 800 mg once daily with ritonavir 100 mg once daily taken with food may be used.
+- In ART-experienced patients with no darunavir resistance associated mutations (DRV-RAMs)* and who have plasma HIV-1 RNA < 100,000 copies/ml and CD4+ cell count ≥100 cells x 106/l (see section 4.1) a regimen of 800 mg once daily with ritonavir 100 mg once daily taken with food may be used.
 - In all other ART-experienced patients or if HIV-1 genotype testing is not available, the recommended dose regimen is 600 mg twice daily taken with ritonavir 100 mg twice daily taken with food.
   See the Summary of Product Characteristics for PREZISTA 75 mg, 150 mg, 300 mg or 600 mg tablets.
 
