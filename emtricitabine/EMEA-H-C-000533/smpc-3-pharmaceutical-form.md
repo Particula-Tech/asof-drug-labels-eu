@@ -2,9 +2,8 @@
 
 Hard capsule.
 
-Each capsule has a white opaque body with a light blue opaque cap.
-Each capsule is printed with
-“200 mg” on the cap and “GILEAD” and [Gilead logo] on the body in black ink.
+Each capsule has a white opaque body with a light blue opaque cap, of dimensions 19.4 mm x 6.9 mm.
+Each capsule is printed with “200 mg” on the cap and “GILEAD” and [Gilead logo] on the body in black ink.
 
 [Emtriva 10 mg/ml oral solution]
 

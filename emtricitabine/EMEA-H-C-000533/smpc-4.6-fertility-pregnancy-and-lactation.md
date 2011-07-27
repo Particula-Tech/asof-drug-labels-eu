@@ -1,13 +1,16 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
-The safety of emtricitabine in human pregnancy has not been established.
+Pregnancy
+A moderate amount of data on pregnant women (between 300-1,000 pregnancy outcomes) indicate no malformations or foetal/neonatal toxicity associated with emtricitabine.
+Animal studies do not indicate reproductive toxicity.
+The use of emtricitabine may be considered during pregnancy, if necessary.
+Breast-feeding
+Emtricitabine has been shown to be excreted in human milk.
+There is insufficient information on the effects of emtricitabine in newborns/infants.
+Therefore Emtriva should not be used during breast-feeding.
 
-Animal studies do not indicate direct or indirect harmful effects of emtricitabine with respect to pregnancy, foetal development, parturition or postnatal development (see section 5.3).
+As a general rule, it is recommended that HIV infected women do not breast-feed their infants under any circumstances in order to avoid transmission of HIV to the infant.
 
-Emtricitabine should be used during pregnancy only if necessary.
-
-Given that the potential risks to developing human foetuses are unknown, the use of emtricitabine in women of childbearing potential must be accompanied by the use of effective contraception.
-
-It is not known if emtricitabine is excreted in human milk.
-
-It is recommended that HIV infected women do not breast-feed their infants under any circumstances in order to avoid transmission of HIV.
+Fertility
+No human data on the effect of emtricitabine are available.
+Animal studies do not indicate harmful effects of emtricitabine on fertility.

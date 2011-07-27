@@ -38,7 +38,6 @@ Intracellular triphosphate levels increased with dose, but reached a plateau at 
 Adults with renal insufficiency: Pharmacokinetic parameters were determined following administration of a single dose of 200 mg emtricitabine hard capsules to 30 non-HIV infected subjects with varying degrees of renal insufficiency.
 Subjects were grouped according to baseline creatinine clearance
 (> 80 ml/min as normal function; 50-80 ml/min as mild impairment; 30-49 ml/min as moderate impairment; < 30 ml/min as severe impairment; < 15 ml/min as functionally anephric requiring haemodialysis).
-
 The systemic emtricitabine exposure (mean ± standard deviation) increased from 11.8±2.9 µg·h/ml in subjects with normal renal function to 19.9±1.1, 25.0±5.7 and 34.0±2.1 µg·h/ml, in patients with mild, moderate and severe renal impairment, respectively.
 
 In patients with ESRD on haemodialysis, approximately 30% of the emtricitabine dose was recovered in dialysate over a 3 hour dialysis period which had been started within 1.5 hours of emtricitabine dosing (blood flow rate of 400 ml/min and dialysate flow rate of approximately 600 ml/min).
@@ -47,7 +46,13 @@ Hepatic insufficiency: The pharmacokinetics of emtricitabine have not been studi
 In general, emtricitabine pharmacokinetics in HBV infected subjects were similar to those in healthy subjects and in
 HIV infected subjects.
 
-Age, gender and ethnicity: In general, the pharmacokinetics of emtricitabine in infants, children and adolescents (aged 4 months up to 18 years) are similar to those seen in adults.
+Age: Pharmacokinetic data are not available in the elderly (over 65 years of age).
+
+Gender: Although the mean Cmax and Cmin were approximately 20% higher and mean AUC was 16% higher in females compared to males, this difference was not considered clinically significant.
+
+Ethnicity: No clinically important pharmacokinetic difference due to ethnicity has been identified.
+
+Paediatric population: In general, the pharmacokinetics of emtricitabine in infants, children and adolescents (aged 4 months up to 18 years) are similar to those seen in adults.
 
 The mean AUC in 77 infants, children and adolescents receiving 6 mg/kg emtricitabine once daily as oral solution or 200 mg emtricitabine as hard capsules once daily was similar to the mean AUC of 10.0 µg·h/ml in 20 adults receiving 200 mg hard capsules once daily.
 
@@ -55,8 +60,3 @@ In an open-label, non-comparative study, pharmacokinetic data were obtained from
 This dose is half of that approved for infants aged 4 months and over (6 mg/kg).
 The apparent total body clearance at steady state (CL/F) increased with age over the 3-month period with a corresponding decrease in AUC.
 Plasma emtricitabine exposure (AUC) in infants up to 3 months of age who received 3 mg/kg emtricitabine once daily was similar to that observed using 6 mg/kg daily doses in HIV infected adults and children aged 4 months and over.
-
-Pharmacokinetic data are not available in the elderly.
-
-Although the mean Cmax and Cmin were approximately 20% higher and mean AUC was 16% higher in females compared to males, this difference was not considered clinically significant.
-No clinically important pharmacokinetic difference due to race has been identified.

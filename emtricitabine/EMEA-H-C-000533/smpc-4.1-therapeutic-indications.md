@@ -1,6 +1,6 @@
 # 4.1 Therapeutic indications
 
-Emtriva is indicated for the treatment of HIV-1 infected adults and children in combination with other antiretroviral agents.
+Emtriva is indicated in combination with other antiretroviral medicinal products for the treatment of HIV-1 infected adults and children aged 4 months and over.
 
 This indication is based on studies in treatment-naïve patients and treatment-experienced patients with stable virological control.
 There is no experience of the use of Emtriva in patients who are failing their current regimen or who have failed multiple regimens (see section 5.1).

@@ -1,5 +1,7 @@
 # 4.5 Interaction with other medicinal products and other forms of interaction
 
+Interaction studies have only been performed in adults.
+
 In vitro, emtricitabine did not inhibit metabolism mediated by any of the following human CYP450 isoforms: 1A2, 2A6, 2B6, 2C9, 2C19, 2D6 and 3A4.
 Emtricitabine did not inhibit the enzyme responsible for glucuronidation.
 Based on the results of these in vitro experiments and the known elimination pathways of emtricitabine, the potential for CYP450 mediated interactions involving emtricitabine with other medicinal products is low.

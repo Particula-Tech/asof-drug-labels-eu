@@ -1,14 +1,14 @@
 # 4.4 Special warnings and precautions for use
 
-Emtriva should not be taken with any other medicinal products containing emtricitabine or medicinal products containing lamivudine.
-
 General: Emtricitabine is not recommended as monotherapy for the treatment of HIV infection.
 It must be used in combination with other antiretrovirals.
 Please also refer to the Summaries of Product Characteristics of the other antiretroviral medicinal products used in the combination regimen.
 
-Patients receiving emtricitabine or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with HIV associated diseases.
+Co-administration of other medicinal products: Emtriva should not be taken with any other medicinal products containing emtricitabine or medicinal products containing lamivudine.
 
-Patients should be advised that antiretroviral therapies, including emtricitabine, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
+Opportunistic infections: Patients receiving emtricitabine or any other antiretroviral therapy may continue to develop opportunistic infections and other complications of HIV infection, and therefore should remain under close clinical observation by physicians experienced in the treatment of patients with HIV associated diseases.
+
+Transmission of HIV: Patients must be advised that antiretroviral therapies, including emtricitabine, have not been proven to prevent the risk of transmission of HIV to others through sexual contact or blood contamination.
 Appropriate precautions should continue to be used.
 Patients should also be informed that emtricitabine is not a cure for HIV infection.
 
@@ -25,7 +25,6 @@ Lactic acidosis: Lactic acidosis, usually associated with hepatic steatosis, has
 Early symptoms (symptomatic hyperlactataemia) include benign digestive symptoms (nausea, vomiting and abdominal pain), non-specific malaise, loss of appetite, weight loss, respiratory symptoms (rapid and/or deep breathing) or neurological symptoms (including motor weakness).
 Lactic acidosis has a high mortality and may be associated with pancreatitis, liver failure or renal failure.
 Lactic acidosis generally occurred after a few or several months of treatment.
-
 Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactataemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels.
 
 Caution should be exercised when administering nucleoside analogues to any patient (particularly obese women) with hepatomegaly, hepatitis or other known risk factors for liver disease and hepatic steatosis (including certain medicinal products and alcohol).
@@ -40,7 +39,7 @@ A connection between visceral lipomatosis and protease inhibitors, and lipoatrop
 A higher risk of lipodystrophy has been associated with individual factors such as older age, and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
 Clinical examination should include evaluation for physical signs of fat redistribution.
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
-Lipid disorders should be managed as clinically appropriate.
+Lipid disorders should be managed as clinically appropriate (see section 4.8).
 
 Liver function: Patients with pre-existing liver dysfunction including chronic active hepatitis have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
 Patients with chronic hepatitis B or C infection treated with combination antiretroviral therapy are at increased risk of experiencing severe, and potentially fatal, hepatic adverse events.
@@ -70,11 +69,16 @@ These findings do not affect current national recommendations to use antiretrovi
 
 Immune Reactivation Syndrome: In HIV infected patients with severe immune deficiency at the time of institution of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic pathogens may arise and cause serious clinical conditions, or aggravation of symptoms.
 Typically, such reactions have been observed within the first few weeks or months of initiation of CART.
-Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterium infections, and Pneumocystis jirovecii pneumonia.
+Relevant examples are cytomegalovirus retinitis, generalised and/or focal mycobacterial infections, and Pneumocystis jirovecii pneumonia.
 Any inflammatory symptoms should be evaluated and treatment instituted when necessary.
 
-Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
+Osteonecrosis: Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
+
+Elderly: Emtriva has not been studied in patients over the age of 65.
+Elderly patients are more likely to have decreased renal function; therefore caution should be exercised when treating elderly patients with Emtriva.
+
+Paediatric population: In addition to the adverse reactions experienced by adults, anaemia and skin discolouration occurred more frequently in clinical trials involving HIV infected paediatric patients (see section 4.8).
 
 [Emtriva 10 mg/ml oral solution]
 

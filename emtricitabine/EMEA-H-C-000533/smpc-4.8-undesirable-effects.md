@@ -11,8 +11,8 @@ Combination antiretroviral therapy has been associated with redistribution of bo
 Discontinuation of Emtriva therapy in patients co-infected with HIV and HBV may be associated with severe acute exacerbations of hepatitis (see section 4.4).
 
 b. Tabulated summary of adverse reactions
-Assessment of adverse reactions from clinical study data is based on experience in three studies in adults (n=1,479) and three paediatric studies (n=169).
-In the adult studies, 1,039 treatment-naïve and 440 treatment-experienced patients received emtricitabine (n=814) or comparator medicinal product (n=665) for 48 weeks in combination with other antiretroviral medicinal products.
+Assessment of adverse reactions from clinical study data is based on experience in three studies in adults (n = 1,479) and three paediatric studies (n = 169).
+In the adult studies, 1,039 treatment-naïve and 440 treatment-experienced patients received emtricitabine (n = 814) or comparator medicinal product (n = 665) for 48 weeks in combination with other antiretroviral medicinal products.
 
 The adverse reactions with suspected (at least possible) relationship to treatment in adults from clinical trial and post-marketing experience are listed in Table 2 below by body system organ class and frequency.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
@@ -47,12 +47,12 @@ Uncommon: angioedema3
 Musculoskeletal and connective tissue disorders:
 Very common: elevated creatine kinase
 General disorders and administration site conditions:
-Common: asthenia, pain
+Common: pain, asthenia
 
 1 See section c. Description of selected adverse reactions for more details.
 2 Anaemia was common and skin discolouration (increased pigmentation) was very common when emtricitabine was administered to paediatric patients (see section d.).
-3 This adverse reaction, which was identified through post-marketing surveillance, was not observed in randomised, controlled clinical trials in adults or paediatric HIV clinical trials of emtricitabine.
-The frequency category of uncommon was estimated from a statistical calculation based on the total number of patients exposed to emtricitabine in these clinical studies (n=1,563).
+3 This adverse reaction, which was identified through post-marketing surveillance, was not observed in randomised controlled clinical trials in adults or paediatric HIV clinical trials of emtricitabine.
+The frequency category of uncommon was estimated from a statistical calculation based on the total number of patients exposed to emtricitabine in these clinical studies (n = 1,563).
 
 c. Description of selected adverse reactions
 Skin discolouration (increased pigmentation): Skin discolouration, manifested by hyperpigmentation mainly on the palms and/or soles, was generally mild, asymptomatic and of little clinical significance.
@@ -68,9 +68,9 @@ Osteonecrosis: Cases of osteonecrosis have been reported, particularly in patien
 The frequency of this is unknown (see section 4.4).
 
 Lactic acidosis and severe hepatomegaly with steatosis: Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues (see section 4.4).
-
 d. Paediatric population
-Assessment of adverse reactions in paediatric patients from clinical study data is based on experience in three paediatric studies (n=169) where treatment-naïve (n=123) and treatment-experienced (n=46) paediatric HIV infected patients aged 4 months to 18 years were treated with emtricitabine in combination with other antiretroviral agents.
+Assessment of adverse reactions in paediatric patients from clinical study data is based on experience in three paediatric studies (n = 169) where treatment-naïve (n = 123) and treatment-experienced
+(n = 46) paediatric HIV infected patients aged 4 months to 18 years were treated with emtricitabine in combination with other antiretroviral agents.
 
 In addition to the adverse reactions reported in adults (see section b.), the following adverse reactions were observed more frequently in paediatric patients: anaemia was common (9.5%) and skin discolouration (increased pigmentation) was very common (31.8%) in paediatric patients.
 
@@ -85,7 +85,3 @@ HIV/HBV co-infected patients: The adverse reaction profile in patients co-infect
 However, as would be expected in this patient population, elevations in AST and ALT occurred more frequently than in the general HIV infected population.
 
 Exacerbations of hepatitis after discontinuation of treatment: In HIV infected patients co-infected with HBV, exacerbations of hepatitis may occur after discontinuation of treatment (see section 4.4).
-
-[Emtriva 10 mg/ml oral solution]
-
-3 This adverse reaction, which was identified through post-marketing surveillance, was not observed in randomised controlled clinical trials in adults or paediatric HIV clinical trials of emtricitabine.
