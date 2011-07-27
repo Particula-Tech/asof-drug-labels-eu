@@ -11,3 +11,6 @@ This should be taken into consideration when prescribing Faslodex to patients at
 
 There are no long-term data on the effect of fulvestrant on bone.
 Due to the mechanism of action of fulvestrant, there is a potential risk of osteoporosis.
+
+Paediatric population
+Faslodex is not recommended for use in children and adolescents as safety and efficacy have not been established in this group of patients (see section 5.1).

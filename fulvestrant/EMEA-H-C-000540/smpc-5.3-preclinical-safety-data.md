@@ -17,6 +17,7 @@ In rats, a reversible reduction in female fertility and embryonic survival, dyst
 Rabbits given fulvestrant failed to maintain pregnancy.
 Increases in placental weight and post-implantation loss of foetuses were seen.
 There was an increased incidence of foetal variations in rabbits (backwards displacement of the pelvic girdle and 27 pre-sacral vertebrae).
+
 A two-year oncogenicity study in rats (intramuscular administration of Faslodex) showed increased incidence of ovarian benign granulosa cell tumours in female rats at the high dose, 10 mg/rat/15 days and an increased incidence of testicular Leydig cell tumours in males.
 Induction of such tumours is consistent with pharmacology-related endocrine feedback alterations.
 These findings are not of clinical relevance for the use of fulvestrant in postmenopausal women with advanced breast cancer.

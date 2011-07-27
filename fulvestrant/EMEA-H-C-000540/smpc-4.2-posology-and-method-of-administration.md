@@ -16,8 +16,8 @@ There are no data in patients with severe hepatic impairment (see sections 4.3, 
 
 Paediatric population
 The safety and efficacy of Faslodex in children from birth to 18 years of age have not been established.
-No data are available.
+Currently available data are described in sections 5.1 and 5.2, but no recommendation on a posology can be made.
 
 Method of administration
-Faslodex should be administered as two consecutive 5 ml injections by slow intramuscular injection (1-2 minutes/injection), one in each buttock..
+Faslodex should be administered as two consecutive 5 ml injections by slow intramuscular injection (1-2 minutes/injection), one in each buttock.
 For detailed instructions for administration, see section 6.6.

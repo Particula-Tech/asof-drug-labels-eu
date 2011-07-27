@@ -29,7 +29,6 @@ The terminal half-life (t1/2) after intramuscular administration is governed by 
 
 Special populations
 In a population pharmacokinetic analysis of data from phase III studies, no difference in fulvestrant’s pharmacokinetic profile was detected with regard to age (range 33 to 89 years), weight (40-127 kg) or race.
-
 Renal impairment
 Mild to moderate impairment of renal function did not influence the pharmacokinetics of fulvestrant to any clinically relevant extent.
 
@@ -38,3 +37,9 @@ The pharmacokinetics of fulvestrant has been evaluated in a single-dose clinical
 There was up to about 2.5-fold increase in AUC in subjects with hepatic impairment compared to healthy subjects.
 In patients administered Faslodex, an increase in exposure of this magnitude is expected to be well tolerated.
 Subjects with severe hepatic impairment (Child-Pugh class C) were not evaluated.
+
+Paediatric population
+The pharmacokinetics of fulvestrant has been evaluated in a clinical trial conducted in 30 girls with Progressive Precocious Puberty associated with McCune Albright Syndrome (see section 5.1).
+The paediatric patients were aged 1 to 8 years and received 4 mg/kg monthly intramuscular dose of fulvestrant.
+The geometric mean (standard deviation) steady state trough concentration (Cmin,ss) and AUCss was 4.2 (0.9) ng/mL and 3680 (1020) ng*hr/mL, respectively.
+Although the data collected were limited, the steady-state trough concentrations of fulvestrant in children appear to be consistent with those in adults.

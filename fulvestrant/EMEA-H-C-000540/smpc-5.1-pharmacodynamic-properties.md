@@ -16,24 +16,41 @@ The study included 423 patients whose disease had recurred or progressed during 
 This trial compared the efficacy and safety of Faslodex 500 mg (n=362) with Faslodex 250 mg (n=374).
 Progression-free survival (PFS) was the primary endpoint; key secondary efficacy endpoints included objective response rate (ORR), clinical benefit rate (CBR) and overall survival (OS).
 Efficacy results for the CONFIRM study are summarized in Table 2.
+
 Table 2 Summary of results of the primary efficacy endpoint (PFS) and key secondary efficacy endpoints in the CONFIRM study
 
 Variable Type of Faslodex Faslodex Comparison between groups
 estimate; 500 mg 250 mg (Faslodex 500 mg/Faslodex 250 mg)
-treatment (N=362) (N=374)
-comparison Hazard ratio 95% CI p-value
+treatment (N=362) (N=374) Hazard ratio 95% CI p-value
+
+comparison
 
 | PFS K-M median in months; hazard ratio All Patients -AE subgroup (n=423) -AI subgroup (n=313)a | 6.5 8.6 5.4 | 5.5 5.8 4.1 | 0.80 0.68, 0.94 0.006 0.76 0.62, 0.94 0.013 0.85 0.67, 1.08 0.195 |
 | --- | --- | --- | --- |
 | OS K-M median in months; hazard ratio All Patients -AE subgroup (n=423) -AI subgroup (n=313)a | 25.1 27.9 24.1 | 22.8 25.9 20.8 | 0.84 0.69, 1.03 0.091 0.85 0.65, 1.13 0.264 0.83 0.62, 1.12 0.216 |
 | Variable Type of estimate; treatment comparison | Faslodex 500 mg (N=362) | Faslodex 250 mg (N=374) | Comparison between groups (Faslodex 500 mg/Faslodex 250 mg) Absolute 95% CI difference in % |
-| ORRb % of patients with OR; absolute difference in % All Patients -AE subgroup (n=296) -AI subgroup (n=205)a | 13.8 18.1 7.3 | 14.6 19.1 8.3 | -0.8 -5.8, 6.3 -1.0 -8.2, 9.3 -1.0 -5.5, 9.8 |
-| CBRc % of patients with CB; absolute difference in % All Patients -AE subgroup (n=423) -AI subgroup (n=313)a | 45.6 52.4 36.2 | 39.6 45.1 32.3 | 6.0 -1.1, 13.3 7.3 -2.2, 16.6 3.9 -6.1, 15.2 |
+| ORRb % of patients with OR; absolute |  |  |  |
+
+difference in %
+
+All Patients 13.8 14.6 -0.8 -5.8, 6.3
+-AE subgroup (n=296) 18.1 19.1 -1.0 -8.2, 9.3
+-AI subgroup (n=205)a 7.3 8.3 -1.0 -5.5, 9.8
+CBRc % of patients
+
+with CB;
+absolute difference in
+%
+
+All Patients 45.6 39.6 6.0 -1.1, 13.3
+-AE subgroup (n=423) 52.4 45.1 7.3 -2.2, 16.6
+-AI subgroup (n=313)a 36.2 32.3 3.9 -6.1, 15.2
 
 a Faslodex is indicated in patients whose disease had recurred or progressed on an anti-estrogen therapy.
 The results in the AI subgroup are inconclusive.
 b ORR was assessed in patients who were evaluable for response at baseline (ie, those with measurable disease at baseline: 240 patients in the Faslodex 500 mg group and 261 patients in the Faslodex 250 mg group).
-c Patients with a best objective response of complete response, partial response or stable disease ≥24 weeks.
+c Patients with a best objective response of complete response, partial response or stable disease
+≥24 weeks.
 PFS:Progression-free survival; ORR:Objective response rate; OR:Objective response; CBR:Clinical benefit rate; CB:Clinical benefit; OS:Overall survival; K-M:Kaplan-Meier; CI:Confidence interval; AI:Aromatase inhibitor; AE:Anti-estrogen.
 
 Two phase III clinical trials were completed in a total of 851 postmenopausal women with advanced breast cancer who had disease recurrence on or after adjuvant endocrine therapy or progression following endocrine therapy for advanced disease.
@@ -61,6 +78,12 @@ In two short-term studies (1 and 12 weeks) in premenopausal patients with benign
 Effects on bone
 There are no long-term data on the effect of fulvestrant on bone.
 Neoadjuvant treatment for up to 16 weeks in breast cancer patients with either Faslodex 500 mg or Faslodex 250 mg did not result in clinically significant changes in serum bone-turnover markers.
-
 Paediatric population
+Faslodex is not indicated for use in children.
 The European Medicines Agency has waived the obligation to submit the results of studies with Faslodex in all subsets of the paediatric population in breast cancer (see section 4.2 for information on paediatric use).
+
+An open-label phase II study investigated the safety, efficacy and pharmacokinetics of fulvestrant in 30 girls aged 1 to 8 years with Progressive Precocious Puberty associated with McCune Albright Syndrome (MAS).
+The paediatric patients received 4 mg/kg monthly intramuscular dose of fulvestrant.
+This 12-month study investigated a range of MAS endpoints and showed a reduction in the frequency of vaginal bleeding and a reduction in the rate of bone age advancement.
+The steady-state trough concentrations of fulvestrant in children in this study were consistent with that in adults (see section 5.2).
+There were no new safety concerns arising from this small study, but 5-year data are yet not available.
