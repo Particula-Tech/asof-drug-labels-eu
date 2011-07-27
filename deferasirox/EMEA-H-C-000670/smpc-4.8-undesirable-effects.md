@@ -2,20 +2,14 @@
 
 Summary of the safety profile
 The most frequent reactions reported during chronic treatment with EXJADE in adult and paediatric patients include gastrointestinal disturbances in about 26% of patients (mainly nausea, vomiting, diarrhoea or abdominal pain) and skin rash in about 7% of patients.
-Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years than in older patients.
+Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years and in the elderly.
 These reactions are dose-dependent, mostly mild to moderate, generally transient and mostly resolve even if treatment is continued.
 
-During clinical trials, increases in serum creatinine of >33% on ≥2 consecutive occasions, sometimes above the upper limit of the normal range, occurred in about 36% of patients.
+During clinical trials, increases in serum creatinine of >33% on two or more consecutive occasions, sometimes above the upper limit of the normal range, occurred in about 36% of patients.
 These were dose-dependent.
 About two-thirds of the patients showing serum creatinine increase returned below the 33% level without dose adjustment.
 In the remaining third the serum creatinine increase did not always respond to a dose reduction or a dose interruption.
 Indeed, in some cases, only a stabilisation of the serum creatinine values has been observed after dose reduction (see section 4.4).
-
-Gallstones and related biliary disorders were reported in about 2% of patients.
-Elevations of liver transaminases were reported as an adverse drug reaction in 2% of patients.
-Elevations of transaminases greater than 10 times the upper limit of the normal range, suggestive of hepatitis, were uncommon (0.3%).
-During postmarketing experience, hepatic failure, sometimes fatal, has been reported with EXJADE, especially in patients with pre-existing liver cirrhosis (see section 4.4).
-As with other iron chelator treatment, high-frequency hearing loss and lenticular opacities (early cataracts) have been uncommonly observed in patients treated with EXJADE (see section 4.4).
 Tabulated list of adverse reactions
 Adverse reactions are ranked below using the following convention: very common (≥1/10); common (≥1/100 to <1/10); uncommon (≥1/1,000 to <1/100); rare (≥1/10,000 to <1/1,000); very rare (<1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
@@ -81,7 +75,7 @@ Very common: Blood creatinine increased
 
 Common: Proteinuria
 Uncommon: Renal tubulopathy (acquired Fanconi’s syndrome), glycosuria
-Not known: Acute renal failure1
+Not known: Acute renal failure1, tubulointerstitial nephritis1
 
 General disorders and administration site conditions
 
@@ -90,6 +84,11 @@ Uncommon: Pyrexia, oedema, fatigue
 1 Adverse reactions reported during postmarketing experience.
 These are derived from spontaneous reports for which it is not always possible to reliably establish frequency or a causal relationship to exposure to the medicinal product.
 
+Gallstones and related biliary disorders were reported in about 2% of patients.
+Elevations of liver transaminases were reported as an adverse reaction in 2% of patients.
+Elevations of transaminases greater than 10 times the upper limit of the normal range, suggestive of hepatitis, were uncommon (0.3%).
+During postmarketing experience, hepatic failure, sometimes fatal, has been reported with EXJADE, especially in patients with pre-existing liver cirrhosis (see section 4.4).
+As with other iron chelator treatment, high-frequency hearing loss and lenticular opacities (early cataracts) have been uncommonly observed in patients treated with EXJADE (see section 4.4).
 Paediatric population
 Diarrhoea is reported more commonly in paediatric patients aged 2 to 5 years than in older patients.
 

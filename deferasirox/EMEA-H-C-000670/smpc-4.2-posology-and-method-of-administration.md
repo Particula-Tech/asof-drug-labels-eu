@@ -1,16 +1,17 @@
 # 4.2 Posology and method of administration
 
 Treatment with EXJADE should be initiated and maintained by physicians experienced in the treatment of chronic iron overload due to blood transfusions.
+
+Posology
 It is recommended that treatment be started after the transfusion of approximately 20 units (about 100 ml/kg) of packed red blood cells or when there is evidence from clinical monitoring that chronic iron overload is present (e.g. serum ferritin >1,000 µg/l).
 Doses (in mg/kg) must be calculated and rounded to the nearest whole tablet size.
 
 The goals of iron chelation therapy are to remove the amount of iron administered in transfusions and, as required, to reduce the existing iron burden.
-
-Posology
 Starting dose
 The recommended initial daily dose of EXJADE is 20 mg/kg body weight.
 
 An initial daily dose of 30 mg/kg may be considered for patients who require reduction of elevated body iron levels and who are also receiving more than 14 ml/kg/month of packed red blood cells (approximately >4 units/month for an adult).
+
 An initial daily dose of 10 mg/kg may be considered for patients who do not require reduction of body iron levels and who are also receiving less than 7 ml/kg/month of packed red blood cells (approximately <2 units/month for an adult).
 The patient’s response must be monitored and a dose increase should be considered if sufficient efficacy is not obtained (see section 5.1).
 
@@ -32,19 +33,21 @@ If serum ferritin falls consistently below 500 µg/l, an interruption of treatme
 
 Elderly patients (≥65 years of age)
 The dosing recommendations for elderly patients are the same as described above.
-In clinical trials, elderly patients experienced a higher frequency of adverse reactions than younger patients (in particular, diarrhoea) and should be monitored closely for adverse events that may require a dose adjustment.
+In clinical trials, elderly patients experienced a higher frequency of adverse reactions than younger patients (in particular, diarrhoea) and should be monitored closely for adverse reactions that may require a dose adjustment.
 
 Paediatric population
 The dosing recommendations for paediatric patients aged 2 to 17 years are the same as for adult patients.
 Changes in weight of paediatric patients over time must be taken into account when calculating the dose.
+
 In children aged between 2 and 5 years, exposure is lower than in adults (see section 5.2).
 This age group may therefore require higher doses than are necessary in adults.
 However, the initial dose should be the same as in adults, followed by individual titration.
-
 The safety and efficacy of EXJADE in children from birth to 23 months of age have not yet been established.
+No data are available.
 
 Patients with renal impairment
 EXJADE has not been studied in patients with renal impairment and is contraindicated in patients with estimated creatinine clearance <60 ml/min (see sections 4.3 and 4.4).
+
 Patients with hepatic impairment
 EXJADE has not been studied in patients with hepatic impairment and must be used with caution in such patients.
 The initial dosing recommendations for patients with hepatic impairment are the same as described above.
@@ -53,6 +56,7 @@ Hepatic function in all patients should be monitored before treatment, every 2 w
 Method of administration
 For oral use.
 EXJADE must be taken once daily on an empty stomach at least 30 minutes before food, preferably at the same time each day (see sections 4.5 and 5.2).
+
 The tablets are dispersed by stirring in a glass of water or orange or apple juice (100 to 200 ml) until a fine suspension is obtained.
 After the suspension has been swallowed, any residue must be resuspended in a small volume of water or juice and swallowed.
 The tablets must not be chewed or swallowed whole (see also section 6.2).

@@ -14,11 +14,11 @@ In some post-marketing cases, renal function deterioration has led to renal fail
 The causes of the rises in serum creatinine have not been elucidated.
 Particular attention should therefore be paid to monitoring of serum creatinine in patients who are concomitantly receiving medicinal products that depress renal function, and in patients who are receiving high doses of EXJADE and/or low rates of transfusion (<7 ml/kg/month of packed red blood cells or <2 units/month for an adult).
 While no increase in renal adverse events was observed after dose escalation to doses above 30 mg/kg in clinical trials, an increased risk of renal adverse events with EXJADE doses above 30 mg/kg cannot be excluded.
-
 It is recommended that serum creatinine be assessed in duplicate before initiating therapy.
 Serum creatinine, creatinine clearance (estimated with the Cockcroft-Gault or MDRD formula in adults and with the Schwartz formula in children) and/or plasma cystatin C levels should be monitored weekly in the first month after initiation or modification of therapy with EXJADE, and monthly thereafter.
 Patients with pre-existing renal conditions and patients who are receiving medicinal products that depress renal function may be more at risk of complications.
 Care should be taken to maintain adequate hydration in patients who develop diarrhoea or vomiting.
+
 For adult patients, the daily dose may be reduced by 10 mg/kg if a rise in serum creatinine by >33% above the average of the pre-treatment measurements and estimated creatinine clearance decreases below the lower limit of the normal range (<90 ml/min) are seen at two consecutive visits, and cannot be attributed to other causes (see section 4.2).
 For paediatric patients, the dose may be reduced by 10 mg/kg if estimated creatinine clearance decreases below the lower limit of the normal range
 (<90 ml/min) and/or serum creatinine levels rise above the age-appropriate upper limit of normal at two consecutive visits.
@@ -49,14 +49,13 @@ Treatment has been initiated only in patients with baseline liver transaminase l
 
 In patients with a short life expectancy (e.g. high-risk myelodysplastic syndromes), especially when co-morbidities could increase the risk of adverse events, the benefit of EXJADE might be limited and may be inferior to risks.
 As a consequence, treatment with EXJADE is not recommended in these patients.
-
 Caution should be used in elderly patients due to a higher frequency of adverse reactions (in particular, diarrhoea).
 
 Gastrointestinal
 Upper gastrointestinal ulceration and haemorrhage have been reported in patients, including children and adolescents, receiving EXJADE.
 Multiple ulcers have been observed in some patients (see section 4.8).
 There have been reports of fatal gastrointestinal haemorrhages, especially in elderly patients who had haematological malignancies and/or low platelet counts.
-Physicians and patients should remain alert for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy and promptly initiate additional evaluation and treatment if a serious gastrointestinal adverse event is suspected.
+Physicians and patients should remain alert for signs and symptoms of gastrointestinal ulceration and haemorrhage during EXJADE therapy and promptly initiate additional evaluation and treatment if a serious gastrointestinal adverse reaction is suspected.
 Caution should be exercised in patients who are taking EXJADE in combination with substances that have known ulcerogenic potential, such as NSAIDs, corticosteroids, or oral bisphosphonates, in patients receiving anticoagulants and in patients with platelet counts below 50,000/mm3 (50 x 109/l) (see section 4.5).
 
 Skin disorders
@@ -92,11 +91,8 @@ However, as a general precautionary measure in the management of paediatric pati
 
 Cardiac dysfunction is a known complication of severe iron overload.
 Cardiac function should be monitored in patients with severe iron overload during long-term treatment with EXJADE.
-
 Each tablet contains 136 mg lactose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency, glucose-galactose malabsorption or severe lactase deficiency should not take this medicine.
-The concomitant use of deferasirox with aluminium-containing antacid preparations is not recommended.
-The concomitant use of deferasirox with repaglinide (a CYP2C8 substrate) or with CYP1A2 substrates that have a narrow therapeutic index, such as theophylline, clozapine or tizanidine, is not recommended (see section 4.5).
 
 [EXJADE 250 mg dispersible tablets]
 

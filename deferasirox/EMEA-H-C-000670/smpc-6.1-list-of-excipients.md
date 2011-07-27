@@ -4,6 +4,6 @@ Lactose monohydrate
 Crospovidone type A
 Cellulose, microcrystalline
 Povidone
-Sodium lauryl sulphate
+Sodium laurilsulfate
 Silica, colloidal anhydrous
 Magnesium stearate
