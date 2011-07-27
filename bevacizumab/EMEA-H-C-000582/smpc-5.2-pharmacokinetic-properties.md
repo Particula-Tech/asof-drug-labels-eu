@@ -20,7 +20,6 @@ The value for clearance is, on average, equal to 0.188 and 0.220 L/day for femal
 After correcting for body weight, male patients had a higher bevacizumab clearance
 (+ 17%) than females.
 According to the two-compartmental model, the elimination half-life is 18 days for a typical female patient and 20 days for a typical male patient.
-
 Low albumin and high tumour burden are generally indicative of disease severity.
 Bevacizumab clearance was approximately 30% faster in patients with low levels of serum albumin and 7% faster in subjects with higher tumour burden when compared with a typical patient with median values of albumin and tumour burden.
 

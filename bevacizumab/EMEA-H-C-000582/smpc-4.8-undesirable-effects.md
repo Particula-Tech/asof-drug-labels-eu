@@ -26,15 +26,16 @@ Table 1 Very common and common adverse reactions
 | --- | --- | --- | --- |
 |  | Very common | Common | Very common |
 | Infections and infestations |  | Sepsis Abscess Infection |  |
+|  | Very common | Common | Very common |
 | Blood and the lymphatic systems disorders | Febrile neutropenia Leucopenia Thrombocytopenia Neutropenia | Anaemia |  |
 | Metabolism and nutrition disorders |  | Dehydration | Anorexia |
 | Nervous system disorders | Peripheral sensory neuropathy | Cerebrovascular accident Syncope Somnolence Headache | Dysgeusia Headache |
 | Eye disorders |  |  | Eye disorder Lacrimation increased |
-|  | Very common | Common | Very common |
 | Cardiac disorders |  | Cardiac failure congestive Supraventricular tachycardia |  |
 | Vascular disorders | Hypertension | Thromboembolism (arterial)* Deep vein thrombosis Haemorrhage | Hypertension |
 | Respiratory, thoracic and mediastinal disorders |  | Pulmonary embolism Dyspnoea Hypoxia Epistaxis | Dyspnoea Epistaxis Rhinitis |
 | Gastrointestinal disorders | Diarrhoea Nausea Vomiting | Intestinal Perforation Ileus Intestinal obstruction Abdominal pain Gastrointestinal disorder Stomatitis | Constipation Stomatitis Rectal haemorrhage |
+| Endocrine disorders |  |  | Ovarian failure** |
 | Skin and subcutaneous tissue disorders |  | Palmar-plantar erythrodysaesthesia syndrome | Exfoliative dermatitis Dry skin Skin discolouration |
 | Musculoskeletal, connective tissue and bone disorders |  | Muscular weakness Myalgia | Arthralgia |
 | Renal and urinary disorders |  | Proteinuria Urinary Tract Infection | Proteinuria |
@@ -42,7 +43,7 @@ Table 1 Very common and common adverse reactions
 
 * Pooled arterial thromboembolic events including cerebrovascular accident, myocardial infarction, transient ischaemic attack and other arterial thromboembolic events.
 Data are unadjusted for the differential time on treatment.
-
+** Based on a substudy from NSABP C-08 with 295 patients
 Further information on selected serious adverse reactions
 
 Gastrointestinal perforations (see section 4.4)
@@ -53,6 +54,7 @@ Fatal outcome was reported in approximately a third of serious cases of gastroin
 
 The presentation of these events varied in type and severity, ranging from free air seen on the plain abdominal X-ray, which resolved without treatment, to intestinal perforation with abdominal abscess and fatal outcome.
 In some cases underlying intra-abdominal inflammation was present, either from gastric ulcer disease, tumour necrosis, diverticulitis, or chemotherapy-associated colitis.
+
 Fistulae (see section 4.4)
 Avastin use has been associated with serious cases of fistulae including events resulting in death.
 
@@ -80,7 +82,6 @@ Hypertension was generally adequately controlled with oral anti-hypertensives su
 It rarely resulted in discontinuation of Avastin treatment or hospitalisation.
 
 Very rare cases of hypertensive encephalopathy have been reported, some of which were fatal.
-
 The risk of Avastin-associated hypertension did not correlate with the patients’ baseline characteristics, underlying disease or concomitant therapy.
 
 Proteinuria (see section 4.4)
@@ -92,6 +93,7 @@ Grade 4 proteinuria (nephrotic syndrome) was seen in up to 1.4% of treated patie
 The proteinuria seen in clinical trials was not associated with renal dysfunction and rarely required permanent discontinuation of therapy.
 Testing for proteinuria is recommended prior to start of Avastin therapy.
 In most clinical trials urine protein levels of ≥ 2g/24 hrs led to the holding of Avastin until recovery to < 2g/24 hrs.
+
 Haemorrhage (see section 4.4)
 In clinical trials across all indications the overall incidence of NCI-CTC Grade 3-5 bleeding events ranged from 0.4% to 5% in Avastin treated patients, compared with up to 2.9% of patients in the chemotherapy control group.
 
@@ -114,7 +116,6 @@ Tumour-associated haemorrhage was also seen rarely in other tumour types and loc
 The incidence of CNS bleeding in patients with untreated CNS metastases receiving bevacizumab has not been prospectively evaluated in randomised clinical trials.
 In an exploratory retrospective analysis of data from 13 completed randomised trials in patients with various tumour types, 3 patients out of 91 (3.3%) with brain metastases experienced CNS bleeding (all Grade 4) when treated with bevacizumab, compared to 1 case (Grade 5) out of 96 patients (1%) that were not exposed to bevacizumab.
 In two ongoing trials in patients with treated brain metastases, one case of Grade 2 CNS haemorrhage was reported in 83 subjects treated with bevacizumab (1.2%) at the time of interim safety analysis.
-
 Across all clinical trials, mucocutaneous haemorrhage has been seen in up to 50% of Avastin-treated patients.
 These were most commonly NCI-CTC Grade 1 epistaxis that lasted less than 5 minutes, resolved without medical intervention and did not require any changes in the Avastin treatment regimen.
 Clinical safety data suggest that the incidence of minor mucocutaneous haemorrhage (e.g. epistaxis) may be dose-dependent.
@@ -147,15 +148,20 @@ In clinical trials with Avastin, congestive heart failure (CHF) was observed in 
 In four phase III trials (AVF2119g, E2100, BO17708 and AVF3694g) in patients with metastatic breast cancer CHF Grade 3 or higher was reported in up to 3.5% of patients treated with Avastin in combination with chemotherapy compared with up to 0.9% in the control arms.
 For patients in study AVF3694g who received anthracyclines concomitantly with bevacizumab, the incidences of grade 3 or higher CHF for the respective bevacizumab and control arms were similar to those in the other studies in metastatic breast cancer: 2.9% in the anthracycline + bevacizumab arm and 0% in the anthracycline + placebo arm.
 In addition, in study AVF3694g the incidences of all grade CHF were similar between the anthracycline + Avastin (6.2%) and the anthracycline + placebo arms (6.0%).
-
 Most patients who developed CHF during mBC trials showed improved symptoms and/or left ventricular function following appropriate medical therapy.
 
 In most clinical trials of Avastin, patients with pre-existing CHF of NYHA (New York Heart Association) II-IV were excluded, therefore, no information is available on the risk of CHF in this population.
 
 Prior anthracyclines exposure and/or prior radiation to the chest wall may be possible risk factors for the development of CHF.
 
+An increased incidence of CHF has been observed in a clinical trial of patients with diffuse large B-cell lymphoma when receiving bevacizumab with a cumulative doxorubicin dose greater than 300 mg/m2.
+This phase III clinical trial compared rituximab/cyclophosphamide/doxorubicin/vincristine/prednisone (R-CHOP) plus bevacizumab to R-CHOP without bevacizumab.
+While the incidence of CHF was, in both arms, above that previously observed for doxorubicin therapy, the rate was higher in the R-CHOP plus bevacizumab arm.
+These results suggest that close clinical observation with appropriate cardiac assessments should be considered for patients exposed to cumulative doxorubicin doses greater than 300 mg/m2 when combined with bevacizumab.
+
 Hypersensitivity reactions/infusion reactions (see section 4.4 and Post-marketing experience below) In some clinical trials anaphylactic and anaphylactoid-type reactions were reported more frequently in patients receiving Avastin in combination with chemotherapy than with chemotherapy alone.
 The incidence of these reactions in some clinical trials of Avastin is common (up to 5% in bevacizumab-treated patients).
+
 Elderly patients
 In randomised clinical trials, age > 65 years was associated with an increased risk of developing arterial thromboembolic events, including cerebrovascular accidents (CVAs), transient ischaemic attacks (TIAs) and myocardial infarctions (MIs).
 Other reactions with a higher frequency seen in patients over 65 were grade 3-4 leucopenia and thrombocytopenia; and all grade neutropenia, diarrhoea, nausea, headache and fatigue as compared to those aged ≤ 65 years when treated with Avastin (see sections 4.4 and 4.8 under Thromboembolism).
@@ -164,6 +170,12 @@ No increase in the incidence of other reactions, including gastrointestinal perf
 
 Paediatric population
 The safety of Avastin in children and adolescents has not been established.
+
+Ovarian failure/fertility (see sections 4.4 and 4.6)
+In NSABP C-08, a phase III trial of Avastin in adjuvant treatment of patients with colon cancer, the incidence of new cases of ovarian failure, defined as amenorrhoea lasting 3 or more months, FSH level ≥30 mIU/mL and a negative serum β-HCG pregnancy test, has been evaluated in 295 premenopausal women.
+New cases of ovarian failure were reported in 2.6% patients in the mFOLFOX-6 group compared to 39% in the mFOLFOX-6 + bevacizumab group.
+After discontinuation of bevacizumab treatment, ovarian function recovered in 86.2% of these evaluable women.
+Long term effects of the treatment with bevacizumab on fertility are unknown.
 
 Laboratory abnormalities
 Decreased neutrophil count, decreased white blood cell count and presence of urine protein may be associated with Avastin treatment.
@@ -181,11 +193,6 @@ Table 2 Adverse reactions reported in post-marketing setting
 | Respiratory, thoracic and mediastinal disorders | Nasal septum perforation (not known) Pulmonary hypertension (not known) Dysphonia (common) |
 | Gastrointestinal disorders | Gastrointestinal ulcer (not known) |
 | Immune system disorders | Hypersensitivity reactions and infusion reactions (not known); with the following possible co-manifestations: dyspnoea/difficulty breathing, flushing/redness/rash, hypotension or hypertension, oxygen desaturation, chest pain, rigors and nausea/vomiting (see also section 4.4 and Hypersensitivity reactions/infusion reactions above) |
-| Osteonecrosis of the | Cases of osteonecrosis of the jaw (ONJ) have been reported in patients |
-
-jaw treated with Avastin, most of which occurred in patients who had
-identified risk factors for ONJ, in particular exposure to i.v.
-bisphosphonates and/or a history of dental disease requiring invasive
-dental procedures (see also section 4.4)
+| Musculoskeletal and connective tissue disorders | Cases of osteonecrosis of the jaw (ONJ) have been reported in patients treated with Avastin, most of which occurred in patients who had identified risk factors for ONJ, in particular exposure to i.v. bisphosphonates and/or a history of dental disease requiring invasive dental procedures (see also section 4.4) |
 
 * if specified, the frequency has been derived from clinical trial data
