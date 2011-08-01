@@ -6,3 +6,11 @@ The blister consists of an aluminium lidding foil coated with polyvinylchloride-
 Polypropylene bottle with a screw cap containing 60 hard capsules.
 
 Not all pack sizes may be marketed.
+
+[Pradaxa 110 mg hard capsules]
+
+Cartons containing 1, 3, or 6 blister strips (10 x 1, 30 x 1, 60 x 1) and a multipack containing 3 packs of 60 x 1 hard capsules (180 hard capsules) in perforated aluminium unit dose blisters.
+
+[Pradaxa 150 mg hard capsules]
+
+(all sentences already above)

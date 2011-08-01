@@ -11,3 +11,8 @@ EU/1/08/442/005
 EU/1/08/442/006
 EU/1/08/442/007
 EU/1/08/442/008
+EU/1/08/442/00X
+
+[Pradaxa 150 mg hard capsules]
+
+(all sentences already above)
