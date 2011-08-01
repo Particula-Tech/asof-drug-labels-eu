@@ -9,6 +9,7 @@ IL-6 is a pleiotropic pro-inflammatory cytokine produced by a variety of cell ty
 IL-6 is involved in diverse physiological processes such as T-cell activation, induction of immunoglobulin secretion, induction of hepatic acute phase protein synthesis and stimulation of haemopoiesis.
 IL-6 has been implicated in the pathogenesis of diseases including inflammatory diseases, osteoporosis and neoplasia.
 
+RA Patients
 In clinical studies with tocilizumab, rapid decreases in CRP, erythrocyte sedimentation rate (ESR) and serum amyloid A (SAA) were observed.
 Consistent with the effect on acute phase reactants, treatment with tocilizumab was associated with reduction in platelet count within the normal range.
 Increases in haemoglobin levels were observed, through tocilizumab decreasing the IL-6 driven effects on hepcidin production to increase iron availability.
@@ -48,6 +49,7 @@ Doses of 8 mg/kg tocilizumab or placebo were given every four weeks in combinati
 Study V evaluated 499 patients who had an inadequate clinical response or were intolerant to one or more TNF antagonist therapies.
 The TNF antagonist therapy was discontinued prior to randomisation.
 Doses of 4 or 8 mg/kg tocilizumab or placebo were given every four weeks in combination with stable MTX (10 mg to 25 mg weekly).
+
 Clinical response
 In all studies, patients treated with tocilizumab 8 mg/kg had statistically significant higher ACR 20, 50, 70 response rates at 6 months compared to control (Table 2).
 In study I, superiority of tocilizumab 8 mg/kg was demonstrated against the active comparator MTX.
@@ -65,7 +67,6 @@ In study II, 65% of patients achieved a DAS28 < 2.6 at week 104 compared to 48% 
 
 In a pooled analysis of studies II, III and IV, the proportion of patients achieving an ACR 20, 50 and 70 response was significantly higher (59% vs. 50%, 37% vs. 27%, 18% vs. 11%, respectively) in the tocilizumab 8 mg/kg plus DMARD vs. the tocilizumab 4 mg/kg plus DMARD group (p< 0.03).
 Similarly the proportion of patients achieving a DAS 28 remission (DAS28 < 2.6) was significantly higher (31% vs. 16% respectively) in patients receiving tocilizumab 8 mg/kg plus DMARD than in patients receiving tocilizumab 4 mg/kg plus DMARD (p< 0.0001).
-
 Table 2.
 ACR responses in placebo-/MTX-/DMARDs-controlled studies (% patients)
 
@@ -102,7 +103,6 @@ Inhibition of joint structural damage was shown with significantly less radiogra
 
 In the open-label extension of Study II the inhibition of progression of structural joint damage in tocilizumab plus MTX-treated patients was maintained in the second year of treatment.
 The mean change from baseline at week 104 in total Sharp-Genant score was significantly lower for patients randomised to tocilizumab 8 mg/kg plus MTX (p<0.0001) compared with patients who were randomised to placebo plus MTX.
-
 Table 3.
 Radiographic mean changes over 52 weeks in Study II
 
@@ -133,3 +133,52 @@ The mean change in HAQ-DI was maintained at Week 104 in the tocilizumab 8 mg/kg 
 Haemoglobin levels
 Statistically significant improvements in haemoglobin levels were observed with tocilizumab compared with DMARDs (p< 0.0001) at week 24.
 Mean haemoglobin levels increased by week 2 and remained within normal range through to week 24.
+
+SJIA Patients
+Clinical efficacy
+The efficacy of tocilizumab for the treatment of active sJIA was assessed in a 12 week randomised, double blind, placebo-controlled, parallel group, two arm study.
+Patients included in the trial had a total disease duration of at least 6 months and active disease but were not experiencing an acute flare requiring corticosteroid doses of more than 0.5 mg/kg prednisone equivalent.
+Efficacy for the treatment of macrophage activation syndrome has not been investigated.
+
+Patients (treated with or without MTX) were randomised (tocilizumab:placebo = 2:1) to one of two treatment groups, 75 patients received tocilizumab infusions every two weeks, either 8 mg/kg for patients ≥ 30 kg or 12 mg/kg for patients < 30 kg and 37 patients were assigned to receiving placebo infusions every two weeks.
+Corticosteroid tapering was permitted from week six for patients who achieved a JIA ACR70 response.
+After 12 weeks or at the time of escape, due to disease worsening, patients were treated in the open label phase at weight appropriate dosing.
+
+Clinical response
+
+The primary endpoint was the proportion of patients with at least 30% improvement in the JIA ACR core set (JIA ACR30 response) at week 12 and absence of fever (no temperature recording ≥ 37.5°C in the preceding 7 days).
+Eighty five percent (64/75) of tocilizumab treated patients and 24.3% (9/37) of placebo treated patients achieved this endpoint.
+These proportions were highly significantly different (p<0.0001).
+The percent of patients achieving JIA ACR 30, 50, 70 and 90 responses are shown in Table 4.
+
+Table 4.
+JIA ACR response rates at week 12 (% patients)
+
+| Response Rate | Tocilizumab N = 75 | Placebo N = 37 |
+| --- | --- | --- |
+| JIA ACR 30 | 90.7%1 | 24.3% |
+| JIA ACR 50 | 85.3%1 | 10.8% |
+| JIA ACR 70 | 70.7%1 | 8.1% |
+| JIA ACR 90 | 37.3%1 | 5.4% |
+
+1p<0.0001, tocilizumab vs. placebo
+
+Systemic Effects
+In the tocilizumab treated patients, 85% who had fever due to sJIA at baseline were free of fever (no temperature recording ≥ 37.5°C in the preceding 14 days) at week 12 versus 21% of placebo patients (p<0.0001).
+
+The adjusted mean change in the pain VAS after 12 weeks of tocilizumab treatment was a reduction of 41 points on a scale of 0 - 100 compared to a reduction of 1 for placebo patients (p<0.0001).
+
+Corticosteroid Tapering
+Patients achieving a JIA ACR70 response were permitted corticosteroid dose reduction.
+Seventeen (24%) tocilizumab treated patients versus 1 (3%) placebo patient were able to reduce their dose of corticosteroid by at least 20% without experiencing a subsequent JIA ACR30 flare or occurrence of systemic symptoms to week 12 (p=0.028).
+Reductions in corticosteroids continued, with 44 patients off oral corticosteroids at week 44, while maintaining JIA ACR responses.
+
+Health related and quality of life outcomes
+At week 12, the proportion of tocilizumab treated patients showing a minimally clinically important improvement in the Childhood Health Assessment Questionnaire – Disability Index (defined as an individual total score decrease of ≥ 0.13) was significantly higher than in placebo treated patients, 77% versus 19% (p<0.0001).
+
+Laboratory Parameters
+Fifty out of seventy five (67%) tocilizumab treated patients had a haemoglobin < LLN baseline.
+Forty (80%) of these patients had an increase in their haemoglobin to within the normal range at week 12, in comparison to 2 out of 29 (7%) of placebo treated patients with haemoglobin at baseline (p<0.0001).
+
+The European Medicines Agency has waived the obligation to submit the results of studies with RoActemra in all subsets of the paediatric population in rheumatoid arthritis and has deferred the obligation to submit the results of studies in one or more subsets of the paediatric population in juvenile idiopathic arthritis.
+See 4.2 for information on paediatric use.

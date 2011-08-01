@@ -1,5 +1,6 @@
 # 4.8 Undesirable effects
 
+RA Patients
 The safety of tocilizumab has been studied in 4 placebo-controlled studies (studies II, III, IV and V), 1 MTX-controlled study (study I) and their extension periods (see section 5.1).
 
 The double-blind controlled period was 6 months in four studies (studies I, III, IV and V) and was up to 2 years in one study (study II).
@@ -102,3 +103,59 @@ During the double-blind controlled period and with long-term exposure, the patte
 Malignancies
 The clinical data are insufficient to assess the potential incidence of malignancy following exposure to tocilizumab.
 Long-term safety evaluations are ongoing.
+
+SJIA Patients
+The safety of tocilizumab in sJIA has been studied in 112 patients from 2 to 17 years of age.
+In the 12 week double-blind, controlled phase, 75 patients received treatment with tocilizumab (8 mg/kg or 12 mg/kg based upon body weight).
+After 12 weeks or at the time of switching to tocilizumab, due to disease worsening, patients were treated in the ongoing open label extension phase.
+
+In general, the ADRs in sJIA patients were similar in type to those seen in RA patients, see section 4.8.
+
+Infections
+In the 12 week controlled phase, the rate of all infections in the tocilizumab group was 344.7 per 100 patient years and 287.0 per 100 patient years in the placebo group.
+In the ongoing open label extension phase (Part II), the overall rate of infections remained similar at 306.6 per 100 patient years.
+
+In the 12 week controlled phase, the rate of serious infections in the tocilizumab group was 11.5 per 100 patient years.
+At one year in the ongoing open label extension phase the overall rate of serious infections remained stable at 11.3 per 100 patient years.
+Reported serious infections were similar to those seen in RA patients with the addition of varicella and otitis media.
+Infusion Reactions
+Infusion related reactions are defined as all events occurring during or within 24 hours of an infusion.
+In the 12 week controlled phase, 4% of patients from the tocilizumab group experienced events occurring during infusion.
+One event (angioedema) was considered serious and life-threatening, and the patient was discontinued from study treatment.
+
+In the 12 week controlled phase, 16% of patients in the tocilizumab group and 5.4% of patients in the placebo group experienced an event within 24 hours of infusion.
+In the tocilizumab group, the events included, but were not limited to rash, urticaria, diarrhea, epigastric discomfort, arthralgia and headache.
+One of these events, urticaria, was considered serious.
+
+Clinically significant hypersensitivity reactions associated with tocilizumab and requiring treatment discontinuation, were reported in 1 out of 112 patients (< 1%) treated with tocilizumab during the controlled and up to and including the open label clinical trial.
+
+Immunogenicity
+All 112 patients were tested for anti-tocilizumab antibodies at baseline.
+Two patients developed positive anti-tocilizumab antibodies with one of these patients having a hypersensitivity reaction leading to withdrawal.
+The incidence of anti-tocilizumab antibody formation might be underestimated because of interference of tocilizumab with the assay and higher drug concentration observed in children compared to adults.
+
+Neutrophils
+During routine laboratory monitoring in the 12 week controlled phase, a decrease in neutrophil counts below 1 x 109/l occurred in 7% of patients in the tocilizumab group, and no decreases in the placebo group.
+
+In the ongoing open label extension phase, decreases in neutrophil counts below 1 x 109/l, occurred in 15% of the tocilizumab group.
+There was no clear relationship between decreases in neutrophils below 1 x 109/l and the occurrence of serious infections.
+
+Platelets
+During routine laboratory monitoring in the 12 week controlled phase, 3% of patients in the placebo group and 1% in the tocilizumab group had a decrease in platelet count to ≤ 100 x 103/µl.
+
+In the ongoing open label extension phase, decreases in platelet counts below 100 x 103/µl, occurred in 3% of patients in the tocilizumab group, without associated bleeding events.
+
+Hepatic transaminase elevations
+During routine laboratory monitoring in the 12 week controlled phase, elevation in ALT or AST ≥ 3 x ULN occurred in 5% and 3% of patients, respectively, in the tocilizumab group, and 0% in the placebo group.
+
+In the ongoing open label extension phase, elevation in ALT or AST ≥ 3 x ULN occurred in 12% and 4% of patients, respectively, in the tocilizumab group.
+
+Immunoglobuilin G
+IgG levels decrease during therapy.
+A decrease to the lower limit of normal occurred in 15 patients at some point in the study.
+
+Lipid parameters
+During routine laboratory monitoring in the 12 week controlled phase, elevation in total cholesterol
+> 1.5 x ULN to 2 x ULN occurred in 1.5% of the tocilizumab group and none in the placebo group.
+Elevation in LDL > 1.5 x ULN to 2 x ULN occurred in 1.9% of patients in the tocilizumab group, and in 0% of the placebo group.
+In the ongoing open label extension phase, the pattern and incidence of elevations in lipid parameters remained consistent with the 12 week controlled phase data.

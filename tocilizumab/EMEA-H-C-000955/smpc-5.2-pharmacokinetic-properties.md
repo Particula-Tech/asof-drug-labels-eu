@@ -1,6 +1,8 @@
 # 5.2 Pharmacokinetic properties
 
+RA Patients
 The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on a database composed of 1,793 RA patients treated with a one-hour infusion of 4 and 8 mg/kg tocilizumab every 4 weeks for 24 weeks.
+
 The following parameters (predicted mean ± SD) were estimated for a dose of 8 mg/kg tocilizumab given every 4 weeks: steady-state area under curve (AUC) = 35000 ± 15500 h µg/ml, trough concentration (Cmin) = 9.74 ± 10.5 μg/ml and maximum concentration (Cmax) = 183 ± 85.6 µg/ml, and. the accumulation ratios for AUC and Cmax were small, 1.22 and 1.06, respectively.
 The accumulation ratio was higher for Cmin (2.35), which was expected based on the non-linear clearance contribution at lower concentrations.
 Steady-state was reached following the first administration for Cmax and after 8 and 20 weeks for AUC and Cmin, respectively.
@@ -35,4 +37,16 @@ Mild renal impairment (creatinine clearance based on Cockcroft-Gault < 80 ml/min
 
 Hepatic impairment: No formal study of the effect of hepatic impairment on the pharmacokinetics of tocilizumab has been conducted.
 
-Age, gender and ethnicity: Population pharmacokinetic analyses in adult RA patients, showed that age, gender and ethnic origin did not affect the pharmacokinetics of tocilizumab.
+Age, gender and ethnicity: Population pharmacokinetic analyses in RA patients, showed that age, gender and ethnic origin did not affect the pharmacokinetics of tocilizumab.
+
+SJIA Patients: The pharmacokinetics of tocilizumab were determined using a population pharmacokinetic analysis on a database composed of 75 sJIA patients treated with 8 mg/kg (patients with a body weight ≥ 30 kg ) or 12 mg/kg (patients with a body weight < 30 kg), given every 2 weeks.
+The predicted mean (± SD) AUC2weeks, Cmax and Cmin of tocilizumab were 32200 ± 9960 µg⋅hr/ml,
+245 ± 57.2 µg/ml and 57.5 ± 23.3 µg/ml, respectively.
+The accumulation ratio for Cmin (week 12 / week 2) was 3.2 ± 1.3.
+The tocilizumab Cmin was stabilized after week 12.
+Mean predicted tocilizumab exposure parameters were similar between the two body weight groups.
+
+In sJIA patients, the central volume of distribution was 35 ml/kg and the peripheral volume of distribution was 60 ml/kg resulting in a volume of distribution at a steady state of 95 ml/kg.
+The linear clearance estimated as a parameter in the population pharmacokinetic analysis, was 0.142 ml/hr/kg.
+The half life of tocilizumab in sJIA patients is up to 23 days for the two body weight categories
+(8 mg/kg for body weight ≥ 30 kg or 12 mg/kg for body weight < 30 kg) at week 12.
