@@ -7,7 +7,6 @@ Monitoring of renal function is recommended for patients receiving Viread (see s
 HIV-1: Approximately one third of patients can be expected to experience adverse reactions following treatment with tenofovir disoproxil fumarate in combination with other antiretroviral agents.
 These reactions are usually mild to moderate gastrointestinal events.
 Approximately 1% of tenofovir disoproxil fumarate-treated patients discontinued treatment due to the gastrointestinal events.
-
 Lactic acidosis, severe hepatomegaly with steatosis and lipodystrophy are associated with tenofovir disoproxil fumarate (see sections 4.4 and 4.8c).
 
 Co-administration of Viread and didanosine is not recommended as this may result in an increased risk of adverse reactions (see section 4.5).
@@ -21,6 +20,7 @@ Acute exacerbation of hepatitis has been reported in patients on treatment as we
 b. Tabulated summary of adverse reactions
 Assessment of adverse reactions for tenofovir disoproxil fumarate is based on safety data from clinical studies and post-marketing experience.
 All adverse reactions are presented in Table 2.
+
 HIV-1 clinical studies: Assessment of adverse reactions from HIV-1 clinical study data is based on experience in two studies in 653 treatment-experienced patients receiving treatment with tenofovir disoproxil fumarate (n = 443) or placebo (n = 210) in combination with other antiretroviral medicinal products for 24 weeks and also in a double-blind comparative controlled study in which 600 treatment-naïve patients received treatment with tenofovir disoproxil 245 mg (as fumarate) (n = 299) or stavudine (n = 301) in combination with lamivudine and efavirenz for 144 weeks.
 
 Hepatitis B clinical studies: Assessment of adverse reactions from HBV clinical study data is primarily based on experience in two double-blind comparative controlled studies in which 641 patients with chronic hepatitis B and compensated liver disease received treatment with tenofovir disoproxil 245 mg (as fumarate) daily (n = 426) or adefovir dipivoxil 10 mg daily (n = 215) for 48 weeks The adverse reactions observed with continued treatment for 192 weeks were consistent with the safety profile of tenofovir disoproxil fumarate.
@@ -34,8 +34,7 @@ Hepatocellular carcinoma was diagnosed in 3 patients in the tenofovir disoproxil
 
 The adverse reactions with suspected (at least possible) relationship to treatment are listed below by body system organ class and frequency.
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
-Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100), or rare (≥ 1/10,000 to < 1/1,000).
-
+Frequencies are defined as very common (≥ 1/10), common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 to < 1/100) or rare (≥ 1/10,000 to < 1/1,000).
 Table 2: Tabulated summary of adverse reactions associated with tenofovir disoproxil fumarate based on clinical study and post-marketing experience
 
 Frequency Tenofovir disoproxil fumarate
@@ -53,13 +52,12 @@ Uncommon: pancreatitis3
 Hepatobiliary disorders:
 Common: increased transaminases
 Rare: hepatic steatosis3, hepatitis
-Skin and subcutaneous disorders:
+Skin and subcutaneous tissue disorders:
 Very common: rash
 Rare: angioedema
 Musculoskeletal and connective tissue disorders:
 Uncommon: rhabdomyolysis1, muscular weakness1
-osteomalacia (manifested as bone pain and infrequently contributing to fractures)1,
-Rare: 2, myopathy1
+Rare: osteomalacia (manifested as bone pain and infrequently contributing to fractures)1, 2, myopathy1
 Renal and urinary disorders:
 Uncommon: increased creatinine
 acute renal failure, renal failure, acute tubular necrosis, proximal renal
@@ -77,14 +75,13 @@ The frequency category was estimated from a statistical calculation based on the
 
 c. Description of selected adverse reactions
 HIV-1 and hepatitis B:
-As Viread may cause renal damage monitoring of renal function is recommended (see sections 4.4 and 4.8a).
+Renal impairment: As Viread may cause renal damage monitoring of renal function is recommended (see sections 4.4 and 4.8a).
 
 HIV-1:
-Interaction with didanosine: Co-administration of tenofovir disoproxil fumarate and didanosine is not recommended as it results in a 40-60% increase in systemic exposure to didanosine that may increase the risk of didanosine-related adverse events (see section 4.5).
-Rare cases of pancreatitis and lactic acidosis, sometimes fatal, have been reported.
+Interaction with didanosine: Co-administration of tenofovir disoproxil fumarate and didanosine is not recommended as it results in a 40-60% increase in systemic exposure to didanosine that may increase the risk of didanosine-related adverse reactions (see section 4.5).
+Rarely, pancreatitis and lactic acidosis, sometimes fatal, have been reported.
 
 Lipids, lipodystrophy and metabolic abnormalities: Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).
-
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump)
 (see section 4.4).
 
@@ -98,6 +95,7 @@ The frequency of this is unknown (see section 4.4).
 
 Lactic acidosis and severe hepatomegaly with steatosis: Lactic acidosis, usually associated with hepatic steatosis, has been reported with the use of nucleoside analogues.
 Treatment with nucleoside analogues should be discontinued in the setting of symptomatic hyperlactataemia and metabolic/lactic acidosis, progressive hepatomegaly, or rapidly elevating aminotransferase levels (see section 4.4).
+
 Hepatitis B:
 Exacerbations of hepatitis during treatment: In studies with nucleoside-naïve patients, on-treatment ALT elevations > 10 times ULN (upper limit of normal) and > 2 times baseline occurred in 2.6% of tenofovir disoproxil fumarate-treated patients.
 ALT elevations had a median time to onset of 8 weeks, resolved with continued treatment, and, in a majority of cases, were associated with a
