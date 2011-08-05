@@ -52,4 +52,9 @@ Intravenous topotecan should be considered in the following clinical situations:
 
 [HYCAMTIN 1 mg hard capsules]
 
-(all sentences already above)
+Fatalities due to neutropenic
+
+colitis have been reported in clinical trials with topotecan.
+In patients presenting with fever, neutropenia, and a compatible pattern of abdominal pain, the possibility of neutropenic colitis
+
+should be considered.
