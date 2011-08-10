@@ -63,6 +63,13 @@ Medication errors
 Medication errors have been reported in which other insulins, particularly short-acting insulins, have been accidentally administered instead of insulin glargine.
 Insulin label must always be checked before each injection to avoid medication errors between insulin glargine and other insulins.
 
+Combination of Lantus with pioglitazone
+
+Cases of cardiac failure have been reported when pioglitazone was used in combination with insulin, especially in patients with risk factors for development of cardiac heart failure.
+This should be kept in mind if treatment with the combination of pioglitazone and Lantus is considered.
+If the combination is used, patients should be observed for signs and symptoms of heart failure, weight gain and oedema.
+Pioglitazone should be discontinued if any deterioration in cardiac symptoms occurs.
+
 [Lantus 100 units/ml solution for injection in a cartridge.]
 
 Pens to be used with Lantus cartridges
