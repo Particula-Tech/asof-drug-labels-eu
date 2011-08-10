@@ -1,10 +1,8 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
 Celgene Europe Ltd
-Riverside House
-Riverside Walk
-Windsor
-SL4 1NA
+1 Longwalk Road
+Stockley Park
+Uxbridge
+UB11 1DB
 United Kingdom
-Tel: +44 1753 240600
-Fax: +44 1753 240656

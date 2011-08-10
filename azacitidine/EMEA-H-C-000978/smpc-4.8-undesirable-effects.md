@@ -15,24 +15,24 @@ Frequencies are defined as: very common (≥ 1/10), common (≥ 1/100 to < 1/10)
 (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); very rare (< 1/10,000); not known (cannot be estimated from the available data).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 
-| System Organ Class | Very common | Common | Uncommon |
-| --- | --- | --- | --- |
-| Infections and infestations | pneumonia*, nasopharyngitis | neutropenic sepsis*, upper respiratory tract infection, urinary tract infection, sinusitis, pharyngitis, rhinitis, herpes simplex |  |
-| Blood and lymphatic system disorders | febrile neutropenia, neutropenia, leukopenia, thrombocytopenia, anaemia | bone marrow failure, pancytopenia |  |
-| Immune system disorders |  |  | hypersensitivity reactions |
-| Metabolism and nutrition disorders | anorexia | hypokalemia |  |
-| Psychiatric disorders |  | confusional state, anxiety, insomnia |  |
-| Nervous system disorders | dizziness, headache | intracranial haemorrhage, lethargy |  |
-| Eye disorders |  | eye haemorrhage, conjunctival haemorrhage |  |
-| Vascular disorders |  | hypertension, hypotension, haematoma |  |
-| Respiratory, thoracic and mediastinal disorders | dyspnoea | dyspnoea exertional, pharyngolaryngeal pain |  |
-| Gastrointestinal disorders | diarrhoea, vomiting, constipation, nausea, abdominal pain | gastrointestinal haemorrhage, haemorrhoidal haemorrhage, stomatitis, gingival bleeding, dyspepsia |  |
-| Hepatobiliary disorders |  |  | hepatic failure*, progressive hepatic coma |
-| Skin and subcutaneous tissue disorders | petechiae, pruritus, rash, ecchymosis | purpura, alopecia, erythema, rash macular |  |
-| Musculoskeletal, and connective tissue disorders | arthralgia | myalgia, musculoskeletal pain |  |
-| Renal and urinary disorders |  | renal failure*, haematuria, elevated serum creatinine | renal tubular acidosis |
-| General disorders and administration site conditions | fatigue, pyrexia, chest pain, injection site erythema, injection site pain, injection site reaction (unspecified) | injection site: bruising, haematoma, induration, rash, pruritus, inflammation, discoloration, nodule and haemorrhage. malaise |  |
-| Investigations |  | weight decreased |  |
+| System Organ Class | Very common | Common | Uncommon | Rare |
+| --- | --- | --- | --- | --- |
+| Infections and infestations | pneumonia*, nasopharyngitis | neutropenic sepsis*, upper respiratory tract infection, urinary tract infection, sinusitis, pharyngitis, rhinitis, herpes simplex |  |  |
+| Blood and lymphatic system disorders | febrile neutropenia, neutropenia, leukopenia, thrombocytopenia, anaemia | bone marrow failure, pancytopenia |  |  |
+| Immune system disorders |  |  | hypersensitivity reactions |  |
+| Metabolism and nutrition disorders | anorexia | hypokalemia |  |  |
+| Psychiatric disorders |  | confusional state, anxiety, insomnia |  |  |
+| Nervous system disorders | dizziness, headache | intracranial haemorrhage, lethargy |  |  |
+| Eye disorders |  | eye haemorrhage, conjunctival haemorrhage |  |  |
+| Vascular disorders |  | hypertension, hypotension, haematoma |  |  |
+| Respiratory, thoracic and mediastinal disorders | dyspnoea | dyspnoea exertional, pharyngolaryngeal pain |  | interstitial lung disease |
+| Gastrointestinal disorders | diarrhoea, vomiting, constipation, nausea, abdominal pain | gastrointestinal haemorrhage, haemorrhoidal haemorrhage, stomatitis, gingival bleeding, dyspepsia |  |  |
+| Hepatobiliary disorders |  |  | hepatic failure*, progressive hepatic coma |  |
+| Skin and subcutaneous tissue disorders | petechiae, pruritus, rash, ecchymosis | purpura, alopecia, erythema, rash macular |  |  |
+| Musculoskeletal, and connective tissue disorders | arthralgia | myalgia, musculoskeletal pain |  |  |
+| Renal and urinary disorders |  | renal failure*, haematuria, elevated serum creatinine | renal tubular acidosis |  |
+| General disorders and administration site conditions | fatigue, pyrexia, chest pain, injection site erythema, injection site pain, injection site reaction (unspecified) | injection site: bruising, haematoma, induration, rash, pruritus, inflammation, discoloration, nodule and haemorrhage. malaise |  |  |
+| Investigations |  | weight decreased |  |  |
 
 *= rarely fatal cases have been reported
 
@@ -45,7 +45,6 @@ Infections
 Myelosupression may lead to neutropenia and an increased risk of infection.
 Serious infections such as neutropenic sepsis (0.8 %) and pneumonia (2.5 %) were reported in patients receiving azacitidine, some with a fatal outcome.
 Infections may be managed with the use of anti-infectives plus growth factor support (e.g. G-CSF) for neutropenia.
-
 Bleeding
 Bleeding may occur with patients receiving azacitidine.
 Serious adverse reactions such as gastrointestinal haemorrhage (0.8 %) and intracranial haemorrhage (0.5 %) have been reported.

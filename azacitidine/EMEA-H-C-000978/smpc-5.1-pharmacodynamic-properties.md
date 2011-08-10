@@ -37,8 +37,8 @@ months
 
 Time (months) from Randomization
 # at risk
-
 KEY: AZA = azacitidine; CCR = conventional care regimens; CI = confidence interval; HR = hazard ratio
+
 The survival benefits of Vidaza were consistent regardless of the CCR treatment option (BSC alone, low-dose cytarabine plus BSC or standard induction chemotherapy plus BSC) utilised in the control arm.
 
 When IPSS cytogenetic subgroups were analysed, similar findings in terms of median overall survival were observed in all groups (good, intermediate, poor cytogenetics, including monosomy 7).

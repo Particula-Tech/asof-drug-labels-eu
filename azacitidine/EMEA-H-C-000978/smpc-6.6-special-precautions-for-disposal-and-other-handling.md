@@ -5,6 +5,7 @@ Vidaza is a cytotoxic medicinal product and, as with other potentially toxic com
 Procedures for proper handling and disposal of anticancer medicinal products should be applied.
 If reconstituted azacitidine comes into contact with the skin, immediately and thoroughly wash with soap and water.
 If it comes into contact with mucous membranes, flush thoroughly with water.
+
 Reconstitution procedure
 Vidaza should be reconstituted with water for injections.
 The shelf life of the reconstituted medicinal product can be extended by reconstituting with refrigerated (2°C to 8°C) water for injections.
@@ -55,6 +56,7 @@ If the elapsed time in the refrigerator is greater than 8 hours, the suspension 
 
 When reconstituting using refrigerated (2°C to 8°C) water for injections, the reconstituted suspension must be placed in a refrigerator (2°C to 8°C) immediately after reconstitution, and kept in the refrigerator for a maximum of 22 hours.
 If the elapsed time in the refrigerator is greater than 22 hours, the suspension should be discarded appropriately and a new dose prepared.
+
 The syringe filled with reconstituted suspension should be allowed up to 30 minutes prior to administration to reach a temperature of approximately 20°C-25°C.
 If the elapsed time is longer than 30 minutes, the suspension should be discarded appropriately and a new dose prepared.
 
