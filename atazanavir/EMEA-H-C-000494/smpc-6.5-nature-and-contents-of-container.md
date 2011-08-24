@@ -21,8 +21,3 @@ Each carton contains one high-density polyethylene (HDPE) bottle or three high-d
 Each bottle contains 30 hard capsules.
 
 Each carton contains 30 x 1 capsules; 5 blister cards of 6 x 1 capsules each in Alu/Alu perforated unit dose blisters.
-
-[REYATAZ 50 mg/1.5 g oral powder]
-
-High density polyethylene (HDPE) bottles closed with a child-resistant polypropylene closure.
-Each bottle contains 180 g of REYATAZ and is packaged in a carton with a measuring spoon.

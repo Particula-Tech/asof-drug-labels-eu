@@ -27,19 +27,3 @@ The increased incidence of benign hepatic adenomas in female mice was likely sec
 There were no tumorigenic findings in male mice or in rats.
 
 Atazanavir increased opacity of bovine corneas in an in vitro ocular irritation study, indicating it may be an ocular irritant upon direct contact with the eye.
-
-[REYATAZ 150 mg hard capsules]
-
-(all sentences already above)
-
-[REYATAZ 200 mg hard capsules]
-
-(all sentences already above)
-
-[REYATAZ 300 mg hard capsules]
-
-(all sentences already above)
-
-[REYATAZ 50 mg/1.5 g oral powder]
-
-The potential for PR prolongation should be considered in cases of overdose (see section 4.9).

@@ -2,7 +2,6 @@
 
 Patients should be advised that current antiretroviral therapy has not been proven to prevent the risk of transmission of HIV to others through blood or sexual contact.
 Appropriate precautions should continue to be employed.
-
 Co-administration of REYATAZ with ritonavir at doses greater than 100 mg once daily has not been clinically evaluated.
 The use of higher ritonavir doses may alter the safety profile of atazanavir
 (cardiac effects, hyperbilirubinaemia) and therefore is not recommended.
@@ -43,6 +42,7 @@ Knowledge about the mechanism is incomplete.
 A connection between visceral lipomatosis and protease inhibitors and lipoatrophy and nucleoside reverse transcriptase inhibitors has been hypothesised.
 A higher risk of lipodystrophy has been associated with individual factors such as older age, and with drug related factors such as longer duration of antiretroviral treatment and associated metabolic disturbances.
 Clinical examination should include evaluation for physical signs of fat redistribution.
+
 Combination antiretroviral therapy (CART), including REYATAZ (with or without ritonavir)-based CART, is associated with dyslipidaemia.
 Consideration should be given to the measurement of fasting serum lipids and blood glucose.
 Lipid disorders should be managed as clinically appropriate
@@ -82,6 +82,16 @@ Osteonecrosis
 Although the etiology is considered to be multifactorial (including corticosteroid use, alcohol consumption, severe immunosuppression, higher body mass index), cases of osteonecrosis have been reported particularly in patients with advanced HIV-disease and/or long-term exposure to combination antiretroviral therapy (CART).
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
+Rash and associated syndromes
+Rashes are usually mild -to-moderate maculopapular skin eruptions that occur within the first 3 weeks of starting therapy with REYATAZ.
+
+Stevens-Johnson syndrome (SJS), erythema multiforme, toxic skin eruptions and drug rash with eosinophilia and systemic symptoms (DRESS) syndrome have been reported in patients receiving REYATAZ.
+Patients should be advised of the signs and symptoms and monitored closely for skin reactions.
+REYATAZ should be discontinued if severe rash develops.
+
+The best results in managing these events come from early diagnosis and immediate interruption of any suspect medicines.
+If the patient has developed SJS or DRESS associated with the use of
+REYATAZ, REYATAZ may not be restarted.
 Interactions with other medicinal products
 Co-administration of REYATAZ with simvastatin or lovastatin is not recommended (see section 4.5).
 
@@ -124,30 +134,3 @@ Cardiac monitoring is recommended based on the presence of clinical findings (e.
 Efficacy
 Atazanavir/ritonavir is not effective in viral strains harbouring multiple mutations of resistance.
 While in adults no benefit can be expected in patients with ≥4 PI mutations, in treatment experienced children even lower numbers of PI mutations may be predictive of a lack of benefit (see section 5.1).
-
-[REYATAZ 150 mg hard capsules]
-
-(all sentences already above)
-
-[REYATAZ 200 mg hard capsules]
-
-(all sentences already above)
-
-[REYATAZ 300 mg hard capsules]
-
-(all sentences already above)
-
-[REYATAZ 50 mg/1.5 g oral powder]
-
-Diabetics
-REYATAZ oral powder contains 7.3 g sucrose per 300 mg daily dose.
-This should be taken into account in patients with diabetes mellitus.
-Patients with rare hereditary problems of fructose intolerance, glucose-galactose malabsorption or sucrase-isomaltase insufficiency should not take this medicine.
-
-The long-term consequences of these reactions are currently unknown.
-
-Concomitant use of REYATAZ/ritonavir and fluticasone or other glucocorticoids that are metabolized by CYP3A4 is not recommended unless the potential benefit of treatment outweighs the risk of systemic corticosteroid effects, including Cushing's syndrome and adrenal suppression (see section 4.5).
-
-Phenylketonuria
-REYATAZ oral powder contains aspartame as a sweetening agent.
-Aspartame provides a source of phenylalanine and, therefore, may not be suitable for persons with phenylketonuria.

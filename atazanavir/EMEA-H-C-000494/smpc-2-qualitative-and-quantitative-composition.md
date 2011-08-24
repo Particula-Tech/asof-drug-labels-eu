@@ -23,9 +23,3 @@ Excipient: 109.57 mg of lactose per capsule.
 Each capsule contains 300 mg of atazanavir (as sulphate)
 
 Excipient: 164.36 mg of lactose per capsule.
-
-[REYATAZ 50 mg/1.5 g oral powder]
-
-One measuring spoon of 1.5 g oral powder contains 50 mg atazanavir (as sulphate).
-
-Excipients: 150 mg of aspartame and 1,218.15 mg of sucrose per measuring spoon of 1.5 g oral powder

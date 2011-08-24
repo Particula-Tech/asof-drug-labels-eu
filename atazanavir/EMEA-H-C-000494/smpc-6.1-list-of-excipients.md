@@ -35,12 +35,3 @@ Simethicone
 Red iron oxide
 Black iron oxide
 Yellow iron oxide
-
-[REYATAZ 50 mg/1.5 g oral powder]
-
-Aspartame (E951)
-Sucrose
-Orange-vanilla flavour including:
-Modified food starch
-Dextrose
-Butylhydroxytoluene (E321)

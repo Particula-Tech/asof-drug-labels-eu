@@ -14,7 +14,6 @@ Resistance levels to atazanavir ranged from 3.5- to 29-fold without evidence of 
 In clinical trials of antiretroviral treatment naive patients treated with boosted atazanavir, the I50L substitution did not emerge in any patient without baseline PI substitutions.
 The N88S substitution has been rarely observed in patients with virologic failure on atazanavir (with or without ritonavir).
 While it may contribute to decreased susceptibility to atazanavir when it occurs with other protease substitutions, in clinical studies N88S by itself does not always lead to phenotypic resistance to atazanavir or have a consistent impact on clinical efficacy.
-
 Table 3.
 De novo substitutions in treatment naive patients failing therapy with atazanavir + ritonavir (Study 138, 96 weeks)
 
@@ -171,37 +170,3 @@ NA = not applicable.
 Data in the paediatric population are very limited.
 Available data do suggest that atazanavir in combination with ritonavir may not be effective in treatment experienced children even with very few
 (<3) PI mutations.
-
-[REYATAZ 150 mg hard capsules]
-
-(all sentences already above)
-
-[REYATAZ 200 mg hard capsules]
-
-(all sentences already above)
-
-[REYATAZ 300 mg hard capsules]
-
-(all sentences already above)
-
-[REYATAZ 50 mg/1.5 g oral powder]
-
-Antiretroviral treatment naive patients
-
-Table 2.
-
-Antiretroviral treatment experienced patients
-
-None of the de novo substitutions (see Table 3) are specific to atazanavir and may reflect re-emergence of archived resistance on atazanavir + ritonavir in Study 045 treatment-experienced population.
-
-In antiretroviral naive patients
-The REYATAZ/ritonavir arm showed similar (non-inferior) antiviral efficacy compared to the lopinavir/ritonavir arm, as assessed by the proportion of patients with HIV RNA < 50 copies/ml at week 48 (Table 4).
-Analyses of data through 96 weeks of treatment demonstrated durability of antiviral activity (Table 4).
-Table 4: Efficacy Outcomes in Study 138 a
-
-a Mean baseline CD4 cell count was 214 cells/mm3 (range 2 to 810 cells/mm3 and mean baseline plasma HIV-1 RNA was 4.94 log10 copies/ml (range 2.6 to 5.88 log10 copies/ml) b REYATAZ/RTV with tenofovir/emtricitabine (fixed dose 300 mg/200 mg tablets once daily).
-
-In antiretroviral experienced patients
-
-The primary endpoint was the time-averaged difference in change from baseline in HIV RNA through 48 weeks (Table 5).
-Table 5: Efficacy Outcomes at Week 48a and at Week 96 (Study 045)

@@ -8,9 +8,15 @@ Adverse reactions were consistent between patients who received REYATAZ 400 mg o
 Among patients who received REYATAZ 400 mg once daily or REYATAZ 300 mg with ritonavir 100 mg once daily, the only adverse reactions of any severity reported very commonly with at least a possible relationship to regimens containing REYATAZ and one or more NRTIs were nausea (20%), diarrhoea (10%), and jaundice (13%).
 Among patients receiving REYATAZ 300 mg with ritonavir 100 mg, the frequency of jaundice was 19%.
 In the majority of cases, jaundice was reported within a few days to a few months after the initiation of treatment (see section 4.4).
-
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients, including loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy, and dorsocervical fat accumulation (buffalo hump).
+
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia, and hyperlactataemia (see sections 4.4 and 5.1).
+
+Rash and associated syndromes
+Rashes are usually mild-to-moderate maculopapular skin eruptions that occur within the first 3 weeks of starting therapy with REYATAZ.
+
+Stevens-Johnson syndrome (SJS), erythema multiforme, toxic skin eruptions and drug rash with eosinophilia and systemic symptoms (DRESS) syndrome have been reported with the use of
+REYATAZ (see section 4.4).
 
 Adult patients
 The following adverse reactions of moderate intensity or greater with at least a possible relationship to regimens containing REYATAZ and one or more NRTIs have also been reported.
@@ -38,10 +44,11 @@ pollakiuria;
 rare: kidney pain
 
 Skin and subcutaneous tissue common: rash;
-disorders: uncommon: urticaria, alopecia, pruritus;
+disorders: uncommon: erythemia multiformea, toxic skin eruptionsa,
 
-rare: vesiculobullous rash, eczema, vasodilatation
-
+drug rash with eosinophilia and systemic symptoms
+(DRESS) syndromea, urticaria, alopecia, pruritus;
+rare: Stevens-Johnson syndromea, vesiculobullous rash, eczema, vasodilatation
 Musculoskeletal and connective uncommon: muscle atrophy, arthralgia, myalgia;
 
 tissue disorders: rare: myopathy
@@ -64,6 +71,9 @@ Reproductive system and breast uncommon: gynaecomastia disorders:
 Psychiatric disorders: uncommon: depression, disorientation, anxiety, insomnia,
 
 sleep disorder, abnormal dream
+
+a These adverse reactions were identified through post-marketing surveillance but not observed in clinical trials with REYATAZ.
+The frequency category was estimated from a statistical calculation based on the total number of patients exposed to REYATAZ in randomised controlled and other available clinical trials (n = 2321).
 
 In HIV-infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
 
@@ -96,19 +106,3 @@ The most frequently reported laboratory abnormality in paediatric patients recei
 
 Postmarketing experience
 There have been postmarketing reports of unknown frequency for torsades de pointes, QTc prolongation, diabetes mellitus, hyperglycaemia, nephrolithiasis, and gallbladder disorders including cholelithiasis, cholecystitis, and cholestasis.
-
-[REYATAZ 150 mg hard capsules]
-
-(all sentences already above)
-
-[REYATAZ 200 mg hard capsules]
-
-(all sentences already above)
-
-[REYATAZ 300 mg hard capsules]
-
-(all sentences already above)
-
-[REYATAZ 50 mg/1.5 g oral powder]
-
-(1,151 patients, 52 weeks median duration and 152 weeks maximum duration) or REYATAZ 300 mg with ritonavir 100 mg once daily (655 patients, 96 weeks median duration and 108 weeks maximum duration).
