@@ -26,7 +26,6 @@ Co-administration of sitagliptin and metformin had an additive effect on active 
 Sitagliptin, but not metformin, increased active GIP concentrations.
 
 Overall, sitagliptin improved glycaemic control when used as monotherapy or in combination treatment (see Table 2).
-
 Two studies were conducted to evaluate the efficacy and safety of Januvia monotherapy.
 Treatment with sitagliptin at 100 mg once daily as monotherapy provided significant improvements in HbA1c, fasting plasma glucose (FPG), and 2-hour post-prandial glucose (2-hour PPG), compared to placebo in two studies, one of 18- and one of 24-weeks duration.
 Improvement of surrogate markers of beta cell function, including HOMA-β (Homeostasis Model Assessment-β), proinsulin to insulin ratio, and measures of beta cell responsiveness from the frequently-sampled meal tolerance test were observed.
@@ -45,6 +44,7 @@ In these studies there was a similar incidence of hypoglycaemia reported for pat
 A 24-week placebo-controlled study was designed to evaluate the efficacy and safety of sitagliptin (100 mg once daily) added to glimepiride alone or glimepiride in combination with metformin.
 The addition of sitagliptin to either glimepiride alone or to glimepiride and metformin provided significant improvements in glycaemic parameters.
 Patients treated with sitagliptin had a modest increase in body weight compared to those given placebo.
+
 A 54-week placebo-controlled study was designed to evaluate the efficacy and safety of sitagliptin (100 mg once daily) added to the combination of rosiglitazone and metformin.
 The addition of sitagliptin to rosiglitazone and metformin provided significant improvements in glycaemic parameters at the primary timepoint of Week 18, with improvements sustained through the end of the study.
 Change from baseline in body weight was similar for patients treated with sitagliptin relative to placebo (1.9 vs. 1.3 kg).
@@ -58,7 +58,6 @@ There was no meaningful change from baseline in body weight in either group.
 In a 24-week placebo-controlled factorial study of initial therapy, sitagliptin 50 mg twice daily in combination with metformin (500 mg or 1,000 mg twice daily) provided significant improvements in glycaemic parameters compared with either monotherapy.
 The decrease in body weight with the combination of sitagliptin and metformin was similar to that observed with metformin alone or placebo; there was no change from baseline for patients on sitagliptin alone.
 The incidence of hypoglycaemia was similar across treatment groups.
-
 Table 2.
 HbA1c results in placebo-controlled monotherapy and combination therapy studies*
 
