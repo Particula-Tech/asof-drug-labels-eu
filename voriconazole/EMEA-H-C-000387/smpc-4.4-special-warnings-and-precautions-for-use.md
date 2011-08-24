@@ -59,18 +59,21 @@ Concomitant use of voriconazole and rifabutin should be avoided unless the benef
 Methadone (CYP3A4 substrate): Frequent monitoring for adverse events and toxicity related to methadone, including QTc prolongation, is recommended when coadministered with voriconazole since methadone levels increased following co-administration of voriconazole.
 Dose reduction of methadone may be needed (see section 4.5).
 
-Short Acting Opiates (CYP3A4 substrate): Reduction in the dose of alfentanil, fentanyl and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g sufentanil) should be considered when co-administered with voriconazole (see section 4.5).
-As the half-life of alfentanil is prolonged in a four-fold manner when alfentanil is coadministered with voriconazoleand in an independent published study, concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC 0-∞ of fentanyl, frequent monitoring for opiate-associated adverse events (including a longer respiratory monitoring period) may be necessary.
+Short Acting Opiates (CYP3A4 substrate): Reduction in the dose of alfentanil, fentanyl and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g., sufentanil) should be considered when co-administered with voriconazole (see section 4.5).
+As the half-life of alfentanil is prolonged in a four-fold manner when alfentanil is coadministered with voriconazole and in an independent published study, concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC0-∞ of fentanyl, frequent monitoring for opiate-associated adverse events (including a longer respiratory monitoring period) may be necessary.
 
 Long Acting Opiates (CYP3A4 substrate): Reduction in the dose of oxycodone and other long-acting opiates metabolized by CYP3A4 (e.g., hydrocodone) should be considered when coadministered with voriconazole.
 Frequent monitoring for opiate-associated adverse events may be necessary (see Section 4.5).
-Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor): Coadministration of oral voriconazole and oral fluconazole resulted in a significant increase in Cmax and AUCτ of voriconazole in healthy subjects.
+Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor) Coadministration of oral voriconazole and oral fluconazole resulted in a significant increase in Cmax and AUCτ of voriconazole in healthy subjects.
 The reduced dose and/or frequency of voriconazole and fluconazole that would eliminate this effect have not been established.
 Monitoring for voriconazole associated adverse events is recommended if voriconazole is used sequentially after fluconazole (see Section 4.5).
 
 Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate): Coadministration of voriconazole and low dose ritonavir (100 mg twice daily) should be avoided unless an assessment of the benefit/risk justifies the use of voriconazole (see section 4.5, for higher doses see section 4.3).
 
 Efavirenz (CYP450 inducer; CYP3A4 inhibitor and substrate): When voriconazole is coadministered with efavirenz the dose of voriconazole should be increased to 400 mg every 12 hours and that of efavirenz should be decreased to 300 mg every 24 hours (see sections 4.2 and 4.5.).
+
+Everolimus (CYP3A4 substrate, P-gp substrate): Co-administration of voriconazole with everolimus is not recommended because voriconazole is expected to significantly increase everolimus concentrations.
+Currently there are insufficient data to allow dosing recommendations in this situation (see section 4.5).
 
 VFEND tablets contain lactose and should not be given to patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption.
 
@@ -83,6 +86,7 @@ Transient hepatic reactions, including hepatitis and jaundice, have occurred amo
 
 If a patient develops a skin lesion consistent with squamous cell carcinoma, VFEND discontinuation should be considered.
 
+Short Acting Opiates (CYP3A4 substrate): Reduction in the dose of alfentanil, fentanyl and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g sufentanil) should be considered when co-administered with voriconazole (see section 4.5).
 As the half-life of alfentanil is prolonged in a four-fold manner in combination with voriconazoleand in an independent published study, concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC 0-∞ of fentanyl, frequent monitoring for opiate-associated adverse events (including a longer respiratory monitoring period) may be necessary.
 
 Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate): Coadministration of voriconazole and low dose ritonavir (100mg twice daily) should be avoided unless an assessment of the benefit/risk justifies the use of voriconazole (see section 4.5, for higher doses see section 4.3).
@@ -106,10 +110,14 @@ Monitoring of pancreatic function: Patients, especially children, with risk fact
 
 Physicians should therefore consider the need to limit the exposure to VFEND (see Section 4.2 Posology and method of administration and section 5.1 Pharmacodynamic properties (Duration of treatment).
 
+Paediatric use Safety and effectiveness in paediatric subjects below the age of two years has not been established (see also sections 4.8 and 5.1).
+
 Short Acting Opiates (CYP3A4 substrate): Reduction in the dose of alfentanil, fentanyl and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g. sufentanil) should be considered when co-administered with voriconazole (see section 4.5).
 As the half-life of alfentanil is prolonged in a four-fold manner when alfentanyl is coadministered with voriconazole, and in an independent published study, concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC 0-∞ of fentanyl frequent monitoring for opiate-associated adverse events (including a longer respiratory monitoring period) may be necessary.
 
 Long Acting Opitates (CYP3A4 substrate): Reduction in the dose of oxycodone and other long-acting opiates metabolized by CYP3A4 (e.g., hydrocodone) should be considered when coadministered with voriconazole.
+
+Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor): Coadministration of oral voriconazole and oral fluconazole resulted in a significant increase in Cmax and AUCτ of voriconazole in healthy subjects.
 
 Sodium content: Each vial of VFEND contains 217.6 mg of sodium.
 This should be taken into consideration for patients on a controlled sodium diet.
@@ -120,6 +128,8 @@ In addition VFEND has been associated withphototoxicity and pseudoporphyria.
 Physicians should therefore consider the need to limit the exposure to VFEND (see Section 4.2 (Posology and method of administration) and 5.1 Pharmacodynamic properties (Duration of treatment).
 
 Rifabutin (CYP450 inducer): Careful monitoring of full blood counts and adverse reactions to rifabutin (e.g. uveitis) is recommended when rifabutin is coadministered with voriconazole.
+
+As the half-life of alfentanil is prolonged in a four-fold manner when alfentanil is coadministered with voriconazoleand in an independent published study, concomitant use of voriconazole with fentanyl resulted in an increase in the mean AUC 0-∞ of fentanyl, frequent monitoring for opiate-associated adverse events (including a longer respiratory monitoring period) may be necessary.
 
 Fluconazole (CYP2C9, CYP2C19 and CYP3A4 inhibitor): Coadministration of oral voriconazole and oral fluconazole resulted in a significant increase in Cmax and AUCT of voriconazole in healthy subjects.
 

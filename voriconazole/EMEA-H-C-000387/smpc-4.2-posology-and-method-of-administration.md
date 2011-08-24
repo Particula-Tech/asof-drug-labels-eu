@@ -13,11 +13,8 @@ Detailed information on dosage recommendations is provided in the following tabl
 
 |  | Intravenous | Oral |  |
 | --- | --- | --- | --- |
-|  |  | Patients 40 kg and | Patients less than 40 kg |
-|  |  | above |  |
-| Loading Dose | 6 mg/kg every 12 hours (for the first 24 hours) | 400 mg every 12 hours (for the first 24 hours) | 200 mg every 12 hours (for the first 24 hours) |
-| Regimen |  |  |  |
-| (first 24 hours) |  |  |  |
+|  |  | Patients 40 kg and above | Patients less than 40 kg |
+| Loading Dose Regimen (first 24 hours) | 6 mg/kg every 12 hours (for the first 24 hours) | 400 mg every 12 hours (for the first 24 hours) | 200 mg every 12 hours (for the first 24 hours) |
 | Maintenance Dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg twice daily | 100 mg twice daily |
 
 Dosage adjustment
@@ -82,14 +79,6 @@ Adolescents (12 to 16 years of age): should be dosed as adults.
 
 VFEND is also available as 50 mg film-coated tablets, 200 mg powder for solution for infusion and 40 mg/ml powder for oral suspension.
 
-|  | Intravenous | Oral |  |
-| --- | --- | --- | --- |
-|  |  | Patients 40 kg and above | Patients less than 40 kg |
-| Loading Dose | 6 mg/kg every 12 hours (for the first 24 hours) | 400 mg every 12 hours (for the first 24 hours) | 200 mg every 12 hours (for the first 24 hours) |
-| Regimen |  |  |  |
-| (first 24 hours) |  |  |  |
-| Maintenance Dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg twice daily | 100 mg twice daily |
-
 A four hour haemodialysis session does not remove sufficient amount of voriconazole to warrant dose adjustment.
 
 [VFEND 200 mg powder for solution for infusion]
@@ -141,11 +130,8 @@ VFEND is also available as 50 mg and 200 mg film-coated tablets and 200 mg powde
 |  | Intravenous | Oral Suspension |  |
 | --- | --- | --- | --- |
 |  |  | Patients 40 kg and above | Patients less than 40 kg |
-| Loading Dose | 6 mg/kg every 12 hours (for the first 24 hours) | 400 mg (10 ml) every 12 hours (for the first 24 hours) | 200 mg (5 ml) every 12 hours (for the first 24 hours) |
-| Regimen |  |  |  |
-| (first 24 hours) |  |  |  |
-| Maintenance Dose | 4 mg/kg twice daily | 200 mg (5 ml) twice daily | 100 mg (2.5 ml) twice daily |
-| (after first 24 hours) |  |  |  |
+| Loading Dose Regimen (first 24 hours) | 6 mg/kg every 12 hours (for the first 24 hours) | 400 mg (10 ml) every 12 hours (for the first 24 hours) | 200 mg (5 ml) every 12 hours (for the first 24 hours) |
+| Maintenance Dose (after first 24 hours) | 4 mg/kg twice daily | 200 mg (5 ml) twice daily | 100 mg (2.5 ml) twice daily |
 
 Treatment should be as short as possible depending on the patients’ clinical and mycological response.
 

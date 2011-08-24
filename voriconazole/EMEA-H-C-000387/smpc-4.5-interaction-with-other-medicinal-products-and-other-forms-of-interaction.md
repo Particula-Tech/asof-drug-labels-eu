@@ -43,12 +43,13 @@ When there is also a potential for voriconazole to increase the plasma levels of
 
 Terfenadine, astemizole, cisapride, pimozide and quinidine (CYP3A4 substrates): Although not studied, coadministration of voriconazole with terfenadine, astemizole, cisapride, pimozide, or quinidine is contraindicated, since increased plasma concentrations of these medicinal products can lead to QTc prolongation and rare occurrences of torsades de pointes (see section 4.3).
 
-Sirolimus (CYP3A4 substrate): Voriconazole increased sirolimus (2 mg single dose) Cmax and
-AUCτ by 556 % and 1014 %, respectively.
+Sirolimus (CYP3A4 substrate): Voriconazole increased sirolimus (2 mg single dose) Cmax and AUCτ by 556 % and 1014 %, respectively.
 Coadministration of voriconazole and sirolimus is contraindicated (see section 4.3).
 
 Ergot alkaloids (CYP3A4 substrates): Although not studied, voriconazole may increase the plasma concentrations of ergot alkaloids (ergotamine and dihydroergotamine) and lead to ergotism.
 Coadministration of voriconazole with ergot alkaloids is contraindicated (see section 4.3).
+
+Everolimus (CYP3A4 substrate, P-gp substrate): Co-administration of voriconazole with everolimus is not recommended because voriconazole is expected to significantly increase everolimus concentrations (see section 4.4).
 
 Ciclosporin (CYP3A4 substrate): In stable, renal transplant recipients, voriconazole increased ciclosporin Cmax and AUCτ by at least 13 % and 70 % respectively.
 When initiating voriconazole in patients already receiving ciclosporin it is recommended that the ciclosporin dose be halved and ciclosporin level carefully monitored.
@@ -133,6 +134,7 @@ No dosage adjustment of voriconazole is recommended.
 Voriconazole increased omeprazole Cmax and AUCτ by 116 % and 280 %, respectively.
 When initiating voriconazole in patients already receiving omeprazole, it is recommended that the omeprazole dose be halved.
 The metabolism of other proton pump inhibitors which are CYP2C19 substrates may also be inhibited by voriconazole.
+
 Oral Contraceptives: Coadministration of voriconazole and an oral contraceptive (1 mg norethisterone and 0.035 mg ethinylestradiol; once daily) in healthy female subjects resulted in increases in the Cmax and AUCτ of ethinylestradiol (36 % and 61 % respectively) and norethisterone (15 % and 53 % respectively).
 Voriconazole Cmax and AUCτ increased by 14 % and 46 % respectively.
 It is expected that the voriconazole levels will return to standard levels during the pill-free week.
@@ -166,6 +168,7 @@ These differences were not considered to be clinically significant.
 When voriconazole is coadministered with efavirenz, voriconazole maintenance dose should be increased to 400 mg twice daily and the efavirenz dose should be reduced by 50 %, i.e. to 300 mg once daily (see section 4.2).
 
 When treatment with voriconazole is stopped, the initial dosage of efavirenz should be restored.
+
 Non-nucleoside reverse transcriptase inhibitors (NNRTI) (CYP3A4 substrates, inhibitors or CYP450 inducers): In vitro studies show that the metabolism of voriconazole may be inhibited by delavirdine.
 Although not studied, the metabolism of voriconazole may be induced by nevirapine.
 An in-vivo study showed that voriconazole inhibited the metabolism of efavirenz.
@@ -180,6 +183,9 @@ Ritonavir (potent CYP450 inducer; CYP3A4 inhibitor and substrate): The effect of
 Administration of voriconazole did not have a significant effect on mean Cmax and AUCτ of ritonavir in the high dose study although a minor decrease in steady state Cmax and AUCτ of ritonavir with an average of 25 % and 13 % respectively was observed in the low dose ritonavir interaction study.
 
 When there is also a potential for voriconazole to increase the plasma levels of substances metabolised by CYP3A4 isoenzymes (certain antihistamines, quinidine, cisapride, pimozide) co-administration is contraindicated (see section 4.3).
+
+Sirolimus (CYP3A4 substrate): Voriconazole increased sirolimus (2 mg single dose) Cmax and
+AUCτ by 556 % and 1014 %, respectively.
 
 Methadone (CYP3A4 substrate): In subjects receiving a methadone maintenance dose (32-100 mg once daily) coadministration of oral voriconazole (400 mg twice daily for 1 day, then 200 mg twice daily for four days) increased the Cmax and AUC of pharmacologically active R-methadone by 31
 % and 47 %, respectively, whereas the Cmax and AUC of the S-enantiomer increased by approximately 65 % and 103 %, respectively.

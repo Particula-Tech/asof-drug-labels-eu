@@ -11,6 +11,7 @@ The most commonly reported adverse events were visual disturbances, pyrexia, ras
 
 The severity of the adverse events was generally mild to moderate.
 No clinically significant differences were seen when the safety data were analysed by age, race, or gender.
+
 Undesirable effects reported in subjects receiving voriconazole:
 
 | System Organ Class | Adverse drug reactions |
@@ -214,15 +215,12 @@ Rare Convulsion, encephalopathy, Guillain-Barre syndrome,
 extrapyramidal symptoms, somnolence during infusion,
 peripheral neuropathy
 Eye disorders
-Visual disturbances (including blurred vision (see Section
-Very common
-4.4), chromotopsia and photophobia)
-Uncommon Papilloedema (se Section 4.4), optic nerve disorder (including
-optic neuritis, see Section 4.4), nystagmus, scleritis,
-blepharitis
+Very common Visual disturbances (including blurred vision (see Section
 
-| Rare | Optic atrophy, Retinal haemorrhage, oculogyration, corneal opacity |
+|  | 4.4), chromotopsia and photophobia) |
 | --- | --- |
+| Uncommon | Papilloedema (se Section 4.4), optic nerve disorder (including optic neuritis, see Section 4.4), nystagmus, scleritis, blepharitis |
+| Rare | Optic atrophy, Retinal haemorrhage, oculogyration, corneal opacity |
 | Ear and labyrinth disorders |  |
 | Rare | Hypoacusis, tinnitus |
 | Cardiac disorders |  |
@@ -333,7 +331,9 @@ Symptoms appeared immediately upon initiating the infusion (see also section 4.4
 | Common | Injection site reaction / inflammation, chills, asthenia, |
 | Investigations |  |
 | Common | Elevated liver function tests (including ASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), blood creatinine increased |
-| Uncommon | Electrocardiogram QT corrected interval prolonged, blood urea increased, blood cholesterol increased |
+
+Uncommon Electrocardiogram QT corrected interval prolonged, blood
+urea increased, blood cholesterol increased
 
 Altered taste perception
 In the combined data from three bioequivalence studies using the powder for oral suspension formulation, treatment related taste perversion was recorded in 12 (14 %) of subjects.
