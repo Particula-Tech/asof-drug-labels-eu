@@ -28,11 +28,17 @@ Clinical efficacy in previously untreated multiple myeloma
 A prospective Phase III, international, randomised (1:1), open-label clinical study (VISTA) of 682 patients was conducted to determine whether VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) resulted in improvement in time to progression (TTP) when compared to melphalan (9 mg/m2) and prednisone (60 mg/m2) in patients with previously untreated multiple myeloma.
 Treatment was administered for a maximum of 9 cycles (approximately 54 weeks) and was discontinued early for disease progression or unacceptable toxicity.
 Baseline demographics and patient characteristics are summarized in Table 7.
+
 Table 7: Summary of baseline patient and disease characteristics in the VISTA study
 
-| Patient characteristics | Vc+M+P n=344 | M+P n=338 |
-| --- | --- | --- |
-| Median age in years (range) Gender: male/female Race: caucasian/asian/black/other Karnofsky performance status score ≤70 Hemoglobin <100 g/l Platelet count <75 x 109/l | 71.0 (57, 90) 51% / 49% 88% / 10% / 1% / 1% 35% 37% <1% | 71.0 (48, 91) 49% / 51% 87% / 11% / 2% / 0% 33% 36% 1% |
+Vc+M+P M+P
+Patient characteristics n=344 n=338
+Median age in years (range) 71.0 (57, 90) 71.0 (48, 91)
+Gender: male/female 51% / 49% 49% / 51%
+Race: caucasian/asian/black/other 88% / 10% / 1% / 1% 87% / 11% / 2% / 0%
+Karnofsky performance status score ≤70 35% 33%
+Hemoglobin <100 g/l 37% 36%
+Platelet count <75 x 109/l <1% 1%
 
 Disease Characteristics
 
@@ -82,8 +88,8 @@ Table 8: Updated efficacy results following pre-planned interim analysis in the 
 | p-value c | 0.000009 |  |
 
 a Kaplan-Meier estimate.
-b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: β2-microglobulin, albumin, and region.
-A hazard ratio less than 1 indicates an advantage for VMP c Nominal p-value based on the stratified log-rank test adjusted for stratification factors: β2-microglobulin, albumin, and region d p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors e Response population includes patients who had measurable disease at baseline f EBMT criteria g All randomized patients with secretory disease
+b Hazard ratio estimate is based on a Cox proportional-hazard model adjusted for stratification factors: β 2-microglobulin, albumin, and region.
+A hazard ratio less than 1 indicates an advantage for VMP c Nominal p-value based on the stratified log-rank test adjusted for stratification factors: β 2-microglobulin, albumin, and region d p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors e Response population includes patients who had measurable disease at baseline f EBMT criteria g All randomized patients with secretory disease
 * Survival update based on a median duration of follow-up at 36.7 months
 NE: not estimable
 NR: not reached mo: months
@@ -105,24 +111,26 @@ Table 9: Dosing regimens in Phase II and Phase III studies
 
 Table 10: Patient characteristics in Phase II and Phase III studies
 
-|  | Phase II Vc | Phase III Vc | Phase III Dex |
-| --- | --- | --- | --- |
-| Patient number, ITT analysis | 202 | 333 | 336 |
-| Male % | 60 | 56 | 60 |
-| Median age, yrs (range) | 59 (34-84) | 61 (33-84) | 61 (27-86) |
-| Caucasian | 81 % | 90 % | 88 % |
-| Karnofsky PS >80% | 80 % | 87 % | 84 % |
-| Platelets < 75,000/μl | 21 % | 6 % | 4 % |
-| Hemoglobin < 100g/l | 44 % | 32 % | 28 % |
-| Median Creatinine Clearance, ml/min (range) | 74 (14-221) | 73.3 (15.6-170.7) | 73.3 (15.3-261.1) |
-| Myeloma IgG | 60 % | 60 % | 59 % |
-| Myeloma IgA | 24 % | 23 % | 24 % |
-| Myeloma light chain | 14 % | 12 % | 13 % |
-| Median duration since diagnosis (yrs) | 4.0 | 3.5 | 3.1 |
-| Chromosome 13 abnormalities | 15 % | 25.7 % | 25.0 % |
-| Median β2-microglobulin (mg/l) | 3.5 | 3.7 | 3.6 |
-| Median number prior treatment lines* (range) | 6 (2-15) | 2 (1-7) | 2 (1-8) |
-| 1 prior line > 1 prior line | 0 | n =132 (40 %) n = 186 (60 %) | n = 119 (35 %) n = 194 (65 %) |
+Phase II Phase III Phase III
+Vc Vc Dex
+Patient number, ITT analysis 202 333 336
+Male % 60 56 60
+Median age, yrs (range) 59 (34-84) 61 (33-84) 61 (27-86)
+Caucasian 81 % 90 % 88 %
+Karnofsky PS >80% 80 % 87 % 84 %
+Platelets < 75,000/μl 21 % 6 % 4 %
+Hemoglobin < 100g/l 44 % 32 % 28 %
+Median Creatinine Clearance, ml/min (range) 74 73.3 73.3
+(14-221) (15.6-170.7) (15.3-261.1)
+Myeloma IgG 60 % 60 % 59 %
+Myeloma IgA 24 % 23 % 24 %
+Myeloma light chain 14 % 12 % 13 %
+Median duration since diagnosis (yrs) 4.0 3.5 3.1
+Chromosome 13 abnormalities 15 % 25.7 % 25.0 %
+Median β2-microglobulin (mg/l) 3.5 3.7 3.6
+Median number prior treatment lines* (range) 6 (2-15) 2 (1-7) 2 (1-8)
+1 prior line 0 n =132 (40 %) n = 119 (35 %)
+> 1 prior line n = 186 (60 %) n = 194 (65 %)
 
 *Including steroids, alkylating agents, anthracyclines, thalidomide and stem cell transplants
 Table 11: Patient exposure to treatment with VELCADE during Phase II and III studies
@@ -142,7 +150,7 @@ Both in patients who were refractory to their last prior therapy and those who w
 
 Of the 669 patients enrolled, 245 (37%) were 65 years of age or older.
 Response parameters as well as TTP remained significantly better for VELCADE independently of age.
-Regardless of β2-microglobulin levels at baseline, all efficacy parameters (time to progression and overall survival, as well as response rate) were significantly improved on the VELCADE arm.
+Regardless of β 2-microglobulin levels at baseline, all efficacy parameters (time to progression and overall survival, as well as response rate) were significantly improved on the VELCADE arm.
 
 In the refractory population of the Phase II study, responses were determined by an independent review committee and the response criteria were those of the European Bone Marrow Transplant Group.
 The median survival of all patients enrolled was 17 months (range <1 to 36+ months).
@@ -163,9 +171,8 @@ Table 12: Summary of disease outcomes from the Phase III and Phase II studies
 | CR + nCR | 41 (13) b | 5 (2) b | 16 (13) | 4 (4) | 25 (13) | 1 (<1) | (10)** |
 | CR+ nCR + PR | 121 (38) b | 56 (18) b | 57 (45) d | 29 (26) d | 64 (34) b | 27 (13) b | (27)** |
 | CR + nCR+ PR+MR | 146 (46) | 108 (35) | 66 (52) | 45 (41) | 80 (43) | 63 (31) | (35)** |
-| Median duration | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
 |  | All patients |  | 1 Prior line of therapy |  | >1 Prior line of therapy |  | ≥2 prior lines |
-| Days (months) |  |  |  |  |  |  |  |
+| Median duration Days (months) | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
 | Time to response CR + PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |
 
 a Intent to Treat (ITT) population b p-value from the stratified log-rank test; analysis by line of therapy excludes stratification for therapeutic history; p<0.0001 c Response population includes patients who had measurable disease at baseline and received at least 1 dose of study drug.
@@ -232,6 +239,8 @@ A prospective Phase III, international, randomized (1:1), open-label clinical st
 | Hazard ratiob (95% CI) | 0.52 (0.39, 0.70) |  |
 | p-value c | 0.000009 |  |
 
+A hazard ratio less than 1 indicates an advantage for VMP c Nominal p-value based on the stratified log-rank test adjusted for stratification factors: β2-microglobulin, albumin, and region d p-value for Response Rate (CR + PR) from the Cochran-Mantel-Haenszel chi-square test adjusted for the stratification factors e Response population includes patients who had measurable disease at baseline f EBMT criteria g All randomized patients with secretory disease
+
 | Phase/arm | Treatment schedule | Dose | Regimen |
 | --- | --- | --- | --- |
 | II | Vc: Day 1,4,8,11, (rest Day 12-21) | 1.3 mg/m2 (intravenous bolus) | Q3 weeks x 8 cycles (extension**) |
@@ -239,29 +248,18 @@ A prospective Phase III, international, randomized (1:1), open-label clinical st
 | III | Dex a) Days 1–4, 9–12, 17–20 b) Days 1–4 | 40 mg (oral) | a) Q5 week x 4 b) Q4 week x 5 |
 | II | Add Dex*** | 20 mg (oral) (Days 1,2,4,5,8,9, 11,12) | Q3 weeks |
 
-|  | Phase II Vc | Phase III Vc | Phase III Dex |
-| --- | --- | --- | --- |
-| Patient number, ITT analysis | 202 | 333 | 336 |
-| Male % | 60 | 56 | 60 |
-| Median age, yrs (range) | 59 (34-84) | 61 (33-84) | 61 (27-86) |
-| Caucasian | 81 % | 90 % | 88 % |
-| Karnofsky PS >80% | 80 % | 87 % | 84 % |
-| Platelets < 75,000/μl | 21 % | 6 % | 4 % |
-| Hemoglobin < 100g/l | 44 % | 32 % | 28 % |
-| Median Creatinine Clearance, ml/min (range) | 74 (14-221) | 73.3 (15.6-170.7) | 73.3 (15.3-261.1) |
-| Myeloma IgG | 60 % | 60 % | 59 % |
-| Myeloma IgA | 24 % | 23 % | 24 % |
-| Myeloma light chain | 14 % | 12 % | 13 % |
-| Median duration since diagnosis (yrs) | 4.0 | 3.5 | 3.1 |
-| Chromosome 13 abnormalities | 15 % | 25.7 % | 25.0 % |
-| Median β2 microglobulin (mg/l) | 3.5 | 3.7 | 3.6 |
-| Median number prior treatment lines* (range) | 6 (2-15) | 2 (1-7) | 2 (1-8) |
-| 1 prior line > 1 prior line | 0 | n =132 (40 %) n = 186 (60 %) | n = 119 (35 %) n = 194 (65 %) |
+Median Creatinine Clearance, ml/min 74 73.3 73.3
+(range) (14-221) (15.6-170.7) (15.3-261.1)
+Median β2 microglobulin (mg/l) 3.5 3.7 3.6
+Median number prior treatment lines* 6 (2-15) 2 (1-7) 2 (1-8)
+(range)
 
 |  | Phase II Vc | Phase III Vc | Phase III Dex |
 | --- | --- | --- | --- |
 | Received at least 1 dose | n = 202 | n =331 | n = 332 |
 | Completed 4 cycles a) all initial cycles (number) b) full course (number) c) extension * | 62 % 27 % (8 cycles ) NA n = 63 pts (median 7 cycles) or total median 14 cycles (range 7-32) | 69 % 29 % (8 cycles) 9 % (11 cycles) NA | 36 % (4 cycles) 5 % (9 cycles) NA |
+
+Regardless of β2-microglobulin levels at baseline, all efficacy parameters (time to progression and overall survival, as well as response rate) were significantly improved on the VELCADE arm.
 
 |  | Phase III |  | Phase III |  | Phase III |  | Phase II |
 | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -274,6 +272,5 @@ A prospective Phase III, international, randomized (1:1), open-label clinical st
 | CR + nCR | 41 (13) b | 5 (2) b | 16 (13) | 4 (4) | 25 (13) | 1 (<1) | (10)** |
 | CR+ nCR + PR | 121 (38) b | 56 (18) b | 57 (45) d | 29 (26) d | 64 (34) b | 27 (13) b | (27)** |
 | CR + nCR+ PR+MR | 146 (46) | 108 (35) | 66 (52) | 45 (41) | 80 (43) | 63 (31) | (35)** |
-|  | All patients |  | 1 Prior line of therapy |  | >1 Prior line of therapy |  | ≥2 prior lines |
 | Median duration Days (months) | 242 (8.0) | 169 (5.6) | 246 (8.1) | 189 (6.2) | 238 (7.8) | 126 (4.1) | 385* |
 | Time to response CR + PR (days) | 43 | 43 | 44 | 46 | 41 | 27 | 38* |

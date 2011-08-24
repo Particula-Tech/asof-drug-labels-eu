@@ -16,6 +16,7 @@ VELCADE treatment must be withheld at the onset of any Grade 3 non-haematologica
 Grade 4 haematological toxicities, excluding neuropathy as discussed below (see also section 4.4).
 Once the symptoms of the toxicity have resolved, VELCADE treatment may be re-initiated at a 25% reduced dose (1.3 mg/m2 reduced to 1.0 mg/m2; 1.0 mg/m2 reduced to 0.7 mg/m2).
 If the toxicity is not resolved or if it recurs at the lowest dose, discontinuation of VELCADE must be considered unless the benefit of treatment clearly outweighs the risk.
+
 Neuropathic pain and/or peripheral neuropathy
 Patients who experience bortezomib-related neuropathic pain and/or peripheral neuropathy are to be managed as presented in Table 1 (see section 4.4).
 Patients with pre-existing severe neuropathy may be treated with VELCADE only after careful risk/benefit assessment.
@@ -39,17 +40,22 @@ Patients with moderate or severe hepatic impairment should be started on VELCADE
 
 Table 2: Recommended Starting Dose Modification for VELCADE in Patients with Hepatic Impairment
 
-| Grade of hepatic impairment* | Bilirubin Level | SGOT (AST) Levels | Modification of Starting Dose |
-| --- | --- | --- | --- |
-| Mild | ≤1.0x ULN | > ULN | None |
-|  | > 1.0x−1.5x ULN | Any | None |
-| Moderate | > 1.5x−3x ULN | Any | Reduce VELCADE to 0.7 mg/m2 in the first treatment cycle. Consider dose escalation to 1.0 mg/m2 or further dose reduction to 0.5 mg/m2 in subsequent cycles based on patient tolerability. |
-| Severe | > 3x ULN | Any |  |
+Grade of Bilirubin Level SGOT (AST) Modification of Starting Dose
+hepatic Levels
+impairment*
+≤1.0x ULN > ULN None
+Mild
+> 1.0x−1.5x ULN Any None
+Moderate > 1.5x−3x ULN Any Reduce VELCADE to 0.7 mg/m2 in
+the first treatment cycle. Consider
+Severe > 3x ULN Any dose escalation to 1.0 mg/m2 or
+further dose reduction to 0.5 mg/m2 in
+subsequent cycles based on patient
+tolerability.
 
 Abbreviations: SGOT = serum glutamic oxaloacetic transaminase;
 AST = aspartate aminotransferase; ULN = upper limit of the normal range.
 *Based on NCI Organ Dysfunction Working Group classification for categorising hepatic impairment (mild, moderate, severe).
-
 Renal impairment
 The pharmacokinetics of bortezomib are not influenced in patients with mild to moderate renal impairment (Creatinine Clearance (CrCL) > 20 ml/min/1.73 m2); therefore, dose adjustments are not necessary for these patients.
 It is unknown if the pharmacokinetics of bortezomib are influenced in patients with severe renal impairment not undergoing dialysis (CrCL< 20 ml/min/1.73 m2).
@@ -85,19 +91,31 @@ Once weekly VELCADE (cycles 5-9)
 Vc = VELCADE; M = melphalan, P = prednisone
 
 Dose adjustments during treatment and re-initiation of treatment for combination therapy
-Prior to initiating a new cycle of therapy:
-
-- Platelet counts should be ≥ 70 x 109/l and the absolute neutrophils count should be ≥ 1.0 x 109/l
-- Non-haematological toxicities should have resolved to Grade 1 or baseline
-
+Prior to initiating a new cycle of therapy: •
+Platelet counts should be ≥ 70 x 109/l and the absolute neutrophils count should be ≥ 1.0 x 109/l • Non-haematological toxicities should have resolved to Grade 1 or baseline
 Table 4: Posology modifications during subsequent cycles:
 
-| Toxicity | Posology modification or delay |
-| --- | --- |
-| Haematological toxicity during a cycle • If prolonged Grade 4 neutropenia or thrombocytopenia, or thrombocytopenia with bleeding is observed in the previous cycle | Consider reduction of the melphalan dose by 25% in the next cycle. |
-| • If platelet counts ≤30 × 109/l or ANC ≤0.75 x 109/l on a VELCADE dosing day (other than Day 1) | VELCADE therapy should be withheld |
-| • If several VELCADE doses in a cycle are withheld (≥ 3 doses during twice weekly administration or ≥ 2 doses during weekly administration) | VELCADE dose should be reduced by 1 dose level (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2) |
-| Grade ≥ 3 non-haematological toxicities | VELCADE therapy should be withheld until symptoms of the toxicity have resolved to Grade 1 or baseline. Then, VELCADE may be reinitiated with one dose level reduction (from 1.3 mg/m2 to 1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). For VELCADE-related neuropathic pain and/or peripheral neuropathy, hold and/or modify VELCADE as outlined in Table 1. |
+Toxicity Posology modification or delay
+Haematological toxicity during a cycle •
+If prolonged Grade 4 neutropenia or Consider reduction of the melphalan dose by 25%
+thrombocytopenia, or thrombocytopenia in the next cycle. •
+with bleeding is observed in the previous
+cycle
+If platelet counts ≤30 × 109/l or ANC VELCADE therapy should be withheld
+≤0.75 x 109/l on a VELCADE dosing day •
+(other than Day 1)
+If several VELCADE doses in a cycle are VELCADE dose should be reduced by 1 dose
+withheld (≥ 3 doses during twice weekly level (from 1.3 mg/m2 to 1 mg/m2, or from
+administration or ≥ 2 doses during weekly 1 mg/m2 to 0.7 mg/m2)
+administration)
+VELCADE therapy should be withheld until
+Grade ≥ 3 non-haematological toxicities symptoms of the toxicity have resolved to Grade 1
+or baseline. Then, VELCADE may be reinitiated
+with one dose level reduction (from 1.3 mg/m2 to
+1 mg/m2, or from 1 mg/m2 to 0.7 mg/m2). For
+VELCADE-related neuropathic pain and/or
+peripheral neuropathy, hold and/or modify
+VELCADE as outlined in Table 1.
 
 For additional information concerning melphalan and prednisone, see the corresponding Summary of Product Characteristics.
 
@@ -106,12 +124,7 @@ The reconstituted solution is administered as a 3-5 second bolus intravenous inj
 
 [VELCADE 3.5 mg powder for solution for injection]
 
-| Grade of hepatic impairment* | Bilirubin Level | SGOT (AST) Levels | Modification of Starting Dose |
-| --- | --- | --- | --- |
-| Mild | ≤ 1.0x ULN | > ULN | None |
-|  | > 1.0x−1.5x ULN | Any | None |
-| Moderate | > 1.5x−3x ULN | Any | Reduce VELCADE to 0.7 mg/m2 in the first treatment cycle. Consider dose escalation to 1.0 mg/m2 or further dose reduction to 0.5 mg/m2 in subsequent cycles based on patient tolerability. |
-| Severe | > 3x ULN | Any |  |
+≤ 1.0x ULN > ULN None
 
 It is unknown if the pharmacokinetics of bortezomib are influenced in patients with severe renal impairment not undergoing dialysis (CrCL < 20 ml/min/1.73 m2).
 
@@ -124,4 +137,10 @@ Table3: Recommended Posology for VELCADE in combination with melphalan and predn
 
 Vc = VELCADE; M = melphalan, P=prednisone
 
-- Platelet counts should be ≥70 x 109/l and the absolute neutrophils count should be ≥ 1.0 x 109/l
+Platelet counts should be ≥70 x 109/l and the absolute neutrophils count should be ≥ 1.0 x 109/l • Non-haematological toxicities should have resolved to Grade 1 or baseline
+
+thrombocytopenia, or thrombocytopenia with in the next cycle. •
+bleeding is observed in the previous cycle
+If platelet counts ≤30 × 109/l or ANC ≤0.75 x VELCADE therapy should be withheld
+109/l on a VELCADE dosing day (other than •
+Day 1)

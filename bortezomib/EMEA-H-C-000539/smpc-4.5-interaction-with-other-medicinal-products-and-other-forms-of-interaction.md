@@ -3,15 +3,28 @@
 In vitro studies indicate that bortezomib is a weak inhibitor of the cytochrome P450 (CYP) isozymes 1A2, 2C9, 2C19, 2D6 and 3A4.
 Based on the limited contribution (7%) of CYP2D6 to the metabolism of bortezomib, the CYP2D6 poor metabolizer phenotype is not expected to affect the overall disposition of bortezomib.
 
-An interaction study based on data from 12 patients, assessing the effect of ketoconazole, a potent CYP3A4 inhibitor, showed a bortezomib AUC mean increase of 35% (CI90% [1.032 to 1.772]).
-Therefore patients should be closely monitored when given bortezomib in combination with potent CYP3A4 inhibitors (e.g. ketoconazole, ritonavir).
+A drug-drug interaction study, assessing the effect of ketoconazole, a potent CYP3A4 inhibitor, showed a mean bortezomib AUC increase of 35% (CI90% [1.032 to 1.772]) based on data from 12 patients.
+Therefore, patients should be closely monitored when given bortezomib in combination with potent CYP3A4 inhibitors (e.g. ketoconazole, ritonavir).
 
-In an interaction study based on data from 17 patients, assessing the effect of omeprazole, a potent CYP2C19 inhibitor, there was no significant effect on the pharmacokinetics of bortezomib.
+In a drug-drug interaction study, assessing the effect of omeprazole, a potent CYP2C19 inhibitor, there was no significant effect on the pharmacokinetics of bortezomib based on data from 17 patients.
 
-In the absence of interaction studies investigating the effect of CYP3A4 inducers on the pharmacokinetics of bortezomib, patients should be closely monitored when given bortezomib in combination with potent CYP3A4 inducers (e.g. rifampicin).
+A drug-drug interaction study assessing the effect of rifampicin, a potent CYP3A4 inducer, showed a mean bortezomib AUC reduction of 45% based on data from 6 patients.
+Therefore, the concomitant use of bortezomib with strong CYP3A4 inducers (e.g., rifampicin, carbamazepine, phenytoin, phenobarbital and St. John‟s Wort) is not recommended, as efficacy may be reduced.
 
-An interaction study assessing the effect of melphalan-prednisone on bortezomib showed a 17% increase in mean bortezomib AUC based on data from 21 patients.
+In the same drug-drug interaction study assessing the effect of dexamethasone, a weaker CYP3A4 inducer, there was no significant effect on the pharmacokinetics of bortezomib based on data from 7 patients.
+
+A drug-drug interaction study assessing the effect of melphalan-prednisone on bortezomib showed a 17% increase in mean bortezomib AUC based on data from 21 patients.
 This is not considered clinically relevant.
 
 During clinical trials, hypoglycemia and hyperglycemia were uncommonly and commonly reported in diabetic patients receiving oral hypoglycemics.
 Patients on oral antidiabetic agents receiving VELCADE treatment may require close monitoring of their blood glucose levels and adjustment of the dose of their antidiabetics.
+
+[VELCADE 3.5 mg powder for solution for injection]
+
+A drug-drug interaction study assessing the effect of ketoconazole, a potent CYP3A4 inhibitor, showed a mean bortezomib AUC increase of 35% (CI90% [1.032 to 1.772]) based on data from 12 patients.
+
+In a drug-drug interaction study assessing the effect of omeprazole, a potent CYP2C19 inhibitor, there was no significant effect on the pharmacokinetics of bortezomib based on data from 17 patients.
+
+Therefore, the concomitant use of bortezomib with strong CYP3A4 inducers (e.g., rifampicin, carbamazepine, phenytoin, phenobarbital and St. John‟s Wort), is not recommended, as efficacy may be reduced.
+
+In the same drug-drug interaction study assessing the effect of dexamethasone, a weaker CYP3A4 inducer, there was no significant effect on the pharmacokinetics bortezomib based on data from 7 patients.

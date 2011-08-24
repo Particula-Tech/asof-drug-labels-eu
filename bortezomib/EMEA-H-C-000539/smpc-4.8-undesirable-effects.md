@@ -80,7 +80,7 @@ Skin and subcutaneous tissue disorders
 Very common: rash.
 Common: periorbital oedema, urticaria, rash pruritic, pruritus, erythema, sweating increased, dry skin, eczema.
 Uncommon: Stevens-Johnson Syndrome*, toxic epidermal necrolysis*, rash erythematous, photosensitivity reaction, contusion, pruritus generalised, rash macular, rash papular, psoriasis, rash generalized, eyelid oedema, face oedema, dermatitis, alopecia, nail disorder, skin discolouration, dermatitis atopic, hair texture abnormal, heat rash, night sweats, pressure sore, ichthyosis, skin nodule.
-Rare: acute febrile neutrophilic dermatosis (Sweet’s syndrome)*, vasculitic rash (including leukocytoclastic vasculitis)*
+Rare: acute febrile neutrophilic dermatosis (Sweet‟s syndrome)*, vasculitic rash (including leukocytoclastic vasculitis)*
 
 Musculoskeletal, connective tissue and bone disorders
 Very common: myalgia.
@@ -111,8 +111,8 @@ Uncommon: catheter related complications, post procedural pain, post procedural 
 Summary of safety data in patients with previously untreated multiple myeloma:
 
 The following table 6 describes safety data from 340 patients with previously untreated multiple myeloma who received VELCADE (1.3 mg/m2) in combination with melphalan (9 mg/m2) and prednisone (60 mg/m2) in a prospective Phase III study.
-
 Overall, the safety profile of patients treated with VELCADE in monotherapy was similar to that observed in patients treated with VELCADE in combination with melphalan and prednisone.
+
 Table 6: Treatment emergent drug-related adverse reactions reported in ≥ 10% of patients treated with VELCADE in combination with melphalan and prednisone
 -------------- Vc+M+P ------------ ---------------- M+P ---------------
 

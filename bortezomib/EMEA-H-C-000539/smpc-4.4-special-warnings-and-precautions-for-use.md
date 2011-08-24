@@ -104,7 +104,6 @@ Bortezomib should be discontinued if serious reactions occur.
 [VELCADE 3.5 mg powder for solution for injection]
 
 RPLS is a rare, reversible, rapidly evolving neurological condition which can present with seizure, hypertension, headache, lethargy, confusion, blindness, and other visual and neurological disturbances.
-
 In a single-agent Phase III randomised, comparative study the incidence of heart failure in the VELCADE group was similar to that in the dexamethasone group.
 
 Therefore, this specific regimen with concomitant administration with high-dose cytarabine (2g/m2 per day) by continuous infusion over 24 hours is not recommended.

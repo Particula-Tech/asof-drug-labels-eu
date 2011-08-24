@@ -4,6 +4,7 @@ General precautions
 Bortezomib is a cytotoxic agent.
 Therefore, caution should be used during handling and preparation of VELCADE.
 Use of gloves and other protective clothing to prevent skin contact is recommended.
+
 Aseptic technique must be strictly observed throughout handling of VELCADE, since it contains no preservative.
 
 Instructions for reconstitution
