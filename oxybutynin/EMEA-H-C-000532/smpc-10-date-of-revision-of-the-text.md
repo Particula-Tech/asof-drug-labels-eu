@@ -1,5 +1,11 @@
 # 10. DATE OF REVISION OF THE TEXT
 
-{MM/YYYY}
-
 Detailed information on this product is available on the website of the European Medicines Agency (EMEA) http://www.emea.europa.eu
+
+[Kentera 90.7 mg/g gel in sachet]
+
+Detailed information on this medicinal product is available on the website of the European Medicines Agency http://www.ema.europa.eu
+
+[Kentera 90.7 mg/g gel in a metering pump]
+
+(all sentences already above)

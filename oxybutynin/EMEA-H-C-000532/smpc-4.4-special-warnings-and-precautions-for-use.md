@@ -20,3 +20,30 @@ Patients should be informed that heat prostration (fever and heat stroke due to 
 Oxybutynin may exacerbate the symptoms of hyperthyroidism, coronary heart disease, congestive heart failure, cardiac arrhythmias, tachycardia, hypertension and prostatic hypertrophy
 
 Oxybutynin may lead to suppressed salivary secretions which could result in dental caries, parodontosis or oral candidiasis.
+
+[Kentera 90.7 mg/g gel in sachet]
+
+As the stratum corneum is the rate-limiting step in transdermal delivery, any breach would provide direct access to the epidermis, potentially increasing penetration and facilitating the migration of the medicinal product to the blood stream.
+Kentera should therefore not be applied to a recently shaved or damaged skin surface.
+
+Avoid bathing, swimming, showering, exercising or immersing the application site in water for one hour after application.
+
+It is recommended to cover the application site with clothing once Kentera has dried.
+
+The effect of fever, exposition to external heat sources, sun bathing and sauna on the absorption characteristics of Kentera have not been investigated.
+
+Impaired metabolism
+
+The use of Kentera in patients with hepatic impairment should be carefully monitored since oxybutynin is extensively hepatic metabolised.
+
+Urinary retention
+
+Anticholinergic medicinal products should be administered with caution to patients with clinically significant bladder outflow obstruction because of the risk of urinary retention.
+
+Gastrointestinal disorders
+
+Anticholinergic medicinal products may decrease gastrointestinal motility and should be used with caution in patients with gastrointestinal obstructive disorders because of the risk of gastric retention, and in conditions such as ulcerative colitis, and intestinal atony.
+
+[Kentera 90.7 mg/g gel in a metering pump]
+
+(all sentences already above)
