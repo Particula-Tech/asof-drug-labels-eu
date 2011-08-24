@@ -21,6 +21,7 @@ The manufacturer’s instructions for using the pen must be followed carefully f
 If the insulin pen is damaged or not working properly (due to mechanical defects) it has to be discarded, and a new insulin pen has to be used.
 
 If the pen malfunctions (see instructions for using the pen), the solution may be drawn from the cartridge into a syringe (suitable for an insulin with 100 units/ml) and injected.
+
 Cartridge
 Before insertion into the pen, the cartridge must be stored at room temperature for 1 to 2 hours.
 Inspect the cartridge before use.
@@ -74,7 +75,6 @@ The used OptiSet must be discarded as required by your local authorities.
 Maintenance
 
 OptiSet has to be protected from dust and dirt.
-
 The outside of the OptiSet can be cleaned by wiping it with a damp cloth.
 
 The pen must not be soaked, washed or lubricated as this may damage it.
@@ -83,6 +83,7 @@ OptiSet is designed to work accurately and safely.
 It should be handled with care.
 The patient should avoid situations where OptiSet may be damaged.
 If the patient is concerned that the OptiSet may be damaged, he must use a new one.
+
 Step 1.
 Check the Insulin
 
@@ -135,6 +136,7 @@ If the black plunger is at the beginning of the coloured bar, then there are app
 If the black plunger is at the end of the coloured bar, then there are approximately 20 units of insulin available.
 
 The dosage selector should be turned forward until the dose arrow points to the required dose.
+
 Step 5.
 Load the dose
 
@@ -203,6 +205,7 @@ A new sterile needle will be always used for each injection.
 After removing the cap, the needle should be carefully attached straight onto the pen.
 
 Prior to each injection a safety test has to be performed to ensure that pen and needle work properly and to remove air bubbles.
+
 A dose of 2 units has to be selected.
 
 While holding the pen with the needle pointing upwards, the insulin reservoir should be tapped gently with the finger so that any air bubbles rise up towards the needle

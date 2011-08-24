@@ -7,8 +7,14 @@ ATC Code: A10A E04.
 Insulin glargine is a human insulin analogue designed to have a low solubility at neutral pH.
 It is completely soluble at the acidic pH of the Lantus injection solution (pH 4).
 After injection into the subcutaneous tissue, the acidic solution is neutralised leading to formation of micro-precipitates from which small amounts of insulin glargine are continuously released, providing a smooth, peakless, predictable concentration/time profile with a prolonged duration of action.
-Insulin receptor binding: Insulin glargine is very similar to human insulin with respect to insulin receptor binding kinetics.
-It can, therefore, be considered to mediate the same type of effect via the insulin receptor as insulin.
+
+Insulin glargine is metabolised into 2 active metabolites M1 and M2 (see section 5.2).
+Insulin receptor binding: In vitro studies indicate that the affinity of insulin glargine and its metabolites M1 and M2 for the human insulin receptor is similar to the one of human insulin.
+
+IGF-1 receptor binding: The affinity of insulin glargine for the human IGF-1 receptor is approximately 5 to 8-fold greater than that of human insulin (but approximately 70 to 80-fold lower than the one of IGF-1), whereas M1 and M2 bind the IGF-1 receptor with slightly lower affinity compared to human insulin.
+
+The total therapeutic insulin concentration (insulin glargine and its metabolites) found in type 1 diabetic patients was markedly lower than what would be required for a halfmaximal occupation of the IGF-1 receptor and the subsequent activation of the mitogenic-proliferative pathway initiated by the IGF-1 receptor.
+Physiological concentrations of endogenous IGF-1 may activate the mitogenic-proliferative pathway; however, the therapeutic concentrations found in insulin therapy, including in Lantus therapy, are considerably lower than the pharmacological concentrations required to activate the IGF-1 pathway.
 
 The primary activity of insulin, including insulin glargine, is regulation of glucose metabolism.
 Insulin and its analogues lower blood glucose levels by stimulating peripheral glucose uptake, especially by skeletal muscle and fat, and by inhibiting hepatic glucose production.
@@ -51,6 +57,7 @@ In a clinical study, symptoms of hypoglycaemia or counter-regulatory hormone res
 
 Effects of insulin glargine (once daily) on diabetic retinopathy were evaluated in an open-label 5 year NPH-controlled study (NPH given bid) in 1024 type 2 diabetic patients in which progression of retinopathy by 3 or more steps on the Early Treatment Diabetic Retinopathy Study (ETDRS) scale was investigated by fundus photography.
 No significant difference was seen in the progression of diabetic retinopathy when insulin glargine was compared to NPH insulin.
+
 Paediatric population
 In a randomised, controlled clinical study, paediatric patients (age range 6 to 15 years) with type 1 diabetes (n = 349) were treated for 28 weeks with a basal-bolus insulin regimen where regular human insulin was used before each meal.
 Insulin glargine was administered once daily at bedtime and NPH human insulin was administered once or twice daily.
