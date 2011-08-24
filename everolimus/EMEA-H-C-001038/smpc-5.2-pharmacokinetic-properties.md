@@ -15,7 +15,7 @@ Approximately 20% of the everolimus concentration in whole blood is confined to 
 Plasma protein binding is approximately 74% both in healthy subjects and in patients with moderate hepatic impairment.
 In patients with advanced solid tumours, Vd was 191 l for the apparent central compartment and 517 l for the apparent peripheral compartment.
 
-Metabolism
+Biotransformation
 Everolimus is a substrate of CYP3A4 and PgP.
 Following oral administration, everolimus is the main circulating component in human blood.
 Six main metabolites of everolimus have been detected in human blood, including three monohydroxylated metabolites, two hydrolytic ring-opened products, and a phosphatidylcholine conjugate of everolimus.

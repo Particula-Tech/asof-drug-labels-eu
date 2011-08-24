@@ -3,7 +3,6 @@
 Everolimus is a substrate of CYP3A4, and also a substrate and moderate inhibitor of PgP.
 Therefore, absorption and subsequent elimination of everolimus may be influenced by products that affect CYP3A4 and/or PgP.
 In vitro, everolimus is a competitive inhibitor of CYP3A4 and a mixed inhibitor of CYP2D6.
-
 Known and theoretical interactions with selected inhibitors and inducers of CYP3A4 and PgP are listed in Table 1 below.
 
 CYP3A4 and PgP inhibitors increasing everolimus concentrations
@@ -22,9 +21,7 @@ Table 1 Effects of other active substances on everolimus
 | Telithromycin, clarithromycin |  |  |
 | Nefazodone |  |  |
 | Ritonavir, atazanavir, saquinavir, darunavir, indinavir, nelfinavir |  |  |
-
 | Moderate CYP3A4/PgP inhibitors |  |  |
-| --- | --- | --- |
 | Erythromycin | AUC ↑4.4-fold (range 2.0-12.6) Cmax ↑2.0-fold (range 0.9-3.5) | Use caution when co-administration of moderate CYP3A4 inhibitors or PgP inhibitors cannot be avoided. If patients require co-administration of a moderate CYP3A4 or PgP inhibitor, dose reduction to 5 mg daily or 5 mg every other day may be considered. However, there are no clinical data with this dose adjustment. Due to between subject variability the recommended dose adjustments may not be optimal in all individuals, therefore close monitoring of side effects is recommended. |
 | Verapamil | AUC ↑3.5-fold (range 2.2-6.3) Cmax ↑2.3-fold (range1.3-3.8) |  |
 | Ciclosporin oral | AUC ↑2.7-fold (range 1.5-4.7) Cmax ↑1.8-fold (range 1.3-2.6) |  |
@@ -42,6 +39,10 @@ Table 1 Effects of other active substances on everolimus
 Agents whose plasma concentration may be altered by everolimus
 Based on in vitro results, the systemic concentrations obtained after oral daily doses of 10 mg make inhibition of PgP, CYP3A4 and CYP2D6 unlikely.
 However, inhibition of CYP3A4 and PgP in the gut cannot be excluded; hence everolimus may affect the bioavailability of co-administered substances which are CYP3A4 and/or PgP substrates.
+
+Co-administration of everolimus and depot octreotide increased octreotide Cmin with a geometric mean ratio (everolimus/placebo) of 1.47.
+A clinically significant effect on the efficacy response to everolimus in patients with advanced neuroendocrine tumours could not be established.
+
 Vaccinations
 The immune response to vaccination may be affected and, therefore, vaccination may be less effective during treatment with Afinitor.
 The use of live vaccines should be avoided during treatment with Afinitor (see section 4.4).

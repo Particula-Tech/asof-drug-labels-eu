@@ -1,6 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Protein kinase inhibitors, ATC code: L01XE10
+Pharmacotherapeutic group: Antineoplastic agents, other antineoplastic agents, protein kinase inhibitors, ATC code: L01XE10
 
 Mechanism of action
 Everolimus is a selective mTOR (mammalian target of rapamycin) inhibitor. mTOR is a key serine-threonine kinase, the activity of which is known to be upregulated in a number of human cancers.
@@ -10,7 +10,64 @@ Everolimus reduces levels of vascular endothelial growth factor (VEGF), which po
 Everolimus is a potent inhibitor of the growth and proliferation of tumour cells, endothelial cells, fibroblasts and blood-vessel-associated smooth muscle cells and has been shown to reduce glycolysis in solid tumours in vitro and in vivo.
 
 Clinical efficacy and safety
-A phase III, international, multicentre, randomised, double-blind study comparing everolimus 10 mg/day and placebo, both in conjunction with best supportive care, was conducted in patients with metastatic renal cell carcinoma whose disease had progressed on or after treatment with VEGFR-TKI (vascular endothelial growth factor receptor tyrosine kinase inhibitor) therapy (sunitinib, sorafenib, or both sunitinib and sorafenib).
+Advanced neuroendocrine tumours of pancreatic origin (pNET)
+RADIANT-3 (study CRAD001C2324), a phase III, multicentre, randomised, double-blind study of Afinitor plus best supportive care (BSC) versus placebo plus BSC in patients with advanced pNET, demonstrated a statistically significant clinical benefit of Afinitor over placebo by a 2.4-fold prolongation of median progression-free-survival (PFS) (11.04 months versus 4.6 months), (HR 0.35; 95% CI: 0.27, 0.45; p<0.0001) (see Table 3 and Figure 1).
+
+RADIANT-3 involved patients with well- and moderately-differentiated advanced pNET whose disease had progressed within the prior 12 months.
+Treatment with somatostatin analogues was allowed as part of BSC.
+
+The primary endpoint for the study was PFS evaluated by RECIST (Response Evaluation Criteria in Solid Tumors).
+Following documented radiological progression, patients could be unblinded by the investigator.
+Those randomised to placebo were then able to receive open-label Afinitor.
+
+Secondary endpoints included safety, objective response rate, response duration and overall survival (OS).
+
+In total, 410 patients were randomised 1:1 to receive either Afinitor 10 mg/day (n=207) or placebo (n=203).
+Demographics were well balanced (median age 58 years, 55% male, 78.5% Caucasian).
+Fifty-eight percent of the patients in both arms received prior systemic therapy.
+The median duration of blinded study treatment was 37.3 weeks (range 1.1-129.9 weeks) for patients receiving everolimus and 16.1 weeks (range 0.4-146.0 weeks) for those receiving placebo.
+Table 3 RADIANT-3 – Progression-free survival results
+
+Population n Afinitor Placebo Hazard ratio p-value
+n=207 n=203 (95% CI)
+410 Median progression-free
+survival (months) (95% CI)
+Investigator radiological 410 11.04 4.60 0.35 <0.0001
+review (8.41, 13.86) (3.06, 5.39) (0.27, 0.45)
+Independent radiological 410 13.67 5.68 0.38 <0.0001
+review (11.17, 18.79) (5.39, 8.31) (0.28, 0.51)
+
+Figure 1 RADIANT-3 – KaplanMeier progression-free survival curves
+
+10
+Hazard Ratio = 0.35
+95% CI [0.27, 0.45]
+9 Logrank p value = <0.001 Kaplan-Meier medians 8 Afinitor : 11.04 months Placebo : 4.60 months 7 Censoring times Afinitor (n=207) Placebo (n=203)
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+0 2 4 6 8 1 1 1 1 1 2 2 2 2 2 3
+
+Time (months)
+No. of patients still at risk
+Afinitor 207 189 153 126 114 80 49 36 28 21 10 6 2 0 0 0 Placebo 203 117 98 59 52 24 16 7 4 3 2 1 1 1 1 0
+
+Following disease progression 172 of the 203 patients (84.7%) initially randomised to placebo crossed over to open-label Afinitor.
+The overall survival results show no statistically significant difference in OS (HR=0.89 [95% CI: 0.64, 1.23]).
+
+Advanced renal cell carcinoma
+RECORD-1 (study CRAD001C2240), a phase III, international, multicentre, randomised, double-blind study comparing everolimus 10 mg/day and placebo, both in conjunction with best supportive care, was conducted in patients with metastatic renal cell carcinoma whose disease had progressed on or after treatment with VEGFR-TKI (vascular endothelial growth factor receptor tyrosine kinase inhibitor) therapy (sunitinib, sorafenib, or both sunitinib and sorafenib).
 Prior therapy with bevacizumab and interferon-α was also permitted.
 Patients were stratified according to Memorial Sloan-Kettering Cancer Center (MSKCC) prognostic score (favourable- vs. intermediate- vs. poor-risk groups) and prior anticancer therapy (1 vs. 2 prior VEGFR-TKIs).
 Progression-free survival, documented using RECIST (Response Evaluation Criteria in Solid Tumours) and assessed via a blinded, independent central review, was the primary endpoint.
@@ -20,10 +77,11 @@ The Independent Data Monitoring Committee recommended termination of this trial 
 
 In total, 416 patients were randomised 2:1 to receive Afinitor (n=277) or placebo (n=139).
 Demographics were well balanced (pooled median age [61 years; range 27-85], 78% male, 88% Caucasian, number of prior VEGFR-TKI therapies [1-74%, 2-26%]).
+The median duration of blinded study treatment was 141 days (range 19-451 days) for patients receiving everolimus and 60 days (range 21-295 days) for those receiving placebo.
 
-Afinitor was superior to placebo for the primary endpoint of progression-free survival, with a statistically significant 67% reduction in the risk of progression or death (see Table 3 and Figure 1).
+Afinitor was superior to placebo for the primary endpoint of progression-free survival, with a statistically significant 67% reduction in the risk of progression or death (see Table 4 and Figure 2).
 
-Table 3 Progression-free survival results
+Table 4 RECORD-1 – Progression-free survival results
 
 | Population | n | Afinitor n=277 | Placebo n=139 | Hazard ratio (95%CI) | p-value |
 | --- | --- | --- | --- | --- | --- |
@@ -38,7 +96,7 @@ Table 3 Progression-free survival results
 | Poor risk | 61 | 3.6 (1.9-4.6) | 1.8 (1.8-3.6) | 0.44 (0.22-0.85) | 0.007 |
 
 a Stratified log-rank test
-Figure 1 KaplanMeier progression-free survival curves
+Figure 2 RECORD-1 – KaplanMeier progression-free survival curves
 
 Censoring Times
 Everolimus (n/N = 155/277)
@@ -67,4 +125,4 @@ No statistically significant treatment-related difference in overall survival wa
 Crossover to open-label Afinitor following disease progression for patients allocated to placebo confounded the detection of any treatment-related difference in overall survival.
 
 Paediatric population
-The European Medicines Agency has waived the obligation to submit the results of studies with Afinitor in all subsets of the paediatric population in renal cell carcinoma (see section 4.2 for information on paediatric use).
+The European Medicines Agency has waived the obligation to submit the results of studies with Afinitor in all subsets of the paediatric population in neuroendocrine tumours of pancreatic origin and in renal cell carcinoma (see section 4.2 for information on paediatric use).

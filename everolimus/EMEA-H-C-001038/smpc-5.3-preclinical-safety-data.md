@@ -17,4 +17,4 @@ The incidence of skeletal variations and malformations (e.g. sternal cleft) was 
 In rabbits, embryotoxicity was evident in an increase in late resorptions.
 
 Genotoxicity studies covering relevant genotoxicity endpoints showed no evidence of clastogenic or mutagenic activity.
-Administration of everolimus for up to 2 years did not indicate any oncogenic potential in mice and rats up to the highest doses, corresponding respectively to 4.3 and 0.2 times the estimated clinical exposure.
+Administration of everolimus for up to 2 years did not indicate any oncogenic potential in mice and rats up to the highest doses, corresponding respectively to 3.9 and 0.2 times the estimated clinical exposure.

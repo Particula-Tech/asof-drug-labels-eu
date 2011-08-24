@@ -18,12 +18,12 @@ Infections
 Afinitor has immunosuppressive properties and may predispose patients to bacterial, fungal, viral or protozoan infections, including infections with opportunistic pathogens (see section 4.8).
 Localised and systemic infections, including pneumonia, other bacterial infections, invasive fungal infections such as aspergillosis or candidiasis, and viral infections including reactivation of hepatitis B virus, have been described in patients taking Afinitor.
 Some of these infections have been severe (e.g. leading to respiratory or hepatic failure) and occasionally fatal.
-
 Physicians and patients should be aware of the increased risk of infection with Afinitor.
 Pre-existing infections should be treated appropriately and should have resolved fully before starting treatment with Afinitor.
 While taking Afinitor, be vigilant for symptoms and signs of infection; if a diagnosis of infection is made, institute appropriate treatment promptly and consider interruption or discontinuation of Afinitor.
 
 If a diagnosis of invasive systemic fungal infection is made, Afinitor treatment should be promptly and permanently discontinued and the patient treated with appropriate antifungal therapy.
+
 Hypersensitivity reactions
 Hypersensitivity reactions manifested by symptoms including, but not limited to, anaphylaxis, dyspnoea, flushing, chest pain or angioedema (e.g. swelling of the airways or tongue, with or without respiratory impairment) have been observed with everolimus (see section 4.3).
 
@@ -42,7 +42,7 @@ Elevations of serum creatinine, usually mild, and proteinuria have been reported
 Monitoring of renal function, including measurement of blood urea nitrogen (BUN), urinary protein or serum creatinine, is recommended prior to the start of Afinitor therapy and periodically thereafter.
 
 Blood glucose and lipids
-Hyperglycaemia, hyperlipidaemia and hypertrigylceridaemia have been reported in clinical trials (see section 4.8).
+Hyperglycaemia, hyperlipidaemia and hypertriglyceridaemia have been reported in clinical trials (see section 4.8).
 Monitoring of fasting serum glucose is recommended prior to the start of Afinitor therapy and periodically thereafter.
 When possible optimal glycaemic control should be achieved before starting a patient on Afinitor.
 
@@ -50,10 +50,14 @@ Haematological parameters
 Decreased haemoglobin, lymphocytes, neutrophils and platelets have been reported in clinical trials (see section 4.8).
 Monitoring of complete blood count is recommended prior to the start of Afinitor therapy and periodically thereafter.
 
+Carcinoid tumours
+In a randomised, double-blind, multi-centre trial in patients with carcinoid tumours, Afinitor plus depot octreotide (Sandostatin LAR®) was compared to placebo plus depot octreotide.
+The study did not meet the primary efficacy endpoint (progression-free-survival [PFS]) and the overall survival (OS) interim analysis numerically favoured the placebo plus depot octreotide arm.
+Therefore, the safety and efficacy of Afinitor in patients with carcinoid tumours have not been established.
+
 Interactions
 Co-administration with inhibitors and inducers of CYP3A4 and/or the multidrug efflux pump P-glycoprotein (PgP) should be avoided.
 If co-administration of a moderate CYP3A4 and/or PgP inhibitor or inducer cannot be avoided, dose adjustments of Afinitor can be taken into consideration based on predicted AUC (see section 4.5).
-
 Concomitant treatment with potent CYP3A4 inhibitors result in dramatically increased plasma concentrations of everolimus (see section 4.5).
 There are currently not sufficient data to allow dosing recommendations in this situation.
 Hence, concomitant treatment of Afinitor and potent inhibitors is not recommended.
@@ -66,6 +70,7 @@ The use of live vaccines should be avoided during treatment with Afinitor (see s
 
 Lactose
 Patients with rare hereditary problems of galactose intolerance, Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.
+
 Wound healing complications
 Impaired wound healing is a class effect of rapamycin derivatives, including Afinitor.
 Caution should therefore be exercised with the use of Afinitor in the peri-surgical period.
