@@ -5,3 +5,7 @@ Zometa 4 mg powder and solvent for solution for infusion
 [Zometa 4 mg/5 ml concentrate for solution for infusion]
 
 Zometa 4 mg/5 ml concentrate for solution for infusion
+
+[Zometa 4 mg/100 ml solution for infusion]
+
+Zometa 4 mg/100 ml solution for infusion

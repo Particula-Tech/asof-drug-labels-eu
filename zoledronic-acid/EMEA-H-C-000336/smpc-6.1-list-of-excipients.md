@@ -8,3 +8,7 @@ Solvent ampoule: Water for injections
 
 Mannitol
 Water for injections
+
+[Zometa 4 mg/100 ml solution for infusion]
+
+(all sentences already above)
