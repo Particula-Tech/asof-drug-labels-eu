@@ -6,6 +6,7 @@ The safety of Prolia was evaluated in 10,534 postmenopausal women with osteoporo
 The following convention has been used for the classification of the adverse reactions reported in these phase II and III clinical studies (see table 1): very common (≥ 1/10), common (≥ 1/100 to
 < 1/10), uncommon (≥ 1/1,000 to < 1/100), rare (≥ 1/10,000 to < 1/1,000) and very rare (< 1/10,000) based on 1-year event rates.
 Within each frequency grouping and system organ class, undesirable effects are presented in order of decreasing seriousness.
+
 Table 1 Adverse reactions reported in phase II and phase III placebo-controlled clinical studies in women with postmenopausal osteoporosis and breast or prostate cancer patients receiving hormone ablation
 
 | MedDRA system organ class | Frequency category | Undesirable effect |
@@ -38,7 +39,6 @@ Skin infections reported as serious adverse reactions were similar in the placeb
 
 Osteonecrosis of the jaw
 In the osteoporosis clinical trial program (8710 patients treated ≥ 1 year), ONJ was reported rarely with Prolia (see section 4.4).
-
 Cataracts
 In a single phase III placebo-controlled clinical trial in patients with prostate cancer receiving androgen deprivation therapy (ADT) an imbalance in cataract adverse events was observed (4.7% denosumab, 1.2% placebo).
 No imbalance was observed in postmenopausal women with osteoporosis or in women undergoing aromatase inhibitor therapy for nonmetastatic breast cancer.

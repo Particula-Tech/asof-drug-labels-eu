@@ -16,7 +16,6 @@ Upon re-initiation, reductions in CTX by denosumab were similar to those observe
 Immunogenicity
 In clinical studies, neutralising antibodies have not been observed for Prolia.
 Using a sensitive immunoassay < 1% of patients treated with denosumab for up to 5 years tested positive for non neutralising binding antibodies with no evidence of altered pharmacokinetics, toxicity, or clinical response.
-
 Treatment of osteoporosis in postmenopausal women
 Efficacy and safety of Prolia administered once every 6 months for 3 years were investigated in postmenopausal women (7,808 women aged 60-91 years, of which 23.6% had prevalent vertebral fractures) with baseline bone mineral density (BMD) T-scores at the lumbar spine or total hip between –2.5 and –4.0 and a mean absolute 10-year fracture probability of 18.60% (deciles: 7.9-32.4%) for major osteoporotic fracture and 7.22% (deciles: 1.4-14.9%) for hip fracture.
 Women with other diseases or on therapies that may affect bone were excluded from this study.
@@ -64,7 +63,6 @@ Table 3 The effect of Prolia on the risk of clinical fractures over 3 years
 (4) Includes clinical vertebral, hip, forearm, and humerus fractures, as defined by the WHO.
 
 In women with baseline femoral neck BMD ≤ -2.5, Prolia reduced the risk of non-vertebral fracture (35% relative risk reduction, 4.1% absolute risk reduction, p < 0.001, exploratory analysis).
-
 The reduction in the incidence of new vertebral fractures, hip fractures and non-vertebral fractures by Prolia over 3 years were consistent regardless of the 10-year baseline fracture risk.
 
 Effect on bone mineral density
