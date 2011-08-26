@@ -12,7 +12,7 @@ The following adverse reactions have been reported during clinical trials and ar
 | Metabolism and nutrition disorders | Uncommon | Hyperuricaemia |
 | Nervous system disorders | Common | Headache, generally during the first month of treatment |
 |  |  | Dizziness, possibly related to bradycardia |
-|  | Not known | Syncope, possibly related to bradycardia |
+|  | Uncommon* | Syncope, possibly related to bradycardia |
 | Eye disorders | Very common | Luminous phenomena (phosphenes) |
 |  | Common | Blurred vision |
 | Ear and labyrinth disorders | Uncommon | Vertigo |
@@ -20,17 +20,23 @@ The following adverse reactions have been reported during clinical trials and ar
 |  |  | AV 1st degree block (ECG prolonged PQ interval) |
 |  |  | Ventricular extrasystoles |
 |  | Uncommon | Palpitations, supraventricular extrasystoles |
-| Vascular disorders | Not known | Hypotension, possibly related to bradycardia |
+| Vascular disorders | Uncommon* | Hypotension, possibly related to bradycardia |
 | Respiratory, thoracic and mediastinal disorders | Uncommon | Dyspnoea |
 | Gastrointestinal disorders | Uncommon | Nausea |
 |  |  | Constipation |
 |  |  | Diarrhoea |
-| Skin and subcutaneous tissue disorders | Not known | Rash |
-|  |  | Erythema |
+| Skin and subcutaneous tissue disorders | Uncommon* | Angioedema |
+|  |  | Rash |
+|  | Rare* | Erythema |
 |  |  | Pruritus |
+|  |  | Urticaria |
 | Musculoskeletal and connective tissue disorders | Uncommon | Muscle cramps |
-| General disorders and administration site conditions | Not known | Malaise, possibly related to bradycardia |
+| General disorders and administration site conditions | Uncommon* | Asthenia, possibly related to bradycardia |
+|  |  | Fatigue, possibly related to bradycardia |
+|  | Rare* | Malaise, possibly related to bradycardia |
 | Investigations | Uncommon | Elevated creatinine in blood |
+
+* Frequency calculated from clinical trials for adverse events detected from spontaneous report
 
 Luminous phenomena (phosphenes) were reported by 14.5% of patients, described as a transient enhanced brightness in a limited area of the visual field.
 They are usually triggered by sudden variations in light intensity.
