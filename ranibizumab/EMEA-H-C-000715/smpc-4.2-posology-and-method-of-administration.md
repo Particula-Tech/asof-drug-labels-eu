@@ -8,10 +8,13 @@ Treatment of wet AMD
 In wet AMD, the recommended dose for Lucentis is 0.5 mg given monthly as a single intravitreal injection.
 This corresponds to an injection volume of 0.05 ml.
 
-Lucentis treatment is initiated with a loading phase of one injection per month for three consecutive months, followed by a maintenance phase in which patients should be monitored for visual acuity on a monthly basis.
-If the patient experiences a loss of greater than 5 letters in visual acuity (ETDRS or one Snellen line equivalent), Lucentis should be administered.
-The interval between two doses should not be shorter than 1 month.
+Treatment is given monthly and continued until maximum visual acuity is achieved i.e. the patient`s visual acuity is stable for three consecutive monthly assessments performed while on ranibizumab treatment.
 
+Thereafter patients should be monitored monthly for visual acuity.
+
+Treatment is resumed when monitoring indicates loss of visual acuity due to wet AMD.
+Monthly injections should then be administered until stable visual acuity is reached again for three consecutive monthly assessments (implying a minimum of two injections).
+The interval between two doses should not be shorter than 1 month.
 Treatment of visual impairment due to either DME or macular oedema secondary to RVO (see also section 5.1)
 The recommended dose for Lucentis is 0.5 mg given as a single intravitreal injection.
 This corresponds to an injection volume of 0.05 ml.
@@ -55,7 +58,6 @@ Dose adjustment is not needed in patients with renal impairment (see section 5.2
 
 Paediatric population
 Lucentis is not recommended for use in children and adolescents due to a lack of data on safety and efficacy in these sub-populations.
-
 Elderly
 No dose adjustment is required in the elderly.
 There is limited experience in patients older than 75 years with DME.

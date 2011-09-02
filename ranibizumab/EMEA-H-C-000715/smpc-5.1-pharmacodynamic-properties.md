@@ -48,24 +48,24 @@ Study FVF2598g (MARINA)
 15
 
 10
-
-5 +6.6
++6.6
+5
 
 0
-
--5 + 21.5
++ 21.5
+-5
 
 -10
 
 -15 -14.9
 
 0 2 4 6 8 10 12 14 16 18 20 22 24
-
 Month
 
 Study FVF2587g (ANCHOR)
 15
-10 +10.7
++10.7
+10
 
 5
 
@@ -76,7 +76,6 @@ Study FVF2587g (ANCHOR)
 -10 -9.8
 
 -15
-
 0 2 4 6 8 10 12 14 16 18 20 22 24
 
 Month
@@ -156,7 +155,6 @@ Figure 2 Mean change in visual acuity from baseline over time in study D2301 (RE
 
 4
 + 6.2/+ 5.4*
-
 2
 + 0.9
 0
@@ -217,8 +215,7 @@ Figure 3 Mean change from baseline BCVA over time to Month 6 and Month 12 (BRAVO
 6
 + 7.3
 4
-2 sham-controlled arm
-sham-controlled crossed-over to ranibizumab
+2 sham-controlled crossed-over to ranibizumab sham-controlled arm
 0
 0 1 2 3 4 5 6 7 8 9 10 11 12
 Month
@@ -239,7 +236,8 @@ ap<0.0001
 
 Figure 4 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUISE)
 
-20 sham-controlled crossed-over to ranibizumab sham-controlled arm
+20 sham-controlled sham-controlled arm
+crossed-over to ranibizumab
 
 18 + 14.9
 
@@ -249,7 +247,6 @@ Figure 4 Mean change from baseline BCVA over time to Month 6 and Month 12 (CRUIS
 12
 
 10
-
 8 + 7.3
 
 6
@@ -275,7 +272,6 @@ In both studies, the improvement of vision was accompanied by a continuous and s
 In patients with BRVO (BRAVO and extension study HORIZON): After 2 years, subjects that were treated with sham in the first 6 months and subsequently crossed over to ranibizumab treatment had achieved comparable gains in VA (~15 letters) compared to subjects that were treated with ranibizumab from study start (~16 letters).
 However the number of patients completing 2 years was limited and in HORIZON only quarterly monitoring visits were scheduled.
 Therefore there is currently insufficient evidence to conclude on recommendations as to when ranibizumab treatment should be initiated in patients with BRVO.
-
 In patients with CRVO (CRUISE and extension study HORIZON): After 2 years, subjects that were treated with sham in the first 6 months and subsequently crossed over to ranibizumab treatment did not achieve comparable gains in VA (~6 letters) compared to subjects that were treated with ranibizumab from study start (~12 letters).
 
 The improvement in visual acuity observed with ranibizumab treatment at 6 and 12 months was accompanied by patient-reported benefits as measured by the National Eye Institute Visual Function Questionnaire (VFQ-25) sub-scales related to near and distance activity.

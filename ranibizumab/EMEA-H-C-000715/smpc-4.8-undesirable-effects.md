@@ -4,6 +4,7 @@ Wet AMD population
 In wet AMD a total of 1,315 patients constituted the safety population in the three phase III studies with 24 months exposure to Lucentis and 440 patients were treated with the recommended dose of 0.5 mg.
 
 Serious adverse events related to the injection procedure included endophthalmitis, rhegmatogenous retinal detachment, retinal tear and iatrogenic traumatic cataract (see section 4.4).
+
 Other serious ocular events observed among Lucentis-treated patients included intraocular inflammation and increased intraocular pressure (see section 4.4).
 
 The adverse events listed below occurred at a higher rate (at least 2 percentage points) in patients receiving treatment with Lucentis 0.5 mg than in those receiving control treatment (sham or verteporfin PDT) in the three controlled wet AMD phase III studies FVF2598g (MARINA), FVF2587g (ANCHOR) and FVF3192g (PIER).
