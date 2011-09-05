@@ -13,4 +13,4 @@ Simponi, alone or in combination with MTX, is indicated for the treatment of act
 Simponi has been shown to reduce the rate of progression of peripheral joint damage as measured by X-ray in patients with polyarticular symmetrical subtypes of the disease (see section 5.1) and to improve physical function.
 
 Ankylosing spondylitis (AS)
-Simponi is indicated for the treatment of severe, active ankylosing spondylitis in adults who have responded inadequately to conventional therapy
+Simponi is indicated for the treatment of severe, active ankylosing spondylitis in adults who have responded inadequately to conventional therapy.

@@ -144,6 +144,4 @@ Patients with rare hereditary problems of fructose intolerance should not take S
 
 [Simponi 50 mg solution for injection in pre-filled syringe.]
 
-Hematologic reactions
-
 The needle cover on the pre-filled syringe is manufactured from dry natural rubber containing latex, and may cause allergic reactions in individuals sensitive to latex.

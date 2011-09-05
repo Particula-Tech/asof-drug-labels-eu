@@ -16,7 +16,7 @@ Any unused product or waste material should be disposed of in accordance with lo
 
 Simponi is supplied in a single use pre-filled syringe.
 Each Simponi pack is provided with instructions for use that fully describes the use of the syringe.
-After removing the pre-filled syringe from the refrigerator the pre-filled syringe should be allowed to reach room temperature by waiting 30 minutes, before injecting Simponi.
+After removing the pre-filled syringe from the refrigerator the pre-filled syringe should be allowed to reach room temperature by waiting for 30 minutes, before injecting Simponi.
 The syringe should not be shaken.
 
 Comprehensive instructions for the preparation and administration of Simponi in a pre filled syringe are given in the package leaflet.

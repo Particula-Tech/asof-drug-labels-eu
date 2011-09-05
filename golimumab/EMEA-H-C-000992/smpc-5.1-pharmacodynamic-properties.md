@@ -44,11 +44,11 @@ In general, no clinically meaningful differences in measures of efficacy were ob
 Signs and symptoms
 Key ACR results for the Simponi 50 mg dose at weeks 14,24 and 52 for GO-FORWARD, GO-AFTER and GO-BEFORE are shown in Table 2 and are described below.
 Responses were observed at the first assessment (week 4) after the initial Simponi administration.
-
 In GO-FORWARD, among 89 subjects randomised to Simponi 50 mg + MTX, 48 were still on this treatment at week 104.
 Among those, 40, 33 and 24 patients had ACR 20/50/70 response, respectively at week 104.
 
 In GO-AFTER, the percentage of patients achieving an ACR 20 response was greater for patients receiving Simponi than for patients receiving placebo regardless of the reason reported for discontinuation of one or more prior anti-TNF therapies.
+
 Table 2
 Key efficacy outcomes from the controlled portions of GO-FORWARD, GO-AFTER and GO-BEFORE.
 
@@ -87,6 +87,7 @@ Among those, 85, 66 and 53 patients had ACR 20/50/70 response, respectively, at 
 Radiographic Response:
 In GO-BEFORE the change from baseline in the vdH-S score, a composite score of structural damage that radiographically measures the number and size of joint erosions and the degree of joint space narrowing in hands/wrists and feet, was used to assess the degree of structural damage.
 Key results for the Simponi 50 mg dose at week 52 are presented in Table 3.
+
 The number of patients with no new erosions or a change from baseline in total vdH-S Score ≤ 0 was significantly higher in the Simponi treatment group than in the control group (p = 0.003).
 The radiographic effects observed at week 52 were maintained through week 104.
 
@@ -126,6 +127,7 @@ Patients were randomly assigned to placebo, Simponi 50 mg, or Simponi 100 mg.
 Patients receiving placebo were switched to Simponi 50 mg after week 24.
 Patients entered an open label long-term extension at Week 52.Approximately forty-eight percent of patients continued on stable doses of methotrexate (≤25 mg/week).
 The co-primary endpoints were the percentage of patients achieving ACR 20 response at Week 14 and change from baseline in total PsA modified vdH-S score at Week 24.
+
 In general, no clinically meaningful differences in measures of efficacy were observed between the Simponi 50 mg and 100 mg dosing regimens.
 
 Signs and symptoms
@@ -204,7 +206,6 @@ Key efficacy outcomes from GO-RAISE.
 Statistically significant responses in BASDAI 50, 70 and 90 (p ≤ 0.017) were also seen at weeks 14 and 24.
 Improvements in key measures of disease activity were observed at the first assessment (week 4) after the initial Simponi administration and were maintained through week 24.
 Consistent efficacy was seen in patients regardless of use of DMARDs (MTX, sulfasalazine and/or hydroxychloroquine), HLA-B27 antigen status or baseline CRP levels as assessed by ASAS 20 responses at week 14.
-
 Simponi treatment resulted in significant improvements in physical function as assessed by changes from baseline in BASFI at weeks 14 and 24.
 Health-related quality of life as measured by the physical component score of the SF-36 was also improved significantly at weeks 14 and 24.
 
@@ -222,24 +223,3 @@ Paediatric population
 The European Medicines Agency has waived the obligation to conduct studies with Simponi in all subsets of the paediatric population in ankylosing spondylitis and rheumatoid arthritis (see section 4.2 for information on paediatric use).
 
 The European Medicines Agency has deferred the obligation to submit the results of studies with Simponi in one or more subsets of the paediatric population in juvenile idiopathic arthritis and psoriatic arthritis (see section 4.2 for information on paediatric use).
-
-[Simponi 50 mg solution for injection in pre-filled syringe.]
-
-|  | GO-FORWARD Active RA despite MTX |  | GO-AFTER Active RA, previously treated with one or more anti-TNF agent(s) |  | GO-BEFORE Active RA, MTX Naïve |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | Placebo + MTX | Simponi 50 mg + MTX | Placebo | Simponi 50 mg | Placebo + MTX | Simponi 50 mg + MTX |
-| na | 133 | 89 | 150 | 147 | 160 | 159 |
-| Responders, % of patients |  |  |  |  |  |  |
-| ACR 20 |  |  |  |  |  |  |
-| Week 14 | 33% | 55%* | 18% | 35%* | NA | NA |
-| Week 24 | 28% | 60%* | 16% | 31% p=0.002 | 49% | 62% |
-| Week 52 | NA | NA | NA | NA | 52% | 60% |
-| ACR 50 |  |  |  |  |  |  |
-| Week 14 | 10% | 35%* | 7% | 15% p=0.021 | NA | NA |
-| Week 24 | 14% | 37%* | 4% | 16%* | 29% | 40% |
-| Week 52 | NA | NA | NA | NA | 36% | 42% |
-| ACR 70 |  |  |  |  |  |  |
-| Week 14 | 4% | 14% p=0.008 | 2% | 10% p=0.005 | NA | NA |
-| Week 24 | 5% | 20%* | 2% | 9% p=0.009 | 16% | 24% |
-| Week 52 | NA | NA | NA | NA | 22% | 28% |
-| a nreflects randomised patients; actual number of patients evaluable for each endpoint may vary by timepoint. * p ≤ 0.001 NA: Not Applicable |  |  |  |  |  |  |
