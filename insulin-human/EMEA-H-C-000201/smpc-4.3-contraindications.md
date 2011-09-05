@@ -16,11 +16,11 @@ Insuman Rapid must not be used in external or implanted insulin pumps or in peri
 
 (all sentences already above)
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
 
 (all sentences already above)
 
-[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
+[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
 
 (all sentences already above)
 
@@ -40,11 +40,11 @@ Insuman Basal must not be administered intravenously and must not be used in inf
 
 (all sentences already above)
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
 
 (all sentences already above)
 
-[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
 
 (all sentences already above)
 
@@ -64,11 +64,11 @@ Insuman Comb 15 must not be administered intravenously and must not be used in i
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
 
 (all sentences already above)
 
-[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
 
 (all sentences already above)
 
@@ -88,11 +88,11 @@ Insuman Comb 25 must not be administered intravenously and must not be used in i
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
 
 (all sentences already above)
 
-[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
 
 (all sentences already above)
 
@@ -108,11 +108,11 @@ Insuman Comb 30 must not be administered intravenously and must not be used in i
 
 (all sentences already above)
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
 
 (all sentences already above)
 
-[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
 
 (all sentences already above)
 
@@ -132,11 +132,11 @@ Insuman Comb 50 must not be administered intravenously and must not be used in i
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
 
 (all sentences already above)
 
-[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
 
 (all sentences already above)
 

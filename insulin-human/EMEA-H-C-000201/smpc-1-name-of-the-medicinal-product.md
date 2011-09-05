@@ -14,13 +14,13 @@ Insuman Rapid 100 IU/ml solution for injection in a cartridge
 
 Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen.
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
 
-Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.
+(all sentences already above)
 
-[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
+[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
 
-Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.
+(all sentences already above)
 
 [Insuman Basal 100 IU/ml suspension for injection in a vial]
 
@@ -38,13 +38,13 @@ Insuman Basal 100 IU/ml suspension for injection in a cartridge
 
 Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen.
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
 
-Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.
+(all sentences already above)
 
-[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
 
-Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.
+(all sentences already above)
 
 [Insuman Comb 15 100 IU/ml suspension for injection in a vial]
 
@@ -62,13 +62,13 @@ Insuman Comb 15 100 IU/ml suspension for injection in a cartridge
 
 Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen.
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
 
-Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.
+(all sentences already above)
 
-[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
 
-Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.
+(all sentences already above)
 
 [Insuman Comb 25 100 IU/ml suspension for injection in a vial]
 
@@ -86,13 +86,13 @@ Insuman Comb 25 100 IU/ml suspension for injection in a cartridge
 
 Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen.
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
 
-Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.
+(all sentences already above)
 
-[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
 
-Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.
+(all sentences already above)
 
 [Insuman Comb 30 100 IU/ml suspension for injection in a vial]
 
@@ -106,13 +106,13 @@ Insuman Comb 30 100 IU/ml suspension for injection in a cartridge
 
 Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen.
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
 
-Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.
+(all sentences already above)
 
-[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
 
-Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.
+(all sentences already above)
 
 [Insuman Comb 50 100 IU/ml suspension for injection in a vial]
 
@@ -130,13 +130,13 @@ Insuman Comb 50 100 IU/ml suspension for injection in a cartridge
 
 Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen.
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
 
-Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.
+(all sentences already above)
 
-[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
 
-Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.
+(all sentences already above)
 
 [Insuman Infusat 100 IU/ml solution for injection in a vial]
 

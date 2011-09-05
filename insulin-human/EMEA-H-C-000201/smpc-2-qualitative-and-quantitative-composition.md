@@ -23,11 +23,11 @@ Each cartridge contains 3 ml of solution for injection, equivalent to 300 IU ins
 
 Each pen contains 3 ml of solution for injection, equivalent to 300 IU insulin.
 
-[Insuman Rapid 100 IU/ml solution for injection in a cartridge for OptiClik.]
+[Insuman Rapid 100 IU/ml solution for injection in a cartridge (SmPC 5)]
 
 (all sentences already above)
 
-[Insuman Rapid SoloStar 100 IU/ml solution for injection in a pre-filled pen.]
+[Insuman Rapid 100 IU/ml solution for injection in a pre-filled pen. (SmPC 6)]
 
 (all sentences already above)
 
@@ -49,11 +49,11 @@ Each cartridge contains 3 ml of suspension for injection, equivalent to 300 IU i
 
 Each pen contains 3 ml of suspension for injection, equivalent to 300 IU insulin.
 
-[Insuman Basal 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Basal 100 IU/ml suspension for injection in a cartridge (SmPC 11)]
 
 (all sentences already above)
 
-[Insuman Basal SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Basal 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 12)]
 
 (all sentences already above)
 
@@ -73,11 +73,11 @@ Insuman Comb 15 is a biphasic isophane insulin suspension consisting of 15% diss
 
 (all sentences already above)
 
-[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Comb 15 100 IU/ml suspension for injection in a cartridge (SmPC 17)]
 
 (all sentences already above)
 
-[Insuman Comb 15 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Comb 15 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 18)]
 
 (all sentences already above)
 
@@ -97,11 +97,11 @@ Insuman Comb 25 is a biphasic isophane insulin suspension consisting of 25% diss
 
 (all sentences already above)
 
-[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Comb 25 100 IU/ml suspension for injection in a cartridge (SmPC 23)]
 
 (all sentences already above)
 
-[Insuman Comb 25 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Comb 25 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 24)]
 
 (all sentences already above)
 
@@ -117,11 +117,11 @@ Insuman Comb 30 is a biphasic isophane insulin suspension consisting of 30% diss
 
 (all sentences already above)
 
-[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Comb 30 100 IU/ml suspension for injection in a cartridge (SmPC 28)]
 
 (all sentences already above)
 
-[Insuman Comb 30 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Comb 30 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 29)]
 
 (all sentences already above)
 
@@ -141,11 +141,11 @@ Each ml contains 100 IU insulin human (equivalent to 3,5 mg).
 
 (all sentences already above)
 
-[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge for OptiClik.]
+[Insuman Comb 50 100 IU/ml suspension for injection in a cartridge (SmPC 34)]
 
 Each cartridge contains 3 ml suspension for injection, equivalent to 300 IU insulin.
 
-[Insuman Comb 50 SoloStar 100 IU/ml suspension for injection in a pre-filled pen.]
+[Insuman Comb 50 100 IU/ml suspension for injection in a pre-filled pen. (SmPC 35)]
 
 (all sentences already above)
 
