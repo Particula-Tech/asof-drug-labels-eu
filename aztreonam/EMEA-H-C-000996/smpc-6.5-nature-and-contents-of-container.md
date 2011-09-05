@@ -9,7 +9,7 @@ The four additional solvent ampoules are provided in case of spillage.
 
 The following pack sizes are available:
 
-- 28 day pack of Cayston
-- Pack containing one 28 day pack of Cayston plus one Altera Nebuliser Handset
+- 28-day pack of Cayston
+- Pack containing one 28-day pack of Cayston plus one Altera Nebuliser Handset
 
 Not all pack sizes may be marketed.

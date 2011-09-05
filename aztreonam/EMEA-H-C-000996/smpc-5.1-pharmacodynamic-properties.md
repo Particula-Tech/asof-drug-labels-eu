@@ -1,12 +1,14 @@
 # 5.1 Pharmacodynamic properties
 
-Pharmacotherapeutic group: Antibacterials for systemic use, other beta-lactam antibacterials, ATC code: J01DF01
+Pharmacotherapeutic group: Antibacterials for systemic use, other beta-lactam antibacterials,
+ATC code: J01DF01
 
 Mechanism of action
 
 Aztreonam exhibits activity in vitro against gram-negative aerobic pathogens, including
 P. aeruginosa.
 Aztreonam binds to penicillin-binding proteins of susceptible bacteria, which leads to inhibition of bacterial cell wall synthesis, followed by filamentation and cell lysis.
+
 Mechanisms of resistance
 
 Loss of susceptibility to aztreonam in CF patients with P. aeruginosa occurs either through selection of strains with mutations located on the chromosome or rarely through acquisition of plasmid/integrin mediated genes.
@@ -34,16 +36,17 @@ Over 6 courses of Cayston therapy, P. aeruginosa MIC50 and MIC90 did not change 
 In studies of up to six 28-day courses of Cayston therapy, no increases of clinical significance have been observed in the treatment-emergent isolation of other bacterial respiratory pathogens
 (Stenotrophomonas maltophilia, Alcaligenes xylosoxidans, and Staphylococcus aureus).
 
-Clinical Experience:
+Clinical efficacy and safety
 
 Cayston was evaluated over a period of 28-days of treatment (one course) in two randomised, double-blind, placebo-controlled, multicentre studies (CP-AI-005 and CP-AI-007).
 Patients participating in these studies could subsequently receive multiple courses of Cayston in an open-label follow-on study (CP-AI-006).
 Entry criteria included CF baseline FEV1 % predicted between 25% and 75% and chronic P. aeruginosa lung infection.
 Overall, 344 predominantly adult patients (77%) were treated in these studies.
 Studies were conducted using the Altera Nebuliser System.
+
 CP-AI-007
 
-CP-AI-007 enrolled 164 adult (predominantly) and paediatric patients randomised in a 1:1 ratio comparing inhaled Cayston 75 mg (80 patients) or placebo (84 patients) administered 3 times a day for 28-days (one course).
+CP-AI-007 enrolled 164 adult (predominantly) and paediatric patients randomised in a 1:1 ratio comparing inhaled Cayston 75 mg (80 patients) or placebo (84 patients) administered 3 times a day for 28 days (one course).
 Patients were required to have been off antipseudomonal antibiotics for at least 28 days before treatment with study drug.
 
 Pulmonary function and respiratory symptoms significantly improved from baseline to Day 28 in patients treated with one course of Cayston.
@@ -54,7 +57,6 @@ CP-AI-005 enrolled 246 adult (predominantly) and paediatric patients.
 All patients were treated with Tobramycin Nebuliser Solution (TNS) 300 mg, 2 times a day in the four weeks immediately prior to receiving Cayston or placebo either 2 or 3 times a day for 28 days.
 Patients continued on their baseline medications, including macrolide antibiotics.
 Patients were randomised in a 2:2:1:1 ratio to be treated with Cayston 75 mg 2 or 3 times a day or volume-matched placebo 2 or 3 times a day for 28 days immediately following the 28-day lead-in course of open-label TNS.
-
 Cayston therapy resulted in significant improvements in pulmonary function and respiratory symptoms at Day 28 in the 66 patients treated with one course Cayston 75 mg 3 times a day.
 
 CP-AI-006
@@ -66,6 +68,6 @@ Each 28-day course of Cayston was followed by a 28-day off drug period.
 Over six 28-day courses of therapy, measures of pulmonary function (FEV1), CFQ-R respiratory symptoms scores, and log10 P. aeruginosa CFUs showed a trend to improvement while the patients were on treatment compared with off treatment.
 However, due to the uncontrolled nature of the study and concomitant medications no conclusion can be drawn on the sustainability of the observed short term benefit over subsequent courses of treatment.
 
-This medicinal product has been authorised under a so-called “conditional approval” scheme.
-This means that further evidence on this medicinal product is awaited.
-The European Medicines Agency will review new information on the product every year and this SmPC will be updated as necessary.
+Paediatric population
+
+The European Medicines Agency has deferred the obligation to submit the results of studies with Cayston in one or more subsets of the paediatric population in cystic fibrosis patients with Pseudomonas aeruginosa pulmonary infection/colonisation (see section 4.2 for information on paediatric use).

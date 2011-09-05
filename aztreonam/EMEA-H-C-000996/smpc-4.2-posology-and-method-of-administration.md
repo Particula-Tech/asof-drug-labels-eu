@@ -1,5 +1,7 @@
 # 4.2 Posology and method of administration
 
+Posology
+
 Patients should use a bronchodilator before each dose of Cayston.
 Short acting bronchodilators can be taken between 15 minutes and 4 hours and long acting bronchodilators can be taken between 30 minutes and 12 hours prior to each dose of Cayston.
 
@@ -17,10 +19,10 @@ Adults
 The recommended dose for adults is 75 mg three times per 24 hours for 28 days.
 
 Doses should be taken at least 4 hours apart.
-
 Multiple course, controlled efficacy data are not yet available (see section 5.1).
 Additional courses, beyond the initial 28-day course, should be considered only at the discretion of the physician.
 If additional courses are prescribed, a minimum of 28 days without Cayston is recommended.
+
 Paediatric population
 
 Cayston is not recommended for use in children below the age of 18 years due to insufficient data on safety and efficacy (see section 5.1).

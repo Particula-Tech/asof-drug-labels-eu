@@ -25,7 +25,6 @@ Pharmacokinetics in special populations
 Age and gender
 
 There was no clinically relevant effect of age or sex on the pharmacokinetics of Cayston.
-
 Renal and hepatic impairment
 
 Pharmacokinetic studies have not been performed in patients with renal or hepatic impairment.
