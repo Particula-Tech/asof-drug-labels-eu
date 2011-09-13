@@ -11,5 +11,5 @@ For a full list of excipients, see section 6.1.
 Each gram of granules contains 940 mg of sodium phenylbutyrate.
 
 One small spoon of AMMONAPS granules contains 149 mg of sodium.
-One medium sized spoon of AMMONAPS granules contains 384 mg of sodium.
-One large spoon of AMMONAPS granules contains 1116 mg of sodium.
+One medium sized spoon of AMMONAPS granules contains 408 mg of sodium.
+One large spoon of AMMONAPS granules contains 1200 mg of sodium.

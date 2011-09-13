@@ -37,5 +37,5 @@ The safety and efficacy of doses in excess of 20 g/day have not been established
 The total daily dose should be divided into equal amounts and given with each meal or feeding (e.g. 4-6 times per day in small children).
 When taken orally, the granules are to be mixed with solid foods (such as mashed potatoes or apple sauce) or liquid foods (such as water, apple juice, orange juice or protein-free infant formulas).
 
-Three dosing spoons are provided which dispense 1.2 g, 3.1 g or 9.0 g of sodium phenylbutyrate.
+Three dosing spoons are provided which dispense 1.2 g, 3.3 g or 9.7 g of sodium phenylbutyrate.
 Lightly shake the bottle before dispensing.
