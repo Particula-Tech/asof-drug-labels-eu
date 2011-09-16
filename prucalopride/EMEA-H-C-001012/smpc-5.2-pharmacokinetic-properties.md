@@ -4,10 +4,10 @@ Absorption
 Prucalopride is rapidly absorbed; after a single oral dose of 2 mg Cmax was attained in 2-3 hours.
 The absolute oral bioavailability is >90%.
 Concomitant intake of food does not influence the oral bioavailability of prucalopride.
-
 Distribution
 Prucalopride is extensively distributed, and has a steady-state volume of distribution (Vdss) of 567 litre.
 The plasma protein binding of prucalopride is about 30%.
+
 Metabolism
 Metabolism is not the major route of elimination of prucalopride.
 In vitro, human liver metabolism is very slow and only minor amounts of metabolites are found.

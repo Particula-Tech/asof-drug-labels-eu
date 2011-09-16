@@ -12,5 +12,7 @@ In case of severe diarrhoea, the efficacy of oral contraceptives may be reduced 
 It is unlikely that hepatic impairment will affect prucalopride metabolism and exposure in man to a clinically relevant extent.
 No data are available in patients with mild, moderate or severe hepatic impairment, and therefore a lower dose is recommended for patients with severe hepatic impairment (see section 4.2).
 
+Men: The safety and efficacy of Resolor for use in men has not been established in controlled clinical trials therefore Resolor is not recommended for use in men until further data becomes available.
+
 The tablets contain lactose monohydrate.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption must not take this medicinal product.

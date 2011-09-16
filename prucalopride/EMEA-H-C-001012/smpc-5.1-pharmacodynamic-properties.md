@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Drugs acting on serotonin receptors, ATC code: A03AE04.
-
 Mechanism of action
 Prucalopride is a dihydrobenzofurancarboxamide with enterokinetic activities.
 Prucalopride is a selective, high affinity serotonin (5-HT4) receptor agonist, which is likely to explain its enterokinetic effects.

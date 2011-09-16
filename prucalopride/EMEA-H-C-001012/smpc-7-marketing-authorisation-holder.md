@@ -1,6 +1,6 @@
 # 7. MARKETING AUTHORISATION HOLDER
 
-Movetis NV
+Shire-Movetis NV
 Veedijk 58
 B-2300 Turnhout
 Belgium

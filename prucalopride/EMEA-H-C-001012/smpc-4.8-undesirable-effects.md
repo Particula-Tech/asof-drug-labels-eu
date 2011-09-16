@@ -7,10 +7,10 @@ The most frequently reported adverse reactions associated with Resolor therapy a
 The adverse reactions occur predominantly at the start of therapy and usually disappear within a few days with continued treatment.
 Other adverse reactions have been reported occasionally.
 The majority of adverse events were mild to moderate in intensity.
-
 The following adverse reactions were reported in controlled clinical studies at the recommended dose of 2 mg with frequencies corresponding to Very common (≥ 1/10), Common (≥ 1/100 to < 1/10), Uncommon (> 1/1,000 to < 1/100), Rare (> 1/10,000 to < 1/1,000) and Very rare (≤ 1/10,000).
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
 Frequencies are calculated based on the placebo-controlled clinical study data.
+
 Metabolism and nutrition disorders
 Uncommon: anorexia
 
