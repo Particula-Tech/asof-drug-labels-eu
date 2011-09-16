@@ -1,0 +1,16 @@
+{
+  "active_substance": "Dexmedetomidine hydrochloride",
+  "corpus": "eu",
+  "ema_product_number": "EMEA/H/C/002268",
+  "eu_number": "EU/1/11/718",
+  "history_type": "in-force",
+  "marketing_authorisation_date": "2011-09-15",
+  "medicine_url": "https://www.ema.europa.eu/en/medicines/human/EPAR/dexdor",
+  "molecule": "dexmedetomidine",
+  "molecule_name": "DEXMEDETOMIDINE",
+  "name": "Dexdor",
+  "register_name": "Dexdor",
+  "scope": "Annex I (summary of product characteristics), English annexes only",
+  "source": "ec-union-register",
+  "source_h_page_url": "https://ec.europa.eu/health/documents/community-register/html/h718.htm"
+}
