@@ -23,6 +23,15 @@ In clinical trials in a range of indications including allergic rhinitis and chr
 In clinical trials, desloratadine in the syrup formulation was administered to a paediatric population.
 The overall incidence of adverse events was similar between the desloratadine syrup and the placebo groups and did not differ significantly than the safety profile seen in adult patients.
 
+| Psychiatric disorders | Hallucinations |
+| --- | --- |
+| Nervous system disorders | Dizziness, somnolence, insomnia, psychomotor hyperactivity, seizures |
+| Card. iac disorders | Tachycardia, palpitations |
+| Gastrointestinal disorders | Abdominal pain, nausea, vomiting, dyspepsia, diarrhoea |
+| Hepatobiliary disorders | Elevations of liver enzymes, increased bilirubin, hepatitis |
+| Musculoskeletal and connective tissue disorders | Myalgia |
+| General disorders | Hypersensitivity reactions (such as anaphylaxis, angioedema, dyspnoea, pruritus, rash, and urticaria) |
+
 [Azomyr 5 mg orodispersible tablets]
 
 (all sentences already above)

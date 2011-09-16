@@ -31,7 +31,7 @@ In a separate study, grapefruit juice had no effect on the disposition of deslor
 In a series of pharmacokinetic and clinical trials, 6 % of the subjects reached a higher concentration of desloratadine.
 The prevalence of this poor metaboliser phenotype was comparable for adult (6 %) and paediatric subjects 2- to 11-year old (6 %), and greater among Blacks (18 % adult, 16 % paediatric) than Caucasians (2 % adult, 3 % paediatric) in both populations however the safety profile of these subjects was not different from that of the general population.
 In a multiple-dose pharmacokinetic study conducted with the tablet formulation in healthy adult subjects, four subjects were found to be poor metabolisers of desloratadine.
-These subjects had a Cmax concentration about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours.
+These subjects had a Cmax concentration about 3-fold higher at approximately 7 hours with a terminal phase half-life of approximately 89 hours. .
 
 In single-dose crossover studies of Azomyr 5 mg orodispersible tablets with Azomyr 5 mg conventional tablets or Azomyr 5 mg oral lyophilisate, the formulations were bioequivalent.
 Azomyr 2.5 mg tablets has not been evaluated in paediatric patients however in conjunction with the dose finding studies in paediatrics, the pharmacokinetics data for Azomyr orodispersible tablets supports the use of the 2.5 mg dose in paediatric patients 6 to 11 years of age.
@@ -45,8 +45,7 @@ The prevalence of this poor metaboliser phenotype was greater among Black adults
 [Azomyr 0.5 mg/ml oral solution]
 
 Desloratadine plasma concentrations can be detected within 30 minutes of desloratadine administration in adults and adolescents.
-
-The prevalence of this poor metaboliser phenotype was comparable for adult (6 %) and paediatric subjects 2- to 11-year old (6 %), and greater among Blacks (18 % adult, 16 % paediatric) than Caucasians (2 % adult, 3 % paediatric) in both populations.
+The prevalence of this poor metaboliser phenotype was comparable for adult (6 %) and paediatric subjects 2- to 11-year old (6 %), and greater among Blacks (18 % adult, 16 % paediatric) than Caucasians (2 % adult, 3 % paediatric) in both populations. .
 
 Similar pharmacokinetic parameters were observed in a multiple-dose pharmacokinetic study conducted with the syrup formulation in paediatric poor metaboliser subjects 2- to 11-year old diagnosed with allergic rhinitis.
 The exposure (AUC) to desloratadine was about 6-fold higher and the Cmax was about 3 to 4 fold higher at 3-6 hours with a terminal half-life of approximately 120 hours.

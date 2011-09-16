@@ -8,7 +8,7 @@ The lack of carcinogenic potential was demonstrated in studies conducted with de
 
 [Azomyr 5 mg oral lyophilisate]
 
-No significant local irritant effect was observed when the rapidly-dissolving form was tested in a hamster cheek pouch mucous membrane irritation assay.
+No significant local irritant effect was observed when the rapidly-dissolving form was tested in a hamster . cheek pouch mucous membrane irritation assay.
 
 [Azomyr 2.5 mg orodispersible tablets]
 
