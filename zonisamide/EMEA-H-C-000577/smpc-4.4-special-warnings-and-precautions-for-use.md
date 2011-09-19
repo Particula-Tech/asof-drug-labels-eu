@@ -36,7 +36,7 @@ Conditions or therapies that predispose to acidosis (such as renal disease, seve
 
 The risk of zonisamide induced metabolic acidosis appears to be more frequent and severe in younger patients.
 Appropriate evaluation and monitoring of serum bicarbonate levels should be carried out in patients taking zonisamide who have underlying conditions which might increase the risk of acidosis, in patients who are at an increased risk of adverse consequences of metabolic acidosis and in patients with symptoms suggestive of metabolic acidosis.
-If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing Zonegran (by gradual discontinuation or reduction of a therapeutic dose).
+If metabolic acidosis develops and persists, consideration should be given to reducing the dose or discontinuing Zonegran (by gradual discontinuation or reduction of a therapeutic dose) as osteopenia may develop.
 If the decision is made to continue patients on Zonegran in the face of persistent acidosis, alkali treatment should be considered.
 
 Zonegran should be used with caution in patients being treated concomitantly with carbonic anhydrase inhibitors such as topiramate, as there are insufficient data to rule out a pharmacodynamic interaction (see section 4.5).
@@ -46,7 +46,6 @@ Heat stroke requiring hospital treatment was diagnosed in some cases.
 Most reports occurred during periods of warm weather.
 Patients or their carers must be warned to take care to maintain hydration and avoid exposure to excessive temperatures.
 Caution should be used when Zonegran is prescribed with other medicinal products that predispose patients to heat related disorders; these include carbonic anhydrase inhibitors and medicinal products with anticholinergic activity.
-
 In patients taking Zonegran who develop the clinical signs and symptoms of pancreatitis, it is recommended that pancreatic lipase and amylase levels are monitored.
 If pancreatitis is evident, in the absence of another obvious cause, it is recommended that discontinuation of Zonegran be considered and appropriate treatment initiated.
 
