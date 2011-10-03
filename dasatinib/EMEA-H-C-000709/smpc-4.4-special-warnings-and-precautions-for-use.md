@@ -51,6 +51,20 @@ Fluid retention events were typically managed by supportive care measures that i
 While the safety profile of SPRYCEL in the elderly population was similar to that in the younger population, patients aged 65 years and older are more likely to experience fluid retention events and dyspnoea and should be monitored closely.
 Fluid retention was reported less frequently in patients treated with once daily schedule compared to twice daily in two Phase III dose-optimisation studies (see section 4.8).
 
+Pulmonary arterial hypertension (PAH)
+PAH (pre-capillary pulmonary arterial hypertension confirmed by right heart catheterization) has been reported in association with dasatinib treatment in post-marketing reports (see section 4.8).
+In these cases, PAH was reported after initiation of dasatinib therapy, including after more than one year of treatment.
+
+Patients should be evaluated for signs and symptoms of underlying cardiopulmonary disease prior to initiating dasatinib therapy.
+An echocardiography should be performed at treatment initiation in every patient presenting symptoms of cardiac disease and considered in patients with risk factors for cardiac or pulmonary disease.
+Patients who develop dyspnoea and fatigue after initiation of therapy should be evaluated for common etiologies including pleural effusion, pulmonary oedema, anaemia, or lung infiltration.
+In accordance with recommendations for management of non-haematologic adverse reactions (see section 4.2) the dose of dasatinib should be reduced or therapy interrupted during this evaluation.
+If no explanation is found, or if there is no improvement with dose reduction or interruption, the diagnosis of PAH should be considered.
+The diagnostic approach should follow standard practice guidelines.
+If PAH is confirmed, dasatinib should be permanently discontinued.
+Follow up should be performed according to standard practice guidelines.
+Improvements in haemodynamic and clinical parameters have been observed in dasatinib-treated patients with PAH following cessation of dasatinib therapy.
+
 QT Prolongation
 In vitro data suggest that dasatinib has the potential to prolong cardiac ventricular repolarisation (QT Interval) (see section 5.3).
 In 258 dasatinib-treated patients and 258 imatinib-treated patients in the Phase III study in newly diagnosed chronic phase CML, 1 patient (< 1%) in each group had QTc prolongation reported as an adverse reaction.
@@ -63,7 +77,6 @@ Twenty-one of these patients (1%) experienced a QTcF > 500 msec.
 Dasatinib should be administered with caution to patients who have or may develop prolongation of QTc.
 These include patients with hypokalaemia or hypomagnesaemia, patients with congenital long QT syndrome, patients taking anti-arrhythmic medicinal products or other medicinal products which lead to QT prolongation, and cumulative high dose anthracycline therapy.
 Hypokalaemia or hypomagnesaemia should be corrected prior to dasatinib administration.
-
 Cardiac adverse reactions
 Dasatinib was studied in a randomised trial of 519 patients with newly diagnosed CML in chronic phase which included patients with prior cardiac disease.
 The cardiac adverse reactions of congestive heart failure/cardiac dysfunction and fatal myocardial infarction were reported in patients taking dasatinib.
@@ -77,6 +90,7 @@ Dasatinib may be resumed at the original dose for mild/moderate events
 Patients continuing treatment should be monitored periodically.
 
 Patients with uncontrolled or significant cardiovascular disease were not included in the clinical studies.
+
 Lactose
 This medicinal product contains 135 mg of lactose monohydrate in a 100 mg daily dose and 189 mg of lactose monohydrate in a 140 mg daily dose.
 Patients with rare hereditary problems of galactose intolerance, the Lapp lactase deficiency or glucose-galactose malabsorption should not take this medicinal product.

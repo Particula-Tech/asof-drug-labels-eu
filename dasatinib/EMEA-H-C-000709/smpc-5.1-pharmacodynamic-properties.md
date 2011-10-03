@@ -40,7 +40,6 @@ Baseline characteristics were well balanced between the two treatment groups wit
 At baseline, the distribution of Hasford Scores was similar in the SPRYCEL and imatinib treatment groups (low risk: 33% and 34%; intermediate risk 48% and 47%; high risk: 19% and 19%, respectively).
 With a minimum of 12 months follow-up, 85% of patients randomised to the SPRYCEL group and 81% of patients randomised to the imatinib group were still receiving first-line treatment.
 Discontinuation due to disease progression occurred in 3% of SPRYCEL-treated patients and 5% of imatinib-treated patients.
-
 Efficacy results are presented in Table 5.
 A statistically significantly greater proportion of patients in the SPRYCEL group achieved a cCCyR compared with patients in the imatinib group within the first 12 months of treatment.
 Efficacy of SPRYCEL was consistently demonstrated across different subgroups, including age, gender, and baseline Hasford score.
@@ -131,6 +130,7 @@ Forty-two percent of the imatinib-resistant patients with no prior MCyR to imati
 There were 45 different BCR-ABL mutations in 38% of patients enrolled in this study.
 Complete haematologic response or MCyR was achieved in patients harbouring a variety of BCR-ABL mutations associated with imatinib resistance except T315I.
 The rates of MCyR at 2 years were similar whether patients had any baseline BCR-ABL mutation, P-loop mutation, or no mutation (63%, 61% and 62%, respectively).
+
 Among imatinib-resistant patients, the estimated rate of PFS was 88% (95% CI: [84%-92%]) at 1 year and 75% (95% CI: [69%-81%]) at 2 years.
 Among imatinib-intolerant patients, the estimated rate of PFS was 98% (95% CI: [95%-100%]) at 1 year and 94% (95% CI: [88%-99%]) at 2 years.
 

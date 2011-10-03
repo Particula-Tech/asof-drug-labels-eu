@@ -1,6 +1,6 @@
 # 3. PHARMACEUTICAL FORM
 
-Film-coated tablet (tablet)
+Film-coated tablet (tablet).
 
 White to off-white, biconvex, round tablet with "BMS" debossed on one side and "527" on the other side.
 

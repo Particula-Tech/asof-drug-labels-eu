@@ -1,12 +1,11 @@
 # 4.8 Undesirable effects
 
-a. Summary of the safety profile
+Summary of the safety profile
 
 The data described below reflect exposure to SPRYCEL in 2,440 patients in clinical studies, including 258 patients with newly diagnosed chronic phase CML with a minimum of 12 months follow-up (starting dose 100 mg once daily) and 2,182 patients with imatinib resistant or intolerant CML or
 Ph+ ALL with a minimum of 24 months follow-up (starting dose 100 mg once daily, 140 mg once daily, 50 mg twice daily, or 70 mg twice daily).
 The median duration of therapy in this patient population was 15 months (range 0.03 - 36 months).
 Of the 2,440 patients treated, 23% were ≥ 65 years of age, while 5% were ≥ 75 years of age.
-
 In the Phase III study in patients with newly diagnosed chronic phase CML the median duration of therapy was 14 months (range 0.03-24 months) for SPRYCEL and 14 months (range 0.3-26 months) for imatinib; the median average daily dose was 99 mg and 400 mg, respectively.
 
 The majority of SPRYCEL-treated patients experienced adverse reactions at some time.
@@ -25,13 +24,13 @@ Drug-related febrile neutropenia was reported in 5% of SPRYCEL-treated patients 
 
 In clinical studies with patients with resistance or intolerance to prior imatinib therapy, it was recommended that treatment with imatinib be discontinued at least 7 days before starting treatment with SPRYCEL.
 
-b. Tabulated summary of adverse reactions
+Tabulated summary of adverse reactions
 
 The following adverse reactions, excluding laboratory abnormalities, were reported in patients in SPRYCEL clinical studies and post-marketing experience (Table 2).
 These reactions are presented by system organ class and by frequency.
 Frequencies are defined as: very common (≥ 1/10); common
 (≥ 1/100 to < 1/10); uncommon (≥ 1/1,000 to < 1/100); rare (≥ 1/10,000 to < 1/1,000); not known (cannot be estimated from available post-marketing data).
-Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
+Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 Table 2: Tabulated summary of adverse reactions
 
@@ -84,7 +83,8 @@ Very common pleural effusion*, dyspnoea
 Common cough, pulmonary oedema*, pulmonary hypertension*, lung infiltration, pneumonitis
 Uncommon bronchospasm, asthma
 Rare acute respiratory distress syndrome
-Not known interstitial lung disease
+Not known interstitial lung disease, pulmonary arterial hypertension (pre-capillary pulmonary
+arterial hypertension)
 Gastrointestinal disorders
 Very common diarrhoea, vomiting, nausea, abdominal pain
 Common gastrointestinal bleeding*, colitis (including neutropenic colitis), gastritis, mucosal
@@ -134,7 +134,7 @@ e Includes auricular swelling, conjunctival oedema, eye oedema, eye swelling, ey
 
 * For additional details, see section c.
 
-c. Description of selected adverse reactions
+Description of selected adverse reactions
 
 Myelosuppression
 Treatment with SPRYCEL is associated with anaemia, neutropenia and thrombocytopenia.
@@ -170,6 +170,12 @@ Grade 3 or 4 ascites and generalised oedema were each reported in < 1%.
 One percent of patients experienced grade 3 or 4 pulmonary oedema.
 Fluid retention events were typically managed by supportive care measures that include diuretics or short courses of steroids.
 
+Pulmonary arterial hypertension (PAH)
+PAH (pre-capillary pulmonary arterial hypertension confirmed by right heart catheterization) has been reported in association with dasatinib exposure in post-marketing reports.
+In these cases, PAH was reported after initiation of dasatinib therapy, including after more than one year of treatment.
+Patients with PAH reported during dasatinib treatment were often taking concomitant medications or had co-morbidities in addition to the underlying malignancy.
+Improvements in haemodynamic and clinical parameters have been observed in patients with PAH following discontinuation of dasatinib.
+
 QT Prolongation
 In the Phase III study in patients with newly diagnosed chronic phase CML, one patient (< 1%) of the SPRYCEL-treated patients had a QTcF > 500 msec (see section 4.4).
 In 5 Phase II clinical studies in patients with resistance or intolerance to prior imatinib therapy, repeated baseline and on-treatment ECGs were obtained at pre-specified time points and read centrally for 865 patients receiving SPRYCEL 70 mg twice daily.
@@ -180,9 +186,9 @@ Twenty-one patients (1%) experienced a QTcF > 500 msec (see section 4.4).
 
 Cardiac adverse reactions
 Patients with risk factors or a history of cardiac disease should be monitored carefully for signs or symptoms consistent with cardiac dysfunction and should be evaluated and treated appropriately (see section 4.4).
-
 In the Phase III dose-optimisation study in patients with chronic phase CML with resistance or intolerance to prior imatinib therapy (median duration of treatment of 23 months), the incidence of pleural effusion and congestive heart failure/cardiac dysfunction was lower in patients treated with SPRYCEL 100 mg once daily than in those treated with SPRYCEL 70 mg twice daily (Table 3a).
 Myelosuppression was also reported less frequently with the 100 mg once daily (see Laboratory test abnormalities below).
+
 Table 3a: Selected adverse reactions reported in phase III dose-optimisation study: Chronic Phase CML
 100 mg once daily 140 mg once dailya 50 mg twice dailya 70 mg twice dailya
 
@@ -217,7 +223,6 @@ b Includes ventricular dysfunction, cardiac failure, cardiac failure congestive,
 
 In the Phase III dose-optimisation study in patients with advanced phase CML and Ph+ ALL (median duration of treatment of 14 months for accelerated phase CML, 3 months for myeloid blast CML,
 4 months for lymphoid blast CML and 3 months for Ph+ ALL), fluid retention (pleural effusion and pericardial effusion) was reported less frequently in patients treated with SPRYCEL 140 mg once daily than in those treated with 70 mg twice daily (Table 3b).
-
 Table 3b: Selected adverse reactions reported in phase III dose-optimisation study: Advanced Phase CML and Ph+ ALL
 
 140 mg once daily 70 mg twice dailya
@@ -242,7 +247,8 @@ Gastrointestinal bleeding 8 6 12 6
 
 a Not a recommended starting dose of SPRYCEL for advanced phase CML and Ph+ ALL (see section 4.2).
 b Includes ventricular dysfunction, cardiac failure, cardiac failure congestive, cardiomyopathy, congestive cardiomyopathy, diastolic dysfunction, ejection fraction decreased, and ventricular failure.
-Laboratory test abnormalities:
+
+Laboratory test abnormalities
 
 Haematology
 In the Phase III newly diagnosed chronic phase CML study, the following grade 3 or 4 laboratory abnormalities were reported in patients taking SPRYCEL: neutropenia (21%), thrombocytopenia (19%), and anaemia (10%).
@@ -270,7 +276,6 @@ Thrombocytopenia 41 72 82 78
 Anaemia 19 55 75 46
 
 CTC grades: neutropenia (Grade 3 ≥ 0.5– < 1.0 × 109/l, Grade 4 < 0.5 × 109/l); thrombocytopenia (Grade 3 ≥ 25 – < 50 × 109/l, Grade 4 < 25 × 109/l); anaemia (haemoglobin Grade 3 ≥ 65 – < 80 g/l, Grade 4 < 65 g/l).
-
 In the Phase III dose-optimisation study in patients with chronic phase CML, the frequency of neutropenia, thrombocytopenia and anaemia was lower in the SPRYCEL 100 mg once daily than in the SPRYCEL 70 mg twice daily group.
 
 In patients who experienced grade 3 or 4 myelosuppression, recovery generally occurred following brief dose interruptions and/or reductions and permanent discontinuation of treatment occurred in 5% of patients.
@@ -284,12 +289,13 @@ Grade 3 or 4 elevations of transaminases or bilirubin were reported in < 1% of p
 It was usually managed with dose reduction or interruption.
 In the Phase III dose-optimisation study in chronic phase CML, grade 3 or 4 elevations of transaminases or bilirubin were reported in ≤ 1% of patients with similar low incidence in the four treatment groups.
 In the Phase III dose-optimisation study in advanced phase CML and Ph+ALL, grade 3 or 4 elevations of transaminases or bilirubin were reported in 1% to 4% of patients across treatment groups.
+
 Approximately 5% of the SPRYCEL-treated patients who had normal baseline levels experienced grade 3 or 4 transient hypocalcaemia at some time during the course of the study.
 In general, there was no association of decreased calcium with clinical symptoms.
 Patients developing grade 3 or 4 hypocalcaemia often had recovery with oral calcium supplementation.
 Grade 3 or 4 hypocalcaemia, hypokalaemia, and hypophosphatemia were reported in patients with all phases of CML but were reported with an increased frequency in patients with myeloid or lymphoid blast phase CML and Ph+ ALL.
 Grade 3 or 4 elevations in creatinine were reported in < 1% of patients with chronic phase CML and were reported with an increased frequency of 1 to 4% of patients with advanced phase CML.
 
-d. Other special population
+Other special population
 
 While the safety profile of SPRYCEL in the elderly population was similar to that in the younger population, patients aged 65 years and older are more likely to experience fluid retention events and dyspnoea and should be monitored closely (see section 4.4).

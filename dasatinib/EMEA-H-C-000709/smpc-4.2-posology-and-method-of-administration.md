@@ -16,7 +16,7 @@ Dose increase or reduction is recommended based on patient response and tolerabi
 Dose escalation
 In clinical studies in adult CML and Ph+ ALL patients, dose escalation to 140 mg once daily (chronic phase CML) or 180 mg once daily (advanced phase CML or Ph+ ALL) was allowed in patients who did not achieve a haematologic or cytogenetic response at the recommended starting dose.
 
-Dose adjustment for undesirable effects
+Dose adjustment for adverse reactions
 
 Myelosuppression
 In clinical studies, myelosuppression was managed by dose interruption, dose reduction, or discontinuation of study therapy.
