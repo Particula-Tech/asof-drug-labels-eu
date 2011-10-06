@@ -26,7 +26,6 @@ Alcohol: There are no data on interaction with posaconazole.
 Herbal medicinal products: There are no data on interaction with posaconazole.
 
 Smoking: There are no data on interaction with posaconazole.
-
 Effects of posaconazole on other medicinal products
 Posaconazole is a potent inhibitor of CYP3A4.
 Co-administration of posaconazole with CYP3A4 substrates may result in large increases in exposure to CYP3A4 substrates as exemplified by the effects on tacrolimus, sirolimus, atazanavir and midazolam below.
