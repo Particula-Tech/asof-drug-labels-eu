@@ -1,6 +1,5 @@
 # 6.1 List of excipients
 
-For the 1.5 mg tablet:
 Coated tablet core:
 Polyethylene oxide 200K
 Sodium chloride
@@ -29,19 +28,17 @@ Hypromellose
 
 [INVEGA 3 mg prolonged-release tablets]
 
-For the 3 mg tablet:
-
 Lactose monohydrate
 Triacetin
 
 [INVEGA 6 mg prolonged-release tablets]
 
-For the 6 mg tablet:
+(all sentences already above)
 
 [INVEGA 9 mg prolonged-release tablets]
 
-For the 9 mg tablet:
+(all sentences already above)
 
 [INVEGA 12 mg prolonged-release tablets]
 
-For the 12 mg tablet:
+(all sentences already above)

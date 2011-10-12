@@ -81,12 +81,12 @@ Patients with rare hereditary problems of galactose intolerance, the Lapp lactas
 
 [INVEGA 6 mg prolonged-release tablets]
 
-Neuroleptic Malignant Syndrome (NMS), characterised by hyperthermia, muscle rigidity, autonomic instability, altered consciousness, and elevated serum creatine phosphokinase levels has been reported to occur paliperidone.
+(all sentences already above)
 
 [INVEGA 9 mg prolonged-release tablets]
 
-Physicians should weigh the risks versus the benefits when prescribing INVEGA, to patients with Parkinson’s Disease or Dementia with Lewy Bodies (DLB) since both groups may be at increased risk of Neuroleptic Malignant Syndrome as well as having an increased sensitivity to antipsychotics.
+(all sentences already above)
 
 [INVEGA 12 mg prolonged-release tablets]
 
-During post-marketing surveillance priapism has also been reported with paliperidone, which is the active metabolite of risperidone.
+(all sentences already above)

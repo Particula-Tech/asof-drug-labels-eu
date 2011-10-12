@@ -23,6 +23,7 @@ Maintenance of effect has not been studied.
 INVEGA must be swallowed whole with liquid, and must not be chewed, divided, or crushed.
 The active substance is contained within a non absorbable shell designed to release the active substance at a controlled rate.
 The tablet shell, along with insoluble core components, is eliminated from the body; patients should not be concerned if they occasionally notice in their stool something that looks like a tablet.
+
 Patients with hepatic impairment
 No dose adjustment is required in patients with mild or moderate hepatic impairment.
 As INVEGA has not been studied in patients with severe hepatic impairment, caution is recommended in such patients.

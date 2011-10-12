@@ -9,8 +9,8 @@ The following terms and frequencies are applied: very common (≥ 1/10), common 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
 
 The data described in this section are derived from the following clinical trial databases in subjects with schizophrenia, schizoaffective disorder, and bipolar disorder:
-
 - 1205 adult subjects with schizophrenia who participated in three placebo-controlled, 6-week, double-blind trials, of whom 850 subjects received INVEGA at fixed doses ranging from 3 mg to 12 mg once daily.
+
 - 622 adult subjects with schizoaffective disorder who participated in two placebo-controlled, 6-week, double-blind trials.
 In one of these trials, 206 subjects were assigned to one of two dose levels of INVEGA: 6 mg with the option to reduce to 3 mg (n = 108) or 12 mg with the option to reduce to 9 mg (n = 98) once daily.
 In the other study, 214 subjects received flexible doses of INVEGA (3 mg to 12 mg once daily).
@@ -39,6 +39,7 @@ In these three studies, a total of 1257 subjects were evaluable for safety, of w
 | Renal and urinary disorders |  |  | urinary retention | urinary incontinence |  |
 |  | Frequency |  |  |  |  |
 |  | Very common | Common | Uncommon | Rare | Not Known |
+| Pregnancy, puerperium and perinatal conditions |  |  |  |  | drug withdrawal syndrome neonatal (see section 4.6) |
 | Reproductive system and breast disorders |  |  | erectile dysfunction, galactorrhoea, amenorrhoea, | gynaecomastia, breast discharge, menstruation irregular, breast engorgement, breast pain, breast tenderness, retrograde ejaculation | priapism |
 | General disorders |  | asthenia, fatigue | oedema peripheral | oedema |  |
 
@@ -78,103 +79,3 @@ Cases of venous thromboembolism, including cases of pulmonary embolism and cases
 
 Paliperidone is the active metabolite of risperidone.
 The safety profile of risperidone may be pertinent.
-
-[INVEGA 3 mg prolonged-release tablets]
-
-| System Organ Class | Adverse Drug Reaction |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Frequency |  |  |  |  |
-|  | Very common | Common | Uncommon | Rare | Not Known |
-| Infections and infestations |  | upper respiratory tract infection, nasopharyngitis | urinary tract infection, rhinitis |  |  |
-| Immune system disorders |  |  |  | anaphylactic reaction, hypersensitivity |  |
-| Endocrine disorders |  |  |  | hyperprolactinaemiaa |  |
-| Metabolism and nutrition disorders |  | weight increased, increased appetite | hyperglycaemia, decreased appetite |  |  |
-| Psychiatric disorders |  | agitation | nightmare, sleep disorder |  |  |
-| Nervous system disorders | headache | dystoniab parkinsonismb, dysarthria, akathisia, dyskinesiab, extrapyramidal disorderb, tremorb, dizziness, sedation, somnolence | syncope, dizziness postural, lethargy | transient ischaemic attack, grand mal convulsion, convulsion, tardive dyskinesia | cerebrovascul ar accident, neuroleptic malignant syndrome |
-| Eye disorders |  | vision blurred |  |  |  |
-| Cardiac disorders |  | sinus tachycardia, tachycardia | bundle branch block, atrioventricular block first degree, bradycardia, palpitations, electrocardiogram abnormal, sinus arrhythmia | bundle branch block left, electrocardiogram QT prolonged |  |
-| Vascular disorders |  | orthostatic hypotension | hypotension | ischaemia |  |
-| Respiratory, thoracic and mediastinal disorders |  | cough, pharyngolaryngeal pain, nasal congestion |  |  | pneumonia aspiration |
-| Gastrointestinal disorders |  | vomiting, abdominal discomfort/abdomin al pain upper, stomach discomfort, nausea, dyspepsia, dry mouth, constipation | flatulence | small intestinal obstruction | swollen tongue |
-| Skin and subcutaneous tissue disorders |  |  | rash, pruritus | angioedema, rash papular |  |
-| Musculoskeletal, connective tissue and bone disorders |  | arthralgia, back pain, pain in extremity | musculoskeletal pain, myalgia |  |  |
-| Renal and urinary disorders |  |  | urinary retention | urinary incontinence |  |
-|  | Frequency |  |  |  |  |
-|  | Very common | Common | Uncommon | Rare | Not Known |
-| Reproductive system and breast disorders |  |  | erectile dysfunction, galactorrhoea, amenorrhoea | gynaecomastia, breast discharge, menstruation irregular, breast engorgement, breast pain, breast tenderness, retrograde ejaculation | priapism |
-| General disorders |  | asthenia, fatigue | oedema peripheral | oedema |  |
-
-[INVEGA 6 mg prolonged-release tablets]
-
-| System Organ Class | Adverse Drug Reaction |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Frequency |  |  |  |  |
-|  | Very common | Common | Uncommon | Rare | Not Known |
-| Infections and infestations |  | upper respiratory tract infection, nasopharyngitis | urinary tract infection, rhinitis |  |  |
-| Immune system disorders |  |  |  | anaphylactic reaction, hypersensitivity |  |
-| Endocrine disorders |  |  |  | hyperprolactinaemiaa |  |
-| Metabolism and nutrition disorders |  | weight increased, increased appetite | hyperglycaemia, decreased appetite |  |  |
-| Psychiatric disorders |  | agitation | nightmare, sleep disorder |  |  |
-| Nervous system disorders | headache | dystoniab, parkinsonismb, dysarthria, akathisia, dyskinesiab, extrapyramidal disorderb, tremorb, dizziness, sedation, somnolence | syncope, dizziness postural, lethargy | transient ischaemic attack, grand mal convulsion, convulsion, tardive dyskinesia | cerebrovascul ar accident, neuroleptic malignant syndrome |
-| Eye disorders |  | vision blurred |  |  |  |
-| Cardiac disorders |  | sinus tachycardia tachycardia | bundle branch block, atrioventricular block first degree, bradycardia, palpitations, electrocardiogram abnormal, sinus arrhythmia | bundle branch block left, electrocardiogram QT prolonged |  |
-| Vascular disorders |  | orthostatic hypotension | hypotension | ischaemia |  |
-| Respiratory, thoracic and mediastinal disorders |  | cough, pharyngolaryngeal pain, nasal congestion |  |  | pneumonia aspiration |
-| Gastrointestinal disorders |  | vomiting, abdominal discomfort/abdomin al pain upper, stomach discomfort, nausea, dyspepsia, dry mouth, constipation | flatulence | small intestinal obstruction | swollen tongue |
-| Skin and subcutaneous tissue disorders |  |  | rash, pruritus | angioedema, rash papular |  |
-| Musculoskeletal, connective tissue and bone disorders |  | arthralgia, back pain, pain in extremity | musculoskeletal pain, myalgia |  |  |
-| Renal and urinary disorders |  |  | urinary retention | urinary incontinence |  |
-|  | Frequency |  |  |  |  |
-|  | Very common | Common | Uncommon | Rare | Not Known |
-| Reproductive system and breast disorders |  |  | erectile dysfunction, galactorrhoea, amenorrhoea | gynaecomastia, breast discharge, menstruation irregular, breast engorgement, breast pain, breast tenderness, retrograde ejaculation | priapism |
-| General disorders |  | asthenia, fatigue | oedema peripheral | oedema |  |
-
-[INVEGA 9 mg prolonged-release tablets]
-
-| System Organ Class | Adverse Drug Reaction |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Frequency |  |  |  |  |
-|  | Very common | Common | Uncommon | Rare | Not Known |
-| Infections and infestations |  | upper respiratory tract infection, nasopharyngitis | urinary tract infection, rhinitis |  |  |
-| Immune system disorders |  |  |  | anaphylactic reaction, hypersensitivity |  |
-| Endocrine disorders |  |  |  | hyperprolactinaemiaa |  |
-| Metabolism and nutrition disorders |  | weight increased, increased appetite | hyperglycaemia, decreased appetite |  |  |
-| Psychiatric disorders |  | agitation | nightmare, sleep disorder |  |  |
-| Nervous system disorders | headache | dystoniab, parkinsonismb, dysarthria, akathisia, dyskinesiab, extrapyramidal disorderb, tremorb, dizziness, sedation, somnolence | syncope, dizziness postural, lethargy | transient ischaemic attack, grand mal convulsion, convulsion, tardive dyskinesia, | cerebrovascul ar accident, neuroleptic malignant syndrome |
-| Eye disorders |  | vision blurred |  |  |  |
-| Cardiac disorders |  | sinus tachycardia, tachycardia | bundle branch block, atrioventricular block first degree, bradycardia, palpitations, electrocardiogram abnormal, sinus arrhythmia | bundle branch block left, electrocardiogram QT prolonged |  |
-| Vascular disorders |  | orthostatic hypotension | hypotension | ischaemia |  |
-| Respiratory, thoracic and mediastinal disorders |  | cough, pharyngolaryngeal pain, nasal congestion |  |  | pneumonia aspiration |
-| Gastrointestinal disorders |  | vomiting, abdominal discomfort/abdomin al pain upper, stomach discomfort, nausea, dyspepsia, dry mouth, constipation | flatulence | small intestinal obstruction | swollen tongue |
-| Skin and subcutaneous tissue disorders |  |  | rash, pruritus | angioedema, rash papular |  |
-| Musculoskeletal, connective tissue and bone disorders |  | arthralgia, back pain, pain in extremity | musculoskeletal pain, myalgia |  |  |
-| Renal and urinary disorders |  |  | urinary retention | urinary incontinence |  |
-|  | Frequency |  |  |  |  |
-|  | Very common | Common | Uncommon | Rare | Not Known |
-| Reproductive system and breast disorders |  |  | erectile dysfunction, galactorrhoea, amenorrhoea | gynaecomastia, breast discharge, menstruation irregular, breast engorgement, breast pain, breast tenderness, retrograde ejaculation | priapism |
-| General disorders |  | asthenia, fatigue | oedema peripheral | oedema |  |
-
-[INVEGA 12 mg prolonged-release tablets]
-
-| System Organ Class | Adverse Drug Reaction |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | Frequency |  |  |  |  |
-|  | Very common | Common | Uncommon | Rare | Not Known |
-| Infections and infestations |  | upper respiratory tract infection, nasopharyngitis | urinary tract infection, rhinitis |  |  |
-| Immune system disorders |  |  |  | anaphylactic reaction, hypersensitivity |  |
-| Endocrine disorders |  |  |  | hyperprolactinaemiaa |  |
-| Metabolism and nutrition disorders |  | weight increased, increased appetite | hyperglycaemia, decreased appetite |  |  |
-| Psychiatric disorders |  | agitation | nightmare, sleep disorder |  |  |
-| Nervous system disorders | headache | dystoniab, parkinsonismb, dysarthria, akathisia, dyskinesiab, extrapyramidal disorderb, tremorb, dizziness, sedation, somnolence | syncope, dizziness postural, lethargy | transient ischaemic attack, grand mal convulsion, convulsion, tardive dyskinesia | cerebrovascul ar accident, neuroleptic malignant syndrome |
-| Eye disorders |  | vision blurred |  |  |  |
-| Cardiac disorders |  | sinus tachycardia, tachycardia | bundle branch block, atrioventricular block first degree, bradycardia, palpitations, electrocardiogram abnormal, sinus arrhythmia | bundle branch block left, electrocardiogram QT prolonged |  |
-| Vascular disorders |  | orthostatic hypotension | hypotension | ischaemia |  |
-| Respiratory, thoracic and mediastinal disorders |  | cough, pharyngolaryngeal pain, nasal congestion |  |  | pneumonia aspiration |
-| Gastrointestinal disorders |  | vomiting, abdominal discomfort/abdomin al pain upper, stomach discomfort, nausea, dyspepsia, dry mouth, constipation | flatulence | small intestinal obstruction | swollen tongue |
-| Skin and subcutaneous tissue disorders |  |  | rash, pruritus | angioedema, rash papular |  |
-| Musculoskeletal, connective tissue and bone disorders |  | arthralgia, back pain, pain in extremity | musculoskeletal pain, myalgia |  |  |
-| Renal and urinary disorders |  |  | urinary retention | urinary incontinence |  |
-|  | Frequency |  |  |  |  |
-|  | Very common | Common | Uncommon | Rare | Not Known |
-| Reproductive system and breast disorders |  |  | erectile dysfunction, galactorrhoea, amenorrhoea | gynaecomastia, breast discharge, menstruation irregular, breast engorgement, breast pain, breast tenderness, retrograde ejaculation | priapism |
-| General disorders |  | asthenia, fatigue | oedema peripheral | oedema |  |

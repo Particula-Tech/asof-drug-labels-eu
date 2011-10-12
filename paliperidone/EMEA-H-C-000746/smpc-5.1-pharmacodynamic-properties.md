@@ -9,10 +9,10 @@ Paliperidone is a selective blocking agent of monoamine effects, whose pharmacol
 Paliperidone binds strongly to serotonergic 5-HT2-and dopaminergic D2-receptors.
 Paliperidone also blocks alfa1-adrenergic receptors and blocks, to a lesser extent, H1-histaminergic and alfa2-adrenergic receptors.
 The pharmacological activity of the (+)- and (-)-paliperidone enantiomers are qualitatively and quantitatively similar.
-
 Paliperidone is not bound to cholinergic receptors.
 Even though paliperidone is a strong D2-antagonist, which is believed to relieve the positive symptoms of schizophrenia, it causes less catalepsy and decreases motor functions to a lesser extent than traditional neuroleptics.
 Dominating central serotonin antagonism may reduce the tendency of paliperidone to cause extrapyramidal side effects.
+
 Pharmacodynamic Effects
 
 Clinical Efficacy
@@ -98,19 +98,3 @@ LOCF = last observation carried forward.
 Paediatric population
 The European Medicines Agency has waived the obligation to submit the results of studies with INVEGA in all subsets of the paediatric population in the treatment of schizoaffective disorders.
 See 4.2 for information on paediatric use.
-
-[INVEGA 3 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 6 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 9 mg prolonged-release tablets]
-
-(all sentences already above)
-
-[INVEGA 12 mg prolonged-release tablets]
-
-The PANSS is a validated multi-item inventory composed of five factors to evaluate positive symptoms, negative symptoms, disorganized thoughts, uncontrolled hostility/excitement, and anxiety/depression.All tested doses of INVEGA separated from placebo on day 4 (p<0.05).
