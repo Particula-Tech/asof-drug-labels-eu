@@ -8,6 +8,7 @@ The absolute bioavailability of ustekinumab following a single subcutaneous admi
 
 Distribution
 Median volume of distribution during the terminal phase (Vz) following a single intravenous administration to patients with psoriasis ranged from 57 to 83 ml/kg.
+
 Metabolism
 The exact metabolic pathway for ustekinumab is unknown.
 
@@ -37,9 +38,4 @@ Special populations
 No pharmacokinetic data are available in patients with impaired renal or hepatic function.
 No specific studies have been conducted in elderly patients.
 
-The pharmacokinetics of ustekinumab were generally comparable between Asian and non-Asian patients with psoriasis.
-
 In the population pharmacokinetic analysis, there were no indications of an effect of tobacco or alcohol on the pharmacokinetics of ustekinumab.
-
-Regulation of CYP450 enzymes
-The effects of IL-12 or IL-23 on the regulation of CYP450 enzymes were evaluated in an in vitro study using human hepatocytes, which showed that IL-12 and/or IL-23 at levels of 10 ng/mL did not alter human CYP450 enzyme activities (CYP1A2, 2B6, 2C9, 2C19, 2D6, or 3A4; see section 4.5).

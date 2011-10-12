@@ -33,10 +33,10 @@ All patients were followed for up to 52 weeks following first administration of 
 
 Psoriasis Study 3 (ACCEPT) evaluated 903 patients with moderate to severe psoriasis who inadequately responded to, were intolerant to, or had a contraindication to other systemic therapy and compared the efficacy of ustekinumab to etanercept and evaluated the safety of ustekinumab and etanercept.
 During the 12-week active-controlled portion of the study, patients were randomised to receive etanercept (50 mg twice a week), ustekinumab 45 mg at Weeks 0 and 4, or ustekinumab 90 mg at Weeks 0 and 4.
+
 Baseline disease characteristics were generally consistent across all treatment groups in Psoriasis Studies 1 and 2 with a median baseline PASI score from 17 to 18, median baseline Body Surface Area (BSA) ≥20, and median Dermatology Life Quality Index (DLQI) range from 10 to 12.
 Approximately one third (Psoriasis Study 1) and one quarter (Psoriasis Study 2) of subjects had Psoriatic Arthritis (PsA).
 Similar disease severity was also seen in Psoriasis Study 3.
-
 The primary endpoint in these studies was the proportion of patients who achieved PASI 75 response from baseline at Week 12 (see Tables 2 and 3).
 
 Table 2 Summary of clinical response in Psoriasis Study 1 (PHOENIX 1) and Psoriasis Study 2 (PHOENIX 2)
@@ -71,11 +71,13 @@ b PGA = Physician Global Assessment
 Table 3 Summary of clinical response at Week 12 in Psoriasis Study 3 (ACCEPT)
 
 Psoriasis Study 3
+Etanercept Ustekinumab
+24 doses 2 doses (Week 0 and Week 4)
+(50 mg twice a 45 mg 90 mg
+week)
 
-|  | Etanercept 24 doses (50 mg twice a week) | Ustekinumab 2 doses (Week 0 and Week 4) |  |
-| --- | --- | --- | --- |
-|  |  | 45 mg | 90 mg |
 | Number of patients randomised | 347 | 209 | 347 |
+| --- | --- | --- | --- |
 | PASI 50 response N (%) | 286 (82%) | 181 (87%) | 320 (92%)a |
 | PASI 75 response N (%) | 197 (57%) | 141 (67%)b | 256 (74%)a |
 | PASI 90 response N (%) | 80 (23%) | 76 (36%)a | 155 (45%)a |
