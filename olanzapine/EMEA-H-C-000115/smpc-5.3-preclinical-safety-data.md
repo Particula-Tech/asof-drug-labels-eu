@@ -6,12 +6,12 @@ The median lethal doses were approximately 210 mg/kg (mice) and 175 mg/kg (rats)
 Dogs tolerated single oral doses up to 100 mg/kg without mortality.
 Clinical signs included sedation, ataxia, tremors, increased heart rate, labored respiration, miosis, and anorexia.
 In monkeys, single oral doses up to 100 mg/kg resulted in prostration and, at higher doses, semi-consciousness.
-
 Repeated-dose toxicity
 In studies up to 3 months duration in mice and up to 1 year in rats and dogs, the predominant effects were CNS depression, anticholinergic effects, and peripheral haematological disorders.
 Tolerance developed to the CNS depression.
 Growth parameters were decreased at high doses.
 Reversible effects consistent with elevated prolactin in rats included decreased weights of ovaries and uterus and morphologic changes in vaginal epithelium and in mammary gland.
+
 Haematologic toxicity
 Effects on haematology parameters were found in each species, including dose-related reductions in circulating leukocytes in mice and non-specific reductions of circulating leukocytes in rats; however, no evidence of bone marrow cytotoxicity was found.
 Reversible neutropenia, thrombocytopenia, or anemia developed in a few dogs treated with 8 or 10 mg/kg/day (total olanzapine exposure [AUC] is 12- to 15-fold greater than that of a man given a 12-mg dose).

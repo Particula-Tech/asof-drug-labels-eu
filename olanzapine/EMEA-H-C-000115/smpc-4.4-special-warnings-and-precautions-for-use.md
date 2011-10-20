@@ -32,8 +32,7 @@ If a patient develops signs and symptoms indicative of NMS, or presents with une
 Hyperglycaemia and diabetes
 Hyperglycaemia and/or development or exacerbation of diabetes occasionally associated with ketoacidosis or coma has been reported rarely, including some fatal cases (see section 4.8).
 In some cases, a prior increase in body weight has been reported which may be a predisposing factor.
-Appropriate clinical monitoring is advisable in accordance with utilised antipsychotic guidelines.
-Patients treated with any antipsychotic agents, including ZYPREXA, should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia, and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control.
+Appropriate clinical monitoring is advisable in accordance with utilised antipsychotic guidelines...Patients treated with any antipsychotic agents, including ZYPREXA, should be observed for signs and symptoms of hyperglycaemia (such as polydipsia, polyuria, polyphagia, and weakness) and patients with diabetes mellitus or with risk factors for diabetes mellitus should be monitored regularly for worsening of glucose control.
 Weight should be monitored regularly.
 
 Lipid alterations

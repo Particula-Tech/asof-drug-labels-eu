@@ -15,8 +15,7 @@ The frequency terms listed are defined as follows: Very common (≥10%), common 
 | Immune system disorders |  |  |  |
 |  |  |  | Allergic reaction |
 | Metabolism and nutrition disorders |  |  |  |
-| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 |  | Development or exacerbation of diabetes occasionally associated with |
-|  | Elevated triglyceride levels2,5 Glucosuria Increased appetite |  | ketoacidosis or coma, including some fatal cases (see section 4.4) Hypothermia |
+| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 Elevated triglyceride levels2,5 Glucosuria Increased appetite |  | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) Hypothermia |
 | Nervous system disorders |  |  |  |
 | Somnolence | Dizziness Akathisia6 Parkinsonism6 Dyskinesia6 |  | Seizures where in most cases a history of seizures or risk factors for seizures were reported Neuroleptic malignant syndrome (see section 4.4) Dystonia (including oculogyration) Tardive dyskinesia Discontinuation symptoms7 |
 | Cardiac disorders |  |  |  |
@@ -33,11 +32,16 @@ The frequency terms listed are defined as follows: Very common (≥10%), common 
 |  |  |  | Rhabdomyolysis |
 | Renal and urinary disorders |  |  |  |
 |  |  | Urinary incontinence | Urinary hesitation |
-| Reproductive system and breast disorders |  |  |  |
-|  |  |  | Priapism |
-| General disorders and administration site conditions |  |  |  |
-|  | Asthenia Fatigue Oedema |  |  |
+| Pregnancy, puerperium and perinatal conditions |  |  |  |
+|  |  |  | Drug withdrawal syndrome neonatal (see |
 
+section 4.6)
+Reproductive system and breast disorders
+Priapism
+General disorders and administration site conditions
+Asthenia
+Fatigue
+Oedema
 Investigations
 Elevated plasma High creatine Increased alkaline
 prolactin levels8 phosphokinase phosphatase
@@ -76,11 +80,11 @@ Potentially associated sexual function-related adverse reactions (e.g. erectile 
 Long-term exposure (at least 48 weeks)
 The proportion of patients who had adverse, clinically significant changes in weight gain, glucose, total/LDL/HDL cholesterol or triglycerides increased over time.
 In adult patients who completed 9-12 months of therapy, the rate of increase in mean blood glucose slowed after approximately 6 months.
-
 Additional information on special populations
 In clinical trials in elderly patients with dementia, olanzapine treatment was associated with a higher incidence of death and cerebrovascular adverse reactions compared to placebo (see also section 4.4).
 Very common adverse reactions associated with the use of olanzapine in this patient group were abnormal gait and falls.
 Pneumonia, increased body temperature, lethargy, erythema, visual hallucinations and urinary incontinence were observed commonly.
+
 In clinical trials in patients with drug-induced (dopamine agonist) psychosis associated with Parkinson’s disease, worsening of Parkinsonian symptomatology and hallucinations were reported very commonly and more frequently than with placebo.
 
 In one clinical trial in patients with bipolar mania, valproate combination therapy with olanzapine resulted in an incidence of neutropenia of 4.1%; a potential contributing factor could be high plasma valproate levels.
@@ -95,7 +99,7 @@ Olanzapine is not indicated for the treatment of children and adolescent patient
 Although no clinical studies designed to compare adolescents to adults have been conducted, data from the adolescent trials were compared to those of the adult trials.
 
 The following table summarises the adverse reactions reported with a greater frequency in adolescent patients (aged 13-17 years) than in adult patients or adverse reactions only identified during short-term clinical trials in adolescent patients.
-Clinically significant weight gain (≥ 7%) appears to occur more frequently in the adolescent population compared to adults with comparable exposures.
+Clinically significant weight gain ( ≥ 7%) appears to occur more frequently in the adolescent population compared to adults with comparable exposures.
 The magnitude of weight gain and the proportion of adolescent patients who had clinically significant weight gain were greater with long-term exposure (at least 24 weeks) than with short-term exposure.
 
 Within each frequency grouping, adverse reactions are presented in order of decreasing seriousness.
@@ -116,7 +120,6 @@ Very common: Decreased total bilirubin, increased GGT, elevated plasma prolactin
 
 9 Following short term treatment (median duration 22 days), weight gain ≥ 7 % of baseline body weight (kg) was very common (40.6 %), ≥ 15 % of baseline body weight was common (7.1 %) and ≥ 25 % was common (2.5 %).
 With long-term exposure (at least 24 weeks), 89.4 % gained ≥ 7 %, 55.3 % gained ≥ 15 % and 29.1 % gained ≥ 25% of their baseline body weight.
-
 10 Observed for fasting normal levels at baseline (< 1.016 mmol/l) which increased to high
 (≥ 1.467 mmol/l) and changes in fasting triglycerides from borderline at baseline (≥ 1.016 mmol/l -
 < 1.467 mmol/l) to high (≥ 1.467 mmol/l).
@@ -136,8 +139,7 @@ Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.3
 | Immune system disorders |  |  |  |
 |  |  |  | Allergic reaction |
 | Metabolism and nutrition disorders |  |  |  |
-| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 |  | Development or exacerbation of diabetes occasionally associated with |
-|  | Elevated triglyceride levels2,5 Glucosuria Increased appetite |  | ketoacidosis or coma, including some fatal cases (see section 4.4) Hypothermia |
+| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 Elevated triglyceride levels2,5 Glucosuria Increased appetite |  | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) Hypothermia |
 | Nervous system disorders |  |  |  |
 | Somnolence | Dizziness Akathisia6 Parkinsonism6 Dyskinesia6 |  | Seizures where in most cases a history of seizures or risk factors for seizures were reported Neuroleptic malignant syndrome (see section 4.4) Dystonia (including oculogyration) Tardive dyskinesia Discontinuation symptoms7 |
 | Cardiac disorders |  |  |  |
@@ -154,15 +156,14 @@ Changes in total fasting cholesterol levels from borderline at baseline (≥ 4.3
 |  |  |  | Rhabdomyolysis |
 | Renal and urinary disorders |  |  |  |
 |  |  | Urinary incontinence | Urinary hesitation |
-| Reproductive system and breast disorders |  |  |  |
-|  |  |  | Priapism |
-| General disorders and administration site conditions |  |  |  |
-|  | Asthenia Fatigue |  |  |
-|  | Oedema |  |  |
-| Investigations |  |  |  |
-| Elevated plasma prolactin levels8 |  | High creatine phosphokinase Increased total bilirubin | Increased alkaline phosphatase |
+| Pregnancy, puerperium and perinatal conditions |  |  |  |
+|  |  |  | Drug withdrawal |
+
+syndrome neonatal (see
 
 Following short term treatment (median duration 47 days), weight gain ≥ 7% of baseline body weight was very common (22.2%), ≥ 15 % was common (4.2 %) and ≥ 25 % was uncommon (0.8 %)..
+
+Changes in total fasting cholesterol levels from borderline at baseline ( ≥ 5.17- < 6.2 mmol/l) to high (≥ 6.2 mmol/l) were very common.
 
 (≥ 10%) of tremor, dry mouth, increased appetite, and weight gain.
 Long-term olanzapine treatment (up to 12 months) for recurrence prevention in patients with bipolar disorder was associated with an increase of ≥ 7% from baseline body weight in 39.9% of patients.
@@ -205,7 +206,6 @@ Vascular Disorders
 Common (1-10%): Postural hypotension, hypotension.
 Respiratory disorders
 Uncommon (0.1-1%): Hypoventilation.
-General disorders and administration site conditions
 Common (1-10%): Injection site discomfort.
 
 The undesirable effects listed below have been observed following administration of oral olanzapine, but may also occur following administration of ZYPREXA powder for solution for injection.
@@ -219,7 +219,8 @@ The frequency terms listed are defined as follows: Very common (≥ 10%), common
 | Immune system disorders |  |  |  |
 |  |  |  | Allergic reaction |
 | Metabolism and nutrition disorders |  |  |  |
-| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 Elevated triglyceride levels2,5 Glucosuria Increased appetite |  | Development or exacerbation of diabetes occasionally associated with ketoacidosis or coma, including some fatal cases (see section 4.4) Hypothermia |
+| Weight gain1 | Elevated cholesterol levels2,3 Elevated glucose levels4 |  | Development or exacerbation of diabetes occasionally associated with |
+|  | Elevated triglyceride levels2,5 Glucosuria Increased appetite |  | ketoacidosis or coma, including some fatal cases (see section 4.4) Hypothermia |
 | Nervous system disorders |  |  |  |
 | Somnolence | Dizziness Akathisia6 Parkinsonism6 Dyskinesia6 |  | Seizures where in most cases a history of seizures or risk factors for seizures were reported Neuroleptic malignant syndrome (see section 4.4) Dystonia (including oculogyration) Tardive dyskinesia Discontinuation symptoms7 |
 | Cardiac disorders |  |  |  |
@@ -236,9 +237,6 @@ The frequency terms listed are defined as follows: Very common (≥ 10%), common
 |  |  |  | Rhabdomyolysis |
 | Renal and urinary disorders |  |  |  |
 |  |  | Urinary incontinence | Urinary hesitation |
+| Pregnancy, puerperium and perinatal conditions |  |  |  |
+|  |  |  | Drug withdrawal syndrome neonatal (see section 4.6) |
 | Reproductive system and breast disorders |  |  |  |
-|  |  |  | Priapism |
-| General disorders and administration site conditions |  |  |  |
-|  | Asthenia Fatigue Oedema |  |  |
-| Investigations |  |  |  |
-| Elevated plasma prolactin levels8 |  | High creatine phosphokinase | Increased alkaline phosphatase |

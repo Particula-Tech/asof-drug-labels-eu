@@ -5,7 +5,9 @@ There are no adequate and well-controlled studies in pregnant women.
 Patients should be advised to notify their physician if they become pregnant or intend to become pregnant during treatment with olanzapine.
 Nevertheless, because human experience is limited, olanzapine should be used in pregnancy only if the potential benefit justifies the potential risk to the foetus.
 
-Spontaneous reports have been very rarely received on tremor, hypertonia, lethargy and sleepiness, in infants born to mothers who had used olanzapine during the 3rd trimester.
+Neonates exposed to antipsychotics (including olanzapine) during the third trimester of pregnancy are at risk of adverse reactions including extrapyramidal and/or withdrawal symptoms that may vary in severity and duration following delivery.
+There have been reports of agitation, hypertonia, hypotonia, tremor, somnolence, respiratory distress, or feeding disorder.
+Consequently, newborns should be monitored carefully.
 
 Breast feeding
 In a study in breast feeding, healthy women, olanzapine was excreted in breast milk.
