@@ -23,7 +23,6 @@ During the study, low-dose folic acid and vitamin B12 supplementation was introd
 The primary analysis of this study was performed on the population of all patients randomly assigned to a treatment arm who received study drug (randomised and treated).
 A subgroup analysis was performed on patients who received folic acid and vitamin B12 supplementation during the entire course of study therapy (fully supplemented).
 The results of these analyses of efficacy are summarised in the table below:
-
 Efficacy of ALIMTA plus cisplatin vs. cisplatin in malignant pleural mesothelioma
 
 |  | Randomized and treated patients |  | Fully supplemented patients |  |
@@ -61,15 +60,14 @@ There were no clinically relevant differences observed for the safety profile of
 
 Limited clinical data from a separate randomized, Phase 3, controlled trial, suggest that efficacy data (overall survival, progression free survival) for pemetrexed are similar between patients previously pre treated with docetaxel (n = 41) and patients who did not receive previous docetaxel treatment
 (n = 540).
-
 Efficacy of ALIMTA vs docetaxel in NSCLC - ITT population
 
 |  | ALIMTA | Docetaxel |
 | --- | --- | --- |
-| Survival Time (months) � Median (m) � 95 % CI for median � HR � 95 % CI for HR � Non-inferiority p-value (HR) | (n = 283) (n = 288) 8.3 7.9 (7.0 - 9.4) (6.3 - 9.2) 0.99 (.82 - 1.20) .226 |  |
-| Progression free survival (months) � Median � HR (95 % CI) | (n = 283) (n = 288) 2.9 2.9 0.97 (.82 – 1.16) |  |
-| Time to treatment failure (TTTF – months) � Median � HR (95 % CI) | (n = 283) (n = 288) 2.3 2.1 0.84 (.71 - .997) |  |
-| Response (n: qualified for response) � Response rate (%) (95 % CI) � Stable disease (%) | (n = 264) 9.1 (5.9 - 13.2) 45.8 | (n = 274) 8.8 (5.7 - 12.8) 46.4 |
+| Survival Time (months) ▪ Median (m) ▪ 95 % CI for median ▪ HR ▪ 95 % CI for HR ▪ Non-inferiority p-value (HR) | (n = 283) (n = 288) 8.3 7.9 (7.0 - 9.4) (6.3 - 9.2) 0.99 (.82 - 1.20) .226 |  |
+| Progression free survival (months) ▪ Median ▪ HR (95 % CI) | (n = 283) (n = 288) 2.9 2.9 0.97 (.82 – 1.16) |  |
+| Time to treatment failure (TTTF – months) ▪ Median ▪ HR (95 % CI) | (n = 283) (n = 288) 2.3 2.1 0.84 (.71 - .997) |  |
+| Response (n: qualified for response) ▪ Response rate (%) (95 % CI) ▪ Stable disease (%) | (n = 264) 9.1 (5.9 - 13.2) 45.8 | (n = 274) 8.8 (5.7 - 12.8) 46.4 |
 
 Abbreviations: CI = confidence interval; HR = hazard ratio; ITT = intent to treat; n = total population size.
 
@@ -84,20 +82,23 @@ Progression free survival (PFS) and overall response rate were similar between t
 (95% CI = 27.3-33.9) for ALIMTA plus cisplatin versus 28.2% (95% CI = 25.0-31.4) for gemcitabine plus cisplatin.
 PFS data were partially confirmed by an independent review (400/1725 patients were randomly selected for review).
 The analysis of the impact of NSCLC histology on overall survival demonstrated clinically relevant differences in survival according to histology, see table below.
-
 Efficacy of ALIMTA + cisplatin vs. gemcitabine + cisplatin in first-line non-small cell lung cancer – ITT population and histology subgroups.
 
-| ITT population and histology subgroups | Median overall survival in months (95% CI) |  |  |  | Adjusted hazard tatio (HR) (95% CI) | Superiority p-value |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | ALIMTA + cisplatin |  | Gemcitabine + cisplatin |  |  |  |
-| ITT population (N = 1725) | 10.3 (9.8 – 11.2) | N=862 | 10.3 (9.6 – 10.9) | N=863 | 0.94a (0.84 – 1.05) | 0.259 |
-| Adenocarcinoma (N=847) | 12.6 (10.7 – 13.6) | N=436 | 10.9 (10.2 – 11.9) | N=411 | 0.84 (0.71–0.99) | 0.033 |
-| Large cell (N=153) | 10.4 (8.6 – 14.1) | N=76 | 6.7 (5.5 – 9.0) | N=77 | 0.67 (0.48–0.96) | 0.027 |
-| Other (N=252) | 8.6 (6.8 – 10.2) | N=106 | 9.2 (8.1 – 10.6) | N=146 | 1.08 (0.81–1.45) | 0.586 |
-| Squamous cell (N=473) | 9.4 (8.4 – 10.2) | N=244 | 10.8 (9.5 – 12.1) | N=229 | 1.23 (1.00–1.51) | 0.050 |
+ITT population and histology subgroups ALIMTA + cisplatin Median overall survival in months (95% CI) Gemcitabine + cisplatin hazard tatio (95% CI) Adjusted (HR) Superiority p-value
+ITT population 10.3 N=862 10.3 N=863 0.94a 0.259
+(N = 1725) (9.8 – 11.2) (9.6 – 10.9) (0.84 – 1.05)
+Adenocarcinoma 12.6 N=436 10.9 N=411 0.84 0.033
+(N=847) (10.7 – 13.6) (10.2 – 11.9) (0.71–0.99)
+Large cell 10.4 N=76 6.7 N=77 0.67 0.027
+(N=153) (8.6 – 14.1) (5.5 – 9.0) (0.48–0.96)
+Other 8.6 N=106 9.2 N=146 1.08 0.586
+(N=252) (6.8 – 10.2) (8.1 – 10.6) (0.81–1.45)
+Squamous cell 9.4 N=244 10.8 N=229 1.23 0.050
+(N=473) (8.4 – 10.2) (9.5 – 12.1) (1.00–1.51)
 
 Abbreviations: CI = confidence interval; ITT = intent-to-treat; N = total population size.
 a Statistically significant for noninferiority, with the entire confidence interval for HR well below the 1.17645 noninferiority margin (p <0.001).
+
 Kaplan Meier plots of overall survival by histology
 
 1.0 Adenocarcinoma 1.0 Large Cell Carcinoma
@@ -122,9 +123,9 @@ Survival Time (months) Survival Time (months)
 There were no clinically relevant differences observed for the safety profile of ALIMTA plus cisplatin within the histology subgroups.
 Patients treated with ALIMTA and cisplatin required fewer transfusions (16.4% versus 28.9%, p<0.001), red blood cell transfusions (16.1% versus 27.3%, p<0.001) and platelet transfusions (1.8% versus 4.5%, p=0.002).
 Patients also required lower administration of erythropoietin/darbopoietin (10.4% versus 18.1%, p<0.001), G-CSF/GM-CSF (3.1% versus 6.1%, p=0.004), and iron preparations (4.3% versus 7.0%, p=0.021).
-
 NSCLC, maintenance treatment:
 
+JMEN
 A multicentre, randomised, double-blind, placebo-controlled Phase 3 study (JMEN), compared the efficacy and safety of maintenance treatment with ALIMTA plus best supportive care (BSC) (n = 441) with that of placebo plus BSC (n = 222) in patients with locally advanced (Stage IIIB) or metastatic (Stage IV) Non Small Cell Lung Cancer (NSCLC) who did not progress after 4 cycles of first line doublet therapy containing Cisplatin or Carboplatin in combination with Gemcitabine, Paclitaxel, or Docetaxel.
 First line doublet therapy containing ALIMTA was not included.
 All patients included in this study had an ECOG performance status 0 or 1.
@@ -148,14 +149,12 @@ The PFS and OS results in patients with squamous cell histology suggested no adv
 
 There were no clinically relevant differences observed for the safety profile of ALIMTA within the histology subgroups.
 
-Kaplan meier plots of progression-free survival (PFS) and overall survival ALIMTA versus placebo in patients with NSCLC other than predominantly squamous cell histology:
+JMEN:Kaplan Meier plots of progression-free survival (PFS) and overall survival ALIMTA versus placebo in patients with NSCLC other than predominantly squamous cell histology:
 
 Progression-Free Survival Overall Survival
 1.0 1.0
-Pemetrexed
-0.9 Pemetrexed 0.9
-Placebo
-0.8 Placebo 0.8
+0.9 Pemetrexed 0.9 Pemetrexed
+0.8 Placebo 0.8 Placebo
 0.7 0.7
 0.6 0.6
 0.5 0.5
@@ -167,6 +166,44 @@ Placebo
 0 6 12 18 0 6 12 18 24 30 36 42
 PFS Time (months) Survival Time (months)
 
+PARAMOUNT
+A multicentre, randomised, double-blind, placebo-controlled Phase 3 study (PARAMOUNT), compared the efficacy and safety of continuation maintenance treatment with ALIMTA plus BSC
+(n = 359) with that of placebo plus BSC (n = 180) in patients with locally advanced (Stage IIIB) or metastatic (Stage IV) NSCLC other than predominantly squamous cell histology who did not progress after 4 cycles of first line doublet therapy of ALIMTA in combination with cisplatin.
+Of the 939 patients treated with ALIMTA plus cisplatin induction, 539 patients were randomised to maintenance treatment with pemetrexed or placebo.
+Of randomised patients, 44.9% had a complete/partial response and 51.9% had a response of stable disease to ALIMTA plus cisplatin induction.
+Patients randomised to maintenance treatment were required to have an ECOG performance status 0 or 1.
+The median time from the start of ALIMTA plus cisplatin induction therapy to the start of maintenance treatment was 2.96 months on both the pemetrexed arm and the placebo arm.
+Randomised patients received maintenance treatment until disease progression.
+Efficacy and safety were measured from the time of randomisation after completion of first line (induction) therapy.
+Patients received a median of 4 cycles of maintenance treatment with ALIMTA and 4 cycles of placebo.
+A total of 109 patients (30.4%) completed ≥ 6 cycles maintenance treatment with ALIMTA, representing at least 10 total cycles of ALIMTA.
+
+The study met its primary endpoint and showed a statistically significant improvement in PFS in the ALIMTA arm over the placebo arm (n = 472, independently reviewed population; median of 3.9 months and 2.6 months, respectively) (hazard ratio = 0.64, 95% CI = 0.51-0.81, p = 0.0002).
+The independent review of patient scans confirmed the findings of the investigator assessment of PFS.
+For randomised patients, as measured from the start of ALIMTA plus cisplatin first line induction treatment, the median investigator-assessed PFS was 6.9 months for the ALIMTA arm and 5.59 months for the placebo arm (hazard ratio = 0.59 95% CI = 0.47-0.74).
+A preliminary survival analysis showed that the median survival on the ALIMTA continuation arm after induction therapy with ALIMTA/cisplatin (4 cycles) was 13.9 months versus 11.1 months for those on the placebo arm (hazard ratio = 0.78, 95% CI = 0.61-0.98, p = 0.034).
+At the time of this preliminary survival analysis, 48% of patients were alive on the ALIMTA arm versus 38% on the placebo arm, with a median follow-up of 11.04 months.
+
+PARAMOUNT:Kaplan Meier plot of progression-free survival (PFS) for continuation ALIMTA maintenance versus placebo in patients with NSCLC other than predominantly squamous cell histology (independent review, measured from randomisation)
+
+1.0
+0.9
+0.8 _ _ _ Pemetrexed
+0.7 Placebo
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+
+0 3 6 9 12 15
+
+PFS Time (Months)Time (Months)
+
+The ALIMTA maintenance safety profiles from the two studies JMEN and PARAMOUNT were similar.
+
 [ALIMTA 500 mg powder for concentrate for solution for infusion]
 
 |  | Randomized and treated patients |  | Fully supplemented Patients |  |
@@ -174,8 +211,7 @@ PFS Time (months) Survival Time (months)
 | Efficacy parameter | ALIMTA/ cisplatin (N = 226) | Cisplatin (N = 222) | ALIMTA/ cisplatin (N = 168) | Cisplatin (N = 163) |
 | Median overall survival (months) (95 % CI) | 12.1 (10.0 - 14.4) | 9.3 (7.8 - 10.7) | 13.3 (11.4 - 14.9) | 10.0 (8.4 - 11.9) |
 | Log Rank p-value* | 0.020 |  | 0.051 |  |
-| Median time to tumour progression (months) | 5.7 | 3.9 | 6.1 | 3.9 |
-| (95 % CI) | (4.9 – 6.5) | (2.8 - 4.4) | (5.3 - 7.0) | (2.8 - 4.5) |
+| Median time to tumour progression (months) (95 % CI) | 5.7 (4.9 – 6.5) | 3.9 (2.8 - 4.4) | 6.1 (5.3 - 7.0) | 3.9 (2.8 - 4.5) |
 | Log Rank p-value* | 0.001 |  | 0.008 |  |
 | Time to treatment failure (months) (95 % CI) | 4.5 (3.9 – 4.9) | 2.7 (2.1 - 2.9) | 4.7 (4.3 - 5.6) | 2.7 (2.2 - 3.1) |
 | Log Rank p-value* | 0.001 |  | 0.001 |  |
@@ -185,24 +221,8 @@ PFS Time (months) Survival Time (months)
 ** In the ALIMTA/cisplatin arm, randomized and treated (N = 225) and fully supplemented
 (N = 167)
 
-|  | ALIMTA | Docetaxel |
-| --- | --- | --- |
-| Survival Time (months) � Median (m) � 95 % CI for median � HR � 95 % CI for HR � Non-inferiority p-value (HR) | (n = 283) (n = 288) 8.3 7.9 (7.0 - 9.4) (6.3 - 9.2) 0.99 (.82 - 1.20) .226 |  |
-| Progression free survival (months) � Median � HR (95 % CI) | (n = 283) (n = 288) 2.9 2.9 0.97 (.82 – 1.16) |  |
-| Time to treatment failure (TTTF – months) � Median | (n = 283) (n = 288) 2.3 2.1 |  |
-
-� HR (95 % CI) 0.84 (.71 - .997)
-Response (n: qualified for response) (n = 264) (n = 274)
-� Response rate (%) (95 % CI) 9.1 (5.9 - 13.2) 8.8 (5.7 - 12.8)
-� Stable disease (%) 45.8 46.4
-
 Efficacy of ALIMTA + cisplatin vs. femcitabine + cisplatin in first-line non-small cell lung cancer – ITT population and histology subgroups.
 
-| ITT population and histology subgroups | Median overall survival in months (95% CI) |  |  |  | Adjusted hazard ratio (HR) (95% CI) | Superiority p-value |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | ALIMTA + cisplatin |  | Gemcitabine + cisplatin |  |  |  |
-| ITT population (N = 1725) | 10.3 (9.8 – 11.2) | N=862 | 10.3 (9.6 – 10.9) | N=863 | 0.94a (0.84 – 1.05) | 0.259 |
-| Adenocarcinoma (N=847) | 12.6 (10.7 – 13.6) | N=436 | 10.9 (10.2 – 11.9) | N=411 | 0.84 (0.71–0.99) | 0.033 |
-| Large cell (N=153) | 10.4 (8.6 – 14.1) | N=76 | 6.7 (5.5 – 9.0) | N=77 | 0.67 (0.48–0.96) | 0.027 |
-| Other (N=252) | 8.6 (6.8 – 10.2) | N=106 | 9.2 (8.1 – 10.6) | N=146 | 1.08 (0.81–1.45) | 0.586 |
-| Squamous cell (N=473) | 9.4 (8.4 – 10.2) | N=244 | 10.8 (9.5 – 12.1) | N=229 | 1.23 (1.00–1.51) | 0.050 |
+ITT population and histology subgroups ALIMTA + cisplatin Median overall survival in months (95% CI) Gemcitabine + cisplatin ratio (HR) (95% CI) Adjusted hazard Superiority p-value
+
+JMEN: Kaplan Meier plots of progression-free survival (PFS) and overall survival ALIMTA versus placebo in patients with NSCLC other than predominantly squamous cell histology:

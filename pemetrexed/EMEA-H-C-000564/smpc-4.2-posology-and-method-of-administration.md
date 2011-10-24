@@ -80,8 +80,8 @@ There are insufficient data on the use of pemetrexed in patients with creatinine
 
 Patients with hepatic impairment: No relationships between AST (SGOT), ALT (SGPT), or total bilirubin and pemetrexed pharmacokinetics were identified.
 However patients with hepatic impairment such as bilirubin > 1.5 times the upper limit of normal and/or transaminase > 3.0 times the upper limit of normal (hepatic metastases absent) or > 5.0 times the upper limit of normal (hepatic metastases present) have not been specifically studied.
-
 Method of administration:
+
 For Precautions to be taken before handling or administering ALIMTA, see section 6.6.
 
 ALIMTA should be administered as an intravenous infusion over 10 minutes on the first day of each 21-day cycle.

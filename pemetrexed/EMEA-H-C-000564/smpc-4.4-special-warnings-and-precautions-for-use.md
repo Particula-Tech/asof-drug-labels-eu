@@ -23,6 +23,7 @@ Many of the patients in whom these occurred had underlying risk factors for the 
 The effect of third space fluid, such as pleural effusion or ascites, on pemetrexed is not fully defined.
 A phase 2 study of pemetrexed in 31 solid tumour patients with stable third space fluid demonstrated no difference in pemetrexed dose normalized plasma concentrations or clearance compared to patients without third space fluid collections.
 Thus, drainage of third space fluid collection prior to pemetrexed treatment should be considered, but may not be necessary.
+
 Due to the gastrointestinal toxicity of pemetrexed given in combination with cisplatin, severe dehydration has been observed.
 Therefore, patients should receive adequate antiemetic treatment and appropriate hydration prior to and/or after receiving treatment.
 
