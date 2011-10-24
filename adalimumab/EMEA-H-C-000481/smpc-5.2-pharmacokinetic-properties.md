@@ -9,7 +9,6 @@ The average absolute bioavailability of adalimumab estimated from three studies 
 After single intravenous doses ranging from 0.25 to 10 mg/kg, concentrations were dose proportional.
 After doses of 0.5 mg/kg (~40 mg), clearances ranged from 11 to 15 ml/hour, the distribution volume (Vss) ranged from 5 to 6 litres and the mean terminal phase half-life was approximately two weeks.
 Adalimumab concentrations in the synovial fluid from several rheumatoid arthritis patients ranged from 31-96% of those in serum.
-
 Following subcutaneous administration of 40 mg of Humira every other week in adult rheumatoid arthritis (RA) patients the mean steady-state trough concentrations were approximately 5 μg/ml (without concomitant methotrexate) and 8 to 9 μg/ml (with concomitant methotrexate), respectively.
 The serum adalimumab trough levels at steady-state increased roughly proportionally with dose following 20, 40 and 80 mg subcutaneous dosing every other week and every week.
 

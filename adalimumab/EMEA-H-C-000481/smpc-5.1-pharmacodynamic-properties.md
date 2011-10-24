@@ -30,6 +30,7 @@ Patients who were in the non-MTX stratum were either naïve to or had been withd
 Patients remained on stable doses of NSAIDs and or prednisone (≤ 0.2 mg /kg/day or 10 mg/day maximum).
 In the OL LI phase all patients received 24 mg/m2 up to a maximum of 40 mg Humira every other week for 16 weeks.
 The distribution of patients by age and minimum, median and maximum dose received during the OL LI phase is presented in Table 4
+
 Table 4
 Distribution of patients by age and adalimumab dose received during the OL LI phase
 
@@ -42,7 +43,6 @@ Distribution of patients by age and adalimumab dose received during the OL LI ph
 Patients demonstrating a Paediatric ACR 30 response at Week 16 were eligible to be randomised into the double blind (DB) phase and received either Humira 24 mg/m2 up to a maximum of 40 mg, or placebo every other week for an additional 32 weeks or until disease flare.
 Disease flare criteria were defined as a worsening of ≥ 30% from baseline in ≥ 3 of 6 Pediatric ACR core criteria, ≥ 2 active joints, and improvement of > 30% in no more than 1 of the 6 criteria.
 After 32 weeks or at disease flare, patients were eligible to enrol into the open label extension phase
-
 Table 5
 Paed ACR 30 Responses in the JIA study
 
@@ -69,6 +69,7 @@ Adults with Rheumatoid arthritis
 Humira was evaluated in over 3,000 patients in all rheumatoid arthritis clinical trials.
 Some patients were treated for up to 60 months duration.
 The efficacy and safety of Humira for the treatment of rheumatoid arthritis were assessed in five randomised, double-blind and well-controlled studies.
+
 RA study I evaluated 271 patients with moderately to severely active rheumatoid arthritis who were
 ≥ 18 years old, had failed therapy with at least one disease-modifying, anti rheumatic drug and had insufficient efficacy with methotrexate at doses of 12.5 to 25 mg (10 mg if methotrexate-intolerant) every week and whose methotrexate dose remained constant at 10 to 25 mg every week.
 Doses of 20, 40 or 80 mg of Humira or placebo were given every other week for 24 weeks.
@@ -97,6 +98,7 @@ The primary end point in RA studies I, II and III and the secondary endpoint in 
 The primary endpoint in RA study V was the percent of patients who achieved an ACR 50 response at Week 52.
 RA studies III and V had an additional primary endpoint at 52 weeks of retardation of disease progression (as detected by X-ray results).
 RA study III also had a primary endpoint of changes in quality of life.
+
 ACR response
 
 The percent of Humira-treated patients achieving ACR 20, 50 and 70 responses was consistent across RA studies I, II and III.
@@ -120,12 +122,12 @@ In RA study III, these improvements were maintained throughout 52 weeks.
 In addition, ACR response rates were maintained in the majority of patients followed in the open-label extension phase to Week 104.
 There were 114 out of 207 patients who continued on Humira 40 mg every other week for 60 months.
 Among those, 86, 72, and 41 patients had ACR 20/50/70 response, respectively at Month 60.
-
 In RA study IV, the ACR 20 response of patients treated with Humira plus standard of care was statistically significantly better than patients treated with placebo plus standard of care (p < 0.001).
 
 In RA studies I-IV, Humira-treated patients achieved statistically significant ACR 20 and 50 responses compared to placebo as early as one to two weeks after initiation of treatment.
 
 In RA study V with early rheumatoid arthritis patients who were methotrexate naïve, combination therapy with Humira and methotrexate led to faster and significantly greater ACR responses than methotrexate monotherapy and Humira monotherapy at Week 52 and responses were sustained at Week 104 (see Table7).
+
 Table 7 ACR Responses in RA Study V
 (percent of patients)
 
@@ -153,7 +155,6 @@ Humira/methotrexate patients demonstrated significantly less radiographic progre
 Data from the open-label extension phase indicate that the reduction in rate of progression of structural damage is maintained for 60 months in a subset of patients.
 113of 207 of patients originally treated with 40 mg Humira every other week were evaluated radiographically at 5 years.
 Among those, 66 patients showed no progression of structural damage defined by a change in the TSS of zero or less.
-
 Table 8 Radiographic Mean Changes Over 12 Months in RA Study III
 
 |  | Placebo/ MTXa | Humira/MTX 40 mg every other week | Placebo/MTX-Humira/MTX (95% Confidence Intervalb) | p-value |
@@ -163,6 +164,7 @@ Table 8 Radiographic Mean Changes Over 12 Months in RA Study III
 | JSNd score | 1.0 | 0.1 | 0.9 (0.3, 1.4) | 0.002 |
 
 amethotrexate b95% confidence intervals for the differences in change scores between methotrexate and Humira. cBased on rank analysis dJoint Space Narrowing
+
 In RA study V, structural joint damage was assessed radiographically and expressed as change in modified Total Sharp Score (see Table9).
 
 Table 9 Radiographic Mean Changes at Week 52 in RA Study V
@@ -184,7 +186,6 @@ Health-related quality of life and physical function were assessed using the dis
 All doses/schedules of Humira in all four studies showed statistically significantly greater improvement in the disability index of the HAQ from baseline to Month 6 compared to placebo and in RA study III the same was seen at Week 52.
 Results from the Short Form Health Survey (SF 36) for all doses/schedules of Humira in all four studies support these findings, with statistically significant physical component summary (PCS) scores, as well as statistically significant pain and vitality domain scores for the 40 mg every other week dose.
 A statistically significant decrease in fatigue as measured by functional assessment of chronic illness therapy (FACIT) scores was seen in all three studies in which it was assessed (RA studies I, III, IV).
-
 In RA study III, improvement in physical function was maintained through Week 260 (60 months) of open-label treatment.
 Improvement in quality of life was measured up to Week 156 (36 months) and improvement was maintained through that time.
 
@@ -194,6 +195,7 @@ Immunogenicity
 
 Formation of anti-adalimumab antibodies is associated with increased clearance and reduced efficacy of adalimumab.
 There is no apparent correlation between the presence of anti-adalimumab antibodies and the occurrence of adverse events.
+
 In patients with polyarticular juvenile idiopathic arthritis, adalimumab antibodies were identified in 27/171 subjects (15.8%) treated with adalimumab.
 In patients not given concomitant methotrexate, the incidence was 22/86 (25.6%), compared to 5/85 (5.9%) when adalimumab was used as add-on to methotrexate.
 
@@ -542,7 +544,5 @@ Humira treatment reduced the rate of progression of peripheral joint damage comp
 
 Table 11
 Efficacy Responses in Placebo-Controlled AS Study – Study I
-
-Disease-related hospitalisations and surgeries were statistically significantly reduced with adlalimuman compared with placebo at Week 56.
 
 In an open-label extension study, for patients who dose escalated from 40 mg every other week to 40 mg weekly due to a PASI response below 50% and were evaluated at 12 weeks after dose escalation, 93/349 (26.6%) of patients achieved PASI 75 response.

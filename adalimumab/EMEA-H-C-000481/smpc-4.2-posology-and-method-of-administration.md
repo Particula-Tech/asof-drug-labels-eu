@@ -1,6 +1,6 @@
 # 4.2 Posology and method of administration
 
-Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of rheumatoid arthritis, polyarticular juvenile idiopathic arthritis, psoriatic arthritis, ankylosing spondylitis, Crohn’s disease or psoriasis.
+Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of polyarticular juvenile idiopathic arthritis.
 Patients treated with Humira should be given the special alert card.
 
 After proper training in injection technique, patients may self-inject with Humira if their physician determines that it is appropriate and with medical follow-up as necessary.
@@ -17,7 +17,7 @@ Polyarticular Juvenile Idiopathic Arthritis Age 4 to 12 years
 The recommended dose of Humira for patients with polyarticular juvenile idiopathic arthritis, aged 4 - 12 years, is 24 mg/m² body surface area up to a maximum single dose of 40 mg adalimumab administered every other week via subcutaneous injection.
 The volume for injection is selected based on the patients' height and weight (Table 1).
 Table 1.
-Humira Dose in Milliliters (ml) by Height and Weight of
+Humira Dose in Millilitres (ml) by Height and Weight of
 Children for Polyarticular Juvenile Idiopathic Arthritis
 
 Height Total Body Weight (kg)
@@ -38,7 +38,7 @@ Height Total Body Weight (kg)
 
 Polyarticular Juvenile Idiopathic Arthritis Age 13-17 years:
 
-For adolescents aged 13-17 years, a dose of 40 mg administered every other week is administered regardless of body surface area.
+For adolescents aged 13-17 years, a dose of 40 mg is administered every other week regardless of body surface area.
 
 A 40 mg pen and a 40 mg prefilled syringe are also available for patients to administer a full 40 mg dose.
 Available data suggest that clinical response is usually achieved within 12 weeks of treatment.
@@ -50,6 +50,8 @@ Humira has not been studied in these patient populations.
 No dose recommendations can be made.
 
 [Humira 40 mg solution for injection in pre-filled syringe]
+
+Humira treatment should be initiated and supervised by specialist physicians experienced in the diagnosis and treatment of rheumatoid arthritis, polyarticular juvenile idiopathic arthritis, psoriatic arthritis, ankylosing spondylitis, Crohn’s disease or psoriasis.
 
 During treatment with Humira, other concomitant therapies (e.g., corticosteroids and/or immunomodulatory agents) should be optimised.
 
@@ -102,8 +104,6 @@ Elderly patients
 No dose adjustment is required.
 
 A 40 mg paediatric vial is available for patients who need to administer less than the full 40 mg dose.
-
-For adolescents aged 13-17 years, a dose of 40 mg is administered every other week regardless of body surface area.
 
 [Humira 40 mg solution for injection in pre-filled syringe with needleguard]
 
