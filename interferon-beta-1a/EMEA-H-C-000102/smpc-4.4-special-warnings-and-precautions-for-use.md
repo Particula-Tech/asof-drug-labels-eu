@@ -8,7 +8,6 @@ Patients exhibiting depression should be monitored closely during therapy and tr
 Cessation of therapy with AVONEX should be considered (see also sections 4.3 and 4.8).
 
 AVONEX should be administered with caution to patients with a history of seizures, to those receiving treatment with anti-epileptics, particularly if their epilepsy is not adequately controlled with anti-epileptics (see sections 4.5 and 4.8).
-
 Caution should be used and close monitoring considered when administering AVONEX to patients with severe renal and hepatic failure and to patients with severe myelosuppression.
 
 Hepatic injury including elevated serum hepatic enzyme levels, hepatitis, autoimmune hepatitis and hepatic failure has been reported with interferon beta in post-marketing (see section 4.8).

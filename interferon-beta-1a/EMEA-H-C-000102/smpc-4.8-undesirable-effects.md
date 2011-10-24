@@ -2,6 +2,7 @@
 
 The highest incidence of adverse reactions associated with AVONEX therapy is related to flu-like symptoms.
 The most commonly reported flu-like symptoms are myalgia, fever, chills, sweating, asthenia, headache and nausea.
+Titrating AVONEX at the initiation of therapy has demonstrated a reduction in the severity and incidence of flu-like symptoms.
 Flu-like symptoms tend to be most prominent at the initiation of therapy and decrease in frequency with continued treatment.
 
 Transient neurological symptoms that may mimic MS exacerbations may occur following injections.
