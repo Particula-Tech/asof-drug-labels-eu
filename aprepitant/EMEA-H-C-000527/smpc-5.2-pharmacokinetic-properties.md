@@ -7,17 +7,17 @@ Absorption
 The mean absolute oral bioavailability of aprepitant is 67 % for the 80 mg capsule and 59 % for the 125 mg capsule.
 The mean peak plasma concentration (Cmax) of aprepitant occurred at approximately 4 hours (tmax).
 
-Following oral administration of a single 40 mg dose of EMEND in the fasted state, the AUC0-∞ (mean ± SD) was 8.0 ± 2.1 microgram x h/ml and the Cmax was 0.7 ± 0.24 microgram/ml.
+Following oral administration of a single 40 mg dose of EMEND in the fasted state, the AUC0-∞ (mean ± SD) was 8.0 ± 2.1 µg • h/ml and the Cmax was 0.7 ± 0.24 µg/ml.
 The median tmax was 3.0 hours.
 
-Concomitant intake of a 40 mg dose with a standard breakfast decreased the aprepitant Cmax by 18% but did not affect AUC.
+Concomitant intake of a 40 mg dose with a standard breakfast decreased the aprepitant Cmax by 18 % but did not affect AUC.
 This is not considered to be clinically important.
 
 Distribution
 Aprepitant is highly protein bound, with a mean of 97 %.
 The geometric mean apparent volume of distribution at steady state (Vdss) is approximately 66 l in humans.
 
-Metabolism
+Biotransformation
 Aprepitant undergoes extensive metabolism.
 In healthy young adults, aprepitant accounts for approximately 19 % of the radioactivity in plasma over 72 hours following a single intravenous administration 100 mg dose of [14C]-fosaprepitant, a prodrug for aprepitant, indicating a substantial presence of metabolites in the plasma.
 Twelve metabolites of aprepitant have been identified in human plasma.
@@ -36,12 +36,12 @@ Pharmacokinetics in special populations
 Elderly: Following oral administration of a single 125 mg dose of aprepitant on Day 1 and 80 mg once daily on Days 2 through 5, the AUC0-24hr of aprepitant was 21 % higher on Day 1 and 36 % higher on Day 5 in elderly (≥ 65 years) relative to younger adults.
 The Cmax was 10 % higher on Day 1 and 24 % higher on Day 5 in elderly relative to younger adults.
 These differences are not considered clinically meaningful.
-No dosage adjustment for EMEND is necessary in elderly patients.
+No dose adjustment for EMEND is necessary in elderly patients.
 
 Gender: Following oral administration of a single 125 mg dose of aprepitant, the Cmax for aprepitant is 16 % higher in females as compared with males.
 The half-life of aprepitant is 25 % lower in females as compared with males and its tmax occurs at approximately the same time.
 These differences are not considered clinically meaningful.
-No dosage adjustment for EMEND is necessary based on gender.
+No dose adjustment for EMEND is necessary based on gender.
 
 Hepatic impairment: Mild hepatic impairment (Child-Pugh class A) does not affect the pharmacokinetics of aprepitant to a clinically relevant extent.
 No dose adjustment is necessary for patients with mild hepatic impairment.
@@ -57,7 +57,7 @@ Haemodialysis conducted 4 or 48 hours after dosing had no significant effect on 
 
 No dose adjustment for EMEND is necessary for patients with renal impairment or for patients with ESRD undergoing haemodialysis.
 
-Relationship between concentration and effect (PK/PD)
+Relationship between concentration and effect
 Using a highly specific NK1-receptor tracer, positron emission tomography (PET) studies in healthy young men have shown that aprepitant penetrates into the brain and occupies NK1 receptors in a dose-and plasma-concentration-dependent manner.
 Aprepitant plasma concentrations achieved with the 3-day regimen of EMEND are predicted to provide greater than 95 % occupancy of brain NK1 receptors.
 
@@ -68,18 +68,20 @@ This increase is not considered clinically relevant.
 
 The pharmacokinetics of aprepitant is non-linear across the clinical dose range.
 In healthy young adults, the increase in AUC0-∞ was 26 % greater than dose proportional between 80 mg and 125 mg single doses administered in the fed state.
-Following oral administration of a single 125 mg dose of EMEND on Day 1 and 80 mg once daily on Days 2 and 3, the AUC0-24hr (mean±SD) was 19.6±2.5 microgram x h/ml and 21.2±6.3 microgram x h/ml on Days 1 and 3, respectively.
-Cmax was 1.6±0.36 microgram/ml and 1.4±0.22 microgram/ml on Days 1 and 3, respectively.
 
-Following a single intravenously administered 100 mg dose of [14C]- fosaprepitant, a prodrug for aprepitant, to healthy subjects, 57 % of the radioactivity was recovered in urine and 45 % in faeces.
+Following oral administration of a single 125 mg dose of EMEND on Day 1 and 80 mg once daily on Days 2 and 3, the AUC0-24hr (mean±SD) was 19.6 ± 2.5 µg•h/ml and 21.2 ± 6.3 µg •h/ml on
+Days 1 and 3, respectively.
+Cmax was 1.6 ± 0.36 µg/ml and 1.4 ± 0.22 µg/ml on Days 1 and 3, respectively.
+
+Following a single intravenously administered 100 mg dose of [14C]-fosaprepitant, a prodrug for aprepitant, to healthy subjects, 57 % of the radioactivity was recovered in urine and 45 % in faeces.
 
 The terminal half-life ranged from approximately 9 to 13 hours.
 
 Elderly: Following oral administration of a single 125 mg dose of aprepitant on Day 1 and 80 mg once daily on Days 2 through 5, the AUC0-24hr of aprepitant was 21 % higher on Day 1 and 36 % higher on Day 5 in elderly (≥65 years) relative to younger adults.
 
-Relationship between concentration and effect
-
 [EMEND 125 mg hard capsules]
+
+Following a single intravenously administered 100 mg dose of [14C]- -fosaprepitant, a prodrug for aprepitant, to healthy subjects, 57 % of the radioactivity was recovered in urine and 45 % in faeces.
 
 Gender: Following oral administration of a single 125 mg dose ofaprepitant, the Cmax for aprepitant is 16 % higher in females as compared with males.
 

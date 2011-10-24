@@ -1,6 +1,6 @@
 # 4.3 Contraindications
 
-Hypersensitivity to the active substance or to any of the excipients.
+Hypersensitivity to aprepitant or to any of the excipients.
 
 [EMEND 80 mg hard capsules]
 
