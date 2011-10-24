@@ -16,6 +16,7 @@ In preclinical studies, pregabalin has been shown to cross the blood brain barri
 Pregabalin has been shown to cross the placenta in rats and is present in the milk of lactating rats.
 In humans, the apparent volume of distribution of pregabalin following oral administration is approximately 0.56 l/kg.
 Pregabalin is not bound to plasma proteins.
+
 Biotransformation:
 
 Pregabalin undergoes negligible metabolism in humans.

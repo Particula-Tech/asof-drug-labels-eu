@@ -6,7 +6,7 @@ The active substance, pregabalin, is a gamma-aminobutyric acid analogue ((S)-3-(
 
 Mechanism of action
 
-Pregabalin binds to an auxiliary subunit (α2-δ protein) of voltage-gated calcium channels in the central nervous system, potently displacing [3H]-gabapentin.
+Pregabalin binds to an auxiliary subunit (α2-δ protein) of voltage-gated calcium channels in the central nervous system.
 
 Clinical experience
 
@@ -27,10 +27,18 @@ For patients who experienced somnolence the responder rates were 48% on pregabal
 In the controlled clinical trial in central neuropathic pain 22% of the Pregabalin treated patients and 7% of the patients on placebo had a 50% improvement in pain score.
 Epilepsy
 
+Adjunctive Treatment
+
 Pregabalin has been studied in 3 controlled clinical trials of 12 week duration with either twice a day dosing (BID) or three times a day (TID) dosing.
 Overall, the safety and efficacy profiles for BID and TID dosing regimens were similar.
 
 A reduction in seizure frequency was observed by Week 1.
+
+Monotherapy (newly diagnosed patients)
+
+Pregabalin has been studied in 1 controlled clinical trial of 56 week duration with twice a day dosing (BID).
+Pregabalin did not achieve non-inferiority to lamotrigine based on the 6-month seizure freedom endpoint.
+Pregabalin and lamotrigine were similarly safe and well tolerated.
 
 Generalised Anxiety Disorder
 
