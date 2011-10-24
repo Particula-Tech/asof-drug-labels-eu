@@ -8,7 +8,6 @@ Abacavir is metabolised intracellularly to the active moiety, carbovir 5’- tri
 In vitro studies have demonstrated that its mechanism of action in relation to HIV is inhibition of the HIV reverse transcriptase enzyme, an event which results in chain termination and interruption of the viral replication cycle.
 Abacavir shows synergy in vitro in combination with nevirapine and zidovudine.
 It has been shown to be additive in combination with didanosine, lamivudine and stavudine.
-
 In vitro resistance: Abacavir-resistant isolates of HIV-1 have been selected in vitro and are associated with specific genotypic changes in the reverse transcriptase (RT) codon region (codons M184V, K65R, L74V and Y115F).
 Viral resistance to abacavir develops relatively slowly in vitro, requiring multiple mutations for a clinically relevant increase in EC50 over wild-type virus.
 

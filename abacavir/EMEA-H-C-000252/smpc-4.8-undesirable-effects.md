@@ -39,7 +39,6 @@ Rash (81% vs 67% respectively) and gastrointestinal manifestations (70% vs 54% r
 Some patients with hypersensitivity reactions were initially thought to have gastroenteritis, respiratory disease (pneumonia, bronchitis, pharyngitis) or a flu-like illness.
 This delay in diagnosis of hypersensitivity has resulted in Ziagen being continued or re-introduced, leading to more severe hypersensitivity reactions or death.
 Therefore, the diagnosis of hypersensitivity reaction should be carefully considered for patients presenting with symptoms of these diseases.
-
 Symptoms usually appeared within the first six weeks (median time to onset 11 days) of initiation of treatment with abacavir, although these reactions may occur at any time during therapy.
 Close medical supervision is necessary during the first two months, with consultations every two weeks.
 
@@ -88,6 +87,7 @@ General disorders and administration site conditions
 Common: fever, lethargy, fatigue
 
 Cases of lactic acidosis, sometimes fatal, usually associated with severe hepatomegaly and hepatic steatosis, have been reported with the use of nucleoside analogues (see section 4.4).
+
 Combination antiretroviral therapy has been associated with redistribution of body fat (lipodystrophy) in HIV patients including the loss of peripheral and facial subcutaneous fat, increased intra-abdominal and visceral fat, breast hypertrophy and dorsocervical fat accumulation (buffalo hump).
 
 Combination antiretroviral therapy has been associated with metabolic abnormalities such as hypertriglyceridaemia, hypercholesterolaemia, insulin resistance, hyperglycaemia and hyperlactataemia (see section 4.4).

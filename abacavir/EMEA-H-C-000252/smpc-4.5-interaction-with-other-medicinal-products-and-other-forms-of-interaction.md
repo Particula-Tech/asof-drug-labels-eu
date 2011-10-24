@@ -21,3 +21,8 @@ Patients being treated with methadone and abacavir should be monitored for evide
 
 Retinoids: retinoid compounds are eliminated via alcohol dehydrogenase.
 Interaction with abacavir is possible but has not been studied.
+
+Ribavirin: As ABC and RBV share the same phosphorylation pathways, a possible intracellular interaction between these drugs has been postulated, which could lead to a reduction in intracellular phosphorylated metabolites of ribavirin and, as a potential consequence, a reduced chance of sustained virological response (SVR) for Hepatitis C (HCV) in HCV co-infected patients treated with pegylated interferon plus RBV.
+Conflicting clinical findings are reported in literature on co-administration between abacavir and ribavirin.
+Some data suggest that HIV/HCV co-infected patients receiving abacavir-containing ART may be at risk of a lower response rate to pegylated interferon/ribavirin therapy.
+Caution should be exercised when both drugs are co-administered.

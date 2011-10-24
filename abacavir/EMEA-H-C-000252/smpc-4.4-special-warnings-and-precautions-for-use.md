@@ -116,9 +116,6 @@ There have been reports of a high rate of virological failure and of emergence o
 
 Liver disease: the safety and efficacy of Ziagen has not been established in patients with significant underlying liver disorders.
 Ziagen is contraindicated in patients with severe hepatic impairment (see section 4.3).
-Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk of severe and potentially fatal hepatic adverse reactions.
-In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant product information for these medicinal products.
-
 Patients with pre-existing liver dysfunction, including chronic active hepatitis, have an increased frequency of liver function abnormalities during combination antiretroviral therapy, and should be monitored according to standard practice.
 If there is evidence of worsening liver disease in such patients, interruption or discontinuation of treatment must be considered.
 
@@ -129,6 +126,11 @@ Due to the potential increases in exposure (AUC) in some patients, close monitor
 No data are available in patients with moderate or severe hepatic impairment.
 Plasma concentrations of abacavir are expected to substantially increase in these patients.
 Therefore, the use of abacavir in patients with moderate hepatic impairment is not recommended unless judged necessary and requires close monitoring of these patients.
+
+Patients with chronic hepatitis B or C: Patients with chronic hepatitis B or C and treated with combination antiretroviral therapy are at an increased risk of severe and potentially fatal hepatic adverse reactions.
+In case of concomitant antiviral therapy for hepatitis B or C, please refer also to the relevant product information for these medicinal products.
+
+Caution should be exercised when abacavir and ribavirin are co-administered (see section 4.5).
 
 Renal disease: Ziagen should not be administered to patients with end-stage renal disease (see section 5.2).
 
