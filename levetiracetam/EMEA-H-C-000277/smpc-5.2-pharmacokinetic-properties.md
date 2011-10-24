@@ -27,6 +27,7 @@ Distribution
 No tissue distribution data are available in humans.
 Neither levetiracetam nor its primary metabolite are significantly bound to plasma proteins (< 10 %).
 The volume of distribution of levetiracetam is approximately 0.5 to 0.7 l/kg, a value close to the total body water volume.
+
 Biotransformation
 
 Levetiracetam is not extensively metabolised in humans.
@@ -40,7 +41,6 @@ One was obtained by hydroxylation of the pyrrolidone ring (1.6 % of the dose) an
 Other unidentified components accounted only for 0.6 % of the dose.
 
 No enantiomeric interconversion was evidenced in vivo for either levetiracetam or its primary metabolite.
-
 In vitro, levetiracetam and its primary metabolite have been shown not to inhibit the major human liver cytochrome P450 isoforms (CYP3A4, 2A6, 2C9, 2C19, 2D6, 2E1 and 1A2), glucuronyl transferase (UGT1A1 AND UGT1A6) and epoxide hydroxylase activities.
 In addition, levetiracetam does not affect the in vitro glucuronidation of valproic acid.
 In human hepatocytes in culture, levetiracetam had little or no effect on CYP1A2, SULT1E1 or UGT1A1.
@@ -71,6 +71,7 @@ It is therefore recommended to adjust the maintenance daily dose of Keppra, base
 
 In anuric end-stage renal disease adult subjects the half-life was approximately 25 and 3.1 hours during interdialytic and intradialytic periods, respectively.
 The fractional removal of levetiracetam was 51 % during a typical 4-hour dialysis session.
+
 Hepatic impairment
 
 In subjects with mild and moderate hepatic impairment, there was no relevant modification of the clearance of levetiracetam.
@@ -82,7 +83,6 @@ Children (4 to 12 years)
 
 Following single oral dose administration (20 mg/kg) to epileptic children (6 to 12 years), the half-life of levetiracetam was 6.0 hours.
 The apparent body weight adjusted clearance was approximately 30 % higher than in epileptic adults.
-
 Following repeated oral dose administration (20 to 60 mg/kg/day) to epileptic children (4 to 12 years), levetiracetam was rapidly absorbed.
 Peak plasma concentration was observed 0.5 to 1.0 hour after dosing.
 Linear and dose proportional increases were observed for peak plasma concentrations and area under the curve.

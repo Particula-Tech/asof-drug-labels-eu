@@ -34,7 +34,6 @@ In paediatric patients (4 to 16 years of age), levetiracetam efficacy was establ
 In this study, the patients received levetiracetam as a fixed dose of 60 mg/kg/day (with twice a day dosing).
 44.6 % of the levetiracetam treated patients and 19.6 % of the patients on placebo had a 50 % or greater reduction from baseline in the partial onset seizure frequency per week.
 With continued long-term treatment, 11.4 % of the patients were seizure-free for at least 6 months and 7.2 % were seizure-free for at least 1 year.
-
 In paediatric patients (1 month to less than 4 years of age), levetiracetam efficacy was established in a double-blind, placebo-controlled study, which included 116 patients and had a treatment duration of 5 days.
 In this study, patients were prescribed 20 mg/kg, 25 mg/kg, 40 mg/kg or 50 mg/kg daily dose of oral solution based on their age titration schedule.
 A dose of 20 mg/kg/day titrating to 40 mg/kg/day for infants one month to less than six months and a dose of 25 mg/kg/day titrating to 50 mg/kg/day for infants and children 6 months to less than 4 years old, was use in this study.
