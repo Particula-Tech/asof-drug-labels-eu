@@ -12,7 +12,7 @@ Macrogol 400
 Titanium dioxide (E 171)
 Iron oxide yellow (E 172)
 
-[Ebixa 5 mg/pump oral solution.]
+[Ebixa 5 mg/pump actuation oral solution.]
 
 Potassium sorbate
 Sorbitol E420

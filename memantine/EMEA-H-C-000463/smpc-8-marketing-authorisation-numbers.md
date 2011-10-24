@@ -4,7 +4,7 @@ EU/1/02/219/001-003
 EU/1/02/219/007-012
 EU/1/02/219/014-021
 
-[Ebixa 5 mg/pump oral solution.]
+[Ebixa 5 mg/pump actuation oral solution.]
 
 EU/1/02/219/005-006
 EU/1/02/219/013

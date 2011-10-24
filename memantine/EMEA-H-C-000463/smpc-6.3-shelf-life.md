@@ -2,7 +2,7 @@
 
 4 years.
 
-[Ebixa 5 mg/pump oral solution.]
+[Ebixa 5 mg/pump actuation oral solution.]
 
 Once opened, the contents of the bottle should be used within 3 months.
 

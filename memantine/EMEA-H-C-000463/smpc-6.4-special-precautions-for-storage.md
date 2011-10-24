@@ -2,7 +2,7 @@
 
 This medicinal product does not require any special storage conditions.
 
-[Ebixa 5 mg/pump oral solution.]
+[Ebixa 5 mg/pump actuation oral solution.]
 
 Do not store above 30ºC.
 

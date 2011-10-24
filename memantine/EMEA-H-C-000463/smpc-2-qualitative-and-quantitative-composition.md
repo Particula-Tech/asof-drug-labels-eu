@@ -4,9 +4,9 @@ Each film-coated tablet contains 10 mg of memantine hydrochloride equivalent to 
 
 For a full list of excipients, see section 6.1.
 
-[Ebixa 5 mg/pump oral solution.]
+[Ebixa 5 mg/pump actuation oral solution.]
 
-Each activation of the pump (one downward pump) delivers 0.5 ml of solution containing 5 mg of memantine hydrochloride equivalent to 4.16 mg of memantine
+Each pump actuation delivers 0.5 ml of solution which contains 5 mg of memantine hydrochloride which is equivalent to 4.16 mg memantine
 
 Excipients: Each millilitre of solution contains 100 mg sorbitol (E420) and 0.5 mg potassium, see section 4.4.
 

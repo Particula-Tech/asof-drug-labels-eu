@@ -3,7 +3,7 @@
 Date of first authorisation: 15/05/2002
 Date of latest renewal: 15/05/2007
 
-[Ebixa 5 mg/pump oral solution.]
+[Ebixa 5 mg/pump actuation oral solution.]
 
 (all sentences already above)
 
