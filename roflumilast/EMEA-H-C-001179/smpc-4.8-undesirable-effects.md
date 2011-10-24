@@ -24,7 +24,8 @@ Adverse reactions with roflumilast in clinical COPD studies
 | Nervous system disorders | Headache | Tremor Vertigo Dizziness | Dysgeusia |
 | Cardiac disorders |  | Palpitations |  |
 | Respiratory, thoracic and mediastinal disorders |  |  | Respiratory tract infections (excluding Pneumonia) |
-| Gastrointestinal disorders | Diarrhoea Nausea Abdominal pain | Gastritis Vomiting Gastro-esophageal reflux disease Dyspepsia | Haematochezia Constipation |
+| Gastrointestinal disorders | Diarrhoea Nausea | Gastritis Vomiting | Haematochezia Constipation |
+|  | Abdominal pain | Gastro-esophageal reflux disease Dyspepsia |  |
 | Hepatobiliary disorders |  |  | Gamma-GT increased Aspartate aminotransferase (AST) increased |
 | Skin and subcutaneous tissue disorders |  | Rash | Urticaria |
 | Musculoskeletal and connective tissue disorders |  | Muscle spasms and weakness Myalgia Back pain | Blood creatine phosphokinase (CPK) increased |

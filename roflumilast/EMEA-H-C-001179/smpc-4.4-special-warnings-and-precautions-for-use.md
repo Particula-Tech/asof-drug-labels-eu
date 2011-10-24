@@ -24,7 +24,6 @@ Rare instances of suicidal ideation and behavior, including completed suicide, h
 Therefore, the risks and benefits of starting or continuing treatment with Daxas should be carefully assessed if patients report previous or existing psychiatric symptoms or if concomitant treatment with other medicinal products likely to cause psychiatric events is intended.
 Patients should be instructed to notify their prescriber of any changes in behavior or mood and of any suicidal ideation.
 Moreover, Daxas is not recommended in patients with a history of depression associated with suicidal ideation or behavior.
-
 Persistent intolerability
 While adverse reactions like diarrhoea, nausea, abdominal pain and headache mainly occur within the first weeks of therapy and mostly resolve on continued treatment, Daxas treatment should be reassessed in case of persistent intolerability.
 This might be the case in special populations that may have higher exposure, such as in black, non-smoking females (see section 5.2) or in patients concomitantly treated with the CYP1A2 inhibitor fluvoxamine or the dual CYP3A4/1A2 inhibitors enoxacin and cimetidine (see section 4.5).
