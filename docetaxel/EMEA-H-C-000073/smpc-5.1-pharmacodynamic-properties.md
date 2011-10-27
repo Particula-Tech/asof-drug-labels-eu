@@ -8,7 +8,6 @@ Docetaxel is an antineoplastic agent which acts by promoting the assembly of tub
 The binding of docetaxel to microtubules does not alter the number of protofilaments.
 
 Docetaxel has been shown in vitro to disrupt the microtubular network in cells which is essential for vital mitotic and interphase cellular functions.
-
 Docetaxel was found to be cytotoxic in vitro against various murine and human tumour cell lines and against freshly excised human tumour cells in clonogenic assays.
 Docetaxel achieves high intracellular concentrations with a long cell residence time.
 In addition, docetaxel was found to be active on some but not all cell lines over expressing the p-glycoprotein which is encoded by the multidrug resistance gene.
@@ -31,22 +30,28 @@ G-CSF was administered as secondary prophylaxis to patients who experienced comp
 Patients on the TAC arm received antibiotic prophylaxis with ciprofloxacin 500 mg orally twice daily for 10 days starting on day 5 of each cycle, or equivalent.
 In both arms, after the last cycle of chemotherapy, patients with positive estrogen and/or progesterone receptors received tamoxifen 20 mg daily for up to 5 years.
 Adjuvant radiation therapy was prescribed according to guidelines in place at participating institutions and was given to 69% of patients who received TAC and 72% of patients who received FAC.
-An interim analysis was performed with a median follow up of 55 months.
+Two interim analyses and one final analysis were performed.
+The first interim analysis was planned 3 years after the date when half of study enrollment was done.
+The second interim analysis was done after 400 DFS events had been recorded overall, which led to a median follow-up of 55 months.
+The final analysis was performed when all patients had reached their 10-year follow-up visit (unless they had a DFS event or were lost to follow-up before).
+Disease-free survival (DFS) was the primary efficacy endpoint and Overall survival (OS) was the secondary efficacy endpoint.
+
+A final analysis was performed with an actual median follow up of 96 months.
 Significantly longer disease-free survival for the TAC arm compared to the FAC arm was demonstrated.
-Incidence of relapses at 5 years was reduced in patients receiving TAC compared to those who received FAC (25% versus 32%, respectively) i.e. an absolute risk reduction by 7% (p = 0.001).
-Overall survival at 5 years was also significantly increased with TAC compared to FAC (87% versus 81%, respectively) i.e. an absolute reduction of the risk of death by 6% (p = 0.008).
+Incidence of relapses at 10 years was reduced in patients receiving TAC compared to those who received FAC (39% versus 45%, respectively) i.e. an absolute risk reduction by 6% (p = 0.0043).
+Overall survival at 10 years was also significantly increased with TAC compared to FAC (76% versus 69%, respectively) i.e. an absolute reduction of the risk of death by 7% (p = 0.002).
+As the benefit observed in patients with 4+ nodes was not statistically significant on DFS and OS, the positive benefit/risk ratio for TAC in patients with 4+ nodes was not fully demonstrated at the final analysis.
+
+Overall, the study results demonstrate a positive benefit risk ratio for TAC compared to FAC.
+
 TAC-treated patient subsets according to prospectively defined major prognostic factors were analyzed:
 
 |  |  | Disease free survival |  |  | Overall survival |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Patient subset | Number of patients | Hazard ratio* | 95% CI | p = | Hazard ratio* | 95% CI | p = |
-| No of positive nodes Overall 1-3 4+ | 745 467 278 | 0.72 0.61 0.83 | 0.59-0.88 0.46-0.82 0.63-1.08 | 0.001 0.0009 0.17 | 0.70 0.45 0.94 | 0.53-0.91 0.29-0.70 0.66-1.33 | 0.008 0.0002 0.72 |
+| No of positive nodes Overall 1-3 4+ | 745 467 278 | 0.80 0.72 0.87 | 0.68-0.93 0.58-0.91 0.70-1.09 | 0.0043 0.0047 0.2290 | 0.74 0.62 0.87 | 0.61-0.90 0.46-0.82 0.67-1.12 | 0.0020 0.0008 0.2746 |
 
 *a hazard ratio of less than 1 indicates that TAC is associated with a longer disease-free survival and overall survival compared to FAC
-
-The beneficial effect of TAC was not proven in patients with 4 and more positive nodes (37% of the population) at the interim analysis stage.
-The effect appears to be less pronounced than in patients with 1-3 positive nodes.
-The benefit/risk ratio was not defined fully in patients with 4 and more positive nodes at this analysis stage.
 
 Patients with operable node-negative breast cancer eligible to receive chemotherapy (GEICAM 9805)
 
@@ -399,8 +404,21 @@ There was less use of morphinic analgesic (p < 0.01), non-morphinic analgesics (
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
-(all sentences already above)
+After stratification according to the number of positive lymph nodes (1-3, 4+), 1491 patients were randomized to receive either docetaxel 75 mg/m2 administered 1-hour after doxorubicin 50 mg/m2 and cyclophosphamide 500 mg/m2 (TAC arm), or doxorubicin 50 mg/m2 followed by fluorouracil 500 mg/m2 and cyclosphosphamide 500 mg/m2 (FAC arm).
+
+Overall survival at 10 years was also significantly increased with TAC compared to FAC (76%versus 69%, respectively) i.e. an absolute reduction of the risk of death by 7% (p = 0.002).
 
 [TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 
-(all sentences already above)
+| Patient subset | Number of patients in TAC group | Disease Free Survival |  |
+| --- | --- | --- | --- |
+|  |  | Hazard ratio* | 95% CI |
+| Overall | 539 | 0.68 | 0.49-0.93 |
+| Age category 1 <50 years ≥50 years | 260 279 | 0.67 0.67 | 0.43-1.05 0.43-1.05 |
+| Age category 2 |  |  |  |
+| <35 years ≥35 years | 42 497 | 0.31 0.73 | 0.11-0.89 0.52-1.01 |
+| Hormonal receptor status Negative Positive | 195 344 | 0.7 0.62 | 0.45-1.1 0.4-0.97 |
+| Tumour size ≤2 cm >2 cm | 285 254 | 0.69 0.68 | 0.43-1.1 0.45-1.04 |
+| Histological grade Grade1 (includes grade not assessed) Grade 2 Grade 3 | 64 | 0.79 | 0.24-2.6 |
+|  | 216 259 | 0.77 0.59 | 0.46-1.3 0.39-0.9 |
+| Menopausal status Pre-Menopausal Post-Menopausal | 285 254 | 0.64 0.72 | 0.40-1 0.47-1.12 |

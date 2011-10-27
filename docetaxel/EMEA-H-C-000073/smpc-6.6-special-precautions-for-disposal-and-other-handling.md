@@ -58,7 +58,7 @@ Each vial is of single use and should be used immediately.
 
 If the vials are stored under refrigeration, allow the required number of boxes of TAXOTERE concentrate for solution for infusion to stand below 25°C for 5 minutes before use.
 More than one vial of TAXOTERE concentrate for solution for infusion may be necessary to obtain the required dose for the patient.
-Aseptically withdraw the required amount of TAXOTERE concentrate for solution for infusion using a calibrated syringe.
+Aseptically withdraw the required amount of TAXOTERE concentrate for solution for infusion using a calibrated syringe fitted with a 21G needle.
 
 In TAXOTERE 20 mg /1 ml vial the concentration of docetaxel is 20 mg/ml.
 The required volume of TAXOTERE concentrate for solution for infusion must be injected via a single injection (one shot) into a 250 ml infusion bag or bottle containing either 5% glucose solution or sodium chloride 9 mg/ml (0.9%) solution for infusion.

@@ -5,7 +5,7 @@ Breast cancer
 TAXOTERE in combination with doxorubicin and cyclophosphamide is indicated for the adjuvant treatment of patients with:
 
 - operable node-positive breast cancer
-- Operable node-negative breast cancer
+- operable node-negative breast cancer
 
 For patients with operable node-negative breast cancer, adjuvant treatment should be restricted to patients eligible to receive chemotherapy according to internationally established criteria for primary therapy of early breast cancer (see section 5.1).
 TAXOTERE in combination with doxorubicin is indicated for the treatment of patients with locally advanced or metastatic breast cancer who have not previously received cytotoxic therapy for this condition.

@@ -25,7 +25,6 @@ For combination with trastuzumab, adverse events (all grades) reported in ≥ 10
 There was an increased incidence of SAEs (40% vs. 31%) and Grade 4 AEs (34% vs. 23%) in the trastuzumab combination arm compared to docetaxel monotherapy.
 
 For combination with capecitabine, the most frequent treatment-related undesirable effects (≥ 5%) reported in a phase III study in breast cancer patients failing anthracycline treatment are presented (see capecitabine summary of product characteristics).
-
 The following adverse reactions are frequently observed with docetaxel:
 
 Immune system disorders
@@ -33,6 +32,7 @@ Immune system disorders
 Hypersensitivity reactions have generally occurred within a few minutes following the start of the infusion of docetaxel and were usually mild to moderate.
 The most frequently reported symptoms were flushing, rash with or without pruritus, chest tightness, back pain, dyspnoea and fever or chills.
 Severe reactions were characterised by hypotension and/or bronchospasm or generalized rash/erythema (see section 4.4).
+
 Nervous system disorders
 
 The development of severe peripheral neurotoxicity requires a reduction of dose (see sections 4.2 and 4.4).
@@ -62,7 +62,8 @@ TAXOTERE 100 mg/m² single agent
 | Blood and lymphatic system disorders | Neutropenia (G4: 76.4%); Anaemia (G3/4: 8.9%); Febrile neutropenia | Thrombocytopenia (G4: 0.2%) |  |
 | Immune system disorders | Hypersensitivity (G3/4: 5.3%) |  |  |
 | Metabolism and nutrition disorders | Anorexia |  |  |
-| Nervous system disorders | Peripheral sensory neuropathy (G3: 4.1%); Peripheral motor neuropathy (G3/4: 4%); Dysgeusia (severe: 0.07%) |  |  |
+| Nervous system disorders | Peripheral sensory neuropathy (G3: 4.1%); Peripheral motor neuropathy (G3/4: 4%); Dysgeusia (severe: |  |  |
+|  | 0.07%) |  |  |
 | Cardiac disorders |  | Arrhythmia (G3/4: 0.7%) | Cardiac failure |
 | Vascular disorders |  | Hypotension; Hypertension; Haemorrhage |  |
 | Respiratory, thoracic and mediastinal disorders | Dyspnoea (severe: 2.7%) |  |  |
@@ -86,6 +87,7 @@ Very rare: one case of alopecia non-reversible at the end of the study.
 General disorders and administration site conditions
 The median cumulative dose to treatment discontinuation was more than 1,000 mg/m2 and the median time to fluid retention reversibility was 16.4 weeks (range 0 to 42 weeks).
 The onset of moderate and severe retention is delayed (median cumulative dose: 818.9 mg/m2) in patients with premedication compared with patients without premedication (median cumulative dose: 489.7 mg/m2); however, it has been reported in some patients during the early courses of therapy.
+
 TAXOTERE 75 mg/m² single agent
 
 MedDRA system organ classes Very common adverse Common adverse reactions
@@ -326,7 +328,7 @@ Adjuvant therapy with TAXOTERE 75 mg/m² in combination with doxorubicin and cyc
 
 | MedDRA System Organ classes | Very common adverse reactions | Common adverse reactions | Uncommon adverse reactions |
 | --- | --- | --- | --- |
-| Infections and infestations | Infection (G3/4: 2.4%); Neutropenic infection (G3/4: 2.7%) |  |  |
+| Infections and infestations | Infection (G3/4: 2.4%); Neutropenic infection (G3/4: 2.6%) |  |  |
 | Blood and lymphatic system disorders | Anaemia (G3/4: 3%); Neutropenia (G3/4: 59.2%); Thrombocytopenia (G3/4: 1.6%); Febrile neutropenia (G3/4: NA) |  |  |
 | Immune system disorders |  | Hypersensitivity (G3/4: 0.6%) |  |
 | Metabolism and nutrition disorders | Anorexia (G3/4: 1.5%) |  |  |
@@ -343,25 +345,31 @@ Adjuvant therapy with TAXOTERE 75 mg/m² in combination with doxorubicin and cyc
 | Investigations |  | Weight increased (G3/4: 0%); Weight decreased (G3/4: 0.2%) |  |
 
 Nervous system disorders
-Peripheral sensory neuropathy was observed to be ongoing during follow-up in 12 patients out of the 83 patients with peripheral sensory neuropathy at the end of the chemotherapy.
+Peripheral sensory neuropathy was observed to be ongoing during follow-up in10 patients out of the 84 patients with peripheral sensory neuropathy at the end of the chemotherapy in the node positive breast cancer study (TAX316).
 
 Cardiac disorders
-Congestive Heart Failure (CHF) has been reported in 18 of 1276 patiens during the follow-up period.
-In the node positive study (TAX316) one patient in each treatment arm died because of cardiac failure.
+In study TAX316, 26 patients (3.5%) in the TAC arm and 17 patients (2.3%) in the FAC arm experienced congestive heart failure.
+All except one patient in each arm were diagnosed with CHF more than 30 days after the treatment period.
+Two patients in the TAC arm and 4 patients in the FAC arm died because of cardiac failure.
 
 Skin and subcutaneous tissue disorders
-Alopecia was observed to be ongoing during follow-up in 25 patients out of the 736 patients with alopecia at the end of the chemotherapy.
+In study TAX316, alopecia persisting into the follow-up period after the end of chemotherapy was reported in 687 TAC patients and 645 FAC patients.
+At the end of the follow-up period, alopecia was observed to be ongoing in 29 TAC patients (4.2%) and 16 FAC patients (2.4%).
 
 Reproductive system and breast disorders
-Amenorrhoea was observed to be ongoing during follow-up in 140 patients out of the 251 patients with amenorrhoea at the end of the chemotherapy.
+Amenorrhoea was observed to be ongoing during follow-up in 121 patients out of the 202 patients with amenorrhoea at the end of the chemotherapy in study TAX316.
 
 General disorders and administration site conditions
-Peripheral oedema was observed to be ongoing during follow-up time in 18 patients out of the 112 patients with peripheral oedema at the end of the chemotherapy in study TAX 316, whereas lymphoedema was observed to be ongoing in 4 of the 5 patients with lymphoedema at the end of the chemotherapy in the study GEICAM 9805.
+In study TAX316, peripheral oedema was observed to be ongoing in19 patients out of the 119 patients with peripheral oedema in the TAC arm and 4 patients out of the 23 patients with peripheral oedema in the FAC arm.
+In study GEICAM 9805, lymphoedema was observed to be ongoing in 4 of the 5 patients with lymphoedema at the end of the chemotherapy.
 
 Acute leukaemia / Myelodysplastic syndrome.
+After 10 years of follow up in study TAX316, acute leukaemia was reported in 4 of 744 TAC patients and in 1 of 736 FAC patients.
+Myelodysplastic syndrome was reported in 2 of 744 TAC patients and in 1 of 736 FAC patients.
 At a median follow-up time of 77 months, acute leukaemia occurred in 1 of 532 (0.2%) patients who received docetaxel, doxorubicin, and cyclophosphamide in the GEICAM 9805 study.
 No cases were reported in patients who received fluorouracil, doxorubicin and cyclophosphamide.
 No patient was diagnosed with myelodysplastic syndrome in either treatment groups.
+Neutropenic complications
 Table below shows that the incidence of Grade 4 neutropenia, febrile neutropenia and neutropenic infection was decreased in patients who received primary G-CSF prophylaxis after it was made mandatory in the TAC arm - GEICAM study.
 
 Neutropenic complications in patients receiving TAC with or without primary G-CSF prophylaxis (GEICAM 9805)
@@ -411,6 +419,7 @@ Blood and lymphatic system disorders
 Febrile neutropenia and neutropenic infection occurred in 17.2% and 13.5% of patients respectively, regardless of G-CSF use.
 G-CSF was used for secondary prophylaxis in 19.3% of patients (10.7% of the cycles).
 Febrile neutropenia and neutropenic infection occurred respectively in 12.1% and 3.4% of patients when patients received prophylactic G-CSF, in 15.6% and 12.9% of patients without prophylactic G-CSF (see section 4.2).
+
 TAXOTERE 75 mg/m² in combination with cisplatin and 5-fluorouracil for Head and Neck cancer
 
 - Induction chemotherapy followed by radiotherapy (TAX 323)
@@ -453,6 +462,8 @@ Dyspepsia;
 Gastrointestinal
 haemorrhage (G3/4:
 0.6%)
+MedDRA ystem organ Very common adverse Common adverse Uncommon adverse
+classes reactions reactions reactions
 Skin and subcutaneous Alopecia (G3/4: 10.9%) Rash pruritic;
 tissue disorders Dry skin;
 Skin exfoliative (G3/4:
@@ -498,6 +509,8 @@ disorders (G3/4: 1.2%)
 Cardiac disorders Arrhythmia (G3/4: Ischemia myocardial
 2.0%)
 Vascular disorders Venous disorder
+MedDRA system Very common adverse Common adverse Uncommon adverse
+organ classes reactions reactions reactions
 Gastrointestinal Nausea (G3/4: 13.9%); Dyspepsia (G3/4:
 disorders Stomatitis (G3/4: 0.8%);
 20.7%); Gastrointestinal pain
@@ -545,7 +558,6 @@ Cases of lacrimation with or without conjunctivitis, as cases of lacrimal duct o
 
 Ear and labyrinth disorders
 Rare cases of ototoxicity, hearing impaired and/or hearing loss have been reported.
-
 Cardiac disorders
 Rare cases of myocardial infarction have been reported.
 
@@ -575,18 +587,13 @@ Dehydration and pulmonary oedema have rarely been reported.
 
 [TAXOTERE 80 mg/2 ml concentrate and solvent for solution for infusion]
 
-Table below shows that the incidence of Grade 4 neutropenia, febrile neutropenia and neutropenic infection was decreased in patients who received primary G-CSF prophylaxis after it was made mandatory in the TAC arm. – GEICAM study.
+Peripheral sensory neuropathy was observed to be ongoing during follow-up in 10 patients out of the 84 patients with peripheral sensory neuropathy at the end of the chemotherapy in the node positive breast cancer study (TAX316).
 
-| Immune system disorders | Hypersensitivity (G3/4: 1.7%) |  |
-| --- | --- | --- |
-| Metabolism and nutrition disorders | Anorexia (G3/4: 11.7%) |  |
-| Nervous system disorders | Peripheral sensory neuropathy (G3/4: 8.7%) | Dizziness (G3/4: 2.3%); Peripheral motor neuropathy (G3/4: 1.3%) |
-| Eye disorders |  | Lacrimation increased (G3/4: 0%) |
-| Ear and labyrinth disorders |  | Hearing impaired (G3/4: 0%) |
-| Cardiac disorders |  | Arrhythmia (G3/4: 1.0%) |
-| Gastrointestinal disorders | Diarrhoea (G3/4: 19.7%); Nausea (G3/4: 16%); Stomatitis (G3/4: 23.7%); Vomiting (G3/4: 14.3%) | Constipation (G3/4: 1.0%); Gastrointestinal pain (G3/4: 1.0%); Oesophagitis/dysphagia/odynop hagia (G3/4: 0.7%) |
-| Skin and subcutaneous tissue disorders | Alopecia (G3/4: 4.0%) | Rash pruritus (G3/4: 0.7%); Nail disorders (G3/4: 0.7%); Skin exfoliation (G3/4: 0%) |
-| General disorders and administration site conditions | Lethargy (G3/4: 19.0%); Fever (G3/4: 2.3%); Fluid retention (severe/life-threatening: 1%) |  |
+In study TAX316, alopecia persisting into the follow-up period after the end of chemotheraphy was reported in 687 TAC patients and 645 FAC patients.
+
+In study TAX 316, peripheral oedema was observed to be ongoing in 19 patients out of the 119 patients with peripheral oedema in the TAC arm and 4 patients out of the 23 patients with peripheral oedema in the FAC arm.
+
+Table below shows that the incidence of Grade 4 neutropenia, febrile neutropenia and neutropenic infection was decreased in patients who received primary G-CSF prophylaxis after it was made mandatory in the TAC arm. – GEICAM study.
 
 [TAXOTERE 20 mg/1 ml concentrate for solution for infusion]
 
@@ -630,6 +637,8 @@ phosphatase increased
 G3/4 AST increased
 (< 3%);
 G3/4 ALT increased
+
+In study TAX316, peripheral oedema was observed to be ongoing in 19 patients out of the 119 patients with peripheral oedema in the TAC arm and 4 patients out of the 23 patients with peripheral oedema in the FAC arm.
 
 Fluid retention (severe/life-
 threatening: 1%)

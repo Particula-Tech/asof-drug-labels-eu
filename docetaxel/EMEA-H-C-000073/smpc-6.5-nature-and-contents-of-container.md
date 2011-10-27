@@ -47,7 +47,7 @@ Not all pack sizes may be marketed.
 
 [TAXOTERE 80 mg/4 ml concentrate for solution for infusion]
 
-7 ml clear glass (type I) vial with a red aluminium seal and a magenta plastic flip-off cap containing 4 ml of concentrate.
+7 ml clear glass (type I) vial with a magenta aluminium seal and a magenta plastic flip-off cap containing 4 ml of concentrate.
 
 [TAXOTERE 160 mg/8 ml concentrate for solution for infusion.]
 

@@ -67,14 +67,20 @@ Contraceptive measures must be taken by both men and women during treatment and 
 Additional cautions for use in adjuvant treatment of breast cancer
 Complicated neutropenia
 For patients who experience complicated neutropenia (prolonged neutropenia, febrile neutropenia or infection), G-CSF and dose reduction should be considered (see section 4.2).
+
 Gastrointestinal reactions
 Symptoms such as early abdominal pain and tenderness, fever, diarrhoea, with or without neutropenia, may be early manifestations of serious gastrointestinal toxicity and should be evaluated and treated promptly.
-Congestive heart failure
+
+Congestive heart failure (CHF)
 Patients should be monitored for symptoms of congestive heart failure during therapy and during the follow up period.
+In patients treated with the TAC regimen for node positive breast cancer, the risk of CHF has been shown to be higher during the first year after treatment (see sections 4.8 and 5.1).
+
 Leukaemia
 In the docetaxel, doxorubicin and cyclophosphamide (TAC) treated patients, the risk of delayed myelodysplasia or myeloid leukaemia requires haematological follow-up.
+
 Patients with 4+ nodes
-The benefit/risk ratio for TAC in patients with 4+ nodes was not defined fully at the interim analysis (see section 5.1).
+As the benefit observed in patient with 4+ nodes was not statistically significant on disease-free survival (DFS) and overall survival (OS), the positive benefit/risk ratio for TAC in patients with 4+ nodes was not fully demonstrated at the final analysis (see section 5.1).
+
 Elderly
 There are limited data available in patients > 70 years of age on docetaxel use in combination with doxorubicin and cyclophosphamide.
 
