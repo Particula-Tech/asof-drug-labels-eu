@@ -1,4 +1,4 @@
-# 4.6 Pregnancy and lactation
+# 4.6 Fertility, pregnancy and lactation
 
 While no controlled clinical trials have been conducted on the use of oseltamivir in pregnant women, there is limited data available from post-marketing and retrospective observational surveillance reports.
 These data in conjunction with animal studies do not indicate direct or indirect harmful effects with respect to pregnancy, embryonal/foetal or postnatal development (see section 5.3).

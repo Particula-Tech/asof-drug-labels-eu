@@ -6,7 +6,6 @@ Talc
 Povidone
 Croscarmellose sodium
 Sodium stearyl fumarate
-
 Capsule shell:
 Gelatin
 Yellow iron oxide (E172)

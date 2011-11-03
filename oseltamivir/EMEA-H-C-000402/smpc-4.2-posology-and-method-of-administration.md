@@ -7,7 +7,7 @@ Tamiflu capsules and Tamiflu suspension are bioequivalent formulations.
 - one 30 mg capsule plus one 45 mg capsule or
 - by administering one 30 mg dose plus one 45 mg dose of suspension.
 
-Adults, adolescents or children ( 1 year of age or older) who are unable to swallow capsules may receive appropriate doses of Tamiflu suspension.
+Adults, adolescents or children (1 year of age or older) who are unable to swallow capsules may receive appropriate doses of Tamiflu suspension.
 
 For infants below 1 year of age: In the absence of a suitable formulation, a pharmacy compounded preparation should preferentially be used as the syringe provided in the Tamiflu 12 mg/ml powder for oral suspension pack (with mg markings) does not allow for appropriate dose adjustments and commercially available syringes (with ml markings) may lead to unacceptable dosing inaccuracies (see below 4.2).
 
@@ -319,7 +319,7 @@ Children
 There is insufficient clinical data available in children with renal impairment to be able to make any dosing recommendation.
 
 Immunocompromised patients
-Longer duration of seasonal prophylaxis up to 12 weeks has been evaluated in immunocompromised subjects (see sections 4.4, 4.8 and 5.1).
+Longer duration of seasonal prophylaxis up to 12 weeks has been evaluated in immunocompromised patients (see sections 4.4, 4.8 and 5.1).
 
 [Tamiflu 45 mg hard capsule.]
 
@@ -334,8 +334,6 @@ Children who are able to swallow capsules may receive prevention with Tamiflu ca
 | ≤ 10 (ml/min) | Not recommended (no data available) |
 | Hemodialysis patients | 30 mg after every second hemodialysis session |
 | Peritoneal dialysis patients* | 30 mg (suspension or capsules) once weekly |
-
-TLonger duration of seasonal prophylaxis up to 12 weeks has been evaluated in immunocompromised subjects (see sections 4.4, 4.8 and 5.1).
 
 [Tamiflu 75 mg hard capsule.]
 
@@ -371,4 +369,4 @@ It is recommended that Tamiflu powder for oral suspension be constituted by a ph
 
 Children weighing > 40 kg and who are able to swallow capsules may receive prophylaxis with a 75 mg capsule once daily for 10 days as an alternative to the recommended dose of Tamiflu suspension.
 
-� For infants below below 1 year of age: This formulation (Tamiflu 12 mg/ml powder for oral suspension) is unsuitable since the syringe provided in the pack (with mg markings) does not allow for appropriate dose adjustments and the use of syringes with ml markings may lead to unacceptable dosing inaccuracies.
+� For infants below 1 year of age: This formulation (Tamiflu 12 mg/ml powder for oral suspension) is unsuitable since the syringe provided in the pack (with mg markings) does not allow for appropriate dose adjustments and the use of syringes with ml markings may lead to unacceptable dosing inaccuracies.
