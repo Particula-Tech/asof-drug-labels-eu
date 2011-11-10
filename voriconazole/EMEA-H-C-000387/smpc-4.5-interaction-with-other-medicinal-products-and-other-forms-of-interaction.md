@@ -63,6 +63,7 @@ Dose reduction of methadone may be needed.
 
 Short Acting Opiates (CYP3A4 substrate): Steady-state administration of oral voriconazole increased the AUCτ of a single dose of alfentanil by 6-fold.
 Reduction in the dose of alfentanil and other short acting opiates similar in structure to alfentanil and metabolised by CYP3A4 (e.g. fentanyl and sufentanil), should be considered when coadministered with voriconazole (see section 4.4).
+
 Fentanyl (CYP3A4 substrate): In an independent published study, concomitant use of voriconazole (400 mg every 12 hours on Day 1, then 200 mg every 12 hours on Day 2) with a single intravenous dose of fentanyl (5 µg/kg) resulted in an increase in the mean AUC 0-∞ of fentanyl by 1.34-fold (range 1.12-1.60-fold).
 When voriconazole is co-administered with fentanyl, extended and frequent monitoring of patients for respiratory depression and other fentanyl-associated adverse events is recommended, and fentanyl dosage should be reduced if warranted.
 

@@ -15,6 +15,7 @@ Voriconazole is rapidly and almost completely absorbed following oral administra
 The absolute bioavailability of voriconazole after oral administration is estimated to be 96 %.
 When multiple doses of voriconazole are administered with high fat meals, Cmax and AUCτ are reduced by 34 % and 24 %, respectively.
 The absorption of voriconazole is not affected by changes in gastric pH.
+
 Distribution
 The volume of distribution at steady state for voriconazole is estimated to be 4.6 l/kg, suggesting extensive distribution into tissues.
 Plasma protein binding is estimated to be 58 %.
@@ -43,6 +44,7 @@ The majority (> 94%) of the total radioactivity is excreted in the first 96 hour
 
 The terminal half-life of voriconazole depends on dose and is approximately 6 hours at 200 mg (orally).
 Because of non-linear pharmacokinetics, the terminal half-life is not useful in the prediction of the accumulation or elimination of voriconazole.
+
 Pharmacokinetic-Pharmacodynamic relationships
 In 10 therapeutic studies, the median for the average and maximum plasma concentrations in individual subjects across the studies was 2425 ng/ml (inter-quartile range 1193 to 4380 ng/ml) and 3742 ng/ml (inter-quartile range 2027 to 6302 ng/ml), respectively.
 A positive association between mean, maximum or minimum plasma voriconazole concentration and efficacy in therapeutic studies was not found.

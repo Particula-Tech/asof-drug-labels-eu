@@ -3,7 +3,6 @@
 The safety profile of voriconazole is based on an integrated safety database of more than 2000 subjects (1655 patients in therapeutic trials).
 This represents a heterogeneous population, containing patients with haematological malignancy, HIV infected patients with oesophageal candidiasis and refractory fungal infections, non-neutropenic patients with candidaemia or aspergillosis and healthy volunteers.
 Five hundred and sixty one patients had a duration of voriconazole therapy of greater than 12 weeks, with 136 patients receiving voriconazole for over 6 months.
-
 In the table below, since the majority of the studies were of an open nature all causality adverse events, by system organ class and frequency (very common ≥1/10, common ≥1/100 and <1/10, uncommon ≥1/1000 and <1/100, rare, ≥1/10 000 and <1/1000 and very rare, <1/10 000 if possibly causally related are listed.
 
 Within each frequency grouping, undesirable effects are presented in order of decreasing seriousness.
@@ -20,7 +19,7 @@ Undesirable effects reported in subjects receiving voriconazole:
 | Common | Gastroenteritis, influenza-like illness |
 | Rare | Pseudomembranous colitis |
 | Blood and Lymphatic system disorders |  |
-| Common | Pancytopenia, bone marrow depression, leukopenia, thrombocytopenia, anaemia, purpura, |
+| Common | Pancytopenia, bone marrow depression, leukopenia, thrombocytopenia, anaemia, purpura |
 | Uncommon | Disseminated intravascular coagulation, agranulocytosis, lymphadenopathy, eosinophilia |
 | Immune system disorders |  |
 | Common | Sinusitis |
@@ -109,7 +108,6 @@ The majority of abnormal liver function tests either resolved during treatment w
 
 Voriconazole has been infrequently associated with cases of serious hepatic toxicity in patients with other serious underlying conditions.
 This includes cases of jaundice, and rare cases of hepatitis and hepatic failure leading to death (see section 4.4).
-
 Paediatric Use
 The safety of voriconazole was investigated in 245 paediatric patients aged 2 to <12 years who were treated with voriconazole in pharmacokinetic studies (87 paediatric patients) and in compassionate use programs (158 paediatric patients).
 The adverse event profile of these 245 paediatric patients was similar to that in adults, although post-marketing data suggest there might be a higher occurrence of skin reactions (esp. erythema) in the paediatric population compared to adults.
@@ -153,7 +151,7 @@ There have been post-marketing reports of pancreatitis in paediatric patients.
 | Uncommon | Ventricular fibrillation, ventricular arrhythmia, syncope, supraventricular arrhythmia, supraventricular tachycardia, tachycardia, bradycardia |
 | Rare | Torsades de pointes, ventricular tachycardia, atrioventricular complete block, bundle branch block, nodal rhythm |
 | Vascular disorders |  |
-| Common | Thrombophlebitis, Hypotension, phlebitis |
+| Common | Thrombophlebitis, hypotension, phlebitis |
 | Rare | Lymphangitis |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Common | Acute respiratory distress syndrome, pulmonary oedema, respiratory distress, chest pain |
@@ -214,11 +212,10 @@ Uncommon Brain oedema, ataxia, diplopia, vertigo, hypoaesthesia
 Rare Convulsion, encephalopathy, Guillain-Barre syndrome,
 extrapyramidal symptoms, somnolence during infusion,
 peripheral neuropathy
-Eye disorders
-Very common Visual disturbances (including blurred vision (see Section
 
-|  | 4.4), chromotopsia and photophobia) |
+| Eye disorders |  |
 | --- | --- |
+| Very common | Visual disturbances (including blurred vision (see Section 4.4), chromotopsia and photophobia) |
 | Uncommon | Papilloedema (se Section 4.4), optic nerve disorder (including optic neuritis, see Section 4.4), nystagmus, scleritis, blepharitis |
 | Rare | Optic atrophy, Retinal haemorrhage, oculogyration, corneal opacity |
 | Ear and labyrinth disorders |  |
@@ -228,7 +225,7 @@ Very common Visual disturbances (including blurred vision (see Section
 | Uncommon | Ventricular fibrillation, ventricular arrhythmia, syncope, supraventricular arrhythmia, supraventricular tachycardia, tachycardia, bradycardia |
 | Rare | Torsades de pointes, ventricular tachycardia, atrioventricular complete block, bundle branch block, nodal rhythm |
 | Vascular disorders |  |
-| Common | Thrombophlebitis, Hypotension, phlebitis |
+| Common | Thrombophlebitis, hypotension, phlebitis |
 | Rare | Lymphangitis |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Common | Acute respiratory distress syndrome, pulmonary oedema, respiratory distress, chest pain |
@@ -301,7 +298,7 @@ Symptoms appeared immediately upon initiating the infusion (see also section 4.4
 | Uncommon | Ventricular fibrillation, ventricular arrhythmia, syncope, supraventricular arrhythmia, supraventricular tachycardia, tachycardia, bradycardia |
 | Rare | Torsades de pointes, ventricular tachycardia, atrioventricular complete block, bundle branch block, nodal rhythm |
 | Vascular disorders |  |
-| Common | Thrombophlebitis, Hypotension, phlebitis |
+| Common | Thrombophlebitis, hypotension, phlebitis |
 | Rare | Lymphangitis |
 | Respiratory, thoracic and mediastinal disorders |  |
 | Common | Acute respiratory distress syndrome, pulmonary oedema, respiratory distress, chest pain |
@@ -331,9 +328,7 @@ Symptoms appeared immediately upon initiating the infusion (see also section 4.4
 | Common | Injection site reaction / inflammation, chills, asthenia, |
 | Investigations |  |
 | Common | Elevated liver function tests (including ASAT, ALAT, alkaline phosphatase, GGT, LDH, bilirubin), blood creatinine increased |
-
-Uncommon Electrocardiogram QT corrected interval prolonged, blood
-urea increased, blood cholesterol increased
+| Uncommon | Electrocardiogram QT corrected interval prolonged, blood urea increased, blood cholesterol increased |
 
 Altered taste perception
 In the combined data from three bioequivalence studies using the powder for oral suspension formulation, treatment related taste perversion was recorded in 12 (14 %) of subjects.

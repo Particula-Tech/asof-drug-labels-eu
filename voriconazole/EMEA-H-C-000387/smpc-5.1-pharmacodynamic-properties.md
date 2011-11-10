@@ -1,6 +1,7 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: ATC code: J02A C03 Antimycotics for Systemic Use – Triazole derivatives
+
 Mechanism of action
 In vitro, voriconazole displays broad-spectrum antifungal activity with antifungal potency against Candida species (including fluconazole resistant C. krusei and resistant strains of C. glabrata and
 C. albicans) and fungicidal activity against all Aspergillus species tested.
@@ -15,6 +16,7 @@ Alternaria spp., Blastomyces dermatitidis, Blastoschizomyces capitatus, Cladospo
 Trichosporon spp. including T. beigelii infections.
 
 In vitro activity against clinical isolates has been observed for Acremonium spp., Alternaria spp., Bipolaris spp., Cladophialophora spp., Histoplasma capsulatum, with most strains being inhibited by concentrations of voriconazole in the range 0.05 to 2µg/ml.
+
 In vitro activity against the following pathogens has been shown, but the clinical significance is unknown: Curvularia spp. and Sporothrix spp.
 
 Specimens for fungal culture and other relevant laboratory studies (serology, histopathology) should be obtained prior to therapy to isolate and identify causative organisms.
@@ -47,6 +49,7 @@ Aspergillus infections – efficacy in aspergillosis patients with poor prognosi
 The efficacy and survival benefit of voriconazole versus conventional amphotericin B in the primary treatment of acute invasive aspergillosis was demonstrated in an open, randomised, multicentre study in 277 immunocompromised patients treated for 12 weeks.
 A satisfactory global response (complete or partial resolution of all attributable symptoms signs, radiographic/bronchoscopic abnormalities present at baseline) was seen in 53 % of voriconazole-treated patients compared to 31 % of patients treated with comparator.
 The 84-day survival rate for voriconazole was statistically significantly higher than that for the comparator and a clinically and statistically significant benefit was shown in favour of voriconazole for both time to death and time to discontinuation due to toxicity.
+
 This study confirmed findings from an earlier, prospectively designed study where there was a positive outcome in subjects with risk factors for a poor prognosis, including graft versus host disease, and, in particular, cerebral infections (normally associated with almost 100 % mortality).
 
 The studies included cerebral, sinus, pulmonary and disseminated aspergillosis in patients with bone marrow and solid organ transplants, haematological malignancies, cancer and AIDS.
@@ -80,9 +83,9 @@ The clinical efficacy data were supported by limited susceptibility data.
 
 Scedosporium and Fusarium infections
 Voriconazole was shown to be effective against the following rare fungal pathogens:
-
 Scedosporium spp.: Successful response to voriconazole therapy was seen in 16 (6 complete, 10 partial responses) of 28 patients with S. apiospermum and in 2 (both partial responses) of 7 patients with S. prolificans infection.
 In addition, a successful response was seen in 1 of 3 patients with infections caused by more than one organism including Scedosporium spp.
+
 Fusarium spp.: Seven (3 complete, 4 partial responses) of 17 patients were successfully treated with voriconazole.
 Of these 7 patients, 3 had eye, 1 had sinus, and 3 had disseminated infection.
 Four additional patients with fusariosis had an infection caused by several organisms; two of them had a successful outcome.
