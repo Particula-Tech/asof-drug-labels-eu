@@ -2,6 +2,10 @@
 
 Victoza should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis.
 
+Victoza is not a substitute for insulin.
+
+The addition of liraglutide in patients already treated with insulin has not been evaluated and is therefore not recommended.
+
 There is limited experience in patients with congestive heart failure New York Heart Association (NYHA) class I-II.
 There is no experience in patients with congestive heart failure NYHA class III-IV.
 
@@ -18,5 +22,5 @@ Thyroid adverse events, including increased blood calcitonin, goitre and thyroid
 Patients receiving Victoza in combination with a sulphonylurea may have an increased risk of hypoglycaemia (see section 4.8).
 The risk of hypoglycaemia can be lowered by a reduction in the dose of sulphonylurea.
 
-Sign and symptoms of dehydration, including altered renal function have been reported in patients treated with Victoza.
-Patients treated with Victoza should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion
+Signs and symptoms of dehydration, including altered renal function have been reported in patients treated with Victoza.
+Patients treated with Victoza should be advised of the potential risk of dehydration in relation to gastrointestinal side effects and take precautions to avoid fluid depletion.

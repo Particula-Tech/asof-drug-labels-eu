@@ -21,14 +21,15 @@ Table 1 Adverse reactions identified from long-term controlled phase III studies
 | Adverse reaction | Frequency of adverse reaction by treatment group |  |  |  |
 | --- | --- | --- | --- | --- |
 |  | Liraglutide with metformin | Liraglutide with glimepiride | Liraglutide with metformin and glimepiride | Liraglutide with metformin and rosiglitazone |
-| Infections and infestations |  |  |  |  |
+| Infections and |  |  |  |  |
+|  | Liraglutide with metformin | Liraglutide with glimepiride | Liraglutide with metformin and glimepiride | Liraglutide with metformin and rosiglitazone |
+| infestations |  |  |  |  |
 | Nasopharyngitis |  | Common |  | Common |
 | Bronchitis |  |  | Common |  |
 | Metabolism and nutrition disorders |  |  |  |  |
 | Hypoglycaemia |  | Common | Very common | Common |
 | Anorexia | Common | Common | Common | Common |
 | Appetite decreased | Common |  |  | Common |
-|  | Liraglutide with metformin | Liraglutide with glimepiride | Liraglutide with metformin and glimepiride | Liraglutide with metformin and rosiglitazone |
 | Nervous system disorders |  |  |  |  |
 | Headache | Very common |  | Common | Common |
 | Dizziness | Common |  |  |  |
@@ -89,4 +90,4 @@ Few cases (<0.2%) of acute pancreatitis have been reported during long-term clin
 Thyroid events
 The overall rates of thyroid adverse events in all intermediate and long-term trials are 33.5, 30.0 and 21.7 events per 1000 subject years of exposure for total liraglutide, placebo and total comparators; 5.4, 2.1 and 1.2 events, respectively concern serious thyroid adverse events.
 Thyroid neoplasms, increased blood calcitonin and goiters were the most frequently thyroid adverse events.
-The rates per 1000 subject years of exposure were 6.8, 10.9 and 5.4 of liraglutide treated patients in comparison with 6.4, 10.7 and 2.1 of placebo treated and 2.4, 6.0 and 1.8 of total comparator treated patients respectively.
+The rates per 1,000 subject years of exposure were 6.8, 10.9 and 5.4 of liraglutide treated patients in comparison with 6.4, 10.7 and 2.1 of placebo treated and 2.4, 6.0 and 1.8 of total comparator treated patients respectively.

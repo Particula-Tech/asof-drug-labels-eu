@@ -28,9 +28,14 @@ These studies included 3,978 exposed patients with type 2 diabetes (2,501 subjec
 
 There was an additional open-label randomised controlled study comparing liraglutide with exenatide.
 
+In a 52 week clinical trial, the addition of insulin detemir to Victoza 1.8 mg and metformin in patients not achieving glycemic targets on Victoza and metformin alone, resulted in a HbA1c decrease from baseline of 0.54%, compared to 0.20% in the Victoza 1.8 mg and metformin control group.
+Weight loss was sustained.
+There was a small increase in the rate of minor hypoglycaemic episodes
+(0.23 versus 0.03 events per subject years).
+The addition of liraglutide in patients already treated with insulin has not been evaluated (see section 4.4).
+
 Glycaemic control
 Victoza in combination therapy, for 26 weeks, with metformin, glimepiride or metformin and rosiglitazone resulted in statistically significant (p<0.0001) and sustained reductions in HbA1c compared with patients receiving placebo (Tables 2 and 3).
-
 Table 2 Results of two 26 week trials.
 Victoza in combination with metformin and Victoza in combination with glimepiride.
 
