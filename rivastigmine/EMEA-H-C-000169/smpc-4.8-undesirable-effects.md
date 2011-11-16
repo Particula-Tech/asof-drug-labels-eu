@@ -198,6 +198,8 @@ Common Nausea, vomiting, diarrhoea, dyspepsia, abdominal pain
 Uncommon Gastric ulcer
 Not known Pancreatitis
 
+Not known Hepatitis, elevated liver function tests
+
 Common Rash
 Not known Pruritus, erythema, urticaria, vesicles, allergic dermatitis
 

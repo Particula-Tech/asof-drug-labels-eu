@@ -16,7 +16,6 @@ The efficacy of rivastigmine has been established through the use of three indep
 These include the ADAS-Cog (a performance based measure of cognition), the CIBIC-Plus (a comprehensive global assessment of the patient by the physician incorporating caregiver input), and the PDS (a caregiver-rated assessment of the activities of daily living including personal hygiene, feeding, dressing, household chores such as shopping, retention of ability to orient oneself to surroundings as well as involvement in activities relating to finances, etc.).
 
 The patients studied had an MMSE (Mini-Mental State Examination) score of 10–24.
-
 The results for clinically relevant responders pooled from two flexible dose studies out of the three pivotal 26-week multicentre studies in patients with mild-to-moderately severe Alzheimer’s Dementia, are provided in Table 4 below.
 Clinically relevant improvement in these studies was defined a priori as at least 4-point improvement on the ADAS-Cog, improvement on the CIBIC-Plus, or at least a 10% improvement on the PDS.
 
@@ -24,6 +23,7 @@ In addition, a post-hoc definition of response is provided in the same table.
 The secondary definition of response required a 4-point or greater improvement on the ADAS-Cog, no worsening on the CIBIC-Plus, and no worsening on the PDS.
 The mean actual daily dose for responders in the 6–12 mg group, corresponding to this definition, was 9.3 mg.
 It is important to note that the scales used in this indication vary and direct comparisons of results for different therapeutic agents are not valid.
+
 Table 4
 
 |  | Patients with Clinically Significant Response (%) |  |  |  |
@@ -36,7 +36,6 @@ Table 4
 | At least 4 points improvement on ADAS-Cog with no worsening on CIBIC-Plus and PDS | 10* | 6 | 12** | 6 |
 
 *p<0.05, **p<0.01, ***p<0.001
-
 Clinical studies in dementia associated with Parkinson’s disease
 The efficacy of rivastigmine in dementia associated with Parkinson’s disease has been demonstrated in a 24-week multicentre, double-blind, placebo-controlled core study and its 24-week open-label extension phase.
 Patients involved in this study had an MMSE (Mini-Mental State Examination) score of 10–24.
