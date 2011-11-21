@@ -23,7 +23,7 @@ System Organ Adverse Drug Reactions
 Class
 Infections and infestations
 
-Uncommon Bronchitis, nasopharyngitis, sinusitis, fungal infection, viral infection,.
+Uncommon Bronchitis, nasopharyngitis, sinusitis, fungal infection, viral infection
 
 Metabolism and nutrition disorders
 
@@ -33,40 +33,49 @@ Uncommon Anorexia, decreased appetite, polydipsia
 Psychiatric disorders
 Very common Abnormal dreams, insomnia
 
-Uncommon Panic reaction, bradyphrenia, thinking abnormal, mood swings,
+Uncommon Panic reaction, dysphoria, bradyphrenia, thinking abnormal, restlessness,
 
-depression*, anxiety*, hallucinations*
+mood swings, depression*, anxiety*, hallucinations*, libido increased, libido decreased
 
-Not Known Suicidal ideation, psychosis, aggressive and irrational behaviour
+Not Known Suicidal ideation, psychosis, aggression, abnormal behaviour
 
 Nervous system disorders
 Very common Headache
 
 Common Somnolence, dizziness, dysgeusia
-Uncommon Tremor, coordination abnormal, dysarthria, hypertonia, restlessness,
+Uncommon Hypertonia, dysarthria, tremor, coordination abnormal, lethargy,
 
-dysphoria, hypoaesthesia, hypogeusia, lethargy, libido increased, libido decreased
+hypoaesthesia, hypogeusia
+
+Rare Cerebrovascular accident
+
 Eye disorders
 
 Uncommon Scotoma, scleral discolouration, eye pain, mydriasis, photophobia,
 
-myopia, lacrimation increased
-Cardiac disorders
-
-Uncommon Atrial fibrillation, palpitations
-Not Known Myocardial infarction
-
+System Organ Adverse Drug Reactions
+Class myopia, lacrimation increased
 Ear and labyrinth disorders
 
 Uncommon Tinnitus
 
+Cardiac disorders
+
+Uncommon Atrial fibrillation, palpitations, electrocardiogram ST segment
+
+depression, electrocardiogram T wave amplitude decreased, heart rate increased
+
+Not Known Myocardial infarction
+
+Vascular disorders
+
+Uncommon Blood pressure increased
+
 Respiratory, thoracic and mediastinal disorders
 
-Uncommon Dyspnoea, cough, hoarseness, pharyngolaryngeal pain, throat irritation,
+Uncommon Dyspnoea, cough, respiratory tract congestion, hoarseness,
 
-respiratory tract congestion, sinus congestion, post nasal drip,
-System Organ Adverse Drug Reactions
-Class rhinorrhoea, snoring
+pharyngolaryngeal pain, throat irritation, sinus congestion, post nasal drip, rhinorrhoea, snoring
 Gastrointestinal disorders
 Very common Nausea
 
@@ -82,7 +91,7 @@ Skin and subcutaneous tissue disorders
 Uncommon Rash generalised, erythema, pruritus, acne, hyperhidrosis, night sweats
 Not Known Severe cutaneous reactions, including Stevens Johnson Syndrome and
 
-Erythema Multiforme, angiodema
+Erythema Multiforme, angioedema
 Musculoskeletal and connective tissue disorders
 
 Uncommon Joint stiffness, muscle spasms, chest wall pain, costochondritis
@@ -103,15 +112,15 @@ Uncommon Chest discomfort, chest pain, pyrexia, feeling cold, asthenia, circadia
 rhythm sleep disorder, malaise, cyst
 Investigations
 
-Uncommon Blood pressure increased, electrocardiogram ST segment depression,
+Uncommon Liver function test abnormal, platelet count decreased, semen abnormal,
 
-electrocardiogram T wave amplitude decreased, heart rate increased, liver function test abnormal, platelet count decreased, weight increased, semen abnormal, C-reactive protein increased, blood calcium decreased
+C-reactive protein increased, blood calcium decreased, weight increased
 * frequencies are estimated from a post-marketing, observational cohort study
 
 [CHAMPIX 1 mg film-coated tablets]
 
-respiratory tract congestion, sinus congestion, post nasal drip, rhinorrhoea, snoring
+(all sentences already above)
 
 [CHAMPIX 0.5 mg film-coated tablets (SmPC 3)]
 
-(all sentences already above)
+myopia, lacrimation increased

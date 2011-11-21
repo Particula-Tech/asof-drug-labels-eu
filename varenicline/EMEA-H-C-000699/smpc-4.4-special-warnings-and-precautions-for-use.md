@@ -14,6 +14,10 @@ In many post-marketing cases, resolution of symptoms after discontinuation of va
 Depressed mood, rarely including suicidal ideation and suicide attempt, may be a symptom of nicotine withdrawal.
 In addition, smoking cessation, with or without pharmacotherapy, has been associated with exacerbation of underlying psychiatric illness (e.g. depression).
 
+Cardiovascular events
+In a trial of patients with stable cardiovascular disease (CVD) certain cardiovascular events were reported more frequently in patients treated with CHAMPIX (see section 5.1).
+Patients taking CHAMPIX should be instructed to notify their doctor of new or worsening cardiovascular symptoms and to seek immediate medical attention if they experience signs and symptoms of myocardial infarction.
+
 History of psychiatric illness
 The safety and efficacy of Champix in patients with serious psychiatric illness such as schizophrenia, bipolar disorder and major depressive disorder has not been established.
 Care should be taken with patients with a history of psychiatric illness and patients should be advised accordingly.
