@@ -16,3 +16,9 @@ Pink, ‘ovaloid’, slightly convex, scored on both sides, embossed ‘Є262’
 
 400 mg
 Pink, ‘ovaloid’, slightly convex, scored on both sides, embossed ‘Є263’ on one side and blank on the other side.
+
+[Inovelon 40 mg/ml oral suspension]
+
+Oral suspension.
+
+White slightly viscous suspension.

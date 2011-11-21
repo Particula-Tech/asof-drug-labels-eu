@@ -4,12 +4,12 @@ Absorption
 Maximum plasma levels are reached approximately 6 hours after administration.
 Peak concentration (Cmax) and plasma AUC of rufinamide increase less than proportionally with doses in both fasted and fed healthy subjects and in patients, probably due to dose-limited absorption behaviour.
 After single doses food increases the bioavailability (AUC) of rufinamide by approximately 34% and the peak plasma concentration by 56%.
+Inovelon oral suspension and Inovelon film coated tablets have been demonstrated to be bioequivalent.
 
 Distribution
 In in-vitro studies, only a small fraction of rufinamide (34%) was bound to human serum proteins with albumin accounting for approximately 80% of this binding.
-This indicates minimal risk of drug-drug interactions by displacement from binding sites during concomitant administration of other drugs.
+This indicates minimal risk of drug-drug interactions by displacement from binding sites during concomitant administration of other substances.
 Rufinamide was evenly distributed between erythrocytes and plasma.
-
 Biotransformation
 Rufinamide is almost exclusively eliminated by metabolism.
 The main pathway of metabolism is hydrolysis of the carboxylamide group to the pharmacologically inactive acid derivative CGP 47292.
@@ -21,8 +21,9 @@ Rufinamide has demonstrated little or no significant capacity in-vitro to act as
 Elimination
 The plasma elimination half-life is approximately 6-10 hours in healthy subjects and patients with epilepsy.
 When given twice daily at 12-hourly intervals, rufinamide accumulates to the extent predicted by its terminal half-life, indicating that the pharmacokinetics of rufinamide are time-independent (i.e. no autoinduction of metabolism).
+
 In a radiotracer study in three healthy volunteers, the parent compound (rufinamide) was the main radioactive component in plasma, representing about 80% of the total radioactivity, and the metabolite CGP 47292 constituting only about 15%.
-Renal excretion was the predominant route of elimination for drug related material, accounting for 84.7% of the dose.
+Renal excretion was the predominant route of elimination for active substance related material, accounting for 84.7% of the dose.
 
 Linearity/non-linearity:
 The bioavailability of rufinamide is dependent on dose.
@@ -35,10 +36,10 @@ Such evaluations indicate that sex does not affect the pharmacokinetics of rufin
 
 Renal impairment
 The pharmacokinetics of a single 400 mg dose of rufinamide were not altered in subjects with chronic and severe renal failure compared to healthy volunteers.
-However, plasma levels were reduced by approximately 30% when haemodialysis was applied after administration of rufinamide, suggesting that this may be a useful procedure in case of overdose (see Sections 4.2 and 4.9).
+However, plasma levels were reduced by approximately 30% when haemodialysis was applied after administration of rufinamide, suggesting that this may be a useful procedure in case of overdose (see sections 4.2 and 4.9).
 
 Hepatic impairment
-No studies have been performed in patients with hepatic impairment and therefore Inovelon should not be administered to patients with severe hepatic impairment.
+No studies have been performed in patients with hepatic impairment and therefore Inovelon should not be administered to patients with severe hepatic impairment(see section 4.2).
 
 Children (2-12 years)
 Children generally have lower clearance of rufinamide than adults, and this difference is related to body size.
@@ -46,3 +47,17 @@ Studies in new-born infants or infants and toddlers under 2 years of age have no
 
 Elderly
 A pharmacokinetic study in elderly healthy volunteers did not show a significant difference in pharmacokinetic parameters compared with younger adults.
+
+[Inovelon 200 mg film-coated tablets]
+
+No studies have been performed in patients with hepatic impairment and therefore Inovelon should not be administered to patients with severe hepatic impairment (see section 4.2).
+
+[Inovelon 400 mg film-coated tablets]
+
+(all sentences already above)
+
+[Inovelon 40 mg/ml oral suspension]
+
+After single doses, food increases the bioavailability (AUC) of rufinamide by approximately 34% and the peak plasma concentration by 56%.
+
+As dose increases, the bioavailability decreases.
