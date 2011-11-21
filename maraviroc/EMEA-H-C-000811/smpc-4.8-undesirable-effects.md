@@ -31,6 +31,7 @@ Clinically important adverse reactions of moderate intensity or more occurring a
 | Hepatobiliary disorders | Alanine aminotransferase increased, aspartate aminotransferase increased | common |
 |  | Hyperbilirubinaemia, gamma-glutamyltransferase increased | uncommon |
 |  | Hepatitis toxic, hepatic failure, hepatic cirrhosis, blood alkaline phosphatase increased | rare |
+|  | Hepatic failure with allergic features* | very rare |
 | Skin and subcutaneous tissue disorders | Rash | common |
 |  | Stevens-Johnson syndrome | rare |
 | Musculoskeletal and connective tissue disorders | Myositis, blood creatine phosphokinase increased | uncommon |
@@ -39,13 +40,13 @@ Clinically important adverse reactions of moderate intensity or more occurring a
 | General disorders and administration site conditions | Asthenia | common |
 
 N.B.
-Adverse reactions captured in table 3 were assessed as possibly related to study drug by investigators
+Adverse reactions from clinical trials in table 3 were assessed as possibly related to study drug by investigators
+* From spontaneous reporting during post marketing surveillance
 
 In HIV infected patients with severe immune deficiency at the time of initiation of combination antiretroviral therapy (CART), an inflammatory reaction to asymptomatic or residual opportunistic infections may arise (see section 4.4).
 
 Laboratory abnormalities
 Table 4 shows the incidence ≥1% of Grade 3-4 Abnormalities (ACTG Criteria) based on the maximum shift in laboratory test values without regard to baseline values.
-
 Table 4: Incidence ≥1% of grade 3-4 abnormalities (ACTG criteria) based on maximum shift in laboratory test values without regard to baseline studies MOTIVATE 1 and MOTIVATE 2 (pooled analysis, up to 48 weeks)
 
 | Laboratory parameter | Limit | Celsentri 300 mg twice daily + OBT N =421* (%) | OBT alone N =207* (%) |

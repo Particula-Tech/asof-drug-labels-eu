@@ -9,7 +9,6 @@ Maraviroc is a substrate for the efflux transporter P-glycoprotein.
 Coadministration of a 300 mg tablet with a high fat breakfast reduced maraviroc Cmax and AUC by 33% in healthy volunteers.
 There were no food restrictions in the studies that demonstrated the efficacy and safety of CELSENTRI (see section 5.1).
 Therefore, CELSENTRI can be taken with or without food at the recommended doses (see section 4.2).
-
 Distribution: maraviroc is bound (approximately 76%) to human plasma proteins, and shows moderate affinity for albumin and alpha-1 acid glycoprotein.
 The volume of distribution of maraviroc is approximately 194 L.
 
@@ -29,6 +28,7 @@ The remainder was excreted as metabolites.
 After intravenous administration (30 mg), the half-life of maraviroc was 13.2 h, 22% of the dose was excreted unchanged in the urine and the values of total clearance and renal clearance were 44.0 L/h and 10.17 L/h respectively.
 
 Children: the pharmacokinetics of maraviroc in paediatric patients have not been established (see section 4.2).
+
 Elderly: population analysis of the Phase 1/2a and Phase 3 studies (16-65 years of age) has been conducted and no effect of age has been observed (see section 4.2).
 
 Renal impairment: a study compared the pharmacokinetics of a single 300 mg dose of CELSENTRI in subjects with severe renal impairment (CLcr < 30 mL/min, n=6) and end stage renal disease (ESRD) to healthy volunteers (n=6).
@@ -43,7 +43,6 @@ Subjects received 150 mg of CELSENTRI at different dose frequencies (healthy vol
 The average concentration (Cavg) of CELSENTRI over 24 hours was 445.1 ng/mL, 338.3 ng/mL, and 223.7 ng/mL for subjects with normal renal function, mild renal impairment, and moderate renal impairment, respectively.
 The Cavg of CELSENTRI from 24-48 hours for subjects with moderate renal impairment was low (Cavg: 32.8 ng/mL).
 Therefore, dosing frequencies of longer than 24 hours in subjects with renal impairment may result in inadequate exposures between 24-48 hours.
-
 Dose adjustment is necessary in patients with renal impairment receiving CELSENTRI with potent CYP3A4 inhibitors (see sections 4.2 and 4.4 and 4.5).
 
 Hepatic impairment: maraviroc is primarily metabolized and eliminated by the liver.

@@ -1,7 +1,6 @@
 # 5.1 Pharmacodynamic properties
 
 Pharmacotherapeutic group: Antivirals for systemic use, Other Antivirals ATC code: J05AX09
-
 Mechanism of action:
 Maraviroc is a member of a therapeutic class called CCR5 antagonists.
 Maraviroc selectively binds to the human chemokine receptor CCR5, preventing CCR5-tropic HIV-1 from entering cells.
@@ -11,6 +10,7 @@ Maraviroc has no antiviral activity in vitro against viruses which can use CXCR4
 The serum adjusted EC90 value in 43 primary HIV-1 clinical isolates was 0.57 (0.06 – 10.7) ng/mL without significant changes between different subtypes tested.
 The antiviral activity of maraviroc against HIV-2 has not been evaluated.
 For details please refer to http://www.ema.europa.eu/htms/human/epar/eparintro.
+
 When used with other antiretroviral medicinal products in cell culture, the combination of maraviroc was not antagonistic with a range of NRTIs, NNRTIs, PIs or the HIV fusion inhibitor enfuvirtide.
 
 Resistance:
@@ -44,6 +44,7 @@ An analysis of tropism following failure of CELSENTRI therapy with CXCR4-using v
 
 At time of failure with CXCR4-using virus, the resistance pattern to other antiretrovirals appears similar to that of the CCR5-tropic population at baseline, based on available data.
 Hence, in the selection of a treatment regimen, it should be assumed that viruses forming part of the previously undetected CXCR4 -using population (i.e. minor viral population) harbours the same resistance pattern as the CCR5-tropic population.
+
 Failure with CCR5-tropic virus:
 Phenotypic resistance: in patients with CCR5-tropic virus at time of treatment failure with CELSENTRI, 22 out of 58 patients had virus with reduced sensitivity to maraviroc.
 In the remaining 36 patients, there was no evidence of virus with reduced sensitivity as identified by exploratory virology analyses on a representative group.
@@ -61,7 +62,6 @@ The clinical efficacy of CELSENTRI (in combination with other antiretroviral med
 Patients who were eligible for these studies had prior exposure to at least 3 antiretroviral medicinal product classes [≥1 nucleoside reverse transcriptase inhibitors (NRTI), ≥1 non-nucleoside reverse transcriptase inhibitors (NNRTI), ≥2 protease inhibitors (PI), and/or enfurvirtide] or documented resistance to at least one member of each class.
 Patients were randomised in a 2:2:1 ratio to CELSENTRI 300 mg (dose equivalence) once daily, twice daily or placebo in combination with an optimized background consisting of 3 to 6 antiretroviral medicinal products (excluding low-dose ritonavir).
 The OBT was selected on the basis of the subject’s prior treatment history and baseline genotypic and phenotypic viral resistance measurements.
-
 Table 5: Demographic and baseline characteristics of patients in studies MOTIVATE 1 and MOTIVATE 2 (Pooled Analysis)
 
 | Demographic and Baseline Characteristics | CELSENTRI 300 mg twice daily + OBT | OBT alone |
@@ -79,6 +79,7 @@ Table 5: Demographic and baseline characteristics of patients in studies MOTIVAT
 GeneSeq resistance assay
 
 Limited numbers of patients from ethnicities other than Caucasian were included in the pivotal clinical studies, therefore very limited data are available in these patient populations.
+
 The mean increase in CD4+ cell count from baseline in patients who failed with a change in tropism result to dual/mixed tropic or CXCR4, in the CELSENTRI 300 mg twice daily + OBT
 (+56 cells/mm3) group was greater than that seen in patients failing OBT alone (+13.8 cells/mm3) regardless of tropism.
 
@@ -112,6 +113,7 @@ Proportion of patients achieving <50 copies/mL at Week 48 by subgroup (pooled St
 
 1Discontinuations or virological failures considered as failures.
 2Based on GSS.
+
 Studies in Non-CCR5-tropic Treatment-Experienced Patients:
 Study A4001029 was an exploratory study in patients infected with dual/mixed or CXCR4 tropic HIV-1 with a similar design as the studies MOTIVATE 1 and MOTIVATE 2.
 In this study, neither superiority nor non-inferiority to OBT alone were demonstrated although there was no adverse outcome on viral load or CD4+ cell count

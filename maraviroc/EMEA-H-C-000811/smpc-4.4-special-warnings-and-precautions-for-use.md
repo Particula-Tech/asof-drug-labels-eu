@@ -45,10 +45,10 @@ Osteonecrosis: although the etiology is considered to be multifactorial (includi
 Patients should be advised to seek medical advice if they experience joint aches and pain, joint stiffness or difficulty in movement.
 
 Hepatic safety: the safety and efficacy of CELSENTRI have not been specifically studied in patients with significant underlying liver disorders.
-A case of possible CELSENTRI-induced hepatotoxicity with allergic features has been reported in a study in healthy volunteers.
+Cases of hepatotoxicity and hepatic failure with allergic features have been reported in association with CELSENTRI.
 In addition, an increase in hepatic adverse reactions with CELSENTRI was observed during studies of treatment-experienced subjects with HIV infection, although there was no overall increase in ACTG Grade 3/4 liver function test abnormalities (see section 4.8).
 Hepatobiliary disorders reported in treatment-naïve patients were uncommon and balanced between treatment groups (see section 4.8).Patients with pre-existing liver dysfunction, including chronic active hepatitis, can have an increased frequency of liver function abnormalities during combination antiretroviral therapy and should be monitored according to standard practice.
-Discontinuation of CELSENTRI should be considered in any patient with signs or symptoms of acute hepatitis, in particular if drug-related hypersensitivity is suspected or with increased liver transaminases combined with rash or other systemic symptoms of potential hypersensitivity (e.g. pruritic rash, eosinophila or elevated IgE).
+Discontinuation of CELSENTRI should be strongly considered in any patient with signs or symptoms of acute hepatitis, in particular if drug-related hypersensitivity is suspected or with increased liver transaminases combined with rash or other systemic symptoms of potential hypersensitivity (e.g. pruritic rash, eosinophila or elevated IgE).
 
 Since there are very limited data in patients with hepatitis B/C co-infection, special caution should be exercised when treating these patients with CELSENTRI.
 In case of concomitant antiviral therapy for hepatitis B and/or C, please refer also to the relevant product information for these medicinal products.
