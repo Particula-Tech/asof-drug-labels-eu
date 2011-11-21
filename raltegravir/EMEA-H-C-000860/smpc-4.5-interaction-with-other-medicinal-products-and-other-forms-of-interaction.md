@@ -13,7 +13,6 @@ The following drug interaction information is based on Geometric Mean values; th
 
 Effect of raltegravir on the pharmacokinetics of other medicinal products
 In interaction studies, raltegravir did not have a clinically meaningful effect on the pharmacokinetics of etravirine, maraviroc, tenofovir, hormonal contraceptives, methadone, or midazolam.
-
 Effect of other agents on the pharmacokinetics of raltegravir
 Given that raltegravir is metabolised primarily via UGT1A1, caution should be used when co-administering ISENTRESS with strong inducers of UGT1A1 (e.g., rifampicin).
 Rifampicin reduces plasma levels of raltegravir; the impact on the efficacy of raltegravir is unknown.

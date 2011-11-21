@@ -24,7 +24,6 @@ Sources of variability may include differences in co-administration with food an
 Distribution
 Raltegravir is approximately 83 % bound to human plasma protein over the concentration range of 2 to 10 µM.
 Raltegravir readily crossed the placenta in rats, but did not penetrate the brain to any appreciable extent.
-
 Metabolism and excretion
 The apparent terminal half-life of raltegravir is approximately 9 hours, with a shorter α-phase half-life (~1 hour) accounting for much of the AUC.
 Following administration of an oral dose of radiolabeled raltegravir, approximately 51 and 32 % of the dose was excreted in faeces and urine, respectively.

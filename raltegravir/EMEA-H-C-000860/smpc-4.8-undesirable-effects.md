@@ -40,15 +40,12 @@ Frequencies are defined as common (≥ 1/100 to < 1/10), uncommon (≥ 1/1,000 t
 | Hepato-biliary disorders | uncommon | hepatitis†, hepatic steatosis |
 | Skin and subcutaneous tissue disorders | common | rash‡ |
 |  | uncommon | acne, alopecia, dermatitis acneiforme, dry skin, erythema, facial wasting, hyperhidrosis, lipodystrophy acquired, lipohypertrophy, night sweats, prurigo, pruritus, pruritus generalised, rash macular, rash maculo-papular, rash pruritic, skin lesion, urticaria, xeroderma |
-|  | uncommon | Stevens Johnson syndrome‡‡ |
+|  | uncommon | Stevens Johnson syndrome‡‡, drug rash with eosinophilia and systemic symptoms (DRESS)‡‡ |
 | Musculoskeletal and connective tissue disorders | uncommon uncommon | arthralgia, arthritis, back pain, flank pain, musculoskeletal pain, myalgia, neck pain, osteopenia, pain in extremity, tendonitis rhabdomyolysis‡‡ |
 | Renal and urinary disorders | uncommon | renal failure†, nephritis, nephrolithiasis, nocturia, renal cyst, renal impairment, tubulointerstitial nephritis |
 | Reproductive system and breast disorders | uncommon | erectile dysfunction, gynaecomastia, menopausal symptoms |
 | General disorders and administration site conditions | common | asthenia, fatigue, pyrexia |
 |  | uncommon | chest discomfort, chills, face oedema, fat tissue increased, feeling jittery, malaise, oedema peripheral, pain |
-
-| System Organ Class | Frequency | Adverse reactions ISENTRESS (alone or in combination with other ART) |
-| --- | --- | --- |
 | Investigations | common | alanine aminotransferase increased, atypical lymphocytes, aspartate aminotransferase increased, blood triglycerides increased, lipase increased |
 |  | uncommon | absolute neutrophil count decreased, alkaline phosphatase increased, blood albumin decreased, blood amylase increased, blood bilirubin increased, blood cholesterol increased, blood creatinine increased, blood glucose increased, blood urea nitrogen increased, creatine phosphokinase increased, fasting blood glucose increased, glucose urine present, high density lipoprotein increased, low density lipoprotein decreased, low density lipoprotein increased, platelet count decreased, red blood cells urine positive, waist circumference increased, weight increased, white blood cell count decreased |
 | Injury, poisoning and procedural complications | uncommon | accidental overdose† |
@@ -64,7 +61,6 @@ Use with caution in patients who have had myopathy or rhabdomyolysis in the past
 
 Cases of osteonecrosis have been reported, particularly in patients with generally acknowledged risk factors, advanced HIV disease or long-term exposure to combination antiretroviral therapy (CART).
 The frequency of this is unknown (see section 4.4).
-
 Patients co-infected with hepatitis B and/or hepatitis C virus
 In Phase III studies, treatment-experienced patients (N = 114/699 or 16%; HBV=6 %, HCV=9 %, HBV+HCV=1 %) and treatment-naïve patients (N = 34/563 or 6 %; HBV=4%, HCV=2%, HBV+HCV=0.2 %) with chronic (but not acute) active hepatitis B and/or hepatitis C co-infection were permitted to enrol provided that baseline liver function tests did not exceed 5 times the upper limit of normal.
 In general the safety profile of ISENTRESS in patients with hepatitis B and/or hepatitis C virus co-infection was similar to that in patients without hepatitis B and/or hepatitis C virus co-infection, although the rates of AST and ALT abnormalities were somewhat higher in the subgroup with hepatitis B and/or hepatitis C virus co-infection for both treatment groups.

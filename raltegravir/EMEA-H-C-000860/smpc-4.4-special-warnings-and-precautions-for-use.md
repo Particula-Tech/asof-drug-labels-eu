@@ -36,6 +36,14 @@ However, if co-administration with rifampicin is unavoidable, a doubling of the 
 Myopathy and rhabdomyolysis have been reported.
 Use with caution in patients who have had myopathy or rhabdomyolysis in the past or have any predisposing issues including other medicinal products associated with these conditions (see section 4.8).
 
+Severe skin and hypersensitivity reactions
+Severe, potentially life-threatening, and fatal skin reactions have been reported in patients taking ISENTRESS, in most cases concomitantly with other drugs associated with these reactions.
+These include cases of Stevens-Johnson syndrome and toxic epidermal necrolysis.
+Hypersensitivity reactions have also been reported and were characterized by rash, constitutional findings, and sometimes, organ dysfunction, including hepatic failure.
+Discontinue ISENTRESS and other suspect agents immediately if signs or symptoms of severe skin reactions or hypersensitivity reactions develop (including, but not limited to, severe rash or rash accompanied by fever, general malaise, fatigue, muscle or joint aches, blisters, oral lesions, conjunctivitis, facial edema, hepatitis, eosinophilia, angioedema).
+Clinical status including liver aminotransferases should be monitored and appropriate therapy initiated.
+Delay in stopping ISENTRESS treatment or other suspect agents after the onset of severe rash may result in a life-threatening reaction.
+
 Rash occurred more commonly in treatment-experienced patients receiving regimens containing ISENTRESS + darunavir compared to patients receiving ISENTRESS without darunavir or darunavir without ISENTRESS (see section 4.8).
 
 ISENTRESS contains lactose.

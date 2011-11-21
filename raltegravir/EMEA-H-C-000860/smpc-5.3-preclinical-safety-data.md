@@ -5,7 +5,6 @@ Effects at exposure levels sufficiently in excess of clinical exposure levels in
 
 Mutagenicity
 No evidence of mutagenicity or genotoxicity was observed in in vitro microbial mutagenesis (Ames) tests, in vitro alkaline elution assays for DNA breakage and in vitro and in vivo chromosomal aberration studies.
-
 Carcinogenicity
 A carcinogenicity study of raltegravir in mice did not show any carcinogenic potential.
 At the highest dose levels, 400 mg/kg/day in females and 250 mg/kg/day in males, systemic exposure was similar to that at the clinical dose of 400 mg twice daily.
